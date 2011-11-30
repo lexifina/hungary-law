@@ -1,0 +1,1 @@
+270. § Hatályát veszti a Kkt. 81. § (1) bekezdésében, 85. § (2) bekezdésében, 87. § (1) bekezdésében, 88. § (2) bekezdésében, 91. § (1) bekezdésében, 92. § (2) bekezdésében, 94. § (3) bekezdésében, 95. § (2) bekezdésében a „– az OKKT egyetértésével –” szövegrész, a Kkt. 142. § (1) bekezdésében a „– a kamara oktatási bizottságának egyetértésével –” szövegrész.

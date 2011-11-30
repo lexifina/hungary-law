@@ -1,0 +1,1 @@
+375. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 12. § (2) bekezdésében „a magánszemély munkáltató” szövegrész helyébe „az Art. 31. § (2) bekezdése szerinti bevallásra elektronikusan kötelezettek” szöveg lép.

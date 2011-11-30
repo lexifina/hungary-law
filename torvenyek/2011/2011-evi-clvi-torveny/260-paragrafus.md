@@ -1,0 +1,3 @@
+260. § A Kkt. 9. §-a után a következő 9/A. §-sal egészül ki:
+
+„9/A. § A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségellenőrzése esetében hozott elsőfokú döntés ellen az ügyfél a miniszternél fellebbezhet. A fellebbezés során a 8–9. §-ban foglaltakat kell alkalmazni azzal az eltéréssel, hogy a kamara elnöksége helyett a minisztert, és a Magyar Könyvvizsgálói Kamara központi számlája helyett a miniszter által vezetett minisztérium Magyar Államkincstárnál vezetett számláját kell érteni.”

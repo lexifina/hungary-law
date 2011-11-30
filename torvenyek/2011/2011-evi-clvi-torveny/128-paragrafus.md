@@ -1,0 +1,3 @@
+128. § Az Áfa tv. 257. § (1) bekezdés helyébe a következő rendelkezés lép:
+
+„(1) Az adót önadózással megállapító, a (2) bekezdésben meghatározott adófizetésre kötelezett, akinek (amelynek) az adott adómegállapítási időszakban nincs olyan önadózással megállapítandó fizetendő adója, amelyről ellenkező esetben az állami adóhatóságnak bevallást kell tennie, illetve nincs az Art. szerinti összesítő nyilatkozat benyújtási kötelezettséget keletkeztető közösségi kereskedelemmel kapcsolatos ügylete, és adólevonásra nem jogosult vagy adólevonásra jogosult ugyan, de ugyanezen adómegállapítási időszakban adólevonási jogot nem gyakorol, mentesül az adott adómegállapítási időszakra vonatkozóan az Art. szerinti bevallástételi kötelezettség alól.”

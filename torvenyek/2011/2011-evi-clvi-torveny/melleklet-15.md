@@ -1,0 +1,1955 @@
+15. melléklet a 2011. évi CLVI. törvényhez
+
+„1. melléklet a 2011. évi LXXXV. törvényhez
+
+Termékdíjköteles termékek, anyagok köre
+
+Termékdíjköteles egy termék, ha az alábbi táblázatban meghatározott vámtarifaszámok alá tartozik és az adott termékdíjköteles termékcsoport e törvényben meghatározott fogalmának is megfelel.
+
+|
+
+|
+
+A
+
+|
+
+B
+
+|
+
+C
+
+|
+
+Megnevezés
+
+|
+
+Vámtarifaszám
+
+|
+
+Vámtarifaszám
+
+és HR alszám
+
+|
+
+KN alszám
+
+|
+
+1.
+
+|
+
+Gumiabroncsok
+
+|
+
+|
+
+|
+
+1.1.
+
+|
+
+Új gumi légabroncs, kivéve a 4011 50 00 alá tartozó termékeket
+
+|
+
+ex. 4011
+
+|
+
+|
+
+1.2.
+
+|
+
+Újrafutózott vagy használt gumi légabroncs; tömör vagy kisnyomású gumiabroncs, kivéve a 4012 90 30; 4012 90 90 alá tartozó termékeket
+
+|
+
+ex. 4012
+
+|
+
+|
+
+2.
+
+|
+
+Akkumulátorok
+
+|
+
+|
+
+|
+
+2.1.
+
+|
+
+Elektromos akkumulátorok a 8507 80 20 a 8507 80 30 és a 8507 90 kivételével
+
+|
+
+ex. 8507
+
+|
+
+|
+
+3.
+
+|
+
+Egyéb kőolajtermékek
+
+|
+
+|
+
+|
+
+3.1.
+
+|
+
+Kenőolaj
+
+|
+
+|
+
+|
+
+3.1.1.
+
+|
+
+Motorolaj, kompresszor-kenőolaj, turbina-kenőolaj
+
+|
+
+2710 19
+
+|
+
+81
+
+|
+
+3.1.2.
+
+|
+
+Hidraulikus célú folyadék
+
+|
+
+2710 19
+
+|
+
+83
+
+|
+
+3.1.3.
+
+|
+
+Fehérolaj, folyékony paraffin
+
+|
+
+2710 19
+
+|
+
+85
+
+|
+
+3.1.4.
+
+|
+
+Differenciálolaj és reduktorolaj
+
+|
+
+2710 19
+
+|
+
+87
+
+|
+
+3.1.5.
+
+|
+
+Keverék fémmegmunkáláshoz, formaleválasztó olaj, korróziógátló olaj
+
+|
+
+2710 19
+
+|
+
+91
+
+|
+
+3.1.6.
+
+|
+
+Villamosszigetelési olaj
+
+|
+
+2710 19
+
+|
+
+93
+
+|
+
+3.1.7.
+
+|
+
+Más kenőolaj és más olaj, kivéve kenőzsírok
+
+|
+
+ex. 2710 19
+
+|
+
+99
+
+|
+
+3.2.
+
+|
+
+Textil, bőr, szőrme és más anyagok kezelésére használt készítmények
+
+|
+
+3403 11
+
+|
+
+00
+
+|
+
+3.3.
+
+|
+
+Legalább 70 tömegszázalék kőolaj- vagy bitumenes ásványokból előállított olajtartalommal, de nem fő alkotóként
+
+|
+
+3403 19
+
+|
+
+10
+
+|
+
+3.4.
+
+|
+
+Más, kivéve kenőzsírok
+
+|
+
+ex. 3403 19
+
+|
+
+90
+
+|
+
+3.5.
+
+|
+
+Hidraulikusfék-folyadék és más elkészített folyadék hidraulikus hajtóműhöz, amely kőolajat vagy bitumenes ásványokból nyert olajat 70 tömegszázaléknál kisebb arányban tartalmaz
+
+|
+
+ex. 3819 00
+
+|
+
+00
+
+|
+
+4.
+
+|
+
+Reklámhordozó papírok
+
+|
+
+|
+
+|
+
+4.1.
+
+|
+
+Papír és karton; papíripari rostanyagból, papírból vagy kartonból készült áruk
+
+|
+
+ex. 48
+
+|
+
+|
+
+4.2.
+
+|
+
+Könyvek, újságok, képek és más nyomdaipari termékek
+
+|
+
+ex. 49
+
+|
+
+|
+
+5.
+
+|
+
+Elektromos, elektronikai berendezések
+
+|
+
+|
+
+|
+
+5.1.
+
+|
+
+Háztartási nagygépek
+
+|
+
+|
+
+|
+
+5.1.1.
+
+|
+
+Lég- vagy vákuumszivattyú, lég- vagy más gázkompresszor és ventilátor; elszívó vagy visszavezető kürtő beépített ventilátorral, szűrővel is
+
+|
+
+ex. 8414
+
+|
+
+|
+
+5.1.2.
+
+|
+
+Légkondicionáló berendezés motormeghajtású ventilátorral, hőmérséklet- és nedvességszabályozó szerkezettel, beleértve az olyan berendezést is, amelyben a nedvesség külön nem szabályozható:
+
+|
+
+ex. 8415
+
+|
+
+|
+
+5.1.3.
+
+|
+
+Hűtőgép, fagyasztógép és egyéb hűtő- vagy fagyasztókészülék, elektromos működésű; hőszivattyú a 8415 kód alá tartozó légkondicionáló berendezés kivételével:
+
+|
+
+|
+
+|
+
+5.1.3.1.
+
+|
+
+– Más kombinált hűtő-fagyasztó gép
+
+|
+
+8418 10
+
+|
+
+80
+
+|
+
+5.1.3.2.
+
+|
+
+– Kompresszoros típusú háztartási hűtőgép:
+
+|
+
+8418 21
+
+|
+
+|
+
+5.1.3.3
+
+|
+
+– Abszorpciós típusú hűtőgép
+
+|
+
+8418 22
+
+|
+
+00
+
+|
+
+5.1.3.4.
+
+|
+
+– Más háztartási hűtőgép
+
+|
+
+8418 29
+
+|
+
+|
+
+5.1.3.5.
+
+|
+
+– Fagyasztóláda, legfeljebb 400 liter űrtartalommal
+
+|
+
+8418 30
+
+|
+
+20
+
+|
+
+5.1.3.6.
+
+|
+
+– Fagyasztószekrény, legfeljebb 250 liter űrtartalommal
+
+|
+
+8418 40
+
+|
+
+20
+
+|
+
+5.1.4.
+
+|
+
+Centrifuga, beleértve a centrifugális szárítót is:
+
+|
+
+|
+
+|
+
+5.1.4.1.
+
+|
+
+– Ruhaszárító
+
+|
+
+8421 12
+
+|
+
+00
+
+|
+
+5.1.4.2.
+
+|
+
+– Más centrifuga
+
+|
+
+8421 19
+
+|
+
+70
+
+|
+
+5.1.5.
+
+|
+
+Mosogatógép:
+
+|
+
+|
+
+|
+
+5.1.5.1.
+
+|
+
+– Háztartási
+
+|
+
+8422 11
+
+|
+
+00
+
+|
+
+5.1.6.
+
+|
+
+Háztartásban használatos mosógép, beleértve az olyan gépet is, amely mos és szárít is, kivéve a 8450 20 00, valamint a 8450 90 00 alá tartozó termékek
+
+|
+
+ex. 8450
+
+|
+
+|
+
+5.1.7.
+
+|
+
+Szárítógép, legfeljebb 10 kg szárazruha-kapacitású gép
+
+|
+
+8451 21
+
+|
+
+00
+
+|
+
+5.1.8.
+
+|
+
+Hőtárolós radiátor
+
+|
+
+8516 21
+
+|
+
+00
+
+|
+
+5.1.9.
+
+|
+
+Helyiségek fűtésére szolgáló más elektromos készülék
+
+|
+
+ex. 8516 29
+
+|
+
+|
+
+5.1.10.
+
+|
+
+Mikrohullámú sütő
+
+|
+
+8516 50
+
+|
+
+00
+
+|
+
+5.1.11.
+
+|
+
+Sütő; tűzhely, tűzhelylap, forralógyűrű, grillsütő és sütőrostély, kivéve a 8516 60 59 és a 8516 60 90 alá tartozó termékek
+
+|
+
+ex. 8516 60
+
+|
+
+|
+
+5.2.
+
+|
+
+Háztartási kisgépek
+
+|
+
+|
+
+|
+
+5.2.1.
+
+|
+
+Személymérleg, csecsemőmérleg is; háztartási mérleg, kivéve a nem elektromos eszközöket
+
+|
+
+ex. 8423 10
+
+|
+
+|
+
+5.2.2.
+
+|
+
+Síkkötő gép, hurkológép, kivéve az ipari méretű alkalmazásokat
+
+|
+
+ex. 8447 20
+
+|
+
+|
+
+5.2.3.
+
+|
+
+Háztartási varrógép
+
+|
+
+8452 10
+
+|
+
+|
+
+5.2.4.
+
+|
+
+Legfeljebb 1500 W teljesítményű és legfeljebb 20 literes porzsákkal vagy más tartálykapacitással rendelkező beépített elektromotoros porszívó
+
+|
+
+8508 11
+
+|
+
+00
+
+|
+
+5.2.5.
+
+|
+
+Porszívók beépített elektromotorral a 8508 11 alá tartozók kivételével
+
+|
+
+8508 19
+
+|
+
+|
+
+5.2.6.
+
+|
+
+Elektromechanikus háztartási készülék, beépített elektromotorral, a 8508 alá tartozó porszívók kivételével, kivéve továbbá 8509 90 alá tartozó alkatrészeket
+
+|
+
+ex. 8509
+
+|
+
+|
+
+5.2.7.
+
+|
+
+Villanyborotva, -hajnyíró gép és szőreltávolító készülék beépített elektromotorral, kivéve 8510 90 00 alá tartozó alkatrészeket
+
+|
+
+ex. 8510
+
+|
+
+|
+
+5.2.8.
+
+|
+
+Elektromos átfolyásos vízmelegítő és merülőforraló
+
+|
+
+8516 10
+
+|
+
+11
+
+|
+
+5.2.9.
+
+|
+
+Hajszárító
+
+|
+
+8516 31
+
+|
+
+|
+
+5.2.10.
+
+|
+
+Villanyvasaló
+
+|
+
+8516 40
+
+|
+
+|
+
+5.2.11.
+
+|
+
+Kávé- vagy teafőző
+
+|
+
+8516 71
+
+|
+
+00
+
+|
+
+5.2.12.
+
+|
+
+Kenyérpirító
+
+|
+
+8516 72
+
+|
+
+00
+
+|
+
+5.2.13.
+
+|
+
+Olajsütő
+
+|
+
+8516 79
+
+|
+
+20
+
+|
+
+5.2.14.
+
+|
+
+Más elektrotermikus háztartási készülék
+
+|
+
+8516 79
+
+|
+
+70
+
+|
+
+5.2.15.
+
+|
+
+Karóra, zsebóra és más óra, beleértve a stopperórát is, nemesfémből vagy nemesfémmel plattírozott fémből készült tokkal, kivéve a nem elektromosan működőket
+
+|
+
+ex. 9101
+
+|
+
+|
+
+5.2.16.
+
+|
+
+Karóra, zsebóra és más óra, beleértve a stopperórát is a 9101 kód alá tartozó kivételével, kivéve továbbá a nem elektromosan működőket
+
+|
+
+ex. 9102
+
+|
+
+|
+
+5.2.17.
+
+|
+
+Óra „kisóraszerkezettel”, a 9104 alá tartozó kivételével
+
+|
+
+ex. 9103
+
+|
+
+|
+
+5.2.18.
+
+|
+
+Műszerfalba beépítésre alkalmas és hasonló típusú óra gépjárműhöz, légi-, űr- és vízi járműhöz
+
+|
+
+ex. 9104 00
+
+|
+
+00
+
+|
+
+5.2.19.
+
+|
+
+Más óra, kivéve a nem elektromosan működőket
+
+|
+
+ex. 9105
+
+|
+
+|
+
+5.3.
+
+|
+
+Információs (IT) és távközlési berendezések (kivéve a mobil és a rádiótelefon készülék)
+
+|
+
+|
+
+|
+
+5.3.1
+
+|
+
+A nyomtatási, másolási vagy faxtovábbító funkciókból legalább kettővel rendelkező, automatikus adatfeldolgozó géphez vagy hálózathoz való kapcsolódásra alkalmas készülék (melynek súlya legfeljebb 200 kg)
+
+|
+
+ex. 8443 31
+
+|
+
+|
+
+5.3.2.
+
+|
+
+Más, automatikus adatfeldolgozó géphez vagy hálózathoz való kapcsolódásra alkalmas készülék (melynek súlya legfeljebb 200 kg)
+
+|
+
+ex. 8443 32
+
+|
+
+|
+
+5.3.3.
+
+|
+
+Más (melynek súlya legfeljebb 200 kg)
+
+|
+
+ex. 8443 39
+
+|
+
+|
+
+5.3.4.
+
+|
+
+Írógépek a 8471 alá tartozó nyomtató kivételével; szövegszerkesztő gép:
+
+|
+
+|
+
+|
+
+5.3.4.1.
+
+|
+
+– Elektromos írógép
+
+|
+
+8469 00
+
+|
+
+91
+
+|
+
+5.3.5.
+
+|
+
+Számológép és számoló funkcióval ellátott zsebméretű adatrögzítő-, előhívó- és megjelenítőgép; könyvelőgép, postai bérmentesítőgép, jegykiadó gép és hasonló gép számolószerkezettel; pénztárgép:
+
+|
+
+|
+
+|
+
+5.3.5.1.
+
+|
+
+– Elektronikus számológép, külső elektromos áramforrás nélkül működő és számoló funkcióval ellátott zsebméretű adatrögzítő-, előhívó- és megjelenítő gép
+
+|
+
+8470 10
+
+|
+
+00
+
+|
+
+5.3.5.2.
+
+|
+
+– Más elektronikus számológép nyomtató szerkezettel
+
+|
+
+8470 21
+
+|
+
+00
+
+|
+
+5.3.5.3.
+
+|
+
+– Más elektronikus számológép
+
+|
+
+8470 29
+
+|
+
+00
+
+|
+
+5.3.6.
+
+|
+
+Automatikus adatfeldolgozó gép és egységei; mágneses és optikai leolvasó, adatátíró gép a kódolt adat adathordozóra történő átírására, másutt nem említett gépi adatfeldolgozáshoz:
+
+|
+
+ex. 8471
+
+|
+
+|
+
+5.3.7.
+
+|
+
+Kizárólag, vagy elsősorban a 8471 alá tartozó automatikus adatfeldolgozó rendszerben használatos katódsugárcsöves monitor
+
+|
+
+8528 41
+
+|
+
+00
+
+|
+
+5.3.8.
+
+|
+
+Kizárólag, vagy elsősorban a 8471 alá tartozó automatikus adatfeldolgozó rendszerben használatos más monitor
+
+|
+
+8528 51
+
+|
+
+00
+
+|
+
+5.3.9.
+
+|
+
+Kizárólag, vagy elsősorban a 8471 alá tartozó automatikus adatfeldolgozó rendszerben használatos projektor
+
+|
+
+8528 61
+
+|
+
+00
+
+|
+
+5.3.10.
+
+|
+
+Automatikus adatfeldolgozó gép által létrehozott digitális információ megjelenítésére alkalmas, síkpanel megjelenítő (pl. folyadékkristályos eszköz) segítségével működő projektor
+
+|
+
+8528 69
+
+|
+
+10
+
+|
+
+5.3.11.
+
+|
+
+Más irodai gép (pl. stencil- vagy más sokszorosítógép, címíró gép, automata bankjegykiadó gép, érmeválogató, érmeszámláló vagy érmecsomagoló gép, ceruzahegyező, lyukasztó- vagy fűzőgép), kivéve a 8472 90 30 alá tartozó termékek
+
+|
+
+ex. 8472
+
+|
+
+|
+
+5.3.12.
+
+|
+
+Távbeszélő készülékek, beleértve a mobiltelefon-hálózatokhoz vagy más vezeték nélküli hálózatokhoz való készülékeket; hang, képek vagy más adatok továbbítására vagy vételére szolgáló más készülékek, beleértve a vezetékes vagy vezeték nélküli hálózatok (helyi vagy nagy kiterjedésű hálózat) távközlési berendezéseit a 8443, 8525, 8527 vagy 8528 alá tartozó, továbbításra vagy vételre szolgáló készülékek kivételével
+
+|
+
+|
+
+|
+
+5.3.12.1.
+
+|
+
+– Zsinór nélküli telefonkagylóval ellátott vezetékes távbeszélő
+
+|
+
+8517 11
+
+|
+
+00
+
+|
+
+5.3.12.2.
+
+|
+
+– Más
+
+|
+
+8517 18
+
+|
+
+00
+
+|
+
+5.3.12.3.
+
+|
+
+– Hang, képek vagy más adatok vételére, átalakítására és továbbítására vagy helyreállítására szolgáló gépek, beleértve a kapcsoló- és útvonalválasztó berendezéseket
+
+|
+
+8517 62
+
+|
+
+00
+
+|
+
+5.3.12.4.
+
+|
+
+– Videotelefon
+
+|
+
+8517 69
+
+|
+
+10
+
+|
+
+5.3.12.5.
+
+|
+
+– Kaputelefon
+
+|
+
+8517 69
+
+|
+
+20
+
+|
+
+5.3.13.
+
+|
+
+Hangszóró, amelynek frekvenciatartománya 300 Hz–3,4 kHz közötti, átmérője legfeljebb 50 mm, a telekommunikációban alkalmazott típus
+
+|
+
+8518 29
+
+|
+
+30
+
+|
+
+5.3.14.
+
+|
+
+Vezetékes telefon kézibeszélője
+
+|
+
+8518 30
+
+|
+
+20
+
+|
+
+5.3.15.
+
+|
+
+Hangfelvevő- vagy hanglejátszó készülék
+
+|
+
+|
+
+|
+
+5.3.15.1.
+
+|
+
+Szövegismétlő készülék telefonhoz
+
+|
+
+8519 81
+
+|
+
+11
+
+|
+
+5.3.15.2.
+
+|
+
+Diktafon, amely csak külső áramforrással működik
+
+|
+
+8519 81
+
+|
+
+51
+
+|
+
+5.3.15.3.
+
+|
+
+Telefon üzenetrögzítő készülék
+
+|
+
+8519 50
+
+|
+
+00
+
+|
+
+5.3.16.
+
+|
+
+Elektronikus fordítógép vagy szótár
+
+|
+
+8543 70
+
+|
+
+10
+
+|
+
+5.3.17.
+
+|
+
+Radarkészülék, rádiónavigációs segédkészülék és rádiós távirányító készülék a 8526 92 00 alá tartozó játék működtetésére szolgáló rádiós távirányító készülék kivételével
+
+|
+
+ex. 8526
+
+|
+
+|
+
+5.4.
+
+|
+
+Szórakoztató elektronikai cikkek
+
+|
+
+|
+
+|
+
+5.4.1.
+
+|
+
+Mikrofon és tartószerkezete; hangszóró, dobozba szerelve is, fejhallgató és fülhallgató, mikrofonnal összeépítve is, valamint egy mikrofonból és egy vagy több hangszóróból álló egység; hangfrekvenciás elektromos erősítő; elektromos hangerősítő egység a 8518 29 30, a 8518 30 20 és a 8518 90 00 alá tartozó termékek kivételével
+
+|
+
+ex. 8518
+
+|
+
+|
+
+5.4.2.
+
+|
+
+Hangfelvevő- vagy hanglejátszó készülék a 8519 50 00, a 8519 81 11 és a 8519 81 51 alá tartozó termékek kivételével
+
+|
+
+ex. 8519
+
+|
+
+|
+
+5.4.3.
+
+|
+
+Videofelvevő és -lejátszókészülék, videotunerrel egybeépítve is
+
+|
+
+8521
+
+|
+
+|
+
+5.4.4.
+
+|
+
+Televíziós kamerák (felvevők), digitális fényképezőgépek és videokamera-felvevők a 8525 80 11 kivételével
+
+|
+
+ex. 8525 80
+
+|
+
+|
+
+5.4.5.
+
+|
+
+Rádióműsor-vevőkészülék, hangfelvevő vagy- lejátszó készülékkel vagy órával közös házban is
+
+|
+
+8527
+
+|
+
+|
+
+5.4.6.
+
+|
+
+Monitorok és kivetítők, beépített televízióvevő-készülék nélkül; televíziós adás vételére alkalmas készülék, rádióműsor-vevőkészüléket vagy hang- vagy képfelvevő vagy -lejátszó készüléket magában foglaló is, a 8528 41 00, a 8528 51 00, a 8528 61 00 és a 8528 69 10 alá tartozó termékek kivételével
+
+|
+
+ex. 8528
+
+|
+
+|
+
+5.4.7.
+
+|
+
+Fényképezőgép (a mozgófényképészeti kamera kivételével); fényképészeti villanófény-készülék és villanókörte, a 8539 KN-kód alá tartozó kisülési cső kivételével, kivéve továbbá a nem elektromos eszközök, továbbá 9006 10 00, 9006 30 00, 9006 61 00, 9006 69 00 alá tartozó termékek, továbbá azok 9006 91 alá tartozó alkatrészei és 90 06 99 alá tartozó tartozékai
+
+|
+
+ex. 9006
+
+|
+
+|
+
+5.4.8.
+
+|
+
+Mozgókép-felvevő (kamera) és vetítő, hangfelvevő és hanglejátszó készülékkel vagy anélkül, kivéve a nem elektromos eszközök és 9007 91 00, 9007 92 00 alá tartozó alkatrészek és tartozékok
+
+|
+
+ex. 9007
+
+|
+
+|
+
+5.4.9.
+
+|
+
+Diavetítő
+
+|
+
+9008 10
+
+|
+
+00
+
+|
+
+5.4.10.
+
+|
+
+Hangszer, amelyben a hangot elektromos úton keltik vagy erősítik (pl. orgona, gitár, tangóharmonika)
+
+|
+
+9207
+
+|
+
+|
+
+5.5.
+
+|
+
+Elektromos, elektronikus barkácsgépek, szerszámok, kivéve a nagyméretű, helyhez kötött ipari szerszámok
+
+|
+
+|
+
+|
+
+5.5.1.
+
+|
+
+Folyadékszivattyú egyfokozatú – búvárszivattyú
+
+|
+
+8413 70
+
+|
+
+21
+
+|
+
+5.5.2.
+
+|
+
+Fűkaszáló motoros körforgó vízszintes vágószerkezettel – elektromos
+
+|
+
+8433 11
+
+|
+
+10
+
+|
+
+5.5.3.
+
+|
+
+Kézi használatú szerszám beépített elektromos motorral működő
+
+|
+
+ex. 8467
+
+|
+
+|
+
+5.5.4.
+
+|
+
+Forrasztópáka és -pisztoly
+
+|
+
+8515 11
+
+|
+
+00
+
+|
+
+5.6.
+
+|
+
+Játékok, szabadidős és sportfelszerelések
+
+|
+
+|
+
+|
+
+5.6.1.
+
+|
+
+Rádiós távirányító készülék játék működtetésére
+
+|
+
+ex. 8526 92
+
+|
+
+00
+
+|
+
+5.6.2.
+
+|
+
+Pénzérmékkel, bankjegyekkel, bankkártyákkal, zsetonokkal vagy más fizetőeszközökkel működő más játék, a tekepálya-felszerelés kivételével
+
+|
+
+ex. 9504 30
+
+|
+
+|
+
+5.6.3.
+
+|
+
+Villanyvonat, vágány, jelzőlámpa és más tartozékai; csökkentett méretű „méretarányos” összeszerelhető modell készletben, működő is
+
+|
+
+ex. 9503 00
+
+|
+
+30
+
+|
+
+5.6.4.
+
+|
+
+Beépített motorral működő más játék és modell műanyagból
+
+|
+
+9503 00
+
+|
+
+75
+
+|
+
+5.6.5.
+
+|
+
+Beépített motorral működő más játék és modell más anyagból
+
+|
+
+9503 00
+
+|
+
+79
+
+|
+
+5.6.6.
+
+|
+
+Tévéhez kapcsolható videojáték
+
+|
+
+9504 10
+
+|
+
+00
+
+|
+
+5.6.7.
+
+|
+
+Elektromos autóverseny-készlet, verseny jellegű
+
+|
+
+9504 90
+
+|
+
+10
+
+|
+
+5.7.
+
+|
+
+Ellenőrző és vezérlő eszközök
+
+|
+
+|
+
+|
+
+5.7.1.
+
+|
+
+Mérleg, vizsgáló és ellenőrző mérleg is (az 50 mg vagy ennél nagyobb érzékenységű mérleg kivételével) beleértve a súllyal működtetett számláló vagy ellenőrző mérleget is; súly mindenfajta mérleghez (valamint a 8423 10 alá tartozó termékek kivételével)
+
+|
+
+ex. 8423
+
+|
+
+|
+
+5.7.2.
+
+|
+
+Gépjárműhöz használt riasztóberendezés
+
+|
+
+8512 30
+
+|
+
+10
+
+|
+
+5.7.3.
+
+|
+
+Elektromos, akusztikus vagy vizuális jelzőberendezés (pl. csengő, sziréna jelzőtábla, betörést vagy tüzet jelző riasztókészülék), a 8512 vagy a 8530 alá tartozó kivételével
+
+|
+
+ex. 8531
+
+|
+
+|
+
+5.8.
+
+|
+
+Adagoló automaták
+
+|
+
+|
+
+|
+
+5.8.1.
+
+|
+
+Bankjegykiadó automata
+
+|
+
+8472 90
+
+|
+
+30
+
+|
+
+5.8.2.
+
+|
+
+Automata elárusítógép (így különösen postai bélyeg, cigaretta, étel vagy ital árusítására), beleértve a pénzváltó gépet is:
+
+|
+
+|
+
+|
+
+5.8.2.1
+
+|
+
+Automata italárusító gép beépített melegítő- vagy hűtőkészülékkel
+
+|
+
+8476 21
+
+|
+
+00
+
+|
+
+5.8.2.2.
+
+|
+
+Más elárusító automata beépített melegítő-, hűtőkészülékkel
+
+|
+
+8476 81
+
+|
+
+00
+
+|
+
+5.9.
+
+|
+
+Rádiótelefon készülék
+
+|
+
+|
+
+|
+
+5.9.1.
+
+|
+
+Mobiltelefon-hálózathoz vagy más vezeték nélküli hálózatokhoz való távbeszélők
+
+|
+
+8517 12
+
+|
+
+00
+
+|
+
+5.9.2.
+
+|
+
+Rádiótelefon- vagy rádiótávíró-vevőkészülék
+
+|
+
+|
+
+|
+
+5.9.2.1.
+
+|
+
+Hordozható személyi hívó
+
+|
+
+8517 69
+
+|
+
+31
+
+|
+
+5.9.2.2.
+
+|
+
+Más rádiótelefon- vagy rádiótávíró-vevőkészülék
+
+|
+
+8517 69
+
+|
+
+39
+
+”

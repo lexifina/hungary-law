@@ -1,0 +1,1 @@
+387. § A KTIA tv. 4. § (3) bekezdésében a „kutatás-fejlesztésről és technológiai innovációról szóló 2004. évi CXXXIV. törvény” szövegrész helyébe a „kutatás-fejlesztésről és technológiai innovációról szóló 2004. évi CXXXIV. törvény (a továbbiakban: Innovációs tv.)” szöveg lép.

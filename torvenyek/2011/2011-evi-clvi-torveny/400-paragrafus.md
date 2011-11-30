@@ -1,0 +1,1 @@
+400. § Nem lép hatályba az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről szóló 2007. évi CXXXVI. törvény 1. § (1) bekezdés i) pontját megállapító rendelkezése.

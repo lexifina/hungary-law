@@ -1,0 +1,3 @@
+325. § Az Art. 106. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ha a kiutalás előtti ellenőrzés során az adóhatóság azt állapítja meg, hogy az igényelt költségvetési támogatásra, adó-visszatérítésre, adó-visszaigénylésre adózó részben jogosult, az ezen részösszegre vonatkozó jegyzőkönyv alapján az adóhatóság a részösszeg kiutalásáról dönthet, míg az ellenőrzést a fennmaradó összeg tekintetében folytatja. A részösszegekre vonatkozó jegyzőkönyvek tekintetében észrevételnek nincs helye, az adózó észrevételeit a kérelemmel érintett teljes összeg kiutalás előtti ellenőrzésének megállapításait tartalmazó jegyzőkönyv átvételét követően teheti meg.”
