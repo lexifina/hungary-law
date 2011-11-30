@@ -16,7 +16,11 @@ d) kaszinójáték,
 
 e) fogadás,
 
-f) kártyajáték.
+f) kártyajáték,
+
+g) helyhez kötött szerver alapú pénznyerő automata,
+
+h) nem helyhez kötött szerver alapú pénznyerő rendszer.
 
 1. CÍM
 

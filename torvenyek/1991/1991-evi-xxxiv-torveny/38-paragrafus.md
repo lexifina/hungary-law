@@ -12,9 +12,9 @@ c) a játéktervvel,
 
 d) a sorsolásos játékokkal és a fogadásokkal,
 
-e) a pénznyerő automaták, játékautomaták, játéktermek, kártyatermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
+e) a pénznyerő automaták, helyhez kötött szerver alapú pénznyerő automaták, nem helyhez kötött pénznyerő rendszerek, játékautomaták, játéktermek, kártyatermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
 
-f) szerver alapú pénznyerő automata üzemeltetésének és a szerver alapú pénznyerő automatákat üzemeltető szerver működtetésének, valamint az állami adóhatóság által felügyelt központi adatbázis részletes személyi, pénzügyi, műszaki, informatikai feltételeit;
+f) a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének személyi, pénzügyi műszaki és informatikai feltételeit, valamint a központi szerver működtetőjét megillető szolgáltatási díjat külön rendeletben határozza meg;
 
 g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 

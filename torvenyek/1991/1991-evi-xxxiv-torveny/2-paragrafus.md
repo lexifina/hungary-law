@@ -1,4 +1,4 @@
-2. § (1) Az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban meghatározott tevékenység, valamint az 1. § (3) bekezdésének b) és d) pontjaiban meghatározott tevékenység liberalizált tevékenység.
+2. § (1) Liberalizált tevékenység az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdésének b), d), e) és f) pontjaiban meghatározott tevékenység, továbbá az 1. § (3) bekezdésének g) pontjában meghatározott tevékenységek közül a hírközlő eszköz és rendszer útján szervezett lóversenyfogadás és kártyajátékok nyújtása (a továbbiakban együtt: távszerencsejáték.).
 
 (2) Szerencsejáték szervező tevékenység folytatásához — az e törvényben meghatározott kivétellel — az állami adóhatóság engedélye szükséges.
 
