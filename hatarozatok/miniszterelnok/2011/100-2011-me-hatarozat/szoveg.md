@@ -21,5 +21,3 @@ dr. Czomba Sándort, a Nemzetgazdasági Minisztérium államtitkárát a Társad
 – 2011. december 1-jei hatállyal –
 
 kinevezem,
-
-egyidejűleg az Új Magyarország Fejlesztési Terv keretében megvalósuló Operatív Programok Monitoring Bizottságai elnökének kinevezéséről szóló 104/2010. (XI. 16.) ME határozat hatályát veszti.
