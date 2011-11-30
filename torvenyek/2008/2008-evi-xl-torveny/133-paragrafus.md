@@ -20,7 +20,9 @@
 
 10. az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére, a kérelemre indult eljárásokért fizetendő igazgatási-szolgáltatási díjak mértékét, valamint a díjak fizetésére vonatkozó részletes szabályokat,
 
-11. az e törvény 138/A. § (1) bekezdésében meghatározott bevételi hiány mértékét, a bevételi hiány fedezetét biztosító pénzeszköz mértékét, megfizetésének, kezelésének és felhasználásának részletes szabályait, valamint a kifizetések rendjét.
+11. az e törvény 138/A. § (1) bekezdésében meghatározott bevételi hiány mértékét, a bevételi hiány fedezetét biztosító pénzeszköz mértékét, megfizetésének, kezelésének és felhasználásának részletes szabályait, valamint a kifizetések rendjét,
+
+12. a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. év CXXVII. törvény 57. § (2) bekezdés c) pont ca) alpontjában meghatározott minősített földgázellátási üzemzavar bekövetkezésének, illetve megszűnésének tényét és időpontját,
 
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben állapítsa meg
 
