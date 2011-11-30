@@ -1,5 +1,3 @@
-## Az értékesítő díjak
-
 | A | B | C | D | E | F |
 
 | Sorszám | Település | Értékesítő megnevezése | Távhőszolgáltató megnevezése | Értékesítői teljesítménydíj eFt/MW/év | Értékesítői hődíj Ft/GJ |
@@ -201,3 +199,5 @@
 | 98. | Veszprém | Veszprém-Kogeneráció Energiatermelő Zrt. | „VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 3 871 |
 
 2. melléklet az 50/2011. (IX. 30.) NFM rendelethez
+
+Az értékesítőkre vonatkozó követelmények

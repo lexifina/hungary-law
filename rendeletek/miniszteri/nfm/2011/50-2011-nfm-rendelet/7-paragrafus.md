@@ -1,6 +1,3 @@
-7. § (1)[^2]
+7. §[^4]
 
-(2)[^3]
-
-[^2]: A 7. § (1) bekezdése a 6. § (2) bekezdése alapján 2011. december 1-jén lép hatályba.
-[^3]: A 7. § (2) bekezdése a 6. § (3) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^4]: A 7. § a 66/2011. (XI. 30.) NFM rendelet 5. § (4) bekezése alapján nem lép hatályba.

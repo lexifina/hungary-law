@@ -1,5 +1,3 @@
-## Az értékesítőkre vonatkozó követelmények
-
 ## A. Távhőszolgáltatónak értékesített hőmennyiségen belül a meghatározott kapcsolt technológiából származó hőmennyiség legkisebb aránya az értékesítők esetében egy adott időszak hónapjaiban
 
 |  | A | B | C | D | E |
