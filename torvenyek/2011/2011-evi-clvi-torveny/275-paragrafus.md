@@ -1,16 +1,6 @@
 ## 19. A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény módosítása
 
-275. § (1) A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) Második Része a következő III. fejezettel és a következő 56/A. §-sal egészül ki:
-
-„III. Fejezet
-
-A KÖZÉRDEKLŐDÉSRE SZÁMOT TARTÓ BIZTOSÍTÓRA VONATKOZÓ ELŐÍRÁSOK
-
-56/A. § (1) Közérdeklődésre számot tartó biztosítónak minősül a nyilvános részvénytársasági formában működő biztosító és az a biztosító, amelynél a tárgyévet megelőző üzleti évben az éves bruttó díjbevétel elérte az 1 milliárd 500 millió forintot.
-
-(2) A közérdeklődésre számot tartó biztosítónak a Gt. 311. §-a szerinti audit bizottságot kell létrehoznia és működtetnie, figyelemmel arra, hogy a nem nyilvános részvénytársasági formában működő biztosító esetén ahol a Gt. részvénytársaságot és közgyűlést említ, ott az (1) bekezdés szerinti biztosítót és annak legfőbb szervét kell érteni.
-
-(3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a közérdeklődésre számot tartó biztosító rendelkezik olyan testülettel, amely megfelel a Gt. 311. § (1)–(2) bekezdésében meghatározott feltételeknek, és a testület ellátja a Gt. 311. § (3)–(4) bekezdésében foglaltakat. A közérdeklődésre számot tartó biztosítónak ebben az esetben saját honlapján nyilvánosságra kell hoznia, hogy melyik testület látja el a Gt. 311. § (3)–(4) bekezdésben foglaltakat, továbbá a testület összetételét.”
+275. § (1)
 
 (2) A Bit. 110. §-a helyébe a következő rendelkezés lép:
 
