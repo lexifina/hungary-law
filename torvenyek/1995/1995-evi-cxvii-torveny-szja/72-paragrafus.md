@@ -35,3 +35,5 @@ l) pénzügyi szolgáltatás, kiegészítő pénzügyi szolgáltatás üzletszer
 m) a Munka Törvénykönyve szerint a munkavállaló kártérítési felelőssége körébe tartozó hiánnyal összefüggésben fennálló követelés;
 
 n) a külföldi kiküldetésre, külszolgálatra tekintettel adott előleg, elszámolásra kiadott összeg, feltéve, hogy annak a kifizetővel való elszámolása a visszaérkezést követő 30 napon belül megtörténik.
+
+o) a munkáltató által munkavállalójának a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 200/B. § (1) bekezdésében meghatározott végtörlesztéshez kamatmentesen nyújtott kölcsön, feltéve, hogy a magánszemély a hitelintézet által kiadott igazolással bizonyítja a kölcsönt biztosító munkáltató felé a végtörlesztésként kiegyenlíteni kívánt tartozás fennálló összegét.

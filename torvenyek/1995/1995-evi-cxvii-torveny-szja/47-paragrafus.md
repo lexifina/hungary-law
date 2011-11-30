@@ -30,6 +30,6 @@ cb) a ca) pontban nem említett költségtérítés esetében a költségelszám
 
 (5) A (2) bekezdés alkalmazásában
 
-a) az adóalap-kiegészítés összege az adóelőleg-alap számításnál figyelembe vett jövedelem után a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerinti, a társadalombiztosítási járulék általános mértékével megállapított összeg, illetve biztosítási kötelezettség hiányában az egészségügyi hozzájárulásról szóló törvény szerinti, az összevont adóalapba tartozó jövedelmet terhelő egészségügyi hozzájárulás mértékével megállapított összeg;
+a) az adóalap-kiegészítés összege az adóelőleg-alap számításnál figyelembe vett jövedelem után 27 százalékkal megállapított összeg,
 
 b) ha a jövedelem után a magánszemély kötelezett a társadalombiztosítási járulék, az egészségügyi hozzájárulás megfizetésére (kivéve, ha azt költségként számolja el, vagy azt számára megtérítették), az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 78 százaléka minősül.
