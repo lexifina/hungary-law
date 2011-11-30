@@ -117,7 +117,3 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 17. A ,,24. Hitel és kölcsön törlesztése, visszafizetése'' soron az igénybe vett hitel, kölcsön adott időszakban törlesztett összegét kell kimutatni.
 
 18. A ,,25. Hosszú lejáratra nyújtott kölcsönök, elhelyezett bankbetétek'' soron az adott időszakban hosszú lejáratra nyújtott kölcsönök, elhelyezett bankbetétek összegét kell kimutatni.
-
-19. A ,,26. Véglegesen átadott pénzeszközök'' soron az adott időszakban, jogszabály alapján, a tőke-, illetve eredménytartalék vagy az eredmény terhére véglegesen átadott pénzeszközöket kell kimutatni.
-
-A konszolidált éves beszámoló kiegészítő mellékletének részét képező cash flow-kimutatást a jelen melléklet szerinti szerkezetben is el lehet készíteni a konszolidált éves beszámoló mérlege és eredménykimutatása adatainak felhasználásával. A konszolidációs különbözeteket, illetve azok állományváltozását a cash-flow azon soránál kell figyelembe venni, amelyikben szereplő tételhez a konszolidált beszámolóba tartoznak.
