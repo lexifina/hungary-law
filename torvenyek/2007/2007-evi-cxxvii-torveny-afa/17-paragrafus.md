@@ -21,3 +21,5 @@ eb) cselekvőképesség elvesztése esetében az egyéni vállalkozó, mezőgazd
 f) a 8. § (5), (9) és (12) bekezdéseiben említett eseteket.
 
 g) a mezőgazdasági tevékenységét megszüntető természetes személy adóalanynak a mezőgazdasági tevékenységet tovább folytató, közeli hozzátartozónak [Ptk. 685. § b) pont] minősülő természetes személy részére történő gazdaságátadását, feltéve, hogy a gazdaságátadás az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatással történik.
+
+h) költségvetési szerv államháztartásról szóló törvény szerinti átalakítását, vagy irányító (felügyeleti) szervének megváltozását.
