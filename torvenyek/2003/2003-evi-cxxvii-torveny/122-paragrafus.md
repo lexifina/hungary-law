@@ -30,6 +30,8 @@ j) a Tanács 2002/10/EK irányelve (2002. február 12.) a feldolgozott dohányra
 
 k) a Tanács 2007/74/EK irányelve (2007. december 20.) a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről,
 
-l) a Tanács 2008/55/EK irányelve (2008. május 26.) az egyes lefölözésekből, vámokból, adókból és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról,
+l) a Tanács 2010/24/EU irányelve (2010. március 16.) az adókból, vámokból, illetékekből és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról,
 
-m) a Tanács 2010/12/EU irányelve (2010. február 16.) a dohánygyártmányra kivetett jövedéki adók szerkezete és adókulcsai tekintetében a 92/79/EGK, a 92/80/EGK és a 95/59/EK irányelv módosításáról, valamint a 2008/118/EK irányelv módosításáról.
+m) a Tanács 2011/64/EU irányelve (2011. június 21.) a dohánygyártmányra alkalmazott jövedéki adó szerkezetéről és adókulcsáról,
+
+n) a Bizottság 2011/545/EU számú végrehajtási határozata (2011. szeptember 16.) a 2008/118/EK irányelv ellenőrzésre és szállításra vonatkozó rendelkezéseinek a 3811 KN-kód alá tartozó termékek tekintetében való, a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével összhangban történő alkalmazásáról.

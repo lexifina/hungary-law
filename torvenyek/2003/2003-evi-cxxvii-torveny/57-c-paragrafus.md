@@ -27,3 +27,5 @@ a) évente, legkorábban a tárgyévet követő év január hónapjának 20. nap
 b) negyedévente, legkorábban a tárgynegyedévet követő hónap 20. napjától
 
 igényelheti.
+
+(7) Az adó-visszaigénylés a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.

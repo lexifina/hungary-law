@@ -160,7 +160,7 @@ b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. októb
 
 40. speciális konténer: minden olyan tartály megfelelő berendezésekkel ellátva, amelyek speciálisan a hűtő-, oxigénellátó, hőszigetelő rendszerekhez vagy más rendszerekhez szükségesek;
 
-41. jelölt gázolaj: az Európai Bizottságnak a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló 2006/428/EK határozata szerinti jelölőanyaggal megjelölt, a 2710 19 41, 2710 19 45 és 2710 19 49 vámtarifaszám alá tartozó gázolaj;
+41. jelölt gázolaj: az Európai Bizottságnak a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló 2011/544/EU határozata szerinti jelölőanyaggal megjelölt, a 2710 19 41, 2710 19 45 és 2710 19 49 vámtarifaszám alá tartozó gázolaj;
 
 42. ömlesztett szállítás: ásványolajtermék közúti tankautóban, vasúti tartálykocsiban, tartályhajóban, tankkonténerben vagy 210 liternél nagyobb űrtartalmú kiszerelésben való szállítása;
 

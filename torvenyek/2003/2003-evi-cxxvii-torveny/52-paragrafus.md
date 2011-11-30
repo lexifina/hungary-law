@@ -33,3 +33,5 @@ e) az a)–d) pont alá nem eső ásványolaj esetében – az üzemanyagkénti 
 (3) Az adó mértéke az (1) bekezdés a)–d) pontjában meghatározott mérték 40 000 Ft/ezer literrel, illetve a fűtőolaj esetében az (1) bekezdés e) pontjában meghatározott mérték 20 000 Ft/ezer kilogrammal, a cseppfolyósított gáz esetén az (1) bekezdés f) pontjában meghatározott mérték 20 000 Ft/ezer kilogrammal, gáz halmazállapot esetén az (1) bekezdés g) pontjában meghatározott mérték 20 Ft/nm3-rel növelt összege, amennyiben a termék nem felel meg a hatályos magyar szabvány előírásainak.
 
 (4) A (3) bekezdés rendelkezését nem kell alkalmazni a külön jogszabály szerinti hulladékból a külön jogszabály szerinti hulladékkezelés során egyébásványolaj-gyártó adóraktárban előállított egyéb ellenőrzött ásványolajra és olajtermékre, ide nem értve az üzemanyagként előállított terméket.
+
+(5) A (2) bekezdés b) pontja szerinti adómérték a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
