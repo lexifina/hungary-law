@@ -1,0 +1,1 @@
+A Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 60. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bank Monetáris Tanácsának döntésére tekintettel a következőket rendelem el:
