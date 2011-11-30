@@ -34,8 +34,8 @@
 
 2. melléklet a 19/2010. (IV. 30.) IRM rendelethez
 
-[^6]: Az 1. melléklet 12. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lép hatályba.
-[^7]: Az 1. melléklet 13. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lép hatályba.
-[^8]: Az 1. melléklet 14. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lép hatályba.
-[^9]: Az 1. melléklet 15. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lép hatályba.
-[^10]: Az 1. melléklet 16. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lép hatályba.
+[^6]: Az 1. melléklet 12. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
+[^7]: Az 1. melléklet 13. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
+[^8]: Az 1. melléklet 14. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
+[^9]: Az 1. melléklet 15. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
+[^10]: Az 1. melléklet 16. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
