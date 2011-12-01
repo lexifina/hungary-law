@@ -6,7 +6,7 @@ b) intézmény esetében – a közfeladata ellátása érdekében felhasznált 
 
 tartalmazza.
 
-(2) A távhőszolgáltató a kapcsoltan termelt hő mennyisége alapján járó tárgyhavi támogatási mértéket legfeljebb a lakossági értékesítés hőmennyisége után igényelheti – a hálózati hőveszteség lakossági értékesítésre jutó arányának figyelembevételével – a 2. melléklet 1. pontja szerint számított mértékben.
+(2)[^2] A távhőszolgáltató a kapcsoltan termelt hő mennyisége alapján járó tárgyhavi támogatási mértéket legfeljebb a lakossági értékesítés hőmennyisége után igényelheti – lakossági értékesítésre kerülő hőmennyiség megállapítását szolgáló, hő korrekciós tényező figyelembevételével – a 2. melléklet 1. pontja szerint számított mértékben.
 
 (3) A távhőszolgáltató
 
@@ -19,3 +19,5 @@ b) a támogatás 2. melléklet 1. pontja szerint számított mértékére jogosu
 (5) Az intézmény támogatási igényének mértékét a 2. melléklet 2. pontja szerinti módon számolja ki.
 
 (6) A Hivatal honlapján letölthető formában közzéteszi a 2. melléklet 1.1. és 2.1. pontjai szerinti támogatási igénybejelentő lapokat, valamint a 2. melléklet 1.2. és 2.2. pontja szerinti számítási módokat.
+
+[^2]: A 3. § (2) bekezdése a 66/2011. (XI. 30.) NFM rendelet 11. § (1) bekezdése szerint módosított szöveg.
