@@ -1,0 +1,130 @@
+# A Kormány 250/2011. (XII. 1.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 142. szám, 2011. december 1. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7fed2438bbea7b70eacb0f633efbe41d20f6f3f1/dokumentumok/e6998c5568676c9ae3b0ce7b0305df632a0ce4ce/letoltes)
+
+---
+
+A Kormány 250/2011. (XII. 1.) Korm. rendelete
+a munkahigiénés és foglalkozás-egészségügyi feladatok ellátásával összefüggő kormányrendeletek
+módosításáról
+A Kormány
+az 1. alcím tekintetében az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény 31. § (4) bekezdés a) és b) pontjában,
+a 2. alcím tekintetében az egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény 357. § (1) bekezdés a) és b) pontjában,
+valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés
+a) pontjában,
+a 3. alcím tekintetében a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (1) bekezdés g) pontjában,
+a 4. alcím tekintetében a statisztikáról szóló 1993. évi XLVI. törvény 26. § (3) bekezdés c) pontjában és
+az 5. alcím tekintetében az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 40. §
+(2) bekezdésében meghatározott feladatkörében eljárva, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 88. §
+(2) bekezdés a) pontjában, a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 9. § (5) bekezdésében, a fővárosi és megyei
+kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő
+törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § b)–d) pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott
+szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló
+282/2007. (X. 26.) Korm. rendelet módosítása
+1. §
+A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben
+kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet
+4. számú melléklete az 1. melléklet szerint módosul.
+2. A korkedvezmény-biztosítási járulék megfizetése alól történő mentesítés eljárási szabályairól szóló
+342/2007. (XII. 19.) Korm. rendelet módosítása
+2. §
+(1) A korkedvezmény-biztosítási járulék megfizetése alól történő mentesítés eljárási szabályairól szóló 342/2007. (XII. 19.)
+Korm. rendelet (a továbbiakban: R1.) 4. §-a helyébe a következő rendelkezés lép:
+„4. § (1) Az e rendelet szerinti eljárásban – az 5. §-ban foglaltak kivételével – a munkahigiénés és
+foglalkozás-egészségügyi szerv szakértője jár el.
+(2) A munkahigiénés és foglalkozás-egészségügyi szerv szakértője a szakértői véleményt
+a) az állapotfelmérés, valamint
+b) a (3) bekezdés szerinti helyszíni szemle
+alapján a foglalkoztató kérelmében megjelölt munkakörök tekintetében – a kirendeléstől számított harminc napon
+belül – külön-külön készíti el.
+(3) A Felügyelőség – a munkahigiénés és foglalkozás-egészségügyi szerv szakértőinek közreműködésével –
+a foglalkoztató kérelmében megjelölt munkahelyen helyszíni szemlét tart. A Felügyelőség a helyszíni szemle
+keretében – a munkahigiénés és foglalkozás-egészségügyi szerv szakértői által végzett szükséges ellenőrző mérések
+figyelembevételével –
+a) ellenőrzi, hogy az állapotfelmérésben foglalt körülmények a valóságnak megfelelnek-e,
+b) megvizsgálja, hogy a kérelemben megjelölt munkakörben foglalkoztatottak esetében a vizsgált munkahelyen
+a Tv. 355. § (1) bekezdésében foglaltak fennállnak-e, illetve milyen mértékben állnak fenn.”
+(2) Az R1. 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A mentesítés feltételeinek ellenőrzésébe a munkahigiénés és foglalkozás-egészségügyi szerv szakértőit, illetve
+az 5. § (1) bekezdése szerinti szakhatóságokat akkor kell bevonni, ha
+a) olyan kérdésben kell állást foglalni, amely a munkahigiénés és foglalkozás-egészségügyi szerv feladatkörébe,
+illetve a szakhatóság feladat- és hatáskörébe tartozik, valamint
+b) a hatóság a mentesítés visszavonását látja szükségesnek.”
+
+3. A vasúti közlekedés biztonságával összefüggő munkaköröket betöltő munkavállalókkal szemben
+támasztott egészségügyi követelményekről és az egészségügyi vizsgálat rendjéről szóló
+203/2009. (IX. 18.) Korm. rendelet módosítása
+3. § A vasúti közlekedés biztonságával összefüggő munkaköröket betöltő munkavállalókkal szemben támasztott
+egészségügyi követelményekről és az egészségügyi vizsgálat rendjéről szóló 203/2009. (IX. 18.) Korm. rendelet 26. §
+(2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdés szerinti egészségi alkalmassági vizsgálatok esetében a felülvizsgálatot a közlekedési hatóság
+végzi, amely az eljárásba közreműködőként bevonhatja – a felülvizsgálat tárgya szerint – a munkahigiénés és
+foglalkozás-egészségügyi szerv orvosát.”
+4. Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló
+288/2009. (XII. 15.) Korm. rendelet módosítása
+4. § Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm.
+rendelet 4. melléklete a 2. melléklet szerint módosul.
+5. Az Országos Munkavédelmi és Munkaügyi Főfelügyelőségről, valamint a munkavédelmi és munkaügyi
+hatóságok kijelöléséről szóló 314/2010. (XII. 27.) Korm. rendelet módosítása
+5. § (1) Az Országos Munkavédelmi és Munkaügyi Főfelügyelőségről, valamint a munkavédelmi és munkaügyi hatóságok
+kijelöléséről szóló 314/2010. (XII. 27.) Korm. rendelet (a továbbiakban: R2.) 1. alcímének címsora helyébe a következő
+rendelkezés lép:
+„1. A munkavédelmi és munkaügyi hatóság, valamint a munkahigiénés és foglalkozás-egészségügyi szerv kijelölése”
+(2) Az R2. 1. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A Kormány munkahigiénés és foglalkozás-egészségügyi szervként az OMMF-et jelöli ki.”
+(3) Az R2. 3. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az igazgató az igazgató-helyettesek kinevezésére és felmentésére vonatkozó hatáskörét az OMMF elnökének
+egyetértésével gyakorolja. Az igazgató-helyettesek főosztályvezető-helyettes besorolású kormánytisztviselők.”
+(4) Az R2. 3. alcímének címsora helyébe a következő rendelkezés lép:
+„3. Az OMMF munkahigiénés és foglalkozás-egészségügyi feladatai”
+(5) Az R2. 4. §-a helyébe a következő rendelkezés lép:
+„4. § (1) Az OMMF ellátja az alapító okiratában és külön jogszabályban meghatározott munkahigiénés,
+foglalkozás-egészségügyi és a munkaegészségügyi kutatással összefüggő feladatokat.
+(2) Az OMMF ellátja különösen az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről
+szóló 1997. évi XLVII. törvény (a továbbiakban: Eüatv.) 15/A. § (2) és (3) bekezdésében, továbbá az Mvt. 83/A. §
+(4) bekezdésében meghatározott feladatokat.
+(3) Az OMMF munkahigiénés és foglalkozás-egészségügyi szervként részt vesz:
+a) a munkahigiénés és foglalkozás-egészségügyi tevékenységgel összefüggő kormányzati döntések, stratégiák
+megalapozásában, ezzel kapcsolatos felmérésekben;
+b) a környezeti (munkakörnyezeti) és biológiai monitorozás módszertanának kialakításában és fejlesztésében;
+c) az európai uniós tagállami működéssel kapcsolatos, közösségi jogharmonizációs, továbbá az Európai Unió
+döntéshozatali folyamataiban a munkahigiéne, valamint a foglalkozás-egészségügy területén;
+d) a munkaegészségügyi vonatkozású hazai és európai uniós programok végrehajtásával kapcsolatos feladatok
+megoldásában;
+e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.”
+(6) Az R2. 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az OMMF ellátja a foglalkozás-egészségügyi szolgálat Mvt.-ben és külön jogszabályban előírt munkavédelmi
+feladatainak szakmai irányítását is.”
+(7) Az R2. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A munkabaleseti információs rendszer működtetése az OMMF, valamint a külön jogszabályban meghatározottak
+alapján a bányafelügyelet feladata. Az OMMF gyűjti és feldolgozza a foglalkozási megbetegedésekkel, fokozott
+expozíciókkal kapcsolatos adatokat.”
+
+(8) Az R2. 8. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(Az OMMF elsőfokú munkavédelmi hatósági jogkörében)
+„c) a munkavállalók rákkeltő anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos
+megbetegedésekkel szembeni védelmének elősegítése érdekében az Mvt. 83/A. § (4) bekezdésében meghatározott
+feladatokat látja el, és nyilvántartást vezet;”
+(9) Az R2. 9. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Az OMMF részt vesz a miniszter munkaügyi ellenőrzéssel összefüggő jogszabály-előkészítési és
+jogszabály-alkotási feladatkörébe tartozó jogi normák tervezeteinek előkészítésében.”
+(10) Az R2. 12. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Az OMMF a beolvadással megszűnt Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet általános és
+egyetemes jogutódja.”
+(11) Hatályát veszti az R2. 9. § (4) bekezdése.
+6. Záró rendelkezések
+6. § Ez a rendelet 2011. december 1-jén 19 órakor lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 250/2011. (XII. 1.) Korm. rendelethez
+1. A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben
+kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet
+4. számú melléklet 6. pontjában az „Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet (OMFI)” szövegrész
+helyébe az „Országos Munkavédelmi és Munkaügyi Főfelügyelőség” szöveg lép.
+2. melléklet a 250/2011. (XII. 1.) Korm. rendelethez
+1. Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm.
+rendelet 4. mellékletében az „Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet” szövegrész helyébe
+a „munkahigiénés és foglalkozás-egészségügyi szerv” szöveg lép.
