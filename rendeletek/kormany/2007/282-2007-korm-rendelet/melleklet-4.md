@@ -122,7 +122,7 @@ Szakvélemény adására feljogosított szervek
 
 |  | 5. Régészeti lelőhelyekkel összefüggő szakkérdések | Kulturális Örökségvédelmi Hivatal Magyar Nemzeti Múzeum |
 
-| 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet (OMFI) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+| 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Országos Munkavédelmi és Munkaügyi Főfelügyelőség Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 7. | Jövedéki termékek adójogi minősítése, termékek áruosztályozása | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
@@ -132,4 +132,4 @@ Szakvélemény adására feljogosított szervek
 
 |  |  | Környezetvédelmi és Vízgazdálkodási Tudományos Kutató Intézet Közhasznú Társaság (VITUKI Kht.) |
 
-[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a szerint módosított szöveg.
