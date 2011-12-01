@@ -1,8 +1,8 @@
 9. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2)–(3)[^17]
+(2)–(3)[^18]
 
-(4)[^18]
+(4)[^19]
 
 Melléklet a 342/2007. (XII. 19.) Korm. rendelethez
 
@@ -11,6 +11,8 @@ Kérelem
 a korkedvezmény-biztosítási járulék megfizetési kötelezettsége alól történő mentesítés megállapítására
 
 I.
+
+7M13269_0
 
 | 1. | A foglalkoztató, egyéni vállalkozó neve (megnevezése), székhelye: |  |
 
@@ -28,9 +30,9 @@ I.
 
 | 8. | Intézkedések ismertetése |  |
 
-| a) a korkedvezményre jogosító munkakörben történő foglalkoztatással járó, a korkedvezményre jogosító munkakörülmények javítása érdekében: |  |
+| a) a korkedvezményre jogosító munkakörben történő foglalkoztatással járó, a korkedvezményre jogosító munkakörülmények javítása érdekében: |  |
 
-| b) különös tekintettel a korkedvezményre jogosító korábbi munkakörülmények megszüntetése érdekében: |  |
+| b) különös tekintettel a korkedvezményre jogosító korábbi munkakörülmények megszüntetése érdekében: |  |
 
 | 9. | A 8. pont szerinti intézkedések eredményes voltát alátámasztó állapotfelmérés dokumentációja (műszeres vizsgálatokat indokoló esetekben mérési jegyzőkönyvekkel): |  |
 
@@ -44,5 +46,5 @@ II.
 
 | Név (családi és utónév, valamint születési név) | Lakóhely | Tartózkodási hely |
 
-[^17]: A 9. § (2)–(3) bekezdése e rendelet 9. § (4) bekezdése alapján hatályát vesztette.
-[^18]: A 9. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^18]: A 9. § (2)–(3) bekezdése e rendelet 9. § (4) bekezdése alapján hatályát vesztette.
+[^19]: A 9. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
