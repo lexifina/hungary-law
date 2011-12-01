@@ -26,6 +26,6 @@ b) normatív utasításban kiadja az OMMF szervezeti és működési szabályzat
 
 (11) Az OMMF szervezi a munkavédelmi és a munkaügyi felügyelők képzését, továbbképzését, továbbá az újonnan belépő felügyelők vizsgáztatását.
 
-(12)[^2] Az OMMF szervezi és irányítja a munkavédelmi és munkaügyi felügyelőségek által jogerősen kiszabott bírságok és befizetési kötelezettségek végrehajtására vonatkozó hatósági tevékenységet, beleértve az ahhoz szükséges szakmai informatikai alkalmazást, valamint az ezzel járó, kormányhivatalok részére történő informatikai szolgáltatások biztosítását is.
+(12)[^5] Az OMMF szervezi és irányítja a munkavédelmi és munkaügyi felügyelőségek által jogerősen kiszabott bírságok és befizetési kötelezettségek végrehajtására vonatkozó hatósági tevékenységet, beleértve az ahhoz szükséges szakmai informatikai alkalmazást, valamint az ezzel járó, kormányhivatalok részére történő informatikai szolgáltatások biztosítását is.
 
-[^2]: A 2. § (12) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^5]: A 2. § (12) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 15. § (2) bekezdése iktatta be.

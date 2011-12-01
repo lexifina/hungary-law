@@ -14,6 +14,9 @@ f) a munkavédelmi bírság Mvt. 80. § (2) bekezdése szerinti felhasználásá
 
 g) külön jogszabályban meghatározottak szerint részt vesz egyéb bizottságok, testületek, tevékenységek végzésében, működésében, különösen a szabványosítás, az akkreditálás, a nukleáris baleset-elhárítás, a kémiai biztonság területén.
 
-(2) Az OMMF ellátja a foglalkozás-egészségügyi szolgálat Mvt.-ben és külön jogszabályban előírt munkavédelmi feladatainak – az OMFI közreműködésével történő – szakmai irányítását is.
+(2)[^10] Az OMMF ellátja a foglalkozás-egészségügyi szolgálat Mvt.-ben és külön jogszabályban előírt munkavédelmi feladatainak szakmai irányítását is.
 
-(3) A munkabaleseti információs rendszer működtetése az OMMF, valamint a külön jogszabályban meghatározottak alapján a bányafelügyelet feladata. Az OMMF gyűjti és – az OMFI közreműködésével – feldolgozza a foglalkozási megbetegedésekkel, fokozott expozíciókkal kapcsolatos adatokat.
+(3)[^11] A munkabaleseti információs rendszer működtetése az OMMF, valamint a külön jogszabályban meghatározottak alapján a bányafelügyelet feladata. Az OMMF gyűjti és feldolgozza a foglalkozási megbetegedésekkel, fokozott expozíciókkal kapcsolatos adatokat.
+
+[^10]: A 6. § (2) bekezdése a 250/2011. (XII. 1.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^11]: A 6. § (3) bekezdése a 250/2011. (XII. 1.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.

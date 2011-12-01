@@ -4,7 +4,7 @@ a) ellátja az Mvt. 83. §-ában meghatározott szakértői engedélyezési fela
 
 b) külön jogszabály szerint, szakhatóságként eljárva kiadja az igazságügyi szakértői engedélyhez szükséges szakhatósági állásfoglalásokat;
 
-c) a munkavállalók rákkeltő anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szembeni védelmének elősegítése érdekében – az OMFI közreműködésével – az Mvt. 83/A. § (4) bekezdésében meghatározott feladatokat látja el, és nyilvántartást vezet;
+c)[^12] a munkavállalók rákkeltő anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szembeni védelmének elősegítése érdekében az Mvt. 83/A. § (4) bekezdésében meghatározott feladatokat látja el, és nyilvántartást vezet;
 
 d) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogszabály szerinti eljárásban történő igazolása céljából az Mvt. 83/B. §-ában meghatározott módon és tartalommal hatósági nyilvántartást vezet.
 
@@ -12,7 +12,7 @@ d) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogs
 
 (3) A munkavédelmi felügyelőségek gyakorolják az Mvt. 81. §-ában meghatározott feladat- és hatásköröket. Ellátják továbbá mindazon hatósági ellenőrzési feladatokat, amelyeket külön jogszabály nevesítve feladat- és hatáskörükbe utal.
 
-(4)[^5] A munkavédelmi bírság kiszabására első fokon annak a munkavédelmi és munkaügyi szakigazgatási szerv vezetője jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
+(4)[^13] A munkavédelmi bírság kiszabására első fokon annak a munkavédelmi és munkaügyi szakigazgatási szerv vezetője jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
 
 (5) A munkavédelmi felügyelő elsőfokú munkavédelmi hatósági jogkörében ellátja az Mvt. 84. §-ában meghatározott munkavédelmi hatósági feladatokat.
 
@@ -20,11 +20,12 @@ d) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogs
 
 (7) Munkavédelmi hatósági ügyben a fellebbezés elbírálására jogosult hatóságnak minősül
 
-a)[^6] a munkavédelmi felügyelő és a munkavédelmi és munkaügyi szakigazgatási szerv eljárása vonatkozásában az OMMF;
+a)[^14] a munkavédelmi felügyelő és a munkavédelmi és munkaügyi szakigazgatási szerv eljárása vonatkozásában az OMMF;
 
 b) az OMMF eljárása vonatkozásában a miniszter.
 
 (8) Munkavédelmi hatósági ügyben az OMMF eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
-[^5]: A 8. § (4) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^6]: A 8. § (7) bekezdés a) pontja a 111/2011. (VII. 4.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^12]: A 8. § (1) bekezdés c) pontja a 250/2011. (XII. 1.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^13]: A 8. § (4) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^14]: A 8. § (7) bekezdés a) pontja a 111/2011. (VII. 4.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.

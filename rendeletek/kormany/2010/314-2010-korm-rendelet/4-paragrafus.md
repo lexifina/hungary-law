@@ -1,23 +1,20 @@
-## 3. Az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet jogállása
+## 3. [^8] Az OMMF munkahigiénés és foglalkozás-egészségügyi feladatai
 
-4. § (1) Az OMMF munkavédelmi tevékenységének ellátását az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet (a továbbiakban: OMFI) segíti. Az OMFI felett a miniszter gyakorolja – a középirányító szervre át nem ruházott – irányítási jogokat. Az OMFI középirányító szerve – a (4) bekezdésben felsorolt jogok tekintetében – az OMMF. Az OMFI ellátja az alapító okiratában és külön jogszabályban meghatározott munkahigiénés, foglalkozás-egészségügyi és a munkaegészségügyi kutatással összefüggő feladatokat.
+4. §[^9] (1) Az OMMF ellátja az alapító okiratában és külön jogszabályban meghatározott munkahigiénés, foglalkozás-egészségügyi és a munkaegészségügyi kutatással összefüggő feladatokat.
 
-(2) Az OMFI önállóan működő költségvetési szerv.
+(2) Az OMMF ellátja különösen az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüatv.) 15/A. § (2) és (3) bekezdésében, továbbá az Mvt. 83/A. § (4) bekezdésében meghatározott feladatokat.
 
-(3) Az OMFI élén igazgató áll. Az igazgatót az OMMF elnöke javaslatára a miniszter nevezi ki és menti fel. Az OMFI igazgatója felett a munkáltatói jogokat – a kinevezés és felmentés kivételével – az OMMF elnöke gyakorolja.
+(3) Az OMMF munkahigiénés és foglalkozás-egészségügyi szervként részt vesz:
 
-(4) Az OMMF-nek, mint az OMFI középirányító szervének irányító jogai a következők:
+a) a munkahigiénés és foglalkozás-egészségügyi tevékenységgel összefüggő kormányzati döntések, stratégiák megalapozásában, ezzel kapcsolatos felmérésekben;
 
-a) a Kormány vagy irányító szerv által megállapított költségvetési keretszámoknak az OMMF és OMFI közötti megosztása;
+b) a környezeti (munkakörnyezeti) és biológiai monitorozás módszertanának kialakításában és fejlesztésében;
 
-b) a költségvetés végrehajtásában az OMFI tevékenységének folyamatos figyelemmel kísérése, továbbá a jóváhagyott költségvetési keretek, illetve az azokból ellátandó feladatok teljesülésének veszélyeztetése esetén intézkedés kezdeményezése az irányító szervnél;
+c) az európai uniós tagállami működéssel kapcsolatos, közösségi jogharmonizációs, továbbá az Európai Unió döntéshozatali folyamataiban a munkahigiéne, valamint a foglalkozás-egészségügy területén;
 
-c) javaslattétel, illetve közreműködés az irányító szerv hatáskörébe utalt előirányzat-módosítási, -átcsoportosítási, -zárolási, -törlési és -felhasználási jogkörök gyakorlása tekintetében;
+d) a munkaegészségügyi vonatkozású hazai és európai uniós programok végrehajtásával kapcsolatos feladatok megoldásában;
 
-d) közreműködés az OMFI tevékenységéről, és költségvetési kerete végrehajtásáról, a részére meghatározott teljesítménykövetelmények teljesítéséről szóló beszámolóinak az értékelésében, felülvizsgálatában;
+e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.
 
-e) javaslattétel, illetve közreműködés az OMFI pénzmaradványának, előirányzat-maradványának megállapítása, illetve jóváhagyása tekintetében, ideértve a kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználási céljának, rendeltetésének felülvizsgálatát is;
-
-f) közreműködés az OMFI kezelésében lévő államháztartással összefüggő közérdekű és közérdekből nyilvános adatok kötelező közzététele, illetve erre irányuló igényre történő szolgáltatása végrehajtásának irányításában.
-
-(5) A Kormány munkahigiénés és foglalkozás-egészségügyi szervként az OMFI-t jelöli ki az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüatv.) 15/A. § (2)–(3) bekezdésében, továbbá az Mvt. 83/A. § (4) bekezdésében meghatározott feladatok ellátására.
+[^8]: A 3. alcím címe a 250/2011. (XII. 1.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^9]: A 4. § a 250/2011. (XII. 1.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.

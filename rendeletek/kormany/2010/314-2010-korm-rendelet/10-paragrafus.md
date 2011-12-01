@@ -8,17 +8,17 @@
 
 (4) A munkaügyi felügyelő a munkaügyi felügyelőség illetékességi területén valamennyi munkahelyen ellenőrzést tarthat, függetlenül a foglalkoztató székhelyétől és telephelyétől.
 
-(5)[^8] Munkaügyi bírság kiszabására, valamint a Met. 7. § (8) bekezdése szerinti határozat meghozatalára első fokon annak a munkavédelmi és munkaügyi szakigazgatási szervnek a vezetője jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
+(5)[^18] Munkaügyi bírság kiszabására, valamint a Met. 7. § (8) bekezdése szerinti határozat meghozatalára első fokon annak a munkavédelmi és munkaügyi szakigazgatási szervnek a vezetője jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
 
 (6) Az OMMF kormánytisztviselője a Magyar Köztársaság egész területén az OMMF elnöke által kiállított megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján induló elsőfokú hatósági eljárás lefolytatására az a munkaügyi felügyelőség jogosult, amelynek illetékességi területén az ellenőrzés történt.
 
 (7) Munkaügyi hatósági ügyben a fellebbezés elbírálására jogosult hatóságnak minősül
 
-a)[^9] a munkaügyi felügyelő és a munkavédelmi és munkaügyi szakigazgatási szerv eljárása vonatkozásában az OMMF;
+a)[^19] a munkaügyi felügyelő és a munkavédelmi és munkaügyi szakigazgatási szerv eljárása vonatkozásában az OMMF;
 
 b) az OMMF eljárása vonatkozásában a miniszter.
 
 (8) Munkaügyi hatósági ügyben az OMMF eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
-[^8]: A 10. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 15. § (7) bekezdésével megállapított szöveg.
-[^9]: A 10. § (7) bekezdés a) pontja a 111/2011. (VII. 4.) Korm. rendelet 15. § (8) bekezdésével megállapított szöveg.
+[^18]: A 10. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 15. § (7) bekezdésével megállapított szöveg.
+[^19]: A 10. § (7) bekezdés a) pontja a 111/2011. (VII. 4.) Korm. rendelet 15. § (8) bekezdésével megállapított szöveg.
