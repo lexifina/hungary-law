@@ -1,15 +1,19 @@
-1. § (1) E rendelet hatálya
+1. §[^2] (1) E rendelet hatálya
 
-a) a rendszerirányítás,
+a) a földgázszállítási tevékenységet végző engedélyesre (a továbbiakban: földgázszállító),
 
-b) a földgázszállítás,
+b) a rendszerirányítási tevékenységet végző engedélyesre (a továbbiakban: rendszerirányító),
 
-c) a földgázelosztás, valamint
+c) a földgázelosztási tevékenységet végző engedélyesre (a továbbiakban: földgázelosztó),
 
-d) a földgáztárolás
+d) a földgáztárolási tevékenységet végző engedélyesre (a továbbiakban: földgáztároló),
 
-legmagasabb hatósági díjához kapcsolódó árszabályozás kereteinek megállapítására terjed ki.
+e) a rendszerhasználóra, és
 
-(2)[^2] E rendelet 4. mellékletének rendelkezéseit nem kell alkalmazni a Szeged–Arad, Városföld–Donji Miholjac határkeresztező vezetékek és a Szerbia irányú kiskundorozsmai kiadási pont (a továbbiakban együtt: összekötő vezeték) díjmegállapítására.
+f) a Magyar Energia Hivatalra (a továbbiakban: Hivatal)
 
-[^2]: Az 1. § (2) bekezdése a 18/2010. (XII. 3.) NFM rendelet 14. §-a szerint módosított szöveg.
+## terjed ki.
+
+(2) A Hivatal e rendelet, valamint a földgáz rendszerhasználati díjak megállapításáról szóló 31/2009. (VI. 25.) KHEM rendelet szabályainak figyelembevételével állapítja meg a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 105. §-a szerinti rendszerhasználati díjakat.
+
+[^2]: Az 1. § a 65/2011. (XI. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.

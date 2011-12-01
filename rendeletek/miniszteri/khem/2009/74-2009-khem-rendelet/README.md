@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-74-20-2
 | 2010-03-25 | 2009-74-20-2M.2 | 23/2010. (III. 24.) KHEM rendelet |
 | 2010-12-04 | 2009-74-20-2M.3 | 18/2010. (XII. 3.) NFM rendelet |
 | 2011-07-01 | 2009-74-20-2M.4 | 18/2010. (XII. 3.) NFM rendelet |
+| 2011-12-01 | 2009-74-20-2M.5 | 65/2011. (XI. 30.) NFM rendelet |

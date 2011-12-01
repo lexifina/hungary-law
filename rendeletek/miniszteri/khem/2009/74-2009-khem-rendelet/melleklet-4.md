@@ -1,28 +1,42 @@
-4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^5]
+4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^12]
 
-Az egyes földgázár-szabályozással összefüggő miniszteri rendeletek módosításáról szóló
-
-18/2010. (XII. 3.) NFM rendelet hatálybalépése és a 2013. december 31. közötti hatósági ármegállapítások árszabályozásának keretei
+A hatósági ármegállapítások árszabályozásának keretei
 
 1. Áralkalmazási eljárások
 
-1.1. Rendszeres árkorrekció
+1.1. Rendszeres ármegállapítás
 
-Az egyes földgázár-szabályozással összefüggő miniszteri rendeletek módosításáról szóló 18/2010. (XII. 3.) NFM rendelet hatálybalépésétől 2013. december 31-ig tartó időszak során a rendszeres árkorrekció gázévekre vonatkozóan július 1-jén történik, első alkalommal 2011. július 1-jén.
+2013. december 31-ig a rendszerhasználati díjak megállapítására irányuló közigazgatási hatósági eljárásban a Hivatal rendszeres ármegállapítást (a továbbiakban: rendszeres ármegállapítás) gázévente végez a jelen mellékletben meghatározottak szerint.
 
-1.2. Rendkívüli árkorrekció
+1.2. Rendkívüli ármegállapítás
 
-A Hivatal rendkívüli árkorrekcióra akkor tesz javaslatot, ha a földgázpiaci események azt egyértelműen szükségessé teszik.
+A Hivatal rendkívüli ármegállapítás során is dönthet a rendszerhasználati díjakról, ha azt az e rendeletben foglaltakon kívül a földgázpiaci események egyértelműen szükségessé teszik. A Hivatal ezen események hatását akkor érvényesíti a rendszerhasználati díjakban, amikor azok elismerése indokolt.
 
 1.3. Inflációs kritérium
 
-A rendszeres árkorrekció során inflációs korrekcióra abban az esetben kerül sor, ha a „becslési hibával korrigált inflációkövetési tényező” mértéke meghaladja az 5%-ot (lásd 2.1.2. pont). A korrekció mértéke az adott évre számított „becslési hibával korrigált inflációkövetési tényező” 5%-ot meghaladó része.
+A rendszeres ármegállapítás során inflációs korrekcióra abban az esetben kerül sor, ha a „becslési hibával korrigált inflációkövetési tényező” mértéke meghaladja az 5%-ot. A korrekció mértéke az adott évre számított „becslési hibával korrigált inflációkövetési tényező” 5%-ot meghaladó része. A jelöléseket e melléklet 2.3. alpontja tartalmazza.
 
-1.4. Az infláció figyelembevétele a júliusi rendszeres árkorrekciók során
+a) A figyelembe veendő becslési hibával korrigált inflációkövetési tényező mértéke, ha az 5%-os inflációs kritérium nem teljesül:
 
-Az inflációs kritérium teljesülésekor számított „inflációkövetési tényező” előrejelzésének hibáját utólag, az árkorrekciós javaslatok között eltelt időszakra vetített Központi Statisztikai Hivatal (a továbbiakban: KSH) tény – háztartási energia nélküli – árindex alapján kell figyelembe venni a következők szerint:
+zhf = 1
 
-CPIX=[100 × (F–100) – X × (HE–100)]/(100–X)
+b) A figyelembe veendő becslési hibával korrigált inflációkövetési tényező mértéke, ha az 5%-os inflációs kritérium teljesül:
+
+zhf = zh–0,05
+
+c) A becslési hibával korrigált inflációkövetési tényező meghatározása:
+
+zh = z x h, ahol
+
+z = 1+Y/100
+
+h = (1 +YRe/100)/(1 +Ye/100)
+
+1.4. A fogyasztói árindex háztartási energia sortól való megtisztításával képzett árindex számítása az 1.3. pont szerinti rendszeres ármegállapítás során.
+
+Az inflációs kritérium teljesülésekor számított „inflációkövetési tényező” előrejelzésének hibáját utólag, az ármegállapítási javaslatok között eltelt időszakra vetített KSH tény – háztartási energia nélküli – árindex alapján kell figyelembe venni. Az árindex számításának módszere:
+
+CPIX = [100 x (F–100) – X x (HE–100)]/(100–X)
 
 ahol:
 
@@ -36,15 +50,17 @@ HE: a háztartási energia KSH által közzétett éves átlagos árindexe.
 
 1.5. Az átlagárak és a díjak
 
-A rendszeres árkorrekció során érvényesítendő átlagárak (árszint) meghatározásával együtt kell az indexált árbevételtömegből számított átlagárakat lebontani díjtételekre.
+A rendszeres ármegállapítás során érvényesítendő átlagárak (árszint) meghatározásával együtt kell az indexált árbevétel tömegből számított átlagárakat lebontani díjtételekre.
 
-A szállítási és elosztási forgalmi díjak számítása esetén – a gázfelhasználási költséget tartalmazó díjelemek kivételével – a júliusi rendszeres árkorrekciót megelőző naptári évre vonatkozó (napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell alapul venni, ha a napfok módszerrel korrigált mennyiség legalább 1,5%-kal változik. Egyéb esetekben az induló árak megállapításánál figyelembe vett (napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell figyelembe venni. A napfok módszerrel való korrigálás metodikáját a Hivatal honlapján közzé teszi. Az adott gázévben meghatározott elosztás indokolt árbevétel igényének részét képező – elosztott mennyiségre vetített – elszámolási különbözet indokolt költsége a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet 1. melléklet 1. pontjában szereplő képlettel adott gázévre számított átlagos földgázárral és az országos átlagos szállítási átlagárral kerül kiszámításra. Amennyiben adott gázévben az elosztónként differenciált elszámolási különbözet értéke ±3%-kal eltér a díjak számításánál figyelembe vett elszámolási különbözet indokolt költségétől, a különbséggel el kell számolni a következő gázévben.
+A szállítási és elosztási forgalmi díjak számítása esetén – a gázfelhasználási költséget tartalmazó díjelemek kivételével – a rendszeres ármegállapítást megelőző naptári évre vonatkozó (napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell alapul venni, ha a napfok módszerrel korrigált mennyiség legalább 1,5%-kal változik. Egyéb esetekben az induló árak megállapításánál figyelembe vett (napfok módszerrel korrigált) mennyiségi adatokat és súlyarányokat kell figyelembe venni. A napfok módszerrel való korrigálás módszertanát a Hivatal honlapján közzé teszi.
 
-Az alap- és teljesítménydíjakat az indexált árbevétel-tömeg és a legutolsó rendelkezésre álló adatok (naturália) alapján kell meghatározni.
+Az adott gázévben meghatározott elosztás indokolt árbevétel igényének részét képező – elosztott mennyiségre vetített – elszámolási különbözet indokolt költsége a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet 1. melléklet 1. pontjában szereplő képlettel adott gázévre számított átlagos földgázárral és az országos átlagos szállítási átlagárral kerül kiszámításra. Amennyiben adott gázévben az elosztónként differenciált elszámolási különbözet értéke 3%-ot meghaladó mértékben eltér a díjak számításánál figyelembe vett elszámolási különbözet indokolt költségétől, az eltérés irányának megfelelően a +3% feletti vagy a –3% alatti különbséget a következő gázévre vonatkozó elosztói díjra vonatkozó ármegállapítás során a Hivatal figyelembe veszi.
 
-A gázévben beszedett pótdíjak és aukciós bevételek a következő árkorrekciónál csökkentő tételként figyelembevételre kerülnek.
+A Hivatal az alap- és kapacitásdíjakat az indexált árbevétel-tömeg és a legutolsó rendelkezésre álló adatok (naturália) alapján határozza meg, amely díjmeghatározás során a felhasználók érdekeinek figyelembevételével, mérlegeléssel dönt a figyelembe vehető kapacitás-lekötések mértékéről.
 
-1.6. A tőkeköltség figyelembevétele
+A Hivatal a gázévben beszedett pótdíjakat és aukciós bevételeket a következő rendszeres ármegállapítás során csökkentő tételként veszi figyelembe.
+
+1.6. A tőkeköltség figyelembevétele a rendszeres ármegállapítás során
 
 Az egyetemes szolgáltatásra jogosult felhasználók ellátásának mértékéig a földgázszállítók, a földgázelosztók és a földgáztárolók által végzett tevékenység tőkeköltségének reál hozamtényezője:
 
@@ -54,17 +70,17 @@ A földgázszállítók, a földgázelosztók és a földgáztárolók által a 
 
 THV: a tőkeköltség reál hozamtényezője: rendszerirányítás és földgázszállítás esetében 8,78%, földgázelosztás esetében: 8,29%, földgáztárolás esetében: 10,05%.
 
-1.7. Nyereségkorlát és nyereségvisszajuttatás
+1.7. Nyereségkorlát és nyereség visszajuttatás a rendszeres ármegállapítás során
 
-a) A hatósági áras engedélyesek engedélyköteles tevékenysége(i) által szabadon elérhető nyereség felső korlátjának (NYK) kiszámítása adott engedélyesre:
+a) A szállítást, rendszerirányítást, tárolást és elosztást végző engedélyesek engedélyköteles tevékenysége(i) által szabadon elérhető nyereség felső korlátjának (NYK) kiszámítása adott engedélyesre:
 
-2010-re: NYK = 1,2 x TK2010 x (1+CPIX2010/100–k3)1/4+TFK
+2010-re: NYK = 1,2 x TK2010 x (1 + CPIX2010/100 – k3)1/4 + TFK
 
-2011-re: NYK = TK x (1+CPIX2010/100-k3)1/4 x (1+CPIX2011/100)+TFK
+2011-re: NYK = TK x (1 + CPIX2010/100)1/4 x (1 + CPIX2011/100) + TFK+TP
 
-2012-re: NYK = TK x (1+CPIX2010/100-k3)1/4 x (1+CPIX2011/100) x (1+CPIX2012/100)+TFK
+2012-re: NYK = TK x (1 + CPIX2010/100)1/4 x (1 + CPIX2011/100) x (1 + CPIX2012/100) + TFK+TP
 
-2013-ra: NYK = TK x (1+CPIX2010/100-k3)1/4 x (1+CPIX2011/100) x (1+CPIX2012/100) x (1+CPIX2013/100)+TFK
+2013-ra: NYK = TK x (1 + CPIX2010/100)1/4 x (1 + CPIX2011/100) x (1 + CPIX2012/100) x (1 + CPIX2013/100) + TFK+TP
 
 ahol:
 
@@ -74,11 +90,9 @@ TK2010: a szállító és a rendszerirányító hazai célú földgázszállít�
 
 TK: az adott hatósági áras engedélyes adott tevékenységére kalkulált, a nyereségkorlát számításakor figyelembe vett súlyozott tőkeköltségelem (az állami párnagáz tároló általi megszerzése során befizetett bányajáradéknak a tárolásra jutó tőkefedezeti költsége nélkül), számítási módja
 
-– az elosztás esetében: a nyereségkorlát számításakor figyelembe vett súlyozott tőkeköltség elem az értékesítési kategóriákra osztott tőkeköltségek összege. Az értékesítési kategóriákra osztott tőkeköltség megállapítása az engedélyesek (a 20 m3/h feletti értékesítési kategóriákra vonatkozó kapacitás-lekötési és gázmérő névleges teljesítmény adatokkal, egyetemes szolgáltatásra jogosult és nem jogosult bontásban) adatszolgáltatása alapján történik.
+–  az elosztás esetében: a nyereségkorlát számításakor figyelembe vett súlyozott tőkeköltség elem az értékesítési kategóriákra osztott tőkeköltségek összege. Az értékesítési kategóriákra osztott tőkeköltség megállapítása az engedélyesek (a 20 m3/h feletti értékesítési kategóriákra vonatkozó kapacitás-lekötési és gázmérő névleges teljesítmény adatokkal, egyetemes szolgáltatásra jogosult és nem jogosult bontásban) adatszolgáltatása alapján történik.
 
-– szállítás és tárolás esetében: TK = TIEi x (f x THESZ + g x THv)
-
-ahol:
+–  szállítás és tárolás esetében: TK = TIEi x (f x THESZ + g x THV) ahol:
 
 TIEi: az adott hatósági áras engedélyes azon 2008. év végi, valamint a 2009. évben dokumentáltan aktiválásra kerülő tárgyi eszközeinek és immateriális javainak 2010. áprilisi árszintre átszámított (átértékelt) nettó értéke, amelyeket az eszköz- és költség-felülvizsgálat alapján a Hivatal indokoltnak minősített [meghatározásánál a hatósági áras engedélyes általános működését lehetővé tevő eszközök (pl. irodaház) értékének arányos részét is figyelembe vette]
 
@@ -86,17 +100,19 @@ f: az egyetemes szolgálásra jogosult felhasználók ellátása érdekében lek
 
 g: a nem az egyetemes szolgálásra jogosult felhasználók ellátása érdekében lekötött éves kapacitások aránya az adott gázév tényleges összes lekötéséhez viszonyítva
 
-CPIX2010: a KSH által közzétett 2010. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex, százalék
+CPIX2010: a KSH által közzétett 2010. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex, százalékban kifejezve
 
-CPIX2011: Abban az esetben, ha a KSH által közzétett 2011. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2011 megegyezik az 5%-ot meghaladó értékkel, százalék. Egyébként a (1+CPIX2011/100) kifejezés értéke 1.
+CPIX2011: Abban az esetben, ha a KSH által közzétett 2011. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2011 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként a (1 + CPIX2011/100) kifejezés értéke 1.
 
-CPIX2012: Abban az esetben, ha a KSH által közzétett 2012. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2012 megegyezik az 5%-ot meghaladó értékkel, százalék. Egyébként a (1+CPIX2012/100) kifejezés értéke 1.
+CPIX2012: Abban az esetben, ha a KSH által közzétett 2012. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2012 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként a (1 + CPIX2012/100) kifejezés értéke 1.
 
-CPIX2013: Abban az esetben, ha a KSH által közzétett 2013. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2012 megegyezik az 5%-ot meghaladó értékkel, százalék. Egyébként a (1+CPIX2013/100) kifejezés értéke 1.
+CPIX2013: Abban az esetben, ha a KSH által közzétett 2013. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2013 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként a (1 + CPIX2013/100) kifejezés értéke 1.
 
 TFK: a párnagáz elismert tőkefedezeti költsége,
 
-k3: inflációkorrekciós tényező a 0,013≤k≤0,017 sávban.
+k3: inflációkorrekciós tényező a 0,013 ≤ k ≤ 0,017 sávban.
+
+TP: A 2. melléklet 2. pontja szerinti TIEi-ben, a 2009. évi eszköz- és költségfelülvizsgálatban nem szerepeltetett, e melléklet 1.8 pontja szerint figyelembe vett új beruházások tőkeköltsége.
 
 b) A földgázszállítási, földgáztárolási és földgázelosztási működési engedélyesek engedélyköteles tevékenysége(i) által szabadon elérhető 2009. évi nyereség felső korlátjának (NYK) kiszámítására 2010-ben az alábbi képlet alkalmazandó az adott társaságra:
 
@@ -110,61 +126,47 @@ TK: a földgázszállítási és földgázelosztási működési engedélyes fö
 
 TFK: a párnagáz elismert tőkefedezeti költsége.
 
-c) Ha az engedélyköteles tevékenység(ek)re vonatkozó (a rendszerirányító és a földgáz-szállító esetében az összevont) – a tárgyévi auditált Éves Beszámolóban szereplő, az ÜKSZ és a földgázellátás hatósági díjait tartalmazó jogszabályok alapján kivetett, illetve beszedett pótdíjak és aukciós díjak nélkül számított – üzemi (üzleti) tevékenységi eredmény (ÜNY) túllépi a nyereség korlátot (NYK), azaz ÜNY>NYK, az adott földgázszállítási, földgázelosztási vagy tárolói működési engedéllyel rendelkező társaság köteles a Hivatallal egyeztetett módon – a 2010. és 2011. évek vonatkozásában a GET 2011. június 30-án hatályos 105. § (4) bekezdése és a GET 136. §-a szerinti kiegyenlítő fizetésekre a földgáz rendszerhasználati díjak megállapításáról szóló 31/2009. (VI. 25.) KHEM rendelet 10/C. § (3) bekezdése alapján kiadott határozatokban foglaltak figyelembevételével – többlet nyereségét megosztani a felhasználókkal.
+c) Ha az engedélyköteles tevékenység(ek)re vonatkozó (a rendszerirányító és a földgázszállító esetében az összevont) – a tárgyévi auditált Éves Beszámolóban szereplő, az ÜKSZ és a földgáz rendszerhasználati díjak megállapításáról szóló 31/2009. (VI. 25.) KHEM rendelet (a továbbiakban: RHD rendelet) alapján kivetett, illetve beszedett pótdíjak és aukciós díjak nélkül számított – üzemi (üzleti) tevékenységi eredmény (ÜNY) túllépi a nyereség korlátot (NYK), azaz ÜNY>NYK, az adott földgázszállítási, földgázelosztási vagy tárolói tevékenységet végző társaság köteles a Hivatallal egyeztetett módon – az elosztók esetén a 2010. és 2011. évek vonatkozásában a GET 2011. június 30-án hatályos 105. § (4) bekezdése és a GET 136. §-a szerinti kiegyenlítő fizetésekre az RHD rendelet 10/C. § (3) bekezdése alapján kiadott határozatokban foglaltak figyelembevételével – többlet nyereségét megosztani a rendszerhasználókkal. A többlet nyereség megosztása úgy történik, hogy azt a Hivatal a rendszerhasználati díjak megállapítására irányuló eljárás során a díjszámításkor díjcsökkentő tételként veszi figyelembe. A Hivatal a többlet nyereséget több gázévre megosztva is elvonhatja.
 
 A földgázelosztó esetében ÜNY-növelő tételként figyelembe kell venni az elosztási tevékenység rendkívüli bevételeit is.
 
 Abban az esetben, ha a földgázelosztó és a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szolgáltatói engedéllyel rendelkezett engedélyes 2007. évi jogi szétválása kapcsán a földgázelosztónál – az elosztói engedélyes részére történő eszközátadás során az átadott eszközökhöz kapcsolódó csatlakozási díjak, beruházási és hálózatfejlesztési hozzájárulások, továbbá a térítésmentesen átvett eszközök miatti passzív időbeli elhatárolások felszabadítása következtében – rendkívüli bevétel került kimutatásra, akkor a nyereség-visszajuttatás számítása szempontjából a földgázelosztó 2007. évi ÜNY-e az eszközátadás miatti passzív elhatárolás felszabadításából eredő rendkívüli bevétellel csökkentésre került. Ebben az esetben a földgázelosztónál az ÜNY értékét minden évben növelni kell az átvett eszközök értékcsökkenésének azon részével, amely a tárgyévben elszámolható lett volna az – átadónál feloldott – eszközökhöz kapcsolódó passzív időbeli elhatárolás összegével szemben, ha az eszközátruházásra nem került volna sor. Az Éves Beszámoló Kiegészítő Mellékletében be kell mutatni a fenti számítás hatását.
 
-d) A felhasználókat illető c) pont szerinti többletnyereség: NYV = (ÜNY–NYK)/2.
+d) A díjszámításnál figyelembe veendő a c) pont szerinti többletnyereség: NYV = (ÜNY–NYK)/2.
 
-1.8. Új szállítóvezetéki és tárolói beruházások
+1.8. Új szállítóvezetéki és tárolói beruházások figyelembevétele a rendszeres ármegállapítás során
 
-Az árkarbantartás során utólag elismerhető azon – az induló ár költségbázisában nem szereplő – új szállítóvezetéki és tárolói beruházás, amely a GET 82. § (2) – 83. § (1) bekezdései szerinti fejlesztési irányelvvel összhangban van. Az új beruházások figyelembevétele esetén figyelembe kell venni az esetleges naturális változásokat is.
+A rendszeres ármegállapítás során utólag elismerhető azon – az induló ár költségbázisában nem szereplő – új szállítóvezetéki és tárolói beruházás, amely a GET 82. § (2) bekezdése, valamint 83. § (1) bekezdése szerinti fejlesztési irányelvvel összhangban van vagy erre a Hivatal engedélyt adott. Az új beruházások kapcsán figyelembe kell venni az esetleges naturália változásokat is. A rendszeres ármegállapítás során elismert beruházások tőkeköltségét figyelembe kell venni a nyereségkorlát számításánál is.
 
 2. Ármeghatározások és jelölések
 
-A rendszeres árkorrekciók során a rendszerhasználati díjak legmagasabb hatósági árainak megállapításánál a következő évre vonatkozóan (tárgyidőszak), az előző év alapján (bázisidőszak) a következő képleteket kell figyelembe venni akként, hogy a 2.3. pontja szerinti „külön módszertan alapján számított költségeket” a képletekben szereplő költségelemek nem tartalmazhatják. A 2.3. pontja szerinti „külön módszertan alapján számított költségeket” minden júliusi árkorrekció alkalmával újra kell számolni. (A jelöléseket e melléklet 2.4. pontja tartalmazza.)
+A rendszeres ármegállapítás során a rendszerhasználati díjak megállapításánál a Hivatal a következő évre vonatkozóan (tárgyidőszak), az előző év alapján (bázisidőszak) a következő képleteket veszi figyelembe akként, hogy a 2.2. pontja szerinti „külön módszertan alapján számított költségeket” a képletekben szereplő költségelemek nem tartalmazhatják. A 2.2. pontja szerinti „külön módszertan alapján számított költségeket” a rendszeres ármegállapítások alkalmával újra kell számolni. (A jelöléseket e melléklet 2.3. pontja tartalmazza.)
 
-2.1. A becslési hibával korrigált inflációkövetési tényező meghatározása:
+2.1.1. A földgáz alaprendszeren történő továbbítása és a rendszerirányítás érdekében felmerülő költségelemek árban elismerésre kerülő fajlagos értéke (a rendszeres ármegállapításnál):
 
-2.1.1. A becslési hibával korrigált inflációkövetési tényező mértéke, ha az 5%-os inflációs kritérium nem teljesül:
+a = ae x zhf
 
-1. zhf = 1
+2.1.2. A földgáz tárolása érdekében felmerülő költségelemek árban elismerésre kerülő fajlagos értéke (a rendszeres ármegállapításnál):
 
-2.1.2. A becslési hibával korrigált inflációkövetési tényező mértéke, ha az 5%-os inflációs kritérium teljesül:
+b = be x zhf
 
-2. zhf = zh–0,05
+2.1.3. A földgáz elosztása érdekében felmerülő költségelemek árban elismerésre kerülő fajlagos értéke (a rendszeres ármegállapításnál):
 
-3. zh = z × h
+c = ce x zhf
 
-4. z = 1+Y/100
+2.2. A külön módszertan alapján figyelembe veendő költségek:
 
-5. h = (1+YRe/100)/(1+Ye/100)
+Ha az árszabályozás jellegéből adódóan az előző időszak során hiány keletkezett, azt a rendszeres ármegállapításnál csak olyan mértékben kell figyelembe venni, hogy az 1. pont 1.7. alpontjában szereplő, adott évre indexált TK mértékét ne haladja meg.
 
-2.2. Az együttműködő földgázrendszerhez kapcsolódó ármeghatározás
+2.3. Jelölések
 
-2.2.1. A földgáznak a belföldi földgázszállító rendszeren történő továbbítása és a rendszerirányítás érdekében felmerülő költségelemek árban elismerésre kerülő fajlagos értéke (júliusi rendszeres árkorrekciónál):
+a: a belföldi felhasználású földgáz alaprendszeren történő továbbításának és
 
-6. a = ae × zhf
+a rendszerirányításnak az árakban elismerésre kerülő fajlagos költsége a tárgyidőszakban, Ft/m3
 
-2.2.2. A földgáz tárolása érdekében felmerülő költségelemek árban elismerésre kerülő fajlagos értéke (júliusi rendszeres árkorrekciónál):
+ae: a belföldi felhasználású földgáz alaprendszeren történő továbbításának és
 
-7. b = be × zhf
-
-2.2.3. A földgáz elosztása érdekében felmerülő költségelemek árban elismerésre kerülő fajlagos értéke (júliusi rendszeres árkorrekciónál):
-
-8. c = ce × zhf
-
-2.3. A külön módszertan alapján figyelembe veendő költségek:
-
-Ha az árszabályozás jellegéből adódóan az előző időszak során hiány keletkezett, azt a júliusi rendszeres árkorrekciónál csak olyan mértékben kell figyelembe venni, hogy az 1. pont 1.7. alpontjában szereplő, adott évre indexált TK mértékét ne haladja meg.
-
-2.4. Jelölések
-
-a: a belföldi felhasználású földgáz belföldi földgázszállító rendszeren történő továbbításának és a rendszerirányításnak az árakban elismerésre kerülő fajlagos költsége a tárgyidőszakban, Ft/m3
-
-ae: a belföldi felhasználású földgáz a belföldi földgázszállító rendszeren történő továbbításának és a rendszerirányításnak az árakban elismert (figyelembe vett) fajlagos költsége a bázisidőszakban, Ft/m3
+a rendszerirányításnak az árakban elismert (figyelembe vett) fajlagos költsége a bázisidőszakban, Ft/m3
 
 b: a belföldi felhasználású földgáz tárolása érdekében felmerülő költségelemek árakban elismerésre kerülő fajlagos értéke a tárgyidőszakban, Ft/m3
 
@@ -176,16 +178,16 @@ ce: a belföldi felhasználású földgáz elosztása érdekében felmerülő k�
 
 h: a korábbi inflációs célkitűzés becslési hibáját korrigáló hibakorrekciós tényező
 
-Y: az éves átlagos KSH tény – a háztartási energia sor elhagyásával számított – fogyasztói árváltozásból és az MNB által közzétett aktuális (legutolsó) éves átlagos fogyasztói árindex-előrejelzés (az árelőkészítés lezárása előtti utolsó „Jelentés az infláció alakulásáról”) alapján képzett (előretekintő) átlagos fogyasztói árváltozás a tárgyidőszaki (rendszeres) árkorrekciós időszak közepe és az azt megelőző (rendszeres) árkorrekciós időszak közepe közötti időszakra számítva, százalék
+Y: az éves átlagos KSH tény – a háztartási energia sor elhagyásával számított – fogyasztói árváltozásból és az MNB által közzétett aktuális (legutolsó) éves átlagos fogyasztói árindex-előrejelzés (az árelőkészítés lezárása előtti utolsó „Jelentés az infláció alakulásáról”) alapján képzett (előretekintő) átlagos fogyasztói árváltozás a tárgyidőszaki rendszeres ármegállapítási időszak közepe és az azt megelőző rendszeres ármegállapítási időszak közepe közötti időszakra számítva, százalékban kifejezve
 
-Ye: a tárgyidőszaki (rendszeres) árkorrekciós javaslatot megelőző júliusi (rendszeres) árkorrekciós javaslatnál –, illetve az első (rendszeres) árkorrekciónál az induló rendszerhasználati díjakra tett javaslatban – figyelembe vett fogyasztói árváltozás, százalék
+Ye: a tárgyidőszaki rendszeres ármegállapítási javaslatot megelőző júliusi rendszeres ármegállapításnál-, illetve az első rendszeres ármegállapításnál az induló rendszerhasználati díjakra tett javaslatban – figyelembe vett fogyasztói árváltozás, százalékban kifejezve
 
-YRe: a háztartási energia sor elhagyásával számított éves átlagos KSH tény – illetve ennek hiányában az MNB által közétett aktuális (legutolsó) éves átlagos fogyasztói árindex-előrejelzés alapján képzett (előretekintő) átlagos – fogyasztói árváltozásból az Ye által lefedett időszakra képzett fogyasztói árváltozás százalék (A KSH „A fogyasztói árak alakulása” című kiadványa, illetve az MNB-nek az árelőkészítés lezárása előtti utolsó „Jelentés az infláció alakulásáról” című kiadványa alapján.)
+YRe: a háztartási energia sor elhagyásával számított éves átlagos KSH tény – illetve ennek hiányában az MNB által közétett aktuális (legutolsó) éves átlagos fogyasztói árindex-előrejelzés alapján képzett (előretekintő) átlagos – fogyasztói árváltozásból az Ye által lefedett időszakra képzett fogyasztói árváltozás százalékban kifejezve (A KSH „A fogyasztói árak alakulása” című kiadványa, illetve az MNB-nek az árelőkészítés lezárása előtti utolsó „Jelentés az infláció alakulásáról” című kiadványa alapján.) A mutató tény elemének számítása során az 1.4. pontot is figyelembe kell venni.
 
-z: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban számított inflációkövetési tényező (hibakorrekciós tényező nélkül)
+z: a tárgyidőszaki rendszeres ármegállapításnál számított inflációkövetési tényező (hibakorrekciós tényező nélkül)
 
-zh: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban számított hibakorrekciós tényezővel korrigált inflációkövetési tényező
+zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekciós tényezővel korrigált inflációkövetési tényező
 
-zhf: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező
+zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^5]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 5. §-a szerint módosított szöveg.
+[^12]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 65/2011. (XI. 30.) NFM rendelet 5. § (7) bekezdésével megállapított szöveg.

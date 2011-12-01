@@ -1,12 +1,10 @@
-## A Szeged–Arad, a Városföld–Donji Miholjac határkeresztező vezetékek és a Szerbia irányú kiskundorozsmai kiadási pont díjmegállapításának keretszabályai
+## A Románia irányú csanádpalotai kilépési pont és a Szerbia irányú kiskundorozsmai kiadási pont díjmegállapításának keretszabályai
 
 ## I. A szállítási forgalmi díj meghatározása
 
-## A Magyar Energia Hivatal (a továbbiakban: Hivatal) minden összekötővezeték-beruházás esetén megvizsgálja az adott összekötővezeték-szakaszon alkalmazandó forgalmi díj megállapításának szükségességét.
+## A Hivatal minden összekötővezeték-beruházás esetében megvizsgálja az adott összekötővezeték-szakaszon alkalmazandó forgalmi díj megállapításának szükségességét.
 
-## Az összekötővezeték-beruházás a Magyar Köztársaság államhatárán belül található szállítóvezeték-rendszer – kivéve a kiskundorozsmai és a csanádpalotai kilépési pontokhoz tartozó vezetékszakaszokat – (a továbbiakban: alaprendszer) forgalmi díját nem növelheti.
-
-## Ha az összekötő vezeték az alaprendszer forgalmi díját csökkenti, azon külön forgalmi díj nem kerül megállapításra.
+## Az összekötő vezeték az alaprendszernek a rendszerhasználati díj számítása szempontjából nem része, azonban a forgalmi díjak számításánál figyelembevételre kerülhet, ha az alaprendszer forgalmi díját csökkenti. Ebben az esetben az összekötő vezetékre az alaprendszer forgalmi díja alkalmazandó.
 
 ## A forgalmi díj meghatározásához a költségek közül a mennyiség-arányos költségeket (a nyomásfokozás, a saját gázfelhasználás költségeit) és a közvetett költségek arányos részét kell figyelembe venni. Az arányosítás mértéke a közvetlen mennyiség-arányos költség és az összes közvetlen költség hányadosa.
 
@@ -50,9 +48,9 @@
 
 ## WACCi = [(1 + r) * (1+CPIi)–1] * (1 – ti)
 
-## r: a Hivatal által felülvizsgált és az adott összekötővezeték-beruházásra jóváhagyott adózás előtti súlyozott átlagos reál tőkehozam
+## r: a Hivatal által felülvizsgált és az adott összekötővezeték-beruházásra elfogadott adózás előtti súlyozott átlagos reál tőkehozam
 
-## CPIi: a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett aktuális (legutolsó) „Jelentés az infláció alakulásáról” című kiadványban szereplő átlagos éves fogyasztói árindex előrejelzés az i-edik évre vonatkozóan, százalék (Közép- és hosszú távon az MNB előrejelzése helyett a Hivatal által az MNB-vel egyeztetett inflációsprognózis is figyelembe vehető.)
+## CPIi: a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett aktuális (legutolsó) „Jelentés az infláció alakulásáról” című kiadványban szereplő átlagos éves fogyasztói árindex előrejelzés az i-edik évre vonatkozóan, százalékban kifejezve (Közép- és hosszú távon az MNB előrejelzése helyett a Hivatal figyelembe veheti az MNB-vel egyeztetett inflációsprognózist is.)
 
 ## ti: a társasági eredményre ható adók adókulcsa az i-edik évben
 
@@ -74,7 +72,7 @@
 
 ## 14. Költségek:
 
-## Üzemeltetési és fenntartási feladatok elvégzéséhez szükséges közvetlen és közvetett költségek előzetes kalkuláció és benchmark adatok alapján. A benchmark adat az azonos, illetve hasonló műszaki paraméterekkel rendelkező beruházás, a magyarországi vezetékszakasz költség-felülvizsgálattal jóváhagyott üzemeltetési és fenntartási költsége, amelyből az új vezetékszakaszra nem jellemző költségek kiszűrésre kerülnek.
+## Üzemeltetési és fenntartási feladatok elvégzéséhez szükséges közvetlen és közvetett költségek előzetes kalkuláció és benchmark adatok alapján. A benchmark adat az azonos, illetve hasonló műszaki paraméterekkel rendelkező beruházás, a magyarországi vezetékszakasz költség-felülvizsgálattal elfogadott üzemeltetési és fenntartási költsége, amelyből az új vezetékszakaszra nem jellemző költségek kiszűrésre kerülnek.
 
 ## A szállítási kapacitásdíj kalkulációjához a költségek közül a „fix jellegű” költségeket kell figyelembe venni. A költségek nem tartalmazzák a forgalmi díj számításához alkalmazott, mennyiségarányos költségelemeket. Évente 1% hatékonyságjavítás („k”) kerülhet figyelembevételre.
 
@@ -86,16 +84,22 @@
 
 ## III. A díjszámítás folyamata
 
-## A szállítási feladat megkezdésekor érvényes szállítási kapacitásdíj (induló díj) meghatározásához a DCF modell szerinti költség- és díjértékek előrejelzéséhez a fenti módszertanban meghatározott CPIi indexet kell alkalmazni. A DCF modell szerinti számítás évente korrigálásra kerül a fenti módszertan szerinti paraméterek már ismert tény értékeinek megfelelően.
+## A szállítási feladat megkezdésekor érvényes szállítási kapacitásdíj (induló díj) meghatározásához a DCF modell szerinti költség- és díjértékek előrejelzéséhez a fenti módszertanban meghatározott CPIi indexet kell alkalmazni.
 
-## Az induló díj a hosszú távú szállítási szerződés időtartama alatt évenként az indexálás mértékével változik. Az évenkénti díjváltozásra a szállítói engedélyes tesz javaslatot a Hivatalnak. A javaslat módszertannak való megfelelőségét a Hivatal ellenőrzi és hagyja jóvá. Az ehhez szükséges adatokat (beleértve a tény kapacitás-lekötéseket és árbevételt) a szállítói engedélyes köteles az adott év április 1-jéig a Hivatal rendelkezésére bocsátani.
+## A DCF modell szerinti számítással meghatározott díjat a Hivatal gázévente korrigálja a fenti módszertan szerinti paraméterek már ismert tény értékeinek megfelelően.
 
-## IV. A díjfelülvizsgálat kritériuma
+## Az induló díjat a hosszú távú szállítási szerződés időtartama alatt a Hivatal gázévente szintén korrigálja a IV. pont szerinti indexálás mértékével.
 
-## Ha a tényleges paraméterek alapján számított megtérülési mutató (IRRi) 5%-kal meghaladja a kiinduló paraméterek alapján számított megtérülési mutatót (IRRi ≥ 1,05 × IRR0), akkor a díjat olyan mértékben kell korrigálni, hogy a tényleges paraméterekkel számított IRRi ne legyen nagyobb, mint 1,05 * IRR0 (IRRi ≤ 1,05* IRR0). E pont alkalmazásában az egy évnél hosszabb időtartamú lekötéssel történő kapacitásértékesítésből származó árbevétel 100%-át, az egy évnél rövidebb időtartamú lekötéssel történő kapacitásértékesítésből származó árbevétel 50%-át kell figyelembe venni. A fenti feltétel teljesülése esetén a szállítói engedélyes a soron következő éves indexálás időpontjával egyidőben köteles a díjszámítás felülvizsgálatát kezdeményezni.
+## A gázévre történő korrigálásra a szállítói engedélyes a szállítási rendszerüzemeltetési díj megállapítására vonatkozó közigazgatási hatósági eljárásban tesz javaslatot a Hivatalnak. Az ehhez szükséges adatokat (beleértve a tény kapacitás-lekötéseket és árbevételt) a szállítói engedélyes köteles az adott év április 1-jéig a Hivatal rendelkezésére bocsátani.
 
-## V. Díjváltozás kapacitásbővítés esetén
+## IV. Az indexálás mértéke
 
-## Ha a szállítói engedélyesnek az összekötő vezeték szállítási kapacitásán felül jelentős hosszú távú kapacitáslekötési igényt jeleznek, akkor az azok kielégítése érdekében végzett többletkapacitásokat biztosító beruházásokkal kapcsolatban a Hivatal a jóváhagyott díjszámítást felülvizsgálhatja.
+## Ha a tényleges paraméterek alapján számított megtérülési mutató (IRRi) 5%-kal meghaladja a kiinduló paraméterek alapján számított megtérülési mutatót (IRRi ≥ 1,05 x IRR0), akkor a díjat olyan mértékben kell korrigálni, hogy a tényleges paraméterekkel számított IRRi ne legyen nagyobb, mint 1,05 * IRR0 (IRRi ≤ 1,05* IRR0). E pont alkalmazásában az egy évnél hosszabb időtartamú lekötéssel történő kapacitásértékesítésből származó árbevétel 100%-át, az egy évnél rövidebb időtartamú lekötéssel történő kapacitásértékesítésből származó árbevétel 50%-át kell figyelembe venni.
 
-2. melléklet a 74/2009. (XII. 7.) KHEM rendelethez
+## V. A kapacitásdíj meghatározása kapacitásbővítés esetében
+
+## Ha a szállítói engedélyesnek az összekötő vezeték szállítási kapacitásán felül jelentős hosszú távú kapacitáslekötési igényt jeleznek, akkor az azok kielégítése érdekében végzett többletkapacitásokat biztosító beruházásokkal kapcsolatban a kapacitás díj mértékére a rendszerhasználati díjak megállapítására irányuló közigazgatási hatósági eljárásban a szállítói engedélyes javaslatot tesz a Hivatalnak. A Hivatal az I–IV. pontokban foglalt szabályok alapján dönt a kapacitás díjról.
+
+2. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^10]
+
+[^10]: A 2. melléklet a 65/2011. (XI. 30.) NFM rendelet 5. § (6) bekezdése és 6. §-a szerint módosított szöveg.
