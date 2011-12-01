@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-128-00-00
 | --- | --- | --- |
 | 2010-11-30 | 2010. évi CXXVIII. törvény | 2010-128-00-00.0 (közlönyállapot) |
 | 2010-11-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-128-00-00.1 |
+| 2011-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-128-00-00.2 |
