@@ -1,3 +1,3 @@
-7. §[^7]
+## 6. § A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet (a továbbiakban: Támogatási rendelet) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^7]: A 6–11. § a 12. § (2) bekezdése alapján 2011. december 1-jén lép hatályba.
+## „(2) A távhőszolgáltató a kapcsoltan termelt hő lakosságnak szolgáltatott mennyiségére vagy az intézmény a közfeladata ellátása érdekében felhasznált kapcsoltan termelt hő mennyiségére figyelemmel járó támogatásra kizárólag akkor jogosult, ha a számára távhőt előállító létesítmény a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti átvételi kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkör tagja volt, és a létesítményre vonatkozó beruházás a Magyar Energia Hivatal (a továbbiakban: Hivatal) 2011. június 30. napján hatályos határozata alapján 2011. június 30-ig nem térült meg.”

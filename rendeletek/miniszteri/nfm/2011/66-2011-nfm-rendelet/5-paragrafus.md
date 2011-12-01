@@ -1,9 +1,5 @@
-5. § (1)[^5]
+5. § (1) Hatályát veszti az Árrendelet 2. § (3) bekezdésében a „– legmagasabb hatósági árnak minősülő –” szövegrész.
 
-(2) Hatályát veszti az Árrendelet 6. § (3) bekezdésében az „és a 7. § (2) bekezdése” szövegrész.
+(2)–(4)[^1]
 
-(3) Hatályát veszti az Árrendelet 6. § (2) bekezdése.
-
-(4) Nem lép hatályba az Árrendelet 7. §-a.
-
-[^5]: Az 5. § (1) bekezdése a 12. § (2) bekezdése alapján 2011. december 1-jén lép hatályba.
+[^1]: Az 5. § (2)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
