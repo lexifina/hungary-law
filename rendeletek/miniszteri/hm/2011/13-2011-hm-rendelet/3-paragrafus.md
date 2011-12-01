@@ -1,0 +1,3 @@
+3. § (1) A honvédelmi ágazatban foglalkoztatott munkavállalók minden balesetét, továbbá a szervezett munkavégzéssel összefüggésben észlelt baleseti veszélyt jelentő rendellenességet be kell jelenteni, ki kell vizsgálni és nyilvántartásba kell venni. A kivizsgálás során az okokat teljes körűen fel kell tárni. Az állományilletékes parancsnok, a rendszeresítésért felelős, az elöljáró parancsnok a hasonló balesetek és a baleseti veszélyt jelentő rendellenességek elkerülése érdekében meghozza a szükséges intézkedéseket.
+
+(2) A kivizsgálás eredményét a rövid és középtávú tervezés, a kockázatok értékelése és kezelése, valamint az általános megelőzési stratégia készítése, pontosítása során fel kell használni.
