@@ -4,7 +4,7 @@ Tbj. 19. § (1) A foglalkoztató és a biztosított egyéni vállalkozó álta
 
 a) kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó biztosított esetében 10 százalék,
 
-b) magánnyugdíjpénztár tagja esetében 2 százalék.
+b)
 
 A saját jogú nyugdíjas foglalkoztatott, valamint a kiegészítő tevékenységet folytató egyéni és társas vállalkozó magán-nyugdíjpénztári tagsága esetén is 10 százalék nyugdíjjárulékot fizet.
 
