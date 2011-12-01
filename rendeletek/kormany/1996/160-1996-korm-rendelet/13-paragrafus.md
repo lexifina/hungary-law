@@ -26,6 +26,12 @@ h) az Amerikai Egyesült Államok Vezérkari Főnökök Egyesített Bizottságá
 
 (4)[^58] A védett személy hivatalos programja során szükséges egészségügyi ellátás biztosításában közreműködő egészségügyi szervezetek részvételét a népjóléti miniszter[^59] a belügyminiszterrel egyetértésben rendeletben szabályozza.[^60]
 
+(5)[^61] A Köztársasági Őrezred
+
+a) a Közbeszerzési és Ellátási Főigazgatóságról szóló 53/2011. (III. 31.) Korm. rendelet 3. § (1) bekezdés a) pontja alapján a miniszterek által használt gépjárművekre kötött, 2011. december 1-jén hatályban lévő polgári jogi szerződések, valamint a fennálló vagyoni jogok és kötelezettségek (ideértve a vagyonkezelői jogot is),
+
+b) a miniszterek személyes gépkocsihasználatához 2011. december 1-je előtt a Közbeszerzési és Ellátási Főigazgatóság által biztosított – e feladatokat a munkakörük szerint ellátó – gépjárművezetők közalkalmazotti jogviszonyban való továbbfoglalkoztatása tekintetében a Közbeszerzési és Ellátási Főigazgatóság jogutódja.
+
 [^53]: A 13. § (1) bekezdése a 203/1997. (XI. 19.) Korm. rendelet 1. §-ával megállapított, a 63/2010. (III. 18.) Korm. rendelet 12. § a) és g) pontja, a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
 [^54]: A 13. § új (2) bekezdését a 203/1997. (XI. 19.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatta. A (2) bekezdés a 63/2010. (III. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^55]: A 13. § (2) bekezdés b) pontja a 10/2011. (II. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
@@ -34,3 +40,4 @@ h) az Amerikai Egyesült Államok Vezérkari Főnökök Egyesített Bizottságá
 [^58]: A 13. § eredeti (3) bekezdésének számozását a 203/1997. (XI. 19.) Korm. rendelet 1. §-a (4) bekezdésre változtatta. A 13. § új (3) bekezdését a 197/1999. (XII. 21.) Korm. rendelet 15. §-a iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre módosította. [Ez utóbbi módosító rendelet nem rendelkezett a 13. § (4) – eredeti (3) – bekezdésének (5) bekezdésre történő átszámozásáról. Utóbb feltehetően ezt a bekezdést, (5) bekezdéskénet megjelölve, a 118/2008. (V. 8.) Korm. rendelet 1. § 1371. pontja hatályon kívül helyezte.
 [^59]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének b) pontját.
 [^60]: Lásd az 5/1998. (XI. 18.) EüM rendeletet.
+[^61]: A 13. § (5) bekezdését a 231/2011. (XI. 8.) Korm. rendelet 2. §-a iktatta be.

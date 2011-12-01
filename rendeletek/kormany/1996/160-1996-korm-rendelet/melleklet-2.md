@@ -24,21 +24,21 @@
 
 ## 6. A Legfőbb Ügyészség épülete
 
-## 7.[^64] A Közigazgatási és Igazságügyi Minisztérium központi épülete
+## 7.[^65] A Közigazgatási és Igazságügyi Minisztérium központi épülete
 
 ## 8. A Külügyminisztérium központi épületei
 
-## 9.[^65] A Belügyminisztérium
+## 9.[^66] A Belügyminisztérium
 
 ## 10. Az Állami Számvevőszék központi épületei
 
 ## 11. Az Információs Hivatal központi objektuma
 
-## 12.[^66] A Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvény 2. § (1) bekezdés b) pontjában meghatározott koronázási palást
+## 12.[^67] A Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvény 2. § (1) bekezdés b) pontjában meghatározott koronázási palást
 
-## 13.[^67]
+## 13.[^68]
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^68]
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^69]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -172,8 +172,8 @@
 
 65. Zalaegerszeg, Zala Megyei Kórház
 
-[^64]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^65]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^66]: Az 1. melléklet 2. pont 12. alpontja a 78/2011. (V. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^67]: Az 1. melléklet 2. pont 13. alpontját a 276/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^68]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^65]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^66]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^67]: Az 1. melléklet 2. pont 12. alpontja a 78/2011. (V. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^68]: Az 1. melléklet 2. pont 13. alpontját a 276/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^69]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
