@@ -10,7 +10,7 @@ c) az elvégzendő munka jellegét,
 
 d) természetbeni munkabér, illetve juttatás esetén – ha ezeket a kölcsönvevő biztosítja – ezek ellentételezését.
 
-A kölcsönbeadó és a kölcsönvevő megállapodhatnak arról, hogy a természetbeni munkabért, illetve a 165–165/A. §-ban szabályozott szociális juttatásokat (a továbbiakban: közvetlenül adott szociális juttatás) a munkavállaló közvetlenül a kölcsönvevőtől kapja meg.
+A kölcsönbeadó és a kölcsönvevő megállapodhatnak arról, hogy a természetbeni munkabért, illetve a 165–165/A. §-ban szabályozott szociális juttatásokat (a továbbiakban: közvetlenül adott szociális juttatás) a kölcsönzött munkavállaló közvetlenül a kölcsönvevőtől kapja meg.
 
 (2) Az (1) bekezdésben meghatározott megállapodásban foglaltakon túl a kölcsönvevő írásban köteles tájékoztatni a kölcsönbeadót:
 
@@ -22,9 +22,9 @@ c) a munkabérfizetés alapjául szolgáló adatok közlésének módjáról és
 
 d) az elvégzendő munkára vonatkozó alkalmazási feltételekről, továbbá
 
-e) minden olyan körülményről, amely a munkavállaló foglalkoztatása szempontjából lényeges.
+e) minden olyan körülményről, amely a kölcsönzött munkavállaló foglalkoztatása szempontjából lényeges.
 
-(3) Eltérő megállapodás hiányában a kölcsönbeadó viseli a foglalkoztatással kapcsolatos jogszabályban meghatározott költségeket, így különösen a munkavállaló utazási költségeit és a munkavégzéshez szükséges egészségügyi alkalmassági vizsgálat díját. A kölcsönbeadó a kölcsönvevő kérése esetén köteles legkésőbb a munkavállaló munkába állásáig
+(3) Eltérő megállapodás hiányában a kölcsönbeadó viseli a foglalkoztatással kapcsolatos jogszabályban meghatározott költségeket, így különösen a kölcsönzött munkavállaló utazási költségeit és a munkavégzéshez szükséges egészségügyi alkalmassági vizsgálat díját. A kölcsönbeadó a kölcsönvevő kérése esetén köteles legkésőbb a kölcsönzött munkavállaló munkába állásáig
 
 a) az adózás rendjéről szóló törvény szerint a munkáltató és a kifizető által foglalkoztatott személy adataira vonatkozó, a biztosítási jogviszony kezdetéről szóló, állami adóhatósághoz teljesített bejelentése másolatát, valamint
 
@@ -36,7 +36,7 @@ a kölcsönvevő részére átadni.
 
 (5) A munkavégzés időtartama alatt a kölcsönvevő minősül munkáltatónak
 
-a) a munkavállaló munkavédelmére,
+a) a kölcsönzött munkavállaló munkavédelmére,
 
 b) a nők, a fiatal munkavállalók, a megváltozott munkaképességűek foglalkoztatására,
 
@@ -52,9 +52,13 @@ g) az (1) bekezdésben szereplő megállapodás megkötése esetén a természet
 
 tekintetében.
 
-(6) A 193/H. § (9)–(10) bekezdésébe foglalt rendelkezés alkalmazása érdekében a kölcsönbeadó – a kölcsönzött munkavállaló előzetes hozzájárulásával – köteles a kölcsönvevőt tájékoztatni különösen a munkavállaló szakképzettségéről és szakmai tapasztalatairól.
+(6) A 193/H. § (9)–(10) bekezdésébe foglalt rendelkezés alkalmazása érdekében a kölcsönbeadó – a kölcsönzött munkavállaló előzetes hozzájárulásával – köteles a kölcsönvevőt tájékoztatni különösen a kölcsönzött munkavállaló szakképzettségéről és szakmai tapasztalatairól.
 
-(7) Semmis a kölcsönbeadó és a kölcsönvevő között létrejött megállapodás, ha a felek a 106. § (1) bekezdésében meghatározott tulajdonosi kapcsolatban állnak egymással.
+(7) Semmis a kölcsönbeadó és a kölcsönvevő között létrejött megállapodás,
+
+a) ha a felek a 106. § (1) bekezdésében meghatározott tulajdonosi kapcsolatban állnak egymással,
+
+b) ha az a munkaviszony megszűnése, megszüntetése után a kölcsönvevővel történő munkaviszony-létesítési tilalmat vagy korlátozást ír elő. Nem minősül e törvény alapján korlátozásnak az olyan megállapodás, amely alapján, ha a kölcsönzés megszűnésétől számított három hónapon belül a kölcsönzött munkavállaló a kölcsönvevővel munkaviszonyt létesít, a kölcsönbeadó részére a kölcsönvevő díjazást fizet.
 
 (8) Ha a kölcsönvevőnél történő munkavégzés tényleges megkezdéséig
 
@@ -62,7 +66,7 @@ a) a kölcsönbeadó nem felel meg az e törvényben, illetve az egyéb jogszab�
 
 b) a kölcsönbeadó nem köt a 193/H. § (1) bekezdés szerinti munkaszerződést,
 
-a munkaviszony a kölcsönvevő és a munkavállaló között jön létre a munkavégzés tényleges megkezdésének napjával, a 193/G. § (1) bekezdés a) pontja alapján meghatározott időtartamra.
+a munkaviszony a kölcsönvevő és a kölcsönzött munkavállaló között jön létre a munkavégzés tényleges megkezdésének napjával, a 193/G. § (1) bekezdés a) pontja alapján meghatározott időtartamra.
 
 (9) A (8) bekezdés a) pontja szerint létrejött munkaviszony esetén a munkaszerződés tartalmának megállapításakor
 

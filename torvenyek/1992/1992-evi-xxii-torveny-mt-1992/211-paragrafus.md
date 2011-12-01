@@ -6,7 +6,7 @@
 
 (4) E törvény 117/C. §-ának 2010. december 31-ig hatályos szövege alapján létrejött, munkáltató és munkavállaló közötti megállapodásokat a Módtv. 8. §-ával bevezetett módosítása nem érinti.
 
-(5)
+(5) A 130. § (2) bekezdés c) pontja szerint a szabadságra jogosító idő szabályait a Módtv. hatálybalépését követően kezdődött fizetés nélküli szabadság esetében kell alkalmazni.
 
 (6) A 136. § (1) bekezdése szerinti, a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság első hat hónapjára járó szabadság pénzbeni megváltásáról szóló megállapodás a Módtv. hatálybalépését követően lejáró fizetés nélküli szabadság megszűnésekor köthető.
 

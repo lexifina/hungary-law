@@ -8,7 +8,7 @@ b) a munkáltató tevékenységi körének jelentős módosítására, illetve a
 
 c) legalább félévente a bérek, keresetek alakulásáról és a bérkifizetéssel összefüggő likviditásról, a foglalkoztatás jellemzőiről, a munkaidő felhasználásáról, a munkafeltételek jellemzőiről,
 
-d) legalább félévente a munkáltatónál távmunkát végző munkavállalók számáról és munkakörük megnevezéséről.
+d) legalább félévente a munkáltatónál távmunkát végző, valamint kölcsönzött munkavállalók számáról és munkakörük megnevezéséről.
 
 (3) A szakszervezet jogosult ellenőrizni a munkakörülményekre vonatkozó szabályok megtartását. Ennek keretében a munkaviszonyra vonatkozó szabályok végrehajtásáról az érintett szervtől tájékoztatást kérhet és a szükséges felvilágosítást, adatot rendelkezésére kell bocsátani.
 

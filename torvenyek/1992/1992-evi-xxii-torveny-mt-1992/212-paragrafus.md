@@ -10,7 +10,9 @@ d) a Tanács 98/59/EK irányelve a tagállamok csoportos létszámcsökkentések
 
 e) a Tanács 91/383/EGK irányelve a határozott időtartamra foglalkoztatott, illetve az ideiglenes munkaszerződéses munkavállalók munkahelyi biztonságának és egészségvédelmének javítására irányuló intézkedések kiegészítéséről;
 
-f) az Európai Parlament és a Tanács 2002/14/EK irányelve (2002. március 11.) az Európai Közösség munkavállalóinak tájékoztatása és a velük folytatott konzultáció általános keretének létrehozásáról.
+f) az Európai Parlament és a Tanács 2002/14/EK irányelve (2002. március 11.) az Európai Közösség munkavállalóinak tájékoztatása és a velük folytatott konzultáció általános keretének létrehozásáról;
+
+g) a munkaerő-kölcsönzés egyes szabályairól szóló 2008. november 19-i 2008/104/EK európai parlamenti és tanácsi irányelve.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

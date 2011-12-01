@@ -4,11 +4,11 @@
 
 a) abban, hogy a munkaszerződés vagy a távmunkát végző foglalkoztatására irányuló munkaszerződés kölcsönzés céljából jön létre,
 
-b) a munkavállaló személyi alapbérében,
+b) a kölcsönzött munkavállaló személyi alapbérében,
 
 c) a munkavégzés jellegében vagy a munkakörben.
 
-(2) A munkaszerződésnek tartalmaznia kell a felek nevét, illetve megnevezését, a kölcsönbeadó nyilvántartásba vételi számát, valamint a munkavállaló és a kölcsönbeadó lényeges adatait is.
+(2) A munkaszerződésnek tartalmaznia kell a felek nevét, illetve megnevezését, a kölcsönbeadó nyilvántartásba vételi számát, valamint a kölcsönzött munkavállaló és a kölcsönbeadó lényeges adatait is.
 
 (3) A munkáltató – ha a munkaszerződés nem tartalmaz tájékoztatást – legkésőbb a munkaszerződés megkötésétől számított két héten belül, ezen túlmenően a c) pont szerint, a (9) vagy (10) bekezdésben foglaltak alkalmazásakor, legkésőbb az e szabályok szerinti jogosultság megállapításának kezdetétől számított két héten belül köteles a kölcsönzött munkavállalót írásban tájékoztatni
 
@@ -74,7 +74,7 @@ meghaladja.
 
 (11) A (9)–(10) bekezdés rendelkezéseit nem kell alkalmazni a kölcsönzött munkavállalóra, ha munkaviszonyára a kölcsönbeadónál ennél kedvezőbb feltételek irányadóak.
 
-(12) A (9)–(10) bekezdés alkalmazásakor a munkavégzés folyamatosságát nem szakítja meg a 107. § szerinti munkavégzési kötelezettség alóli mentesülés időtartama. Ettől eltérően, a fizetés nélküli szabadság – a 138. § (5) bekezdésben és a 139. §-ban foglaltak kivételével – akkor nem érinti a munkavégzés folyamatosságát, ha ennek időtartama a harminc munkanapot nem haladja meg. A munkavégzés folyamatosságának feltétele, hogy a munkavégzési kötelezettség alóli mentesülés megszűnését követően a munkavállaló munkáját annál a kölcsönvevőnél folytassa, amelynél a mentesülés megkezdődött.
+(12) A (9)–(10) bekezdés alkalmazásakor a munkavégzés folyamatosságát nem szakítja meg a 107. § szerinti munkavégzési kötelezettség alóli mentesülés időtartama. Ettől eltérően, a fizetés nélküli szabadság – a 138. § (5) bekezdésben és a 139. §-ban foglaltak kivételével – akkor nem érinti a munkavégzés folyamatosságát, ha ennek időtartama a harminc munkanapot nem haladja meg. A munkavégzés folyamatosságának feltétele, hogy a munkavégzési kötelezettség alóli mentesülés megszűnését követően a kölcsönzött munkavállaló munkáját annál a kölcsönvevőnél folytassa, amelynél a mentesülés megkezdődött.
 
 (13) A (9) bekezdésben foglaltak alkalmazásával kapcsolatban a kölcsönbeadó írásbeli nyilatkozat megtételére kötelezheti a kölcsönzött munkavállalót arról, hogy a nyilatkozat átadását megelőző két évben mely kölcsönvevőnél, milyen időtartamban végzett munkát.
 

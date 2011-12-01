@@ -10,7 +10,9 @@ a) jogszabály által meghatározott tilalomba ütköző munkavégzésre,
 
 b) a kölcsönvevő olyan munkahelyén, illetve telephelyén történő munkavégzésre, ahol sztrájk van, a sztrájkot megelőző egyeztetés kezdeményezésétől a sztrájk befejezéséig, illetve
 
-c) ha a kölcsönvevőnél a munkavállaló munkaviszonya – a munkáltató működésével összefüggő okra alapozott rendes felmondásával, illetve a próbaidő alatt azonnali hatályú megszüntetésével – legfeljebb hat hónapja szűnt meg.
+c) ha a kölcsönvevőnél a munkavállaló munkaviszonya – a munkáltató működésével összefüggő okra alapozott rendes felmondásával, illetve a próbaidő alatt azonnali hatályú megszüntetésével – legfeljebb hat hónapja szűnt meg, vagy
+
+d) a 193/C. § (1) bekezdés f) pontjában meghatározott időtartamot meghaladóan.
 
 (3) A kölcsönbeadó, a kölcsönvevő és a munkavállaló a jogok gyakorlása és a kötelezettségek teljesítése során köteles együttműködni.
 

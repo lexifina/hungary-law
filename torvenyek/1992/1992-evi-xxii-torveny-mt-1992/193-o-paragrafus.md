@@ -1,6 +1,6 @@
 ## Kártérítési felelősség
 
-193/O. § (1) Ha a munkavállaló a foglalkoztatás körében kárt okoz a kölcsönvevőnek, az alkalmazott károkozásáért való felelősség szabályait kell alkalmazni [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 348. § (1) bekezdése].
+193/O. § (1) Ha a kölcsönzött munkavállaló a foglalkoztatás körében kárt okoz a kölcsönvevőnek, az alkalmazott károkozásáért való felelősség szabályait kell alkalmazni [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 348. § (1) bekezdése].
 
 (2) A munkavégzés során a kölcsönzött munkavállalónak okozott kárért a kölcsönvevő és a kölcsönbeadó egyetemlegesen felel (Mt. 174–187. §).
 
