@@ -1,0 +1,1 @@
+## „(6) A mozgáskorlátozott, vagy siket tanulót a képzés elméleti tantárgyainak tantermi foglalkozásain való részvétel alól – kérésére – az iskolavezető mentesíti. A mentesített tanulók felkészítésében a képző szerv a tanulóval kötött külön megállapodás szerint működik közre.”
