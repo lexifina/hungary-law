@@ -1,35 +1,44 @@
-## Az NKH Központi Hivatala eljárása és az általa végzett tevékenység[^71]
+## A közlekedési hatóság eljárása és az általa végzett tevékenység[^53]
 
-## 16. §[^72] Az NKH Központi Hivatala vezetője
+## 16. §[^54] A közlekedési hatóság
 
-a)[^73] meghatározza az egyes kategóriákhoz, illetőleg tantárgyakhoz előírt tanterveket, az alkalmazható tansegédleteket, képzési programokat, a szaktanfolyami képzés esetében meghatározza az egyes tantárgyak hallgatása alóli mentesítések alapjául szolgáló képesítések körét;
+a) meghatározza:
 
-b) szabályozza a vizsgáztatás módszereit, eljárási rendjét és ügyvitelét;
+aa) a képzés, továbbképzés és a vizsgáztatás tárgyi feltételeinek alkalmazására vonatkozó technológiai és műszaki követelményeket,
 
-c) meghatározza a képzési és vizsgáztatási tevékenység végzéséhez kötelezően előírt dokumentumok körét és azokról „Bizonylati albumot” ad ki;
+ab) a vizsgakövetelményekre vagy a képesítés megszerzésére vonatkozó előírások alapján a számonkérhető ismeretanyagot, a vizsgafeladatokat, vizsgatárgyakat, a képzések tanterveit, a tantervi óraszámokat, az egyes elméleti tantárgyak hallgatása alóli mentesítések alapjául szolgáló képesítések, végzettségek körét, a tanfolyamon való részvétel és a vizsgára bocsátás feltételeit,
 
-d)[^74] meghatározza azt a szakoktató képzés keretében teljesítendő követelményszintet, és annak számonkérési módját, amelynek alapján a szakoktató jelölt ideiglenesen szakoktatói engedélyt kaphat;
+ac) a képzések és a továbbképzések, valamint az ezekhez kapcsolódó vizsgák lebonyolításának rendjét, ügyvitelét és módszereit,
 
-e)[^75] meghatározza a szakoktatói és az iskolavezetői felsőfokú szaktanfolyami képzés tartalmát, a felvételi vizsga és a képesítő vizsga tartalmát, a továbbképzés tekintetében a képzés és vizsgáztatás tartalmát és módszereit;
+ad) a szaktanfolyamokon oktató személyekkel szemben támasztott képesítési, végzettségi követelményeket,
 
-f) szabályozza a szakfelügyelet működését;
+ae) az e-learning rendszer minősítésének és tanúsításának módját, a Közlekedési Szakértői Testület szakmai állásfoglalására figyelemmel,
 
-g)[^76] kinevezi a szakfelügyelőket, illetőleg jóváhagyja a regionális igazgatóságoknál működő szakfelügyelők kinevezését;
+af) a vizsgabiztosi tevékenység engedélyezésének feltételeit, az előírt képesítések, végzettségek körét és az eljárási rendjét,
 
-h) kinevezi a Szakmai Vizsgabizottság vizsgabiztosait;
+ag) a vezetési kartont helyettesítő, a vezetési gyakorlat oktatása során alkalmazott elektronikus eszközök és az elektronikusan rögzített adatok körét, a rögzítés és a rögzített adatok nyilvántartásának módját,
 
-i)[^77] meghatározza a vizsgabiztosi felsőfokú szaktanfolyami képzés tartalmát, a felvételi vizsga és a képesítő vizsga tartalmát, valamint továbbképzésük tartalmát, módszereit és feltételeit;
+ah) a legalább az alapfokú iskolai végzettség igazolásával és ennek ügyvitelével kapcsolatos szabályokat,
 
-j)[^78] meghatározza a vezetési kartont helyettesítő, a vezetési gyakorlat oktatása során elektronikusan rögzített adatok körét;
+ai) a képzés során alkalmazható tansegédleteket,
 
-k)[^79] a járművezetők és a közúti közlekedési szakemberek biztonságos és hatékony tevékenységre való felkészítésének javítása, illetőleg a korszerű tantervek, módszerek, követelmények meghatározása, valamint ezek összehangolása céljából a 16. számú melléklet szerint szakértői testületet hozhat létre, amely részt vesz az NKH Központi Hivatala vezetője által meghatározott eljárási rendnek megfelelően az a), e), i) és j) pontban meghatározott feladatok teljesítésében.
+aj) a vizsga sikeres letételéhez szükséges ismereti szintet a vonatkozó jogszabályi előírások hiányában,
 
-[^71]: A 16. §-t megelőző alcím a 95/2006. (XII. 27.) GKM rendelet 63. § c) pontja szerint módosított szöveg.
-[^72]: A 16. § felvezető szövege a 95/2006. (XII. 27.) GKM rendelet 63. § c) pontja szerint módosított szöveg.
-[^73]: A 16. § a) pontja a 85/2009. (XII. 30.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^74]: A 16. § d) pontja a 85/2009. (XII. 30.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^75]: A 16. § e) pontja a 85/2009. (XII. 30.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^76]: A 16. § g) pontja a 95/2006. (XII. 27.) GKM rendelet 63. § j) pontja szerint módosított szöveg.
-[^77]: A 16. § i) pontja a 85/2009. (XII. 30.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^78]: A 16. § j) pontját a 85/2009. (XII. 30.) KHEM rendelet 10. § (4) bekezdése iktatta be.
-[^79]: A 16. § k) pontját a 85/2009. (XII. 30.) KHEM rendelet 10. § (4) bekezdése iktatta be.
+ak) a szakoktató képzés keretében teljesítendő követelményszintet, és annak számonkérési módját, amelynek alapján a szakoktató jelölt ideiglenesen szakoktatói engedélyt kaphat,
+
+al) a képzési és vizsgáztatási tevékenység végzéséhez kötelezően előírt dokumentumok körét és azokról „Bizonylati albumot” ad ki, továbbá
+
+b) szabályozza a szakfelügyelet módszertanát,
+
+c) létrehozza és működteti a 15. melléklet szerinti Közlekedési Szakértői Testületet,
+
+d) a Közlekedési Szakértői Testület minősítése és javaslata alapján jóváhagyja a képzésben használható e-learning rendszereket,
+
+e) a szakoktatókról, az iskolavezetőkről, a vizsgabiztosokról és a képző szervekről központi nyilvántartást (névjegyzéket) vezet; a vizsgabiztos, a szakoktató, valamint az iskolavezető részére kiadott tevékenységi engedélyt a közlekedési hatóság visszavonja és a vizsgabiztost, a szakoktatót és az iskolavezetőt törli a névjegyzékből, ha a tevékenységre vonatkozó rendelkezéseket súlyosan vagy 2 éven belül ismételten megsértette. A rendelkezések súlyos megsértésének minősül különösen:
+
+ea) az engedélyezett tevékenységének végzése közben tanúsított magatartásával bűncselekményt vagy szabálysértést követett el,
+
+eb) olyan magatartást tanúsít, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartások ellenőrizhetőségét befolyásolja vagy a 13. § (5) bekezdése szerinti eljárása során a vizsga rendjét megzavarta.
+
+[^53]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^54]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.

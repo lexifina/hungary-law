@@ -1,13 +1,13 @@
 ## A gyakorlati vizsga
 
-13. § (1)[^58] A járműkezelési, a rutin és a forgalmi vizsgán egy vizsgázó, valamint – a járműben kialakított ülőhelyek számának megfelelően – a vizsgabiztos(ok), a szakoktató, a vizsgáztatást ellenőrző személy(ek) és a vizsgabiztos-jelölt foglalhatnak helyet. A „D” kategóriájú és „D1” alkategóriájú járművön több vizsgázó és több vizsgabiztos-jelölt is helyet foglalhat.
+13. §[^47] (1) A járműkezelési, a rutin és a forgalmi vizsgán a vizsgajárműben egy vizsgázó, valamint – a járműben kialakított ülőhelyek számának megfelelően – a vizsgabiztos(ok), a szakoktató, a vizsgáztatást ellenőrző személy(ek) és a vizsgabiztos-jelölt foglalhatnak helyet. A „D” kategóriájú és „D1” alkategóriájú járművön több vizsgázó és több vizsgabiztos-jelölt is helyet foglalhat.
 
 (2) Tehergépkocsi és pótkocsi rakfelületén, valamint motorkerékpár hátsó ülésén vizsga közben személy nem szállítható.
 
-(3)[^59] Forgalmi vizsga csak olyan településen tartható, amelyet az NKH Központi Hivatala vizsgahelynek jelölt ki. A kijelölés időkorlátozást is tartalmazhat.
+(3) Forgalmi vizsga – a vizsgáztatásra vonatkozó előírások figyelembevételével – csak a közlekedési hatóság által kijelölt vizsgaútvonalon tartható. A kijelölés időkorlátozást is tartalmazhat.
 
-(4)[^60] A regionális igazgatóság a forgalmi vizsgahelynek kijelölt településnél a körülmények jelentős megváltozása esetén javasolja az NKH Központi Hivatalának a forgalmi vizsgahely felülvizsgálatát, illetve a forgalmi vizsgák ideiglenes vagy végleges megszüntetését.
+(4) A körülmények jelentős megváltozása esetén erről való bejelentés alapján vagy hivatalból a közlekedési hatóság a vizsgaútvonalat felülvizsgálja, és a vizsgaútvonalat ideiglenesen vagy véglegesen megszünteti.
 
-[^58]: A 13. § (1) bekezdése a 85/2009. (XII. 30.) KHEM rendelet 8. §-ával megállapított szöveg.
-[^59]: A 13. § (3) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^60]: A 13. § (4) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § d) és f) pontja szerint módosított szöveg.
+(5) Az (1) bekezdésben meghatározott személyeken túlmenően a járműkezelési, a rutin és a forgalmi vizsgán, amennyiben a vizsgán nincsen szakfelügyelet, a vizsgajárműben – a járműben kialakított ülőhelyek számának megfelelően – helyet foglalhat a képző szerv iskolavezetője vagy – az iskolavezető felelőssége mellett – írásban meghatalmazott megbízottja, azonban sem az iskolavezető sem megbízottja a vizsga rendjét részvételével nem zavarhatja meg. Az írásbeli meghatalmazás legfeljebb egy napra szólhat.
+
+[^47]: A 13. § az 58/2011. (XI. 24.) NFM rendelet 14. §-ával megállapított szöveg.

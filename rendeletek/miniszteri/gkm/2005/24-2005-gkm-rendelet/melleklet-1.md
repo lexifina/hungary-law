@@ -10,9 +10,9 @@
 
 4. Az iskolavezető neve
 
-5. A szaktanfolyami képzésért felelős személy neve
+5.[^142] Engedélyes (képző szerv) azonosítója
 
-6. Az engedélyes működési területe
+6.[^143]
 
 7. Az engedélyezett tevékenység meghatározása
 
@@ -25,3 +25,6 @@
 11. Az engedély kiadására jogosult személy aláírása
 
 12. Az engedélyező hatóság bélyegzőlenyomata
+
+[^142]: Az 1. melléklet 5. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^143]: Az 1. melléklet 6. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.

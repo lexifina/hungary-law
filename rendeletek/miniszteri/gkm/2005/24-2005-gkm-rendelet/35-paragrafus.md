@@ -1,22 +1,29 @@
-35. § (1)[^136] A szakfelügyelő a megbízása szerint a képző szervnél és a regionális igazgatóságnál előre bejelentett és soron kívüli szakfelügyeletet végez.
+35. §[^122] (1) A szakfelügyelet és az ellenőrzés lehet előre bejelentett és soron kívüli.
 
-(2)[^137] A szakfelügyelő tapasztalatairól az érintett szakoktatót, a vizsgabiztost, az iskolavezetőt, szaktanfolyami képzésért felelős személyt, valamint az illetékes regionális igazgatóság igazgatóját tájékoztatja.
+(2) A szakfelügyelő és az ellenőrzést végző tapasztalatairól az érintett szakoktatót, a vizsgabiztost, az iskolavezetőt, valamint a közlekedési hatóságot tájékoztatja.
 
 (3) A szakfelügyelő megállapításától függően javaslatot tehet
 
-a) visszatérő szakfelügyeletre, illetőleg a képzési vagy a vizsgáztatási tevékenységet érintő tematikus szakfelügyelet megtartására;
+a) visszatérő szakfelügyeletre, a képzési vagy a vizsgáztatási tevékenységet érintő tematikus szakfelügyelet megtartására;
 
-b) a szakoktató, a vizsgabiztos, a képző szerv, illetőleg az iskolavezető, szaktanfolyami képzésért felelős személy szankcionálására;
+b) a szakoktató, a vizsgabiztos, az iskolavezető, a képző szerv szankcionálására;
 
 c) a képzési engedély felfüggesztésére, részleges vagy teljes visszavonására;
 
-d) a vizsgahelyek és a vizsgapályák minősítésének felülvizsgálatára.
+d) a vizsgahelyek és a vizsgapályák minősítésének felülvizsgálatára, illetve minősítésének visszavonására.
 
-(4) A szakfelügyelő a képzést, illetőleg a vizsgát haladéktalanul felfüggeszti,
+(4) A szakfelügyelő és az ellenőrzést végző haladéktalanul felfüggeszti
 
-a) ha életet vagy testi épséget közvetlenül fenyegető balesetveszély áll fenn;
+a) a képzést vagy a vizsgát,
 
-b) ha a feltételek hiánya miatt a vizsgázó teljesítménye objektív módon nem értékelhető.
+a1) ha életet vagy testi épséget fenyegető balesetveszély áll fenn,
 
-[^136]: A 35. § (1) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § g) pontja szerint módosított szöveg.
-[^137]: A 35. § (2) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § q) pontja szerint módosított szöveg.
+a2) ha az ellenőrzést, szakfelügyeletet az ellenőrzés alá vont gátolja, akadályozza,
+
+b) a képzést, ha a feltételek hiánya vagy a körülmények miatt a képzés az előírásoknak és a tantervnek megfelelő módon nem tartható meg,
+
+c) a vizsgát, ha a feltételek hiánya, a vizsgakörülmények, vagy a vizsgáztatás szabályainak megsértése miatt a vizsgázó teljesítménye objektív módon nem értékelhető.
+
+(5) Amennyiben a szakoktató ellenőrzése során az ellenőrzést végző szakmai, módszertani hiányosságot tapasztal, úgy a szakoktató felé történő jelzés mellett köteles a szakfelügyeletet végző közlekedési hatóság részére az előírt módon jelentést tenni.
+
+[^122]: A 35. § az 58/2011. (XI. 24.) NFM rendelet 35. §-ával megállapított szöveg.

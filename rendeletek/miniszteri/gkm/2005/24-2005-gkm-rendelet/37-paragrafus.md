@@ -1,24 +1,28 @@
+## 36. §[^123] Szakfelügyelet és ellenőrzés nem gyakorolható annál a képző szervnél, amelyhez a szakfelügyelőt vagy ellenőrzést végzőt vagy közeli hozzátartozóját [Ptk. 685. § b) pont] munkaviszony, megbízási jogviszony vagy társasági szerződésen alapuló anyagi érdekeltség köti.
+
 ## A képzési engedély felfüggesztése
 
 ## és visszavonása
 
-37. § (1)[^139] Ha a képző szerv e rendeletben meghatározott rendelkezéseknek nem tesz eleget, a regionális igazgatóság vagy az NKH Kiemelt Ügyek Igazgatósága (a továbbiakban együtt: engedélyező hatóság) a képzési engedély érvényességét részben vagy egészben felfüggeszti vagy az engedélyt visszavonja.
+37. § (1)[^124]
 
-(2) Az engedélyező hatóság a képzési engedély érvényességét legfeljebb 6 hónapi időtartamra részben vagy egészben felfüggeszti, ha a képző szerv az adott képzési tevékenység engedélyezésére vonatkozó feltételeket nem teljesíti.
+(2)[^125]
 
-(3) Az engedélyező hatóság a képzési engedélyt visszavonja, ha
+(3)[^126] A közlekedési hatóság a képzési engedélyt
 
-a) a képző szerv a (2) bekezdés alapján megjelölt határidőig a felfüggesztő határozatban meghatározott feltételeknek nem tesz eleget;
+a) visszavonja, ha a felfüggesztő határozatban meghatározott feltételeknek, az abban meghatározott időtartamon belül nem tesz eleget;
 
 b) a képző szerv a képzési tevékenység gyakorlására vonatkozó előírásokat megszegte;
 
-c)[^140]
+c) visszavonhatja, ha a képző szervet a fogyasztóvédelmi hatóság vagy a Gazdasági Versenyhivatal jogerős határozatával elmarasztalta.
 
-d) a képző szervet a fogyasztóvédelmi felügyelőség vagy a kamara jogerős határozatával elmarasztalta.
+(4)[^127]
 
-(4) Az engedélyező hatóság a képzési engedélyt visszavonhatja, ha ezt a szakmai érdekképviseleti szerv kezdeményezi.
+(5)[^128] A képzési engedélynek a (3) bekezdés a)–c) pontjai alapján történő visszavonása után az érintett képző szerv részére két évig újabb képzési engedély nem adható.
 
-(5) A képzési engedélynek a (3) bekezdés a), b), d) pontjai és (4) bekezdése alapján történő visszavonása után az érintett képző szerv részére két évig újabb képzési engedély nem adható.
-
-[^139]: A 37. § (1) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja, a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^140]: A 37. § (3) bekezdés c) pontját a 85/2009. (XII. 30.) KHEM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^123]: A 36. § az 58/2011. (XI. 24.) NFM rendelet 35. §-ával megállapított szöveg.
+[^124]: A 37. § (1) bekezdését az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
+[^125]: A 37. § (2) bekezdését az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
+[^126]: A 37. § (3) bekezdése az 58/2011. (XI. 24.) NFM rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^127]: A 37. § (4) bekezdését az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
+[^128]: A 37. § (5) bekezdése az 58/2011. (XI. 24.) NFM rendelet 36. § (2) bekezdésével megállapított szöveg.

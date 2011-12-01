@@ -1,9 +1,5 @@
-32. § (1)[^103] Az iskolavezetőnek évente az NKH Központi Hivatala által kiadott vagy jóváhagyott tanterv szerinti szakirányú továbbképzésen kell részt vennie.
+32. §[^84] (1) Az iskolavezetőnek évenként a 16. § ab) és ac) pontjai alapján meghatározottak szerinti továbbképzésen kell részt vennie és ezt követően sikeres vizsgát kell tennie.
 
-(2)[^104] Az iskolavezetők továbbképzése az NKH Kiemelt Ügyek Igazgatósága engedélye alapján végezhető.
+(2) Az iskolavezetők továbbképzése a közlekedési hatóság engedélye alapján szakirányú műszaki felsőoktatási intézményekben végezhető.
 
-(3)[^105] A továbbképzés követelményeinek teljesítéséről az iskolavezető részére a továbbképzést végző szerv igazolást ad. Az igazolás alapján a regionális igazgatóság az iskolavezetői igazolványt időszakosan érvényesíti.
-
-[^103]: A 32. § (1) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^104]: A 32. § (2) bekezdése a 85/2009. (XII. 30.) KHEM rendelet 17. §-ával megállapított szöveg.
-[^105]: A 32. § (3) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^84]: A 32. § az 58/2011: (XI. 24.) NFM rendelet 30. §-ával megállapított szöveg.

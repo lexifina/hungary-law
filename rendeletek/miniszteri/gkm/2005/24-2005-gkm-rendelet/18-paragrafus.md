@@ -1,21 +1,23 @@
-18. § (1)[^84] A szakoktatók képzése az NKH Kiemelt Ügyek Igazgatósága által engedélyezett felsőfokú szaktanfolyamon történik. A szakoktatói képesítés megszerzéséhez szükséges tantervek oktatási témaköreit a 11. melléklet 1. pontja tartalmazza.
+18. §[^56] (1) A szakoktatók képzését a közlekedési hatóság engedélye alapján szakirányú műszaki felsőoktatási intézmény végzi. A szakoktatói képesítés megszerzéséhez szükséges tantervek oktatási témaköreit és a képzési engedély megszerzéséhez szükséges feltételeket a 11. melléklet tartalmazza.
 
-(2) Szakoktatói tanfolyamra az iskolázható be, aki sikeres szakoktatói felvételi vizsgát tett.
+(2) Szakoktatói szaktanfolyamra az iskolázható be, aki sikeres szakoktatói felvételi vizsgát tett.
 
-(3) A szakoktatói tanfolyami felvételi vizsgára jelentkezés feltételei:
+(3) A szakoktatói szaktanfolyami felvételi vizsgára jelentkezés feltételei:
 
-a) betöltött 22. életév, a felsőfokú oktatási intézményben folyó képzéssel együtt végzett szakoktató képzés kivételével, ahol a korhatár a betöltött 20. életév
+a) betöltött 22. életév,
 
 aa) középiskolai érettségi,
 
-ab)[^85]
+b) alapképzésre jelentkezés esetén legalább két éve érvényes „A”, „B”, „C” kategóriás vezetői engedély, amely nem minősül kezdő vezetői engedélynek:
 
-b) a kizárólag elméleti szakos szakoktatói tanfolyamhoz legalább két éve érvényes „B” kategóriás vezetői engedély, amely nem minősül kezdő vezetői engedélynek;
+ba) D kategóriás kiegészítő képzésre jelentkezés esetén legalább két éve érvényes „D” kategóriás vezetői engedély,
 
-c) a gyakorlati szakos szakoktatói tanfolyamhoz az oktatni kívánt kategóriának megfelelő és a „B” kategóriára legalább két éve érvényes vezetői engedély, amely nem minősül kezdő vezetői engedélynek.
+bb) E kategóriás kiegészítő képzésre jelentkezés esetén legalább két éve érvényes „CE” kategóriás vezetői engedély,
 
-(4)[^86] A felvételi vizsgán az NKH Központi Hivatala által működtetett Szakmai Vizsgabizottság (a továbbiakban: Szakmai Vizsgabizottság) vizsgabiztosai vizsgáztatnak. A szakoktatói felvételi vizsga a 16. § e) pontja alapján meghatározottak szerint történik.
+bc) Trolibusz kategóriás kiegészítő képzésre jelentkezés esetén legalább két éves „Tr” kategóriás vezetői engedély.
 
-[^84]: A 18. § (1) bekezdése a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^85]: A 18. § (3) bekezdés a) pont ab) alpontját a 85/2009. (XII. 30.) KHEM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^86]: A 18. § (4) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
+(4) A felvételi vizsgán a közlekedési hatóság által vezényelt a névjegyzékben szereplő vizsgabiztosok vizsgáztatnak. A szakoktatói felvételi vizsga a 16. § ab) és ac) pontjai alapján meghatározottak szerint történik.
+
+(5) Szakoktatói szaktanfolyam csak a 3. melléklet 2.1 pontjában említett szakok együttes megszerzésére irányuló alapképzésre vagy a „D”, „E”, „Tr” kategóriás járművezetési gyakorlat szakos kiegészítő képzésekre indíthatók.
+
+[^56]: A 18. § az 58/2011. (XI. 24.) NFM rendelet 19. §-ával megállapított szöveg.

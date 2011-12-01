@@ -1,24 +1,29 @@
 ## A szakoktatók
 
-17. § (1)[^80] Közúti járművezető képzést csak közúti járművezetői szakoktatói engedéllyel rendelkező, névjegyzékbe vett személy (a továbbiakban: szakoktató) végezhet. A (4) bekezdés b) pontja alapján ideiglenesen szakoktatói névjegyzékbe vett szakoktató kizárólag szakoktatói névjegyzékbe vett szakoktató jelenlétében oktathat.
+17. §[^55] (1) Közúti járművezető képzést – a (2) bekezdésben meghatározottak figyelembe vételével – csak közúti járművezetői szakoktatói engedéllyel és érvényes közúti járművezetői szakoktatói igazolvánnyal rendelkező, névjegyzékbe vett személy (a továbbiakban: szakoktató) végezhet.
 
-(2)–(3)[^81]
+(2) E-learning képzés esetén az iskolavezetőnek a tanulóval történő esetleges kapcsolattartáshoz – az (1) bekezdés szerinti – szakoktatót kell biztosítania.
 
-(4)[^82] A regionális igazgatóság szakoktatói tevékenységét engedélyezi és névjegyzékbe veszi fel
+(3) A névjegyzékbe felvett szakoktatónak a közlekedési hatóság évente szakoktatói igazolványt ad ki.
 
-a) azt a szakoktatói vagy a 3. számú melléklet 2.5. pontjában meghatározott képesítéssel rendelkező jelentkezőt, aki az engedélyezés időpontjában megfelel az (5) bekezdésben és a 18. § (3) bekezdésének b) és c) pontjaiban meghatározott feltételeknek;
+(4) A közlekedési hatóság kérelemre a szakoktatói tevékenységét engedélyezi és névjegyzékbe veszi
 
-b) legfeljebb egyévi időtartamra járművezetési gyakorlat oktatására ideiglenesen azt a jelentkezőt, aki szakoktatói tanfolyam hallgatója és igazolja, hogy teljesítette a 16. § d) pontjának rendelkezései alapján meghatározott követelményszintet, továbbá megfelel az (5) bekezdésben meghatározott követelményeknek.
+a) azt a szakoktatói vagy a 3. melléklet 2.5. pontjában meghatározott képesítéssel rendelkező jelentkezőt, aki az engedélyezés időpontjában megfelel az (5) bekezdésben és a 18. § (3) bekezdésének b) pontjában meghatározott feltételeknek;
 
-A névjegyzékbe felvett szakoktatónak a regionális igazgatóság szakoktatói igazolványt ad ki.
+b) korlátozással (legfeljebb egyévi időtartamra és kizárólag a szakoktató képzés elvégzéséhez szükséges tevékenységre) járművezetési gyakorlat oktatására azt a jelentkezőt, aki szakoktatói szaktanfolyam hallgatója és igazolja, hogy teljesítette a 16. § ak) pontjának rendelkezései alapján meghatározott követelményszintet, továbbá megfelel az (5) bekezdésben meghatározott követelményeknek.
 
-(5)[^83] A szakoktatói engedély kiadásának további feltételei:
+(5) A szakoktatói engedély kiadásának további feltételei:
 
-a) a jelentkező nem áll a szakoktatói névjegyzékből való törlés hatálya alatt,
+a) az engedélyezési eljárásért fizetendő igazgatási szolgáltatási díjat megfizette,
 
-b) a közúti járművezetői vizsga és az egyes közúti közlekedési szakképesítésekkel összefüggő vizsgák díjairól szóló miniszteri rendeletben megállapított eljárási díjat befizette.
+b) a szakoktatói tevékenységtől való eltiltás vagy törlés hatálya alatt nem áll a jelentkező,
 
-[^80]: A 17. § (1) bekezdése a 85/2009. (XII. 30.) KHEM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^81]: A 17. § (2)–(3) bekezdését a 85/2009. (XII. 30.) KHEM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^82]: A 17. § (4) bekezdése a 85/2009. (XII. 30.) KHEM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^83]: A 17. § (5) bekezdése a 85/2009. (XII. 30.) KHEM rendelet 11. § (3) bekezdésével megállapított szöveg.
+c) érvényes vezetői engedéllyel rendelkezik,
+
+d) nem vonatkozik olyan rendelkezés, amely szerint vezetői engedélyét csak utánképzés elvégzését követően kaphatja vissza, illetve tarthatja meg,
+
+e) a közlekedési hatóság a szakoktatói tevékenység végzésére vonatkozó előírások súlyos megszegése miatt jogerős határozatban az engedélyezési kérelem benyújtását megelőző 2 éven belül nem marasztalta el.
+
+(6) A (4) bekezdés b) pontja szerinti jelentkező ideiglenesen engedélyezett szakoktatói tevékenységének időtartama alatt szakoktatói oklevelének bemutatásával külön eljárási díj nélkül kérheti szakoktatói tevékenysége időbeli korlátozásának törlését.
+
+[^55]: A 17. § az 58/2011. (XI. 24.) NFM rendelet 18. §-ával megállapított szöveg.

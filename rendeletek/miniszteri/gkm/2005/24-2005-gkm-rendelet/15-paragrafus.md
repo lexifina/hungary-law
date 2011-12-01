@@ -1,25 +1,25 @@
 ## A vizsga felfüggesztése és érvénytelenítése
 
-15. § (1) Nem tartható meg a vizsga, ha a vizsgáztatás feltételei nem biztosítottak és emiatt a vizsgázó teljesítménye objektív módon nem értékelhető.
+15. §[^52] (1) Nem tartható meg a vizsga, illetve nem folytatható, ha a vizsgáztatás feltételei nem biztosítottak és emiatt a vizsgázó teljesítménye objektív módon nem értékelhető. Ebben az esetben, vagy a vizsgáztatás szabályainak megsértése esetén a vizsgabiztos köteles a vizsgát felfüggeszteni.
 
-(2) A vizsgát a vizsgabiztos felfüggeszti, ha a vizsgázó:
+(2) A vizsgabiztos felfüggeszti azon vizsgázó vizsgáját, aki:
 
-a) személyazonossága vagy személyi adatai tekintetében a vizsgabiztost megtévesztette vagy azt megkísérelte;
+a) személyazonossága vagy személyi adatai tekintetében a vizsgabiztost megtévesztette vagy azt megkísérelte,
 
-b) a biztonsági ellenőrzés és üzemeltetési, a járműkezelési, a rutin és a forgalmi vizsgán a külön jogszabályban[^66] meghatározott feltételeknek nem felel meg;
+b) a biztonsági ellenőrzés és üzemeltetési, a járműkezelési, a rutin- vagy a forgalmi vizsgán a jogszabályban meghatározott feltételeknek nem felel meg,
 
-c) a vizsgabiztost döntésének meghozatalában előny adásával vagy ígéretével, illetőleg fenyegetéssel befolyásolni törekedett.
+c) a vizsgabiztost döntésének meghozatalában előny adásával, ígéretével, fenyegetéssel befolyásolni törekedett, vagy
 
-(3)[^67] A regionális igazgatóság – szaktanfolyam esetén az NKH Központi Hivatala – az érintett vizsgázót a (2) bekezdésben meghatározott esetekben a vizsgától legfeljebb hat hónapi időtartamra eltilthatja.
+d) az objektív értékelést ellehetetleníti, vagy a vizsga eredményét befolyásoló, illetve meg nem engedett segédeszközt (pl. mobiltelefon, kép vagy hangrögzítő eszköz) használ.
 
-(4)[^68] A vizsgabiztos a vizsgát felfüggesztheti és a vizsgázót a regionális igazgatóság – szaktanfolyam esetén az NKH Központi Hivatala – a vizsgától legfeljebb három hónapi időtartamra eltilthatja, ha a vizsgázó a vizsga rendjét megzavarta.
+(3) A (2) bekezdésben meghatározott esetekben a közlekedési hatóság az érintett vizsgázót a vizsgától legfeljebb hat hónapi időtartamra eltilthatja.
 
-(5)[^69] A vizsgabiztos a vizsgát abban az esetben is felfüggesztheti, ha a szakoktató a vizsga rendjét megzavarta, vagy a vizsga eredményének befolyásolására törekedett. Ebben az esetben a regionális igazgatóság a szakoktatót – legfeljebb hat hónapi időtartamra – a vizsgákon való részvételtől eltilthatja.
+(4) A vizsgabiztos a vizsgát felfüggesztheti és a vizsgázót a közlekedési hatóság a vizsgától legfeljebb három hónapi időtartamra eltilthatja, ha a vizsgázó a vizsga rendjét megzavarta.
 
-(6)[^70] A regionális igazgatóság – szaktanfolyam esetén az NKH Központi Hivatala – érvényteleníti azt a vizsgát, amelyet a vizsgázó a közlekedési hatóság félrevezetésével, hamis adatok közlésével, illetve jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tett le. Amennyiben a vizsgaigazolást a regionális igazgatóság már kiadta, a vizsga érvénytelenítéséről szóló jogerős határozatot az ügyfél lakóhelye szerint illetékes okmányirodának is meg kell küldeni.
+(5) A vizsgabiztos a vizsgát abban az esetben is felfüggesztheti, ha a szakoktató a vizsga rendjét megzavarta, vagy a vizsga eredményének befolyásolására törekedett. Ebben az esetben a közlekedési hatóság a szakoktatót – legfeljebb hat hónapi időtartamra – a szakoktatói tevékenységtől eltilthatja.
 
-[^66]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 4. § (1) bekezdés b) és c) pontja.
-[^67]: A 15. § (3) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § b) és f) pontja szerint módosított szöveg.
-[^68]: A 15. § (4) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § b) és e) pontja szerint módosított szöveg.
-[^69]: A 15. § (5) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^70]: A 15. § (6) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § b) és e)–f) pontja szerint módosított szöveg.
+(6) A közlekedési hatóság érvényteleníti azt a vizsgát, amelyet a vizsgázó a közlekedési hatóság félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tett le. Amennyiben a vizsgaigazolást a közlekedési hatóság már kiadta, a vizsga érvénytelenítéséről szóló jogerős határozatot az ügyfél lakóhelye szerinti okmányirodának is meg kell küldeni.
+
+(7) Amennyiben a vizsga a vizsgabiztos mulasztása miatt a vizsgáztatás szabályainak megsértésével zajlott le, a közlekedési hatóság a vizsgabiztost legfeljebb egy évi időtartamra a vizsgáztatástól eltilthatja.
+
+[^52]: A 15. § az 58/2011. (XI. 24.) NFM rendelet 16. §-ával megállapított szöveg.

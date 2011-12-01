@@ -1,6 +1,6 @@
-## Szakmai alapképesítés[^117]
+## Szakmai alapképesítés[^95]
 
-33/B. §[^118] (1) A 33/A. § a) pontjában meghatározott azon gépkocsivezető, aki
+33/B. §[^96] (1) A 33/A. § a) pontjában meghatározott azon gépkocsivezető, aki
 
 a) D1, D1+E, D, D+E kategóriájú vezetői engedélyét 2008. szeptember 9-ét,
 
@@ -12,12 +12,12 @@ b) C1, C1+E, C, C+E kategóriájú vezetői engedélyét 2009. szeptember 9-ét
 
 (3) Alapképesítést az a gépkocsivezető szerezhet, aki
 
-a) EGT-állam állampolgára és szokásos lakóhelye a külön jogszabályban[^119] foglaltak szerint Magyarországon van;
+a) EGT-állam állampolgára és szokásos lakóhelye a külön jogszabályban[^97] foglaltak szerint Magyarországon van;
 
 b) nem EGT-állam állampolgára és munkavállalási jogosultsága van vagy Magyarországon bejegyzett vállalkozás foglalkoztatja.
 
 (4) Az alapképesítés megszerzésével kapcsolatos rendelkezéseket a 12. melléklet tartalmazza.
 
-[^117]: A 33/B. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
-[^118]: A 33/B. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
-[^119]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet 14. cikk.
+[^95]: A 33/B. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^96]: A 33/B. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^97]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet 14. cikk.

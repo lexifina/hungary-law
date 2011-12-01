@@ -1,4 +1,4 @@
-15. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^240]
+15. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^308]
 
 ## Közlekedési Szakértői Testület
 
@@ -6,7 +6,7 @@
 
 (2) A Testület szakértői eljárása során minősít és javaslatot tesz
 
-a) a közúti járművezetők és a közúti közlekedési szakemberek képzésével kapcsolatban az alkalmazható képzési programok,
+a)[^309] a közúti járművezetők és a közúti közlekedési szakemberek képzésével kapcsolatban az alkalmazható e-learning keretrendszerek és digitális tananyagok,
 
 b) a közúti járművezetők és a közúti közlekedési szakemberek képzésével kapcsolatban az egyes képzésekhez használható tansegédletek,
 
@@ -24,7 +24,7 @@ c) a képzés és vizsgáztatás során alkalmazható, alkalmazandó technológi
 
 d) a közlekedési hatóság elnöke által hozzájuk intézett szakmai kérdések megoldására.
 
-(4) A Testület elnökből és 4 tagból áll. A Testület elnökét és tagjait a közlekedési hatóság elnöke kéri fel. A Testület tagjai függetlenek, feladatkörükben nem utasíthatóak. A Testület elnökének és tagjainak névsorát – beleértve a változásokat is – a közlekedési hatóság hivatalos honlapján közzéteszi.
+(4)[^310] A Testület elnökből és 6 tagból áll. A Testület elnökét és egy tagját a közlekedésért felelős miniszter a többi tagot a Nemzeti Közlekedési Hatóság elnöke (továbbiakban: Felkérő) kéri fel. A Testület tagjai függetlenek, feladatkörükben nem utasíthatóak. A Testület elnökének és tagjainak névsorát – beleértve a változásokat is – a közlekedési hatóság hivatalos honlapján közzéteszi.
 
 (5) A felkérés öt évre szól. A felkérés több alkalommal is megismételhető.
 
@@ -38,10 +38,16 @@ c) az érintett felmentésével,
 
 d) a felkérésben megjelölt határidő elteltével.
 
-(7) A Testület tagja felmenthető, ha önhibájából egymást követő négy alkalommal a Testület ülésén való megjelenési kötelezettségének nem tud eleget tenni. A Testület tagjának felmentéséről – a Testület elnökének javaslatára – a közlekedési hatóság elnöke dönt. A Testület tagja a felkérésről bármikor, a közlekedési hatóság elnökéhez címzett nyilatkozattal lemondhat.
+(7)[^311] A Testület elnöke és tagja felmenthető, ha önhibájából egymást követő négy alkalommal a Testület ülésén való megjelenési kötelezettségének nem tud eleget tenni. A Testület tagjának felmentéséről – a Testület elnökének javaslatára – és a Testület elnökének felmentéséről – a közlekedési hatóság elnökének javaslatára – a Felkérő dönt. A Testület elnöke és tagja a felkérésről a Felkérőhöz címzett nyilatkozattal bármikor lemondhat.
 
 (8) A Testület ügyrendjét maga határozza meg, amelyet a közlekedési hatóság elnöke hagy jóvá. Az ügyrendet a hatóság hivatalos honlapján közzé kell tenni.
 
 (9) A Testület döntéseit, javaslatait írásba foglalja. A javaslatot meg kell indokolni, és mellékelni kell a kisebbségi véleményt is.
 
-[^240]: A 15. számú mellékletet a 85/2009. (XII. 30.) KHEM rendelet 20. § (5) bekezdése iktatta be.
+(10)[^312] A Testület költségvetését (beleértve a tagok és a Testület elnökének díjazását) a közlekedési hatóság saját költségvetésén belül külön fejezetben tervezi.
+
+[^308]: A 15. számú mellékletet a 85/2009. (XII. 30.) KHEM rendelet 20. § (5) bekezdése iktatta be.
+[^309]: A 15. melléklet (2) bekezdés a) pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (13) bekezdésével megállapított szöveg.
+[^310]: A 15. melléklet (4) bekezdése az 58/2011. (XI. 24.) NFM rendelet 39. § (13) bekezdésével megállapított szöveg.
+[^311]: A 15. melléklet (7) bekezdése az 58/2011. (XI. 24.) NFM rendelet 39. § (13) bekezdésével megállapított szöveg.
+[^312]: A 15. melléklet (10) bekezdését az 58/2011. (XI. 24.) NFM rendelet 39. § (13) bekezdése iktatta be.
