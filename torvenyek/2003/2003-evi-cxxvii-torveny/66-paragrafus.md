@@ -10,4 +10,4 @@
 
 (6) A szeszfőzde a bérfőzető részére egyszerűsített kísérő okmányt állít ki, és azzal igazolja az adó megfizetését, illetve az adóraktárban történt előállítást. A kísérő okmány egyben a terméket igazoló okmány is. A szeszfőzde által a bérfőzető részére kiállított származási igazolvány az átvételt követő 15 évig alkalmas a főzető birtokában lévő párlat származásának igazolására. A 15 év letelte után 2 évente meghosszabbítható.
 
-(7) A 65. § (1) bekezdésének d) pontja szerint megállapított különbözetre a 64. § (2) bekezdése szerinti adómértékkel számított adót kell megfizetni.
+(7) A 65. § (1) bekezdésének d) pontja szerint megállapított különbözetre a 64. § (2) bekezdése szerinti alacsonyabb adómértékkel számított adót kell megfizetni.

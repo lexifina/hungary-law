@@ -24,7 +24,7 @@ a) – figyelemmel a (3) bekezdés rendelkezésére is – a biodízel esetében
 
 b) – figyelemmel a (3) bekezdés rendelkezésére is – az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya (a százalékérték századrészében kifejezve) és az (1) bekezdés a) pont szerinti adómérték szorzatának, valamint a termék bioetanol tartalmának térfogatra számított mennyiségi részaránya és 40 000 Ft/ezer liter szorzatának együttes összege,
 
-c) az a) és b) pontban nem említett bioüzemanyag esetében az üzemanyagkénti felhasználásnak megfelelően az (1) bekezdés a), d), f) vagy g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, illetve a 2207 vámtarifaszám alá tartozó alkoholtermék bioüzemanyag esetében a 64. § (2) bekezdés szerinti adómérték,
+c) az a) és b) pontban nem említett bioüzemanyag esetében az üzemanyagkénti felhasználásnak megfelelően az (1) bekezdés a), d), f) vagy g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, illetve a 2207 vámtarifaszám alá tartozó alkoholtermék bioüzemanyag esetében a 64. § (2) bekezdés szerinti alacsonyabb adómérték,
 
 d) benzin, illetve gázolaj adalékakénti, hígítóanyagakénti beszerzés, importálás, kínálás, értékesítés vagy felhasználás esetén az (1) bekezdés a), illetve d) pont szerinti adómérték,
 
