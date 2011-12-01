@@ -1,16 +1,13 @@
 ## Rendszerirányítási díjrendszer
 
-5. § (1) A rendszerirányítási szolgáltatás igénybevételéért e rendelet szerinti díjat köteles fizetni
+## 5. §[^60] A rendszerirányítási szolgáltatás igénybevételéért a rendszerirányítói engedélyes részére rendszerirányítási díjat köteles fizetni
 
-a)[^30] a szállítói, az elosztói és a tárolói engedélyes, kivéve a szállítási rendszerirányítót,
+a) a rendszerirányítási tevékenységre engedéllyel nem rendelkező szállítói engedélyes, az elosztói engedélyes és a tárolói engedélyes az engedély hatálybalépésének időpontjától,
 
-b) a földgáztermelő,
+b) a földgáztermelő a szállítói kapacitás-lekötési szerződés hatálybalépésének időpontjától vagy ilyen szerződés hiányában az együttműködő földgázellátó rendszerhez való csatlakozás időpontjától,
 
-c) a kapacitás-lekötési szerződéssel rendelkező felhasználó, valamint
+c) a kapacitás-lekötési szerződéssel rendelkező rendszerhasználó és a rendszerhasználóként eljáró felhasználó a kapacitás-lekötési szerződés hatálybalépésének időpontjától, és
 
 d) a Magyar Szénhidrogén Készletező Szövetség.
 
-(2)[^31] A rendszerirányítási díj díjtételeit a 2. melléklet I.b) alpontja, áralkalmazási feltételeit a 3. melléklet 4. pontja tartalmazza.
-
-[^30]: Az 5. § (1) bekezdés a) pontja a 36/2011. (VII. 12.) NFM rendelet 7. §-a szerint módosított szöveg.
-[^31]: Az 5. § (2) bekezdése a 18/2010. (XII. 3.) NFM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^60]: Az 5. § a 65/2011. (XI. 30.) NFM rendelet 1. § (12) bekezdésével megállapított szöveg.

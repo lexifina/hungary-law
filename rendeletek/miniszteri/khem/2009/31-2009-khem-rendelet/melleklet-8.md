@@ -24,6 +24,6 @@
 
 ## EKe: szakértő által, adott elosztói engedélyesre meghatározott elszámolási különbözet mértékével számított költség-igény.
 
-8. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^97]
+8. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^209]
 
-[^97]: A 8. mellékletet a 73/2009. (XII. 7.) KHEM rendelet 5. §-a iktatta be, szövege a 18/2010. (XII. 3.) NFM rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^209]: A 8. mellékletet a 73/2009. (XII. 7.) KHEM rendelet 5. §-a iktatta be, szövege a 18/2010. (XII. 3.) NFM rendelet 12. § (3) bekezdése szerint módosított szöveg.

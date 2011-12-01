@@ -1,6 +1,6 @@
 ## Elosztási díjrendszer
 
-7. § (1) A földgázelosztási díj részeként
+7. § (1)[^73] A földgázelosztási díj részeként
 
 a) elosztási átalánydíjat,
 
@@ -10,7 +10,7 @@ c) elosztási kapacitásdíjat, valamint
 
 d) elosztási forgalmi díjat
 
-## kell fizetni.
+## kell fizetni az elosztói engedélyes részére.
 
 (2) A földgázelosztási díj nyújt fedezetet az elosztóvezeték indokolt értékcsökkenésére, működési és tőkeköltségére, valamint az elosztóvezeték indokolt hálózati veszteségére.
 
@@ -26,17 +26,19 @@ a) a földgázkereskedő,
 
 b) az egyetemes szolgáltató,
 
-c) a felhasználó, valamint
+c)[^74] a rendszerhasználóként eljáró felhasználó, valamint
 
 d) a földgáztermelő
 
 ## köteles megfizetni.
 
-(7)[^39] Az elosztási kapacitásdíjak számszerűsítése az aktualizált (modellezett) kapacitás-lekötések (MJ/h) és az e rendelet hatálybalépése előtti lekötött megszakítható kapacitások (MJ/h) azon részének figyelembevételével történik, amely után elosztási kapacitásdíjat kell fizetni.
+(7)[^75] Az elosztási kapacitásdíjak számszerűsítése az aktualizált (modellezett) kapacitás-lekötések (MJ/h) és a lekötött megszakítható kapacitások (MJ/h) azon részének figyelembevételével történik, amely után elosztási kapacitásdíjat kell fizetni.
 
 (8) A (6) bekezdés szerinti díjfizetésre kötelezetteket az (1) bekezdésben meghatározott díjon felül – és a 3. mellékletben meghatározott áralkalmazási feltételeken kívül – más földgázelosztási díj-fizetési kötelezettség nem terheli.
 
-(9)[^40] Az elosztási díjrendszer díjtételeit – felhasználói kategóriánként – a 2. melléklet II. 2. és III. 2. pontja és az 1. melléklet, áralkalmazási feltételeit a 3. melléklet 2. pontja, az újonnan beépíthető gázmérők meghatározását az 5. melléklet tartalmazza.
+(9)[^76] Az elosztási díjak áralkalmazási feltételeit a 3. melléklet 2. pontja, az újonnan beépíthető gázmérők meghatározását az 5. melléklet tartalmazza.
 
-[^39]: A 7. § (7) bekezdése a 4/2010. (VI. 30.) NFM rendelet 6. § (4) bekezdése szerint módosított szöveg.
-[^40]: A 7. § (9) bekezdése a 18/2010. (XII. 3.) NFM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^73]: A 7. § (1) bekezdés záró szövegrésze a 65/2011. (XI. 30.) NFM rendelet 2. § 7. pontja szerint módosított szöveg.
+[^74]: A 7. § (6) bekezdés c) pontja a 65/2011. (XI. 30.) NFM rendelet 2. § 7. pontja szerint módosított szöveg.
+[^75]: A 7. § (7) bekezdése a 4/2010. (VI. 30.) NFM rendelet 6. § (4) bekezdése, a 65/2011. (XI. 30.) NFM rendelet 2. § 7. pontja szerint módosított szöveg.
+[^76]: A 7. § (9) bekezdése a 18/2010. (XII. 3.) NFM rendelet 13. § (1) bekezdése, a 65/2011. (XI. 30.) NFM rendelet 2. § 7. pontja szerint módosított szöveg.

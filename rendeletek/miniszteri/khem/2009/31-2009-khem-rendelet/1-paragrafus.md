@@ -1,29 +1,19 @@
 ## A rendelet hatálya
 
-1. § (1) E rendelet hatálya
+## 1. §[^1] E rendelet hatálya
 
-a) a földgázszállítás, rendszerirányítás, földgázelosztás és földgáztárolás (a továbbiakban együtt: rendszerhasználat) legmagasabb hatósági árainak (a továbbiakban: rendszerhasználati díjak) megállapítására, a rendszerhasználati díjak alkalmazási feltételeire, valamint a kapcsolódó fizetési feltételekre,
+a) a földgázszállítási tevékenységet végző engedélyesre (a továbbiakban: szállítói engedélyes),
 
-b)[^1] a földgázszállítási tevékenységet végző, a rendszerirányítási tevékenységet végző, a földgázelosztási és a földgáztárolási működési engedélyesekre (a továbbiakban: szállítói, rendszerirányítói, elosztói vagy tárolói engedélyes) és a rendszerhasználókra,
+b) a rendszerirányítási tevékenységet végző engedélyesre (a továbbiakban: rendszerirányítói engedélyes),
 
-c) a Magyar Energia Hivatalra (a továbbiakban: Hivatal)
+c) a földgázelosztási tevékenységet végző engedélyesre (a továbbiakban: elosztási engedélyes),
 
-## terjed ki.
+d) a földgáztárolási tevékenységet végző engedélyesre (a továbbiakban: tárolói engedélyes),
 
-(2) E rendelet hatálya nem terjed ki
+e) a rendszerhasználóra,
 
-a) a földgázhálózati csatlakozás létesítésével kapcsolatos egyszeri költségtérítésre,
+f) arra a felhasználóra, akik vagy amelyek kapacitás-lekötésre a földgázkereskedőnek nem adtak megbízást (a továbbiakban: rendszerhasználóként eljáró felhasználó), és
 
-b) a célvezeték földgázforgalmával kapcsolatos díjakra,
+g) a Magyar Energia Hivatalra (a továbbiakban: Hivatal)
 
-c) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 137. §-a szerinti szerződés díjára,
-
-d) az idegen tulajdonú eszközök üzemeltetése után fizetendő díjakra,
-
-e) – a 3. § (3) bekezdése kivételével – az egyetemes szolgáltatásra jogosult felhasználók által fizetendő díjakra,
-
-f) az a)–e) pontok alá nem tartozó, egyéb jogcímeken szedett díjakra (például a rendszerirányításhoz nem tartozó, de a hozzá kapcsolódó adatszolgáltatás díja),
-
-g) azon gázkereskedelmi ügyletekre, amelyek a szállító, az elosztó vagy a tároló kapacitásainak tényleges igénybevételével, lekötésével nem járnak.
-
-[^1]: Az 1. § (1) bekezdés b) pontja a 36/2011. (VII. 12.) NFM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 65/2011. (XI. 30.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.

@@ -1,3 +1,6 @@
-1. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^70]
+## 15. §[^112] A 2011. első félévi kiegyenlítő fizetések megállapítása során figyelembe veendő indokolt éves árbevétel tömegnek az első félévre történő lebontása a Hivatal által ellenőrzött 2011. első félévi tény árbevétel és a Hivatal által ellenőrzött 2011. évi teljes éves tény árbevétel arányában történik.
 
-[^70]: Az 1. melléklet a 4/2010. (VI. 30.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+1. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^113]
+
+[^112]: A 15. §-t a 65/2011. (XI. 30.) NFM rendelet 1. § (19) bekezdése iktatta be.
+[^113]: Az 1. melléklet a 4/2010. (VI. 30.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
