@@ -42,7 +42,7 @@ d) építési beruházás esetén az építőanyag-szállítót;
 
 3/D. erőforrást nyújtó szervezet: az a szervezet vagy személy, amely vagy aki nem minősül alvállalkozónak, nem tartozik a 2. pont a)–d) alpontjának hatálya alá sem, hanem a közbeszerzési eljárásban az ajánlattevő alkalmasságának igazolásában vesz részt, ezzel összefüggő erőforrásainak bemutatásával;
 
-3/E. erőforrás: nem minősülhet erőforrásnak a 66. §-ának (1) bekezdésének a)–d) pontja, a 67. § (1) bekezdésének a), d)–f) pontja, (2) bekezdésének a), d) és f) pontja, továbbá (3) bekezdésének a), d)–f) pontja szerinti körülmény, kivéve, ha az ajánlattevő (részvételre jelentkező) és az erőforrást nyújtó szervezet között a Polgári Törvénykönyv szerinti többségi befolyás áll fenn;
+3/E.
 
 4. európai műszaki engedély: az áru használati alkalmasságának kedvező műszaki elbírálása, amely az építési munkákra vonatkozó alapvető követelményeknek az áru belső tulajdonságai és a meghatározott alkalmazási és használati feltételek szerinti teljesítésén alapul; az európai műszaki engedélyt az Európai Unió tagállama által e célra kijelölt tanúsító szervezet bocsátja ki;
 
