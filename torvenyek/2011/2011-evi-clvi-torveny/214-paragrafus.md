@@ -1,5 +1,1 @@
-214. § A Tbj. 56/H. §-a a következő (3)–(4) bekezdésekkel egészül ki:
-
-„(3) A magánnyugdíjpénztárak 2011. december 12-éig átadják az állami adóhatóságnak – foglalkoztatókra és biztosítottakra lebontva – azon még el nem évült tagdíj (bírság, pótlék) hátralékra vonatkozó adatokat, amelyek a társadalombiztosítási nyugdíjrendszerbe visszalépett tagokat érintenek, és amelyekre irányuló végrehajtási megkereséseiket az (1) bekezdés alapján visszavontak. A pénztár által átadott adatok alapján az állami adóhatóság végrehajtási eljárást folytat le, és a befolyt összeget a Nyugdíjbiztosítási Alap bevételi számlájára utalja át.
-
-(4) A felszámolási eljárás során a magánnyugdíjpénztár által érvényesített és – a Nyugdíjreform és Adósságcsökkentő Alap részére teljesített vagyonátadást követően – megtérült, a társadalombiztosítási nyugdíjrendszerbe visszalépett tagot érintő, 2007. január 1-jét megelőző időszakra vonatkozó tagdíjjal (bírság, pótlék) összefüggő követelés jogosultja a Nyugdíjbiztosítási Alap.”
+214. §

@@ -8,6 +8,6 @@
 
 (4)
 
-(5) A Met. – a T. 5. §-ával megállapított – 9/A. §-a az „indult eljárásokban” szövegrész helyett az „indult ügyekben” szöveggel lép hatályba.
+(5)
 
 (6)
