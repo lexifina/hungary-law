@@ -8,6 +8,8 @@
 
 Tipus: AGY = adatgyűjtés, AÁ = adatátvétel
 
+1M10271M_1
+
 | A d a t g y ű j t é s - A d a t á t v é t e l | Az adatszolgáltatás beérkezési határideje | Irányadó uniós jogi aktus |
 
 | nyilván- tartási száma | c í m e | tipus | gyakorisága | adatszolgáltatóinak meghatározása |
