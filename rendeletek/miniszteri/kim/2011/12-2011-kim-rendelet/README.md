@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-12-20-2
 | 2011-04-02 | 2011-12-20-2T.2 | 2010: CXXX. törvény |
 | 2011-08-05 | 2011-12-20-2T.3 | 23/2011. (VIII. 4.) KIM rendelet |
 | 2011-08-06 | 2011-12-20-2T.4 | 2010: CXXX. törvény |
+| 2011-12-01 | 2011-12-20-2T.5 | 34/2011. (XI. 30.) KIM rendelet |

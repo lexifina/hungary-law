@@ -6,7 +6,7 @@ a) a kedvezményezett de minimis támogatásokra vonatkozó, 5. melléklet szeri
 
 b) a kedvezményezett által az adott tárgyban beadott támogatási kérelemre vonatkozó, 6. melléklet szerinti nyilatkozata,
 
-c) gazdálkodó szervezet kedvezményezett esetén a létezését jogszabályban meghatározottak szerint igazoló hiteles okirat, különösen cégkivonat, nyilvántartásba vételről szóló igazolás hiteles másolata,
+c)[^3] gazdálkodó szervezet kedvezményezett esetén a létezését jogszabályban meghatározottak szerint igazoló, 30 napnál nem régebbi, hiteles okirat, különösen cégkivonat, nyilvántartásba vételről szóló igazolás hiteles másolata,
 
 d) közjegyző vagy ügyvéd által hitelesített aláírási címpéldány, vagy eredeti vagy a bank által hitelesített aláírás-bejelentő karton (aláírás minta),
 
@@ -35,3 +35,5 @@ c) ha a támogatás az Európai Unió működéséről szóló Szerződés 107. 
 d) ha a kedvezményezett mulasztásából kifolyólag az a) – és állami támogatás esetén a b) – pontban meghatározott határidőtől számított további harminc napon belül nem kerül sor a szerződéskötésre, a támogatási döntés az Ámr. 112. § (8) bekezdése alapján hatályát veszti.
 
 (4) A (2) bekezdésben meghatározott nyilatkozatokat, dokumentumokat az (1) bekezdés szerinti értesítésben meghatározott határidőig kell benyújtani.
+
+[^3]: A 12. § (2) bekezdés c) pontja a 34/2011. (XI. 30.) KIM rendelet 3. §-ával megállapított szöveg.

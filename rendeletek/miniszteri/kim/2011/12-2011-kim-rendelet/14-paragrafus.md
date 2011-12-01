@@ -1,6 +1,6 @@
 ## 6. A támogatási szerződés
 
-## 14. § Az előirányzatokból akkor nyújtható támogatás, ha az a támogatás nyújtására vonatkozó feltételek mellett tartalmazza
+14. §[^4] (1) Az előirányzatokból akkor nyújtható támogatás, ha az a támogatás nyújtására vonatkozó feltételek mellett tartalmazza
 
 a) a kedvezményezett cégnevét (nevét), székhelyét (címét), adószámát, számlavezető bankjának nevét, számlaszámát és képviselőjének nevét,
 
@@ -17,3 +17,7 @@ f) a jogi és pénzügyi ellenjegyző nevét és aláírását,
 g) a kötelezettségvállaló és a kedvezményezett képviseletében eljáró személy nevét és aláírását,
 
 h) a keltezést.
+
+(2) Az előirányzat közreműködő szerv útján történő felhasználása esetén a jogi ellenjegyzés a közreműködő szerv által alkalmazott típusszerződés mintapéldányának ellenjegyzésével is teljesíthető.
+
+[^4]: A 14. § a 34/2011. (XI. 30.) KIM rendelet 4. §-ával megállapított szöveg.

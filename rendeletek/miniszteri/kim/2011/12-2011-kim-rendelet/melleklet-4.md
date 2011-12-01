@@ -80,4 +80,6 @@
 
 ## 7 A IV/17–18. oszlopok rubrikáit csak a nyertes pályázat adatainak beküldésekor kell kitölteni.
 
-4. melléklet a 12/2011. (III. 30.) KIM rendelethez
+4. melléklet a 12/2011. (III. 30.) KIM rendelethez[^16]
+
+[^16]: A 4. melléklet a 34/2011. (XI. 30.) KIM rendelet 11. §-a szerint módosított szöveg.
