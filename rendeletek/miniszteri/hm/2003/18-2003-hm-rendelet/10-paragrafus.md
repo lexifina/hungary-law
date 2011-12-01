@@ -1,5 +1,0 @@
-10. § (1) Az 1–3 nap időtartamú szolgálat- vagy munkaképtelenséget, illetve szolgálatképesség csökkenést okozó balesetek vizsgálatát a munkavédelmi tevékenységet ellátó személy (munkavédelmi tiszt) végzi.
-
-(2) A 3 napot meghaladó szolgálat- vagy munkaképtelenséget, illetve szolgálatképesség csökkenést okozó balesetet bizottság vizsgálja ki, melyet az állományilletékes parancsnok jelöl ki. A bizottság munkájába be kell vonni a szervezetnél munkavédelmi tevékenységet ellátó személyt (munkavédelmi tisztet), és lehetővé kell tenni a munkavédelmi érdekképviselet részvételét. A bizottság lehet állandó vagy eseti, összetételét és munkarendjét az SzMvSz szabályozza.
-
-(3) A súlyos, valamint az olyan – haditechnikai vagy munkaeszköz, illetve technológia által okozott – baleset kivizsgálása, amely kettőnél több személy egyidejű sérülését okozta, munkabiztonsági szaktevékenységnek minősül, ezért az ilyen balesetek kivizsgálását legalább középfokú munkavédelmi szakképesítéssel rendelkező személy vezeti.
