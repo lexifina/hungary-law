@@ -1,0 +1,3 @@
+## 6. § A Rendelet 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az előirányzatból kerül finanszírozásra a nemzetközi szervezeti tagságból adódó tagdíjak, illetve ugyanezen szervezeteknek fizetendő tagállami hozzájárulásból adódó – megállapodáson vagy a nemzetközi szervezet belső előírásán alapuló – egyéb költségek, valamint a nemzetközi szervezetek üléseinek tartalmi előkészítéséhez szükséges szakértői munkák. Az előirányzat biztosítja továbbá a minisztérium valamennyi nemzetközi kötelezettségével összefüggő kiadások és hozzájuk kapcsolódó lebonyolítási költségek fedezetét, ideértve a fordítási díjakat is”.
