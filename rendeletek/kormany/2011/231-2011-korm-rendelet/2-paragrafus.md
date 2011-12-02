@@ -1,3 +1,0 @@
-## 1. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet (a továbbiakban: R.) 5. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A Köztársasági Őrezred a miniszterek részére felső középkategóriájú gépjárművet és hivatásos biztonsági gépjárművezetőt biztosít. A Köztársasági Őrezred a rendészetért felelős miniszter, a honvédelemért felelős miniszter és a külpolitikáért felelős miniszter részére állandó híradástechnikai összeköttetést biztosít és gondoskodik lakásuk technikai védelméről. A jelen bekezdésben foglaltakkal kapcsolatban felmerült költségek a Köztársasági Őrezredet terhelik.”
