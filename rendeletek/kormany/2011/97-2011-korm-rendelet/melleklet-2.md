@@ -46,7 +46,7 @@
 
 | 21. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez
+2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^4]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -92,7 +92,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 11. | kulturális örökségvédelem | Csongrád Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
-| 12. | egészségügy | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
+| 12. | egészségügy, sugár-egészségügy | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
 | 13. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Médiatanácsának elnöke |
 
@@ -101,3 +101,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 | 15. | élelmiszer-egészségügy | Csongrád Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
 | 16. | területrendezés | Csongrád Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+
+| 17. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi és Vízügyi felügyelőség | Országos Környezetvédelmi és Természetvédelmi és Vízügyi Főfelügyelőség |
+
+[^4]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a szerint módosított szöveg.

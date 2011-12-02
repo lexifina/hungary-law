@@ -1,0 +1,1 @@
+## eljárást nem kell lefolytatni.
