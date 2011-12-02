@@ -2,7 +2,7 @@
 
 ## 3. § E rendelet alkalmazásában
 
-1.[^1] kötelezettségvállaló: a miniszter, a miniszter által az Ámr. 109. § (9) bekezdése szerinti szabályzatban meghatározott személy, valamint az Ámr. 72. § (3) bekezdése alapján a 109. § (9) bekezdése szerinti szabályzatban meghatározott körben a nemzetpolitikáért felelős miniszter és a kabinetfőnöki feladatok, valamint az Új Nemzedék Jövőéért Program koordinációjával kapcsolatos teendők ellátásáért felelős miniszteri biztos,
+1.[^2] kötelezettségvállaló: a miniszter, a miniszter által az Ámr. 109. § (9) bekezdése szerinti szabályzatban meghatározott személy, valamint az Ámr. 72. § (3) bekezdése alapján a 109. § (9) bekezdése szerinti szabályzatban meghatározott körben a nemzetpolitikáért felelős miniszter és a kabinetfőnöki feladatok, valamint az Új Nemzedék Jövőéért Program koordinációjával kapcsolatos teendők ellátásáért felelős miniszteri biztos,
 
 2. szakmai teljesítésigazoló: a kötelezettségvállaló által az Ámr. 109. § (9) bekezdése szerinti szabályzatban meghatározott személy,
 
@@ -12,4 +12,4 @@
 
 5. lebonyolító szervezet: a részben vagy egészben átadott fejezeti kezelésű előirányzat tekintetében a támogatás továbbadására jogosult szervezet, amely ellátja a fejezeti kezelésű előirányzat felhasználásával összefüggő, külön megállapodásban rögzített feladatokat.
 
-[^1]: A 3. § 1. pontja a 34/2011. (XI. 30.) KIM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § 1. pontja a 34/2011. (XI. 30.) KIM rendelet 1. §-ával megállapított szöveg.
