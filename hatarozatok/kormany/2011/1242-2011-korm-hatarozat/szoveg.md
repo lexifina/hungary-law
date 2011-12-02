@@ -22,10 +22,13 @@ Határidő: eljárásrendnek megfelelően
 
 3. A Kormány a Regionális Operatív Programok 2011–2013. évekre szóló akcióterveinek jóváhagyásáról szóló 1012/2011. (I. 19.) Korm. határozat 4. melléklete Észak-Magyarországi Operatív program I. Prioritás bemutatása – 2. prioritás: Turisztikai potenciál erősítése „II. a támogatási konstrukciók összefoglaló adatai (2011–2013)” című táblázat első sorában a „Támogatás összege (MFt)” oszlopában a támogatás összegét 2000,00 MFt helyett 3000,00 MFt-ban határozza meg.
 
-4. A Kormány felhívja a nemzeti erőforrás minisztert, hogy a kiemelt projekt nevesítését követően a beruházás nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítása érdekében készítsen előterjesztést, és azt nyújtsa be a kiemelt jelentőségű beruházásokat kezelő és egyedi kormánydöntéssel támogatható beruházások kormánydöntését előkészítő tárcaközi bizottság részére.
+4.[^1] A Kormány felhívja a nemzeti erőforrás minisztert, hogy a kiemelt projekt nevesítését követően a beruházás nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítása érdekében készítsen előterjesztést, és azt nyújtsa be a kiemelt jelentőségű beruházásokat kezelő és egyedi kormánydöntéssel támogatható beruházások kormánydöntését előkészítő tárcaközi bizottság részére.
 
 Felelős: nemzeti erőforrás miniszter
 
-Határidő: a kiemelt projekt nevesítését követően haladéktalanul
+Határidő: a kiemelt projekt előkészítésének megfelelően[^2]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pontban a az 1412/2011. (XII. 1.) Korm. határozat 3. pontja alapján hatályát veszti a „nevesítést követően” szövegrész, ez azonban nem vezethető át.
+[^2]: Az 1412/2011. (XII. 1.) Korm. határozat 3. pontjával megállapított szöveg.
