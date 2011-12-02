@@ -1,3 +1,3 @@
-## „(5) A rendszerirányító a kifizetést részben teljesíti (a továbbiakban: részbeni kifizetés), ha a keretösszeg nem fedezi az igazolt támogatási igények összegét. Részbeni kifizetés esetében az igazolt támogatási igényeket a rendszerirányító a keretösszeg és az igazolt támogatási igények összege arányában teljesíti.
+9. §[^11]
 
-## (6) Ha a keretösszeg a részbeni kifizetések miatt elmaradt támogatási összegek és az adott havi igazolt támogatási igények kifizetésére nem nyújt fedezetet, a rendszerirányító a részbeni kifizetések miatt elmaradt támogatási összegeket teljes mértékben kifizeti. Az adott havi támogatási igények kifizetését a részbeni kifizetés miatt elmaradt támogatási összegekkel csökkentett keretösszeg és az adott havi igazolt támogatási igények összege arányában teljesíti.”
+[^11]: A 6–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
