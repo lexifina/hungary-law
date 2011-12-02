@@ -1,5 +1,0 @@
-## „(3) A vizsgabiztosoknak a vizsgabiztosi tevékenység folytatásához – a szükséges ismeret és képesség megőrzése, frissítése, új szakmai alkalmassági tényezők elsajátítása és a további vizsgáztatás tisztességes és egységes követelményeinek megfelelősége érdekében – évente összesen legalább kétnapos, – a szükséges gyakorlati járművezetői képesség megőrzése, illetve továbbfejlesztése érdekében – öt évente legalább ötnapos továbbképzésen kell részt venniük és ezt követően sikeres vizsgát kell tenniük. Az elméleti vizsgát a közúti járművezetők számítógépes elméleti vizsgájánál alkalmazott és elvárt körülmények betartásának megfelelően kell teljesíteni.
-
-## (4) A vizsgabiztosok továbbképzését a közlekedési hatóság engedélye alapján szakirányú műszaki felsőoktatási intézmény végzi. Amennyiben a vizsgakötelezettségét a vizsgabiztos sikeresen teljesítette, a közlekedési hatóság újabb érvényességi idejű vizsgabiztosi igazolványt ad ki.
-
-## (5) Elméleti vizsgabiztosi képesítéssel kizárólag számítógépes elméleti vizsgáztatást lehet végezni.”
