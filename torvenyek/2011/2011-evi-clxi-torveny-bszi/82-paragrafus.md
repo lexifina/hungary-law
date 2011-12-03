@@ -1,0 +1,1 @@
+82. § A lemondást írásban kell közölni az OBH elnökével. A lemondási idő 6 hónap. A lemondási időt az OBH elnöke ennél rövidebb időben is megállapíthatja. A megbízatás az annak megszűnését megállapító határozatban megjelölt napon szűnik meg. A lemondás az érintett ellen folyamatban levő fegyelmi eljárás lefolytatását nem akadályozza.

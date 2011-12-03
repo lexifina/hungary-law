@@ -1,0 +1,1 @@
+35. § A 34. § (1) és (2) bekezdésében foglalt esetben a jogegységi tanács valamennyi tag jelenléte mellett határozatképes és a határozatát egyszerű szótöbbséggel hozza. A 34. § (4) bekezdése szerinti jogegységi tanács akkor határozatképes, ha ülésén tagjainak több mint a kétharmada jelen van; a jogegységi tanács döntéséhez a jelen lévő tagok kétharmadának szavazata szükséges.

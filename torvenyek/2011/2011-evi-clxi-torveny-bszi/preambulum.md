@@ -1,0 +1,1 @@
+Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ellátása, a bírói függetlenség elvének maradéktalan megvalósítása és az ítélkezés egységének biztosítása érdekében a bíróságok szervezeti felépítéséről, feladatairól és igazgatásáról az Alaptörvény végrehajtására, az Alaptörvény 25–28. cikke alapján a következő törvényt alkotja:

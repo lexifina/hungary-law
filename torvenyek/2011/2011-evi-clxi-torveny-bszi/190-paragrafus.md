@@ -1,0 +1,1 @@
+190. § Ahol a törvény járásbíróságról, járásbírósági bírósági vezetőről, illetve járásbírósági bíróról rendelkezik, ott 2012. december 31. napjáig a kerületi és városi bíróságot, illetve együtt a helyi bíróságot, helyi bírósági vezetőt, illetve helyi bírósági bírót kell érteni. 2013. január 1-jétől az adott helyi bíróság jogutódja az adott járásbíróság.
