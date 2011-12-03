@@ -2,181 +2,159 @@
 
 ## Tevékenységek Egységes Ágazati Osztályozási Rendszere (TEÁOR'08) szerinti alábbi ágazatokhoz tartozó termékek és szolgáltatások:
 
-## 10 Élelmiszergyártás (kizárólag a büntetés-végrehajtás vonatkozásában)
+## 1. 10 Élelmiszergyártás (kizárólag a büntetés-végrehajtás vonatkozásában)
 
-## Zöldségfélék és gumós növények, tej, tejtermék, sertés vágás (hasított félig),
+## Zöldségfélék és gumós növények, tej, tejtermék, hasított félsertés, sertésbelsőségek, hűtött baromfi,
 
-## Kenyér, péksütemény, finom pékáru.
+## kenyér, péksütemény, finom pékáru.
 
-## 1392 Konfekcionált textiláru gyártása (kivéve: ruházat)
+## 2. 1392 Konfekcionált textiláru gyártása (kivéve: ruházat)
 
 ## Ágynemű, laptextil gyártása, takarók, asztalnemű, fürdőszobai és konyhai textíliák,
 
-## Konfekcionált lakástextíliák, konyharuha és hasonló cikk.
+## konfekcionált lakástextíliák, konyharuha és hasonló cikk.
 
-## 1399 Egyéb textiláru gyártása mns
+## 3. 1399 Egyéb textiláru gyártása mns
 
-## 1412 Munkaruházat gyártása
+## 4. 1412 Munkaruházat gyártása
 
 ## Munka, védőruha és egyenruházati termékek gyártása,
 
-## Egészségügyi ruházati termékek és ágytextíliák,
+## egészségügyi ruházati termékek és ágytextíliák,
 
-## Kalocsai népművészeti terítők, kézi szövésű lábtörlők és szőnyegek.
+## kalocsai népművészeti terítők, kézi szövésű lábtörlők és szőnyegek.
 
-## 1413 Felsőruházat gyártása (kivéve: munkaruházat)
+## 5. 1413 Felsőruházat gyártása (kivéve: munkaruházat)
 
 ## Felsőruházati termékek tűzése bérmunkában (szabás nélkül),
 
-## Felsőruházati termékek gyártása szövött textíliából.
+## felsőruházati termékek gyártása szövött textíliából.
 
-## 1414 Alsóruházat gyártása
+## 6. 1414 Alsóruházat gyártása
 
-## Alsóruházati és hálóruházati termék gyártása szövött textíliából
+## Alsóruházati és hálóruházati termék gyártása szövött textíliából (pl. ing, alsónadrág, pizsama, hálóing és hasonló cikkek).
 
-## (pl. ing, alsónadrág, pizsama, hálóing és hasonló cikkek).
-
-## 1419 Egyéb ruházat, kiegészítők gyártása
+## 7. 1419 Egyéb ruházat, kiegészítők gyártása
 
 ## Sál, drapéria, sapka és hasonló cikkek.
 
-## 1520 Lábbeligyártás
+## 8. 1512 Táskafélék, szíjazat gyártása
 
-## Munkavédelmi, utcai és egyenruházati lábbelik gyártása bőr- és textil felsőrésszel,
+## Egyenruházati kiegészítők (taktikai öv, tonfatartó, bilincstartó tok, gyorstok (P9–PC), könnyfakasztó tartó tok, merev bilincstartó (bőr), gyorskötöző tartó, kulcstartó, rádiótartó tok, riasztó tok, málhazsák.
 
-## polyurethán, thermo-polyurethán direkt fröccsöntött, illetve ragasztott talppal,
+## 9. 1520 Lábbeligyártás
 
-## cipőtalp varrás, bőripari termékek varrása.
+## Munkavédelmi, utcai és egyenruházati lábbelik gyártása bőr- és textil felsőrésszel, direkt fröccsöntött illetve ragasztott technológiával, cipőtalp-varrás, bőripari termékek varrása.
 
-## 1610 Fűrészárugyártás
+## 10. 1610 Fűrészárugyártás
 
 ## Szélezetlen és szélezett deszka, oszlopok és gerendák gyártása és hasonló cikkek.
 
-## 1623 Épületasztalos-ipari termék gyártása
+## 11. 1623 Épületasztalos-ipari termék gyártása
 
 ## Borítások, fakeretek, állványok, kis szekrények, egyedi fatermékek (tömör fából is),
 
-## Korlátok, nyílászárók, székek és hasonló cikkek.
+## korlátok, nyílászárók, székek és hasonló cikkek.
 
-## 1624 Tároló fatermékek gyártása
+## 12. 1624 Tároló fatermékek gyártása
 
 ## Ládák, dobozok, raklapok és hasonló cikkek.
 
-## 1629 Egyéb fa-, parafatermék, fonottáru gyártása
+## 13. 1629 Egyéb fa-, parafatermék, fonottáru gyártása
 
-## Fanyelek, képkeretek, fa alkatrészek.
+## Fanyelek, képkeretek, fa alkatrészek, kutyaólak.
 
-## 1722 Háztartási, egészségügyi papírtermékek gyártása
+## 14. 1722 Háztartási, egészségügyi papírtermékek gyártása
 
-## Háztartási higiéniai papírtermékek (közületi kiszerelésben is), folpackfólia,
+## Háztartási higiéniai papírtermékek (közületi kiszerelésben is), folpackfólia, papírzsebkendő, szalvéta és hasonló cikkek.
 
-## papír zsebkendő, szalvéta és hasonló cikkek.
+## 15. 1723 Irodai papíráru gyártása
 
-## 1723 Irodai papíráru gyártása
+## Egyedi spirálfüzet, átírótömb, felírótömb, konferenciamappa, napló, ajándéktasak,
 
-## Spirálfüzet, átírótömb, felírótömb, konferenciamappa, napló, ajándéktasak,
+## egyedi nyomtatványok, talpas boríték és hasonló cikkek.
 
-## egyedi nyomtatványok és hasonló cikkek.
+## 16. 1812 Nyomás (kivéve: napilap)
 
-## 1812 Nyomás (kivéve: napilap)
+## Könyv, meghívók, céglogós borítékok, egyedi nyomtatványok, formanyomtatványok, névjegy, névjegykártya, öntapadós címkék, plakátok, naplók, üdvözlőlapok és hasonló cikkek.
 
-## Könyv, meghívók, céglogós borítékok, egyedi nyomtatványok, formanyomtatványok,
-
-## névjegy, névjegykártya, öntapadós címkék, plakátok, naplók, üdvözlőlapok és hasonló cikkek.
-
-## 1813 Nyomdai előkészítő tevékenység
+## 17. 1813 Nyomdai előkészítő tevékenység
 
 ## Kiadványszerkesztés, könyvszedés, könyvszerkesztés.
 
-## 1814 Könyvkötés, kapcsolódó szolgáltatás
+## 18. 1814 Könyvkötés, kapcsolódó szolgáltatás
 
-## Könyvkötés, aranyfeliratozás, díszborító, díszdoboz, kasírozás, keménytáblás kötés,
+## Könyvkötés, aranyfeliratozás, díszborító, díszdoboz, kasírozás, keménytáblás kötés, műbőrkötés, oklevélátadó, többkötetes kiadvány tárolódoboza, vendégkönyv és hasonló cikkek.
 
-## műbőrkötés, oklevélátadó, többkötetes kiadvány tárolódoboza, vendégkönyv és hasonló cikkek.
-
-## 2219 Egyéb gumitermékek gyártása
-
-## P10 típusú szemléltető baba gyártása, szemléltető emberi csontváz összeszerelése.
-
-## 2222 Műanyag csomagolóeszköz gyártása
+## 19. 2222 Műanyag csomagolóeszköz gyártása
 
 ## Homokzsák gyártása.
 
-## 2511 Fémszerkezet gyártása
+## 20. 2511 Fémszerkezet gyártása
 
 ## Lakatosipari tevékenység.
 
-## 2512 Fém épületelem gyártása
+## 21. 2512 Fém épületelem gyártása
 
-## Ajtó, ablakrács, zárkaajtó, lemezajtó, biztonsági rács, büntetés-végrehajtási
+## Ajtó, ablakrács, zárkaajtó, lemezajtó, biztonsági rács, büntetés-végrehajtási ajtózárszerkezet (három ponton záródó), kerítés, kerítéselemek, egyedi szerkezetek és hasonló cikkek.
 
-## ajtózárszerkezet (három ponton záródó), kerítés, kerítéselemek , egyedi szerkezetek
+## 22. 2521 Központi fűtési kazán, radiátor gyártása
 
-## és hasonló cikkek.
+## Radiátor.
 
-## 2561 Fémfelület-kezelés
+## 23. 2561 Fémfelület-kezelés
 
-## Galvanikus horganyzás kék és sárga passziválással, nikkelezés, kooperációban horganyzás
+## Galvanikus horganyzás kék és sárga passziválással, nikkelezés, kooperációban horganyzás és kikészítés.
 
-## és kikészítés.
-
-## 2572 Lakat-, zárgyártás
+## 24. 2572 Lakat-, zárgyártás
 
 ## Kooperációban zár, záralkatrészek gyártása összeszerelés.
 
-## 2599 M.n.s. egyéb fémfeldolgozási termék gyártása
+## 25. 2599 M.n.s. egyéb fémfeldolgozási termék gyártása
 
-## Kordon, biztonsági elválasztókordon, vaságy, kisszék, zárkaszekrény, állványok
+## Kordon, biztonsági elválasztókordon, vaságy, kisszék, zárkaszekrény, állványok és hasonló cikkek.
 
-## és hasonló cikkek.
-
-## 2790 Egyéb villamos berendezés gyártása
-
-## Világító és nem világító reklámtáblák gyártása.
-
-## 3101 Irodabútor gyártása
+## 26. 3101 Irodabútor gyártása
 
 ## Laminált, tömör,furnér kivitelben egyszerű (ügyintézői kategória).
 
-## 3102 Konyhabútorgyártás
+## 27. 3102 Konyhabútorgyártás
 
-## Laminált, tömör, furnér kivitelben egyszerű (ügyintézői kategória).
+## Laminált, tömör,furnér kivitelben egyszerű (ügyintézői kategória).
 
-## 3109 Egyéb bútor gyártása
+## 28. 3103 Ágybetét gyártása
 
-## Zárkabútorzat fából, faállvány, iratfakk, kutyaól, homokláda, kulcstartó szekrény,
+## Szivacsmatrac.
 
-## fali ruhafogas, polc, fegyvertároló szekrény, készenléti helységek bútorzata,
+## 29. 3109 Egyéb bútor gyártása
 
-## ágy javítás és gyártása, katonaszekrény gyártása és összeszerelése és hasonló cikkek.
+## Zárkabútorzat, faállvány, iratfakk, homokláda, kulcstartó szekrény, fali ruhafogas, polc, fegyvertároló szekrény, készenléti helyiségek bútorzata, ágy javítása és gyártása, katonaszekrény gyártása és összeszerelése és hasonló cikkek.
 
-## 3319 Egyéb ipari eszköz javítása
+## 30. 3319 Egyéb ipari eszköz javítása
 
 ## Raklapfelújítás.
 
-## 38 Hulladékgazdálkodás
+## 31. 38 Hulladékgazdálkodás
 
-## Irodai, nyomdai, irattári papírok begyűjtése és válogatása, megsemmisítése.
+## Irodai, nyomdai, irattári papírok gyűjtése és válogatása, hasznosítása, megsemmisítése.
 
-## 3900 Szennyeződésmentesítés, egyéb hulladékkezelés
+## Elektronikai hulladék gyűjtése, válogatása, bontása,hasznosítása, megsemmisítése.
 
-## Kültéri területrendezés, tereprendezés, szemétszedés, nyövényzetirtás (biztonsági feltételek
+## 32. 3900 Szennyeződésmentesítés, egyéb hulladékkezelés
 
-## előzetes egyeztetése alapján).
+## Kültéri területrendezés, tereprendezés, szemétszedés, növényzetirtás (biztonsági feltételek előzetes egyeztetése alapján).
 
-## 9524 Bútor, lakberendezési tárgy javítása
+## 33. 9524 Bútor, lakberendezési tárgy javítása
 
 ## Otthoni és irodabútorok, valamint lakberendezési tárgyak javítása.
 
-## 9601 Textil, szőrme mosása, tisztítása
+## 34. 9601 Textil, szőrme mosása, tisztítása
 
 ## Normál textíliák mosása, szárítása, kalanderezése, ruházat, ágynemű, egyéb textiltermékek mosása. Egészségügyi textíliák mosása, szárítása, kalanderezése (higiénikus mosodai státusz).
 
 ## Erősen szennyezett textíliák mosása, szárítása, kalanderezése.
 
-## 24 órás mosás, textíliák javítása, textíliák kézi vasalása, szennyes és tiszta textíliák szállítása,
-
-## textília csomagolása, élő kártevőkkel szennyezett textília fertőtlenítése.
+## 24 órás mosás, textíliák javítása, textíliák kézi vasalása, szennyes és tiszta textíliák szállítása, textília csomagolása, élő kártevőkkel szennyezett textília fertőtlenítése.
 
 2. melléklet a 9/2011. (III. 23.) BM rendelethez
 
