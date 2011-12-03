@@ -14,4 +14,4 @@ e) akinek a bírói szolgálati viszonya törvény alapján szünetel, vagy
 
 f) aki a polgári perrendtartásról szóló törvény szerinti hozzátartozói kapcsolatban áll az OBT tagjával vagy az OBH elnökének kinevezési hatáskörébe tartozó bírósági vezetővel.
 
-(2) Az OBH elnöke az elődje megbízatásának megszűnését követő napon, vagy ha elődje megbízatásának megszűnését követően választották meg, a megválasztásának napján lép hivatalba.
+(2)

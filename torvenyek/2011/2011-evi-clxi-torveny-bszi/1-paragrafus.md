@@ -8,4 +8,4 @@
 
 ## 1. Alapvető rendelkezések
 
-1. § Magyarországon a bíróságok igazságszolgáltatási, továbbá törvény által meghatározott egyéb tevékenységet látnak el.
+1–15. §

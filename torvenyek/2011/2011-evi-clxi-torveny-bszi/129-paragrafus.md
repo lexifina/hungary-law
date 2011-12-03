@@ -1,1 +1,0 @@
-129. § Ha a kinevezésre jogosult nem a kinevezéssel érintett bíróság elnöke – az elnöki pályázat, továbbá a közigazgatási és munkaügyi regionális kollégium kollégiumvezetői és kollégiumvezető-helyettesi pályázat kivételével – beszerzi a kinevezéssel érintett bíróság elnökének javaslatát.

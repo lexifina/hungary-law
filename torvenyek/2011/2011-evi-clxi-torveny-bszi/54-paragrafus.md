@@ -1,1 +1,0 @@
-54. § Az önkormányzati tanács az indítvány beérkezésétől számított 90 napon belül szótöbbséggel hozza meg határozatát. Személyes meghallgatás esetén az eljárás lefolytatására nyitva álló határidő 30 nappal meghosszabbodik.

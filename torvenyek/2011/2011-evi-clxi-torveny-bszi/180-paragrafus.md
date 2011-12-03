@@ -1,1 +1,0 @@
-180. § A küldöttválasztó összbírói értekezleteket a 179. § (1) bekezdésben említett bíróságok elnökei legkésőbb 2012. január 30. napjáig kötelesek összehívni. A küldöttválasztó összbírói értekezletet határozatképtelensége esetén legkésőbb 2012. február 5. napjáig ismét össze kell hívni. A megismételt összbírói értekezlet a jelenlévők számától függetlenül határozatképes.

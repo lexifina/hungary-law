@@ -8,4 +8,4 @@
 
 ## 7. Általános rendelkezések
 
-25. § A Kúria az Alaptörvény 25. cikk (3) bekezdésében meghatározott feladatának ellátása körében jogegységi határozatokat hoz, joggyakorlat-elemzést folytat jogerősen befejezett ügyekben, valamint elvi bírósági határozatokat és elvi bírósági döntéseket tesz közzé.
+25–28. §

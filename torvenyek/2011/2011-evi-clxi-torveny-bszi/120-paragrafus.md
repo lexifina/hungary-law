@@ -1,1 +1,0 @@
-120. § A törvényszék elnöke a 119. §-ban meghatározott feladatokon túl irányítja és ellenőrzi a területén működő közigazgatási és munkaügyi bíróság, valamint járásbíróságok elnökeinek igazgatási tevékenységét.

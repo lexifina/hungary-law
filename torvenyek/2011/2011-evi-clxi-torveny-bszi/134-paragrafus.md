@@ -1,1 +1,0 @@
-134. § A bírósági vezetői pályázatokra az e törvényben nem szabályozott kérdésekben a bírák jogállásáról és javadalmazásáról szóló törvénynek a bírói állások pályázatára vonatkozó rendelkezéseit megfelelően alkalmazni kell.

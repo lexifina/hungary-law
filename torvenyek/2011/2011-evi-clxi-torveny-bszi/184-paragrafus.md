@@ -1,1 +1,0 @@
-184. § Az OBT bíró tagjainak első alkalommal történő megválasztása során a szavazást a 100. § (1) bekezdésében meghatározott módon mindaddig folytatni kell, amíg – a 178. § (2) és (3) bekezdésében meghatározottak szerint – a szükséges számú jelölt az előírt számú szavazatot meg nem kapja.

@@ -1,1 +1,1 @@
-102. § Az OBT és a választott bíró tagok, valamint póttagok megbízatása az OBT első ülésétől számított 6 évre szól. Az OBT megbízatása az újonnan megválasztott OBT első ülésének napján szűnik meg. Az újonnan megválasztott OBT első ülését a bíró tagok megválasztásától számított 15 napon belül kell megtartani.
+102. §

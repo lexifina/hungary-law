@@ -1,1 +1,0 @@
-58. § Ha a helyi önkormányzat az önkormányzati tanács eljárása során eleget tesz a törvényen alapuló rendeletalkotási kötelezettségének, az önkormányzati tanács az eljárást megszünteti. Az eljárás megszüntetése előtt az önkormányzati tanács határidő tűzésével gondoskodik a fővárosi és megyei kormányhivatal állásfoglalásának beszerzéséről.

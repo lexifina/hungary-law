@@ -1,1 +1,0 @@
-73. § Felmentéssel szűnik meg a megbízatás, ha az OBH elnöke neki fel nem róható okból 90 napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak. A felmentést a köztársasági elnök indítványozhatja.
