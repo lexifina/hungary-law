@@ -104,64 +104,6 @@
 
 ## ”
 
-4. melléklet a 27/2010. (XII. 31.) NGM rendelethez
+4. melléklet a 27/2010. (XII. 31.) NGM rendelethez[^2]
 
-„1. számú melléklet a 2/2010. (II. 16.) SZMM rendelethez
-
-A felnőttképzést folytató intézmények nyilvántartását vezető állami foglalkoztatási szervek és illetékességi területük
-
-1. Budapest Főváros Kormányhivatalának Munkaügyi Központja (Budapest)
-
-Budapest
-
-Pest Megye
-
-2. Baranya Megyei Kormányhivatal Munkaügyi Központja (Pécs)
-
-Baranya megye
-
-Somogy megye
-
-Tolna megye
-
-3. Békés Megyei Kormányhivatal Munkaügyi Központja (Békéscsaba)
-
-Bács-Kiskun megye
-
-Békés megye
-
-Csongrád megye
-
-4. Borsod-Abaúj-Zemplén Megyei Kormányhivatal Munkaügyi Központja (Miskolc)
-
-Borsod-Abaúj-Zemplén megye
-
-Heves megye
-
-Nógrád megye
-
-5. Fejér Megyei Kormányhivatal Munkaügyi Központja (Székesfehérvár)
-
-Fejér megye
-
-Komárom-Esztergom megye
-
-Veszprém megye
-
-6. Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Munkaügyi Központja (Nyíregyháza)
-
-Jász-Nagykun-Szolnok megye
-
-Hajdú-Bihar megye
-
-Szabolcs-Szatmár-Bereg megye
-
-7. Vas Megyei Kormányhivatal Munkaügyi Központja (Szombathely)
-
-Vas megye
-
-Zala megye
-
-Győr-Moson-Sopron megye
-
-”
+[^2]: A 4. mellékletet a 42/2011. (XII. 2.) NGM rendelet 2. § (3) bekezdése hatályon kívül helyezte.

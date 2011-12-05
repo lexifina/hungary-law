@@ -10,7 +10,7 @@
 
 ## c) az 1. mellékletben meghatározott fővárosi és megyei kormányhivatal munkaügyi központjára.”
 
-(2) Az R24. 1. számú melléklete helyébe e rendelet 4. melléklete lép.
+(2)[^1]
 
 (3) Az R24.
 
@@ -21,3 +21,5 @@ b) 3. § (2) bekezdésében a „regionális munkaügyi központnál” szövegr
 c) 3. § (3) bekezdésében a „Közép-magyarországi Regionális Munkaügyi Központnál” szövegrész helyébe a „Fővárosi Munkaügyi Központnál” szöveg,
 
 d) a 3. § (2)–(3) bekezdésében, a 7. § (1)–(3) bekezdésében és a 8. §-ában a „regionális munkaügyi központ” szövegrész helyébe a „fővárosi és megyei kormányhivatal munkaügyi központja” szöveg
+
+[^1]: A 70. § (2) bekezdését a 42/2011. (XII. 2.) NGM rendelet 2. § (3) bekezdése hatályon kívül helyezte.
