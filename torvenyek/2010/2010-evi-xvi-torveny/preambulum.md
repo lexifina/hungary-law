@@ -1,0 +1,1 @@
+Az Országgyűlés az alapítványok korszerű, átlátható, elektronikus és közhiteles nyilvántartásának, valamint gyors nyilvántartásba vételi eljárásának kialakítása érdekében, nem érintve ugyanakkor az alapításának szabályait, a következő törvényt alkotja:
