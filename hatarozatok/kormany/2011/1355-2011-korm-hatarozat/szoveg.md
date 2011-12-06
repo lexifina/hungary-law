@@ -48,17 +48,17 @@ nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-5. A Kormány felhívja a nemzetgazdasági minisztert, hogy a Diákhitel rendszer átalakítására munkacsoportot hozzon létre a nemzeti erőforrás miniszter, a közigazgatási és igazságügyi miniszter és a nemzeti fejlesztési miniszter bevonásával.
+5.[^2] A Kormány felhívja a nemzeti fejlesztési minisztert, hogy készítse el a Diákhitel II. konstrukciónak a megvalósítására vonatkozó jogszabály tervezetét és azt részletes számításokkal együtt terjessze a Kormány elé. A részletes konstrukció kialakítására a nemzetgazdasági miniszter, a nemzeti erőforrás miniszter és a közigazgatási és igazságügyi miniszter bevonásával a diákhitel rendszer átalakítására létrehozott – az új feladathoz alkalmazkodó összetételű – munkacsoport keretében kerüljön sor. A Diákhitel II. konstrukcióval kapcsolatos feladatokat a Diákhitel Központ Zrt. látja el.
 
-Felelős: nemzetgazdasági miniszter
+Felelős: nemzeti fejlesztési miniszter
+
+nemzetgazdasági miniszter
 
 nemzeti erőforrás miniszter
 
 közigazgatási és igazságügyi miniszter
 
-nemzeti fejlesztési miniszter
-
-Határidő: azonnal
+Határidő: 2012. január 1.
 
 6. A Kormány felhívja a nemzeti erőforrás minisztert, hogy az állami felsőoktatási intézmények által elkészített intézményfejlesztési tervek mérlegelését követően a felsőoktatási intézményhálózat átalakítására vonatkozó előterjesztést készítsen el, és azt terjessze a Kormány elé.
 
@@ -109,3 +109,5 @@ nemzetgazdasági miniszter
 Határidő: azonnal
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 5. pont az 1418/2011. (XII. 6.) Korm. határozattal megállapított szöveg.
