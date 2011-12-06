@@ -1,10 +1,6 @@
 ## 3. § Az 1. §-t, valamint a mellékletet a folyamatban lévő ügyekben is alkalmazni kell.
 
-4. § A felnőttképzési tevékenység megkezdésének és folytatásának részletes szabályairól szóló 2/2010. (II. 16.) SZMM rendelet 1. § c) pontja helyébe a következő rendelkezés lép:
-
-(E rendelet hatálya kiterjed)
-
-„c) a fővárosi és megyei kormányhivatal munkaügyi központjára,”.
+4. §[^3]
 
 Melléklet a 42/2011. (XII. 2.) NGM rendelethez
 
@@ -38,7 +34,7 @@ Melléklet a 42/2011. (XII. 2.) NGM rendelethez
 
 1.3.11. Pályakezdő és Diplomás Álláskeresők Kirendeltség (Ráday utcai Kirendeltség)
 
-1/b.[^2]
+1/b.[^4]
 
 2. Pest Megye Kormányhivatal Munkaügyi Központja
 
@@ -6852,4 +6848,5 @@ Várfölde
 
 Zajk
 
-[^2]: A melléklet 1/b. pontja a 2. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A melléklet 1/b. pontja a 2. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
