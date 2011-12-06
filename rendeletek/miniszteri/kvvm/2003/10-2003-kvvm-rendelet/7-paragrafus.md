@@ -1,6 +1,6 @@
 ## Mérési kötelezettségek a légszennyező anyagok kibocsátásának meghatározására
 
-7. § (1)[^10] A környezetvédelmi hatóság a tüzelőberendezések üzemeltetői részére mérési kötelezettségeket állapít meg. A méréseket az üzemeltető saját költségére köteles elvégezni, vagy a külön jogszabályban[^11] meghatározott mérőszervezettel elvégeztetni. A mérési dokumentumokat 5 évig meg kell őrizni és a hatósági ellenőrzéskor a környezetvédelmi hatóságnak be kell mutatni.
+7. § (1)[^14] A környezetvédelmi hatóság a tüzelőberendezések üzemeltetői részére mérési kötelezettségeket állapít meg. A méréseket az üzemeltető saját költségére köteles elvégezni, vagy a külön jogszabályban[^15] meghatározott mérőszervezettel elvégeztetni. A mérési dokumentumokat 5 évig meg kell őrizni és a hatósági ellenőrzéskor a környezetvédelmi hatóságnak be kell mutatni.
 
 (2) A 300 MWth-nál nagyobb névleges bemenő hőteljesítményű új tüzelőberendezéseket, azok kibocsátását, valamint a füstgáz állapotát folyamatosan mérő és rögzítő rendszerekkel (a továbbiakban együtt: mérőrendszer) kell ellátni.
 
@@ -18,9 +18,9 @@ c) nedvességtartalmát
 
 (5) E rendelet hatálybalépését követően létesítési engedélyt kapott, 100 MWth és 300 MWth közötti névleges bemenő hőteljesítményű tüzelőberendezések esetében a mérőrendszerrel a füstgáz kén-dioxid-, nitrogén-oxid-, szilárd anyag- és oxigéntartalmát kell mérni és rögzíteni.
 
-(6)–(8)[^12]
+(6)–(8)[^16]
 
-(9)[^13] A folyamatos mérés kötelezettsége alól a környezetvédelmi hatóság felmentést ad az alábbi esetekben:
+(9)[^17] A folyamatos mérés kötelezettsége alól a környezetvédelmi hatóság felmentést ad az alábbi esetekben:
 
 a) gáztüzelésű kazánok és gázüzemű gázturbinák esetében a kén-dioxid és a szilárd anyag kibocsátás mérése alól;
 
@@ -38,7 +38,9 @@ da) a füstgázt a mérést megelőzően szárítják, vagy
 
 db) a nedvességtartalom számítással kellő pontossággal meghatározható;
 
-e) ha a tüzelőberendezés üzemeltetőjének nyilatkozata alapján a tüzelőberendezés üzemeltetési ideje 2004. november 27-ét követően nem haladja meg a 10 000 üzemórát.
+e) ha a tüzelőberendezés üzemeltetőjének nyilatkozata alapján a tüzelőberendezés üzemeltetési ideje 2004. november 27-ét követően nem haladja meg a 10 000 üzemórát;
+
+f)[^18] az 5. § (4) bekezdés szerinti gázturbinák esetében.
 
 (10) Azon berendezések esetén, amelyekre a kén-dioxid kibocsátással kapcsolatosan e rendelet 1. számú melléklete bizonyos kéntelenítési arány betartását írja elő, a felhasznált tüzelőanyag összes kéntartalmát a környezetvédelmi hatóság által meghatározott rendszerességgel mérni kell.
 
@@ -50,7 +52,8 @@ e) ha a tüzelőberendezés üzemeltetőjének nyilatkozata alapján a tüzelőb
 
 (14) A környezetvédelmi hatóság az egy telephelyen lévő, több egyforma, azonos fizikai és kémiai tulajdonságokkal rendelkező tüzelőanyaggal és hasonló műszaki és üzemeltetési paraméterrel működő tüzelőberendezés esetén az üzemeltető kérelmére az (1)–(7) bekezdésben foglalt egyes kötelezettségek teljesítése alól felmentést adhat, amennyiben egy berendezés mérésével a többi berendezés légszennyező anyag kibocsátása is meghatározható. A környezetvédelmi hatóság visszavonja a felmentést, amennyiben az időszakos mérések alapján megállapítható, hogy több berendezés légszennyező anyag kibocsátása megbízható módon nem határozható meg egy berendezés mérésével.
 
-[^10]: A 7. § (1) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés n) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^11]: 17/2001. (II. 14.) KöM rendelet a légszennyezettség és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról.
-[^12]: A 7. § (6)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 94. pontja hatályon kívül helyezte.
-[^13]: A 7. § (9) bekezdés nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés n) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 7. § (1) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés n) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: 17/2001. (II. 14.) KöM rendelet a légszennyezettség és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról.
+[^16]: A 7. § (6)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 94. pontja hatályon kívül helyezte.
+[^17]: A 7. § (9) bekezdés nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés n) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 7. § (9) bekezdés f) pontját a 108/2011. (XI. 21.) VM rendelet 3. §-a iktatta be.

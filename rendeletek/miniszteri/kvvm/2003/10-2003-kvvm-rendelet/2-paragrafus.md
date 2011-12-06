@@ -26,7 +26,7 @@ f) vegyes tüzelésű berendezés: olyan tüzelőberendezés, amely egyidejűleg
 
 g) új tüzelőberendezés: az a tüzelőberendezés, amelyre létesítési engedélyt a kérelmező e rendelet hatálybalépését követően kap, valamint a levegővédelmi szempontból felújított (átalakított) berendezés;
 
-h) levegővédelmi szempontból felújított (átalakított) berendezés: az a berendezés, amelynek az élettartama a rajta elvégzett, levegővédelmi célú átalakítások következtében legalább 10 évvel meghosszabbodik. Nem minősül felújított berendezésnek az a berendezés, amelyen a fentiek szerinti felújítást 1998. július 11-e előtt hajtották végre, illetőleg az e rendelet hatálybalépését követően felújított berendezés esetében a felújítás nem befolyásolta a tüzelőberendezés névleges bemenő hőteljesítményének legalább 50%-át;
+h)[^3] levegővédelmi szempontból felújított (átalakított) berendezés: az a berendezés, amelynek az élettartama a rajta elvégzett, levegővédelmi célú átalakítások következtében legalább 10 évvel meghosszabbodik, vagy névleges bemenő hőteljesítménye legalább 50 MW-tal bővül, ha a felújítás a tüzelőberendezés névleges bemenő hőteljesítményének legalább 50%-ára hatással van;
 
 i) névleges bemenő hőteljesítmény: az adott tüzelőberendezés hatósági határozatban (engedélyben) rögzített névleges teljesítményén történő üzemeltetéshez szükséges, a tüzelőberendezésbe egységnyi idő alatt bevitt tüzelőanyag hőtartalma megawattban (MW) kifejezve;
 
@@ -38,8 +38,9 @@ k) kéntelenítési arány: a tüzelőberendezésben vagy annak kiegészítő be
 
 (3) Új tüzelőberendezés létesítésekor a (2) bekezdés alkalmazása szempontjából az 1998. július 11-e előtt már üzemelő berendezéseket figyelmen kívül kell hagyni.
 
-(4)[^3] E rendeletben a levegő védelméről szóló jogszabály értelmező rendelkezései alkalmazandóak.
+(4)[^4] E rendeletben a levegő védelméről szóló jogszabály értelmező rendelkezései alkalmazandóak.
 
 [^1]: 16/2001. (VII. 18.) KöM rendelet a hulladékok jegyzékéről.
 [^2]: 3/2002. (II. 22.) KöM rendelet a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről.
-[^3]: A 2. § (4) bekezdését az 5/2011. (I. 14.) VM rendelet 4. §-a iktatta be.
+[^3]: A 2. § (1) bekezdés h) pontja a 108/2011. (XI. 21.) VM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (4) bekezdését az 5/2011. (I. 14.) VM rendelet 4. §-a iktatta be.
