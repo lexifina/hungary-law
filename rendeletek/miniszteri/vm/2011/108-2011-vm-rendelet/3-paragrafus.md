@@ -1,0 +1,3 @@
+## „(9) Ha a tüzelőberendezést legalább 50 MW-tal bővítik, az 1–4. számú melléklet B) részében előírt technológiai kibocsátási határértékek a létesítmény új részére vonatkoznak, és az egész létesítmény hőteljesítménye arányában kerülnek megállapításra.
+
+## (10) A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 2. § (2) bekezdése szerinti, a kén-dioxid, nitrogén-oxidok és a por légszennyező anyag kibocsátást érintő jelenős módosítás esetén, az 1–4. számú melléklet B) részében meghatározott kibocsátási határértékeket kell alkalmazni.”

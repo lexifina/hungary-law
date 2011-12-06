@@ -1,0 +1,3 @@
+## 5. § A Rendelet 13. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) E rendeletnek – az 50 MWth és annál nagyobb névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló 10/2003. (VII. 11.) KvVM rendelet módosításáról szóló 108/2011. (XI. 21.) VM rendelet (a továbbiakban: VM rendelet) 4. §-a által megállapított – 9/A. §-ában meghatározott adatszolgáltatási kötelezettséget, a VM rendelet hatálybalépését megelőzően létesítési engedélyt kapott üzemeltető, a VM rendelet hatálybalépésétől számított 150 napon belül teljesíti.”
