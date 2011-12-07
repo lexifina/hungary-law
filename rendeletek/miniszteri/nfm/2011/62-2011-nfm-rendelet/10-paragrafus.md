@@ -1,0 +1,11 @@
+## 9. § Az ER. 13/A. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az emelt sebességgel történő közlekedésre jogosító – az MR. 112/A. §-ában meghatározott – engedélyt (a továbbiakban: engedély) a közlekedési hatóság az autóbusz üzemeltetőjének (gyártójának, forgalmazójának) a kérelmére adja ki vagy hosszabbítja meg annak időbeli hatályát, a (2)–(6) bekezdésekben meghatározott feltételek alapján. Az engedély kiadása a jármű forgalomba helyezés előtti vizsgálatához vagy a jármű-honosítási eljáráshoz, az engedély időbeli hatályának meghosszabbítása a jármű időszakos vizsgálatához kapcsolódóan történik. A közlekedési hatóság az engedély kiadását és az engedély időbeli hatályának meghosszabbítását közli a Nyilvántartóval.
+
+## (2) A kérelemhez csatolni kell a feljogosított szakértő intézmény által – két évnél nem régebben – kiállított szakvéleményt, amely igazolja, hogy az autóbusz megfelel az MR.-ben az emelt sebességgel közlekedéshez meghatározott műszaki feltételeknek. A jármű-honosítási eljárás során annak igazolásául, hogy a jármű megfelel az MR.-ben az emelt sebességgel közlekedéshez meghatározottal egyenértékű műszaki feltételeknek, el kell fogadni a származási országban kiadott forgalmi engedélybe tett, a 100 km/óra sebességgel való közlekedésre jogosító bejegyzést is.”
+
+10. § (1) Az ER 16. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) Az átalakított járművet időszakos vizsgálatra a közlekedési hatóság által üzemeltetett vizsgáló állomáson be kell mutatni. A vizsgálatot az átalakításra adott engedély, illetőleg, ha a közlekedési hatóság az átalakításra ilyen feltételt szabott, a feltétel teljesítését igazoló záradékkal ellátott engedély birtokában lehet kérni. A vizsgálat során az átalakítási engedélyben foglaltakat, valamint a 12. § (6) bekezdésben meghatározott üzemeltetési műszaki feltételek megtartását kell ellenőrizni. A regisztrációs adóról szóló 2003. évi CX. törvény szerinti kategóriába sorolás, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolásának adatait – a 10. § (12) bekezdésében foglaltakat alapul véve – a műszaki adatlapon rögzíteni kell.”
+
+(2) Az ER 16. § (9) bekezdése helyébe a következő rendelkezés lép és a § a következő (10) bekezdéssel egészül ki:
