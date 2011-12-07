@@ -8,6 +8,6 @@ c) rendelkezik a jármű kategória környezetvédelmi felülvizsgálatához sz�
 
 d) a közlekedési hatóság által vezetett környezetvédelmi vizsgabiztosi nyilvántartásban szereplő környezetvédelmi vizsgabiztost alkalmaz,
 
-e)[^1] a tanúsítási tevékenységet az MSZ EN ISO 9001 szabvány szerint tanúsított és a közlekedési hatóság által elfogadott minőségirányítási rendszer alkalmazásával végzi.
+e)[^1]
 
-[^1]: A 6. § e) pontja a 11. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^1]: A 6. § e) pontját a 62/2011. (XI. 29.) NFM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
