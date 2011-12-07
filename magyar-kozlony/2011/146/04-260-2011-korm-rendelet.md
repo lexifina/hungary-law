@@ -1,0 +1,150 @@
+# A Kormány 260/2011. (XII. 7.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 146. szám, 2011. december 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/261d566aad8d0f2db1fa25ab1f2c2f2616f1562f/dokumentumok/09edd4e3bc565e9f719c015db2fbb68e8d6e3ff7/letoltes)
+
+---
+
+A Kormány 260/2011. (XII. 7.) Korm. rendelete
+a vásárokról, a piacokról és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet
+módosításáról
+A Kormány a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés d) és h) pontjában kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
+1. §
+(1) A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet (a továbbiakban: R.)
+1. § (2) bekezdése a következő h) ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„h) helyi termelői piac: a kereskedelemről szóló törvényben meghatározott fogalom.”
+(2) Az R. 1. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Nem kell alkalmazni a helyi termelői piacok esetében a 2. § (3) és (4) bekezdését, a 7. §-t, valamint a 8. § (2) és
+(3) bekezdését.”
+2. §
+Az R. 2. §-a a következő (3) és (4) bekezdéssel egészül ki:
+„(3) Az egyidejűleg 300 főnél nagyobb befogadó képességű vásár, piac, bevásárlóközpont, továbbá a szabadtéren
+tartott vásár, piac esetében, amennyiben az egyidejűleg résztvevők létszáma az 1000 főt várhatóan meghaladja,
+a vásár, piac, bevásárlóközpont üzemeltetője köteles az emberek életét, egészségét és környezetét, anyagi értékeit
+súlyosan veszélyeztető vagy károsító esemény bekövetkeztére vonatkozó biztonsági tervet készíteni. Ha a vásár, piac
+biztonságát veszély fenyegeti, az üzemeltető a vásár, piac működését felfüggeszti.
+(4) A biztonsági terv tartalmazza:
+a) a vásár, piac, bevásárlóközpont helyszínének baleset, elemi csapás, közveszéllyel fenyegetés, tömeges rendbontás
+esetére vonatkozó kiürítési, menekítési tervét;
+b) szabadtéri vásár, piac esetén az időjárás változásának folyamatos nyomon követésének kötelezettségét.”
+3. §
+(1) Az R. 4. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A Kormány
+a) a b) pontban meghatározottak kivételével e rendelet, a Kertv. 6/A. §-ának (1) és (2) bekezdése és – a helyi termelői
+piacokra vonatkozó rendelkezések kivételével – 6/G. § c) pontja, valamint e rendelkezésekkel összefüggésben a Kertv.
+9. § (1), (4) és (5) bekezdése tekintetében kereskedelmi hatóságként, továbbá a szolgáltatási tevékenység
+megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.)
+tekintetében a szolgáltatás felügyeletét ellátó hatóságként a kistérségekről szóló külön jogszabályban meghatározott
+kistérség székhelye szerinti települési, Budapesten a kerületi önkormányzat jegyzőjét (a továbbiakban: kistérségi
+jegyző),
+b) a 4/B. §-ban foglaltak tekintetében és a helyi termelői piacokkal összefüggésben e rendelet, a Kertv. 6/A. §
+(3) bekezdése és – a helyi termelői piacokra vonatkozó rendelkezések tekintetében – 6/G. § c) pontja, valamint
+e rendelkezésekkel összefüggésben a Kertv. 9. § (1), (4) és (5) bekezdése tekintetében kereskedelmi hatóságként,
+továbbá a Szolgtv. tekintetében a szolgáltatás felügyeletét ellátó hatóságként a helyi termelői piac helye szerint
+illetékes települési önkormányzat, Budapesten a kerületi önkormányzat jegyzőjét (a továbbiakban: települési jegyző)
+jelöli ki.
+(2) A vásár vagy a piac üzemeltetését – a helyi termelői piacok kivételével – a vásár vagy piac helye szerint illetékes
+kistérségi jegyző engedélyezi.”
+(2) Az R. 4. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az engedélyezési eljárás ügyintézési határideje tizenöt nap. A jegyző az engedély megadásával egyidejűleg
+a vásárt, a piacot és annak fenntartóját nyilvántartásba veszi. A nyilvántartás nyilvános. A jegyző a nyilvántartást az
+önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik – közzéteszi.”
+4. §
+Az R. a következő 4/B. §-sal egészül ki:
+„4/B. § (1) A helyi termelői piac üzemeltetésére irányuló szándékot a fenntartónak a piac helye szerint illetékes
+települési jegyzőnél kell bejelentenie.
+
+(2) A fenntartónak a helyi termelői piac üzemeltetésére irányuló bejelentése – a Szolgtv.-ben meghatározottakon
+túl – tartalmazza:
+a) a fenntartó nevét, címét, székhelyét, elektronikus levelezési címét, amennyiben azzal rendelkezik,
+b) a fenntartó cégjegyzékszámát, egyéni vállalkozói nyilvántartási számát, vagy bírósági nyilvántartásba vételi
+számát,
+c) az üzemeltető nevét, címét, székhelyét,
+d) elektronikus levelezési címét, amennyiben azzal rendelkezik,
+e) a helyi termelői piac címét, helyrajzi számát,
+f) a területhasználatának jogcímét,
+g) a piac nyitva tartási idejét.
+(3) A települési jegyző a helyi termelői piacot nyilvántartásba veszi. A települési jegyző által vezetett nyilvántartás
+nyilvános. A jegyző a nyilvántartást az önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik –
+közzéteszi.
+(4) A települési jegyző által a bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon
+túl – tartalmazza a fenntartó által a (2) bekezdés alapján megadott adatokat.
+(5) A települési jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt
+megküldi:
+a) a fővárosi és megyei kormányhivatal kistérségi, fővárosi kerületi népegészségügyi intézetének,
+b) a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának, valamint
+növény- és talajvédelmi igazgatóságának,
+c) a fővárosi és megyei kormányhivatal fogyasztóvédelmi felügyelőségének,
+d) a Magyar Kereskedelmi és Engedélyezési Hivatalnak,
+e) az illetékes rendőrkapitányságnak és
+f) a Nemzeti Adó- és Vámhivatalnak.
+(6) A helyi termelői piac fenntartója a (2) bekezdésben meghatározott adatokban bekövetkezett változásokat
+haladéktalanul köteles bejelenteni a települési jegyzőnek. A települési jegyző a változást a nyilvántartásba bejegyzi.”
+5. § Az R. a következő 4/C. §-sal egészül ki:
+„4/C. § (1) Ha a helyi termelői piac üzemeltetéséhez a forgalmazott termékekre tekintettel külön hatóság engedélye
+(a továbbiakban: külön engedély) szükséges, és az ügyfél – a bejelentés köteles helyi termelői piac üzemeltetésére
+irányuló szándékára vonatkozó bejelentésének benyújtásával egyidejűleg – a külön engedély iránti kérelmet a 4/B. §
+(1) bekezdése szerinti települési jegyzőhöz nyújtja be, a települési jegyző a külön engedély kiadására irányuló
+eljárásban közreműködő hatóságként jár el.
+(2) A közreműködő hatóság a kérelmet továbbítja a külön engedély kiadására hatáskörrel rendelkező illetékes
+hatósághoz.
+(3) A közreműködő hatóság az ügyfelet a külön engedély kiadása iránti kérelem tárgyában hiánypótlásra – az
+igazgatási szolgáltatási díj vagy illeték megfizetésének pótlására való felhívás kivételével – nem hívhatja fel.
+A közreműködő hatóság az eljárást akkor is megszünteti, ha az eljárásra okot adó körülmény már nem áll fenn.
+(4) Az ügyfél – a külön engedély iránti kérelem benyújtásával egyidejűleg – a külön engedély kiadására hatáskörrel
+rendelkező illetékes hatóságnál is teljesítheti a helyi termelői piac bejelentését és a bejelentésért fizetendő illeték
+megfizetését. A külön engedély kiadására hatáskörrel rendelkező illetékes hatóság a bejelentést a Szolgtv. 23. §-a
+szerinti intézkedések megtétele érdekében haladéktalanul továbbítja a települési jegyzőnek.”
+6. § Az R. 5. § (3) bekezdése helyébe az alábbi rendelkezés lép:
+„(3) Szeszes ital vásáron, piacon a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló
+2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 110. §-ának (11) bekezdésében, illetve a Jöt. 67. §-ának
+(2) bekezdésében meghatározott feltételek teljesítése mellett árusítható.”
+7. § Az R. 6. §-a következő (4) bekezdéssel egészül ki:
+„(4) A helyi termelői piac üzemeltetője a piacon árusító kistermelő
+a) nevéről és címéről,
+b) gazdasága, illetve a termelés és előállítás helyéről,
+
+c) regisztrációs számáról, és
+d) által árusított termékekről
+napi nyilvántartást vezet, amelyet köteles 60 napig megőrizni és az ellenőrző hatóság kérésére bemutatni.”
+8. § Az R. 9. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
+„(3) A vásárok és piacok, valamint a bevásárlóközpontok üzemeltetésére e rendeletben előírt feltételek meglétét
+a települési és a kistérségi jegyző a 4. § (1) bekezdésében meghatározott feladatkörében eljárva ellenőrzi. A települési
+és a kistérségi jegyzőn kívül a vásárok és piacok, illetve a bevásárlóközpontok működésére, az ott végzett kereskedelmi
+tevékenységre, forgalomba hozott termékekre vonatkozó jogszabályokban foglalt rendelkezések betartását az
+engedélyezésben részt vevő hatóságok, a fogyasztóvédelmi hatóság, a Nemzeti Adó- és Vámhivatal, a Magyar
+Kereskedelmi Engedélyezési Hivatal, az Országos Munkavédelmi és Munkaügyi Főfelügyelőség, valamint a fővárosi és
+megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve, a külön jogszabályban foglalt
+hatáskörükben eljárva jogosultak ellenőrizni, illetve hatósági jogkörüket gyakorolni. A 2. § (3) és (4) bekezdésében
+meghatározott kötelezettség teljesítését és a biztonsági tervben foglaltak megfelelőségét a vásár, piac helyszíne
+szerint illetékes katasztrófavédelmi szerv jogosult ellenőrizni.
+(4) A települési és a kistérségi jegyző a 4. § (1) bekezdésben meghatározott feladatkörében eljárva az engedélyt
+visszavonja, illetve a tevékenység folytatását megtiltja, és a vásárt, piacot bezáratja és a nyilvántartásból törli, ha
+a) az engedély kiadásának, vagy a nyilvántartásba vételnek a feltételei már nem állnak fenn,
+b) a vásár, piac megszűnik,
+c) a vásár, piac működése a jogszabályban előírt feltételeknek, az annak teljesítésére vonatkozó, a (3) bekezdésben
+meghatározott hatóságok felszólítása ellenére sem felel meg.
+(5) A kistérségi jegyző és a települési jegyző az engedély megadásáról, az engedély (4) bekezdés szerinti
+visszavonásáról, illetve a tevékenység folytatásának megtiltásáról szóló határozatát a fenntartóval, a (3) bekezdésben
+megjelölt hatóságokkal, valamint a vásár, piac helye szerint illetékes települési önkormányzat jegyzőjével,
+rendőrkapitánysággal közli. A kistérségi jegyző és a települési jegyző a helyi termelői piac nyilvántartásba vételéről,
+a nyilvántartás adatainak 4. § (7) bekezdése vagy 4/B. § (6) bekezdése szerint bejelentett változásáról értesíti
+a (3) bekezdésben megjelölt hatóságokat, valamint a vásár, piac helye szerint illetékes települési önkormányzat
+jegyzőjét és rendőrkapitányságot. A (4) bekezdés alapján hozott, az engedély visszavonásáról, illetve a tevékenység
+folytatásának megtiltásáról szóló határozatot egyéni vállalkozó esetén az egyéni vállalkozó székhelye szerint illetékes
+körzetközponti jegyzővel, gazdasági társaság esetén az illetékes cégbírósággal is közölni kell.”
+9. § (1) Az R. 1. § (1) bekezdésében a „Magyar Köztársaság” szövegrész helyébe a „Magyarország”, az R. 2. § (1) bekezdésében
+a „vagy amely vásár rendezése céljából területhasználati hozzájárulással rendelkezik” szövegrész helyébe a „vagy
+amely vásár rendezése, helyi termelői piac működése céljából területhasználati hozzájárulással rendelkezik” szöveg
+lép.
+(2) Az R. 4. § (4)–(6) bekezdésében, a 4/A. § (2), (3), (4) és (6) bekezdésében a „jegyző” szövegrész helyébe a „kistérségi
+jegyző” szöveg, a 4. § (7) bekezdésében a „jegyzőt” szövegrész helyébe a „kistérségi jegyzőt” szöveg, a 4/A. §
+(5) bekezdésében a „jegyzőnek” szövegrész helyébe a „kistérségi jegyzőnek” szöveg, a 8. § (1) bekezdésében a „jegyző”
+szövegrész helyébe a „települési és a kistérségi jegyző a 4. § (1) bekezdésben meghatározott feladatkörében eljárva”
+szöveg lép.
+10. § Ez a rendelet 2012. január 1-jén lép hatályba, és 2012. január 2-án hatályát veszti.
+11. § E rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelv 5. cikkének való megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
