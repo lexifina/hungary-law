@@ -2,27 +2,43 @@
 
 6. § (1)[^33] A fúvott gumiabronccsal felszerelt kerekű jármű megengedett legnagyobb össztömege
 
-| a) kéttengelyes jármű – kivéve az aa) és az ab) alpontban meghatározott jármű – esetében a | 18,0 tonnát, |
+| a) kéttengelyes jármű – kivéve az aa ) és az ab) lpontban meghatározott jármű –esetében a | 18,0 tonnát, |
 
-| aa) kizárólag belföldi forgalomban használt jármű esetében a | 20,0 tonnát, |
+| aa) kizárólag belföldi forgalomban használt jármű esetében a | 20,0 tonnát, |
 
-| ab) alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági vontatóból vagy lassú járműből és alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági pótkocsiból álló járműszerelvény esetében a | 25,0 tonnát, |
+| ab) alacsonynyomású mezőgazdasági gumiabronccsal felszerelt |  |
 
-| b) háromtengelyes |  |
+| aba) mezőgazdasági vontató, |  |
 
-| ba) gépjármű – kivéve a bb) alpontban meghatározott gépjármű – esetében a | 25,0 tonnát, |
+| abb) lassú jármű, és |  |
 
-| bb) útkímélő tengelycsoporttal rendelkező gépjármű esetében a | 26,0 tonnát, |
+| abc) mezőgazdasági pótkocsi |  |
 
-| bc) pótkocsi esetében a | 24,0 tonnát, |
+| esetében a | 25,0 tonnát, |
 
-| bd) alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági vontatóból vagy lassú járműből és alacsonynyomású mezőgazdasági gumiabronccsal felszerelt mezőgazdasági pótkocsiból álló járműszerelvény esetében | 32,0 tonnát, |
+| b) háromtengelyes |  |
+
+| ba) gépjármű – kivéve a bb) alpontban meghatározott gépjármű – esetében a | 25,0 tonnát, |
+
+| bb) útkímélő tengelycsoporttal rendelkező gépjármű esetében a | 26,0 tonnát, |
+
+| bc) pótkocsi – kivéve a bdc) alpontban meghatározott pótkocsi – esetében a | 24,0 tonnát, |
+
+| bd) alacsonynyomású mezőgazdasági gumiabronccsal felszerelt |  |
+
+| bda) mezőgazdasági vontató, |  |
+
+| bdb) lassú jármű, és |  |
+
+| bdc) mezőgazdasági pótkocsi |  |
+
+| esetében a | 32,0 tonnát, |
 
 | c) négy és ennél több tengelyes jármű – kivéve a ca) alpontban meghatározott jármű – esetében a | 30,0 tonnát, |
 
 | ca) két kormányzott tengellyel, továbbá útkímélő tengelycsoporttal rendelkező gépjármű a | 32,0 tonnát, |
 
-| nem haladhatja meg. |  |
+nem haladhatja meg.
 
 (2)[^34] A négytengelyes gépjármű tonnában kifejezett össztömege nem haladhatja meg a legelső és leghátsó tengely méterben kifejezett távolságának az ötszörösét.
 
@@ -48,7 +64,7 @@ ca)[^36] legfeljebb „40 láb hosszú ISO konténer”-t szállító félpótko
 
 (5)[^38] A fúvott gumiabronccsal fel nem szerelt kerekű jármű megengedett legnagyobb össztömege — a lánctalpas járművet kivéve — 12,0 tonnát nem haladhatja meg.
 
-[^33]: A 6. § (1) bekezdése a 26/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^33]: A 6. § (1) bekezdése a 26/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdésével megállapított, a 63/2011. (XI. 29.) NFM rendelet 1. §-a szerint módosított szöveg.
 [^34]: A 6. § új (2) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (4) bekezdésre változtatva.
 [^35]: A 6. § új (3) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva.
 [^36]: A 6. § (3) bekezdés c) pont ca) alpontja a 26/2010. (XII. 22.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.

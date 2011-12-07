@@ -236,6 +236,6 @@ Megjegyzések:
 
 7/ +-b a lámpa ill. fényvisszaverő felület középpontján (súlypontján) átmenő és a hosszirányú szimmetria síkra, valamint a talajra merőleges síkra vonatkoztatva.
 
-[^262]
+[^274]
 
-[^262]: Lásd 1990. évi 33. szám 720. oldal
+[^274]: Lásd 1990. évi 33. szám 720. oldal

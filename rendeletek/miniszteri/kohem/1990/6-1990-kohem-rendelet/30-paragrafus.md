@@ -1,6 +1,6 @@
 ## A gépjármű, a mezőgazdasági vontató és a lassú jármű fékezésre vonatkozó további műszaki feltételek
 
-30. § (1)[^90] A fékrendszereknek ki kell elégíteniük a 8. és 9. számú mellékletben meghatározott fékezési követelményeket, valamint a gépkocsinak a fékezés szempontjából jóváhagyási jellel ellátottnak kell lennie.
+30. § (1)[^93] A fékrendszereknek ki kell elégíteniük a 8. és 9. számú mellékletben meghatározott fékezési követelményeket, valamint a gépkocsinak a fékezés szempontjából jóváhagyási jellel ellátottnak kell lennie.
 
 (2) A fékezési követelmények sík, száraz, nem csúszós, jó állapotban lévő szilárd burkolatú úton szélcsendes időben egyenesen haladó járművel végrehajtott fékezésre vonatkoznak; az előírt követelmények teljesítése közben a jármű egyik kereke sem csúszhat meg, a jármű a fékezés során a menetiránytól nem térhet el.
 
@@ -70,4 +70,4 @@ d) a sűrített levegővel működő fékrendszerek esetén a sűrített levegő
 
 (21) A sűrített levegővel működő fékrendszerben lévő fékerőszabályozó — ha van ilyen — beállításának ellenőrzésére vizsgálócsatlakozókat kell beépíteni. E rendelkezést csak az 1991. évi július hó 1. napja után engedélyezett járműtípusokra kell alkalmazni.
 
-[^90]: A 30. § (1) bekezdése a 15/1999. (V. 21.) KHVM rendelet 5. §-ával megállapított szöveg. A 30. § (1) bekezdésében meghatározott a gépkocsik fékezés szempontjából történő jóváhagyási jellel való ellátására vonatkozó kötelezettséget a típusbizonyítvány kiadására irányuló eljárásban 2000. január 1. napjától, az egyedi és sorozat forgalomba helyezési eljárásban 2001. január 1. napjától kell alkalmazni.
+[^93]: A 30. § (1) bekezdése a 15/1999. (V. 21.) KHVM rendelet 5. §-ával megállapított szöveg. A 30. § (1) bekezdésében meghatározott a gépkocsik fékezés szempontjából történő jóváhagyási jellel való ellátására vonatkozó kötelezettséget a típusbizonyítvány kiadására irányuló eljárásban 2000. január 1. napjától, az egyedi és sorozat forgalomba helyezési eljárásban 2001. január 1. napjától kell alkalmazni.

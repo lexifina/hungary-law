@@ -1,4 +1,4 @@
-15. számú melléklet a 6/1990. (IV.12.) KöHÉM rendelethez[^267]
+15. számú melléklet a 6/1990. (IV.12.) KöHÉM rendelethez[^279]
 
 ## Az emelt sebességhatárú autóbuszra vonatkozó engedélyezési műszaki feltételek
 
@@ -62,17 +62,17 @@ f) az utastéri csomagtartók kialakítása akadályozza meg a csomagok kiesés�
 
 Az autóbusz 100 km/h sebességű haladása közben rendellenes menetviselkedés (iránytartás, zajok és rezgések), szerkezeti elemek rendellenes működése nem léphet fel, menetstabilitása megfelelő legyen.
 
-A. Függelék a 6/1990. (IV. 12.) KöHÉM rendelethez[^268]
+A. Függelék a 6/1990. (IV. 12.) KöHÉM rendelethez[^280]
 
-1.[^269] E függelék alkalmazásában – a rendelet 2. §-a (1) bekezdésében foglaltaknak megfelelően – a járművek kategóriáit a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet A. Függelékében foglaltak határozzák meg.
+1.[^281] E függelék alkalmazásában – a rendelet 2. §-a (1) bekezdésében foglaltaknak megfelelően – a járművek kategóriáit a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet A. Függelékében foglaltak határozzák meg.
 
-1.1.[^270] E függelék alkalmazásában: „járműtípus”: az azonos járműkategóriába tartozó olyan járművek összessége, amelyek nem különböznek lényegesen egymástól az e Függelék mellékletében meghatározott jellemzők tekintetében.
+1.1.[^282] E függelék alkalmazásában: „járműtípus”: az azonos járműkategóriába tartozó olyan járművek összessége, amelyek nem különböznek lényegesen egymástól az e Függelék mellékletében meghatározott jellemzők tekintetében.
 
-1.2.–1.4.[^271]
+1.2.–1.4.[^283]
 
 2. Arra a mezőgazdasági vontatóra, amely nem minősül traktornak (a traktor meghatározása a C. Függelék Alapvető rendelkezéseiben szerepel) e Függelék alkalmazásában az áruszállító gépkocsikra (tehergépkocsi, vontató) vonatkozó rendelkezéseket kell alkalmazni.
 
-3.[^272]
+3.[^284]
 
 4. E Függelék mellékleteit az egyes járműkategóriákra 2000. július 1. helyett a 4.1–4.7. pontban foglalt eltérő időpontoktól kell alkalmazni:
 
@@ -124,19 +124,19 @@ követelményeit.
 
 4.7.1. a gépkocsik által kibocsátott zaj mérésére és határértékekre vonatkozó követelményeket meghatározó A/1. számú, valamint
 
-4.7.2.[^273] a dízelmotorok szennyezőanyag-kibocsátásának korlátozására vonatkozó követelményeket meghatározó A/41. számú
+4.7.2.[^285] a dízelmotorok szennyezőanyag-kibocsátásának korlátozására vonatkozó követelményeket meghatározó A/41. számú
 
 mellékletek előírásait nem kell alkalmazni, azonban e gépkocsiknak az ENSZ-EGB 51.01 és 49.02/B előírásai szerint jóváhagyási jellel kell rendelkeznie.
 
-5.[^274] E Függelék 44/2001. (XII. 18.) KöViM rendelet által megállapított vagy módosított mellékleteinek új rendelkezéseit 2002. január 1. napjától kell alkalmazni az új járműtípusok jóváhagyásakor, valamint a típusbizonyítvány kiadásakor, kivéve, ha az érintett melléklet a jármű kategóriájára vagy műszaki jellemzői alapján kialakított csoportjára vonatkozóan ettől eltérő rendelkezést tartalmaz.
+5.[^286] E Függelék 44/2001. (XII. 18.) KöViM rendelet által megállapított vagy módosított mellékleteinek új rendelkezéseit 2002. január 1. napjától kell alkalmazni az új járműtípusok jóváhagyásakor, valamint a típusbizonyítvány kiadásakor, kivéve, ha az érintett melléklet a jármű kategóriájára vagy műszaki jellemzői alapján kialakított csoportjára vonatkozóan ettől eltérő rendelkezést tartalmaz.
 
 5.1. Járműsorozat engedélyezésekor, valamint az újonnan forgalomba kerülő járművek forgalomba helyezése során az 5. pontban meghatározott új követelményeket 2002. július 1. napjától kell alkalmazni.
 
-5.2.[^275] A Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjáig nem kell alkalmazni az 5. pontban meghatározottak szerinti, a rendelet A. Függelék A/2., A/9. és A/41. mellékleteinek rendelkezését a használtan egyedileg behozott, az M1 vagy az N1 járműkategóriába tartozó, újként 1996. január 1. napját követően használatba vett és ENSZ-EGB 83.02/B,C jóváhagyási jellel ellátott gépkocsi forgalomba helyezésekor, amennyiben az megfelel a fékberendezésekre vonatkozóan az ENSZ-EGB 13.06 jóváhagyási előírásban meghatározott követelményeknek is.
+5.2.[^287] A Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjáig nem kell alkalmazni az 5. pontban meghatározottak szerinti, a rendelet A. Függelék A/2., A/9. és A/41. mellékleteinek rendelkezését a használtan egyedileg behozott, az M1 vagy az N1 járműkategóriába tartozó, újként 1996. január 1. napját követően használatba vett és ENSZ-EGB 83.02/B,C jóváhagyási jellel ellátott gépkocsi forgalomba helyezésekor, amennyiben az megfelel a fékberendezésekre vonatkozóan az ENSZ-EGB 13.06 jóváhagyási előírásban meghatározott követelményeknek is.
 
 Az A. Függelék A/1. számú melléklete
 
-a 6/1990. (IV. 12.) KöHÉM rendelethez[^276]
+a 6/1990. (IV. 12.) KöHÉM rendelethez[^288]
 
 A gépjárművek megengedett zajszintjére és kipufogórendszereire vonatkozó
 
@@ -156,97 +156,13 @@ követelmények
 
 ______________
 
-1 Ez a melléklet a Tanács 70/157/EGK irányelvével és az azt módosító, a Tanács 1999/101/EK és a Bizottság 2007/34/EK irányelvével megegyező szabályozást tartalmaz.
-
-2 HL L 137., 2007.5.30., 68. o.
-
-I. Rész
-
-A gépjárműtípus zajszintjére vonatkozó típus-jóváhagyási rendelkezések
-
-1. Járműtípus típus-jóváhagyási kérelme
-
-1.1. Az ER. A. Függelék 3. cikkének (4) bekezdése szerint egy járműtípus megengedett zajszintjére vonatkozó típus-jóváhagyási kérelmet a gyártónak kell előterjesztenie.
-
-1.2. Az adatközlő lap mintája az I/1. részben található.
-
-1.3. A jármű gyártójának a típusjóváhagyásra benyújtott járműtípus egy példányát a vizsgálatok lefolytatásáért felelős vizsgáló intézmény rendelkezésére kell bocsátania.
-
-1.4. A vizsgáló intézmény kérésére be kell mutatni a kipufogórendszer és egy legalább olyan hengerűrtartalommal és legnagyobb névleges teljesítménnyel rendelkező motor mintapéldányát, mint amilyen a típusjóváhagyásra benyújtott járműbe kerül beépítésre.
-
-2. A mozgó jármű zajszintje
-
-2.1. Határértékek
-
-A III. Rész rendelkezéseivel összhangban mért zajszint nem haladhatja meg a következő határértékeket:
-
-|  | Járműkategóriák | Értékek dB(A)-ban decibel (A) |
-
-|  | 2.1.1. | Személyszállító, a vezetőüléssel együtt legfeljebb 9 üléssel rendelkező járművek | 74 |
-
-|  | 2.1.2. | Személyszállító, a vezetőüléssel együtt több mint 9 üléssel rendelkező járművek, amelyek megengedett össztömege meghaladja a 3,5 tonnát, és amelyek: |  |
-
-|  | 2.1.2.1. | motorteljesítménye 150 kW-nál kisebb | 78 |
-
-|  | 2.1.2.2. | motorteljesítménye nem kisebb mint 150 kW | 80 |
-
-|  | 2.1.3. | Személyszállító, a vezetőüléssel együtt több mint 9 üléssel rendelkező járművek; áruszállító járművek, amelyek: |  |
-
-|  | 2.1.3.1. | megengedett össztömege nem haladja meg a 2 tonnát | 76 |
-
-|  | 2.1.3.2. | megengedett össztömege meghaladja a 2 tonnát, de nem haladja meg a 3,5 tonnát | 77 |
-
-|  | 2.1.4. | Áruszállító járművek, amelyek megengedett össztömege meghaladja a 3,5 tonnát és amelyek |  |
-
-|  | 2.1.4.1. | motorteljesítménye 75 kW-nál kisebb | 77 |
-
-|  | 2.1.4.2. | motorteljesítménye nem kisebb mint 75 kW, de 150 kW-nál kisebb | 78 |
-
-|  | 2.1.4.3. | motorteljesítménye nem kisebb mint 150 kW | 80 |
-
-Azonban
-
-– a 2.1.1. és a 2.1.3. kategóriájú járműveknél a határértékek 1 dB(A)-val nagyobbak, ha közvetlen befecskendezésű dízelmotorral vannak felszerelve,
-
-– a 2 tonna feletti legnagyobb megengedett tömegű terepjáró járműveknél a határértékek 1 dB(A)-val nagyobbak, ha motorteljesítményük kisebb mint 150 kW, és 2 dB(A)-val nagyobbak, ha legalább 150 kW,
-
-– a 2.1.1. kategóriájú járműveknél, amelyek kézi működtetésű, négynél több előremeneti fokozattal rendelkező sebességváltóval vannak ellátva, és a legnagyobb motorteljesítmény meghaladja a 140 kW/t-t, valamint amelyek legnagyobb teljesítmény/legnagyobb tömeg aránya meghaladja a 75 kW/t értéket, a határérték 1 dB(A)-val nagyobb, amennyiben az a sebesség, amivel a jármű hátsó része áthalad a BB’ vonalon, harmadik fokozatban nagyobb mint 61 km/h.
-
-2.2. Az eredmények értékelése
-
-2.2.1. A mérőműszerekből adódó pontatlanságok figyelembevételével az egyes mérések alapján nyert értékeket 1 dB(A)-val kell csökkenteni.
-
-2.2.2. A méréseket akkor lehet érvényesnek tekinteni, ha a jármű egyik oldalán egymás után végzett két mérés közötti eltérés nem haladja meg a 2 dB(A) értéket.
-
-2.2.3. Vizsgálati eredménynek a legmagasabb mérési eredmény számít. Abban az esetben, ha ez az érték több mint 1 dB(A)-val meghaladja a vizsgált jármű kategóriájára megengedett legnagyobb zajszintet, akkor két további mérést kell végezni megfelelő mikrofonhelyzetnél. Az így kapott négy mérési eredményből háromnak a megengedett határértéken belül kell maradnia.
-
-3. Jelölések
-
-3.1. A kipufogó- és szívórendszerek alkatrészein a rögzítő elemek és a csövek kivételével fel kell tüntetni az alábbiakat:
-
-3.1.1. a rendszerek és alkatrészeik gyártójának védjegye vagy kereskedelmi neve;
-
-3.1.2. a gyártó kereskedelmi jelölése.
-
-3.2. E elöléseknek tisztán olvashatónak és kitörölhetetlennek kell lenniük, még a rendszernek a járműre történő felszerelése után is.
-
-4. Egy járműtípus típus-jóváhagyásának megadása
-
-4.1. Ha a vonatkozó követelmények teljesülnek, a típusjóváhagyást az ER. A. Függelék 4. cikkének (3) bekezdése, illetve adott esetben (4) bekezdése értelmében meg kell adni.
-
-4.2. A típusbizonyítvány mintája a 2. függelékben található.
-
-4.3. Minden jóváhagyott járműtípusra típus-jóváhagyási számot kell kiadni az ER. A. Függelék A/7. számú mellékletének megfelelően. Ugyanaz a szám nem adható ki több járműtípusra.
-
-5. Típusváltozások és a jóváhagyások módosítása
-
-[^267]: A 15. számú mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (4) bekezdése iktatta a szövegbe.
-[^268]: Az A. Függeléket a 12/2000. (V. 24.) KHVM rendelet 17. §-a iktatta be.
-[^269]: Az A. Függelék 1. pontjának bevezető szövegrésze a 106/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^270]: Az A. Függelék 1.1. alpontja a 106/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^271]: Az A. Függelék 1.2.–1.4. pontját a 106/2007. (XII. 23.) GKM rendelet 8. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^272]: Az A. Függelék 3. pontját a 106/2007. (XII. 23.) GKM rendelet 8. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^273]: Az A. Függelék 4.7.2. alpontja a 40/2002. (XII. 28.) GKM rendelet 14. § (1) bekezdése szerint módosított szöveg.
-[^274]: Az A. Függelék 5. pontját a 44/2001. (XII. 18.) KöViM rendelet 17. § (2) bekezdése iktatta be.
-[^275]: Az A. Függelék 5.2. pontja a 35/2004. (III. 30.) GKM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^276]: Ez a melléklet a Tanács 70/157/EGK irányelvével és az azt módosító, a Tanács 1999/101/EK és a Bizottság 2007/34/EK irányelvével megegyező szabályozást tartalmaz. Az A. Függelék A/1. számú melléklete a 19/2008. (VIII. 14.) KHEM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^279]: A 15. számú mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (4) bekezdése iktatta a szövegbe.
+[^280]: Az A. Függeléket a 12/2000. (V. 24.) KHVM rendelet 17. §-a iktatta be.
+[^281]: Az A. Függelék 1. pontjának bevezető szövegrésze a 106/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^282]: Az A. Függelék 1.1. alpontja a 106/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^283]: Az A. Függelék 1.2.–1.4. pontját a 106/2007. (XII. 23.) GKM rendelet 8. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^284]: Az A. Függelék 3. pontját a 106/2007. (XII. 23.) GKM rendelet 8. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^285]: Az A. Függelék 4.7.2. alpontja a 40/2002. (XII. 28.) GKM rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^286]: Az A. Függelék 5. pontját a 44/2001. (XII. 18.) KöViM rendelet 17. § (2) bekezdése iktatta be.
+[^287]: Az A. Függelék 5.2. pontja a 35/2004. (III. 30.) GKM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^288]: Ez a melléklet a Tanács 70/157/EGK irányelvével és az azt módosító, a Tanács 1999/101/EK és a Bizottság 2007/34/EK irányelvével megegyező szabályozást tartalmaz. Az A. Függelék A/1. számú melléklete a 19/2008. (VIII. 14.) KHEM rendelet 5. § (1) bekezdésével megállapított szöveg.

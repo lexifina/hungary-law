@@ -100,6 +100,8 @@
 
 | 15 | – a 692/2008/EK bizottsági rendelettel módosított 715/2007/EK parlamenti és tanácsi rendelet I. mellékletének 2. táblázatában meghatározott határértékek alapján jóváhagyott légszenynyezésű gépkocsi (Euro 6.)(11) |
 
+| 16 | – az 582/2011/EU bizottsági rendelettel módosított 595/2009/EK európai parlamenti és tanácsi rendelet szerint jóváhagyott gépkocsik (Euro-VI)(12) |
+
 ## 1 Az 1996. január 1. napját követően az Európai Gazdasági Térségről szóló megállapodásban részes államban újként forgalomba helyezett katalizátoros, szabályozott keverékképzésű, Otto-motoros gépkocsit az ENSZ-EGB 83.02/B. jelű jóváhagyási jellel ellátottnak kell tekinteni és a forgalomba helyezés engedélyezésekor, illetőleg a gépkocsi üzembentartójának kérelmére a 4. környezetvédelmi osztályba kell besorolni/átsorolni.
 
 ## 2 Az MR. A. Függelék A/2. melléklet I. rész 5.3.1.4. pont táblázatának „A” jelzésű sorában, illetőleg az ENSZ-EGB 83.05 előírás 5.3.1. szakasz szerinti I típusú vizsgálat során az 5.3.1.4. pont táblázatának „A” jelzésű sorában meghatározott határértékek szerinti jóváhagyás (RI).
@@ -122,6 +124,8 @@
 
 ## (11) Az Euro 6. kibocsátási határértéket a 692/2008/EK bizottsági rendelet XVII. mellékletével (2008.07.28. HL199 p130) módosított, a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási- és karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet I. mellékletének 2. táblázata határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^259]
+## (12) Az Euro-VI. kibocsátási határértéket az 582/2011/EU bizottsági rendelet XV. mellékletével (2011.06.25. L167/163) módosított, a nehéz tehergépjárművek kibocsátásai (Euro-VI) tekintetében a gépjárművek és motorok típusjóváhagyásáról, a járművek javítására és karbantartására vonatkozó információkhoz való hozzáférésről szóló 595/2009/EK európai parlamenti és tanácsi rendelet I. melléklete határozza meg.
 
-[^259]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^271]
+
+[^271]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

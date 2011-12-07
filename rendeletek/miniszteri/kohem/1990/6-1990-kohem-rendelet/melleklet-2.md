@@ -84,21 +84,27 @@
 
 | 59 | 00 | Pótalkatrész kipufogó berendezés | + | – |  |
 
-| A/2 | 70/220 715/2007 692/2008 | 2006/69 – | 83 83 | 05 06 | Károsanyag-kibocsátás | + | + | K(5) |
+| A/2 | 70/220 715/2007 692/2008 | 2003/76 2006/96 566/2011 | 83 83 | 05 06 | Károsanyag-kibocsátás | + | + | K(5) |
 
-| A/3. | 70/221 | 2006/20 | 58 | 01 | Tüzelőanyag-tartály és aláfutásgátló | + | + | C(2) |
+| A/3. | 70/221 | 2006/20 | 34 | 02 | Tüzelőanyag-tartály és | + | + | C(2) |
 
-| A/4. | 70/222 | – | – | – | Hátsó rendszámtábla elhelyezése | + | + | – |
+| 58 | 01 | aláfutásgátló |
 
-| A/5. | 70/311 | 99/7 | 79 | 01 | Kormányberendezés | + | + | C |
+| A/4. | 70/222 1003/2010 |  | – | – | Hátsó rendszámtábla elhelyezése | + | + | – |
+
+| A/5. | 70/311 | 1999/7 | 79 | 01 | Kormányberendezés | + | + | C |
 
 | A/6. | 70/387 | 2001/31 | 11 | 02 | Ajtózárak és zsanérok | + | + | – |
 
 | A/7. | 70/388 | 87/354 | 28 | 00 | Hangjelző berendezések | + | + | K |
 
-| A/8. | 71/127 | 2005/27 | 46 | 02 | Visszapillantó tükrök | + | + | K |
+| A/8. | 2003/97 | 2005/27 | 46 | 02 | Visszapillantó tükrök | + | + | K |
 
-| A/9. | 71/320 | 2002/78 | 13 | 09 | Fékezési tulajdonságok | + | + | K |
+| A/9. | 71/320 | 2002/78 | 13 | 10 | Fékezési tulajdonságok | + | + | K |
+
+| 13 | 11 | + | + | K |
+
+| 13 | H | + |  | K |
 
 | 90 | 01 | Pótalkatrész-fékbetét | + | + |  |
 
@@ -110,7 +116,11 @@
 
 | A/13. | 74/61 | 95/56 | 18 | 03 | Illetéktelen használat elleni védelem | + | + | – |
 
+| 116 | 00 |
+
 | 97 | 01 | Riasztóberendezések |  |  |  |
+
+| 116 | 00 |
 
 | A/14. | 74/297 | 91/662 | 12 | 03 | Belső szerelvények kialakítása (kormánynak ütközés) | + | – | – |
 
@@ -120,11 +130,11 @@
 
 | A/17. | 75/443 | 97/39 | 39 | 00 | Sebességmérő és hátramenet | + | + | K |
 
-| A/18. | 76/114 | 78/507 | – | – | Gyári tábla | + | + | C |
+| A/18. | 76/114 19/2011 |  | – | – | Gyári tábla | + | + | C |
 
 | A/19. | 76/115 | 2005/41 | 14 | 06 | Biztonsági öv bekötése | + | + | – |
 
-| A/20. | 76/756 | 2009/89 | 48 | 04 | Világítóberendezések | + | + | K(6) |
+| A/20. | 76/756 | 2008/89 | 48 | 04 | Világítóberendezések | + | + | K (6) |
 
 | A/21. | 76/757 | 97/29 | 3 | 02 | Fényvisszaverők | + | + | K |
 
@@ -134,7 +144,7 @@
 
 | 91 | 00 | Méretjelző |  |  |  |
 
-| A/23. | 76/759 | 99/15 | 6 | 01 | Irányjelző | + | + | K |
+| A/23. | 76/759 | 1999/15 | 6 | 01 | Irányjelző | + | + | K |
 
 | A/24. | 76/760 | 97/31 | 4 | 00 | Hátsó rendszámtábla megvilágítása | + | + | – |
 
@@ -154,45 +164,49 @@
 
 | 99 | 00 | Gázkisüléses fényforrások |  |  |  |
 
-| A/26. | 76/762 | 99/18 | 19 | 02 | Első ködfényszórók | + | + | K |
+| 112 | 00 | Fényszórók (aszimmetrikus tompított fénysugár) |
 
-| A/27. | 77/389 | 96/64 | – | – | Elvontató berendezés | + | + | – |
+| 123 | 00 | Alkalmazkodó elülső világítási rendszerek |
 
-| A/28. | 77/538 | 99/14 | 38 | 00 | Hátsó ködfényszórók | + | + | K |
+| A/26. | 76/762 | 1999/18 | 19 | 02 | Első ködfényszórók | + | + | K |
+
+| A/27. | 77/389 1005/2010 | 96/64 | – | – | Elvontató berendezés | + | + | – |
+
+| A/28. | 77/538 | 1999/14 | 38 | 00 | Hátsó ködfényszórók | + | + | K |
 
 | A/29. | 77/539 | 97/32 | 23 | 00 | Hátrameneti (tolató-) lámpák | + | + | K |
 
-| A/30. | 77/540 | 99/16 | 77 | 00 | Parkolólámpa | + | + | K |
+| A/30. | 77/540 | 1999/16 | 77 | 00 | Parkolólámpa | + | + | K |
 
 | A/31. | 77/541 | 2005/40 | 16 | 04 | Biztonsági övek és utasbiztonsági rendszerek | + | + | K |
 
-| A/32. | 77/649 | 90/630 | – | – | Látómező | + | – | – |
+| A/32. | 77/649 | 90/630 | 125 | 00 | Látómező | + | – | – |
 
-| A/33. | 78/316 | 94/53 | – | – | Működtető berendezések megjelölése, ellenőrző lámpák | + | + | – |
+| A/33. | 78/316 | 94/53 | 121 | 00 | Működtető berendezések megjelölése, ellenőrző lámpák | + | + | – |
 
-| A/34. | 78/317 | 672/2010 | – | – | Jég- és páramentesítő rendszerek | + | – | – |
+| A/34. | 78/317 672/2010 |  | – | – | Jég- és páramentesítő rendszerek | + | – | – |
 
-| A/35. | 78/318 | 94/68 | – | – | Ablaktörlő-mosó berendezések | + | – | – |
+| A/35. | 78/318 1008/2010 |  | – | – | Ablaktörlő-mosó berendezések | + | – | – |
 
-| A/36. | 2001/56 | 2004/78 2006/119 |  |  | Fűtés | + | + | – |
+| A/36. | 2001/56 | 2006/119 | 122 | 00 | Fűtés | + | + | – |
 
-| A/37. | 78/549 | 94/78 | – | – | Kerékburkolat | + | – | – |
+| A/37. | 78/549 1009/2010 |  | – | – | Kerékburkolat | + | – | – |
 
 | A/38. | 78/932 | 87/354 | 17 | 07 | Ülés rögzítés | + | – | – |
 
 | 25 | 04 | Fejtámasz | + | – | – |
 
-| A/39. | 80/1268 | 2004/3 715/2007 | 101 | 00 | CO2-kibocsátás és tüzelőanyag-fogyasztás | + | + | K |
+| A/39. | 80/1268 | 2004/3 715/2007 | 101 | 00 | CO2-kibocsátás és tüzelőanyag-fogyasztás | + | – | K |
 
-| A/40. | 80/1269 | 1999/99 595/2009 | 85 | 00 | Motorteljesítmény mérés | + | – | – |
+| A/40. | 80/1269 | 1999/99 595/2009 | 85 | 00 | Motorteljesítmény mérés | + | + | – |
 
-| A/41. | 2005/55 2005/78 | 715/2007 2008/74 595/2009 | 49 | 03 | Dízel-motor emisszió | + | + | K |
+| A/41. | 2005/55 | 715/2007 2008/74 595/2009 | 49 | 03 | Dízel-motor emisszió | + | + | K |
 
-| A/41a. | 595/2009 |  |  |  | Dízel-motor emisszió (Euro VI), nehéz haszongépjárművek |  | + | K |
+| A/41a. | 595/2009 | 582/2011 |  |  | Dízel-motor emisszió (Euro VI), nehéz haszongépjárművek |  | + | K |
 
 | A/42. | 89/297 |  | 73 | 00 | Oldalvédelem aláesés ellen |  | + | – |
 
-| A/43. | 91/226 | 2010/19 | – | – | Felcsapódó víz elleni védelem | + | + | – |
+| A/43. | 91/226 | 2010/19 109/2011 2011/415 | – | – | Felcsapódó víz elleni védelem | + | + | – |
 
 | A/44. | 92/21 | 95/48 | – | – | Személygépkocsik tömege és méretei | + |  | K |
 
@@ -204,17 +218,23 @@
 
 | 64 | 00 | Ideiglenes pótkerék |  |  |  |
 
-| A/47. | 92/24 |  | 89 | 00 | Sebességkorlátozó készülék és beépítése |  | + | + |
+| 117 | 01 | Gördülési zaj |
+
+| A/47. | 92/24 | 2004/11 | 89 | 00 | Sebességkorlátozó készülék és beépítése |  | + | + |
 
 | A/48. | 97/27 | 2003/19 | – | – | Tömeg, méret az M1-től különböző kategóriákban |  | + | – |
 
-| A/49. | 92/114 |  |  |  | N kategóriájú járművek vezetőfülkéjében kinyúló részek |  | – | – |
+| A/49. | 92/114 |  |  |  | N kategóriájú járművek vezetőfülkéjében kinyúló részek |  | + | – |
 
 | A/50. | 94/20 |  | 55 | 01 | Gépkocsik és pótkocsik kapcsoló-berendezései és felszerelésük | + | + | K |
 
+| 102 | 00 | Rövid vonószerkezetek |
+
 | A/51. | 95/28 |  | 118 | 00 | Beltéri anyagok égési tulajdonságai |  | + | – |
 
-| A/52. | 2001/85 |  | 66 | 00 | Autóbuszokra vonatkozó követelmények |  | + | K |
+| A/52. | 2001/85 |  | 66 | 02 | A felépítmény szilárdsága (helyi és távolsági autóbuszok) |  | + | K |
+
+| 107 | 02 | Helyi és távolsági autóbuszok |  | + |  |
 
 | A/53. | 96/79 | 1999/98 | 94 | 01 | Homlokütközés | + |  | – |
 
@@ -224,17 +244,17 @@
 
 | A/57. | 2000/40 |  | 93 | 01 | Mellső aláfutás elleni védelem |  | + | – |
 
-| A/58. | 78/2009 631/2009 |  | – | – | Gyalogosok védelme | + | + | – |
+| A/58. | 78/2009 631/2009 |  | – | – | Gyalogosok védelme | + | – | – |
 
-| A/59. | 2005/64 | 2009/1 |  |  | Újrafelhasználhatóság, újrahasznosíthatóság, feldolgozhatóság | + | + | – |
+| A/59. | 2005/64 | 2009/1 |  |  | Újrafelhasználhatóság, újrahasznosíthatóság, feldolgozhatóság | + | – | – |
 
-| A/60. | 2005/66 | 2006/368 78/2009 631/2009 |  |  | Elülső védelmi rendszer | + | + | – |
+| A/60. |  |  |  |  |  |  |  |  |
 
-| A/61. | 2006/40 [706/ 2007] |  |  |  | Légkondicionáló rendszer | + | +(4) | – |
+| A/61. | 2006/40 [706/ 2007] |  |  |  | Légkondicionáló rendszer | +(4) | + | – |
 
 | A/62. | 79/2009 406/2010 |  |  |  | Hidrogénüzemű gépjárművek | + | + | – |
 
-| A/63. | 661/2009 |  |  |  | Általános biztonság | + | + |  |
+| A/63. | 661/2009 | 407/2011 |  |  | Általános biztonság | + | + |  |
 
 ## Megjegyzés
 
@@ -356,17 +376,17 @@
 
 | típus- jóváhagyási eljárásban | egyedi eljárásban |
 
-| C/1. | – | – | 74/151 | 2009/63 | Traktorok meghatározott jellemzői és alkatrészei | + | – |
+| C/1. | – | – | 2009/63 |  | Traktorok meghatározott jellemzői és alkatrészei | + | – |
 
-| C/2. | – | – | 74/152 | 2009/58 | Traktorok legnagyobb tervezett sebessége és rakfelülete | + | – |
+| C/2. | – | – | 2009/60 | 2010/62 | Traktorok legnagyobb tervezett sebessége és rakfelülete | + | – |
 
-| C/3. | – | – | 74/346 | 2009/59 | Traktorok visszapillantó tükrei | + | – |
+| C/3. | – | – | 2009/59 |  | Traktorok visszapillantó tükrei | + | – |
 
-| C/4. | – | – | 74/347 | 2008/2 | Traktorok látómezője és ablaktörlői | + | – |
+| C/4. | – | – | 2008/2 |  | Traktorok látómezője és ablaktörlői | + | – |
 
-| C/5. | – | – | 75/321 | 2009/66 | Traktorok kormányszerkezete | + | – |
+| C/5. | – | – | 2009/66 |  | Traktorok kormányszerkezete | + | – |
 
-| C/6. | – | – | 75/322 | 2009/64 | Traktorok rádiózavarszűrése | + | – |
+| C/6. | – | – | 2009/64 |  | Traktorok rádiózavarszűrése | + | – |
 
 | C/7. | – | – | 75/323 | – | A traktorok és a pótkocsik elektromos csatlakozójára vonatkozó követelmények | + | – |
 
@@ -374,33 +394,33 @@
 
 | C/9. | – | – | 76/763 | 2010/52 | Traktorok vezetőülése melletti pótülés | – | – |
 
-| C/10. | – | – | 77/311 | 2009/76 | Traktorok vezetőire ható zajszint | + | – |
+| C/10. | – | – | 2009/76 |  | Traktorok vezetőire ható zajszint | + | – |
 
-| C/11. | – | – | 77/536 | 2009/57 | Traktorok borulása elleni védőszerkezetek dinamikai vizsgálata | + | – |
+| C/11. | – | – | 2009/57 |  | Traktorok borulása elleni védőszerkezetek dinamikai vizsgálata | + | – |
 
-| C/12. | 96 | 01 | 77/537 2000/25 | 2005/13 | A traktorok motorjának szennyezőanyag-kibocsátására vonatkozó követelmények | + | +(4) |
+| C/12. | 96 | 01 | 77/537 2000/25 | 2010/22 | A traktorok motorjának szennyezőanyag-kibocsátására vonatkozó követelmények | + | +(4) |
 
 | C/13. | – | – | 78/764 | 1999/57 | Traktorok vezetőülése | – | – |
 
-| C/14. | – | – | 78/933 | 2009/61 | Traktorok világító és fényjelző szerelvényei | + | – |
+| C/14. | – | – | 2009/61 |  | Traktorok világító és fényjelző szerelvényei | + | – |
 
-| C/15. | – | – | 79/532 | 2009/68 | Traktorok világító és fényjelző szerelvényei | + | – |
+| C/15. | – | – | 2009/68 |  | Traktorok világító és fényjelző szerelvényei | + | – |
 
-| C/16. | – | – | 79/533 | 2009/58 | Traktorok vontató és hátrameneti berendezései | – | – |
+| C/16. | – | – | 2009/58 |  | Traktorok vontató és hátrameneti berendezései | – | – |
 
-| C/17. | – | – | 79/622 | 2009/75 | Traktorok borulásának hatása elleni védőszerkezetek statikai vizsgálata | + | – |
+| C/17. | – | – | 2009/75 |  | Traktorok borulásának hatása elleni védőszerkezetek statikai vizsgálata | + | – |
 
-| C/18. | – | – | 80/720 | 97/54 | Traktorok vezetőüléseinek megközelítése, ajtók, ablakok | – | – |
+| C/18. | – | – | 80/720 | 2010/62 | Traktorok vezetőüléseinek megközelítése, ajtók, ablakok | – | – |
 
-| C/19. | – | – | 86/297 | 97/54 | Traktorokhoz alkalmazott leágazó meghajtások | – | – |
+| C/19. | – | – | 86/297 | 2010/62 | Traktorokhoz alkalmazott leágazó meghajtások | – | – |
 
-| C/20. | – | – | 86/298 | 2005/67 | Traktorok borulásának hatása elleni védőszerkezetek vizsgálata | + | – |
+| C/20. | – | – | 86/298 | 2010/22 | Traktorok borulásának hatása elleni védőszerkezetek vizsgálata | + | – |
 
-| C/21. | – | – | 86/415 | 97/54 | Traktorok kezelőelemeinek beépítése, elhelyezése, működtetése | – | – |
+| C/21. | – | – | 86/415 | 2010/22 | Traktorok kezelőelemeinek beépítése, elhelyezése, működtetése | – | – |
 
-| C/22. | – | – | 87/402 | 2005/67 | Keskeny nyomtávú traktorok borulásának hatása elleni védőszerkezetek vizsgálata | + | – |
+| C/22. | – | – | 87/402 | 2010/22 | Keskeny nyomtávú traktorok borulásának hatása elleni védőszerkezetek vizsgálata | + | – |
 
-| C/23. | – | – | 2009/144 | 2010/52 | Traktorok egyes alkatrészei és jellemzői | + | – |
+| C/23. | – | – | 2009/144 | 2010/62 | Traktorok egyes alkatrészei és jellemzői | + | – |
 
 ## (4) A C/12. számú melléklet követelményeit csak új traktorok forgalomba helyezése esetén kell alkalmazni. Az egyes „szabályozási fokozatok” alkalmazására és az egyenértékűségekre vonatkozó rendelkezéseket a C/12. számú melléklet tartalmazza.
 
@@ -428,6 +448,6 @@
 
 ## * Az ENSZ-EGB 44.00–44.02 előírás változatok alapján kiadott biztonsági gyermekülés jóváhagyások érvényessége 2008. május 9-én szűnt meg.
 
-2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^252]
+2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^264]
 
-[^252]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
+[^264]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
