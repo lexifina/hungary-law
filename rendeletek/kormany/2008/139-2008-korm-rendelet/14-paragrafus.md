@@ -6,6 +6,6 @@
 
 (2) A támogató az összesítő kimutatásban szereplő pénzügyi adatokat az EMIR finanszírozási modul információival összeveti, eltérés esetén 8 napos határidő megadásával hiánypótlásra visszaküldi.
 
-(3)[^1] Az adategyeztetés alapján a támogató által jogosultnak ítélt kamattámogatás összegét a támogató a tárgynegyedévet követő hónap utolsó napjáig utalja az MFB által megadott fizetési számlára.
+(3)[^2] Az adategyeztetés alapján a támogató által jogosultnak ítélt kamattámogatás összegét a támogató a tárgynegyedévet követő hónap utolsó napjáig utalja az MFB által megadott fizetési számlára.
 
-[^1]: A 14. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^2]: A 14. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 54. §-a szerint módosított szöveg.
