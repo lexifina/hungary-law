@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1418-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-12-06 | 2011-1418-30-22.1 | 1418/2011. (XII. 6.) Korm. határozat |
+| 2011-12-07 | 2011-1418-30-22.2 | 2010: CXXX. törvény |
