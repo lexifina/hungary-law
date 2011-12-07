@@ -24,7 +24,7 @@
 
 ## II. Műszaki adatlap
 
-## 1. A környezetvédelmi felülvizsgálatra nem kötelezett járművek Műszaki adatlapjának tartalma:
+## 1. A környezetvédelmi felülvizsgálatra nem kötelezett járművek „Műszaki adatlap”-jának tartalma:
 
 ## Kiállító hatóság
 
@@ -36,7 +36,7 @@
 
 ## (A) Rendszám:
 
-## [^251](B) Első forgalomba helyezés időpontja:
+## (B) Első forgalomba helyezés időpontja:
 
 ## Vizsgálat tárgya:
 
@@ -64,7 +64,7 @@
 
 ## Műszakilag megengedett össztömeg (kg):
 
-## [^252](I) Első hazai nyilvántartásba vétel időpontja:
+## (I) Első hazai nyilvántartásba vétel időpontja:
 
 ## Gyártási év:
 
@@ -120,6 +120,8 @@
 
 ## Érvényesítő címke sorszáma:
 
+## Km számláló állása:
+
 ## Záradékok:
 
 ## Hivatalos feljegyzések:
@@ -128,7 +130,7 @@
 
 ## (P) Motor jellemzők
 
-## (P.1) Hengerűrtartalma (cm3) :
+## (P.1) Hengerűrtartalma (cm3):
 
 ## (P.2) Legnagyobb leadott teljesítménye (kW):
 
@@ -146,7 +148,7 @@
 
 ## Aláírás
 
-## 2. A környezetvédelmi felülvizsgálatra kötelezett járművek „Műszaki adatlapjá”-nak tartalma:
+## 2. A környezetvédelmi felülvizsgálatra kötelezett járművek „Műszaki adatlap”-jának tartalma:
 
 ## Kiállító hatóság
 
@@ -158,7 +160,7 @@
 
 ## (A) Rendszám:
 
-## [^253](B) Első forgalomba helyezés időpontja:
+## (B) Első forgalomba helyezés időpontja:
 
 ## Vizsgálat tárgya:
 
@@ -186,7 +188,7 @@
 
 ## Műszakilag megengedett össztömeg (kg):
 
-## [^254](I) Első hazai nyilvántartásba vétel időpontja:
+## (I) Első hazai nyilvántartásba vétel időpontja:
 
 ## Gyártási év:
 
@@ -244,6 +246,8 @@
 
 ## Érvényesítő címke sorszáma:
 
+## Km számláló állása:
+
 ## Záradékok:
 
 ## Hivatalos feljegyzések:
@@ -256,7 +260,7 @@
 
 ## (P) Motor jellemzők
 
-## (P.1) Hengerűrtartalma (cm3) :
+## (P.1) Hengerűrtartalma (cm3):
 
 ## Legnagyobb leadott teljesítménye (kW)(P.2):
 
@@ -290,7 +294,7 @@
 
 ## (V.5.) PM (dízelmotornál) a részecskék (g/km-ben vagy g/kWó-ban)
 
-## (V.6.) dízelmotornál a korrigált abszorpciós együttható (min−1-ben)
+## (V.6.) dízelmotornál a korrigált abszorpciós együttható (min-1-ben)
 
 ## (V.7.) CO2 (g/km-ben)
 
@@ -304,7 +308,7 @@
 
 ## Alapjáraton:
 
-|  | Fordulatszám (1/min) | CO (%) | CH (ppm) | λ(légfelesleg) |
+|  | Fordulatszám (1/min) | CO (%) | CH (ppm) | λ (legfelesleg) |
 
 | Benzinüzem |  |  |  |  |
 
@@ -314,7 +318,7 @@
 
 ## Emelt üresjáraton:
 
-|  | Fordulatszám (1/min) | CO (%) | CH (ppm) | λ(légfelesleg) |
+|  | Fordulatszám (1/min) | CO (%) | CH (ppm) | λ (legfelesleg) |
 
 | Benzinüzem |  |  |  |  |
 
@@ -324,7 +328,7 @@
 
 ## Kompresszió gyújtású motorok esetén:
 
-| Alapjárati fordulatszám (1/min) | Leszabályozási fordulatszám (1/min) | Mért „K” érték * | Rendeleti „K” határérték |
+| Alapjárati fordulatszám (1/min) | Leszabályozási fordulatszám (1/min) | Mért „K” érték* | Rendeleti „K” határérték |  |
 
 ## *A szabadgyorsításos füstkibocsátás [K (m-1)] értéke 0,9 s<t90<1,1 s elektromos időállandójú műszerrel (B-módus) mérve.
 
@@ -336,10 +340,92 @@
 
 ## Aláírás
 
-2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^255]
+## 3. A trolibusz „Műszaki adatlap”-jának tartalma:
 
-[^251]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „Műszaki adatlap 42. számú rovatban rögzített első forgalomba helyezés időpontja” alatt a „(B) Első forgalomba helyezés időpontja” értendő.
-[^252]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „B nemzetközi kóddal jelölt 43. számú rovatban rögzített első hazai nyilvántartásba vétel időpontja” alatt a „(I) Első hazai nyilvántartásba vétel időpontja” értendő.
-[^253]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „Műszaki adatlap 42. számú rovatban rögzített első forgalomba helyezés időpontja” alatt a „(B) Első forgalomba helyezés időpontja” értendő.
-[^254]: A regisztrációs adóról szóló 2003. évi CX. törvény Melléklete II. részében említett „B nemzetközi kóddal jelölt 43. számú rovatban rögzített első hazai nyilvántartásba vétel időpontja” alatt a „(I) Első hazai nyilvántartásba vétel időpontja” értendő.
-[^255]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+## Kiállító hatóság
+
+## Telephely
+
+## Adatlap száma
+
+## Eljáró ügyintéző azonosítója
+
+## (A) Hatósági jelzés (pályaszám):
+
+## (B) Első forgalomba helyezés időpontja:
+
+## Vizsgálat tárgya:
+
+## (D.1) Gyártmány:
+
+## (D.2) Jármű típusa:
+
+## Járműtípus - variáns:
+
+## Járműtípus - verzió:
+
+## (D.3) Kereskedelmi leírása:
+
+## (E) Alvázszám:
+
+## Eredeti alvázszám:
+
+## (F.1) Megengedett legnagyobb össztömeg (kg):
+
+## (G) Saját tömeg (kg):
+
+## Műszakilag megengedett össztömeg (kg):
+
+## (I) Első hazai nyilvántartásba vétel időpontja:
+
+## Gyártási év:
+
+## Modell év:
+
+## (J) Jármű kategória:
+
+## Járműfajta:
+
+## Jármű jellege:
+
+## (K)Típus-jóváhagyási szám:
+
+## EK típus-jóváhagyási szám:
+
+## Összeépítési/átalakítási engedélyszám:
+
+## (R) A Jármű színe:
+
+## Járműszín 1:
+
+## Elhelyezkedés:
+
+## Járműszín 2:
+
+## Elhelyezkedés:
+
+## (S.1) Ülések száma (a vezetőüléssel együtt):
+
+## (S.2) Állóhelyek száma:
+
+## Szállítható személyek (fő):
+
+## Km számláló állása:
+
+## A villamos berendezésre vonatkozó adatok:
+
+## Az önjárást biztosító berendezésre vonatkozó adatok:
+
+## Hivatalos feljegyzések, záradékok (kitöltés nem kötelező):
+
+## Műszaki érvényesség időbeni hatályának vége:
+
+## Jármű minősítése:
+
+## Dátum:
+
+## Aláírás:
+
+2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^271]
+
+[^271]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.

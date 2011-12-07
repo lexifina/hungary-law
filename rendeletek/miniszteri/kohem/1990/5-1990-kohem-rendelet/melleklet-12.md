@@ -1,8 +1,8 @@
-12. melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^267]
+12. melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^286]
 
 A vizsgabiztosok szakmai képzése
 
-A vizsgabiztosok képzése alap-, illetve továbbképző tanfolyam keretében történik. A tanfolyamok témakörét és vizsgakövetelményeit a közlekedési hatóság elnöke állapítja meg. A képzés témakörét és a vizsgakövetelményeket a közlekedési hatóság 2010. január 15-ig honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben – tájékoztató formájában – közzéteszi.
+A vizsgabiztosok képzése alap-, kiegészítő, illetve továbbképző tanfolyam keretében történik. A tanfolyamok témakörét és vizsgakövetelményeit a közlekedési hatóság elnöke állapítja meg. A képzés témakörét és a vizsgakövetelményeket a közlekedési hatóság honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben - tájékoztató formájában - közzéteszi.[^287]
 
 Vizsgabiztosi alaptanfolyam
 
@@ -20,37 +20,31 @@ Vizsgabiztosok továbbképzése
 
 2.1. A vizsgabiztos kétévente köteles továbbképző tanfolyamon részt venni és azt követően vizsgát tenni.
 
-2.2. A továbbképző tanfolyamra és az azt követő vizsgára az 1.3.–1.4. pontjainak rendelkezését kell megfelelően alkalmazni.
+2.2.[^288] A továbbképző tanfolyamra és az azt követő vizsgára az 1.2.-1.4. pontjainak rendelkezését kell megfelelően alkalmazni.
 
 2.3. Amennyiben a tanfolyam kitűzött időpontja a vizsgabiztos számára nem megfelelő, az értesítés kézhezvételét követő 15 napon belül kérheti a közlekedési hatóságtól a továbbképzés elhalasztását. A közlekedési hatóság legfeljebb 6 hónap halasztást engedélyezhet.
 
-A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések
+A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések[^289]
 
-3.1. Felsőfokú szakirányú végzettség esetén e rendelet 12/A. §-ának (2) bekezdés b) pontjában meghatározott szakirányú szakmai gyakorlati idő teljesítése alól a közlekedési hatóság elnöke – indokolt esetben – felmentést adhat.
+3.1.[^290] Felsőfokú szakirányú végzettség esetén e rendelet 12/A. §-ának (2) bekezdés b) pontjában meghatározott szakirányú szakmai gyakorlati idő teljesítése alól a közlekedési hatóság - indokolt esetben - felmentést adhat.
 
-3.2. A Tanúsítványadói névjegyzékben 2009. december 31-én szereplő tanúsítványadóknak a közlekedési hatóság külön kérelem nélkül engedélyezheti a vizsgabiztosi tevékenység végzését, amennyiben e rendelet 12/A. § (2) bekezdés b) – d) pontokban meghatározott feltételeknek megfelelnek.
+3.2.[^291] Középfokú szakirányú végzettségként elfogadható az autószerelő szakirányú végzettség, vagy a gépjárműfenntartó szervezetek személyi és dologi feltételeiről szóló miniszteri rendeletben e végzettséggel egyenértékűnek minősített végzettség és az általános középiskolai érettségi egyidejű megléte.
 
-3.3. Annak a személynek, aki e rendelet hatályba lépését megelőzően a közlekedési hatóság feljogosítása alapján folyamatosan tanúsítóként tevékenykedett:
+3.3.[^292] A 2010. január 1-jét megelőzően a vizsgabiztosi névjegyzékbe felvett személynek a rendelet 12/A. § (2) bekezdés c) pontjában meghatározott követelményt 2015. január 1. napjáig kell teljesítenie, amennyiben az általa vizsgált jármű vizsgáló állomáson történő mozgatása biztosított a vizsgált jármű vezetésére jogosító vezetői engedéllyel rendelkező segítő személyzet útján.
 
-a) e rendelet 12/A. §-ának (2) bekezdés e) pontjában meghatározott követelményt 2010. december 31-ig kell teljesítenie,
+Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok[^293]
 
-b)[^268] az e rendelet 12/A. § (2) bekezdés a) pontjában meghatározott feltételnek nem kell megfelelnie.
+4.1.[^294] A 3500 kg megengedett legnagyobb össztömeget meghaladó járművek forgalomba helyezés előtti, illetőleg időszakos vizsgálata, valamint a külön jogszabályok által előírt minősítő vizsgálata során a jármű vizsgálatát csak olyan vizsgabiztos végezheti, aki kiegészítő tanfolyami képzésen részt vett, valamint a tanfolyam anyagából sikeres vizsgát tett.
 
-3.4.[^269] Középfokú szakirányú végzettségként elfogadható az autószerelő szakirányú végzettség, vagy a gépjárműfenntartó szervezetek személyi és dologi feltételeiről szóló miniszteri rendeletben e végzettséggel egyenértékűnek minősített végzettség és az általános középiskolai érettségi egyidejű megléte.
+4.2.[^295] Kiegészítő képzésre az jelentkezhet, aki a vizsgabiztosi alaptanfolyamot elvégezte, és legalább „C” járműkategóriára érvényes vezetői engedéllyel rendelkezik.
 
-3.5.[^270] A 2010. január 1-jét megelőzően a vizsgabiztosi névjegyzékbe felvett személynek a rendelet 12/A. § (2) bekezdés c) pontjában meghatározott követelményt 2015. január 1. napjáig kell teljesítenie, amennyiben az általa vizsgált jármű vizsgáló állomáson történő mozgatása biztosított a vizsgált jármű vezetésére jogosító vezetői engedéllyel rendelkező segítő személyzet útján.
+4.3.[^296] A 4.2. pontban meghatározott feltétel teljesítése alól 2014. január 1-jéig a közlekedési hatóság - a vizsgabiztos szakmai tevékenységének értékelése alapján - felmentést adhat.
 
-Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok
+4.4.[^297] A speciális, kiegészítő képzésre és az azt követő vizsgára az 1.2. - 1.4. pont rendelkezéseit kell megfelelően alkalmazni.
 
-4.1. A 3500 kg megengedett legnagyobb össztömeget meghaladó járművek forgalomba helyezés előtti, illetőleg időszakos vizsgálata, valamint a külön jogszabályok által előírt minősítő vizsgálata során a jármű vizsgálatát 2011. január 1-től csak olyan vizsgabiztos végezheti, aki kiegészítő képzésen részt vett.
+A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^298]
 
-4.2. Kiegészítő képzésre az jelentkezhet, aki a vizsgabiztosi alaptanfolyamot elvégezte, és legalább „C” járműkategóriára érvényes vezetői engedéllyel rendelkezik.
-
-4.3.[^271] A 4.2. pontban meghatározott feltétel teljesítése alól 2014. január 1-jéig a közlekedési hatóság elnöke – a vizsgabiztos szakmai tevékenységének értékelése alapján – felmentést adhat.
-
-A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^272]
-
-A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^273]
+A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^299]
 
 I. FEJEZET
 
@@ -436,134 +430,17 @@ A módosítások kiadása és a módosításokról szóló értesítés
 
 (1) Kiterjesztés esetén a jóváhagyó hatóság naprakésszé teszi az EK-típusbizonyítvány valamennyi vonatkozó rovatát, annak mellékleteit, valamint az információs csomag tartalomjegyzékét. A naprakésszé tett bizonyítványt és annak mellékleteit indokolatlan késedelem nélkül kell kiadni a kérelmezőnek.
 
-(2) Felülvizsgálat esetén a jóváhagyó hatóság a felülvizsgált dokumentumokat vagy az egységes szerkezetbe foglalt, naprakésszé tett változatot – adott esetben az információs csomag felülvizsgált tartalomjegyzékét is beleértve – indokolatlan késedelem nélkül kiadja a kérelmezőnek.
-
-(3) A jóváhagyó hatóság a 8. cikkben említett eljárásoknak megfelelően értesíti a többi tagállam jóváhagyó hatóságait az EK-típusjóváhagyás módosításairól.
-
-VI. FEJEZET
-
-AZ EK-JÁRMŰTÍPUSJÓVÁHAGYÁS HATÁLYA
-
-17. cikk
-
-A hatály megszűnése
-
-(1) Az EK jármű-típusjóváhagyás hatálya a következő esetekben szűnik meg:
-
-a) a jóváhagyott járműre alkalmazandó jogi szabályozásokban új követelmények válnak kötelezővé az új járművek nyilvántartásba vétele, értékesítése vagy forgalomba helyezése tekintetében és nem lehetséges a jóváhagyás ennek megfelelő naprakésszé tétele;
-
-b) a jóváhagyott jármű gyártását önként és végérvényesen megszün-tetik;
-
-c) a jóváhagyás érvényessége különleges korlátozás következtében lejár.
-
-(2) Amennyiben csak a típuson belüli egy változat vagy a változaton belüli egy kivitel válik érvénytelenné, az EK-típusjóváhagyás hatálya csak abban az esetben szűnik meg, ha arról a bizonyos változatról vagy kivitelről van szó.
-
-(3) Amennyiben egy bizonyos járműtípus gyártása végérvényesen megszűnik, a gyártó értesíti azt a jóváhagyó hatóságot, amely az EK jármű-típusjóváhagyást megadta. Az ilyen értesítés kézhezvételétől számított 30 napon belül az említett hatóság ennek megfelelően tájékoztatja a többi tagállam jóváhagyó hatóságait.
-
-A 27. cikk csak az e cikk (1) bekezdésének a) pontjában említett körülmények esetén bekövetkező megszüntetés esetén alkalmazandó.
-
-(4) A (3) bekezdés sérelme nélkül azokban az esetekben, amikor esedékes, hogy az EK jármű-típusjóváhagyás hatálytalanná válik, a gyártó értesíti a jóváhagyó hatóságot, amely az EK-típusjóváhagyást megadta.
-
-A jóváhagyó hatóság késedelem nélkül közöl valamennyi vonatkozó információt a többi tagállam jóváhagyó hatóságaival, hogy – adott esetben – lehetővé tegye a 27. cikk alkalmazását. Az említett közlemény különösen a legutolsó legyártott jármű gyártási dátumát és azonosítási számát határozza meg közelebbről.
-
-VII. FEJEZET
-
-MEGFELELŐSÉGI NYILATKOZAT ÉS JELÖLÉSEK
-
-18. cikk
-
-Megfelelőségi nyilatkozat
-
-(1) A gyártó, mint a járműre vonatkozó EK-típusjóváhagyás tulajdonosa minden, a jóváhagyott típussal megegyezően gyártott teljes, nem teljes vagy befejezett járműhöz megfelelőségi nyilatkozatot mellékel.
-
-a) A megfelelőségi nyilatkozat a jármű gyártója által a vásárlónak annak biztosítása érdekében tett nyilatkozatot jelent, hogy az általa vásárolt jármű a gyártása időpontjában megfelel az Európai Unió hatályos jogszabályainak.
-
-A megfelelőségi nyilatkozat azt a célt is szolgálja, hogy lehetővé tegye az illetékes hatóság számára a járművek nyilvántartásba vételét anélkül, hogy a kérelmező számára kiegészítő műszaki dokumentáció benyújtását kellene előírniuk.
-
-E célok érdekében a megfelelőségi nyilatkozatnak a következőket kell tartalmaznia:
-
-aa) járműazonosító szám;
-
-ab) a jármű pontos műszaki jellemzői (azaz a különböző rovatokban értéktartományok feltüntetése nem megengedett).
-
-b) A megfelelőségi nyilatkozat két oldalból áll.
-
-ba) 1. oldal, amely a gyártó megfelelőségi nyilatkozatát tartalmazza. Ez a sablon ugyanaz minden járműkategóriára.
-
-bb) 2. oldal, amely a jármű fő jellemzőinek műszaki leírása. A 2. oldalon szereplő sablon az egyes járműkategóriákhoz igazodik.
-
-c) A megfelelőségi nyilatkozatot legfeljebb A4-es formátumban (210 x 297 mm) vagy legfeljebb A4-esre hajtogatható formátumban kell kiállítani.
-
-d) A bb) pontban foglalt rendelkezések sérelme nélkül, a második oldalon feltüntetett értékeknek és mértékegységeknek a vonatkozó szabályozási aktusok típus-jóváhagyási dokumentációjában megadott értékeknek és mértékegységeknek kell lenniük. A gyártás megfelelőségének ellenőrzése esetén az értékeket a vonatkozó szabályozási aktusokban megállapított módszereknek megfelelően kell ellenőrizni. Az említett szabályozási aktusokban megengedett tűréshatárokat figyelembe kell venni.
-
-Nem teljes vagy befejezett jármű esetén a gyártó csak azokat az adatokat tölti ki a megfelelőségi nyilatkozat 2. oldalán, amelyeket a folyamatban lévő jóváhagyási szakasz szerint ki kell egészíteni vagy meg kell változtatni és adott esetben mellékeli a bizonyítványhoz a megelőző szakaszra vonatkozó valamennyi megfelelőségi nyilatkozatot.
-
-(2) A megfelelőségi nyilatkozatot a Közösség egyik hivatalos nyelvén kell megfogalmazni. A tagállamok kérhetik a megfelelőségi nyilatkozat saját nyelvükre vagy nyelveikre történő lefordítását.
-
-(3) A megfelelőségi nyilatkozatot úgy kell megtervezni, hogy védett legyen a hamisítás ellen. E célból olyan papírt kell használni, amely vagy színes grafikai ábrákkal vagy pedig a gyártó azonosítási jelét tartalmazó vízjellel van védve.
-
-(4) A megfelelőségi nyilatkozatot teljes egészében ki kell tölteni és a bizonyítvány a jogszabályban előírt korlátozásokon kívül nem tartalmazhat korlátozásokat a jármű használata tekintetében.
-
-(5) Az A/9. számú. melléklet I. részében leírt, a 20. cikk (2) bekezdése rendelkezéseinek megfelelően jóváhagyott járművekre vonatkozó megfelelőségi nyilatkozat címében megjeleníti „A teljes/befejezett járművekbe szánt, a 20. cikk szerint jóváhagyott típus (ideiglenes jóváhagyás)” szöveget.
-
-(6) Az A/9. számú melléklet I. részében leírt, a 22. cikknek megfelelően jóváhagyott járműtípusokra vonatkozó megfelelőségi nyilatkozat címében megjeleníti a „a kis sorozatban típusjóváhagyott teljes/befejezett járművekbe szánt” kifejezést, valamint ennek közvetlen közelében a gyártás évét, amelyet az 1-es számjegy és az A/12. számú mellékletben szereplő táblázatban feltüntetett határérték között elhelyezkedő sorszám követ, minden egyes gyártási évre vonatkozóan megjelölve az említett jármű sorszámát az adott évben gyártott sorozaton belül.
-
-(7) Az (1) bekezdés rendelkezéseinek sérelme nélkül a gyártó a megfelelőségi nyilatkozatban foglalt adatokat vagy információkat a tagállam nyilvántartási hatóságához elektronikus úton is továbbíthatja.
-
-(8) A megfelelőségi nyilatkozat másolatát csak a gyártó adhatja ki. A „másolat” szónak világosan láthatónak kell lennie a bizonyítvány másolatainak előlapján.
-
-(9) A megfelelőségi nyilatkozat A. mintája (teljes jármű) olyan járművekre vonatkozik, amelyek a közúton anélkül használhatók, hogy a jóváhagyásukhoz további gyártási lépcsőt igényelnének.
-
-(10) A megfelelőségi nyilatkozat B. mintája (befejezett járművek) olyan járművekre vonatkozik, amelyek jóváhagyásukhoz további lépcsőn mentek át.
-
-Ez a többlépcsős jóváhagyási folyamat szokásos eredménye (pl. járműgyártó által épített alvázra második lépcsős gyártó által épített busz).
-
-A többlépcsős folyamat során hozzáadott további jellemzőket röviden kell ismertetni.
-
-(11) A megfelelőségi nyilatkozat C. mintája (nem teljes járművek) olyan járművekre vonatkozik, amelyek jóváhagyásához további gyártási lépcső szükséges (pl. tehergépkocsi-alváz).
-
-A félpótkocsikhoz tartozó vontatók kivételével az N kategóriába tartozó, vezetőfülkés, alvázzal ellátott járművekre vonatkozó megfelelőségi nyilatkozatoknak a C. minta szerintinek kell lenniük.
-
-19. cikk
-
-EK típus-jóváhagyási jel
-
-(1) Valamely alkatrész vagy önálló műszaki egység gyártója – függetlenül attól, hogy előbbiek egy rendszer részét képezik-e vagy sem – valamennyi, a jóváhagyott típussal megegyezően gyártott alkatrészt vagy egységet EK-típusjóváhagyási jellel lát el, a vonatkozó külön melléklet vagy rendelet előírásainak megfelelően.
-
-(2) Amennyiben az EK típus-jóváhagyási jel feltüntetése nem előírás, a gyártónak rögzítenie kell legalább kereskedelmi nevét vagy márkanevét, valamint a típusszámot és/vagy az azonosítási számot.
-
-(3) Az EK típus-jóváhagyási jel meg kell, hogy feleljen az A/7. számú melléklet függelékének.
-
-VIII. FEJEZET
-
-A FÜGGELÉK MELLÉKLETEIVEL ÖSSZEEGYEZTETHETETLEN
-
-ÚJ TECHNOLÓGIÁK ÉS KONCEPCIÓK
-
-20. cikk
-
-Mentesség az új technológiák és koncepciók számára
-
-(1) A jóváhagyó hatóság – a gyártó kérelmére – a Bizottság engedélyével adhatja ki az EK-típusjóváhagyást rendszerek, alkatrészek vagy önálló műszaki egységek olyan típusa tekintetében, amely az A/4. számú melléklet I. részében felsorolt egy vagy több jogszabállyal összeegyeztethetetlen technológiák vagy koncepciók felhasználásával készült.
-
-(2) Az engedély megadásáról szóló döntés megszületéséig a jóváhagyó hatóság ideiglenes, kizárólag a Magyar Köztársaság területén érvényes jóváhagyást adhat ki a kérelmezett mentesség tárgyát képező járműtípus tekintetében, feltéve hogy erről a Bizottságot és a többi tagállamot késedelem nélkül tájékoztatja egy olyan dokumentáció formájában, amely a következő elemeket tartalmazza:
-
-a) azon okok ismertetése, amelyek miatt az érintett technológiák vagy koncepciók az adott rendszer, alkatrész vagy önálló műszaki egység követelményekkel való összeegyeztethetetlenségéhez vezetnek;
-
-b) a vonatkozó biztonsági és környezetvédelmi szempontok leírása és a megtett intézkedések;
-
-c) az elvégzett kísérletek és azok eredményeinek leírása annak igazolásával, hogy – összehasonlítva azon követelményekkel, amelyek tekintetében a mentességet kérelmezik – legalább egyenértékű biztonsági és környezetvédelmi feltételek biztosítottak.
-
-(3) Más tagállamok dönthetnek úgy, hogy területükön elfogadják a (2) bekezdésben említett ideiglenes jóváhagyást.
-
-(4) A Bizottság dönt arról, hogy engedélyezi vagy nem a jóváhagyó hatóság számára az adott járműtípus tekintetében az EK-típusjóváhagyás megadását.
-
-Adott esetben a döntés azt is meghatározza, hogy a jóváhagyás érvényessége – például időben – korlátozott-e. A típusjóváhagyás érvényessége minden esetben legalább harminchat hónap.
-
-[^267]: A 12. mellékletet a 66/2009. (XI. 27.) KHEM rendelet 23. § (4) bekezdése iktatta be.
-[^268]: A 12. számú melléklet 3.3. pont b) alpontja a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^269]: A 12. számú melléklet 3. pont 3.4. alpontját a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdése iktatta be.
-[^270]: A 12. számú melléklet 3. pont 3.5. alpontját a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdése iktatta be.
-[^271]: A 12. számú melléklet 4. pont 4.3. alpontját a 27/2010. (III. 31.) KHEM rendelet 7. § (1) bekezdése iktatta be.
-[^272]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja, a 25/2010. (XII. 22.) NFM rendelet 2. § (1) bekezdése és 3. § (1) bekezdése szerint módosított szöveg.
-[^273]: Ez a Függelék az Európai Parlament és a Tanács 79/2009/EK rendeletével, továbbá a Bizottság 1060/2008/EK, 385/2009/EK és 371/2010/EU rendeletével, valamint a Bizottság 2010/19/EU irányelvével módosított, az európai parlament és a tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.
+[^286]: A 12. mellékletet a 66/2009. (XI. 27.) KHEM rendelet 23. § (4) bekezdése iktatta be.
+[^287]: A 12. melléklet nyitó szövegrésze a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^288]: A 12. melléklet 2.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^289]: A 12. melléklet 3.1 pontját megelőző alcím a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^290]: A 12. melléklet 3.1. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^291]: A 12. melléklet 3.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^292]: A 12. melléklet 3.3. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^293]: A 12. melléklet 4.1. pontját megelőző alcím a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^294]: A 12. melléklet 4.1. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^295]: A 12. melléklet 4.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^296]: A 12. melléklet 4.3. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^297]: A 12. melléklet 4.4. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^298]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja, a 25/2010. (XII. 22.) NFM rendelet 2. § (1) bekezdése és 3. § (1) bekezdése, a 62/2011. (XI. 29.) NFM rendelet 14. § (4) bekezdése szerint módosított szöveg.
+[^299]: Ez a Függelék az Európai Parlament és a Tanács 79/2009/EK és 595/2009/EK rendeletével, továbbá a Bizottság 1060/2008/EK, 385/2009/EK és 371/2010/EU rendeletével, valamint a Bizottság 2010/19/EU irányelvével módosított, az európai parlament és a tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.

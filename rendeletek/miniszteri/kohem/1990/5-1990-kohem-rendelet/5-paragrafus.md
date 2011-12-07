@@ -6,9 +6,9 @@ a) a járműtípus azonosításához szükséges adatok megállapítására;
 
 b) annak ellenőrzésére, hogy a járműtípus megfelel-e a jogszabályban meghatározott műszaki, közlekedésbiztonsági, környezetvédelmi és munkavédelmi követelményeknek.
 
-c)[^65]
+c)[^67]
 
-(2)[^66]
+(2)[^68]
 
-[^65]: Az 5. § (1) bekezdésének c) pontját a 12/1998. (V. 22.) KHVM rendelet 20. §-ának (2) bekezdése hatályon kívül helyezte.
-[^66]: Az 5. § (2) bekezdését a 12/1998. (V. 22.) KHVM rendelet 20. §-ának (2) bekezdése hatályon kívül helyezte.
+[^67]: Az 5. § (1) bekezdésének c) pontját a 12/1998. (V. 22.) KHVM rendelet 20. §-ának (2) bekezdése hatályon kívül helyezte.
+[^68]: Az 5. § (2) bekezdését a 12/1998. (V. 22.) KHVM rendelet 20. §-ának (2) bekezdése hatályon kívül helyezte.

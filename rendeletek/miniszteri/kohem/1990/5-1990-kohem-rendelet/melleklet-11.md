@@ -1,6 +1,6 @@
 ## I. Fejezet
 
-## Közúti műszaki ellenőrzés[^264]
+## Közúti műszaki ellenőrzés[^283]
 
 ## 1. Fogalom meghatározások
 
@@ -18,7 +18,7 @@
 
 ## a) a jármű műszaki és karbantartottsági állapotának szemrevételezéssel történő vizsgálata és értékelése a jármű álló helyzetében;
 
-## b) a korábban végzett közúti műszaki ellenőrzésről kiadott közúti műszaki ellenőri jelentésben (jegyzőkönyvben) foglaltak ismételt ellenőrzése, vagy a jármű közlekedésre alkalmasságát bizonyító iratokban foglaltak ellenőrzése, különös tekintettel – abban az esetben, ha a járművet az Európai Unió valamelyik tagállamában vették nyilvántartásba, illetve helyezték forgalomba – annak vizsgálatára, hogy a jármű megfelel az ER. 5. számú mellékletében[^265] meghatározott közlekedésre alkalmassági vizsgálatnak;
+## b) a korábban végzett közúti műszaki ellenőrzésről kiadott közúti műszaki ellenőri jelentésben (jegyzőkönyvben) foglaltak ismételt ellenőrzése, vagy a jármű közlekedésre alkalmasságát bizonyító iratokban foglaltak ellenőrzése, különös tekintettel – abban az esetben, ha a járművet az Európai Unió valamelyik tagállamában vették nyilvántartásba, illetve helyezték forgalomba – annak vizsgálatára, hogy a jármű megfelel az ER. 5. számú mellékletében[^284] meghatározott közlekedésre alkalmassági vizsgálatnak;
 
 ## c) az ellenőrzési listán (2.7. pont) található, az ellenőrzés tárgyát képező tételek bármelyikére vonatkozó ellenőrzés.
 
@@ -226,8 +226,8 @@
 
 ## II. Fejezet
 
-11. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^266]
+11. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^285]
 
-[^264]: 175 Ez a fejezet a Tanács 2000/30/EK irányelvével és az azt módosító , a Bizottság 2003/26 EK irányelvével összeegyeztethető szabályzást tartalmaz.
-[^265]: 169 Az időszakos vizsgálatról szóló 96/96/EK irányelvben meghatározott közlekedési alkalmassági vizsgálat.
-[^266]: A 11. számú mellékletet a 105/2007. (XII. 23.) GKM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.
+[^283]: 175 Ez a fejezet a Tanács 2000/30/EK irányelvével és az azt módosító , a Bizottság 2003/26 EK irányelvével összeegyeztethető szabályzást tartalmaz.
+[^284]: 169 Az időszakos vizsgálatról szóló 96/96/EK irányelvben meghatározott közlekedési alkalmassági vizsgálat.
+[^285]: A 11. számú mellékletet a 105/2007. (XII. 23.) GKM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.
