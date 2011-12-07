@@ -1,6 +1,6 @@
 ## 1. A Kormány:
 
-## a) elrendeli az 1. melléklet szerinti maradványtartási kötelezettséget;
+## a) elrendeli az 1. melléklet szerinti maradványtartási kötelezettséget;[^2]
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -12,11 +12,17 @@
 
 ## Határidő: folyamatos
 
-## c) az irányítása alá tartozó fejezetek előirányzatainak a 2. melléklet szerinti összegű zárolását rendeli el; egyúttal felhívja a fejezeteket irányító szervek vezetőit, hogy a Magyar Államkincstárnak 2011. szeptember 20-áig jelentsék be az 2. mellékletben foglalt zárolási kötelezettségeket cím, alcím, jogcím-csoport, jogcím és kiemelt előirányzatonkénti részletezettségben; nem jelenthető be zárolás a fejezeti kezelésű előirányzatok esetében az európai uniós forrást tartalmazó előirányzatokra, illetve a 3. mellékletben felsorolt előirányzatokra.
+## c)[^3] az irányítása alá tartozó fejezetek előirányzatainak a 2. melléklet szerinti összegű zárolását rendeli el; egyúttal felhívja a fejezeteket irányító szervek vezetőit, hogy a Magyar Államkincstárnak 2011. szeptember 20-ig jelentsék be a 2. mellékletben foglalt zárolási kötelezettségeket cím, alcím, jogcím-csoport, jogcím és kiemelt előirányzatonkénti részletezettségben; nem jelenthető be zárolás a fejezeti kezelésű előirányzatok esetében – a d) alpont szerinti kivétellel – az európai uniós forrást tartalmazó előirányzatokra, valamint a 3. mellékletben felsorolt előirányzatokra;
 
-## Felelős: a fejezetet irányító szervek vezetői
+## Felelős: fejezetet irányító szervek vezetői
 
-## Határidő: a Magyar Államkincstár felé történő bejelentésre 2011. szeptember 20.
+## Határidő: folyamatos
+
+## d)[^4] a TEN-T pályázatok esetében felhívja a nemzeti fejlesztési minisztert, hogy a c) alpont szerinti zárolást 2011. december 10-ig jelentse be a Magyar Államkincstárnak.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
 
 ## 2. E határozatban elrendelt zárolási kötelezettség fejezetek, alrendszerek közötti nullszaldós átrendezésére, valamint a zárolási kötelezettség részbeni saját bevétel befizetéssel történő kiváltására a fejezetet irányító szervek vezetőinek kezdeményezésére a nemzetgazdasági miniszter engedélyével kerülhet sor.
 
@@ -54,4 +60,9 @@
 
 ## 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1316/2011. (IX. 19.) Korm. határozathoz
+1. melléklet az 1316/2011. (IX. 19.) Korm. határozathoz[^5]
+
+[^2]: Az 1. pont a) alpontjában előírt maradványtartási kötelezettséget a Kormány az 1505/2011. (XII. 29.) Korm. határozatának 2. pontjával törölte.
+[^3]: Az 1. pont c) alpontja az 1425/2011. (XII. 6.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 1. pont d) alpontját az 1425/2011. (XII. 6.) Korm. határozat 3. pontja iktatta be.
+[^5]: Az 1. mellékletben előírt maradványtartási kötelezettséget a Kormány az 1505/2011. (XII. 29.) Korm. határozatának 2. pontjával törölte.

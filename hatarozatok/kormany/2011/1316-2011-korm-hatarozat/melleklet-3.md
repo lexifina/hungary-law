@@ -32,7 +32,7 @@
 
 | Mindösszesen | 36 963,9 |
 
-3. melléklet az 1316/2011. (IX. 19.) Korm. határozathoz[^2]
+3. melléklet az 1316/2011. (IX. 19.) Korm. határozathoz[^7]
 
 Mentesített előirányzatok
 
@@ -218,4 +218,4 @@ Mentesített előirányzatok
 
 | 31 | 06 | 03 | 00 | 00 | Népszámlálás |
 
-[^2]: A 3. melléklet az 1396/2011. (XI. 18.) Korm. határozat 2. pontjával megállapított szöveg.
+[^7]: A 3. melléklet az 1396/2011. (XI. 18.) Korm. határozat 2. pontjával megállapított szöveg.
