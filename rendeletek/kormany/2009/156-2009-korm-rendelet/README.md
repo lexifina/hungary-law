@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-156-20-
 | 2011-07-01 | 2009-156-20-22.8 | 99/2011. (VI. 29.) Korm. rendelet |
 | 2011-07-22 | 2009-156-20-22.9 | 138/2011. (VII. 19.) Korm. rendelet |
 | 2011-09-01 | 2009-156-20-22.10 | 138/2011. (VII. 19.) Korm. rendelet |
+| 2011-12-08 | 2009-156-20-22.11 | 261/2011. (XII. 7.) Korm. rendelet |

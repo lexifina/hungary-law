@@ -20,6 +20,8 @@ g) a 10. melléklet 1. pontjában
 
 a) a 2. §, a 4. §, a 6. § vagy a 9. § alapján kiszabott bírság összege legfeljebb 1 000 000 forint,
 
-b) egyéb esetekben a kiszabott bírság összege külön-külön legfeljebb 600 000 forint
+b)[^12] a 3. §, az 5. §, a 7. §, a 8. §, a 10. § és a 11. § alapján kiszabott bírság összege legfeljebb 600 000 forint
 
 lehet, de együttesen nem haladhatja meg a 2 200 000 forintot. Amennyiben a gépjárművezető kötelezett a bírság megfizetésére, az a) pont szerinti bírság legfeljebb 400 000 forint, a b) pont szerinti bírság legfeljebb 250 000 forint, az ugyanabban az eljárásban kiszabott bírság maximális összege 800 000 forint lehet.
+
+[^12]: A 13. § (2) bekezdés b) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (6) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.

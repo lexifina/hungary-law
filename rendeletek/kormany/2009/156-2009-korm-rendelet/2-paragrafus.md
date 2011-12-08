@@ -2,9 +2,9 @@
 
 a) a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendeletben,
 
-b) a belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló 14/2001. (IV. 20.) KöViM rendeletben,
+b)[^1] a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet (a továbbiakban: KR.) 3–33. §-aiban,
 
-c) a tagállamok területére vagy területéről történő, illetve a tagállamok területén áthaladó, Közösségen belüli közúti árufuvarozási piacra való bejutásról szóló, 1992. március 26-i 881/92/EGK tanácsi rendeletben, valamint annak a 484/2002/EK európai parlamenti és tanácsi rendelettel történt módosításában,
+c)[^2] a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendeletben,
 
 d) a Közlekedési Miniszterek Európai Konferenciája által létrehozott közlekedési engedélyek használatának szabályairól szóló 56/2005. (VII. 7.) GKM rendeletben,
 
@@ -12,9 +12,9 @@ e) a „Nemzetközi Közúti Árufuvarozási Szerződésről” szóló, Genfben
 
 f) az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvényben,
 
-g) az autóbusszal végzett belföldi és nemzetközi személyszállítás szakmai feltételeiről és engedélyezési eljárásáról szóló 49/2001. (XII. 22.) KöViM rendeletben,
+g)[^3] a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-i 1072/2009/EK európai parlamenti és tanácsi rendeletben,
 
-h) az autóbusszal végzett nemzetközi személyszállítás közös szabályairól szóló, 1992. március 16-i 684/92/EGK tanácsi rendeletben, valamint annak 11/98/EK tanácsi rendelettel történt módosításában,
+h)[^4] az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-i 1073/2009/EK európai parlamenti és tanácsi rendeletben,
 
 i) a valamely tagállamban nem honos fuvarozók számára a belföldi közúti személyszállítási szolgáltatás feltételeinek megállapításáról szóló, 1997. december 11-i 12/98/EK tanácsi rendeletben,
 
@@ -23,3 +23,8 @@ j) az autóbusszal végzett személyszállítás okmányaira vonatkozóan a 684/
 k) az autóbusszal végzett nemzetközi nem menetrend szerinti személyszállításról szóló (INTERBUS) megállapodás kihirdetéséről szóló 309/2002. (XII. 28.) Korm. rendeletben,
 
 l) a kétoldalú közúti áru- és személyszállításról szóló nemzetközi szerződéseket kihirdető – a 12. mellékletben foglalt – jogszabályokban
+
+[^1]: A 2. § b) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^2]: A 2. § c) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^3]: A 2. § g) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^4]: A 2. § h) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.

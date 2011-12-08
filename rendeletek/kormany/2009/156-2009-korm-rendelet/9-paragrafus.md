@@ -1,4 +1,4 @@
-## 8. § A Kkt. 20. § (1) bekezdés g) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 7. mellékletben meghatározott összegű bírságot köteles fizetni az, aki a bérelt járművekkel végzett közúti áruszállítás külön feltételeiről szóló 4/2000. (II. 16.) KHVM rendeletben foglalt rendelkezést megsérti.
+## 8. §[^8] A Kkt. 20. § (1) bekezdés g) pontjához kapcsolódóan a 7. mellékletben meghatározott összegű bírságot köteles fizetni az, aki a KR. 32. §-ában foglalt rendelkezést megsérti.
 
 ## 9. § A Kkt. 20. § (1) bekezdés h) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 8. mellékletben meghatározott összegű bírságot köteles fizetni az, aki
 
@@ -11,3 +11,5 @@ c) a meghatározott össztömeget, tengelyterhelést és méretet meghaladó já
 d) a nemzetközi közúti áru- és személyszállítás végzésének egyes feltételeiről szóló 101/2003. (XII. 23.) GKM rendeletben,
 
 e) a közúti járművek időszakos vizsgálata egységes feltételeinek elfogadásáról és ezen vizsgálat kölcsönös elismeréséről szóló, Bécsben, 1997. november 13-án aláírt Egyezmény kihirdetéséről szóló 2001. évi LXVIII. törvényben
+
+[^8]: A 8. § a 261/2011. (XII. 7.) Korm. rendelet 41. § (5) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
