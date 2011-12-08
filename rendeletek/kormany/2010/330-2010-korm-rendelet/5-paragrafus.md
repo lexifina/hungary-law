@@ -2,6 +2,8 @@
 
 a) az intézményi működés biztosítását szolgáló feladatkörében szervezi a fővárosi és megyei kormányhivatalok feladatainak ellátásához szükséges, jelentősebb összegű beszerzések központosított rendszerben történő beszerzését, a beszerzett eszközök elosztását,
 
-b) vagyongazdálkodási, létesítmény-üzemeltetési feladatkörében közreműködik a fővárosi és megyei kormányhivatalok által használt ingatlanokkal kapcsolatos vagyongazdálkodási feladatokban, az ingatlanok fejlesztésében, üzemeltetésében, a fővárosi és megyei kormányhivatalok elhelyezésével összefüggő javaslatokat tesz és intézkedéseket kezdeményez,
+b)[^5]
 
 c) eszközpark üzemeltetésével összefüggő egyes feladatköröket lát el.
+
+[^5]: Az 5. § b) pontját a 258/2011. (XII. 7.) Korm. rendelet 41. § (7) bekezdése hatályon kívül helyezte.

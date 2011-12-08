@@ -14,6 +14,8 @@ e) figyelemmel kíséri a költségvetés végrehajtásában a fővárosi és me
 
 f) közreműködik a fővárosi és megyei kormányhivatalok beszámolóinak összegzésében és értékelésében,
 
-g) közreműködik a fővárosi és megyei kormányhivatalok előirányzat-maradványának, pénzmaradványának megállapítása tekintetében, ideértve a kötelezettségvállalással nem terhelt előirányzat-maradványok felhasználási céljának, rendeltetésének felülvizsgálatát is,
+g) közreműködik a fővárosi és megyei kormányhivatalok előirányzat-maradványának, pénzmaradványának megállapítása tekintetében, ideértve a kötelezettségvállalással nem terhelt előirányzat-maradványok felhasználási céljának, rendeltetésének felülvizsgálatát is.
 
-h) közreműködik a fővárosi és megyei kormányhivatalok kezelésében lévő közérdekű és közérdekből nyilvános adatok kötelező közzététele, illetve a kérelemre történő szolgáltatása végrehajtásának irányításában.
+h)[^4]
+
+[^4]: A 4. § (2) bekezdés h) pontját a 258/2011. (XII. 7.) Korm. rendelet 41. § (7) bekezdése hatályon kívül helyezte.

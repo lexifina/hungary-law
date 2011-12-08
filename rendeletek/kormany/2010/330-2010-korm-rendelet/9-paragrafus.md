@@ -1,9 +1,15 @@
-## 9. § A NÁK egyéb feladatkörében
+## 9. §[^10] A NÁK
 
-a) a szakigazgatási szervek szakmai irányítóival együttműködésben közreműködik a fővárosi és megyei kormányhivatalok médiakapcsolatainak kezelésére szolgáló alapelvek kidolgozásában és gondoskodik azok szabályozásáról, koordinálja a hivatalok sajtóval kapcsolatos tevékenységét,
+a) koordinálja a fővárosi és megyei kormányhivatalok egységes pernyilvántartásának, továbbá az egységes perviteli szabályzatának elkészítését, összesített pernyilvántartást készít,
 
-b) gondoskodik a fővárosi és megyei kormányhivatalok működésére vonatkozó, közérdekből nyilvános adatok kötelező közzétételéről, illetve megalkotja a kérelemre történő adatszolgáltatás eljárási rendjét,
+b) elemzi és értékeli a fővárosi és megyei kormányhivatalok perképviseleti gyakorlatát, erről rendszeresen tájékoztatja a minisztert, szükség szerint intézkedést kezdeményez,
 
-c) ellát egyes, szervi működést szolgáló informatikai feladatokat,
+c) a fővárosi és megyei kormányhivatalok és a NÁK feladatellátásával összefüggő bírósági határozatokat elemzi, szükség szerint intézkedést kezdeményez,
 
-d) elősegíti az intézmények közötti koordináció megvalósulását.
+d) közreműködik a fővárosi és megyei kormányhivatalok egységes szerződéskötési gyakorlatának kialakításában,
+
+e) egyedi ügyekben jogi állásfoglalással segíti a fővárosi és megyei kormányhivatalok perképviseleti tevékenységét,
+
+f) ellátja és támogatja a működéséhez kapcsolódó jogi feladatokat.
+
+[^10]: A 9. § a 258/2011. (XII. 7.) Korm. rendelet 41. § (4) bekezdésével megállapított szöveg.
