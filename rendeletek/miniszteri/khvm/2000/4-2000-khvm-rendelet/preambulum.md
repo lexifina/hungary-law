@@ -1,1 +1,0 @@
-A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése b) pontjának 1. és 16. alpontjában kapott felhatalmazás alapján – a belügyminiszterrel és a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
