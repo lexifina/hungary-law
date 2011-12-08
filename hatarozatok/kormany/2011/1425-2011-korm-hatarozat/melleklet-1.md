@@ -4,25 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. A 2011. évi költségvetési egyensúlyt megtartó intézkedésekről szóló 1316/2011. (IX. 19.) Korm. határozat 1. pont c) alpontja helyébe a következő rendelkezés lép:
-
-## ( A Kormány: )
-
-## „c) az irányítása alá tartozó fejezetek előirányzatainak a 2. melléklet szerinti összegű zárolását rendeli el; egyúttal felhívja a fejezeteket irányító szervek vezetőit, hogy a Magyar Államkincstárnak 2011. szeptember 20-ig jelentsék be a 2. mellékletben foglalt zárolási kötelezettségeket cím, alcím, jogcím-csoport, jogcím és kiemelt előirányzatonkénti részletezettségben; nem jelenthető be zárolás a fejezeti kezelésű előirányzatok esetében – a d) alpont szerinti kivétellel – az európai uniós forrást tartalmazó előirányzatokra, valamint a 3. mellékletben felsorolt előirányzatokra;
-
-## Felelős: fejezetet irányító szervek vezetői
-
-## Határidő: folyamatos”
-
-## 3. A 2011. évi költségvetési egyensúlyt megtartó intézkedésekről szóló 1316/2011. (IX. 19.) Korm. határozat 1. pontja a következő d) alponttal egészül ki:
-
-## ( A Kormány: )
-
-## „d) a TEN-T pályázatok esetében felhívja a nemzeti fejlesztési minisztert, hogy a c) alpont szerinti zárolást 2011. december 10-ig jelentse be a Magyar Államkincstárnak.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal”
+## 2–3.[^1]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -87,3 +69,5 @@ Költségvetési év: 2011.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
