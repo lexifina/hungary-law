@@ -1,0 +1,5 @@
+## 5. A munkáltatói jogok gyakorlása
+
+9. §[^9]
+
+[^9]: A 9. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

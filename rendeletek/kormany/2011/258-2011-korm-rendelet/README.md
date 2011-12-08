@@ -1,0 +1,9 @@
+# 258/2011. (XII. 7.) Korm. rendelet
+
+a megyei intézményfenntartó központokról, valamint a megyei önkormányzatok konszolidációjával, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egészségügyi intézményeinek átvételével összefüggő egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-258-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-12-08 | 2011-258-20-22.1 | 258/2011. (XII. 7.) Korm. rendelet |
