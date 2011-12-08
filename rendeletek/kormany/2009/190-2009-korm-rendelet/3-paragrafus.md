@@ -4,7 +4,7 @@
 
 3. § (1) A főépítészi feladatkör – a (2) bekezdésben foglalt kivétellel – köztisztviselői kinevezéssel látható el.
 
-(2)[^2] A települési – a fővárosi és a fővárosi kerületi kivételével – és a térségi főépítészi feladatkör ellátható köztisztviselőként, vagy – az összeférhetetlenségre, a minősített adatra és a felelősségre vonásra vonatkozó jogszabályi előírásokra való figyelemfelhívást is tartalmazó, a feladatkör ellátására vonatkozó írásban megkötött – megbízási szerződés alapján.
+(2)[^3] A települési – a fővárosi és a fővárosi kerületi kivételével – és a térségi főépítészi feladatkör ellátható köztisztviselőként, vagy – az összeférhetetlenségre, a minősített adatra és a felelősségre vonásra vonatkozó jogszabályi előírásokra való figyelemfelhívást is tartalmazó, a feladatkör ellátására vonatkozó írásban megkötött – megbízási szerződés alapján.
 
 (3) A főépítészek foglalkoztatási feltétele:
 
@@ -30,4 +30,4 @@ bb) településmérnöki mesterképzési szakon szerzett okleveles településm�
 
 (5) Ha a főépítész végzettségét igazoló oklevélből a szakirány, illetve az egyenértékűség nem állapítható meg, akkor a településtervezési és az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői jogosultság szabályairól szóló 104/2006. (IV. 28.) Korm. rendelet 3. § (8) és (9) bekezdése szerinti bizottság jogosult szakértőként véleményt nyilvánítani, amelyet a munkáltató kötelezően figyelembe vesz.
 
-[^2]: A 3. § (2) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (25) bekezdése szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (25) bekezdése szerint módosított szöveg.

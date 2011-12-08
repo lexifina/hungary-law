@@ -4,6 +4,8 @@
 
 (2) Az Építésügyi Hivatal az állami főépítészi feladat- és hatáskörök tekintetében a fővárosi és megyei kormányhivatal illetékességi területétől eltérő, e rendelet 2. mellékletében meghatározott különös illetékességgel működik.
 
+(2a)[^2] A 2. mellékletben meghatározott fővárosi és megyei kormányhivatal Építésügyi Hivatalát – az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendeletben meghatározott kivétellel – az állami főépítész vezeti.
+
 (3) Az 1. §-ban meghatározott feladatok központi szakmai irányítását, összehangolását az egész országra kiterjedő illetékességgel a miniszter látja el, amely keretében
 
 a) gyakorolja a szakmai irányító szerv vezetőjének jogkörét az Építésügyi Hivatal önálló feladat- és hatáskörrel rendelkező szervezeti egységeként működő állami főépítészének tevékenysége felett,
@@ -29,3 +31,4 @@ b) társulási megállapodásban meghatározott települési önkormányzati fel
 c) települési önkormányzati feladatokkal kapcsolatos döntéseket a települési önkormányzat közigazgatási területére kiterjedő illetékességgel a települési főépítész, a fővárosban a fővárosi önkormányzat és a kerületi önkormányzatok megosztott feladatai szerint a fővárosi, illetve a kerületi főépítész
 
 [^1]: A 2. § a 329/2010. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^2]: A 2. § (2a) bekezdését a 258/2011. (XII. 7.) Korm. rendelet 37. §-a iktatta be.
