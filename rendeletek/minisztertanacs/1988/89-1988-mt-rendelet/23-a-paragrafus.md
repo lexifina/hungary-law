@@ -1,11 +1,3 @@
-## 23/A. §[^121] A 23. § (7)–(10) bekezdésében foglaltakat nem kell alkalmazni
+## 23. §[^67]
 
-a) a 10 tonna megengedett legnagyobb össztömeget meg nem haladó járművekkel, járműszerelvényekkel végzett szállításokra,
-
-b) a közművek meghibásodása esetén a hiba elhárítására igénybe vett járművekkel végzett szállításokra,
-
-c) közveszély, természeti csapás következményeinek elhárítására igénybe vett járművekkel végzett szállításokra,
-
-d) a rendvédelmi szervek által üzemeltetett járművekkel végzett szállításokra.
-
-[^121]: Az új 23/A. §-t a 269/2005. (XII. 15.) Korm. rendelet 5. §-a iktatta be, egyidejűleg az eredeti 23/A. § számozását 23/B. §-ra változtatva.
+[^67]: A 23. §-t a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése hatályon kívül helyezte. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
