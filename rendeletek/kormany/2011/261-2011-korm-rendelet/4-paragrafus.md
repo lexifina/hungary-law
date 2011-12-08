@@ -1,0 +1,23 @@
+4. § (1) Magyarország területét érintő nemzetközi forgalomban díj ellenében végzett közúti árutovábbítás, valamint saját számlás közúti áruszállítás az adott tevékenységre vonatkozó,
+
+a) az 1072/2009/EK rendelet 4. cikke szerinti– nemzetközi közúti árufuvarozásra kiadott – közösségi engedéllyel (a továbbiakban: árutovábbítási közösségi engedély),
+
+b) a Közlekedési Miniszterek Európai Konferenciája által létrehozott engedéllyel (a továbbiakban: CEMT engedély), vagy
+
+c) a teherjárműre kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel
+
+végezhető.
+
+(2) Magyarország területét érintő nemzetközi forgalomban autóbusszal díj ellenében személyszállítás, valamint autóbusszal saját számlás személyszállítás az adott tevékenységre vonatkozó
+
+a) az EGT-tagállam (a továbbiakban: tagállam) által
+
+aa) nemzetközi közúti személyszállításra az 1073/2009/EK rendelet 4. cikkében foglaltak szerint kiadott közösségi engedéllyel (a továbbiakban: személyszállítási közösségi engedély), vagy az 5. cikkének (5) bekezdésében foglaltak szerint kiadott közösségi igazolvánnyal,
+
+ab) menetrend szerinti nemzetközi személyszállításra az 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedéllyel;
+
+b) az autóbusszal végzett nemzetközi nem menetrend szerinti személyszállításról szóló (INTERBUS) megállapodás (a továbbiakban: INTERBUS megállapodás) alapján kiadott engedéllyel (a továbbiakban: INTERBUS engedély);
+
+c) kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel vagy igazolvánnyal
+
+végezhető.

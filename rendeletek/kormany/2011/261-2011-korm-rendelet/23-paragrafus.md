@@ -1,0 +1,1 @@
+## 9. Jelentéstétel, tájékoztatás

@@ -1,0 +1,7 @@
+## 6. A közúti közlekedési szolgáltatáshoz igénybe vett járművek
+
+18. § (1) A közúti közlekedési szolgáltatáshoz használt jármű jobb oldali első ajtajának külső részén – tehergépjárműnél az oldalfalán – jól látható méretben fel kell tüntetni az üzembentartó nevét és telephelyét, vagy a közlekedési hatóság által e célra rendszeresített jelet és azonosítási számot.
+
+(2) Menetrend szerinti személyszállításhoz csak olyan autóbusz használható, amelyről a közlekedési hatóság a közúti járművek műszaki megvizsgálásáról szóló rendeletben meghatározott műszaki vizsgálat alapján megállapította, hogy megfelel a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló rendeletben a menetrend szerint közlekedő autóbuszra meghatározott műszaki feltételeknek. Alkalmasság esetén a közlekedési hatóság a jármű forgalmi engedélyét „menetrend szerinti személyszállításra alkalmas” bejegyzéssel látja el. Ha a korábban a menetrend szerint közlekedő autóbuszra meghatározott műszaki feltételeknek megfelelő autóbusz alkalmatlanná válik, a közlekedési hatóság a korábbi bejegyzést érvényteleníti, és a járműre kiadott engedélykivonatot bevonja.
+
+(3) A menetrend szerinti – belföldi vagy nemzetközi – személyszállítást végző autóbusz homlok- és oldalfalán a járati útvonal kezdő- és végpontját kell feltüntetni. A különcélú menetrend szerinti személyszállításra használt autóbusz homlok- és oldalfalán a „különcélú járat” feliratot – szerződéses járat esetén „szerződéses járat” feliratot – feltüntető táblát is el kell helyezni.

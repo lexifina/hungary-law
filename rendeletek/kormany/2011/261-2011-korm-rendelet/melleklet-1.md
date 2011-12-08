@@ -1,0 +1,123 @@
+1. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
+
+## Részleges felmentést adó képesítések a szakmai irányítói képesítés megszerzéséhez szükséges egyes vizsgatárgyakra vonatkozó vizsgakötelezettség alól
+
+1. Jogi ismeretek:
+
+a) jogász egyetemi szintű szak vagy
+
+b) jogász mesterképzési szak.
+
+2. Gazdasági, pénzügyi vezetői és adózási ismeretek:
+
+a) alkalmazott közgazdaságtan alapképzési szak vagy
+
+b) közgazdasági egyetemi szintű szak vagy
+
+c) általános közgazdasági főiskolai szintű szak vagy
+
+d) közgazdász szakmérnök szakirányú továbbképzési szak,
+
+– gazdasági mérnök,
+
+a) pénzügy és számvitel alapképzési szak vagy
+
+b) pénzügyi egyetemi szintű szak vagy
+
+c) pénzügyi főiskolai szintű szak vagy
+
+d) számviteli főiskolai szintű szak vagy
+
+e) pénzügy mesterképzési szak vagy
+
+f) számvitel mesterképzési szak,
+
+– gazdálkodási mérnök,
+
+– könyvvizsgáló,
+
+– könyvszakértő.
+
+3. Munkaügyi ismeretek:
+
+– egyetemen vagy főiskolán szerzett alábbi végzettségek:
+
+a) munkaügyi és társadalombiztosítási igazgatási alapképzési szak vagy
+
+b) társadalombiztosítás főiskolai szintű szak vagy
+
+c) társadalombiztosítási szakirányú továbbképzési szak vagy
+
+d) munkaügyi kapcsolatok főiskolai szintű szak vagy
+
+e) munkaügyi kapcsolatok szakirányú továbbképzési szak vagy
+
+f) egészségbiztosítási főiskolai szintű szak
+
+g) jogi egyetem.
+
+4. Jármű műszaki, üzemeltetési és közlekedésbiztonsági ismeretek:
+
+a) szakirányú okleveles gépészmérnök vagy
+
+b) szakirányú gépészmérnök vagy
+
+c) szakirányú okleveles közlekedésmérnök vagy
+
+d) szakirányú közlekedésmérnök vagy
+
+e) gépészmérnök alapképzési szakon vagy
+
+f) gépészmérnök mesterképzési szakon vagy
+
+g) közlekedésmérnök alapképzési szakon vagy
+
+h) közlekedésmérnök mesterképzési szakon
+
+szerzett diploma vagy
+
+i) az Országos Képzési Jegyzék szerinti szakképesítés:
+
+– nemzetközi szállítmányozási és logisztikai menedzser,
+
+– forgalmi tiszti felsőfokú tanfolyami szakképesítés.
+
+5. Jármű műszaki, üzemeltetési ismeretek:
+
+a) szakirányú okleveles gépészmérnök vagy
+
+b) szakirányú gépészmérnök vagy
+
+c) szakirányú okleveles közlekedésmérnök vagy
+
+d) szakirányú közlekedésmérnök vagy
+
+e) gépészmérnök alapképzési szakon vagy
+
+f) gépészmérnök mesterképzési szakon vagy
+
+g) közlekedésmérnök alapképzési szakon vagy
+
+h) közlekedésmérnök mesterképzési szakon
+
+szerzett diploma vagy
+
+i) környezetvédelmi mérnök vagy
+
+j) okleveles környezetmérnök vagy
+
+k) környezetmérnök alapképzési szakon vagy
+
+l) környezetmérnök mesterképzési szakon
+
+szerzett diploma vagy
+
+m) műszaki tiszti felsőfokú tanfolyami képesítés, illetve
+
+n) közlekedésgépészeti technikus, közúti jármű-gépész,
+
+o) közlekedés-üzemviteli, gépjárműüzemi technikus.
+
+6. Vámismeretek:
+
+– közép- vagy felsőfokú vámügyintézői szakképesítés.
