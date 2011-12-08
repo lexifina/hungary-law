@@ -4,6 +4,6 @@
 
 (3) Amennyiben az ellenjegyzésre jogosult nem ért egyet az utalvánnyal, köteles ezt jelezni az utalványozónak. Az ellenjegyzés nem tagadható meg, ha ezt követően az utalványozó erre írásban utasítja. A további eljárási szabályokra a 74. § (5)–(6) bekezdésében foglalt szabályokat kell megfelelően alkalmazni.
 
-(4)[^170] Ha a kötelezettséget vállaló szervhez kincstári, vagy önkormányzati biztost jelöltek ki, az utalványozás – az utalványozó és annak ellenjegyzésére jogosult személy aláírása mellett – a biztos külön ellenjegyzését követően hajtható végre.
+(4)[^171] Ha a kötelezettséget vállaló szervhez kincstári, vagy önkormányzati biztost jelöltek ki, az utalványozás – az utalványozó és annak ellenjegyzésére jogosult személy aláírása mellett – a biztos külön ellenjegyzését követően hajtható végre.
 
-[^170]: A 79. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^171]: A 79. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 33. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 (3) Az irányító szervnek tartalék-előirányzata felhasználásakor és emelésekor módosítania – növelnie, illetve csökkentenie – kell az érintett kiemelt előirányzatok összegeit is.
 
-(4)[^99] Az Áht. 24/B. § (4) és (6) bekezdése alapján teljesítendő visszapótlási kötelezettség teljesítésén túl a maradványt terhelő kifizetés tárgyévi előirányzat terhére nem teljesíthető.
+(4)[^100] Az Áht. 24/B. § (4) és (6) bekezdése alapján teljesítendő visszapótlási kötelezettség teljesítésén túl a maradványt terhelő kifizetés tárgyévi előirányzat terhére nem teljesíthető.
 
 (5) Európai uniós forrás finanszírozásával megvalósított programok tárgyévi előirányzatainak államháztartáson belüli továbbadását támogatásértékű kiadásként, előző évekből származó maradványának továbbadását előző évi előirányzat-maradvány, pénzmaradvány átadásként kell elszámolni.
 
@@ -14,7 +14,7 @@ a) eredeti előirányzatként részben vagy egészben saját bevétel, vagy
 
 b) olyan nem tervezett eseti bevétel, amihez a fejezetet irányító szerv év közben, eseti jelleggel jut (pl. adomány, segély, közérdekű kötelezettségvállalás).
 
-(7)[^100] Amennyiben a fejezetet irányító szerv év közben a (6) bekezdés b) pontja szerinti eseti bevételhez jut, a költségvetési törvényben jóváhagyott fejezeti kezelésű előirányzatait – az 59/A. § (2) bekezdésében foglalt mértéket meghaladó bevétel esetén az ott szabályozott engedélyt követően – saját hatáskörben növelheti meg, vagy állapíthat meg új előirányzatot az eseti bevétel rendeltetésének megfelelően.
+(7)[^101] Amennyiben a fejezetet irányító szerv év közben a (6) bekezdés b) pontja szerinti eseti bevételhez jut, a költségvetési törvényben jóváhagyott fejezeti kezelésű előirányzatait – az 59/A. § (2) bekezdésében foglalt mértéket meghaladó bevétel esetén az ott szabályozott engedélyt követően – saját hatáskörben növelheti meg, vagy állapíthat meg új előirányzatot az eseti bevétel rendeltetésének megfelelően.
 
-[^99]: Az 56. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^100]: Az 56. § (7) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^100]: Az 56. § (4) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^101]: Az 56. § (7) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.

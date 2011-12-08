@@ -1,6 +1,6 @@
-## A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználása[^101]
+## A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználása[^102]
 
-57. §[^102] (1) A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásáról – az államháztartásért felelős miniszter önállóan, vagy az államháztartásért felelős miniszter és a fejezetet irányító szerv vezetőjének együttesen benyújtott előterjesztése alapján – a Kormány határozatban dönt. A fejezetet irányító szerv vezetőjének az előterjesztésben nyilatkoznia kell arról, hogy a benyújtást megelőzően elvégzett felülvizsgálat alapján a fejezet költségvetésében az igényelt feladat ellátására felhasználható szabad előirányzat, pénzeszköz nem áll rendelkezésre, és az összeget visszatérítési kötelezettséggel igényli-e.
+57. §[^103] (1) A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásáról – az államháztartásért felelős miniszter önállóan, vagy az államháztartásért felelős miniszter és a fejezetet irányító szerv vezetőjének együttesen benyújtott előterjesztése alapján – a Kormány határozatban dönt. A fejezetet irányító szerv vezetőjének az előterjesztésben nyilatkoznia kell arról, hogy a benyújtást megelőzően elvégzett felülvizsgálat alapján a fejezet költségvetésében az igényelt feladat ellátására felhasználható szabad előirányzat, pénzeszköz nem áll rendelkezésre, és az összeget visszatérítési kötelezettséggel igényli-e.
 
 (2) Visszatérítési kötelezettséggel igényelt összeg esetében az előterjesztésben meg kell jelölni a visszafizetés tervezett időpontját.
 
@@ -24,5 +24,5 @@ továbbá az előterjesztésben tájékoztatni kell a Kormányt a rendkívüli k
 
 (5) Ha a rendkívüli kormányzati intézkedésekre szolgáló tartalék terhére történő igény szerinti előirányzat- átcsoportosításhoz szükség van a fejezeti kezelésű előirányzat felhasználására vonatkozó szabályozás megváltoztatására, a benyújtáskor csatolni kell a szabályozás módosításának tervezetét.
 
-[^101]: Az 57. §-t megelőző alcím a 313/2010. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^102]: Az 57. § a 313/2010. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^102]: Az 57. §-t megelőző alcím a 313/2010. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^103]: Az 57. § a 313/2010. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.

@@ -10,15 +10,15 @@ c) a kifizetés határidejét, a következő évek előirányzatai terhére vál
 
 d) az ellenjegyző nevét és keltezéssel ellátott aláírását.
 
-(2)[^175] Ha a kötelezettségvállalás érvényességéhez az államháztartásért felelős miniszter jóváhagyása szükséges, a kötelezettségvállalás dokumentációjához csatolni kell ennek dokumentumát.
+(2)[^176] Ha a kötelezettségvállalás érvényességéhez az államháztartásért felelős miniszter jóváhagyása szükséges, a kötelezettségvállalás dokumentációjához csatolni kell ennek dokumentumát.
 
 (3) A költségvetési szerv a külső személyi juttatások előirányzata, illetve a dologi kiadások között megtervezett szellemi tevékenység számla ellenében történő igénybevétele tétel előirányzatának terhére természetes vagy jogi személlyel, illetve jogi személyiség nélküli egyéb szervezettel akkor köthet szerződést, ha
 
 a) azt jogszabály nem zárja ki, továbbá
 
-b)[^176] a szerződés megkötése jogszabályban, az alapító okiratában, illetve a szervezeti és működési szabályzatában meghatározott szakmai alapfeladatai ellátásához feltétlenül szükséges, és
+b)[^177] a szerződés megkötése jogszabályban, az alapító okiratában, illetve a szervezeti és működési szabályzatában meghatározott szakmai alapfeladatai ellátásához feltétlenül szükséges, és
 
 c) kormányrendelet eltérő rendelkezése hiányában az adott feladat elvégzéséhez megfelelő szakértelemmel, szakképzettséggel és gyakorlattal, vagy egyéb megfelelő sajátos szakmai adottságokkal, képességekkel rendelkező személyt nem foglalkoztat, vagy az alaptevékenység részeként felmerülő, a szerződés tárgyát képező szolgáltatás egyedi, időszakos, vagy időben rendszertelenül ellátandó feladat.
 
-[^175]: A 82. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^176]: A 82. § (3) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^176]: A 82. § (2) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^177]: A 82. § (3) bekezdés b) pontja a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

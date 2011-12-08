@@ -1,6 +1,6 @@
-## Előirányzatok megváltoztatása a fejezetet irányító szerv hatáskörében[^103]
+## Előirányzatok megváltoztatása a fejezetet irányító szerv hatáskörében[^104]
 
-58. §[^104] (1) Ha törvény eltérően nem rendelkezik a fejezetet irányító szerv a fejezeti kezelésű előirányzatok és az irányítása alá tartozó központi költségvetési szervek esetén
+58. §[^105] (1) Ha törvény eltérően nem rendelkezik a fejezetet irányító szerv a fejezeti kezelésű előirányzatok és az irányítása alá tartozó központi költségvetési szervek esetén
 
 a) gyakorolja az Áht. 27. § (3)–(5) bekezdésében és 27/A–27/B. §-ában meghatározott jogokat,
 
@@ -14,5 +14,5 @@ c) a bevételek elmaradása esetén – az elmaradás okainak értékelése alap
 
 (4) E §-ban foglalt intézkedések elrendelésére a fejezetet irányító szerv vezetője, vagy az általa írásban kijelölt, a fejezetet irányító szerv állományába tartozó személy jogosult, és az intézkedést a 74. § szabályainak megfelelően kijelölt ellenjegyző ellenjegyzi.
 
-[^103]: Az 58. §-t megelőző alcím a 313/2010. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^104]: Az 58. § a 313/2010. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^104]: Az 58. §-t megelőző alcím a 313/2010. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^105]: Az 58. § a 313/2010. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.

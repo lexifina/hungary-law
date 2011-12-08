@@ -1,4 +1,4 @@
-## 122–123. §[^216]
+## 122–123. §[^217]
 
 124. § (1) A költségvetésből nyújtott támogatás igénybevétele mind utólagos elszámolás melletti előfinanszírozás, mind időszakos vagy záró beszámolót követő utófinanszírozás formájában történhet. A költségvetésből nyújtott támogatás módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetésből nyújtott támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett önerejének mértékére.
 
@@ -26,4 +26,4 @@ történő kifizetéssel lehetséges. A c) pontban foglalt esetben a kifizetés 
 
 (9) Fel kell függeszteni a költségvetésből nyújtott támogatás folyósítását abban az esetben, ha azt e rendelet vagy más jogszabály előírja, illetve a támogatói okirat kiadását vagy a támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a költségvetésből nyújtott támogatás visszavonását, a támogatási szerződés felmondását vagy az attól történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet soron kívül tájékoztatni kell.
 
-[^216]: A 122–123. §-t a 95/2011. (VI. 28.) Korm. rendelet 6. § (1) bekezdése hatályon kívül helyezte.
+[^217]: A 122–123. §-t a 95/2011. (VI. 28.) Korm. rendelet 6. § (1) bekezdése hatályon kívül helyezte.

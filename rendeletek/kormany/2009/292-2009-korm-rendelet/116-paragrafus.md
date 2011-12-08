@@ -1,3 +1,3 @@
-## 115. §[^203]
+## 115. §[^204]
 
-[^203]: A 115. §-t a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^204]: A 115. §-t a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

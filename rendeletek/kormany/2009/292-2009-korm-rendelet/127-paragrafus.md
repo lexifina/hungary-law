@@ -18,6 +18,6 @@
 
 (10) Kincstári körbe tartozó költségvetési szervek esetén az előirányzat-átcsoportosítással kapott és jogosulatlanul igénybe vett támogatást a költségvetési szervtől vissza kell rendezni a 111. § (6) bekezdés b) pontja szerint. Az előirányzat-átcsoportosítás nélkül kapott és jogosulatlanul igénybe vett támogatás visszafizetése a támogató által megjelölt számlára történik. Mindkét esetben az (1)–(3) és (8) bekezdés szerinti kamatfizetési kötelezettséget nem kell érvényesíteni.
 
-(11)[^217] A támogatási előleg visszafizetése esetén a kedvezményezett az előleget a folyósítás napjától számított Ptk. szerinti kamattal növelt mértékben köteles visszafizetni. Ha a visszafizetéssel késedelembe esik, a késedelme után a Ptk. szerinti kamatot is érvényesíteni kell.
+(11)[^218] A támogatási előleg visszafizetése esetén a kedvezményezett az előleget a folyósítás napjától számított Ptk. szerinti kamattal növelt mértékben köteles visszafizetni. Ha a visszafizetéssel késedelembe esik, a késedelme után a Ptk. szerinti kamatot is érvényesíteni kell.
 
-[^217]: A 127. § (11) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 45. §-a iktatta be.
+[^218]: A 127. § (11) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 45. §-a iktatta be.

@@ -6,7 +6,7 @@ b) egyéb, az előirányzat felhasználási céljával összhangban álló – �
 
 történik.
 
-(2)[^193] Az európai uniós forrásból finanszírozott költségvetésből nyújtott támogatások (1) bekezdés a) pontja szerinti közvetlen felhasználása a 109. § (7) bekezdésében foglaltaknak megfelelően közreműködő szervezet bevonásával történhet.
+(2)[^194] Az európai uniós forrásból finanszírozott költségvetésből nyújtott támogatások (1) bekezdés a) pontja szerinti közvetlen felhasználása a 109. § (7) bekezdésében foglaltaknak megfelelően közreműködő szervezet bevonásával történhet.
 
 (3) Az előirányzatok közvetett felhasználása
 
@@ -20,4 +20,4 @@ b) államháztartáson belüli vagy kívüli szervezeten keresztül történik, 
 
 (5) A költségvetésből nyújtott támogatás és a lebonyolítás céljából átadott előirányzat felhasználására nézve elkülönített számviteli nyilvántartást kell előírni a kedvezményezett, illetve a (3) bekezdés szerinti feladatot megvalósító szervezet (e fejezet alkalmazásában a továbbiakban: lebonyolító) részére.
 
-[^193]: A 110. § (2) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^194]: A 110. § (2) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.

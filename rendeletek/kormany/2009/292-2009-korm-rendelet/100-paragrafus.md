@@ -1,4 +1,4 @@
-## 98–99. §[^189]
+## 98–99. §[^190]
 
 ## AZ ÖNÁLLÓAN MŰKÖDŐ KÖLTSÉGVETÉSI SZERV GAZDÁLKODÁSÁNAK SAJÁTOS SZABÁLYAI
 
@@ -16,4 +16,4 @@ rendelkezik.
 
 (4) A (2)–(3) bekezdésben foglaltak be nem tartása esetén az irányító szerv az előirányzatok feletti rendelkezési jogosultságot visszavonhatja, korlátozhatja, illetve elrendelheti a munkamegosztási megállapodás módosítását.
 
-[^189]: A 98–99. §-t és a 98. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^190]: A 98–99. §-t és a 98. §-t megelőző címet a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

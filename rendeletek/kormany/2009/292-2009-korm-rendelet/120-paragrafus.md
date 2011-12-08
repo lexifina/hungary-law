@@ -22,14 +22,14 @@ h) a kedvezményezett részéről, vagy a kedvezményezettre tekintettel harmadi
 
 i) a kedvezményezett teljesítését biztosító bankgarancia, kezesség – annak lejárata előtt legalább negyvenöt nappal – nem kerül meghosszabbításra.
 
-(2)[^211] A fejezetet irányító szerv az Áht. 122/B. §-ában meghatározott adatszolgáltatást a 9/a. számú melléklet szerint teljesíti. Az adatszolgáltatás nyilvános adatait a Kincstár a honlapján közzéteszi, a nem nyilvános adatokhoz a támogatók számára – jogosultság igénylés útján – elérhetőséget biztosít.
-
 (2)[^212] A fejezetet irányító szerv az Áht. 122/B. §-ában meghatározott adatszolgáltatást a 9/a. számú melléklet szerint teljesíti. Az adatszolgáltatás nyilvános adatait a Kincstár a honlapján közzéteszi, a nem nyilvános adatokhoz a támogatók számára – jogosultság igénylés útján – elérhetőséget biztosít.
 
-(3)[^213]
+(2)[^213] A fejezetet irányító szerv az Áht. 122/B. §-ában meghatározott adatszolgáltatást a 9/a. számú melléklet szerint teljesíti. Az adatszolgáltatás nyilvános adatait a Kincstár a honlapján közzéteszi, a nem nyilvános adatokhoz a támogatók számára – jogosultság igénylés útján – elérhetőséget biztosít.
+
+(3)[^214]
 
 (4) A fejezetet irányító szerv vezetője – a jogszabály alapján alanyi jogon járó költségvetésből nyújtott támogatások kivételével – jogosult a támogatási rendszerében további szankciókat meghatározni, és a kedvezményezett kötelezettségeinek nem teljesítése esetén azokat érvényesíteni. A szankciók fajtáit és az alkalmazásuk elrendelése során érvényesítendő főbb szempontokat jogszabályban kell meghatározni.
 
-[^211]: A 120. § (2) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^212]: A 120. § második (2) bekezdését az 56/2011. (IV. 12.) Korm. rendelet 2. §-a iktatta be.
-[^213]: A 120. § (3) bekezdését az 56/2011. (IV. 12.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^212]: A 120. § (2) bekezdése a 313/2010. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^213]: A 120. § második (2) bekezdését az 56/2011. (IV. 12.) Korm. rendelet 2. §-a iktatta be.
+[^214]: A 120. § (3) bekezdését az 56/2011. (IV. 12.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.
