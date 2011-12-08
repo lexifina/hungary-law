@@ -52,6 +52,6 @@
 
 | 11. | Minden esetben. | A településrendezési eszközökkel való megfelelőség vizsgálata. | építésügyi hatóság | fővárosi és megyei kormányhivatal |
 
-4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^172]
+4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^180]
 
-[^172]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^180]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a szerint módosított szöveg.
