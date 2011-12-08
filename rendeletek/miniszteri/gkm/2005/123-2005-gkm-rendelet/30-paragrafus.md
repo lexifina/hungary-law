@@ -6,8 +6,10 @@
 
 2. Illetékes külföldi kivizsgáló szerv: a légijárművet lajstromozó vagy nyilvántartó állam, valamint a légijármű üzemben tartójának, továbbá gyártó államának kivizsgáló szerve, továbbá az ICAO.
 
-3. Repülési adatrögzítő: a légijármű fedélzetére légiközlekedési baleset, súlyos repülőesemény, repülőesemény vagy rendellenesség kivizsgálásának megkönnyítése érdekében beszerelt bármilyen típusú adatrögzítő berendezés.
+3.[^83]
 
 4. ACCID: a légiközlekedési baleset (accident) azonosítására használt rövidítés.
 
 5. INCID: a súlyos repülőesemény (incident) azonosítására használt rövidítés.
+
+[^83]: A 30. § 3. pontját a 67/2011. (XI. 30.) NFM rendelet 11. §-a hatályon kívül helyezte.

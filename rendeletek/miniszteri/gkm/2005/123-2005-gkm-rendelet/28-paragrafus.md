@@ -1,13 +1,6 @@
-28. § (1) Légiközlekedési balesetnek és súlyos repülőeseménynek a Kbvt. 16. §-a, valamint e rendelet 20. §-a alapján készített zárójelentését az ICAO egyik hivatalos munkanyelvén, kérésre meg kell küldeni más állam kivizsgáló szervének is.
+28. § (1)[^72] Légiközlekedési baleset és súlyos repülőesemény zárójelentését az ICAO egyik hivatalos munkanyelvén, kérésre meg kell küldeni más állam kivizsgáló szervének is.
 
-(2) Az ICAO-nak minden év február 1-jén és július 1-jén jegyzéket kell küldeni a Szervezet által készített azon zárójelentésekről, amelyeket az előző félévben kérésre más államok kivizsgáló szerveinek a Szervezet megküldött. A jegyzéknek az alábbi információkat kell tartalmaznia:
+(2)[^73]
 
-a) az érintett üzemben tartó neve,
-
-b) a légijármű gyártója,
-
-c) az eset helyszíne és időpontja,
-
-d) az esemény fajtája,
-
-e) nyelv vagy nyelvek, amelyen a zárójelentés rendelkezésre áll.
+[^72]: A 28. § (1) bekezdése a 67/2011. (XI. 30.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^73]: A 28. § (2) bekezdését a 67/2011. (XI. 30.) NFM rendelet 11. §-a hatályon kívül helyezte.

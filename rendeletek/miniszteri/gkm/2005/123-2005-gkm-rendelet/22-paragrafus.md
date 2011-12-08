@@ -1,23 +1,32 @@
-## 21. § Ha a szakmai vizsgálat kapcsán felmerül annak gyanúja, hogy az esemény során légiközlekedés védelme elleni jogellenes cselekmény történt, a Szervezet köteles az érintett állam légiközlekedési jogellenes cselekmények elleni védelméért felelős hatóságát értesíteni.
+## 21. §[^56]
 
 ## Repülésbiztonsági szolgálat
 
-22. § (1) A légiközlekedés biztonsága érdekében a polgári légijárműveket, a repülőtereket üzemben tartó, illetve légiforgalmi szolgálatot ellátó szervezet köteles repülésbiztonsági szolgálatot fenntartani, vagy csatlakoznia kell olyan szervezethez, amely a Szervezet jóváhagyásával ezt a feladatot átvállalja.
+22. § (1)[^57]
 
-(2) A repülésbiztonsági szolgálat fő feladata:
+(2)[^58] Az Lt. 65/A. § (3) bekezdése szerinti repülésbiztonsági szolgálat
 
-a) a légiközlekedés szabályai betartásának ellenőrzése az üzemben tartó hatáskörében,
+a) a közlekedésbiztonsági szerv felhívására lefolytatja az üzembentartói vizsgálatot,
 
-b) a légiközlekedési hatósági határozatok saját hatáskörben való végrehajtásának ellenőrzése,
+b) kezeli az üzemben tartónak címzett biztonsági ajánlásokat,
 
-c) az üzemben tartó repülésbiztonsági helyzetének folyamatos figyelemmel kísérése, elemzése, értékelése,
+c) ellenőrzi a légiközlekedés szabályai betartását az üzemben tartó hatáskörében,
 
-d) a légiközlekedési balesetek, súlyos repülőesemények és repülőesemények tapasztalatai alapján megelőző intézkedések kezdeményezése,
+d) ellenőrzi a légiközlekedési hatósági határozatok végrehajtását az üzemben tartó hatáskörében,
 
-e) kapcsolattartás az illetékes szervekkel.
+e) folyamatosan figyelemmel kíséri, elemzi, értékeli az üzemben tartó repülésbiztonsági helyzetét,
 
-(3) A repülésbiztonsági szolgálat negyedéves és éves – a Szervezettel egyeztetett formai és tartalmi követelményeknek megfelelő – tájékoztatót készít, amelyet a Szervezet részére megküld a tárgyidőszakot követő 30 napon belül.
+f) a légiközlekedési balesetek, súlyos repülőesemények és repülőesemények tapasztalatai alapján megelőző intézkedéseket kezdeményez,
+
+g) kapcsolatot tart a légiközlekedési balesetek, súlyos repülőesemények és repülőesemények kapcsán eljárást folytató szervekkel.
+
+(3)[^59] A repülésbiztonsági szolgálat negyedéves és éves – a Szervezettel egyeztetett formai és tartalmi követelményeknek megfelelő – tájékoztatót készít, amelyet a közlekedésbiztonsági szerv részére megküld a tárgyidőszakot követő 30 napon belül.
 
 (4) A tájékoztató a tárgyidőszakra vonatkozó beérkezett és nyilvántartásba vett bejelentéseket és a repülési mutatókat is tartalmazza.
 
 (5) A repülésbiztonsági szolgálat tagjait az e rendelet 13. § (1) vagy (2) bekezdésében megjelölt végzettséggel, illetve repülésbiztonsági képesítéssel rendelkező személyek közül kell kijelölni.
+
+[^56]: A 21. §-t és az azt megelőző alcímet a 67/2011. (XI. 30.) NFM rendelet 11. §-a hatályon kívül helyezte.
+[^57]: A 22. § (1) bekezdését a 67/2011. (XI. 30.) NFM rendelet 11. §-a hatályon kívül helyezte.
+[^58]: A 22. § (2) bekezdése a 67/2011. (XI. 30.) NFM rendelet 4. §-ával megállapított szöveg.
+[^59]: A 22. § (3) bekezdése a 67/2011. (XI. 30.) NFM rendelet 10. §-a szerint módosított szöveg.

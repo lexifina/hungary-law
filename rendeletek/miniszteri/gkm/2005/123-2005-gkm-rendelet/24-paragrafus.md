@@ -4,7 +4,7 @@
 
 ## Értesítés
 
-24. § (1) Légiközlekedési baleset és súlyos repülőesemény bekövetkeztekor a Szervezet a lehető legkisebb késedelemmel és a rendelkezésre álló legalkalmasabb és leggyorsabb módon köteles értesíteni a lajstromozó, az üzemben tartó, a tervező, a gyártó állam balesetkivizsgáló szervét. Ha a légiközlekedési balesetben, súlyos repülőeseményben érintett légijármű engedélyezett legnagyobb felszálló tömege meghaladja a 2250 kg-ot, az ICAO-t is értesíteni kell.
+24. § (1)[^60] Légiközlekedési baleset és súlyos repülőesemény bekövetkeztekor a közlekedésbiztonsági szerv a lehető legkisebb késedelemmel és a rendelkezésre álló legalkalmasabb és leggyorsabb módon köteles értesíteni a lajstromozó, az üzemben tartó, a tervező, a gyártó állam balesetkivizsgáló szervét. Ha a légiközlekedési balesetben, súlyos repülőeseményben érintett légijármű engedélyezett legnagyobb felszálló tömege meghaladja a 2250 kg-ot, vagy a légijármű gázturbinás sugárhajtómű-meghajtású, az ICAO-t is értesíteni kell.
 
 (2) Az értesítést az ICAO valamelyik hivatalos munkanyelvén kell megküldeni. Az értesítésnek az alábbi információkat kell tartalmaznia:
 
@@ -14,7 +14,7 @@ b) a légijármű gyártója, típusa, felség- és lajstromjele és szériaszá
 
 c) a légijármű tulajdonosának, üzemben tartójának és bérlőjének neve,
 
-d) a légijármű parancsnokának neve,
+d)[^61] a légijármű parancsnokának képesítése, a személyzet és az utasok állampolgársága,
 
 e) a légiközlekedési baleset vagy súlyos repülőesemény dátuma és időpontja (feltüntetve, hogy helyi vagy UTC idő),
 
@@ -26,12 +26,20 @@ h) a személyzet és az utasok, a fedélzeten tartózkodók közül elhunytak é
 
 i) a légiközlekedési baleset vagy a súlyos repülőesemény természete és a légi jármű rongálódásának mértéke,
 
-j) annak jelzése, hogy a Szervezet folytat-e, és milyen mértékig szakmai vizsgálatot, vagy javasolja-e annak átruházását,
+j)[^62] annak jelzése, hogy a közlekedésbiztonsági szerv folytat-e, és milyen mértékig szakmai vizsgálatot, vagy javasolja-e annak átruházását,
 
-k) a légiközlekedési baleset vagy súlyos repülőesemény területének fizikai jellemzői,
+k)[^63] a légiközlekedési baleset vagy súlyos repülőesemény területének fizikai jellemzői, beleértve a helyszín megközelíthetőségének nehézségei,
 
-l) veszélyes áru jelenléte és leírása.
+l)[^64] a közlekedésbiztonsági szerv azonosító adatai, és a vizsgálóbizottság vezetőjével, valamint a közlekedésbiztonsági szervvel folyamatos kapcsolattartást lehetővé tevő elérhetőségi adatok,
 
-(3)[^21]
+m)[^65] veszélyes áru jelenléte és leírása.
 
-[^21]: A 24. § (3) bekezdését a 111/2007. (XII. 29.) GKM rendelet 2. § (3) bekezdése hatályon kívül helyezte.
+(3)[^66]
+
+[^60]: A 24. § (1) bekezdése a 67/2011. (XI. 30.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^61]: A 24. § (2) bekezdés d) pontja a 67/2011. (XI. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^62]: A 24. § (2) bekezdés j) pontja a 67/2011. (XI. 30.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^63]: A 24. § (2) bekezdés k) pontja a 67/2011. (XI. 30.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^64]: A 24. § (2) bekezdés l) pontja a 67/2011. (XI. 30.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^65]: A 24. § (2) bekezdés m) pontját a 67/2011. (XI. 30.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^66]: A 24. § (3) bekezdését a 111/2007. (XII. 29.) GKM rendelet 2. § (3) bekezdése hatályon kívül helyezte.

@@ -1,9 +1,8 @@
-## 31. §[^22] Ez a rendelet 2006. január 1-jén lép hatályba.
+## 31. §[^84] Ez a rendelet 2006. január 1-jén lép hatályba.
 
-## 32. § Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+32. §[^85] (1) Ez a rendelet a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-a) a Tanács 94/56/EK irányelve (1994. november 21.) a polgári légiközlekedési balesetek és repülőesemények vizsgálatának alapvető elveiről, 3. cikk g) pont és melléklet;
+(2) Ez a rendelet a polgári repülésben előforduló események jelentéséről szóló 2003. június 13-i 2003/42/EK európai parlamenti és tanácsi irányelv I. és II. mellékletének való megfelelést szolgálja.
 
-b) az Európai Parlament és a Tanács 2003/42/EK irányelve (2003. június 13.) a polgári repülésben előforduló események jelentéséről, I. és II. melléklet.
-
-[^22]: A 31. § a 48/2009. (IX. 30.) KHEM rendelet 42. §-a szerint módosított szöveg.
+[^84]: A 31. § a 48/2009. (IX. 30.) KHEM rendelet 42. §-a szerint módosított szöveg.
+[^85]: A 32. § a 67/2011. (XI. 30.) NFM rendelet 8. §-ával megállapított szöveg.

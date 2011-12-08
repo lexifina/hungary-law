@@ -1,11 +1,12 @@
 ## Jelentések
 
-25. § (1) A Szervezet az alábbi nemzetközi jelentéseket köteles adni a külön jogszabályban meghatározott nemzetközi szervezeteknek:
+25. § (1)[^67] A közlekedésbiztonsági szerv az alábbi nemzetközi jelentéseket köteles adni a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló törvény mellékletében megjelölt 13. Annexében meghatározott nemzetközi szervezeteknek, és az érintett államok kivizsgáló szervezeteinek:
 
 a) előzetes jelentést a légiközlekedési balesetről,
 
 b) adatjelentést a légiközlekedési balesetről vagy súlyos repülőeseményről,
 
-c) zárójelentést a légiközlekedési balesetről vagy súlyos repülőeseményről.
+(2)[^68]
 
-(2) Az előzetes jelentést és az adatjelentést a légiközlekedési balesetről vagy súlyos repülőeseményről az ICAO DOC 9156 Légiközlekedési Baleset/Repülőesemény Jelentési Kézikönyv szerint kell elkészíteni.
+[^67]: A 25. § (1) bekezdése a 67/2011. (XI. 30.) NFM rendelet 6. §-ával megállapított szöveg.
+[^68]: A 25. § (2) bekezdését a 67/2011. (XI. 30.) NFM rendelet 11. §-a hatályon kívül helyezte.
