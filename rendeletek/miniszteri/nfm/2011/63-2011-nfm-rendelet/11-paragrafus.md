@@ -1,4 +1,4 @@
-## 10. §[^1]
+## 10. §[^2]
 
 11. § (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -20,4 +20,4 @@ e) a Bizottság 19/2011/EU rendelete (2011. január 11.) gépjárművek és pót
 
 f) a Bizottság 109/2011/EU rendelete (2011. január 27.) a 661/2009/EK európai parlamenti és tanácsi rendeletnek a gépjárművek és pótkocsijaik egyes kategóriáira a felcsapódó víz elleni védőrendszerekkel összefüggésben vonatkozó típus- jóváhagyási előírások tekintetében történő végrehajtásáról.
 
-[^1]: A 10. § a 9. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^2]: A 10. § a 9. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
