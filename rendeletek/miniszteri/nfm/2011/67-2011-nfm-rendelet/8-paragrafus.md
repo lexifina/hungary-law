@@ -1,0 +1,1 @@
+## „(6) A közlekedésbiztonsági szerv az üzembentartói jelentést vagy annak kivonatát abban az esetben teszi közzé a honlapján, ha a vizsgálat tapasztalatai hozzájárulhatnak a légiközlekedés biztonságának javításához.”
