@@ -1,3 +1,0 @@
-## 1. § A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban ER.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A rendelet hatálya – a (2) bekezdésben foglalt kivétellel – a Magyar Köztársaság területén közúton vagy közforgalom elől el nem zárt magánúton (a továbbiakban együtt: közút) közlekedő gépjárműre, mezőgazdasági vontatóra, lassú járműre, ezek pótkocsijaira, valamint segédmotoros kerékpárra (a továbbiakban együtt: jármű), továbbá ezek tulajdonságaira, alkatrészeire, tartozékaira és önálló műszaki egységeire terjed ki. A munkagépre a rendelet hatálya annyiban terjed ki, amennyiben ezt az egyes rendelkezései kifejezetten előírják.”

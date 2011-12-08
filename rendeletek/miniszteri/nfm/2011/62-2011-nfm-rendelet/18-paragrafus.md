@@ -1,3 +1,5 @@
+## 17. §[^2]
+
 18. § (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Bizottság 2010/22/EU irányelve (2010. március 15.) a mezőgazdasági és erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK, 86/298/EGK, 86/415/EGK és 87/402/EGK tanácsi irányelvnek, valamint a 2000/25/EK és a 2003/37/EK európai parlamenti és tanácsi irányelvnek a műszaki fejlődéshez való hozzáigazítása céljából történő módosításáról;
@@ -21,3 +23,5 @@ f) a Bizottság 19/2011/EU rendelete (2011. január 11.) gépjárművek és pót
 g) a Bizottság 109/2011/EU rendelete (2011. január 27.) a 661/2009/EK európai parlamenti és tanácsi rendeletnek a gépjárművek és pótkocsijaik egyes kategóriáira a felcsapódó víz elleni védőrendszerekkel összefüggésben vonatkozó típus- jóváhagyási előírások tekintetében történő végrehajtásáról;
 
 h) az Európai Parlament és a Tanács 510/2011/EU rendelete ( 2011. május 11. ) az új könnyű haszongépjárművekre vonatkozó kibocsátási követelményeknek a könnyű haszongépjárművek CO2-kibocsátásának csökkentésére irányuló uniós integrált megközelítés keretében történő meghatározásáról.
+
+[^2]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
