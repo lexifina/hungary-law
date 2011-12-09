@@ -30,12 +30,12 @@ b) a kérelem benyújtását megelőző három évre vonatkozó, az átvevő sza
 
 c) az átvevő fizetőképességét igazoló pénzintézeti igazolást.
 
-(4)[^16] A bányászati jog csak a megállapított bányatelek, illetve az engedélyezett kutatási terület egésze tekintetében ruházható át.
+(4)[^16] A bányászati jog az engedélyezett kutatási terület, a megállapított bányatelek vagy a kijelölt geotermikus védőidom egészére ruházható át.
 
 (5)[^17] Ha a kérelmező a kérelemhez az átvevő egy hónapnál nem régebbi cégkivonatát nem csatolja, az MFBH – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet.
 
 [^13]: A Vhr. 3. §-ának (1) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
 [^14]: A Vhr. 3. §-ának (2) bekezdése az 57/2008. (III. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^15]: A Vhr. 3. §-ának (3) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 6. §-ának (3) bekezdése iktatta a szövegbe.
-[^16]: A Vhr. 3. §-ának (4) bekezdését az 57/2008. (III. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^16]: A Vhr. 3. §-ának (4) bekezdését az 57/2008. (III. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 251/2011. (XII. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^17]: A Vhr. 3. §-ának (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

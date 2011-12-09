@@ -1,10 +1,10 @@
-11/A. §[^69] (1)[^70]
+11/A. §[^70] (1)[^71]
 
-(2)[^71] A bányatelek megállapítására irányuló kérelemhez – a (10) bekezdésben foglaltak figyelembevételével – mellékelni kell:
+(2)[^72] A bányatelek megállapítására irányuló kérelemhez – a (10) bekezdésben foglaltak figyelembevételével – mellékelni kell:
 
-a)[^72] a megállapításra kért bányatelek egészére vonatkozóan a külön jogszabály hatálya alá tartozó tevékenység esetén
+a)[^73] ha a bányászati tevékenység a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet hatálya alá tartozik
 
-aa) azt a határozatot, amelyben a környezetvédelmi, természetvédelmi és vízügyi felügyelőség megállapította, hogy a tervezett tevékenység nem környezetvédelmi engedély- és nem egységes környezethasználati engedély-köteles, vagy
+aa) azt a határozatot, amelyben a környezetvédelmi, természetvédelmi és vízügyi felügyelőség megállapította, hogy a tervezett tevékenység nem környezetvédelmi engedély- vagy nem egységes környezethasználati engedélyköteles,
 
 ab) a környezetvédelmi engedélyt, vagy
 
@@ -16,7 +16,7 @@ ba) ingatlan-nyilvántartás szerinti tulajdonosainak (vagyonkezelőinek, haszn�
 
 bb) rendeltetésének, használati állapotának leírását;
 
-c)[^73] külfejtéses művelésre tervezett bányatelek esetében a bányatelekkel lefedni tervezett ingatlanok várható igénybevételi ütemtervét
+c)[^74] külfejtéses művelésre tervezett bányatelek esetében a bányatelekkel lefedni tervezett ingatlanok várható igénybevételi ütemtervét
 
 ca) a kitermelés megkezdésének tervezett időpontjától számított első öt évre vonatkozóan évenkénti,
 
@@ -34,7 +34,7 @@ g) a külön jogszabály szerinti bányatelek térképet;
 
 h) külfejtéses művelésre tervezett bányatelek esetében a tájrendezési előtervet.
 
-(3)[^74] A (2) bekezdés a)–d) pontok szerinti mellékleteket egy-egy, az e) pont szerinti mellékletet kettő, az f)–h) pontok szerinti mellékleteket a bányatelek megállapítási eljárásban szakhatóságként közreműködő érintett hatóságok számát kettővel meghaladó példányszámban kell benyújtani.
+(3)[^75] A (2) bekezdés a)–d) pontok szerinti mellékleteket egy-egy, az e) pont szerinti mellékletet kettő, az f)–h) pontok szerinti mellékleteket a bányatelek megállapítási eljárásban szakhatóságként közreműködő érintett hatóságok számát kettővel meghaladó példányszámban kell benyújtani.
 
 (4) A (2) bekezdés f) pontjában foglalt műszaki leírásnak tartalmaznia kell:
 
@@ -68,12 +68,12 @@ d) a kitermelési feltételek teljesíthetőségét (beleértve a kitermelt ásv
 
 (9) Ha a bányatelek határain belül a tervezett bányászati tevékenység következtében a felszín alatti vízkészletből származó állóvíz kialakulásával és a bányászat befejezését követő fennmaradásával kell számolni, úgy a külön jogszabály figyelembevételével a tájrendezési előtervben meg kell határozni az ezzel kapcsolatos előzetes vízgazdálkodási, környezet-, természet- és tájvédelmi feltételeket, amelyeket a tájrendezés, illetve a bányabezárás során figyelembe kell venni.
 
-(10)[^75] Ha a kérelmező a kérelemhez a megállapításra kért bányatelekkel érintett ingatlanok ingatlan-nyilvántartás szerinti tulajdonosainak, vagyonkezelőinek, valamint használóinak név- és címjegyzékét nem csatolja, a bányakapitányság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
+(10)[^76] Ha a kérelmező a kérelemhez a megállapításra kért bányatelekkel érintett ingatlanok ingatlan-nyilvántartás szerinti tulajdonosainak, vagyonkezelőinek, valamint használóinak név- és címjegyzékét nem csatolja, a bányakapitányság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
 
-[^69]: A Vhr. 11/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 16. §-a iktatta a szövegbe.
-[^70]: A Vhr. 11/A. §-ának (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^71]: A Vhr. 11/A. § (2) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^72]: A 11/A. § (2) bekezdésének a) pontja a 314/2005. (XII. 25.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg. E módosító rendelet 27. § (1) bekezdése alapján a rendelkezést a 2006. január 1. napját követően indult eljárásokban kell alkalmazni.
-[^73]: A Vhr. 11/A. §-a (2) bekezdésének c) pontja az 57/2008. (III. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
-[^74]: A Vhr. 11/A. §-ának (3) bekezdése az 57/2008. (III. 26.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 63. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^75]: A Vhr. 11/A. §-ának (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^70]: A Vhr. 11/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 16. §-a iktatta a szövegbe.
+[^71]: A Vhr. 11/A. §-ának (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^72]: A Vhr. 11/A. § (2) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^73]: A Vhr. 11/A. § (2) bekezdés a) pontja a 251/2011. (XII. 1. ) Korm . rendelet 10. §-ával megállapított szöveg.
+[^74]: A Vhr. 11/A. §-a (2) bekezdésének c) pontja az 57/2008. (III. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^75]: A Vhr. 11/A. §-ának (3) bekezdése az 57/2008. (III. 26.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 63. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^76]: A Vhr. 11/A. §-ának (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

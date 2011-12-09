@@ -1,8 +1,8 @@
-8. §[^50] (1)[^51] A kutatás eredményéről zárójelentést kell készíteni, amelyet földtani szakértőnek kell ellenjegyezni. A zárójelentést a bányavállalkozó a kutatás befejezésétől, de legkésőbb a kutatásra engedélyezett időtartam lejártától számított 6 hónapon belül 2 példányban köteles a bányakapitányságnak benyújtani.
+8. §[^48] (1)[^49] A kutatás eredményéről zárójelentést kell készíteni, amelyet földtani szakértőnek kell ellenjegyezni. A zárójelentést a bányavállalkozó a kutatás befejezésétől, de legkésőbb a kutatásra engedélyezett időtartam lejártától számított 6 hónapon belül 2 példányban köteles a bányakapitányságnak benyújtani.
 
 (2) A kutatási zárójelentésnek tartalmaznia kell:
 
-a)[^52] a kutatásra jogosult megnevezését, a kutatási jogot adományozó és a kutatás műszaki üzemi tervét jóváhagyó határozat számát, vásárolt adatok esetén a zárójelentés benyújtójának az adatfelhasználására jogosító igazolást;
+a)[^50] a kutatásra jogosult megnevezését, a kutatási jogot adományozó és a kutatás műszaki üzemi tervét jóváhagyó határozat számát, vásárolt adatok esetén a zárójelentés benyújtójának az adatfelhasználására jogosító igazolást;
 
 b) a kutatás célját és a kivitelezők megnevezését;
 
@@ -12,7 +12,7 @@ d) az elvégzett felszíni és felszín alatti kutatásokat, azok módszereit é
 
 e) a nyersanyaglelőhely és környezete teleptani, tektonikai, hidrogeológiai viszonyait;
 
-f)[^53] a kutatással megismert ásványi nyersanyag(ok) meghatározását és minőségi jellemzését, az ásványvagyon minőségi kategóriánkénti mennyiségi meghatározását és ennek megbízhatóságát. Az ásványvagyon minősítését ásványi nyersanyagonként – a kutatási műszaki üzemi tervben előírt vizsgálatok eredményei alapján – a legmagasabb fajlagos értékűtől a kevésbé értékes nyersanyag felé haladva kell elvégezni.
+f)[^51] a kutatással megismert ásványi nyersanyag(ok) meghatározását és minőségi jellemzését, az ásványvagyon minőségi kategóriánkénti mennyiségi meghatározását és ennek megbízhatóságát. Az ásványvagyon minősítését ásványi nyersanyagonként – a kutatási műszaki üzemi tervben előírt vizsgálatok eredményei alapján – a legmagasabb fajlagos értékűtől a kevésbé értékes nyersanyag felé haladva kell elvégezni.
 
 g) a kutatás során kitermelt ásványi nyersanyag mennyiségi és minőségi adatait;
 
@@ -28,9 +28,9 @@ c) a kutatási terület topográfiai térképét a kutató létesítmények felt
 
 d) a jóváhagyott kutatási műszaki üzemi terv végrehajtásáról, továbbá a kutatás műszaki üzemi tervét jóváhagyó határozatban [6/C. § (4) bekezdés] vagy a koncessziós szerződésben [Bt. 10. § (2) bekezdés c) és g) pont], valamint a 7. § (3) bekezdésben előírt kötelezettségek teljesítéséről készített összefoglalót.
 
-(4)[^54] A kutatási zárójelentést a bányakapitányság akkor fogadja el, ha azt földtani szakértő ellenjegyezte, továbbá a kutatási zárójelentés kielégíti a (2) bekezdésben foglaltakat és csatolták a (3) bekezdésben előírt mellékleteket.
+(4)[^52] A kutatási zárójelentést a bányakapitányság akkor fogadja el, ha azt földtani szakértő ellenjegyezte, továbbá a kutatási zárójelentés kielégíti a (2) bekezdésben foglaltakat és csatolták a (3) bekezdésben előírt mellékleteket.
 
-(5)[^55] A kutatási zárójelentés elfogadásáról hozott határozatnak tartalmaznia kell:
+(5)[^53] A kutatási zárójelentés elfogadásáról hozott határozatnak tartalmaznia kell:
 
 a) a kutatási terület közigazgatási megjelölését és sarokpontjainak EOV koordinátáit;
 
@@ -38,12 +38,12 @@ b) a kutatás során – az előírt vizsgálatok eredményei alapján – minő
 
 c) azon ásványi nyersanyagok megnevezését, besorolási kódját és vagyonszámítási adatait, amelyeket az Országos Ásványvagyon Nyilvántartásba – a jóváhagyást követő ásványvagyon mérleg készítése során – fel kell venni.
 
-(6)[^56] A Bt. 26/A. § (2) bekezdés b) pontja szerinti, archív adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett felszíni előkutatás adatai alapján elkészített készletszámítási jelentés szakmai tartalmának meg kell felelnie a (2) és (3) bekezdésben meghatározott szakmai és mellékleti követelményeknek. A készletszámítási jelentést földtani szakértőnek kell ellenjegyeznie.
+(6)[^54] A Bt. 26/A. § (2) bekezdés b) pontja szerinti, archív adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett felszíni előkutatás adatai alapján elkészített készletszámítási jelentés szakmai tartalmának meg kell felelnie a (2) és (3) bekezdésben meghatározott szakmai és mellékleti követelményeknek. A készletszámítási jelentést földtani szakértőnek kell ellenjegyeznie.
 
-[^50]: A Vhr. 8. §-a a 106/2005. (VI. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^51]: A Vhr. 8. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147–148. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^52]: A Vhr. 8. §-a (2) bekezdésének a) pontja a 268/2006. (XII. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^53]: A Vhr. 8. §-a (2) bekezdésének f) pontja az 57/2008. (III. 26.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
-[^54]: A Vhr. 8. §-ának (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^55]: A Vhr. 8. §-ának (5) bekezdése az 57/2008. (III. 26.) Korm. rendelet 7. § (2) bekezdésével megállapított, bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^56]: A Vhr. 8. §-ának (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 148. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^48]: A Vhr. 8. §-a a 106/2005. (VI. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^49]: A Vhr. 8. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147–148. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^50]: A Vhr. 8. §-a (2) bekezdésének a) pontja a 268/2006. (XII. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^51]: A Vhr. 8. §-a (2) bekezdésének f) pontja az 57/2008. (III. 26.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^52]: A Vhr. 8. §-ának (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^53]: A Vhr. 8. §-ának (5) bekezdése az 57/2008. (III. 26.) Korm. rendelet 7. § (2) bekezdésével megállapított, bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^54]: A Vhr. 8. §-ának (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 148. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

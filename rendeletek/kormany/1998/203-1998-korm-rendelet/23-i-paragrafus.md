@@ -1,3 +1,3 @@
-23/I. §[^147] Használati jog alapításában az engedélyesnek és az ingatlantulajdonosnak kell megállapodnia. Megállapodás hiányában a használati jog alapítását az engedélyes a bányafelügyelettől kérheti. A használati jog alapítására a 23/D–23/H. §-okban foglaltakat értelemszerűen kell alkalmazni, egyebekben Ptk. 108. §-a és 171. §-a az irányadó. Nem kell használati jogot alapítani, ha a létesítmény elosztóvezeték részeként közterületen kerül elhelyezésre.
+23/I. §[^153] Használati jog alapításában az engedélyesnek és az ingatlantulajdonosnak kell megállapodnia. Megállapodás hiányában az engedélyes a használati jog alapítása iránt kérelmet nyújthat be a bányafelügyelethez. A használati jog alapítására a 23/D–23/H. §-okban foglaltakat alkalmazni kell, egyebekben a Ptk. 108. §-ának és 171. §-ának a rendelkezését kell alkalmazni.
 
-[^147]: A Vhr. 23/I. §-át a 282/2003. (XII. 29.) Korm. rendelet 16. §-a iktatta a szövegbe.
+[^153]: A Vhr. 23/I. §-át a 282/2003. (XII. 29.) Korm. rendelet 16. §-a iktatta be, szövege a 251/2011. (XII. 1.) Korm. rendelet 18. §-ával megállapított szöveg.

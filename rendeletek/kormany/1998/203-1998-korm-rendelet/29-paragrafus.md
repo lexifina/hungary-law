@@ -1,9 +1,9 @@
-29. § (1)–(3)[^170]
+29. § (1)–(3)[^178]
 
-(4)[^171] A Bt. hatálya alá tartozó koncessziós tevékenységek gyakorlásával összefüggésben szükséges hatósági engedély megadásának feltételeit az érdekelt közigazgatási szervekkel – a Bt. 9. § (3) bekezdése szerinti vizsgálatok eredményeire támaszkodva – a pályázat kiírása előtt az MBFH egyezteti.
+(4)[^179] A Bt. hatálya alá tartozó koncessziós tevékenységek gyakorlásával összefüggésben szükséges hatósági engedély megadásának feltételeit az érdekelt közigazgatási szervekkel – a Bt. 9. § (3) bekezdése szerinti vizsgálatok eredményeire támaszkodva – a pályázat kiírása előtt az MBFH egyezteti.
 
-(5)[^172] A Bt. 23., 27., 30., 36. és 42. §-aiban előírt műszaki terveket a bányaüzem felelős műszaki vezetőjének ellen kell jegyeznie.
+(5)[^180] A Bt. 23., 27., 30., 36. és 42. §-aiban előírt műszaki terveket a bányaüzem felelős műszaki vezetőjének ellen kell jegyeznie.
 
-[^170]: A Vhr. 29. §-ának (1)–(3) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
-[^171]: A Vhr. 29. §-ának (4) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^172]: A Vhr. 29. §-ának (5) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 20. §-ának (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^178]: A Vhr. 29. §-ának (1)–(3) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^179]: A Vhr. 29. §-ának (4) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^180]: A Vhr. 29. §-ának (5) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 20. §-ának (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

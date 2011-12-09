@@ -1,6 +1,6 @@
 ## (A Bt. 30. §-ához)
 
-17. § (1)[^98] Szüneteltetésre vonatkozó műszaki üzemi terv legfeljebb 3 évi időtartamra hagyható jóvá. A szüneteltetési műszaki üzemi tervet a hatályos műszaki üzemi terv engedélyezett időtartamán belül, a tervezett szüneteltetés megkezdését megelőzően legalább 60 nappal kell a bányakapitánysághoz benyújtani.
+17. § (1)[^97] Szüneteltetésre vonatkozó műszaki üzemi terv legfeljebb 3 évi időtartamra hagyható jóvá. A szüneteltetési műszaki üzemi tervet a hatályos műszaki üzemi terv engedélyezett időtartamán belül, a tervezett szüneteltetés megkezdését megelőzően legalább 60 nappal kell a bányakapitánysághoz benyújtani.
 
 (2) A szüneteltetésre kidolgozott műszaki üzemi tervnek tartalmaznia kell
 
@@ -20,14 +20,14 @@ g) a szüneteltetés időszakában felhagyásra tervezett egyes bányatérségek
 
 h) a művelés újbóli megindításának feltételeit;
 
-i) a külön jogszabály[^99] szerinti térképeket.
+i) a külön jogszabály[^98] szerinti térképeket.
 
 (3) A szüneteltetés után a művelés újraindítása csak az erre kidolgozott és jóváhagyott műszaki üzemi terv alapján kezdhető meg.
 
-(4)[^100] A kitermelésnek a Bt. 30. § (5) bekezdése alapján, kérelemre történő szüneteltetése esetén a kiesett bányajáradék pótlására a bányavállalkozó által fizetendő éves díj mértéke, legfeljebb a szünetelést megelőző kitermelési műszaki üzemi tervben az utolsó évre jóváhagyott kitermelési mennyiség értéke után a Bt. 20. §-a szabályai szerint meghatározott bányajáradék mérték 30%-a lehet.
+(4)[^99] A kitermelésnek a Bt. 30. § (5) bekezdése alapján, kérelemre történő szüneteltetése esetén a kiesett bányajáradék pótlására a bányavállalkozó által fizetendő éves díj mértéke, legfeljebb a szünetelést megelőző kitermelési műszaki üzemi tervben az utolsó évre jóváhagyott kitermelési mennyiség értéke után a Bt. 20. §-a szabályai szerint meghatározott bányajáradék mérték 30%-a lehet.
 
 (5) A kőolaj- és földgázbányászatban az ipari készlet elsődleges és másodlagos eljárásokkal történő művelését követően a növelt hatékonyságú művelési eljárás vagy mezőfelszámolás megkezdéséig, de legfeljebb 3 évig a szüneteltetés miatt a bányajáradék pótlására díjfizetés nem állapítható meg.
 
-[^98]: A Vhr. 17. §-ának (1) bekezdése az 57/2008. (III. 26.) Korm. rendelet 13. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^99]: 69/1995. (XII. 26.) IKM rendelet.
-[^100]: A Vhr. 17. §-ának (4) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^97]: A Vhr. 17. §-ának (1) bekezdése az 57/2008. (III. 26.) Korm. rendelet 13. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^98]: 69/1995. (XII. 26.) IKM rendelet.
+[^99]: A Vhr. 17. §-ának (4) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 23. §-ával megállapított szöveg.

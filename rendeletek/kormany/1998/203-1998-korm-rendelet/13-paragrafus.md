@@ -1,14 +1,14 @@
 ## (A Bt. 27. §-ához)
 
-13. §[^89] (1) A műszaki üzemi terv a bányaüzem tervezett bányászati tevékenységét határozza meg. A terv szöveges részből és tervtérképből áll.
+13. §[^88] (1) A műszaki üzemi terv a bányaüzem tervezett bányászati tevékenységét határozza meg. A terv szöveges részből és tervtérképből áll.
 
-(2)[^90] A műszaki üzemi terv jóváhagyása iránti kérelemhez – a (8) bekezdésben foglaltak figyelembevételével – mellékelni kell a műszaki üzemi tervben meghatározott bányászati tevékenységekkel, vagy tervezett létesítményekkel érintett ingatlanokra vonatkozóan a bányavállalkozó igénybevételi jogosultságának igazolását, amely lehet
+(2)[^89] A bányavállalkozónak a műszaki üzemi tervben meghatározott bányászati tevékenységgel, vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságának igazolása céljából a műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelnie kell
 
-a) a bányavállalkozó tulajdonát igazoló tulajdoni lap 3 hónapnál nem régebbi hiteles másolata,
+a) az ingatlan tulajdonosával vagy vagyonkezelőjével megkötött, ügyvéd vagy jogtanácsos által ellenjegyzett, az ingatlan bányászati tevékenység céljából való igénybevételére vonatkozó megállapodást,
 
-b) az ingatlan tulajdonosával (vagyonkezelőjével, használójával) megkötött, ügyvéd (jogtanácsos) által ellenjegyzett megállapodás,
+b) az ingatlan tulajdonosának vagy vagyonkezelőjének ügyvéd vagy jogtanácsos által ellenjegyzett, az ingatlan bányászati tevékenység céljából való igénybevételére vonatkozó hozzájáruló nyilatkozatát, vagy
 
-c) az igénybevételi jogosultságot igazoló jogerős hatósági határozat vagy bírósági ítélet.
+c) a jogosultságot megállapító jogerős hatósági határozatot vagy bírósági ítéletet.
 
 (3) A bányaüzemi kutatásra, feltárásra, kitermelésre, illetve meddőhányó hasznosítására, az ezekkel egyidőben vagy ezek befejeztével végzett tájrendezésre vonatkozó műszaki üzemi terv szöveges része tartalmazza
 
@@ -58,8 +58,8 @@ l) az esetleges régészeti feltárás ütemezését, módszerét, a feltárást
 
 (7) A tervtérkép tartalmi követelményeit a miniszter bányabiztonsági szabályzatban állapítja meg.
 
-(8)[^91] Ha a bányavállalkozó a tulajdonjogát igazoló tulajdoni lap 3 hónapnál nem régebbi hiteles másolatát a kérelemhez nem csatolja, a bányakapitányság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
+(8)[^90]
 
-[^89]: A Vhr. 13. §-a a 106/2005. (VI. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^90]: A Vhr. 13. § (2) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^91]: A Vhr. 13. §-ának (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 146. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^88]: A Vhr. 13. §-a a 106/2005. (VI. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^89]: A Vhr. 13. § (2) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^90]: A Vhr. 13. § (8) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte.

@@ -1,7 +1,19 @@
 ## (A Bt. 23. §-ához)
 
-9. § (1) Az ásványi nyersanyagok feltárása során végzett szilárd ásványi nyersanyag-kitermelés megkezdését, várható mennyiségi és minőségi adatait a bányavállalkozó a kitermelés megkezdése előtt legalább 8 nappal köteles a bányakapitányságnak írásban bejelenteni. Szénhidrogén esetében az adatszolgáltatási és bejelentési kötelezettséget a kitermelés megkezdésétől számított 8 napon belül kell teljesíteni.
+9. §[^55] (1) A bányavállalkozó az ásványi nyersanyagok feltárása során végzett szilárd ásványi nyersanyag-kitermelés megkezdését, valamint az ásványi nyersanyag-kitermelésre vonatkozó tervezett mennyiségi és minőségi adatait, a kitermelés megkezdése előtt legalább 8 nappal köteles a bányafelügyeletnek írásban bejelenteni.
 
-(2)[^57] A bányavállalkozó és a külön jogszabályban előírt építési, talajvédelmi, illetőleg vízügyi hatósági engedély alapján végzett tevékenysége során ásványi nyersanyagot kitermelő engedélyes az adott évben kitermelt ásványi nyersanyag(ok) mennyiségét és minőségét köteles a bányafelügyeletnek a tárgyévet követő év február 28-ig bejelenteni. Külfejtés esetében a bányafelügyeletnek adott jelentésnek anyagmérleget [a teljes kitermelt anyag mennyiségét, ebből: haszonanyag és meddőanyag tájrendezésre felhasznált, hasznosított (értékesített), illetve meddőhányóra került mennyiségét, a humuszos feltalaj mentett, illetve tájrendezésre felhasznált, valamint más célra hasznosított mennyiségét] is tartalmaznia kell. Az anyagmérlegnek a humuszos feltalajra vonatkozó adatait a bányafelügyelet a tárgyévet követő év április 30-ig megküldi a talajvédelmi hatóságnak.
+(2) Kőolaj és földgáz ásványi nyersanyag, továbbá a 30 °C-ot elérő vagy azt meghaladó hőmérsékletű energiahordozóból kinyert geotermikus energia esetében az (1) bekezdés szerinti adatszolgáltatási és bejelentési kötelezettséget a kitermelés megkezdésétől számított 8 napon belül kell teljesíteni.
 
-[^57]: A Vhr. 9. §-ának (2) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 14. §-ával megállapított, a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(3) A bányavállalkozó, valamint az építési, talajvédelmi vagy vízjogi engedély alapján végzett tevékenysége során ásványi nyersanyagot kitermelő engedélyes, az adott évben kitermelt ásványi nyersanyag mennyiségét és minőségét köteles a tárgyévet követő év február 28-ig a bányafelügyeletnek bejelenteni.
+
+(4) Külfejtéses bányaművelés esetében a jelentéshez anyagmérleget kell mellékelni. Az anyagmérleg tartalmazza:
+
+a) a haszonanyag és meddőanyag tájrendezésre felhasznált, hasznosított vagy értékesített és meddőhányóra került mennyiségét, valamint
+
+b) a humuszos feltalaj mentett vagy tájrendezésre felhasznált, továbbá a más célra hasznosított mennyiségét.
+
+(5) A bányafelügyelet az anyagmérleg humuszos feltalajra vonatkozó adatait április 30-ig megküldi a talajvédelmi hatóságnak.
+
+(6) A 30 °C-ot elérő vagy azt meghaladó hőmérsékletű energiahordozó esetében, a geotermikus energiát koncessziós szerződés, a bányafelügyelet által kiadott engedély vagy vízjogi engedély alapján kinyerő és hasznosító bányavállalkozó, az általa kinyert és a kinyert mennyiségből hasznosított geotermikus energia mennyiségét a bányafelügyeletnek a tárgyévet követő év február 28-ig köteles bejelenteni.
+
+[^55]: A Vhr. 9. §-a a 251/2011. (XII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.

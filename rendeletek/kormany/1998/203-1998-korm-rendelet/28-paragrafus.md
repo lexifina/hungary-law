@@ -1,4 +1,4 @@
-28. § (1)[^168] A bányafelügyelet tűzvédelmi hatósági jogköre a következőkre terjed ki:
+28. § (1)[^176] A bányafelügyelet tűzvédelmi hatósági jogköre a következőkre terjed ki:
 
 a) ásványi nyersanyag feltárása, kitermelése céljából bányászati technológiával kialakított föld alatti bányatérség, valamint a felhagyott bányák nyitvamaradó térségei;
 
@@ -20,7 +20,7 @@ h) kőolaj-, kőolajtermék- és gázszállító vezetékek és ezek tartozékai
 
 (3) A bányák föld feletti létesítményeinek tűzvédelmi ellenőrzésére a bányakapitányságot meg kell hívni.
 
-(4)[^169]
+(4)[^177]
 
-[^168]: A Vhr. 28. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^169]: A Vhr. 28. §-ának (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^176]: A Vhr. 28. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^177]: A Vhr. 28. §-ának (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
