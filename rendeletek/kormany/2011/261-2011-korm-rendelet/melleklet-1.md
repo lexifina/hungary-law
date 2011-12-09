@@ -1,3 +1,5 @@
+## 41. §[^5]
+
 1. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
 
 ## Részleges felmentést adó képesítések a szakmai irányítói képesítés megszerzéséhez szükséges egyes vizsgatárgyakra vonatkozó vizsgakötelezettség alól
@@ -121,3 +123,5 @@ o) közlekedés-üzemviteli, gépjárműüzemi technikus.
 6. Vámismeretek:
 
 – közép- vagy felsőfokú vámügyintézői szakképesítés.
+
+[^5]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
