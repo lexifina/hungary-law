@@ -34,56 +34,6 @@
 
 ## c) a hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekekkel és tanulókkal összefüggő statisztikai adatokat.”
 
-4. melléklet a 258/2011. (XII. 7.) Korm. rendelethez
+4. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^47]
 
-1. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1/A. mellékletében a Miskolc ellátási illetékességi területéhez és készenléti illetékességi területéhez tartozó települések felsorolása helyébe a következő szöveg lép:
-
-|  | „Miskolc | ellátási illetékességi területe | Miskolc |
-
-|  |  |  | Bükkszentkereszt |
-
-|  |  |  | Kistokaj |
-
-|  |  |  | Mályi |
-
-|  |  |  | Répáshuta |
-
-|  |  |  | Sajóecseg |
-
-|  |  |  | Sajókeresztúr |
-
-|  |  |  | Sajóvámos |
-
-|  |  |  | Szirmabesenyő |
-
-|  |  | készenléti illetékességi területe | Alsózsolca |
-
-|  |  |  | Bőcs |
-
-|  |  |  | Gesztely |
-
-|  |  |  | Hernádkak |
-
-|  |  |  | Hernádnémeti |
-
-|  |  |  | Onga |
-
-|  |  |  | Sajóbábony |
-
-|  |  |  | Sajósenye” |
-
-2. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1/A. mellékletében az Aszód ellátási illetékességi területéhez és készenléti illetékességi területéhez tartozó települések felsorolása helyébe a következő szöveg lép:
-
-|  | „Aszód | ellátási illetékességi területe | Aszód |
-
-|  |  |  | Bag |
-
-|  |  |  | Domony |
-
-|  |  |  | Hévízgyörk |
-
-|  |  |  | Iklad |
-
-|  |  |  | Kartal |
-
-|  |  |  | Verseg” |
+[^47]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
