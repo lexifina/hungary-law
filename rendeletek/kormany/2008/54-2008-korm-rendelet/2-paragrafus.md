@@ -14,6 +14,35 @@ Az engedélyes köteles a nyersanyag-kitermelés befejezését követő 60 napon
 
 (3) A bányavállalkozó a kitermelt ásványi nyersanyag mennyiségét bányamérési (geodéziai) módszerekkel köteles meghatározni. Mélyműveléses bányaüzem esetén a kitermelt mennyiség meghatározása tömegméréssel is történhet. A változást a bányaművelési térképen fel kell tüntetni. Az ásványi nyersanyag tárgyévre vonatkozó mennyiségi változását geodéziai felmérésen alapuló számítással (térfogatszámítás) meg kell határozni. A meghatározás eredményét bizonylatolni kell.
 
-(4)[^1] A bányajáradék önbevallásokat a 2. melléklet szerinti nyomtatványon kell benyújtani.
+(4)[^1] A szilárd ásványi nyersanyagra vonatkozó bányajáradék önbevallás tartalmazza:
 
-[^1]: A 2. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 615. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+a) a bányavállalkozó nevét, címét és MBFH azonosító számát,
+
+b) a bevallási időszakot,
+
+c) a bányavállalkozó pénzforgalmi jelzőszámát,
+
+d) a kitermelőhely megnevezését,
+
+e) a bányászati mód kódját,
+
+f) az ásványi nyersanyag megnevezését,
+
+g) az ásványi nyersanyag kódját,
+
+h) a kitermelt mennyiséget m3-ben,
+
+i) az 1/a. melléklet szerinti fajlagos értéket,
+
+j) a bányajáradék vetítési alapját ezer forintra kerekítve,
+
+k) a bányajáradék százalékát, valamint
+
+l) a bányajáradék értékét ezer forintra kerekítve, és
+
+m) a bányavállalkozó aláírását és bélyegzőlenyomatát.
+
+(5)[^2] A (4) bekezdés j) pontjában előírt bányajáradék vetítési alapját a 2. melléklet 1. pontja szerint kell megállapítani.
+
+[^1]: A 2. § (4) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^2]: A 2. § (5) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 26. §-a iktatta be.

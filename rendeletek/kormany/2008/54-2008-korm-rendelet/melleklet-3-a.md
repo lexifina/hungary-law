@@ -1,65 +1,89 @@
-## Adatlap beérkezési időpontja:
+## A bányajáradék önbevallásban szereplő egyes adatok meghatározásának a módja
 
-## (Az MBFH tölti ki.)
+## 1. Szilárd ásványi nyersanyagra vonatkozó bányajáradék önbevallás.
 
-## MAGYAR BÁNYÁSZATI ÉS FÖLDTANI HIVATAL
+## 1.1. A 2. § (4) bekezdés j) pontjában előírt bányajáradék vetítési alapját a következő képlet alapján kell megállapítani:
 
-## BÁNYAJÁRADÉK ÖNBEVALLÁS
+|  | bányajáradék vetítési alapja = | kitermelt mennyiség (m3) × fajlagos érték (Ft/m3) |
 
-## szilárd ásványi nyersanyag
+|  |  | 1000 |
 
-| 1. Vállalkozó megnevezése: | 2. |  |
+## 2. Geotermikus energiára vonatkozó bányajáradék önbevallás.
 
-|  | Vállalkozó |  |
+## 2.1. A 3. § (3) bekezdés e) pontjában és az (5) bekezdés e) pontjában előírt t/2 °C értéket a következő képlet alapján kell megállapítani:
 
-| 3. Címe:⬜⬜⬜⬜ | MBFH azonosító | 5. Bevallási ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜naptól |
+|  | t/2 °C = | kútfejen mért hőmérséklet (°C) – a hőcserélő kimenetén mért hőmérséklet (°C) |
 
-|  | száma: | időszak ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ napig |
+|  |  | 2 |
 
-|  | ⬜⬜⬜⬜ |  |
+## 2.2. A 3. § (3) bekezdés f) pontjában és az (5) bekezdés g) pontjában előírt kinyert energia mennyiséget a következő képlet alapján kell megállapítani:
 
-| 4. Pénzforgalmi jelzőszám: ⬜⬜⬜⬜⬜⬜⬜⬜- ⬜⬜⬜⬜⬜⬜⬜⬜- ⬜⬜⬜⬜⬜⬜⬜⬜ |
+## kinyert energia mennyisége (GJ) = az energiahordozó térfogata (m3) × t/2 (°C) × 0,004186
 
-|  |  | Ásványi nyersanyag |  |  |  |  |  |
+## 2.3. A 3. § (3) bekezdés h) pontjában és az (5) bekezdés i) pontjában szereplő bányajáradék vetítési alapot a következő képlet alapján kell megállapítani:
 
-| Kitermelőhely megnevezése | Bányászati mód kódja | megnevezése | kódja | Kitermelt mennyiség (m3) | Fajlagos érték (Ft/m3) | Bányajáradék vetítési alapja (E Ft) | Bányajáradék % | Bányajáradék értéke (E Ft) |
+|  | bányajáradék vetítési alapja = | kinyert energia mennyisége (GJ) × fajlagos érték (Ft/GJ) |
 
-| 6. | 7. | 8. | 9. | 10. | 11. | 12.=10.×11./1000 | 13. | 14.=12.×13./100 |
+|  |  | 1000 |
 
-| Összesen: |  |  |  |  |  |  |  |  |
+## 2.4. A 3. § (5) bekezdés f) pontjában előírt fajhő értékét a GJ/m3 × °C képlettel kell megállapítani.
 
-| 15. | Név, telefonszám: |
+## 3. Nem növelt hatékonyságú eljárással kitermelt kőolajra vonatkozó bányajáradék önbevallás.
 
-| 16. | Dátum: ⬜⬜⬜⬜év ⬜⬜ hó ⬜⬜ nap |
+## 3.1. A 4. § (4) bekezdés b) pontjában előírt bányajáradék vetítési alapot a következő képlettel kell megállapítani:
 
-## P. H.
+|  |  | bányajáradék vetítési alapja = | kitermelt mennyiség (t) x fajlagos érték (Ft/t) |
 
-## .....................................……......
+|  |  | 1000 |
 
-## aláírás
+## 3.2. A 4. § (4) bekezdés d) pontjában előírt bányajáradék értéket a következő képlettel kell meghatározni:
 
-## Kitöltési segédlet
+|  | bányajáradék értéke = | bányajáradék vetítési alapja × bányajáradék %-ban |
 
-## „Bányajáradék önbevallás szilárd ásványi nyersanyag” nyomtatványhoz
+|  |  | 100 |
 
-| 1. | (6. oszlophoz) | Bányatelek védnév, vagy egyéb hatósági engedélyben meghatározott kitermelőhely. |
+## 4. A földalatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz kitermelése,, valamint az 1998. január 1. után termelésbe állított mezőkön kitermelt földgáz esetében a szénhidrogén földgázra vonatkozó bányajáradék önbevallás.
 
-| 2. | (7. oszlophoz) | Bányászati mód kódja: |
+## 4.1. Az 5. § (4) bekezdés b) pontjában előírt bányajáradék vetítési alapot a következő képlettel kell megállapítani:
 
-|  |  | külfejtés: 1 |
+|  | bányajáradék vetítési alapja = | kitermelt mennyiség (GJ) × fajlagos érték (Ft/GJ) |
 
-|  |  | mélyművelés: 2 |
+|  |  | 1000 |
 
-| 3. | (8. és 9. oszlophoz) | Az ásványi nyersanyag megnevezése, kódja: az e rendelet 1/a. számú mellékletében meghatározott megnevezés és kód. |
+## 4.2. Az 5. § (4) bekezdés d) pontjában előírt bányajáradék értéket a következő képlettel kell megállapítani:
 
-| 4. | (10. oszlophoz) | Kitermelt mennyiség: a 203/1998. (XII. 19.) Korm. rendelet 4. §-ának (1) bekezdése szerint meghatározott mennyiség. |
+|  | bányajáradék értéke = | bányajáradék vetítési alapja × bányajáradék %-ban |
 
-| 5. | (11. oszlophoz) | Fajlagos érték: az e rendelet 1/a. számú mellékletében meghatározott érték. |
+|  |  | 100 |
 
-| 6. | (13. oszlophoz) | Bányajáradék %: a Bt. 20. §-a (3) bekezdésének c), d), e) pontja szerinti, vagy a koncessziós szerződésben meghatározott százalék. |
+## 5. Az 1998. január 1. előtt termelésbe állított mezőkön kitermelt földgáz – kivéve a föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz – esetében szénhidrogén földgázra vonatkozóan a bányajáradék önbevallás.
 
-| 7. | (14. oszlophoz) | A bevallandó bányajáradékot ezer forintra kerekítve kell megadni. |
+## 5.1. A 6. § (4) bekezdés b) pontjában előírt bányajáradék vetítési alapot a következő képlettel kell megállapítani:
 
-3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^9]
+|  | bányajáradék vetítési alapja = | kitermelt mennyiség (GJ) × fajlagos érték (Ft/GJ) |
 
-[^9]: A 3/a. melléklet a 182/2009. (IX. 10.) Korm. rendelet 616. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+|  |  | 1000 |
+
+## 5.2. A 6. § (4) bekezdés d) pontjában előírt bányajáradék értéket a következő képlettel kell meghatározni:
+
+|  | bányajáradék értéke = | bányajáradék vetítési alapja × bányajáradék %-ban |
+
+|  |  | 100 |
+
+## 6. Széndioxid földgázra vonatkozó bányajáradék önbevallás.
+
+## 6.1. A 7. § (3) bekezdés d) pontjában előírt bányajáradék vetítési alapot a következő képlet alapján kell megállapítani:
+
+|  | bányajáradék vetítési alapja = | kitermelt mennyiség (Em3) × fajlagos érték (Ft/Em3) |
+
+|  |  | 1000 |
+
+## 6.2. A 7. § (3) bekezdés f) pontjában előírta bányajáradék értéket a következő képlettel kell megállapítani:
+
+|  | bányajáradék értéke = | bányajáradék vetítési alapja × bányajáradék %-ban |
+
+|  |  | 100 |
+
+3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^23]
+
+[^23]: A 3/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.

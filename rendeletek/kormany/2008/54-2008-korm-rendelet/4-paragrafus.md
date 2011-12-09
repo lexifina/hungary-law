@@ -6,6 +6,30 @@ b) a fizetendő bányajáradék hatósági engedély alapján végzett kitermel�
 
 (2) A bányavállalkozó köteles a kitermelt kőolaj mennyiségét (t és m3) meghatározni és bizonylatolni.
 
-(3)[^3] A bányajáradék önbevallásokat a 4/a. és a 4/b. melléklet szerinti nyomtatványon kell benyújtani.
+(3)[^7] Növelt hatékonyságú eljárással kitermelt kőolajra vonatkozó bányajáradék önbevallás tartalmazza:
 
-[^3]: A 4. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 615. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+a) a 2. § (4) bekezdés a)–d) és m) pontjában meghatározott adatokat, valamint
+
+b) a kitermelt mennyiséget tonnában és m3-ben.
+
+(4)[^8] A nem növelt hatékonyságú eljárással kitermelt kőolajra vonatkozó bányajáradék önbevallás a (3) bekezdésben meghatározott adatokon felül tartalmazza:
+
+a) az 1/b. melléklet szerinti fajlagos értéket,
+
+b) a bányajáradék vetítési alapját ezer forintra kerekítve,
+
+c) a bányajáradékot %-ban, és
+
+d) a bányajáradék értékét ezer forintra kerekítve.
+
+(5)[^9] A (4) bekezdés
+
+a) b) pontjában előírt bányajáradék vetítési alapot a 2. melléklet 3.1. pontja, és
+
+b) d) pontjában előírt bányajáradék értéket a 2. melléklet 3.2. pontja
+
+szerint kell megállapítani.
+
+[^7]: A 4. § (3) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^8]: A 4. § (4) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 28. §-a iktatta be.
+[^9]: A 4. § (5) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 28. §-a iktatta be.
