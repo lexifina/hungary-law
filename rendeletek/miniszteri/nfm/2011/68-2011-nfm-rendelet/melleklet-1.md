@@ -1,4 +1,4 @@
-## 19. § Hatályát veszti a légiközlekedést szolgáló légiforgalmi földi berendezések engedélyezési eljárásairól és hatósági felügyeletéről szóló 38/2001. (XI. 14.) KöViM rendelet.
+## 19. §[^1]
 
 1. melléklet a 68/2011. (XI. 30.) NFM rendelethez
 
@@ -15,3 +15,5 @@
 5. Légiforgalmi szimulátor, amelyet légiforgalmi irányító előzetes munkahelyi gyakorlati képzés során (pre-OJT) alkalmaznak.
 
 6. Repülőgép bevezető rendszer (VDGS).
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
