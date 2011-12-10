@@ -43,3 +43,7 @@ b) hasznosító vállalkozás: költségvetési kutatóhelyen – a 20. § alkal
 b) projekt: meghatározott kutatás-fejlesztési feladat, technológiai innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján;
 
 9. civil szervezet: az egyesülési jogról szóló 1989. évi II. törvény alapján létrejött társadalmi szervezet, szövetség (kivéve a pártot, a munkaadói és munkavállalói érdekképviseleti szervezetet, a biztosító egyesületet, valamint az egyházat) és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény alapján létrejött alapítvány (ide nem értve a közalapítványt).
+
+11. a) szellemi tulajdon: a szellemi alkotások és egyes teljesítmények, az árujelzők (védjegyek és földrajzi árujelzők), valamint a nyilvánosságra még nem jutott ismeretek tekintetében a vonatkozó törvények, az Európai Unió közvetlenül alkalmazandó jogi aktusai és nemzetközi egyezmények által biztosított jogi oltalom;
+
+b) szellemi alkotások: azok az alkotások, műszaki megoldások, amelyek alkalmasak arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezzék, vagy amelyek jogszabály erejénél fogva szerzői jogi védelem alatt állnak, ideértve azt is, amikor a hasznosítási célok, lehetőségek függvényében a megfelelő oltalom megszerzése helyett e megoldások titokban tartása célszerű;
