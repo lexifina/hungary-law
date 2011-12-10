@@ -11,3 +11,5 @@ b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez 
 b) a kisajátításról szóló 1976. évi 24. törvényerejű rendelet végrehajtásáról szóló 33/1976. (IX. 5.) MT rendelet 32. § (1) bekezdése az alábbi mondattal egészül ki:
 
 „E rendelkezés alkalmazásának nincs helye a termőföld földhivatali engedély nélküli más célú hasznosítása esetén.”
+
+67. § E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 21. § (3) bekezdés i) pontját a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

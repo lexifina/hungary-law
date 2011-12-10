@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-129-00-00
 | 2010-09-01 | 2010. évi LXXXVII. törvény | 2007-129-00-00.6 |
 | 2011-01-01 | 2010. évi CLII. törvény | 2007-129-00-00.7 |
 | 2011-07-27 | 2011. évi CVI. törvény | 2007-129-00-00.8 |
+| 2011-12-10 | 2011. évi CLXVI. törvény | 2007-129-00-00.9 |

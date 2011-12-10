@@ -24,7 +24,7 @@ g) vízkárelhárítási töltés és műtárgyai létesítése vagy bővítése
 
 h) állandó jellegű hegy- és dombvidéki vízkárelhárítási tározó létesítése vagy bővítése,
 
-i) belterületbe vonás esetén az önkormányzati bérlakásépítés megvalósítása,
+i) belterületbe vonás esetén állami, önkormányzati bérlakásépítés megvalósítása céljából,
 
 j) belterületbe vonás esetén új község alakítása, településegyesítés megszüntetése céljából,
 
