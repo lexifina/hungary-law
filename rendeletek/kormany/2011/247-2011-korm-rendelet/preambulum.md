@@ -1,0 +1,1 @@
+A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 67. § s) pontjában, a 14. § tekintetében a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 67. § (1) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
