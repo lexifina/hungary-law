@@ -1,4 +1,4 @@
-## 17. §[^9]
+## 17. §[^21]
 
 ## A pályázati rendszer
 
@@ -8,7 +8,7 @@
 
 (3) Ha a Bizottság elnöke nem ért egyet a pályázati felhívással, és az erre vonatkozó egyeztetés a kollégiummal nem vezet eredményre, azt – a pályázat kiírásáról való döntéshozatal céljából – a Bizottság elé terjeszti.
 
-(4)[^10] A pályázati kiírás tényéről, ezen belül a pályázatot kiíró kollégium megnevezéséről, a pályázat benyújtási határidejéről, valamint a pályázati felhívás teljes szövegének elérhetőségéről legkésőbb a pályázat benyújtási határidejét megelőző 30. napon legalább egy országos napilapban tájékoztató közleményt kell megjelentetni. A pályázati felhívás teljes szövegét az Alap Honlapján legkésőbb a pályázat benyújtási határidejét megelőző 30. napon közzé kell tenni. Meghívásos pályázat esetén csak a pályázati felhívás megjelentetése kötelező, legkésőbb a pályázat benyújtási határidejét megelőző 7. napon az Alap Honlapján.
+(4)[^22] A pályázati kiírás tényéről, ezen belül a pályázatot kiíró kollégium megnevezéséről, a pályázat benyújtási határidejéről, valamint a pályázati felhívás teljes szövegének elérhetőségéről legkésőbb a pályázat benyújtási határidejét megelőző 30. napon legalább egy országos napilapban tájékoztató közleményt kell megjelentetni. A pályázati felhívás teljes szövegét az Alap Honlapján legkésőbb a pályázat benyújtási határidejét megelőző 30. napon közzé kell tenni. Meghívásos pályázat esetén csak a pályázati felhívás megjelentetése kötelező, legkésőbb a pályázat benyújtási határidejét megelőző 7. napon az Alap Honlapján.
 
-[^9]: A 17. §-t és az azt megelőző alcímet a 37/2009. (XII. 23.) OKM rendelet 6. §-a hatályon kívül helyezte.
-[^10]: A 18. § (4) bekezdése a 42/2007. (XII. 28.) OKM rendelet 5. §-ával megállapított szöveg.
+[^21]: A 17. §-t és az azt megelőző alcímet a 37/2009. (XII. 23.) OKM rendelet 6. §-a hatályon kívül helyezte.
+[^22]: A 18. § (4) bekezdése a 42/2007. (XII. 28.) OKM rendelet 5. §-ával megállapított szöveg.

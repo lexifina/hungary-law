@@ -34,6 +34,6 @@
 
 16. Zenei Kollégium
 
-17.[^18] Kiemelt Kulturális Programok Kollégiuma
+17.[^33] Kiemelt Kulturális Programok Kollégiuma
 
-[^18]: Az 1. számú melléklet 17. pontját a 42/2007. (XII. 28.) OKM rendelet 8. §-a iktatta be. E módosító rendelet 9. § (4) bekezdése alapján a Nemzeti Kulturális Alap Kiemelt Kulturális Események Ideiglenes Kollégiuma 2007. december 31-ét követően új feladattal nem bízható meg.
+[^33]: Az 1. számú melléklet 17. pontját a 42/2007. (XII. 28.) OKM rendelet 8. §-a iktatta be. E módosító rendelet 9. § (4) bekezdése alapján a Nemzeti Kulturális Alap Kiemelt Kulturális Események Ideiglenes Kollégiuma 2007. december 31-ét követően új feladattal nem bízható meg.

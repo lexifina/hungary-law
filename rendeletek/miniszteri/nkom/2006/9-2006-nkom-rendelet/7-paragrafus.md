@@ -4,9 +4,9 @@ a) dönt az egyes szakmai kollégiumok által felosztható pénzeszközök nagys
 
 b) kiemelt támogatási célokat határozhat meg,
 
-c) megjelöli az ezekre fordítandó keretösszegeket,
+c) megjelöli az ezekre fordítandó keretösszegeket.
 
-d) meghatározza az egyedi elbírálást igénylő támogatásokra (a továbbiakban: egyedi pályázat) felhasználható összeg mértékét.
+d)[^7]
 
 (2) A miniszteri keretből támogathatók különösen:
 
@@ -23,3 +23,5 @@ e) olyan egyedi pályázatok, amelyeket a miniszter – a miniszteri keret terh�
 (3) A miniszteri keret felhasználásáról, e körben a pályázatok kiírásáról és azok elbírálásáról, ideértve a miniszteri keret terhére benyújtott egyedi pályázatok elbírálását is – az Ügyrendben szabályozott módon –, a miniszter vagy az általa felhatalmazott kollégium dönt. A miniszteri keret terhére benyújtott egyedi pályázatok esetén a miniszter – kérelemre és méltányosságból – a pályázati cél korrekcióját és ezzel egyidejűleg a szerződés módosítását engedélyezheti. Pályázat kiírása esetén e rendelet pályázati rendszerre vonatkozó szabályait kell megfelelően alkalmazni.
 
 (4) A miniszter megállapítja a miniszteri keret felosztásának arányait és erről tájékoztatja a Bizottságot.
+
+[^7]: A 7. § (1) bekezdés d) pontját a 65/2011. (XII. 9.) NEFMI rendelet 13. § a) pontja hatályon kívül helyezte.

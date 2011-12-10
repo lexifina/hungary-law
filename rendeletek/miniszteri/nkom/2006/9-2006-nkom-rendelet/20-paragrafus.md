@@ -10,8 +10,8 @@ d) a rendelkezésre álló saját és egyéb forrás összegét és a pályázat
 
 e) a pályázati cél megvalósításához esetenként szükséges szerződések, hatósági engedélyek, illetve nyilatkozatok másolatát,
 
-f) a Bizottság vagy a kollégiumok által előírt, a pályázati kiírásban meghatározott egyéb adatokat,
+f) a Bizottság vagy a kollégiumok által előírt, a pályázati kiírásban meghatározott egyéb adatokat.
 
-g)[^14] a pályázó hozzájárulását, hogy a Kincstár keretében működő, alapvetően pénzügyi szemléletű megfigyelő rendszerhez, az OTMR-hez a jogszabályban meghatározott döntéshozók, előirányzat-kezelők, Monitoring bizottságok tagjai a támogatásban részesülő adataihoz hozzáférhessenek.
+g)[^26]
 
-[^14]: A 20. § g) pontját a 6/2008. (III. 5.) OKM rendelet 2. §-a iktatta be.
+[^26]: A 20. § g) pontját a 6/2008. (III. 5.) OKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2011. (XII. 9.) NEFMI rendelet 13. § b) pontja.
