@@ -1,6 +1,14 @@
 7/A. § (1) Az állami adóhatóság szerencsejáték ügyben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint jár el azzal, hogy újrafelvételi eljárásnak, valamint fizetési kedvezmény engedélyezésének nincs helye. A bírság végrehajtására az adózás rendjéről szóló törvény szabályai az irányadóak azzal, hogy fizetési halasztásnak, részletfizetés engedélyezésének, valamint méltányosság alapján mérséklésnek, illetve elengedésnek nincs helye. A szerencsejátékkal kapcsolatos hatósági eljárásban az ügyfél nem jogosult elektronikus úton írásban kapcsolatot tartani a hatósággal.
 
-(2) Az állami adóhatóság szerencsejáték ügyben, valamint ajándéksorsolás és játékautomata-üzemeltetés tekintetében a nyilvántartásba vételi, ellenőrzési, továbbá jogkövetkezmények megállapítására irányuló eljárásban hozott határozatai ellen fellebbezésnek nincs helye. Az e törvényben meghatározott ügyben hozott határozat (végzés) ellen – a bírságot kiszabó határozat (végzés) kivételével – benyújtott keresetlevélnek, illetve kérelemnek, az e törvényben foglalt kivételekkel, a végrehajtásra halasztó hatálya van.
+(2) Az állami adóhatóság szerencsejáték ügyben, valamint ajándéksorsolás és játékautomata-üzemeltetés tekintetében a nyilvántartásba vételi, ellenőrzési, továbbá jogkövetkezmények megállapítására irányuló eljárásban hozott határozatai ellen fellebbezésnek nincs helye. Az e törvényben meghatározott ügyben hozott határozat (végzés) ellen – a bírságot kiszabó határozat (végzés) kivételével – benyújtott keresetlevélnek, illetve kérelemnek, az e törvényben foglalt kivételekkel, a végrehajtásra halasztó hatálya van. Az állami adóhatóság az e törvényben meghatározott ügyben hozott határozatot (végzést) jogorvoslatra tekintet nélkül végrehajthatóvá nyilváníthatja, ha
+
+a) a közbiztonság vagy a közrend fenntartása érdekében, illetve a közszemérem, valamint játékosvédelmi, gyermek- vagy ifjúságpolitikai érdek védelmében szükséges,
+
+b) a döntéssel érintett tevékenység vagy mulasztás folytatása más közösségi érdek sérelmével járna,
+
+c) a végrehajtás késedelme jelentős vagy helyrehozhatatlan kárral járna, valamint ilyen kár bekövetkeztének elhárítása vagy következményeinek enyhítése érdekében.
+
+Az állami adóhatóság jogorvoslatra tekintet nélkül végrehajthatóvá nyilváníthatja különösen az engedély felfüggesztését vagy a tevékenységtől történő eltiltást megállapító határozatot, ha a szerencsejáték-szervező nem teljesíti a játékadó bevallásával vagy megfizetésével kapcsolatos kötelezettségét.
 
 (3) Az állami adóhatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül az állami adóhatóság intézkedik a hiánypótlási felhívás kibocsátásáról.
 

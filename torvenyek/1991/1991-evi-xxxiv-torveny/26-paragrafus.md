@@ -1,8 +1,8 @@
 26. § (1) Pénznyerő automatának minősül a tétfizetés fejében játék céljára alkalmas mechanikusan vagy elektronikusan vezérelt berendezés, ha nyerés esetén a játékos bármely formában vagyoni értékű nyereményre válhat jogosulttá. Az állami adóhatóság dönt abban a kérdésben, hogy valamely berendezés pénznyerő automatának minősül-e.
 
-(1a) Helyhez kötött szerver alapú pénznyerő automatának minősül az a műszaki egység (terminál, konzol), amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a hozzácsatlakoztatott műszaki egység (terminál konzol) pedig játékteremben, játékkaszinóban találhatóak.
+(1a) Helyhez kötött szerver alapú pénznyerő automatának minősül az a műszaki egység (terminál, konzol), amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a hozzácsatlakoztatott műszaki egység (terminál, konzol) pedig játékteremben, játékkaszinóban található.
 
-(1b) Nem helyhez kötött szerver alapú pénznyerő rendszernek minősül az a szerencsejáték szervező által üzemeltett rendszer, amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a játékosok pedig szintén az internet mint távközlési rendszer útján kapcsolódnak.
+(1b) Nem helyhez kötött szerver alapú pénznyerő rendszernek minősül az a szerencsejáték szervező által üzemeltett rendszer, amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a játékosok – a nem helyhez kötött pénznyerő rendszerhez – szintén az internet mint távközlési rendszer útján kapcsolódnak..
 
 (2) Az állami adóhatóság az engedélyben a pénznyerő automatát I. vagy II. kategóriába sorolja:
 
@@ -90,7 +90,7 @@ d) nem felel meg jogszabályban meghatározott egyéb követelményeknek.
 
 (19) A pénznyerő automata a gyártásának időpontjától számított 5 éven túl – illetve annak letelte előtt, ha a szervező a pénznyerő automata üzemeltetésének végleges megszüntetéséről dönt – teljes egészében a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény és annak végrehajtási rendeletei szerint meghatározott elektronikus berendezés hulladékának minősül.
 
-(20) A játékteremben és a nem helyhez kötött szerver alapú pénznyerő rendszerben jackpot rendszer üzemeltethető. Játékterem esetén jackpot rendszerbe kizárólag ugyanabban a játékteremben üzemelő I. kategóriába sorolt pénznyerő automaták köthetők.
+(20) A játékteremben és a nem helyhez kötött szerver alapú pénznyerő rendszerben jackpot rendszer üzemeltethető. Játékterem esetén jackpot rendszerbe kizárólag ugyanabban a játékteremben üzemelő I. kategóriába sorolt pénznyerő automaták és helyhez kötött szerver alapú pénznyerő automaták köthetők..
 
 (21) A szerencsejáték-szervező negyedévenként pénznyerő automata kategóriánként elkülönített időszaki elszámolást készít az állami adóhatóság részére, amelyet a negyedévet követő hónap tizenötödik és utolsó napja között köteles gépi adathordozón benyújtani.
 

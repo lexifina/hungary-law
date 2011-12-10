@@ -6,9 +6,11 @@ b) a szerencsejáték lebonyolításának tisztaságát veszélyezteti,
 
 c) az állammal szembeni kötelezettségét nem teljesíti,
 
-d) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget, vagy hamis adatot tüntet fel.
+d) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget, vagy hamis adatot tüntet fel,
 
-e)–f)
+e)
+
+f) nem teljesíti a játékadó bevallásával vagy megfizetésével kapcsolatos kötelezettségét.
 
 (2) Az állami adóhatóság a szerencsejáték-szervezőt, annak vezetőit vagy vezető tisztségviselőit a szerencsejáték-szervező tevékenységtől legfeljebb 5 éves időtartamra, meghatározott feltétel bekövetkezéséig vagy akár véglegesen is eltilthatja, ha
 
@@ -18,7 +20,9 @@ b) a szerencsejáték-szervező súlyos jogszabálysértést követ el, amellyel
 
 c) az engedély kiadása után merül fel olyan tény, adat vagy körülmény, amely miatt az engedély-kérelem elutasításának lett volna helye,
 
-d) a szerencsejáték-szervező az állammal szembeni kötelezettségét súlyosan megszegi, vagy az állammal szembeni kötelezettségének ismételten nem tesz eleget.
+d) a szerencsejáték-szervező az állammal szembeni kötelezettségét súlyosan megszegi, vagy az állammal szembeni kötelezettségének ismételten nem tesz eleget,
+
+e) 5 000 000 forintot meghaladó összegű játékadóra, vagy ismételten nem teljesíti a játékadó bevallásával, vagy megfizetésével kapcsolatos kötelezettségét.
 
 Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékteremben, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
 

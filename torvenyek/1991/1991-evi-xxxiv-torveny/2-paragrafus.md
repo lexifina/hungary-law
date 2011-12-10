@@ -1,4 +1,4 @@
-2. § (1) Liberalizált tevékenység az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdésének b), d), e) és f) pontjaiban meghatározott tevékenység, továbbá az 1. § (3) bekezdésének g) pontjában meghatározott tevékenységek közül a hírközlő eszköz és rendszer útján szervezett lóversenyfogadás és kártyajátékok nyújtása (a továbbiakban együtt: távszerencsejáték.).
+2. § (1) Liberalizált tevékenység az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdésének b), d), e) és f) pontjaiban meghatározott tevékenység, továbbá az 1. § (3) bekezdésének g) pontjában meghatározott tevékenységek közül a hírközlő eszköz és rendszer útján szervezett lóversenyfogadás és kártyajátékok nyújtása (továbbiakban együtt: távszerencsejáték)..
 
 (2) Szerencsejáték szervező tevékenység folytatásához — az e törvényben meghatározott kivétellel — az állami adóhatóság engedélye szükséges.
 
@@ -8,7 +8,7 @@
 
 a) a folytatni kívánt tevékenység sértené a jóérzést, közbiztonságot, a közszemérmet, illetőleg gyermek vagy ifjúságpolitikai érdekeket,
 
-b) a kérelmező, illetőleg vezető tisztségviselője és tagja büntetett előéletű, vagy a kérelem benyújtását megelőző 3 éven belül jogerős bírósági ítéletben megállapított közélet tisztasága elleni (Btk. XV. fejezet VII. cím), nemzetközi közélet tisztasága elleni (Btk. XV. fejezet VIII. cím), közbizalom elleni (Btk. XVI. fejezet III. cím), gazdasági (Btk. XVII. fejezet), vagyon elleni (Btk. XVIII. fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét, illetve a kérelem benyújtását megelőző 2 éven belül tulajdon elleni vagy pénzügyi szabálysértést, a játék és pénznyerő automata üzemeltetésére vonatkozó szabályok megszegése vagy tiltott szerencsejáték szabálysértését követte el, illetőleg jogerős bírósági ítéletben megállapított, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerinti tevékenység korlátozása alatt áll,
+b) a kérelmező, illetőleg vezető tisztségviselője, vagy a szavazatok legalább 25%-ával rendelkező tagja a székhelye, vagy lakóhelye szerinti állam joga alapján büntetett előéletű, illetve a kérelem benyújtását megelőző 2 éven belül tulajdon elleni vagy pénzügyi szabálysértést, a játék és pénznyerő automata üzemeltetésére vonatkozó szabályok megszegése vagy tiltott szerencsejáték szabálysértését követte el, illetőleg jogerős bírósági ítéletben megállapított, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerinti tevékenység korlátozása alatt áll,
 
 c)
 

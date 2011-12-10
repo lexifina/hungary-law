@@ -7,3 +7,5 @@
 (3) A bukmékeri rendszerű fogadás tiszta játékbevételét csökkenteni kell az érvénytelen fogadások miatt a tárgyhónapban visszafizetett tétek összegével. A bukmékeri rendszerű fogadás játékadója az így csökkentett tiszta játékbevétel 20%-a.
 
 (4) A 16. § szerinti sorsolásos játék, valamint a 23. § szerinti ajándéksorsolás, a lóversenyfogadás a játékadó fizetési kötelezettség alól mentes.
+
+(5) A távszerencsejátékok játékadója a 37. § 2.1. pontja szerinti tiszta játékbevétel 20%-a.

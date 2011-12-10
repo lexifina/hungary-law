@@ -8,6 +8,10 @@
 
 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete.
 
+2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyhónapban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező/az engedély birtokosa által felszámított díjak és/vagy azokkal egy tekintet alá eső jutalékok képezik.
+
+2.2. Tárgynegyedévi tiszta játékbevétel: a tárgynegyedévben befizetett tétek és a kifizetett nyeremények – ideértve a jackpot nyereményt is – különbözete.
+
 3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 
 4. Totalizatőri rendszerű fogadás: olyan fogadási forma, amelyben a tétek összeadódnak és ezen összegnek a játéktervben meghatározott hányada az ugyanott meghatározottak szerint kerül nyereményként szétosztásra.
