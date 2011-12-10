@@ -1,3 +1,3 @@
 ## 28. Az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény módosítása
 
-28. § Az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 5. § (1) bekezdésében az „55%-ának” szövegrész helyébe a „60%-ának” szöveg, a „85%-ának” szövegrész helyébe a „90%-ának” szöveg, 5. § (2) bekezdésében a „100%-ának” szövegrész helyébe a „105%-ának” szöveg, 6. § (1) bekezdésében a „25%-ának” szövegrész helyébe a „30%-ának” szöveg, 6. § (2) bekezdés b) pontjában a „20%-a” szövegrész helyébe a „30%-a” szöveg, 6. § (2) bekezdés d) pontjában a „30%-a” szövegrész helyébe a „20%-a” szöveg, 6. § (4) bekezdésében a „60%-a” szövegrész helyébe a „75%-a” szöveg lép.
+28. §

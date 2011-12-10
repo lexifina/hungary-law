@@ -1,5 +1,3 @@
 ## 51. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-51. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 13. §–a helyébe a következő rendelkezés lép:
-
-„13. § A gyermekotthon vezetője, a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet igazgatója a gyermekotthonban, javítóintézetben vagy büntetés-végrehajtási intézetben lévő és gyermekvédelmi gondoskodás alatt álló gyermekre tekintettel járó családi pótlék teljes összegét az intézmény költségvetésétől elkülönítetten kezeli, és a gyermek teljes körű ellátásának kiegészítésére biztosítja annak személyre szóló felhasználását. A szociális intézmény vezetője a családi pótlék teljes összegét az intézmény költségvetésétől elkülönítetten kezeli, és biztosítja annak személyre szóló felhasználását.”
+51. §
