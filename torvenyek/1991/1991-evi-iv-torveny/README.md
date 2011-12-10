@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2011-07-27 | 2011. évi CVI. törvény | 1991-4-00-00.76 |
 | 2011-08-01 | 2011. évi CV. törvény | 1991-4-00-00.77 |
 | 2011-09-01 | 2006. évi CXIII. törvény | 1991-4-00-00.78 |
+| 2011-12-10 | 2011. évi CLXVI. törvény | 1991-4-00-00.79 |
