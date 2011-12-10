@@ -1,4 +1,4 @@
-20/A. § (1) A külön törvényben meghatározott feltételekkel rendelkező magánszemélyek foglalkoztatása esetére a foglalkoztatót megillető járulékkedvezmény igénybevételéhez szükséges, jogosultságot igazoló kártyát az állami adóhatóság a magánszemély kérelmére a 20. §-ban meghatározott eljárás alapján állítja ki.
+20/A. § (1) A külön törvényben meghatározott feltételekkel rendelkező magánszemélyek foglalkoztatása esetére a foglalkoztatót megillető adókedvezmény igénybevételéhez szükséges, jogosultságot igazoló kártyát az állami adóhatóság a magánszemély kérelmére a 20. §-ban meghatározott eljárás alapján állítja ki.
 
 (2) Az adóigazolványt kiegészítő kártya a következő adatokat tartalmazza:
 
