@@ -20,7 +20,7 @@ c) közbeszerzési eljárás eredményes lefolytatását követően;
 
 d) egyéb törvényes jogcímen
 
-válogatott, illetve szelektív települési szilárd hulladékkezelést ellátó közszolgáltatóként kijelölt. Kétség esetén az OHÜ megkeresésére a települési önkormányzat jegyzője nyilatkozik arról, hogy az adott településen ki tekinthető közszolgáltatónak.
+települési szilárd hulladékkezelést ellátó közszolgáltatóként kijelölt. Kétség esetén az OHÜ megkeresésére a települési önkormányzat jegyzője nyilatkozik arról, hogy az adott településen ki tekinthető közszolgáltatónak.
 
 (8) Az (1) bekezdés szerinti szerződési feltételekben objektíven meghatározott feltételeken alapuló, eltérő környezetvédelmi, hulladékgazdálkodási színvonalat teljesítő közszolgáltatók tekintetében – az eltérés mértékével arányos – eltérő díj határozható meg. A szerződési feltételekben, vagy az egyedi szerződésekben meghatározott egyéb díjeltérés semmis.
 
