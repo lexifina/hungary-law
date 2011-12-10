@@ -50,7 +50,11 @@ A. Lőfegyverek, gránátvetők[^3]
 
 21. Gépjárműre szerelt automata könnygázgránát-vető,
 
-22. Kézi páncélelhárító gránátvető.
+22. Kézi páncélelhárító gránátvető,
+
+23.[^4] .22-es kaliberű tölténnyel működő puskák,
+
+24.[^5] .22-es kaliberű tölténnyel működő pisztolyok.
 
 B. Különféle rendőrbotok, ütőeszközök, hidegfegyverek és elektromos eszközök
 
@@ -64,7 +68,7 @@ B. Különféle rendőrbotok, ütőeszközök, hidegfegyverek és elektromos esz
 
 5. Kardok,
 
-6–7.[^4]
+6–7.[^6]
 
 C. Mozgásszabadságot korlátozó eszközök
 
@@ -82,7 +86,7 @@ C. Mozgásszabadságot korlátozó eszközök
 
 7. Személy- és gépjármű elfogó hálók,
 
-8. Kordonok,
+8.[^7]
 
 9. Tömegoszlató rácsok,
 
@@ -102,7 +106,7 @@ E. Speciális bevetési gépjárművek
 
 1. Vízágyúk.
 
-F. Lőfegyverek különféle töltényei, gránátvetők gránátjai[^5]
+F. Lőfegyverek különféle töltényei, gránátvetők gránátjai[^8]
 
 1. 7,65 mm-es Browning pisztolytöltény különféle változatai,
 
@@ -134,7 +138,9 @@ F. Lőfegyverek különféle töltényei, gránátvetők gránátjai[^5]
 
 15. 40 mm-es gránát különféle változatai,
 
-16. UKG könnygáz gránát.
+16. UKG könnygáz gránát,
+
+17.[^9] .22-es kaliberű töltény különféle változatai.
 
 G. Védekezésre, vagy akaratnyilvánításra képtelen állapotot előidéző, természetes vagy mesterséges hatóanyagú, könnyfakasztó, szemet, nyálkahártyát irritáló eszközök és anyagok
 
@@ -155,5 +161,9 @@ H. A vízágyúk alkalmazásához szükséges kémiai anyagok
 [^1]: Az 1. § a 9/2010. (XII. 22.) BM rendelet 9. §-a szerint módosított szöveg.
 [^2]: A 2. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^3]: A melléklet A. pontja a 9/2010. (XII. 22.) BM rendelet 6. §-ával megállapított szöveg.
-[^4]: A melléklet B pont 6–7. alpontját a 32/2010. (V. 12.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
-[^5]: A melléklet F. pontja a 9/2010. (XII. 22.) BM rendelet 6. §-ával megállapított szöveg.
+[^4]: A melléklet A. pont 23. alpontját a 46/2011. (XII. 9.) BM rendelet 1. §-a iktatta be.
+[^5]: A melléklet A. pont 24. alpontját a 46/2011. (XII. 9.) BM rendelet 1. §-a iktatta be.
+[^6]: A melléklet B pont 6–7. alpontját a 32/2010. (V. 12.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A melléklet C. pont 8. alpontját a 46/2011. (XII. 9.) BM rendelet 1. §-a hatályon kívül helyezte.
+[^8]: A melléklet F. pontja a 9/2010. (XII. 22.) BM rendelet 6. §-ával megállapított szöveg.
+[^9]: A melléklet F. pont 17. alpontját a 46/2011. (XII. 9.) BM rendelet 1. §-a iktatta be.
