@@ -74,4 +74,4 @@
 
 2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^23]
 
-[^23]: A 2. számú melléklet a 214/2009. (IX. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 205. §-a szerint módosított szöveg.
+[^23]: A 2. számú melléklet a 214/2009. (IX. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 205. §-a, a 247/2011. (XI. 25.) Korm. rendelet 14. §-a szerint módosított szöveg.

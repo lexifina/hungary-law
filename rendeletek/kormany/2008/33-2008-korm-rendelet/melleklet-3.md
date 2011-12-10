@@ -22,6 +22,8 @@
 
 | 10. | Felvonó- és mozgólépcső ellenőri tevékenység | Budapesti és Pest Megyei Mérnöki Kamara | Budapesti és Pest Megyei Mérnöki Kamara |
 
+| 11. | Az atomenergiáról szóló 1996. évi CXVI. törvény szerinti, az atomenergia alkalmazása körében eljáró független műszaki szakértő | területi mérnöki kamara | Magyar Mérnöki Kamara |
+
 3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^24]
 
 Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.”
