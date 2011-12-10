@@ -1,0 +1,7 @@
+## 43. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
+
+43. § (1) Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/A. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) Az ingatlan-nyilvántartási eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely az ingatlan-nyilvántartásért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. Az ingatlan-nyilvántartási eljárásért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.”
+
+(2) Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 33. § (7) bekezdésében a „miniszterrel egyetértésben” szövegrész helyébe a „miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben” szöveg lép.
