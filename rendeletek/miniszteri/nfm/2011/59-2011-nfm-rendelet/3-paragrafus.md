@@ -1,0 +1,3 @@
+3. § (1) Az e rendeletben meghatározott díjak összegébe valamennyi, a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti eljárási költség beleszámít. Az engedély kiadására irányuló eljárás díja magában foglalja a tevékenység végzésére jogosult nyilvántartásba vételével kapcsolatos díjat is.
+
+(2) A díj megfizetését az annak megtörténtét igazoló okirattal (a pénztárba történő befizetésről kapott igazolás, a postai készpénz-átutalási megbízást igazoló szelvényrész, a kérelmező pénzforgalmi számlájának megterhelését igazoló banki kivonat) vagy annak másolatával a kérelem vagy fellebbezés előterjesztésekor igazolni kell.
