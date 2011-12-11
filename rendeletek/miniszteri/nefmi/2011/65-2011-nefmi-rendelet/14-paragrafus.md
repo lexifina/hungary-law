@@ -1,3 +1,5 @@
+## 12–13. §[^3]
+
 14. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 11. § 2012. január 1-jén lép hatályba.
@@ -25,3 +27,5 @@ Melléklet a 65/2011. (XII. 9.) NEFMI rendelethez
 8. Szépirodalom és Ismeretterjesztés Kollégiuma
 
 9. Vizuális Művészetek Kollégiuma”
+
+[^3]: A 12–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

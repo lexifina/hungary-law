@@ -1,1 +1,0 @@
-## „(3) Az Alap és az Igazgatóság működtetéséhez szükséges forrásokat az Alap előirányzatából kell biztosítani a költségvetési törvényben meghatározott mértékben. Az Igazgatóság költségvetése a Bizottság és a kollégiumok működési költségeit is tartalmazza.”

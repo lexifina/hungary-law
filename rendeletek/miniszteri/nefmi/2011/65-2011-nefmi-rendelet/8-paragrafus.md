@@ -1,5 +1,0 @@
-## 7. § Az R. 19. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A pályázati felhívás tartalmazza a pályázati célokat, a pályázók körét, a támogatás felhasználási jogcímét, a pályázó részére előírt saját forrás mértékét, a pályázat kötelező tartalmi elemeit és mellékleteit, a pályázatok benyújtási határidejét, az elbírálás szempontjait és egyéb, a pályázók számára fontos tájékoztató adatokat. A pályázatok benyújtási határideje a postára adás dátuma, elektronikus benyújtás esetén a pályázathoz kapcsolódó nyilatkozat postára adásának dátuma. A támogatás mértékének vagy összegének felső határát a pályázati felhívás esetenként tartalmazza.
-
-## (2) Az igénybe vehető támogatás mértéke nem haladhatja meg az elszámolható kiadások 100%-át és a támogatás mértékének vagy összegének pályázati felhívásban meghatározott felső határát. E rendelet alkalmazásában az elszámolható kiadások köre a Tv. 7. § (1) bekezdésében foglalt támogatási célok megvalósítása során közvetlenül felmerülő, igazoltan e célra fordított kiadások.”
