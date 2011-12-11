@@ -1,13 +1,3 @@
 ## 81. Egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény technikai módosításáról
 
-81. § Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 478. §-a helyébe a következő rendelkezés lép:
-
-„478. § E törvény 417–445. §-aiban foglalt rendelkezéseinek
-
-1. a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelv 16. cikk (1) és (2) bekezdése,
-
-2. a 98/48/EK európai parlamenti és tanácsi irányelvvel, továbbá a 2006/96/EK tanácsi irányelvvel módosított, a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8. cikke, és
-
-3. a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése
-
-szerinti előzetes bejelentése megtörtént.”
+81. §
