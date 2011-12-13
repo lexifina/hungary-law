@@ -20,7 +20,7 @@
 
 ## 6. A hordozható és gépjármű elemen, illetve akkumulátoron fel kell tüntetni annak kapacitását.
 
-2. melléklet a 21/2008. (VIII. 30.) KvVM rendelethez[^15]
+2. melléklet a 21/2008. (VIII. 30.) KvVM rendelethez[^18]
 
 Az újrafeldolgozás eljárás és annak hatékonysági mutatói
 
@@ -38,4 +38,4 @@ Az ólom-, illetve kadmiumtartalom újrafeldolgozásának – az ésszerű költ
 
 | 3. | egyéb elem, illetve akkumulátor | 50% |
 
-[^15]: A 2. számú melléklet a 8. § (2) bekezdése alapján 2008. szeptember 26-án lép hatályba.
+[^18]: A 2. számú melléklet a 8. § (2) bekezdése alapján 2008. szeptember 26-án lép hatályba.
