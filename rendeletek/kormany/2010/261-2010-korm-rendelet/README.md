@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-261-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-11-18 | 2010-261-20-22.1 | 261/2010. (XI. 17.) Korm. rendelet |
+| 2011-12-13 | 2010-261-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
