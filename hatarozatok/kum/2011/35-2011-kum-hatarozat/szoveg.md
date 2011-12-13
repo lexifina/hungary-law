@@ -1,0 +1,13 @@
+A 2011. évi XLV. törvénnyel a Magyar Közlöny 2011. május 12-i, 50. számában kihirdetett, a Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Alapokmányának és Egyezményének az 1994. évi kiotói, az 1998. évi minneapolisi, a 2002. évi marrakesh-i és a 2006. évi antalyai Meghatalmazotti Értekezleteken történt módosításokkal egységes szerkezetbe foglalt kihirdetéséről, valamint a Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Fakultatív Jegyzőkönyv 9. § (2) és (3) bekezdése szerint a törvény 2–3. §-a az ITU Alapokmánya 55. cikk 8. bekezdése alapján, valamint a 4–5. §-a az ITU Egyezménye 42. cikk 9. bekezdése alapján az alábbiak szerint lépnek hatályba:
+
+Az ITU Alapokmánya 55. cikk 8. bekezdése szerint: „Az ilyen módosító okmány hatálybalépése után az így módosított Alapokmányra vonatkozik az Alapokmányának az 52. és 53. Cikkek szerinti ratifikálása, elfogadása, jóváhagyása és a hozzá való csatlakozás.”
+
+Az ITU Egyezménye 42. cikk 9. bekezdése szerint: „Bármely fenti módosító okmány hatálybalépése után a jelen Alapokmány 52. és 53. cikke szerinti ratifikálás, elfogadás, jóváhagyás vagy csatlakozás alkalmazandó a jelen Egyezményre, amint módosult.”
+
+Az Alapokmány 52. cikke a következőket mondja ki: „A jelen Alapokmányt és az Egyezményt bármely aláíró Tagállam saját alkotmányos szabályai szerint egyidejűleg ratifikálja, fogadja el vagy hagyja jóvá egyetlen okmányban. Ezen okmányt a lehető legrövidebb időn belül letétbe kell helyezni a főtitkárnál. A főtitkár értesíti a Tagállamokat minden ilyen okmány letétbe helyezéséről. […]
+
+Miután a jelen Alapokmány és az Egyezmény a jelen Alapokmány 58. cikke szerint hatályba lépett, a ratifikálási, elfogadó vagy jóváhagyó okmány akkor válik hatályossá, amikor a főtitkárnál letétbe helyezik.”
+
+A letétbe helyezés napja: 2011. szeptember 28.
+
+A fentiekre tekintettel, összhangban a 2011. évi XLV. törvény 9. § (4) bekezdésével megállapítom, hogy a Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Alapokmányának és Egyezményének az 1994. évi kiotói, az 1998. évi minneapolisi, a 2002. évi marrakesh-i és a 2006. évi antalyai Meghatalmazotti Értekezleteken történt módosításokkal egységes szerkezetbe foglalt kihirdetéséről, valamint a Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Fakultatív Jegyzőkönyv kihirdetéséről szóló 2011. évi XLV. törvény 2–5. §-ai 2011. szeptember 28-án, azaz kettőezer-tizenegy szeptember huszonnyolcadikán lépnek hatályba.
