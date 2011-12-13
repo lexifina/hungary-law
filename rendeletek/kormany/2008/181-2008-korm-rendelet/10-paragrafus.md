@@ -2,7 +2,7 @@
 
 10. § (1) A gyártó – a (7) bekezdésben foglalt kivétellel – köteles a hordozható elemek és akkumulátorok visszavételi, begyűjtési és hulladékkezelési kötelezettsége ellátásának biztosítására vagyoni biztosítékkal rendelkezni.
 
-(2)[^28] A vagyoni biztosíték mértéke a tárgyévet megelőző évben forgalmazott elem és akkumulátor kg-ban kifejezett mennyiségének és az egységnyi tömegre vetített biztosítékösszegnek a szorzata. Az egységnyi tömegre vetített biztosítékösszeg értéke 1000 Ft/kg.
+(2)[^29] A vagyoni biztosíték mértéke a tárgyévet megelőző évben forgalmazott elem és akkumulátor kg-ban kifejezett mennyiségének és az egységnyi tömegre vetített biztosítékösszegnek a szorzata. Az egységnyi tömegre vetített biztosítékösszeg értéke 1000 Ft/kg.
 
 (3) A gyártó, ha a tárgyévet megelőző év december 31. napján a rendelet hatálya alá tartozó tevékenységet folytat, a tárgyév február 20. napjáig köteles a tárgyévre vonatkozó vagyoni biztosítékot létrehozni.
 
@@ -22,7 +22,7 @@ d) biztosítási szerződés
 
 (6) A tárgyévi biztosítékot a gyártó a Főfelügyelőség jóváhagyásával szüntetheti meg, a tárgyévi visszavételi, begyűjtési és hulladékkezelési kötelezettsége teljesítésének arányában.
 
-(7)[^29] Nem kell biztosítékot képeznie a gyártónak a környezetvédelmi termékdíjról szóló külön jogszabály hatálya alá tartozó termékek esetén, illetve ha visszavételi, begyűjtési és hulladékkezelési kötelezettségét koordináló szervezethez történt csatlakozás vagy azzal való megállapodás formájában teljesíti.
+(7)[^30] Nem kell biztosítékot képeznie a gyártónak a környezetvédelmi termékdíjról szóló külön jogszabály hatálya alá tartozó termékek esetén, illetve ha visszavételi, begyűjtési és hulladékkezelési kötelezettségét koordináló szervezethez történt csatlakozás vagy azzal való megállapodás formájában teljesíti.
 
-[^28]: A 10. § (2) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^29]: A 10. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 629. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 10. § (2) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^30]: A 10. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 629. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

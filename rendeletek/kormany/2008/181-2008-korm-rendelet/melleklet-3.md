@@ -10,7 +10,7 @@
 
 ## 5. A nyilvántartásba vételi kérelem keltezése, és a gyártó nyilatkozata a megadott adatok valódiságáról.
 
-3. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^53]
+3. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^54]
 
 A gyártó és az átvevő adatszolgáltatási kötelezettsége során közölt adatok
 
@@ -48,4 +48,4 @@ A gyártó és az átvevő adatszolgáltatási kötelezettsége során közölt 
 
 3.5. Összesített mennyiség
 
-[^53]: A 3. számú mellékletet a 217/2008. (VIII. 29.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte, újonnan a 101/2010. (IV. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^54]: A 3. számú mellékletet a 217/2008. (VIII. 29.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte, újonnan a 101/2010. (IV. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.

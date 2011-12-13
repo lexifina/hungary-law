@@ -1,24 +1,26 @@
 ## A begyűjtési kötelezettség mértéke
 
-| Tárgyév | Hordozható elem, illetve akkumulátor begyűjtési aránya (K) |
+|  | A | B |
 
-| 2008 | 0,18 |
+| 1 | Tárgyév | Hordozható elem, illetve akkumulátor begyűjtési aránya (K) |
 
-| 2009 | 0,19 |
+| 2 | 2008. december 31-ig | 0,18 |
 
-| 2010 | 0,21 |
+| 3 | 2009. december 31-ig | 0,19 |
 
-| 2011 | 0,23 |
+| 4 | 2010. december 31-ig | 0,21 |
 
-| 2012 | 0,25 |
+| 5 | 2011. december 31-ig | 0,23 |
 
-| 2013 | 0,30 |
+| 6 | 2012. szeptember 26-ig | 0,25 |
 
-| 2014 | 0,35 |
+| 7 | 2013. szeptember 26-ig | 0,30 |
 
-| 2015 | 0,40 |
+| 8 | 2014. szeptember 26-ig | 0,35 |
 
-| 2016 | 0,45 |
+| 9 | 2015. szeptember 26-ig | 0,40 |
+
+| 10 | 2016. szeptember 26-ig | 0,45 |
 
 ## A begyűjtési kötelezettség megállapítására a következő képletet kell alkalmazni:
 
@@ -38,6 +40,6 @@
 
 ## K: a tárgyévre vonatkozó begyűjtési arány.
 
-2. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^52]
+2. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^53]
 
-[^52]: A 2. számú melléklet a 101/2010. (IV. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^53]: A 2. számú melléklet a 101/2010. (IV. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

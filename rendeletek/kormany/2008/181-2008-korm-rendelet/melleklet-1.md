@@ -1,6 +1,6 @@
-## 18. §[^50]
+## 18. §[^51]
 
-1. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^51]
+1. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^52]
 
-[^50]: A 18. § a 15. § (3) bekezdése alapján hatályát vesztette.
-[^51]: Az 1. számú melléklet a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^51]: A 18. § a 15. § (3) bekezdése alapján hatályát vesztette.
+[^52]: Az 1. számú melléklet a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja, a 253/2011. (XII. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
