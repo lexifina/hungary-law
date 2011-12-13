@@ -134,7 +134,7 @@
 
 7. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez
 
-## A fekvőbeteg-ellátás finanszírozásának minősítési szempontjai
+A fekvőbeteg-ellátás finanszírozásának minősítési szempontjai
 
 1. Aktív ellátás
 

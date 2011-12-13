@@ -56,7 +56,9 @@
 
 |  | Alapellátási vállalkozás támogatási átalánydíj | 1 552,4 |
 
-| 13. | Célelőirányzatok összesen | 1 744,4 |
+|  | Eseti kereset-kiegészítés | 3 400,0 |
+
+| 13. | Célelőirányzatok összesen | 5144,4 |
 
 | 15. | Mentés | 24 561,4 |
 
@@ -80,11 +82,13 @@
 
 | 18. | Összevont szakellátás összesen | 563 712,1 |
 
-| ÖSSZESEN | 770 120,0 |
+| ÖSSZESEN | 773 520,0 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^438]
 
-## Ambuláns adatlap
+Ambuláns adatlap
+
+1M25374M_0
 
 | 1. Javítás: |  | 2. Eredeti dátum: |  |  |  |  |  |  |  |  |
 

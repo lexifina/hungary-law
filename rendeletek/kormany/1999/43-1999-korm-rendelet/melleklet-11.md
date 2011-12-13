@@ -42,6 +42,8 @@
 
 | A beteg állapota: ⬜ teljes ápolásra szoruló beteg ⬜ részleges ápolásra szoruló beteg ⬜ önellátó beteg |
 
+## 5M00278_3
+
 | Nap | Ellátás típusa5 | Fő tevékenység | Ápoló TAJ száma | Nap | Ellátás típusa5 | Fő tevékenység | Ápoló TAJ száma |
 
 | 01 |  |  |  |  |  |  |  |  |  |  |  |  | 17 |  |  |  |  |  |  |  |  |  |  |  |  |

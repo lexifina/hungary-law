@@ -1,5 +1,3 @@
-## A nem pszichiátriai rehabilitációs minősítési kritériumok
-
 | Feltétel | „A” minősítésű rehabilitáció kritériumai | „B” minősítésű rehabilitáció kritériumai | „C” Minősítés nélküli rehabilitáció kritériumai |
 
 | 1. Osztályvezető | az osztályt legalább 5 éves, igazolt rehabilitációs szakmai gyakorlattal rendelkező rehabilitációs szakorvos vezeti**** | az osztályt rehabilitációs szakorvos vezeti | az osztály vezetője nem szükséges, hogy rehabilitációs szakorvos legyen |
