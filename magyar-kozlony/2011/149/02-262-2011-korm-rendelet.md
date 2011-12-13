@@ -1,0 +1,145 @@
+# A Kormány 262/2011. (XII. 13.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 149. szám, 2011. december 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2417703add56420d3f95f637bf32b44fac55867b/dokumentumok/0ba8fe9068332ab411243d933135b6b8f8e38791/letoltes)
+
+---
+
+A Kormány 262/2011. (XII. 13.) Korm. rendelete
+az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának
+részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról
+és az Egészségbiztosítási Alapból finanszírozott egészségügyi szolgáltatóknál alkalmazottak
+eseti kereset-kiegészítéséről
+A Kormány
+a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott felhatalmazás
+alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva,
+a 2. § tekintetében az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 35. §
+(1) bekezdés g) pontjában meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 5. számú melléklete az 1. melléklet szerint módosul.
+2. § (1) 2011. december hónapban eseti kereset-kiegészítésre jogosultak
+a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi intézményekben történő
+végrehajtásáról szóló 356/2008. (XII. 31.) Korm. rendelet (a továbbiakban: Vhr.) 16. § (2) bekezdésében
+meghatározott munkakörben dolgozók, valamint a büntetés-végrehajtási szervezet fekvőbeteg-szakellátást
+nyújtó intézményeiben azonos munkakörökben foglalkoztatott hivatásos állományú egészségügyi dolgozók,
+továbbá
+b) a katonák illetményéről és illetményjellegű juttatásairól, valamint a közalkalmazottak jutalmazásáról szóló
+3/2002. (I. 25.) HM rendelet (a továbbiakban: HMr.) 38/B. §-ában meghatározott munkakörben dolgozó, a Magyar
+Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó orvosok
+és egészségügyi beosztású katonák,
+akkor, ha Egészségbiztosítási Alapból (a továbbiakban: E. Alap) finanszírozott egészségügyi szolgáltatóval a
+munkaviszonyuk, közalkalmazotti vagy szolgálati jogviszonyuk 2011. október 1-je óta az adatszolgáltatást megelőző
+napig megszakítás nélkül fennáll.
+(2) Nem jogosult az eseti kereset-kiegészítésre, aki az (1) bekezdésben meghatározott teljes időtartam alatt fizetés nélküli
+szabadságon van.
+(3) A teljes munkaidős foglalkoztatás esetén az eseti kereset-kiegészítés
+a) az (1) bekezdés a) pontja szerinti személyek tekintetében a Vhr. 16. § (2) bekezdésében meghatározott,
+b) az (1) bekezdés b) pontja szerinti személyek tekintetében a HMr. 38/B. §-ában meghatározott
+pótlék-kategóriák alapján az (5) bekezdés szerinti felosztással kerül megállapításra. A részmunkaidőben
+foglalkoztatottak arányos eseti kereset-kiegészítésre jogosultak.
+(4) Az eseti kereset-kiegészítésre jogosult alkalmazottakról az egészségügyi szolgáltató 2011. december 13-áig szolgáltat
+adatot az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) részére a 2. melléklet szerinti adatlappal.
+A határidő elmulasztása jogvesztő. Az adatok valóságtartalmáért az egészségügyi szolgáltató vezetője teljes körű
+felelősséggel tartozik.
+(5) Az eseti kereset-kiegészítéssel összefüggő támogatás összegét a Kr. 5. számú mellékletében a Célelőirányzatokon
+belül az Eseti kereset-kiegészítésre fordítható kiadásokra rendelkezésre álló előirányzat mértékéig visszaosztással
+arányosan
+a) az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.)
+2. § 22. pontja alapján nettó finanszírozási körbe tartozó egészségügyi szolgáltatónak minősülő költségvetési
+szervek részére az OEP legkésőbb 2011. december 15-éig utalványozza, és a Magyar Államkincstár legkésőbb
+2011. december 16-áig folyósítja,
+
+b) az Ámr. 2. § 23. pontja alapján bruttó finanszírozási körbe tartozó egészségügyi szolgáltatónak minősülő
+költségvetési szervek és egyéb egészségügyi szolgáltatók részére az OEP legkésőbb 2011. december 16-áig
+folyósítja.
+(6) Az egészségügyi szolgáltatónak a kereset-kiegészítéshez kapott támogatással 2012. január 31-éig el kell számolni.
+Az egészségügyi szolgáltatónak a jogosulatlanul igénybe vett támogatást az E. Alap részére vissza kell téríteni
+legkésőbb 2012. február 29-éig.
+(7) Amennyiben az egészségügyi szolgáltató a nem jogszerűen igénybe vett támogatást a (6) bekezdésben
+meghatározott határidőig nem téríti vissza, az őt meg nem illető támogatásnak a bankszámláján történt jóváírás
+napjától a visszatérítés napjáig számított, a jegybanki alapkamat kétszeresének megfelelő pótlékkal növelt összegét
+haladéktalanul köteles az E. Alap részére visszatéríteni.
+(8) Az OEP a (6) és (7) bekezdés szerinti elszámolás eredménye alapján az egészségügyi szolgáltató visszatérítési
+kötelezettségét az esedékes havi finanszírozás elszámolása során is érvényesítheti.
+3. § Ez a rendelet a kihirdetése napján 10 órakor lép hatályba és 2012. május 31-én hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 262/2011. (XII. 13.) Korm. rendelethez
+1. A Kr. 5. számú mellékletében foglalt táblázat a „Célelőirányzatok” megnevezésű sorában az „Alapellátási vállalkozás
+támogatási átalánydíj 1 552,4” sort követően a következő sorral egészül ki:
+„Eseti kereset-kiegészítés 3 400,0”
+2. A Kr. 5. számú mellékletében foglalt táblázat
+a) „13. Célelőirányzatok összesen” sorában az „1 744,4” szövegrész helyébe az „5144,4” szöveg,
+b) „ÖSSZESEN” sorában a „770 120,0” szövegrész helyébe a „773 520,0” szöveg
+lép.
+
+2. melléklet a 262/2011. (XII. 13.) Korm. rendelethez
+ADATLAP
+
+Adatot szolgáltató egészségügyi intézmény OEP kódja:
+megnevezése:
+Az adatszolgáltatással kapcsolatos felelős neve, elérhetősége:
+Feladatkör - munkakör
+Teljes munkaidőben
+alkalmazottak (Fő)
+7 órás 6 órás 5 órás 4 órás 3 órás 2 órás 1 órás
+aneszteziológiai és intenzív terápiás osztályon dolgozó orvos
+aneszteziológiai és intenzív terápiás osztályon dolgozó szakasszisztens
+aneszteziológiai és intenzív terápiás osztályon dolgozó ápoló
+traumatológiai osztályon három műszakos munkahelyen alkalmazott ápoló
+műtőben foglalkoztatott műtős szakasszisztens
+ÖSSZESEN 0 0 0 0 0 0 0 0
+7 órás 6 órás 5 órás 4 órás 3 órás 2 órás 1 órás
+röntgenben dolgozó orvos
+röntgenben dolgozó asszisztens
+röntgengép-javító műszerész
+diagnosztikai laboratóriumban diagnosztikai tevékenységet végző orvos
+diagnosztikai laboratóriumban diagnosztikai tevékenységet végző egyéb
+egyetemi vagy főiskolai végzettséggel rendelkező munkatárs
+diagnosztikai laboratóriumban diagnosztikai tevékenységet végző asszisztens
+traumatológiai osztályon foglalkoztatott orvos
+boncolást végző orvos
+boncolást végző boncmester
+boncolást végző boncsegéd
+vér és vérkészítmény előállítását végző orvos
+vér és vérkészítmény előállítását végző egyéb egyetemi vagy főiskolai
+végzettséggel rendelkező munkatárs
+vér és vérkészítmény előállítását végző asszisztens
+fertőző beteget ellátó, valamint pulmonológiai gondozóban alkalmazott orvos
+fertőző beteget ellátó, valamint pulmonológiai gondozóban alkalmazott
+egészségügyi szakdolgozó
+pszichiátriai osztályon, pszichiátriai, addiktológiai gondozóban dolgozó orvos
+pszichiátriai osztályon, pszichiátriai, addiktológiai gondozóban dolgozó ápoló
+műszakbeosztástól függetlenül, a három műszakos munkahelyen ápolási
+tevékenységet végzők
+az Országos Mentőszolgálat kivonuló állománya
+szülészeti osztályon alkalmazott szülésznő
+műtőssegéd
+mosodában, teljes munkaidőben a szennyes ruhák átvételét végző
+ÖSSZESEN 0 0 0 0 0 0 0 0
+7 órás 6 órás 5 órás 4 órás 3 órás 2 órás 1 órás
+asszisztensi és szakasszisztensi képesítéssel rendelkező (szak)asszisztensi
+munkakörben dolgozó
+MINDÖSSZESEN
+(valamennyi pótlékra jogosult munkakörben alkalmazott)
+0 0 0 0 0 0 0 0
+Amennyiben az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának
+részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról és az Egészségbiztosítási
+Alapból finanszírozott egészségügyi szolgáltatóknál alkalmazottak eseti kereset-kiegészítéséről szóló
+262/2011. (XII. 13.) Korm. rendelet 2. § (1) bekezdésében meghatározott jogosultsági időtartamon belül az
+egészségügyi dolgozó egészségügyi szolgáltatót váltott, de a jogosultsága a jogszabály alapján továbbra is
+fennáll, akkor annak a munkáltatónak kell jelentenie az egészségügyi dolgozót, akivel az adatszolgáltatás
+időpontjában a foglalkoztatásra irányuló jogviszony fennáll.
+Kitöltéssel kapcsolatos kiegészítő információ:
+A Vhr. esetében 36%-os, a HMr. esetében 20%-os pótlékra jogosult munkakörben alkalmazottak
+A Vhr. esetében 150%-os, a HMr. esetében 80%-os pótlékra jogosult munkakörben alkalmazottak
+ADATLAP egészségügyi szolgáltatóknál
+a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi intézményekben történő
+végrehajtásáról szóló 356/2008. (XII. 31.) Korm. rendelet (a továbbiakban: Vhr.) 16. § (2) bekezdésében, illetve a katonák illetményéről és illetményjellegű
+juttatásairól, valamint a közalkalmazottak jutalmazásáról szóló 3/2002. (I. 25.) HM rendelet (a továbbiakban: HMr.) 38/B. §-ában meghatározott munkakörben
+alkalmazottakról, a büntetés-végrehajtási szervezet fekvőbeteg-szakellátást nyújtó intézményeiben azonos munkakörökben foglalkoztatott hivatásos állományú
+egészségügyi dolgozókról
+A Vhr. esetében 120%-os, a HMr. esetében 65%-os pótlékra jogosult munkakörben alkalmazottak
+Részmunkaidőben alkalmazottak (Fő)
+
+V. A Kormány tagjainak rendeletei
