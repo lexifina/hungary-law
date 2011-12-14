@@ -62,9 +62,9 @@ bf) fűtés: fa vagy megújuló energia,
 
 c) kezdete: 2011. augusztus
 
-d) beruházója (építtetője): a Belügyminisztérium,
+d)[^2] beruházója (építtetője): a belügyminiszter,
 
-e) beruházás-lebonyolítója és építési műszaki ellenőre: BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.;
+e)[^3] közbeszerzés lebonyolítója és építési műszaki ellenőre: BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.;
 
 1.4. felhívja a belügyminisztert, hogy a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt. útján készítse elő és bonyolítsa le Ócsa területén a szociális lakásépítési beruházás közbeszerzését építészeti-műszaki tervezésre és építőipari kivitelezésre;
 
@@ -113,3 +113,6 @@ belügyminiszter
 Határidő: folyamatos
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1.3. pont d) alpontja az 1434/2011. (XII. 13.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1.3. pont e) alpontja az 1434/2011. (XII. 13.) Korm. határozat 1. pontjával megállapított szöveg.
