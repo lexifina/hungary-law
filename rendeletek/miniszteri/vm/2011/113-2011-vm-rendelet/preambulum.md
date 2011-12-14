@@ -1,1 +1,0 @@
-A hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 59. § (2) bekezdés c) pont cc) alpontban foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § k) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
