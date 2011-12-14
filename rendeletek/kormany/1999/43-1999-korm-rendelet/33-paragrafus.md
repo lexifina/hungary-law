@@ -30,7 +30,7 @@ b) új kapacitásra,
 
 c) a meglévő kapacitások módosítására
 
-az egészségügyért felelős miniszter egyetértésével köthető, illetve módosítható. Amennyiben az a)–c) pontok szerinti szerződéskötés éven túli kötelezettség-vállalást is eredményez, az államháztartásért felelős miniszter egyetértésével köthető meg a finanszírozási szerződés.
+## az egészségügyért felelős miniszter egyetértésével köthető, illetve módosítható. Amennyiben az a)–c) pontok szerinti szerződéskötés éven túli kötelezettség-vállalást is eredményez, az államháztartásért felelős miniszter egyetértésével köthető meg a finanszírozási szerződés.
 
 (9)[^317] A betegszállítás megrendelője a betegszállítás nem teljesítését, illetve olyan késedelmes teljesítését, mely a beteg állapotának olyan mértékű rosszabbodásához vezetett, hogy ennek következtében a betegszállítás már mentési feladatnak minősült, haladéktalanul köteles írásban jelenteni az OEP-nek.
 

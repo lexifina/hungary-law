@@ -4,13 +4,13 @@ a) biztosított, azonban az adott szolgálathoz nem jelentkezett be, vagy
 
 b)[^108] nemzetközi egyezmény, vagy a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján jogosult az ellátásra [a továbbiakban a)–b) együtt: eseti ellátás],
 
-a szolgáltató a (3)–(5) bekezdésben meghatározottak szerint részesül az E. Alapból díjazásban.
+## a szolgáltató a (3)–(5) bekezdésben meghatározottak szerint részesül az E. Alapból díjazásban.
 
 (2) Az (1) bekezdést alkalmazni kell a helyettesítés során is, kivéve, ha az ellátott biztosított a helyettesítő, illetőleg a helyettesített praxisba bejelentkezett.
 
 (3)[^109] A háziorvosi szolgáltató a tárgyhót követő hónap 5. napjáig az ambuláns napló adatai alapján a 4. számú melléklet szerint jelenti az általa nyújtott eseti ellátásokat a finanszírozónak kísérőjegyzékkel, számítógépes adathordozón. Az OEP az adatokat összegyűjti, és az eseti ellátások így előálló számával elosztja az eseti ellátás díjazására rendelkezésre álló havi keretösszeget. A kapott összeg, de legfeljebb 600 forint, a tárgyhóban az egy eseti ellátásra kiutalható díj.
 
-(4)[^110] A háziorvosi szolgáltató részére az általa jelentett eseti ellátások száma és a (3) bekezdés szerinti díj szorzatának megfelelő összeget az OEP legkésőbb a jelentés leadását követő hónapban utalványozza a 6. § (3) bekezdése szerint.
+(4)[^110] A háziorvosi szolgáltató részére az általa jelentett eseti ellátások száma és a (3) bekezdés szerinti díj szorzatának megfelelő összeget az OEP a jelentés leadásának hónapjában utalványozza a 6. § (3) bekezdése szerint.
 
 (5)[^111] Amennyiben az eseti ellátások díjazására szolgáló havi keretösszeg nem kerül felhasználásra, annak maradványát a háziorvosi szolgálatok következő havi teljesítményarányos díjazásához kell hozzáadni.
 
@@ -18,5 +18,5 @@ a szolgáltató a (3)–(5) bekezdésben meghatározottak szerint részesül az 
 [^107]: A 13. § (1) bekezdésének felvezető szövege a 329/2005. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^108]: A 13. § (1) bekezdésének b) pontja a 329/2005. (XII. 29.) Korm. rendelet 5. §-ával megállapított és a 139/2010. (IV. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^109]: A 13. § (3) bekezdése a 257/2001. (XII. 19.) Korm. rendelet 7. §-ával megállapított, a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésnek a) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
-[^110]: A 13. § (4) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, valamint a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^110]: A 13. § (4) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdés c) pontja, a 263/2011. (XII. 13.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^111]: A 13. § (5) bekezdése a 21/2000. (III. 3.) Korm. rendelet 9. §-ának (2) bekezdésével megállapított szöveg.

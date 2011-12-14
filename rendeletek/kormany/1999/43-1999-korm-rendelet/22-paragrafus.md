@@ -16,7 +16,7 @@ c)[^176] a közlekedésért felelős miniszter által vezetett minisztérium vag
 
 d) az országos fekvőbeteg-ellátó intézetek heti 40 óra szakellátási rendelésre
 
-jogosult.
+## jogosult.
 
 (3)[^177] Az OEP szerződést köthet fogyatékkal élő gyermekek és felnőttek ellátására Budapesten heti 90, megyénként összességében heti 45-45 fogászati óraszámra. Ez a feladat a fogorvosi körzet működtetése mellett csökkentett fogászati óraszámban, de legalább heti 6 órában is ellátható. Az ellátást nyújtó havi alapdíjra jogosult a rendelkezésre állásra és a speciális tevékenységre tekintettel. Az alapdíj rendelésenként – önálló szervezeti egységkóddal rendelkező szervezeti egységenként – heti 30 óra rendelési idő esetén 12 000 korcsoportos pontszámnak megfelelő összeg, ennél alacsonyabb heti rendelési idő esetén az összeg időarányos része.
 
@@ -66,7 +66,7 @@ b) a 20 000 főt meghaladó lakosságszámú településeken legfeljebb egy,
 
 c) a b) pont alá nem tartozó települések bármilyen jellegű bevonásával 20 000 főt meghaladó lakosságszám esetén legfeljebb egy,
 
-valamint az e rendelet hatálybalépésekor is működő ügyeleti szolgálatra köthető finanszírozási szerződés.
+## valamint az e rendelet hatálybalépésekor is működő ügyeleti szolgálatra köthető finanszírozási szerződés.
 
 (8)[^187] A fogászati szakellátást nyújtó szolgáltató – ideértve az egyetemi szakellátást nyújtó szolgáltatót is – abban az esetben jogosult a (4) és (5) bekezdés szerinti alapdíjra, ha a tárgyhónapban a díjazással érintett szakrendelés szolgáltatást nyújt.
 

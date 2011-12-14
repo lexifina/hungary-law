@@ -10,11 +10,11 @@ b) életkori korlátozás nélkül 1200–1500 fő lakos (a továbbiakban: vegye
 
 c)[^74] 0–14 év közötti 600–800 fő lakos (a továbbiakban: gyermekkörzet)
 
-ellátását biztosítja.
+## ellátását biztosítja.
 
 (3)[^75] Amennyiben a körzethatárok módosítása során a (2) bekezdésben meghatározott minimumlétszám alatti lakosságszámú felnőtt, vegyes, illetve házi gyermekorvosi körzet kerül kialakításra, az OEP a szolgáltatóval akkor köt finanszírozási szerződést, ha az önkormányzat(ok) rendelkezik(nek) a körzetek megosztásáról, ennek érdekében a szolgáltató a szerződés módosítását kezdeményezi. Az OEP a 14. § (2)–(4) bekezdése szerinti fixdíjakat utalja. Új körzet létesítése esetén nem köthető finanszírozási szerződés, ha az új körzet létesítése következtében valamely meglévő körzet lakosságszáma felnőtt és vegyes körzet esetén 1200, gyermekkörzet esetén 600 fő alá csökken.
 
-(4)[^76] A (2) bekezdésnek megfelelő új körzet esetén a díjazást az OEP a körzet kialakítását követő egy éven át kiegészíti az adott típusú háziorvosi körzetek előző évi teljesítménye szerinti átlagos havi díjazásának mértékéig. Az első hónapra a 14. § (2)–(4) bekezdés szerint járó díjazás a következő hónap fixdíjával együtt kerül utalványozásra.
+(4)[^76] A (2) bekezdésnek megfelelő új körzet esetén a díjazást az OEP a körzet kialakítását követő egy éven át kiegészíti az adott típusú háziorvosi körzetek előző évi teljesítménye szerinti átlagos havi díjazásának mértékéig, amely az első hónaptól kifizetésre kerül. A 14. § (2)–(4) bekezdése szerint járó díjazás az első hónaptól kifizetésre kerül.
 
 (5)[^77] A területi ellátási kötelezettséggel érintett körzet lakosságszámát az előző év december 31-ei állapotnak megfelelően a település jegyzője igazolja az OEP számára minden év március 31-éig, illetve a körzethatár-módosítás miatt kezdeményezett szerződésmódosítással egyidejűleg.
 
@@ -24,5 +24,5 @@ ellátását biztosítja.
 [^73]: A Magyar Közlöny 1999. évi 30. számában közzétett helyesbítésnek megfelelő szöveg.
 [^74]: A 8. § (2) bekezdésének c) pontja a 102/2003. (VII. 17.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
 [^75]: A 8. § (3) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 6. §-ának (1) bekezdésével megállapított, valamint a 102/2003. (VII. 17.) Korm. rendelet 13. § (3) bekezdése és (4) bekezdésének a) pontja, a 365/2010. (XII. 30.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.
-[^76]: A 8. § (4) bekezdése a 102/2003. (VII. 17.) Korm. rendelet 13. § (3) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.
+[^76]: A 8. § (4) bekezdése a 102/2003. (VII. 17.) Korm. rendelet 13. § (3) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 7. pontja, a 263/2011. (XII. 13.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^77]: A 8. § (5) bekezdését a 257/2001. (XII. 19.) Korm. rendelet 6. §-a iktatta be, szövege a 293/2002. (XII. 27.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított, valamint a 102/2003. (VII. 17.) Korm. rendelet 13. § (3) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.

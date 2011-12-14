@@ -1,94 +1,96 @@
-| Millió forint |
+|  |  |  | Millió forint |
 
-|  | Megnevezés | 2011. évi tervezett előirányzat |
+|  | Megnevezés | 2011. évi eredeti előirányzat | 2011. évi módosított előirányzat |
 
-|  | Háziorvosi, háziorvosi ügyelet ellátása |  |
+|  | Háziorvosi, háziorvosi ügyelet ellátása |  |  |
 
-|  | Praxisfinanszírozás | 70 999,2 |
+|  |  | Praxisfinanszírozás | 70 999,2 | 74 499,2 |
 
-|  | Eseti ellátás díjazása | 569,3 |
+|  |  | Eseti ellátás díjazása | 569,3 | 569,3 |
 
-|  | Ügyeleti szolgálat | 9 547,4 |
+|  |  | Ügyeleti szolgálat | 9 547,4 | 9 547,4 |
 
-| 1. | Háziorvosi, háziorvosi ügyelet ellátása összesen | 81 115,9 |
+| 1. | Háziorvosi, háziorvosi ügyelet ellátása összesen | 81 115,9 | 84 615,9 |
 
-|  | Iskolaegészségügyi ellátás | 1 856,0 |
+|  | Védőnő, anya-, gyermek- és ifjúságvédelem |  |  |
 
-|  | Védőnői ellátás | 15 440,8 |
+|  |  | Iskolaegészségügyi ellátás | 1 856,0 | 1 856,0 |
 
-|  | Anya-, gyermek- és csecsemővédelem | 451,5 |
+|  |  | Védőnői ellátás | 15 440,8 | 15 440,8 |
 
-|  | MSZSZ: gyermekgyógyászat | 121,6 |
+|  |  | Anya-, gyermek- és csecsemővédelem | 451,5 | 451,5 |
 
-|  | MSZSZ: nőgyógyászat | 96,3 |
+|  |  | MSZSZ: gyermekgyógyászat | 121,6 | 121,6 |
 
-| 2. | Védőnő, anya-, gyermek- és ifjúságvédelem összesen | 17 966,2 |
+|  |  | MSZSZ: nőgyógyászat | 96,3 | 96,3 |
 
-| 3. | Fogászati ellátás | 23 470,4 |
+| 2. | Védőnő, anya-, gyermek- és ifjúságvédelem összesen | 17 966,2 | 17 966,2 |
 
-|  | Gondozóintézeti gondozás |  |
+| 3. | Fogászati ellátás | 23 470,4 | 23 470,4 |
 
-|  | Nemibeteg gondozás | 261,6 |
+|  | Gondozóintézeti gondozás |  |  |
 
-|  | Tüdőgondozás | 1 065,2 |
+|  |  | Nemibeteg gondozás | 261,6 | 518,4 |
 
-|  | Pszichiátriai gondozás | 548,4 |
+|  |  | Tüdőgondozás | 1 065,2 | 2 159,0 |
 
-|  | Onkológiai gondozás | 256,7 |
+|  |  | Pszichiátriai gondozás | 548,4 | 1 072,6 |
 
-|  | Alkohológia és drogellátás | 168,6 |
+|  |  | Onkológiai gondozás | 256,7 | 503,4 |
 
-| 4. | Gondozóintézeti gondozás összesen | 2 300,5 |
+|  |  | Alkohológia és drogellátás | 168,6 | 345,1 |
 
-| 5. | Betegszállítás és orvosi rendelvényű halottszállítás | 5 780,2 |
+| 4. | Gondozóintézeti gondozás összesen | 2 300,5 | 4 598,5 |
 
-| 8. | Művesekezelés | 23 171,1 |
+| 5. | Betegszállítás és orvosi rendelvényű halottszállítás | 5 780,2 | 6 130,2 |
 
-| 10. | Otthoni szakápolás | 4 404,8 |
+| 8. | Művesekezelés | 23 171,1 | 23 171,1 |
 
-| 12. | Működési költségelőleg | 1 000,0 |
+| 9. | Otthoni szakápolás | 4 404,8 | 4 404,8 |
 
-|  | Célelőirányzatok |  |
+| 11. | Működési költségelőleg | 1 000,0 | 1 000,0 |
 
-|  | Bázisfinanszírozott fekvőbeteg szakellátás | 8,9 |
+|  | Célelőirányzatok |  |  |
 
-|  | Méltányossági alapon történő térítések | 183,1 |
+|  |  | Bázisfinanszírozott fekvőbeteg szakellátás | 8,9 | 8,9 |
 
-|  | Alapellátási vállalkozás támogatási átalánydíj | 1 552,4 |
+|  |  | Méltányossági alapon történő térítések | 183,1 | 183,1 |
 
-|  | Eseti kereset-kiegészítés | 3 400,0 |
+|  |  | Alapellátási vállalkozás támogatási átalánydíj | 1 552,4 | 1 552,4 |
 
-| 13. | Célelőirányzatok összesen | 5144,4 |
+|  |  | Eseti kereset-kiegészítés |  | 3 400,0 |
 
-| 15. | Mentés | 24 561,4 |
+|  |  | Onkológiai gyógyszerek áremelkedése miatti kompenzáció |  | 500,0 |
 
-| 17. | Laboratóriumi ellátás | 20 893,0 |
+| 13. | Célelőirányzatok összesen | 1 744,4 | 5 644,4 |
 
-|  | Összevont szakellátás |  |
+| 15. | Mentés | 24 561,4 | 25 343,4 |
 
-|  | Járóbeteg-szakellátás + CT, MRI | 118 548,3 |
+| 17. | Laboratóriumi ellátás | 20 893,0 | 20 893,0 |
 
-|  | Fekvőbeteg-szakellátás | 410 270,6 |
+|  | Összevont szakellátás |  |  |
 
-|  | aktív fekvőbeteg szakellátás | 346 607,5 |
+|  |  | Járóbeteg-szakellátás + CT, MRI | 118 548,3 | 116 250,3 |
 
-|  | krónikus fekvőbeteg szakellátás | 62 715,1 |
+|  |  | Fekvőbeteg-szakellátás | 410 270,6 | 413 838,6 |
 
-|  | bázis finanszírozású szakellátás (BM BVOP) | 948,0 |
+|  |  | – aktív fekvőbeteg szakellátás | 346 607,5 | 350 175,5 |
 
-|  | Extrafinanszírozás | 20,6 |
+|  |  | – krónikus fekvőbeteg szakellátás | 62 715,1 | 62 715,1 |
 
-|  | Speciális finanszírozású fekvőbeteg | 34 872,6 |
+|  |  | – bázis finanszírozású szakellátás (BM BVOP) | 948,0 | 948,0 |
 
-| 18. | Összevont szakellátás összesen | 563 712,1 |
+|  |  | Extrafinanszírozás | 20,6 | 20,6 |
 
-| ÖSSZESEN | 773 520,0 |
+|  |  | Speciális finanszírozású fekvőbeteg | 34 872,6 | 34 572,6 |
 
-6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^438]
+| 18. | Összevont szakellátás összesen | 563 712,1 | 564 682,1 |
 
-Ambuláns adatlap
+| ÖSSZESEN | 770 120,0 | 781 920,0 |
 
-1M25374M_0
+6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^439]
+
+## Ambuláns adatlap
 
 | 1. Javítás: |  | 2. Eredeti dátum: |  |  |  |  |  |  |  |  |
 
@@ -546,4 +548,4 @@ A felírt gyógyászati ellátás vények számát kell megadni
 
 39.
 
-[^438]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^439]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.

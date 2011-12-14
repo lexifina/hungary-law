@@ -1,3 +1,5 @@
+## 29/B. §[^271]
+
 30. § (1)[^272] A teljesítmények rögzítése a rendelési helyeken, a gondozást végző részlegeken és a szakambulanciákon a napi betegforgalmi nyilvántartás kitöltésével történik, amelynek alapján az egészségügyi szolgáltató megküldi a finanszírozónak az elszámoláshoz a 6/A. számú melléklet szerinti teljesítményjelentést. A teljesítményjelentésnek tartalmazni kell a (4) bekezdés szerinti fekvőbeteg osztályon kezelés alatt álló, valamint a fekvőbeteg-gyógyintézetből elbocsátott beteg részére nyújtott, járóbeteg-szakellátási teljesítményként nem elszámolható ellátást is.
 
 (2)[^273] Teljesítményként az R. 2. számú mellékletében önálló elszámolási tételként meghatározott ellátáshoz tartozó pontértéket lehet elszámolni, ha az ellátás megfelel a 4. § (3)–(4) bekezdéseiben, valamint a 26. §-ban és a finanszírozási szerződésben foglalt feltételeknek, továbbá a járóbeteg-szakellátás tevékenységi kódlistájának alkalmazásáról szóló Szabálykönyvben foglaltaknak.
@@ -32,6 +34,7 @@ d) az olyan személy részére nyújtott ellátás, amelynek költségeit az eg�
 
 (13)[^286]
 
+[^271]: A 29/B. §-t a 299/2004. (X. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 318/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdése.
 [^272]: A 30. § (1) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^273]: A 30. § (2) bekezdése a 21/2000. (III. 3.) Korm. rendelet 16. §-ának (1) bekezdésével megállapított szöveg.
 [^274]: A 30. § új (3) bekezdését a 29/2001. (III. 2.) Korm. rendelet 10. §-a iktatta a szövegbe, egyidejűleg az eredeti (3)–(11) bekezdés számozását (4)–(12) bekezdésre változtatta. A (3) bekezdés a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg; ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
