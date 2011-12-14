@@ -1,8 +1,8 @@
-## 8/A. §[^63] A kedvezmény személyi feltételeire vonatkozó rendelkezéseket a fiatalok otthonteremtési támogatása esetében is alkalmazni kell.
+## 8/A. §[^65] A kedvezmény személyi feltételeire vonatkozó rendelkezéseket a fiatalok otthonteremtési támogatása esetében is alkalmazni kell.
 
 ## 2. Akadálymentesítési támogatás
 
-9. §[^64] (1) Mozgáskorlátozott személy részére akadálymentes lakás építéséhez vagy vásárlásához, valamint az akadálymentesítés többletköltségeire vissza nem térítendő állami támogatás nyújtható.
+9. §[^66] (1) Mozgáskorlátozott személy részére akadálymentes lakás építéséhez vagy vásárlásához, valamint az akadálymentesítés többletköltségeire vissza nem térítendő állami támogatás nyújtható.
 
 (2) Az akadálymentesítési támogatás
 
@@ -30,11 +30,11 @@ b) ahhoz, hogy az épületet, illetve lakását megfelelően használhassa, töb
 
 (8) A mozgásszervi fogyatékosságot, illetve súlyos mozgáskorlátozottságot a következő módon kell igazolni, a támogatásra irányuló kérelem benyújtásakor:
 
-a)[^65] a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pontja szerinti iratokkal,
+a)[^67] a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pontja szerinti iratokkal,
 
 b) az orvosszakértői szervnek a 141/2000. (VIII. 9.) Korm. rendelet szerinti, a súlyos fogyatékosság minősítését tartalmazó szakvéleményével vagy szakhatósági állásfoglalásával arról, hogy az igénylő mozgásszervi fogyatékos vagy súlyos mozgáskorlátozott.
 
-c)[^66]
+c)[^68]
 
 (9) A támogatási kérelemhez az akadálymentesítési munkák műszaki leírását, valamint azok építési költségét tartalmazó költségvetést mellékelni kell.
 
@@ -64,7 +64,7 @@ k) lakás komfortfokozatának növelése céljából gáz, illetve egyéb, szil�
 
 (11) Az akadálymentesítési munka része a (10) bekezdés szerinti munkákhoz közvetlenül kapcsolódó helyreállítási munka is, az akadálymentesítés közvetlen költségeinek legfeljebb 40%-áig.
 
-[^63]: A 8/A. §-t a 3/2005. (I. 12.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
-[^64]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^65]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^66]: A 9. § (8) bekezdés c) pontját a 102/2011. (VI. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte.
+[^65]: A 8/A. §-t a 3/2005. (I. 12.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
+[^66]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^67]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^68]: A 9. § (8) bekezdés c) pontját a 102/2011. (VI. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte.

@@ -1,0 +1,3 @@
+## 25/B. §[^197] A hitelintézet az e rendelet szerinti közvetlen támogatások nyújtását nem tagadhatja meg, ha a támogatott személy a személyi és egyéb feltételeknek megfelel, és a lakáscélját kölcsön igénybevétele nélkül – a hitelintézet számára bizonyíthatóan – meg tudja valósítani. Amennyiben lakáscélját kölcsön igénybevételével tudja csak megvalósítani az igénylő, úgy a közvetlen támogatások csak abban az esetben igényelhetők, ha a hitelintézet az igényelt kölcsön felvételéhez hitelképesnek minősíti.
+
+[^197]: A 25/B. §-t a 22/2006. (II. 3.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 19. § (4) bekezdése alapján a rendelkezést a 2006. február 11. napját követően benyújtott kérelmek esetében kell alkalmazni.

@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2011-05-05 | 2001-12-20-22.45 | 74/2011. (V. 2.) Korm. rendelet |
 | 2011-07-02 | 2001-12-20-22.46 | 102/2011. (VI. 29.) Korm. rendelet |
 | 2011-07-08 | 2001-12-20-22.47 | 391/2007. (XII. 23.) Korm. rendelet |
+| 2011-12-14 | 2001-12-20-22.48 | 257/2011. (XII. 6.) Korm. rendelet |
