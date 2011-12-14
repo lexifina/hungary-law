@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 29. § (4)–(5) bekezdésében meghatározott fejezeti tartalékok és Média tartalék felhasználását nem engedélyezi.
