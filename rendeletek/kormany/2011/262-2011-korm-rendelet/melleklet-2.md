@@ -1,15 +1,3 @@
-## 1. A Kr. 5. számú mellékletében foglalt táblázat a „Célelőirányzatok” megnevezésű sorában az „Alapellátási vállalkozás támogatási átalánydíj 1 552,4” sort követően a következő sorral egészül ki:
-
-## „Eseti kereset-kiegészítés 3 400,0”
-
-## 2. A Kr. 5. számú mellékletében foglalt táblázat
-
-## a) „13. Célelőirányzatok összesen” sorában az „1 744,4” szövegrész helyébe az „5144,4” szöveg,
-
-## b) „ÖSSZESEN” sorában a „770 120,0” szövegrész helyébe a „773 520,0” szöveg
-
-## lép.
-
 2. melléklet a 262/2011. (XII. 13.) Korm. rendelethez
 
 ADATLAP

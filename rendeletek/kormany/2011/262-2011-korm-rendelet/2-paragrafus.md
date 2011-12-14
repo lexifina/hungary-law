@@ -1,5 +1,3 @@
-## 1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 5. számú melléklete az 1. melléklet szerint módosul.
-
 2. § (1) 2011. december hónapban eseti kereset-kiegészítésre jogosultak
 
 a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi intézményekben történő végrehajtásáról szóló 356/2008. (XII. 31.) Korm. rendelet (a továbbiakban: Vhr.) 16. § (2) bekezdésében meghatározott munkakörben dolgozók, valamint a büntetés-végrehajtási szervezet fekvőbeteg-szakellátást nyújtó intézményeiben azonos munkakörökben foglalkoztatott hivatásos állományú egészségügyi dolgozók, továbbá
