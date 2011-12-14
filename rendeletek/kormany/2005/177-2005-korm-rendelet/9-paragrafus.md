@@ -24,13 +24,13 @@ b) 99/B. §-ának (3)–(6) bekezdésében, valamint
 
 c) 99/E. §-ában
 
-foglaltakat megfelelően alkalmazni kell.
+## foglaltakat megfelelően alkalmazni kell.
 
 (5)[^49] Nem folyósítható támogatás annak a megváltozott munkaképességű munkavállalónak a foglalkoztatásához, akire tekintettel a munkáltató e rendelet 2. § (1) bekezdés f) pontja, illetőleg 5–8. §-a szerinti támogatásban részesül.
 
 (6)[^50] Támogatásként a foglalkoztatáshoz kapcsolódó költségek legfeljebb 80 százaléka téríthető meg. A támogatás elszámolásának módját a külön jogszabályban meghatározott keretek között a támogatási szerződésben kell meghatározni oly módon, hogy az nem korlátozhatja a külön jogszabályban meghatározott és igazoltan felmerülő költségek elszámolhatóságát.
 
-(7)[^51] A rehabilitációs költségtámogatásra kötött, 2011. június 30-án hatályos hatósági keretszerződés – pályázati eljárás lefolytatása nélkül – legfeljebb 2011. december 31-ig terjedő hatállyal megújítható, ha a munkáltató a jogszabályban előírt kötelezettségeket a támogatás jogszabályi feltételeinek megváltozására tekintettel is vállalja.
+(7)[^51] A rehabilitációs költségtámogatásra kötött hatósági keretszerződés hatálya – pályázati eljárás lefolytatása nélkül – legfeljebb 2012. június 30-ig meghosszabbítható, ha a munkáltató a jogszabályban előírt kötelezettségeket a támogatás jogszabályi feltételeinek megváltozására tekintettel is vállalja.
 
 [^43]: A 9. § (1) bekezdése – e rendelet 14. § (2) bekezdése alapján – 2005. november 1-jén hatályba lépett.
 [^44]: A 9. § (2) bekezdésének bevezető szövegrésze a 42/2008. (II. 29.) Korm. rendelet 9. §-ával megállapított, a 182/2009. (IX. 10.) Korm. rendelet 427. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -40,4 +40,4 @@ foglaltakat megfelelően alkalmazni kell.
 [^48]: A 9. § (4) bekezdésének a) pontja a 118/2006. (V. 12.) Korm. rendelet 6. § (2) bekezdése alapján 2007. január 1-jén lépett hatályba.
 [^49]: A 9. § (5) bekezdése a 121/2011. (VII. 15.) Korm. rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^50]: A 9. § (6) bekezdése a 352/2009. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^51]: A 9. § (7) bekezdése a 121/2011. (VII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^51]: A 9. § (7) bekezdése a 264/2011. (XII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
