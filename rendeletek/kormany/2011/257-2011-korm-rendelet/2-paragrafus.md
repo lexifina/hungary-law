@@ -1,0 +1,1 @@
+## „16. miniszter: a 28. §-ban, valamint a 32/C. §-ban foglalt előirányzatok esetében a fejlesztéspolitikáért felelős miniszter, egyéb esetben a lakásgazdálkodásért és lakáspolitikáért felelős miniszter.”
