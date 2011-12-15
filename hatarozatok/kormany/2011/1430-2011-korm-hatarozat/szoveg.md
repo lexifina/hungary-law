@@ -30,11 +30,7 @@ Határidő: 2012. május 31.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8. Hatályát veszti
-
-a) a Roma Integráció Évtizede Program Stratégiai Tervhez kapcsolódó, a 2008–2009. évekre szóló kormányzati intézkedési tervről szóló 1105/2007. (XII. 27.) Korm. határozat, valamint
-
-b) a „Legyen jobb a gyermekeknek!” Nemzeti Stratégiáról, 2007–2032 szóló 47/2007. (V. 31.) OGY határozat végrehajtásával kapcsolatos kormányzati feladatokról (2007–2010.) szóló 1092/2007. (XI. 29.) Korm. határozat.
+8.[^1]
 
 Melléklet az 1430/2011. (XII. 13.) Korm. határozathoz
 
@@ -889,3 +885,5 @@ külügyminiszter
 Határidő: 2013. december 31-ig folyamatos
 
 Forrás: nem releváns
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
