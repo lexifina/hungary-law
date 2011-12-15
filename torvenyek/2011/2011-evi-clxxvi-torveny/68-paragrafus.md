@@ -1,0 +1,5 @@
+## A kémiai biztonságról szóló 2000. évi XXV. törvény módosítása
+
+68. § A kémiai biztonságról szóló 2000. évi XXV. törvény (továbbiakban: Kbtv.) 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A veszélyes anyagokat és a veszélyes keverékeket – a (2) bekezdésben foglaltak kivételével – Magyarország területén gyártó, forgalmazó az azokkal kapcsolatos gyártási, forgalomba hozatali tevékenység megkezdésével egyidejűleg, az egészségügyért felelős miniszter 34. § (4) bekezdés a) pontjában foglalt felhatalmazás alapján kiadott rendeletében foglaltak szerint, a biztonsági adatlap, vagy a biztonsági adatlap és a címketerv csatolásával köteles elektronikus úton bejelenteni az egészségügyi államigazgatási szervnek, ha a veszélyes anyag az 5. § (3) bekezdése szerinti magyarországi jegyzékben, illetve a veszélyes keverék a terméknyilvántartásban még nem szerepel. A bejelentő köteles az általa bejelentett veszélyes anyag és keverék biztonsági adatlapjának változását és a forgalmazás megszüntetését is elektronikus úton jelenteni.”
