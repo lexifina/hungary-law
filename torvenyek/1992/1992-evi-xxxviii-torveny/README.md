@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-38-00-00
 | 2011-08-01 | 2011. évi CXII. törvény | 1992-38-00-00.121 |
 | 2011-08-10 | 2011. évi CIX. törvény | 1992-38-00-00.122 |
 | 2011-09-30 | 2011. évi CXXIV. törvény | 1992-38-00-00.123 |
+| 2011-12-15 | 2011. évi CLXX. törvény | 1992-38-00-00.124 |
