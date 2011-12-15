@@ -1,0 +1,1 @@
+## 11. § Az óvodások ellátására igényelhető támogatás mértéke a bizottsági rendelet szerinti támogatási érték, valamint a bizottsági rendelet szerinti támogatási érték és a bruttó vételár – de legfeljebb a 13. §-ban megjelölt támogatási alap-felsőhatár – különbözetének ötven százaléka.
