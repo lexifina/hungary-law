@@ -1,0 +1,1 @@
+Az Országgyűlés a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó, rászorult természetes személyek lakhatási problémáinak megoldása, valamint a gazdasági válság hatásainak tompítása érdekében, összhangban Magyarország gazdasági lehetőségeivel, a következő törvényt alkotja:
