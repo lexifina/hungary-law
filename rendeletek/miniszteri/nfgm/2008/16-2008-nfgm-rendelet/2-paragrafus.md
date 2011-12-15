@@ -42,8 +42,14 @@ e) kizárólag közvetlen emberi erővel hajtott, összekapcsolt alkatrészek é
 
 15. üzembe helyezés: a gép első, az EGT területén történő rendeltetésszerű használatbavétele;
 
-16. teherfelvevő eszköz: olyan, a teher megtartását szolgáló és az emelőgéphez kapcsolható tartozék vagy alkatrész, amelyet a berendezés és a teher közé vagy a teherre magára helyeztek, vagy amely a teher részét képezi, és amelyet önállóan hoznak forgalomba; a hevederek és elemeik is teherfelvevő eszköznek minősülnek.
+16. teherfelvevő eszköz: olyan, a teher megtartását szolgáló és az emelőgéphez kapcsolható tartozék vagy alkatrész, amelyet a berendezés és a teher közé vagy a teherre magára helyeztek, vagy amely a teher részét képezi, és amelyet önállóan hoznak forgalomba; a hevederek és elemeik is teherfelvevő eszköznek minősülnek;
+
+17.[^4] peszticidek kijuttatására szolgáló gép: kifejezetten a növényvédő szerek forgalomba hozataláról szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdése szerinti növényvédő szerek kijuttatására szolgáló gép;
+
+18.[^5] alapvető egészségvédelmi és biztonsági követelmények: az e rendelet hatálya alá tartozó termékek tervezésével és gyártásával kapcsolatos, olyan kötelező rendelkezések, amelyek célja a személyek egészsége és biztonsága, és adott esetben a háziállatok és a tulajdon, továbbá szükség esetén a környezet magas szintű védelmének biztosítása.
 
 [^1]: A 2. § 1. pontja a 16/2010. (IV. 28.) NFGM rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 8. pontja a 16/2010. (IV. 28.) NFGM rendelet 25. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § 9. pontja a 16/2010. (IV. 28.) NFGM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § 17. pontját a 36/2011. (IX. 22.) NGM rendelet 1. §-a iktatta be.
+[^5]: A 2. § 18. pontját a 36/2011. (IX. 22.) NGM rendelet 1. §-a iktatta be.

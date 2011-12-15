@@ -22,6 +22,8 @@
 
 ## 5. Ha a műszaki ismeretek adott fejlettségi fokát figyelembe véve az e mellékletben meghatározott biztonsági és egészségvédelmi követelmények által felállított céloknak nem lehet eleget tenni, úgy a gépet akként kell tervezni és gyártani, hogy ezeket a célokat a lehető legjobban megközelítsék.
 
+## 6.[^11] A gépek tervezésekor figyelembe kell venni az általános rész követelményeit és egy vagy több további rész követelményeit, az 1. pontban meghatározott kockázatelemzés eredményétől függően. A környezetvédelemre vonatkozó alapvető egészségvédelmi és biztonsági követelmények csak a 2.4. pontban említett gépekre alkalmazandók.
+
 ## 1. ALAPVETŐ BIZTONSÁGI ÉS EGÉSZSÉGVÉDELMI KÖVETELMÉNYEK
 
 ## 1.1. Általános rendelkezések
@@ -736,6 +738,8 @@
 
 ## 2. AZ EGYES GÉPFAJTÁKRA VONATKOZÓ KIEGÉSZÍTŐ ALAPVETŐ BIZTONSÁGI ÉS EGÉSZSÉGVÉDELMI KÖVETELMÉNYEK
 
+## Élelmiszeripari gépek, kozmetikai és gyógyszeripari gépek, hordozható kézi és/vagy kézi irányítású gépek, hordozható rögzítő és egyéb összekapcsoló gépek, famegmunkáló és a fához hasonló fizikai tulajdonságokkal rendelkező anyagok megmunkálására alkalmas gépek, valamint a peszticidek kijuttatására szolgáló gépek esetében be kell tartani az ebben a fejezetben foglalt valamennyi alapvető egészségvédelmi és biztonsági követelményt.[^12]
+
 ## 2.1. Élelmiszer-ipari gépek, kozmetikai és gyógyszeripari gépek
 
 ## 2.1.1. Általános
@@ -829,6 +833,90 @@
 ## c) a gépet fel kell szerelni automata fékkel, amely a szerszámot megfelelően rövid időn belül megállítja, ha a leállás során fennáll a szerszámmal való érintkezés veszélye;
 
 ## d) ha a szerszám egy nem teljesen önműködő gépbe van beépítve, a gépet úgy kell megtervezni és gyártani, hogy ki lehessen küszöbölni, vagy csökkenteni lehessen a véletlenül bekövetkező sérülés veszélyét.
+
+## 2.4.[^13] PESZTICIDEK KIJUTTATÁSÁRA SZOLGÁLÓ GÉPEK
+
+## 2.4.1. Általános
+
+## A peszticidek kijuttatására szolgáló gép gyártójának vagy meghatalmazott képviselőjének biztosítania kell, hogy az Általános alapelvek 1. pontjában foglalt kockázatelemzésnek és kockázatcsökkentésnek megfelelően elemzés készüljön a környezet peszticidek általi, nem szándékos veszélyeztetésének kockázatairól.
+
+## A peszticidek kijuttatására szolgáló gépeket úgy kell megtervezni és gyártani az első bekezdésben említett kockázatelemzés eredményének figyelembevételével, hogy a gépeket a környezet peszticidek általi, nem szándékos veszélyeztetése nélkül lehessen működtetni, beállítani és karbantartani.
+
+## A szivárgást minden esetben meg kell akadályozni.
+
+## 2.4.2. Irányítás és felügyelet
+
+## A peszticid kibocsátását a kezelő helyzetéből tudni kell könnyedén és pontosan irányítani, felügyelni és azonnal leállítani.
+
+## 2.4.3. Feltöltés és ürítés
+
+## A gépet úgy kell megtervezni és gyártani, hogy megkönnyítse a szükséges mennyiségű peszticiddel való pontos feltöltést, és biztosítsa a könnyű és teljes kiürítést, ugyanakkor megelőzze a peszticid szivárgását, és elkerülje a vízforrás szennyeződését az ilyen műveletek során.
+
+## 2.4.4. A peszticidek kijuttatása
+
+## 2.4.4.1. Kijuttatási arány
+
+## A gépet fel kell szerelni a kijuttatási arány könnyű, pontos és megbízható beállítására szolgáló eszközzel.
+
+## 2.4.4.2. Elosztás, elhelyezés és a peszticid szétszóródása
+
+## A gépet úgy kell megtervezni és gyártani, hogy biztosított legyen a peszticid célterületre jutása, és minimális legyen a többi területre jutó veszteség, továbbá megelőzzék a peszticid szétszóródását a környezetbe. Adott esetben biztosítani kell az egyenletes és homogén eloszlást.
+
+## 2.4.4.3. Vizsgálatok
+
+## Annak biztosítására, hogy a gép releváns részei megfeleljenek a 2.4.4.1. és a 2.4.4.2. pontban foglalt követelményeknek, a gyártó vagy meghatalmazott képviselője köteles minden érintett géptípus esetében elvégezni vagy elvégeztetni a megfelelő vizsgálatokat.
+
+## 2.4.4.4. Leállás közbeni veszteség
+
+## A gépet úgy kell megtervezni és gyártani, hogy megakadályozza a permetező berendezés leállításakor bekövetkező veszteségeket.
+
+## 2.4.5. Karbantartás
+
+## 2.4.5.1. Tisztítás
+
+## A gépet úgy kell megtervezni és gyártani, hogy lehetséges legyen annak a környezet szennyezése nélküli, könnyű és alapos tisztítása.
+
+## 2.4.5.2. Szervizelés
+
+## A gépet úgy kell megtervezni és gyártani, hogy könnyen és a környezet szennyezése nélkül kicserélhetők legyenek az elhasználódott alkatrészek.
+
+## 2.4.6. Ellenőrzések
+
+## A helyes működés ellenőrzése érdekében lehetővé kell tenni a szükséges mérőműszerek könnyű csatlakoztatását a géphez.
+
+## 2.4.7. A fúvókák, szűrők és filterek megjelölése
+
+## A fúvókákat, szűrőket és filtereket olyan jelöléssel kell ellátni, hogy típusuk és méretük világosan azonosítható legyen.
+
+## 2.4.8. Az alkalmazott peszticid feltüntetése
+
+## A gépet adott esetben olyan külön tartóval kell ellátni, amelyen a kezelő elhelyezheti az alkalmazott peszticid nevét.
+
+## 2.4.9. Használati utasítás
+
+## A használati utasításnak a következő tájékoztatást kell tartalmaznia:
+
+## a) a környezetszennyezés elkerülése érdekében a kikeverés, a feltöltés, a permetezés, a kiürítés, a tisztítás, a karbantartási és szállítási munkálatok során megteendő óvintézkedéseket;
+
+## b) a peszticid célterületekre való kibocsátásának és a más területekre jutó veszteségek minimalizálásának biztosításához szükséges, és a peszticid környezetbe való szétszóródásának megelőzését, adott esetben egyenletes és homogén elosztását biztosító, a különböző működési környezetekre vonatkozó részletes üzemi feltételeket, ideértve az ezeknek megfelelő előkészítést és beállításokat is;
+
+## c) a géphez használható fúvókák, szűrők és filterek típusait és méreteit;
+
+## d) a gép helyes működését befolyásoló, kopásra hajlamos alkatrészek, mint például a fúvókák, szűrők és filterek ellenőrzésének gyakoriságát, továbbá cseréjének kritériumait és módját;
+
+## e) a kalibrálásra, mindennapi karbantartásra, téli előkészítésre és a gép megfelelő működéséhez szükséges egyéb ellenőrzésekre vonatkozó előírásokat;
+
+## f) a gép rendellenes működését előidézni képes peszticidek típusait;
+
+## g) útmutatást, hogy a kezelőnek a 2.4.8. pontban említett külön tartón aktualizálnia kell az alkalmazott peszticid nevét;
+
+## h) különleges berendezések vagy kiegészítők csatlakoztatását és használatát, valamint a meghozandó szükséges óvintézkedéseket;
+
+## i) útmutatást, hogy a gépet a mező- és erdőgazdasági légi munkavégzésről, valamint a növényvédő szerrel szennyezett csomagolóeszköz-hulladékok kezeléséről szóló rendeletekben kijelölt szervek rendszeresen ellenőrizhetik;
+
+## j) a gép azon jellemzőit, amelyeket ellenőrizni kell a megfelelő működés biztosítása érdekében;
+
+## k) útmutatást a szükséges mérőműszerek csatlakoztatásához.
 
 ## 3. KIEGÉSZÍTŐ ALAPVETŐ EGÉSZSÉGVÉDELMI ÉS BIZTONSÁGI KÖVETELMÉNYEK A GÉP HELYVÁLTOZTATÁSÁBÓL EREDŐ VESZÉLYEK ELHÁRÍTÁSÁRA
 
@@ -1475,3 +1563,7 @@ b) visszafelé történő mozgás csillapításával;
 17.6. hidraulikus emelő hidraulikus rendszerébe a leesés elleni védelem céljából szerelt biztonsági berendezés;
 
 17.7. elektronikus alkatrészeket tartalmazó biztonsági kapcsoló jellegű elektromos biztonsági berendezés.
+
+[^11]: Az 1. melléklet „Általános alapelvek” alcím 6. pontját a 36/2011. (IX. 22.) NGM rendelet 5. §-a iktatta be.
+[^12]: Az 1. melléklet 2. pont 2.1. alpontját megelőző szöveget a 36/2011. (IX. 22.) NGM rendelet 5. §-a iktatta be.
+[^13]: Az 1. melléklet 2. pont 2.4. alpontját a 36/2011. (IX. 22.) NGM rendelet 5. §-a iktatta be.
