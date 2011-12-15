@@ -1,3 +1,0 @@
-8. § Az Eüak. 11. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A háziorvos a 4. § (1) bekezdése szerinti cél érdekében – amennyiben az érintett ezt írásban nem tiltotta meg – jogosult a hozzá bejelentkezett biztosított által a kötelező egészségbiztosítás terhére igénybevett egészségügyi ellátás adatairól tudomást szerezni úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus lekérdezés formájában biztosítja számára. Az érintettet a háziorvos írásban vagy szóban tájékoztatja a tiltakozás lehetőségéről. Az érintett a tiltakozását az egészségbiztosítási szerv részére személyesen vagy postai úton juttatja el.”

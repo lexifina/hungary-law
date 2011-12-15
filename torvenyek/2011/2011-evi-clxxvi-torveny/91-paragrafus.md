@@ -1,33 +1,5 @@
-91. § (1) A Gytv. 32. § (4) bekezdése a következő e) ponttal egészül ki:
+91. § (1)
 
-(Felhatalmazást kap a Kormány, hogy)
+(2)
 
-„e) az új pszichoaktív anyagokkal összefüggésben
-
-ea) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
-
-eb) az új pszichoaktív anyaggá minősítés, valamint az új pszichoaktív anyag kockázatértékelésének részletes eljárási szabályait,
-
-ec) az értesítés alapján az előzetes szakmai értékelést végző szakértői szerv kijelölését,
-
-ed) az új pszichoaktív anyaggal végezhető tevékenységek részletes feltételeit, az e tevékenységre jogosító engedély iránti kérelem benyújtásának szabályait és az engedély kiadásának rendjét, továbbá
-
-ee) a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket”
-
-(rendeletben szabályozza.)
-
-(2) A Gytv. 32. § (5) bekezdés u) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap az egészségügyért felelős miniszter, hogy)
-
-„u) a gyógyszerhiány kezelése és megelőzése érdekében a gyógyszerhiánnyal érintett gyógyszer forgalomba hozatali engedély jogosultja, a gyógyszer-nagykereskedő, az állami egészségügyi, katasztrófa- és védelmi készlet kezelője, az egészségbiztosítási szerv, valamint a gyógyszerészeti államigazgatási szerv közötti együttműködésre vonatkozó szabályokat”
-
-(rendeletben szabályozza.)
-
-(3) A Gytv. 32. § (6) bekezdése a következő b) ponttal egészül ki:
-
-(Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg)
-
-„b) az új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért”
-
-(fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket.)
+(3)

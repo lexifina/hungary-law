@@ -1,3 +1,1 @@
-90. § A Gytv. 25. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Azt a gyógyszert, amely az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, különleges esetben gyógyászati célra akkor lehet alkalmazni, ha a felhasználását különös méltánylást érdemlő betegellátási érdek indokolja, és alkalmazását – a külön jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte. Azt a gyógyszert, amelyet az EGT-megállapodásban részes államban forgalomba hozatalra engedélyeztek, gyógyászati célra akkor lehet alkalmazni, ha azt a külön jogszabályban foglaltaknak megfelelően a gyógyszerészeti államigazgatási szervnek bejelentették. A különös méltánylást érdemlő betegellátási érdek fennállása a terápiás eljárás biztonságossága és hatékonysága tekintetében a szakmai kollégium véleményét figyelembe véve kerül megállapításra.”
+90. §

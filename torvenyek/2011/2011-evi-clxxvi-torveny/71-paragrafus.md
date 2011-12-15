@@ -1,3 +1,0 @@
-71. § A Kbtv. 29. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az e törvény hatálya alá tartozó tevékenységet folytatni kívánó természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező szervezet – a (3) és (4) bekezdésben foglalt kivételekkel – a tevékenység megkezdésével egyidejűleg ezt köteles bejelenteni az egészségügyi államigazgatási szervnek. A bejelentést az egészségügyért felelős miniszter rendeletében meghatározottak szerint, elektronikus úton kell megtenni a telephely, illetve ennek hiánya esetén a székhely szerint illetékes egészségügyi államigazgatási szervnek.”

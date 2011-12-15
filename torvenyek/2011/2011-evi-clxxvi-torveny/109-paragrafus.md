@@ -1,9 +1,0 @@
-109. § A Gyftv. 21/A. §-a helyébe a következő rendelkezés lép:
-
-„21/A. § (1) Az egészségbiztosítási szerv a gyógyászati segédeszközöket rendelő orvosok, valamint az ezeket használó betegek informáltságának erősítése érdekében honlapján internetes gyógyászatisegédeszköz-katalógust működtet – az egészségügyért felelős miniszter rendeletében meghatározott adattartalommal – a támogatott gyógyászati segédeszközökről.
-
-(2) A gyógyászati segédeszköz forgalomba hozója az (1) bekezdés szerinti eszközkatalógusba történő felvétel érdekében az egészségügyért felelős miniszter rendeletében foglaltak szerint az egészségbiztosítási szerv rendelkezésére bocsátja az egészségügyért felelős miniszter rendeletében meghatározott dokumentációt és adatokat.
-
-(3) Amennyiben az eszköz forgalomba hozója az egészségbiztosítási szerv felhívására sem teljesíti a (2) bekezdésben előírt kötelezettséget, az egészségbiztosítási szerv a forgalomba hozóval szemben a kormány rendeletében meghatározott mértékű bírságot szab ki, azzal, hogy a bírság megfizetése nem mentesíti a forgalomba hozót a (2) bekezdés szerinti kötelezettségének teljesítése alól.
-
-(4) Amennyiben a forgalomba hozó – ide nem értve az egyedi méretvétel alapján készített gyógyászati segédeszközök forgalomba hozóját és annak meghatalmazott képviselőjét – a (3) bekezdésben foglalt bírság kiszabását követő 15 napon belül sem tesz eleget a (2) bekezdés szerinti kötelezettségének, az egészségbiztosítási szerv az érintett eszközt kizárja a támogatásból, továbbá a forgalomba hozót – amennyiben abban már szerepel – törli a 32/B. § (1) bekezdése szerinti szállítójegyzékből.”
