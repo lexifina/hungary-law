@@ -1,4 +1,4 @@
-1. § (1) E rendeletet az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegéből finanszírozott egységes területalapú támogatásokhoz kapcsolódó anyajuh- és anyatehéntartás támogatással összefüggő támogatási jogosultságra (a továbbiakban: támogatási jogosultság) kell alkalmazni.
+1. § (1)[^1] E rendeletet az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatásokhoz kapcsolódó anyajuh- és anyatehéntartás támogatással összefüggő támogatási jogosultságra (a továbbiakban: támogatási jogosultság) kell alkalmazni.
 
 (2) E rendelet alkalmazásában
 
@@ -6,9 +6,10 @@ a) országos támogatási felsőhatár: az 1. § (1) bekezdésében meghatározo
 
 b) támogatási jogosultság: az egy állat után járó támogatási összeg igénybevételének feltétele;
 
-c)[^1] teljes állatállomány: a termelő tulajdonában lévő összes anyajuh, illetve anyatehén;
+c)[^2] teljes állatállomány: a termelő tulajdonában lévő összes anyajuh, illetve anyatehén;
 
-d)[^2] tejkvóta összessége: a tehéntej termékpálya szabályozásában alkalmazott kvótarendszerről szóló 43/2008. (IV. 4.) FVM rendelet szerinti beszállítási és közvetlen értékesítési tejkvóta együttes összege.
+d)[^3] tejkvóta összessége: a tehéntej termékpálya szabályozásában alkalmazott kvótarendszerről szóló 14/2010. (II. 23.) FVM rendelet szerinti beszállítási és közvetlen értékesítési tejkvóta együttes összege.
 
-[^1]: Az 1. § (2) bekezdésének c) pontját a 28/2006. (IV. 7.) FVM rendelet 1. §-a iktatta be.
-[^2]: Az 1. § (2) bekezdésének d) pontját a 28/2006. (IV. 7.) FVM rendelet 1. §-a iktatta be, szövege a 39/2009. (IV. 8.) FVM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 117/2011. (XII. 15.) VM rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdésének c) pontját a 28/2006. (IV. 7.) FVM rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdésének d) pontját a 28/2006. (IV. 7.) FVM rendelet 1. §-a iktatta be, szövege a 117/2011. (XII. 15.) VM rendelet 1. §-ával megállapított szöveg.
