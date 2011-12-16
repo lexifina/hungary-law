@@ -1,1 +1,0 @@
-A Kormány a 2011. évi népszámlálásról szóló 2009. évi CXXXIX. törvény 6. § (2) bekezdés a) pontjában foglalt felhatalmazás alapján az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következő rendeletet alkotja:
