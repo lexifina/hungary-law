@@ -1,0 +1,5 @@
+## 5. § Az R1. 10. § (2)–(3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az országos támogatási felső határt, annak előző évi kihasználtságának szintjét és az adott évre vonatkozó országos tartalék mértékét az MVH az egységes területalapú támogatásokhoz kapcsolódó nemzeti kiegészítő támogatások (top up) igénybevételének feltételeit szabályozó miniszteri rendeletben az adott jogcímre, adott támogatási évre, a támogatási döntések meghozatalára megállapított határidő lejártát követő harminc napon belül honlapján közzéteszi.
+
+## (3) Ha a termelő adott támogatási évben az egyéni támogatási felsőhatár kilencven százaléka alatt használja ki támogatási jogosultságát, akkor az összes ki nem használt egyéni támogatási jogosultság az országos tartalék javára ellenérték nélkül megvonásra kerül, függetlenül attól, hogy a termelő saját vagy használatba vett támogatási jogosultságát érinti. Kivételt képeznek az 1121/2009/EK bizottsági rendelet 43. cikk (2) bekezdése és 68. cikk (2) bekezdése szerinti esetek.”
