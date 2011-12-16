@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-176-00-00
 | --- | --- | --- |
 | 2011-12-15 | 2011. évi CLXXVI. törvény | 2011-176-00-00.0 (közlönyállapot) |
 | 2011-12-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-176-00-00.1 |
+| 2011-12-16 | 2010. évi CXXX. törvény | 2011-176-00-00.2 |
