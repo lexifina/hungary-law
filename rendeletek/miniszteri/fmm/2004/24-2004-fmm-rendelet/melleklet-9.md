@@ -108,6 +108,6 @@
 
 |  | ................................................ aláírás |
 
-9. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^109]
+9. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^111]
 
-[^109]: A 9. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 18. § (6) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^111]: A 9. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 18. § (6) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

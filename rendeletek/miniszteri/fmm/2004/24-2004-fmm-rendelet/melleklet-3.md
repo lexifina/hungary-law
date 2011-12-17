@@ -114,6 +114,6 @@
 
 ## Ügyfélszolgálat nyitva tartásának ideje:
 
-3. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^103]
+3. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^105]
 
-[^103]: A 3. számú mellékletet a 31/2007. (XII. 21.) SZMM rendelet 9. § (2) bekezdésének f) pontja hatályon kívül helyezte.
+[^105]: A 3. számú mellékletet a 31/2007. (XII. 21.) SZMM rendelet 9. § (2) bekezdésének f) pontja hatályon kívül helyezte.

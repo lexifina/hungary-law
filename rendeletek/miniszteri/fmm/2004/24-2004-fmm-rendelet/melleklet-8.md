@@ -74,6 +74,6 @@
 
 ## – egyéb rendelkezésre álló feltételek bemutatása.
 
-8. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^108]
+8. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^110]
 
-[^108]: A 8. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 18. § (5) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^110]: A 8. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 18. § (5) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

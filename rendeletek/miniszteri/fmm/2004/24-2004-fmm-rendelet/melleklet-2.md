@@ -100,6 +100,6 @@
 
 ## biztosítása.
 
-2. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^102]
+2. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^104]
 
-[^102]: A 2. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 18. § (2) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^104]: A 2. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 18. § (2) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
