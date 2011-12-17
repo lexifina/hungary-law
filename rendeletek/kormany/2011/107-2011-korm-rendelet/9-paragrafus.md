@@ -14,11 +14,11 @@ d) a támogatás végső kedvezményezettje a Tao. tv. 22/C. § (5) bekezdéséb
 
 (3) A versenyeztetéssel összefüggő feladatok támogatása – a sportági szakszövetség díjfizetési rendjében rögzített díjak csökkentésén keresztül – csak a szakszövetségen keresztül történhet. A díjcsökkentés nem minősül továbbadott támogatásnak.
 
-(4) A támogatás továbbadására vonatkozó igényt a sportfejlesztési programban külön fel kell tüntetni, megjelölve a tervezett támogatás végső kedvezményezettjét. A továbbadott támogatás felhasználására az e rendeletben foglaltakat kell alkalmazni.
+(4)[^24] A támogatás továbbadására vonatkozó igényt a sportfejlesztési programban külön fel kell tüntetni. A továbbadott támogatás felhasználására az e rendeletben foglaltakat kell alkalmazni.
 
 (5) Ha – a (2) bekezdésben meghatározottak szerint – a támogatás végső felhasználója nem az országos sportági szakszövetség, akkor a szakszövetség köteles a továbbadott támogatásról a támogatás végső kedvezményezettjét az összesített elszámolási táblázat szerint elszámoltatni, és azt az ellenőrző szervezetnek az 1. melléklet szerinti nyomtatvánnyal (a továbbiakban: összesített elszámolási táblázat) megküldeni.
 
-(6) Amennyiben a támogatási igazolásban foglalt jogcím építési beruházásra, felújításra irányuló tárgyi eszköz beruházás, felújítás, úgy a 10 millió Ft-ot meghaladó összértékű sportfejlesztési program megvalósítását szolgáló támogatás csak utófinanszírozás formájában nyújtható.
+(6)[^25] Amennyiben a támogatási igazolásban foglalt jogcím építési beruházásra, felújításra irányuló tárgyi eszköz beruházás, felújítás, és összege meghaladja a 10 millió forintot, úgy annak megvalósítását szolgáló támogatás csak utófinanszírozás formájában nyújtható.
 
 (7) A támogatási igazolásban foglalt jogcímek alapján nyújtott támogatásból végrehajtott fejlesztés szakmai és pénzügyi megvalósulásáért kizárólag a támogatott szervezet felelős, a támogatót semmilyen felelősség nem terheli.
 
@@ -26,6 +26,10 @@ d) a támogatás végső kedvezményezettje a Tao. tv. 22/C. § (5) bekezdéséb
 
 (9) A támogatott szervezet a támogatás felhasználását elkülönítetten és naprakészen, az ellenőrző szervezet vagy más ellenőrző hatóság által bármikor ellenőrizhető módon tartja nyilván.
 
-(10) A támogatott szervezet a támogatást kizárólag az ellenőrző szervezet által kiállított támogatási igazolásban meghatározottak szerinti jogcímre, az önrész rendelkezésre bocsátásával egyidejűleg, az abban meghatározott mértékben használhatja fel.
+(10)[^26] A támogatott szervezet a támogatást kizárólag a jóváhagyó szervezet által kiállított támogatási igazolásban meghatározottak szerinti jogcímre, az önrész rendelkezésre bocsátásával egyidejűleg, az abban meghatározott mértékben használhatja fel.
 
 (11) A támogató a támogatás pénzügyi folyósításáért a támogatott szervezet részéről semmilyen ellenszolgáltatásra nem jogosult, az ezzel ellentétes megállapodás semmis. Ilyen megállapodás esetén a támogató nem jogosult a Tao. tv. 22/C. § (2) bekezdésében meghatározott adókedvezmény igénybevételére sem.
+
+[^24]: A 9. § (4) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^25]: A 9. § (6) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^26]: A 9. § (10) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
