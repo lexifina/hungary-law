@@ -236,12 +236,14 @@ h) a külföldi személyt telephellyel rendelkezőnek kell tekinteni, ha fiókte
 
 43. látvány-csapatsportban működő hivatásos sportszervezet: a látvány-csapatsportágak országos sportági szakszövetsége által kiírt versenyrendszer:
 
-a) legmagasabb felnőtt bajnoki osztályában részt vevő (indulási jogot elnyert) sportegyesület vagy sportvállalkozás, vagy
+a) legmagasabb felnőtt bajnoki osztályában – a veterán korosztályokra kiírt versenyrendszer kivételével – részt vevő (indulási jogot elnyert) sportszervezet, vagy
 
-b) alsóbb osztályaiban részt vevő (indulási jogot elnyert) sportegyesület vagy sportvállalkozás abban az esetben, ha az ilyen sportszervezet hivatásos sportolót is alkalmaz;
+b) alsóbb bajnoki osztályaiban részt vevő (indulási jogot elnyert) sportszervezet abban az esetben, ha az ilyen sportszervezet hivatásos sportolót alkalmaz.
+
+Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakosztállyal) működő sportszervezet esetén az e törvényben a hivatásos sportszervezetekre előírt rendelkezéseket csak arra a jogi személy szervezeti egységre (szakosztályra) kell alkalmazni, amelyik az a)–b) pont szerinti versenyrendszerek bajnoki osztályaiban részt vesz.
 
 44. látvány-csapatsport támogatása: az adóévben visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke az e törvényben meghatározott jogcímeken;
 
 45. a látvány-csapatsport támogatását biztosító támogatási igazolás: olyan okirat, amelyet a 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportigazgatási szerv, a 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a látvány-csapatsport országos sportági szakszövetsége állít ki a látvány-csapatsport tevékenység támogatója és a támogatás igénybevételére jogosult szervezet részére;
 
-46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják.
+46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető, közvetlen és kizárólagos rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják.

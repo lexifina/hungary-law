@@ -58,25 +58,35 @@ ea) a személyi jellegű ráfordításaira – azzal, hogy a sportról szóló t
 
 eb) képzéssel összefüggő feladatokra.
 
-(2) Az adózó – kivéve az állami, többségi állami tulajdonú adózót – a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő három adóév adójából adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
+(2) Az adózó a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő három adóév adójából adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
 
-(3) Az adókedvezmény a látvány-csapatsport támogatását biztosító támogatási igazolás alapján vehető igénybe. A támogatási igazolást az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportigazgatási szerv, az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére pedig a látvány-csapatsport országos sportági szakszövetsége azt követően állítja ki, hogy a látvány-csapatsport támogatásának igénybevételére jogosult szervezet által benyújtott, a támogatás igénybevételének feltételét képező, tervezett támogatással érintett sportfejlesztési programot jóváhagyja, és amely tartalmazza a támogatást (juttatást) nyújtó adózó megnevezését, székhelyét, adószámát, a kedvezményre jogosító támogatás (juttatás) összegét, valamint a támogatás igénybevételére jogosult szervezet önálló pénzforgalmi számlájának számát, amelyre a támogató a sportigazgatási szerv vagy a látvány-csapatsport országos sportági szakszövetsége által kiállított támogatási igazolásban szereplő támogatási összeget vagy annak egy részét a támogatási igazolás kézhezvételét követően teljesíti.
+(3) Az adókedvezmény a látvány-csapatsport támogatását biztosító támogatási igazolás alapján vehető igénybe. A támogatási igazolást az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportigazgatási szerv, az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére pedig a látvány-csapatsport országos sportági szakszövetsége azt követően állítja ki, hogy a látvány-csapatsport támogatásának igénybevételére jogosult szervezet által benyújtott, a támogatás igénybevételének feltételét képező, tervezett támogatással érintett sportfejlesztési programot jóváhagyja, és amely tartalmazza a támogatást (juttatást) nyújtó adózó megnevezését, székhelyét, adószámát, a kedvezményre jogosító támogatás (juttatás) összegét, valamint a támogatás igénybevételére jogosult szervezet önálló pénzforgalmi számlájának számát – jogcímenként –, amelyre a támogató a sportigazgatási szerv vagy a látvány-csapatsport országos sportági szakszövetsége által kiállított támogatási igazolásban szereplő támogatási összeget vagy annak egy részét a támogatási igazolás kézhezvételét követően teljesíti.
 
-(4) A támogatási igazolások összértéke nem haladhatja meg a támogatott szervezet jóváhagyott sportfejlesztési programjában szereplő,
+(3a) A támogatási igazolás a sportfejlesztési program jóváhagyását követően attól függetlenül kiállítható, hogy a támogatás elő-, vagy utófinanszírozással valósul meg. A látvány-csapatsportok támogatása adókedvezménye igénybevételének további feltétele – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint – a támogatási igazolásban szereplő összegű támogatás adózó részéről történő teljesítése a támogatott szerv részére.
 
-a) utánpótlás-fejlesztésre fordítandó tárgyévi kiadásainak 90 százalékát,
+(4) A támogatási igazolások összértéke nem haladhatja meg a támogatott szervezet jóváhagyott, adott támogatási időszakra vonatkozó sportfejlesztési programjában szereplő,
 
-b) versenyeztetéssel összefüggő költségeinek 90 százalékát,
+a) utánpótlás-fejlesztésre fordítandó igazolt költségeinek 90 százalékát,
 
-c) tárgyévi személyi jellegű ráfordítása 50 százalékát,
+b) versenyeztetéssel összefüggő igazolt költségeinek 90 százalékát,
 
-d) tárgyévi képzési feladataival összefüggő kiadásainak
+c) személyi jellegű ráfordítása 50 százalékát,
+
+d) képzési feladataival összefüggő kiadásainak
 
 da) általános képzés esetén 60 százalékát,
 
 db) szakképzés esetén 25 százalékát,
 
-e) tárgyévi beruházási, felújítási értéke – ideértve a biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztést is – 70 százalékát, kivéve, ha a beruházás, felújítás sportcélú ingatlanra irányul és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint utófinanszírozás keretében kerül a támogatott szerv részére kifizetésre. Ilyen esetben a jóváhagyott sportfejlesztési program alapján a tárgyévben a sportcélú ingatlanfejlesztés készültségével arányos elszámolás benyújtását és annak elfogadását követően nyújtható támogatás.
+e) tárgyi eszköz beruházás, felújítás beruházási, felújítási értéke – ideértve a biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztést is –
+
+ea) (6) bekezdés ba) alpontjában foglaltak teljesülése esetén 70,
+
+eb) (6) bekezdés bb) alpontjában foglaltak teljesülése esetén 50,
+
+ec) (6) bekezdés bc) alpontjában foglaltak teljesülése esetén 30
+
+százalékát, kivéve, ha a beruházás, felújítás sportcélú ingatlanra irányul és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint utófinanszírozás keretében kerül a támogatott szerv részére kifizetésre. Ilyen esetben a jóváhagyott sportfejlesztési program alapján a támogatási időszakban a sportcélú ingatlanfejlesztés készültségével arányos elszámolás benyújtását és annak elfogadását követően nyújtható támogatás.
 
 (5) Támogatási igazolás a támogatás igénybevételére jogosult szervezettel kapcsolatban csak akkor állítható ki, ha
 
@@ -94,7 +104,7 @@ f) működését a bíróság nem függesztette fel, valamint megszüntetésére
 
 g) nem áll a sportigazgatási szerv által az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint alkalmazott támogatásból kizárás hatálya alatt, és
 
-h) a látvány-csapatsportban működő hivatásos vagy amatőr sportszervezet
+h) a látvány-csapatsportban működő hivatásos vagy amatőr sportszervezet a támogatási igazolási kérelem benyújtásának időpontjában legalább 2 éve működik és:
 
 ha) az országos sportági szakszövetség országos hivatásos, amatőr vagy vegyes (nyílt) versenyrendszerében (nemzeti bajnokság) a sportág versenyszabályzata szerinti valamelyik felnőtt vagy utánpótlás osztály egyikében – diák sportegyesület feladatait ellátó amatőr sportszervezet esetén a diák- és főiskolai-egyetemi sportszövetség által szervezett versenyeken – részt vesz vagy a részvételre indulási jogot szerzett, vagy
 
@@ -104,21 +114,25 @@ hb) valamely felsőoktatási intézménnyel kötött együttműködési megálla
 
 a) a beruházás üzembe helyezését követő legalább 15 évben az adókedvezmény alapjául szolgáló beruházás révén üzembe helyezett ingatlan sportcélú, elsődlegesen piaci alapon történő hasznosítását – a b) pontban meghatározott kivétellel és a (7) bekezdésben foglaltakra figyelemmel – fenntartja, valamint benyújtja a sportcélú ingatlan tulajdonosának előzetes írásbeli hozzájárulását arról, hogy erre az időtartamra – a beruházás üzembe helyezését követő 30 napon belül – a Magyar Állam javára az ingatlan-nyilvántartásba az igénybe vett adókedvezmény mértékéig jelzálogjog kerül bejegyzésre,
 
-b) a beruházás üzembe helyezését követő legalább 15 évben az adókedvezmény alapjául szolgáló beruházás révén üzembe helyezett sportcélú ingatlant iskolai és diáksport események, szabadidősport események és más, közösségi célú (különösen: kulturális, turisztikai) események lebonyolítása céljából
+b) a beruházás üzembe helyezését követő legalább 15 évben az adókedvezmény alapjául szolgáló beruházás révén üzembe helyezett sportcélú ingatlant iskolai és diák-, főiskolai-egyetemi sport események, szabadidősport események és más, közösségi célú (különösen: kulturális, turisztikai) események lebonyolítása céljából
 
-ba) naponta a sportcélú ingatlan üzemidejének legalább 20%-ában és
+ba) naponta a sportcélú ingatlan üzemidejének legalább 20%-ában és évente legalább 10 nap, vagy
 
-bb) évente legalább 10 nap
+bb) naponta a sportcélú ingatlan üzemidejének legalább 16%-ában és évente legalább 8 nap, vagy
+
+bc) naponta a sportcélú ingatlan üzemidejének legalább 12%-ában és évente legalább 6 nap
 
 ingyenesen vagy kedvezményes áron hasznosítja,
 
-c) bérelt vagy más jogcímen használt, nem a látvány-csapatsportban működő hivatásos sportszervezet tulajdonában álló ingatlan esetén a sportcélú ingatlant piaci áron béreli vagy más jogcímen használja,
+c) bérelt vagy más jogcímen használt, nem a látvány-csapatsportban működő hivatásos sportszervezet tulajdonában álló ingatlan esetén a sportcélú ingatlant piaci áron béreli vagy más jogcímen használja, azzal, hogy a látvány-csapatsportban működő hivatásos sportszervezet által fizetett bérleti, vagy a használatért járó egyéb díj nem lehet alacsonyabb a bérelt vagy más jogcímen használt létesítménynek – ideértve a látvány-csapatsport támogatásból finanszírozott beruházások eredményeként megvalósuló létesítményeket is – a bérleményre vagy más jogcímen történő használatra eső tényleges értékcsökkenési költségei és működési költségei összegének 50%-ánál, figyelembe véve a létesítmény teljes és a hivatásos sportszervezet által ténylegesen igénybe vett kapacitásának arányát.
 
 d) a jelenértékén legalább 5 millió forint értékű tárgyi eszköz felújítás esetén a (3) bekezdésben meghatározott sportfejlesztési program benyújtásával egyidejűleg írásban nyilatkozik a sportigazgatási szerv vagy – az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége felé arról, hogy a támogatásból megvalósuló felújítást legalább 5 évig az eredeti rendeltetésének megfelelően hasznosítja, valamint benyújtja a sportcélú ingatlan tulajdonosának előzetes írásbeli hozzájárulását arról, hogy erre az időtartamra – a felújított sportcélú ingatlan üzembe helyezését követő 30 napon belül – a Magyar Állam javára az ingatlan-nyilvántartásba az igénybe vett adókedvezmény mértékéig jelzálogjog kerül bejegyzésre,
 
 e) a jelenértékén legalább 10 millió forint értékű tárgyi eszköz beruházás, felújítás esetén a (3) bekezdésben meghatározott sportfejlesztési program benyújtásával egyidejűleg írásban nyilatkozik a sportigazgatási szerv vagy – az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége felé arról, hogy a sportcélú ingatlanfejlesztésre nyílt pályázatot ír ki és a pályázati eljárás eredménye alapján nyertes személlyel köt szerződést a tárgyi eszköz beruházás, felújítás megvalósítására.
 
-(7) A támogatott szervezet a (6) bekezdés a) pontjában meghatározott piaci alapon történő hasznosítási kötelezettségtől – az elsődleges sportcél veszélyeztetése nélkül – a sportcélú ingatlan nem versenyrendszerben szervezett szabadidősport-események lebonyolítása, valamint a helyi önkormányzat sportról szóló törvényben meghatározott iskolai testneveléssel és diáksporttal kapcsolatos feladatainak ellátása, valamint közösségi célú szabadidős, szórakoztató és kulturális események lebonyolítása céljából a (6) bekezdés ba)–bb) alpontjaiban meghatározott mértékeken felül is eltérhet.
+(6a) A (6) bekezdés e) pontjában foglaltakat a látvány-csapatsport támogatása támogatási rendszerből megvalósuló, építési beruházással járó, sportcélú ingatlanra irányuló tárgyi eszköz beruházás, felújítás esetén nem kell alkalmazni, ha a támogatási kérelem tárgya sportcélú ingatlanra irányuló, nem a látvány-csapatsport támogatását biztosító támogatásból finanszírozott, már megkezdett építési beruházással járó tárgyi eszköz beruházás, felújítás, és ezen sportcélú ingatlanfejlesztést közbeszerzési eljárás eredményeként nyertes ajánlattevő végzi.
+
+(7) A támogatott szervezet a (6) bekezdés a) pontjában meghatározott piaci alapon történő hasznosítási kötelezettségtől – az elsődleges sportcél veszélyeztetése nélkül – a sportcélú ingatlan nem versenyrendszerben szervezett szabadidősport-események lebonyolítása, valamint a helyi önkormányzat sportról szóló törvényben meghatározott iskolai testneveléssel és diáksporttal kapcsolatos feladatainak ellátása, főiskolai-egyetemi sport események, valamint közösségi célú szabadidős, szórakoztató és kulturális események lebonyolítása céljából a (6) bekezdés ba)–bc) pontjában meghatározott mértékeken felül is eltérhet.
 
 (8) A támogatott szervezet az adott tárgyi eszköz beruházásra vonatkozó, első támogatási igazolás kiállítását követő 4. év végéig köteles a tárgyi eszköz beruházást üzembe helyezni a támogatás és annak jegybanki alapkamattal növelt összege Magyar Állam részére történő megfizetése terhével.
 
