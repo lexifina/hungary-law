@@ -1,1 +1,0 @@
-## „(7) A támogatási jogosultságok átruházása vagy bérbeadása esetén megállapított új egyéni felső határ megállapítás vonatkozásában az 1121/2009/EK bizottsági rendelet 45. és 70. cikkében foglaltakat kell alkalmazni.”
