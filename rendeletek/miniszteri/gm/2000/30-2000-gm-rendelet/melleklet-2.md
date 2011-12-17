@@ -66,6 +66,6 @@
 
 ## 3. középiskolai végzettség és államilag elismert felsőfokú munkaügyi, felsőfokú személyzeti, felsőfokú személyügyi, felsőfokú társadalombiztosítási, középfokú munkaügyi, középfokú személyügyi, középfokú társadalombiztosítási, szociális ügyintéző vagy szociális asszisztens szakképesítés.
 
-2–6. számú melléklet a 30/2000. (IX. 15.) GM rendelethez[^41]
+2–6. számú melléklet a 30/2000. (IX. 15.) GM rendelethez[^42]
 
-[^41]: A 2–6. számú mellékletet a 6/2008. (IV. 23.) SZMM rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^42]: A 2–6. számú mellékletet a 6/2008. (IV. 23.) SZMM rendelet 12. § (2) bekezdése hatályon kívül helyezte.

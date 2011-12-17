@@ -42,7 +42,7 @@ nf) a munka természetéből adódó speciális körülmények,
 
 ng) a munkakörhöz kapcsolódó juttatások,
 
-o)[^14] a munkaerőigény-bejelentéshez várhatóan kapcsolódik-e harmadik országbeli állampolgár állampolgár foglalkoztatására irányuló kérelem,
+o)[^14] a munkaerőigény-bejelentéshez várhatóan kapcsolódik-e harmadik országbeli állampolgár foglalkoztatásának engedélyezésére irányuló kérelem, vagy az EU Kék Kártya kibocsátására irányuló kérelem,
 
 p) várható-e a munkakör betöltéséhez kapcsolódóan munkaerő-kölcsönzés, kirendelés, kiküldetés,
 
@@ -53,6 +53,6 @@ q) az állást kínáló kívánja-e az állást külön törvényben meghatáro
 (3)[^16] A munkaerőigény a bejelentés napjától számított legfeljebb 60 napig érvényes. A munkaerőigény érvényessége annak lejárta előtt meghosszabbítható.
 
 [^13]: A 16. § (1) bekezdése a 6/2008. (IV. 23.) SZMM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^14]: Az 16. § (1) bekezdés o) pontja a 27/2010. (XII. 31.) NGM rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^14]: Az 16. § (1) bekezdés o) pontja a 44/2011. (XII. 16.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^15]: A 16. § új (2) bekezdését a 6/2008. (IV. 23.) SZMM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva.
 [^16]: A 16. § eredeti (2) bekezdésének számozását a 6/2008. (IV. 23.) SZMM rendelet 2. § (2) bekezdése (3) bekezdésre változtatta.

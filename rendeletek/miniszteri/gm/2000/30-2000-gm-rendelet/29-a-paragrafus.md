@@ -1,4 +1,4 @@
-## 29/A. §[^37] E rendeletben szabályozott támogatások nyújtásával kapcsolatos mérlegelés során a munkaügyi központ figyelembe veszi
+## 29/A. §[^38] E rendeletben szabályozott támogatások nyújtásával kapcsolatos mérlegelés során a munkaügyi központ figyelembe veszi
 
 a) a munkaerő-kereslet és -kínálat helyi jellemzőit,
 
@@ -10,4 +10,4 @@ d) a nyújtott szolgáltatások színvonalát, eredményességét, valamint
 
 e) a szolgáltatásokhoz kapcsolódó keresetpótló juttatás megállapítása esetén az igénybe vett szolgáltatás formáját, időtartamát.
 
-[^37]: A 29/A. §-t a 20/2005. (X. 27.) FMM rendelet 24. §-a iktatta be.
+[^38]: A 29/A. §-t a 20/2005. (X. 27.) FMM rendelet 24. §-a iktatta be.
