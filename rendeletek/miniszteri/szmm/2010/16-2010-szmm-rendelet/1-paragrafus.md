@@ -22,7 +22,7 @@ b) a belföldi foglalkoztatóval kötött megállapodás teljesítése érdekéb
 
 6. kiközvetíthető munkaerő: az a magyar állampolgár vagy a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 2. § (2) bekezdése alapján a magyar állampolgárral azonos jogokkal, kötelezettségekkel rendelkező személy, akinek az Flt. 25. § (2) bekezdés b)–d) pontjában felsorolt szempontokat figyelembe véve megfelel az a munkahely, ahol a foglalkoztató a harmadik országbeli állampolgárt foglalkoztatni kívánja;
 
-7. közeli hozzátartozó: a harmadik országbeli állampolgár házastársa, gyermeke, ideértve az örökbe fogadott, a mostoha és a nevelt gyermekét is;
+7.[^2] családtag: A Harmtv. 2. § d) pontjában meghatározott személy,
 
 8. kulcsszemélyzet: a Magyarország területén alapított külföldi érdekeltségű vállalkozás által foglalkoztatott olyan természetes személy, aki nem minősül a gazdasági társaságokról szóló törvényben meghatározott vezető tisztségviselőnek, és
 
@@ -40,8 +40,12 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 10. külföldi munkáltató: a Magyar Köztársaság területén kívüli székhellyel rendelkező olyan foglalkoztató, aki a harmadik országbeli állampolgárt munkaviszonyban vagy olyan jogviszonyban foglalkoztatja, amelyre tekintettel az adott ország jogszabályai szerint a harmadik országbeli állampolgár alkalmazásban állónak minősül,
 
-11.[^2] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszerében megfelelő foglalkozás gyakorlása során elért személyi alapbér – a Foglalkoztatási Hivatal által meghatározott – országos átlaga,
+11.[^3] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszerében megfelelő foglalkozás gyakorlása során elért személyi alapbér – a Foglalkoztatási Hivatal által meghatározott – országos átlaga,
 
-12. mezőgazdaság: a növénytermesztési, erdőgazdálkodási, állattenyésztési, és halászati ágazat.
+12. mezőgazdaság: a növénytermesztési, erdőgazdálkodási, állattenyésztési, és halászati ágazat,
 
-[^2]: Az 1. § (3) bekezdés 11. pontja a 27/2010. (XII. 31.) NGM rendelet 72. § (3) bekezdése szerint módosított szöveg.
+13.[^4] EU Kék Kártya: A Harmtv. 2. § r) pontjában meghatározott engedély.
+
+[^2]: Az 1. § (3) bekezdés 7. pontja a 44/2011. (XII. 16.) NGM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés 11. pontja a 27/2010. (XII. 31.) NGM rendelet 72. § (3) bekezdése szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdés 13. pontját a 44/2011. (XII. 16.) NGM rendelet 8. § (2) bekezdése iktatta be.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-1
 | --- | --- | --- |
 | 2010-05-28 | 2010-16-20-1X.1 | 16/2010. (V. 13.) SZMM rendelet |
 | 2011-01-01 | 2010-16-20-1X.2 | 27/2010. (XII. 31.) NGM rendelet |
+| 2011-12-17 | 2010-16-20-1X.3 | 44/2011. (XII. 16.) NGM rendelet |

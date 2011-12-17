@@ -14,6 +14,8 @@ a) legalább 15 nappal korábban, de hatvan napnál nem régebben nyújtott be, 
 
 b) hatvan napnál régebben nyújtott be, de azt legalább hatvannaponként megújította, és a legutolsó megújítás a kérelem benyújtását megelőzően hatvan napnál nem régebben történt.
 
-(3) Ha a harmadik országbeli állampolgár foglalkoztatásának helye több különböző megye területén található, az (1) bekezdés a)–b) pontjában meghatározott feltételnek – a (4) bekezdésben meghatározott kivétellel – a foglalkoztató székhelye szerinti megyében kell fennállnia. Ezen túlmenően az engedély kiadásának az is feltétele, hogy a munkavégzéssel érintett többi megye területén ne álljon rendelkezésre olyan kiközvetíthető munkaerő, aki a tevékenység ellátására rendelkezik a jogszabályban előírt, valamint a foglalkoztató munkaerőigényében megjelölt alkalmazási feltételekkel.
+(3)[^9] Ha a harmadik országbeli állampolgár foglalkoztatásának helye több különböző megye területén található, az (1) bekezdés a)–b) pontjában meghatározott feltételnek – a (4) bekezdésben meghatározott kivétellel – a foglalkoztató székhelye szerinti megyében kell fennállnia. Ezen túlmenően a munkavállalási engedély kiadásának az is feltétele, hogy a munkavégzéssel érintett többi megye területén ne álljon rendelkezésre olyan kiközvetíthető munkaerő, aki a tevékenység ellátására rendelkezik a jogszabályban előírt, valamint a foglalkoztató munkaerőigényében megjelölt alkalmazási feltételekkel.
 
 (4) Ha a munkavégzés a munka természetéből adódóan több megye területére terjedhet ki, az (1) bekezdés a)–b) pontjában meghatározott feltételeknek a munkavégzés megkezdésének helye szerinti megye vonatkozásában kell fennállnia.
+
+[^9]: A 4. § (3) bekezdése a 44/2011. (XII. 16.) NGM rendelet 8. § (10) bekezdés b) pontja szerint módosított szöveg.
