@@ -7,11 +7,3 @@ a) (5) bekezdés h) pont nyitó szövegrészének az e törvény 3. § (4) bekez
 b) (6a) bekezdésének az e törvény 3. § (6) bekezdésével megállapított rendelkezését
 
 első alkalommal a 2012–2013-as támogatási időszakra vonatkozó sportfejlesztési programok jóváhagyására irányuló kérelmek során kell alkalmazni.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
