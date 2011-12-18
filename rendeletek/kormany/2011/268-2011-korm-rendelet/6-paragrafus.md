@@ -1,1 +1,0 @@
-## „(6) Amennyiben a támogatási igazolásban foglalt jogcím építési beruházásra, felújításra irányuló tárgyi eszköz beruházás, felújítás, és összege meghaladja a 10 millió forintot, úgy annak megvalósítását szolgáló támogatás csak utófinanszírozás formájában nyújtható.”

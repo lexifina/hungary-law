@@ -1,9 +1,0 @@
-## „(2a) Az (1) bekezdés b) pontja szerinti támogatás esetén az adott támogatási időszakra vonatkozó elszámolás vagy részelszámolás ellenőrző szervezethez történő benyújtását és az elszámolásnak, részelszámolásnak az ellenőrző szervezet részéről történő elfogadását és az erről szóló értesítést követően – a Tao. tv. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a sportigazgatási szerv, vagy – a Tao. tv. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége az (1) bekezdés b) pontjában meghatározott elkülönített pénzforgalmi számláról bocsátja a támogatást – vagy annak az elszámolásban, részelszámolásban elfogadott részét – a támogatás igénybevételére jogosult szervezet rendelkezésére.
-
-## (2b) Ha az (1) bekezdés b) pontja szerinti támogatás esetén az (1) bekezdés b) pontjában meghatározott elkülönített pénzforgalmi számlán a 11–13. §-ban meghatározottak szerinti elszámolás lezárását követően fel nem használt támogatás áll rendelkezésre, és a támogatott szervezet nem kérelmezte a 14. § (4) bekezdés a) vagy b) pontjában meghatározottak szerint a sportfejlesztési program meghosszabbítását vagy a sport fejlesztését szolgáló új sportfejlesztési program jóváhagyását, akkor a fel nem használt támogatást a sportpolitikáért felelős minisztérium ellenőrző szervezet által közzétett előirányzat felhasználási keretszámlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani.”
-
-5. § (1) Az R. 9. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A támogatás továbbadására vonatkozó igényt a sportfejlesztési programban külön fel kell tüntetni. A továbbadott támogatás felhasználására az e rendeletben foglaltakat kell alkalmazni.”
-
-(2) Az R. 9. § (6) bekezdése helyébe a következő rendelkezés lép:

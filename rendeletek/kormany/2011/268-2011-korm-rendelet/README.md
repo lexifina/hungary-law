@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-268-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-12-17 | 2011-268-20-22.1 | 268/2011. (XII. 16.) Korm. rendelet |
+| 2011-12-18 | 2011-268-20-22.2 | 2010: CXXX. törvény |
