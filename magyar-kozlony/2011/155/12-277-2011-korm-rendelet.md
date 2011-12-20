@@ -1,0 +1,41 @@
+# A Kormány 277/2011. (XII. 20.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 155. szám, 2011. december 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e14e67e46509d9788445da4cca1e693df5fc2124/dokumentumok/88104aa8549abb2d4b7c01181138f565d1e4abeb/letoltes)
+
+---
+
+A Kormány 277/2011. (XII. 20.) Korm. rendelete
+a fejlesztési adókedvezményről szóló 206/2006. (X. 16.) Korm. rendelet módosításáról
+A Kormány a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (6) bekezdésében kapott felhatalmazás
+alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+(1) A fejlesztési adókedvezményről szóló 206/2006. (X. 16.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. § 8. pontja
+helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„8. Nehéz helyzetben lévő társaság: az a vállalkozás, amely megfelel az európai uniós versenyjogi értelemben vett állami
+támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §
+(1)–(4) bekezdésében foglalt feltételeknek.”
+(2) A Korm. rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az adókedvezmény akkor vehető igénybe, ha a beruházás megfelel a Tao. törvényben és az e rendeletben, illetve
+a Kormány a Tao. törvény 22/B. § (2) bekezdésében meghatározott egyedi határozatában (a továbbiakban: határozat)
+meghatározott valamennyi feltételnek.”
+(3) A Korm. rendelet 3. § (5) bekezdés c) pontja helyébe következő rendelkezés lép:
+(Az adókedvezmény akkor vehető igénybe, ha)
+„c) a Kormány egyedi döntése alapján megítélhető támogatás igénylése esetén a közvetlen támogatásra való elvi
+jogosultságról szóló írásbeli visszaigazolás kézhezvételének napját követi a beruházás megkezdésének napja.”
+(4) A Korm. rendelet 6. § (1) bekezdése helyébe következő rendelkezés lép:
+„(1) Az adózó az adókedvezmény iránti kérelmet a fejlesztési program kérelemben megjelölt tervezett kezdőnapja
+előtt, a 3. számú mellékletben előírt tartalommal, két példányban, papír alapon nyújthatja be az adópolitikáért felelős
+miniszterhez és egyidejűleg más állami támogatási igény esetén az eljáró hatósághoz. Az egyidejű benyújtás
+elmulasztása esetén a legkésőbbi időpontot kell az adókedvezmény iránti kérelem benyújtásának tekinteni.”
+(5) A Korm. rendelet 6. § (6) bekezdése helyébe következő rendelkezés lép:
+„(6) A Kormány a határozatában az adókedvezmény összegét ezer forintban állapítja meg.”
+(6) A Korm. rendelet a következő 16. §-sal egészül ki:
+„16. § A fejlesztési adókedvezményről szóló 206/2006. (X. 16.) Korm. rendelet módosításáról szóló 277/2011. (XII. 20.)
+Korm. rendelettel megállapított 1. § 8. pontját, 3. § (1) bekezdését, 3. § (5) bekezdés c) pontját, 6. § (1) és (6) bekezdését
+a 2011. december 31-ét követően benyújtott kérelem, bejelentés alapján érvényesíthető adókedvezményre kell
+alkalmazni.”
+2. §
+Ez a rendelet 2012. január 1-jén lép hatályba, és 2012. január 2-án hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök

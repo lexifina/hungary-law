@@ -1,0 +1,334 @@
+# A Kormány 269/2011. (XII. 20.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 155. szám, 2011. december 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e14e67e46509d9788445da4cca1e693df5fc2124/dokumentumok/88104aa8549abb2d4b7c01181138f565d1e4abeb/letoltes)
+
+---
+
+A Kormány 269/2011. (XII. 20.) Korm. rendelete
+a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló
+273/2010. (XII. 9.) Korm. rendelet, a fegyveres szervek hivatásos állományú tagjainak szolgálati
+viszonyáról szóló 1996. évi XLIII. törvény végrehajtásáról szóló 140/1996. (VIII. 31.) Korm. rendelet
+és az Európai Unió saját forrásaival kapcsolatos kötelezettségek teljesítésében részt vevő
+intézmények feladat- és hatásköréről, valamint a kapcsolódó eljárásrendről szóló
+101/2008. (IV. 29.) Korm. rendelet módosításáról
+A Kormány a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 81. § (1) bekezdés a) és b) pontjában, valamint 81. §
+(2) bekezdés b) c), e) és h) pontjában, továbbá
+a 18. § 10. pontja tekintetében az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról, valamint
+ehhez kapcsolódóan egyes törvények módosításáról szóló 2007. évi CLXXX. törvény 22. §-ában,
+a 20. § és a 21. § tekintetében a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény
+342. § (1) bekezdés c) és d) pontjában
+a 22. §, a 23. § és a 24. § tekintetében az Európai Közösségek saját forrásainak rendszeréről szóló 2007/436/EK, Euratom tanácsi
+határozat kihirdetéséről szóló 2008. évi XII. törvény 5. § (5) bekezdésében
+kapott felhatalmazás alapján, Alaptörvény 15. cikk (3) bekezdésében megállapított feladatkörében eljárva a következő rendeletet
+alkotja:
+1. A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló
+273/2010. (XII. 9.) Korm. rendelet módosítása
+1. § A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet
+(a továbbiakban: NAV Korm. rendelet) 8. §-a helyébe a következő rendelkezés lép:
+„8. § A Bűnügyi Főigazgatóság felettes szerve a regionális bűnügyi igazgatóságoknak, valamint az Áru- és
+Bűnjelkezelő Hivatalnak.”
+2. § A NAV Korm. rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A NAV, mint állami adóhatóság hatáskörébe tartozó hatósági ügyekben – a (2)–(4) bekezdésben és a 11. §
+(1)–(4) bekezdésében meghatározott eltérésekkel – első fokon az adóigazgatóságok járnak el. Az adóigazgatóságok
+járnak el továbbá a csődeljárásban, a felszámolási eljárásban, a végelszámolási eljárásban, a vagyonrendezési és
+adósságrendezési eljárásban, valamint lefolytatják a NAV rendelkezése alá került és jogszabály alapján értékesíthetővé
+vált dolgok értékesítése során az árveréseket, illetve az elektronikus árveréseket.”
+3. § A NAV Korm. rendelet a következő 10/A. §-al egészül ki:
+„10/A. § Az adóigazgatóságok ellátják a vámazonosító szám megállapításával és nyilvántartásával kapcsolatos
+feladatokat.”
+4. § A NAV Korm. rendelet 12. §-a a következő h) ponttal egészül ki:
+(A NAV Központi Hivatala:)
+„h) végzi a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény szerinti,
+a Magyar Szénhidrogén Készletező Szövetség tagjai által benyújtott nyilatkozatok záradékolását.”
+
+5. §
+(1) A NAV Korm. rendelet 15. § (1) bekezdése a következő o) ponttal egészül ki:
+[A megyei (fővárosi) vám- és pénzügyőri igazgatóságok első fokon eljárnak azokban az ügyekben, amelyeket közösségi jogi
+aktus, továbbá törvény, kormányrendelet vagy miniszteri rendelet a vámhatóság hatáskörébe utal, így különösen:]
+„o) végzik a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált
+energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben a vámhatóság részére
+meghatározott feladatokat.”
+(2) A NAV Korm. rendelet 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az 1. számú Repülőtéri Igazgatóság ellátja az (1) bekezdés a) és b) és f)–n) pontja szerinti feladatokat, ide nem
+értve a népegészségügyi termékadóval kapcsolatos vámhatósági feladatokat, a 2. számú Repülőtéri Igazgatóság
+ellátja az (1) bekezdés a) és b) és d)–o) pontja szerinti feladatokat, illetve a jövedéki ellenőrzéssel, hatósági felügyelettel
+kapcsolatos első fokú hatósági feladatokat.”
+6. §
+A NAV Korm. rendelet a következő 15/A. §-al egészül ki:
+„15/A. § Az 1. § (4) bekezdés c) pont szerinti vámszerv hivatalból, az 1. § (7) bekezdés a)–d) pont szerinti vámszerv
+hivatalból, valamint – ha a vámhatóság hatáskörébe tartozó más eljárás ügyfél általi kezdeményezésekor az ügyfél
+nem rendelkezik vámazonosító számmal – kérelemre ellátja a vámazonosító szám megállapításával és
+nyilvántartásával kapcsolatos feladatokat.”
+7. §
+(1) A NAV Korm. rendelet 24. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+„(2) A Bevetési Főigazgatóság az (1) bekezdésben foglaltakon túl:
+a) végzi a pénzügyi jogszabálysértések megelőzése, felderítése érdekében a vámhatóság feladatát meghatározó
+jogszabályokban előírt helyszíni ellenőrzéseket, ide nem értve az energiaadóval, a jövedéki adóval kapcsolatos
+ellenőrzést és a Jöt. 111/A. §-a szerinti jövedéki ellenőrzést, de beleértve a Jöt. szerinti hatósági felügyelet keretében
+végzett ellenőrzést, továbbá végzi – kizárólag helyszíni eljárás keretében – az Art. 119. §-a szerinti adatgyűjtésre
+irányuló ellenőrzéseket,
+b) megteszi a vám- és jövedéki jogszabályok és a NAV vámszerveinek feladatait meghatározó egyéb jogszabályok
+megsértésének észlelése, gyanúja esetén a jogsértés megszüntetése, mértékének felderítése és a bizonyítékok
+biztosítása érdekében a szükséges intézkedéseket, továbbá végzi az eljárása során észlelt, a Be. által a NAV
+hatáskörébe utalt bűncselekmény gyanúja esetén a helyszín és a bizonyítékok biztosítását, halaszthatatlan nyomozási
+cselekményként lefoglalás foganatosítását és a hatáskörrel rendelkező nyomozó hatóság felé a szükséges
+intézkedések megtételét, a nyomozó hatóság felkérése alapján az elfogott, előállított, őrizetbe vett és fogva tartott
+személyek őrzését, kísérését,
+c) végrehajtja a szabálysértési eljárásban elrendelt elővezetést, és
+d) a NAV tv. 13. § (8) bekezdés e) pontja szerinti mélységi ellenőrzéseket végez.
+(3) A dunai hajózási forgalomban a Duna – Európai Unió külső vámhatárának nem minősülő – teljes magyarországi
+folyamszakaszán, valamint annak hajózható mellékágain a mélységi ellenőrzések végrehajtására kizárólag a Bevetési
+Főigazgatóság rendelkezik hatáskörrel.”
+(2) A NAV Korm. rendelet 24. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(Az Őrzésvédelmi és Támogató Igazgatóság:)
+„b) végzi a NAV saját hatáskörében lefoglalt dolgok élő erős őrzésével, kísérésével összefüggő feladatokat, valamint
+végzi anyagi javak őrzését, kísérését és szállítását, továbbá a NAV más szervének felkérése alapján végzi a lefoglalt
+dolgok megsemmisítése során a helyszín biztosítását,”
+8. §
+A NAV Korm. rendelet 26. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A preferenciális származó helyzet igazolására feljogosító elfogadott exportőri, az engedélyes mérlegelői
+tevékenység, valamint a könyvelés szerinti elkülönítés engedélyezését azon, jogszabályban meghatározott kiemelt
+adózók tekintetében, akiknek székhelye a Közép-magyarországi Regionális Vám- és Pénzügyőri Főigazgatóság
+illetékességi területén található, a KAVIG végzi.”
+
+9. § (1) A NAV Korm. rendelet 27. § k) pontja helyébe a következő rendelkezés lép:
+(A KAVIG kizárólagos hatáskörébe tartozik országos illetékességgel a NAV, mint vámhatóság hatáskörébe utalt feladatok
+tekintetében:)
+„k) csomagküldő kereskedő nyilvántartásba vétele, és a csomagküldő kereskedő adóügyi képviselőjének
+nyilvántartásba vétele, valamint a csomagküldő kereskedőnek a Jöt. 32. § (2) bekezdésében foglaltak alapján a más
+tagállamba szállított jövedéki termék után megfizetett adó visszaigénylésével kapcsolatos vámhatósági feladatok
+ellátása,”
+(2) A NAV Korm. rendelet 27. § q) pontja helyébe a következő rendelkezés lép:
+[A KAVIG kizárólagos hatáskörébe tartozik országos illetékességgel a NAV, mint vámhatóság hatáskörébe utalt feladatok
+tekintetében:]
+„q) az egyes szellemi tulajdonjogokat sértő áruk elleni vámhatósági intézkedésekről szóló 371/2004. (XII. 26.) Korm.
+rendelet 2–3. §-ában meghatározott feladatok ellátása,”
+10. § A NAV Korm. rendelet 29. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A környezetvédelmi termékdíj, valamint a népegészségügyi termékadó megfizetésére kötelezett külföldi
+vállalkozás esetében a termékdíjköteles termékkel végzett tevékenység bejelentése, a termékdíj bevallása, befizetése,
+kiszabása, visszaigénylése, ellenőrzése, valamint a termékadó bevallása, befizetése, kiszabása, ellenőrzése során
+a KAVIG jár el.”
+11. § A NAV Korm. rendelet 36. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A Kormány az Art. 70. § 5. pont 5.1. alpontjában megjelölt központi kapcsolattartó irodaként a NAV szervezetén
+belül a Központi Hivatalt jelöli ki.”
+12. § (1) A NAV Korm. rendelet 45. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) Amennyiben az Art. 14. § (4) bekezdése alapján az adóhatóság által megállapított mulasztási bírság
+a felszámolót terheli, a mulasztási bírságot azon adóigazgatóság szabja ki, melynek illetékességi területén
+a mulasztással érintett, felszámolás alatt álló adózó székhelye található.”
+(2) A NAV Korm. rendelet 45. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[Az alábbi ügyekben az adózó kérelmére – a 18. § (1) bekezdésében és 19. § (1) bekezdésében megjelölt adózók kivételével–
+a NAV bármelyik megyei (fővárosi) adóigazgatósága eljárhat:]
+„b) magánszemély részére az adóazonosító jel kiadása, a vámazonosító szám kiadása, valamint az adóigazolvánnyal
+kapcsolatos ügyintézés,”
+(3) A NAV Korm. rendelet 45. § (4) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[(4) Az alábbi ügyekben az adózó kérelmére – a 18. § (1) bekezdésében és 19. § (1) bekezdésében megjelölt adózók
+kivételével – a NAV bármelyik megyei (fővárosi) adóigazgatósága eljárhat:]
+„c) START, START PLUSZ, START EXTRA, START BÓNUSZ kártyával kapcsolatos ügyintézés,”
+(4) A NAV Korm. rendelet 45. § (4) bekezdése a következő f) ponttal egészül ki:
+[Az alábbi ügyekben az adózó kérelmére – a 18. § (1) bekezdésében és 19. § (1) bekezdésében megjelölt adózók kivételével–
+a NAV bármelyik megyei (fővárosi) adóigazgatósága eljárhat:]
+„f) az adózó adófolyószámlájával és bevallásaival kapcsolatos tájékoztatás és kivonat kiadása ügyében.”
+(5) A NAV Korm. rendelet 45. § a következő (4a) bekezdéssel egészül ki:
+„(4a) A NAV bármely megyei (fővárosi) adóigazgatóságánál kezdeményezhető az illetékekről szóló 1990. évi
+XCIII. törvény (a továbbiakban: Itv.) 73. § (7) bekezdése, valamint a 74. § (1) bekezdése szerinti, a 10 000 forintot
+meghaladó eljárási illeték kiszabás alapján történő megfizetése, és az illetékköteles irat illetékkiszabásra történő
+bemutatása tényének igazolása. Az illetéket az a megyei (fővárosi) adóigazgatóság szabja ki, amely az irat
+illetékkiszabásra történő bemutatását igazolta.”
+(6) A NAV Korm. rendelet 45. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Ha az adózó által szabályszerűen bejelentett székhely-, telephely-, lakóhelyváltozás az adóztatási szervnek
+a változásról történt tudomásszerzését megelőzően ténylegesen megtörtént, és az ellenőrzés során az adózó
+kötelezettségeit csak aránytalanul nagy költséggel tudná teljesíteni, a székhelynek, telephelynek, lakóhelynek a régió
+illetékességi területén belül történt megváltozása esetén a NAV területileg illetékes regionális adó főigazgatóságának
+vezetőjétől, egyéb esetekben a NAV elnökétől kérheti az ellenőrzés és szükség szerint a hatósági eljárás lefolytatására
+az új székhelye, telephelye, lakóhelye szerint illetékes megyei (fővárosi) adóigazgatóság kijelölését.”
+
+(7) A NAV Korm. rendelet 45. §-a a következő (12) bekezdéssel egészül ki:
+„(12) A megyei (fővárosi) adóigazgatóságok a NAV elnökének engedélyével jogosultak végrehajtási eljárás
+lefolytatására a régió területén kívül.”
+13. § A NAV Korm. rendelet 51. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A (2) bekezdéstől eltérően a kérelmező székhelye (lakóhelye) szerinti megyei (fővárosi) vám- és pénzügyőri
+igazgatóság, valamint – amennyiben a kérelmező székhelye (lakóhelye) a Repülőtéri Főigazgatóság illetékességi
+területén van – az 1. számú Repülőtéri Igazgatóság illetékes:
+a) összkezesség és biztosítéknyújtás alóli mentesség engedélyezésére,
+b) az EK végrehajtási rendelet 398. cikke szerinti engedélyezett feladói státusz engedélyezésére,
+c) az EK végrehajtási rendelet 912g. cikke szerinti engedélyezett feladói státusz engedélyezésére,
+d) az EK végrehajtási rendelet 406. cikke szerinti engedélyezett címzett státusz engedélyezésére,
+e) az áruk közösségi jellegére vonatkozóan engedélyezett feladó által adott igazolás engedélyezésére,
+f) a preferenciális származási helyzet igazolására feljogosító elfogadott exportőri tevékenység engedélyezésére,
+g) könyvelés szerinti elkülönülés engedélyezésére,
+h) vámügynöki tevékenység engedélyezésére.”
+14. § A NAV Korm. rendelet 56. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Vtv. 1. § (3) bekezdés 3. pontjában meghatározott – megbízható vámadós jogálláshoz kapcsolódó – feltételek
+fennállását, amennyiben a kérelmező székhelye, magyarországi székhely hiányában a telephelye az 1. illetve
+a 2. számú Repülőtéri Igazgatóság illetékességi területén van, az 1. számú Repülőtéri Igazgatóság állapítja meg és
+ellenőrzi.”
+15. § (1) A NAV Korm. rendelet 59. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A megyei (fővárosi) vám- és pénzügyőri igazgatóság az Art. 79. §-a szerint hatáskörébe tartozó adók tekintetében
+a NAV elnökének engedélyével a régió területén kívül is végezhet ellenőrzést. Ilyen esetben az ellenőrzést követő első
+fokú hatósági eljárást is ez a vám- és pénzügyőri igazgatóság folytatja le.”
+(2) A NAV Korm. rendelet 59. §-a a következő (4) és (5) bekezdéssel egészül ki:
+„(4) A vámszervek által az Art. alapján végzett ellenőrzések során a 45. § (5)–(6) bekezdés rendelkezéseit alkalmazni
+kell.
+(5) A megyei (fővárosi) vám- és pénzügyőri igazgatóság mélységi ellenőrzést az illetékességi területén kívül is
+végezhet, ide nem értve a 24. § (3) bekezdése szerinti mélységi ellenőrzést.”
+16. § A NAV Korm. rendelet az „Átmeneti rendelkezések” alcíme a következő 71/A. §-sal egészül ki:
+„71/A. § (1) E rendeletnek a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010.
+(XII. 9.) Korm. rendelet módosításáról szóló 269/2011. (XII. 20.) Korm. rendelettel megállapított 10/A. §-át, 15/A. §-át
+és 45. § (4) bekezdés b) és d) pontját a 2012. január 1-jétől induló vámazonosító szám megállapításával és
+nyilvántartásával kapcsolatos ügyekben kell először alkalmazni. E rendelet hatályba lépését megelőzően indult,
+vámazonosító szám megállapítására és nyilvántartására irányuló eljárásokban a 2011. december 31-én hatályos
+rendelkezéseket kell alkalmazni.
+(2) E rendeletnek a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.)
+Korm. rendelet módosításáról szóló 269/2011. (XII. 20.) Korm. rendelettel megállapított 51. § (2a) bekezdés
+rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.”
+17. § (1) A NAV Korm. rendelet 3. számú melléklete az 1. melléklet szerint módosul.
+(2) A NAV Korm. rendelet 4. számú melléklete helyébe a 2. melléklet lép.
+18. § A NAV Korm. rendelet
+1. 12. § g) pontjában a „Vám- és Pénzügyőrséget” szövegrész helyébe a „NAV-ot” szöveg,
+2. 15. § (1) bekezdés e) pontjában az „a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi
+termékdíjáról szóló 1995. évi LVI. törvényben” szövegrész helyébe az „a környezetvédelmi termékdíjról szóló
+2011. évi LXXXV. törvényben” szöveg,
+
+3.
+15. § (1) bekezdés m) pontjában a „bizonyítékok biztosítását” szövegrész helyébe a „bizonyítékok biztosítását,
+halaszthatatlan nyomozási cselekményként lefoglalás foganatosítását” szöveg
+4.
+ 18. § (1) bekezdés ab) és c) pontjában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+5.
+ 27. § n) pontjában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+6.
+29. § (3) bekezdésében a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+7.
+ 30. §-ában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+8.
+a 31. §-ában a „foglalt különös szabályok” szövegrész helyébe a „foglalt, az adó különös szabályok” szöveg,
+9.
+37. § (3) bekezdésében az „intézetekként” szövegrész helyébe az „intézetként” szöveg,
+10. 41. § (1)–(3) bekezdésében a „Bűnügyi Főigazgatóságot” szövegrész helyébe a „Központi Hivatal szervezetén
+belül működő Pénzmosás Elleni Információs Irodát” szöveg,
+11. 45. § (4) bekezdés d) pontjában az „adószám kiadása” szövegrész helyébe az „adószám kiadása, vámazonosító
+szám kiadása” szöveg,
+12. 45. § (7) bekezdésében és 50. § (1) bekezdésében az „engedélyével” szövegrész helyébe az „adott ügyre
+vonatkozó engedélyével” szöveg,
+13. 47. § (2) bekezdés a) pontjában az „illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.)” szövegrész
+helyébe az „Itv.” szöveg,
+14. 52. §-ában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+15. 58. § (1) bekezdésében a „megyei (fővárosi) vám- és pénzügyőri igazgatóság” szövegrész helyébe a „megyei
+(fővárosi) vám- és pénzügyőri igazgatóság, illetve a 2. számú Repülőtéri Igazgatóság” szöveg,
+16. 58. § (2) bekezdésében a „megyei (fővárosi) vám- és pénzügyőri igazgatóság” szövegrész helyébe a „megyei
+(fővárosi) vám- és pénzügyőri igazgatóság (ideértve a 2. számú Repülőtéri Igazgatóságot is)” szöveg,
+17. 140. § (3) bekezdésében a „66. §-a, 67. §-a, 69. §-a és 70. §-a” szövegrész helyébe a „67. § (4) bekezdése” szöveg,
+18. 1. számú melléklet 1. és 2. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+19. 2. számú melléklet A) rész 1. pontjában, B) rész 1. és 2. pontjában az „a Magyar Köztársaság” szövegrész helyébe
+a „Magyarország” szöveg,
+20. 3. számú melléklet A) rész 8. pontjában a „Ferihegy” szövegrész helyébe a „Liszt Ferenc” szöveg,
+21. 3. számú melléklet A) rész 1. pont a) alpontjában, 8.–10. pontjában az „a Magyar Köztársaság” szövegrész helyébe
+a „Magyarország” szöveg,
+22. 3. számú melléklet B) rész 1. és 27. pontjában, az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország”
+szöveg,
+23. 3. számú melléklet B) rész 4. és 5. pontjában a „területe, ide nem értve” szövegrész helyébe a „területe; ide nem
+értve a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság hatáskörébe tartozó ügyekben” szöveg
+lép.
+19. §
+Hatályát veszti a NAV Korm. rendelet
+1.
+1. § (2) bekezdés d) pontja,
+2.
+1. § (7) bekezdés e) pontja,
+3.
+2. § (2) bekezdésében az „– ide nem értve az Európai Unió külső vámhatárán működő kirendeltségeket –”
+szövegrész,
+4.
+2. § (3) bekezdése,
+5.
+5. § (2) bekezdésében a „ , az Integrált Informatikai és Telekommunikációs Intézet” szövegrész,
+6.
+7. § (4) bekezdésében a „a Járőr Igazgatóságnak, valamint” szövegrész,
+7.
+15. § (4) bekezdése,
+8.
+36. § (3) bekezdése,
+9.
+37. § (3) bekezdésében a „ , valamint az Integrált Informatikai és Telekommunikációs Intézetet” szövegrész,
+10. 45. § (9) bekezdésében az „utasítására vagy” szövegrész,
+11. 46. § (4) bekezdése,
+12. 46. § (5) bekezdésében az „öröklési,” szövegrész,
+13. 53. §-a,
+14. 58. § (3) bekezdése,
+15. 61. §-a,
+
+16. 70. § (3) bekezdésében a „ , de legkésőbb 2011. december 31-ig” szövegrész,
+17. 1. számú melléklet 4. pontja,
+18. 3. számú melléklet B) rész 26. pontja,
+19. 3. számú melléklet C) része.
+2. A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló
+1996. évi XLIII. törvény végrehajtásáról szóló 140/1996. (VIII. 31.) Korm. rendelet módosítása
+20. § (1) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény végrehajtásáról
+szóló 140/1996. (VIII. 31.) Korm. rendelet (a továbbiakban: Korm.r.1.) 27/B. §-a helyébe a következő rendelkezés lép:
+„27/B. § A 26–27/A. §-ban foglaltakat a Nemzeti Adó- és Vámhivatal tekintetében nem kell alkalmazni.”
+(2) A Korm.r.1. 42. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A Nemzeti Adó- és Vámhivatalnál gépjárművezetői pótlékra kizárólag az jogosult, aki a Nemzeti Adó- és
+Vámhivatal jelzésével és megkülönböztető jelzéssel ellátott gépjárművet rendszeresen, legalább havonta négy
+alkalommal vezet, és rendelkezik a megkülönböztető jelzés használatához szükséges pályaalkalmassági vizsgával.”
+21. § Hatályát veszti a Korm.r.1. 2/C. számú melléklete.
+3. Az Európai Unió saját forrásaival kapcsolatos kötelezettségek teljesítésében részt vevő intézmények
+feladat- és hatásköréről, valamint a kapcsolódó eljárásrendről szóló 101/2008. (IV. 29.) Korm. rendelet
+módosítása
+22. § (1) Az Európai Unió saját forrásaival kapcsolatos kötelezettségek teljesítésében részt vevő intézmények feladat- és
+hatásköréről, valamint a kapcsolódó eljárásrendről szóló 101/2008. (IV. 29.) Korm. rendelet (a továbbiakban: Korm.r.2.)
+15. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az EU saját forrásokkal összefüggő feladatok részletes meghatározása és végrehajtása érdekében az egyes
+EU saját források szerint a miniszter az MVH-val és a KSH-val együttműködési megállapodást köt.”
+(2) A Korm.r.2. 15. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az együttműködési megállapodásokat az együttműködő felek szükség esetén felülvizsgálják.”
+23. § A Korm.r.2.
+1. 3. § (1) bekezdésében az „a pénzügyminiszter” szövegrész helyébe az „az államháztartásért felelős miniszter”
+szöveg,
+2. 4. § (1) bekezdésében a „Vám- és Pénzügyőrség Országos Parancsnoksága (a továbbiakban: VPOP)” szövegrész
+helyébe a „Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV)” szöveg,
+3. 5. § (1) bekezdésében, 11. §-ában, 13. § (1) bekezdésében és 14. §-ában a „VPOP” szövegrész helyébe a „NAV”
+szöveg,
+4. 6. §-ában az „az Adó- és Pénzügyi Ellenőrzési Hivatal (a továbbiakban: APEH), a VPOP” szövegrész helyébe az
+„a NAV” szöveg,
+5. 7. § (3) bekezdésében „az APEH” szövegrész helyébe az „a NAV” szöveg,
+lép.
+24. § Hatályát veszti a Korm.r.2. 7. § (4) bekezdése.
+4. Záró rendelkezések
+25. § Ez a rendelet 2012. január 1-jén lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 269/2011. (XII. 20.) Korm. rendelethez
+A NAV Korm. rendelet 3. számú melléklet B) rész 24–25. pontja helyébe a következő rendelkezések lépnek:
+„24. A Nemzeti Adó- és Vámhivatal 1. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékessége
+szabálysértési ügyekben és vámigazgatási ügyekben – az utasok kézi- és feladott poggyászaival összefüggésben
+indult vámigazgatási és a jövedéki ügyek kivételével – a következő helyekre terjed ki: Budapest Liszt Ferenc
+Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59-61. (helyrajzi szám: Vecsés 0148/41 és
+0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9-12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám:
+38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575) területére.
+25. A Nemzeti Adó- és Vámhivatal 2. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékessége
+a szabálysértési ügyek, a jövedéki ellenőrzéssel, hatósági felügyelettel kapcsolatos első fokú hatósági feladatok és
+az utasok kézi- és feladott poggyászaival, valamint a nemzetközi postai küldemények forgalmával összefüggésben
+indult vámigazgatási ügyek tekintetében, továbbá a környezetvédelmi termékdíj hatósági ügyek, a népegészségügyi
+termékadó vonatkozásában a következő helyekre terjed ki: a Budapest Liszt Ferenc Nemzetközi Repülőtér, és légi
+forgalom tekintetében Pest megye közigazgatási területére.”
+2. melléklet a 269/2011. (XII. 20.) Korm. rendelethez
+4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez
+„A) A Nemzeti Adó- és Vámhivatal középfokú nyomozószervei, székhelyük és illetékességi területük
+1. A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Bűnügyi Igazgatósága, székhelye Budapest,
+illetékességi területe Budapest és Pest megye közigazgatási területe.
+2. A Nemzeti Adó- és Vámhivatal Észak-magyarországi Regionális Bűnügyi Igazgatósága, székhelye Eger, illetékességi
+területe Borsod-Abaúj-Zemplén megye, Heves megye és Nógrád megye közigazgatási területe.
+3. A Nemzeti Adó- és Vámhivatal Észak-alföldi Regionális Bűnügyi Igazgatósága, székhelye Nyíregyháza, illetékességi
+területe Hajdú-Bihar megye, Jász-Nagykun-Szolnok megye és Szabolcs-Szatmár-Bereg megye közigazgatási területe.
+4. A Nemzeti Adó- és Vámhivatal Dél-alföldi Regionális Bűnügyi Igazgatósága, székhelye Kecskemét, illetékességi
+területe Bács-Kiskun megye, Békés megye és Csongrád megye közigazgatási területe.
+5. A Nemzeti Adó- és Vámhivatal Nyugat-dunántúli Regionális Bűnügyi Igazgatósága, székhelye Győr, illetékességi
+területe Győr-Moson-Sopron megye, Vas megye és Zala megye közigazgatási területe.
+6. Nemzeti Adó- és Vámhivatal Közép-dunántúli Regionális Bűnügyi Igazgatósága, székhelye Székesfehérvár,
+illetékességi területe, Fejér megye, Komárom-Esztergom megye és Veszprém megye közigazgatási területe.
+7. A Nemzeti Adó- és Vámhivatal Dél-dunántúli Regionális Bűnügyi Igazgatósága, székhelye Pécs, illetékességi
+területe Baranya megye, Somogy megye és Tolna megye közigazgatási területe.
+B) A Nemzeti Adó- és Vámhivatal Bűnügyi Főigazgatóságának alsó fokú szerve, székhelye és illetékességi területe
+A Nemzeti Adó- és Vámhivatal Áru- és Bűnjelkezelő Hivatala, székhelye Budapest, illetékességi területe Magyarország
+területe.”
