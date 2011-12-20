@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2011-07-13 | 2011. évi LXXXIX. törvény | 1998-19-00-00.48 |
 | 2011-09-01 | 2010. évi CLXXXIII. törvény | 1998-19-00-00.49 |
 | 2011-11-19 | 2011. évi LXXXIX. törvény | 1998-19-00-00.50 |
+| 2011-12-20 | 166/2011. (XII. 20.) AB határozat | 1998-19-00-00.51 |

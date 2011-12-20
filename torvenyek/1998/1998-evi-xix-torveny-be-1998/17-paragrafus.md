@@ -16,4 +16,4 @@
 
 (8) Az elkövetőre illetékes bíróság illetékessége a bűnpártolóra és az orgazdára is kiterjed.
 
-(9) Az eljárásra kiemelt ügyekben (Be. 554/B. §) az a bíróság is illetékes, ahol az ügyész – a legfőbb ügyész döntése alapján – az eljárás ésszerű időn belül való, illetve soron kívüli elbírálásának biztosítása végett vádat emel.
+(9)

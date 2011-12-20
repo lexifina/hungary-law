@@ -1,6 +1,6 @@
 ## A tanú személyi adatainak zárt kezelése
 
-96. § (1) A bíróság, az ügyész, illetve a nyomozó hatóság hivatalból elrendelheti, illetve a tanú, vagy az érdekében eljáró ügyvéd kérelmére elrendeli, hogy a tanú személyi adatait [85. § (2) bekezdés] az iratok között elkülönítve, zártan kezeljék. Ezekben az esetekben a tanú zártan kezelt adatait csak az ügyben eljáró bíróság, az ügyész, illetve a nyomozó hatóság tekintheti meg. Ha az e törvényben meghatározott feladata másként nem teljesíthető, a bíróság, az ügyész, valamint a nyomozó hatóság a tanú egyes, a feladat ellátásához szükséges személyi adata zárt kezelését mellőzi.
+96. § (1) A bíróság, az ügyész, illetve a nyomozó hatóság hivatalból elrendelheti, illetve a tanú, vagy az érdekében eljáró ügyvéd kérelmére elrendeli, hogy a tanú személyi adatait [85. § (2) bekezdés] az iratok között elkülönítve, zártan kezeljék. Ezekben az esetekben a tanú zártan kezelt adatait csak az ügyben eljáró bíróság, az ügyész, illetve a nyomozó hatóság tekintheti meg.
 
 (2) Ha a tanú személyi adatainak zárt kezelését rendelték el, ettől kezdve
 
