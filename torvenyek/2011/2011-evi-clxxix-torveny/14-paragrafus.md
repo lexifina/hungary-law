@@ -1,1 +1,0 @@
-14. § A nemzetiséghez tartozóknak a közéletben való részvétele – e minőségükre tekintettel – nem korlátozható. Érdekeik kifejezésére, védelmére – jogszabályi keretek között – egyesületeket, pártokat hozhatnak létre.

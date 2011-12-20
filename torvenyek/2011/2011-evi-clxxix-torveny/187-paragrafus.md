@@ -1,1 +1,0 @@
-187. § A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény 21/F.§ (1) bekezdésében az „országos kisebbségi önkormányzatok” szövegrész helyébe az „országos nemzetiségi önkormányzatok” szöveg lép.

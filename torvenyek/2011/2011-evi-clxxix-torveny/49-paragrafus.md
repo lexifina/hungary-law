@@ -1,1 +1,0 @@
-49. § A nemzetiségek által lakott területeken az állam – nemzetközi szerződések útján is – előmozdítja az anyaországból származó rádiós és audiovizuális médiaszolgáltatások vételét, a nemzetiségek anyanyelvén közzétett közszolgálati műsorszámok elérését.

@@ -1,1 +1,0 @@
-70. § A fővárosi, megyei és az országos nemzetiségi önkormányzati képviselők időközi választásán azok a nemzetiségi szervezetek állíthatnak listát és közös listát, amelyek a megelőző általános választáson arra jogosultak voltak.

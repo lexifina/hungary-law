@@ -1,1 +1,0 @@
-221. § A 2011. évi népszámlálásról szóló 2009. évi CXXXIX. törvény 1.§ (1) bekezdésében „a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény rendelkezéseinek” szövegrész helyébe a „a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény rendelkezéseinek” szöveg lép.

@@ -1,1 +1,0 @@
-90. § Az ülést az elnök hívja össze és vezeti. Akadályoztatása vagy a tisztség ideiglenes betöltetlensége esetén az ülések összehívásának és vezetésének rendjét a szervezeti és működési szabályzat tartalmazza.

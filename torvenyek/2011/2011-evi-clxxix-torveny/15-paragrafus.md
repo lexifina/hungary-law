@@ -1,1 +1,0 @@
-15. § A nemzetiséghez tartozó személyeknek joguk van a családra vonatkozó nemzetiségi hagyományok tiszteletben tartására, családi kapcsolataik ápolására, családi ünnepeiknek anyanyelven történő megtartására és az ezekhez kapcsolódó egyházi szertartások anyanyelven való lebonyolításának igénylésére.
