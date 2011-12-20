@@ -1,10 +1,10 @@
 ## 65. § A növényvédelmi felügyelők
 
-a)[^256] a növényegészségüggyel összefüggő feladataikat az MgSzH területi szervének illetékességi területén, vagy a minisztérium által meghatározott egyéb illetékességi területen,
+a)[^267] a növényegészségüggyel összefüggő feladataikat a növény- és talajvédelmi igazgatóság illetékességi területén, vagy a minisztérium által meghatározott egyéb illetékességi területen,
 
-b)[^257] behozatali és átmenő forgalommal összefüggő feladataikat az MgSzH területi szerve kijelölt határállomási kirendeltségén,
+b)[^268] behozatali és átmenő forgalommal összefüggő feladataikat a növény- és talajvédelmi igazgatóság kijelölt határállomási kirendeltségén,
 
 c) nemzetközi vagy külkereskedelmi szerződésben meghatározott esetekben és feltételekkel, a behozatali forgalommal összefüggő feladataikat a feladó ország termőhelyén, tárolóhelyén vagy feladóhelyén, illetőleg a tranzit kikötőben végzik.
 
-[^256]: A 65. § a) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^257]: A 65. § b) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^267]: A 65. § a) pontja a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^268]: A 65. § b) pontja a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.

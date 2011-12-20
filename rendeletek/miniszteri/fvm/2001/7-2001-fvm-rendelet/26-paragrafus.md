@@ -1,4 +1,4 @@
-## 25. §[^105] A kártalanítási határozatban megjelölt összeget az MgSzH Központ a határozat jogerőre emelkedésétől számított harminc napon belül a termelőnek kifizeti.
+## 25. §[^112] A kártalanítási határozatban megjelölt összeget az MgSzH a határozat jogerőre emelkedésétől számított harminc napon belül a termelőnek kifizeti.
 
 ## Harmadik Fejezet
 
@@ -8,4 +8,4 @@
 
 (2) A növényegészségügyi vizsgálati kötelezettség alá tartozó szaporító- és ültetvényanyag szaporítására, forgalmazására és vizsgálatára vonatkozó előírásokat a 9. számú melléklet tartalmazza.
 
-[^105]: A 25. § a 25/2010. (X. 20.) VM rendelet 2. §-ával megállapított szöveg.
+[^112]: A 25. § a 25/2010. (X. 20.) VM rendelet 2. §-ával megállapított, a 114/2011. (XII. 5.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.

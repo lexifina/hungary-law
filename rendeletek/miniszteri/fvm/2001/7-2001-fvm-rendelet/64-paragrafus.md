@@ -2,12 +2,12 @@
 
 a) a minisztérium meghatározza az elméleti és a gyakorlati ismeretek, valamint a rendszeres szakmai továbbképzés követelményeit,
 
-b)[^253] az MgSzH területi szerve gondoskodik arról, hogy a növényvédelmi felügyelő az a) pont alapján meghatározott ismeretanyagot elsajátítsa,
+b)[^264] a növény- és talajvédelmi igazgatóság gondoskodik arról, hogy a növényvédelmi felügyelő az a) pont alapján meghatározott ismeretanyagot elsajátítsa,
 
-c)[^254] az MgSzH területi szerve biztosítja a növényvédelmi felügyelő a) pontban meghatározott rendszeres szakmai képzésen való részvételét,
+c)[^265] a növény- és talajvédelmi igazgatóság biztosítja a növényvédelmi felügyelő a) pontban meghatározott rendszeres szakmai képzésen való részvételét,
 
-d)[^255] az MgSzH területi szerve köteles meggyőződni arról, hogy a növényvédelmi felügyelő az a) pont szerint meghatározott ismeretanyagot elsajátította.
+d)[^266] a növény- és talajvédelmi igazgatóság köteles meggyőződni arról, hogy a növényvédelmi felügyelő az a) pont szerint meghatározott ismeretanyagot elsajátította.
 
-[^253]: A 64. § b) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^254]: A 64. § c) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^255]: A 64. § d) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^264]: A 64. § b) pontja a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^265]: A 64. § c) pontja a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^266]: A 64. § d) pontja a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.

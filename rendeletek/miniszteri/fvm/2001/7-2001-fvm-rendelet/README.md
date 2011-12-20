@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-7-20-82
 | 2009-07-10 | 2001-7-20-82.28 | 7/2001. (I. 17.) FVM rendelet |
 | 2010-04-14 | 2001-7-20-82.29 | 30/2010. (III. 30.) FVM rendelet |
 | 2010-11-04 | 2001-7-20-82.30 | 25/2010. (X. 20.) VM rendelet |
+| 2011-12-20 | 2001-7-20-82.31 | 114/2011. (XII. 5.) VM rendelet |

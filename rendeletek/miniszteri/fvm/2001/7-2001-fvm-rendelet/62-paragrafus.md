@@ -1,12 +1,12 @@
-## Hetedik Fejezet[^244]
+## Hetedik Fejezet[^255]
 
-## Az MgSzH KÖZPONT FELADATAI[^245]
+## Az MgSzH FELADATAI[^256]
 
-## 62. §[^246] A növényegészségügyi célok végrehajtása érdekében az MgSzH Központ
+## 62. §[^257] A növényegészségügyi célok végrehajtása érdekében az MgSzH
 
-a)[^247] irányítja, felügyeli és ellenőrzi az MgSzH területi szervei és a növényegészségügyi vizsgálatokat végző speciális laboratóriumok szakmai munkáját, és koordinálja az ehhez szükséges társhatósági együttműködést,
+a)[^258] irányítja, felügyeli és ellenőrzi a növény- és talajvédelmi igazgatóságok és a növényegészségügyi vizsgálatokat végző speciális laboratóriumok szakmai munkáját, és koordinálja az ehhez szükséges társhatósági együttműködést,
 
-b)[^248] nyilvántartja a világ országainak növényegészségügyi import szabályozásait, és gondoskodik az MgSzH területi szervei, valamint a termelők tájékoztatásáról,
+b)[^259] nyilvántartja a világ országainak növényegészségügyi import szabályozásait, és gondoskodik a növény- és talajvédelmi igazgatóságok, valamint a termelők tájékoztatásáról,
 
 c) gondoskodik a nemzetközi érvényű növényegészségügyi vizsgálati módszerek, szabályzatok, ajánlások egységes bevezetéséről, ezek hiányában normatív javaslatokat dolgoz ki,
 
@@ -14,18 +14,18 @@ d) részt vesz a növényegészségügyi szabályozással kapcsolatos jogszabál
 
 e) részt vesz a nemzetközi szervezetek növényegészségügyi szabályozással kapcsolatos munkájában, közreműködik az államközi egyezményekben vállalt növényegészségügyi kötelezettségek végrehajtásában,
 
-f)[^249] gondoskodik az MgSzH területi szervei egységes növényegészségügyi feladatok ellátást szolgáló fejlesztések, korszerűsítések és beszerzések felméréséről, előkészítéséről, illetve végrehajtásáról, működteti az informatikai hálózatot,
+f)[^260] gondoskodik a növény- és talajvédelmi igazgatóságok egységes növényegészségügyi feladatok ellátást szolgáló fejlesztések, korszerűsítések és beszerzések felméréséről, előkészítéséről, illetve végrehajtásáról, működteti az informatikai hálózatot,
 
 g) szervezi és irányítja a zárlati és a vizsgálatköteles nem zárlati károsítók felderítését és az országos mentesítési akciókat, programokat,
 
 h) működteti a károsító veszélyességi analízissel foglalkozó munkabizottságot,
 
-i)[^250] kérelemre engedélyezi ideiglenes növényegészségügyi határállomás megnyitását.
+i)[^261] kérelemre engedélyezi ideiglenes növényegészségügyi határállomás megnyitását.
 
-[^244]: Az eredeti Hatodik fejezet számozását a 37/2003. (IV. 4.) FVM rendelet 24. §-a Hetedik fejezetre változtatta.
-[^245]: A Hetedik fejezet címe a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^246]: A 62. § felvezető szövege a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^247]: A 62. § a) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^248]: A 62. § b) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^249]: A 62. § f) pontja a 65/2007. (VII. 23.) FVM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^250]: A 62. § i) pontja a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
+[^255]: Az eredeti Hatodik fejezet számozását a 37/2003. (IV. 4.) FVM rendelet 24. §-a Hetedik fejezetre változtatta.
+[^256]: A Hetedik fejezet címe a 114/2011. (XII. 5.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^257]: A 62. § nyitó szövegrésze a 114/2011. (XII. 5.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^258]: A 62. § a) pontja a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^259]: A 62. § b) pontja a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^260]: A 62. § f) pontja a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^261]: A 62. § i) pontja a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
