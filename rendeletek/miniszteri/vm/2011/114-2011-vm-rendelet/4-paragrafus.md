@@ -1,0 +1,1 @@
+## „(3) Ez a rendelet a Közösségben a meghatározott növény-egészségügyi kockázatoknak kitett védett övezetek elismeréséről szóló, 2008. július 4-i 690/2008/EK bizottsági rendelet, valamint az azt módosító, 2010. január 8-i 17/2010/EU, 2010. április 27-i 361/2010/EU és 2011. május 5-i 436/2011/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.”
