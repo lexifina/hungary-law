@@ -1,0 +1,1 @@
+188. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 23.§ a) pontjában a „kisebbségi önkormányzati” szövegrész helyébe a „nemzetiségi önkormányzati” szöveg lép.

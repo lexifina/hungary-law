@@ -1,0 +1,1 @@
+120. § A hivatal vezetőjét az elnök javaslatára a közgyűlés határozatlan időre nevezi ki. A hivatal vezetője tekintetében – a felmentés esetét kivéve – az elnök gyakorolja a munkáltatói jogokat. A felmentés jogát a közgyűlés gyakorolja.

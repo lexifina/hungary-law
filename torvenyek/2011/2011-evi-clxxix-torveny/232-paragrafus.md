@@ -1,0 +1,1 @@
+232. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 3.§ 3. pont a) alpontja a „nemzeti és etnikai kisebbséghez” szövegrész helyett a „nemzetiséghez” szöveggel lép hatályba.

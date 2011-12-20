@@ -1,0 +1,3 @@
+130. § (1) A helyi nemzetiségi önkormányzat pénzügyi, ügyviteli, ügyintézési és egyéb alapvető feladatai egységes szabályok szerinti elvégzése, átláthatósága érdekében kapcsolódik a helyi önkormányzat által működtetetett – az állami informatikai rendszerrel összekapcsolható – informatikai rendszerhez, amely a folyamatos pénzügyi állami ellenőrzés eszközeként is szolgál. A rendszerben kötelezően közzéteendő további adatok körét külön jogszabály határozza meg.
+
+(2) Az országos nemzetiségi önkormányzat (1) bekezdés szerinti célnak megfelelő, az állami informatikai rendszerrel összekapcsolható informatikai rendszere megteremtésének pénzügyi és technikai feltételeit az állam biztosítja.

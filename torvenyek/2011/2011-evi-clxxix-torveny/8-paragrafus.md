@@ -1,0 +1,1 @@
+8. § Az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettese figyelemmel kíséri a Magyarországon élő nemzetiségek jogainak érvényesülését és megteszi a külön törvény szerinti szükséges intézkedéseket.

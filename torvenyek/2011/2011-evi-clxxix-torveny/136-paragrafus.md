@@ -1,0 +1,1 @@
+136. § Az e törvényben szabályozott feladat- és hatáskör átruházása esetén a szükséges vagyontárgyakat az átadó önkormányzat (helyi önkormányzat, nemzetiségi önkormányzat) az átvevő nemzetiségi önkormányzat használatába adja, külön megállapodásban foglaltaknak megfelelően. Ez nem akadályozhatja az átadó önkormányzat feladat- és hatáskörének ellátását.

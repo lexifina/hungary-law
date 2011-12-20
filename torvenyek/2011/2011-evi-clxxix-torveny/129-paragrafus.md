@@ -1,0 +1,1 @@
+129. § A nemzetiségi önkormányzatok a nemzetiségi oktatási és kulturális önigazgatás, a nemzetiségi kulturális autonómia körében kiírt állami és európai uniós pályázatokon a helyi önkormányzatokkal azonos feltételek mellett vehetnek részt.

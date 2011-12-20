@@ -1,0 +1,1 @@
+32. § Ahol e fejezet nemzetiséghez tartozó személy, nemzetiségi önkormányzat, nemzetiségi egyesület nyilatkozatáról, véleményéről, egyetértéséről rendelkezik, azon kizárólag az érintett nemzetiséghez tartozó személy, érintett nemzetiség önkormányzatának, egyesületének ezen joga értendő.

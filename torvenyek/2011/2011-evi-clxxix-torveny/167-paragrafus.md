@@ -1,0 +1,1 @@
+167. § Amennyiben a soron következő általános nemzetiségi választás eredményeképpen nem alakul meg új települési önkormányzat, a megszűnt települési nemzetiségi önkormányzat vagyona a települési önkormányzat tulajdonába kerül azzal, hogy azt nemzetiségi célra kell felhasználni.

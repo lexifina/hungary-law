@@ -1,0 +1,1 @@
+111. § Az elnök és az elnökhelyettes tiszteletdíjat, más járandóságot – a költségtérítés kivételével – nem vehet fel a nemzetiségi önkormányzat által létrehozott (vagy az önkormányzat részvételével működő) bármely szervezetben, valamint olyan szervezetben, amelynek tevékenységében tulajdonosként (résztulajdonosként), fenntartóként (részfenntartóként) közreműködik.

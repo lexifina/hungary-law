@@ -1,0 +1,1 @@
+18. § A nemzetiségeknek a közösségi névhasználathoz fűződő jogaik gyakorlása során joguk van a történelmileg kialakult helységnevek, utcanevek és egyéb, a közösség számára szánt földrajzi megjelölések használatához.

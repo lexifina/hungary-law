@@ -1,0 +1,1 @@
+40. § A fenntartó és a nemzetiségi önkormányzat a kulturális intézmény közös fenntartására, kulturális feladat közös ellátására megállapodást köthet. A közös fenntartású kulturális intézmény tekintetében a 38-39. §-ban foglaltakat kell alkalmazni.

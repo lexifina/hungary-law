@@ -1,0 +1,1 @@
+228. § A jogszabályok előkészítésében való társadalmi részvételről szóló 2010. évi CXXXI. törvény 13.§ (2) bekezdés d) pontjában az „országos kisebbségi önkormányzatokkal” szövegrész helyébe az „országos nemzetiségi önkormányzatokkal” szöveg lép.

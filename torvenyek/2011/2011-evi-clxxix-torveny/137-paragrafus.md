@@ -1,0 +1,3 @@
+137. § (1) Az e törvény hatálybalépését követően az Országgyűlés által nemzetiségként elismert közösség újonnan megalakuló országos nemzetiségi önkormányzata működési feltételeinek biztosítására a megalakulásukat követően az állam százötven-háromszáz négyzetméter hasznos alapterületű, önállóan használható épületet vagy épületrészt biztosít. Az épületet, épületrészt egyszeri ingyenes vagyonjuttatásként az országos önkormányzat tulajdonába kell adni.
+
+(2) Az egyszeri ingyenes vagyonjuttatásként megszerzett épület vagy épületrész az országos önkormányzat törzsvagyonát képezi, amely a törvény erejénél fogva forgalomképtelen vagyontárgynak minősül.

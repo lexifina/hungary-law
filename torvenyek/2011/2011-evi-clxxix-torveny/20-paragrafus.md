@@ -1,0 +1,1 @@
+20. § Magyarország – törvényei keretei között – biztosítja a nemzetiségi közösségeknek rendezvényeik és ünnepeik zavartalan megtartásához, építészeti, kulturális, kegyeleti és vallási emlékeik, hagyományaik megőrzéséhez, ápolásához és átörökítéséhez, jelképeik használatához fűződő jogait.

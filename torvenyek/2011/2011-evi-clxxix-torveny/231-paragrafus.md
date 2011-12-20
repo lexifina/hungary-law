@@ -1,0 +1,1 @@
+231. § A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 5. § (4) bekezdés f) pontjában a „kisebbségi önkormányzati képviselőjelöltként” szövegrész a „nemzetiségi önkormányzati képviselőjelöltként” szöveggel lép hatályba.

@@ -1,0 +1,3 @@
+94. § (1) A nemzetiségi önkormányzat testületének döntéshozatalából kizárható az, akit vagy akinek hozzátartozóját az ügy személyesen érinti. A képviselő köteles bejelenteni a személyes érintettségét. A kizárásról az érintett képviselő kezdeményezésére vagy bármely más nemzetiségi önkormányzati képviselő javaslatára a testület dönt. A kizárt képviselő a határozatképesség szempontjából jelenlévőnek minősül.
+
+(2) Az (1) bekezdés szerinti szabályok nem alkalmazhatóak a nemzetiségi önkormányzat elnökének, elnökhelyettesének megválasztására, továbbá a bizottságok létrehozására, bizottsági tisztségviselők megválasztására.
