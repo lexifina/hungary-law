@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2011-07-01 | 2011. évi LXVI. törvény | 2010-185-00-00.6 |
 | 2011-07-20 | 2011. évi CVII. törvény | 2010-185-00-00.7 |
 | 2011-08-03 | 2011. évi CVII. törvény | 2010-185-00-00.8 |
+| 2011-12-21 | 165/2011. (XII. 20.) AB határozat | 2010-185-00-00.9 |
