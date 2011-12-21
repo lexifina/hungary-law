@@ -1,0 +1,3 @@
+## 1. § A Nemzeti Földalapba tartozó földrészletek szociális földprogram megvalósítása céljából az önkormányzatok számára történő ingyenes tulajdonba vagy vagyonkezelésbe adásának szabályairól szóló 263/2010. (XI. 17.) Korm. rendelet (a továbbiakban: R.) 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az önkormányzat a földrészletnek a vagyonkezelésébe adására irányuló írásbeli kérelmét az NFA-nál terjesztheti elő a hirdetmény közzétételének napjától számított 30 napon belül. A határidő elmulasztása nem érinti az önkormányzat azon jogát, hogy a később közzétett hirdetmény alapján ismételten kérelmet nyújtson be.”
