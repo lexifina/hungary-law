@@ -40,7 +40,9 @@ e) szükség esetén információs igényt fogalmaz meg a b) pontban felsorolt s
 
 f) összehangolja a b) pontban felsorolt szervek felderítő és műveleti, valamint hatósági intézkedéseit, továbbá a műveleti helyzetnek megfelelően javaslatot tesz a szükséges intézkedésekre.
 
-8.[^1] A Munkacsoport tagjai:
+7a.[^1] A Kabinet elnöke egyedi döntésével más eseti munkacsoportot is létrehozhat.
+
+8.[^2] A Munkacsoport tagjai:
 
 a) a belügyminiszter,
 
@@ -72,19 +74,19 @@ n) a Honvéd Vezérkar főnöke,
 
 o) a Közigazgatási és Igazságügyi Minisztérium igazságügyi államtitkára.
 
-9.[^2] A Munkacsoportot a belügyminiszter és a honvédelmi miniszter együttesen, azonos jogkörrel vezeti. A Munkacsoport tagját akadályoztatása esetén az általa kijelölt személy helyettesíti. A Munkacsoport vezetői az ülésre tanácskozási joggal más személyeket is meghívhatnak.
+9.[^3] A Munkacsoportot a belügyminiszter és a honvédelmi miniszter együttesen, azonos jogkörrel vezeti. A Munkacsoport tagját akadályoztatása esetén az általa kijelölt személy helyettesíti. A Munkacsoport vezetői az ülésre tanácskozási joggal más személyeket is meghívhatnak.
 
-10.[^3] A Munkacsoport szükség szerint, de legalább havonta ülésezik, ülését a Munkacsoport vezetői hívják össze. Rendkívüli ülés összehívását bármely tag az indok és a napirend megjelölésével kezdeményezheti a Munkacsoport bármely vezetőjénél, akik együttesen döntenek az összehívás kérdésében.
+10.[^4] A Munkacsoport szükség szerint, de legalább havonta ülésezik, ülését a Munkacsoport vezetői hívják össze. Rendkívüli ülés összehívását bármely tag az indok és a napirend megjelölésével kezdeményezheti a Munkacsoport bármely vezetőjénél, akik együttesen döntenek az összehívás kérdésében.
 
-11.[^4] A Munkacsoport álláspontjával egyet nem értő tagja a Munkacsoport bármely vezetőjénél, vagy a 8. pontban meghatározott szervet irányító vagy felügyelő miniszternél kezdeményezheti a Kabinet ülésének összehívását.
+11.[^5] A Munkacsoport álláspontjával egyet nem értő tagja a Munkacsoport bármely vezetőjénél, vagy a 8. pontban meghatározott szervet irányító vagy felügyelő miniszternél kezdeményezheti a Kabinet ülésének összehívását.
 
 12. A Munkacsoport a Kabinetet rendszeresen, de legalább félévente a rendes üléseket megelőzően, illetve szükség szerint soron kívül tájékoztatja tevékenységéről.
 
 13. A Kabinet és a Munkacsoport üléseiről emlékeztető készül.
 
-14.[^5] A Kabinet és a Munkacsoport titkársági feladatait a Belügyminisztérium látja el.
+14.[^6] A Kabinet és a Munkacsoport titkársági feladatait a Belügyminisztérium látja el.
 
-15. A Kabinet és a Munkacsoport működésének részletes szabályait a Kabinet elnöke által megállapított ügyrend határozza meg.
+15.[^7] A Kabinet, a Munkacsoport és az eseti munkacsoport működésének részletes szabályait a Kabinet elnöke által megállapított ügyrend határozza meg.
 
 16. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -94,8 +96,10 @@ o) a Közigazgatási és Igazságügyi Minisztérium igazságügyi államtitkár
 
 18. Hatályát veszti a Kormány kabinetjeiről szóló 1047/2009. (IV. 13.) Korm. határozat.
 
-[^1]: A 8. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 9. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 10. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: A 11. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
-[^5]: A 14. pont az 1404/2011. (XI. 25.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: A 7a. pontot az 1442/2011. (XII. 20.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 8. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 9. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 10. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 11. pont az 1404/2011. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: A 14. pont az 1404/2011. (XI. 25.) Korm. határozat 2. pontjával megállapított szöveg.
+[^7]: A 15. pont az 1442/2011. (XII. 20.) Korm. határozat 2. pontjával megállapított szöveg.
