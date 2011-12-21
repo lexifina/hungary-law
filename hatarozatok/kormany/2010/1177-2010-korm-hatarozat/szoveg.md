@@ -32,7 +32,7 @@ d) a Nemzeti Erőforrás Minisztérium oktatásért felelős államtitkára, a s
 
 e) a Nemzeti Fejlesztési Minisztérium parlamenti államtitkára, a fejlesztéspolitikai koordinációért felelős államtitkára, valamint az infokommunikációért felelős államtitkára,
 
-f) a Nemzetgazdasági Minisztérium parlamenti államtitkára, valamint a külgazdaságért felelős államtitkára,
+f)[^1] a Nemzetgazdasági Minisztérium parlamenti és gazdaságstratégiáért felelős államtitkára, valamint a gazdaságszabályozásért felelős államtitkára,
 
 g) a Vidékfejlesztési Minisztérium parlamenti államtitkára, a környezetügyért felelős államtitkára, valamint a vidékfejlesztésért felelős államtitkára, és
 
@@ -46,9 +46,9 @@ h) a Központi Statisztikai Hivatal elnöke.
 
 9. A Kormány felkéri a Magyar Tudományos Akadémia elnökét, a Nemzeti Média és Hírközlési Hatóság elnökét, valamint a Kulturális Örökségvédelmi Hivatal vezetőjét, hogy személyesen vagy delegáltja útján állandó meghívottként vegyen részt az NPTB munkájában.
 
-10. Az NPTB teljes ülésére, az NPTB elnökének vezetésével, a 4., 5. és 6. pontban felsorolt valamennyi tag részvételével szükség szerint, de legalább negyedévente kerül sor. Az NPTB teljes ülését az NPTB elnöke – az NPTB Titkársága útján – hívja össze.
+10.[^2] Az NPTB teljes ülésére, az NPTB elnökének vezetésével, a 4., 5. és 6. pontban felsorolt valamennyi tag részvételével szükség szerint, de legalább félévente kerül sor. Az NPTB teljes ülését az NPTB elnöke – az NPTB Titkársága útján – hívja össze.
 
-11. Az NPTB munkacsoporti ülésére, az NPTB Titkárának vezetésével, a 6. pontban meghatározott tagok részvételével havonta egy alkalommal kerül sor. A munkacsoporti ülést az NPTB Titkára hívja össze.
+11.[^3] Az NPTB munkacsoporti ülésére, az NPTB Titkárának vezetésével, a 6. pontban meghatározott tagok részvételével szükség szerint, de legalább negyedévente kerül sor. A munkacsoporti ülést az NPTB Titkára hívja össze.
 
 12. Az NPTB rendkívüli ülésének összehívását bármely bizottsági tag, az indok egyidejű megjelölésével kezdeményezheti az NPTB elnökénél.
 
@@ -63,3 +63,7 @@ h) a Központi Statisztikai Hivatal elnöke.
 17. Az NPTB működésének részletes szabályait ügyrendjében állapítja meg.
 
 18. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
+
+[^1]: Az 5. pont f) alpontja az 1446/2011. (XII. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 10. pont az 1446/2011. (XII. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 11. pont az 1446/2011. (XII. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
