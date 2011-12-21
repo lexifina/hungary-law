@@ -1,4 +1,4 @@
-9. § (1)[^14] Az NFA a határidőben beérkezett önkormányzati kérelmet – a kérelem benyújtására nyitva álló határidő lejártát követő 60 napon belül – megvizsgálja és az e rendeletben foglalt követelményeknek megfelelően benyújtott, az általa támogatott kérelmekről szakmai javaslatot (a továbbiakban: javaslat) készít a Kormány részére a vagyonkezelésbe adásról.
+9. § (1)[^14] Az NFA a határidőben beérkezett önkormányzati kérelmet – a kérelem benyújtására nyitva álló határidő lejártát követő 30 napon belül – megvizsgálja és az e rendeletben foglalt követelményeknek megfelelően benyújtott, az általa támogatott kérelmekről szakmai javaslatot (a továbbiakban: javaslat) készít a Kormány részére a vagyonkezelésbe adásról.
 
 (2) Ha kérelem nem felel meg a 7. §-ban meghatározott követelményeknek, az NFA – határidő megjelölése mellett – hiánypótlásra hívja fel az önkormányzatot. Az (1) bekezdésben meghatározott határidőbe nem számít be a hiánypótlásra irányuló felhívás közlésétől a teljesítésig terjedő idő.
 
@@ -18,6 +18,6 @@ c)[^15] ellenőrzés alapján megállapításra kerül, hogy az önkormányzat k
 
 (7) Az NFA javaslata alapján az agrárpolitikáért felelős miniszter a döntési javaslatot is tartalmazó előterjesztést benyújtja a Kormány részére.
 
-[^14]: A 9. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 23. § h) pontja szerint módosított szöveg.
+[^14]: A 9. § (1) bekezdése a 279/2011. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^15]: A 9. § (4) bekezdés c) pontja a 161/2011. (VIII. 18.) Korm. rendelet 23. § i) pontja szerint módosított szöveg.
 [^16]: A 9. § (6) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 21. §-ával megállapított szöveg.

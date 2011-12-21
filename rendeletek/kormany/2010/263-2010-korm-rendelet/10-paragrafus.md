@@ -1,4 +1,4 @@
-10. § (1)[^17] A Kormánynak a vagyonkezelésbe adásról szóló döntésének a Magyar Közlönyben történő közzétételétől számított 30 napon belül az NFA és a jogosult önkormányzat ingatlan-nyilvántartási bejegyzésre alkalmas vagyonkezelési szerződést köt. A szerződés alapján az önkormányzat köteles gondoskodni a vagyonkezelői jogának az ingatlan-nyilvántartásba történő bejegyzéséről.
+10. § (1)[^17] A Kormánynak a vagyonkezelésbe adásról szóló döntésének a Magyar Közlönyben történő közzétételétől számított 15 napon belül az NFA és a jogosult önkormányzat ingatlan-nyilvántartási bejegyzésre alkalmas vagyonkezelési szerződést köt. A szerződés alapján az önkormányzat köteles gondoskodni a vagyonkezelői jogának az ingatlan-nyilvántartásba történő bejegyzéséről.
 
 (2)[^18]
 
@@ -8,5 +8,5 @@
 
 (5) A vagyonkezelési szerződésben rögzíteni kell, hogy a vagyonkezelő önkormányzat a vagyonkezelésébe vett vagyon használatából, működtetéséből származó bevételeit, valamint közvetlen költségeit és ráfordításait elkülönítetten tartja nyilván.
 
-[^17]: A 10. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^17]: A 10. § (1) bekezdése a 279/2011. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^18]: A 10. § (2) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § j) pontja hatályon kívül helyezte.
