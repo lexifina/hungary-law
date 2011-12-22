@@ -4,7 +4,7 @@
 
 18. § (1) A Hivatal elemzi a korrupcióval összefüggő társadalmi és gazdasági folyamatokat, és a korrupció elleni kormányzati politika hatékonyságát. A Hivatal e feladataival összefüggésben rendszeresen elemzi különösen azokat a döntéshozatali folyamatokat, amelyek korrupciós kockázatot jelentenek, és javaslatot tesz a kockázatok csökkentésére.
 
-(2) A Hivatal – az érintett szakmai és társadalmi szervezetek és szakértők bevonásával előkészített – középtávú, legalább ötéves ciklusokra tervezett korrupcióellenes stratégia kialakítására tesz javaslatot a Kormány részére.
+(2) A Hivatal – az érintett szakmai és egyesületek és szakértők bevonásával előkészített – középtávú, legalább ötéves ciklusokra tervezett korrupcióellenes stratégia kialakítására tesz javaslatot a Kormány részére.
 
 (3) A Hivatal a Kormány által elfogadott stratégia végrehajtásával kapcsolatos kormányzati feladatokra tekintettel javaslatot dolgoz ki:
 
