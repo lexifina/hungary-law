@@ -1,6 +1,6 @@
 ## A jelölő szervezet bejelentése
 
-51. § (1) Azt a jelölő szervezetet, amely jelöltet vagy listát kíván állítani, a társadalmi szervezetek bírósági nyilvántartásából a választás kitűzését követően kiállított kivonat csatolásával kell bejelenteni az alábbiak szerint:
+51. § (1) Azt a jelölő szervezetet, amely jelöltet vagy listát kíván állítani, az egyesületek bírósági nyilvántartásából a választás kitűzését követően kiállított kivonat csatolásával kell bejelenteni az alábbiak szerint:
 
 a) ha a jelölő szervezet több megye, illetőleg a főváros és valamely megye területén is jelöltet vagy listát kíván állítani, az Országos Választási Bizottságnál,
 

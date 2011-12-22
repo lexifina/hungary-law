@@ -6,4 +6,4 @@
 
 (3) Az ajánlószelvényeket, valamint a technikai nyilvántartást az illetékes választási iroda a szavazás napján megsemmisíti.
 
-(4) A jelölő szervezet jelölési jogosultságát a választási bizottság a bíróság által bejegyzett társadalmi szervezetek nyilvántartásában ellenőrizheti.
+(4) A jelölő szervezet jelölési jogosultságát a választási bizottság a bíróság által bejegyzett egyesületek nyilvántartásában ellenőrizheti.

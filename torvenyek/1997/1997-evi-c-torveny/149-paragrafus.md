@@ -20,7 +20,7 @@ e) jegyző: a települési jegyző, a körjegyző,
 
 f) jelölési fajta: az országgyűlési képviselők választásán az egyéni választókerületi, a területi listás, az országos listás jelölés; az Európai Parlament tagjainak választásán a listás jelölés; a helyi önkormányzati képviselők és polgármesterek választásán a polgármester-/főpolgármester-, az egyéni listás, az egyéni választókerületi, a kompenzációs listás, a fővárosi/megyei listás jelölés; a kisebbségi önkormányzati képviselők választásán a települési kisebbségi önkormányzati, a területi kisebbségi önkormányzati, az országos kisebbségi önkormányzati jelölés,
 
-g) jelölő szervezet: a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény szerint bejegyzett párt, valamint az egyesülési jogról szóló 1989. évi II. törvény szerint bejegyzett társadalmi szervezet; a közös jelöltet, listát állító jelölő szervezetek egy jelölő szervezetnek számítanak,
+g) jelölő szervezet: a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény szerint bejegyzett párt, valamint az egyesülési jogról szóló törvény szerint bejegyzett egyesület; a közös jelöltet, listát állító jelölő szervezetek egy jelölő szervezetnek számítanak,
 
 h) képviselő: az országgyűlési képviselő, az Európai Parlament tagja, a települési önkormányzat képviselő-testületének tagja, a megyei közgyűlés tagja, a fővárosi közgyűlés tagja, a kisebbségi önkormányzat tagja,
 
