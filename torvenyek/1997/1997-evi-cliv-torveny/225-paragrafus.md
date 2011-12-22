@@ -2,7 +2,7 @@
 
 a) a szükségletek felmérése,
 
-b) a Magyar Vöröskereszttel és más társadalmi szervezetekkel együttműködve a véradások szervezése,
+b) a Magyar Vöröskereszttel és más civil szervezetekkel együttműködve a véradások szervezése,
 
 c) a véradók kivizsgálása,
 
