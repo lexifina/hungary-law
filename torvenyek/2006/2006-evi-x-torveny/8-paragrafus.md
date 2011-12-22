@@ -7,3 +7,5 @@ a) amelynek célja munkanélküli, illetőleg szociálisan hátrányos helyzetbe
 b) amely iskolaszövetkezetként működik.
 
 (2) A szociális szövetkezetnek a nevében viselnie kell a szociális szövetkezet megnevezést, illetve – iskolaszövetkezet esetében – az iskolaszövetkezet megnevezést.
+
+(3) A szociális szövetkezet külön törvényben meghatározottak szerint közhasznú jogállású lehet.
