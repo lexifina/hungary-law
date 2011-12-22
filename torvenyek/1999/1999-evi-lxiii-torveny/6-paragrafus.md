@@ -1,4 +1,4 @@
-6. § (1) A felügyelet a képviselő-testület által meghatározottak szerint együttműködik a rendőrséggel, a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos önkormányzati tűzoltósággal (a továbbiakban: rendvédelmi szervek), az egyéb állami ellenőrző és önkormányzati szervekkel, társadalmi szervezettel, így különösen a polgárőrség helyi szervezetével, valamint a feladatai ellátásához segítséget nyújtó egyéb szervezettel.
+6. § (1) A felügyelet a képviselő-testület által meghatározottak szerint együttműködik a rendőrséggel, a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos önkormányzati tűzoltósággal (a továbbiakban: rendvédelmi szervek), az egyéb állami ellenőrző és önkormányzati szervekkel, egyesülettel, így különösen a polgárőrség helyi szervezetével, valamint a feladatai ellátásához segítséget nyújtó egyéb szervezettel.
 
 (2) A rendvédelmi szervvel együtt eljáró felügyelő a rendvédelmi szerv segítője.
 

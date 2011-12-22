@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-63-00-00
 | --- | --- | --- |
 | 2009-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1999-63-00-00.7 |
 | 2011-01-01 | 2010. évi CXLVII. törvény | 1999-63-00-00.8 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1999-63-00-00.9 |
