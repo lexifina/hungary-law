@@ -24,7 +24,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-5. a MÁV vasúti dolgozóinak pénzügyi ösztönzéséről szóló 1390/2011. (XI. 18.) Korm. határozatot visszavonja.
+5.[^1]
 
 Melléklet az 1447/2011. (XII. 21.) Korm. határozathoz
 
@@ -69,3 +69,5 @@ Költségvetési év: 2011.
 | Magyar Államkincstár | 1 példány | egyéb: AZONNAL | 1000,0 |  |  |  | 1000,0 |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
