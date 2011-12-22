@@ -32,7 +32,7 @@ o) tehetséggondozó tevékenységhez,
 
 p) a Magyar Köztársaság területén kívül képzés indítása során, a képzés helye szerinti állam jogrendje szerinti engedélyezési, vagy más, a képzés indításának feltételéül meghatározott eljárás költségeihez,
 
-nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzájárulás elosztása pályázat útján történik. A pályázatot a felsőoktatási intézmény vezetője vagy a diákotthon fenntartója nyújthatja be. A k)–l) és o) pont alatt meghatározott feladatokhoz kiírt pályázaton részt vehetnek a társadalmi szervezetek és az alapítványok, közalapítványok is.
+nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzájárulás elosztása pályázat útján történik. A pályázatot a felsőoktatási intézmény vezetője vagy a diákotthon fenntartója nyújthatja be. A k)–l) és o) pont alatt meghatározott feladatokhoz kiírt pályázaton részt vehetnek az egyesületek és az alapítványok, közalapítványok is.
 
 (2) A miniszter megállapodás alapján támogatást adhat különösen
 

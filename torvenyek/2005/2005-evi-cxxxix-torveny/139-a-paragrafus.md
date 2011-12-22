@@ -8,4 +8,4 @@
 
 (4) A közhasznú szervezetként működő felsőoktatási intézmény vállalkozási tevékenységet is folytathat.
 
-(5) A cél szerinti tevékenység és a vállalkozási tevékenység tekintetében a közhasznú szervezetként működő felsőoktatási intézményt megilletik mindazok a kedvezmények, amelyet a közhasznú szervezetekről szóló 1997. évi CLVI. törvény (a továbbiakban: a közhasznú szervezetekről szóló törvény) 6. §-a meghatároz.
+(5) A cél szerinti tevékenység és a vállalkozási tevékenység tekintetében a közhasznú szervezetként működő felsőoktatási intézményt megilletik mindazok a kedvezmények, amelyet az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény 36. § (2) bekezdés meghatároz.
