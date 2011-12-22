@@ -32,6 +32,8 @@ Felelős: belügyminiszter
 
 Határidő: évente a költségvetési tervezésre megadott határidő
 
-9. Hatályát veszti az Európai Menekültügyi Alap, a harmadik országbeli állampolgárok beilleszkedését segítő európai alap és az Európai Visszatérési Alap felelős hatóságainak, illetve az Európai Menekültügyi Alap ellenőrzési hatóságának kijelöléséről, továbbá a Külső Határok Alap intézményi rendszeréről szóló 1085/2007. (XI. 9.) Korm. határozat módosításáról szóló 1040/2009. (IV. 8.) Korm. határozat és a Külső Határok Alap intézményi rendszeréről szóló 1085/2007. (XI. 9.) Korm. határozat.
+9.[^2]
 
 10. E határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
