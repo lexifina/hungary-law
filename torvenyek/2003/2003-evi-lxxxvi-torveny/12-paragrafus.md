@@ -44,7 +44,7 @@ b) a civil szervezetek által javasolt személyből,
 
 c) a szakképzés, a felnőttképzés és a felsőoktatás területén elismert egy-egy szakértőből,
 
-d) a szakképzés területén működő szakmai társadalmi szervezet képviselőjéből,
+d) a szakképzés területén működő szakmai civil szervezet képviselőjéből,
 
 e) a felnőttképzést folytató intézmények érdek-képviseleti szervezeteinek képviselőjéből,
 
