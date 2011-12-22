@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-76-00-00
 | 2009-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1999-76-00-00.14 |
 | 2010-09-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 1999-76-00-00.15 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1999-76-00-00.16 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1999-76-00-00.17 |
