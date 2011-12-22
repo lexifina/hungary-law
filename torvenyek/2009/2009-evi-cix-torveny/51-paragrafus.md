@@ -94,6 +94,6 @@ b) az NCA tv. 16. §-a.
 
 (9) Hatályát veszti a Ktv. 21. § (4) bekezdése, 30/B. § (1) bekezdésében a „ , valamint a (3) bekezdésben meghatározott címadományozási juttatás kifizetésére” szövegrész, (5) bekezdésében az „és a címadományozási juttatásra” szövegrész, (6) bekezdésében az „és az a) pontban foglalt esetet kivéve a (3) bekezdésben meghatározott címadományozási juttatásra jogosult” szövegrész, (11) bekezdése, a 71. § (2) bekezdés a) pontjában a „119/A. §-át,” szövegrész, 80. § (8) bekezdésében az „ , illetve az ideiglenes külföldi kiküldetésen lévő köztisztviselők napidíjának összegét és azok” szövegrész, 3. számú melléklet IX. pontjában az „(a köztisztviselő bejelentése gazdasági társaságnál vezető tisztségviselői, illetve felügyelő bizottsági tagságával kapcsolatos megbízásáról)” szövegrész.
 
-(10) 2010. május 1-jén hatályát veszti az Ebktv. 63. §-ának (5) bekezdése.
+(10)
 
 (11) Az Áfa tv. e törvény 42. §-ával és 3. számú mellékletével megállapított rendelkezéseinek hatálybalépésével egyidejűleg az Áfa tv. 3/A. számú melléklete II. részének 1. pontja hatályát veszti, egyidejűleg a 2. pont számozása 1. pontra változik.

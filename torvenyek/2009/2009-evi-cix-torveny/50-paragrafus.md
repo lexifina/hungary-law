@@ -20,11 +20,7 @@ b) e törvény 52. §-ának (28) bekezdése.
 
 (7) A Ktv. 31. §-a (2) bekezdésének e törvény 1. §-ával történő módosítása 2012. szeptember 1-jén lép hatályba.
 
-(8) E törvény 30. §-a és 51. § (10) bekezdése 2010. május 1-jén lép hatályba, azzal, hogy
-
-a) az Ebktv. 63/A. § (5) bekezdését 2010. október 1-jétől kell alkalmazni,
-
-b) az Ebktv. 63/A. § (6)–(7) bekezdését a 2011. december 31-ét követően meghirdetett pályázatokra kell alkalmazni.
+(8)
 
 (9) E törvény 4. § (3) bekezdése, valamint 55. § (2)–(3) bekezdése 2009. november 15-én lép hatályba.
 
