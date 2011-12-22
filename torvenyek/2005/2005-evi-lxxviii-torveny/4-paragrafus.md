@@ -8,6 +8,6 @@
 
 (2) A Testület a tagok önkéntes tagságán alapuló köztestület, amely e törvény rendelkezései szerint kizárólagos jogkörrel működteti a nemzeti akkreditálás rendszerét.
 
-(3) A Testületet a Fővárosi Bíróság veszi nyilvántartásba, a társadalmi szervezetek nyilvántartásba vételére irányadó rendelkezések szerint.
+(3) A Testületet a Fővárosi Bíróság veszi nyilvántartásba, az egyesületek nyilvántartásba vételére irányadó rendelkezések szerint.
 
 (4) A Testület jogosult a Magyar Köztársaság címerének használatára.

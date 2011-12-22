@@ -18,7 +18,7 @@ g) a tudományos és műszaki egyesületek,
 
 h) az agrár, informatika, jogi és igazgatási, gazdaságtudományok, műszaki, orvos- és egészségtudomány, természettudomány képzési területen képzést folytató felsőoktatási intézmények,
 
-i) a gyártók, a forgalmazók és a fogyasztók érdek-képviseleti szervezetei, a szakmai érdek-képviseleti szervezetek, a minőségüggyel foglalkozó társadalmi szervezetek.
+i) a gyártók, a forgalmazók és a fogyasztók érdek-képviseleti szervezetei, a szakmai érdek-képviseleti szervezetek, a minőségüggyel foglalkozó egyesületek.
 
 (2) A tagsági jogviszony az (1) bekezdésben felsoroltak kérésére az első tagdíj megfizetésének napjával jön létre.
 
