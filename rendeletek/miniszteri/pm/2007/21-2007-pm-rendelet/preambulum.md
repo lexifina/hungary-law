@@ -1,1 +1,0 @@
-A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 235. § (2) bekezdésének b) pontjában kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § g) pontjában foglalt feladatkörömben az alábbiakat rendelem el:
