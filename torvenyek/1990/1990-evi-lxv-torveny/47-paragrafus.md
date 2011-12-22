@@ -4,7 +4,7 @@ a) a települési képviselők legalább egynegyede,
 
 b) a képviselő-testület bizottsága,
 
-c) a helyi társadalmi szervezet vezető testülete,
+c) a helyi egyesület vezető testülete,
 
 d) az önkormányzati rendeletében meghatározott számú választópolgár, ami nem lehet kevesebb a választópolgárok tíz százalékánál, és nem lehet több a választópolgárok huszonöt százalékánál.
 
