@@ -2,7 +2,7 @@
 
 a) az, akit érdeksérelem ért, vagy akinél érdeksérelem bekövetkezésének közvetlen veszélye áll fenn, vagy
 
-b) a fogyasztói érdekek képviseletét ellátó társadalmi szervezet, ha az érdeksérelem a fogyasztók jelentős számát érinti, vagy érintheti,
+b) a fogyasztói érdekek képviseletét ellátó egyesület, ha az érdeksérelem a fogyasztók jelentős számát érinti, vagy érintheti,
 
 a Biztos Hivatalánál panasszal élhet.
 
