@@ -10,7 +10,7 @@ d) rendszeres egészségügyi felügyeletben és ellátásban részesüljön;
 
 e) hozzájusson a jogai gyakorlásához szükséges információkhoz, tájékoztassák a jogai gyakorlásához szükséges eljárásokról;
 
-f) részt vegyen a diákkörök munkájában, és kezdeményezze azok létrehozását, tagja legyen iskolai, művelődési, művészeti, ismeretterjesztő, sport- és más köröknek — ha törvény másképp nem rendelkezik —, az iskolán kívüli társadalmi szervezeteknek;
+f) részt vegyen a diákkörök munkájában, és kezdeményezze azok létrehozását, tagja legyen iskolai, művelődési, művészeti, ismeretterjesztő, sport- és más köröknek — ha törvény másképp nem rendelkezik —, az iskolán kívüli civil szervezeteknek;
 
 g) az emberi méltóság tiszteletben tartásával szabadon véleményt nyilvánítson minden kérdésről, az őt nevelő és oktató pedagógus munkájáról, az iskola, kollégium működéséről, továbbá tájékoztatást kapjon személyét és tanulmányait érintő kérdésekről, valamint e körben javaslatot tegyen, továbbá kérdést intézzen az iskola, a kollégium vezetőihez, pedagógusaihoz, az iskolaszékhez, a kollégiumi székhez, s arra legkésőbb a megkereséstől számított tizenöt napon belül – az iskolaszéktől, kollégiumi széktől a tizenötödik napot követő első ülésen – érdemi választ kapjon;
 

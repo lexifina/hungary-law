@@ -28,7 +28,7 @@
 
 11. felügyelet a nevelési-oktatási intézményekben: a gyermek, tanuló testi épségének megóvásáról és erkölcsi védelméről történő gondoskodás, a nevelési-oktatási intézménybe történő belépéstől a nevelési-oktatási intézmény jogszerű elhagyásáig terjedő időben, továbbá a nevelési, illetve a pedagógiai program részeként tartott kötelező, a nevelési-oktatási intézményen kívül tartott foglalkozások, programok ideje alatt;
 
-12. fenntartó: az a jogi személy (helyi önkormányzat, állami szerv, egyházi jogi személy, felsőoktatási intézmény, vállalat, szövetkezet, alapítvány, társadalmi szervezet, nemzeti és etnikai kisebbségi érdekképviseleti szervezet, kisebbségi önkormányzat, egyesület és más jogi személy), illetőleg természetes személy (mint egyéni vállalkozó), amely, illetve aki a közoktatási szolgáltató tevékenység folytatásához szükséges jogosítvánnyal rendelkezik, és az e törvényben meghatározottaknak megfelelően a közoktatási intézmény működéséhez szükséges feltételekről gondoskodik;
+12. fenntartó: az a jogi személy (helyi önkormányzat, állami szerv, egyházi jogi személy, felsőoktatási intézmény, vállalat, szövetkezet, alapítvány, egyesület, kisebbségi érdek–képviseleti szervezet, kisebbségi önkormányzat és más jogi személy), illetőleg természetes személy (mint egyéni vállalkozó), amely, illetve aki a közoktatási szolgáltató tevékenység folytatásához szükséges jogosítvánnyal rendelkezik, és az e törvényben meghatározottaknak megfelelően a közoktatási intézmény működéséhez szükséges feltételekről gondoskodik;
 
 13. iskolai évfolyam: a pedagógiai programban meghatározott követelmények oktatásának és elsajátításának szakasza;
 

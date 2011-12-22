@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-79-00-00
 | 2011-01-01 | 2010. évi CLIII. törvény | 1993-79-00-00.61 |
 | 2011-07-01 | 2010. évi CLIII. törvény | 1993-79-00-00.62 |
 | 2011-09-01 | 2010. évi CLIII. törvény | 1993-79-00-00.63 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1993-79-00-00.64 |
