@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1989-34-00-00
 | 2005-07-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 1989-34-00-00.14 |
 | 2010-12-08 | 193/2010. (XII. 8.) AB határozat | 1989-34-00-00.15 |
 | 2011-07-20 | 2011. évi XCVIII. törvény | 1989-34-00-00.16 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1989-34-00-00.17 |
