@@ -8,7 +8,7 @@ c) kézműipari tevékenység: az a tevékenység, amely a gazdálkodó szerveze
 
 d) mezőgazdasági és erdőgazdasági tevékenység: a mezőgazdasági, erdőgazdasági, halászati és vadászati tevékenység, ideértve az ezekhez közvetlenül kapcsolódó feldolgozó, kereskedelmi, illetve szolgáltató tevékenységet, továbbá a mezőgazdasági gazdálkodó szervezetek által létrehozott, a termékek piacra jutását segítő szervezetek tevékenységét is;
 
-e) országos gazdasági érdekképviseleti szervezet: az egyesülési jogról szóló törvény alapján gazdasági érdekképviseleti célra létrehozott az a társadalmi szervezet, illetve ezek szövetsége, amelynek legalább 10 megyére (fővárosra) kiterjedően van tagsága;
+e) országos gazdasági érdekképviseleti szervezet: az egyesülési jogról szóló törvény alapján gazdasági érdekképviseleti célra létrehozott az az egyesület, illetve ezek szövetsége, amelynek legalább 10 megyére (fővárosra) kiterjedően van tagsága;
 
 f) képviseletre jogosult természetes személy: az egyéni vállalkozó, a gazdálkodó szervezet tagja (részvényese), vezető tisztségviselője, illetőleg alkalmazottja, továbbá az egyéni vállalkozó alkalmazottja és segítő családtagja;
 
