@@ -1,4 +1,4 @@
-17. § (1) A regionális fejlesztési tanács feladatainak ellátásában együttműködik a kistérségi fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, a térségi fejlesztési tanáccsal, a régió fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, a területi gazdasági kamarákkal, továbbá a régió területén működő társadalmi szervezetekkel.
+17. § (1) A regionális fejlesztési tanács feladatainak ellátásában együttműködik a kistérségi fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, a térségi fejlesztési tanáccsal, a régió fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, a területi gazdasági kamarákkal, továbbá a régió területén működő egyesületekkel.
 
 (2) A regionális fejlesztési tanács
 

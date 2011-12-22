@@ -16,7 +16,7 @@ f) a területileg illetékes Regionális Idegenforgalmi Bizottság képviselője
 
 (3) A megyei területfejlesztési tanács elnöke a megyei közgyűlés elnöke, alelnökét két évre a megyei területfejlesztési tanács maga választja. A megyei területfejlesztési tanácsot az elnök – akadályoztatása esetén az alelnök – képviseli.
 
-(4) Konzultációs joggal rendelkeznek mindazon a megye területén működő bírósági nyilvántartásba vett területfejlesztési-, környezetvédelmi-, természetvédelmi társadalmi szervezetek, valamint a nők és férfiak esélyegyenlőségéért küzdő szervezetek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre és a megyei területfejlesztési tanácsnál jelzik együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
+(4) Konzultációs joggal rendelkeznek mindazon a megye területén működő bírósági nyilvántartásba vett területfejlesztési-, környezetvédelmi-, természetvédelmi egyesületek, valamint a nők és férfiak esélyegyenlőségéért küzdő szervezetek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre és a megyei területfejlesztési tanácsnál jelzik együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
 
 (5) A 14. § (1) bekezdésének d) pontjában meghatározott kistérségi képviselő megválasztására, és a megyei területfejlesztési tanács napirendjével kapcsolatos álláspont kialakítására a 17. § (10) bekezdésében foglaltakat kell alkalmazni.
 

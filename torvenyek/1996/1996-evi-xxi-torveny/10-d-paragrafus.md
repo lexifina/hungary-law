@@ -12,7 +12,7 @@ bc) a megyei munkaügyi tanácsba delegálási joggal rendelkező munkaadói és
 
 bd) az iparosok és kiskereskedők országos szakmai érdekvédelmi szervezeteinek egy kistérségi illetékességű képviselője,
 
-be) a társadalmi szervezetek fóruma által delegált, a civil szervezetek egy képviselője,
+be) az egyesületek fóruma által delegált, a civil szervezetek egy képviselője,
 
 bf) a Kormány általános hatáskörű területi államigazgatási szerve képviselője,
 
@@ -20,7 +20,7 @@ bg) a kincstár képviselője;
 
 c) meghívottként az e szervezeteket (személyeket) érintő napirendek tárgyalásán tanácskozási joggal vesznek részt mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a kistérségi fejlesztési tanács döntése közvetlenül érint vagy amelyeket (akit) az ülésen való részvételre felkérnek. A kistérségi fejlesztési tanács a szervezeti és működési szabályzatában szabályozhatja a kisebbségi önkormányzatok részvételét a tanács munkájában.
 
-(2) Konzultációs joggal rendelkeznek a kistérségben működő mindazon bírósági nyilvántartásba vett társadalmi szervezetek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre, és a kistérségi fejlesztési tanácsnál jelzik együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
+(2) Konzultációs joggal rendelkeznek a kistérségben működő mindazon bírósági nyilvántartásba vett egyesületek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre, és a kistérségi fejlesztési tanácsnál jelzik együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
 
 (3) A kistérségi fejlesztési tanács polgármester tagjainak megbízatása polgármesteri megbízatásuk időtartamára szól. Egy polgármester külön – az érintett képviselőtestületek által adott állandó vagy eseti – meghatalmazással több polgármestert is képviselhet. A többi tagot delegáló szerv a képviselő személyéről, illetve annak megváltoztatásáról szabadon dönthet.
 

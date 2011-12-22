@@ -8,7 +8,7 @@
 
 a) kidolgozza – az Országos Területfejlesztési Koncepcióval összhangban – a régió hosszú és középtávú területfejlesztési koncepcióját, illetve a régió fejlesztési programját és annak stratégiai és operatív munkarészeit;
 
-b) a régióban – a külön jogszabályban foglaltak figyelembevételével – összegyűjti az önkormányzatok, gazdasági és társadalmi szervezeteknek a fejlesztési projektelképzeléseit, részt vesz azok projektjavaslattá történő előkészítésében;
+b) a régióban – a külön jogszabályban foglaltak figyelembevételével – összegyűjti az önkormányzatok, gazdasági szervezeteknek és egyesületeknek a fejlesztési projektelképzeléseit, részt vesz azok projektjavaslattá történő előkészítésében;
 
 c) folyamatos kapcsolatot tart a régióban működő közigazgatási szervezetekkel, intézményekkel a fejlesztési szükségletek és a bevonható helyi források feltárása érdekében;
 

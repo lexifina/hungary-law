@@ -20,7 +20,7 @@ bb) a nők és férfiak esélyegyenlőségéért küzdő országos szervezetek e
 
 c) meghívottként, a tevékenységüket, illetve szervezetüket érintő napirendek tárgyalásán tanácskozási joggal részt vesznek mindazon szervezetek vezetői, amelyeket a Tanács döntése közvetlenül érint. A Tanács az ügyrendjében dönthet az állandó meghívottakról.
 
-(3) Konzultációs joggal rendelkeznek mindazon bírósági nyilvántartásba vett országos társadalmi szervezetek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre. Az egyeztető fórum véleményét a Tanács ülésén az adott napirend tárgyalásakor ismertetni kell.
+(3) Konzultációs joggal rendelkeznek mindazon bírósági nyilvántartásba vett országos egyesületek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre. Az egyeztető fórum véleményét a Tanács ülésén az adott napirend tárgyalásakor ismertetni kell.
 
 (4) A Tanács
 
@@ -68,4 +68,4 @@ c) a 17. § (8) bekezdésében foglalt régió területén működő szervezetne
 
 d) a 10/D. § (2) bekezdésében foglalt kistérségben működő szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirat szerinti tevékenységét legalább a kistérség településeinek több mint felében vagy a népesség több mint felét jelentő településeken végzi, és ezt jogszabályban meghatározott módon, hitelt érdemlően igazolja.
 
-(10) A (9) bekezdés alkalmazásában szervezet alatt a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény 14. § b) pontjában foglalt civil szervezeteket kell érteni.
+(10) A (9) bekezdés alkalmazásában szervezet alatt az egyesülési jogról, közhasznúságról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezetet kell érteni.

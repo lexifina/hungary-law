@@ -2,11 +2,11 @@
 
 a) előkészíti a kistérségi fejlesztési tanács üléseit, döntéseit, elsősorban a kistérség területfejlesztési koncepcióját, programját és az ebben foglaltak megvalósítását szolgáló projekteket;
 
-b) a kistérségben összegyűjti és további előkészítésre alkalmassá teszi a gazdasági és társadalmi szervezeteknek a fejlesztési programokkal, projektekkel kapcsolatos elképzeléseit;
+b) a kistérségben összegyűjti és további előkészítésre alkalmassá teszi a gazdasági szervezeteknek és egyesületeknek a fejlesztési programokkal, projektekkel kapcsolatos elképzeléseit;
 
 c) folyamatos kapcsolatot tart a megyei területfejlesztési tanács munkaszervezetével, a regionális fejlesztési ügynökséggel, a kistérségi megbízottakkal, a kistérségben működő közigazgatási szervezetekkel, intézményekkel a fejlesztési szükségletek és a bevonható helyi források feltárása érdekében;
 
-d) közreműködik a társadalmi szervezetek fórumának működtetésében;
+d) közreműködik az egyesületek fórumának működtetésében;
 
 e) közreműködik a kistérségi fejlesztési tanács által a központi és regionális forrásokra benyújtandó pályázatok elkészítésében, az ezzel kapcsolatos szervezési feladatok ellátásában;
 
