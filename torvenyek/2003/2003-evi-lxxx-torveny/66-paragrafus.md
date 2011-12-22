@@ -1,6 +1,6 @@
 66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kötő
 
-a) jogvédelemmel foglalkozó társadalmi szervezet, alapítvány, kisebbségi önkormányzat, jogi oktatást végző egyetem (a továbbiakban e Fejezetben együtt: jogi segítő szervezet),
+a) jogvédelemmel foglalkozó egyesület, alapítvány, kisebbségi önkormányzat, jogi oktatást végző egyetem (a továbbiakban e Fejezetben együtt: jogi segítő szervezet),
 
 b) ügyvéd, ügyvédi iroda és a tevékenységét Magyarországon állandó jelleggel végző európai közösségi jogász (a továbbiakban együtt: ügyvéd).
 

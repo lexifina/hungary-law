@@ -42,7 +42,7 @@ d) a magánszemély vállalkozási, befektetési jellegű tevékenységével kap
 
 2. a tevékenység folytatásáért járó díj érvényesítésével összefüggő ügyeket, ha a vállalkozási jellegű jogviszonyra vonatkozó szerződés természetes személy által végzendő tevékenység folytatására vonatkozik alvállalkozó igénybevételének kizárásával, a munkavégzés helyének meghatározásával és a díj részletekben történő megfizetésével,
 
-e) társadalmi szervezet létrehozásával és működésével kapcsolatos ügyben,
+e) civil szervezet létrehozásával és működésével kapcsolatos ügyben,
 
 f) vámügyekkel kapcsolatban.
 

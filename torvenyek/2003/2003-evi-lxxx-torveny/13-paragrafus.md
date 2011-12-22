@@ -6,4 +6,4 @@ b) a menekültügyi eljárásban hozott határozat bírósági felülvizsgálata
 
 c) külföldi fél olyan perben, amelyben tárgyi költségfeljegyzési jog áll fenn;
 
-d) a 15. § alapján nyújtott támogatás esetében a kiemelkedően közhasznú szervezet és a munkavállalói érdek-képviseleti szervezet az általa közérdekből, külön jogszabály felhatalmazása alapján indított perben.
+d) a 15. § alapján nyújtott támogatás esetében a közhasznú szervezet és a munkavállalói érdek-képviseleti szervezet az általa közérdekből, külön jogszabály felhatalmazása alapján indított perben.
