@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-55-00-00
 | 2011-01-01 | 2009. évi CLV. törvény | 1990-55-00-00.22 |
 | 2011-04-02 | 2011. évi XXX. törvény | 1990-55-00-00.23 |
 | 2011-08-01 | 2011. évi CV. törvény | 1990-55-00-00.24 |
+| 2011-12-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 1990-55-00-00.25 |
