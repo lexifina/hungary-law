@@ -10,7 +10,7 @@ b) az e törvényben és külön jogszabályban meghatározott feltételek szeri
 
 c) az elismerés iránti kérelem benyújtásától számított egy éven belül a befogadó állomás területén, azt követően a külföldiekre vonatkozó általános szabályok szerint történő munkavégzésre;
 
-d) a menekültügyi eljárás időtartama alatt az Egyesült Nemzetek Szervezete Menekültügyi Főbiztosságával, illetve más nemzetközi vagy társadalmi szervezettel való kapcsolat felvételére és fenntartására.
+d) a menekültügyi eljárás időtartama alatt az Egyesült Nemzetek Szervezete Menekültügyi Főbiztosságával, illetve más nemzetközi vagy egyesülettel való kapcsolat felvételére és fenntartására.
 
 (2) Az elismerését kérő köteles
 

@@ -2,7 +2,7 @@
 
 (2) A tájékoztatást és annak tudomásulvételét jegyzőkönyvben kell rögzíteni.
 
-(3) Az elismerését kérőnek lehetőséget kell biztosítani arra, hogy saját költségén, illetve rászorultsága esetén – a jogi segítségnyújtásról szóló törvényben foglaltak szerint – díjmentesen jogi segítséget vegyen igénybe, vagy elfogadja valamely jogvédelemmel foglalkozó bejegyzett társadalmi szervezet ingyenes jogi segítségét.
+(3) Az elismerését kérőnek lehetőséget kell biztosítani arra, hogy saját költségén, illetve rászorultsága esetén – a jogi segítségnyújtásról szóló törvényben foglaltak szerint – díjmentesen jogi segítséget vegyen igénybe, vagy elfogadja valamely jogvédelemmel foglalkozó bejegyzett egyesület ingyenes jogi segítségét.
 
 (4) Az elismerését kérő által megbízott, jogi segítséget nyújtó személy
 
