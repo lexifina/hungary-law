@@ -4,7 +4,7 @@ a) az egészséges lakó- és munkakörülmények, a népesség biztonságának 
 
 b) a népesség demográfiai fejlődését, a népesség lakásszükségletét,
 
-c) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint a társadalmi szervezetek, egyházak működési feltételeinek lehetőségeire,
+c) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint az egyesületek, egyházak működési feltételeinek lehetőségeire,
 
 d) a megőrzésre érdemes történeti vagy településképi jelentőségű településrészek és az építészeti és régészeti örökség védelmét, felújítását és továbbfejlesztését, valamint az értékes építmény és tájrészlet látványát (rálátás), továbbá az ingatlanról feltáruló kilátás védelmét, annak mértékéig, hogy az az érintett telkek szabályos beépítését ne akadályozza,
 

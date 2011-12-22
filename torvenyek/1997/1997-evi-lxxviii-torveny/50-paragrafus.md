@@ -14,7 +14,7 @@ e) a helyi építészeti örökség védetté nyilvánítása, az építészeti 
 
 f) a tervtanácsok működésének,
 
-g) a szakmai kamarák, társadalmi szervezetek építészeti és településrendezési szakmai feladatai, a szakmai kamarák által ellátott közigazgatási feladatok,
+g) a szakmai kamarák, egyesületek építészeti és településrendezési szakmai feladatai, a szakmai kamarák által ellátott közigazgatási feladatok,
 
 h) az építészeti kultúra kialakítása, fejlesztése, védelme, elterjesztése, oktatása, a védelemmel kapcsolatos elismerések,
 
