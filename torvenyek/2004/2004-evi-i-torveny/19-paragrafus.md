@@ -4,7 +4,7 @@
 
 ## A sportszövetségek típusai
 
-19. § (1) A sportszövetségek meghatározott sporttevékenységek körében a sportversenyek szervezésére, a tagok érdekvédelmére és a részükre való szolgáltatásokra, valamint a nemzetközi kapcsolatok lebonyolítására létrehozott, jogi személyiséggel és önkormányzattal rendelkező társadalmi szervezetek.
+19. § (1) A sportszövetségek meghatározott sporttevékenységek körében a sportversenyek szervezésére, a tagok érdekvédelmére és a részükre való szolgáltatásokra, valamint a nemzetközi kapcsolatok lebonyolítására létrehozott, jogi személyiséggel és önkormányzattal rendelkező egyesületek.
 
 (2) Az országos sportági szakszövetségre a sportszövetségekre vonatkozó rendelkezéseket az e törvényben, valamint a Polgári Törvénykönyvben meghatározott eltérésekkel kell alkalmazni.
 

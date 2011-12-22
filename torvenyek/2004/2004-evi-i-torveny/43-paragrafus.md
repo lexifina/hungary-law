@@ -1,10 +1,10 @@
 ## A Nemzeti Szabadidősport Szövetség
 
-43. § (1) A Nemzeti Szabadidősport Szövetség az országos szabadidősport szövetségek önkéntes részvételével működő – a közhasznú szervezetekről szóló törvény szerinti közhasznú társasági nyilvántartásba vétel nélkül kiemelkedően közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
+43. § (1) A Nemzeti Szabadidősport Szövetség az országos szabadidősport szövetségek önkéntes részvételével működő – a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
 
 (2) A Nemzeti Szabadidősport Szövetség:
 
-a) képviseli a szabadidősport, illetve tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség és más társadalmi szervezetek előtt,
+a) képviseli a szabadidősport, illetve tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség és más egyesületek előtt,
 
 b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki részükre,
 

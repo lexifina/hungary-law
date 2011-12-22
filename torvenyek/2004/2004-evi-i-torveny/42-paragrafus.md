@@ -1,12 +1,12 @@
 ## A Nemzeti Sportszövetség
 
-42. § (1) A Nemzeti Sportszövetség a szakszövetségek, illetve az országos sportági szövetségek önkéntes részvételével működő – a közhasznú szervezetekről szóló törvény szerinti közhasznú társasági nyilvántartásba vétel nélkül kiemelkedően közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
+42. § (1) A Nemzeti Sportszövetség a szakszövetségek, illetve az országos sportági szövetségek önkéntes részvételével működő – a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
 
 (2) A szakszövetségek – a Nemzeti Sportszövetség alapszabályának elfogadása esetén – alanyi jogon, az országos sportági szövetségek pedig a Nemzeti Sportszövetség közgyűlésének az össztaglétszám kétharmados többségével hozott határozata alapján lehetnek tagjai a Nemzeti Sportszövetségnek.
 
 (3) A Nemzeti Sportszövetség:
 
-a) képviseli tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség, illetve más társadalmi szervezetek előtt,
+a) képviseli tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség, illetve más egyesületek előtt,
 
 b) összehangolja tagjai tevékenységét, illetve versenyrendszerét, összeállítja az országos összesített versenynaptárt, valamint sportszakmai, gazdasági, jogi és egyéb szolgáltatásokat nyújt, és pályázatokat ír ki tagjai részére,
 

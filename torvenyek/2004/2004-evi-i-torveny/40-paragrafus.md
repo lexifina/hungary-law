@@ -1,6 +1,6 @@
 ## A Magyar Paralimpiai Bizottság
 
-40. § (1) A Magyar Paralimpiai Bizottság (a továbbiakban: MPB) köztestület, amely a közhasznú szervezetekről szóló törvény szerinti közhasznú társasági nyilvántartásba vétel nélkül kiemelkedően közhasznú szervezetnek minősül. Az MPB-t a sportigazgatási szerv tartja nyilván. Az MPB jogosult a Magyar Köztársaság címerének és zászlajának használatára.
+40. § (1) A Magyar Paralimpiai Bizottság (a továbbiakban: MPB) köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az MPB-t a sportigazgatási szerv tartja nyilván. Az MPB jogosult a Magyar Köztársaság címerének és zászlajának használatára.
 
 (2) Az MPB feletti törvényességi felügyeletet az ügyészség gyakorolja.
 

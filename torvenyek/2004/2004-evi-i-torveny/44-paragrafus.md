@@ -1,10 +1,10 @@
 ## A Fogyatékosok Nemzeti Sportszövetsége
 
-44. § (1) A Fogyatékosok Nemzeti Sportszövetsége a fogyatékosok sportja területén működő országos sportszövetségek önkéntes részvételével működő – a közhasznú szervezetekről szóló törvény szerinti közhasznú társasági nyilvántartásba vétel nélkül kiemelkedően közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
+44. § (1) A Fogyatékosok Nemzeti Sportszövetsége a fogyatékosok sportja területén működő országos sportszövetségek önkéntes részvételével működő – a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
 
 (2) A Fogyatékosok Nemzeti Sportszövetsége:
 
-a) képviseli az állami szervek, az önkormányzatok, a további két nemzeti sportszövetség, és más társadalmi szervezetek előtt a fogyatékosok sportjának érdekeit,
+a) képviseli az állami szervek, az önkormányzatok, a további két nemzeti sportszövetség, és más egyesületek előtt a fogyatékosok sportjának érdekeit,
 
 b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki tagjai részére,
 

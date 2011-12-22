@@ -4,7 +4,7 @@
 
 (2) A szakszövetségnek kizárólag olyan sportszervezetek és sportiskolák lehetnek tagjai, amelyek az adott sportág versenyrendszerében részt vesznek. A sportágban tevékenykedő sportszervezetek és sportiskolák felvétele a szakszövetségbe nem tagadható meg, ha a sportszervezet és a sportiskola magára nézve kötelezőnek elfogadja a szakszövetség alapszabályát.
 
-(3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – az Et. társadalmi szervezetekre és a Ptk. egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet.
+(3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – az Et. egyesületekre és a Ptk. egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet.
 
 (4) Szakszövetség csak olyan sportágban hozható létre:
 

@@ -12,7 +12,7 @@ c) a területi szervezet illetékességi területén székhellyel rendelkező ta
 
 d) lehetővé teheti, hogy a területi szervezetek saját nevükben szponzorálási szerződéseket, illetve a helyi (települési, területi) önkormányzatokkal támogatási szerződéseket kössenek, és az ebből származó bevételekkel maguk rendelkezzenek,
 
-e) lehetővé teheti, hogy más szakszövetségek (sportszövetségek) területi szervezeti egységeivel területi jellegű társadalmi szervezeteket hozzanak létre.
+e) lehetővé teheti, hogy más szakszövetségek (sportszövetségek) területi szervezeti egységeivel területi jellegű egyesületeket hozzanak létre.
 
 (4) A területi szervezeti egységekre megállapított szabályokat megfelelően alkalmazni kell a szakszövetség jogi személy szervezeti egységgé nyilvánított tagozataira, testületeire és szakágaira is.
 

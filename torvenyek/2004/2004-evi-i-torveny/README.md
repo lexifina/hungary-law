@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2011-07-20 | 2011. évi CIV. törvény | 2004-1-00-00.22 |
 | 2011-09-01 | 2011. évi CIV. törvény | 2004-1-00-00.23 |
 | 2011-09-02 | 2011. évi LXXXII. törvény | 2004-1-00-00.24 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2004-1-00-00.25 |

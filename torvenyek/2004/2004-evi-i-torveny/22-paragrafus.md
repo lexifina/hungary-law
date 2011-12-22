@@ -10,7 +10,7 @@ d) működtetni a nemzeti válogatott kereteket, elősegíteni a sportágához t
 
 e) meghatározni a sportág stratégiai fejlesztési koncepcióit (ideértve az utánpótlás-nevelés fejlesztését is) és gondoskodni ezek megvalósításáról,
 
-f) képviselni a sportág érdekeit az állami szervek, a Nemzeti Sportszövetség, a Magyar Olimpiai Bizottság, a többi sportszövetség, illetve más társadalmi szervezetek előtt, valamint a nemzetközi sportéletben,
+f) képviselni a sportág érdekeit az állami szervek, a Nemzeti Sportszövetség, a Magyar Olimpiai Bizottság, a többi sportszövetség, illetve más egyesületek előtt, valamint a nemzetközi sportéletben,
 
 g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését,
 
