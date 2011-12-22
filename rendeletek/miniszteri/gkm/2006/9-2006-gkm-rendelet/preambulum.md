@@ -1,1 +1,0 @@
-A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény (a továbbiakban: Kbvt.) 22. §-a (1) bekezdésének c) pontjában kapott felhatalmazás alapján – a belügyminiszterrel egyetértésben – a következőket rendelem el:
