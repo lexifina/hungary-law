@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya az Új Magyarország Vidékfejlesztési Programban (a továbbiakban: ÚMVP) meghatározott céloknak az Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA) társfinanszírozásában megvalósuló támogatások és az egyéb intézkedések forrásainak igénybevételére terjed ki. A támogatások felső határát meghatározó szabályok kivételével e rendelet rendelkezéseit abban az esetben kell alkalmazni, ha a támogatás részletes feltételeit megállapító jogszabály eltérően nem rendelkezik.
+## 1. §[^1] E rendelet hatálya az Új Magyarország Vidékfejlesztési Programban (a továbbiakban: ÚMVP) meghatározott céloknak az Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA) társfinanszírozásában megvalósuló támogatások és az egyéb intézkedések forrásainak igénybevételére terjed ki. E rendelet rendelkezéseit abban az esetben kell alkalmazni, ha a támogatás részletes feltételeit megállapító jogszabály eltérően nem rendelkezik.
 
 2. § (1)[^2] E rendelet alapján az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK (2005. szeptember 20.) tanácsi rendeletben (a továbbiakban: R.) meghatározott I. tengely keretében az alábbi célok megvalósítására vehető igénybe támogatás:
 
@@ -56,9 +56,11 @@ hf) mezőgazdasági üzemek víz- és energiaellátásának fejlesztése;
 
 i) szerkezetátalakítás alatt álló, félig önellátó gazdaságok fejlesztése;
 
-j) termelői csoportok létrehozása.
+j) termelői csoportok létrehozása;
 
-(2)[^3] E rendelet alapján az R.-ben meghatározott II. tengely keretében az alábbi célok megvalósítására vehető igénybe támogatás:
+k)[^3] a juh és kecske állatállomány elektronikus jelölése;
+
+(2)[^4] E rendelet alapján az R.-ben meghatározott II. tengely keretében az alábbi célok megvalósítására vehető igénybe támogatás:
 
 a) hegyvidéki területeken kívüli hátrányos helyzetű területeken történő gazdálkodás;
 
@@ -88,9 +90,11 @@ m) erdő szerkezetátalakítás;
 
 n) erdő közjóléti értékének növelése;
 
-o)[^4] nem mezőgazdasági területek erdősítése;
+o)[^5] nem mezőgazdasági területek erdősítése;
 
-p)[^5] állatjóléti intézkedések.
+p)[^6] állatjóléti intézkedések;
+
+q)[^7] Natura 2000 erdőterületeken történő gazdálkodás.
 
 (3) E rendelet alapján az R.-ben meghatározott III. tengely keretében az alábbi célok megvalósítására vehető igénybe támogatás:
 
@@ -100,7 +104,7 @@ b) mikrovállalkozások létrehozása és fejlesztése,
 
 c) turisztikai tevékenységek ösztönzése,
 
-d)[^6] a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások az alábbiak szerint,
+d)[^8] a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások az alábbiak szerint,
 
 da) kistérségi közlekedési szolgáltatások fejlesztése,
 
@@ -124,15 +128,17 @@ b) hazai és nemzetközi térségek közötti együttműködések,
 
 c) a helyi akciócsoportok működtetési költségei,
 
-d)[^7] a helyi fejlesztési stratégiák megvalósítása (LEADER).
+d)[^9] a helyi fejlesztési stratégiák megvalósítása (LEADER).
 
-(5)[^8] A technikai segítségnyújtás céljára biztosított forrás kedvezményezettjei: a földművelésügyi és vidékfejlesztési miniszter, mint Irányító Hatóság (a továbbiakban: IH), a Magyar Nemzeti Vidéki Hálózat, a Mezőgazdasági és Vidékfejlesztési Hivatal; valamint az IH részeként a Vidékfejlesztési Képzési és Szaktanácsadási Intézet, mint az IH technikai támogató egysége.
+(5)[^10] A technikai segítségnyújtás céljára biztosított forrás kedvezményezettjei: a vidékfejlesztési miniszter, mint Irányító Hatóság (a továbbiakban: IH), a Magyar Nemzeti Vidéki Hálózat, a Mezőgazdasági és Vidékfejlesztési Hivatal; valamint az IH részeként a VM Vidékfejlesztési Képzési és Szaktanácsadási Intézet (a továbbiakban: VM VKSZI), mint az IH technikai támogató egysége.
 
-[^1]: Az 1. § az 53/2008. (IV. 24.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^1]: Az 1. § a 124/2011. (XII. 21.) VM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 97/2008. (VII. 25.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (2) bekezdése a 97/2008. (VII. 25.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (2) bekezdésének o) pontját az 51/2009. (IV. 16.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^5]: A 2. § (2) bekezdés p) pontját a 18/2011. (III. 9.) VM rendelet 30. §-a iktatta be.
-[^6]: A 2. § (3) bekezdés d) pontja az 57/2011. (VI. 20.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (4) bekezdés d) pontját az 57/2011. (VI. 20.) VM rendelet 1. § (2) bekezdése iktatta be.
-[^8]: A 2. § (5) bekezdése az 53/2008. (IV. 24.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^3]: A 2. § (1) bekezdés k) pontját a 124/2011. (XII. 21.) VM rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A 2. § (2) bekezdése a 97/2008. (VII. 25.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdésének o) pontját az 51/2009. (IV. 16.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^6]: A 2. § (2) bekezdés p) pontját a 18/2011. (III. 9.) VM rendelet 30. §-a iktatta be.
+[^7]: A 2. § (2) bekezdés q) pontját a 124/2011. (XII. 21.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 2. § (3) bekezdés d) pontja az 57/2011. (VI. 20.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (4) bekezdés d) pontját az 57/2011. (VI. 20.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 2. § (5) bekezdése a 124/2011. (XII. 21.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.

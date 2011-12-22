@@ -2,29 +2,24 @@
 
 ## TERÜLET- ÉS ÁLLATLÉTSZÁM ALAPÚ TÁMOGATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-13. § (1)[^68] A kifizetési határozat meghozatalára a kifizetési kérelem 1975/2006/EK bizottsági rendelet 11. cikke szerinti keresztellenőrzését követő 60 napon belül kerül sor.
+13. § (1)[^78] A kifizetési határozat meghozatalára a kifizetési kérelem 65/2011/EU bizottsági rendelet 11. cikke szerinti keresztellenőrzését követő 30 napon belül kerül sor.
 
-(2) A területalapú támogatásra vonatkozó kérelemhez mellékelni kell a Mezőgazdasági Parcella Azonosító Rendszerről szóló 115/2003. (XI. 13.) FVM rendelet szerinti egyedi blokktérképet, melyen be kell jelölni a kérelemben bejelentett területegységet.
+(2)[^79]
 
-(3) Amennyiben az ellenőrzések eredményeképpen valamely területalapú támogatás esetén túligénylés állapítható meg, azaz az adott referencia-területre benyújtott kérelmek által lefedett terület – ideértve a többszörös igénylés esetét is – összesen nagyobb, mint a referencia-területen a támogatás szempontjából figyelembe vehető területe (a továbbiakban: támogatható terület) és a túligénylés mértéke:
+(3)[^80] Az ellenőrzések eredményeképpen megállapított túligénylés esetén az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló miniszteri rendelet túligénylésre vonatkozó szabályait kell alkalmazni.
 
-a) nem éri el a 796/2004/EK rendelet 24. cikk (2) bekezdés második albekezdésében meghatározott mértéket, az MVH a túligénylés arányában a referencia-terület nettó támogatható területéig csökkenti a referencia-területen belüli kérelemben megjelölt területeket;
+(4)–(7)[^81]
 
-b) eléri vagy meghaladja az a) pontban hivatkozott mértéket, az MVH értesíti az érintett ügyfeleket, és egyúttal felszólítja őket a kérelemben megadott adatok helyesbítésére.
+(8)[^82] Terület- és állatlétszám alapú támogatásokra vonatkozó támogatási kérelem akkor nyújtható be, ha a nem természetes személy ügyfél a támogatási kérelem benyújtásakor nem áll csőd-, felszámolási, végelszámolási eljárás, adósságrendezés alatt, természetes személy nem áll gazdálkodási tevékenységével összefüggő végrehajtási eljárás alatt.
 
-(4) A (3) bekezdés b) pontja szerinti értesítésben meg kell jelölni az érintett referencia-területre támogatást igénylő ügyfeleket, és a kérelmükben feltüntetett területadatokat.
+(9)[^83] Terület- és állatlétszám alapú támogatásokra vonatkozó kifizetési kérelem akkor nyújtható be, és akkor fizethető ki a megállapított támogatási összeg, ha a nem természetes személy ügyfél nem áll csőd-, felszámolási-, végelszámolási eljárás, adósságrendezés alatt, természetes személy nem áll gazdálkodási tevékenységével összefüggő végrehajtási eljárás alatt.
 
-(5) A (3) bekezdés b) pontja alapján az ügyfelek kötelesek az értesítésben meghatározott időtartamon belül írásos választ adni az MVH részére.
+(10)[^84] A (9) bekezdés szerinti feltétel nem teljesülése esetén a kifizetési kérelmet el kell utasítani, az ügyfél támogatáshoz való jogosultsága megszűnik, és az általa igénybe vett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
-(6) Amennyiben a (3) bekezdés b) pontja alapján megállapított túligénylés az (5) bekezdésben meghatározott válaszokban foglalt helyesbítéseket követően részben vagy egészben továbbra is fennáll, és a túligénylés mértéke:
-
-a) nem éri el a 796/2004/EK rendelet 24. cikk (2) bekezdés második albekezdésében meghatározott mértéket, az MVH a túligénylés arányában a referencia-terület nettó támogatható területéig csökkenti a referencia-területen belüli kérelemben megjelölt területeket;
-
-b) eléri vagy meghaladja az a) pontban hivatkozott mértéket, az MVH fizikai ellenőrzést folytat le az érintett referencia-terület vonatkozásában.
-
-(7) A (6) bekezdés b) pontja szerinti fizikai ellenőrzést nem kell lefolytatni, ha az (5) bekezdés szerinti határidőt az ügyfél elmulasztotta. Ebben az esetben az MVH a határidőt elmulasztó ügyfél bejelentett területére vonatkozó adatot a túligénylés mértékének megfelelően csökkenti.
-
-(8)[^69] Terület- és állatlétszám alapú támogatásban csak az az ügyfél részesülhet, aki nem áll felszámolási eljárás vagy végelszámolás alatt, továbbá az a természetes személy ügyfél, aki nem áll gazdálkodási tevékenységével összefüggő végrehajtási eljárás alatt. Csődeljárás alatt álló szervezet esetén e rendelet 16. § (3) bekezdésében foglaltakat kell alkalmazni.
-
-[^68]: A 13. § (1) bekezdése az 53/2008. (IV. 24.) FVM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^69]: A 13. § (8) bekezdését az 51/2009. (IV. 16.) FVM rendelet 6. §-a iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^78]: A 13. § (1) bekezdése a 124/2011. (XII. 21.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^79]: A 13. § (2) bekezdését a 124/2011. (XII. 21.) VM rendelet 35. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^80]: A 13. § (3) bekezdése a 124/2011. (XII. 21.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^81]: A 13. § (4)–(7) bekezdését a 124/2011. (XII. 21.) VM rendelet 35. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^82]: A 13. § (8) bekezdését az 51/2009. (IV. 16.) FVM rendelet 6. §-a iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^83]: A 13. § (9) bekezdését a 124/2011. (XII. 21.) VM rendelet 8. § (4) bekezdése iktatta be.
+[^84]: A 13. § (10) bekezdését a 124/2011. (XII. 21.) VM rendelet 8. § (4) bekezdése iktatta be.

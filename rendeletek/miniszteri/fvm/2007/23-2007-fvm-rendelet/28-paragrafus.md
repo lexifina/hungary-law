@@ -1,11 +1,17 @@
-## 28. § Építéssel járó tevékenységek esetén:
+28. §[^153] (1) A körülmények mesterséges megteremtésével kapcsolatos vizsgálat érdekében ellenőrizhető és a körülmények mesterséges megteremtésének minősíthető, ha a 27. § (1) bekezdés g) pontjában hivatkozott, a támogatási kérelemben benyújtott árajánlatban szereplő kiadási tétel vonatkozásában az árajánlat adója az ajánlat kiállításakor
 
-a)[^133] az első, építéssel kapcsolatos kifizetési kérelemhez mellékelni kell a jogerős építési engedély hiteles másolatát vagy az illetékes építésügyi hatóság igazolását arról, hogy a tevékenység nem építési engedélyköteles;
+a) nem jogosult azon tevékenység végzésére, amelyre vonatkozóan az árajánlatot kibocsátotta;
 
-b)[^134] engedélyköteles építési tevékenység esetén az utolsó kifizetési kérelemhez mellékelni kell a hatáskörrel rendelkező építési hatóság jogerős engedélyének hiteles másolatát a létesítmény használatbavételéhez;
+b) kapcsolt vállalkozás viszonyban áll a kérelmet benyújtó ügyféllel.
 
-c)[^135] új vízi létesítmény létrehozása esetén az első, építéssel kapcsolatos kifizetési kérelemhez mellékelni kell a jogerős létesítési vízjogi engedély hiteles másolatát, illetve az utolsó kifizetési kérelemhez a jogerős üzemeltetési vízjogi engedély hiteles másolatát.
+(2) Az árajánlatban szereplő árnak a piaci árakhoz viszonyítva reálisnak kell lennie, amellyel kapcsolatban az MVH indokoltsági vizsgálatot végezhet. Az ellenőrzés eredményét az MVH érvényesíti a jóváhagyható támogatás alapját képező kiadás összegének meghatározásakor.
 
-[^133]: A 28. § a) pontja az 53/2008. (IV. 24.) FVM rendelet 16. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^134]: A 28. § b) pontja az 51/2009. (IV. 16.) FVM rendelet 15. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^135]: A 28. § c) pontját az 51/2009. (IV. 16.) FVM rendelet 15. §-a iktatta be. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+(3) Az árajánlatos gépek, eszközök, berendezések tekintetében a támogatási kérelem módosítása kizárólag a támogatási határozatban szereplő eszközökkel azonos funkciójú, azonos vagy magasabb műszaki paraméterekkel rendelkező eszközök támogatására irányulhat.
+
+(4) Az árajánlatos tételek módosulása esetén a kifizetési kérelemhez csatolni kell legalább kettő darab, a teljesítéskor érvényes árajánlatot, és az ügyfélnek meg kell indokolnia, hogy a két árajánlat közül melyiket választja.
+
+(5) Árajánlatos tételek esetén – a (3) és (4) bekezdésben foglalt módosítás kivételével – amennyiben nem a támogatási kérelemben nyertesként feltüntetett árajánlatban szereplő tételek kerülnek beszerzésre, a (3) bekezdés szerinti módosítás alkalmazásakor a kifizetési kérelem benyújtásával egyidejűleg részletes műszaki leírást tartalmazó dokumentum benyújtása szükséges.
+
+(6) A forinttól eltérő pénznemben kiállított árajánlatra az e rendelet 20. § (5) bekezdésében foglalt átváltási módszert kell alkalmazni.
+
+[^153]: A 28. § a 124/2011. (XII. 21.) VM rendelet 20. §-ával megállapított szöveg.

@@ -1,187 +1,193 @@
 ## A tesztüzemi rendszer adatbázisa alapján kialakított SFH értékek listája
 
-## A magyarországi SFH
+|  | A | B | C | D |
 
-## SFH számítás
+|  | Kód | Megnevezés | Mértékegység | SFH |
 
-| Kód | Megnevezés | Mértékegység | SFH |
+| 1 | D01 | Közönséges búza és tönköly | Ft/ha | 147 010 |
 
-| D01 | Közönséges búza és tönköly | Ft/ha | 127 223 |
+| 2 | D02 | Durum búza | Ft/ha | 168 541 |
 
-| D02 | Durum búza | Ft/ha | 108 835 |
+| 3 | D03 | Rozs | Ft/ha | 93 118 |
 
-| D03 | Rozs | Ft/ha | 82 926 |
+| 4 | D04 | Árpa | Ft/ha | 126 652 |
 
-| D04 | Árpa | Ft/ha | 107 639 |
+| 5 | D05 | Zab | Ft/ha | 92 862 |
 
-| D05 | Zab | Ft/ha | 91 764 |
+| 6 | D06 | Szemeskukorica | Ft/ha | 164 505 |
 
-| D06 | Szemeskukorica | Ft/ha | 172 473 |
+| 7 | D07 | Rizs | Ft/ha | 252 697 |
 
-| D07 | Rizs | Ft/ha | 155 984 |
+| 8 | D08 | Egyéb gabonafélék | Ft/ha | 114 467 |
 
-| D08 | Egyéb gabonafélék | Ft/ha | 101 618 |
+| 9 | D09E | Száraz hüvelyesek: borsó, száraz bab, csillagfürt | Ft/ha | 131 297 |
 
-| D09E | Száraz hüvelyesek: borsó, száraz bab, csillagfürt | Ft/ha | 163 676 |
+| 10 | D09F | Száraz hüvelyesek: lencse, csicseri borsó, bükkönyfélék | Ft/ha | 126 618 |
 
-| D09F | Száraz hüvelyesek: lencse, csicseri borsó, bükkönyfélék | Ft/ha | 137 791 |
+| 11 | D09G | Száraz hüvelyesek, egyéb | Ft/ha | 120 066 |
 
-| D09G | Száraz hüvelyesek, egyéb | Ft/ha | 115 229 |
+| 12 | D10 | Burgonya | Ft/ha | 989 288 |
 
-| D10 | Burgonya | Ft/ha | 853 313 |
+| 13 | D11 | Cukorrépa | Ft/ha | 422 007 |
 
-| D11 | Cukorrépa | Ft/ha | 365 787 |
+| 14 | D12 | Takarmánygyökerek és -káposzták | Ft/ha | 136 115 |
 
-| D12 | Takarmánygyökerek és -káposzták | Ft/ha | 94 730 |
+| 15 | D23 | Dohány | Ft/ha | 779 147 |
 
-| D23 | Dohány | Ft/ha | 725 117 |
+| 16 | D24 | Komló | Ft/ha | 723 804 |
 
-| D24 | Komló | Ft/ha | 749 691 |
+| 17 | D25 | Gyapot | Ft/ha | – |
 
-| D25 | Gyapot | Ft/ha | – |
+| 18 | D26 | Káposztarepce és réparepce | Ft/ha | 163 915 |
 
-| D26 | Káposztarepce és réparepce | Ft/ha | 115 866 |
+| 19 | D27 | Napraforgó | Ft/ha | 159 472 |
 
-| D27 | Napraforgó | Ft/ha | 135 618 |
+| 20 | D28 | Szója | Ft/ha | 145 965 |
 
-| D28 | Szója | Ft/ha | 119 333 |
+| 21 | D29 | Olajlen | Ft/ha | 103 099 |
 
-| D29 | Olajlen | Ft/ha | 99 210 |
+| 22 | D30 | Egyéb olajosmagvú növények | Ft/ha | 162 094 |
 
-| D30 | Egyéb olajosmagvú növények | Ft/ha | 112 743 |
+| 23 | D31 | Rostlen | Ft/ha | 117 569 |
 
-| D31 | Rostlen | Ft/ha | 83 634 |
+| 24 | D32 | Rostkender | Ft/ha | 155 429 |
 
-| D32 | Rostkender | Ft/ha | 191 475 |
+| 25 | D33 | Egyéb rostnövények | Ft/ha | – |
 
-| D33 | Egyéb rostnövények | Ft/ha | – |
+| 26 | D34 | Illóolaj-, gyógy- és fűszernövények | Ft/ha | 410 704 |
 
-| D34 | Illóolaj-, gyógy- és fűszernövények | Ft/ha | 403 536 |
+| 27 | D35 | Egyéb ipari növények, egyéb | Ft/ha | 106 802 |
 
-| D35 | Egyéb ipari növények, egyéb | Ft/ha | 67 095 |
+| 28 | D14A | Friss zöldségfélék, dinnye, szamóca – szabadföldi és alacsony takarás alatt, szántóföldi vetésforgóban | Ft/ha | 667 935 |
 
-| D14A | Friss zöldségfélék, dinnye, szamóca – szabadföldi és alacsony takarás alatt, szántóföldi vetésforgóban | Ft/ha | 505 736 |
+| 29 | D14B | Friss zöldségfélék, dinnye, szamóca – szabadföldi és alacsony takarás alatt, kertészeti vetésforgóban | Ft/ha | 785 722 |
 
-| D14B | Friss zöldségfélék, dinnye, szamóca – szabadföldi és alacsony takarás alatt, kertészeti vetésforgóban | Ft/ha | 627 796 |
+| 30 | D15 | Friss zöldségfélék, dinnye, szamóca – járható takarás (üvegház, fóliasátor) alatt | Ft/ha | 8 690 789 |
 
-| D15 | Friss zöldségfélék, dinnye, szamóca – járható takarás (üvegház, fóliasátor) alatt | Ft/ha | 10 802 990 |
+| 31 | D16 | Virágok – szabadföldi és alacsony takarás (síkfólia, fóliaalagút, hollandiágy) | Ft/ha | 5 733 665 |
 
-| D16 | Virágok – szabadföldi és alacsony takarás (síkfólia, fóliaalagút, hollandiágy) | Ft/ha | 5 435 819 |
+| 32 | D17 | Virágok – járható takarás (üvegház, fóliasátor) alatt | Ft/ha | 18 725 188 |
 
-| D17 | Virágok – járható takarás (üvegház, fóliasátor) alatt | Ft/ha | 19 109 790 |
+| 33 | D18A | Takarmánynövények – időszaki gyep | Ft/ha | 61 749 |
 
-| D18A | Takarmánynövények – időszaki gyep | Ft/ha | 49 551 |
+| 34 | D18B1 | Takarmánynövények – egyéb zöldtakarmányok, silókukorica | Ft/ha | 168 862 |
 
-| D18B1 | Takarmánynövények – egyéb zöldtakarmányok, silókukorica | Ft/ha | 182 688 |
+| 35 | D18B3 | Takarmánynövények – egyéb zöldtakarmányok, egyéb | Ft/ha | 101 190 |
 
-| D18B3 | Takarmánynövények – egyéb zöldtakarmányok, egyéb | Ft/ha | 98 082 |
+| 36 | D19 | Szántóföldi szaporítóanyag (magvak és palánták) | Ft/ha | 125 472 |
 
-| D19 | Szántóföldi szaporítóanyag (magvak és palánták) | Ft/ha | 112 677 |
+| 37 | D20 | Egyéb szántóföldi növények | Ft/ha | 114 781 |
 
-| D20 | Egyéb szántóföldi növények | Ft/ha | 102 936 |
+| 38 | D21 | Parlag, ugar támogatás nélkül | Ft/ha | – |
 
-| D21 | Parlag, ugar támogatás nélkül | Ft/ha | – |
+| 39 | D22 | Parlag, ugar támogatással (set-aside) | Ft/ha | 29 367 |
 
-| D22 | Parlag, ugar támogatással (set-aside) | Ft/ha | – |
+| 40 | E | Konyhakert | Ft/ha | 639 220 |
 
-| E | Konyhakert | Ft/ha | 799 108 |
+| 41 | F01 | Belterjes (intenzív) gyep (rét és legelő) | Ft/ha | 59 876 |
 
-| F01 | Belterjes (intenzív) gyep (rét és legelő) | Ft/ha | 52 529 |
+| 42 | F02 | Külterjes (extenzív) gyep (rét és legelő) | Ft/ha | 57 436 |
 
-| F02 | Külterjes (extenzív) gyep (rét és legelő) | Ft/ha | 46 558 |
+| 43 | G01A | Gyümölcsültetvények, mérsékelt égövi friss | Ft/ha | 532 543 |
 
-| G01A | Gyümölcsültetvények, mérsékelt égövi friss | Ft/ha | 583 157 |
+| 44 | G01B | Gyümölcsültetvények, szubtrópusi friss | Ft/ha | – |
 
-| G01B | Gyümölcsültetvények, szubtrópusi friss | Ft/ha | – |
+| 45 | G01C | Gyümölcsültetvények, héjasok | Ft/ha | 507 446 |
 
-| G01C | Gyümölcsültetvények, héjasok | Ft/ha | 283 088 |
+| 46 | G02 | Citrus-ültetvények | Ft/ha | – |
 
-| G02 | Citrus-ültetvények | Ft/ha | – |
+| 47 | G03A | Olajfa ültetvények – étkezési olíva | Ft/ha | – |
 
-| G03A | Olajfa ültetvények – étkezési olíva | Ft/ha | – |
+| 48 | G03B | Olajfa ültetvények – olajtermelésre | Ft/ha | – |
 
-| G03B | Olajfa ültetvények – olajtermelésre | Ft/ha | – |
+| 49 | G04A | Minőségi borszőlő ültetvények | Ft/ha | 428 349 |
 
-| G04A | Minőségi borszőlő ültetvények | Ft/ha | 452 433 |
+| 50 | G04B | Egyéb borszőlő ültetvények | Ft/ha | 378 997 |
 
-| G04B | Egyéb borszőlő ültetvények | Ft/ha | 354 800 |
+| 51 | G04C | Csemegeszőlő ültetvények | Ft/ha | 793 754 |
 
-| G04C | Csemegeszőlő ültetvények | Ft/ha | 445 607 |
+| 52 | G04D | Mazsolaszőlő ültetvények | Ft/ha | – |
 
-| G04D | Mazsolaszőlő ültetvények | Ft/ha | – |
+| 53 | G05 | Faiskolák | Ft/ha | 1 885 775 |
 
-| G05 | Faiskolák | Ft/ha | 1 954 306 |
+| 54 | G06 | Egyéb ültetvények | Ft/ha | 1 420 969 |
 
-| G06 | Egyéb ültetvények | Ft/ha | – |
+| 55 | G07 | Járható takarás (üvegház, fóliasátor) alatti ültetvények | Ft/ha | 6 661 712 |
 
-| G06A | Sarjaztatásos fás szárú energiaültetvény | Ft/ha | 95 000 |
+| 56 | I01 | Másodvetésű növények összesen | Ft/ha | 422 737 |
 
-| G06B | Energiafű | Ft/ha | 70 000 |
+| 57 | I02 | Gomba | Ft/100 m2 | 1 529 311 |
 
-| G06C | Energianád | Ft/ha | 230 000 |
+| 58 | J01 | Lófélék | Ft/állat | 48 571 |
 
-| G07 | Járható takarás (üvegház, fóliasátor) alatti ültetvények | Ft/ha | 9 702 008 |
+| 59 | J02A | Egy évesnél fiatalabb szarvasmarha, hímivarú | Ft/állat | 20 599 |
 
-| I01 | Másodvetésű növények összesen | Ft/ha | 326 824 |
+| 60 | J02B | Egy évesnél fiatalabb szarvasmarha, nőivarú | Ft/állat | 13 733 |
 
-| I02 | Gomba | Ft/100 m2 | 1 502 860 |
+| 61 | J03 | Egy és két év közötti szarvasmarha, hímivarú | Ft/állat | 36 630 |
 
-| J01 | Lófélék | Ft/állat | 49 722 |
+| 62 | J04 | Egy és két év közötti szarvasmarha, nőivarú | Ft/állat | 18 277 |
 
-| J02A | Egy évesnél fiatalabb szarvasmarha, hímivarú | Ft/állat | 24 443 |
+| 63 | J05 | Kétéves és idősebb szarvasmarha, hímivarú | Ft/állat | 32 204 |
 
-| J02B | Egy évesnél fiatalabb szarvasmarha, nőivarú | Ft/állat | 13 419 |
+| 64 | J06 | Kétéves és idősebb szarvasmarha, üsző | Ft/állat | 19 377 |
 
-| J03 | Egy és két év közötti szarvasmarha, hímivarú | Ft/állat | 30 246 |
+| 65 | J07 | Kétéves és idősebb szarvasmarha, tejhasznú tehén | Ft/állat | 279 521 |
 
-| J04 | Egy és két év közötti szarvasmarha, nőivarú | Ft/állat | 18 776 |
+| 66 | J08 | Kétéves és idősebb szarvasmarha, egyéb tehén | Ft/állat | 15 860 |
 
-| J05 | Kétéves és idősebb szarvasmarha, hímivarú | Ft/állat | 36 665 |
+| 67 | J09A | Juh, tenyész nőivarú (anyajuh) | Ft/állat | 4 192 |
 
-| J06 | Kétéves és idősebb szarvasmarha, üsző | Ft/állat | 16 354 |
+| 68 | J09B | Juh, egyéb | Ft/állat | 7 903 |
 
-| J07 | Kétéves és idősebb szarvasmarha, tejhasznú tehén | Ft/állat | 275 526 |
+| 69 | J10A | Kecske, tenyész nőivarú (anyakecske) | Ft/állat | 10 427 |
 
-| J08 | Kétéves és idősebb szarvasmarha, egyéb tehén | Ft/állat | 16 103 |
+| 70 | J10B | Kecske, egyéb | Ft/állat | 6 137 |
 
-| J09A | Juh, tenyész nőivarú (anyajuh) | Ft/állat | 4 375 |
+| 71 | J11 | Sertés, malacok 20 kg alatt | Ft/állat | 3 315 |
 
-| J09B | Juh, egyéb | Ft/állat | 7 545 |
+| 72 | J12 | Sertés, tenyészkoca 50 kg felett | Ft/állat | 51 588 |
 
-| J10A | Kecske, tenyész nőivarú (anyakecske) | Ft/állat | 17 551 |
+| 73 | J13 | Sertés, egyéb | Ft/állat | 13 723 |
 
-| J10B | Kecske, egyéb | Ft/állat | 9 330 |
+| 74 | J14 | Pecsenyecsirke | Ft/100db állat | 44 866 |
 
-| J11 | Sertés, malacok 20 kg alatt | Ft/állat | 3 272 |
+| 75 | J15 | Tojótyúk | Ft/100db állat | 154 884 |
 
-| J12 | Sertés, tenyészkoca 50 kg felett | Ft/állat | 50 708 |
+| 76 | J16A | Pulyka | Ft/100db állat | 132 907 |
 
-| J13 | Sertés, egyéb | Ft/állat | 13 928 |
+| 77 | J16B | Kacsa | Ft/100db állat | 120 766 |
 
-| J14 | Pecsenyecsirke | Ft/100 db állat | 46 247 |
+| 78 | J16C | Liba | Ft/100db állat | 199 431 |
 
-| J15 | Tojótyúk | Ft/100 db állat | 143 041 |
+| 79 | J16D | Egyéb baromfi | Ft/100db állat | 124 118 |
 
-| J16A | Pulyka | Ft/100 db állat | 135 039 |
+| 80 | J17 | Nyúl (tenyész nőivarú) (anyanyúl) | Ft/állat | 12 367 |
 
-| J16B | Kacsa | Ft/100 db állat | 148 441 |
+| 81 | J18 | Méhcsaládok száma | Ft/kaptár | 15 624 |
 
-| J16C | Liba | Ft/100 db állat | 206 929 |
+| 82 | V01 | Vaddisznó | Ft/állat | 69 237* |
 
-| J16D | Egyéb baromfi | Ft/100 db állat | 143 305 |
+| 83 | V02 | Dámszarvas | Ft/állat | 71 485* |
 
-| J17 | Nyúl (tenyész nőivarú) (anyanyúl) | Ft/állat | 12 445 |
+| 84 | V03 | Gímszarvas | Ft/állat | 158 139* |
 
-| J18 | Méhcsaládok száma | Ft/kaptár | 14 298 |
+| 85 | B01 | Strucc | Ft/100db állat | 1 437 787* |
 
-| V01 | Vaddisznó | Ft/állat | 68 056* |
+| 86 | B02 | Emu | Ft/100db állat | 823 946* |
 
-| V02 | Dámszarvas | Ft/állat | 59 025* |
+| 87 | B03 | Napos csibe | Ft/100db állat | 32 923* |
 
-| V03 | Gímszarvas | Ft/állat | 130 575* |
+| 88 | B04 | Előnevelt csirke | Ft/100db állat | 123 042* |
+
+| 89 | E01 | Sarjaztatásos fás szárú energiaültetvény | Ft/ha | 137 500* |
+
+| 90 | E02 | Energiafű | Ft/ha | 69 491* |
+
+| 91 | E03 | Energianád | Ft/ha | 224 000* |
 
 ## * Egyedi adatgyűjtés alapján
 
-2. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^190]
+2. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^236]
 
-[^190]: A 2. számú melléklet az 53/2008. (IV. 24.) FVM rendelet 19. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.
+[^236]: A 2. számú melléklet az 53/2008. (IV. 24.) FVM rendelet 19. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.

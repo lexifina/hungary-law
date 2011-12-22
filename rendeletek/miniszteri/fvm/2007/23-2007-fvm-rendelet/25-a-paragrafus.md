@@ -1,11 +1,13 @@
-## 25/A. §[^120] A beruházás helyének a támogatási kérelem benyújtási időszakot követő módosítása az alábbi feltételekkel lehetséges:
+25/A. §[^139] (1) A beruházás helyének a támogatási kérelem benyújtási időszakot követő módosítása az alábbi feltételekkel lehetséges:
 
 a) bírósági vagy közigazgatási határozattal igazoltan, az ügyfélnek fel nem róható okból a beruházás a kérelemben megjelölt helyen nem megvalósítható, vagy nem folytatható;
 
-b) a Vhr. 23. § (1) bekezdés d)–e) pontjában meghatározott feltételek teljesülnek;
+b) e rendelet 23. § (1) bekezdés d)–e) pontjában meghatározott feltételek teljesülnek;
 
-c) a beruházás új helyére megállapítható támogatás összege és mértéke megegyezik az eredeti támogatási kérelemben foglaltakkal;
+c) az eredeti támogatási kérelem alapján elért pontszám legalább a megvalósítási hely területi besorolása alapján kapott pontszámmal meghaladja az IH által meghatározott minimális pontszámot, kivéve ha az eredeti megvalósítási hely és az új megvalósítási hely is hátrányos helyzetű területre esik.
 
-d) a támogatás részletes feltételeit megállapító jogszabály alapján adható pontszámok változatlanok.
+(2) A beruházás új helyére megállapítható támogatás összege és mértéke az új megvalósítási hely területi besorolásának a támogatási kérelem vagy a támogatási határozat módosítása iránti kérelemben foglaltaktól való eltérése folytán nem növekedhet.
 
-[^120]: A 25/A. §-t a 97/2008. (VII. 25.) FVM rendelet 13. §-a iktatta be.
+(3) Mentesül az ügyfél az (1) bekezdés a) pontjában nevesített feltétel alól, ha a beruházását saját tulajdonú új megvalósítási helyen kívánja megvalósítani. A megvalósítási hely módosítására vonatkozó, ezen okra alapozott kérelmet az ügyfél legkésőbb az első kifizetési kérelem benyújtásáig terjesztheti elő. A beruházás megvalósítását az ügyfél kizárólag a saját felelősségére kezdheti meg az MVH által hozott, a megvalósítási hely módosítása iránti kérelemnek helyt adó határozat kézhezvételét megelőzően.
+
+[^139]: A 25/A. §-t a 97/2008. (VII. 25.) FVM rendelet 13. §-a iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 18. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Támogatási kérelem benyújtásának általános feltételei
 
-7. §[^48] (1) Támogatási kérelmet az a jogi személy, jogi személyiség nélküli gazdasági társaság (a továbbiakban együtt: szervezet) vagy természetes személy nyújthat be, aki
+7. §[^56] (1) Támogatási kérelmet az a jogi személy, jogi személyiség nélküli gazdasági társaság (a továbbiakban együtt: szervezet) vagy természetes személy nyújthat be, aki
 
 a) eleget tesz az e rendeletben és a támogatás részletes feltételeit megállapító jogszabályban az adott jogcím vonatkozásában előírt feltételeknek,
 
@@ -8,13 +8,13 @@ b) nem mezőgazdasági beruházás esetén a számviteli jogszabályok szerint s
 
 c) nem mezőgazdasági beruházás esetén csőd-, felszámolási eljárás vagy végelszámolás alatt nem áll, továbbá a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásról szóló bizottsági közlemény (HL 2004/C 244/02.) 2.1 alpontja szerint nem minősül nehéz helyzetben lévő vállalkozásnak.
 
-(2)[^49] Nem nyújtható támogatás azon ügyfelek részére, akik nem felelnek meg az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában szabályozott rendezett munkaügyi kapcsolatok feltételeinek.
+(2)[^57] Nem nyújtható támogatás azon ügyfelek részére, akik nem felelnek meg az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában szabályozott rendezett munkaügyi kapcsolatok feltételeinek.
 
-(3)[^50]
+(3)[^58]
 
-(4)[^51]
+(4)[^59]
 
-[^48]: A 7. § a 155/2007. (XII. 22.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^49]: A 7. § (2) bekezdése a 107/2009. (VIII. 14.) FVM rendelet 6. §-ával megállapított szöveg.
-[^50]: A 7. § (3) bekezdését a 107/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^51]: A 7. § (4) bekezdését az 53/2008. (IV. 24.) FVM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^56]: A 7. § a 155/2007. (XII. 22.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^57]: A 7. § (2) bekezdése a 107/2009. (VIII. 14.) FVM rendelet 6. §-ával megállapított szöveg.
+[^58]: A 7. § (3) bekezdését a 107/2009. (VIII. 14.) FVM rendelet 7. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^59]: A 7. § (4) bekezdését az 53/2008. (IV. 24.) FVM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
