@@ -1,1 +1,0 @@
-## 3. § A biztosítók kötelesek kötelező gépjármű-felelősségbiztosítási termékükről a 3. számú melléklet szerinti adatszolgáltatást elkészíteni és azt az eredményelszámolással együtt a Felügyeletnek – számítógépes adathordozón, a Felügyelet által meghatározott formában is – megküldeni.
