@@ -4,7 +4,7 @@
 
 a) belföldi cég, annak cégjegyzékszámát,
 
-b) társadalmi szervezet vagy alapítvány, annak nyilvántartási számát,
+b) egyesület vagy alapítvány, annak nyilvántartási számát,
 
 c) külföldi cég vagy más szervezet, amennyiben ilyen adattal rendelkezik, nyilvántartási számát és a nyilvántartó hatóságot
 

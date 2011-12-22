@@ -8,7 +8,7 @@ c) a vagyonfelosztási javaslatot, amelyben a végelszámoló díjának mérték
 
 d) a végelszámolási időszak gazdasági eseményeinek bemutatásáról szóló összefoglaló értékelést (zárójelentést), valamint
 
-e) a cég vagyoni részesedésével működő jogalanyok, illetve a részvételével működő társadalmi szervezetek, alapítványok sorsára vonatkozó javaslatot,
+e) a cég vagyoni részesedésével működő jogalanyok, illetve a részvételével működő egyesületek, alapítványok sorsára vonatkozó javaslatot,
 
 f)
 

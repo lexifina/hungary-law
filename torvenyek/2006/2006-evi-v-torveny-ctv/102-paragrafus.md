@@ -22,7 +22,7 @@ e) az illetékes környezetvédelmi felügyelőséget arról, hogy maradtak-e fe
 
 f) a cég pénzforgalmi számláit vezető valamennyi pénzforgalmi szolgáltatót,
 
-g) a cég vagyoni részvételével működő jogalanyok vezető tisztségviselőit, illetve a cég részvételével működő társadalmi szervezeteket, alapítványokat,
+g) a cég vagyoni részvételével működő jogalanyok vezető tisztségviselőit, illetve a cég részvételével működő egyesületeket, alapítványokat,
 
 h) a cég által vagy ellen indított és folyamatban lévő hatósági és bírósági eljárásokban az eljáró hatóságot vagy bíróságot.
 

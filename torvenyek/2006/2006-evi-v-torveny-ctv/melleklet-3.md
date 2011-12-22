@@ -10,7 +10,7 @@
 
 ## b) a cég idegen nyelvű elnevezésének hiteles fordítását tanúsító okirat;
 
-## 4. a) társadalmi szervezet tagról vezetett nyilvántartás adatait tartalmazó, három hónapnál nem régebbi kivonat,
+## 4. a) egyesület tagról vezetett nyilvántartás adatait tartalmazó, három hónapnál nem régebbi kivonat,
 
 ## b) önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
 

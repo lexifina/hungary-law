@@ -1,4 +1,4 @@
-98. § (1) A cég legfőbb szerve – az erre irányadó jogszabályok szerint – határozatot hoz a cég jogutód nélküli megszűnéséről, illetve a végelszámolás elrendeléséről. A cég legfőbb szerve a határozatában megállapítja a végelszámolás kezdő időpontját és megválasztja a végelszámolót, illetve rendelkezik a cég vagyoni részesedésével működő jogalanyok, valamint a részvételével működő alapítvány vagy társadalmi szervezet sorsáról is.
+98. § (1) A cég legfőbb szerve – az erre irányadó jogszabályok szerint – határozatot hoz a cég jogutód nélküli megszűnéséről, illetve a végelszámolás elrendeléséről. A cég legfőbb szerve a határozatában megállapítja a végelszámolás kezdő időpontját és megválasztja a végelszámolót, illetve rendelkezik a cég vagyoni részesedésével működő jogalanyok, valamint a részvételével működő alapítvány vagy egyesület sorsáról is.
 
 (2) A végelszámolás kezdő időpontjában a cég vezető tisztségviselőjének megbízatása megszűnik. A végelszámolás kezdő időpontjától a cég önálló képviseleti joggal rendelkező vezető tisztségviselőjének a végelszámoló minősül.
 

@@ -52,7 +52,7 @@
 
 ## 9. ha a cég elnevezésében történelmi személyiség neve szerepel, vagy a cégnévhez másnak jogi érdeke fűződik, a Ctv. 4. §-ának (4) bekezdésében meghatározott személy vagy szervezet hozzájárulását tartalmazó okirat;
 
-## 10. társadalmi szervezet tagról vezetett nyilvántartás adatait tartalmazó három hónapnál nem régebbi kivonat;
+## 10. egyesület tagról vezetett nyilvántartás adatait tartalmazó három hónapnál nem régebbi kivonat;
 
 ## 11. önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
 
