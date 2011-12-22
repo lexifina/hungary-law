@@ -21,3 +21,5 @@ b) közzéteszi az elnyert támogatás összegét.
 (5) Az (1)–(4) bekezdést nem kell alkalmazni az e törvény hatálya alá tartozó, a Munkaerőpiaci Alapból természetes személyek számára nyújtott támogatások esetében.
 
 (6) A honlapon bárki számára, ingyenesen biztosítani kell a közzétett adatok kereshetőségét, pályázatonként, pályázónként, összeghatár szerint és más módon csoportosított lekérdezhetőségét.
+
+(7) Az (1) bekezdés alapján a honlap üzemeltetésére kijelölt szerv a civil szervezettel, mint kedvezményezettel összefüggésben a honlapon közétett adatokat a közzététellel egy időben az erre a célra szolgáló számítógépes rendszer útján megküldi a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszternek.

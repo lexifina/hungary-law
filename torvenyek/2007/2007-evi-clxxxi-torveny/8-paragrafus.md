@@ -8,7 +8,7 @@ c) az a)–b) pont alá tartozó személy közeli hozzátartozója,
 
 d) az a)–c) pontban megjelölt személy tulajdonában álló gazdasági társaság,
 
-e) olyan gazdasági társaság, alapítvány, társadalmi szervezet, egyház vagy szakszervezet, amelyben az a)–c) pont alá tartozó személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője vagy a társadalmi szervezet ügyintéző vagy képviseleti szervének tagja,
+e) olyan gazdasági társaság, alapítvány, egyesület, egyház vagy szakszervezet, amelyben az a)–c) pont alá tartozó személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője vagy az egyesület ügyintéző vagy képviseleti szervének tagja,
 
 köteles kezdeményezni e körülménynek a honlapon történő közzétételét a pályázat benyújtásával egyidejűleg.
 
