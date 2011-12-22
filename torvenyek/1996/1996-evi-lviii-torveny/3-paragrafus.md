@@ -40,7 +40,7 @@ i) ellátja mindazokat a feladatokat, amelyeket törvény a hatáskörébe utal.
 
 a) támogatja a felsőoktatásban tanulók és a pályakezdők szakmai gyakorlaton való részvételét,
 
-b) együttműködik a mérnöki, illetve építészeti tevékenységet érintő kérdésekben a területi érdekképviseleti és egyéb társadalmi szervezetekkel, ezen belül a műszaki tudományos egyesületekkel, valamint más köztestületekkel,
+b) együttműködik a mérnöki, illetve építészeti tevékenységet érintő kérdésekben a területi érdekképviseleti és egyéb egyesületekkel, ezen belül a műszaki tudományos egyesületekkel, valamint más köztestületekkel,
 
 c)
 
