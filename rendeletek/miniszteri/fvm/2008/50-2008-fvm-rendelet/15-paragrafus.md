@@ -1,8 +1,8 @@
-## 14. §[^30]
+## 14. §[^37]
 
 ## Az Európai Unió jogának való megfelelés
 
-## 15. §[^31] Ez a rendelet
+## 15. §[^38] Ez a rendelet
 
 1. a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2003. szeptember 29-i 73/2009/EK tanácsi rendeletnek,
 
@@ -16,5 +16,5 @@
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^30]: A 14. §-t a 32/2010. (III. 30.) FVM rendelet 8. §-a hatályon kívül helyezte.
-[^31]: A 15. § a 29/2011. (IV. 22.) VM rendelet 5. §-ával megállapított szöveg.
+[^37]: A 14. §-t a 32/2010. (III. 30.) FVM rendelet 8. §-a hatályon kívül helyezte.
+[^38]: A 15. § a 29/2011. (IV. 22.) VM rendelet 5. §-ával megállapított szöveg.
