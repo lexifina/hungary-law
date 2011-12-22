@@ -14,4 +14,4 @@ b) saját használatú, amely az üzemben tartó vállalkozásában végzett sze
 
 a) államigazgatási szerv, a Magyar Honvédség, rendvédelmi szerv tulajdonában, illetve használatában van, továbbá
 
-b) társadalmi szervezet tulajdonában, illetve használatában van, ha a kikötő csak tagsági jogviszony alapján vehető igénybe.
+b) egyesület tulajdonában, illetve használatában van, ha a kikötő csak tagsági jogviszony alapján vehető igénybe.
