@@ -16,6 +16,6 @@ d) a fogvatartottak foglalkoztatását végző gazdasági társaságok (a továb
 
 e) végzi a honvédelemmel, a polgári és katasztrófavédelmi tevékenységgel, a munkavédelemmel és a tűzvédelemmel kapcsolatos központi feladatokat;
 
-f) együttműködik a büntetések és az intézkedések végrehajtásában közreműködő, illetve a végrehajtást segítő állami szervekkel és társadalmi szervezetekkel, egyházakkal, alapítványokkal és személyekkel, továbbá az érintett nemzetközi szervezetekkel;
+f) együttműködik a büntetések és az intézkedések végrehajtásában közreműködő, illetve a végrehajtást segítő állami szervekkel és egyesületekkel, egyházakkal, alapítványokkal és személyekkel, továbbá az érintett nemzetközi szervezetekkel;
 
 g) ellátja a szervezeti és működési szabályzatban meghatározott egyéb feladatokat.

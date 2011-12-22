@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-107-00-00
 | 2010-04-01 | 2009. évi CLV. törvény | 1995-107-00-00.11 |
 | 2010-08-15 | 2010. évi XC. törvény | 1995-107-00-00.12 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 1995-107-00-00.13 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1995-107-00-00.14 |
