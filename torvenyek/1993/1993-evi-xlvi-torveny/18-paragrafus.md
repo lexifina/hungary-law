@@ -1,6 +1,6 @@
 Stt.18. § (1) Egyedi adat csak statisztikai célra használható, mással csak akkor közölhető, és abban az esetben adható át, valamint hozható nyilvánosságra, ha ehhez az adatszolgáltató előzetesen írásban hozzájárult. Ez a korlátozás nem vonatkozik az azonos szerven belül statisztikai tevékenységet végző személyek egymás közötti adatközlésére.
 
-(2) Közérdekű feladatot ellátó szerv, illetőleg társadalmi szervezet, valamint a költségvetési szerv ezen tevékenységére vonatkozó egyedi adat az adatszolgáltató írásbeli hozzájárulása nélkül is nyilvánosságra hozható.
+(2) Közérdekű feladatot ellátó szerv, illetőleg egyesület, valamint a költségvetési szerv ezen tevékenységére vonatkozó egyedi adat az adatszolgáltató írásbeli hozzájárulása nélkül is nyilvánosságra hozható.
 
 (3) Egyedi adat – az (1) bekezdésben foglaltakon túlmenően – csak statisztikai célból, statisztikai tevékenységgel foglalkozó nemzetközi szervezetnek, jogszabályban meghatározott nemzetközi kötelezettség teljesítése érdekében adható át az adatszolgáltató írásbeli hozzájárulása nélkül.
 

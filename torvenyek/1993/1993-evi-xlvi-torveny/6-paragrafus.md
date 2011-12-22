@@ -16,7 +16,7 @@ g) más információrendszerek, a nyilvános, a közhitelű és egyéb nyilvánt
 
 h) az Országgyűlés és a Kormány évenkénti tájékoztatása az ország társadalmi, gazdasági, népesedési adatairól;
 
-i) statisztikai adatok szolgáltatása az államhatalom és a közigazgatás szervei, a társadalmi szervezetek, az érdekképviseletek, a helyi önkormányzatok, a köztestületek, a tudományos, a gazdasági szervezetek, a lakosság és a hírközlő szervek, valamint a nemzetközi szervezetek részére;
+i) statisztikai adatok szolgáltatása az államhatalom és a közigazgatás szervei, az egyesületek, az érdekképviseletek, a helyi önkormányzatok, a köztestületek, a tudományos, a gazdasági szervezetek, a lakosság és a hírközlő szervek, valamint a nemzetközi szervezetek részére;
 
 j) a Magyar Köztársaság Közigazgatási Helynévkönyvének vezetése, a Magyar Köztársaság Helységnévtárának kiadása;
 
