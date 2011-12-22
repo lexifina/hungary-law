@@ -16,6 +16,6 @@ b) gazdasági társaságban – munkavégzésre irányuló egyéb jogviszonynak 
 
 (4) Nem kell engedélyeztetni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenység folytatását.
 
-(5) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a társadalmi szervezetben való részvétel vagy tisztségviselés ellentétes a fegyveres szerv feladataival, vagy a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, illetve a fegyveres szerv tekintélyét veszélyezteti.
+(5) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a civil szervezetben való részvétel vagy tisztségviselés ellentétes a fegyveres szerv feladataival, vagy a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, illetve a fegyveres szerv tekintélyét veszélyezteti.
 
 (6) A hivatásos állomány tagja az 59. § (1) bekezdés c) pontjában meghatározott tisztséget nem tölthet be.
