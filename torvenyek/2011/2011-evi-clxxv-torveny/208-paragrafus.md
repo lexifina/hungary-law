@@ -1,0 +1,1 @@
+208. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 259. § 9/A. pont c) alpontjában hatályát veszti az „a kiemelkedően közhasznú szervezet,” szövegrész, valamint a „ , továbbá közhasznú szervezet, kiemelkedően közhasznú szervezet esetében a közhasznúsági fokozatot” szövegrész.

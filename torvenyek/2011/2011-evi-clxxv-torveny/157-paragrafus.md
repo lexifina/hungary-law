@@ -1,0 +1,1 @@
+157. § A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény 4. § (1) bekezdésében a „szakmai és társadalmi szervezeteket” szövegrész helyébe a „szakmai szervezeteket és egyesületeket” szöveg lép.

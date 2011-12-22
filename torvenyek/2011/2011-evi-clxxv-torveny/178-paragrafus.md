@@ -1,0 +1,1 @@
+178. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény, valamint egyes kapcsolódó törvények módosításról szóló 2008. évi XLII. törvény 64. § (3) bekezdésében a „társadalmi szervezetek” szövegrész helyébe az „egyesületek” szöveg lép.

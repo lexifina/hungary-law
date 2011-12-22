@@ -1,0 +1,1 @@
+155. § A prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény 2. § 5. a) pontjában az „a társadalmi szervezet” szövegrész helyébe az „az egyesület” szöveg lép.

@@ -1,0 +1,1 @@
+150. § A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény 12. § (4) bekezdésének d) pontjában a „társadalmi szervezet” szövegrész helyébe a „civil szervezet” szöveg lép.

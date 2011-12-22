@@ -1,0 +1,1 @@
+20. § A civil szervezet bevételeit a 19. § (1) bekezdés szerinti részletezésben, költségeit ráfordításait (kiadásait) a 19. § (2) bekezdés szerinti részletezésben elkülönítetten, a számviteli előírások szerint tartja nyilván.

@@ -1,0 +1,1 @@
+127. § A fegyveres biztonsági őrségről, a természetvédelmi és mezei őrszolgálatról szóló 1997. évi CLIX. törvény 10/B. §-ában, 15. § (6) bekezdésében, 23. § (4) bekezdésében az „a társadalmi szervezetekkel” szövegrész helyébe az „az egyesületekkel” szöveg lép.

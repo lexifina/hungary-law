@@ -1,0 +1,1 @@
+6. § Az egyesület alapszabálya vagy törvény eltérő rendelkezése hiányában a megszűnt egyesületnek a hitelezői igények kielégítése után megmaradt vagyona a civil szervezetek támogatására való felhasználás céljából a Nemzeti Együttműködési Alapot illeti meg. A vagyon felhasználásának módját a Civil Információs Portálon nyilvánosságra kell hozni.

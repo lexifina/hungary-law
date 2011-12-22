@@ -1,0 +1,7 @@
+54. § Az 53. § rendelkezéseit nem kell alkalmazni az államháztartás alrendszereiből folyósított pénzeszköz esetén, ha
+
+a) annak rendeltetése az állam vagy valamely közigazgatási szerv felelősségébe tartozó, jogszabályban meghatározott és részletesen szabályozott feladat, vagy a feladat egy részének ellátását célozza, vagy
+
+b) annak nyújtása normatív alapon, vagy a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény szerint történt, vagy
+
+c) az az Európai Unió strukturális alapjaiból, illetve a Kohéziós Alapból részben vagy egészben támogatott tevékenység fedezetét jelenti.

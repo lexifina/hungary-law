@@ -1,0 +1,1 @@
+63. § A Tanács az ügyrendje alapján, a kollégiumi struktúra figyelembevételével a Nemzeti Gazdasági és Társadalmi Tanácsban civil szervezetek képviseletét ellátó öt személy delegálásáról a tagok legalább kétharmadának egyetértésével hoz döntést.

@@ -1,0 +1,1 @@
+50. § A közhasznú szervezet a közhasznú jogállásának megszűnésekor köteles esedékes köztartozásait rendezni, illetve közszolgáltatás ellátására irányuló szerződéséből eredő kötelezettségeit időarányosan teljesíteni.

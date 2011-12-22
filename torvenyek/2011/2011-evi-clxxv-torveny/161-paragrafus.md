@@ -1,0 +1,1 @@
+161. § A kisebbségi önkormányzati képviselők választásról, valamint a nemzeti és etnikai kisebbségekre vonatkozó egyes törvények módosításáról szóló 2005. évi CXIV. törvény 26. § (2) bekezdés a) pontjában a „társadalmi szervezet” szövegrész helyébe az „egyesület” szöveg lép.

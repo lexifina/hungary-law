@@ -1,0 +1,1 @@
+102. § A Gyermek és Ifjúsági Alapról, a Nemzeti Gyermek és Ifjúsági Közalapítványról, valamint az ifjúsággal összefüggő egyes állami feladatok ellátásának szervezeti rendjéről szóló 1995. évi LXIV. törvény 7/A. § c) pontjában a „társadalmi szervezetekkel” szövegrész helyébe az „egyesületekkel” szöveg lép.

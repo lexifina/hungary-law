@@ -1,0 +1,1 @@
+195. § A fegyveres erők hivatásos tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 21/A. §-ában hatályát veszti a „társadalmi szervezeteknek nem minősülő, de” és a „valamint a tömegmozgalomhoz” szövegrész.
