@@ -1,3 +1,0 @@
-## 15. A közhasznú működés felügyelete, a közhasznúsági nyilvántartás
-
-47. § A közhasznú szervezetek feletti adóellenőrzést az adóhatóság, az államháztartásból származó (költségvetési) támogatás felhasználásának ellenőrzését törvény eltérő rendelkezése hiányában az Állami Számvevőszék, az állami vagy önkormányzati költségvetésből, illetve a nemzetközi forrásokból juttatott támogatások felhasználásának ellenőrzését a külön jogszabály szerinti ellenőrzési szervezet, a közhasznú működés feletti törvényességi ellenőrzést pedig a reá irányadó szabályok szerint az ügyészség látja el.

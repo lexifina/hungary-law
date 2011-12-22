@@ -1,3 +1,0 @@
-35. § (1) Civil szervezettel állami, közigazgatási, költségvetési szerv közszolgáltatási szerződést kizárólag akkor köthet, ha a civil szervezet közhasznú jogállású.
-
-(2) Nem minősül közszolgáltatási szerződésnek a feladat finanszírozását szolgáló támogatás, ha a támogatás nyújtásának minden feltételét jogszabály határozza meg, és a támogatási döntés meghozatala során a döntéshozónak mérlegelési joga nincs. Nem minősül mérlegelési jognak, ha a döntéshozó a jogszabályban meghatározott támogatási keret kimerüléséig a támogatás odaítélésére vonatkozó, a jogszabályi feltételeknek megfelelő kérelmeket beérkezési sorrendben teljesíti.

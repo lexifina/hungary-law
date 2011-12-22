@@ -14,7 +14,7 @@ c) 251. § (1) bekezdésében és 252. § (1) bekezdésében a „társadalmi sz
 
 d) 254. § (1)–(2) bekezdésében és 256. § (3) bekezdés a)–b) pontjában a „társadalmi szervezet” szövegrész helyébe az „egyesület” szöveg
 
-e) 256/A. § (2) bekezdés a)–b) pontjában a „társadalmi szervezet” szövegrész helyébe az „egyesület” szöveg,
+e)
 
 f) 296/B. § (2) bekezdésében a „társadalmi szervezete” szövegrész helyébe az „egyesülete” szöveg
 

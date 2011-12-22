@@ -1,1 +1,0 @@
-45. § A befektetési tevékenységet végző közhasznú szervezetnek befektetési szabályzatot kell készítenie, amelyet a legfőbb szerv – ha ilyet létrehoztak – a felügyelő szerv véleményének kikérését követően fogad el.

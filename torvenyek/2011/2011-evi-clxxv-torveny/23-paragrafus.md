@@ -1,1 +1,0 @@
-23. § Ha valamely évre vonatkozóan megállapítható, hogy a civil szervezet elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősült, az adóhatóság a civil szervezettel szemben törvényességi ellenőrzési eljárást kezdeményez.
