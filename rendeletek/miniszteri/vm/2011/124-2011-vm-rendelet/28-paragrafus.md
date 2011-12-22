@@ -1,0 +1,1 @@
+## „(5) A támogatás halmozódásának elkerülése érdekében az ügyfél köteles a támogatással érintett művelet megvalósításához igénybe vett valamennyi támogatásról a soron következő kifizetési kérelem benyújtásával egyidejűleg az MVH-t tájékoztatni.”

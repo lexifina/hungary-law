@@ -1,0 +1,3 @@
+## 31. § Az R. a következő 36/F. §-sal egészül ki:
+
+## „36/F. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet, és az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet módosításáról szóló 124/2011. (XII. 21.) VM rendelettel módosított 3. § 18. pontjának a rendelkezését a támogatás részletes feltételeit megállapító jogszabályokban is alkalmazni kell azzal, hogy ahol jogszabály TÉSZ-t említ, azon zöldség-gyümölcs termelői csoportok és termelői szervezeteket kell érteni.”

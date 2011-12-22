@@ -1,0 +1,1 @@
+## „(4) Kifizetési kérelmet az az ügyfél nyújthat be, aki az adott jogcím vonatkozásában rendelkezik az MVH által kibocsátott támogatási kérelemnek helyt adó vagy részben helyt adó jogerős támogatási határozattal. Technikai Segítségnyújtás intézkedés esetén kifizetési kérelem benyújtásához az ügyfélnek a finanszírozási kérelmet jóváhagyó döntési dokumentummal kell rendelkeznie.”
