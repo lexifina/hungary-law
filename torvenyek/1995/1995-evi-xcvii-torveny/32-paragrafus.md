@@ -1,1 +1,1 @@
-32. § A lajstromozásra nem kötelezett légijárművek vezetőinek képzését — a légiközlekedési hatóság engedélyével — gazdálkodó szervezet vagy társadalmi szervezet (repülő vagy ejtőernyős egyesület) végzi, amely a képzés feltételeiről és követelményeiről is gondoskodik.
+32. § A lajstromozásra nem kötelezett légijárművek vezetőinek képzését — a légiközlekedési hatóság engedélyével — gazdálkodó szervezet vagy repülő vagy ejtőernyős egyesület végzi, amely a képzés feltételeiről és követelményeiről is gondoskodik.
