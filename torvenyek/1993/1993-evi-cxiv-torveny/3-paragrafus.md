@@ -52,7 +52,7 @@ c) amelyet elismert tenyésztő szervezet a kisállatfajok meghatározott köré
 
 22. Tenyésztojás: olyan keltetésre alkalmas tojás, amelyet tenyészállat-előállítás céljára keltetnek és amelyből az utód továbbtenyésztésre kerülhet.
 
-23. Tenyésztő egyesület, illetve szövetség: a tenyésztők által létrehozott olyan társadalmi szervezet, amelyet a tenyésztési hatóság tenyésztő szervezetként elismer, és amely a tagjai által jóváhagyott és a tenyésztési hatóság által elismert tenyésztési programot hajt végre.
+23. Tenyésztő egyesület, illetve szövetség: a tenyésztők által létrehozott olyan egyesület, amelyet a tenyésztési hatóság tenyésztő szervezetként elismer, és amely a tagjai által jóváhagyott és a tenyésztési hatóság által elismert tenyésztési programot hajt végre.
 
 24. Tenyésztő szervezet: elismert tenyésztő egyesület, tenyésztő szövetség és tenyésztő vállalkozás.
 
