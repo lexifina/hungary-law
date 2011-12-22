@@ -1,5 +1,5 @@
 5. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is kell alkalmazni.
 
-(2)[^10]
+(2)[^11]
 
-[^10]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 34. pontja hatályon kívül helyezte.
+[^11]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 34. pontja hatályon kívül helyezte.
