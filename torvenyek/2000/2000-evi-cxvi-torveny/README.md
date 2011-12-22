@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-116-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2000-116-00-00.4 |
 | 2011-01-01 | 2010. évi CXXX. törvény | 2000-116-00-00.5 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2000-116-00-00.6 |
