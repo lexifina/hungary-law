@@ -4,4 +4,4 @@
 
 a) a kombinált figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, továbbá a dohánytermékek előállításának, forgalmazásának és ellenőrzésének a jövedéki törvény szabályozási körébe nem tartozó egyéb feltételeit,
 
-b) az egészségvédelmi bírság befizetésére és felhasználására, továbbá az egészségvédelmi érdekek képviseletét ellátó társadalmi szervezeteknek az egészségvédelmi bírság meghatározott arányában történő támogatására vonatkozó részletes szabályokat.”
+b) az egészségvédelmi bírság befizetésére és felhasználására, továbbá az egészségvédelmi érdekek képviseletét ellátó civil szervezeteknek az egészségvédelmi bírság meghatározott arányában történő támogatására vonatkozó részletes szabályokat.”

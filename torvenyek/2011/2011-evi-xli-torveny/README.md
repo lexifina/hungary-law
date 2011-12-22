@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-41-00-00
 | 2011-05-09 | 2011. évi XLI. törvény | 2011-41-00-00.0 (közlönyállapot) |
 | 2011-05-09 | 2011. évi LXXVI. törvény | 2011-41-00-00.1 |
 | 2011-05-10 | 2010. évi CXXX. törvény | 2011-41-00-00.2 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2011-41-00-00.3 |
