@@ -1,0 +1,9 @@
+# 76/2011. (XII. 21.) NFM rendelet
+
+a közcélú villamos hálózatra csatlakozás pénzügyi és műszaki feltételeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-76-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-12-22 | 2011-76-20-2W.1 | 76/2011. (XII. 21.) NFM rendelet |
