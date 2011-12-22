@@ -8,7 +8,7 @@ b) a meghatalmazottként vagy védőként eljárt ügyvéd nevét;
 
 c) az alperesként pervesztes természetes személy nevét, továbbá jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és székhelyét, amennyiben a határozatot olyan ügyben hozták, amelyben jogszabály alapján közérdekű igényérvényesítésnek helye van;
 
-d) a társadalmi szervezet vagy alapítvány nevét, székhelyét és képviselőjének nevét;
+d) az egyesület vagy alapítvány nevét, székhelyét és képviselőjének nevét;
 
 e) a közérdekből nyilvános adatokat.
 
