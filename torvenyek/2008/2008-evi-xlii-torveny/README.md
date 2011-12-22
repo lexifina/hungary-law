@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-42-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2009-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-42-00-00.4 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2008-42-00-00.5 |
