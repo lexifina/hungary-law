@@ -1,0 +1,1 @@
+## 2. § A biztosítók kötelesek számviteli politikájukban a kötelező gépjármű-felelősségbiztosítási termékükre vonatkozó bevételük és ráfordításuk felosztásának elvét a szokásos vállalkozási eredmény szintjéig rögzíteni.

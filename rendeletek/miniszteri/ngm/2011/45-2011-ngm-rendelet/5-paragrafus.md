@@ -1,0 +1,1 @@
+## 4. § Az e rendelet szerinti eredményelszámolást első alkalommal a 2011. évre a 2012-ben esedékes, a biztosítók kötelező gépjármű-felelősségbiztosítási termékére vonatkozó adatszolgáltatási kötelezettségéről szóló 18/2011. (X. 12.) PSZÁF rendeletben meghatározott adatszolgáltatás keretében kell elkészíteni és a Felügyeletnek megküldeni.

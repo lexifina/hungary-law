@@ -1,0 +1,3 @@
+1. § (1) A kötelező gépjármű-felelősségbiztosítási terméket terjesztő biztosítók kötelesek a gépjármű-felelősségbiztosítási termékük eredményelszámolását az 1. melléklet szerint elkészíteni és a tárgyévet követő évben a biztosítók kötelező gépjármű-felelősségbiztosítási termékére vonatkozó adatszolgáltatási kötelezettségéről szóló 18/2011. (X. 12.) PSZÁF rendeletben meghatározott adatszolgáltatás keretében a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) részére megküldeni.
+
+(2) Az eredményelszámolást a biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 192/2000. (XI. 24.) Korm. rendelet 2. számú melléklete „D) Szokásos vállalkozási eredmény” szintjéig kell elkészíteni.
