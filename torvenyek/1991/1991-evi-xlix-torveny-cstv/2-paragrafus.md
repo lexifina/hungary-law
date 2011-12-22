@@ -6,4 +6,4 @@
 
 (4) E törvénynek a felszámolási eljárásra vonatkozó rendelkezéseit a külföldi székhelyű magyar vállalkozások magyarországi fióktelepeire a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
-(5) E törvénynek a csődeljárásra, valamint a felszámolási eljárásra vonatkozó rendelkezéseit a sportegyesületekre is megfelelően alkalmazni kell.
+(5) Az egyesületekre és az alapítványokra e törvényt akkor kell alkalmazni, ha az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény másképpen nem rendelkezik.
