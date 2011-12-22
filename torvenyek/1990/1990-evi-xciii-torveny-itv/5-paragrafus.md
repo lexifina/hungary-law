@@ -6,7 +6,7 @@ b) a helyi önkormányzatok és azok társulásai,
 
 c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
 
-d) a társadalmi szervezet, a köztestület,
+d) az egyesület, a köztestület,
 
 e) az egyház, egyházak szövetsége, egyházi intézmény,
 
