@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-67-00-00
 | 2011-08-01 | 2011. évi CV. törvény | 1997-67-00-00.42 |
 | 2011-09-01 | 2010. évi CLXXXIII. törvény | 1997-67-00-00.43 |
 | 2011-10-15 | 2011. évi CXXXI. törvény | 1997-67-00-00.44 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1997-67-00-00.45 |
