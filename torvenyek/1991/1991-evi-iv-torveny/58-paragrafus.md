@@ -72,7 +72,7 @@ m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos
 
 n) alkalmi foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
 
-o) közhasznú tevékenység: a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 26. §-ának c) pontjában felsorolt tevékenységek,
+o) közhasznú tevékenység: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység,
 
 p) háztartás: az Szt. 4. §-a (1) bekezdésének f) pontjában meghatározott személyek,
 
