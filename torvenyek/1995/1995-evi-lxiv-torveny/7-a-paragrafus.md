@@ -8,7 +8,7 @@ a) ellátja a gyermekeket és fiatalokat (a továbbiakban: ifjúság) érintő k
 
 b) biztosítja a fiatalok képviselőinek részvételét az ifjúságot közvetlenül érintő kormányzati döntések előkészítésében;
 
-c) feladatainak ellátása során rendszeres kapcsolatot tart az országos hatáskörű szervekkel, közhasznú szervezetekkel, társadalmi szervezetekkel, közalapítványokkal és alapítványokkal, szakmai műhelyekkel, a települési, valamint a területi önkormányzatokkal, önkormányzati társulásokkal;
+c) feladatainak ellátása során rendszeres kapcsolatot tart az országos hatáskörű szervekkel, közhasznú szervezetekkel, egyesületekkel, közalapítványokkal és alapítványokkal, szakmai műhelyekkel, a települési, valamint a területi önkormányzatokkal, önkormányzati társulásokkal;
 
 d) ellátja a Kormány képviseletét a nemzetközi kormányközi ifjúsági kapcsolatokban;
 

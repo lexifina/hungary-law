@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-64-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2009-07-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 1995-64-00-00.6 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1995-64-00-00.7 |
