@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-96-00-00
 | 2010-09-16 | 2010. évi LXXXIX. törvény | 1993-96-00-00.37 |
 | 2011-01-01 | 2010. évi CLVIII. törvény | 1993-96-00-00.38 |
 | 2011-07-01 | 2011. évi CXII. törvény | 1993-96-00-00.39 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1993-96-00-00.40 |
