@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2011-08-26 | 2010. évi CXLVII. törvény | 1994-34-00-00.46 |
 | 2011-09-01 | 2011. évi CXII. törvény | 1994-34-00-00.47 |
 | 2011-10-11 | 2010. évi XL. törvény | 1994-34-00-00.48 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1994-34-00-00.49 |

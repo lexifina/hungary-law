@@ -30,7 +30,7 @@ m) a személyszállítást végző légi fuvarozóknak a légi közlekedésről 
 
 n) az ügyészség büntetőeljárási szakterületének ügyviteli nyilvántartásából,
 
-o) a bíróságok által vezetett nyilvántartásokból (cégnyilvántartás, társadalmi szervezetek és alapítványok nyilvántartása, gondnokoltak névjegyzéke),
+o) a bíróságok által vezetett nyilvántartásokból (cégnyilvántartás, civil szervezetek és alapítványok nyilvántartása, gondnokoltak névjegyzéke),
 
 p) a bírósági ügyviteli nyilvántartásból,
 
