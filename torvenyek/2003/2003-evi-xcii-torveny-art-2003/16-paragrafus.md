@@ -34,7 +34,7 @@ k) átalányadó választását;
 
 l) választása szerint a naptári évtől eltérő üzleti év mérlegforduló napját;
 
-m) közhasznú, kiemelkedően közhasznú szervezetként történő nyilvántartásba vételét.
+m) közhasznú szervezetként történő nyilvántartásba vételét.
 
 (4) A munkáltató és a kifizető (ideértve a kiegészítő tevékenységet folytatónak nem minősülő, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény – a továbbiakban: Tbj. – 4. § b) pontja szerinti egyéni vállalkozót és a biztosított mezőgazdasági őstermelőt, valamint a Tbj. 56/A. § szerinti kötelezettet) – adóazonosító számának, nevének, elnevezésének, székhelyének, telephelyének, lakóhelyének, továbbá jogelődje nevének és adószámának közlésével – az illetékes elsőfokú állami adóhatóságnak elektronikus úton vagy az erre a célra rendszeresített nyomtatványon bejelenti az általa foglalkoztatott biztosított természetes személyazonosító adatait, állampolgárságát, adóazonosító jelét, a biztosítási jogviszonyának kezdetét, kódját, megszűnését, a biztosítás szünetelésének időtartamát, a heti munkaidejét, a FEOR-számát, magán-nyugdíjpénztári tagság esetén feltünteti a pénztár nevét, azonosítóját. A bejelentést
 

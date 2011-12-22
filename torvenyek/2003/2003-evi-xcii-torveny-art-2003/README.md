@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2011-08-01 | 2011. évi CV. törvény | 2003-92-00-00.79 |
 | 2011-11-01 | 2011. évi CXXV. törvény | 2003-92-00-00.80 |
 | 2011-12-10 | 2011. évi CLXVI. törvény | 2003-92-00-00.81 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2003-92-00-00.82 |
