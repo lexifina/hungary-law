@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-48-00-00
 | 2010-08-11 | 2010. évi LXXXII. törvény | 2008-48-00-00.10 |
 | 2010-09-06 | 2010. évi LXXXII. törvény | 2008-48-00-00.11 |
 | 2011-01-01 | 2011. évi CXXV. törvény | 2008-48-00-00.12 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2008-48-00-00.13 |
