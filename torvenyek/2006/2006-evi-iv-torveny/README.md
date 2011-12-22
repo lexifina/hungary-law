@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-4-00-00
 | 2010-12-31 | 2010. évi CLXXIX. törvény | 2006-4-00-00.22 |
 | 2011-01-01 | 2010. évi CLIX. törvény | 2006-4-00-00.23 |
 | 2011-07-27 | 2011. évi CII. törvény | 2006-4-00-00.24 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2006-4-00-00.25 |
