@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2011-09-01 | 2011. évi CVI. törvény | 1997-80-00-00.53 |
 | 2011-11-30 | 2011. évi CLVI. törvény | 1997-80-00-00.54 |
 | 2011-12-01 | 2011. évi CLVI. törvény | 1997-80-00-00.55 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1997-80-00-00.56 |
