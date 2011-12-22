@@ -14,7 +14,7 @@ b) biztosító szövetkezet esetén: négy,
 
 c) biztosító egyesület esetén: kettő,
 
-d) a 126. § (4) bekezdésének b) pontja szerinti biztosító egyesület esetén, ha éves díjbevételének és tagsági hozzájárulásának együttes összege nem éri el a 126. § (4) bekezdésének bf) alpontjában meghatározott összeget: fél,
+d) a 126. § (4) bekezdésének b) pontja szerinti biztosító egyesület esetén, ha éves díjbevételének és tagdíjbevételének együttes összege nem éri el a 126. § (4) bekezdésének bf) alpontjában meghatározott összeget: fél,
 
 e) biztosítási szaktanácsadó, illetve külföldi biztosító, biztosításközvetítő, biztosítási szaktanácsadó magyarországi képviselete esetén: egy,
 

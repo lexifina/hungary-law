@@ -16,6 +16,6 @@ a) biztosító részvénytársaság esetén a gazdasági társaságokról szól�
 
 b) biztosító szövetkezet esetén a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Szvt.),
 
-c) biztosító egyesület esetén az egyesülési jogról szóló 1989. évi II. törvény (a továbbiakban: Et.),
+c) kölcsönös biztosító egyesület esetén a Ptk. és az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Etv.),
 
 d) fióktelep esetén a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) fióktelepre vonatkozó előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.

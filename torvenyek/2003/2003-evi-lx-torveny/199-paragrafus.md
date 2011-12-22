@@ -12,4 +12,6 @@
 
 (6) A felügyeleti biztos az általa megtett intézkedésekről a tulajdonosokat (tagokat) – írásbeli kérésükre – 3 napon belül írásban köteles tájékoztatni.
 
-(7)–(8)
+(7) Kölcsönös biztosító egyesület esetében, amennyiben az Etv. 11. § (3) bekezdésben foglalt körülmények valamelyike áll elő, a bíróság haladéktalanul értesíti a Felügyeletet.
+
+(8)

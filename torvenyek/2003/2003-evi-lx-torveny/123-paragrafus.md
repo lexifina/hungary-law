@@ -6,7 +6,7 @@
 
 a) a befizetett jegyzett tőke, illetve biztosító egyesület vagy szövetkezet esetén a tényleges alaptőke, ha a következő feltételek fennállnak:
 
-aa) az egyesület, a szövetkezet alapszabályában rendelkezni kell arról, hogy a tulajdonosok, tagok részére a saját tőke terhére kizárólag olyan mértékben lehet kifizetést teljesíteni, amelynek következtében a szavatoló tőke összege nem csökken a minimális szavatoló tőke szintje alá; a biztosító megszűnése esetén akkor, ha a biztosító egyéb kötelezettségeit rendezte,
+aa) az egyesület, a szövetkezet alapszabályában rendelkezni kell arról, hogy a tulajdonosok, tagok részére a saját tőke terhére – a biztosítási szerződésből eredő kötelezettségeken kívül – kizárólag olyan mértékben lehet kifizetést teljesíteni, amelynek következtében a szavatoló tőke összege nem csökken a minimális szavatoló tőke szintjének kétszerese, vagy – amennyiben magasabb – a minimális biztonsági tőke kétszerese alá; a biztosító megszűnése esetén akkor, ha a biztosító egyéb kötelezettségeit rendezte,
 
 ab) az egyesület vagy a szövetkezet alapszabályában rendelkezni kell arról, hogy minden tulajdonrész, tagi vagyonrész terhére történő, az egyesületi, a szövetkezeti tagsági viszony egyedi megszűnésétől eltérő okból bekövetkező kifizetésről a Felügyeletet legalább 1 hónappal a kifizetés előtt értesíteni kell, amely időtartamon belül a Felügyelet a kifizetést megtilthatja,
 

@@ -2,14 +2,18 @@
 
 (2) A biztosító biztosítási szerződésből származó kötelezettségeit az alábbi sorrendben teljesíti:
 
-a) az életbiztosítási és betegségbiztosítási szerződésből eredő kötelezettségek, továbbá a balesetbiztosítási szerződésből eredő, illetve a felelősségbiztosítási szerződésből eredő járadékfizetési kötelezettségek (a Kártalanítási Alapot megillető követelések kivételével),
+a) betegségbiztosítási szerződésből eredő kötelezettségek, továbbá a balesetbiztosítási szerződésből eredő, a felelősségbiztosítási szerződésből eredő járadékfizetési kötelezettségek (a Kártalanítási Alapot, Kártalanítási Számlát megillető követelések kivételével),
 
-b) a felszámolás kezdő időpontjáig bekövetkezett – és a Cstv.-ben meghatározott határidőn belül bejelentett – biztosítási események alapján elismert szolgáltatások,
+b) az életbiztosítási szerződésből eredő kötelezettségek,
 
-c) a Kártalanítási Alapot az általa teljesített szolgáltatások alapján megillető követelések,
+c) felelősségbiztosítási szerződésből eredő, a felszámolás kezdő időpontjáig bekövetkezett – és a Cstv.–ben meghatározott határidőn belül bejelentett – biztosítási események alapján elismert szolgáltatások (a Kártalanítási Alapot, Kártalanítási Számlát megillető követelések kivételével),
 
-d) az előre fizetett biztosítási díjakból származó visszafizetési kötelezettségek,
+d) a felszámolás kezdő időpontjáig bekövetkezett – és a Cstv.-ben meghatározott határidőn belül bejelentett – biztosítási események alapján elismert szolgáltatások,
 
-e) az egyéb követelések.
+e) a Kártalanítási Alapot, Kártalanítási Számlát az általa teljesített szolgáltatások alapján megillető követelések,
+
+f) az előre fizetett biztosítási díjakból származó visszafizetési kötelezettségek,
+
+g) az egyéb követelések.
 
 (3) Biztosító felszámolása esetén az eljárás felfüggesztésének nincs helye.

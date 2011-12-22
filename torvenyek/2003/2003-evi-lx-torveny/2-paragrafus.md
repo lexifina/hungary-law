@@ -12,7 +12,7 @@ e) az önkéntes kölcsönös biztosító pénztárak és a magánnyugdíjpénzt
 
 f) a nemzetközi gépjármű-biztosítási megállapodásból (Zöld Kártya Egyezmény) eredő feladatok ellátására,
 
-g) azon egyesületek tevékenységére, amelyeknél az alapszabály pótlólagos befizetésre, illetve a szolgáltatások csökkentésére hívja fel tagjait, és üzleti tevékenységük kizárólag az 1. számú melléklet A) részének 19. ágazatában szereplő kockázatra terjed ki, és a biztosítási díjbevétel és a tagsági hozzájárulás együttes összege nem haladhatja meg az évi 50 millió forintot, és az összes bevételnek legalább a felét az egyesület tagjai fizették be,
+g) azon egyesületek tevékenységére, amelyeknél az alapszabály pótlólagos befizetésre, illetve a szolgáltatások csökkentésére hívja fel tagjait, és üzleti tevékenységük kizárólag az 1. számú melléklet A) részének 19. ágazatában szereplő kockázatra terjed ki, és a biztosítási díjbevétel és a tagdíjbevétel együttes összege nem haladja meg az évi 50 millió forintot, és az összes bevételnek legalább a felét az egyesület tagjai fizették be,
 
 h) azon szervezetek tevékenységére, amelyek kizárólag halál esetére vállalják szolgáltatás nyújtását, ha a szolgáltatás összege nem haladja meg az egy halálesetre jutó, helyben szokásos temetési költséget, vagy a szolgáltatásokat természetben nyújtják,
 

@@ -1,5 +1,3 @@
-26. § A biztosító egyesület – az Et.-ben meghatározott eseteken túlmenően – megszűnik, ha
+26. § (1) A Felügyelet a kölcsönös biztosító egyesület biztonságos működése érdekében legfeljebb 90 százalékos viszontbiztosításba adási kötelezettséget írhat elő.
 
-a) az alapszabályban a működésére meghatározott időszak eltelt,
-
-b) alapítási vagy tevékenységi engedélyét a Felügyelet visszavonja.
+(2) A kölcsönös biztosító egyesület az általa vállalt kockázatot nem adhatja teljes egészében viszontbiztosításba.

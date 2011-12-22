@@ -1,4 +1,4 @@
-220. § (1) Biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe és a biztosító szövetkezet felszámolójának vagy végelszámolójának, továbbá a biztosító egyesület e törvény szerinti felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
+220. § (1) Biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe, biztosító szövetkezet és a kölcsönös biztosító egyesület felszámolójának vagy – a 126. § (4) bekezdés b) pontjának megfelelő kölcsönös biztosító egyesület végelszámolója kivételével – végelszámolójának, kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 
 (2) A felszámolót, végelszámolót a 153–165. §-okban előírt titoktartási kötelezettség terheli.
 

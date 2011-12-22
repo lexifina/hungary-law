@@ -1,3 +1,11 @@
-## A biztosító egyesület
+## A kölcsönös biztosító egyesület
 
-19. § A biztosító egyesület olyan önkéntesen létrehozott, kölcsönösségi alapon működő szervezet, amely kizárólag tagjai részére, nyereségérdekeltség nélkül, a tagsági hozzájárulás ellenében, a biztosítási feltételekben meghatározott biztosítási események bekövetkezése esetében, biztosítástechnikai elvek alapján, előre meghatározott szolgáltatást nyújt.
+19. § (1) A kölcsönös biztosító egyesület olyan kölcsönösségi alapon működő egyesület, amely kizárólag tagjával kötött szerződés alapján, biztosítási díj ellenében, a biztosítási feltételekben meghatározott biztosítási események bekövetkezése esetében, biztosítástechnikai elvek alapján, előre meghatározott szolgáltatást nyújt.
+
+(2) A kölcsönös biztosító egyesületbe történő belépés feltétele a biztosítási szerződés létrejötte.
+
+(3) A biztosítási szerződés megszűnésével – ha az egyesület alapszabálya másként nem rendelkezik – a tagsági jogviszony nem szűnik meg, feltéve, ha
+
+a) a tag eleget tesz a tagdíjfizetési kötelezettségének,
+
+b) a tagdíjfizetésre nem kötelezett tag eleget tesz a tagsági jogviszonyából eredő egyéb kötelezettségének és egy éven belül új biztosítást köt.

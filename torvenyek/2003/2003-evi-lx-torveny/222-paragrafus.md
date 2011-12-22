@@ -2,7 +2,7 @@
 
 a) a biztosítási szerződések a folyamatban lévő állományátruházás esetét kivéve megszűnnek;
 
-b) a megszűnt biztosítási szerződések esetében az esedékes biztosítási díjak nem szedhetők be;
+b) a megszűnt biztosítási szerződések esetében a megszűnés napjáig járó biztosítási díjak szedhetők be;
 
 c) új biztosítási szerződés nem köthető és nem hosszabbítható meg, biztosítási állomány – saját elhatározásból – nem adható és nem vehető át.
 

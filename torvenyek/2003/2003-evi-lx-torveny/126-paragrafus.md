@@ -22,7 +22,7 @@ b) nem-életbiztosítási ág művelése esetén tevékenységi köre a felelős
 
 (4) A (2) bekezdésben meghatározott összeg helyett a minimális biztonsági tőke összege:
 
-a) a (3) bekezdés szerinti egyesületnél – a b) pontban foglaltak kivételével – ha az egyesület éves díjbevételének és tagsági hozzájárulásának együttes összege az utolsó 3 üzleti évben:
+a) a (3) bekezdés szerinti egyesületnél – a b) pontban foglaltak kivételével – ha az egyesület éves díjbevételének és tagdíjbevételének együttes összege az utolsó 3 üzleti évben:
 
 aa) legalább egy alkalommal elérte az 1 milliárd 200 millió forintot, akkor a (2) bekezdésben meghatározott összeg 60 százaléka,
 
