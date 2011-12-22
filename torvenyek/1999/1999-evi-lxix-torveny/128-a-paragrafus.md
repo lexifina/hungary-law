@@ -1,4 +1,4 @@
-## A tulajdon elleni szabálysértésekre, valamint a feloszlatott társadalmi szervezet tevékenységében való részvétel szabálysértésére vonatkozó külön rendelkezések
+## A tulajdon elleni szabálysértésekre, valamint a feloszlatott egyesület tevékenységében való részvétel szabálysértésére vonatkozó külön rendelkezések
 
 128/A. § (1) A 152/B. §-ban, valamint a 157. § (1)–(3) bekezdésében meghatározott szabálysértés miatt a feljelentést a rendőrségnél kell megtenni; ha máshol tették meg, azt a rendőrséghez kell haladéktalanul továbbítani.
 
