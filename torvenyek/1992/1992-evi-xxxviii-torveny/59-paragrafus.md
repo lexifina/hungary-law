@@ -1,4 +1,4 @@
-59. § (1) Az alap terhére — ha törvény másként nem rendelkezik — alapítvány, egyházi jogi személy, társadalmi szervezet, közalapítvány, köztestület, gazdasági társaság — kivéve az alap pénzeszközeiből finanszírozott központi költségvetési szervek átalakítását ezen szervezeti formák valamelyikévé — nem alapítható, illetve gazdasági társaságban érdekeltség nem szerezhető.
+59. § (1) Az alap terhére — ha törvény másként nem rendelkezik — alapítvány, egyházi jogi személy, egyesület, közalapítvány, köztestület, gazdasági társaság — kivéve az alap pénzeszközeiből finanszírozott központi költségvetési szervek átalakítását ezen szervezeti formák valamelyikévé — nem alapítható, illetve gazdasági társaságban érdekeltség nem szerezhető.
 
 (2) Az (1) bekezdésben meghatározott szervezetek számára eseti, egyedi támogatás kizárólag az alap rendeltetése szerinti konkrét feladat megvalósítására adható.
 

@@ -8,4 +8,4 @@
 
 (5) Az alapok kezelői, a Magyar Nemzeti Vagyonkezelő Zrt. és az állami adóhatóság közötti megállapodásban kell az (1) bekezdés szerinti vagyon átadás-átvételének, értékesítésének, valamint nyilvántartásának szabályait részletesen rögzíteni.
 
-(6) A társadalombiztosítás pénzügyi alapjainak terhére alapítvány, egyházi jogi szervek, társadalmi szervezet, közalapítvány, köztestület, gazdasági társaság nem alapítható, illetve gazdasági társaságban érdekeltség nem szerezhető.
+(6) A társadalombiztosítás pénzügyi alapjainak terhére alapítvány, egyházi jogi szervek, egyesület, közalapítvány, köztestület, gazdasági társaság nem alapítható, illetve gazdasági társaságban érdekeltség nem szerezhető.

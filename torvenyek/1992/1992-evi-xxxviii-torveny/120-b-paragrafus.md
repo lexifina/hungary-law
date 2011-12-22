@@ -6,7 +6,7 @@ a) a kormánydöntések végrehajtásának ellenőrzésére,
 
 b) a központi költségvetés, az elkülönített állami pénzalapok, a társadalombiztosítás pénzügyi alapjai, és – a Kormány irányítása vagy felügyelete alá nem tartozó költségvetési szervek kivételével – a központi költségvetési szervek kormányzati ellenőrzésére,
 
-c) a gazdálkodó szervezeteknek, a közalapítványoknak, a köztestületeknek, az alapítványoknak, a kistérségi, megyei, térségi és regionális területfejlesztési tanácsoknak és – a pártok kivételével – a társadalmi szervezeteknek a központi költségvetésből, alapokból juttatott pénzbeli és nem pénzbeli támogatások – ideértve a nemzetközi szerződések alapján kapott támogatásokat és segélyeket is –, és az említett szervezetek részére az állam által meghatározott célra ingyenesen juttatott vagyon felhasználásának ellenőrzésére,
+c) a gazdálkodó szervezeteknek, a közalapítványoknak, a köztestületeknek, az alapítványoknak, a kistérségi, megyei, térségi és regionális területfejlesztési tanácsoknak és – a pártok kivételével – a egyesületeknek a központi költségvetésből, alapokból juttatott pénzbeli és nem pénzbeli támogatások – ideértve a nemzetközi szerződések alapján kapott támogatásokat és segélyeket is –, és az említett szervezetek részére az állam által meghatározott célra ingyenesen juttatott vagyon felhasználásának ellenőrzésére,
 
 d) a tartósan állami tulajdonban lévő, valamint az olyan gazdasági társaságok – ide nem értve az MNB-t – ellenőrzésére, amelyekben az állam a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685/B. §-a szerint többségi befolyással rendelkezik,
 
