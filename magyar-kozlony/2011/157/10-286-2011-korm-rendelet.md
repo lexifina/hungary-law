@@ -1,0 +1,46 @@
+# A Kormány 286/2011. (XII. 22.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 157. szám, 2011. december 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/815db2c605c0444ef9152d58780894dc35e5a8c1/dokumentumok/1d27fc30668c856a6cb9cf118dbf714ca464dbc7/letoltes)
+
+---
+
+A Kormány 286/2011. (XII. 22.) Korm. rendelete
+a büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi
+szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások
+átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet
+módosításáról
+A Kormány a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 35. § (1) bekezdés b) pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában
+fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének
+rendjéről szóló 44/2011. (III. 23.) Korm. rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) A büntetés-végrehajtási szervezetet – a Kormány, a kormánybizottságok, az autonóm államigazgatási szervek,
+önálló szabályozó szervek kivételével, továbbá a (3) bekezdésben meghatározott kivétellel – a központi
+államigazgatási szervek, a rendvédelmi szervek, az egészségügyért felelős miniszter irányítása alatt álló, az
+egészségügy területén működő országos intézetek, valamint az állam tulajdonába, illetve fenntartásába tartozó
+egészségügyi intézmények, továbbá a szociál- és nyugdíjpolitikáért felelős miniszter irányítása és felügyelete alá
+tartozó szociális intézmények, valamint a Magyar Honvédség (a továbbiakban együtt: Kedvezményezett) részére,
+a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körében, a megkötött
+ellátási megállapodás vagy szerződés alapján, az e célra rendelkezésre bocsátott források erejéig ellátási kötelezettség
+terheli.”
+(2) Az R. 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Kedvezményezett ellátása az ellátási megállapodással érintett, a fogvatartottak kötelező foglalkoztatása
+keretében előállított termékek és szolgáltatások körében – törvényben vagy kormányrendeletben meghatározott
+kivétellel – kizárólag a Központi Ellátó Szerv útján valósul meg. Az ellátási kötelezettség – a (2a) bekezdésben
+meghatározott kivétellel – a nettó 100 000 forintot (a továbbiakban:ellátási kötelezettség minimális értéke) elérő vagy
+meghaladó igényekre terjed ki.”
+(3) Az R. 1. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A Kedvezményezett a hulladékgazdálkodás tevékenységi körbe tartozó szolgáltatásnak a Központi Ellátó Szerv
+útján történő igénybevételére az ellátási kötelezettség minimális értékére tekintet nélkül kötelezett.”
+2. § Az R. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Kedvezményezett beszerzési tevékenységének szervezése nem irányulhat arra, hogy a beszerzései e rendelet
+szabályainak megkerülése céljából ne érjék el az ellátási kötelezettség minimális értékét, továbbá arra, hogy
+
+a teljesítési határidő meghatározása során figyelmen kívül hagyja a Központi Ellátó Szerv beszerzését meghatározó, az
+e rendeletben, valamint a további jogszabályokban meghatározott eljárások időigényét.”
+3. § Az R. 5. § (2) bekezdésében a „2003. évi CXXIX. törvény 2/A. § (1) bekezdésében” szövegrész helyébe a „2011. évi
+CVIII. törvény 9. § (1) bekezdés k) pontjában” szöveg lép.
+4. § Ez a rendelet 2012. január 1-jén lép hatályba és a hatálybalépését követő napon a hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök

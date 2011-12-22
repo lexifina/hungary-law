@@ -1,0 +1,262 @@
+# A Kormány 295/2011. (XII. 22.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 157. szám, 2011. december 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/815db2c605c0444ef9152d58780894dc35e5a8c1/dokumentumok/1d27fc30668c856a6cb9cf118dbf714ca464dbc7/letoltes)
+
+---
+
+A Kormány 295/2011. (XII. 22.) Korm. rendelete
+a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi,
+rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó
+sajátos szabályokról szóló 228/2004. (VII. 30.) Korm. rendelet módosításáról
+A közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdésének 13. pontjában kapott felhatalmazás alapján
+– az Alaptörvény 15. § (3) bekezdésében meghatározott feladatkörében eljárva – a Kormány a következőket rendeli el:
+1. § (1) A védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk
+beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokról szóló 228/2004. (VII. 30.) Korm.
+rendelet (a továbbiakban: Rend.) 2. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A rendeletet nem kell alkalmazni)
+„a) a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági
+intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendeletben meghatározott
+esetekben;”
+
+(2) A Rend. 2. § (2) bekezdése a következő (h) ponttal egészül ki:
+„h) a 412 000 EUR értékhatárt el nem érő, a fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy
+teljesített szolgáltatások beszerzésére.”
+2. §
+A Rend. 4. § l) pontja helyébe a következő rendelkezés lép:
+„l) katonai célú építési beruházás: a HM vagyonkezelésében lévő, illetve a HM, a HM közvetlen alárendeltségébe,
+közvetlen és fenntartói irányítása, valamint felügyelete alá tartozó szervezetek és a Magyar Honvédség katonai
+szervezetei használatában lévő épületen, építményen, építményrészen, építményegyüttesen és ingatlanon – ideértve
+az ingatlanokhoz közvetlenül tartozó nyomvonal jellegű építményeket – meg valósuló, a közbeszerzésekről szóló
+2011. évi CVIII. törvény (a továbbiakban: Közbeszerzési tv.) szerinti építési beruházás.”
+3. §
+(1) A Rend. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A beszerzési eljárás a Közbeszerzési tv.-ben meghatározott közbeszerzési eljárásokon túl különleges eljárás lehet.
+A nyílt eljárás alkalmazása kizárt. Hirdetmény közzététele nélküli tárgyalásos és különleges eljárást, valamint
+versenypárbeszédet csak akkor lehet alkalmazni, ha azt e rendelet megengedi.”
+(2) A Rend. 9. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A meghívásos és a tárgyalásos eljárásra, valamint a versenypárbeszédre egyébként – ha e rendelet másként nem
+rendelkezik – a 17–53. §-okat kell megfelelően alkalmazni.”
+4. §
+(1) A Rend. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ajánlatkérő az árubeszerzésre vagy szolgáltatásnyújtásra irányuló beszerzések esetén a 400 000 EUR értéket
+elérő, vagy azt meghaladó értékű beszerzéseiről, építési beruházásra irányuló beszerzés esetén az 5 000 000 EUR
+értéket elérő, vagy azt meghaladó értékű beszerzéseiről az Európai Bizottságnak (a továbbiakban: Bizottság)
+a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és az 1564/2005/EK
+rendelet
+hatályon
+kívül
+helyezéséről
+ szóló
+842/2011/EU
+rendeletének
+(a
+továbbiakban:
+Rendelet)
+XVI–XVII. mellékletében foglaltak szerinti tartalommal az ajánlatkérő a hirdetményeket megküldi az Európai Unió
+Kiadóhivatalának.”
+(2) A Rend. 10. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A hirdetmény, vagy annak tartalma a Bizottság részére történő elküldésének időpontja előtt nemzeti szinten nem
+tehető közzé.”
+5. §
+(1) A Rend. 10/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 10. § (1) bekezdésben meghatározott értékhatárt el nem érő értékű beszerzésekről a hirdetményeket a 2., 3., 5.,
+és 7. számú mellékletekben meghatározott tartalommal az ajánlatkérő a honlapján teszi közzé. Az ajánlatkérő
+tájékoztató jelleggel a hirdetményt – a honlapon történő közzétételt követően – bármilyen más fórumon
+megjelentetheti. Az így közzétett hirdetmény nem tartalmazhat más adatokat, mint amelyek a honlapon
+megjelentek.”
+(2) A Rend. 10/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A keretmegállapodások esetében az ajánlatkérő nem köteles a keretmegállapodáson alapuló minden egyes
+szerződés esetében hirdetményt küldeni a beszerzési eljárás eredményéről.”
+6. §
+A Rend. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ajánlatkérő a részvételi felhívásban, az ajánlattételi felhívásban vagy a dokumentációban köteles megadni
+a beszerzés tárgyára vonatkozó műszaki leírást.”
+7. §
+A Rend. 22. § (4) bekezdés a)–b) pontja helyébe a következő rendelkezés lép:
+(A biztosítékot vissza kell fizetni)
+„a) az ajánlattevők részére az ajánlattételi felhívás visszavonását, ajánlatának érvénytelenné nyilvánítását, illetőleg
+az eljárás eredményének kihirdetését követő tizennégy napon belül;
+b) a nyertes ajánlattevő, valamint – a 47. § (2) bekezdése szerinti esetben – a második legkedvezőbb ajánlatot tevő
+részére a szerződéskötést követő tizennégy napon belül, kivéve, ha a biztosíték az ajánlattételi felhívás szerint
+a megkötött szerződést biztosító mellékkötelezettséggé válik;”
+
+8. § A Rend. 25. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+„b) ha az adott állam, illetékes bírósága vagy hatósága nem bocsát ki a 23. § vagy 24. § szerinti kivonatot vagy
+igazolást, vagy azok nem terjednek ki a 23. § vagy 24. §-ban hivatkozott esetek mindegyikére, vagy ha a kibocsátásra
+jogosított szervek eljárási időtartama meghaladja az ajánlattételi határidőt, az ajánlattevő (alvállalkozó) eskü alatt tett
+nyilatkozatát, vagy ha ilyen nyilatkozat nem ismert az érintett országban, az ajánlattevő (alvállalkozó) által az illetékes
+bíróság, hatóság, közjegyző, kamara vagy szakmai szervezet előtt tett, vagy általuk hitelesített nyilatkozatot.”
+9. § A Rend. 29. §-a a következő (4a)–(4b) bekezdéssel egészül ki:
+„(4a) Ha több ajánlattevő közösen tesz ajánlatot, vagy ha több részvételre jelentkező közösen nyújt be részvételi
+jelentkezést, a szerződés teljesítésére való alkalmassá minősítéshez az ajánlattevők vagy részvételre jelentkezők
+együttesen is megfelelhetnek, kivéve, ha az ajánlatkérő ettől eltérően rendelkezik.
+(4b) A 27. § (1) bekezdés a) és b) pontja szerint igazolható alkalmassági minimum követelményen kívüli alkalmassági
+minimum követelményeknek az ajánlattevő a beszerzés értékének tíz százalékát nem meghaladó mértékben igénybe
+venni kívánt alvállalkozóval együtt is megfelelhet. A beszerzés értékének tíz százalékát nem meghaladó mértékben
+igénybe venni kívánt alvállalkozó az előírt igazolási módokkal azonos módon köteles igazolni az adott alkalmassági
+feltételnek történő megfelelést, továbbá az ajánlatnak tartalmaznia kell ezen alvállalkozó nevét, címét.”
+10. § A Rend. 35. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ajánlatkérő az ajánlattételi határidő, illetve a részvételi határidő lejártáig módosíthatja a felhívásban, illetőleg
+a dokumentációban meghatározott feltételeket. A módosított feltételekről e határidő lejárta előtt az 5. számú
+melléklet szerinti hirdetményt kell közzétenni, illetve a nem hirdetménnyel induló eljárásban és a kétszakaszos eljárás
+ajánlattételi szakaszában erről egyidejűleg, közvetlenül tájékoztatni kell az ajánlattételre felhívott gazdasági
+szereplőket. Módosítás esetén új ajánlattételi, illetve részvételi határidőt kell megállapítani. A nem hirdetménnyel
+induló eljárásbanés a kétszakaszoseljárás ajánlattételi szakaszábanaz új ajánlattételi határidőt úgy kell meghatározni,
+hogy elegendő idő álljon rendelkezésre a megfelelő ajánlat elkészítésére.”
+11. § (1) A Rend. 49. §-át megelőző alcím helyébe a következő alcím lép:
+„Összegezés”
+(2) A Rend. 49. §-a helyébe a következő rendelkezés lép:
+„49. § Az ajánlatkérő a részvételi jelentkezések, illetve az ajánlatok elbírálásának befejezésekor a 6. számú melléklet
+szerint írásbeli összegezést köteles készíteni a részvételi jelentkezésekről, illetve az ajánlatokról.”
+12. § A Rend. 50. § (1) bekezdése helyébe a következő rendelkezés lép:
+„50. § (1) A részvételi jelentkezéseket, illetve az ajánlatokat a lehető legrövidebb időn belül kell az ajánlatkérőnek
+elbírálniaésazt követőena részvételiszakasz,illetveazeljáráseredményérőlvagy eredménytelenségérőlszólóírásbeli
+összegezést megküldenie.”
+13. § A Rend. 52. §-a helyébe a következő rendelkezés lép:
+„52. § (1) Az ajánlatkérő a részvételi jelentkezések elbírálásáról készített összegezés részvételre jelentkezők részére
+történő megküldésétől az ajánlattételi határidő lejártáig egy alkalommal jogosult az írásbeli összegezést módosítani,
+szükség esetén az érvénytelenségről szóló tájékoztatást visszavonni, továbbá új ajánlattételi határidő kitűzésével
+a részvételre jelentkezőnek ajánlattételi felhívást küldeni, ha az eredmény megküldését követően észleli, hogy
+az eredmény (eredménytelenség) jogsértő volt és a módosítás a jogsértést orvosolja. Az ajánlatkérő a módosított
+írásbeli összegezést köteles faxon vagy elektronikus úton haladéktalanul, egyidejűleg az összes részvételre
+jelentkezőnek megküldeni.
+(2) Az ajánlatkérő az ajánlatok elbírálásáról készített írásbeli összegezést az ajánlattevők részére történő
+megküldésétől számított huszadik napig egy alkalommal jogosult módosítani, szükség esetén az érvénytelenségről
+szóló tájékoztatást visszavonni, továbbá a már megkötött szerződéstől elállni, ha az eredmény megküldését követően
+észleli, hogy a kihirdetett eredmény vagy eredménytelenség jogsértő volt, és a módosítás a jogsértést orvosolja.
+Az ajánlatkérő a módosított írásbeli összegezést köteles faxon vagy elektronikus úton haladéktalanul, egyidejűleg
+az összes ajánlattevőnek megküldeni.
+(3) Az írásbeli összegezésben észlelt bármely elírást (névcserét, hibás névírást, szám- vagy számítási hibát vagy más
+hasonló elírást) az ajánlatkérő kérelemre vagy kérelem hiányában is kijavíthatja. A kijavított írásbeli összegezést
+
+az ajánlatkérő legkésőbb az eredmény megküldését követő tíz napon belül köteles egyidejűleg megküldeni az összes
+ajánlattevőnek, illetve részvételre jelentkezőnek.
+(4) A beszerzési eljárás a szerződés megkötésével zárul le, vagy ha az eljárás eredménytelen, az eredménytelenségről
+szóló írásbeli összegezés megküldésének időpontjával.”
+14. § (1) A Rend. 53. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A szerződéskötés tervezett időpontját az ajánlattételi felhívásban kell megadni azzal, hogy arra nem kerülhet sor
+az írásbeli összegezésfaxon vagy elektornikus úton való megküldését követő naptól számított tizedik nap lejárta előtt,
+valamint kilencvenedik napnál későbbi időpontban.”
+(2) A Rend. 53. § (6)–(7) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az ajánlatkéső a 47. § szerinti szervezettel vagy személlyel szemben csak abban az esetben mentesül a szerződés
+megkötésének kötelezettsége alól, ha az összegezés megküldését követően – általa előre nem látható és
+elháríthatatlan ok következtében – beállott lényeges körülmény miatt a szerződés megkötésére vagy teljesítésére
+nem képes.
+(7) Az ajánlatkérő a szerződés, illetve a keretmegállapodás megkötésétől számított 48 napon belül a Rendeletben
+XVI–XVII. mellékletében meghatározott hirdetményt tesz közzé a beszerzési eljárás eredményéről.”
+15. § A Rend. 53/A. § (3)–(4) bekezdése helyébe a következő rendelkezés lép:
+„(3) A versenypárbeszédre a Közbeszerzési tv. versenypárbeszédre vonatkozó rendelkezéseit (101–107. §) kell
+e rendeletben meghatározott eltérésekre figyelemmel alkalmazni.
+(4) Nyílt eljárás helyett hirdetmény közzétételével induló tárgyalásos eljárást kell érteni a Közbeszerzési tv. 102. §
+(1) bekezdés a) és b) pontjában.”
+16. § (1) A Rend. 74/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ajánlatkérők keretmegállapodásokat alkalmazhatnak. A keretmegállapodásra a Közbeszerzési tv.
+keretmegállapodásra vonatkozó rendelkezéseit (108–110. §) kell e rendeletben meghatározott eltérésekre
+figyelemmel alkalmazni.”
+(2) A Rend. 74/C. §-a a következő (9) bekezdéssel egészül ki:
+„(9) Nyílt eljárás helyett hirdetmény közzétételével induló tárgyalásos eljárást kell érteni a Közbeszerzési tv. 108. §
+(2) bekezdés a) pontjában.”
+17. § (1) A Rend. 76. §-át megelőző alcím helyébe a következő alcímek lépnek:
+„Előzetes vitarendezés, jogorvoslat”
+(2) A Rend. 76. §-a helyébe a következő rendelkezés lép:
+„76. § (1) Előzetes vitarendezés kezdeményezésére jogosult
+a) a jogsértő eseményről való tudomásszerzést követő öt napon belül az ajánlattevő, illetve részvételre jelentkező,
+ha álláspontja szerint egészben vagy részben jogsértő az írásbeli összegezés, illetve az ajánlatkérő bármely eljárási
+cselekménye vagy a beszerzési eljárásban keletkezett bármely – a b) pont szerintieken kívüli – dokumentum;
+b) az a személy, akinek érdekében áll vagy állhat egy adott szerződés elnyerése, és akinek az állítólagos jogsértés kárt
+okoz vagy okozhat (e § alkalmazásában a továbbiakban együtt: kérelmező), az ajánlattételi, vagy részvételi határidő
+lejárta előtti tizedik napig, gyorsított, vagy rendkívüli sürgősségre tekintettel indított hirdetmény nélküli tárgyalásos
+eljárásban e határidők lejártáig, ha álláspontja szerint egészben vagy részben jogsértő az ajánlattételi vagy részvételi
+felhívás, a dokumentáció, vagy azok módosítása.
+(2) A kérelmezőnek az ajánlatkérőhöz benyújtott kérelmében (a továbbiakban: előzetes vitarendezési kérelem) meg
+kell jelölnie az írásbeli összegezés vagy egyéb dokumentum, vagy eljárási cselekmény jogsértőnek tartott elemét,
+továbbá a kérelmező javaslatát, észrevételét, valamint az álláspontját alátámasztó adatokat, tényeket, továbbá az azt
+alátámasztó dokumentumokra – ha vannak ilyenek – hivatkoznia kell.
+(3) Az előzetes vitarendezési kérelmet faxon vagy elektronikus úton kell megküldeni az ajánlatkérő részére, aki
+a kérelemmel kapcsolatos álláspontjáról a vitarendezést kérelmezőt a kérelem megérkezésétől számított hét napon
+belül a benyújtási módnak megegyező módon tájékoztatja, továbbá az előzetes vitarendezési kérelem benyújtásáról,
+valamintaz arra adott válaszárólaz eljárásvalamennyi– általaismert – ajánlattevőjét,illetverészvételrejelentkezőjétis
+tájékoztatja.
+
+(4) Az ajánlatkérő az előzetes vitarendezés eredményeként az írásbeli összegezést módosíthatja, amennyiben
+a módosítás a jogsértést orvosolja.
+(5) Az ajánlatkérő az előzetes vitarendezési kérelem megérkezésétől számított öt napon belül akkor is jogosult egy
+alkalommal az ajánlattevőket (részvételre jelentkezőket) ötnapos határidővel hiánypótlás [42. §], felvilágosítás [43. §]
+vagy indokolás [44. §] benyújtására felhívni, amennyiben az eljárás szabályai szerint erre már nem lenne lehetőség, ha
+az eljárásban történt jogsértés ezen eljárási cselekmények útján orvosolható. Ebben az esetben az ajánlatkérő
+az előzetes vitarendezési kérelem benyújtásáról a hiánypótlási felhívás, a felvilágosítás vagy indokolás kérésének
+megküldésével egyidejűleg tájékoztatja a kérelmezőt és az ajánlattevőket (részvételre jelentkezőket).
+(6) Az (5) bekezdésszerintiesetbena kérelmetaz ajánlatkérőannakbeérkezésétőlszámított tizenöt naponbelülbírálja
+el. Az ajánlatkérő a kérelemre adott, indokolással ellátott válaszát, illetve a módosított írásbeli összegezést faxon vagy
+elektronikus úton az érintett ajánlattevőknek (részvételre jelentkezőknek) egyidejűleg megküldi.
+(7) Amennyiben valamely ajánlattevő az (1) bekezdés szerinti határidőben és a (2) bekezdésnek megfelelően előzetes
+vitarendezési kérelmet nyújtott be az ajánlatok bontását követően történt eljárási cselekménnyel, keletkezett
+dokumentummal kapcsolatban, az ajánlatkérő a kérelem benyújtásától a válaszának megküldését követő tizedik
+napig akkor sem kötheti meg a szerződést (ha részajánlat tétele lehetséges volt a beszerzés érintett részére vonatkozó
+szerződést), ha eddig az időpontig a szerződéskötési tilalmi időszak egyébként lejárna. Ebben az esetben
+az ajánlatkérő felhívhatja az érvényes ajánlatot tevő ajánlattevőket ajánlataik fenntartására.
+(8) Az ajánlatkérő– a (7) bekezdéstől eltérően – dönthet úgy, hogy a kérelem benyújtása nem jár felfüggesztő hatállyal
+és megkötheti a szerződést, ha felfüggesztés következményei vagy a szerződéskötés elmaradása súlyosan
+veszélyeztetnék a kiemelkedően fontos védelmi, biztonsági érdekeket.
+(9) A felfüggesztő hatály (8) bekezdés szerinti mellőzése nem érinti az ajánlatkérő kötelezettségét a kérelemben
+foglaltak elbírálására. Amennyiben az ajánlatkérő a kérelem elbírálása során olyan jogsértést tár fel, amely a 76. §
+(4)–(6) bekezdéseszerintnemorvosolható,ésaszerződéstmárjogellenesenodaítélte,kötelesaszerződésidőtartamát
+lerövidíteni legfeljebb az új eljárás eredményes befejezéséig oly módon, hogy azzal ne veszélyeztessen kiemelkedően
+fontos védelmi, biztonsági érdekeket.”
+18. § A Rend. a 76/A. § bekezdése helyébe a következő rendelkezés lép:
+„76/A. § (1) Az e rendeletbe ütköző magatartás vagy mulasztás miatt a Közbeszerzési tv. Ötödik része szerinti
+jogorvoslatnak van helye.
+(2) A jogorvoslati eljárás lefolytatása a Közbeszerzési Döntőbizottság hatáskörébe tartozik.
+(3) A Közbeszerzési Döntőbizottság által lefolytatott jogorvoslati eljárás érdemi határozatának Közbeszerzési tv.
+szerinti bírósági felülvizsgálata kérhető.”
+19. § (1) A Rend. 1. számú melléklet XI. fejezet bevezető szövegrésze helyébe a következő rendelkezés lép:
+„Az EU közös katonai listáján másutt meg nem határozott elektronikai berendezések, vezetés-irányítási rendszerek és
+kapcsolódó szolgáltatások, valamint kifejezetten ezekhez tervezett részegységek a következők szerint”
+(2) A Rend. 1. számú melléklet XI. fejezete a következő c) ponttal egészül ki:
+„c) Vezetési, Irányítási (Command and Control – C2), Vezetési, Irányítási, Hírközlési (Command, Control and
+Communications – C3), Vezetési, Irányítási, Hírközlési és Hírszerzési (Command, Control, Communications and
+Intelligence – C3I), Vezetési, Irányítási, Hírközlési, Számítástechnikai és Hírszerzési (Command, Control,
+Communications,Computer and Intelligence– C4I) képességek,rendszerek,rendszerelemek,berendezések,eszközök
+és kapcsolódó szolgáltatások.”
+20. § A Rend. 1. számú melléklet XXI. fejezet b) pont 4. alpontja helyébe a következő rendelkezés lép:
+„4. Vezetési, Irányítási (Command and Control – C2), Vezetési, Irányítási, Hírközlési (Command, Control and
+Communications – C3), Vezetési, Irányítási, Hírközlési és Hírszerzési (Command, Control, Communications and
+Intelligence – C3I), Vezetési, Irányítási, Hírközlési, Számítástechnikai és Hírszerzési (Command, Control,
+Communications, Computer and Intelligence – C4I) rendszer alkalmazások, vagy azok részelemei;”
+21. § A Rend. 4. számú melléklet 3. pontja helyébe a következő rendelkezés lép:
+„3. A szerződés meghatározása, amire ajánlatot kérnek:”
+
+22. §
+(1) A Rend. 2. § (2) bekezdés f) pontjában az „ajánlatkérő fizeti meg; vagy” szövegrész helyében az „ajánlatkérő fizeti meg;”
+szöveg lép.
+(2) A Rend. 2. § (2) bekezdés g) pontjában a „meg valósuló beszerzésekre.” szövegrész helyébe a „meg valósuló
+beszerzésekre; vagy” szöveg lép.
+(3) A Rend. 7/A. § (1) bekezdésében az „ajánlati és az ajánlattételi felhívás” szövegrész helyébe az „ajánlattételi felhívás”
+szöveg lép.
+(4) A Rend. 7/A. § (5) bekezdésében az „(1) és (3) vagy (4) bekezdésben” szövegrész helyébe az „(1), (3) vagy
+(4) bekezdésben” szöveg lép.
+(5) A Rend. 18. § (1) és (2) bekezdésében, a 19. § (3) bekezdésében, a 19. § (5) bekezdés c) pontjában, a 21. §
+(1) bekezdésében, a (3) bekezdés felvezető szövegrészében, az (5) bekezdésében, a 22. § (1) bekezdésében,
+a (4) bekezdés c) pontjában, a 23. § (3) bekezdésében, a 24. § felvezető szövegrészében, a 26. § (1) bekezdésében,
+a 29. § (2) bekezdésében, a 30. §-ban, a 31. § (1) bekezdésében, a 38. § (1) és (3) bekezdésében, a 39. § (3) bekezdésében,
+a 40. § (1) bekezdésében, a 42. § (1) bekezdésében, a 45. § (1) bekezdés a) és e) pontjában, a 46. § (1) bekezdésében,
+a 47. § (1) és (2) bekezdésében, az 50. § (4) bekezdésében az „ajánlati felhívásban” szövegrész helyébe az „ajánlattételi
+felhívásban” szöveg lép.
+(6) A Rend. 24. § b) pontjában az „1996. évi LVII. törvény 11. §-a (2) bekezdésének e) pontjával” szövegrész helyébe
+az „1996. évi LVII. törvény 11. §-sal” szöveg lép.
+(7) A Rend. 69. § (1) bekezdésében az „az ajánlattételi felhívás” szövegrész helyébe az „a 4. számú melléklet szerinti
+ajánlattételi felhívás” szöveg lép.
+(8) A Rend. 74/G. § (4) bekezdésében a „hirdetményt kell közzétennie a 10. melléklet szerinti tartalommal” szövegrész
+helyébe a „hirdetményt kell közzétennie” szöveg lép.
+23. §
+(1) Ez a rendelet 2012. január 1-jén lép hatályba.
+(2) Ez a rendelet a hatálybalépését követő napon hatályát veszti.
+(3) Hatályát veszti a Rend. 50. § (2) bekezdése és a 69. § (2) bekezdése, a 2. számú melléklet 7. e) pontja, a 3. számú
+melléklet 8. a) pontja, a 4. számú melléklet 12. a) pontja, 10. számú melléklete.
+24. §
+Ez a rendelet a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra
+irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról,
+valamint a 2004/17/EK és 2004/18/EK irányelv módosításáról szóló 2009. július 13-i 2009/81/EK európai parlamenti
+és tanácsi irányelvnek való megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
