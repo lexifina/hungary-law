@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-11-00-00
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1997-11-00-00.19 |
 | 2011-03-01 | 2010. évi CXLVIII. törvény | 1997-11-00-00.20 |
 | 2011-03-09 | 2011. évi XIV. törvény | 1997-11-00-00.21 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1997-11-00-00.22 |
