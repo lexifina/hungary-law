@@ -12,9 +12,9 @@ c) a bűncselekményt üzletszerűen követi el.
 
 (3) Aki az (1) bekezdésben meghatározott bűncselekményt
 
-a) gazdálkodó szervezet vagy társadalmi szervezet dolgozójával, illetve tagjával kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel,
+a) gazdálkodó szervezet vagy egyesület dolgozójával, illetve tagjával kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel,
 
-b) gazdálkodó szervezet vagy társadalmi szervezet önálló intézkedésre jogosult dolgozójával, illetve tagjával kapcsolatban követi el, bűntett miatt három évig terjedő szabadságvesztéssel
+b) gazdálkodó szervezet vagy egyesület önálló intézkedésre jogosult dolgozójával, illetve tagjával kapcsolatban követi el, bűntett miatt három évig terjedő szabadságvesztéssel
 
 büntetendő.
 

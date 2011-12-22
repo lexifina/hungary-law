@@ -12,7 +12,7 @@ b) nem lehet hivatalos személy,
 
 c) nem működhet népképviseleti szerv testületében (bizottságában),
 
-d) nem viselhet tisztséget társadalmi szervezetben, köztestületben, közalapítványban,
+d) nem viselhet tisztséget civil szervezetben, köztestületben, közalapítványban,
 
 e) nem érhet el katonai rendfokozatot,
 
