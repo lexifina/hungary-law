@@ -16,9 +16,9 @@ e) megszűnésének megállapításával.
 
 (2) A bíróság az ügyészség indítványára megállapítja a párt megszűnését, ha az tevékenységével felhagy és vagyonáról nem rendelkezik.
 
-(3) A bíróság az ügyészség indítványára — a párt társadalmi szervezetként való további működésének érintetlenül hagyásával — megállapítja a párt működésének megszűnését, ha a párt egymást követő két általános országgyűlési képviselői választáson nem állít jelöltet.
+(3) A bíróság az ügyészség indítványára — a párt egyesületként való további működésének érintetlenül hagyásával — megállapítja a párt működésének megszűnését, ha a párt egymást követő két általános országgyűlési képviselői választáson nem állít jelöltet.
 
-(4) A (3) bekezdésben említett esetben a társadalmi szervezet megszűnésének vagyoni következményeire továbbra is e törvény rendelkezései az irányadóak.
+(4) A (3) bekezdésben említett esetben a egyesület megszűnésének vagyoni következményeire továbbra is e törvény rendelkezései az irányadóak.
 
 (5) A párt feloszlása esetén a párt bejegyzett képviselője a következő tartalmú közleményt köteles megjelentetni a Magyar Közlönyben:
 
