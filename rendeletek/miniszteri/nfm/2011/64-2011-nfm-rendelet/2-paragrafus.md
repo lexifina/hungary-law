@@ -38,7 +38,7 @@ b) az a) pont alá nem tartozó rendszerhasználók esetében elosztói alapdíj
 
 (5) A közép/kisfeszültségű csatlakozás, valamint a kisfeszültségű csatlakozás esetében a teljesítmény és a mérés jellemzői alapján az elosztási díjak eltérőek
 
-a) a)–b) pont alá nem tartozó – profil elszámolású felhasználók részére,
+a)[^1] a – b) pont alá nem tartozó – profil elszámolású felhasználók részére,
 
 b) a vezérelt felhasználók részére, akik
 
@@ -51,3 +51,5 @@ vételeznek,
 c) a nem profil elszámolású felhasználók részére.
 
 (6) A VET 142/A. § (2) bekezdése szerinti kiegyenlítő fizetések érdekében a Magyar Energia Hivatal (a továbbiakban: Hivatal) az elosztók által fizetendő átviteli-rendszerirányítási díj mértékét az egyéb rendszerhasználók által a villamos energia rendszer vételezésre történő használatáért fizetendő átviteli-rendszerirányítási díjtól eltérő mértékben állapítja meg.
+
+[^1]: A 2. § (5) bekezdés a) pontja a 76/2011. (XII. 21.) NFM rendelet 11. § (7) bekezdése szerint módosított szöveg.
