@@ -10,4 +10,6 @@
 
 ## megjelölésű, a támogatási konstrukciók részletes bemutatását tartalmazó táblázatát.
 
-1. melléklet az 1276/2011. (VIII. 10.) Korm. határozathoz
+1. melléklet az 1276/2011. (VIII. 10.) Korm. határozathoz[^2]
+
+[^2]: Az 1. mellékletet az 1453/2011. (XII. 22.) Korm. határozat 3. pont a) alpontja visszavonta.
