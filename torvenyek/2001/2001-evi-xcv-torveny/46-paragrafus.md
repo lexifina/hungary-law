@@ -24,7 +24,7 @@ h) a nem katonai felsőoktatási intézményeknél,
 
 i) a tudományos (kutató) és kulturális intézményeknél,
 
-j) a honvédelmi vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervezetnél, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetnél, illetve társadalmi szervezetnél,
+j) a honvédelmi vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervezetnél, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetnél, illetve egyesületnél,
 
 k) a bíróságoknál és az Országos Igazságszolgáltatási Tanács Hivatalában,
 

@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-95-00-00
 | 2010-07-01 | 2009. évi CXLII. törvény | 2001-95-00-00.36 |
 | 2010-12-01 | 2010. évi XCV. törvény | 2001-95-00-00.37 |
 | 2011-01-01 | 2010. évi CLXXX. törvény | 2001-95-00-00.38 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2001-95-00-00.39 |
