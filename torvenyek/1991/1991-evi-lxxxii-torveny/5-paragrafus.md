@@ -4,7 +4,7 @@
 
 a) a költségvetési szerv,
 
-b) a társadalmi szervezet, az alapítvány a tulajdonában lévő gépjármű után, feltéve, ha a tárgyévet megelőző évben társasági adófizetési kötelezettsége nem keletkezett,
+b) a egyesület, az alapítvány a tulajdonában lévő gépjármű után, feltéve, ha a tárgyévet megelőző évben társasági adófizetési kötelezettsége nem keletkezett,
 
 c) az autóbusz, ha az adóalany a tárgyévet megelőző évben elért számviteli törvény szerinti nettó árbevételének legalább 75%-a helyi és helyközi menetrendszerinti közúti tömegközlekedés folytatásából származott. A feltétel teljesüléséről az adóalanynak nyilatkoznia kell,
 
