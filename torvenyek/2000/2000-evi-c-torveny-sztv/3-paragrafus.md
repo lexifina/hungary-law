@@ -14,7 +14,7 @@ a) a lakásszövetkezet,
 
 b) a társasház,
 
-c) a társadalmi szervezet, a köztestület,
+c) az egyesület, a köztestület,
 
 d) az egyházi jogi személy,
 
