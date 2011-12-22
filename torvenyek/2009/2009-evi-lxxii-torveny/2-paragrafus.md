@@ -24,7 +24,7 @@ i) az áldozatsegítés és a kárenyhítés feladatait ellátó szervezetek,
 
 j) a menekülteket befogadó állomás, a menekültek átmeneti szállása,
 
-k) a társadalmi szervezetek, alapítványok.
+k) az egyesületek, alapítványok.
 
 (2) Az (1) bekezdésben meghatározott intézmények és személyek kötelesek jelezni a családvédelmi koordinációért felelős szervnek, ha hozzátartozók közötti erőszak veszélyét észlelik.
 
