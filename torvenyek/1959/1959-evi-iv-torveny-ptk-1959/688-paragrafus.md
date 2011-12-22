@@ -159,3 +159,13 @@ a polgári perrendtartásról szóló 1952. évi III. törvény hatálybaléptet
 a szállítási szerződésekről szóló 50/1955. (VIII. 19.) MT rendelet 13. §-ának (1) bekezdése, valamint 16. §-ának (3) bekezdése;
 
 a döntőbizottságokról és a döntőbizottsági eljárásról szóló 51/1955. (VIII. 19.) MT rendelet 28. §-ának (2) bekezdése, 42. §-ának (1)–(6) és (8) bekezdése;
+
+az állami kiskereskedelmi vállalatok árurészletügyleteiről szóló 5/1956. (II. 21.) MT rendelet 2. és 3. §-a;
+
+a lakásbérletről szóló 35/1956. (XI. 30.) MT rendelet 13. §-ának (2)–(4) bekezdése, 15. §-a, 17. §-ának (2) bekezdése, 21. §-ának (3) bekezdése, 23. §-a, 29. §-a, 44. §-a (2) bekezdés b) pontjának a bérlet felmondásával kapcsolatos rendelkezése;
+
+az egyesületek feletti felügyelet és ellenőrzés szabályozásáról szóló 3/1957. (I. 20.) Korm. rendelet;
+
+a lakásbérletről szóló 35/1956. (IX. 30.) MT rendelet végrehajtása tárgyában kibocsátott 15/1957. (III. 7.) Korm. rendelet 31. §-a;
+
+az új szövetkezeti törvény megalkotásáról szóló 1.088/1956. (IX. 4.) Mt. h.;

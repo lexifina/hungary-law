@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1959-4-00-00
 | 2011-07-01 | 2011. évi LXXV. törvény | 1959-4-00-00.92 |
 | 2011-08-10 | 2011. évi CIX. törvény | 1959-4-00-00.93 |
 | 2011-11-01 | 2011. évi CXXXIV. törvény | 1959-4-00-00.94 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1959-4-00-00.95 |
