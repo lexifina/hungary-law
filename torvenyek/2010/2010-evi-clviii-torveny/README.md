@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-158-00-00
 | 2010-12-23 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-158-00-00.1 |
 | 2011-03-12 | 2011. évi XIII. törvény | 2010-158-00-00.2 |
 | 2011-04-30 | 2011. évi CXXII. törvény | 2010-158-00-00.3 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2010-158-00-00.4 |
