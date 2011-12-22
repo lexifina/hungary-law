@@ -28,7 +28,7 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 5. a nem megállapodás alapján befizetett saját társadalombiztosítási járulék;
 
-6. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az önálló tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó társadalmi szervezet számára tagdíj címén fizetett összeg;
+6. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az önálló tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
 7. a megrendelő, a vevő által igazolt szavatossági és jótállási költség;
 

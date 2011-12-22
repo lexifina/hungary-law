@@ -46,7 +46,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 6. a nem megállapodás alapján befizetett saját társadalombiztosítási járulék, egészségügyi szolgáltatási járulék;
 
-7. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az egyéni vállalkozói tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó társadalmi szervezet számára tagdíj címén fizetett összeg;
+7. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az egyéni vállalkozói tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
 8. a megrendelő, a vevő által igazolt szavatossági és jótállási költség;
 
