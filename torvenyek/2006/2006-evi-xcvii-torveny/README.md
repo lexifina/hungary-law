@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-97-00-00
 | 2011-04-01 | 2011. évi XXIII. törvény | 2006-97-00-00.5 |
 | 2011-06-01 | 2011. évi XXIII. törvény | 2006-97-00-00.6 |
 | 2011-07-01 | 2011. évi LXXXI. törvény | 2006-97-00-00.7 |
+| 2011-12-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-97-00-00.8 |

@@ -26,7 +26,7 @@ f) nyilvántartást vezet a tagjairól;
 
 g) közreműködik a kötelező továbbképzések elveinek meghatározásában, azok betartásának ellenőrzésében és továbbképzést szervez;
 
-h) feladatkörében együttműködik az egészségügy területén működő társadalmi szervezetekkel, véleményének, illetve döntéseinek kialakításába – szükség szerint – bevonja az érintett egészségügyi érdek-képviseleti szerveket;
+h) feladatkörében együttműködik az egészségügy területén működő civil szervezetekkel, véleményének, illetve döntéseinek kialakításába – szükség szerint – bevonja az érintett egészségügyi érdek-képviseleti szerveket;
 
 i) ellátja azokat a további feladatokat, amelyeket törvény a hatáskörébe utal, illetve azokat az érintettek megállapodása alapján átadott feladatokat, amelyek átvételét állami, helyi önkormányzati vagy egészségbiztosítási szervektől jogszabály nem tiltja;
 
