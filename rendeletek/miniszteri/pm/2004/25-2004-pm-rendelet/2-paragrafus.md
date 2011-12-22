@@ -1,1 +1,0 @@
-## 1. § Az összevont alapú felügyelet alá tartozó biztosítók (a továbbiakban: biztosító) kötelesek a Bit. 180. §-ának (1) bekezdése szerint belső adatszolgáltatást teljesíteni a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) részére.

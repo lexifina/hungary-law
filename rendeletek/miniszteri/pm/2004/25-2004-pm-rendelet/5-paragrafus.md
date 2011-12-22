@@ -1,1 +1,0 @@
-## 4. § A Bit. 147. §-ának (2) bekezdésében meghatározott konszolidált éves beszámolót az ezen rendelet 5. számú melléklete szerinti táblázatok kitöltésével is teljesíteni kell. Az e táblázatok kitöltéséhez szükséges kitöltési útmutatót a 6. számú melléklet tartalmazza.
