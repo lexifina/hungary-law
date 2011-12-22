@@ -1,4 +1,4 @@
-65. § (1) A természeti területek és értékek jogellenes károsítása, veszélyeztetése esetén a természet védelme érdekében a természetvédelmi célú társadalmi szervezetek jogosultak fellépni, és
+65. § (1) A természeti területek és értékek jogellenes károsítása, veszélyeztetése esetén a természet védelme érdekében a természetvédelmi célú egyesületek jogosultak fellépni, és
 
 a) állami szervektől, önkormányzatoktól a megfelelő és hatáskörükbe tartozó intézkedés megtételét kérni, vagy
 
