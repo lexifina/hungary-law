@@ -380,7 +380,7 @@ elérhetőség:
 
 az Önhöz fűződő kapcsolata (pl. rokon, barát, munkatárs stb.):
 
-– Van-e valamilyen társadalmi szervezetben, egyéb civil szervezetben tagsági viszonya, tisztsége stb.? Ha igen, hol és milyen kötelezettségekkel jár?
+– Van-e valamilyen civil szervezetben tagsági viszonya, tisztsége stb.? Ha igen, hol és milyen kötelezettségekkel jár?
 
 érintett:
 
