@@ -32,7 +32,7 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 5. nonprofit szervezet:
 
-a) a társadalmi szervezet,
+a) az egyesület,
 
 b) az alapítvány,
 
