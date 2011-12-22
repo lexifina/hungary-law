@@ -38,9 +38,18 @@ g) a mezőgazdasági tevékenységet a támogatási határozat kézhezvételét 
 
 (5)[^12] A (4) bekezdés d) pontjában meghatározottak esetében a támogatásra jogosult ügyfél számára megengedett az üzleti tervben megnevezett termékek helyettesítése más ágazatok (állattenyésztés, kertészet, növénytermesztés) termékeivel is.
 
+(6)[^13] A terhességi-gyermekágyi segélyben, gyermekgondozási díjban vagy gyermekgondozási segélyben (a továbbiakban együtt: családtámogatási ellátás) részesülő ügyfél a mezőgazdasági üzem vezetésébe az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti közreműködőt vonhat be. A közreműködő bevonásának tényét teljes bizonyító erejű magánokiratba kell foglalni, a 2. számú melléklet szerinti adattartalommal. A teljes bizonyító erejű magánokirat másolatát a közreműködő bevonásának kezdetétől számított 8 munkanapon belül meg kell küldeni az MVH részére.
+
+(7)[^14] Amennyiben az ügyfél a mezőgazdasági üzem vezetésébe már korábban közreműködőt vont be, akkor legkésőbb 2012. február 28-ig kell a teljes bizonyító erejű magánokirat másolatát az MVH részére megküldeni.
+
+(8)[^15] A mezőgazdasági üzem személyes vezetésének minősül a támogatásra jogosult ügyfél általi személyes vezetés, továbbá a (6) bekezdés szerinti közreműködő bevonásával történő mezőgazdasági üzem vezetése.
+
 [^7]: A 4. § a 138/2007. (XI. 17.) FVM rendelet 3. §-ával megállapított szöveg.
 [^8]: A 4. § (1) bekezdés a) pontja a 105/2008. (VIII. 14.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^9]: A 4. § (3) bekezdése a 49/2008. (IV. 23.) FVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^10]: A 4. § (4) bekezdésének d) pontja a 95/2009. (VII. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2007. december 3. és 2008. február 7. között benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^11]: A 4. § (4) bekezdés f) pontja a 105/2008. (VIII. 14.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^12]: A 4. § (5) bekezdését a 95/2009. (VII. 30.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2007. december 3. és 2008. február 7. között benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^13]: A 4. § (6) bekezdését a 123/2011. (XII. 21.) VM rendelet 1. §-a iktatta be.
+[^14]: A 4. § (7) bekezdését a 123/2011. (XII. 21.) VM rendelet 1. §-a iktatta be.
+[^15]: A 4. § (8) bekezdését a 123/2011. (XII. 21.) VM rendelet 1. §-a iktatta be.
