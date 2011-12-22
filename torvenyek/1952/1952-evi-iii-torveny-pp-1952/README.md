@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2011-06-29 | 2011. évi LXVII. törvény | 1952-3-00-00.84 |
 | 2011-07-13 | 2011. évi LXXXIX. törvény | 1952-3-00-00.85 |
 | 2011-08-03 | 2011. évi CVII. törvény | 1952-3-00-00.86 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 1952-3-00-00.87 |

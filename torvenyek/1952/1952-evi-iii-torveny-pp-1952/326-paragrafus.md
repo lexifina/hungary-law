@@ -44,7 +44,7 @@ f) a területfejlesztésről és a területrendezésről szóló törvény,
 
 g) az Országos Területrendezési Tervről szóló törvény,
 
-h) a Nemzeti Civil Alapprogramról szóló törvény,
+h) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény,
 
 i) az árak megállapításáról szóló törvény,
 

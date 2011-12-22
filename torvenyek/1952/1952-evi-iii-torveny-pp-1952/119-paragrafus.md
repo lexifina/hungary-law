@@ -20,7 +20,7 @@ a) törvény eltérő rendelkezésének hiányában az állami vagy helyi önkor
 
 b) a meghatalmazottként eljárt jogi képviselő nevét;
 
-c) a társadalmi szervezet vagy alapítvány képviselőjének nevét;
+c) az egyesület vagy alapítvány képviselőjének nevét;
 
 d) a közérdekből nyilvános adatokat.
 
