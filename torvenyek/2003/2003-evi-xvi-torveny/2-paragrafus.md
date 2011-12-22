@@ -38,7 +38,7 @@
 
 20. magántárolási támogatás: az egyes termékpálya-szabályozásokban meghatározott módon, a tárolási költségek csökkentését célzó támogatási forma;
 
-21. terméktanács: a törvény hatálya alá tartozó azonos vagy hasonló terméket termelő, feldolgozó, viszonteladó és forgalmazó szervezetek és személyek az egyesülési jogról szóló 1989. évi II. törvény alapján létrehozott, bírósági nyilvántartásba vett és az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által 2002. december 31-ig elismert, nem nyereségérdekelt szervezete. A hegyközségekről szóló 1994. évi CII. törvény alapján köztestületként alakult hegyközségek országos szervezetét az általa képviselt termékpálya vonatkozásában – külön miniszteri elismerés nélkül –, terméktanácsnak kell tekinteni;
+21. terméktanács: a törvény hatálya alá tartozó azonos vagy hasonló terméket termelő, feldolgozó, viszonteladó és forgalmazó szervezetek és személyek az egyesülési jogról szóló törvény alapján létrehozott, bírósági nyilvántartásba vett és az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által 2002. december 31-ig elismert, nem nyereségérdekelt szervezete. A hegyközségekről szóló 1994. évi CII. törvény alapján köztestületként alakult hegyközségek országos szervezetét az általa képviselt termékpálya vonatkozásában – külön miniszteri elismerés nélkül –, terméktanácsnak kell tekinteni;
 
 22. forgalmazó: aki a törvény hatálya alá tartozó terméket fogyasztói forgalomba hoz;
 
