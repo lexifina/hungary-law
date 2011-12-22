@@ -1,6 +1,6 @@
-## 13. §[^22] E rendelet alapján a 2011. évtől kezdődően támogatási kérelem nem nyújtható be.
+## 14. §[^27] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelet módosításáról szóló 123/2011. (XII. 21.) VM rendelettel (a továbbiakban: 123/2011. (XII. 21.) VM rendelet megállapított 4. § (7)–(9) bekezdését, 9. § (1) bekezdését a 7. számú mellékletét a 123/2011. (XII. 21.) VM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-1. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^23]
+1. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^28]
 
-[^22]: A 13. §-t a 74/2011. (VII. 29.) VM rendelet 10. § (1) bekezdése iktatta be.
-[^23]: Az 1. számú melléklet a 124/2009. (IX. 24.) FVM rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^27]: A 14. §-t a 123/2011. (XII. 21.) VM rendelet 8. §-a iktatta be.
+[^28]: Az 1. számú melléklet a 124/2009. (IX. 24.) FVM rendelet 27. § (1) bekezdése szerint módosított szöveg.

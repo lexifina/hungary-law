@@ -56,8 +56,17 @@ előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek.
 
 (6) Azon támogatásra jogosult ügyfél, aki a támogatási kérelem benyújtásakor megadott tevékenységgel releváns elismert termelői csoporthoz, illetve zöldség-gyümölcs termelői csoporthoz, termelői szervezethez való csatlakozási szándékát jelezte, köteles a működtetési időszak végéig a tagságát fenntartani, illetve az üzleti tervben megnevezett termékek más termékcsoportba tartozó termékekkel való helyettesítése esetén a tevékenységgel kapcsolatos termékcsoportban működő elismert termelői csoport, illetve zöldség-gyümölcs termelői csoport, termelői szervezet tagság kialakítására és fenntartására.
 
+(7)[^9] A terhességi-gyermekágyi segélyben, gyermekgondozási díjban vagy gyermekgondozási segélyben (a továbbiakban együtt: családtámogatási ellátás) részesülő ügyfél a mezőgazdasági üzem vezetésébe az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti közreműködőt vonhat be. A közreműködő bevonásának tényét teljes bizonyító erejű magánokiratba kell foglalni, a 7. számú melléklet szerinti adattartalommal. A teljes bizonyító erejű magánokirat másolatát a közreműködő bevonásának kezdetétől számított 8 munkanapon belül meg kell küldeni az MVH részére.
+
+(8)[^10] Amennyiben az ügyfél a mezőgazdasági üzem vezetésébe már korábban közreműködőt vont be, akkor legkésőbb 2012. február 28-ig kell a teljes bizonyító erejű magánokirat másolatát az MVH részére megküldeni.
+
+(9)[^11] A mezőgazdasági üzem személyes vezetésének minősül a támogatásra jogosult ügyfél általi személyes vezetés, továbbá a (7) bekezdés szerinti közreműködő bevonásával történő mezőgazdasági üzem vezetése.
+
 [^4]: A 4. § (1) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^5]: A 4. § (3) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (3) bekezdésével megállapított szöveg.
 [^6]: A 4. § (3) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^7]: A 4. § (4) bekezdés c) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (4) bekezdésével megállapított szöveg.
 [^8]: A 4. § (4) bekezdés i) pontja a 15/2010. (IX. 3.) VM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 4. § (7) bekezdését a 123/2011. (XII. 21.) VM rendelet 6. §-a iktatta be.
+[^10]: A 4. § (8) bekezdését a 123/2011. (XII. 21.) VM rendelet 6. §-a iktatta be.
+[^11]: A 4. § (9) bekezdését a 123/2011. (XII. 21.) VM rendelet 6. §-a iktatta be.
