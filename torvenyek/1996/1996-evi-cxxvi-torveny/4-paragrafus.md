@@ -2,13 +2,13 @@
 
 a) azon
 
-aa) az egyesülési jogról szóló 1989. évi II. törvény szerinti társadalmi szervezet (kivéve a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet), amelyet a bíróság a magánszemély rendelkező nyilatkozata évének első napja előtt legalább két évvel, és
+aa) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil. tv.) szerinti egyesület (kivéve a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet), amelyet a bíróság a magánszemély rendelkező nyilatkozata évének első napja előtt legalább két évvel, és
 
 ab) alapítvány, amelyet a bíróság a magánszemély rendelkező nyilatkozata évének első napja előtt legalább két évvel, továbbá
 
-ac) kiemelkedően közhasznú alapítvány, társadalmi szervezet és közalapítvány, amelyet a bíróság a rendelkező nyilatkozat évének első napja előtt legalább egy évvel – vagy ez idő letelte előtt, amennyiben az aa–ab) pontban foglalt feltételeknek egyébként megfelel –, kiemelkedően közhasznú szervezetként
+ac) közhasznú alapítvány, egyesület és közalapítvány, amelyet a bíróság a rendelkező nyilatkozat évének első napja előtt legalább egy évvel – vagy ez idő letelte előtt, amennyiben az aa)–ab) pontban foglalt feltételeknek egyébként megfelel –, közhasznú szervezetként
 
-jogerősen nyilvántartásba vett, és az alapszabálya, illetőleg az alapító okirata szerint a rendelkező nyilatkozat(ok) évét megelőző év első napja óta megszakítás nélkül – a közhasznú szervezetekről szóló 1997. évi CLVI. törvény (a továbbiakban: Ksztv.) 26. § c) pontjában meghatározott – közhasznú tevékenységgel ténylegesen foglalkozik;
+jogerősen nyilvántartásba vett, és az alapszabálya, illetőleg az alapító okirata szerint a rendelkező nyilatkozat(ok) évét megelőző év első napja óta megszakítás nélkül – Civil tv.-ben meghatározott – közhasznú tevékenységgel ténylegesen foglalkozik;
 
 b) a Magyar Tudományos Akadémia;
 
@@ -34,19 +34,21 @@ g) a felsőoktatásról szóló 2005. évi CXXXIX. törvény 1. számú mellékl
 
 h) a Magyar Kármentő Alap.
 
+h) a Nemzeti Együttműködési Alap.
+
 (2) Az (1) bekezdés a) pontjában megjelöltek közül kizárólag az a szervezet lehet kedvezményezett, amely
 
 a) belföldi székhelyű, és
 
 b) magyarországi közösség, illetőleg a határon túli magyarság érdekében működik, és
 
-c) alapszabálya, alapító okirata szerint megfelel a Ksztv. 4. § (1) bekezdésének d) pontja – ezzel összefüggésben a 26. §-ának d) pontja – szerinti feltételnek, és
+c) alapszabálya, alapító okirata szerint megfelel a Civil tv. 34. § (1) bekezdés d) pontja szerinti feltételnek, és
 
 d) nyilatkozik arról, hogy a rendelkező nyilatkozat évének augusztus 1. napja és az általa tett nyilatkozat időpontja között nem volt olyan lejárt esedékességű köztartozása, amelyre fizetési halasztást vagy részletfizetési kedvezményt nem kapott, és
 
 e) nyilatkozik arról, hogy az alapszabálya, alapító okirata szerinti közhasznú tevékenységét a rendelkező nyilatkozat évét megelőző év első napja óta megszakítás nélkül ténylegesen folytatja;
 
-f) az (1) bekezdés ac) pontjában meghatározott kiemelkedően közhasznú alapítvány, társadalmi szervezet a szerződés másolatának az adóhatósághoz történő becsatolásával igazolja, hogy tevékenységét állami szervvel vagy önkormányzattal a rendelkező nyilatkozat évének első napja előtt legalább egy évvel kötött szerződés alapján végzi;
+f) az (1) bekezdés ac) pontjában meghatározott közhasznú alapítvány, egyesület a szerződés másolatának az adóhatósághoz történő becsatolásával igazolja, hogy tevékenységét állami szervvel vagy önkormányzattal a rendelkező nyilatkozat évének első napja előtt legalább egy évvel kötött szerződés alapján végzi;
 
 g) nyilatkozik arról, hogy
 
