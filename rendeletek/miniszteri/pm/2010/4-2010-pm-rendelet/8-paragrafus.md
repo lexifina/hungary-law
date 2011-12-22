@@ -1,3 +1,0 @@
-8. § (1) Az Alap kezelőjének e rendelet 2. és 3. számú melléklet szerinti, a Felügyelet részére történő adatszolgáltatási kötelezettsége a felszámolás alatt álló biztosítóval szemben fennálló követelés Alapra történő átszállásának időpontja által érintett évtől kezdődően az Alap helytállási kötelezettségének teljes időtartama során folyamatosan fennáll.
-
-(2) Az Alap köteles az (1) bekezdésben meghatározott időtartam során minden naptári évet követően az e rendelet 2. és 3. számú mellékletét az eredmény-elszámolással együtt és azzal egyidejűleg a Felügyelet részére – elektronikus úton, a Felügyelet KAP jelentésfogadó rendszerén keresztül – megküldeni.
