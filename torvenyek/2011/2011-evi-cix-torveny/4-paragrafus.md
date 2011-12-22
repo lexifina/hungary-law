@@ -28,7 +28,7 @@ k) együttműködik a magyarországi országos művészeti szervezetekkel, valam
 
 l) együttműködik az országos audiovizuális közszolgálati médiaszolgáltatókkal,
 
-m) támogathatja a különböző művészeti ágak országos társadalmi szervezeteit,
+m) támogathatja a különböző művészeti ágak országos civil szervezeteit,
 
 n) jogszabály vagy egyedi megkeresés, felkérés alapján képviseli a művészeket közfeladat ellátásában közreműködő különböző döntés-előkészítő, véleményező és egyéb testületekben, szervezetekben,
 

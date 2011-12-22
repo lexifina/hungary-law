@@ -6,7 +6,7 @@
 
 (3) A Szervező Bizottság feladata az alakuló közgyűlésen részt vevők minősítése és regisztrációja.
 
-(4) Az MMA alakuló közgyűlésén az 1992. január 31-én alapított Magyar Művészeti Akadémia társadalmi szervezet azon tagjai vehetnek részt, akik 2011. január 1-jén rendes tagjai voltak a társadalmi szervezetnek és megfelelnek a 7. § (1) bekezdésben támasztott feltételeknek, és amennyiben erre irányuló szándékukat a törvény hatálybalépését követő 45 napon belül a Szervező Bizottság felhívására és részére írásban kinyilvánítják.
+(4) Az MMA alakuló közgyűlésén az 1992. január 31-én alapított Magyar Művészeti Akadémia civil szervezet azon tagjai vehetnek részt, akik 2011. január 1-jén rendes tagjai voltak civil szervezeteknek és megfelelnek a 7. § (1) bekezdésben támasztott feltételeknek, és amennyiben erre irányuló szándékukat a törvény hatálybalépését követő 45 napon belül a Szervező Bizottság felhívására és részére írásban kinyilvánítják.
 
 (5) Az alakuló közgyűlést a (4) bekezdés szerinti körben az (1) bekezdésben meghatározottak szerint a Szervező Bizottság hívja össze. Az alakuló közgyűlés dönt az Alapszabály elfogadásáról, megválasztja az elnököt, a két alelnököt, a főtitkárt, a közgyűlés által választandó egyéb elnökségi tagokat és a felügyelő testület egy tagját.
 
