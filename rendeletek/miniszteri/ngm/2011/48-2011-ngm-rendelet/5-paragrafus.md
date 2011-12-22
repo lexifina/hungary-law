@@ -1,0 +1,1 @@
+## 4. § Az e rendelet szerinti eredményelszámolást első alkalommal a 2011. évre a 2012-ben esedékes, a Kártalanítási Számla kezelője adatszolgáltatási kötelezettségéről szóló 15/2011. (X. 7.) PSZÁF rendeletben meghatározott adatszolgáltatás keretében kell elkészíteni és a Felügyeletnek megküldeni.
