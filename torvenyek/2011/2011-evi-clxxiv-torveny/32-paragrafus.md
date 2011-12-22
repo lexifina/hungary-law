@@ -1,1 +1,0 @@
-32. § Az elektronikus aláírásról szóló 2001. évi XXXV. törvény 2. számú melléklet c) pontjában a „nevét” szövegrész helyébe a „nevét (jogi személy vagy jogi személyiség nélküli szervezet esetében elnevezését)” szöveg lép.
