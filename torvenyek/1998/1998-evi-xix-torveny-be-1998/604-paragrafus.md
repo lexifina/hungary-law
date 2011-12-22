@@ -61,5 +61,3 @@ b) a fegyveres szervet irányító miniszter, hogy az igazságügyért felelős 
 c) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
 
 rendeletben megállapítsa.
-
-(5) Felhatalmazást kap
