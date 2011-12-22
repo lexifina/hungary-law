@@ -14,7 +14,7 @@ d) véleményt nyilvánít a környezetvédelmet érintő közösségi jogalkot�
 
 (3) A Tanácsban egyenlő arányban vesznek részt
 
-a) a környezetvédelmi céllal bejegyzett társadalmi szervezetek, valamint
+a) a környezetvédelmi céllal bejegyzett egyesületek, valamint
 
 b) a szakmai és gazdasági érdekképviseleti szervek a maguk által meghatározott módon választott,
 

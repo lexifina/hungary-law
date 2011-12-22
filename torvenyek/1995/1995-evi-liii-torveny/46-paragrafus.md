@@ -10,7 +10,7 @@ b) önálló települési környezetvédelmi programot dolgoz ki a 48/E. §-ban 
 
 c) a környezetvédelmi feladatok megoldására önkormányzati rendeletet bocsát ki, illetőleg határozatot hoz;
 
-d) együttműködik a környezetvédelmi feladatot ellátó egyéb hatóságokkal, más önkormányzatokkal, társadalmi szervezetekkel;
+d) együttműködik a környezetvédelmi feladatot ellátó egyéb hatóságokkal, más önkormányzatokkal, egyesületekkel;
 
 e) elemzi, értékeli a környezet állapotát illetékességi területén, és arról szükség szerint, de legalább évente egyszer tájékoztatja a lakosságot;
 

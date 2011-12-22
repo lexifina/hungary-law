@@ -1,6 +1,6 @@
-## A környezetvédelmi társadalmi szervezetek jogai
+## A környezetvédelmi egyesületek jogai
 
-98. § (1) A környezetvédelmi érdekek képviseletére létrehozott egyesületeket és más, politikai pártnak, érdekképviseletnek nem minősülő – a hatásterületen működő – társadalmi szervezeteket (a továbbiakban: szervezet) a környezetvédelmi államigazgatási eljárásokban a működési területükön az ügyfél jogállása illeti meg.
+98. § (1) A környezetvédelmi érdekek képviseletére létrehozott politikai pártnak és érdekképviseletnek nem minősülő, a hatásterületen működő egyesületeket (a továbbiakban: szervezet) a környezetvédelmi államigazgatási eljárásokban a működési területükön az ügyfél jogállása illeti meg.
 
 (2) A szervezet joga továbbá, hogy tagsága érdekeit képviselve
 

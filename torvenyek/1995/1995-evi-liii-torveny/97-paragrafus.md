@@ -10,6 +10,6 @@
 
 a) személyesen vagy képviselő útján,
 
-b) társadalmi szervezetek révén,
+b) egyesületek révén,
 
 c) települési önkormányzatok útján.
