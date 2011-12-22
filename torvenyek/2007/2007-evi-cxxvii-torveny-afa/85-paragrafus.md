@@ -76,7 +76,7 @@ b) képesítéshez kötött, és jogszabály – ide nem értve az önkormányza
 
 a) a költségvetési szerv az alapító okiratban megjelölt tevékenysége tekintetében;
 
-b) a társadalmi szervezet, társadalmi szervezetek szövetsége, az egyesület, a köztestület, az országos sportági szakszövetség az alapszabályban (alapító okiratban) megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban) megjelölt tevékenysége tekintetében;
+b) az egyesület, a szövetség, a civil társaság, a köztestület, az országos sportági szakszövetség az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenysége tekintetében;
 
 c) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló törvény szerint nyilvántartásba vett egyház – ideértve az egyház önálló képviseleti szervvel rendelkező szervezeti egységét is, ha alapszabálya így rendelkezik – és az egyházak szövetsége az alapszabályban megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban) megjelölt tevékenysége tekintetében;
 
@@ -84,7 +84,7 @@ d) az alapítvány és a közalapítvány az alapító okiratban megjelölt tev�
 
 e) a közhasznú társaság és a nonprofit gazdasági társaság az alapszabályban (alapító okiratban) megjelölt tevékenységük tekintetében;
 
-f) a közhasznú szervezetekről szóló törvény szerint közhasznúként vagy kiemelkedően közhasznúként nyilvántartásba vett személy, szervezet az alapszabályban (alapító okiratban) megjelölt közhasznú tevékenysége tekintetében;
+f) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint közhasznú szervezetként nyilvántartásba vett civil szervezet az alapszabályban (alapító okiratban) megjelölt közhasznú tevékenysége tekintetében;
 
 g) minden olyan személy, szervezet – az a)–f) pontoktól függetlenül –, aki (amely) biztosított vagy más kedvezményezett részére társadalombiztosítási vagy egyéb – jogszabály alapján – kötelező biztosítási jogviszony keretében végzi tevékenységét;
 
