@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-88-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2005-88-00-00.6 |
 | 2010-05-01 | 2010. évi XXXIX. törvény | 2005-88-00-00.7 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 2005-88-00-00.8 |
+| 2011-12-22 | 2011. évi CLXXV. törvény | 2005-88-00-00.9 |

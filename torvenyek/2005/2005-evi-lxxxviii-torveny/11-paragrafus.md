@@ -10,7 +10,7 @@ b) a Bejelentési lapon feltüntetett adatokban bekövetkező változásokat.
 
 a) helyi önkormányzatok társulása esetén a társulási megállapodás másolatát;
 
-b) közhasznú, kiemelkedően közhasznú szervezet esetében
+b) civil szervezet, közhasznú szervezet esetében
 
 ba) a hatályos létesítő okirat másolatát és
 
@@ -20,7 +20,7 @@ c) egyházi jogi személy esetén a nyilvántartásba vételére illetékes bír
 
 (4) Fogadó intézmény, illetve annak fenntartója esetén a bejelentéshez mellékelni kell annak igazolását, hogy a fogadó intézmény jogszerűen működik, továbbá, ha a fogadó intézmény, illetve annak fenntartója
 
-a) társadalmi szervezet, alapítvány, közalapítvány, egyházi jogi személy, gazdasági társaság vagy egyéni cég, a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól,
+a) egyesület, alapítvány, közalapítvány, egyházi jogi személy, gazdasági társaság vagy egyéni cég, a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól,
 
 b) egyéni vállalkozó, az egyéni vállalkozói tevékenység bejelentéséről az egyéni vállalkozóról szóló törvényben meghatározott igazolást.
 

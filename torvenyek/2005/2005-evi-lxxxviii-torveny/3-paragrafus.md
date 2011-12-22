@@ -6,7 +6,7 @@ b) a kisebbségi önkormányzat a jogszabályban meghatározott közfeladatai k�
 
 c) a költségvetési szerv az alaptevékenysége körében;
 
-d) a magyarországi székhelyű közhasznú, kiemelkedően közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
+d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
 
 e) a magyarországi székhelyű egyházi jogi személy a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
 
