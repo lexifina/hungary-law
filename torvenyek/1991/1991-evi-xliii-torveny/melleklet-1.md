@@ -4,7 +4,7 @@ Az 1956-os Emlékérem és Emléklap alapszabályai
 
 1. §
 
-(1) Az Emlékérmet és az Emléklapot a miniszterelnöknek a Kormány hozzájárulásával tett előterjesztésére a Magyar Köztársaság elnöke adományozza. Az előterjesztésre a miniszterelnök által létrehozott Társadalmi Bizottság tesz javaslatot a forradalom és szabadságharc történetét kutató és emlékét ápoló társadalmi szervezetek ajánlásainak figyelembevételével.
+(1) Az Emlékérmet és az Emléklapot a miniszterelnöknek a Kormány hozzájárulásával tett előterjesztésére a Magyar Köztársaság elnöke adományozza. Az előterjesztésre a miniszterelnök által létrehozott Társadalmi Bizottság tesz javaslatot a forradalom és szabadságharc történetét kutató és emlékét ápoló egyesületek ajánlásainak figyelembevételével.
 
 (2) Az Emlékéremmel oklevél és igazolvány jár.
 
