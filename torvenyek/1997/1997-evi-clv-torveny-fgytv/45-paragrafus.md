@@ -1,8 +1,8 @@
 ## IX. Fejezet
 
-## A fogyasztói érdekek képviseletét ellátó társadalmi szervezetek
+## A fogyasztói érdekek képviseletét ellátó egyesületek
 
-45. § (1) Az állam és a helyi önkormányzatok előmozdítják és támogatják a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek arra irányuló tevékenységét, hogy
+45. § (1) Az állam és a helyi önkormányzatok előmozdítják és támogatják a fogyasztói érdekek képviseletét ellátó egyesületek arra irányuló tevékenységét, hogy
 
 a) érdekfeltáró munkájukkal segítsék a fogyasztók gazdasági érdekeinek és fogyasztói jogainak érvényesítését, ennek keretében feltárják a fogyasztói problémákat, értékeljék a fogyasztói jogok érvényesülését,
 
@@ -28,4 +28,4 @@ k) közreműködjenek a nemzeti szabványosításban a Magyar Szabványügyi Tes
 
 (2)
 
-(3) Az állam a mindenkori éves költségvetésről szóló törvényben gondoskodik a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek támogatásáról.
+(3) Az állam a mindenkori éves költségvetésről szóló törvényben gondoskodik a fogyasztói érdekek képviseletét ellátó egyesületek támogatásáról.

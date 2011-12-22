@@ -28,7 +28,7 @@ i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
 (6) Nincs helye az (1) bekezdés szerinti jogkövetkezmény alkalmazásának a fogyasztóvédelmi hatósággal hatósági szerződést kötő ügyféllel szemben a szerződésben megállapított teljesítési határidőn belül azon jogsértés miatt, amelynek megszüntetése érdekében a szerződés megkötésére sor került.
 
-(7) A fogyasztóvédelemért felelős miniszter az (1) bekezdés szerinti jogkövetkezmények alkalmazásának elveiről a fogyasztóvédelmi hatóság számára normatív utasítást ad ki. Az utasítás tervezetéről a jogszabályok előkészítésére vonatkozó szabályok megfelelő alkalmazásával a miniszter konzultációt folytat a vállalkozások szakmai érdek-képviseleti szervezeteivel és a fogyasztói érdekek képviseletét ellátó társadalmi szervezetekkel. Az utasítást a Magyar Közlönyben közzé kell tenni.
+(7) A fogyasztóvédelemért felelős miniszter az (1) bekezdés szerinti jogkövetkezmények alkalmazásának elveiről a fogyasztóvédelmi hatóság számára normatív utasítást ad ki. Az utasítás tervezetéről a jogszabályok előkészítésére vonatkozó szabályok megfelelő alkalmazásával a miniszter konzultációt folytat a vállalkozások szakmai érdek-képviseleti szervezeteivel és a fogyasztói érdekek képviseletét ellátó egyesületekkel. Az utasítást a Magyar Közlönyben közzé kell tenni.
 
 (8) A fogyasztóvédelmi hatóság az (1) bekezdés d), g), illetve h) pontja szerinti jogkövetkezmény megállapításáról szóló döntését közli az üzlet működési engedélyét kiadó kereskedelmi hatósággal.
 

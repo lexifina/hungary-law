@@ -20,4 +20,4 @@ nem képezi a központi költségvetés bevételét.
 
 (6) A jogerősen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
 
-(7) A (3) és a (4) bekezdés szerinti központi költségvetési bevételnek a Kormány által e törvény végrehajtására kiadott rendeletben meghatározott részét a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek támogatására kell fordítani.
+(7) A (3) és a (4) bekezdés szerinti központi költségvetési bevételnek a Kormány által e törvény végrehajtására kiadott rendeletben meghatározott részét a fogyasztói érdekek képviseletét ellátó egyesületek támogatására kell fordítani.

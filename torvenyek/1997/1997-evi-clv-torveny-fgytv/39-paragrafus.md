@@ -1,6 +1,6 @@
 ## Keresetindítás
 
-39. § (1) Az ellen, akinek jogszabályba ütköző tevékenysége a fogyasztók széles körét érinti vagy jelentős nagyságú hátrányt okoz, a fogyasztóvédelmi hatóság, a fogyasztói érdekek képviseletét ellátó társadalmi szervezet vagy az ügyész pert indíthat a fogyasztók széles körének védelme, illetőleg a jelentős nagyságú hátrány kiküszöbölése érdekében. Ilyen per akkor is indítható, ha a sérelmet szenvedett fogyasztók személye nem állapítható meg.
+39. § (1) Az ellen, akinek jogszabályba ütköző tevékenysége a fogyasztók széles körét érinti vagy jelentős nagyságú hátrányt okoz, a fogyasztóvédelmi hatóság, a fogyasztói érdekek képviseletét ellátó egyesület vagy az ügyész pert indíthat a fogyasztók széles körének védelme, illetőleg a jelentős nagyságú hátrány kiküszöbölése érdekében. Ilyen per akkor is indítható, ha a sérelmet szenvedett fogyasztók személye nem állapítható meg.
 
 (2) Az (1) bekezdésben meghatározott kereset a jogsértés bekövetkezését követő egy éven belül nyújtható be.
 

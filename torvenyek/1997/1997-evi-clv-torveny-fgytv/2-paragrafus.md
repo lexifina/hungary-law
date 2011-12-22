@@ -14,7 +14,7 @@ cb) a gyártónak az Európai Gazdasági Térségben letelepedett meghatalmazott
 
 d) forgalmazó: az a vállalkozás, amely a terméket közvetlenül a fogyasztó részére forgalmazza,
 
-e) fogyasztói érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló 1989. évi II. törvény alapján létrehozott társadalmi szervezet, ha az alapszabályában meghatározott célja a fogyasztók érdekeinek védelme, e célnak megfelelően legalább két éve működik, és természetes személy tagjainak száma legalább ötven fő, továbbá az ilyen társadalmi szervezetek szövetsége,
+e) fogyasztói érdekek képviseletét ellátó egyesület: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja a fogyasztók érdekeinek védelme, e célnak megfelelően legalább két éve működik, és természetes személy tagjainak száma legalább ötven fő, továbbá az ilyen egyesületek szövetsége,
 
 f) termék: minden birtokba vehető forgalomképes ingó dolog – ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt – és a dolog módjára hasznosítható természeti erő,
 

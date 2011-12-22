@@ -14,4 +14,4 @@ c) az elektronikus eléréssel működtetett ügyfélszolgálat – üzemzavar e
 
 (5) A 17/A. §-tól eltérően az ügyfélszolgálat minden esetben köteles a vállalkozás panasszal kapcsolatos álláspontját és intézkedéseit indokolással ellátva írásba foglalni, és a fogyasztónak a panasz beérkezését követő tizenöt napon belül megküldeni, kivéve, ha a fogyasztó panaszát személyesen jelenti be és a vállalkozás az abban foglaltaknak nyomban eleget tesz.
 
-(6) Az ügyfélszolgálat a fogyasztói panaszok intézése és a fogyasztók tájékoztatása során köteles együttműködni a fogyasztói érdekek képviseletét ellátó társadalmi szervezetekkel.
+(6) Az ügyfélszolgálat a fogyasztói panaszok intézése és a fogyasztók tájékoztatása során köteles együttműködni a fogyasztói érdekek képviseletét ellátó egyesületekkel.
