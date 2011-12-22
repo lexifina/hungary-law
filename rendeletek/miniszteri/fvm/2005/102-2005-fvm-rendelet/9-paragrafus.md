@@ -12,4 +12,6 @@
 
 (6) Az egészségvédő figyelmeztetéseket és az értékfeltüntetést a dohánytermék adójegyére nyomtatni tilos. A feliratok nyomtatásának eltávolíthatatlannak, törölhetetlennek kell lennie, azokat más írás vagy képanyag, illetve a csomagfelbontó szalag nem takarhatja, nem homályosíthatja el és nem szakíthatja meg. A cigarettát kivéve a dohánytermékeken a feliratok a csomagra eltávolíthatatlanul rögzített matricán is elhelyezhetők.
 
-(7) Az egészségvédő figyelmeztetések váltakozva való alkalmazását előíró kötelezettség ellenőrizhetősége érdekében a gyártó, az importáló, a bejegyzett / nem bejegyzett kereskedő és a tároló adóraktár engedélyese köteles olyan nyilvántartást vezetni, amelyből időtartamonként megállapíthatóak az alkalmazott egészségvédő figyelmeztetések.
+(7)[^9] Az egészségvédő figyelmeztetések váltakozva való alkalmazását előíró kötelezettség ellenőrizhetősége érdekében a gyártó, az importáló, a bejegyzett kereskedő és a tároló adóraktár engedélyese köteles olyan nyilvántartást vezetni, amelyből időtartamonként megállapíthatóak az alkalmazott egészségvédő figyelmeztetések.
+
+[^9]: A 9. § (7) bekezdése a 122/2011. (XII. 21.) VM rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.

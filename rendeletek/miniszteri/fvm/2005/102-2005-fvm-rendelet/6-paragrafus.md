@@ -8,7 +8,7 @@ a) a dohánytermék nevét,
 
 b) a dohánytermék megnevezését a következők szerint: „cigaretta”, „szivar”, „szivarka”, „cigarettadohány”, „pipadohány”, „rágódohány”, „burnót”,
 
-c) a gyártó vagy forgalmazó, bejegyzett / nem bejegyzett kereskedő, tároló adóraktár engedélyes megnevezését azonosításra alkalmas módon,
+c)[^8] a gyártó vagy forgalmazó, bejegyzett kereskedő, tároló adóraktár engedélyes megnevezését azonosításra alkalmas módon,
 
 d) a dohánytermék származási helyének megjelölését, ha az áru nem az Európai Gazdasági Térségből származik,
 
@@ -33,3 +33,5 @@ ia) dohányzásra szánt dohánytermék esetében a nemdohányzók védelméről
 ib) füst nélküli dohánytermék esetében: „Ez a dohánytermék károsíthatja egészségét és függőséget okoz.”,
 
 j) dohányzásra szánt dohánytermék esetében a Tv.-ben felsorolt, szabadon megválasztható egészségvédő figyelmeztető feliratok közül kiválasztott figyelmeztetést.
+
+[^8]: A 6. § c) pontja a 122/2011. (XII. 21.) VM rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.

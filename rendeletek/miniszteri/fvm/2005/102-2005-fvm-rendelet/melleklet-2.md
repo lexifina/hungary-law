@@ -1,6 +1,6 @@
 ## Regisztrációs lap tartalmi elemei
 
-## 1. A dohánytermék gyártó, importáló, bejegyzett / nem bejegyzett kereskedő vagy a tároló adóraktár engedélyesének neve, címe.
+## 1. A dohánytermék gyártó, importáló, bejegyzett kereskedő vagy a tároló adóraktár engedélyesének neve, címe.
 
 ## 2. A dohánytermék megnevezése.
 
@@ -40,6 +40,6 @@
 
 ## ..............................................................................
 
-## a dohányterméket előállító üzem vezetője, importáló, bejegyzett / nem bejegyzett kereskedő vagy tároló adóraktár engedélyes neve
+## a dohányterméket előállító üzem vezetője, importáló, bejegyzett kereskedő vagy tároló adóraktár engedélyes neve
 
 2. számú melléklet a 102/2005. (X. 31.) FVM rendelethez
