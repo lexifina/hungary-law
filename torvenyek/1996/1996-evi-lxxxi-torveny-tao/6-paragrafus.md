@@ -6,7 +6,7 @@
 
 (3) A társasági adóalapja a szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság esetén a 15. §-ban, az ingatlannal rendelkező társaság tagja esetében a 15/A. §-ban meghatározott jövedelem.
 
-(4) Az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaság, a közhasznú, a kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza.
+(4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza.
 
 (5) Ha az adózó (2) bekezdés szerinti adózás előtti eredménye vagy az (1) bekezdés szerinti adóalapja közül a nagyobb érték nem éri el a jövedelem-(nyereség-)minimumot, akkor választása szerint
 
@@ -18,7 +18,7 @@ b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződ
 
 a) az előtársasági adóévben .és az azt követő adóévben, illetve az első adóévében, amennyiben az előtársasági időszakról külön beszámoló készítésére nem kötelezett, vagy
 
-b) ha a 2. § (2) bekezdésének e)–h) pontja alapján adóalany, illetve, ha szociális szövetkezet, iskolaszövetkezet vagy közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, vagy
+b) ha a 2. § (2) bekezdésének e)–h) pontja alapján adóalany, illetve, ha szociális szövetkezet, iskolaszövetkezet vagy közhasznú nonprofit gazdasági társaság, vagy
 
 c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát.
 

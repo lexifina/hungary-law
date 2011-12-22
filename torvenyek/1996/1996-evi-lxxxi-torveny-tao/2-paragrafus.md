@@ -16,7 +16,7 @@ e) a Munkavállalói Résztulajdonosi Program szervezete (a továbbiakban: MRP),
 
 f) a vízitársulat,
 
-g) az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az egyház (ideértve e szervezetek alapszabályában, illetve alapító okiratában jogi személyiséggel felruházott szervezeti egységeket is), a lakásszövetkezet és az önkéntes kölcsönös biztosító pénztár,
+g) az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház (ideértve e szervezetek alapszabályában, illetve alapító okiratában jogi személyiséggel felruházott szervezeti egységeket is), a lakásszövetkezet és az önkéntes kölcsönös biztosító pénztár,
 
 h) a felsőoktatási intézmény (ideértve az általa létrehozott intézményt is), továbbá a diákotthon,
 

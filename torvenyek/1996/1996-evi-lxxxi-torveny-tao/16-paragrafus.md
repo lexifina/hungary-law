@@ -16,7 +16,7 @@ cc) az adózás előtti eredményt növeli a 7. § (1) bekezdés h) pontja szeri
 
 cd)
 
-ce) az adózás előtti eredményt növeli a 7. § (1) bekezdés z) pontja szerint az adóévben vagy korábban az adózás előtti eredmény csökkentéseként a közhasznú szervezetekről szóló törvény szerinti tartós adományozásra tekintettel elszámolt többletkedvezmény kétszerese, ha a szerződésben vállaltakat jogutód nélküli megszűnése miatt nem teljesítette a szerződésnek megfelelően,
+ce) az adózás előtti eredményt növeli a 7. § (1) bekezdés z) pontja szerint az adóévben vagy korábban az adózás előtti eredmény csökkentéseként az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti tartós adományozásra tekintettel elszámolt többletkedvezmény kétszerese, ha a szerződésben vállaltakat jogutód nélküli megszűnése miatt nem teljesítette a szerződésnek megfelelően,
 
 cf) az adózás előtti eredményt növeli a 7. § (1) bekezdés zs) pontja szerint az adózás előtti eredmény csökkentéseként elszámolt összeg azon részének a kétszerese, amelyet a 8. § (1) bekezdésének u) pontja szerint nem számolt el az adózás előtti eredmény növeléseként, ha az adózó az adózás előtti eredmény csökkentésének adóévében, vagy az azt követő négy adóévben szűnik meg jogutód nélkül,
 

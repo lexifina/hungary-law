@@ -150,7 +150,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 24/a.
 
-25. munkáltatói és munkavállalói érdekképviseleti szervezet: az a társadalmi szervezetként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Országos Érdekegyeztető Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik;
+25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Országos Érdekegyeztető Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik;
 
 26. nyilvántartott értékvesztés: a követelésekre a számviteli előírások alapján elszámolt és adózás előtti eredménynövelésként figyelembe vett értékvesztés csökkentve az adózás előtti eredmény csökkentéseként számításba vett összeggel;
 
@@ -158,7 +158,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 28.
 
-28/a. országos érdekképviseleti szervezet: az a társadalmi szervezetként bírósági nyilvántartásba vett társadalmi szervezetek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
+28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 
 29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei és rendkívüli bevételek;
 

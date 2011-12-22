@@ -1,18 +1,18 @@
 6. számú melléklet az 1996. évi LXXXI. törvényhez
 
-Alapítvány, közalapítvány, társadalmi szervezet, köztestület, lakásszövetkezet, közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, szociális szövetkezet és felsőoktatási intézmény által végzett kedvezményezett tevékenységek
+Alapítvány, közalapítvány, egyesület, köztestület, lakásszövetkezet, közhasznú nonprofit gazdasági társaság, szociális szövetkezet és felsőoktatási intézmény által végzett kedvezményezett tevékenységek
 
 A)
 
-Alapítvány, közalapítvány, társadalmi szervezet és köztestület által végzett kedvezményezett tevékenységek
+Alapítvány, közalapítvány, egyesület és köztestület által végzett kedvezményezett tevékenységek
 
-Az alapítvány, a közalapítvány, a társadalmi szervezet és a köztestület 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
+Az alapítvány, a közalapítvány, az egyesület és a köztestület 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
 
-1. a közhasznú tevékenység, vagy – ha nem minősül közhasznú szervezetnek, kiemelkedően közhasznú szervezetnek – az alapító okiratában, alapszabályában nevesített cél szerinti tevékenység, ideértve mindkét esetben az e tevékenységhez kapott támogatást, juttatást és a tagdíjat is;
+1. a közhasznú tevékenység, vagy – ha nem minősül közhasznú szervezetnek – az alapító okiratában, alapszabályában nevesített cél szerinti tevékenység, ideértve mindkét esetben az e tevékenységhez kapott támogatást, juttatást és a tagdíjat is;
 
-2. a kizárólag a közhasznú tevékenységet vagy – ha nem minősül közhasznú szervezetnek, kiemelkedően közhasznú szervezetnek – a cél szerinti tevékenységet szolgáló immateriális javak, tárgyi eszközök, készletek értékesítésének ellenértéke, bevétele;
+2. a kizárólag a közhasznú tevékenységet vagy – ha nem minősül közhasznú szervezetnek – a cél szerinti tevékenységet szolgáló immateriális javak, tárgyi eszközök, készletek értékesítésének ellenértéke, bevétele;
 
-3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység vagy – ha nem minősül közhasznú szervezetnek, kiemelkedően közhasznú szervezetnek – a cél szerinti tevékenység bevétele az összes bevételben képvisel, azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
+3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység vagy – ha nem minősül közhasznú szervezetnek – a cél szerinti tevékenység bevétele az összes bevételben képvisel, azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
 
 B)
 
@@ -28,9 +28,9 @@ C)
 
 D)
 
-A közhasznú szervezetként, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény által végzett kedvezményezett tevékenységek
+A közhasznú szervezetként besorolt felsőoktatási intézmény által végzett kedvezményezett tevékenységek
 
-A közhasznú szervezetként, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény az 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
+A közhasznú szervezetként besorolt felsőoktatási intézmény az 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
 
 1. a közhasznú tevékenység, ideértve az e tevékenységhez kapott támogatást, juttatást is;
 
@@ -40,9 +40,9 @@ A közhasznú szervezetként, kiemelkedően közhasznú szervezetként besorolt 
 
 E)
 
-Közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság és szociális szövetkezet kedvezményezett tevékenysége
+Közhasznú nonprofit gazdasági társaság és szociális szövetkezet kedvezményezett tevékenysége
 
-A közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaság és a szociális szövetkezet 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló, vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
+A közhasznú nonprofit gazdasági társaság és a szociális szövetkezet 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló, vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
 
 1. a közhasznú tevékenységből származó bevételnek az a része, amely a társadalmi közös szükséglet kielégítéséért felelős szervvel – helyi önkormányzattal vagy a költségvetési törvényben meghatározott fejezettel, illetve a fejezeten belül önálló költségvetéssel rendelkező intézménnyel – folyamatos szolgáltatás teljesítésére megkötött, a szolgáltatásért felszámítható díj mértékét és a díj változtatásának feltételeit is tartalmazó szerződés alapján folytatott tevékenységből származik;
 

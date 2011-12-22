@@ -6,7 +6,7 @@ A társasági adóalanynak nem minősülő szervezetek
 
 2. a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetek,
 
-3. a kizárólag a fogvatartottak foglalkoztatása céljából létesített közhasznú társaság, illetve a tevékenységét folytató közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság,
+3. a kizárólag a fogvatartottak foglalkoztatása céljából létesített közhasznú társaság, illetve a tevékenységét folytató közhasznú nonprofit gazdasági társaság,
 
 4. a Tartalék Gazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
 

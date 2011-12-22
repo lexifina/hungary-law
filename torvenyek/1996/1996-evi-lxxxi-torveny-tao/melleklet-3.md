@@ -52,7 +52,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 4. az előzetesen felszámított, de az általános forgalmi adóról szóló törvény szerint le nem vonható általános forgalmi adó, feltéve, hogy a vállalkozás érdekében felmerült költséghez, ráfordításhoz kapcsolódik;
 
-5. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, valamint az alapszabálya szerint az adózó vállalkozási tevékenységével kapcsolatos érdekképviseleti feladatot is ellátó társadalmi szervezet számára tagdíj címen fizetett összeg;
+5. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, valamint az alapszabálya szerint az adózó vállalkozási tevékenységével kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címen fizetett összeg;
 
 6. az elektronikus hírközlési szolgáltatás (így különösen helyhez kötött telefonszolgáltatás és mobil rádiótelefon-szolgáltatás) használata, igénybevétele következtében felmerült költség, ráfordítás, továbbá a cégautó használata, fenntartása és üzemeltetése révén felmerült költség, ráfordítás (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is);
 
