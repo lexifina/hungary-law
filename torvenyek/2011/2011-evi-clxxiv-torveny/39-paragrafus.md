@@ -1,0 +1,1 @@
+39. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 12. §-ában az „az e fejezetben” szövegrész helyébe az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben” szöveg lép.

@@ -1,0 +1,3 @@
+## 22. A felnőttképzésről szóló 2001. évi CI. törvény módosítása
+
+35. § A felnőttképzésről szóló 2001. évi CI. törvény 4. § (5) bekezdésében az „a miniszternek” szövegrész helyébe az „az állami szakképzési és felnőttképzési intézetnek” szöveg, 4. § (6) bekezdésében az „A miniszter” szövegrész helyébe az „Az állami szakképzési és felnőttképzési intézet” szöveg, 4/A. § (1) bekezdésében az „A miniszter” szövegrész helyébe az „Az állami szakképzési és felnőttképzési intézet” szöveg, az „a miniszter” szövegrész helyébe az „az állami szakképzési és felnőttképzési intézet” szöveg, 4/A. § (2) bekezdésében az „a miniszter” szövegrész helyébe az „az állami szakképzési és felnőttképzési intézet” szöveg lép.

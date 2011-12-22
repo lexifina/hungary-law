@@ -1,0 +1,1 @@
+58. § Hatályát veszti a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 8. § (3) bekezdésében a „ , valamint a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben” szövegrész, 11. §-a és az azt megelőző alcím.

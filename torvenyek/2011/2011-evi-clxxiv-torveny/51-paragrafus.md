@@ -1,0 +1,1 @@
+51. § A Ket. 20. § (5) bekezdésében a „harminc” szövegrész helyébe a „huszonegy” szöveg, 33. § (1) bekezdésében a „harminc” szövegrész helyébe a „huszonegy” szöveg, 33. § (7) bekezdésében a „harminc” szövegrész helyébe a „huszonegy” szöveg lép.
