@@ -6,7 +6,7 @@ b) állampolgári jogait az e törvényben és a szolgálati jogviszonyra vonatk
 
 c) pártnak nem lehet tagja, politikai tevékenységet nem folytathat;
 
-d) társadalmi szervezetbe történő belépési szándékát köteles előzetesen a főigazgatónak bejelenteni, a főigazgató a tagsági viszonyt megtilthatja, ha az a hivatással vagy a szolgálati beosztással nem egyeztethető össze, illetőleg a szolgálat érdekeit sérti vagy veszélyezteti (összeférhetetlenség);
+d) civil szervezetbe történő belépési szándékát köteles előzetesen a főigazgatónak bejelenteni, a főigazgató a tagsági viszonyt megtilthatja, ha az a hivatással vagy a szolgálati beosztással nem egyeztethető össze, illetőleg a szolgálat érdekeit sérti vagy veszélyezteti (összeférhetetlenség);
 
 e) nem folytathat olyan tevékenységet, amely a hivatásos szolgálati jogviszonyhoz méltatlan, vagy a szolgálati feladatok pártatlan, befolyástól mentes ellátását veszélyeztetné;
 
