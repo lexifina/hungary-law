@@ -1,4 +1,4 @@
-6. § (1) E törvény alkalmazásában érdekképviselet, illetve érdekképviseleti szövetség az egyesülési jogról szóló törvény szerint létrejött társadalmi szervezet,
+6. § (1) E törvény alkalmazásában érdekképviselet, illetve érdekképviseleti szövetség az egyesülési jogról szóló törvény szerint létrejött egyesület,
 
 a) amelynek alapszabályában szereplő elsődleges célja a munkavállalók munkaviszonnyal kapcsolatos érdekeinek előmozdítása és megvédése (a továbbiakban: szakszervezet), vagy
 
