@@ -1,1 +1,0 @@
-A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 46. § (2) bekezdésében meghatározott hatáskörömben eljárva, a 75. § (4) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
