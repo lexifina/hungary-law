@@ -1,0 +1,1 @@
+A jogszabállyal vagy közjogi szervezetszabályozó eszközzel létrehozott testületek felülvizsgálatáról szóló 1158/2011. (V. 23.) Korm. határozat szerint elvégzett felülvizsgálat megállapításai alapján szükséges intézkedésekről a Kormány az alábbiak szerint határoz:
