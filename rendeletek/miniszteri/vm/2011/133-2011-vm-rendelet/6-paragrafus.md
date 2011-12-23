@@ -1,0 +1,7 @@
+6. § (1) A hitelkérelmeket a pénzügyi intézmény honlapján közzétett terméktájékoztatóban megjelölt időponttól 2012. június 30-ig folyamatosan lehet benyújtani a pénzügyi intézmény által megjelölt hitelintézethez.
+
+(2) A mezőgazdasági termelő az odaítélhető támogatás felére jogosult, amennyiben a hitelkérelme benyújtásakor nem rendelkezik mezőgazdasági biztosítási szerződéssel.
+
+(3) A 4. § (1) bekezdés d) pontja szerinti kamattámogatást és a 2. § (2) bekezdés b) pontja szerinti költségtámogatást a mezőgazdasági termelő a pénzügyi intézménytől való hitelfelvétel útján, a pénzügyi intézmény általi megelőlegezése formájában veszi igénybe.
+
+(4) Az a mezőgazdasági termelő részesül támogatásban, aki az 5. § (1) bekezdés szerint támogatás igénybevételére jogosult, majd a pénzügyi intézmény hitelbírálati eljárásában hitelképesnek bizonyul.

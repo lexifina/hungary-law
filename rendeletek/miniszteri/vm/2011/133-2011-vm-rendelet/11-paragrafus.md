@@ -1,0 +1,1 @@
+## 10. § A miniszter éves jelentést állít össze a hitelprogramról a pénzügyi intézmény, valamint a kezességvállaló intézmény a 2012. évben negyedévenkénti, azt követően évenkénti adatszolgáltatása alapján, amely jelentést az Európai Bizottság részére továbbít a mezőgazdasági csoportmentességi rendelet II. mellékletében foglalt formában.

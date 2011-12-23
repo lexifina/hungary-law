@@ -1,0 +1,9 @@
+8. § (1) A támogatás a mezőgazdasági csoportmentességi rendelet 11. cikke szerinti kedvezőtlen éghajlati jelenségek folytán járó támogatásnak minősül.
+
+(2) A 2. § (2) bekezdés a) pontja szerinti kamattámogatásból és a 2. § (2) bekezdés b) pontja szerinti költségtámogatásból származó támogatástartalmat a pénzügyi intézmény a 2. mellékletben meghatározott módszertan szerint számolja ki, amelyről a támogatástartalomról szóló igazolások megküldésével tájékoztatja a mezőgazdasági termelőt, amely támogatástartalomról szóló igazolásokat azok kiállítója és a mezőgazdasági termelő 10 évig köteles megőrizni.
+
+(3) A kezességvállalás támogatástartalmát – az Európai Bizottság által korábbiakban már jóváhagyott támogatástartalom-számítási módszertannak megfelelő – a kezességvállaló intézmény a mezőgazdasági vállalkozások által de minimis támogatásként igénybe vehető intézményi kezességvállalásról szóló 50/2007. (VI. 27.) FVM rendelet alapján számolja ki és a támogatástartalomról szóló igazolást megküldi a pénzügyi intézmény számára.
+
+(4) A (2) és (3) bekezdések szerinti támogatástartalomról szóló igazolásokat a pénzügyi intézmény küldi meg a mezőgazdasági termelő részére. A kárenyhítő juttatás kifizetéséről rendelkező határozat kézhezvétele előtt benyújtott hitelkérelmek vonatkozásában a pénzügyi intézmény a támogatástartalomról szóló igazolásokat – a megkötött hitelszerződést követően – az MVH részére is megküldi, továbbá azon mezőgazdasági termelők vonatkozásában, akik részesültek Agrár Forgóeszköz Vis Maior Hitelprogram szerinti mezőgazdasági csekély összegű (de minimis) támogatásban is, az erre vonatkozó támogatástartalomról szóló igazolásokat is továbbítja az MVH részére.
+
+(5) A mezőgazdasági csoportmentességi rendelet 20. cikk (2) bekezdésében foglaltak alapján a pénzügyi intézmény, valamint a kezességvállaló intézmény a támogatástartalomról szóló igazolások adatairól nyilvántartást vezet.
