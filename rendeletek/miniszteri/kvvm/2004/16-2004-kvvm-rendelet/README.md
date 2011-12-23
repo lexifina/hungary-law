@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-16-20-0
 | 2010-07-02 | 2004-16-20-0N.9 | 31/2006. (VI. 28.) KvVM rendelet |
 | 2010-12-31 | 2004-16-20-0N.10 | 45/2010. (XII. 23.) VM rendelet |
 | 2011-07-19 | 2004-16-20-0N.11 | 63/2011. (VII. 11.) VM rendelet |
+| 2011-12-23 | 2004-16-20-0N.12 | 120/2011. (XII. 15.) VM rendelet |
