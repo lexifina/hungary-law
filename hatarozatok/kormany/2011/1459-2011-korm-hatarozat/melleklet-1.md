@@ -52,7 +52,7 @@
 
 ## Határidő: folyamatosan
 
-## 6. a 2010. május közepétől előforduló rendkívüli időjárási körülmények következtében kialakult ár- és belvízi helyzet okozta károk enyhítésére az Európai Unió Szolidaritási Alapjából (EUSZA) Magyarország részére biztosított támogatás felhasználásáról szóló 1174/2011. (V. 26.) Korm. határozatot visszavonja.
+## 6.[^2]
 
 1. melléklet az 1459/2011. (XII. 22.) Korm. határozathoz
 
@@ -73,3 +73,5 @@ Az Európai Unió Szolidaritási Alapjából származó 2011. évi támogatás f
 | Összesen: | 22 485 772 |
 
 * Megjegyzés: Az aktuális árfolyam alapján a forintösszeg később számítandó.
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
