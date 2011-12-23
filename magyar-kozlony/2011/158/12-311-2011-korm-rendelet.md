@@ -1,0 +1,250 @@
+# A Kormány 311/2011. (XII. 23.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 158. szám, 2011. december 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/111124ed458b119ea6e481af2b287e8ef4b8badc/dokumentumok/7157db55f1432f66a67d25e5e211386963bb666d/letoltes)
+
+---
+
+A Kormány 311/2011. (XII. 23.) Korm. rendelete
+a Várbazár, valamint a budavári királyi kertek rekonstrukciójához kapcsolódó beruházások
+megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt
+jelentőségű üggyé nyilvánításáról
+A Kormánya nemzetgazdaságiszempontbólkiemeltjelentőségűberuházásokmegvalósításánakgyorsításárólés egyszerűsítéséről
+szóló 2006. évi LIII. törvény 12. § (5) bekezdésében, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól
+szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában,
+a2.§ tekintetébenazépített környezetalakításárólésvédelmérőlszóló1997. éviLXXVIII. törvény62.§ (1) bekezdésm) pontjában,
+a 3. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés s) pontjában
+kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Kormány kiemelt jelentőségű üggyé nyilvánítja az 1. mellékletbenfelsorolt közigazgatásihatósági ügyeket, amelyek
+alapját a Várbazár, valamint a budavári királyi kertek rekonstrukciójához kapcsolódó beruházások képezik.
+(2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben
+meghatározott hatóságokat jelöli ki.
+(3) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben
+szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró
+szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
+2. § Az 1. § (1) bekezdése szerinti beruházások megvalósítása során a külön jogszabályban meghatározott
+építészeti-műszaki tervpályázati eljárást nem kell lefolytatni.
+3. § A tervező az engedélyezési tervdokumentáció tervezése során az érintett szakhatóságokkal egyeztetni köteles, ennek
+megtörténtéről és tartalmáról az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló
+193/2009. (IX. 15.) Korm. rendelet 19. §-a szerinti tervezői nyilatkozatot kiegészítve, külön nyilatkozik.
+4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 6. § 2012. január 1-jén lép hatályba.
+(3) E rendelet rendelkezéseit a folyamatban levő ügyekben is alkalmazni kell.
+5. § Hatályát veszti a Budai Palota kulturális, turisztikai fejlesztéséhez kapcsolódó beruházások megvalósításával
+összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról 73/2008. (IV. 3.) Korm. rendelet.
+6. § (1) Az 1. mellékletben foglalt táblázat D:11. és D:13. mezőjében a „Fővárosi Tűzoltó-parancsnokság” szövegrész helyébe
+a „Fővárosi Katasztrófavédelmi Igazgatóság” szöveg lép.
+(2) A 2. mellékletben foglalt táblázat B:4. mezőjében a „Fővárosi Polgári Védelmi Igazgatóság” szövegrész helyébe
+a „Fővárosi Katasztrófavédelmi Igazgatóság” szöveg, a 2. mellékletben foglalt táblázat B:5. mezőjében a „Fővárosi
+Tűzoltó-parancsnokság” szövegrész helyébe a „Fővárosi Katasztrófavédelmi Igazgatóság” szöveg lép.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 311/2011. (XII. 23.) Korm. rendelethez
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására
+hatáskörrel rendelkező hatóságok
+A B C D E
+1. Beruházás megnevezése Beruházás azonosítója
+A beruházás megvalósításával kapcsolatos
+engedélyezési eljárások
+Első fokon eljáró hatóság Másodfokon eljáró hatóság
+2. A Várbazár épületének
+rekonstrukciója, valamint sajátos
+építményfajták körébe tartozó
+(közlekedési, hírközlési, közmű-
+és energiaellátási) építmények.
+Budapest, I. kerület
+Ybl Miklós tér 2–6. sz.,
+6452/2 hrsz. (Várbazár);
+14386 hrsz. (Várkert Casino);
+Apród utca 1–3. sz., 6332 hrsz.,
+(Orvostörténeti Múzeum);
+Ybl Miklós tér 8. sz., 6230/2 hrsz.
+(Irodaház);
+6268 hrsz. telek (Osztrák köv.);
+Apród u. 5–7. sz., 6331 hrsz., telek;
+6452/1, 6452/2, 6452/3 hrsz.
+(Déli és keleti várlejtő park,
+„Vízhordó lépcső” új
+megközelítési útvonal)
+ingatlan-nyilvántartási helyrajzi
+számú területek, illetve ezen
+területekből telekalakítás folytán
+kialakított területek.
+Az alábbi közterületek:
+Lánchíd utca (14384 hrsz.),
+Ybl Miklós tér (6271/2 hrsz.),
+Szarvas tér (6271/1 hrsz.),
+Öntőház utca (14373/2 hrsz.),
+Sándor Móric lépcső (6330 hrsz.),
+6272 hrsz. zöldterület,
+Attila út (6329 hrsz.),
+Váralja utca (6335 hrsz.),
+Palota út (7124/2 hrsz.),
+Dózsa György tér (6350 hrsz.),
+Várkert rakpart (14387/2 hrsz.),
+Friedrich Born alsórakpart
+(14387/1 hrsz.).
+10/4 (folyampart Duna)
+építésügyi hatósági
+engedélyezési eljárások:
+– általános építmények,
+– műemléki védelem alatt álló
+építmények,
+– építményen belül, építménybe
+beépített felvonók,
+mozgólépcsők, (beleértve
+a mozgójárdát is)
+esetében
+Pest Megyei Kormányhivatal
+(általános építésügyi hatóság
+jogkörében)
+építésügyért felelős miniszter
+3. környezetvédelmi hatósági
+engedélyezési eljárások
+Közép-Duna-völgyi
+Környezetvédelmi,
+Természetvédelmi és Vízügyi
+Felügyelőség
+Országos Környezetvédelmi,
+Természetvédelmi és Vízügyi
+Főfelügyelőség
+4. útügyi hatósági engedélyezési
+eljárások
+Budapest Főváros
+Kormányhivatala Közlekedési
+Felügyelősége
+Nemzeti Közlekedési Hatóság
+Központja
+5. Építményeken kívüli felvonó,
+mozgólépcső, emelők, gépi
+működtetési közlekedési
+berendezések engedélyezése
+Budapest Főváros
+Kormányhivatala Közlekedési
+Felügyelősége
+Nemzeti Közlekedési Hatóság
+Központja
+6. a Magyar Kereskedelmi
+Engedélyezési Hivatalról és
+a területi mérésügyi és műszaki
+biztonsági hatóságokról szóló
+320/2010. (XII. 27.) Korm. rendelet
+12. § (2) bekezdése és 13. §
+(2) bekezdése szerinti
+engedélyezési eljárások
+Budapest Főváros
+Kormányhivatala Mérésügyi és
+Műszaki Biztonsági Hatósága
+Magyar Kereskedelmi
+Engedélyezési Hivatal
+7. vízjogi hatósági eljárások Közép-Duna-völgyi
+Környezetvédelmi,
+Természetvédelmi és Vízügyi
+Felügyelőség
+Országos Környezetvédelmi,
+Természetvédelmi és Vízügyi
+Főfelügyelőség
+
+8. hírközlési hatósági eljárások Nemzeti Média- és Hírközlési
+Hatóság
+Nemzeti Média- és Hírközlési
+Hatóság elnöke
+9. földvédelmi, telekalakítási,
+földmérési,
+ingatlan-nyilvántartási hatósági
+eljárások
+Budapesti 1. számú Körzeti
+Földhivatal
+Budapest Főváros
+Kormányhivatalának Földhivatala
+10. talajvédelmi hatósági eljárások Pest Megyei Kormányhivatal
+Növény- és Talajvédelmi
+Igazgatósága
+Mezőgazdasági Szakigazgatási
+Hivatal
+11. beépített tűzjelző, tűzoltó
+berendezések létesítési és
+használatbavételi eljárásai
+Fővárosi Tűzoltó-parancsnokság Belügyminisztérium
+Országos Katasztrófavédelmi
+Főigazgatóság
+12. tűzvédelmi hatósági ügyekben
+eltérési engedélyezési eljárások
+Belügyminisztérium Országos
+Katasztrófavédelmi
+Főigazgatóság
+katasztrófák elleni védekezésért
+felelős miniszter
+13. a jogszabályokban rögzített
+tűzvédelmi hatósági
+egyeztetésekkel kapcsolatos
+hatósági eljárások
+Fővárosi Tűzoltó-parancsnokság Belügyminisztérium
+Országos Katasztrófavédelmi
+Főigazgatóság
+14. kulturális örökségvédelmi
+hatósági engedélyek
+Budapest Főváros
+Kormányhivatala Kulturális
+Örökségvédelmi Irodája
+Kulturális Örökségvédelmi Hivatal
+15. bányahatósági engedélyek Budapesti Bányakapitányság Magyar Bányászati és Földtani
+Hivatal
+16. hajózási engedélyek,
+kikötő engedélyezése
+Nemzeti Közlekedési Hatóság
+Útügyi, Vasúti és Hajózási
+Hivatala
+Nemzeti Közlekedési Hatóság
+Központja
+
+2. melléklet a 311/2011. (XII. 23.) Korm. rendelethez
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő
+hatáskörrel rendelkező szakhatóságok
+A B C
+1. Szakhatósági közreműködése tárgyköre Első fokú szakhatóság Másodfokú szakhatóság
+2. építésügy Pest Megyei Kormányhivatal építésügyért felelős miniszter
+3. környezetvédelem, természetvédelem és vízügy Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi
+és Vízügyi Felügyelőség
+Országos Környezetvédelmi, Természetvédelmi és
+Vízügyi Főfelügyelőség
+4. katasztrófavédelem Fővárosi Polgári Védelmi Igazgatóság Belügyminisztérium
+Országos Katasztrófavédelmi Főigazgatóság
+5. tűzvédelem Fővárosi Tűzoltó-parancsnokság Belügyminisztérium
+Országos Katasztrófavédelmi Főigazgatóság
+6. kulturális örökségvédelem: műemlék, műemléki
+jelentőségű terület, műemléki környezet, régészeti
+lelőhely, régészeti védőövezet
+Budapest Főváros Kormányhivatala Kulturális
+Örökségvédelmi Irodája
+Kulturális Örökségvédelmi Hivatal
+7. közlekedés Nemzeti Közlekedési Hatóság Központja
+8. a) közút Budapest Főváros Kormányhivatala Közlekedési
+Felügyelősége
+9. b) hajózás Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási
+Hivatala
+10. rendészet,
+a helyi közutak és a közforgalom elől el nem zárt
+magánutak esetén
+Budapest I. Kerületi Rendőrkapitányság Budapesti Rendőr-főkapitányság
+11. földművelésügy
+12. a) termőföldvédelem Budapesti 1. számú Körzeti Földhivatal Budapest Főváros Kormányhivatalának Földhivatala
+13. b) talajvédelem Pest Megyei Kormányhivatal Növény- és Talajvédelmi
+Igazgatósága
+Mezőgazdasági Szakigazgatási Hivatal
+14. egészségügy Budapest Főváros Kormányhivatala Népegészségügyi
+Szakigazgatási Szerve
+Országos Tisztifőorvosi Hivatal
+15. hírközlés Nemzeti Média- és Hírközlési Hatóság Hivatala Nemzeti Média- és Hírközlési Hatóság elnöke
+16. műszaki biztonság Budapest Főváros Kormányhivatala Mérésügyi és Műszaki
+Biztonsági Hatósága
+Magyar Kereskedelmi Engedélyezési Hivatal
+17. élelmiszer-egészségügy Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és
+Állategészségügyi Igazgatósága
+Mezőgazdasági Szakigazgatási Hivatal
+18. területrendezés Budapest Főváros Kormányhivatala Építésügyi
+Hivatalának Állami Főépítésze
+területrendezésért felelős miniszter
+19. földtan Budapesti Bányakapitányság Magyar Bányászati és Földtani Hivatal
+20. bányászat Budapesti Bányakapitányság Magyar Bányászati és Földtani Hivatal

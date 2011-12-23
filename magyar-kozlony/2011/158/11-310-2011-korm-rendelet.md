@@ -1,0 +1,618 @@
+# A Kormány 310/2011. (XII. 23.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 158. szám, 2011. december 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/111124ed458b119ea6e481af2b287e8ef4b8badc/dokumentumok/7157db55f1432f66a67d25e5e211386963bb666d/letoltes)
+
+---
+
+A Kormány 310/2011. (XII. 23.) Korm. rendelete
+a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának,
+valamint a közbeszerzési műszaki leírás meghatározásának módjáról
+A Kormány a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 1. és 2. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+I. FEJEZET
+1. A kizáró okok igazolása
+1. § Az ajánlattevőnekvagy a részvételre jelentkezőnekajánlatában,illetve részvételi jelentkezésébena közbeszerzésekről
+szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) Második Része szerint lefolytatott közbeszerzési eljárásban
+a 2–10. § szerint kell igazolnia, hogy nem tartozik a Kbt. 56. § (1)–(2) bekezdésének, valamint – ha az ajánlatkérő azt
+előírta – a Kbt. 57. § (1) bekezdésének hatálya alá.
+
+2. § Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében a Kbt. Második Része szerint
+lefolytatott közbeszerzési eljárásban az ajánlatkérő a Kbt. 56. §-a tekintetében a következő igazolásokat és írásbeli
+nyilatkozatokat köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:
+a) a Kbt. 56. § (1) bekezdés a) és b) pontjában foglalt kizáró ok hiányát a céginformációs és az elektronikus
+cégeljárásban közreműködő szolgálattól (a továbbiakban: céginformációs szolgálat) ingyenesen, elektronikusan
+kérhető cégjegyzék-adatok alapján az ajánlatkérő ellenőrzi; a Kbt. 56. § (1) bekezdés b) pontja esetén,
+amennyiben a gazdasági szereplő a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló
+2006. évi V. törvény értelmében nem minősül cégnek, vagy amennyiben az adott szervezet tevékenységének
+felfüggesztésére a cégbíróságon kívül más hatóság is jogosult, közjegyző vagy gazdasági, illetve szakmai kamara
+által hitelesített nyilatkozatot;
+b) a Kbt. 56. § (1) bekezdés c) pontja esetén magánszemély részéről hatósági erkölcsi bizonyítványt, cég esetében
+a kizáró ok hiányát a céginformációs szolgálattól ingyenesen, elektronikusan kérhető cégjegyzék-adatok alapján
+az ajánlatkérő ellenőrzi; amennyiben a nem magánszemély gazdasági szereplő nem minősül cégnek, közjegyző
+vagy gazdasági, illetve szakmai kamara által hitelesített nyilatkozatot;
+c) a Kbt. 56. § (1) bekezdés d) pontjábanfoglalt kizáró ok hiányát a KözbeszerzésiHatóság (a továbbiakban:Hatóság)
+honlapján elérhető nyilvántartásból, valamint a céginformációs szolgálattól ingyenesen, elektronikusan kérhető
+cégjegyzék-adatok alapján az ajánlatkérő ellenőrzi;
+d) a Kbt. 56. § (1) bekezdés e) pontjában foglalt kizáró ok hiányát az adózás rendjéről szóló 2003. évi XCII. törvény
+(a továbbiakban: Art.) szerinti köztartozásmentes adózói adatbázisból az ajánlatkérő ellenőrzi, amennyiben
+a gazdasági szereplő az adatbázisban nem szerepel, az illetékes adó- és vámhivatal igazolását vagy az Art. szerinti
+együttes adóigazolást;
+e) a Kbt. 56. § (1) bekezdés f) és i) pontja esetén az ajánlattevő vagy részvételre jelentkező közjegyző vagy gazdasági,
+illetve szakmai kamara által hitelesített nyilatkozatát;
+f) a Kbt. 56. § (1) bekezdés g) pontjára vonatkozóan:
+fa) a Kbt. 56. § (1) bekezdés g) pont ga) alpontjában foglalt kizáró okok hiányát az ajánlatkérő ellenőrzi a
+munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a és az
+adóhatóságnak az Art. 55. § (6) bekezdése szerint vezetett nyilvántartásából nyilvánosságra hozott
+adatokból;
+fb) a Kbt. 56. § (1) bekezdés g) pont gb) alpontjában foglalt kizáró okok hiányát az ajánlatkérő ellenőrzi
+a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett
+nyilvántartásából nyilvánosságra hozott adatokból, valamint a Bevándorlási és Állampolgársági Hivatal
+honlapján közzétett adatokból;
+g) a Kbt. 56. § (1) bekezdés h) pontja esetén – amelyet kizárólag természetes személy gazdasági szereplő köteles
+igazolni – hatósági erkölcsi bizonyítványt;
+h) a Kbt. 56. § (1) bekezdés j) pontjára vonatkozóan nem szükséges igazolás vagy nyilatkozat benyújtása, a kizáró ok
+megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
+i) a Kbt. 56. § (1) bekezdés k) pontjára vonatkozóan:
+ia) a Kbt. 56. § (1) bekezdés k) pont ka) és kb) alpontja tekintetében nem szükséges igazolás vagy nyilatkozat
+benyújtása, a céginformációs szolgálattól ingyenesen, elektronikusan kérhető cégjegyzék-adatok alapján
+az ajánlatkérő azt ellenőrzi, hogy valóban Magyarországon bejegyzett gazdasági szereplőről van szó;
+ib) a Kbt. 56. § (1) bekezdés k) pont kc) alpontja tekintetében az ajánlattevő, illetve részvételre jelentkező
+nyilatkozata arról, hogy olyan társaságnak minősül-e, melyet nem jegyeznek szabályozott tőzsdén vagy
+amelyet szabályozott tőzsdén jegyeznek; ha az ajánlattevőt vagy részvételre jelentkezőt nem jegyzik
+szabályozott tőzsdén, akkor a pénzmosás és a terrorizmus finanszírozása megelőzéséről és
+megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: pénzmosásról szóló törvény)
+3. § r) pontja szerint definiált valamennyi tényleges tulajdonos nevének és állandó lakóhelyének
+bemutatását tartalmazó nyilatkozatot szükséges benyújtani; amennyiben a pénzmosásról szóló törvény
+3. § r) pontja szerinti tényleges tulajdonos nincsen, az ajánlattevő, illetve részvételre jelentkező erre
+vonatkozó nyilatkozatát;
+j) a Kbt. 56. § (2) bekezdésérevonatkozóanaz ajánlattevővagy részvételrejelentkezőnyilatkozatátarról,hogy van-e
+olyan jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely az ajánlattevőben, illetve
+részvételrejelentkezőbenközvetettenvagy közvetlenültöbb,mint 25 %-ostulajdonirésszelvagy szavazatijoggal
+rendelkezik; amennyiben van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező köteles azt
+
+nyilatkozatban megnevezni, továbbá nyilatkozni, hogy annak vonatkozásában a Kbt. 56. § (2) bekezdésében
+hivatkozott kizáró feltételek nem állnak fenn.
+3. § Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében a Kbt. Második Része szerint
+lefolytatott közbeszerzési eljárásban az ajánlatkérő a Kbt. 57. §-a tekintetében a következő igazolásokat és írásbeli
+nyilatkozatokat köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:
+a) a Kbt. 57. § (1) bekezdés a)–c) és f) pontja esetén az ajánlattevő vagy részvételre jelentkező közjegyző vagy
+gazdasági, illetve szakmai kamara által hitelesített nyilatkozatát;
+b) a Kbt. 57. § (1) bekezdés d) pontja esetén a cégjegyzékben szereplés tényét a céginformációs szolgálattól
+ingyenesen, elektronikusan kérhető adatok alapján az ajánlatkérő ellenőrzi; további nyilvántartások esetében a
+Kbt. 36. § (5) bekezdésében foglaltak szerint elérhető nyilvántartást az ajánlatkérő ellenőrzi, egyebekben a
+nyilvántartás kivonatát, a nyilvántartást vezető szerv igazolását vagy a nyilvántartásban szereplés tényét igazoló
+egyéb dokumentumot köteles elfogadni;
+c) a Kbt. 57. § (1) bekezdés e) pontja esetén a Kbt. 36. § (5) bekezdésében foglaltak szerint elérhető nyilvántartást
+az ajánlatkérő ellenőrzi, egyebekben az engedély vagy a jogosítvány másolatát, illetve a szervezeti, kamarai
+tagságról szóló igazolást köteles elfogadni.
+4. § Nem Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében az ajánlatkérő a Kbt. Második
+Része szerint lefolytatott közbeszerzési eljárásban a Kbt. 56. §-a és 57. §-a tekintetében a következő igazolásokat és
+írásbeli nyilatkozatokat köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:
+a) a Kbt. 56. § (1) bekezdés a)–d), f), h) és i) pontja és 57. § (1) bekezdés a)–c) pontja esetén az illetékes bíróság vagy
+hatóságok nyilvántartásának kivonatát (hatósági erkölcsi bizonyítványt) vagy ennek hiányában bírósági vagy
+hatósági igazolást;
+b) a Kbt. 56. § (1) bekezdés e) pontja esetén a letelepedése szerinti ország illetékes hatóságainak igazolását; a kizáró
+ok hiányát magyarországi köztartozással kapcsolatban az Art. szerinti köztartozásmentes adózói adatbázisból
+az ajánlatkérőis ellenőrzi,amennyibenaz ajánlattevő,illetverészvételrejelentkezőaz adatbázisbannem szerepel,
+az illetékes adó- és vámhivatal igazolását vagy az Art. szerinti együttes adóigazolást is be kell nyújtani;
+c) amennyiben az illetékes bíróság vagy hatóság nem bocsát ki az a) vagy a b) pont szerinti kivonatot vagy igazolást,
+vagy azok nem terjednek ki az a) pontban hivatkozott esetek mindegyikére, az ajánlattevő, illetve részvételre
+jelentkező eskü alatt tett nyilatkozatát, vagy ha ilyen nyilatkozat nem ismert az érintett országban, az ajánlattevő,
+illetve részvételre jelentkező által az illetékes bíróság, hatóság, kamara vagy szakmai szervezet előtt tett vagy
+közjegyző által hitelesített nyilatkozatot;
+d) a Kbt. 56. § (1) bekezdés g) pontjára vonatkozóan:
+da) a Kbt. 56. § (1) bekezdés g) pont ga) alpontjában foglalt kizáró okok hiányát az ajánlatkérő ellenőrzi a
+munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a és az
+adóhatóságnak az Art. 55. § (6) bekezdése szerint vezetett nyilvántartásából nyilvánosságra hozott
+adatokból;
+db) a Kbt. 56. § (1) bekezdés g) pont gb) alpontjában foglalt kizáró okok hiányát az ajánlatkérő ellenőrzi a
+munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett
+nyilvántartásából nyilvánosságra hozott adatokból, valamint a Bevándorlási és Állampolgársági Hivatal
+honlapján közzétett adatokból;
+e) a Kbt. 56. § (1) bekezdés j) pontjára vonatkozóan nem szükséges igazolás vagy nyilatkozat benyújtása, a kizáró ok
+megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
+f) a Kbt. 56. § (1) bekezdés k) pontjára vonatkozóan:
+fa) a Kbt. 56. § (1) bekezdés k) pont ka) alpontja tekintetében az érintett ország illetékes hatósága által kiállított
+adóilletőség-igazolást;
+fb) a Kbt. 56. § (1) bekezdés k) pont kb) alpontja tekintetében a nem magyarországi adóilletőségű gazdasági
+szereplő eskü alatt tett nyilatkozatát, vagy ha ilyen nyilatkozat nem ismert az érintett országban, az illetékes
+bíróság, hatóság, kamara vagy szakmai szervezet előtt tett, vagy közjegyző által hitelesített nyilatkozatot;
+fc) a Kbt. 56. § (1) bekezdés k) pont kc) pontja tekintetében az ajánlattevő, illetve részvételre jelentkező
+nyilatkozatát arról, hogy olyan társaságnak minősül-e, melyet nem jegyeznek szabályozott tőzsdén vagy
+amelyet szabályozott tőzsdén jegyeznek; ha az ajánlattevőt, illetve részvételre jelentkezőt nem jegyzik
+szabályozott tőzsdén, akkor a pénzmosásról szóló törvény 3. § r) pontja szerint definiált valamennyi
+
+tényleges tulajdonos nevének és állandó lakóhelyének bemutatását tartalmazó nyilatkozatot szükséges
+benyújtani; amennyiben a pénzmosásról szóló törvény 3. § r) pontja szerinti tényleges tulajdonos nincsen,
+az ajánlattevő, illetve részvételre jelentkező erre vonatkozó nyilatkozatát;
+g) a Kbt. 56. § (2) bekezdésérevonatkozóanaz ajánlattevővagy részvételrejelentkezőnyilatkozatátarról,hogy van-e
+olyan jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely az ajánlattevőben, illetve
+részvételre jelentkezőbenközvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal
+rendelkezik; amennyiben van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező köteles azt
+nyilatkozatban megnevezni, továbbá nyilatkozni, hogy annak vonatkozásában a Kbt. 56. § (2) bekezdésében
+hivatkozott kizáró feltételek nem állnak fenn;
+h) a Kbt. 57. § (1) bekezdés d) pontja esetén a 2004/18/EK európai parlamenti és tanácsi irányelvnek árubeszerzés
+esetében a IX/B. mellékletében, építési beruházás esetében a IX/A. mellékletében, szolgáltatásmegrendelés
+esetében a IX/C. mellékletében felsorolt nyilvántartások szerinti igazolást (kivonatot) vagy egyéb igazolást, vagy
+nyilatkozatot;
+i) a Kbt. 57. § (1) bekezdés e) pontja esetén az engedély vagy a jogosítvány másolatát, illetve a szervezeti, kamarai
+tagságról szóló igazolást;
+j) a Kbt. 57. § (1) bekezdés f) pontja esetén az ajánlattevő, illetve részvételre jelentkező eskü alatt tett nyilatkozatát,
+vagy ha ilyen nyilatkozat nem ismert az érintett országban, az illetékes bíróság, hatóság, kamara vagy szakmai
+szervezet előtt tett, vagy közjegyző által hitelesített nyilatkozatot.
+5. § A 2–4. §-ban foglalt olyan esetekben is, ahol e rendelet azt kifejezetten nem rögzíti, az ajánlatkérő ellenőrzi a kizáró ok
+hiányát, ha azzal kapcsolatos tények, adatok ellenőrzésére az ajánlatkérő magyar nyelven rendelkezésre álló,
+elektronikus, hatósági vagy közhiteles nyilvántartásból ingyenesen jogosult.
+6. § Azokban az esetekben, amelyekben a 18. §-ban meghatározott minősített ajánlattevők hivatalos jegyzéke bizonyítja
+– figyelemmel a 18. §-ban és 20. §-ban foglaltakra is –, hogy a gazdasági szereplő nem esik valamely kizáró ok hatálya
+alá, a minősített ajánlattevőkelektronikusanelérhető hivatalosjegyzékén való szerepléstényét, illetve az Európai Unió
+egy másik tagállamában letelepedett gazdasági szereplő által benyújtott, a letelepedési helye szerinti elismert
+ajánlattevők hivatalos listáját vezető szervezettől származó jegyzék szerinti igazolást is köteles az ajánlatkérő
+elfogadni a 2–4. §-ban foglalt egyéb igazolási módok helyett.
+7. § Az ajánlatkérő a Kbt. Második Része szerint lefolytatott közbeszerzési eljárásban az eljárást megindító felhívásban
+köteles előírni, hogy folyamatban lévő változásbejegyzési eljárás esetében, az ajánlathoz, illetve részvételi
+jelentkezéshez csatolni kell a cégbírósághoz benyújtott változásbejegyzési kérelmet és az annak érkezéséről a
+cégbíróság által megküldött igazolást.
+8. § (1) A 2. § j) pontja, valamint a 4. § g) pontja szerint igazolt Kbt. 56. § (2) bekezdésének alkalmazásában közvetett tulajdon,
+illetve szavazati jog alatt az ajánlattevő vagy részvételre jelentkező tulajdoni hányadának, illetőleg szavazati jogának
+az ajánlattevőben vagy részvételre jelentkezőben tulajdoni részesedéssel, illetőleg szavazati joggal rendelkező más
+gazdasági szereplő (köztes gazdasági szereplő) tulajdoni hányadán, szavazati jogán keresztül történő gyakorlását kell
+érteni. A közvetett tulajdon, a közvetett szavazati jog arányának megállapításához a közvetett tulajdonnal, szavazati
+joggal rendelkezőnek a köztes gazdasági szereplőben fennálló szavazati jogát vagy tulajdoni hányadát meg kell
+szorozni a köztes gazdasági szereplőnek az ajánlattevőben, illetve részvételi jelentkezőben fennálló szavazati vagy
+tulajdonihányadaközülazzal,amelyika nagyobb.Ha a köztesgazdaságiszereplőbenfennállószavazativagy tulajdoni
+hányad az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni.
+(2) A 2. § i) pont ib) alpontjában és j) pontjában, valamint a 4. § f)–g) pontjában foglalt nyilatkozat benyújtása mellett
+a nyilatkozattal igazolt kizáró ok tekintetében az ajánlatkérőt további ellenőrzési kötelezettség – hatóságok, más
+szervezetek megkeresése – nem terheli és kizárólag a tudomására hozott kétséget kizáró bizonyíték esetében köteles
+a hamis nyilatkozattétel tényét megállapítani.
+(3) A 2. § i) pont ib) alpontja, valamint a 4. § f) pont fc) alpontja alkalmazásában szabályozott tőzsde alatt a tőkepiacról
+szóló 2001. évi CXX. törvény 5. § (1) bekezdés 114. pontjában meghatározott szabályozott piacot kell érteni.
+
+9. § A Kbt. 57. § (3) bekezdése alapján a kizáró okok esetében az ajánlatkérő több szakaszból álló eljárás ajánlattételi
+(párbeszéd és ajánlattételi) szakaszában is ellenőrzi a Kbt. 36. § (5) bekezdése szerinti nyilvántartásban szereplő
+adatokat, az ilyen módon nem ellenőrizhető további kizáró okok esetében a Kbt. 87. § (1) bekezdés d) pontja,
+91. § (1) bekezdés d) pontja, 105. § (1) bekezdés m) pontja, valamint 107. § (4) bekezdés e) pontja alapján elegendő az
+ajánlattevő nyilatkozata arról, hogy az ajánlattevő, alvállalkozója és adott esetben az alkalmasság igazolásában részt
+vevőmásszervezettovábbrasemtartozikakizáróokokhatályaalá.A Kbt.MásodikRészeszerintieljárásbancsakabban
+az esetben kell a részvételi jelentkezéssel már benyújtott igazolást vagy nyilatkozatot az eljárás ajánlattételi
+szakaszában újra benyújtani, ha a korábban benyújtott igazolás vagy nyilatkozat már nem alkalmas az előírtak
+bizonyítására.
+10. § Az ajánlattevő vagy részvételre jelentkező az alvállalkozója és adott esetben az alkalmasság igazolásában részt vevő
+más szervezet vonatkozásában csak a Kbt. 58. § (3) bekezdése szerinti nyilatkozatot köteles benyújtani a Kbt.
+56. §-ában foglalt kizáró okok hiányáról. Amennyiben az ajánlatkérő előírta a Kbt. 57. §-ában foglalt kizáró okok
+érvényesítését is az alvállalkozó és az alkalmasság igazolásában részt vevő más szervezet vonatkozásában,
+az ajánlattevő vagy részvételre jelentkező választása szerint
+a) saját nyilatkozatot nyújt be arról, hogy nem vesz igénybe a Kbt. 57. § szerinti kizáró okok hatálya alá eső
+alvállalkozót, valamint az általa alkalmasságának igazolására igénybe vett más szervezet nem tartozik a Kbt.
+57. §-a szerinti kizáró okok hatálya alá, vagy
+b) az eljárásban megjelölt alvállalkozó nyilatkozatát – a meg nem jelöltekre az a) pont szerinti nyilatkozat mellett –,
+valamint az alkalmasság igazolására igénybe vett más szervezet nyilatkozatát is benyújthatja arról, hogy a
+szervezet nem tartozik a Kbt. 57. §-a szerinti kizáró okok hatálya alá.
+11. § (1) A Kbt. 56. § (1) bekezdés e) pontja szerinti köztartozást nyilvántartó hatóságok igazolásának [2. § d) pontja] azt kell
+tartalmaznia, hogy az igazolás kiállításának időpontjában van-e a gazdasági szereplőnek a hatóság által nyilvántartott
+köztartozása,és ha van, milyen időpontban járt le a gazdasági szereplőarra vonatkozófizetési kötelezettsége és annak
+megfizetésére halasztást kapott-e, illetve milyen időtartamú halasztást kapott.
+(2) Az (1) bekezdés szerinti hatósági igazolást – ha az igazolás egyébként bizonyítja azt, hogy nincs a gazdasági
+szereplőnek egy évnél régebben lejárt köztartozása – az ajánlatkérő köteles elfogadni akkor is, ha nem közbeszerzési
+eljárásban való felhasználás céljára állították ki, vagy az ajánlatkérő, vagy az ajánlatkérőn kívüli szervezet más
+közbeszerzési vagy egyéb eljárásában való felhasználás céljából állították ki, vagy ha a kiállító hatóság egy évnél
+rövidebb érvényességi időt írt az igazolásra és az már lejárt.
+(3) Ha jogszabály a Kbt. 56. § (1) bekezdés e) pontjának hatálya alá tartozó új közterhet állapít meg, az ezzel kapcsolatos
+igazolást csak azokban az eljárásokban kell csatolni, amelyekben az ajánlattételi vagy részvételi határidő a
+köztartozásról szóló rendelkezés hatálybalépését követő egy évnél későbbi időpontra esik.
+(4) A Bevándorlási és Állampolgársági Hivatal a honlapján a Kbt. 56. § (1) bekezdés g) pont gb) alpontja alapján érintett,
+a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint általa közrendvédelmi
+bírsággal sújtott gazdasági szereplőkről – a személyes adatok sérelme nélkül – tájékoztatást tesz közzé a határozat
+jogerőre emelkedésétől számított két évig. Ha a Bevándorlási és Állampolgársági Hivatal tudomására jutott, hogy
+határozatának bírósági felülvizsgálata iránt keresetet indítottak, a kizáró okra vonatkozó adatokat a bíróság jogerős
+és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé, megjelölve a keresetet elutasító vagy
+a határozatot megváltoztató döntés jogerőre emelkedésének időpontját. Amennyiben az adatok nyilvánosságra
+hozatalára már sor került – a keresetindításról történő tudomásszerzéssel egyidejűleg – intézkedik a honlapon
+nyilvánosságra hozott adatok törléséről.
+12. § Az ajánlattevőnek és a részvételre jelentkezőnek ajánlatában, illetve részvételi jelentkezésében a Kbt. Harmadik Része
+szerint lefolytatott közbeszerzési eljárásban nyilatkozatot kell benyújtania, hogy nem tartozik a felhívásban előírt
+kizáró okok hatálya alá, valamint a Kbt. 56. § (1) bekezdés k) pont kc) pontját a 2. § i) pont ib) alpontja és a 4. § f) pont
+fc) alpontjában foglaltak szerint kell igazolnia. Az alvállalkozóés adott esetben az alkalmasság igazolásában részt vevő
+más szervezet vonatkozásában a 10. § szerint kell eljárnia. Ha az ajánlatkérő a Kbt. 123. §-a alapján önállóan kialakított
+szabályok szerint jár el, a felhívásban előírt kizáró okok igazolásának módját e rendeletben meghatározottak szerint
+írhatja elő.
+
+13. § (1) A Hatóság útmutatót ad ki a 2–4. §-ban hivatkozott, a Magyarországon, valamint az Európai Unióban és az Európai
+Gazdasági Térségben letelepedett gazdasági szereplők által benyújtandó igazolásokról, nyilatkozatokról,
+nyilvántartásokról és adatokról.
+(2) A Hatóság a Kbt. 36. § (6) bekezdése alapján a magyarországi hatósági és közhiteles elektronikus nyilvántartásokról ad
+ki útmutatót.
+(3) A Hatóság a Kbt. 172. § (9) bekezdése szerinti útmutató mellett a Kbt. 56. § (1) bekezdés k) pont ka) alpontjában foglalt
+nemzetközi szervezetek tagállamainak listáját is folyamatosan elérhetővé teszi a honlapján.
+II. FEJEZET
+AZ ALKALMASSÁG IGAZOLÁSA
+2. A gazdasági és pénzügyi alkalmasság
+14. § (1) Az ajánlattevőnek, illetve a részvételre jelentkezőnek a szerződés teljesítéséhez szükséges pénzügyi és gazdasági
+alkalmassága árubeszerzés, építési beruházás, valamint szolgáltatás megrendelése esetén igazolható
+a) pénzügyi intézménytől származó, legfeljebb az eljárást megindító felhívás feladásától – nem hirdetménnyel
+induló eljárásokban megküldésétől – visszafelé számított kettő évre vonatkozóan kérhető, erről szóló
+nyilatkozattal, attól függően, hogy az ajánlattevő vagy részvételre jelentkező mikor jött létre, illetve mikor kezdte
+meg tevékenységét, amennyiben ezek az adatok rendelkezésre állnak;
+b) saját vagy jogelődje számviteli jogszabályok szerinti beszámolójának – vagy annak meghatározott részének –
+benyújtásával (ha a gazdasági szereplő letelepedése szerinti ország joga előírja közzétételét); amennyiben az
+ajánlatkérő által kért beszámoló a céginformációs szolgálat honlapján megismerhető, a beszámoló adatait az
+ajánlatkérő ellenőrzi, a céginformációs szolgálat honlapján megtalálható beszámoló csatolása az ajánlatban,
+illetve részvételi jelentkezésben nem szükséges;
+c) az előző legfeljebb három évre vonatkozóan kérhető, teljes – általános forgalmi adó nélkül számított –
+árbevételéről, illetve ugyanezen időszakban a közbeszerzés tárgyából származó – általános forgalmi adó nélkül
+számított – árbevételéről szóló nyilatkozatával, attól függően, hogy az ajánlattevő vagy részvételre jelentkező
+mikor jött létre, illetve mikor kezdte meg tevékenységét, amennyiben ezek az adatok rendelkezésre állnak;
+d) az eljárást megindító felhívásban meghatározott, szakmai felelősségbiztosításának fennállásáról szóló
+igazolással.
+(2) Ha az ajánlattevő vagy részvételre jelentkező az (1) bekezdés b) pontja szerinti irattal azért nem rendelkezik az
+ajánlatkérő által előírt teljes időszakban, mert az időszak kezdete után kezdte meg működését, az alkalmasságát
+a közbeszerzés tárgyából származó árbevételről szóló nyilatkozattal jogosult igazolni. Az ajánlatkérő köteles az
+ajánlattevő vagy részvételre jelentkező pénzügyi és gazdasági alkalmasságát megállapítani, ha működésének ideje
+alatt a közbeszerzés tárgyából származó – általános forgalmi adó nélkül számított – árbevétele eléri vagy meghaladja
+az ajánlatkérő által az eljárást megindító felhívásban meghatározott értéket. Az ajánlatkérő az eljárást megindító
+felhívásban – amennyiben az (1) bekezdés b) pontja szerinti dokumentum benyújtását írja elő – köteles meghatározni
+az e bekezdés alkalmazásában a később létrejött gazdasági szereplőktől megkövetelt árbevétel mértékét.
+(3) Ha az ajánlattevő vagy részvételre jelentkező az (1) bekezdés b) vagy c) pontja szerinti irattal azért nem rendelkezik,
+mert olyan jogi formában működik, amely tekintetében a beszámoló, illetve árbevételről szóló nyilatkozat benyújtása
+nem lehetséges, az e pontokkal kapcsolatban előírt alkalmassági követelmény és igazolási mód helyett bármely, az
+ajánlatkérő által megfelelőnek tekintett egyéb nyilatkozattal vagy dokumentummal igazolhatja pénzügyi és
+gazdasági alkalmasságát. Az érintett ajánlattevő vagy részvételre jelentkező kiegészítő tájékoztatás kérése során
+köteles alátámasztani, hogy olyan jogi formában működik, amely tekintetében a beszámoló, illetve árbevételről szóló
+nyilatkozat benyújtása nem lehetséges és tájékoztatást kérni az e pontokkal kapcsolatban előírt alkalmassági
+követelmény és igazolási mód helyett az alkalmasság igazolásának ajánlatkérő által elfogadott módjáról.
+(4) Az (1) bekezdés c) pontja alkalmazásában az ajánlatkérő jogosult kizárólag a teljes árbevételről, vagy kizárólag a
+közbeszerzés tárgya szerinti árbevételről vagy mindkettőről szóló nyilatkozat benyújtását előírni.
+(5) Azokban az esetekben, amelyekben a 18. §-ban meghatározott minősített ajánlattevők hivatalos jegyzéke bizonyítja
+– figyelemmel a 18. §-ban és 20. §-ban foglaltakra is –, hogy a gazdasági szereplő megfelel az adott alkalmassági
+követelménynek, a minősített ajánlattevők elektronikusan elérhető hivatalos jegyzékén való szereplés tényét, illetve
+az Európai Unió egy másik tagállamábanletelepedett gazdasági szereplőáltal benyújtott, a letelepedési helye szerinti,
+
+az elismert ajánlattevők hivatalos listáját vezető szervezettől származó jegyzék szerinti igazolást is köteles az
+ajánlatkérő elfogadni az (1) bekezdésben foglalt egyéb igazolási módok helyett.
+(6) A Kbt. XIV. fejezete, illetve a közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról szóló
+külön jogszabály szerint eljáró ajánlatkérő az (1) bekezdésben meghatározottakon kívül egyéb objektív alapú
+alkalmassági feltételt és ahhoz tartozó igazolási módot is előírhat.
+(7) Az ajánlatkérő a Kbt. Harmadik Része szerint lefolytatott eljárásban, amennyiben a Kbt. 123. §-a alapján jár el – feltéve,
+hogy alkalmassági követelményt írt elő az eljárásban – a Kbt. 123. § (4) bekezdésében foglaltak szerint egyéb igazolási
+módot is előírhat.
+(8) Az ajánlatkérő a Kbt. Harmadik Része szerint lefolytatott eljárásban, amennyiben a Kbt. 122. §-a alapján jár el, ha
+az árubeszerzés vagy szolgáltatás értéke nem éri el a huszonötmillió forintot vagy az építési beruházás becsült értéke
+nem éri el a százötvenmillió forintot és az ajánlatkérő azt az eljárást megindító felhívásban lehetővé tette,
+az (1) bekezdésben foglalt igazolási módok helyett elfogadhatja az ajánlattevő vagy részvételre jelentkező arra
+vonatkozó nyilatkozatát is, hogy megfelel az ajánlatkérő által előírt alkalmassági követelményeknek.
+(9) Az ajánlatkérő a (8) bekezdésben foglalt esetben is csak olyan alkalmassági követelményt írhat elő, amely az
+(1) bekezdésben foglalt dokumentumokkal igazolható, az ajánlattevő vagy részvételre jelentkező pedig – ahol az
+ajánlatkérő lehetővé tette – választása szerint jogosult az (1) bekezdésben foglaltak helyett nyilatkozattal igazolni
+alkalmasságát. Amennyiben az elbírálás során az ajánlatkérőnek kétsége merül fel a nyilatkozat valóságtartalmával
+kapcsolatban, a Kbt. 67. § (1) bekezdése szerinti felvilágosítás kérés keretében előírhatja a 14. § (1) bekezdése szerinti
+igazolás benyújtását.
+3. A műszaki és szakmai alkalmasság
+15. § (1) Az ajánlattevőnek és részvételre jelentkezőnek a szerződés teljesítéséhez szükséges műszaki, illetve szakmai
+alkalmassága árubeszerzés esetében – figyelemmel annak jellegére, mennyiségére, rendeltetésére – igazolható
+a) az eljárást megindító felhívás feladásától – nem hirdetménnyel induló eljárásokban megküldésétől – visszafelé
+számított megelőző három év legjelentősebb szállításainak ismertetésével; az ajánlatkérő köteles a három év
+teljesítését figyelembe venni;
+b) műszaki-technikai felszereltségének, a minőség biztosítása érdekében tett intézkedéseinek, illetve vizsgálati és
+kutatási eszközeinek leírásával;
+c) azoknak a szakembereknek (szervezeteknek), illetve vezetőknek – különösen a minőség-ellenőrzésért
+felelősöknek – a megnevezésével, képzettségük, szakmai tapasztalatuk ismertetésével, akiket be kíván vonni
+a teljesítésbe;
+d) a beszerzendő áru leírásával, mintapéldányának, illetve fényképének bemutatásával, amelynek hitelességét
+az ajánlatkérő felhívására igazolni kell;
+e) elismert (bármely nemzeti rendszerben akkreditált) tanúsító szervezettől származó tanúsítvánnyal, amely
+tanúsítja, hogy a leírásokra vagy szabványokra történő hivatkozással egyértelműen meghatározott áru megfelel
+bizonyos leírásoknak vagy szabványoknak;
+f) ha az áru összetett, vagy ha különleges célra szolgál a termelési képességéről, illetve vizsgálati és kutatási
+eszközeiről, minőségbiztosítási intézkedéseiről az ajánlatkérő vagy más szervezet által végzett vizsgálattal.
+(2) Az ajánlattevőnek és részvételre jelentkezőnek a szerződés teljesítéséhez szükséges műszaki, illetve szakmai
+alkalmassága építési beruházás esetében igazolható
+a) az eljárást megindító felhívás feladásától – nem hirdetménnyel induló eljárásokban megküldésétől – visszafelé
+számított öt év legjelentősebb építési beruházásainak ismertetésével; az ajánlatkérő köteles az öt év teljesítését
+figyelembe venni;
+b) a teljesítéshez rendelkezésre álló eszközök, berendezések, valamint műszaki felszereltség leírásával;
+c) az ajánlattevő vagy részvételre jelentkező, illetve vezetői végzettségének és képzettségének ismertetésével, és
+különösen azon személyek végzettségének és képzettségének ismertetésével, akik az építési beruházás
+teljesítéséért felelősek;
+d) az előző legfeljebb három évre vonatkozóan kérhető, az éves átlagos statisztikai állományi létszámáról és vezető
+tisztségviselőinek létszámáról készült kimutatással;
+
+e) azoknak a szakembereknek (szervezeteknek) – különösen a minőség-ellenőrzésért felelősöknek – a megnevezésével,
+képzettségük, szakmai tapasztalatuk ismertetésével, akiket be kíván vonni a teljesítésbe;
+f) indokolt esetben azoknak a környezetvédelmi intézkedéseknek a leírásával, amelyeket az ajánlattevő vagy
+részvételre jelentkező a teljesítés során alkalmazni tud.
+(3) Az ajánlattevőnek és részvételre jelentkezőnek a szerződés teljesítéséhez szükséges műszaki, illetve szakmai
+alkalmassága szolgáltatás megrendelése esetén – figyelemmel annak jellegére, mennyiségére, rendeltetésére,
+továbbá arra, hogy az alkalmasságot különösen a szakértelemre, hatékonyságra, tapasztalatra és megbízhatóságra
+tekintettel lehet megítélni – igazolható
+a) az eljárást megindító felhívás feladásától – nem hirdetménnyel induló eljárásokban megküldésétől – visszafelé
+számított háromév legjelentősebbszolgáltatásainakismertetésével;az ajánlatkérőkötelesa háromév teljesítését
+figyelembe venni;
+b) az ajánlattevő vagy részvételre jelentkező, illetve vezetői végzettségének és képzettségének ismertetésével,
+és különösen azon személyek végzettségének és képzettségének ismertetésével, akik a szolgáltatás teljesítéséért
+felelősek;
+c) az előző legfeljebb három évre vonatkozóan kérhető, az éves átlagos statisztikai állományi létszámáról és vezető
+tisztségviselőinek létszámáról készült kimutatással;
+d) azoknak a szakembereknek (szervezeteknek) – különösen a minőség-ellenőrzésért felelősöknek – a megnevezésével,
+képzettségük, szakmai tapasztalatuk ismertetésével, akiket be kíván vonni a teljesítésbe;
+e) a teljesítéshez rendelkezésre álló eszközök, berendezések, illetve műszaki felszereltség leírásával;
+f) a minőség biztosítása érdekében tett intézkedéseinek, illetve vizsgálati és kutatási eszközeinek leírásával;
+g) ha a szolgáltatás összetett, vagy ha különleges célra szolgál a termelési képességéről, illetve vizsgálati és kutatási
+eszközeiről, minőségbiztosítási intézkedéseiről az ajánlatkérő vagy más szervezet által végzett vizsgálattal;
+h) a szerződés (szolgáltatás) azon részének a megjelölésével, amelyre az ajánlattevő vagy részvételre jelentkező
+harmadik személlyel kíván szerződést kötni;
+i) indokolt esetben azoknak a környezetvédelmi intézkedéseknek a leírásával, amelyeket az ajánlattevő vagy
+részvételre jelentkező a teljesítés során alkalmazni tud.
+16. § (1) A 15. § (1) bekezdés a) pontjának és (3) bekezdés a) pontjának esetét a Kbt. Második Része szerint lefolytatott
+közbeszerzési eljárásban a következő módon kell igazolni:
+a) ha a szerződést kötő másik fél a Kbt. 6. § (1) bekezdés a)–c) pontja szerinti szervezet, illetve nem magyarországi
+szervezetek esetében olyan szervezet, amely a 2004/18/EK európai parlamenti és tanácsi irányelv alapján
+ajánlatkérőnek minősül, az általa kiadott vagy aláírt igazolással;
+b) ha a szerződést kötő másik fél az a) pontban foglalthoz képest egyéb szervezet, az általa adott igazolással vagy az
+ajánlattevő, részvételre jelentkező, illetve az alkalmasság igazolásában részt vevő más szervezet nyilatkozatával.
+(2) Az (1) bekezdés a)–b) pontja szerinti igazolás,illetve nyilatkozat tartalmazza legalábba következő adatokat: a teljesítés
+ideje, a szerződést kötő másik fél, a szállítás vagy szolgáltatás tárgya, az ellenszolgáltatás összege, továbbá nyilatkozni
+kell arról, hogy a teljesítés az előírásoknak és a szerződésnek megfelelően történt-e. Ajánlatkérő a referencia igazolás,
+illetve nyilatkozat tartalmi elemei között jogosult előírni az alkalmasság megállapításához szükséges további adat
+megadását is.
+(3) A 15. § (2) bekezdés a) pontjának esetét a Kbt. Második Része szerint lefolytatott közbeszerzési eljárásban a szerződést
+kötő másik fél által adott igazolással kell igazolni. Az igazolásban meg kell adni legalább az ellenszolgáltatás összegét,
+a teljesítés idejét és helyét, továbbá nyilatkozni kell arról, hogy a teljesítés az előírásoknak és a szerződésnek
+megfelelően történt-e. Ajánlatkérő a referencia igazolás, illetve nyilatkozat tartalmi elemei között jogosult előírni
+az alkalmasság megállapításához szükséges további adat megadását is.
+(4) Az (1)–(3) bekezdés szerinti esetekben a szerződést kötő másik félnek az igazolást szerződésszerű teljesítés esetében
+kötelessége a kérést követő két munkanapon belül díjmentesen kiállítania.
+(5) A 15. § (1) bekezdés a) pontjának,(2) bekezdés a) pontjának,valamint (3) bekezdés a) pontjánakesetét a Kbt. Harmadik
+Része szerint lefolytatott közbeszerzési eljárásban az ajánlattevő, részvételre jelentkező, illetve az alkalmasság
+igazolásában részt vevő más szervezet nyilatkozatával, vagy a szerződést kötő másik fél által adott igazolással lehet
+igazolni.
+
+17. § (1) Azokban az esetekben, amelyekben a 18. §-ban meghatározott minősített ajánlattevők hivatalos jegyzéke bizonyítja
+– figyelemmel a 18. §-ban és 20. §-ban foglaltakra is –, hogy a gazdasági szereplő megfelel az adott alkalmassági
+követelménynek, a minősített ajánlattevők elektronikusan elérhető hivatalos jegyzékén való szereplés tényét, illetve
+az Európai Unió egy másik tagállamábanletelepedett gazdasági szereplőáltal benyújtott, a letelepedési helye szerinti,
+az elismert ajánlattevők hivatalos listáját vezető szervezettől származó jegyzék szerinti igazolást is köteles az
+ajánlatkérő elfogadni a 15. § (1)–(3) bekezdésében foglalt egyéb igazolási módok helyett.
+(2) Ha az ajánlatkérő az ajánlattevő vagy részvételre jelentkező bizonyos minőségbiztosítási szabványoknak való
+megfelelősége tanúsításához független szervezet által kiállított tanúsítvány benyújtását írja elő, akkor a vonatkozó
+európai szabványsorozatnak megfelelő szervezet által tanúsított, a vonatkozó európai szabványsorozaton alapuló
+minőségbiztosítási rendszerekre kell hivatkoznia. Az ajánlatkérő köteles elfogadni az Európai Unió más tagállamában
+bejegyzett szervezettől származó egyenértékű tanúsítványt, továbbá az egyenértékű minőségbiztosítási
+intézkedések egyéb bizonyítékait.
+(3) Ha az ajánlatkérő az ajánlattevőnek vagy részvételre jelentkezőnek – a 15. § (1) bekezdés b)–c), f) pontja, (2) bekezdés
+b)–c), e)–f) pontja vagy (3) bekezdés b), d)–g), i) pontja tekintetében – bizonyos környezetvédelmi vezetési
+rendszereknek való megfelelősége tanúsításához független szervezet által kiállított tanúsítvány benyújtását írja elő,
+akkor a vonatkozó európai uniós rendeletnek megfelelő szervezet által tanúsított környezetvédelmi vezetési és
+hitelesítési rendszerre (EMAS) vagy a vonatkozó európai vagy nemzetközi környezetvédelmi vezetési szabványokra
+kell hivatkoznia. Az ajánlatkérő köteles elfogadni az Európai Unió más tagállamában bejegyzett szervezettől származó
+egyenértékű tanúsítványt, továbbá az egyenértékű környezetvédelmi vezetési rendszerek egyéb bizonyítékait is.
+(4) A Kbt. XIV. fejezete, illetve a közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról szóló
+külön jogszabály szerint eljáró ajánlatkérő a 15. §-ban meghatározottakon kívül egyéb objektív alapú alkalmassági
+feltételt és ahhoz tartozó igazolási módot is előírhat.
+(5) Az ajánlatkérő a Kbt. Harmadik Része szerint lefolytatott eljárásban, amennyiben a Kbt. 123. §-a alapján jár el – feltéve,
+hogy alkalmassági követelményt írt elő az eljárásban – a Kbt. 123. § (4) bekezdésében foglaltak szerint egyéb igazolási
+módot is előírhat.
+(6) Az ajánlatkérő a Kbt. Harmadik Része szerint lefolytatott eljárásban, amennyiben a Kbt. 122. §-a alapján jár el,
+ha az árubeszerzés vagy szolgáltatás értéke nem éri el a huszonötmillió forintot vagy az építési beruházás becsült
+értéke nem éri el a százötvenmillió forintot és az ajánlatkérő azt az eljárást megindító felhívásban lehetővé tette,
+a 15. § (1)–(3) bekezdésében foglalt igazolási módok helyett elfogadhatja az ajánlattevő vagy részvételre jelentkező
+arra vonatkozó nyilatkozatát is, hogy megfelel az ajánlatkérő által előírt alkalmassági követelménynek
+(követelményeknek). Az ajánlatkérő ebben az esetben is csak olyan alkalmassági követelményt írhat elő, amely
+a 15. § (1)–(3) bekezdésében foglalt dokumentumokkal igazolható, az ajánlattevő vagy részvételre jelentkező pedig
+– ahol az ajánlatkérő lehetővé tette – választása szerint jogosult a 15. § (1)–(3) bekezdésében foglaltak helyett
+nyilatkozattal igazolni alkalmasságát. Amennyiben az elbírálás során az ajánlatkérőnek kétsége merül fel a nyilatkozat
+valóságtartalmával kapcsolatban, a Kbt. 67. § szerinti felvilágosítás kérés keretében előírhatja a 15. § (1)–(3) bekezdése
+szerinti igazolás benyújtását.
+III. FEJEZET
+4. A minősített ajánlattevők hivatalos jegyzéke
+18. § (1) A minősített ajánlattevők hivatalos jegyzékét (a továbbiakban: jegyzék) a Hatóság vezeti.
+(2) Az ajánlattevők jegyzékbe vételének feltétele, hogy
+a) a gazdasági szereplő megfeleljen a Hatóság által meghirdetett minősítési szempontoknak és
+b) a jegyzékbe vételért fizetendő igazgatási szolgáltatási díj megfizetését e rendeletben foglaltak szerint igazolta.
+(3) A minősítésiszempontokata Kbt. 172. § (2) bekezdése) pont eb) alpontjábanfoglalt feladatkörébena Hatóság – illetve
+az annakkeretébenműködő Tanács az illetékesszakmaikamarákvéleményénekmeghallgatásaután – határozzameg,
+és a honlapján meghirdeti. A minősítési szempontoknak történő megfelelés igazolása a Kbt. 56. § (1) bekezdés a)–d),
+f)–i) és k) pontja, valamint (2) bekezdése, 55. § (1)–(2) és (5)–(6) bekezdése, 57. § (1) bekezdése, valamint e rendelet
+1. §-a és 14–16. §-a szerint történik. A minősítési szempontok meghatározása során a Hatóság jogosult a nem
+kötelezően érvényesülő kizáró okok és az alkalmassági követelményekre vonatkozó szempontok közül választani.
+
+A minősítési szempontok meghirdetésekor a Hatóság az e bekezdésben foglaltaknak megfelelően feltünteti az
+igazolás módját is.
+(4) A minősítési szempontok meghatározása során nem lehet különbséget tenni az ajánlattevők között sem letelepedési
+helyük szerint, sem más módon. A minősítési szempontokat a Hatóság jogosult tevékenységek vagy ágazatok szerinti
+bontásban, illetve azokon belül is több szinten meghatározni.
+(5) A Kbt. 55. § (5) bekezdése alkalmazásakor a kapacitásait rendelkezésre bocsátó szervezet – a Kbt.-ben foglalt igazolási
+kötelezettségeken túl – arról köteles nyilatkozni, hogy az általa bemutatott erőforrások az ajánlattevő jegyzékben
+szereplésének teljes időtartama alatt rendelkezésre fognak állni.
+19. § (1) A Hatóság által vezetett minősített ajánlattevők hivatalos jegyzékét a Hatóság a honlapján közzéteszi. A Hatóság által
+vezetett jegyzék közhiteles, az abban foglalt adatok valódiságát ellenkező bizonyításig vélelmezni kell.
+(2) A hivatalos jegyzék tartalmazza a minősített ajánlattevő
+a) nevét, székhelyét (lakóhelyét);
+b) a jegyzék szerinti besorolását;
+c) a jegyzékbe bejegyzésének időpontját;
+d) által igazolt minősítési szempontokat.
+(3) A Hatóság mint a minősített ajánlattevők hivatalos jegyzékét vezető szervezet a címét köteles megküldeni az Európai
+Unió többi tagállamának és az Európai Bizottságnak.
+20. § (1) A Hatóság igazolást állít ki a jegyzékben való szereplésről. Az igazolásnak tartalmaznia kell a minősítési szempontok
+szerinti megfelelésre történő hivatkozást és a jegyzék szerinti besorolást.
+(2) A jegyzék a Hatóság honlapján elektronikusan is elérhető, ez a formája is közhiteles. A közbeszerzési eljárásban az
+ajánlatkérő – a (3) bekezdés szerinti kivétellel – a kizáró okok hiányának igazolására, továbbá – a (4) bekezdés
+figyelembevételével – az alkalmassági követelménynek (követelményeknek) való megfelelés igazolására köteles
+elfogadni a jegyzékben szereplés tényét.
+(3) A minősített ajánlattevőnek külön kell e rendelet szerint igazolnia, hogy nem tartozik a Kbt. 56. § (1) bekezdés
+e) pontjának hatálya alá.
+(4) A minősített ajánlattevőnekszintén külön kell igazolnia a szerződés teljesítésére való alkalmasságátazon alkalmassági
+követelmények tekintetében, amelyeknél az ajánlatkérő a közbeszerzési eljárásban vagy az előminősítési
+rendszerében– a 18. § (3) bekezdése alapjánmeghatározott minősítési szempontokhozképest – szigorúbbanállapítja
+meg az ajánlattevő pénzügyi és gazdasági, valamint műszaki, illetve szakmai alkalmasságánakfeltételeit és igazolását.
+Az ajánlatkérőnek a szigorúbban meghatározott alkalmassági követelményekre kifejezetten utalnia kell a
+hirdetményben (felhívásban).
+21. § (1) Ha a belföldön letelepedett minősített ajánlattevő a Hatóság jegyzék szerinti igazolását az Európai Unió egy másik
+tagállamának ajánlatkérője által meghirdetett közbeszerzési eljárásban nyújtja be, az igazolás kizárólag a Kbt. 56. §
+(1) bekezdés a)–d), f)–h) pontja, az 57. § (1) bekezdése, valamint e rendelet 14. § (1) bekezdés b)–c) pontja, a 15. §
+(1) bekezdés a)–f) pontja, (2) bekezdés a)–e) pontja és (3) bekezdés a)–c) és e)–i) pontja tekintetében vélelmezi
+az ajánlattevő megfelelőségét.
+(2) Az (1) bekezdés megfelelően alkalmazandó abban az esetben, ha a Kbt. szerinti ajánlatkérő közbeszerzési eljárásában
+az Európai Unió egy másik tagállamában letelepedett ajánlattevő nyújt be olyan igazolást, amely a letelepedési helye
+szerinti, az elismert ajánlattevők hivatalos listáját vezető szervezettől – ideértve az erre a célra kijelölt tanúsító
+szervezeteket is – származik.
+22. § (1) A minősített ajánlattevők hivatalos jegyzékébe történő felvételt a Hatóságnál kell írásban kérelmezni. A kérelmező
+bármikor kérheti minősítését és a hivatalos jegyzékbe vételét az előírt adatok, tények bemutatása, a szükséges
+igazolások, nyilatkozatok vagy egyéb dokumentumok csatolása mellett. A jegyzékbe vétel érvényességi ideje a
+bejegyzést követő naptól számított 12 hónap, amely megújítható. Amennyiben a kérelmező január 1. és május 31.
+között nyújtja be kérelmét – illetve a Hatóság bejegyző határozatát január 1. és május 31. között hozza meg – és a
+benyújtás (határozathozatal) időpontjában még nem rendelkezik a korábbi év számviteli jogszabályok szerinti
+beszámolójával, a Hatóság a jegyzékbe vételről július 31-i érvényességi dátummal állít ki igazolást. Amennyiben a
+kérelmező július 31-ig az előírt módon igazolja a beszámoló elfogadását, valamint ismételten benyújtja az előírt
+pénzintézeti nyilatkozatokat, a Hatóság egy évre szóló igazolást állít ki.
+
+(2) A megújítást a Hatóságnál kell írásban kérelmezni. Amennyiben a kérelem benyújtását megelőző fél éven belül
+a minősítési szempontok változtak, nem kell a kérelmezőt újból minősíteni és a kérelmezőnek a szükséges
+dokumentumokat benyújtani a módosult minősítési szempontok tekintetében, amennyiben az annak való
+megfelelőségét már igazolta.
+(3) A kérelmező az alkalmasság körébe tartozó minősítési szempontoknak a Kbt.-ben és e rendeletben foglaltak szerint
+bármely más szervezet kapacitására támaszkodva is megfelelhet. Ebben az esetben köteles igazolni, hogy a minősítési
+szempontoknak megfelelő erőforrások rendelkezésére állnak majd a minősített ajánlattevők hivatalos jegyzékén
+történő szereplés időtartama alatt. Az igénybe vett erőforrások tekintetében a rendelkezésre állás igazolása a Kbt.
+55. § (5)–(6) bekezdése szerint történik, azzal, hogy a Kbt. 55. § (6) bekezdés a) és b) pontja alkalmazásában arról kell
+nyilatkozni, hogy a jegyzékben szereplés időtartama alatt az erőforrás tényleges igénybevétele, illetve a szakmai
+tapasztalat felhasználása milyen módon fog történni a közbeszerzési eljárások eredményeként megkötendő
+szerződésekben, a Kbt. 55. § (6) bekezdés c) pontjában foglalt kezességvállaló nyilatkozat helyett pedig e más
+szervezet arra vonatkozó nyilatkozatát köteles benyújtani, amelyben kötelezettséget vállal arra, hogy a jegyzékben
+szereplés időtartama alatt minden közbeszerzési eljárásban, ahol az általa igazolt alkalmassági követelményt előírták,
+benyújtja az előírt kezességvállaló nyilatkozatot.
+(4) A minősített ajánlattevők hivatalos jegyzékébe történő felvételért igazgatási szolgáltatási díjat kell fizetni. A díj
+mértéke százezer forint. A díj megfizetése alól mentesség nem adható. A kérelemhez csatolni kell a díj befizetéséről
+szóló igazolást is.
+(5) A jegyzékbe vétel érvényességi idejének megújításáért igazgatási szolgáltatási díjat kell fizetni. A díj mértéke
+tizenötezer forint, melyet az egy éves érvényességi időtartamra kiállított igazolás megújításakor kell megfizetni. A díj
+megfizetése alól mentesség nem adható. A megújítási kérelemhez csatolni kell a díj befizetéséről szóló igazolást is.
+(6) A Hatóság a kérelemről – a kézhezvételét követő két hónapon belül – határozattal dönt. A határidő – indokolt esetben
+– egy alkalommal két hónappal meghosszabbítható.
+(7) A kérelmező attól az időponttól válik minősített ajánlattevővé, amely időponttal a hivatalos jegyzékbe bejegyzést
+nyert, illetve a jegyzékben szereplésének érvényességi idejét a Hatóság megújította.
+23. § (1) A minősített ajánlattevőt a Hatóság törli a hivatalos jegyzékből, ha
+a) nem felel meg a minősítési szempontoknak;
+b) közbeszerzéssel kapcsolatos jogorvoslati eljárásban jogerős határozattal eltiltották közbeszerzési eljárásban való
+részvételtől;
+c) közbeszerzéssel kapcsolatos jogorvoslati eljárásban jogerős határozattal elrendelték a minősített ajánlattevők
+hivatalos jegyzékéből való törlését;
+d) azt a minősített ajánlattevő kéri;
+e) megújítás nélkül lejárt a jegyzékben szereplés érvényességi ideje;
+f) a minősített ajánlattevő megszűnt, illetve meghalt.
+(2) A minősített ajánlattevő csak akkor kérheti a hivatalos jegyzékből való törlését, ha folyamatban levő közbeszerzési
+eljárásban nem vesz részt.
+(3) A minősített ajánlattevő a hivatalos jegyzékből való törléséről szóló határozat kézhezvételét követően köteles
+haladéktalanul törlését bejelenteni az ajánlatkérőnek, ha folyamatban levő közbeszerzési eljárásban vesz részt.
+24. § A minősített ajánlattevő köteles a Hatóságnak bejelenteni, ha a minősítési szempontok szerinti adataiban,
+körülményeiben változás állt be a változást követően haladéktalanul, de legkésőbb a változástól számított öt
+munkanapon belül. Ha a változás következtében a minősített ajánlattevő nem felel meg a minősítési szempontoknak,
+a Hatóság törli a hivatalos jegyzékből.
+25. § (1) Ha a Hatóság módosítja a minősítési szempontokat és igazolási módjait, köteles a minősítési szempontokat újra
+meghirdetni, valamint a már jegyzékbe vett minősített ajánlattevőket és a kérelmet benyújtókat egyidejűleg,
+közvetlenül, írásban tájékoztatni.
+(2) A minősítési szempontok módosítása esetén a már jegyzékbe vett minősített ajánlattevőknek is igazolniuk kell az
+előírt módon megfelelőségüket az új vagy a módosult minősítési szempont tekintetében. Erre – az (1) bekezdés
+szerinti tájékoztatás során – fel kell hívni a minősített ajánlattevőket. Benyújtott kérelem folyamatban levő elbírálása
+esetén a Hatóságnak a kérelem módosítás miatt szükséges kiegészítésére kell a kérelmezőt felhívnia. A már jegyzékbe
+vett minősített ajánlattevőknek a jegyzékbe vételük érvényességi ideje alatt a minősítési szempontok módosításakor
+nem kell külön díjat fizetnie.
+
+IV. FEJEZET
+A KÖZBESZERZÉSI MŰSZAKI LEÍRÁSRA VONATKOZÓ RENDELKEZÉSEK
+5. A műszaki leírás meghatározása
+26. § (1) A közbeszerzési műszaki leírásra vonatkozó rendelkezések alkalmazásában
+a) európai műszaki engedély: az áru használati alkalmasságának kedvező műszaki elbírálása, amely az építési
+munkákra vonatkozó alapvető követelményeknek az áru belső tulajdonságai és a meghatározott alkalmazási és
+használati feltételek szerinti teljesítésén alapul; az európai műszaki engedélyt az Európai Unió tagállama által e
+célra kijelölt tanúsító szervezet bocsátja ki;
+b) közös műszaki előírás: olyan műszaki előírás, amelyet az Európai Unió tagállamai által elismert eljárásnak
+megfelelően állapítottak meg, és az Európai Unió Hivatalos Lapjában közzétettek;
+c) műszaki ajánlás: európai szabványügyi szervezet által nem szabványként kiadott bármely dokumentum, amelyet
+a piaci igények kielégítésére, szabályozott eljárás szerint dolgoztak ki;
+d) szabvány, nemzeti szabvány, európai szabvány, nemzetközi szabvány: a nemzeti szabványosításról szóló
+törvényben meghatározott fogalmak.
+(2) A közbeszerzési műszaki leírást – az Európai Unió jogával összeegyeztethető kötelező műszaki szabályok sérelme
+nélkül – a következő módon kell meghatározni:
+a) építési beruházási munkák tervezése, számítása és kivitelezése, valamint a termék alkalmazása tekintetében az
+európai szabványokat közzétevő nemzeti szabványokra, európai műszaki engedélyre, közös műszaki előírásokra,
+nemzetközi szabványokra, műszaki ajánlásra, ezek hiányában nemzeti szabványokra, nemzeti műszaki
+engedélyre, illetve nemzeti műszaki előírásokra történő hivatkozással; vagy
+b) teljesítmény-, illetve funkcionális követelmények megadásával; vagy
+c) a b) pont szerinti követelmények alapján, az e követelményeknek való megfelelés vélelmét biztosító, az
+a) pontban meghatározottakra történő hivatkozással; vagy
+d) egyes jellemzők tekintetében az a) pontban meghatározottakra, más jellemzők tekintetében pedig a b) pontban
+meghatározott követelményekre történő hivatkozással.
+(3) Az (1) bekezdés a) pontja esetén az ajánlatkérő köteles a szabvány, műszaki engedély, műszaki előírások, műszaki
+ajánlás megnevezése mellett a „vagy azzal egyenértékű” kifejezést szerepeltetni. Nem nyilvánítható érvénytelennek
+az ajánlat kizárólag azon az alapon, hogy az ajánlatban szereplő termékek és szolgáltatások nem felelnek meg a
+műszaki leírásban meghatározott szabványoknak vagy egyéb előírásoknak, amennyiben az ajánlattevő ajánlatában
+megfelelő módon, bármely megfelelő eszközzel bizonyítja, hogy az általa javasolt megoldások egyenértékű módon
+megfelelnek a közbeszerzési műszaki leírásban meghatározott követelményeknek.
+(4) Az (1) bekezdés b) pontja esetén nem nyilvánítható érvénytelennek az európai szabványt közzétevő nemzeti
+szabványnak, európai műszaki engedélynek, közös műszaki előírásnak, nemzetközi szabványnak vagy műszaki
+ajánlásnak megfelelő ajánlat, amennyiben ezek a leírások az ajánlatkérő által megállapított teljesítményre, illetve
+funkcionális követelményekre vonatkoznak. Az ajánlattevőnek az ajánlatában – megfelelő módon, bármely megfelelő
+eszközzel – bizonyítania kell, hogy a szabványnak megfelelő termék, szolgáltatás vagy építési beruházás megfelel
+az ajánlatkérő által meghatározott teljesítmény-, illetve funkcionális követelményeknek.
+(5) A (3)–(4) bekezdés alkalmazásában megfelelő eszköz lehet különösen a gyártótól származó műszaki dokumentáció
+vagy valamely független, szakmailagelismert szervezet minősítése. Elismert szervezetnekminősül az olyan vizsgálóés
+kalibráló laboratórium, valamint tanúsító és ellenőrző szervezet, amely megfelel az alkalmazandó európai
+szabványoknak. Az ajánlatkérő köteles elfogadni a más tagállamokban székhellyel rendelkező elismert szervezet által
+kiadott tanúsítványokat.
+(6) A műszaki leírásnak nem lehet olyan hatása, amely indokolatlanul akadályozná a közbeszerzés verseny előtti
+megnyitását. Az ajánlatkérő a közbeszerzési műszaki leírást nem határozhatja meg oly módon, hogy egyes gazdasági
+szereplőket, vagy árukat az eljárásból kizár, vagy más módon indokolatlan és hátrányos vagy előnyös
+megkülönböztetésüket eredményezi. Ha a közbeszerzés tárgyának egyértelmű és közérthető meghatározása
+szükségessé tesz meghatározott gyártmányú, eredetű, típusú dologra, eljárásra, tevékenységre, személyre,
+szabadalomra vagy védjegyre való hivatkozást, a leírásnak tartalmaznia kell, hogy a megnevezés csak a tárgy
+jellegének egyértelmű meghatározása érdekében történt, és a megnevezés mellett a „vagy azzal egyenértékű”
+kifejezést kell szerepeltetni.
+
+27. § (1) A közbeszerzési műszaki leírást valamennyi felhasználó, ezen belül, amennyiben a közbeszerzés tárgyára nézve
+értelmezhető, a fogyatékos emberek számára a szolgáltatásokhoz való egyenlő esélyű hozzáférés szempontjának
+figyelembevételével kell meghatározni.
+(2) Amennyiben az ajánlatkérő a 26. § (2) bekezdés b) pontja szerinti teljesítmény-, illetve funkcionális követelmények
+keretében környezetvédelmi jellemzőket állapít meg, hivatkozhat az európai, nemzeti, vagy nemzetközi ökocímkékre
+vagy bármely más ökocímke által meghatározott részletes leírásokra, vagy szükség esetén azok egy részére, feltéve,
+hogy:
+a) ezek a leírások alkalmasak a közbeszerzés tárgya tekintetében megkövetelt jellemzők meghatározására,
+b) az ökocímke követelményeit tudományos adatok alapján állapították meg,
+c) az ökocímke olyan eljárás keretében került elfogadásra, amelyben valamennyi érdekelt fél részt vehetett, és
+d) a leírások valamennyi érdekelt számára hozzáférhetők.
+(3) Az ajánlatkérő előírhatja, hogy az ökocímkével ellátott termékek és szolgáltatások esetében vélelmezi a közbeszerzési
+műszaki leírásnak való megfelelést. Ebben az esetben el kell fogadnia valamennyi megfelelő bizonyítási eszközt, így
+különösen a gyártótól származó műszaki dokumentációt vagy valamely elismert szervezettől származó vizsgálati
+jelentést. Elismert szervezetnek minősül az olyan vizsgáló és kalibráló laboratórium, valamint tanúsító és ellenőrző
+szervezet, amely megfelel az alkalmazandó európai szabványoknak. Az ajánlatkérő köteles elfogadni a más
+tagállamokban székhellyel rendelkező elismert szervezet által kiadott tanúsítványokat.
+6. A műszaki leírás tartalma
+28. § (1) A műszaki leírás tartalmazza a környezetvédelmi teljesítményre, a valamennyi követelménynek – így különösen
+a fogyatékos emberek számára a szolgáltatásokhoz való egyenlő esélyű hozzáférés szempontjának – megfelelő
+kialakításra, a biztonságra, és méretekre vonatkozó jellemzők meghatározását, ideértve a közbeszerzés tárgyára
+alkalmazandó, a terminológiára, a jelekre, a vizsgálatra és vizsgálati módszerekre, a csomagolásra, a jelölésre,
+a címkézésre, a használati utasításra, a gyártási folyamatokra és módszerekre vonatkozó követelményeket.
+(2) Építési beruházás esetében a közbeszerzési műszaki leírásnak az (1) bekezdésben foglaltak mellett tartalmaznia kell
+a minőségbiztosításra, a tervezésre és költségekre vonatkozó szabályokat, a munkák vizsgálati, ellenőrzési és átvételi
+feltételeit, az építési eljárásokat vagy technológiákat, valamint minden olyan egyéb műszaki feltételt, amelyet az
+ajánlatkérőnekmódjábanálláltalánosvagy különösrendelkezésekkelelőírniazelkészültmunkaésazonanyagokvagy
+alkatrészek tekintetében, amelyeket az magában foglal.
+(3) Árubeszerzés vagy szolgáltatás megrendelése esetén a közbeszerzési műszaki leírásnak az (1) bekezdésben foglaltak
+mellett tartalmaznia kell a minőségre, a teljesítményre, a termék rendeltetésére, valamint a megfelelőségigazolási
+eljárásokra vonatkozó követelményeket.
+V. FEJEZET
+ZÁRÓ RENDELKEZÉSEK
+29. § (1) Ez a rendelet 2012. január 1-jén lép hatályba, rendelkezéseit a hatálybalépése után megkezdett közbeszerzésekre kell
+alkalmazni.
+(2) A minősített ajánlattevők hivatalos jegyzékében e rendelet hatálybalépésekor bejegyzett gazdasági szereplők
+jegyzékbe vételének érvényességi ideje, azon gazdasági szereplők esetében, amelyek bejegyzésére 2011. június 30.
+napját megelőzően került sor, 2012. június 30-án, azon gazdasági szereplők esetében, amelyek bejegyzésére
+2011. június 30. napját követően került sor, 2012. december 31-én jár le. A jegyzékbe vétel érvényességi ideje e
+rendelet szabályai szerint megújítható.
+30. § Ez a rendelet – a Kbt.-vel együtt – az építési beruházásra, az árubeszerzésre és a szolgáltatásnyújtásra irányuló
+közbeszerzési szerződések odaítélési eljárásainak összehangolásáról szóló, 2004. március 31-i 2004/18/EK európai
+parlamenti és tanácsi irányelvnek, valamint a vízügyi, energiaipari, közlekedési és postai ágazatban működő
+ajánlatkérők beszerzési eljárásainak összehangolásáról szóló, 2004. március 31-i 2004/17/EK európai parlamenti és
+tanácsi irányelvnek való megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
