@@ -22,10 +22,10 @@ b) az építési normagyűjteményben nem szereplő tétel esetén legalább ket
 
 (6) Építési beruházás esetén az elszámolni kívánt bizonylathoz az építési normagyűjtemény szerinti bontású számlarészletezőnek is rendelkezésre kell állnia.
 
-(7)[^10] A kifizetési kérelem esetén a támogatási kérelem benyújtási időszak első napján hatályos építési normagyűjteményt kell figyelembe venni. Ha az építési normagyűjtemény nem tartalmazza az adott építési tételt, akkor első olyan a támogatási kérelem benyújtására nyitva álló időszakot követően hatályos építési normagyűjteményt kell figyelembe venni, amelyben az építési tétel szerepelt.
+(7)[^15] A kifizetési kérelem esetén a támogatási kérelem benyújtási időszak első napján hatályos építési normagyűjteményt kell figyelembe venni. Ha az építési normagyűjtemény nem tartalmazza az adott építési tételt, akkor első olyan a támogatási kérelem benyújtására nyitva álló időszakot követően hatályos építési normagyűjteményt kell figyelembe venni, amelyben az építési tétel szerepelt.
 
 (8) Ha a (7) bekezdés alapján nem állapítható meg a referenciaár, a vonatkozó támogatási kérelem benyújtására nyitva álló időszak első napján hatályos építési normagyűjtemény az irányadó.
 
 (9) Ha az ügyfél által az első kifizetési kérelemhez benyújtott jogerős építési engedély módosul, az ügyfél a módosítás jogerőre emelkedésétől számított tizenöt munkanapon belül köteles megküldeni az MVH-nak a módosított engedélyt és az ahhoz tartozó tervdokumentációt.
 
-[^10]: A 21. § (7) bekezdése a 68/2011. (VII. 14.) VM rendelet 19. §-ával megállapított szöveg.
+[^15]: A 21. § (7) bekezdése a 68/2011. (VII. 14.) VM rendelet 19. §-ával megállapított szöveg.

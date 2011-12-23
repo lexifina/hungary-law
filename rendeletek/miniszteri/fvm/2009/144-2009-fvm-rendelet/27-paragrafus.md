@@ -1,4 +1,4 @@
-## 26/B. §[^14] E rendeletnek a Nemzeti Diverzifikációs Program keretében megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2011-től nyújtandó támogatások részletes feltételeiről szóló 76/2011. (VII. 29.) VM rendelet módosításáról szóló 88/2011. (IX. 2.) VM rendelettel (a továbbiakban: 88/2011. (IX. 2.) VM rendelet) megállapított 25. § (2) és (2a) bekezdését a 88/2011. (IX. 2.) VM rendelet hatálybalépésekor[^15] folyamatban lévő ügyekben is alkalmazni kell.
+## 26/C. §[^21] E rendeletnek az egyes vidékfejlesztési tárgyú miniszteri rendeletek módosításáról szóló 140/2011. (XII. 22.) VM rendelettel [a továbbiakban: 140/2011. (XII. 22.) VM rendelet] megállapított 19. § (4) bekezdését a 140/2011. (XII. 22.) VM rendelet hatálybalépésekor[^22] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -102,5 +102,5 @@ Melléklet a 144/2009. (XI. 6.) FVM rendelethez
 
 |  | 74.87.16.5 | Környezetvédelmi szakmai tervezés, szakértés | 6% | 6 000 000 |
 
-[^14]: A 26/B. §-t a 88/2011. (IX. 2.) VM rendelet 4. §-a iktatta be.
-[^15]: A hatálybalépés időpontja 2011. szeptember 3.
+[^21]: A 26/C. §-t a 140/2011. (XII. 22.) VM rendelet 2. § (4) bekezdése iktatta be.
+[^22]: A hatálybalépés napja: 2011. december 23.
