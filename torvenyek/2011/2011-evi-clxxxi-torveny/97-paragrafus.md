@@ -8,15 +8,11 @@
 
 a) az e törvényben szabályozott eljárásokban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, az űrlapokhoz csatolható mellékleteket, az elektronikus űrlapok adatait, valamint az űrlapok közzétételének módját,
 
-b) az egyszerűsített nyilvántartásba vételi eljárás esetében a kérelemhez csatolandó létesítő okirat minta adatait és az ahhoz csatolandó mellékletek adatait, valamint az űrlapok közzétételének módját,
+b)
 
 c) az e törvényben szabályozott eljárásokban érvényesülő ügyviteli szabályokat,
 
-d) az informatikai rendszer szervezeti-szervezési és módszertani követelményeit,
-
-e) az elektronikus aláírással ellátott beadványok bíróság részére való megküldésének módját és egyéb eljárási szabályokat,
-
-f) a nyilvántartási szám képzésének módját,
+d)–f)
 
 g) a szervezet célja szerinti besorolását,
 

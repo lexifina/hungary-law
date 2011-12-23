@@ -1,7 +1,0 @@
-11. § (1) Az elektronikus útra nem kötelezett kérelmező beadványát választása szerint elektronikus úton is benyújthatja, ebben az esetben az eljárás folyamán – az eljárás jogerős befejezéséig – a bírósággal a kapcsolatot elektronikus úton kell tartania.
-
-(2) Ha az elektronikus útra nem kötelezett kérelmező eljárására az elektronikus utat választotta, utóbb, a beadvány papír alapú benyújtásával egyidejűleg kérheti a bíróságtól a papír alapú eljárásra való áttérés engedélyezését. A kérelmezőnek a kérelemben valószínűsítenie kell, hogy körülményeiben olyan változás következett be, amely miatt az elektronikus úton történő eljárás a továbbiakban számára aránytalan megterhelést jelentene. A papír alapú eljárásra való áttérés engedélyezése esetén erről külön végzést hozni nem kell, az áttérés iránti kérelem elutasításáról a bíróság végzéssel határoz, a végzés ellen fellebbezésnek nincs helye.
-
-(3) A papír alapú eljárásra való áttérés iránti kérelem elutasítása esetén azonos okból ismételten áttérés iránti kérelmet nem lehet benyújtani, az ennek ellenére benyújtott áttérés iránti kérelmet a bíróság érdemi vizsgálat nélkül elutasítja.
-
-(4) Ha a bíróság az áttérés iránti kérelmet elutasítja, felhívja a kérelmezőt, hogy a papír alapon megküldött beadványt szabályszerűen elektronikus úton nyújtsa be. Ha a kérelmező e felhívásnak nem tesz eleget, a bíróság a kérelmet elutasítja. A bíróság a felhívást, az áttérés iránti kérelem elutasítását és a kérelem elutasítását papír alapon közli a kérelmezővel.

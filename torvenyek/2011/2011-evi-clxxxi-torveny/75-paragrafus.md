@@ -1,1 +1,0 @@
-75. § A nyilvántartást vezető bíróság a Pp. 124. § (4) bekezdésének a) pontját azzal az eltéréssel alkalmazza, hogy ha az irat beszerzése másik nyilvántartást vezető bíróságtól szükséges, a szervezetre vonatkozó iratokat az informatikai rendszer útján szerzi be, ha azok az informatikai rendszerben elérhetőek.

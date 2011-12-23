@@ -1,3 +1,3 @@
-45. § (1) A bíróság a közhasznú szervezet letétbe helyezett beszámolóját a letétbe helyezést követő hatvan napon belül – az informatikai rendszer alkalmazásával, automatizált módon – megvizsgálja. Ha a beszámoló alapján azt állapítja meg, hogy a szervezet a közhasznúvá minősítés feltételeinek nem felel meg, a szervezet közhasznú minősítésének megszüntetéséről és az erre vonatkozó adat nyilvántartásból való törléséről határoz.
+45. § (1)
 
-(2) A cégbíróság és ha a nyilvántartásba vételre nem bíróság jogosult, az erre jogosult szervezet az (1) bekezdés és a 44. § rendelkezései szerint jár el – az eljárására irányadó szabályok szerint – az általa nyilvántartott szervezet közhasznúvá minősítése és a közhasznú jogállás nyilvántartásba történő bejegyzésére, illetve a közhasznú minősítés megszüntetése és a közhasznú jogállás nyilvántartásból való törlésére irányuló eljárás során.
+(2)

@@ -1,1 +1,0 @@
-12. § Ha az elektronikus útra nem kötelezett kérelmező az eljárás folyamatban léte alatt kíván az elektronikus útra áttérni, beadványát elektronikus úton kell benyújtania, és a továbbiakban a bírósággal a kapcsolatot elektronikus úton kell tartania.

@@ -1,3 +1,0 @@
-105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés benyújtási kötelezettségének 2012. június 30-a előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést papír alapon kell az OBH részére benyújtania. Ha a 2012. június 30. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2012. június 30-a után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
-
-(2) Ha a beszámoló benyújtására köteles szervezet 2012. június 30. napja és 2014. május 30. napja között a korábbi két év beszámolóját is benyújtja az OBH részére azt az OBH az országos névjegyzékben közzéteszi.
