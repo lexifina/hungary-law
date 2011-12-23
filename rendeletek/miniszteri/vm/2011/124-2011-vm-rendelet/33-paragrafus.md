@@ -1,3 +1,0 @@
-## 32. § Az R. a következő 36/G. §-sal egészül ki:
-
-## „36/G. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet, és az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet módosításáról szóló 124/2011. (XII. 21.) VM rendelettel megállapított 35. § (10) bekezdését azokban az ügyekben kell alkalmazni, amelyekben az ügyfél a 20. § (4) bekezdése alapján köteles a támogatási határozattal jóváhagyott elszámolható kiadások összegének legalább 80%-át teljesíteni.”

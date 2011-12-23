@@ -1,21 +1,9 @@
-## 34. § Az R. 1. számú melléklete helyébe e rendelet Melléklete lép.
+## 1–34. §[^2]
 
-35. § (1) Hatályát veszti az R.
+35. § (1)[^3]
 
-a) 5. § (7) bekezdése;
+(2)–(3)[^4]
 
-b) 6. § (5) bekezdése;
-
-c) 13. § (2) bekezdése és (4)–(7) bekezdése;
-
-d) 16. § (3) bekezdése;
-
-e) 23. § (4) bekezdése;
-
-f) 27. § (1) a) pontja;
-
-g) 30. § (8) bekezdése.
-
-(2)–(3)[^2]
-
-[^2]: A 35. § (2)–(3) bekezdése 2012. január 1-jén lép hatályba.
+[^2]: Az 1–34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 35. § (1) beekzdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 35. § (2)–(3) bekezdése a 36. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
