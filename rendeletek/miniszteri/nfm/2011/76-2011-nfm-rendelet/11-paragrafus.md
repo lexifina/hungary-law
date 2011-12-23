@@ -12,12 +12,12 @@
 
 (6)[^1]
 
-(7) A villamos energia rendszerhasználati díjak megállapításának és alkalmazásának szabályairól szóló 64/2011. (XI. 30.) NFM rendelet 2. § (5) bekezdés a) pontjában az „a)–b) pont alá nem tartozó – profil” szövegrész helyébe az „a–b) pont alá nem tartozó – profil” szöveg lép.
+(7)[^2]
 
 (8) Az (5) bekezdés 2012. január 1-jén hatályát veszti.
 
-(9) A közcélú villamos hálózatra csatlakozás pénzügyi és műszaki feltételeiről szóló 117/2007. (XII. 29.) GKM rendelet 2012. január 1-jén hatályát veszti.
-
-(10) Hatályát veszti a villamos energia elosztó hálózati engedélyesek és az egyetemes szolgáltató által a felhasználó igénye alapján külön díj ellenében végezhető szolgáltatások köréről és díjairól szóló 17/2008. (VIII. 1.) KHEM rendelet 1. § (2) bekezdésében a „117/2007. (XII. 29.) GKM” szövegrész.
+(9)–(10)[^3]
 
 [^1]: A 11. § (6) bekezdése a (2) bekezdés alapján 2012. január 1-jén lép hatályba.
+[^2]: A 11. § (7) bekezdése a 2011: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 11. § (9)–(10) bekezdése a 2011: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
