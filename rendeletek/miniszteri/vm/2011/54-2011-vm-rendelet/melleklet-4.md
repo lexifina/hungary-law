@@ -196,6 +196,6 @@
 
 | 96. | Zselici Lámpások | Zselici Lámpások Vidékfejlesztési Egyesület |
 
-4. melléklet az 54/2011. (VI. 10.) VM rendelethez[^9]
+4. melléklet az 54/2011. (VI. 10.) VM rendelethez[^14]
 
-[^9]: A 4. mellékletet a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^14]: A 4. mellékletet a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés d) pontja hatályon kívül helyezte.

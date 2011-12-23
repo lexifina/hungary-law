@@ -6,10 +6,10 @@ a) beszámol eddigi tevékenységéről, eredményeiről;
 
 b) felveszi tagjai közé a legalább két tag ajánlásával rendelkező csatlakozni kívánó személyt vagy szervezetet, akik a felvételüktől kezdődően szavazati joggal rendelkeznek és az egyesület szerveibe megválaszthatók;
 
-c)[^2]
+c)[^5]
 
 d) dönt az elnökség tagjainak és tisztségviselőnek megerősítéséről, vagy új tagokat és tisztségviselőket választ.
 
 (3) Az (1)–(2) bekezdés szerinti közgyűlésről készült hitelesített jegyzőkönyvet, valamint a bírósági nyilvántartásba vételéről szóló dokumentumot a LEADER HACS a nyilvántartásba vételt követő 8 napon belül elektronikus úton megküldi az IH részére.
 
-[^2]: A 3. § (2) bekezdés c) pontját a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^5]: A 3. § (2) bekezdés c) pontját a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés b) pontja hatályon kívül helyezte.
