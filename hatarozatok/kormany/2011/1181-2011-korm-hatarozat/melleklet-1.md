@@ -10,9 +10,11 @@
 
 ## Felelős: nemzeti fejlesztési miniszter
 
+## 2a.[^2] Az 1. pontban elrendelt átcsoportosításból a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 1. melléklet, XX. Nemzeti Erőforrás Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára biztosított 30 millió forint esetében az elszámolási és a fel nem használt rész tekintetében a visszafizetési kötelezettség határideje 2012. május 31.
+
 ## 3. Ez a határozat a közzététele napján lép hatályba.
 
-1. melléklet az 1181/2011. (V. 31.) Korm. határozathoz[^2]
+1. melléklet az 1181/2011. (V. 31.) Korm. határozathoz[^3]
 
 XI. Miniszterelnökség
 
@@ -199,4 +201,5 @@ Költségvetési év: 2011.
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
 
 [^1]: Az 1. pont az 1282/2011. (VIII. 10.) Korm. határozat 3. pontjával megállapított, az 1318/2011. (IX. 19.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: Az 1. melléklet az 1282/2011. (VIII. 10.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: A 2a. pontot az 1488/2011. (XII. 23.) Korm. határozat 2. pontja iktatta be.
+[^3]: Az 1. melléklet az 1282/2011. (VIII. 10.) Korm. határozat 4. pontjával megállapított szöveg.
