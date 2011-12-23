@@ -1,4 +1,4 @@
-## 5. § Hatályát veszti a Kártalanítási Számla elszámolásának szabályairól szóló 4/2002. (II. 6.) PM rendelet.
+## 5. §[^1]
 
 1. melléklet a 48/2011. (XII. 21.) NGM rendelethez
 
@@ -59,3 +59,5 @@ C) Nem biztosítástechnikai elszámolások
 D) SZOKÁSOS VÁLLALKOZÁSI EREDMÉNY
 
 (±B+01+02+03–04±05–06+07–08)
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
