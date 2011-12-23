@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti a Kártalanítási Alap javára teljesített befizetéseknek, az Alap kezelésének és az Alap kezelője adatszolgáltatási kötelezettségének szabályairól szóló 4/2010. (I. 22.) PM rendelet.
+## 8. §[^1]
 
 1. melléklet a 47/2011. (XII. 21.) NGM rendelethez
 
@@ -43,3 +43,5 @@ b. egyéb befektetések ráfordítása
 12. Egyéb pénzügyi műveletek ráfordításai
 
 13. Tárgyévi eredmény
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
