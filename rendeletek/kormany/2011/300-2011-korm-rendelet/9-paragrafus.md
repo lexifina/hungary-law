@@ -1,0 +1,3 @@
+9. § (1) A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet (a továbbiakban: 147/2010. Korm. rendelet) 3. § (1) bekezdés d) pontjában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
+
+(2) A 147/2010. Korm. rendelet 37. § (3) bekezdésében az „a Vízügyi és Környezetvédelmi Központi Igazgatóság” szövegrész helyébe az „az Országos Vízügyi Főigazgatóság”, a 60. § (3) bekezdésében a „környezetvédelmi és vízügyi igazgatóság” szövegrész helyébe a „Nemzeti Környezetügyi Intézet területi kirendeltsége” szöveg lép.
