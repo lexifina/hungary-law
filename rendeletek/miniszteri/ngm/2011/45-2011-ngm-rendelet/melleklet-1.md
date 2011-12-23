@@ -1,4 +1,4 @@
-## 5. § Hatályát veszti a biztosítók kötelező gépjármű-felelősségbiztosítási termékének eredményelszámolásáról és adatszolgáltatásáról szóló 54/2001. (XII. 27.) PM rendelet.
+## 5. §[^1]
 
 1. melléklet a 45/2011. (XII. 21.) NGM rendelethez
 
@@ -109,3 +109,5 @@ ebből: kapcsolt vállalkozástól
 D) SZOKÁSOS VÁLLALKOZÁSI EREDMÉNY
 
 (±A+01+02+03+04+05-06–07±08–09+10–11)
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
