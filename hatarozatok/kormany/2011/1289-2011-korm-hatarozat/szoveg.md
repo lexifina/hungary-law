@@ -30,4 +30,6 @@ c) javaslatot tesz a vidékfejlesztési miniszternek az ellenőrzési feladatok 
 
 6. A Munkacsoport működési feltételeiről a vidékfejlesztési miniszter gondoskodik. A Munkacsoport tagjai díjazásban nem részesülnek.
 
-7. E határozat a közzététele napján lép hatályba és 2012. január 1-jén hatályát veszti.
+7.[^2] E határozat a közzététele napján lép hatályba és 2013. január 1-jén hatályát veszti.
+
+[^2]: A 7. pont az 1456/2011. (XII. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
