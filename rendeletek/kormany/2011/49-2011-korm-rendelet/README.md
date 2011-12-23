@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-49-20-2
 | 2011-10-15 | 2011-49-20-22.7 | 155/2011. (VIII. 10.) Korm. rendelet |
 | 2011-10-21 | 2011-49-20-22.8 | 221/2011. (X. 20.) Korm. rendelet |
 | 2011-11-25 | 2011-49-20-22.9 | 245/2011. (XI. 24.) Korm. rendelet |
+| 2011-12-23 | 2011-49-20-22.10 | 296/2011. (XII. 22.) Korm. rendelet |

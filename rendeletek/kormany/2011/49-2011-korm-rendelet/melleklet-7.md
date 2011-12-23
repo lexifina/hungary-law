@@ -10,7 +10,7 @@
 
 | 3. WWF Magyarország | A Duna–Dráva Nemzeti Park Igazgatóság területén található Natura 2000 területen a „Közösségi jelentőségű ártéri élőhelyek védelme a Béda–Karapancsa különleges természetvédelmi területen (pSCI) található Szabadság szigeten és mellékágánál” c. pályázat civil szervezet általi megvalósításának támogatása. | 13 226 000 | XII. fejezet 20.2.10. Természetvédelmi pályázatok támogatása |
 
-| 4. Avasi Kulturális és Sport Egyesület | Szárazelem gyűjtési verseny motivációja: ajándékvásárlás és környezetvédelmi tábor. | 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+| 4. Avasi Polgárőr Egyesület | Szárazelem gyűjtési verseny motivációja: ajándékvásárlás és környezetvédelmi tábor. | 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
 
 | 5. TDK-ért Közhasznú Alapítvány | A környezettudomány témában kiváló eredményeket elérők számára különdíj alapítása és biztosítása, továbbá részükre a Pro Scientia Aranyéremmel együtt a különdíjak átadásának megszervezése a XXX. Jubileumi OTDK ünnepi záró rendezvényének keretén belül. | 1 000 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
 
@@ -24,7 +24,7 @@
 
 | 10. Akarat DSE Budapest | Gyógyúszás terápia. | 200 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
 
-| 11. Környezetvédelmi Újságírók Társasága | Greenfo - Zöld iránytű a Neten. A Környezetvédelmi Újságírók Társasága által üzemeltetett zöld hírportál működtetése és fejlesztése. | 1 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+| 11. Környezetvédelmi Újságírók Társasága | Greenfo – Zöld iránytű a Neten. A Környezetvédelmi Újságírók Társasága által üzemeltetett zöld hírportál működtetése és fejlesztése. | 1 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
 
 | 12. Magyar a Magyarért Alapítvány | Környezetpolitikai rovat a Kapu c. folyóiratban. | 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
 
@@ -62,7 +62,7 @@
 
 | 29. Magyar Növénynemesítők Egyesülete | Növénynemesítési Tudományos Napok konferencia támogatása. | 100 000 | XII. fejezet 20.3.2. Agrárkutatás, tanüzemek, szakképzés támogatása |
 
-| 30. Természetfilm.hu Tudományos Filmműhely Egyesület | Nemzeti Vidékstratégiát bemutató 12 részes sorozat I. részének elkészítése. | 1 550 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+| 30. Természetfilm.hu Tudományos Filmműhely Egyesület | Nemzeti Vidékstratégiát bemutató 12 részes sorozat 1. részének elkészítése. | 1 550 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
 
 | 31. Magyar Agrártudományi Egyesület | Aktuális mezőgazdasági kérdésekről szóló előadássorozat, 12 alkalommal. | 400 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
 
@@ -108,6 +108,68 @@
 
 | 52. Magyar Földmérési és Térképészeti Társaság | Geodézia és Kartográfia tudományos lap kiadása. | 1 500 000 | XII. fejezet 20.14.1. Fejezeti általános tartalék |
 
-7. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^12]
+| 53. „naturArt” Magyar Természetfotósok Szövetsége KHE | „Az év természetfotósa 2011” pályázatra beérkezett pályaművekből kiállítás rendezése | 400 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
 
-[^12]: A 7. mellékletet a 245/2011. (XI. 24.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+| 54. Magyar Fürdővárosok Szövetsége | A fenntartható és versenyképes egészségturizmus kialakítása, színvonalának emelése | 2 000 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 55. Magyar Biológiai Társaság | 7. Magyar Természetvédelmi Biológiai Konferencia megrendezése | 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 56. Magyar Környezeti Nevelés Egyesület | A magyarországi környezeti nevelés története c. tanulmány támogatása | 300 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 57. Helyipiac.hu Egyesület | Vidékfejlesztők fórumának létrehozása a környezetbarát tájgazdálkodás és a fenntartható helyi kezdeményezések együttműködése érdekében | 1 000 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 58. Bükk-vidék Természetvédelmi Közalapítvány | A táji adottságokhoz alkalmazkodó, a Kárpát-medencében régóta termesztett gyümölcsfajták felismerése, szaporítása és ápolása című képzés | 1 000 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 59. Védegylet Egyesület | Tájfajták megőrzésével foglalkozó hazai közösségi kezdeményezéseket bemutató kiadvány megjelentetése | 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 60. Magyar Közlekedési Klub | Vasútállomások gondozása a szárnyvonalakon, fotó kiállítás, Bakancsosok a vasútért túra, Vonattal a Tisza-tóhoz kiadvány | 600 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 61. Pannonhalmi Főapátság Alapítvány | Környezetvédelmi szemléletformálás | 1 350 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 62. E-misszió Természet- és Környezetvédelmi Egyesület | Fenntartható gazdálkodási gyakorlat a magyar iskolai oktatásban – Tanya pedagógiai program, kísérleti szakasz | 900 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 63. Élj Inkább Alapítvány | Hetesi Zsolt – Molnár Géza: Vidék vagy város – Túlélő kalauz a 21. századra c. könyv megjelentetése | 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 64. Magyar Ökológusok Tudományos Egyesülete | A civilizáció ártalmai az élővilágra Magyarországon” c. könyv kiadásának támogatása | 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 65. Animációs Filmművészetért Alapítvány | „Gyerekek vörös háttér előtt” címmel kolontári, devecseri és somlóvásárhelyi iskolások közreműködésével egy 8 perces animációs filmgyártási költségekhez hozzájárulás | 800 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 66. Göncöl Alapítvány | „Süni és vadon” tanulmányi vetélkedő | 500 000 | XII. fejezet 20.2.14. Állami feladatok átvállalása a Nemzeti Környezetvédelmi Program megvalósításában |
+
+| 67. Pannonhalmi Főapátság | Gyógynövény bemutató-kert létesítése | 500 000 | XII. fejezet 20.3.2 Agrárkutatás, tanüzemek, szakképzés támogatása I. Agrárkutatás 6. tartalék jogcím |
+
+| 68. Terra Dei Alapítvány | Határon túli gazda szervezetek működési célú támogatása | 5 000 000 | XII. fejezet 20.3.4 Határon átnyúló vidékfejlesztési feladatok támogatása |
+
+| 69. Észak-vajdasági Agrár Egyesületek Szövetsége | Határon túli gazda szervezetek működési célú támogatása | 5 000 000 | XII. fejezet 20.3.4 Határon átnyúló vidékfejlesztési feladatok támogatása |
+
+| 70. Romániai Magyar Gazdák Egyesülete | Határon túli gazda szervezetek működési célú támogatása | 5 000 000 | XII. fejezet 20.3.4 Határon átnyúló vidékfejlesztési feladatok támogatása |
+
+| 71. Küküllő Mezőgazdasági Szövetkezet | Határon túli gazda szervezetek működési célú támogatása | 5 000 000 | XII. fejezet 20.3.4 Határon átnyúló vidékfejlesztési feladatok támogatása |
+
+| 72. Horvátországi Magyarok Demokratikus Közössége | Határon túli gazda szervezetek működési célú támogatása | 2 200 000 | XII. fejezet 20.3.4 Határon átnyúló vidékfejlesztési feladatok támogatása |
+
+| 73. Mezőgazdasági Gépmúzeumért Közhasznú Alapítvány | 13. Országos Mezőgazdasági Gépésztalálkozó megrendezése | 300 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 74. Várpalota Pétfürdői Kertbarát Egyesület | 3. Nemzetközi Kertbarát Találkozó és Kiállítás megrendezése | 300 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 75. Gádorosi Mezőgazdasági Termelők Szövetsége | Szakmai rendezvények, konferenciák szervezéséhez kapcsolódó költségek támogatása | 2 500 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 76. Kertészek és Kertbarátok Országos Szövetsége | Rendezvények szervezési költségeinek támogatása | 300 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 77. Westsik Vilmos Alapítvány | Az 50 éves nyírlugosi műtrágyázási tartamkísérlet eredményeit bemutató konferencia megrendezése | 900 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 78. DNS Természetközpontú Egyesület | Várpalota város és kistérsége integrált projekt keretében szociális földprogram előkészítése | 1 000 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 79. Magyar Huszár Lovas Hagyományőrző Társaság | Huszár hagyományőrző rendezvényeken való megjelenés támogatása | 300 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 80. Galamb és Kisállattenyésztők Csorvási Egyesülete | Kiállítás megrendezésének támogatása | 200 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 81. KORALL Társadalomtörténeti Egyesület | Szakkönyv nyomdai előállításának támogatása | 1 000 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 82. Írók Alapítványa – Széphalom Könyvműhely | Szakkönyv terjesztésének támogatása | 450 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+| 83. Fiatal Gazdák Magyarországi Szövetsége – AGRYA | CERYC-program megvalósításának költségeihez való hozzájárulás. | 6 000 000 | XII. fejezet 20.3.8. Ágazati szakmai szervezetek és képviseletek támogatása |
+
+7. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^13]
+
+[^13]: A 7. mellékletet a 245/2011. (XI. 24.) Korm. rendelet 2. § (4) bekezdése iktatta be.

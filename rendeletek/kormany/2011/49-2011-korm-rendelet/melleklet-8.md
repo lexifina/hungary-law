@@ -6,7 +6,7 @@
 
 | Csapatok Érdekvédelmi Szövetsége | A szervezet működésének 2011. évi támogatása | 4 000 000 | XIII. fejezet 8.2.3.6. Társadalmi szervek pályázati támogatása |
 
-8. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^13]
+8. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^14]
 
 A Belügyminisztérium egyes fejezeti kezelésű előirányzataiból nyújtható egyedi támogatások
 
@@ -22,4 +22,4 @@ A Belügyminisztérium egyes fejezeti kezelésű előirányzataiból nyújtható
 
 | 4. Építésügyi Igazgatási Szakmai Kollégium | Építésügyi Igazgatási Szakmai Napok 2011. Sopron támogatása. A kollégium jubileumi kiadványának támogatása | 1 000 000 | XIV. fejezet 20.1.32. Építésügyi célelőirányzat |
 
-[^13]: A 8. mellékletet a 245/2011. (XI. 24.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^14]: A 8. mellékletet a 245/2011. (XI. 24.) Korm. rendelet 2. § (5) bekezdése iktatta be.

@@ -12,7 +12,7 @@
 
 | 3. Bolyai János Matematikai Társulat | Nemzetközi Matematikai Diákolimpiára készülő csapat költségeihez történő hozzájárulás | 2 000 000 | XX. fejezet 20.4.29 Közoktatás speciális feladatainak támogatása |
 
-| 4. Kazinczy-díj Alapítvány – Péchy Blanka emlékére | „Kazinczy-díj Alapítvány – Péchy Blanka emlékére” elnevezésű alapítvány által szervezett anyanyelvi versenysorozat költségeihez történő hozzájárulás | 2 300 000 | XX. fejezet 20.4.29 Közoktatás speciális feladatainak támogatása |
+| 4. Kazinczy-díj Alapítvány – Péchy Blanka emlékére | „Kazinczy-díj Alapítvány-Péchy Blanka emlékére” elnevezésű alapítvány által szervezett anyanyelvi versenysorozat költségeihez történő hozzájárulás | 2 300 000 | XX. fejezet 20.4.29 Közoktatás speciális feladatainak támogatása |
 
 | 5. Magyar Biológiatanárok Országos Egyesülete | Nemzetközi Biológiai Diákolimpiára készülő csapat költségeihez történő hozzájárulás | 1 000 000 | XX. fejezet 20.4.29 Közoktatás speciális feladatainak támogatása |
 
@@ -56,9 +56,9 @@
 
 | 7. Összefogás a Magyar Családokért Országos Kiemelten Közhasznú Egyesület | Kárpát-medencei családszervezetek konferenciája és koordináció | 7 500 000 | XX. fejezet 20.16.6 Családpolitikai Programok |
 
-| 8. Magyar ENSZ Modell Diákegyesület | ENSZ Gyermek és Ifjúsági Delegált Program támogatása | 1 000 000 | XX. fejezet 20.15.3.2 Gyermekes ifjúsági szakmafejlesztési célok |
+| 8. Magyar ENSZ Modell Diákegyesület | ENSZ Gyermek és Ifjúsági Delegált Program támogatása | 1 000 000 | XX. fejezet 20.15.3.2 Gyermek és ifjúsági szakmafejlesztési célok |
 
-| 9. HÖOK (Hallgatói Önkormányzatok Országos Konferenciája) | EFOTT Fesztivál támogatása | 2 000 000 | XX. fejezet 20.15.3.2 Gyermekes ifjúsági szakmafejlesztési célok |
+| 9. HÖOK (Hallgatói Önkormányzatok Országos Konferenciája) | EFOTT Fesztivál támogatása | 2 000 000 | XX. fejezet 20.15.3.2 Gyermek és ifjúsági szakmafejlesztési célok |
 
 | 10. Borostyán virág Alapítvány | Krízisellátó rendszer által biztosított szolgáltatások fenntartható működésének támogatása | 4 000 000 | XX. fejezet 20.20.4 Krízisellátó rendszer működését elősegítő tevékenységek támogatása |
 
@@ -74,7 +74,7 @@
 
 | 16. Sorsunk és Jövőnk Alapítvány | Félutas kiléptető ház által biztosított szolgáltatások fenntartható működésének támogatása | 4 000 000 | XX. fejezet 20.20.4 Krízisellátó rendszer működését elősegítő tevékenységek támogatása |
 
-| 17. S. O. S. Krízis Alapítvány | Krízisellátó rendszer által biztosított szolgáltatások fenntartható működésének támogatása | 4 000 000 | XX. fejezet 20.20.4 Krízisellátó rendszer működését elősegítő tevékenységek támogatása |
+| 17. S.O.S. Krízis Alapítvány | Krízisellátó rendszer által biztosított szolgáltatások fenntartható működésének támogatása | 4 000 000 | XX. fejezet 20.20.4 Krízisellátó rendszer működését elősegítő tevékenységek támogatása |
 
 | 18. Szt. Cirill és Method Alapítvány | Krízisellátó rendszer által biztosított szolgáltatások fenntartható működésének támogatása | 4 000 000 | XX. fejezet 20.20.4 Krízisellátó rendszer működését elősegítő tevékenységek támogatása |
 
@@ -102,11 +102,11 @@
 
 | 30. Média a Családért Alapítvány | Családbarát közbeszéd megerősödés érdekében folytatott tevékenység | 1 500 000 | XX. fejezet 20.16.6 Családpolitikai Programok |
 
-| 31. Jól-Lét Alapítvány | Apák Napi rendezvény | 400 000 | XX. fejezet 20.16.6 Családpolitikai Programok |
+| 31. Jói-Lét Alapítvány | Apák Napi rendezvény | 400 000 | XX. fejezet 20.16.6 Családpolitikai Programok |
 
 | 32. Bibliai Házassággondozó Szolgálat | A házasságok és a családok megerősítését szolgáló tevékenység – házassággondozás | 900 000 | XX. fejezet 20.16.6 Családpolitikai Programok |
 
-| 33. Református Közéleti és Kulturalis Központ Alapítvány | Kontraszt kiállítás megrendezése | 6 689 400 | XX. fejezet 20.15.3.2 Gyermek és ifjúsági szakmafejlesztési célok |
+| 33. Református Közéleti és Kulturális Központ Alapítvány | Kontraszt kiállítás megrendezése | 6 689 400 | XX. fejezet 20.15.3.2 Gyermek és ifjúsági szakmafejlesztési célok |
 
 | 34. Kék Pont Drogkonzultációs Központ és Drogambulancia Alapítvány | A problémás szerhasználók ellátásának fejlesztése a VIII. kerületben – modell projekt | 16 000 000 | XX. fejezet 20.14 A kábítószer-fogyasztás megelőzésével kapcsolatos feladatok |
 
@@ -122,6 +122,14 @@
 
 | 40. „Szövetség az Életen Át Tartó Tanulásért” | Nyitott tanulási központok hálózatának fenntartása és működtetése, módszertani fejlesztések ellátása | 15 000 000 | XX. fejezet 20.16.1 Szociális alap és szakosított ellátások, módszertani feladatok támogatása |
 
+| 41. CÉHálózat – Civil Érdekvédelmi Hálózat a Fogyatékos Embereknek Szociális Szolgáltatást Nyújtó Civil Szervezetekért | Működési támogatás | 400 000 000 | XX. fejezet 20.30.25.5 Fogyatékos személyek országos és regionális szervezetei |
+
+| 42. Magyar Ökumenikus Segélyszervezet | Kísérő nélküli kiskorúak ellátása során szakmai támogatás, projektkoordinációs feladatok | 5 492 000 | XX. fejezet 20.16.4 Magyarországon kísérő nélküli külföldi kiskorúak ellátása |
+
+| 43. Magyar Ökumenikus Segélyszervezet | Kísérő nélküli kiskorúak otthonának működtetése | 21 007 844 | XX. fejezet 20.16.4 Magyarországon kísérő nélküli külföldi kiskorúak ellátása |
+
+| 44. Szövetség az Életen át Tartó Tanulásért | Működési támogatás | 20 000 000 | 20/16/1 Szociális alap és szakosított ellátások, módszertani feladatok támogatása |
+
 | III. Kultúra |
 
 | 1. A Tudományos Ismeretterjesztő Társulat működési támogatása | A támogatás hozzájárul az ismeretterjesztő társulat országos hatókörű szakmai szervezeteinek, regionális és területi bázisainak működéséhez, a felnőttoktatás és képzés nemzetközi kapcsolatainak gondozásához. | 15 000 000 | XX. fejezet 20.30.23.2 Kulturális társadalmi, civil és nonprofit szervezetek, szövetségek, testületek, egyesületek, bizottságok támogatása |
@@ -130,7 +138,7 @@
 
 | 3. Magyar Népfőiskolai Társaság, Magyar Népfőiskolai Kollégium, KALOT Katolikus Népfőiskolai Mozgalom, Örökség Népfőiskolai Szövetség | A népfőiskolai mozgalmak működési költségeinek támogatása (az országos hatókörű népfőiskolák minimális működési feltételeinek biztosítása, valamint a legszükségesebb tárgyi eszközök, berendezések beszerzése.) | 13 000 000 | XX. fejezet 20.30.23.2 Kulturális társadalmi, civil és nonprofit szervezetek, szövetségek, testületek, egyesületek, bizottságok támogatása |
 
-| 4. Területi Művelődési Intézmények Egyesülete | A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 91. § (1) c) pontja előírja a kultúráért felelős minisztérium számára a TEMI működési költségeinek támogatási kötelezettségét. Ez teszi ugyanis lehetővé a szervezet 61 tagintézménye számára a meghatározott alaptevékenységek ellátásához szükséges működési feltételek biztosítását. | 535 400 000 | XX. fejezet 20.30.23.2 Kulturális társadalmi, civil és nonprofit szervezetek, szövetségek, testületek, egyesületek, bizottságok támogatása |
+| 4. Területi Művelődési Intézmények Egyesülete | A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 91. § (1) bekezdés c) pontja előírja a kultúráért felelős minisztérium számára a TEMI működési költségeinek támogatási kötelezettségét. Ez teszi ugyanis lehetővé a szervezet 61 tagintézménye számára a meghatározott alaptevékenységek ellátásához szükséges működési feltételek biztosítását. | 535 400 000 | XX. fejezet 20.30.23.2 Kulturális társadalmi, civil és nonprofit szervezetek, szövetségek, testületek, egyesületek, bizottságok támogatása |
 
 | 5. Központi Bányászati Múzeum Alapítvány | A múzeum éves működési támogatása. Az értékmentési tevékenység elősegítése: a gyűjtemények biztonságát, állagvédelmét, megőrzését és hozzáférhetőségét szolgáló feladatok ellátása. | 17 000 000 | XX. fejezet 20.12.7.1 Közgyűjteményi szakmai feladatok – közgyűjtemények nemzeti értékmentő programja |
 
@@ -152,7 +160,7 @@
 
 | 14. MISZJE | Működési támogatás | 10 000 000 | XX. fejezet 20.13.4 Művészeti tevékenységek és egyéb fejezeti feladatok |
 
-| 15. Tokaji Írótábor Egyesület | 2011. Tokaji Írótábor megrendezése | 2 000 000 | XX. fejezet 20.13.4 Művészeti tevékenységekés egyéb fejezeti feladatok |
+| 15. Tokaji Írótábor Egyesület | 2011. Tokaji Írótábor megrendezése | 2 000 000 | XX. fejezet 20.13.4 Művészeti tevékenységek és egyéb fejezeti feladatok |
 
 | 16. Arany János Alapítvány | Programtámogatás | 11 500 000 | XX. fejezet 20.26.2.10 Egyéb kulturális alapítványok, közalapítványok támogatása |
 
@@ -288,13 +296,15 @@
 
 | 82. Történelmi Túra Utak Vidékfejlesztésért Egyesület | Működési támogatás | 4 000 000 | XX. fejezet 20.12.7.2 Közművelődési szakmai feladatok |
 
+| 83. Magyar Filmművészek Szövetsége | Működési támogatás | 5 000 000 | XX. fejezet 20.11.1.1. Filmszakmai támogatások |
+
 | IV. Egészségügy |
 
-| 1. Magyar ILCO Szövetség | 2011. évi működési támogatás | 15 000 000 | XX. fejezet 20.22.2/20. Egészségügyi ellátási és fejlesztési feladatok/Népegészségügyi és egészségfejlesztési feladatok |
+| 1. Magyar ILCO Szövetség | 2011. évi működési támogatás | 15 000 000 | XX. fejezet 20.22.2/20. Egészségügyi ellátási és fejlesztési feladatok/ Népegészségügyi és egészségfejlesztési feladatok |
 
-| 2. Rákbetegek Országos Szövetsége | 2011. évi működési támogatás, ezen belül – Központi iroda működése; – Tagszervezetek működésének támogatása; – Napforduló Segítő Szolgálatok működéséhez hozzájárulás; – Előadások, rehabilitációs és betegoktatási programok szervezése | 20 000 000 | XX. fejezet 20.22.2/20. Egészségügyi ellátási és fejlesztési feladatok/Népegészségügyi és egészségfejlesztési feladatok |
+| 2. Rákbetegek Országos Szövetsége | 2011. évi működési támogatás, ezen belül – Központi iroda működése; – Tagszervezetek működésének támogatása; – Napforduló Segítő Szolgálatok működéséhez hozzájárulás; – Előadások, rehabilitációs és betegoktatási programok szervezése | 20 000 000 | XX. fejezet 20.22.2/20. Egészségügyi ellátási és fejlesztési feladatok/ Népegészségügyi és egészségfejlesztési feladatok |
 
-| 3. Transzplantációs Alapítvány a Megújított Életekért | A Transzplantáció Európai Világnapjának megrendezése. | 1 500 000 | XX. fejezet 20.22.2/20. Egészségügyi ellátási és fejlesztési feladatok/Népegészségügyi és egészségfejlesztési feladatok |
+| 3. Transzplantációs Alapítvány a Megújított Életekért | A Transzplantáció Európai Világnapjának megrendezése. | 1 500 000 | XX. fejezet 20.22.2/20. Egészségügyi ellátási és fejlesztési feladatok/ Népegészségügyi és egészségfejlesztési feladatok |
 
 | 4. Asztmás és Allergiás Gyermekek Magyarországi Egyesülete | 2011. évi működési támogatás | 3 400 000 | XX. fejezet 20.22.2/21. Egészségügyi ellátási és fejlesztési feladatok/Egyéb egészségpolitikai feladatok |
 
@@ -303,6 +313,8 @@
 | 6. Magyar Rezidens Szövetség | Egészségügyi felsőfokú szakirányú szakképzéssel kapcsolatos szabályozás kialakításában való aktív közreműködés, háttéranyagok készítése | 8 000 000 | XX. fejezet 20.22.2/21. Egészségügyi ellátási és fejlesztési feladatok/Egyéb egészségpolitikai feladatok |
 
 | 7. Szakmai Egyesület a Gyógyúszó Gyermekekért | Az OEP 10 kódszámú gyógyúszást szolgáltató csoportok munkájának segítése, érdekképviselete | 5 000 000 | XX. fejezet 20.22.02./21. Egészségügyi ellátási és fejlesztési feladatok/egyéb egészségpolitikai feladatok |
+
+| 8. Magyar Szervátültetettek Országos Sport, Kulturális és Érdekvédelmi Szövetsége | A szervátültetett emberek életéről szóló konferencia megrendezése, illetve az ott elhangzó beszédek könyv formában történő megjelentetése. | 3 000 000 | XX. fejezet 20.22.18./1. „Országos Vérellátó Szolgálat fejlesztési feladatainak és egyéb fejezeti feladatok ellátása / Országos Vérellátó Szolgálat fejlesztési feladatai és egyéb fejezeti feladatok |
 
 | V. Sport |
 
@@ -334,7 +346,7 @@
 
 | 14. Magyar Úszó Szövetség | Learn toSwim Úszó Szeminárium rendezési költségeinek támogatása | 1 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
-| 15. Magyar Vívó Szövetség | Női Párbajtőr Világkupa rendezési költségeinek támogatása. Gerevich–Kovács–Kárpáti Kard Világkupa rendezési költségeinek támogatása | 10 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
+| 15. Magyar Vívó Szövetség | Női Párbajtőr Világkupa rendezési költségeinek támogatása. Gerevich-Kovács-Kárpáti Kard Világkupa rendezési költségeinek támogatása | 10 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
 | 16. Regnum Marianum Sport Egyesület | Deák András asztalitenisz emlékverseny megrendezésének támogatása | 350 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
@@ -342,7 +354,7 @@
 
 | 18. Nemzeti Sport Intézet, Magyar Labdarúgó Szövetség | Országos sportági szakszövetségek akadémiai rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása | 2 200 000 000 | XX. fejezet 20.23.5. Országos sportági szakszövetségek akadémiai rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása |
 
-| 19. Magyar Kerékpáros Túrázók Országos Szövetsége | Működési támogatás (közüzemi díjak/gáz, áram/, kommunikációs költségek/telefon, internet, posta/, bér jellegű kifizetések és a hozzájuk tartozó járulékok) | 1 297 410 | XX. fejezet 20.23.23. Szabadidősport támogatása |
+| 19. Magyar Kerékpáros Túrázók Országos Szövetsége | Működési támogatás (közüzemi díjak/gáz, áram/, kommunikációs költségek/telefon, internet, posta/, bérjellegű kifizetések és a hozzájuk tartozó járulékok) | 1 297 410 | XX. fejezet 20.23.23. Szabadidősport támogatása |
 
 | 20. Magyar Szabadidősport Szövetség | Működési támogatás (iroda bérleti díj /BMSK/, kommunikációs költségek /telefon, internet, posta/, közlekedési költségek, értekezlet szervezési költségei) | 6 487 070 | XX. fejezet 20.23.23. Szabadidősport támogatása |
 
@@ -370,15 +382,15 @@
 
 | 32. Magyar Labdarúgó Szövetség | A sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet hatálya alá tartozó, az MLSZ által, illetve az MLSZ versenyrendszerében szervezett mérkőzésnek helyt adó sportlétesítmények műszaki, infrastrukturális és biztonságtechnikai felmérésével és fejlesztésével kapcsolatos feladatok megvalósítása, a pályázat lebonyolítása, valamint a rendszer üzemeltetése és karbantartása. | 960 000 000 | XX. fejezet 20.24.10 Az MLSZ sportlétesítmények biztonságtechnikai fejlesztésével összefüggő feladatainak támogatása |
 
-| 33. Magyar Golf Szövetség | Junior Golf Európa-bajnokság (Young Masters) rendezési költségeinek támogatása (jogdíj, létesítmény és egyéb bérleti díjak, utazással, szállással, étkezéssel, szállítással, versenyhelyszín kiépítésével összefüggő költségek, reklám és marketing, grafikai, nyomdai költségek, napidíjak /hazai és nemzetközi tisztségviselők, közreműködők/, verseny lebonyolításához szükséges informatikai, technikai és egyéb szolgáltatások, eredményhirdetés, egészségügyi és mentő szolgálat, doppingellenőrzés, érem, serleg, szervezésben közreműködők díjazása, nyitó és záróünnepség, média és kommunikációs költségek, TV közvetítés és szükséges tárgyi eszközök, rendőrség, és egyéb személy- és vagyonvédelmi szolgáltatások költségei, hatósági engedélyek költségei) | 3 500 000 | XX. fejezet 20.23.4. Versenysport támogatása |
+| 33. Magyar Golf Szövetség | Junior Golf Európa-bajnokság (Young Masters) rendezési költségeinek támogatása (jogdíj, létesítmény és egyéb bérleti díjak, utazással, szállással, étkezéssel, szállítással, versenyhelyszín kiépítésével összefüggő költségek, reklám és marketing, grafikai, nyomdai költségek, napidíjak/hazai és nemzetközi tisztségviselők, közreműködők/, verseny lebonyolításához szükséges informatikai, technikai és egyéb szolgáltatások, eredményhirdetés, egészségügyi és mentő szolgálat, doppingellenőrzés, érem, serleg, szervezésben közreműködők díjazása, nyitó és záróünnepség, média és kommunikációs költségek, TV közvetítés és szükséges tárgyi eszközök, rendőrség, és egyéb személy- és vagyonvédelmi szolgáltatások költségei, hatósági engedélyek költségei) | 3 500 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
 | 34. Magyar Torna Szövetség | A 14. World Gymnastrada-n történő részvétel költségeinek támogatása (a magyar gimnasztráda csapatnak a 2011. július 10–16. között a svájci Lausenne-ban megrendezendő 14. World Gymnastrada-n történő részvételének támogatása: utazással, szállítással, szállással, étkezéssel összefüggő költségek) | 1 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
-| 35. Magyar Motorsport Szövetség | Kunmadarasi UEM Dragbike Európa-bajnoki futam rendezési költségeinek támogatása (jogdíj, létesítmény- és egyéb bérleti díjak, szállás, étkezés, szállítás, versenyhelyszín kiépítésével összefüggő költségek, reklám és marketing, grafikai, nyomdai költségek, napidíjak /hazai és nemzetközi tisztségviselők, közreműködők/, verseny lebonyolításához szükséges informatikai, technikai és egyéb szolgáltatások, eredményhirdetés, egészségügyi és mentő szolgálat, doppingellenőrzés, érem, serleg, szervezésben közreműködők díjazása, média és kommunikációs költségek, TV közvetítés és szükséges tárgyi eszközök, rendőrség, és egyéb személy- és vagyonvédelmi szolgáltatások költségei, hatósági engedélyek költségei) | 2 500 000 | XX. fejezet 20.23.4. Versenysport támogatása |
+| 35. Magyar Motorsport Szövetség | Kunmadarasi UEM Dragbike Európa-bajnoki futam rendezési költségeinek támogatása (jogdíj, létesítmény- és egyéb bérleti díjak, szállás, étkezés, szállítás, versenyhelyszín kiépítésével összefüggő költségek, reklám és marketing, grafikai, nyomdai költségek, napidíjak/hazai és nemzetközi tisztségviselők, közreműködők/, verseny lebonyolításához szükséges informatikai, technikai és egyéb szolgáltatások, eredményhirdetés, egészségügyi és mentő szolgálat, doppingellenőrzés, érem, serleg, szervezésben közreműködők díjazása, média és kommunikációs költségek, TV közvetítés és szükséges tárgyi eszközök, rendőrség, és egyéb személy- és vagyonvédelmi szolgáltatások költségei, hatósági engedélyek költségei) | 2 500 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
 | 36. Molnár-Sziget Horgász Egyesület | Klubcsapatok Horgász Világbajnokságán történő részvétel költségeinek támogatása (A 2011. június 4–5. között a szerbiai Golubacban megrendezett Klubcsapatok Horgász Világbajnokságán történő részvétel támogatása: utazással, szállítással, szállással, étkezéssel, összefüggő költségek) | 2 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
-| 37. Pénzügyminisztériumi Sport Club | A Pénzügyminisztériumi Sport Club 2011. évi működése és szakmai feladatai ellátásának támogatása (létesítmény-, terem- és egyéb bérleti díjak, sportszerek, sporteszközök, közüzemi díjak /gáz, áram/. kommunikációs költségek /telefon, internet/) | 250 000 | XX. fejezet 20.23.4. Versenysport támogatása |
+| 37. Pénzügyminisztériumi Sport Club | A Pénzügyminisztériumi Sport Club 2011. évi működése és szakmai feladatai ellátásának támogatása (létesítmény-, terem- és egyéb bérleti díjak, sportszerek, sporteszközök, közüzemi díjak /gáz, áram/, kommunikációs költségek /telefon, internet/) | 250 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
 | 38. Magyar Rendészeti Sportszövetség | Rendőr Tenisz Európa-bajnokság rendezési költségeinek támogatása (létesítmény-, terem- és egyéb bérleti díjak, érem, serleg, doppingellenőrzés, szervezésben, lebonyolításban közreműködők díjazása) | 500 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
@@ -390,14 +402,14 @@
 
 | 42. Pro-Art Táncstúdió Sportegyesület | Ifjúsági Tíztánc Európa-bajnokság rendezési költségeinek támogatása (létesítmény-, terem- és egyéb bérleti díjak, érem, serleg, szervezésben, lebonyolításban közreműködők díjazása) | 500 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
-| 43. Debreceni Ballon Repülő Klub | XXXI. Magyar Nemzeti Bajnokság és XI. Debrecen Kupa Nemzetközi Hőlégballonverseny megrendezésének támogatása (létesítmény- és egyéb bérleti díjak, utazással, szállással, étkezéssel, szállítással, versenyhelyszín kiépítésével összefüggő költségek, napidíjak, verseny lebonyolításához szükséges informatikai, technikai és egyéb szolgáltatások, eredményhirdetés, egészségügyi, mentő szolgálat, doppingellenőrzés, érem, serleg, szervezésben, lebonyolításban közreműködők díjazása, média és kommunikációs költségek, rendőrség, és egyéb személy- és vagyonvédelmi szolgáltatások költségei, hatósági engedélyek költségei). | 12 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
+| 43. Debreceni Ballon Repülő Klub | XXXI. Magyar Nemzeti Bajnokság és XI. Debrecen Kupa Nemzetközi Hőlégballonverseny megrendezésének támogatása (létesítmény- és egyéb bérleti díjak, utazással, szállással, étkezéssel, szállítással, versenyhelyszín kiépítésével összefüggő költségek, napidíjak, verseny lebonyolításához szükséges informatikai, technikai és egyéb szolgáltatások, eredményhirdetés, egészségügyi, mentő szolgálat, doppingellenőrzés, érem, serleg, szervezésben, lebonyolításban közreműködők díjazása, média és kommunikációs költségek, rendőrség, és egyéb személy és vagyonvédelmi szolgáltatások költségei, hatósági engedélyek költségei). | 12 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
 | 44. Feledékeny Emberek Hozzátartozóinak Társasága | Szentmise Puskás Ferenc Lelki üdvéért Halálának 5. Évfordulóján, Emlékkoncert Az Alzheimer-kór Magyar Áldozataiért elnevezésű esemény megrendezésének támogatása. | 250 000 | XX. fejezet 20.23.25. Sport népszerűsítésével összefüggő kiadások |
 
-| 45. Magyar Lovassport Szövetség | Az OTP Bank Lovas Világkupa megrendezésének támogatása: különösen a létesítmény, berendezés és egyéb bérleti díjak, mobil lóistállók kialakítása, bérlete, érem, serleg vásárlása, szervezésben, lebonyolításban közreműködők díjazása, a pálya építésével , karbantartásával, bontásával kapcsolatos költségek bérleti díja mentőszolgálat,és az állategészségügyi szolgáltatások költségei, a hangosítással, világítással, eredményjelzéssel összefüggő kiadások támogatása. | 10 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
+| 45. Magyar Lovassport Szövetség | Az OTP Bank Lovas Világkupa megrendezésének támogatása: különösen a létesítmény, berendezés és egyéb bérleti díjak, mobil lóistállók kialakítása, bérlete, érem, serleg vásárlása, szervezésben, lebonyolításban közreműködők díjazása, a pálya építésével, karbantartásával, bontásával kapcsolatos költségek bérleti díja mentőszolgálat, és az állategészségügyi szolgáltatások költségei, a hangosítással, világítással, eredményjelzéssel összefüggő kiadások támogatása. | 10 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
-| 46. Yamaha City No. 1. Mini és Motoros Team | A Qtel FIM Endurance Világbajnokság katari futamán történő részvétel költségeinek támogatása: különösen a futamra történő felkészüléssel, utazással, szállással, szállítással, étkezéssel összefüggő költségek támogatása. | 1 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
+| 46. Yamaha City No. 1. Mini és Motoros Team | A Qtel FIMEndurance Világbajnokság katari futamán történő részvétel költségeinek támogatása: különösen a futamra történő felkészüléssel, utazással, szállással, szállítással, étkezéssel összefüggő költségek támogatása. | 1 000 000 | XX. fejezet 20.23.4. Versenysport támogatása |
 
-6. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^11]
+6. melléklet a 49/2011. (III. 30.) Korm. rendelethez[^12]
 
-[^11]: A 6. mellékletet a 221/2011. (X. 20.) Korm. rendelet 4. §-a iktatta be.
+[^12]: A 6. mellékletet a 221/2011. (X. 20.) Korm. rendelet 4. §-a iktatta be, szövege a 296/2011. (XII. 22.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
