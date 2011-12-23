@@ -42,10 +42,12 @@ b) kezességi díjtámogatás.
 
 (7) A (4) bekezdésben meghatározott támogatások azon Folyószámlahitel esetén vehetők igénybe, amelynek összege ötszázezer forint pozitív egész számú többszöröse, de legfeljebb 25 millió forint, és futamideje legfeljebb 3 év.
 
-(8) A támogatás mértéke 2011. december 31. napjáig megkötött Folyószámlahitel-szerződés esetén
+(8)[^1] A támogatás mértéke 2012. december 31. napjáig megkötött Folyószámlahitel-szerződés esetén
 
 a) évi 2 százalékpontnyi kamattámogatás, valamint
 
 b) a hitelhez nyújtott kezességi díjnak 50 százalékáig terjedő támogatás, azzal, hogy a támogatás nem haladhatja meg a kezességi díj vetítési alapjának 0,75 százalékát.
 
 (9) Az Agrár Széchenyi Kártya Konstrukciók keretében létrejött ügylet támogatástartalmának kimutatásakor a de minimis támogatás összegének euróra történő átszámításakor az igénylőlap benyújtásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
+
+[^1]: A 2. § (8) bekezdése a 140/2011. (XII. 22.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.

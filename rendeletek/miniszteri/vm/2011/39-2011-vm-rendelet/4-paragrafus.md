@@ -1,4 +1,4 @@
-## 3. § A kamattámogatás és a kezességi díjtámogatás forrása a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelem-támogatások jogcímcsoport, 15. egyéb működési célú kiadások kiemelt előirányzata, a vidékfejlesztési miniszter által a XII. Vidékfejlesztési Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2011. évi kezelésének, felhasználásának szabályairól szóló miniszteri rendelet alapján elkülönített összegből legfeljebb 600 millió forint.
+## 3. §[^2] A kamattámogatás és a kezességi díjtámogatás forrása a Magyarország 2012. évi költségvetéséről szóló törvény XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelem-támogatások jogcímcsoporton belül Agrár Széchenyi Kártya Konstrukciókra elkülönített legfeljebb 1000 millió forint.
 
 ## 4. A támogatás igénybevételének feltétele
 
@@ -19,3 +19,5 @@ d) nyilatkozik az igénylőlap benyújtását megelőző kettő pénzügyi évbe
 e) nem rendelkezik Széchenyi Kártya Folyószámlahitellel.
 
 (2) Az (1) bekezdés e) pontjában foglalt feltétel fennállásának ellenőrzését a KA-VOSZ Zrt. végzi. A támogatás halmozódása a Törvény szerinti jogosulatlanul igénybe vett támogatásra vonatkozó szankciók alkalmazását vonja maga után.
+
+[^2]: A 3. § a 140/2011. (XII. 22.) VM rendelet 3. § (2) bekezdése iktatta be.
