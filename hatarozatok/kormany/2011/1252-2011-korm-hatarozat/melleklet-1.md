@@ -8,29 +8,29 @@
 
 ## Határidő: 2011. szeptember 15.
 
-## 2. a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) 8 milliárd forint keretösszeggel meghirdesse az MFB Fagykár 2011. Forgóeszköz Hitelprogramot (a továbbiakban: Hitelprogram), amelyben azon, a 800/2008/EK bizottsági rendelet I. mellékletében meghatározott KKV kritériumoknak megfelelő, mezőgazdasági termékek elsődleges előállításával foglalkozó vállalkozás, mezőgazdasági őstermelő, családi gazdálkodó vehet részt, aki ezen tevékenysége vonatkozásában a 2011. évi tavaszi fagyok következtében az ültetvényeiben elszenvedett fagykárát a jogszabályoknak megfelelő módon igazolja;
+## 2. a)[^2] az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 4. § (4) bekezdés második mondata értelmében a kormányhatározatban megjelölt feladatok teljesítésének elsőbbséget biztosítva, 8 milliárd forint keretösszeggel meghirdesse az MFB Fagykár 2011. Forgóeszköz Hitelprogramot (a továbbiakban: Hitelprogram), amelyben azon, a 800/2008/EK bizottsági rendelet I. mellékletében meghatározott KKV kritériumoknak megfelelő, mezőgazdasági termékek elsődleges előállításával foglalkozó vállalkozás, mezőgazdasági őstermelő, családi gazdálkodó vehet részt, aki ezen tevékenysége vonatkozásában a 2011. évi tavaszi fagyok következtében az ültetvényeiben elszenvedett fagykárát a jogszabályoknak megfelelő módon igazolja;
 
 ## – a hitel a mezőgazdasági termeléshez szükséges forgóeszköz beszerzésére, működési költség finanszírozására fordítható,
 
 ## – a hitel éven belüli és éven túli lejáratú, mezőgazdasági célú hitel kiváltására is felhasználható,
 
-## – a hitelt az MFB Zrt. ügynökhálózat igénybevétele mellett nyújtja,
+## – a hitelt az MFB Zrt. közvetítői hálózat igénybevétele mellett nyújtja,
 
-## a hitel összege a károsodás mértékével arányosan kerül meghatározásra, 100%-os károsodás esetén 800 ezer forint/ha, hitelfelvevőnként maximum 5 millió forint, a minimális hitelösszeg 500 ezer forint,
+## – a hitel összege a károsodás mértékével arányosan kerül meghatározásra, 100%-os károsodás esetén 1600 ezer forint/ha, hitelfelvevőnként maximum 10 millió forint, a minimális hitelösszeg 500 ezer forint,
 
 ## – a hitel futamideje maximum 20 év, azon belül 3 év tőketörlesztési türelmi idővel,
 
 ## – a hitelt az MFB Zrt. az Agrár-Vállalkozási Hitelgarancia Alapítvány 80%-os mértékű készfizető kezességvállalása mellett nyújtja, amely mellé az MFB Zrt. további bankári biztosítékot kérhet,
 
-## – a hitel a hitelfelvevő számára banki kamat- és költségmentesen (beleértve a hitelnyújtással kapcsolatban esetlegesen felmerülő értékbecslés, közokiratba foglalás, zálogbejegyzés stb. költségeit) kerül nyújtásra (kamat és költségmentes hitelnyújtásként értelmezve a 100%-os kamat és költségtámogatással nyújtott hitelt is) azzal, hogy az Agrár-Vállalkozási Hitelgarancia Alapítvány kapcsolódó kezességvállalási díja a hitelfelvevőt terheli,
+## – a hitel a hitelfelvevő számára banki kamat- és költségmentesen (beleértve a hitelnyújtással kapcsolatban esetlegesen felmerülő értékbecslés, közokiratba foglalás, zálogbejegyzés stb. költségeit) kerül nyújtásra (kamat- és költségmentes hitelnyújtásként értelmezve a 100%-os kamat- és költségtámogatással nyújtott hitelt is) azzal, hogy az Agrár-Vállalkozási Hitelgarancia Alapítvány kapcsolódó kezességvállalási díja a hitelfelvevőt terheli,
 
-## – a kamatmentességből, költségmentességből, kedvezményes kezességvállalási díjból származó támogatás nyújtására a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet (a továbbiakban: 1857/2006/EK bizottsági rendelet) 11. cikke alapján kerül sor;
+## – a kamatmentességből, költségmentességből, kedvezményes kezességvállalási díjból származó támogatás nyújtására a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet (a továbbiakban: 1857/2006/EK bizottsági rendelet) 11. cikke alapján kerül sor azzal, hogy a kifizethető támogatást 50%-kal csökkenteni kell az olyan mezőgazdasági termelők esetében, akik nem kötöttek biztosítást az éves átlagtermésük, vagy a termeléssel összefüggő hozamértékük legalább 50%-ára;
 
 ## Felelős: nemzeti fejlesztési miniszter
 
 ## vidékfejlesztési miniszter
 
-## Határidő: 2011. november 30.
+## Határidő: 2011. december 31.
 
 ## b) a Hitelprogram finanszírozásához az MFB Zrt. által forrásszerzés céljából felvett, euróban meghatározott éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan 8 milliárd forint mértékig a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 47. §-ának (3) bekezdésében meghatározott keret terhére a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. §-ának (2) bekezdése alapján a nemzetgazdasági miniszter az MFB Zrt.-vel árfolyam-fedezeti megállapodást kössön; a Hitelprogram futamideje az árfolyam-fedezeti megállapodás szempontjából 21 év; az árfolyam-fedezeti megállapodás jelen határozat hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik;
 
@@ -40,7 +40,7 @@
 
 ## Határidő: 2011. december 31.
 
-## c) a hitelhez 100%-os, az a) pont szerinti kamat és költségtámogatás kapcsolódik, amelynek forrása a XII. Vidékfejlesztési Minisztérium 20/5/8 Folyó kiadások és jövedelem-támogatások előirányzata azzal, hogy 2011-ben a szükséges forrásokat a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 1. számú melléklete XI. Miniszterelnökség fejezet 3. cím Rendkívüli kormányzati intézkedések előirányzatból kell átcsoportosítani; 2012-től kezdődően a szükséges forrásokat a XII. Vidékfejlesztési Minisztérium 20/5/8 Folyó kiadások és jövedelem-támogatások előirányzaton kell az előirányzatot terhelő egyéb kiadásokon felül biztosítani;
+## c)[^3] a hitelhez 100%-os, az a) pont szerinti kamat- és költségtámogatás kapcsolódik, amelynek forrása a XII. Vidékfejlesztési Minisztérium 20/5/8 Folyó kiadások és jövedelem-támogatások előirányzata azzal, hogy a szükséges forrásokat az ezen előirányzatot terhelő egyéb kiadásokon felül kell biztosítani;
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -275,3 +275,6 @@ Költségvetési év: 2011.
 |  |  |  |  |  | 2 |  |  |  |  |  |  | Felhalmozási költségvetés |  |
 
 |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Egyéb felhalmozási kiadások | –9 748 |
+
+[^2]: A 2. pont a) alpontja az 1465/2011. (XII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2. pont c) alpontja az 1465/2011. (XII. 22.) Korm. határozat 2. pontjával megállapított szöveg.
