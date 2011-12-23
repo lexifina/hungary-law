@@ -1,0 +1,129 @@
+## 1. A Kormány a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény (a továbbiakban: költségvetési törvény) 30. § (1) bekezdésében biztosított jogkörében eljárva, a költségvetési törvény 1. melléklet, IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezetében a költségvetési törvény 1. melléklet, IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet, 6. Helyi önkormányzatok kiegészítő támogatása cím, 2. Önhibájukon kívül hátrányos helyzetben lévő önkormányzatok támogatása alcím terhére az 1. melléklet szerint történő, 1819,0 millió forint összegű átcsoportosítással, valamint a költségvetési törvény 1. melléklet, IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet, 8. Normatív, kötött felhasználású támogatások cím, 2. Egyes szociális feladatok támogatása alcím terhére az 1. melléklet szerint történő, 6 700,0 millió forint összegű átcsoportosítással létrehozza az alábbi címeket:
+
+|  | millió Ft |
+
+| 15. Miskolc Megyei Jogú Város feladatainak támogatása | 1200,0 |
+
+| 16. Hódmezővásárhely Megyei Jogú Város feladatainak támogatása | 1200,0 |
+
+| 17. Dunaújváros Megyei Jogú Város feladatainak támogatása | 600,0 |
+
+| 18. Salgótarján Megyei Jogú Város feladatainak támogatása | 500,0 |
+
+| 19. Nyíregyháza Megyei Jogú Város feladatainak támogatása | 1000,0 |
+
+| 20. Szolnok Megyei Jogú Város feladatainak támogatása | 800,0 |
+
+| 21. Pécs Megyei Jogú Város feladatainak támogatása | 1000,0 |
+
+| 22. Debrecen Megyei Jogú Város feladatainak támogatása | 1000,0 |
+
+| 23. Kiszombor nagyközség feladatainak támogatása | 48,0 |
+
+| 24. Maroslele község feladatainak támogatása | 63,0 |
+
+| 25. Földeák község feladatainak támogatása | 57,0 |
+
+| 26. Apátfalva község feladatainak támogatása | 76,0 |
+
+| 27. Magyarcsanád község feladatainak támogatása | 25,0 |
+
+| 28. Makó város feladatainak támogatása | 200,0 |
+
+| 30. Békéscsaba Megyei Jogú Város feladatainak támogatása | 300,0 |
+
+| 31. Sopron Megyei Jogú Város feladatainak támogatása | 300,0 |
+
+| 32. Pápa város feladatainak támogatása | 150,0 |
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## 2. A Kormány felhatalmazza a belügyminisztert, hogy a támogatást utólagos, legkésőbb 2012. december 31-éig történő elszámolási kötelezettséggel soron kívül folyósítsa a megnevezett önkormányzatok számára.
+
+## Felelős: belügyminiszter
+
+## Határidő: azonnal
+
+## 3. A Kormány felhatalmazza a belügyminisztert, hogy a támogatás felhasználásának és utólagos elszámolásának feltételeiről az érintett önkormányzatokkal támogatási megállapodást kössön.
+
+## Felelős: belügyminiszter
+
+## Határidő: 2012. február 15.
+
+1. melléklet az 1481/2011. (XII. 23.) Korm. határozathoz
+
+IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA*
+
+a Kormány hatáskörében
+
+Költségvetési év: 2011.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+
+| Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | KIADÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | IX. |  |  |  |  |  |  | Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 8 |  |  |  |  |  |  | Normatív, kötött felhasználású támogatások |  |  |  |  |  |  |  |  |  |  |  |
+
+| 229012 |  |  | 2 |  |  |  |  |  |  | Egyes szociális feladatok támogatása |  |  |  |  |  |  |  |  | –6700,0 |  |  |
+
+|  |  | 6 |  |  |  |  |  | Helyi önkormányzatok kiegészítő támogatása |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018461 |  |  | 2 |  |  |  |  |  | Önhibájukon kívül hátrányos helyzetben lévő önkormányzatok támogatása |  |  |  |  |  |  |  |  | –1819,0 |  |  |
+
+|  | IX. |  |  |  |  |  |  | Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója |  |  |  |  |  |  |  |  |  |  |  |
+
+| 331784 |  | 15 |  |  |  |  |  |  | Miskolc Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 1200,0 |  |  |
+
+| 331795 |  | 16 |  |  |  |  |  |  | Hódmezővásárhely Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 1200,0 |  |  |
+
+| 331806 |  | 17 |  |  |  |  |  |  | Dunaújváros Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 600,0 |  |  |
+
+| 331817 |  | 18 |  |  |  |  |  |  | Salgótarján Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 500,0 |  |  |
+
+| 331828 |  | 19 |  |  |  |  |  |  | Nyíregyháza Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 1000,0 |  |  |
+
+| 331839 |  | 20 |  |  |  |  |  |  | Szolnok Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 800,0 |  |  |
+
+| 331840 |  | 21 |  |  |  |  |  |  | Pécs Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 1000,0 |  |  |
+
+| 331851 |  | 22 |  |  |  |  |  |  | Debrecen Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 1000,0 |  |  |
+
+| 331862 |  | 23 |  |  |  |  |  |  | Kiszombor nagyközség feladatainak támogatása |  |  |  |  |  |  |  |  | 48,0 |  |  |
+
+| 331873 |  | 24 |  |  |  |  |  |  | Maroslele község feladatainak támogatása |  |  |  |  |  |  |  |  | 63,0 |  |  |
+
+| 331884 |  | 25 |  |  |  |  |  |  | Földeák község feladatainak támogatása |  |  |  |  |  |  |  |  | 57,0 |  |  |
+
+| 331895 |  | 26 |  |  |  |  |  |  | Apátfalva község feladatainak támogatása |  |  |  |  |  |  |  |  | 76,0 |  |  |
+
+| 331906 |  | 27 |  |  |  |  |  |  | Magyarcsanád község feladatainak támogatása |  |  |  |  |  |  |  |  | 25,0 |  |  |
+
+| 331917 |  | 28 |  |  |  |  |  |  | Makó város feladatainak támogatása |  |  |  |  |  |  |  |  | 200,0 |  |  |
+
+| 332228 |  | 30 |  |  |  |  |  |  | Békéscsaba Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 300,0 |  |  |
+
+| 332239 |  | 31 |  |  |  |  |  |  | Sopron Megyei Jogú Város feladatainak támogatása |  |  |  |  |  |  |  |  | 300,0 |  |  |
+
+| 332240 |  | 32 |  |  |  |  |  |  | Pápa város feladatainak támogatása |  |  |  |  |  |  |  |  | 150,0 |  |  |
+
+| Az előirányzat-módosítás érvényessége:  a) a költségvetési évben egyszeri jellegű |
+
+| Az adatlap 5 példányban töltendő ki | Az előirányzatok felhasználása/zárolása (módosítás +/–) | Összesen | I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
+
+| Fejezet | 1 példány | időarányos |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány | teljesítményarányos |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány | egyéb: AZONNAL | 8519,0 |  |  |  | 8519,0 |
+
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
