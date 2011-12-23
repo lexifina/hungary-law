@@ -1,0 +1,3 @@
+78. § (1) A törvény által meghatározott határidőbe nem számít bele az a nap, amely során legalább négy órán át fennálló, az informatikai rendszerben felmerült üzemzavar akadályozta az informatikai rendszer működését.
+
+(2) E törvény alkalmazása során üzemzavarnak kell tekinteni az informatikai rendszerben végzett olyan karbantartásokat, tervezett leállításokat is, melyek az informatikai rendszer szolgáltatásainak igénybevételét korlátozzák vagy megakadályozzák. Az üzemzavar számítása szempontjából az informatikai rendszer részének kell tekinteni azokat a kormányzati informatikai szolgáltatásokat, amelyek szükségesek az informatikai rendszer ügyfelek általi elérhetőségéhez.

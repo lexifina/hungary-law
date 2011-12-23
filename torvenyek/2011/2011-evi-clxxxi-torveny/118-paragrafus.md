@@ -1,0 +1,1 @@
+118. § A felsőoktatásról szóló 2005. évi CXXXIX. törvény 107. § (6) bekezdésében a „továbbá dönt” szövegrész helyébe a „továbbá – a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény rendelkezései szerint – dönt” szöveg lép.

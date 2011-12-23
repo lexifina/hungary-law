@@ -1,0 +1,1 @@
+52. § Az alapítvány alapítóját megillető jogok, és az alapítót terhelő kötelezettségek tárgyában perképességgel az alapító rendelkezik, az eljárásban hozott határozatokat az alapítványnak is kézbesíteni kell.

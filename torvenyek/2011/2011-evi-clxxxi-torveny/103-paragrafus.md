@@ -1,0 +1,1 @@
+103. § Azokra a köztestületekre vonatkozó adatokat, melyeket e törvény hatályba lépését követően – külön törvény alapján – a bíróság nem tart nyilván törölni kell a nyilvántartásból, a köztestület nyilvántartásból való törléséről nem kell végzést hozni.
