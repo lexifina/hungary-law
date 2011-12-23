@@ -1,1 +1,0 @@
-147. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 16/C. § (1) bekezdésében a „társadalmi szervezetek” szövegrész helyébe az „egyesületek” szöveg lép.

@@ -1,1 +1,0 @@
-133. § A szabálysértésekről szóló 1999. évi LXIX. törvény 128/A. §-át megelőző alcímben, a 152/B. § (1)–(3) bekezdésében és az azt megelőző alcímben a „társadalmi szervezet” szövegrész helyébe az „egyesület” szöveg lép.

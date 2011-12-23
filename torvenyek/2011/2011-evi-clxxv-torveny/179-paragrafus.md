@@ -1,1 +1,0 @@
-179. § A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 26. § (2) bekezdésében a „társadalmi szervezetet” szövegrész helyébe az „egyesületet” szöveg lép.

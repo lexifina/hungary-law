@@ -1,1 +1,0 @@
-191. § A szakszervezeti vagyon védelméről, a munkavállalók szervezkedési és szervezeteik működési esélyegyenlőségéről szóló 1991. évi XXVIII. törvény 1. §-ában hatályát veszti az „1989. évi II.” szövegrész.

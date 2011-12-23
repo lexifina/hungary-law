@@ -1,1 +1,0 @@
-181. § Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény 6. § (1) bekezdésében a „társadalmi szervezet” szövegrész helyébe az „egyesület” szöveg lép.

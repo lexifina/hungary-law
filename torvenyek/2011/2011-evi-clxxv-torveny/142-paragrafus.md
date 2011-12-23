@@ -1,1 +1,0 @@
-142. § A tankönyvpiac rendjéről szóló 2001. évi XXXVII. törvény 27. § (2) bekezdésében az „a közhasznú szervezetekről szóló 1997. évi CLVI. törvény” szövegrész helyébe az „az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény” szöveg lép.

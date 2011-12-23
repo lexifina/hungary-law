@@ -1,1 +1,0 @@
-112. § A tervező- és szakértő mérnökök, valamint az építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 3. § (2) bekezdés b) pontjában a „társadalmi szervezetekkel” szövegrész helyébe az „egyesületekkel” szöveg lép.

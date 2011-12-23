@@ -1,1 +1,0 @@
-153. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 3. § e) pontjában a „társadalmi és érdek-képviseleti szervezet” szövegrész helyébe a „civil szervezet” szöveg lép.

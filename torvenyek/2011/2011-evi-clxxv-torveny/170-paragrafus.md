@@ -1,1 +1,0 @@
-170. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 18/A. § (3) bekezdésében az „a társadalmi szervezetek” szövegrész helyébe az „a civil szervezetek” szöveg lép.

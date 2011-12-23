@@ -1,1 +1,0 @@
-88. § Az 1956-os Emlékérem és Emléklap alapításáról szóló 1991. évi XLIII. törvény 2. § (1) bekezdésében és 1. számú mellékletének 1. § (1) bekezdésében a „társadalmi szervezetek” szövegrész helyébe az „egyesületek” szöveg lép.

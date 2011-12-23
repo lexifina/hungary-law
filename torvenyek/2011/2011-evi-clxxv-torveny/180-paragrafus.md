@@ -1,1 +1,0 @@
-180. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 2. § (1) bekezdés k) pontjában az „a társadalmi szervezetek” szövegrész helyébe az „az egyesületek” szöveg lép.

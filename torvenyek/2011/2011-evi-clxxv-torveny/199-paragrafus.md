@@ -1,1 +1,0 @@
-199. § A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 24. § (3) bekezdésében hatályát veszti a „társadalmi szervezetnek nem minősülő, de”, és a „valamint a tömegmozgalomhoz” szövegrész.
