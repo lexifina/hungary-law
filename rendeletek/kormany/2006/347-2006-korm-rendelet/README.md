@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-347-20-
 | 2011-02-09 | 2006-347-20-22.18 | 4/2011. (I. 28.) Korm. rendelet |
 | 2011-07-01 | 2006-347-20-22.19 | 86/2011. (V. 31.) Korm. rendelet |
 | 2011-09-15 | 2006-347-20-22.20 | 82/2011. (V. 18.) Korm. rendelet |
+| 2011-12-23 | 2006-347-20-22.21 | 300/2011. (XII. 22.) Korm. rendelet |
