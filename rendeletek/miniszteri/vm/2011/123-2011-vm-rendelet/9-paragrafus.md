@@ -1,3 +1,0 @@
-## 8. § Az R2. a következő 14. §-sal egészül ki:
-
-## „14. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelet módosításáról szóló 123/2011. (XII. 21.) VM rendelettel (a továbbiakban: 123/2011. (XII. 21.) VM rendelet megállapított 4. § (7)–(9) bekezdését, 9. § (1) bekezdését a 7. számú mellékletét a 123/2011. (XII. 21.) VM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
