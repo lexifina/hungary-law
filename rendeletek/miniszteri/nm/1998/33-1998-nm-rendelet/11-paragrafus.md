@@ -2,13 +2,13 @@
 
 11. § (1) A munkaköri alkalmasság vizsgálatát és véleményezését első fokon – külön jogszabályban meghatározott kivételekkel – a 2. § (1) bekezdés ab) pontjában szereplő munkavállaló esetében a foglalkozás-egészségügyi alapszolgáltatás nyújtására jogosult orvos végzi.
 
-(2)[^38] A szakmai alkalmasság előzetes vizsgálatát és véleményezését első fokon a szakképző intézménybe jelentkező tanulóknál a fogadó intézmény iskolaorvosa, ennek hiányában az intézmény vezetőjének kezdeményezésére az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet (a továbbiakban: OMFI) által kijelölt foglalkozás-egészségügyi szakellátó hely orvosa végzi, e tevékenység gyakorlása szempontjából az OMFI Ifjúsági Vizsgáló Osztálya orvosa szakellátó hely orvosának minősül. A hallgatónál a felsőoktatási intézmény kérésére, valamint az iskolarendszeren kívüli képzésben résztvevőnél – az OMFI Ifjúsági Vizsgáló Osztálya által megadott szempontok szerint – szakmai alkalmassági vizsgálat végezhető.
+(2)[^38] A szakmai alkalmasság előzetes vizsgálatát és véleményezését első fokon a szakképző intézménybe jelentkező tanulóknál a fogadó intézmény iskolaorvosa, ennek hiányában az intézmény vezetőjének kezdeményezésére a munkahigiénés és foglalkozás-egészségügyi szerv által kijelölt foglalkozás-egészségügyi szakellátó hely orvosa végzi. A hallgatónál a felsőoktatási intézmény kérésére, valamint az iskolarendszeren kívüli képzésben résztvevőnél – a munkahigiénés és foglalkozás-egészségügyi szerv által megadott szempontok szerint – szakmai alkalmassági vizsgálat végezhető.
 
 (3) A szakképző és felsőoktatási intézmény tanulóinak, hallgatóinak időszakos szakmai és soron kívüli szakmai alkalmassági vizsgálatát és véleményezését első fokon
 
-a)[^39] Budapesten és Pest megyében az OMFI Ifjúsági Vizsgáló Osztálya által szakmai indokok alapján kiválasztott szakképző intézményeknél az intézet orvosa, egyéb tekintetben a fogadó intézmény iskolaorvosa,
+a)[^39] Budapesten és Pest megyében a munkahigiénés és foglalkozás-egészségügyi szerv által szakmai indokok alapján kiválasztott szakképző intézményeknél az intézet orvosa, egyéb tekintetben a fogadó intézmény iskolaorvosa,
 
-b)[^40] a többi megyében a fogadó intézmény iskolaorvosa, ennek hiányában az intézmény vezetőjének a kezdeményezésére az OMFI által kijelölt foglalkozás-egészségügyi szakellátó hely orvosa
+b)[^40] a többi megyében a fogadó intézmény iskolaorvosa, ennek hiányában az intézmény vezetőjének a kezdeményezésére a munkahigiénés és foglalkozás-egészségügyi szerv által kijelölt foglalkozás-egészségügyi szakellátó hely orvosa
 
 végzi.
 
@@ -16,8 +16,8 @@ végzi.
 
 (5)[^42] A személyi higiénés alkalmassági vizsgálatot a munkát végző személyek esetében a háziorvos végzi, alkalmatlanság esetén az ÁNTSZ területileg illetékes kistérségi intézeténél – járványügyi érdekből – a tevékenységtől eltiltást kezdeményezi.
 
-[^38]: A 11. § (2) bekezdése a 80/2003. (XII. 23.) ESZCSM rendelet 5. §-ának (1) bekezdésével megállapított, a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének f)–g) pontja szerint módosított szöveg.
-[^39]: A 11. § (3) bekezdésének a) pontja a 80/2003. (XII. 23.) ESZCSM rendelet 9. §-ának (2) bekezdése, a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének g) pontja szerint módosított szöveg.
-[^40]: A 11. § (3) bekezdésének b) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének h) pontja szerint módosított szöveg.
+[^38]: A 11. § (2) bekezdése az 51/2011. (XII. 23.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^39]: A 11. § (3) bekezdésének a) pontja a 80/2003. (XII. 23.) ESZCSM rendelet 9. §-ának (2) bekezdése, a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének g) pontja, az 51/2011. (XII. 23.) NGM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^40]: A 11. § (3) bekezdésének b) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének h) pontja, az 51/2011. (XII. 23.) NGM rendelet 3. § (2) bekezdése szerint módosított szöveg.
 [^41]: A 11. § (4) bekezdése a 80/2003. (XII. 23.) ESZCSM rendelet 5. §-ának (2) bekezdésével megállapított, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés a) és c) pontja szerint módosított szöveg.
 [^42]: A 11. § (5) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének i) pontja szerint módosított szöveg.

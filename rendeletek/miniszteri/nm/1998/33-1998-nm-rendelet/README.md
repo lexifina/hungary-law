@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-33-20-3
 | 2010-04-01 | 1998-33-20-3D.15 | 8/2010. (III. 31.) SZMM rendelet |
 | 2010-08-01 | 1998-33-20-3D.16 | 3/2010. (VII. 30.) NGM rendelet |
 | 2011-01-01 | 1998-33-20-3D.17 | 27/2010. (XII. 31.) NGM rendelet |
+| 2011-12-24 | 1998-33-20-3D.18 | 80/2003. (XII. 23.) ESZCSM rendelet |

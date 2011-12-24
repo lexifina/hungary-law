@@ -1,4 +1,4 @@
-## 7M03769_0
+## 1M38876M_0
 
 | Kóroki tényező | Időszakos munkaalkalmassági vizsgálatok gyakorisága | Megjegyzés |
 
@@ -24,7 +24,7 @@
 
 | búvármunka |  |  |
 
-|  | állóvízben, 15 m vízoszlopot nem meghaladó merülésnél, +10 °C | évenként | a vizsgálat helye az OMFI által kijelölt foglalkozás-egészségügyi rendelő |
+|  | állóvízben, 15 m vízoszlopot nem meghaladó merülésnél, +10 °C | évenként | a vizsgálat helye a munkahigiénés és foglalkozás-egészségügyi szerv által kijelölt foglalkozás-egészségügyi rendelő |
 
 | +30 °C vízhőmérséklet esetén |  |  |
 
@@ -126,7 +126,7 @@
 
 | trinitro-toluol (trotyl) | félévenként |  |
 
-| tüdőfibrózist okozó porok | a vizsgálatok gyakoriságát az OMMF illetékes munkavédelmi felügyelősége állapíthatja meg, a munkáltató által előzetesen megszer- zett OMFI szakvé- lemény alapján (a szakvéleményhez a por mérési ered- mények csatolása szükséges) | az ernyőszűrő állomásokon készített tüdőfelvételek értékelése, ezt követően szükségessé váló klinikai vizsgálatok az OMFI szakrendelésén, valamint a pécsi Megyei Tüdőgyógyintézetben történnek |
+| tüdőfibrózist okozó porok | a vizsgálatok gyakoriságát az illetékes munkavédelmi felügyelőség állapíthatja meg, a munkáltató által előzetesen megszerzett, a munkahigiénés és foglalkozás- egészségügyi szerv által kiállított szakvélemény alapján (a szakvéleményhez a por mérési ered- mények csatolása szükséges) | az ernyőszűrő állomásokon készített tüdőfelvételek értékelése, ezt követően szükségessé váló klinikai vizsgálatok a munkahigiénés és foglalkozás-egészségügyi szerv szakrendelésén, valamint a pécsi Megyei Tüdőgyógyintézetben történnek |
 
 | vanádium | évenként |  |
 
