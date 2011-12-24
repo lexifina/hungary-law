@@ -210,11 +210,11 @@
 
 ## Az igen nehéz fokozatba sorolhatók: kazánok kézi salakozása, a hajk-kivágás az erdőgazdasági munkákban, anyagmozgatás kézi kocsival vagy csillével, az előzőekben megadott hasznos terhelés felett.
 
-## A munka-energiaszükséglet kiszámítására vonatkozóan az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet honlapján (www.omfi.hu) példaszámítás található.
+## A munka-energiaszükséglet kiszámítására vonatkozóan a munkahigiénés és foglalkozás-egészségügyi szerv honlapján példaszámítás található.
 
-2. számú melléklet a 34/2007. (XII. 21.) SZMM rendelethez
+2. számú melléklet a 34/2007. (XII. 21.) SZMM rendelethez[^7]
 
-Az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézetet a korkedvezmény-biztosítási járulék megfizetési kötelezettsége alól történő mentesítésre irányuló eljárásban megillető szakértői díjat megalapozó díjtételek:
+A munkahigiénés és foglalkozás-egészségügyi szervet a korkedvezmény-biztosítási járulék megfizetési kötelezettsége alól történő mentesítésre irányuló eljárásban megillető szakértői díjat megalapozó díjtételek:
 
 | Szakvélemény elkészítésének díja | 200 000 Ft |
 
@@ -227,3 +227,5 @@ Az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézetet a korke
 | Zajmérés | 200 000 Ft/munkahely |
 
 | Fokozott pszichés megterhelés vizsgálata | 50 000 Ft/nap/munkakör |
+
+[^7]: A 2. számú melléklet az 51/2011. (XII. 23.) NGM rendelet 13. § (2) bekezdsée szerint módosított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-34-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2007-34-20-1X.4 | 34/2007. (XII. 21.) SZMM rendelet |
+| 2011-12-24 | 2007-34-20-1X.5 | 51/2011. (XII. 23.) NGM rendelet |
