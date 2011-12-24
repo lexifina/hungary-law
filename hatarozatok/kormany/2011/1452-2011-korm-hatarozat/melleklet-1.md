@@ -50,28 +50,10 @@
 
 ## Szakmai Kollégium esetében a határidő 2012. december 31.
 
-## 9. A követelményrendszer-határozat 1. pontja a következő u–v) alponttal egészül ki:
-
-## „u) A jogérvényesítés szempontjából nélkülözhetetlennek minősülnek azok a testületek, amelyek hatékonysági szempontokra közvetlenül nem visszavezethető, sajátos szakmai értékrenden alapuló, önálló közhatalmi döntéseket hoznak, vagy törvényben, kormányrendeletben meghatározott hatósági ügyekben érdemi döntést meghatározó véleményt adnak.
-
-## v) A tisztviselő tagságát nem igénylő, jogszabályban, vagy közjogi szervezetszabályozó eszközben létrehozott testületek esetében a létrehozásról rendelkező jogforrás rendelkezzen arról, hogy a testületnek tisztviselő nem lehet tagja.”
-
-## 10. A követelményrendszer-határozat 1. pont g) alpontja helyébe a következő szöveg lép:
-
-## „g) A munkacsoport testülettípusba tartozzanak a Kormány által a Ksztv. 30. § (1) bekezdése szerint normatív határozattal, vagy miniszter által a Ksztv. 64. § (1) bekezdése szerint normatív utasítással, eseti vagy jól körülhatárolható állandó feladat ellátására létrehozott testületek.”
-
-## 11. A követelményrendszer-határozat 1. pont p) alpontja helyébe a következő szöveg lép:
-
-## „p) Az előreláthatólag öt évnél hosszabb ideig szükséges munkacsoportok határozatlan időre, az egyéb munkacsoportok határozott időre jöjjenek létre.”
-
-## 12. A követelményrendszer-határozat 1. pont a) alpontja helyébe a következő szöveg lép:
-
-## „a) A Kormány rendelete, a Kormány által benyújtandó törvényjavaslat, országgyűlési határozati javaslat, valamint miniszteri rendelet – a 2. mellékletben felsorolt, a jogérvényesítés szempontjából nélkülözhetetlen, és más megoldással ki nem váltható és a 3. mellékletben felsorolt fontos társadalmi okból kivételes szabályozást igénylő testületekre vonatkozó rendelkezések, valamint a kizárólag eljárási jellegű rendelkezések kivételével – ne tartalmazzon államigazgatási szerv, állami vezető, valamint kormánytisztviselő, a Magyar Honvédség vagy fegyveres szerv hivatásos állományú vagy szerződéses tagja, államigazgatási szervhez beosztott bíró, ügyész (a továbbiakban együtt: tisztviselő) tagságát igénylő testület létrehozásáról szóló rendelkezést.”
-
-## 13. A követelményrendszer-határozat a jelen határozat 5. és 6. melléklete szerinti 2. és 3. mellékletekkel egészül ki.
-
-## 14. A követelményrendszer-határozat Mellékletének megjelölése 1. mellékletre változik.
+## 9–14.[^1]
 
 ## 15. Ez a határozat a közzétételét követő napon lép hatályba.
 
 1. melléklet az 1452/2011. (XII. 22.) Korm. határozathoz
+
+[^1]: A 9–14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
