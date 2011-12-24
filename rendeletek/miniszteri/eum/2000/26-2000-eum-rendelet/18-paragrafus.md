@@ -18,13 +18,11 @@ c) a munkahely méretében vagy elhelyezésében változás történt,
 
 d)[^32] az 5. § (8) bekezdése szerinti rendkívüli munkavégzés elrendelésére került sor.
 
-(3)[^33] A munkavédelmi felügyelőség
+(3)[^33] A munkavédelmi felügyelőség az (1) és (2) bekezdés szerint beérkezett adatokról elektronikus nyilvántartást vezet.
 
-a) az (1) és (2) bekezdés szerint beérkezett adatokról elektronikus nyilvántartást vezet;
+(4)[^34] A munkahigiénés és foglalkozás-egészségügyi szerv az e §, valamint a 3. számú melléklet alapján bejelentett és a munkavédelmi felügyelőség által nyilvántartott rákkeltőkről, rákkeltőkkel végzett tevékenységről, és a rákkeltőkkel exponált munkavállalókról foglalkozási rák regisztert vezet.
 
-b) az OMFI a 18. §, valamint a 3. számú melléklet alapján bejelentett és a munkavédelmi felügyelőség által nyilvántartott rákkeltőkről, rákkeltőkkel végzett tevékenységről, és a rákkeltőkkel exponált munkavállalókról foglalkozási rák regisztert vezet;
-
-c) az OMFI az adatokat a tárgyévet követő március 31-ig regisztrálja, elemzi és értékeli, és az erről készült tájékoztatót megküldi az OMMF, az Egészségügyi Minisztérium, valamint az Országos Tisztifőorvosi Hivatal részére, továbbá a HM által szolgáltatott adatokról készült tájékoztatót a HM részére is megküldi.
+(5)[^35] A munkahigiénés és foglalkozás-egészségügyi szerv a (4) bekezdés szerinti adatokat a tárgyévet követő március 31-ig regisztrálja, elemzi és értékeli, és az erről készült tájékoztatót megküldi az egészségügyért felelős miniszter által vezetett minisztérium, valamint az Országos Tisztifőorvosi Hivatal részére, továbbá a HM által szolgáltatott adatokról készült tájékoztatót a HM részére is megküldi.
 
 [^27]: A 17. § a 12/2006. (III. 23.) EüM rendelet 20. § (3) bekezdésének b) pontja, a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének b) pontja szerint módosított szöveg.
 [^28]: A 18. §-t megelőző alcím a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének d) pontja szerint módosított szöveg.
@@ -32,4 +30,6 @@ c) az OMFI az adatokat a tárgyévet követő március 31-ig regisztrálja, elem
 [^30]: A 18. § (1) bekezdésének a) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 6. §-ának (1) bekezdésével megállapított szöveg.
 [^31]: A 18. § (2) bekezdésének bevezető szövegrésze a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének d) pontja szerint módosított szöveg.
 [^32]: A 18. § (2) bekezdésének d) pontját a 12/2002. (XI. 16.) ESZCSM rendelet 6. §-ának (2) bekezdése iktatta a szövegbe.
-[^33]: A 18. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 14. § (7) bekezdésével megállapított szöveg.
+[^33]: A 18. § (3) bekezdése az 51/2011. (XII. 23.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^34]: A 18. § (4) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (2) bekezdése iktatta be.
+[^35]: A 18. § (5) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (3) bekezdése iktatta be.

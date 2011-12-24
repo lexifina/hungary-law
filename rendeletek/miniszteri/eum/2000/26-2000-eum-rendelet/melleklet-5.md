@@ -2,7 +2,7 @@
 
 A vinil-klorid monomer expozíció hatásának kitett munkavállalók egészségvédelmére vonatkozó előírások
 
-1.[^47] Megelőző műszaki intézkedésekkel a munkavégzés helyének vinil-klorid monomer (a továbbiakban: VCM) koncentrációját a lehető legkisebbre kell csökkenteni. Ennek érdekében a VCM
+1.[^49] Megelőző műszaki intézkedésekkel a munkavégzés helyének vinil-klorid monomer (a továbbiakban: VCM) koncentrációját a lehető legkisebbre kell csökkenteni. Ennek érdekében a VCM
 
 a) gyártásával, visszanyerésével, raktározásával, áttöltésével, szállításával vagy bármely egyéb módon történő felhasználásával történő munkavégzés során, továbbá
 
@@ -10,7 +10,7 @@ b) polivinil-kloriddá (a továbbiakban: PVC) történő átalakítása esetén
 
 valamennyi munkahelyen ellenőrizni kell a VCM-koncentrációt.
 
-2.[^48] A VCM-koncentráció határértéke 7,77 mg/m3 MK.
+2.[^50] A VCM-koncentráció határértéke 7,77 mg/m3 MK.
 
 3.1. A VCM-határérték betartásának ellenőrzésekor a munkatérben a mérési pontokat úgy kell kijelölni, hogy a mért eredmények a lehető legpontosabban reprezentálják a munkavállalókat érő VCM expozíció mértékét.
 
@@ -40,7 +40,7 @@ ad) a máj és a lép fibrosisa (hasonló a Banti-szindromához),
 
 ae) légzésfunkciós zavarok,
 
-af)[^49] thrombocytopenia,
+af)[^51] thrombocytopenia,
 
 ag) máj-angiosarcoma (miután a VCM genotoxikus és rákkeltő, biztonságos védelmet a daganatos megbetegedés ellen az MK érték sem nyújt);
 
@@ -82,6 +82,6 @@ g) krónikus bőrártalom,
 
 h) túlzott alkoholfogyasztás és/vagy kábítószer-élvezet.
 
-[^47]: Az 5. számú melléklet 1. pontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.
-[^48]: Az 5. számú melléklet 2. pontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
-[^49]: Az 5. számú melléklet 6.1. pontjának af) alpontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.
+[^49]: Az 5. számú melléklet 1. pontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.
+[^50]: Az 5. számú melléklet 2. pontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^51]: Az 5. számú melléklet 6.1. pontjának af) alpontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.

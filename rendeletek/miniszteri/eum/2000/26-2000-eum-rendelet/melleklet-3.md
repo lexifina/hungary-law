@@ -1,4 +1,4 @@
-3. számú melléklet a 26/2000. (IX. 30.) EüM rendelethez[^45]
+3. számú melléklet a 26/2000. (IX. 30.) EüM rendelethez[^47]
 
 ## A fővárosi és megyei kormányhivatal munkavédelmi felügyelősége részére nyújtott tájékoztatás a rákkeltő/mutagén anyagokkal tevékenységet végző munkáltatókról és munkavállalókról
 
@@ -154,4 +154,4 @@ Dátum: ................................................................
 
 aláírás
 
-[^45]: A 3. számú melléklet a 30/2009. (XII. 22.) SZMM rendelet 3. § (2) bekezdés b) pontjával megállapított, a 27/2010. (XII. 31.) NGM rendelet 26. § (3) bekezdése szerint módosított szöveg.
+[^47]: A 3. számú melléklet a 30/2009. (XII. 22.) SZMM rendelet 3. § (2) bekezdés b) pontjával megállapított, a 27/2010. (XII. 31.) NGM rendelet 26. § (3) bekezdése szerint módosított szöveg.

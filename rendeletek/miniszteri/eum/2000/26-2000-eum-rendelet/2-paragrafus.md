@@ -26,7 +26,7 @@ e) expozíciós út: az az út és/vagy mód, amelyen át, illetve ahogy a rákk
 
 f) terhelés: a munkavállaló szervezetébe jutó rákkeltő mennyisége, dózisa függetlenül attól, hogy milyen expozíciós úton jutott a szervezetbe;
 
-g)[^3] orvosi vizsgálat: a külön jogszabály szerint a foglalkozás-egészségügyi szolgálatok vagy szakellátó helyek, illetve az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet (a továbbiakban: OMFI) által, valamint ezek kérésére végzett orvosi, szakkonziliárusi, illetőleg diagnosztikai vizsgálat;
+g)[^3] orvosi vizsgálat: a külön jogszabály szerint a foglalkozás-egészségügyi szolgálatok vagy szakellátó helyek, illetve a munkahigiénés és foglalkozás-egészségügyi szerv által, valamint ezek kérésére végzett orvosi, szakkonziliárusi, illetőleg diagnosztikai vizsgálat;
 
 h) biológiai vizsgálatok: biológiai monitorozás, citogenetikai vizsgálat, tumor-marker meghatározás;
 
@@ -58,7 +58,7 @@ sc) a veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egye
 
 [^1]: Az 1. § a 75/2003. (XII. 23.) ESZCSM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § a) pontja a 30/2009. (XII. 22.) SZMM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § g) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének a) pontja szerint módosított szöveg.
+[^3]: A 2. § g) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének a) pontja, az 51/2011. (XII. 23.) NGM rendelet 5. §-a szerint módosított szöveg.
 [^4]: A 2. § m) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 1. §-ának (1) bekezdése szerint kiegészített szöveg.
 [^5]: A 2. § p) pontja a 12/2006. (III. 23.) EüM rendelet 20. § (3) bekezdésének a) pontja szerint módosított szöveg.
 [^6]: A 2. § r) pontját a 12/2002. (XI. 16.) ESZCSM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
