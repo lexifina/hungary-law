@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1987-6-20-0B
 | --- | --- | --- |
 | 2008-05-16 | 1987-6-20-0B.5 | 6/1987. (VI. 24.) EüM rendelet |
 | 2011-01-01 | 1987-6-20-0B.6 | 27/2010. (XII. 31.) NGM rendelet |
+| 2011-12-24 | 1987-6-20-0B.7 | 51/2011. (XII. 23.) NGM rendelet |

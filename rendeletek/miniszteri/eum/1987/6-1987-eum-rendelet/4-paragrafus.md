@@ -154,11 +154,11 @@ Időszakos alkalmassági vizsgálat
 
 Időszakos alkalmassági vizsgálat[^14]
 
-9.5.[^15] Az előzetes és időszakos orvosi alkalmassági vizsgálatokat az Országos Munkahigiénés és Foglalkozás- egészségügyi Intézet (a továbbiakban: OMFI) véleményének figyelembevételével az egészségügyi hatóság által erre kijelölt foglalkozás-egészségügyi szolgálat végzi.
+9.5.[^15] Az előzetes és időszakos orvosi alkalmassági vizsgálatokat a munkahigiénés és foglalkozás-egészségügyi szerv véleményének figyelembevételével az egészségügyi hatóság által erre kijelölt foglalkozás-egészségügyi szolgálat végzi.
 
 Másodfokú alkalmassági vélemény[^16]
 
-9.6.[^17] Ha a munkáltató vagy a dolgozó nem ért egyet a keszonmunkára vonatkozó alkalmassági vizsgálaton hozott orvosi véleménnyel, felülvizsgálatot kérhet az OMFI-nél szervezett másodfokú bizottságtól.
+9.6.[^17] Ha a munkáltató vagy a dolgozó nem ért egyet a keszonmunkára vonatkozó alkalmassági vizsgálaton hozott orvosi véleménnyel, felülvizsgálatot kérhet a munkahigiénés és foglalkozás-egészségügyi szervnél szervezett másodfokú bizottságtól.
 
 Bejegyzés a dolgozók orvosi igazolványába[^18]
 
@@ -378,9 +378,9 @@ b) gyógyzsilipelés végrehajtásakor a zsilipben a hőmérsékletnek lehetőle
 [^12]: Jelenleg: A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet.
 [^13]: A melléklet 9.2. pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (3) bekezdése szerint módosított szöveg.
 [^14]: A melléklet 9.5. pontját megelőző alcímet a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdése iktatta be.
-[^15]: A melléklet 9.5. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^15]: A melléklet 9.5. pontja az 51/2011. (XII. 23.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^16]: A melléklet 9.6. pontját megelőző alcím a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
-[^17]: A melléklet 9.6. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^17]: A melléklet 9.6. pontja az 51/2011. (XII. 23.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^18]: A melléklet 9.7. pontját megelőző alcím a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
 [^19]: A melléklet 9.7. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
 [^20]: A melléklet 9.8. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
