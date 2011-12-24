@@ -1,4 +1,4 @@
-## 25/B. §[^30] Az OGYI – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi a 25/A. § (1) bekezdés szerinti eljárásban hozott határozatot, valamint a 25/A. § (3) bekezdés szerinti felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást.
+## 25/B. §[^31] Az OGYI – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi a 25/A. § (1) bekezdés szerinti eljárásban hozott határozatot, valamint a 25/A. § (3) bekezdés szerinti felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást.
 
 ## 13. Záró és átmeneti rendelkezések
 
@@ -28,11 +28,11 @@
 
 ## szerinti feladatok ellátására.”
 
-(4)[^31] Azokat a 2011. január 1-jén folyamatban lévő másodfokú eljárásokat, amelyek a 2010. december 31-én hatályos jogszabályok szerint – az ÁNTSZ regionális intézetei első fokú hatáskörébe tartozó ügyek tekintetében másodfokú hatóságként eljáró – Országos Tisztifőorvosi Hivatal hatáskörébe tartoznak, az Országos Tisztifőorvosi Hivatal a 2010. december 31-én alkalmazandó jogszabályok szerint lefolytatja.
+(4)[^32] Azokat a 2011. január 1-jén folyamatban lévő másodfokú eljárásokat, amelyek a 2010. december 31-én hatályos jogszabályok szerint – az ÁNTSZ regionális intézetei első fokú hatáskörébe tartozó ügyek tekintetében másodfokú hatóságként eljáró – Országos Tisztifőorvosi Hivatal hatáskörébe tartoznak, az Országos Tisztifőorvosi Hivatal a 2010. december 31-én alkalmazandó jogszabályok szerint lefolytatja.
 
-(5)[^32] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^33] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+(5)[^33] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^34] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-[^30]: A 25/B. §-t a 82/2011. (V. 18.) Korm. rendelet 61. §-a iktatta be.
-[^31]: A 26. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 293. § (2) bekezdése iktatta be.
-[^32]: A 26. § (5) bekezdését a 82/2011. (V. 18.) Korm. rendelet 62. §-a iktatta be.
-[^33]: A hatálybalépés időpontja 2011. szeptember 15.
+[^31]: A 25/B. §-t a 82/2011. (V. 18.) Korm. rendelet 61. §-a iktatta be.
+[^32]: A 26. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 293. § (2) bekezdése iktatta be.
+[^33]: A 26. § (5) bekezdését a 82/2011. (V. 18.) Korm. rendelet 62. §-a iktatta be.
+[^34]: A hatálybalépés időpontja 2011. szeptember 15.

@@ -52,7 +52,7 @@ d) a kémiai biztonságról szóló 2000. évi XXV. törvény (a továbbiakban: 
 
 e) az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 14/A. § (1) bekezdése,
 
-f) az atomenergiáról szóló 1996. évi CXVI. törvény 4. § (12) bekezdése, 21. § (2) bekezdése, valamint 21/A. § (1)–(3) és (5) bekezdése,
+f)[^18] az atomenergiáról szóló 1996. évi CXVI. törvény 4. § (12) bekezdése, 21. § (2) bekezdése, 21/A. § (1)–(3) és (5) bekezdése, a radioaktívhulladék-tároló esetében a biztonsági övezet kijelölésére vonatkozó, az atomenergiáról szóló 1996. évi CXVI. törvény 34. § (1) bekezdése,
 
 g) a humángenetikai adatok védelméről, a humángenetikai vizsgálatok és kutatások, valamint a biobankok működésének szabályairól szóló 2008. évi XXI. törvény (a továbbiakban: Btv.)
 
@@ -94,11 +94,11 @@ bb) 15. § (1) bekezdése,
 
 c) az Eütv.
 
-ca)–ce)[^18]
+ca)–ce)[^19]
 
 cf) 159. § (6) bekezdése,
 
-cg)[^19]
+cg)[^20]
 
 ch) 242/A. § (1) bekezdése,
 
@@ -154,11 +154,12 @@ eb) 72. § (1)–(3) és (5) bekezdése
 
 ## szerinti feladatok ellátására.
 
-(7)[^20] A Kormány egészségügyi államigazgatási szervként az OTH-t, a megyei népegészségügyi szakigazgatási szervet és a kistérségi népegészségügyi intézetet jelöli ki az Eüak. 5. § (3) bekezdése szerinti feladatok ellátására.
+(7)[^21] A Kormány egészségügyi államigazgatási szervként az OTH-t, a megyei népegészségügyi szakigazgatási szervet és a kistérségi népegészségügyi intézetet jelöli ki az Eüak. 5. § (3) bekezdése szerinti feladatok ellátására.
 
 [^15]: A 12. § (4) bekezdés a) pont ae) alpontja a 73/2011. (IV. 29.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
 [^16]: A 12. § (4) bekezdés a) pont af) alpontját a 73/2011. (IV. 29.) Korm. rendelet 13. § (5) bekezdése iktatta be.
 [^17]: A 12. § (4) bekezdés c) pont cb) alpontja a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^18]: A 12. § (5) bekezdés c) pont ca)–ce) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
-[^19]: A 12. § (5) bekezdés c) pont cg) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^20]: A 12. § (7) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^18]: A 12. § (4) bekezdés f) pontja a 246/2011. (XI. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^19]: A 12. § (5) bekezdés c) pont ca)–ce) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^20]: A 12. § (5) bekezdés c) pont cg) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^21]: A 12. § (7) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.

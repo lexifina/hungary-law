@@ -4,6 +4,6 @@
 
 (2) A Kormány egészségügyi államigazgatási szervként valamennyi, az adott regionális egészségügyi tanács illetékességi területén működő megyei népegészségügyi szakigazgatási szervet és kistérségi népegészségügyi intézetet jelöli ki az Eütv. 149/A. § (4) bekezdésében foglalt feladatok ellátására.
 
-(3)[^21]
+(3)[^22]
 
-[^21]: A 14. § (3) bekezdését a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^22]: A 14. § (3) bekezdését a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés f) pontja hatályon kívül helyezte.
