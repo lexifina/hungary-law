@@ -34,11 +34,11 @@ b) a foglalkozási rehabilitációban;
 
 c) a munkáltató katasztrófamegelőző, -elhárító, -felszámoló és az előidézett károsodások rehabilitációs tervének kidolgozásában.
 
-(3)[^9] A szolgálat az Egészségbiztosítási Alap terhére igénybe veheti a mentőszolgálatot, a szolgálat orvosa járóbeteg-szakellátást nyújtó szakrendelésekre, illetve háziorvosi ellátásra utalhatja a társadalombiztosítási jogviszonnyal rendelkező munkavállalót, speciális kórházi ellátást igénylő foglalkozási megbetegedés vagy annak gyanúja esetén pedig – sürgősséggel vagy előzetes helybiztosítás útján – az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet fekvőbetegosztályára utalhatja a beteget.
+(3)[^9] A szolgálat az Egészségbiztosítási Alap terhére igénybe veheti a mentőszolgálatot, a szolgálat orvosa járóbeteg-szakellátást nyújtó szakrendelésekre, illetve háziorvosi ellátásra utalhatja a társadalombiztosítási jogviszonnyal rendelkező munkavállalót, speciális kórházi ellátást igénylő foglalkozási megbetegedés vagy annak gyanúja esetén pedig – sürgősséggel vagy előzetes helybiztosítás útján – a munkahigiénés és foglalkozás-egészségügyi szerv fekvőbetegosztályára utalhatja a beteget.
 
 (4) Az (1) és (2) bekezdésben foglaltak nem érintik a munkáltatónak az egészséget nem veszélyeztető és biztonságos munkavégzés megvalósításáért az Mvt.-ben meghatározott felelősségét.
 
 [^6]: A 4. § (1) bekezdése a 18/2007. (V. 10.) SZMM rendelet 8. § (3) bekezdésével megállapított szöveg. E módosító rendelet 23. §-a alapján a 2007. május 13. napja előtt – a foglalkozás-egészségügyi szolgálat és a munkáltató között – létrejött szerződést a fenti időponttól számított 90 napon belül a rendelet 4. § (1) bekezdésének c) pontjában foglaltaknak megfelelően módosítani kell.
 [^7]: A 4. § (1) bekezdés j) pontját a 8/2010. (III. 31.) SZMM rendelet 5. § (1) bekezdése iktatta be.
 [^8]: A 4. § (2) bekezdése a 18/2007. (V. 10.) SZMM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^9]: A 4. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^9]: A 4. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 8. § (3) bekezdésével megállapított, az 51/2011. (XII. 23.) NGM rendelet 2. §-a szerint módosított szöveg.
