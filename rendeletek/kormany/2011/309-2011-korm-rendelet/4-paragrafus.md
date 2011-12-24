@@ -1,0 +1,1 @@
+## 3. § A 2. mellékletben meghatározott költségvetési szervek számára a központi költségvetési forrásból finanszírozott, a költségvetési szervek működéséhez szükséges központosított informatikai és elektronikus hírközlési szolgáltatásokat kizárólag a központi szolgáltató nyújthatja, és e költségvetési szervek kötelesek e szolgáltatásokat a központi szolgáltatótól igénybe venni.

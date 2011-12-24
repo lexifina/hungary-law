@@ -1,0 +1,1 @@
+## 8. § A központi szolgáltató az 1. mellékletben felsorolt szolgáltatásokat – erre irányuló megállapodás alapján – a 3. §-ban meghatározott szervek körén kívül más központi államigazgatási szerv részére is nyújthatja.

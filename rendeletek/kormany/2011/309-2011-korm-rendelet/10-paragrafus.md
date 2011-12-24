@@ -1,0 +1,1 @@
+## 9. § A központi szolgáltató a 3–4. §-ban meghatározott igénybevevők részére – külön megállapodás alapján – az 1. mellékletben meghatározott szolgáltatási körön kívül eső informatikai és elektronikus hírközlési szolgáltatásokat is nyújthat.

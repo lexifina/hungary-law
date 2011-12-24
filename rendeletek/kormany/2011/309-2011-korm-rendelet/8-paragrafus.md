@@ -1,0 +1,1 @@
+## 7. § A 2. melléklet 2.2. pontjában meghatározott költségvetési szerv esetében a központi szolgáltató igénybevétele egyedi szolgáltatási megállapodás útján történik. Az egyedi szolgáltatási megállapodásban foglalt szolgáltatások ellátásának fedezetét a 2.2. pontban meghatározott költségvetési szerv biztosítja.

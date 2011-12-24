@@ -1,0 +1,1 @@
+## 12. § A miniszter indokolt esetben, egyedi kérelemre felmentést ad a központi szolgáltató kötelező igénybe vétele alól a kiemelt biztonsági védelmet igénylő informatikai eszközök és alkalmazások beszerzése és üzemeltetése esetén.
