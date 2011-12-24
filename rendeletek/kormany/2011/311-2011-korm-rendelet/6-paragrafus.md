@@ -1,0 +1,1 @@
+## 5. § Hatályát veszti a Budai Palota kulturális, turisztikai fejlesztéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról 73/2008. (IV. 3.) Korm. rendelet.
