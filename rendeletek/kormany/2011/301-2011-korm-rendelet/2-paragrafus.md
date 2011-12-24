@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya közötti iskolai együttműködésről szóló, Baján, 2000. december 7-én aláírt egyezményt e rendelettel kihirdeti.
