@@ -1,9 +1,0 @@
-# 140/2011. (XII. 22.) VM rendelet
-
-egyes vidékfejlesztési tárgyú miniszteri rendeletek módosításáról
-
-Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-140-20-2Y
-
-| Időállapot | NJT | Módosította |
-| --- | --- | --- |
-| 2011-12-23 | 2011-140-20-2Y.1 | 140/2011. (XII. 22.) VM rendelet |
