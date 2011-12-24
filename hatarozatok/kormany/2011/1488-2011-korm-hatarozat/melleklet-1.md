@@ -8,9 +8,7 @@
 
 ## az elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. március 31.
 
-## 2. A rendkívüli kormányzati intézkedések előirányzatból történő átcsoportosításról szóló 1181/2011. (V. 31.) Korm. határozat a következő 2a. ponttal egészül ki:
-
-## „2a. Az 1. pontban elrendelt átcsoportosításból a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 1. melléklet, XX. Nemzeti Erőforrás Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára biztosított 30 millió forint esetében az elszámolási és a fel nem használt rész tekintetében a visszafizetési kötelezettség határideje 2012. május 31.”
+## 2.[^1]
 
 1. melléklet az 1488/2011. (XII. 23.) Korm. határozathoz
 
@@ -85,3 +83,5 @@ Költségvetési év: 2011.
 | Magyar Államkincstár | 1 példány | egyéb: azonnal | 170,0 |  |  |  | 170,0 |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
