@@ -20,6 +20,6 @@
 
 |  | 3.2. | szolgáltatás megrendelése esetén | 13 000 |
 
-2. számú melléklet az 1/2004. (I. 9.) FMM rendelet 5. §-ának (3) bekezdéséhez[^5]
+2. számú melléklet az 1/2004. (I. 9.) FMM rendelet 5. §-ának (3) bekezdéséhez[^8]
 
-[^5]: A 2. számú mellékletet a 18/2007. (V. 10.) SZMM rendelet 24. § f) pontja hatályon kívül helyezte.
+[^8]: A 2. számú mellékletet a 18/2007. (V. 10.) SZMM rendelet 24. § f) pontja hatályon kívül helyezte.
