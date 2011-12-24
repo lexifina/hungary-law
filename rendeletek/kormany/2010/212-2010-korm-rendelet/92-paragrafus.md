@@ -36,9 +36,9 @@ ma)[^300] a Kormányzati Informatikai Fejlesztési Ügynökséget,
 
 mb)[^301] a Magyar Űrkutatási Irodát,
 
-mc)[^302] a Kopint-Datorg Zrt.-t,
+mc)[^302] a Nemzeti Infokommunikációs Szolgáltató Zrt.,
 
-n)[^303] a Kopint-Datorg Zrt. útján központosított informatikai és telekommunikációs szolgáltatásokat nyújt, gondoskodik az igénybevevők informatikai és telekommunikációs eszközökkel történő ellátásáról és az ilyen eszközök működtetéséről.
+n)[^303] a Nemzeti Infokommunikációs Szolgáltató Zrt. útján központosított informatikai és telekommunikációs szolgáltatásokat nyújt, gondoskodik az igénybevevők informatikai és telekommunikációs eszközökkel történő ellátásáról és az ilyen eszközök működtetéséről.
 
 (2)[^304] A miniszter az elektronikus hírközlésért, audiovizuális politikáért, informatikáért és postaügyért való felelősságe körében
 
@@ -79,8 +79,8 @@ jd) a Nemzeti Hírközlési és Informatikai Tanácsot.
 [^299]: A 92. § (1) bekezdés m) pont nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^300]: A 92. § (1) bekezdés m) pont ma) alpontja a 268/2010. (XII. 3.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^301]: A 92. § (1) bekezdés m) pont mb) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^302]: A 92. § (1) bekezdés m) pont mc) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^303]: A 92. § (1) bekezdés n) pontját az 53/2011. (III. 31.) Korm. rendelet 4. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 4. § (3) és (9)–(11) bekezdését.
+[^302]: A 92. § (1) bekezdés m) pont mc) alpontja a 309/2011. (XII. 23.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^303]: A 92. § (1) bekezdés n) pontját az 53/2011. (III. 31.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 309/2011. (XII. 23.) Korm. rendelet 17. §-a szerint módosított szöveg.
 [^304]: A 92. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^305]: A 92. § (2) bekezdés j) pont jb) alpontja a 267/2010. (XII. 3.) Korm. rendelet 30. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^306]: A 92. § (2) bekezdés j) pont jc) alpontja a 267/2010. (XII. 3.) Korm. rendelet 30. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
