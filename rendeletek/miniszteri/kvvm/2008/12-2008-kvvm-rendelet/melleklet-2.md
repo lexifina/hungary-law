@@ -74,7 +74,9 @@
 
 | 12. | 275. | 54 | 853 | 01 | 0000 | 00 | 00 | Vízügyi technikus | Környezetvédelem- vízgazdálkodás szakmacsoport |
 
-2. számú melléklet a 12/2008. (IV. 30.) KvVM rendelethez
+| 13. | 269. | 61 | 850 | 01 | 0000 | 00 | 00 | Klímareferens | Környezetvédelem- vízgazdálkodás szakmacsoport |
+
+2. számú melléklet a 12/2008. (IV. 30.) KvVM rendelethez[^3]
 
 Az 1. számú mellékletben szereplő szakképesítések szakmai és vizsgakövetelményei
 
@@ -8442,14 +8444,4 @@ C Komposztálás folyamata
 
 C Biogáz hasznosítás folyamata
 
-C Durva porleválasztás folyamata, eszközei
-
-C Finom porleválasztás folyamata, eszközei
-
-C Fizikai gáz-, gőzleválasztás folyamata, eszközei
-
-C Kémiai gázleválasztás folyamata, eszközei
-
-B Termelési hulladékgyűjtés szabályai
-
-B Termelési hulladék-nyilvántartás szabályai
+[^3]: A 2. számú melléklet a 104/2011. (XI. 10.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
