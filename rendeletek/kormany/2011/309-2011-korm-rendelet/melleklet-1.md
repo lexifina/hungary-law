@@ -1,3 +1,5 @@
-## 17. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 92. §-a (1) bekezdésének mc) és n) pontjában, 93. §-ának első és második mondatában a „Kopint-Datorg Zrt.” kifejezés helyébe a „Nemzeti Infokommunikációs Szolgáltató Zrt.” kifejezés lép.
+## 15–17. §[^1]
 
 1. melléklet a 309/2011. (XII. 23.) Korm. rendelethez
+
+[^1]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
