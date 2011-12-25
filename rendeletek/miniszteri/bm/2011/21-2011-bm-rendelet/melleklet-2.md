@@ -1,3 +1,3 @@
-2. melléklet a 21/2011. (VII. 13.) BM rendelethez[^4]
+2. melléklet a 21/2011. (VII. 13.) BM rendelethez[^13]
 
-[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
