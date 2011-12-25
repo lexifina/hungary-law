@@ -1,1 +1,0 @@
-## 5. § A foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló 26/2000. (IX. 30.) EüM rendelet (a továbbiakban: R3.) 2. § g) pontjában az „az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet (a továbbiakban: OMFI)” szövegrész helyébe az „a munkahigiénés és foglalkozás-egészségügyi szerv” szöveg lép.
