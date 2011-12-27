@@ -4,7 +4,7 @@
 
 a) a munkavégzéssel kapcsolatban rendelkezésre álló adatokhoz hozzájussanak, beleértve az adatokban bekövetkezett lényeges változásokat is,
 
-b)[^11] a munkahelyen előforduló veszélyes anyagokra, az egészségre és a biztonságra ható kockázatokra, a határértékekre és egyéb előírásokra vonatkozó adatokat, továbbá a 11. §-ban foglalt kötelezettségeiket megismerjék,
+b)[^20] a munkahelyen előforduló veszélyes anyagokra, az egészségre és a biztonságra ható kockázatokra, a határértékekre és egyéb előírásokra vonatkozó adatokat, továbbá a 11. §-ban foglalt kötelezettségeiket megismerjék,
 
 c) megfelelő oktatást és tájékoztatást kapjanak a védőintézkedésekről és egyéb teendőkről, amelyek ismeretében képesek megfelelően védekezni és munkatársaikat is megvédhetik,
 
@@ -16,4 +16,4 @@ a) a munkáltató igény szerint biztosítja a részvételt a munkáltató vagy 
 
 b) a foglalkozás-egészségügyi szolgáltatást nyújtó orvos tájékoztatást ad a munkakörülményekkel kapcsolatos valamennyi munkaegészségügyi kérdésről.
 
-[^11]: A 9. § (1) bekezdésének b) pontja az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 1. §-ával megállapított szöveg.
+[^20]: A 9. § (1) bekezdésének b) pontja az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 1. §-ával megállapított szöveg.

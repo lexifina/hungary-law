@@ -1,50 +1,52 @@
-## A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós (hatás) mutatók megengedhető határértékei
-
-## Biológiai expozíciós (hatás) mutatók megengedhető határértékei
+## A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós és hatásmutatók megengedhető határértékei
 
 ## VIZELETBEN
 
-|  |  |  | Megengedhető határérték |
+|  | A | B | C | D | E |
 
-| Vegyi anyag | Biológiai expozíciós (hatás) mutató | Mintavétel ideje | mg/g kreatinin | mikromol/mmol kreatinin (kerekített értékek) |
+| 1 |  |  |  | Megengedhető határérték |
 
-| Anilin | p-amino-fenol | m.u. | 10 | 10 |
+| 2 | Vegyi anyag | Biológiai expozíciós (hatás) mutató | Mintavétel ideje | mg/g kreatinin | mikromol/mmol kreatinin (kerekített értékek) |
 
-| Arzén | arzén | m.u. | 0,13 | 0,20 |
+| 3 | Anilin | p-amino-fenol | m.u. | 10 | 10 |
 
-| Benzol | t,t-mukonsav | m.u. | 1,5 | 1,2 |
+| 4 | Arzén | arzén | m.u. | 0,13 | 0,20 |
 
-| Dimetilformamid | N-metil-formamid | m.u. | 40 | 76 |
+| 5 | Benzol | t,t-mukonsav | m.u. | 1,5 | 1,2 |
 
-| Etil-benzol | mandulasav | mhv., m.u. | 1500 | 1110 |
+| 6 | Dimetilformamid | N-metil-formamid | m.u. | 40 | 76 |
 
-| Fenol | fenol | m.u. | 300 | 360 |
+| 7 | Etil-benzol | mandulasav | mhv., m.u. | 1500 | 1110 |
 
-| Fluorid vegyületek | fluorid | m.u. köv. m.e. | 7 4 | 42 24 |
+| 8 | Fenol | fenol | m.u. | 300 | 360 |
 
-| Higany (szervetlen) | higany | n.k. | 0,05 | 0,028 |
+| 9 | Fluorid vegyületek | fluorid | m.u. | 7 | 42 |
 
-| Kadmium | kadmium | n.k. | 0,01k | 0,01 |
+| 10 |  |  | köv. m.e. | 4 | 24 |
 
-| Króm | króm | m.u. | 0,02 k | 0,043 |
+| 11 | Higany (szervetlen) | higany | n.k. | 0,05 | 0,028 |
 
-| Kobalt | kobalt | m.u. | 0,03 | 0,058 |
+| 12 | Kadmium | kadmium | n.k. | 0,01k | 0,01 |
 
-| n-Hexán | 2,5-hexán-dion | m.u. | 3,5 | 3,5 |
+| 13 | Króm | króm | m.u. | 0,02 k | 0,043 |
 
-| Nikkel | nikkel | mhv., m.u. | 0,02 | 0,038 |
+| 14 | Kobalt | kobalt | m.u. | 0,03 | 0,058 |
 
-| Nitro-benzol | p-nitro-fenol | m.u. | 5 | 4,0 |
+| 15 | n-Hexán | 2,5-hexán-dion | m.u. | 3,5 | 3,5 |
 
-| Szelén | szelén | n.k. | 0,075 | 0,110 |
+| 16 | Nikkel | nikkel | mhv., m.u. | 0,02 | 0,038 |
 
-| Sztirol | mandulasav | mhv., m.u. | 1000 | 740 |
+| 17 | Nitro-benzol | p-nitro-fenol | m.u. | 5 | 4,0 |
 
-| Toluol | o-krezol | m.u. | 1 | 1,05 |
+| 18 | Szelén | szelén | n.k. | 0,075 | 0,110 |
 
-| Triklór-etilén | triklór-ecetsav | mhv., m.u. | 50 | 35 |
+| 19 | Sztirol | mandulasav | mhv., m.u. | 1000 | 740 |
 
-| Xilol | metil-hippursavak | m.u. | 1500 | 860 |
+| 20 | Toluol | o-krezol | m.u. | 1 | 1,05 |
+
+| 21 | Triklór-etilén | triklór-ecetsav | mhv., m.u. | 50 | 35 |
+
+| 22 | Xilol | metil-hippursavak | m.u. | 1500 | 860 |
 
 ## Megjegyzések:
 
@@ -58,23 +60,45 @@
 
 | k | rákkeltő hatású anyag; a javasolt határérték „technikai értékként” kezelendő |
 
-## Biológiai expozíciós (hatás) mutatók megengedhető határértékei
+## Biológiai expozíciós mutatók megengedhető határértékei
 
 ## VÉRBEN
 
-| Vegyi anyag | Biológiai expozíciós (hatás) mutató | Mintavétel ideje | Megengedhető határérték |
+|  | A | B | C | D | E |
 
-| mikrogramm/l | mikromol/l (kerekített értékek) |
+| 1 | Vegyi anyag | Biológiai expozíciós mutató | Mintavétel ideje | Megengedhető határérték |
 
-| Anilin | methemoglobin | mhv. – m.u. | 3% (az összhemoglobin%-ában) |
+| 2 |  |  |  | mikrogramm/l | mikromol/l (kerekített értékek) |
 
-| Kadmium | kadmium | n.k. | 10k | 0,09 |
+| 3 | Kadmium | kadmium | n.k. | 10 k | 0,09 |
 
-| Ólom (szervetlen) | Ólom cink-protoporfirin (előszűrésre) | n.k. három hónapnál hosszabb expozíció esetén alkalmazható | 400* 300** | 1,9 1,5 100 mikromol/mol haem*** |
+| 4 | Ólom (szervetlen) | Ólom | n.k. | 400* 300** | 1,9 1,5 |
 
-| Szén-monoxid | CO Hb | m.u. | 5% (az összhemoglobin%-ában) |
+## Megjegyzések:
 
-| Szerves foszforsav-észter tartalmú peszticidek | vörösvérsejt vagy teljes vér acetilko-lineszteráz (EC. 3.1.1.7.) aktivitás | n.k. | <25%-os aktivitáscsökkenés az expozíció előtt mért alapaktivitáshoz viszonyítva**** |
+| n.k. | nem kritikus |
+
+| k | rákkeltő hatású anyag; javasolt határérték „technikai értékként” kezelendő |
+
+| * | férfiak és 45 évnél idősebb nők |
+
+| ** | 45 évnél fiatalabb nők |
+
+## Biológiai hatásmutatók megengedhető határértékei
+
+## VÉRBEN
+
+|  | A | B | C | D |
+
+| 1 | Vegyi anyag | Biológiai hatás mutató | Mintavétel ideje | Megengedhető határérték |
+
+| 2 | Anilin | methemoglobin | mhv. - m.u. | 3% (az összhemoglobin%-ában) |
+
+| 3 | Ólom (szervetlen) | Cink-protoporfirin*** előszűrésre | három hónapnál hosszabb expozíció esetén alkalmazható | 120 mikromol/mol haem* 100 mikromol/mol haem** |
+
+| 4 | Szén-monoxid | CO Hb | m.u. | 5% (az összhemoglobin%-ában) |
+
+| 5 | Szerves foszforsav-észter tartalmú peszticidek | vörösvérsejt vagy teljes vér acetil-kolineszteráz aktivitás (EC. 3.1.1.7.) | n.k. | <25%-os aktivitáscsökkenés az expozíció előtt mért alapaktivitáshoz viszonyítva**** |
 
 ## Megjegyzések:
 
@@ -84,15 +108,13 @@
 
 | mhv. | munkahét végén |
 
-| k | rákkeltő hatású anyag; javasolt határérték „technikai értékként” kezelendő |
-
 | * | férfiak és 45 évnél idősebb nők |
 
 | ** | 45 évnél fiatalabb nők |
 
 | *** | határérték túllépése esetén a vérólom koncentráció meghatározása kötelező |
 
-| **** | az alapaktivitás az expozíciómentes periódusban egy héten belül két alkalommal történt mérések értékeinek átlaga” |
+| **** | az alapaktivitás az expozíciómentes periódusban egy héten belül két alkalommal történt mérések értékeinek átlaga |
 
 3. számú melléklet a 25/2000. (IX. 30.) EüM–SZCSM
 

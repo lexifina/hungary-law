@@ -16,8 +16,8 @@ d) a kockázat értékelése: minőségi, illetve mennyiségi jellemzése.
 
 (4) Amennyiben előre látható, hogy a munkavégzés jelentős többletexpozícióval jár, minden szükséges intézkedést meg kell tenni ennek elkerülésére és ezt a kockázat becslésénél figyelembe kell venni.
 
-(5)[^5] Amennyiben a munkavégzés több azonos szervre, szervrendszerre ható, illetőleg több karcinogén, mutagén, reprodukciót károsító veszélyes anyag expozíciójával jár, az expozíciót az 1. számú melléklet 2.2. pontjában foglaltak szerint kell meghatározni.
+(5)[^14] Amennyiben a munkavégzés több azonos szervre, szervrendszerre ható, illetőleg több karcinogén, mutagén, reprodukciót károsító veszélyes anyag expozíciójával jár, az expozíciót az 1. számú melléklet 2.2. pontjában foglaltak szerint kell meghatározni.
 
 (6) Korábbiakban nem alkalmazott veszélyes vegyi anyaggal tevékenység csak akkor kezdhető meg, ha a kockázat becslése megtörtént, és a kockázat kezelésére (elkerülésére vagy eltűrhető szintűre csökkentésére) a megfelelő intézkedéseket meghatározták, dokumentálták, illetve bevezették.
 
-[^5]: Az 5. § (5) bekezdése a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 2. §-ával megállapított szöveg.
+[^14]: Az 5. § (5) bekezdése a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 2. §-ával megállapított szöveg.

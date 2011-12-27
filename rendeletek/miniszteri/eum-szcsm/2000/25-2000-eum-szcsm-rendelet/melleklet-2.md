@@ -2,53 +2,59 @@
 
 ## a) megengedett átlagos koncentráció: a légszennyező anyagnak a munkahely levegőjében egy műszakra megengedett átlag koncentrációja, amely a dolgozó egészségére általában nem fejt ki káros hatást, jelölése: ÁK,
 
-## b) megengedett csúcskoncentráció (rövid ideig megengedhető legnagyobb levegőszennyezettség): a légszennyező anyagnak egy műszakon belül az 1-3. pontokban foglaltak szerint megengedett, az ÁK értéket meghaladó legnagyobb koncentrációja (az ÁK- és CK-értékre vonatkozó követelményeknek egyidejűleg kell teljesülniük), jelölése: CK,
+## b) megengedett csúcskoncentráció (rövid ideig megengedhető legnagyobb levegőszennyezettség): a légszennyező anyagnak egy műszakon belül az 1–3. pontokban foglaltak szerint megengedett, az ÁK értéket meghaladó legnagyobb koncentrációja (az ÁK- és CK-értékre vonatkozó követelményeknek egyidejűleg kell teljesülniük), jelölése: CK,
 
-## c) maximális koncentráció: a műszak során eltűrt legmagasabb koncentráció, jelölése: MK, a maximális koncentrációban végzett munka esetében a dolgozó teljes munkaképes élete során (18-62 évig) a potenciális halálos kimenetelű egészségkárosító kockázat (rosszindulatú daganatos megbetegedés kockázata) ≤ 1:105/év (10 mikrorizikó/év).
+## c) maximális koncentráció: a műszak során eltűrt legmagasabb koncentráció, jelölése: MK, a maximális koncentrációban végzett munka esetében a dolgozó teljes munkaképes élete során (18–62 évig) a potenciális halálos kimenetelű egészségkárosító kockázat (rosszindulatú daganatos megbetegedés kockázata) ≤ 1:105/év (10 mikrorizikó/év).
 
-| Sor- szám | Megnevezés | Képlet | CAS-szám | AK-érték mg/m3 | CK-érték mg/m3 | MK-érték mg/m3 | Jellemző tulajdonság/hivatkozás |
+## 1M38592_0
+
+|  | A | B | C | D | E | F | G | H |
+
+| Sor- szám | Megnevezés | Képlet | CAS-szám | ÁK-érték mg/m3 | CK- érték mg/m3 | MK- érték mg/m3 | Jellemző tulajdonság/ hivatkozás |
 
 | 1. | ACETALDEHID | CH3CHO | 75-07-0 | 25 | 25 |  | i | VI. |
 
-|  | acetilén-diklorid, lásd: 1,2-diklóretilén |  |  |  |  |  |  |  |
+| acetilén-diklorid, lásd: 1,2-diklóretilén |  |  |  |  |  |  |  |
 
 | 2. | ACETOFENON | CH3COC6H5 | 98-86-2 | 50 |  |  | i |  |
 
-| 3. | ACETON | CH3COCH3 | 67-64-1 | 1210 | 2420* |  | i | EU3 |
+| 3. | ACETON | CH3COCH3 | 67-64-1 | 1210 | 2420* |  | i | EU1 |
 
 | 4. | ACETON-CIÁNHIDRIN | (CH3)2C(OH)CN | 75-86-5 | 16,7 | 16,7 |  |  |  |
 
 | 5. | ACETONITRIL | CH3CN | 75-05-8 | 70 |  |  | b, i | EU2 |
 
-| akril-aldehid, lásd: akrolein |  |  |  |  |  |  |  |
+| Akril-aldehid, lásd: akrolein |  |  |  |  |  |  |  |
+
+| 6. | AKRILAMID | CH2=CHCONH2 | 79-06-1 |  |  | 0,03 | k |  |
+
+| 7. | AKRILNITRIL | CH2=CHCN | 107-13-1 |  |  | 4,3 | k |  |
 
 | akrilsav-metilészter, lásd: metil-akrilát |  |  |  |  |  |  |  |
 
-| 6. | AKROLEIN | CH2=CHCHO | 107-02-8 | 0,23 | 0,23 |  | m | I. |
+| 8. | AKROLEIN | CH2=CHCHO | 107-02-8 | 0,23 | 0,23 |  | m | I. |
 
-| 7. | AKRILAMID | CH2=CHCONH2 | 79-06-1 |  |  | 0,03 | k |  |
+| 9. | ALDRIN | C12H8Cl6 | 309-00-2 |  |  |  |  |  |
 
-| 8. | AKRILNITRIL | CH2=CHCN | 107-13-1 |  |  | 4,3 | k |  |
-
-| 9. | ALDRIN | C12H8Cl6 | 309-00-2 |  |  |  |  | POP |
-
-| 10. | ALLIL-ALKOHOL | CH2=CHCH2OH | 107-18-6 | 4,8 | 12,1 |  | b, i | II.1. EU3 |
+| 10. | ALLIL-ALKOHOL | CH2=CHCH2OH | 107-18-6 | 4,8 | 12,1 |  | b, i | II.1. EU1 |
 
 | 11. | ALLIL-KLORID | CH2=CHCH2Cl | 107-05-1 | 3 | 3 |  | i | I. |
 
 | 12. | ALUMÍNIUM, FÉM | Al | 7429-90-5 | 6 resp |  |  |  |  |
 
-| 13. | ALUMÍNIUM-OXID | Al2O3 | 1344-28-1 | 6 resp |  |  |  |  |
+| alumínium-oxid, lásd: dialumínium-trioxid |
+
+| 13. | terc-AMIL-ACETÁT | H3COOC(CH3)2C2H5 | 625-16-1 | 270 | 540 |  |  | EU1 |
 
 | aminobenzol, lásd: anilin |  |  |  |  |  |  |  |
 
-| 14. | 4-AMINOBIFENIL*** | C6H5C6H4NH2 | 92-67-1 |  |  | 10 | k |  |
+| 14. | 4-AMINOBIFENIL | C6H5C6H4NH2 | 92-67-1 |  |  | 10 | k |  |
 
 | 15. | 2-AMINOETANOL | NH2(CH2)2OH | 141-43-5 | 2,5 | 7,6 |  | b | EU2 |
 
-| 16. | AMMÓNIA | NH3 | 7664-41-7 | 14 | 36 |  | m | I. EU3 |
+| 16. | AMMÓNIA | NH3 | 7664-41-7 | 14 | 36 |  | m | I. EU1 |
 
-| 17. | ANILIN | C6H5NH2 | 62-53-3 | 8 | 32 |  | b | II.2. |
+| 17. | ANILIN | C6H5NH2 | 62-53-3 | 8 | 32 |  | b | II.2., BHM |
 
 | 18. | o-ANIZIDIN | CH3OC6H4NH2 | 90-04-0 |  |  | 0,5 | k |  |
 
@@ -56,69 +62,75 @@
 
 | 20. | ANTIMON-HIDROGÉN | SbH3 | 7803-52-3 | 0,5 | 2 |  |  | II.2. |
 
-| 21. | ANTIMON-TRIOXID | Sb2O3 | 1309-64-4 | 0,1 | 0,4 |  |  |  |
+| antimon-trioxid, lásd: diantimon-trioxid |  |  |  |  |  |  |  |
 
-|  | arzén-hidrogén, lásd: arzin |  |  |  |  |  |  |  |
+| arzén-hidrogén, lásd: arzin |  |  |  |  |  |  |  |
 
-| 22. | ARZÉN (FÉM) ÉS SZERVETLEN VEGYÜ LETEI*** | As | 7440-38-2 |  |  | 0,01 | k, b, i | BEM |
+| 21. | ARZÉN ÉS SZERVETLEN VEGYÜLETEI*** | As | 7440-38-2 |  |  | 0,01 | k, b, i | BEM |
 
-| 23. | ARZÉN-PENTOXID | As2O5 | 1303-28-2 |  |  | 0,03 | k | BEM |
+| arzén-pentoxid, lásd: diarzén-pentoxid |  |  |  |  |  |  |  |
 
-| 24. | ARZÉN-TRIOXID (lásd: DIARZÉN-TRIOXID) |  |  |  |  |  |  |  |
+| arzén-trioxid, lásd: diarzén-trioxid |  |  |  |  |  |  |  |
 
-| 25. | ARZIN | AsH3 | 7784-42-1 | 0,2 | 0,8 |  | b | II.2. |
+| 22. | ARZIN | AsH3 | 7784-42-1 | 0,2 | 0,8 |  | b | II.2. |
 
-| 26. | AZIRIDIN | (CH2)2NH | 151-56-4 |  |  | 0,9 | k |  |
+| Azbeszt lásd: 1.2.2. |  |  |  |  |  |  | EUA |
 
-| 27. | Azbeszt*** lásd: 1.2.2. |  |  |  |  |  |  |  |
+| 23. | AZIRIDIN | (CH2)2NH | 151-56-4 |  |  | 0,9 | k |  |
 
-| 28. | BÁRIUM OLDHATÓ VEGYÜLETEI (Ba-ra számítva) |  |  | 0,5 |  |  | i | II.1 EU2 |
+| 24. | BÁRIUM OLDHATÓ VEGYÜLETEI (Ba-ra számítva) |  |  | 0,5 |  |  | i | II.1 EU2 |
 
-| 29. | BENZALDEHID | C6H5CHO | 100-52-7 | 5 | 10 |  |  |  |
+| 25. | BENZALDEHID | C6H5CHO | 100-52-7 | 5 | 10 |  |  |  |
 
-| 30. | BENZIDIN*** | (C6H4)2(NH2)2 | 92-87-5 |  |  | 0,008 | k |  |
+| 26. | BENZIDIN | (C6H4)2(NH2)2 | 92-87-5 |  |  | 0,008 | k |  |
 
-| 31. | BENZIL-KLORID | C6H5CH2Cl | 100-44-7 | 0,5 | 0,5 |  | b, i, m |  |
+| 27. | BENZIL-KLORID | C6H5CH2Cl | 100-44-7 | 0,5 | 0,5 |  | b, i, m |  |
 
-| 32. | BENZOIL-KLORID | C6H5COCl | 98-88-4 | 2,8 |  |  | i |  |
+| 28. | BENZOIL-KLORID | C6H5COCl | 98-88-4 | 2,8 |  |  | i |  |
 
-| 33. | BENZOL*** | C6H6 | 71-43-2 |  |  | 3 | k, b, i | BEM |
+| benzoil-szuperoxid, lásd: dibenzoil-peroxid |  |  |  |  |  |  |  |
 
-| 34. | BENZ(a)PIRÉN | C20H12 | 50-32-8 |  |  | 0,002 | k |  |
+| 29. | BENZOL | C6H6 | 71-43-2 |  |  | 3 | k, b, i | BEM |
 
-| 35. | BENZOIL-PEROXID | (C6H5CO)2O2 | 94-36-0 | 5 | 5 |  | b, i, sz | I. |
+| 30. | BENZO[a]PIRÉN | C20H12 | 50-32-8 |  |  | 0,002 | k |  |
 
-| benzoil-szuperoxid, lásd: benzoil-peroxid |  |  |  |  |  |  |  |
+| 31. | BERILLIUM ÉS VEGYÜLETEI (Be-ra számítva) | Be | 7440-41-7 |  |  | 0,002 | k |  |
 
 | bifenil, lásd: difenil |  |  |  |  |  |  |  |
 
-| 36. | BERILLIUM ÉS VEGYÜLETEI (Be-ra számítva) | Be | 7440-41-7 |  |  | 0,002 | k |  |
+| 32. | BISZFENOL A | (HOC6H4)2C(CH3)2 | 80-05-7 | 10 |  |  |  | EU4 |
 
-| 37. | BISZ (KLÓRMETIL-ÉTER) | ClCH2OCH2Cl | 542-88-1 |  |  | 0,0047 | k |  |
+| 33. | BISZ (KLÓRMETIL)-ÉTER | ClCH2OCH2Cl | 542-88-l |  |  | 0,0047 | k |  |
 
-| 38. | BRÓM | Br2 | 7726-95-6 | 0,7 |  |  | b, m | I. EU2 |
+| 34. | BRÓM | Br2 | 7726-95-6 | 0,7 |  |  | b, m | I. EU2 |
 
-| 39. | BROMIDOK | Br |  | 0,7 | 0,7 |  |  | EU1 |
+| 35. | BROMIDOK | Br |  | 0,7 | 0,7 |  |  | EU1 |
 
-| butanol, lásd: butil-alkohol |  |  |  |  |  |  |  |
+| 36. | 1,3-BUTADIÉN | CH2=CHCH=CH2 | 106-99-0 |  |  | 1 | k, i |  |
 
-|  | 2-butanon, lásd: metil-etil-keton |  |  |  |  |  |  |  |
+| 37. | n-BUTÁN | CH3(CH2)2CH3 | 106-97-8 | 2350 | 9400 |  |  | IV. |
 
-| 40. | 1,3-BUTADIÉN | CH2=CHCH=CH2 | 106-99-0 |  |  | 1 | k, i |  |
+| 1- butanol, lásd: butil-alkohol |  |  |  |  |  |  |  |
 
-| 41. | n-BUTÁN | CH3(CH2)2CH3 | 106-97-8 | 2350 | 9400 |  |  | IV. |
+| 2-butanon, lásd: metil-etil-keton |  |  |  |  |  |  |  |
 
-| 42. | n-BUTIL-ACETÁT | CH3COOC4H9 | 123-86-4 | 950 | 950 |  | i, sz | I. |
+| 38. | n-BUTIL-ACETÁT | CH3COOC4H9 | 123-86-4 | 950 | 950 |  | i, sz | I. |
 
-| 43. | n-BUTIL-AKRILÁT | CH2=CHCOOC4H9 | 141-32-2 | 11 | 53 |  | i | I. EU3 |
+| 39. | n-BUTIL-AKRILÁT | CH2=CHCOOC4H9 | 141-32-2 | 11 | 53 |  | i | I. EU1 |
 
-| 44. | n-BUTIL-ALKOHOL | CH3(CH2)3OH | 71-36-3 | 45 | 90 |  | b, i |  |
+| 40. | n-BUTIL-ALKOHOL | CH3(CH2)3OH | 71-36-3 | 45 | 90 |  | b, i |  |
 
 | butil-celloszolv, lásd: 2-butoxietanol |  |  |  |  |  |  |  |
 
 | butil-glikol, lásd: 2-butoxietanol |  |  |  |  |  |  |  |
 
-| 45. | 2-BUTOXIETANOL | C4H9OCH2CH2OH | 111-76-2 | 98 | 246 |  | b, i | II.1. EU3 |
+| 41. | terc-BUTIL-METIL-ÉTER | C(CH3)3OCH3 | 1634-04-4 | 183,5 | 367 |  |  | EU4 |
+
+| 42. | 2-BUTOXIETANOL | C4H9OCH2CH2OH | 111-76-2 | 98 | 246 |  | b, i | II.1. EU1 |
+
+| 43. | 2-BUTOXIETIL-ACETÁT | CH3(CH2)3O(CH2)2COOCH3 | 112-07-2 | 133 | 333 |  | b | EU1 |
+
+| 44. | 2-(2-BUTOXIETOXI)ETANOL | CH3(CH2)3O(CH2)2O(CH2)2OH | 112-34-5 | 67,5 | 101,2 |  |  | EU2 |
 
 | carbaryl, lásd: karbaril |  |  |  |  |  |  |  |
 
@@ -126,583 +138,627 @@
 
 | celloszolv-acetát, lásd: etilén-glikol-monoetil-éter-acetát |  |  |  |  |  |  |  |
 
-| 46. | 2-(2-BUTOXIETOXI)ETANOL | CH3(CH2)3O(CH2)2O(CH2)2OH | 112-34-5 | 67,5 | 101,2 |  |  | EU2 |
+| 45. | CIÁNAMID | NCNH2 | 420-04-2 | 1 |  |  | b | EU2 |
 
-| 47. | 2-BUTOXIETIL-ACETÁT | CH3(CH2)3O(CH2)2COOCH3 | 112-07-2 | 133 | 333 |  | b | EU3 |
+| 46. | CIÁN-HIDROGÉN | HCN | 74-90-8 | 11 | 44 |  | b, i | II.1. |
 
-| 48. | CIÁNAMID | NCNH2 | 420-04-2 | 1 |  |  | b | EU2 |
+| 47. | CIÁNSÓK (cianidok) (CN-re számítva) | CN |  | 5 | 20 |  | b, i | II.1. |
 
-| 49. | CIÁN-HIDROGÉN | HCN | 74-90-8 | 11 | 44 |  | b, i | II.1. |
+| 48. | CIKLOHEXÁN | C6H12 | 110-82-7 | 700 |  |  |  | II.1. EU2 |
 
-| 50. | CIÁNSÓK (cianidok) (CN-re számítva) | CN |  | 5 | 20 |  | b, i | II.1. |
+| 49. | CIKLOHEXANOL | C6H11OH | 108-93-0 | 200 | 800 |  | b, i, sz | II.1. |
 
-| 51. | CIKLOHEXÁN | C6H12 | 110-82-7 | 700 |  |  |  | II.1. EU2 |
+| 50. | CIKLOHEXANON | C6H10O | 108-94-1 | 40,8 | 81,6 |  | b, i | II.1. EU1 |
 
-| 52. | CIKLOHEXANOL | C6H11OH | 108-93-0 | 200 | 800 |  | b, i, sz | II.1. |
+| 51. | CIKLOHEXIL-AMIN | C6H11NH2 | 108-91-8 | 40 | 40 |  | m | V. |
 
-| 53. | CIKLOHEXANON | C6H10O | 108-94-1 | 40,8 | 81,6 |  | b, i | II.1. EU3 |
+| 52. | 1,3-CIKLOPENTADIÉN | C5H6 | 542-92-7 | 200 |  |  | i |  |
 
-| 54. | CIKLOHEXIL-AMIN | C6H11NH2 | 108-91-8 | 40 | 40 |  | m | V. |
+| cink-kromátok, köztük kálium-cink-kromát lásd: króm (VI) szervetlen vegyületek, kevéssé oldható (Cr (VI)-ra számítva) |  |  |  |  |  |  |  |
 
-| 55. | 1,3-CIKLOPENTADIÉN | C5H6 | 542-92-7 | 200 |  |  | i |  |
+| 54. | CINK-OXID | ZnO | 1314-13-2 | 5 resp | 20 resp |  | i | III. |
 
-| 56. | CINK-OXID | ZnO | 1314-13-2 | 5 resp | 20 resp |  | i | III. |
+| 55. | CIRKÓNIUM VEGYÜLETEI (Zr-ra számítva) |  |  | 5 | 20 |  |  | III. |
 
-| 57. | CINK-KROMÁTOK köztük kálium-cink-kromát [Cr(VI)-ra számítva] |  |  |  |  | 0,01 | k |  |
+| 56. | DDT | C14H9Cl5 | 50-29-3 | 1 resp | 1 resp |  | b | VI. |
 
-| 58. | CIRKÓNIUM VEGYÜLETEI (Zr-ra számítva) |  |  | 5 | 20 |  |  | III. |
+| 57. | DEKABORÁN | B10H14 | 17702-41-9 | 0,3 | 0,3 |  | b, i | I. |
 
-| 59. | DDT | C14H9Cl5 | 50-29-3 | 1 resp | 1 resp |  | b | VI. PIC |
+| 58. | DIALUMÍNIUM-TRIOXID (Al-ra számítva) | Al2O3 | 1344-28-1 | 6 resp |  |  |  |  |
 
-| 60. | DEKABORÁN | B10H14 | 17702-41-9 | 0,3 | 0,3 |  | b, i | I. |
+| 4,4’-diaminobifenil, lásd: benzidin |  |  |  |  |  |  |  |
 
-| 4,4'-diaminobifenil, lásd: benzidin |  |  |  |  |  |  |  |
+| 59. | 4,4’-DIAMINODIFENILMETÁN | C13H14N2 | 101-77-9 |  |  | 0,81 | k |  |
 
-| 61. | 4,4'-DIAMINODIFENILMETÁN | C13H14N2 | 101-77-9 |  |  | 0,81 | k |  |
+| 60. | DIANTIMON-TRIOXID (Sb-ra számítva) | Sb2O3 | 1309-64-4 | 0,1 | 0,4 |  |  |  |
 
-| 62. | DIAZINON | C12H21N2O3PS | 333-41-5 | 0,1 | 0,4 |  | b | III. |
+| 61. | DIARZÉN-PENTOXID (As-ra számítva) | As2O5 | 1303-28-2 |  |  | 0,03 | k | BEM |
 
-| 63. | DIARZÉN-TRIOXID | As2O3 | 1327-53-3 |  |  | 0,1 | k | BEM |
+| 62. | DIARZÉN-TRIOXID (As-ra számítva) | As2O3 | 1327-53-3 |  |  | 0,1 | k | BEM |
+
+| 63. | DIAZINON | C12H21N2O3PS | 333-41-5 | 0,1 | 0,4 |  | b | III. |
 
 | 64. | DIAZOMETÁN | CH2N2 | 334-88-3 |  |  | 0,01 | k |  |
 
-| 65. | DIBENZO-p-DIOXIN 2,3,7,8-TETRAKLÓR | C12H4Cl4O2 | 1746-O1-6 |  |  |  |  | POP |
+| 65. | DIBENZO-p-DIOXIN-2,3,7,8-TETRAKLÓR | C12H4Cl4O2 | 1746-01-6 |  |  |  |  |  |
 
-| 66. | DIBENZO-DIOXIN ÉS -FURÁN, POLIBRÓMOZOTT |  |  |  |  |  |  | POP |
+| 66. | DIBENZO-p-DIOXIN ÉS DIBENZO -FURÁN, POLIBRÓMOZOTT |  |  |  |  |  |  |  |
 
-| 67. | 1,2-DIBRÓMETÁN | C2H4Br2 | 106-93-4 |  |  | 0,8 | k, b, m | PIC |
+| 67. | DIBENZOIL-PEROXID | (C6H5CO)2O2 | 94-36-0 | 5 | 5 |  | b, i, sz | I. |
 
-| 68. | 1,2-DIBRÓM-3-KLÓRPROPÁN | C3H5Br2Cl | 96-12-8 |  |  | 0,01 | k |  |
+| 68. | 1,2-DIBRÓMETÁN | C2H4Br2 | 106-93-4 |  |  | 0,8 | k, b, m |  |
 
-| 69. | DIELDRIN | C12H8Cl6O | 60-57-1 | 0,25 resp | 1 resp |  |  | POP, PIC |
+| 69. | 1,2-DIBRÓM-3-KLÓRPROPÁN | C3H5Br2Cl | 96-12-8 |  |  | 0,01 | k |  |
 
-| 70. | DIETIL-AMIN | NH(C2H5)2 | 109-89-7 | 15 | 30 |  | b, m | V. EU2 |
+| 70. | DIELDRIN | C12H8Cl6O | 60-57-1 | 0,25 resp | 1 resp |  |  |  |
+
+| 71. | DIETIL-AMIN | NH(C2H5)2 | 109-89-7 | 15 | 30 |  | b, m | V. EU2 |
 
 | dietilénoximid, lásd: morfolin |  |  |  |  |  |  |  |
 
-| 71. | DIETILÉN-TRIAMIN | NH(CH2CH2NH2)2 | 111-40-0 | 4 | 4 |  | b, m, sz |  |
+| 72. | DIETILÉN-TRIAMIN | NH(CH2CH2NH2)2 | 111-40-0 | 4 | 4 |  | b, m, sz |  |
 
-| 72. | DIETIL-ÉTER | (CH3CH2)2O | 60-29-7 | 308 | 616 |  | b, i, sz | II.1. EU3 |
+| 73. | DIETIL-ÉTER | (CH3CH2)2O | 60-29-7 | 308 | 616 |  | b, i, sz | II.1. EU1 |
 
-| 73. | DIETIL-SZULFÁT | (C2H5O)2SO2 | 64-67-5 |  |  | 0,2 | k |  |
+| 74. | DI(2-ETILHEXIL)-FTALÁT | C6H4(COO)2(C8H17)2 | 117-81-7 | 10 | 40 |  | b | III. |
 
-| 74. | DIFENIL | (C6H5)2 | 92-52-4 | 1 |  |  | b, i, sz |  |
+| 75. | DIETIL-SZULFÁT | (C2H5O)2SO2 | 64-67-5 |  |  | 0,2 | k |  |
+
+| 76. | DIFENIL | (C6H5)2 | 92-52-4 | 1 |  |  | b, i, sz |  |
 
 | difenilmetán-4,4’-diizocianát (MDI), lásd: diizocianátok |  |  |  |  |  |  |  |
 
-| 75. | DIFOSZFOR-PENTASZULFID | P2S5 | 1314-80-3 | 1 |  |  |  | EU2 |
+| 77. | DIFOSZFOR-PENTASZULFID | P2S5 | 1314-80-3 | 1 |  |  |  | EU2 |
 
-| 76. | DIFOSZFOR-PENTOXID | P2O5 | 1314-56-3 | 1 |  |  | m | II.1. EU2 |
+| 78. | DIFOSZFOR-PENTOXID | P2O5 | 1314-56-3 | 1 |  |  | m | II.1. EU2 |
 
-| 77. | DI(2-ETILHEXIL)-FTALÁT | C6H4(COO)2(C8H17)2 | 117-81-7 | 10 | 40 |  | b | III. |
+| 79. | DIHIDROGÉN-SZELENID | H2Se | 7783-07-5 | 0,07 | 0,17 |  |  | I. EU1 |
 
-| 78. | DIHIDROGÉN-SZELENID | H2Se | 7783-07-5 | 0,07 | 0,17 |  |  | I. EU3 |
+| m-dihidroxibenzol, lásd: rezorcin |  |  |  |  |  |  |  |
 
-| 79. | DIIZOCIANÁTOK |  |  |  |  |  |  |  |
+| 80. | DIIZOCIANÁTOK |  |  |  |  |  |  |  |
 
 | difenilmetán-4,4’-diizocianát (MDI) | CH2(C6H4NCO)2 | 101-68-8 | 0,05 | 0,05 |  | i, sz | I. |
 
 | hexametilén-diizocianát (HDI) | (CH2)6(NCO)2 | 822-06-0 | 0,035 | 0,035 |  | i, sz | I. |
 
-| naftilén-diizocianát (NDI) | C10H6(NCO)2 | 3173-72-6 | 0,09 | 0,09 |  | i, sz | I. |
+| 1,5-naftilén-diizocianát (NDI) | C10H6(NCO)2 | 3173-72-6 | 0,09 | 0,09 |  | i, sz | I. |
 
-| 80. | DIKÉN-DIKLORID | S2Cl2 | 10025-67-9 | 6 | 24 |  | m | I. |
+| 81. | DIKÉN-DIKLORID | S2Cl2 | 10025-67-9 | 6 | 24 |  | m | I. |
 
-| 81. | 3,3'-DIKLÓRBENZIDIN | C12H10N2Cl2 | 91-94-1 |  |  | 0,03 | k |  |
+| 82. | 3,3’-DIKLÓRBENZIDIN | C12H10N2Cl2 | 91-94-1 |  |  | 0,03 | k |  |
 
-| 82. | 1,2-DIKLÓRBENZOL | C6H4Cl2 | 95-50-1 | 122 | 306 |  | b, i | II.1. EU3 |
+| 83. | 1,2-DIKLÓRBENZOL | C6H4Cl2 | 95-50-1 | 122 | 306 |  | b, i | II. 1. EU1 |
 
-| 83. | 1,3-DIKLÓRBENZOL | C6H4Cl2 | 541-73-1 | 20 | 80 |  |  |  |
+| 84. | 1,3-DIKLÓRBENZOL | C6H4Cl2 | 541-73-1 | 20 | 80 |  |  |  |
 
-| 84. | 1,4-DIKLÓRBENZOL | C6H4Cl2 | 106-46-7 | 122 | 306 |  |  | EU3 |
+| 85. | 1,4-DIKLÓRBENZOL | C6H4Cl2 | 106-46-7 | 122 | 306 |  |  | EU1 |
 
-| diklórdifluormetán F12, lásd: freonok p,p-diklórdifeniltriklóretán, lásd: DDT |  |  |  |  |  |  |  |
+| p,p’-diklórdifeniltriklóretán, lásd: DDT |  |  |  |  |  |  |  |
 
-| 85. | 1,1-DIKLÓRETÁN | Cl2CH2CH2 | 75-34-3 | 412 | 824* |  | b | EU3 |
+| diklórdifluormetán F12, lásd: freonok |  |  |  |  |  |  |  |
 
-| 86. | 1,2-DIKLÓRETÁN | ClCH2CH2Cl | 107-06-2 |  |  | 10 | k, i |  |
+| 86. | 1,1-DIKLÓRETÁN | Cl2CH2CH2 | 75-34-3 | 412 | 824* |  | b | EU1 |
 
-| 87. | 1,1-DIKLÓRETILÉN*** | Cl2HC=CH | 75-35-4 | 8 | 32 |  |  |  |
+| 87. | 1,2-DIKLÓRETÁN | ClCH2CH2Cl | 107-06-2 |  |  | 10 | k, i |  |
 
-| 88. | 1,2-DIKLÓRETILÉN | ClHC=CHCl | 540-59-0 | 790 | 3160 |  | i | II.1. |
+| 88. | 1,1-DIKLÓRETILÉN*** | Cl2HC=CH | 75-35-4 | 8 | 32 |  |  |  |
 
-| 89. | 2,4-DIKLÓRFENOXIECETSAV | Cl2C6H3OCH2COOH | 94-75-7 | 1 | 4 |  | b, i | II.2. |
+| 89. | 1,2-DIKLÓRETILÉN | ClHC=CHCl | 540-59-0 | 790 | 3160 |  | i | II.1. |
+
+| 90. | 2,4-DIKLÓRFENOXIECETSAV | Cl2C6H3OCH2COOH | 94-75-7 | 1 | 4 |  | b, i | II.2. |
 
 | diklórfluormetán F21, lásd: freonok |  |  |  |  |  |  |  |
 
-| 90. | DIKLÓRFOSZ (DDVP) | C4H7Cl2O4P | 62-73-7 | 0,9 | 3,6 |  | b | III. |
+| 91. | DIKLÓRFOSZ (DDVP) | C4H7Cl2O4P | 62-73-7 | 0,9 | 3,6 |  | b | III. |
 
-| 91. | DIKLÓRMETÁN | CH2Cl2 | 75-09-2 | 10 | 10 |  | i | VI. |
+| 92. | DIKLÓRMETÁN | CH2Cl2 | 75-09-2 | 10 | 10 |  | i | VI. |
 
-| diklórtetrafluoretán F114, lásd: freonok |  |  |  |  |  |  |  |
+| 93. | 1,2-DIKLÓRPROPÁN | ClCH2CH(Cl)CH3 | 78-87-5 | 50 | 50 |  |  | VI. |
 
-| 92. | 1,2-DIKLÓRPROPÁN | ClCH2CH(Cl)CH3 | 78-87-5 | 50 | 50 |  |  | VI. |
+|  | diklórtetrafluoretán F114, lásd: freonok |  |  |  |  |  |  |  |
 
-| 93. | N,N-DIMETILACETAMID | CH3CON(CH3)2 | 127-19-5 | 36 | 72 |  | b, i | II.1. EU3 |
+| 94. | N,N-DIMETILACETAMID | CH3CON(CH3)2 | 127-19-5 | 36 | 72 |  | b, i | II.1. EU1 |
 
-| 94. | DIMETIL-AMIN | (CH3)2NH | 124-40-3 | 3,8 | 9,4 |  | b, m, sz | V. EU3 |
+| 95. | DIMETIL-AMIN | (CH3)2NH | 124-40-3 | 3,8 | 9,4 |  | b, m, sz | V. EU1 |
 
 | dimetilanilin, lásd: xilidin |  |  |  |  |  |  |  |
 
-| 95. | N,N-DIMETILANILIN | C6H5N(CH3)2 | 121-69-7 | 25 | 100 |  | b, i, sz | II.1. |
+| 96. | N,N-DIMETILANILIN | C6H5N(CH3)2 | 121-69-7 | 25 | 100 |  | b, i, sz | II.1. |
 
-| 96. | DIMETIL-ÉTER | (CH3)2O | 115-10-6 | 1920 | 7680* |  |  | EU3 |
+| 97. | DIMETIL-ÉTER | (CH3)2O | 115-10-6 | 1920 | 7680* |  |  | EU1 |
 
-| 97. | N,N-DIMETILFORMAMID | HCON(CH3)2 | 68-12-2 | 30 | 120 |  | b, i | II.1. BEM |
+| 98. | N,N-DIMETILFORMAMID | HCON(CH3)2 | 68-12-2 | 15 | 30 |  | b, i | II.1. BEM EU4 |
+
+| 99. | 1,2-DIMETILHIDRAZIN | CH3NHNHCH3 | 540-73-8 |  |  | 1,2 | k |  |
+
+| 100. | N,N-DIMETILHIDRAZIN | (CH3)2NNH2 | 57-14-7 |  |  | 1,2 | k |  |
 
 | dimetil-keton, lásd: aceton |  |  |  |  |  |  |  |
 
-| 98. | 1,2-DIMETILHIDRAZIN | CH3NHNHCH3 | 540-73-8 |  |  | 1,2 | k |  |
+| 101. | DIMETIL-SZULFÁT | C2H6O4S | 77-78-1 |  |  | 0,1 | k, b, m |  |
 
-| 99. | N,N-DIMETILHIDRAZIN | (CH3)2NNH2 | 57-14-7 |  |  | 1,2 | k |  |
+| dinikkel-trioxid lásd nikkel és szervetlen vegyületei | Ni2O3 | 1314-06-3 |  |  |  |  |  |
 
-| 100. | DIMETIL-SZULFÁT | C2H6O4S | 77-78-1 |  |  | 0,1 | k, b, m |  |
+| 103. | 4,6-DINITRO-o-KREZOL | CH3C6H2(NO2)2OH | 534-52-1 | 0,2 | 0,8 |  | b, i, sz | II.1. |
 
-| 101. | DINIKKEL-TRIOXID | Ni2O3 | 1314-06-3 |  |  | 0,1 | k |  |
+| 104. | DINITROBENZOL minden izomer | C6H4(NO2)2 |  | 1 | 2 |  | b |  |
 
-| 102. | DINITRO-o-KREZOL | CH3C6H2(NO2)2OH | 534-52-1 | 0,2 | 0,8 |  | b, i, sz | II.1. |
+| 105. | DINITROGÉN-OXID | N2O | 10024-97-2 | 180 | 720 |  |  |  |
 
-| 103. | DINITRO-BENZOL minden izomer | C6H4(NO2)2 |  | 1 | 2 |  | b |  |
+| 106. | DINOSZEB ÉS SÓI | C10H12N2O5 | 88-85-7 |  |  |  |  |  |
 
-| 104. | DINITROGÉN-OXID | N2O | 10024-97-2 | 180 | 720 |  |  |  |
+| 107. | 1,4-DIOXÁN | O(CH2CH2)2O | 123-91-1 | 73 | - |  | b, i | VI. EU3 |
 
-| 105. | DINOSZEB ÉS SÓI | C10H12N2O5 | 88-85-7 |  |  |  |  | PIC |
+| 108. | 1,3-DIOXOLÁN | C3H6O2 | 646-06-0 | 10 | 10 |  |  | VI. |
 
-| 106. | 1,4-DIOXÁN | O(CH2CH2)2O | 123-91-1 | 10 | 10 |  | b, i | VI. |
+| 109. | DIVANÁDIUM-PENTOXID (V-ra számítva) | V2O5 | 1314-62-1 | 0,05resp | 0,2 resp |  | i, sz | II.2. |
 
-| m-dioxibenzol, lásd: rezorcin |  |  |  |  |  |  |  |
+| 110. | ECETSAV | CH3COOH | 64-19-7 | 25 | 25 |  | m | I. EU91 |
 
-| 107. | 1,3-DIOXOLÁN | C3H6O2 | 646-06-0 | 10 | 10 |  |  | VI. |
+| 111. | ECETSAV-ANHIDRID | (CH3CO)2O | 108-24-7 | 20 | 20 |  | m | I. |
 
-| 108. | DIVANÁDIUM-PENTOXID (V-ra számítva) | V2O5 | 1314-62-1 | 0,05 resp | 0,2 resp |  | i, sz | II.2. |
-
-| 109. | ECETSAV | CH3COOH | 64-19-7 | 25 | 25 |  | m | I. EU1 |
-
-| 110. | ECETSAV-ANHIDRID | (CH3CO)2O | 108-24-7 | 20 | 20 |  | m | I. |
-
-| etántiol, lásd: etilmerkaptán |  |  |  |  |  |  |  |
+| 112. | ENDRIN | C12H8Cl6O | 72-20-8 |  |  |  | b |  |
 
 | epiklórhidrin, lásd: 1-klór-2,3-epoxipropán |  |  |  |  |  |  |  |
 
-| 111. | ENDRIN | C12H8Cl6O | 72-20-8 |  |  |  | b | POP |
+| etántiol, lásd: etil-merkaptán |  |  |  |  |  |  |  |
 
-| 112. | ETIL-ACETÁT | CH3COOC2H5 | 141-78-6 | 1400 | 1400 |  | i, sz | I. |
+| 113. | ETIL-ACETÁT | CH3COOC2H5 | 141-78-6 | 1400 | 1400 |  | i, sz | I. |
 
-| 113. | ETIL-AKRILÁT | CH2=CHCOOC2H5 | 140-88-5 | 10 | 10 |  | b, i, sz | I. |
+| 114. | ETIL-AKRILÁT | CH2=CHCOOC2H5 | 140-88-5 | 21 | 42 |  | b, i, sz | I. EU4 |
 
-| 114. | ETIL-ALKOHOL | CH3CH2OH | 64-17-5 | 1900 | 7600 |  |  | IV. |
+| 115. | ETIL-ALKOHOL | CH3CH2OH | 64-17-5 | 1900 | 7600 |  |  | IV. |
 
-| 115. | ETIL-AMIN | CH3CH2NH2 | 75-04-7 | 9,4 | 9,4* |  | i | V. EU3 |
+| 116. | ETIL-AMIN | CH3CH2NH2 | 75-04-7 | 9,4 | 9,4* |  | i | V. EU1 |
 
-| 116. | ETIL-BENZOL | C6H5CH2CH3 | 100-41-4 | 442 | 884 |  | b, i | I. BEM EU3 |
+| 117. | ETILBENZOL | C6H5CH2CH3 | 100-41-4 | 442 | 884 |  | b, i | I. BEM EU1 |
 
-| etilén-alkohol, lásd: etilén-glikol |  |  |  |  |  |  |  |
+| 118. | ETIL-BROMID | CH3CH2Br | 74-96-4 | 50 | 50 |  |  | VI. |
 
-| 117. | ETIL-BROMID | CH3CH2Br | 74-96-4 | 50 | 50 |  |  | VI. |
+| etilén-alkohol, lásd: etilénglikol |  |  |  |  |  |  |  |
 
-| 118. | ETILÉN-GLIKOL | HOCH2CH2OH | 107-21-1 | 52 | 104 |  | b, i | I. EU3 |
+| 119. | ETILÉNGLIKOL | HOCH2CH2OH | 107-21-1 | 52 | 104 |  | b, i | I. EU1 |
 
-| etilén-glikol-monobutil-éter, lásd: 2-butoxietanol |  |  |  |  |  |  |  |
+| etilénglikol-monobutil-éter, lásd: 2-butoxietanol |  |  |  |  |  |  |  |
 
-| 119. | ETILÉN-GLIKOL-MONOETIL-ÉTER | C2H5O(CH2)2OH | 110-80-5 | 19 | 76 |  | b, i | II.1. |
+| 120. | ETILÉNGLIKOL-MONOETIL-ÉTER | C2H5O(CH2)2OH | 110-80-5 | 8 | - |  | b, i | II.1. EU4 |
 
-| 120. | ETILÉN-GLIKOL-MONOETIL-ÉTER-ACETÁT | C2H5O(CH2)2COOCH3 | 111-15-9 | 27 | 108 |  | b, i | II.1. |
+| 121. | ETILÉNGLIKOL-MONOETIL-ÉTER- ACETÁT | C2H5O(CH2)2COOCH3 | 111-15-9 | 11 | - |  | b, i | II.1. EU4 |
 
-| 121. | ETILÉN-GLIKOL-MONOMETIL-ÉTER | CH3O(CH2)2OH | 109-86-4 | 15 | 60 |  | b, i | II.1. |
+| 122. | ETILÉNGLIKOL-MONOMETIL-ÉTER | CH3O(CH2)2OH | 109-86-4 | 3,16 | - |  | b, i | II.1. EU4 |
 
-| 122. | ETILÉN-GLIKOL-MONOMETIL-ÉTER-ACETÁT | CH3O(CH2)2COOCH3 | 110-49-6 | 25 | 100 |  | b, i | II.1. |
-
-| etil-glikol, lásd: etilén-glikol-monoetil-éter |  |  |  |  |  |  |  |
-
-| etil-glikol-acetát, lásd: etilén-glikol-monoetil-éter-acetát |  |  |  |  |  |  |  |
-
-| etil-hidroszulfid, lásd: etil-merkaptán |  |  |  |  |  |  |  |
+| 123. | ETILÉNGLIKOL-MONOMETIL-ÉTER- ACETÁT | CH3O(CH2)2COOCH3 | 110-49-6 | 4,90 | - |  | b, i | II.1. EU4 |
 
 | etilén-imin, lásd: aziridin |  |  |  |  |  |  |  |
 
-| etilén-bromid, lásd: vinil-bromid |  |  |  |  |  |  |  |
+| 124. | ETILÉN-OXID | C2H4O | 75-21-8 |  |  | 1,8 | k, i, sz |  |
 
-| etilén-klorid, lásd: vinil-klorid |  |  |  |  |  |  |  |
+| etil-glikol, lásd: etilén-glikol-monoetil-éter |  |  |  |  |  |  |  |
 
-| 123. | ETILÉN-OXID | C2H4O | 75-21-8 |  |  | 1,8 | k, i, sz |  |
+| etil-glikol-acetát, lásd: etilénglikol-monoetil-éter-acetát |  |  |  |  |  |  |  |
 
-| 124. | ETIL-KLORID | C2H5Cl | 75-00-3 | 268 |  |  |  | EU2 |
+| etil-hidroszulfid, lásd: etil-merkaptán |  |  |  |  |  |  |  |
 
-| 125. | ETIL-MERKAPTÁN | CH3CH2SH | 75-08-1 | 1 | 1 |  | i | V. |
+| 125. | ETIL-KLORID | C2H5Cl | 75-00-3 | 268 |  |  |  | EU2 |
 
-| etil-szulfhidrát, lásd: etil-merkaptán etil-tioalkohol, lásd: etil-merkaptán 2-etoxietanol, lásd: etilén-glikol-monoetil-éter |  |  |  |  |  |  |  |
+| 126. | ETIL-MERKAPTÁN | CH3CH2SH | 75-08-1 | 1 | 1 |  | i | V. |
 
-| fenilbenzol, lásd: difenil |  |  |  |  |  |  |  |
+| etil-szulfhidrát, lásd: etil-merkaptán |  |  |  |  |  |  |  |
+
+| etil-tioalkohol, lásd: etil-merkaptán |  |  |  |  |  |  |  |
+
+| 2-etoxietanol, lásd: etilénglikol-monoetil-éter |  |  |  |  |  |  |  |
+
+| 127. | EZÜST, fém | Ag | 7440-22-4 | 0,1 | 0,4* |  |  | EU1 |
+
+| 128. | EZÜST OLDHATÓ VEGYÜLETEI (Ag-re számítva) |  |  | 0,01 |  |  |  | EU2 |
 
 | Fapor, lásd: 1.2.1. |  |  |  |  |  |  |  |
 
-| 126. | EZÜST, fém | Ag | 7440-22-4 | 0,1 | 0,4* |  |  | EU3 |
+| fenilbenzol, lásd: difenil |  |  |  |  |  |  |  |
 
-| 127. | EZÜST OLDHATÓ VEGYÜLETEI (Ag-re számítva) |  |  | 0,01 |  |  |  | EU2 |
+| 129. | 2-FENILPROPÉN | C6H5C(CH3)=CH2 | 98-83-9 | 246 | 492 |  |  | EU1 |
 
-| 128. | 2-FENIL-PROPÉN | C6H5C(CH3)=CH2 | 98-83-9 | 246 | 492 |  |  | EU3 |
+| 130. | FENOL | C6H5OH | 108-95-2 | 8 | 16 |  | b, m | I. BEM EU4 |
 
-| 129. | FENOL | C6H5OH | 108-95-2 | 7,8 | 7,8* |  | b, m | I. BEM EU3 |
+| 131. | FLUOR | F2 | 7782-41-4 | 1,58 | 3,16 |  | m | I. EU1 |
 
-| 130. | FLUOR | F2 | 7782-41-4 | 1,58 | 3,16 |  | m | I. EU3 |
-
-| 131. | FLUORACETAMID | FCH2CONH2 | 640-19-7 |  |  |  |  | PIC |
+| 132. | FLUORACETAMID | FCH2CONH2 | 640-19-7 |  |  |  |  |  |
 
 | fluor-hidrogén, lásd: hidrogén-fluorid |  |  |  |  |  |  |  |
 
-| 132. | FLUORIDOK (F-ra számítva) | F |  | 2,5 | 10* |  | b, i | II.2. BEM EU3 |
+| 133. | FLUORIDOK (F-ra számítva) | F |  | 2,5 | 10* |  | b, i | II.2. BEM EU1 |
 
 | fluotan, lásd: halotán |  |  |  |  |  |  |  |
 
-| 133. | FORMALDEHID | HCHO | 50-00-0 | 0,6 | 0,6 |  | b, m, sz | VI. |
+| 134. | FORMALDEHID | HCHO | 50-00-0 | 0,6 | 0,6 |  | b, m, sz | VI. |
 
-| 134. | FOSZFAMIDON (izomerek keveréke) CISZ izomer TRANSZ izomer | C10H19ClNO5P | 13171-21-6 23783-98-4 297-99-4 |  |  |  | b | PIC |
+| 135. | FOSZFAMIDON (izomerek keveréke), cisz-izomer, transz-izomer | C10H19ClNO5P | 13171-21-6 23783-98-4 297-99-4 |  |  |  | b |  |
 
-| 135. | FOSZFIN | PH3 | 7803-51-2 | 0,14 | 0,28 |  | i | I. EU2 |
+| 136. | FOSZFIN | PH3 | 7803-51-2 | 0,14 | 0,28 |  | i | I. EU2 |
 
-| 136. | FOSZFOR | P | 7723-14-0 | 0,1 | 0,1 |  | i | I. |
+| 137. | FOSZFOR | P | 7723-14-0 | 0,1 | 0,1 |  | i | I. |
 
-| foszfor-hidrogén, lásd: foszfin foszforsav-anhidrid, lásd: difoszfor-pentoxid foszfor-trihidrid, lásd: foszfin |  |  |  |  |  |  |  |
+|  | foszfor-hidrogén, lásd: foszfin |  |  |  |  |  |  |  |
 
-| 137. | FOSZFOR-PENTAKLORID | PCl5 | 10026-13-8 | 1 |  |  | m | EU2 |
+| 138. | FOSZFOR-PENTAKLORID | PCl5 | 10026-13-8 | 1 |  |  | m | EU2 |
 
-| 138. | FOSZFOR-TRIKLORID | PCl3 | 7719-12-2 | 3 | 3 |  | m | I. |
+| foszfor-pentoxid, lásd: difoszfor-pentoxid |  |  |  |  |  |  |  |
 
-| 139. | FOSZGÉN | COCl2 | 75-44-5 | 0,08 | 0,4 |  | m | II.1. EU3 |
+| foszforsav lásd: ortofoszforsav |  |  |  |  |  |  |  |
 
-| FREONOK (FLUOROKARBONOK) |  |  |  |  |  |  |  |
+| foszfor- trihidrid, lásd: foszfin |  |  |  |  |  |  |  |
 
-| 140. | F 11, triklórfluormetán | CCl3F | 75-69-4 | Magyarországon betiltott |
+| 139. | FOSZFOR-TRIKLORID | PCl3 | 7719-12-2 | 3 | 3 |  | m | I. |
 
-| 141. | F 12, diklórfluormetán | CCl2F2 | 75-71-8 | Magyarországon betiltott |
+| 140. | FOSZGÉN | COCl2 | 75-44-5 | 0,08 | 0,4 |  | m | II.1. EU1 |
 
-| 142. | F 21, diklórfluormetán | CHCl2F | 75-43-4 | 43 | 172 |  |  | II.1 |
+| FREONOK (KLÓRFLUORKARBONOK) |  |  |  |  |  |  |  |
 
-| 143. | F 22, klórdifluormetán | CHClF2 | 75-45-6 | 3600 | 14 400* |  |  | IV. EU3 |
+| 141. | F 11, triklórfluormetán | CCl3F | 75-69-4 | Magyarországon betiltott |  |  |  |
 
-| 144. | F113, 1,1,2-triklór-1,2,2-trifluoretán | C2Cl3F3 | 76-13-1 | Magyarországon betiltott |
+| 142. | F 12, diklórdifluormetán | CCl2F2 | 75-71-8 | Magyarországon betiltott |  |  |  |
 
-| 145. | F114, 1,2-diklór-1,1,2,2-tetrafluoretán | Cl2FCCF2 | 76-14-2 | Magyarországon betiltott |
+| 143. | F 21, diklórfluormetán | CHCl2F | 75-43-4 | 43 | 172 |  |  | II.1 |
 
-| 146. | F142b, 1-klór-1,1-difluoretán | C2H3ClF2 | 75-68-3 | 4170 | 16 680 |  |  | IV. |
+| 144. | F 22, klórdifluormetán | CHClF2 | 75-45-6 | 3600 | 14 400* |  |  | IV. EU1 |
 
-| 147. | FTÁLSAV-ANHIDRID | C6H4(CO)2O | 85-44-9 | 1 | 1 |  | i, sz | I. |
+| 145. | F113, 1,1,2-triklór-1,2,2-trifluoretán | C2Cl3F3 | 76-13-1 | Magyarországon betiltott |  |  |  |
 
-| furál, lásd: furfurol furfurilaldehid, lásd: furfurol |  |  |  |  |  |  |  |
+| 146. | F114, 1,2-diklór-1,1,2,2-tetrafluoretán | ClF2CCF2Cl | 76-14-2 | Magyarországon betiltott |  |  |  |
 
-| 148. | FURFURIL-ALKOHOL | C4H3OCH2OH | 98-00-0 | 40 | 40 |  | i, sz, b | I. |
+| 147. | F142b, 1-klór-1,1-difluoretán | C2H3ClF2 | 75-68-3 | 4170 | 16 680 |  |  | IV. |
 
-| 149. | FURFUROL | C4H3OCHO | 98-01-1 | 20 |  |  | b, i, sz |  |
+| 148. | FTÁLSAV-ANHIDRID | C6H4(CO)2O | 85-44-9 | 1 | 1 |  | i, sz | I. |
 
-| gamma HCH, lásd: lindán glikol, lásd: etilén-glikol halán, lásd: halotán |  |  |  |  |  |  |  |
+| furál, lásd: furfurol |  |  |  |  |  |  |  |
 
-| 150. | HALOTÁN | C2HBrClF3 | 151-67-7 | 40 | 160 |  |  | II.1. |
+| furfurilaldehid, lásd: furfurol |  |  |  |  |  |  |  |
 
-| 151. | HANGYASAV | HCOOH | 64-18-6 | 9 |  |  | m | I. EU2 |
+| 149. | FURFURIL-ALKOHOL | C4H3OCH2OH | 98-00-0 | 40 | 40 |  | i, sz, b | I. |
 
-| 152. | HCH (1,2,3,4,5,6-HEXAKLÓRCIKLOHEXÁN) (izomerek keveréke) | C6H6Cl6 | 608-73-1 |  |  |  |  | PIC |
+| 150. | FURFUROL | C4H3OCHO | 98-01-1 | 20 |  |  | b, i, sz |  |
 
-| 153. | HEPTAKLÓR | C10H5Cl7 | 76-44-8 |  |  |  | b | POP, PIC |
+| gamma HCH, lásd: lindán |  |  |  |  |  |  |  |
 
-| 154. | n-HEPTÁN | CH3(CH2)5CH3 | 142-82-5 | 2000 | 8000* |  |  | EU3 |
+| 151. | GLICERIN-TRINITRÁT | C3H5(ONO2)3 | 55-63-0 | 0,5 | 2 |  | b, i, sz | II.1. |
 
-| 155. | 2-HEPTANON | CH3(CH2)4COCH3 | 110-43-0 | 238 | 476 |  | b | EU3 |
+| glikol, lásd: etilénglikol |  |  |  |  |  |  |  |
 
-| 156. | HEPTÁN-3-ON | CH3(CH2)4CH3 | 106-35-4 | 95 | * |  |  | EU3 |
+| halán, lásd: halotán |  |  |  |  |  |  |  |
+
+| 152. | HALOTÁN | CHClBrCF3 | 151-67-7 | 40 | 160 |  |  | II.1. |
+
+| 153. | HANGYASAV | HCOOH | 64-18-6 | 9 |  |  | m | I. EU2 |
+
+| 154. | HCH (l,2,3,4,5,6-HEXAKLÓRCIKLOHEXÁN) (izomerek keveréke) | C6H6Cl6 | 608-73-1 |  |  |  |  |  |
+
+| 155. | HEPTAKLÓR | C10H5Cl7 | 76-44-8 |  |  |  | b |  |
+
+| 156. | n-HEPTÁN | CH3(CH2)5CH3 | 142-82-5 | 2000 | 8000* |  |  | EU1 |
+
+| 157. | 2-HEPTANON | CH3(CH2)4COCH3 | 110-43-0 | 238 | 476 |  | b | EU1 |
+
+| 158. | HEPTÁN-3-ON | CH3(CH2)4CH3 | 106-35-4 | 95 |  |  |  | EU1 |
+
+| 159. | HEXAKLÓRBENZOL | C6Cl6 | 118-74-1 |  |  |  | k |  |
+
+| 160. | HEXAMETILÉN-DIAMIN | H2N(CH2)6NH2 | 124-09-4 | 2,3 |  |  | m, b |  |
+
+| hexametilén-diizocianát, lásd: diizocianátok |  |  |  |  |  |  |  |
+
+| 161. | n-HEXÁN | CH3(CH2)4CH3 | 110-54-3 | 72 |  |  | b, i | II.1. BEM EU2 |
 
 | 2-hexanon, lásd: metil-butil-keton |  |  |  |  |  |  |  |
 
-| 157. | HEXAKLÓRBENZOL | C6Cl6 | 118-74-1 |  |  |  | k | POP, PIC |
+| 162. | HIDRAZIN | H2NNH2 | 302-01-2 |  |  | 0,13 | k |  |
 
-| 158. | HEXAMETILÉN-DIAMIN | H2N(CH2)6NH2 | 124-09-4 | 2,3 |  |  | m, b |  |
+| 163. | HIDROGÉN-BROMID | HBr | 10035-10-6 |  | 6,7 |  | m | I. EU1 |
 
-| 159. | n-HEXÁN | CH3(CH2)4CH3 | 110-54-3 | 72 |  |  | b, i | II.1. BEM EU2 |
+| hidrogén-cianid, lásd: cián-hidrogén |  |  |  |  |  |  |  |
 
-| hexametilén-diizocianát, lásd: diizocianátok hidrogén-cianid, lásd: cián-hidrogén hidrogén-foszfid, lásd: foszfin |  |  |  |  |  |  |  |
+| 164. | HIDROGÉN-FLUORID | HF | 7664-39-3 | 1,5 | 2,5 |  | b, m | 1. BEM EU1 |
 
-| 160. | HIDRAZIN | H2NNH2 | 302-01-2 |  |  | 0,13 | k |  |
+| hidrogén-foszfid, lásd: foszfin |  |  |  |  |  |  |  |
 
-| 161. | HIDROGÉN-BROMID | HBr | 10035-10-6 |  | 6,7 |  | m | I. EU3 |
+| 165. | HIGANY ÉS SZERVETLEN VEGYÜLETEI*** (Hg-ra számítva) | Hg | 7439-97-6 | 0,02 | - |  | sz, b | III. BEM. EU4 |
 
-| 162. | HIDROGÉN-FLUORID | HF | 7664-39-3 | 1,5 | 2,5 |  | b, m | I. BEM EU3 |
+| 166. | HIGANY SZERVES VEGYÜLETEI*** (Hg-ra számítva) |  |  | 0,01 | 0,04 |  | b, sz | III. |
 
-| 163. | HIGANY SZERVES VEGYÜLETEI*** (Hg-ra számítva) |  |  | 0,01 | 0,04 |  | b, sz | III. |
-
-| 164. | HIGANY ÉS SZERVETLEN VEGYÜLETEI*** (Hg-ra számítva) | Hg | 7439-97-6 | 0,08 | 0,32 |  | sz, b | III. BEM, PIC |
+| 167. | IZOAMIL-ALKOHOL | CH3(CH2)4OH | 123-51-3 | 360 | 1440 |  |  | II.1. |
 
 | izociánsav-metil-észter, lásd: metil-izocianát |  |  |  |  |  |  |  |
 
-| 165. | IZOAMIL-ALKOHOL | CH3(CH2)4OH | 123-51-3 | 360 | 1440 |  |  | II.1. |
+| 168. | IZOPENTÁN | (CH3)2CHCH2CH3 | 78-78-4 | 3000 |  |  |  | EU2 |
 
-| 166. | IZOPENTÁN | (CH3)2CHCH2CH3 | 78-78-4 | 3000 |  |  |  | EU2 |
+| 169. | IZOPENTIL-ACETÁT | CH3COO(CH2)2CH(CH3)2 | 123-92-2 | 270 | 540 |  | i | EU1 |
 
-| 167. | IZOPENTIL-ACETÁT | CH3COO(CH2)2CH(CH3)2 | 123-92-2 | 270 | 540 |  | i | EU3 |
+| 170. | IZOPROPIL-ACETÁT | (CH3)2HCOOCH3 | 108-21-4 | 840 | 840 |  | i | I. |
 
-| 168. | IZOPROPIL-ACETÁT | (CH3)2HCOOCH3 | 108-21-4 | 840 | 840 |  | i | I. |
+| 171. | IZOPROPIL-ALKOHOL | CH3CH(OH)CH3 | 67-63-0 | 500 | 2000 |  | b, i | II.1. |
 
 | izopropilbenzol, lásd: kumol |  |  |  |  |  |  |  |
 
-| 169. | JÓD | J2 | 7553-56-2 | 1 | 1 |  | i, sz, b | I. |
+| 172. | JÓD | I2 | 7553-56-2 | 1 | 1 |  | i, sz, b | I. |
 
-| 170. | KADMIUM ÉS SZERVETLEN VEGYÜLETEI*** -CdF2, CdCl2, CdO kivételével (Cd-ra számítva) | Cd | 7440-43-9 |  |  | 0,015 | k | BEM |
+| 173. | KADMIUM ÉS SZERVETLEN VEGYÜLETEI - CdF2, CdCl2, CdO kivételével (Cd-ra számítva) | Cd | 7440-43-9 |  |  | 0,015 | k | BEM |
 
-| 171. | KADMIUM-FLUORID | CdF2 | 7790-79-6 |  |  | 0,05 | k | BEM |
+| 174. | KADMIUM-FLUORID (Cd-ra számítva) | CdF2 | 7790-79-6 |  |  | 0,05 | k | BEM |
 
-| 172. | KADMIUM-KLORID | CdCl2 | 10108-64-2 |  |  | 0,05 | k | BEM |
+| 175. | KADMIUM-KLORID (Cd-ra számítva) | CdCl2 | 10108-64-2 |  |  | 0,05 | k | BEM |
 
-| 173. | KADMIUM-OXID | CdO | 1306-19-0 |  |  | 0,05 | k | BEM |
+| 176. | KADMIUM-OXID (Cd-ra számítva) | CdO | 1306-19-0 |  |  | 0,05 | k | BEM |
 
-| 174. | KALCIUM-CIÁNAMID | NCNCa | 156-62-7 | 1 | 4 |  | b, i | III. |
+| 177. | KALCIUM-CIÁNAMID | CaNCN | 156-62-7 | 1 | 4 |  | b, i | III. |
 
-| 175. | KALCIUM-HIDROXID | Ca(OH)2 | 1305-62-0 | 5 |  |  |  | EU1 |
+| 178. | KALCIUM-HIDROXID | Ca(OH)2 | 1305-62-0 | 5 |  |  |  | EU91 |
 
-| 176. | KALCIUM-KARBONÁT | CaCO3 | 1317-65-3 | 10 |  |  |  |  |
+| 179. | KALCIUM-KARBONÁT | CaCO3 | 1317-65-3 | 10 |  |  |  |  |
 
-| 177. | KALCIUM-KROMÁT | CaCrO4 | 13765-19-0 |  |  | 0,05 | k | BEM |
+| kalcium-kromát lásd: króm (VI) szervetlen vegyületek | CaCrO4 | 13765-19-0 |  |  |  |  |  |
 
-| 178. | KALCIUM-OXID | CaO | 1305-78-8 | 5 | 5 |  |  | I. |
+| 181. | KALCIUM-OXID | CaO | 1305-78-8 | 5 | 10 5 |  |  | I. |
 
-| 179. | KALCIUM-SZULFÁT | CaSO4 | 7778-18-9 | 6 resp |  |  |  |  |
+| 182. | KALCIUM-SZULFÁT | CaSO4 | 7778-18-9 | 6 resp |  |  |  |  |
 
-| 180. | KÁLIUM-HIDROXID | KOH | 1310-58-3 | 2 | 2 |  | m | I. |
+| 183. | KÁLIUM-HIDROXID | KOH | 1310-58-3 | 2 | 2 |  | m | I. |
 
-| 181. | e-KAPROLAKTÁM | HN(CH2)5CO | 105-60-2 | 10 | 40 |  | i | EU3 |
+| 184. | є-KAPROLAKTAM | HN(CH2)5CO | 105-60-2 | 10 | 40 |  | i | EU1 |
 
-| 182. | KAPTAFOL | C10H9Cl4NO2S | 2425-06-1 |  |  | 0,1 | k | PIC |
+| 185. | KAPTAFOL | C10H9Cl4NO2S | 2425-06-1 |  |  | 0,1 | k |  |
 
-| 183. | KARBARIL | C12H11NO2 | 63-25-2 | 1 |  |  |  |  |
+| 186. | KARBARIL | C12H11NO2 | 63-25-2 | 1 |  |  |  |  |
 
 | karbolsav, lásd: fenol |  |  |  |  |  |  |  |
 
-| 184. | KÉN-DIOXID | SO2 | 7446-09-5 | 5 | 5 |  | m | I. |
+| 187. | KÉN-DIOXID | SO2 | 7446-09-5 | 5 | 5 |  | m | I. |
 
-| 185. | KÉN-HIDROGÉN | H2S | 7783-06-4 | 14 | 14 |  | i | V. |
+| 188. | KÉN-HIDROGÉN | H2S | 7783-06-4 | 7 | 14 |  | i | V. EU4 |
 
-| 186. | KÉNSAV | H2SO4 | 7664-93-9 | 1 | 1 |  | m | I. |
+| 189. | KÉNSAV | H2SO4 | 7664-93-9 | 0,05 torak | - |  | m | I. EU4 |
 
-| 187. | KLÓR | Cl2 | 7782-50-5 |  | 1,5 |  | i | I. EU2 |
+| 190. | KLÓR | Cl2 | 7782-50-5 |  | 1,5 |  | i | I. EU2 |
 
-| 188. | 4-KLÓRANILIN | ClC6H4NH2 | 106-47-8 | 0,2 | 0,8 |  | k, sz, b |  |
+| 191. | 4-KLÓRANILIN | ClC6H4NH2 | 106-47-8 | 0,2 | 0,8 |  | k, sz, b |  |
 
-| 189. | KLÓRBENZOL | C6H5Cl | 108-90-7 | 23 | 70 |  |  | II.1. EU2 |
+| 192. | KLÓRBENZILÁT | C16H14Cl2O3 | 510-15-6 |  |  |  |  |  |
 
-| 190. | KLÓRBENZILÁT | C16H14Cl2O3 | 510-15-6 |  |  |  |  | PIC |
+| 193. | KLÓRBENZOL | C6H5Cl | 108-90-7 | 23 | 70 |  |  | II.1. EU2 |
 
-| 191. | 2-KLÓR-1,3-BUTADIÉN | CH2=C(Cl)CH=CH2 | 126-99-8 | 18 | 72 |  | i | II.1. |
+| 194. | 2-KLÓR-1,3-BUTADIÉN | CH2=C(Cl)CH=CH2 | 126-99-8 | 18 | 72 |  | i | II.1. |
 
-| klórdifluoretán F142B, lásd: freonok klórdifluormetán F22, lásd: freonok klórfluormetán F31, lásd: freonok |  |  |  |  |  |  |  |
+| klórdifluoretán F142B, lásd: freonok |  |  |  |  |  |  |  |
 
-| 192. | KLÓRDÁN | C10H6Cl8 | 57-74-9 |  |  |  | b | POP, PIC |
+| klórdifluormetán F22, lásd: freonok |  |  |  |  |  |  |  |
 
-| 193. | 1-KLÓR-2,3-EPOXIPROPÁN | ClCH2C2H3O | 106-89-8 |  |  | 1,9 | k, b, m, sz |  |
+| 195. | KLÓRDÁN | C10H6Cl8 | 57-74-9 |  |  |  | b |  |
 
-| 194. | KLOROFORM*** | CHCl3 | 67-66-3 | 10 | 10 |  |  | VI. |
+| 196. | 1-KLÓR-2,3-EPOXIPROPÁN | ClCH2C2H3O | 106-89-8 |  |  | 1,9 | k, b, m, sz |  |
 
-|  | kloroprén, lásd: 2-klór-1,3-butadién |  |  |  |  |  |  |  |
+| 197. | KLOROFORM | CHCl3 | 67-66-3 | 10 | 10 |  |  | VI. |
 
-| 195. | KOBALT ÉS SZERVETLEN VEGYÜLETEI (Co-ra számítva) | Co | 7440-48-4 | 0,1 | 0,4 |  | i, sz | BEM |
+| kloroprén, lásd: 2-klór-1,3-butadién |  |  |  |  |  |  |  |
 
-| 196. | KREZOL (izomerek keveréke) | CH3C6H4OH | 1319-77-3 | 22 | 22 |  | m | I. EU1 |
+| 198. | KOBALT ÉS SZERVETLEN VEGYÜLETEI (Co-ra számítva) | Co | 7440-48-4 | 0,1 | 0,4 |  | i, sz | BEM |
 
-| 197. | KRÓM (fém), SZERVETLEN KRÓM(II) és KRÓM(III) VEGYÜLETEK ( nem oldható) | Cr |  | 2 |  |  | i, sz | BEM EU2 |
+| 199. | KREZOL (izomerek keveréke) | CH3C6H4OH | 1319-77-3 | 22 | 22 |  | m | I. EU91 |
 
-| 198. | Egyéb szervetlen krómvegyületek [a króm VI vegyületek kivételével] (Cr-ra számítva) | Cr |  | 0,5 | 2 |  | i, sz | BEM |
+| 200. | KRÓM (fém), SZERVETLEN KRÓM(II) és KRÓM(III) VEGYÜLETEK (nem oldható) | Cr | 7440-47-3 | 2 |  |  | i, sz | BEM EU2 |
 
-| 199. | KRÓM(III)-KROMÁT | Cr2(CrO4)3 | 24613-89-6 |  |  | 0,05 | k | BEM |
+| 201. | Egyéb szervetlen krómvegyületek [a króm VI vegyületek kivételével] (Cr-ra számítva) | Cr |  | 0,5 | 2 |  | i, sz | BEM |
 
-| 200. | KRÓM-TRIOXID | CrO3 | 1333-82-0 |  |  | 0,05 | k | BEM |
+| KRÓM (VI) SZERVETLEN VEGYÜLETEK (nátrium-kromát, kálium-kromát és egyéb oldható) (Cr VI-ra számítva) | Cr |  |  |  | 0,05 | k | BEM |
 
-| 201. | KUMOL | C6H5CH(CH3)2 | 98-82-8 | 100 | 250 |  | b, i | EU3 |
+| KRÓM (VI) SZERVETLEN VEGYÜLETEK, kevéssé oldható (Cr VI-ra számítva) | Cr |  |  |  | 0,01 | k | BEM |
 
-| 202. | kvarc, lásd: 1.2.1. | SiO2 | 14808-60-7 |  |  |  |  |  |
+| 202. | KRÓM(III)-KROMÁT (Cr-ra számítva) | Cr2(CrO4)3 | 24613-89-6 |  |  | 0,05 | k | BEM |
 
-| 203. | LINDÁN (γ-HCH) (1,2,3,4,5,6-γ-Hexaklórciklohexán) | C6H6Cl6 | 58-89-9 | 0,5 | 2 |  | b, i | III. PIC |
+| 203. | KRÓM-TRIOXID (Cr VI-ra számítva) | CrO3 | 1333-82-0 |  |  | 0,05 | k | BEM |
 
-| 204. | LÍTIUM-HIDRID | LiH | 7580-67-8 | 0,025 |  |  |  | EU1 |
+| 204. | KUMOL | C6H5CH(CH3)2 | 98-82-8 | 100 | 250 |  | b, i | EU1 |
 
-| 205. | MAGNÉZIUM-OXID | MgO | 1309-48-4 | 6 resp | 24 resp |  | i |  |
+|  | kvarc, lásd: 1.2.1. | SiO2 | 14808-60-7 |  |  |  |  |  |
 
-| 206. | MALEINSAV-ANHIDRID | CH=CH(CO)2O | 108-31-6 | 0,4 | 0,4 |  | m, sz | I. |
+| 205. | LINDÁN (γ-HCH) (γ-1,2,3,4,5,6-Hexaklorciklohexán) | C6H6Cl6 | 58-89-9 | 0,5 | 2 |  | b, i | III. |
 
-| 207. | MANGÁN ÉS SZERVETLEN SÓI (mangán-tetroxid kivételével, Mn-ra számítva) | Mn | 7439-96-5 | 5 | 20 |  |  |  |
+| 206. | LÍTIUM-HIDRID | LiH | 7580-67-8 | 0,025 |  |  |  | EU91 |
 
-| 208. | METAMIDOFOSZ | C2H8NO2PS | 10265-92-6 |  |  |  | b, i | PIC |
+| 207. | MAGNÉZIUM-OXID (Mg-ra számítva) | MgO | 1309-48-4 | 6 resp | 24resp |  | i |  |
 
-| 209. | METIL-ACETÁT | CH3COOCH3 | 79-20-9 | 610 | 2440 |  | b, sz, i | I. |
+| 208. | MALEINSAV-ANHIDRID | CH=CH(CO)2O | 108-31-6 | 0,4 | 0,4 |  | m, sz | I. |
 
-| 210. | METIL-AKRILÁT | CH2=CHCOOCH3 | 96-33-3 | 18 | 18 |  | b, i, sz | I. |
+| 209. | MANGÁN ÉS SZERVETLEN SÓI (mangán-tetraoxid kivételével, Mn-ra számítva) | Mn | 7439-96-5 | 5 | 20 |  |  |  |
 
-| 211. | METIL-ALKOHOL | CH3OH | 67-56-1 | 260 |  |  | b, i | II.1. EU2 |
+| 210. | METAMIDOFOSZ | C2H8NO2PS | 10265-92-6 |  |  |  | b, i |  |
 
-| 212. | 2-METILAZIRIDIN | C3H7N | 75-55-8 |  |  | 5 | k |  |
+| 211. | METIL-ACETÁT | CH3COOCH3 | 79-20-9 | 610 | 2440 |  | b, sz, i | I. |
 
-| 213. | METIL-BROMID | CH3Br | 74-83-9 | 10 | 10 |  | b, i | VI. |
+| 212. | METIL-AKRILÁT | CH2=CHCOOCH3 | 96-33-3 | 18 | 36 |  | b, i, sz | I. EU4 |
 
-| 214. | METIL-BUTIL-KETON | CH3CO(CH2)3CH3 | 591-78-6 | 21 | 84 |  | b, i | II.1. |
+| 213. | METIL-ALKOHOL | CH3OH | 67-56-1 | 260 |  |  | b, i | II. 1. EU2 |
 
-| 215. | 1-METILBUTIL-ACETÁT | CH3COOCH(CH3)(CH2)2CH3 | 626-38-0 | 270 | 540 |  |  | EU3 |
+| 214. | 2-METILAZIRIDIN | C3H7N | 75-55-8 |  |  | 5 | k |  |
 
-| 216. | 1-METOXI-2-PROPIL-ACETÁT | CH3COOCH(CH3)CH2OCH3 | 108-65-6 | 275 | 550 |  |  | EU3 |
+| 215. | METIL-BROMID | CH3Br | 74-83-9 | 10 | 10 |  | b, i | VI. |
 
-| metil-celloszolv, lásd: etilén-glikol-monometil-éter metil-celloszolv-acetát, lásd: etilén-glikol-monometil-éter-acetát etil-cianid, lásd: acetonitril |  |  |  |  |  |  |  |
+| 216. | 1-METILBUTIL-ACETÁT | CH3COOCH(CH3)(CH2)2CH3 | 626-38-0 | 270 | 540 |  |  | EU1 |
 
-| 217. | METIL-ETIL-KETON | CH3COCH2CH3 | 78-93-3 | 600 | 900 |  | b, i | II.1. EU3 |
+| 217. | METIL-BUTIL-KETON | CH3CO(CH2)3CH3 | 591-78-6 | 21 | 84 |  | b, i | II.1. |
 
-| metilén-klorid, lásd: diklórmetán metil-glikol, lásd: etilén-glikol-monometil-éter metil-glikol-acetát, lásd: etilén-glikol-monometil-éter-acetát |  |  |  |  |  |  |  |
+| metil-celloszolv, lásd: etilén-glikol-monometil-éter |  |  |  |  |  |  |  |
 
-| 218. | 5-METILHEPTÁN-3-ON | CH3CH2COCH2CH3CHC2H5 | 541-85-5 | 53 | 106 |  |  | EU3 |
+| metil-celloszolv-acetát, lásd: etilén-glikol-monometil-éter-acetát |  |  |  |  |  |  |  |
 
-| 219. | 5-METILHEXÁN-2-ON | C7H14O | 110-12-3 | 230 | * |  |  | EU3 |
+| metil-cianid, lásd: acetonitril |  |  |  |  |  |  |  |
 
-| 220. | METIL-IZOCIANÁT | CH3NCO | 624-83-9 | 0,024 | 0,024 |  | b, i, sz | I. |
+| 4,4’-metiléndianilin, lásd: 4,4’-diaminodifenilmetán |  |  |  |  |  |  |  |
 
-| metil-karbamid, lásd: metil-izocianát metil-karbonimid, lásd: metil-izocianát |  |  |  |  |  |  |  |
+|  | metilén-klorid, lásd: diklórmetán |  |  |  |  |  |  |  |
 
-| 221. | METIL-KLORID | CH3CI | 74-87-3 | 105 | 420 |  |  | II.1. |
+| 218. | METIL-ETIL-KETON | CH3COCH2CH3 | 78-93-3 | 600 | 900 |  | b, i | II.1. EU1 |
+
+| metil-glikol, lásd: etilén-glikol-monometil-éter |  |  |  |  |  |  |  |
+
+| metil-glikol-acetát, lásd: etilén-glikol-monometil-éter-acetát |  |  |  |  |  |  |  |
+
+| 219. | 5-METILHEPTÁN-3-ON | CH3CH2COCH2CH3CHC2H5 | 541-85-5 | 53 | 106 |  |  | EU1 |
+
+| 220. | 5-METILHEXÁN-2-ON | C7H14O | 110-12-3 | 230 |  |  |  | EU1 |
+
+| 221. | METIL-IZOCIANÁT | CH3NCO | 624-83-9 |  | 0,047 |  | b, i, sz | I. EU4 |
+
+| metil-karbamid, lásd: metil-izocianát |  |  |  |  |  |  |  |
+
+| metil-karbonimid, lásd: metil-izocianát |  |  |  |  |  |  |  |
+
+| 222. | METIL-KLORID | CH3Cl | 74-87-3 | 105 | 420 |  |  | II.1. |
 
 | metilkloroform, lásd: 1,1,1-triklóretán |  |  |  |  |  |  |  |
 
-| 222. | METIL-MERKAPTÁN | CH3SH | 74-93-1 | 1 | 1 |  | i | V. |
+| 223. | METIL-MERKAPTÁN | CH3SH | 74-93-1 | 1 | 1 |  | i | V. |
 
-| 223. | METIL-METAKRILÁT | CH2=C(CH3)COOCH3 | 80-62-6 | 210 | 210 |  | b, i, sz | I. |
+| 224. | METIL-METAKRILÁT | CH2=C(CH3)COOCH3 | 80-62-6 | 208 | 415 |  | b, i, sz | I. EU4 |
 
-| 2-metoxietanol, lásd: etilén-glikol-monometil-éter |  |  |  |  |  |  |  |
+| 225. | METIL-PARATION | NO2C6H4OPS(CH3O)2 | 298-00-0 | 0,2 |  |  | b, sz |  |
 
-| 4.4'-metiléndianilin, lásd: 4,4'-diaminodifenilmetán |  |  |  |  |  |  |  |
+| 226. | 4-METILPENTÁN-2-ON (Izobutil-metil-keton) | C6H12O | 108-10-1 | 83 | 208 |  |  | EU1 |
 
-| 2-metoxianilin, lásd: o-anizidin |  |  |  |  |  |  |  |
+| 227. | N-METIL-2-PIRROLIDON | C5H9NO | 872-50-4 | 40 | 80 |  | b | EU4 |
 
-| 224. | METIL-PARATION | NO2C6H4OPS(CH3O)2 | 298-00-0 | 0,2 |  |  | b, sz | PIC |
+|  | 2-metoxianilin, lásd: o-anizidin |  |  |  |  |  |  |  |
 
-| 225. | 4-METILPENTÁN-2-ON (Izobutil-metil-keton) | C6H12O | 108-10-1 | 83 | 208 |  |  | EU3 |
+|  | 2-metoxietanol, lásd: etilén-glikol-monometil-éter |  |  |  |  |  |  |  |
 
-| 226. | 2-(2-METOXIETOXI)ETANOL | CH3O(CH2)2O(CH2)2OH | 111-77-3 | 50,1 |  |  |  | EU2 |
+| 228. | 2-(2-METOXIETOXI)ETANOL | CH3O(CH2)2O(CH2)2OH | 111-77-3 | 50,1 |  |  |  | EU2 |
 
-| 227. | (2-METOXIMETILETOXI)-PROPANOL (Dipropilén-glikol-monometil-éter) | C7H16O3 | 34590-94-8 | 308 | 308* |  |  | EU3 |
+| 229. | (2-METOXIMETILETOXI)-PROPANOL (Dipropilénglikol-monometil-éter) | C7H16O3 | 34590-94-8 | 308 | 308* |  |  | EU1 |
 
-| 228. | 1-METOXIPROPÁN-2-OL | CH3OCH2CHOHCH3 | 107-98-2 | 375 | 568 |  | b | EU3 |
+| 230. | 1-METOXIPROPÁN-2-OL | CH3OCH2CHOHCH3 | 107-98-2 | 375 | 568 |  | b | EU1 |
 
-| 229. | MEZITILÉN (trimetilbenzolok) | C6H3(CH3)3 | 108-67-8 | 100 | * |  | i | EU3 |
+| 231. | 1-METOXI-2-PROPIL-ACETÁT | CH3COOCH(CH3)CH2OCH3 | 108-65-6 | 275 | 550 |  |  | EU1 |
 
-| 230. | MIREX | C10Cl12 | 2385-85-5 |  |  |  | b | POP |
+| 232. | MEZITILÉN (1,3,5-trimetilbenzol) | C6H3(CH3)3 | 108-67-8 | 100 |  |  | i | EU1 |
 
-| 231. | MOLIBDÉN OLDHATÓ VEGYÜLETEI (Mo-ra számítva) |  |  | 5 | 20 |  |  | III. |
+| 233. | MIREX | C10Cl12 | 2385-85-5 |  |  |  | b |  |
 
-| 232. | MOLIBDÉN OLDHATATLAN VEGYÜLETEI (Mo-ra számítva) |  |  | 15 | 60 |  |  | III. |
+| 234. | MOLIBDÉN OLDHATATLAN VEGYÜLETEI (Mo-ra számítva) |  |  | 15 | 60 |  |  | III. |
 
-| 233. | MONOKROTOFOSZ | C7H14NO5P | 6923-22-4 | 0,25 |  |  | b | PIC |
+| 235. | MOLIBDÉN OLDHATÓ VEGYÜLETEI (Mo-ra számítva) |  |  | 5 | 20 |  |  | III. |
 
-| 234. | MORFOLIN | O(CH2)4NH | 110-91-8 | 36 | 72 |  | b, m | I. EU2 |
+| 236. | MONOKROTOFOSZ | C7H14NO5P | 6923-22-4 | 0,25 |  |  | b |  |
 
-| 235. | NAFTALIN | C10H8 | 91-20-3 | 50 |  |  | b, i | EU1 |
+| 237. | MORFOLIN | O(CH2)4NH | 110-91-8 | 36 | 72 |  | b, m | I. EU2 |
 
-| naftilén-diizocianát, lásd: diizocianátok narkotán, lásd: halotán |  |  |  |  |  |  |  |
+| 238. | NAFTALIN | C10H8 | 91-20-3 | 50 |  |  | b, i | EU1 |
 
-| 236. | 2-NAFTIL-AMIN | C10H9N | 91-59-9 |  |  | 0,005 | k |  |
+| 239. | 2-NAFTIL-AMIN | C10H9N | 91-59-8 |  |  | 0,005 | k |  |
 
-| 237. | NÁTRIUM-AZID | NaN3 | 26628-22-8 | 0,1 | 0,3 |  |  | EU3 |
+| naftilén-diizocianát, lásd: diizocianátok |  |  |  |  |  |  |  |
 
-| 238. | NÁTRIUM-HIDROXID | NaOH | 1310-73-2 | 2 | 2 |  | m | I. |
+| narkotán, lásd: halotán |  |  |  |  |  |  |  |
 
-| 239. | NEOPENTÁN | (CH4)C | 463-82-1 | 3000 |  |  |  | EU2 |
+| 240. | NÁTRIUM-AZID | NaN3 | 26628-22-8 | 0,1 | 0,3 |  |  | EU1 |
 
-| 240. | NIKKEL (fém) (Ni-re számítva) | Ni | 7440- 07-0 | 0,1 | 0,1 |  | sz | BEM |
+| 241. | NÁTRIUM-HIDROXID | NaOH | 1310-73-2 | 2 | 2 |  | m | I. |
 
-| 241. | NIKKEL-DIOXID (Ni-re számítva) | NiO2 | 12035-36-8 |  |  | 0,1 | k, sz | BEM |
+| 242. | NEOPENTÁN | (CH3)4C | 463-82-1 | 3000 |  |  |  | EU2 |
 
-| 242. | NIKKEL-OXID (Ni-re számítva) | NiO | 1313-99-1 |  |  | 0,1 | k, sz | BEM |
+| 243. | NIKKEL (fém) és SZERVETLEN VEGYÜLETEI, ….( NiO, NiCO3, NiS, Ni2O3) (Ni-re számítva) |  | 7440-02-0 |  |  | 0,1 | k, sz | BEM |
 
-| 243. | NIKKEL-SZULFID (Ni-re számítva) | NiS | 16812-54-7 |  |  | 0,1 | k, sz | BEM |
+| 244. | NIKKEL (fém) és SZERVETLEN VEGYÜLETEI , könnyen oldható (NiCl2 , NiOH, NiSO4,..) (Ni-re számítva) |  | 7440-02-0 |  |  | 0,1 | k, sz | BEM |
 
-| 244. | NIKKEL-TETRAKARBONIL | Ni(CO)4 | 13463-39-3 | 0,15 | 0,15 |  | b | VI. |
+| nikkel-oxid, lásd nikkel és szervetlen vegyületei | NiO | 1313-99-1 |  |  |  |  |  |
 
-| 245. | NIKOTIN | C10H14N2 | 54-11-5 | 0,5 |  |  | b, i | II.1. EU2 |
+| nikkel-szulfid, lásd nikkel és szervetlen vegyületei | NiS | 16812-54-7 |  |  |  |  |  |
 
-| 246. | 4-NITROANILIN | O2NC6H4NH2 | 100-01-6 | 6 |  |  | b, i |  |
+| 247. | NIKKEL-TETRAKARBONIL | Ni(CO)4 | 13463-39-3 | 0,15 | 0,15 |  | b | VI. |
+
+| nikkel-trioxid, lásd: dinikkel-trioxid |  |  |  |  |  |  |  |
+
+| 248. | NIKOTIN | C10H14N2 | 54-11-5 | 0,5 |  |  | b, i | II.1. EU2 |
+
+| 249. | 4-NITROANILIN | O2NC6H4NH2 | 100-01-6 | 6 |  |  | b, i |  |
 
 | p-nitroanilin, lásd: 4-nitroanilin |  |  |  |  |  |  |  |
 
-| 247. | NITROBENZOL | C6H5NO2 | 98-95-3 | 1 |  |  | b, i | II.1. EU2 |
+| 250. | NITROBENZOL | C6H5NO2 | 98-95-3 | 1 |  |  | b, i | II.1. EU2 |
 
-| 248. | 4-NITROKLÓRBENZOL | ClC6H4NO2 | 100-00-5 | 0,5 | 2 |  | b |  |
+| 251. | NITROGÉN-DIOXID | NO2 | 10102-44-0 | 9 | 9 |  | m | I. |
 
-| 249. | 2-NITRONAFTALIN | C10H7NO2 | 581-89-5 |  |  | 0,25 | k |  |
+| 252. | NITROGÉN-MONOXID | NO | 10102-43-9 | 30 |  |  |  | EU91 |
 
-| 250. | 1-NITROPROPÁN | CH3(CH2)2NO2 | 108-03-2 | 10 |  |  | i, b |  |
+| 253. | 4-NITROKLÓRBENZOL | ClC6H4NO2 | 100-00-5 | 0,5 | 2 |  | b |  |
 
-| 251. | 2-NITROPROPÁN | CH3CH(NO2)CH3 | 79-46-9 |  |  | 18 | k |  |
+| 254. | 2-NITRONAFTALIN | C10H7NO2 | 581-89-5 |  |  | 0,25 | k |  |
 
-| 252. | NITROGÉN-DIOXID | NO2 | 10102-44-0 | 9 | 9 |  | m | I. |
+| 255. | 1-NITROPROPÁN | CH3(CH2)2NO2 | 108-03-2 | 10 |  |  | i, b |  |
 
-| 253. | NITROGÉN-MONOXID | NO | 10102-43-9 | 30 |  |  |  | EU1 |
+| 256. | 2-NITROPROPÁN | CH3CH(NO2)CH3 | 79-46-9 |  |  | 18 | k |  |
 
-| 254. | NITROGLICERIN | C3H5(ONO2)3 | 55-63-0 | 0,5 | 2 |  | b, i, sz | II.1. |
+| 257. | OKTÁN (összes izomer) | C8H18 | 111-65-9 | 2350 | 9400 |  | i | II.1. |
 
-| 255. | OKTÁN (összes izomer) | CH3(CH2)6CH3 | 111-65-9 | 2350 | 9400 |  | i | II.1. |
+| 258. | OLAJ (ásványi) KÖD |  |  |  |  | 5 | k |  |
 
-| 256. | OLAJ (ásványi) KÖD |  |  |  |  | 5 | k |  |
+| 259. | ÓLOM és SZERVETLEN VEGYÜLETEI (Pb-ra számítva) | Pb | 7439-92-1 | 0,15 |  |  | i | III. BEM, BHM EUO |
 
-| 257. | ÓLOM és SZERVETLEN VEGYÜLETEI (Pb-ra számítva) | Pb | 7439-92-1 | 0,15** 0,05 resp | 0,6 0,2 resp |  | i | III. BEM |
+| 260. | ÓLOM-TETRAETIL | Pb(C2H5)4 | 78-00-2 | 0,05 | 0,2 |  | b, i | II.1. |
 
-| 258. | ÓLOM-TETRAETIL | Pb(C2H5)4 | 78-00-2 | 0,05 | 0,2 |  | b, i | II.1. |
+| 261. | ÓLOM-TETRAMETIL | Pb(CH3)4 | 75-74-l | 0,05 | 0,2 |  | b, i | II.1. |
 
-| 259. | ÓLOM-TETRAMETIL | Pb(CH3)4 | 75-74-1 | 0,05 | 0,2 |  | b, i | II.1. |
+| 262. | ÓN SZERVES VEGYÜLETEI (Sn-ra számítva) |  |  | 0,1 | 0,4 |  | b, i | II.1. |
 
-| 260. | ÓN SZERVES VEGYÜLETEI*** (Sn-ra számítva) |  |  | 0,1 | 0,4 |  | b, i | II.1. |
+| 263. | ÓN SZERVETLEN VEGYÜLETEI (Sn-ra számítva) |  |  | 2 | 8 |  | b, i | II.1. EU91 |
 
-| 261. | ÓN SZERVETLEN VEGYÜLETEI (Sn-ra számítva) |  |  | 2 | 8 |  | b, i | II.1. EU1 |
+| 264. | ORTOFOSZFORSAV | H3PO4 | 7664-38-2 | 1 | 2 |  | m | EU1 |
 
-| 262. | ORTOFOSZFORSAV | H3PO4 | 7664-38-2 | 1 | 2 |  | m | EU3 |
+| 265. | OXÁLSAV | HOOCCOOH | 144-62-7 | 1 |  |  |  | EU2 |
 
-| 263. | OXÁLSAV | HOOCCOOH | 144-62-7 | 1 |  |  |  | EU2 |
+| 266. | OZMIUM-TETRAOXID (Os-ra számítva) | OsO4 | 20816-12-0 | 0,002 | 0,002 |  | m, b |  |
 
-| 264. | OZMIUM-TETROXID (Os-ra számítva) | OsO4 | 20816-12-0 | 0,002 | 0,002 |  | m, b |  |
+| 267. | ÓZON | O3 | 10028-15-6 | 0,2 | 0,2 |  | i | I. |
 
-| 265. | ÓZON | O3 | 10028-15-6 | 0,2 | 0,2 |  | i | I. |
-
-| 266. | PARAKVÁT-DIKLORID | C12H14Cl2N2 | 1910-42-5 | 0,1 | 0,1 |  | b, i | I. |
+| 268. | PARAKVÁT-DIKLORID | C12H14Cl2N2 | 1910-42-5 | 0,1 | 0,1 |  | b, i | I. |
 
 | paraquat-diklorid, lásd: parakvát-diklorid |  |  |  |  |  |  |  |
 
-| 267. | PARATION | C10H14O5NSP | 56-38-2 | 0,1 |  |  | b | PIC |
+| 269. | PARATION | C10H14O5NSP | 56-38-2 | 0,1 |  |  | b |  |
 
-| 268. | PBB-k*** Hexabróm-1,1'-bifenil Oktabróm-1,1'-bifenil Dekabróm-1,1'-bifenil | C12H4Br6 C12H2Br6 C12Br10 | 36355-01-8 27858-07-7 13654-09-6 |  |  |  |  | PIC |
+| 270. | PBB-k Hexabróm-1,1’-bifenil; | C12H4Br6 ; C12H2Br8 ; | 36355-01-8 27858-07-7 |  |  |  |  |  |
 
-| 269. | PCB-k POLIKLÓROZOTT BIFENILEK*** |  | 11097-69-1 1336-36-3 |  |  |  |  | POP POP és PIC |
+|  | Oktabróm-1,1’-bifenil; Dekabróm-1,1’-bifenil | C12Br10 | 13654-09-6 |  |  |  |  |  |
 
-| 270. | POLIKLÓROZOTT TERFENILEK |  | 61788-33-8 |  |  |  |  | PIC |
+| 271. | PCB-k POLIKLÓROZOTT BIFENILEK |  | 11097-69-1 1336-36-3 |  |  |  |  |  |
 
-| 271. | PENTAKLÓRFENOL ÉS SÓI*** | C6Cl5OH | 87-86-5 | 0,001 |  |  | b, i | PIC |
+| 272. | PENTAKLÓRFENOL ÉS SÓI | C6Cl5OH | 87-86-5 | 0,001 |  |  | b, i |  |
 
-| 272. | PENTAKLÓRNAFTALIN | C10H3Cl5 | 1321-64-8 | 0,5 | 2 |  | b, i, sz | II.2. |
+| 273. | PENTAKLÓRNAFTALINOK | C10H3Cl5 | 1321-64-8 | 0,5 | 2 |  | b, i, sz | II.2. |
 
-| 273. | n-PENTÁN | CH3(CH2)3CH3 | 109-66-0 | 2950 |  |  |  | IV.EU2 |
+| 274. | n-PENTÁN | CH3(CH2)3CH3 | 109-66-0 | 2950 |  |  |  | IV. EU2 |
 
-| 274. | PENTIL-ACETÁT | CH3COO(CH2)4CH3 | 628-63-7 | 270 | 540 |  | i | EU3 |
+| 275. | PENTIL-ACETÁT | CH3COO(CH2)4CH3 | 628-63-7 | 270 | 540 |  | i | EU1 |
 
-| 275. | 3-PENTIL-ACETÁT | CH3COOCH(C2H5)C2H5 | 620-11-1 | 270 | 540 |  | i | EU3 |
+| 276. | 3-PENTIL-ACETÁT | CH3COOCH(C2H5)C2H5 | 620-11-1 | 270 | 540 |  | i | EU1 |
 
-| 276. | PIKRINSAV | C6H2CH3(NO2)3 | 88-89-1 | 0,1 | 0,1 |  | b, i, sz | I. EU1 |
+| 277. | PIKRINSAV | C6H2CH3(NO2)3 | 88-89-1 | 0,1 | 0,1 |  | b, i, sz | I. EU91 |
 
-| 277. | PIPERAZIN | C4H10N2 | 110-85-0 | 0,1 | 0,3 |  |  | EU3 |
+| 278. | PIPERAZIN | C4H10N2 | 110-85-0 | 0,1 | 0,3 |  |  | EU1 |
 
-| 278. | PIRETRUM |  | 8003-34-7 | 1 |  |  |  | EU2 |
+| 279. | PIRETRUM |  | 8003-34-7 | 1 |  |  |  | EU2 |
 
-| 279. | PIRIDIN | C5H5N | 110-86-1 | 15 | 60 |  | b, i, sz | II.1. |
+| 280. | PIRIDIN | C5H5N | 110-86-1 | 15 | 60 |  | b, i, sz | II.1. |
+
+| 281. | PLATINA FÉM | Pt | 7440-06-4 | 1 |  |  |  | EU1 |
+
+| 282. | PLATINA OLDHATÓ VEGYÜLETEI (Pt-ra számítva) |  |  | 0,002 |  |  | i, sz |  |
+
+| 283. | POLIKLÓROZOTT TERFENILEK |  | 61788-33-8 |  |  |  |  |  |
 
 | porok (szálló porok) egyéb porok, lásd: 1.2.1. |  |  |  |  |  |  |  |
 
-| 280. | PLATINA FÉM | Pt | 7440-06-4 | 1 |  |  |  | EU1 |
+| 284. | PORTLAND CEMENT |  | 65997-15-1 | 10 |  |  |  |  |
 
-| 281. | PLATINA OLDHATÓ VEGYÜLETEI (Pt-ra számítva) |  |  | 0,002 |  |  | i, sz |  |
-
-| 282. | PORTLAND CEMENT |  | 65997-15-1 | 10 |  |  |  |  |
-
-| 283. | PROPIONSAV | CH3CH2COOH | 79-09-4 | 31 | 62 |  | m | EU3 |
-
-| 284. | PROPIL-ACETÁT | CH3(CH2)2COOCH3 | 109-60-4 | 840 | 840 |  | b, i | I. |
-
-| 285. | 2-PROPIL-ALKOHOL | CH3CH(OH)CH3 | 67-63-0 | 500 | 2000 |  | b, i | II.1. |
+| 285. | PROPIL-ACETÁT | CH3(CH2)2COOCH3 | 109-60-4 | 840 | 840 |  | b, i | I. |
 
 | propilén-imin, lásd: metilaziridin |  |  |  |  |  |  |  |
 
@@ -710,135 +766,139 @@
 
 | 287. | 1,3-PROPIOLAKTON | C3H4O2 | 57-57-8 |  |  | 1,5 | k |  |
 
-| 288. | REZORCIN | C6H4(OH)2 | 108-46-3 | 45 |  |  | b, i | EU2 |
-
-| rezorcinol, lásd: rezorcin |  |  |  |  |  |  |  |
+| 288. | PROPIONSAV | CH3CH2COOH | 79-09-4 | 31 | 62 |  | m | EU1 |
 
 | 289. | RÉZ és vegyületei (Cu-re számítva) | Cu | 7440-50-8 | 1 | 4 |  |  | II.1. |
 
 | 290. | RÉZ, FÜST | Cu | 7440-50-8 | 0,1 | 0,4 |  |  | II.1. |
 
+| 291. | REZORCIN | C6H4(OH)2 | 108-46-3 | 45 |  |  | b, i | EU2 |
+
+| rezorcinol, lásd: rezorcin |  |  |  |  |  |  |  |
+
 | Rostszerkezetű porok, lásd: 1.2.2. |  |  |  |  |  |  |  |
 
-| 291. | SALÉTROMSAV | HNO3 | 7697-37-2 |  | 2,6 |  | i, m | I. EU2 |
+| 292. | SALÉTROMSAV | HNO3 | 7697-37-2 |  | 2,6 |  | i, m | I. EU2 |
 
-| 292. | SÓSAV | HCl | 7647-01-0 | 8 | 16 |  | i, m | I. EU3 |
+| 293. | SÓSAV | HCl | 7647-01-0 | 8 | 16 |  | i, m | EU1 |
 
-| Szelén-hidrogén, lásd: dihidrogén-szelenid |  |  |  |  |  |  |  |
+| 294. | STRONCIUM-KROMÁT (Cr VI-ra számítva) | SrCrO4 | 7789-06-2 |  |  | 0,05 | k |  |
 
-| 293. | STRONCIUM-KROMÁT | SrCrO4 | 7789-06-2 |  |  | 0,05 | k |  |
+|  | Szelén-hidrogén, lásd: dihidrogén-szelenid |  |  |  |  |  |  |  |
 
-| 294. | SZELÉN-VEGYÜLETEK (Se-re számítva) |  |  | 0,1 | 0,4 |  | i | III. BEM |
+| 295. | SZELÉNVEGYÜLETEK (Se-re számítva) |  |  | 0,1 | 0,4 |  | i | III. BEM |
 
-| 295. | SZÉN-DIOXID | CO2 | 124-38-9 | 9000 |  |  |  | EU2 |
+| 296. | SZÉN-DIOXID | CO2 | 124-38-9 | 9000 |  |  |  | EU2 |
 
-| 296. | SZÉN-DISZULFID | CS2 | 75-15-0 | 30 | 120 |  | b, i, m | II.1. |
+| 297. | SZÉN-DISZULFID | CS2 | 75-15-0 | 15 |  |  | b, i, m | II.1. EU4 |
 
-| 297. | SZÉN-MONOXID | CO | 630-08-0 | 33 | 66 |  |  | II.1. |
+| 298. | SZÉN-MONOXID | CO | 630-08-0 | 33 | 66 |  |  | II.1. BHM |
 
-| szén-oxi-klorid, lásd: foszgén |  |  |  |  |  |  |  |
+| szén-oxiklorid, lásd: foszgén |  |  |  |  |  |  |  |
 
-| 298. | SZÉN-TETRAKLORID*** | CCl4 | 56-23-5 | Magyarországon betiltott! |
+| 299. | SZÉN-TETRAKLORID*** | CCl4 | 56-23-5 | Magyarországon betiltott |  |  |  |
 
 | sztibin, lásd: antimon-hidrogén |  |  |  |  |  |  |  |
 
-| 299. | SZULFOTEP | (C2H5)4P2S2O5 | 3689-24-5 | 0,1 | 0,4* |  |  | EU3 |
-
 | 300. | SZTIROL | C6H5CH=CH2 | 100-42-5 | 50 | 50 |  | i | VI. BEM |
+
+| 301. | SZULFOTEP | (C2H5)4P2S2O5 | 3689-24-5 | 0,l | 0,4* |  |  | EU1 |
 
 | talkum, lásd: 1.2.1. és 1.2.2. |  |  |  |  |  |  |  |
 
-| 301. | TALLIUM OLDHATÓ VEGYÜLETEI (TI-ra számítva) |  |  | 0,1 | 0,4 |  | b, i | III. |
-
-| 302. | TERC-AMIL-ACETÁT | CH3COOC(CH3)2C2H5 | 625-16-1 | 270 | 540 |  |  | EU3 |
+| 302. | TALLIUM OLDHATÓ VEGYÜLETEI (Tl-ra számítva) |  |  | 0,1 | 0,4 |  | b, i | III. |
 
 | 303. | TERPENTIN |  | 8006-64-2 | 560 | 560 |  | i, sz, b | I. |
 
-| 304. | TETRAHIDROFURÁN | (CH2)4O | 109-99-9 | 150 | 300 |  | b, i | II.2. EU3 |
+| 304. | TETRAHIDROFURÁN | (CH2)4O | 109-99-9 | 150 | 300 |  | b, i | II.2. EU1 |
 
-|  | 1,2,3,6-tetrahidro-N-(1,1,2,2-tetraklór-etiltio)ftálimid, lásd: kaptafol |  |  |  |  |  |  |  |
+| 1,2,3,6-tetrahidro-N-(1,1,2,2-tetraklór etiltio)ftálimid, lásd: kaptafol |  |  |  |  |  |  |  |
 
-| 305. | 1,1,2,2-TETRAKLÓRETÁN*** | Cl2CHCHCl2 | 79-34-5 | 7 |  |  | b |  |
+| 305. | 1,1,2,2-TETRAKLÓRETÁN | Cl2CHCHCl2 | 79-34-5 | 7 |  |  | b |  |
 
 | 306. | TETRAKLÓRETILÉN | Cl2C=CCl2 | 127-18-4 | 50 | 50 |  | b | VI. |
 
 | tetraklórmetán, lásd: szén-tetraklorid |  |  |  |  |  |  |  |
 
-| timföld, lásd: alumínium-oxid |  |  |  |  |  |  |  |
+| timföld, lásd: dialumínium-trioxid |  |  |  |  |  |  |  |
 
 | 307. | TIOGLIKOLSAV | HSCH2COOH | 68-11-1 | 4 |  |  | b, m |  |
 
-| 308. | TOLUOL | C6H5CH3 | 108-88-3 | 190 | 380 |  | b, i | II.2. BEM EU2 |
+| 308.. | 2-TOLUIDIN | CH3C6H4NH2 | 95-53-4 |  |  | 0,5 | k, i, b |  |
 
-| 309. | TOLUOL-2,4-DIIZOCIANÁT | CH3C6H3(NCO)2 | 584-84-9 |  |  | 0,035 | k, i, sz |  |
+| 309. | 3-TOLUIDIN | CH3C6H4NH2 | 108-44-1 | 9 |  |  | b |  |
 
-| 310. | TOLUOL-2,6-DIIZOCIANÁT | CH3C6H3(NOCO)2 | 91-08-7 |  |  | 0,035 | k, i, sz |  |
+| 310. | 4-TOLUIDIN | CH3C6H4NH2 | 106-49-0 | 1 | 4 |  | b |  |
 
-| 311. | 2-TOLUIDIN | CH3C6H4NH2 | 95-53-4 |  |  | 0,5 | k, i, b |  |
+| 311. | TOLUOL | C6H5CH3 | 108-88-3 | 190 | 380 |  | b, i | II.2. BEM EU2 |
 
-| 312. | 3-TOLUIDIN | CH3C6H4NH2 | 108-44-1 | 9 |  |  | b |  |
+| 312. | TOLUOL-2,4-DIIZOCIANÁT | CH3C6H3(NCO)2 | 584-84-9 |  |  | 0,035 | k, i, sz |  |
 
-| 313. | 4-TOLUIDIN | CH3C6H4NH2 | 106-49-0 | 1 | 4 |  | b |  |
+| 313. | TOLUOL-2,6-DIIZOCIANÁT | CH3C6H3(NCO)2 | 91-08-7 |  |  | 0,035 | k, i, sz |  |
 
-| 314. | TOXAFÉN |  | 8001-35-2 |  |  |  | b, i | POP |
+| 314. | TOXAFÉN |  | 8001-35-2 |  |  |  | b, i |  |
 
-| 315. | TRIETIL-AMIN | N(C2H5)3 | 121-44-8 | 8,4 | 12,6 |  | b, i, m | V. EU3 |
+| 315. | TRIETIL-AMIN | N(C2H5)3 | 121-44-8 | 8,4 | 12,6 |  | b, i, m | V. EU1 |
 
-| 316. | TRIKLÓRBENZOL (minden izomer) | C6H3Cl3 | 12002-48-1 | 38 | 152 |  | b | III. |
+| 316. | TRIKLÓRBENZOLOK (1,2,4-TRIKLÓRBENZOL kivételével ) | C6H3Cl3 | 12002-48-1 | 38 | 72 |  | b | III. |
 
-| 317. | 1,2,4-TRIKLÓRBENZOL | C6H3Cl3 | 120-82-1 | 15,1 | 37,8 |  | b | EU3 |
+| 317. | 1,2,4-TRIKLÓRBENZOL | C6H3Cl3 | 120-82-1 | 15,1 | 37,8 |  | b | EU1 |
 
-| 318. | 1,1,1-TRIKLÓRETÁN*** | CH3CCl3 | 71-55-6 | 555 | 1110 |  | b, i | II.2. EU3 |
+| 318. | 1,1,1-TRIKLÓRETÁN*** | CH3CCl3 | 71-55-6 | 555 | 1110 |  | b, i | II.2. EU1 |
 
-| 319. | 1,1,2-TRIKLÓRETÁN*** | ClCH2CHCl2 | 79-00-5 | Magyarországon betiltott! |
+| 319. | 1,1,2-TRIKLÓRETÁN*** | ClCH2CHCl2 | 79-00-5 | Magyarországon betiltott |  |  |  |
 
 | 320. | TRIKLÓRETILÉN | Cl2C=CHCl | 79-01-6 | 270 | 540 |  | sz | BEM |
 
-| 321. | 2,4,5-TRIKLÓRFENOXIECETSAV 2,4,5-T | Cl3C6H2OCH2COOH | 93-76-5 | 10 | 40 |  | b, i | II.2. PIC |
+| 321. | 2,4,5-TRIKLÓRFENOXIECETSAV; (2,4,5-T) | Cl3C6H2OCH2COOH | 93-76-5 | 10 | 40 |  | b, i | II.2. |
 
 | triklórfluormetán F11, lásd: freonok |  |  |  |  |  |  |  |
 
-| 322. | TRIKLÓRNAFTALIN | C10H5Cl3 | 1321-65-9 | 5 |  |  | b, i, sz |  |
+| 322. | TRIKLÓRNAFTALINOK | C10H5Cl3 | 1321-65-9 | 5 |  |  | b, i, sz |  |
 
 | triklórtrifluoretán F113, lásd: freonok |  |  |  |  |  |  |  |
 
-| 323. | TRIMETILAMIN | N(CH3)3 | 75-50-3 | 12,3 | 36,9 |  | m, sz |  |
+| 323. | TRI-o-KREZIL-FOSZFÁT | (CH3C6H4)3PO4 | 78-30-8 | 0,1 |  |  | b, i, sz |  |
 
-| 324. | 1,2,3-TRIMETILBENZOL | C6H3(CH3)3 | 526-73-8 | 100 | * |  |  | EU3 |
+| 324. | TRIMETIL-AMIN | N(CH3)3 | 75-50-3 | 12,3 | 36,9 |  | m, sz |  |
 
-| 325. | 1,2,4-TRIMETILBENZOL | C6H3(CH3)3 | 95-63-6 | 100 | * |  |  | EU3 |
+| 325. | 1,2,3-TRIMETILBENZOL | C6H3(CH3)3 | 526-73-8 | 100 |  |  |  | EU1 |
 
-| 326. | TRINIKKEL-DISZULFID | Ni3S2 | 12035-72-2 |  |  | 0,01 | k, sz |  |
+| 326. | 1,2,4-TRIMETILBENZOL | C6H3(CH3)3 | 95-63-6 | 100 |  |  |  | EU1 |
 
-| 327. | TRINITROTOLUOL | CH3C6H2(NO2)3 | 118-96-7 | 0,09 | 0,36 |  | b | II.1. |
+| 327. | TRINIKKEL-DISZULFID (Ni-re számítva) | Ni3S2 | 12035-72-2 |  |  | 0,01 | k, sz |  |
 
-| vanádium-pentoxid, lásd: divanádium-pentoxid |  |  |  |  |  |  |  |
+| 328. | 2,4,6- TRINITROTOLUOL | CH3C6H2(NO2)3 | 118-96-7 | 0,09 | 0,36 |  | b | II.1. |
 
-| 328. | TRI-o-KREZIL-FOSZFÁT | (CH3C6H4)3PO4 | 78-30-8 | 0,1 |  |  | b, i, sz |  |
+| 329. | TRISZ(2,3-DIBRÓMPROPIL)-FOSZFÁT*** | C9H15Br6O4P | 126-72-7 |  |  |  |  |  |
 
-| 329. | TRISZ(2,3-DIBRÓMPROPIL)-FOSZFÁT*** | C9H15Br6O4P | 126-72-7 |  |  |  |  | PIC |
+|  | vanádium-pentoxid, lásd: divanádium-pentoxid |  |  |  |  |  |  |  |
 
-| 330. | VAS(II)-OXID | FeO | 1345-25-1 | 6 resp |  |  |  |  |
+| 330. | VAS(II)-OXID (Fe-ra számítva) | FeO | 1345-25-1 | 6 resp |  |  |  |  |
 
-| 331. | VAS(III)-OXID | Fe2O3 | 1309-37-1 | 6 resp |  |  |  |  |
+| 331. | VAS(III)-OXID (Fe-ra számítva) | Fe2O3 | 1309-37-1 | 6 resp |  |  |  |  |
 
-| 332. | VINIL-BROMID | CH2=CHBr | 593-60-2 |  |  | 22 | k |  |
+| 332. | VINIL-ACETÁT | CH2=CHOOCCH3 | 108-05-4 | 17,6 | 35,2 |  |  | EU4 |
 
-| 333. | VINIL-KLORID*** | CH2=CHCl | 75-01-4 |  |  | 7,77 | k |  |
+| 333. | VINIL-BROMID | CH2=CHBr | 593-60-2 |  |  | 22 | k |  |
 
-| 334. | XILOL(ok) | C6H4(CH3)2 | 1330-20-7 | 221 | 442 |  | b | EU3 |
+| 334. | VINIL-KLORID | CH2=CHCl | 75-01-4 |  |  | 7,77 | k |  |
 
-| 335. | m-XILOL | C6H4(CH3)2 | 108-38-3 | 221 | 442 |  | b | EU3 |
+| 335. | XILOL(ok) | C6H4(CH3)2 | 1330-20-7 | 221 | 442 |  | b | EU1 |
 
-| 336. | p-XILOL | C6H4(CH3)2 | 106-42-3 | 221 | 442 |  | b | EU3 |
+| 336. | m-XILOL | C6H4(CH3)2 | 108-38-3 | 221 | 442 |  | b | EU1 |
 
-| 337. | o-XILOL | C6H4(CH3)2 | 95-47-6 | 221 | 442 |  | b | EU3 |
+| 337. | o-XILOL | C6H4(CH3)2 | 95-47-6 | 221 | 442 |  | b | EU1 |
 
-| 338. | XILIDIN(ek) | (CH3)2C6H3NH2 | 1300-73-8 | 25 |  |  | b |  |
+| 338. | p-XILOL | C6H4(CH3)2 | 106-42-3 | 221 | 442 |  | b | EU1 |
+
+| 339. | XILIDIN(ek) | (CH3)2C6H3NH2 | 1300-73-8 | 25 |  |  | b |  |
 
 ## Magyarázat:
 
-| resp: | respirábilis por; |
+| resp: | respirábilis frakció; |
+
+| torak | torakális frakció |
 
 | b: | bőrön át is felszívódik. Az ÁK-értékek a veszélyes anyagoknak ezt a tulajdonságát, illetve az ebből származó expozíciót csak a levegőben megengedett koncentrációjuk mértékének megfelelően veszik figyelembe; |
 
@@ -850,13 +910,15 @@
 
 | sz: | túlérzékenységet okozó (szenzibilizáló) tulajdonságú anyag (az anyagra érzékeny egyéneken „túlérzékenységen” alapuló bőr-, légzőrendszeri, esetleg más szervet/szervrendszert károsító megbetegedést okozhat); |
 
-| PIC, POP | ezen fogalmakat az egyes veszélyes anyagok és veszélyes készítmények behozatalával, illetve kivitelével összefüggő bejelentési és előzetes tájékoztatáson alapuló jóváhagyási eljárásról szóló EüM-FVM-KöM-GM együttes rendelet tartalmazza; |
-
-| * | „Európai indikatív” határértékek (96/94/EK, 2000/39/EK), amelyeknél nincs csúcskoncentráció megadva. Ezekben az esetekben jelen melléklet 1.3. pontja szerint kell eljárni; |
+| * | „Európai indikatív” határértékek (96/94/EK, 2000/39/EK, 2006/15/EK, 2009/161/EU), amelyeknél nincs csúcskoncentráció megadva. Ezekben az esetekben jelen melléklet 1.3. pontja szerint kell eljárni; |
 
 | ** | 98/24/EK irányelvben közölt érték; |
 
 | *** | az anyagra vonatkozó korlátozásokat a veszélyes anyagok és veszélyes készítményekkel kapcsolatos egyes tevékenységek korlátozásáról szóló EüM-KöM együttes rendelet tartalmazza; |
+
+| EUO | 98/24/EK irányelvben közölt érték; |
+
+| EUA | 2009/148/EK irányelvben közölt érték; |
 
 | EU1 | 91/322/EGK irányelvben közölt érték; |
 
@@ -864,65 +926,89 @@
 
 | EU3 | 2000/39/EK irányelvben közölt érték; |
 
+| EU4 | 2009/161/EU irányelvben közölt érték |
+
 | BEM | biológiai expozíciós mutató. |
 
-| mg/m3 | milligram légköbméterenként, 20 oC -on és 101,3 KPa légköri nyomáson |
+| BHM | biológiai hatásmutató |
 
-## Megjegyzés: a nem gőz/gázállapotú toxikus anyagok határértékei a belélegezhető porfrakcióra vonatkoznak (MSZ EN 481).
+| mg/m3 | milligram légköbméterenként, 20 °C-on és 101,3 KPa légköri nyomáson |
+
+## Megjegyzés: a nem gőz/gázállapotú veszélyes anyagok határértékei a belélegezhető frakcióra vonatkoznak (MSZ EN 481).
 
 ## 1.2. Szálló porok - ásványi, szerves
 
 ## 1.2.1. Szemcsés szerkezetű porok megengedett koncentrációi mg/m3-ben
 
-| Megnevezés | Megengedett koncentráció, mg/m3-ben |
+|  | A | B | C |
 
-|  | Totális (belélegezhető) | Respirábilis |
+| 1 | Megnevezés | Megengedett koncentráció, mg/m3-ben |
 
-| Talkum (azbesztmentes) |  | 2 |
+|  |  | Belélegezhető | Respirábilis |
 
-| Kvarc Krisztobalit Tridimit |  | 0,15 0,15 0,15 |
+| 2 | Talkum (azbesztmentes) |  | 2 |
 
-| Fapor | 5 |  |
+| 3 | Kvarc |  | 0,15 |
 
-| Egyéb inert porok* | 10 | 6 |
+| 4 | Krisztobalit |  | 0,15 |
+
+| 5 | Tridimit |  | 0,15 |
+
+| 6 | Fapor | 5 |  |
+
+| 7 | Egyéb inert porok* | 10 | 6 |
 
 ## * Megjegyzés: Nincs egészségkárosító (pl. mutagén, rákkeltő, fibrogén, mérgező, allergizáló, irritatív, egyéb mérgező) hatása.
 
 ## 1.2.2. Rostszerkezetű porok megengedett koncentrációi rost/cm3-ben
 
-| Megnevezés (CAS-számok) | Megengedett koncentráció (rost/cm3) |
+|  | A | B | C |
 
-| Azbeszt | aktinolit (77536-66-4) amozit (12172-73-5) antofillit (77536-67-5) krizotil (12001-29-5) krokidolit (12001-28-4) tremolit (77536-68-6) akár magában, akár elegyítve betiltott* | 0,1 (idővel súlyozott átlag 8 órára vonatkoztatva) |
+| 1 | Megnevezés (CAS-számok) | Megengedett koncentráció (rost/cm3) |
 
-| Egyéb rostszerkezetű porok | Üveg, ásvány, kerámia, műanyag | 1,0 |
+| 2 | Azbeszt | aktinolit (77536-66-4) | 0,1 (idővel súlyozott átlag 8 órára vonatkoztatva) |
 
-## * Az azbeszt valamennyi formájának előállítása, felhasználása Magyarországon tiltott. [Lásd: 41/2000. (XII. 20.) EüM-KöM együttes rendelet]
+| 3 |  | amozit (12172-73-5) |  |
+
+| 4 |  | antofillit (77536-67-5) |  |
+
+| 5 |  | krizotil (12001-29-5) |  |
+
+| 6 |  | krokidolit (12001-28-4) |  |
+
+| 7 |  | tremolit (77536-68-6) |  |
+
+| 8 |  | akár magában, akár elegyítve betiltott* |  |
+
+| 9 | Egyéb rostszerkezetű porok | Üveg, ásvány, kerámia, műanyag | 1,0 |
+
+## * Az azbeszt valamennyi formájának előállítása, forgalomba hozatala, felhasználása Magyarországon tiltott.
 
 ## 1.3. Az egyes anyagok csúcskoncentráció szerinti besorolása jellemző tulajdonságaik alapján
 
-| Kategó-ria | KATEGÓRIA | CSÚCSKONCENTRÁCIÓ |
+|  | A | B | C | D | E |
 
-| jele | (BESOROLÁS) | ÉRTÉKE (CK)(a) | IDŐTARTAMA (perc) | MŰSZAKONKÉNTI GYAKORISÁGA(b) |
+| 1 |  |  | CSÚCSKONCENTRÁCIÓ |
 
-| I. | HELYILEG IRRITÁLÓ ANYAGOK | ÁK |  |  |
+| 2 | Kategória jele | KATEGÓRIA (BESOROLÁS) | ÉRTÉKE (CK)(a) | IDŐTARTAMA (perc) | MŰSZAKONKÉNTI GYAKORISÁGA(b) |
 
-| II. | FELSZÍVÓDVA HATÓ ANYAGOK Az anyag hatásának fellépése 2 órán belül II.1: Felezési idő <2 óra II.2. Felezési idő 2 órától teljes munkaidőig | 4 x ÁK | 15 | 4 |
+| 3 | I. | HELYILEG IRRITÁLÓ ANYAGOK | ÁK |  |  |
 
-| III. | FELSZÍVÓDVA HATÓ ANYAGOK Hatás fellépésének ideje >2 óra Felezési idő > Műszak idő (ERŐSEN KUMULÁLÓDÓ) | 4 x ÁK | 15 | 4 |
+| 4 | II. | FELSZÍVÓDVA HATÓ ANYAGOK Az anyag hatásának fellépése 2 órán belül II.1: Felezési idő <2 óra II.2. Felezési idő 2 órától teljes munkaidőig | 4 x ÁK | 15 | 4 |
 
-| IV. | NAGYON GYENGE KÁROSÍTÓ HATÁSÚ ANYAGOK ÁK >500 ml/m3 (a) | 4 x ÁK | 15 | 4 |
+| 5 | III. | FELSZÍVÓDVA HATÓ ANYAGOK Hatás fellépésének ideje >2 óra Felezési idő > Műszak idő (ERŐSEN KUMULÁLÓDÓ) | 4 x ÁK | 15 | 4 |
 
-| V. | INTENZÍV SZAGÚ ANYAGOK | ÁK |  |  |
+| 6 | IV. | NAGYON GYENGE KÁROSÍTÓ HATÁSÚ ANYAGOK ÁK >500 ml/m3 (a) | 4 x ÁK | 15 | 4 |
 
-| VI. | IRREVERZIBILIS KÁROSODÁST OKOZÓ ANYAGOK | ÁK |  |  |
+| 7 | V. | INTENZÍV SZAGÚ ANYAGOK | ÁK |  |  |
 
-|  | EGYÉB | 8 x ÁK | 60 perc/műszak |  |
+| 8 | VI. | IRREVERZIBILIS KÁROSODÁST OKOZÓ ANYAGOK | ÁK |  |  |
+
+| 9 |  | EGYÉB | 8 x ÁK | 60 perc/műszak |  |
 
 ## (a) Az 500 ml/m3 érték átszámítása mg/m3 koncentráció egységre, 20 °C-on:
 
-## , ahol „M” – a vegyi anyag moltömege
-
-## (b) Az I. és V. kategóriájú anyagok, anyagcsoportok esetében a megadott CK-érték megegyezik az ÁK-értékkel, ellenőrzése legfeljebb 15 perces mintavétellel történik.
+## (b) Az I. és V. kategóriájú anyagok, anyagcsoportok esetében a megadott CK-érték megegyezik az ÁK-értékkel, ellenőrzése legfeljebb IS perces mintavétellel történik.
 
 ## A II-IV. kategóriájú anyagok, anyagcsoportok esetében a megadott CK-érték 15 perces átlagérték és a túllépési tényező 4. (A túllépési tényező fejezi ki, hogy a CK-érték hányszorosa az ÁK-értéknek.) Az egyes csúcskoncentrációk időintervallumai között legalább a csúcskoncentrációk időintervallumánál háromszor hosszabb időnek kell eltelnie (pl. 15 perces csúcskoncentráció után legalább 45 perc). A csúcskoncentrációk időtartama egy műszak alatt összesen a 60 percet nem haladhatja meg.
 
@@ -948,13 +1034,13 @@
 
 ## ahol:
 
-## C1, C2, ... Cn a t1, t2, ..., tn időszakokhoz tartozó légszennyező anyagok koncentrációi (mg/m3).
+## C1, C2, ... Cn a t1, t2, ... tn időszakokhoz tartozó légszennyező anyagok koncentrációi (mg/m3).
 
-## t1 + t2 ... + tn = 8 óra
+## t1 + t2... + tn = 8 óra
 
 ## 2.2. Határérték meghatározása több veszélyes anyag munkatérben való egyidejű jelenléte esetén.
 
-## 2.2.1. Additív hatások. Ha a munkatérben két vagy több, azonos szervrendszerre ható veszélyes anyag (hSz)⊕ van jelen, ezek hatása összegződik - additív hatás.
+## 2.2.1. Additív hatások. Ha a munkatérben két vagy több, azonos szervrendszerre ható veszélyes anyag (hSz) (+) van jelen, ezek hatása összegződik - additív hatás.
 
 ## Hasonlóképpen additív hatásúnak kell tekinteni a mutagén (M) és a karcinogén (K) anyagokat is.
 
@@ -962,7 +1048,7 @@
 
 ## ahol:
 
-## hSz: azonos szervre, szervrendszerre ható anyag; hSz1-nc: azonos szervre; szervrendszerre ható anyagok koncentrációja a munkatérben;
+## hSz: azonos szervre, szervrendszerre ható, anyag; hSz1-nc: azonos szervre; szervrendszerre ható anyagok koncentrációja a munkatérben;
 
 ## M1-nc: mutagén anyagok koncentrációja a munkatérben;
 
@@ -970,7 +1056,7 @@
 
 ## hSz1-nÁK, M1-nÁK, K1-nMK: az adott azonos szervre/szervrendszerekre ható, mutagén, illetve karcinogén anyagok ÁK-, illetőleg MK-értéke;
 
-## ⊕magyarázat hSz anyagokhoz: pl. valamennyi szerves oldószer hat az idegrendszerre! A maró, irritáló, szenzibilizáló anyagok túlnyomó többsége hat a bőrre, szemre, nyálkahártyákra! Csaknem valamennyi nehézfém hat a parenchimás szervekre!
+## (+) magyarázat hSz anyagokhoz: pl. valamennyi szerves oldószer hat az idegrendszerre! A maró, irritáló szenzibilizáló anyagok túlnyomó többsége hat a bőrre, szemre, nyálkahártyákra! Csaknem valamennyi nehézfém hat a parenchimás szervekre!
 
 ## * ha az adott mutagén anyagoknak MK-értéke van, az ÁK-érték helyett az szerepeljen!
 
@@ -982,20 +1068,20 @@
 
 ## ahol:
 
-| C1: | a munkatérben mért nem rákkeltő anyag koncentrációja; |
+## C1: a munkatérben mért nem rákkeltő anyag koncentrációja;
 
-| R1: | a munkatérben mért rákkeltő anyag koncentrációja; |
+## R1: a munkatérben mért rákkeltő anyag koncentrációja;
 
-| ÁK: | átlagos koncentráció (nem rákkeltő anyagok munkahelyen megengedett koncentrációi); |
+## ÁK: átlagos koncentráció (nem rákkeltő anyagok munkahelyen megengedett koncentrációi);
 
-| MK: | maximális koncentráció (rákkeltők munkahelyen eltűrt koncentrációja); |
+## MK: maximális koncentráció (rákkeltők munkahelyen eltűrt koncentrációja);
 
-| 1,2, ... n: | az egyes nem rákkeltő, illetőleg rákkeltő anyagok indexeit úgy kell értelmezni, hogy a számlálóban és a nevezőben szereplő azonos indexek azonos anyagot jelentenek. |
+## 1,2, ... n: az egyes nem rákkeltő, illetőleg rákkeltő anyagok indexeit úgy kell értelmezni, hogy a számlálóban és a nevezőben szereplő azonos indexek azonos anyagot jelentenek.
 
-| Megjegyzés: | Azokat az anyagokat, amelyekre nézve a melléklet ÁK/MK-értéket nem tartalmaz, a képlet alkalmazása során figyelmen kívül kell hagyni.” |
+## Megjegyzés: Azokat az anyagokat, amelyekre nézve a melléklet ÁK/MK-értéket nem tartalmaz, a képlet alkalmazása során figyelmen kívül kell hagyni.
 
 2. számú melléklet a 25/2000. (IX. 30.) EüM–SZCSM
 
-együttes rendelethez[^19]
+együttes rendelethez[^29]
 
-[^19]: A 2. számú melléklet az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 3. §-ával megállapított szöveg.
+[^29]: A 2. számú melléklet az 50/2011. (XII. 22.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.
