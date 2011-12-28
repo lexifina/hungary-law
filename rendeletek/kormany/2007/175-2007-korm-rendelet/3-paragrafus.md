@@ -1,15 +1,8 @@
-## A HONVÉDKÓRHÁZ ÁLTAL NYÚJTOTT ALAPVETŐ ELLÁTÁSOK[^10]
+## AZ MH HONVÉDKÓRHÁZ ÁLTAL NYÚJTOTT ALAPVETŐ ELLÁTÁSOK[^10]
 
-3. § (1)[^11] A Honvédkórház alapfeladatként ellátandó tevékenysége – az Ebtv. II. fejezete szerinti egészségügyi szolgáltatások közül – az igényjogosultak és jogosultak
+3. §[^11] (1) Az MH Honvédkórház alapfeladatként ellátandó tevékenysége az igényjogosultak és jogosultak részére az Ebtv. II. fejezete szerinti egészségügyi szolgáltatások biztosítása, valamint a rendvédelmi szervek személyi állománya vonatkozásában a külön jogszabályok szerinti alapellátás biztosítása.
 
-a) járóbeteg-szakellátása,
+(2) Az MH Honvédkórház alapfeladatként ellátandó tevékenysége az (1) bekezdésben meghatározottak mellett az igényjogosultak e rendeletben meghatározott speciális egészségügyi ellátása.
 
-b) fekvőbeteg gyógyintézeti ellátása,
-
-c) rehabilitációs és krónikus ellátása.
-
-(2)[^12] A Honvédkórház alapfeladatként ellátandó tevékenysége, továbbá az igényjogosultak e rendeletben meghatározott speciális egészségügyi ellátása.
-
-[^10]: A 3. §-t megelőző alcím a 282/2010. (XII. 15.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^11]: A 3. § (1) bekezdés bevezető szövegrésze a 282/2010. (XII. 15.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^12]: A 3. § (2) bekezdése a 282/2010. (XII. 15.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^10]: A 3. §-t megelőző alcím a 318/2011. (XII. 27.) Korm. rendelet 7. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^11]: A 3. § a 318/2011. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
