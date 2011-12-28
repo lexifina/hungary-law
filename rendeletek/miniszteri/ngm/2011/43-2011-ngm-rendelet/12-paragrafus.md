@@ -1,0 +1,3 @@
+## 11. § A Rendelet II. 23. §-sal egészül ki:
+
+## „23. § E rendeletnek a függő és független biztosításközvetítői hatósági képzés követelményrendszeréről és a hatósági vizsgáról szóló 18/2008. (VI. 13.) PM rendelet, és a pénzügyi szolgáltatás közvetítői hatósági képzés követelményrendszeréről és a hatósági vizsgáról szóló 18/2010 (IV. 29.) PM rendelet módosításáról szóló 43/2011. (XII. 13.) NGM rendelettel (a továbbiakban: módosító rendelet) módosított 12. § (1) bekezdésének alkalmazása tekintetében a Felügyelet nyilvántartásában a módosító rendelet hatálybalépésekor szereplő – felsőfokú végzettséggel nem rendelkező – vizsgabiztosok 2013. december 31-ig jelölhetők ki vizsgabiztosnak.”
