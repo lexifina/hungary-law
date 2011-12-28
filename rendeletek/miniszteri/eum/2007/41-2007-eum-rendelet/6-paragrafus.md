@@ -20,7 +20,7 @@ d) a gyógyszertár szolgálati rendjét,
 
 e) a gyógyszertár forgalmazási körét.
 
-(7)[^24] Az officinában a gyógyszereket úgy kell elhelyezni, hogy azok a betegek számára közvetlenül ne legyenek hozzáférhetőek.
+(7)[^24] Az officinában a gyógyszereket – kivéve a tea formájú növényi gyógyszereket és a tea formájú hagyományos növényi gyógyszereket – úgy kell elhelyezni, hogy azok a betegek számára közvetlenül ne legyenek hozzáférhetőek.
 
 (8)[^25] A gyógyszertárban termékbemutató nem tartható, felvilágosító, tanácsadó tevékenységet kizárólag a gyógyszertár alkalmazásában álló szakszemélyzet folytathat.
 
@@ -30,6 +30,6 @@ e) a gyógyszertár forgalmazási körét.
 [^21]: A 6. § (2) bekezdése az 56/2009. (XII. 30.) EüM rendelet 5. § (1) bekezdésével megállapított, a 31/2010. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^22]: A 6. § (3) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 5. §-ával megállapított szöveg.
 [^23]: A 6. § (6) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^24]: A 6. § (7) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^24]: A 6. § (7) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 67/2011. (XIII. 13.) NEFMI rendelet 6. §-ával megállapított szöveg.
 [^25]: A 6. § (8) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
 [^26]: A 6. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
