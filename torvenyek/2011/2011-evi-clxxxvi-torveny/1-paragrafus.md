@@ -1,1 +1,1 @@
-1. § Esztergom Város Önkormányzatának a törvény mellékletében felsorolt intézményei (a továbbiakban: átvett intézmények), valamint az ezen intézményekkel kapcsolatos vagyona és vagyoni értékű joga, továbbá az intézményekkel kapcsolatos alapítói, fenntartói joga és kötelezettségei az e törvényben meghatározott szervekre jelen törvény erejénél fogva száll át. Az intézményeket az állam a szállítói tartozásukkal együtt veszi át.
+1. §

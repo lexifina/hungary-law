@@ -1,3 +1,1 @@
-2. § (1) Az átvett intézményekkel kapcsolatos jogviszonyok tekintetében 2012. január 1-jét követően általános és egyetemleges jogutódként a Magyar Állam, illetőleg e törvényben meghatározott szervek lépnek. E keretek között az intézmények átadásához kapcsolódó jogviszonyok tekintetében a tulajdonosi és fenntartói jogutódlásra az államháztartásról szóló törvény és végrehajtási rendelete, az állami vagyonról szóló törvény és végrehajtási rendelete az irányadó.
-
-(2) Az (1) bekezdésben meghatározottakat az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 18. § (1) bekezdésében leírt feltételeknek megfelel.
+2. §
