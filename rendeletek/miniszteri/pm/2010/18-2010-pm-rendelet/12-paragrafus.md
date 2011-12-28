@@ -1,11 +1,15 @@
 ## 4. A hatósági vizsga általános szabályai
 
-12. § (1)[^4] A Hatóság által kijelölt vizsgabiztos kizárólag az a természetes személy lehet, aki legalább a középfokú iskola utolsó évfolyamát elvégezte, és hozzájárul a kijelölés céljából természetes személyazonosító adatai és elérhetősége Hatóság általi kezeléséhez.
+12. § (1)[^6] A Hatóság által kijelölt vizsgabiztos kizárólag az a természetes személy lehet, aki felsőfokú végzettséggel rendelkezik, és hozzájárul a kijelölés céljából természetes személyazonosító adatai és lakcímadatai Hatóság általi kezeléséhez.
 
-(2) Akivel szemben a Hatóság az ellenőrzése során ismételt vagy súlyos jogszabálysértést, vagy a vizsgaszabályzat ismételt vagy súlyos megsértését állapítja meg, a megállapítástól számított két évig vizsgabiztosnak nem jelölhető ki.
+(1a)[^7] A vizsgabiztos tevékenységének e rendeletben, továbbá a vizsgaszabályzatban foglalt feltételeknek való megfelelését a Hatóság ellenőrzi. Az ellenőrzés annak vizsgálatára irányul, hogy a vizsgabiztos folyamatosan teljesíti-e az e rendelet, továbbá a vizsgaszabályzat szerinti követelményeket.
+
+(2)[^8] Ha a Hatóság az ellenőrzése során a vizsgabiztossal szemben e rendelet, vagy a vizsgaszabályzat megsértését állapítja meg, vizsgabiztosi kijelölését visszavonhatja. Akivel szemben a hatóság ismételt vagy súlyos jogszabálysértést, vagy a vizsgaszabályzat ismételt vagy súlyos megsértését állapítja meg, vizsgabiztosnak nem jelölhető ki.
 
 (3) A vizsgabiztos nem működhet közre a vizsgáztatásban annál a képző szervnél, amellyel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
 
 (4) A vizsgabiztos és a vizsgáztatást ellenőrző személy nem lehet olyan személy, aki a vizsgázóval a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozói kapcsolatban áll, vagy aki a vizsgázó hatósági képzésében részt vett.
 
-[^4]: A 12. § (1) bekezdése a 19/2010. (XII. 31.) NGM rendelet 4. §-a szerint módosított szöveg.
+[^6]: A 12. § (1) bekezdése a 43/2011. (XII. 13.) NGM rendelet 9. §. (1) bekezdésével megállapított szöveg.
+[^7]: A 12. § (1a) bekezdését a 42/2011. (XII. 13.) NGM rendelet 9. § (2) bekezdése iktatta be.
+[^8]: A 12. § (2) bekezdése a 43/2011. (XII. 13.) NGM rendelet 9. §. (3) bekezdésével megállapított szöveg.

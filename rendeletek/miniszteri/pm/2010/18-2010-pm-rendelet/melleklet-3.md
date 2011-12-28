@@ -20,7 +20,7 @@
 
 ## aláírás
 
-3. melléklet a 18/2010. (IV. 29.) PM rendelethez[^11]
+3. melléklet a 18/2010. (IV. 29.) PM rendelethez[^19]
 
 Jelentkezési lap a hatósági vizsgára
 
@@ -52,4 +52,4 @@ Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem és annak felt�
 
 aláírás
 
-[^11]: A 3. melléklet a 19/2010. (XII. 31.) NGM rendelet 4. §-a szerint módosított szöveg.
+[^19]: A 3. melléklet a 19/2010. (XII. 31.) NGM rendelet 4. §-a szerint módosított szöveg.
