@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-144-00-00
 | --- | --- | --- |
 | 2011-11-04 | 2011. évi CXLIV. törvény | 2011-144-00-00.0 (közlönyállapot) |
 | 2011-11-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-144-00-00.1 |
+| 2011-12-28 | 36/2011. (XII. 13.) KÜM rendelet | 2011-144-00-00.2 |
