@@ -1,4 +1,4 @@
-2. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^38]
+2. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^39]
 
 A gyógyszertörzs adatállományának leírása
 
@@ -282,4 +282,4 @@ BESOROLAS = 10000 * njk + 100 * eejk + ekjk
 
 | EUPONTOK EUPONTOK BNOKODOK GYOGYSZ EUPONTOK SZAKVKODOK EUPONTOK KIINTOR | ID ID ID ID ID ID ID ID | EUHOZZAR BNOHOZZAR BNOHOZZAR EUHOZZAR SZAKVHOZZAR SZAKVHOZZAR KIINTHOZZAR KIINTHOZZAR | EUPONT_ID EUPONT_ID BNO_ID GYOGYSZ_ID EUPONT_ID SZAKV_ID EUPONT_ID KIINT_ID |
 
-[^38]: A 2. számú mellékletet a 46/2008. (XII. 3.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^39]: A 2. számú mellékletet a 46/2008. (XII. 3.) EüM rendelet 5. § (2) bekezdése iktatta be.
