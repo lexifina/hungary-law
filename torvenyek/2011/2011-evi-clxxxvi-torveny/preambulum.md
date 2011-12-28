@@ -1,0 +1,1 @@
+Az Országgyűlés Esztergom város polgárai közszolgáltatásokkal való ellátásának maradéktalan biztosítása, az ellátások színvonalának emelése, egységessége, valamint az intézmények hatékonyabb, költségtakarékosabb fenntartása érdekében a következő törvényt alkotja:
