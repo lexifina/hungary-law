@@ -1,4 +1,4 @@
-6. §[^4] (1) Ha a munkáltató az igényjogosult állami vezető részére a 4. § (2) bekezdésben meghatározott feltételeknek megfelelő hivatali lakást nem tud biztosítani, az igényjogosult állami vezető részére lakásfenntartási térítést kell fizetni.
+6. §[^6] (1) Ha a munkáltató az igényjogosult állami vezető részére a 4. § (2) bekezdésben meghatározott feltételeknek megfelelő hivatali lakást nem tud biztosítani, az igényjogosult állami vezető részére lakásfenntartási térítést kell fizetni.
 
 (2) A kormánymegbízott részére – kérelmére – lakásfenntartási térítést lehet megállapítani, ha Budapesten vagy közvetlen vonzáskörzetében, vagy az általa vezetett fővárosi és megyei kormányhivatal székhelye szerinti városi vagy közvetlen vonzáskörzeti településen – a vele közös háztartásban élő házastársa (élettársa) lakásviszonyait is figyelembe véve – lakástulajdonnal nem rendelkezik.
 
@@ -8,4 +8,4 @@
 
 (5) A lakásfenntartási térítés e rendeletben foglaltak szerinti biztosításáról a munkáltató gondoskodik.
 
-[^4]: A 6. § a 124/2011. (VII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 6. § a 124/2011. (VII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.

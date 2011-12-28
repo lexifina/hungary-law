@@ -6,4 +6,6 @@
 
 (3) A juttatások költségvetési fedezetét – ha törvény, kormányrendelet vagy e rendelet eltérően nem rendelkezik – annak a szervezetnek a költségvetéséből kell biztosítani, amelyben a jogosult a tisztségéből (megbízatásából) adódó feladatait teljesíti (a továbbiakban: munkáltató).
 
-(4) A külföldi kiküldetéssel kapcsolatos kiadásokat a miniszterelnök esetében a Külügyminisztérium költségvetésében kell biztosítani és elszámolni.
+(4)[^2] A külföldi kiküldetéssel kapcsolatos kiadásokat a miniszterelnök esetében a Miniszterelnökség költségvetésében kell biztosítani.
+
+[^2]: A 2. § (4) bekezdése a 316/2011. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.

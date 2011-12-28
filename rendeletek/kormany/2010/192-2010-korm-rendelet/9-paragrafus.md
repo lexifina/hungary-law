@@ -1,8 +1,8 @@
 ## Személygépkocsi használata
 
-9. § (1) A minisztert és az államtitkárt személyes gépkocsihasználat illeti meg. A személyes gépkocsihasználathoz számukra gépkocsivezetőt kell biztosítani.
+9. § (1)[^7] A minisztert, az államtitkárt, a közigazgatási államtitkárt és a kormánybiztost személyes gépkocsihasználat illeti meg. A személyes gépkocsihasználathoz számukra gépkocsivezetőt kell biztosítani.
 
-(2)[^5] A közigazgatási államtitkár, a helyettes államtitkár, a kabinetfőnök, a kormánybiztos, a kormányhivatalok vezető-helyettesei, a központi hivatalok vezetői, a kormánymegbízott és a külföldre akkreditált magyar külképviselet-vezetők számára személyes gépkocsihasználat állapítható meg.
+(2)[^8] A helyettes államtitkár, a miniszteri kabinetet vezető kabinetfőnök, a Miniszterelnökséget vezető államtitkár kabinetfőnöke, a miniszteri biztos, a miniszterelnöki biztos, a kormányhivatalok vezető-helyettesei, a központi hivatalok vezetői és a kormánymegbízott számára a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a munkáltató szerv hivatali szervezetének vezetője, illetve a munkáltatói jogkört gyakorló állami vezető javaslatára – személyes gépkocsihasználatot engedélyezhet.
 
 (3) A személyes gépkocsihasználat keretében biztosított személygépkocsi hivatalos és magáncélú utazásra egyaránt igénybe vehető.
 
@@ -10,4 +10,8 @@
 
 (5) A személyes használat keretében biztosított személygépkocsi menetlevél vezetése nélkül, érvényes forgalmi engedéllyel vehet részt a közúti forgalomban.
 
-[^5]: A 9. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 286. § d) pontja szerint módosított szöveg.
+(6)[^9] A külföldre akkreditált magyar külképviselet-vezetők részére – a külföldön történő szolgálatteljesítés idejére – a külpolitikáért felelős miniszter személyes gépkocsihasználatot engedélyezhet.
+
+[^7]: A 9. § (1) bekezdése a 316/2011. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: A 9. § (2) bekezdése a 316/2011. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^9]: A 9. § (6) bekezdését a 316/2011. (XII. 27.) Korm. rendelet 5. §-a iktatta be.

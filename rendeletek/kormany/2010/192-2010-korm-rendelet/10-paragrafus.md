@@ -2,8 +2,9 @@
 
 (2) Amennyiben a rendelkezésre álló járműállomány nem teszi lehetővé az (1) bekezdésben meghatározott kategóriájú gépkocsi biztosítását, ideiglenesen az (1) bekezdésben rögzítettől eltérő kategóriájú gépkocsi is kiadható.
 
-(3)[^6] A 9. § (2) bekezdésében meghatározott személyek gépkocsi használatának részletes szabályait a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter utasításban állapítja meg.
+(3)[^11] A Miniszterelnökség és a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvény 1. §-ában felsorolt minisztériumok esetében a 9. § (1) és (2) bekezdésében meghatározott személyek által irányított szervezeti egységek részére a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter indokolt esetben további gépkocsihasználatot (szervezeti egységhez kirendelt gépkocsi) engedélyezhet. Ezek a gépkocsik kizárólag hivatalos célú használatra vehetők igénybe, tételes menetlevél vezetése mellett. A KEF ellátási körébe tartozó intézmény esetében a munkáltató szerv hivatali szervezetének vezetője által szignált kérelmet a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternek kell benyújtani, aki arról – a KEF főigazgatójának a kérelemnek a rendelkezésre álló erőforrások alapján történő teljesíthetőségére vonatkozó véleményének figyelembevételével – dönt.
 
-(4) A személygépkocsi kategóriákra a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet felhatalmazása alapján kiadott 1/2004. (MK 108.) MeHVM tájékoztató az irányadó.
+(4)[^12] A személygépkocsi-kategóriákra a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet felhatalmazása alapján kiadott, az országosan kiemelt termékekre vonatkozó állami normatívarendszerről szóló 8002/2007. (XI. 21.) MeHVM tájékoztató az irányadó.
 
-[^6]: A 10. § (3) bekezdése a 124/2011. (VII. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^11]: A 10. § (3) bekezdése a 316/2011. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^12]: A 10. § (4) bekezdése a 316/2011. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
