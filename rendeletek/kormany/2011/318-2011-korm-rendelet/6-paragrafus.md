@@ -1,0 +1,1 @@
+## „(4) A rendvédelem területén a megváltozott egészségi állapotú hivatásos állományúak szolgálati alkalmasságát a rendvédelmi szerveket irányító miniszter által kijelölt szakorvosi bizottságok bírálják el.”
