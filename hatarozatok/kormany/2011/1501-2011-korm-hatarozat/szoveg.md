@@ -2,7 +2,7 @@ A Kormány
 
 1. a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akciótervét a melléklet szerint állapítja meg,
 
-2. a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1009/2011. (I. 19.) Korm. határozatot visszavonja.
+2.[^2]
 
 Melléklet az 1501/2011. (XII. 27.) Korm. határozathoz
 
@@ -279,3 +279,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 | 5.1.2 | A GOP lebonyolításával kapcsolatos specifikus feladatok ellátása (a monitoring bizottság működtetése, végrehajtást érintő tanulmányok, elemzések elkészítése) | 0,4 | GOP monitoring bizottság teljes körű lebonyolítása, működtetése, végrehajtást érintő tanulmányok, elemzések elkészítése |
 
 | 5. | Prioritás | 3,2 |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
