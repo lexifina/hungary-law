@@ -1,6 +1,6 @@
 ## 7. A kijelölt szervezetek kijelölést követő ellenőrzése
 
-7. § (1) A kijelölési feltételek folyamatos teljesülésének ellenőrzése során a kijelölő hatóság szakértőként az eljárásba bevonja a Hivatalt.
+7. § (1)[^5] A kijelölési feltételek folyamatos teljesülésének ellenőrzése során a kijelölő hatóság szakértőként az eljárásba bevonja a Hivatalt. A kijelölési feltételek teljesülését a kijelölő hatóság legalább évente ellenőrzi.
 
 (2) A Hivatal szakértői tevékenysége során vizsgálja, hogy
 
@@ -11,3 +11,5 @@ b) az előző ellenőrzés óta a szakmai és adminisztratív felkészültség t
 c) az előző ellenőrzés óta a minőségirányítási kézikönyvben, valamint a működési és eljárási szabályzatban történt esetleges változtatások befolyásolják-e a kijelölt szervezet alkalmasságát a megfelelőségértékelő tevékenységre,
 
 d) a kijelölt szervezet megfelelőségértékelési tevékenységével kapcsolatos panaszok kivizsgálása megfelelő volt-e.
+
+[^5]: A 7. § (1) bekezdése a 67/2011. (XII. 13.) NEFMI rendelet 18. §-ával megállapított szöveg.

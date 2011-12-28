@@ -1,4 +1,4 @@
-3. melléklet a 18/2010. (IV. 20.) EüM rendelethez
+3. melléklet a 18/2010. (IV. 20.) EüM rendelethez[^12]
 
 ## A kijelölési szakterületek meghatározása
 
@@ -14,7 +14,7 @@
 
 | 3 | MD 0102 | Befecskendezés, infúzió, transzfúzió és dialízis esetén használt nem aktív eszközök |
 
-| 4 | MD 0103 | Nem aktív ortopédiai és rehabilitációs eszközök |
+| 4 | MDS 7208 | Nanoanyagokat alkalmazó IVD eszközök |
 
 | 5 | MD 0104 | Nem aktív, mérő funkcióval rendelkező eszközök |
 
@@ -219,3 +219,5 @@
 | 5 | MDS 7209 | Biológiailag aktív bevonatú, illetve anyagú IVD eszközök |
 
 | 6 | MDS 7210 | Emberi eredetű anyagot alkalmazó IVD eszközök |
+
+[^12]: A 3. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (2) bekezdése szerint módosított szöveg.

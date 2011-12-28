@@ -1,4 +1,4 @@
-2. melléklet a 18/2010. (IV. 20.) EüM rendelethez
+2. melléklet a 18/2010. (IV. 20.) EüM rendelethez[^11]
 
 ## Szakmai követelmények
 
@@ -18,8 +18,12 @@
 
 1.1.6. az 1. § (2) bekezdés a) pontjában meghatározott megfelelőségértékelést végző személy esetében a minőségirányítási rendszerek auditálására vonatkozó képzettség és audittapasztalat.
 
+1.1.7. Nem szükséges az 1.1.1. alpont szerinti felsőfokú végzettség a szervezet azon munkavállalója esetében, aki kizárólag az eszköz műszaki sajátosságait értékeli és az értékelést az 1.1.1. alpont szerinti feltételeknek megfelelő személy ellenőrzésével végzi.
+
 1.2. A sterilizálás tanúsítását végző munkavállalókkal kapcsolatos speciális szakmai követelmények:
 
 1.2.1. legalább 3 éves tapasztalat sterilizálási technológia területén, beleértve a tiszta tér technológia, alap csíraszám meghatározás, tisztítás validálás, fertőtlenítő vagy sterilizálási folyamat és steril csomagolás területén szerzett szakmai tapasztalatot és
 
 1.2.2. igazolt részvétel legalább 2 sterilizálás validálási eljárásban.
+
+[^11]: A 2. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (1) bekezdése szerint módosított szöveg.
