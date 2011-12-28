@@ -6,10 +6,10 @@
 
 a) tevékenysége gyakorlásához, valamint e törvény szerinti kötelezettségei teljesítéséhez szükséges műszaki és tárgyi eszközökkel, valamint személyi és pénzügyi erőforrásokkal,
 
-b) az átviteli hálózat, a napi átviteli tevékenység végzéséhez szükséges eszközök, a rendszer- és üzemirányításhoz, a mérés-elszámoláshoz szükséges eszközök, és a tevékenységéhez szükséges informatikai eszközök tulajdonjogával, valamint az átviteli tevékenységhez szükséges kapacitású elektronikus hírközlő hálózati elemek (így különösen szálpárak) tulajdonjogával, és
+b) az átviteli hálózat, a napi átviteli tevékenység végzéséhez szükséges eszközök, a rendszer- és üzemirányításhoz, a méréselszámoláshoz szükséges eszközök és a tevékenységhez szükséges informatikai eszközök tulajdonjogával, valamint az elektronikus hírközlő hálózati elemekkel, és
 
 c) a napi átviteli rendszerirányítási tevékenység ellátásához és a vállalati jogi, könyvvezetési, valamint informatikai szolgáltatások biztosításához szükséges, saját alkalmazásában álló személyzettel.
 
-(4) Ha az átviteli rendszerirányításhoz a (3) bekezdés b) pontja szerinti mértéket meghaladó mértékben elektronikus hírközlő hálózat igénybevétele szükséges, azt a kormányzati célú hírközlési szolgáltató tulajdonában álló elektronikus hírközlési hálózaton keresztül kell biztosítani. A kormányzati célú hírközlési szolgáltató köteles az átviteli rendszerirányító elektronikus hírközlési igényeit kielégíteni.
+(4) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – a (3) bekezdés b) pontjában foglaltakra figyelemmel – az átviteli rendszerirányítóval a Vhr.-ben meghatározottak szerint szerződést köt.
 
 (5) Tilos a munkaerő-kölcsönzés az átviteli rendszerirányító és a vertikálisan integrált villamosenergia-ipari vállalkozás között.

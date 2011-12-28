@@ -2,7 +2,7 @@
 
 103. § (1) A vertikálisan integrált villamosenergia-ipari vállalkozás bármikor jogosult az átviteli rendszerirányító teljes tulajdonosi szétválasztása mellett dönteni. A tanúsítást követően a teljes tulajdonosi szétválasztás eredményeképpen létrejött átviteli rendszerirányítónak meg kell felelnie az alábbi követelményeknek:
 
-a) az átviteli rendszerirányítónak rendelkeznie kell az átviteli hálózat és az átviteli tevékenység végzéséhez szükséges valamennyi eszköz tulajdonjogával,
+a) az átviteli rendszerirányítónak rendelkeznie kell az átviteli hálózat és az átviteli tevékenység végzéséhez szükséges valamennyi eszköz tulajdonjogával, valamint az elektronikus hírközlő hálózati elemekkel,
 
 b) ugyanazon személy vagy személyek nem jogosultak
 
@@ -27,6 +27,8 @@ c) a Ptk. 685/B. § (1) bekezdés szerinti többségi befolyás.
 (3) Az (1) bekezdés b), c) és d) pontjában meghatározott feltétel teljesül abban az esetben is, ha egyrészt az átviteli rendszerirányító vagy az átviteli hálózat, másrészt a termelői engedélyes vagy a kereskedő felett az irányítást a Magyar Köztársaság nevében önálló, törvényben meghatározott gazdálkodó szervezetek vagy más állami szervek gyakorolják.
 
 (4) Azokat az üzleti titkokat, amelyek a korábban vertikálisan integrált villamosenergia-ipari vállalkozás részét képező átviteli rendszerirányító birtokában voltak, az átviteli rendszerirányító nem hozhatja a termeléssel vagy a villamosenergia-kereskedelemmel foglalkozó vállalkozás tudomására, továbbá az ilyen átviteli rendszerirányító alkalmazásában álló a 102/A. § (6) és (7) bekezdés szerinti személyeket munkaviszonyuk alatt és munkaviszonyuk megszűnését követő 4 évig, az átviteli rendszerirányítóval munkaviszonyukban álló egyéb személyeket 1 évig a termeléssel vagy villamosenergia-kereskedelemmel foglalkozó vállalkozás nem alkalmazhatja.
+
+(4a) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – az (1) bekezdés a) pontjában foglaltakra figyelemmel – az átviteli rendszerirányítóval a Vhr.-ben meghatározottak szerint szerződést köt.
 
 (5) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerirányító megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 99. § (1a) és (1b) bekezdése, a 102. §–102/E. § és 104. § nem alkalmazható.
 

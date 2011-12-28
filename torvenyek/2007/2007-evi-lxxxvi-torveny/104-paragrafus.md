@@ -4,13 +4,15 @@
 
 a) teljesítenie kell a 103. § (1) bekezdés b), c) és d) pontjában foglalt követelményeket;
 
-b) rendelkeznie kell a feladatok ellátásához szükséges műszaki és tárgyi eszközökkel, valamint pénzügyi és személyi erőforrásokkal;
+b) rendelkeznie kell a feladatok ellátásához szükséges pénzügyi és személyi erőforrásokkal, valamint műszaki és tárgyi eszközökkel, ideértve az elektronikus hírközlő hálózati elemeket is,
 
 c) meg kell felelnie a Hivatal által jóváhagyott hálózatfejlesztési tervnek;
 
 d) a kizárólag adminisztratív és informatikai szolgáltatások kivételével nem vehet igénybe harmadik személyektől olyan szolgáltatásokat, amelyeket a harmadik személyek az átviteli hálózat tulajdonosa számára is nyújtanak; és
 
 e) alkalmas a 714/2009/EK rendeletben az átviteli rendszerüzemeltetőkre előírt kötelezettségek teljesítésére.
+
+(1a) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – az (1) bekezdés b) pontjában foglaltakra figyelemmel – az átviteli rendszerüzemeltetővel a Vhr.-ben meghatározottak szerint szerződést köt.
 
 (2) Az átviteli hálózat tulajdonosa köteles
 
