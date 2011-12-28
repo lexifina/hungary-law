@@ -4,6 +4,6 @@
 
 (3) E rendelet rendelkezéseit a felügyeleti eljárás során az e rendelet hatálybalépése előtt meghozott döntésekre is alkalmazni kell.
 
-(4)[^5]
+(4)[^3]
 
-[^5]: A 3. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^3]: A 3. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
