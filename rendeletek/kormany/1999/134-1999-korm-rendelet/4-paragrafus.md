@@ -22,7 +22,7 @@ cd) 24-étől az utolsó napig
 
 ## tartanak.
 
-(2)[^19] Az adott elszámolási időszakban csak a tárgyi elszámolási időszak alatt beváltott és kiszolgált vények, illetve a forgalmazók önellenőrzése, valamint az OEP által végzett ellenőrzés során feltárt – korábbi elszámolási időszakra vonatkozó – elszámolási hiba miatti korrekciós tételek számolhatók el.
+(2)[^19] Az adott elszámolási időszakban csak a tárgyi elszámolási időszak alatt beváltott és kiszolgált vények, illetve a forgalmazók önellenőrzése során feltárt és az OEP által rögzített, valamint az OEP által végzett ellenőrzés során feltárt – korábbi elszámolási időszakra vonatkozó – elszámolási hiba miatti korrekciós tételek számolhatók el.
 
 (3)[^20] Az elszámolást az elszámolási időszakot követő 3 munkanapon belül kell benyújtani az OEP-hez.
 
@@ -42,7 +42,7 @@ elszámolási időszakokban nyújtják be.
 
 [^17]: A 4. § (1) bekezdés a) pontját a 347/2009. (XII. 30.) Korm. rendelet 10. § (5) bekezdése hatályon kívül helyezi – a 10. § (2) bekezdése alapján – 2010. július 1. napjával.
 [^18]: A 4. § (1) bekezdés b) pontját a 347/2009. (XII. 30.) Korm. rendelet 10. § (5) bekezdése hatályon kívül helyezi – a 10. § (2) bekezdése alapján – 2010. július 1. napjával.
-[^19]: A 4. § (2) bekezdése a 360/2008. (XII. 31.) Korm. rendelet 17. § (5) bekezdésének c) pontja, a 351/2010. (XII. 30.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^20]: A 4. § (3) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
 [^21]: A 4. § (4) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^22]: A 4. § (5) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
