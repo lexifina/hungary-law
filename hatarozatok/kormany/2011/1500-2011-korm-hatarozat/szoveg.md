@@ -76,10 +76,6 @@ Határidő: az átadás-átvétel időpontját követő 90 nap
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti
+3–4.[^2]
 
-a) a Gazdaságfejlesztési és Munkahely-teremtési Keretprogramról szóló 1128/2004. (XI. 24.) Korm. határozat.
-
-b) a határon túli magyarság nyelvi és kulturális önazonosságának megőrzését szolgáló támogatási rendszer hatékonyabbá tételéről szóló 2218/2006. (XII. 12.) Korm. határozat.
-
-4. A Kormány visszavonja a Szülőföld Programcsomagról szóló 2265/2005. (XI. 30.) Korm. határozatot.
+[^2]: A 3–4. pont a 2011: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
