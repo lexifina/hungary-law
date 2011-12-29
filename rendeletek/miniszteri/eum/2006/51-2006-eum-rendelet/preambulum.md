@@ -1,1 +1,0 @@
-Az egészségügyről szóló 1997. évi CLIV. törvény 116. §-ának (2) bekezdésében, valamint 247. §-a (2) bekezdésének i) pontjában foglalt felhatalmazás alapján, az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 4. §-a (1) bekezdésének d) pontjában meghatározott feladatkörömben eljárva az alábbiakat rendelem el:
