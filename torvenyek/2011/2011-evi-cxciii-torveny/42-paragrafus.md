@@ -1,1 +1,0 @@
-42. § Más EGT-államban székhellyel rendelkező ÁÉKBV-alapkezelő Magyarországon azt követően kezdhet határon átnyúló tevékenység keretében ÁÉKBV-t kezelni, hogy a székhelye szerint hatáskörrel rendelkező felügyeleti hatóság értesítette arról, hogy a 38. § (1) bekezdés szerinti információt és a működési tanúsítványt megküldte a Felügyelet részére.

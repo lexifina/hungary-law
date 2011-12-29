@@ -1,1 +1,0 @@
-22. § A befektetési alapkezelő által a kollektív befektetési formában kezelt eszközök nem képezik a befektetési alapkezelő tulajdonát, eljárása során a kollektív befektetési forma javára és terhére jár el. A befektetési alapkezelő jogosult a kollektív befektetési forma nevében, javára eljárva befektetési ügyleteket kötni.

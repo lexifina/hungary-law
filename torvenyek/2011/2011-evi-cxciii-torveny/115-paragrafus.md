@@ -1,7 +1,3 @@
 ## 41. A zártkörű befektetési alapokra vonatkozó rendelkezések
 
-115. § (1) A befektetési alapkezelő az általa kezelt zártkörű befektetési alap rendszeres tájékoztatási kötelezettségét az éves és féléves jelentés befektetők számára – a kezelési szabályzatban meghatározott módon történő – rendelkezésre bocsátásával teljesíti, azzal hogy az éves és féléves jelentésben közölt számviteli információkat nem kell könyvvizsgálóval felülvizsgáltatni, amely tényre a kezelési szabályzatban fel kell hívni a befektetők figyelmét.
-
-(2) A zártkörű befektetési alap befektetési politikájával kapcsolatos tájékoztatásra a nyilvános alapokra vonatkozó szabályok irányadók azzal, hogy a tájékoztató helyett a kezelési szabályban kell feltüntetni az információt.
-
-(3) A zártkörű befektetési alap nyilvános módon nem kereshet befektetőket, a befektetési jegyek forgalomba hozatalát, forgalmazását nyilvánosan vagy a nyilvánosság számára hozzáférhető módon nem reklámozhatja. E korlátozás nem vonatkozik a nettó eszközérték adatok közzétételére.
+115. §

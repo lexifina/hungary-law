@@ -1,5 +1,0 @@
-44. § (1) A letétkezelő tevékenysége végzése során köteles visszautasítani a befektetési alapkezelő által adott minden olyan megbízást, amely ellentétes a jogszabályokkal, illetve a befektetési alap kezelési szabályzatával, és a befektetési alapkezelőt köteles a törvényes állapot helyreállítására felszólítani. Amennyiben a befektetési alapkezelő nem tesz meg mindent a jogszabályoknak és a befektetési alap kezelési szabályzatának megfelelő állapot helyreállítása érdekében, úgy a letétkezelő haladéktalanul értesíti a Felügyeletet.
-
-(2) A letétkezelő tevékenysége végzése során közreműködőt, így különösen alletétkezelőt vehet igénybe, akinek a magatartásáért mint a sajátjáért felel. Alletétkezelőként kizárólag az e törvény előírásainak megfelelő másik letétkezelő vehető igénybe. A letétkezelő felelősségét nem befolyásolja az, ha a letétkezelés céljából átvett eszközök egy részét vagy egészét harmadik fél alletétkezelésébe adta.
-
-(3) A letétkezelő felel a befektetési alappal, illetve a befektetőkkel szemben minden olyan kárért, amely a letétkezelő jogellenes magatartása miatt következett be. Az ettől eltérő kikötés semmis.

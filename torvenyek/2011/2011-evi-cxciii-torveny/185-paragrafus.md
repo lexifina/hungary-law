@@ -38,42 +38,4 @@ d) a pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságo
 
 (20) A (11)–(13) bekezdésben meghatározott adó-visszatérítésre az adózás rendjéről szóló törvénynek az adó-visszatérítésre, az adó-visszaigénylésre irányadó rendelkezéseit, a (14) bekezdésben meghatározott adóbevallás-módosításra az adózás rendjéről szóló törvénynek az önellenőrzésre irányadó rendelkezéseit a (11)–(19) bekezdésben foglalt eltérések figyelembe vételével kell alkalmazni.”
 
-(3) A Különadó tv. 4/A. §-a a következő (21)–(30) bekezdéssel egészül ki:
-
-„(21) A pénzügyi intézmény által 2012-re fizetendő különadó megállapításánál a (6) bekezdés szerint kiszámított különadót adójóváírás címén csökkenti a fogyasztóval kötött deviza alapú kölcsönszerződés, valamint a fogyasztóval kötött deviza alapú pénzügyi lízingszerződés alapján fennálló követelése (ideértve a követeléshez kapcsolódó bevétele alapján az aktív időbeli elhatárolások között kimutatott összeget is) teljes vagy részleges elengedése következtében a pénzügyi intézmény által a 2012-ben kezdődő üzleti éve adózás előtti eredménye terhére elszámolt ráfordítások összegének (a számított veszteségnek) 30 százaléka, feltéve, hogy a követelésből esedékessé vált rész tekintetében az adós késedelme az elengedés napján már meghaladta a kilencven napot.
-
-(22) A fogyasztóval kötött, jelzáloggal fedezett deviza alapú kölcsönszerződésnek a pénzügyi intézmény és a fogyasztó által megkötött megállapodás révén 2012. április 30-át követő hatállyal forint alapú kölcsönszerződéssé történő módosítása (forintra történő átváltása) esetében a pénzügyi intézmény által a 2012-re fizetendő különadó megállapításánál a (6) bekezdés szerint kiszámított különadót adójóváírás címén csökkenti a kölcsönszerződés alapján a szerződésmódosítás hatályba lépésének napján fennálló követelésnek (ideértve a követeléshez kapcsolódó bevétel alapján az aktív időbeli elhatárolások között kimutatott összeget is)
-
-a) a számvitelről szóló törvény és a felhatalmazása alapján kiadott jogszabály rendelkezésének megfelelően a szerződésmódosítás napját megelőző napra megállapított nyilvántartási értéke, valamint
-
-b) a számvitelről szóló törvény és a felhatalmazása alapján kiadott jogszabály rendelkezésének megfelelően, de legfeljebb a Magyar Nemzeti Bank 2012. április 30-án érvényes hivatalos devizaárfolyamnak megfelelően a szerződésmódosítás napjára megállapított nyilvántartási értéke
-
-eltérése következtében a pénzügyi intézmény által a 2012-ben kezdődő üzleti éve adózás előtti eredménye terhére elszámolt ráfordítások összegének (a számított veszteségnek) 30 százaléka, feltéve, hogy
-
-c) a kölcsönszerződés módosításánál a forintra történő átváltáskor alkalmazott devizaárfolyam nem haladja meg a kölcsönszerződésnek a forintra történő átváltása érdekében még nem módosított rendelkezései szerint a szerződésmódosítás napjára vonatkozóan a kölcsönszerződés teljesítésére irányadó devizaárfolyam 75 százalékát, valamint
-
-d) a követelésből esedékessé vált rész tekintetében az adós késedelme a szerződésmódosítás napján már meghaladta a kilencven napot.
-
-(23) Ha a pénzügyi intézményt a (21)–(22) bekezdés rendelkezése szerint megillető adójóváírások összege meghaladja a 2012-re fizetendő különadója megállapításánál a (6) bekezdés szerint kiszámított különadót, különbözetüket a 2012-ben a visszaigénylésre jogosult társaság érvényesítheti (vonhatja le) a 2012-re fizetendő különadója megállapításánál. Ha a különbözetet egynél több visszaigénylésre jogosult társaság érvényesíti a fizetendő különadója megállapításánál, az egyes visszaigénylésre jogosult társaságokat e jogcímen külön-külön megillető adójóváírások összege nem haladhatja meg a különbözetet. Az e rendelkezések alapján a visszaigénylésre jogosult társaság által érvényesített (levont) összeg nem haladhatja meg a (6) bekezdés szerint kiszámított különadójából az ugyanezt a visszaigénylésre jogosult társaságot a (21)–(22) bekezdés rendelkezései szerint megillető adójóváírások összegét meghaladó részt.
-
-(24) A pénzügyi intézményt a (21) bekezdésben, a visszaigénylésre jogosult társaságot a (22) bekezdésben foglaltak alapján megillető adójóváírások összege nem haladhatja meg 2012-re fizetendő különadója megállapításánál a (6) bekezdés szerint kiszámított különadót.
-
-(25) Amennyiben a pénzügyi intézmény vagy a visszaigénylésre jogosult társaság a 2012-re vonatkozó különadó-bevallását a (21)–(24) bekezdés szerint meghatározott adójóváírások megállapítását (az adójóváírásra vonatkozó joga keletkezését) megelőzően benyújtotta, az adójóváírásokat negyedévente, a különadó-bevallásnak a negyedév utolsó napját követő módosítása révén érvényesíti.
-
-(26) A (21)–(25) bekezdésben foglaltak alkalmazásának feltétele, hogy a pénzügyi intézmény a (21)–(22) bekezdés szerinti számított veszteségét a számvitelről szóló törvény és a felhatalmazása alapján kiadott jogszabály rendelkezéseinek megfelelően vezetett nyilvántartásai alapján, a (22) bekezdés szerinti számított veszteség esetében a Magyar Nemzeti Bank 2012. április 30-án érvényes hivatalos devizaárfolyamát is figyelembe véve, megállapítja, valamint cégneve és adószáma feltüntetésével írásban rögzíti.
-
-(27) A (23) bekezdésben foglaltak alkalmazásának – a (26) bekezdésben foglaltak mellett – további feltétele, hogy a pénzügyi intézmény, valamint a visszaigénylésre jogosult társaságok valamennyiük cégneve és adószáma feltüntetésével írásban közösen rögzítik:
-
-a) az egyedi különadó-alapjukra a (6) bekezdés szerint kiszámított különadókat és ezek összegét;
-
-b) egyedi számított veszteségeiket és ezek összegét;
-
-c) egyedi számított veszteségeik 30 százalékát és ezek összegét;
-
-d) a pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságokat a (21)–(24) bekezdés rendelkezéseinek figyelembe vételével egyedileg megillető adójóváírásokat és ezek összegét.
-
-(28) A (26)–(27) bekezdésben meghatározott iratokat az adózó az általa 2012-re fizetendő különadó bevallásának, illetőleg (függetlenül attól, hogy továbbra is egymás kapcsolt vállalkozásainak minősülnek-e) az érintett adózók a bármelyikük által 2012-re fizetendő különadó bevallásának önellenőrzése vagy utólagos ellenőrzése alapján, az önellenőrzés, illetőleg az utólagos ellenőrzés megállapítását figyelembe véve írásban módosíthatják. Ha az iratok módosítása érinti az adózót, illetőleg bármely adózót a (21)–(24) bekezdés szerint megillető adójóváírás összegét, az adó megállapításához való jog elévüléséig az érintett adózó adóbevallását a változásnak megfelelő önellenőrzés révén ismételten módosíthatja, vagy – ha önellenőrzésre már nem jogosult – ismételt ellenőrzés megkezdése iránti kérelem előterjesztésével kezdeményezheti fizetendő adójának módosítását. A (26)–(27) bekezdésben meghatározott iratokat, valamint azok módosítását az adózó, illetőleg valamennyi érintett adózó az adó megállapításához való jog elévüléséig köteles megőrizni.
-
-(29) Az állami adóhatóság az adóbevallás módosításának benyújtására olyan adóbevallási nyomtatványt is rendszeresíthet, amelyben az adózó a nyomtatvány rendszeresítésének napjától kezdve köteles a (26)–(27) bekezdésben meghatározott adatokat vagy azok egy részét feltüntetni.
-
-(30) A (25) bekezdésben meghatározott adóbevallás-módosításra az adózás rendjéről szóló törvénynek az önellenőrzésre irányadó rendelkezéseit a (21)–(29) bekezdésben foglalt eltérések figyelembe vételével kell alkalmazni.”
+(3)

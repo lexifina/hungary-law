@@ -1,3 +1,0 @@
-58. § (1) A befektetési alap tulajdonába tartozó teljes vagyon értékesítéséből származó ellenérték befolyását és a kötelezettségek teljesítését követő 5 munkanapon belül, ingatlanalap esetében 15 munkanapon belül megszűnési jelentést kell készíteni. A megszűnési jelentést a Felügyelethez be kell nyújtani és ezzel egyidejűleg a befektetők felé közzé kell tenni. A megszűnési jelentésnek legalább a 4. mellékletben foglaltakat kell tartalmaznia. A megszűnési jelentés közzétételét követően a fizetések megkezdhetők.
-
-(2) A Felügyelet a megszűnési jelentés benyújtását követő nappal törli a befektetési alapot a nyilvántartásból. A befektetési alap a nyilvántartásból való törléssel megszűnik.

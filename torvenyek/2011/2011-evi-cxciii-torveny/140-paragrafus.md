@@ -1,3 +1,0 @@
-140. § (1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételétől a kirendelés tartamára a felügyeleti biztos gyakorolja a befektetési alapkezelő igazgatósága tagjainak törvényben és alapszabályban megállapított jogait és kötelezettségeit.
-
-(2) Az igazgatóság, illetve a felügyelőbizottság tagja a felügyeleti biztos kirendelésének tartama alatt is jogosult arra, hogy a befektetési alapkezelő Gt. szerinti képviseletében jogorvoslattal éljen a felügyeleti biztost kirendelő felügyeleti határozat és a Felügyelet által a befektetési alapkezelővel szemben hozott határozat ellen.
