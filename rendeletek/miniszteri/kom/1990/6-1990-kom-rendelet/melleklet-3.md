@@ -12,7 +12,7 @@
 
 ## Vértesboglár: 049, 051, 052, 054, 055, 056, 057, 071, 093.
 
-3. számú melléklet a 6/1990. (VI. 18.) KöM rendelethez[^7]
+3. számú melléklet a 6/1990. (VI. 18.) KöM rendelethez[^8]
 
 ## A Szendrőládi-rétek Természetvédelmi Terület kezelési terve
 
@@ -92,4 +92,4 @@
 
 – A terület határán található hatósági tájékoztató táblák fenntartásáról folyamatosan gondoskodni kell.
 
-[^7]: A 3. számú mellékletet a 17/2006. (III. 31.) KvVM rendelet 2. §-a iktatta be.
+[^8]: A 3. számú mellékletet a 17/2006. (III. 31.) KvVM rendelet 2. §-a iktatta be.
