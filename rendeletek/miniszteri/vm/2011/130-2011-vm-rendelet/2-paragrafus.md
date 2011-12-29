@@ -1,0 +1,1 @@
+## 1. § Az Országos Természetvédelmi Tanács 672/1951. számú határozatával védetté nyilvánított, valamint az Úrkúti-őskarszt természetvédelmi terület védettségének fenntartásáról szóló 120/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Úrkúti-őskarszt természetvédelmi terület természetvédelmi kezelési tervét az 1. melléklet szerint állapítom meg.

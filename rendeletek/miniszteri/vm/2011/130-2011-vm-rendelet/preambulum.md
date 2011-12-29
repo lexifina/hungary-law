@@ -1,0 +1,1 @@
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 13. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § l) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
