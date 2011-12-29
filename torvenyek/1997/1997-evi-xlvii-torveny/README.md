@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-47-00-00
 | 2010-10-01 | 2009. évi LVI. törvény | 1997-47-00-00.24 |
 | 2011-01-01 | 2010. évi CLXXIII. törvény | 1997-47-00-00.25 |
 | 2011-04-01 | 2011. évi CXII. törvény | 1997-47-00-00.26 |
+| 2011-12-29 | 174/2011. (XII. 29.) AB határozat | 1997-47-00-00.27 |
