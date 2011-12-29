@@ -1,0 +1,7 @@
+6. § (1) A felsőoktatási intézmény az 1. mellékletben foglaltak figyelembevételével pontszámajánlással látja el az egyes továbbképzési programokat, és valamennyi hozzá benyújtott, elbírált programot január 31-ig, illetve szeptember 15-ig közvetlenül megküld a Szakmai Kollégium illetékes tagozatának, valamint az Egészségügyi Szakképzési és Továbbképzési Tanács illetékes bizottságának (a továbbiakban: Bizottság).
+
+(2) A programra és a pontértékére a Szakmai Kollégium illetékes tagozata február 15-ig, illetve szeptember 30-ig tehet észrevételt a Bizottságnak. A pontértékekről a Bizottság dönt a Szakmai Kollégium és a felsőoktatási intézmény javaslata alapján az 1. mellékletben foglaltak szerint adható pontértékek figyelembevételével. A Bizottság elnöke a jóváhagyott továbbképzési pontértékeket március 1-jéig, valamint október 15-ig elektronikus úton, a felsőoktatási intézmények, a továbbképzés szervezője, valamint a továbbképzésre kötelezettek számára hozzáférhetővé teszi.
+
+(3) A Bizottság elnöke a minősített továbbképzési programok 5. § (3) bekezdése szerinti adatait, valamint a megállapított pontértéket – az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény (a továbbiakban: Ekt.) 2. § k) pontja szerinti közzétételi kötelezettség teljesítése érdekében – megküldi az illetékes szakmai kamarának.
+
+(4) A továbbképzés szervezője köteles a továbbképzési program 5. § (3) bekezdése szerinti adatait, valamint a megszerezhető pontértéket az oktatási évhez igazodóan az érintettek számára hozzáférhető formában közzétenni.
