@@ -1,4 +1,4 @@
-## 12. § A Rendelet II. 2. § (3) bekezdésében a „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
+## 8–12. §[^4]
 
 ## 3. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 7. § 2012. június 1. napján lép hatályba.
 
 (3) Ez a rendelet 2012. június 2-án hatályát veszti.
+
+[^4]: A 8–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
