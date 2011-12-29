@@ -14,7 +14,7 @@ alapdíjjal számolja el.
 
 (3)[^255] A 29/A. § (1) bekezdése szerinti orvosi klinikai és mikrobiológiai laboratóriumi vizsgálatok esetében a szolgáltató a tárgyhavi TVK-t meghaladó teljesítménye után a laboratóriumi ellátás 5. számú melléklet szerinti előirányzat alapján megállapított tárgyhavi finanszírozási keretnek még fel nem használt összege, és a TVK-t meghaladó országos teljesítmények hányadosa szerinti forintértékkel számolt díjazásra jogosult.
 
-(4)[^256] A szolgáltatónak a teljesítménye utáni díjazás összegét az OEP kiszámítja, és a jelentés leadásának hónapjában utalványozza a 29/A. § (1) bekezdése szerinti ellátás kivételével. A 29/A. § (1) bekezdése szerinti ellátások esetén az OEP a jelentés leadását követő hónapban utalványoz.
+(4)[^256] A szolgáltatónak a teljesítménye utáni díjazás összegét az OEP kiszámítja, és a jelentés leadásának hónapjában utalványozza.
 
 (5)[^257] A teljesítményvolumen alapján finanszírozott ellátások esetében a jogalap nélkül igénybevett finanszírozást a teljesítményegység teljesítés szerinti hónapra érvényes szolgáltatói átlagértéke szerint kell visszatéríteni.
 
@@ -24,5 +24,5 @@ alapdíjjal számolja el.
 [^253]: A 28. § (1b) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 73/2011. (IV. 29.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
 [^254]: A 28. § (2) bekezdése a 232/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
 [^255]: A 28. § (3) bekezdése a 232/2009. (X. 16.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
-[^256]: A 28. § (4) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 8. §-ával megállapított, a 365/2010. (XII. 30.) Korm. rendelet 19. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^256]: A 28. § (4) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 8. §-ával megállapított, a 365/2010. (XII. 30.) Korm. rendelet 19. § (2) bekezdés a) pontja, a 325/2011. (XII. 28.) Korm. rendelet 28. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^257]: A 28. § (5) bekezdése a 365/2010. (XII. 30.) Korm. rendelet 18. § 30. pontja szerint módosított szöveg.

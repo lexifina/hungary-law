@@ -42,6 +42,8 @@
 
 | A beteg állapota: ⬜ teljes ápolásra szoruló beteg ⬜ részleges ápolásra szoruló beteg ⬜ önellátó beteg |
 
+## 5M00278_3
+
 | Nap | Ellátás típusa5 | Fő tevékenység | Ápoló TAJ száma | Nap | Ellátás típusa5 | Fő tevékenység | Ápoló TAJ száma |
 
 | 01 |  |  |  |  |  |  |  |  |  |  |  |  | 17 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -102,6 +104,6 @@
 
 ## 6 Az elszámolt időszakra elvégzett szakápolás/szakirányú terápiás szolgáltatás fő tevékenységei a 20/1996. NM rendelet 1. számú melléklete szerint. (A betegnél elrendelt és teljesített feladatok a hónap folyamán.)
 
-11. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^447]
+11. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^450]
 
-[^447]: A 11. számú melléklet az 58/2009. (III. 18.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^450]: A 11. számú melléklet az 58/2009. (III. 18.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.

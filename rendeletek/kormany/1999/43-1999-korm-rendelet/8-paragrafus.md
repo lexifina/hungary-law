@@ -10,7 +10,7 @@ b) életkori korlátozás nélkül 1200–1500 fő lakos (a továbbiakban: vegye
 
 c)[^74] 0–14 év közötti 600–800 fő lakos (a továbbiakban: gyermekkörzet)
 
-## ellátását biztosítja.
+ellátását biztosítja.
 
 (3)[^75] Amennyiben a körzethatárok módosítása során a (2) bekezdésben meghatározott minimumlétszám alatti lakosságszámú felnőtt, vegyes, illetve házi gyermekorvosi körzet kerül kialakításra, az OEP a szolgáltatóval akkor köt finanszírozási szerződést, ha az önkormányzat(ok) rendelkezik(nek) a körzetek megosztásáról, ennek érdekében a szolgáltató a szerződés módosítását kezdeményezi. Az OEP a 14. § (2)–(4) bekezdése szerinti fixdíjakat utalja. Új körzet létesítése esetén nem köthető finanszírozási szerződés, ha az új körzet létesítése következtében valamely meglévő körzet lakosságszáma felnőtt és vegyes körzet esetén 1200, gyermekkörzet esetén 600 fő alá csökken.
 

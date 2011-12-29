@@ -58,11 +58,15 @@
 
 |  |  | Alapellátási vállalkozás támogatási átalánydíj | 1 552,4 | 1 552,4 |
 
-|  |  | Eseti kereset-kiegészítés |  | 3 400,0 |
+|  |  | Eseti kereset-kiegészítés |  | 5 600,0 |
+
+|  |  | Adósságkonszolidáció támogatása |  | 23 000 |
+
+|  |  | Egyéb adósságkonszolidációs támogatás |  | 4 000 |
 
 |  |  | Onkológiai gyógyszerek áremelkedése miatti kompenzáció |  | 500,0 |
 
-| 13. | Célelőirányzatok összesen | 1 744,4 | 5 644,4 |
+| 13. | Célelőirányzatok összesen | 1 744,4 | 34 844,4 |
 
 | 15. | Mentés | 24 561,4 | 25 343,4 |
 
@@ -86,11 +90,13 @@
 
 | 18. | Összevont szakellátás összesen | 563 712,1 | 564 682,1 |
 
-| ÖSSZESEN | 770 120,0 | 781 920,0 |
+| ÖSSZESEN | 770 120,0 | 811 120,0 |
 
-6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^439]
+6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^442]
 
-## Ambuláns adatlap
+Ambuláns adatlap
+
+1M25374M_0
 
 | 1. Javítás: |  | 2. Eredeti dátum: |  |  |  |  |  |  |  |  |
 
@@ -548,4 +554,4 @@ A felírt gyógyászati ellátás vények számát kell megadni
 
 39.
 
-[^439]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^442]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
