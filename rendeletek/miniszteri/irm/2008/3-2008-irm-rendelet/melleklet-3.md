@@ -22,13 +22,13 @@
 
 ## 3.3. A szabadság és az emberi méltóság elleni bűncselekmények
 
-## 3.3.1. Btk. 175/A. § (1)–(5) és (7) bekezdés – Emberrablás bűntette, ha annak nemzetközi vonatkozása van vagy azt az NNI észleli
+## 3.3.1.[^26] Btk. 175/A. § (1)–(5) és (7) bekezdés – Emberrablás bűntette, ha annak nemzetközi jellege van vagy azt az NNI észleli
 
 ## 3.3.2. Btk. 175/A. § (3) bekezdés b) pont – Emberrablás bűntette, ha azt halált okozva követték el
 
 ## 3.3.3. Btk. 175/A. § (4) bekezdés – Emberrablás bűntette, ha az szándékos emberölést is megvalósít
 
-## 3.3.4. Btk. 175/B. § (6) bekezdés – Emberkereskedelem vétsége, ha annak nemzetközi vonatkozása van
+## 3.3.4.[^27] Btk. 175/B. § (6) bekezdés – Emberkereskedelem bűntette és vétsége, ha annak nemzetközi jellege van
 
 ## 4. Btk. XIV. fejezet – A házasság, a család, az ifjúság és a nemi erkölcs elleni bűncselekmények
 
@@ -36,9 +36,9 @@
 
 ## 4.1.1. Btk. 204. § (3) bekezdés – Tiltott pornográf felvétellel visszaélés bűntette, ha az elkövető tizennyolcadik életévét be nem töltött személyről vagy személyekről készült pornográf felvételt a nagy nyilvánosság számára hozzáférhetővé tesz, és azt az NNI észleli
 
-## 4.1.2. Btk. 206. § – Kitartottság bűntette, ha annak nemzetközi vonatkozása van, vagy azt az NNI észleli
+## 4.1.2.[^28] Btk. 206. § – Kitartottság bűntette, ha annak nemzetközi jellege van, vagy azt az NNI észleli
 
-## 4.1.3. Btk. 207. § – Kerítés bűntette, ha annak nemzetközi vonatkozása van, vagy azt az NNI észleli
+## 4.1.3.[^29] Btk. 207. § – Kerítés bűntette, ha annak nemzetközi jellege van, vagy azt az NNI észleli
 
 ## 5. Btk. XV. fejezet – Az államigazgatás, az igazságszolgáltatás és a közélet tisztasága elleni bűncselekmények
 
@@ -78,7 +78,7 @@
 
 ## 6.1.4. Btk. 263/A. § – Visszaélés lőfegyverrel vagy lőszerrel, ha azt az NNI észleli
 
-## 6.1.5. Btk. 263/B. § (1)–(4) bekezdés – Visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, kivéve a Vám- és Pénzügyőrség hatáskörébe tartozó eseteket
+## 6.1.5.[^30] Btk. 263/B. § (1)–(4) bekezdés – Visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, kivéve a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó eseteket
 
 ## 6.1.6. Btk. 263/C. § (1) bekezdés – Bűnszervezetben részvétel bűntette, ha azt az NNI észleli
 
@@ -112,11 +112,11 @@
 
 ## 6.3.7. Btk. 281/A. § (1)–(3) bekezdés – Hulladékgazdálkodás rendje megsértésének bűntette és vétsége, ha azt az NNI észleli, kivéve a vízirendészeti rendőrkapitányságok hatáskörébe tartozó esetet
 
-## 6.3.8. Btk. 282/A. § (2) bekezdés c) pont – A Magyar Honvédség, a rendvédelmi szervek vagy a büntetés-végrehajtási szervezet létesítményében elkövetett visszaélés kábítószerrel bűntette, vagy e bűncselekmény elkövetéséhez kapcsolódóan a Btk. 282/A. (5) bekezdés szerinti anyagi eszközök szolgáltatásával megvalósított visszaélés kábítószerrel bűntette, ha azt jelentős mennyiségű kábítószerre követték el, kivéve a Vám- és Pénzügyőrség hatáskörébe tartozó esetet
+## 6.3.8.[^31] Btk. 282/A. § (2) bekezdés c) pont – A Magyar Honvédség, a rendvédelmi szervek vagy a büntetés-végrehajtási szervezet létesítményében elkövetett visszaélés kábítószerrel bűntette, vagy e bűncselekmény elkövetéséhez kapcsolódóan a Btk. 282/A. (5) bekezdés szerinti anyagi eszközök szolgáltatásával megvalósított visszaélés kábítószerrel bűntette, ha azt jelentős mennyiségű kábítószerre követték el, kivéve a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó esetet
 
-## 6.3.9. Btk. 282/A. § (3) bekezdés – Jelentős mennyiségre elkövetett visszaélés kábítószerrel bűntette, vagy e bűncselekmény elkövetéséhez kapcsolódóan a Btk. 282/A. (5) bekezdés szerinti anyagi eszközök szolgáltatásával megvalósított visszaélés kábítószerrel bűntette, ha azt az NNI észleli, kivéve a Vám- és Pénzügyőrség hatáskörébe tartozó esetet
+## 6.3.9.[^32] Btk. 282/A. § (3) bekezdés – Jelentős mennyiségre elkövetett visszaélés kábítószerrel bűntette, vagy e bűncselekmény elkövetéséhez kapcsolódóan a Btk. 282/A. (5) bekezdés szerinti anyagi eszközök szolgáltatásával megvalósított visszaélés kábítószerrel bűntette, ha azt az NNI észleli, kivéve a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó esetet
 
-## 6.3.10. Btk. 283/A. § (1) bekezdés – Visszaélés kábítószer-prekurzorral bűntette, kivéve a Vám- és Pénzügyőrség hatáskörébe tartozó esetet
+## 6.3.10.[^33] Btk. 283/A. § (1) bekezdés – Visszaélés kábítószer-prekurzorral bűntette, kivéve a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó esetet
 
 ## 7. Btk. XVII. fejezet – A gazdasági bűncselekmények
 
@@ -154,19 +154,19 @@
 
 ## 7.3.4. Btk. 313/D. § – Készpénz-helyettesítő fizetési eszköz hamisítása elősegítésének vétsége, ha azt az NNI hatáskörébe tartozó pénzügyi bűncselekménnyel összefüggésben követték el
 
-## 8. Btk. XVIII. fejezet – A vagyon elleni bűncselekmények
+## 8.[^34] Btk. XVIII. fejezet – A vagyon elleni bűncselekmények
 
-## 8.1. A Vám- és Pénzügyőrség hatáskörébe tartozó esetek kivételével
+## 8.1. A Nemzeti Adó- és Vámhivatal hatáskörébe tartozó esetek kivételével
 
 ## 8.1.1. Btk. 316. § (6) bekezdés a) pont – Különösen nagy értékre elkövetett lopás bűntette, ha annak tárgya az állam, a helyi önkormányzat, valamint az országos kisebbségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívum
 
-## 8.1.2. Btk. 316. § (7) bekezdés a) pont – Különösen jelentős értékre elkövetett lopás bűntette
+## 8.1.2. Btk. 316. § (7) bekezdés a) pont – Különösen jelentős értékre elkövetett lopás bűntette, ha azt az NNI észleli
 
-## 8.1.3. Btk. 317. § (7) bekezdés a) pont – Különösen jelentős értékre elkövetett sikkasztás bűntette
+## 8.1.3. Btk. 317. § (7) bekezdés a) pont – Különösen jelentős értékre elkövetett sikkasztás bűntette, ha azt az NNI észleli
 
-## 8.1.4. Btk. 318. § (7) bekezdés a) pont – Különösen jelentős kárt okozó csalás bűntette
+## 8.1.4. Btk. 318. § (7) bekezdés a) pont – Különösen jelentős kárt okozó csalás bűntette, ha azt az NNI észleli
 
-## 8.1.5. Btk. 319. § (3) bekezdés d) pont – Különösen jelentős vagyoni hátrányt okozó hűtlen kezelés bűntette
+## 8.1.5. Btk. 319. § (3) bekezdés d) pont – Különösen jelentős vagyoni hátrányt okozó hűtlen kezelés bűntette, ha azt az NNI észleli
 
 ## 8.1.6. Btk. 320. § (2) bekezdés – Különösen nagy vagy ezt meghaladó vagyoni hátrányt okozó hanyag kezelés vétsége, ha azt az NNI észleli, kivéve a vízirendészeti rendőrkapitányságok hatáskörébe tartozó esetet
 
@@ -178,14 +178,17 @@
 
 ## 8.1.10. Btk. 321. § (5) bekezdés b) pont – Hivatalos személy, külföldi hivatalos személy ellen, hivatalos eljárása alatt, vagy közfeladatot ellátó személy ellen, e feladatának teljesítése során fegyveresen elkövetett rablás bűntette, ha azt több területi nyomozó hatóság illetékességi területén követték el, kivéve a kizárólagos ügyészi hatáskörbe tartozó eseteket
 
-## 8.1.11. Btk. 326. § (6) bekezdés a) pont – Különösen jelentős értékre elkövetett orgazdaság bűntette
+## 8.1.11. Btk. 326. § (6) bekezdés a) pont – Különösen jelentős értékre elkövetett orgazdaság bűntette, ha azt az NNI észleli
 
-## 8.1.12. Btk. 329/A. § (4) bekezdés – Különösen nagy vagy különösen jelentős vagyoni hátrányt okozó szerzői vagy szerzői joghoz kapcsolódó jogok megsértésének bűntette, ha azt az NNI észleli
+3. melléklet a 3/2008. (I. 16.) IRM rendelethez[^35]
 
-## 8.1.13. Btk. 329/B. § (3) bekezdés – Üzletszerűen elkövetett szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszásának bűntette, ha azt az NNI észleli
-
-## 8.1.14. Btk. 329/D. § (3) bekezdés b) pont – Különösen jelentős vagyoni hátrányt okozó iparjogvédelmi jogok megsértésének bűntette
-
-3. melléklet a 3/2008. (I. 16.) IRM rendelethez[^22]
-
-[^22]: A 3. melléklet a 20/2010. (V. 4.) IRM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^26]: A 2. melléklet 3. pont 3.3. pont 3.3.1. alpontja az 52/2011. (XII. 21.) BM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^27]: A 2. melléklet 3. pont 3.3. pont 3.3.4. alpontja az 52/2011. (XII. 21.) BM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^28]: A 2. melléklet 4. pont 4.1. pont 4.1.2. alpontja az 52/2011. (XII. 21.) BM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^29]: A 2. melléklet 4. pont 4.1. pont 4.1.3. alpontja az 52/2011. (XII. 21.) BM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^30]: A 2. melléklet 6. pont 6.1. pont 6.1.5. alpontja az 52/2011. (XII. 20.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^31]: A 2. melléklet 6. pont 6.3. pont 6.3.8. alpontja az 52/2011. (XII. 21.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^32]: Az 1. melléklet 6.pont 6.3. pont 6.3.9. alpontja az 52/2011. (XII. 21.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^33]: Az 1. melléklet 6.pont 6.3. pont 6.3.10. alpontja az 52/2011. (XII. 21.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^34]: A 2. melléklet 8. pontja az 52/2011. (XII. 21.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^35]: A 3. melléklet az 52/2011. (XII. 21.) BM rendelet 3. § (3) bekezdésével megállapított szöveg.

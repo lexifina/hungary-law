@@ -2,9 +2,9 @@
 
 7. § (1) A hatékonyabb bűnüldözés érdekében az országos rendőrfőkapitány elrendelheti, hogy egyes bűncselekmények nyomozását – ideiglenesen – a megyei (fővárosi) rendőr-főkapitánysághoz, illetve az ORFK-hoz vonjanak.
 
-(2)–(3)[^15]
+(2)–(3)[^17]
 
-(4)[^16] Ha az elvégzendő nyomozási cselekmények miatt vagy egyéb okból célszerű, a megyei (fővárosi) rendőrfőkapitány az 1. mellékletben felsorolt bűncselekmények nyomozásával a rendőr-főkapitányság területén működő rendőrkapitányságot bízhatja meg.
+(4)[^18] Ha az elvégzendő nyomozási cselekmények miatt vagy egyéb okból célszerű, a megyei (fővárosi) rendőrfőkapitány az 1. mellékletben felsorolt bűncselekmények nyomozásával a rendőr-főkapitányság területén működő rendőrkapitányságot bízhatja meg.
 
-[^15]: A 7. § (2)–(3) bekezdését a 20/2010. (V. 4.) IRM rendelet 5. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^16]: A 7. § (4) bekezdése a 20/2010. (V. 4.) IRM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 7. § (2)–(3) bekezdését a 20/2010. (V. 4.) IRM rendelet 5. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^18]: A 7. § (4) bekezdése a 20/2010. (V. 4.) IRM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
