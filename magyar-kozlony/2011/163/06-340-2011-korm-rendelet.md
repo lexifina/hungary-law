@@ -1,0 +1,53 @@
+# A Kormány 340/2011. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 163. szám, 2011. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2eb9d626eff6e67cde6f1a1460f6687d8a952530/dokumentumok/df1cd3e89896c57adaca64103fbaaba677db716f/letoltes)
+
+---
+
+A Kormány 340/2011. (XII. 29.) Korm. rendelete
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről
+szóló 212/2010. (VII. 1.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 40. §
+(2) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010.
+(VII. 1.) Korm. rendelet a következő XI/A. Fejezettel egészül ki:
+„XI/A. Fejezet
+EGYES NEMZETKÖZI PÉNZÜGYI SZERVEZETEKKEL VALÓ KAPCSOLATTARTÁSÉRT FELELŐS TÁRCA NÉLKÜLI
+MINISZTER
+117/A. § Az egyes nemzetközi pénzügyi szervezetekkel való kapcsolattartásért felelős tárca nélküli miniszter (e fejezet
+alkalmazásában a továbbiakban: tárca nélküli miniszter)
+a) vezeti a Nemzetközi Valutaalappal és az Európai Unió Bizottságával folytatandó, a pénzügyi stabilitást biztosító
+hitelekről szóló tárgyalásokat (e fejezet alkalmazásában a továbbiakban: tárgyalások),
+b) együttműködik a nemzetgazdasági miniszterrel és a Kormány más, feladat- és hatáskörében érintett tagjával
+a tárgyalásokon képviselendő magyar álláspont kialakítása érdekében,
+c) a magyar álláspont megfelelő kialakítása és képviselete érdekében adatot, információt vagy tájékoztatást kérhet
+a nemzetgazdasági minisztertől és a Kormány más, feladat- és hatáskörében érintett tagjától,
+d) a b) és c) pontban meghatározottak alapján kezdeményezi a Kormány döntését a tárgyalásokon képviselendő
+magyar álláspontról.
+117/B. § A tárca nélküli miniszter a 117/A. §-ban meghatározott feladatai ellátása során együttműködik a Magyar
+Nemzeti Bank elnökével és az Országgyűlés gazdasági kérdésekkel foglalkozó állandó bizottságának elnökével.”
+2. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010.
+(VII. 1.) Korm. rendelet 118. §-a helyébe a következő rendelkezés lép:
+„118. § A miniszterek helyettesítése a központi államigazgatási szervekről, valamint a Kormány tagjai és
+az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 37. § (2) bekezdésében
+meghatározott esetekben az alábbi rend szerint történik:
+a) a miniszterelnök általános helyettesét a közigazgatási és igazságügyi miniszter,
+b) a közigazgatási és igazságügyi minisztert a belügyminiszter,
+c) a belügyminisztert a közigazgatási és igazságügyi miniszter,
+d) a nemzetgazdasági minisztert a nemzeti fejlesztési miniszter,
+e) a nemzeti fejlesztési minisztert a nemzetgazdasági miniszter,
+f) a vidékfejlesztési minisztert a nemzetgazdasági miniszter,
+g) a külügyminisztert a honvédelmi miniszter,
+h) a nemzeti erőforrás minisztert a közigazgatási és igazságügyi miniszter,
+i) az egyes nemzetközi pénzügyi szervezetekkel való kapcsolattartásért felelős tárca nélküli minisztert a közigazgatási
+és igazságügyi miniszter
+helyettesíti.”
+
+3. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010.
+(VII. 1.) Korm. rendelet 119. §-a a következő j) ponttal egészül ki:
+(Az egyes miniszterek megnevezésének rövidített változataiként az alábbi megnevezéseket kell használni:)
+„j) az egyes nemzetközi pénzügyi szervezetekkel való kapcsolattartásért felelős tárca nélküli miniszter esetében
+NPSZKTNM.”
+4. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
