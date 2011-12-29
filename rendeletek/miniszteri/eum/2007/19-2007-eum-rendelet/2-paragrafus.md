@@ -1,8 +1,8 @@
-## 1. § A rendelet hatálya egészségügyi felsőfokú szakirányú szakképzés keretében klinikai sugárfizikus szakképesítést (a továbbiakban: szakképesítés) megszerző személyekre, valamint a képzésüket végző, az Eütv. 116. §-ának (3) bekezdése szerinti intézményekre terjed ki.
+## 1. §[^2] A rendelet hatálya egészségügyi felsőfokú szakirányú szakképzés keretében klinikai sugárfizikus szakképesítést (a továbbiakban: szakképesítés) megszerző személyekre, valamint a képzésüket végző, az egészségügyi felsőoktatási intézményekre terjed ki.
 
 2. § (1) Klinikai sugárfizikus egészségügyi felsőfokú szakirányú szakképzés (a továbbiakban: szakképzés) keretében okleveles klinikai sugárfizikus egészségügyi felsőfokú szakirányú szakképzettség szerezhető. A szakképesítés megszerzésének a feltételeit a melléklet tartalmazza.
 
-(2) A szakképzés az Eütv. 116. §-ának (3) bekezdésében előírt feltételeknek megfelelő felsőoktatási intézményekben történik.
+(2)[^3] A szakképzés a klinikai sugárfizikus szakképzés végzésére akkreditált felsőoktatási intézményekben történik.
 
 (3) A szakképzésbe való belépésnél előzményként elfogadott szakképzettségek: egyetemi vagy mesterképzési szakon megszerzett fizikusi, fizikatanári, villamosmérnöki szakképzettség; mesterképzési szakon megszerzett egészségügyi mérnöki szakképzettség.
 
@@ -21,3 +21,6 @@ a) a szakképzésbe való felvételről, a szakképzés megkezdése időpontjár
 b) a szakképzés megkezdésének a feltételeként a hiányzó ismeretekből szintrehozó tanfolyamok teljesítésének a követelményéről, vagy
 
 c) a jelentkezés elutasításáról.
+
+[^2]: Az 1. § a 64/2011. (XI. 29.) NEFMI rendelet 16. § (1) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 15. §-át.
+[^3]: A 2. § (2) bekezdése a 64/2011. (XI. 29.) NEFMI rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 15. §-át.
