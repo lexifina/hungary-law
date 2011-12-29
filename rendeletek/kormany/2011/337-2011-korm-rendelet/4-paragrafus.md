@@ -1,0 +1,5 @@
+4. § (1) A támogatás jogszerű felhasználását a Kormányzati Ellenőrzési Hivatal (a továbbiakban: KEHI) a Kormányzati Ellenőrzési Hivatalról szóló 312/2006. (XII. 23.) Korm. rendelet 4. § (1) bekezdésében meghatározott hatáskörében eljárva 2012. június 30-ig ellenőrzi. Az egészségügyi szolgáltató köteles a támogatás felhasználását alátámasztó valamennyi dokumentumot megőrizni a számvitelre vonatkozó törvényben meghatározott ideig, és azokat a KEHI ellenőrzéséhez rendelkezésre bocsátani. Az ellenőrzés eredményéről a KEHI tájékoztatja a minisztert.
+
+(2) A jogosulatlanul felhasznált visszatérítendő összeg mértékét és a visszatérítés határidejét az (1) bekezdés szerinti tájékoztatás alapján a miniszter állapítja meg. A visszatérítésre kötelezést a visszatérítésre kötelezett egészségügyi szolgáltatóval és a finanszírozóval közölni kell. A miniszter a visszatérítésre a 3. § (3) bekezdésében foglalt rendelkezéseket is alkalmazza.
+
+(3) A visszatérítés határidejének eredménytelen elteltét követően a finanszírozó jogosult a visszatérítendő összeget három egyenlő részletben levonni az egészségügyi szolgáltató részére esedékes havi finanszírozási összegből.
