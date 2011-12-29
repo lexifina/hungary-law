@@ -1,11 +1,1 @@
-17. § (1) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: MÖKtv.) 13. §-a az alábbi (6)–(7) bekezdéssel egészül ki:
-
-„(6) A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) 6/C. § (1) bekezdésében foglaltaktól eltérően nem alakul át a köztisztviselő jogviszonya, ha az átvevő munkáltató e törvény rendelkezései alapján az átadással érintett köztisztviselő foglalkoztatásához nem járul hozzá. Ebben az esetben a közszolgálati jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a köztisztviselőt az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a köztisztviselő számára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 19. § alkalmazásával megállapított végkielégítést kell megfizetni.
-
-(7) A Ktjv. 6/B. § (1) bekezdésében foglaltaktól eltérően e szakasz (1) bekezdése alapján átkerülő közalkalmazott jogviszonya nem alakul át, ha az átvevő munkáltató e törvény rendelkezései alapján az átadással érintett közalkalmazott foglalkoztatásához nem járul hozzá. Ebben az esetben a közalkalmazotti jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a közalkalmazottat az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a közalkalmazott számára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 37. § (2) és (4)–(7) bekezdés alkalmazásával megállapított végkielégítést, határozott idejű jogviszony esetén – a Kjt. 27. § (2) bekezdésében megállapított átlagkeresetet kell megfizetni.”
-
-(2) A MÖKtv. 13. §-a az alábbi új (8)–(9) bekezdésekkel egészül ki:
-
-„(8) A megyei önkormányzat közgyűlése hivatalának foglalkoztatottai a kormánymegbízott és a megyei önkormányzat elnöke által meghatározott rendben közreműködnek a Kormány által rendeletben kijelölt szerv, valamint az ezen szerv által átvett intézmények 2012. évi intézményi költségvetésének előkészítésével kapcsolatos feladatok ellátásában.
-
-(9) A Kormány által rendeletben kijelölt szervnél és a kijelölt szervnél foglalkoztatottak a kormánymegbízott és a megyei önkormányzat elnöke által meghatározott rendben közreműködnek a megyei önkormányzatok 2011. évi költségvetésének végrehajtásáról készülő beszámolóval és az egyéb elszámolásokkal kapcsolatos feladatok ellátásában.”
+17. §
