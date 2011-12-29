@@ -1,0 +1,1 @@
+## 5. § A védettség feloldásának indoka a védettségi kritériumoknak nem megfelelő, gyümölcsös, valamint kivett (lakóház és udvar) művelési ágú területrészek leválasztása a védett természeti területről.

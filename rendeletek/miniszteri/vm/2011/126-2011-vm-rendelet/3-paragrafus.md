@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a területen található természettudományi és tájképi szempontból rendkívül értékes növénygyűjtemény megőrzése, valamint a területen található élővilág természetközeli életfeltételeinek biztosítása.
