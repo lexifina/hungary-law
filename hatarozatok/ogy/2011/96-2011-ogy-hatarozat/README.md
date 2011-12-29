@@ -1,0 +1,9 @@
+# 96/2011. (XII. 29.) OGY határozat
+
+Pócs János országgyűlési képviselő mentelmi ügyében
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-96-30-41
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2011-12-29 | 2011-96-30-41.1 | 96/2011. (XII. 29.) OGY határozat |
