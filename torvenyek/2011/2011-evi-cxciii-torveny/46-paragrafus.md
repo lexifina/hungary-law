@@ -1,0 +1,1 @@
+46. § Befektetési alap kezelését – a 41. §-ban foglalt eltéréssel – kizárólag az e törvény szerinti befektetési alapkezelési tevékenység végzésére jogosító engedéllyel rendelkező, magyarországi székhelyű befektetési alapkezelő végezheti.

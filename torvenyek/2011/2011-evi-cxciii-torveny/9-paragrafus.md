@@ -1,0 +1,1 @@
+9. § A befektetési alapkezelőben történő minősített befolyás megszerzésére alkalmazni kell a Bszt. IX. Fejezetében foglalt rendelkezéseket, azzal, hogy ahol a jogszabály befektetési vállalkozást említ, azon befektetési alapkezelőt kell érteni.

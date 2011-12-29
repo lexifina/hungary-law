@@ -1,0 +1,11 @@
+142. § (1) A Felügyelet együttműködik más EGT-állam hatáskörrel rendelkező felügyeleti hatóságával. Az együttműködés különösen a következő esetekre terjed ki:
+
+a) a Felügyelet más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának átad, más EGT-állam hatáskörrel rendelkező felügyeleti hatóságától átvesz a befektetési alapkezelő, illetve az ÁÉKBV működésével kapcsolatosan iratokat;
+
+b) a Felügyelet a befektetési alapkezelő más EGT-államban nyújtott szolgáltatása tekintetében folytat le felügyeleti eljárást.
+
+(2) Az (1) bekezdésben meghatározott esetekben a Felügyelet e törvényben meghatározott feladatai ellátása érdekében információt adhat át más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának, illetve információt vehet át más EGT-állam hatáskörrel rendelkező felügyeleti hatóságától a kibocsátóra, az értékpapírra, illetve más EGT-állam piacának sajátosságaira vonatkozóan. Az információt az azt átadó illetékes hatóság kifejezett hozzájárulása nélkül nem lehet közzétenni, és – amennyiben szükséges – kizárólag azokra a célokra lehet felhasználni, amelyekhez az érintett hatóság hozzájárult.
+
+(3) A Felügyelet kérheti más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának együttműködését valamely felügyeleti tevékenységben vagy helyszíni ellenőrzés elvégzésében, vagy az utóbbi területén végzett vizsgálatban. Ha a Felügyelet helyszíni ellenőrzésre vagy vizsgálatra irányuló felkérést kap, vagy maga végzi el az ellenőrzést vagy vizsgálatot; vagy megengedi, hogy akár a kérelmező hatóság, akár erre megbízott könyvvizsgálók vagy szakértők hajtsák végre az ellenőrzést vagy vizsgálatot. Ha az eljárást a Felügyelet folytatja le, biztosítja a másik hatáskörrel rendelkező felügyeleti hatóság számára, hogy a vizsgálaton, helyszíni ellenőrzésen jelen legyen. A Felügyelet csak akkor tagadhatja meg információ kiadását, illetve a vizsgálat elvégzését, ha az sérti Magyarország szuverenitását, biztonságát vagy közrendjét; vagy ha ugyanazon személyek és tevékenységek tekintetében magyarországi bíróságnál vagy hatóságnál már kezdeményeztek eljárást; vagy ugyanazon személyek és tevékenységek tekintetében Magyarországon már jogerős ítélet született.
+
+(4) A helyszíni ellenőrzés vagy vizsgálat lefolytatása során az 584/2010/EU rendelet 6–11. cikkeinek figyelembevételével kell eljárni.
