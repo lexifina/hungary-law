@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a területen található lejtősztyepprétek, félszáraz gyepek, felhagyott gyümölcsösök, karsztbokorerdők természeti értékeinek, kiemelten az osztrák sárkányfű (Dracocephalum austriacum) populációinak megőrzése.
