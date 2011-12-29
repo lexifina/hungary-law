@@ -1,3 +1,0 @@
-## 4. § Az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet (a továbbiakban: 52/2005. EüM R.) 41. §-a helyébe a következő rendelkezés lép:
-
-## „41. § Az üzletnek a fogyasztók számára nyitva álló helyiségében a gyógyszereket – a tea formájú növényi gyógyszereket és a tea formájú hagyományos növényi gyógyszereket kivéve – úgy kell elhelyezni, hogy az a fogyasztó számára ne legyen közvetlenül hozzáférhető, ahhoz a zárható szekrényből a fogyasztó csak a gyógyszer-kiskereskedelmi tevékenységet folytató feladatkörében eljáró személy közreműködésével férhessen hozzá. A gyógyszer forgalomba hozatali engedélyében a gyógyszer tárolására a GYEMSZI az üzletre is vonatkozó különleges tárolási feltételeket határozhat meg.”
