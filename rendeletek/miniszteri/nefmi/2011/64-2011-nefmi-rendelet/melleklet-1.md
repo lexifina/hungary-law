@@ -1,3 +1,5 @@
+## 16. §[^1]
+
 1. melléklet a 64/2011. (XI. 29.) NEFMI rendelethez
 
 ## Folyamatos továbbképzés alapján megszerezhető legmagasabb pontértékek (továbbképzési pontok)
@@ -85,3 +87,5 @@ Az egyéni továbbképzés célja az adott szakterületen belül új szakmai ism
 5.3. Az egyéni továbbképzés irányítója számára a pontérték fele.
 
 A legmagasabb adható pontérték szakképesítésenként évente 30 pont.
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
