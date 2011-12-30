@@ -1,1 +1,3 @@
-## 2. § A KöM rendelet 5. § (1) bekezdésében a „Bodrogkeresztúr 0/54” szövegrész helyébe a „Bodrogkisfalud 054/1r” szöveg lép.
+## 2. §[^1]
+
+[^1]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
