@@ -1,10 +1,10 @@
-22/B. §[^40] (1) Átmeneti támogatás nem nyújtható
+22/B. §[^65] (1) Átmeneti támogatás nem nyújtható
 
 a) a halászati és akvakultúratermékek piacának közös szervezéséről szóló, 1999. december 17-i 104/2000/EK tanácsi rendelet hatálya alá tartozó, halászathoz vagy akvakultúrához kapcsolódó tevékenységet végző vállalkozásnak,
 
-b) az EK Szerződés I. Mellékletében felsorolt mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozásoknak,
+b)[^66] az EUMSz I. Mellékletében felsorolt mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozásoknak,
 
-c) az EK Szerződés I. Mellékletében felsorolt mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozásoknak:
+c)[^67] az EUMSz I. Mellékletében felsorolt mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozásoknak:
 
 ca) ha az átmeneti támogatás összege az elsődleges termelőktől beszerzett vagy az érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre,
 
@@ -22,4 +22,6 @@ e) ha az átmeneti támogatás az importáruk helyett hazai áru használatátó
 
 (5) A kedvezményezett köteles az átmeneti támogatáshoz kapcsolódó minden iratot az odaítélést követő 10. évig megőrizni, és a támogatást nyújtó ilyen irányú felhívása esetén köteles azokat bemutatni.
 
-[^40]: A 22/B. §-t a 17/2009. (VII. 22.) NFGM rendelet 2. §-a iktatta be.
+[^65]: A 22/B. §-t a 17/2009. (VII. 22.) NFGM rendelet 2. §-a iktatta be.
+[^66]: A 22/B. § (1) bekezdés b) pontja a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^67]: A 22/B. § (1) bekezdés c) pontja a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.

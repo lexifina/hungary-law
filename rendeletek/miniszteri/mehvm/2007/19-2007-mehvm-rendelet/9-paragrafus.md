@@ -1,6 +1,6 @@
-## A támogatott beruházás elszámolható költségei[^14]
+## A támogatott beruházás elszámolható költségei[^28]
 
-9. §[^15] (1) A támogatást a tárgyi vagy immateriális beruházási költségek, illetve létesítmény felvásárlása esetén a felvásárlás költségei alapján kell kiszámítani.
+9. §[^29] (1) A támogatást a tárgyi vagy immateriális beruházási költségek, illetve létesítmény felvásárlása esetén a felvásárlás költségei alapján kell kiszámítani.
 
 (2) Elszámolható költségek:
 
@@ -20,5 +20,5 @@ b) a beruházás üzembe helyezését követő harmadik év végéig újonnan l�
 
 (5) A földterülettől és épülettől eltérő eszközök lízingjével kapcsolatos költségeket csak akkor lehet figyelembe venni, ha az pénzügyi lízing formájában valósul meg, és a szerződés tartalmazza az eszköznek a futamidő lejárta utáni megvásárlására vonatkozó kötelezettséget. Földterület és épületek bérlése esetén a beruházási projekt befejezésének várható időpontját követően a bérletnek nagyvállalatok esetében még legalább öt évig, KKV esetében legalább három évig kell folytatódnia.
 
-[^14]: A 9. §-t megelőző alcím a 7/2009. (IV. 2.) NFGM rendelet 6. §-ával megállapított szöveg.
-[^15]: A 9. § a 7/2009. (IV. 2.) NFGM rendelet 6. §-ával megállapított szöveg.
+[^28]: A 9. §-t megelőző alcím a 7/2009. (IV. 2.) NFGM rendelet 6. §-ával megállapított szöveg.
+[^29]: A 9. § a 7/2009. (IV. 2.) NFGM rendelet 6. §-ával megállapított szöveg.

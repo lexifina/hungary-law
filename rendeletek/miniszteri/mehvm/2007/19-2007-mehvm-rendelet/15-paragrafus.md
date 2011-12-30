@@ -1,6 +1,6 @@
-## Elszámolható költségek[^25]
+## Elszámolható költségek[^46]
 
-15. §[^26] (1) Elszámolható költségek a kisvállalkozás létrehozásához közvetlenül kapcsolódó jogi, tanácsadói, konzultációs és adminisztratív költségek, valamint – ha a vállalkozás létrehozását követő első öt évben merülnek fel – a következő költségek:
+15. §[^47] (1) Elszámolható költségek a kisvállalkozás létrehozásához közvetlenül kapcsolódó jogi, tanácsadói, konzultációs és adminisztratív költségek, valamint – ha a vállalkozás létrehozását követő első öt évben merülnek fel – a következő költségek:
 
 a) a külső finanszírozás kamata és a saját tőkére jutó osztalék, ha a referencia-kamatlábbal számolt osztalékot nem haladja meg,
 
@@ -12,5 +12,5 @@ d) az értékcsökkenés, a termelési létesítmény, illetve a felszerelés l�
 
 (2) Azon kisvállalkozások, amelyeket az elmúlt 12 hónapban bezárt vállalkozások résztulajdonosai irányítanak, nem részesülhetnek támogatásban, ha az érintett vállalkozások ugyanazon az érintett piacokon vagy szomszédos piacokon tevékenykednek.
 
-[^25]: A 15. §-t megelőző alcímet a 7/2009. (IV. 2.) NFGM rendelet 12. §-a iktatta be.
-[^26]: A 15. § a 7/2009. (IV. 2.) NFGM rendelet 12. §-ával megállapított szöveg.
+[^46]: A 15. §-t megelőző alcímet a 7/2009. (IV. 2.) NFGM rendelet 12. §-a iktatta be.
+[^47]: A 15. § a 7/2009. (IV. 2.) NFGM rendelet 12. §-ával megállapított szöveg.

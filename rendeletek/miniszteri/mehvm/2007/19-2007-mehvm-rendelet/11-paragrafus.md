@@ -1,4 +1,4 @@
-## 11. §[^18] Nem nyújtható regionális beruházási támogatás a következő költségekre:
+## 11. §[^34] Nem nyújtható regionális beruházási támogatás a következő költségekre:
 
 a) a támogatási program 12. § szerinti közzététele előtt felmerült költségek,
 
@@ -10,4 +10,4 @@ d) olyan tárgyi eszköz bekerülési értéke, amelyet a kedvezményezett csőd
 
 e) szállítási ágazatban a szállító berendezések (gördülőeszközök) bekerülési értéke.
 
-[^18]: A 11. § a 7/2009. (IV. 2.) NFGM rendelet 8. §-ával megállapított szöveg.
+[^34]: A 11. § a 7/2009. (IV. 2.) NFGM rendelet 8. §-ával megállapított szöveg.

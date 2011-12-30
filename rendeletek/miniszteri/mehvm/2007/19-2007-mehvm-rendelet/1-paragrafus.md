@@ -10,7 +10,7 @@ b) a Regionális Fejlesztés Operatív Programok vonatkozásában a Gazdaságfej
 
 ## által szabályozott területekre.
 
-(3)[^2] Az e rendeletben szabályozott célelőirányzat felhasználására, kezelésére, működtetésére és ellenőrzésére az e rendeletben nem szabályozott kérdésekben az államháztartásról szóló 1992. évi XXXVIII. törvényben (a továbbiakban: Áht.), az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletben (a továbbiakban: Ámr.), valamint az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásokról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendeletben [a továbbiakban: 85/2004. (IV. 19.) Korm. rendelet] foglaltak az irányadók.
+(3)[^2]
 
 [^1]: Az 1. § (2) bekezdése a 7/2009. (IV. 2.) NFGM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (3) bekezdése a 7/2009. (IV. 2.) NFGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdését a 85/2011. (XII. 29.) NFM rendelet 10. § (1) bekezdése hatályon kívül helyezte.
