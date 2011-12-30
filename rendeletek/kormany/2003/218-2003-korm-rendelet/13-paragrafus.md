@@ -6,11 +6,12 @@
 
 a) kiállított parkolási igazolványok az érvényességükön belül felhasználhatók,
 
-b) a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 164/1995. (XII. 27.) Korm. rendelet 2. és 3. számú melléklete szerinti orvosi szakvélemény parkolási igazolvány igénylésére és hatályának meghosszabbítására a hatályossági idején belül, de legkésőbb 2011. december 31-éig felhasználható.
+b)[^31] a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 164/1995. (XII. 27.) Korm. rendelet 2. és 3. számú melléklete szerinti orvosi szakvélemény parkolási igazolvány igénylésére és hatályának meghosszabbítására a hatályossági idején belül, de legkésőbb 2012. június 30-áig felhasználható.
 
-(3)–(4)[^31]
+(3)–(4)[^32]
 
 (5) Ez a rendelet az Európai Közösségek Tanácsának a fogyatékos személyek parkolókártyájáról szóló 98/376/EK ajánlásával összeegyeztethető szabályozást tartalmaz.
 
 [^30]: A 13. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 805. pontja hatályon kívül helyezte, újonnan a 102/2011. (VI. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^31]: A 13. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 805. pontja hatályon kívül helyezte.
+[^31]: A 13. § (2) bekezdés b) pontja a 331/2011. (XII. 29.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^32]: A 13. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 805. pontja hatályon kívül helyezte.
