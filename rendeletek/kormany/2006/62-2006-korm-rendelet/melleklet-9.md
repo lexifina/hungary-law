@@ -1,3 +1,3 @@
-9. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^35]
+9. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^38]
 
-[^35]: A 9. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 4. § (2) bekezdés c) pontjával megállapított szöveg.
+[^38]: A 9. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 4. § (2) bekezdés c) pontjával megállapított szöveg.
