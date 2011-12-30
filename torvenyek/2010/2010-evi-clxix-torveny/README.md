@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-169-00-00
 | 2011-07-30 | 2011. évi CXIV. törvény | 2010-169-00-00.8 |
 | 2011-08-01 | 2011. évi CV. törvény | 2010-169-00-00.9 |
 | 2011-11-26 | 2011. évi CLIV. törvény | 2010-169-00-00.10 |
+| 2011-12-30 | 2011. évi CXCIII. törvény | 2010-169-00-00.11 |
