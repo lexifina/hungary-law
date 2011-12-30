@@ -1,1 +1,3 @@
-## „(9) Az előleg összegét az OEP a tárgyév július 1-jét követően a kérelemben megjelölt határidőn belül, legkésőbb a tárgyév december 15-éig a gyógyszertár részére az elszámolás alapján járó gyógyszer-támogatási összegből havi egyenlő részletekben levonja. Amennyiben az OEP az előleg összegét nem tudja levonni, a gyógyszer támogatással történő forgalmazására kötött szerződést felmondja.”
+## 29–30. §[^14]
+
+[^14]: A 29–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

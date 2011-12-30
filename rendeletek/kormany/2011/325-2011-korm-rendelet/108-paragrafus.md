@@ -1,4 +1,4 @@
-## 101–107. §[^28]
+## 101–107. §[^33]
 
 ## 13. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Ez a rendelet 2012. május 2-án hatályát veszti.
 
-[^28]: A 101–107. § a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^33]: A 101–107. § a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

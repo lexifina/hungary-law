@@ -1,11 +1,11 @@
-## 66–71. §[^19]
+## 66–71. §[^24]
 
 ## 72. § Az Eftv.vhr.
 
-a)[^20]
+a)[^25]
 
-b)–c)[^21]
+b)–c)[^26]
 
-[^19]: A 66–71. § a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
-[^20]: A 72. § a) pontja a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
-[^21]: A 72. § b)–c) pontja a 108. § (3) bekezdése alapján 2012. május 1-jén lép hatályba.
+[^24]: A 66–71. § a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^25]: A 72. § a) pontja a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^26]: A 72. § b)–c) pontja a 108. § (3) bekezdése alapján 2012. május 1-jén lép hatályba.
