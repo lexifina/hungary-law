@@ -1,0 +1,1 @@
+## „(5) A helyi önkormányzatokért felelős miniszter által vezetett minisztérium december 31-éig rendelkezik arról, hogy a Kincstár az 1. § (2a) bekezdése szerinti összegeket a települési önkormányzatok részére a tárgyév második munkanapjáig utalja át.”
