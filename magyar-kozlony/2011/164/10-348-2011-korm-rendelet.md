@@ -1,0 +1,933 @@
+# A Kormány 348/2011. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 164. szám, 2011. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8626f0a434e313583139002a4d42df357e6fe084/dokumentumok/89e949c676c4d6e8519ca52ca0375173cbb3c0f2/letoltes)
+
+---
+
+A Kormány 348/2011. (XII. 30.) Korm. rendelete
+egyes pénzügyi tárgyú kormányrendeletek módosításáról
+A Kormánya befektetésivállalkozásokrólés az árutőzsdei szolgáltatókról,valamintaz általukvégezhetőtevékenységekszabályairól
+szóló 2007. évi CXXXVIII. törvény 180. § (1) bekezdés c), d) és f) pontjában, és a hitelintézetekről és a pénzügyi vállalkozásokrólszóló
+1996. évi CXII. törvény 235. § (1) bekezdés f) pontjában,
+a 2. alcím tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdés
+g)–i) pontjában,
+a 3. alcím tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdés
+j) pontjában,
+a 4. alcím tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdés g) és
+h) pontjában,
+az 5. alcím tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdés
+l) pontjában,
+a 6. alcím tekintetében a befektetési vállalkozásokrólés az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek
+szabályairól szóló 2007. évi CXXXVIII. törvény 180. § (1) bekezdés g) pontjában,
+a 7. alcím tekintetében a befektetési vállalkozásokrólés az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek
+szabályairól szóló 2007. évi CXXXVIII. törvény 180. § (1) bekezdés f) pontjában,
+
+a 8. alcím tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdésének a) és
+g) pontjában, és a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 30. §-ának b) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a devizaárfolyam kockázat
+és nagykockázatok fedezetéhez szükséges tőkekövetelmény megállapításának szabályairól
+és a kereskedési könyv vezetésének részletes szabályairól szóló 244/2000. (XII. 24.) Korm. rendelet
+módosítása
+1. § (1) A kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a devizaárfolyam kockázat és nagykockázatok
+fedezetéhez szükséges tőkekövetelmény megállapításának szabályairól és a kereskedési könyv vezetésének részletes
+szabályairól szóló 244/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Kkr.) 2. § (1) bekezdése a következő 10a. ponttal
+egészül ki:
+(E rendelet alkalmazásában)
+„10a. értékpapírosítási pozíció:
+a) hitelintézet esetében a Hpt.-ben,
+b) befektetési vállalkozás esetében a 16a. pont a) alpontja szerinti jogszabályban
+meghatározott fogalom;”
+(2) A Kkr. 2. § (1) bekezdése a következő 19a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„19a. kétirányúkereslet: független és jóhiszemű vételi és eladási ajánlat fennállása azzal, hogy a legutolsó eladási árhoz
+vagy az aktuális jóhiszemű versenyképes vételi, illetve eladási ajánlattételi árhoz elfogadhatóan viszonyuló ár egy
+napon belül meghatározható, és az ügylet a kereskedési szokásoknak megfelelő viszonylag rövid időn belül ezen az
+áron megköthető;”
+(3) A Kkr. 2. § (1) bekezdése a következő 34a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„34a. újraértékpapírosítási pozíció:
+a) hitelintézet esetében a hitelintézetek értékpapírosítási tőkekövetelményéről szóló 380/2007. (XII. 23.) Korm.
+rendeletben,
+b) befektetési vállalkozás esetében a 16a. pont a) alpontja szerinti jogszabályban
+meghatározott fogalom;”
+2. § (1) A Kkr. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az intézmény a 3. számú melléklet szerinti táblázat megfelelő soraiba besorolja a kötvények nettó pozícióit a nem
+értékpapírosítási pozíciót jelentő eszközök esetében, majd megszorozza azokat a táblázatban található súlyokkal.”
+(2) A Kkr. 15. §-a a következő (3a)–(3e) bekezdéssel egészül ki:
+„(3a) Az (1) és (2) valamint a (3b) bekezdés és a 15/A. § alkalmazásában az intézmény a súlyozás és a nettó pozíció
+eredményét a nemteljesítési kockázatból adódó legnagyobb lehetséges veszteségre korlátozhatja. Rövid pozíció
+esetén ezt a korlátot úgy lehet kiszámítani, mint az alapul szolgáló eszközök kötelezettjei nemteljesítési kockázatának
+megszűnése miatt bekövetkező értékváltozás.
+(3b) A (3c) és (3d) bekezdésben meghatározott korrelációkereskedési portfólió tekintetében az intézmény az egyedi
+kockázatra vonatkozó tőkekövetelményt úgy is megállapíthatja, hogy az a) és b) pontban meghatározott összegek
+közül a nagyobbat alkalmazza:
+a) az összes egyedi kockázatra vonatkozó tőkekövetelmény, amely a korrelációkereskedési portfóliónak csak a nettó
+hosszú pozícióira vonatkozik;
+b) az összes egyedi kockázatra vonatkozó tőkekövetelmény, amely a korrelációkereskedési portfoliónak csak a nettó
+rövid pozícióira vonatkozik.
+(3c) A korrelációkereskedési portfólió azon értékpapírosítási pozíciókból és azon, az n-edik nemteljesítéskor lehívható
+hitelderivatívákból áll, amelyek megfelelnek az alábbi követelményeknek:
+a) a pozíciók nem újraértékpapírosítási pozíciók, nem valamely értékpapírosítási ügyletrész-sorozatra vonatkozó
+opciók, és nem olyan értékpapírosítási kitettségek derivatívái, amelyek valamely értékpapírosítási
+ügyletrész-sorozatból eredő bevételből arányos részesedésre jogosítanak; valamint
+
+b) valamennyi referenciaeszköz vagy egy kötelezettre szóló termék, ideértve az egyszerű hitelderivatívákat, amelyek
+esetében likvid kétirányú kereslet áll fenn, vagy e referenciaeszközökön alapuló, általánosan forgalomban lévő
+indexek.
+(3d) Az intézmény a korrelációkereskedési portfólióba olyan pozíciókat is belefoglalhat, amelyek nem
+értékpapírosítási pozíciók, és nem n-edik nemteljesítéskor lehívható hitelderivatívák, de ezen portfólióba tartozó
+egyéb pozíciókat fedeznek, feltéve, hogy likvid kétirányú kereslet áll fenn az eszközre vagy az annak alapjául szolgáló
+eszközökre.
+(3e) A korrelációkereskedési portfólió részét nem képezhetik azon pozíciók, amelyek referenciaeszközei között
+szerepel az alábbiak valamelyike:
+a) olyan alapul szolgáló eszköz, amelyet hozzá lehet rendelni
+aa) hitelintézet esetében a Hpt. 76/A. § (1) bekezdésének h) és i) pontjában,
+ab) befektetési vállalkozás esetében a Bhkr. 3. § (2) bekezdésének h) és i) pontjában
+meghatározott kitettségi osztályokhoz valamely intézmény nem kereskedési könyvében; vagy
+b) különleges célú gazdasági egységgel szembeni követelés.”
+3. § A Kkr. az „A kötvények egyedi pozíciókockázatának tőkekövetelménye” alcíme a következő 15/A. §-sal egészül ki:
+„15/A. § (1) Az intézmény a kötvények nettó pozícióit az értékpapírosítási pozíciót jelentő eszközök esetében az
+alábbiaknak megfelelően súlyozza:
+a) az olyan értékpapírosítási pozícióknál, amelyek az érintett intézmény nem kereskedési könyvében a hitelkockázat
+sztenderd módszere alá tartoznának, a hitelintézetek értékpapírosítási tőkekövetelményéről szóló 380/2007. (XII. 23.)
+Korm. rendelet (a továbbiakban: Épkr.) VII. Fejezetében vagy a Bhkr. II. Fejezetében meghatározott sztenderd módszer
+szerint számított kockázati súly 8%-a;
+b) az olyan értékpapírosítási pozícióknál, amelyek az érintett intézmény nem kereskedési könyvében a hitelkockázat
+belső minősítésen alapuló módszere alá tartoznának, a Épkr. VIII. Fejezetében vagy a Bhkr. VI. Fejezetében
+meghatározott belső minősítésen alapuló módszer szerint számított kockázati súly 8%-a.
+(2) Az (1) bekezdés alkalmazásában a felügyeleti képlet módszer csak felügyeleti jóváhagyással használható az
+értékpapírosítási ügyletben nem kezdeményezőként résztvevő intézmény számára, amely alkalmazhatja ezt
+ugyanazon, nem a kereskedési könyvben lévő értékpapírosítási pozíciójára. A PD- és LGD-értékekre vonatkozó
+becsléseket, mint bemenő paramétereket a felügyeleti képlet módszerhez a belső minősítésen alapuló módszerrel
+összhangban kell meghatározni, vagy külön felügyeleti jóváhagyással, a 43. § (9a) bekezdésében megállapított
+módszerrel készült becslések alapján, amelyek összhangban vannak a belső minősítésen alapuló módszerben
+alkalmazott becslési eljárásokkal.”
+4. § (1) A Kkr. 17/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A hitelkockázatot vállaló fél általános piaci kockázata tőkekövetelményének kiszámításához a hitelderivatíva
+szerződésben szereplő névértéket használja, vagy a névértéket csökkentheti a kereskedés megkezdése óta a
+hitelderivatíva piaci értékében bekövetkezett változással. A teljes hozamcsere-ügylet kivételével az egyedi
+pozíciókockázat tőkekövetelményének kiszámításakor az ügylet lejárata helyett a hitelderivatíva szerződés lejáratát
+kell alapul venni. A pozíciókat a (2)–(8) bekezdés rendelkezései szerint kell meghatározni.”
+(2) A Kkr. 17/A. § (8) bekezdése helyébe a következő rendelkezés lép:
+„(8) Ha az n-edik nemteljesítéskor lehívható hitelderivatíva kosár elismert külső hitelminősítő szervezet minősítésével
+rendelkezik, akkor a kockázat átvevőjének a származtatott eszköz minősítése alapján kell kiszámítania az egyedi
+kockázatra vonatkozó tőkekövetelményt, és alkalmaznia kell a megfelelő értékpapírosítási kockázati súlyokat.”
+5. § A Kkr. 19. §-a helyébe a következő rendelkezés lép:
+„19. § Az egyedi részvénykockázat tőkekövetelménye az intézmény összesített bruttó részvény pozíciójának 8%-a.”
+6. § (1) A Kkr. 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) E rendeletben előírt feltételek megléte esetén a Felügyelet engedélyezi az intézmény számára, hogy a
+pozíciókockázatra vonatkozó tőkekövetelmény, valamint az árukockázatra és a devizaárfolyam kockázatra vonatkozó
+teljes tőkekövetelmény számítását az e rendelet szerint kialakított belső modell alapján végezze.”
+
+(2) A Kkr. 43. § (5) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(A modellnek – az alkalmazása során – legalább az alábbi mennyiségi feltételeknek is eleget kell tennie:)
+„e) az intézménynek minden olyan esetben, amikor a piaci árfolyamok jelentősen elmozdulnak, de legalább havonta
+aktualizálnia kell a kockáztatott érték számításához használt adatbázisát.”
+(3) A Kkr. 43. §-a a következő (5a)–(5d) bekezdéssel egészül ki:
+„(5a) Az (5) bekezdés c) pontjában meghatározott feltételtől eltérően az intézmény rövidebb tartási időtartamra
+számított kockáztatott értéket is használhat 10 napra arányosítva (így különösen az idő négyzetgyökével). Az e
+megközelítést alkalmazó intézmény a Felügyeletnek negyedévenként bemutatja a megközelítés relevanciáját.
+(5b) Az intézmény kiszámítja a stresszhelyzeti kockáztatott értéket, a jelenlegi portfólió tíznapos, 99%-os, egyoldali
+konfidencia intervallumú kockáztatott értéke alapján, az intézmény portfóliója szempontjából lényeges, 12 hónapon
+át tartó jelentős pénzügyi stresszhelyzet időszakából származó korábbi adatokkal kalibrált kockáztatott érték módszer
+alapján. Az intézmény a választott adatokat évente felülvizsgálja és a felülvizsgálat eredményéről a Felügyeletet
+tájékoztatja. Az intézmény legalább hetente kiszámítja a stresszhelyzeti kockáztatott értéket.
+(5c) Az intézményneknapiszintenteljesíteniekellaza) ésb) pontösszegekéntkifejezetttőkekövetelményt,ésazolyan
+intézménynek, amely az egyedi pozíciós kockázatra vonatkozó tőkekövetelményének kiszámítására saját belső
+modelljéthasználja,ac) ésd) pontokösszegekéntkifejezetttőkekövetelménytkellbiztosítania,akövetkezőkszerint:
+a) az alábbiak közül a magasabb:
+aa) az (5) bekezdésnek megfelelően számított, előző napi kockáztatott érték (VaR t-1);
+ab) a megelőző 60 munkanapon az (5) bekezdésnek megfelelően kiszámított napi kockáztatott értékek átlaga
+(VaRavg), megszorozva a szorzótényezővel (mc
+);
+b) az alábbiak közül a magasabb:
+ba) az (5b) bekezdésnek megfelelően számított stresszhelyzeti kockáztatott érték legutóbbi rendelkezésre álló értéke
+(sVaRt-1); és
+bb) az (5b) bekezdésnek meghatározott módon és gyakorisággal az előző hatvan munkanapra kiszámított
+stresszhelyzeti kockáztatott értékek átlaga (sVaRavg), megszorozva a szorzótényezővel (ms
+);
+c) a kereskedési könyvben szereplő értékpapírosítási pozíciók és az n-edik nemteljesítéskor lehívható hitelderivatívák
+pozíciós kockázataira meghatározott tőkekövetelmény, a 14. számú melléklet 10. pontja szerinti tőkekövetelmény
+kivételével;
+d) az intézmény legutóbbi és annak 12 hetes átlagos járulékos nemteljesítési és migrációs kockázati érteke közül a
+magasabb érték a (9b) bekezdésnek megfelelően, és az intézmény legutóbbi és annak 12 hetes átlagos, az összes
+árkockázatra vonatkozó értéke közül a magasabb a 14. számú melléklet 10. pontjának megfelelően.
+(5d) Az intézmény köteles fordított stresszteszteket is végezni."
+(4) A Kkr. 43. § (9) bekezdése helyébe a következő rendelkezés lép:
+„(9) Az intézmény dönthet úgy, hogy az egyedi kockázatra vonatkozó tőkekövetelmény belső modellel való
+kiszámításánál kizárja azokat az értékpapírosítási pozíciókat vagy n-edik nemteljesítéskor lehívható hitelderivatívákat,
+amelyekre vonatkozóan teljesíti a pozíciós kockázatra meghatározott tőkekövetelményt, kivéve azon pozíciókat,
+amelyekre a 14. számú melléklet 10. pontjában meghatározott megközelítést kell alkalmazni. Az intézménynek belső
+modelljébennem kell foglalkozniaa (9b) bekezdésben meghatározott nemteljesítési és migrációs kockázat mérésével
+a kötvényre vonatkozóan, amennyiben az említett kockázatokat méri a (9a) bekezdésben meghatározott
+követelmények révén."
+(5) A Kkr. 43. §-a a következő (9a) és (9b) bekezdéssel egészül ki:
+„(9a) A (8) bekezdés szerinti feltételeknek megfelelő belső modellt használó intézmény a kötvényre vonatkozóan a
+tőkekövetelmény számításakor rendelkezik olyan módszerrel, amely lehetővé teszi azon kereskedési könyvi pozíciók
+nemteljesítési és migrációs kockázatainak megragadását, amelyek a kockáztatott értékkel mért kockázathoz
+hozzáadódnak. Az intézmény bizonyítja, hogy módszere – állandó kockázatot feltételezve és a likviditás,
+a koncentráció, a fedezet és az opcionalitás hatását kellően tükröző szükség szerinti kiigazításokkal– a Hpt.-ben vagy a
+Bhkr.-ben meghatározott belső minősítésen alapuló módszerre vonatkozó előírásokkal egyenértékű megbízhatósági
+előírásoknak felel meg.
+(9b) A járulékos nemteljesítési és a migrációs kockázat mérésére szolgáló, a 14. számú mellékletben meghatározott
+módszer valamennyi olyan pozícióra alkalmazandó, amely egyedi kamatláb-kockázatra vonatkozó tőkekövetelményt
+számít, de nem alkalmazandó az értékpapírosítási pozíciókra és az n-edik nemteljesítéskor lehívható
+hitelderivatívákra. A Felügyelet jóváhagyása alapján az intézmény dönthet úgy, hogy következetesen bevon minden
+tőzsdén jegyzett részvénypozíciót és jegyzett részvényen alapuló származtatott ügylet pozíciót, amelyek esetében ez
+
+a bevonás összhangban van az intézmény belső kockázatmérésével és -kezelésével. A módszernek tükröznie kell a
+nemteljesítési és migrációs események közötti korreláció hatását. Nem tükröződhet egyrészt a nemteljesítési és a
+migrációs események, másrészt az egyéb piaci kockázati tényezők közötti diverzifikáció hatása.”
+7. § A Kkr. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kockázatmérési rendszernek minden releváns kockázati tényező változását modelleznie kell az intézmény piaci
+tevékenysége mértékének megfelelően. Ha az intézmény árképzési modelljébe beépül egy kockázati tényező, de a
+kockázatmérési modellbe nem, az intézménynek megfelelően indokolnia kell a Felügyelet részére a kockázati tényező
+figyelmen kívül hagyását. Emellett a kockázatértékelési modell méri az opciók és egyéb termékek nem lineáris
+viselkedését,valaminta korrelációsés a báziskockázatot.A kockázatitényezőkrevonatkozóbecsült értékek használata
+esetén, a becsléseknek jól kell követnie a ténylegesen tartott pozíciókat."
+8. § A Kkr. 46. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A 43. § (5c) bekezdésének a) és b) pontjának alkalmazásában az (mc
+) és (ms
+) korrekciós tényezők minimális értéke
+három, amelyet a modell által a 45. § (2) bekezdés b) pontja szerint elkövetett hibák számának függvényében az
+1. számú mellékletben szereplő táblázat szerinti értékkel növelni kell.”
+9. § (1) A Kkr. 13. számú melléklete helyébe az 1. melléklet lép.
+(2) A Kkr. a 2. melléklet szerinti 14. számú melléklettel egészül ki.
+10. § Hatályát veszti a Kkr. 43. § (8) bekezdés g) és i)–k) pontja.
+2. A hitelezési kockázat kezeléséről és tőkekövetelményéről szóló 196/2007. (VII. 30.) Korm. rendelet
+módosítása
+11. § (1) A hitelezési kockázat kezeléséről és tőkekövetelményéről szóló 196/2007. (VII. 30.) Korm. rendelet (a továbbiakban:
+Hkr.) 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A regionális kormánnyal és a helyi önkormányzattal szembeni kitettségre – a (2)–(7) bekezdésben meghatározott
+eltéréssel – a hitelintézettel és a befektetési vállalkozással szembeni kitettségre alkalmazott kockázati súlyt kell
+alkalmazni.”
+(2) A Hkr. 5. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A regionális kormánnyal, helyi önkormányzattal szembeni, a központi kormánya nemzeti pénznemében fennálló
+(denominált) és finanszírozott kitettségre 20%-os kockázati súlyt kell alkalmazni.”
+12. § A Hkr. 12. § (5) bekezdés a) pontjában és (6) bekezdés a) pontjában, 15. § (4) bekezdés a) pontjában és 150. §
+(1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
+13. § Hatályát veszti a Hkr. 3. § 21–23 pontja.
+3. A működési kockázat kezeléséről és tőkekövetelményéről szóló 200/2007. (VII. 30.) Korm. rendelet
+módosítása
+14. § A működési kockázat kezeléséről és tőkekövetelményéről szóló 200/2007. (VII. 30.) Korm. rendelet 5. §
+(1) bekezdésében és 7. § (1) bekezdésében a „13/C.” szövegrész helyébe a „13/D.” szöveg lép.
+4. A hitelintézetek értékpapírosítási tőkekövetelményéről szóló 380/2007. (XII. 23.) Korm. rendelet
+módosítása
+15. § (1) A hitelintézetek értékpapírosítási tőkekövetelményéről szóló 380/2007. (XII. 23.) Korm. rendelet (a továbbiakban:
+Épkr.) 2. § (1) bekezdés 14. és 15. pontja helyébe a következő rendelkezések lépnek:
+(E rendelet alkalmazásában:)
+„14. minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével rendelkező értékpapírosítási vagy
+újraértékpapírosítási pozíció;
+
+15. nem minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező értékpapírosítási
+vagy újraértékpapírosítási pozíció.”
+(2) Az Épkr. 2. § (1) bekezdése a következő 19. és 20. ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„19. újraértékpapírosítás: olyan értékpapírosítás, ahol az alapul szolgáló kitettségek halmazához (pooljához) tartozó
+hitelezési kockázat ügyletrész-sorozatba kerül besorolásra, és az alapul szolgáló kitettségek legalább egyike
+értékpapírosítási pozíció;
+20. újraértékpapírosítási pozíció: az újraértékpapírosítási ügyletben vállalt hitelezési kockázati kitettség.”
+16. § Az Épkr. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A szponzorhitelintézet, az olyanértékpapírosítástkezdeményezőhitelintézet, amely az értékpapírosítottkitettség
+kockázattal súlyozott kitettség értékét a 3. § szerint számítja ki vagy a kereskedési könyvben nyilvántartott kitettséget
+ruházott át különleges célú gazdasági egységre, amelynek következtében az érintett kitettséget nem kell figyelembe
+vennie a kockázattal súlyozott kitettség érték és várható veszteség érték számítása során, a szerződésben rögzített
+kötelezettségeit meghaladóan nem adhat támogatást az értékpapírosításhoz az értékpapírosítási pozícióval
+rendelkező (befektető) potenciális vagy tényleges veszteségeinek csökkentése érdekében.”
+17. § Az Épkr. 17. §-a helyébe a következő rendelkezés lép:
+„17. § (1) Ha egy értékpapírosításiügylet egymást átfedő pozícióvalrendelkezik,akkora kockázattalsúlyozott kitettség
+értékének meghatározásakor az átfedés mértékéig csak azt a pozíciót vagy pozíciórészt kell figyelembe venni,
+amelyikhez nagyobb kockázattal súlyozott kitettség érték tartozik.
+(2) A hitelintézet a kereskedési könyvben nyilvántartott pozíció egyedi kockázati tőkekövetelményével történő
+átfedést is figyelembe vehet, amennyiben ki tudja számítani és össze tudja hasonlítani az adott pozíciókra vonatkozó
+tőkekövetelményeket.
+(3) Ha a hitelintézet az ABCP programhoz kapcsolódó pozícióra a Felügyelet engedélyével a 11. § (4) bekezdését
+alkalmazza, akkor a hitelintézet a pozíció kockázattal súlyozott kitettség értékének kiszámításához a likviditási
+hitelkerethez rendelt kockázati súlyt is alkalmazhatja, amennyiben a likviditási hitelkeret egyenrangúnak (pari passu)
+minősül az ABCP programmal, azok egymást átfedő pozíciót alkotnak, és a likviditási hitelkeret 100%-ban fedezi az
+ABCP programot.
+(4) E § alkalmazásában az átfedés alatt azt kell érteni, hogy a pozíciók részben vagy egészben ugyanazon kockázattal
+szembeni kitettségből származnak.”
+18. § Az Épkr. 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A minősített pozíció kitettség értékére – a 19. §-ban foglalt eltéréssel – a Felügyelet által a hitelminősítéshez
+rendelt hitelminősítési besorolás alapján a 2. számú mellékletben meghatározott táblázat szerinti kockázati súly
+alkalmazandó.”
+19. § Az Épkr. 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A minősítésen alapuló módszer alkalmazásakor a hitelintézetnek a minősített pozíció kockázattal súlyozott
+kitettség értékét úgy kell meghatároznia, hogy a kitettség értékét meg kell szoroznia a Felügyelet által a
+hitelminősítéshez rendelt hitelminősítési besoroláshoz tartozó, 1,06-dal megszorzott súllyal a 4. számú mellékletben
+meghatározott táblázat szerint.”
+20. § Az Épkr. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A felügyeleti képlet módszere alkalmazásakor– a 47. §-ban meghatározott eltéréssel – az értékpapírosítási pozíció
+kockázati súlyaként az 5. számú mellékletben meghatározott kockázati súlyt kell alkalmazni azzal, hogy
+újraértékpapírosítási pozíció kockázati súlya legalább 20%, az összes egyéb értékpapírosítási pozíció kockázati súlya
+legalább 7%.”
+21. § (1) Az Épkr. 2. számú melléklete helyébe a 3. melléklet lép.
+(2) Az Épkr. 4. számú melléklete helyébe a 4. melléklet lép.
+(3) Az Épkr. 5. számú melléklete az 5. melléklet szerint módosul.
+
+22. § 5. A hitelintézet partnerkockázatának kezeléséről szóló 381/2007. (XII. 23.) Korm. rendelet módosítása
+23. § (1) A hitelintézet partnerkockázatának kezeléséről szóló 381/2007. (XII. 23.) Korm. rendelet (a továbbiakban: Pkkr.) 2. §
+(1) bekezdés 7. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„7. értékpapír ügylethez kapcsolódó hitel: olyan hitel, amelyet egy hitelintézet értékpapírok vásárlásához, eladásához
+vagy kereskedelméhez nyújt, ide nem értve az értékpapír fedezettel nyújtott kölcsönt, hitelkeretet;”
+(2) A Pkkr. 2. § (1) bekezdés 19. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„19. megújulási kockázat: az az összeg, amellyel a várható pozitív kitettség alulértékelt, amikor egy partnerrel kötött
+jövőbeni ügyleteket várhatóan folyamatosan kötik, mivel az ezekből a jövőbeni ügyletekből szármató pótlólagos
+kitettség nem képezi részét a várható pozitív kitettség számításának;”
+(3) A Pkkr. 2. § (1) bekezdés 24. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„24. termékcsoportok közötti nettósítás: különböző termékcsoportokra vonatkozó ügyletek – az e rendeletben
+meghatározott, termékcsoportokközötti nettósítási szabályokkalösszhangban– azonos nettósítási halmazba történő
+bevonása;”
+24. § A Pkkr. 4. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Ha a hitelintézet a piaci árazás szerinti módszert vagy az eredeti kitettség szerinti módszert alkalmazza, akkor a
+számítás során figyelembe vett szerződéses összegnek (elvi főösszegnek) teljes mértékben le kell fednie a
+szerződésből származó kockázatot. Ha a szerződés a pénzáramlások megtöbbszörözéséről rendelkezik, akkor a
+szerződéses összeget (elvi főösszeget) a szerződésben foglaltak figyelembe vételével ki kell igazítani és szintén meg
+kell többszörözni.”
+25. § A Pkkr. 29. §-a helyébe a következő rendelkezés lép:
+„29. § (1) A szerződéses nettósítás tekintetében
+a) a partner olyan természetes vagy jogi személy, amely jogosult szerződéses nettósítási megállapodást kötni, és
+b) a termékcsoportok közötti nettósítási megállapodás olyan a hitelintézet és egy partner között létrejött szerződés,
+amely egyetlen jogi kötelezettség keretében a különböző termékcsoportokhoz tartozó összes kétoldalú
+keretmegállapodást és ügyletet tartalmazza azzal, hogy a termékcsoportok közötti szerződéses megállapodás mindig
+csak a kétoldalú alapon végrehajtott nettósításra vonatkozhat.
+(2) A termékcsoportok közötti nettósítás alkalmazásában különböző termékcsoport-kategóriának minősül:
+a) a repóügylet, fordított repóügylet, értékpapír- és árukölcsönzési ügylet,
+b) az értékpapír ügylethez kapcsolódó hitel, és
+c) a Hkr. 18. §-a szerinti származtatott ügylet.
+(3) A tőkekövetelmény számítása során a következő szerződéses nettósítási típusok kockázatmérséklő hatása
+ismerhető el:
+a) a hitelintézet és partnere közötti kétoldalú adósságmegújítási szerződés (nováció), amelynek alapján a kölcsönösen
+fennálló követelések és kötelezettségek egymással szemben automatikusan oly módon kerülnek beszámításra, hogy
+az adósságmegújítás egyetlen nettó összeget határoz meg, amely így jogilag kötelező erejű, egyetlen új szerződést
+képez a korábbi szerződések megszüntetésével;
+b) egyéb Felügyelet vagy jogszabály által elismert nettósítási megállapodások;
+c) olyan, hitelintézetek termékcsoportok közötti szerződéses nettósítási megállapodásai, amelyek a belső modell
+módszert alkalmazzák azzal, hogy a Hpt. 90. § (2) bekezdése szerinti vállalkozások által kötött az ügyletek közötti
+nettósítás e rendelet tekintetében nem vehető figyelembe.”
+26. § (1) A Pkkr. 30. § (1) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
+(A szerződéses nettósítás kockázatmérséklésként akkor ismerhető el a tőkekövetelmény számítása során, ha)
+„e) a partnerek összesített hitelkockázati kitettség értékének mérése során a nettósítás hatásait figyelembe veszik és a
+hitelintézet a partnerkockázatát ennek mentén kezeli és
+f) minden egyes partnerrel szembeni hitelezési kockázatok összesítésre kerülnek az ügyletek közötti nettósítás révén
+egyetlen jogi kitettség keretében azzal, hogy a hitelintézet ezt az összeget veszi figyelembe a partnerek
+hitellimitjeinek kezelésénél és a belső tőkeszámításoknál.”
+
+(2) A Pkkr. 30. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az (1) bekezdésben rögzített feltételeken kívül a termékcsoportok közötti szerződéses nettósítási
+megállapodásnak a kockázatmérséklő hatása elismerhetősége érdekében eleget kell tennie a következő
+feltételeknek is:
+a) az (1) bekezdés a) pontja szerinti nettó összegnek a termékcsoportok közötti nettósítási megállapodás hatálya alá
+tartozó összes kétoldalú szerződéses nettósítási keretmegállapodás pozitív és negatív pozíció lezáró értékeinek,
+továbbá az egyes egyedi ügyletek pozitív és negatív piaci értéknek a nettó összegét kell tekinteni,
+b) az (1) bekezdés b) pontja szerinti írásos és indokolással ellátott jogi szakvéleménynek ki kell térnie a
+termékcsoportok közötti szerződéses nettósítási megállapodás érvényességére és érvényesíthetőségére, valamint a
+termékcsoportok közötti kétoldalú szerződéses nettósítási megállapodásnak a hatálya alá tartozó bármely kétoldalú
+nettósítási keretmegállapodás lényeges rendelkezéseire gyakorolt hatására,
+c) a hitelintézetnek olyan eljárással kell rendelkeznie az (1) bekezdés c) pontja vonatkozásában, amely biztosítja a
+nettósítási halmazba tartozó minden ügylet jogi szakvéleménnyel való lefedettségét, valamint
+d) a kétoldalú termékcsoportok közötti szerződéses nettósítási megállapodás tekintetében a belső modell módszert
+alkalmazó hitelintézetnek meg kell felelnie a Hkr. hitelkockázati fedezet elismerhetőségére vonatkozó feltételeknek,
+ideértve a szerződés hatálya alá tartozó minden egyes kétoldalú szerződéses keretmegállapodást és az egyedi
+ügyletet is.”
+27. § A Pkkr. 31. §-a helyébe a következő rendelkezés lép:
+„31. § (1) A partnerkockázati kitettség mérése sztenderd módszerénél a nettósítás hatását az V. Fejezetben leírtak
+szerint, a belső modell módszer alkalmazásakor a VI. Fejezetben leírtak szerint kell számítani.
+(2) Az adósságmegújítási szerződések(novációs szerződések) által rögzített egyedi nettó összegek súlyozhatóak azzal,
+hogy
+a) a piaci árazás szerinti módszer alkalmazásakor a pótlási költséget és a lehetséges jövőbeni kitettséget az
+adósságmegújítási szerződés szerinti nettó összegre kell számolni,
+b) az eredeti kitettség szerinti módszer alkalmazásakor a szerződéskötési értéket az adósságmegújítási szerződés által
+keletkeztetettnettó értékrekellértelmezniésazt azösszegetkellmegszoroznia2. számúmellékletbenmeghatározott
+táblázatban szereplő megfelelő értékkel a futamidőtől és az ügylettípustól függően.
+(3) Egyéb, jogszabály vagy a Felügyelet által elismert nettósítási megállapodások esetében a termékcsoportok közötti
+nettósítás kivételével
+a) a piaci árazás szerinti módszer alkalmazásakor a nettósítási megállapodásba tartozó szerződések
+aa) pótlási költsége meghatározása során a megállapodásból következő, azaz az egyes ügyletek pozitív és negatív
+piaci értékeinek összesítése révén keletkező nettó pótlási költséget lehet figyelembe venni azzal, hogyha az negatív
+(kötelezettséget eredményezne a hitelintézet számára), akkor a nettósítás eredményeként számolt pótlási költségét
+nullának kell tekinteni,
+ab) nettósítási megállapodás alá tartozó ügyletek lehetséges jövőbeni hitelkitettség értékét az 5. számú melléklet
+1. pontjában meghatározott képlet szerint kell számolni és a képlet alkalmazásakor a nettósítási megállapodásban
+figyelembe vett tökéletesen illeszkedő szerződéseket egy szerződésként lehet kezelni, a nettó követelést véve, mint
+szerződéskötéskori érték (elvi főösszeg);
+b) az eredeti kitettség szerinti módszer alkalmazásakor a kitettség érték meghatározásánál
+ba) a nettósítási megállapodásban figyelembe vett tökéletesen illeszkedő szerződéseket egy szerződésként lehet
+kezelni a nettó követelést véve, mint szerződéskötéskori értéket (elvi főösszeget) tekintve és az így számított értéket a
+2. számú mellékletben meghatározott táblázat százalékos értékeivel kell megszorozni,
+bb) a nettósítási megállapodás alá tartozó minden más szerződés esetében a szerződéskötéskori értékre (elvi
+főösszegre) alkalmazandó szorzószámok az 5. számú melléklet 2. pontjában meghatározott táblázatban feltüntetett
+csökkentett mértékű értéket véve.
+(4) A (3) bekezdés a) pont aa) alpontjában alkalmazott lehetséges jövőbeni hitelkitettség számítási képlete során
+a nettósítási megállapodásban szereplő, tökéletesen illeszkedő szerződéseket egyedi szerződéshez tartozó
+szerződéskötési értékkel lehet figyelembe venni.
+(5) A (3) és (4) bekezdés alkalmazásában tökéletesen illeszkedő szerződések olyan tőzsdén kívüli deviza határidős
+ügyletek (forward) és hasonló szerződések, amelyeknél a pénzáramlások egyenlőek, a pénzáramlások ugyanarra
+az értéknapra vonatkoznak és részben vagy egészben ugyanabban a pénznemben válnak esedékessé.”
+
+6. A befektetési vállalkozás kockázatvállalására és kockázatkezelésére vonatkozó információk
+nyilvánosságra hozataláról szóló 164/2008. (VI. 27.) Korm. rendelet módosítása
+28. § A befektetési vállalkozás kockázatvállalására és kockázatkezelésére vonatkozó információk nyilvánosságra hozataláról
+szóló 164/2008. (VI. 27.) Korm. rendelet 2. §-a helyébe a következő rendelkezés lép:
+„2. § (1) A befektetési vállalkozás szabályzatban határozza meg az e rendelet szerinti nyilvánosságra hozatal elveit.
+A szabályzatban meg kell határozni az információ ellenőrzésére és a nyilvánosságra hozatal értékelésére vonatkozó
+szabályokat, továbbá a nyilvánosságra hozatal gyakoriságát.
+(2) A szabályzatban elveket kell meghatározni annak értékelésére is, hogy a nyilvánosságra hozott információk
+átfogóan beszámolnak-e a befektetési vállalkozás kockázati profiljáról. Ha az értékelés alapján nyilvánosságra hozott
+információk nem számolnak be átfogóan a kockázati profilról, a befektetési vállalkozás – a 3. §-ban meghatározott
+eltéréssel – köteles az ehhez szükséges információkat is nyilvánosságra hozni.”
+7. A befektetési vállalkozás hitelkockázatáról szóló 301/2008. (XII. 17.) Korm. rendelet módosítása
+29. § (1) A befektetési vállalkozás hitelkockázatáról szóló 301/2008. (XII. 17.) Korm. rendelet (a továbbiakban: Bhkr.)
+1. § (2) bekezdés 61. és 62. pontja helyébe a következő rendelkezések lépnek
+(E rendelet alkalmazásában:)
+„61. minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével rendelkező értékpapírosítási vagy
+újraértékpapírosítási pozíció;
+62. nem minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező értékpapírosítási
+vagy újraértékpapírosítási pozíció;”
+(2) A Bhkr. 1. § (2) bekezdése a következő 80a. és 80b. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„80a. újraértékpapírosítás: olyan értékpapírosítás, ahol az alapul szolgáló kitettségek halmazához (pooljához) tartozó
+hitelkockázat ügyletrész-sorozatba kerül besorolásra, és az alapul szolgáló kitettségek legalább egyike
+értékpapírosítási pozíció;
+80b. újraértékpapírosítási pozíció: az újraértékpapírosítási ügyletben vállalt hitelkockázati kitettség;”
+30. § (1) A Bhkr. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A regionális kormánnyal, helyi önkormányzattal szembeni kitettségre – a (2)–(7) bekezdésben meghatározott
+eltéréssel – az intézménnyel szembeni kitettségre alkalmazott kockázati súlyt kell alkalmazni.”
+(2) A Bhkr. 5. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A regionális kormánnyal, helyi önkormányzattal szembeni, a központi kormánya nemzeti pénznemében fennálló
+(denominált) és finanszírozott kitettségre 20%-os kockázati súlyt kell alkalmazni.”
+31. § A Bhkr. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az értékpapírosított vagy újraértékpapírosított pozíció kitettség értékéhez, ha rendelkezik külső hitelminősítő
+szervezet által készített hitelminősítéssel, akkor – a Felügyelet által a hitelminősítéshez hozzárendelt besorolás alapján
+– a 8. melléklet szerinti kockázati súlyt kell rendelni.”
+32. § A Bhkr. 184. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Ha a befektetési vállalkozás a piaci árazás szerinti módszert vagy az eredeti kitettség szerinti módszert alkalmazza,
+akkor a számítás során figyelembe vett szerződéses összegnek (elvi főösszegnek) teljes mértékben le kell fednie a
+szerződésből származó kockázatot. Ha a szerződés a pénzáramlások megtöbbszöröződéséről rendelkezik, akkor a
+szerződéses összeget (elvi főösszeget) a szerződésben foglaltak figyelembe vételével ki kell igazítani és szintén meg
+kell többszörözni.”
+33. § A Bhkr. 209. §-a helyébe a következő rendelkezés lép:
+„209. § (1) A szerződéses nettósítás tekintetében
+a) az ügyfél olyan természetes vagy gazdálkodó szervezet, amely jogosult szerződéses nettósítási megállapodást
+kötni, és
+
+b) a termékkategóriák közötti szerződéses nettósítási megállapodás olyan a befektetési vállalkozás és egy ügyfél
+között létrejött szerződés, amely egyetlen jogi kötelezettség keretében a különböző termékkategóriákhoz tartozó
+összes kétoldalú keretmegállapodást és ügyletet tartalmazza azzal, hogy a termékkategóriák közötti szerződéses
+megállapodás mindig csak a kétoldalú alapon végrehajtott nettósításra vonatkozhat.
+(2) A termékkategóriák közötti nettósítás alkalmazásában különböző kategóriának minősül:
+a) a repóügylet, fordított repóügylet, értékpapír- és árukölcsönzési ügylet,
+b) az értékpapír ügylethez kapcsolódó hitel, és
+c) a 185. § szerinti származtatott ügylet.
+(3) A tőkekövetelmény számítása során a következő szerződéses nettósítási típusok kockázatmérséklő hatása
+ismerhető el:
+a) a befektetési vállalkozás és az ügyfele közötti kétoldalú adósságmegújítási szerződés (nováció), amelynek alapján
+a kölcsönösen fennálló követelések és kötelezettségek egymással szemben automatikusan oly módon kerülnek
+beszámításra, hogy az adósságmegújítás egyetlen nettó összeget határoz meg, amely így jogilag kötelező erejű,
+egyetlen új szerződést képez a korábbi szerződések megszüntetésével;
+b) egyéb Felügyelet vagy jogszabály által elismert nettósítási megállapodások;
+c) olyan, befektetési vállalkozások termékkategóriák közötti szerződéses nettósítási megállapodásai, amelyek a belső
+modell módszert alkalmazzák azzal, hogy a Tpt. 181/A. § (2) bekezdése szerinti vállalkozások által kötött az ügyletek
+közötti nettósítás e rendelet tekintetében nem vehető figyelembe.”
+34. § (1) A Bhkr. 210. § (1) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
+(A szerződéses nettósítás kockázatmérséklésként akkor ismerhető el a tőkekövetelmény számítása során, ha)
+„e) a partnerek összesített hitelkockázati kitettség értékének mérése során a nettósítás hatásait figyelembe veszik és
+a befektetési vállalkozás a partner hitelkockázatát ennek mentén kezeli, és
+f) minden egyes ügyféllel szembeni hitelkockázatok összesítésre kerülnek az ügyletek közötti nettósítás révén
+egyetlen jogi kitettség keretében azzal, hogy a befektetési vállalkozás ezt az összeget veszi figyelembe az ügyfelek
+hitellimitjeinek kezelésénél és a belső tőkeszámításoknál.”
+(2) A Bhkr. 210. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az (1) bekezdésben rögzített feltételeken kívül a termékcsoportok közötti szerződéses nettósítási
+megállapodásnak a kockázatmérséklő hatása elismerhetősége érdekében eleget kell tennie a következő
+feltételeknek is:
+a) az (1) bekezdés a) pontja szerinti nettó összegnek a termékcsoportok közötti nettósítási megállapodás hatálya alá
+tartozó összes kétoldalú szerződéses nettósítási keretmegállapodás pozitív és negatív pozíció lezáró értékeinek,
+továbbá az egyes egyedi ügyletek pozitív és negatív piaci értéknek a nettó összegét kell tekinteni,
+b) az (1) bekezdés b) pontja szerinti írásos és indokolással ellátott jogi szakvéleménynek ki kell térnie a
+termékcsoportok közötti szerződéses nettósítási megállapodás érvényességére és érvényesíthetőségére, valamint
+a termékcsoportok közötti kétoldalú szerződéses nettósítási megállapodásnak a hatálya alá tartozó bármely kétoldalú
+nettósítási keretmegállapodás lényeges rendelkezéseire gyakorolt hatására,
+c) a befektetési vállalkozásnak olyan eljárással kell rendelkeznie az (1) bekezdés c) pontja vonatkozásában, amely
+biztosítja a nettósítási halmazba tartozó minden ügylet jogi szakvéleménnyel való lefedettségét, valamint
+d) a kétoldalú termékcsoportok közötti szerződéses nettósítási megállapodás tekintetében a belső modell módszert
+alkalmazó befektetési vállalkozásnak meg kell felelnie a hitelkockázati fedezet elismerhetőségére vonatkozó
+feltételeknek, ideértve a szerződés hatálya alá tartozó minden egyes kétoldalú szerződéses keretmegállapodást és az
+egyedi ügyletet is.”
+35. § A Bhkr. 211. §-a helyébe a következő rendelkezés lép:
+„211. § (1) A partnerkockázati kitettség mérése sztenderd módszerénél a nettósítás hatását a 187–194. §-ban leírtak
+szerint, a belső modell módszer alkalmazásakor a 195–208. §-ban leírtak szerint kell számítani.
+(2) Az adósságmegújítási szerződések (novációs szerződések) által rögzített egyedi nettó összegek súlyozhatóak azzal,
+hogy
+a) a piaci árazás alkalmazásakor a pótlási költséget és a lehetséges jövőbeni kitettséget az adósságmegújítási
+szerződés szerinti nettó összegre kell számolni,
+b) az eredeti kitettség alkalmazásakor a szerződéskötési értéket az adósságmegújítási szerződés által keletkeztetett
+nettó értékre kell értelmezni és azt az összeget kell megszorozni a 15. táblázatban szereplő megfelelő értékkel a
+futamidőtől és az ügylettípustól függően.
+
+(3) Egyéb, jogszabály vagy a Felügyelet által elismert nettósítási megállapodásokesetében a termékkategóriák közötti
+nettósítás kivételével
+a) a piaci árazás alkalmazásakor a nettósítási megállapodásba tartozó szerződések
+aa) pótlási költsége meghatározása során a megállapodásból következő, azaz az egyes ügyletek pozitív és negatív
+piaci értékeinek összesítése révén keletkező nettó pótlási költséget lehet figyelembe venni azzal, hogyha az negatív
+(kötelezettséget eredményezne a befektetési vállalkozás számára), akkor a nettósítás eredményeként számolt pótlási
+költségét nullának kell tekinteni,
+ab) nettósításimegállapodásalátartozó ügyletek lehetségesjövőbenihitelkitettség értékét a 4. melléklet1. pontjában
+meghatározott képlet szerint kell számolni és a képlet alkalmazásakor a nettósítási megállapodásban figyelembe vett
+tökéletesen illeszkedő szerződéseket egy szerződésként lehet kezelni, a nettó követelést véve, mint
+szerződéskötéskori érték (elvi főösszeg);
+b) az eredeti kitettség alkalmazásakor a kitettség érték meghatározásánál
+ba) a nettósítási megállapodásban figyelembe vett tökéletesen illeszkedő szerződéseket egy szerződésként lehet
+kezelni a nettó követelést véve, mint szerződéskötéskori értéket (elvi főösszeget) tekintve és az így számított értéket
+a 15. táblázat százalékos értékeivel kell megszorozni,
+bb) a nettósítási megállapodás alá tartozó minden más szerződés esetében a szerződéskötéskori értékre (elvi
+főösszegre) alkalmazandó szorzószámok a 4. melléklet 2. pontjában meghatározott táblázatban feltüntetett
+csökkentett mértékű értéket véve.
+(4) A (3) bekezdés a) pont aa) alpontjában alkalmazott lehetséges jövőbeni hitelkitettség számítási képlete során a
+nettósítási megállapodásban szereplő, tökéletesen illeszkedő szerződéseket egyedi szerződéshez tartozó
+szerződéskötési értékkel lehet figyelembe venni.
+(5) A (3) és (4) bekezdés alkalmazásában tökéletesen illeszkedő szerződések olyan tőzsdén kívüli deviza határidős
+ügyletek (forward) és hasonló szerződések, amelyeknél a pénzáramlások egyenlőek, a pénzáramlások ugyanarra az
+értéknapra vonatkoznak és részben vagy egészben ugyanabban a pénznemben válnak esedékessé.”
+36. § A Bhkr. 214. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A szponzor befektetési vállalkozás, az olyan eszközátruházó befektetési vállalkozás, amely az értékpapírosított
+kitettség kockázattal súlyozott kitettség értékét a 212. § szerint számítja ki vagy a kereskedési könyvben nyilvántartott
+kitettséget ruházott át különleges célú gazdasági egységre, amelynek következtében az érintett kitettséget nem kell
+figyelembe vennie a kockázattal súlyozott kitettség érték és várható veszteség érték számítása során, a szerződésben
+rögzített kötelezettségeit meghaladóan nem adhat támogatást az értékpapírosításhoz az értékpapírosítási pozícióval
+rendelkező (befektető) potenciális vagy tényleges veszteségeinek csökkentése érdekében.”
+37. § A Bhkr. 226. §-a helyébe a következő rendelkezés lép:
+„226. § (1) Ha egy értékpapírosítási ügylet egymást átfedő pozícióval rendelkezik, akkor a kockázattal súlyozott
+kitettség értékének meghatározásakor az átfedés mértékéig csak azt a pozíciót vagy pozíciórészt kell figyelembe
+venni, amelyikhez nagyobb kockázattal súlyozott kitettség érték tartozik.
+(2) A befektetési vállalkozás a kereskedési könyvben nyilvántartott pozíció egyedi kockázati tőkekövetelményével
+történő átfedést is figyelembe vehet, amennyiben ki tudja számítani és össze tudja hasonlítani az adott pozíciókra
+vonatkozó tőkekövetelményeket.
+(3) Ha a befektetési vállalkozás az ABCP programhoz kapcsolódó pozícióra a Felügyelet engedélyével a 220. §
+(4) bekezdését alkalmazza, akkor a befektetési vállalkozás a pozíció kockázattal súlyozott kitettség értékének
+kiszámításához a likviditási hitelkerethez rendelt kockázati súlyt is alkalmazhatja, amennyiben a likviditási hitelkeret
+egyenrangúnak (pari passu) minősül az ABCP programmal, azok egymást átfedő pozíciót alkotnak, és a likviditási
+hitelkeret 100%-ban fedezi az ABCP programot.
+(4) E § alkalmazásában az átfedés alatt azt kell érteni, hogy a pozíciók részben vagy egészben ugyanazon kockázattal
+szembeni kitettségből származnak.”
+38. § A Bhkr. 235. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A minősítésen alapuló módszer alkalmazásakor a befektetési vállalkozásnak a minősített pozíció kockázattal
+súlyozott kitettség értékét úgy kell meghatároznia, hogy a kitettség értékét meg kell szoroznia a Felügyelet által a
+hitelminősítéshez rendelt hitelminősítési besoroláshoz tartozó, 1,06-dal megszorzott kockázati súllyal a 6. melléklet
+táblázata szerint.”
+
+39. § A Bhkr. 236. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A felügyeleti képlet módszere alkalmazásakor – a 239. §-ban meghatározott eltéréssel – az értékpapírosítási
+pozíció kockázati súlyaként a 7. mellékletben meghatározott kockázati súlyt kell alkalmazni azzal, hogy az
+újraértékpapírosítási pozíció kockázati súlya legalább 20%, az összes egyéb értékpapírosítási pozíció kockázati súlya
+legalább 7%.”
+40. § (1) A Bhkr. 6. melléklete helyébe a 6. melléklet lép.
+(2) A Bhkr. a 7. melléklet szerinti 8. melléklettel egészül ki.
+41. § A Bhkr. 12. § (5) bekezdés a) pontjában, 12. § (6) bekezdés a) pontjában, 15. § (4) bekezdés a) pontjában, 43. §
+(1) bekezdés d) és e) pontjában és 171. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a
+„Magyarország” szöveg lép.
+42. § Hatályát veszti a Bhkr. 17. §-át követő 6. és 7. táblázat.
+8. A körültekintő lakossági hitelezés feltételeiről és a hitelképesség vizsgálatáról szóló
+361/2009. (XII. 30.) Korm. rendelet módosítása
+43. § (1) A körültekintő lakossági hitelezés feltételeiről és a hitelképesség vizsgálatáról szóló 361/2009. (XII. 30.) Korm. rendelet
+(a továbbiakban: Klhr.) 1. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(E rendelet hatálya nem terjed ki:)
+„a) a természetes személy fizetési nehézsége és késedelme miatt a meglévő hitelei módosítására, átütemezésére,
+amennyiben ezáltal a hiteltartozás fennálló összege nem növekszik és az új hitel
+aa) euróhitel, euró alapú hitel vagy forinthitel, ha az eredeti hitel euró alapú hitel, euróhitel vagy más devizahitel,
+ab) forinthitel, ha az eredeti hitel forinthitel,
+ac) svájci frank hitel vagy svájci frank alapú hitel, ha az eredeti hitel svájci frank hitel vagy svájci frank alapú hitel;”
+(2) A Klhr. 1. § (3) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(E rendelet hatálya nem terjed ki:)
+„e) az államháztartási törvény végrehajtásáról szóló kormányrendelet szerinti Széchenyi Kártya programra.”
+(3) A Klhr. 1. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(E rendelet hatálya – a 4. § (1) és (2) bekezdésében meghatározott belső szabályzati korlátok alkalmazásának kivételével –
+nem terjed ki a hatálybalépésekor fennálló hitelek más hitellel történő kiváltására, ha)
+„b) az új hitel
+ba) euróhitel, euró alapú hitel vagy forinthitel, ha az eredeti hitel euró alapú hitel, euróhitel vagy más devizahitel,
+bb) forinthitel, ha az eredeti hitel forinthitel,
+bc) svájci frank hitel vagy svájci frank alapú hitel, ha az eredeti hitel svájci frank hitel vagy svájci frank alapú hitel.”
+(4) A Klhr. 1. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) A (6) bekezdés alkalmazásában a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori összege a
+hitelnyújtók közötti árfolyamkülönbség és az eredeti hiteltartozás lezárásához vagy az új hitel folyósításához
+kapcsolódó igazolt díjak, költségek miatt haladja meg az eredeti hiteltartozás kiváltáskor fennálló összegét és az új
+hitel nyújtója a hiteltartozás összegét haladéktalanul csökkenti az eredeti hitelnyújtó által hiteljóváírásra fel nem
+használt, visszautalt összeggel.”
+44. § A Klhr. a következő 10/A. §-sal egészül ki:
+„10/A. § E rendeletnek az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 348/2011. (XII. 30.) Korm.
+rendelet (a továbbiakban: R2.) 43. §-ával megállapított 1. § (3) bekezdés a) pontjában, 1. § (6) bekezdés b) pontjában,
+valamint 1. § (7) bekezdésében foglaltakat az R2. hatálybalépését megelőzően kezdeményezett folyamatban lévő
+szerződés módosításra, átütemezésre és hitelkiváltásra is alkalmazni kell.”
+45. § A Klhr.1. § (1) bekezdésében és 2. § 10. pontjába az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország”
+szöveg lép.
+
+9. Záró rendelkezések
+46. § Ez a rendelet 2012. január 1-jén lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+47. § Ez a rendelet a 2006/48/EK és a 2006/49/EK irányelvnek a kereskedési könyvre és az újraértékpapírosításra vonatkozó
+tőkekövetelmények, továbbá a javadalmazási politikák felügyeleti felülvizsgálata tekintetében történő módosításáról
+szóló, az Európai Parlament és a Tanács 2010. november 24-i 2010/76/EU irányelvnek való megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 348/2011. (XII. 30.) Korm. rendelethez
+„13. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez
+Rendszerek és ellenőrzési mechanizmusok
+1. A rendszereknek és ellenőrzési mechanizmusoknak tartalmazniuk kell legalább a következő elemeket:
+a) az értékelési folyamatra vonatkozó irányvonalakat és eljárásokat, ideértve az értékelés kialakításában részt vevő
+különbözőterületek világosanelhatároltfelelősségiköreit,a piaciinformációkforrásaitésazokmegfelelőségének
+vizsgálatát, a nem megfigyelhető adatok felhasználására vonatkozó iránymutatást, amely tükrözi az intézmény
+azzal kapcsolatos feltételezéseit, hogy a piaci szereplők hogyan áraznák a pozíciót, a független értékelés
+gyakoriságát, a záró árak időzítését, az értékelések korrigálására vonatkozó eljárásokat, a hóvégi és ad-hoc
+felülvizsgálatokat, és
+b) az értékelési folyamatért felelős részlegre vonatkozóvilágos és az üzleti területtől független jelentési útvonalakat,
+melyek végén belső igazgatósági tagnak kell állnia.
+2. Az értékeléseket prudens értékelési módszerrel – lehetőség szerint a piaci árakon történő értékelés módszerével –
+naponta kell elvégezni.
+3. A piaci árakon történő értékeléskor az eladási és vételi árak közül a prudensebb értékelést biztosító árat kell használni,
+kivéve azt az esetet, amikor az intézmény a szóban forgó pénzügyi eszköz vagy áru adott fajtájának terén jelentős
+árjegyző, és képes piaci középárfolyamokon zárni.
+4. Ha apiaciárakontörténőértékelésnemlehetséges,azintézménykonzervatívmódon,amodellalapúárazássalértékeli
+a pozíciókat.
+5. A modell alapú árazáskor a következő követelményeknek kell eleget tenni:
+a) az intézmény ügyvezetésének ismernie kell a kereskedési könyv vagy egyéb valós értéken értékelt pozíciók azon
+elemeit, amelyek a modell alapú árazás tárgyát képezik, és a modell alapú árazásból adódó bizonytalanságokat,
+b) a piaci adatokat lehetőség szerint ugyanabból a forrásbólkell nyerni, mint a piaci árakat, és rendszeresenértékelni
+kell a szóban forgó pozíció értékelésénél figyelembe vett piaci adatok megfelelőségét és a modell paramétereit,
+c) amennyiben lehetséges, a szóban forgó pénzügyi eszköz vagy áru tekintetében elismert piaci gyakorlatnak
+minősülő értékelési módszertanokat kell alkalmazni,
+d) amennyiben az intézmény saját fejlesztésű modellt alkalmaz, azt az üzleti területtől függetlenül kell kifejleszteni,
+jóváhagyni és tesztelni (beleértve a matematikai képletek, a feltételezések és a szoftveralkalmazás validációját);
+továbbá a modellnek olyan feltételezéseken alapulnia, amelyeket a modellfejlesztéstől független, megfelelő
+képzettséggel rendelkező felek helyesnek értékeltek,
+e) változás-ellenőrzési eljárásoknak kell létezniük, valamint meg kell őrizni a modell biztonsági másolatát, és azt az
+értékelések ellenőrzésére kell használni,
+f) a kockázatkezelésnek az alkalmazott modell gyengeségeit az értékelés eredményében meg kell jelenítenie,
+g) a modellt rendszeresen, de legalább évente felül kell vizsgálni.
+6. A napi rendszerességű piaci árakon történő értékelés és a modell alapú árazás alkalmazása esetén is kell független
+ár-felülvizsgálatot végezni, amely a piaci árak, illetve a modell adatok (input) pontosságának és függetlenségének
+vizsgálatárairányul. A napirendszerességűpiaciárakontörténő értékelésta kereskedőkvégezhetik,a piaciárak,illetve
+
+a modell adatok felülvizsgálatát a kereskedőktől független részlegnek legalább havi rendszerességgel kell végeznie.
+Amennyiben nem állnak rendelkezésre független, objektív árazási források, értékelési korrekciókat kell végezni.
+7. Az intézmény az értékelési korrekciók figyelembevételére szolgáló eljárásokat vezet be és tart fenn.
+8. Az intézmény a következő értékelési korrekciókat alkalmazza: kamatnyereség, pozíciózárási költségek, működési
+kockázatok, lejárat előtti visszaváltás, befektetési és finanszírozási költségek, jövőbeni igazgatási költségek és
+modellkockázat.
+9. Az intézmény a kevésbé likvid pozíciók értékelési korrekcióját a pozíció értékének a pénzügyi beszámoló céljából
+szükséges módosításán felül alkalmazza, és úgy határozza meg, hogy tükrözze a pozíció likviditáshiányát. Ezen eljárás
+során a következő tényezőket veszi figyelembe: a pozíció/kockázatok pozíción belüli fedezéséhez szükséges idő,
+az eladási és vételi árajánlat különbségek volatilitása és átlaga, a piaci árjegyzések rendelkezésre állása (az árjegyzők
+száma és kiléte), a kereskedési mennyiségek volatilitása és átlaga, többek között a piaci stresszhelyzet idején jellemző
+kereskedési mennyiségek, a piaci koncentráció, a pozíciók öregedése, a modell alapú árazás alapulvételének mértéke
+és egyéb modell-kockázatok hatása.
+10. Harmadik fél által végzett értékelések vagy a modellalapú árazás használatakor az intézmény eldöntheti, hogy
+alkalmaz-e értékelési korrekciót. Mérlegeli továbbá, hogy szükséges-e korrekciókat alkalmaznia a kevésbé likvid
+pozíciókra és folyamatosan felülvizsgálja azok állandó megfelelőségét.
+11. A komplex termékeket illetően, beleértve – de nem kizárólagosan – az értékpapírosítási kitettségeket és az n-edik
+nemteljesítéskor lehívható hitelderivatívákat is, az intézménynek kifejezetten fel kell mérnie az értékelési kiigazítások
+szükségességét az esetlegesen helytelen értékelési módszer alkalmazásával kapcsolatos modellkockázat és az
+értékelési modellnek a nem megfigyelhető (és esetlegesen helytelen) kalibrációs paramétereinek alkalmazásával
+kapcsolatos modellkockázat megjelenítése céljából.”
+2. melléklet a 348/2011. (XII. 30.) Korm. rendelethez
+„14. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez
+A járulékos nemteljesítési és a migrációs kockázat mérésére szolgáló módszer
+Paraméterek
+1. A járulékos nemteljesítési és migrációs kockázat mérésére szolgáló módszernek mérnie kell a nemteljesítés, valamint
+a belső és külső minősítés migrációja miatt felmerülő veszteségeket a 99,9%-os konfidencia intervallum és egy éves
+tőkehorizont feltételezése mellett.
+A korrelációs feltételezéseket objektív adatok elméletileg megalapozott elemzésével kell alátámasztani. A járulékos
+kockázat mérésére szolgáló módszernek megfelelően tükröznie kell a kibocsátó-koncentrációt, valamint a
+termékosztályokon belül és azok között stresszhelyzetekben kialakuló koncentrációkat is. A módszernek állandó
+kockázati szint feltételezésén kell alapulnia egyéves tőkehorizonton, ami azt jelenti, hogy adott egyedi kereskedési
+könyvi pozíciók vagy pozíciócsoportok, amelyek likviditási horizontján nemteljesítés vagy migráció valósult meg,
+likviditási horizontjuk végén újra egyensúlyba kerülnek és elérik az eredeti kockázati szintet. Ennek alternatívájaként
+az intézmény dönthet úgy, hogy következetesen egy évig tartó állandó kitettséget tételez fel.
+2. A likviditási horizontot annak megfelelően kell megállapítani, hogy stresszhelyzetben levő piacon mennyi időre van
+szükség a pozíció eladásához vagy valamennyi lényeges árkockázat fedezéséhez, különös tekintettel a pozíció
+méretére. A likviditási horizont tükrözi a szisztematikus és az egy változóhoz kapcsolódó stresszhelyzet időszakában
+alkalmazott tényleges gyakorlatot és szerzett tapasztalatot. A likviditási horizontot konzervatív feltételezések alapján
+kell meghatározni és elég hosszúnak kell lennie ahhoz, hogy az értékesítés vagy fedezés önmagában ne befolyásolja
+lényegesen azt az árat, amelyen az értékesítés vagy a fedezés megvalósul.
+Egy pozíció vagy pozíciócsoport esetében a megfelelő likviditási horizont meghatározásakor egy minimum három
+hónapos időszakból kell kiindulni.
+Egy pozíció vagy pozíciócsoport esetében a megfelelő likviditási horizont meghatározása során az intézmény
+figyelembe veszi az értékelési korrekciókkal és a hosszú ideje tartott pozíciókkal kapcsolatos belső politikáit. Ha egy
+intézmény nem egyedi pozíciókra, hanem pozíciócsoportokra határoz meg likviditási horizontot, a pozíciócsoportok
+megállapítására vonatkozó kritériumokat oly módon kell meghatározni, hogy az ésszerűen tükrözze a likviditási
+különbségeket. A koncentrált pozíciókra vonatkozó likviditási horizontoknak nagyobbaknak kell lenniük, hogy
+
+tükrözzéke pozícióklezárásáhozszükségeshosszabbidőt. Az értékpapírosítárakerülőkitettségeklikviditásihorizontja
+tükrözi azt az időt, amelyre szükség van az értékpapírosítási ügylet kidolgozása, az ügyletrész-sorozatok értékesítése
+vagy a lényeges kockázati tényezők fedezése miatt, stresszhelyzet esetén.
+3. Az intézmény a járulékos nemteljesítési és migrációs kockázat mérésére szolgáló módszerében figyelembe veheti
+a fedezeti ügyleteket. A pozíciók nettósíthatók, ha a hosszú és rövid pozíciók ugyanarra a pénzügyi eszközre
+vonatkoznak. Ugyanazon ügyfél különböző eszközeire vagy értékpapírjaira vonatkozó hosszú és rövid pozíciókhoz
+kapcsolódó, valamint a különböző ügyfelek hosszú és rövid pozícióihoz kapcsolódó fedezeti ügyletek vagy
+diverzifikációs hatások csak abban az esetben ismerhetők el, ha a különböző eszközök bruttó hosszú és rövid pozícióit
+az intézmény külön modellezi. Az intézmény bemutatja a fedezet lejárata és a likviditási horizont közötti intervallum
+alatt esetleg felmerülő lényeges kockázatok hatását, valamint a fedezeti stratégiákban rejlő jelentős báziskockázatok
+lehetőségét termékekre, a veszteségviselés sorrendjére, a belső vagy külső minősítésre, a lejáratra, az eredeti
+hitelnyújtás évjáratára(vintage) és az eszközökegyéb eltéréseirelebontva.Az intézmény csak akkorveheti figyelembe
+a fedezeti ügyletet, ha az akkor is fenntartható, ha az ügyfélre vonatkozó nemteljesítési vagy hitelesemény várható.
+A dinamikus fedezeti stratégiával fedezett kereskedési könyvi pozíciók esetén elismerhető a fedezet egyensúlyának
+a fedezett pozíció likviditási horizontján belüli visszaállítása, feltéve, hogy az intézmény:
+a) úgy dönt, hogy egy releváns kereskedési könyvi pozíciócsoportra következetesen modellezi a fedezet
+egyensúlyának visszaállítását,
+b) bizonyítja, hogy az egyensúly visszaállításának figyelembe vétele jobb kockázatmérést eredményez, és
+c) bizonyítja, hogy a fedezetül szolgáló eszközök piacai elég likvidek ahhoz, hogy még stresszhelyzet esetén is
+lehetővé tegyék az egyensúly visszaállítását. A tőkekövetelményben tükröződnie kell a dinamikus fedezési
+stratégiákból eredő fennmaradó kockázatnak.
+4. A járulékos nemteljesítési és migrációs kockázat mérésére szolgáló módszernek tükröznie kell az opciók, strukturált
+hitelderivatívák és egyéb, lényeges nem lineárisan viselkedő pozíciók nem lineáris hatását, tekintettel az
+árváltozásokra. Az intézmény kellően figyelembe veszi az ilyen termékekhez kapcsolódó árkockázatok értékelésében
+és becslésében rejlő modellkockázatot is.
+5. A járulékos nemteljesítési és migrációs kockázat mérésére szolgáló módszernek olyan adatokon kell alapulnia,
+amelyek objektívek és naprakészek.
+Validálás
+6. Az intézmény a kockázatmérési rendszere független felülvizsgálatának és a IX. fejezetben meghatározott belső
+modellje validálásának részeként a járulékos nemteljesítési és migrációs kockázatok mérésére szolgáló módszerre
+tekintettel elsősorban a következőket végzi el:
+a) validálja, hogy a korrelációk és árváltozások modellezési módszere – beleértve a szisztematikus kockázati
+tényezők kiválasztását és súlyozását – megfelel a portfóliójának;
+b) stresszteszteket, többek között érzékenységvizsgálatot és forgatókönyv-elemzést végez, hogy értékelje a
+módszer minőségi és mennyiségi tényezőinek megfelelőségét, különös tekintettel a koncentrációk kezelésére,
+és a teszteket nem korlátozza a korábban már tapasztalt események körére;
+c) megfelelő kvantitatív validálást alkalmaz, többek között releváns belső modellezési referenciákkal.
+A járulékos nemteljesítési és migrációs kockázatok mérésére szolgáló módszernek összhangban kell lennie az
+intézmény által a kereskedési kockázatok azonosítására, mérésére és kezelésére használt belső kockázatkezelési
+módszerekkel.
+Dokumentálás
+7. Az intézmény úgy dokumentálja a járulékos nemteljesítési és migrációs kockázat mérésére szolgáló módszert, hogy
+annak korrelációs és egyéb modell feltételezései a Felügyelet számára átláthatók legyenek.
+Különböző paramétereken alapuló belső módszerek
+8. Ha az intézmény a járulékos nemteljesítési és migrációs kockázat mérésére olyan módszert használ, amely nem felel
+meg az ebben a mellékletben leírt valamennyi követelménynek, de összhangban van az intézmény által a kockázatok
+azonosítására, mérésére és kezelésére használt belső módszerekkel, az intézménynek tudnia kell igazolni, hogy az
+általa alkalmazott módszer legalább olyan mértékű tőkekövetelményt eredményez, mintha az ebben a mellékletben
+leírt követelményeknek teljesen megfelelő módszeren alapulna. A Felügyelet legalább évente egyszer felülvizsgálja
+e követelmény betartását.
+
+A számítás gyakorisága
+9. Az intézmény legalább hetente elvégzi a járulékos nemteljesítési és migrációs kockázat mérésére szolgáló választott
+módszer által előírt számításokat.
+10. A Felügyelet abban az esetben ismer el egy belső módszeren alapuló tőkekövetelmény számítási módszertant a 15. §
+(3b) bekezdésével összhangban a korrelációkereskedésre meghatározott tőkekövetelmény számítási módszertan
+helyett, ha az e mellékletben felsorolt összes feltétel teljesül.
+Ezen belső módszereknek megfelelően meg kell ragadniuk valamennyi árkockázatot a 99,9%-os konfidencia
+intervallum és egyéves tőkehorizont, állandó kockázati szint feltételezése mellett, és a likviditás, a koncentráció, a
+fedezet és az opcionalitáshatásátkellőentükröző kiigazításokkal.Az intézmény bármelyolyanpozícióraalkalmazhatja
+az e melléklet szerinti módszert, amelyet a korrelációkereskedési portfólió pozícióival együtt kezel, és ez esetben
+kizárhatja ezeket a pozíciókat a 43. § (9a) bekezdésében előírt módszer alól.
+Ezen, az összes árkockázatra vonatkozó tőkekövetelmény összege nem lehet kevesebb annak a tőkekövetelménynek
+a 8%-ánál, amelyet a 15. § (3b) bekezdésével összhangban számítanának ki a valamennyi pozícióra vonatkozó összes
+árkockázathoz kapcsolódóan.
+Különösen az alábbi kockázatokat kell a tőkekövetelmény számítás során megfelelően megragadni:
+a) az ügyletrész-sorozatbanfennállópozícióknála többszörösnemteljesítésbőleredő kumulatív kockázat,beleértve
+a nemteljesítések sorrendiségéből eredő kockázatot is;
+b) ahitelkockázatifelárhozköthetőkockázatok(credit spreadrisk),beleértveagammaésacrossgammahatásokat;
+c) az implikált korrelációk volatilitása, beleértve a felárak és a korrelációk közötti kereszthatást;
+d) báziskockázat, beleértve:
+da) az indexfelár és az indexet alkotó egy kötelezettre szóló eszközök felárai közötti bázis; valamint
+db) az index implikált korrelációja és az egyedi portfóliók implikált korrelációja közötti bázis;
+e) a megtérülési ráta volatilitása, mivel a megtérülési ráta befolyásolhatja az ügyletrész-sorozatok árait; valamint
+f) amennyiben az átfogó kockázatmérő módszer a dinamikus fedezésből származó előnyöket is magában foglalja, a
+fedezeti többletköltség (hedge slippage) és az ilyen kiegyensúlyozásának potenciális költségei
+Ezen pont alkalmazásábanaz intézménynek elegendő piaci adattal kell rendelkeznie annak biztosításához,hogy belső
+módszerében teljes mértékben felmérje ezen kitettségek legfontosabb kockázatait az e pontban meghatározott
+előírásokkal összhangban. Az intézmény utóteszteléssel vagy más megfelelő eszközökkel bizonyítja, hogy a becsült
+kockázati értékek megfelelően tükrözik ezen termékek korábbi árváltozásait. Az intézmény képes elkülöníteni azon
+pozíciókat, amelyek tekintetében engedéllyel rendelkezik – és e ponttal összhangban a tőkekövetelmény
+számításánál figyelembe vehet – azon pozícióktól, amelyek tekintetében nem rendelkezik ilyen engedéllyel.
+Az ezen pont hatálya alá tartozó portfóliók tekintetében az intézmény rendszeresen alkalmaz egyedi, előre
+meghatározott stressz-forgatókönyveket. Ezekkel a stressz-forgatókönyvekkel megvizsgálja a stresszhelyzet hatását a
+nemteljesítési rátákra, a megtérülési rátákra, a hitelkockázati felárra és a korrelációkereskedési részleg
+eredmény-kimutatásában szereplő korrelációkra. Az intézmény ezeket a stressz-forgatókönyveket legalább hetente
+alkalmazza,és legalábbnegyedévente beszámola Felügyeletnek az eredményekről,beleértve e pontnakmegfelelően
+az intézmény tőkekövetelményévelvaló összehasonlításokatis. Amennyiben a stresszteszt a tőkekövetelménytől való
+jelentős eltérést jelez, azt minden esetben haladéktalanul jelenteni kell a Felügyeletnek. A stressztesztek eredményei
+alapján a Felügyelet kiegészítő tőkekövetelményt írhat elő a korrelációkereskedési portfólió tekintetében, a Hpt. 76. §
+(2) bekezdésében vagy a Bszt. 105. § (5) bekezdésében meghatározottaknak megfelelően.”
+
+3. melléklet a 348/2011. (XII. 30.) Korm. rendelethez
+„2. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez
+Minősített pozícióhoz tartozó kockázati súly
+Hitelminősítési besorolás 1 2 3 4
+(csak rövid
+lejáratú
+hitel-
+minősíté-
+sektől
+eltérő
+hitel-
+minősíté-
+sekre)
+Minden
+egyéb
+hitel-
+minősítési
+besorolás
+Értékpapírosítási pozíciók 20% 50% 100% 350% 1250%
+Újraértékpapírosítási pozíciók 40% 100% 225% 650% 1250%
+”
+4. melléklet a 348/2011. (XII. 30.) Korm. rendelethez
+„4. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez
+Minősítésen alapuló módszer kockázati súlyai
+Hitelminősítési besorolás Értékpapírosítási pozíciók Újraértékpapírosítási pozíciók
+Rövid lejáratú
+hitelminősítésektől
+eltérő
+hitelminősítések
+Rövid lejáratú
+hitelminősítések
+A B C D E
+1 1 7% 12% 20% 20% 30%
+2 8% 15% 25% 25% 40%
+3 10% 18% 35% 35% 50%
+4 2 12% 20% 40% 65%
+5 20% 35% 60% 100%
+6 35% 50% 100% 150%
+7 3 60% 75% 150% 225%
+8 100% 200% 350%
+9 250% 300% 500%
+10 425% 500% 650%
+11 650% 750% 850%
+Minden egyéb és minősítéssel
+nem rendelkező
+1250%
+1. A táblázat „C” oszlopában található kockázati súlyt kell alkalmazni, ha az értékpapírosítási pozíció nem
+újraértékpapírosítási pozíció és ahol az értékpapírosított kitettségek tényleges száma hatnál kevesebb. A fennmaradó
+olyan értékpapírosítási pozíciókra, amelyek nem újraértékpapírosítási pozíciók, a táblázat „B” oszlopában található
+kockázati súlyt kell alkalmazni, kivéve, ha a pozíció az értékpapírosítás legalacsonyabb veszteségviselő képességgel
+rendelkező ügyletrész-sorozatába tartozik, amelynél a táblázat „A” oszlopában található kockázati súlyt kell
+alkalmazni.
+2. A táblázat „E” oszlopában található kockázati súlyt kell alkalmazni az újraértékpapírosítási pozícióra, kivéve, ha a
+pozíció az értékpapírosítás legalacsonyabb veszteségviselő képességgel rendelkező ügyletrész-sorozatába tartozik és
+ha az alapul szolgáló kitettségek egyike sem újraértékpapírosított kitettség, amelynél a táblázat „D” oszlopában
+található kockázati súly alkalmazandó.
+
+3. Annak meghatározásához, hogy az adott ügyletrész-sorozat a legalacsonyabb veszteségviselő képességgel
+rendelkezik-e, nem kell figyelembe venni a származékos kamat- vagy devizaügyletekből, esedékes díjakból vagy
+egyéb kapcsolódó hasonló jellegű kifizetésekből eredő összegeket.
+4. Az értékpapírosított kitettségek tényleges számának kiszámításához az egy ügyféllel szembeni több ügylet kapcsán
+fennálló kitettségeket egy kitettségnek kell tekinteni.
+A kitettségek tényleges számát az alábbiak szerint kell kiszámítani:
+N
+EADi
+EADi
+i
+i
+=
+å
+å
+( )2
+
+ahol EADi az i-edik ügyféllel szembeni összes kitettség értékének összege.
+Ha rendelkezésre áll a legnagyobb kitettséghez tartozó portfólió részesedés, a hitelintézet az N értékét az 1/C1
+hányados alkalmazásával is kiszámíthatja, ahol C1
+a legnagyobb kitettséghez tartozó portfólió részesedés.”
+5. melléklet a 348/2011. (XII. 30.) Korm. rendelethez
+Az Épkr. 5. számú mellékletének 2. pontja helyébe a következő rendelkezés lép:
+„2. A kitettséggel súlyozott átlagos nemteljesítéskori veszteségrátát (ELGD) az alábbiak szerint kell kiszámítani:
+ELGD
+LGD EAD
+EAD
+i i
+i
+i
+i
+=
+×
+å
+å
+aholaz LGDi
+az in ügyféllel szembenikitettség átlagosnemteljesítéskoriveszteségráta(LGD) értéke, haaz LGD értékét a
+Hpt. 76/B – 76/D. §-a szerint állapítják meg.
+Újraértékpapírosításesetén az értékpapírosított pozíciókra 100%-os nemteljesítéskoriveszteségráta (LGD) értéket kell
+alkalmazni.
+Ha a vásárolt követeléseknél a nemteljesítést és a felhígulási kockázatot egy értékpapírosításon belül összevonva
+kezelik, akkor az LGDi érték a hitelezési kockázat LGD értékének és a felhigulási kockázat LGD értéke 75%-ának
+súlyozott átlaga azzal, hogy ezen súlyok képezik a hitelezési kockázat és a felhígulási kockázat tőkekövetelményét.
+Újraértékpapírosítás esetén a hitelintézetnek az alapul szolgáló értékpapírosított kitettségek számát kell figyelembe
+vennie.”
+
+6. melléklet a 348/2011. (XII. 30.) Korm. rendelethez
+„6. melléklet a 301/2008. (XII. 17.) Korm. rendelethez
+Minősítésen alapuló módszer kockázati súlyai
+Hitelminősítési besorolás Értékpapírosítási pozíciók Újraértékpapírosítási pozíciók
+Rövid lejáratú
+hitelminősítésektől
+eltérő
+hitelminősítések
+Rövid lejáratú
+hitelminősítések
+A B C D E
+1 1 7% 12% 20% 20% 30%
+2 8% 15% 25% 25% 40%
+3 10% 18% 35% 35% 50%
+4 2 12% 20% 40% 65%
+5 20% 35% 60% 100%
+6 35% 50% 100% 150%
+7 3 60% 75% 150% 225%
+8 100% 200% 350%
+9 250% 300% 500%
+10 425% 500% 650%
+11 650% 750% 850%
+Minden egyéb és minősítéssel
+nem rendelkező
+1250%
+1. A táblázat „C” oszlopában található kockázati súlyt kell alkalmazni, ha az értékpapírosítási pozíció nem
+újraértékpapírosítási pozíció és ahol az értékpapírosított kitettségek tényleges száma hatnál kevesebb. A fennmaradó
+olyan értékpapírosítási pozíciókra, amelyek nem újraértékpapírosítási pozíciók, a táblázat „B” oszlopában található
+kockázati súlyt kell alkalmazni, kivéve, ha a pozíció az értékpapírosítás legalacsonyabb veszteségviselő képességgel
+rendelkező ügyletrész-sorozatába tartozik, amelynél a táblázat „A” oszlopában található kockázati súlyt kell
+alkalmazni.
+2. A táblázat „E” oszlopában található kockázati súlyt kell alkalmazni az újraértékpapírosítási pozícióra, kivéve, ha a
+pozíció az értékpapírosítás legalacsonyabb veszteségviselő képességgel rendelkező ügyletrész-sorozatába tartozik és
+ha az alapul szolgáló kitettségek egyike sem újraértékpapírosított kitettség, amelynél a táblázat „D” oszlopában
+található kockázati súly alkalmazandó.
+3. Annak meghatározásához, hogy az adott ügyletrész-sorozat a legalacsonyabb veszteségviselő képességgel
+rendelkezik-e, nem kell figyelembe venni a származékos kamat- vagy devizaügyletekből, esedékes díjakból vagy
+egyéb kapcsolódó hasonló jellegű kifizetésekből eredő összegeket.
+4. Az értékpapírosított kitettségek tényleges számának kiszámításához az egy ügyféllel szembeni több ügylet kapcsán
+fennálló kitettségeket egy kitettségnek kell tekinteni.
+A kitettségek tényleges számát az alábbiak szerint kell kiszámítani:
+N
+EADi
+EADi
+i
+i
+=
+å
+å
+( )2
+
+ahol EADi az i-edik ügyféllel szembeni összes kitettség értékének összege.
+Ha rendelkezésre áll a legnagyobb kitettséghez tartozó portfólió részesedés, a hitelintézet az N értékét az 1/C1
+hányados alkalmazásával is kiszámíthatja, ahol C1
+a legnagyobb kitettséghez tartozó portfólió részesedés.”
+
+7. melléklet a 348/2011. (XII. 30.) Korm. rendelethez
+„8. melléklet a 301/2008. (XII. 17.) Korm. rendelethez
+Hitelminősítéssel rendelkező pozícióhoz tartozó kockázati súly
+Hitelminősítési besorolás 1 2 3 4
+(csak rövid
+lejáratú
+hitel-
+minősíté-
+sektől
+eltérő
+hitel-
+minősíté-
+sekre)
+Minden
+egyéb
+hitel-
+minősítési
+besorolás
+Értékpapírosítási pozíciók 20% 50% 100% 350% 1250%
+Újraértékpapírosítási pozíciók 40% 100% 225% 650% 1250%
+”

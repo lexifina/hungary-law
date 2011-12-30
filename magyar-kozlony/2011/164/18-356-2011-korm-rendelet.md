@@ -1,0 +1,159 @@
+# A Kormány 356/2011. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 164. szám, 2011. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8626f0a434e313583139002a4d42df357e6fe084/dokumentumok/89e949c676c4d6e8519ca52ca0375173cbb3c0f2/letoltes)
+
+---
+
+A Kormány 356/2011. (XII. 30.) Korm. rendelete
+az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról
+A Kormány az állami vagyonról szóló 2007. évi CVI. törvény 71. § (1) bekezdés a)–e) pontjában kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet (a továbbiakban: R.) 1. § (7) bekezdés
+a) pontja helyébe a következő rendelkezés lép:
+(A rendelet alkalmazásában:)
+„a) állami vagyon használója: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki,
+vagy amely törvény vagy szerződés alapján, bármely jogcímen (bérlet, haszonbérlet, használat stb.) állami vagyont
+birtokol, használ, szedi annak hasznait, hasznosít, ide nem értve a haszonélvezőt, a b) pont szerinti vagyonkezelőt és
+a c) pont szerinti tulajdonosi jogok gyakorlóját;”
+(2) Az R. 1. § (7) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A rendelet alkalmazásában:)
+„b) vagyonkezelő: az a
+ba) központi költségvetési szerv,
+bb) nemzeti vagyonról szóló törvényben – a központi költségvetési szerv kivételével – vagyonkezelőként
+meghatározott azon személy (a továbbiakban: egyéb vagyonkezelő), amellyel az állami vagyon vagyonkezelésére
+a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) vagy annak jogelődje szerződést kötött, továbbá
+amely törvény alapján vagyonkezelőnek minősül;”
+(3) Az R. 1. § (7) bekezdés e)–f) pontja helyébe a következő rendelkezés lép:
+(A rendelet alkalmazásában:)
+„e) hasznosítás: az állami vagyon bármely – a tulajdonjog átruházását nem eredményező – módon, jogcímen történő
+átadása, átengedése, ide nem értve a haszonélvezeti jog létesítését, valamint a vagyonkezelésbe adást;
+f) ellenérték: az állami vagyon értékesítésére, hasznosítására, haszonélvezeti jog létesítésére, vagyonkezelésére
+irányuló szerződésben megállapított, az állami vagyon tulajdonjoga, birtoklása, használata, hasznainak szedése,
+
+hasznosítása, haszonélvezete, vagyonkezelése fejében fizetendő pénzösszeg vagy pénzben kifejezett értékű
+tevékenység, vagy más ellenszolgáltatás;”
+2. § (1) Az R. 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A bejelentő a bejelentésben kezdeményezheti az adott vagyonra vonatkozóan haszonélvezeti jogot alapító
+szerződés, a Vtv. 27. § (1) bekezdés szerinti vagyonkezelési vagy a vagyon Vtv. 24. § (1) bekezdés szerinti használatát
+más jogcímen biztosító szerződés megkötését. Amennyiben a vagyonkezelési vagy a haszonélvezeti jogot alapító
+szerződés kezdeményezésével az MNV Zrt. egyetért, a bejelentést követő hatvan napon belül megköti – meglévő
+szerződés esetén módosítja – a szerződést a bejelentővel. Amennyiben az állami vagyon használatát más jogcímen
+biztosító szerződés kezdeményezésével az MNV Zrt. egyetért, és a Vtv. 24. § (2) bekezdése szerinti feltétel teljesül,
+a bejelentést követő hatvan napon belül versenyeztetés mellőzésével megköti – meglévő szerződés esetén módosítja
+– a vagyon hasznosítására irányuló szerződést a bejelentővel. Amennyiben a versenyeztetés mellőzésének törvényi
+feltételei nem állnakfenn, errőlaz MNV Zrt. a bejelentéstkövetőhatvannaponbelüla bejelentőtértesíti, egyúttal a 4. §
+(1) bekezdésnekmegfelelőenkiírjaaz államivagyon hasznosításárairányuló pályázatifelhívást.A haszonélvezetijogot
+alapító, a vagyonkezelési, vagy más jogcímen a vagyon használatát biztosító szerződés megkötése nem tagadható
+meg, ha a bejelentő központi költségvetési szervnek a tulajdonszerzést eredményező jogügylet megkötését, vagy
+a vagyon bejelentőnek történő átengedését jogszabály írja elő, vagy a jogügyletet a bejelentő valamely jogszabályi
+rendelkezésen alapuló elővásárlási joga alapján kötötte.”
+(2) Az R. 2. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) E szakasz(1) és(2) bekezdésétanemzetivagyonrólszóló2011. éviCXCVI. törvény11. § (6) bekezdésébenmegjelölt
+vagyon vonatkozásában nem kell alkalmazni.”
+3. § (1) Az R. III. Fejezetének címe helyébe a következő szöveg lép:
+„AZ ÁLLAMI VAGYON HASZNOSÍTÁSÁNAK, VAGYONKEZELÉSÉNEK ÉS HASZONÉLVEZETÉNEK SZABÁLYAI”
+(2) Az R. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az állami vagyon vagyonkezelésére, haszonélvezeti jog alapítására, valamint hasznosítására kötött szerződés
+tartalmát úgy kell meghatározni, hogy az biztosítsa a Vtv. 2. § (1) bekezdésében meghatározott tulajdonosi
+joggyakorlás és vagyongazdálkodási feladatok szabályozott és átlátható módon történő végrehajtását, beleértve
+a vagyon használatának ellenőrzését.”
+4. § Az R. 8. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Amennyiben a vagyonkezelői jog létrejöttéről törvény rendelkezik, az MNV Zrt. és a vagyonkezelő e rendelet
+szabályainak megfelelő alkalmazásával vagyonkezelési szerződést kötnek, vagy a meglévő szerződést módosítják.”
+5. § (1) Az R. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Amennyiben a vagyonkezelő a kezelt vagyon hasznosítását másnak átengedi, a használó magatartásáért, mint
+a sajátjáért felel.”
+(2) Az R. 9. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A vagyonkezelő köteles a vagyont fenyegető veszélyről és a beállott kárról haladéktalanul értesíteni a tulajdonost
+– ideértve azt az esetet is, ha őt harmadik személy a jogainakgyakorlásábanakadályozza–, köteles továbbá tűrni, hogy
+a tulajdonos a veszély elhárítására, illetőleg a kár következményeinek megszüntetésére a szükséges intézkedéseket
+megtegye. A vagyonkezelő felelős minden olyan kárért, amely a rendeltetésellenes vagy szerződésellenes használat
+következményekivéve,habizonyítja,hogyúgy jártel,ahogyadott helyzetbenazállamivagyonkezelőjétőlelvárható.”
+6. § Az R. 10. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Koncessziós pályázat nyertesével vagyonkezelési szerződés nem köthető.”
+7. § (1) Az R. 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (9) bekezdése szerinti átruházás esetén az átruházással
+azMNV Zrt.-velkötöttvagyonkezelésiszerződésbenazújvagyonkezelőarégihelyébelép(szerződésesjogutódlás).”
+(2) Az R. 11. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[Nem szükséges a (3) bekezdés szerinti egyetértés akkor, ha]
+„a) a (2) bekezdésben meghatározott átruházás a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. §
+(6) bekezdésében meghatározottak szerinti vagyont érintő jogokra és kötelezettségekre vonatkozik,”
+
+8. § (1) Az R. 14. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Az állami vagyon használóját, vagyonkezelőjét és haszonélvezőjét – amennyiben saját eszközeik között állami
+vagyonelemet tartanak nyilván, ezen eszközök vonatkozásában – a 13. § (1) bekezdés szerinti vagyonnyilvántartás
+hitelesvezetéseés az MNV Zrt. beszámoló-készítésikötelezettségénekmegalapozottságaérdekébenaz államivagyon
+hasznosítására, vagyonkezelésére, vagy haszonélvezeti jog alapítására kötött szerződés szerinti adatszolgáltatási
+kötelezettség terheli. Ennek teljesítése érdekében a vagyon használója, vagyonkezelője vagy haszonélvezője
+számviteli politikáját és nyilvántartásait köteles úgy kialakítani és vezetni, hogy azok biztosítsák az adatszolgáltatás
+pontosságát és ellenőrizhetőségét. A tulajdonosi jogokat gyakorló szervezetek az egységes vagyonnyilvántartás
+érdekében kötelesek adatot szolgáltatni az MNV Zrt. részére. A nyilvántartás egységessége, pontossága és
+az adatellenőrzések biztosítása érdekében az érintettek kötelesek az MNV Zrt.-vel együttműködni.
+(2) A vagyonnyilvántartás az állami vagyonhoz fűződő jogok és törvényes érdekek védelmében, a tényleges
+állapotnak megfelelően tartalmazza a vagyon használóinak, vagyonkezelőinek, haszonélvezőinek azonosító adatait,
+a vagyonelemek azonosító adatait, a kapcsolódó jogokat és jogi szempontból jelentős tényeket, valamint a lényeges
+számviteli adatokat. A vagyonnyilvántartás a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) bekezdése
+szerinti vagyonelemekről összevont – évente felülvizsgált – állományi adatokat tartalmaz.
+(3) Az (1) bekezdés alapján szolgáltatandó adatok körére, az adatszolgáltatás gyakoriságára vonatkozó általános
+szabályait a melléklet tartalmazza. Az adatszolgáltatás részletes tartalmát, formáját (adatlapok tartalma, kitöltési
+segédlete, az adatszolgáltatás informatikai háttere stb.) az MNV Zrt. vagyonnyilvántartási szabályzatban határozza
+meg. A vagyon hasznosítására, haszonélvezeti jog alapítására vagy vagyonkezelésére kötött szerződésben rögzíteni
+kell, hogy a szerződő partner az MNV Zrt. vagyonnyilvántartási szabályzatát megismerte és magára nézve kötelező
+érvényűnek ismeri el.”
+(2) Az R. 14. § (6)–(7) bekezdése helyébe a következő rendelkezések lépnek:
+„(6) Az állami vagyont szerződés alapján használó, haszonélvező vagy vagyonkezelő személy harminc napon belül
+köteles bejelenteni az MNV Zrt.-nek, ha
+a) a szerződés tartama alatt az annak tárgyát képező vagyontárgy az állam tulajdonából bármely módon (hatósági
+határozat, jogszabályi rendelkezés, káresemény miatti megsemmisülés stb.) kikerül,
+b) a szerződés tárgyát képező ingatlan ingatlan-nyilvántartási adatai bármely okból (művelési ág változás,
+telekmegosztás, területváltozás stb.) megváltoznak.
+(7) Az állami vagyon használója, haszonélvezője vagy vagyonkezelője a szerződés időtartama alatt haladéktalanul
+tájékoztatni köteles az MNV Zrt.-t a Vtv. 25. § (1) bekezdése szerinti körülmény felmerüléséről.”
+9. § Az R. 16. §-a helyébe a következő rendelkezés lép:
+„16. § Az állami vagyon használója, haszonélvezője vagy vagyonkezelője az erre irányuló szerződéses jogviszony
+megszűnésekor, valamint jogszabályban vagy a szerződésben meghatározott esetben köteles az állami vagyon
+értékének az átvételkor fennálló állapothoz viszonyított különbözetével (csökkenésével vagy növekedésével)
+a szerződés szerint elszámolni.”
+10. § Az R. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az állami vagyon kezelőjét, haszonélvezőjét, használóját megillető jogok gyakorlását, annak szabályszerűségét,
+célszerűségét a Vtv. 17. §-ának d) pontja alapján az MNV Zrt. – szükség szerint a területi szervei útján – ellenőrzi. Ennek
+érdekében a vagyon kezelésére, haszonélvezeti jog alapítására, vagy hasznosítására kötött szerződésben rögzíteni
+kell,hogyatulajdonosiellenőrzéseljárásrendjét,afelekjogait,kötelezettségeitafelekaszerződésrészénektekintik.”
+11. § Az R. 25. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az értékesítésre az a központi költségvetési szerv, amely az adott vagyontárgy vagyonkezelője, haszonélvezője
+vagy használójajavaslatot tehet. A javaslatrólszóló döntést az erre vonatkozó megkeresésnekaz MNV Zrt.-hez történő
+beérkezését követő hatvan napon belül kell meghozni és a kérelmező részére kiadni. A határidőbe nem számít bele
+a kérelmezőhöz intézett hiánypótlási felhívás kiadása (kiegészítő tájékoztatás kérése) és annak teljesítése között eltelt
+idő.”
+
+12. §
+Az R. 26. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(Az értékesítés lebonyolítására vonatkozó pályázat kiírása nélkül is értékesíthet az MNV Zrt. megbízása alapján,
+az e rendeletben foglalt szabályok alkalmazásával)
+„b) a kizárólagos állami tulajdon vagyonkezelését is ellátó egyéb vagyonkezelő a vagyonkezelésében lévő olyan
+vagyontárgyakat, amelyek az országos közúti és vasúti közlekedési hálózathoz kapcsolódnak, de nem minősülnek
+kizárólagos állami tulajdonnak.”
+13. §
+Az R. 52. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A kormányzati elhelyezés megszervezése érdekében a központi költségvetési szervek által használt ingatlanok
+használatának, hasznosításának, haszonélvezetének, vagyonkezelésének gazdaságosságát, célszerűségét az MNV Zrt.
+jogosult ellenőrizni.”
+14. §
+Az R. 50. § (1) bekezdésében a „vagyonkezelőjéhez (használójához) kell” szövegrész helyébe a „vagyonkezelőjéhez
+kell” szöveg lép.
+15. §
+(1) Az R. Melléklet II. 2. alpontja helyébe a következő rendelkezés lép:
+„2. azon vagyonelemek esetében, ahol a vagyonkezelő, a haszonélvező vagy a használó külön jogszabály előírása miatt
+az 1. pontban megjelölt határidőig tényadatot nem tud szolgáltatni, a tárgyévet követő év szeptember 30-ig;”
+(2) Az R. Melléklet II. 5. alpontja helyébe a következő rendelkezés lép:
+„5. új vagyonkezelői, haszonélvezeti jogot alapító vagy a vagyon hasznosítására kötött jogviszony létesítésekor
+a szerződés megkötésétől számított harminc napon belül;”
+(3) Az R. Melléklet II. 7. alpontja helyébe a következő rendelkezés lép:
+„7. a vagyon vagyonkezelőjének, haszonélvezőjének, használójának törzsadataiban bekövetkezett változásról nyolc
+napon belül;”
+16. §
+Hatályát veszti az R. 7. § (3) bekezdése, 11. § (1) és (8) bekezdése, 18. § (5) bekezdése.
+17. §
+Ez a rendelet 2012. január 1-jén lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök

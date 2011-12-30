@@ -1,0 +1,116 @@
+# A Kormány 349/2011. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 164. szám, 2011. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8626f0a434e313583139002a4d42df357e6fe084/dokumentumok/89e949c676c4d6e8519ca52ca0375173cbb3c0f2/letoltes)
+
+---
+
+A Kormány 349/2011. (XII. 30.) Korm. rendelete
+az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról
+A Kormány az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva, az Alkotmány 35. §
+(2) bekezdésében meghatározott eredeti jogalkotói hatáskörében a következőket rendeli el:
+1. Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal
+összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkentés megszüntetéséről, továbbá az egyes
+személyes szabadságot korlátozó intézkedések hatálya alatt állt személyek társadalombiztosítási
+és munkajogi helyzetének rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet módosítása
+1. § (1) Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben
+elítéltek,valaminta korábbinyugdíjcsökkentésmegszüntetéséről,továbbáaz egyes személyesszabadságotkorlátozó
+intézkedések hatálya alatt állt személyek társadalombiztosításiés munkajogi helyzetének rendezéséről szóló 93/1990.
+(XI. 21.) Korm. rendelet 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kárpótlási hatóság által kiadott hatósági bizonyítványt a nyugdíjigény iránti kérelem benyújtásakor mellékelni
+kell, vagy annak ügyszámát és az azt kiadó hatóságot a kérelemben meg kell jelölni. Amennyiben a jogosult olyan,
+a kárpótlási hatóság által kiadott hatósági bizonyítvánnyal rendelkezik, amelyben csak a szabadságelvonás ideje van
+megállapítva, a nyugdíjigény, illetve a nyugdíj-kiegészítés iránti kérelem benyújtásakor azt is mellékelni kell. Ebben az
+esetben a hatósági bizonyítványban szereplő szabadság-korlátozás idejétől függően a kiegészítés összegét a nyugdíj
+megállapítására hatáskörrel és illetékességgel rendelkező szerv, az 5. § hatálya alá tartozó kérelmező esetén az
+önkormányzat számolja ki.”
+(2) Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben
+elítéltek,valaminta korábbinyugdíjcsökkentésmegszüntetéséről,továbbáaz egyes személyesszabadságotkorlátozó
+intézkedések hatálya alatt állt személyek társadalombiztosításiés munkajogi helyzetének rendezéséről szóló 93/1990.
+(XI. 21.) Korm. rendelet 15. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A kérelmező nem jogosult a kárpótlási hatósággal elektronikus úton kapcsolatot tartani.”
+(3) Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben
+elítéltek,valaminta korábbinyugdíjcsökkentésmegszüntetéséről,továbbáaz egyes személyesszabadságotkorlátozó
+
+intézkedések hatálya alatt állt személyek társadalombiztosításiés munkajogi helyzetének rendezéséről szóló 93/1990.
+(XI. 21.) Korm. rendelet 15. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Aki e rendelet alapján társadalombiztosítási és munkajogi helyzetének rendezését még nem kérte, 2012. március
+30-ig nyújthatja be kérelmét a kárpótlási hatósághoz. Amennyiben a jogosult elítélésének bíróság általi semmissé
+nyilvánítására még nem került sor, az ez alapján járó juttatás iránti kérelem legkésőbb a 2012. március 30-ig
+a bíróságnál kezdeményezett eljárás alapján hozott jogerős döntés kézhezvételétől számított 90 napon belül
+terjeszthető elő. A határidő elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye.”
+2. Az 1938-1945 közötti időszakban faji vagy nemzetiségi hovatartozás, illetőleg a nácizmus elleni
+magatartásuk miatt deportált, munkaszolgálatot teljesített vagy egyéb személyes szabadság korlátozása
+alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló
+74/1991. (VI. 10.) Korm. rendelet módosítása
+2. § (1) Az 1938–1945 közötti időszakban faji vagy nemzetiségi hovatartozás, illetőleg a nácizmus elleni magatartásuk miatt
+deportált, munkaszolgálatot teljesített vagy egyéb személyes szabadság korlátozása alatt állt személyek
+társadalombiztosításiés munkajogi helyzetének rendezésérőlszóló 74/1991. (VI. 10.) Korm. rendelet 5. § (1) bekezdése
+helyébe a következő rendelkezés lép:
+„(1) A személyes szabadság korlátozásának tényleges időtartamát és az emelés összegét az érintett személy
+(hozzátartozója) kérelmére a kárpótlási hatóság állapítja meg. A kárpótlási hatóság a határozatát közli az 1. § szerinti
+ellátások megállapítására és folyósítására hatáskörrel és illetékességgel rendelkező szervvel. Amennyiben a jogosult
+olyan, a kárpótlási hatóság által kiadott hatósági bizonyítvánnyal rendelkezik, amelyben csak a szabadságelvonás
+ideje van megállapítva, a nyugdíjigény, illetve a nyugdíjkiegészítés iránti kérelem benyújtásakor azt is mellékelni kell.
+Ebben az esetben a hatósági bizonyítványban szereplő szabadságkorlátozás idejétől függően a kiegészítés összegét
+az 1. § szerinti ellátások megállapítására hatáskörrel és illetékességgel rendelkező szerv számolja ki.”
+(2) Az 1938–1945 közötti időszakban faji vagy nemzetiségi hovatartozás, illetőleg a nácizmus elleni magatartásuk miatt
+deportált, munkaszolgálatot teljesített vagy egyéb személyes szabadság korlátozása alatt állt személyek
+társadalombiztosításiés munkajogi helyzetének rendezésérőlszóló74/1991. (VI. 10.) Korm. rendelet 8. §-a a következő
+(4) bekezdéssel egészül ki:
+„(4) Aki e rendelet alapján társadalom-biztosítási és munkajogi helyzetének rendezését még nem kérte, 2012. március
+30-ig nyújthatja be kérelmét a kárpótlási hatósághoz. A határidő elmulasztása jogvesztéssel jár, a mulasztás miatt
+igazolásnak nincs helye.”
+3. A volt nyugati hadifoglyok hitelutalványaival kapcsolatos pénzkövetelésekről és nyugdíjuk
+kiegészítéséről szóló 51/1992. (III. 18.) Korm. rendelet módosítása
+3. § (1) A volt nyugati hadifoglyok hitelutalványaival kapcsolatos pénzkövetelésekről és nyugdíjuk kiegészítéséről szóló
+51/1992. (III. 18.) Korm. rendelet 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az utalványt letétbe helyező személy vagy örököse (a továbbiakban: jogosult) az igényt 1992. december 31-ig
+a kárpótlási hatóságnál jelentheti be. A határidő elmulasztása jogvesztéssel jár. Az a hadifogoly, aki devizakövetelésre
+szóló hitelutalvánnyal nem rendelkezett vagy annak meglétét nem tudja bizonyítani és e rendelet 4. §-a szerinti
+juttatás folyósítását még nem kérte, 2012. március 30-ig nyújthatja be kérelmét a kárpótlási hatósághoz. A határidő
+elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye.”
+(2) A volt nyugati hadifoglyok hitelutalványaival kapcsolatos pénzkövetelésekről és nyugdíjuk kiegészítéséről szóló
+51/1992. (III. 18.) Korm. rendelet 2. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Amennyiben a jogosult olyan, a kárpótlási hatóság által kiadott hatósági bizonyítvánnyal rendelkezik, amelyben
+csak a szabadságelvonás ideje van megállapítva, a 4. § szerinti juttatás iránti kérelem benyújtásakor mellékelni kell azt
+is.Ebbenazesetbenahatóságibizonyítványbanszereplőszabadságkorlátozásidejétőlfüggően akiegészítésösszegét
+a nyugdíj megállapítására hatáskörrel és illetékességgel rendelkező szerv számolja ki.”
+
+4. Az 1951 és 1956 közötti időszakban politikai okból hátrányos megkülönböztetéssel járó katonai
+munkaszolgálatot teljesített személyek társadalombiztosítási és munkajogi helyzetének rendezéséről
+szóló 174/1992. (XII. 29.) Korm. rendelet módosítása
+4. § (1) Az 1951 és 1956 közötti időszakban politikai okból hátrányos megkülönböztetéssel járó katonai munkaszolgálatot
+teljesített személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 174/1992. (XII. 29.) Korm.
+rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A munkaszolgálat tényleges időtartamát és az emelés összegét az érintett személy (hozzátartozó) kérelmére
+a kárpótlási hatóság állapítja meg. A kárpótlási hatóság a határozatát közli az 1. § szerinti ellátások megállapítására és
+folyósítására hatáskörrel és illetékességgel rendelkező szervvel. Amennyiben a jogosult olyan, a kárpótlási hatóság
+által kiadott hatósági bizonyítvánnyal rendelkezik, amelyben csak a szabadságelvonás ideje van megállapítva,
+a nyugdíjigény, illetve a nyugdíj-kiegészítés iránti kérelem benyújtásakor azt is mellékelni kell. Ebben az esetben
+a hatósági bizonyítványban szereplő szabadság-korlátozás idejétől függően a kiegészítés összegét az 1. § szerinti
+ellátások megállapítására hatáskörrel és illetékességgel rendelkező szerv számolja ki.”
+(2) Az 1951 és 1956 közötti időszakban politikai okból hátrányos megkülönböztetéssel járó katonai munkaszolgálatot
+teljesített személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 174/1992. (XII. 29.) Korm.
+rendelet a következő 4/A. §-sal egészül ki:
+„4/A. § Aki e rendelet alapján társadalombiztosítási és munkajogi helyzetének rendezését még nem kérte,
+2012. március 30-ig nyújthatja be kérelmét a kárpótlási hatósághoz. A határidő elmulasztása jogvesztéssel jár, a
+mulasztás miatt igazolásnak nincs helye.”
+5. Az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról szóló
+267/2000. (XII. 26.) Korm. rendelet módosítása
+5. § Az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról szóló 267/2000. (XII. 26.) Korm.
+rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A juttatás megállapítása és folyósítása iránti kérelmet a nyugdíjfolyósító szervnél (a továbbiakban: folyósító szerv)
+kell benyújtani 2012. március 30. napjáig, és ezzel egyidejűleg a jogosultság elbírálásához, valamint a kérelmező
+azonosításához szükséges, a folyósító szerv által a társadalombiztosítási nyugellátásról szóló törvény alapján kezelt
+adatokat és igazolásokat is elő kell terjeszteni, továbbá nyilatkozni kell arról, hogy a kérelmező nem esik a 2. §
+(3) bekezdésében megfogalmazott kizáró feltételek hatálya alá.”
+6. Az életüktől és szabadságuktól politikai okból megfosztottak kárpótlásáról szóló
+1992. évi XXXII. törvény végrehajtásáról szóló 111/1992. (VII. 1.) Korm. rendelet módosítása
+6. § Az életüktől és szabadságuktól politikai okból megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény
+végrehajtásáról szóló 111/1992. (VII. 1.) Korm. rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kárpótlásra irányuló kérelmet a kárpótlási hatóság által rendszeresített formanyomtatványon kell előterjeszteni
+a törvénysértővé, illetve a semmissé nyilvánítás iránti bírósági eljárás megindításával egyidejűleg.”
+7. Záró rendelkezés
+7. § Ez a rendelet 2012. január 1. napján lép hatályba és a hatályba lépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
