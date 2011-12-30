@@ -1,4 +1,4 @@
-## 46. §[^279] A 102/2011. (VI. 29.) Korm. rendelet hatálybalépését megelőző napon hatályos 9. § (8) bekezdés a) pontja szerinti jogerős határozat és 9. § (8) bekezdés c) pontja szerinti szakvélemény a hatályossági idején belül, de legkésőbb 2011. december 31-éig felhasználható a mozgásszervi fogyatékosság, illetve a súlyos mozgáskorlátozottság igazolására.
+## 46. §[^279] A 102/2011. (VI. 29.) Korm. rendelet hatálybalépését megelőző napon hatályos 9. § (8) bekezdés a) pontja szerinti jogerős határozat és 9. § (8) bekezdés c) pontja szerinti szakvélemény a hatályossági idején belül, de legkésőbb 2012. június 30-áig felhasználható a mozgásszervi fogyatékosság, illetve a súlyos mozgáskorlátozottság igazolására.
 
 47. §[^280] (1) E rendeletnek a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosításáról szóló 257/2011. (XII. 6.) Korm. rendelet (a továbbiakban: Módr.)
 
@@ -40,6 +40,6 @@ A 3. § (4) bekezdése szerinti méltányolható lakásigény alkalmazásához a
 
 | 7 | 38 000 | 36 000 |
 
-[^279]: A 46. §-t a 102/2011. (VI. 29.) Korm. rendelet 17. § (3) bekezdése iktatta be.
+[^279]: A 46. §-t a 102/2011. (VI. 29.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 331/2011. (XII. 29.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^280]: A 47. §-t a 257/2011. (XII. 6.) Korm. rendelet 12. §-a iktatta be.
 [^281]: A melléklet a 391/2007. (XII. 23.) Korm. rendelet 30. §-ával megállapított, a 74/2011. (V. 2.) Korm. rendelet 18. § szerint módosított szöveg.
