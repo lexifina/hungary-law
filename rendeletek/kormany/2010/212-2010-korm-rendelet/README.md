@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-212-20-
 | 2011-10-01 | 2010-212-20-22.16 | 86/2011. (V. 31.) Korm. rendelet |
 | 2011-10-08 | 2010-212-20-22.17 | 200/2011. (X. 7.) Korm. rendelet |
 | 2011-12-24 | 2010-212-20-22.18 | 309/2011. (XII. 23.) Korm. rendelet |
+| 2011-12-30 | 2010-212-20-22.19 | 340/2011. (XII. 29.) Korm. rendelet |

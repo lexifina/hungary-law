@@ -6,7 +6,7 @@
 
 a) a közigazgatási és igazságügyi miniszter esetében KIM,
 
-b)[^354] a miniszterelnök általános helyettese esetében TNM,
+b)[^355] a miniszterelnök általános helyettese esetében TNM,
 
 c) a belügyminiszter esetében BM,
 
@@ -20,6 +20,9 @@ g) a nemzetgazdasági miniszter esetében NGM,
 
 h) a nemzeti fejlesztési miniszter esetében NFM,
 
-i) a vidékfejlesztési miniszter esetében VM.
+i) a vidékfejlesztési miniszter esetében VM,
 
-[^354]: A 119. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 38. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+j)[^356] az egyes nemzetközi pénzügyi szervezetekkel való kapcsolattartásért felelős tárca nélküli miniszter esetében NPSZKTNM.
+
+[^355]: A 119. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 38. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^356]: A 119. § j) pontját a 340/2011. (XII. 29.) Korm. rendelet 3. §-a iktatta be.

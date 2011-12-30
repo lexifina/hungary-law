@@ -1,21 +1,29 @@
+## 117/B. § A tárca nélküli miniszter a 117/A. §-ban meghatározott feladatai ellátása során együttműködik a Magyar Nemzeti Bank elnökével és az Országgyűlés gazdasági kérdésekkel foglalkozó állandó bizottságának elnökével.
+
 ## XII. Fejezet
 
 ## A MINISZTEREK HELYETTESÍTÉSE
 
-## 118. §[^353] A miniszterek helyettesítése a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 37. § (2) bekezdésében meghatározott esetekben az alábbi rend szerint történik:
+## 118. §[^354] A miniszterek helyettesítése a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 37. § (2) bekezdésében meghatározott esetekben az alábbi rend szerint történik:
 
-a) a közigazgatási és igazságügyi minisztert a belügyminiszter;
+a) a miniszterelnök általános helyettesét a közigazgatási és igazságügyi miniszter,
 
-b) a belügyminisztert a közigazgatási és igazságügyi miniszter;
+b) a közigazgatási és igazságügyi minisztert a belügyminiszter,
 
-c) a nemzetgazdasági minisztert a nemzeti fejlesztési miniszter;
+c) a belügyminisztert a közigazgatási és igazságügyi miniszter,
 
-d) a nemzeti fejlesztési minisztert a nemzetgazdasági miniszter;
+d) a nemzetgazdasági minisztert a nemzeti fejlesztési miniszter,
 
-e) a vidékfejlesztési minisztert a nemzetgazdasági miniszter;
+e) a nemzeti fejlesztési minisztert a nemzetgazdasági miniszter,
 
-f) a külügyminisztert a honvédelmi miniszter;
+f) a vidékfejlesztési minisztert a nemzetgazdasági miniszter,
 
-g) a nemzeti erőforrás minisztert a közigazgatási és igazságügyi miniszter helyettesíti.
+g) a külügyminisztert a honvédelmi miniszter,
 
-[^353]: A 118. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (73) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+h) a nemzeti erőforrás minisztert a közigazgatási és igazságügyi miniszter,
+
+i) az egyes nemzetközi pénzügyi szervezetekkel való kapcsolattartásért felelős tárca nélküli minisztert a közigazgatási és igazságügyi miniszter
+
+helyettesíti.
+
+[^354]: A 118. § a 340/2011. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
