@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-355-20-
 | 2010-01-03 | 2009-355-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-03-31 | 2009-355-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-04-01 | 2009-355-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2011-12-30 | 2009-355-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
