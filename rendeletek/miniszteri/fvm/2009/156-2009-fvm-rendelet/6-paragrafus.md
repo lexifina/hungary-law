@@ -1,1 +1,0 @@
-## 5. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba azzal, hogy rendelkezéseit az R. 1. § e) pontjának ea) és eb) alpontjai szerinti intézkedések esetén a 2009. évben benyújtott kifizetési kérelmek alapján indult folyamatban lévő ügyekre is alkalmazni kell.
