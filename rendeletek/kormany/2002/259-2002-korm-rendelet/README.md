@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-259-20-
 | 2011-01-01 | 2002-259-20-22.23 | 360/2010. (XII. 30.) Korm. rendelet |
 | 2011-07-01 | 2002-259-20-22.24 | 360/2010. (XII. 30.) Korm. rendelet |
 | 2011-07-27 | 2002-259-20-22.25 | 140/2011. (VII. 21.) Korm. rendelet |
+| 2011-12-31 | 2002-259-20-22.26 | 376/2004. (XII. 28.) Korm. rendelet |
