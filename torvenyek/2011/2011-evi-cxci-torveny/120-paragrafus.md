@@ -1,12 +1,6 @@
 ## 41. A megváltozott munkaképességű személyek ellátórendszerének átalakításával kapcsolatos egyéb rendelkezések
 
-120. § (1) Hatályát veszti
-
-a) a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény,
-
-b) a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény módosításáról szóló 2009. évi CLVII. törvény,
-
-c) az egészségkárosodott személyek szociális járadékairól szóló 387/2007. (XII. 23.) Korm. rendelet.
+120. § (1)
 
 (2) Nem lép hatályba a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény és egyes kapcsolódó törvények módosításáról szóló 2011. évi CXLI. törvény 60. §-a és az azt megelőző alcím.
 

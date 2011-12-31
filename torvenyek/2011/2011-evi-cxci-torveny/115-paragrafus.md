@@ -1,7 +1,3 @@
 ## 38. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása
 
-115. § A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: Pftv.) 1. § (1) bekezdése a következő f) ponttal egészül ki:
-
-[E törvény hatálya kiterjed]
-
-„f) a 16/A. § (1) bekezdése szerinti megváltozott munkaképességű személyre.”
+115–117. §

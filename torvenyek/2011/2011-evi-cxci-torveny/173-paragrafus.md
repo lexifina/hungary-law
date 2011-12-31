@@ -1,3 +1,0 @@
-173. § Az Mvt. 46. §-a helyébe a következő rendelkezés lép:
-
-„46. § A munkahelyen – jellegének, elhelyezkedésének, a veszélyforrásoknak, a munkavállalók létszámának, a munkavégzésből és a munkakörnyezetből származó hatások és egészségkárosító kóroki tényezők figyelembevételének, valamint a munka szervezésének megfelelően – biztosítani kell a munkahelyi elsősegélynyújtás tárgyi, személyi és szervezési feltételeit.”

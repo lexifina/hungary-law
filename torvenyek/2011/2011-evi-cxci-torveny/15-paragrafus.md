@@ -1,5 +1,1 @@
-15. § (1) A rehabilitációs hatóság komplex minősítés keretében megvizsgálja a kérelmező egészségi állapotának százalékos mértékét, a rehabilitálhatóságot, és a megváltozott munkaképességű személy rehabilitálhatósága esetén rehabilitációs javaslatot készít.
-
-(2) A rehabilitációs javaslatban meg kell állapítani a rehabilitáció lehetséges irányát, a rehabilitációs szükségleteket, továbbá a rehabilitációhoz szükséges időtartamot. A rehabilitációs hatóság a rehabilitáció lehetséges irányaként meghatározza azokat a foglalkozásokat, foglalkozási alcsoportokat, foglalkozási csoportokat, amelyek ellátására az érintett személy alkalmas, vagy a rehabilitációs szolgáltatások igénybevételét követően – a rehabilitációs hatóság által meghatározott feltételek fennállása esetén – alkalmas lehet. A foglalkozások, foglalkozási alcsoportok, foglalkozási csoportok meghatározása a Foglalkozások Egységes Osztályozási Rendszerének figyelembevételével történik.
-
-(3) Amennyiben a rehabilitációs hatóság más szerv eljárásában komplex minősítés során szakhatósági állásfoglalást adott az (1)–(2) bekezdésben foglaltakról, a szakhatósági állásfoglalás időbeli hatálya alatt a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárásban nem kell ismételt komplex minősítést lefolytatni.
+15–20. §

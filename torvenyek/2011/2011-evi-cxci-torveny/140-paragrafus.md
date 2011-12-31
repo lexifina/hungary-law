@@ -1,5 +1,0 @@
-140. § Az Szt. a következő 140/L. §-sal egészül ki:
-
-„140/L. § (1) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvénnyel megállapított 25. § (3) bekezdés a) pont ad) alpontjában és 38. § (1) bekezdésében foglaltakat a 2012. január 1-jét követően benyújtott kérelmek esetében kell alkalmazni.
-
-(2) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvénnyel megállapított 38. § (9) és (10) bekezdésének rendelkezései a normatív lakásfenntartási támogatás megállapítására a 132. § (4) bekezdés e) pontjában foglalt felhatalmazás alapján megalkotott önkormányzati rendelet hatálybalépését követően benyújtott kérelmek esetében alkalmazhatóak.”

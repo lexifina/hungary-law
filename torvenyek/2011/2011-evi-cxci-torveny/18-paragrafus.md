@@ -1,3 +1,0 @@
-18. § (1) A rokkantsági és a rehabilitációs pénzbeli ellátást a Kormány által kijelölt szerv folyósítja az Egészségbiztosítási Alap rokkantsági, rehabilitációs ellátások előirányzatának terhére. Az állam az e törvényben meghatározott ellátások teljesítését akkor is biztosítja, ha az ahhoz szükséges kiadások az Egészségbiztosítási Alapból nem fedezhetők.
-
-(2) Az Egészségbiztosítási Alap pénzeszközeinek hatékony felhasználása érdekében, ha a tényállás tisztázott, a megváltozott munkaképességű személyek ellátását megállapító és megszüntető döntés jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánítható, a határozattal szembeni bírósági felülvizsgálati eljárásban nincs helye a határozat végrehajtása felfüggesztésének.

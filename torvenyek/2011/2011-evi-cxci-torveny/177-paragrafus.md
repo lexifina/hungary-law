@@ -1,7 +1,0 @@
-177. § Az Mvt. 68. §-a helyébe a következő rendelkezés lép:
-
-„68. § (1) Ha a sérült a munkáltatónak a munkabaleset bejelentésével, kivizsgálásával kapcsolatos intézkedését vagy mulasztását, továbbá ha az érintett munkavállaló a foglalkozási megbetegedés vagy a fokozott expozíciós eset kivizsgálásának elmulasztását sérelmezi, illetve ha a munkavállaló vitatja a sérülés súlyosságával kapcsolatos munkáltatói megállapítást, a területileg illetékes munkavédelmi hatósághoz fordulhat. A munkavédelmi hatóság a foglalkozási megbetegedés gyanúját panaszoló vagy annak kivizsgálása elmulasztását sérelmező személyt a bejelentésre jogosult orvoshoz vagy a munkahigiénés és foglalkozás-egészségügyi szervhez irányítja.
-
-(2) Ha az érintett munkavállaló egészségi állapotának romlása a munkavégzéssel vagy a munkavégzés, munkafolyamat során előforduló kóroki tényezőkkel hozható összefüggésbe, és a foglalkozási megbetegedést a 64. § (2) bekezdésében meghatározott szerv, illetve személy nem jelentette be, a munkavállaló a területileg illetékes munkavédelmi hatósághoz fordulhat. A munkavédelmi hatóság a foglalkozási megbetegedés gyanúját a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló jogszabályban meghatározott szervhez előzetes vizsgálat és bejelentés céljából továbbítja.
-
-(3) Az (1) és (2) bekezdésben meghatározott eljárásban a sérült, vagy ha a sérült meghalt, vagy egészségi állapota miatt jogainak érvényesítésére nem képes, a hozzátartozója ügyfélnek minősül. A kérelemben a hozzátartozói minőséget valószínűsíteni kell.”
