@@ -1,1 +1,0 @@
-26. § Az e törvény hatálybalépését megelőzően adományozott kitüntetések és elismerések tovább viselhetők, kivéve a Munkás-Paraszt Hatalomért Érdemérmet, az 1956 után adományozott Szabadság Érdemrendet, valamint azokat a kitüntetéseket, amelyeknek viselését jogszabály megtiltotta.

@@ -1,1 +1,0 @@
-30. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.6. pontjában a „Magyar Köztársasági Érdemrend és Érdemkereszt tárgyiasult formája” szövegrész helyébe a „Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája” szöveg lép.
