@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-148-00-00
 | 2010-12-31 | 2010. évi CLXXII. törvény | 2010-148-00-00.1 |
 | 2011-03-02 | 2010. évi CLXXII. törvény | 2010-148-00-00.2 |
 | 2011-03-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-148-00-00.3 |
+| 2011-12-31 | 2011. évi CCI. törvény | 2010-148-00-00.4 |
