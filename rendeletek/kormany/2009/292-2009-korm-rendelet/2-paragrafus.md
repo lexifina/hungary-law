@@ -10,9 +10,9 @@
 
 4. Európai Unió tradicionális saját forrásai: az Európai Közösségek saját forrásainak rendszeréről szóló 2007. június 7-i Euratom 2007/436/EK, Euratom tanácsi határozat 2. cikke értelmében a nem tagállamokból (harmadik országból) származó import utáni vámok, egyéb vámok, valamint a cukorágazat piacának közös szervezése keretein belül nyújtott hozzájárulások;
 
-5.[^3]
+5.[^4]
 
-6.[^4] fejezetet irányító szerv és annak vezetője:
+6.[^5] fejezetet irányító szerv és annak vezetője:
 
 a) az I. fejezetnél az Országgyűlés Hivatala és annak gazdasági főigazgatója, a Közbeszerzések Tanácsa tekintetében a Közbeszerzések Tanácsa testülete és annak elnöke, a Pénzügyi Szervezetek Állami Felügyelete tekintetében a Pénzügyi Szervezetek Állami Felügyelete és annak elnöke, a 7–15. címek tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
@@ -78,9 +78,9 @@ z) az elkülönített állami pénzalapok tekintetében az alappal való rendelk
 
 14. kezelő szerv:
 
-a)[^5] a központi kezelésű előirányzatok esetén: a fejezetet irányító szerv, a központi költségvetés XLIII. fejezete esetén a Magyar Nemzeti Vagyonkezelő Zrt. és a Magyar Fejlesztési Bank Zrt.,
+a)[^6] a központi kezelésű előirányzatok esetén: a fejezetet irányító szerv, a központi költségvetés XLIII. fejezete esetén a Magyar Nemzeti Vagyonkezelő Zrt. és a Magyar Fejlesztési Bank Zrt.,
 
-b)[^6] a fejezeti kezelésű előirányzatok esetén: a fejezetet irányító szerv vagy – abban az esetben, ha a fejezeti kezelésű előirányzatok feletti rendelkezési jogokat és az azokkal kapcsolatos feladatokat jogszabály a 109. § (4)–(6) bekezdése alapján középirányító szervre vagy kezelő szervre ruházta át – a középirányító szerv, kezelő szerv az átruházott jogkörök, feladatok, és – a 109. § (6) bekezdése szerinti esetben – előirányzat-hányad tekintetében,
+b)[^7] a fejezeti kezelésű előirányzatok esetén: a fejezetet irányító szerv vagy – abban az esetben, ha a fejezeti kezelésű előirányzatok feletti rendelkezési jogokat és az azokkal kapcsolatos feladatokat jogszabály a 109. § (4)–(6) bekezdése alapján középirányító szervre vagy kezelő szervre ruházta át – a középirányító szerv, kezelő szerv az átruházott jogkörök, feladatok, és – a 109. § (6) bekezdése szerinti esetben – előirányzat-hányad tekintetében,
 
 c) az elkülönített állami pénzalapok esetén: az Áht. 54/A. §-a alapján kijelölt központi költségvetési szerv vagy köztestület,
 
@@ -90,17 +90,17 @@ d) a társadalombiztosítás pénzügyi alapjai esetén: a LXXI. fejezetnél az 
 
 16. kisebbségpolitikáért felelős állami szerv: a Nek. tv. 62. §-ának (1) bekezdése alapján a Kormány által rendeletben kijelölt, a nemzeti és etnikai kisebbségekkel kapcsolatos állami feladatok ellátásáért felelős államigazgatási szerv;
 
-17.[^7]
+17.[^8]
 
 18. központi beruházás:
 
 a) a beruházások előkészítésére és megvalósítására, valamint az azokhoz kapcsolódó egyéb felhalmozási kiadásokra (ideértve az immateriális javakkal kapcsolatos kiadásokat is) szolgáló, a központi költségvetésben a fejezeti kezelésű előirányzatok között Beruházás alcímen megtervezett előirányzat, melynek célját az irányító szerv jelöli meg az ágazati fejlesztési koncepciókkal összhangban,
 
-b)[^8] a központi költségvetésben a fejezeti kezelésű előirányzatok vagy az intézményi címen a felhalmozási kiadások között tervezett lakásépítés, lakástámogatás előirányzata, amely a Honvédelmi Minisztérium, a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok, a Belügyminisztérium és az irányítása alá tartozó testületek, a Nemzetgazdasági Minisztérium és a Nemzeti Adó- és Vámhivatal szolgálati lakásainak létesítését – beleértve a lakásvásárlást is –, vagy az állomány lakástámogatását foglalja magában;
+b)[^9] a központi költségvetésben a fejezeti kezelésű előirányzatok vagy az intézményi címen a felhalmozási kiadások között tervezett lakásépítés, lakástámogatás előirányzata, amely a Honvédelmi Minisztérium, a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok, a Belügyminisztérium és az irányítása alá tartozó testületek, a Nemzetgazdasági Minisztérium és a Nemzeti Adó- és Vámhivatal szolgálati lakásainak létesítését – beleértve a lakásvásárlást is –, vagy az állomány lakástámogatását foglalja magában;
 
 19. közreműködő szervezet: az európai uniós forrásból finanszírozott támogatások esetén a támogató képviseletében eljáró, jogszabályban kijelölt szervezet;
 
-20.[^9] köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 20. pontjában meghatározottak;
+20.[^10] köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 20. pontjában meghatározottak;
 
 21. kutatás-fejlesztés: a kutatás-fejlesztésről és technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. §-ának 1. d) pontjában meghatározott tevékenység;
 
@@ -118,10 +118,10 @@ b)[^8] a központi költségvetésben a fejezeti kezelésű előirányzatok vagy
 
 28. támogatott tevékenység: az európai uniós forrásból finanszírozott támogatások esetén a külön jogszabály szerinti projekt, egyéb támogatások esetén az a támogatói okiratban, támogatási szerződésben megjelölt tevékenység – ideértve a kedvezményezett működését is –, feladat, amely során felmerült költségek megtérítését a támogatás biztosítja.
 
-[^3]: A 2. § 5. pontját a 313/2010. (XII. 23.) Korm. rendelet 40. § (1) bekezdése hatályon kívül helyezte.
-[^4]: A 2. § 6. pontja a 313/2010. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § 14. pont a) alpontja a 313/2010. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § 14. pont b) alpontja a 313/2010. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § 17. pontját a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
-[^8]: A 2. § 18. pont b) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
-[^9]: A 2. § 20. pontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (5) bekezdésével megállapított, a 95/2011. (VI. 28.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. § 5. pontját a 313/2010. (XII. 23.) Korm. rendelet 40. § (1) bekezdése hatályon kívül helyezte.
+[^5]: A 2. § 6. pontja a 313/2010. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § 14. pont a) alpontja a 313/2010. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § 14. pont b) alpontja a 313/2010. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § 17. pontját a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 2. § 18. pont b) alpontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 313/2010. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^10]: A 2. § 20. pontja a 226/2010. (VIII. 13.) Korm. rendelet 3. § (5) bekezdésével megállapított, a 95/2011. (VI. 28.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.

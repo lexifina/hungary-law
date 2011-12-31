@@ -1,4 +1,4 @@
-109. §[^193] (1) A fejezeti kezelésű előirányzatok feladatfinanszírozási körbe nem tartozó előirányzatai és az elkülönített állami pénzalapok nem alanyi jogon nyújtott ellátások, támogatások folyósítására, kedvezmények megtérítésére szolgáló előirányzatai (e fejezet alkalmazásában a továbbiakban együtt: előirányzatok) felhasználására a 110–131. § rendelkezéseit kell alkalmazni. Az előirányzatok pályázati rendszer keretében történő felhasználása során a 132–136. §-ban meghatározott szabályokat is alkalmazni kell.
+109. §[^194] (1) A fejezeti kezelésű előirányzatok feladatfinanszírozási körbe nem tartozó előirányzatai és az elkülönített állami pénzalapok nem alanyi jogon nyújtott ellátások, támogatások folyósítására, kedvezmények megtérítésére szolgáló előirányzatai (e fejezet alkalmazásában a továbbiakban együtt: előirányzatok) felhasználására a 110–131. § rendelkezéseit kell alkalmazni. Az előirányzatok pályázati rendszer keretében történő felhasználása során a 132–136. §-ban meghatározott szabályokat is alkalmazni kell.
 
 (2) Az I. fejezet 4. cím 3. Az Országgyűlés elnökének közcélú felajánlásai, adományai alcím, az I. fejezet 4. cím 8. Volt köztársasági elnökök közcélú felajánlásai, adományai alcím, a XIX. Uniós fejlesztések fejezet, 2. cím, 4. alcím, 1. Gazdaságfejlesztés Operatív Program jogcímcsoport „JEREMIE-típusú pénzügyi eszközök” prioritása, valamint a XIX. Uniós fejlesztések fejezet, 2. cím, 4. alcím, 29. Közép-magyarországi Operatív Program jogcímcsoport „A tudásalapú gazdaság innováció- és vállalkozásorientált fejlesztése” prioritása terhére megvalósuló 1.3. intézkedés tekintetében e fejezet előírásait – az e §-ban foglalt előírások kivételével – nem kell alkalmazni.
 
@@ -38,4 +38,4 @@ j) a 131. §-ban foglaltakról.
 
 (10) A Kormány irányítása vagy felügyelete alá tartozó fejezetek esetén a (8)–(9) bekezdés szerinti jogszabály, szabályzat hiányában a Kormány – az államháztartásért felelős miniszter javaslatára – elrendelheti az érintett fejezeti kezelésű előirányzatok felhasználásának felfüggesztését.
 
-[^193]: A 109. § a 313/2010. (XII. 23.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^194]: A 109. § a 313/2010. (XII. 23.) Korm. rendelet 23. §-ával megállapított szöveg.

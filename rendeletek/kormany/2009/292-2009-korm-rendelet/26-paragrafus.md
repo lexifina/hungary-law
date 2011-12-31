@@ -1,6 +1,6 @@
-## Az államháztartásért felelős miniszter tájékoztatója[^56]
+## Az államháztartásért felelős miniszter tájékoztatója[^57]
 
-## 26. §[^57] Az államháztartásért felelős miniszter tájékoztatót (a továbbiakban: tervezési körirat) ad ki a költségvetési irányelvek és a Kormány határozata alapján
+## 26. §[^58] Az államháztartásért felelős miniszter tájékoztatót (a továbbiakban: tervezési körirat) ad ki a költségvetési irányelvek és a Kormány határozata alapján
 
 a) a költségvetési tervezés egyes munkaszakaszai szerinti feladatokról,
 
@@ -10,5 +10,5 @@ c) az általános és ágazati prioritásokról, az összehangolási feladatokr�
 
 d) a tervezéshez használt dokumentumokról és az előírt adatszolgáltatások teljesítésének módjáról.
 
-[^56]: A 26. §-t megelőző cím a 226/2010. (VIII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^57]: A 26. § a 226/2010. (VIII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^57]: A 26. §-t megelőző cím a 226/2010. (VIII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^58]: A 26. § a 226/2010. (VIII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.

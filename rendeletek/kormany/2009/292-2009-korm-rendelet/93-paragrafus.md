@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdésben foglalt korlátozás nem zárja ki, hogy a költségvetési szerv a vállalkozási tartalék terhére teljesítsen felhalmozási célú kiadást.
 
-(3)[^183] Ha a költségvetési szerv vállalkozási tevékenységéből származó bevételeinek együttes összege egymást követő két évben meghaladja a ténylegesen teljesített – a költségvetési támogatást is magában foglaló – összbevétel egyharmadát, és a vállalkozás tartós fenntartására, bővítésére lehetőség látszik, az alapító – központi költségvetési szerv az államháztartásért felelős miniszter egyetértésével – dönt a költségvetési szervként való továbbműködésről és a vállalkozási tevékenység korlátozásáról, vagy a vállalkozási tevékenységet folytató szervezeti egységek leválasztásáról.
+(3)[^184] Ha a költségvetési szerv vállalkozási tevékenységéből származó bevételeinek együttes összege egymást követő két évben meghaladja a ténylegesen teljesített – a költségvetési támogatást is magában foglaló – összbevétel egyharmadát, és a vállalkozás tartós fenntartására, bővítésére lehetőség látszik, az alapító – központi költségvetési szerv az államháztartásért felelős miniszter egyetértésével – dönt a költségvetési szervként való továbbműködésről és a vállalkozási tevékenység korlátozásáról, vagy a vállalkozási tevékenységet folytató szervezeti egységek leválasztásáról.
 
-[^183]: A 93. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^184]: A 93. § (3) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 36. §-ával megállapított szöveg.

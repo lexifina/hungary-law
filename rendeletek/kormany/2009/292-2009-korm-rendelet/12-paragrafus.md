@@ -1,6 +1,6 @@
 ## A KÖLTSÉGVETÉSI SZERVEK TEVÉKENYSÉGE
 
-12. §[^29] (1) A költségvetési szerv alap- és vállalkozási tevékenységét az államháztartási szakfeladatok rendje (a továbbiakban: szakfeladatrend) szerint – szakfeladat számmal és megnevezéssel – kell besorolni.
+12. §[^30] (1) A költségvetési szerv alap- és vállalkozási tevékenységét az államháztartási szakfeladatok rendje (a továbbiakban: szakfeladatrend) szerint – szakfeladat számmal és megnevezéssel – kell besorolni.
 
 (2) A költségvetési szerv által ellátott feladatoknak, ezen belül a végzett tevékenységeknek az Áht. 92. § (1) bekezdése szerinti elkülönítését, besorolását az ott meghatározott kritériumok alapján, a (3)–(9) bekezdésben foglaltak figyelembevételével kell elvégezni.
 
@@ -36,7 +36,7 @@ c) a támogatási célú szakfeladatok tekintetében.
 
 (10) Az államháztartásért felelős miniszter tájékoztatóban teszi közzé a (3) bekezdés a) és d) pontja szerint minősülő szakfeladatok körét.
 
-(11)[^30] A költségvetési szervet – szakmai szempontból meghatározó – alaptevékenységének jellege szerint az irányító szerv az államháztartásért felelős miniszter által tájékoztatóban kiadott államháztartási szakágazati rendben meghatározott szakágazatba – szakágazat számmal és megnevezéssel – sorolja be az alapító okiratban.
+(11)[^31] A költségvetési szervet – szakmai szempontból meghatározó – alaptevékenységének jellege szerint az irányító szerv az államháztartásért felelős miniszter által tájékoztatóban kiadott államháztartási szakágazati rendben meghatározott szakágazatba – szakágazat számmal és megnevezéssel – sorolja be az alapító okiratban.
 
-[^29]: A 12. § a 226/2010. (VIII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^30]: A 12. § (11) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^30]: A 12. § a 226/2010. (VIII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^31]: A 12. § (11) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 3. §-a iktatta be.

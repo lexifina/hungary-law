@@ -1,6 +1,6 @@
 ## A TÖBB ÉV ELŐIRÁNYZATAIT ÉRINTŐ KÖTELEZETTSÉGVÁLLALÁSOK
 
-95. § (1)[^185] Az Áht. 100/D. §-ában foglaltakkal összefüggésben a központi költségvetési szerv abban az esetben köteles az irányító szerv vagy az államháztartásért felelős miniszter engedélyét kérni, ha a kötelezettségvállalás összegének
+95. § (1)[^186] Az Áht. 100/D. §-ában foglaltakkal összefüggésben a központi költségvetési szerv abban az esetben köteles az irányító szerv vagy az államháztartásért felelős miniszter engedélyét kérni, ha a kötelezettségvállalás összegének
 
 a) tárgyévre jutó része a kötelezettségvállalás időpontjában aktuális módosított kiadási előirányzatai főösszegének 10%-át, vagy
 
@@ -12,7 +12,7 @@ bb) egyéb központi költségvetési szerv esetében az irányító szerv álta
 
 eléri vagy meghaladja.
 
-(2)[^186] Nem szükséges az államháztartásért felelős miniszter vagy az irányító szerv engedélyét kérni
+(2)[^187] Nem szükséges az államháztartásért felelős miniszter vagy az irányító szerv engedélyét kérni
 
 a) a személyi juttatások felhasználása során, ide nem értve a külső személyi juttatások előirányzata terhére kötött, az (1) bekezdésben meghatározott feltételeknek megfelelő szerződéseket,
 
@@ -24,5 +24,5 @@ c) abban az esetben, ha a kötelezettségvállalás egyszeri, előre nem látott
 
 (4) Az Áht. alapján hosszú távúnak minősülő kötelezettségek vállalásának rendjéről, továbbá a többéves fizetési kötelezettséggel járó kötelezettségvállalások nettó jelenérték számításáról külön jogszabály rendelkezik.
 
-[^185]: A 95. § (1) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^186]: A 95. § (2) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^186]: A 95. § (1) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^187]: A 95. § (2) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.

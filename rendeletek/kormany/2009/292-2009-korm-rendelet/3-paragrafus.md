@@ -18,9 +18,9 @@ alkotják.
 
 (5) A fejezetet irányító szerv mint költségvetési szerv és mint a fejezeti jogosítványok gyakorlására feljogosított szerv egymással szerződést, megállapodást nem köthet, egymás irányába más magánjogi jellegű kötelmet nem vállalhat, azonban a fejezetet irányító szervi minőségében a fejezetre előírt követelményeket költségvetési szervként önmagával szemben is köteles érvényesíteni. Jogszabály eltérő rendelkezése hiányában ez a fejezetet irányító szerv szabályzatában meghatározott módon kiadott belső intézkedés alapján történik.
 
-(6)–(7)[^10]
+(6)–(7)[^11]
 
-(8)–(9)[^11]
+(8)–(9)[^12]
 
-[^10]: A 3. § (6)–(7) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 40. § (1) bekezdése hatályon kívül helyezte.
-[^11]: A 3. § (8)–(9) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.
+[^11]: A 3. § (6)–(7) bekezdését a 313/2010. (XII. 23.) Korm. rendelet 40. § (1) bekezdése hatályon kívül helyezte.
+[^12]: A 3. § (8)–(9) bekezdését a 226/2010. (VIII. 13.) Korm. rendelet 74. § (1) bekezdése hatályon kívül helyezte.

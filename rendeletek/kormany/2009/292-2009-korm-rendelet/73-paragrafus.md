@@ -16,7 +16,7 @@ d) több fejezet, költségvetési szerv vagy egyéb hazai, illetve nemzetközi 
 
 (4) A Kormány a (2) bekezdés szerinti határozatában a kötelezettség vállalásához kapcsolódóan feltételeket is megállapíthat.
 
-(5)[^150] A (2) bekezdés szerinti határozatot megalapozó előterjesztést – az Áht. 12/B. §-ának (4) bekezdésében foglaltak kivételével – a többéves fizetési kötelezettség célja, illetve a kötelezettségvállalással biztosítandó jogviszony tartalma szerint illetékes, kormány-előterjesztés benyújtására jogosult – az államháztartásért felelős miniszterrel együttesen – nyújtja be a Kormányhoz. Az előterjesztésnek tartalmaznia kell
+(5)[^151] A (2) bekezdés szerinti határozatot megalapozó előterjesztést – az Áht. 12/B. §-ának (4) bekezdésében foglaltak kivételével – a többéves fizetési kötelezettség célja, illetve a kötelezettségvállalással biztosítandó jogviszony tartalma szerint illetékes, kormány-előterjesztés benyújtására jogosult – az államháztartásért felelős miniszterrel együttesen – nyújtja be a Kormányhoz. Az előterjesztésnek tartalmaznia kell
 
 a) a többéves fizetési kötelezettség vállalására irányuló javaslat részletes indokolását, ideértve az állami szerepvállalás célszerűségét, indokoltságát, formájának indokolását,
 
@@ -36,4 +36,4 @@ h) hatástanulmányt a program javasolt finanszírozása esetén az állami fela
 
 (6) A többéves fizetési kötelezettségvállalásokat a Kincstár tartja nyilván, ideértve a kötelezettségvállalások állományáról történő információszolgáltatást is.
 
-[^150]: A 73. § (5) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^151]: A 73. § (5) bekezdés nyitó szövegrésze a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.

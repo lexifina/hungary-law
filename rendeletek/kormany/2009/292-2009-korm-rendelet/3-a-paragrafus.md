@@ -1,4 +1,4 @@
-3/A. §[^12] (1) A költségvetési szervek és a fejezeti kezelésű előirányzatok
+3/A. §[^13] (1) A költségvetési szervek és a fejezeti kezelésű előirányzatok
 
 a) kiadásait az Áht. 24. § (2) bekezdése szerinti előirányzatok alkotják,
 
@@ -34,4 +34,4 @@ cb) az előző évek vállalkozási maradványának igénybevétele.
 
 (2) A központi kezelésű előirányzatok kiadásaira és forrásaira az (1) bekezdés a) és baa)-bai) pontjaiban foglalt szabályokat kell alkalmazni. Az alapok kiadásairól és bevételeiről törvény rendelkezik.
 
-[^12]: A 3/A. §-t a 226/2010. (VIII. 13.) Korm. rendelet 4. §-a iktatta be, szövege a 313/2010. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 3/A. §-t a 226/2010. (VIII. 13.) Korm. rendelet 4. §-a iktatta be, szövege a 313/2010. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.

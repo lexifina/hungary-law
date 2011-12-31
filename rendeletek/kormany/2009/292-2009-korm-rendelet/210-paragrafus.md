@@ -1,6 +1,6 @@
-## 209. §[^321] A fejezeti kezelésű előirányzatoknak a gazdálkodási szabályok megsértéséből származó előirányzat-maradványa a központi költségvetést illeti meg.
+## 209. §[^322] A fejezeti kezelésű előirányzatoknak a gazdálkodási szabályok megsértéséből származó előirányzat-maradványa a központi költségvetést illeti meg.
 
-210. §[^322] (1) Kötelezettségvállalással terhelt előirányzat-maradványnak kell tekinteni
+210. §[^323] (1) Kötelezettségvállalással terhelt előirányzat-maradványnak kell tekinteni
 
 a) a tárgyévben szerződés vagy bármely más dokumentum alapján igazolhatóan befolyt bevételt, amely bizonyítottan a bevétel ellenszolgáltatásaként teljesítendő kiadásokra a következő évben kerül felhasználásra, vagy a bevétel kizárólagos felhasználási célját jogszabály meghatározza,
 
@@ -14,10 +14,10 @@ e) az elkülönített állami pénzalapoktól meghatározott célra, elszámolá
 
 f) a deviza- és a valuta készlet év végi értékelése során megállapított árfolyamnyereség összegét,
 
-g)[^323] a Széchenyi Kártya program keretein belül működő folyószámlahitel program előirányzat-maradványát.
+g)[^324] a Széchenyi Kártya program keretein belül működő folyószámlahitel program előirányzat-maradványát.
 
 (2) A korábbi években államháztartáson belüli és kívüli szervezeteknek, személyeknek kifizetett, de visszatérített, fel nem használt támogatás, támogatási előleg terhére a tárgyévben – az európai uniós források előirányzatai kivételével – az államháztartásért felelős miniszter egyetértésével vállalható új kötelezettség.
 
-[^321]: A 209. § az 56/2011. (IV. 12.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^322]: A 210. § a 226/2010. (VIII. 13.) Korm. rendelet 58. §-ával megállapított szöveg.
-[^323]: A 210. § (1) bekezdés g) pontját az 56/2011. (IV. 12.) Korm. rendelet 5. §-a iktatta be.
+[^322]: A 209. § az 56/2011. (IV. 12.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^323]: A 210. § a 226/2010. (VIII. 13.) Korm. rendelet 58. §-ával megállapított szöveg.
+[^324]: A 210. § (1) bekezdés g) pontját az 56/2011. (IV. 12.) Korm. rendelet 5. §-a iktatta be.

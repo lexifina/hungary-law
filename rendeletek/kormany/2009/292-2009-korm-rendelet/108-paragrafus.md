@@ -8,7 +8,7 @@
 
 ## Az előirányzatok felett gyakorolt jogok, a felhasználás módja
 
-108. § (1)[^192] A fejezeti kezelésű előirányzatok közül
+108. § (1)[^193] A fejezeti kezelésű előirányzatok közül
 
 a) a központi beruházásokra, beleértve a lakásépítés és a lakástámogatás előirányzatait is,
 
@@ -58,4 +58,4 @@ n) az európai uniós forrásból finanszírozott támogatások felhasználásá
 
 o) az Állami költségvetési kedvezményezettek sajáterő támogatása előirányzat.
 
-[^192]: A 108. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^193]: A 108. § (1) bekezdése a 226/2010. (VIII. 13.) Korm. rendelet 39. §-ával megállapított szöveg.

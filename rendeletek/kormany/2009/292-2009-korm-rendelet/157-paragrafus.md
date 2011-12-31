@@ -6,6 +6,6 @@
 
 (3) A kockázatkezelés keretében meg kell határozni az egyes kockázatokkal kapcsolatos intézkedéseket és megtételük módját.
 
-(4)[^238] A szervezet működésében rejlő kockázatos területek kiválasztását az államháztartásért felelős miniszter által kiadott, kötelező erővel nem rendelkező módszertani útmutató segíti.
+(4)[^239] A szervezet működésében rejlő kockázatos területek kiválasztását az államháztartásért felelős miniszter által kiadott, kötelező erővel nem rendelkező módszertani útmutató segíti.
 
-[^238]: A 157. § (4) bekezdése a 169/2010. (V. 11.) Korm. rendelet 52. § (6) bekezdésével megállapított, a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^239]: A 157. § (4) bekezdése a 169/2010. (V. 11.) Korm. rendelet 52. § (6) bekezdésével megállapított, a 226/2010. (VIII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
