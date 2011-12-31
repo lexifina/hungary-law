@@ -1,3 +1,0 @@
-## 3. § A Foglalkoztatási és Közfoglalkoztatási Adatbázisról szóló 169/2011. (VIII. 24.) Korm. rendelet (a továbbiakban: R2.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A jegyző a foglalkoztatást helyettesítő támogatás megállapítása iránt benyújtott kérelem esetében elektronikus adategyeztetés keretében ellenőrzi, hogy a kérelmet benyújtó személy más jegyző adatszolgáltatása alapján az Adatbázisban szerepel-e. Az ellátás megállapítását megelőzően elvégzett adategyeztetés során keresőfeltételként csak a kérelmet benyújtó személy neve, születési neve, születési helye, születési ideje, anyja neve, lakcíme és Társadalombiztosítási Azonosító Jele használható fel.”

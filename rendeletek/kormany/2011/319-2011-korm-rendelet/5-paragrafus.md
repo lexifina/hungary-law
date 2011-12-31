@@ -1,3 +1,3 @@
-## 4. § Az R2. 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 1–4. §[^1]
 
-## „(2) A munkaügyi központ hozzáférési jogosultsággal rendelkező ügyintézői adategyeztetés, adatellenőrzés, az archivált adatokból a jogosult részére történő igazolás, hatósági bizonyítvány kiállítása, és pénzügyi elszámolás céljából az Adatbázis valamennyi archivált adatához hozzáférnek.”
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
