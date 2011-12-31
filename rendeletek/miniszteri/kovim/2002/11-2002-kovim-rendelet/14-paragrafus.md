@@ -1,6 +1,6 @@
 ## 13. § Ez a rendelet 2004. január 1-jén lép hatályba.
 
-14. §[^19] (1)[^20] Ez a rendelet
+14. §[^21] (1)[^22] Ez a rendelet
 
 1. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelvnek,
 
@@ -14,13 +14,15 @@
 
 6. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelv módosításáról szóló, 2009. április 6-i 2009/26/EK bizottsági irányelvnek
 
+7.[^23] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2010. október 22-i 2010/68/EU bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
 (2) Ez a rendelet a hajófelügyeleti és hajóvizsgáló szervezetek közös szabályairól és szabványairól szóló, 2009. április 23-i 391/2009/EK európai parlamenti és tanácsi rendelettel összeegyeztethető szabályozást tartalmaz.
 
-A) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^21]
+A) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^24]
 
-B) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^22]
+B) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^25]
 
 A megfelelőség tanúsítás moduljai
 
@@ -420,7 +422,8 @@ A jelölés különféle elemeinek lényegileg ugyanolyan függőleges méretez�
 
 Kis méretű felszerelések esetében a minimális méretkorlátozástól el lehet tekinteni.
 
-[^19]: A 14. § a 65/2009. (XI. 26.) KHEM rendelet 7. §-ával megállapított szöveg.
-[^20]: A 14. § (1) bekezdése a 24/2010. (III. 25.) KHEM rendelet 3. §-ával megállapított szöveg.
-[^21]: Az A) mellékletet a 65/2009. (XI. 26.) KHEM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
-[^22]: A B) melléklet a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
+[^21]: A 14. § a 65/2009. (XI. 26.) KHEM rendelet 7. §-ával megállapított szöveg.
+[^22]: A 14. § (1) bekezdése a 24/2010. (III. 25.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^23]: A 14. § (1) bekezdés 7. pontját a 90/2011. (XII. 30.) NFM rendelet 3. §-a iktatta be.
+[^24]: Az A) mellékletet a 65/2009. (XI. 26.) KHEM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^25]: A B) melléklet a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
