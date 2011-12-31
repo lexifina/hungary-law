@@ -30,7 +30,9 @@ g) sportlétesítménynek a sporttevékenység végzésére szolgáló zárt lé
 
 a) szórakoztató, vendéglátó szolgáltatást nyújtó közforgalmú intézményeknek kizárólag élelmiszerek, illetve egyéb italáruk kiszolgálására a vendégforgalom számára nyitvaálló helyiségeiben, ha a helyiségben helyben történő fogyasztás céljából meleg- és hidegkonyhai, továbbá cukrászati készítményt nem, illetőleg – az üzletkörnek megfelelően – csak kiegészítő jelleggel hoznak forgalomba;
 
-b) a dohánytermék kereskedelmi bemutatója, vagy egyéb okból történő fogyasztása céljából létrejött rendezvényeken, feltéve, hogy a dohányzást az e törvényben foglalt más rendelkezések egyébként nem tiltják.
+b) a dohánytermék kereskedelmi bemutatója, vagy egyéb okból történő fogyasztása céljából létrejött rendezvényeken, feltéve, hogy a dohányzást az e törvényben foglalt más rendelkezések egyébként nem tiltják;
+
+c) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 1. § (3) bekezdés c) pontja és 27–28. §-ai szerinti játékkaszinóban
 
 (4) A dohányzóhely ugyanabban a helyiségben nem jelölhető ki, kivéve, ha annak légtere a helyiség egyéb részétől elkülöníthető, vagy az elkülönítés megfelelő légtechnikai megoldás alkalmazásával megoldható. A dohányzásra kijelölt hely zárt légterű csak abban az esetben lehet, ha a megfelelő légcsere feltételei nyílászáró szerkezetekkel, vagy egyéb műszaki berendezés felszerelésével biztosítottak, és ott más, nemdohányzó személy benttartózkodása – a munkaköri feladatok ellátásán kívül, a munkavédelemről szóló 1993. évi XCIII. törvény rendelkezéseire is figyelemmel – a helyiség rendeltetéséből adódóan nem szükségszerű.
 
