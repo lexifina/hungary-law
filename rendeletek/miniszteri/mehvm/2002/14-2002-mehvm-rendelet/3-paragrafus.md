@@ -22,7 +22,7 @@ i)[^8] az országos és nemzetközi szempontból jelentős rendezvények, illetv
 
 j) regionális feladatokhoz kapcsolódó információs rendszer működtetése és fejlesztése;
 
-k)[^9] a Magyar Turizmus Zrt., a Magyar Gazdaságfejlesztési Központ Zrt. (a továbbiakban: MAG Zrt.), a Nemzeti Turisztikai Bizottság működési költségeinek, valamint a pályázatkezelő és ellenőrző szervezetek szerződésben meghatározott költségeinek fedezése;
+k)[^9] a Magyar Turizmus Zrt., a Magyar Gazdaságfejlesztési Központ Zrt. (a továbbiakban: MAG Zrt.), a Hungarofest Nonprofit Kft., a Nemzeti Turisztikai Bizottság működési költségeinek, valamint a pályázatkezelő és ellenőrző szervezetek szerződésben meghatározott költségeinek fedezése;
 
 l) más jogszabályban vagy a Kormány által meghatározott egyéb turizmusfejlesztési célok végrehajtása;
 
@@ -36,7 +36,7 @@ p)[^13] kulturális értékek megóvásának támogatása.
 
 [^7]: A 3. § f) pontja a 2/2007. (I. 31.) ÖTM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § i) pontja a 2/2005. (II. 18.) TNM rendelet 4. §-ának (2) bekezdésével megállapított szöveg.
-[^9]: A 3. § k) pontja a 18/2009. (IV. 2.) ÖM rendelet 2. §-ával megállapított szöveg.
+[^9]: A 3. § k) pontja a 97/2011. (XII. 30.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: A 3. § m) pontját a 19/2004. (II. 27.) GKM rendelet 28. §-a iktatta be, hatályon kívül helyezte a 2/2007. (I. 31.) ÖTM rendelet 16. § (1) bekezdése.
 [^11]: A 3. § n) pontját a 19/2004. (II. 27.) GKM rendelet 28. §-a iktatta a szövegbe, e módosító rendelet 34. §-ának (1) bekezdése alapján rendelkezéseit a 2004. évben és azt követően kiírt pályázatokra és a 2004. március 1. napját követően nyújtott pályázaton kívüli támogatásokra kell alkalmazni.
 [^12]: A 3. § o) pontját a 19/2004. (II. 27.) GKM rendelet 28. §-a iktatta a szövegbe, e módosító rendelet 34. §-ának (1) bekezdése alapján rendelkezéseit a 2004. évben és azt követően kiírt pályázatokra és a 2004. március 1. napját követően nyújtott pályázaton kívüli támogatásokra kell alkalmazni.

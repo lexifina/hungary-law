@@ -6,7 +6,7 @@
 
 (3)[^126] A MAG Zrt. a turisztikai fejlesztési támogatási rendszerben támogatáskezelési feladatokat végez, ennek keretében ellátja a pályázati felhívás és a támogatási döntés előkészítésével, a támogatási szerződések és az azokhoz kapcsolódó biztosítéki szerződések megkötésével, módosításával, nyilvántartásával, a pénzügyi lebonyolítással, a támogatási szerződések teljesítésének ellenőrzésével – beleértve a pénzügyi és a folyamatba épített előzetes és közbenső, valamint utólagos és helyszíni ellenőrzést –, a követeléskezeléssel kapcsolatos teendőket, továbbá a TC-vel kapcsolatban vezeti a kötelezettségvállalások nyilvántartását, elvégzi a költségvetési tervezési, pénzügyi, számviteli, beszámolókészítési, adatszolgáltatási, adatkezelési, valamint ellenőrzési teendőket.
 
-(4)[^127]
+(4)[^127] A Hungarofest Nonprofit Kft. ellátja a magyar kultúrát népszerűsítő fesztiválok, kulturális rendezvények, különösen koncertek, kiállítások és konferenciák szervezését itthon és külföldön, valamint a kultúra eszközeivel kapcsolatot épít Magyarország és a külhoni magyar területek között. A kulturális és szakmai programok teljes körű lebonyolítása és marketing tevékenysége révén elősegíti a turisztikai programkínálat bővítését és turisztikai kapcsolatok fejlesztését.
 
 (5) A Magyar Államkincstár a turisztikai támogatási rendszerben a pályázati támogatásokkal kapcsolatosan ellátja a számlabefogadást, azok ellenőrzését, a támogatási szerződések teljesítésének ellenőrzésével – beleértve a folyamatba épített közbenső és utólagos, valamint a helyszíni ellenőrzést – kapcsolatos feladatokat, ennek keretében a zárójegyzőkönyv felvételével, valamint a támogatási program lezárásával összefüggő teendőket.
 
@@ -14,4 +14,4 @@
 [^124]: A 18/A. § (1) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^125]: A 18/A. § (2) bekezdése a 9/2006. (XI. 24.) ÖTM rendelet 2. § (2) bekezdése szerint módosított szöveg.
 [^126]: A 18/A. § (3) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^127]: A 18/A. § (4) bekezdését a 2/2007. (I. 31.) ÖTM rendelet 16. § (1) bekezdése hatályon kívül helyezte, az MVf Kht.-re vonatkozó jogutódlás tekintetében lásd még e módosító rendelet 15. §-át.
+[^127]: A 18/A. § (4) bekezdését a 2/2007. (I. 31.) ÖTM rendelet 16. § (1) bekezdése hatályon kívül helyezte, újonnan a 97/2011. (XII.30.) NFM rendelet 1. § (3) bekezdése iktatta be.

@@ -14,7 +14,7 @@ c)[^27] amennyiben a projekt vagy a program szokásos fedezettel rendelkezik és
 
 (3) A Kormány vagy nemzetközi szervezet programjai által meghatározott stratégiai célok végrehajtásához rendelt források a Kormány vagy a nemzetközi szervezet döntésének megfelelő formában, mértékben és feltételekkel kerülnek megpályáztatásra és folyósításra.
 
-(4)[^28] A 3. § h) és k) pontjában foglaltak teljesítésére, támogatás folyósítására, elszámolására a támogató és a Magyar Turizmus Zrt. szerződést köt.
+(4)[^28] A 3. § h) és k) pontjában foglaltak teljesítésére, támogatás folyósítására, elszámolására a támogató és a Magyar Turizmus Zrt., a 3. § k) pontjában foglaltak teljesítésére, a támogatás folyósítására, elszámolására a támogató és a Hungarofest Nonprofit Kft. szerződést köt.
 
 [^27]: Az 5. § (1) bekezdésének c) pontja a 2/2007. (I. 31.) ÖTM rendelet 4. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 16. § (1) bekezdését.
-[^28]: Az 5. § (4) bekezdése a 9/2006. (XI. 24.) ÖTM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^28]: Az 5. § (4) bekezdése a 97/2011. (XII. 30.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.

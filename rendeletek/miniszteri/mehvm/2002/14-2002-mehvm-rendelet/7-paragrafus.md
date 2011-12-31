@@ -10,7 +10,7 @@
 
 (5)[^40] A beruházási támogatás összege nem haladhatja meg a 15/A. §-ban meghatározott mértéket, a képzési támogatás összege nem haladhatja meg a 15/B. §-ban meghatározott mértéket, a csekély összegű támogatás összege nem haladhatja meg a 6/B. §-ban meghatározott mértéket.
 
-(6)[^41] Az önkormányzati miniszter (a továbbiakban: döntéshozó) egy projekthez csak egy alkalommal ítélhet meg a TC-ből nyújtandó támogatást.
+(6)[^41] A fejlesztéspolitikáért felelős miniszter (a továbbiakban: döntéshozó) egy projekthez csak egy alkalommal ítélhet meg a TC-ből nyújtandó támogatást.
 
 (7)[^42] Az egy pályázat keretében megvalósuló beruházási célú állami támogatási programhoz vagy projekthez kapcsolódó saját forrás mértéke a teljes megvalósítási költség 25%-a, ha a pályázati felhívás másként nem rendelkezik, de ebben az esetben sem lehet kevesebb a teljes megvalósítási költség 25%-ánál. Nem tekinthető saját forrásnak az Ámr. 114. § (2) bekezdésében meghatározott források köre. Csekély összegű, képzési és kulturális célú támogatásoknál a saját forrás előírásától el lehet tekinteni. Beruházási támogatások esetében a saját forrásra vonatkozó szabályoktól eltérni nem lehet.
 
@@ -20,6 +20,6 @@
 [^38]: A 7. § (1) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 6. § (1) bekezdésével megállapított, a 7/2010. (II. 18.) ÖM rendelet 12. § (2) bekezdése szerint módosított szöveg.
 [^39]: A 7. § (2) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^40]: A 7. § (5) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^41]: A 7. § (6) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^41]: A 7. § (6) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 6. § (2) bekezdésével megállapított, a 97/2011. (XII. 30.) NFM rendelet 2. §-a szerint módosított szöveg.
 [^42]: A 7. § (7) bekezdése a 7/2010. (II. 18.) ÖM rendelet 12. § (5) bekezdése szerint módosított szöveg.
 [^43]: A 7. § (8) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 6. § (3) bekezdésével megállapított szöveg.
