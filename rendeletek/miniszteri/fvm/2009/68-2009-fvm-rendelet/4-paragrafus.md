@@ -1,1 +1,0 @@
-## „(3) A Vhr. 27. § (1) bekezdésének e)–f) pontjaitól eltérve az ott meghatározott összeghatártól függetlenül kizárólag pénzügyi tervet kell elkészíteni, és azt a támogatási kérelemmel együtt benyújtani. A Vhr. 27. §-ának (3) bekezdését e jogcím tekintetében nem kell alkalmazni.”
