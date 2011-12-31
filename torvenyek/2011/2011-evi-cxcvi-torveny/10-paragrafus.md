@@ -1,3 +1,0 @@
-10. § (1) A nemzeti vagyont, annak értékét és változásait a tulajdonosi joggyakorló nyilvántartja. Az érték nyilvántartásától el lehet tekinteni, ha az adott vagyontárgy értéke természeténél, jellegénél fogva nem állapítható meg. A nyilvántartásnak tartalmaznia kell a vagyon elsődleges rendeltetése szerinti közfeladat megjelölését is. A nyilvántartási adatok – a minősített adat védelméről szóló törvény szerinti minősített adat kivételével – nyilvánosak.
-
-(2) A tulajdonosi joggyakorló rendszeresen ellenőrzi a nemzeti vagyon használójának a nemzeti vagyonnal való gazdálkodását, megállapításairól értesíti a nemzeti vagyon használóját, továbbá, amennyiben megállapításai az Állami Számvevőszék hatáskörét érintik, az Állami Számvevőszéket is.
