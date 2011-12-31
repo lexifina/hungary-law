@@ -25,11 +25,3 @@ a) 3. §-ának a Ktjv. 8/A. § (4) bekezdését és 8/B. § (5) bekezdését meg
 b) 8. §-ának a Ktjv. 58/B. és 58/C. §-át megállapító rendelkezése,
 
 c) 18. § (1) bekezdés e) pontja.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
