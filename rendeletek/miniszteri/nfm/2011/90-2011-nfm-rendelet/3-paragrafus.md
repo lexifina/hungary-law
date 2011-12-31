@@ -1,0 +1,5 @@
+## 2. § Az R. 4. §-a a következő (5) és (6) bekezdéssel egészül ki:
+
+## „(5) Az uniós irányelv A.1. mellékletében szereplő táblázat A.1/1.43; A.1/8.1 és A.2/3.32 pontjában megjelölt felszerelés, amelynek gyártása 2011. december 10. napját megelőzően, az Európai Gazdasági Térség tagállamában hatályban lévő típus-jóváhagyási eljárásnak megfelelően történt, 2011. december 10. napját követő két év folyamán forgalomba hozható, illetve az Európai Gazdasági Térség tagállamának lobogója alatt közlekedő hajón történő használata engedélyezett.
+
+## (6) Az uniós irányelv A.2 mellékletből az A.1 mellékletbe áthelyezett A.2/3.1; A.2/3.5-7; A.2/3.10; A.2/3.12; A.2/3.16-20; A.2/4.1-10; A.2/4.13-14; A.2/4.22-23; A.2/4.26-27; A.2/5.3, valamint A.2/6.1 pontjában megjelölt felszerelés, amelynek gyártása 2011. december 10. napját megelőzően az Európai Gazdasági Térség tagállamában hatályban lévő típus-jóváhagyási eljárásnak megfelelően történt, 2011. december 10. napját követő két év folyamán forgalomba hozható, illetve az Európai Gazdasági Térség tagállamának lobogója alatt közlekedő hajón történő használata engedélyezett.”
