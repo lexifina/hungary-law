@@ -20,6 +20,8 @@ a) abban az esetben, ha a keresetindításra jogszabály hatvan napnál nem hoss
 
 b) a Negyedik Részben meghatározott különleges eljárásokban,
 
-c) a fizetési meghagyásos eljárást követő perben (315. §) vagy
+c) a fizetési meghagyásos eljárást követő perben (315. §),
 
-d) külön törvény eltérő rendelkezése hiányában a nemperes eljárásokban.
+d) külön törvény eltérő rendelkezése hiányában a nemperes eljárásokban, vagy
+
+e) az Ötödik Részben meghatározott kiemelt jelentőségű perekben.

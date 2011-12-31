@@ -11,3 +11,5 @@ a) a 23. § (1) bekezdés a) pontja szerinti – a 24. § és 25. § rendelkezé
 b) azokban a megállapításra irányuló perekben (123. §), amelyek esetében a per tárgyának értéke – ha marasztalás kérhető lenne – meghaladná az a) pontban meghatározott értéket.
 
 (2) Az e Részben foglaltakat a XV–XXV. fejezet szerinti különleges eljárásokban nem kell alkalmazni.
+
+(3) A jelen fejezet rendelkezései alapján zajló perekben a jogi képviselet kötelező.

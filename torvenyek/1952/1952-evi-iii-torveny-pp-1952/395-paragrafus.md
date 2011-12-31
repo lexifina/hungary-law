@@ -15,11 +15,3 @@
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 a) a bírósági ügyvitel rendjét az Országos Igazságszolgáltatási Tanács véleményének kikérésével;
-
-b) az ügygondnok részére járó díjazást az adópolitikáért felelős miniszterrel egyetértésben;
-
-c) a bírósági letétkezelés szabályait;
-
-d)
-
-e) azon perek körét, amelyekben a felet tárgyi költségfeljegyzési jog illeti meg, és e perekben azokat a költségeket, amelyeket a fél a tárgyi költségfeljegyzési jog ellenére is köteles előlegezni, illetve viselni, az adópolitikáért felelős miniszterrel egyetértésben;
