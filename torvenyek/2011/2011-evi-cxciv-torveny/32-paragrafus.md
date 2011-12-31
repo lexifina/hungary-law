@@ -1,0 +1,1 @@
+32. § Fizetési kötelezettséget megállapító, fizetésre kötelezettek körét bővítő, a fizetési kötelezettség terhét növelő, a kedvezményt, mentességet megszüntető vagy korlátozó jogszabály kihirdetése és hatálybalépése között legalább 30 napnak el kell telnie.
