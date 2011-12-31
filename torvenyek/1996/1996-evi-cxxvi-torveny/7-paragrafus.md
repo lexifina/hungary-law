@@ -28,7 +28,7 @@ f)
 
 a) a 4. § (1) bekezdés aa)–ac) pontja szerinti kedvezményezett az alapító okiratában, alapszabályában alaptevékenységként meghatározott – a Civil tv. szerinti – közhasznú tevékenység megvalósítására fordítja,
 
-b) a 4. § (1) bekezdés b)–h) pontja szerinti kedvezményezett a létesítő okiratában és a rá vonatkozó külön jogszabályokban alaptevékenységként meghatározott közcélú, közérdekű, közhasznú tevékenység megvalósítására fordítja.
+b) a 4. § (1) bekezdés b)–g) pontja szerinti kedvezményezett a létesítő okiratában és a rá vonatkozó külön jogszabályokban alaptevékenységként meghatározott közcélú, közérdekű, közhasznú tevékenység megvalósítására fordítja.
 
 (9) A kedvezményezett fenntartásával, működésével kapcsolatos költségek – a 6. § (3) bekezdés szerinti tartalékolás esetén, beleértve a tartalékolást követő években felmerült, ilyen jellegű költségeket is – együttes összege az évente kiutalt költségvetési támogatás harminc százalékát nem haladhatja meg. Működési költségként különösen az alábbiak vehetők figyelembe:
 

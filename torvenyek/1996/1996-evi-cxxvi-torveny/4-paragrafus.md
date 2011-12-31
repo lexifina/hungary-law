@@ -32,8 +32,6 @@ f) az a könyvtári, levéltári, múzeumi, egyéb kulturális, illetve alkotó-
 
 g) a felsőoktatásról szóló 2005. évi CXXXIX. törvény 1. számú mellékletében meghatározott felsőoktatási intézmény;
 
-h) a Magyar Kármentő Alap.
-
 h) a Nemzeti Együttműködési Alap.
 
 (2) Az (1) bekezdés a) pontjában megjelöltek közül kizárólag az a szervezet lehet kedvezményezett, amely
