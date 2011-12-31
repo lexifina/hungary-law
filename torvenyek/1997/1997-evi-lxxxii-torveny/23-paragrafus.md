@@ -20,7 +20,7 @@ h)
 
 i) a 28. § (1) bekezdésének b) pontja szerinti egyösszegű szolgáltatás igénybevételével;
 
-j)
+j) a törvény 24. § (15) bekezdésében foglalt megszüntetéssel, a megszüntetés napjával
 
 szűnik meg.
 

@@ -14,7 +14,7 @@ b) nyugdíjkorhatár:
 
 c) pénztártag: az a természetes személy, aki pénztárba belép és e törvény szerint tagdíjat fizet, illetve a pénztártól nyugdíjszolgáltatásban részesül,
 
-d) tagdíj: az az összeg, amelyet a pénztár tagja, a pénztár számára köteles megfizetni, ideértve azt az összeget is, amellyel a Tbj. által kötelezően megállapított mértéket a pénztártag, vagy javára más személy vagy szervezet kiegészíti,
+d) tagdíj: az az összeg, amelyet a pénztár tagja, a pénztár számára megfizet
 
 e) egyéni számla: az a nyilvántartás, amelyen a felhalmozási időszakban a pénztártag követelése, illetve nyugdíjba vonuláskor a részére járó nyugdíjszolgáltatás megállapítása alapul,
 
@@ -30,7 +30,7 @@ j) nyugdíjszolgáltatás: a nyugdíjkorhatár elérésekor, vagy a pénztártag
 
 k) társadalombiztosítási jogszabályok: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.), a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.), valamint a Tbj. 13. §-ában hivatkozott külön jogszabály és nemzetközi egyezmény,
 
-l) nyugdíjbiztosítási jogviszony: a Tbj. 5. §-ában és 26. § (1) bekezdésében meghatározott, nyugdíjjárulékfizetési kötelezettséggel járó jogviszony, valamint a Tbj. 34. § (1) bekezdése szerinti, nyugdíjbiztosítási jogosultság érdekében megkötött megállapodással létrejött jogviszony,
+l)
 
 m)
 
@@ -86,4 +86,4 @@ zsk) visszalépő tagi kifizetések: a társadalombiztosítási nyugdíjrendszer
 
 (3) E törvény alkalmazásában tagsági okirat: a pénztár által kiállított, legalább a belépési nyilatkozaton szereplő adatokat tartalmazó, teljes bizonyító erejű magánokirat.
 
-(4) Magánnyugdíjpénztári tevékenységnek minősül a pénztártagok felvétele, a tagok számára kötelezően fizetendő tagdíjak gyűjtése, a tagdíjakból származó vagyon befektetése, nyugdíjszolgáltatás nyújtása és egyösszegű kifizetés teljesítése egyéni számla vezetés alapján.
+(4) Magán-nyugdíjpénztári tevékenységnek minősül a pénztártagok felvétele, a tagok számára fizetendő tagdíjak gyűjtése, a tagdíjakból származó vagyon befektetése, nyugdíjszolgáltatás nyújtása és egyösszegű kifizetés teljesítése egyéni számla vezetés alapján.

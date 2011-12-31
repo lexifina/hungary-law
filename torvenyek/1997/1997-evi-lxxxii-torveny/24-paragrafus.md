@@ -10,11 +10,7 @@ b) a tag az átadó pénztárba történt belépést követő két éven belül 
 
 az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag követelésének egy ezreléket meghaladó részét, de legfeljebb ötezer forintot átlépési díjként érvényesít. Az átlépési díj nem engedhető el, a tag számára a befogadó pénztár által nem téríthető meg, a tagot illető tagdíjbefizetésből vagy a tag egyéni számlájának egyenlegéből nem vonható le.
 
-(4) Megállapodást köthet a pénztárral a tagdíjfizetésre az a pénztártag, aki nem rendelkezik a tagdíj alapjául a Tbj.-ben meghatározott járulékalapot képező jövedelemmel.
-
-(5) A tagdíjfizetésre kötött megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre. A megállapodásban rendelkezni kell a tagdíj alapjáról és összegéről, és az esetleges tagdíj-kiegészítés vállalásáról is. A megállapodás megkötését követően a tagdíjat a tárgyhónapot követő hónap 12. napjáig kell az érintett magánnyugdíjpénztárhoz megfizetni. A pénztártag a megállapodás megszűnését a magánnyugdíjpénztár részére írásban köteles bejelenteni. A tagdíj fizetését – támogatási megállapodás alapján – a tag helyett más is átvállalhatja. A támogatás jogosultja a pénztártag. A támogatás felhasználására a tagdíjra vonatkozó szabályokat kell alkalmazni.
-
-(6) Azt a pénztártagot, aki a tagdíj alapjául szolgáló jövedelemmel nem rendelkezik és tagdíj fizetésére megállapodást nem kötött, vagy részére támogatási megállapodást nem kötöttek (a továbbiakban: számlatulajdonos) a pénztártagok jogai illetik meg és kötelezettségei terhelik azzal, hogy a számlatulajdonos nem választhat és a pénztár szerveibe nem választható. Ez a szabály irányadó arra a rokkantsági nyugellátásban részesülő pénztártagra, aki a tagsági jogviszonyát fenn kívánja tartani.
+(4)–(6)
 
 (7) A 23. § (1) bekezdés d) pontja szerinti esetben a társadalombiztosítási nyugdíjrendszerbe történő visszalépési szándékáról a pénztártag a társadalombiztosítási nyugdíjigény benyújtásával egyidejűleg írásban nyilatkozik a nyugdíjbiztosítási igazgatási szerv részére. A nyugdíjbiztosítási igazgatási szerv a benyújtást követően írásban értesíti az érintett magánnyugdíjpénztárat a pénztártag visszalépési szándékának bejelentéséről és a nyugdíj megállapításának kezdő időpontjáról, valamint a megállapítást követően a társadalombiztosítási nyugellátás összegének a Tny. 12. § (7) bekezdése alapján számított összegéről. A nyugdíjbiztosítási igazgatási szervnek a társadalombiztosítási nyugellátás összegéről szóló értesítését követően a magánnyugdíjpénztár haladéktalanul, írásban tájékoztatja a pénztártagot az egyéni számlakövetelés alapján számított életjáradék várható összegéről. Amennyiben a pénztártag a visszalépésről dönt, a pénztárhoz benyújtja visszalépési kérelmét, melyet az haladéktalanul továbbít a nyugdíjbiztosítási igazgatási szerv részére. A visszalépési kérelem a nyugdíjigény elbírálása tárgyában hozott első fokú határozat közlését követő legfeljebb 30 napon belül nyújtható be.
 
@@ -43,3 +39,13 @@ a) a számítás fordulónapjaként 2011. május 31-ét,
 b) 2011. május hónapra a KSH által közzétett, 2011. áprilisra vonatkozó inflációs rátát
 
 kell alkalmazni.
+
+(15) Az a társadalombiztosítási nyugellátásban nem részesülő, e törvény hatálybalépését követően pénztártaggá vált természetes személy, aki teljes összegű társadalombiztosítási nyugellátásban kíván részesülni, 2012. március 31. napjáig kezdeményezheti tagsági jogviszonyának megszüntetését és egyéni számlaegyenlege 4. § (2) bekezdés zsk) pontja szerinti visszalépő tagi kifizetéssel csökkentett összegének a Nyugdíjreform és Adósságcsökkentő Alap részére történő átutalását.
+
+(16) A 23. § (1) bekezdés j) pontjában meghatározott esetben a tag tagsági jogviszonya megszüntetésének szándékát a (15) bekezdésben meghatározott időpontig annak a magánnyugdíjpénztárnak kell bejelentenie, amelyikben tagsági jogviszonnyal rendelkezik. A pénztár a tag tagsági jogviszonyát 2012. május 31-ével szünteti meg (a megszüntetés napja).
+
+(17) A 23. § (1) bekezdés j) pontjában meghatározott esetben a tagokkal való elszámolás során az átlépés szabályait kell megfelelőn alkalmazni. Az eszközöket – jogszabály ellenkező rendelkezése hiányában – a tagsági jogviszonyát megszüntető tag portfólióján belüli eszközök arányának megfelelően kell átadni.
+
+(18) A pénztár a tagsági jogviszony megszüntetésével kapcsolatos tényleges költségeket, legfeljebb azonban a tag követeléséből annak egy ezrelékét vonhatja le.
+
+(19) A tagsági jogviszonyát megszüntető tag jogosult a követelésének részét képező egyéni számla-egyenleg tagdíjbefizetése alapján kiszámított, 4. § (2) bekezdésének zsj) pontjában meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíjkiegészítés összegének felvételére (visszalépő tagi kifizetés), vagy annak az önkéntes nyugdíjpénztárnál vezetett tagi számláján, vagy a társadalombiztosítási nyugdíjrendszerben létrejövő egyéni számláján történő jóváírásra. A tag a tagsági jogviszony megszűnésének napjától (2012. május 31.) kérheti a visszalépő tagi kifizetés átutalását. Amennyiben a tag tagsági jogviszonya megszüntetésének időpontjáig nem rendelkezik a visszalépő tagi kifizetésekről, azokat a társadalombiztosítási nyugdíjrendszerben lévő egyéni számláján kell jóváírni.

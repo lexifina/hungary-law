@@ -20,13 +20,11 @@ d) az SzMSz szerint jogosult a pénztári nyugdíjszolgáltatások igénybevéte
 
 (4) A pénztártag köteles
 
-a) tagsági viszonyát – a Tbj. szerinti biztosítási jogviszonyának fennállása alatt – valamely általa választott pénztárban folyamatosan fenntartani,
+a) tagsági jogviszonyát valamely általa választott pénztárban folyamatosan fenntartani,
 
 b) adatszolgáltatási kötelezettségének eleget tenni,
 
-c) tagdíjat fizetni,
-
-d) foglalkoztatójának a biztosítási jogviszony létrejöttét követő 15. napon belül bejelenteni a pénztártagság tényét, annak a magánnyugdíjpénztárnak a megnevezését, címét és pénzforgalmi számlájának a számát, ahol a tagsági jogviszonya a bejelentésekor fennáll. A pénztártagság tényét a belépési nyilatkozat, vagy tagsági okirat bemutatásával kell igazolni.
+c)–d)
 
 e) a jogalap nélkül felvett szolgáltatás összegét, ezek kamatait, határidőben, maradéktalanul a pénztárnak visszafizetni,
 
