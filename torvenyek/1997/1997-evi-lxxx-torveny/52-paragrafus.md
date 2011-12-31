@@ -10,6 +10,6 @@ Tbj. 52. § (1) A társadalombiztosítási kifizetőhelyet fenntartó foglalko
 
 (6)
 
-(7) A foglalkoztató által levont járulék és tagdíj a biztosítottól akkor sem követelhető, ha azt a foglalkoztató bevallani és/vagy befizetni elmulasztotta, és a vele szemben foganatosított hatósági intézkedések nem vezettek eredményre.
+(7) A foglalkoztató által levont járulék a biztosítottól akkor sem követelhető, ha azt a foglalkoztató bevallani és/vagy befizetni elmulasztotta, és a vele szemben foganatosított hatósági intézkedések nem vezettek eredményre.
 
 (8)

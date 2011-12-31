@@ -6,7 +6,7 @@ Tbj. 2. § (1) A társadalombiztosítás Magyarország állampolgárait és e 
 
 (3) A kötelező társadalombiztosítás rendszerében a biztosított – e törvény vagy társadalombiztosítási ellátást megállapító törvény eltérő rendelkezése hiányában – az egyéni felelősség elvének megfelelően, az e törvényben meghatározott járulékfizetési kötelezettség alapján szerezhet jogot saját maga és törvényben meghatározott hozzátartozója javára az egyes társadalombiztosítási ellátásokra. A pénzbeli társadalombiztosítási ellátás összege – ha törvény kivételt nem tesz – arányban áll a biztosítottnak az ellátás fedezetére szolgáló járulék alapjául szolgáló jövedelmével.
 
-(4) A társadalombiztosítási rendszerhez kapcsolódó magánnyugdíj keretében járó ellátások fedezetére a biztosítottak – törvényben meghatározott mértékű – tagdíjat fizetnek.
+(4)
 
 (5) A biztosítás az annak alapjául szolgáló jogviszonnyal egyidejűleg, a törvény erejénél fogva jön létre. Ennek érvényesítése érdekében a foglalkoztatót bejelentési, nyilvántartási, járulék-megállapítási és levonási, járulékfizetési, valamint bevallási kötelezettség terheli. E kötelezettség kiterjed arra a külföldi foglalkoztatóra is, aki a Magyar Köztársaság területén biztosítási kötelezettséggel járó jogviszony keretében foglalkoztat munkavállalót, továbbá arra a külföldi foglalkoztatóra, aki a Magyar Köztársaság területén kívül foglalkoztat olyan munkavállalót, aki a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet alapján e törvény hatálya alá tartozik.
 

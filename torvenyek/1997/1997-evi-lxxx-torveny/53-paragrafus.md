@@ -12,4 +12,4 @@ c) munkáltatói tagdíj-kiegészítés.
 
 (3) Felszámolási eljárás alatt álló foglalkoztató esetében a befizetések elszámolása – az (1)–(2) bekezdésben foglaltaktól eltérően – a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvény rendelkezései szerint történik.
 
-(4) Ha a foglalkoztató, az egyéni vállalkozó a határidőben benyújtott vagy a pótolt bevallás alapján a tagdíjtartozást és a tartozás után felszámított késedelmi pótlékot az állami adóhatóság igazolása szerint elévülési időn túl fizeti meg az érintett magánnyugdíjpénztárnak, a befizetett összeget a pénztár a pénztártag egyéni számlájára számolja el az (1) bekezdésben foglaltak szerint. A tagdíjtartozás és a tagdíjtartozás után felszámított késedelmi pótlék elévülésére vonatkozó adóhatósági igazolást a foglalkoztató a befizetéssel egyidejűleg megküldi az érintett magánnyugdíjpénztárnak.
+(4)

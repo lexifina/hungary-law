@@ -18,7 +18,7 @@ e) a foglalkoztató a külön jogszabályban meghatározott korkedvezményre jog
 
 fizet.
 
-(2) A magánnyugdíjpénztár tagja tagdíj fizetésére kötelezett.
+(2)
 
 (3) A külön törvényben meghatározott szolgálati nyugellátás, valamint a szolgálati rokkantsági nyugdíj járulékfizetéssel nem fedezett többletköltségeit a központi költségvetés fizeti.
 

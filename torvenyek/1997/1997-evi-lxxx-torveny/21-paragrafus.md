@@ -1,6 +1,6 @@
 ## Járulékalapot nem képező jövedelem
 
-Tbj. 21. § Nem képezi a társadalombiztosítási járulék, a nyugdíjjárulék (tagdíj) és az egészségbiztosítási- és munkaerő-piaci járulék alapját:
+Tbj. 21. § Nem képezi a társadalombiztosítási járulék, a nyugdíjjárulék és az egészségbiztosítási- és munkaerő-piaci járulék alapját:
 
 a) a foglalkoztató által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a foglalkoztatót terhelő összege,
 

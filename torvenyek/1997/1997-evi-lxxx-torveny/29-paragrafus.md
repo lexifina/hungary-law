@@ -12,7 +12,7 @@ de havi átlagban legalább az e törvény szerinti minimálbér alapulvételév
 
 (3) Az egyéni vállalkozó a 19. § (2)–(3) bekezdésében meghatározott nyugdíjjárulékot (tagdíjat) és egészségbiztosítási- és munkaerő-piaci járulékot az (1)–(2) bekezdésben meghatározott társadalombiztosítási járulékalap figyelembevételével fizeti meg, a nyugdíjjárulékot (tagdíjat) azonban legfeljebb a járulékfizetési felső határig.
 
-(4) Az egyéni vállalkozó az (1) bekezdésben említett járulékalap alapulvételével nem köteles társadalombiztosítási járulékot, nyugdíjjárulékot (tagdíjat) és egészségbiztosítási- és munkaerő-piaci járulékot fizetni arra az időtartamra, amely alatt
+(4) Az egyéni vállalkozó az (1) bekezdésben említett járulékalap alapulvételével nem köteles társadalombiztosítási járulékot, nyugdíjjárulékot és egészségbiztosítási- és munkaerő-piaci járulékot fizetni arra az időtartamra, amely alatt
 
 a) táppénzben, baleseti táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül – kivéve, ha a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj folyósításának tartama alatt vállalkozói tevékenységét személyesen folytatja –,
 

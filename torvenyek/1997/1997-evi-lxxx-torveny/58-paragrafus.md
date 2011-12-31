@@ -14,9 +14,9 @@ e) a 23. § szerinti elszámolás feltételeit, valamint a 18. § (3) bekezdés�
 
 f) a 46. § (1) bekezdése szerinti nyilvántartás részletes szabályait;
 
-g) a magán-nyugdíjpénztári tagdíjbevallás és a tagdíj önellenőrzés, valamint az elektronikus adatfogadás részletes szabályait,
+g)
 
-h) a magánnyugdíjpénztári tagdíjjal összefüggésben felszámított bírság és pótlék elszámolására vonatkozó részletes szabályokat,
+h)
 
 i) a szabad mozgás és tartózkodás jogával rendelkező személy biztosítási jogviszonyával, járulékfizetésével, valamint adatszolgáltatásával összefüggő rendelkezéseket,
 
