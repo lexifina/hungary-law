@@ -1,3 +1,0 @@
-3. § (1) Az étkeztetés biztosításának időszaka egyes rászoruló gyermekek tekintetében – a rászoruló gyermek más településen történő táborozása vagy más okból való akadályoztatása esetén – a 2. § (1) bekezdésében meghatározott időszaknál rövidebb is lehet.
-
-(2) Kivételes esetben, ha a települési önkormányzat a melegétkeztetést – helyben működő melegkonyha, nyári tábor hiányában vagy más okból – nem tudja megszervezni, a támogatás – a rászoruló gyermek korának és szükségleteinek megfelelő – felmelegíthető készétel biztosítására is fordítható. A felmelegíthető készételt legfeljebb egy hétre előre lehet kiszállítani. A felmelegíthető készétel felhasználását a gyermekjóléti szolgálat szükség szerint ellenőrzi.
