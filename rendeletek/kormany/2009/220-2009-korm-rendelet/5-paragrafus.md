@@ -18,16 +18,28 @@ f) a kedvezményezett hozzájárulása ahhoz, hogy a működési előleg iránti
 
 g) a kiállítás dátuma és a kedvezményezett cégszerű aláírása.
 
-(3)[^1] A működési előleg iránti kérelemről az MVH dönt, és egy összegben folyósítja a működési előleget a döntés jogerőre emelkedésétől számított harminc napon belül.
+(3)[^2] A működési előleg iránti kérelemről az MVH dönt, és egy összegben folyósítja a működési előleget a döntés jogerőre emelkedésétől számított harminc napon belül.
 
 (4) A működési előleg igénylésének díja (a továbbiakban: előlegigénylési díj) a működési előleg összegének 2,8%-a, amelyet a megállapított működési előlegből az MVH a működési előleg megállapítását követően számít ki, és a működési előleg folyósítását megelőzően egy részletben von le a megállapított működési előlegből. Az előlegigénylési díj az MVH-t illeti meg.
 
-(5)[^2] A kedvezményezett legkésőbb 2011. december 31-ig köteles a működési előleggel elszámolni. Az elszámolás a működési előleg fizetésének alapjául szolgáló támogatási jogcímmel kapcsolatos kifizetési kérelem MVH részére történő benyújtásával történik.
+(5)[^3] A kedvezményezett legkésőbb 2012. június 30-ig köteles a működési előleggel elszámolni. Az elszámolás
 
-(6)[^3] Az MVH minden olyan kifizetési kérelem alapján a LEADER működési forrás terhére jóváhagyható támogatás összegét csökkenti – a kifizetési kérelemre vonatkozó formanyomtatványon meghatározott adott támogatási jogcímen kifizetett működési előleg összegének a kedvezményezett által meghatározott esetben és mértékében –, amelyet 2011. december 31-ig nyújtottak be.
+a) a működési előleg fizetésének alapjául szolgáló támogatási jogcímmel kapcsolatos kifizetési kérelem MVH részére történő benyújtásával a (6) bekezdésben meghatározott pénzügyi terv alapján vagy
+
+b) a fennmaradó összeg tekintetében az MVH által közleményben közzétett pénzforgalmi számlára történő banki átutalással
+
+történik.
+
+(5a)[^4] Az a nonprofit gazdasági társaság formában működő kedvezményezett, amelynek a LEADER helyi akciócsoport címe 2012. április 30-ig visszavonásra kerül, legkésőbb 2012. április 30-ig köteles – a működési előleg fizetésének alapjául szolgáló támogatási jogcímmel kapcsolatos kifizetési kérelem MVH részére történő benyújtásával, vagy a fennmaradó összeg tekintetében az MVH által közleményben közzétett pénzforgalmi számlára történő banki átutalással – a működési előleggel elszámolni.
+
+(6)[^5] Az MVH jogosult minden olyan kifizetési kérelem alapján a kedvezményezett rendelkezésére álló működési forrás terhére jóváhagyható támogatás összegét csökkenteni, amelyet a kedvezményezett 2012. január 31-ig benyújt, a kedvezményezett által a pénzügyi tervben meghatározott előleg elszámolás ütemének megfelelően.
+
+(6a)[^6] A kedvezményezett – a nonprofit gazdasági társasági formában működő LEADER helyi akciócsoportok kivételével – pénzügyi tervet köteles készíteni, amelyben feltünteti a működési előleg elszámolására vonatkozó ütemezést, és vállalja, hogy a még el nem számolt előleg 2012. június 30-ig elszámolásra kerül. A pénzügyi tervet az MVH felé kell benyújtani 2012. január 31-ig. A pénzügyi tervben szereplő működési előleg elszámolás ütemezésétől eltérni csak abban az esetben lehet, ha a kedvezményezett az egyes kifizetési kérelmekben a pénzügyi tervben az adott időszakra megjelölt összegnél magasabb összegű működési előleg elszámolását kéri.
 
 (7) Ha a kedvezményezett a működési előleggel az (5) bekezdésben meghatározott határnapig nem vagy csak részben számol el, a kifizetett, de el nem számolt működési előleg jogosulatlanul igénybe vett támogatásnak minősül, amely a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 59. § (3) bekezdése alapján adók módjára behajtandó köztartozásnak minősül.
 
-[^1]: Az 5. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (127) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^2]: Az 5. § (5) bekezdése a 294/2010. (XII. 22.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^3]: Az 5. § (6) bekezdése a 294/2010. (XII. 22.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 5. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (127) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^3]: Az 5. § (5) bekezdése a 379/2011. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 5. § (5a) bekezdését a 379/2011. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^5]: Az 5. § (6) bekezdése a 379/2011. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^6]: Az 5. § (6a) bekezdését a 379/2011. (XII. 31.) Korm. rendelet 4. §-a iktatta be.
