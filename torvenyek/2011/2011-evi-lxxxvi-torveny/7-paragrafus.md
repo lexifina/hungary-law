@@ -44,7 +44,7 @@ b) a bírósági nyilvántartásba vételéről szóló végzés jogerőre emelk
 
 9. § (1) A nyilvántartásba vétel és a minősítés alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviselője – jogszabályban meghatározott módon – köteles bejelenteni az előadó-művészeti államigazgatási szervnek a változástól vagy annak ismertté válásától számított tizenöt napon belül.
 
-(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén az előadó-művészeti államigazgatási szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki. Az így beszedett bírság a központi költségvetés bevétele, amelyet az előadó-művészeti szervezetek támogatására kell fordítani.
+(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén az előadó-művészeti államigazgatási szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki.
 
 10. § A nyilvántartásból törölni kell az előadó-művészeti szervezetet, ha
 
@@ -128,4 +128,4 @@ k) az előadó-művészeti közszolgáltatás megkezdésének időpontját és a
 
 14. § (1) A nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek esetében – a 13. § (2) bekezdésben foglaltakon túl – a közszolgáltatási szerződés tartalmazza a 17. § (4) bekezdés f) pontja szerinti szolgáltatásokra vonatkozó rendelkezéseket is.
 
-(2) A 13. § (2) bekezdés a)–d) és f)–j) pontjait megfelelően alkalmazni kell a 19. § (1) bekezdése, a 20. § (3) bekezdése és a 21. § (1) bekezdése szerinti támogatásokról szóló támogatási szerződések megkötése során.”
+(2) A 19. § (1) bekezdése, 20. § (3) bekezdése és 21. § (1) bekezdése szerinti pályázat keretében megkötött támogatási szerződés tartalmazza a közszolgálati szerződés 13. § (2) bekezdés a)–d) és f)–j) pontja szerinti rendelkezéseket is.”

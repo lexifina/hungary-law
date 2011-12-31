@@ -32,6 +32,4 @@ nyújt.
 
 (4) A fenntartói megállapodásban költségnemenként fel kell tüntetni a feladatteljesítéshez rendelt forrást [3. § (6) bekezdés], több forrás esetén azok egymáshoz viszonyított arányát.
 
-(5) A fenntartó köteles az általa fenntartott és nyilvántartásba vett előadó-művészeti szervezet tevékenységével összefüggő, (2) bekezdés szerinti adatokat jogszabályban meghatározott módon az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani az előadó-művészeti államigazgatási szerv részére.
-
-(6) Támogatásra jogosult több előadó-művészeti szervezet fenntartója a művészeti támogatásnak az érintett előadó-művészeti szervezetek közötti felosztásáról – a 17. § (1) bekezdésében, valamint az egyes előadó-művészeti szervezetekkel kötött fenntartói megállapodásban foglaltak figyelembevételével – maga határoz.”
+(5) A fenntartó köteles az általa fenntartott és nyilvántartásba vett előadó-művészeti szervezet tevékenységével összefüggő, (2) bekezdés szerinti adatokat jogszabályban meghatározott módon az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani az előadó-művészeti államigazgatási szerv részére.”
