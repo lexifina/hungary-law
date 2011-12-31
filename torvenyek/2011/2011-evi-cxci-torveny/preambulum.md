@@ -1,0 +1,1 @@
+Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Országgyűlés a megváltozott munkaképességű személyek megmaradt, fejleszthető képességeire épülő foglalkoztatás központú rehabilitációjának, társadalmi reintegrációjának, foglalkoztatásának elősegítésére, továbbá a kieső jövedelem miatti keresetpótlás érdekében a következő törvényt alkotja:

@@ -1,0 +1,1 @@
+36. § A 2011. december 31-én mezőgazdasági szövetkezeti tag munkaképtelenségi, növelt összegű munkaképtelenségi járadékában, munkaképtelenség címén megállapított özvegyi, növelt összegű özvegyi járadékban, a Magyar Alkotóművészeti Közalapítvány által megállapított rendszeres rokkantsági segélyben részesülő személy a továbbiakban is jogosult az ellátásra.

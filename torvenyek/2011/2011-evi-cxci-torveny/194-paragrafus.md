@@ -1,0 +1,5 @@
+## 52. Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény módosítása
+
+194. § Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény (a továbbiakban ÁPBtv.) 17. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ÁPB-ben megkötött kollektív szerződésnek a munkaviszonyból származó jogokat és kötelezettségeket, ezek gyakorlásának, illetve teljesítésének módját, az ezzel kapcsolatos eljárás rendjét érintő szabályainak hatályát – az ÁPB két oldala együttes kérelmének megfelelően a Nemzeti Gazdasági és Társadalmi Tanácsról szóló 2011. évi XCIII. törvény szerinti országos munkáltatói és munkavállalói érdekképviseletek, illetve érdek-képviseleti szövetségek képviselői, valamint az illetékes ágazati miniszter véleményének kikérése után – a miniszter az ágazatba főtevékenység alapján besorolt munkáltatókra kiterjesztheti. Ha a kollektív szerződést nem az ÁPB-ben kötötték, a kiterjesztésre – a szerződést kötő szervezetek együttes kérelme esetén – e törvény szabályainak megfelelő alkalmazásával kerülhet sor.”

@@ -1,0 +1,3 @@
+## 50. A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi C. törvény módosítása
+
+190. § A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi C. törvény 37. § (1) bekezdésének az Szt. 4. § (1) bekezdés m) pont mb) alpontját, valamint 37. § (2) bekezdésének a Gyvt. 5. § s) pont sb) alpontját módosító rendelkezése az „egyházi jogi személy” szövegrész helyett az „egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó)” szöveggel lép hatályba.

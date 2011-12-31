@@ -1,0 +1,3 @@
+200. § A Jöt. a következő új 128/A. §-sal egészül ki:
+
+„128/A. § A 2012. május 1-jét megelőzően gyártott és az adójegy-felhasználó által átvett, a sorszámot vonalkód formájában – a 99. § (3) bekezdés d) pontjától eltérően – nem tartalmazó adójegy – figyelemmel a 98/A. § (1) bekezdésében foglaltakra – 2012. június 30-ig felhasználható.”

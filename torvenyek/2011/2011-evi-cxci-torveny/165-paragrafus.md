@@ -1,0 +1,1 @@
+165. § A Cst. 27. § (1) bekezdés a) pont ab) alpontjában az „az átmeneti járadékot, a rendszeres szociális járadékot és a bányász dolgozók egészségkárosodási járadékát” szövegrész helyébe a „rokkantsági ellátást, a bányászok egészségkárosodási járadékát” szöveg lép.
