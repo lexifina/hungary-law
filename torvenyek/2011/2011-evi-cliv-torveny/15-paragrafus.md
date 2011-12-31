@@ -10,7 +10,7 @@ c) a megyei önkormányzatoktól átvett intézményekhez kapcsolódó irányít
 
 d) a fővárosi, megyei önkormányzatoktól átvett egészségügyi intézmények felett az egészségügyért felelős miniszter által kijelölt egészségügyi államigazgatási szerv által gyakorolt feladat- és hatásköröket, az általa gyakorolt jogokat és kötelezettségeket,
 
-e) a megyei önkormányzatok nem egészségügyi intézményeinek átadás-átvételéről szóló megállapodás megkötésének és tartalmának részletszabályait,
+e) az intézmények átadás-átvételéről szóló megállapodás megkötésének szabályait, valamint a megállapodás tartalmi kellékeit
 
 f) az egyes költségvetési szervek fenntartói feladatait ellátó szervek kijelölését,
 
