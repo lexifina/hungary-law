@@ -64,7 +64,7 @@
 
 ## 3.5. csatolni kell a 2.7. pont szerinti iratokat, ha az időszakos férőhelyeket nem a szociális intézmény épületében alakítják ki, vagy a működési engedély módosítása esetén a szakhatóságok bevonása a 7. § (5) bekezdése alapján szükséges.
 
-## 4.[^51]
+## 4.[^52]
 
 ## Kiegészítő szabályok:
 
@@ -74,4 +74,4 @@
 
 3. számú melléklet a 321/2009. (XII. 29.) Korm. rendelethez
 
-[^51]: A 2. számú melléklet 4. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^52]: A 2. számú melléklet 4. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.
