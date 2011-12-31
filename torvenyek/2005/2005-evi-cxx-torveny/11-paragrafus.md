@@ -2,9 +2,9 @@
 
 11. § (1) Az állami adóhatóság a magánszemélyt terhelő 11,1 százalékos mértékkel levont ekho megfizetett összegéből 85,6 százalékot személyi jövedelemadóként tart nyilván, 14,4 százalékot természetbeni egészségbiztosítási járulékként az Egészségbiztosítási Alapnak utal át. Az EGT-államban biztosított személyt terhelő 9,5 százalékos mértékkel levont ekhot személyi jövedelemadóként tartja nyilván. A magánszemélyt terhelő 15 százalékos mértékkel levont ekho megfizetett összegéből az állami adóhatóság
 
-a) 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át,
+a) 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át.
 
-b) a magánszemély magánnyugdíjpénztári tagsága esetén 63,3 százalékot személyi jövedelemadóként tart nyilván, 10,7 százalékot az Egészségbiztosítási Alapnak, 0,7 százalékot a Nyugdíjbiztosítási Alapnak, 25,3 százalékot a magánszemély magánnyugdíjpénztárának utal át.
+b)
 
 (2) Az állami adóhatóság a kifizetőt terhelő, megfizetett ekho összegéből
 
