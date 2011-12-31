@@ -1,1 +1,0 @@
-327. § Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvény 1. § (2) bekezdésében az „eskü vagy fogadalom tételéről” szövegrész helyébe az „eskütételről” szöveg lép.

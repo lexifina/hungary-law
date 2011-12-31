@@ -1,1 +1,0 @@
-101. § Hatályát veszti a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 40. § (4) bekezdésében az „az ország társadalmi-gazdasági tervének [Alkotmány 19. § (3) bek. c) pont] meghatározása,” szövegrész.

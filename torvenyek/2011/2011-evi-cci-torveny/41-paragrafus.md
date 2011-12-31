@@ -1,3 +1,3 @@
 ## 27. A Magyar Köztársaság területén ideiglenesen tartózkodott szovjet csapatok, illetőleg azok állományába tartozó személyek által okozott károk megtérítése iránti igények bírósági úton történő érvényesítéséről szóló 1991. évi XXX. törvény módosítása
 
-41. § A Magyar Köztársaság területén ideiglenesen tartózkodott szovjet csapatok, illetőleg azok állományába tartozó személyek által okozott károk megtérítése iránti igények bírósági úton történő érvényesítéséről szóló 1991. évi XXX. törvény 3. §-ában a „megyei bíróság” szövegrész helyébe a „törvényszék” szöveg, a „Fővárosi Bíróság” szövegrész helyébe a „Fővárosi Törvényszék” szöveg lép.
+41. §

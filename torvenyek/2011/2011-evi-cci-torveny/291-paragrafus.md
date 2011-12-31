@@ -1,1 +1,0 @@
-291. § Hatályát veszti a szövetkezetekről szóló 2006. évi X. törvény preambulumában a „– kiindulva az Alkotmány 12. §-ából, amely szerint az állam támogatja az önkéntes társuláson alapuló szövetkezeteket, –” szövegrész.
