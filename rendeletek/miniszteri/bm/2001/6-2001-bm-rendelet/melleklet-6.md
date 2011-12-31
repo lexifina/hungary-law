@@ -8,4 +8,4 @@
 
 6. számú melléklet a 6/2001. (IV. 13.) BM rendelethez[^14]
 
-[^14]: A 6. számú mellékletet a 32/2011. (IX. 29.) BM rendelet 6. § (1) bekezdése iktatta be.
+[^14]: A 6. számú mellékletet a 32/2011. (IX. 29.) BM rendelet 6. § (1) bekezdése iktatta be, utóbb a 12. § hatályon kívül helyezte.
