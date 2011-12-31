@@ -1,0 +1,9 @@
+## 8. § Az átvett intézmények 2012. évi kincstári és intézményi költségvetésének előkészítésével kapcsolatos feladatokat a GYEMSZI látja el.
+
+9. § (1) A 2011. évben az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) 176. § (5) bekezdésében meghatározott kincstári számlával rendelkező Fővárosi Önkormányzati, valamint Esztergom Város Önkormányzata fenntartású költségvetési szervek pénzforgalmi számláit a Kincstár az évzárás-évnyitás keretében – intézményi technikai számla közbeiktatásával – előirányzat-felhasználási keretszámlává, illetve egyéb, funkciójának megfelelő kincstári körbe tartozó számlává minősíti. 2012. január 2-án a 2011. évi számla záró egyenlegek az átvett költségvetési szervek kincstári körbe tartozó számláin automatikusan jóváírásra kerülnek átvett maradványként. A technikai számlákat a Kincstár hivatalból december hónapban megnyitja, az átvezetést követően január hónapban megszünteti. A számlák felett a Kincstár központilag rendelkezik.
+
+(2) A Kincstár a központi illetmény-számfejtési rendszerbe tartozó, 2012. január 1-jével központi költségvetési szervvé átalakuló költségvetési szervek esetében az Ámr. 180. § (3) bekezdésében szabályozott támogatási előirányzat-csökkentést 2012. évben a február havi támogatási keret megállapításakor érvényesíti.
+
+(3) A központi költségvetési körbe átvett, központi illetmény-számfejtési rendszerbe tartozó költségvetési szervek tekintetében az Ámr. 180. § (8) bekezdésében előírt adatszolgáltatási kötelezettséget először 2012. február hónapban kell teljesíteni.
+
+(4) A kincstári körbe átvett költségvetési szerv 2012. évben a Kincstáron kívül vezetett számláiról kifizetést nem teljesíthet, a teljesítést megelőzően a likvid fedezetet a Kincstárnál vezetett számlájára át kell utalnia.

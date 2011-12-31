@@ -1,0 +1,5 @@
+10. § (1) A megyei önkormányzatok konszolidációjával, valamint a Fővárosi Önkormányzattól és Esztergom Város Önkormányzatától átvett egészségügyi intézményekkel összefüggésben az önkormányzati körből kikerülő, 2011. december hónapban központosított illetmény-számfejtési körbe tartozó intézmények esetében a december havi személyi juttatásokat és egyéb kifizetéseket terhelő, az állami adóhatóság felé teljesítendő kötelezettségek átutalásáról 2012. január 20-án a Kincstár a Kincstár fővárosi, megyei igazgatóságának technikai adószámain intézkedik.
+
+(2) Az átutalás teljesítéséhez a fedezetet az önkormányzati körből kikerülő intézmények az önkormányzati nettófinanszírozással kapcsolatos lebonyolítási számlák javára, legkésőbb 2012. január 19-i értéknappal biztosítják az előirányzat-felhasználási keretszámlájuk terhére.
+
+(3) A (2) bekezdésben foglalt kötelezettség elmulasztása esetén a fedezetet 2012. január 20-án a Kincstár az önkormányzati nettófinanszírozással kapcsolatos lebonyolítási számlák javára az intézmények – előirányzat-felhasználási keretszámlájuk – terhére, felhatalmazó levél nélkül benyújtott beszedési megbízással szedi be.
