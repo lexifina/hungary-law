@@ -1,3 +1,3 @@
-## 9. §[^7]
+## 9. §[^8]
 
-[^7]: A 9. § a 22. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^8]: A 9. § a 22. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

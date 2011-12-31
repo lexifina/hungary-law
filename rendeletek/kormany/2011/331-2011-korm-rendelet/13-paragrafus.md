@@ -1,3 +1,3 @@
-## 12. §[^10]
+## 12. §[^11]
 
-[^10]: A 12. § a 22. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^11]: A 12. § a 22. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

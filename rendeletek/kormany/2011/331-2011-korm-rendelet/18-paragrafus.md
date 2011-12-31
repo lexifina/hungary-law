@@ -1,3 +1,3 @@
-## 17. §[^15]
+## 17. §[^16]
 
-[^15]: A 17. § a 22. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^16]: A 17. § a 22. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

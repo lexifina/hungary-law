@@ -1,1 +1,0 @@
-## 20. § A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet 13. § (2) bekezdés b) pontjában a „2011. december 31-éig” szövegrész helyébe a „2012. június 30-áig” szöveg lép.
