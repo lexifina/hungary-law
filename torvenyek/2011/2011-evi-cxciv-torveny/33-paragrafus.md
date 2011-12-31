@@ -1,1 +1,1 @@
-33. § Új fizetési kötelezettség megállapítása során figyelemmel kell lenni arra, hogy annak kivetésével, beszedésével, nyilvántartásával, ellenőrzésével összefüggő adminisztrációs költségek ne legyenek aránytalanul magasak a fizetési kötelezettségből származó bevétel összegéhez képest, illetve azokat nem haladhatják meg.
+33. §

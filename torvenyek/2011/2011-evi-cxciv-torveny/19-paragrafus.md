@@ -1,1 +1,1 @@
-19. § A Tanács elnökének nem nevezhető ki olyan személy, aki tagja az Országgyűlésnek, a Kormánynak, illetve állami vezető, bíró, ügyész, kormánytisztviselő vagy köztisztviselő, továbbá aki szolgálati jogviszonyban áll.
+19. §
