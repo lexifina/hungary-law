@@ -156,7 +156,7 @@
 
 a) az alternatív rendszerekre, vagy
 
-b)[^54] a fel nem javított ketrecrendszerekre, vagy
+b)[^54]
 
 c) a feljavított ketrecekre
 
@@ -206,7 +206,7 @@ A tojótyúkok alternatív rendszerben való tartásának minimális követelmé
 
 6.8. az állomány sűrűsége nem haladhatja meg a hasznosítható terület egy négyzetméterére számítva a kilenc tojótyúkot.
 
-7.[^59] Az olyan, 1999. augusztus 3. napja előtt használatba helyezett létesítmények esetében, amelyeknél a használt terület földes padozatú, az állomány sűrűsége egy négyzetméteren legfeljebb tizenkét tojótyúk lehet.
+7.[^59]
 
 8. Az 5. és a 6. pontban megállapított rendelkezéseken kívül,
 
@@ -228,23 +228,7 @@ b)[^60] összeadva legalább 2 méter nyílás álljon minden 1000 tyúk rendelk
 
 c) a kifutó olyan területű legyen, amely megfelel az állomány sűrűségének és a talaj jellegének, hogy bármilyen fertőződés megakadályozható legyen. Legyen felszerelve menedékhellyel a szélsőséges időjárás és a ragadozók ellen, valamint megfelelő itatóvályúkkal is.
 
-A tojótyúkok fel nem javított ketreces rendszerben való tartásának minimális követelményei
-
-9.[^61] A tojók tartásánál csak olyan fel nem javított ketreces rendszereket szabad alkalmazni, amelyek megfelelnek a következő előírásoknak:
-
-9.1. a tojók számára legalább 550 cm2 szabadon használható ketrec-alapterületet kell biztosítani, amelynek a meghatározásánál a méréseket vízszintesen kell elvégezni, a takarmányveszteség mérséklésére kialakított magas peremeket nem számítva, amennyiben azok a tojók mozgáslehetőségeit gátolják,
-
-9.2. a ketrec szabad belmagasságának – a ketrec területének legalább 65%-án- el kell érnie a 40 cm-t, de az sehol sem lehet 35 cm-nél kevesebb,
-
-9.3. a ketrec padozatát úgy kell kialakítani, hogy az állatok mindkét lábának mindegyik előrenéző karmát megfelelően megtámassza,
-
-9.4. a ketrecpadló lejtése legfeljebb 14%-os lehet; azoknál a padozatoknál, ahol nem négyszögletes dróthálót használnak, a kerületi főállatorvos engedélyezhet meredekebb lejtést,
-
-9.5. akadály nélkül használható etetővályúról kell gondoskodni,
-
-9.6. az egy tojóra eső etetőhossznak és a vályús itató hosszának egyaránt 10–10 cm-nek kell lennie, a szelepes vagy csészés itató esetén minden ketrecben legalább két itatóhelynek elérhetőnek kell lennie,
-
-9.7. a ketreceket megfelelő karomkoptató eszközökkel kell felszerelni.
+9.[^61]
 
 A tojótyúkok feljavított ketreces rendszerben való tartásának minimális követelményei
 
@@ -268,7 +252,7 @@ d) tyúkonként legalább 15 centiméteres hosszúságú megfelelő ülőrudat,
 
 10.5. a ketreceket megfelelő karomkoptató eszközökkel kell ellátni.
 
-A tojótyúkok fel nem javított és feljavított ketreces, valamint alternatív tartási rendszerekben való tartásának minimális követelményei[^62]
+A tojótyúkok feljavított ketreces, valamint alternatív tartási rendszerekben való tartásának minimális követelményei[^62]
 
 11.[^63] A tojótyúkoknál alkalmazott tartási rendszer csak akkor lehet két- vagy többszintes, ha megfelelő berendezésekkel vagy intézkedésekkel a tojók ellenőrzése minden szinten lehetséges, valamint azok eltávolítása nem okoz nehézséget.
 
@@ -300,15 +284,15 @@ A tojótyúkok fel nem javított és feljavított ketreces, valamint alternatív
 [^51]: A 2. számú melléklet 1.6. pontjának „újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében” szövegrészét a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése hatályon kívül helyezte 2012. december 31. napjával.
 [^52]: A 2. számú melléklet 1.10. pontjának „újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében” szövegrészét a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése hatályon kívül helyezte 2012. december 31. napjával.
 [^53]: A 3. számú melléklet a 20/2002. (III. 14.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^54]: A 3. számú melléklet 1. pont b) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte 2011. december 31. napjával.
+[^54]: A 3. számú melléklet 1. pont b) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte.
 [^55]: [A 3. számú melléklet 2.1. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdése iktatta be, a 11. § (2) bekezdés b) pontja alapján 2012. január 1-jétől hatályos szövege: „2.1. Ketreces tojótyúktartás során tilos fel nem javított ketrecet üzemben tartani.”.]
 [^56]: A 3. számú melléklet 3. pont c) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés b) pontja hatályon kívül helyezte.
 [^57]: A 3. számú melléklet 3. pont d) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés b) pontja hatályon kívül helyezte.
 [^58]: A 3. számú melléklet 6.3. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés e) pontja szerint módosított szöveg.
-[^59]: A 3. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte 2011. december 31. napjával.
+[^59]: A 3. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte.
 [^60]: A 3. számú melléklet 8.2. pont b) alpontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés f) pontja szerint módosított szöveg.
-[^61]: A 3. számú melléklet 9. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg. A 9. pontot és az azt megelőző alcímet e módosító rendelet 11. § (4) bekedése hatályon kívül helyezte 2011. decemeber 31. napjával.
-[^62]: A 3. számú melléklet 11. pontját megelőző alcím „fel nem javított és” szövegrészét a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte 2011. december 31. napjával.
+[^61]: A 3. számú melléklet 9. pontját és az azt megelőző alcímet a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekedése hatályon kívül helyezte.
+[^62]: A 3. számú melléklet 11. pontját megelőző alcím a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése szerint módosított szöveg.
 [^63]: A 3. számú melléklet 11. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^64]: A 3. számú melléklet 12. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés g) pontja szerint módosított szöveg.
 [^65]: A 3. számú melléklet 14. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
