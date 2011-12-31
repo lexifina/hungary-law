@@ -1,0 +1,1 @@
+246. § Hatályát veszti az Európai Parlament tagjainak választásáról szóló 2003. évi CXIII. törvény 11. §-át megelőző alcíme, 11–14. §-a, 16. §-a, 18–23. §-a, 24. §-át megelőző alcíme, 32–35. §-a, 43. § (4) és (5) bekezdése, 46–50. §-a és melléklete.

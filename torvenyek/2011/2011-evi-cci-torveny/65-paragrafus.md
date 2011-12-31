@@ -1,0 +1,1 @@
+65. § Hatályát veszti a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 5/B. §-a, 9. § (1) bekezdése és 12/E. § (1) bekezdésében a „ , s az – a tulajdonostársak nagy számánál vagy más körülménynél fogva – nem várható” szövegrész.

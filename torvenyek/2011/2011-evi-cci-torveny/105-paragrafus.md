@@ -1,0 +1,1 @@
+105. § Hatályát veszti a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 10. § (1) bekezdés b) pontjában a „ , valamint a Pénzügyi Szervezetek Állami Felügyelete” szövegrész.

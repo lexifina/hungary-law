@@ -1,0 +1,1 @@
+168. § A büntetőeljárásról szóló 1998. évi XIX. törvény 16. § (1) bekezdés e) pontjában a „népszavazás és a népi kezdeményezés rendje” szövegrész helyébe a „népszavazás, a népi kezdeményezés és az európai polgári kezdeményezés rendje” szöveg lép.
