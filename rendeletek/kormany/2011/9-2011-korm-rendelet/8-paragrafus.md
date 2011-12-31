@@ -34,9 +34,9 @@ o) az építésiengedély-köteles helyreállítások esetén az építési enge
 
 Támogatott által hitelesített másolatának becsatolásával köteles a Kincstár és a területileg illetékes fővárosi és megyei kormányhivatal felé – papír alapon és a 8. melléklet szerinti adatlapon elektronikus úton is az ebr42 rendszerben – elszámolni.
 
-(1a)[^3] Az (1) bekezdésben meghatározott határidő módosítására egy alkalommal, legfeljebb az elszámolási határidő 24 hónapra történő megváltoztatásával van lehetőség, amennyiben az önkormányzaton kívül álló szervezet tevékenysége vagy időjárási körülmények akadályozzák a határidő betartását. A kérelemhez csatolni kell a határidő módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdését, a helyreállítás befejezésének várható új időpontját, és részletezi az elszámolást akadályozó körülményeket.
+(1a)[^4] Az (1) bekezdésben meghatározott határidő módosítására egy alkalommal, legfeljebb az elszámolási határidő 24 hónapra történő megváltoztatásával van lehetőség, amennyiben az önkormányzaton kívül álló szervezet tevékenysége vagy időjárási körülmények akadályozzák a határidő betartását. A kérelemhez csatolni kell a határidő módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdését, a helyreállítás befejezésének várható új időpontját, és részletezi az elszámolást akadályozó körülményeket.
 
-(1b)[^4] Az (1a) bekezdés szerinti határidő-módosítási kérelmet az elszámolási határidőt megelőző 15. napig lehet benyújtani a Kincstár felé. Hiányosság észlelése esetén a Kincstár az önkormányzatot, többcélú kistérségi társulást hiánypótlásra szólítja fel. A hiány pótlásáról a felszólítás kézhezvételétől számított 7 napon belül gondoskodni kell. Amennyiben az önkormányzat a hiánypótlásnak a megadott határidőn belül nem tesz eleget, vagy nem megfelelően teljesíti azt, a Kincstár a kérelmet nem továbbítja, és erről tájékoztatja a minisztert és a kérelmet benyújtót. Az (1a) bekezdésnek megfelelt kérelmekről a minisztériumnak történő megküldését követően – a Kincstár javaslatának figyelembevételével – a miniszter dönt. A határidő-módosítási kérelem benyújtására rendelkezésre álló, valamint a hiánypótlási határidő elmulasztása jogvesztő.
+(1b)[^5] Az (1a) bekezdés szerinti határidő-módosítási kérelmet az elszámolási határidőt megelőző 15. napig lehet benyújtani a Kincstár felé. Hiányosság észlelése esetén a Kincstár az önkormányzatot, többcélú kistérségi társulást hiánypótlásra szólítja fel. A hiány pótlásáról a felszólítás kézhezvételétől számított 7 napon belül gondoskodni kell. Amennyiben az önkormányzat a hiánypótlásnak a megadott határidőn belül nem tesz eleget, vagy nem megfelelően teljesíti azt, a Kincstár a kérelmet nem továbbítja, és erről tájékoztatja a minisztert és a kérelmet benyújtót. Az (1a) bekezdésnek megfelelt kérelmekről a minisztériumnak történő megküldését követően – a Kincstár javaslatának figyelembevételével – a miniszter dönt. A határidő-módosítási kérelem benyújtására rendelkezésre álló, valamint a hiánypótlási határidő elmulasztása jogvesztő.
 
 (2) A területileg illetékes fővárosi és megyei kormányhivatal képviselője és a Katasztrófavédelmi Igazgatóság képviselője a helyreállítás során annak befejezéséig a támogatás felhasználását a helyszínen ellenőrizheti.
 
@@ -54,5 +54,5 @@ Támogatott által hitelesített másolatának becsatolásával köteles a Kincs
 
 (9) A visszafizetések és a lemondott támogatások a tárgyévi önkormányzati fejezeti tartalékot növelik.
 
-[^3]: A 8. § (1a) bekezdését a 210/2011. (X. 12.) Korm. rendelet 5. §-a iktatta be.
-[^4]: A 8. § (1b) bekezdését a 210/2011. (X. 12.) Korm. rendelet 5. §-a iktatta be.
+[^4]: A 8. § (1a) bekezdését a 210/2011. (X. 12.) Korm. rendelet 5. §-a iktatta be.
+[^5]: A 8. § (1b) bekezdését a 210/2011. (X. 12.) Korm. rendelet 5. §-a iktatta be.

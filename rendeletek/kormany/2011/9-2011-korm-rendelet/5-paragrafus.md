@@ -18,7 +18,7 @@ esetében felmerülő helyreállítási költségek támogatására vonatkozó v
 
 a) a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló kormányrendelet mellékletében szerepel, vagy
 
-b) 2009-ben és 2010-ben az önhibájukon kívül hátrányos helyzetben lévő helyi önkormányzatok támogatásában részesült, vagy
+b)[^2]
 
 c) teljesítőképességét a felmerült károk helyreállítása jelentősen meghaladja, feltéve, hogy a vis maior esemény rövid időszakon belül ismétlődő természeti vagy időjárási csapások következményeként alakult ki, és az adott térségben több települést is érintett.
 
@@ -53,3 +53,5 @@ e) a folyó jellegű működési kiadások.
 (12) Az önkormányzatnak a 8. § (1) bekezdése szerinti elszámolással egyidejűleg kell igazolnia a biztosítási szerződés megkötését a Kincstár felé. Ezt követően az önkormányzat köteles valamennyi szerződéssel kapcsolatos változásról tájékoztatni a Kincstárt. A Kincstár jogosult a szerződés meglétét évente ellenőrizni. Amennyiben nem történik biztosítási szerződéskötés, vagy a biztosítás négy éven belül az önkormányzat felmondása vagy a díj nem fizetése miatt megszűnik, akkor a támogatást vissza kell fizetni a költségvetés javára.
 
 (13) A (11) és (12) bekezdésben foglalt feltétel alól mentesül az önkormányzat, ha az adott kötelező önkormányzati feladatot ellátó épületre nem köthető biztosítás. Ezt a tényt az önkormányzat legalább három országos biztosítótársaság nyilatkozatával igazolja a Kincstár felé.
+
+[^2]: Az 5. § (2) bekezdés b) pontját a 11. § hatályon kívül helyezte.

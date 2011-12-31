@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^7]
 
 Igénylésazonosító:
 
@@ -148,7 +148,7 @@ A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcs
 
 | 20. | Az 5. § (2) bek. a) pontjának megfelel (igen/nem) |  |
 
-| 21. | Az 5. § (2) bek. b) pontjának megfelel (igen/nem) |  |
+| 21. |  |  |
 
 | 22. | Az 5. § (2) bek. c) pontjának megfelel (igen/nem) |  |
 
@@ -181,3 +181,5 @@ P. H.
 | .......................................... | ...................................................................... |
 
 | polgármester/elnök | jegyző/munkaszervezet vezető, |
+
+[^7]: Az 5. melléklet a 11. § szerint módosított szöveg.
