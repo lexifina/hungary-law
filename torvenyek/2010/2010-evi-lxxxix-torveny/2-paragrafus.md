@@ -1,1 +1,0 @@
-2. § A Gyftv. 13/A. § (1) bekezdésében, 19. § (1) és (2) bekezdésében, 20. § (1) bekezdésében, 20. § (2) bekezdés első mondatában, 20. § (3) bekezdés második mondatában és (5) bekezdésében, 20. § (8) bekezdés negyedik mondatában az „az egészségbiztosítási felügyeleti hatóság” szövegrész helyébe az „az egészségügyi államigazgatási szerv” szöveg lép.

@@ -1,1 +1,0 @@
-15. § Az Ebtv. 20. § (1) bekezdésében, 20/A. § (3) és (8) bekezdésében, 31. § (2) bekezdésében és 32. § (2) bekezdésében az „egészségbiztosítási felügyeleti hatóság” szövegrész helyébe az „egészségbiztosító” szöveg lép.
