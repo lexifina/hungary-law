@@ -1,3 +1,3 @@
 ## Bejelentési kötelezettség
 
-3–6. §
+### 3. §

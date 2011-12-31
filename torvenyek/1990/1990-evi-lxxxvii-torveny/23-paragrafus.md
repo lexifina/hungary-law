@@ -48,18 +48,6 @@ Villamosenergia ára
 
 gazdasági miniszter
 
-|
-
-1441−1−2
-
-|
-
-Az állami tulajdonú víziközműből más víziközműnek átadott ivóvíz díja
-
-|
-
-vízgazdálkodásért felelős miniszter
-
 B) Szolgáltatások
 
 |
@@ -167,54 +155,6 @@ Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támo
 |
 
 egészségügyért felelős miniszter
-
-|
-
-05511
-
-|
-
-Az önkormányzati tulajdonú víziközműből szolgáltatott ivóvíz díja
-
-|
-
-települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete
-
-|
-
-18111−1−2
-
-|
-
-Az önkormányzati tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja
-
-|
-
-települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete
-
-|
-
-05511
-
-|
-
-Az állami tulajdonú víziközműből szolgáltatott ivóvíz díja
-
-|
-
-vízgazdálkodásért felelős miniszter
-
-|
-
-18111−1−2
-
-|
-
-Az állami tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja
-
-|
-
-vízgazdálkodásért felelős miniszter
 
 |
 
