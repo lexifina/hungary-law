@@ -1,5 +1,3 @@
 ## 17. A nemzetiségi önkormányzatok, társulások, térségi fejlesztési tanácsok költségvetése
 
-26. § (1) A nemzetiségi önkormányzatra, a többcélú kistérségi társulásra, a jogi személyiségű társulásra, valamint az általuk irányított költségvetési szervekre a 23–25. § rendelkezéseit kell alkalmazni, azzal, hogy költségvetési rendeleten költségvetési határozatot kell érteni, a képviselő-testület hatáskörét a nemzetiségi önkormányzat képviselő-testülete, illetve a társulási tanács gyakorolja, a polgármester részére meghatározott feladatokat a nemzetiségi önkormányzat elnöke, illetve a társulási tanács elnöke, a jegyző részére meghatározott feladatokat – a helyi nemzetiségi önkormányzatok kivételével – az országos nemzetiségi önkormányzat hivatalvezetője, illetve a többcélú kistérségi társulás munkaszervezetének vezetője látja el.
-
-(2) A térségi fejlesztési tanácsra a 23–25. § rendelkezéseit kell alkalmazni, azzal, hogy költségvetési rendeleten költségvetési határozatot kell érteni, a képviselő-testület hatáskörét a térségi fejlesztési tanács tagjai gyakorolják, a polgármester részére meghatározott feladatokat a térségi fejlesztési tanács elnöke, a jegyző részére meghatározott feladatokat a térségi fejlesztési tanács munkaszervezetének vezetője látja el.
+### 26. §

@@ -1,11 +1,3 @@
 ## 19. A költségvetés elfogadását követő feladatok
 
-28. § (1) A fejezetet irányító szerv vezetője a fejezeti kezelésű előirányzatok kezelésével, felhasználásával kapcsolatos szabályokat – a Kormány rendeletében foglaltak figyelembevételével – a költségvetési év február 15-éig az államháztartásért felelős miniszterrel egyetértésben kiadott rendeletében szabályozza, a jogszabály kiadását nem igénylő rendelkezéseket az államháztartásért felelős miniszter egyetértésével belső szabályzatban állapítja meg. Jogalkotási jog hiányában a fejezetet irányító szerv vezetője – az államháztartásért felelős miniszter egyetértésével – szabályzatot ad ki.
-
-(2) A központi költségvetésről szóló törvény elfogadását követően a fejezetet irányító szerv az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kiemelt előirányzatait, valamint az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai 6. § (5) bekezdése és 73. § (1) bekezdés b) pont bf) alpontja szerinti bevételeit és kiadásait kincstári költségvetés kiadásával állapítja meg.
-
-(3) Az államháztartás központi alrendszerébe tartozó költségvetési szervek, a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok, a társadalombiztosítás pénzügyi alapjai kincstári költségvetésben, a helyi önkormányzatok, nemzetiségi önkormányzatok, többcélú kistérségi társulások, jogi személyiségű társulások, térségi fejlesztési tanácsok, valamint az általuk irányított költségvetési szervek költségvetési rendeletben, határozatban megállapított bevételei és kiadásai közgazdasági tartalom szerinti további részletezéséről elemi költségvetés készül.
-
-(4) Az államháztartás központi alrendszerébe tartozó költségvetési szerv, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai elemi költségvetését a fejezetet irányító szerv hagyja jóvá.
-
-(5) A helyi önkormányzat, a nemzetiségi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a térségi fejlesztési tanács, valamint az általuk irányított költségvetési szerv elemi költségvetését a polgármester, nemzetiségi önkormányzat elnöke, társulási tanács elnöke, térségi fejlesztési tanács elnöke hagyja jóvá.
+### 28. §

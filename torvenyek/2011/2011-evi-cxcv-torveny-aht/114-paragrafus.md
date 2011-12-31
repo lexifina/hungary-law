@@ -1,19 +1,7 @@
 ## 75. Hatályon kívül helyező rendelkezések
 
-114. § (1) Hatályát veszti a helyi önkormányzatokról szóló 1990. évi LXV. törvény 80. § (4) bekezdése.
-
-(2) Hatályát veszti az állami vagyonról szóló 2007. évi CVI. törvény 43. § (3) bekezdése, a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 32. §-a, a Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény 19. § (4) bekezdése, a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 18. § (4) bekezdése, az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 11. §-a, az államháztartásról szóló 1992. évi XXXVIII. törvény és az ahhoz kapcsolódó egyes törvényi rendelkezések módosításáról szóló 1995. évi CV. törvény 115. § (2) és (3) bekezdése, a társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény 11. § (1) bekezdése és (5) bekezdése, és az államháztartásról szóló 1992. évi XXXVIII. törvény.
-
-(3) Hatályát veszti a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. § 7. pontjában az „ , ideértve az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 13/A. § szerinti,” szövegrész, az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 123. § (2) bekezdés a) pontjában az „és a társadalombiztosítási költségvetési szervekre” szövegrész, a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény 23. § (6) bekezdésében az „ , illetve az Áht. VII/A fejezetében foglaltak” szövegrész, és a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 43. § (5) bekezdés c) pontjában az „– ideértve a társadalombiztosítási költségvetési szerveket is –” szövegrész.
+114. § (1)–(3)
 
 (4) Nem lép hatályba a közbeszerzésekről szóló 2011. évi CVIII. törvény 180. § (5) bekezdése.
 
 (5) Hatályát veszti a 88. § (2)–(4) bekezdése a 2011. évi zárszámadásról szóló törvényjavaslat elfogadásával.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
