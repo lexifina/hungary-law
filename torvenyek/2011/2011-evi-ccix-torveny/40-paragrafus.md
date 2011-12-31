@@ -1,1 +1,1 @@
-40. § Víziközmű-szolgáltatás engedély nélküli végzése esetében a Hivatal a tevékenység végzőjét azonnali hatállyal eltiltja a tevékenység folytatásától, továbbá a tevékenység végzőjével szemben a 38. § (1) bekezdés a)–b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
+### 40. §

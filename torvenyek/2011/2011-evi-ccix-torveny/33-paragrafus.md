@@ -1,1 +1,1 @@
-33. § Az ellátásért felelős – a Hivatal intézkedéseitől függetlenül – a közérdekű üzemeltető kijelölésétől számított 12 hónapon belül a víziközmű-szolgáltatás nyújtása érdekében gondoskodik – az e törvényben előírtak szerint – üzemeltetési szerződés megkötéséről.
+### 33. §

@@ -34,9 +34,9 @@
 
 ## (28) Az állami adóhatóság az adóbevallás módosításának benyújtására olyan adóbevallási nyomtatványt is rendszeresíthet, amelyben az adózó a nyomtatvány rendszeresítésének napjától kezdve köteles a (25)–(26) bekezdésben meghatározott adatokat vagy azok egy részét feltüntetni.
 
-## (29) A (24) bekezdésben meghatározott adóbevallás-módosításra az adózás rendjéről szóló törvénynek az önellenőrzésre irányadó rendelkezéseit a (21)–(28) bekezdésben foglalt eltérések figyelembe vételével kell alkalmazni.” ”
+## (29) A (24) bekezdésben meghatározott adóbevallás-módosításra az adózás rendjéről szóló törvénynek az önellenőrzésre irányadó rendelkezéseit a (21)–(28) bekezdésben foglalt eltérések figyelembe vételével kell alkalmazni.”
 
-## 28. Hatályon kívül helyező rendelkezések
+## 28. Hatályon kívül helyező rendelkezések”
 
 93. § (1) Hatályát veszti az Ártv. mellékletének „I. Legmagasabb ár” pont „A) Termékek” alpontjában foglalt táblázat 1441–1–2 (ITJ) termékszámú sora.
 
@@ -44,4 +44,4 @@
 
 (3) E törvény 58. §-ának hatálybalépésével egyidejűleg hatályát veszti a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Kormány rendelet 9. § (3) bekezdése.
 
-(4) Hatályát veszti a 76. § (2) bekezdése.
+(4)

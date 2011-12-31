@@ -1,1 +1,1 @@
-86. § Ha 2014. január 1-jén a víziközmű-szolgáltatást végző a víziközműben tulajdoni hányaddal rendelkezik, a víziközmű tulajdonjogának 79. § szerinti átruházásig a saját víziközmű eszközeire vonatkozó felújítási és pótlási tervet a víziközmű-szolgáltatást végző készíti és nyújtja be a Hivatalhoz. A felújítási és pótlási tervet az ellátásért felelős részére a Hivatal jóváhagyó határozatával együtt, a határozat kézhezvételétől számított 8 napon belül tájékoztatásul meg kell küldeni.
+### 86. §

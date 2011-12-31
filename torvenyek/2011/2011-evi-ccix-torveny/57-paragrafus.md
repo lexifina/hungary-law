@@ -1,3 +1,1 @@
-57. § (1) A felhasználó a víziközmű-szolgáltatóhoz intézett nyilatkozatával kezdeményezheti a víziközmű-szolgáltatás szüneteltetését, ha a felhasználási helyet átmenetileg nem használja. A víziközmű-szolgáltatás szüneteltetését – ha közműves ivóvízellátás, valamint szennyvízelvezetés és -tisztítás is fennáll a felhasználási helyen – a víziközmű-szolgáltatási ágazatokra együttesen is lehet kezdeményezni.
-
-(2) A vízközmű szolgáltató a víziközmű-szolgáltatás szüneteltetését és a víziközmű-szolgáltatás ismételt megindítását a nyilatkozatban megjelölt időpontban, de legkorábban annak érkeztetésétől számított tizenöt napon belül teljesíti.
+### 57. §

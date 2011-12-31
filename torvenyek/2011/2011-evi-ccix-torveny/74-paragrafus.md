@@ -10,56 +10,28 @@
 
 2. az elektronikus fogyasztásmérők felhasználóknál való felszerelésére, az okos mérés bevezetésére és a bevezetést előkészítő mintaprojektek megvalósítására vonatkozó szabályokat, ennek keretében a mintaprojektek révén meghatározandó és szolgáltatandó információk körét, az ezzel összefüggésben elvégzendő feladatokat, a mintaprojektmodell-választékot, a mérési és kommunikációs követelmények meghatározásához elvégzendő feladatokat, az adatkezelési, adatbiztonsági előírásokat, a mintaprojektek finanszírozását, időbeli ütemezését és értékelési kritériumait, valamint a mintaprojekt hatósági felügyeletével kapcsolatos feladatokat;
 
-3. az üzemeltetési szerződés megkötésére irányuló pályázat kiírásának feltételeit, a pályázati kiírás közzétételének szabályait és minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait;
+3–13.
 
-4. az üzemeltetési szerződések kötelező tartalmi elemeit, benyújtásuk formai követelményeit;
-
-5. a közérdekű üzemeltető kijelölésére, jogaira és kötelezettségeire vonatkozó részletes szabályokat, valamint a víziközmű-szolgáltatás biztosításához szükséges szerződésekre vonatkozó részletes rendelkezéseket;
-
-6. az engedélyezés és a hozzájárulás részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyes tevékenység folytatásának, valamint az engedély kiadásának, módosításának és visszavonásának feltételeit, továbbá a víziközmű-szolgáltató jogait és kötelezettségeit;
-
-7. a kiszabható bírság felső határát;
-
-8. a víziközmű-szolgáltató, az ellátásért felelős és a víziközmű-tulajdonos által a Hivatal részére teljesítendő adatok körét, az adatszolgáltatásra vonatkozó részletes szabályokat;
-
-9. a víziközmű-szolgáltató kötelezettségei teljesítésével kapcsolatos áruk és szolgáltatások körét, a beszerzésre, a kiválasztásra és a megbízásra vonatkozó feltételeket és eljárásokat;
-
-10. a víziközmű-szolgáltató és a felhasználó közötti jogviszony részletes szabályait, a közüzemi szerződés minimális tartalmi követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elkülönített vízhasználóra vonatkozó részletes szabályokat;
-
-11. az üzletszabályzat kötelező tartalmi elemeit, benyújtásának formai követelményeit, valamint a jóváhagyás szempontjait;
-
-12. a víziközmű-szolgáltatókról és az ellátási felelősökről vezetett közhiteles nyilvántartás szabályait;
-
-13. a számviteli szétválasztásra vonatkozó részletes szabályokat;
-
-14. a víziközmű-fejlesztési hozzájárulás meghatározásának alapelveit, szempontjait és a díjak elemeit;
+14.
 
 15. a víziközmű-szolgáltatás díjainak szerkezetét;
 
 16. a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árszerkezetét, valamint az átvett szennyvíz kezelési díjainak szerkezetét;
 
-17. a Hivatal eljárásában közreműködő szakhatóság kijelölését,
-
-18. a víziközmű-fejlesztési hozzájárulás alkalmazásának részletes szabályait
+17–18.
 
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben
 
-1. állapítsa meg a víziközművek vagyonértékelésének részletes szabályait;
-
-2. állapítsa meg a víziközmű-szolgáltatás díjképzése átláthatóságának biztosítása érdekében a víziközmű-szolgáltatók által közérdekből közzéteendő adatok – különösen a víziközmű-szolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját;
+1–2.
 
 3. állapítsa meg a víziközmű-szolgáltatás díjait és azok alkalmazásának kezdőidőpontját;
 
 4. állapítsa meg a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árait és azok alkalmazásának időpontját, valamint az átvett szennyvíz kezelési díjait és azok alkalmazásának kezdő időpontját;
 
-5. állapítsa meg – az adópolitikáért felelős miniszterrel egyetértésben – a Hivatal részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét és a díjak, valamint a díjak fizetésére vonatkozó szabályokat;
+5.
 
-6. szabályozza a víziközmű térképi nyilvántartás tartalmi és formai követelményeit;
+6–8.
 
-7. állapítsa meg a víziközmű térképi nyilvántartás adatainak szolgáltatására, az adatszolgáltatás díjának mértékére vonatkozó részletes szabályokat;
-
-8. szabályozza a gördülő fejlesztési terv részét képező felújítási és pótlási terv, valamint beruházási terv részletes tartalmi és formai követelményeit.
-
-(3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy rendeletben szabályozza a Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
+(3)
