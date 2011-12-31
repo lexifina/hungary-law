@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-258-20-
 | --- | --- | --- |
 | 2011-12-08 | 2011-258-20-22.1 | 258/2011. (XII. 7.) Korm. rendelet |
 | 2011-12-09 | 2011-258-20-22.2 | 2010: CXXX. törvény |
+| 2011-12-31 | 2011-258-20-22.3 | 372/2011. (XII. 31.) Korm. rendelet |

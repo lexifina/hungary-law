@@ -1,3 +1,3 @@
-20. §[^18]
+20. §[^19]
 
-[^18]: A 20. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^19]: A 20. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

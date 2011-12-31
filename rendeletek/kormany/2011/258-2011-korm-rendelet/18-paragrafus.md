@@ -1,3 +1,3 @@
-18. §[^16]
+18. §[^17]
 
-[^16]: A 18. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^17]: A 18. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-29. §[^24]
+29. §[^26]
 
-[^24]: A 29. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^26]: A 29. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

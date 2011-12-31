@@ -2,6 +2,6 @@
 
 ## 10. Módosító rendelkezések
 
-24. §[^19]
+24. §[^21]
 
-[^19]: A 24. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^21]: A 24. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
