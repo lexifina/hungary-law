@@ -1,3 +1,3 @@
-## 1–42. §[^1]
+43. §[^44]
 
-[^1]: Az 1–42. §-t és az azt megelőző alcímet a 48. § (1) bekezdése hatályon kívül helyezte.
+[^44]: Az 43. §-t és az azt megelőző alcímet a 48. § (1) bekezdése hatályon kívül helyezte.

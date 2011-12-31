@@ -1,3 +1,3 @@
-48. §[^4]
+48. §[^47]
 
-[^4]: A 48. § a (2) bekezdése alapján hatályát vesztette.
+[^47]: A 48. § a (2) bekezdése alapján hatályát vesztette.
