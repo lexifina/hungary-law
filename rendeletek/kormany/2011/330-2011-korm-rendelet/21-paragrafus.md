@@ -1,0 +1,3 @@
+## 20. § Az Szmr. a következő 22/D. §-sal egészül ki:
+
+## „22/D. § Az ideiglenes működési engedély hatálya a fenntartó kérelmére – kizárólag ellátási érdekből – legfeljebb 2014. december 31-éig meghosszabbítható. A fenntartó a kérelmet akkor is benyújthatja, ha az ideiglenes működési engedély hatálya 2012. január 1-jét megelőzően járt le. A fenntartó a kérelméhez csatolja a határozatlan idejű működési engedély kiadásához szükséges feltételek megteremtésére vonatkozó szakmai tervét vagy az európai uniós forrás (TIOP 3.4.2.-11/1.) felhasználására vonatkozó megkötött támogatási szerződés másolatát.”
