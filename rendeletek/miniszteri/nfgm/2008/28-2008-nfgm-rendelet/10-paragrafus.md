@@ -1,4 +1,4 @@
-## 9/A. §[^3] Az ITD Hungary Zrt. látja el megállapodás szerint a MAG Zrt. feladatkörébe utalt támogatásokkal kapcsolatos egyes ügyfélszolgálati feladatokat.
+## 9/A. §[^9] Az ITD Hungary Zrt. látja el megállapodás szerint a MAG Zrt. feladatkörébe utalt támogatásokkal kapcsolatos egyes ügyfélszolgálati feladatokat.
 
 ## Átmeneti és záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 „(7) A támogatási szerződésekhez kapcsolódó biztosíték megújítása vagy cseréje vonatkozásában a támogatási szerződés megkötésekor nyújtott biztosíték mértékével megegyező mértékű biztosítékot kell rendelkezésre bocsátania a kedvezményezettnek.”
 
-[^3]: A 9/A. §-t a 12/2009. (IV. 22.) NFGM rendelet 1. §-a iktatta be.
+[^9]: A 9/A. §-t a 12/2009. (IV. 22.) NFGM rendelet 1. §-a iktatta be.

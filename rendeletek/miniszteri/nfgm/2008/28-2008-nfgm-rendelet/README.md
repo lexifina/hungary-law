@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-28-20-2
 | --- | --- | --- |
 | 2009-04-25 | 2008-28-20-2K.2 | 28/2008. (XII. 31.) NFGM rendelet |
 | 2010-04-29 | 2008-28-20-2K.3 | 33/2011. (VIII. 31.) NGM rendelet |
+| 2011-12-31 | 2008-28-20-2K.4 | 96/2011. (XII. 30.) NFM rendelet |

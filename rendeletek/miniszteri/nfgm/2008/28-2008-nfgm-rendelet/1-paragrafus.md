@@ -2,7 +2,7 @@
 
 ## 1. § A rendelet hatálya a Nemzeti Fejlesztési és Gazdasági Minisztérium (a továbbiakban: Minisztérium) fejezetéhez tartozó
 
-a) Beruházás ösztönzési célelőirányzatra (a továbbiakban: BC),
+a)[^2]
 
 b) Nemzeti beruházás ösztönzési vállalkozási célelőirányzatra (a továbbiakban: NBC),
 
@@ -17,3 +17,5 @@ f) Magyar vállalkozások tőzsdei bevezetésének támogatása előirányzatra 
 g) Magyar találmányok külföldi bejelentése célelőirányzatra és
 
 h) Nemzetközi jelentőségű, kiemelt KFI programok támogatása előirányzatra
+
+[^2]: Az 1. § a) pontját a 96/2011. (XII. 30.) NFM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
