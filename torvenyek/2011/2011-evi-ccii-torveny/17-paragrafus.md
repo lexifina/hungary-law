@@ -1,0 +1,1 @@
+17. § A Magyar Érdemrend és Magyar Érdemkereszt a nemzet szolgálatában, az ország fejlődésének elősegítésében, a haza érdekeinek előmozdításában és az egyetemes emberi értékek gyarapításában végzett kimagasló, példamutató tevékenység elismerésére szolgál.

@@ -1,0 +1,1 @@
+3. § Az 1. §-ban megjelölt szerv, illetve személy által használt címeres körbélyegzőn a címer körül a szerv nevét, illetve a címert használó személy hivatalának (tisztségének) megnevezését fel kell tüntetni.
