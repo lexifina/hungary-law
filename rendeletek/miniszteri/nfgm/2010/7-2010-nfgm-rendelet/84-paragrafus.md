@@ -1,1 +1,0 @@
-## Felszámolási eljárás kezdeményezése

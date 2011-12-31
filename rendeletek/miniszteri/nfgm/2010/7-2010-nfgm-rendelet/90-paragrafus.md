@@ -1,5 +1,0 @@
-## Panaszkezelés
-
-90. § (1) Ha a pályázótól, kedvezményezettől panasz érkezik a döntés előkészítéssel, a szerződéskötéssel, a szerződésmódosítással, a támogatás folyósításával, az ellenőrzéssel, a projekt jogi lezárásával – ideértve a kifizetett támogatás részleges visszavonására vonatkozó döntést is –, továbbá a fizetési kötelezettség részletekben történő teljesítésével kapcsolatban, akkor a közreműködő szervezet – egyedi támogatás esetén a Minisztérium – a panaszt megvizsgálja és döntéséről a panasz beérkezésétől számított 15 napon belül értesíti a kedvezményezettet.
-
-(2) Pályázati úton, valamint támogatási program keretében nyújtott támogatás esetén, ha a kedvezményezett továbbra is fenntartja panaszát, az ismételt megkeresés beérkezését követő 5 munkanapon belül a közreműködő szervezet a megkeresést az iratok megküldésével és javaslatával együtt előterjeszti a Minisztérium részére, amely a megkeresésről az előterjesztéstől számított 15 napon belül dönt. A Minisztérium a döntéséről értesíti a kedvezményezettet és a közreműködő szervezetet.
