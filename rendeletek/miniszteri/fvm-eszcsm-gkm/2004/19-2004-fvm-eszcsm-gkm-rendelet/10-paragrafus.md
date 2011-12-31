@@ -26,7 +26,7 @@ b) három hónapnál tovább, de 18 hónapnál tovább nem tarthatók el, elegen
 
 c) 18 hónapnál tovább tarthatók el, elegendő az év jelölése.
 
-(6)[^17] A dátumjelölés sorrendjére a „minőségét megőrzi” szövegrész után zárójelben kell utalni. A dátumjelölés sorrendjére azonban nem kell utalni, ha a jelölés a fogyasztó számára egyértelmű, tehát ha a dátumot az év négy arab számjegyű feltüntetésével adják meg, illetve a hónappal és nappal történő megadás esetén a hónapot betűvel a teljes szó kiírásával vagy rövidített formában tüntetik fel.
+(6)[^17]
 
 (7) Az alábbi élelmiszerek esetén – amennyiben jogszabály másként nem rendelkezik – nem szükséges a minőségmegőrzési időt megjelölni:
 
@@ -53,6 +53,6 @@ j) rágógumi és hasonló rágnivaló termékek,
 k)[^19] egyedi adag jégkrémek.
 
 [^16]: A 10. § (4) bekezdése a 26/2010. (III. 19.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (7) bekezdése alapján a 19/2004. (II. 26.) FVM–ESZCSM–GKM együttes rendelet 2010. június 30-án hatályos szabályainak megfelelő jelöléssel előállított csomagoló anyagok 2011. december 31-ig felhasználhatóak.
-[^17]: A 10. § (6) bekezdése a 26/2010. (III. 19.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (7) bekezdése alapján a 19/2004. (II. 26.) FVM–ESZCSM–GKM együttes rendelet 2010. június 30-án hatályos szabályainak megfelelő jelöléssel előállított csomagoló anyagok 2011. december 31-ig felhasználhatóak. A 10. § (6) bekezdését a 26/2010. (III. 19.) FVM rendelet 5. § (6) bekezdése hatályon kívül helyezte 2011. december 31. napjával.
+[^17]: A 10. § (6) bekezdését a 26/2010. (III. 19.) FVM rendelet 5. § (6) bekezdése hatályon kívül helyezte.
 [^18]: A 10. § (7) bekezdésének e) pontja a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 3. §-ával megállapított szöveg.
 [^19]: A 10. § (7) bekezdésének k) pontja a 86/2007. (VIII. 17.) FVM–EüM–SZMM együttes rendelet 2. §-ával megállapított szöveg.
