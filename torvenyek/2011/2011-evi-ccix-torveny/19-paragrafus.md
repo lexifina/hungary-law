@@ -1,0 +1,1 @@
+19. § A víziközmű-szolgáltatáshoz kapcsolódó felelősségbiztosításról a víziközmű-szolgáltató gondoskodni köteles. Az üzemeltetési szerződésben a felek megállapodhatnak abban, hogy a víziközmű vagyonbiztosításáról is a víziközmű-szolgáltató gondoskodik.

@@ -1,0 +1,1 @@
+46. § A víziközmű-szolgáltató e törvényben meghatározott kötelezettségei teljesítésével kapcsolatos beszerzésre, kiválasztásra és megbízásra – ha jogszabály másként nem rendelkezik – az e törvény végrehajtására kiadott kormányrendeletben, valamint a Hivatal által jóváhagyott beszerzési szabályzatban meghatározott feltételeket és eljárásokat kell alkalmazni.

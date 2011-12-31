@@ -1,0 +1,1 @@
+24. § Ha a Kbt. szerint közbeszerzési eljárást kell lefolytatni, és törvény vagy állami tulajdon esetében rendelet kivételt nem tesz, akkor a vagyonkezelési szerződés megkötésére a közbeszerzési pályázatot az ellátásért felelősök közösen is kiírhatják.
