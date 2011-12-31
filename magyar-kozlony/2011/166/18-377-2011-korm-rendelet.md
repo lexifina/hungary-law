@@ -1,0 +1,280 @@
+# A Kormány 377/2011. (XII. 31.) Korm. rendelete
+
+Magyar Közlöny 2011. évi 166. szám, 2011. december 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e5e4c551063f2679db3409e0e9bed5d14c96945e/dokumentumok/0735f767501fbe8e77e7cb65a13ddc7cc92a869e/letoltes)
+
+---
+
+A Kormány 377/2011. (XII. 31.) Korm. rendelete
+a katasztrófa-egészségügyi ellátásról
+A Kormány az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés e) pontjában, valamint a katasztrófavédelemről és
+a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 80. § b) és h)–i) pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) E rendelet hatálya kiterjed a katasztrófa-egészségügyi ellátást nyújtó egészségügyi szolgáltatókra, az ellátásban
+e rendelet alapján közreműködő jogi személyekre és természetes személyekre, valamint a katasztrófa-egészségügyi
+ellátást igénybe vevőkre.
+(2) E rendelet rendelkezéseit
+a) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 228. § (2) bekezdésében foglalt esemény,
+illetve
+b) ha külön jogszabály másként nem rendelkezik, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények
+módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5. pontjában meghatározott katasztrófa
+bekövetkezése esetén kell alkalmazni.
+2. § (1) A megyei, fővárosi egészségügyi védelmi bizottság (a továbbiakban: megyei egészségügyi védelmi bizottság)
+illetékessége a megyére, illetve a fővárosra terjed ki.
+(2) A megyei egészségügyi védelmi bizottság elnöke a megyei egészségügyi védelmi bizottság illetékessége szerinti
+megyei vagy fővárosi kormányhivatal vezetője.
+(3) A megyei egészségügyi védelmi bizottság tagja
+a) a megyei, fővárosi tisztifőorvos,
+b) a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet térségi egészségszervezési
+központjának vezetője, és
+c) az országos tisztifőorvos által kijelölt személy.
+(4) A megyei egészségügyi védelmi bizottság állandó meghívottja tanácskozási joggal
+a) a megyei egészségügyi védelmi bizottság illetékességi területéhez tartozó gyógyintézet igazgatói,
+b) az Országos Egészségbiztosítási Pénztár által kijelölt személy, és
+c) az Országos Mentőszolgálat képviselője.
+(5) A megyei egészségügyi védelmi bizottság elnöke az ülésre tanácskozási joggal más személyeket is meghívhat.
+(6) A megyei egészségügyi védelmi bizottság testületi szerv.
+(7) A megyei egészségügyi védelmi bizottság döntéseit szavazattöbbséggel hozza, szavazategyenlőség esetén az elnök
+szavazata dönt.
+(8) A megyei egészségügyi védelmi bizottság üléseit az elnök hívja össze és vezeti. A megyei egészségügyi védelmi
+bizottságot szükség esetén, de legalább évente össze kell hívni. A megyei egészségügyi védelmi bizottság
+működésének részletes szabályait ügyrendje határozza meg.
+3. § (1) Az Eütv. 228. § (2) bekezdése szerinti esemény bekövetkezése esetén
+a) ha a megyei egészségügyi védelmi bizottság az eseményt egészségügyi válsághelyzetté minősíti, erről
+haladéktalanul tájékoztatja az országos tisztifőorvost, a közigazgatás-szervezésért felelős minisztert, az
+egészségügyért felelős minisztert és a megyei (fővárosi) védelmi bizottságot, valamint gondoskodik az
+egészségügyi válsághelyzetté minősítésnek a közszolgálati műsorszolgáltatók, illetve – lehetőség szerint –
+a körzeti, illetve helyi műsorszolgáltatók és legalább egy országos napilap (a továbbiakban együtt: média) általi,
+lehető legrövidebb időn belül történő közzétételéről;
+b) ha az országos tisztifőorvos javaslatára a közigazgatás-szervezésért felelős miniszter és az egészségügyért felelős
+miniszter közös előterjesztése alapján a Kormány az eseményt egészségügyi válsághelyzetté minősíti,
+haladéktalanul gondoskodik az egészségügyi válsághelyzetté minősítésnek a média általi, lehető legrövidebb
+időn belül történő közzétételéről.
+(2) A megyei egészségügyi védelmi bizottság elnöke vagy a Kormány az Eütv. 228. § (2) bekezdés b) pontja szerinti
+egészségügyi válsághelyzetté minősítés során annak megítélésénél, hogy a más gyógyintézet általi betegellátás
+aránytalan nehézséggel jár-e, az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 4/A. § (4) és
+
+(5) bekezdésében meghatározott elvi elérhetőség szabályait és a gyógyintézetben ellátott betegek érdekeit veszi
+figyelembe.
+(3) Ha a megyei egészségügyi védelmi bizottság elnöke az egészségügyi válsághelyzetet előidéző esemény
+bekövetkezését észleli, vagy erről az érintett egészségügyi szolgáltató vagy a területi szakellátási kötelezettséggel
+rendelkező szerv értesíti, ezt haladéktalanul köteles jelenteni a közigazgatás-szervezésért felelős miniszter, az
+egészségügyért felelős miniszter és az országos tisztifőorvos részére.
+(4) Az egészségügyi válsághelyzet által érintett terület kiterjedésének megítélésénél az egészségügyi válsághelyzetet
+előidéző esemény területi kiterjedésén túl a következmények felszámolásábabevont vagy előreláthatóan bevonandó
+egészségügyi szolgáltatók földrajzi elhelyezkedését is figyelembe kell venni.
+(5) Az egészségügyi válsághelyzet megszűnésekor a Kormány vagy a megyei egészségügyi védelmi bizottság dönt az
+egészségügyi válsághelyzetté minősítés visszavonásáról. Az egészségügyi válsághelyzetté minősítés visszavonására
+az (1) bekezdést megfelelően alkalmazni kell.
+4. § (1) A megyei egészségügyi védelmi bizottság az illetékességi területén az alapellátás körzethatárait, a járó-, illetve
+fekvőbeteg-szakellátáson belül a tevékenységek szakmai megoszlását, az ellátási terület határait, a betegbeutalás
+rendjét, továbbá a fekvőbeteg-gyógyintézetek ágyszámát egészségügyi válsághelyzet esetén átmenetileg
+módosíthatja, és erről az érintetteket a helyben szokásos módon, soron kívül tájékoztatja. A megyei egészségügyi
+védelmi bizottság irányítja a közegészségügyi és járványügyi feladatok egészségügyi válsághelyzet idején történő
+végrehajtását.
+(2) A Magyar Honvédség és a rendvédelmi szervekegészségügyi szolgálataia katasztrófavédelmitervüknekmegfelelően,
+szervezetikereteiketésirányításirendjüketmegtartvavesznekrésztakatasztrófa-egészségügyifeladatokellátásában.
+5. § (1) Az Eütv. 228. § (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet esetén a megyei egészségügyi védelmi
+bizottság vagy az országos tisztifőorvos javaslatára a közigazgatás-szervezésért felelős miniszter egyetértésével az
+egészségügyért felelős miniszter a katasztrófavédelmi tervben e célra kijelölt egészségügyi szolgáltatók részére
+határozatban elrendelheti szükséggyógyintézet telepítését. A telepítésre kerülő szükséggyógyintézet részére
+a megyei egészségügyi védelmi bizottság vagy az országos tisztifőorvos javaslatára a közigazgatás-szervezésért
+felelős miniszter egyetértésével az egészségügyért felelős miniszter átmeneti működési engedélyt ad ki.
+(2) A szükséggyógyintézetnek a működés megkezdéséhez és folytatásához
+a) az egészségügyi szolgáltatás gyakorlásához szükséges, külön jogszabályban meghatározott személyi, tárgyi és
+a szakmai környezeti követelménynek nem kell megfelelnie, e követelményeknek azonban lehetőség szerint
+eleget kell tennie,
+b) nem kell rendelkeznie felelősségbiztosítással.
+6. § (1) Az Eütv. 228. § (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén az egészségügyi válsághelyzettel
+érintett gyógyintézet átmeneti működtetését a gyógyintézet székhelye szerint illetékes
+a) megyei egészségügyi védelmi bizottság által az egészségügyi válsághelyzettel érintett gyógyintézet
+működtetésével megbízott személy,
+b) megyei egészségügyi védelmi bizottság által megbízott megyei népegészségügyi szakigazgatási szerv, vagy
+c) megyei egészségügyi védelmi bizottság által kötelezett, más egészségügyi szolgáltató
+biztosítja.
+(2) A megyei egészségügyi védelmi bizottság vagy az országos tisztifőorvos javaslatára a közigazgatás-szervezésért
+felelős miniszter egyetértésével az egészségügyért felelős miniszter az egészségügyi válsághelyzetté minősítő
+határozatában rendelkezik az egészségügyi válsághelyzettel érintett gyógyintézet átmeneti működtetésének
+(1) bekezdés szerinti formájáról. A határozat fellebbezésre tekintet nélkül végrehajtható. Az egészségügyi
+válsághelyzettel érintett gyógyintézet folyamatos működtetése érdekében meghozott közigazgatási hatósági
+intézkedések érintettje köteles az intézkedéseket tűrni és azok végrehajtásában közreműködni.
+(3) A megyei egészségügyi védelmi bizottság vagy az országos tisztifőorvos javaslatára a közigazgatás-szervezésért
+felelős miniszter egyetértésével az egészségügyért felelős miniszter az egészségügyi válsághelyzettel érintett
+gyógyintézet működési engedélyét az (1) bekezdés b) és c) pontja esetében visszavonja, és egyúttal a gyógyintézetet
+az (1) bekezdés b) és c) pontja szerint átmenetileg működtetőnek kiadja az átmeneti működési engedélyt. Az átmeneti
+működési engedély kiadására az 5. § (2) bekezdés a) pontját értelemszerűen alkalmazni kell.
+
+(4) Az egészségügyi válsághelyzettel érintett gyógyintézet finanszírozási szerződése a működési engedélye
+visszavonásávalmegszűnik.A (3) bekezdésszerintiátmeneti működési engedéllyelrendelkezőgyógyintézet átmeneti
+működtetője az Országos Egészségbiztosítási Pénztárral 24 órán belül finanszírozási szerződést köt. A finanszírozási
+szerződés megszűnése esetén a finanszírozási szerződés megszűnésével érintett szolgáltató által jelentett és részére a
+finanszírozó által el nem számolt teljesítmények után járó díjat a finanszírozó a gyógyintézetet átmenetileg
+működtető részére utalványozza. A kötelező egészségbiztosítás ellátásairól szóló törvényben foglaltakra tekintettel
+a gyógyintézetet átmenetileg működtető az utalványozott összeget és az általa elszámolt teljesítmények után kapott
+finanszírozási összeget elkülönített számlán kezeli, és azt kizárólag a gyógyintézet gyógyító-megelőző
+tevékenységére használhatja fel. Az (1) bekezdés c) pontja szerinti szolgáltató az általa átmenetileg működtetett
+gyógyintézetben elvégzett és jelentett teljesítménye után az átmeneti működtetési kötelezettség fennállásáig
+jogosultadíjazásra,ezateljesítménynemérintiaszolgáltatóáltalánosszabályokszerintfinanszírozottteljesítményét.
+(5) A gyógyintézet ingó és ingatlan vagyonával kapcsolatban a megyei egészségügyi védelmi bizottság a gyógyintézet
+további működtetése érdekében haladéktalanul dönt a közigazgatási hatósági eljárás szerinti biztosítási
+intézkedésről, illetve a végrehajtáshoz igénybe vehető eszközről.
+(6) A gyógyintézetet átmenetileg működtető köteles az igénybe vett ingó és ingatlan vagyontárgyak mennyiségét – ide
+nem értve a betegellátás érdekében felhasznált eszközöket és készítményeket – és állagát megóvni, és az
+egészségügyi válsághelyzet megszűnése után azokat a tulajdonosnak (fenntartónak) vagy a tulajdonos (fenntartó)
+rendelkezése szerint az egészségügyi válsághelyzet után a gyógyintézetet működtető egészségügyi szolgáltatónak
+átadni. Az igénybe vett ingó és ingatlan vagyontárgyakról az egészségügyi közszolgáltatásért felelős szerv, illetve az
+egészségügyi válsághelyzettel érintett jogi személy vagy jogi személyiséggel nem rendelkező társaság
+közreműködésével lehetőség szerint leltárt kell készíteni.
+(7) A gyógyintézetet az (1) bekezdés szerint átmenetileg működtető és a megyei egészségügyi védelmi bizottság köteles
+együttműködni az egészségügyi közszolgáltatásért felelős szervvel a betegellátás zavartalanságának mielőbbi
+biztosítása és az átmeneti működtetés mielőbbi megszüntetése érdekében.
+(8) Az egészségügyi válsághelyzetté minősítés nem érinti az egészségügyi válsághelyzettel érintett szolgáltató által
+foglalkoztatott, illetve az e szolgáltatónál az egészségügyi tevékenység végzésében egyéb jogviszony keretében
+közreműködő egészségügyi dolgozó egészségügyi tevékenység végzésére irányuló jogviszonyát. A gyógyintézet
+(1) bekezdés szerinti átmeneti működtetése esetén az egészségügyi dolgozó kirendelésére vonatkozó szabályokat az
+egészségügyi válsághelyzet idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
+(9) Az egészségügyi válsághelyzetté minősítés nem érinti az egészségügyi válsághelyzettel érintett szolgáltató által
+korábban kötött azon szerződéseket, amelyek az egészségügyi ellátás zavartalan és folyamatos biztosításához
+szükségesek, a szerződés szerinti teljesítés az egészségügyi válsághelyzet ideje alatt nem tagadható meg. Az
+egészségügyi válsághelyzet ideje alatt a gyógyintézet működéséhez szükséges közüzemi szolgáltatásokat biztosítani
+kell. Az átmeneti működtető a szerződések módosítására, megszüntetésére és új szerződések kötésére csak annyiban
+jogosult, amennyiben az a betegellátás folyamatos biztosításához elengedhetetlenül szükséges.
+(10) Az egészségügyi válsághelyzet visszavonásával megszűnik a gyógyintézetet az (1) bekezdés szerint átmenetileg
+működtető működtetési kötelezettsége. A megyei egészségügyi védelmi bizottság vagy az országos tisztifőorvos
+javaslatára a közigazgatás-szervezésért felelős miniszter egyetértésével az egészségügyért felelős miniszter az
+egészségügyi válsághelyzetté minősítés visszavonását követő 24 órán belül visszavonja az átmeneti működési
+engedélyt. Az átmeneti működési engedély visszavonásával megszűnik az átmeneti működtetőnek a gyógyintézetre
+vonatkozó finanszírozási szerződése. A gyógyintézetet átmenetileg működtető köteles elszámolást készíteni az
+átmeneti működéssel kapcsolatos finanszírozási díjakról, az általa kötött vagy módosított szerződésekről.
+7. § (1) Egészségügyi válsághelyzet esetén az Eütv. 229. § (3) bekezdése szerinti egészségügyi tevékenység végzése céljából
+történő kirendelés vonatkozhat
+a) meghatározott személyre,
+b) az egészségügyi szolgáltatónál meghatározott számú, továbbá meghatározott képzettséggel rendelkező
+egészségügyi dolgozóra, vagy
+c) az Eütv. 228. § (2) bekezdés b) pontjában meghatározott egészségügyi válsághelyzet esetén az egészségügyi
+válsághelyzettel érintett gyógyintézetben egészségügyi tevékenységet folytató egészségügyi dolgozókra.
+(2) Az (1) bekezdés a) és b) pontja szerinti célból nem rendelhető ki a
+a) terhes nő,
+b) 6 éven aluli gyermeket nevelő nő,
+
+c) 14 éven aluli gyermeket egyedül nevelő személy,
+d) 3 vagy ennél több 14 éven aluli gyermeket nevelő személy, valamint
+e) vele közös háztartásban élő, állandó ápolásra vagy gondozásra szoruló közeli hozzátartozóját egyedül ellátó
+személy.
+(3) A kirendelésről
+a) a megyei egészségügyi védelmi bizottság vagy
+b) az országos tisztifőorvos javaslatára a közigazgatás-szervezésért felelős miniszter egyetértésével az
+egészségügyért felelős miniszter
+határozattal dönt.
+(4) Sürgős esetben a kirendelés szóban is történhet, ebben az esetben a kirendelést a szóbeli közlést követő három napon
+belül írásba kell foglalni. A kirendelési határozat a jogorvoslatra tekintet nélkül azonnal végrehajtható.
+(5) Ha a kirendelésről az országos tisztifőorvos javaslatára a közigazgatás-szervezésért felelős miniszter egyetértésével az
+egészségügyért felelős miniszter dönt, határozatát közli a kirendelés helye szerint illetékes megyei egészségügyi
+védelmi bizottsággal.
+(6) Az egészségügyi szolgáltató vezetője az (1) bekezdés b) pontja szerinti kirendelést követően
+a) a kirendelésben meghatározott határidőn belül, de legkésőbb a közléstől számított 24 órán belül,
+b) az Eütv. 228. § (2) bekezdés b) pontjában meghatározott esetben haladéktalanul
+írásban kijelöli a kirendelésben foglalt követelményeknek megfelelő személyeket. A kijelölésre a (4) bekezdésben
+foglaltak értelemszerűen alkalmazhatók.
+(7) A kirendelt személynek a kirendelés helyére történő szállításáról szükség esetén a kirendelt személy lakóhelye, illetve
+tartózkodási helye szerint illetékes megyei egészségügyi védelmi bizottság gondoskodik.
+(8) Ha a kirendelt személy lakóhelye, illetve tartózkodási helye és a kirendelés helye közötti napi közlekedésre nincs
+lehetőség, illetve ez aránytalan nehézséggel járna, a kirendelt személy elhelyezéséről és ellátásáról szükség esetén
+a) fekvőbeteg-gyógyintézethez való kirendelés esetén a fekvőbeteg-gyógyintézet,
+b) háziorvosi, illetve járóbeteg-szakellátási feladatra történő kirendelés esetén a kirendelés helye szerinti
+önkormányzattal együttműködve a kirendelés helye szerint illetékes megyei egészségügyi védelmi bizottság
+gondoskodik.
+8. § (1) Egészségügyi válsághelyzet esetén a közép- vagy felsőfokú egészségügyi szakképzésben, főiskolai vagy egyetemi
+szintű egészségügyi alapképzésben, felsőoktatásban szociális alapképzésben, valamint az egészségügyi és szociális
+akkreditált iskolai rendszerű szakképzésben nappali tagozaton részt vevő személy katasztrófa-egészségügyi ellátási
+feladatokra beleegyezése esetén legfeljebb két hónap időtartamra igénybe vehető. Az igénybe vett személy ezen
+időtartam alatt az egyéb polgári védelmi kötelezettsége teljesítése alól mentesül.
+(2) Az (1) bekezdésben meghatározott személy
+a) által ellátandó feladatot és a feladatellátás helyét az egészségügyi válsághelyzet által érintett területen működő
+megyei egészségügyi védelmi bizottság jelöli ki;
+b) megfelelő helyre történő eljuttatásáról szükség esetén a lakóhelye, illetve tartózkodási helye szerint illetékes
+megyei egészségügyi védelmi bizottság gondoskodik;
+c) elhelyezéséről és ellátásáról a 7. § (8) bekezdésében meghatározottak szerint kell gondoskodni.
+(3) Az Eütv. 228. § (2) bekezdés b) pontjában meghatározott egészségügyi válsághelyzet esetén az érintett megyei
+egészségügyi védelmi bizottság a megyei (fővárosi) védelmi bizottságnál szükség szerint kezdeményezi a polgári
+védelmi szervezetek alkalmazását.
+9. § (1) A katasztrófa-egészségügyi ellátásra történő felkészülés érdekében az országos tisztifőorvos javaslatára
+a közigazgatás-szervezésért felelős miniszter egyetértésével az egészségügyért felelős miniszter elrendelheti a
+megyei egészségügyivédelmibizottságáltalkijelöltegészségügyiszolgáltatóvagy egyéb,akatasztrófa-egészségügyi
+feladatokra igénybe vehető szervezetek részére tervezési, felkészülési feladatok végrehajtását.
+(2) A katasztrófa-egészségügyi ellátásra történő felkészülés keretében
+a) az országos tisztifőorvos javaslatára a közigazgatás-szervezésért felelős miniszter egyetértésével az
+egészségügyért felelős miniszter közvetlenül vagy a megyei egészségügyi védelmi bizottság útján elrendelheti,
+ebben az esetben szervezi és irányítja az országos katasztrófa-egészségügyi gyakorlat végrehajtását;
+b) a megyei egészségügyi védelmi bizottság a közigazgatás-szervezésért felelős miniszter és az egészségügyért
+felelős miniszter előzetes jóváhagyásával – a megyei (fővárosi) védelmi bizottsággal egyeztetve – önállóan vagy
+
+a védelemben részt vevő területi szervezetekkel együttműködve helyi katasztrófa-egészségügyi gyakorlatot,
+továbbá az egészségügyi válsághelyzet idejére vonatkozó szakmai előírások elsajátítására
+katasztrófa-egészségügyi kiképzést rendelhet el.
+(3) A gyakorlatra, illetve kiképzésre a megyei egészségügyi védelmi bizottság által – a 7. § (2) bekezdésében
+meghatározott személy kivételével – az Eütv. 229. § (3) bekezdése alapján kirendelhető egészségügyi dolgozó, illetve
+a polgári védelmi kötelezettség keretében igénybe veendő személy jelölhető ki.
+(4) Az érintett személyeket, illetve egészségügyi szolgáltatókat a gyakorlat, illetve a kiképzés helyéről és időtartamáról
+a gyakorlat, illetve kiképzés előtt legalább 30 nappal értesíteni kell.
+(5) A gyakorlatot, illetve kiképzést elrendelő a részvétel alól az egészségügyi dolgozót kérelmére indokolt esetben
+felmentheti.A felmentésirántikérelmetlegalábbagyakorlat,illetvekiképzésmegkezdésétmegelőzőharmadiknapig,
+rendkívül indokolt esetben a gyakorlat, illetve kiképzés megkezdéséig kell benyújtani.
+(6) Az országos intézetek, az orvostudományi egyetemek, valamint az egészségügyi szak- és főiskolák a megyei
+népegészségügyi szakigazgatási szervek felkérésére a (2) bekezdés b) pontja szerinti kiképzés céljára oktatót
+biztosítanak. A felkérés alapján az országos intézet, az orvostudományi egyetem, illetve az egészségügyi szak- és
+főiskola vezetője a kiképzés előtt legalább 30 nappal e feladat ellátására az oktatót kijelöli.
+(7) A katasztrófa-egészségügyi
+a) gyakorlatra történő kijelölés időtartama kétévente, személyenként a 72 órát,
+b) kiképzésre történő kijelölés időtartama kétévente, személyenként a 40 órát
+nem haladhatja meg.
+(8) A gyakorlaton, illetve kiképzésen való részvétel időtartamára az egészségügyi dolgozót,
+a) ha munkavégzésre irányuló jogviszonyban áll, a munkáltató által folyósított időarányos munkabér,
+b) egyéb esetben a megyei intézet által megállapított és folyósított – a munkavégzésre irányuló jogviszonyban álló,
+munkaköre szerint ugyanolyan tevékenységet végző, teljes munkaidőben foglalkoztatott munkavállalók átlagos
+havi munkabérének alapulvételével meghatározott – díj illeti meg.
+(9) A gyakorlattal, illetve kiképzéssel kapcsolatos költségeket az egészségügyért felelős miniszter az általa vezetett
+minisztérium költségvetéséből megtéríti.
+(10) A gyakorlat, illetve a kiképzés elrendeléséről az elrendelő tájékoztatja a Magyar Honvédség és a rendvédelmi szervek
+egészségügyi szolgálatainak vezetőit, és biztosítja az általuk kijelölt személyek részvételét a gyakorlaton.
+10. § (1) A megyei (fővárosi) védelmi bizottság a megyei egészségügyi védelmi bizottsággal együttműködve, annak igényei
+alapján tervezi és biztosítja a katasztrófa-egészségügyi ellátáshoz szükségessé váló objektum kiürítését és átadását,
+továbbá a szükséggyógyintézet telepítéséhez és működtetéséhez nélkülözhetetlen szállításokat és infrastrukturális
+ellátást, beleértve a fertőtlenítéshez, járványmegelőzéshez és egyéb közegészségügyi feladatokhoz szükséges
+felszereléseket és személyeket is.
+(2) A megyei egészségügyi védelmi bizottság katasztrófa-egészségügyi tervezési tevékenységéhez a megyei (fővárosi)
+védelmi bizottság által egészségügyi célra kijelölt objektum működtetője a szükséges adatokat és információkat
+rendelkezésre bocsátja.
+11. § (1) Az állam egészségügyi válsághelyzet esetére elsősorban a szükséggyógyintézetek működéséhez, továbbá
+a katasztrófa-egészségügyi ellátáshoz szükséges gyógyszerek, egészségügyi anyagok és eszközök biztosítása céljából
+Állami Egészségügyi Tartalékot tart fenn.
+(2) Az Állami Egészségügyi Tartalék igénybevételéről az egészségügyért felelős miniszter kezdeményezésére a Kormány
+rendelkezik.A sürgősségifekvőbeteg-ellátásbanváratlanulbekövetkezőhiányokkezelésére,konkrétellátásifeladatok
+megoldása céljából az egészségügyért felelős miniszter is engedélyezheti készletek kiadását. Ebben az esetben az
+egészségügyért felelős miniszter erről a Kormányt tájékoztatja.
+(3) Az Állami Egészségügyi Tartalék fenntartásának költségeit az egészségügyért felelős miniszter által vezetett
+minisztérium fejezeti költségvetése tartalmazza.
+(4) Az Állami Egészségügyi Tartalékkal való gazdálkodás részletes szabályait külön jogszabály határozza meg.
+12. § Az Eütv. 230. § (5) bekezdésében meghatározott térítést a központi költségvetés az egészségügyért felelős miniszter
+által vezetett minisztérium fejezeti költségvetésén belül
+a) a működési kiadások tekintetében az Állami Népegészségügyi és Tisztiorvosi Szolgálat,
+b) az egészségügyi anyagok beszerzése tekintetében az Egészségügyi Készletgazdálkodási Intézet
+költségvetésében biztosítja.
+
+13. § A katasztrófa-egészségügyi ellátásban részt vevő,
+a) az Egészségbiztosítási Alap terhére finanszírozott egészségügyi szolgáltató – a katasztrófa-egészségügyi
+ellátással kapcsolatosan felmerülő többletbeszerzések kivételével – önállóan végzi az ellátás folyamatosságához
+szükséges egészségügyi beszerzéseit,
+b) nem az Egészségbiztosítási Alapból finanszírozott önálló szükséggyógyintézet részére az ellátás
+folyamatosságához szükséges egészségügyi beszerzéseket, valamint az Egészségbiztosítási Alap terhére
+finanszírozott egészségügyi szolgáltatók egészségügyi többletbeszerzéseitaz Egészségügyi Készletgazdálkodási
+Intézet végzi.
+14. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2011. december 31-én 23.00 órakor lép hatályba.
+(2) Az 1–13. §, a 15. § és a 16. § 2012. január 1-jén lép hatályba.
+15. § Hatályát veszti az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok
+ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelölésérőlszóló 323/2010. (XII. 27.) Korm. rendelet 12. §
+(5) bekezdés c) pont ck) alpontja.
+16. § Hatályát veszti a katasztrófa-egészségügyi ellátásról szóló 158/1999. (XI. 19.) Korm. rendelet.
+17. § Nem léphatálybaaz egyes kormányrendeletekneka miniszterihatóságihatáskörökfelülvizsgálatávalösszefüggésben
+történő módosításáról szóló 282/2011. (XII. 21.) Korm. rendelet 3. alcíme.
+Orbán Viktor s. k.,
+miniszterelnök
