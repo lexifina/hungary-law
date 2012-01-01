@@ -1,6 +1,6 @@
-## 25/A. §[^59] A 12. § (2) bekezdésében foglaltak alapján a ráépített és a második vagy további alapszakképesítés megszerzésének támogatására, valamint a szakképesítését költségtérítéses formában megkezdő jelölt támogatott szakképzésbe történő átvételére irányuló átcsoportosításra 2011. évben a meghirdetett keretszámok 15%-áig van lehetőség.
+## 25/A. §[^58]
 
-1. melléklet a 122/2009. (VI. 12.) Korm. rendelethez[^60]
+1. melléklet a 122/2009. (VI. 12.) Korm. rendelethez[^59]
 
 Az egyes egészségügyi felsőoktatási intézmények régiójába tartozó megyék
 
@@ -52,5 +52,5 @@ Az egyes egészségügyi felsőoktatási intézmények régiójába tartozó meg
 
 4.4. Jász-Nagykun-Szolnok megye
 
-[^59]: A 25/A. §-t a 72/2011. (IV. 29.) Korm. rendelet 17. §-a iktatta be. [A 25/A. §-t a 25. § (6) bekezdése hatályon kívül helyezte 2012. január 1. napjával.]
-[^60]: Az 1. mellékletet a 72/2011. (IV. 29.) Korm. rendelet 18. §-a iktatta be.
+[^58]: A 25/A. §-t a 72/2011. (IV. 29.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 25. § (6) bekezdése.
+[^59]: Az 1. mellékletet a 72/2011. (IV. 29.) Korm. rendelet 18. §-a iktatta be.

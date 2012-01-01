@@ -14,13 +14,13 @@ b) amennyiben háziorvostan szakképzésben vesznek részt, központi gyakornokk
 
 vesznek részt a szakképzésben. Az a) és b) pont szerinti személyek a szakgyakorlati idejük megkezdésének évére meghatározott keretszámokon belül valamennyi, e rendelet szerinti támogatásra jogosultak az erre irányuló, e rendeletben meghatározott támogatás-igénylési nyilatkozat benyújtásával.
 
-(3)[^54] A támogatás-igénylési nyilatkozatok első alkalommal 2011. június 1-jét követően nyújthatók be.
+(3)[^54]
 
-(4)[^55] Az e rendeletnek az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló 122/2009. (VI. 12.) Korm. rendelet módosításáról szóló 72/2011. (IV. 29.) Korm. rendelet (a továbbiakban: Kr.) hatálybalépését megelőző napon hatályos rendelkezései alapján kiírt pályázati eljárás eredménye alapján elnyert támogatott állások erejéig a 2011. évre meghatározott keretszámok 2011. szeptember 1-jéig nem használhatók fel. A támogatott állást elnyert egészségügyi szolgáltatók támogatás-igénylési nyilatkozat benyújtása nélkül ez időpontig jogosultak az elnyert állás betöltésére, az így be nem töltött álláshelyek 2011. szeptember 2-át követően felhasználhatóak.
+(4)[^55]
 
-(5)[^56] Az e rendeletnek a Kr. hatálybalépését[^57] megelőző napon hatályos rendelkezései alapján meghirdetett, 2011. évre vonatkozóan az egyes felsőoktatási intézményekhez rendelten meghatározott keretszámok szakmánként történő bontás nélkül érvényesek, a 2011. évre meghirdetett hiányszakmák valamennyi megyére vonatkoztatva érvényesek.
+(5)[^56]
 
-(6)[^58] A (3)–(5) bekezdés, a 25/A. § és e bekezdés 2012. január 1-jén hatályát veszti.
+(6)[^57]
 
 (7) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -30,8 +30,7 @@ b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.
 
 [^52]: A 25. § (1) bekezdése a 217/2010. (VII. 22.) Korm. rendelet 5. §-a, a 72/2011. (IV. 29.) Korm. rendelet 19. § l) pontja szerint módosított szöveg.
 [^53]: A 25. § (2) bekezdését a (6) bekezdés hatályon kívül helyezte, újonnan a 72/2011. (IV. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^54]: A 25. § (3) bekezdését a (6) bekezdés hatályon kívül helyezte, újonnan a 72/2011. (IV. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be. [A 25. § (3) bekezdését a (6) bekezdés hatályon kívül helyezte 2012. január 1. napjával.]
-[^55]: A 25. § (4) bekezdését a (6) bekezdés hatályon kívül helyezte, újonnan a 72/2011. (IV. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be. [A 25. § (4) bekezdését a (6) bekezdés hatályon kívül helyezte 2012. január 1. napjával.]
-[^56]: A 25. § (5) bekezdése a 72/2011. (IV. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg. [A 25. § (5) bekezdését a (6) bekezdés hatályon kívül helyezte 2012. január 1. napjával.]
-[^57]: A hatálybalépés időpontja 2011. május 1.
-[^58]: A 25. § (6) bekezdése a 72/2011. (IV. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg. [A 25. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette 2012. január 1. napjával.]
+[^54]: A 25. § (3) bekezdését a (6) bekezdés hatályon kívül helyezte, újonnan a 72/2011. (IV. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be. Hatályon kívül helyezte a 25. § (6) bekezdése.
+[^55]: A 25. § (4) bekezdését a (6) bekezdés hatályon kívül helyezte, újonnan a 72/2011. (IV. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be. Hatályon kívül helyezte a 25. § (6) bekezdése.
+[^56]: A 25. § (5) bekezdését a 25. § (6) bekezdése hatályon kívül helyezte.
+[^57]: A 25. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
