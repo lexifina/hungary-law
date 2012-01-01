@@ -66,7 +66,7 @@ b) Dokumentációk:
 
 3. A kárelhárítási tervek tartalma
 
-a)[^10] Együttműködési terv:
+a)[^35] Együttműködési terv:
 
 – az üzemen belüli figyelőhálózat felépítése,
 
@@ -74,7 +74,7 @@ a)[^10] Együttműködési terv:
 
 – a kárelhárítás irányításáért felelős vezetők neve, beosztása, címe, telefonszáma, az üzemi kárelhárítási szervezetbe beosztott személyek neve, beosztása, címe, telefonszáma,
 
-– a területileg illetékes KTVF, megyei népegészségügyi szakigazgatási szerv, Mezőgazdasági Szakigazgatási Hivatal, önkormányzat, tűzoltóság, polgári védelem, továbbá a területen működő KÖVIZIG címe, telefon- és telefaxszáma,
+– a területileg illetékes KTVF, megyei népegészségügyi szakigazgatási szerv, Mezőgazdasági Szakigazgatási Hivatal, önkormányzat, tűzoltóság, polgári védelem, továbbá a területen működő VIZIG címe, telefon- és telefaxszáma,
 
 – az üzem területére történő belépés rendje,
 
@@ -106,4 +106,4 @@ d) Kárelhárítási anyagok és eszközök meghatározása:
 
 – az elhasznált kárelhárítási anyagokat és eszközöket a kárelhárítást követően azonnal pótolni kell.
 
-[^10]: Az 1. számú melléklet 3. pont a) alpont negyedik franciabekezdése a 351/2010. (XII. 30.) Korm. rendelet 181. § (1) bekezdése szerint módosított szöveg.
+[^35]: Az 1. számú melléklet 3. pont a) alpont negyedik franciabekezdése a 351/2010. (XII. 30.) Korm. rendelet 181. § (1) bekezdése, a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosítot szöveg.

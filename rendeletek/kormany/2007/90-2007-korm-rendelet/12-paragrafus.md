@@ -4,6 +4,8 @@
 
 12. § (1) A felügyelőség köteles az illetékességi területén az 1. számú mellékletben foglalt üzemi tervekből származó adatokat nyilvántartani, továbbá azokat a lehetséges szennyezőforrásokat felmérni és nyilvántartani, amelyek rendkívüli mértékben veszélyeztethetik a térségben a környezeti elemek eredeti állapotát.
 
-(2) A kárelhárítás egységes adatnyilvántartását a felügyelőség kezeli, és az adatok hozzáférhetőségét a KÖVIZIG és NPI, valamint a hivatalos statisztikai szolgálathoz tartozó szervek számára biztosítja.
+(2)[^13] A kárelhárítás egységes adatnyilvántartását a felügyelőség kezeli, és az adatok hozzáférhetőségét a VIZIG és NPI, valamint a hivatalos statisztikai szolgálathoz tartozó szervek számára biztosítja.
 
 (3) Az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) a felügyelőségek által szolgáltatott adatok alapján országos nyilvántartást vezet.
+
+[^13]: A 12. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.

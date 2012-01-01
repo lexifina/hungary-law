@@ -16,6 +16,7 @@ b) a lehető legkisebb környezeti terheléssel járjon,
 
 c) ne okozzon környezetveszélyeztetést, illetve környezetkárosodást.
 
-(6) A környezethasználó a környezetveszélyeztetés, illetve környezetkárosodás helyéről, jellegéről és mértékéről haladéktalanul köteles tájékoztatni a környezetvédelmi és vízügyi igazgatóságot (a továbbiakban: KÖVIZIG).
+(6)[^2] A környezethasználó a környezetveszélyeztetés, illetve környezetkárosodás helyéről, jellegéről és mértékéről haladéktalanul köteles tájékoztatni a környezetvédelmi természetvédelmi és vízügyi felügyelőséget (a továbbiakban: felügyelőség) és a vízügyi igazgatóságot (a továbbiakban: VIZIG).
 
 [^1]: A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet. A felszíni vizek védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet. A természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló 91/2007. (IV. 26.) Korm. rendelet.
+[^2]: A 2. § (6) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés a) pontja szerint módosított szöveg.
