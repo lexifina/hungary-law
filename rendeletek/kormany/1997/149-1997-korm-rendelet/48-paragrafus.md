@@ -32,6 +32,6 @@ d) az örökbefogadás felbontása iránti kérelem beadásának napját,
 
 e) annak megállapítását, hogy az örökbefogadás kinek a vonatkozásában szűnt meg [Csjt. 58. § (1) bek.].
 
-(4)[^201] Az örökbefogadás felbontásáról szóló határozatát a gyámhivatal közli a családtámogatási ellátást folyósító szervvel.
+(4)[^203] Az örökbefogadás felbontásáról szóló határozatát a gyámhivatal közli a családtámogatási ellátást folyósító szervvel.
 
-[^201]: A 48. § (4) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 24. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^203]: A 48. § (4) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 24. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

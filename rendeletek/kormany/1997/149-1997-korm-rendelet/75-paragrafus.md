@@ -2,6 +2,6 @@
 
 (2) A kötelezett, illetve a jogosult az előlegezés ideje alatt az (1) bekezdés szerint közvetlenül adott, illetve kapott tartásdíjat az előlegezés elrendelése előtt keletkezett hátralékba nem számíthatja be.
 
-(3)[^334] A gyámhivatal székhelye szerinti jegyző az (1) bekezdés szerinti jogosulatlanul felvett és visszafizetett összeget, valamint a Gyvt. 24. §-ának (8) bekezdése szerint megtérített összeget köteles visszafizetni a központi költségvetésnek.
+(3)[^336] A gyámhivatal székhelye szerinti jegyző az (1) bekezdés szerinti jogosulatlanul felvett és visszafizetett összeget, valamint a Gyvt. 24. §-ának (8) bekezdése szerint megtérített összeget köteles visszafizetni a központi költségvetésnek.
 
-[^334]: A 75. § (3) bekezdése a 14/2003. (II. 12.) Korm. rendelet 38. §-ával megállapított, a 315/2005. (XII. 25.) Korm. rendelet 78. § (6) bekezdésének 11. pontja szerint módosított szöveg.
+[^336]: A 75. § (3) bekezdése a 14/2003. (II. 12.) Korm. rendelet 38. §-ával megállapított, a 315/2005. (XII. 25.) Korm. rendelet 78. § (6) bekezdésének 11. pontja szerint módosított szöveg.

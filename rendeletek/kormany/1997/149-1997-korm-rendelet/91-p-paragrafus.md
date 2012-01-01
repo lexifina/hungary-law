@@ -1,6 +1,6 @@
-## Az iskoláztatási támogatás folyósításának felfüggesztése rendszeres gyermekvédelmi kedvezményben részesülő gyermek esetén[^453]
+## Az iskoláztatási támogatás folyósításának felfüggesztése rendszeres gyermekvédelmi kedvezményben részesülő gyermek esetén[^455]
 
-91/P. §[^454] (1)[^455] Rendszeres gyermekvédelmi kedvezményben részesülő gyermek esetén a jegyző a közoktatási intézmény igazgatójának 91/G. § (1) bekezdése szerinti jelzése megérkezését követően haladéktalanul megkeresi a gyermekjóléti szolgálatot, hogy tizenöt napon belül
+91/P. §[^456] (1)[^457] Rendszeres gyermekvédelmi kedvezményben részesülő gyermek esetén a jegyző a közoktatási intézmény igazgatójának 91/G. § (1) bekezdése szerinti jelzése megérkezését követően haladéktalanul megkeresi a gyermekjóléti szolgálatot, hogy tizenöt napon belül
 
 a) vegye fel a kapcsolatot a családdal,
 
@@ -54,12 +54,12 @@ ka) az iskoláztatási támogatás felfüggesztése a döntést követő másodi
 
 kb) az iskoláztatási támogatás felfüggesztésének megszüntetése esetén a megszüntetést követő második hónapra járó iskoláztatási támogatás kerül ismételten a jogosult számára folyósításra,
 
-l)[^456] a 17. életévét betöltött gyermek és szülője vagy más törvényes képviselője tájékoztatását a védelembe vétel nagykorúvá válást követő meghosszabbodásának a Gyvt. 69. § (4) bekezdése szerinti esetéről.
+l)[^458] a 17. életévét betöltött gyermek és szülője vagy más törvényes képviselője tájékoztatását a védelembe vétel nagykorúvá válást követő meghosszabbodásának a Gyvt. 69. § (4) bekezdése szerinti esetéről.
 
-(5)[^457] A jegyző a családtámogatási folyószámlára érkező iskoláztatási támogatást havonta, a családtámogatási folyószámlára történő átutalását követően legkésőbb nyolc napon belül kifizeti az eseti gondnoknak.
+(5)[^459] A jegyző a családtámogatási folyószámlára érkező iskoláztatási támogatást havonta, a családtámogatási folyószámlára történő átutalását követően legkésőbb nyolc napon belül kifizeti az eseti gondnoknak.
 
-[^453]: A 91/P. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
-[^454]: A 91/P. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
-[^455]: A 91/P. § (1) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.
-[^456]: A 91/P. § (4) bekezdés l) pontját a 360/2010. (XII. 30.) Korm. rendelet 20. §-a iktatta be.
-[^457]: A 91/P. § (5) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
+[^455]: A 91/P. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
+[^456]: A 91/P. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
+[^457]: A 91/P. § (1) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.
+[^458]: A 91/P. § (4) bekezdés l) pontját a 360/2010. (XII. 30.) Korm. rendelet 20. §-a iktatta be.
+[^459]: A 91/P. § (5) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.

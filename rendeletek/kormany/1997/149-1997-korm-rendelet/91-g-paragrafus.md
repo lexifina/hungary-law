@@ -1,6 +1,6 @@
-91/G. §[^423] (1) A közoktatási intézmény igazgatója jelzi a védelembe vételi eljárás lefolytatására illetékes jegyzőnek, ha a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma az adott tanévben elérte az ötvenet. A jelzéssel egyidejűleg a közoktatási intézmény igazgatója megküldi a jegyzőnek a tankötelezettség nem teljesítésének okait és a tankötelezettség teljesítésének előmozdítására vonatkozó javaslatát tartalmazó írásbeli véleményét.
+91/G. §[^425] (1) A közoktatási intézmény igazgatója jelzi a védelembe vételi eljárás lefolytatására illetékes jegyzőnek, ha a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma az adott tanévben elérte az ötvenet. A jelzéssel egyidejűleg a közoktatási intézmény igazgatója megküldi a jegyzőnek a tankötelezettség nem teljesítésének okait és a tankötelezettség teljesítésének előmozdítására vonatkozó javaslatát tartalmazó írásbeli véleményét.
 
-(2)[^424] A jegyző a közoktatási intézmény igazgatójának jelzése alapján – függetlenül attól, hogy a 91/F. § szerinti tájékoztatásra sor került-e –
+(2)[^426] A jegyző a közoktatási intézmény igazgatójának jelzése alapján – függetlenül attól, hogy a 91/F. § szerinti tájékoztatásra sor került-e –
 
 a) nevelőszülőnél vagy gyermekotthonban elhelyezett gyermek esetén megküldi a közoktatási intézmény jelzését és írásbeli véleményét a gyermekvédelmi szakszolgálat számára a gyámi tevékenység szakmai segítése, ellenőrzése érdekében,
 
@@ -14,5 +14,5 @@ b) az a) pont alá nem tartozó esetben az iskoláztatási támogatás felfügge
 
 (6) A felfüggesztés megszüntetését követően a felfüggesztés időtartama alatt a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás teljes összegét – a felfüggesztés időtartamával megegyező számú hónapra elosztva – havi részletekben, természetbeni formában kell a gyermek számára nyújtani.
 
-[^423]: A 91/G. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be.
-[^424]: A 91/G. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^425]: A 91/G. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be.
+[^426]: A 91/G. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.

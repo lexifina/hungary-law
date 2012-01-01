@@ -1,4 +1,4 @@
-91/Q. §[^458] (1) A jegyző a felülvizsgálati eljárás során
+91/Q. §[^460] (1) A jegyző a felülvizsgálati eljárás során
 
 a) tájékoztatást kér a közoktatási intézmény igazgatójától arról, hogy
 
@@ -8,7 +8,7 @@ ab) a közoktatási intézmény milyen intézkedésekkel segítette elő a gyerm
 
 b) kikéri a családgondozó és a kirendelt eseti gondnok véleményét,
 
-c)[^459] felhívja a gyermekjóléti szolgálatot, hogy amennyiben az iskoláztatási támogatás felhasználási módjának megváltoztatását szükségesnek tartja, tizenöt napon belül gondoskodjon az új pénzfelhasználási terv elkészítéséről és megküldéséről.
+c)[^461] felhívja a gyermekjóléti szolgálatot, hogy amennyiben az iskoláztatási támogatás felhasználási módjának megváltoztatását szükségesnek tartja, tizenöt napon belül gondoskodjon az új pénzfelhasználási terv elkészítéséről és megküldéséről.
 
 (2) A felülvizsgálati eljárás eredményeként
 
@@ -28,5 +28,5 @@ a) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a
 
 b) a gyermek védelembe vételének a 91/K. § (2) bekezdése szerinti fenntartását.
 
-[^458]: A 91/Q. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
-[^459]: A 91/Q. § (1) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.
+[^460]: A 91/Q. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
+[^461]: A 91/Q. § (1) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.

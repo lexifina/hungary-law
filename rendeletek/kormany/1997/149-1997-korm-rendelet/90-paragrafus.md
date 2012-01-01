@@ -1,6 +1,6 @@
 ## A védelembe vétel felülvizsgálata
 
-90. §[^377] (1) A védelembe vétel felülvizsgálata iránti eljárás
+90. §[^379] (1) A védelembe vétel felülvizsgálata iránti eljárás
 
 a) hivatalból indul
 
@@ -34,4 +34,4 @@ e) a Gyvt. 68. § (3) bekezdése alapján elrendelt újabb intézkedésekről,
 
 f) a Gyvt. 68. § (5) bekezdése szerinti eredménytelen védelembe vétel esetén a gyámhivatal értesítéséről.
 
-[^377]: A 90. § a 173/2009. (VIII. 29.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^379]: A 90. § a 173/2009. (VIII. 29.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

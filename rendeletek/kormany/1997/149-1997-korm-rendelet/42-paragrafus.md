@@ -4,23 +4,23 @@
 
 a) az örökbe fogadni szándékozó személyt,
 
-b)[^174] – szükség szerint pszichológus szakértő útján – a korlátozottan cselekvőképes és az ítélőképessége birtokában lévő cselekvőképtelen örökbefogadandó gyermeket,
+b)[^176] – szükség szerint pszichológus szakértő útján – a korlátozottan cselekvőképes és az ítélőképessége birtokában lévő cselekvőképtelen örökbefogadandó gyermeket,
 
-c)[^175] az örökbefogadandó gyermek szülőjét, ha a szülő felügyeleti jogát a bíróság jogerősen nem szüntette meg, vagy ha a gyermeket a gyámhivatal nem nyilvánította jogerősen örökbefogadhatónak, továbbá, ha a szülő nem tett, a Csjt. 48. §-ának (3) bekezdésében meghatározott nyilatkozatot,
+c)[^177] az örökbefogadandó gyermek szülőjét, ha a szülő felügyeleti jogát a bíróság jogerősen nem szüntette meg, vagy ha a gyermeket a gyámhivatal nem nyilvánította jogerősen örökbefogadhatónak, továbbá, ha a szülő nem tett, a Csjt. 48. §-ának (3) bekezdésében meghatározott nyilatkozatot,
 
-d)[^176] az örökbefogadandó gyermek törvényes képviselőjét,
+d)[^178] az örökbefogadandó gyermek törvényes képviselőjét,
 
 e) a házasságban élő, de önállóan örökbe fogadni szándékozó személy vele együttélő házastársát,
 
-f)[^177] a kiskorú vér szerinti szülő törvényes képviselőjét.
+f)[^179] a kiskorú vér szerinti szülő törvényes képviselőjét.
 
-(2)[^178] Az (1) bekezdés d) és f) pontja szerinti törvényes képviselő, a hivatásos gyám, a gyermekotthon vezetője és a gyermekvédelmi szakszolgálat eseti gondnoka a nyilatkozatát írásban is előterjesztheti.
+(2)[^180] Az (1) bekezdés d) és f) pontja szerinti törvényes képviselő, a hivatásos gyám, a gyermekotthon vezetője és a gyermekvédelmi szakszolgálat eseti gondnoka a nyilatkozatát írásban is előterjesztheti.
 
-(3)[^179] Nyílt örökbefogadás esetén a gyámhivatal az örökbefogadót, az örökbefogadandó korlátozottan cselekvőképes gyermeket, az örökbefogadandó gyermek törvényes képviselőjét, a vér szerinti szülőt és a kiskorú vér szerinti szülő törvényes képviselőjét együttesen – tárgyalás keretében – hallgatja meg. Titkolt terhesség esetén a gyámhivatal a kiskorú vér szerinti szülő kérelmére a törvényes képviselőjének meghallgatását mellőzheti.
+(3)[^181] Nyílt örökbefogadás esetén a gyámhivatal az örökbefogadót, az örökbefogadandó korlátozottan cselekvőképes gyermeket, az örökbefogadandó gyermek törvényes képviselőjét, a vér szerinti szülőt és a kiskorú vér szerinti szülő törvényes képviselőjét együttesen – tárgyalás keretében – hallgatja meg. Titkolt terhesség esetén a gyámhivatal a kiskorú vér szerinti szülő kérelmére a törvényes képviselőjének meghallgatását mellőzheti.
 
-[^174]: A 42. § (1) bekezdés b) pontja a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^175]: A 42. § (1) bekezdés c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^176]: A 42. § (1) bekezdés d) pontja a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^177]: A 42. § (1) bekezdés f) pontját a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^178]: A 42. § (2) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^179]: A 42. § (3) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^176]: A 42. § (1) bekezdés b) pontja a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^177]: A 42. § (1) bekezdés c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^178]: A 42. § (1) bekezdés d) pontja a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^179]: A 42. § (1) bekezdés f) pontját a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^180]: A 42. § (2) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^181]: A 42. § (3) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
