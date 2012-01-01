@@ -12,7 +12,7 @@ e) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCV
 
 f) az iskolai szövetkezet és az iskolai szövetkezeti csoport nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjának az iskolai szövetkezet, illetve az iskolai szövetkezeti csoport tevékenységében kifejtett személyes közreműködéséért a törvény hatálybalépését követően kapott ellenszolgáltatás.
 
-g) az Szja tv. 71. §-a szerinti béren kívüli juttatás,
+g)
 
 h) bármely EGT-államban működő, a tőkepiacról szóló törvény szerint elismert (szabályozott) piacnak minősülő tőzsdére bevezetett értékpapírnak az adott tagállam joga szerint osztaléknak (osztalékelőlegnek) minősülő hozama,
 

@@ -1,4 +1,4 @@
-4. § (1) A százalékos mértékű egészségügyi hozzájárulás-fizetési kötelezettség a 3. § (1) és (3) bekezdéstől eltérően a (2) bekezdés szerint a kifizetőt, a (3)–(4) bekezdés szerint a magánszemélyt terheli.
+4. § (1) Az átalányadózó mezőgazdasági kistermelő által fizetendő százalékos mértékű egészségügyi hozzájárulás az átalányban megállapított jövedelmének 15 százaléka.
 
 (2)
 

@@ -8,7 +8,7 @@
 
 (5) Az egyéni vállalkozó e törvény alkalmazásában magánszemélynek minősül.
 
-(6) A kamatkedvezményből származó jövedelem után fizetendő százalékos egészségügyi hozzájárulást évente, az adóévet követő január 12-éig kell megfizetni. Ha a kamatkedvezmény évközben megszűnik, az egészségügyi hozzájárulást a megszűnés napját követő hónap 12-éig kell megfizetni. A béren kívüli juttatásnak nem minősülő egyes meghatározott juttatások adóalapként meghatározott összege utáni egészségügyi hozzájárulást a személyi jövedelemadóval egyidejűleg kell megállapítani, bevallani és megfizetni.
+(6) A kamatkedvezményből származó jövedelem után fizetendő százalékos egészségügyi hozzájárulást évente, az adóévet követő január 12-éig kell megfizetni. Ha a kamatkedvezmény évközben megszűnik, az egészségügyi hozzájárulást a megszűnés napját követő hónap 12-éig kell megfizetni. A béren kívüli juttatás és a béren kívüli juttatásnak nem minősülő egyes meghatározott juttatások adóalapként meghatározott összege utáni egészségügyi hozzájárulást a személyi jövedelemadóval egyidejűleg kell megállapítani, bevallani és megfizetni.
 
 (7) A magánszemély egészségügyi hozzájárulásának megállapításánál, illetőleg megfizetésénél az Art. kerekítési szabályai nem alkalmazhatóak.
 
