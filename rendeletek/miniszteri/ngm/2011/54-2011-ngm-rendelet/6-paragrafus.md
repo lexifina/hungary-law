@@ -1,0 +1,1 @@
+## „(5) A Közösség más tagállamában letelepedett adóalanytól eltérő személy fizetési számlájára teljesítendő átutalás esetén papír alapon vagy más bizonyítható módon mellékelni kell a Közösség más tagállamában letelepedett adóalany és e személy közös felhatalmazó nyilatkozatát az átutalás teljesítésére.”

@@ -1,0 +1,1 @@
+## „(4) A Jöt. 67/A. § (3) és (5) bekezdésében említett származási igazolványt a hatósági felügyeletet ellátó vámszerv a 31/B. számú melléklet szerinti adattartalommal állítja ki, és adja át a magánfőzőnek.”
