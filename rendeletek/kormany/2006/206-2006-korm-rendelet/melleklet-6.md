@@ -92,7 +92,7 @@
 
 ## aláírás
 
-6. számú melléklet a 206/2006. (X. 16.) Korm. rendelethez[^65]
+6. számú melléklet a 206/2006. (X. 16.) Korm. rendelethez[^69]
 
 Az elszámolható költség jelenértékének meghatározása
 
@@ -108,4 +108,4 @@ Qn – az adókedvezménnyel érintett, több év alatt megvalósított beru
 
 i – diszkont kamatláb.
 
-[^65]: A 6. számú mellékletet a 202/2009. (IX. 18.) Korm. rendelet 14. §-a iktatta be. Alkalmazására lásd e módosító rendelet 19. §-át.
+[^69]: A 6. számú mellékletet a 202/2009. (IX. 18.) Korm. rendelet 14. §-a iktatta be. Alkalmazására lásd e módosító rendelet 19. §-át.

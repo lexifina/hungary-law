@@ -50,9 +50,9 @@ j)[^8] munkahelyteremtő beruházás esetén a 2. pont b) alpont alapján meghat
 
 7.[^9] Nagyberuházás: az a beruházás, amelyhez kapcsolódóan az elszámolható költség jelenértéken legalább 50 millió eurónak megfelelő forintösszeg; ennek meghatározásakor egyetlen beruházásnak kell tekinteni az egy vagy több adózó által egy háromszor háromszázhatvanöt napos időszakon belül megkezdett, gazdaságilag oszthatatlan beruházásokat; annak megállapításakor, hogy a beruházás gazdaságilag oszthatatlan-e, figyelembe kell venni a technikai, funkcionális és stratégiai kapcsolatokat, valamint a közvetlen földrajzi közelséget; ez alapján a nagyberuházás értékét úgy kell meghatározni, hogy a kérelemben, illetve a bejelentésben szereplő beruházás elszámolható költségéhez hozzá kell adni és együttesen kell figyelembe venni az e beruházás megkezdése napját megelőző háromszor háromszázhatvanöt napos időszakon belül megkezdett, olyan gazdaságilag oszthatatlan beruházások jelenértéken számított értékét, amely(ek)hez az adózó igénybe vett (igényelt) állami támogatást.
 
-8. Nehéz helyzetben lévő társaság: az a társaság, amelynek a saját tőkéje a kérelem, illetve a bejelentés benyújtásakor rendelkezésre álló utolsó beszámoló adatai szerint, veszteség folytán nem éri el a jegyzett tőke felét.
+8.[^10] Nehéz helyzetben lévő társaság: az a vállalkozás, amely megfelel az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. § (1)–(4) bekezdésében foglalt feltételeknek.
 
-9.[^10] Diszkont kamatláb: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 3. pontja szerinti kamatláb.
+9.[^11] Diszkont kamatláb: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 3. pontja szerinti kamatláb.
 
 10. Saját forrás: az adózó által a fejlesztési programhoz igénybe vett (igényelt), állami támogatásnak nem minősülő forrás.
 
@@ -62,9 +62,9 @@ j)[^8] munkahelyteremtő beruházás esetén a 2. pont b) alpont alapján meghat
 
 13. Kis- és középvállalkozás: a kérelem, illetve a bejelentés benyújtásának időpontjában a Tao. törvény 4. §-ának 24. pontjában foglaltaknak megfelelő vállalkozás.
 
-14.[^11] Támogatástartalom: az adózó számára nyújtott állami támogatásnak az Atr. 2. mellékletében meghatározott módszertan alapján kiszámolt értéke.
+14.[^12] Támogatástartalom: az adózó számára nyújtott állami támogatásnak az Atr. 2. mellékletében meghatározott módszertan alapján kiszámolt értéke.
 
-15.[^12] Szélessávú internetszolgáltatásra képes infrastruktúra: amelynek legalább
+15.[^13] Szélessávú internetszolgáltatásra képes infrastruktúra: amelynek legalább
 
 a) a garantált minimum sebessége a szolgáltatótól az előfizető irányába 128 kbps, az előfizetőtől a szolgáltató irányába 32 kbps, ugyanakkor képes, a hálózati forgalomtól függően, a szolgáltatótól az előfizető irányába 512 kbps, az előfizetőtől a szolgáltató irányába 96 kbps sebesség elérésére, és
 
@@ -78,6 +78,7 @@ b) időben korlátlan hozzáférést biztosít, legalább havi 99,5 százalékos
 [^7]: Az 1. § 3. pont f) alpontja a 202/2009. (IX. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. §-át.
 [^8]: Az 1. § 3. pontjának j) alpontját a 315/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^9]: Az 1. § 7. pontja a 202/2009. (IX. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. §-át.
-[^10]: Az 1. § 9. pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (18) bekezdésével megállapított szöveg.
-[^11]: Az 1. § 14. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (14) bekezdés b) pontja szerint módosított szöveg.
-[^12]: Az 1. § 15. pontja a 315/2006. (XII. 23.) Korm. rendelet 10. § (5) bekezdése alapján 2007. június 1-jén lépett hatályba.
+[^10]: Az 1. § 8. pontja 277/2011. (XII. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 1. § 9. pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (18) bekezdésével megállapított szöveg.
+[^12]: Az 1. § 14. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (14) bekezdés b) pontja szerint módosított szöveg.
+[^13]: Az 1. § 15. pontja a 315/2006. (XII. 23.) Korm. rendelet 10. § (5) bekezdése alapján 2007. június 1-jén lépett hatályba.
