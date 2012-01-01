@@ -40,9 +40,9 @@ f) az Információs Hivatal,
 
 g) a Nemzetbiztonsági Szakszolgálat,
 
-h) a Katonai Biztonsági Hivatal és
+h) Katonai Nemzetbiztonsági Szolgálat
 
-i) a Katonai Felderítő Hivatal
+i)
 
 szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 

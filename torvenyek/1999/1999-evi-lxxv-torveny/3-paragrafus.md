@@ -1,1 +1,1 @@
-3. § Az e törvény alapján kirótt közrendvédelmi bírságot (12. §), valamint a légijármű üzemeltetőjével szemben a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint kiszabható közrendvédelmi bírságot kormányrendeletben meghatározott eljárási szabályok szerint, az ott megjelölt célra lehet felhasználni.
+3. §

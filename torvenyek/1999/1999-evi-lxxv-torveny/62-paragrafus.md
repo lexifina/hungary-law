@@ -1,6 +1,6 @@
 ## Felhatalmazó szabályok
 
-62. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg, hogy a közrendvédelmi bírságokból befolyó pénzösszegeket milyen célra lehet felhasználni, továbbá e pénzösszegek felhasználásának eljárási szabályait.
+62. § (1)
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – a prostitúció kezelésének közrendvédelmi szabályai érvényesülése érdekében – rendeletben szabályozza az egészségügyi vizsgálatok, illetve az ilyen vizsgálatokat folytató egészségügyi intézmények körét, a nemi úton terjedő betegségek létét vagy hiányát tanúsító orvosi igazolás tartalmi követelményét, kiadásának rendjét.
 

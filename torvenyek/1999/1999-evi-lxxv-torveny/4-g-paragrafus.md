@@ -4,7 +4,7 @@
 
 a) a törvény 4/C. §ának (3) bekezdésében meghatározott adatkezelési idő letelt,
 
-b) bíróság vagy az adatvédelmi biztos az adatvédelmi eljárás során az adat törlését elrendelte,
+b) bíróság vagy a Nemzeti Adatvédelmi és Információszabadság Hatóság az adat törlését elrendelte,
 
 c) az adat kezelése szükségtelen vagy jogellenes.
 
