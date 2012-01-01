@@ -8,6 +8,8 @@ b) vállalati tanács, illetőleg a dolgozók közgyűlése általános vezetés
 
 c) államigazgatási felügyelet alatt álló vállalatok esetében felügyeleti irányítás és ellenőrzés,
 
-d)–f)
+d)
+
+f)
 
 (2) Az alapítói jogokat, a felügyeleti irányítást és ellenőrzést az erre jogosult szerv az e jogok gyakorlására jogosult más szervre — megállapodásuk alapján — átruházhatja.
