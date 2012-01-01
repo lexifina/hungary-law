@@ -6,7 +6,7 @@ Népünk az Európától való leszakadással, a gazdasági és társadalmi zsá
 
 Az 1956-os forradalom és szabadságharc hatásától is érintve történelmünk legújabb fordulata ismét megajándékozta a nemzetet a szabadság kincsével: az ország szuverenitása visszanyerésével.
 
-1991. június 19-én az utolsó szovjet katona is elhagyta a Magyar Köztársaság területét, így az ország népe minden idegen erőtől függetlenül és minden korlátozástól mentesen maga tartja kezében saját sorsát.
+1991. június 19-én az utolsó szovjet katona is elhagyta Magyarország területét, így az ország népe minden idegen erőtől függetlenül és minden korlátozástól mentesen maga tartja kezében saját sorsát.
 
 Szabadságunk visszaszerzésével valóra vált a Zrínyiek és Thököly, a Rákócziak és Kossuth, forradalmaink és szabadságharcaink hőseinek és velük a magyar nép egészének álma.
 
