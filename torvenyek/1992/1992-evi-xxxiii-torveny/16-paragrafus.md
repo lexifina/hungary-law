@@ -14,7 +14,7 @@ b) a munkáltató belső szabályzatának tervezetét,
 
 c) a közalkalmazottak nagyobb csoportját érintő munkáltatói intézkedés tervezetét,
 
-d) a korengedményes nyugdíjazásra és az egészségkárosodott, megváltozott munkaképességű közalkalmazottak rehabilitációjára vonatkozó elképzeléseket,
+d) az egészségkárosodott, megváltozott munkaképességű közalkalmazottak rehabilitációjára vonatkozó elképzeléseket,
 
 e) a közalkalmazottak képzésével összefüggő terveket, valamint
 

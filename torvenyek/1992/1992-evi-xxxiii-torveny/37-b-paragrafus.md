@@ -1,29 +1,15 @@
 37/B. § (1) E törvény alkalmazása szempontjából a közalkalmazott akkor minősül nyugdíjasnak, ha
 
-a) a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság), illetve
+a) az öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság),
 
-b) az a) pontban említett korhatár betöltése előtt öregségi nyugdíjban, vagy
+b) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül,
 
-c) korkedvezményes öregségi nyugdíjban, vagy
+c) az öregségi nyugdíjkorhatárt betöltötte, és a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban, öregségi, munkaképtelenségi járadékban, növelt összegű öregségi, munkaképtelenségi járadékban, vagy rokkantsági ellátásban részesül, vagy
 
-d) előrehozott (csökkentett összegű előrehozott) öregségi nyugdíjban, vagy
+d) a felmentésére a 30. § (1) bekezdés f) pontja alapján kerül sor.
 
-e) szolgálati nyugdíjban, vagy
+(2) A közalkalmazott akkor részesül az (1) bekezdés b) vagy c) pontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
 
-f) korengedményes nyugdíjban, vagy
-
-g) más, az öregségi nyugdíjjal egy tekintet alá eső nyugellátásban, illetőleg
-
-h) rokkantsági (baleseti rokkantsági) nyugdíjban
-
-részesül.
-
-(2) A közalkalmazott akkor részesül az (1) bekezdés b)–h) pontokban felsorolt nyugellátásban, amikor a nyugellátást kérelmére megállapították.
-
-(3) Az (1) bekezdésben foglaltakon túlmenően, e törvény alkalmazásában nyugdíjasnak minősül az a közalkalmazott, aki
-
-a) az előrehozott nyugdíj feltételeivel rendelkezik és felmentésére a 30. § (1) bekezdés e) pontja alapján kerül sor,
-
-b) a negyven éves szolgálati idővel igénybe vehető öregségi teljes nyugdíj feltételével rendelkezik, és felmentésére a 30. § (1) bekezdés f) pontja alapján kerül sor.
+(3)
 
 (4) A közalkalmazott köteles tájékoztatni a munkáltatót, ha az (1) bekezdés hatálya alá esik.

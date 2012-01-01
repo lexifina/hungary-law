@@ -1,5 +1,1 @@
-93. § (1)
-
-(2)—(3)
-
-(4)–(6)
+93. § Ha a közalkalmazotti jogviszony 2011. december 31-ét követően szűnik meg, és a munkáltató a felmentést, a munkáltató jogutód nélküli megszűnését vagy a munkavállaló a rendkívüli lemondást a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény hatálybalépését megelőzően közölte, a közalkalmazott a közléskor hatályos szabályokban foglaltaknak megfelelően, ezt követő közlés esetén a megszűnéskor hatályos szabályokban foglaltaknak megfelelően minősül nyugdíjasnak.

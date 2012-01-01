@@ -38,7 +38,7 @@ g) húsz év: nyolc havi
 
 átlagkeresetének megfelelő összeg.
 
-(7) A végkielégítés a (6) bekezdésben meghatározott mértéke négyhavi átlagkereset összegével emelkedik, ha a közalkalmazott közalkalmazotti jogviszonya az öregségi nyugdíjra [37/B. § (1) bekezdés a) pont] vagy a korkedvezményes öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a közalkalmazottat, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült.
+(7) A végkielégítés a (6) bekezdésben meghatározott mértéke négyhavi átlagkereset összegével emelkedik, ha a közalkalmazott közalkalmazotti jogviszonya az öregségi nyugdíjra [37/B. § (1) bekezdés a) pont] való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a közalkalmazottat, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült.
 
 (8) A végkielégítés mértéke a (6)—(7) bekezdésben foglaltak kétszeresének megfelelő összeg, ha a közalkalmazotti jogviszony rendkívüli lemondás folytán szűnt meg.
 
