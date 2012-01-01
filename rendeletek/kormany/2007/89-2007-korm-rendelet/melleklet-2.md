@@ -22,7 +22,7 @@
 
 | Rendőrség | Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | Fővárosi Tűzoltó Parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
@@ -50,7 +50,7 @@
 
 | Rendőrség | Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | Fővárosi Tűzoltó Parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
@@ -80,7 +80,7 @@
 
 | Rendőrség | Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | Fővárosi Tűzoltó Parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Katasztrófa- és polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -112,7 +112,7 @@
 
 | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| Tűzvédelem | Fővárosi Tűzoltó Parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Katasztrófa- és polgári védelem | Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -124,16 +124,10 @@
 
 | Talajvédelem | Mezőgazdasági Szakigazgatási Hivatal | az agrárpolitikáért felelős miniszter |
 
-| Műszaki biztonság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve | az iparügyekért felelős miniszter |
+| Műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | Vasúti ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
-
-| Környezetvédelem, természetvédelem, vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
-
-| Kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
-
-[^2]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 282/2011. (XII. 21.) Korm. rendelet 20. §-a szerint módosított szöveg.
