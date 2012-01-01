@@ -1,6 +1,6 @@
 ## Nyugdíj pénzszámla
 
-4. § (1) Nyugdíj pénzszámla kizárólag a Magyar Köztársaság törvényes fizetőeszközében vezethető.
+4. § (1) Nyugdíj pénzszámla kizárólag Magyarország törvényes fizetőeszközében vezethető.
 
 (2) A nyugdíj pénzszámlán
 

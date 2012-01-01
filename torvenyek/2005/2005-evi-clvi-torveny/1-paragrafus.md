@@ -4,7 +4,7 @@
 
 ## A törvény hatálya
 
-1. § (1) E törvény hatálya kiterjed a Magyar Köztársaság területén székhellyel rendelkező befektetési szolgáltató
+1. § (1) E törvény hatálya kiterjed a Magyarország területén székhellyel rendelkező befektetési szolgáltató
 
 a) nyugdíj-előtakarékossági értékpapírszámla,
 

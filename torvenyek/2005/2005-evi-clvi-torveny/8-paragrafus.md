@@ -16,7 +16,7 @@ c) az előtakarékoskodó halálával.
 
 a) a nyugdíj értékpapírszámlán és/vagy a nyugdíj letéti számlán jóváírt, illetve letétbe helyezett értékpapírok, valamint a nyugdíj pénzszámlán nyilvántartott pénzeszközöknek általa meghatározott másik számlavezető által vezetett nyugdíj-előtakarékossági számlákra történő transzferálását,
 
-b) a nyugdíj értékpapírszámlán és/vagy a nyugdíj letéti számlán jóváírt, illetve letétbe helyezett értékpapírok általa meghatározott időpontban – de legkésőbb a felmondás időpontját követő 30 napon belül – történő értékesítését, és ezt követően a nyugdíj pénzszámlán nyilvántartott pénzeszközöknek a Magyar Köztársaság törvényes fizetőeszközében történő kifizetését, vagy
+b) a nyugdíj értékpapírszámlán és/vagy a nyugdíj letéti számlán jóváírt, illetve letétbe helyezett értékpapírok általa meghatározott időpontban – de legkésőbb a felmondás időpontját követő 30 napon belül – történő értékesítését, és ezt követően a nyugdíj pénzszámlán nyilvántartott pénzeszközöknek Magyarország törvényes fizetőeszközében történő kifizetését, vagy
 
 c) a nyugdíj pénzszámla, a nyugdíj értékpapírszámla és/vagy a nyugdíj letéti számla átalakítását a Tpt. szerinti ügyfélszámlává vagy a Tpt. 148. §-ában foglaltak szerinti bankszámlává, értékpapírszámlává és/vagy értékpapír letéti számlává, vagy az egyes számlák állományának befektetési szolgáltatónál vezetett ügyfélszámlára, értékpapírszámlára és/vagy értékpapír letéti számlára történő átvezetését.
 
