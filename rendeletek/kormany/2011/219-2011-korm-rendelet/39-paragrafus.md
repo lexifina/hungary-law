@@ -1,0 +1,1 @@
+## 38. § A súlyos káresemény elhárítási terv soros, soron kívüli felülvizsgálatára a 11. § rendelkezéseit kell megfelelően alkalmazni azzal az eltéréssel, hogy a soros felülvizsgálatot háromévenként kell elvégezni.
