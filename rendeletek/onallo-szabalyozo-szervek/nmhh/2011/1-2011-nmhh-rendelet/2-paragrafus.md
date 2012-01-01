@@ -32,7 +32,7 @@ o) ha törvényi felhatalmazás vagy nemzetközi szerződés alapján felmentés
 
 p) a kizárólag hullámterjedési jelenség vizsgálata és bemutatása céljából használt frekvenciák után,
 
-q) a frekvenciasávok nemzeti felosztásáról szóló kormányrendelet alapján harmadlagos jelleggel használt frekvenciák után.
+q)[^3] a frekvenciasávok nemzeti felosztásának megállapításáról szóló kormányrendelet alapján harmadlagos jelleggel használt frekvenciák után.
 
 (2) Az állomások és berendezések rádióengedélyben rögzített szüneteltetésének időtartama alatt a jogosítottnak a frekvenciahasználati díj 50%-át kell megfizetnie.
 
@@ -65,3 +65,4 @@ l) közös frekvenciahasználatú polgárőr szervezeteknek és közgyűjtemény
 (4) A rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetni a közoktatási és felsőoktatási intézményekben az oktatással közvetlen összefüggésben használt frekvenciák után, amelyek nem tartoznak az (1) bekezdés p) pontja alá.
 
 [^2]: A 2. § (1) bekezdés k) pontja a 7/2011. (X. 6.) NMHH rendelet 10. §-a szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés q) pontja a 8/2011. (XI. 3.) NMHH rendelet 1. § (1) bekezdése szerint módosított szöveg.

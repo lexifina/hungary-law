@@ -1,50 +1,42 @@
-## 960 MHz-nél nagyobb frekvenciájú rádiórelé, műsorszétosztó és -elosztó hálózatok
-
-## frekvenciahasználati díjai
+## 960 MHz-nél nagyobb frekvenciájú rádiórelé, műsorszétosztó és -elosztó hálózatok frekvenciahasználati díjai
 
 ## Pont-pont rendszerű rádiórelé állomások 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjai (Ft/kHz/hó)
 
-|  | Frekvenciasáv (F) | Díj (Ft/kHz/hó) |
+| Frekvenciasáv (F) | Díj |
 
-|  | 960 MHz<F<10 GHz | 1,12 |
+|  | (Ft/kHz/hó) |
 
-|  | 10 GHz<F<13,25 GHz | 0,56 |
+| 960 MHz<F≤10 GHz | 1,12 |
 
-|  | 13,25 GHz<F<21,2 GHz | 0,448 |
+| 10 GHz<F≤13,25 GHz | 0,56 |
 
-|  | F>21,2 GHz | 0,336 |
+| 13,25 GHz<F≤21,2 GHz | 0,448 |
 
-|  | 1. táblázat |
+| F>21,2 GHz | 0,336 |
+
+## 1. táblázat
 
 ## Pont-többpont rendszerű rádiórelé, valamint a műsorszétosztó és -elosztó hálózatok központi állomásainak 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjai (Ft/kHz/hó)
 
-|  | Frekvenciasáv (F) | Díj (Ft/kHz/hó) |
+| Frekvenciasáv (F) | Díj (Ft/kHz/hó) |
 
-|  | 960 MHz<F<12,5 GHz | 0,15 |
+| 960 MHz<F<10 GHz | 2,8 |
 
-|  | F>12,5 GHz | 0,09 |
+| 10 GHz<F<13,25 GHz | 1,4 |
 
-|  |  | 2. táblázat |
+| 13,25 GHz<F<21,2 GHz | 1,12 |
 
-## Pont-többpont rendszerű rádiórelé, változó telephelyű rádiórelé, valamint a műsorszétosztó és -elosztó hálózatok állomásainak 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjai (Ft/kHz/hó)
+| 21,2 GHz<F<30 GHz | 0,84 |
 
-|  | Frekvenciasáv (F) | Díj (Ft/kHz/hó) |
+| 30 GHz<F<55 GHz | 0,67 |
 
-|  | 960 MHz<F<10 GHz | 11,2 |
+| 55 GHz<F | 0,335 |
 
-|  | 10 GHz<F<13,25 GHz | 5,6 |
+## 2. táblázat
 
-|  | 13,25 GHz<F<21,2 GHz | 4,48 |
+## 960 MHz-nél nagyobb frekvenciájú rádiórelé, műsorszétosztó és -elosztó hálózatok frekvenciahasználati díjának megállapítási módja
 
-|  | F>21,2 GHz | 3,36 |
-
-|  | 3. táblázat |
-
-## 960 MHz-nél nagyobb frekvenciájú rádiórelé, műsorszétosztó és -elosztó hálózatok
-
-## frekvenciahasználati díjának megállapítási módja
-
-## 1. a) Pont-pont és pont-többpont rendszerű rádiórelé, valamint pont-többpont rendszerű műsorszétosztó és -elosztó hálózatok állomásai esetében az engedélyezett frekvenciát tartalmazó frekvenciasávnak megfelelő frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani az 1–3. táblázatokból,
+## 1. a) Pont-pont és pont-többpont rendszerű rádiórelé, valamint pont-többpont rendszerű műsorszétosztó és -elosztó hálózatok állomásai esetében az engedélyezett frekvenciát tartalmazó frekvenciasávnak megfelelő frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani az 1–2. táblázatokból,
 
 ## b) az a) alatti frekvenciahasználati egységdíjat az állomásra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
 
