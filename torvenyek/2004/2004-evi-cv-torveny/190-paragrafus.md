@@ -1,1 +1,0 @@
-190. § A külkereskedelmi tevékenység engedélyhez köthető, a kiadott engedély visszavonható, a korábban engedélyhez kötött áruk és szolgáltatások forgalma megtiltható. Egyes termékek behozatala vagy kivitele kötelezően előírható.

@@ -1,1 +1,0 @@
-71. § A Honvédségnek a 70. § (1) bekezdésének f) pontja szerinti felhasználása esetén meg kell határozni a felhasználás célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit (fegyverzetét), továbbá a felhasználás földrajzilag körülírt területét. A kirendelt erők saját parancsnokaik vezetésével hajtják végre a feladatot.

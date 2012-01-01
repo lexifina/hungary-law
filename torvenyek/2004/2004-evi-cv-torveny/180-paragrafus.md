@@ -1,1 +1,0 @@
-180. § A rendelet hatálybalépését megelőzően bírósági útra utalt olyan ügyekben, amelyekben bírósági eljárásnak nincs helye – és az ügy elbírálása nem tartozik más szerv hatáskörébe –, az elévülés nyugszik.

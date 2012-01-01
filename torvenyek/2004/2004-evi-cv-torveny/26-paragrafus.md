@@ -1,1 +1,0 @@
-26. § A hadkiegészítő parancsnokság a katonai szolgálat félbeszakítását megszünteti, ha tudomására jut, hogy a félbeszakítás oka már nem áll fenn, illetve, ha a családfenntartói okból adott kedvezmény esetén a hadköteles a családfenntartói kötelezettségét önhibájából nem teljesíti.

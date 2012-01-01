@@ -1,1 +1,0 @@
-144. § A Honvédség szárazföldi, légi és vízi járművei (katonai járművek) – a hadviselés szabályaira vonatkozó nemzetközi egyezményeknek megfelelően – a nemzeti hovatartozásuk jelzésére messziről felismerhető jelvényt (felségjel) viselnek.

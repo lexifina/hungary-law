@@ -1,1 +1,0 @@
-143. § A történelmi zászlósor a magyar történelem kiemelkedő hadieseményeinek, valamint állandó hadseregeinek zászlóiból áll. A történelmi zászlósor nemzeti ünnepek állami rendezvényein, illetve kiemelkedő katonai rendezvényen katonai tiszteletadással vonultatható fel.

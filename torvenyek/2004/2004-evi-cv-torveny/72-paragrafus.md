@@ -1,3 +1,0 @@
-72. § (1) A 70. § (1) bekezdésének h)–j) pontjában meghatározott feladatok teljesítésére alárendelt szervezeteitől legfeljebb 100 fő 21 napi időtartamot meg nem haladó igénybevételéről a Honvéd Vezérkar főnöke, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlést tájékoztatja.
-
-(2) A Honvédség szállítóeszközei és műszaki munkagépei – a harcjárművek és a fegyverzet kivételével – kérelemre, a honvédelemért felelős miniszter engedélyével, megállapodás alapján, térítés ellenében, ideiglenesen átengedhetők.

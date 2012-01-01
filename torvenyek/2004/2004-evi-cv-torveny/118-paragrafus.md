@@ -1,7 +1,0 @@
-118. § (1) A honvédelemért felelős miniszter által kijelölt katonai szervezetek fegyveresen (fegyverhasználati joggal) teljesítik a nemzetközi szerződésben foglalt katonai kötelezettségeket. E műveletekre az e fejezetben foglalt rendelkezések a (2)–(4) bekezdésben foglalt eltérésekkel alkalmazandók.
-
-(2) Ha az (1) bekezdés szerinti műveletet folytató többnemzetiségű katonai szervezet műveleti utasítása, harctevékenységi előírásokat tartalmazó dokumentuma és az ezek alapján kiadott parancsok szerint harctevékenységet kell végezni, a fegyverhasználat és más kényszerítő eszközök alkalmazása során ezen dokumentumoknak a hazai jogszabályokban nem szabályozott előírásait is érvényesíteni kell.
-
-(3) Ha a műveletek jellege nem teszi lehetővé, hogy a katona az ellenséget egyedileg is megadásra szólítsa fel, és ellenállás esetén a fegyverhasználatot kilátásba helyezze, illetőleg, ha az arra irányuló figyelmeztetés nem járt eredménnyel, akkor a fegyverhasználatát az általa kezelt harceszköz használatára vonatkozó szabályzatok szerint, az ellenállás leküzdéséhez szükséges és arányos erőt alkalmazva, a nemzetközi hadijogban foglalt előírások és elvek figyelembevételével végezze.
-
-(4) A fegyverhasználat kilátásba helyezését tartalmazó szóbeli és írásbeli figyelmeztetést, céljától függően (például ellenség megadásra felszólítása, őrzött objektum megvédése) lehetőleg az ellenség vagy a helyi lakosság nyelvén kell megtenni.

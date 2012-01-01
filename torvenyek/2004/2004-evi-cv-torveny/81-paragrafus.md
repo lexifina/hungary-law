@@ -1,1 +1,0 @@
-81. § A tényleges katonai állomány tagjai – a szolgálati viszony keletkezése szerint – békében önkéntes jelentkezés alapján, megelőző védelmi helyzet és rendkívüli állapot idején – a hadkötelezettség bevezetése után – ezenkívül hadkötelezettség alapján teljesítenek katonai szolgálatot.

@@ -1,1 +1,0 @@
-44. § A honvédelemben közreműködő szervek feladatát és hatáskörét – e törvény keretei között – a tevékenységi körrel érintett miniszter a honvédelemért felelős miniszterrel egyetértésben, annak hiányában a kormány rendeletben állapítja meg.

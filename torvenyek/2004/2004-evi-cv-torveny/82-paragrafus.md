@@ -1,1 +1,0 @@
-82. § A tényleges katonai állomány folyamatos kiegészítése békében a hivatásos, szerződéses és az önkéntes tartalékos katonai szolgálatra vagy hallgatói viszony létesítésére toborzottak felvétele, megelőző védelmi helyzet és rendkívüli állapot idején ezenkívül a hadkötelesek behívása útján történik.
