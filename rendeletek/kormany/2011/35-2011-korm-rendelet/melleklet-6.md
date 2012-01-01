@@ -128,23 +128,9 @@
 
 ## P. H.
 
-## III. 48 órán belüli gyermekgyógyászati status vizsgálat megállapításai
+## III.
 
-## Vizsgálatot végző gyermekgyógyász neve:
-
-## A vizsgálat ideje: év hó nap óra perc
-
-## ......................................................
-
-## Gyermekgyógyász aláírása
-
-## P. H.
-
-## IV. 72 órán belüli gyermekgyógyászati status vizsgálat megállapításai
-
-## Vizsgálatot végző gyermekgyógyász neve:
-
-## A vizsgálat ideje: év hó nap óra perc
+## IV.
 
 ## V. Életkorhoz kötött szűrővizsgálatok 0–4 napos életkorban
 
