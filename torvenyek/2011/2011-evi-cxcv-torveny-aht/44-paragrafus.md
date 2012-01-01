@@ -1,0 +1,5 @@
+44. § (1) A költségvetési szerv a számára munkát végző személyek részére a munkabért, illetményt, egyéb juttatást, és az ehhez kapcsolódó adó-, társadalombiztosítási és egyéb, a munkáltatót terhelő fizetési kötelezettségeket a központosított illetményszámfejtés vagy a saját illetményszámfejtése útján végzi.
+
+(2) A kincstár központosított illetményszámfejtést működtet, és ellátja az ehhez kapcsolódó kifizetőhelyi feladatokat. A központosított illetményszámfejtéshez a Kormány rendeletében meghatározott körben kötelező a csatlakozás, ezen túl ahhoz a kincstárral kötött megállapodás alapján, térítési díj ellenében más szervezetek is csatlakozhatnak.
+
+(3) A költségvetési szervek és azon szervek, amelyek illetményszámfejtése a központosított illetményszámfejtés keretében történik, a személyi juttatásokat és egyéb kifizetéseket terhelő, továbbá azokkal összefüggésben felmerülő, az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségüket – a 83. § (1) bekezdése szerint finanszírozott szervek a kincstár útján – a tárgyhónapot követő hónap 20-áig teljesítik.

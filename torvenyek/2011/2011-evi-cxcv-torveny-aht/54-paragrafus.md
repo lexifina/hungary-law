@@ -1,3 +1,3 @@
 ## 37. Költségvetési támogatások ellenőrzése
 
-### 54. §
+54. § A kedvezményezett köteles a költségvetési támogatások lebonyolításában részt vevő és a költségvetési támogatást ellenőrző szervezetekkel együttműködni, az ellenőrzést végző szerv képviselőit ellenőrzési munkájukban a megfelelő dokumentumok, számlák, a megvalósítást igazoló okmányok, bizonylatok rendelkezésre bocsátásával, valamint a fizikai teljesítés vizsgálatában a helyszínen is segíteni. Ha a kedvezményezett az ellenőrzés során felróható magatartásával az ellenőrző szerv munkáját ellehetetleníti, a támogató a támogatói okiratot visszavonhatja, a támogatási szerződéstől elállhat. A támogatói okirat visszavonása, a támogatási szerződéstől való elállás esetén a kedvezményezett az addig igénybe vett költségvetési támogatást köteles visszafizetni.

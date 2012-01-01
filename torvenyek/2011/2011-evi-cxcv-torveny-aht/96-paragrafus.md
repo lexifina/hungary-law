@@ -1,3 +1,5 @@
 ## 65. Kezesség- és garanciavállalás az államháztartás önkormányzati alrendszerében
 
-### 96. §
+96. § (1) A helyi önkormányzat, a nemzetiségi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, valamint a térségi fejlesztési tanács garanciát és kezességet érvényesen kizárólag hitel, kölcsön vagy kötvény visszafizetésére vállalhat, ha a hitel, kölcsön vagy kötvény visszafizetése a kötelezett pénzügyi helyzetére vonatkozó információk alapján, és a rendelkezésre álló fedezetre tekintettel – a kezesség beváltása, garancia érvényesítése és a kezességet, garanciát vállaló általi egyéb többlettámogatás nélkül – kellően biztosított. A nemzetiségi önkormányzat esetén a garancia és kezesség vállalásához a nemzetpolitikáért felelős miniszter előzetes engedélye szükséges.
+
+(2) Jogszabály eltérő rendelkezése hiányában a helyi önkormányzat, a nemzetiségi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, valamint a térségi fejlesztési tanács által vállalt garancia, kezesség feltétele az állami támogatási szabályoknak megfelelő, támogatástartalmat nem, vagy azt az állami támogatási szabályokkal összeegyeztethető módon tartalmazó garanciavállalási vagy kezességvállalási díj kikötése.

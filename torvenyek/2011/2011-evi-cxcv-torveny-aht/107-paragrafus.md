@@ -1,0 +1,5 @@
+## 70. Adatszolgáltatási kötelezettségek
+
+107. § (1) A költségvetési szervek, a központi kezelésű előirányzatok és fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervei, a helyi önkormányzatok, a nemzetiségi önkormányzatok, a többcélú kistérségi társulások, a jogi személyiségű társulások, a térségi fejlesztési tanácsok, valamint a kormányzati szektorba sorolt egyéb szervezetek e törvényben és a Kormány rendeletében meghatározott adatszolgáltatásokat teljesítenek.
+
+(2) A kincstár nyomtatványt, elektronikus űrlapot alkalmazhat, illetve a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter jóváhagyásával rendszeresíthet különösen az (1) bekezdés szerinti adatszolgáltatásra és az e törvény végrehajtására kiadott jogszabályokban meghatározott bejelentések, kérelmek előterjesztésére. A kincstár a nyomtatványokról, elektronikus űrlapokról, elektronikus nyomtatványkitöltő programokról, azok formájáról, tartalmáról, használatának, kitöltésének, benyújtásának módjáról tájékoztatót tesz közzé.

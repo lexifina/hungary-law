@@ -1,3 +1,5 @@
 ## 36. Beszámolás, visszakövetelés
 
-### 53. §
+53. § (1) A kedvezményezettet beszámolási kötelezettség terheli a költségvetési támogatás rendeltetésszerű felhasználásáról. Ha a kedvezményezett a beszámolási kötelezettségének határidőben nem vagy nem megfelelő módon tesz eleget, e kötelezettségének teljesítéséig a költségvetési támogatás folyósítása felfüggesztésre kerül.
+
+(2) A költségvetési támogatások jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása, továbbá a támogatási szerződéstől történő elállás, annak felmondása, a támogatói okirat visszavonása esetén a kedvezményezett a jogosulatlanul igénybe vett költségvetési támogatás összegét – a VII. fejezet szerinti költségvetési támogatások kivételével – a Ptk. szerinti kamattal, késedelem esetén késedelmi kamattal növelt mértékben köteles visszafizetni. Az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezettet kamatfizetési kötelezettség nem terheli. Nem teljesítés esetén a visszafizetendő összeget és annak kamatait az állami adóhatóság megkeresésre adók módjára hajtja be.
