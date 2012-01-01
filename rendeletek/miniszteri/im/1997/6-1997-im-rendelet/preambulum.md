@@ -1,1 +1,0 @@
-A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 342. §-a (2) bekezdésének e) pontjában kapott felhatalmazás alapján a büntetés-végrehajtási szervezet hivatásos állományú tagjainak egyes illetményen kívüli járandóságairól, szociális juttatásairól és támogatásáról a következőket rendelem el:
