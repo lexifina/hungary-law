@@ -15,11 +15,3 @@ e) a Nemzeti Fejlesztési Minisztérium fejezet, 20. cím, 33. alcím, 1. Beruh�
 (3) Felhatalmazást kap a helyi önkormányzat, hogy rendeletében a 68. § (1) bekezdésében meghatározott forgalmi értéktől kisebb értékhatárt határozzon meg.
 
 (4) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy a 76. § szerinti letéti számlán rendelkezésre álló összeg felhasználásának szabályait – az államháztartásért felelős miniszter egyetértésével – rendeletben állapítsa meg.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
