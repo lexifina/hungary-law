@@ -6,7 +6,7 @@ b) a kommunális feladatot ellátó jármű után,
 
 c) a katasztrófa elhárításában, megelőzésében, valamint ezzel összefüggésben a tűzoltásban és a műszaki mentésben alkalmazott, az Országos Katasztrófavédelmi Főigazgatóság által üzemeltetett (ideértve a járműnek és a személyi állománynak a feladatra történő felkészítését is) jármű után,
 
-d) a megengedett össztömeget vagy a megengedett legnagyobb tengelyterhelést legfeljebb 10%-kal meghaladó, a Magyar Köztársaság területén közúti-vasúti vagy közúti-vízi kombinált forgalomban – a kombi terminál vagy belvízi RO-RO kikötő (illetve előre bejelentett alkalmi rakodóhely) és a fel-, illetőleg lerakodás helye között – a közúton legfeljebb 70 kilométer távolságon belül közlekedő járművek után,
+d)[^3] a megengedett össztömeget vagy a megengedett legnagyobb tengelyterhelést legfeljebb 10%-kal meghaladó, Magyarország területén közúti-vasúti vagy közúti-vízi kombinált forgalomban – a kombi terminál vagy belvízi RO-RO kikötő (illetve előre bejelentett alkalmi rakodóhely) és a fel-, illetőleg lerakodás helye között – a közúton legfeljebb 70 kilométer távolságon belül közlekedő járművek után,
 
 e) az út kezelését (üzemeltetését és fenntartását) végző olyan járművek után, amelyek esetében a közútkezelői hozzájárulást igénylő útkezelő azonos a közútkezelői hozzájárulás kiadására jogosult útkezelővel, és
 
@@ -25,3 +25,5 @@ b) helyi közút esetén az illetékes helyi önkormányzat, vagy
 c) közforgalom elől el nem zárt magánút esetén annak tulajdonosa
 
 felmentést adhat.
+
+[^3]: A 7. § (1) bekezdés d) pontja a 91/2011. (XII. 30.) NFM rendelet 71. §-a szerint módosított szöveg.
