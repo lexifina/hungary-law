@@ -1,10 +1,10 @@
 ## V. Fejezet
 
-## A MÁS EGT-ÁLLAMBAN BEJEGYZETT FOGLALKOZTATÓI NYUGDÍJSZOLGÁLTATÓ INTÉZMÉNYEK MŰKÖDÉSE A MAGYAR KÖZTÁRSASÁG TERÜLETÉN
+## A MÁS EGT-ÁLLAMBAN BEJEGYZETT FOGLALKOZTATÓI NYUGDÍJSZOLGÁLTATÓ INTÉZMÉNYEK MŰKÖDÉSE MAGYARORSZÁG TERÜLETÉN
 
-82. § (1) A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény a Magyar Köztársaság területén határon átnyúló szolgáltatásként akkor végezheti tevékenységét, ha a tevékenységére a székhely szerinti államában jogosult és határon átnyúló szolgáltatás nyújtására előzetes engedéllyel rendelkezik.
+82. § (1) A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyarország területén határon átnyúló szolgáltatásként akkor végezheti tevékenységét, ha a tevékenységére a székhely szerinti államában jogosult és határon átnyúló szolgáltatás nyújtására előzetes engedéllyel rendelkezik.
 
-(2) A munkavállalója részére egyéni vagy több munkavállalót érintő megállapodás alapján kiegészítő nyugdíjat biztosítani kívánó foglalkoztató befizetést teljesíthet a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménybe. A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény a Magyar Köztársaság területén lakóhellyel rendelkező tag számára szolgáltatást nyújthat.
+(2) A munkavállalója részére egyéni vagy több munkavállalót érintő megállapodás alapján kiegészítő nyugdíjat biztosítani kívánó foglalkoztató befizetést teljesíthet a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménybe. A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény a Magyarország területén lakóhellyel rendelkező tag számára szolgáltatást nyújthat.
 
 (3) A foglalkoztató csak a magyar munkajog és társadalombiztosítási jog hatálya alá tartozó jogviszony alapján teljesíthet befizetést a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménybe.
 

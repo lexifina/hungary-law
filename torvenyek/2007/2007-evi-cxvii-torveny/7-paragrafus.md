@@ -11,3 +11,5 @@ b) foglalkoztató, illetve több foglalkoztató együttesen, amennyiben vállalj
 (3) A foglalkoztatói nyugdíjszolgáltató intézményben tulajdonrészt (részvényt) csak az szerezhet, aki annak alapítására jogosult.
 
 (4) A foglalkoztatói nyugdíjszolgáltató intézményben tulajdonrésszel (részvénnyel) rendelkező szervezet saját munkavállalói részére nyújtandó nyugdíjkonstrukcióra vonatkozóan a 8. § (2) bekezdés szerinti szerződést köti meg a foglalkoztatói nyugdíjszolgáltató intézménnyel.
+
+(5) A foglalkoztatói nyugdíjszolgáltató intézmény saját munkavállalói részére az általános szabályok szerint nyugdíjkonstrukciót működtethet azzal, hogy a csatlakozásra vonatkozó szerződés kötelező tartalmi elemeit a munkaszerződésnek kell tartalmaznia.

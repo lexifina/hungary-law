@@ -1,6 +1,6 @@
 55. § (1) A foglalkoztató köteles az egyéni vagy több munkavállalót érintő megállapodás alapján vállalt fizetési kötelezettségének a foglalkoztatói nyugdíjszolgáltató intézménnyel történt megállapodás szerinti időpontig, de legalább negyedévente eleget tenni.
 
-(2) A foglalkoztató a foglalkoztatói nyugdíjszolgáltató intézmény felé a hozzájárulások megfizetésének alátámasztására a tárgyhónapra vonatkozó befizetésekről, a tárgyhónapot követő 10. napig adatszolgáltatásra kötelezett.
+(2) A foglalkoztató a hozzájárulások megfizetésének alátámasztására a díjfizetéssel egyidejűleg köteles a foglalkoztatói nyugdíjszolgáltató intézmény részére, az azáltal meghatározott módon és tartalommal adatot szolgáltatni.
 
 (3) Az adatszolgáltatásnak tartalmaznia kell:
 

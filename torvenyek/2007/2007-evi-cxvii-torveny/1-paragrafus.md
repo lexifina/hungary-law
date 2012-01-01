@@ -10,7 +10,7 @@ a) a foglalkoztatói nyugdíjszolgáltató intézmény;
 
 b) az Európai Gazdasági Térség más államában bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény magyarországi fióktelepe;
 
-c) a Magyar Köztársaság területén határon átnyúló szolgáltatás keretében tevékenységet végző, az Európai Gazdasági Térség más államában bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény;
+c) a Magyarország területén határon átnyúló szolgáltatás keretében tevékenységet végző, az Európai Gazdasági Térség más államában bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény;
 
 d) az a)–c) pontban foglalt szervezetek valamelyikébe befizetést teljesítő foglalkoztató;
 

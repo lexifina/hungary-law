@@ -2,9 +2,9 @@
 
 2. § E törvény alkalmazásában
 
-1. adatfeldolgozás: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatfeldolgozási tevékenység;
+1. adatfeldolgozás: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett adatfeldolgozási tevékenység;
 
-2. adatkezelés: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatkezelési tevékenység;
+2. adatkezelés: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett adatkezelési tevékenység;
 
 3. állampapír: a magyar vagy külföldi állam, a Magyar Nemzeti Bank, az Európai Központi Bank vagy az Európai Unió más államának jegybankja által kibocsátott hitelviszonyt megtestesítő értékpapír;
 
@@ -30,7 +30,7 @@
 
 14. foglalkoztatói nyugdíjszolgáltató intézmény: olyan e törvény alapján létrehozott zártkörűen működő részvénytársaság, továbbá valamely más EGT-államban bejegyzett intézmény, amely foglalkoztatótól vagy szakmai szervezettől elkülönítetten működik, és amelynek célja munkaviszonyhoz kapcsolódó nyugellátás biztosítása a foglalkoztatók és a munkavállalók vagy képviselőik között megkötött tagi, illetve több munkavállalót érintő megállapodás alapján, feltéve, hogy az intézmény a megállapodásban foglaltak szerinti tevékenységet folytat;
 
-15. határon átnyúló tevékenység: a Magyar Köztársaság területén székhellyel, telephellyel, fiókteleppel vagy kereskedelmi képviselettel rendelkező foglalkoztató által teljesített befizetés más állam területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény által történő fogadása, valamint a más EGT-állam területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény által a Magyar Köztársaság területén lakóhellyel rendelkező tag számára nyújtott szolgáltatás, valamint más EGT-állam területén székhellyel, telephellyel, fiókteleppel vagy kereskedelmi képviselettel rendelkező foglalkoztató által a Magyar Köztársaság területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézménybe történő befizetés és más EGT-állam területén lakóhellyel rendelkező tag számára a foglalkoztatói nyugdíjszolgáltató intézmény által nyújtott szolgáltatás;
+15. határon átnyúló tevékenység: a Magyarország területén székhellyel, telephellyel, fiókteleppel vagy kereskedelmi képviselettel rendelkező foglalkoztató által teljesített befizetés más állam területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény által történő fogadása, valamint a más EGT-állam területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény által a Magyarország területén lakóhellyel rendelkező tag számára nyújtott szolgáltatás, valamint más EGT-állam területén székhellyel, telephellyel, fiókteleppel vagy kereskedelmi képviselettel rendelkező foglalkoztató által a Magyarország területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézménybe történő befizetés és más EGT-állam területén lakóhellyel rendelkező tag számára a foglalkoztatói nyugdíjszolgáltató intézmény által nyújtott szolgáltatás;
 
 16. járadékos: foglalkoztatói nyugdíjszolgáltatást igénybevevő tag a foglalkoztatói nyugdíjszolgáltatás megállapításának időpontjától, valamint a kedvezményezett és a hozzátartozó a jogosultság hatálybalépésétől;
 
@@ -54,7 +54,7 @@
 
 a) az az életkor, melyet a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény az öregségi nyugdíjra való jogosultság feltételeként meghatároz,
 
-b) a nyugdíjkorhatár betöltésével esik egy tekintet alá az az időpont, amelytől a tag társadalombiztosítási nyugellátásban, így öregségi nyugdíjban (ideértve a korengedményes nyugdíjat, a bányásznyugdíjat, az egyes művészeti tevékenységet folytatók öregségi nyugdíját, a Magyar Alkotóművészeti Közalapítvány által nyújtott öregségi nyugdíjat, valamint a szolgálati nyugdíjat is), a rokkantsági és baleseti rokkantsági nyugdíjban (ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott rendszeres rokkantsági segélyt is), továbbá növelt összegű öregségi és munkaképtelenségi járadékban részesül,
+b) az az időpont, amelytől a tag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
 
 c) határon átnyúló tevékenység esetében a foglalkoztató székhelye szerinti állam irányadó szociális és munkajoga alapján a tagra irányadó öregségi nyugdíjkorhatár;
 

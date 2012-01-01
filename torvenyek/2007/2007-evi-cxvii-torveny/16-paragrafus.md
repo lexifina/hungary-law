@@ -14,7 +14,7 @@
 
 (7) Ha a könyvvizsgáló tudomást szerez arról, hogy a foglalkoztatói nyugdíjszolgáltató intézmény vagyonának, illetőleg fedezeti vagy a nyugdíjtechnikai tartalékának jelentős csökkenése várható, köteles erről a felügyelőbizottságot és a foglalkoztatói nyugdíjszolgáltató intézmény igazgatóságát tájékoztatni, továbbá a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlésének összehívását kezdeményezni, és az intézkedéseket és azok okát a Felügyeletnek bejelenteni.
 
-(8) Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlését az igazgatóság – a könyvvizsgáló (7) bekezdésben foglalt tájékoztatásának tudomásra jutásától számított nyolc napon belül – nem hívja össze, arra a könyvvizsgáló jogosult. Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlése nem hozza meg a szükséges döntéseket, a könyvvizsgáló köteles értesíteni a Felügyeletet és a cégjegyzéket vezető megyei (fővárosi) bíróságot (a továbbiakban: bíróság).
+(8) Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlését az igazgatóság – a könyvvizsgáló (7) bekezdésben foglalt tájékoztatásának tudomásra jutásától számított nyolc napon belül – nem hívja össze, arra a könyvvizsgáló jogosult. Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlése nem hozza meg a szükséges döntéseket, a könyvvizsgáló köteles értesíteni a Felügyeletet és a cégjegyzéket vezető törvényszéket (a továbbiakban: bíróság).
 
 (9) Ha a Magyar Könyvvizsgálói Kamara a biztosítói, pénztári vagy befektetési vállalkozási minősítésű könyvvizsgáló társaságot, könyvvizsgálót törli nyilvántartásából, erről egyidejűleg értesíti a Felügyeletet.
 
