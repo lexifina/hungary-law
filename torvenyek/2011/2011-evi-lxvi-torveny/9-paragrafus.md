@@ -16,4 +16,4 @@
 
 (8) Az Állami Számvevőszék elnökének minden naptári évben negyven munkanap szabadság jár.
 
-(9) Az Állami Számvevőszék elnökét az Országgyűlés tizenkét évre választja meg.
+(9)

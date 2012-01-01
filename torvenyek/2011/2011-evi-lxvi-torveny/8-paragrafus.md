@@ -2,7 +2,7 @@
 
 ## AZ ÁLLAMI SZÁMVEVŐSZÉK SZEMÉLYI ÁLLOMÁNYA
 
-8. § (1) Az Állami Számvevőszék személyi állománya elnökből, alelnökökből, vezetőkből, számvevőkből, legalább középfokú végzettségű köztisztviselőkből, ügykezelőkből és a Munka Törvénykönyve hatálya alá tartozó munkavállalókból áll.
+8. § (1) Az Állami Számvevőszék személyi állománya elnökből, egy alelnökből, vezetőkből, számvevőkből, legalább középfokú végzettségű köztisztviselőkből, ügykezelőkből és a Munka Törvénykönyve hatálya alá tartozó munkavállalókból áll.
 
 (2) Az Állami Számvevőszék szervezetét az Állami Számvevőszék elnöke által kiadott Szervezeti és Működési Szabályzat tartalmazza.
 

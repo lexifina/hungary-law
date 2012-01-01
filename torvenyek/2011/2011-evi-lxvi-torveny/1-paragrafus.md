@@ -4,7 +4,7 @@
 
 ## Az Állami Számvevőszék jogállása és hatásköre
 
-1. § (1) Az Állami Számvevőszék az Országgyűlés legfőbb pénzügyi és gazdasági ellenőrző szerve, amely az Országgyűlésnek alárendelve látja el feladatát. Az Állami Számvevőszék jogállását és hatáskörét az Alkotmány és e törvény határozza meg.
+1. § (1) Az Állami Számvevőszék az Országgyűlés legfőbb pénzügyi és gazdasági ellenőrző szerve, amely az Országgyűlésnek alárendelve látja el feladatát. Az Állami Számvevőszék jogállását és hatáskörét az Alaptörvény és e törvény határozza meg.
 
 (2) Az Állami Számvevőszék ellenőrzési tevékenysége során minden más szervezettől független.
 

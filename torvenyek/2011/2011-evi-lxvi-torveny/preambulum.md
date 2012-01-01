@@ -1,1 +1,1 @@
-Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint az állami és önkormányzati vagyon kezelésének, védelmének és hasznosításának ellenőrzése érdekében a következő törvényt alkotja:
+Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint a nemzeti vagyon kezelésének, védelmének és hasznosításának ellenőrzése érdekében az Alaptörvény végrehajtására, az Alaptörvény 43. cikk (4) bekezdése alapján a következő törvényt alkotja:
