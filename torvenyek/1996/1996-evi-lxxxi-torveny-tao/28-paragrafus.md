@@ -4,7 +4,7 @@
 
 ## VI. Fejezet
 
-28. § (1) A belföldi illetőségű adózó és a külföldi vállalkozó adózás előtti eredményét növeli a külföldön fizetett (fizetendő), társasági adónak megfelelő adó ráfordításként elszámolt összege.
+28. § (1)
 
 (2) A belföldi illetőségű adózó és a külföldi vállalkozó a társasági adó megállapításakor az adóalapot úgy módosítja, hogy az ne tartalmazza a külföldön adóztatható jövedelmet, ha nemzetközi szerződés így rendelkezik.
 
@@ -14,4 +14,4 @@
 
 (5) A (3) bekezdés szerinti összeget a jövedelem jogcíme szerint és forrásállamonként külön-külön kell meghatározni. Az egyes jövedelmek alapján levont adó nem haladhatja meg a külföldön fizetett (fizetendő), illetve a nemzetközi szerződés alapján külföldön érvényesíthető adó közül a kisebb összeget, nemzetközi szerződés hiányában a jövedelemre külföldön megfizetett (fizetendő) adó ráfordításként elszámolt összegének 90 százalékát, de minden esetben legfeljebb az adott jövedelemre az átlagos adókulcs szerint kiszámított adót. Az átlagos adókulcs az adókedvezményekkel csökkentett társasági adó, osztva az adóalappal; e hányadost két tizedesre kerekítve kell meghatározni.
 
-(6) Az (1)–(5) bekezdés alkalmazásában társasági adónak megfelelő adónak minősül a kapott osztalék alapján külföldön fizetett (fizetendő) adó is.
+(6) A (2)–(5) bekezdés alkalmazásában társasági adónak megfelelő adónak minősül a kapott osztalék alapján külföldön fizetett (fizetendő) adó is.

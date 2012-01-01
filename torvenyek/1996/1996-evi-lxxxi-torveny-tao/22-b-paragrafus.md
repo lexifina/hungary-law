@@ -30,13 +30,13 @@ j) jelenértéken legalább 500 millió forint értékű, kis- és középválla
 
 üzembe helyezése és a kormányrendeletben foglaltak szerinti üzemeltetése esetén, feltéve, hogy a beruházás új létesítmény létrehozatalát, meglévő létesítmény bővítését vagy – az alapkutatást, alkalmazott kutatást vagy kísérleti fejlesztést szolgáló beruházást kivéve – az előállított termék, a nyújtott szolgáltatás, illetve a termelési, szolgáltatási folyamat alapvető változását eredményezi.
 
-(2) Az adókedvezményt az adózó e törvény és a kormányrendelet előírásai alapján maga állapítja meg. A kormányrendeletben meghatározott időtartam alatt összevonandó, jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó – kormányrendeletben meghatározott – elszámolható költség esetén az adózó az adókedvezményt a miniszterhez benyújtott kérelemre hozott határozat alapján veheti igénybe.
+(2) Az adókedvezményt az adózó e törvény és a kormányrendelet előírásai alapján maga állapítja meg. A kormányrendeletben meghatározott időtartam alatt összevonandó, jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó – kormányrendeletben meghatározott – elszámolható költség esetén az adózó az adókedvezményt a Kormány engedélye alapján, az engedélyben meghatározott feltételek szerint veheti igénybe. A Kormány az adókedvezményt az adózó kérelmére, a kérelemben bemutatott fejlesztési program alapján engedélyezi, ha a fejlesztési program és a kérelem megfelel az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott valamennyi feltételnek.
 
 (3) Az adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás megkezdése előtt
 
 a) a miniszternek bejelenti a kormányrendeletben meghatározott valamennyi adatot,
 
-b) az adókedvezmény iránti kérelmet a kormányrendeletben meghatározott tartalommal és formában benyújtja a miniszterhez, ha az adókedvezmény a miniszter határozata alapján vehető igénybe.
+b) az adókedvezmény iránti kérelmet a kormányrendeletben meghatározott tartalommal és formában benyújtja a miniszterhez, ha az adókedvezmény a Kormány engedélye alapján vehető igénybe.
 
 (4) A (3) bekezdés a) pontjában előírt bejelentés késedelmes teljesítése esetén igazolási kérelem előterjesztésének nincs helye, továbbá a beruházás megkezdését követően a bejelentés nem egészíthető ki, illetve nem módosítható.
 
@@ -44,15 +44,15 @@ b) az adókedvezmény iránti kérelmet a kormányrendeletben meghatározott tar
 
 (6) Az adózó az adókedvezményt a beruházás üzembe helyezését követő adóévben – vagy döntése szerint a beruházás üzembe helyezésének adóévében – és az azt követő kilenc adóévben, legfeljebb a bejelentés, illetve a kérelem benyújtásának adóévét követő tizennegyedik adóévben veheti igénybe.
 
-(7) Az adózó által igénybe vett adókedvezmény, valamint a kormányrendeletben meghatározott más állami támogatás együttes összege jelenértéken nem haladhatja meg a bejelentett, engedély esetén a határozatban megállapított, de legfeljebb jelenértéken a ténylegesen felmerült, elszámolható költség összegére vetített, a kormányrendeletben meghatározott aránnyal számított értéket.
+(7) Az adózó által igénybe vett adókedvezmény, valamint a kormányrendeletben meghatározott más állami támogatás együttes összege jelenértéken nem haladhatja meg a bejelentett, engedély esetén a megállapított, de legfeljebb jelenértéken a ténylegesen felmerült, elszámolható költség összegére vetített, a kormányrendeletben meghatározott aránnyal számított értéket.
 
 (8) Az (1) bekezdés d) pontja szerinti önálló környezetvédelmi beruházás esetén az adókedvezmény igénybevételének feltétele, hogy az adózó adókötelezettsége a kérelem, a bejelentés benyújtása évét megelőző ötödik évben vagy korábban kezdődött. Önálló környezetvédelmi beruházás az a beruházás, amely kizárólag a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 1. §-a (2) bekezdésének a)–c) pontja szerinti célt szolgál.
 
 (9) Az (1) bekezdés a)–b) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
 
-a) az adózó által foglalkoztatottak átlagos állományi létszáma legalább 150 fővel, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább 75 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
+a) az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) legalább 150 fővel, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább 75 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
 
-b) az adózónál elszámolt, évesített bérköltség legalább az adóév első napján érvényes minimálbér adóévre számított összegének hatszázszorosával, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább háromszázszorosával meghaladja a beruházás megkezdését megelőző adóév évesített vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő bérköltségét.
+b) az adózónál elszámolt, évesített bérköltség (a külföldi telephelyen foglalkoztatottak bérköltségének figyelmen kívül hagyásával) legalább az adóév első napján érvényes minimálbér adóévre számított összegének hatszázszorosával, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább háromszázszorosával meghaladja a beruházás megkezdését megelőző adóév évesített vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő bérköltségét.
 
 (10) Kizárólag film- és videogyártást szolgáló beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adózó a beruházás üzembe helyezését követő öt évben az üzembe helyezett tárgyi eszköz igénybevételével nem állít elő olyan filmet, amelyet a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény 9. §-a alapján a VI. kategóriába kellene sorolni.
 
@@ -78,12 +78,12 @@ b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az ad
 
 (15) A kormányrendelet az e törvényben foglaltakon kívüli feltételeket is megállapíthat, vagy rendelkezhet az adókedvezmény igénybevételének tilalmáról.
 
-(16) Az adózó nem jogosult a (7) bekezdés szerinti adókedvezményre, és a már igénybe vett adókedvezmény jogosulatlanul igénybe vett támogatásnak minősül, ha az e törvényben, a kormányrendeletben, illetve a határozatban meghatározott bármely feltételt nem teljesíti. Nem kell e rendelkezést alkalmazni, ha a feltétel teljesítését elháríthatatlan külső ok akadályozta meg.
+(16) Az adózó nem jogosult a (7) bekezdés szerinti adókedvezményre, és a már igénybe vett adókedvezmény jogosulatlanul igénybe vett támogatásnak minősül, ha az e törvényben, a kormányrendeletben, illetve az engedélyben meghatározott bármely feltételt nem teljesíti. Nem kell e rendelkezést alkalmazni, ha a feltétel teljesítését elháríthatatlan külső ok akadályozta meg.
 
 (17) Az adózó a kormányrendeletben meghatározott adatokat társasági adóbevallásában beruházásonként feltünteti.
 
 (18) Az adóhatóság a rendelkezésére álló valamennyi adatról adózónként és beruházásonként haladéktalanul tájékoztatja a kincstárt, amely a kapott adatok felhasználásával, megkeresésre – törvénnyel kihirdetett nemzetközi szerződésben előírt tájékoztatási kötelezettség teljesítése érdekében – a miniszter részére adatot szolgáltat. A kincstár által a tájékoztatás révén megszerzett adatra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-(19) Ha a miniszter határozatban engedélyezi az adókedvezményt, azt a feladatkörükben érintett miniszterek véleményét figyelembe véve hozza meg. Az engedély kiadása előtt – ha szükséges – megkéri az Európai Bizottság hozzájárulását. A határozatot a kérelem benyújtását, hiánypótlási felhívás esetén a hiánypótlást követő 60 napon belül kell meghozni, a határidő egy alkalommal, legfeljebb 60 nappal meghosszabbítható.
+(19) Az adózó a (2) bekezdés alkalmazása esetén az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlást követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 60 nappal meghosszabbítható. A kérelem előterjesztését megelőzően az adópolitikáért felelős miniszter – ha szükséges – megkéri az Európai Bizottság hozzájárulását. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelemnek a Kormány elé terjesztését.
 
 (20) Az e § alapján folyó valamennyi eljárás tekintetében a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályai nem alkalmazhatók.

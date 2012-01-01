@@ -14,9 +14,9 @@
 
 (8)
 
-(9) Az adózó az adóévben az alapkutatás, az alkalmazott kutatás vagy a kísérleti fejlesztés közvetlen költségei között, továbbá a szoftverfejlesztő alkalmazására tekintettel elszámolt bérköltség 10 százalékának megfelelő összegű adókedvezményt vehet igénybe, amelyet az adóévben és az azt követő három adóévben, egyenlő részletekben érvényesíthet, azzal, hogy a megelőző adóév(ek)ben – adó hiányában – nem érvényesített adókedvezmény az említett időszakon belül igénybe vehető. Az adókedvezmény igénybevétele független attól, hogy az adózó az alapkutatás, az alkalmazott kutatás vagy a kísérleti fejlesztés közvetlen költségeivel csökkentette adózás előtti eredményét az adóalap megállapításakor.
+(9)
 
-(10) Az adóév utolsó napján kis- és középvállalkozásnak minősülő adózó – a (9) bekezdésben foglalt adókedvezmény mellett – a szoftverfejlesztő alkalmazására tekintettel elszámolt bérköltség 15 százalékának megfelelő összegű adókedvezményt vehet igénybe az adóévben és az azt követő három adóévben, egyenlő részletekben, azzal, hogy a megelőző adóév(ek)ben – adó hiányában – nem érvényesített adókedvezmény az említett időszakon belül igénybe vehető. Az adókedvezmény az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül. Az adókedvezmény igénybevétele független attól, hogy az adózó az alapkutatás, az alkalmazott kutatás vagy a kísérleti fejlesztés közvetlen költségeivel csökkentette adózás előtti eredményét az adóalap megállapításakor.
+(10)
 
 (11)–(13)
 

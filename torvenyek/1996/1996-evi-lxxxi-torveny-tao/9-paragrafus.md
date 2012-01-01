@@ -26,7 +26,7 @@ bb) a közhasznú szervezet a (7) bekezdésben előírt aránnyal számított r�
 
 (4) A (2) és (3) bekezdésben foglaltakat figyelembe véve kell alkalmazni a 16., a 18. és a 28. §-ok,valamint a VII. fejezet rendelkezéseit.
 
-(5) Az egyház az adóalap megállapításakor a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével is csökkentheti a vállalkozási tevékenység adózás előtti eredményét, amelyet az adóévben, az adóévet követő adóévben kulturális, nevelési, oktatási, felsőoktatási, szociális és egészségügyi, gyermek- és ifjúságvédelmi, sport, tudományos és műemlékvédelmi tevékenység, továbbá a hitéleti célú ingatlanfenntartás bevételt meghaladó költsége, ráfordítása fedezetére használ fel.
+(5) Az egyház az adóalap megállapításakor a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével is csökkentheti a vállalkozási tevékenység adózás előtti eredményét, amelyet kulturális, nevelési, oktatási, felsőoktatási, szociális és egészségügyi, gyermek- és ifjúságvédelmi, sport, tudományos és műemlékvédelmi tevékenység, továbbá a hitéleti célú ingatlanfenntartás bevételt meghaladó költsége, ráfordítása fedezetére használ fel, továbbá az e célból lekötött tartalékba helyezett összeggel.
 
 (6) A közhasznú szervezetként besorolt alapítvány, közalapítvány, egyesület, köztestület és felsőoktatási intézmény adóalapja az (1)–(4) bekezdés alapján meghatározott összegnek a (7) bekezdésben előírt aránnyal számított része.
 
@@ -34,12 +34,6 @@ bb) a közhasznú szervezet a (7) bekezdésben előírt aránnyal számított r�
 
 (8) Az országos érdek-képviseleti szervezet az adóalapot az (1)–(7) bekezdések szerint, a közhasznú szervezetre vonatkozó rendelkezések megfelelő alkalmazásával állapítja meg.
 
-(9) Az egyház:
-
-a) vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével határozza meg;
-
-b) az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg;
-
-c) jogi személyiséggel felruházott szervezeti egysége az adóalapot a b) pont szerint, vagy – ha vállalkozási tevékenységének meghatározásakor élt az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvényben biztosított választási lehetőséggel – az (1)–(5) bekezdésben foglaltak szerint állapítja meg.
+(9) Az egyház vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével határozza meg,
 
 (10) Az európai területi együttműködési csoportosulás az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.

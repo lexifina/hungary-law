@@ -28,11 +28,15 @@ g) a kizárólag alapkutatáshoz, alkalmazott kutatáshoz vagy kísérleti fejle
 
 h) a közúti személyszállításhoz használt járműveknél.
 
+5/a. Az adózó választhat a mellékletben meghatározott értékcsökkenési leírási kulcsoknál alacsonyabb leírási kulcsokat, azonban az így érvényesített értékcsökkenés nem lehet kevesebb, mint a számvitelről szóló törvény szerint elszámolt terv szerinti értékcsökkenés.
+
 6. Az 1995. december 31-e után az adózó vagy jogelődje által üzembe helyezett, más által korábban még használatba nem vett, a HR 8401, 8405–8408, 8410–8430, 8432–8447, 8449–8465, 8467, 8468, 8474–8485, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504–8507, 8511–8513, 8530, 8531, 8535–8537, 8539, 8543–8548, 9006, 9405 vtsz.-ok alá tartozó villamos készülékek, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető.
 
 7. A bérbeadó eszközei között kimutatott, bérbe adott épület, építmény és ültetvény esetében 5 százalék, minden egyéb bérbe adott tárgyi eszköz után 30 százalék értékcsökkenési leírást érvényesíthet a bérbeadó.
 
 7/a. A teljes adóévben a szálláshely szolgáltatás és vendéglátás ágba sorolt adózó a tárgyi eszközei között kimutatott és e tevékenységet közvetlenül szolgáló, hosszú élettartamú szerkezetű épület után 3 százalék értékcsökkenési leírást érvényesíthet.
+
+7/b. Az adózó a munkavállalói számára bérlakás céljából épített (a tárgyi eszközei között kimutatott) és e tevékenységet közvetlenül szolgáló hosszú élettartamú szerkezetű épület után 6 százalék értékcsökkenési leírást érvényesíthet.
 
 8. Az adózó az általános rendeltetésű számítástechnikai gépek, berendezések (HR 8471 vtsz.-ből) esetében 50 százalék értékcsökkenési leírást érvényesíthet.
 
@@ -56,7 +60,7 @@ d) az a)–c) alpontban nem említett szellemi termékre, tárgyi eszközre (ide
 
 12. Az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírásnak kell tekinteni a felszámolási eljárás alatt elszámolt értékcsökkenést, továbbá a tárgyi eszköz beszerzése, előállítása alapján a 7. § (15) bekezdése vagy a 29/D. § (1) bekezdése szerint felhasznált (feloldott) fejlesztési tartalék összegét azzal, hogy az értékcsökkenési leírás az adóév első napjától, illetve a tárgyi eszköz üzembe helyezésének napjától folytatható.
 
-13. A számvitelről szóló 2000. évi C. törvény 3. § (5) bekezdésének 1. c) pontja alapján nyilvántartásba vett üzleti vagy cégérték bekerülési értékének – a nyilvántartásba vételt követő, az adózó részvételével történő egyesülés esetén – az egyesülés napjáig elszámolt terv szerinti értékcsökkenéssel csökkentett összegét az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírásnak kell tekinteni, ha az egyesülés során a megvásárolt társaság az eszközeit nem értékeli át piaci értékre.
+13.
 
 14. Az adóév utolsó napján kis- és középvállalkozásnak minősülő adózó a korábban még használatba nem vett, a műszaki gépek, berendezések és a – személygépkocsi kivételével – a járművek között nyilvántartott tárgyi eszköz üzembe helyezése adóévében a bekerülési érték 100 százalékának megfelelő értékcsökkenési leírást érvényesíthet, amennyiben a tárgyi eszközt a jogszabályban megnevezett leghátrányosabb térségek, települések valamelyikében helyezi üzembe. A tárgyi eszköz adózás előtti eredmény csökkentéseként figyelembe vett bekerülési értékének 1 százaléka, jármű esetében 3 százaléka az állami támogatásokra vonatkozó rendelkezések alkalmazásában, ha a beruházás elsődleges mezőgazdasági termelést szolgál, az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásra történő alkalmazásáról szóló 1857/2006/EK rendelet 4. cikkében foglalt támogatásként vehető igénybe, minden más esetben az adózó választása szerint
 

@@ -2,9 +2,9 @@
 
 16. § (1) Az adózó
 
-a) a 7. § (1) bekezdésének f) pontjában foglaltakat nem alkalmazhatja a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévben és a végelszámolás időszaka alatt, vagy – ha végelszámolás, felszámolás nélkül szűnik meg jogutód nélkül – utolsó adóévében;
+a) a 7. § (1) bekezdésének c) és f) pontjában foglaltakat nem alkalmazhatja a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévben és a végelszámolás időszaka alatt, vagy – ha végelszámolás, felszámolás nélkül szűnik meg jogutód nélkül – utolsó adóévében;
 
-b) a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévet (ha végelszámolás, felszámolás nélkül szűnik meg jogutód nélkül, az utolsó adóévét) megelőzően lekötött fejlesztési tartaléknak az említett adóév utolsó napjáig beruházásra fel nem használt része után a 19. § (1) bekezdésének a lekötés adóévében hatályos rendelkezése szerint előírt mértékkel az adót, valamint azzal összefüggésben a késedelmi pótlékot megállapítja, és azokat 30 napon belül megfizeti. A késedelmi pótlékot a kedvezmény érvényesítését tartalmazó adóbevallás benyújtása esedékességének napját követő naptól a felhasználásra rendelkezésre álló időpontig kell felszámítani és a megállapított adóval együtt az említett napot követő első társaságiadó-bevallásban kell bevallani;
+b) a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévet (ha végelszámolás, felszámolás nélkül szűnik meg jogutód nélkül, az utolsó adóévét) megelőzően lekötött fejlesztési tartaléknak, valamint a 7. § (1) bekezdés c) pontja szerinti tartaléknak az említett adóév utolsó napjáig fel nem használt része után a 19. § (1) bekezdésének a lekötés adóévében hatályos rendelkezése szerint előírt mértékkel az adót, valamint azzal összefüggésben a késedelmi pótlékot megállapítja, és azokat 30 napon belül megfizeti. A késedelmi pótlékot a kedvezmény érvényesítését tartalmazó adóbevallás benyújtása esedékességének napját követő naptól a felhasználásra rendelkezésre álló időpontig kell felszámítani és a megállapított adóval együtt az említett napot követő első társaságiadó-bevallásban kell bevallani;
 
 c) jogutód nélküli megszűnésekor
 

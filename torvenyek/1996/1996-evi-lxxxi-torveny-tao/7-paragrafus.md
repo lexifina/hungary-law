@@ -6,7 +6,7 @@ a) a korábbi adóévek elhatárolt veszteségéből – a 17. §-ban és a VII.
 
 b) a kettős könyvvitelt vezető adózónál a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék (kivéve a Diákhitel Központ Részvénytársaság által kormányrendeletben előírt feltételeknek megfelelően képzett céltartalék) felhasználása miatt az adóévben bevételként elszámolt összeg,
 
-c)
+c) a jogdíjbevételre jogosító immateriális jószág (a bejelentett immateriális jószág kivételével) értékesítéséből, nem pénzbeli vagyoni hozzájárulásként történő kivezetéséből származó eredménynek (az elszámolt bevételnek az elszámolt ráfordítást meghaladó része) az eredménytartalékból az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, figyelemmel a (16) bekezdésben foglaltakra,
 
 cs) a terven felüli értékcsökkenés adóévben visszaírt összege, kivéve az 1. számú melléklet 10. pontja szerint az adóalapnál érvényesített, vagy az 1. számú melléklet 10/a. pontja szerint az adóalapnál érvényesíthető terven felüli értékcsökkenés adóévben visszaírt összegét;
 
@@ -20,7 +20,7 @@ a) döntése szerint, a fedezeti ügylettel nem fedezett, külföldi pénzérté
 
 b) az eszköznek (kivéve a bejelentett részesedést) a befektetett pénzügyi eszközök közül történő kikerülésekor (ideértve az értékvesztés elszámolását is), a kötelezettségnek a hosszú lejáratú kötelezettségek közül történő kikerülésekor a megelőző adóévekben a 8. § (1) bekezdés dzs) pontja a) alpontja alapján adózás előtti eredmény növeléseként elszámolt összeggel, részbeni kikerülése esetén a külföldi pénzértékben kimutatott könyv szerinti érték csökkenésének a megelőző adóév utolsó napján kimutatott könyv szerinti értékkel arányosan számított összeggel, azzal, hogy e rendelkezést valamennyi olyan értékelt eszközre, kötelezettségre alkalmazni kell, amelyeknek az árfolyam különbözetét bevételként el kell számolni,
 
-e)
+e) a bejelentett immateriális jószág értékesítése, nem pénzbeli vagyoni hozzájárulásként történő kivezetése következtében az elszámolt bevételnek az elszámolt ráfordítást meghaladó része, feltéve, hogy az adózó (ideértve a jogelődjét is) az immateriális jószágot az értékesítést (kivezetést) megelőzően legalább egy éven át folyamatosan eszközei között tartotta nyilván,
 
 f) az eredménytartaléknak az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, de legfeljebb az adóévi adózás előtti nyereség 50 százaléka és legfeljebb adóévenként 500 millió forint (a továbbiakban: fejlesztési tartalék), figyelemmel a (15) bekezdésben foglaltakra,
 
@@ -46,7 +46,7 @@ k)–l)
 
 ly)
 
-m) a visszavásárolt saját üzletrész, saját részvény, saját átalakított befektetői részjegy bevonása következtében elszámolt bevételnek a visszavásárolt saját üzletrész, saját részvény, saját átalakított befektetői részjegy bekerülési értékét meghaladó része,
+m)
 
 n) a követelésre az adóévben visszaírt értékvesztés, a követelés bekerülési értékéből a behajthatatlanná vált rész, valamint a követelés átruházásakor, kiegyenlítésekor, beszámításakor elszámolt bevétel, de legfeljebb a nyilvántartott értékvesztés; e rendelkezést a hitelintézet és a pénzügyi vállalkozás a pénzügyi szolgáltatásból, befektetési szolgáltatási tevékenységből származó követelésre, befektetési vállalkozás a befektetési szolgáltatási tevékenységből származó követelésre nem alkalmazza,
 
@@ -78,11 +78,11 @@ x)
 
 y) az adóév első napján mikrovállalkozásnak minősülő adózónál – döntése szerint – a (19)–(20) bekezdésben foglaltakat is figyelembe véve a foglalkoztatottak átlagos állományi létszáma előző adóévhez, az adózó átalakulása esetén a jogelőd utolsó adóévéhez, előző adóév hiányában nullához viszonyított növekményének és az adóév első napján érvényes havi minimálbér adóévre számított összegének szorzata, feltéve, hogy az adózó foglalkoztatottainak átlagos állományi létszáma a megelőző adóévben legfeljebb 5 fő és az adózónak az adóév utolsó napján nincs az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása,
 
-z) a kiemelkedően közhasznú besorolással rendelkező szervezetnek vagy közhasznú, kiemelkedően közhasznú besorolással rendelkező közhasznú szervezettel kötött tartós adományozási szerződés keretében, a közhasznú szervezetekről szóló törvényben nevesített közhasznú tevékenység, a kiemelkedően közhasznú besorolást megalapozó közfeladat támogatására, vagy a Magyar Kármentő Alapnak az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének
+z) a közhasznú szervezetnek, a közhasznú szervezettel kötött tartós adományozási szerződés keretében, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység támogatására, vagy a Magyar Kármentő Alapnak, illetve a Nemzeti Kulturális Alapnak az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének
 
-1. 50 százaléka kiemelkedően közhasznú szervezet és a Magyar Kármentő Alap támogatása esetén,
+1. 20 százaléka közhasznú szervezet, 50 százaléka a Magyar Kármentő Alap és a Nemzeti Kulturális Alap támogatása esetén,
 
-2. 20 százaléka tartós adományozási szerződés esetén,
+2. további 20 százaléka tartós adományozási szerződés esetén,
 
 de együttesen legfeljebb az adózás előtti eredmény összege,
 
@@ -106,7 +106,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 (6)
 
-(7) Az (1) bekezdés z) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményt, ha rendelkezik a közhasznú szervezet, a kiemelten közhasznú szervezet vagy a Magyar Kármentő Alap által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, a támogatás, juttatás összegét, célját, továbbá közhasznú szervezet, kiemelkedően közhasznú szervezet esetében a közhasznúsági fokozatot.
+(7) Az (1) bekezdés z) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményt, ha rendelkezik a közhasznú szervezet, a Magyar Kármentő Alap vagy a Nemzeti Kulturális Alap által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, a támogatás, juttatás összegét, célját.
 
 (8)
 
@@ -132,11 +132,11 @@ b) a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkoz
 
 (13)
 
-(14) Az adózó az (1) bekezdés s) pontjában foglaltakat, választása szerint alkalmazza. Az adózó által az adózás előtti eredmény csökkentéseként az említett rendelkezések alapján együttesen elszámolt összeg nem haladhatja meg az adózás előtti nyereség 50 százalékát.
+(14) Az adózó az (1) bekezdés s) pontjában foglaltakat, választása szerint alkalmazza. Az adózó által az adózás előtti eredmény csökkentéseként elszámolt összeg nem haladhatja meg az adózás előtti nyereség 50 százalékát.
 
 (15) Az adózó az (1) bekezdés f) pontja szerinti fejlesztési tartalékot nem használhatja fel a nem pénzbeli vagyoni hozzájárulásként, a térítés nélkül átvett eszköz címen, valamint az olyan tárgyi eszközzel kapcsolatban elszámolt beruházásra, amely tárgyi eszközre nem számolható el vagy nem szabad elszámolni terv szerinti értékcsökkenést, kivéve a műemlék, illetve a helyi egyedi védelem alatt álló épületet, építményt. Az adózó a fejlesztési tartalékot a lekötése adóévét követő négy adóévben megvalósított beruházás bekerülési értékének megfelelően oldhatja fel, kivéve, ha a feloldott rész után a 19. § (1) bekezdésének a lekötés adóévében hatályos rendelkezése szerint előírt mértékkel az adót, valamint azzal összefüggésben a késedelmi pótlékot megállapítja, és azokat a feloldást követő 30 napon belül megfizeti. Az adózó a fejlesztési tartaléknak a lekötése adóévét követő negyedik adóév végéig beruházásra fel nem használt része után az említett mértékkel az adót, valamint azzal összefüggésben a késedelmi pótlékot a negyedik adóévet követő adóév első hónapja utolsó napjáig megállapítja, és megfizeti. A késedelmi pótlékot a kedvezmény érvényesítését tartalmazó adóbevallás benyújtása esedékességének napját követő naptól a nem beruházási célra történő feloldás napjáig, illetve a felhasználásra rendelkezésre álló időpontig kell felszámítani és a megállapított adóval együtt az említett napot követő első társaságiadó-bevallásban kell bevallani.
 
-(16)
+(16) Az adózó az (1) bekezdés c) pontja szerinti összeget a lekötése adóévét követő három adóévben jogdíjbevételre jogosító immateriális jószág szerzésére oldhatja fel, kivéve, ha a feloldott rész után a 19. § (1) bekezdésének a lekötés adóévében hatályos rendelkezései szerint előírt mértékkel az adót, valamint azzal összefüggésben a késedelmi pótlékot megállapítja, és azokat a feloldást követő 30 napon belül megfizeti. Az adózó a lekötött tartalékba átvezetett összeget a lekötés adóévét követő harmadik adóév végéig jogdíjbevételre jogosító immateriális jószág szerzésére fel nem használt része után az említett mértékkel az adót, valamint azzal összefüggésben a késedelmi pótlékot a harmadik adóévet követő adóév első hónapja utolsó napjáig megállapítja, és megfizeti. A késedelmi pótlékot a kedvezmény érvényesítését tartalmazó adóbevallás benyújtása esedékességének napját követő naptól a nem elismert feloldás napjáig, illetve a felhasználásra rendelkezésre álló időpontig kell felszámítani és a megállapított adóval együtt az említett napot követő első társaságiadó-bevallásban kell bevallani.
 
 (17) A felsőoktatási intézmény, a Magyar Tudományos Akadémia, továbbá bármelyikük által vagy közösen alapított kutatóintézet, kutatóhely (ideértve az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes államnak a megfelelő szervezetét is) és az adózó által írásban kötött szerződés alapján közösen végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés esetén az adózó az (1) bekezdés t) pontjában foglaltak alkalmazásakor az ott meghatározott összeg háromszorosát, legfeljebb 50 millió forintot vehet figyelembe, amelynek a 19. § (1) bekezdése szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.
 

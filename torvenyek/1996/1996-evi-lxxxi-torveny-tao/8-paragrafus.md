@@ -32,11 +32,11 @@ h) a behajthatatlan követelésnek nem minősülő, adóévben elengedett követ
 
 i)
 
-j) az (5) bekezdés a) pontja szerinti kötelezettség (kivéve a pénzügyi intézménnyel szemben fennálló kötelezettséget) – az adóévben ráfordításként, vagy eszköz bekerülési értéke részeként elszámolt – kamatának az (5) bekezdés b) pontja szerinti saját tőke háromszorosát meghaladó kötelezettségrészre jutó arányos része,
+j) az (5) bekezdés a) pontja szerinti kötelezettség (kivéve a pénzügyi intézménnyel szemben fennálló kötelezettséget) – az adóévben ráfordításként, eszköz bekerülési értéke részeként elszámolt – kamatának és az (5) bekezdés a) pontja szerinti kötelezettség (kivéve a pénzügyi intézménnyel szemben fennálló kötelezettséget) alapján a 18. § (1) bekezdés a) pontja alapján az adózás előtti eredmény csökkentéseként figyelembe vett összegének az (5) bekezdés b) pontja szerinti saját tőke háromszorosát meghaladó kötelezettségrészre jutó arányos része,
 
-k)
+k) a termőföldből átminősített ingatlanvagyont tulajdonában tartó társaság tagjánál azon összeg kétszerese, amellyel a részesedés értékesítéséből származó árfolyamnyereség (a részesedés egyéb jogcímen történő kivezetése esetén a ráfordítást meghaladóan elszámolt bevétel összege) meghaladja a részesedés tulajdonban tartásának időszakára kiszámított szokásos eredményt,
 
-l)
+l) a termőföldből átminősített ingatlan értékesítése, vagy más módon a könyvekből való kivezetése következtében elszámolt jövedelem (az elszámolt bevétel és a könyv szerinti érték, valamint a beruházási számlán kimutatott összeg különbözete) azon részének a kétszerese, amellyel az elszámolt jövedelem meghaladja a termőföldből átminősített ingatlan tulajdonban tartásának időszakára kiszámított szokásos eredményt,
 
 m) az adózónál
 
@@ -44,7 +44,7 @@ a) az ellenőrzött külföldi társaságban lévő részesedésre az adóévben
 
 b) a bejelentett részesedéshez kapcsolódó, az adóévben ráfordításként elszámolt értékvesztés, árfolyamveszteség, a részesedés bármely jogcímen történő kivezetése (ide nem értve az átalakulás miatti elszámolást) következtében elszámolt ráfordításnak az elszámolt bevételt meghaladó része,
 
-n)
+n) a bejelentett immateriális jószág bármely jogcímen történő kivezetése (ide nem értve az átalakulás miatti elszámolást) következtében az elszámolt ráfordításnak az elszámolt bevételt meghaladó része,
 
 o) a forintról devizára, devizáról forintra, vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 
@@ -70,7 +70,13 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 v) a (6) bekezdésben, valamint a 7. § (19) bekezdésében foglaltakra is figyelemmel az átlagos állományi létszám előző adóévhez viszonyított csökkenése és a megelőző adóév első napján érvényes havi minimálbér adóévre számított összege szorzatának 20 százalékkal növelt összege, de legfeljebb a 7. § (1) bekezdés y) pontja alapján igénybevett kedvezmény 20 százalékkal növelt összege, azzal, hogy nem kell az igénybevett kedvezmény összegébe beszámítani a foglalkoztatottak átlagos állományi létszámának csökkenését megelőző negyedik adóévben vagy azt megelőzően az adózás előtti eredmény csökkentéseként figyelembe vett összeget.
 
-(2)
+(2) Az (1) bekezdés k) és l) pontjának alkalmazásában szokásos eredménynek
+
+a) részesedés átruházása, kivezetése esetén a részesedés bekerülési értéke 0,3 százalékának a tulajdonban tartás naptári napjaival megszorzott összegét,
+
+b) termőföldből átminősített ingatlan átruházása, kivezetése esetében az ingatlan bekerülési értéke (a beruházási számlán kimutatott összeggel növelt együttes értéke) 0,3 százalékának a tulajdonban tartás naptári napjaival megszorzott összegét
+
+kell tekinteni, azzal, hogy részesedés átruházása (kivezetése) esetén a régebben szerzett részesedés átruházását kell feltételezni.
 
 (3)
 
@@ -78,7 +84,7 @@ v) a (6) bekezdésben, valamint a 7. § (19) bekezdésében foglaltakra is figye
 
 (5) Az (1) bekezdés j) pontjának alkalmazásában
 
-a) kötelezettség a kapott kölcsön, a zárt körben forgalomba hozott hitelviszonyt megtestesítő értékpapír miatt fennálló tartozás és a váltótartozás (kivéve a szállítói tartozás kiegyenlítése miatt fennálló váltótartozást), valamint minden más, a mérlegben kimutatott kölcsönnek, hitelviszonyt megtestesítő értékpapírnak, illetve váltótartozásnak nem minősülő kötelezettség, amelyre az adózó az eredménye terhére kamatot fizet (kivéve a hitelintézetnél és a pénzügyi vállalkozásnál a pénzügyi szolgáltatási tevékenységgel kapcsolatban, annak érdekében fennálló tartozást), adóévi napi átlagos állománya;
+a) kötelezettség a kapott kölcsön, a zárt körben forgalomba hozott hitelviszonyt megtestesítő értékpapír miatt fennálló tartozás és a váltótartozás (kivéve a szállítói tartozás kiegyenlítése miatt fennálló váltótartozást), valamint minden más, a mérlegben kimutatott kölcsönnek, hitelviszonyt megtestesítő értékpapírnak, illetve váltótartozásnak nem minősülő kötelezettség, amelyre az adózó az eredménye terhére kamatot fizet, vagy amelyre tekintettel az adózás előtti eredményét a 18. § szerint csökkenti (kivéve a hitelintézetnél és a pénzügyi vállalkozásnál a pénzügyi szolgáltatási tevékenységgel kapcsolatban, annak érdekében fennálló tartozást), adóévi napi átlagos állománya, amely csökkenthető a mérlegben a befektetett pénzügyi eszközök között, a követelések között vagy az értékpapírok között kimutatott pénzkövetelés adóévi napi átlagos állományának összegével,
 
 b) saját tőke a jegyzett tőke, a tőketartalék, az eredménytartalék és a lekötött tartalék (ezeknek megfelelő saját forrás) adóévi napi átlagos állománya.
 

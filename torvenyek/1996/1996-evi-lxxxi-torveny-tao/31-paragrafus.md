@@ -20,7 +20,7 @@ a) a jövedelem- és vagyonadókra vonatkozó modellegyezmény;
 
 b) a nemzetközi vállalkozások és az adóhatóságok részére készült, a kapcsolt vállalkozások közötti árak módosítására vonatkozó iránymutatás;
 
-c) Frascati Kézikönyv – Javaslat a kutatás és kísérleti fejlesztés felméréseinek egységes gyakorlatára.
+c)
 
 (3) E törvény a következő uniós jogi aktus végrehajtásához szükséges rendelkezéseket állapítja meg: Iránymutatás a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásokról (2006/C 54/08), valamint az N 651/2006 számú Állami Támogatás – Magyarország.
 

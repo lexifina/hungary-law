@@ -24,17 +24,19 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 8. az a költség, ráfordítás, amely a Büntető Törvénykönyvben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyásolással üzérkedés nemzetközi kapcsolatokban bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel;
 
-9. az a költség, ráfordítás, amely ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha az adózó bizonyítja, hogy a költség, a ráfordítás vállalkozási tevékenységét szolgálja, figyelemmel a 13. pontban foglaltakra is;
+9. az a költség, ráfordítás, amely ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha az adózó bizonyítja, hogy a költség, a ráfordítás vállalkozási tevékenységét szolgálja, figyelemmel a 13. pontban foglaltakra is. Az adózó a bizonyítási kötelezettsége körében szerződésenként külön nyilvántartás (azonos tárgyú szerződések esetében összevont nyilvántartás) készítésére kötelezett, amely tartalmazza az ügyletben részt vevő vállalkozások nevét, székhelyét, adószámát (vagy annak megfelelő azonosítót, ezek hiányában cégjegyzékszámát vagy nyilvántartási számát), a cégjegyzéket (nyilvántartását) vezető bíróság (hatóság) megnevezését és székhelyét, a szerződés tárgyát (tárgyait), megkötésének és módosításának időpontját, a szerződés időbeli hatályát, a teljesítés módját, feltételeit, a nyilvántartás elkészítésének időpontját, a költség, ráfordítás elszámolását megalapozó okokat;
 
 10. A bíróság előtt nem érvényesíthető, továbbá az elévült követelés miatt elszámolt ráfordítás.
 
 11. A gazdasági társaságokról szóló törvényben előírt saját tőke jegyzett tőke arány, vagy a veszteség fedezetét szolgáló tőkeemelés révén szerzett tulajdoni részesedésre elszámolt értékvesztés.
 
-12. a személyi jövedelemadóról szóló törvényben meghatározott reprezentáció, üzleti ajándék címen személyi jellegű egyéb kifizetésként elszámolt juttatás.
+12.
 
-13. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében az eredménye a juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, amelyet a beszámolója elkészítését követően azzal igazol.
+13. az adózó által (a közhasznú szervezet kivételével) az adóévben nem adomány céljából visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében az eredmény e a juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, amelyet a beszámoló elkészítését követően nyilatkozat útján igazol;
 
 14. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére az adózó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
+
+15. a kutatás-fejlesztési tevékenység közvetlen költsége, ha az adózó vállalkozási, bevételszerző tevékenységéhez nem kapcsolódik.
 
 B)
 
@@ -48,7 +50,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 2. az adózó által üzletpolitikai (reklám) célból, magánszemélynek azonos feltételekkel és módon, nyilvános körülmények között adott kedvezmény, árengedmény, visszatérítés, termék, szolgáltatás révén nyújtott, a személyi jövedelemadóról szóló törvény szerinti juttatás, továbbá a termék megismertetése, forgalmának növelése céljából adott, a személyi jövedelemadóról szóló törvény szerinti áruminta;
 
-3. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, saját jogú nyugdíjas [Tbj. 4. § f) pont], valamint az említett magánszemélyek közeli hozzátartozója részére a személyi jövedelemadóról szóló törvényben meghatározott reprezentáció és üzleti ajándék címen elszámolt juttatás kivételével személyi jellegű egyéb kifizetésként elszámolt összeg, és az ahhoz kapcsolódó, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetés, figyelemmel az 1., 2., 8. és 12. pontban foglaltakra;
+3. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, saját jogú nyugdíjas [Tbj. 4. § f) pont], valamint az említett magánszemélyek közeli hozzátartozója részére személyi jellegű egyéb kifizetésként elszámolt összeg, és az ahhoz kapcsolódó, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetés, figyelemmel az 1., 2., 8. és 12. pontban foglaltakra;
 
 4. az előzetesen felszámított, de az általános forgalmi adóról szóló törvény szerint le nem vonható általános forgalmi adó, feltéve, hogy a vállalkozás érdekében felmerült költséghez, ráfordításhoz kapcsolódik;
 
@@ -73,3 +75,11 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 14. A kifizető által viselt képzés (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is) költsége.
 
 15. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha az adóévben visszafizetési kötelezettség nélkül adott támogatásra, juttatásra a 4. § 36., 38. vagy 44–45. pontja alapján került sor.
+
+16. a személyi jövedelemadóról szóló törvényben meghatározott reprezentáció, üzleti ajándék címen személyi jellegű egyéb kifizetésként elszámolt juttatás;
+
+17. az adóévben adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy az adózó rendelkezik a közhasznú szervezet, az egyház, a közérdekű kötelezettségvállalás szervezője által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt.
+
+18. az adóévben az adózó által átvállalt kamarai tagsághoz kapcsolódó tagdíj összege, feltéve, hogy az kötelező kamarai tagsághoz kapcsolódódik;
+
+19. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy annak átadása, nyújtása jogszabályon alapul.

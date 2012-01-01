@@ -1,10 +1,10 @@
 29/D. § (1)–(2)
 
-(3) Ha az adózó a 21. § (7), (10)–(11) bekezdése, a 29. § (5) bekezdés d) pontja vagy az 1999. évi CXXV. törvény 93. §-a szerinti adókedvezményre jogosító beruházást megkezdte, akkor 2002. december 31-ig – 2002. december 1-jét követően megkezdett beruházás esetén a beruházás megkezdését követő 45 napon belül – bejelenti a miniszternek a beruházáshoz kapcsolódó, az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott adatokat. E bejelentési kötelezettség elmulasztása esetére – a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény végrehajtása érdekében – törvény az adókedvezmény igénybevételét érintő, nem eljárási jogkövetkezményt is megállapíthat.
+(3) Ha az adózó a 21. § (7), (10)–(11) bekezdése, a 29. § (5) bekezdés d) pontja vagy az 1999. évi CXXV. törvény 93. §-a szerinti adókedvezményre jogosító beruházást megkezdte, akkor 2002. december 31-ig – 2002. december 1-jét követően megkezdett beruházás esetén a beruházás megkezdését követő 45 napon belül – bejelenti a miniszternek a beruházáshoz kapcsolódó, az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott adatokat. E bejelentési kötelezettség elmulasztása esetére – a 2003. évi uniós csatlakozási szerződést kihirdető törvény végrehajtása érdekében – törvény az adókedvezmény igénybevételét érintő, nem eljárási jogkövetkezményt is megállapíthat.
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben meghatározza a (3) bekezdés szerinti bejelentési kötelezettség teljesítésének részletes szabályait.
 
-(5) A 21. § (7), (10)–(11) bekezdése, a 29. § (5) bekezdés d) pontja vagy az 1999. évi CXXV. törvény 93. §-a alapján a 2003-ban kezdődő adóévre érvényesített adókedvezményre törvény – a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény végrehajtása érdekében – az említett rendelkezésektől eltérő szabályt állapíthat meg.
+(5) A 21. § (7), (10)–(11) bekezdése, a 29. § (5) bekezdés d) pontja vagy az 1999. évi CXXV. törvény 93. §-a alapján a 2003-ban kezdődő adóévre érvényesített adókedvezményre törvény – a 2003. évi uniós csatlakozási szerződést kihirdető törvény végrehajtása érdekében – az említett rendelkezésektől eltérő szabályt állapíthat meg.
 
 (6)
 
