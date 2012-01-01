@@ -1,0 +1,1 @@
+A Kormány a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 80. § j) és l) pontjában kapott felhatalmazás alapján az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
