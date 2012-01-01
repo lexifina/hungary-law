@@ -68,7 +68,7 @@
 
 | állampolgársága: | hatósági záradékkal ellátott meghívólevél száma: |
 
-| Harmadik országbeli állampolgár esetén: bevándorolt, letelepedett, a Magyar Köztársaság által menekültként elismert, tartózkodási vízummal vagy tartózkodási engedéllyel rendelkező személy. (A megfelelő részt kérjük aláhúzni!) | hatósági igazolvány száma, érvényességi ideje: |
+| Harmadik országbeli állampolgár esetén: bevándorolt, letelepedett, Magyarország által menekültként elismert, tartózkodási vízummal vagy tartózkodási engedéllyel rendelkező személy. (A megfelelő részt kérjük aláhúzni!) | hatósági igazolvány száma, érvényességi ideje: |
 
 | 6. Magyarországi jogi személy meghívó adatai |
 
@@ -236,6 +236,6 @@
 
 | Az elutasítás indoka (röviden): |
 
-18. melléklet a 25/2007. (V. 31.) IRM rendelethez[^52]
+18. melléklet a 25/2007. (V. 31.) IRM rendelethez[^54]
 
-[^52]: A 18. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (14) bekezdésével megállapított szöveg.
+[^54]: A 18. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (14) bekezdésével megállapított szöveg.

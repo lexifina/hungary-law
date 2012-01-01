@@ -1,10 +1,10 @@
-| Magyar Köztársaság République de Hongrie / Republic of Hungary |  | Sorszám: Numéro/Number |
+| Magyarország La Hongrie / Hungary |  | Sorszám: Numéro/Number |
 
 ## Meghívólevél hatósági záradékolása iránti kérelem/ une demande pour clause
 
 ## officielle de la lettre d’invitation / Request for official endorsement of the invitation letter
 
-## 0M30340_1
+## 1M40933P_1
 
 | Alulírott / Je, soussigné(e) / I, the undersigned |
 
@@ -52,7 +52,7 @@
 
 | részére 20.. .. .. -től 20.. .. .. -ig terjedő időszakban ... napra / du...au... pendant ...jours/ from .. to... for ... days |
 
-| a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § alapján a meghívott harmadik országbeli állampolgár részére – a Magyar Köztársaság területén történő tartózkodása időtartamára – szállást biztosítok, eltartásáról gondoskodom, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezem. |
+| a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § alapján a meghívott harmadik országbeli állampolgár részére – a Magyarország területén történő tartózkodása időtartamára – szállást biztosítok, eltartásáról gondoskodom, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezem. |
 
 | And providing him/her with financial support, the expenses of medical care (unless otherwise provided by an international agreement) and the expenses of leaving the country, as prescribed by section 2 of Act II of 2007 on the Admission and Right of Residence of Third-Country Nationals on the entry and stay of foreigners. |
 
@@ -98,6 +98,6 @@
 
 |  | Aláírás vagy cégszerű aláírás/ Signature / Signature” |
 
-9. melléklet a 25/2007. (V. 31.) IRM rendelethez[^43]
+9. melléklet a 25/2007. (V. 31.) IRM rendelethez[^45]
 
-[^43]: A 9. mellékletet a 12/2010. (IV. 2.) IRM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^45]: A 9. mellékletet a 12/2010. (IV. 2.) IRM rendelet 3. § (2) bekezdése hatályon kívül helyezte.

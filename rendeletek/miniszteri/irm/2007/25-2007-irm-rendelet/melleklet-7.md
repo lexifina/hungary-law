@@ -90,7 +90,7 @@
 
 ## 8. a kiállító hatóság aláírása, bélyegzője;
 
-## 9. a Magyar Köztársaság címere;
+## 9. Magyarország címere;
 
 ## 10. géppel olvasható terület.
 
@@ -122,9 +122,9 @@
 
 ## 10. hátoldalon kiegészítő információ: csak érvényes személyi igazolvánnyal vagy úti okmánnyal (harmadik ország állampolgárságával rendelkező családtag esetén úti okmánnyal) együtt érvényes.
 
-7. melléklet a 25/2007. (V. 31.) IRM rendelethez
+7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^43]
 
-## 7M04623_0
+## 1M40933O_0
 
 |  | BEVÁNDORLÁSI ÉS ÁLLAMPOLGÁRSÁGI HIVATAL |  |
 
@@ -157,3 +157,5 @@ I. Alulírott
 ## eltartására magyarországi tartózkodása idejére kötelezettséget vállalok.
 
 II. Alulírott
+
+[^43]: A 7. melléklet a 68/2011. (XII. 30.) BM rendelet 24. § b) pontja szerint módosított szöveg.

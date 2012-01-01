@@ -1,4 +1,4 @@
-20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^53]
+20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^55]
 
 Letelepedési kérelem
 
@@ -858,4 +858,4 @@ A kérelmező külföldi 14 év alatti gyermeke, aki vele együtt kérelmezi a l
 
 | A/3. Utóneve(i): | ______________________________ |
 
-[^53]: A 20. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (15) bekezdésével megállapított szöveg.
+[^55]: A 20. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (15) bekezdésével megállapított szöveg.
