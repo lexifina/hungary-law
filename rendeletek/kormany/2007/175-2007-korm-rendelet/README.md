@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-175-20-
 | 2011-01-01 | 2007-175-20-22.8 | 282/2010. (XII. 15.) Korm. rendelet |
 | 2011-07-19 | 2007-175-20-22.9 | 264/2009. (XI. 27.) Korm. rendelet |
 | 2011-12-28 | 2007-175-20-22.10 | 318/2011. (XII. 27.) Korm. rendelet |
+| 2012-01-01 | 2007-175-20-22.11 | 318/2011. (XII. 27.) Korm. rendelet |

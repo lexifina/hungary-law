@@ -1,10 +1,10 @@
 ## 6. § A nem az Egészségbiztosítási Alap terhére igénybe vehető vizsgálatok estében a saját jogú igényjogosultak a részükre szolgálati érdekből – így különösen a különleges feladatellátáshoz, misszióba tervezéshez, kötelező felülvizsgálathoz – előírt ellátás tekintetében a nem saját jogú igényjogosultakkal szemben előnyben részesíthetők azzal, hogy az igényjogosultak ilyen ellátásának sorrendje nem befolyásolja az Egészségbiztosítási Alap terhére, intézményi várólista alapján igénybe vehető ellátások rendjét.
 
-## AZ MH HONVÉDKÓRHÁZBAN IGÉNYBE VEHETŐ SPECIÁLIS EGÉSZSÉGÜGYI ELLÁTÁS[^17]
+## AZ MH HONVÉDKÓRHÁZBAN IGÉNYBE VEHETŐ SPECIÁLIS EGÉSZSÉGÜGYI ELLÁTÁS[^24]
 
-7. § (1)[^18] A rendvédelem területén nyújtott speciális egészségügyi tevékenységet az MH Honvédkórház látja el, kivéve, ha azt e rendelet vagy jogszabály a rendvédelmi szerv feladatkörébe utalja.
+7. § (1)[^25] A rendvédelem területén nyújtott speciális egészségügyi tevékenységet az MH Honvédkórház látja el, kivéve, ha azt e rendelet vagy jogszabály a rendvédelmi szerv feladatkörébe utalja.
 
-(2)[^19] A honvédelem és a rendvédelem terén ellátandó speciális állami feladatok különösen:
+(2)[^26] A honvédelem és a rendvédelem terén ellátandó speciális állami feladatok különösen:
 
 a) egészségügyi kiképzés, szakképzés;
 
@@ -58,12 +58,12 @@ i) a hivatásos állomány tagjai erőnléti állapotának felmérését
 
 ## kell érteni.
 
-(4)[^20] A rendvédelem területén a megváltozott egészségi állapotú hivatásos állományúak szolgálati alkalmasságát a rendvédelmi szerveket irányító miniszter által kijelölt szakorvosi bizottságok bírálják el.
+(4)[^27] A rendvédelem területén a megváltozott egészségi állapotú hivatásos állományúak szolgálati alkalmasságát a rendvédelmi szerveket irányító miniszter által kijelölt szakorvosi bizottságok bírálják el.
 
-(5)[^21] Az MH Honvédkórház a saját jogú igényjogosultak munkáltatójának megkeresése alapján szakmai alkalmassági vizsgálatot végez. A szakmai alkalmassági vizsgálat költségeit az azt előíró az MH Honvédkórháznak külön megállapodás alapján megtéríti.
+(5)[^28] Az MH Honvédkórház a saját jogú igényjogosultak munkáltatójának megkeresése alapján szakmai alkalmassági vizsgálatot végez. A szakmai alkalmassági vizsgálat költségeit az azt előíró az MH Honvédkórháznak külön megállapodás alapján megtéríti.
 
-[^17]: A 7. §-t megelőző alcím a 318/2011. (XII. 27.) Korm. rendelet 7. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^18]: A 7. § (1) beekzdése a 318/2011. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^19]: A 7. § (2) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^20]: A 7. § (4) bekezdése e rendelet 10. § (2) bekezdése alapján hatályát vesztette 2008. január 1. napjával, újonnan a 236/2009. (X. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 318/2011. (XII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^21]: A 7. § (5) bekezdése a 318/2011. (XII. 27.) Korm. rendelet 7. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^24]: A 7. §-t megelőző alcím a 318/2011. (XII. 27.) Korm. rendelet 7. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^25]: A 7. § (1) beekzdése a 318/2011. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^26]: A 7. § (2) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^27]: A 7. § (4) bekezdése e rendelet 10. § (2) bekezdése alapján hatályát vesztette 2008. január 1. napjával, újonnan a 236/2009. (X. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 318/2011. (XII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^28]: A 7. § (5) bekezdése a 318/2011. (XII. 27.) Korm. rendelet 7. § (1) bekezdés g) pontja szerint módosított szöveg.
