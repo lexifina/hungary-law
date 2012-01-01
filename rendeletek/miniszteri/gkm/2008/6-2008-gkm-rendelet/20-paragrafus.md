@@ -1,6 +1,6 @@
 ## A támogatás igénybevételének további szabályai
 
-20. §[^14] (1) Az innovációs tanácsadó szolgáltatásokhoz és az innovációs támogató szolgáltatásokhoz nyújtott támogatás esetében a következő feltételeknek kell teljesülniük:
+20. §[^15] (1) Az innovációs tanácsadó szolgáltatásokhoz és az innovációs támogató szolgáltatásokhoz nyújtott támogatás esetében a következő feltételeknek kell teljesülniük:
 
 a) e támogatás kizárólag KKV-knak nyújtható,
 
@@ -16,4 +16,4 @@ b) a kedvezményezetteknek a támogatást a szolgáltatások piaci áron – ha 
 
 (6) Innovációs klaszternek nyújtott beruházási támogatásban kutatóközpontok, képző intézmények, nyílt hozzáférésű kutatási infrastruktúrák (laboratóriumok, tesztelési létesítmények), szélessávú hálózati infrastruktúrák részesülhetnek.
 
-[^14]: A 20. § e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
+[^15]: A 20. § e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.

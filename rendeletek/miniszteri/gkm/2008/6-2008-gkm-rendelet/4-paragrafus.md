@@ -76,9 +76,10 @@
 
 37. veszteségfeltáró vizsgálatok támogatása.
 
-(2) A rendelet hatálya alá tartozó előirányzatok az (1) bekezdésben meghatározott jogcímeken túl jogszabályban vagy a Kormány határozatában meghatározott egyes gazdaságstratégiai és egyéb célok végrehajtása érdekében is felhasználhatók a Magyar Köztársaság nemzetközi kötelezettségeivel, az állami támogatásokra vonatkozó közösségi szabályokkal és az Áht. előírásaival összhangban.
+(2)[^7] A rendelet hatálya alá tartozó előirányzatok az (1) bekezdésben meghatározott jogcímeken túl jogszabályban vagy a Kormány határozatában meghatározott egyes gazdaságstratégiai és egyéb célok végrehajtása érdekében is felhasználhatók Magyarország nemzetközi kötelezettségeivel, az állami támogatásokra vonatkozó közösségi szabályokkal és az Áht. előírásaival összhangban.
 
 [^3]: A 4. § (1) bekezdésének 8. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
 [^4]: A 4. § (1) bekezdésének 20. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
 [^5]: A 4. § (1) bekezdésének 21. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
 [^6]: A 4. § (1) bekezdésének 22. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
+[^7]: A 4. § (2) bekezdése a 91/2011. (XII. 30.) NFM rendelet 58. §-a szerint módosított szöveg.
