@@ -1,4 +1,4 @@
-## 20. §[^7]
+## 20. §[^8]
 
 21. § (1) A Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendelet (a továbbiakban: R.) 19. § (5) bekezdésében a „27. § (4) bekezdésében” szövegrész helyett a „27. § (3) bekezdésében” szöveg lép hatályba.
 
@@ -12,4 +12,4 @@
 
 (6) Az R. 54. § (2) bekezdésének első mondata a következő szöveggel lép hatályba: „A sokszorosításra átadott eredeti adathordozón nem kerül feltüntetésre a 39. § (3) bekezdés f) pontja szerinti adat.”
 
-[^7]: A 20. § ugyanezen § (5) bekezdése alapján hatályát vesztette.
+[^8]: A 20. § ugyanezen § (5) bekezdése alapján hatályát vesztette.

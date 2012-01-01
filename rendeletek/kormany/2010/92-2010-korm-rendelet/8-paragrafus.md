@@ -10,4 +10,6 @@ tartalmazza.
 
 (2) Az (1) bekezdésben meghatározott adatokat az NBF a telephely biztonsági tanúsítvány visszavonását követő 5 évig kezeli, ezt követően a nyilvántartásából törli.
 
-(3) Az NBF a kiállított telephely biztonsági tanúsítvány kiállításának vagy visszavonásának tényét közli a nemzetbiztonsági szolgálattal, valamint NATO minősített adatok kezelésére jogosító telephely biztonsági tanúsítvány esetén a honvédelemért felelős miniszterrel is.
+(3)[^4] Az NBF a telephely biztonsági tanúsítvány kiállításának vagy visszavonásának tényét közli az Alkotmányvédelmi Hivatallal, továbbá a cégellenőrzést végző nemzetbiztonsági szolgálattal, ha a cégellenőrzést nem az Alkotmányvédelmi Hivatal végezte, valamint NATO minősített adatok kezelésére jogosító telephely biztonsági tanúsítvány esetén a honvédelemért felelős miniszterrel is.
+
+[^4]: A 8. § (3) bekezdése a 218/2011. (X. 19.) Korm. rendelet 82. § (2) bekezdésével megállapított szöveg.
