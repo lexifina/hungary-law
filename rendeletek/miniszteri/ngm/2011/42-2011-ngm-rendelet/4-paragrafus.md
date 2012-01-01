@@ -4,7 +4,9 @@
 
 Melléklet a 42/2011. (XII. 2.) NGM rendelethez
 
-1/a. Budapest Főváros Kormányhivatala Munkaügyi Központ
+1/a.[^4]
+
+1/b. Budapest Főváros Kormányhivatala Munkaügyi Központ
 
 1.1. Székhelye: 1082 Budapest, VIII. kerület, Kisfaludy u. 11.
 
@@ -16,13 +18,13 @@ Melléklet a 42/2011. (XII. 2.) NGM rendelethez
 
 1.3.2. Kassai utcai Kirendeltség (IV., XIV., XV.)
 
-1.3.3. Katona József utcai Kirendeltség (V., VI., XIII.)
+1.3.3. Katona József utcai Kirendeltség (VI., XIII.)
 
-1.3.4. Baross utcai Kirendeltség (VII., VIII., IX.)
+1.3.4. Baross utcai Kirendeltség (V., VII., VIII..)
 
 1.3.5. Vívó utcai Kirendeltség (X., XVI., XVII.)
 
-1.3.6. Bartók Béla úti Kirendeltség 132. (XI., XII., XXII.)
+1.3.6. Ráday utcai Kirendeltség (IX., XI., XII., XXII.)
 
 1.3.7. Darus utcai Kirendeltség (XVIII., XIX.)
 
@@ -31,10 +33,6 @@ Melléklet a 42/2011. (XII. 2.) NGM rendelethez
 1.3.9. Mansfeld Péter utcai Kirendeltség (XXI.)
 
 1.3.10. Haller utcai Kirendeltség (Főváros területén élő hajléktalan álláskeresők ügyeinek intézése)
-
-1.3.11. Pályakezdő és Diplomás Álláskeresők Kirendeltség (Ráday utcai Kirendeltség)
-
-1/b.[^4]
 
 2. Pest Megye Kormányhivatal Munkaügyi Központja
 
@@ -6849,4 +6847,4 @@ Várfölde
 Zajk
 
 [^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A melléklet 1/b. pontja a 2. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^4]: A melléklet 1/a. pontját a 2. § (4) bekezdése hatályon kívül helyezte.
