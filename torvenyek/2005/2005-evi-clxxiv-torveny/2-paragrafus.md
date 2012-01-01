@@ -2,11 +2,11 @@
 
 2. § E törvény alkalmazásában
 
-1. életkezdési támogatás: a gyermeket 18. életévének betöltése napján e törvény alapján a Magyar Köztársaság törvényes fizetőeszközében megillető összeg;
+1. életkezdési támogatás: a gyermeket 18. életévének betöltése napján e törvény alapján Magyarország törvényes fizetőeszközében megillető összeg;
 
 2. fiatal felnőtt: a 18. életévének betöltése napját követően a 3. pontban említett személy;
 
-3. gyermek: a Magyar Köztársaság területén lakóhellyel rendelkező magyar állampolgár a 18. életévének betöltése napjáig;
+3. gyermek: Magyarország területén lakóhellyel rendelkező magyar állampolgár a 18. életévének betöltése napjáig;
 
 4. kiutaló: a kincstár;
 

@@ -18,6 +18,6 @@ b) a 6. § (2) bekezdése szerinti esetben a szülő által adott felhatalmazás
 
 (5) A számlavezetőre, a számlavezető által végzett szolgáltatásokra a tőkepiacról szóló törvény, illetőleg a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(6) A kiutaló is vezethet Start-számlát az államháztartásról szóló 1992. évi XXXVIII. törvény. 18/B. §-a (1) bekezdésének s) pontja szerinti tevékenységi körben.
+(6) A kiutaló is vezethet Start-számlát.
 
 (7) A „Start-számla” elnevezést, e fogalom jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét csak az e törvény szerinti feltételeknek megfelelő számlavezető használhatja az életkezdési támogatás kezelésére az e törvény szerinti feltételek és befektetési szabályok szerint.
