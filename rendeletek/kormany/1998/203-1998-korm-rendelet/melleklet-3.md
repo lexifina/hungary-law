@@ -54,7 +54,7 @@ A bányafelügyeleti hatósági feladatokat ellátó személyek részére biztos
 
 2. A bányafelügyelet köztisztviselői hatósági feladataik ellátása során hivatalos eljárásuk igazolása céljából kötelesek a jelvényt ruházatukon viselni, vagy azt igazolásul felmutatni.
 
-3.[^229] A jelvény leírása: 40 x 45 mm átmérőjű, ovális alakú, ezüstszínű fémjelvény, melyen jobbról és balról félkör alakban futó csertölgy ágak felül nyitott szárai között középen elhelyezett, színesre zománcozott Magyar Köztársaság címer, a félkörívek középpontjában a bányászjelvény (kalapács és ék, egymást keresztező nyelekkel), alul „BÁNYAFELÜGYELET” felirat helyezkedik el.
+3.[^229] A jelvény leírása: 40 x 45 mm átmérőjű, ovális alakú, ezüstszínű fémjelvény, melyen jobbról és balról félkör alakban futó csertölgy ágak felül nyitott szárai között középen elhelyezett, színesre zománcozott Magyarország címer, a félkörívek középpontjában a bányászjelvény (kalapács és ék, egymást keresztező nyelekkel), alul „BÁNYAFELÜGYELET” felirat helyezkedik el.
 
 4.[^230] Az MBFH a bányafelügyeleti szolgálati igazolvánnyal, valamint jelvénnyel ellátott, hatósági feladatokat végző személyekről a 2. számú függelékben foglalt minta alapján nyilvántartást vezet.
 
@@ -68,5 +68,5 @@ A bányafelügyeleti hatósági feladatokat ellátó személyek részére biztos
 [^226]: A Vhr. 2. számú mellékletének II/4–5. pontját a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^227]: A Vhr. 3. számú mellékletét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (1) bekezdése iktatta a szövegbe.
 [^228]: A Vhr. 3. számú mellékletének 1. pontja a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^229]: A Vhr. 3. számú mellékletének 3. pontja a 145/2006. (VII. 11.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2006. augusztus 26. napját követően indult ügyekben kell alkalmazni.
+[^229]: A Vhr. 3. számú mellékletének 3. pontja a 145/2006. (VII. 11.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 304/2011. (XII. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^230]: A Vhr. 3. számú mellékletének 4. pontja a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.

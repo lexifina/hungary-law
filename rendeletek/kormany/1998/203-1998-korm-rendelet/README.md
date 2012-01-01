@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-203-20-
 | 2011-01-01 | 1998-203-20-22.25 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2011-03-23 | 1998-203-20-22.26 | 57/2008. (III. 26.) Korm. rendelet |
 | 2011-12-09 | 1998-203-20-22.27 | 251/2011. (XII. 1.) Korm. rendelet |
+| 2012-01-01 | 1998-203-20-22.28 | 145/2006. (VII. 11.) Korm. rendelet |
