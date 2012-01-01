@@ -8,6 +8,6 @@ b) szakhatóságként a Kormány által rendeletben kijelölt hatóság, ennek h
 
 (2) Kiemelt jelentőségű ügyben a fellebbezés elbírálására jogosult
 
-a) az (1) bekezdés a) pontja alkalmazásával első fokon eljáró hatóság felett felügyeleti jogkört gyakorló miniszter, illetőleg a Kormány által rendeletben kijelölt hatóság,
+a) az (1) bekezdés a) pontja alkalmazásával első fokon eljáró hatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság,
 
-b) szakhatóságként az (1) bekezdés b) pontja alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló miniszter, illetőleg a Kormány által rendeletben kijelölt hatóság.
+b) szakhatóságként az (1) bekezdés b) pontja alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság.
