@@ -6,6 +6,8 @@ a) a magyar hajólajstromban nyilvántartott tengeri hajók üzemben tartóira �
 
 b) száraz ömlesztett áru rakodására szolgáló hajózási létesítmények üzemben tartóira,
 
-c) idegen lobogó alatt közlekedő és a Magyar Köztársaság területén száraz ömlesztett árut rakodó tengeri hajók üzemben tartóira és parancsnokaira, és
+c)[^1] idegen lobogó alatt közlekedő és Magyarország területén száraz ömlesztett árut rakodó tengeri hajók üzemben tartóira és parancsnokaira, és
 
 d) a hajózási hatóságokra
+
+[^1]: Az 1. § c) pontja a 91/2011. (XII. 30.) NFM rendelet 36. §-a szerint módosított szöveg.

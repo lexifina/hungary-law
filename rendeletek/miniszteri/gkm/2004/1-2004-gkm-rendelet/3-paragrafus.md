@@ -4,13 +4,13 @@
 
 ## 3. § E rendelet alkalmazásában
 
-a) nemzetközi egyezmények: külön jogszabályban[^1] megállapított nemzetközi egyezmények hatályos szövege;
+a) nemzetközi egyezmények: külön jogszabályban[^3] megállapított nemzetközi egyezmények hatályos szövege;
 
-b) az 1974. évi SOLAS egyezmény: az ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény[^2] hatályos szövege;
+b) az 1974. évi SOLAS egyezmény: az ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény[^4] hatályos szövege;
 
 c) BLU szabályzat: az ömlesztettáru-szállító hajók biztonságos rakodási gyakorlatának a Nemzetközi Tengerészeti Szervezet (a továbbiakban: IMO) közgyűlésének A.862(20) határozatával elfogadott szabályzata;
 
-d) ömlesztettáru-szállító hajó: száraz rakomány ömlesztett állapotban való szállítására épített hajó az 1974. évi SOLAS egyezmény IX/1.6 szabálya[^3] szerinti fogalmával összhangban, amely lehet:
+d) ömlesztettáru-szállító hajó: száraz rakomány ömlesztett állapotban való szállítására épített hajó az 1974. évi SOLAS egyezmény IX/1.6 szabálya[^5] szerinti fogalmával összhangban, amely lehet:
 
 da) egyfedélzetes hajó: a raktérben fedélzet alatti oldaltartályokkal és oldalbunkerekkel épített hajó, amelynek elsődleges rendeltetése száraz rakomány ömlesztett állapotban való szállítása, vagy
 
@@ -30,11 +30,11 @@ i) a terminál képviselője: a terminál üzemben tartója által felhatalmazot
 
 j) parancsnok: a hajó parancsnoka vagy a parancsnok által a rakodási műveletek felügyeletére kijelölt fedélzeti tiszt;
 
-k) elismert szervezet: külön jogszabályban[^4] meghatározott feltételek szerint elismert szervezet;
+k) elismert szervezet: külön jogszabályban[^6] meghatározott feltételek szerint elismert szervezet;
 
 l) a lobogó szerinti állam hatósága: annak az államnak az illetékes hatósága, amelynek lobogója alatt az ömlesztettáru-szállító hajó közlekedni jogosult;
 
-m)[^5]
+m)[^7]
 
 n) rakományinformáció: az 1974. évi SOLAS egyezmény VI/2 szabálya szerint a rakományra vonatkozó információ;
 
@@ -46,8 +46,8 @@ q) szilárd ömlesztett áru fajlagos tömegére vonatkozó nyilatkozat: a rakom
 
 r) trimmelés: a hajó hosszirányú úszáshelyzetének megváltoztatása, illetve a hajó egyenes úszáshelyzetbe hozása.
 
-[^1]: 225/2003. (XII. 13.) Korm. rendelet a magyar víziutakon külföldi államok lobogója alatt közlekedő tengeri hajók biztonsági ellenőrzéséről.
-[^2]: 2001. évi XI. törvény a Londonban, 1974. november hó 1. napján kelt ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') kihirdetéséről.
-[^3]: 35/2001. (X. 12.) KöViM rendelet a 2001. évi XI. törvénnyel kihirdetett ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékletének kihirdetéséről.
-[^4]: 2/2004. (I. 5.) GKM rendelet az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek elismeréséről, kijelöléséről és felhatalmazásáról.
-[^5]: A 3. § m) pontját a 48/2009. (IX. 30.) KHEM rendelet 29. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: 225/2003. (XII. 13.) Korm. rendelet a magyar víziutakon külföldi államok lobogója alatt közlekedő tengeri hajók biztonsági ellenőrzéséről.
+[^4]: 2001. évi XI. törvény a Londonban, 1974. november hó 1. napján kelt ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') kihirdetéséről.
+[^5]: 35/2001. (X. 12.) KöViM rendelet a 2001. évi XI. törvénnyel kihirdetett ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékletének kihirdetéséről.
+[^6]: 2/2004. (I. 5.) GKM rendelet az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek elismeréséről, kijelöléséről és felhatalmazásáról.
+[^7]: A 3. § m) pontját a 48/2009. (IX. 30.) KHEM rendelet 29. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

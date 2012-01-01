@@ -2,7 +2,7 @@
 
 10. § (1) A hajózási hatóság ellenőrzi, hogy a tájékoztatási feltételek teljesítéséről a hajó parancsnoka megfelelően gondoskodjék:
 
-(2) A hajó parancsnokának a hajó terminálhoz való érkezését megelőzően, a lehető legkorábban meg kell adnia a terminál részére a tájékoztatást a hajó feltételezett érkezési idejét (ETA[^8]). Az érkezés feltételezett idejét többször frissíteni kell, és a pontosított feltételezett érkezési időt ismételten meg kell adni a terminál számára.
+(2) A hajó parancsnokának a hajó terminálhoz való érkezését megelőzően, a lehető legkorábban meg kell adnia a terminál részére a tájékoztatást a hajó feltételezett érkezési idejét (ETA[^10]). Az érkezés feltételezett idejét többször frissíteni kell, és a pontosított feltételezett érkezési időt ismételten meg kell adni a terminál számára.
 
 (3) A feltételezett érkezési idő első közlésekor meg kell adni:
 
@@ -32,7 +32,7 @@ l) az esetlegesen szükséges javításokat, amennyiben ezek késleltethetik a h
 
 m) más, a hajóra vonatkozó olyan tájékoztatást, amelyre a terminál igényt tart.
 
-(4) Szilárd ömlesztett rakomány berakodása előtt a hajó parancsnoka köteles gondoskodni arról, hogy a külön jogszabályban[^9] meghatározott rakományinformációt – és szükség esetén – a szilárd ömlesztett rakomány fajlagos tömegéről szóló nyilatkozatát megkapja. A rakományról szóló tájékoztatót a BLU szabályzat 5. számú melléklete tartalmazza.
+(4) Szilárd ömlesztett rakomány berakodása előtt a hajó parancsnoka köteles gondoskodni arról, hogy a külön jogszabályban[^11] meghatározott rakományinformációt – és szükség esetén – a szilárd ömlesztett rakomány fajlagos tömegéről szóló nyilatkozatát megkapja. A rakományról szóló tájékoztatót a BLU szabályzat 5. számú melléklete tartalmazza.
 
-[^8]: Estimated time of arrival.
-[^9]: 35/2001. (X. 12.) KöViM rendelet a 2001. évi XI. törvénnyel kihirdetett ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékletének kihirdetéséről.
+[^10]: Estimated time of arrival.
+[^11]: 35/2001. (X. 12.) KöViM rendelet a 2001. évi XI. törvénnyel kihirdetett ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékletének kihirdetéséről.
