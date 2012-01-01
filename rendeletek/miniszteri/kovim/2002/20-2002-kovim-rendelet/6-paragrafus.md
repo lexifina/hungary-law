@@ -18,6 +18,6 @@ g) az üzemben tartási engedély érvényességi idejét.
 
 (2) A légiszállítás céljából kiadott üzemben tartási engedélyt a hatóság magyar és angol nyelven állítja ki.
 
-(3)[^1] A hatóság a kiadott üzemben tartási engedélyekről nyilvántartást vezet, amely nyilvános. A nyilvántartás a következőket tartalmazza: az üzemben tartó neve, székhelye, levelezési címe, faxszáma, telefonszáma.
+(3)[^2] A hatóság a kiadott üzemben tartási engedélyekről nyilvántartást vezet, amely nyilvános. A nyilvántartás a következőket tartalmazza: az üzemben tartó neve, székhelye, levelezési címe, faxszáma, telefonszáma.
 
-[^1]: A 6. § (3) bekezdése a 86/2005. (X. 21.) GKM rendelet 13. §-ával megállapított szöveg.
+[^2]: A 6. § (3) bekezdése a 86/2005. (X. 21.) GKM rendelet 13. §-ával megállapított szöveg.
