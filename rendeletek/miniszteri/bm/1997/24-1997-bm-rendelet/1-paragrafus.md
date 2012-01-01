@@ -16,7 +16,7 @@ g)[^6] a bírósági, az ügyészségi és a rendőrségi épületek;
 
 h)[^7] a honvédelmi, a határőrségi, a polgári nemzetbiztonsági szolgálati, a polgári védelmi alapfeladatok ellátását szolgáló létesítmények;
 
-i)[^8] a Magyar Köztársaság területén működő, a nemzetközi jog alapján kiváltságot és mentességet élvező külképviseletek objektumai;
+i)[^8] Magyarország területén működő, a nemzetközi jog alapján kiváltságot és mentességet élvező külképviseletek objektumai;
 
 j)[^9] a közszolgálati rádió és televízió, a Magyar Távirati Ir oda épületei;
 
@@ -35,7 +35,7 @@ n)[^13] a Magyar Nemzeti Bank, valamint a többségi tulajdonában lévő bankje
 [^5]: Az 1. § eredeti e) pontjának jelölését a 63/2004. (X. 28.) BM rendelet 1. §-a f) pontra változik.
 [^6]: Az 1. § eredeti f) pontjának jelölését a 63/2004. (X. 28.) BM rendelet 1. §-a g) pontra változik.
 [^7]: Az 1. § eredeti g) pontjának jelölését a 63/2004. (X. 28.) BM rendelet 1. §-a h) pontra változik.
-[^8]: Az 1. § eredeti h) pontjának jelölését a 63/2004. (X. 28.) BM rendelet 1. §-a i) pontra változik.
+[^8]: Az 1. § eredeti h) pontjának jelölését a 63/2004. (X. 28.) BM rendelet 1. §-a i) pontra változtatta. Az 1. § i) pontja a 68/2011. (XII. 30.) BM rendelet 11. §-a szerint módosított szöveg.
 [^9]: Az 1. § eredeti i) pontjának jelölését a 63/2004. (X. 28.) BM rendelet 1. §-a j) pontra változik.
 [^10]: Az 1. § eredeti j) pontjának jelölését a 63/2004. (X. 28.) BM rendelet 1. §-a k) pontra változik.
 [^11]: Az 1. § eredeti k) pontjának jelölését a 63/2004. (X. 28.) BM rendelet 1. §-a l) pontra változik.
