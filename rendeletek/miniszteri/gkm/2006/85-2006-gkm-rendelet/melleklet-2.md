@@ -1,25 +1,29 @@
 ## 1. Levélküldemények és címzett reklámküldemények
 
-|  | Megnevezés | Elsőbbségi küldeményként | Nem elsőbbségi küldeményként |
+|  |  | A | B | C |
 
-|  | a) Szabványlevél | 115 Ft | 90 Ft |
+|  | 1. | Megnevezés | Elsőbbségi küldeményként | Nem elsőbbségi küldeményként |
 
-|  | b) Szabvány címzett reklámküldemény | 115 Ft | 90 Ft |
+|  | 2. | a) Szabványlevél | 130 forint | 105 forint |
 
-|  | c) Egyéb levél | 160 Ft | 120 Ft |
+|  | 3. | b) Szabvány címzett reklámküldemény | 130 forint | 105 forint |
 
-|  | d) Egyéb címzett reklámküldemény | 160 Ft | 120 Ft |
+|  | 4. | c) Egyéb levél | 180 forint | 140 forint |
 
-|  | e) Levelezőlap, képes levelezőlap | 105 Ft | 80 Ft |
+|  | 5. | d) Egyéb címzett reklámküldemény | 180 forint | 140 forint |
+
+|  | 6. | e) Levelezőlap, képes levelezőlap | 105 forint | 80 forint |
 
 ## 2. Hivatalos irat
 
-|  | Megnevezés | Alaptarifa |
+|  |  | A | B |
 
-|  | a) Hivatalos irat – saját kezéhez | 370 Ft |
+|  | 1. | Megnevezés | Alaptarifa |
 
-|  | b) Hivatalos irat – egyéb | 300 Ft |
+|  | 2. | a) Hivatalos irat – saját kezéhez | 390 forint |
 
-2. melléklet a 85/2006. (XII. 15.) GKM rendelethez[^5]
+|  | 3. | b) Hivatalos irat – egyéb | 315 forint |
 
-[^5]: A 2. mellékletet a 21/2010. (XII. 16.) NFM rendelet 2. §-a hatályon kívül helyezte.
+2. melléklet a 85/2006. (XII. 15.) GKM rendelethez[^6]
+
+[^6]: A 2. mellékletet a 21/2010. (XII. 16.) NFM rendelet 2. §-a hatályon kívül helyezte.
