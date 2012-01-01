@@ -4,25 +4,25 @@
 
 a) aki tartózkodási engedély iránti kérelmet nyújtott be és az engedély kiadásáig nemzeti vízumának vagy korábbi tartózkodási engedélyének érvényességi ideje lejárt, vagy e törvény szerint tartózkodási engedéllyel kell ellátni, továbbá akkor is, ha az 1. § (5) bekezdése alapján terjeszt elő tartózkodási engedély kérelmet;
 
-b) aki a Magyar Köztársaság területén ideiglenes letelepedési engedély iránti kérelmet nyújtott be;
+b) aki Magyarország területén ideiglenes letelepedési engedély iránti kérelmet nyújtott be;
 
-c) aki azért tartózkodik a jogszerű tartózkodás időtartamát meghaladóan a Magyar Köztársaság területén, mert kiutazását humanitárius, keresőtevékenységével összefüggő, nem önhibájából eredő személyes vagy elháríthatatlan ok fennállása akadályozza;
+c) aki azért tartózkodik a jogszerű tartózkodás időtartamát meghaladóan Magyarország területén, mert kiutazását humanitárius, keresőtevékenységével összefüggő, nem önhibájából eredő személyes vagy elháríthatatlan ok fennállása akadályozza;
 
-d) aki a Magyar Köztársaság területén jogszerűen tartózkodó harmadik országbeli állampolgár szülő gyermekeként született a Magyar Köztársaság területén és jogszerű magyarországi tartózkodása az e törvényben szabályozott más engedéllyel nem biztosítható;
+d) aki Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgár szülő gyermekeként született Magyarország területén és jogszerű magyarországi tartózkodása az e törvényben szabályozott más engedéllyel nem biztosítható;
 
 e) aki emberkereskedelem áldozata, az áldozatsegítő hatóság indítványára, a gondolkodási idő tartamára;
 
-f) akinek beutazását a törvényben meghatározott feltételek hiányában csak kivételesen, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből engedélyezik, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
+f) akinek beutazását a törvényben meghatározott feltételek hiányában csak kivételesen, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből engedélyezik, feltéve, hogy Magyarország területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
 
-g) akinek az úti okmányát külön törvény alapján visszatartották, és nem rendelkezik a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel;
+g) akinek az úti okmányát külön törvény alapján visszatartották, és nem rendelkezik Magyarország területén történő tartózkodásra jogosító engedéllyel;
 
 h) akivel szemben jogellenes beutazás, illetve tartózkodás miatt idegenrendészeti eljárás van folyamatban;
 
-i) aki hontalansága megállapítását kérte, az eljárás időtartamára, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
+i) aki hontalansága megállapítását kérte, az eljárás időtartamára, feltéve, hogy Magyarország területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
 
 j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g) pontja alapján kijelölt helyen való tartózkodásra köteleztek;
 
-k) aki az Európai Unió más tagállamában magas szintű képzettséget igénylő munkavállalás céljából tartózkodási engedélyt kérelmezett, és az EU Kék Kártya érvényességi idejének lejártát vagy az okmány visszavonását követően a Magyar Köztársaság területére visszatért a munkanélküliség időtartamára.
+k) aki az Európai Unió más tagállamában magas szintű képzettséget igénylő munkavállalás céljából tartózkodási engedélyt kérelmezett, és az EU Kék Kártya érvényességi idejének lejártát vagy az okmány visszavonását követően Magyarország területére visszatért a munkanélküliség időtartamára.
 
 (2) Az ideiglenes tartózkodásra jogosító igazolás érvényességi ideje
 
@@ -40,4 +40,4 @@ e) az (1) bekezdés k) pontjában foglalt esetben három hónap, amely nem hossz
 
 (4) Az ideiglenes tartózkodásra jogosító igazolás nem hosszabbítható meg, illetve azt vissza kell vonni, ha a kiállítására okot adó körülmény már nem áll fenn.
 
-(5) Az ideiglenes tartózkodásra jogosító igazolás kizárólag a Magyar Köztársaság területén történő tartózkodásra jogosít, ki- és visszautazást nem tesz lehetővé, a harmadik országbeli állampolgár kiutazásakor érvényét veszti, és azt kilépéskor a harmadik országbeli állampolgárnak le kell adnia. A leadott igazolást meg kell küldeni a kiállító hatóságnak.
+(5) Az ideiglenes tartózkodásra jogosító igazolás kizárólag Magyarország területén történő tartózkodásra jogosít, ki- és visszautazást nem tesz lehetővé, a harmadik országbeli állampolgár kiutazásakor érvényét veszti, és azt kilépéskor a harmadik országbeli állampolgárnak le kell adnia. A leadott igazolást meg kell küldeni a kiállító hatóságnak.

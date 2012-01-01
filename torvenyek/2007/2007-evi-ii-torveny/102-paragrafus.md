@@ -1,4 +1,4 @@
-102. § (1) Az idegenrendészeti hatóság a Magyar Köztársaság területének elhagyására kötelezett, a kijelölt helyen tartózkodásra kötelezett, az idegenrendészeti kiutasítás, bírói kiutasítás, a beutazási és tartózkodási tilalom, valamint idegenrendészeti őrizet hatálya alatt álló harmadik országbeli állampolgár következő adatait kezeli:
+102. § (1) Az idegenrendészeti hatóság a Magyarország területének elhagyására kötelezett, a kijelölt helyen tartózkodásra kötelezett, az idegenrendészeti kiutasítás, bírói kiutasítás, a beutazási és tartózkodási tilalom, valamint idegenrendészeti őrizet hatálya alatt álló harmadik országbeli állampolgár következő adatait kezeli:
 
 a) a természetes személyazonosító adatok;
 

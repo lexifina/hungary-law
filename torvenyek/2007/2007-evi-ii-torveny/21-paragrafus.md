@@ -1,4 +1,4 @@
-21. § (1) Tanulmányi célból tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki a Magyar Köztársaságban akkreditált közép- vagy felsőfokú oktatási intézmény nappali tagozatán tanulmányok folytatása, illetve a felsőoktatási intézmény által szervezett, a tanulmányok folytatását előkészítő képzésben való részvétel érdekében kíván a Magyar Köztársaság területén tartózkodni, és igazolja, hogy a tanulmányok folytatásához megfelelő nyelvismerettel rendelkezik.
+21. § (1) Tanulmányi célból tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki Magyarországon akkreditált közép- vagy felsőfokú oktatási intézmény nappali tagozatán tanulmányok folytatása, illetve a felsőoktatási intézmény által szervezett, a tanulmányok folytatását előkészítő képzésben való részvétel érdekében kíván Magyarország területén tartózkodni, és igazolja, hogy a tanulmányok folytatásához megfelelő nyelvismerettel rendelkezik.
 
 (2) A tanulmányi célból kiadott tartózkodási engedély érvényességi ideje, ha
 

@@ -4,7 +4,7 @@ a) nem felel meg a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt 
 
 b) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt, vagy a tartózkodási cél vonatkozásában az eljáró hatóságot megtévesztette;
 
-c) közegészséget veszélyeztető betegségben szenved, és nem veti alá magát kötelező és rendszeres egészségügyi ellátásnak, vagy a Magyar Köztársaság területén történő tartózkodása alatt az egészségügyre vonatkozó hatályos magyar jogszabályok előírásait nem tartja be;
+c) közegészséget veszélyeztető betegségben szenved, és nem veti alá magát kötelező és rendszeres egészségügyi ellátásnak, vagy Magyarország területén történő tartózkodása alatt az egészségügyre vonatkozó hatályos magyar jogszabályok előírásait nem tartja be;
 
 d) a családi kapcsolatot a családi együttélés céljára szolgáló tartózkodási engedély kiadása érdekében hozta létre.
 
@@ -16,7 +16,7 @@ a) nem felel meg vagy az EU Kék Kártya kiadásakor nem felelt meg a 20/A. § (
 
 b) a munkakörhöz szükséges felsőfokú szakmai képesítéssel nem rendelkezik,
 
-c) megélhetése a Magyar Köztársaság területén nem biztosított, kivéve, ha a harmadik országbeli állampolgár oly módon nem áll foglalkoztatásra irányuló jogviszonyban, hogy az e) vagy f) pontban foglalt feltételek nem valósulnak meg,
+c) megélhetése Magyarország területén nem biztosított, kivéve, ha a harmadik országbeli állampolgár oly módon nem áll foglalkoztatásra irányuló jogviszonyban, hogy az e) vagy f) pontban foglalt feltételek nem valósulnak meg,
 
 d) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt, vagy a tartózkodási cél vonatkozásában az eljáró hatóságot megtévesztette, illetve tartózkodásának célja az engedélyezettől eltér,
 

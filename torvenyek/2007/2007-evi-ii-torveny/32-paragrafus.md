@@ -14,9 +14,9 @@ d) EK letelepedési engedélyt
 
 kapott.
 
-(2) A letelepedett harmadik országbeli állampolgár az Alkotmányban és külön jogszabályokban biztosított jogosultságokkal rendelkezik.
+(2) A letelepedett harmadik országbeli állampolgár az Alaptörvényben és a jogszabályokban biztosított jogosultságokkal rendelkezik.
 
-(3) A letelepedett – az ideiglenesen letelepedett kivételével – a Magyar Köztársaság területén határozatlan időtartamú tartózkodásra jogosult.
+(3) A letelepedett – az ideiglenesen letelepedett kivételével – Magyarország területén határozatlan időtartamú tartózkodásra jogosult.
 
 (4) A letelepedettet megilletik a tartózkodási engedéllyel rendelkezők külön jogszabályok szerinti jogosultságai is.
 

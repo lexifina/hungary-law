@@ -8,7 +8,7 @@ b) tanulmányok folytatása vagy szakképzés céljából vagy
 
 c) egyéb, igazolt célból
 
-kíván a Magyar Köztársaság területén tartózkodni, és amennyiben a jogszabályban meghatározott egyéb feltételeket teljesíti.
+kíván Magyarország területén tartózkodni, és amennyiben a jogszabályban meghatározott egyéb feltételeket teljesíti.
 
 (2) Az (1) bekezdésben meghatározott harmadik országbeli állampolgárral ideiglenes letelepedési engedélyt együtt kérelmező harmadik országbeli családtag, valamint az ideiglenes letelepedési engedéllyel rendelkező harmadik országbeli állampolgár családtagja ideiglenes letelepedési engedélyt kap, amennyiben a családi kapcsolat az Európai Unió huzamos tartózkodói jogállást igazoló EK tartózkodási engedélyt kiállító tagállamában már fennállt, és amennyiben a jogszabályban meghatározott egyéb feltételeket teljesíti.
 

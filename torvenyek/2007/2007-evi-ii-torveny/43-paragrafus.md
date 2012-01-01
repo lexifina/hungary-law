@@ -2,7 +2,7 @@
 
 43. § (1) Az idegenrendészeti hatóság önálló beutazási és tartózkodási tilalmat rendel el azzal az ismeretlen helyen vagy külföldön tartózkodó harmadik országbeli állampolgárral szemben,
 
-a) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítésére a Magyar Köztársaság nemzetközi jogi kötelezettséget vállalt; vagy
+a) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítésére Magyarország nemzetközi jogi kötelezettséget vállalt; vagy
 
 b) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítéséről az Európai Unió Tanácsa döntött;
 
@@ -14,7 +14,7 @@ e) aki a kiszabott helyszíni bírságot, szabálysértési bírságot az előí
 
 (2) Az idegenrendészeti hatóság – az e törvényben meghatározott kivétellel – idegenrendészeti kiutasítást rendel el azzal a harmadik országbeli állampolgárral szemben,
 
-a) aki jogellenesen lépte át a Magyar Köztársaság államhatárát, vagy azt megkísérelte;
+a) aki jogellenesen lépte át Magyarország államhatárát, vagy azt megkísérelte;
 
 b) aki az e törvényben meghatározott tartózkodási feltételeket nem teljesíti;
 

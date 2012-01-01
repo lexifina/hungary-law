@@ -8,11 +8,11 @@
 
 (5) A kiutasítással együtt vagy az önálló határozatban elrendelt beutazási és tartózkodási tilalom időtartamát években kell meghatározni, és – a (6) bekezdésben foglalt kivétellel – legfeljebb öt évre kell elrendelni.
 
-(6) A beutazási és tartózkodási tilalom legfeljebb tíz évre rendelhető el, ha a harmadik országbeli állampolgár tartózkodása a Magyar Köztársaság területén a közrendet, a közbiztonságot vagy a nemzetbiztonságot jelentősen veszélyeztetné.
+(6) A beutazási és tartózkodási tilalom legfeljebb tíz évre rendelhető el, ha a harmadik országbeli állampolgár tartózkodása Magyarország területén a közrendet, a közbiztonságot vagy a nemzetbiztonságot jelentősen veszélyeztetné.
 
 (7) A kiutasítás miatt elrendelt beutazási és tartózkodási tilalom időtartamát az Európai Unió tagállamai területének elhagyásának napjától, vagy ha ez nem ismert, az erre meghatározott határnaptól kell számítani.
 
-(8) A beutazási és tartózkodási tilalom hatálya alatt álló harmadik országbeli állampolgár csak az elrendelő hatóság külön engedélyével utazhat be a Magyar Köztársaság területére.
+(8) A beutazási és tartózkodási tilalom hatálya alatt álló harmadik országbeli állampolgár csak az elrendelő hatóság külön engedélyével utazhat be Magyarország területére.
 
 (9) A beutazási és tartózkodási tilalmat az idegenrendészeti hatóság – hivatalból vagy kérelemre – visszavonhatja ha,
 

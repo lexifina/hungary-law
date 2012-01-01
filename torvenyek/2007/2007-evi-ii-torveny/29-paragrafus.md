@@ -1,14 +1,14 @@
 29. § (1) Az e törvényben foglalt tartózkodási feltételek hiányában humanitárius célból tartózkodási engedéllyel kell ellátni
 
-a) akit a Magyar Köztársaság hontalanként ismert el;
+a) akit Magyarország hontalanként ismert el;
 
-b) akit a Magyar Köztársaság befogadottként ismert el;
+b) akit Magyarország befogadottként ismert el;
 
 c) azt a harmadik országbeli állampolgárt, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
 
-d) azt a harmadik országbeli állampolgárt, aki a Magyar Köztársaság területén született és azt követően a magyar jog szerint érte felelős személy felügyelete nélkül maradt, illetve a kísérő nélküli kiskorút;
+d) azt a harmadik országbeli állampolgárt, aki Magyarország területén született és azt követően a magyar jog szerint érte felelős személy felügyelete nélkül maradt, illetve a kísérő nélküli kiskorút;
 
-e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből az ügyész, a bíróság, illetve a rendvédelmi és nemzetbiztonsági szerv indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon – együttműködik;
+e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből az ügyész, a bíróság, illetve a rendvédelmi és nemzetbiztonsági szerv, továbbá a Nemzeti Adó- és Vámhivatal nyomozó hatósága indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon – együttműködik;
 
 f) a bíróság indítványára azt a harmadik országbeli állampolgárt, akit különösen kizsákmányoló foglalkoztatási feltételek mellett, illetve azt a kiskorú, harmadik országbeli állampolgárt, akit érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély nélkül foglalkoztattak.
 

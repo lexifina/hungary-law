@@ -2,7 +2,7 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1) A Magyar Köztársaság a harmadik országbeli állampolgárok számára az e törvényben foglaltak szerint biztosítja a be- és kiutazás, valamint a tartózkodás jogának gyakorlását.
+1. § (1) Magyarország a harmadik országbeli állampolgárok számára az e törvényben foglaltak szerint biztosítja a be- és kiutazás, valamint a tartózkodás jogának gyakorlását.
 
 (2) A harmadik országbeli állampolgár be- és kiutazási, valamint tartózkodási jogának gyakorlása az e törvényben meghatározott rendelkezések szerint korlátozható.
 

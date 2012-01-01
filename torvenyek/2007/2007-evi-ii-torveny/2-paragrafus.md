@@ -16,11 +16,11 @@ dc) eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyerme
 
 dd) házastársának eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a házastárs szülői felügyeleti jogot gyakorol;
 
-e) kísérő nélküli kiskorú: az a tizennyolcadik életévet be nem töltött harmadik országbeli állampolgár, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett a Magyar Köztársaság területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
+e) kísérő nélküli kiskorú: az a tizennyolcadik életévet be nem töltött harmadik országbeli állampolgár, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett Magyarország területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
 
-f) befogadott: aki az állampolgársága – hontalan esetén a szokásos tartózkodási helye – szerinti országba átmenetileg azért nem küldhető vissza, mert ott halálbüntetésnek, kínzásnak, kegyetlen, embertelen vagy megalázó bánásmódnak vagy büntetésnek lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja, de nem jogosult sem menekültkénti vagy hontalankénti elismerésre, sem ideiglenes vagy kiegészítő védelemre;
+f) befogadott: aki az állampolgársága – hontalan esetén a szokásos tartózkodási helye – szerinti országba átmenetileg azért nem küldhető vissza, mert ott az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja, de nem jogosult sem menekültkénti vagy hontalankénti elismerésre, sem ideiglenes vagy kiegészítő védelemre;
 
-g) úti okmány: a Magyar Köztársaság által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
+g) úti okmány: Magyarország által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
 
 h) fuvarozó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki vagy amely hivatásszerűen foglalkozik személyszállítással;
 
@@ -30,7 +30,7 @@ j) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés:
 
 k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 193/C. § b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
 
-l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – a Magyar Köztársaság területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
+l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – Magyarország területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
 
 m) három hónapot meg nem haladó tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
 

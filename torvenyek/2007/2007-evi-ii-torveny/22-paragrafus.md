@@ -1,6 +1,6 @@
 22. § (1) Kutatás céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat,
 
-a) aki külön jogszabály szerint akkreditált kutatószervezettel kötött fogadási megállapodás alapján tudományos kutatás folytatása céljából kíván a Magyar Köztársaság területén tartózkodni, és
+a) aki külön jogszabály szerint akkreditált kutatószervezettel kötött fogadási megállapodás alapján tudományos kutatás folytatása céljából kíván Magyarország területén tartózkodni, és
 
 b) a kutatószervezet írásban kötelezettséget vállalt arra, hogy a kutatónak az engedélyezett tartózkodás időtartamát meghaladó tartózkodása esetén – amennyiben a kutató a szükséges anyagi fedezettel nem rendelkezik – megtéríti a kiutasításával kapcsolatban felmerült költségeket.
 

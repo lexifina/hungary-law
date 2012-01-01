@@ -4,7 +4,7 @@
 
 ## Általános szabályok
 
-13. § (1) Három hónapot meghaladó tartózkodás céljából az a harmadik országbeli állampolgár utazhat be, illetve három hónapot meghaladó időtartamig az a harmadik országbeli állampolgár tartózkodhat a Magyar Köztársaság területén, aki
+13. § (1) Három hónapot meghaladó tartózkodás céljából az a harmadik országbeli állampolgár utazhat be, illetve három hónapot meghaladó időtartamig az a harmadik országbeli állampolgár tartózkodhat Magyarország területén, aki
 
 a) rendelkezik érvényes úti okmánnyal;
 
@@ -30,13 +30,13 @@ c) rendelkezik a vissza- vagy továbbutazáshoz szükséges engedéllyel;
 
 d) igazolja beutazása és tartózkodása célját;
 
-e) a Magyar Köztársaság területén rendelkezik szálláshellyel vagy lakóhellyel;
+e) Magyarország területén rendelkezik szálláshellyel vagy lakóhellyel;
 
 f) tartózkodása teljes időtartamára rendelkezik a lakhatását és megélhetését, valamint a kiutazás költségeit is biztosító anyagi fedezettel;
 
 g) az egészségügyi ellátások teljes körére biztosítottnak minősül, vagy egészségügyi ellátásának költségeit biztosítani tudja;
 
-h) nem áll kiutasítás vagy beutazási és tartózkodási tilalom hatálya alatt, illetve beutazása és tartózkodása nem veszélyezteti a Magyar Köztársaság közbiztonságát, nemzetbiztonságát vagy közegészségügyi érdekeit;
+h) nem áll kiutasítás vagy beutazási és tartózkodási tilalom hatálya alatt, illetve beutazása és tartózkodása nem veszélyezteti Magyarország közbiztonságát, nemzetbiztonságát vagy közegészségügyi érdekeit;
 
 i) nem áll beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt.
 

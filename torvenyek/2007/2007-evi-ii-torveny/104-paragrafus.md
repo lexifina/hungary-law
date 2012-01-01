@@ -1,4 +1,4 @@
-104. § (1) Az idegenrendészeti hatóság a nemzetközi szerződésekben vállalt kötelezettségek teljesítése céljából a Magyar Köztársaságban őrizetbe vett, előzetesen letartóztatott vagy személyi szabadságában bármely más módon korlátozott, továbbá a rendkívüli eseményekben (haláleset, súlyos sérüléssel járó baleset stb.) érintett harmadik országbeli állampolgár következő adatait kezeli:
+104. § (1) Az idegenrendészeti hatóság a nemzetközi szerződésekben vállalt kötelezettségek teljesítése céljából a Magyarországon őrizetbe vett, előzetesen letartóztatott vagy személyi szabadságában bármely más módon korlátozott, továbbá a rendkívüli eseményekben (haláleset, súlyos sérüléssel járó baleset stb.) érintett harmadik országbeli állampolgár következő adatait kezeli:
 
 a) a természetes személyazonosító adatok;
 

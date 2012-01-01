@@ -16,13 +16,13 @@ a) eltartott szülője;
 
 b) testvére és egyenesági rokona, ha egészségi állapota miatt képtelen önmagáról gondoskodni.
 
-(5) A menekültként elismert személy házastársa családegyesítési célú tartózkodási engedélyt akkor kaphat, amennyiben a házasságot a menekültként elismert személy Magyar Köztársaság területére történő beutazását megelőzően kötötték.
+(5) A menekültként elismert személy házastársa családegyesítési célú tartózkodási engedélyt akkor kaphat, amennyiben a házasságot a menekültként elismert személy Magyarország területére történő beutazását megelőzően kötötték.
 
 (6) A családegyesítő házastársa nem kaphat tartózkodási engedélyt, ha a családegyesítő másik házastársa a családi együttélés biztosítása érdekében kiadott tartózkodási vízummal, illetve tartózkodási engedéllyel rendelkezik.
 
 (7) A családtag – amennyiben más jogcímen nem szerzett tartózkodási jogosultságot – további tartózkodásra jogosult, ha a tartózkodási engedélye első ízben történő kiadásától számított öt év eltelt, vagy a családegyesítő, illetve a menekültként elismert személy halála esetén, ha a tartózkodás feltételei biztosítottak.
 
-(8) A nemzeti vízummal vagy tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár Magyar Köztársaság területén született harmadik országbeli állampolgár gyermeke részére családi együttélés céljából tartózkodási engedélyt kell kiállítani.
+(8) A nemzeti vízummal vagy tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár Magyarország területén született harmadik országbeli állampolgár gyermeke részére családi együttélés céljából tartózkodási engedélyt kell kiállítani.
 
 (9) A családegyesítési célú tartózkodási engedély érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 

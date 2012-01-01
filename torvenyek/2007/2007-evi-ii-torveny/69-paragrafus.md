@@ -2,13 +2,13 @@
 
 ## FELELŐSSÉGI SZABÁLYOK
 
-69. § (1) Harmadik országbeli állampolgárt légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton a Magyar Köztársaság területére, illetve területén át más célállamba szállító fuvarozónak a szállítást megelőzően meg kell bizonyosodnia arról, hogy a harmadik országbeli állampolgár rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal.
+69. § (1) Harmadik országbeli állampolgárt légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító fuvarozónak a szállítást megelőzően meg kell bizonyosodnia arról, hogy a harmadik országbeli állampolgár rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal.
 
 (2) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve közúton vagy vasúton szállító fuvarozó köteles gondoskodni a haladéktalan visszaszállításról abba az országba, ahonnan harmadik országbeli állampolgár utasát hozta, vagy amely köteles őt befogadni, ha
 
-a) az általa szállított utas Magyar Köztársaság területére történő beléptetését a törvényben meghatározott valamely feltétel hiánya miatt tagadták meg;
+a) az általa szállított utas Magyarország területére történő beléptetését a törvényben meghatározott valamely feltétel hiánya miatt tagadták meg;
 
-b) az általa szállított átutazó utast más célállamba történő beléptetésének megtagadása miatt a Magyar Köztársaság területére visszairányították; vagy
+b) az általa szállított átutazó utast más célállamba történő beléptetésének megtagadása miatt Magyarország területére visszairányították; vagy
 
 c) a más célállamba történő szállítást vállaló fuvarozó megtagadja az általa szállított utasnak a járműre történő felvételét.
 

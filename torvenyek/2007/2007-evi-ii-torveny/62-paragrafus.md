@@ -2,11 +2,11 @@
 
 62. § (1) Az idegenrendészeti hatóság a harmadik országbeli állampolgár kijelölt helyen való tartózkodását rendelheti el, ha
 
-a) a harmadik országbeli állampolgár visszairányítását vagy kiutasítását a Magyar Köztársaság nemzetközi egyezményben vállalt kötelezettsége miatt nem lehet elrendelni, illetve végrehajtani;
+a) a harmadik országbeli állampolgár visszairányítását vagy kiutasítását Magyarország nemzetközi egyezményben vállalt kötelezettsége miatt nem lehet elrendelni, illetve végrehajtani;
 
 b) kiskorú, és vele szemben őrizet elrendelésének lenne helye;
 
-c) vele szemben őrizet elrendelésének lenne helye, és vele együtt a Magyar Köztársaság területén tartózkodó kiskorú gyermeke az őrizet elrendelése esetén felügyelet nélkül maradna;
+c) vele szemben őrizet elrendelésének lenne helye, és vele együtt Magyarország területén tartózkodó kiskorú gyermeke az őrizet elrendelése esetén felügyelet nélkül maradna;
 
 d) az őrizet határideje letelt, de az őrizet elrendelésére alapul szolgáló ok továbbra is fennáll;
 

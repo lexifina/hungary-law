@@ -4,7 +4,7 @@ a) a harmadik országbeli állampolgár az Európai Unió tagállamainak terüle
 
 b) a harmadik országbeli állampolgár az Európai Unió másik tagállamában szerez huzamos tartózkodói jogállást;
 
-c) a harmadik országbeli állampolgár hat évet meghaladóan nem tartózkodik a Magyar Köztársaság területén;
+c) a harmadik országbeli állampolgár hat évet meghaladóan nem tartózkodik Magyarország területén;
 
 d) az engedély megszerzése érdekében a harmadik országbeli állampolgár az idegenrendészeti hatósággal hamis adatot, valótlan tényt közölt;
 

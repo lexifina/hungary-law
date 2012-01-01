@@ -1,3 +1,3 @@
-12. § (1) Más schengeni állam vízumkiadásra feljogosított diplomáciai vagy konzuli képviselete is kiadhat három hónapot meg nem haladó tartózkodásra jogosító vízumot a Magyar Köztársaság nevében.
+12. § (1) Más schengeni állam vízumkiadásra feljogosított diplomáciai vagy konzuli képviselete is kiadhat három hónapot meg nem haladó tartózkodásra jogosító vízumot Magyarország nevében.
 
 (2) A vízumkiadásra feljogosított magyar diplomáciai vagy konzuli képviselet más schengeni állam nevében is kiadhat vízumot.
