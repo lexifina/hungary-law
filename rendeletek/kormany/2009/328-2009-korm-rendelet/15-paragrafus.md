@@ -2,15 +2,15 @@
 
 15. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2)–(4)[^2]
+(2)–(4)[^17]
 
-(5)–(7)[^3]
+(5)–(7)[^18]
 
-(8)[^4]
+(8)[^19]
 
-(9)[^5]
+(9)[^20]
 
-[^2]: A 15. § (2)–(4) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^3]: A 15. § (5)–(7) bekezdését a (9) bekezdés hatályon kívül helyezte.
-[^4]: A 15. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^5]: A 15. § (9) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^17]: A 15. § (2)–(4) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^18]: A 15. § (5)–(7) bekezdését a (9) bekezdés hatályon kívül helyezte.
+[^19]: A 15. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^20]: A 15. § (9) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 2. § Az ösztöndíj forrása a Munkaerőpiaci Alap képzési alaprésze (a továbbiakban: képzési alaprész).
+## 2. §[^1] Az ösztöndíj forrása a Nemzeti Foglalkoztatási Alap képzési alaprésze (a továbbiakban: képzési alaprész).
 
 3. § (1) Jövedelmi helyzettől függetlenül ösztöndíjban részesülnek – a (2) bekezdésben foglaltak kivételével – a közoktatási intézményben nappali rendszerű iskolai oktatásban szakképzési évfolyamon szakiskolai képzésben részt vevő, tanulói jogviszonyban lévő, a gazdaság által az adott régióban igényelt szakképesítést tanulók (a továbbiakban: ösztöndíjas tanuló).
 
@@ -10,7 +10,7 @@ b) a tanév ismétlésére kötelezett tanuló, a megismételt tanév időtartam
 
 c) a tanuló az adott tanévben, ha igazolatlan óráinak száma meghaladja a 10 órát,
 
-d)[^1] a tanuló az adott tanévben a Kt. 76. § (2) bekezdés c), e) és f) pontjában meghatározott fegyelmi büntetés esetén az arról szóló határozat jogerőre emelkedésének napjától.
+d)[^2] a tanuló az adott tanévben a Kt. 76. § (2) bekezdés c), e) és f) pontjában meghatározott fegyelmi büntetés esetén az arról szóló határozat jogerőre emelkedésének napjától.
 
 (3) Az ösztöndíj – az (1) bekezdésben foglaltak szerint – megilleti azt a tanulót is, aki az Országos Szakmai Tanulmányi Versenyen elért eredménye alapján az órák látogatása alól felmentést kapott.
 
@@ -18,4 +18,5 @@ d)[^1] a tanuló az adott tanévben a Kt. 76. § (2) bekezdés c), e) és f) pon
 
 (5) Az iskola köteles tájékoztatni a tanulót az (1)–(4) bekezdésben foglaltakról.
 
-[^1]: A 3. § (2) bekezdés d) pontja a 157/2010. (V. 6.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 9. §-a alapján a 2010. május 9. napját követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
+[^1]: A 2. § a 324/2011. (XII. 28.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdés d) pontja a 157/2010. (V. 6.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 9. §-a alapján a 2010. május 9. napját követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
