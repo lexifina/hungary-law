@@ -1,1 +1,0 @@
-## Fegyveres szerven belüli áthelyezés

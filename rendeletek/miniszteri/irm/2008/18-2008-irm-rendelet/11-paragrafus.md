@@ -1,3 +1,0 @@
-11. § (1) Az áthelyezési kérelmet írásban a szolgálati elöljáróhoz kell benyújtani, aki azt javaslatával együtt 8 napon belül az állományilletékes parancsnokhoz felterjeszti. Az állományilletékes parancsnok a hozzájárulásról vagy a visszautasításról a kérelem benyújtásától számított 15 napon belül dönt.
-
-(2) Más szolgálati beosztás, más szervezeti egységhez kérelemre vagy szolgálati érdekből történő áthelyezés esetén az érintetteknek (az átadó, a fogadó szerv állományilletékes parancsnoka, az állomány tagja) előzetesen meg kell állapodniuk az új szolgálati beosztásban, a szolgálati helyben, az áthelyezés időpontjában, az illetményben, továbbá az áthelyezéssel kapcsolatban esetlegesen felmerülő költségek viselésében.
