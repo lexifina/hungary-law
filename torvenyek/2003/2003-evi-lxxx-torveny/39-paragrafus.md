@@ -18,7 +18,7 @@
 
 (9) Az e törvény szerinti eljárás kezdeményezése iránti kérelem előterjesztése illeték- és díjfizetési kötelezettséggel nem jár; az eljárásban felmerült tolmácsolási és fordítási költségek viselésére azonban köteles a fél, kivéve
 
-a) a kisebbségi szervezet nevében eljáró személy vagy a nemzeti és etnikai kisebbségek jogairól szóló törvény hatálya alá tartozó természetes személy által benyújtott kérelem tárgyában hozott döntés fordítási költségeinek viselésére, valamint, ha a hatóság nem magyar állampolgárságú, a magyar nyelvet nem ismerő személy ügyében – ideértve a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet megbízásából eljáró természetes személyt is – magyarországi tartózkodásának tartama alatt hivatalból indít azonnali intézkedéssel járó eljárást vagy a természetes személy ügyfél azonnali jogvédelemért fordult a hatósághoz,
+a) a nemzetiségi szervezet nevében eljáró személy vagy a nemzetiségek jogairól szóló törvény hatálya alá tartozó természetes személy által benyújtott kérelem tárgyában hozott döntés fordítási költségeinek viselésére, valamint, ha a hatóság nem magyar állampolgárságú, a magyar nyelvet nem ismerő személy ügyében – ideértve a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet megbízásából eljáró természetes személyt is – magyarországi tartózkodásának tartama alatt hivatalból indít azonnali intézkedéssel járó eljárást vagy a természetes személy ügyfél azonnali jogvédelemért fordult a hatósághoz,
 
 b) ha a 28. § (2) bekezdésében foglaltak szerint kap tájékoztatást,
 
