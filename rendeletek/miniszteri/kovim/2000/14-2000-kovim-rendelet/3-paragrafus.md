@@ -1,8 +1,8 @@
 ## 2. § Ez a rendelet a kihirdetését követő 60. napon lép hatályba.
 
-3. §[^2] Ez a rendelet a levegő-föld beszédüzemű kommunikáció csatornatávolságára vonatkozó követelményeknek az egységes európai égbolt keretében történő megállapításáról szóló, 2007. október 26-ai 1265/2007/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+3. §[^3] Ez a rendelet a levegő-föld beszédüzemű kommunikáció csatornatávolságára vonatkozó követelményeknek az egységes európai égbolt keretében történő megállapításáról szóló, 2007. október 26-ai 1265/2007/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-Melléklet a 14/2000. (XI. 14.) KöViM rendelethez[^3]
+Melléklet a 14/2000. (XI. 14.) KöViM rendelethez[^4]
 
 REPÜLÉSI SZABÁLYOK
 
@@ -1018,9 +1018,9 @@ Megjegyzés: A légiforgalmi szolgálati egységek a kétoldalú rádióösszek�
 
 A légijármű parancsnoka felelős azért, hogy valamely repülőtéren történő le- és felszállás során az előírt időjárási minimumokat betartsa.
 
-2.12.4. Az államhatár átrepülése. Rendes körülmények között a Magyar Köztársaság államhatárát csak az erre kijelölt pontokon szabad átrepülni.
+2.12.4. Az államhatár átrepülése. Rendes körülmények között Magyarország államhatárát csak az erre kijelölt pontokon szabad átrepülni.
 
-A Magyar Köztársaság államhatárát a VFR szerint működő légijárművek bármely ATS útvonal ki- és belépő pontja felett átrepülhetik.
+Magyarország államhatárát a VFR szerint működő légijárművek bármely ATS útvonal ki- és belépő pontja felett átrepülhetik.
 
 Budapest FIR-be belépő VFR repülésnek legkésőbb 10 perccel a FIR határ keresztezése előtt Budapest ACC-t, vagy a FIC-et – amelyik az illetékes – tájékoztatnia kell a belépés körülményeiről.
 
@@ -1808,7 +1808,7 @@ A polgári légijárművek elfogása minden esetben veszélyt hordoz magában az
 
 4.1. Általános intézkedések
 
-A Magyar Köztársaság elfogást irányító katonai szerveinek minden körülmények között tekintettel kell lenniük az elfogott légijárművek biztonságának biztosítására.
+Magyarország elfogást irányító katonai szerveinek minden körülmények között tekintettel kell lenniük az elfogott légijárművek biztonságának biztosítására.
 
 A polgári légijárművek részére szükséges utasításokat és intézkedéseket elsősorban az illetékes légiforgalmi szolgálati egységek útján kell kiadni. E célból az elfogást irányító szolgálatok és az illetékes ATS egység között azonnali, megbízható összeköttetést kell biztosítani, és garantálni kell a polgári légijárművek repülésének tényleges adataira vonatkozó információk azonnali kicserélésének lehetőségét.
 
@@ -1868,7 +1868,7 @@ Amennyiben polgári légijárművet ismeretlen repülőtéren való leszállásr
 
 Különösen fontos, hogy rádiótávbeszélő segítségével adják meg az elfogott légijárműnek a biztonságos megközelítés és leszállás végrehajtásához szükséges összes tájékoztatást.
 
-Megjegyzés: A Magyar Köztársaság légterében elfogott polgári légijárműveket, az elfogó légijárműveknek rendes körülmények között (amikor ehhez a feltételek adottak), Budapest Liszt Ferenc Nemzetközi Repülőtérre kell kísérni, és leszállításukat elsősorban erre a repülőtérre kell végrehajtani.
+Megjegyzés: Magyarország légterében elfogott polgári légijárműveket, az elfogó légijárműveknek rendes körülmények között (amikor ehhez a feltételek adottak), Budapest Liszt Ferenc Nemzetközi Repülőtérre kell kísérni, és leszállításukat elsősorban erre a repülőtérre kell végrehajtani.
 
 4.6. Levegőben alkalmazott látjelek
 
@@ -2044,7 +2044,7 @@ A könnyű kategóriájú ballonok felbocsátásához felbocsátási tervet kell
 
 2.2. A kizárólag meteorológiai célokra használt és az előírásoknak megfelelően üzemeltetett „könnyű” ballon kivételével, személyzet nélküli szabad ballonnal más állam területére átrepülni, az érintett állam megfelelő tájékoztatása nélkül tilos.
 
-2.3. A személyzet nélküli szabad ballonokat a Magyar Köztársaság, valamint a várhatóan átrepült állam(ok) előírásaiban meghatározott feltételeknek megfelelően kell üzemeltetni.
+2.3. A személyzet nélküli szabad ballonokat Magyarország, valamint a várhatóan átrepült állam(ok) előírásaiban meghatározott feltételeknek megfelelően kell üzemeltetni.
 
 2.4. Személyzet nélküli szabad ballont tilos úgy üzemeltetni, hogy a ballon vagy annak bármely része – a terhet beleértve – földnek ütközése veszélyeztessen személyeket vagy vagyontárgyakat.
 
@@ -3974,7 +3974,7 @@ AFIS EGYSÉGGEL RENDELKEZŐ REPÜLŐTEREKEN TÖRTÉNŐ MŰKÖDÉS SZABÁLYAI
 
 1. AFIS
 
-1.1. A Magyar Köztársaság egyes nem ellenőrzött repülőterein repülőtéri repüléstájékoztató szolgálatot (Aerodrome Flight Information Service – AFIS) nyújtanak. A szolgálatot ún. AFIS egységek nyújtják.
+1.1. Magyarország egyes nem ellenőrzött repülőterein repülőtéri repüléstájékoztató szolgálatot (Aerodrome Flight Information Service – AFIS) nyújtanak. A szolgálatot ún. AFIS egységek nyújtják.
 
 1.2. Az AFIS egységek a légijárművek számára ismert forgalomra, meteorológiai viszonyokra és repülőtéri állapotokra vonatkozó tájékoztatásokat adnak. Légiforgalmi irányítói engedélyeket nem adnak.
 
@@ -4458,7 +4458,7 @@ Egy vagy több repülőtér érkező, vagy induló ellenőrzött forgalma szám�
 
 24. Budapest FIR
 
-A Magyar Köztársaság államhatára által körbezárt terület, amely a földfelszíntől a légiközlekedésre igénybe vehető legnagyobb magasságig terjed.
+Magyarország államhatára által körbezárt terület, amely a földfelszíntől a légiközlekedésre igénybe vehető legnagyobb magasságig terjed.
 
 25. Címzett ADS kapcsolat – ADS contract
 
@@ -5364,5 +5364,5 @@ A látási meteorológiai körülmények (Visual Meteorological Conditions) jel�
 
 A repülőtér koordinátákkal megadott földrajzi helye.
 
-[^2]: A 3. §-t a 29/2008. (X. 30.) KHEM rendelet 1. §-a iktatta be.
-[^3]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 3. §-t a 29/2008. (X. 30.) KHEM rendelet 1. §-a iktatta be.
+[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja szerint módosított szöveg.
