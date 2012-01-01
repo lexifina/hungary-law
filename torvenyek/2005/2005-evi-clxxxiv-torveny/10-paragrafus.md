@@ -36,7 +36,7 @@ a feladata ellátása során repülőeseményről vagy légiközlekedési rendel
 
 (5a) A bejelentőt – bejelentése miatt – munkáltatója részéről nem érheti hátrány.
 
-(6) A baleseti ügyeleti szolgálat a bejelentéseket telefonon, elektronikus úton, valamint levélben fogadja a közlekedésbiztonsági szerv honlapján és a Magyar Köztársaság Légiforgalmi Tájékoztató Kiadványában (AIP) közzétett címen és telefonszámon. A közlekedésbiztonsági szerv nyilvántartásba veszi a bejelentést, és a baleseti ügyeleti szolgálat segítségével haladéktalanul megteszi a vizsgálat megkezdéséhez szükséges intézkedéseket. Amennyiben a bejelentés nem az üzemben tartótól származik, a közlekedésbiztonsági szerv az üzemben tartót haladéktalanul értesíti. Légiközlekedési balesetek, súlyos repülőesemények és repülőesemények esetében a közlekedésbiztonsági szerv haladéktalanul értesíti a légiközlekedési hatóságot.
+(6) A baleseti ügyeleti szolgálat a bejelentéseket telefonon, elektronikus úton, valamint levélben fogadja a közlekedésbiztonsági szerv honlapján és Magyarország Légiforgalmi Tájékoztató Kiadványában (AIP) közzétett címen és telefonszámon. A közlekedésbiztonsági szerv nyilvántartásba veszi a bejelentést, és a baleseti ügyeleti szolgálat segítségével haladéktalanul megteszi a vizsgálat megkezdéséhez szükséges intézkedéseket. Amennyiben a bejelentés nem az üzemben tartótól származik, a közlekedésbiztonsági szerv az üzemben tartót haladéktalanul értesíti. Légiközlekedési balesetek, súlyos repülőesemények és repülőesemények esetében a közlekedésbiztonsági szerv haladéktalanul értesíti a légiközlekedési hatóságot.
 
 (7) Amennyiben a közlekedési baleset, illetve a vasúti baleset szomszédos állam területét érinti, a közlekedésbiztonsági szerv haladéktalanul értesíti a rendőrség területileg illetékes szervét.
 
@@ -48,7 +48,7 @@ a feladata ellátása során repülőeseményről vagy légiközlekedési rendel
 
 (11) Amennyiben a közlekedési baleset, illetve az egyéb közlekedési esemény katonai szállítmányt érint, a közlekedésbiztonsági szerv vezetője a Magyar Honvédséget értesíti. A szakmai vizsgálatban a Magyar Honvédség képviselője megfigyelőként részt vehet.
 
-(12) A helyszíni szemle vezetőjének jelentése alapján a közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési baleset bejelentésétől számított 24 órán belül tájékoztatást ad a balesetről a honvédelemért felelős miniszter és a Magyar Honvédség vezérkari főnöke, illetve a rendvédelmi szervek érintettsége esetén az illetékes miniszter részére.
+(12) A helyszíni szemle vezetőjének jelentése alapján a közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési baleset bejelentésétől számított 24 órán belül tájékoztatást ad a balesetről a honvédelemért felelős miniszter és a Magyar Honvédség vezérkari főnöke, illetve a rendvédelmi szervek, valamint a vámhatóság érintettsége esetén az illetékes miniszter részére.
 
 (13) A (11) bekezdés szerinti megfigyelő a vizsgálóbizottsággal, illetve a szakmai kivizsgálóval együtt lehet jelen a vizsgálati cselekményeknél, és gyakorolhatja iratbetekintési jogát, jogosult továbbá arra, hogy indítványozza kérdés feltételét tanúhoz, illetve szakértőhöz, továbbá jogosult nyilatkozatot tenni.
 

@@ -1,4 +1,4 @@
-19/D. § (1) E törvény rendelkezéseit kell alkalmazni olyan tengeri víziközlekedési balesetekre és tengeri víziközlekedési eseményekre is, amelyek – tekintet nélkül a bekövetkezés helyére vagy az érintett hajó(k) lobogójára – a Magyar Köztársaság alapvető érdekeit érintik.
+19/D. § (1) E törvény rendelkezéseit kell alkalmazni olyan tengeri víziközlekedési balesetekre és tengeri víziközlekedési eseményekre is, amelyek – tekintet nélkül a bekövetkezés helyére vagy az érintett hajó(k) lobogójára – Magyarország alapvető érdekeit érintik.
 
 (2) E törvény hatálya nem terjed ki olyan tengeri víziközlekedési balesetekre és tengeri víziközlekedési eseményekre, amelyek csak a következő típusú úszólétesítményeket érintik:
 
