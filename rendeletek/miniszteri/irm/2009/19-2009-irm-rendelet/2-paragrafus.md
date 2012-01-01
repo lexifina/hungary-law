@@ -2,7 +2,7 @@
 
 2. § (1) A Rendőrség légirendészeti tevékenysége során ellenőrzi:
 
-a) a Magyar Köztársaság légterének a polgári légiközlekedésre vonatkozó szabályok szerinti igénybevételét a légtérben,
+a)[^3] Magyarország légterének a polgári légiközlekedésre vonatkozó szabályok szerinti igénybevételét a légtérben,
 
 b) a légiközlekedésre vonatkozó szabályok megtartását, a légijármű használatának szabályszerűségét, az okmányokra és a felszerelésekre vonatkozó előírások megtartását, a légijármű birtoklásának jogszerűségét, az üzemben tartó, illetőleg a használó személyazonosító adatait,
 
@@ -25,3 +25,5 @@ i) a repülőterek és biztonsági övezetük állapotát és üzemeltetését.
 (3) A megyei (fővárosi) rendőr-főkapitányság hatásköre az (1) bekezdés b)–i) pontjában meghatározott ellenőrzésekre terjed ki.
 
 (4) A városi (kerületi) rendőrkapitányság hatásköre az (1) bekezdés b), d), f) és h) pontjában meghatározott ellenőrzésekre terjed ki.
+
+[^3]: A 2. § (1) bekezdés a) pontja a 68/2011. (XII. 30.) BM rendelet 33. § b) pontja szerint módosított szöveg.

@@ -1,7 +1,10 @@
 ## Általános szabályok
 
-1. § (1) A rendelet hatálya kiterjed a légiközlekedésben részt vevő valamennyi légijárműre, annak üzemben tartójára és vezetőjére, illetőleg a szakszolgálati engedéllyel rendelkező személyekre, valamint a Magyar Köztársaság területén üzemeltetett nyilvános és polgári célú nem nyilvános repülőterek üzemben tartóira, illetőleg a polgári célú nem nyilvános fel- és leszállóhely létesítési engedéllyel rendelkezőkre.
+1. § (1)[^1] A rendelet hatálya kiterjed a légiközlekedésben részt vevő valamennyi légijárműre, annak üzemben tartójára és vezetőjére, illetőleg a szakszolgálati engedéllyel rendelkező személyekre, valamint a Magyarország területén üzemeltetett nyilvános és polgári célú nem nyilvános repülőterek üzemben tartóira, illetőleg a polgári célú nem nyilvános fel- és leszállóhely létesítési engedéllyel rendelkezőkre.
 
 (2) A repüléssel összefüggő rendészeti feladatokat – e rendeletben foglaltak szerint – az illetékes városi (kerületi) rendőrkapitányság, a megyei (fővárosi) rendőr-főkapitányság, illetve országos illetékességgel, a Készenléti Rendőrség Rendészeti Igazgatóság Légirendészeti Parancsnokság (a továbbiakban: Parancsnokság) látja el.
 
-(3) A légiközlekedés-rendészeti ellenőrzésre és az ehhez kapcsolódó intézkedésre sor kerülhet a légijármű által fel- és leszállásra igénybevett területen, telephelyen, a légiközlekedési baleset és repülőesemény helyszínén, továbbá a Magyar Köztársaság légterében a légtér polgári légiközlekedésre vonatkozó szabályok szerinti igénybevételének repülés közben történő ellenőrzésére.
+(3)[^2] A légiközlekedés-rendészeti ellenőrzésre és az ehhez kapcsolódó intézkedésre sor kerülhet a légijármű által fel- és leszállásra igénybevett területen, telephelyen, a légiközlekedési baleset és repülőesemény helyszínén, továbbá Magyarország légterében a légtér polgári légiközlekedésre vonatkozó szabályok szerinti igénybevételének repülés közben történő ellenőrzésére.
+
+[^1]: Az 1. § (1) bekezdése a 68/2011. (XII. 30.) BM rendelet 33. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 68/2011. (XII. 30.) BM rendelet 33. § b) pontja szerint módosított szöveg.
