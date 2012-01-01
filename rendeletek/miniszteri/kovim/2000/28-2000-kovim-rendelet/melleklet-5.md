@@ -22,7 +22,7 @@
 
 | ♦ HATÓSÁGI FELJEGYZÉS ♦ ♦ Note of Authority ♦ ♦ Vermerke der Behörde ♦ |
 
-|  | M A G Y A R K Ö Z T Á R S A S Á G H U N G A R I A N R E P U B L I C U N G A R I S C H E R E P U B L I K |  |
+|  | M A G Y A R O R S Z Á G H U N G A R I A N R E P U B L I C U N G A R I S C H E R E P U B L I K |  |
 
 | 2.1 | 2.4 | 3.1 | 3.4 |
 
@@ -34,6 +34,6 @@
 
 | NEMZETI KÖZLEKEDÉSI HATÓSÁG KÖZÉP-MAGYARORSZÁGI REGIONÁLIS IGAZGATÓSÁGA National Transport Authority, Central Hungarian Regional Directorate Nationale Behörde für Verkehrswesen, Mittelungarische Regionale Verwaltung |
 
-5. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^38]
+5. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^40]
 
-[^38]: Az 5. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.
+[^40]: Az 5. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.

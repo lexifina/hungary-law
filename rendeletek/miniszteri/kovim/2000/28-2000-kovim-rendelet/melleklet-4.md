@@ -2,7 +2,7 @@
 
 | A HAJÓZÁSI TEVÉKENYSÉG VÉGZÉSÉNEK FELTÉTELEI |  | H A J Ó Z Á S I E N G E D É L Y |
 
-|  |  | M A G Y A R K Ö Z T Á R S A S Á G |
+|  |  | M A G Y A R O R S Z Á G |
 
 | HAJÓZÁSI ENGEDÉLY SZÁMA |  | AZ ENGEDÉLYES ÁLTAL ÜZEMELTETETT ÚSZÓLÉTESÍTMÉNY(EK) |
 
@@ -40,6 +40,6 @@
 
 | NEMZETI KÖZLEKEDÉSI HATÓSÁG KÖZÉP-MAGYARORSZÁGI REGIONÁLIS IGAZGATÓSÁGA |  |  |  |  |  |
 
-4. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^37]
+4. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^39]
 
-[^37]: A 4. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának h)–j) pontja szerint módosított szöveg.
+[^39]: A 4. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának h)–j) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
