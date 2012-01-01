@@ -1,1 +1,1 @@
-3. § Az elítélt vagy hozzátartozója kérheti a Legfelsőbb Bíróságtól az 1. §-ban meghatározott időhatáron kívüli, de az említett időszak eseményeivel kapcsolatos politikai vagy méltányolható körülmények között elkövetett más bűncselekmény miatti elítélésnek a semmissé nyilvánítását.
+3. § Az elítélt vagy hozzátartozója kérheti a Kúriától az 1. §-ban meghatározott időhatáron kívüli, de az említett időszak eseményeivel kapcsolatos politikai vagy méltányolható körülmények között elkövetett más bűncselekmény miatti elítélésnek a semmissé nyilvánítását.
