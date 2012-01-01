@@ -1,0 +1,3 @@
+## 22. § Az R2. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az 1. § (1) bekezdésben meghatározott személyek vagy szervek, valamint az azok kezelésében lévő, vagy általuk alapított alapítványok által megkötni, vagy módosítani tervezett, a közbeszerzési törvény 18. § (2) bekezdése szerint számítva nettó ötvenmillió forintot elérő értékű azon szerződések esetében, amelyek megkötésére nem közbeszerzési eljárás keretében kerül(t) sor, a szerződés megkötését, illetve módosítását a 2. számú melléklet szerinti előterjesztésnek az NFM felé való közvetlen megküldésével kell kezdeményezni.”

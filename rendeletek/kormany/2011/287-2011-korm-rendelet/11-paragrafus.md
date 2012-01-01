@@ -1,0 +1,1 @@
+## „(5) A közbeszerzési törvény 67. §-a szerinti hiánypótlási eljárás lebonyolításának, valamint az ajánlat értékelésének csak abban az esetben van helye, ha az ajánlat – a bontást vagy a (2) és (3) bekezdés szerinti intézkedéseket követően – olvasható és megjeleníthető.”

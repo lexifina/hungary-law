@@ -1,0 +1,1 @@
+## „(8) Amennyiben a közzétételi rendelet szerinti hiánypótlás válik szükségessé, a hirdetményellenőrzésért felelős szervezeti egység a hiánypótlásra történő felhívást a kérelmező által az (5) bekezdés szerint megadott, illetve az ügyfélkapu által átadott elektronikus levelezési cím használatával küldi meg.”
