@@ -10,13 +10,13 @@ d) a Magyar Nemzeti Vagyonkezelő Zrt. igazgatóságának és felügyelő bizott
 
 e) bíró, ügyész, közjegyző, bírósági végrehajtó,
 
-f) a Magyar Honvédség, a rendvédelmi szervek hivatásos állományú tagja,
+f) a Magyar Honvédség, a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja,
 
 g) más önkormányzatnál polgármester, alpolgármester,
 
 h) más települési önkormányzat képviselő-testületének tagja,
 
-i) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv vezetője, köztisztviselője; annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak, és illetékessége az önkormányzatra kiterjed,
+i) a fővárosi és megyei kormányhivatal vezetője, köztisztviselője; annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak, és illetékessége az önkormányzatra kiterjed,
 
 j) jegyző (főjegyző, körjegyző), aljegyző, a képviselő-testület hivatalának köztisztviselője,
 
@@ -64,12 +64,12 @@ d) akinek kényszergyógykezelését a bíróság jogerősen elrendelte.
 
 (3) A polgármester az összeférhetetlenségi okot a megválasztásától, illetve az összeférhetetlenségi ok felmerülésétől számított 30 napon belül köteles megszüntetni.
 
-(3a) A polgármester köteles az ellene indított büntetőeljárás során az első tárgyalás időpontjáról, illetve a bűnösséget megállapító jogerős ítéletről az idézés, illetve a jogerős ítélet kézhezvételétől számított három napon belül tájékoztatni a képviselő-testületet, a helyi választási bizottságot és a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet.
+(3a) A polgármester köteles az ellene indított büntetőeljárás során az első tárgyalás időpontjáról, illetve a bűnösséget megállapító jogerős ítéletről az idézés, illetve a jogerős ítélet kézhezvételétől számított három napon belül tájékoztatni a képviselő-testületet, a helyi választási bizottságot és a fővárosi és megyei kormányhivatalt.
 
 (4) Ha a polgármester a (3) bekezdésben foglalt kötelezettségének nem tett eleget, bármely képviselő indítványára – a száz, vagy a száznál kevesebb lakosú község kivételével a képviselők közül választott háromtagú bizottság javaslata alapján – a képviselő-testület a következő ülésén, legkésőbb az összeférhetetlenség megállapításának kezdeményezését követő 30 napon belül határozattal megállapítja az összeférhetetlenség alapjául szolgáló körülmények fennállását, és kimondja az összeférhetetlenséget, illetőleg dönthet a hozzájárulás megadásáról, ha e törvény ezt lehetővé teszi. A képviselő-testület határozatát az ülést követő munkanapon a polgármesternek kézbesíteni kell.
 
-(5) A polgármester az összeférhetetlenségét, illetőleg a megbízatás megszűnését megállapító képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított 8 napon belül a fővárosi, megyei bíróságtól.
+(5) A polgármester az összeférhetetlenségét, illetőleg a megbízatás megszűnését megállapító képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított 8 napon belül a törvényszéktől.
 
 (6) A bíróság a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság a polgármestert, a keresettel megtámadott határozatot hozó képviselő-testület képviselőjét, illetőleg a kereset előterjesztőjét meghallgathatja. A bíróság döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
 
-(7) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a fővárosi, megyei bíróságnál kezdeményezheti a polgármester összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A bíróság eljárására a (6) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett polgármester, illetve a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
+(7) A fővárosi és megyei kormányhivatal a törvényszéknél kezdeményezheti a polgármester összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A bíróság eljárására a (6) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett polgármester, illetve a fővárosi és megyei kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.

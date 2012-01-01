@@ -1,6 +1,6 @@
 90. § (1) A helyi önkormányzat gazdálkodásának biztonságáért a képviselő-testület, a gazdálkodás szabályszerűségéért a polgármester felelős.
 
-(2) A veszteséges gazdálkodás következményei az önkormányzatot terhelik, kötelezettségeiért az állami költségvetés nem tartozik felelősséggel.
+(2) A veszteséges gazdálkodás következményei az önkormányzatot terhelik, kötelezettségeiért a központi költségvetés nem tartozik felelősséggel.
 
 (3) A helyi önkormányzat adósságrendezési eljárásáról külön törvény rendelkezik.
 

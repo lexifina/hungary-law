@@ -8,7 +8,7 @@
 
 (5) Lakott területrész átadása esetén az ott lakó választópolgárok – helyi népszavazással kinyilvánított – többségi támogatása szükséges a megállapodáshoz.
 
-(6) A képviselő-testületek – az előzetes megállapodásnak megfelelően – a lakott területrész átadásáról, annak részletes feltételeiről a helyi népszavazást követően kilencven napon belül állapodnak meg. Megállapodás hiányában az érintett képviselő-testület keresete alapján a megyei bíróság – soron kívül – dönt. Döntése a megállapodást pótolja.
+(6) A képviselő-testületek – az előzetes megállapodásnak megfelelően – a lakott területrész átadásáról, annak részletes feltételeiről a helyi népszavazást követően kilencven napon belül állapodnak meg. Megállapodás hiányában az érintett képviselő-testület keresete alapján a törvényszék – soron kívül – dönt. Döntése a megállapodást pótolja.
 
 (7) Lakott területrész átadása nem tagadható meg, ha a képviselő-testületek előzetes megállapodást kötöttek, és az átadással a területrész választópolgárainak többsége helyi népszavazás során egyetértett.
 

@@ -1,4 +1,4 @@
-96/A. § A helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszter
+96/A. § A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter
 
 a) előkészíti az Országgyűlés és a köztársasági elnök hatáskörébe tartozó területszervezési döntéseket,
 

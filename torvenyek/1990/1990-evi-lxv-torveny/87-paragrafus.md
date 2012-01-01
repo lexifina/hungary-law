@@ -1,4 +1,4 @@
-87. § (1) Önállósága és működőképessége védelme érdekében kiegészítő állami támogatás illeti meg az önhibáján kívül hátrányos helyzetben levő települési önkormányzatot. A támogatás feltételéről és mértékéről az Országgyűlés az állami költségvetési törvényben dönt.
+87. § (1) Önállósága és működőképessége védelme érdekében kiegészítő állami támogatás illeti meg az önhibáján kívül hátrányos helyzetben levő települési önkormányzatot. A támogatás feltételéről és mértékéről az Országgyűlés a központi költségvetésről szóló törvényben dönt.
 
 (2) Új önkormányzati feladat megállapítása esetén az Országgyűlés egyidejűleg biztosítja az ellátáshoz szükséges pénzügyi fedezetet.
 

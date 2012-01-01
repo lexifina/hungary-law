@@ -16,7 +16,7 @@ f) abban az ügyben, amelyet az önkormányzati rendelet meghatároz.
 
 (3) A képviselő-testület helyi népszavazást rendelhet el:
 
-a) a képviselő-testület hatáskörébe tartozó ügyben,
+a) a képviselő-testület feladat- és hatáskörébe tartozó ügyben,
 
 b) az önkormányzati rendelet megerősítésére.
 

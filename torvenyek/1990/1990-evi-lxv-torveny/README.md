@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-65-00-00
 | 2011-08-01 | 2011. évi XCI. törvény | 1990-65-00-00.54 |
 | 2011-11-15 | 2011. évi CXLIX. törvény | 1990-65-00-00.55 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1990-65-00-00.56 |
+| 2012-01-01 | 2011. évi CLXXXIX. törvény | 1990-65-00-00.57 |

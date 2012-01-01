@@ -2,9 +2,9 @@
 
 91. § (1) Az önkormányzat meghatározza gazdasági programját és költségvetését.
 
-(2) A költségvetés összeállításának részletes szabályait az államháztartásról szóló törvény, a finanszírozás rendjét és az állami hozzájárulás mértékét az állami költségvetési törvény határozza meg.
+(2) A költségvetés összeállításának részletes szabályait az államháztartásról szóló törvény, a finanszírozás rendjét és az állami hozzájárulás mértékét a központi költségvetésről szóló törvény határozza meg.
 
-(3) Az állami költségvetési tervezés önkormányzatokat érintő feladatait az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter végzi.
+(3) A központi költségvetésről szóló törvény tervezésének önkormányzatokat érintő feladatait az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter végzi.
 
 (4) Az országgyűlési költségvetési döntéseket az önkormányzati érdekszövetségekkel lefolytatott egyeztetés után, a véleményük figyelembevételével kell meghozni.
 

@@ -2,7 +2,7 @@
 
 ## HELYI NÉPSZAVAZÁS, NÉPI KEZDEMÉNYEZÉS
 
-45. § (1) A helyi népszavazásban és népi kezdeményezésben az vehet részt, aki a helyi önkormányzati választáson választójogosult.
+45. § (1) A helyi népi kezdeményezésben az vehet részt, aki a helyi önkormányzati képviselők és polgármesterek választásán választó.
 
 (2) A helyi népszavazás
 

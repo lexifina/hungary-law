@@ -26,7 +26,7 @@ l) ellátja az önkormányzati levegőtisztaság-, vízminőség-védelmi felada
 
 m) közreműködik a foglalkoztatási gondok megoldásában;
 
-n) gondoskodik az egynél több kerületet, illetőleg a főváros területét is meghaladó ellátási kötelezettség körében: a középiskolai, a szakiskolai és a kollégiumi ellátásról, ha a feladat ellátását a kerületi önkormányzat nem vállalja; a művészeti, közművelődési, a közgyűjteményi feladatok ellátásáról; az alapellátást meghaladó egészségügyi szakellátásról és szakosított szociális ellátásról; a gyermek- és ifjúságvédelmi tevékenység biztosításáról, fejlesztéséről; a testnevelési, sportszervezési és ifjúsági feladatokról; részt vesz az egynél több kerületet érintő közoktatási, közművelődési, tudományos, művészeti, sport-, valamint gyermek- és ifjúsági tevékenység összehangolásában;
+n) gondoskodik az egynél több kerületet, illetőleg a főváros területét is meghaladó ellátási kötelezettség körében: a középiskolai, a szakiskolai és a kollégiumi ellátásról, ha a feladat ellátását a kerületi önkormányzat nem vállalja; a művészeti, közművelődési, a közgyűjteményi feladatok ellátásáról; szakosított szociális ellátásról; a gyermek- és ifjúságvédelmi tevékenység biztosításáról, fejlesztéséről; a testnevelési, sportszervezési és ifjúsági feladatokról; részt vesz az egynél több kerületet érintő közoktatási, közművelődési, tudományos, művészeti, sport-, valamint gyermek- és ifjúsági tevékenység összehangolásában;
 
 o) gondoskodik az egynél több kerületet, illetőleg a főváros területét meghaladó, a nemzeti és etnikai kisebbségi oktatási, nevelési és kulturális feladatok ellátásáról;
 

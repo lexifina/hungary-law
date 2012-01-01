@@ -2,7 +2,7 @@
 
 ## A MEGYEI JOGÚ VÁROS
 
-61. § (1) Az Országgyűlés — a képviselő-testület kérelmére — az ötvenezernél nagyobb lakosságszámú várost megyei jogú várossá nyilváníthatja. A megyeszékhely város megyei jogú. A megyei jogú város települési önkormányzat, és területén — megfelelő eltérésekkel — saját hatásköreként ellátja a megyei önkormányzati feladat- és hatásköröket is.
+61. § (1)
 
 (2) A megyei jogú város képviselő-testülete a közgyűlés.
 
