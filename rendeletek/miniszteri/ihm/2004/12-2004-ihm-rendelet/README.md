@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-12-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2004-12-20-0P.2 | 12/2004. (IV. 22.) IHM rendelet |
+| 2012-01-01 | 2004-12-20-0P.3 | 19/2017. (VI. 21.) NFM rendelet |
