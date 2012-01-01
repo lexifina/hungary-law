@@ -10,7 +10,7 @@ c) települési hulladék: a háztartásokból származó szilárd vagy folyéko
 
 d) folyékony hulladék: az a hulladékká vált folyadék, amelyet nem vezetnek el, és nem bocsátanak ki szennyvízelvezető hálózaton, illetve szennyvíztisztító telepen keresztül;
 
-e) gyártó: a termék előállítója, nem a Magyar Köztársaság területén történő előállítás esetén az, aki a terméket gazdasági tevékenysége keretében a Magyar Köztársaság területére behozza;
+e) gyártó: a termék előállítója, nem Magyarország területén történő előállítás esetén az, aki a terméket gazdasági tevékenysége keretében Magyarország területére behozza;
 
 f) termelő: akinek a tevékenysége során a hulladék keletkezik vagy tevékenysége következtében a hulladék jellege és összetétele megváltozik;
 

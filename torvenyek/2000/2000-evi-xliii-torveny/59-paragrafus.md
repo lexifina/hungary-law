@@ -80,7 +80,7 @@ bb) az egészségügyi hulladék kezelésének részletes szabályait,
 
 bc) a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi követelményeket;
 
-c) a bányászati ügyekért felelős miniszter, hogy az ásványi alapanyagok kitermeléséből származó hulladék kezelésének részletes szabályait;
+c)
 
 d)
 
