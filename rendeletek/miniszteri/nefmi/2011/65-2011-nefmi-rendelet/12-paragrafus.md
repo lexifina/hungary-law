@@ -1,3 +1,1 @@
-## 11. §[^2]
-
-[^2]: A 11. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+## 11. § Az R. 1. számú melléklete helyébe a Melléklet lép.
