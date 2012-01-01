@@ -6,6 +6,8 @@
 
 a) bankgarancia,
 
-b) a Magyar Köztársaság területén biztosítási tevékenység végzésére jogosult biztosítóval kötött felelősségbiztosítás (a továbbiakban: biztosítás).
+b)[^1] Magyarország területén biztosítási tevékenység végzésére jogosult biztosítóval kötött felelősségbiztosítás (a továbbiakban: biztosítás).
 
 (2) Az egyes vagyoni biztosítékformák külön-külön és együttesen is alkalmazhatók.
+
+[^1]: Az 5. § (1) bekezdés b) pontja a 304/2011. (XII. 23.) Korm. rendelet 41. §-a szerint módosított szöveg.
