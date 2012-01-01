@@ -1,1 +1,0 @@
-85. § A tisztviselői munkakör betöltésére a munkáltatói jogkör gyakorlója pályázatot írhat ki. A pályázatra egyebekben a törvénynek az ügyészek pályázatára vonatkozó rendelkezéseit kell megfelelően alkalmazni.

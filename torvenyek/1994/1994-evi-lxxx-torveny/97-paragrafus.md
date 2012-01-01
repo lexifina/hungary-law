@@ -1,1 +1,0 @@
-97. § E törvény alkalmazásában hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefogadó, a nevelő- és a mostohaszülő, az örökbefogadott, a nevelt és a mostohagyermek, a testvér és ennek házastársa, a házastárs, az élettárs, a házastárs egyeneságbeli rokona és testvére.

@@ -1,1 +1,0 @@
-110. § Az ügyészségi alkalmazottak ügyészségi szolgálati viszonyával kapcsolatban a legfőbb ügyész — az érintett munkavállalói érdekképviseleti szervezetekkel egyetértésben — szabályokat állapíthat meg az olyan kérdésekben, amelyeket e törvény nem szabályoz, és a Munka Törvénykönyve szerint a kollektív szerződés keretébe tartozhatnak.

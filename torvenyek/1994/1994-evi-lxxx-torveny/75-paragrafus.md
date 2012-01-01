@@ -1,1 +1,0 @@
-75. § Az ügyészségnek az ügyésszel szemben az ügyészségi szolgálati viszonyból eredő kártérítési felelősségére és a kártérítés iránti igény érvényesítésének rendjére a Munka Törvénykönyvének a munkáltató kártérítési felelősségére vonatkozó szabályait kell megfelelően alkalmazni.

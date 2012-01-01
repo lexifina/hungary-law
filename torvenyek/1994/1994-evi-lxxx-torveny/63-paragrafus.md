@@ -1,5 +1,0 @@
-63. § (1) A fegyelmi jogkör gyakorlója határozatával a fegyelmi eljárás alá vont ügyészt a fegyelmi vétségben vétkesnek mondja ki, és büntetést szab ki, kivéve, ha az 53. § (3) bekezdése alapján a fegyelmi büntetés kiszabásától eltekint. Meg kell szüntetnie a fegyelmi eljárást, ha az eljárás alá vont ügyész ügyészségi szolgálati viszonya a határozat közlése előtt megszűnt, továbbá ha megállapítást nyert, hogy az eljárás alá vont ügyész a terhére rótt fegyelmi vétséget nem követte el, vagy annak elkövetése nem bizonyítható, illetőleg az elévült.
-
-(2) Ha a fegyelmi eljárás tárgyává tett kötelességszegés miatt a büntető bíróság jogerős határozatával már megállapította az ügyész felelősségét, a fegyelmi jogkör gyakorlója nem állapíthatja meg, hogy az eljárás alá vont ügyész nem követte el a terhére rótt fegyelmi vétséget.
-
-(3) A hivatalvesztés fegyelmi büntetés esetén az ügyész állásából való felfüggesztését fenn kell tartani, vagy el kell rendelni. Más fegyelmi büntetés kiszabása esetén a felfüggesztést meg kell szüntetni.

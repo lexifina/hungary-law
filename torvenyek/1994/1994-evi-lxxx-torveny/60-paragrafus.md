@@ -1,1 +1,0 @@
-60. § Az eljárás alá vont ügyész képviseletével a fegyelmi jogkör gyakorlójánál alacsonyabb munkakört betöltő ügyészt vagy ügyvédet bízhat meg. Az ügyész kérelmére a fegyelmi eljárás során az ügyészségen működő munkavállalói érdekképviseleti szerv részvételét, illetőleg képviseleti jogának gyakorlását biztosítani kell.

@@ -1,1 +1,0 @@
-103. § A törvény nem érinti a hatálybalépésekor fennálló legfőbb ügyészi megbízatás, illetőleg a már betöltött magasabb vezető állású ügyészi és vezető állású ügyészi, valamint magasabb vezető állású tisztviselői és vezető állású tisztviselői munkakörökbe történt kinevezések érvényességét.
