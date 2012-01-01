@@ -18,4 +18,4 @@ c) az ideiglenes vagyonfelügyelőnek, a felszámolónak és a vagyonfelügyelő
 
 (7) A (3)–(6) bekezdésben szereplő rendeleteket az igazságügyért felelős miniszter legkésőbb e törvény hatálybalépését 90 nappal megelőzően köteles kihirdetni.
 
-(8) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Bíróság Gazdasági Hivatalának az 59. § (5) bekezdésében foglaltak szerint a központi költségvetéssel történő elszámolásának, valamint a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.
+(8) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Törvényszék Gazdasági Hivatalának az 59. § (5) bekezdésében foglaltak szerint a központi költségvetéssel történő elszámolásának, valamint a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.

@@ -1,8 +1,8 @@
 ## IV. Fejezet
 
-## A NEMZETGAZDASÁGI SZEMPONTBÓL KIEMELT JELENTŐSÉGŰ GAZDÁLKODÓ SZERVEZETEKRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
+## A STRATÉGIAILAG KIEMELT JELENTŐSÉGŰ GAZDÁLKODÓ SZERVEZETEKRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
 
-65. § (1) A Kormány rendeletben nemzetgazdasági szempontból kiemelt jelentőségű gazdálkodó szervezetnek minősítheti azokat a (3) bekezdésben meghatározott körbe tartozó gazdálkodó szervezeteket,
+65. § (1) A Kormány rendeletben stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősítheti azokat a (3) bekezdésben meghatározott körbe tartozó gazdálkodó szervezeteket,
 
 a) amelyek adósságainak rendezéséhez, hitelezőikkel való megegyezéséhez, reorganizációjához nemzetgazdasági érdek vagy kiemelt közérdek fűződik, vagy
 
@@ -10,15 +10,15 @@ b) amelyek esetében – ha a vagyonhiány és a fizetésképtelenség előrelá
 
 (2) A Kormány az (1) bekezdés szerinti rendeletet csődeljárás esetén legkésőbb
 
-a) a csődeljárás kezdő időpontjától [10. § (3) bekezdés] számított 15 napon belül,
+a) a csődeljárás kezdő időpontjától [10. § (1) bekezdés] számított 15 napon belül,
 
 b) felszámolási eljárás esetén pedig legkésőbb a felszámolás kezdő időpontjától [27. § (1) bekezdés, 28. § (1) bekezdés] számított 30 napon belül
 
 hirdetheti ki.
 
-(3) Nemzetgazdasági szempontból kiemelt jelentőségűnek minősíthető az a gazdálkodó szervezet,
+(3) Stratégiailag kiemelt jelentőségűnek minősíthető az a gazdálkodó szervezet,
 
-a) amelynek működése nemzetbiztonsági, honvédelmi, rendvédelmi, haditechnikai, energiabiztonsági, energiaellátási, iparbiztonsági, katasztrófavédelmi, természetvédelmi, környezetvédelmi, közegészségügyi, közműszolgáltatási, infrastruktúra-fejlesztési, kulturális örökségvédelmi, tömegtájékoztatási, hírközlési, közlekedési, közlekedésbiztonsági, kutatás-fejlesztési, népegészségügyi indokból vagy a lakosság alapvető közszolgáltatásokkal, alapvető élelmiszerekkel való ellátása szempontjából országos jelentőségűnek, valamint bel- és külgazdasági, foglalkoztatáspolitikai szempontból kiemelt vállalkozásnak tekinthető,
+a) amelynek működése nemzetbiztonsági, honvédelmi, rendvédelmi, haditechnikai, energiabiztonsági, energiaellátási, iparbiztonsági, katasztrófavédelmi, természetvédelmi, környezetvédelmi, közegészségügyi, közműszolgáltatási, infrastruktúra-fejlesztési, kulturális örökségvédelmi, tömegtájékoztatási, hírközlési, közlekedési, közlekedésbiztonsági, kutatásfejlesztési, népegészségügyi indokból vagy a lakosság alapvető közszolgáltatásokkal, alapvető élelmiszerekkel való ellátása szempontjából országos jelentőségűnek, valamint bel- és külgazdasági, foglalkoztatáspolitikai szempontból, vagy a lakosság távhőszolgáltatással vagy más közműszolgáltatással való ellátása szempontjából kiemelt vállalkozásnak tekinthető,
 
 b) amely nemzetgazdasági szempontból jelentős projekteket valósít meg,
 

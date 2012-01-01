@@ -15,3 +15,5 @@ f) az adós székhelye szerint illetékes levéltárat;
 g) az adós számláit vezető valamennyi pénzforgalmi szolgáltatót,
 
 h) az ingatlanügyi hatóságot.
+
+i) az alapítási, illetve tevékenységi engedélyt kiadó hatóságot, amennyiben az adós alapítási vagy tevékenységi engedélyhez kötött tevékenységet is folytat.

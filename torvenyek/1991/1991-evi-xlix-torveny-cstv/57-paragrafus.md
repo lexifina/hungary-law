@@ -36,7 +36,7 @@ b) a felszámolás kezdő időpontja után az adós gazdasági tevékenységéne
 
 c) a vagyon értékesítésével és a követelések érvényesítésével kapcsolatos igazolt költségek;
 
-d) az adóst terhelő, a Munkaerőpiaci Alap bérgarancia alaprészéből kapott támogatás;
+d) az adóst terhelő, a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből kapott támogatás;
 
 e) a felszámolással kapcsolatos bírósági eljárás során felmerült, a gazdálkodó szervezetet terhelő költségek;
 

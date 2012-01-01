@@ -4,9 +4,9 @@
 
 (3) A felszámolási eljárásban bejelentett követelések 46. § (6) bekezdése szerinti megvizsgálásának határideje 40 nap, és a vitatható követelések bíróság számára történő megküldésének határideje 10 nap. A bíróság a vitatható igények elbírálása tárgyában soron kívül dönt.
 
-(4) A nemzetgazdasági szempontból kiemelt jelentőségű gazdálkodó szervezet felszámolása esetén a 38. § (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy az óvadék jogosultja számára – a Ptk. 271. §-a szerinti jogai érvényesítésére – nyitva álló határidő két hónap.
+(4) A stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolása esetén a 38. § (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy az óvadék jogosultja számára – a Ptk. 271. §-a szerinti jogai érvényesítésére – nyitva álló határidő két hónap.
 
-(5) Az állami felszámoló a 39. § (1) bekezdése szerinti hitelezői gyűlést 60 napon belül köteles összehívni. A 39. §-ban foglalt kötelezettségek megszegése esetén a bíróság az állami felszámoló felmentése helyett a társaságot és a felszámolóbiztost 300 000 forintig terjedő pénzbírsággal sújtja. A hitelezők, a hitelezői választmány (hitelezők képviselője) tájékoztatására vonatkozó kötelezettsége teljesítésekor a felszámolóbiztos köteles figyelembe venni az adós nemzetgazdaságilag kiemelt, sajátos tevékenységével összefüggő titokvédelmi követelményeket is.
+(5) A 66. § (2) bekezdés szerinti felszámoló a 39. § (1) bekezdése szerinti hitelezői gyűlést 60 napon belül köteles összehívni. A 39. §-ban foglalt kötelezettségek megszegése esetén a bíróság az állami felszámoló felmentése helyett a társaságot és a felszámolóbiztost 300 000 forintig terjedő pénzbírsággal sújtja. A hitelezők, a hitelezői választmány (hitelezők képviselője) tájékoztatására vonatkozó kötelezettsége teljesítésekor a felszámolóbiztos köteles figyelembe venni az adós stratégiailag kiemelt, sajátos tevékenységével összefüggő titokvédelmi követelményeket is.
 
 (6) A 41. § (5) bekezdése szerinti egyezségi tárgyalást az adós kérelmének kézhezvételétől számított 45 napon belül kell megtartani. Egyezség megkötésére a 44. § (1) bekezdését és 45. §-át azzal az eltéréssel kell alkalmazni, hogy a bíróság az egyezséget akkor is jóváhagyhatja, ha az egyezséget támogató hitelezők követelése az egyezség megkötésére jogosult hitelezők összes követelésének legalább a felét kiteszi.
 
@@ -15,5 +15,7 @@
 (8) A felszámolási zárómérleg elkészítésére nyitva álló határidő 270 nap, kivéve, ha a hitelezői választmány az adós tevékenységének a felszámolási eljárás alatt történő továbbfolytatásához hozzájárult, illetve az 52. § (2) bekezdése szerinti esetben. A bíróság a felszámolási zárómérleget és vagyonfelosztási javaslatot – az 56. § (1) bekezdésének alkalmazásával – a kézhezvételtől számított 21 napon belül küldi meg a hitelezőknek.
 
 (9) Az 53. §-t azzal az eltéréssel kell alkalmazni, hogy a hatósági engedélyhez, koncesszióhoz kötött tevékenységet vagy törvényben meghatározott közszolgáltatási tevékenységet végző adósnak az e tevékenységével összefüggő iratait az adott tevékenységet folytató szervezet részére kell átadni.
+
+(9a) Amennyiben az adós a bányászatról szóló törvény, a földgázellátásról szóló törvény, a távhőszolgáltatásról szóló törvény vagy a villamos energiáról szóló törvény hatálya alá tartozó engedélyes, a 66. § (2) bekezdés szerinti felszámoló az értékesítési pályázati feltételeket az engedélyt kiadó hatóság bevonásával alakítja ki oly módon, hogy az adós gazdálkodó szervezet vagyona működő üzemként, olyan szervezet részére kerüljön átadásra, amely a közszolgáltatás ellátását folyamatosan biztosítani tudja.
 
 (10) Az 56. § (2) bekezdés szerinti – a be nem hajtott követeléseket és az értékesítetlen vagyontárgyakat a hitelezők között felosztó – bírósági döntés meghozatalánál a (8) bekezdés szerinti határidőket kell figyelembe venni.
