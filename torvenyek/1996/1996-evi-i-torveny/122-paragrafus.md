@@ -1,5 +1,0 @@
-## VIII. Fejezet
-
-## A TULAJDONRA VONATKOZÓ SZABÁLYOK
-
-122–127. §
