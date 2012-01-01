@@ -158,6 +158,6 @@
 
 ## 4 Közös beruházás esetén külön sorszámozott lapon társult önkormányzatonként kell kitölteni.
 
-8. számú melléklet a 104/1998. (V. 22.) Korm. rendelethez[^41]
+8. számú melléklet a 104/1998. (V. 22.) Korm. rendelethez[^42]
 
-[^41]: A 8. számú mellékletet a 123/2001. (VII. 10.) Korm. rendelet 4. §-a iktatta be, a 19/2005. (II. 11.) Korm. rendelet 25. §-ának (6) bekezdése hatályon kívül helyezte.
+[^42]: A 8. számú mellékletet a 123/2001. (VII. 10.) Korm. rendelet 4. §-a iktatta be, a 19/2005. (II. 11.) Korm. rendelet 25. §-ának (6) bekezdése hatályon kívül helyezte.

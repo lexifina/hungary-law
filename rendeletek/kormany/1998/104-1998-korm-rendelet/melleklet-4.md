@@ -1,6 +1,6 @@
 ## A megvalósíthatósági tanulmány egészségügyi ellátásra vonatkozó részletes követelményei
 
-## A)[^37] Címzett támogatással megvalósuló kórház-rekonstrukciók megvalósíthatósági tanulmányának tartalma
+## A)[^38] Címzett támogatással megvalósuló kórház-rekonstrukciók megvalósíthatósági tanulmányának tartalma
 
 ## Az orvosszakmai programban olyan rekonstrukciós vagy fejlesztési (a továbbiakban: beruházási) feladat fogalmazható meg, amely illeszkedik az egészségügy korszerűsítésének programjához, és megvalósítja a működés racionalizálását.
 
@@ -48,7 +48,7 @@
 
 ## A beruházás valamennyi megvalósíthatósági lehetősége esetében be kell mutatni:
 
-## A bruttó és a hasznos alapterületre vonatkozó adatokat, továbbá ezen adatokra az 1 m2-re eső fajlagos költségmutatót[^38] (ÁFA-val növelt áron, az építés-szerelésre vonatkozóan, tehát a gép-műszer beszerzés és első készletbeszerzés költsége nélkül).
+## A bruttó és a hasznos alapterületre vonatkozó adatokat, továbbá ezen adatokra az 1 m2-re eső fajlagos költségmutatót[^39] (ÁFA-val növelt áron, az építés-szerelésre vonatkozóan, tehát a gép-műszer beszerzés és első készletbeszerzés költsége nélkül).
 
 ## Az orvosi gép-műszerek ÁFA-val növelt beszerzési árát. A beruházás teljes – a megvalósítás időszakára prognosztizált – költségelőirányzatát (mely az előző pontokban felsoroltakon túlmenően külön-külön tartalmazza a tervezés, bonyolítás, az első készletbeszerzés árát is). A működési költségeket illetően az egyes megvalósíthatósági lehetőségek esetében a programnak tartalmaznia kell, hogy a beruházás előtt, és a fejlesztést, illetve rekonstrukciót követően:
 
@@ -90,5 +90,5 @@
 
 4. számú melléklet a 104/1998. (V. 22.) Korm. rendelethez
 
-[^37]: A 3. számú melléklet A) pontja a 351/2010. (XII. 30.) Korm. rendelet 52. §-a szerint módosított szöveg.
-[^38]: Ahol fajlagos költségmutató nem számítható (pl. veszélyes hulladékégető, mosoda stb. esetében), ott az adott feladat beruházási összköltségét kell rögzíteni.
+[^38]: A 3. számú melléklet A) pontja a 351/2010. (XII. 30.) Korm. rendelet 52. §-a szerint módosított szöveg.
+[^39]: Ahol fajlagos költségmutató nem számítható (pl. veszélyes hulladékégető, mosoda stb. esetében), ott az adott feladat beruházási összköltségét kell rögzíteni.

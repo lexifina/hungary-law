@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-104-20-
 | --- | --- | --- |
 | 2009-10-01 | 1998-104-20-22.14 | 104/1998. (V. 22.) Korm. rendelet |
 | 2011-01-01 | 1998-104-20-22.15 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2012-01-01 | 1998-104-20-22.16 | 340/2004. (XII. 22.) Korm. rendelet |

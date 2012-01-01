@@ -24,7 +24,7 @@
 
 ## c) a lakossági források, a fejlesztési hozzájárulások, egyéb források (hitel, kötvény, alapítványi támogatás stb.) tervezett igénybevételét.
 
-## 6.[^32] A megvalósíthatósági tanulmány elemzést ad az egyes források elmaradásának kezelésére, valamint a hitelfelvétel, kötvénykibocsátás megalapozottságának bemutatására.
+## 6.[^33] A megvalósíthatósági tanulmány elemzést ad az egyes források elmaradásának kezelésére, valamint a hitelfelvétel, kötvénykibocsátás megalapozottságának bemutatására.
 
 ## 7. Az üzemeltetés feltételeinek vizsgálata – az ágazati jellemzők figyelembevételével – kiterjed az üzemeltetés, illetve a közszolgáltatás jogi, intézményi kereteire, a jelenlegi és a beruházás üzembe helyezése után várható üzemeltetési költségekre.
 
@@ -32,4 +32,4 @@
 
 2. számú melléklet a 104/1998. (V. 22.) Korm. rendelethez
 
-[^32]: Az 1. számú melléklet 6. pontja a 32/2000. (III. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^33]: Az 1. számú melléklet 6. pontja a 32/2000. (III. 14.) Korm. rendelet 6. §-ával megállapított szöveg.

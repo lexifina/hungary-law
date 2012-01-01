@@ -74,6 +74,6 @@
 
 ## d) a megvalósítás és az üzemeltetés forrásainak részletes bemutatása (közös üzemeltetésű intézmény esetén a fenntartók szerinti részletezésben).
 
-6. számú melléklet a 104/1998. (V. 22.) Korm. rendelethez[^40]
+6. számú melléklet a 104/1998. (V. 22.) Korm. rendelethez[^41]
 
-[^40]: A 6. számú mellékletet a 19/2005. (II. 11.) Korm. rendelet 25. §-ának (6) bekezdése hatályon kívül helyezte.
+[^41]: A 6. számú mellékletet a 19/2005. (II. 11.) Korm. rendelet 25. §-ának (6) bekezdése hatályon kívül helyezte.
