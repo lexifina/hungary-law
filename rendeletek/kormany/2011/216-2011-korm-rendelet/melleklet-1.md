@@ -1,4 +1,6 @@
-1. melléklet a 216/2011. (X. 19.) Korm. rendelethez
+## 6. §[^2] Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel megállapított 1. § (1) bekezdés a) pontjában foglaltakat a 2012. január 1-jét megelőzően már benyújtott kérelmek esetében is alkalmazni kell.
+
+1. melléklet a 216/2011. (X. 19.) Korm. rendelethez[^3]
 
 ## A támogatással beszerezhető eszközök listája
 
@@ -12,7 +14,7 @@
 
 |  | 3. | CRP vizsgáló készülék | 400 ezer Ft |
 
-|  | 4. | hordozható kislabor-készülék (vércukor, lipidek, coagulometer stb.) 1 | 200 ezer Ft |
+|  | 4. | hordozható kislabor-készülék (vércukor, lipidek, coagulometer stb.) | 200 ezer Ft |
 
 |  | 5. | vérkép és/vagy vizelet analizáló kislabor gép | 1,5 millió Ft |
 
@@ -24,19 +26,19 @@
 
 |  | 9. | pulzoximéter | 80 ezer Ft |
 
-|  | 10. | kilégzett levegő CO mérő 1 | 70 ezer Ft |
+|  | 10. | kilégzett levegő CO mérő | 70 ezer Ft |
 
-|  | 11. | EKG készülékek* 1 | 1 millió Ft |
+|  | 11. | EKG készülékek* | 1 millió Ft |
 
-|  | 12. | praxis Holter 1 | 1,5 millió Ft |
+|  | 12. | praxis Holter | 1,5 millió Ft |
 
-|  | 13. | Defibrillátor 1 | 1 millió Ft |
+|  | 13. | Defibrillátor | 1 millió Ft |
 
-|  | 14. | ABPM* 1 | 200 ezer Ft |
+|  | 14. | ABPM* | 400 ezer Ft |
 
-|  | 15. | Szűrőaudiometer 1 | 310 ezer Ft |
+|  | 15. | Szűrőaudiometer | 310 ezer Ft |
 
-|  | 16. | Tens-készülék 1 | 100 ezer Ft |
+|  | 16. | Tens-készülék | 100 ezer Ft |
 
 |  | 17. | rendelői számítógép rendszer** | 600 ezer Ft |
 
@@ -52,7 +54,7 @@
 
 |  | 1. | Eszközök | Az eszközért maximálisan elszámolható összeg |
 
-|  | 2. | mennyezeti lámpa, fogászati műtőlámpa 1 | 600 ezer Ft |
+|  | 2. | mennyezeti lámpa, fogászati műtőlámpa | 600 ezer Ft |
 
 |  | 3. | fogászati kezelő egység | 1,5 millió Ft |
 
@@ -60,9 +62,9 @@
 
 |  | 5. | kompressor, exhaustor | 1,5 millió Ft |
 
-|  | 6. | kéziműszer*, fogó* 1 | 30 ezer Ft/db |
+|  | 6. | kéziműszer*, fogó* | 30 ezer Ft/db |
 
-|  | 7. | műszertartó fiók betét 1 | 20 ezer Ft |
+|  | 7. | műszertartó fiók betét | 20 ezer Ft |
 
 |  | 8. | higiénés berendezés* (mechanikus és automata kézmosó) | 200 ezer Ft |
 
@@ -78,9 +80,9 @@
 
 |  | 14. | rtg.-film digitalizáló | 1 millió Ft |
 
-|  | 15. | hőlégsterilizátor, autokláv 1 | 1,5 millió Ft |
+|  | 15. | hőlégsterilizátor, autokláv | 1,5 millió Ft |
 
-|  | 16. | Gyorssterilizáló 1 | 1,5 millió Ft |
+|  | 16. | Gyorssterilizáló | 1,5 millió Ft |
 
 |  | 17. | UH tisztító berendezés | 200 ezer Ft |
 
@@ -112,9 +114,9 @@
 
 |  | 31. | polimerizációs lámpa | 700 ezer Ft |
 
-|  | 32. | elektrokauter/UH radiosebészet 1 | 1,5 millió Ft |
+|  | 32. | elektrokauter/UH radiosebészet | 1,5 millió Ft |
 
-|  | 33. | Diódalézer 1 | 1,5 millió Ft |
+|  | 33. | Diódalézer | 1,5 millió Ft |
 
 |  | 34. | caries és plakk dg. készülék | 1,5 millió Ft |
 
@@ -128,12 +130,13 @@
 
 |  | 39. | rendelői számítógép rendszer** | 600 ezer Ft |
 
-|  | 40. | betegnyilvántartási, kezelési program | 1 millió Ft |
+|  | 40. |  |  |
 
 __________
 
 * Több darab is beszerezhető.
 
-** Ideértve: asztali számítógép és annak tartozékai, monitor, vonalkód nyomtatására alkalmas nyomtató/másoló, szkenner, online adatközlő, illetve fogadó interface, hardver, szakmai (orvosi és védőnői) és felhasználói szoftver, külső adattároló, és az itt felsoroltak hordozható változatai (például: laptop).
+** Ideértve: asztali számítógép és annak tartozékai, monitor, vonalkód nyomtatására alkalmas nyomtató/másoló, szkenner, online adatközlő, illetve fogadó interface, hardver, szakmai (orvosi és védőnői) és felhasználói szoftver, betegnyilvántartási, kezelési program és az itt felsoroltak hordozható változatai (például: laptop).
 
-1 Többségi magyar vagy kizárólag magyar tulajdonban levő gyártó cég terméke támogatott.
+[^2]: A 6. §-t a 325/2011. (XII. 28.) Korm. rendelet 99. §-a iktatta be.
+[^3]: Az 1. melléklet a 325/2011. (XII. 28.) Korm. rendelet 100. §-a szerint módosított szöveg.
