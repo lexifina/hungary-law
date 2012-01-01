@@ -38,16 +38,4 @@ q) az egyes művészeti tevékenységeket folytatók öregségi nyugdíjra jogos
 
 r) a korengedményes nyugdíjba vonulás lehetőségének meghosszabbításáról szóló 283/2009. (XII. 11.) Korm. rendelet.
 
-(2) Hatályát veszti
-
-a) a társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény 4. § (3) bekezdés c) pont 4. alpontja,
-
-b) az egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény TIZENÖTÖDIK RÉSZE és 396. §-a.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
+(2)
