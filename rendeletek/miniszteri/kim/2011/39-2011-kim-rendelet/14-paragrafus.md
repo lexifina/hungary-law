@@ -1,0 +1,3 @@
+14. § (1) A kibocsátó az elektronikus utalvány-nyilvántartást megszüntetheti, és a kártyát visszavonhatja, ha a nyilvántartás huszonnégy hónapon keresztül nem tartalmaz érvényes, még felhasználható elektronikus utalványt. Az elektronikus utalvány-nyilvántartás megszüntetéséről és az elektronikus utalványkártya visszavonásáról a kibocsátó előzetesen, a visszavonást és a megszüntetést megelőzően legalább hatvan nappal köteles tájékoztatni az utalványost.
+
+(2) Az elektronikus utalványkártya lejárati ideje minimum három év. A huszonnégy hónapnál rövidebb időközönként nyújtott juttatás esetén a kibocsátó köteles lejáratkor új elektronikus utalványkártyát biztosítani.
