@@ -1,27 +1,21 @@
 ## A helyi önkormányzatok tűzoltósággal kapcsolatos tevékenysége
 
-28. § (1) A hivatásos önkormányzati tűzoltósággal rendelkező települési, fővárosban a fővárosi önkormányzat képviselő-testülete
+28. § (1) A települési önkormányzat képviselő-testülete
 
-a) a katasztrófák elleni védekezésért felelős miniszter előzetes egyetértésével megszüntetheti a hivatásos önkormányzati tűzoltóságot. Erre vonatkozóan a miniszter részére a központi katasztrófavédelmi szerv vezetője tesz javaslatot;
+a) hozzájárulhat a hivatásos tűzoltóság, valamint hozzájárul – amennyiben területén működik – az önkormányzati tűzoltóság és az önkéntes tűzoltó egyesület fenntartásához,
 
-b) elrendelheti az irányítása alá tartozó tűzoltóság rendkívüli készenléti szolgálatát;
+b) önkormányzati tűzoltóság, önkéntes tűzoltó egyesület alapításában vehet részt,
 
-c) a fővárosban a központi katasztrófavédelmi szerv vezetője véleményének kikérésével kinevezi és felmenti a hivatásos önkormányzati tűzoltóparancsnokot, gyakorolja a vele kapcsolatos – jogszabályban meghatározott – munkáltatói jogköröket;
+c) gondoskodik az önkormányzati tűzoltóság fenntartásáról, működtetéséről és fejlesztéséről,
 
-d) a területi katasztrófavédelmi szerv véleményének kikérésével kinevezi és felmenti a hivatásos önkormányzati tűzoltóparancsnokot, gyakorolja a vele kapcsolatos – jogszabályban meghatározott – munkáltatói jogköröket;
+d) közreműködik a tűzoltási és műszaki mentési feladatok ellátásában közreműködő önkéntes tűzoltó egyesület fenntartásában, működtetésében és fejlesztésében,
 
-e) önkéntes tűzoltóság alapításában vehet részt;
+e) hozzájárulhat más tűzoltóság létesítéséhez, fenntartásához, fejlesztéséhez.
 
-f) beszámoltatja a hivatásos önkormányzati tűzoltóparancsnokot.
+(2) Az önkormányzati tűzoltósággal rendelkező települési önkormányzat képviselő-testülete
 
-(2) A hivatásos önkormányzati tűzoltósággal nem rendelkező települési önkormányzat képviselő-testülete
+a) elrendelheti az irányítása alá tartozó tűzoltóság rendkívüli készenléti szolgálatát,
 
-a) a katasztrófák elleni védekezésért felelős miniszter előzetes egyetértésével hivatásos önkormányzati tűzoltóságot hozhat létre;
+b) beszámoltatja az önkormányzati tűzoltóparancsnokot.
 
-b) önkéntes tűzoltóság alapításában vehet részt;
-
-c) gondoskodik az önkéntes tűzoltóság fenntartásáról, működtetéséről és fejlesztéséről;
-
-d) megállapítja az önkéntes tűzoltóság fenntartásához, illetőleg a költségvetéséhez való hozzájárulás mértékét;
-
-e) hozzájárulhat más tűzoltóság létesítéséhez.
+(3) Az önkormányzati tűzoltósággal rendelkező települési önkormányzat képviselő-testülete a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett megszüntetheti az önkormányzati tűzoltóságot. A minisztert a döntésről legalább fél évvel a megszüntetés tervezett időpontja előtt kell értesíteni.

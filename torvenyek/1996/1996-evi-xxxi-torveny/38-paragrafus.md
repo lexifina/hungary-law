@@ -1,9 +1,1 @@
-38. § A készenlétet ellátó önkéntes és létesítményi tűzoltó mentesíthető
-
-–
-
-– a polgári védelmi kötelezettség,
-
-– részben vagy teljesen a helyi adó megfizetése
-
-alól.
+38. § A készenlétet ellátó önkormányzati és létesítményi tűzoltó mentesíthető részben vagy teljesen a helyi adó megfizetése alól.

@@ -8,4 +8,6 @@
 
 a) a beavatkozást igénylő eseményt szándékosan okozta;
 
-b) a tűzoltásra vagy a műszaki mentésre vonatkozóan szándékosan megtévesztő jelzést adott.
+b) a tűzoltásra vagy a műszaki mentésre vonatkozóan szándékosan megtévesztő jelzést adott;
+
+c) gondatlansága miatt téves automatikus tűzátjelzés keletkezett.

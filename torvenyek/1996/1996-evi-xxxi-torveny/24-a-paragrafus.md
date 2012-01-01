@@ -1,9 +1,19 @@
 ## A központi katasztrófavédelmi szerv vezetőjének irányító tevékenysége
 
-24/A. § A központi katasztrófavédelmi szerv vezetője
+24/A. § A hivatásos katasztrófavédelmi szerv központi szerve vezetője
 
-a) közvetlen utasítást adhat a tűzoltóság egységeinek a tűz oltási és műszaki mentési feladatokban történő részvételre, az ezzel kapcsolatos felkészítésre, jelentéstételre, működési területük elhagyására, továbbá rendkívüli készenléti szolgálatuk elrendelésére,
+a) irányítja a hivatásos tűzoltóság tevékenységét,
 
-b) kezdeményezi a tűzoltóságok Szerelési Szabályzata, a rendkívüli állapotban alkalmazandó Tűzoltási és Műszaki Mentési Szabályzat és a tűzoltó sport versenyszabályzat kiadását,
+b) közvetlen utasítással irányítja a tűzoltóság egységeinek a tűzoltási és műszaki mentési feladatokban történő részvételét, az ezzel kapcsolatos felkészítést, jelentéstételt, működési területük elhagyását, továbbá rendkívüli készenléti szolgálatuk elrendelését,
 
-c) koordinálja a hivatásos önkormányzati és az önkéntes tűzoltóságok költségvetés tervezésével kapcsolatos feladatait.
+c) kezdeményezi a hivatásos tűzoltóság létrehozását, megszüntetését,
+
+d) kinevezi és felmenti a tűzoltó parancsnokot, gyakorolja a vele kapcsolatos – jogszabályban meghatározott – munkáltatói jogköröket,
+
+e) kiadja a tűzoltóságok Szerelési Szabályzatát, a rendkívüli állapotban alkalmazandó Tűzoltási és Műszaki Mentési Szabályzatát, a tűzoltóság tűzoltási és műszaki mentési tevékenységének részletes szabályait, a hivatásos tűzoltóságok működési területét, a hivatásos tűzoltóságok készenlétben tartandó legkisebb gépjármű és technikai eszközállományát és műszaki megfelelőségük ellenőrzésének rendjét, a hivatásos tűzoltóságok létszámát és szervezési kategóriába sorolását, és a tűzoltósport versenyszabályzatát,
+
+f) koordinálja és ellenőrzi az önkormányzati tűzoltóságok költségvetés tervezésével kapcsolatos feladatait,
+
+g) folyamatosan ellenőrzi az önkormányzati tűzoltóságok és az önkéntes tűzoltó egyesületek költségvetési és egyéb forrásból származó pénzeszközei felhasználását,
+
+h) a hivatásos katasztrófavédelmi szerv területi szerve útján ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét.

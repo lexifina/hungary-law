@@ -8,13 +8,17 @@ c) a tűzoltóságok tagjaira vonatkozó élet- és baleset-biztosítási kötel
 
 d) a létesítményi tűzoltóságra vonatkozó részletes szabályokat;
 
-e) az önkéntes tűzoltóság létesítésének, működésének feltételeit, feladatát;
+e) az önkormányzati tűzoltóság létesítésének, működésének feltételeit, feladatát;
 
 f) a tűzvédelmi bírság, valamint e törvény 44. §-a alapján fizetendő hozzájárulás befizetési és elszámolási rendjét, valamint felhasználásának és ellenőrzésének módját;
 
-g) a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szervet, továbbá a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági eljárás részletes szabályait;
+g) a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szervet, a piacfelügyeleti bírság mértékét, továbbá a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági eljárás és a piacfelügyeleti bírság részletes szabályait;
 
-h) a központi és a területi katasztrófavédelmi szervet.
+h) a központi és a területi katasztrófavédelmi szervet;
+
+i) a tűzvédelmi tervezői tevékenység folytatásának részletes feltételeit, a névjegyzék személyes adatot nem tartalmazó adattartalmát, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
+
+j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásának részletes szabályait.
 
 (2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben határozza meg:
 
@@ -30,15 +34,13 @@ h) a központi és a területi katasztrófavédelmi szervet.
 
 6. a központi költségvetési előirányzat terhére igényelhető beruházási, fejlesztési támogatás pályázati rendszerét,
 
-7. Riasztási és Segítségnyújtási Terv részletes szabályait, a hivatásos önkormányzati és az önkéntes tűzoltóságok működési területét, valamint a tűzoltóságok vonulásaival kapcsolatos költségek megtérítésének szabályait,
-
-8. a hivatásos önkormányzati tűzoltóságok központilag finanszírozott létszámát, valamint a hivatásos önkormányzati és az önkéntes tűzoltóságok szervezési kategória meghatározásának elveit és az azokba történő besorolást.
+7–8.
 
 9. azon technikai eszközök körét, amelyek beszerzését a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium szervezésében vagy útján lehet igényelni és a beszerzés pályázati feltételeit,
 
 10. a tűzoltási, műszaki mentési és az ezekhez kapcsolódó tűzvédelmi technika tervezésének, fejlesztésének, rendszeresítésének, felülvizsgálatának és javításának követelményeit és ellenőrzési rendszerét,
 
-11. a tűzoltóság tűzoltási és műszaki mentési tevékenységének szabályait,
+11. a tűzoltóság tűzoltási és műszaki mentési tevékenységének általános szabályait, a TMMT készítésével érintett létesítmények kiválasztására vonatkozó szabályokat, a TMMT tartalmi követelményeit.
 
 12. a tűzvédelmi szabályzat általános elveit,
 
@@ -52,19 +54,17 @@ h) a központi és a területi katasztrófavédelmi szervet.
 
 17. a Magyarországon működő polgári repülőterek tűzoltó védelmi kategóriáját biztosító szervezetek működésére, fenntartására, fejlesztésére, személyi és technikai feltételeire vonatkozó részletes szabályokat,
 
-18. a hivatásos önkormányzati tűzoltóságok illetékességi területét,
+18.
 
 19. a hivatásos tűzoltóságok Szolgálati Szabályzatát,
 
-20. a hivatásos önkormányzati tűzoltóságok és az önkéntes tűzoltóságok készenlétben tartandó legkisebb gépjármű és technikai eszköz állományát, és műszaki megfelelőségük ellenőrzésének rendjét,
-
-21. a tűzoltóságok Szerelési Szabályzatát,
-
-22. a tűzoltósport versenyszabályzatát,
+20–22.
 
 23. a tűzvédelem műszaki követelményeinek megállapítását,
 
-24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit, a tevékenységek bejelentésének és a tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
+24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit, a tevékenységek bejelentésének és a tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+
+25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat.
 
 (3)
 
@@ -78,4 +78,8 @@ a) a tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttmű
 
 b) az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
 
-c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel,
+
+d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatás szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel
+
+egyetértésben rendeletben állapítsa meg.

@@ -8,6 +8,4 @@
 
 (5) A megfelelőségi igazolást, a tűzvédelmi megfelelőségi tanúsítványt, illetve a (2) bekezdésben meghatározott hatósági engedélyt vissza kell vonni, ha a termék nem felel meg a megfelelőségi igazolásban, a tűzvédelmi megfelelőségi tanúsítványban vagy a hatósági engedélyben megállapított követelményeknek.
 
-(6) Az EGT-megállapodásban részes államokon, illetve Törökországon kívüli harmadik országból származó tűzoltó-technikai termék, tűz- vagy robbanásveszélyes készülék, gép, berendezés forgalmazásához, használatához, beépítéséhez, készenlétben tartásához a tűzvédelmi hatóság hatósági engedélye szükséges.
-
-(7) A (6) bekezdésben meghatározott hatósági engedély tűzvédelmi megfelelőséget igazoló vizsgálati jegyzőkönyv alapján adható meg.
+(6)–(7)

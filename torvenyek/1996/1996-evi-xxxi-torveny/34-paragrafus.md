@@ -1,5 +1,7 @@
-34. § (1) Az önkéntes tűzoltóság a települési önkormányzat vagy az önkormányzati társulás és a tűzoltó egyesület által közösen alapított köztestület, amely kérheti közhasznúsági nyilvántartásba vételét. Az önkéntes tűzoltóság tűzoltási és műszaki mentési célokra folyamatosan igénybe vehető készenléti szolgálatot lát el, és önálló működési területtel rendelkezik. A működési terület megállapítását a székhely szerinti települési önkormányzat képviselő-testülete kezdeményezi a katasztrófák elleni védekezésért felelős miniszternél.
+## Az önkormányzati tűzoltóság
 
-(2) Az önkéntes tűzoltóság parancsnokát a területi katasztrófavédelmi szerv vezetője véleményének kikérése mellett a köztestület nevezi ki.
+34. § (1) Az önkormányzati tűzoltóság a települési önkormányzat vagy az önkormányzati társulás és az önkéntes tűzoltó egyesület által közösen vagy a települési önkormányzat vagy az önkormányzati társulás által önállóan alapított köztestület, amely a települési önkormányzat vagy az önkormányzati társulás közigazgatási területén, a hivatásos tűzoltósággal kötött együttműködési megállapodás alapján és annak szakmai iránymutatása alapján tűzoltási és műszaki mentési célokra folyamatosan igénybe vehető készenléti szolgálatot lát el és közreműködik közvetlen tűz- és robbanásveszély esetén a biztonsági intézkedések végrehajtásában. Az önkormányzati tűzoltóság kérheti közhasznúsági nyilvántartásba vételét.
 
-(3) Az önkéntes tűzoltóság székhelye szerinti települési önkormányzat részére a központi költségvetés az átvállalt feladattal arányos költségfedezetet biztosítja.
+(2) Az önkormányzati tűzoltóság parancsnokát a hivatásos katasztrófavédelmi szerv területi szerve vezetője egyetértésével a köztestület nevezi ki.
+
+(3) Az önkormányzati tűzoltóság székhelye szerinti települési önkormányzat részére a hivatásos katasztrófavédelmi szerv központi szerve költségvetéséből erre a célra biztosított költségkeret mértékéig az általuk végzett feladattal arányos költségfedezetet biztosítja.

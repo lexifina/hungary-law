@@ -1,6 +1,6 @@
 ## A létesítményi tűzoltóság
 
-35. § (1) A létesítményi tűzoltóság a gazdálkodó szervezet vagy más jogi személy tevékenységével összefüggő tűzoltási és más műszaki mentési feladatok elsődleges ellátására létrehozott és fenntartott szervezet. A létesítményi tűzoltóságot több gazdálkodó szervezet vagy más jogi személy közösen is létrehozhatja és fenntarthatja.
+35. § (1) A létesítményi tűzoltóság a gazdálkodó szervezet tevékenységével összefüggő tűzoltási és más műszaki mentési feladatok elsődleges ellátására létrehozott és fenntartott szervezet. A létesítményi tűzoltóságot több gazdálkodó szervezet közösen is létrehozhatja és fenntarthatja.
 
 (2) A létesítményi tűzoltóság a fenntartó szervezetén belül, annak szervezeti egységeként, gazdasági társaságként vagy kooperációs társaságként, illetve más nonprofit gazdasági társaságként is működhet.
 

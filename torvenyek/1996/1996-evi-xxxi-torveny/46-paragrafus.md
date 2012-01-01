@@ -2,9 +2,7 @@
 
 (2) A területi katasztrófavédelmi szervet, valamint a tűzoltó szakiskolát ingyenes használati jog illeti meg a használatukban lévő, de nem állami tulajdonban álló ingatlanok és ingóságok tekintetében.
 
-(3) A hivatásos önkormányzati tűzoltóságok használatában lévő állami tulajdonú ingatlanok és ingóságok térítésmentesen a fenntartó önkormányzatok tulajdonába kerülnek.
-
-(4) A megyei önkormányzatok tulajdonában lévő ingatlanok és ingóságok – megegyezés esetén – térítésmentesen a hivatásos önkormányzati tűzoltóságot fenntartó önkormányzatok tulajdonába adhatók.
+(3)–(4)
 
 (5) A tűzoltóság vonatkozásában központi gazdálkodás körébe tartoznak:
 

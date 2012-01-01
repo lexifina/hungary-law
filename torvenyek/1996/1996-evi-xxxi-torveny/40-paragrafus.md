@@ -1,1 +1,1 @@
-40. § A rendvédelmi szervek kártérítési felelősségéről rendelkező jogszabályokat az önkéntes és a létesítményi tűzoltókra is alkalmazni kell. Az ennek alapján járó összeget az igénybe vevő fizeti meg.
+40. § A rendvédelmi szervek kártérítési felelősségéről rendelkező jogszabályokat az önkormányzati és a létesítményi tűzoltókra is alkalmazni kell. Az ennek alapján járó összeget az igénybe vevő fizeti meg.

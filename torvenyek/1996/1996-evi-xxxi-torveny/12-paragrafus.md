@@ -1,8 +1,10 @@
+## Tűzmegelőzési feladatok
+
 12. § (1) Aki
 
 a) tűzoltó készülékek karbantartása és felülvizsgálata,
 
-b) tűzoltó technika felülvizsgálata, javítása, ha a szolgáltatás végzése az Országos Katasztrófavédelmi Főigazgatóság és annak területi szervei, hivatásos önkormányzati tűzoltóság, önkéntes tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technikára vonatkozó,
+b) tűzoltó technika felülvizsgálata, javítása, ha a szolgáltatás végzése a hivatásos katasztrófavédelmi szerv központi szerve, területi szervei, hivatásos tűzoltóságai, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technikára vonatkozó,
 
 c) beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése, kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
 
@@ -22,8 +24,4 @@ a) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, e
 
 b) a szolgáltatás megkezdésének és befejezésének időpontját, valamint
 
-c) az (1) bekezdés c) pontja szerinti tevékenység esetén a tűzvédelmi szakvizsga bizonyítvány számát és jogosultsági idejét.
-
-(4) Az (1) bekezdés szerinti tevékenység folytatására való jogosultságot a tűzvédelmi hatóság ellenőrzi.
-
-(5) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató az (1) bekezdés d)–e) pontjai szerinti tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a tűzvédelmi hatóságnak bejelenteni.
+c) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltókészülék-javító műhely címét.

@@ -1,9 +1,9 @@
-31. § (1) A hivatásos önkormányzati tűzoltóság a községekben, a városokban, a megyei jogú városokban és a fővárosban az önkormányzat intézményeként működik.
+31. § A hivatásos tűzoltóság
 
-(2) A hivatásos önkormányzati tűzoltóság
+a) tűzoltási és műszaki mentési tevékenységet végez, és közreműködik közvetlen tűz- és robbanásveszély esetén a biztonsági intézkedések végrehajtásában, ennek érdekében állandó készenléti jellegű szolgálatot tart,
 
-a) tűzoltási és műszaki mentési tevékenységet végez, illetőleg közreműködik közvetlen tűz- és robbanásveszély esetén a biztonsági intézkedések végrehajtásában, ennek érdekében állandó készenléti szolgálatot tart;
+b) a Kormány által rendeletben meghatározott tűzvédelmi hatósági feladatokat lát el,
 
-b) a Kormány által rendeletben meghatározott tűzvédelmi hatósági feladatokat lát el.
+c) székhelyén az önkormányzat kérésére közreműködik egyes, speciális felkészültséget vagy eszközöket igénylő a középületek biztonságos üzemeltetését szolgáló feladatok ellátásában,
 
-(3) A hivatásos önkormányzati tűzoltóság a (2) bekezdés b) pontjában foglalt feladatok ellátására is működtethető.
+d) ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét.

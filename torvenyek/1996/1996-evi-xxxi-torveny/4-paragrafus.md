@@ -12,7 +12,7 @@ d) tűzvédelmi megfelelőségi tanúsítvány: a kijelölt tanúsító szerveze
 
 e) tűzoltási feladat: a veszélyeztetett személyek mentése, a tűz terjedésének megakadályozása, az anyagi javak védelme, a tűz eloltása és a szükséges biztonsági intézkedések megtétele, továbbá a tűz közvetlen veszélyének elhárítása;
 
-f)
+f) tűzvizsgálat: a tűz keletkezési idejének, helyének és okának felderítésére irányuló hatósági tevékenység, amelynek célja olyan tűzmegelőzési, tűzoltási beavatkozási tapasztalatok megszerzése, következtetések levonása, amelyek alkalmasak a tűzmegelőzési ismeretek bővítésére és a mentési beavatkozási feltételek javítására;
 
 g) műszaki mentés: természeti csapás, baleset, káreset, rendellenes technológiai folyamat, műszaki meghibásodás, veszélyes anyag szabadba jutása vagy egyéb cselekmény által előidézett veszélyhelyzet során az emberélet, a testi épség és az anyagi javak védelme érdekében a tűzoltóság részéről – a rendelkezésére álló, illetőleg az általa igénybe vett eszközökkel – végzett elsődleges beavatkozói tevékenység;
 
@@ -22,8 +22,18 @@ i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkeze
 
 j) építési termék: minden olyan anyag, szerkezet, berendezés vagy több, különböző részből összeállított elem, amelyet azért állítanak elő, hogy építményekbe állandó jelleggel beépítsék;
 
-k) honosított harmonizált szabvány: az európai szabványügyi szervezetek által elfogadott és az Európai Unió Hivatalos Lapjában közzétett harmonizált európai szabvány, amelyet a magyar eljárási rendnek megfelelően nemzeti szabványként közzétettek;
+k) honosított harmonizált szabvány: az európai szabványügyi szervezetek által elfogadott és az Európai Unió Hivatalos Lapjában közzétett harmonizált európai szabvány, amelyet a magyar eljárási rendnek megfelelően magyar nyelven nemzeti szabványként közzétettek;
 
 l) tűzvédelmi biztonságossági követelmény: tűzvédelmi biztonságossági követelményt megállapító jogszabály, európai közösségi jogi aktus vagy honosított harmonizált szabvány;
 
-m) megfelelőségi igazolás: az építési termékek műszaki követelményeire és megfelelőségi igazolására vonatkozó külön jogszabályban meghatározott igazolás.
+m) megfelelőségi igazolás: az építési termékek műszaki követelményeire és megfelelőségi igazolására vonatkozó külön jogszabályban meghatározott igazolás;
+
+n) hivatásos tűzoltóság: tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott, önálló működési területtel rendelkező hivatásos tűzoltóság;
+
+o) tűzoltóőrs (tűzőrség): a hivatásos tűzoltóság elsődleges tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott szervezeti egysége;
+
+p) önkormányzati tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére létrehozott, önálló működési területtel nem rendelkező önkéntes tűzoltóság;
+
+q) létesítményi tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére, gazdálkodó szervezet által létrehozott, önálló működési területtel nem rendelkező tűzoltóság;
+
+r) önkéntes tűzoltó egyesület: a székhelye szerinti településen tűzoltási műszaki mentési feladatokban közreműködő egyesület.

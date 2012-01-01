@@ -1,0 +1,1 @@
+33/G. § Az önkéntes tűzoltó egyesület a működés, a fenntartás, valamint a létesítés, a fejlesztés és felújítás költségeihez pályázatot nyújthat be a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztériumhoz.
