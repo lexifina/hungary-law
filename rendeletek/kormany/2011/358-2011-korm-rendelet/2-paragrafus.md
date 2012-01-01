@@ -1,0 +1,1 @@
+## 1. § A Kormány a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek csődeljárásában és felszámolási eljárásában vagyonfelügyelőként, illetve felszámolóként a Hitelintézeti Felszámoló Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
