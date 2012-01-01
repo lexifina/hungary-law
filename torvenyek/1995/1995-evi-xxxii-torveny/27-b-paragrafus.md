@@ -1,4 +1,4 @@
-27/B. § (1) Aki a Magyar Köztársaság területén közösségi képviselőként állandó jelleggel, vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott határon átnyúló szolgáltatásnyújtás keretében kíván szabadalmi ügyvivői tevékenységet folytatni (a továbbiakban: eseti jellegű szolgáltatásnyújtás), köteles az erre irányuló szándékát a Kamarának bejelenteni.
+27/B. § (1) Aki Magyarország területén közösségi képviselőként állandó jelleggel, vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott határon átnyúló szolgáltatásnyújtás keretében kíván szabadalmi ügyvivői tevékenységet folytatni (a továbbiakban: eseti jellegű szolgáltatásnyújtás), köteles az erre irányuló szándékát a Kamarának bejelenteni.
 
 (2)
 

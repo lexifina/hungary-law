@@ -2,7 +2,7 @@
 
 a) nem felel meg azoknak a feltételeknek, amelyeknek az igazolását a 27/B. § (3) bekezdése előírja;
 
-b) jogerős határozattal a szabadalmi ügyvivői tevékenységnek a Magyar Köztársaság területén való folytatásától történő eltiltás fegyelmi büntetéssel sújtották;
+b) jogerős határozattal a szabadalmi ügyvivői tevékenységnek Magyarország területén való folytatásától történő eltiltás fegyelmi büntetéssel sújtották;
 
 c)
 

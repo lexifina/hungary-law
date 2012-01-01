@@ -4,7 +4,7 @@
 
 (2) A Kamara az ország egész területére kiterjedő illetékességgel jár el, székhelye Budapest.
 
-(3) A Kamara jogosult a Magyar Köztársaság címerének használatára.
+(3)
 
 (4) A Kamara ellátja a törvényben meghatározott közfeladatokat, valamint képviseli a szabadalmi ügyvivők érdekeit, védi a szabadalmi ügyvivők jogait, őrködik a szabadalmi ügyvivői kötelezettségek teljesítésén, és őrzi a szabadalmi ügyvivői kar tekintélyét.
 

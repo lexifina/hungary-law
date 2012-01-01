@@ -14,7 +14,7 @@ d) szabadalmi ügyvivői vizsgát tett.
 
 (3) A Kamarába való felvételhez rendelkezni kell
 
-a) a Magyar Köztársaság területére kiterjedő hatályú szabadalmi ügyvivői felelősségbiztosítással, kivéve, ha a szabadalmi ügyvivő kizárólag a 6. § (2) bekezdése szerinti gazdálkodó szervezetnél működik;
+a) Magyarország területére kiterjedő hatályú szabadalmi ügyvivői felelősségbiztosítással, kivéve, ha a szabadalmi ügyvivő kizárólag a 6. § (2) bekezdése szerinti gazdálkodó szervezetnél működik;
 
 b) a szabadalmi ügyvivői tevékenység folytatásához megfelelő irodahelyiséggel, kivéve, ha a szabadalmi ügyvivő a 6. § (2) bekezdése szerint gazdálkodó szervezetnél, illetve a 6/A. §, a 7. § (2) bekezdése vagy a 10. § (2) bekezdése alapján alkalmazott szabadalmi ügyvivőként működik.
 
