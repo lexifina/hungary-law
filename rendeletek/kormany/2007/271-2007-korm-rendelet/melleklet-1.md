@@ -1,6 +1,6 @@
 ## 12. § Ez a rendelet – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvénnyel együtt – a 2001/12/EK és a 2004/49/EK európai parlamenti és tanácsi irányelvvel módosított, a vasúttársaságok engedélyezéséről szóló, 1995. június 19-i 95/18/EK tanácsi irányelv 9. cikkének és 12. cikk (1) bekezdése a) pontjának való megfelelést szolgálja.
 
-1. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^5]
+1. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^7]
 
 ## Vasúti társaságokra irányadó fedezeti összeghatárok
 
@@ -158,4 +158,4 @@ ahol a
 
 A katasztrófa-balesetek fedezeti összeghatárának igazolásakor csak az általános vasúti balesetek fedezeti összeghatára fedezettel igazolt része feletti részt kell igazolni.
 
-[^5]: Az 1. melléklet az 56/2009. (III. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet az 56/2009. (III. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.

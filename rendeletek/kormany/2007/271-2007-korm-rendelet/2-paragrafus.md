@@ -1,4 +1,4 @@
-## 1. § E rendelet meghatározza a Magyar Köztársaság területén vasúti közlekedési tevékenységet végző, továbbá a Magyarországon bejegyzett vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmasságával kapcsolatosan teljesítendő követelményeket, és a teljesítés igazolásának módját.
+## 1. §[^1] E rendelet meghatározza Magyarország területén vasúti közlekedési tevékenységet végző, továbbá a Magyarországon bejegyzett vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmasságával kapcsolatosan teljesítendő követelményeket, és a teljesítés igazolásának módját.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -11,3 +11,5 @@ c) hatósági férőhely: a vasúti járművel – a megengedhető terhelés ala
 d) vasúti baleset: a vasúti közlekedés során bekövetkező – a vasutat, mint személyszállításra és árutovábbításra szolgáló kötöttpályás közlekedési rendszert és annak tartozékait, a vasúti pályát és annak tartozékait, az üzemi létesítményeket és a vasúti járműveket érintő – személyi sérüléssel vagy anyagi kárral járó esemény;
 
 e) veszélyes áru: a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF), B Függelék I. Mellékletét képező, a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) által ilyenként meghatározott áru.
+
+[^1]: Az 1. § a 304/2011. (XII. 23.) Korm. rendelet 30. §-a szerint módosított szöveg.

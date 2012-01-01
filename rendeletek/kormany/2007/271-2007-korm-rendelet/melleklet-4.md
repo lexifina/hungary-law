@@ -1,4 +1,4 @@
-4. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^8]
+4. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^10]
 
 ## Kockázatértékelési adatlap
 
@@ -26,4 +26,4 @@ Harmadik személyeknek okozott vasúti baleseti katasztrófa (tömegbaleset) kö
 
 Az adatokat személysérülés és dologi kárra történő bontásban, valamint összesítve kell megadni. Az adatokat forintban kell megadni.
 
-[^8]: A 4. melléklet a 182/2009. (IX. 10.) Korm. rendelet 570. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 4. melléklet a 182/2009. (IX. 10.) Korm. rendelet 570. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
