@@ -2,7 +2,7 @@
 
 1. § (1) E törvény hatálya kiterjed
 
-a) a Magyar Köztársaság területén székhellyel rendelkező hitelintézetre,
+a) a Magyarország területén székhellyel rendelkező hitelintézetre,
 
 b) az a) pontban meghatározott szervezetben a Magyar Állam nevében történő, e törvény szerinti befolyásszerzésre és befolyás megszüntetésére,
 

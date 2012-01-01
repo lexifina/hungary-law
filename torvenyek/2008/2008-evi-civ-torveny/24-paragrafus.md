@@ -8,7 +8,7 @@
 
 ## Melléklet a 2008. évi CIV. törvényhez
 
-1. Áht.: az államháztartásról szóló 1992. évi XXXVIII. törvény,
+1. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 
 2. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
 
@@ -18,7 +18,7 @@
 
 5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
 
-6. MNB tv.: a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény,
+6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 
 7. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény,
 
