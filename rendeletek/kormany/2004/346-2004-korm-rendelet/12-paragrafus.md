@@ -1,6 +1,6 @@
 ## Európai Unió jogának való megfelelés
 
-## 12. §[^9] Ez a rendelet
+## 12. §[^17] Ez a rendelet
 
 1. a nyilvános páneurópai digitális cellás földi mobil rádiótávközlés összehangolt közösségi bevezetése számára fenntartandó frekvenciasávokról szóló 1987. június 25-i 87/372/EGK tanácsi irányelvnek;
 
@@ -58,4 +58,4 @@
 
 való megfelelést szolgálja.
 
-[^9]: A 12. § a 109/2011. (VII. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 12. § a 109/2011. (VII. 4.) Korm. rendelet 1. §-ával megállapított szöveg.

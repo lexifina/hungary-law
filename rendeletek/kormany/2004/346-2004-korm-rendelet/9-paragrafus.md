@@ -1,4 +1,4 @@
-## 8. § A nemzeti lábjegyzetek az Eht. előírása szerint rendelkeznek az adott sávrészben megvalósítható rádióalkalmazásról, a felhasználható frekvenciasávról (vagy frekvenciáról), valamint a sáv (vagy frekvencia) használatbavételi lehetőségeiről, feltételeiről és idejéről. A lábjegyzetek tartalmazzák azokra a nemzetközi egyezményekre, illetve dokumentumokra való hivatkozásokat, amelyek alapján az adott rádióalkalmazást a Magyar Köztársaságban bevezették, illetve bevezethetik.
+## 8. §[^9] A nemzeti lábjegyzetek az Eht. előírása szerint rendelkeznek az adott sávrészben megvalósítható rádióalkalmazásról, a felhasználható frekvenciasávról (vagy frekvenciáról), valamint a sáv (vagy frekvencia) használatbavételi lehetőségeiről, feltételeiről és idejéről. A lábjegyzetek tartalmazzák azokra a nemzetközi egyezményekre, illetve dokumentumokra való hivatkozásokat, amelyek alapján az adott rádióalkalmazást Magyarországon bevezették, illetve bevezethetik.
 
 9. § (1) A táblázat nemzeti lábjegyzeteiben egy adott frekvenciasáv (vagy egy adott frekvencia) a sávban (vagy frekvencián) alkalmazható rádióalkalmazás (rádiótávközlő rendszer vagy berendezéscsoport) általi használatbavételi lehetősége szempontjából lehet:
 
@@ -47,3 +47,5 @@ g) a nem polgári célú mozgószolgálati alkalmazások részére a H22 lábjeg
 ## tartalmazza.
 
 (9) A rendeletben hivatkozott nemzetközi dokumentumok jegyzékét a 13. melléklet tartalmazza.
+
+[^9]: A 8. § a 304/2011. (XII. 23.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.

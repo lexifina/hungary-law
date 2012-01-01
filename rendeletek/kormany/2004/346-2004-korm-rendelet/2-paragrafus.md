@@ -6,8 +6,8 @@
 
 (3) A táblázat megállapítja a frekvenciasávok:
 
-a) Nemzetközi Rádiószabályzat[^1] (a továbbiakban: RR) szerinti, rádiószolgálatok részére történő nemzetközi felosztását Körzetenként; továbbá
+a) Nemzetközi Rádiószabályzat[^2] (a továbbiakban: RR) szerinti, rádiószolgálatok részére történő nemzetközi felosztását Körzetenként; továbbá
 
 b) rádiószolgálatok részére, valamint polgári, nem polgári és közös felhasználás céljára történő nemzeti felosztását.
 
-[^1]: A Nemzetközi Távközlési Egyesület Alapokmánya és Egyezménye [a 191/1997. (XI. 4.) Korm. rendelettel kihirdetve] kiegészítését képező igazgatási szabályzat.
+[^2]: A Nemzetközi Távközlési Egyesület Alapokmánya és Egyezménye [a 191/1997. (XI. 4.) Korm. rendelettel kihirdetve] kiegészítését képező igazgatási szabályzat.

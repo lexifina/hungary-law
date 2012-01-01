@@ -480,8 +480,8 @@
 
 |  | Rádiótávközlési Világértekezlet, Genf, 1997 |
 
-2. melléklet a 346/2004. (XII. 22.) Korm. rendelethez[^49]
+2. melléklet a 346/2004. (XII. 22.) Korm. rendelethez[^59]
 
 FREKVENCIASÁVOK NEMZETI FELOSZTÁSI TÁBLÁZATA
 
-[^49]: A 2. melléklet az 59/2006. (III. 21.) Korm. rendelet 7. § (2) bekezdése, a 295/2007. (XI. 9.) Korm. rendelet 5. § (2) bekezdése, a 254/2008. (X. 18.) Korm. rendelet 5. § (2) bekezdése, a 264/2009. (XI. 27.) Korm. rendelet 5. § (2) bekezdése, a 109/2011. (VII. 4.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^59]: A 2. melléklet az 59/2006. (III. 21.) Korm. rendelet 7. § (2) bekezdése, a 295/2007. (XI. 9.) Korm. rendelet 5. § (2) bekezdése, a 254/2008. (X. 18.) Korm. rendelet 5. § (2) bekezdése, a 264/2009. (XI. 27.) Korm. rendelet 5. § (2) bekezdése, a 109/2011. (VII. 4.) Korm. rendelet 3. § (2) bekezdése, a 304/2011. (XII. 23.) Korm. rendelet 19. § f)–g) pontja szerint módosított szöveg.

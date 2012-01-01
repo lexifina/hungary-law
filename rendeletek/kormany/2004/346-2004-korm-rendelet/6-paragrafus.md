@@ -22,6 +22,6 @@ c) védelemre jogosult az azonos vagy más másodlagos rádiószolgálat(ok) oly
 
 a) nem okozhatnak káros zavarást az elsődleges és másodlagos rádiószolgálat rádióállomásainak;
 
-b)[^2] nem tarthatnak igényt védelemre bármely rádiószolgálat, rádióalkalmazás rádióállomásai által okozott káros zavarásokkal szemben.
+b)[^8] nem tarthatnak igényt védelemre bármely rádiószolgálat, rádióalkalmazás rádióállomásai által okozott káros zavarásokkal szemben.
 
-[^2]: A 6. § (6) bekezdésének b) pontja az 59/2006. (III. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 6. § (6) bekezdésének b) pontja az 59/2006. (III. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
