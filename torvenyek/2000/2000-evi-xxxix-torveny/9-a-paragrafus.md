@@ -1,1 +1,0 @@
-9/A. § A köztársasági elnök az országgyűlési képviselők jogállásáról szóló törvény vonatkozó rendelkezései szerint a megbízatása megkezdésekor, megszűnésekor és félidejében – az esedékességtől számított harminc napon belül – vagyonnyilatkozatot tesz.

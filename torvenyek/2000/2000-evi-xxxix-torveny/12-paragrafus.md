@@ -1,1 +1,0 @@
-12. § A köztársasági elnök halála esetén özvegyét (ennek hiányában örökösét) – egy összegben – a köztársasági elnök hat havi tiszteletdíjának megfelelő összegű juttatás illeti meg. E juttatásból egészségbiztosítási és nyugdíjjárulékot fizetni nem kell, továbbá az a hozzátartozói nyugellátás megállapításakor a havi átlagkereset alapjául szolgáló keresetként sem vehető figyelembe.
