@@ -1,6 +1,6 @@
-## 57. §[^50] Ez a rendelet a kihirdetését követő 8. napon lép hatályba. A rendelet 53. §-ában foglaltakat 1996. szeptember 1-jétől kell alkalmazni.
+## 57. §[^37]
 
-1. számú melléklet a 20/1997. (III. 19.) BM rendelethez[^51]
+1. számú melléklet a 20/1997. (III. 19.) BM rendelethez[^38]
 
-[^50]: Az 57. § harmadik mondatát a 118/2008. (V. 8.) Korm. rendelet 3. § 205. pontja hatályon kívül helyezte.
-[^51]: Az 1. számú melléklet a 9/2010. (XII. 22.) BM rendelet 4. §-ával megállapított, a 2/2011. (II. 22.) BM rendelet 1. §-a, a 19/2011. (VI. 21.) BM rendelet 1. §-a szerint módosított szöveg.
+[^37]: Az 57. §-t a 66/2011. (XII. 30.) BM rendelet 43. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^38]: Az 1. számú mellékletet a 66/2011. (XII. 30.) BM rendelet 43. § (2) bekezdés d) pontja hatályon kívül helyezte.

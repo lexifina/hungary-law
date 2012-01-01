@@ -1,5 +1,5 @@
+## 4. §[^5]
+
 ## (A Hszt. 48. §-ához)
 
-5. § (1) A létszámcsökkentés vagy átszervezés miatt alacsonyabb beosztásba helyezett részére előző beosztására megállapított beosztási illetményt kell folyósítani.
-
-(2) Ha a hivatásos állomány tagját a Hszt. 48. § (1) bekezdésének b) és d) alpontja szerint helyezik alacsonyabb beosztásba, akkor az új beosztásra megállapított beosztási illetményre jogosult.
+[^5]: A 4. §-t a 66/2011. (XII. 30.) BM rendelet 43. § (2) bekezdés d) pontja hatályon kívül helyezte.

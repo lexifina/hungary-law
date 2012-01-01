@@ -1,8 +1,10 @@
+## 16–18. §[^20]
+
 ## A nemzeti szakértőként foglalkoztatott hivatásos
 
 ## állományút megillető juttatások
 
-18/A. §[^18] (1) A nemzeti szakértőként történő foglalkoztatás időtartama alatt a hivatásos állomány tagját a vezénylését megelőző besorolásának megfelelő illetményén és az uniós intézmény által fizetendő napidíjon felül az e rendeletben meghatározott egyéb juttatások illetik meg.
+18/A. §[^21] (1) A nemzeti szakértőként történő foglalkoztatás időtartama alatt a hivatásos állomány tagját a vezénylését megelőző besorolásának megfelelő illetményén és az uniós intézmény által fizetendő napidíjon felül az e rendeletben meghatározott egyéb juttatások illetik meg.
 
 (2) A nemzeti szakértőnek a nemzeti szakértőként történő foglalkoztatás időtartamára, a foglalkoztatás helye szerinti országban közös háztartásban életvitelszerűen együtt élő házastársa, élettársa (a továbbiakban: házastárs), gyermeke után a tényleges kiutazásától a végleges hazautazásának napjáig napidíjpótlék jár.
 
@@ -28,4 +30,5 @@ cb) 12. életév betöltését követően 15%-a, ameddig a gyermek iskolarendsze
 
 (6) A napidíjpótlékot havonta utólag, legkésőbb a tárgyhónapot követő hónap 5. napjáig kell forintban az érintett bankszámlájára történő átutalással kifizetni. A nemzeti szakértőként történő foglalkoztatás megszűnése esetén a napidíjpótlék kifizethető a hazautazást megelőző öt munkanappal korábban.
 
-[^18]: A 18/A. §-t és az azt megelőző alcímet a 36/2005. (VIII. 5.) BM rendelet 4. §-a iktatta a szövegbe.
+[^20]: A 16–18. §-t a 66/2011. (XII. 30.) BM rendelet 43. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^21]: A 18/A. §-t és az azt megelőző alcímet a 36/2005. (VIII. 5.) BM rendelet 4. §-a iktatta a szövegbe.

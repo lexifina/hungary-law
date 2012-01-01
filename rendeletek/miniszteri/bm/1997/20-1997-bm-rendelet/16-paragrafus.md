@@ -1,5 +1,5 @@
+## 15. §[^19]
+
 ## (A Hszt. 111. §-ához)
 
-16. § (1) Szolgálati kiküldetést teljesít a hivatásos állomány tagja, aki szolgálati érdekű feladatát a szolgálatteljesítés helyének közigazgatási határain kívül teljesíti.
-
-(2) A kiküldetés szolgálati jellegének megállapítására és a kiküldetés ,,menetlevélen'' történő elrendelésére az állományilletékes parancsnok jogosult.
+[^19]: A 15. §-t a 66/2011. (XII. 30.) BM rendelet 43. § (2) bekezdés d) pontja hatályon kívül helyezte.
