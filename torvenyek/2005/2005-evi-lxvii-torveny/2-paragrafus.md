@@ -1,3 +1,3 @@
-2. § (1) Az Állam által a Főváros részére nyújtott támogatás maximális összege 2002. évi áron, általános forgalmi adó nélkül összesen 208 869,6 millió forint.
+2. § (1) Az Állam által a Főváros részére nyújtott támogatás általános forgalmi adó nélkül számított legmagasabb folyóáras összegét, az 5. §-ban meghatározott Magyar Állam és Budapest Főváros Önkormányzata között létrejött szerződés módosításáról szóló szerződésben kell meghatározni.
 
 (2) A kontrollpozíció gyakorlását segítő szakértői szolgáltatás igénybevételére az Állam az állami támogatásból évente legfeljebb 50 millió forint összeget felhasználhat, amelyből a tárgyévben fel nem használt részt a tárgyévet követő kettő hónapon belül az Állam a Főváros számára a budapesti 4-es metróvonal megépítéséhez nyújtandó állami támogatásként igénybe vehetővé tesz a Fővárossal kötendő szerződésben foglalt rendelkezéseknek megfelelően.
