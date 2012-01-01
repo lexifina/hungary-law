@@ -8,7 +8,7 @@
 
 | 2 | kezelője | km | kezelője | km |  |
 
-| 3 | 1433,2 | 88,37 | Alsó- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság | 0,900 | Dél- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 3,800 | Államhatár |
+| 3 | 1433,2 | 88,37 | Alsó- Duna- völgyi Vízügyi Igazgatóság | 0,900 | Dél- dunántúli Vízügyi Igazgatóság | 3,800 | Államhatár |
 
 | 4 | 1437,0 | 88,48 | 5,043 | 6,700 |  |
 
@@ -30,7 +30,7 @@
 
 | 13 | 1460,0 | 89,63 |  |  |  |
 
-| 14 | 1465,0 | 89,96 | 34,200 | Közép- dunántúli Környezet- védelmi és Vízügyi Igaz- gatóság | 0,000 |  |
+| 14 | 1465,0 | 89,96 | 34,200 | Közép- dunántúli Vízügyi Igaz- gatóság | 0,000 |  |
 
 | 15 | 1468,2 | 90,17 | 38,400 |  | Szeremle |
 
@@ -48,7 +48,7 @@
 
 | 22 |  |  | Baja | 0,000 |  |  |
 
-| 23 |  |  | Alsó- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság | 2,665 |  |  |
+| 23 |  |  | Alsó- Duna- völgyi Vízügyi Igazgatóság | 2,665 |  |  |
 
 | 24 | 1480,2 | 90,96 | 2,900 |  | Duna-völgyi főcsatorna |
 
@@ -126,7 +126,7 @@
 
 | 61 | 1560,6 | 96,35 |  |  | Dunaföldvár, v.m., LNV = 703, /LNV/ = 924 |
 
-| 62 | 1563,7 | 96,56 | Közép- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 |  |  |
+| 62 | 1563,7 | 96,56 | Közép- Duna- völgyi Vízügyi Igazgatóság | 0,000 |  |  |
 
 | 63 | 1564,0 | 96,58 | 1,000 |  |  |
 
@@ -198,7 +198,7 @@
 
 | 97 | 1618,0 | 100,82 | 57,790 |  |  |
 
-| 98 | 1619,7 | 100,98 |  | Közép- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 |  |
+| 98 | 1619,7 | 100,98 |  | Közép- Duna- völgyi Vízügyi Igazgatóság | 0,000 |  |
 
 | 99 | 1620,4 | 101,04 |  | 1,580 | Dunafüred, hajóállomás |
 
@@ -246,9 +246,9 @@
 
 | 121 | 1658,7 | 104,20 | 0,000 |  | Fővárosi Vízművek, I. sz. telep |
 
-| 122 | 1659,3 | 104,24 |  | Közép- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 |  |
+| 122 | 1659,3 | 104,24 |  | Közép- Duna- völgyi Vízügyi Igazgatóság | 0,000 |  |
 
-| 123 | 1661,2 | 104,34 | Közép- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság |  |  |  |
+| 123 | 1661,2 | 104,34 | Közép- Duna- völgyi Vízügyi Igazgatóság |  |  |  |
 
 | 124 | 1664,3 | 104,52 |  |  | Horányi II. sz. vízmű |
 
@@ -298,7 +298,7 @@
 
 | 147 | 1697,0 | 106,42 |  |  |  |
 
-| 148 | 1699,5 | 106,61 |  | Észak- Dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Dömös |
+| 148 | 1699,5 | 106,61 |  | Észak- Dunántúli Vízügyi Igazgatóság |  | Dömös |
 
 | 149 | 1706,7 | 107,16 |  |  | Szob, v.m., LNV = 747 |
 
@@ -434,7 +434,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 118,32 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Mosoni-Duna |
+| 3 | 0,00 | 118,32 | Észak- dunántúli Vízügyi Igazgatóság | 0,000 | Észak- dunántúli Vízügyi Igazgatóság | 0,000 | Mosoni-Duna |
 
 | 4 | 4,00 | 121,07 | 4,160 | 4,160 | Lajta-bal parti csatorna |
 
@@ -464,7 +464,7 @@
 
 | 2 |  | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 121,07 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 4,160 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 4,160 | Lajta |
+| 3 | 0,00 | 121,07 | Észak- dunántúli Vízügyi Igazgatóság | 4,160 | Észak- dunántúli Vízügyi Igazgatóság | 4,160 | Lajta |
 
 | 4 | 3,00 | 122,69 |  |  |  |
 
@@ -486,7 +486,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 114,62 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Duna |
+| 3 | 0,00 | 114,62 | Észak- dunántúli Vízügyi Igazgatóság |  | Észak- dunántúli Vízügyi Igazgatóság |  | Duna |
 
 | 4 | 2,05 |  | 0,000 |  |  |
 
@@ -538,7 +538,7 @@
 
 | 2 | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 114,42 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Mosoni-Duna |
+| 3 | 0,00 | 114,42 | Észak- dunántúli Vízügyi Igazgatóság |  | Észak- dunántúli Vízügyi Igazgatóság |  | Mosoni-Duna |
 
 | 4 | 0,40 | 114,42 | 0,412 | 0,421 | Győr, v.m., LNV = 808 |
 
@@ -642,7 +642,7 @@
 
 | 54 | 86,26 | 153,68 |  | 83,835 | Sárvári vasúti híd |
 
-| 55 | 87,00 | 153,99 | Nyugat- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Nyugat- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  |  |
+| 55 | 87,00 | 153,99 | Nyugat- dunántúli Vízügyi Igazgatóság |  | Nyugat- dunántúli Vízügyi Igazgatóság |  |  |
 
 | 56 | 89,00 | 154,74 |  |  |  |
 
@@ -794,7 +794,7 @@
 
 | 2 | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 220,28 | Nyugat- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,040 | Nyugat- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Rába |
+| 3 | 0,00 | 220,28 | Nyugat- dunántúli Vízügyi Igazgatóság | 0,040 | Nyugat- dunántúli Vízügyi Igazgatóság |  | Rába |
 
 | 4 | 0,16 | 220,40 | 0,195 | 0,114 | Közúti híd |
 
@@ -810,7 +810,7 @@
 
 | 2 | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 113,33 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Mosoni-Duna |
+| 3 | 0,00 | 113,33 | Észak- dunántúli Vízügyi Igazgatóság |  | Észak- dunántúli Vízügyi Igazgatóság |  | Mosoni-Duna |
 
 | 4 | 0,15 | 114,42 |  |  | Rábca, árvízkapu |
 
@@ -848,7 +848,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 114,08 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Rábca |
+| 3 | 0,00 | 114,08 | Észak- dunántúli Vízügyi Igazgatóság |  | Észak- dunántúli Vízügyi Igazgatóság |  | Rábca |
 
 | 4 | 1,00 | 114,16 |  |  |  |
 
@@ -866,7 +866,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 114,78 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Rába |
+| 3 | 0,00 | 114,78 | Észak- dunántúli Vízügyi Igazgatóság |  | Észak- dunántúli Vízügyi Igazgatóság |  | Rába |
 
 | 4 | 0,60 | 114,80 | 0,336 |  | Duzzasztó |
 
@@ -908,7 +908,7 @@
 
 | 2 | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 136,57 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Észak- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Rába |
+| 3 | 0,00 | 136,57 | Észak- dunántúli Vízügyi Igazgatóság | 0,000 | Észak- dunántúli Vízügyi Igazgatóság | 0,000 | Rába |
 
 | 4 | 2,00 | 137,02 |  |  |  |
 
@@ -938,7 +938,7 @@
 
 | 2 | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 107,28 | Közép- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság |  | Szlovákia |  | Duna |
+| 3 | 0,00 | 107,28 | Közép- Duna- völgyi Vízügyi Igazgatóság |  | Szlovákia |  | Duna |
 
 | 4 | 1,00 | 107,42 |  |  |  |
 
@@ -1116,7 +1116,7 @@
 
 | 2 | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 104,11 | Közép- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság |  | Közép- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság |  | Duna |
+| 3 | 0,00 | 104,11 | Közép- Duna- völgyi Vízügyi Igazgatóság |  | Közép- Duna- völgyi Vízügyi Igazgatóság |  | Duna |
 
 | 4 | 2,40 |  |  | 0,000 |  |
 
@@ -1152,7 +1152,7 @@
 
 | 2 | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 93,38 | Közép- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Közép- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Duna |
+| 3 | 0,00 | 93,38 | Közép- dunántúli Vízügyi Igazgatóság |  | Közép- dunántúli Vízügyi Igazgatóság |  | Duna |
 
 | 4 | 2,59 | 92,44 | 0,000 | 0,000 | Sió torkolati mű |
 
@@ -1268,7 +1268,7 @@
 
 | 2 | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 92,72 | Nyugat- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Nyugat- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Sió |
+| 3 | 0,00 | 92,72 | Nyugat- dunántúli Vízügyi Igazgatóság | 0,000 | Nyugat- dunántúli Vízügyi Igazgatóság | 0,000 | Sió |
 
 | 4 | 1,10 | 92,82 | 1,100 | 1,100 |  |
 
@@ -1288,7 +1288,7 @@
 
 | 2 | m B. f. | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 91,42 | Alsó- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság |  | Alsó- Duna- völgyi Környezet- védelmi és Vízügyi Igazgatóság |  | Duna |
+| 3 | 0,00 | 91,42 | Alsó- Duna- völgyi Vízügyi Igazgatóság |  | Alsó- Duna- völgyi Vízügyi Igazgatóság |  | Duna |
 
 | 4 | 0,35 |  |  |  |  |
 
@@ -1306,7 +1306,7 @@
 
 | 1 | m B. f. | kezelője | km | kezelője | km |
 
-| 2 | 70,20 | 91,89 | Dél- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 5,000 | Horvát Köztár- saság |  | Államhatár |
+| 2 | 70,20 | 91,89 | Dél- dunántúli Vízügyi Igazgatóság | 5,000 | Horvát Köztár- saság |  | Államhatár |
 
 | 3 | 76,50 | 92,74 | 12,500 |  | Fekete-víz-torkolat |
 
@@ -1392,7 +1392,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 92,74 | Dél- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Dél- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Dráva |
+| 3 | 0,00 | 92,74 | Dél- dunántúli Vízügyi Igazgatóság |  | Dél- dunántúli Vízügyi Igazgatóság |  | Dráva |
 
 | 4 | 1,00 | 92,78 |  |  |  |
 
@@ -1412,7 +1412,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 94,32 | Dél- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 23,300 | Dél- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Fekete-víz |
+| 3 | 0,00 | 94,32 | Dél- dunántúli Vízügyi Igazgatóság | 23,300 | Dél- dunántúli Vízügyi Igazgatóság |  | Fekete-víz |
 
 | 4 | 0,75 | 94,48 | 24,050 |  |  |
 
@@ -1424,7 +1424,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 93,04 | Dél- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Dél- dunántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Dráva |
+| 3 | 0,00 | 93,04 | Dél- dunántúli Vízügyi Igazgatóság | 0,000 | Dél- dunántúli Vízügyi Igazgatóság | 0,000 | Dráva |
 
 | 4 | 3,00 | 93,17 |  |  |  |
 
@@ -1440,7 +1440,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 131,52 | Nyugat- dunántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Horvát Köztár- saság |  |  |
+| 3 | 0,00 | 131,52 | Nyugat- dunántúli Vízügyi Igazgatóság |  | Horvát Köztár- saság |  |  |
 
 | 4 | 2,24 | 132,40 |  |  | Principális-csatorna |
 
@@ -1496,7 +1496,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 159,60 | 82,99 | Alsó- Tisza- vidéki Környezet- védelmi és Vízügyi Igaz- gatóság |  | Alsó- Tisza- vidéki Környezet- védelmi és Vízügyi Igaz- gatóság |  | Államhatár a folyóban |
+| 3 | 159,60 | 82,99 | Alsó- Tisza- vidéki Vízügyi Igaz- gatóság |  | Alsó- Tisza- vidéki Vízügyi Igaz- gatóság |  | Államhatár a folyóban |
 
 | 4 | 160,05 | 83,01 |  | 0,129 |  |
 
@@ -1574,7 +1574,7 @@
 
 | 41 | 243,60 | 85,84 | 76,565 | 81,015 | Körös-torkolat |
 
-| 42 | 243,85 |  | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | 82,225 |  |
+| 42 | 243,85 |  | Közép- Tisza- vidéki Vízügyi Igazgatóság | 0,000 | 82,225 |  |
 
 | 43 | 245,60 | 85,89 | 1,520 | 84,085 |  |
 
@@ -1584,7 +1584,7 @@
 
 | 46 | 253,80 | 86,05 |  | 99,890 |  |
 
-| 47 | 256,00 | 86,10 |  | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  |  |
+| 47 | 256,00 | 86,10 |  | Közép- Tisza- vidéki Vízügyi Igazgatóság |  |  |
 
 | 48 | 266,90 | 86,35 |  |  |  |
 
@@ -1670,7 +1670,7 @@
 
 | 89 | 418,00 | 90,86 | 161,570 | 146,200 |  |
 
-| 90 | 425,00 | 91,08 | 167,592 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság |  |  |
+| 90 | 425,00 | 91,08 | 167,592 | Észak- magyar- országi Vízügyi Igazgatóság |  |  |
 
 | 91 | 426,30 | 91,14 | 168,550 |  | Tiszaörvényi szivattyútelep |
 
@@ -1678,7 +1678,7 @@
 
 | 93 | 430,43 | 91,31 | 172,300 | 8,016 | Tiszafüred v.m., LNV = 881 |
 
-| 94 | 430,90 |  | Tiszántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | 8,258 |  |
+| 94 | 430,90 |  | Tiszántúli Vízügyi Igazgatóság | 0,000 | 8,258 |  |
 
 | 95 | 432,00 | 91,41 |  |  |  |
 
@@ -1748,7 +1748,7 @@
 
 | 128 | 543,75 | 98,49 |  |  | Bodrog-torkolat |
 
-| 129 | 544,05 | 98,50 | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  |  | Tokaji közúti híd |
+| 129 | 544,05 | 98,50 | Felső- Tisza- vidéki Vízügyi Igazgatóság |  |  | Tokaji közúti híd |
 
 | 130 | 552,00 | 98,83 |  |  |  |
 
@@ -1804,7 +1804,7 @@
 
 | 155 | 643,35 |  |  | 0,000 | Államhatár a mederben |
 
-| 156 | 645,00 | 108,12 |  | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  |  |
+| 156 | 645,00 | 108,12 |  | Felső- Tisza- vidéki Vízügyi Igazgatóság |  |  |
 
 | 157 | 648,00 | 108,42 |  |  |  |
 
@@ -1864,7 +1864,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 121,42 | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Tiszai torkolat |
+| 3 | 0,00 | 121,42 | Felső- Tisza- vidéki Vízügyi Igazgatóság | 0,000 | Felső- Tisza- vidéki Vízügyi Igazgatóság |  | Tiszai torkolat |
 
 | 4 | 3,00 | 121,45 | 4,500 |  | Uszka |
 
@@ -1880,7 +1880,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 117,32 | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Tisza |
+| 3 | 0,00 | 117,32 | Felső- Tisza- vidéki Vízügyi Igazgatóság |  | Felső- Tisza- vidéki Vízügyi Igazgatóság |  | Tisza |
 
 | 4 | 1,00 |  | 0,000 | 0,000 |  |
 
@@ -1936,7 +1936,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 111,99 | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Tisza |
+| 3 | 0,00 | 111,99 | Felső- Tisza- vidéki Vízügyi Igazgatóság |  | Felső- Tisza- vidéki Vízügyi Igazgatóság |  | Tisza |
 
 | 4 | 3,24 | 112,82 |  | 0,980 | Olcsvaapáti, v.m., LNV = 920 |
 
@@ -1984,7 +1984,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 111,56 | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Tisza |
+| 3 | 0,00 | 111,56 | Felső- Tisza- vidéki Vízügyi Igazgatóság |  | Felső- Tisza- vidéki Vízügyi Igazgatóság |  | Tisza |
 
 | 4 | 1,45 | 111,63 | 0,000 |  | Vásárosnamény |
 
@@ -2024,7 +2024,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 99,33 | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Felső- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Tisza |
+| 3 | 0,00 | 99,33 | Felső- Tisza- vidéki Vízügyi Igazgatóság |  | Felső- Tisza- vidéki Vízügyi Igazgatóság |  | Tisza |
 
 | 4 | 0,30 | 99,33 | 0,000 |  | Vencsellő |
 
@@ -2052,7 +2052,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 98,52 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság |  | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság |  | Tisza |
+| 3 | 0,00 | 98,52 | Észak- magyar- országi Vízügyi Igazgatóság |  | Észak- magyar- országi Vízügyi Igazgatóság |  | Tisza |
 
 | 4 | 10,00 | 98,59 |  |  |  |
 
@@ -2090,7 +2090,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 95,70 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság |  | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság |  | Tisza |
+| 3 | 0,00 | 95,70 | Észak- magyar- országi Vízügyi Igazgatóság |  | Észak- magyar- országi Vízügyi Igazgatóság |  | Tisza |
 
 | 4 | 2,00 | 95,72 |  |  |  |
 
@@ -2252,9 +2252,9 @@
 
 | 5 | 6,62 | 95,67 | országi | 4,000 | országi |  |  |
 
-| 6 | 9,74 | 95,62 | Környezet- | 5,000 | Környezet- |  |  |
+| 6 | 9,74 | 95,62 |  | 5,000 |  |  |  |
 
-| 7 | 9,86 | 95,56 | védelmi és | 6,000 | védelmi és |  |  |
+| 7 | 9,86 | 95,56 |  | 6,000 |  |  |  |
 
 | 8 | 10,10 | 95,50 | Vízügyi | 8,000 | Vízügyi |  |  |
 
@@ -2282,7 +2282,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 101,47 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság |  | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság |  | Sajó |
+| 3 | 0,00 | 101,47 | Észak- magyar- országi Vízügyi Igazgatóság |  | Észak- magyar- országi Vízügyi Igazgatóság |  | Sajó |
 
 | 4 | 0,50 | 101,57 |  |  |  |
 
@@ -2532,7 +2532,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 91,40 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Tisza |
+| 3 | 0,00 | 91,40 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Tisza |
 
 | 4 | 3,00 | 91,48 |  |  |  |
 
@@ -2548,7 +2548,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 91,62 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Rima |
+| 3 | 0,00 | 91,62 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Rima |
 
 | 4 | 3,00 | 91,82 |  |  |  |
 
@@ -2562,7 +2562,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 90,87 | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 160,200 | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Tisza |
+| 3 | 0,00 | 90,87 | Közép- Tisza- vidéki Vízügyi Igazgatóság | 160,200 | Közép- Tisza- vidéki Vízügyi Igazgatóság | 0,000 | Tisza |
 
 | 4 | 4,80 |  | 165,000 | 4,800 |  |
 
@@ -2576,7 +2576,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 88,39 | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igaz- gatóság | 0,000 | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igaz- gatóság | 0,000 | Tisza |
+| 3 | 0,00 | 88,39 | Közép- Tisza- vidéki Vízügyi Igaz- gatóság | 0,000 | Közép- Tisza- vidéki Vízügyi Igaz- gatóság | 0,000 | Tisza |
 
 | 4 | 10,00 | 88,54 |  |  |  |
 
@@ -2650,7 +2650,7 @@
 
 | 39 | 83,86 |  |  |  |  |
 
-| 40 | 84,10 |  | Közép- Duna- völgyi Környezet- védelmi és Vízügyi Igaz- gatóság | 81,200 | Közép- Duna- völgyi Környezet- védelmi és Vízügyi Igaz- gatóság | 0,000 |  |
+| 40 | 84,10 |  | Közép- Duna- völgyi Vízügyi Igaz- gatóság | 81,200 | Közép- Duna- völgyi Vízügyi Igaz- gatóság | 0,000 |  |
 
 | 41 | 87,70 | 106,52 | 0,000 | 3,000 | Szentlőrinckátai közúti híd, v.m., LNV = 306, /LNV/ = 320 |
 
@@ -2704,7 +2704,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 94,00 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Zagyva |
+| 3 | 0,00 | 94,00 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Zagyva |
 
 | 4 | 2,00 | 94,22 |  |  |  |
 
@@ -2794,7 +2794,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 89,09 | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igaz- gatóság | 0,000 | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igaz- gatóság | 0,000 | Zagyva |
+| 3 | 0,00 | 89,09 | Közép- Tisza- vidéki Vízügyi Igaz- gatóság | 0,000 | Közép- Tisza- vidéki Vízügyi Igaz- gatóság | 0,000 | Zagyva |
 
 | 4 | 6,32 | 89,09 |  | 6,320 |  |
 
@@ -2808,7 +2808,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 97,67 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Tarna |
+| 3 | 0,00 | 97,67 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Tarna |
 
 | 4 | 0,75 | 97,71 | 0,750 | 0,704 | Szarvágy-patak, torkolat |
 
@@ -2830,7 +2830,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 100,67 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,00 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Tarna |
+| 3 | 0,00 | 100,67 | Észak- magyar- országi Vízügyi Igazgatóság | 0,00 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Tarna |
 
 | 4 | 4,00 | 101,46 |  |  |  |
 
@@ -2848,7 +2848,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 101,12 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Tarna |
+| 3 | 0,00 | 101,12 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Észak- magyar- országi Vízügyi Igazgatóság | 0,000 | Tarna |
 
 | 4 | 4,00 | 102,50 | 4,375 |  |  |
 
@@ -2868,7 +2868,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 85,82 | Alsó- Tisza- vidéki Környezet- védelmi és Vízügyi Igaz- gatóság | 0,000 | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Tisza |
+| 3 | 0,00 | 85,82 | Alsó- Tisza- vidéki Vízügyi Igaz- gatóság | 0,000 | Közép- Tisza- vidéki Vízügyi Igazgatóság | 0,000 | Tisza |
 
 | 4 | 5,62 | 85,82 | 5,250 | 5,000 | Bökényi zsilip |
 
@@ -2886,7 +2886,7 @@
 
 | 11 | 40,00 | 85,94 |  | 38,000 |  |
 
-| 12 | 44,00 | 85,97 | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | 40,750 |  |
+| 12 | 44,00 | 85,97 | Körös- vidéki Vízügyi Igazgatóság |  | 40,750 |  |
 
 | 13 | 47,48 | 86,02 | 41,580 | 43,500 | Békésszentandrási duzzasztó |
 
@@ -2896,7 +2896,7 @@
 
 | 16 | 60,95 | 86,82 | 56,307 | 57,354 |  |
 
-| 17 | 61,30 | 86,84 |  | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Hortobágy-Berettyó- főcsatorna, torkolat |
+| 17 | 61,30 | 86,84 |  | Körös- vidéki Vízügyi Igazgatóság |  | Hortobágy-Berettyó- főcsatorna, torkolat |
 
 | 18 | 65,00 | 87,02 |  |  |  |
 
@@ -2914,7 +2914,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 |  | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 85,030 | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 85,767 | Sebes-Körös, torkolat |
+| 3 | 0,00 |  | Körös- vidéki Vízügyi Igazgatóság | 85,030 | Körös- vidéki Vízügyi Igazgatóság | 85,767 | Sebes-Körös, torkolat |
 
 | 4 | 1,65 | 88,30 |  |  |  |
 
@@ -2954,7 +2954,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 91,34 | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 35,040 | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 36,193 | Fekete-Körös, torkolat |
+| 3 | 0,00 | 91,34 | Körös- vidéki Vízügyi Igazgatóság | 35,040 | Körös- vidéki Vízügyi Igazgatóság | 36,193 | Fekete-Körös, torkolat |
 
 | 4 | 2,15 | 91,62 |  |  |  |
 
@@ -2972,7 +2972,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 91,40 | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Fehér-Körös, torkolat |
+| 3 | 0,00 | 91,40 | Körös- vidéki Vízügyi Igazgatóság | 0,000 | Körös- vidéki Vízügyi Igazgatóság | 0,000 | Fehér-Körös, torkolat |
 
 | 4 | 4,82 | 91,78 | 3,979 | 4,280 | Remetei közúti híd, v.m., LNV = 916 |
 
@@ -3004,13 +3004,13 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 88,14 | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Körös-vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Kettős-Körös |
+| 3 | 0,00 | 88,14 | Körös- vidéki Vízügyi Igazgatóság | 0,000 | Körös-vidéki Vízügyi Igazgatóság | 0,000 | Kettős-Körös |
 
 | 4 | 9,47 | 88,46 | 8,877 | 9,183 | Körösladányi közúti híd, v.m., LNV = 815 |
 
 | 5 | 14,55 | 88,71 | 13,925 | 14,013 | Berettyó-torkolat |
 
-| 6 | 18,00 | 88,90 |  | Tiszántúli Vízügyi Környezet- védelmi és Vízügyi Igazgatóság |  |  |
+| 6 | 18,00 | 88,90 |  | Tiszántúli Vízügyi Vízügyi Igazgatóság |  |  |
 
 | 7 | 19,09 | 89,00 | 18,467 | 17,123 | Fokihíd, v.m., LNV = 700 |
 
@@ -3050,7 +3050,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 88,71 | Tiszántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Berettyó |
+| 3 | 0,00 | 88,71 | Tiszántúli Vízügyi Igazgatóság | 0,000 | Körös- vidéki Vízügyi Igazgatóság | 0,000 | Berettyó |
 
 | 4 | 6,60 | 88,76 | 5,240 | 5,981 | Szeghalom, v.m., LNV = 678 |
 
@@ -3066,7 +3066,7 @@
 
 | 10 | 21,00 | 90,23 |  |  |  |
 
-| 11 | 22,14 | 90,29 | 20,816 | Tiszántúli Környezet- védelmi és Vízügyi Igazgatóság | 21,313 | Darvasi közúti híd |
+| 11 | 22,14 | 90,29 | 20,816 | Tiszántúli Vízügyi Igazgatóság | 21,313 | Darvasi közúti híd |
 
 | 12 | 23,00 | 90,62 |  | 22,900 | Kálló-torkolat |
 
@@ -3112,7 +3112,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 90,62 | Tiszántúli Környezet- védelmi és Vízügyi Igazgatóság |  | Tiszántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Berettyó |
+| 3 | 0,00 | 90,62 | Tiszántúli Vízügyi Igazgatóság |  | Tiszántúli Vízügyi Igazgatóság | 0,000 | Berettyó |
 
 | 4 | 6,00 | 90,62 |  |  |  |
 
@@ -3126,7 +3126,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 101,03 | Tiszántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Tiszántúli Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Berettyó |
+| 3 | 0,00 | 101,03 | Tiszántúli Vízügyi Igazgatóság | 0,000 | Tiszántúli Vízügyi Igazgatóság | 0,000 | Berettyó |
 
 | 4 | 2,58 | 101,03 | 2,586 | 2,586 |  |
 
@@ -3144,7 +3144,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 86,32 | Körös- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Közép- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Mezőtúr, árvízkapu |
+| 3 | 0,00 | 86,32 | Körös- vidéki Vízügyi Igazgatóság | 0,000 | Közép- Tisza- vidéki Vízügyi Igazgatóság | 0,000 | Mezőtúr, árvízkapu |
 
 | 4 | 6,40 | 86,32 | 6,410 | 6,405 | Közúti híd |
 
@@ -3160,7 +3160,7 @@
 
 | 10 | 48,10 |  | 37,623 | 40,950 | Ecsegfalvi közúti híd |
 
-| 11 | 54,90 | 86,38 | Tiszántúli Környezet- védelmi és Vízügyi Igazgatóság | 43,000 |  |  |
+| 11 | 54,90 | 86,38 | Tiszántúli Vízügyi Igazgatóság | 43,000 |  |  |
 
 | 12 | 55,00 |  |  |  |  |
 
@@ -3178,7 +3178,7 @@
 
 | 2 | kezelője | km | kezelője | km |
 
-| 3 | 0,00 | 83,54 | Alsó- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság | 0,000 | Alsó- Tisza- vidéki Környezet- védelmi és Vízügyi Igazgatóság |  | Tisza |
+| 3 | 0,00 | 83,54 | Alsó- Tisza- vidéki Vízügyi Igazgatóság | 0,000 | Alsó- Tisza- vidéki Vízügyi Igazgatóság |  | Tisza |
 
 | 4 | 1,00 |  |  | 0,000 |  |
 
@@ -3461,3 +3461,33 @@ A folyók árvízvédelmi fővédvonalainak magassági biztonsága
 | 5 | 1,50 |  |  |  | 2,064 | 1,0 | Töltés vége |
 
 8. RÁBCA
+
+|  |  | A | B | C | D | E | F | G |
+
+|  | 1 |  | Bal parti védvonal | Jobb parti védvonal |
+
+|  | 2 | Fkm | Szelvény (km) | Magassági biztonság (m) | Megjegyzés | Szelvény (km) | Magassági biztonság (m) | Megjegyzés |
+
+| 3 | 0,150 | 0,000 | 1,0 |  | 0,000 | 1,0 |  |
+
+| 4 | 27,60 |  |  |  | 30,193 | 1,0 | Töltés vége |
+
+| 5 | 28,16 | 30,764 | 1,0 | Töltés vége |  |  |  |
+
+9. MARCAL
+
+|  |  | A | B | C | D | E | F | G |
+
+|  | 1 |  | Bal parti védvonal | Jobb parti védvonal |
+
+|  | 2 | Fkm | Szelvény (km) | Magassági biztonság (m) | Megjegyzés | Szelvény (km) | Magassági biztonság (m) | Megjegyzés |
+
+| 3 | 0,20 | 0,000 | 1,0 |  |  |  |  |
+
+| 4 | 0,27 |  |  |  | 0,000 | 1,0 |  |
+
+| 5 | 7,85 |  |  |  | 7,818 | 1,0 | Töltés vége |
+
+| 6 | 19,79 | 19,253 | 1,0 | Töltés vége |  |  |  |
+
+10. RÉPCE-ÁRAPASZTÓ CSATORNA
