@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-39-20-2
 | 2010-05-01 | 1998-39-20-22.14 | 39/2010. (II. 26.) Korm. rendelet |
 | 2011-01-01 | 1998-39-20-22.15 | 225/2005. (X. 13.) Korm. rendelet |
 | 2011-03-23 | 1998-39-20-22.16 | 37/2011. (III. 22.) Korm. rendelet |
+| 2012-01-01 | 1998-39-20-22.17 | 324/2011. (XII. 28.) Korm. rendelet |
