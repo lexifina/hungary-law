@@ -2,11 +2,11 @@
 
 21. § (1) A (2) bekezdésben meghatározott lakás-előtakarékoskodót, illetve a kedvezményezettet – legfeljebb az első tíz megtakarítási év során – a lakás-előtakarékoskodó által az adott megtakarítási évben befizetett betét összegéhez igazodó mértékben állami támogatás illeti meg, amelyet a lakás-előtakarékoskodónak a lakás-takarékpénztárnál – a szerződéskötéskor vagy később – benyújtott kérelme alapján a központi költségvetés évente nyújt. A lakás-előtakarékoskodó jogosult az állami támogatás iránti kérelmét a megtakarítási év utolsó napjáig a teljes megtakarítási évre vonatkozóan módosítani. Az állami támogatás igénylésének, folyósításának, elszámolásának és a felhasználás ellenőrzésének rendjét a kormány rendeletben határozza meg.
 
-(2) A lakás-előtakarékosság állami támogatására az a lakás-előtakarékoskodó jogosult, aki a Magyar Köztársaság területén lakóhellyel rendelkező
+(2) A lakás-előtakarékosság állami támogatására az a lakás-előtakarékoskodó jogosult, aki Magyarország területén lakóhellyel rendelkező
 
 a) magyar állampolgár, vagy
 
-b) a szabad mozgás és tartózkodás jogával rendelkező személy beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorló személy, vagy
+b) a szabad mozgás és tartózkodás jogával rendelkező személy beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorló személy, vagy
 
 c) bevándorolt, vagy letelepedett jogállású, vagy menekültként elismert személy.
 

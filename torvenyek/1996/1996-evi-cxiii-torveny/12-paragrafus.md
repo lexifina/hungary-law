@@ -4,7 +4,7 @@
 
 a) a lakás-takarékpénztár szavatoló tőkéjének összesen 10%-át meg nem haladó mértékig tulajdoni részesedést szerezhet a Hpt. szerinti járulékos vállalkozásokban,
 
-b) a lakás-takarékpénztár a Felügyelet engedélyével – a (2) bekezdésben meghatározott feltételek teljesülése esetén – a szavatoló tőkéjének összesen 20%-át meg nem haladó mértékig tulajdoni részesedést szerezhet a Magyar Köztársaság területén székhellyel rendelkező lakás-takarékpénztárban, vagy olyan devizakülföldinek minősülő hitelintézetben, amelynek fő tevékenysége lakás-előtakarékossági szerződés alapján történő betétgyűjtés és hitelnyújtás,
+b) a lakás-takarékpénztár a Felügyelet engedélyével – a (2) bekezdésben meghatározott feltételek teljesülése esetén – a szavatoló tőkéjének összesen 20%-át meg nem haladó mértékig tulajdoni részesedést szerezhet Magyarország területén székhellyel rendelkező lakás-takarékpénztárban, vagy olyan devizakülföldinek minősülő hitelintézetben, amelynek fő tevékenysége lakás-előtakarékossági szerződés alapján történő betétgyűjtés és hitelnyújtás,
 
 c) lakáscélú finanszírozáshoz közvetlenül kapcsolódóan más pénzügyi intézmény, illetve biztosítóintézet részére pénzügyi szolgáltatás közvetítését (ügynöki tevékenységet) végezhet,
 
