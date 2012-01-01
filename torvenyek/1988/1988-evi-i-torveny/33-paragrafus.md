@@ -1,18 +1,16 @@
-33. § (1) A közút kezelői:
+33. § (1) Az út kezelői:
 
-a) a koncessziós szerződés alapján működtetett országos közút tekintetében a koncessziós társaság;
+a) a koncessziós szerződés alapján működtetett országos vagy helyi közút tekintetében a koncessziós társaság;
 
-b) az a) pontban nem említett országos közút vonatkozásában a miniszter döntése alapján
+b) az a) pontban nem említett
 
-ba) a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított társaság, költségvetési szerv, illetve olyan gazdálkodó szervezet, amelyben az állam többségi részesedéssel, szavazati joggal rendelkezik vagy
+ba) országos közút vonatkozásában a miniszter döntése alapján a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben az állam 100%-os részesedéssel rendelkezik vagy
 
-bb) a külön jogszabály szerinti versenyeztetési eljárásban kiválasztott szervezet;
+bb) helyi közutak tekintetében a helyi önkormányzat, vagy a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben a helyi önkormányzat 100%-os részesedéssel rendelkezik;
 
-c) a helyi közutak tekintetében a helyi önkormányzat; a koncessziós szerződés alapján működtetett helyi közutak és műtárgyaik tekintetében a koncessziós társaság, illetőleg a 9/B. § (2) bekezdése szerint szerződés alapján azzal megbízott gazdálkodó szervezet;
+c) a magánutak tekintetében annak a területnek a tulajdonosa, amelyen a magánút van; állami tulajdonban levő ingatlanon fekvő magánút esetében tulajdonosnak az ingatlan-nyilvántartásba bejegyzett kezelő (használó) tekintendő.
 
-d) a magánutak tekintetében annak a területnek a tulajdonosa, amelyen a magánút van; állami tulajdonban levő ingatlanon fekvő magánút esetében tulajdonosnak az ingatlan-nyilvántartásba bejegyzett kezelő (használó) tekintendő.
-
-(2) A közút kezelője, az út használatáért díjszedésre, illetve a díjfizetés ellenőrzésére jogosult szerv vagy szervezet és a 21. § (4) bekezdése szerint kijelölt hatóság a gépjárműről és annak hatósági jelzéséről felvételt készíthet annak érdekében, hogy a 21. § (5) bekezdése szerinti kormányrendeletben meghatározott szabályszegések elkövetését bizonyítani lehessen. A közút kezelője, az út használatáért díjszedésre, illetve a díjfizetés ellenőrzésére jogosult szerv vagy szervezet az általa készített felvételt haladéktalanul átadja a 21. § (4) bekezdése szerint kijelölt hatóságnak. A közút kezelője, az út használatáért díjszedésre jogosult szervezet a díjfizetés ellenőrzésének elősegítése érdekében, valamint a díjfizetés ellenőrzésére jogosult szerv a díjfizetés ellenőrzése érdekében a külön jogszabály alapján díjköteles utakon felvételt készíthet a gépjárműről és annak hatósági jelzéséről. A közút kezelője, valamint az út használatáért díjszedésre jogosult szervezet az általa készített felvételt haladéktalanul átadja a díjfizetés ellenőrzésére jogosult szervnek.
+(2) A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet és a 21. § (4) bekezdése szerint kijelölt hatóság a gépjárműről és annak hatósági jelzéséről felvételt készíthet annak érdekében, hogy a 21. § (5) bekezdése szerinti kormányrendeletben meghatározott szabályszegések elkövetését bizonyítani lehessen. A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet az általa készített felvételt haladéktalanul átadja a 21. § (4) bekezdése szerint kijelölt hatóságnak. A díjfizetés ellenőrzésére jogosult szervezet a díjfizetés ellenőrzése érdekében a díjfizetés ellenében használható országos közutakról szóló jogszabály alapján díjköteles utakon felvételt készíthet a gépjárműről és annak hatósági jelzéséről, amelyet köteles a pótdíjfizetési felszólítás megküldésére jogosult szervezetnek haladéktalanul átadni.
 
 (3) A (2) bekezdésben meghatározott szervek a felvételek készítéséhez és továbbításához közreműködőt vehetnek igénybe.
 

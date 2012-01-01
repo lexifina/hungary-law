@@ -30,17 +30,17 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdés a)–j) és l) pontjában foglalt valamely rendelkezés megsértőjével szemben 10 000 forinttól 800 000 forintig, a k) pontban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j) és l) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, s ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) pontban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
 (4a) A közúti forgalomban történő ellenőrzés során, ha a 20. § (1) bekezdés k) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
 (5) A bírságot a rendelkezés megsértéséért felelős köteles megfizetni. Amennyiben valamely rendelkezés megsértéséért többen is felelőssé tehetők, a külön jogszabályban meghatározott bírság összegét a jogsértésben való felelősségük arányában kötelesek megfizetni. Ha a felelősségük aránya nem állapítható meg, a bírságfizetési kötelezettség őket egyenlő arányban terheli. Nem állapítható meg a bírságfizetési kötelezettség a közúti szállítást végző működési körén kívül eső olyan elháríthatatlan ok esetén, amelyet az nem látott és ésszerű elvárhatóság mellett nem is láthatott előre.
 
-(6) A beszedett bírság a központi költségvetés központosított bevételét képezi. A kivetett bírság összegének megfizetése meghatározott számlára történő befizetéssel történik. A megfizetett bírság, illetőleg a pénzkövetelés biztosítás összegét a külön jogszabályban foglaltak szerint, az azt megállapító döntés jogerőre emelkedéséig az eljáró hatóságnak letétként kell kezelnie.
+(6) A kiszabott bírság összegének megfizetése e törvény felhatalmazása alapján kiadott jogszabályban meghatározott számlaszámra történő befizetéssel történik. A megfizetett bírság és a pénzkövetelés biztosítás összegét – az azt megállapító döntés jogerőre emelkedéséig – az eljáró hatóság letétként kezeli.
 
 (7) Közúti forgalomban történő ellenőrzés esetén a járművet – a veszélyes áru, a gyorsan romló élelmiszer és az élő állat szállítmány feltartóztatására vonatkozó előírások megtartásával – a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a biztosítási intézkedésekre vonatkozó feltételek szerint vissza lehet tartani. A jármű nem tartható vissza különösen abban az esetben, ha
 
-a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye a Magyar Köztársaság területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
+a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
 
 b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, bankgaranciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
 
@@ -50,13 +50,13 @@ b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény
 
 (10) A jármű visszatartásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
 
-(11) A Magyar Köztársaság területén magyar vagy külföldi rendszámú közúti járművel végzett áru-, illetve személyszállítási tevékenységre az (1) bekezdés szerinti rendelkezések megtartását
+(11) Magyarország területén magyar vagy külföldi rendszámú közúti járművel végzett áru-, illetve személyszállítási tevékenységre az (1) bekezdés szerinti rendelkezések megtartását
 
 a) belföldi forgalomban közlekedő jármű esetén
 
 aa) a közlekedési hatóság és a Rendőrség,
 
-ab) az (1) bekezdés c)–e) pontja tekintetében, valamint az (1) bekezdés h) pontjában a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésének tekintetében a vámhatóság is,
+ab) az (1) bekezdés c)–e) és l) pontja tekintetében, valamint az (1) bekezdés h) pontjában a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésének tekintetében a vámhatóság is,
 
 ac) az (1) bekezdés e) pontja tekintetében a katasztrófavédelmi hatóság is,
 

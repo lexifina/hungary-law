@@ -8,7 +8,7 @@ b) vezetője Magyarország területén lakóhellyel rendelkezik.
 
 (2) Az (1) bekezdés a) pontjában foglaltakat nem kell alkalmazni, ha
 
-a) az üzemben tartó olyan nem természetes személy, amely rendszeres tevékenységét a külföldön bejegyzett székhelye vagy telephelye szerinti országban végzi,
+a) az üzemben tartó olyan nem természetes személy, amely rendszeres tevékenységét a külföldön bejegyzett telephely (fióktelep) szerinti országban végzi,
 
 b) a jármű tulajdonosa a jármű forgalomba helyezését a közlekedési igazgatási hatóságnál már kezdeményezte.
 
@@ -18,7 +18,7 @@ b) a jármű tulajdonosa a jármű forgalomba helyezését a közlekedési igazg
 
 a) szokásos tartózkodási helye nem Magyarország területén van,
 
-b) a járművet harminc napnál rövidebb ideig használja Magyarország területén és a használathoz az üzembentartó a jármű birtokba adása időpontjának megjelölésével írásban hozzájárult,
+b) a járművet egy napnál rövidebb ideig használja Magyarország területén és a használathoz az üzembentartó a jármű birtokba adása időpontjának megjelölésével írásban hozzájárult,
 
 c) a járművet Magyarország területén kívüli rendszeres munkavégzés érdekében használja.
 

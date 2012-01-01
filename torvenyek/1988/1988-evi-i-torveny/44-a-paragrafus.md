@@ -1,6 +1,6 @@
 ## A gépjárművezetőkre vonatkozó szociális előírások ellenőrzése
 
-44/A. § (1) A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendeletben (a továbbiakban: a tachográfokra vonatkozó közösségi rendelet) meghatározott illetékes hatóság a Magyar Köztársaság tekintetében a közlekedési hatóság.
+44/A. § (1) A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendeletben (a továbbiakban: a tachográfokra vonatkozó közösségi rendelet) meghatározott illetékes hatóság Magyarországon a közlekedési hatóság.
 
 (2) Az 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint a tachográfokra vonatkozó közösségi rendeletben:
 

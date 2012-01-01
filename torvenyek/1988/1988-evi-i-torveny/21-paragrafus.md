@@ -30,4 +30,4 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (6) A (4) bekezdés szerint kijelölt hatóság a közigazgatási bírság kiszabására irányuló eljárásban közvetlenül adathozzáféréssel átveheti a gépjármű-nyilvántartásból a szabályszegés bizonyításához szükséges külön jogszabály szerinti jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat.
 
-(7) A beszedett bírság felhasználását a Kormány rendeletben szabályozza.
+(7)

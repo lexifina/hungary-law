@@ -20,7 +20,7 @@ e) az adatigénylő nevét vagy megnevezését.
 
 (6) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
-a) az adatvédelmi biztos,
+a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 
 b) bűncselekmény gyanúja esetén az eljáró nyomozó hatóság vagy ügyészség,
 

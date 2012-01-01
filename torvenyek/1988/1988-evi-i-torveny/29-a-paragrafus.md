@@ -8,4 +8,4 @@ b) az engedély nélküli forgalomba helyezés esetén a forgalomba helyezési e
 
 terjedhet.
 
-(3) A bírság ismételten kiszabható. A beszedett bírság összege a közlekedési hatóságot illeti meg.
+(3) A bírság ismételten kiszabható.

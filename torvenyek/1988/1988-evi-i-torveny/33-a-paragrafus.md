@@ -4,6 +4,6 @@
 
 (3)
 
-(4) A használati díjakból származó bevételt a közlekedési hálózat egésze fejlesztésének lehetővé tételére, a közlekedési szektor javára és a teljes közlekedési rendszer javítására kell felhasználni.
+(4) Az útdíjakból származó bevételt a közlekedési hálózat egésze fejlesztésének lehetővé tételére, a közlekedési szektor javára és a teljes közlekedési rendszer javítására kell felhasználni.
 
-(5) Az útdíj a díjfizetéssel érintett autópályák, autóutak és országos közutak építésére, fenntartására, üzemeltetésére, felújítására és fejlesztésére fordítható és az e célokat szolgáló költségvetési előirányzat bevételét képezi.
+(5) A használati díjakból származó bevétel a 32. § (4) bekezdésében meghatározott célokra, valamint a közlekedési infrastruktúra fejlesztésében állami feladatokat ellátó NIF Zrt. más forrásból meg nem térülő működési költségeinek fedezetét biztosító támogatás nyújtására használható fel, ezen bevétel a 33. § (5) bekezdése szerinti szerv költségvetésének részét képezi.

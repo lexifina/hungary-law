@@ -10,6 +10,6 @@ c) a kérelemben megjelölt adatok személyazonosításra alkalmatlanok.
 
 (3) A nyilvántartó szerv a jogosultak részére az adatigénylés iránti kérelem kézhezvételétől számított nyolc napon belül teljesíti az adatszolgáltatást.
 
-(4) A nyilvántartó szerv az érintettnek a róla nyilvántartott személyes adatáról a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben foglaltak szerint ad tájékoztatást.
+(4) A nyilvántartó szerv az érintettnek a róla nyilvántartott személyes adatáról információs önrendelkezési jogról és az információszabadságról szóló törvényben foglaltak szerint ad tájékoztatást.
 
 (5) Az adatigénylés és a tájékoztatás iránti kérelem elektronikus úton is előterjeszthető.

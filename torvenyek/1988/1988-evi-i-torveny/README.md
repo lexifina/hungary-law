@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2011-07-13 | 2011. évi XCI. törvény | 1988-1-00-00.45 |
 | 2011-08-01 | 2011. évi XCI. törvény | 1988-1-00-00.46 |
 | 2011-09-01 | 2011. évi XCI. törvény | 1988-1-00-00.47 |
+| 2012-01-01 | 2011. évi CLXVI. törvény | 1988-1-00-00.48 |

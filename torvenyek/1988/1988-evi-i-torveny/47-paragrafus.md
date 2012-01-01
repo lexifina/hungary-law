@@ -34,7 +34,7 @@
 
 17. gyalogút: jelzőtáblával gyalogútként megjelölt, vagy olyan helyi közút, amely kizárólag a gyalogosok közlekedésére szolgál, és az úttesttől tartós fizikai akadály (árok, korlát, kerítés, sövény stb.) vagy két méternél nagyobb távolság választja el;
 
-18. belföldi üzemben tartó: az az üzemben tartó, akinek (amelynek) lakó-, szokásos tartózkodási, illetve székhelye a Magyar Köztársaság területén van;
+18. belföldi üzemben tartó: az az üzemben tartó, akinek (amelynek) lakó-, szokásos tartózkodási, illetve székhelye Magyarország területén van;
 
 19. iskolavezető: a közlekedési hatóság engedélyével végzett tanfolyami, szaktanfolyami képzést irányító személy;
 

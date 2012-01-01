@@ -14,7 +14,7 @@ a) a Kormány, hogy
 
 4. a közúti közlekedésbiztonság állami feladatainak teljesítéséhez szükséges pénzügyi forrásokat és azok felhasználásának módját,
 
-5. közúti közlekedési szolgáltatások és a közúti járművek üzemben tartásának általános szabályait,
+5. A közúti közlekedési szolgáltatás, a saját számlás áruszállítási és a saját számlás személyszállítási tevékenység, valamint az autómentési tevékenység végzésének a feltételeit, továbbá a járművek üzemeltetésének általános feltételeit,
 
 6. a közúti járművek üzemanyag-felhasználása költségtérítésként elszámolható mértékének szabályait,
 
@@ -28,7 +28,7 @@ a) a Kormány, hogy
 
 11. a közúti szállítmányozási tevékenység szabályait,
 
-12. a transzeurópai közúthálózatnak a Magyar Köztársaság területén lévő alagútjaira vonatkozó biztonsági minimumkövetelményeket,
+12. a transzeurópai közúthálózatnak Magyarország területén lévő alagútjaira vonatkozó biztonsági minimumkövetelményeket,
 
 13. a közúti szállítást végző egyes járművek személyzetének vezetési és pihenőidejének ellenőrzésére vonatkozó szabályokat,
 
@@ -40,7 +40,7 @@ a) a Kormány, hogy
 
 17. a közúti járművekkel kapcsolatos jóváhagyásokra, típusbizonyítványokra, műszaki vizsgálatokra vonatkozó adatok kezelésére és nyilvántartására vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegét és az ellenőrzés részletes szabályait,
 
-18.
+18. az e törvény 33/C. § (1) bekezdése szerinti hatósági ellenőrzés lefolytatására jogosult szervezet vagy szervezetek kijelölését,
 
 19. az útdíj alapjául szolgáló költségek felosztásának, valamint az útdíj számításának elveit, a díjköteles utak használatáért történő elektronikus díjfizetést lehetővé tévő rendszer bevezetésére, üzemeltetésére, az úthasználati díjak beszedésére, ellenőrzésére és behajtására vonatkozó részletes szabályokat, a 33/A. § (2) bekezdése szerinti útdíj fizetésére kötelezettek körét,
 
@@ -66,11 +66,13 @@ a) a Kormány, hogy
 
 30. a közúti járművek vezetésére jogosító engedély, a törzskönyv, a gépjármű hatósági engedélye és jelzése gyártásának, forgalmazásának, kiadásának, használatának szabályait, helyszíni elvételük és visszavonásuk feltételeit, az engedélyek és jelzések tartalmi, formai követelményét,
 
-31. a reklámtábláknak, a reklámhordozóknak és egyéb reklám célú berendezéseknek a közutak melletti elhelyezésére vonatkozó részletes szabályokat
+31. a reklámtábláknak, a reklámhordozóknak és egyéb reklám célú berendezéseknek a közutak melletti elhelyezésére vonatkozó részletes szabályokat,
+
+32. a közúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait
 
 b) a miniszter, hogy
 
-1. a közúti közlekedési szolgáltatások végzésének, valamint az azokhoz használt járművek üzemben tartásának részletes szabályait,
+1. a Közlekedési Miniszterek Európai Konferenciája által létrehozott közlekedési engedélyek használatának részletes szabályait,
 
 2. az útügyi igazgatás eljárási szabályait,
 
@@ -124,9 +126,9 @@ b) a miniszter, hogy
 
 27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői és a hatósági eljárás, a díjfizetés, valamint a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló szabályokat,
 
-28. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó műszaki előírásokat (Útügyi Műszaki Előírások),
+28. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó műszaki szabályzatok, előírások, útmutatók megalkotására és kiadására vonatkozó eljárási szabályokat,
 
-29.
+29. az e törvény 32. § (4) bekezdésében meghatározott állami feladatok végrehajtásának és a feladatok ellátásához szükséges források felhasználásának szabályait,
 
 30. az e törvény szerinti járművezetői vizsgabiztosi, műszaki vizsgabiztosi, iskolavezetői, szakoktatói tevékenység folytatásának részletes feltételeit, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
@@ -154,7 +156,7 @@ g) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
 4. a fizetés módját és feltételeit, valamint
 
-5. a beszedett díj és pótdíj kedvezményezettjét – a Kormány által jóváhagyott elvek alapján,
+5.
 
 h)
 
@@ -168,7 +170,7 @@ l) a miniszter, hogy a közúti közlekedési ágazatban használt önjáró eme
 
 m) a közlekedésért felelős miniszterrel egyetértésben
 
-ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a katonai nemzetbiztonsági szolgálatok tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket, valamint
+ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket, valamint
 
 mb) az egyes rendvédelmi szerveket irányító miniszter, hogy a rendvédelmi szervek tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
 
@@ -190,6 +192,8 @@ d) a díjköteles várakozás megengedett leghosszabb időtartamát,
 
 e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét, azzal, hogy a kedvezményes várakozásra jogosultak körének bővítésére a kerületi képviselő-testület jogosult.
 
-(6) Az e törvényben meghatározott díjat, pótdíjat és bírságot – a 9/C. § (1) bekezdésében, a 15. § (3) bekezdésében, a 15/A. § (1) bekezdésben és a 15/C. § (1) bekezdésében és a 33/A. §-ban meghatározott díj és pótdíj kivételével – a fizetés elmulasztása esetén adók módjára kell behajtani.
+(5a) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, a főváros esetében a fővárosi önkormányzat képviselő-testülete, hogy a személytaxi és a személygépkocsival végzett személyszállítási szolgáltatás folytatásának, a személyszállítási szolgáltatást közvetítő és szervező szolgálat működésének – a Kormány rendeletében meghatározott feltételeken túli – műszaki, személyi és pénzügyi alkalmassági feltételeit, valamint a település területén lévő taxiállomások igénybevételének rendjét rendeletben határozza meg.
+
+(6) Az e törvényben meghatározott díjat, pótdíjat – a 9/C. § (1) bekezdésében, a 15. § (3) bekezdésében, a 15/A. § (1) bekezdésben és a 15/C. § (1) bekezdésében és a 33/A. §-ban meghatározott díj és pótdíj kivételével – a fizetés elmulasztása esetén adók módjára kell behajtani.
 
 (7) A 21. § (2) bekezdés szerinti közigazgatási bírság befizetési határidejének elmulasztását követő 8 napon belül az eljáró hatóság kezdeményezi a közlekedési igazgatási hatóságnál a szabályszegés elkövetéséhez használt jármű forgalomból történő kivonását.
