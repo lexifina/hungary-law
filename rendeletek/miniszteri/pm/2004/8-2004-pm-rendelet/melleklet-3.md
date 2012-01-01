@@ -1,7 +1,3 @@
-## KÉRELEM
-
-## az adómentes felhasználói tevékenység folytatásának engedélyezésére
-
 ## Kérelem benyújtásának időpontja:
 
 ## Kérelmet átvevő vámszerv megnevezése, aláírása:
@@ -52,17 +48,17 @@
 
 |  |  | 2.8. | Levelezési címe: |
 
-|  |  | 2.9. | A vezető neve: |
+|  |  | 2.9. | AEO tanúsítvány száma: |
 
-|  |  | 2.10. | Születési helye, ideje: |
+|  |  | 2.10. | A vezető neve: |
 
-|  |  | 2.11. | Anyja neve: |
+|  |  | 2.11. | Születési helye, ideje: |
 
-|  |  | 2.12. | Állampolgársága: |
+|  |  | 2.12. | Anyja neve: |
 
-|  |  | 2.13. | Állandó lakóhelye (tartózkodási helye): |
+|  |  | 2.13. | Állampolgársága: |
 
-|  |  | 2.14. |  |
+|  |  | 2.14. | Állandó lakóhelye (tartózkodási helye): |
 
 |  |  | 2.15. | Személyazonosító igazolvány (útlevél) száma: |
 
@@ -194,6 +190,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-3. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^622]
+3. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^632]
 
-[^622]: A 3. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (5) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) és (4) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a szerint módosított szöveg.
+[^632]: A 3. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (5) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) és (4) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) NGM rendelet 28. § (4) bekezdése szerint módosított szöveg.

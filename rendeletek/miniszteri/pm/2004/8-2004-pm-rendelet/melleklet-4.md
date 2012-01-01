@@ -1,7 +1,3 @@
-## KÉRELEM
-
-## a felhasználói engedélyes tevékenység folytatásának engedélyezésére
-
 ## Kérelem benyújtásának időpontja:
 
 ## Kérelmet átvevő vámszerv megnevezése, aláírása:
@@ -52,17 +48,17 @@
 
 |  |  | 2.8. | Levelezési címe: |
 
-|  |  | 2.9. | A vezető neve: |
+|  |  | 2.9. | AEO tanúsítvány száma: |
 
-|  |  | 2.10. | Születési helye, ideje: |
+|  |  | 2.10. | A vezető neve: |
 
-|  |  | 2.11. | Anyja neve: |
+|  |  | 2.11. | Születési helye, ideje: |
 
-|  |  | 2.12. | Állampolgársága: |
+|  |  | 2.12. | Anyja neve: |
 
-|  |  | 2.13. | Állandó lakóhelye (tartózkodási helye): |
+|  |  | 2.13. | Állampolgársága: |
 
-|  |  | 2.14. |  |
+|  |  | 2.14. | Állandó lakóhelye (tartózkodási helye): |
 
 |  |  | 2.15. | Személyazonosító igazolvány (útlevél) száma: |
 
@@ -146,6 +142,6 @@
 
 |  |  |  | a kérelmező aláírása (bélyegzője) |
 
-4. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^623]
+4. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^633]
 
-[^623]: A 4. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (4) bekezdésével megállapított, a 18/2010. (XII. 30.) NGM rendelet 16. § (1) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a szerint módosított szöveg.
+[^633]: A 4. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (4) bekezdésével megállapított, a 18/2010. (XII. 30.) NGM rendelet 16. § (1) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) 30. § (1) bekezdés 16. pontja szerint módosított szöveg.

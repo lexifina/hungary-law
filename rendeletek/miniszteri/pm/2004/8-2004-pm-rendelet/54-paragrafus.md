@@ -14,12 +14,12 @@ e) a készletben lévő szesz és szeszes ital valódi szeszfoka, minősége, fa
 
 f) gyanú merül fel arra, hogy az előállított szeszbe cukrot vagy ízesítő anyagot (aromát) kevertek.
 
-(2)[^266] Ha a próbaszesz mennyisége a szakértői vizsgálathoz sem elég, a gyártott szesz hektoliterfok mennyiségét a bérfőzési lap adatai alapján kell megállapítani.
+(2)[^275] Ha a próbaszesz mennyisége a szakértői vizsgálathoz sem elég, a gyártott szesz hektoliterfok mennyiségét a bérfőzési lap adatai alapján kell megállapítani.
 
-(3)[^267] Az (1) bekezdés a)–c) pontjában meghatározott esetekben a szakértői vizsgálat céljára a hivatalos mintát a hatósági felügyeletet ellátó vámszerv az ellenőrzött adóraktár felelős üzem vezetőjének jelenlétében, a mintavételi szabályzat előírásai szerint veszi, de azt az adóraktár engedélyesének kell a kijelölt szakértőhöz eljuttatnia. A kijelölt szakértő alatt az illetékes miniszter által kijelölt laboratóriumot, és a hivatalos közlönyben közzétett, valamint a Nemzeti Akkreditálási Testület által megbízott laboratóriumokat kell érteni.
+(3)[^276] Az (1) bekezdés a)–c) pontjában meghatározott esetekben a szakértői vizsgálat céljára a hivatalos mintát a hatósági felügyeletet ellátó vámszerv az ellenőrzött adóraktár felelős üzem vezetőjének jelenlétében, a mintavételi szabályzat előírásai szerint veszi, de azt az adóraktár engedélyesének kell a kijelölt szakértőhöz eljuttatnia. A kijelölt szakértő alatt az illetékes miniszter által kijelölt laboratóriumot, és a hivatalos közlönyben közzétett, valamint a Nemzeti Akkreditálási Testület által megbízott laboratóriumokat kell érteni.
 
-(4)[^268] Abban az esetben, ha hivatalos mintavétel az (1) bekezdés d)–f) pontjaiban meghatározott okok miatt történt, a mintát, valamint a szakértői eredmény kifogásolása esetén az ellenmintát minden esetben a hatósági felügyeletet ellátó vámszerv köteles a kijelölt laboratóriumba eljuttatni.
+(4)[^277] Abban az esetben, ha hivatalos mintavétel az (1) bekezdés d)–f) pontjaiban meghatározott okok miatt történt, a mintát, valamint a szakértői eredmény kifogásolása esetén az ellenmintát minden esetben a hatósági felügyeletet ellátó vámszerv köteles a kijelölt laboratóriumba eljuttatni.
 
-[^266]: Az 54. § (2) bekezdése a 46/2004. (XII. 29.) PM rendelet 27. §-ának (3) bekezdése szerint módosított szöveg.
-[^267]: Az 54. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^268]: Az 54. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^275]: Az 54. § (2) bekezdése a 46/2004. (XII. 29.) PM rendelet 27. §-ának (3) bekezdése szerint módosított szöveg.
+[^276]: Az 54. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^277]: Az 54. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.

@@ -48,19 +48,21 @@
 
 ## 2.8. Levelezési címe:
 
-## 2.9. A képviseletre jogosult neve:
+## 2.9. AEO tanúsítvány száma:
 
-## 2.10. Születési helye, ideje:
+## 2.10. A képviseletre jogosult neve:
 
-## 2.11. Anyja neve:
+## 2.11. Születési helye, ideje:
 
-## 2.12. Állampolgársága:
+## 2.12. Anyja neve:
 
-## 2.13. Állandó lakóhelye (tartózkodási helye):
+## 2.13. Állampolgársága:
 
-## 2.14. Személyazonosító igazolvány (útlevél) száma:
+## 2.14. Állandó lakóhelye (tartózkodási helye):
 
-## 3.[^619]
+## 2.15. Személyazonosító igazolvány (útlevél) száma:
+
+## 3.[^629]
 
 ## 4. Nyilatkozatok
 
@@ -116,7 +118,7 @@
 
 ## V. Egyéb
 
-## 1.[^620] Egyszerűsített kísérő okmány aláírására jogosultak
+## 1.[^630] Egyszerűsített kísérő okmány aláírására jogosultak
 
 ## 1.1. Neve:
 
@@ -140,8 +142,8 @@
 
 ## a kérelmező aláírása (bélyegzője)
 
-2. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^621]
+2. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^631]
 
-[^619]: Az 1/A. számú melléklet I.3. pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
-[^620]: Az 1/A. számú melléklet V. pont 1. alpontja a 44/2009. (XII. 29.) PM rendelet 41. § (2) bekezdése szerint módosított szöveg.
-[^621]: A 2. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 33/2006. (XII. 25.) PM rendelet 23. §-a, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a szerint módosított szöveg.
+[^629]: Az 1/A. számú melléklet I.3. pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
+[^630]: Az 1/A. számú melléklet V. pont 1. alpontja a 44/2009. (XII. 29.) PM rendelet 41. § (2) bekezdése szerint módosított szöveg.
+[^631]: A 2. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 33/2006. (XII. 25.) PM rendelet 23. §-a, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) NGM rendelet 28. § (3) bekezdése szerint módosított szöveg.

@@ -52,8 +52,6 @@
 
 |  |  |  | az engedélyező vámszerv aláírása (bélyegzője) |
 
-14. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^633]
+14. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^643]
 
-Kötelező Érvényű Vámtarifabesorolás (KÉV) iránti kérelem
-
-[^633]: A 14. számú melléklet a 18/2010. (XII. 30.) NGM rendelet 16. § (3) bekezdése szerint módosított szöveg.
+[^643]: A 14. számú melléklet a 18/2010. (XII. 30.) NGM rendelet 16. § (3) bekezdése szerint módosított szöveg.

@@ -1,10 +1,10 @@
 ## Felhasználói engedélyes tevékenység folytatása
 
-108. § (1)[^475] A felhasználói engedélyesnek telephelyenként a vámszerv által elfogadott és hitelesített, amennyiben az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos, az engedélyt kiadó vámszerv által elfogadott és a hatósági felügyeletet ellátó vámszerv által hitelesített, a 12. számú melléklet szerinti adattartalmú nyilvántartást kell termékenként (a denaturált szeszt a teljes denaturálás típusa szerint is) folyamatosan vezetnie. A nyilvántartások vezetésére az engedélyt kiadó vámszerv által előzetesen jóváhagyott számítógépes terméknyilvántartás is alkalmazható.
+108. § (1)[^484] A felhasználói engedélyesnek telephelyenként a vámszerv által elfogadott és hitelesített, amennyiben az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos, az engedélyt kiadó vámszerv által elfogadott és a hatósági felügyeletet ellátó vámszerv által hitelesített, a 12. számú melléklet szerinti adattartalmú nyilvántartást kell termékenként (a denaturált szeszt a teljes denaturálás típusa szerint is) folyamatosan vezetnie. A nyilvántartások vezetésére az engedélyt kiadó vámszerv által előzetesen jóváhagyott számítógépes terméknyilvántartás is alkalmazható.
 
-(2)[^476] Az (1) bekezdés szerinti nyilvántartást naptári hónaponként kell lezárni, és abban a készletváltozásokat jogcímenként összegezni. A nyilvántartás zárlata alapján jelentést kell készíteni, melyet a tárgyhót követő hó 15. napjáig a hatósági felügyeletet ellátó vámszervhez kell benyújtani.
+(2)[^485] Az (1) bekezdés szerinti nyilvántartást naptári hónaponként kell lezárni, és abban a készletváltozásokat jogcímenként összegezni. A nyilvántartás zárlata alapján jelentést kell készíteni, melyet a tárgyhót követő hó 15. napjáig a hatósági felügyeletet ellátó vámszervhez kell benyújtani.
 
-(3)[^477] A Jöt. 60. § (3) bekezdésében és 71. § (2) bekezdésében előírt éves elszámoláshoz a készletfelvételt a hatósági felügyeletet ellátó vámszervvel előzetesen egyeztetett időpontban kell megtartani, amelyet a hatósági felügyeletet ellátó vámszerv a helyszínen ellenőrizhet. A felhasználói engedélyes a készletfelvétel alapján a tárgyévről – a kérelemben megadott felhasználási arányszám szerint – elszámolást készít, melyet – ha az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos – a hatósági felügyeletet ellátó vámszerv ellenjegyzését követő 5 munkanapon belül köteles benyújtani az engedélyt kiadó vámszervhez. Amennyiben a felhasználói engedélyes több telephellyel rendelkezik, összesített elszámolást is köteles benyújtani.
+(3)[^486] A Jöt. 60. § (3) bekezdésében és 71. § (2) bekezdésében előírt éves elszámoláshoz a készletfelvételt a hatósági felügyeletet ellátó vámszervvel előzetesen egyeztetett időpontban kell megtartani, amelyet a hatósági felügyeletet ellátó vámszerv a helyszínen ellenőrizhet. A felhasználói engedélyes a készletfelvétel alapján a tárgyévről – a kérelemben megadott felhasználási arányszám szerint – elszámolást készít, melyet – ha az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos – a hatósági felügyeletet ellátó vámszerv ellenjegyzését követő 5 munkanapon belül köteles benyújtani az engedélyt kiadó vámszervhez. Amennyiben a felhasználói engedélyes több telephellyel rendelkezik, összesített elszámolást is köteles benyújtani.
 
 (4) A (3) bekezdés szerinti elszámolásban az egyéb ellenőrzött ásványolaj, megfigyelt termék megnevezése, vámtarifaszáma, a denaturált szesz esetén a teljes denaturálás típusa szerinti részletezésben ki kell mutatni a tárgyévi nyitókészletet, a tárgyévben előállított, beszerzett, kiszerelt, felhasznált és értékesített mennyiséget és – figyelembe véve a külön jogszabály szerinti veszteséget is – a nyilvántartás szerinti zárókészletet.
 
@@ -12,34 +12,34 @@
 
 a) a denaturált szesz esetén a tárgyévben beszerzett denaturált szesz átlagos valódi szeszfoka alapján,
 
-b)[^478] az egyéb ellenőrzött ásványolaj és megfigyelt termék esetében a Jöt. 52. § (1) bekezdésének a) pontja szerinti, illetve a Jöt. 50. § (4) bekezdésének e) pontjában meghatározott megfigyelt termék esetében a Jöt. 64. § (2) bekezdése, illetve – a Jöt. 50. § (5) bekezdésében meghatározott megfigyelt termék esetében – a Jöt. 52. § (2) bekezdésének c) pontja szerinti adómérték alkalmazásával
+b)[^487] az egyéb ellenőrzött ásványolaj és megfigyelt termék esetében a Jöt. 52. § (1) bekezdésének a) pontja szerinti, illetve a Jöt. 50. § (4) bekezdésének e) pontjában meghatározott megfigyelt termék esetében a Jöt. 64. § (2) bekezdése, illetve – a Jöt. 50. § (5) bekezdésében meghatározott megfigyelt termék esetében – a Jöt. 52. § (2) bekezdésének c) pontja szerinti adómérték alkalmazásával
 
 ## kell megállapítani.
 
 (6) A denaturált szeszt a teljes denaturálás típusa szerint külön kell tárolni. A denaturált szesz kiszerelése csak változatlan állapotban, a denaturálás megváltoztatása nélkül történhet.
 
-(7)[^479] A felhasználói engedélyes köteles lehetővé tenni a hatósági felügyeletet ellátó vámszerv ellenőrzéssel megbízott képviselőjének az üzem- és raktárhelyiségbe történő belépést, a felhasználás, kiszerelés céljából tárolt termékkészlet és az abból előállított, kiszerelt termék mennyiségének megállapítását és az előállítási, felhasználási, kiszerelési művelet ellenőrzését.
+(7)[^488] A felhasználói engedélyes köteles lehetővé tenni a hatósági felügyeletet ellátó vámszerv ellenőrzéssel megbízott képviselőjének az üzem- és raktárhelyiségbe történő belépést, a felhasználás, kiszerelés céljából tárolt termékkészlet és az abból előállított, kiszerelt termék mennyiségének megállapítását és az előállítási, felhasználási, kiszerelési művelet ellenőrzését.
 
-(8)[^480] A felhasználói engedélyesnek a székhelyén, illetve a telephelyén ki kell jelölni a felelős üzemvezetőt. A felhasználói engedélyesnek a felelős üzemvezető telephelyenkénti kijelölését és a felelős üzemvezető személyében bekövetkező változást a kijelölést, illetve a változást követő 15 napon belül a vámszervhez írásban be kell jelentenie.
+(8)[^489] A felhasználói engedélyesnek a székhelyén, illetve a telephelyén ki kell jelölni a felelős üzemvezetőt. A felhasználói engedélyesnek a felelős üzemvezető telephelyenkénti kijelölését és a felelős üzemvezető személyében bekövetkező változást a kijelölést, illetve a változást követő 15 napon belül a vámszervhez írásban be kell jelentenie.
 
-(9)[^481] A felhasználói engedélyes köteles az érvényes engedélyét vagy az érvényes engedély vámszerv által kiadott (hitelesített), sorszámozott másolati példányát a beszerzéskor az adóraktár-engedélyesnek bemutatni.
+(9)[^490] A felhasználói engedélyes köteles az érvényes engedélyét vagy az érvényes engedély vámszerv által kiadott (hitelesített), sorszámozott másolati példányát a beszerzéskor az adóraktár-engedélyesnek bemutatni.
 
-(10)[^482] A denaturált szesznek a kiszerelés, az egyéb ellenőrzött ásványolajnak, a megfigyelt terméknek a felhasználás, kiszerelés, tárolás és szállítás során bekövetkezett megsemmisülését a felhasználói engedélyes köteles haladéktalanul bejelenteni a megsemmisülés helye szerint illetékes hatósági felügyeletet ellátó vámszervhez. Az igazolt megsemmisülést az elszámoláskor figyelembe kell venni.
+(10)[^491] A denaturált szesznek a kiszerelés, az egyéb ellenőrzött ásványolajnak, a megfigyelt terméknek a felhasználás, kiszerelés, tárolás és szállítás során bekövetkezett megsemmisülését a felhasználói engedélyes köteles haladéktalanul bejelenteni a megsemmisülés helye szerint illetékes hatósági felügyeletet ellátó vámszervhez. Az igazolt megsemmisülést az elszámoláskor figyelembe kell venni.
 
-(11)[^483]
+(11)[^492]
 
-(12)[^484] A felhasználói engedélyes esetében a 38. §, a 84. § (6) bekezdés, a 85. § és a 97–98. § rendelkezéseit értelemszerűen alkalmazni kell.
+(12)[^493] A felhasználói engedélyes esetében a 38. §, a 84. § (6) bekezdés, a 85. § és a 97–98. § rendelkezéseit értelemszerűen alkalmazni kell.
 
-(13)[^485] A Jöt. 111. § (5) bekezdése szerinti folyamatos jelenléttel és vizsgálattal gyakorolt jövedéki ellenőrzés során a 91. § és 92. § rendelkezéseit értelemszerűen alkalmazni kell.
+(13)[^494] A Jöt. 111. § (5) bekezdése szerinti folyamatos jelenléttel és vizsgálattal gyakorolt jövedéki ellenőrzés során a 91. § és 92. § rendelkezéseit értelemszerűen alkalmazni kell.
 
-[^475]: A 108. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 48. §-ával megállapított szöveg.
-[^476]: A 108. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
-[^477]: A 108. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 48. §-ával megállapított szöveg.
-[^478]: A 108. § (5) bekezdésének b) pontja a 40/2007. (XII. 29.) PM rendelet 26. §-ával megállapított, a 13/2009. (VI. 12.) PM rendelet 21. § (4) bekezdése szerint módosított szöveg.
-[^479]: A 108. § (7) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^480]: A 108. § (8) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (5) bekezdése szerint módosított szöveg.
-[^481]: A 108. § (9) bekezdése a 45/2005. (XII. 26.) PM rendelet 25. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
-[^482]: A 108. § (10) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
-[^483]: A 108. § (11) bekezdését a 44/2009. (XII. 29.) PM rendelet 49. § (2) bekezdése hatályon kívül helyezte.
-[^484]: A 108. § (12) bekezdése a 45/2005. (XII. 26.) PM rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^485]: A 108. § (13) bekezdését a 45/2005. (XII. 26.) PM rendelet 14. § (3) bekezdése iktatta be.
+[^484]: A 108. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 48. §-ával megállapított szöveg.
+[^485]: A 108. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
+[^486]: A 108. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 48. §-ával megállapított szöveg.
+[^487]: A 108. § (5) bekezdésének b) pontja a 40/2007. (XII. 29.) PM rendelet 26. §-ával megállapított, a 13/2009. (VI. 12.) PM rendelet 21. § (4) bekezdése szerint módosított szöveg.
+[^488]: A 108. § (7) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^489]: A 108. § (8) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (5) bekezdése szerint módosított szöveg.
+[^490]: A 108. § (9) bekezdése a 45/2005. (XII. 26.) PM rendelet 25. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^491]: A 108. § (10) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
+[^492]: A 108. § (11) bekezdését a 44/2009. (XII. 29.) PM rendelet 49. § (2) bekezdése hatályon kívül helyezte.
+[^493]: A 108. § (12) bekezdése a 45/2005. (XII. 26.) PM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^494]: A 108. § (13) bekezdését a 45/2005. (XII. 26.) PM rendelet 14. § (3) bekezdése iktatta be.

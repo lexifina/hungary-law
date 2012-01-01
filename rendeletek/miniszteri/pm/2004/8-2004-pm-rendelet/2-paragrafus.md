@@ -20,7 +20,7 @@ h) az alapanyag és a tárolt, a betárolt, az előállított jövedéki termék
 
 i)[^14] az adóraktárban folytatott tevékenységhez jogszabályban előírt engedélyek listáját, adóraktárankénti összeállításban (kiadó hatóság, engedély megnevezése, száma, kiadásának időpontja);
 
-j)[^15] a 76. § (2)–(3) bekezdés szerinti termékkísérő okmány, az egyszerűsített kísérő okmány, a borkísérő okmány aláírására jogosult személyek közjegyző által hitelesített aláírásmintáját, kivéve, ha az adóraktári engedély iránti kérelemmel egyidejűleg a 78. § (3) bekezdésében említett különleges bélyegző alkalmazásának engedélyezését is kérik;
+j)[^15] a 76. § (2)–(3) bekezdés szerinti termékkísérő okmány, az egyszerűsített kísérő okmány, a borkísérő okmány aláírására jogosult személyek közjegyző által hitelesített, eredeti aláírásmintáját, kivéve, ha az adóraktári engedély iránti kérelemmel egyidejűleg a 78. § (3) bekezdésében említett különleges bélyegző alkalmazásának engedélyezését is kérik;
 
 k) az adóraktár – kivéve a Jöt. 58. § (4) bekezdés d) pontjában említett vasúti tartálykocsiban tároló adóraktár – mintavételi szabályzatát;
 
@@ -30,13 +30,13 @@ m) a Jöt.-ben és az e rendeletben előírt nyilvántartások mintáját vagy a
 
 n)[^16] – a kizárólag bérfőzést végző szeszfőzdére, valamint sörfőzdére engedélyt kérelmező kivételével – az adóraktár engedélyese vagy az adóraktár által jövedéki ügyintézőként foglalkoztatott vagy megbízott személy jövedéki ügyintézői szakképesítést igazoló bizonyítványának vagy a 28. § (1) bekezdés szerinti egyéb szakképesítést, szakmai végzettséget igazoló bizonyítványának hiteles másolatát, továbbá – megbízott személy esetén – a megbízó személy által a jövedéki ügyintézői tevékenység ellátásáról kiállított, a megbízó és a megbízott adatait (természetes személy esetén név, születési hely, idő, anyja neve, lakcím, gazdálkodó szerv esetén cégnév, székhely, cégjegyzék száma, illetve vállalkozói igazolvány száma), aláírását, valamint a megbízás ellátásának kezdő időpontját, időtartamát tartalmazó iratot;
 
-o)[^17]
+o)[^17] a sörfőzde engedélyt kérelmező esetében a Jöt. 78. § (1) bekezdés a) pontjában foglaltak teljesítéséről szóló nyilatkozatot;
 
 p)[^18] a 61. § (1)–(2) bekezdésében vagy a 61/A. § (1) bekezdésében foglalttól eltérő denaturálási eljárás leírását.
 
 (2)[^19] Az engedélyezési eljárás során az adóraktár helyszínrajzát, műszaki, technikai és építési dokumentumait, az (1) bekezdés i) pontja szerinti engedélyek, illetve – a boradóraktári engedély kérelmező kivételével – az adóraktárban használt tárolótartályokra, tárolóedényekre, mérőberendezésekre vonatkozó hitelesítési bizonylatok eredeti példányát, a műszaki, technológiai és üzemmód leírását, továbbá – a szőlőbor és az ásványolaj előállítására, valamint a jövedéki termék önálló tárolására, raktározására vagy önálló palackozására engedélyt kérelmező kivételével – a jövedéki termék gyártmánylapját a vámszerv kérésére kell a kérelmezőnek benyújtania, vagy a helyszínen bemutatnia.
 
-(3)[^20] A kérelmezőnek az (1) bekezdés j) pontban foglalt okiratot eredetiben, az egyéb bizonylatokat eredetiben vagy hiteles másolatban kell csatolni.
+(3)[^20]
 
 (4) A Jöt. 72. §-a (7) bekezdésének és 78. §-a (6) bekezdésének alkalmazásában összefüggő helyrajzi számokon szereplő üzemnek kell tekinteni azt a több helyrajzi számon elhelyezkedő üzemet is, amely helyrajzi számainak folytonosságát csak út, vasúti vágány vagy vízfolyás szakítja meg.
 
@@ -50,11 +50,11 @@ p)[^18] a 61. § (1)–(2) bekezdésében vagy a 61/A. § (1) bekezdésében fog
 [^12]: A 2. § (1) bekezdés c) pontját a 44/2009. (XII. 29.) PM rendelet 49. § (3) bekezdése hatályon kívül helyezte.
 [^13]: A 2. § (1) bekezdés d) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
 [^14]: A 2. § (1) bekezdés i) pontja a 17/2009. (IX. 29.) PM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^15]: A 2. § (1) bekezdés j) pontja a 44/2009. (XII. 29.) PM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 51. §-a alapján a 2009: CXIII. törvény 69. §-a szerinti esetekben a 8/2004. (III. 10.) PM rendelet termékkísérő okmányok aláírására jogosultak hitelesített aláírásmintájával kapcsolatos, valamint 75. §-ának 2010. március 31-én hatályos rendelkezéseit kell alkalmazni.
+[^15]: A 2. § (1) bekezdés j) pontja az 54/2011. (XII. 29.) NGM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^16]: A 2. § (1) bekezdés n) pontja a 17/2009. (IX. 29.) PM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^17]: A 2. § (1) bekezdés o) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (1) bekezdése hatályon kívül helyezte. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^17]: A 2. § (1) bekezdés o) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (1) bekezdése hatályon kívül helyezte, újonnan az 54/2011. (XII. 29.) NGM rendelet 16. § (2) bekezdése iktatta be.
 [^18]: A 2. § (1) bekezdésének p) pontját a 40/2007. (XII. 29.) PM rendelet 2. § (2) bekezdése iktatta be, szövege a 17/2009. (IX. 29.) PM rendelet 3. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^19]: A 2. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
-[^20]: A 2. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 18. §-ával megállapított szöveg.
+[^20]: A 2. § (3) bekezdését az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^21]: A 2. § (5) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2009. (XII. 29.) PM rendelet 4. § (4) bekezdése iktatta be.
 [^22]: A 2. § (6)–(7) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.

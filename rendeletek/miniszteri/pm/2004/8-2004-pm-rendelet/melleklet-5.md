@@ -146,7 +146,7 @@
 
 | 1.4. | Engedélyének jövedéki száma: |
 
-| 2. | Tagállamból adófelfüggesztéssel fogadni kívánt jövedéki termék feladójának |
+| 2. | Tagállamból adófelfüggesztéssel fogadni kívánt jövedéki termék |
 
 | 2.1. | Mennyisége (adómérték alapjául szolgáló mennyiségi egységben kifejezve): |
 
@@ -158,6 +158,6 @@
 
 |  | ......................................................................... a kérelmező aláírása (bélyegzője) |
 
-5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^624]
+5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^634]
 
-[^624]: Az 5. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (5) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a szerint módosított szöveg.
+[^634]: Az 5. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (5) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a szerint módosított szöveg.

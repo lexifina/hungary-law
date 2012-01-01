@@ -1,7 +1,3 @@
-## KÉRELEM
-
-## az adóraktári tevékenység folytatásának engedélyezésére
-
 ## Kérelem benyújtásának időpontja:
 
 ## Kérelmet átvevő vámszerv megnevezése, aláírása:
@@ -58,17 +54,17 @@
 
 |  |  | 2.9. | Hegyközségi kódszáma: |
 
-|  |  | 2.10. | A vezető neve: |
+|  |  | 2.10. | AEO tanúsítvány száma: |
 
-|  |  | 2.11. | Születési helye, ideje: |
+|  |  | 2.11. | A vezető neve: |
 
-|  |  | 2.12. | Anyja neve: |
+|  |  | 2.12. | Születési helye, ideje: |
 
-|  |  | 2.13. | Állampolgársága: |
+|  |  | 2.13. | Anyja neve: |
 
-|  |  | 2.14. | Állandó lakóhelye (tartózkodási helye): |
+|  |  | 2.14. | Állampolgársága: |
 
-|  |  | 2.15. |  |
+|  |  | 2.15. | Állandó lakóhelye (tartózkodási helye): |
 
 |  |  | 2.16. | Személyazonosító igazolvány (útlevél) száma: |
 
@@ -200,6 +196,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^618]
+1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^628]
 
-[^618]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^628]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.

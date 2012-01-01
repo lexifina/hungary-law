@@ -1,7 +1,3 @@
-## KÉRELEM
-
-## a jövedéki termékek exportjára, közösségi kereskedelmi tevékenységére, importjára, jövedéki engedélyes kereskedelmére
-
 ## Kérelem benyújtásának időpontja:
 
 ## Kérelmet átvevő vámszerv megnevezése, aláírása:
@@ -52,17 +48,17 @@
 
 |  |  | 2.8. | Levelezési címe: |
 
-|  |  | 2.9. | A vezető neve: |
+|  |  | 2.9. | AEO tanúsítvány száma: |
 
-|  |  | 2.10. | Születési helye, ideje: |
+|  |  | 2.10. | A vezető neve: |
 
-|  |  | 2.11. | Anyja neve: |
+|  |  | 2.11. | Születési helye, ideje: |
 
-|  |  | 2.12. | Állampolgársága: |
+|  |  | 2.12. | Anyja neve: |
 
-|  |  | 2.13. | Állandó lakóhelye (tartózkodási helye): |
+|  |  | 2.13. | Állampolgársága: |
 
-|  |  | 2.14. |  |
+|  |  | 2.14. | Állandó lakóhelye (tartózkodási helye): |
 
 |  |  | 2.15. | Személyazonosító igazolvány (útlevél) száma: |
 
@@ -146,6 +142,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-9. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^628]
+9. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^638]
 
-[^628]: A 9. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése és a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (2) és (3) bekezdése szerint módosított szöveg.
+[^638]: A 9. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése és a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (2) és (3) bekezdése szerint módosított szöveg.

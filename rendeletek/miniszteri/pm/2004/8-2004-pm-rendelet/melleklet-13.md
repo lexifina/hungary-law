@@ -94,6 +94,6 @@
 
 |  | Zárókészlet összesen: |
 
-13. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^632]
+13. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^642]
 
-[^632]: A 13. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (3) bekezdése, a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (3) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^642]: A 13. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (3) bekezdése, a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (3) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.

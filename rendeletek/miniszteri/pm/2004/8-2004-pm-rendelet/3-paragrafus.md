@@ -12,22 +12,23 @@ e) az egyszerűsített adóraktárban használt tárolótartályok (hordók) lis
 
 f)[^25] a szőlő nem szőlőborrá történő feldolgozása esetén a vonatkozó jogszabályban előírt hatósági engedélyek listáját, telephelyenkénti összeállításban (kiadó hatóság, engedély megnevezése, száma, kiadásának időpontja);
 
-g) a külön jogszabály szerinti pincekönyvet vagy az arra vonatkozó számítógépes nyilvántartásvezetés leírását, adóraktáranként;
+g)[^26] a külön jogszabály szerinti pincekönyvet (a továbbiakban: pincekönyv) vagy az arra vonatkozó számítógépes nyilvántartásvezetés leírását, adóraktáranként;
 
 h) az e rendelet 66. §-ának (1)–(2) bekezdése szerinti esetben továbbá az egyszerűsített adóraktár helyszínrajzát, amelyen pontosan fel kell tüntetni a kérelmező által adóraktárként használt pincerészt, azon belül a tárolóedények pontos helyét, azonosításra alkalmas jelét, darabszámát, űrtartalmát;
 
-i)[^26] a szőlőbor előállítása, illetve pincéből közvetlenül végső fogyasztó részére palackos kiszerelésben vagy kimérve, helyben fogyasztásra történő értékesítése esetén a vonatkozó jogszabályban előírt hatósági engedélyek listáját, telephelyenkénti összeállításban (kiadó hatóság, engedély megnevezése, száma, kiadásának időpontja).
+i)[^27] a szőlőbor előállítása, illetve pincéből közvetlenül végső fogyasztó részére palackos kiszerelésben vagy kimérve, helyben fogyasztásra történő értékesítése esetén a vonatkozó jogszabályban előírt hatósági engedélyek listáját, telephelyenkénti összeállításban (kiadó hatóság, engedély megnevezése, száma, kiadásának időpontja).
 
-(2)[^27] A szőlőterületet is művelő kérelmezőnek, amennyiben a külön jogszabály szerint a földhasználati nyilvántartás felé bejelentési kötelezettséggel tartozik, a kérelemhez csatolnia kell a földhasználati bejelentési adatlap vagy a szőlőterület használatára kötött írásos szerződés földhivatal által záradékolt másolati példányát, vagy a 30 napnál nem régebben kiállított földhasználati lap másolatát is.
+(2)[^28]
 
-(3)[^28] A kérelmezőnek az (1) bekezdés f) és i) pontjában foglalt hatósági engedélyek eredeti példányát a vámszerv kérésére kell benyújtania vagy a helyszíni ellenőrzés keretében bemutatnia.
+(3)[^29] A kérelmezőnek az (1) bekezdés f) és i) pontjában foglalt hatósági engedélyek eredeti példányát a vámszerv kérésére kell benyújtania vagy a helyszíni ellenőrzés keretében bemutatnia.
 
-(4)[^29]
+(4)[^30]
 
 [^23]: A 3. § (1) bekezdés a) pontja a 17/2009. (IX. 29.) PM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^24]: A 3. § (1) bekezdés d) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
 [^25]: A 3. § (1) bekezdésének f) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^26]: A 3. § (1) bekezdésének i) pontja a 46/2004. (XII. 29.) PM rendelet 27. § (3) bekezdése, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^27]: A 3. § (2) bekezdése a 44/2009. (XII. 29.) PM rendelet 46. § (1) bekezdése szerint módosított szöveg.
-[^28]: A 3. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
-[^29]: A 3. § (4) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 3. § (1) bekezdés g) pontja az 54/2011. (XII. 29.) NGM rendelet 29. § 1. pontja szerint módosított szöveg.
+[^27]: A 3. § (1) bekezdésének i) pontja a 46/2004. (XII. 29.) PM rendelet 27. § (3) bekezdése, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^28]: A 3. § (2) bekezdését az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^29]: A 3. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^30]: A 3. § (4) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
