@@ -1,0 +1,3 @@
+3. § (1) A civil szervezet éves költségvetési tervét a számviteli törvény szerinti egyes egyéb szervezetek beszámoló-készítési és könyvvezetési kötelezettségének sajátosságairól szóló 224/2000. (XII. 19.) Korm. rendelet alapján készített beszámoló tartalmi elemeinek megfelelően készíti el.
+
+(2) A civil szervezet szolgáltatásai fenntarthatósága biztosítása érdekében az ésszerű gazdálkodás elve szerint jár el, amely alapján az éves költségvetését úgy tervezi meg, hogy kiadásai és bevételei (adományok és felajánlások, költségvetési támogatások, gazdasági-vállalkozási tevékenységek bevétele, önkéntesek nem pénzbeli hozzájárulása, más bevételek) egyensúlyban legyenek.
