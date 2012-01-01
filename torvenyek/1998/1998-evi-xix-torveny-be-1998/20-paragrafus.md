@@ -4,12 +4,12 @@
 
 (2) A kijelölésről
 
-a) a megyei bíróság másodfokú tanácsa határoz, ha az összeütközés a területén levő helyi bíróságok között,
+a) a törvényszék másodfokú tanácsa határoz, ha az összeütközés a területén levő helyi bíróságok között,
 
-b) az ítélőtábla határoz, ha a hatásköri összeütközés a területén lévő megyei bíróság és helyi bíróság között, avagy az illetékességi összeütközés a területén lévő megyei bíróságok vagy a területén lévő különböző megyei bíróságokhoz tartozó helyi bíróságok között,
+b) az ítélőtábla határoz, ha a hatásköri összeütközés a területén lévő törvényszék és helyi bíróság között, avagy az illetékességi összeütközés a területén lévő törvényszékek vagy a területén lévő különböző törvényszékekhez tartozó helyi bíróságok között,
 
-c) a Legfelsőbb Bíróság határoz, ha a hatásköri összeütközés a különböző ítélőtáblákhoz tartozó megyei bíróságok és helyi bíróságok, a megyei bíróság katonai tanácsa és a megyei bíróság más tanácsa, illetőleg más megyei bíróság, a megyei bíróság és az ítélőtábla, a Fővárosi Ítélőtábla katonai tanácsa és a Fővárosi Ítélőtábla más tanácsa, illetőleg más ítélőtábla, a Legfelsőbb Bíróság és az ítélőtábla, avagy az illetékességi összeütközés az ítélőtáblák vagy különböző ítélőtáblákhoz tartozó megyei bíróságok, illetőleg helyi bíróságok között
+c) a Kúria határoz, ha a hatásköri összeütközés a különböző ítélőtáblákhoz tartozó törvényszékek és helyi bíróságok, a törvényszék katonai tanácsa és a törvényszék más tanácsa, illetőleg más törvényszék, a törvényszék és az ítélőtábla, a Fővárosi Ítélőtábla katonai tanácsa és a Fővárosi Ítélőtábla más tanácsa, illetőleg más ítélőtábla, a Kúria és az ítélőtábla, avagy az illetékességi összeütközés az ítélőtáblák vagy különböző ítélőtáblákhoz tartozó törvényszékek, illetőleg helyi bíróságok között
 
 merült fel.
 
-(3) Az eljáró bíróságot a Legfelsőbb Bíróság jelöli ki akkor is, ha az illetékességet meghatározó körülmények nem állapíthatók meg.
+(3) Az eljáró bíróságot a Kúria jelöli ki akkor is, ha az illetékességet meghatározó körülmények nem állapíthatók meg.

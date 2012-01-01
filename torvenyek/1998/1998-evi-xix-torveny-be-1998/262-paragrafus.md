@@ -8,4 +8,4 @@
 
 (5) Külön jogszabály határozza meg, hogy a határozatot, illetőleg a határozat tartalmáról szóló értesítést az e §-ban felsoroltakon kívül kinek kell megküldeni.
 
-(6) A magyar nyelvet nem értő vádlott részére a kihirdetés után az ítélet és az ügydöntő végzés reá vonatkozó részét az anyanyelvére, regionális vagy kisebbségi nyelvére, illetőleg kérésére az általa ismertként megjelölt, az eljárásban korábban használt más nyelvre le kell fordítani, és azt a részére kézbesíteni kell.
+(6) A magyar nyelvet nem értő vádlott részére a kihirdetés után az ítélet és az ügydöntő végzés reá vonatkozó részét az anyanyelvére, regionális vagy nemzetiségi nyelvére, illetőleg kérésére az általa ismertként megjelölt, az eljárásban korábban használt más nyelvre le kell fordítani, és azt a részére kézbesíteni kell.

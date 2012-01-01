@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-601. § (1) Ahol e törvény megyei bíróságról, illetőleg helyi bíróságról rendelkezik, ezen a Fővárosi Bíróságot, illetőleg a kerületi és a városi bíróságot is érteni kell.
+601. § (1) Ahol e törvény helyi bíróságról rendelkezik, ezen a kerületi és a városi bíróságot is érteni kell.
 
 (2) Ahol e törvény büntetés helyett alkalmazott intézkedésről rendelkezik, ezen a megrovást (Btk. 71. §), a próbára bocsátást (Btk. 72. §) és a javítóintézeti nevelést (Btk. 118. §) kell érteni.
 

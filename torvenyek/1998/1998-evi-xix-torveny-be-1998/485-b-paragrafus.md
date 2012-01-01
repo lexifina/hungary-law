@@ -1,6 +1,6 @@
 485/B. § (1) A megfenyített és védője – ha a külön törvényben meghatározott panaszjogát kimerítette – a jogerős parancsnoki döntést követő három napon belül a fegyelmi eljárásra utalt bűncselekmény miatt fenyítést kiszabó határozat vagy parancs bírósági felülvizsgálatát kérheti. A kérelem elbírálásáig a fenyítés nem hajtható végre.
 
-(2) A kérelmet a fenyítést kiszabó parancsnoknál kell előterjeszteni, aki azt az ügy irataival együtt huszonnégy órán belül megküldi a területileg illetékes megyei bíróság katonai tanácsának. A kérelem a tárgyalás megkezdéséig visszavonható.
+(2) A kérelmet a fenyítést kiszabó parancsnoknál kell előterjeszteni, aki azt az ügy irataival együtt huszonnégy órán belül megküldi a területileg illetékes törvényszék katonai tanácsának. A kérelem a tárgyalás megkezdéséig visszavonható.
 
 (3) A bíróság
 

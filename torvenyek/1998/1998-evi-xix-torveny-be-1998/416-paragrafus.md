@@ -16,9 +16,9 @@ d) a bíróság határozatának meghozatalára a súlyosítási tilalom [354. é
 
 e) az Alkotmánybíróság a jogerős határozattal befejezett büntetőeljárás felülvizsgálatát elrendelte, feltéve, hogy a terhelt még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól, vagy a kiszabott büntetés, illetőleg az alkalmazott intézkedés végrehajtása még nem fejeződött be, vagy a végrehajthatósága még nem szűnt meg,
 
-f) a büntetőjogi felelősség megállapítására, a büntetés kiszabására vagy intézkedés alkalmazására olyan büntető jogszabály alapján került sor, amelynek alkotmányellenességét az Alkotmánybíróság megállapította, de a terhelt már mentesült a büntetett előélethez fűződő hátrányos következmények alól, vagy a büntetés végrehajtása már befejeződött, illetve végrehajthatósága megszűnt, illetőleg a terhelt már nem áll az intézkedés hatálya alatt,
+f) a büntetőjogi felelősség megállapítására, a büntetés kiszabására vagy intézkedés alkalmazására olyan büntető jogszabály alapján került sor, amelynek alaptörvény-ellenességét az Alkotmánybíróság megállapította, de a terhelt már mentesült a büntetett előélethez fűződő hátrányos következmények alól, vagy a büntetés végrehajtása már befejeződött, illetve végrehajthatósága megszűnt, illetőleg a terhelt már nem áll az intézkedés hatálya alatt,
 
-g) nemzetközi szerződéssel létrehozott emberi jogi szerv megállapította, hogy az eljárás lefolytatása vagy a bíróság jogerős határozata megsértette a törvényben kihirdetett nemzetközi szerződés valamely rendelkezését, feltéve, hogy a nemzetközi emberi jogi szerv joghatóságának a Magyar Köztársaság alávetette magát.
+g) nemzetközi szerződéssel létrehozott emberi jogi szerv megállapította, hogy az eljárás lefolytatása vagy a bíróság jogerős határozata megsértette a törvényben kihirdetett nemzetközi szerződés valamely rendelkezését, feltéve, hogy a nemzetközi emberi jogi szerv joghatóságának Magyarország alávetette magát.
 
 (2) Az (1) bekezdés f) pontja alapján a felülvizsgálati indítványt az Alkotmánybíróság határozatának közlésétől számított hat hónapon belül lehet benyújtani.
 
@@ -28,7 +28,7 @@ g) nemzetközi szerződéssel létrehozott emberi jogi szerv megállapította, h
 
 a) az (1) bekezdés a) és b) pontja esetében, ha az ügyben harmadfokú bíróság hozott ügydöntő határozatot,
 
-b) a Legfelsőbb Bíróság jogegységi eljárása alapján, felülvizsgálat során vagy a törvényesség érdekében bejelentett jogorvoslat alapján hozott határozata ellen,
+b) a Kúria jogegységi eljárása alapján, felülvizsgálat során vagy a törvényesség érdekében bejelentett jogorvoslat alapján hozott határozata ellen,
 
 c) ha a törvénysértés különleges eljárás (XXIX. Fejezet I–II. Cím) lefolytatásával orvosolható.
 

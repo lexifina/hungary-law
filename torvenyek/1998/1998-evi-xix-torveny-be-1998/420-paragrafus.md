@@ -1,4 +1,4 @@
-420. § (1) A felülvizsgálati indítványt a Legfelsőbb Bíróság tanácsa, ha pedig az a Legfelsőbb Bíróság határozata ellen irányul, a Legfelsőbb Bíróság öt hivatásos bíróból álló tanácsa tanácsülésen vagy nyilvános ülésen bírálja el.
+420. § (1) A felülvizsgálati indítványt a Kúria tanácsa, ha pedig az a Kúria határozata ellen irányul, a Kúria öt hivatásos bíróból álló tanácsa tanácsülésen vagy nyilvános ülésen bírálja el.
 
 (2) A felülvizsgálati eljárásban védő részvétele kötelező. A tanács elnöke védőt rendel ki, ha a terheltnek nincs védője, és szükség esetén a felülvizsgálati indítvány megfogalmazására hívja fel.
 

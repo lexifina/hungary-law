@@ -1,6 +1,6 @@
 ## Eljárás a külföldön tartózkodó terhelt távollétében
 
-532. § (1)
+532. § (1) Ha a terhelt külföldön tartózkodik, és kiadatásának vagy az európai elfogatóparancs alapján történő átadásának nincs helye, illetve kiadatását vagy az európai elfogatóparancs alapján történő átadását megtagadták, és a büntetőeljárás átadására sem került sor, az ügyész a vádiratban indítványozhatja, hogy a tárgyalást a vádlott távollétében tartsák meg.
 
 (2) Ha a bírósági eljárásban állapítják meg, hogy a vádlott külföldön ismert helyen tartózkodik, a bíróság felhívhatja az ügyészt, hogy kívánja-e indítványozni a tárgyalásnak a vádlott távollétében történő folytatását.
 

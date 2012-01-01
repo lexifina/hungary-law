@@ -6,4 +6,4 @@
 
 (3) A vádlottnak az idézést legalább nyolc nappal a tárgyalás előtt kell kézbesíteni. Az idézéssel egyidejűleg a bíróság a vádlottat tájékoztathatja arról, hogy a tárgyalás a távollétében megtartható, és vele szemben az eljárás befejezhető, ha előzetesen bejelenti, hogy a tárgyaláson nem kíván részt venni.
 
-(4) Ha a vádlott előzetesen bejelenti, hogy a tárgyaláson nem kíván részt venni, és nincs védője, a bíróság a részére védőt rendel ki, és a védőt a kitűzött határnapra idézi.
+(4) Ha a bíróság felhívása alapján a vádlott előzetesen bejelenti, hogy a tárgyaláson nem kíván részt venni, és nincs védője, a bíróság a részére védőt rendel ki, és a védőt a kitűzött határnapra idézi.

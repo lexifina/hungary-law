@@ -2,7 +2,7 @@
 
 271. § (1) A helyi bíróság elrendelheti, hogy az ügyet két hivatásos bíróból és három ülnökből álló tanács tárgyalja, ha ezt a vádlottak nagy száma vagy az ügy különösen nagy terjedelme indokolja.
 
-(2) A megyei bíróság elrendelheti, hogy az ügyet két hivatásos bíróból és három ülnökből álló tanács tárgyalja, ha
+(2) A törvényszék elrendelheti, hogy az ügyet két hivatásos bíróból és három ülnökből álló tanács tárgyalja, ha
 
 a) ezt a vádlottak nagy száma vagy az ügy különösen nagy terjedelme indokolja,
 

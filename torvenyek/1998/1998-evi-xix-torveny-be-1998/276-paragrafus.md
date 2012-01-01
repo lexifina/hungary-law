@@ -6,7 +6,7 @@ a) a tárgyalás kitűzése és elhalasztása,
 
 b) az előkészítő ülésre és a tárgyalásra idézés és tárgyalásról szóló értesítés,
 
-c) az eljárásnak a 188. § (1) bekezdése a) pontja vagy a 266. § (1) bekezdése b) és c) pontja, valamint (3) bekezdésének a) és b) pontja alapján történt felfüggesztése,
+c) az eljárásnak a 188. § (1) bekezdés a) pontja vagy a 266. § (1) bekezdés b)–d) pontja és (3) bekezdés a) és b) pontja alapján történt felfüggesztése, valamint a 266. § (1) bekezdés b)–d) pontjában meghatározott eljárás kezdeményezésére irányuló indítvány elutasítása,
 
 d) a vádtól eltérő minősítés lehetőségének megállapítása,
 

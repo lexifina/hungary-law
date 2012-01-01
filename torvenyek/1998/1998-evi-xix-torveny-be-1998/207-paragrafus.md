@@ -1,6 +1,6 @@
 ## A nyomozási bíró feladata
 
-207. § (1) A vádirat benyújtása előtt a bíróság feladatait első fokon a megyei bíróság elnöke által kijelölt bíró (nyomozási bíró) látja el.
+207. § (1) A vádirat benyújtása előtt a bíróság feladatait első fokon a törvényszék elnöke által kijelölt bíró (nyomozási bíró) látja el.
 
 (2) A nyomozási bíró dönt
 
@@ -22,4 +22,4 @@ e) a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése,
 
 (5) Az ügyész, a gyanúsított és a védő bizonyítás felvételét is indítványozhatja, ha megalapozottan feltehető, hogy az így megszerezhető bizonyítási eszköz a bírósági eljárásban már nem állna rendelkezésre, vagy az addigra jelentős mértékben megváltozna, illetőleg bizonyítási eszköz jellegét elveszítené. Az ügyész, a gyanúsított, a védő, a tanú érdekében eljáró ügyvéd, valamint a kiskorú tanú gondozója és törvényes képviselője a tanúnak vagy kivételes esetben a gyanúsítottnak a zártcélú távközlő hálózat útján történő kihallgatását is indítványozhatja.
 
-(6) A vádirat benyújtása előtt az előzetes letartóztatás egy éven túli meghosszabbítására, valamint az ideiglenes kényszergyógykezelés felülvizsgálatára irányuló eljárást a megyei bíróság egyesbírája e Címben foglalt rendelkezések szerint folytatja le.
+(6) A vádirat benyújtása előtt az előzetes letartóztatás egy éven túli meghosszabbítására, valamint az ideiglenes kényszergyógykezelés felülvizsgálatára irányuló eljárást a törvényszék egyesbírája e Címben foglalt rendelkezések szerint folytatja le.

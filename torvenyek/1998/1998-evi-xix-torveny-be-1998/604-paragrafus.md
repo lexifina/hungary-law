@@ -47,11 +47,3 @@ q)
 r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban való együttműködése, és az ennek kapcsán felmerült költségek viselése részletes szabályait,
 
 s) a tizennegyedik életévét be nem töltött személy meghallgatására szolgáló rendőrségi helyiség kialakítására vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
-
-rendeletben szabályozza.
-
-(3) Felhatalmazást kap a rendészetért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályait, köztük a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályait, a büntetőeljárás nyomozási szakaszában a sajtónak adandó tájékoztatás részletes szabályait.
-
-(4) Felhatalmazást kap
-
-a) a honvédelemért felelős miniszter, hogy az érintett miniszterek egyetértésével a katonával szemben elrendelt lakhelyelhagyási tilalom ellenőrzésének szabályait,

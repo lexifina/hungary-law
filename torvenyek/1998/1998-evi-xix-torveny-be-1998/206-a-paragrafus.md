@@ -18,7 +18,7 @@ vonatkozik.
 
 (4) A titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználását az (1) bekezdésben meghatározott feltételek fennállása esetén a nyomozás elrendelését követően az ügyész indítványozhatja. Az indítványról a nyomozási bíró határoz.
 
-(5) A bírói engedélyhez kötött titkos információgyűjtés tényét a megyei (fővárosi) bíróság elnöke igazolja. Az igazolás tartalmazza a bíróság megjelölését, az engedéllyel érintett ügy számát és tárgyát, az érintett személy nevét, a titkos információgyűjtés engedélyezésére irányuló előterjesztés, illetve az engedély kereteit.
+(5) A bírói engedélyhez kötött titkos információgyűjtés tényét a törvényszék elnöke igazolja. Az igazolás tartalmazza a bíróság megjelölését, az engedéllyel érintett ügy számát és tárgyát, az érintett személy nevét, a titkos információgyűjtés engedélyezésére irányuló előterjesztés, illetve az engedély kereteit.
 
 VI. CÍM
 

@@ -1,4 +1,4 @@
-228/A. § (1) Akit az ügyész e fejezet szerinti eljárásában tett intézkedése vagy intézkedésének elmulasztása érint, a tudomásszerzéstől számított nyolc napon belül panasszal élhet.
+228/A. § (1) Akinek az ügyész e fejezet szerinti eljárásában tett intézkedése vagy intézkedésének elmulasztása a jogait vagy érdekeit közvetlenül sérti, az a tudomásszerzéstől számított nyolc napon belül panasszal élhet.
 
 (2) Ha e törvény az ügyész részére intézkedés megtételére határidőt állapított meg, az intézkedés elmulasztása miatt akkor lehet panasszal élni, ha a határidő eredménytelenül eltelt.
 

@@ -4,8 +4,8 @@
 
 (3) A 416. § (1) bekezdésének g) pontjában meghatározott esetben a felülvizsgálati indítványt a törvénnyel kihirdetett nemzetközi szerződéssel ellentétes jogszabály figyelmen kívül hagyásával, illetve a nemzetközi emberi jogi szerv döntésének alapulvételével kell elbírálni.
 
-(4) A Legfelsőbb Bíróság a megtámadott határozatot – az (5) bekezdésben meghatározott kivétellel – csak a felülvizsgálati indítvánnyal megtámadott részében és csak a felülvizsgálati indítványban meghatározott ok alapján bírálja felül, a terhelt terhére benyújtott felülvizsgálati indítvány esetén azonban a megtámadott határozatot a terhelt javára is megváltoztathatja.
+(4) A Kúria a megtámadott határozatot – az (5) bekezdésben meghatározott kivétellel – csak a felülvizsgálati indítvánnyal megtámadott részében és csak a felülvizsgálati indítványban meghatározott ok alapján bírálja felül, a terhelt terhére benyújtott felülvizsgálati indítvány esetén azonban a megtámadott határozatot a terhelt javára is megváltoztathatja.
 
-(5) A Legfelsőbb Bíróság a megtámadott határozatot a 416. § (1) bekezdésének c) pontja alapján akkor is felülbírálja, ha az indítványt nem ebből az okból nyújtották be.
+(5) A Kúria a megtámadott határozatot a 416. § (1) bekezdésének c) pontja alapján akkor is felülbírálja, ha az indítványt nem ebből az okból nyújtották be.
 
-(6) A felülvizsgálati indítványnak nincs halasztó hatálya, a Legfelsőbb Bíróság azonban az indítvány elbírálásáig a megtámadott határozat végrehajtását felfüggesztheti vagy félbeszakíthatja.
+(6) A felülvizsgálati indítványnak nincs halasztó hatálya, a Kúria azonban az indítvány elbírálásáig a megtámadott határozat végrehajtását felfüggesztheti vagy félbeszakíthatja.

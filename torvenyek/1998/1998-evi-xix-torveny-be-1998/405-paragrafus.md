@@ -1,5 +1,7 @@
 405. § (1) Ha a vádlott terhére nem jelentettek be fellebbezést, a megismételt eljárásban nem lehet a felmentett vádlott bűnösségét megállapítani, illetőleg a hatályon kívül helyezett ítéletben kiszabott büntetésnél súlyosabb büntetést kiszabni, vagy büntetés helyett alkalmazott intézkedésnél súlyosabb intézkedést alkalmazni.
 
+(1a) Ha az Alkotmánybíróság az ítéletet megsemmisíti, a megismételt eljárásban nem lehet a felmentett vádlott bűnösségét megállapítani, illetve az ítéletben kiszabott büntetésnél súlyosabb büntetést kiszabni, vagy büntetés helyett alkalmazott intézkedésnél súlyosabb intézkedést alkalmazni.
+
 (2) Az (1) bekezdés nem irányadó, ha
 
 a) az első fokú bíróság ítéletének hatályon kívül helyezése a 373. § (1) bekezdésének II. a)–c) vagy e) pontjában vagy 376. §-ának (1) bekezdésében meghatározott ok miatt történt,
@@ -14,4 +16,4 @@ d) az első fokú bíróság ítéletének hatályon kívül helyezésére a fel
 
 II. CÍM
 
-A MÁSODFOKÚ BÍRÓSÁGI ELJÁRÁS MEGISMÉTLÉSE
+A MÁSODFOKÚ VAGY A HARMADFOKÚ BÍRÓSÁGI ELJÁRÁS MEGISMÉTLÉSE

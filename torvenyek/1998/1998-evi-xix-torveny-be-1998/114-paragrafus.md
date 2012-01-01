@@ -1,6 +1,6 @@
 ## A tolmács
 
-114. § (1) Ha nem magyar anyanyelvű személy az eljárás során az anyanyelvét, – törvénnyel kihirdetett nemzetközi szerződés alapján, az abban meghatározott körben – regionális vagy kisebbségi nyelvét kívánja használni, tolmácsot kell igénybe venni. Ha az anyanyelv használata aránytalan nehézségbe ütközne, a magyar nyelvet nem ismerő személy által ismertként megjelölt más nyelv használatát kell tolmács útján biztosítani.
+114. § (1) Ha nem magyar anyanyelvű személy az eljárás során az anyanyelvét, – törvénnyel kihirdetett nemzetközi szerződés alapján, az abban meghatározott körben – regionális vagy nemzetiségi nyelvét kívánja használni, tolmácsot kell igénybe venni. Ha az anyanyelv használata aránytalan nehézségbe ütközne, a magyar nyelvet nem ismerő személy által ismertként megjelölt más nyelv használatát kell tolmács útján biztosítani.
 
 (2) Ha a kihallgatandó személy hallássérült, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni, vagy a kihallgatás helyett írásban is nyilatkozatot tehet. Ha a kihallgatandó személy siketvak, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni. Ha a kihallgatandó személy beszédfogyatékos, kérésére a kihallgatás helyett írásban tehet nyilatkozatot.
 

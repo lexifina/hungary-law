@@ -8,8 +8,8 @@ b) az ügy megítélése egyszerű,
 
 c) a bizonyítékok rendelkezésre állnak,
 
-d) a terheltet tetten érték, vagy a bűncselekmény elkövetését beismerte.
+d) a terhelt a bűncselekmény elkövetését beismerte.
 
-(2) Ha a bíróság elé állítás (1) bekezdés a)–c) pontjában meghatározott feltételei fennállnak, tettenérés esetén az ügyész a terheltet a bűncselekmény elkövetésétől számított harminc napon belül bíróság elé állítja.
+(2) Ha a bíróság elé állítás (1) bekezdés a)–c) pontjában meghatározott feltételei fennállnak, tettenérés esetén az ügyész a terheltet a gyanúsítottként történő kihallgatásától számított harminc napon belül bíróság elé állítja.
 
 (3) A magánvádló, illetőleg a pótmagánvádló a terhelt bíróság elé állítását nem indítványozhatja.

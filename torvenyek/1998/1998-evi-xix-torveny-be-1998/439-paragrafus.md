@@ -2,10 +2,12 @@
 
 ## JOGEGYSÉGI ELJÁRÁS
 
-439. § (1) Jogegységi eljárásnak van helye, ha
+439. § (1) A jogegységi eljárásra a (2)–(5) bekezdésben foglalt eltérésekkel a bíróságok szervezetéről és igazgatásáról szóló törvény jogegységi eljárásra vonatkozó rendelkezéseit kell alkalmazni.
 
-a) a joggyakorlat továbbfejlesztése vagy az egységes ítélkezési gyakorlat biztosítása érdekében elvi kérdésben jogegységi határozat meghozatala szükséges,
+(2) Ha a jogegységi eljárás eredménye a Kúria előtt folyamatban lévő más rendkívüli jogorvoslati eljárásra kihatással lehet, a Kúria a rendkívüli jogorvoslati eljárást a jogegységi határozat meghozataláig felfüggeszti.
 
-b) a Legfelsőbb Bíróság valamely tanácsa jogkérdésben el kíván térni a Legfelsőbb Bíróság másik ítélkező tanácsának határozatától.
+(3) Ha az elvi kérdésben adott iránymutatásból következően a jogegységi határozattal érintett jogerős bírósági határozatnak a terhelt büntetőjogi felelősségét megállapító rendelkezése törvénysértő, a jogegységi tanács a törvénysértő rendelkezést hatályon kívül helyezi, és a terheltet felmenti, illetve az eljárást megszünteti. Ha a terhelt fogva van, a fogvatartást is megszünteti.
 
-(2) Az (1) bekezdés a) pontja alapján az egységes ítélkezési gyakorlat biztosítása érdekében jogegységi eljárásnak van helye különösen akkor, ha az ítélőtábla, a megyei bíróság vagy a helyi bíróság elvi kérdésben korábban hozott jogerős bírósági határozattól eltérő jogerős határozatot hozott, és a Legfelsőbb Bíróság elnöke vagy a legfőbb ügyész az elvi kérdés eldöntését szükségesnek tartja.
+(4) A jogegységi határozat indokolása tartalmazza a terhelt felmentésének és az eljárás megszüntetésének indokait is.
+
+(5) A jogegységi határozatot közölni kell azzal a terhelttel is, akit felmentettek vagy akivel szemben az eljárást megszüntették. Ha az alapeljárásban a vádat magánvádló vagy pótmagánvádló képviselte, a határozatot vele is közölni kell.

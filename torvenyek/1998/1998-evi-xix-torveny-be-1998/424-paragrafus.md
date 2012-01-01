@@ -1,4 +1,4 @@
-424. § (1) A Legfelsőbb Bíróság a felülvizsgálati indítványról tanácsülésen határoz, ha
+424. § (1) A Kúria a felülvizsgálati indítványról tanácsülésen határoz, ha
 
 a) a felülvizsgálati eljárást meg kell szüntetni, vagy a felülvizsgálati indítvány elutasításának van helye,
 

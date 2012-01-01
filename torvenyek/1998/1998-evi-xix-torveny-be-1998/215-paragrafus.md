@@ -2,9 +2,9 @@
 
 215. § (1) A nyomozási bíró határozata ellen az jelenthet be fellebbezést, akivel a határozatot közölték. A kihirdetés útján közölt határozat elleni fellebbezést a kihirdetés után nyomban be kell jelenteni. Az a jogosult, aki a határozat kihirdetésén nem vett részt, a fellebbezését az üléstől számított három napon belül jelentheti be. A kézbesítés útján közölt határozat ellen a fellebbezést a jogosult a kézbesítéstől számított három napon belül jelentheti be.
 
-(2) A nyomozási bíró a határozat elleni fellebbezést a nyilatkozatok beérkezését, illetőleg a fellebbezési határidő lejártát követően haladéktalanul a fellebbezés elbírálására illetékes megyei bíróságnak küldi meg.
+(2) A nyomozási bíró a határozat elleni fellebbezést a nyilatkozatok beérkezését, illetőleg a fellebbezési határidő lejártát követően haladéktalanul a fellebbezés elbírálására illetékes törvényszéknek küldi meg.
 
-(3) A fellebbezést a megyei bíróság másodfokú tanácsa tanácsülésen bírálja el.
+(3) A fellebbezést a törvényszék másodfokú tanácsa tanácsülésen bírálja el.
 
 (4) Nincs helye fellebbezésnek
 

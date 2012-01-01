@@ -1,6 +1,6 @@
 ## Jogorvoslat
 
-228. § (1) Akire nézve az ügyész e fejezet szerinti eljárásában hozott határozata rendelkezést tartalmaz, a határozat ellen a közléstől számított nyolc napon belül panasszal élhet.
+228. § (1) Akire nézve az ügyész e fejezet szerinti eljárásában hozott határozata közvetlen rendelkezést tartalmaz, a határozat ellen a közléstől számított nyolc napon belül panasszal élhet.
 
 (2) Ha az ügyész a panasznak három napon belül nem ad helyt, azt haladéktalanul köteles felterjeszteni a felettes ügyészhez.
 

@@ -2,7 +2,7 @@
 
 257. § (1) A bíróság e törvényben meghatározott esetekben ítélettel, egyébként végzéssel határoz. A bíróságnak az ügydöntő határozatban a vádról határoznia kell; a tényállás jogi elbírálásában az indítványok nem kötik.
 
-(2) A bíróság az ítéletét és az ügydöntő végzését ,,A MAGYAR KÖZTÁRSASÁG NEVÉBEN'' hozza.
+(2)
 
 (3) A határozat – ha e törvény másképp nem rendelkezik – bevezető részből, rendelkező részből, indokolásból és keltezésből áll.
 

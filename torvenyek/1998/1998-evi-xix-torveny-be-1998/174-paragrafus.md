@@ -8,7 +8,7 @@ b) a bűncselekmény gyanúja hiányzik,
 
 c) a büntethetőséget kizáró ok (Btk. 22. §) állapítható meg,
 
-d) eljárás halál, elévülés vagy kegyelem [Btk. 32. § a)–c) pont] folytán nem indítható,
+d) eljárás halál, elévülés vagy kegyelem folytán nem indítható,
 
 e) a magánindítvány, kívánat vagy feljelentés hiányzik,
 

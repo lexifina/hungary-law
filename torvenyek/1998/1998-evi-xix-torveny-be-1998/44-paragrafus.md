@@ -8,4 +8,4 @@
 
 (4) Több terhelt érdekében ugyanaz a védő akkor járhat el, ha a terheltek érdekei nem ellentétesek.
 
-(5) Ügyvédjelölt védőként, ügyvéd mellett vagy ügyvéd helyetteseként a megyei bíróság, az ítélőtábla és a Legfelsőbb Bíróság nyilvános ülésén, illetőleg tárgyalásán nem járhat el.
+(5) Ügyvédjelölt védőként, ügyvéd mellett vagy ügyvéd helyetteseként a törvényszék, az ítélőtábla és a Kúria nyilvános ülésén, illetőleg tárgyalásán nem járhat el.

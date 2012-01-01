@@ -10,6 +10,8 @@
 
 (6) A 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat, továbbá a 151. § (2) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozat ellen a kézbesítéstől számított nyolc napon belül a határozatot hozó ügyészségnél felülbírálati indítvány terjeszthető elő, az ügyészség a felülbírálati indítványt az iratokkal és indítványával együtt három napon belül megküldi a bíróságnak.
 
+(6a) Az őrizetbe vételt elrendelő határozat ellen tett panasz elbírását mellőzni kell, ha az ügyész a terhelt előzetes letartóztatásának elrendelésére indítványt tesz a bíróságnak.
+
 (7) A halaszthatatlan nyomozási cselekmény elleni jogorvoslatra az (1)–(4) bekezdés rendelkezéseit kell alkalmazni.
 
 (8) A törvényben kizárt, az elkésett és a nem jogosulttól származó panaszt indokolás nélkül el kell utasítani.

@@ -12,4 +12,4 @@
 
 (6) Katona [Btk. 122. § (1) bek.] elővezetése iránt az elővezetendő elöljáróját kell megkeresni.
 
-(7) Az elővezetés külön jogszabályban meghatározott költségének megfizetésére az elővezetettet kell kötelezni.
+(7) Az elővezetés költségének megfizetésére az elővezetést elrendelő határozatban megjelölt személyt kell kötelezni. Eredménytelen elővezetés esetén az elővezetést elrendelő bíróság, ügyész vagy nyomozó hatóság a kötelezettet kérelmére különös méltánylást érdemlő okból mentesítheti az elővezetés költéségének megfizetése alól, ebben az esetben az elővezetés költségét az állam viseli.

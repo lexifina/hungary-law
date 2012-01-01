@@ -1,6 +1,6 @@
 242. § (1) A tárgyaláson a védő részvétele kötelező
 
-a) ha e törvény másképp nem rendelkezik, a megyei bíróság mint első fokú bíróság előtt,
+a) ha e törvény másképp nem rendelkezik, a törvényszék mint első fokú bíróság előtt,
 
 b) a 46. §-ban szabályozott esetekben,
 

@@ -6,7 +6,7 @@ b)
 
 c) –f
 
-(2) A helyi bíróságon ügyészségi titkár is képviselheti a vádat.
+(2) A helyi bíróságon alügyész is képviselheti a vádat.
 
 (3) A helyi bíróságon ügyészségi fogalmazó is képviselheti a vádat, kivéve, ha
 

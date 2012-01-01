@@ -1,4 +1,4 @@
-384. § Az ítélőtábla, illetőleg a Legfelsőbb Bíróság a fellebbezést tanácsülésen bírálja el.
+384. § Az ítélőtábla, illetőleg a Kúria a fellebbezést tanácsülésen bírálja el.
 
 ## XV. Fejezet
 
