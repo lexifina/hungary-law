@@ -1,6 +1,6 @@
 ## A személyszállítást végző légifuvarozókra vonatkozó adatkezelési és adatszolgáltatási rendelkezések
 
-27/A. § (1) A légiközlekedés és az utasok védelmének biztosítása céljából a személyszállítást végző légifuvarozó az Európai Unió és harmadik ország között az utas-nyilvántartási adatoknak a légifuvarozók általi feldolgozása és továbbítása tárgyában létrehozott, a Magyar Köztársaságban törvényben kihirdetett és alkalmazandó nemzetközi szerződésben részes harmadik országba mint célállomásra utazó vagy onnan induló utasnak az alábbi személyes adatait kezelheti:
+27/A. § (1) A légiközlekedés és az utasok védelmének biztosítása céljából a személyszállítást végző légifuvarozó az Európai Unió és harmadik ország között az utas-nyilvántartási adatoknak a légifuvarozók általi feldolgozása és továbbítása tárgyában létrehozott, Magyarországon törvényben kihirdetett és alkalmazandó nemzetközi szerződésben részes harmadik országba mint célállomásra utazó vagy onnan induló utasnak az alábbi személyes adatait kezelheti:
 
 a) a családi és utónevét;
 
@@ -22,7 +22,7 @@ i) a szolgáltatás teljesítésére vonatkozó speciális igényeit;
 
 j) lakcímét, telefonszámát, e-mail címét, nemét;
 
-k) az előző pontokban nem szerepelő, az Európai Unió és harmadik országok között az utas-nyilvántartási adatoknak a légifuvarozók általi feldolgozása és továbbítása tárgyában létrehozott, a Magyar Köztársaságban törvénnyel kihirdetett és alkalmazandó nemzetközi szerződésben konkrétan meghatározott további adatokat.
+k) az előző pontokban nem szerepelő, az Európai Unió és harmadik országok között az utas-nyilvántartási adatoknak a légifuvarozók általi feldolgozása és továbbítása tárgyában létrehozott, Magyarországon törvénnyel kihirdetett és alkalmazandó nemzetközi szerződésben konkrétan meghatározott további adatokat.
 
 (2) Az utas az (1) bekezdésben meghatározott személyes adatokat köteles a légifuvarozó számára hozzáférhetővé tenni.
 

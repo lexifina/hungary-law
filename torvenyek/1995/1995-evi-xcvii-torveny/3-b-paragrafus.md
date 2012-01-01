@@ -1,4 +1,4 @@
-3/B. § (1) A légiközlekedési hatóság jogosult külföldi lajstromba felvett polgári légijárművet (a továbbiakban: külföldi légijármű) és annak személyzetét a Magyar Köztársaság területén ellenőrizni. A légiközlekedési hatóság az ellenőrzésről jelentést készít.
+3/B. § (1) A légiközlekedési hatóság jogosult külföldi lajstromba felvett polgári légijárművet (a továbbiakban: külföldi légijármű) és annak személyzetét Magyarország területén ellenőrizni. A légiközlekedési hatóság az ellenőrzésről jelentést készít.
 
 (2) A légiközlekedési hatóság az ellenőrzés befejezése után a légijármű parancsnokát vagy a légijármű üzemben tartójának képviselőjét tájékoztatja az ellenőrzés eredményéről. Amennyiben a légiközlekedési hatóság az ellenőrzése során észleli, hogy a külföldi légijármű vagy annak személyzete a nemzetközi szerződésekben foglalt feltételeknek nem felel meg, a jelentést megküldi a légijármű üzemben tartójának és az érintett külföldi állam légiközlekedési hatóságának.
 

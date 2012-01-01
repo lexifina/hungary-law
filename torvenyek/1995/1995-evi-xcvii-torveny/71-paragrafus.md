@@ -93,3 +93,5 @@ f) a légijármű földi kiszolgálása;
 30. légijármű komponens: a légijármű hajtóműve (beleértve a segédhajtóművet is), légcsavarja, alkatrésze vagy berendezése,
 
 31. karbantartás: légijármű, légijármű komponens vagy légiközlekedéssel kapcsolatos eszköz nagyjavítása, kisjavítása, ellenőrző vizsgálata, alkatrészpótlása, átalakítása, hibaelhárítása, vagy ezek kombinációja, kivéve a légijármű repülés előtti ellenőrzését.
+
+32. magyar légtér: Magyarország feletti légtérnek a légiközlekedés számára – a mindenkori legfejlettebb technikai színvonal alapján – fizikailag igénybe vehető magasságig terjedő része.

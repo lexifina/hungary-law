@@ -30,11 +30,11 @@ b) az (1) bekezdés g) pontjába tartozó esetekben – amennyiben az eljárás 
 
 folytatja le.
 
-(2a) A bírság összegét az eset összes körülményére – így különösen a jogsértés által érintettek körének nagyságára, a jogsértés súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértés veszélyességére vagy károsító hatására, a bekövetkezett kár mértékére, a helyreállíthatóság lehetőségére és a jogsértéssel elért jogtalan előny mértékére – tekintettel kell meghatározni.
+(2a) A bírság összegét a jogsértés által érintettek körének nagyságára, a jogsértés súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértés veszélyességére vagy károsító hatására, a bekövetkezett kár mértékére, a helyreállíthatóság lehetőségére és a jogsértéssel elért jogtalan előny mértékére tekintettel kell meghatározni.
 
 (3) A bírság ismételten is kiszabható.
 
-(4) A bírság összege az eljáró hatóságot illeti meg.
+(4)
 
 (5) A bírság kivetésének részletes szabályait és a beszedett bírság összegének felhasználási rendjét a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
 

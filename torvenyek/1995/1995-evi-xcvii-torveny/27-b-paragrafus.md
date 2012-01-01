@@ -26,7 +26,7 @@ c) a tervezett indulási és – a célállomásra történő – érkezési id�
 
 (5) Az (1) bekezdésben meghatározott adatok – az utas kezdeményezése alapján – mindaddig megváltoztathatók, amíg az érintett járatra történő utasfelvételi eljárás be nem fejeződik.
 
-(6) A személyszállítást végző légifuvarozó az (1) és (3) bekezdésben meghatározott adatokat egyedi adatigénylés alapján továbbíthatja a határforgalom-ellenőrzésért felelős szervnek, amennyiben a személyszállítást végző légifuvarozó nem valamely schengeni határátlépési állam területéről szállít utasokat a Magyar Köztársaság területére.
+(6) A személyszállítást végző légifuvarozó az (1) és (3) bekezdésben meghatározott adatokat egyedi adatigénylés alapján továbbíthatja a határforgalom-ellenőrzésért felelős szervnek, amennyiben a személyszállítást végző légifuvarozó nem valamely schengeni határátlépési állam területéről szállít utasokat Magyarország területére.
 
 (7) Amennyiben a személyszállítást végző légifuvarozó nem valamely schengeni határátlépési állam területéről szállít utasokat, az (1) bekezdésben, valamint a (3) bekezdésben meghatározott adatokat – egyedi adatigénylés alapján – az utasok repülésre történő bejelentkezésének befejezésétől továbbítja a légijármű célállomása szerinti, schengeni határátlépési állam határforgalom-ellenőrzésért felelős szervének.
 

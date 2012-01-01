@@ -12,7 +12,7 @@ d) az alapítói és részvényesi jogok gyakorlója: a közlekedésért felelő
 
 (3) A Társaság feladatai:
 
-a) a Magyar Köztársaság ellenőrzött légterében – kivéve a katonai körzeteket – és Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátása; továbbá a Magyar Köztársaság légterében a légiforgalmi navigációs, távközlési, légtérellenőrző szolgálat ellátása, és az ezekhez szükséges berendezések (kivéve a repülőtéri műszeres leszállító rendszert) működésének biztosítása;
+a) Magyarország ellenőrzött légterében – kivéve a katonai körzeteket – és Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátása; továbbá Magyarország légterében a légiforgalmi navigációs, távközlési, légtérellenőrző szolgálat ellátása, és az ezekhez szükséges berendezések (kivéve a repülőtéri műszeres leszállító rendszert) működésének biztosítása;
 
 b) a nemzetközi polgári repülés részére Budapest Liszt Ferenc Nemzetközi Repülőtéren repülésbejelentő és tájékoztató szolgálat ellátása;
 
@@ -26,7 +26,7 @@ f) légi jármű eltűnése, vagy kényszerhelyzetbe kerülése esetén a szüks
 
 g) központi légiforgalmi tájékoztató szolgálat (AIS) ellátása, a légi közlekedéssel kapcsolatos tájékoztató anyagok kiadása;
 
-h) a Magyar Köztársaságban az ellenőrzött légtéren kívül (a repülőtéri körzetek kivételével) működő légi járművek részére tanácsadói, repüléstájékoztató és riasztó szolgálat ellátása;
+h) – a repülőtéri körzetek kivételével – az ellenőrzött légtéren kívül Magyarország légterében légi járművek részére tanácsadói, repüléstájékoztató és riasztó szolgálat ellátása;
 
 i) a feladatainak ellátásával kapcsolatos fejlesztés;
 

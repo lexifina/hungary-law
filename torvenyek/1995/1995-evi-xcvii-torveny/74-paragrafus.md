@@ -4,7 +4,7 @@ a) az agrárpolitikáért felelős miniszter, hogy a miniszterrel és a környez
 
 b) a miniszter, hogy a légiközlekedés biztonságos és zavartalan végrehajtását biztosító léginavigációs, távközlő, meteorológiai és egyéb berendezések létesítésének, megváltoztatásának, megszüntetésének, üzemben tartásának a részletes szabályait, valamint hatósági felügyeletének szabályait és rendjét,
 
-c) a miniszter, hogy – az állami repülések céljára szolgáló repülőtér kivételével – a Magyar Köztársaság területén lévő repülőtereket használó légijárművek földi ellenőrzései végrehajtásának a részletes szabályait,
+c) a miniszter, hogy – az állami repülések céljára szolgáló repülőtér kivételével – Magyarország területén lévő repülőtereket használó légijárművek földi ellenőrzései végrehajtásának a részletes szabályait,
 
 d) az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben az ország területére légiközlekedési úton bejutó fertőző betegségek megelőzése érdekében történő ideiglenes korlátozások szabályait,
 
@@ -46,7 +46,7 @@ v) a miniszter, hogy a légiforgalmi tájékoztatás rendjét és a légiforgalm
 
 w) a miniszter, hogy a lajstromozásra nem kötelezett légijárművel folytatott repülések és az azokkal összefüggő tevékenységek végrehajtásának a szabályait,
 
-x) a miniszter, hogy – a rendészetért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben – a Magyar Köztársaság Nemzeti Polgári Légiközlekedés Védelmi Képzési Programját és a Magyar Köztársaság Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programját.
+x) a miniszter, hogy – a rendészetért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben – Magyarország Nemzeti Polgári Légiközlekedés Védelmi Képzési Programját és Magyarország Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programját.
 
 y) a miniszter, hogy a légijárművek és az üzemeltetésük biztonságával kapcsolatos műszaki előírások és adminisztrációs eljárások összehangolása érdekében az egységes légügyi előírások alapján alkalmazandó szabályokat, valamint
 
@@ -96,7 +96,7 @@ s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértés
 
 t) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a zajvédelmi díj megállapításának a részletes szabályait és a beszedett díj összegének felhasználási rendjét, valamint
 
-u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának és a légiforgalom irányításának a részletes szabályait
+u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalom irányításának a részletes szabályait
 
 v) a miniszter, hogy a repülésbiztonság összehangolt irányítása érdekében szükséges Nemzeti Repülésbiztonsági Programra és a Repülésbiztonság-irányítási Rendszer működtetésére vonatkozó részletes szabályokat
 

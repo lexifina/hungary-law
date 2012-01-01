@@ -1,4 +1,4 @@
-23/B. § (1) Gazdasági célú légiközlekedési tevékenység gyakorlására engedélyt a légiközlekedési hatóság annak a gazdálkodó szervezetnek adhat, amelyik megfelel a (2) bekezdésben meghatározott követelménynek, központi ügyintézésének helye a Magyar Köztársaság területén található, valamint ha megfelel a külön jogszabályban meghatározott feltételeknek.
+23/B. § (1) Gazdasági célú légiközlekedési tevékenység gyakorlására engedélyt a légiközlekedési hatóság annak a gazdálkodó szervezetnek adhat, amelyik megfelel a (2) bekezdésben meghatározott követelménynek, központi ügyintézésének helye Magyarország területén található, valamint ha megfelel a külön jogszabályban meghatározott feltételeknek.
 
 (2) Gazdasági célú légiközlekedési tevékenység engedélyezése során az 1008/2008/EK rendeletben meghatározott jó hírnévvel kapcsolatos követelménynek az a gazdálkodó szervezet felel meg,
 

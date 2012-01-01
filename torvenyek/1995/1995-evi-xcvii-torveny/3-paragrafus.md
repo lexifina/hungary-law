@@ -17,3 +17,5 @@ c) a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irá
 d) a rendőrség, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a katasztrófavédelem, az állami és hivatásos önkormányzati tűzoltóság;
 
 e) az állami (honvédelmi és rendvédelmi) szervezetek által – nemzetközi megállapodás alapján – bérelt, lízingelt légijárművek bérbeadója, lízingbeadója.
+
+(5) A jogszabályban meghatározott veszélyes áruk légi szállításra történő előkészítésének, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbításának ellenőrzését a hivatásos katasztrófavédelmi szerv is végzi.
