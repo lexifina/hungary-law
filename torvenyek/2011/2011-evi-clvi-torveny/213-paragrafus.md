@@ -1,1 +1,3 @@
-213. §
+213. § A Tbj. 56/D. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a biztosított pénztártagsági jogviszonya a társadalombiztosítási nyugdíjrendszerbe történő visszalépés miatt már nem áll fenn, a visszalépést megelőző időszakban tévesen megállapított nyugdíjjárulék és tagdíj önellenőrzését nyugdíjjárulék önellenőrzésként kell elvégezni, feltéve, hogy ennek eredményeként a nyugdíjjárulék összege az eredetileg bevallott nyugdíjjárulék és tagdíj együttes összegéhez képest változik. E rendelkezést megfelelően alkalmazni kell akkor is, ha a biztosítottól a foglalkoztatója tagdíj címén vonta le a járulékot, annak ellenére, hogy a magánszemély nem volt magánnyugdíjpénztár tagja, feltéve, hogy tagdíj-kiegészítés miatt nem mutatkozik különbözet.”

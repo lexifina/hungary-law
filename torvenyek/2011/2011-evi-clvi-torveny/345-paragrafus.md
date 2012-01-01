@@ -1,0 +1,3 @@
+345. § Az Art. 156/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ingatlanárverés esetén előlegként az ingatlan becsértékének 10%-át legkésőbb az árverés megkezdéséig az adóhatóság által közzétett számlára, átutalás útján kell megfizetni. Amennyiben az árverés megkezdéséig az előleg összegének az adóhatóság által közzétett számlán történő jóváírása nem történt meg, de az árverezni kívánó bankszámláját az előleg összegével a pénzintézet már megterhelte, az árverezni kívánó legkésőbb az árverés megkezdéséig az adóhatóság előtt hitelt érdemlően igazolhatja az átutalás visszavonhatatlan megtörténtét.”

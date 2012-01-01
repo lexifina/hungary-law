@@ -1,3 +1,45 @@
 ## Értelmező rendelkezések
 
-466. §
+466. § E fejezet alkalmazásában:
+
+1. álláskeresési ellátás: az álláskeresési járadék, a keresetpótló juttatás, a vállalkozói járadék, valamint a munkanélküli-járadék, az álláskeresést ösztönző juttatás és nyugdíj előtti álláskeresési segély;
+
+2. egyéni vállalkozó: a személyi jövedelemadóról szóló törvény szerint egyéni vállalkozónak minősülő természetes személy (az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő természetes személy akkor is, ha a nyilvántartásban rögzített tevékenysége ingatlan-bérbeadás vagy egyéb szálláshely-szolgáltatás), valamint a gyógyszerészeti magántevékenységet, falugondnoki tevékenységet, tanyagondnoki tevékenységet végző természetes személy, a szociális szolgáltató tevékenység folytatásához szükséges engedéllyel rendelkező természetes személy;
+
+3. egyházi személy: az egyház belső törvénye vagy szabályzata alapján ilyennek minősülő természetes személy;
+
+4. harmadik állam: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben ilyenként meghatározott állam;
+
+5. mezőgazdasági őstermelő: a személyi jövedelemadóról szóló törvény szerint mezőgazdasági őstermelőnek minősülő természetes személy;
+
+6. minimálbér: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben ilyenként meghatározott összeg;
+
+7. munkaviszony:
+
+a) a Munka Törvénykönyvében meghatározott munkaviszony,
+
+b) a közalkalmazotti jogviszony,
+
+c) a közszolgálati jogviszony,
+
+d) a bírósági jogviszony,
+
+e) az igazságügyi alkalmazotti szolgálati viszony,
+
+f) az ügyészségi szolgálati jogviszony,
+
+g) a hivatásos nevelőszülői jogviszony,
+
+h) az ösztöndíjas foglalkoztatási jogviszony,
+
+i) a közfoglalkoztatási jogviszony,
+
+j) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának e jogviszonya,
+
+k) a Magyar Honvédség szerződéses állományú tagjának e jogviszonya,
+
+l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszonya,
+
+m) az a)–l) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony;
+
+8. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy.

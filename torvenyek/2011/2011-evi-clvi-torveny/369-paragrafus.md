@@ -1,0 +1,9 @@
+369. § A Ctv. 44. § helyébe a következő rendelkezés lép:
+
+„44. § (1) A bejegyzési kérelem cégbírósághoz történő érkezésekor a cég az azonosításra, illetve valamennyi más cégtől való megkülönböztetésére alkalmas cégjegyzékszámot kap, amelyet ettől kezdődően az iratain fel kell tüntetnie. A cégbíróság az érintett szervezetektől – az erre a célra létrehozott elektronikus rendszer útján beszerzi, és ezáltal a cégjegyzékben rögzítésre kerül a cég adószáma (ideértve a közösségi adószámot is), valamint statisztikai számjele. Az érintett szervezetek kötelesek ezeket az adatokat haladéktalanul a cégbíróság rendelkezésére bocsátani. A cégbíróság ennek érdekében elektronikus úton közli a cég neve, székhelye, cégjegyzékszáma mellett az állami adóhatósággal az 1. számú melléklet I. 12. pontja szerinti nyilatkozatot, valamint ha a cég átalakulással jön létre, az erre vonatkozó adatokat, a Központi Statisztikai Hivatallal pedig a cég mindenkor hatályos TEÁOR szerinti főtevékenység kódját is.
+
+(2) Amennyiben az állami adóhatóság az adatok rendelkezésre bocsátásától számított 1 munkanapon belül a cég adószámát nem állapítja meg, a cégbíróság a kérelem elbírálását az állami adóhatóság értesítéséig felfüggeszti.
+
+(3) A cégbejegyzési kérelem benyújtója legkésőbb az adószám megállapítását követő munkanapon a cég nevét, székhelyét, cégjegyzékszámát, adószámát, valamint statisztikai számjelét tartalmazó elektronikus tanúsítványt kap.
+
+(4) Az adószám megállapítását követően a cégbejegyzési kérelem adatai a cégjegyzékbe bejegyzésre kerülnek, a cégjegyzékbe bejegyzett adatok mellett a „bejegyzés alatt” megjegyzést kell feltüntetni.”

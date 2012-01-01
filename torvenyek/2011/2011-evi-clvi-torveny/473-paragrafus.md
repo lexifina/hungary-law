@@ -1,3 +1,3 @@
 ## Az adó megállapítása, nyilvántartás-vezetési kötelezettség
 
-473–474. §
+473. § Az adó alanya az adót önadózással állapítja meg.

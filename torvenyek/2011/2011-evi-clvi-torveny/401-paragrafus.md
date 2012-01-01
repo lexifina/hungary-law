@@ -1,3 +1,5 @@
 ## 33. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-401–402. §
+401. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kktv.) 20. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az (1) bekezdés a)–j) és l) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, s ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) pontban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).”

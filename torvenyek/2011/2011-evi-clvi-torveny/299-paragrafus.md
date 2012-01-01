@@ -1,0 +1,3 @@
+299. § Az Art. 35. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ha az adóhatóság utólag megállapítja, hogy az e törvény 20/A. §-a szerinti START, START PLUSZ, START EXTRA vagy START BÓNUSZ kártya igényléséhez kapcsolódó – külön jogszabályban előírt – nyilatkozattételi kötelezettségét az igénylő rosszhiszeműen, valótlan adatok feltüntetésével teljesítette, az így megszerzett kártya felhasználása esetén az adóhatóság a foglalkoztatót megillető kedvezményes mértékű szociális hozzájárulási adó, valamint az általános szabályok szerint kedvezmény nélkül megállapított szociális hozzájárulási adó közötti különbözet összegének megfizetésére a kártya tulajdonosát (felhasználóját) határozattal kötelezi.”

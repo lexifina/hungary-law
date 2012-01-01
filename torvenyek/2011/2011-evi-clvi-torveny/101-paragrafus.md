@@ -1,1 +1,3 @@
-101. §
+101. § A Jöt. 109. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Jövedéki termékek szabad forgalomban végzett nem jövedéki engedélyes kereskedelme – a (2)–(7) bekezdésben és a 110. § (11) bekezdésében foglalt eltéréssel, illetve a gyógyszertárak, valamint az egyszerűsített adóraktárban folytatott termelői borkimérés kivételével – üzlethelyiségben, az üzemanyag nem jövedéki engedélyes kereskedelme továbbá automatából történő értékesítés keretében is folytatható. A Magyar Gyógyszerkönyvben meghatározott benzin és alkoholtermék nem jövedéki engedélyes kereskedelmét a gyógyszertárak létesítéséről és működésük egyes szabályairól szóló törvényben meghatározott gyógyszertár folytathatja.”

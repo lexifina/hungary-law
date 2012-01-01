@@ -1,0 +1,3 @@
+285. § Az Art. 14. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az adózó (1) bekezdésben meghatározott kötelezettségeit felszámolás esetén a felszámolás kezdő időpontjától a felszámoló, végelszámolás esetén a végelszámolás kezdő időpontjától a végelszámoló teljesíti, továbbá gyakorolja az adózót megillető jogokat. A felszámoló, illetve a végelszámoló által elkövetett jogsértés miatt a mulasztási bírságot felszámolás esetén a felszámolóval, végelszámolás esetén a végelszámolóval szemben kell megállapítani, azzal, hogy akkor mentesül a mulasztási bírság alól, ha bizonyítja, hogy a jogsértés az ő érdekkörén kívül eső okra vezethető vissza.”
