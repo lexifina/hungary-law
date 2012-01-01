@@ -1,14 +1,14 @@
 ## A 10. § (2) bekezdésében hivatkozott megfelelőség értékelési eljárás
 
-## ,,A'' modul (belső gyártásellenőrzés)[^62]
+## ,,A'' modul (belső gyártásellenőrzés)[^64]
 
 ## 1. Ez a melléklet azt az eljárást tartalmazza, amellyel a 2. pontban megállapított kötelezettségeket teljesítő gyártó biztosítja, hogy a szóban forgó termékek teljesítik e rendelet rájuk vonatkozó követelményeit. A gyártónak a megfelelőségi jelölést minden terméken el kell helyezni, és a megfelelőségről írásbeli nyilatkozatot kell tenni.
 
 ## 2. A gyártónak ki kell dolgozni a 4. pontba foglalt műszaki dokumentációt, és azt a gyártónak az utolsó termék gyártásától számított legalább tízéves időszak lejártáig a hatóság számára rendelkezésre bocsáthatóan, ellenőrzés céljából meg kell őriznie.
 
-## 3. a)[^63]
+## 3. a)[^65]
 
-## 3.[^64] Ha a gyártó székhelye nem az Európai Unióban van, akkor a műszaki dokumentáció rendelkezésre bocsátásának kötelezettsége arra a személyre hárul, aki a terméket az Európai Unióban forgalomba hozza.
+## 3.[^66] Ha a gyártó székhelye nem az Európai Unióban van, akkor a műszaki dokumentáció rendelkezésre bocsátásának kötelezettsége arra a személyre hárul, aki a terméket az Európai Unióban forgalomba hozza.
 
 ## 4. A műszaki dokumentációnak lehetővé kell tenni annak megvizsgálását, hogy a termék megfelel-e az e rendeletben hivatkozott alapvető követelményeknek. Magába kell foglalni a termék tervezését, gyártását és működését, különösen
 
@@ -30,6 +30,6 @@
 
 3. számú melléklet az 5/2004. (IV. 13.) IHM rendelethez
 
-[^62]: Lásd az MSZ 25051 2. fejezetét.
-[^63]: A 2. számú melléklet 3. a) pontja e rendelet 12. §-ának (4) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján hatályát vesztette.
-[^64]: A 2. számú melléklet 3. pontja a 12. § (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^64]: Lásd az MSZ 25051 2. fejezetét.
+[^65]: A 2. számú melléklet 3. a) pontja e rendelet 12. §-ának (4) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján hatályát vesztette.
+[^66]: A 2. számú melléklet 3. pontja a 12. § (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.

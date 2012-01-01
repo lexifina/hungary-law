@@ -4,7 +4,7 @@
 
 ## 2. Az osztályazonosító jelnek a megfelelőségi jelöléssel azonos méretűnek kell lenni, elhelyezésére a megfelelőségi jelölés elhelyezésére vonatkozó rendelkezéseket kell alkalmazni.
 
-9. számú melléklet a 5/2004. (IV. 13.) IHM rendelethez[^69]
+9. számú melléklet a 5/2004. (IV. 13.) IHM rendelethez[^71]
 
 1. A BEJELENTŐRE VONATKOZÓ ADATOK (INFORMATION ON THE NOTIFIER):
 
@@ -184,4 +184,4 @@ Ha történt megfelelőségértékelés, az összes szabványt meg kell adni.
 
 If a conformity assessment has been made, all standards used must be stated.
 
-[^69]: A 9. számú melléklet az 5/2010. (III. 26.) MeHVM rendelet 5. §-ával megállapított szöveg.
+[^71]: A 9. számú melléklet az 5/2010. (III. 26.) MeHVM rendelet 5. §-ával megállapított szöveg.
