@@ -1,3 +1,3 @@
-3. melléklet a 300/2011. (XII. 22.) Korm. rendelethez[^8]
+## A 282/2009. Korm. rendelet 1. melléklet 2. pontjának f) és g) sora helyébe a következő rendelkezés lép:
 
-[^8]: A 3. melléklet a 29. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+3. melléklet a 300/2011. (XII. 22.) Korm. rendelethez

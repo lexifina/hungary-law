@@ -1,5 +1,7 @@
-## A
+## A 218/2009. Korm. rendelet 11. melléklet 13. pontja a következő k) alponttal egészül ki:
 
-5. melléklet a 300/2011. (XII. 22.) Korm. rendelethez[^10]
+## (az érintett területi államigazgatási szervek közül:)
 
-[^10]: Az 5. melléklet a 29. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+## „k) Nemzeti Környezetügyi Intézet működési területtel érintett területi kirendeltsége.”
+
+5. melléklet a 300/2011. (XII. 22.) Korm. rendelethez
