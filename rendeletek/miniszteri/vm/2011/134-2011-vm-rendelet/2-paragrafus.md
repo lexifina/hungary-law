@@ -1,0 +1,1 @@
+## „8. Vágóállat: azonosító jelöléssel és azonosításra szolgáló dokumentumokkal ellátott vágósertés, vágómarha, vágójuh és vágókecske a vágóhelyre való útra indításától a vágóhelyen történő leöléséig.”

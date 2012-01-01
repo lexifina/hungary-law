@@ -1,0 +1,1 @@
+Az állattenyésztésről szóló 1993. évi CXIV. törvény 49. § (1) bekezdés a) pont 17. alpontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § a) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
