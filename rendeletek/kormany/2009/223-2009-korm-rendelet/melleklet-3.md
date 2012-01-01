@@ -404,6 +404,6 @@
 
 ## Nem minősülnek katasztrófának a III. Kategóriába sorolt események.
 
-3. melléklet a 223/2009. (X. 14.) Korm. rendelethez[^20]
+3. melléklet a 223/2009. (X. 14.) Korm. rendelethez[^22]
 
-[^20]: A 3. melléklet a 346/2010. Korm. rendelet 39. §-a szerint módosított szöveg.
+[^22]: A 3. melléklet a 346/2010. Korm. rendelet 39. §-a szerint módosított szöveg.

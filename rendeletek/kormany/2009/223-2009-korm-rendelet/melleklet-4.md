@@ -1378,7 +1378,7 @@
 
 ## Az üzemeltetői biztonsági szabályzat visszavont rendelkezése esetén a hálózatgazdának meg kell határozni a hatályvesztés pontos időpontját, és erről minden érintettet tájékoztatni kell. A visszavont szabályokat archiválni kell, dokumentálva az okokat, a visszavonás kezdeményezőjét és jóváhagyóját, valamint idejét.
 
-## 1. számú függelék[^21]
+## 1. számú függelék[^23]
 
 ## A dokumentumban használatos (részben EKG-specifikus) alapfogalmak leírása
 
@@ -1400,7 +1400,7 @@
 
 | VPN | Virtuális magánhálózat (Virtual Private Network). Használatával a kapcsolódó felek lényegében úgy kommunikálhatnak, külön titkosítás nélkül a nyilvános hálózatokon, mintha külön bérelt, fizikailag elválasztott magánhálózatot hoztak volna létre. |
 
-4. melléklet a 223/2009. (X. 14.) Korm. rendelethez[^22]
+4. melléklet a 223/2009. (X. 14.) Korm. rendelethez[^24]
 
 A központi elektronikus szolgáltató rendszer által nyújtott közszolgáltatások igénybevételének
 
@@ -1516,7 +1516,7 @@ Az Ekszt 19. § (2) bekezdés b) pontja alapján a rendszer működtetőjének l
 
 – biztosítja az elektronikus beadvány továbbítását a központi rendszer és azon keresztül a címzett szervezet felé.
 
-A felhasználó feladata a www.magyarorszag.hu és a www.apeh.hu honlapról a nyomtatványkitöltő és súgó program aktuális verziójának, szükség esetén további – harmadik személy által készített – programkomponenseknek[^23] letöltése és telepítése a programokhoz mellékelt telepítési útmutató alapján.
+A felhasználó feladata a www.magyarorszag.hu és a www.apeh.hu honlapról a nyomtatványkitöltő és súgó program aktuális verziójának, szükség esetén további – harmadik személy által készített – programkomponenseknek[^25] letöltése és telepítése a programokhoz mellékelt telepítési útmutató alapján.
 
 Annak érdekében, hogy a felhasználó a nyomtatványkitöltő program sértetlenségéről és épségéről a telepítést megelőzően meggyőződhessen, a program készítője az általános nyomtatványkitöltő program telepítő csomagját elektronikus aláírással látja el, mely tanúsítja, hogy
 
@@ -1554,7 +1554,7 @@ Az elektronikus űrlapot a felhasználó tölti ki, az űrlapon rögzített adat
 
 – közvetlenül a nyomtatványkitöltő program XML kimeneti állományának előállítására szolgáló más – a felhasználó vagy általa megbízott harmadik személy által fejlesztett – alkalmazással úgy, hogy a kimeneti állomány formai, logikai ellenőrzése történik csak a nyomtatványkitöltő programmal.
 
-Abban az esetben, ha a felhasználó problémát észlel az űrlap kitöltése vagy tartalmi ellenőrzése során, kérjük ezt közvetlenül jelezze az érintett szervezetnek[^24]. A felhasználó – tekintettel arra, hogy az adatok helyességéért teljes felelősséggel tartozik – természetesen jogosult a nyomtatványkitöltő program ellenőrzésének eredményét felülbírálni, illetve figyelmen kívül hagyni (azaz az esetek jelentős részében jogosultak hibajelzés mellett is elküldeni az űrlapot). A szolgáltatást nyújtó szervezetek ugyanakkor bizonyos logikai feltételeknek meg nem felelő űrlapok befogadását jogosultak megakadályozni az értelmezhetetlen adatok feldolgozásának elkerülése érdekében.
+Abban az esetben, ha a felhasználó problémát észlel az űrlap kitöltése vagy tartalmi ellenőrzése során, kérjük ezt közvetlenül jelezze az érintett szervezetnek[^26]. A felhasználó – tekintettel arra, hogy az adatok helyességéért teljes felelősséggel tartozik – természetesen jogosult a nyomtatványkitöltő program ellenőrzésének eredményét felülbírálni, illetve figyelmen kívül hagyni (azaz az esetek jelentős részében jogosultak hibajelzés mellett is elküldeni az űrlapot). A szolgáltatást nyújtó szervezetek ugyanakkor bizonyos logikai feltételeknek meg nem felelő űrlapok befogadását jogosultak megakadályozni az értelmezhetetlen adatok feldolgozásának elkerülése érdekében.
 
 Az elkészített és a működtető által publikált elektronikus űrlapokhoz sok esetben külön letölthető egy útmutató vagy helyzetérzékeny segítő fájl, amely segíti az űrlap kitöltését.
 
@@ -2106,7 +2106,7 @@ A központi rendszer naplóállománya védett a jogosulatlan adatmódosítást�
 
 A naplóállományt a gondatlanságból vagy szándékosan elkövetett rongálás ellen biztonsági mentések védik. A MeH minden naplóállomány esetében, beleértve a személyes adatokat tartalmazó naplóbejegyzéseket is, gondoskodik az adatok bizalmas tárolásáról. A naplóállományhoz csak a biztonsági vezető által arra feljogosított személyzet férhet hozzá, szigorúan a hibaelhárításhoz szükséges mértékben. A MeH bűncselekmény gyanúja esetén, hatósági megkeresésre a szükséges adatokat, naplóbejegyzéseket a nyomozó hatóság rendelkezésére bocsátja.
 
-[^21]: A 3. melléklet 1. számú függeléke a 215/2011. (X. 19.) Korm. rendelet 17. § (3) bekezdés g) pontja szerint módosított szöveg.
-[^22]: A 4. melléklet a 215/2011. (X. 19.) Korm. rendelet 17. § (3) bekezdés h)–j) pontja, 17. § (4) bekezdése és 17. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^23]: Jelenleg csak a Java futtató környezet, amely szintén díjtalanul áll rendelkezésre.
-[^24]: Az érintett szervezetek ügyfélszolgálati elérhetőségei a www.magyarorszag.hu honlap hivatalkeresőjében találhatók meg.
+[^23]: A 3. melléklet 1. számú függeléke a 215/2011. (X. 19.) Korm. rendelet 17. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^24]: A 4. melléklet a 215/2011. (X. 19.) Korm. rendelet 17. § (3) bekezdés h)–j) pontja, 17. § (4) bekezdése és 17. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^25]: Jelenleg csak a Java futtató környezet, amely szintén díjtalanul áll rendelkezésre.
+[^26]: Az érintett szervezetek ügyfélszolgálati elérhetőségei a www.magyarorszag.hu honlap hivatalkeresőjében találhatók meg.

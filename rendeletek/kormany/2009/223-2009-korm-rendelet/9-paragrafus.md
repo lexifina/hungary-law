@@ -1,4 +1,4 @@
-9. §[^8] (1) A Központ szolgáltatásai:
+9. §[^10] (1) A Központ szolgáltatásai:
 
 a) A Központ a magyar és nemzetközi hálózatbiztonsági és kritikus információs infrastruktúra védelmi szervezetek felé magyar Nemzeti Kapcsolati Pontként (a továbbiakban: NKP), kormányzati számítástechnikai sürgősségi reagáló egységként (kormányzati CERT) működik, folyamatos rendelkezésre állással;
 
@@ -18,4 +18,4 @@ a) A Központ oktatási anyagokat dolgoz ki és tréningeket tart, felvilágosí
 
 b) A Központ együttműködik a magyar informatikai és hálózatbiztonsági, valamint kritikus információs infrastruktúrák védelmében érintett bűnüldöző szervekkel, akadémiai és iparági szereplőkkel, ennek keretében gyakorlatokat tart és munkacsoportokat működtet, illetve azokban részt vesz.
 
-[^8]: A 9. § a 41. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
+[^10]: A 9. § a 41. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
