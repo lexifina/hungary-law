@@ -1,3 +1,5 @@
+## 15. §[^2]
+
 ## 11. Módosító rendelkezések
 
 16. § (1) Az elektronikus közszolgáltatás működtetéséről szóló 222/2009. (X. 14.) Korm. rendelet (a továbbiakban: R1.) 2. § k) pontja helyébe a következő rendelkezés lép:
@@ -43,3 +45,5 @@ a) 2. § f) pontjában a „h) pont” szövegrész helyébe a „j) pont”, az
 b) 4. § (2) bekezdésében a „közigazgatási informatikáért” szövegrész helyébe a „közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért” szöveg,
 
 c) 21. § (2) bekezdésében az „A Miniszterelnöki Hivatal” szövegrész helyébe az „Az üzemeltető” szöveg
+
+[^2]: A 15. §-t a (2) bekezdése hatályon kívül helyezte.
