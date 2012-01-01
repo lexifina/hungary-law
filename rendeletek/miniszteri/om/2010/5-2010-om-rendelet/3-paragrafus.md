@@ -38,7 +38,7 @@ dc) helyszínrajzot (az engedélyező hatóság hitelesítésével),
 
 dd) hossz-szelvény(eke)t, fontosabb műtárgy(ak) dokumentumait;
 
-e) a területileg illetékes környezetvédelmi és vízügyi igazgatóság
+e)[^2] a vízügyi igazgatóság
 
 ea) nyilatkozatát a tervezett beruházások szükségességéről,
 
@@ -53,3 +53,5 @@ f) a beruházással kapcsolatos vízjogi létesítési engedélyt.
 (5) Amennyiben az önkormányzat a (4) bekezdés szerinti felhívásnak határidőben nem tesz eleget, vagy nem megfelelően teljesíti azt, az Igazgatóság a támogatási igényt nem továbbítja a minisztériumnak és erről értesíti a pályázót.
 
 (6) Az Igazgatóság a pályázatokat – az (5) bekezdés szerinti eset kivételével – papír alapon egy eredeti és egy másolati példányban legkésőbb 2010. február 26-áig továbbítja a minisztérium részére.
+
+[^2]: A 3. § (2) bekezdés e) pontja az 57/2011. (XII. 22.) BM rendelet 3. §-a szerint módosított szöveg.
