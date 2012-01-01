@@ -24,6 +24,6 @@ d) a tényfeltárási záródokumentáció benyújtási határidejét.
 
 (4) A tényfeltárási tervet a (2) bekezdés szerinti határozatban megjelölt határidőre engedélyezésre be kell nyújtani a felügyelőséghez. Ha a kármentesítés sürgőssége, a várható költség alacsony szintje valószínűsíthető, a hatóság a kötelezettet tényfeltárási terv készítésére nem kötelezi.
 
-(5)[^4]
+(5)[^6]
 
-[^4]: A 7. § (5) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 10. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^6]: A 7. § (5) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 10. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

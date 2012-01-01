@@ -24,8 +24,8 @@ h) szakmai szempontból bevonandók körét;
 
 i) az ügy szempontjából fontos egyéb feladatok elrendelését (így különösen a károsodott terület figyelmeztető táblákkal való megjelölését).
 
-(4)[^10] A beavatkozási munkák megkezdését az azt megelőző tíz nappal be kell jelenteni a felügyelőségnek. A felügyelőség a munkálatokat köteles ellenőrizni. A beavatkozási munkákat dokumentálni kell.
+(4)[^12] A beavatkozási munkák megkezdését az azt megelőző tíz nappal be kell jelenteni a felügyelőségnek. A felügyelőség a munkálatokat köteles ellenőrizni. A beavatkozási munkákat dokumentálni kell.
 
 (5) A beavatkozás során észleltek alapján, a kötelezett kezdeményezésére, indokolt esetben a hatóság engedélyezi a beavatkozási terv módosítását.
 
-[^10]: A 9. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 10. pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (89) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^12]: A 9. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 10. pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (89) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
