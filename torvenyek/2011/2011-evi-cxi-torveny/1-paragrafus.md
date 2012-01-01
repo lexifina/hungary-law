@@ -4,7 +4,7 @@
 
 ## 1. Az alapvető jogok biztosának és helyetteseinek feladat- és hatásköre
 
-1. § (1) Az alapvető jogok biztosa – az Alaptörvényben meghatározott feladat- és hatásköre mellett – független, nemzeti megelőző, illetve ellenőrző jogvédelmi feladatokat lát el, ha erre nemzetközi szerződésben vállalt kötelezettség teljesítése érdekében kijelölik.
+1. § (1) Az alapvető jogok biztosa – az Alaptörvényben meghatározott feladat- és hatásköre mellett – az e törvényben meghatározott feladat- és hatásköröket gyakorol.
 
 (2) Az alapvető jogok biztosa tevékenysége során – különösen hivatalból indított eljárások lefolytatásával – megkülönböztetett figyelmet fordít
 
@@ -17,3 +17,5 @@ c) az Alaptörvény XXIX. cikkében meghatározott jogoknak (a továbbiakban: a 
 d) a leginkább veszélyeztetett társadalmi csoportok jogainak
 
 a védelmére.
+
+(3) Az alapvető jogok biztosa tevékenysége során – különösen hivatalból indított eljárások lefolytatásával – megkülönböztetett figyelmet fordít a 2007. évi XCII. törvénnyel kihirdetett, a fogyatékossággal élő személyek jogairól szóló egyezmény végrehajtásának segítésére, védelmére és ellenőrzésére.

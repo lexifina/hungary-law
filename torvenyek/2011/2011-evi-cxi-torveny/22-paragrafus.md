@@ -2,7 +2,7 @@
 
 a) – jogszabály eltérő rendelkezése hiányában – a vizsgált hatóság helyiségeibe beléphet,
 
-b) a dokumentumokba és az informatikai eszközökkel kezelt adatnyilvántartó rendszerek adatállományába betekinthet, azokról másolatot, kivonatot készíthet, és
+b) a vizsgált üggyel összefüggésbe hozható összes iratba betekinthet, azokról másolatot, kivonatot készíthet, és
 
 c) a vizsgált hatóság bármely munkatársát meghallgathatja.
 

@@ -24,7 +24,7 @@ h) nyomozó hatóság vagy az ügyészség nyomozást végző szerve,
 
 i) közjegyző,
 
-j) megyei bírósági végrehajtó,
+j) törvényszéki végrehajtó,
 
 k) önálló bírósági végrehajtó vagy
 

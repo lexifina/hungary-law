@@ -12,7 +12,7 @@ szöveg lép.
 
 (3) Az államháztartásról szóló 1992. évi XXXVIII. törvény 2/A. § (3) bekezdés i) pontjában az „Országgyűlési Biztosok” szövegrész helyébe az „Alapvető Jogok Biztosának” szöveg lép.
 
-(4) A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 17. § (1) bekezdésében az „országgyűlési biztosok hivatalainak” szövegrész helyébe az „Alapvető Jogok Biztosa Hivatalának” szöveg lép.
+(4)
 
 (5) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 51. § (2) bekezdés k) pontjában az „országgyűlési biztossal” szövegrész helyébe az „alapvető jogok biztosával” szöveg lép.
 
