@@ -22,7 +22,7 @@ E törvény alkalmazásában:
 
 8. állattartó: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) az állat ellátásáért és felügyeletéért felelős állandó vagy ideiglenes jelleggel, beleértve a szállítás, forgalomba hozatal alatti időszakot is;
 
-9. behozatal: áru harmadik országból a Magyar Köztársaság területére történő behozatala, beleértve az importot is;
+9. behozatal: áru harmadik országból Magyarország területére történő behozatala, beleértve az importot is;
 
 10. élelmiszer: az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, az Európai Parlament és a Tanács 2002. január 28-i 178/2002/EK rendelete (a továbbiakban: 178/2002/EK rendelet) 2. cikke szerinti fogalom;
 
@@ -72,7 +72,7 @@ E törvény alkalmazásában:
 
 32. harmadik ország: az Európai Unión kívüli ország;
 
-33. import: áru harmadik országból a Magyar Köztársaság területére forgalomba hozatal céljából történő beszállítása;
+33. import: áru harmadik országból Magyarország területére forgalomba hozatal céljából történő beszállítása;
 
 34. integrált növényvédelem: biológiai, biotechnológiai, kémiai, termesztési vagy növénynemesítési intézkedések ésszerű alkalmazása, amelyek során a kémiai növényvédő szerek használata arra a szorosan vett legalacsonyabb értékre korlátozódik, amely a károsító populációnak egy gazdaságilag elfogadhatatlan kárt vagy veszteséget okozó szint alatt való tartásához szükséges;
 

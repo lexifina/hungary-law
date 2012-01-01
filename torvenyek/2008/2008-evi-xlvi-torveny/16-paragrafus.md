@@ -8,4 +8,4 @@
 
 (2) Az élelmiszerlánc valamennyi szereplője köteles az (1) bekezdés szerinti dokumentációs rendszer adatait felhívásra az élelmiszerlánc-felügyeleti szerv rendelkezésére bocsátani az élelmiszer-biztonságot és azzal összefüggésben az állatvédelmet közvetlenül vagy közvetve befolyásoló veszélyelemzés és a nyomon követés biztosítása érdekében.
 
-(3) Az állatgyógyászati készítmény forgalomba hozója az e törvény végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást köteles vezetni, amely a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény hatálya alá tartozó adatkörben tartalmazza az állatgyógyászati készítmény beszállítójának és vevőjének nevét és címét.
+(3) Az állatgyógyászati készítmény forgalomba hozója az e törvény végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást köteles vezetni, amely az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben tartalmazza az állatgyógyászati készítmény beszállítójának és vevőjének nevét és címét.

@@ -4,7 +4,7 @@
 
 ## Adatok nyilvánossága a növényvédő szer engedélyezés során
 
-70. § (1) A növényvédő szerrel kapcsolatos engedélyezési eljárások során a kérelmező által benyújtott – és a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény hatálya alá nem tartozó – adatok – a (2) bekezdésben meghatározott adatok kivételével – kizárólag az e törvény végrehajtására kiadott jogszabályban meghatározott védelmi idő lejártával és módon vagy az engedély iránti kérelmet elsőként benyújtó írásbeli hozzájárulásával használhatók fel.
+70. § (1) A növényvédő szerrel kapcsolatos engedélyezési eljárások során a kérelmező által benyújtott – és az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá nem tartozó – adatok – a (2) bekezdésben meghatározott adatok kivételével – kizárólag az e törvény végrehajtására kiadott jogszabályban meghatározott védelmi idő lejártával és módon vagy az engedély iránti kérelmet elsőként benyújtó írásbeli hozzájárulásával használhatók fel.
 
 (2) Közérdekből nyilvános, illetve közérdekű adat a növényvédő szerrel kapcsolatos engedélyezési eljárás során nyert vagy szolgáltatott alábbi adat:
 
