@@ -1,4 +1,4 @@
-3/A. §[^8] (1) Ha a helyszíni bírság bankkártyás megfizetésének feltételei fennállnak, a szabálysértési ügyben eljáró hatóság tagja tájékoztatja az elkövetőt a helyszíni bírság bankkártyával történő megfizetésének lehetőségéről.
+3/A. §[^9] (1) Ha a helyszíni bírság bankkártyás megfizetésének feltételei fennállnak, a szabálysértési ügyben eljáró hatóság tagja tájékoztatja az elkövetőt a helyszíni bírság bankkártyával történő megfizetésének lehetőségéről.
 
 (2) Ha az elkövető a helyszíni bírságot a helyszínen bankkártyával kívánja megfizetni,
 
@@ -10,4 +10,4 @@ c) a POS-terminál által nyomtatott bizonylat másodlati példányát a sikeres
 
 (3) Ha a bankkártyás fizetés bármilyen okból nem sikerült, vagy nem lehetséges, a további eljárásra a csekkszelvénnyel történő fizetés szabályai az irányadók.
 
-[^8]: A 3/A. §-t a 64/2009. (XII. 17.) IRM rendelet 2. §-a iktatta be.
+[^9]: A 3/A. §-t a 64/2009. (XII. 17.) IRM rendelet 2. §-a iktatta be.

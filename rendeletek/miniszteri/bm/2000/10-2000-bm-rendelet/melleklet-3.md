@@ -14,6 +14,6 @@
 
 ## eljáró hatóság képviselője
 
-3. számú melléklet a 10/2000. (II. 23.) BM rendelethez[^14]
+3. számú melléklet a 10/2000. (II. 23.) BM rendelethez[^15]
 
-[^14]: A 3. számú mellékletet a 43/2000. (XII. 27.) BM rendelet 4. §-a iktatta be, szövege a 64/2009. (XII. 17.) IRM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^15]: A 3. számú mellékletet a 43/2000. (XII. 27.) BM rendelet 4. §-a iktatta be, szövege a 64/2009. (XII. 17.) IRM rendelet 3. § (2) bekezdésével megállapított szöveg.
