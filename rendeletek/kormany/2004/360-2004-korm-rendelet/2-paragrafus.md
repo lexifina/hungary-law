@@ -32,7 +32,7 @@
 
 14.[^8] „Négy szem elve”: az adott feladatot ellátó személy munkáját egy másik személy teljeskörűen felülvizsgálja.
 
-15.[^9] Szabálytalanság: a strukturális politikák finanszírozása keretében történt szabálytalanságokról és tévesen kifizetett összegek behajtásáról, valamint egy információs rendszer e téren történő létrehozásáról szóló – a strukturális politikák finanszírozása keretében történt szabálytalanságokról és tévesen kifizetett összegek behajtásáról, valamint egy információs rendszer e téren történő létrehozásáról szóló 1681/94/EK rendelet módosításáról szóló 2035/2005/EK rendelettel módosított – 1681/94/EK bizottsági rendelet 1a. cikk 1. pontjában foglaltak, továbbá a nemzeti jogszabályok előírásainak, illetve a támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen a Magyar Köztársaság pénzügyi érdekei sérülnek, illetve sérülhetnek.
+15.[^9] Szabálytalanság: a strukturális politikák finanszírozása keretében történt szabálytalanságokról és tévesen kifizetett összegek behajtásáról, valamint egy információs rendszer e téren történő létrehozásáról szóló – a strukturális politikák finanszírozása keretében történt szabálytalanságokról és tévesen kifizetett összegek behajtásáról, valamint egy információs rendszer e téren történő létrehozásáról szóló 1681/94/EK rendelet módosításáról szóló 2035/2005/EK rendelettel módosított – 1681/94/EK bizottsági rendelet 1a. cikk 1. pontjában foglaltak, továbbá a nemzeti jogszabályok előírásainak, illetve a támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek.
 
 16. Támogatási szerződés: strukturális alapok esetében az irányító hatóságnak, illetve Kohéziós Alap esetében a közreműködő szervezetnek a kedvezményezettel kötött szerződése, amely a támogatás felhasználásának részletes feltételeit tartalmazza.
 
@@ -60,7 +60,7 @@
 [^6]: A 2. § (1) bekezdésének 9. pontja a 403/2007. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^7]: A 2. § (1) bekezdésének 13. pontja a 281/2006. (XII. 23.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § (1) bekezdésének 14. pontja a 202/2006. (X. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^9]: A 2. § (1) bekezdésének 15. pontja a 202/2006. (X. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^9]: A 2. § (1) bekezdésének 15. pontja a 202/2006. (X. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 304/2011. (XII. 23.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^10]: A 2. § (1) bekezdés 17. pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) és (7) bekezdése szerint módosított szöveg.
 [^11]: A 2. § (1) bekezdésének 20. pontját a 202/2006. (X. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^12]: A 2. § (1) bekezdésének 21. pontját a 202/2006. (X. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
