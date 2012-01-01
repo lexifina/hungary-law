@@ -1,0 +1,1 @@
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében foglalt feladatkörében eljárva, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 17. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, a következőket rendeli el.
