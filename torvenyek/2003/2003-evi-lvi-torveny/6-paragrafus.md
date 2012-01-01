@@ -1,3 +1,0 @@
-6. § E törvény 5. §-a (1) bekezdésében foglalt hatálybalépésével egyidejűleg az Nytv. 24. §-a (1) bekezdése helyébe a következő rendelkezés lép:
-
-,,(1) A bíróság és a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén –, valamint a nyomozó hatóságok bűnüldözési tevékenységük ellátásához, továbbá az állampolgársági ügyekben eljáró szerv a kérelmező adatainak azonosításához e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének [17. § (2) bekezdés d) pont] igénylésére jogosultak.''
