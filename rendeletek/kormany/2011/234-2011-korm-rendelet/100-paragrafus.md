@@ -1,0 +1,1 @@
+## 99. § Az adatszolgáltató a hivatásos katasztrófavédelmi szervek részére, a katasztrófák elleni védekezéssel összefüggő megelőzési (tervezési) és helyreállítási feladataik ellátásához szükséges adatkörökben és adattartalommal önköltségi áron földmérési és térképészeti állami alapadatokat, termékeket biztosít.

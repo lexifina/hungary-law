@@ -1,0 +1,1 @@
+## 100. § Az adatszolgáltatási igény megküldésére az adatszolgáltató felé a hivatásos katasztrófavédelmi szerv központi, illetve területi szervének vezetője jogosult illetékességi területe vonatkozásában. Az adatszolgáltatás iránti kérelmet az igényelt állami alapadat és termékek azonosítására alkalmas módon küldi meg az adatszolgáltató részére.
