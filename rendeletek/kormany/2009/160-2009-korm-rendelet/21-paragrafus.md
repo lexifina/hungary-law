@@ -30,9 +30,9 @@ l) a projektek támogatási szerződéseknek megfelelő fizikai és pénzügyi e
 
 m) a teljesítés igazolását.
 
-(3)[^41] A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezet köteles gondoskodni a Kbt. és a közbeszerzésekre vonatkozó közösségi rendelkezések előírásai teljesülésének ellenőrzéséről.
+(3)[^42] A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezet köteles gondoskodni a Kbt. és a közbeszerzésekre vonatkozó közösségi rendelkezések előírásai teljesülésének ellenőrzéséről.
 
-(4)[^42] A hazai partner által lefolytatott valamennyi közbeszerzési eljárás esetében a hitelesítési tevékenységre kijelölt szervezet jogosult a közbeszerzési eljárás valamennyi dokumentumát a hazai partnertől bekérni. A közösségi értékhatárt elérő vagy meghaladó értékű közbeszerzések esetében a hazai partner
+(4)[^43] A hazai partner által lefolytatott valamennyi közbeszerzési eljárás esetében a hitelesítési tevékenységre kijelölt szervezet jogosult a közbeszerzési eljárás valamennyi dokumentumát a hazai partnertől bekérni. A közösségi értékhatárt elérő vagy meghaladó értékű közbeszerzések esetében a hazai partner
 
 a) a közbeszerzési eljárás megindítása előtt legalább 15 munkanappal,
 
@@ -42,11 +42,11 @@ köteles megküldeni a hitelesítési tevékenységre kijelölt szervezet rész�
 
 (5) A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezetnek gondoskodnia kell a projektrészek megvalósításának helyszíni ellenőrzéséről.
 
-(6)[^43] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem haladja meg a 200 ezer eurót, a projektrész befejezése és a hazai partner által benyújtott záró jelentés elfogadása között legalább egy helyszíni ellenőrzést le kell folytatni. Ezen felül a helyszíni ellenőrzést akkor is le kell folytatni, ha azt a kockázatelemzés eredménye indokolja.
+(6)[^44] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem haladja meg a 200 ezer eurót, a projektrész befejezése és a hazai partner által benyújtott záró jelentés elfogadása között legalább egy helyszíni ellenőrzést le kell folytatni. Ezen felül a helyszíni ellenőrzést akkor is le kell folytatni, ha azt a kockázatelemzés eredménye indokolja.
 
-(7)[^44] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem éri el az 1 millió eurót, de meghaladja a 200 ezer eurót, a (6) bekezdés szerinti helyszíni ellenőrzéseken felül a projektrész megvalósítása során legalább egy alkalommal kell helyszíni ellenőrzést lefolytatni.
+(7)[^45] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem éri el az 1 millió eurót, de meghaladja a 200 ezer eurót, a (6) bekezdés szerinti helyszíni ellenőrzéseken felül a projektrész megvalósítása során legalább egy alkalommal kell helyszíni ellenőrzést lefolytatni.
 
-(8)[^45] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege eléri, vagy meghaladja az 1 millió eurót, a (6) bekezdés szerinti helyszíni ellenőrzéseken felül a hitelesítési tevékenységre kijelölt szervezet a projektrészt minden, a hazai partner által benyújtott jelentés elfogadása előtt a helyszínen ellenőrzi, de ettől eltekinthet, ha a hazai partner által benyújtott jelentés elfogadása előtti 12 hónapban már történt helyszíni ellenőrzés.
+(8)[^46] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege eléri, vagy meghaladja az 1 millió eurót, a (6) bekezdés szerinti helyszíni ellenőrzéseken felül a hitelesítési tevékenységre kijelölt szervezet a projektrészt minden, a hazai partner által benyújtott jelentés elfogadása előtt a helyszínen ellenőrzi, de ettől eltekinthet, ha a hazai partner által benyújtott jelentés elfogadása előtti 12 hónapban már történt helyszíni ellenőrzés.
 
 (9) A helyszíni ellenőrzések során ellenőrizni kell különösen:
 
@@ -74,8 +74,8 @@ i) az elkülönített számviteli nyilvántartás vezetését.
 
 (12) A hitelesítési tevékenységre kijelölt szervezet az (1) és (5) bekezdés szerinti ellenőrzések elvégzését követően hitelesítési nyilatkozatot állít ki a hazai partner részére.
 
-[^41]: A 21. § (3) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
-[^42]: A 21. § (4) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^43]: A 21. § (6) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^44]: A 21. § (7) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^45]: A 21. § (8) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^42]: A 21. § (3) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^43]: A 21. § (4) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^44]: A 21. § (6) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^45]: A 21. § (7) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^46]: A 21. § (8) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 18. §-ával megállapított szöveg.

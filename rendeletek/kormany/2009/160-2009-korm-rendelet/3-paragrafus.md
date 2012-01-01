@@ -42,7 +42,7 @@
 
 19. programszintű hitelesítési jelentés: a költségigazoló nyilatkozat alátámasztása érdekében az Igazoló Hatóság által meghatározott formátumban és ütemezéssel az Igazoló Hatóság részére benyújtandó jelentés;
 
-20. szabálytalanság: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet (a továbbiakban: 1083/2006/EK rendelet) 2. cikk 7. pontjában, illetve a 718/2007/EK rendelet 2. cikk 6. pontjában foglaltak, továbbá a nemzeti jogszabályok előírásainak, illetve a közösségi támogatási szerződésben, a hazai társfinanszírozási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen a Magyar Köztársaság pénzügyi érdekei sérülnek, illetve sérülhetnek;
+20.[^4] szabálytalanság: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet (a továbbiakban: 1083/2006/EK rendelet) 2. cikk 7. pontjában, illetve a 718/2007/EK rendelet 2. cikk 6. pontjában foglaltak, továbbá a nemzeti jogszabályok előírásainak, illetve a közösségi támogatási szerződésben, a hazai társfinanszírozási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek;
 
 21. szabálytalanság gyanúja: bármilyen adat vagy információ, amely szabálytalanság elkövetésére utal;
 
@@ -59,3 +59,4 @@
 [^1]: A 2. § a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^2]: A 3. § (1) bekezdés 2. pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés 4. pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés 20. pontja a 304/2011. (XII. 23.) Korm. rendelet 37. §-a szerint módosított szöveg.

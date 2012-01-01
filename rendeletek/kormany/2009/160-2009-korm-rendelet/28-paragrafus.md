@@ -1,6 +1,6 @@
 ## Szabálytalanságok kezelése
 
-28. § (1) Az Irányító Hatóságot és a Nemzeti Hatóságot működtető központi költségvetési szerv és a hitelesítési tevékenységre kijelölt szervezet feladata a támogatások rendeltetésszerű és szabályszerű felhasználása érdekében annak biztosítása, hogy az Európai Unió, illetve a Magyar Köztársaság pénzügyi érdeke a támogatások felhasználása során ne sérüljön, illetve ne sérülhessen.
+28. § (1)[^59] Az Irányító Hatóságot és a Nemzeti Hatóságot működtető központi költségvetési szerv és a hitelesítési tevékenységre kijelölt szervezet feladata a támogatások rendeltetésszerű és szabályszerű felhasználása érdekében annak biztosítása, hogy az Európai Unió, illetve Magyarország pénzügyi érdeke a támogatások felhasználása során ne sérüljön, illetve ne sérülhessen.
 
 (2) A szabálytalanságok jelentése érdekében az Irányító Hatóságot és a Nemzeti Hatóságot működtető központi költségvetési szerv és a hitelesítési tevékenységre kijelölt szervezet (a továbbiakban együtt: a szabálytalansági vizsgálatot lefolytató szervezet), valamint az Igazoló Hatóság együttműködik az OLAF Koordinációs Irodával.
 
@@ -11,3 +11,5 @@ a) gondoskodik a szabálytalanságok nyilvántartásáról, valamint
 b) összeállítja a szabálytalanságokkal kapcsolatos negyedéves jelentéseket,
 
 c) gondoskodik az IMIR 2007–2013 szabálytalanságokkal kapcsolatos adatokkal történő feltöltéséről.
+
+[^59]: A 28. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 37. §-a szerint módosított szöveg.

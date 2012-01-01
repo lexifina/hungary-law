@@ -1,6 +1,6 @@
-## Közösségi hozzájárulás megelőlegezése[^54]
+## Közösségi hozzájárulás megelőlegezése[^55]
 
-27/A. §[^55] (1) A programok keretében meghirdetett pályázati kiírások keretében közösségi támogatásra jóváhagyott projektek hazai partnerei számára a Nemzeti Hatóság – központi költségvetési szerv hazai partner részére kérelem nélkül, nem központi költségvetési szerv hazai partner részére kérelemre – megelőlegezést biztosít.
+27/A. §[^56] (1) A programok keretében meghirdetett pályázati kiírások keretében közösségi támogatásra jóváhagyott projektek hazai partnerei számára a Nemzeti Hatóság – központi költségvetési szerv hazai partner részére kérelem nélkül, nem központi költségvetési szerv hazai partner részére kérelemre – megelőlegezést biztosít.
 
 (2) A megelőlegezés iránti kérelmet a hazai társfinanszírozási szerződés megkötését megelőzően kell benyújtani.
 
@@ -22,5 +22,5 @@ f) a projektrész pénzügyi tervét, valamint
 
 g) a megelőlegezés indokainak részletes, számszerűsített bemutatását.
 
-[^54]: A 27/A. §-t megelőző alcímet a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.
-[^55]: A 27/A. §-t a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.
+[^55]: A 27/A. §-t megelőző alcímet a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.
+[^56]: A 27/A. §-t a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.

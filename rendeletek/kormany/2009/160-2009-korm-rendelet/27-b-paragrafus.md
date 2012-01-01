@@ -1,4 +1,4 @@
-27/B. §[^56] (1) A megelőlegezésről szóló szerződést írásba kell foglalni.
+27/B. §[^57] (1) A megelőlegezésről szóló szerződést írásba kell foglalni.
 
 (2) A megelőlegezés – a projektrész pénzügyi tervéhez igazodóan – részletekben történik.
 
@@ -10,4 +10,4 @@
 
 (6) Szabálytalansággal érintett összegek visszafizetésére a megelőlegezésről szóló szerződés alapján kifizetett összeg nem használható. A szabálytalansággal érintett összegek visszafizetéséről a hazai partnerek önerőből kötelesek gondoskodni, a központi költségvetési szerv partnerek ezen összegek visszafizetésére pótlólagos központi költségvetési forrást nem vehetnek igénybe.
 
-[^56]: A 27/B. §-t a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.
+[^57]: A 27/B. §-t a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.
