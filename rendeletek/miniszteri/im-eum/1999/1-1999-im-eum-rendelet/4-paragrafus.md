@@ -2,7 +2,7 @@
 
 4. §[^7] (1)[^8] A vizsgálatot – ideértve a felülvizsgálatot is – az igazságügyért felelős miniszter által alapított Igazságügyi Szakértői és Kutató Intézetek (a továbbiakban: ISZKI) állományába tartozó általános igazságügyi orvos, pszichiáter, valamint pszichológus szakértők végzik.
 
-(2)[^9] A vizsgálatot végző igazságügyi szakértőket (a továbbiakban: Vizsgáló Bizottság) és a Vizsgáló Bizottság elnökét, elnökhelyettesét, továbbá a felülvizsgálatot végző bizottság 13 tagját (a továbbiakban: Felülvizsgáló Bizottság) és a Felülvizsgáló Bizottság elnökét, elnökhelyettesét az igazságügyért felelős miniszter az OIT véleményének figyelembevételével az ISZKI szervezeti egységeiként működő igazságügyi szakértői intézetek (a továbbiakban: szakértői intézet) szakértői közül 5 évre szóló időtartamra jelöli ki.
+(2)[^9] A vizsgálatot végző igazságügyi szakértőket (a továbbiakban: Vizsgáló Bizottság) és a Vizsgáló Bizottság elnökét, elnökhelyettesét, továbbá a felülvizsgálatot végző bizottság 13 tagját (a továbbiakban: Felülvizsgáló Bizottság) és a Felülvizsgáló Bizottság elnökét, elnökhelyettesét az igazságügyért felelős miniszter az Országos Bírósági Hivatal elnöke véleményének figyelembevételével az ISZKI szervezeti egységeiként működő igazságügyi szakértői intézetek (a továbbiakban: szakértői intézet) szakértői közül 5 évre szóló időtartamra jelöli ki.
 
 (3) A Vizsgáló Bizottság és a Felülvizsgáló Bizottság elnökét távolléte vagy akadályoztatása esetén az elnökhelyettes helyettesíti.
 
@@ -14,5 +14,5 @@
 
 [^7]: A 4. § az 5/2002. (III. 29.) IM–EüM rendelet 2. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 9. §-ának (1) bekezdése alapján a 2002. 04. 01. napját követően kezdeményezett vizsgálatok esetében kell alkalmazni.
 [^8]: A 4. § (1) bekezdése a 8/2011. (III. 4.) KIM rendelet 11. § b) és c) pontja szerint módosított szöveg.
-[^9]: A 4. § (2) bekezdése a 8/2011. (III. 4.) KIM rendelet 11. § c) és d) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdése a 8/2011. (III. 4.) KIM rendelet 11. § c) és d) pontja, a 40/2011. (XII. 30.) KIM rendelet 12. §-a szerint módosított szöveg.
 [^10]: A 4. § (6) bekezdése a 8/2011. (III. 4.) KIM rendelet 11. § d) pontja szerint módosított szöveg.
