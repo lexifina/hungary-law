@@ -1,6 +1,6 @@
-10/A. §[^39] (1) A 10–12. §-ok rendelkezéseit a tevékenységét nem minősítő szervezet keretében végző minősítőre az e szakaszban foglalt eltérésekkel kell alkalmazni.
+10/A. §[^46] (1) A 10–12. §-ok rendelkezéseit a tevékenységét nem minősítő szervezet keretében végző minősítőre az e szakaszban foglalt eltérésekkel kell alkalmazni.
 
-(2) A minősítő működési engedélye iránti kérelmet az MgSzH Központjához, az általa rendszeresített és a honlapján is közzétett nyomtatványon kell benyújtani, melyben meg kell jelölni
+(2)[^47] A minősítő működési engedélye iránti kérelmet az MgSzH–hoz, az általa rendszeresített és a honlapján is közzétett nyomtatványon kell benyújtani, melyben meg kell jelölni
 
 a) az engedélyt kérő nevét, lakhelyét, levelezési címét, adószámát;
 
@@ -8,7 +8,7 @@ b) minősíteni kívánt vágóállatokat;
 
 c) a minősítő helyeket;
 
-d)[^40] a helyettesítést végző minősítővel vagy minősítő szervezettel kötött megállapodást.
+d)[^48] a helyettesítést végző minősítővel vagy minősítő szervezettel kötött megállapodást.
 
 (3) A kérelmezőnek csatolni kell (2) bekezdés szerinti kérelméhez:
 
@@ -18,11 +18,11 @@ b) a 10. § (2)–(3) bekezdése szerinti összeférhetetlenségi nyilatkozatoka
 
 c) az ellátási nyilatkozatot a minősítés (2) bekezdés c) pontjában megjelölt minősítő helyeken történő elvégzésére;
 
-d)[^41] a helyettesítést végző minősítő működési engedélyének számát;
+d)[^49] a helyettesítést végző minősítő működési engedélyének számát;
 
-e)[^42] a vágóhíd nyilatkozatát arról, hogy a minősítőt más munkafeladattal nem bízza meg.
+e)[^50] a vágóhíd nyilatkozatát arról, hogy a minősítőt más munkafeladattal nem bízza meg.
 
-(4) Ha az engedélyt kérő minősítő az e rendeletben előírt tevékenység(ek) ellátásáról más minősítővel vagy minősítő szervezettel való együttműködés útján kíván gondoskodni, akkor az érintett feladatok körét és azok elvégzésének módját, valamint az együttműködők kapcsolatát és felelősségét külön megállapodásban kell rögzíteni. A megállapodást az engedély iránti kérelemmel együtt az MgSzH Központjához kell benyújtani.
+(4)[^51] Ha az engedélyt kérő minősítő az e rendeletben előírt tevékenység(ek) ellátásáról más minősítővel vagy minősítő szervezettel való együttműködés útján kíván gondoskodni, akkor az érintett feladatok körét és azok elvégzésének módját, valamint az együttműködők kapcsolatát és felelősségét külön megállapodásban kell rögzíteni. A megállapodást az engedély iránti kérelemmel együtt az MgSzH–hoz kell benyújtani.
 
 (5) A minősítő
 
@@ -32,13 +32,17 @@ b) rendelkezik a minősítéshez jogszabályban előírt, hitelesített minősí
 
 c) tevékenységéről naprakész nyilvántartást vezet;
 
-d) az MgSzH Központjának nyolc napon belül jelentést tesz a működésében, tevékenységének személyi és a tárgyi feltételeiben történt változásról, valamint a vele szerződéses jogviszonyban álló vágóhídnak a működési engedélyében rögzített állapottól való eltéréséről;
+d)[^52] az MgSzH–nak nyolc napon belül jelentést tesz a működésében, tevékenységének személyi és a tárgyi feltételeiben történt változásról, valamint a vele szerződéses jogviszonyban álló vágóhídnak a működési engedélyében rögzített állapottól való eltéréséről;
 
 e) eleget tesz a külön jogszabályokban meghatározott adatszolgáltatási kötelezettségének;
 
-f) az általa használt bélyegzővel az MgSzH Központjának elszámol, a használhatatlanná vált vagy használaton kívüli bélyegzőt az MgSzH Központjának nyolc napon belül jegyzőkönyv ellenében visszaszolgáltatja.
+f)[^53] az általa használt bélyegzővel az MgSzH–nak elszámol, a használhatatlanná vált vagy használaton kívüli bélyegzőt az MgSzH–nak nyolc napon belül jegyzőkönyv ellenében visszaszolgáltatja.
 
-[^39]: A 10/A. §-t a 132/2007. (XI. 8.) FVM rendelet 8. §-a iktatta be.
-[^40]: A 10/A. § (2) bekezdésének d) pontját a 119/2009. (IX. 10.) FVM rendelet 3. § (1) bekezdése iktatta be.
-[^41]: A 10/A. § (3) bekezdésének d) pontját a 119/2009. (IX. 10.) FVM rendelet 3. § (2) bekezdése iktatta be.
-[^42]: A 10/A. § (3) bekezdésének e) pontját a 119/2009. (IX. 10.) FVM rendelet 3. § (2) bekezdése iktatta be.
+[^46]: A 10/A. §-t a 132/2007. (XI. 8.) FVM rendelet 8. §-a iktatta be.
+[^47]: A 10/A. § (2) bekezdése a 134/2011. (XII. 22.) VM rendelet 6. § (6) bekezdése szerint módosított szöveg.
+[^48]: A 10/A. § (2) bekezdésének d) pontját a 119/2009. (IX. 10.) FVM rendelet 3. § (1) bekezdése iktatta be.
+[^49]: A 10/A. § (3) bekezdésének d) pontját a 119/2009. (IX. 10.) FVM rendelet 3. § (2) bekezdése iktatta be.
+[^50]: A 10/A. § (3) bekezdésének e) pontját a 119/2009. (IX. 10.) FVM rendelet 3. § (2) bekezdése iktatta be.
+[^51]: A 10/A. § (4) bekezdése a 134/2011. (XII. 22.) VM rendelet 6. § (6) bekezdése szerint módosított szöveg.
+[^52]: A 10/A. § (5) bekezdés d) pontja a 134/2011. (XII. 22.) VM rendelet 6. § (7) bekezdése szerint módosított szöveg.
+[^53]: A 10/A. § (5) bekezdés f) pontja a 134/2011. (XII. 22.) VM rendelet 6. § (7) bekezdése szerint módosított szöveg.
