@@ -2,13 +2,19 @@
 
 a) az ötöslottó szerencsejáték játékadójának 90 százaléka;
 
-b) központi költségvetési előirányzatokból átvett pénzeszközök;
+b) a kulturális adó teljes összege;
 
-c) a jogi személyek, jogi személyiség nélküli gazdasági társaságok és természetes személyek befizetései;
+c) központi költségvetési előirányzatokból átvett pénzeszközök;
 
-d) költségvetési támogatás;
+d) a jogi személyek, jogi személyiség nélküli gazdasági társaságok és természetes személyek befizetései;
 
-e) egyéb bevételek.
+e) költségvetési támogatás;
+
+f) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény alapján felajánlott személyi jövedelemadó meghatározott része;
+
+g) a szerzői jogról szóló törvény alapján a közös jogkezelő szervezetektől származó befizetések;
+
+h) egyéb bevételek.
 
 (2) Az (1) bekezdés c) pontjában foglalt befizetések közérdekű kötelezettségvállalásnak minősülnek (Ptk. 593–596. §).
 
@@ -16,6 +22,6 @@ e) egyéb bevételek.
 
 (4) Költségvetési támogatás felhasználását a miniszter e törvényben foglaltaktól eltérően szabályozhatja.
 
-(5) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető – az előző évek kötelezettség vállalásainak fedezeteként – a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
+(5) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
 
 (6) A miniszter jogosult – a pályázati döntések függvényében – az Alap 7. § (1) bekezdése szerinti kiadási jogcímei között átcsoportosítást végrehajtani.
