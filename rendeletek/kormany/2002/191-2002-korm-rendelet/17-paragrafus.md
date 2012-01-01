@@ -6,7 +6,8 @@
 
 (2) Ha a robbanóanyagra több olyan jogszabály is vonatkozik, amely szintén előírja a megfelelőségi jelölés feltüntetését, a megfelelőségi jelölés egyben azt is jelenti, hogy az adott robbanóanyag megfelel mindezen jogszabályok előírásainak.
 
-(3) A Magyar Köztársaság területén csak olyan robbanóanyag gyártható, forgalmazható, használható fel, vagy tárolható, amely a plasztikus robbanóanyagok megjelöléséről, azok felderítése céljából Montreálban, 1991. március 1. napján létrehozott Egyezmény kihirdetéséről szóló 2003. évi LXVI. törvény szerint megjelölésre került.
+(3)[^45] Magyaroszág területén csak olyan robbanóanyag gyártható, forgalmazható, használható fel, vagy tárolható, amely a plasztikus robbanóanyagok megjelöléséről, azok felderítése céljából Montreálban, 1991. március 1. napján létrehozott Egyezmény kihirdetéséről szóló 2003. évi LXVI. törvény szerint megjelölésre került.
 
 [^43]: A 17. § a 101/2004. (IV. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^44]: A 17. § (1) bekezdése a 163/2010. (V. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^45]: A 17. § (3) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
