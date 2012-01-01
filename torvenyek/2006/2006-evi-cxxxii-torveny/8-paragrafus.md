@@ -8,7 +8,7 @@ d) a 16. § (7) bekezdésében meghatározott kapacitáson nyújtott szakellát�
 
 e) a külön jogszabály szerinti eljárásban előzetesen befogadott kapacitásokon nyújtott szakellátások, valamint
 
-f) az e törvény alapján létrehozott, illetve befogadott kapacitásokon nyújtott szakellátások
+f) az e törvény és a végrehajtásáról szóló kormányrendelet alapján létrehozott, illetve befogadott kapacitásokon nyújtott szakellátások
 
 Egészségbiztosítási Alap terhére történő külön jogszabály szerinti finanszírozásáért.
 
@@ -26,4 +26,4 @@ e) az (1) bekezdés f) pontja alapján létrehozott, illetve befogadott kapacit�
 
 amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatározott feltételeknek.
 
-(3) Az egészségügyi szolgáltatóval a (2) bekezdés alapján azt követően köthető finanszírozási szerződés, hogy ellátási területe megállapításra került.
+(3) Az egészségügyi szolgáltatóval a (2) bekezdés alapján azt követően köthető finanszírozási szerződés, hogy ellátási területe megállapításra került. A kapacitás, illetve az ahhoz kapcsolódó ellátási terület megállapítása, illetve módosítása esetén a finanszírozási szerződés megköthető, illetve módosítható a még nem jogerős határozat, illetve működési engedély módosítás alapján is, azzal, hogy a finanszírozási szerződés, illetve annak módosítása leghamarabb a határozat, illetve a működési engedély módosítás jogerőre emelkedése napján válhat hatályossá.

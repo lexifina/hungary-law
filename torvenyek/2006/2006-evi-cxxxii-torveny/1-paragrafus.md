@@ -1,12 +1,12 @@
 1. § (1) E törvény hatálya
 
-a) az egészségügyi közszolgáltatások közül a szakellátási kötelezettség keretében nyújtott járóbeteg- és fekvőbeteg-szakellátásokra (a továbbiakban együtt: egészségügyi szakellátás),
+a) az egészségügyi közszolgáltatások közül a járóbeteg- és fekvőbeteg-szakellátásokra (a továbbiakban együtt: egészségügyi szakellátás),
 
-b) a közfinanszírozásban részesülő egészségügyi szolgáltatók fenntartóira és működtetőire, valamint a fenntartásukban működő egészségügyi szolgáltatókra,
+b) a közfinanszírozásban részesülő egészségügyi szolgáltatók tulajdonosaira, fenntartóira és működtetőire, valamint a fenntartásukban működő egészségügyi szolgáltatókra,
 
-c) az egészségügyért és az egészségbiztosításért felelős miniszterre (a továbbiakban együtt: egészségügyért felelős miniszter), az egészségügyi államigazgatási szervre és az egészségbiztosítóra,
+c) az egészségügyért felelős miniszterre, az egészségügyi államigazgatási szervre, az egészségbiztosítóra, valamint a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatos e törvény szerinti eljárásokban – a kormány által kijelölt – véleményadásra jogosult szakértői szervre,
 
-d)
+d) a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatos e törvény szerinti eljárásokkal érintett egészségügyi szolgáltatókra és fenntartóikra
 
 terjed ki.
 
@@ -16,7 +16,7 @@ a) egészségbiztosító: az egészségbiztosítási szerv;
 
 b) egészségügyi közszolgáltatás: a részben vagy egészben a központi költségvetés és az Egészségbiztosítási Alap terhére finanszírozott egészségügyi szolgáltatás;
 
-c) egészségügyi közszolgáltatásért felelős szerv: annak az egészségügyi szolgáltatónak a fenntartója/tulajdonosa, aki lekötött kapacitással rendelkezik;
+c) egészségügyi közszolgáltatásért felelős szerv: annak az egészségügyi szolgáltatónak a fenntartója, aki lekötött kapacitással rendelkezik;
 
 d) lekötött kapacitás: az az i) pont szerinti szakellátási kapacitás, amire érvényes finanszírozási szerződés kiterjed;
 
@@ -24,24 +24,30 @@ e) rendelési óra: az egészségbiztosító által az egészségbiztosítás ke
 
 f) régió: a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 5. §-ának e) pontjában meghatározott régióval megegyező terület;
 
-g)
+g) egészségügyi térség: megközelítőleg 0,9–1,6 millió biztosított ellátásáért felelős olyan térség, amelyhez tartozó egészségügyi intézményekben a finanszírozható szakmák többségében a progresszivitás minden szintjén ellátás nyújtható;
 
 h) sürgősségi ellátás: az Eütv. 3. §-ának i) pontja szerinti sürgős szükség fennállásának megállapítására irányuló vizsgálatokat, valamint a sürgős szükséget elhárító beavatkozásokat magában foglaló egészségügyi szolgáltatás;
 
 i) szakellátási kapacitás:
 
-ia) a járóbeteg-szakellátásban a szakorvosi és nem szakorvosi órák száma, egy napos ellátások finanszírozott szolgáltatási egységei,
+ia) a járóbeteg-szakellátásban a szakorvosi és nem szakorvosi órák száma, a nappali, kúraszerű és az egynapos ellátások finanszírozott szolgáltatási egységei,
 
 ib) a fekvőbeteg-ellátásban az aktív és krónikus ellátási ágyak száma,
 
 ic) jogszabályban előírt bármely más finanszírozott szolgáltatási egység, ideértve a CT, MRI, PET/CT, illetve egyéb, külön jogszabályban meghatározott eszközök finanszírozott szolgáltatási egységét, a művesekezelés finanszírozott szolgáltatási egységét;
 
-j) területi szakellátási kötelezettség: az egészségügyi szolgáltató fenntartójának, illetve tulajdonosának (a továbbiakban együtt: fenntartó), valamint az egészségügyi szolgáltatónak az a kötelezettsége, hogy az egészségügyi szakellátásban az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitásai felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerint egészségügyi szolgáltatásokat nyújtson;
+j) szakellátási kötelezettség: az egészségügyről szóló 1997. évi CLIV. törvény 141. § (3) bekezdése alapján a Magyar Államnak az a kötelezettsége, hogy biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti járóbeteg- és fekvőbeteg-szakellátásokat;
 
 k) alapszakma: belgyógyászat, gyermekgyógyászat, sebészet, szülészet-nőgyógyászat;
 
-l)
+l) egészségügyi szakellátási intézményműködtetési kötelezettség: a helyi önkormányzatoknak az egészségügyről szóló 1997. évi CLIV. törvény 152. § (3) bekezdése szerinti kötelezettsége;
 
-m) ellátási terület: az a földrajzi terület, amelyre kiterjed az egészségügyi szolgáltatónak, illetve az egészségügyi szolgáltató fenntartójának/tulajdonosának a j) pontban meghatározott kötelezettsége.
+m) ellátási terület: az a földrajzi terület, amelyre kiterjed az egészségügyi szolgáltatónak az n) pont szerinti kötelezettsége;
+
+n) területi ellátási kötelezettség: a lekötött kapacitással rendelkező egészségügyi szolgáltatónak az a kötelezettsége, hogy a kapacitásai felhasználásával az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen élő, a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára külön jogszabályban foglaltak szerinti járóbeteg-, illetve fekvőbeteg-szakellátásokat nyújtson;
+
+o) szakellátási feladat: a nem állami és nem helyi önkormányzati tulajdonban/fenntartásban lévő egészségügyi szolgáltató által az e törvény alapján lekötött kapacitásokon végzett, ellátási érdekből közfinanszírozott feladat.
 
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
+
+(3a) E törvény alkalmazása során a fenntartó alatt a tulajdonost kell érteni abban az esetben, ha az egészségügyi szolgáltató tekintetében a fenntartói jogokat – az egészségügyi szolgáltató alapító dokumentumában rögzítettek szerint – az egészségügyi szolgáltató tulajdonosa gyakorolja.

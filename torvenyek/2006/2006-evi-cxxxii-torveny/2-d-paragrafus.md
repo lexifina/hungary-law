@@ -1,4 +1,4 @@
-2/D. § (1) Az egészségügyi ellátási szerződés alapján ellátást nyújtó egészségügyi szolgáltató köteles vagyoni biztosítékot adni. A vagyoni biztosíték módját és mértékét az egészségügyi ellátási szerződés tartalmazza.
+2/D. § (1) A szakellátási kötelezettséggel rendelkező fenntartóhoz tartozó egészségügyi szolgáltató kivételével az egészségügyi ellátási szerződés alapján ellátást nyújtó egészségügyi szolgáltató köteles vagyoni biztosítékot adni. A vagyoni biztosíték módját és mértékét az egészségügyi ellátási szerződés tartalmazza.
 
 (2)
 

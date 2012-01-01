@@ -1,1 +1,5 @@
-6. §
+6. § (1) A kapacitásokat és az ellátási területet e törvény szerinti eljárásokban megállapító, módosító határozatok ellen fellebbezésnek nincs helye, azok jogerőre emelkedésével, illetve ha ettől eltérő teljesítési határidő kerül megállapításra, a teljesítési határidővel egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik.
+
+(2)
+
+(3) A szakellátási kapacitások, illetve az ellátási területek megállapítására, illetve módosítására irányuló eljárásokban a Kormány által kijelölt szakértő szervet díjazás és költségtérítés nem illeti meg.

@@ -10,4 +10,4 @@ d) amelynek a tevékenységét a jogi személlyel szemben alkalmazható büntet�
 
 e) amelynek egészségügyi közszolgáltatásra vonatkozó egészségügyi ellátási szerződését – az újabb szerződés megkötését megelőző három éven belül – szerződésszegés miatt azonnali hatállyal felmondták.
 
-(2) Az (1) bekezdés a) és c)–e) pontjában felsorolt körülményekről az egészségügyi szolgáltatónak nyilatkoznia kell, a b) pontban foglaltakról pedig az állami adóhatóság igazolását kell a pályázathoz csatolni.
+(2) Az (1) bekezdés a) és c)–e) pontjában felsorolt körülményekről az egészségügyi szolgáltatónak nyilatkoznia kell, a b) pontban foglaltakról pedig az állami adóhatóság igazolását kell csatolni.

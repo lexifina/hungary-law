@@ -20,6 +20,8 @@ h) az egészségügyi szolgáltató azon kötelezettségét, hogy a tulajdont é
 
 i) a szerződés megkötésekor meglévő vagyonról szóló tételes listát, és a szerződés megszűnésekor irányadó vagyonelszámolási szabályokat,
 
-j) a külön jogszabály szerinti folyamatos ellátás biztosítására vonatkozó szabályokat.
+j) a külön jogszabály szerinti folyamatos ellátás biztosítására vonatkozó szabályokat,
+
+k) az ellátási kötelezettsége teljesítése érdekében egészségügyi ellátási szerződést kötő egészségügyi közszolgáltatásért felelős szerv nyilatkozatát arról, hogy a szerződés megkötésére fenntartóként jogosult a fenntartásában működő – az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötését megelőzően ellátó – egészségügyi szolgáltató tulajdonosának hozzájárulása nélkül.
 
 (3)

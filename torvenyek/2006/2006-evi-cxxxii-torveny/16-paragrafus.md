@@ -38,7 +38,21 @@ h) a többletkapacitás fogalmát, befogadásának eseteit, eljárásrendjét, m
 
 i) a vagyoni biztosítékkal kapcsolatos részletes szabályokat,
 
-j) a speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatói kört.
+j) a speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatói kört,
+
+k) az egészségügyi ellátás térségi felosztásának szabályait, az egészségügyi ellátási térségeket,
+
+l) azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása során a szakmánkénti megállapítás követelményét nem kell figyelembe venni.
+
+m) a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatosan eljáró államigazgatási szervet és az ezekben az eljárásokban véleményadásra jogosult szakértői szervet,
+
+n) a szakellátási kapacitások és az ahhoz tartozó ellátási területek nyilvántartásának tartalmát és kezelésére vonatkozó szabályokat,
+
+o) a tartalékkapacitások kiosztásának és felhasználásának szabályait.
+
+p) a szakellátási kapacitások felosztása, átcsoportosítása, módosítása során figyelembeveendő szempontok alkalmazására, értékelésére vonatkozó szabályokat,
+
+r) az elérési szabályoknál figyelembeveendő sebességhatárokat.
 
 (15)
 

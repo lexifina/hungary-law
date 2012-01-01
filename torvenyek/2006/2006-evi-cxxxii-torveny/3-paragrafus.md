@@ -1,4 +1,4 @@
-3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség a 2010. december 31-én
+3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség a 2011. december 31-én
 
 a) lekötött, és
 
@@ -12,6 +12,6 @@ szakellátási kapacitások összessége.
 
 (4) Kormányrendelet határozza meg azokat a szakmákat, amelyekre az egészségügyi szakellátás körében finanszírozási szerződés köthető.
 
-(5) A 2. § (1) bekezdés és az (1) bekezdés szerinti kapacitásmennyiség kizárólag az e törvény szerinti eljárások során változhat.
+(5) Az (1) bekezdés szerinti kapacitásmennyiség kizárólag az e törvény szerinti eljárások során változhat.
 
 (6) Ha a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató egészségügyi tevékenységét gazdasági társaság működési formában szándékozik a továbbiakban ellátni, a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató helyébe – a költségvetési szerv megszűnésével egyidejűleg – lépő, az ellátási kötelezettséget és meglévő szerződéses kapacitások továbbvitelét vállaló gazdasági társaság a költségvetési szerv kapacitásai tekintetében a költségvetési szerv jogutódja.
