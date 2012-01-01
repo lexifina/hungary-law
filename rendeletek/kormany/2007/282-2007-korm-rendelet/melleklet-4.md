@@ -34,7 +34,7 @@
 
 | 9. | Állategészségügyi vizsgálatok: a) állat- és takarmánymérgezésnél állati hullarész, takarmány-, és méregmaradvány vizsgálata, b) állatok oltási balesetei, állatgyógyászati oltó- és kórjelző anyagok vizsgálata c) állat és takarmányféleség bakteriológiai vizsgálata | Mezőgazdasági Szakigazgatási Hivatal |
 
-| 10. | Munkabiztonsági vizsgálatok: a) súlyos munkabalesetek vizsgálata b) az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 18/2008. (XII. 3.) SZMM rendelet 4. § (3) és (4) bekezdése alapján a 2. és 3. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata | Országos Munkavédelmi és Munkaügyi Főfelügyelőség |
+| 10. | Munkabiztonsági vizsgálatok: a) súlyos munkabalesetek vizsgálata b) az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 18/2008. (XII. 3.) SZMM rendelet 4. § (3) és (4) bekezdése alapján a 2. és 3. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata | Nemzeti Munkaügyi Hivatal |
 
 | 11. | Gyógyszerek vizsgálata | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (GYEMSZI) |
 
@@ -78,11 +78,7 @@ Szakvélemény adására feljogosított szervek
 
 |  | p) vegyészeti vizsgálat, termékhamisítási ügyekben fizikai-kémiai vizsgálatok, ideértve az eredetiség vizsgálatát is | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
-| 2. | Tűzvédelmi szakterületekkel kapcsolatos vizsgálatok |  |
-
-|  | a) építmények tűzvédelme, tűzoltó technikai eszközök, tűzvizsgálat | Országos Katasztrófavédelmi Főigazgatóság és Katasztrófavédelmi Igazgatóságok Hivatásosos Önkormányzati Tűzoltóságok |
-
-|  | b) az a) pontban nem említett tűzvédelmi kérdések esetében | Országos Katasztrófavédelmi Főigazgatóság és Katasztrófavédelmi Igazgatóságok |
+| 2. | Tűzvédelemmel kapcsolatos szakkérdés | Országos Katasztrófavédelmi Főigazgatóság és Katasztrófavédelmi Igazgatóságok |
 
 | 3. | A levegőkörnyezettel, illetve annak múltbeli és jövőbeni állapotával összefüggő szakkérdés | Országos Meteorológiai Szolgálat |
 
@@ -122,14 +118,14 @@ Szakvélemény adására feljogosított szervek
 
 |  | 5. Régészeti lelőhelyekkel összefüggő szakkérdések | Kulturális Örökségvédelmi Hivatal Magyar Nemzeti Múzeum |
 
-| 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Országos Munkavédelmi és Munkaügyi Főfelügyelőség Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+| 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Nemzeti Munkaügyi Hivatal Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 7. | Jövedéki termékek adójogi minősítése, termékek áruosztályozása | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
 | 8. | Zenei és irodalmi művek műfaji elhatárolási és átdolgozási kérdései | ARTISJUS Magyar Szerzői Jogvédő Iroda Egyesület |
 
-| 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggö szakkérdés | Vízügyi és Környezetvédelmi Központi Igazgatóság (VKKI) |
+| 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggö szakkérdés | Nemzeti Környezetügyi Intézet (NeKI) |
 
 |  |  | Környezetvédelmi és Vízgazdálkodási Tudományos Kutató Intézet Közhasznú Társaság (VITUKI Kht.) |
 
-[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a, a 259/2011. (XII. 7.) Korm. rendelet 19. §-a, a 300/2011. (XII. 22.) Korm. rendelet 15. §-a, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
