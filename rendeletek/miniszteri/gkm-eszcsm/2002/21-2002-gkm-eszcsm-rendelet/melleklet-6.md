@@ -1,6 +1,6 @@
 ## TENGERÉSZ SZOLGÁLATI EGÉSZSÉGÜGYI BIZONYÍTVÁNY
 
-| .....................sz. | MAGYAR KÖZTÁRSASÁG Republik of Hungary | No..................... |
+| .....................sz. | MAGYARORSZÁG Republik of Hungary | No..................... |
 
 ## TENGERÉSZ SZOLGÁLATI EGÉSZSÉGÜGYI BIZONYÍTVÁNY
 

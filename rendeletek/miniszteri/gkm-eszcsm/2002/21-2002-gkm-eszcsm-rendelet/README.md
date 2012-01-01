@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-21-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-01-19 | 2002-21-20-0L.2 | 21/2002. (XI. 8.) GKM–ESZCSM együttes rendelet |
+| 2012-01-01 | 2002-21-20-0L.3 | 91/2011. (XII. 30.) NFM rendelet |

@@ -1,6 +1,6 @@
 ## ORVOSI BIZONYÍTVÁNY
 
-| .....................sz. | MAGYAR KÖZTÁRSASÁG Republik Ungarn | No..................... |
+| .....................sz. | MAGYARORSZÁG Republik Ungarn | No..................... |
 
 | ORVOSI BIZONYÍTVÁNY belvízi nagyhajó vezetésére való alkalmasságról |
 
@@ -64,4 +64,6 @@
 
 5. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM
 
-együttes rendelethez
+együttes rendelethez[^10]
+
+[^10]: Az 5. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 29. §-a szerint módosított szöveg.
