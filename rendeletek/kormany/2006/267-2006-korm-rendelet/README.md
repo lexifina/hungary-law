@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-267-20-
 | 2011-08-26 | 2006-267-20-22.11 | 362/2008. (XII. 31.) Korm. rendelet |
 | 2011-09-15 | 2006-267-20-22.12 | 82/2011. (V. 18.) Korm. rendelet |
 | 2011-10-07 | 2006-267-20-22.13 | 195/2011. (IX. 22.) Korm. rendelet |
+| 2012-01-01 | 2006-267-20-22.14 | 195/2011. (IX. 22.) Korm. rendelet |

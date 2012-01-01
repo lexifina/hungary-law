@@ -54,7 +54,7 @@
 
 | 12. | Az államhatártól számított 100 méteren belül épülő létesítmény esetében. | Annak elbírálása kérdésében, hogy a létesítmény a kérelemben foglaltak szerinti vagy további feltételek melletti megvalósítása esetén az államhatár rendje biztosított-e, a határrendsértések és határesemények megelőzhetők-e. | megyei, fővárosi rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^42]
+3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^43]
 
 |  | A | B | C | D | E | F | G | H | I | J |
 
@@ -120,4 +120,4 @@
 
 | 13. | Ha az eljárás régészeti lelőhelyet, régészeti védőövezet területét, műemléki területet vagy külön jogszabályban meghatározott esetekben műemléket érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély, vagy egységes környezet- használati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a kérelem a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi, megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal | IGEN | IGEN | NEM | IGEN | NEM | IGEN |
 
-[^42]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^43]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.

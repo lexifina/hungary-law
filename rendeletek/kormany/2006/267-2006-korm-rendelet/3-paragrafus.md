@@ -26,7 +26,7 @@ h)[^11] a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendez
 
 i) a Bt. 26/A. §-ának (5) bekezdése szerinti határidő hosszabbítási kérelem elbírálása;
 
-j)[^12] a Magyar Állami Földtani, Geofizikai és Bányászati Adattár, az Állami Ásványvagyon Nyilvántartás, valamint a Földtani és Bányászati Információs rendszer működtetése;
+j)[^12] a Magyar Állami Földtani, Geofizikai és Bányászati Adattár, a mélyfúrási magminta gyűjtemény, az Állami Ásványvagyon Nyilvántartás, valamint a Földtani és Bányászati Információs rendszer működtetése;
 
 k) az országos ásványi nyersanyag és geotermikus energiavagyon nyilvántartás vezetése, ebből adatszolgáltatás és igazolás kibocsátása;
 
@@ -53,7 +53,7 @@ n)[^14] a Bt. 44. § (4) bekezdése szerint a nyomástartó berendezést vizsgá
 [^9]: A 3. § (5) bekezdés d) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 19. pontja hatályon kívül helyezte, újonnan a 195/2011. (IX. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^10]: A 3. § (5) bekezdés e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 19. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^11]: A 3. § (5) bekezdés h) pontját az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, újonnan a 195/2011. (IX. 22.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^12]: A 3. § (5) bekezdésének j) pontja a 105/2009. (V. 14.) Korm. rendelet 4. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^12]: A 3. § (5) bekezdés j) pontja a 195/2011. (IX. 22.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^13]: A 3. § (5) bekezdés m) pontját a 195/2011. (IX. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^14]: A 3. § (5) bekezdés n) pontját a 195/2011. (IX. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^15]: A 3. § (6) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.

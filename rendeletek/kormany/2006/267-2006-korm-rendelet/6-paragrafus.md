@@ -56,7 +56,7 @@ f) földtani adatok és információk gyűjtése, közreműködés a Magyar Áll
 
 g) közhasznú információszolgáltatás;
 
-h) országos szakmúzeum vagy tematikus múzeum, szakkönyvtár, mélyfúrási magminta gyűjtemény, mérőhálózat, laboratóriumok fenntartása, üzemeltetése;
+h)[^32] országos szakmúzeum vagy tematikus múzeum, szakkönyvtár, mérőhálózat, laboratóriumok fenntartása, üzemeltetése;
 
 i) részvétel nemzetközi kutatási programokban, kapcsolattartás a hazai és nemzetközi szakmai szervezetekkel.
 
@@ -66,3 +66,4 @@ i) részvétel nemzetközi kutatási programokban, kapcsolattartás a hazai és 
 
 [^30]: A 6. § a 351/2010. (XII. 30.) Korm. rendelet 162. §-ával megállapított szöveg.
 [^31]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be.
+[^32]: A 6/A. § (5) bekezdés h) pontja a 195/2011. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
