@@ -4,6 +4,6 @@
 
 (2) Ha a rendőrségi tárolás megkezdésétől számított 180 nap alatt a tulajdonos nem élt az (1) bekezdésben meghatározott lehetőséggel, a Rendőrség a tárolt lőfegyvert, lőszert (töltényt) megsemmisítheti, vagy kereskedelmi-szakértői értékbecslést követően lőfegyver-kereskedőnek átadhatja értékesítésre. A fegyver, lőszer (töltény) értékesítéséből származó összeget – a felmerült költségek levonása után – a tulajdonos részére ki kell fizetni.
 
-(3)[^23] A lőfegyver, lőszer (töltény) értékesítésének elrendeléséről a rendőrség dönt.
+(3)[^24] A lőfegyver, lőszer (töltény) értékesítésének elrendeléséről a rendőrség dönt.
 
-[^23]: A 14. § (3) bekezdése a 71/2009. (XII. 22.) IRM rendelet 9. §-ával megállapított szöveg.
+[^24]: A 14. § (3) bekezdése a 71/2009. (XII. 22.) IRM rendelet 9. §-ával megállapított szöveg.

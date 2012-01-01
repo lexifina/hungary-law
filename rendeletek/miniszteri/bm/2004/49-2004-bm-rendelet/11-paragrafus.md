@@ -8,6 +8,6 @@ b) a kérelmezőnek puskaművesi vagy fegyvermesteri, fegyverműszerész szakviz
 
 c) a vadászlőfegyver megszerzését és tartását kérelmező vadászat és vadgazdálkodásból legalább középfokú végzettséggel rendelkezik,
 
-d)[^20] a kérelmező érvényes és hatályos mezőőri szolgálati igazolvánnyal rendelkezik.
+d)[^21] a kérelmező érvényes és hatályos mezőőri szolgálati igazolvánnyal rendelkezik.
 
-[^20]: A 11. § (2) bekezdés d) pontja a 71/2009. (XII. 22.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 11. § (2) bekezdés d) pontja a 71/2009. (XII. 22.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
