@@ -1,1 +1,1 @@
-16. §
+16. § A Tanács elnöke a költségvetési törvény és a költségvetési törvény módosításának tárgyalásakor jogosult részt venni az Országgyűlés és annak bizottságai ülésén, ott felszólalhat, véleményét kifejtheti.

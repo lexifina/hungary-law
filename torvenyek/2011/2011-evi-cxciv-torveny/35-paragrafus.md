@@ -1,1 +1,1 @@
-35. §
+35. § A fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmény, mentesség körét és mértékét, valamint az új fizetési kötelezettséget megállapító törvényt kizárólag ezzel azonos vagy hasonló életviszonyokat szabályozó törvényben lehet módosítani vagy hatályon kívül helyezni.
