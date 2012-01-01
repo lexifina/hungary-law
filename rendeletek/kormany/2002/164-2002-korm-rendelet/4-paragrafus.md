@@ -10,7 +10,7 @@ b) a BBB tagjai:
 
 ba)[^8] az agrárpolitikáért felelős miniszter által vezetett minisztérium kijelölt helyettes államtitkára,
 
-bb)[^9] a közlekedésért és gazdaságpolitikáért felelős miniszter által vezetett minisztérium kijelölt helyettes államtitkára,
+bb)[^9] a közlekedésért felelős miniszter által vezetett minisztérium kijelölt helyettes államtitkára,
 
 bc)[^10] a helyi önkormányzatokért felelős miniszter által vezetett minisztérium kijelölt helyettes államtitkára,
 
@@ -34,7 +34,7 @@ bh) a Nemzeti Biztonsági Felügyelet (a továbbiakban: NBF) elnöke.
 [^6]: A 4. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 277. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A 4. § (2) bekezdés a) pontja a 8/2011. (II. 11.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^8]: A 4. § (2) bekezdés b) pont ba) alpontja a 8/2011. (II. 11.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^9]: A 4. § (2) bekezdés b) pont bb) alpontja a 8/2011. (II. 11.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdés b) pont bb) alpontja a 8/2011. (II. 11.) Korm. rendelet 19. § b) pontja, a 290/2011. (XII. 22.) Korm. rendelet 86. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^10]: A 4. § (2) bekezdés b) pont bc) alpontja a 8/2011. (II. 11.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^11]: A 4. § (2) bekezdés b) pont bd) alpontja a 8/2011. (II. 11.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^12]: A 4. § (2) bekezdés b) pont be) alpontja a 8/2011. (II. 11.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
