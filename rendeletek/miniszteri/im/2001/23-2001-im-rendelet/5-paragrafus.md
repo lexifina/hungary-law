@@ -2,6 +2,6 @@
 
 5. § (1) Ez a rendelet 2002. január 1-jén lép hatályba. Rendelkezéseit a hatálybalépést követően elrendelt hirdetményi kézbesítések esetében kell alkalmazni.
 
-(2)[^1]
+(2)[^3]
 
-[^1]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 112. pontja hatályon kívül helyezte.
+[^3]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 112. pontja hatályon kívül helyezte.
