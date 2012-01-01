@@ -16,6 +16,6 @@ a bekanyarodás és a megfordulás esetét kivéve, ráhajtani nem szabad.
 
 (5) A párhuzamos közlekedésre vonatkozó szabályok alkalmazása szempontjából az úttestnek a villamospálya által elfoglalt része nem minősül forgalmi sávnak.
 
-(6)[^225] Ha útburkolati jel (terelő- vagy záróvonal) a villamospályára vezeti az egyéb járművek forgalmát, a (2) bekezdésben foglalt tilalom nem érvényesül; a villamospályára – a villamosforgalom zavarása nélkül – más jármű is ráhajthat. Ilyen esetben a párhuzamos közlekedésre vonatkozó szabályok alkalmazása szempontjából az úttestnek a villamospálya által elfoglalt részét is figyelembe kell venni.
+(6)[^226] Ha útburkolati jel (terelő- vagy záróvonal) a villamospályára vezeti az egyéb járművek forgalmát, a (2) bekezdésben foglalt tilalom nem érvényesül; a villamospályára – a villamosforgalom zavarása nélkül – más jármű is ráhajthat. Ilyen esetben a párhuzamos közlekedésre vonatkozó szabályok alkalmazása szempontjából az úttestnek a villamospálya által elfoglalt részét is figyelembe kell venni.
 
-[^225]: A 38. § (6) bekezdését a 2/1984. (I. 29.) KM-BM együttes rendelet 22. §-a iktatta be a rendeletbe.
+[^226]: A 38. § (6) bekezdését a 2/1984. (I. 29.) KM-BM együttes rendelet 22. §-a iktatta be a rendeletbe.

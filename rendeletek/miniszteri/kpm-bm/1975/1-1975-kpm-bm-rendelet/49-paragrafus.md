@@ -1,15 +1,15 @@
 ## Megkülönböztető jelzéseket használó gépjárművek
 
-49. § (1)[^299] A gépjármű megkülönböztető jelzéseket adó berendezéseit csak abban az esetben szabad működtetni, ha a feladat sürgős ellátása, a személy-, élet- és vagyonbiztonság, továbbá a védett személyek és kíséretük biztonsága érdekében az szükséges, és a forgalmi viszonyok azt indokolttá teszik.
+49. § (1)[^300] A gépjármű megkülönböztető jelzéseket adó berendezéseit csak abban az esetben szabad működtetni, ha a feladat sürgős ellátása, a személy-, élet- és vagyonbiztonság, továbbá a védett személyek és kíséretük biztonsága érdekében az szükséges, és a forgalmi viszonyok azt indokolttá teszik.
 
-(2)[^300] A megkülönböztető fény- és hangjelzést együttesen használó gépjármű vezetője — a rendőr és a vasúti átjárót biztosító jelzőberendezések jelzéseit kivéve — a közúti jelzéseket, továbbá a 24—43. §-okban foglalt rendelkezéseket figyelmen kívül hagyhatja, ha magatartásával a közlekedés biztonságát, valamint a személy- és vagyonbiztonságot nem veszélyezteti, és meggyőződött arról, hogy a közlekedés többi résztvevője az akadálytalan továbbhaladást lehetővé tette.
+(2)[^301] A megkülönböztető fény- és hangjelzést együttesen használó gépjármű vezetője — a rendőr és a vasúti átjárót biztosító jelzőberendezések jelzéseit kivéve — a közúti jelzéseket, továbbá a 24—43. §-okban foglalt rendelkezéseket figyelmen kívül hagyhatja, ha magatartásával a közlekedés biztonságát, valamint a személy- és vagyonbiztonságot nem veszélyezteti, és meggyőződött arról, hogy a közlekedés többi résztvevője az akadálytalan továbbhaladást lehetővé tette.
 
 (3) Megkülönböztető jelzéseket használó gépjárművek találkozása esetében – egymás közti viszonyukban – az általános szabályok az irányadók.
 
 (4) A megkülönböztető fényjelzést – ha a jármű olyan helyen áll meg, ahol a megállás egyébként tilos – működtetni kell. Megkülönböztető hangjelzést álló járművön használni nem szabad.
 
-(5)[^301] A megkülönböztető jelzéseket használó gépkocsit tompított fényszóróval lakott területen belül nappal és jó látási viszonyok között is ki kell világítani.
+(5)[^302] A megkülönböztető jelzéseket használó gépkocsit tompított fényszóróval lakott területen belül nappal és jó látási viszonyok között is ki kell világítani.
 
-[^299]: A 49. § (1) bekezdése a 151/1995. (XII. 12.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
-[^300]: A 49. § (2) bekezdése a 151/1995. (XII. 12.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
-[^301]: A 49. § (5) bekezdését a 151/1995. ( XII. 12.) Korm. rendelet 4. §-ának (2) bekezdése iktatta a szövegbe.
+[^300]: A 49. § (1) bekezdése a 151/1995. (XII. 12.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^301]: A 49. § (2) bekezdése a 151/1995. (XII. 12.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^302]: A 49. § (5) bekezdését a 151/1995. ( XII. 12.) Korm. rendelet 4. §-ának (2) bekezdése iktatta a szövegbe.

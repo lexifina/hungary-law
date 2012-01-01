@@ -8,12 +8,12 @@
 
 ## Elindulás
 
-24. § (1)[^174] Az úttest széléről elinduló, a várakozó helyről az úttestre ráhajtó, az út más részéről vagy útnak nem minősülő területről az úttestre ráhajtó jármű vezetőjének, az úttesten haladó járművek és gyalogosok részére elsőbbséget kell adni. A zárt pályáról az úttestre ráhajtó villamosnak az úttesten közlekedő járművekkel szemben – a villamossal azonos irányban vagy szemben haladó, irányt nem változtató járműveket ide nem értve – elsőbbsége van.
+24. § (1)[^175] Az úttest széléről elinduló, a várakozó helyről az úttestre ráhajtó, az út más részéről vagy útnak nem minősülő területről az úttestre ráhajtó jármű vezetőjének, az úttesten haladó járművek és gyalogosok részére elsőbbséget kell adni. A zárt pályáról az úttestre ráhajtó villamosnak az úttesten közlekedő járművekkel szemben – a villamossal azonos irányban vagy szemben haladó, irányt nem változtató járműveket ide nem értve – elsőbbsége van.
 
-(2)[^175] Az elindulást, illetőleg az úttestre való ráhajtást irányjelzéssel [29. § (2) bekezdés] jelezni kell.
+(2)[^176] Az elindulást, illetőleg az úttestre való ráhajtást irányjelzéssel [29. § (2) bekezdés] jelezni kell.
 
-(3)[^176] Lakott területen belül a járművek vezetői kötelesek az elindulási szándékot jelző, menetrend szerint közlekedő autóbusznak és trolibusznak a megállóhelyről való elindulását (a jobb szélső forgalmi sávba való besorolását) – ha ez hirtelen fékezés nélkül megtehető – lassítással, szükség esetén megállással is lehetővé tenni. Az autóbusz, illetőleg a trolibusz vezetője azonban ilyen esetben is csak akkor indulhat el, ha meggyőződött annak veszélytelenségéről.
+(3)[^177] Lakott területen belül a járművek vezetői kötelesek az elindulási szándékot jelző, menetrend szerint közlekedő autóbusznak és trolibusznak a megállóhelyről való elindulását (a jobb szélső forgalmi sávba való besorolását) – ha ez hirtelen fékezés nélkül megtehető – lassítással, szükség esetén megállással is lehetővé tenni. Az autóbusz, illetőleg a trolibusz vezetője azonban ilyen esetben is csak akkor indulhat el, ha meggyőződött annak veszélytelenségéről.
 
-[^174]: A 24. § (1) bekezdése a 104/1997. (VI. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^175]: A 24. § új (2) bekezdését a 104/1997. (VI. 18.) Korm. rendelet 14. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva.
-[^176]: A 24. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 104/1997. (VI. 18.) Korm. rendelet 14. §-a.
+[^175]: A 24. § (1) bekezdése a 104/1997. (VI. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^176]: A 24. § új (2) bekezdését a 104/1997. (VI. 18.) Korm. rendelet 14. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva.
+[^177]: A 24. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 104/1997. (VI. 18.) Korm. rendelet 14. §-a.

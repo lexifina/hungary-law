@@ -22,7 +22,7 @@ e) karjelzés hiányában a rendőr vállával párhuzamos, illetőleg vállára
 
 f) ha a rendőr kinyújtott karjával maga felé int, ezzel a sebesség növelésére, ha pedig kinyújtott karját le- és felfelé mozgatja, a sebesség csökkentésére ad utasítást.
 
-(2)[^11] Ha a rendőr a forgalmat nem útkereszteződésben irányítja,
+(2)[^12] Ha a rendőr a forgalmat nem útkereszteződésben irányítja,
 
 a) a járművek megállítására
 
@@ -34,7 +34,7 @@ b) a megkülönböztető fényjelzést használó gépkocsiból vagy motorkerék
 
 (3) A rendeletben meghatározott egyéb közúti jelzések és a forgalmi szabályok csak annyiban irányadók, amennyiben a rendőr jelzésével nem ellentétesek.
 
-(4)[^12] Az (1), (2) és a (3) bekezdésben foglalt rendelkezések értelemszerűen irányadók a szolgálatban lévő katonai forgalomszabályozó, a katasztrófavédelmi hatóság közúti ellenőre, a vám- és pénzügyőr, a tűzoltó, valamint a forgalmat ellenőrző közlekedési hatóság közúti ellenőre által adott jelzésekre is.
+(4)[^13] Az (1), (2) és a (3) bekezdésben foglalt rendelkezések értelemszerűen irányadók a szolgálatban lévő katonai forgalomszabályozó, a katasztrófavédelmi hatóság közúti ellenőre, a vám- és pénzügyőr, a tűzoltó, valamint a forgalmat ellenőrző közlekedési hatóság közúti ellenőre által adott jelzésekre is.
 
-[^11]: A 6. § (2) bekezdése a 104/1997. (VI. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^12]: A 6. § (4) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^12]: A 6. § (2) bekezdése a 104/1997. (VI. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 6. § (4) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.

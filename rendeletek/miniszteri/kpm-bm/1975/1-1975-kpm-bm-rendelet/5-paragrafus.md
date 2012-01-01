@@ -26,15 +26,16 @@ b) a vezető a járművel nem indulhat el és az indulásra vonatkozó utasítá
 
 (6) A külföldre távozó magyar rendszámú gépjárművet – a „H” betűt feltüntető – államjelzéssel kell ellátni.
 
-(7) A Magyar Köztársaság területén csak olyan külföldi rendszámú gépjármű közlekedhet, amelyet a rendszámot kiadó állam jelzésével elláttak.
+(7)[^8] Magyarország területén csak olyan külföldi rendszámú gépjármű közlekedhet, amelyet a rendszámot kiadó állam jelzésével elláttak.
 
-(8)[^8] Rendkívüli időjárás, természeti körülmények (havazás, jegesedés, árvíz stb.) esetén a közúti járműveknek a Magyar Köztársaság területére történő beléptetése – külön jogszabály[^9] alapján – feltételhez köthető vagy korlátozható.
+(8)[^9] Rendkívüli időjárás, természeti körülmények (havazás, jegesedés, árvíz stb.) esetén a közúti járműveknek Magyarország területére történő beléptetése – külön jogszabály[^10] alapján – feltételhez köthető vagy korlátozható.
 
-(9)[^10] A magyar hatósági jelzéssel ellátott gépjárművön – ide nem értve a DT és a CK betűjelű rendszámtáblával közlekedő gépjárművet – nem lehet olyan jelzést – így különösen CD jelzésű matricát – feltüntetni, amely arra utal, hogy a gépjármű a Magyarországon működő diplomáciai és konzuli képviseletek, nemzetközi szervezetek vagy ezek nemzetközi szerződés alapján mentességet élvező tagjának, illetve a mentességet élvező családtagjának használatában van.
+(9)[^11] A magyar hatósági jelzéssel ellátott gépjárművön – ide nem értve a DT és a CK betűjelű rendszámtáblával közlekedő gépjárművet – nem lehet olyan jelzést – így különösen CD jelzésű matricát – feltüntetni, amely arra utal, hogy a gépjármű a Magyarországon működő diplomáciai és konzuli képviseletek, nemzetközi szervezetek vagy ezek nemzetközi szerződés alapján mentességet élvező tagjának, illetve a mentességet élvező családtagjának használatában van.
 
 [^5]: Az 5. § (1) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 5. § (2) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 5. § (5) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (8) bekezdését a 28/2001. (II. 15.) Korm. rendelet 1. §-a iktatta a szövegbe.
-[^9]: 1997. évi XXXII. törvény a határőrizetről és a határőrségről.
-[^10]: Az 5. § (9) bekezdését a 304/2008. (XII. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^8]: Az 5. § (7) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (8) bekezdését a 28/2001. (II. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 304/2011. (XII. 23.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^10]: 1997. évi XXXII. törvény a határőrizetről és a határőrségről.
+[^11]: Az 5. § (9) bekezdését a 304/2008. (XII. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
