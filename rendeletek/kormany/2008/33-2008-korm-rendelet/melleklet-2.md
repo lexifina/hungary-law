@@ -8,19 +8,19 @@
 
 | 3. | Településrendezési szakértő | 2. § (5) bekezdése szerint |
 
-| 4. | Területrendezési tervezési tevékenység | 2. § (5) bekezdése szerint |
+| 4. | Területrendezési tervezési tevékenység | 2. § (5) bekezdés b) pont szerint |
 
-| 5. | Beruházás-lebonyolítói tevékenység | 2. § (5) bekezdése szerint |
+| 5. | Beruházáslebonyolítói tevékenység | 2. § (5) bekezdése szerint |
 
 | 6. | Energetikai tanúsítói tevékenység | 2. § (5) bekezdése szerint |
 
 | 7. | Környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 8. | Jövedéki ügyintézői tevékenység | Vám- és Pénzügyőrség |
+| 8. | Jövedéki ügyintézői tevékenység | Nemzeti Adó- és Vámhivatal |
 
-| 9. | Vámkezelő | Vám- és Pénzügyőrség |
+| 9. | Vámkezelő | Nemzeti Adó- és Vámhivatal |
 
-| 10. | Vámügyintéző | Vám- és Pénzügyőrség |
+| 10. | Vámügyintéző | Nemzeti Adó- és Vámhivatal |
 
 | 11. | Idegenvezetői tevékenység | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -30,9 +30,9 @@
 
 | 14. | Polgári védelmi tevékenység | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 15. | Igazságügyi szakértői tevékenység | Igazságügyi és rendészeti miniszter |
+| 15. | Igazságügyi szakértői tevékenység | igazságügyért felelős miniszter |
 
-| 16. | A közvetítői tevékenységről szóló törvény hatálya alá tartozó közvetítés | Igazságügyi és rendészeti miniszter |
+| 16. | A közvetítői tevékenységről szóló törvény hatálya alá tartozó közvetítés | igazságügyért felelős miniszter |
 
 | 17. | Biztonságtechnikai tervező, szerelő | Országos Rendőr-főkapitányság |
 
@@ -48,19 +48,19 @@
 
 | 23. | Fegyveres biztonsági őr | Országos Rendőr-főkapitányság |
 
-| 24. | Az állattenyésztéshez kapcsolódó mesterséges termékenyítési szolgáltatások | Mezőgazdasági Szakigazgatási Hivatal Központ |
+| 24. | Az állattenyésztéshez kapcsolódó mesterséges termékenyítési szolgáltatások | Mezőgazdasági Szakigazgatási Hivatal |
 
 | 25. | Magán-állatorvosi tevékenység | Magyar Állatorvosi Kamara |
 
-| 26. | Adótanácsadás | pénzügyminiszter |
+| 26. | Adótanácsadás | adópolitikáért felelős miniszter |
 
-| 27. | Adószakértői tevékenység | pénzügyminiszter |
+| 27. | Adószakértői tevékenység | adópolitikáért felelős miniszter |
 
-| 28. | Okleveles adószakértői tevékenység | pénzügyminiszter |
+| 28. | Okleveles adószakértői tevékenység | adópolitikáért felelős miniszter |
 
-| 29. | Könyvviteli szolgáltatás | pénzügyminiszter |
+| 29. | Könyvviteli szolgáltatás | adópolitikáért felelős miniszter |
 
-| 30. | Belső ellenőr | pénzügyminiszter |
+| 30. | Belső ellenőr | adópolitikáért felelős miniszter |
 
 | 31. | Társasházkezelő | társasházkezelő és ingatlankezelő szolgáltató lakóhelye (székhelye) – működési területe – szerint illetékes körzetközponti jegyző |
 
@@ -70,8 +70,6 @@
 
 | 34. | Ingatlanvagyon-értékelő és közvetítő | az ingatlanközvetítői, illetőleg ingatlanvagyon-értékelő és közvetítő szolgáltató (lakóhelye) székhelye – működési területe – szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
 
-| 35. | Átláthatósági biztos | Közbeszerzések Tanácsa |
+2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^13]
 
-2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^23]
-
-[^23]: A 2. számú melléklet a 214/2009. (IX. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 205. §-a, a 247/2011. (XI. 25.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^13]: Az 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított szöveg.

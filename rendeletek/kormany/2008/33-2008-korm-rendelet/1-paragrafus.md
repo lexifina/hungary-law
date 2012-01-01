@@ -1,83 +1,83 @@
-1. § (1) A Kormány a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Etv.) 4/A. §-ában meghatározott információs szolgálatként, továbbá – a (2)–(3) bekezdésben foglalt kivétellel – a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként első fokon az Oktatási Hivatalt, másodfokon az oktatási és kulturális minisztert jelöli ki.
+1. §[^1] (1) A Kormány a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Etv.) 4/A. §-ában meghatározott információs szolgálatként, továbbá – a (2)–(3) bekezdésben foglalt kivétellel – a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként első fokon az Oktatási Hivatalt, másodfokon az oktatásért felelős minisztert jelöli ki.
 
-(2) Az Etv. Harmadik része hatálya alá tartozó hatósági eljárásokban a Kormány a külföldi bizonyítványok és oklevelek elismerésért felelős hatóságként
+(2) Az Etv. Harmadik részének hatálya alá tartozó hatósági eljárásokban a Kormány a külföldi bizonyítványok és oklevelek elismerésért felelős hatóságként
 
-a)[^1] az egészségügyi miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Egészségügyi Engedélyezési és Közigazgatási Hivatalt, másodfokon az Országos Tisztifőorvosi Hivatalt,
+a) az egészségügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Egészségügyi Engedélyezési és Közigazgatási Hivatalt, másodfokon az Országos Tisztifőorvosi Hivatalt,
 
-b) a szociális és munkaügyi miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon a Nemzeti Szakképzési és Felnőttképzési Intézetet, másodfokon a szociális és munkaügyi minisztert,
+b) a szakképzésért és felnőttképzésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon a Nemzeti Munkaügyi Hivatalt, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
 
-c)[^2] a nemzeti fejlesztési és gazdasági miniszter hatáskörébe tartozó szabályozott szakmák esetében
+c) a kereskedelemért és az iparügyekért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon a Nemzeti Munkaügyi Hivatalt, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
 
-ca) kereskedelmi és ipari szakterületen első fokon a Magyar Kereskedelmi Engedélyezési Hivatalt, másodfokon a nemzeti fejlesztési és gazdasági minisztert,
+d) a területfejlesztésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél – az e) pontban meghatározott kivétellel – első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
-cb) a területfejlesztés és területrendezés területén, a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél – a cc) pontban meghatározott kivétellel – első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
+e) a területfejlesztésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a mérnöki kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-cc) a területfejlesztés és területrendezés területén, a külön jogszabályban meghatározott, a mérnöki kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
+f) a településrendezésért és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi mérnöki kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, tervellenőri, energetikai tanúsítói, beruházáslebonyolítói tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-cd) a településfejlesztés és településrendezés területén, a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői tevékenységeknél – a ce) pontban meghatározott kivétellel – első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
+g) a településrendezésért és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, építésügyi igazgatási szakértői tevékenység, energetikai tanúsítói, beruházáslebonyolítói tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
-ce) a településfejlesztés és településrendezés területén, a külön jogszabályban meghatározott, a területi mérnöki kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
+h) az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén a felvonó- és mozgólépcső karbantartó-szerelői, valamint felvonó- és mozgólépcső ellenőri tevékenység esetén első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-cf) az építésügy területén, a külön jogszabályban meghatározott, a területi mérnöki kamarák hatáskörébe tartozó építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, tervellenőrzési, energetikai tanúsítói, beruházáslebonyolítói tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
+i) a katasztrófák elleni védekezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében katasztrófavédelem, tűzvédelem, valamint polgári védelem szakterületen első fokon az Országos Katasztrófavédelmi Főigazgatóságot,
 
-cg) az építésügy területén, a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, tervellenőri, energetikai tanúsítói, beruházáslebonyolítói tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
+j) a településfejlesztésért és településrendezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
-ch) az építésügy területén a felvonó és mozgólépcső karbantartó-szerelő, valamint felvonó- és mozgólépcső ellenőri tevékenység esetén első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
+k) a területrendezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a mérnöki kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-d)[^3] az önkormányzati miniszter hatáskörébe tartozó szabályozott szakmák esetében katasztrófavédelem, tűzvédelem, valamint polgári védelem szakterületen első fokon az Országos Katasztrófavédelmi Főigazgatóságot, másodfokon az önkormányzati minisztert,
+l) a környezetvédelemért, a vízgazdálkodásért és a természetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget, másodfokon a környezetvédelemért, a vízgazdálkodásért, illetve a természetvédelemért felelős minisztert,
 
-e) a környezetvédelmi és vízügyi miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget, másodfokon a környezetvédelmi és vízügyi minisztert,
+m) a közlekedésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében:
 
-f)[^4] a közlekedési, hírközlési és energiaügyi miniszter hatáskörébe tartozó szabályozott szakmák esetében
+ma) a gépjármű-közlekedési tevékenységeknél első fokon a Nemzeti Közlekedési Hatóság Közúti Gépjármű-közlekedési Hivatalát,
 
-fa) közlekedési szakterületen első fokon a Nemzeti Közlekedési Hatóságot, másodfokon a közlekedési, hírközlési és energiaügyi minisztert,
+mb) a közúti, vasúti és víziközlekedési tevékenységeknél első fokon a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatalát,
 
-fb) postaügyi szakterületen első fokon a Nemzeti Hírközlési Hatóságot, másodfokon a közlekedési, hírközlési és energiaügyi minisztert,
+mc) légiközlekedési tevékenységeknél első fokon a Nemzeti Közlekedési Hatóság Légügyi Hivatalát,
 
-g)[^5] a Miniszterelnöki Hivatalt vezető miniszter hatáskörébe tartozó szabályozott szakmák esetében informatikai és elektronikus hírközlési szakterületen első fokon a Nemzeti Hírközlési Hatóságot, másodfokon a Miniszterelnöki Hivatalt vezető minisztert
+másodfokon a Nemzeti Közlekedési Hatóság Központját,
+
+n) a postaügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét,
+
+o) az elektronikus hírközlésért, illetve az informatikáért miniszter hatáskörébe tartozó szabályozott szakmák esetében informatikai és elektronikus hírközlési szakterületen első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét,
+
+p) az ügyvédi és ügyvédjelölti képesítések esetében első fokon a Budapesti Ügyvédi Kamarát, másodfokon a Magyar Ügyvédi Kamarát
 
 ## jelöli ki.
 
-(3) A Kormány az Etv. IV. fejezete hatálya alá tartozó hatósági eljárásokban azon szakmák tekintetében, amelyek esetében a szakmai és vizsgakövetelmények meghatározása
+(3) A Kormány az Etv. IV. fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák tekintetében, amelyek esetében a szakmai és vizsgakövetelmények meghatározása
 
-a)[^6] az egészségügyi miniszter hatáskörébe tartozik, első fokon az Egészségügyi Engedélyezési és Közigazgatási Hivatalt, másodfokon az Országos Tisztifőorvosi Hivatalt;
+a) az egészségügyért felelős miniszter hatáskörébe tartozik, első fokon az Egészségügyi Engedélyezési és Közigazgatási Hivatalt, másodfokon az Országos Tisztifőorvosi Hivatalt,
 
-b) a szociális és munkaügyi miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Intézetet, másodfokon a szociális és munkaügyi minisztert;
+b) a szakképzésért és felnőttképzésért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Munkaügyi Hivatalt, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
 
-c)[^7] a közlekedési, hírközlési és energiaügyi miniszter hatáskörébe tartozik
+c) a közlekedésért felelős miniszter hatáskörébe tartozik
 
-ca) közlekedési szakterületen első fokon a Nemzeti Közlekedési Hatóságot, másodfokon a közlekedési, hírközlési és energiaügyi minisztert,
+ca) a gépjármű-közlekedési tevékenységeknél első fokon a Nemzeti Közlekedési Hatóság Közúti Gépjármű-közlekedési Hivatalát,
 
-cb) postaügyi szakterületen első fokon a Nemzeti Hírközlési Hatóságot, másodfokon a közlekedési, hírközlési és energiaügyi minisztert;
+cb) a közúti, vasúti és víziközlekedési tevékenységeknél első fokon a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatalát,
 
-d)[^8] a nemzeti fejlesztési és gazdasági miniszter hatáskörébe tartozik, kereskedelmi és ipari szakterületen első fokon a Magyar Kereskedelmi Engedélyezési Hivatalt, másodfokon a nemzeti fejlesztési és gazdasági minisztert;
+cc) légiközlekedési tevékenységeknél első fokon a Nemzeti Közlekedési Hatóság Légügyi Hivatalát,
 
-e)[^9] a Miniszterelnöki Hivatalt vezető miniszter hatáskörébe tartozik, informatikai és elektronikus hírközlési szakterületen első fokon a Nemzeti Hírközlési Hatóságot, másodfokon a Miniszterelnöki Hivatalt vezető minisztert
+másodfokon a Nemzeti Közlekedési Hatóság Központját,
 
-## jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként.
+d) a postaügyért felelős miniszter hatáskörébe tartozik első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét,
 
-(4)[^10] A Kormány az Etv. 60/A–60/C. §-sa szerinti eljárásokban – az (5) bekezdésben foglalt kivételekkel – eljáró hatóságként az Oktatási Hivatalt, másodfokon az oktatási és kulturális minisztert jelöli ki.
+e) a kereskedelemért és iparügyekért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Intézetet, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
 
-(5)[^11] A Kormány eljáró hatóságként
+f) az elektronikus hírközlésért, illetve az informatikáért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét
 
-a)[^12] az Etv. 60/A–60/C. §-sa szerinti eljárásokban a (2) bekezdés a) pontja, valamint a (3) bekezdés a) pontja alapján elismerendő szakmák tekintetében első fokon az Egészségügyi Engedélyezési és Közigazgatási Hivatalt, másodfokon az Országos Tisztifőorvosi Hivatalt,
+jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként.
 
-b) az Etv. 60/B. § szerinti eljárásokban okleveles építészmérnök és okleveles építész tervező művész szakképzettség esetén első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
+(4) A Kormány az Etv. 60/A–60/C. §-a szerinti eljárásokban – az (5) bekezdésben foglalt kivételekkel – eljáró hatóságként első fokon az Oktatási Hivatalt, másodfokon az oktatásért felelős minisztert jelöli ki.
 
-c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti eljárásokban, ha az adott szabályozott szakma folytatása a Magyar Köztársaság területén engedélyköteles vagy a szolgáltatási tevékenység folytatásának és megkezdésének általános szabályairól szóló 2009. évi LXXVI. törvény szerinti bejelentés kötelezettség hatálya alá tartozik, az engedélyezésre, illetve a bejelentéssel kapcsolatos eljárásra hatáskörrel rendelkező illetékes hatóságot jelöli ki.
+(5) A Kormány eljáró hatóságként
 
-(6)[^13] Az elismerésért felelős hatóság rendszeresen tájékoztatja az Etv. IV. fejezete hatálya alá tartozó döntéseiről a szakmai és vizsgakövetelmények meghatározásáért felelős minisztert.
+a) az Etv. 60/A–60/C. §-a szerinti eljárásokban a (2) bekezdés a) pontja, valamint a (3) bekezdés a) pontja alapján elismerendő szakmák tekintetében első fokon az Egészségügyi Engedélyezési és Közigazgatási Hivatalt, másodfokon az Országos Tisztifőorvosi Hivatalt,
 
-[^1]: Az 1. § (2) bekezdés a) pontja a 225/2010. (VIII. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés c) pontja a 214/2009. (IX. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: Az 1. § (2) bekezdés d) pontja a 214/2009. (IX. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: Az 1. § (2) bekezdés f) pontját a 214/2009. (IX. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^5]: Az 1. § (2) bekezdés g) pontját a 214/2009. (IX. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^6]: Az 1. § (3) bekezdés a) pontja a 225/2010. (VIII. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^7]: Az 1. § (3) bekezdés c) pontja a 214/2009. (IX. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: Az 1. § (3) bekezdés d) pontját a 214/2009. (IX. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^9]: Az 1. § (3) bekezdés e) pontját a 214/2009. (IX. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^10]: Az 1. § (4) bekezdése a 214/2009. (IX. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^11]: Az 1. § (5) bekezdését a 214/2009. (IX. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: Az 1. § (5) bekezdés a) pontja a 225/2010. (VIII. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^13]: Az 1. § (6) bekezdését a 214/2009. (IX. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+b) az Etv. 60/B. §-a szerinti eljárásokban okleveles építészmérnök és okleveles építész tervező művész szakképzettség esetén első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
+
+c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti eljárásokban, ha az adott szabályozott szakma folytatása Magyarország területén engedélyköteles vagy a szolgáltatási tevékenység folytatásának és megkezdésének általános szabályairól szóló 2009. évi LXXVI. törvény szerinti bejelentési kötelezettség hatálya alá tartozik, az engedélyezésre, illetve a bejelentéssel kapcsolatos eljárásra hatáskörrel rendelkező illetékes hatóságot jelöli ki.
+
+(6) Az elismerésért felelős hatóság rendszeresen tájékoztatja az Etv. IV. fejezetének hatálya alá tartozó döntéseiről a szakmai és vizsgakövetelmények meghatározásáért felelős minisztert.
+
+[^1]: Az 1. § a 282/2011. (XII. 21.) Korm. rendelet – 324/2011. (XII. 28.) Korm. rendelet 35. § (2)–(3) bekezdése szerint módosított – 26. § (1) bekezdésével megállapított szöveg.
