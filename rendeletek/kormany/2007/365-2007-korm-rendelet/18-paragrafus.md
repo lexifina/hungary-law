@@ -1,3 +1,3 @@
-18. §[^4]
+18. §[^6]
 
-[^4]: Az 18. § e rendelet 17. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 18. § e rendelet 17. § (2) bekezdése alapján hatályát vesztette.
