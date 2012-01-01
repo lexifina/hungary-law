@@ -1,4 +1,4 @@
-211/B. §[^28] (1) A 211/A. §-ban meghatározott nettó gazdasági érdekeltség megtartására vonatkozó szabályok összevont (konszolidált) alapon teljesíthetőek, ha
+211/B. §[^47] (1) A 211/A. §-ban meghatározott nettó gazdasági érdekeltség megtartására vonatkozó szabályok összevont (konszolidált) alapon teljesíthetőek, ha
 
 a) az eszközátruházó, EU-szintű befektetési vállalkozás anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat vagy ezek leányvállalata,
 
@@ -14,4 +14,4 @@ meghatározott követelményeknek, és
 
 d) az értékpapírosított kitettséget létrehozó pénzügyi intézmény vagy befektetési vállalkozás az eszközátruházó, az EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat rendelkezésére bocsátja a 211/H. § teljesítéséhez szükséges információkat.
 
-[^28]: A 211/B. §-t a 349/2010. (XII. 28.) Korm. rendelet 75. §-a iktatta be.
+[^47]: A 211/B. §-t a 349/2010. (XII. 28.) Korm. rendelet 75. §-a iktatta be.

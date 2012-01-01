@@ -6,9 +6,9 @@ b) intézménnyel szembeni kitettségi osztály esetén, ha az olyan ügyfelek s
 
 c) ha az üzleti egységekben lévő kitettségek, valamint a méret és kockázati jellemzői alapján a kitettségi osztályok nem jelentősek,
 
-d) a Magyar Köztársaság kormányával szembeni kitettség esetén, ha ezen kitettséghez a sztenderd módszer alkalmazásában 0%-os kockázati súlyt kell rendelni,
+d)[^14] Magyarország kormányával szembeni kitettség esetén, ha ezen kitettséghez a sztenderd módszer alkalmazásában 0%-os kockázati súlyt kell rendelni,
 
-e) a Magyar Köztársaság helyi önkormányzatával és közszektorbeli intézményével szembeni kitettség esetén, ha
+e)[^15] Magyarország helyi önkormányzatával és közszektorbeli intézményével szembeni kitettség esetén, ha
 
 1. a központi kormány helytáll – garancia vagy viszontgarancia nyújtása, készfizető kezesség vállalása formájában – a helyi önkormányzat és a közszektorbeli intézmény kötelezettségéért, és
 
@@ -35,3 +35,6 @@ b) összes kockázattal súlyozott kitettség értékének az (1) bekezdés a)�
 (4) Az e §-ban foglaltaknak az EU-szintű befektetési vállalkozás anyavállalat és EU-szintű pénzügyi holding társaság anyavállalat a Tpt. 181/A. §-ának (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon köteles megfelelni.
 
 (5) Az (1) bekezdésben foglaltaknak az EGT-állambeli befektetési vállalkozás anyavállalat és az EGT-állambeli pénzügyi holding társaság anyavállalat a Tpt. 181/A. §-ának (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon köteles megfelelni.
+
+[^14]: A 43. § (1) bekezdés d) pontja a 348/2011. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^15]: A 43. § (1) bekezdés e) pontja a 348/2011. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.

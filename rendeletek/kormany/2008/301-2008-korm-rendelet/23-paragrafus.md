@@ -1,3 +1,3 @@
-## 22. §[^3]
+## 22. §[^13]
 
-[^3]: A 22. §-t a 349/2010. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte.
+[^13]: A 22. §-t a 349/2010. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte.

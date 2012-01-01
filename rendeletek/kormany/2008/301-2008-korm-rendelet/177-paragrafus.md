@@ -2,6 +2,6 @@
 
 (2) A kitettség fedezettel el nem látott részére vonatkozó nemteljesítési valószínűség a hitelfelvevőhöz rendelt nemteljesítési valószínűség, a nemteljesítéskori veszteségráta pedig a fedezetlen kitettség nemteljesítéskori veszteségráta értéke.
 
-(3)[^22] GA: a G* 174. § szerint számított és a 178–180. §-ban meghatározott módon a lejárati eltérés figyelembevételével korrigált értéke. E a kitettség 71–73. § szerinti értéke azzal, hogy a 71. § (11)–(17) bekezdésben és 72. §-ban meghatározott ügyletek kitettség értékének meghatározásakor 100%-os ügyletkockázati súlyt kell alkalmazni. A belső minősítésen alapuló módszert alkalmazó befektetési vállalkozásnak a 71. § (11)–(17) bekezdésében és a 72. §-ban meghatározott mérlegen kívüli tételeknél a hitelegyenértékesítési tényezőt a fedezettség számítását követően a fedezett (GA) és a fedezetlen részre (E–GA) egyaránt érvényesíteni kell.
+(3)[^35] GA: a G* 174. § szerint számított és a 178–180. §-ban meghatározott módon a lejárati eltérés figyelembevételével korrigált értéke. E a kitettség 71–73. § szerinti értéke azzal, hogy a 71. § (11)–(17) bekezdésben és 72. §-ban meghatározott ügyletek kitettség értékének meghatározásakor 100%-os ügyletkockázati súlyt kell alkalmazni. A belső minősítésen alapuló módszert alkalmazó befektetési vállalkozásnak a 71. § (11)–(17) bekezdésében és a 72. §-ban meghatározott mérlegen kívüli tételeknél a hitelegyenértékesítési tényezőt a fedezettség számítását követően a fedezett (GA) és a fedezetlen részre (E–GA) egyaránt érvényesíteni kell.
 
-[^22]: A 177. § (3) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 71. §-ával megállapított szöveg.
+[^35]: A 177. § (3) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 71. §-ával megállapított szöveg.

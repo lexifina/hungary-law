@@ -1,4 +1,4 @@
-211/E. §[^31] (1) A befektetési vállalkozásnak a befektetés előtt és azt követően minden egyedi értékpapírosítási pozíciója tekintetében ismernie kell az alábbi adatokat, amelyek elemzésére és nyilvántartására megfelelő belső szabályzatot kell kidolgoznia:
+211/E. §[^50] (1) A befektetési vállalkozásnak a befektetés előtt és azt követően minden egyedi értékpapírosítási pozíciója tekintetében ismernie kell az alábbi adatokat, amelyek elemzésére és nyilvántartására megfelelő belső szabályzatot kell kidolgoznia:
 
 a) az eszközátruházó vagy szponzor által az értékpapírosításban folyamatosan megtartott nettó gazdasági érdekeltség mértéke;
 
@@ -16,4 +16,4 @@ g) az értékpapírosítás azon strukturális jellemzői, amelyek jelentősen b
 
 (2) A befektetési vállalkozás rendszeresen elvégzi az értékpapírosított pozíciókra nézve saját, a 87. § (2) és (4) bekezdésének megfelelő olyan stressztesztjeiket, amelyek figyelembe veszik az értékpapírosítási tranzakciókra vonatkozó speciális jellemzőket és specifikus kockázatokat. A stressztesztek elvégzésénél elismert külső hitelminősítő szervezet modelljeit is alapul vehetik, ha körültekintően megvizsgálták és megállapították, hogy a modell feltételrendszere megfelelően tükrözi a befektetési vállalkozás értékpapírosítási pozícióinak kockázatait.
 
-[^31]: A 211/E. §-t a 349/2010. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
+[^50]: A 211/E. §-t a 349/2010. (XII. 28.) Korm. rendelet 78. §-a iktatta be.

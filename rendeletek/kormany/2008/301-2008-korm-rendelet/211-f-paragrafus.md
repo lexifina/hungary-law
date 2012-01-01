@@ -1,4 +1,4 @@
-211/F. §[^32] (1) Az eszközátruházótól eltérő befektetési vállalkozásnak belső szabályzatot kell kidolgoznia az értékpapírosított pozíció alapját képező kitettségek teljesítményére vonatkozó információk folyamatos elemzésére.
+211/F. §[^51] (1) Az eszközátruházótól eltérő befektetési vállalkozásnak belső szabályzatot kell kidolgoznia az értékpapírosított pozíció alapját képező kitettségek teljesítményére vonatkozó információk folyamatos elemzésére.
 
 (2) Az eszközátruházótól eltérő befektetési vállalkozás az (1) bekezdésben foglaltak teljesítése érdekében az értékpapírosított kitettségről – amennyiben az az adott kitettség esetében értelmezhető – az alábbi információkat tartja nyilván:
 
@@ -24,4 +24,4 @@ az értékpapírosított kitettségek pénzáramlása.
 
 (3) Ha az értékpapírosítás alapjául szolgáló kitettségek maguk is értékpapírosított pozíciók, a befektetési vállalkozás az alapul szolgáló ügylet tekintetében is nyilvántartja a (2) bekezdés szerinti információkat.
 
-[^32]: A 211/F. §-t a 349/2010. (XII. 28.) Korm. rendelet 79. §-a iktatta be.
+[^51]: A 211/F. §-t a 349/2010. (XII. 28.) Korm. rendelet 79. §-a iktatta be.

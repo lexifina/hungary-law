@@ -162,9 +162,9 @@ g) elismert elszámolóház;
 
 60. mikro-, kis- és középvállalkozás: a Tpt.-ben meghatározott fogalom;
 
-61. minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével rendelkező értékpapírosítási pozíció;
+61.[^1] minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével rendelkező értékpapírosítási vagy újraértékpapírosítási pozíció;
 
-62. nem minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező értékpapírosítási pozíció;
+62.[^2] nem minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező értékpapírosítási vagy újraértékpapírosítási pozíció;
 
 63. nemteljesítéskori csereügylet: olyan szerződés, amelyben a hitelkockázati fedezetet nyújtó félnek a szerződésben foglalt fizetési kötelezettsége a kielégítési jog megnyílását eredményező hitelesemény bekövetkezésekor áll fenn;
 
@@ -172,7 +172,7 @@ g) elismert elszámolóház;
 
 65. nemteljesítéskori veszteségráta (LGD): az ügyfél nemteljesítéséből származó veszteségnek a nemteljesítés időpontjában fennálló kitettséghez viszonyított aránya;
 
-66.[^1] nettósítási halmaz:
+66.[^3] nettósítási halmaz:
 
 66.1. azonos partnerrel létrejött ügyletek csoportja, amelyek jogilag érvényesíthető kétoldalú nettósítási megállapodás tárgyát képezik, és amelyek esetén a nettósítást a szerződéses nettósításra és a hitelkockázat mérséklésre vonatkozó előírások lehetővé teszik,
 
@@ -206,6 +206,10 @@ g) elismert elszámolóház;
 
 80. tőkepiac vezérelt ügylet: biztosítékkal fedezett kitettséget eredményező megállapodás, amely olyan rendelkezést tartalmaz, ami lehetővé teszi a befektetési vállalkozás számára, hogy az ügyfelet a fedezet rendszeres – akár napi gyakorisággal történő – kiegészítésére kötelezze;
 
+80a.[^4] újraértékpapírosítás: olyan értékpapírosítás, ahol az alapul szolgáló kitettségek halmazához (pooljához) tartozó hitelkockázat ügyletrész-sorozatba kerül besorolásra, és az alapul szolgáló kitettségek legalább egyike értékpapírosítási pozíció;
+
+80b.[^5] újraértékpapírosítási pozíció: az újraértékpapírosítási ügyletben vállalt hitelkockázati kitettség;
+
 81. ügyletrész-sorozat (tranche): az értékpapírosítási ügylet alapjául szolgáló egy vagy több kitettség hitelkockázatának szerződésben rögzített, elkülönülő része, ahol e rész egy pozíciójához nagyobb vagy kisebb hitelkockázat kapcsolódik, mint az ügylet más részének ugyanilyen méretű pozíciójához tartozó hitelkockázata, figyelmen kívül hagyva a harmadik fél által az adott értékpapírosítási pozícióval rendelkezőnek nyújtott hitelkockázati fedezeteket;
 
 82. üzleti egység: a befektetési vállalkozás vagy a leányvállalata által meghatározott szempontok szerint egyértelműen körülhatárolható, homogén és más kitettségtől eltérő módon kezelt kitettségek csoportja;
@@ -220,4 +224,8 @@ g) elismert elszámolóház;
 
 87. veszteség: a hitelkockázat esetén olyan gazdasági veszteség, amely tartalmazza a behajtás közvetlen és közvetett költségeit is, és a behajtási összegek, költségek tekintetében figyelembe veszi a pénz időértékét.
 
-[^1]: Az 1. § (2) bekezdés 66. pontja a 349/2010. (XII. 28.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^1]: Az 1. § (2) bekezdés 61. pontja a 348/2011. (XII. 30.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés 62. pontja a 348/2011. (XII. 30.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés 66. pontja a 349/2010. (XII. 28.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés 80a. pontja a 348/2011. (XII. 30.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^5]: Az 1. § (2) bekezdés 80b. pontja a 348/2011. (XII. 30.) Korm. rendelet 29. § (2) bekezdése iktatta be.
