@@ -1,3 +1,0 @@
-3. § Az Alkotmány 27. §-a helyébe a következő rendelkezés lép:
-
-„27. § Az Országgyűlés tagjai az állampolgári, valamint a nemzeti és etnikai kisebbségi jogok országgyűlési biztosaihoz, az Állami Számvevőszék elnökéhez, a legfőbb ügyészhez és a Magyar Nemzeti Bank elnökéhez kérdést, a Kormányhoz és a Kormány bármely tagjához interpellációt és kérdést intézhetnek a feladatkörükbe tartozó minden ügyben.”
