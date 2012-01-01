@@ -1,16 +1,16 @@
 ## Országos Területfejlesztési Tanács
 
-8. § (1) Az Országos Területfejlesztési Tanács (a továbbiakban: Tanács) közreműködik a területfejlesztéssel és a területrendezéssel kapcsolatos kormányzati feladatok ellátásában, valamint dönt az e törvényben meghatározott esetekben.
+8. § (1) Az Országos Területfejlesztési Tanács (a továbbiakban: Tanács) közreműködik a területfejlesztéssel és a területrendezéssel kapcsolatos kormányzati feladatok ellátásában.
 
 (2) A Tanács munkájában
 
 a) szavazati joggal rendelkező tagként vesznek részt:
 
-aa) a területfejlesztési szervek részéről: a regionális fejlesztési tanácsok elnökei, valamint a főpolgármester,
+aa) a területfejlesztési szervek részéről: a megyei közgyűlések elnökei, valamint a főpolgármester,
 
 ab) a Kormány részéről: a területfejlesztésért felelős miniszter (a továbbiakban: miniszter), valamint a Kormány határozatában kijelölt további nyolc miniszteri képviselő,
 
-ac) köztestületek és érdekszövetségek részéről: az országos gazdasági kamarák elnökei; az Országos Érdekegyeztető Tanács munkaadói és munkavállalói oldalának egy-egy képviselője; az országos önkormányzati érdekszövetségek összesen három képviselője;
+ac) köztestületek és érdekszövetségek részéről: az országos gazdasági kamarák elnökei; a Nemzeti Gazdasági és Társadalmi Tanács egy képviselője; az országos önkormányzati érdekszövetségek összesen három képviselője;
 
 b) tanácskozási joggal rendelkező tagként vesznek részt:
 
@@ -20,7 +20,7 @@ bb) a nők és férfiak esélyegyenlőségéért küzdő országos szervezetek e
 
 c) meghívottként, a tevékenységüket, illetve szervezetüket érintő napirendek tárgyalásán tanácskozási joggal részt vesznek mindazon szervezetek vezetői, amelyeket a Tanács döntése közvetlenül érint. A Tanács az ügyrendjében dönthet az állandó meghívottakról.
 
-(3) Konzultációs joggal rendelkeznek mindazon bírósági nyilvántartásba vett országos egyesületek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre. Az egyeztető fórum véleményét a Tanács ülésén az adott napirend tárgyalásakor ismertetni kell.
+(3) A bírósági nyilvántartásba vett országos civil szervezetek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hozhatnak létre, egyidejűleg jelezve együttműködési szándékukat a Tanácsnak. Az egyeztető fórum véleményét a Tanács ülésén az adott napirend tárgyalásakor ismertetni kell.
 
 (4) A Tanács
 
@@ -32,9 +32,9 @@ c) véleményezi a területfejlesztési támogatások és a decentralizáció ir
 
 d) javaslatot tesz a területfejlesztési célú ágazati eszközök összehangolására,
 
-e) véleményt nyilvánít a területfejlesztést szolgáló hazai és közösségi pénzeszközök felosztásáról, a központi keret felhasználásáról, valamint a Kormány, a minisztériumok és a regionális fejlesztési tanácsok közötti megállapodás tartalmáról,
+e) véleményt nyilvánít a területfejlesztést szolgáló hazai és közösségi pénzeszközök felosztásáról, a központi keret felhasználásáról,
 
-f) vizsgálja és értékeli az érintett minisztériumok és az országos hatáskörű szervek, illetve a területfejlesztési tanácsok fejlesztési célkitűzéseinek összhangját a területi politika céljaival,
+f) vizsgálja és értékeli az érintett minisztériumok és az országos hatáskörű szervek, illetve a megyei önkormányzatok fejlesztési célkitűzéseinek összhangját a területi politika céljaival,
 
 g) véleményezi a lényeges területi hatásokkal járó ágazati fejlesztési koncepciókat,
 
@@ -60,12 +60,12 @@ c) a tanácskozási joggal rendelkező tagokat – akadályoztatásuk esetén �
 
 (9) E törvény alkalmazásában
 
-a) a (2) bekezdés b) pontjában foglalt országos szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirata szerinti tevékenységét legalább hét megyére kiterjedően végzi, és ezt jogszabályban meghatározott módon, hitelt érdemlően igazolja;
+a) a (2) bekezdés b) pontjában és a (3) bekezdésben foglalt országos szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirata szerinti tevékenységét legalább hét megyére kiterjedően végzi, és ezt hitelt érdemlően igazolja;
 
-b) a 14. § (4) bekezdésében foglalt megye területén működő szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirata szerinti tevékenységét legalább a megyében levő kistérségek több mint felére kiterjedően végzi, és ezt jogszabályban meghatározott módon, hitelt érdemlően igazolja;
+b) a 14. § (4) bekezdésében foglalt megye területén működő szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirata szerinti tevékenységét a megye területének több mint felére kiterjedően végzi, és ezt hitelt érdemlően igazolja.
 
-c) a 17. § (8) bekezdésében foglalt régió területén működő szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirat szerinti tevékenységét legalább egy megyére kiterjedően végzi, és ezt jogszabályban meghatározott módon, hitelt érdemlően igazolja;
+c)
 
-d) a 10/D. § (2) bekezdésében foglalt kistérségben működő szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirat szerinti tevékenységét legalább a kistérség településeinek több mint felében vagy a népesség több mint felét jelentő településeken végzi, és ezt jogszabályban meghatározott módon, hitelt érdemlően igazolja.
+d)
 
 (10) A (9) bekezdés alkalmazásában szervezet alatt az egyesülési jogról, közhasznúságról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezetet kell érteni.

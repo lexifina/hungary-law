@@ -6,24 +6,18 @@
 
 (2) A területrendezési terv a területfejlesztési koncepciókban megállapított célokkal összhangban meghatározza a térségi területhasználat módját.
 
-(3) A területrendezési terv tartalmazza továbbá:
+(3) A területrendezési terv tartalmazza
 
-a) a térségi műszaki-infrastrukturális rendszerek térbeli rendjét;
+a) a térségi szerkezeti tervet,
 
-b) a térség hosszú távú területi szerkezetét;
+b) a térségi övezeti tervlapokat és
 
-c) az egyes térségek adottságainak célszerű hasznosítását;
-
-d) a környezet-, a táj- és természetvédelemmel kapcsolatos térségi feladatokat;
-
-e) területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot;
-
-f) a sporttal kapcsolatos térségi feladatokat.
+c) a területrendezési szabályozási előírásokat.
 
 (4) A területfejlesztési és ágazati programok, valamint a településrendezési tervek készítése, egyeztetése és elfogadása során figyelembe kell venni az országos, regionális és megyei területrendezési tervben foglaltakat.
 
 (5)
 
-(6) A területrendezési terv (3) bekezdés c) pontjában meghatározott feladatainak tartalmaznia kell a fenntartható fejlődés, a környezeti elemekkel való gazdálkodás és a környezet minőségének térségi szempontjait.
+(6) A területrendezési tervnek tartalmaznia kell a fenntartható fejlődés, a környezeti elemekkel való gazdálkodás és a környezet minősége térségi szempontjait is.
 
-(7) A területrendezésre vonatkozó részletes szabályokat külön jogszabályok állapítják meg.
+(7)

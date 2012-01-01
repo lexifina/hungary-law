@@ -1,3 +1,1 @@
-23/E. § (1) A 6. § d) pontjában meghatározott kiemelt térségek területrendezési terveinek előkészítő fázisát követően a külön jogszabályban meghatározott döntéstől a területrendezési terv elfogadásáig – de legfeljebb 2 évig – az érintett települések, településrendezési tevékenységük során (beleértve a korábbi tervek módosítását és elfogadását is) a beépítésre szánt területük kiterjedését a hatályos településrendezési eszközeikben rögzítettekhez képest nem növelhetik.
-
-(2) Az (1) bekezdésben foglaltak megsértése miatt felmerülő kártalanítási ügyekben a kártalanítási kötelezettség a települési önkormányzatot terheli.
+23/E. § A területrendezési terveket legalább 10 évenként felül kell vizsgálni.

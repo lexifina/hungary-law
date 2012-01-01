@@ -1,4 +1,4 @@
-## A területfejlesztés hatékonyságát növelő feladat- és forráskoordináció
+## A területfejlesztés hatékonyságát növelő feladat– és forráskoordináció
 
 21/A. § (1) A fejlesztési források hatékonyabb felhasználása, a gazdaság arányosabb térszerkezetének kialakítása, a területi különbségek mérséklése érdekében a területfejlesztési célok megvalósítását szolgáló fejezeti kezelésű előirányzatok pályázati rendszerben történő felhasználása – az érintett miniszterek együttműködésével – a miniszter forráskoordinációjával történik. A forráskoordinációval kapcsolatos feladatok ellátásában a kormányzati területfejlesztési feladatokért felelős szerv külön jogszabályban meghatározott feladatkörében közreműködik.
 

@@ -6,8 +6,8 @@ a) előzetesen véleményezi illetékességi területén a terület- és telepü
 
 b) véleményezi az országos, valamint az illetékességi területét érintő regionális fejlesztési programokat és azoknak a területrendezési tervekkel való összhangját.
 
-c) állást foglal a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési terveknek az országos, a kiemelt térségi és a megyei területrendezési tervekkel való összhangjáról, a 23/A. §-ban foglaltak figyelembevételével;
+c) nyilatkozik a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési terveknek az országos, a kiemelt térségi és a megyei területrendezési tervekkel való összhangjáról, a 23/A. §-ban foglaltak figyelembevételével;
 
-d) ellátja a térségi terület-felhasználási engedélyezési eljárással összefüggő hatósági feladatokat;
+d) ellátja a területrendezési hatósági eljárással összefüggő hatósági feladatokat;
 
 e) szakhatóságként közreműködik a területrendezési tervekben szereplő külön jogszabályban meghatározott műszaki infrastruktúra hálózatok és egyedi építmények hatósági engedélyezési eljárásában.

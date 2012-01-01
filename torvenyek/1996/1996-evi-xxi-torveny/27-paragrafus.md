@@ -4,11 +4,11 @@ a) a központi államigazgatási szervek területfejlesztéssel és területrend
 
 b) a kedvezményezett területek besorolását;
 
-c) a kistérségi megbízottak és a regionális koordinátorok jogállásának és tevékenységének részletes szabályait;
+c) a településrendezési eszköz területrendezési tervvel való összhangját igazoló területrendezési hatósági eljárás részletes szabályait;
 
 d) a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeit, továbbá illeszkedésük, kidolgozásuk és közzétételük részletes szabályait, valamint egyeztetésük, elfogadásuk rendjét;
 
-e) a vállalkozási övezetek létrehozásának és működésének szabályait;
+e) a szabad vállalkozási zónák létrehozásának és működésének, valamint a kedvezmények igénybevételének szabályait;
 
 f) a területfejlesztéssel és területrendezéssel kapcsolatos információs rendszert és a kötelező adatközlés szabályait;
 
@@ -22,23 +22,23 @@ j) a területfejlesztés intézményei törvényességi felügyeletének részle
 
 j)
 
-k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait;
+k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait, valamint a pénzeszközök felhasználásának részletes szabályait,
 
 l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegyűjtésével, számbavételével, megvalósításának kidolgozásával, és ezzel kapcsolatos adatszolgáltatás rendjével kapcsolatos feladatait és eljárás rendjét;
 
-m) a kistérségi fejlesztési tanácsok szakmai munkaszervezetei (szolgáltató irodák) létrehozásának, valamint működésének részletes szabályait;
+m) az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjét;
 
-n) a Kormány általános hatáskörű területi államigazgatási szervének a kistérségi fejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával és a térségi fejlesztési tanács átalakulásával kapcsolatos feladatait, a megalakulással és átalakulással kapcsolatos eljárás rendjét, továbbá az egyeztető fórumok létrejöttének és működésének szabályait;
+n) a Kormány általános hatáskörű területi államigazgatási szervének, a kistérségi, térségi és regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét;
 
-o) a regionális fejlesztési tanácsokkal a régió társadalmi, gazdasági fejlesztése érdekében kötendő megállapodások részletes szabályait;
+o) a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 
 p) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat-köteles eljárások körét, a területi hatásvizsgálat készítésének eljárási szabályait és tartalmi követelményeit;
 
 q) az országos és a térségi műszaki infrastruktúrahálózatoknak a területrendezési tervek szerkezeti tervében ábrázolt nyomvonalától való kivételes eltérésre vonatkozó területrendezési hatósági eljárás részletes szabályait;
 
-r) a kormányzati területfejlesztési feladatokért felelős szerv vagy szervek kijelölését,
+r) a kormányzati területfejlesztési és területrendezési feladatokért felelős szerv vagy szervek kijelölését;
 
-s) az állami főépítész vagy főépítészek kijelölését,
+s) az állami főépítész vagy főépítészek kijelölését és feladatkörük szabályozását;
 
 t) a területrendezési tervekben nem szereplő, térségi jelentőségű műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezésére, beillesztésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 
@@ -62,12 +62,12 @@ f) a területfejlesztést közvetlenül vagy közvetve szolgáló források felh
 
 g) a 12. § (2) bekezdése szerinti adatszolgáltatás szabályait.
 
-(3) Felhatalmazást kap a turizmusért felelős miniszter, hogy rendeletben határozza meg a Regionális Idegenforgalmi Bizottságok feladatait és működésük részletes szabályait.
+(3)
 
 (4) A regionális fejlesztési tanács a megalakulása időpontjától jogutódja a megalakulása előtt ugyanazon tervezési-statisztikai régióban működő regionális fejlesztési tanácsnak. Amennyiben az újonnan megalakult regionális fejlesztési tanács működési területe eltér az előző regionális fejlesztési tanács működési területétől, az érintett felálló regionális fejlesztési tanácsok a jogutódlásról a megalakulásuktól számított 90 napon belül állapodnak meg. A Budapesti Agglomerációs Fejlesztési Tanács jogutódja a Közép-Magyarországi Regionális Fejlesztési Tanács.
 
 (5) A miniszter évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a tanácsok működéséről.
 
-(6) Felhatalmazást kap a Kormány, hogy a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+(6)
 
-(7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a tervtanács működésének szabályait rendeletben állapítsa meg.
+(7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a területrendezési feladatok előirányzat felhasználásának szabályait rendeletben állapítsa meg.

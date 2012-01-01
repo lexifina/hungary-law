@@ -1,0 +1,5 @@
+28. § (1) A megszűnő regionális fejlesztési tanács, valamint a megszűnő megyei területfejlesztési tanács jogutódja a területileg érintett megyei önkormányzat. Azon jog és kötelezettség tekintetében, amelynél egy vagy több megye területi kizárólagos érintettsége nem állapítható meg, a régiót alkotó megyei önkormányzatok egyetemleges jogutódok.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően a regionális fejlesztési ügynökség a megszűnő regionális fejlesztési tanácsok és megyei területfejlesztési tanácsok könyveiben 2011. december 31-én szereplő értéken, térítésmentesen a magyar állam tulajdonába kerül.
+
+(3) A megszűnő Budapesti Agglomerációs Fejlesztési Tanács jogutódja a főváros területi érintettsége esetén Budapest Főváros Önkormányzata, Pest megye területi érintettsége esetén a Pest Megyei Önkormányzat. Azon jog és kötelezettség tekintetében, amelynél Budapest Főváros Önkormányzata vagy Pest megye kizárólagos területi érintettsége nem állapítható meg, Budapest Főváros Önkormányzata és a Pest Megyei Önkormányzat egyetemleges jogutódok.

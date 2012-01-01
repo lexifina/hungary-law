@@ -1,12 +1,14 @@
 ## Térségi Fejlesztési Tanács
 
-15. § (1) A régió határokon, illetve a megyehatárokon túlterjedő, továbbá egyes kiemelt területfejlesztési feladatok ellátására a regionális fejlesztési tanácsok, illetve a megyei területfejlesztési tanácsok a szervezeti és működési szabályzat elfogadásával térségi fejlesztési tanácsot hozhatnak létre. A térségi fejlesztési tanács jogi személy, nyilvántartására vonatkozóan a 10/A. § (2) bekezdésének szabályai, gazdálkodására és beszámolási kötelezettségére a 12. § (2) bekezdésének szabályai az irányadók.
+15. § (1) A régió határokon, illetve a megyehatárokon túlterjedő, továbbá egyes kiemelt területfejlesztési feladatai ellátására a megyei közgyűlések a szervezeti és működési szabályzat elfogadásával térségi fejlesztési tanácsot hozhatnak létre. A térségi fejlesztési tanács jogi személy, amelyet megalakulását követően a kincstár vesz nyilvántartásba.
+
+(1a) A térségi fejlesztési tanács működésével kapcsolatos gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni az e törvényben meghatározott sajátosságok figyelembevételével. A feladat ellátásával kapcsolatos beszámolási kötelezettséget – figyelemmel a Kormánynak az Országgyűlés számára a 6. § g) pontjában előírt beszámolási kötelezettségére – a térségi fejlesztési tanács a miniszternek köteles teljesíteni a miniszter rendeletében meghatározott módon.
 
 (2) A területfejlesztési koncepció és program kidolgozását, a területrendezési terv készítésében való közreműködést és más közös területfejlesztési feladatokat a Balaton kiemelt üdülőkörzete térségében a Balaton Fejlesztési Tanács látja el.
 
-(3) A térségi fejlesztési tanács létrehozásakor az (1) bekezdésben meghatározott feladatok tekintetében az érintett regionális fejlesztési tanácsok, illetve megyei területfejlesztési tanácsok szervezeti és működési szabályzatban rögzítik a 13. § (2) bekezdésében felsorolt feladatok figyelembevételével, hogy mely feladatokat látnak el a térségi fejlesztési tanács keretében.
+(3) A térségi fejlesztési tanács létrehozásakor az (1) bekezdésben meghatározott feladatok tekintetében az érintett megyei közgyűlések szervezeti és működési szabályzatban rögzítik a 13. § (2) bekezdésében felsorolt feladatok figyelembevételével, hogy mely feladatokat látnak el a térségi fejlesztési tanács keretében.
 
-(4) A térségi fejlesztési tanács térsége tekintetében javaslatot tesz a regionális fejlesztési koncepcióra és programra.
+(4) A térségi fejlesztési tanács térsége tekintetében javaslatot tesz a megyei fejlesztési koncepcióra és programra.
 
 (5) A (3) bekezdésben meghatározott szervezeti és működési szabályzatban
 
@@ -18,34 +20,28 @@ c) a munkaszervezeti feladatok ellátásáról, illetve elkülönült munkaszerv
 
 is rendelkezni kell.
 
-A törvény alapján kötelezően létrehozott térségi fejlesztési tanács működéséhez szükséges pénzügyi fedezet biztosításával kapcsolatosan a 16. § (4) bekezdésében foglaltak az irányadók azzal a kiegészítéssel, hogy az egyes szavazati joggal rendelkező nem kormányzati szervezeteket terhelő befizetési kötelezettség csak az adott szervezetet képviselő tag egyetértése esetén haladhatja meg a térségi fejlesztési tanács által meghatározott összes befizetési kötelezettség összegének 15 százalékát.
+(6) A törvény alapján kötelezően létrehozott térségi fejlesztési tanács működéséhez szükséges pénzügyi fedezet biztosításával kapcsolatosan a 16. § (4) bekezdésében foglaltak az irányadóak azzal a kiegészítéssel, hogy az egyes szavazati joggal rendelkező nem kormányzati szervezeteket terhelő befizetési kötelezettség csak az adott szervezetet képviselő tag egyetértése esetén haladhatja meg a térségi fejlesztési tanács által meghatározott összes befizetési kötelezettség összegének 15 százalékát.
 
-(6) A térségi fejlesztési tanács szervezeti és működési szabályzatát a 16. § (5), (7) és (9) bekezdéseiben foglaltak szerint alkotja meg és fogadja el. A térségi fejlesztési tanács határozatképességét, valamint a döntések meghozatalával kapcsolatos eljárást a 16. § (8) bekezdése szerint állapítja meg.
+(7) A térségi fejlesztési tanács megállapodhat a megyei közgyűlésekkel és más, a térségi fejlesztési programokban közreműködőkkel a programok és fejlesztések finanszírozásáról.
 
-(7) A térségi fejlesztési tanács megállapodhat a regionális fejlesztési, a megyei területfejlesztési és a kistérségi fejlesztési tanácsokkal és más, a térségi fejlesztési programokban közreműködőkkel a programok és fejlesztések finanszírozásáról.
+(8) A térségi fejlesztési tanács tagjai
 
-(8) A térségi fejlesztési tanács tagjai:
+a) a tanács illetékességi területén működő megyei közgyűlések elnökei,
 
-a) a tanács illetékességi területén működő megyei területfejlesztési tanácsok elnökei,
+b) az érintett megyei közgyűlés egy-egy képviselője, továbbá
 
-b) az érintett regionális fejlesztési tanács képviselője,
+c) a Balaton Fejlesztési Tanács tekintetében: a Kormány képviselője.
 
-c) az érintett kistérségi fejlesztési tanácsok által delegált legfeljebb három képviselő,
-
-továbbá a Balaton Fejlesztési Tanács tekintetében:
-
-d) a Kormány képviselője.
-
-(9) A térségi fejlesztési tanács a tanácsban való részvételre minisztert vagy minisztereket is felkérhet. A térségi fejlesztési tanácsban való részvételt a részvételben érdekelt miniszter is kezdeményezheti.
+(9)
 
 (10) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is, de ezek létszáma a (8) bekezdés szerinti létszám egyharmadát nem haladhatja meg.
 
-(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a Kormány általános hatáskörű területi államigazgatási szerve vezetője, az állami főépítész, valamint mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a megyei területfejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
+(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a Kormány általános hatáskörű területi államigazgatási szerve vezetője, az állami főépítész, valamint mindazon gazdasági, civil és egyéb szervezetek képviselői, amelyeket a térségi fejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
 
-(12) A kistérségi fejlesztési tanács illetékes képviselői a területüket érintő fejlesztési programok tárgyalása során a térségi fejlesztési tanácsban szavazati joggal vehetnek részt.
+(12)
 
 (13) A térségi fejlesztési tanács a tagjai sorából elnököt és alelnököt (alelnököket) választ. Munkaszervezetét – a 12. § (4) bekezdésben foglaltak figyelembevételével – maga alakítja ki.
 
 (14) A Balaton Fejlesztési Tanács dönt a hatáskörébe utalt pénzeszközök felhasználásáról, és megállapodást köthet az érintett tárcákkal az egyes fejlesztési programok finanszírozásáról.
 
-(15) A térségi fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(15)

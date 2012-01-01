@@ -4,4 +4,4 @@
 
 (2) A tervezés folyamatáról és a tervek elfogadásáról tényközlő és általános ismertető híradást kell közzétenni az érintett térségi, szükség esetén országos tömegtájékoztatási eszközökben.
 
-(3) A tervezéssel összefüggő részletes szabályokat, így különösen a tervek elkészítésének szakmai szabályait, elfogadásának rendjét jogszabály állapítja meg. A területrendezési tervek szakmai tartalmának elbírálását a külön jogszabályban meghatározott tervtanácsok végzik.
+(3) A tervezéssel összefüggő részletes szabályokat, így különösen a tervek elkészítésének szakmai szabályait, elfogadásának rendjét jogszabály állapítja meg.

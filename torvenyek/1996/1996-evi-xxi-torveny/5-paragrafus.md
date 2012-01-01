@@ -20,21 +20,21 @@ bc) a fejlesztési koncepciók és programok térbeli, műszaki-fizikai rendszer
 
 bd) nemzetközi együttműködés és szerződés keretében az európai és határmenti területrendezési tevékenység összehangolása;
 
-c) területrendezési terv: az ország, illetve egyes térségek nagytávlatú műszaki-fizikai szerkezetét meghatározó és befolyásoló tervdokumentum, amely biztosítja a területi adottságok és erőforrások hosszú távú hasznosítását és védelmét, az ökológiai elvek érvényesítését, a műszaki-infrastrukturális hálózatok összehangolt elhelyezését és a területfelhasználás rendszerét, optimális hosszú távú területi szerkezetét;
+c) területrendezési terv: az ország, illetve egyes térségek műszaki-fizikai szerkezetét meghatározó és befolyásoló tervdokumentum, amely biztosítja a területi adottságok és erőforrások hosszú távú, illetve nagy távú hasznosítását és védelmét, az ökológiai elvek érvényesítését, a műszaki-infrastrukturális hálózatok összehangolt elhelyezését és a területfelhasználás rendszerét, optimális hosszú távú területi szerkezetét;
 
 d) területfejlesztési politika: az ország és az egyes térségek területi fejlődése fő irányainak, fejlesztési stratégiai céljainak és az ezek elérését segítő legfontosabb eszközöknek hosszabb időtávra szóló meghatározása és érvényesítése;
 
-e) régió: tervezési-statisztikai és fejlesztési célokat szolgáló egy vagy több megyére (a fővárosra) kiterjedő, az érintett megyék közigazgatási határával lehatárolt társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő területfejlesztési egység;
+e) régió: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 2003. május 26-i 1059/2003/EK európai parlamenti és tanácsi rendelet által meghatározott, a tervezési-statisztikai és fejlesztési célokat szolgáló egy vagy több megyére (a fővárosra) kiterjedő, az érintett megyék (főváros) közigazgatási határával lehatárolt társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő területfejlesztési egység;
 
-f) kiemelt térség: egy vagy több megyére (a fővárosra), vagy azok meghatározott területére kiterjedő, társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő területi egység, amely egységes tervezéséhez és fejlesztéséhez országos érdekek vagy más jogszabályban meghatározott célok is fűződnek (fővárosi agglomeráció, kiemelt üdülőkörzet, több megyét érintő nemzeti parkok, illetve tájvédelmi körzetek térsége, határmenti, illetve más sajátos térségek);
+f) kiemelt térség: egy vagy több megyére (a fővárosra) vagy azok meghatározott területére kiterjedő, társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő területi egység, amely egységes tervezéséhez és fejlesztéséhez országos érdekek fűződnek;
 
-g) városkörnyék: városközpontú kistérség, a fejlesztések összehangolása érdekében kialakult önszerveződő területi egység;
+g)
 
-h) kistérség: a települések között létező funkcionális kapcsolatrendszerek összessége alapján lehatárolható területfejlesztési-statisztikai egység. A kistérségek területe teljes mértékben és ismétlésmentesen lefedi az ország területét és illeszkedik a területfejlesztési-statisztikai régió, a megye, valamint más kistérség határaihoz. Minden település közigazgatási területe csak egy kistérségbe tartozik.
+h)
 
-i) térség: különböző területi egységek (a régió, a megye, a kiemelt térség és a kistérség) összefoglaló elnevezése;
+i) térség: különböző területi egységek (a régió, a megye, ezek területének egy része és a kiemelt térség) összefoglaló elnevezése;
 
-j) vállalkozási övezet: a régió fejlődése érdekében létrehozott, a területén folytatott tevékenységhez sajátos pénzügyi kedvezmények igénybevételét biztosító, területileg lehatárolt termelési és szolgáltató terület;
+j) szabad vállalkozási zóna: a térség fejlődése érdekében, a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal, illetve helyrajzi számokkal lehatárolt, különböző feltételek teljesítése mellett, sajátos kedvezmények igénybevételét biztosító, a fejlesztés szempontjából együtt kezelt térség;
 
 k) elmaradott térség: ahol a gazdaság értéktermelő képessége, infrastrukturális fejlettsége és társadalmi mutatói jelentősen kedvezőtlenebbek az országos átlagnál;
 
@@ -44,12 +44,12 @@ m) területfejlesztési koncepció: az ország, illetve egy térség átfogó t�
 
 n) területfejlesztési program: a területfejlesztési koncepció alapján kidolgozott középtávú cselekvési terv, amely stratégiai és operatív programokra épül;
 
-o) szerkezetátalakítás térségei: azok az aránytalan ipari szerkezetű munkaerő-piaci vonzáskörzetek, ahol a munkanélküliség aránya jelentősen, és az ipari foglalkoztatottak aránya, továbbá csökkenése meghaladja az országos átlagot;
+o)
 
-p) mezőgazdasági vidékfejlesztés térségei (rurális térségek): azok a térségek, ahol jelentős a mezőgazdaságban foglalkoztatottak, illetve a mezőgazdasággal foglalkozók aránya a foglalkoztatási szerkezetben, illetve a községekben, továbbá a kisvárosokban élő népesség aránya;
+p)
 
 r) innovációs központok: azon megfelelő termelési és szellemi háttérrel, illetve kapcsolatrendszerrel rendelkező települések, amelyek a gazdaság növekedését, szerkezetváltását és megújulását, illetve a társadalmi fejlődést nagyobb térségben segítik elő, vagy mindezek elérése érdekében tudatos fejlesztési politika érvényesül;
 
 s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja;
 
-t) területcsere: olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszavonttal megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni.
+t) területcsere: a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszavonttal megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni.

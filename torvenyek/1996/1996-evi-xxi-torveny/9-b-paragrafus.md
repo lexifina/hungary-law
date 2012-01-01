@@ -4,4 +4,6 @@ a) koncepciókat és javaslatokat készít az országos területfejlesztési pol
 
 b) kidolgozza az országos fejlesztési koncepciót, valamint az országos területfejlesztési koncepciót, összehangolja az országos és a térségi területfejlesztési koncepciókat és programokat;
 
-c) elősegíti a területfejlesztési koncepciók és programok összhangját.
+c) elősegíti a területfejlesztési koncepciók és programok összhangját;
+
+d) legalább négyévente felülvizsgálja a kedvezményezett területek besorolását, és szükség esetén javaslatot tesz annak módosítására.

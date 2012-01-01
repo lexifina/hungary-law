@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-21-00-00
 | 2011-08-01 | 2011. évi CV. törvény | 1996-21-00-00.28 |
 | 2011-09-01 | 2011. évi LXXXVIII. törvény | 1996-21-00-00.29 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1996-21-00-00.30 |
+| 2012-01-01 | 2011. évi CXCVIII. törvény | 1996-21-00-00.31 |

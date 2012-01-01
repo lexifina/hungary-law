@@ -32,7 +32,7 @@ c) az országos és térségi, továbbá a területrendezéssel kapcsolatos tele
 
 a) az elmaradott térségek felzárkóztatása,
 
-b) a szerkezetátalakítás térségeinek fejlesztése,
+b)
 
 c) a közszolgáltatásokban meglévő területi különbségek mérséklése,
 

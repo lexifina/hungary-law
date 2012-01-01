@@ -12,11 +12,11 @@ b) beszámoltatja a Kormányt a területfejlesztési politika végrehajtásáró
 
 c) meghatározza a kiemelt térségek körét és elfogadja a területfejlesztés eszköz- és intézményrendszerének átfogó szabályait;
 
-d) törvénnyel elfogadja az ország, a Budapesti Agglomeráció, a Balaton Kiemelt Üdülőkörzet területrendezési tervét, valamint a régiók területi lehatárolására és székhelyére vonatkozó szabályozást.
+d) törvénnyel elfogadja az ország, a Budapesti Agglomeráció, a Balaton Kiemelt Üdülőkörzet területrendezési tervét;
 
 e) meghatározza a területfejlesztési támogatások és a decentralizáció elveit, a kedvezményezett térségek besorolásának feltételrendszerét;
 
-f) az éves költségvetési törvény elfogadása során dönt a területfejlesztést szolgáló pénzeszközökről és ezzel egyidejűleg egyes pénzügyi kedvezményekről;
+f) az éves költségvetési törvény elfogadása során dönt a területfejlesztést és területrendezést szolgáló pénzeszközökről és ezzel egyidejűleg egyes pénzügyi kedvezményekről;
 
 g) évente beszámoltatja a Kormányt a területfejlesztést szolgáló pénzeszközök felhasználásáról;
 
