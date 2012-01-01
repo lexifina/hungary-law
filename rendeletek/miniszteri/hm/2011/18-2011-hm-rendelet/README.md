@@ -1,0 +1,9 @@
+# 18/2011. (XII. 29.) HM rendelet
+
+a honvédelmi szervezetek jogi képviseletéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-18-20-15
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-01-01 | 2011-18-20-15.1 | 18/2011. (XII. 29.) HM rendelet |

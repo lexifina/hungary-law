@@ -1,0 +1,1 @@
+## 4. § Amennyiben azt az ügy tárgya, a felek személye vagy az eljáró hatóság hatásköre indokolja, a jogi képviselet ellátásával a miniszter ügyvédi irodát vagy egyéni ügyvédet (a továbbiakban: ügyvéd) hatalmazhat meg.
