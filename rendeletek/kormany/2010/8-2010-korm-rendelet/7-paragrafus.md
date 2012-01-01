@@ -1,6 +1,6 @@
-## 6. §[^13] A Kormány általános hatáskörű területi államigazgatási szerve a pályázati dokumentáció alapján az 5. melléklet szerinti adatlapon a szakértői nyilatkozatok alapján észrevételt tesz a Vis maior eseményekkel kapcsolatos költségekről és az igényelt támogatás segítségével megvalósítandó feladatokról.
+## 6. §[^14] A Kormány általános hatáskörű területi államigazgatási szerve a pályázati dokumentáció alapján az 5. melléklet szerinti adatlapon a szakértői nyilatkozatok alapján észrevételt tesz a Vis maior eseményekkel kapcsolatos költségekről és az igényelt támogatás segítségével megvalósítandó feladatokról.
 
-7. §[^14] (1) A támogatási igényekről – a Kormány általános hatáskörű területi államigazgatási szerve 6. § szerinti véleményének figyelembevételével – a káreseményhez kapcsolódó közfeladatokért felelős fejezetet irányító szervnek megküldött pályázati dokumentációval kapcsolatos szakmai vélemények és javaslatok minisztériumnak történő megküldését követően a miniszter dönt. A támogatói okiratban megfogalmazott miniszteri döntés elkülönítetten tartalmazza:
+7. §[^15] (1) A támogatási igényekről – a Kormány általános hatáskörű területi államigazgatási szerve 6. § szerinti véleményének figyelembevételével – a káreseményhez kapcsolódó közfeladatokért felelős fejezetet irányító szervnek megküldött pályázati dokumentációval kapcsolatos szakmai vélemények és javaslatok minisztériumnak történő megküldését követően a miniszter dönt. A támogatói okiratban megfogalmazott miniszteri döntés elkülönítetten tartalmazza:
 
 a) a támogatással elismert számlával igazolt védekezési költségekhez, illetve
 
@@ -16,7 +16,7 @@ b) az Igazgatóság a benyújtott számlák és a támogatásigénylések adatai
 
 c) a Kincstár a minisztérium utalványozása alapján teljesíti a támogatás Támogatott számlájára történő utalását,
 
-d)[^15] a támogatás lehívására a miniszteri döntést követő 12 hónapon belül – elszámolási határidő-módosítás esetén legfeljebb 24 hónapon belül – benyújtott számlák esetében van lehetőség. A 3. § (10) bekezdés szerinti esetben a támogatás felhasználásának végső határidejét a Kormány határozza meg.
+d)[^16] a támogatás lehívására a miniszteri döntést követő 12 hónapon belül – elszámolási határidő-módosítás esetén legfeljebb 24 hónapon belül – benyújtott számlák esetében van lehetőség. A 3. § (10) bekezdés szerinti esetben a támogatás felhasználásának végső határidejét a Kormány határozza meg.
 
 (3) Különösen súlyos természeti, a település nagyobb részét érintő károk (pl. földrengés, árvíz, lakott területen belüli nagy kiterjedésű belvíz, tornádó, tűzvész, robbanás, pince-, vagy partfalomlás, földcsuszamlás) mérséklésére a védekezési, helyreállítási támogatás részben, előleg formájában azonnali segítségnyújtásként is folyósítható a miniszter előzetes döntésével, a Kincstár felé történő utalványozással, a kedvezményezettet terhelő elszámolási kötelezettséggel. A helyreállításhoz kapcsolódó előleg a jelzett helyreállítási költségek legfeljebb 15%-ának megfelelő összeg lehet, amellyel az első teljesítésarányos kifizetésig kell elszámolni. A védekezési költségekhez kapcsolódó előleg a jelzett védekezési költségek legfeljebb 50%-ának megfelelő összeg lehet.
 
@@ -54,11 +54,11 @@ o) az építési engedély köteles helyreállítások esetén az építési eng
 
 becsatolásával köteles az Igazgatóság és a Kormány általános hatáskörű területi államigazgatási szerve felé – papír alapon és a 6. melléklet tekintetében elektronikus úton is az ebr42 rendszerben – elszámolni.
 
-(4a)[^16] A (4) bekezdésben meghatározott határidő módosítására egy alkalommal, legfeljebb az elszámolási határidő 24 hónapra történő megváltoztatásával van lehetőség, amennyiben az önkormányzaton kívül álló szervezet tevékenysége vagy időjárási körülmények akadályozzák a határidő betartását. A kérelemhez csatolni kell a határidő módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdését, a helyreállítás befejezésének várható új időpontját, és részletezi az elszámolást akadályozó körülményeket.
+(4a)[^17] A (4) bekezdésben meghatározott határidő módosítására egy alkalommal, legfeljebb az elszámolási határidő 24 hónapra történő megváltoztatásával van lehetőség, amennyiben az önkormányzaton kívül álló szervezet tevékenysége vagy időjárási körülmények akadályozzák a határidő betartását. A kérelemhez csatolni kell a határidő módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdését, a helyreállítás befejezésének várható új időpontját, és részletezi az elszámolást akadályozó körülményeket.
 
 (5) A Kormány általános hatáskörű területi államigazgatási szervének képviselője és a Katasztrófavédelmi Igazgatóság képviselője a helyreállítás során annak befejezéséig a támogatás felhasználását a helyszínen ellenőrizheti.
 
-(6) Helyreállítás esetében az elszámolás elfogadását megelőzően a Kormány általános hatáskörű területi államigazgatási szerve, a káresemény jellegétől függően a Katasztrófavédelmi Igazgatóság, területileg illetékes környezetvédelmi és vízügyi igazgatóság, Közlekedésfejlesztési Koordinációs Központ és a településfejlesztésért és településrendezésért felelős miniszter által kinevezett szakértői bizottság képviselőiből álló bizottság a helyszínen ellenőrzést folytat, melyről – intézkedési javaslatok megtételével – 5 munkanapon belül értesíti az Igazgatóságot.
+(6)[^18] Helyreállítás esetében az elszámolás elfogadását megelőzően a Kormány általános hatáskörű területi államigazgatási szerve, a káresemény jellegétől függően a Katasztrófavédelmi Igazgatóság, területileg illetékes vízügyi igazgatóság, Közlekedésfejlesztési Koordinációs Központ és a településfejlesztésért és településrendezésért felelős miniszter által kinevezett szakértői bizottság képviselőiből álló bizottság a helyszínen ellenőrzést folytat, melyről – intézkedési javaslatok megtételével – 5 munkanapon belül értesíti az Igazgatóságot.
 
 (7) Az elszámolásokról, illetve az esetleges visszafizetési kötelezettség előírásáról az Igazgatóság dönt, amelyről értesíti a Támogatottat és a minisztert. Az Igazgatóság ellenőrzi az esetleges visszafizetési kötelezettség teljesítését.
 
@@ -66,7 +66,8 @@ becsatolásával köteles az Igazgatóság és a Kormány általános hatáskör
 
 (9) A támogatás felhasználását a minisztérium, továbbá jogszabályban erre feljogosított egyéb szervek ellenőrizhetik.
 
-[^13]: A 6. § a 234/2010. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^14]: A 7. § a 243/2010. (X. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^15]: A 7. § (2) bekezdés d) pontja a 210/2011. (X. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^16]: A 7. § (4a) bekezdését a 210/2011. (X. 12.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 6. § a 234/2010. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^15]: A 7. § a 243/2010. (X. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^16]: A 7. § (2) bekezdés d) pontja a 210/2011. (X. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^17]: A 7. § (4a) bekezdését a 210/2011. (X. 12.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 7. § (6) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 30. § e) pontja szerint módosított szöveg.
