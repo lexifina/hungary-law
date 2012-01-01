@@ -8,7 +8,7 @@ b) az integrált ügyfélszolgálati irodához
 
 c) a magyar konzuli tisztviselőhöz, illetve
 
-d) a Kormány által kijelölt, az állampolgársági ügyintézésért felelős szervhez
+d) a Kormány által kijelölt, az állampolgársági ügyekben eljáró szervhez
 
 lehet benyújtani.
 

@@ -10,7 +10,7 @@ b) a magyar jog szerint büntetlen előéletű és a kérelem elbírálásakor e
 
 c) megélhetése és lakóhelye Magyarországon biztosított;
 
-d) honosítása a Magyar Köztársaság közbiztonságát és nemzetbiztonságát nem sérti;
+d) honosítása Magyarország közbiztonságát és nemzetbiztonságát nem sérti;
 
 e) igazolja, hogy alkotmányos alapismeretekből magyar nyelven eredményes vizsgát tett, vagy ez alól a törvény alapján mentesül.
 
@@ -38,6 +38,6 @@ c) hontalan.
 
 (6) A magyar állampolgár által örökbefogadott kiskorú gyermek lakóhelyétől függetlenül honosítható.
 
-(7) A köztársasági elnök a folyamatos magyarországi lakóhely tekintetében az (1)–(2) és (4) bekezdésekben meghatározott időtartam, valamint az (1) bekezdés c) és e) pontjában meghatározott feltétel alól – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) javaslatára – felmentést adhat, ha a kérelmező honosításához a Magyar Köztársaságnak fontos érdeke fűződik.
+(7) A köztársasági elnök a folyamatos magyarországi lakóhely tekintetében az (1)–(2) és (4) bekezdésekben meghatározott időtartam, valamint az (1) bekezdés c) és e) pontjában meghatározott feltétel alól – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) javaslatára – felmentést adhat, ha a kérelmező honosításához Magyarországnak fontos érdeke fűződik.
 
 (8) A magyar nyelvtudás igazolásától el lehet tekinteni cselekvőképtelen vagy korlátozottan cselekvőképes személyek esetében.

@@ -6,10 +6,10 @@
 
 (4) Az állampolgársági eskü szövege:
 
-,,Én, …………… esküszöm, hogy Magyarországot hazámnak tekintem. A Magyar Köztársaságnak hű állampolgára leszek, Alkotmányát és törvényeit tiszteletben tartom és megtartom. Hazámat erőmhöz mérten megvédem, képességeimnek megfelelően szolgálom. Isten engem úgy segéljen.''
+Én, ...................... esküszöm, hogy Magyarországot hazámnak tekintem. Magyarországnak hű állampolgára leszek, az Alaptörvényt és a jogszabályokat tiszteletben tartom és megtartom. Hazámat erőmhöz mérten megvédem, képességeimnek megfelelően szolgálom. Isten engem úgy segéljen.
 
-Az állampolgársági fogadalom szövege:
+(4a) Az állampolgársági fogadalom szövege:
 
-,,Én, …………… fogadom, hogy Magyarországot hazámnak tekintem. A Magyar Köztársaságnak hű állampolgára leszek, Alkotmányát és törvényeit tiszteletben tartom és megtartom. Hazámat erőmhöz mérten megvédem, képességeimnek megfelelően szolgálom.''
+Én, ...................... fogadom, hogy Magyarországot hazámnak tekintem. Magyarországnak hű állampolgára leszek, az Alaptörvényt és a jogszabályokat tiszteletben tartom és megtartom. Hazámat erőmhöz mérten megvédem, képességeimnek megfelelően szolgálom.
 
 (5) Az állampolgársági eskü és az állampolgársági fogadalom egyenértékű.

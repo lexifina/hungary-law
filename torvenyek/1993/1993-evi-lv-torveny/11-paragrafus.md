@@ -1,4 +1,4 @@
-11. § (1) A miniszter az érintett kérelmére állampolgársági bizonyítványban igazolja a magyar állampolgárság fennállását, megszűnését, illetőleg azt, hogy a bizonyítványban megjelölt személy nem magyar állampolgár.
+11. § (1) Az állampolgársági ügyekben eljáró szerv az érintett kérelmére állampolgársági bizonyítványban igazolja a magyar állampolgárság fennállását, megszűnését, illetve azt, hogy a bizonyítványban megjelölt személy nem magyar állampolgár.
 
 (2) Az állampolgársági bizonyítvány a kiállításától számított egy évig érvényes.
 
@@ -16,6 +16,6 @@ e) a döntéshozatal helyét, idejét, a kiadmányozó nevét, hivatali beosztá
 
 f) az állampolgársági bizonyítvány érvényességi idejét.
 
-(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozat felülvizsgálata a Fővárosi Bíróságtól kérhető.
+(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozat felülvizsgálata a Fővárosi Törvényszéktől kérhető.
 
 (5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi kérelem nem nyújtható be.
