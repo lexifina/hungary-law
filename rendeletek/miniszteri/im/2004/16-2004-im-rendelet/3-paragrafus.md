@@ -6,7 +6,7 @@ a) a színes megjelölést színes kivitelben;
 
 b) a térbeli alakzatot síkbeli ábrázolásban;
 
-c) a szín-, fény- és hologram-megjelölést ábrában vagy képben;
+c)[^2] a színmegjelölést ábrában vagy képben, a Pantone színskála szerinti kód vagy kódok feltüntetésével; a fény- és hologram-megjelölést ábrában vagy képben;
 
 d) a hangmegjelölést kottában.
 
@@ -29,3 +29,5 @@ c) az ábrázolásokból ki kell derülnie a többi ábrázoláshoz fűződő ka
 d) a bejelentéshez tartozó egyes ábrázolásokat ábraszámmal kell ellátni.
 
 (4) Ha az áruk, illetve a szolgáltatások felsorolásának terjedelme indokolttá teszi, az árujegyzéket külön lapon kezdve is el lehet készíteni.
+
+[^2]: A 3. § (1) bekezdés c) pontja a 35/2011. (XII. 22.) KIM rendelet 5. §-ával megállapított szöveg.
