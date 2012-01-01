@@ -8,7 +8,7 @@ c)[^7]
 
 d) nemesfém tárgyak és termékek vizsgálatával, hitelesítésével nemesfémtartalmuk tanúsításával és kereskedelmével, továbbá külkereskedelemmel – ide nem értve a haditechnikai külkereskedelemmel – kapcsolatos eljárásban ötvenezer forinttól egymillió forintig,
 
-e)[^8] hadiipari gyártás- és szolgáltatásfelügyeleti, haditechnikai külkereskedelmi, kettős felhasználású termékek és technológiák forgalmazásával, vegyi fegyverekkel, kábítószer prekurzorokkal kapcsolatos eljárásban százezer forinttól tízmillió forintig
+e)[^8] ,haditechnikai külkereskedelmi, kettős felhasználású termékek és technológiák forgalmazásával, vegyi fegyverekkel, kábítószer prekurzorokkal kapcsolatos eljárásban százezer forinttól tízmillió forintig
 
 ## terjedhet.
 
@@ -27,6 +27,6 @@ c) a hatóság ugyanazon ügyféllel szemben ugyanazon jogszabályi vagy hatós�
 a hatóság hivatalból megindítja a hatáskörébe tartozó eljárást és alkalmazza a jogszabályban meghatározott jogkövetkezményeket.
 
 [^7]: A 3. § (1) bekezdés c) pontját a 351/2010. (XII. 30.) Korm. rendelet 159. §-a hatályon kívül helyezte.
-[^8]: A 3. § (1) bekezdés e) pontja a 351/2010. (XII. 30.) Korm. rendelet 157. §-a szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés e) pontja a 292/2011. (XII. 22.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^9]: A 3. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 158. § (1) bekezdésével megállapított szöveg.
 [^10]: A 3. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 158. § (2) bekezdése iktatta be.
