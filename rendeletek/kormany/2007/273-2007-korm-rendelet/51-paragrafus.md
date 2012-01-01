@@ -1,9 +1,19 @@
-## Üzletszabályzat
+## (A VET 72. §-ához)
 
-51. § (1) Az engedélyesek az üzletszabályzataik tervezetét kötelesek honlapjukon közzétenni. Az üzletszabályzatot az Energetikai Érdekegyeztető Tanácsnál regisztrált energetikai felhasználói érdekképviseletekkel egyeztetve, a honlapon keresztül érkezett észrevételekkel együtt nyújtják be a Hivatal részére jóváhagyásra. Az engedélyes a honlapon, valamint a regisztrált energetikai felhasználói érdekképviseletek részére az érdemi észrevételek megtételére legalább 20 napos határidőt köteles biztosítani.
+## Üzletszabályzat[^170]
 
-(2) Az egyeztetés során a felek véleményét rögzíteni kell. Amennyiben az érdekképviseletek véleménye az üzletszabályzatokba nem kerül beépítésre, és a felek közötti érdekellentét feloldhatatlan, vagy az észrevételt tevő ezt kéri, a tett észrevételeket véleményeltéréssel kell a jóváhagyásra beterjesztett üzletszabályzat mellékleteként benyújtani.
+51. §[^171] (1) Az engedélyes üzletszabályzata tervezetét honlapján közzéteszi. Az átviteli rendszerirányító az üzletszabályzat tervezetének közzétételéről az érintett engedélyeseket tájékoztatja.
 
-(3) A Hivatal a jóváhagyási eljárás keretében az érdekképviseletek és az engedélyes között fennmaradt vitás kérdésekben dönt, és az üzletszabályzatot jóváhagyja, a jóváhagyást feltételekhez kötheti, vagy a jóváhagyást megtagadja.
+(2) Az üzletszabályzat tervezetét az engedélyes – az átviteli rendszerirányító kivételével – az energetikai felhasználói érdekképviseletekkel közvetlenül egyezteti.
 
-(4) Az üzletszabályzat készítése alól a VET 72. § (5) bekezdésével összhangban történő felmentésre vonatkozó kérelemhez a mentesítés jogszabályi feltételeinek megítélhetősége érdekében mellékelni kell az engedélyes által alkalmazott szerződésmintát.
+(3) Az engedélyesek az észrevételek megtételére legalább 20 napos határidőt biztosítanak. A beérkezett véleményeket és az egyeztetés eredményét rögzíteni kell. Amennyiben az érdekképviselet vagy az engedélyes véleménye az üzletszabályzatba nem kerül beépítésre és a felek közötti érdekellentét feloldhatatlan, vagy az észrevételt tevő ezt kéri, a Hivatalhoz az üzletszabályzat jóváhagyására irányuló kérelem mellékleteként be kell nyújtani az észrevételt tevő véleményét is.
+
+(4) A Hivatal a jóváhagyási eljárás keretében a (3) bekezdés szerinti, fennmaradt vitás kérdésekben dönt, és az üzletszabályzatot jóváhagyja, a jóváhagyást feltételekhez köti vagy a jóváhagyást megtagadja.
+
+(5)[^172] Az üzletszabályzat készítése alól a VET 72. § (5) bekezdése alapján történő felmentésre vonatkozó kérelemhez mellékelni kell az engedélyes által alkalmazandó szerződésmintát.
+
+(6) Az (5) bekezdésben foglaltakat az átviteli kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörben és a kapcsolt mérlegkörben történő értékesítés esetében nem kell alkalmazni.
+
+[^170]: A Vhr. 51. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^171]: A Vhr. 51. §-a a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^172]: [A Vhr. 51. § (5) bekezdésének a 378/2011. (XII. 31.) Korm. rendelet 86. §-ával megállapított, a 85. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanaptól hatályos szövege: „(5) A (4) bekezdésben foglaltakat az átviteli kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörben történő értékesítés esetében nem kell alkalmazni.”.]

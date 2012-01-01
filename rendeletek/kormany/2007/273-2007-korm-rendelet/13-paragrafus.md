@@ -1,37 +1,16 @@
-13. § (1) A vételezővel vagy felhasználóval kötött, a magánvezetékhez történő csatlakozásra, a magánvezeték hálózati szolgáltatására, valamint a vételezők esetében a villamos-energia továbbadására vonatkozó szerződésnek rendelkeznie kell különösen
+## Magánvezeték[^46]
 
-a) a kapcsolódási pont, illetve pontok helyének meghatározásáról;
+13. §[^47] (1) A magánvezeték engedélyese köteles a magánvezetéket a VET, e rendelet és a vonatkozó más jogszabályok rendelkezései szerint folyamatosan, a jogszabályokban, a hatósági előírásokban és a szabványokban rögzített minőségi és üzembiztonsági elvárásoknak megfelelő módon üzemeltetni.
 
-b) a magánvezetékre történő kapcsolódási pont kapacitásáról (kVA) és műszaki jellemzőiről;
+(2) A magánvezeték engedélyese üzemviteli naplót vezet a magánvezetékről ellátott vételezőt és felhasználót érintő üzemszünetről, hálózati kiesésről, üzemzavarról és feszültségingadozásról, továbbá a magánvezetékről ellátott vételezővel vagy felhasználóval a magánvezetékes szolgáltatással kapcsolatos levelezéséről.
 
-c) a vételező vagy felhasználó részére a kapcsolódási ponton rendelkezésre álló teljesítményről (kVA) annak megjelölésével, hogy a rendelkezésre álló teljesítmény időlegesen vagy véglegesen kerül-e a vételezőnek vagy felhasználónak átadásra;
+(3) A hálózati engedélyes, a vételező és a felhasználó az üzemviteli napló rá vonatkozó adatot tartalmazó részeibe betekinthet, és arról számára – kérése esetén – másolatot vagy kivonatot kell biztosítani, valamint a (2) bekezdésben meghatározott eseményekkel kapcsolatosan tájékoztatást kell nyújtani. A hálózati engedélyes, a vételező és a felhasználó az üzemviteli naplóban észrevételeit feltüntetheti.
 
-d) a vételezői, illetve felhasználói berendezés műszaki jellemzőiről;
+(4) A magánvezeték engedélyese az üzemviteli naplót és a magánvezetékről ellátott vételezővel vagy felhasználóval folytatott levelezését két évre visszamenőleg megőrzi.
 
-e) szükség esetén a vételezői vagy felhasználói berendezés hálózati visszahatásának megengedett legnagyobb mértékéről és a visszahatás csökkentésére szolgáló műszaki megoldásokról;
+(5) A magánvezeték engedélyese a magánvezetékes szolgáltatást a vételező, a felhasználó és a termelő részére szerződéses megállapodásban foglalt, költségalapú díj ellenében nyújtja. A díj alapját a vezetékes szolgáltatás igazolt költségei képezhetik, ideértve a magánvezeték üzemeltetési és hálózati veszteségi költségeit, valamint – figyelemmel a Hivatal honlapján közzétett villamos energia rendszerhasználati módszertanra – az üzemeltetett vezeték eszközértékére alkalmazott tőkeköltséget.
 
-f) a magánvezetékhez történő csatlakozás pénzügyi és műszaki feltételeiről, a bekapcsolás szabályairól;
+(6) A magánvezeték engedélyese a magánvezetékes szolgáltatási és a továbbadási tevékenységéről köteles olyan elkülönült nyilvántartást vezetni, amely biztosítja a tevékenységenkénti átláthatóságot, a diszkrimináció-mentességet, és – az egyéb tevékenységeivel szemben is – kizárja a keresztfinanszírozást.
 
-g) a szolgáltatott villamos energia műszaki jellemzőiről;
-
-h) az üzemeltetői rendelkezésre állás szabályairól;
-
-i) a magánvezetéken és az engedélyköteles magánvezetéken keresztül igénybe vett villamos energia mérésére vonatkozó rendelkezésekről, különös tekintettel a méréssel kapcsolatos üzemeltetői és vételezői, illetve felhasználói kötelezettségekre, a mérési időszakok meghatározására, a mérők tulajdonjogának, elhelyezésének, felszerelésének, karbantartásának, cseréjének szabályaira;
-
-j) a számlázás és a számlakifogás szabályairól;
-
-k) a díjfizetés részletes szabályairól;
-
-l) a kölcsönös tájékoztatási kötelezettségről, valamint a felek közötti adatszolgáltatás szabályairól, különös tekintettel a 12. § (12) bekezdésében meghatározott értesítésre;
-
-m) a vételezői, illetve felhasználói panaszok kezelésének rendjéről;
-
-n) a hálózati naplóra vonatkozó rendelkezésekről;
-
-o) az éves rendes karbantartás és az üzemzavar vagy egyéb üzemi esemény bekövetkezése esetén alkalmazandó korlátozás szabályairól;
-
-p) a szerződésszegés eseteiről, különös tekintettel a szabálytalan vételezésre, valamint a vételezőnek, illetve felhasználónak a magánvezetékes szolgáltatásból történő időleges vagy végleges kizárásának eseteire;
-
-q) a jogorvoslatra vonatkozó rendelkezésekről.
-
-(2) A 12. § (3)–(12) bekezdések rendelkezéseit a nem engedélyköteles magánvezeték esetében csak abban az esetben kell alkalmazni, ha a magánvezetékről annak tulajdonosától vagy üzemeltetőjétől jogilag, szervezetileg elkülönülő vételezőt látnak el.
+[^46]: A Vhr. 13. §-át megelőző alcímét a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^47]: A Vhr. 13. §-a a 378/2011. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.

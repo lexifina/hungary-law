@@ -1,6 +1,6 @@
 6. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó teljesítőképességű erőművek működési engedély iránti kéreleméhez benyújtandó dokumentumok
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működési engedély iránti kéreleméhez benyújtandó dokumentumok[^318]
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
@@ -8,7 +8,7 @@ Az 50 MW vagy azt meghaladó teljesítőképességű erőművek működési enge
 
 3. Nyilatkozat arról, hogy a kérelmező rendelkezik környezeti károk megtérítését biztosító felelősségbiztosítással,
 
-4. Egységes környezethasználati engedély,
+4.[^319] Jogerős egységes környezethasználati engedély és jogerős építési engedély,
 
 5. A hálózati engedélyessel kötött hálózati csatlakozási szerződés eredeti vagy annak hiteles másolati példánya,
 
@@ -30,24 +30,28 @@ Az 50 MW vagy azt meghaladó teljesítőképességű erőművek működési enge
 
 14. Ellenőrzött minőségbiztosítási rendszer bevezetésének ütemterve és határideje,
 
-15. Műszaki adatok:
+15.[^320] Műszaki adatok:
 
-– Egyvonalas villamos kapcsolási rajz,
+15.1. egyvonalas villamos kapcsolási rajz,
 
-– Hőséma,
+15.2. hőséma,
 
-– Az erőmű főberendezéseinek műszaki adatai az e rendelet 21. számú melléklete szerint,
+15.3. az erőmű főberendezéseinek műszaki adatai e rendelet 22. számú melléklete szerint,
 
-– Szabályozási képesség az üzemi szabályzatban meghatározott mérőszámok szerinti bontásban,
+15.4. tartalék tüzelőanyag tárolási képesség (az alkalmazandó technológiától függően) mennyiségi jellemzői,
 
-– Tartalék tüzelőanyag tárolási képesség (az alkalmazandó technológiától függően) mennyiségi jellemzői,
+15.5. a felhasználni kívánt elsődleges energiahordozó fűtőértéke (az alkalmazandó technológiától függően), valamint annak mennyisége éves bontásban (TJ/év), az első 5 évre,
 
-– A felhasználni kívánt elsődleges energiahordozó fűtőértéke (az alkalmazandó technológiától függően), valamint annak mennyisége éves bontásban (TJ/év), az első 5 évre,
+15.6. a tervezett éves villamosenergia- és hőtermelés, valamint -értékesítés mennyiségi adatai, az első 5 évre,
 
-– A tervezett éves villamosenergia- és hőtermelés, valamint -értékesítés mennyiségi adatai, az első 5 évre,
+15.7. energetikai hatásfok,
 
-– Energetikai hatásfok,
+15.8. csatlakozási pontok megnevezése,
 
-– A maximális teljesítményhez tartozó légköri kibocsátás értékek (CO, CO2, SO2, NOx),
+15.9. a légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3) és
 
-– Az erőmű(rész) tervezett maradó élettartama.
+15.10. az erőmű(rész) tervezett maradó élettartama.
+
+[^318]: A Vhr. 6. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdése szerint módosított szöveg.
+[^319]: A Vhr. 6. számú melléklet 4. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.
+[^320]: A Vhr. 6. számú melléklet 15. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.

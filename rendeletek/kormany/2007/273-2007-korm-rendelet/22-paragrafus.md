@@ -1,8 +1,8 @@
 ## (A VET 46. §-ához)
 
-## Villamosenergia-kereskedelem[^57]
+## Villamosenergia-kereskedelem[^72]
 
-22. §[^58] (1) A villamosenergia-kereskedő a működési engedélye alapján jogosult a villamos energia határon keresztül történő be- és kiszállítására is.
+22. §[^73] (1) A villamosenergia-kereskedő a működési engedélye alapján jogosult a villamos energia határon keresztül történő be- és kiszállítására is.
 
 (2) Villamosenergia-vásárlási szerződés megkötését a felhasználó és a villamosenergia-kereskedő is kezdeményezheti. Ha a villamosenergia-kereskedő ajánlatot tesz a felhasználó részére, annak minden lényeges körülményt, de legalább az alábbiakat tartalmaznia kell:
 
@@ -22,5 +22,5 @@ g) a villamosenergia-vásárlási szerződés tervezetét, és
 
 h) a szerződés megszüntetésének vagy felbontásának egyes eseteit és feltételeit.
 
-[^57]: A Vhr. 22. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^58]: A Vhr. 22. §-a a 100/2011. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^72]: A Vhr. 22. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^73]: A Vhr. 22. §-a a 100/2011. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

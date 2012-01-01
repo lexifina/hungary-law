@@ -1,5 +1,10 @@
-## Közvetlen vezeték engedélyezése
+## (A VET 86. §-ához)
 
-77. §[^149] A közvetlen vezeték létesítésére vagy megszüntetésére vonatkozó engedély iránti kérelemhez mellékelni kell a 14. számú mellékletben előírtakat.
+## Közvetlen vezeték engedélyezése[^211]
 
-[^149]: A Vhr. 77. §-a a 182/2009. (IX. 10.) Korm. rendelet 573. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+77. §[^212] (1) Ha a termelő szüneteltetni kívánja vagy meg kívánja szüntetni azon erőműve termelését, amely közvetlen vezetéken keresztül vételező részére villamosenergia-ellátást biztosít, valamint a közvetlen vezeték engedélyesével és a vételezőkkel megállapodott abban, hogy a közvetlen vezetékes ellátást magánvezetékes ellátási formává alakítják, akkor a villamosenergia-termelés szüneteltetésére vagy megszüntetésére irányuló kérelemmel egyidejűleg a közvetlen vezeték megszüntetése iránti kérelmet és magánvezeték létesítése iránti kérelmet is be kell nyújtani.
+
+(2) A közvetlen vezeték létesítésére vagy megszüntetésére vonatkozó engedély iránti kérelemhez mellékelni kell a 14. számú mellékletben előírtakat.
+
+[^211]: A Vhr. 77. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^212]: A Vhr. 77. §-a a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.

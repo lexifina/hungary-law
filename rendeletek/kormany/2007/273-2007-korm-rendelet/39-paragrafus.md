@@ -1,1 +1,9 @@
-39. § A Hivatal a magánvezeték üzemeltetőjével szemben a jogszabályban foglalt kötelezettségének megsértése esetén – különösen a VET 66. § (4) bekezdésben foglaltak megszegése esetén – a VET 96. § (1) bekezdésében foglalt jogkövetkezményeket alkalmazhatja, illetőleg a tevékenység végzőjét azonnali hatállyal eltilthatja a tevékenység folytatásától.
+39. §[^141] (1) A magánvezeték engedélyese a VET 66/A. § (1) bekezdése szerinti bejelentésében a villamosenergia-kereskedővel közli a továbbadás keretében ellátott vételezők számát, valamint vételezőnkénti bontásban a becsült éves villamos energia igényét.
+
+(2) Amennyiben a magánvezeték engedélyese a vételezőt arról tájékoztatja, hogy villamosenergia-kereskedelmi engedély iránti kérelmet nyújtott be a Hivatalhoz és ezzel a továbbadás megszűnik, a vételező folyamatos villamosenergia-ellátásának biztosítása érdekében a 13/C. § (5) bekezdésének rendelkezései szerint köteles eljárni.
+
+(3) A vételező a VET 66. § (3) bekezdése szerinti döntése esetén a továbbadásra vonatkozó szerződést legalább 60 napos felmondási idővel mondhatja fel.
+
+(4) A VET 66/A. § (1) bekezdése szerinti bejelentés elmulasztása esetén a villamosenergia-kereskedő a továbbadó magánvezeték engedélyesével szemben a VET 66/A. § (2) bekezdésében előírt szabályok helyett a felhasználók kikapcsolására vonatkozó általános szabályokat alkalmazhatja.
+
+[^141]: A Vhr. 39. §-a a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.

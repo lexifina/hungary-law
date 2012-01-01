@@ -1,6 +1,6 @@
 ## (A VET 159. §-ához)
 
-117. § (1)[^215] A Hivatal a felhasználók érdekében az engedélyesek tevékenységi körének megfelelő – általános, továbbá egyedi felhasználókat érintő – minőségi mutatókat (minimális minőségi követelmények, valamint elvárt színvonal) állapít meg. A Hivatal jogosult az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesektől elvárt színvonal, valamint a villamos energia minőségi jellemzői felmérésének független szakértő általi elvégeztetésére.
+117. § (1)[^289] A Hivatal a felhasználók érdekében az engedélyesek tevékenységi körének megfelelő – általános, továbbá egyedi felhasználókat érintő – minőségi mutatókat (minimális minőségi követelmények, valamint elvárt színvonal) állapít meg. A Hivatal jogosult az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesektől elvárt színvonal, valamint a villamos energia minőségi jellemzői felmérésének független szakértő általi elvégeztetésére.
 
 (2) A minőségi mutatók köre különösen az alábbiakra terjed ki:
 
@@ -24,4 +24,4 @@ A szabályozási irányokra vonatkozóan bárki 30 napon belül észrevételt te
 
 (6) Az (5) bekezdés szerinti hatósági eljárásban ügyfélként az egyes engedélyesek vesznek részt.
 
-[^215]: A Vhr. 117. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^289]: A Vhr. 117. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -20,13 +20,11 @@
 
 ## af) biomasszából közvetve vagy közvetlenül előállított energiaforrás,
 
-## ag) biogáz
+## ag)[^321] biogáz,
 
-## 1. hulladéklerakóból származó gáz,
+## ah)[^322] hulladéklerakóból származó gáz,
 
-## 2. szennyvízkezelő létesítményből származó gáz,
-
-## 3. egyéb eredetű biogáz;
+## ai)[^323] szennyvízkezelő létesítményből származó gáz;
 
 ## b) hulladékból nyert energia
 
@@ -56,13 +54,13 @@
 
 ## ea) földgáz (megszakítható vagy folyamatos),
 
-## eb) mesterséges gáznemű tüzelőanyagok (szénlepárlással vagy elgázosítással előállított);
+## eb)[^324] mesterséges gáznemű tüzelőanyagok (szénlepárlással vagy elgázosítással előállított);
 
 ## f) nukleáris fűtőanyag.
 
 8. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-A 0,5 MW vagy azt meghaladó teljesítőképességű erőmű villamosenergia-termelés szüneteltetésére vonatkozó engedély iránti kéreleméhez benyújtandó dokumentumok
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamosenergia-termelés szüneteltetésére vonatkozó engedély iránti kéreleméhez benyújtandó dokumentumok[^325]
 
 1. Az engedély száma, lejártának dátuma (erőmű maradék élettartama),
 
@@ -87,3 +85,9 @@ A 0,5 MW vagy azt meghaladó teljesítőképességű erőmű villamosenergia-ter
 – Költségterv,
 
 – Megállapítások, következtetések.
+
+[^321]: A Vhr. 7. számú melléklet a) pont ag) alpontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdésével megállapított szöveg.
+[^322]: A Vhr. 7. számú melléklet a) pont ah) alpontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdése iktatta be.
+[^323]: A Vhr. 7. számú melléklet a) pont ai) alpontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdése iktatta be.
+[^324]: [A Vhr. 7. számú melléklet e) pont ec) alpontjának a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdésével beiktatott, a 85. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanaptól hatályos szövege: „ec) termálvíz kísérőgáz;.]
+[^325]: A Vhr. 8. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.

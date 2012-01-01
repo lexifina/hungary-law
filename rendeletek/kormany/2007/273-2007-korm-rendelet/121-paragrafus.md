@@ -1,3 +1,3 @@
-121. § (1) A 16. §-ban meghatározott profil-görbéket az elosztók első alkalommal 2008. június 30-ig készítik el.
+121. §[^297] A VET 178/E. § (3) bekezdése szerint továbbadásra jogosultra a VET és az e rendelet magánvezeték engedélyesére vonatkozó rendelkezéseit kell alkalmazni.
 
-(2) A 16. §-ban meghatározott profil-görbék elkészítéséig az elosztók a villamos energiáról szóló 2001. évi CX. törvény és a felhatalmazása alapján kiadott jogszabályok szerinti engedélyesi működés során kidolgozott profil-görbéket alkalmazzák.
+[^297]: A Vhr. 121. §-a a 378/2011. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.

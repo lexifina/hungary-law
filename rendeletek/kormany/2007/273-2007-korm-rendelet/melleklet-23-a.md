@@ -1,173 +1,223 @@
 ## Az erőművi főberendezések adatai
 
-## Az e rendelet szerint 4., 5., 6. és 9. számú mellékleteiben meghatározott adatszolgáltatás esetén, az erőművi főberendezések adatait – az alkalmazott technológiától függő módon – az alábbi táblázatok kitöltésével kell összeállítani.
+## A 4–6. és 9. számú mellékletben meghatározott adatszolgáltatás esetén, az erőművi főberendezések adatait – az alkalmazott technológiától függő módon – a Hivatal honlapján meghatározott formátumban az alábbi adatok megadásával kell összeállítani.
 
-## KAZÁN(OK)
+## 1. Az alkalmazott berendezésektől függetlenül
 
-| Helyszám | 1 | n |
+## 1.1. típus,
 
-| Típus | Mértékegység |
+## 1.2. gyártó,
 
-| Gyártó | – |  |  |
+## 1.3. gyári szám,
 
-| Tüzelőanyag | – |  |  |
+## 1.4. gyártási év,
 
-| Névleges teljesítménye | MWth |  |  |
+## 1.5. üzembe helyezési időpont,
 
-| Névleges gőztermelés | t/h |  |  |
+## 1.6. maradó élettartam (a napelemtáblát és az invertert nem beleértve).
 
-| Frissgőz hőmérséklet | °C |  |  |
+## 2. A beépített berendezések száma (db).
 
-| Frissgőz nyomás | bar |  |  |
+## 3. Kazán vagy füstgáz hőhasznosító kazán (hőcserélő) esetében
 
-| Üzembe helyezési időpont | dátum |  |  |
+## 3.1. névleges teljesítőképesség (MWth),
 
-| Maradó élettartam | dátum |  |  |
+## 3.2. póttüzelés esetében
 
-## TURBINÁ(K)
+## a) maximális hőteljesítmény (MWth),
 
-| Helyszám | 1 | n |
+## b) tüzelőanyag,
 
-| Típus | Mértékegység |
+## 3.3. forró víz kazán esetében
 
-| Gyártó | – |  |  |
+## a) forró víz névleges vízáram (t/h),
 
-| Jelleg | – |  |  |
+## b) névleges belépő hőmérséklet (°C),
 
-| Névleges teljesítmény | MW |  |  |
+## c) névleges kilépő hőmérséklet (°C),
 
-| Gázturbina esetén tüzelőanyag |  |  |  |
+## 3.4. gőzkazán esetében
 
-| Tüzelőanyag mennyiség | Nm3/h; kg/h |  |  |
+## a) névleges gőztermelés (t/h),
 
-| Frissgőz hőmérséklet | °C |  |  |
+## b) frissgőz hőmérséklet (°C),
 
-| Frissgőz nyomás | bar |  |  |
+## c) frissgőz nyomás (bar).
 
-| Üzembe helyezési időpont | dátum |  |  |
+## 4. Gázturbina esetében
 
-| Maradó élettartam | dátum |  |  |
+## 4.1. névleges teljesítőképesség (MW),
 
-## GÁZMOTOR(OK)
+## 4.2. tüzelőanyag,
 
-| Helyszám | 1 | n |
+## 4.3. tüzelőanyag mennyiség (Nm3/h; kg/h).
 
-| Típus | Mértékegység |
+## 5. Kondenzációs gőzturbina esetében
 
-| Gyártó | – |  |  |
+## 5.1. névleges teljesítőképesség (MW),
 
-| Tüzelőanyag | – |  |  |
+## 5.2. névleges gőznyelés (t/h),
 
-| Névleges villamos teljesítmény | MW |  |  |
+## 5.3. frissgőz hőmérséklete (°C),
 
-| Névleges hőteljesítmény | MW |  |  |
+## 5.4. frissgőz nyomás (bar).
 
-| Hőcserélők teljesítménye |  |  |  |
+## 6. Elvételes kondenzációs gőzturbina esetében
 
-| – keverék hűtő | MW |  |  |
+## 6.1. névleges teljesítőképesség (MW),
 
-| – olaj hűtő | MW |  |  |
+## 6.2. névleges gőznyelés (t/h),
 
-| – motor hűtő | MW |  |  |
+## 6.3. frissgőz hőmérséklet (°C),
 
-| – kipufogógáz hűtő | MW |  |  |
+## 6.4. frissgőz nyomás (bar),
 
-| Összes kinyerhető teljesítmény | MW |  |  |
+## 6.5. gőzelvétel tömegárama (t/h),
 
-| Villamos hatásfok névleges teljesítménynél | % |  |  |
+## 6.6. gőzelvétel nyomása (bar),
 
-| Termikus hatásfok névleges teljesítménynél | % |  |  |
+## 6.7. gőzelvétel hőmérséklete (°C).
 
-| Eredő hatásfok névleges teljesítménynél | % |  |  |
+## 7. Ellennyomású gőzturbina esetében
 
-| Kilépő víz hőmérséklet | °C |  |  |
+## 7.1. névleges teljesítőképesség (MW),
 
-| Átáramló vízmennyiség | m3/h |  |  |
+## 7.2. névleges gőznyelés (t/h),
 
-| Hengerek száma | db |  |  |
+## 7.3. frissgőz hőmérséklet (°C),
 
-| Üzembe helyezési időpont | dátum |  |  |
+## 7.4. frissgőz nyomása (bar),
 
-| Maradó élettartam | dátum |  |  |
+## 7.5. ellennyomás hőmérséklet (°C).
 
-## SZÉLGENERÁTOR(OK)
+## 8. Elvételes ellennyomású gőzturbina esetében
 
-| Helyszám | 1 | n |
+## 8.1. névleges teljesítőképesség (MW),
 
-| Típus | Mértékegység |
+## 8.2. névleges gőznyelés (t/h),
 
-| Gyártó |  |  |  |
+## 8.3. frissgőz hőmérséklete (°C),
 
-| Toronymagasság | m |  |  |
+## 8.4. frissgőz nyomása (bar),
 
-| Rotor átmérő | m |  |  |
+## 8.5. kondenzátor nyomás (bar),
 
-| Rotor fordulatszám* | 1/perc |  |  |
+## 8.6. gőzelvétel tömegárama (t/h),
 
-| Lapátok száma | db |  |  |
+## 8.7. gőzelvétel nyomása (bar),
 
-| Lapátok hossza | m |  |  |
+## 8.8. gőzelvétel hőmérséklete (°C),
 
-| Lapátok anyaga |  |  |  |
+## 8.9. ellennyomás (bar),
 
-| Indító szélsebesség | m/s |  |  |
+## 8.10. ellennyomás hőmérséklete (°C).
 
-| Névleges szélsebesség | m/s |  |  |
+## 9. Gázmotor esetében
 
-| Leállító szélsebesség | m/s |  |  |
+## 9.1. névleges villamos teljesítőképesség (MW),
 
-| Túlélő szélsebesség | m/s |  |  |
+## 9.2. névleges hő teljesítőképesség (MW),
 
-| Generátor villamos teljesítmény | kW |  |  |
+## 9.3. hőcserélő névleges teljesítőképessége (MW)
 
-| Generátor feszültség | kV |  |  |
+## a) keverék hűtő,
 
-| Toronyból kiadott feszültség | kV |  |  |
+## b) olaj hűtő,
 
-| Hajtómű | van/nincs |  |  |
+## c) motor hűtő,
 
-| Generátor pólus szám | db |  |  |
+## d) kipufogógáz hűtő,
 
-| Üzembe helyezési időpont | dátum |  |  |
+## 9.4. összes kinyerhető teljesítmény (MW),
 
-| Maradó élettartam | dátum |  |  |
+## 9.5. villamos hatásfok névleges teljesítménynél (%),
 
-| Hrsz szám |  |  |  |
+## 9.6. termikus hatásfok névleges teljesítménynél (%),
 
-| EOV koordináta X Y |  |  |  |
+## 9.7. eredő hatásfok névleges teljesítménynél (%),
 
-## GENERÁTOR(OK)
+## 9.8. kilépő víz hőmérséklet (°C),
 
-| Helyszám | 1 | n |
+## 9.9. átáramló vízmennyiség (m3/h).
 
-| Típus | Mértékegység |
+## 10. Szélerőmű esetében
 
-| Gyártó |  |  |  |
+## 10.1. tengelymagasság (m),
 
-| Teljesítmény | MVA |  |  |
+## 10.2. rotor átmérő (m),
 
-| Feszültség | kV |  |  |
+## 10.3. rotor fordulatszám (1/perc),
 
-| Üzembe helyezési időpont | dátum |  |  |
+## 10.4. lapátok száma (db),
 
-| Maradó élettartam | dátum |  |  |
+## 10.5. lapátok hossza (m),
 
-## ERŐMŰVI FŐTRANSZFORMÁTOR(OK)
+## 10.6. lapátok anyaga,
 
-| Helyszám | 1 | n |
+## 10.7. indító szélsebesség (m/s),
 
-| Típus | Mértékegység |
+## 10.8. névleges szélsebesség (m/s),
 
-| Gyártó |  |  |  |
+## 10.9. leállító szélsebesség (m/s),
 
-| Teljesítmény | MVA |  |  |
+## 10.10. túlélő szélsebesség (m/s),
 
-| Feszültség | kV |  |  |
+## 10.11. generátor névleges teljesítőképessége (MW),
 
-| Üzembe helyezési időpont | dátum |  |  |
+## 10.12. generátor névleges kapocsfeszültsége (V),
 
-| Maradó élettartam | dátum |  |  |
+## 10.13. toronyból kiadott névleges feszültség (V),
 
-23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^278]
+## 10.14. helyrajzi szám,
 
-[^278]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. E módosító rendelet 5. § (1) bekezdése alapján rendelkezéseit a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
+## 10.15. EOV koordináta.
+
+## 11. Napelemtábla esetében
+
+## 11.1. az alkalmazott napelemtábla típusa (gyártási szabvány),
+
+## 11.2. a telepítés módja (fix vagy napkövető),
+
+## 11.3. a napelemtábla névleges teljesítőképessége (W),
+
+## 11.4. a napelemtábla felülete (m2).
+
+## 12. Villamos forgógép esetében
+
+## 12.1. névleges teljesítőképesség (MW),
+
+## 12.2. névleges kapocsfeszültség (kV).
+
+## 13. Energiatároló esetében
+
+## 13.1. névleges teljesítőképesség (MW),
+
+## 13.2. energiatárolási kapacitás (MWh),
+
+## 13.3. töltési idő (óra),
+
+## 13.4. kisütési idő (óra),
+
+## 13.5. energiaátalakítási hatásfok (%),
+
+## 13.6. az energiatárolás módja.
+
+## 14. Inverter esetében
+
+## 14.1. egység névleges teljesítőképessége (kW),
+
+## 14.2. a hálózati csatlakozás névleges feszültsége (kV).
+
+## 15. Transzformátor esetében
+
+## 15.1. névleges teljesítőképesség (MVA),
+
+## 15.2. primer oldali névleges feszültség (kV),
+
+## 15.3. szekunder oldali névleges feszültség (kV),
+
+## 15.4. tercier oldali névleges feszültség (kV).
+
+23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^365]
+
+[^365]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése szerint módosított szöveg.

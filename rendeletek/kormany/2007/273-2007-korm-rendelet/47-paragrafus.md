@@ -12,25 +12,25 @@ e) az üzemzavarokkal, üzemi eseményekkel összefüggő adat- és információ
 
 f) a villamosenergia szolgáltatásának mennyiségi elszámolására, beleértve a működéshez szükséges infrastrukturális rendszereket is,
 
-g) a hálózati engedélyesek által készítendő hálózatfejlesztési tervek formájára, kötelező tartalmi elemeire, valamint
+g)[^157] az átviteli rendszerirányító által készítendő, a fogyasztói igények előrejelzéséről és a villamosenergia-rendszer közép- és hosszú távú forrásoldali kapacitásfejlesztéséről szóló dokumentumok, valamint a hálózati engedélyesek által készítendő hálózatfejlesztési tervek formájára, kötelező tartalmi elemeire, vizsgálati szempontjaira, valamint
 
 h) a villamosenergia-rendszer hálózatfejlesztési tervének készítése során a hálózati engedélyesek együttműködésének szabályaira.
 
 (2) A Kereskedelmi Szabályzat előírásai a 46. §-ban meghatározottakkal összhangban legalább az alábbiakra terjednek ki:
 
-a) a villamosenergia-kereskedelem részletes szabályaira,
+a)[^158] a villamosenergia-kereskedelemhez kapcsolódó szabályokra,
 
-b)[^131]
+b)[^159]
 
 c) a mérlegköri elszámolás részletes szabályaira,
 
-d) a rendszerszintű szolgáltatásokhoz szükséges tartalékkapacitások beszerzési rendjére,
+d)[^160] a rendszerszintű szolgáltatások biztosításához szükséges kapacitások beszerzési rendjére és igénybevételére,
 
-e) az erőművek indítási és üzemelési költségei meghatározásának szabályaira,
+e)[^161]
 
-f) a kiegyenlítő energia ára képzésének szabályaira,
+f)[^162] a kiegyenlítő energia meghatározásának módjára, ármeghatározásának szabályaira és elszámolására,
 
-g) a szervezett villamosenergia-piac és az átviteli rendszerirányító kapcsolatára,
+g)[^163] a szervezett villamosenergia-piaci engedélyes és az átviteli rendszerirányító kapcsolatára, és
 
 h) a villamos energia határt keresztező be- vagy kiszállítására vonatkozó szabályokra, beleértve a határt keresztező szállításokkal kapcsolatos – egyes határokat érintő – megállapodásokat.
 
@@ -38,10 +38,17 @@ h) a villamos energia határt keresztező be- vagy kiszállítására vonatkozó
 
 a) az elosztó technikai és műszaki működésére,
 
-b) az elosztó hálózathoz csatlakozó erőművek csatlakozási feltételeire,
+b)[^164] az elosztó hálózathoz csatlakozó erőművek csatlakozási feltételeire, beleértve a megvalósíthatósági tanulmány és a csatlakozási terv szükségességének eseteit, valamint ezek általános tartalmi elemeit, és
 
 c) a profilos fogyasztás és elszámolás szabályaira.
 
 (4) A villamosenergia ellátási szabályzatokat egymással összhangban kell elkészíteni.
 
-[^131]: A Vhr. 47. § (2) bekezdés b) pontját a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^157]: A Vhr. 47. § (1) bekezdés g) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^158]: A Vhr. 47. § (2) bekezdés a) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^159]: A Vhr. 47. § (2) bekezdés b) pontját a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^160]: A Vhr. 47. § (2) bekezdés d) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^161]: A Vhr. 47. § (2) bekezdés e) pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
+[^162]: A Vhr. 47. § (2) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^163]: A Vhr. 47. § (2) bekezdés g) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^164]: A Vhr. 47. § (3) bekezdés b) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.

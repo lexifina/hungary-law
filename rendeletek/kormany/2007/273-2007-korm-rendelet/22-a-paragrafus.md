@@ -1,4 +1,4 @@
-22/A. §[^59] (1) A felhasználó és a villamosenergia-kereskedő a személyében bekövetkező változást a változástól számított 15 napon belül köteles a másik szerződő félnek az üzletszabályzatában foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
+22/A. §[^74] (1) A felhasználó és a villamosenergia-kereskedő a személyében bekövetkező változást a változástól számított 15 napon belül köteles a másik szerződő félnek az üzletszabályzatában foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
 
 (2) Ha a felhasználó hálózathasználati szerződését megbízottként a villamosenergia-kereskedő kezeli, köteles a bejelentés kézhezvételétől számított 3 napon belül a hálózati engedélyest a változásról értesíteni, és a mérőhely-ellenőrzést megrendelni.
 
@@ -12,4 +12,4 @@ b) a hálózati engedélyes helyszíni ellenőrzését megakadályozza,
 
 (4) Ha a villamosenergia-kereskedő a (2) bekezdésben foglalt kötelezettségét nem vagy késedelmesen teljesíti, a hálózati engedélyes értesítése és a mérőhely-ellenőrzés megrendelése elmulasztásának jogkövetkezményeiért a villamosenergia-kereskedő felel.
 
-[^59]: A Vhr. 22/A. §-át a 100/2011. (VI. 29.) Korm. rendelet 10. §-a iktatta be.
+[^74]: A Vhr. 22/A. §-át a 100/2011. (VI. 29.) Korm. rendelet 10. §-a iktatta be.

@@ -1,13 +1,11 @@
-105. § A piaci verseny hatékonyságának elemzésekor a Hivatal figyelembe veszi:
+105. §[^272] A piaci verseny hatékonyságának elemzésekor a Hivatal figyelembe veszi:
 
-a) az érintett piacon működő három legnagyobb piaci részesedéssel rendelkező engedélyes együttes piaci részesedését, alkalmazva e rendelet 106. §-ának a) pontjában az engedélyes piaci erejének megítélésére vonatkozó szabályokat,
+a) a VET 107. § (1) bekezdés 1. és 2. pontja szerinti piacokon belül meghatározott termék vagy szolgáltatási részpiacokon működő engedélyesek piaci részesedését, alkalmazva a 106. § a) pontjában az engedélyes piaci erejének megítélésére vonatkozó szabályokat,
 
-b) az érintett piac likviditását, azaz az áruk és szolgáltatások gyors és alacsony költségek melletti értékesíthetőségét, illetve beszerezhetőségét,
+b) a termék vagy szolgáltatási részpiacok likviditását, azaz az áruk és szolgáltatások gyors és alacsony költségek melletti értékesíthetőségét és beszerezhetőségét,
 
-c) az érintett piacon értékesített áruk és szolgáltatások árának alakulását és a piacon tevékenykedő vállalkozások árképzési gyakorlatát,
+c) a termék vagy szolgáltatási részpiacokon értékesített áruk és szolgáltatások árának alakulását és a piacon tevékenykedő vállalkozások költségeit és árképzési gyakorlatát, és
 
-d) a kiegyenlítő energia piac működésével összefüggésben különösen a felszabályozási és leszabályozási elszámolási ár közti különbséget,
+d) a VET 107. § (1) bekezdés 2. pontja szerinti piacokon a felhasználók kereskedőváltásának mértékét, azaz a vizsgált időszakban bekövetkezett összes kereskedőváltásnak a felhasználókkal kötött összes villamosenergia-vásárlási szerződésen belüli arányát.
 
-e) a felhasználók szolgáltató váltásának mértékét, azaz a vizsgált időszakban bekövetkezett összes szolgáltató váltásnak a felhasználókkal kötött összes villamosenergia-vásárlási szerződésen belüli arányát,
-
-f) az érintett piacon megfigyelhető verseny többi piacra gyakorolt hatását.
+[^272]: A Vhr. 105. §-a a 378/2011. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.

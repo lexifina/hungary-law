@@ -1,7 +1,14 @@
-## Közcélúvá nyilvánítás
+## (A VET 66, 85. és 86. §-ához)
 
-40. § (1) A Hivatal valamennyi nagyfeszültségű vezeték közcélúságát vizsgálja.
+## Közcélúvá nyilvánítás[^142]
 
-(2) A vezetékek átviteli vagy elosztó vezetékké, illetve közcélúvá minősítése, valamint átminősítése iránti eljárás a hálózati engedélyes kérelemére, valamint villamosenergia-rendszer üzembiztonsága biztosítása érdekében hivatalból indulhat.
+40. §[^143] (1) A Hivatal vezeték vagy berendezés (a 40–45. § alkalmazásában a továbbiakban együtt: hálózati elem) közcélúvá minősítésére vagy átminősítésére irányuló eljárás során a hálózati elem közcélúságát – a (2) bekezdés szerinti kivétellel – egyedileg vizsgálja.
 
-(3) Az engedélyköteles magánvezeték, valamint a VET 74. §-ának (3) bekezdése szerinti termelői vezeték átviteli vagy elosztó vezetékké, illetve közcélúvá minősítése, valamint átminősítése iránti eljárás a vezeték tulajdonos, illetve üzemeltető kérelmére, valamint a VET 85. §-ának (4) bekezdésében, 86. §-ának (5) bekezdésében és 66. §-ának (9) bekezdésében meghatározott esetekben hivatalból indulhat.
+(2) A kis- és középfeszültségű hálózati elem, amely a VET 24. § (1)–(2) bekezdésében foglaltaknak megfelelőn létesül, és amelyen az elosztó tulajdonjogot szerez, közcélú elosztó hálózati elemnek minősül.
+
+(3) Kizárólag az átviteli rendszerirányító tulajdonát képező hálózati elem minősülhet az átviteli hálózat részének.
+
+(4) Átviteli rendszerüzemeltető esetében a (3) bekezdés szerinti rendelkezést nem kell alkalmazni.
+
+[^142]: A Vhr. 40. §-át megelőző alcíme a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^143]: A Vhr. 40. §-a a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.

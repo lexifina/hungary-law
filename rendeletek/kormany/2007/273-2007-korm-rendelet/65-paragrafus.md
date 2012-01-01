@@ -1,7 +1,10 @@
-## Erőmű teljesítményének növelésére vonatkozó engedély
+## Erőmű névleges teljesítőképességének növelésére vonatkozó engedély[^194]
 
-65. § (1) Erőmű teljesítménynövelésnek minősül a működési engedélyben meghatározott erőművi névleges teljesítőképesség vagy a kiserőmű névleges teljesítőképességének átalakítással, javítással történő növelése, ha bármelyik meglévő berendezés (erőműegység vagy turbógépcsoport), vagy azok együttes teljesítménynövekménye meghaladja a működési engedélyben meghatározott névleges teljesítőképesség 10%-át, vagy kiserőmű esetében annak teljesítménye a növeléssel együtt eléri, vagy meghaladja az 50 MW-ot.
+65. §[^195] (1) Erőmű névleges teljesítőképessége növelésének minősül a működési engedélyben meghatározott erőművi névleges teljesítőképesség vagy a kiserőmű névleges teljesítőképességének átalakítással, javítással történő növelése, ha bármelyik meglévő berendezés (erőműegység vagy turbógépcsoport) vagy azok együttes névleges teljesítőképességének növekménye meghaladja a működési engedélyben meghatározott névleges teljesítőképesség 10%-át, vagy kiserőmű esetében annak névleges teljesítőképessége a növeléssel együtt eléri vagy meghaladja az 50 MW-ot.
 
-(2) Az erőmű teljesítményének növelésére vonatkozó engedély iránti kérelemhez e rendelet 5. számú mellékletében meghatározott iratokat és adatokat kell benyújtani.
+(2) Az erőmű névleges teljesítőképességének növelésére vonatkozó engedély iránti kérelemhez az 5. számú mellékletben meghatározott iratokat és adatokat kell benyújtani.
 
-(3) A teljesítménynövelés megvalósulása után az engedélyes a próbaüzem záró jegyzőkönyvének keltét követő 30 napon belül köteles kérelmezni a működési engedélye módosítását, vagy kiserőmű esetén a villamosenergia-termelésre vonatkozó működési engedély kiadását.
+(3) A névleges teljesítőképesség növelés megvalósulása után az engedélyes a próbaüzem záró jegyzőkönyvének keltét követő 30 napon belül köteles kérelmezni a működési engedélye módosítását, vagy kiserőmű esetében a villamosenergia-termelésre vonatkozó működési engedély kiadását.
+
+[^194]: A Vhr. 65. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^195]: A Vhr. 65. §-a a 378/2011. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.

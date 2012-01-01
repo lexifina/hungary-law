@@ -1,1 +1,3 @@
-127. § A 97. § szerinti megfelelési jelentést először a 2009. évben kell benyújtani.
+127. §[^301]
+
+[^301]: A Vhr. 127. §-át a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.

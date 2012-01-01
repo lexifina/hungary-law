@@ -1,5 +1,3 @@
-55. § (1)[^137] A VET 74. §-ában meghatározott engedélyköteles tevékenységet – a VET 74. §-ának (1) bekezdés a), c) és e)–i) pontja kivételével – belföldi székhellyel rendelkező korlátolt felelősségű társaság vagy részvénytársaság végezhet, ha megfelel a VET-ben, e rendeletben és a vonatkozó egyéb jogszabályokban meghatározott feltételeknek.
+55. §[^181] A VET 74. § (1) bekezdés a) és h)–i) pontjában meghatározott engedélyköteles tevékenységet csak a Ptk. 685. § c) pontjában meghatározott belföldi székhellyel rendelkező gazdálkodó szervezet, a VET 74. § (1) bekezdés b) pontjában meghatározott engedélyköteles tevékenységet belföldi székhellyel rendelkező korlátolt felelősségű társaság vagy részvénytársaság végezhet, ha megfelel a VET-ben, e rendeletben és a vonatkozó egyéb jogszabályokban meghatározott feltételeknek.
 
-(2) A VET 74. §-ának (1) bekezdés a), h) és i) pontjában meghatározott engedélyköteles tevékenységet csak a Ptk. 685. §-ának c) pontjában meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet folytathat.
-
-[^137]: A Vhr. 55. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 573–574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^181]: A Vhr. 55. §-a a 378/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.

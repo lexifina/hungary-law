@@ -1,10 +1,24 @@
 ## (A VET 25. §-ához)
 
-## Hálózatfejlesztési terv[^32]
+## Hálózatfejlesztési terv[^36]
 
-9. §[^33] (1) Az átviteli rendszerirányító a hálózatfejlesztési terv elkészítésekor felülvizsgálja az előző tervezési időszakban készített hálózati tervet és meghatározza az adott tervezési időszak során figyelembe veendő szempontokat.
+9. §[^37] (1) Az átviteli rendszerirányító a villamosenergia-rendszer 132 kV-os és annál nagyobb feszültségű hálózatokra vonatkozó hálózatfejlesztési terv (a továbbiakban: hálózatfejlesztési terv) megalapozása érdekében a fogyasztói igények előrejelzéséről és a villamosenergia-rendszer közép- és hosszú távú forrásoldali kapacitásfejlesztéséről külön-külön elemzést készít.
 
-(2) A hálózati engedélyes által készítendő hálózatfejlesztési terv formájára, kötelező tartalmi elemeire, vizsgálati szempontjaira vonatkozó részletes szabályokat az üzemi szabályzat tartalmazza.
+(2) Az átviteli rendszerirányító az (1) bekezdés szerinti elemzésekben dokumentálja
 
-[^32]: A Vhr. 9. §-át megelőző alcíme a 378/2011. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^33]: A Vhr. 9. §-a a 100/2011. (VI. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+a) az előző elemzési ciklusban készített változatok értékelését,
+
+b) az adott elemzési ciklus során figyelembe veendő szempontokat és az ezek alapján kidolgozandó elemzések változatait, és
+
+c) a kidolgozott változatokat.
+
+(3) Az átviteli rendszerirányító a hálózatfejlesztési tervben dokumentálja
+
+a) az előző tervezési ciklusban készített változatok értékelését,
+
+b) az adott tervezési ciklus során figyelembe veendő szempontokat és a hálózatfejlesztési terv ezek alapján kidolgozandó változatait, és
+
+c) az egyes, részletesen kidolgozott – műszakilag egyenértékű – hálózatfejlesztési változatokat, ennek keretében a 132 kV-os és annál nagyobb feszültségű hálózat állapotát, továbbá a megvalósítandó változatra vonatkozó javaslatot.
+
+[^36]: A Vhr. 9. §-át megelőző alcíme a 378/2011. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^37]: A Vhr. 9. §-a a 378/2011. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.

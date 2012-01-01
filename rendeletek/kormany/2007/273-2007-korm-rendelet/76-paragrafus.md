@@ -1,9 +1,11 @@
-76. § (1) A magánvezetéki összevont engedélyes esetében a magánvezeték működésének szüneteltetése legfeljebb öt évre engedélyezhető.
+76. §[^210] (1) A 2011. október 1-je előtt létesített és a VET 39. § (1) bekezdés b)–c) pontja szerinti magánvezeték megszüntetésére vonatkozó engedély akkor adható ki, ha
 
-(2) Az (1) bekezdés szerinti magánvezeték működésének szüneteltetésére engedély akkor adható, ha
+a) a magánvezetékre vételező vagy felhasználó nem kapcsolódik,
 
-a) az (1) bekezdés szerinti magánvezetékre felhasználó nem kapcsolódik,
+b) a magánvezetékre kapcsolódó vételező vagy felhasználó közcélú hálózatról történő közvetlen ellátása a megszüntetés után biztosított, vagy
 
-b) a működés szüneteltetése alatt is gondoskodnak a vezeték állagmegőrzéséről.
+c) a felhasználási hely vagy a magánvezeték átruházásra került, és az új felhasználó a VET 74. § (1) bekezdés h) pontja szerinti engedélyt megkapta.
 
-(3) Ha az (1) bekezdés szerinti magánvezeték működése szünetelésének időtartama alatt az új igénybejelentést tevő vételezni kívánó felhasználók vételezése más módon nem biztosítható, vagy a vezeték állagmegőrzése nem biztosított, a Hivatal a vezetéket közcélúvá nyilváníthatja és az engedélyt visszavonhatja.
+(2) Ha a magánvezeték megszüntetésére irányuló kérelem esetében az (1) bekezdés szerinti feltételek nem teljesülnek, a Hivatal a magánvezeték engedélyesével szemben a VET 39/E. §-ában foglaltak szerint járhat el.
+
+[^210]: A Vhr. 76. §-a a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.

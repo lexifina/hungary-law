@@ -2,16 +2,16 @@
 
 ## A villamosenergia-piaci verseny elősegítése
 
-104. § (1) A VET 107. §-ának (1) bekezdésében meghatározott piacokon a Hivatal a keresleti és kínálati helyettesíthetőség alapján azonosítja az érintett piacokat. A Hivatal az érintett piacok azonosítását, a piaci verseny hatékonyságának elemzését, a jelentős piaci erővel rendelkező engedélyesek azonosítását, valamint a rájuk vonatkozó kötelezettségek előírását a versenyjog vonatkozó szabályaival összhangban, illetve a magyar villamos-energiapiac sajátosságainak figyelembevételével végzi el.
+104. §[^271] (1) A VET 107. § (1) bekezdésében meghatározott piacokon belül a Hivatal termék vagy szolgáltatási részpiacokat azonosíthat. A Hivatal a termék vagy szolgáltatási részpiacok azonosítását, a piaci verseny hatékonyságának elemzését, a jelentős piaci erővel rendelkező engedélyesek azonosítását, valamint a rájuk vonatkozó kötelezettségek előírását a versenyjog vonatkozó szabályaival összhangban és a magyar villamos-energiapiac sajátosságainak figyelembevételével végzi el.
 
-(2) E cím alkalmazásában érintett piac a Hivatal által – a versenyjog szabályaival összhangban – meghatározott, keresleti és kínálati helyettesíthetőséggel jellemezhető, területileg elhatárolható termék- és szolgáltatási piac, amelyen a verseny hatékonyságának elemzése és az engedélyesek piaci erejének vizsgálata történik.
+(2) A Hivatal meghatározott, keresleti és kínálati helyettesíthetőséggel jellemezhető, területileg elhatárolható termék vagy szolgáltatási részpiacokon elemzi a verseny hatékonyságát, és megvizsgálja az engedélyesek piaci erejét.
 
-(3) Az érintett piacok területi meghatározása során a Hivatal figyelembe veszi
+(3) A termék vagy szolgáltatási részpiacok meghatározása során a Hivatal figyelembe veszi
 
-a) a vizsgált termék- és szolgáltatási piacon értékesített villamos energia árában megfigyelhető területi eltéréseket,
+a) a villamos energia beszerzésének, illetve értékesítésének lehetőségeit, korlátait, figyelemmel a tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 14. § (3) bekezdésében foglalt szempontokra,
 
-b) a villamos energia beszerzésének, illetve értékesítésének lehetőségeit, korlátait, figyelemmel a Tpvt. 14. §-ának (3) bekezdésében foglalt szempontokra,
+b) a hálózati szűk keresztmetszeteket, az egyes földrajzi területeken érvényesülő szabályozási gyakorlatban megnyilvánuló különbségeket,
 
-c) a hálózati szűk keresztmetszeteket, az egyes földrajzi területeken érvényesülő szabályozási gyakorlatban megnyilvánuló különbségeket,
+c) egyéb, a piaci versenyfeltételek homogenitását befolyásoló tényezőket.
 
-d) egyéb, a piaci versenyfeltételek homogenitását befolyásoló tényezőket.
+[^271]: A Vhr. 104. §-a a 378/2011. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.

@@ -1,11 +1,10 @@
 ## (A VET 85. §-ához)
 
-## Magánvezeték engedélyezése
+## Magánvezeték engedélyezése[^207]
 
-74. § (1) A Hivatal a magánvezeték létesítésére és működtetésére vonatkozó engedélyt egy eljárásban, összevontan adja ki (továbbiakban: magánvezetéki összevont engedély).
+74. §[^208] (1) A VET 74. § (1) bekezdés h) pontja szerinti engedély iránti kérelmet a felhasználó nyújthatja be.
 
-(2) A VET 74. § (1) bekezdés h) pontja szerinti engedély iránti kérelmet a magánvezeték tulajdonosa nyújthatja be.
+(2) Az engedély iránti kérelemhez mellékelni kell a 13. számú mellékletben előírtakat.
 
-(3) Amennyiben a tulajdonos és az üzemeltető nem azonos személy, úgy az engedélyes úgy felel a magánvezeték üzemeltetéséért, mintha azt maga végezte volna.
-
-(4) Az engedély iránti kérelemhez mellékelni kell a 13. számú mellékletben előírtakat.
+[^207]: A Vhr. 74. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^208]: A Vhr. 74. §-a a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.

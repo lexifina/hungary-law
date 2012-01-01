@@ -1,16 +1,12 @@
 ## (A VET 66. §-ához)
 
-## A villamos energia továbbadása[^120]
+## A villamos energia továbbadása[^139]
 
-38. § (1) A felhasználó a saját vagy az általa üzemeltetett magánvezetéken keresztül, a felhasználási helyen belül, az általa vásárolt villamos energiát harmadik személynek továbbadhatja.
+38. §[^140] (1) A VET 66. § (7) bekezdésében a továbbadó felhasználó által fizetett, a vételező felé érvényesíthető átlagos rendszerhasználati díjon a továbbadó felhasználó rendszerhasználati díjakra vonatkozó legutolsó számlájában szereplő, adók nélküli díjösszeg és a számla forgalmi típusú díjainak alapjául szolgáló kWh-mennyiség hányadosát kell érteni. Amennyiben a vételező és a továbbadó felhasználó egységnyi lekötött teljesítményre eső villamos energia vételezése eltér, akkor ennek hatása figyelembe vehető az átlagárszámítás során.
 
-(2) A felhasználó köteles a továbbadásról az őt ellátó villamosenergia-kereskedőt legkésőbb a továbbadás megkezdését megelőzően 15 nappal írásban tájékoztatni. A tájékoztatás elmulasztása esetén a villamosenergia-kereskedő nem köteles a VET 66. § (11) bekezdésében előírt szabályokat a felhasználó kikapcsolása során betartani.
+(2) A továbbadó felhasználó és a vételező az adott üzleti év lezárása után a továbbadásra vonatkozó számlákban érvényesített villamos energia és rendszerhasználati díjösszegek, valamint az adott üzleti évre kiszámított tényleges villamos energia beszerzési átlagárral és átlag rendszerhasználati díjjal számított díjösszegek különbségével egymással 30 napon belül elszámol.
 
-(3) Ha a felhasználó és az általa végzett villamosenergia-továbbadással vételező vételezési szokásai lényegesen eltérnek, vagy a továbbadás nem a vételezés feszültségszintjén történik, és ez többletköltséget okoz, a továbbadó a felhasználóval szemben az ebből adódó többletköltségeit – a 13. § (1) bekezdés szerinti szerződésben rögzített megállapodásuk szerint – a 12. § (6) bekezdés szabályai szerint elszámolhatja.
+(3) A felhasználó a vásárolt villamos energiát a felhasználási helyen kívüli más személy részére nem adhatja tovább.
 
-(4)[^121] A felhasználó az (1) és (2) bekezdésben foglaltakat igazoló iratai tekintetében a VET 168. § (3) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell. Az eljárás akadályozása esetén a Hivatal az ügyféllel szemben a VET 96. § (1) bekezdése szerinti jogkövetkezményeket alkalmazhatja.
-
-(5) A felhasználó a vételezett villamos energiát a felhasználási helyen kívüli más vételező részére nem adhatja tovább.
-
-[^120]: A Vhr. 38. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^121]: A Vhr. 38. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^139]: A Vhr. 38. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^140]: A Vhr. 38. §-a a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.

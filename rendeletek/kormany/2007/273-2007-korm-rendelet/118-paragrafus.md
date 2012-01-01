@@ -2,9 +2,9 @@
 
 ## A Hivatal eljárására vonatkozó általános szabályok
 
-118. § (1)[^218]
+118. § (1)[^292]
 
-(2)[^219] A Hivatal határozatainak közzététele során a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló, valamint az állam- és a szolgálati titokról szóló törvény rendelkezéseinek figyelembevételével jár el.
+(2)[^293] A Hivatal határozatainak közzététele során a az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint a minősített adat védelméről szóló törvény rendelkezéseinek figyelembevételével jár el.
 
-[^218]: A Vhr. 118. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^219]: A Vhr. 118. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 574. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^292]: A Vhr. 118. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^293]: A Vhr. 118. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 27. §-ával megállapított szöveg.
