@@ -12,11 +12,11 @@
 
 ## Doc 7030/4 – Regional Supplementary Procedures (Amendment No. 209 (28/01/05))
 
-## A szabályok szorosan kapcsolódnak a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendeletben leírtakhoz.
+## A szabályok szorosan kapcsolódnak Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendeletben leírtakhoz.
 
 ## 1.1. Az illetékesség meghatározása
 
-## 1.1.1. A Magyar Köztársaságban a légiközlekedésről szóló 1995. évi XCVII. tv. (a továbbiakban: Lt.) 5. §-ában kapott felhatalmazás alapján a közlekedésért felelős miniszter a honvédelmi miniszterrel együttesen rendeletben jelöli a magyar légtérnek a légiközlekedés által igénybe vehető részét, és meghatározza az ellenőrzött légtereket (ahol légiforgalmi irányító szolgálatot kell biztosítani), és a nem ellenőrzött légtereket (ahol a légijárművezető, repüléstájékoztató szolgálat igénybevételével saját felelősségére közlekedik), továbbá a légtérnek azt a részét, ahol a légiforgalmi szolgálatokat nemzetközi szerződés alapján a szomszédos országok, illetve szakosított nemzetközi szervezet illetékes légiforgalmi szolgálati egysége(i) látják el.
+## 1.1.1. Magyarországon a légiközlekedésről szóló 1995. évi XCVII. tv. (a továbbiakban: Lt.) 5. §-ában kapott felhatalmazás alapján a közlekedésért felelős miniszter a honvédelmi miniszterrel együttesen rendeletben jelöli a magyar légtérnek a légiközlekedés által igénybe vehető részét, és meghatározza az ellenőrzött légtereket (ahol légiforgalmi irányító szolgálatot kell biztosítani), és a nem ellenőrzött légtereket (ahol a légijárművezető, repüléstájékoztató szolgálat igénybevételével saját felelősségére közlekedik), továbbá a légtérnek azt a részét, ahol a légiforgalmi szolgálatokat nemzetközi szerződés alapján a szomszédos országok, illetve szakosított nemzetközi szervezet illetékes légiforgalmi szolgálati egysége(i) látják el.
 
 ## Megjegyzés: A magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet.
 
@@ -26,9 +26,9 @@
 
 ## Megjegyzés: A légiforgalmi szolgálatok ellátásának részletes szabályait e rendelet 2. számú melléklete tartalmazza.
 
-## 1.1.2.2. Jelen melléklet rendelkezései a Magyar Köztársaság területén légiforgalmi szolgálatokat ellátó polgári és katonai egységeken túlmenően vonatkoznak azokra az egységekre is, amelyek nemzetközi szerződés alapján a magyar légtér egy szakaszában a légiforgalmi szolgálatok ellátását végzik, kivéve, ha az erről szóló megállapodás ettől eltérően rendelkezik.
+## 1.1.2.2. Jelen melléklet rendelkezései Magyarország területén légiforgalmi szolgálatokat ellátó polgári és katonai egységeken túlmenően vonatkoznak azokra az egységekre is, amelyek nemzetközi szerződés alapján a magyar légtér egy szakaszában a légiforgalmi szolgálatok ellátását végzik, kivéve, ha az erről szóló megállapodás ettől eltérően rendelkezik.
 
-## Megjegyzés: Amennyiben a Magyar Köztársaság az Lt. 5. § f) pontja alapján nemzetközi szerződésben egy szomszédos államra, illetve szakosított nemzetközi szervezetre ruházza át a légiforgalmi szolgálatok ellátásának felelősségét légterének egy részében, azt a nemzeti szuverenitásának érintetlenül hagyása mellett teszi. A magyar területen légiforgalmi szolgálatokat ellátó másik állam, illetve nemzetközi szervezet felelőssége műszaki és üzemeltetési szempontokra korlátozódik, és nem terjed túl az érintett légteret használó légijárművek biztonságának és eredményes működésének biztosításán. A Magyar Köztársaság olyan berendezéseket és szolgáltatásokat biztosít a légiforgalmi szolgálatokat ellátó állam, illetve szervezet számára, amelyek szükségességében kölcsönösen megegyeztek. A felelősséget átruházó Magyar Köztársaság nem szünteti meg ezen berendezések működését és nem módosítja ezeket a szolgáltatásokat a másik állammal történő előzetes egyeztetés nélkül. Mind a felelősséget átruházó Magyar Köztársaság, mind a légiforgalmi szolgálatokat biztosító állam, illetve nemzetközi szervezet bármikor felbonthatja a kettőjük közötti megállapodást, az erről szóló rendelkezések betartásával.
+## Megjegyzés: Amennyiben Magyarország az Lt. 5. § f) pontja alapján nemzetközi szerződésben egy szomszédos államra, illetve szakosított nemzetközi szervezetre ruházza át a légiforgalmi szolgálatok ellátásának felelősségét légterének egy részében, azt a nemzeti szuverenitásának érintetlenül hagyása mellett teszi. A magyar területen légiforgalmi szolgálatokat ellátó másik állam, illetve nemzetközi szervezet felelőssége műszaki és üzemeltetési szempontokra korlátozódik, és nem terjed túl az érintett légteret használó légijárművek biztonságának és eredményes működésének biztosításán. Magyarország olyan berendezéseket és szolgáltatásokat biztosít a légiforgalmi szolgálatokat ellátó állam, illetve szervezet számára, amelyek szükségességében kölcsönösen megegyeztek. A felelősséget átruházó Magyarország nem szünteti meg ezen berendezések működését és nem módosítja ezeket a szolgáltatásokat a másik állammal történő előzetes egyeztetés nélkül. Mind a felelősséget átruházó Magyarország, mind a légiforgalmi szolgálatokat biztosító állam, illetve nemzetközi szervezet bármikor felbonthatja a kettőjük közötti megállapodást, az erről szóló rendelkezések betartásával.
 
 ## 1.1.2.3. Azokban a magyar államhatáron kívül eső szomszédos légterekben, ahol a légiforgalmi szolgálatok ellátásának átruházása következtében a magyar ATS egységek látnak el légiforgalmi szolgálatokat, azokat az érintett állam előírásainak figyelembe-vételével kell ellátni.
 
@@ -160,7 +160,7 @@
 
 ## 2. Megjegyzés: Az ATS légterek ICAO általi osztályozását, a nyújtott szolgáltatásokat és repülési követelményeket jelen melléklet 4. Függeléke tartalmazza.
 
-## A Magyar Köztársaságban érvényes légtérosztályozást a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet 1. melléklete tartalmazza.
+## A Magyarországon érvényes légtérosztályozást a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet 1. melléklete tartalmazza.
 
 ## 1.7. Útvonalrepülésre előírt navigációs pontosság (RNP)
 
@@ -170,7 +170,7 @@
 
 ## 1.7.2. Az IFR szerint működő légijárműveknek a kijelölt ATS útvonalat az ICAO EUR Körzetben RNP5 pontossággal kell tartaniuk.
 
-## Megjegyzés: A légijárművek felszereltségére vonatkozó előírásokat a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet tartalmazza.
+## Megjegyzés: A légijárművek felszereltségére vonatkozó előírásokat Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet tartalmazza.
 
 ## 1.8. Légiforgalmi szolgálatokat ellátó egységek létesítése és elnevezése
 
@@ -246,7 +246,7 @@
 
 ## 1.9.3.4. Ha a repülőtéri irányító körzet egy irányítói körzet oldalhatárain kívül helyezkedik el, akkor a repülőtéri irányító körzet számára felső határt jelölnek ki.
 
-## 1.9.3.5. Amennyiben célszerűnek látszik, hogy a repülőtéri irányító körzet felső határát magasabban jelöljék ki, mint a felette elhelyezkedő irányítói körzet alsó határa, vagy ha a repülőtéri irányító körzet az irányítói körzet oldalhatárán kívül fekszik, annak felső határát úgy határozzák meg, hogy a légijárművezetők részéről az jól azonosítható legyen. Ha ez a határ 3000 láb (900 m) közepes tengerszint feletti magasság felett van, akkor az essen egybe a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „C” Függelékében ismertetett VFR utazómagasságok egyikével.
+## 1.9.3.5. Amennyiben célszerűnek látszik, hogy a repülőtéri irányító körzet felső határát magasabban jelöljék ki, mint a felette elhelyezkedő irányítói körzet alsó határa, vagy ha a repülőtéri irányító körzet az irányítói körzet oldalhatárán kívül fekszik, annak felső határát úgy határozzák meg, hogy a légijárművezetők részéről az jól azonosítható legyen. Ha ez a határ 3000 láb (900 m) közepes tengerszint feletti magasság felett van, akkor az essen egybe Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „C” Függelékében ismertetett VFR utazómagasságok egyikével.
 
 ## 1.9.4. Forgalmi tájékoztató körzetek (TIZ)
 
@@ -308,7 +308,7 @@
 
 ## 1.15.1.2 A LoA az EUROCONTROL Légtér és Navigáció Munkacsoport (ANT) által jóváhagyott, és a tagországok által elfogadott, „A Légiforgalmi Szolgálati Egységek között alkalmazható Egységes Formátumú, Együttműködési Megállapodás” – The Common Format of Letter of Agreement between Air Traffic Services Units” – dokumentumban leírtaknak megfelelően kell megszerkeszteni és alkalmazni.
 
-## 1.15.1.3 A két állam légiforgalmi szolgálati egységeinek vezetoi által aláírt LoA – az 1.15.1.3.2. pontban foglalt eltéréssel – a Magyar Köztársaságban a közlekedésért felelős miniszter véleményét figyelembe véve, a légiközlekedési hatóság jóváhagyását követően lép hatályba.
+## 1.15.1.3 A két állam légiforgalmi szolgálati egységeinek vezetoi által aláírt LoA – az 1.15.1.3.2. pontban foglalt eltéréssel – Magyarországon a közlekedésért felelős miniszter véleményét figyelembe véve, a légiközlekedési hatóság jóváhagyását követően lép hatályba.
 
 ## 1.15.1.3.1 A LoA fő részének állandó módosítása, valamint felbontása, csak a két állam légiforgalmi szolgálati egységeinek vezetoi aláírása, és a légiközlekedési hatóságok jóváhagyása után válik hatályossá.
 
@@ -426,7 +426,7 @@
 
 ## Jelen előírás 5. Függelékére – (A léginavigációs adatok minőségi előírásai) – vonatkozó kiegészítő tájékoztatásokat az RTCA DO-201A és az EUROCAE ED-77 kiadványok tartalmaznak.
 
-## 1.19.4. A légiközlekedésben használatos szélességi és hosszúsági földrajzi koordinátákat a Magyar Köztársaságban WGS-84 formátumban határozzák meg és teszik közzé.
+## 1.19.4. A légiközlekedésben használatos szélességi és hosszúsági földrajzi koordinátákat Magyarországon WGS-84 formátumban határozzák meg és teszik közzé.
 
 ## 1. Megjegyzés: A léginavigációs adatok közzétételével kapcsolatos előírásokat az ICAO 4. Annex 2. Fejezete és az ICAO 15. Annex 3. Fejezete tartalmazza.
 
@@ -486,7 +486,7 @@
 
 ## 1.22. Minimális repülési magasságok
 
-## A minimális repülési magasságokat a Magyar Köztársaság légterében lévő valamennyi ATS útvonalra közzéteszik. A meghatározott minimális repülési magasságok biztonságos elkülönítést tartanak az érintett területen levő figyelembe veendő akadály felett.
+## A minimális repülési magasságokat Magyarország légterében lévő valamennyi ATS útvonalra közzéteszik. A meghatározott minimális repülési magasságok biztonságos elkülönítést tartanak az érintett területen levő figyelembe veendő akadály felett.
 
 ## Megjegyzés: A minimális repülési magasságok meghatározására és közzétételére vonatkozó előírásokat az ICAO 15. Annex 1. Függeléke tartalmazza. Az akadálymentességi előírások részletezése a PANS-OPS (ICAO Doc. 8168) kiadvány II. kötet IV. Részében található.
 
@@ -504,11 +504,11 @@
 
 ## 1.24. ATM biztonság-irányítási rendszer
 
-## 1.24.1 A Magyar Köztársaság légtereiben és repülőterein az ATM által nyújtott szolgáltatás biztonságossága érdekében ATM biztonság-irányítási programot kell működtetni.
+## 1.24.1 Magyarország légtereiben és repülőterein az ATM által nyújtott szolgáltatás biztonságossága érdekében ATM biztonság-irányítási programot kell működtetni.
 
 ## 1.24.2 Budapest FIR-ben, GAT-ként működő, 5700 kg maximális felszálló tömeget meghaladó légijárművel végzett gazdasági célú légiközlekedésben, az ATM által nyújtott szolgáltatások tervezett fejlesztésének arra kell irányulnia, hogy az ATM közvetlen tevékenységével összefüggő biztonsági mutatószám ne haladja meg az 1,55 x 10-8 légiközlekedési baleset/repült óra értéket.
 
-## 1.24.3 A Magyar Köztársaság nemzeti ATM biztonság-irányítási programját az alábbi irányelvek figyelembevételével az ATM szolgáltatók és a légiközlekedési baleset kivizsgáló szervezet javaslata alapján, a légiközlekedési hatóság dolgozza ki.
+## 1.24.3 Magyarország nemzeti ATM biztonság-irányítási programját az alábbi irányelvek figyelembevételével az ATM szolgáltatók és a légiközlekedési baleset kivizsgáló szervezet javaslata alapján, a légiközlekedési hatóság dolgozza ki.
 
 ## a) a tényleges és lehetséges veszélyek beazonosítása és a helyesbítő intézkedések szükségességének meghatározása;
 
@@ -636,7 +636,7 @@
 
 ## 2.3.4. A légiforgalmi irányító egységnek az elkülönítést legalább az alábbiak egyikével kell biztosítania:
 
-## a) függőleges elkülönítés alkalmazásával, amelyhez a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „C.” Függelékében szereplő Utazómagasságok Táblázatában található különböző repülési szinteket kell kijelölni;
+## a) függőleges elkülönítés alkalmazásával, amelyhez Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „C.” Függelékében szereplő Utazómagasságok Táblázatában található különböző repülési szinteket kell kijelölni;
 
 ## kivéve, ha a Légiforgalmi Tájékoztató Kiadványban (AIP) közzé nem teszik, hogy a repülési szinteket nem az útirányszögnek megfelelően alkalmazzák, vagy légiforgalmi irányítói engedélyben ettől el nem térnek;
 
@@ -1120,7 +1120,7 @@
 
 ## 5.4.1. Radarberendezések telepítése
 
-## A Magyar Köztársaság területe feletti repülések ellenőrzésére és irányítására radarberendezéseket kell üzemeltetni, melyek technikai lehetőségétől függően a repülések folyamatosan ellenőrizhetők.
+## Magyarország területe feletti repülések ellenőrzésére és irányítására radarberendezéseket kell üzemeltetni, melyek technikai lehetőségétől függően a repülések folyamatosan ellenőrizhetők.
 
 ## 5.4.2. Radaradatok és ADS adatok automatikus rögzítése
 
@@ -1220,7 +1220,7 @@
 
 ## 6.4. Személyzet nélküli szabad ballonokra vonatkozó tájékoztatások
 
-## 6.4.1. A személyzet nélküli szabad ballonok üzemeltetőinek a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „D” Függelékében előírt követelményeknek megfelelően tájékoztatniuk kell az illetékes légiforgalmi szolgálatokat a személyzet nélküli szabad ballonok repülésének részletes adatairól.
+## 6.4.1. A személyzet nélküli szabad ballonok üzemeltetőinek Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „D” Függelékében előírt követelményeknek megfelelően tájékoztatniuk kell az illetékes légiforgalmi szolgálatokat a személyzet nélküli szabad ballonok repülésének részletes adatairól.
 
 ## 6.5. Vulkáni tevékenységre vonatkozó tájékoztatások
 
@@ -1330,7 +1330,7 @@
 
 ## 3.1.4. Magyarország az útvonalak jelölésére vonatkozó igényeit egyeztetés céljából az ICAO EUR/NAT körzeti irodának (Párizs) nyújtja be.
 
-## Megjegyzés: A Magyar Köztársaság területe felett áthaladó ATS útvonalak kijelölésével, módosításával kapcsolatos eljárásokat a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet tartalmazza.
+## Megjegyzés: Magyarország területe felett áthaladó ATS útvonalak kijelölésével, módosításával kapcsolatos eljárásokat a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet tartalmazza.
 
 ## 4. A jelölések alkalmazása az összeköttetések során
 
@@ -1668,7 +1668,7 @@
 
 ## (az 1. Fejezet 1.6.1. ponthoz)
 
-## 1M32169M_0
+## 1M41447O_0
 
 | Légtér- osztály | Repülések típusa | Biztosított elkülönítés | Biztosított szolgálat | Sebességkorlátozási előírások* | Rádióösszeköttetésre vonatkozó előírások | ATC engedély szükségessége |
 
@@ -1734,7 +1734,7 @@
 
 ## 3. Megjegyzés: A repülőtér/helikopter repülőtér határain kívüli területekre, valamint az állam teljes területére előírtaknak megfelelő akadályadatok 2008. november 20-i, illetve 2010. november 18-i elérhetőségéről szóló ICAO 15. Annex 10.6.1.1 és 10.6.1.2 rendelkezéseinek bevezetését elősegítené egy, az ilyen adatok gyűjtésére és feldolgozására szóló előzetes terv.
 
-## 1M32169M_2
+## 1M41447O_2
 
 | 2. Táblázat Tengerszinthez viszonyított/tengerszint/repülőtér feletti magasságok |
 
@@ -1808,7 +1808,7 @@ Doc 4444 – Procedures for Air Navigation Services – Air Traffic Management (
 
 Doc 7030/4 – Regional Supplementary Procedures (Amendment No. 209 (28/01/05))
 
-Az eljárások szorosan kapcsolódnak a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendeletben leírtakhoz.
+Az eljárások szorosan kapcsolódnak Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendeletben leírtakhoz.
 
 1.2. TÁRGYKÖR ÉS CÉLOK
 
@@ -1820,9 +1820,9 @@ A LÉGIFORGALMI SZOLGÁLTATÁS (ATM) BIZTONSÁG-IRÁNYÍTÁSI RENDSZERE
 
 2.1 ÁLTALÁNOS RÉSZ
 
-2.1.1 Jelen rendelet 1. számú mellékletében leírtaknak megfelelően, a Magyar Köztársaság légterében és repülőterein üzemelő repülésekre biztosítják, hogy a nyújtott légiforgalmi szolgálatok, az összeköttetések, a navigációs infrastruktúra és a légtérellenőrzés, valamint az alkalmazott légiforgalmi eljárások fenntartják a légiforgalmi szolgáltatásokra előírt elfogadható biztonsági szintet.
+2.1.1 Jelen rendelet 1. számú mellékletében leírtaknak megfelelően, Magyarország légterében és repülőterein üzemelő repülésekre biztosítják, hogy a nyújtott légiforgalmi szolgálatok, az összeköttetések, a navigációs infrastruktúra és a légtérellenőrzés, valamint az alkalmazott légiforgalmi eljárások fenntartják a légiforgalmi szolgáltatásokra előírt elfogadható biztonsági szintet.
 
-2.1.2 A Magyar Köztársaság légterében és repülőterein nyújtott szolgálatok, az alkalmazott eljárások, a telepített rendszerek követelményei, a szomszédos ATS egységekkel történő légtér-harmonizációt biztosítva kerülnek meghatározásra.
+2.1.2 Magyarország légterében és repülőterein nyújtott szolgálatok, az alkalmazott eljárások, a telepített rendszerek követelményei, a szomszédos ATS egységekkel történő légtér-harmonizációt biztosítva kerülnek meghatározásra.
 
 2.2 CÉLOK
 
@@ -2250,7 +2250,7 @@ Ugyanazon légiforgalmi irányító egységen belül egy légijármű irányít�
 
 A légiforgalmi szolgálatokat igénybe vevő légijárműveknek, tervezett repüléseik adatait tartalmazó repülési terv benyújtásával kell tájékoztatniuk a légiforgalmi szolgálati egységeket.
 
-Megjegyzés: A repülési tervek benyújtására, elfogadására, szétosztására vonatkozó előírásokat a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet tartalmazza.
+Megjegyzés: A repülési tervek benyújtására, elfogadására, szétosztására vonatkozó előírásokat Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet tartalmazza.
 
 4.5 LÉGIFORGALMI IRÁNYÍTÓI ENGEDÉLYEK
 
@@ -2262,7 +2262,7 @@ Megjegyzés: A repülési tervek benyújtására, elfogadására, szétosztásá
 
 4.5.1.3 A légiforgalmi irányítói engedélyeknek a légiforgalmi irányító egységek által történő kiadása csak az ismert forgalommal összhangban történő működésre jelent felhatalmazást a légijármű részére. Az ATC engedélyek nem jogosítanak fel a repülés biztonságát szolgáló, vagy egyéb célból hozott szabályoktól történő semmilyen eltérésre és nem mentesítik a légijármű parancsnokát az érvényes szabályok és rendelkezések esetleges megsértésével kapcsolatos semmilyen felelőssége alól.
 
-Megjegyzés: Lásd még a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet 2.6.1.3 pontját is.
+Megjegyzés: Lásd még Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet 2.6.1.3 pontját is.
 
 4.5.1.4 Az ATC egységeknek olyan ATC engedélyeket kell kiadniuk, amelyek az összeütközések megelőzése, a légiforgalom szabályszerű áramlásának fenntartása és meggyorsítása érdekében szükségesek.
 
@@ -2386,9 +2386,9 @@ c) névleges 4000 láb (1200 m):
 
 – a szuperszonikus sebességgel haladó katonai légijárművek és egyéb légijárművek között FL410-en és felette.
 
-1. Megjegyzés: A Budapest FIR-t is magába foglaló EUR RVSM légtér részletes leírását lásd a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet mellékletének, 2. Fejezet 2.6.1.10 pontjában.
+1. Megjegyzés: A Budapest FIR-t is magába foglaló EUR RVSM légtér részletes leírását lásd Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet mellékletének, 2. Fejezet 2.6.1.10 pontjában.
 
-2. Megjegyzés: Budapest FIR-ben a függőleges elkülönítés alkalmazására szolgáló repülési magasságok lépcsőzését a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet melléklete („C” Függelék – Utazómagasságok táblázata) tartalmazza.
+2. Megjegyzés: Budapest FIR-ben a függőleges elkülönítés alkalmazására szolgáló repülési magasságok lépcsőzését Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet melléklete („C” Függelék – Utazómagasságok táblázata) tartalmazza.
 
 5.3.2.1 Az ATC-nek legalább 2000 láb (600 m) függőleges elkülönítést kell biztosítania az EUR RVSM légtérben a rádióhibás légijármű és az ott üzemelő többi légijármű között.
 
@@ -2410,7 +2410,7 @@ Megjegyzés: Lásd az 5. Fejezet 5.3.4.1.1 pontját a függőleges sebességszab
 
 5.3.3.7 Valamely utazómagasságon haladó légijármű rendszerint elsőbbséget élvez egy másik, ugyanazon utazómagasságot kérő légijárművel szemben. Amikor két, vagy több légijármű van ugyanazon az utazómagasságon, rendszerint az elől haladó légijárműnek van elsőbbsége.
 
-5.3.3.8 Az ellenőrzött repülésekre kijelölendő utazómagasságokat a légijárművek részére a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „C” Függelékében lévő táblázatból kell választani. Az utazómagasságok irányultságára vonatkozó szabálytól irányítói engedéllyel, vagy az AIP-ben közzétett esetekben el lehet térni.
+5.3.3.8 Az ellenőrzött repülésekre kijelölendő utazómagasságokat a légijárművek részére Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „C” Függelékében lévő táblázatból kell választani. Az utazómagasságok irányultságára vonatkozó szabálytól irányítói engedéllyel, vagy az AIP-ben közzétett esetekben el lehet térni.
 
 5.3.4 Függőleges elkülönítés emelkedés vagy süllyedés közben
 
@@ -3042,7 +3042,7 @@ c) KÖNNYŰ (LIGHT – L) – a 7000 kg vagy ennél könnyebb légijármű típu
 
 A nehéz turbulencia kategóriába tartozó légijárművek vezetői, közvetlenül a légijármű hívójele után, a „NEHÉZ” (HEAVY) szót bemondják az ATS egységgel történő első összeköttetés felvételekor.
 
-Megjegyzés: A repülési terv 9. rovatában a turbulencia kategóriák kitöltésére vonatkozó előírásokat A Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet melléklete tartalmazza.
+Megjegyzés: A repülési terv 9. rovatában a turbulencia kategóriák kitöltésére vonatkozó előírásokat Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet melléklete tartalmazza.
 
 4.10. MAGASSÁGMÉRŐ-BEÁLLÍTÁSI ELJÁRÁSOK
 
@@ -3128,7 +3128,7 @@ Megjegyzés: Lásd az 5.9 pont 3. Megjegyzését is!
 
 4.11.2 A beszédüzemű helyzetjelentések tartalma
 
-Megjegyzés: A helyzetjelentések tartalmára vonatkozó előírásokat a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet tartalmazza.
+Megjegyzés: A helyzetjelentések tartalmára vonatkozó előírásokat Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet tartalmazza.
 
 A légijárművek által továbbított helyzetjelentésekből a repülési magasságra vonatkozó információ kihagyható, ha a légijárműnek SSR „C” mód információból nyert repülési szintje, vagy tengerszint feletti magassága – amelyik a megfelelő – a légijármű radarhelyzet jelzésével társított címkében, folyamatosan az irányítók rendelkezésére áll és amikor a „C” módból származó SSR információk biztonságos és hatékony felhasználására megfelelő eljárásokat dolgoztak ki.
 
@@ -3220,13 +3220,13 @@ Hibás adatkapcsolat kezdeményezésekor tájékoztatni kell az adatkapcsolatot 
 
 4.16 AZ EUR RVSM LÉGTÉRBE BELÉPŐ, ILLETVE EZEN LÉGTÉRBŐL KILÉPŐ LÉGIJÁR-MŰVEKRE VONATKOZÓ ELŐÍRÁSOK
 
-Megjegyzés: Budapest FIR és a Budapest FIR-rel szomszédos FIR/UIR-ek egyaránt részét képezik az EUR RVSM légtérnek [lásd a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet mellékletének 2. fejezet 2.6.1.10 pontját], ezért az alábbiakban leírt eljárásokat csak szükség esetén, az RVSM alkalmazhatóságának valamely okból történő felfüggesztésekor kell alkalmazni (pl. erős turbulencia miatt felfüggesztett RVSM eljárások).
+Megjegyzés: Budapest FIR és a Budapest FIR-rel szomszédos FIR/UIR-ek egyaránt részét képezik az EUR RVSM légtérnek [lásd Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet mellékletének 2. fejezet 2.6.1.10 pontját], ezért az alábbiakban leírt eljárásokat csak szükség esetén, az RVSM alkalmazhatóságának valamely okból történő felfüggesztésekor kell alkalmazni (pl. erős turbulencia miatt felfüggesztett RVSM eljárások).
 
 4.16.1 RVSM engedélyezett légijárművek és nem RVSM engedélyezett állami légijárművek nem RVSM környezetből történő belépése az EUR RVSM légtérbe
 
 4.16.1.1 RVSM engedélyezett légijárműveknek és nem RVSM engedélyezett állami légijárműveknek, nem RVSM környezetből az EUR RVSM légtérbe történő belépésüket olyan magasságon kell végrehajtaniuk, amely megfelel:
 
-a) a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet számú mellékletében (C Függelék – Utazómagasságok táblázata) közzétett valamely magasságnak és/vagy,
+a) Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet számú mellékletében (C Függelék – Utazómagasságok táblázata) közzétett valamely magasságnak és/vagy,
 
 b) az ACC-k közötti együttműködési megállapodásban meghatározott valamely magasságnak.
 
@@ -3246,7 +3246,7 @@ b) az ACC-k közötti együttműködési megállapodásban meghatározott valame
 
 4.16.3 Nem RVSM engedélyezett polgári üzemelések
 
-Megjegyzés: A repülési tervvel kapcsolatos követelményeket lásd a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet mellékletében.
+Megjegyzés: A repülési tervvel kapcsolatos követelményeket lásd Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet mellékletében.
 
 4.16.3.1 Azon nem RVSM engedélyezett légijárműveket, melyek indulási repülőtere az EUR RVSM légtér oldalhatárán kívül, de rendeltetési repülőterük azon belül található:
 
@@ -3736,7 +3736,7 @@ b) átstartolásra, vagy megszakított megközelítés végrehajtására kell ut
 
 c) minden esetben tájékoztatni kell a légijárművet a futópálya sértésről, vagy az akadályról és annak helyéről a futópályán.
 
-Megjegyzés: A futópálya üzemelésre vonatkozóan az állatok és madár csoportok akadályt képezhetnek.Továbbá a földetérési pont után végrehajtott megszakított felszállás, vagy átstartolás a légijármű futópálya túlfutási kockázatát eredményezheti. Ezen túlmenően alacsony magasságon történő megszakított megközelítés a repülőgép faroktörésének kockázatát eredményezheti. Ezért a légijárművezetőknek a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet 1. Fejezet 1.4 pontjában leírtaknak megfelelően kell eljárniuk.
+Megjegyzés: A futópálya üzemelésre vonatkozóan az állatok és madár csoportok akadályt képezhetnek.Továbbá a földetérési pont után végrehajtott megszakított felszállás, vagy átstartolás a légijármű futópálya túlfutási kockázatát eredményezheti. Ezen túlmenően alacsony magasságon történő megszakított megközelítés a repülőgép faroktörésének kockázatát eredményezheti. Ezért a légijárművezetőknek Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet 1. Fejezet 1.4 pontjában leírtaknak megfelelően kell eljárniuk.
 
 7.3.1.4.2 Egy eseményt követően, beleértve az akadályt a futópályán, vagy a futópálya sértést, a légijárművezetőknek és a légiforgalmi irányítóknak ki kell tölteniük a ICAO formátumú Légiforgalmi Esemény Jeletés űrlapot, illetve az ATS Esemény Jelentés űrlapot.
 
@@ -4230,7 +4230,7 @@ d) értesítse a légijármű üzemben tartókat, vagy kijelölt képviselőiket
 
 7.13.1.4 A 7.13.1.3 pontban előírtnál kisebb földi látástávolság esetén csak az állam- és vagyonvédelemmel, kutatással és mentéssel, valamint a sürgős betegszállítással és életmentéssel kapcsolatos helikopterrepülések részére engedélyezhető különleges VFR repülés végrehajtása, amennyiben az ilyen repülések végrehajtására vonatkozó eljárásokat az illetékes ATC egység és az érintett légijárművek üzembentartói között együttműködési eljárásban rögzítették.
 
-Megjegyzés: Lásd. még a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „L” függelék 1.1.1.1 pontját.
+Megjegyzés: Lásd. még Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet „L” függelék 1.1.1.1 pontját.
 
 7.14 LÉGIFORGALMI FÖLDI FÉNYEK
 
@@ -4504,7 +4504,7 @@ Amikor egy SID-et követő induló légijárműnek az engedélyezett kezdeti mag
 
 6.3.2.5.1 Az induló légijárműveknek szóló engedélyekben a repülés útvonalára a benyújtott repülési tervben töltött magasságtól eltérő kezdeti, vagy közbenső magasságot határozhatnak meg, időbeni, vagy földrajzi korlátozás nélkül. Az ilyen engedélyeket általában azért adják ki, hogy az ATC taktikai, például radarirányítási, módszereinek alkalmazását elősegítsék.
 
-6.3.2.5.2 Amikor az induló légijárműveknek a kezdeti, vagy közbenső magasságokra időbeni, vagy földrajzi megkötés nélküli engedélyeket adnak ki, levegő-föld összeköttetés megszakadása esetén, amikor a légijárművet az érvényes repülési tervében töltött útvonaltól eltérő, más útvonalra vektoráltak, a légijármű a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendeletben leírtak szerint jár el.
+6.3.2.5.2 Amikor az induló légijárműveknek a kezdeti, vagy közbenső magasságokra időbeni, vagy földrajzi megkötés nélküli engedélyeket adnak ki, levegő-föld összeköttetés megszakadása esetén, amikor a légijárművet az érvényes repülési tervében töltött útvonaltól eltérő, más útvonalra vektoráltak, a légijármű Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendeletben leírtak szerint jár el.
 
 6.3.3 Indulási sorrend
 
@@ -4922,4 +4922,10 @@ Megjegyzés: Amennyiben a transzponder műszaki sajátosságai következtében a
 
 a) kérjék fel a légijárművezetőt, hogy szüntesse meg a „C” mód adását, feltéve, hogy az nem szakítja meg válaszjeladójának „A” módú üzemét, és erről az intézkedésről tájékoztassák a légijármű által érintett soron következő irányítói munkahelyeket vagy ATC egységet,
 
-[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja szerint módosított szöveg.
+b) tájékoztassák a légijárművezetőt az eltérésről, és kérjék fel őt, hogy a légijárműre vonatkozó helyzet- és azonosságtájékoztatás fenntartása érdekében folytassa „C” módú üzemét, és tájékoztassák:
+
+1. a légijármű közelében működő érintett légijárművek személyzetét, hogy felhívják a figyelmet az ACAS berendezés esetlegesen helytelen tanácsadására (ACAS RA),
+
+2. a légijármű által érintett következő irányítói munkahelyet, vagy ATC egységet a tett intézkedésről.
+
+[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja szerint módosított szöveg.
