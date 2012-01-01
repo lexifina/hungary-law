@@ -1,0 +1,1 @@
+## „(4) A Nemzeti Adó- és Vámhivatalnál gépjárművezetői pótlékra kizárólag az jogosult, aki a Nemzeti Adó- és Vámhivatal jelzésével és megkülönböztető jelzéssel ellátott gépjárművet rendszeresen, legalább havonta négy alkalommal vezet, és rendelkezik a megkülönböztető jelzés használatához szükséges pályaalkalmassági vizsgával.”
