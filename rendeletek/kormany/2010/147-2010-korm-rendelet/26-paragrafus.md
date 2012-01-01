@@ -4,13 +4,13 @@ a) a kibocsátása meghaladja az 500 m3 /év mennyiséget, vagy
 
 b) a szennyvíz szikkasztása vonatkozásában a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet előírja.
 
-(2)[^3] Egyedi szennyvízkezelő létesítményt akkor lehet létesíteni, ha
+(2)[^5] Egyedi szennyvízkezelő létesítményt akkor lehet létesíteni, ha
 
 a) az megfelel a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó műszaki szabályokról szóló miniszteri rendeletben meghatározott előírásoknak, és
 
 b) programszerű telepítés esetében az engedélyezési eljárás során a kérelmező mellékeli a felelős szolgáltató üzemeltetésre vonatkozó nyilatkozatát.
 
-(3)[^4] Egyedi szennyvízkezelő létesítményt úgy kell létesíteni, hogy
+(3)[^6] Egyedi szennyvízkezelő létesítményt úgy kell létesíteni, hogy
 
 a) az egyedi szennyvízkezelő berendezés esetén az elfolyó tisztított szennyvízből,
 
@@ -26,5 +26,5 @@ b) programszerű telepítés esetében a környezet védelmének általános sza
 
 (5) Az új egyedi szennyvízkezelő létesítmények megvalósításával gondoskodni kell a korábban épített szakszerűtlen egyedi szennyvízkezelő létesítmények felszámolásáról.
 
-[^3]: A 26. § (2) bekezdése a 209/2011. (X. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^4]: A 26. § (3) bekezdése a 209/2011. (X. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^5]: A 26. § (2) bekezdése a 209/2011. (X. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^6]: A 26. § (3) bekezdése a 209/2011. (X. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
