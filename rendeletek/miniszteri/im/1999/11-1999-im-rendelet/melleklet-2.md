@@ -22,7 +22,7 @@
 
 ## P. H.
 
-2. számú melléklet a 11/1999. (X. 6.) IM rendelethez[^26]
+2. számú melléklet a 11/1999. (X. 6.) IM rendelethez[^34]
 
 Joggyakorlati kimutatás
 
@@ -54,7 +54,7 @@ Mindösszesen:
 
 .......................
 
-a megyei (fővárosi) bíróság elnöke
+a törvényszék elnöke
 
 A)
 
@@ -170,4 +170,4 @@ A B C D
 
 -----------------
 
-[^26]: Az eredeti melléklet számozását a 43/2007. (VIII. 31.) IRM rendelet 5. §-a 2. számú mellékletre változtatta.
+[^34]: Az eredeti melléklet számozását a 43/2007. (VIII. 31.) IRM rendelet 5. §-a 2. számú mellékletre változtatta. A 2. számú melléklet a 40/2011. (XII. 30.) KIM rendelet 13. § m) pontja szerint módosított szöveg.

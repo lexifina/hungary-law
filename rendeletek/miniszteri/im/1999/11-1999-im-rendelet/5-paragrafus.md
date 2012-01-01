@@ -2,6 +2,6 @@
 
 5. § (1) A fogalmazó számára a joggyakorlat ideje alatt legalább egy alkalommal biztosítani kell, hogy országosan szervezett képzésben vehessen részt.
 
-(2)[^12] A joggyakorlat ideje alatt a fogalmazó nyelvi képzéséhez és továbbképzéséhez, nyelvvizsgára való felkészüléséhez a bíróság elnöke munkaidő-kedvezményt biztosíthat. Ilyen kedvezmény megadása esetén a nyelvvizsga letételét elő kell írni.
+(2)[^20] A joggyakorlat ideje alatt a fogalmazó nyelvi képzéséhez és továbbképzéséhez, nyelvvizsgára való felkészüléséhez a bíróság elnöke munkaidő-kedvezményt biztosíthat. Ilyen kedvezmény megadása esetén a nyelvvizsga letételét elő kell írni.
 
-[^12]: Az 5. § (2) bekezdésének első mondata a 43/2007. (VIII. 31.) IRM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^20]: Az 5. § (2) bekezdésének első mondata a 43/2007. (VIII. 31.) IRM rendelet 6. § (3) bekezdése szerint módosított szöveg.
