@@ -1,4 +1,4 @@
-1. számú melléklet a 4/1998. (I. 16.) Korm. rendelethez[^35]
+1. számú melléklet a 4/1998. (I. 16.) Korm. rendelethez[^41]
 
 ## Az egyszeri berepülési engedély iránti kérelem kötelező adattartalma
 
@@ -26,10 +26,11 @@
 
 12. Fegyver, lőszer, robbanóanyag vagy egyéb veszélyes anyag szállítása (veszélyes áruk esetén IATA kód szerint) / Transport of gun, ammunition, explosive material or dangerous goods (use IATA classification system if dangerous goods)
 
-13. A légijárművön található rádiótechnikai zavaró vagy felderítő, valamint optikai vagy földtani leképező berendezések megjelölése. Ezeknek az eszközöknek a Magyar Köztársaság területén történő használati szándéka / Electronic warfare and surveillance devices and optical or geographical photographic equipment on board. The purpose of the use of this devices within the Hungarian territory
+13.[^42] A légijárművön található rádiótechnikai zavaró vagy felderítő, valamint optikai vagy földtani leképező berendezések megjelölése. Ezeknek az eszközöknek Magyarország területén történő használati szándéka / Electronic warfare and surveillance devices and optical or geographical photographic equipment on board. The purpose of the use of this devices within the Hungarian territory
 
 14. Megjegyzés / Remarks
 
 15. A kérelmező aláírása / Signature of the applicant
 
-[^35]: Az 1. számú melléklet a 177/2011. (IX. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^41]: Az 1. számú melléklet a 177/2011. (IX. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^42]: Az 1. melléklet 13. pontja a 304/2011. (XII. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

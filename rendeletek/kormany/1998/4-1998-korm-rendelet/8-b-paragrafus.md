@@ -1,4 +1,4 @@
-8/B. §[^29] (1) A 8/A. §-ban meghatározott, a légtér igénybevételének korlátozására irányuló kérelemnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell
+8/B. §[^35] (1) A 8/A. §-ban meghatározott, a légtér igénybevételének korlátozására irányuló kérelemnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell
 
 a) a korlátozás indokait,
 
@@ -20,4 +20,4 @@ e) a korlátozás alá eső légijárművek, repülések, tevékenységek vagy a
 
 (6) A légtér igénybevételi korlátozással érintett légtérben végrehajtott repülésekre azon légiforgalmi és repülési szabályokat, eljárásokat kell alkalmazni, amelyek a vele közös részt alkotó légiforgalmi légtérre vagy időszakosan korlátozott légtérre vonatkoznak.
 
-[^29]: A 8/B. §-t a 177/2011. (IX. 1.) Korm. rendelet 8. §-a iktatta be.
+[^35]: A 8/B. §-t a 177/2011. (IX. 1.) Korm. rendelet 8. §-a iktatta be.
