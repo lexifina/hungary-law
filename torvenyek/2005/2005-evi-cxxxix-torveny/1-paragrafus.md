@@ -4,7 +4,7 @@
 
 ## A TÖRVÉNY CÉLJA
 
-1. § (1) E törvény célja a tanítás és a tanulás alkotmányos jogának érvényesüléséhez szükséges jogi garanciák megteremtése. A tanuláshoz való jog alapján a Magyar Köztársaság minden állampolgárának joga, hogy igénybe vegye a felsőoktatás által nyújtott szolgáltatásokat, feltéve, hogy képességei alkalmassá teszik a felsőfokú tanulmányokra. A tanítás, a kutatás és a művészeti élet szabadsága a felsőoktatásban a felsőoktatási intézmények autonómiáján keresztül valósul meg.
+1. § (1) E törvény célja a tanítás és a tanulás alkotmányos jogának érvényesüléséhez szükséges jogi garanciák megteremtése. A tanuláshoz való jog alapján Magyarország minden állampolgárának joga, hogy igénybe vegye a felsőoktatás által nyújtott szolgáltatásokat, feltéve, hogy képességei alkalmassá teszik a felsőfokú tanulmányokra. A tanítás, a kutatás és a művészeti élet szabadsága a felsőoktatásban a felsőoktatási intézmények autonómiáján keresztül valósul meg.
 
 (2) E törvény célja megteremteni a jogi feltételeket ahhoz, hogy a felsőoktatási intézmény az e törvényben biztosított autonómia szerint működhessék, azzal élhessen, továbbá biztosítsa az autonómia gyakorlásában való részvételt az oktatók, a kutatók és a hallgatók számára. Az autonómia (3) bekezdésben felsorolt elemeit a törvények által meghatározott keretben lehet gyakorolni. Az autonómiát érintő rendelkezéseket csak törvényben vagy törvény felhatalmazása alapján lehet szabályozni. Az autonómia gyakorlásánál figyelembe kell venni a felsőoktatási intézmény szabályzataiban foglaltakat is.
 

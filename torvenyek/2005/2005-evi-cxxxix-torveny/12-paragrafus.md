@@ -4,7 +4,7 @@
 
 ## A FELSŐOKTATÁSI INTÉZMÉNY LÉTESÍTÉSE
 
-12. § (1) Felsőoktatási intézményként az az intézmény működhet, amelyet az e törvényben meghatározott felsőoktatási feladatok ellátására létesítettek, és a Magyar Köztársaság Országgyűlésétől megkapta az állami elismerést.
+12. § (1) Felsőoktatási intézményként az az intézmény működhet, amelyet az e törvényben meghatározott felsőoktatási feladatok ellátására létesítettek, és az Országgyűléstől megkapta az állami elismerést.
 
 (2) Állami elismerést az a felsőoktatási intézmény kaphat, amelyik rendelkezik a feladatai ellátásához szükséges feltételekkel, és az a)–d) pontok szerint választható képzési szerkezetben, legalább egy képzési, illetve tudományterületen több szakon
 

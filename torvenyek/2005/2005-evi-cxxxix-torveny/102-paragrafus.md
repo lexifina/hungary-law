@@ -10,4 +10,4 @@
 
 (5) A miniszter döntéseihez – az e törvényben meghatározott esetekben – beszerzi a Magyar Felsőoktatási Akkreditációs Bizottság, illetve a Felsőoktatási és Tudományos Tanács véleményét.
 
-(6) A miniszter a nemzeti vagy etnikai kisebbségi képzés tekintetében hozott döntéseihez beszerzi az Országos Kisebbségi Bizottság véleményét.
+(6) A miniszter a nemzetiségi képzés tekintetében hozott döntéseihez beszerzi az Országos Nemzetiségi Bizottság véleményét.

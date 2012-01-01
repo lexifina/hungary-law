@@ -1,6 +1,6 @@
 18. § (1) A felsőoktatási intézmény egyetem vagy főiskola lehet.
 
-(2) Az „egyetem” vagy „főiskola” elnevezés, valamint ezek idegen nyelvű megfelelői használatára csak az e törvény 1. számú melléklete szerinti – továbbá az e törvény alapján a Magyar Köztársaság területén működő külföldi – felsőoktatási intézmény jogosult.
+(2) Az „egyetem” vagy „főiskola” elnevezés, valamint ezek idegen nyelvű megfelelői használatára csak az e törvény 1. számú melléklete szerinti – továbbá az e törvény alapján a Magyarország területén működő külföldi – felsőoktatási intézmény jogosult.
 
 (3) Egyetem az a felsőoktatási intézmény, amelyik legalább két képzési területen jogosult mesterképzésre, valamint legalább egy tudományterületen doktori képzésre és doktori fokozat odaítélésére, feltéve, hogy a felsőoktatási intézmény munkaviszony, illetve közalkalmazotti jogviszony keretében foglalkoztatott oktatóinak, kutatóinak legalább egyharmada tudományos fokozattal rendelkezik.
 

@@ -10,7 +10,7 @@ a) hatósági ellenőrzés keretében vizsgálja a nyilvántartásában szerepl�
 
 b) részt vesz a miniszter törvényességi ellenőrzési vizsgálatának lefolytatásában.
 
-(4) A regisztrációs központ az országgyűlési biztos megkeresésére vizsgálatot folytat.
+(4)
 
 (5) A regisztrációs központ a (3) bekezdés a) pontjában meghatározott hatósági ellenőrzése eredményeként
 
@@ -22,7 +22,7 @@ c) ötvenezer forinttól hárommillió forintig terjedő mértékű felügyeleti
 
 d) külföldi felsőoktatási intézmények esetében ellenőrzésének eredményéről tájékoztatja az intézmény honos országának illetékes szerveit.
 
-(6) A regisztrációs központ közhiteles nyilvántartást vezet a felsőoktatási intézményekről, továbbá dönt a nem költségvetési szervként működő felsőoktatási intézmény közhasznúsági nyilvántartásba vételéről. A regisztrációs központ veszi nyilvántartásba az e törvénnyel létrehozott jogi személy Hallgatói Önkormányzatok Országos Konferenciáját, a Magyar Felsőoktatási Akkreditációs Bizottságot, a Felsőoktatási és Tudományos Tanácsot és a Magyar Rektori Konferenciát.
+(6) A regisztrációs központ közhiteles nyilvántartást vezet a felsőoktatási intézményekről, továbbá – a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény rendelkezései szerint – dönt a nem költségvetési szervként működő felsőoktatási intézmény közhasznúsági nyilvántartásba vételéről. A regisztrációs központ veszi nyilvántartásba az e törvénnyel létrehozott jogi személy Hallgatói Önkormányzatok Országos Konferenciáját, a Magyar Felsőoktatási Akkreditációs Bizottságot, a Felsőoktatási és Tudományos Tanácsot és a Magyar Rektori Konferenciát.
 
 (7) A magyarországi felsőoktatási intézmények által kötelezően használt nyomtatványok előállítását és forgalomba hozatalát – ide értve annak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti határon átnyúló szolgáltatásnyújtás keretében történő megvalósulását is – a regisztrációs központ engedélyezi. Az engedély a jogszabályi előírásoknak történő megfelelés hiányában tagadható meg.
 

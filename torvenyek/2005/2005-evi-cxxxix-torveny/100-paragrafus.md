@@ -1,6 +1,6 @@
 ## A köztársasági elnök hatáskörei
 
-100. § A Magyar Köztársaság elnöke
+100. § A köztársasági elnök
 
 a) megbízza és felmenti az egyetem rektorát,
 

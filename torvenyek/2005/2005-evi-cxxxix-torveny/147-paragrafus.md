@@ -60,7 +60,7 @@ tartalmazza, a képzés részletes szabályaival, így különösen a tantervvel
 
 22/A. kiemelkedő tanulmányi teljesítményű hallgató: a felsőoktatási intézmény szabályzatában meghatározott ismérvek szerint, az átlagos mértéket meghaladó tanulmányi teljesítményt nyújtó hallgató,
 
-23. kis létszámú szak: nemzetközi kötelezettségvállalás, kultúr- és oktatáspolitikai érdekek alapján indított képzés, amelynek éves, államilag támogatott felvehető létszáma országosan nem haladja meg a húsz főt, továbbá a nemzeti és etnikai kisebbségi képzés,
+23. kis létszámú szak: nemzetközi kötelezettségvállalás, kultúr- és oktatáspolitikai érdekek alapján indított képzés, amelynek éves, államilag támogatott felvehető létszáma országosan nem haladja meg a húsz főt, továbbá a nemzetiségi képzés,
 
 24. klinika: az az egészségügyi szolgáltató, amely közreműködik az orvosképzéssel összefüggő képzési és kutatási feladatok ellátásában,
 
@@ -80,7 +80,7 @@ tartalmazza, a képzés részletes szabályaival, így különösen a tantervvel
 
 30. résztanulmányok folytatása: ha a hallgató másik felsőoktatási intézményben vendéghallgatói jogviszony keretében szerez kreditet,
 
-31. saját bevétel: az államháztartáson kívüli források – beleértve minden olyan, az Európai Uniótól származó támogatást, amelyhez nem az állami költségvetésen keresztül jut a felsőoktatási intézmény, továbbá a szakképzési hozzájárulási fizetési kötelezettség teljesítéseként elszámolt forrásokat is, ide nem értve az állami vagyon értékesítésének ellenértékét – valamint a Kutatási és Technológiai Innovációs Alapból származó bevételek,
+31. saját bevétel: az államháztartáson kívüli források – beleértve minden olyan, az Európai Uniótól származó támogatást, amelyhez nem a központi költségvetésen keresztül jut a felsőoktatási intézmény, továbbá a szakképzési hozzájárulási fizetési kötelezettség teljesítéseként elszámolt forrásokat is, ide nem értve az állami vagyon értékesítésének ellenértékét – valamint a Kutatási és Technológiai Innovációs Alapból származó bevételek,
 
 32. szak: valamely szakképzettség megszerzéséhez szükséges képzési tartalom (ismeretek, jártasságok, készségek) egységes rendszerét tartalmazó képzés,
 

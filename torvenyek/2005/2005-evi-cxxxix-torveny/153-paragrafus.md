@@ -14,7 +14,7 @@
 
 6. az államilag elismert nyelvvizsgáztatás rendjét [150. § (2) bekezdés],
 
-7. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal, az oktatói igazolvánnyal, az oktatói azonosító számmal és a hallgatói azonosító számmal kapcsolatos eljárási kérdéseket, a felsőoktatási intézmények által kötelezően használt nyomtatványok tartalmi és formai követelményeit, a támogatási idő nyilvántartásának, az államilag támogatott és a költségtérítéses képzés közötti átsorolásnak a rendjét [35. § (2) és (11) bekezdés, 55. § (6) bekezdés, 73. § (1) bekezdés],
+7. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal, az oktatói igazolvánnyal, az oktatói azonosító számmal és a hallgatói azonosító számmal kapcsolatos eljárási szabályokat, a diákigazolvány és az oktatói igazolvány kibocsátásához kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, a felsőoktatási intézmények által kötelezően használt nyomtatványok tartalmi és formai követelményeit, a támogatási idő nyilvántartásának, az államilag támogatott és a költségtérítéses képzés közötti átsorolásnak a rendjét,
 
 8. a felsőfokú szakképzés rendjét [32. § (11) bekezdés b) pont],
 
@@ -38,7 +38,7 @@
 
 18. a felsőoktatási intézmények nyilvántartását vezető szerv vagy szervek eljárását, működési, felügyeleti rendjét [107. §],
 
-19. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási és Tudományos Tanács, valamint az Országos Kredittanács működésével kapcsolatos kérdéseket [110. § (8) bekezdés, 113. § (8) bekezdés, 114. § (7) bekezdés],
+19. a az Országos Kredittanács működésével kapcsolatos kérdéseket [, 114. § (7) bekezdés],
 
 20. a felsőoktatási intézmény finanszírozásával, gazdálkodásával kapcsolatos kérdéseket [127. § (2) bekezdés, 128. § (6) bekezdés, 129. § (2) bekezdés, 130. § (7) bekezdés, 131. § (4) bekezdés, 132. § (3) bekezdés, 133. § (2) bekezdés, 141. § (9) bekezdés, 143. § (4) bekezdés], a magán intézmények gazdálkodásával kapcsolatos kérdéseket [138. § (1) bekezdés],
 
@@ -48,7 +48,7 @@
 
 23.
 
-(2) A miniszter rendeletben szabályozza
+(2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 a) az oktatási jogok biztosa hivatalának feladatait és működésének szabályait,
 
@@ -56,7 +56,7 @@ b) az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
 
 c) a szakirányú továbbképzés szervezésének általános feltételeit,
 
-d) az oktatásügyi közvetítői szolgálatot, a közvetítői névjegyzék elkészítését, kiadását és az ehhez kapcsolódó igazgatási szolgáltatási díjat, valamint annak mértékét, az államilag elismert nyelvvizsgáztatáshoz, a diákigazolvány kibocsátásához, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, valamint a felsőoktatási hatósági eljárási díjakat és azok mértékét.
+d) az oktatásügyi közvetítői szolgálatra, a közvetítői névjegyzék elkészítésére és kiadására vonatkozó szabályokat, továbbá az ezekhez és az államilag elismert nyelvvizsgáztatáshoz és a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díj körét, mértékét, megfizetésének szabályait, nyilvántartását, elszámolását és felhasználását.
 
 (3) A Kormány
 

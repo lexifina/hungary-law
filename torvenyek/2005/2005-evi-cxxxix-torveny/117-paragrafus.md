@@ -1,4 +1,4 @@
-117. § (1) Magyar felsőoktatási intézmény – ha az adott ország jogrendje lehetővé teszi – a Magyar Köztársaság területén kívül székhelyen kívüli képzést szervezhet.
+117. § (1) Magyar felsőoktatási intézmény – ha az adott ország jogrendje lehetővé teszi – Magyarország területén kívül székhelyen kívüli képzést szervezhet.
 
 (2)
 

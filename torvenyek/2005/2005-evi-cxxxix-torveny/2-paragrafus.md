@@ -20,7 +20,7 @@ i) a felsőoktatás képzési szerkezetének átalakításával lehetővé tenni
 
 j) a felsőoktatás rendszerének, az egyes felsőoktatási intézmények szakszerű, hatékony, törvényes működéséhez, gazdasági önállóságához szükséges jogi feltételek meghatározása, a társadalom és a gazdaság, valamint a környezeti fenntarthatóság igényeihez való alkalmazkodási, együttműködési képességének erősítése,
 
-k) a felsőoktatás finanszírozási rendszerének szabályozása oly módon, hogy az elősegítse az intézményrendszer és az egyes intézmények ésszerű, a leghatékonyabb működést biztosító, finanszírozható átalakulását, a versenyképes, magas színvonalú képzés érdekében a felsőoktatási intézmények hatékony működését, az állami költségvetés mellett külső források bevonását,
+k) a felsőoktatás finanszírozási rendszerének szabályozása oly módon, hogy az elősegítse az intézményrendszer és az egyes intézmények ésszerű, a leghatékonyabb működést biztosító, finanszírozható átalakulását, a versenyképes, magas színvonalú képzés érdekében a felsőoktatási intézmények hatékony működését, a központi költségvetés mellett külső források bevonását,
 
 l) a felsőoktatási intézmény minőségbiztosítási és minőséghitelesítési rendszerének fejlesztésével annak biztosítása, hogy a felsőoktatási intézmények a hazai és a nemzetközi munkaerőpiacon hasznosítható, magas színvonalú és továbbfejleszthető ismereteket közvetítsenek hallgatóik részére.
 

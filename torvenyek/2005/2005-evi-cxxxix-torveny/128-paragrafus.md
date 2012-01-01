@@ -8,7 +8,7 @@ c) felhalmozási (beruházási, felújítási) célok megvalósításához,
 
 d) a „minőségi díj” nyerteseinek elismeréséhez,
 
-e) európai közösségi célok végrehajtásához, nemzetközi oktatási és kutatási kapcsolatokhoz, a Magyar Köztársaság területén költségtérítéses képzésben nem magyar állampolgár részére alap- és mesterképzést, doktori képzést biztosító felsőoktatási intézmény tevékenységének támogatásához,
+e) európai közösségi célok végrehajtásához, nemzetközi oktatási és kutatási kapcsolatokhoz, Magyarország területén költségtérítéses képzésben nem magyar állampolgár részére alap- és mesterképzést, doktori képzést biztosító felsőoktatási intézmény tevékenységének támogatásához,
 
 f) a határon túli kihelyezett magyar nyelvű képzéshez,
 
@@ -30,7 +30,9 @@ n) hungarológiai vonatkozású képzéshez,
 
 o) tehetséggondozó tevékenységhez,
 
-p) a Magyar Köztársaság területén kívül képzés indítása során, a képzés helye szerinti állam jogrendje szerinti engedélyezési, vagy más, a képzés indításának feltételéül meghatározott eljárás költségeihez,
+p) Magyarország területén kívül képzés indítása során, a képzés helye szerinti állam jogrendje szerinti engedélyezési, vagy más, a képzés indításának feltételéül meghatározott eljárás költségeihez,
+
+q) a minősített kutatóegyetem oktatási és kutatási tevékenységének előmozdítására
 
 nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzájárulás elosztása pályázat útján történik. A pályázatot a felsőoktatási intézmény vezetője vagy a diákotthon fenntartója nyújthatja be. A k)–l) és o) pont alatt meghatározott feladatokhoz kiírt pályázaton részt vehetnek az egyesületek és az alapítványok, közalapítványok is.
 
@@ -64,4 +66,4 @@ c) az Országos Tudományos Diákköri Tanács támogatásához az éves hallgat
 
 (6) Az e §-ban szabályozott pályázatok benyújtásának feltételeit és rendjét a Kormány határozza meg, azzal a megkötéssel, hogy a kis létszámú szakokra járó hallgatók együttes létszáma nem haladhatja meg a felsőoktatási intézmények hallgatói létszámának öt százalékát. A kis létszámú szakokra a költségvetési hozzájárulásra való jogosultságot adott felsőoktatási intézmény tekintetében öt–nyolc évre kell biztosítani.
 
-(7) Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében kell megtervezni. A normatív költségvetési támogatások mértékét az éves költségvetésről szóló törvény állapítja meg.
+(7) Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében megtervezett előirányzat biztosítja. A normatív költségvetési támogatások mértékét az éves költségvetésről szóló törvény állapítja meg.

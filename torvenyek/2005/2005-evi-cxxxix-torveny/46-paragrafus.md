@@ -14,7 +14,7 @@ d) javaslattal éljen, kérdést intézzen a felsőoktatási intézmény, illetv
 
 e) véleményezze az oktatói munkát,
 
-f) vallási, világnézeti vagy más meggyőződését, nemzeti vagy etnikai kisebbséghez tartozását tiszteletben tartsák, és azt kifejezésre juttassa, feltéve, hogy e jogának gyakorlása nem ütközik jogszabályba, nem sérti mások hasonló jogát és nem korlátozza társai tanuláshoz való jogának érvényesülését,
+f) vallási, világnézeti vagy más meggyőződését, nemzetiséghez tartozását tiszteletben tartsák, és azt kifejezésre juttassa, feltéve, hogy e jogának gyakorlása nem ütközik jogszabályba, nem sérti mások hasonló jogát és nem korlátozza társai tanuláshoz való jogának érvényesülését,
 
 g) levelezéshez, továbbá a kollégiumban a lakhatáshoz való jogát tiszteletben tartsák, feltéve, hogy e jogának gyakorlása nem sérti másoknak hasonló jogát és nem korlátozza társai tanuláshoz való jogának gyakorlását.
 

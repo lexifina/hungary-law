@@ -1,6 +1,6 @@
 1. számú melléklet a 2005. évi CXXXIX. törvényhez
 
-A Magyar Köztársaság államilag elismert
+Magyarország államilag elismert
 
 felsőoktatási intézményei
 
@@ -24,6 +24,8 @@ Miskolci Egyetem, Miskolc
 
 Moholy-Nagy Művészeti Egyetem, Budapest
 
+Nemzeti Közszolgálati Egyetem, Budapest
+
 Nyugat-magyarországi Egyetem, Sopron
 
 Óbudai Egyetem, Budapest
@@ -41,8 +43,6 @@ Szent István Egyetem, Gödöllő
 Széchenyi István Egyetem, Győr
 
 Színház- és Filmművészeti Egyetem, Budapest
-
-Zrínyi Miklós Nemzetvédelmi Egyetem, Budapest
 
 Nem állami egyetemek
 
@@ -77,8 +77,6 @@ Kecskeméti Főiskola, Kecskemét
 Magyar Táncművészeti Főiskola, Budapest
 
 Nyíregyházi Főiskola, Nyíregyháza
-
-Rendőrtiszti Főiskola, Budapest
 
 Szolnoki Főiskola, Szolnok
 

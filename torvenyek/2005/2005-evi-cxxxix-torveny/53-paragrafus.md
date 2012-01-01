@@ -1,6 +1,6 @@
 ## AZ ÁLLAMILAG TÁMOGATOTT ÉS A KÖLTSÉGTÉRÍTÉSES KÉPZÉS
 
-53. § (1) A felsőoktatási intézményben folyó képzés lehet államilag támogatott vagy költségtérítéses képzés. Az államilag támogatott képzés költségeit – ha e törvény másképp nem rendelkezik – az állami költségvetés, a költségtérítéses képzés költségeit a hallgató viseli.
+53. § (1) A felsőoktatási intézményben folyó képzés lehet államilag támogatott vagy költségtérítéses képzés. Az államilag támogatott képzés költségeit – ha e törvény másképp nem rendelkezik – az a központi költségvetés, a költségtérítéses képzés költségeit a hallgató viseli.
 
 (2) Bármely képzési ciklusban, felsőfokú szakképzésben, szakirányú továbbképzésben folyó képzés lehet államilag támogatott, függetlenül annak munkarendjétől. A további (párhuzamos) hallgatói jogviszony is lehet államilag támogatott képzés.
 
@@ -13,3 +13,5 @@
 (6) A Kormány – az esedékesség évét megelőzően – évenként állapítja meg az új belépők létszámkeretét az egyes képzési területek és a képzés munkarendje szerint. A Kormány döntését a munkaerő-piaci szereplők e törvényben meghatározottak szerinti bevonásával, a munkaerő-piaci előrejelzések, a pályakövetési rendszer tapasztalatainak, a diplomás munkanélküliség helyzetének értékelésével hozza meg, azzal a megkötéssel, hogy figyelembe kell venni a döntéshozatal évében benyújtott jelentkezések számát. Az előző évhez képest biztosított létszámkeret növelése, illetve csökkentése – adott képzési területen belül – nem haladhatja meg a tíz százalékot.
 
 (7) Nem kell a (6) bekezdés szerinti létszámkorlátozást alkalmazni, amennyiben a döntéshozatal évében benyújtott jelentkezések számának előző évhez viszonyított változása meghaladja a tíz százalékot. A Kormány a mesterképzésre, a szakirányú továbbképzésre és a doktori képzésre együttesen rendelkezésre álló kereten belül, a meghatározott arányoktól egy-tíz százalékkal eltérést engedélyezhet.
+
+(8) A miniszter határozza meg az új belépők létszámkeretének intézmények közötti elosztását, az intézményi keretszámokat.

@@ -1,6 +1,6 @@
-63. § (1) Az oklevelet magyar és angol nyelven vagy magyar és latin nyelven, nemzeti és etnikai kisebbségi képzés esetében magyar nyelven és a nemzeti vagy etnikai kisebbség nyelvén, nem magyar nyelven folyó képzés esetén magyar nyelven és a képzés nyelvén kell kiadni. Az oklevél a hallgató kérésére és költségére más nyelven is kiadható.
+63. § (1) Az oklevelet magyar és angol nyelven vagy magyar és latin nyelven, nemzetiségi képzés esetében magyar nyelven és a nemzetiség nyelvén, nem magyar nyelven folyó képzés esetén magyar nyelven és a képzés nyelvén kell kiadni. Az oklevél a hallgató kérésére és költségére más nyelven is kiadható.
 
-(2) Az alapképzésben és mesterképzésben szerzett oklevél mellé ki kell adni az Európai Bizottság és az Európa Tanács által meghatározott oklevélmellékletet magyar és angol nyelven, valamint nemzeti vagy etnikai kisebbségi képzés esetében – a hallgató kérésére – az érintett kisebbség nyelvén. Az oklevélmelléklet közokirat.
+(2) Az alapképzésben és mesterképzésben szerzett oklevél mellé ki kell adni az Európai Bizottság és az Európa Tanács által meghatározott oklevélmellékletet magyar és angol nyelven, valamint nemzetiségi képzés esetében – a hallgató kérésére – az érintett nemzetiség nyelvén. Az oklevélmelléklet közokirat.
 
 (3) Az alapképzésben és mesterképzésben, illetve az egységes, osztatlan képzésben, szakirányú továbbképzésben kiállított oklevél – jogszabályban meghatározottak szerint – munkakör betöltésére, tevékenység folytatására jogosít.
 

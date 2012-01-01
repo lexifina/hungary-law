@@ -16,7 +16,7 @@ d) nem kell alkalmazni a 98. § (1) bekezdésének rendelkezéseit.
 
 (4) A hitéleti képzés tartalmának meghatározása, a képzésben részt vevő oktatókkal, tanárokkal kapcsolatos követelmények meghatározása az egyházi felsőoktatási intézmény joga. A hitéleti képzés tekintetében a 15. §-ban szabályozott eljárásban csak azt kell vizsgálni, hogy biztosítottak-e a képzés tárgyi feltételei. A felsőoktatási intézmény határozza meg továbbá a felvételi eljárás rendjét és – az érettségi vizsga meglétét kivéve – a felvétel követelményeit.
 
-(5) A Magyar Köztársaság és az Apostoli Szentszék között létrejött megállapodás alapján a Magyar Katolikus Egyház, továbbá a Kormánnyal a felsőoktatási feladatok ellátására megállapodást kötő egyház által fenntartott felsőoktatási intézmény jogosult a 127. § (3) bekezdésének d) pontjában meghatározott normatív költségvetési támogatásra is, valamint eseti és egyedi támogatásokra.
+(5) Magyarország és az Apostoli Szentszék között létrejött megállapodás alapján a Magyar Katolikus Egyház, továbbá a Kormánnyal a felsőoktatási feladatok ellátására megállapodást kötő egyház által fenntartott felsőoktatási intézmény jogosult a 127. § (3) bekezdésének d) pontjában meghatározott normatív költségvetési támogatásra is, valamint eseti és egyedi támogatásokra.
 
 (6) Az (5) bekezdésben meghatározott normatív költségvetési támogatásra jogosulttá válhat az az egyház által fenntartott felsőoktatási intézmény is, amelynek fenntartójával a miniszter felsőoktatási feladatok ellátására megállapodást köt.
 
@@ -26,7 +26,7 @@ d) nem kell alkalmazni a 98. § (1) bekezdésének rendelkezéseit.
 
 a) a jelentkezés elfogadása előfeltételeként kiköthető valamely vallás, világnézet elfogadása és annak igazolása,
 
-b) az egyházi felsőoktatási intézmény szervezeti és működési szabályzata a 20. § (4) bekezdésében, a 21. § (3) és (6) bekezdésében, – a politikai meggyőződésre vonatkozó kivétellel – a 22. § (4) és (5) bekezdésében, a 27–28. §-ban, a 29. § (2)–(8) bekezdésében, a 30. § (4) bekezdésében, – a nemzeti vagy etnikai kisebbséghez tartozás kivételével – a 46. § (2) bekezdésének f) pontjában foglaltaktól eltérő rendelkezéseket állapíthat meg,
+b) az egyházi felsőoktatási intézmény szervezeti és működési szabályzata a 20. § (4) bekezdésében, a 21. § (3) és (6) bekezdésében, – a politikai meggyőződésre vonatkozó kivétellel – a 22. § (4) és (5) bekezdésében, a 27–28. §-ban, a 29. § (2)–(8) bekezdésében, a 30. § (4) bekezdésében, – a nemzetiséghez tartozás kivételével – a 46. § (2) bekezdésének f) pontjában foglaltaktól eltérő rendelkezéseket állapíthat meg,
 
 c) az egyházi felsőoktatási intézmény a 12. § (2) bekezdésében foglaltaktól eltérően akkor is kaphat elismerést, ha csak egy szakon folytat képzést,
 
@@ -48,7 +48,7 @@ g) egyetemi tanári munkaköri cím megszerzéséhez nem szükséges a Magyar Fe
 
 (13) Az egyházi jogi személyek által fenntartott felsőoktatási intézmények tekintetében a felsőoktatási intézményekre vonatkozó általános szabályokat az e §-ba foglalt eltérésekkel kell alkalmazni. Az egyházi felsőoktatási intézmények működésére
 
-a) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény vonatkozó rendelkezéseit,
+a) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseit,
 
 b) a 137. § (2)–(4) bekezdésében és a 138. § (3) és (9) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 

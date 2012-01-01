@@ -2,4 +2,4 @@
 
 (2) A regisztrációs központ jogerős határozatának egy példányát megküldi a felsőoktatási információs rendszer részére is.
 
-(3) A regisztrációs központ a Magyar Köztársaság területén engedéllyel működő külföldi felsőoktatási intézményekről nyilvántartást vezet, melyet évente – december hónapban – közzé kell tenni a Magyar Köztársaság hivatalos lapjában, valamint a miniszter által vezetett minisztérium honlapján nyilvánosságra kell hozni.
+(3) A regisztrációs központ a Magyarország területén engedéllyel működő külföldi felsőoktatási intézményekről nyilvántartást vezet, melyet évente – december hónapban – közzé kell tenni Magyarország hivatalos lapjában, valamint a miniszter által vezetett minisztérium honlapján nyilvánosságra kell hozni.

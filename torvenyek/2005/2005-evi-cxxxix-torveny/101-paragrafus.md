@@ -1,6 +1,6 @@
 ## A Kormány és a miniszterelnök hatáskörei
 
-101. § (1) A Magyar Köztársaság Kormánya
+101. § (1) A Kormány
 
 a) benyújtja az Országgyűlés részére a felsőoktatást érintő törvényjavaslatokat és országgyűlési határozati javaslatokat, a felsőoktatás középtávú – legalább hat évre szóló – fejlesztési tervét és a végrehajtásáról szóló beszámolót,
 
@@ -10,7 +10,7 @@ c) ösztöndíjat alapíthat.
 
 (2) Az államilag támogatott képzésbe felvehető hallgatói létszám megállapításával kapcsolatos kormány-előterjesztést véleményezi az Országos Érdekegyeztető Tanács. Álláspontjáról, továbbá a gazdasági kamarák e tárgykörben adott véleményéről a Kormányt tájékoztatni kell.
 
-(3) A Magyar Köztársaság miniszterelnöke
+(3) A miniszterelnök
 
 a) megbízza és felmenti a főiskola rektorát,
 

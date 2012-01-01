@@ -52,7 +52,7 @@ I/B. A hallgatók adatai
 
 a) felvétellel összefüggő adatok:
 
-aa) a jelentkező neve, neme, születési neve, anyja neve, születési helye és ideje, állampolgársága, állandó lakásának és tartózkodási helyének címe és telefonszáma, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+aa) a jelentkező neve, neme, születési neve, anyja neve, születési helye és ideje, állampolgársága, állandó lakásának és tartózkodási helyének címe és telefonszáma, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ab) az érettségi vizsga adatai,
 
@@ -64,7 +64,7 @@ ae) a felvételi eljárás adatai;
 
 b) a hallgatói (kollégiumi tagsági, doktorjelölt) jogviszonnyal összefüggő adatok:
 
-ba) a hallgató neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, bejelentett lakóhelyének, tartózkodási helyének címe, értesítési címe és telefonszáma, elektronikus levélcíme, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+ba) a hallgató neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, bejelentett lakóhelyének, tartózkodási helyének címe, értesítési címe és telefonszáma, elektronikus levélcíme, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 bb) a hallgatói (kollégiumi tagsági, doktorjelölti, vendéghallgatói) jogviszonya keletkezésének és megszűnésének időpontja és módja, a hallgató által folytatott képzés megnevezése, állami támogatottsága és munkarendje, a hallgató tanulmányainak értékelése, vizsgaadatok, megkezdett félévek, igénybe vett támogatási idő, a hallgatói jogviszony szünetelésének ideje,
 
@@ -168,7 +168,19 @@ d) az adatokat igazoló okiratok azonosítására szolgáló adatok.
 
 2. A többi adat az érintett hozzájárulásával tartható nyilván.
 
-3. Az 1. pontban felsorolt adatok továbbíthatók: a társadalombiztosítási, illetmény és munkabér vagy más juttatás kifizetőhelyének minden olyan adat, amely az illetmény, munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges; a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adatok; a nemzetbiztonsági szolgálatnak valamennyi adat, a felsőoktatási intézménynek az alkalmazottjával kapcsolatos minden adat.
+3. Az 1. pontban meghatározott személyes adatok közül
+
+a) az illetmény, a munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges adat a társadalombiztosítási kifizetőhelynek, illetve az illetmény, munkabér vagy más juttatás kifizetőhelyének;
+
+b) valamennyi adat a nemzetbiztonsági szolgálatnak,
+
+c) a megkeresés teljesítéséhez szükséges személyes adat a bíróságnak, ügyészségnek, rendőrségnek, az államigazgatási szervnek, a bírósági végrehajtónak;
+
+d) a felsőoktatási intézménnyel jogviszonyban álló személy valamennyi adata a felsőoktatási intézménynek;
+
+e) – annak biztosítása érdekében, hogy egy személynek csak egy azonosító száma legyen – az 1. pont a) és b) pontja szerinti adat a közoktatási információs rendszer felé
+
+továbbítható.
 
 II/C. A hallgatói, doktorjelölti személyi törzs
 
@@ -178,7 +190,7 @@ a) a hallgatói (doktorjelölti) jogviszonnyal összefüggő adatok:
 
 aa) a hallgató (doktorjelölt) neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe,
 
-ab) nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+ab) nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ac) a jogviszony keletkezésének és megszűnésének időpontja és módja,
 
@@ -217,3 +229,53 @@ b) a kiadott oklevél, bizonyítvány adatai,
 ba) az igazolt szakképzettség, szakképesítés megnevezése,
 
 bb) az oklevél, bizonyítvány kelte, aláíróinak neve,
+
+bc) az oklevél, bizonyítvány kiállítására szolgáló nyomtatvány sorszáma,
+
+bd) a hallgató törzskönyvi száma,
+
+be) az oklevél, bizonyítvány egyéb adatai,
+
+bf) oklevélmelléklet adatai;
+
+c) a hallgatói pályakövetéssel kapcsolatos adatok;
+
+d) az adatokat igazoló okiratok azonosítására szolgáló adatok.
+
+2. A többi adat az érintett hozzájárulásával tartható nyilván.
+
+3. Az 1. pontban meghatározott személyes adatok közül:
+
+a) valamennyi adat a nemzetbiztonsági szolgálatnak;
+
+b) a megkeresés teljesítéséhez szükséges személyes adat a bíróságnak, ügyészségnek, rendőrségnek, az államigazgatási szervnek, bírósági végrehajtónak;
+
+c) a tanulmányok folytatásával összefüggő adat a Diákhitel Központnak;
+
+d) a társadalombiztosítási ellátásra való jogosultságot meghatározó adatok a társadalombiztosítási szervnek;
+
+e) a felsőoktatási intézménybe jelentkező és a felsőoktatási intézménnyel hallgatói jogviszonyban álló személy valamennyi adata a felsőoktatási intézménynek,
+
+f) – a 35. § (4) bekezdésében foglaltak biztosítása érdekében – az 1. pont a) pont aa) alpontja szerinti adat a közoktatási információs rendszer felé
+
+továbbítható.
+
+II/D. Felvételi személyi törzs
+
+1. E törvény alapján nyilvántartott adatok:
+
+a) felvétellel összefüggő adatok:
+
+aa) a jelentkező neve, születési neve, anyja neve, születési helye és ideje, neme, állampolgársága, lakóhelye és tartózkodási helye, értesítési címe; nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+
+ab) az érettségi vizsga adatai,
+
+ac) a középiskola adatai,
+
+ad) a felvételi kérelem elbírálásához szükséges adatok,
+
+ae) a felvételi eljárás adatai.
+
+2. A 137. § (1) bekezdése, illetve 139. § (8) bekezdés a) pontja szerinti jelentkezési feltételre vonatkozó személyes adatot nem lehet nyilvántartani. A többi adat az érintett hozzájárulásával tartható nyilván.
+
+3. Az adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat; a nemzetbiztonsági szolgálat részére valamennyi adat; a felsőoktatási intézménynek a hozzá jelentkező személyre vonatkozó valamennyi adat; a felsőoktatási intézménynek a hozzá felvételre került személyekre vonatkozó valamennyi adat.

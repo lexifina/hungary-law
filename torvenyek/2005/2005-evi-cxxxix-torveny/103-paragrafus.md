@@ -22,6 +22,8 @@ f) gyakorolja a törvényességi ellenőrzés jogkörét;
 
 g) gyakorolja a fejezet belső ellenőrzési jogkörét.
 
-h) az 54. § (2) bekezdésében meghatározott feltételek szerinti pályázati eljárásban meghatározza az államilag támogatott mester- és doktori képzésre, valamint a szakirányú továbbképzésre felvehető hallgatói létszám intézmények közötti elosztását.
+h) az 54. § (2) bekezdésében meghatározott feltételek szerinti pályázati eljárásban meghatározza az államilag támogatott mester- és doktori képzésre, valamint a szakirányú továbbképzésre felvehető hallgatói létszám intézmények közötti elosztását;
+
+i) a 101. § (1) bekezdésének b) pontjában, valamint a 139. § (7) bekezdésében foglalt keretek között az 53. § (8) bekezdése szerint határozattal állapítja meg az alap-, az egységes, osztatlan képzésekre, és a felsőfokú szakképzésekre felvehető államilag támogatott hallgatói létszám intézmények közötti elosztását.
 
 (2) A Magyar Felsőoktatási Akkreditációs Bizottság indítványára a miniszter a bíróságnál – a 105. §-ban meghatározottak szerint – kezdeményezi a felsőoktatási intézmény által megszervezett vizsga eredményének, a kiállított bizonyítványnak, oklevélnek érvénytelenné nyilvánítását.

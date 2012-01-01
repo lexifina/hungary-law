@@ -18,7 +18,7 @@
 
 (9) A képzési program része a doktori képzés, amely a mesterfokozat megszerzését követő képzésben a doktori fokozat megszerzésére készít fel. Doktori képzésben legalább száznyolcvan kreditet kell szerezni. A képzési idő hat félév.
 
-(10) Az alap- és mesterszak indításával kapcsolatos dokumentációt, illetve a doktori iskola szabályzatát a rektor megküldi a Magyar Felsőoktatási Akkreditációs Bizottságnak. A képzés akkor indítható, ha azt a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményében támogatta, továbbá az indítás tényét a felsőoktatási intézmény a regisztrációs központnak bejelentette. A Magyar Felsőoktatási Akkreditációs Bizottság támogatásának hiányában képzés akkor indítható, ha ahhoz a felsőoktatási intézmény a 106. §-ban meghatározott eljárásban az engedélyt megkapta. A felsőoktatási intézmény a Magyar Köztársaság területén csak székhelyén vagy telephelyén indíthat alap- vagy mesterképzést.
+(10) Az alap- és mesterszak indításával kapcsolatos dokumentációt, illetve a doktori iskola szabályzatát a rektor megküldi a Magyar Felsőoktatási Akkreditációs Bizottságnak. A képzés akkor indítható, ha azt a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményében támogatta, továbbá az indítás tényét a felsőoktatási intézmény a regisztrációs központnak bejelentette. A Magyar Felsőoktatási Akkreditációs Bizottság támogatásának hiányában képzés akkor indítható, ha ahhoz a felsőoktatási intézmény a 106. §-ban meghatározott eljárásban az engedélyt megkapta. A felsőoktatási intézmény Magyarország területén csak székhelyén vagy telephelyén indíthat alap- vagy mesterképzést.
 
 (11) A Kormány határozza meg
 

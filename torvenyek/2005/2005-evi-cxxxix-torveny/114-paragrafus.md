@@ -4,7 +4,7 @@
 
 (2) A Magyar Rektori Konferencia tagjai a felsőoktatási intézmények rektorai. A Magyar Rektori Konferencia ülésein tanácskozási joggal részt vehet a Hallgatói Önkormányzatok Országos Konferenciájának, a Doktoranduszok Országos Szövetségének, valamint a Felsőoktatási Dolgozók Szakszervezetének egy-egy képviselője.
 
-(3) A Magyar Rektori Konferencia – alapszabályában – meghatározza működésének rendjét, megválasztja tisztségviselőit és a képviseletére jogosultakat. A Magyar Rektori Konferencia jogosult a Magyar Köztársaság címerének használatára.
+(3) A Magyar Rektori Konferencia – alapszabályában – meghatározza működésének rendjét, megválasztja tisztségviselőit és a képviseletére jogosultakat. A Magyar Rektori Konferencia jogosult Magyarország címerének használatára.
 
 (4) A Magyar Rektori Konferencia az e törvény felhatalmazása alapján, az e törvényben megjelölt tárgykörben alkotott jogszabályhoz társuló egyetértési jogát [153. § (3) bekezdés a) pont, 153. § (4) bekezdés] a jogi szabályozással érintett tudományos és ehhez kapcsolódó oktatási, kutatási kérdések tekintetében gyakorolja. Ha a Magyar Rektori Konferencia a jogszabály tervezetével kapcsolatosan a beérkezéstől számított harminc napon belül nem nyilatkozik, egyetértését vélelmezni kell.
 
