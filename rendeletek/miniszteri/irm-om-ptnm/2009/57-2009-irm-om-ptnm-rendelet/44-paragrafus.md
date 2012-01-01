@@ -1,17 +1,21 @@
 ## A FÜV bizottság megalakítása, működése
 
-44. § (1) A FÜV bizottság összetételét az MH HEK parancsnoka határozza meg 24 órával a felülvizsgálat időpontját megelőzően, az orvos-szakmai követelmények figyelembevételével.
+44. §[^102] (1) A FÜV bizottság az Országos Rendőr-főkapitányság felülvizsgáló egységének szervezetében működik.
 
-(2) A FÜV bizottság 3 tagból áll. Az MH HEK parancsnoka a bizottság elnökét és 1 tagját az alárendeltségébe tartozó, az alkalmassági és felülvizsgálatokat végző főorvosi állományból, 1 tagját az érintett rendvédelmi szerv, illetve a polgári nemzetbiztonsági szolgálatok által jelölt orvosok közül eseti jelleggel, véletlenszerűen választja ki. A FÜV bizottság munkájába konzultációs joggal – a FÜV eljárás alapját képező betegségre figyelemmel – pszichológus, valamint az illetékes szakterületnek megfelelően Magyar Honvédség főszakorvos is bevonható, véleménye a FÜV bizottságot nem köti.
+(2) A FÜV bizottság 3 tagból áll. A FÜV bizottság összetételét a rendvédelmi szerveket irányító miniszter az orvos-szakmai követelmények figyelembevételével állapítja meg.
 
-(3) A FÜV bizottságban – a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja FÜV eljárása kivételével – nem vehet részt
+(3) A rendvédelmi szerveket irányító miniszter az I. fokú FÜV bizottság elnökét és 1 tagját a felülvizsgáló egység, illetve a rendvédelmi szervek alkalmassági és felülvizsgálatra kijelölt főorvosi állományából, 1 tagját az érintett rendvédelmi szerv által jelölt orvosok közül eseti jelleggel jelöli ki. Az I. fokú FÜV bizottság bázisán működő II. fokú FÜV bizottság elnöke a BM EKO vezetője, tagjai a felülvizsgáló egység, valamint a rendvédelmi szervek alkalmassági és felülvizsgálatra kijelölt főorvosi állományából eseti jelleggel kerülnek kijelölésre. A FÜV bizottság munkájába konzultációs joggal – a FÜV eljárás alapját képező betegségre figyelemmel – pszichológus bevonható, véleménye a FÜV bizottságot nem köti.
+
+(4) A FÜV bizottságban – a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja FÜV eljárása kivételével – nem vehet részt
 
 a) az érintett alapellátását végző, a FÜV eljárására javaslatot tevő, a gyógykezelésében részt vevő orvos, valamint
 
 b) a II. fokú FÜV bizottságban az, aki az I. fokú FÜV eljárásban részt vett.
 
-(4) A FÜV bizottság a határozatát szótöbbséggel hozza.
+(5) A FÜV bizottság a határozatát szótöbbséggel hozza.
 
-(5) A FÜV bizottság működésével kapcsolatos feladatokat az MH HEK látja el. Az eljáró FÜV bizottság ülésének időpontjáról az érintettet az MH HEK legalább 8 nappal az ülést megelőzően értesíti.
+(6) Az eljáró FÜV bizottság a bizottsági ülés időpontjáról az állományilletékes parancsnokot legalább 8 nappal az ülést megelőzően írásban értesíti, aki intézkedik az érintett személy felülvizsgálatra történő berendelésére.
 
-(6) A FÜV eljárást az elrendelésétől számított 60 napon belül le kell folytatni.
+(7) A FÜV eljárást a FÜV dokumentációnak a FÜV bizottsághoz történő beérkezés napjától számított 60 napon, jogorvoslati kérelem esetén 90 napon belül le kell folytatni.
+
+[^102]: A 44. § a 67/2011. (XII. 30.) BM rendelet 18. §-ával megállapított szöveg.

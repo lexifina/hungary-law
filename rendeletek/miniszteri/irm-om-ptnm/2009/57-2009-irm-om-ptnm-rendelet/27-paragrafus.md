@@ -28,10 +28,10 @@ végzi.
 
 (4) Egészségi, illetve pszichikai alkalmassági vizsgálatot másodfokon:
 
-a)[^37] a rendőrségnél, a polgári védelemnél, valamint az állami és hivatásos önkormányzati tűzoltóságnál az MH HEK,
+a)[^71] a rendőrségnél, a hivatásos katasztrófavédelmi szervnél az MH Honvédkórház,
 
 b) a büntetés-végrehajtási szervezetnél a BVOP
 
 végzi.
 
-[^37]: A 27. § (4) bekezdés a) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^71]: A 27. § (4) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) és m) pontja szerint módosított szöveg.

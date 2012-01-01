@@ -1,13 +1,15 @@
 ## A FÜV bizottság döntésének előkészítése
 
-43. § (1) A FÜV bizottság döntésének előkészítéséért felelős orvost minden esetben az MH HEK parancsnoka jelöli ki, és rendelkezésére bocsátja az eljárás lefolytatásához szükséges iratokat.
+43. §[^101] (1) A FÜV bizottság döntésének előkészítéséért felelős orvos a rendelkezésére bocsátott, az eljárás lefolytatásához szükséges iratokat áttanulmányozza.
 
 (2) A döntés-előkészítésért felelős orvos
 
 a) amennyiben a rendelkezésére álló dokumentáció és az érintett egészségi állapota nem ítélhető meg egyértelműen,
 
-aa) személyes vizsgálattal állapíthatja meg az alkalmasság elbírálása szempontjából alapvető kórelváltozásokat,
+aa) vizsgálatot személyesen végezhet, továbbá
 
-ab) az alapellátó orvos irányába intézkedik a szükséges vizsgálatok HM ÁEK-ben történő elvégzésére,
+ab) intézkedik a szükséges vizsgálatok MH Honvédkórházban történő elvégzésére,
 
-b) gondoskodik az ORSZI szakvélemény beszerzéséről – a 17. melléklet szerinti beutaló kitöltésével és továbbításával – kivéve, ha a rendelkezésére álló egészségügyi dokumentáció alapján az érintett gyógyulása a szolgálatképtelenség kezdő napjától számított 365 napon belül várható.
+b) gondoskodik a 17. melléklet szerinti beutaló kitöltésével és továbbításával az NRSZH szakvélemény beszerzéséről.
+
+[^101]: A 43. § a 67/2011. (XII. 30.) BM rendelet 17. §-ával megállapított szöveg.

@@ -8,11 +8,11 @@
 
 (4) A közlekedéspszichológiai vizsgálatot
 
-a)[^42] a rendőrség esetében első és másodfokon az ORFK,
+a)[^86] a rendőrség esetében első és másodfokon az ORFK,
 
-b) a polgári védelem, valamint az állami és hivatásos önkormányzati tűzoltóság esetében első fokon az Országos Katasztrófavédelmi Főigazgatóság által működtetett pszichológiai alkalmasság-vizsgálóhely, másodfokon az MH HEK,
+b)[^87] a hivatásos katasztrófavédelmi szerv esetében első fokon az Országos Katasztrófavédelmi Főigazgatóság által működtetett pszichológiai alkalmasság-vizsgálóhely, másodfokon az MH Honvédkórház,
 
-c) a büntetés-végrehajtási szervezet esetében első és másodfokon az MH HEK
+c)[^88] a büntetés-végrehajtási szervezet esetében első és másodfokon az MH Honvédkórház
 
 végzi.
 
@@ -20,4 +20,6 @@ végzi.
 
 (6) A közlekedés-pszichológiai vizsgálaton kizárólag „Megfelelő” vagy „Nem megfelelő” értékelés adható.
 
-[^42]: A 34. § (4) bekezdés a) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^86]: A 34. § (4) bekezdés a) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^87]: A 34. § (4) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) és m) pontja szerint módosított szöveg.
+[^88]: A 34. § (4) bekezdés c) pontja a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja szerint módosított szöveg.

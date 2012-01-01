@@ -4,13 +4,13 @@
 
 a) hat hónapot elérő egészségügyi, vagy illetmény nélküli szabadság utáni szolgálatba lépést megelőzően,
 
-b) ideiglenesen alkalmatlan minősítés esetén, a szolgálatba lépést megelőzően,
+b)[^64] ideiglenesen alkalmatlan minősítés esetén, a minősítésben meghatározott időtartam lejártakor,
 
 c) a hivatásos szolgálati viszony nyugdíjkorhatáron túli meghosszabbítását megelőzően,
 
 d) a fizikai (erőnléti) állapotfelmérésen kapott ismételt nem megfelelő minősítés esetén,
 
-e) ha egészségi, illetve pszichikai állapotában az alapellátó orvos, illetve pszichológus vagy a közvetlen szolgálati elöljáró az alkalmatlanság megállapítására okot adó körülményt észlel,
+e)[^65] ha egészségi, illetve pszichikai állapotában az alapellátó orvos, illetve pszichológus vagy a közvetlen szolgálati elöljáró az alkalmatlanság megállapítására okot adó körülményt észlel, és írásban kezdeményezi a soron kívüli vizsgálatot,
 
 f) ha az e) pontban meghatározott körülményt észlel,
 
@@ -29,3 +29,6 @@ a) azt a rendészeti oktatási intézmény orvosa a hallgató, illetve tanuló e
 b) a hallgató, illetve tanuló egészségi, pszichikai alkalmatlanságát megalapozó tény, vagy körülmény jut a tudomására.
 
 (5) A rendészeti oktatási intézmény hallgatója soron kívüli egészségi, illetve pszichikai alkalmassági vizsgálatát első és másodfokon az ORFK végzi.
+
+[^64]: A 25. § (1) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^65]: A 25. § (1) bekezdés e) pontja a 67/2011. (XII. 30.) BM rendelet 13. § (2) bekezdésével megállapított szöveg.

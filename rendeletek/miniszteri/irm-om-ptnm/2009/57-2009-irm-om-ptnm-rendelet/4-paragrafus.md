@@ -1,6 +1,6 @@
 4. § (1) Alkalmassági vizsgálatot kell végezni:
 
-a)[^8] hivatásos állományba kinevezés, visszavétel és a rendőrség különleges állományába határozott idejű szolgálati viszonyba való kinevezés, továbbá a határozott idejű szolgálati jogviszonyra vonatkozó szerződéshosszabbítás előtt,
+a)[^12] hivatásos állományba kinevezés, visszavétel és a rendőrség különleges foglalkoztatási állományába történő felvétel előtt,
 
 b) rendészeti oktatási intézménybe jelentkezéskor,
 
@@ -24,4 +24,4 @@ k) e rendeletben meghatározott esetekben soron kívül.
 
 (2) A vizsgálatot végző a vizsgálat megkezdése előtt ellenőrzi a vizsgálatra rendelt személy személyazonosságát.
 
-[^8]: A 4. § (1) bekezdés a) pontja a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 1. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 2. §-ával megállapított szöveg.

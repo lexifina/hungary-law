@@ -4,7 +4,7 @@
 
 a) a hivatásos szolgálatra való egészségi, pszichikai, fizikai alkalmassági követelmények meghatározása, valamint az alkalmasság elbírálásának rendje tekintetében:
 
-aa)[^1] a rendőrség, a büntetés-végrehajtási szervezet, a polgári védelem, az állami és hivatásos önkormányzati tűzoltóság (e rendelet alkalmazásában a továbbiakban együtt: rendvédelmi szerv) állományába tartozó hivatásos szolgálati jogviszonyban álló személyekre, a rendvédelmi szerveknél hivatásos állományba pályázókra,
+aa)[^1] a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv (e rendelet alkalmazásában a továbbiakban együtt: rendvédelmi szerv) állományába tartozó hivatásos szolgálati jogviszonyban álló személyekre, a rendvédelmi szerveknél hivatásos állományba pályázókra,
 
 ab) a rendészeti igazgatási szak biztonsági szakirány kivételével a Rendőrtiszti Főiskola nappali tagozatos képzésére, valamint a rendészeti szakközépiskolákba (a továbbiakban együtt: rendészeti oktatási intézmény) felvételre jelentkezőkre, a Rendőrtiszti Főiskola – rendészeti igazgatási szak biztonsági, továbbá vám- és jövedéki igazgatási szakirány kivételével –, valamint a rendészeti oktatási intézmény nappali tagozatos hallgatóira és tanulóira;
 
@@ -18,8 +18,9 @@ d)[^2] az alkalmasság elbírálásának eljárási rendje tekintetében az aa) 
 
 a) a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok közalkalmazottaira, köztisztviselőire és kormánytisztviselőire;
 
-b) a hivatásos, a közalkalmazotti, a köztisztviselői vagy a kormánytisztviselői állományból nyugállományba helyezettekre.
+b)[^4] a hivatásos, a közalkalmazotti, a köztisztviselői vagy a kormánytisztviselői állományból nyugállományba helyezettekre, valamint szolgálati járandóságra jogosultakra
 
-[^1]: Az 1. § (1) bekezdés a) pont aa) alpontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés a) pont aa) alontja a 67/2011. (XII. 30.) BM rendelet 23. § k) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés d) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 10/2010. (XII. 22.) BM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 23. § a) pontja szerint módosított szöveg.
