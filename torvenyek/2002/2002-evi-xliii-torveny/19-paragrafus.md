@@ -20,7 +20,7 @@ c) az immateriális javaknak és a tárgyi eszközöknek az adóalanyként lezá
 
 (7) Az adóalanyként lezárt adóévet figyelembe kell venni az olyan adókedvezmény tekintetében, amelyet az adózó a társasági adóról és az osztalékadóról szóló törvény rendelkezései szerint meghatározott számú adóévben vehet igénybe.
 
-(8) A jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég az e törvény szerinti adóalanyisága megszűnését követő adóévre vonatkozó bevallása alapján fizet először társaságiadó-előleget.
+(8)
 
 (9) Az e törvény szerinti adóalanyiság megszűnésének adóévét követő első adóévben a társaságiadó-alap megállapításakor az adózás előtti eredményt
 

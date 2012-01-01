@@ -8,7 +8,7 @@
 
 a) a számvitelről szóló törvény hatálya alá nem tartozó adóalany esetében az adóévet követő év február 25., ha azonban az adóalanyiság év közben szűnt meg, akkor az adóalanyiság megszűnését követő 30. nap;
 
-b) a számvitelről szóló törvény hatálya alá tartozó adóalany esetében az adóévet követő év május 31., ha azonban az adóalanyiság év közben szűnt meg, akkor az adóalanyiság megszűnését követő 150. nap.
+b) a számvitelről szóló törvény hatálya alá tartozó adóalany esetében az adóévet követő év május 31., ha azonban az adóalanyiság év közben szűnt meg, akkor az adóalanyiság megszűnésének hónapját követő ötödik hónap utolsó napja.
 
 (4) Az adóalany az adóév első három negyedévére negyedévenként az adóelőleget megállapítja, valamint az egyes negyedévekre megállapított adóelőleget, valamint a 12. § (4) bekezdése szerinti adóelőleg kiegészítést az adóévre vonatkozó bevallásában bevallja. Az egyéni vállalkozó adóalanynak a bevallásában az adatokat forintban kell feltüntetnie, a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég bevallásában az adatokat az adózás rendjéről szóló törvény előírásainak megfelelően szerepelteti.
 

@@ -4,7 +4,7 @@
 
 ## Az egyszerűsített vállalkozói adó
 
-1. § (1) A Magyar Köztársaságban egyes személyek vállalkozási (gazdasági) tevékenységből származó bevételét az e törvényben meghatározott egyszerűsített vállalkozói adó (a továbbiakban: eva) terheli.
+1. § (1) Magyarországon egyes személyek vállalkozási (gazdasági) tevékenységből származó bevételét az e törvényben meghatározott egyszerűsített vállalkozói adó (a továbbiakban: eva) terheli.
 
 (2) Az evából származó bevétel a központi költségvetést illeti meg.
 

@@ -8,7 +8,7 @@ b) a változás bekövetkezésének napját megelőző nappal, ha a változás r
 
 c) az adóalanyiság választására jogosító értékhatár meghaladásának napját követő nappal;
 
-d) a kapott előlegről kibocsátott utolsó bizonylat kibocsátásának napját megelőző nappal, ha a naptári évben összesen 25 millió forintot meghaladó előlegről bocsátott ki bizonylatot;
+d) a kapott előlegről kibocsátott utolsó bizonylat kibocsátásának napját megelőző nappal, ha a naptári évben összesen 30 millió forintot meghaladó előlegről bocsátott ki bizonylatot;
 
 e) az adóhatóság határozata jogerőre emelkedésének napjával, ha terhére az adóhatóság számla- vagy nyugtaadási kötelezettség elmulasztása, vagy az ellenőrzés akadályozása miatt mulasztási bírságot állapított meg;
 

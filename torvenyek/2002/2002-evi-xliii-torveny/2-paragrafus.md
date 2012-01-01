@@ -42,9 +42,9 @@ e) a magánszemély az általa végzett termékértékesítés vagy szolgáltat�
 
 (4) A (2) bekezdésben meghatározott személy az adóévben akkor lehet adóalany, ha
 
-a) az adóévet megelőző második adóévben (üzleti évben) – ha előtársasági működésének kezdő napja az adóévet megelőző második naptári évben, utolsó napja az adóévet megelőző naptári évben volt, akkor előtársasági működése adóévében – éves szintre átszámított összes bevétele a 25 millió forintot nem haladta meg,
+a) az adóévet megelőző második adóévben (üzleti évben) – ha előtársasági működésének kezdő napja az adóévet megelőző második naptári évben, utolsó napja az adóévet megelőző naptári évben volt, akkor előtársasági működése adóévében – éves szintre átszámított összes bevétele a 30 millió forintot nem haladta meg,
 
-b) az adóévet megelőző adóévben (üzleti évben) ésszerűen várható éves szintre átszámított összes bevétele a 25 millió forintot nem haladja meg
+b) az adóévet megelőző adóévben (üzleti évben) ésszerűen várható éves szintre átszámított összes bevétele a 30 millió forintot nem haladja meg
 
 azzal, hogy az a)–b) pont alkalmazásában
 
@@ -58,7 +58,7 @@ cc) adóalanynál az e törvény előírásainak megfelelően meghatározott, a 
 
 (5) A (2) bekezdésben meghatározott személy az adóévben akkor lehet adóalany, ha
 
-a) az adóévre ésszerűen várható, e törvény előírásainak megfelelően meghatározott, a 6. § (1) bekezdése és 20. § (1) bekezdése szerinti bevétele a 25 millió forintot nem haladja meg;
+a) az adóévre ésszerűen várható, e törvény előírásainak megfelelően meghatározott, a 6. § (1) bekezdése és 20. § (1) bekezdése szerinti bevétele a 30 millió forintot nem haladja meg;
 
 b) az adóévben nem folytat a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény hatálya alá tartozó tevékenységet;
 
