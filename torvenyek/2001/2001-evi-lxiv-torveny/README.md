@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2011-01-01 | 2011. évi LXXVII. törvény | 2001-64-00-00.18 |
 | 2011-11-15 | 2011. évi CXLIX. törvény | 2001-64-00-00.19 |
 | 2011-12-31 | 2011. évi CXCVI. törvény | 2001-64-00-00.20 |
+| 2012-01-01 | 2011. évi CXLIX. törvény | 2001-64-00-00.21 |

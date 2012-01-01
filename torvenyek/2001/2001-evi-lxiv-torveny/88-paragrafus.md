@@ -1,3 +1,3 @@
 ## Európai jogszabályokhoz közelítés
 
-88. §
+### 88. §

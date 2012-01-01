@@ -6,7 +6,7 @@ a) a központi költségvetés örökségvédelmi célokat szolgáló előirány
 
 b) a helyi önkormányzatok örökségvédelmi célokra fordított pénzeszközei;
 
-c) az örökségvédelmi bírságból befolyt bevételek;
+c)
 
 d) egyéb pénzügyi eszközök, így
 

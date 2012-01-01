@@ -30,4 +30,4 @@ n) örökségvédelmi érdekű tudományos kutatási feladatok ellátására és
 
 o) örökségvédelemmel kapcsolatos ismeretterjesztési és képzési feladatok ellátására;
 
-p) e törvényben meghatározott világörökségi és egyéb örökségvédelmi feladatok, beleértve a szabályozási tervek 39. § (2) bekezdése szerinti módosításának költségeit.
+p) e törvényben meghatározott egyéb örökségvédelmi feladatok, beleértve a szabályozási tervek 39. § (2) bekezdése szerinti módosításának költségeit.

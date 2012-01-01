@@ -8,7 +8,13 @@ b) jelölje ki a kulturális örökségvédelmi hatóságot vagy hatóságokat, 
 
 c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására,
 
-d) állapítsa meg az örökségvédelmi hatástanulmányra vonatkozó szabályokat.
+d) állapítsa meg az örökségvédelmi hatástanulmányra vonatkozó szabályokat;
+
+e) szabályozza a Bizottság emlékhelyekkel kapcsolatos feladatait;
+
+f) szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét;
+
+g) határozza meg a történelmi emlékhelyeket.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
@@ -38,7 +44,7 @@ l) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántart
 
 m) a hatóságra és annak eljárására vonatkozó részletes szabályokat;
 
-n) az építésügyért felelős miniszterrel és a természetvédelemért felelős miniszterrel egyetértésben a világörökségi területek kezelési tervére vonatkozó részletes szabályokat;
+n)
 
 o) az e törvény hatálya alá tartozó szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 

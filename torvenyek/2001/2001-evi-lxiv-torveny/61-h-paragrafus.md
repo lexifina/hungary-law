@@ -1,0 +1,3 @@
+61/H. § (1) Az állam a nemzeti emlékhelyek vonatkozásában a 61/D. §-ban és a 61/E. §-ban meghatározott feladatok ellátásához a központi költségvetésből forrást biztosít.
+
+(2) A nemzeti emlékhelyekkel kapcsolatos költségvetési pénzeszközöket az e törvényben megjelölt, a nemzeti emlékhelyekkel kapcsolatos állami feladatok költségeire figyelemmel kell meghatározni.
