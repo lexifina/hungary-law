@@ -1,0 +1,7 @@
+28. § (1) Amennyiben a veszélyes anyagokkal foglalkozó üzemben a veszélyes anyagok mennyisége eléri a jogszabályban meghatározott alsó küszöbértéket, de nem éri el a felső küszöbértéket, az üzemeltető biztonsági elemzést készít és a hatósághoz elfogadásra benyújtja.
+
+(2) Amennyiben a veszélyes anyagokkal foglalkozó üzemben a veszélyes anyagok mennyisége eléri vagy meghaladja a jogszabályban meghatározott felső küszöbértéket, az üzemeltető a külön jogszabályban meghatározottak szerint biztonsági jelentést készít és a hatósághoz elfogadásra benyújtja.
+
+(3) A biztonsági elemzés és jelentés veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésre és elhárítására vonatkozó előírásait úgy kell kialakítani, hogy képes legyen biztosítani az egészség és a környezet magas fokú védelmét. Ennek érdekében tartalmaznia kell a védekezéshez szükséges erőkre és eszközökre, a szervezési és vezetési rendszerre vonatkozó elgondolást is.
+
+(4) A biztonsági elemzést és jelentést, működő veszélyes anyagokkal foglalkozó üzem esetén a külön jogszabályban meghatározott esetekben, de legalább ötévenként az üzemeltető felülvizsgálja, és szükség szerint módosítja. A felülvizsgálat eredményét, illetve a módosított biztonsági elemzést vagy jelentést a hatóság részére megküldi. A hatóság a megküldött biztonsági elemzés vagy jelentés alapján dönt az engedély meghosszabbításáról, illetve annak feltételeiről.

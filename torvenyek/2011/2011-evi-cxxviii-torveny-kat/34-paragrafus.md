@@ -1,0 +1,3 @@
+34. § (1) A hatóság a 25. § (1) bekezdés szerinti határozatát a veszélyeztetett települések polgármestereivel, a veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes helyi, megyei védelmi bizottság elnökével, valamint a fővárosban a főpolgármesterrel közli.
+
+(2) A hatóság a veszélyes tevékenység végzésére vonatkozó határozatának kiadását követően a veszélyes tevékenységet végzőkről és a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyekről tájékoztatja a veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes megyei (budapesti) rendőr-főkapitányságot, az egészségügyi államigazgatási szervet, a környezetvédelmi hatóságot, valamint az állami mentőszolgálatot.

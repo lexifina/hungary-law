@@ -1,0 +1,9 @@
+## „Az önkormányzati tűzoltóság
+
+## 34. § (1) Az önkormányzati tűzoltóság a települési önkormányzat vagy az önkormányzati társulás és az önkéntes tűzoltó egyesület által közösen vagy a települési önkormányzat vagy az önkormányzati társulás által önállóan alapított köztestület, amely a települési önkormányzat vagy az önkormányzati társulás közigazgatási területén, a hivatásos tűzoltósággal kötött együttműködési megállapodás alapján és annak szakmai iránymutatása alapján tűzoltási és műszaki mentési célokra folyamatosan igénybe vehető készenléti szolgálatot lát el és közreműködik közvetlen tűz- és robbanásveszély esetén a biztonsági intézkedések végrehajtásában. Az önkormányzati tűzoltóság kérheti közhasznúsági nyilvántartásba vételét.
+
+## (2) Az önkormányzati tűzoltóság parancsnokát a hivatásos katasztrófavédelmi szerv területi szerve vezetője egyetértésével a köztestület nevezi ki.
+
+## (3) Az önkormányzati tűzoltóság székhelye szerinti települési önkormányzat részére a hivatásos katasztrófavédelmi szerv központi szerve költségvetéséből erre a célra biztosított költségkeret mértékéig az általuk végzett feladattal arányos költségfedezetet biztosítja.”
+
+121. § A Tvt. 35. § (1) bekezdése helyébe a következő rendelkezés lép:

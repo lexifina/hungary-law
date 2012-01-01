@@ -1,0 +1,1 @@
+39. § A veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek csökkentésére vonatkozó veszélyes anyagokkal foglalkozó üzemen belüli feladatokat az üzemeltetőnek a belső védelmi tervben, míg az érintett állami és önkormányzati szervek veszélyes anyagokkal foglalkozó üzemen kívüli feladatait a külső védelmi tervben kell meghatározni.

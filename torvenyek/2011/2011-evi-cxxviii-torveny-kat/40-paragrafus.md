@@ -1,0 +1,11 @@
+40. § (1) A küszöbérték alatti üzem üzemeltetője a veszélyes anyagokkal kapcsolatos tevékenységet a külön jogszabályban meghatározott módon és adattartalommal a hatóságnak bejelenti.
+
+(2) A hatóság a küszöbérték alatti üzem üzemeltetője által küldött bejelentést megvizsgálja. A vizsgálatok alapján, ha az üzemben tárolt veszélyes anyagok mennyisége és fajtája, vagy az üzem által okozott veszélyeztetés azt indokolja, a hatóság az üzemeltetőt súlyos káresemény elhárítási terv készítésére kötelezi.
+
+(3) Az üzemeltető által benyújtott súlyos káresemény elhárítási tervet a hatóság értékeli, és dönt a katasztrófavédelmi engedély kiadásáról. Ha a benyújtott súlyos káresemény elhárítási terv nem felel meg a külön jogszabályban meghatározott követelményeknek, annak a hatósághoz történő beérkezésétől számított negyvenöt napon belül a hatóság hiánypótlásra hívja fel az üzemeltetőt.
+
+(4) Ha az üzemeltető nem vagy nem megfelelő módon tesz eleget a súlyos káresemény elhárítási tervvel kapcsolatos hiánypótlási felhívásnak vagy a súlyos káresemény elhárítási tervben a biztonságos üzemeltetést bizonyítani nem tudja, annak teljesítéséig a hatóság a 35. §-ban meghatározott szankciókat alkalmazhatja.
+
+(5) A hatóság döntése alapján a küszöbérték alatti üzem veszélyeztető hatásainak figyelembevétele érdekében a 32. § (2) bekezdése szerinti külső védelmi tervet kell készíteni.
+
+(6) A hatóság a küszöbérték alatti üzemben a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében külön jogszabályban meghatározott gyakorisággal hatósági ellenőrzést tart.

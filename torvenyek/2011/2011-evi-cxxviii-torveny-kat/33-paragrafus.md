@@ -1,0 +1,3 @@
+33. § (1) A veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes polgármesternek az üzemeltetővel és a hatósággal együttműködve külön jogszabályban meghatározottak szerint biztosítania kell, hogy a lakosság véleményt nyilváníthasson az új veszélyes anyagokkal foglalkozó üzem építésére, vagy a már működő veszélyes anyagokkal foglalkozó üzem tevékenységének jelentős változtatására vonatkozó engedély kiadása előtt.
+
+(2) Külön jogszabály szerint biztosítani kell, hogy a veszélyes anyagokkal foglalkozó üzem veszélyességi övezetének határán belül történő fejlesztések során a lakosság véleményt nyilváníthasson.
