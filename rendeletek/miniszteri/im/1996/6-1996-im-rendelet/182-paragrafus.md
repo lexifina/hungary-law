@@ -2,17 +2,17 @@
 
 ## Félbeszakítás hivatalból
 
-182. §[^142] (1) Az intézet a szabadságvesztés végrehajtásának félbeszakítására
+182. §[^156] (1) Az intézet a szabadságvesztés végrehajtásának félbeszakítására
 
-a)[^143] a bíróságnak a Be. 413. § (1) bekezdése, illetve 423. §-ának (6) bekezdése alapján hozott határozata,
+a)[^157] a bíróságnak a Be. 413. § (1) bekezdése, illetve 423. §-ának (6) bekezdése alapján hozott határozata,
 
-b)[^144] az igazságügyi és rendészeti miniszternek a Be. 598. § (2) bekezdése alapján hozott döntése
+b)[^158] az igazságügyért felelős miniszternek a Be. 598. § (2) bekezdése alapján hozott döntése
 
 ## szerint intézkedik.
 
-(2)[^145] A félbeszakítás az (1) bekezdés a) pontja szerinti esetekben a perújítási eljárás befejezéséig, a felülvizsgálati indítvány elbírálásáig, illetve a határozatban megjelölt ideig, az (1) bekezdés b) pontja szerinti esetben az igazságügyi és rendészeti miniszter által megjelölt időpontig, illetve a köztársasági elnök döntéséig tart.
+(2)[^159] A félbeszakítás az (1) bekezdés a) pontja szerinti esetekben a perújítási eljárás befejezéséig, a felülvizsgálati indítvány elbírálásáig, illetve a határozatban megjelölt ideig, az (1) bekezdés b) pontja szerinti esetben az igazságügyért felelős miniszter által megjelölt időpontig, illetve a köztársasági elnök döntéséig tart.
 
-[^142]: A 182. § a 24/2003. (VII. 1.) IM rendelet 14. §-ával megállapított szöveg.
-[^143]: A 182. § (1) bekezdésének a) pontja a 10/2006. (VII. 25.) IRM rendelet 4. §-ával megállapított szöveg.
-[^144]: A 182. § (1) bekezdésének b) pontja a 10/2006. (VII. 25.) IRM rendelet 11. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^145]: A 182. § (2) bekezdése a 10/2006. (VII. 25.) IRM rendelet 11. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^156]: A 182. § a 24/2003. (VII. 1.) IM rendelet 14. §-ával megállapított szöveg.
+[^157]: A 182. § (1) bekezdésének a) pontja a 10/2006. (VII. 25.) IRM rendelet 4. §-ával megállapított szöveg.
+[^158]: A 182. § (1) bekezdés b) pontja a 41/2011. (XII. 30.) KIM rendelet 9. § i) pontja szerint módosított szöveg.
+[^159]: A 182. § (2) bekezdése a 41/2011. (XII. 30.) KIM rendelet 9. § j) pontja szerint módosított szöveg.

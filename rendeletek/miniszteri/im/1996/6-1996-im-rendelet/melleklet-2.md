@@ -34,7 +34,7 @@
 
 ## – az előzetesen letartóztatottnál saját tulajdonú alsó- és felsőruházat, lábbeli és papucs.
 
-## 3.[^230] Élelmiszerek, étkezési eszközök:
+## 3.[^243] Élelmiszerek, étkezési eszközök:
 
 ## – az intézetben vásárolt vagy csomagban beküldhető élelmiszerek;
 
@@ -50,11 +50,11 @@
 
 ## – konzerv- és palackfedél nyitó;
 
-## – merülő forraló;
+## – vízforraló (túlmelegedés elleni védelemmel);
 
 ## – pohár.
 
-## 4.[^231] Dohányáruk:
+## 4.[^244] Dohányáruk:
 
 ## – cigaretta, szivar, dohány;
 
@@ -74,7 +74,7 @@
 
 ## – könyvek, napilapok, folyóiratok.
 
-## 6.[^232] Egyéb használati tárgyak:
+## 6.[^245] Egyéb használati tárgyak:
 
 ## – a vallásgyakorlathoz szükséges kegytárgyak;
 
@@ -98,6 +98,6 @@
 
 2. számú melléklet a 6/1996. (VII. 12.) IM rendelethez
 
-[^230]: Az 1. számú melléklet 3. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^231]: Az 1. számú melléklet 4. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^232]: Az 1. számú melléklet 6. pontja a 12/2010. (XI. 9.) KIM rendelet 7. §-ával megállapított szöveg.
+[^243]: Az 1. számú melléklet 3. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített, a 41/2011. (XII. 30.) KIM rendelet 9. § m) pontja szerint módosított szöveg.
+[^244]: Az 1. számú melléklet 4. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített szöveg.
+[^245]: Az 1. számú melléklet 6. pontja a 12/2010. (XI. 9.) KIM rendelet 7. §-ával megállapított szöveg.

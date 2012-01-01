@@ -1,6 +1,6 @@
-## A szabadságvesztés mellett kiszabott foglalkozástól eltiltással, járművezetéstől eltiltással, kiutasítással, közügyektől eltiltással és kitiltással kapcsolatos rendelkezések[^176]
+## A szabadságvesztés mellett kiszabott foglalkozástól eltiltással, járművezetéstől eltiltással, kiutasítással, közügyektől eltiltással és kitiltással kapcsolatos rendelkezések[^188]
 
-203. §[^177] (1) A szabadítás napján a foglalkozástól eltiltásról, járművezetéstől eltiltásról, közügyektől eltiltásról vagy kitiltásról kiállított II. jelzésű értesítőlapot meg kell küldeni:
+203. §[^189] (1) A szabadítás napján a foglalkozástól eltiltásról, járművezetéstől eltiltásról, közügyektől eltiltásról vagy kitiltásról kiállított II. jelzésű értesítőlapot meg kell küldeni:
 
 a) közügyektől eltiltás és foglalkozástól eltiltás esetén az elítélt lakóhelye, ennek hiányában tartózkodási helye szerinti rendőrkapitányságnak,
 
@@ -20,5 +20,5 @@ c) járművezetéstől eltiltás esetén az elítélt lakóhelye, ennek hiányá
 
 (7) Ha a foglalkozástól eltiltás, járművezetéstől eltiltás, közügyektől eltiltás vagy kitiltás hatálya alatt álló elítélt feltételes szabadságát megszüntetik vagy a kegyelemből felfüggesztett szabadságvesztés végrehajtását elrendelik, erről a befogadó intézet értesíti az illetékes rendőrkapitányságot, illetve jegyzőt. Az értesítésen fel kell tüntetni az elítélt személyi adatait, a büntetés nemét, tartamát, azon szabadságvesztés adatait, amelyből az elítélt feltételes szabadságra bocsátással vagy kegyelemmel szabadult, az új befogadás alapjául szolgáló bírósági határozat adatait. Az értesítést annak a hatóságnak kell megküldeni, amelynek az (1) bekezdés alapján az értesítőlapot továbbították.
 
-[^176]: A 203. §-t megelőző alcím a 11/2010. (III. 31.) IRM rendelet 7. §-ával megállapított szöveg.
-[^177]: A 203. § a 11/2010. (III. 31.) IRM rendelet 7. §-ával megállapított szöveg.
+[^188]: A 203. §-t megelőző alcím a 11/2010. (III. 31.) IRM rendelet 7. §-ával megállapított szöveg.
+[^189]: A 203. § a 11/2010. (III. 31.) IRM rendelet 7. §-ával megállapított szöveg.

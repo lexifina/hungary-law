@@ -1,16 +1,16 @@
-## 199/A. §[^165] Ha a feltételes szabadságra bocsátás iránti kérelmet az elítélt vagy védője az intézetnél terjesztette elő és az értékelő vélemény mellőzhető [Bv. tvr. 8. § (4) bek.], a kérelmet nyolc napon belül kell a bv. bíróhoz továbbítani. Az intézet ebben az esetben is tájékoztatja a bv. bírót a végrehajtott és a végrehajtásra váró szabadságvesztésről, valamint arról, ha az elítélt ellen új büntetőeljárás van folyamatban.
+## 199/A. §[^177] Ha a feltételes szabadságra bocsátás iránti kérelmet az elítélt vagy védője az intézetnél terjesztette elő és az értékelő vélemény mellőzhető [Bv. tvr. 8. § (4) bek.], a kérelmet nyolc napon belül kell a bv. bíróhoz továbbítani. Az intézet ebben az esetben is tájékoztatja a bv. bírót a végrehajtott és a végrehajtásra váró szabadságvesztésről, valamint arról, ha az elítélt ellen új büntetőeljárás van folyamatban.
 
 ## A pártfogó felügyelet előkészítése
 
 200. § (1) Ha a pártfogó felügyelet elrendelésének van helye, az intézet az erre irányuló előterjesztést a feltételes szabadságra vonatkozó előterjesztéssel együtt teszi meg.
 
-(2)[^166]
+(2)[^178]
 
-(3)[^167] A pártfogó felügyelet elrendelésére vonatkozó előterjesztésben az intézet javaslatot tehet a magatartási szabályok előírására.
+(3)[^179] A pártfogó felügyelet elrendelésére vonatkozó előterjesztésben az intézet javaslatot tehet a magatartási szabályok előírására.
 
-(4)[^168] Ha az intézet vagy a pártfogó felügyelő a pártfogó felügyelet elrendelésére tesz előterjesztést, illetőleg a magatartási szabályok előírására tesz javaslatot, erről tájékoztatják egymást.
+(4)[^180] Ha az intézet vagy a pártfogó felügyelő a pártfogó felügyelet elrendelésére tesz előterjesztést, illetőleg a magatartási szabályok előírására tesz javaslatot, erről tájékoztatják egymást.
 
-[^165]: A 199/A. §-t a 14/2006. (III. 28.) IM rendelet 4. §-a iktatta be.
-[^166]: A 200. § (2) bekezdését a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja hatályon kívül helyezte.
-[^167]: A 200. § (3) bekezdését a 24/2003. (VII. 1.) IM rendelet 19. §-a iktatta a szövegbe.
-[^168]: A 200. § (4) bekezdését a 24/2003. (VII. 1.) IM rendelet 19. §-a iktatta a szövegbe.
+[^177]: A 199/A. §-t a 14/2006. (III. 28.) IM rendelet 4. §-a iktatta be.
+[^178]: A 200. § (2) bekezdését a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja hatályon kívül helyezte.
+[^179]: A 200. § (3) bekezdését a 24/2003. (VII. 1.) IM rendelet 19. §-a iktatta a szövegbe.
+[^180]: A 200. § (4) bekezdését a 24/2003. (VII. 1.) IM rendelet 19. §-a iktatta a szövegbe.

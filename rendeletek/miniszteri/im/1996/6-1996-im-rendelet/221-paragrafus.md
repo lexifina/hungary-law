@@ -1,5 +1,5 @@
-## IX. CÍM[^195]
+## IX. CÍM[^207]
 
 ## A NEM MAGYAR ÁLLAMPOLGÁRSÁGÚ ELÍTÉLTEKRE VONATKOZÓ RENDELKEZÉSEK
 
-[^195]: A II. fejezet eredeti VIII. címének számozását a 61/2007. (XII. 23.) IRM rendelet 6. §-a IX. fejezetre változtatta.
+[^207]: A II. fejezet eredeti VIII. címének számozását a 61/2007. (XII. 23.) IRM rendelet 6. §-a IX. fejezetre változtatta.

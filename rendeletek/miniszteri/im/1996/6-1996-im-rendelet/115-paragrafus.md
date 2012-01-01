@@ -1,4 +1,4 @@
-115. §[^100] (1) A szabályzat rendelkezése esetén az elítélt részére a heti pihenőnap legfeljebb havonta, részben vagy egészben összevontan is kiadható.
+115. §[^111] (1) A szabályzat rendelkezése esetén az elítélt részére a heti pihenőnap legfeljebb havonta, részben vagy egészben összevontan is kiadható.
 
 (2) Idénymunkát végző elítélt esetében – a szabályzat rendelkezése alapján – a pihenőnap legfeljebb hathavonta részben vagy egészben összevontan is kiadható.
 
@@ -10,4 +10,4 @@ a) az egyes egészségkárosító kockázatok között foglalkoztatott elítélt
 
 b) az elítélt nő esetében, a terhessége megállapításától a gyermeke hat hónapos koráig, illetve ha a gyermek az intézetben van elhelyezve, egyéves koráig.
 
-[^100]: A 115. § a 18/2002. (XI. 30.) IM rendelet 33. §-ával megállapított szöveg.
+[^111]: A 115. § a 18/2002. (XI. 30.) IM rendelet 33. §-ával megállapított szöveg.

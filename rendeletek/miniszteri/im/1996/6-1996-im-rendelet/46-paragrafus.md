@@ -1,6 +1,6 @@
 ## Biztonsági elkülönítés
 
-46. §[^54] (1) Az elítélt biztonsági elkülönítésére akkor kerülhet sor, ha az intézet rendjét, biztonságát súlyosan sérti vagy veszélyezteti, ha csoportos ellenszegülésben vesz részt, a táplálkozást, az utasítás végrehajtását, a munkavégzést megtagadja, illetve ön- és közveszélyes magatartást tanúsít.
+46. §[^59] (1) Az elítélt biztonsági elkülönítésére akkor kerülhet sor, ha az intézet rendjét, biztonságát súlyosan sérti vagy veszélyezteti, ha csoportos ellenszegülésben vesz részt, a táplálkozást, az utasítás végrehajtását, a munkavégzést megtagadja, illetve ön- és közveszélyes magatartást tanúsít.
 
 (2) A biztonsági elkülönítés az elítélt elhelyezésének megváltoztatását jelenti, az elítélt az e célra szolgáló helyiségben is elkülöníthető. Nem kell az elhelyezést megváltoztatni, ha az elítélt egyszemélyes elhelyezésben van, és a zárkában hagyása a biztonsági elkülönítés célját nem veszélyezteti.
 
@@ -28,4 +28,4 @@ g) magánál tartható tárgyainak köre és mennyisége korlátozható.
 
 (7) Az ön- vagy közveszélyes magatartást tanúsító elítéltet az erre a célra kialakított helyiségben kell elhelyezni, és haladéktalanul intézkedni kell orvosi vizsgálata iránt. Az elkülönítés legfeljebb hat óra időtartamú lehet, az elkülönítés szükségességét azonban kétóránként felül kell vizsgálni.
 
-[^54]: A 46. § a 18/2002. (XI. 30.) IM rendelet 14. §-ával megállapított szöveg.
+[^59]: A 46. § a 18/2002. (XI. 30.) IM rendelet 14. §-ával megállapított szöveg.

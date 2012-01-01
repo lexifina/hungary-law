@@ -6,16 +6,18 @@
 
 ## A munkáltatás fogalma, szervezete és formái
 
-101. § (1) Munkáltatásnak minősül az elítélt szervezett foglalkoztatásának az a formája, amikor a munkavégzés rendszeresen, díjazás ellenében történik.
+101. §[^101] (1) Munkáltatásnak minősül az elítélt szervezett foglalkoztatásának az a formája, amikor a munkavégzés rendszeresen, díjazás ellenében történik.
 
-(2) Az elítéltet munkával az intézet vagy az e célra alapított gazdálkodó szervezet (a továbbiakban: munkáltató) foglalkoztatja.
+(2) E rendelet alkalmazásában munkáltató alatt az elítéltet munkával foglalkoztató intézetet vagy az e célra alapított gazdálkodó szervezetet kell érteni.
 
-(3) A munkáltató szerződése alapján az elítélt más gazdálkodó szervezetnél is végezhet munkát.
+(3) Az elítéltnek a Bv. tvr. 44. § (5) bekezdése szerinti más gazdálkodó szervezetnél (a továbbiakban: más gazdálkodó szervezet) történő munkáltatása esetén az elítélt hozzájárulását akár szóban, akár írásban visszavonhatja. Ha az elítélt nyilatkozatát szóban teszi meg, arról jegyzőkönyvet kell felvenni. A felmondási időt a nyilatkozatnak az elítéltet fogva tartó intézettel való közlés napjától kell számítani.
 
-(4) Az elítélt a (3) bekezdés szerinti más gazdálkodó szervezetnél nem végezhet munkát, ha
+(4) Az elítélt más gazdálkodó szervezetnél nem végezhet munkát, ha
 
-a) ott a szabadságvesztés megkezdése előtt vezető tisztségviselő vagy tulajdonos volt, üzletrésszel rendelkezett, illetve ezen körülmények bármelyike a szabadságvesztés végrehajtása alatt is fennáll;
+a) ott a szabadságvesztés megkezdése előtt vezető tisztségviselő vagy tulajdonos volt, üzletrésszel rendelkezett, illetve e körülmények bármelyike a szabadságvesztés végrehajtása alatt is fennáll;
 
 b) olyan munkakörben foglalkoztatnák, amelyet jogszabály rendelkezése szerint csak büntetlen előéletű személy tölthet be;
 
-c) közeli hozzátartozójával [Ptk. 685. § b) pont] kerülne alá-fölérendeltségi vagy elszámolási viszonyba.
+c) a Polgári Törvénykönyvről szóló törvényben meghatározott közeli hozzátartozójával kerülne alá-fölérendeltségi vagy elszámolási viszonyba.
+
+[^101]: A 101. § a 41/2011. (XII. 30.) KIM rendelet 5. §-ával megállapított szöveg.

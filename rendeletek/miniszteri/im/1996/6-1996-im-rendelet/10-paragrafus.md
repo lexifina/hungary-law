@@ -20,8 +20,8 @@ d) a szabadságvesztés letöltésére vonatkozó bírósági felhívás,
 
 e) a szabadságvesztés ideiglenes foganatbavételére vonatkozó ügyészi vagy bírói rendelkezés,
 
-f)[^9] az Igazságügyi és Rendészeti Minisztérium külföldi bíróság által kiszabott szabadságvesztés végrehajtásának átvételéről szóló értesítése
+f)[^11] az igazságügyért felelős miniszter külföldi bíróság által kiszabott szabadságvesztés végrehajtásának átvételéről szóló értesítése
 
 alapján fogadja be.
 
-[^9]: A 10. § f) pontját a 18/2002. (XI. 30.) IM rendelet 3. §-a iktatta be, szövege a 10/2006. (VII. 25.) IRM rendelet 11. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^11]: A 10. § f) pontját a 18/2002. (XI. 30.) IM rendelet 3. §-a iktatta be, szövege a 41/2011. (XII. 30.) KIM rendelet 9. § b) pontja szerint módosított szöveg.

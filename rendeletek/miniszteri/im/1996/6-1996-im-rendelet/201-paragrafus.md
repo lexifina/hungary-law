@@ -1,6 +1,6 @@
 ## A szabadítás szabályai
 
-201. §[^169] (1) Azt az elítéltet,
+201. §[^181] (1) Azt az elítéltet,
 
 a) aki szabadságvesztését kitöltötte, annak utolsó napján,
 
@@ -10,9 +10,9 @@ c) akinek szabadságvesztését félbeszakították, a rendelkezés vételekor, 
 
 d) akinek a szabadságvesztés hátralévő részét kegyelemből elengedték vagy mérsékelték, a jogszabályban, illetve a kegyelmi döntésben megállapított napon,
 
-e)[^170] akinek ügyében a Legfelsőbb Bíróság felülvizsgálati eljárás, illetve a törvényesség érdekében lefolytatott jogorvoslati eljárás, vagy jogegységi eljárás keretében szabadlábra helyezéséről határoz, a Legfelsőbb Bíróság határozata kihirdetésének napján,
+e)[^182] akinek ügyében a Kúria felülvizsgálati eljárás, illetve a törvényesség érdekében lefolytatott jogorvoslati eljárás, vagy jogegységi eljárás keretében szabadlábra helyezéséről határoz, a Kúria határozata kihirdetésének napján,
 
-f)[^171] akinek a szabadságvesztés büntetését a bíróság a Be. 574. §-ának (3) bekezdése alapján felfüggeszti,
+f)[^183] akinek a szabadságvesztés büntetését a bíróság a Be. 574. §-ának (3) bekezdése alapján felfüggeszti,
 
 ## szabadon kell bocsátani.
 
@@ -24,6 +24,6 @@ f)[^171] akinek a szabadságvesztés büntetését a bíróság a Be. 574. §-á
 
 (5) A bv. bíró nem jogerős végzése alapján feltételes szabadságra bocsátott elítélt jogerős végzés alapján szükségessé vált visszahívásáról az intézet gondoskodik. Ilyen esetben az intézet a 187. § (3) bekezdése, ha ez nem vezet eredményre, akkor a 206/A. § (2) bekezdésének a) és b) pontja szerint jár el.
 
-[^169]: A 201. § a 18/2002. (XI. 30.) IM rendelet 52. §-ával megállapított szöveg.
-[^170]: A 201. § (1) bekezdésének e) pontja a 10/2006. (VII. 25.) IRM rendelet 11. § (2) bekezdésének d) pontja szerint módosított szöveg.
-[^171]: A 201. § (1) bekezdésének f) pontját a 10/2006. (VII. 25.) IRM rendelet 8. §-a iktatta be.
+[^181]: A 201. § a 18/2002. (XI. 30.) IM rendelet 52. §-ával megállapított szöveg.
+[^182]: A 201. § (1) bekezdés e) pontja a 10/2006. (VII. 25.) IRM rendelet 11. § (2) bekezdés d) pontja, a 41/2011. (XII. 30.) KIM rendelet 10. § b) pontja szerint módosított szöveg.
+[^183]: A 201. § (1) bekezdésének f) pontját a 10/2006. (VII. 25.) IRM rendelet 8. §-a iktatta be.
