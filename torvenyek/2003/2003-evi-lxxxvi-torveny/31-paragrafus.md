@@ -1,1 +1,0 @@
-31. § A 4. § (5) bekezdésben és az 5. § (2) bekezdése a) pontjában meghatározott fejlesztési támogatás nyújtható vagyoni értékű jogok közé sorolható szoftver felhasználási jog megszerzésére, illetve szellemi termékek közé sorolható szellemi jogvédelemben részesülő szoftvertermék beszerzésére is.
