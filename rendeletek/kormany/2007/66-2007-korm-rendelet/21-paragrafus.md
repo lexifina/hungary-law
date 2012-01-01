@@ -1,4 +1,4 @@
-21. §[^27] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+21. §[^28] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről és a 88/599/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2006. március 15-i 2006/22/EK európai parlamenti és tanácsi irányelv, 2–9., 11. és 16. cikk, valamint I–III. melléklet, továbbá az azt módosító 2009/4/EK bizottsági irányelv,
 
@@ -6,4 +6,4 @@ b) a menetíró készülékek közúti ellenőrzések alkalmával és jogosults�
 
 (2) Ez a rendelet a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendelet 17. cikk (1) és (2) bekezdésének, valamint 22. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^27]: A 21. § a 272/2009. (XII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^28]: A 21. § a 272/2009. (XII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.

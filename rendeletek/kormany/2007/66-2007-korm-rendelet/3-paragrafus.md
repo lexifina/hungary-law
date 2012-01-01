@@ -4,7 +4,7 @@
 
 a)[^1] közúti ellenőrzés keretében a közlekedési hatóság, a rendőrség és a vámhatóság,
 
-b)[^2] telephelyi ellenőrzés keretében az üzembentartó telephelyén a közlekedési hatóság, a rendőrség, valamint az Országos Munkavédelmi és Munkaügyi Főfelügyelőség területi munkaügyi felügyelősége (a továbbiakban: munkaügyi hatóság)
+b)[^2] telephelyi ellenőrzés keretében az üzembentartó telephelyén a közlekedési hatóság, a rendőrség, valamint a munkaügyi hatóság
 
 ## ellenőrzi.
 
@@ -27,7 +27,7 @@ c) a hatáskörébe tartozó bírságolási eljárás lefolytatása.
 (7) A közös ellenőrzés során a bírságot az eljárást lefolytató szerv szabja ki. A befolyt bírságot e szerv számlájára kell befizetni, amely összeg az ellenőrzésben részt vett szerveket egyenlő arányban illeti meg.
 
 [^1]: A 3. § (1) bekezdésének a) pontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 33. pontja, a 351/2010. (XII. 30.) Korm. rendelet 175. § a) pontja szerint módosított szöveg.
-[^2]: A 3. § (1) bekezdés b) pontja a 272/2009. (XII. 1.) Korm. rendelet 1. §-ával megállapított szöveg. [A 351/2010. (XII. 30.) Korm. rendelet 176. §-ával elrendelt módosítás nem lett átvezetve, mivel a rendelkezés téves hivatkozást tartalmazott.]
+[^2]: A 3. § (1) bekezdés b) pontja a 272/2009. (XII. 1.) Korm. rendelet 1. §-ával megállapított, a 324/2011. (XII. 28.) Korm. rendelet 12. §-a szerint módosított szöveg. [A 351/2010. (XII. 30.) Korm. rendelet 176. §-ával elrendelt módosítás nem lett átvezetve, mivel a rendelkezés téves hivatkozást tartalmazott.]
 [^3]: A 3. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 175. § b) pontja szerint módosított szöveg.
 [^4]: A 3. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontja szerint módosított szöveg.
 [^5]: A 3. § (4) bekezdése a 272/2009. (XII. 1.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
