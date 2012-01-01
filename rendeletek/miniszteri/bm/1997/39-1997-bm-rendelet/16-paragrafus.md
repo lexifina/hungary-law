@@ -1,6 +1,6 @@
 ## A szociális bizottságok
 
-16. §[^17] (1) Az önálló költségvetéssel rendelkező belügyi szerveknél – a személyi állománnyal kapcsolatos szociális és kegyeleti feladatok körültekintő végrehajtásának elősegítésére – véleményező és javaslattevő jogkörrel a szerv (szervezeti egység) vezetője mellett működő – szociális bizottságot kell működtetni.
+16. §[^18] (1) Az önálló költségvetéssel rendelkező belügyi szerveknél – a személyi állománnyal kapcsolatos szociális és kegyeleti feladatok körültekintő végrehajtásának elősegítésére – véleményező és javaslattevő jogkörrel a szerv (szervezeti egység) vezetője mellett működő – szociális bizottságot kell működtetni.
 
 (2) A szociális bizottságot a belügyi szerv létszámától és működési sajátosságaitól függően 5–15 fővel kell létrehozni és működtetni. A bizottság tagjainak kétharmadát az érdekképviseleti szerv(ek) jelölése alapján, a bizottság tagjainak további egyharmadát pedig saját hatáskörben a belügyi szerv vezetője nevezi ki.
 
@@ -10,4 +10,4 @@
 
 (5) A szociális bizottság ügyrendjét – a belügyi szerv sajátosságainak megfelelően – a bizottság alakítja ki, amelyet a belügyi szerv vezetője hagy jóvá.
 
-[^17]: A 16. § a 37/2001. (XII. 22.) BM rendelet 8. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 13. §-ának (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^18]: A 16. § a 37/2001. (XII. 22.) BM rendelet 8. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 13. §-ának (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

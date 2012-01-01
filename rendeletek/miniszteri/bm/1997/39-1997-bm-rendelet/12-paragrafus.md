@@ -4,6 +4,6 @@
 
 (2) Csak különösen indokolt esetben folyósítható temetési segély akkor, ha a belügyi szerv a temetés költségeit legalább 50%-ban átvállalta.
 
-(3)[^10] A temetési segély legkisebb nettó összege a mindenkori köztisztviselői illetményalapnak megfelelő összeg, legnagyobb nettó összege pedig a mindenkori köztisztviselői illetményalap kétszerese. A belügyminiszter – a részére biztosított keret terhére – indokolt esetben e korlátozástól eltérhet.
+(3)[^11] A temetési segély legkisebb nettó összege a mindenkori köztisztviselői illetményalapnak megfelelő összeg, legnagyobb nettó összege pedig a mindenkori köztisztviselői illetményalap kétszerese. A belügyminiszter – a részére biztosított keret terhére – indokolt esetben e korlátozástól eltérhet.
 
-[^10]: A 12. § (3) bekezdése a 37/2001. (XII. 22.) BM rendelet 5. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 13. §-ának (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^11]: A 12. § (3) bekezdése a 37/2001. (XII. 22.) BM rendelet 5. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 13. §-ának (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

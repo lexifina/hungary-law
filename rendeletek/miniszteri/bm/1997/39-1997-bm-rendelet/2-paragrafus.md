@@ -24,10 +24,10 @@ h) kedvezményes üdültetés,
 
 i) egyes szolgáltatások kedvezményes igénybevétele,
 
-j)[^2] iskolakezdési támogatás.
+j)[^3] iskolakezdési támogatás.
 
 (4) Jogszabályi felhatalmazás alapján a személyi állomány tagja egyéb szociális támogatásban (pl. lakhatási, családalapítási támogatás stb.) is részesíthető.
 
 (5) A lakáscélú támogatások rendjét külön rendelet tartalmazza.
 
-[^2]: A 2. § (3) bekezdésének j) pontját a 37/2001. (XII. 22.) BM rendelet 13. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 21/2002. (VIII. 12.) BM rendelet 1. §-a iktatta a szövegbe.
+[^3]: A 2. § (3) bekezdésének j) pontját a 37/2001. (XII. 22.) BM rendelet 13. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 21/2002. (VIII. 12.) BM rendelet 1. §-a iktatta a szövegbe.

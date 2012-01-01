@@ -1,6 +1,6 @@
-23. §[^27] Ez a rendelet a kihirdetése napján lép hatályba.
+23. §[^28] Ez a rendelet a kihirdetése napján lép hatályba.
 
-Melléklet a 39/1997. (VII. 18.) BM rendelethez[^28]
+Melléklet a 39/1997. (VII. 18.) BM rendelethez[^29]
 
 I. Kegyeleti kiadásként elszámolható
 
@@ -56,5 +56,5 @@ rendje
 
 2. A kegyeleti költségeket a szolgáltató által kiállított, eredeti számla alapján 50%-ban kell téríteni – az R. 19. §-a (1) bekezdésének d) pontja szerint minősített és a nem minősített elhunytak esetében – a halottszállításra, a sírhelyköltségre, valamint a szolgáltatási költségekre és kellékekre írt korlátozások figyelembevételével.
 
-[^27]: A 23. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 3. § 198. pontja hatályon kívül helyezte.
-[^28]: A melléklet a 37/2001. (XII. 22.) BM rendelet 12. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 13. §-ának (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^28]: A 23. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 3. § 198. pontja hatályon kívül helyezte.
+[^29]: A melléklet a 37/2001. (XII. 22.) BM rendelet 12. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 13. §-ának (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
