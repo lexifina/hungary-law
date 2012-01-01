@@ -1,0 +1,3 @@
+21. § (1) Semmis az olyan szerződéses kikötés, amely szerint a maga termelte mezőgazdasági termény szolgáltatására e törvény szerinti elháríthatatlan külső ok (vis maior) miatt egészben vagy részben nem képes termelő a hiányzó mezőgazdasági terményt teljesítés céljára pótolni, mástól beszerezni, helyette más szolgáltatást vagy biztosítékot nyújtani köteles. E kikötés semmissége a szerződés egyéb rendelkezéseinek érvényességét akkor sem érinti, ha a felek e nélkül nem szerződtek volna.
+
+(2) Az (1) bekezdésben foglaltakat megfelelően alkalmazni kell a mezőgazdasági termény harmadik személy javára történő termeltetése esetén is.

@@ -1,0 +1,1 @@
+22. § Ha a haszonbérlő e törvény szerinti elháríthatatlan külső ok (vis maior) miatt legalább 30%-os mértékű hozamcsökkenést szenved, és ezt az agrárkár-megállapító szerv igazolja, akkor őt a termőföldről szóló törvényben foglaltak alapján haszonbér-mérséklés illeti meg.

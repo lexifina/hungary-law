@@ -1,0 +1,1 @@
+4. § Uniós jogi aktus alapján nyújtott támogatás igénybevételével összefüggésben az elháríthatatlan külső ok (vis maior) igazolására az uniós jogi aktusban, valamint az annak végrehajtására kiadott jogszabályban foglaltakat kell alkalmazni.

@@ -1,0 +1,3 @@
+9. § (1) Az állam rendkívüli időjárási körülmények esetén az e törvény szerint kockázatközösségben nem tag mezőgazdasági termelők részére a mezőgazdasági terményekben keletkezett károk enyhítése érdekében – uniós jogi aktusban foglaltakkal összhangban – a központi költségvetésből biztosított pénzforrásból az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint támogatást nyújthat.
+
+(2) Jogszabály eltérő rendelkezése hiányában, az e törvény szerint kockázatközösségben nem tag mezőgazdasági termelő az (1) bekezdés szerinti támogatás alapjául szolgáló káresemény bekövetkezését követő évtől kezdődően három évre a kockázatközösség tagjává válik, amennyiben a káreseményt követő évben egységes kérelmet nyújt be.
