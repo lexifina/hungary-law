@@ -4,6 +4,6 @@
 
 a) állatot tartani, tenyészteni, kiképezni, idomítani, valamint más személynek átadni, vagy forgalmazni;
 
-b) építményt vagy földterületet, anyagi eszközt más személy rendelkezésére bocsátani.
+b) építményt, földterületet vagy egyéb helyet, anyagi eszközt más személy rendelkezésére bocsátani.
 
-(3) Az (1) bekezdésben foglalt tilalom nem vonatkozik a vadászatra alkalmazott állatnak külön jogszabály alapján történő kiképzésére, vadászaton való alkalmazására.
+(3) Az (1) bekezdésben foglalt tilalom nem vonatkozik a vadászatra alkalmazott állatnak jogszerűen történő kiképzésére, vadászaton való alkalmazására.

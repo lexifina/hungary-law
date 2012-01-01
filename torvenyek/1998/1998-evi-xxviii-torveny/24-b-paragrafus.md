@@ -1,9 +1,21 @@
-24/B. § (1) Tilos az állatok között olyan viadal, az állatok egymás elleni uszításával olyan küzdelem (a továbbiakban együtt: állatviadal) szervezése, tartása, amely az állatok sérülését vagy elpusztulását okozhatja. Tilos továbbá az állatviadalra fogadás szervezése, az állatviadalon való közreműködés, részvétel, fogadáskötés.
+24/B. § (1) Az állatvédelmi hatóság a 24/A. § szerinti engedélyezési eljárásban jogosult kezelni
 
-(2) Tilos állatviadal céljára
+a) az eb tulajdonosának nevét és címét,
 
-a) állatot tartani, tenyészteni, kiképezni, idomítani, valamint más személynek átadni, vagy forgalmazni;
+b) az eb felügyeletét ellátó természetes személy (a továbbiakban: ebtartó) nevét, születési helyét és idejét, lakcímét, telefonszámát, elektronikus levélcímét,
 
-b) épületet vagy egyéb helyet, anyagi eszközt más személy rendelkezésére bocsátani.
+c) az eb tartási helyét (település, kerület, utca, házszám),
 
-(3) Az (1) bekezdésben foglalt tilalom nem vonatkozik a külön jogszabályok alapján az állatoknak vadászaton való alkalmazására.
+d) az eb fajtáját, születési idejét, nemét, színét, hívónevét,
+
+e) a transzponder sorszámát,
+
+f) az ivartalanítás időpontját,
+
+g) az eb egyéb egyedi jellemzőit.
+
+(2) Az állatvédelmi hatóság az (1) bekezdésben foglalt adatokról a veszélyes ebek hatékony azonosítása érdekében nyilvántartást vezet.
+
+(3) Az (1) bekezdésben foglalt adatokat az eb elpusztulásától, elvesztésétől, valamint tulajdonosváltásától számított három évig kell nyilvántartani.
+
+(4) Az ebet veszélyesnek minősítő állatvédelmi hatóság a veszélyesnek minősítés tényét 8 napon belül köteles bejelenteni a transzponderrel megjelölt ebek adatait nyilvántartó országos elektronikus adatbázis működtetőjének.

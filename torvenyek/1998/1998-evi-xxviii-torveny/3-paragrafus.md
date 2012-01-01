@@ -6,7 +6,7 @@
 
 2. állat károsítása: az állat testi épségének, szervezetének, pszichikai állapotának vagy viselkedésének tartós, hátrányos megváltoztatása;
 
-3. állatkert: a természet- és állatvédelmet szolgáló, megfelelő engedéllyel rendelkező állandó létesítmény, ahol az állatokat évente folyamatosan hét napnál hosszabb időn keresztül a nagyközönség részére való bemutatás céljából tartják, és amely az ismeretterjesztést, oktatást és nevelést az ott élő állatok folyamatos és szakszerű bemutatásával, valamint tájékoztatással biztosítja; nem minősül állatkertnek a cirkuszi menazséria és az állatkereskedés;
+3. állatkert: a természet- és állatvédelmet szolgáló állandó létesítmény, ahol az állatokat évente folyamatosan hét napnál hosszabb időn keresztül a nagyközönség részére való bemutatás céljából tartják, és amely az ismeretterjesztést, oktatást és nevelést az ott élő állatok folyamatos és szakszerű bemutatásával, valamint tájékoztatással biztosítja; nem minősül állatkertnek a cirkuszi menazséria és az állatkereskedés;
 
 4. állatkínzás: az állat szükségtelen, fájdalmat okozó bántalmazása, vagy olyan hatást eredményező beavatkozás, bánásmód, valamint szükségleteinek olyan mértékű korlátozása, amely tartós félelmet vagy egészségkárosodást okozhat, továbbá az öröklődő betegségben szenvedő – nem kísérleti célra szánt – állategyed tenyésztése, szaporítása;
 
@@ -22,4 +22,4 @@
 
 10. állat életének megengedett módon való kioltása: az állat életének a legkisebb szenvedés okozásával, valamint a faj adottságainak figyelembevételével történő szakszerű és gyors kioltása;
 
-11. cirkuszi menazséria: olyan, állatok tartására szolgáló létesítmény, amelyet cirkuszi előadásra, mutatványra betanított, illetve betanítandó állatokból álló állatsereglet tartására – hatósági engedély alapján – létesítettek, illetve tartanak fenn, és amely az állatok tartására a jogszabályi és a hatósági előírásoknak megfelelő létesítménnyel, berendezésekkel és eszközökkel, továbbá az állatok ellátására, betanítására, felügyeletére az ilyen előírásoknak megfelelő szakszemélyzettel rendelkezik.
+11. cirkuszi menazséria: olyan, állatok tartására szolgáló létesítmény, amelyet cirkuszi előadásra, mutatványra betanított, illetve betanítandó állatokból álló állatsereglet tartására létesítettek, illetve tartanak fenn, és amely az állatok tartására a jogszabályi és a hatósági előírásoknak megfelelő létesítménnyel, berendezésekkel és eszközökkel, továbbá az állatok ellátására, betanítására, felügyeletére az ilyen előírásoknak megfelelő szakszemélyzettel rendelkezik.

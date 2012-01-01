@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-28-00-00
 | 2010-03-12 | 2010. évi IX. törvény | 1998-28-00-00.15 |
 | 2011-01-01 | 328/2010. (XII. 27.) Korm. rendelet | 1998-28-00-00.16 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1998-28-00-00.17 |
+| 2012-01-01 | 2011. évi CLVIII. törvény | 1998-28-00-00.18 |

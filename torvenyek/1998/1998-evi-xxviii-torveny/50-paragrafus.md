@@ -18,4 +18,6 @@
 
 – a Tanács 98/58/EK irányelve az állatok védelméről a mezőgazdasági haszonállattartás során,
 
-– a Tanács 99/22/EK irányelve a vadon élő állatok állatkertben való tartásáról.
+– a Tanács 99/22/EK irányelve a vadon élő állatok állatkertben való tartásáról,
+
+– az Európai Parlament és Tanács 1523/2007/EK rendelete a macska- és kutyaprém, valamint az ilyen prémet tartalmazó termékek forgalomba hozatalának, a Közösségbe történő behozatalának, illetve onnan történő kivitelének tilalmáról.

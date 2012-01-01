@@ -1,6 +1,6 @@
 ## VIII. Fejezet
 
-## AZ ÁLLATVÉDELMI FELADATOK PÉNZÜGYI FEDEZETE, AZ ÁLLATVÉDELMI BÍRSÁG
+## AZ ÁLLATVÉDELMI FELADATOK PÉNZÜGYI FEDEZETE, AZ EBNYILVÁNTARTÁS, AZ EBRENDÉSZETI HOZZÁJÁRULÁS, AZ ÁLLATVÉDELMI BÍRSÁG
 
 42. § (1) Az e törvény szerinti állami feladatok ellátásának, valamint az önkormányzati feladatok támogatásának állami pénzügyi forrásai:
 
