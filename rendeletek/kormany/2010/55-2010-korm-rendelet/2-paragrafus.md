@@ -1,6 +1,6 @@
 ## 2. § E rendelet alkalmazásában:
 
-1. befogadó állam: a Magyar Köztársaság, amely befogadja a NATO- vezetésű művelet során a NATO, illetve a küldő állam fegyveres erőit, szervezeteit, részükre polgári és katonai támogatást biztosít, lehetővé teszi a területén való áthaladásukat vagy működésüket,
+1.[^7] befogadó állam: Magyarország, amely befogadja a NATO- vezetésű művelet során a NATO, illetve a küldő állam fegyveres erőit, szervezeteit, részükre polgári és katonai támogatást biztosít, lehetővé teszi a területén való áthaladásukat vagy működésüket,
 
 2. befogadó nemzeti támogatást igénylő levél: a NATO műveleti parancsnokság által elkészített és a befogadó államnak címzett dokumentum, amelyben a NATO megigényli a befogadó nemzeti támogatást, és kezdeményezi annak teljesítéséhez szükséges feltételek kialakítását,
 
@@ -31,3 +31,5 @@
 15. technikai megállapodás: az egyetértési nyilatkozat alapján aláírásra kerülő, a befogadó állam és a NATO műveleti parancsnok által aláírt, egy meghatározott műveletre, feladat végrehajtására vonatkozó dokumentum, amely tartalmazza a befogadó nemzeti támogatás részletes rendjét, a lebonyolítás felelőseit, fő elveit, valamint a részletes pénzügyi és jogi szabályokat,
 
 16. záró tervező konferencia: a NATO műveleti tervezési rendszerében megszervezésre kerülő tervezési konferencia, amelynek alapján végrehajtásra kerül a logisztikai szemrevételezés, és amelynek eredményeképpen a küldő államok szerinti bontásban összeállításra kerülnek a részletes szükségleti jegyzékek.
+
+[^7]: A 2. § 1. pontja a 290/2011. (XII. 22.) Korm. rendelet 87. § (3) bekezdése szerint módosított szöveg.

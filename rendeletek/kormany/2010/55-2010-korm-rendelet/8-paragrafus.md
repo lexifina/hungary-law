@@ -1,4 +1,4 @@
-## 8. § A Kormány tagja, a Hvt. 43. § (1) bekezdésében meghatározott, a honvédelmi felkészülés egyes feladatainak ellátásában részt vevő szerv vezetője a befogadó nemzeti támogatás hatáskörébe tartozó feladatainak tervezése és végrehajtása érdekében
+## 8. §[^8] A Kormány tagja, a Hvt. 18. §-a szerint, a honvédelemben közreműködő szerv vezetője a befogadó nemzeti támogatás hatáskörébe tartozó feladatainak tervezése és végrehajtása érdekében
 
 a) meghatározza a befogadó nemzeti támogatás ágazati feladatait,
 
@@ -9,3 +9,5 @@ c) összeállítja a befogadó nemzeti támogatás ágazati feladatainak végreh
 d) együttműködik a honvédelemért felelős miniszterrel a 7. § b) és c) pontjában meghatározott nemzetközi szerződések, illetve megállapodások előkészítésében,
 
 e) együttműködik a honvédelemért felelős miniszterrel az Országgyűlés, illetve a Kormány befogadó nemzeti támogatással kapcsolatos döntéseinek végrehajtásában.
+
+[^8]: A 8. § a 290/2011. (XII. 22.) Korm. rendelet 87. § (4) bekezdése szerint módosított szöveg.
