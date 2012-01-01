@@ -98,17 +98,17 @@ f) segédletek (így például korábbi védekezések zárójelentései, felülv
 
 g) a szakasz védekezési naplója.
 
-(7)[^1] A szakaszvédelmi terveken túlmenően a környezetvédelmi és vízügyi igazgatóságoknak (a továbbiakban: KÖVIZIG) működési területükre általános belvízvédekezési terveket is kell készíteniük. A terv tartalma:
+(7)[^2] A szakaszvédelmi terveken túlmenően a vízügyi igazgatóságoknak (a továbbiakban: VIZIG) működési területükre általános belvízvédekezési terveket is kell készíteniük. A terv tartalma:
 
-a) a KÖVIZIG[^2] síkvidéki területének leírása, amely magában foglalja a területi egységek lehatárolását, az éghajlati adottságokat, a közigazgatási tagozódást, a természetvédelmi területeket, a szomszédos államokkal vagy más KÖVIZIG-ekkel összefüggő belvízi művek jellemzőit, az azokkal kapcsolatos megállapodásokat, a vízügyi igazgatóság vagyonkezelésében lévő belvízvédekezési létesítmények és eszközök (csatornahálózat, belvízátemelés, belvíztározás, vízátvezetési lehetőségek) jellemzőit, a vízitársulatok, önkormányzatok, üzemek tulajdonában, illetőleg egyéb jogcímen használatában lévő belvízvédekezési létesítmények és eszközök átfogó leírását;
+a)[^3] a VIZIG síkvidéki területének leírása, amely magában foglalja a területi egységek lehatárolását, az éghajlati adottságokat, a közigazgatási tagozódást, a természetvédelmi területeket, a szomszédos államokkal vagy más VIZIG-ekkel összefüggő belvízi művek jellemzőit, az azokkal kapcsolatos megállapodásokat, a vízügyi igazgatóság vagyonkezelésében lévő belvízvédekezési létesítmények és eszközök (csatornahálózat, belvízátemelés, belvíztározás, vízátvezetési lehetőségek) jellemzőit, a vízitársulatok, önkormányzatok, üzemek tulajdonában, illetőleg egyéb jogcímen használatában lévő belvízvédekezési létesítmények és eszközök átfogó leírását;
 
 b) a belvízvédekezés személyi (átlagos létszámszükséglet) és tárgyi feltételei;
 
-c) a helyszínrajz, amely feltünteti a KÖVIZIG-ek, a szakaszmérnökségek, továbbá a belvízrendszerek, belvízvédelmi szakaszok határát, a településeket, a fő- és mellékcsatornákat, a főművi szivattyútelepeket, a belvíztározókat, a vízvisszatartásra igénybe vehető területeket, valamint az egyezményekben rögzített vízátadási, vízátvételi helyeket.
+c)[^4] a helyszínrajz, amely feltünteti a VIZIG-ek, a szakaszmérnökségek, továbbá a belvízrendszerek, belvízvédelmi szakaszok határát, a településeket, a fő- és mellékcsatornákat, a főművi szivattyútelepeket, a belvíztározókat, a vízvisszatartásra igénybe vehető területeket, valamint az egyezményekben rögzített vízátadási, vízátvételi helyeket.
 
 (8) A védekezési tervek mellékletét képezi a védekezésre kötelezett szervezetek részéről a védekezésben résztvevők név-, cím- és beosztási jegyzéke.
 
-(9) A KÖVIZIG-ek és a vízgazdálkodási társulatok évenként védekezési szervezeti beosztást készítenek. A szervezeti beosztás tartalma:
+(9)[^5] A VIZIG-ek és a vízgazdálkodási társulatok évenként védekezési szervezeti beosztást készítenek. A szervezeti beosztás tartalma:
 
 a) a védekezéshez igénybe vehető személyek nevének, munkahelyük címének, telefonszámának, munkahelyi beosztásának, lakásuk címének, telefonszámának, továbbá védekezési beosztásuknak, szolgálati helyüknek és telefon-(fax-)számának,
 
@@ -120,8 +120,10 @@ meghatározása.
 
 (10) A védekezési szervezetek személyi beosztásaiban bekövetkezett változásokat folyamatosan át kell vezetni.
 
-(11)[^3] A védekezési tervek elkészítésére, továbbá módosítására kizárólag a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló kormányrendelet alapján árvízmentesítés, árvízvédelem, folyó- és tószabályozás, sík- és dombvidéki vízrendezés, belvízvédelem, öntözés részterületen szakértői jogosultsággal rendelkező személy vehető igénybe.
+(11)[^6] A védekezési tervek elkészítésére, továbbá módosítására kizárólag a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló kormányrendelet alapján árvízmentesítés, árvízvédelem, folyó- és tószabályozás, sík- és dombvidéki vízrendezés, belvízvédelem, öntözés részterületen szakértői jogosultsággal rendelkező személy vehető igénybe.
 
-[^1]: A 3. § (7) bekezdésének bevezető mondata az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdésének a) pontja alapján a rendelkezést hatósági ügyekben a már megindult eljárásokra is alkalmazni kell.
-[^2]: Az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (4) bekezdése alapján ahol e rendelet VIZIG-et említ azon a KÖVIZIG-et kell érteni.
-[^3]: A 3. § (11) bekezdését a 80/2011. (VIII. 3.) VM rendelet 2. §-a iktatta be.
+[^2]: A 3. § (7) bekezdésének bevezető mondata az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (1) bekezdésével megállapított szöveg, a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 3. § (7) bekezdés a) pontja a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés b) és c) pontja szerint módosított szöveg.
+[^4]: A 3. § (7) bekezdés c) pontja a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^5]: A 3. § (9) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^6]: A 3. § (11) bekezdését a 80/2011. (VIII. 3.) VM rendelet 2. §-a iktatta be.

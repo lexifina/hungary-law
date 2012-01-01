@@ -1,8 +1,8 @@
-1. számú melléklet a 10/1997. (VII. 17.) KHVM rendelethez[^11]
+1. számú melléklet a 10/1997. (VII. 17.) KHVM rendelethez[^30]
 
 | I. AZ ÁLLAMI TULAJDONÚ ÁRVÍZVÉDELMI VONALAK VÉDELMI SZAKASZAI |
 
-| ÉSZAK-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG |
+| ÉSZAK-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG |
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -110,7 +110,7 @@
 
 |  | 120,773 |  |  |  |  | Ragyogóhíd | 73,40 | 141,33 | 450 | 1900.IV.9. | 150 | 250 | 300 |  |
 
-KÖZÉP-DUNA-VÖLGYI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+KÖZÉP-DUNA-VÖLGYI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -242,7 +242,7 @@ KÖZÉP-DUNA-VÖLGYI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 | tározó | 6,016 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-ALSÓ-DUNA-VÖLGYI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+ALSÓ-DUNA-VÖLGYI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -270,7 +270,7 @@ ALSÓ-DUNA-VÖLGYI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 |  |  |  |  |  |  |  |  |  | (1006) | 1876. II. 27. |  |  |  |  |
 
-KÖZÉP-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+KÖZÉP-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -338,7 +338,7 @@ KÖZÉP-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 |  |  |  |  |  |  |  |  |  | (459) | 1964. I. 1. |  |  |  |  |
 
-DÉL-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+DÉL-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -368,7 +368,7 @@ DÉL-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 | Drávasztárai | 42,386 | Dráva bp. | 31,709 | 74,095 | 42,386 | Szentborbás | 133,10 | 94,74 | 634 | 1972. VI. 20 | 460 | 530 | 560 | Magaspart: 0,835 km |
 
-NYUGAT-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+NYUGAT-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -436,7 +436,7 @@ NYUGAT-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 |  |  | Köszvényes p. bp. | 0,000 | 0,725 | 0,725 |  |  |  |  |  |  |  |  |  |
 
-FELSŐ-TISZA VIDÉKI KÖRNYZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+FELSŐ-TISZA VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -640,7 +640,7 @@ FELSŐ-TISZA VIDÉKI KÖRNYZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 | tiszakóródi |  | Túr jp. | 0,000 | 28,022 | 28,022 |  |  |  |  |  |  |  |  |  |
 
-ÉSZAK-MAGYARORSZÁGI KÖRNYZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+ÉSZAK-MAGYARORSZÁGI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -862,7 +862,7 @@ FELSŐ-TISZA VIDÉKI KÖRNYZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 |  | 320,706 | Ronyva bp. | 0,000 | 1,811 | 1,811 |  |  |  |  |  |  |  |  |  |
 
-TISZÁNTÚLI KÖRNYZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+TISZÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -948,7 +948,7 @@ TISZÁNTÚLI KÖRNYZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 |  |  | Kösely bp. | 67,119 | 76,930 | 9,811 |  |  |  |  |  |  |  |  |  |
 
-KÖZÉP-TISZA VIDÉKI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+KÖZÉP-TISZA VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -1040,7 +1040,7 @@ KÖZÉP-TISZA VIDÉKI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 |  |  | Tápió bp. | 0,000 | 10,912 | 10,912 |  |  |  |  |  |  |  |  | 24+700 = 25+000 |
 
-ALSÓ-TISZA VIDÉKI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+ALSÓ-TISZA VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
 | A védelmi szakasz | A folyó, a vízfolyás, a csatorna neve és védvonala | A fővédvonal | A védekezési készültség elrendelésére és megszüntetésére mértékadó | Megjegyzés |
 
@@ -1100,6 +1100,6 @@ ALSÓ-TISZA VIDÉKI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
 
 |  |  |  |  |  |  | Csongrád | 246,20 | 76,18 | 1034 | 2006. IV.21. | 650 | 750 | 800 |  |
 
-KÖRÖS-VIDÉKI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+KÖRÖS-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
-[^11]: Az 1. számú melléklet a 100/2007. (XII. 23.) KvVM rendelet 1. §-ával megállapított szöveg.
+[^30]: Az 1. számú melléklet a 100/2007. (XII. 23.) KvVM rendelet 1. §-ával megállapított, a 147/2011. (XII. 23.) VM rendelet 17. § c) pontja szerint módosított szöveg.
