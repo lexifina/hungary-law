@@ -18,7 +18,7 @@ b) a Kincstár a benyújtott számlák és a támogatásigénylések adatait a b
 
 c) a Kincstár a minisztérium utalványozása alapján teljesíti a támogatás Támogatott számlájára történő utalását,
 
-d)[^3] a támogatás lehívására a miniszteri döntést követő 12 hónapon belül – elszámolási határidő-módosítás esetén legfeljebb 24 hónapon belül – benyújtott számlák esetében van lehetőség.
+d)[^4] a támogatás lehívására a miniszteri döntést követő 12 hónapon belül – elszámolási határidő-módosítás esetén legfeljebb 24 hónapon belül – benyújtott számlák esetében van lehetőség.
 
 (5) A 3. § (10) bekezdése szerinti esetben a támogatás felhasználásának végső határidejét a Kormány határozza meg.
 
@@ -26,4 +26,4 @@ d)[^3] a támogatás lehívására a miniszteri döntést követő 12 hónapon b
 
 (7) A támogatásról hozott miniszteri döntés ellen fellebbezés benyújtására nincs lehetőség.
 
-[^3]: A 7. § (4) bekezdés d) pontja a 210/2011. (X. 12.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^4]: A 7. § (4) bekezdés d) pontja a 210/2011. (X. 12.) Korm. rendelet 6. §-a szerint módosított szöveg.

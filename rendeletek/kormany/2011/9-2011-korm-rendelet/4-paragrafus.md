@@ -82,7 +82,7 @@ n) az önkormányzat nyilatkozata, amelyben feltételesen előzetesen felhatalma
 
 (5) A védekezési költségek elszámolásával kapcsolatos kérelmek esetén – kizárólag a védekezési költségek vonatkozásában – a (3) bekezdés b) pontjában, c) pont ca)–ce) alpontjaiban, valamint d) és h) pontjában megjelölt dokumentumok csatolása nem kötelező.
 
-(6)[^1] Az önkormányzati kötelező feladatok ellátását szolgáló, nem önkormányzati tulajdonban lévő temető – amelyben az önkormányzat a temető tulajdonosával kötött megállapodás alapján a köztemető fenntartására vonatkozó kötelezettségét teljesíti – helyreállítási költségeinek elszámolásával kapcsolatos kérelmek esetén a (3) bekezdés h) pontjában megjelölt dokumentum csatolása nem kötelező. A köztemető fenntartására vonatkozó kötelezettség teljesítésének igazolása céljából az önkormányzat támogatási kérelemhez mellékelni kell
+(6)[^2] Az önkormányzati kötelező feladatok ellátását szolgáló, nem önkormányzati tulajdonban lévő temető – amelyben az önkormányzat a temető tulajdonosával kötött megállapodás alapján a köztemető fenntartására vonatkozó kötelezettségét teljesíti – helyreállítási költségeinek elszámolásával kapcsolatos kérelmek esetén a (3) bekezdés h) pontjában megjelölt dokumentum csatolása nem kötelező. A köztemető fenntartására vonatkozó kötelezettség teljesítésének igazolása céljából az önkormányzat támogatási kérelemhez mellékelni kell
 
 a) a nyilatkozatot, mely szerint az önkormányzat saját tulajdonú temetővel vagy temető résszel nem rendelkezik, továbbá nem tart fenn a támogatási kérelemben szereplő temetőn kívül egyéb köztemetőt társulás vagy együttműködés útján más önkormányzattal közösen,
 
@@ -90,4 +90,4 @@ b) a temető tulajdonosával kötött megállapodást, melyben az önkormányzat
 
 c) a temető használatának rendjéről szóló önkormányzati rendelet másolatát.
 
-[^1]: A 4. § (6) bekezdését a 210/2011. (X. 12.) Korm. rendelet 4. §-a iktatta be.
+[^2]: A 4. § (6) bekezdését a 210/2011. (X. 12.) Korm. rendelet 4. §-a iktatta be.

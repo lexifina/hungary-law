@@ -26,7 +26,7 @@
 
 | ...................................... | ...................................... |
 
-| Katasztrófavédelmi Igazgatóság részéről: |  | Megyei Környezetvédelmi és Vízügyi Igazgatóság részéről: |  |
+| Katasztrófavédelmi Igazgatóság részéről: |  | Vízügyi Igazgatóság részéről: |  |
 
 | Beosztás: |  | Beosztás: |  |
 
