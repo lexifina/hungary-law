@@ -1,1 +1,0 @@
-## Az Alapprogram Miniszteri Titkársága
