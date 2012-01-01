@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény 100. § (1) bekezdésének b) és d) pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 75. § (3) bekezdés a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

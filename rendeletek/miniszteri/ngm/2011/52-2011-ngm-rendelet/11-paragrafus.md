@@ -1,0 +1,1 @@
+## 10. § Hatályát veszti az R3. 4. számú mellékletében a „gyermeke”, „szülője”, „háztartásban eltartott szülő nélküli unokája”, „egyéb unokája”, „nagyszülője” szövegrészek, a 7. számú melléklet 2. pont 2.6. és 2.9. alpontja.
