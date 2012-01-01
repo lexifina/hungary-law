@@ -1,12 +1,12 @@
 ## A központi szerv és feladatai
 
-7. § (1) A kulturális javak visszaszolgáltatásával kapcsolatos állami feladatokat – a Magyar Köztársaság központi szerveként – a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) látja el.
+7. § (1) A kulturális javak visszaszolgáltatásával kapcsolatos állami feladatokat – Magyarország központi szerveként – a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) látja el.
 
 (2) Az (1) bekezdésben meghatározott jogkörében eljárva a hatóság a Magyar Állam képviseletében fellép a jogellenesen kivitt kulturális javak visszaszolgáltatása érdekében, együttműködik más tagállamok központi szerveivel, és előmozdítja a velük történő egyeztetést, így különösen
 
 a) a kérelmező állam – a kutatás elősegítéséhez szükséges valamennyi információt, így különösen a tárgy tényleges vagy vélhető feltalálási helyét tartalmazó – kérelme alapján felkutatja a jogellenesen kivitt kulturális javakat és azonosítja annak birtokosát,
 
-b) értesíti az érintett tagállamokat, ha alapos a gyanú, hogy olyan kulturális javak találhatóak a Magyar Köztársaság területén, amelyeket jogellenesen juttattak ki másik tagállam területéről,
+b) értesíti az érintett tagállamokat, ha alapos a gyanú, hogy olyan kulturális javak találhatóak Magyarország területén, amelyeket jogellenesen juttattak ki másik tagállam területéről,
 
 c) a b) pontban való értesítéstől számított két hónapon belül lehetővé teszi a kérelmező állam központi szerve számára annak ellenőrzését, hogy a kérdéses tárgyak kulturális javaknak minősülnek-e,
 

@@ -1,8 +1,8 @@
 ## Eljárási szabályok
 
-6. § (1) A kérelmező állam a területéről jogellenesen kivitt kulturális javak visszaszolgáltatását igényelheti, ha az adott tárgy a Magyar Köztársaság területén van. E joga érvényesítése iránti keresetet a tárgyat ténylegesen birtokában tartó személy ellen kell megindítani, tekintet nélkül arra, hogy az adott személy azt a saját nevében vagy harmadik személy nevében tartja magánál.
+6. § (1) A kérelmező állam a területéről jogellenesen kivitt kulturális javak visszaszolgáltatását igényelheti, ha az adott tárgy Magyarország területén van. E joga érvényesítése iránti keresetet a tárgyat ténylegesen birtokában tartó személy ellen kell megindítani, tekintet nélkül arra, hogy az adott személy azt a saját nevében vagy harmadik személy nevében tartja magánál.
 
-(2) A bírósági eljárás lefolytatása a Fővárosi Bíróság hatáskörébe és kizárólagos illetékességébe tartozik.
+(2) A bírósági eljárás lefolytatása a Fővárosi Törvényszék hatáskörébe és kizárólagos illetékességébe tartozik.
 
 (3) A kérelmező állam nevében a perindításra a tagállamok által a tagállamok területéről jogellenesen kivitt kulturális tárgyak visszaszolgáltatásáról szóló 93/7/EGK tanácsi irányelv 3. Cikke alapján kijelölt, és az Európai Bizottság által az Európai Unió Hivatalos Lapjában közzétett listán szereplő központi szerv jogosult.
 
