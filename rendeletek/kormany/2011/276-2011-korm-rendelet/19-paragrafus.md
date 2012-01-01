@@ -1,0 +1,1 @@
+## 18. § A terrorizmust elhárító szerv kijelöléséről és feladatai ellátásának részletes szabályairól szóló 295/2010. (XII. 22.) Korm. rendelet 3. § (1) bekezdés a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, a 3. § (1) bekezdés d) pontjának db) alpontjában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

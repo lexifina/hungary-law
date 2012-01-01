@@ -1,0 +1,9 @@
+# 276/2011. (XII. 20.) Korm. rendelet
+
+az Alaptörvény hatálybalépésével összefüggően hazánk elnevezésének Magyar Köztársaságról Magyarországra történő változásából eredő kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-276-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-01-01 | 2011-276-20-22.1 | 276/2011. (XII. 20.) Korm. rendelet |

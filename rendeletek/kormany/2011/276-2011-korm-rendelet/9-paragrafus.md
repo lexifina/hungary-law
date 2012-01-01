@@ -1,0 +1,1 @@
+## 8. § A közbiztonságra különösen veszélyes eszközökről szóló 175/2003. (X. 28.) Korm. rendelet 3. § (2) bekezdés a) pontjában, valamint 4. § (4) bekezdésében a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
