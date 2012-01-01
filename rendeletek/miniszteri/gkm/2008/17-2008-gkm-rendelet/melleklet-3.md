@@ -22,7 +22,7 @@
 
 |  | Engedélyes neve / Last (middle) and first name of holder: |
 
-| Magyar Köztársaság Republic of Hungary | Születési dátuma és helye / Date and place of birth: |
+| Magyarország Republic of Hungary | Születési dátuma és helye / Date and place of birth: |
 
 |  | Állampolgársága / Nationality: |
 
@@ -72,7 +72,7 @@
 
 |  | Engedélyes neve / Last (middle) and first name of holder: |
 
-| Magyar Köztársaság Republic of Hungary | Születési dátuma és helye / Date and place of birth: |
+| Magyarország Republic of Hungary | Születési dátuma és helye / Date and place of birth: |
 
 |  | Állampolgársága / Nationality: |
 
@@ -130,7 +130,7 @@
 
 |  | Engedélyes neve / Last (middle) and first name of holder: |
 
-| Magyar Köztársaság Republic of Hungary | Születési dátuma és helye / Date and place of birth: |
+| Magyarország Republic of Hungary | Születési dátuma és helye / Date and place of birth: |
 
 |  | Állampolgársága / Nationality: |
 
@@ -186,7 +186,7 @@
 
 |  | Engedélyes neve / Last (middle) and first name of holder: |
 
-| Magyar Köztársaság Republic of Hungary | Születési dátuma és helye / Date and place of birth: |
+| Magyarország Republic of Hungary | Születési dátuma és helye / Date and place of birth: |
 
 |  | Állampolgársága / Nationality: |
 

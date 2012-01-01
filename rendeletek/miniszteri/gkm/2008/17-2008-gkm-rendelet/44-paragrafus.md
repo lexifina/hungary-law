@@ -24,7 +24,7 @@ e) a képzési szervezet szervezeti felépítése, és
 
 f) a képzésre és a képzési szervezetekre vonatkozó követelményeknek való megfelelés bemutatása.
 
-(4) Képzési engedély iránti kérelmet az a jogi személy nyújthat be a légiközlekedési hatósághoz, amelynek székhelye, bejegyzett irodája a Magyar Köztársaságban van, vagy a szakszemélyzet képzését elsődlegesen Magyarországon kívánja nyújtani.
+(4)[^2] Képzési engedély iránti kérelmet az a jogi személy nyújthat be a légiközlekedési hatósághoz, amelynek székhelye, bejegyzett irodája Magyarországon van, vagy a szakszemélyzet képzését elsődlegesen Magyarországon kívánja nyújtani.
 
 (5) Képzési engedélyt – a (6) bekezdésben foglalt eltéréssel – az a jogi személy kaphat, amely teljesíti a képzésre és a képzési szervezetekre vonatkozó feltételeket.
 
@@ -37,3 +37,5 @@ a) a kérelmező adatait (név és székhely),
 b) az engedélyezett képzéstípusokat, és
 
 c) a nyilatkozatot arról, hogy a kérelmező megfelel az e rendeletben meghatározott követelményeknek.
+
+[^2]: A 44. § (4) bekezdése a 91/2011. (XII. 30.) NFM rendelet 60. § a) pontja szerint módosított szöveg.

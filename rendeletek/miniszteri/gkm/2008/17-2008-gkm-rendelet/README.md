@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-17-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2008-17-20-0L.5 | 17/2008. (IV. 30.) GKM rendelet |
+| 2012-01-01 | 2008-17-20-0L.6 | 91/2011. (XII. 30.) NFM rendelet |

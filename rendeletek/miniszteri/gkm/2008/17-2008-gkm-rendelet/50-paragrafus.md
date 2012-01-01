@@ -8,6 +8,8 @@
 
 (3) A légiközlekedési hatóság a (2) bekezdésben meghatározott munkahelyi képzési tervet legkésőbb a munkahelyi képzési terv kidolgozásának alapjául szolgáló dokumentumok benyújtását követő hat héten belül hagyja jóvá.
 
-(4) Az EGT-állam nemzeti felügyeleti hatósága által kiadott légiforgalmi irányító szakszolgálati engedéllyel rendelkező személy, ha a Magyar Köztársaság területén lát el légiforgalmi irányító szolgálati tevékenységet, díjmentesen jogosult szakszolgálati engedélyét magyar szakszolgálati engedélyre cserélni.
+(4)[^7] Az EGT-állam nemzeti felügyeleti hatósága által kiadott légiforgalmi irányító szakszolgálati engedéllyel rendelkező személy, ha Magyarország területén lát el légiforgalmi irányító szolgálati tevékenységet, díjmentesen jogosult szakszolgálati engedélyét magyar szakszolgálati engedélyre cserélni.
 
 (5) A légiközlekedési hatóság a légiforgalmi irányítók szakszolgálati engedélyével összefüggő kérdésekben megfelelő tájékoztatást és kölcsönös segítséget nyújt az EGT-állam nemzeti felügyeleti hatóságai számára.
+
+[^7]: Az 50. § (4) bekezdése a 91/2011. (XII. 30.) NFM rendelet 60. § b) pontja szerint módosított szöveg.

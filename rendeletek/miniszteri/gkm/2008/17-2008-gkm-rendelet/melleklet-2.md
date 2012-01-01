@@ -492,4 +492,6 @@
 
 ## 8.2. A képzésben részt vevő személynek megfelelőn képzettnek kell lennie, valamint az elméleti és gyakorlati oktatásban történő jártasságát megfelelő rendszerességgel fel kell mérni.
 
-2. melléklet a 17/2008. (IV. 30.) GKM rendelethez
+2. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^12]
+
+[^12]: A 2. melléklet a 91/2011. (XII. 30.) NFM rendelet 60. § c) pontja szerint módosított szöveg.
