@@ -24,4 +24,4 @@ d) az MFB Zrt. által saját kockázatára nyújtott azon hitelek és kölcsön�
 
 (4) Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonását az államháztartásért felelős miniszterrel és a tulajdonosi jogokat gyakorló miniszterrel egyeztetve végzi.
 
-(5) Az (1) bekezdésben szereplő kezességek beváltására, nyilvántartására és a hozzájuk kapcsolódó adatszolgáltatási kötelezettségre az államháztartásról szóló 1992. évi XXXVIII. törvényt, illetve annak felhatalmazása alapján kiadott jogszabályokat kell alkalmazni.
+(5) Az (1) bekezdésben szereplő kezességek beváltására, nyilvántartására és a hozzájuk kapcsolódó adatszolgáltatási kötelezettségre az államháztartásról szóló 2011. évi CXCV. törvényt, illetve annak felhatalmazása alapján kiadott jogszabályokat kell alkalmazni.

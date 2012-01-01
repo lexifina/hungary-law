@@ -2,4 +2,4 @@
 
 (2) A vezérigazgató felett a munkáltatói jogokat – a kinevezés és felmentés jogával együtt – a tulajdonosi jogok gyakorlója gyakorolja. A vezérigazgató az igazgatóság tagja és elnöke, aki jogosult az elnök-vezérigazgató cím használatára.
 
-(3) Amennyiben az igazgatóság tagja, vagy a vezérigazgató a megválasztása, illetve munkaviszonya létesítését megelőző 6 hónapon belül a Magyar Nemzeti Bank felügyelő bizottságának tagja volt, úgy rá a Magyar Nemzeti Bankról szóló 2001. évi LVIII.törvény 58/B. §-ban hivatkozott 58. § (7) bekezdésében foglaltakat nem kell alkalmazni.
+(3) Amennyiben az igazgatóság tagja, vagy a vezérigazgató a megválasztása, illetve munkaviszonya létesítését megelőző 6 hónapon belül a Magyar Nemzeti Bank felügyelőbizottságának tagja volt, úgy rá a Magyar Nemzeti Bankról szóló törvény 55. § (8) bekezdésében hivatkozott 55. § (7) bekezdésében foglaltakat nem kell alkalmazni.

@@ -22,4 +22,4 @@ Magyar Követeléskezelő Zrt.
 
 MFB Invest Befektetési és Vagyonkezelő Zrt.
 
-KIKSZ Közlekedésfejlesztési Zrt.
+VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft.
