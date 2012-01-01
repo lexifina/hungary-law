@@ -12,8 +12,10 @@ a) a rendőrség állományába tartozók esetében az Országos Rendőr-főkapi
 
 b) a büntetés-végrehajtási szervezet esetében a Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP),
 
-c) a polgári védelem, valamint az állami és hivatásos önkormányzati tűzoltóságok esetében az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF)
+c)[^3] a hivatásos katasztrófavédelmi szerv esetében a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF)
 
 személyügyi szerve a felelős.
 
 (6) A kiegészítő igazolvány elkészítésével kapcsolatos feladatokat a Belügyminisztérium, a kiegészítő igazolványokkal kapcsolatos egyéb feladatokat az NVSZ személyügyi szerve látja el.
+
+[^3]: A 3. § (5) bekezdés c) pontja a 71/2011. (XII. 31.) BM rendelet 59. § (3) bekezdés b) pontja szerint módosított szöveg.

@@ -58,4 +58,6 @@
 
 ## az intézeti hivatásos igazolvány esetén kék.
 
-3. melléklet a 35/2011. (X. 17.) BM rendelethez
+3. melléklet a 35/2011. (X. 17.) BM rendelethez[^6]
+
+[^6]: A 3. melléklet a 71/2011. (XII. 31.) BM rendelet 59. § (5) bekezdésével megállapított szöveg.
