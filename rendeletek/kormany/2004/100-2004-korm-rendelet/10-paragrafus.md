@@ -1,8 +1,8 @@
-## 10. §[^21] A rendészetért felelős miniszter
+## 10. §[^22] A rendészetért felelős miniszter
 
-a)[^22]
+a)[^23]
 
 b) az ágazati miniszterrel és az érintett miniszterekkel együttesen részt vesz az elektronikus hírközlés védelmi felkészítésére vonatkozó követelmények kidolgozásában, illetve együttműködési feladatok megoldásában.
 
-[^21]: A 10. § nyitó szövegrésze a 346/2010. (XII. 28.) Korm. rendelet 35. § (13) bekezdésével megállapított szöveg.
-[^22]: A 10. § a) pontját a 346/2010. (XII. 28.) Korm. rendelet 40. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^22]: A 10. § nyitó szövegrésze a 346/2010. (XII. 28.) Korm. rendelet 35. § (13) bekezdésével megállapított szöveg.
+[^23]: A 10. § a) pontját a 346/2010. (XII. 28.) Korm. rendelet 40. § (1) bekezdés b) pontja hatályon kívül helyezte.

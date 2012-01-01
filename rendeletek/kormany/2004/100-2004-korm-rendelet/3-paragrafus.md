@@ -10,6 +10,7 @@ c) biztosítsák az elektronikus hírközlési szolgáltatások folyamatosságá
 
 d) felkészültek legyenek az elektronikus hírközlés működését súlyosan befolyásoló természeti vagy emberi tevékenység következtében fellépő események kezelésére;
 
-e) alkalmasak legyenek a Magyar Köztársaság NATO tagságából és a távközlési erőforrások biztosításáról katasztrófa- elhárítás és mentés céljára tárgyú Tamperei Egyezményből adódó nemzetközi kötelezettségek ellátására.
+e)[^6] alkalmasak legyenek Magyarország NATO tagságából és a távközlési erőforrások biztosításáról katasztrófa- elhárítás és mentés céljára tárgyú Tamperei Egyezményből adódó nemzetközi kötelezettségek ellátására.
 
 [^5]: A 3. § b) pontja a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának k) pontja szerint módosított szöveg.
+[^6]: A 3. § e) pontja a 304/2011. (XII. 23.) Korm. rendelet 14. §-a szerint módosított szöveg.

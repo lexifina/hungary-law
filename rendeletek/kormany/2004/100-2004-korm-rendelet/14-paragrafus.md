@@ -22,7 +22,7 @@ ba) a nemzetközi és nemzeti gerinchálózati irányító és üzemviteli funkc
 
 bb) a szolgáltató saját hálózatában a hálózatirányítás változatlan módon, önmaga átállítása nélkül működőképes legyen;
 
-bc)[^28] a szolgáltató hálózatirányítása legyen alkalmas az elektronikus hírközlés átállításából rá háruló feladatok megoldására, együttműködve más szolgáltatókkal, az elkülönült hírközlési tevékenység végzésére jogosultak, valamint az Országos Informatikai és Hírközlési Főügyelettel;
+bc)[^29] a szolgáltató hálózatirányítása legyen alkalmas az elektronikus hírközlés átállításából rá háruló feladatok megoldására, együttműködve más szolgáltatókkal, az elkülönült hírközlési tevékenység végzésére jogosultak, valamint az Országos Informatikai és Hírközlési Főügyelettel;
 
 bd) a szolgáltató hálózatirányítása képes legyen szükség esetén a nemzetközi hálózatirányítási rendszerektől függetleníthető működésre.
 
@@ -32,7 +32,7 @@ ca) alkalmasak az ország területén, vagy nemzetközi szövetségi rendszereke
 
 cb) eszközkészlete mobil vagy mobilizálható berendezésekből áll, amelyeket – a védelmi felkészülés adott évben rendelkezésre álló forrásaira figyelemmel – részben a vállalati, részben az állami tartalékképzés keretében kell beszerezni, tárolni és kezelni.
 
-d)[^29] A központi hatósági nyilvántartási, adatszolgáltatási és információs rendszert az NMHH-nak úgy kell kialakítania, hogy
+d)[^30] A központi hatósági nyilvántartási, adatszolgáltatási és információs rendszert az NMHH-nak úgy kell kialakítania, hogy
 
 da) lehetővé tegye a hálózatokra, rendszerekre vonatkozó legfontosabb adatok változásának követését;
 
@@ -54,5 +54,5 @@ g) A műsorszórás terén olyan rendszert kell kialakítani, amely külön jogs
 
 h) Az elektronikus hírközlési tevékenységnek az Eht. 5. §-ának (2) bekezdésében foglalt minősített időszaki átmeneti korlátozásának szervezési, műszaki feltételeit békeállapotban kell előkészíteni.
 
-[^28]: A 14. § b) pont bc) alpontja a 346/2010. (XII. 28.) Korm. rendelet 35. § (8) bekezdésével megállapított szöveg.
-[^29]: A 14. § d) pontja a 346/2010. (XII. 28.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.
+[^29]: A 14. § b) pont bc) alpontja a 346/2010. (XII. 28.) Korm. rendelet 35. § (8) bekezdésével megállapított szöveg.
+[^30]: A 14. § d) pontja a 346/2010. (XII. 28.) Korm. rendelet 35. § (12) bekezdése szerint módosított szöveg.
