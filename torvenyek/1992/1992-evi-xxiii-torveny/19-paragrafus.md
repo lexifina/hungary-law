@@ -18,7 +18,7 @@ f) tizenhat év: hathavi,
 
 g) húsz év: nyolchavi
 
-– a felmentési idő kezdetekor vagy a közigazgatási szerv jogutód nélküli megszűnésekor irányadó – illetményének megfelelő összeg. A végkielégítés mértéke négyhavi illetmény összegével emelkedik, ha a köztisztviselő közszolgálati jogviszonya az öregségi nyugdíjra [19/A. § (1) bek. a) pont] vagy a korkedvezményes öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a köztisztviselőt, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
+– a felmentési idő kezdetekor vagy a közigazgatási szerv jogutód nélküli megszűnésekor irányadó – illetményének megfelelő összeg. A végkielégítés mértéke négyhavi illetmény összegével emelkedik, ha a köztisztviselő közszolgálati jogviszonya az öregségi nyugdíjra [19/A. § (1) bek. a) pont] való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a köztisztviselőt, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
 
 (3) A végkielégítés mértékének meghatározásakor csak a közigazgatási szervnél közszolgálati jogviszonyban eltöltött időt lehet figyelembe venni.
 

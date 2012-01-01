@@ -10,7 +10,7 @@ d) a miniszter által alapított kitüntető cím, díj, plakett, oklevél, eml�
 
 e) kitüntetés.
 
-(2) Az (1) bekezdés c)–d) pontjai alkalmazása szempontjából a miniszteren saját hivatal tekintetében a köztársasági elnököt, az Országgyűlés elnökét, az Alkotmánybíróság elnökét, az országgyűlési biztost, a Magyar Tudományos Akadémia elnökét, a közgyűlés elnökét, a főpolgármestert, a polgármestert és a közigazgatási szerv vezetőjét is érteni kell.
+(2) Az (1) bekezdés c)–d) pontjai alkalmazása szempontjából a miniszteren saját hivatal tekintetében a köztársasági elnököt, az Országgyűlés elnökét, az Alkotmánybíróság elnökét, az alapvető jogok biztosát, a Magyar Tudományos Akadémia elnökét, a közgyűlés elnökét, a főpolgármestert, a polgármestert és a közigazgatási szerv vezetőjét is érteni kell.
 
 (3)
 

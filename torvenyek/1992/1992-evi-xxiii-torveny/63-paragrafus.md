@@ -16,7 +16,7 @@ g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közs
 
 h) az ügyészi törvényességi feladatkörében eljárva az ügyész,
 
-i) a személyes adatok kezelésével összefüggésben az adatvédelmi biztos,
+i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 
 j) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, e törvény 3. számú mellékletének I/A., I/B., II., IV., V., VII., VIII. és X. pontokban foglalt adatkörökből a köztisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából,
 

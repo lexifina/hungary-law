@@ -18,11 +18,11 @@ c) a köztisztviselő egészségügyi okból feladatai ellátására alkalmatlan
 
 d) a köztisztviselő vezetőjének bizalmát elveszti (17/E. §);
 
-e) a rokkantsági (baleseti rokkantsági) nyugdíjjogosultság (8) bekezdés szerinti feltételeivel rendelkező köztisztviselő azt kérelmezi;
+e)
 
-f) az előrehozott öregségi nyugdíjjogosultság életkori, valamint szolgálati idővel kapcsolatos feltételeivel a felmentési idő leteltekor rendelkező köztisztviselő a (9) bekezdés szerint kérelmezi;
+f)
 
-g) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételekkel a felmentési idő leteltekor rendelkező köztisztviselő kérelmezi.
+g) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő köztisztviselő kérelmezi.
 
 (3) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 
@@ -34,9 +34,9 @@ g) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törv�
 
 (7) A (2) bekezdés e) pontjában foglalt jogcímen a köztisztviselő kezdeményezésére csak egy alkalommal kötelező a felmentés.
 
-(8) Ha a köztisztviselő rokkantsági (baleseti rokkantsági) nyugdíj iránti igényét érvényesíti és ezen eljárás során a rokkantság (baleseti rokkantság) tényéről és a szükséges szolgálati idő megszerzéséről az illetékes nyugdíjbiztosítási igazgatási szerv értesíti, akkor az általa kezdeményezett ellátás igénybevétele érdekében a kormánytisztviselői jogviszonyát – kérelmére – a (2) bekezdés e) pontja alapján felmentéssel meg kell szüntetni.
+(8)
 
-(9) Az előrehozott öregségi nyugdíj megállapításához szükséges szolgálati időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
+(9)
 
 (10) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételek megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
 

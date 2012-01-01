@@ -1,6 +1,6 @@
 ## Összeférhetetlenség
 
-21. § (1) Köztisztviselő nem lehet – törvényben meghatározott egyéb megbízatásokon túl – helyi önkormányzati, kisebbségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó közigazgatási szerv illetékességi területén működik.
+21. § (1) Köztisztviselő nem lehet – törvényben meghatározott egyéb megbízatásokon túl – helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó közigazgatási szerv illetékességi területén működik.
 
 (2) A köztisztviselő munkavégzésre irányuló további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet. A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszonyt annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a köztisztviselő munkaköri feladataival közvetlenül összefügg.
 
