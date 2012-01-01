@@ -4,13 +4,15 @@ a) az egészségügyi szolgáltatók gyógyszerrendelésének értékelésére, 
 
 b) a gyógyszertárak működőképességének fenntartásához nyújtandó támogatás megállapításának feltételeit,
 
-c) a gyógyszer, illetve gyógyászati segédeszköz ismertetésével kapcsolatban kiszabott bírság pénzügyi teljesítésének feltételeire és felhasználására vonatkozó szabályokat
+c) a gyógyszer, illetve gyógyászati segédeszköz ismertetésével kapcsolatban kiszabott bírság pénzügyi teljesítésének feltételeire vonatkozó szabályokat,
 
 d) a 44/A. § szerinti juttatás feltételeire, mértékére, összegére, utalására vonatkozó szabályokat
 
 e) a kutatás-fejlesztési ráfordítások után igénybe vehető engedményekre vonatkozó eljárási szabályokat,
 
-f) a támogatásvolumen-szerződésekre vonatkozó részletes szabályokat
+f) a támogatásvolumen-szerződésekre vonatkozó részletes szabályokat,
+
+g) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógussal kapcsolatos bírság összegét és befizetésének szabályait
 
 rendeletben állapítsa meg.
 
@@ -48,7 +50,19 @@ o) az egyedi méretvétel alapján készített gyógyászati segédeszközök t�
 
 p) az egyszerűsített támogatási jegyzékre vonatkozó részletes szabályokat, valamint az egyszerűsített támogatási jegyzékben szereplő funkcionális csoportba tartozó, és a háromhavi terápiás limit alapú támogatásban részesülő gyógyászati segédeszközök igénybevételének részletes szabályait,
 
-q) a gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet által vezetendő, a gyógyszertárak gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet felé fennálló pénzügyi kötelezettségét tartalmazó nyilvántartás tartalmára és a tájékoztatásra vonatkozó részletes szabályokat.
+q) a gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet által vezetendő, a gyógyszertárak gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet felé fennálló pénzügyi kötelezettségét tartalmazó nyilvántartás tartalmára és a tájékoztatásra vonatkozó részletes szabályokat,
+
+r) a közvetlen lakossági gyógyszerellátás keretében végzett gyógyszer kiszolgáltatásához és beteg-együttműködéshez kapcsolódó szakmai eljárásrendeket,
+
+s) a 26. § (3a) bekezdés a) pontja szerinti betegszámra és napi terápiás költségre vonatkozó paramétereket,
+
+t) a 26. § (3a) bekezdés e) pontja szerinti kórképeket,
+
+u) az eredményesség alapú támogatásvolumen-szerződés kötésével érintett gyógyszerek körének felülvizsgálatára vonatkozó szempontokat,
+
+v) a preferált biológiai gyógyszerek rendelésének kötelező minimális arányát,
+
+w) a gyógyászati segédeszközök házhoz szállításának feltételeit és szabályait.
 
 (3) Felhatalmazást kap az élelmiszerlánc-felügyeletért felelős miniszter, hogy
 

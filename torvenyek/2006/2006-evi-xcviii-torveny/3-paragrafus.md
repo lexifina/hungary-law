@@ -10,7 +10,7 @@
 
 5. forgalomba hozatali engedély jogosultja: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet, amely részére az arra hatáskörrel és illetékességgel rendelkező hatóság a gyógyszer forgalomba hozatalát engedélyezte;
 
-6. gyógyászati segédeszköz: átmeneti vagy végleges egészségkárosodással, fogyatékossággal élő ember személyes használatába adott orvostechnikai eszköz (beleértve az önellenőrzési célt szolgáló in vitro diagnosztikai orvostechnikai eszközt is), vagy orvostechnikai eszköznek nem minősülő ápolási technikai eszköz, amely használata során nem igényli egészségügyi szakképesítéssel rendelkező személy folyamatos jelenlétét. Személyes használatnak minősül az eszköz természetes vagy mesterséges testfelszíni nyílással rendelkező testüregben, vagy testen történő viselése, alkalmazása, valamint a test megtámasztására, mozgatására szolgáló eszköz igénybevétele diagnosztikus, terápiás, rehabilitációs, vagy ápolási céllal.
+6. gyógyászati segédeszköz: átmeneti vagy végleges egészségkárosodással, fogyatékossággal élő ember személyes használatába adott orvostechnikai eszköz (beleértve az önellenőrzési célt szolgáló in vitro diagnosztikai orvostechnikai eszközt is), vagy orvostechnikai eszköznek nem minősülő ápolási technikai eszköz, amely használata során nem igényli egészségügyi szakképesítéssel rendelkező személy folyamatos jelenlétét. Személyes használatnak minősül az eszköz természetes vagy mesterséges testfelszíni nyílással rendelkező testüregben, vagy testen történő viselése, alkalmazása, ide értve az önellenőrzési célt szolgáló in vitro diagnosztikai orvostechnikai eszközök emberi szervezetből származó mintán történő alkalmazását is, valamint a test megtámasztására, mozgatására szolgáló eszköz igénybevétele diagnosztikus, terápiás, rehabilitációs, vagy ápolási céllal;
 
 7. gyógyszernek nem minősülő gyógyhatású készítmény: olyan anyag vagy anyagkeverék, amely nem gyógyszer, de amelyet az arra hatáskörrel és illetékességgel rendelkező hatóság nyilvántartásba vett, és gyógyszernek nem minősülő gyógyhatású anyagként forgalomba hozatalát engedélyezte;
 
@@ -48,7 +48,7 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 21. közvetlen lakossági gyógyszerellátás: azon tevékenységek összessége, amely során a gyógyszertár a gyógyszert beszerzi, készletezi, kiszolgáltatja és az alkalmazásával összefüggő szakmai információt közvetlenül vagy házhoz szállítás útján közvetetten, a lakosság részére biztosítja;
 
-22. házhoz szállítás: gyógyszer, gyógyászati segédeszköz megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás vagy gyógyászati segédeszközök kiskereskedelmi forgalmazása keretében a közvetlen lakossági gyógyszerellátásra jogosult vállalkozás jogszabály szerint arra jogosult szakdolgozója, illetve gyógyászati segédeszközök kiskereskedelmi forgalmazására jogosult vállalkozás alkalmazottja, a gyógyászati segédeszközök kiskereskedelmi forgalmazására jogosult vállalkozás megbízottja vagy a beteg kérésére a gyógyászati segédeszközök kiskereskedelmi forgalmazására jogosult vállalkozás szakdolgozója által;
+22. gyógyszer házhozszállítása: a gyógyszernek a megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás keretében;
 
 23. új gyógyszertár: az e törvény hatálybalépését megelőzően működési engedéllyel nem rendelkező gyógyszertár;
 
@@ -72,10 +72,20 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 33. gyógyászatisegédeszköz-szaküzlet: a lakosság közvetlen gyógyászati segédeszköz ellátását biztosító intézmény;
 
-34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság;
+34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság, ide nem értve azokat az egészségügyi szolgáltatónak nem minősülő, gyógyászati segédeszközt egyedi méretvétel alapján gyártókat, akik az eszköznek a biztosított részére történő kiszolgáltatását nem maguk végzik;
 
 35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 5%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
 
 36. lakos: a települési önkormányzat közigazgatási területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerint nyilvántartott lakcímmel rendelkező személy;
 
 37. árkedvezmény: bárki számára hozzáférhető, nyilvánosan közzétett módon, a kedvezmény időszakát is megjelölő, azonos feltételekkel adott árengedmény.
+
+38. beteg-együttműködés: a beteg egészségügyi szakemberrel egyeztetett ajánlásoknak megfelelő viselkedése a gyógyszerszedés, táplálkozás és az életvitel területén;
+
+39. preferált biológiai gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján a biológiai gyógyszerekre vonatkozó eljárás során meghatározott gyógyszerek közül az adott csoportba tartozó legkedvezőbb napi terápiás költségű, és azt legfeljebb 10%-kal meghaladó napi terápiás költségű gyógyszer;
+
+40. folyamatos ellátás: a forgalomba hozatali engedély jogosultjával vagy abban az esetben, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval szerződött gyógyszer-nagykereskedők megrendeléseinek szokásos üzletmenet szerinti kielégítése. A közfinanszírozásban részesülő gyógyszerrel való folyamatos ellátásról a forgalomba hozatali engedély jogosultja ennek hiányában a forgalmazó köteles gondoskodni;
+
+41. munkavégzésre irányuló jogviszony: a Munka Törvénykönyve szerinti munkaviszony, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei;
+
+42. gyógyászati segédeszköz házhoz szállítása: a gyógyászati segédeszköznek – a forgalmazás részeként – az eszköz megrendelését vagy megvásárlását követően a megrendelő által megjelölt címre történő eljuttatása.

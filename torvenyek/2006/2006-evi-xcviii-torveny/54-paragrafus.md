@@ -1,4 +1,4 @@
-54. § (1) A gyógyszertárak működtetését az egészségügyi államigazgatási szerv ellenőrzi. A működési engedélyt visszavonja, ha az ellenőrzése során megállapítja, hogy a gyógyszertár működtetője a működés szakmai szabályait, illetve
+54. § (1) A gyógyszertárak működtetését az egészségügyi államigazgatási szerv ellenőrzi. A működési engedélyt a létesítési engedéllyel egyidejűleg visszavonja, ha az ellenőrzése során megállapítja, hogy a gyógyszertár működtetője a működés szakmai szabályait, illetve
 
 a) a gyógyszerek készletben tartására,
 
@@ -24,7 +24,7 @@ c) a gyógyszertár hatósági ellenőrzésére jogosult szervek ellenőrzéseik
 
 d) az intézeti gyógyszertárat működtető fekvőbeteg-gyógyintézet megszűnik,
 
-e) a személyi jog visszavonásra került az 58. § alapján,
+e) a személyi jog visszavonásra került az 58. § alapján, továbbá ha a személyi jog megszűnt – kivéve a 60/B. §, 60/C. §, 60/D. § és a 65. § b) pontjának alkalmazása esetén –,
 
 f) mozgó egységként működtetett fiókgyógyszertár esetén a fiókgyógyszertár működési engedélyét arra a településre vonatkozóan, ahol állandó telephelyű fiók vagy közforgalmú gyógyszertár kezdi meg működését.
 

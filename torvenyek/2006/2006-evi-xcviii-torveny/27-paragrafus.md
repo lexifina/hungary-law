@@ -1,6 +1,14 @@
 27. § (1) Az új, még nem támogatott hatástani csoport támogatási kategóriákba történő felvételét az új hatóanyagot tartalmazó gyógyszer forgalomba hozatali engedélyének jogosultja kezdeményezésére, az egészségbiztosítási szerv és a hazai, valamint nemzetközi orvos- és gyógyszerészszakmai vélemények ismeretében az egészségügyért felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
 
-(2) Amennyiben az egészségbiztosítási szervhez olyan új hatóanyagot tartalmazó gyógyszer támogatása iránt érkezik kérelem, melynek ATC-csoportját, az ATC-csoporton belüli támogatási kategóriáját, illetve mértékét nem tartalmazza a külön jogszabály, az egészségbiztosítási szerv a gyógyszer támogatásba való befogadásának eljárását az egészségügyért felelős miniszter – az államháztartásért felelős miniszter egyetértésével meghozott – rendeletének hatálybalépéséig, legfeljebb azonban a kérelem benyújtását követő 90 napig felfüggeszti és erről az ügyfelet értesíti.
+(2) Amennyiben az egészségbiztosítási szervhez olyan új hatóanyagot tartalmazó gyógyszer támogatása iránt érkezik kérelem, amelynek ATC-csoportját, az ATC-csoporton belüli támogatási kategóriáját, mértékét nem tartalmazza az egészségbiztosításért felelős miniszter rendelete, az egészségbiztosítási szerv a gyógyszer támogatásba való befogadásának eljárását az egészségbiztosításért felelős miniszter – az államháztartásért felelős miniszter egyetértésével meghozott – rendeletének hatálybalépéséig, legfeljebb azonban kérelem beérkezésétől, illetve a hiánypótlás teljesítésétől számított 90 napig felfüggeszti és erről az ügyfelet értesíti.
+
+(2a) Amennyiben az egészségbiztosítási szervhez olyan új hatóanyagot tartalmazó gyógyszer támogatása iránt érkezik kérelem
+
+a) amelynek befogadásához az egészségbiztosításért felelős miniszternek az egészségügyi szakellátás társadalombiztosítási finanszírozásával kapcsolatos – az államháztartásért felelős miniszter egyetértésével meghozott – rendeletének módosítása szükséges, vagy
+
+b) amelyhez az egészségbiztosításért felelős miniszter rendelete szerinti finanszírozási eljárásrend módosítása szükséges,
+
+úgy az egészségbiztosítási szerv a gyógyszer támogatásba való befogadásának eljárását a módosítás hatálybalépéséig, legfeljebb azonban kérelem beérkezésétől, illetve a hiánypótlás teljesítésétől számított 90 napig felfüggeszti és erről az ügyfelet értesíti.
 
 (3) Amennyiben a (2) bekezdés szerinti jogszabály-módosításra nem kerül sor, úgy az egészségbiztosítási szerv a 90. nap elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
 

@@ -12,6 +12,10 @@ c) támogatásvolumen-szerződés;
 
 d) közbeszerzés útján beszerzett, speciális támogatású gyógyszerekre kötött szerződés;
 
-e) meghatározott összeggel vagy százalékosan csökkentett támogatás.
+e) meghatározott összegben korlátozott, meghatározott összeggel vagy százalékosan csökkentett támogatás;
+
+f) eltérő százalékos vagy meghatározott összegben korlátozott támogatás a beteg-együttműködés függvényében;
+
+g) az egészségbiztosításért felelős miniszter rendeletében foglaltak szerint maximált térítési díj alapján meghatározott támogatás.
 
 (2) A támogatási módszerekre vonatkozó részletes szabályokat külön jogszabály állapítja meg.

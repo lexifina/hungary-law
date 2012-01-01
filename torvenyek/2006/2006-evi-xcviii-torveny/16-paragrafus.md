@@ -14,7 +14,7 @@ c) az ismertető személyek nevét és nyilvántartási számát,
 
 d) azon ismertetési tevékenységet folytatók, illetve ismertető személyek nevét, akik vonatkozásában az ismertetési tevékenység folytatását jogerősen megtiltotta,
 
-e) a bejelentést követő egy évig a 14. § (10) bekezdése szerinti bejelentés 14. § (11) bekezdés a) pontja szerinti adatokat.
+e) a bejelentést követő egy évig a tervezett rendezvény nevét, helyszínét, időpontját és programját, továbbá a rendezvény támogatójának nevét.
 
 (3) A gyógyszerészeti államigazgatási szerv a 19. § (2) bekezdés d) pontja és a (2a) bekezdése szerinti jogerős határozatát – ide nem értve az egymillió forintot meg nem haladó összegű pénzbírságot megállapító határozatát – az (5) bekezdésben meghatározott terjedelemben közzéteszi.
 

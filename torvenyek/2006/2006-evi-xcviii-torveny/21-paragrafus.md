@@ -22,7 +22,7 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (7) A gyógyszerek nagykereskedelmi készletezésére, a kötelezően tartalékban tartandó termékek körére és a forgalmazás szabályaira vonatkozó részletes rendelkezéseket külön jogszabály tartalmazza.
 
-(8) A referenciagyógyszer forgalmazása a gyógyszer nagy- és kiskereskedelmi tevékenységet folytató forgalmazóknál kötelező.
+(8) Kötelező preferált referencia ársávba tartozó gyógyszer, preferált biológiai gyógyszer és referenciagyógyszer forgalmazása a gyógyszer nagy- és kiskereskedelmi tevékenységet folytató forgalmazóknál valamennyi meghatározott (fix) összegű támogatási csoport és valamennyi olyan csoport esetén, amely biológiai gyógyszerek számára kerül kialakításra.
 
 (9) Sorozatgyártású és méretsorozatos gyógyászati segédeszközök esetében a referenciaeszköz forgalmazása a gyógyászati segédeszköz nagy- és kiskereskedelmi tevékenységet folytató forgalmazóknál kötelező.
 

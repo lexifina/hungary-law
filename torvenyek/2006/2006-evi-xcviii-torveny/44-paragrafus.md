@@ -4,8 +4,10 @@
 
 44. § (1) A gyógyszer- és gyógyászatisegédeszköz-rendelés során – ideértve a fekvőbeteg-gyógyintézetekben alkalmazott gyógyszeres és gyógyászatisegédeszköz-kezelést is – az orvos a szakmai szabályok és a gyógykezelésre vonatkozó jogszabályok figyelembevétele mellett – a fogyatékos személyek számára is hozzáférhető és értelmezhető módon – tájékoztatja a beteget a gyógyszeres kezelés és gyógyászati segédeszközzel való ellátás alternatíváiról, az azonos hatóanyag-tartalmú, illetve azonos fix támogatási csoportba tartozó és bioekvivalens gyógyszerek, továbbá azonos funkcionális csoportba tartozó gyógyászati segédeszközök beteget terhelő kvárható költségei közötti különbségekről.
 
-(2) A gyógyszerész – ha a vényen az orvos nem zárta ki a helyettesíthetőséget – a külön jogszabályban előírt szakmai helyettesíthetőség figyelembevételével köteles a gyógyszert kiváltó személyt tájékoztatni arról, hogy a gyógyszer más olyan gyógyszerrel helyettesíthető, amelynek térítési díja kedvezőbb.
+(2) A gyógyszerész – ha a vényen az orvos nem zárta ki a helyettesíthetőséget – a külön jogszabályban előírt szakmai helyettesíthetőség figyelembevételével dokumentált módon köteles a gyógyszert kiváltó személyt tájékoztatni, hogy a gyógyszer más referencia vagy annál kedvezőbb árú, vagy preferált referencia ársávba tartozó gyógyszerrel helyettesíthető.
 
-(3) A gyógyszerész a beteg egyetértése esetén köteles a rendelt gyógyszert a (2) bekezdésben meghatározott – elsősorban a beteg számára legolcsóbb – készítménnyel helyettesíteni.
+(3) A gyógyszerész a beteg egyetértése esetén köteles a rendelt gyógyszert a (2) bekezdésben meghatározott – elsősorban a beteg számára legolcsóbb – referencia vagy annál kedvezőbb árú, vagy preferált referencia ársávba tartozó gyógyszerrel helyettesíteni.
 
 (4) Az orvosi dokumentációban a beteg – az Ebtv.-ben foglalt nyilatkozatának a külön jogszabályban foglaltak szerinti aláírásával egyidejűleg – igazolja az (1) bekezdésben foglaltak megtörténtét.
+
+(5) A biológiai gyógyszerek esetén az egészségbiztosításért felelős miniszter rendeletben határozza meg a preferált biológiai gyógyszerek rendelésének kötelező minimális arányát.

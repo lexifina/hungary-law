@@ -2,6 +2,8 @@
 
 (2) Gyógyászati segédeszközt forgalmazni, javítani és kölcsönözni – a (3)–(4) bekezdés szerinti kivételekkel – az egészségügyi államigazgatási szerv engedélyével, kizárólag jogszabályban foglalt feltételek szerint lehet.
 
+(2a) Gyógyászati segédeszközt az egészségügyért felelős miniszter rendeletében meghatározott feltételeknek megfelelő, működési engedéllyel rendelkező forgalmazó (gyógyászatisegédeszköz-szaküzlet vagy gyógyszertár) – a miniszteri rendeletben foglaltaknak megfelelően – szállíthat házhoz.
+
 (3) Gyógyszertárnak gyógyászati segédeszköz forgalmazó szakképesítéssel rendelkező személy foglalkoztatása esetén nem kell rendelkeznie a (2) bekezdés szerinti engedéllyel. Gyógyászati segédeszköz forgalmazó szakképesítéssel rendelkező személy hiányában a (2) bekezdés szerinti engedély nélkül csak sorozatgyártású gyógyászati segédeszköz forgalmazható, javítási és kölcsönzési tevékenység nem végezhető. Ez a javítási és kölcsönzési tilalom nem érinti a – külön jogszabályban vagy a felek közötti szerződésben meghatározott – szavatosságra és jótállásra vonatkozó kötelezettség érvényesítését.
 
 (4) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő gyógyászati segédeszköz forgalmazási, javítási és kölcsönözési tevékenységének folytatására irányuló szándékát köteles az egészségügyi államigazgatási szervnek bejelenteni. A külön törvény szerinti egészségbiztosító a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatóval is köthet a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 30. § (2) bekezdése szerinti szerződést.

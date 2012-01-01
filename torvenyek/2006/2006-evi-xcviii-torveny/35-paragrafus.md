@@ -26,8 +26,12 @@ b) százalékos támogatásban részesülő eszközök csoportja esetében a leg
 
 (8) Közgyógyellátás jogcímen
 
-a) a hatóanyag alapú fix támogatású csoportból a preferált referencia ársávba tartozó, és
+a) a hatóanyag alapú fix támogatású csoportból a preferált referencia ársávba tartozó,
 
-b) a hatóanyagalapú fix támogatású csoportba nem tartozó
+b) azokból a hatóanyag alapú fix támogatású csoportokból, ahol nem képződött preferált referencia ársáv, a referencia vagy annál alacsonyabb közfinanszírozás alapjául elfogadott árú, vagy napi terápiás költségű és
+
+c) a hatóanyag alapú fix támogatású csoportba nem tartozó
 
 gyógyszer rendelhető.
+
+(9) Amennyiben egy gyógyszer több támogatási kategóriában is rendelhető és a (8) bekezdésben foglalt valamely feltételnek megfelel, akkor közgyógyellátás keretében is a gyógyszerre megállapított minden támogatási kategóriában rendelhető.

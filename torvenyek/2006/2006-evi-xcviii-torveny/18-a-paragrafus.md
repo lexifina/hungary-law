@@ -20,4 +20,4 @@ is jogosult.
 
 (5) A gyógyszerrel és gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlat e törvényben, illetve a rendeletben meghatározott szabályai a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(6) A társadalombiztosítási támogatással rendelhető gyógyszerekkel és gyógyászati segédeszközökkel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlat e törvényben, illetve a rendeletben meghatározott szabályai megsértéséért kiszabott bírság 80%-a az E. Alapot illeti.
+(6)

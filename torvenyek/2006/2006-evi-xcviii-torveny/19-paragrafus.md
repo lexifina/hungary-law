@@ -26,9 +26,9 @@ ba) a jogsértést elkövető, társadalombiztosítási támogatással történ�
 
 bb) a társadalombiztosítási támogatással történő rendelésre jogosult jogsértése esetén a rendelési jogosultságának legfeljebb egy hónapra történő felfüggesztését.
 
-(3) A pénzbírság összegét, illetve az alkalmazott jogkövetkezményt az eset összes körülményeire – így különösen a betegek és a gyógyszerek és a gyógyászati segédeszközök rendelésére és forgalmazására jogosultak érdeksérelmének körére, súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a betegellátási érdekre – tekintettel kell meghatározni. Ismételt jogszabálysértés esetén a bírság halmozottan is kiszabható. A jogerősen kiszabott, de be nem fizetett bírságot adók módjára kell behajtani.
+(3) A pénzbírság összegét, illetve az alkalmazott jogkövetkezményt az eset összes körülményeire – így különösen a betegek és a gyógyszerek és a gyógyászati segédeszközök rendelésére és forgalmazására jogosultak érdeksérelmének körére, súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a betegellátási érdekre – tekintettel kell meghatározni. Ismételt jogszabálysértés esetén a bírság halmozottan is kiszabható.
 
-(4) A társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök ismertetésével kapcsolatosan kiszabott bírság 80%-a az E. Alapot illeti.
+(4)
 
 (5) A (2) bekezdés e) és f) pontja, továbbá a (3) bekezdés alkalmazása során
 

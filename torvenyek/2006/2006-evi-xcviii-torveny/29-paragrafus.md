@@ -1,14 +1,6 @@
 29. § (1)
 
-(2) Az egészségbiztosítási szerv a gyógyszerek befogadására irányuló kérelmekben a 23. § (4) bekezdés szerinti határidőben jár el, amikor a kérelem
-
-a) már támogatott hatóanyagú gyógyszer új generikumára,
-
-b) tápszer vagy forgalomba hozatalra engedélyezett a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer támogatására, illetve közfinanszírozása alapjául elfogadott árának emelésére,
-
-c) az a) pont hatálya alá nem tartozó készítmény már támogatott hatóanyagú gyógyszer(ek) áránál a külön jogszabályban foglalt kötelező mértéknél alacsonyabb áron történő befogadására
-
-érkezett.
+(2)
 
 (3) Az egészségbiztosítási szerv a gyógyszerek befogadására irányuló kérelmekben a 23. § (3) bekezdés szerinti határidőben jár el, amikor a kérelem
 
@@ -42,7 +34,7 @@ jd) új kombinációjára
 
 érkezett.
 
-(4) A (2)–(3) bekezdés szerinti eljárásokba nem tartozó esetekben a forgalomba hozatali engedély jogosultjának – tápszer esetén a támogatás iránti kérelmet benyújtó forgalmazónak – bejelentési kötelezettsége van:
+(4) A 23. § (4) bekezdés és a (3) bekezdés szerinti eljárásokba nem tartozó esetekben a forgalomba hozatali engedély jogosultjának – tápszer esetén a támogatás iránti kérelmet benyújtó forgalmazónak – bejelentési kötelezettsége van:
 
 a) már támogatott hatóanyagú gyógyszerének, tápszerének
 

@@ -80,9 +80,41 @@ l) az eszköz beteg által fizetendő térítési díját.
 
 (10) A nyilvánosság biztosítása érdekében az egészségbiztosítási szerv internetes honlapján közzéteszi:
 
-a) a formai szempontból megfelelő kérelmet, a kérelem beérkezését, illetve a hiánypótlás teljesítését követő huszonegy napon belül, továbbá
+a) a beérkezését, illetve a hiánypótlás teljesítését követő huszonegy napon belül a formai szempontból megfelelő kérelemhez kapcsolódóan
 
-b) az ügyben hozott jogerős határozatát az ügy elbírálását követő tizenöt napon belül.
+aa) az ügy tárgyát,
+
+ab) az ügy iktatási számát,
+
+ac) az eljárás megindításának napját,
+
+ad) az adott ügyfajtára irányadó ügyintézési határidőt,
+
+ae) az ügyintézési határidőbe nem számító időtartamok,
+
+af) az iratokba való betekintés és a nyilatkozattétel lehetőségére irányuló tájékoztatást,
+
+ag) a kérelmező ügyfél nevét, és
+
+b) az ügy elbírálását követő tizenöt napon belül az ügyben hozott jogerős határozat kivonatát, mely tartalmazza
+
+ba) a közzététel napját,
+
+bb) az eljáró hatóság megnevezését,
+
+bc) az ügy számát és tárgyát,
+
+bd) a hatóság döntését,
+
+be) azokat a jogszabályhelyeket, amelyek alapján a hatóság a határozatot hozta,
+
+bf) a jogorvoslat lehetőségéről, benyújtásának helyéről és határidejéről, valamint a jogorvoslati eljárásról, bírósági felülvizsgálat esetén a tárgyalás tartása iránti kérelem lehetőségéről való tájékoztatást,
+
+bg) a döntéshozatal helyét és idejét,
+
+bh) a hatáskör gyakorlójának nevét, hivatali beosztását, és
+
+bi) a döntés kiadmányozójának a nevét, hivatali beosztását, ha az nem azonos a hatáskör gyakorlójával.
 
 (11) Az egyedi méretvétel alapján készített gyógyászati segédeszközök esetén az eszköz egészségbiztosítási szervvel támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozói vagy meghatalmazott képviselői kizárólag csoportosan nyújthatnak be kérelmet vagy tehetnek bejelentést az eszköz típusára vonatkozóan. A csoportos kérelemhez, bejelentéshez a támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozók vagy meghatalmazott képviselőik legalább felének csatlakoznia kell. A csoportos kérelem alapján született döntés valamennyi a kérelemmel, bejelentéssel érintett eszköz támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozóra kiterjed.
 

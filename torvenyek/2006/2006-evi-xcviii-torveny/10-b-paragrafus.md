@@ -1,0 +1,1 @@
+10/B. § Amennyiben a preferált biológiai gyógyszer feltételének csak egy gyógyszer felel meg, a preferált biológiai gyógyszerrel azonos megítélés alá esik az adott csoportba tartozó következő legkedvezőbb napi terápiás költségű gyógyszer.
