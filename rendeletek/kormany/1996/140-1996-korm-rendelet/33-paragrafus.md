@@ -1,3 +1,3 @@
-## 32. § Ejtőernyős ugrási pótlékra jogosult, akinek az ejtőernyős ugrás a beosztása ellátásával együtt jár.
+## 32. §[^54]
 
-## Ejtőernyő beugrási pótlék
+[^54]: A 32. §-t és az azt megelőző alcímet a 376/2011. (XII. 31.) Korm. rendelet 9. § i) pontja hatályon kívül helyezte.

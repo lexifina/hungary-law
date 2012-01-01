@@ -1,4 +1,6 @@
-## (A Hszt. 104., 254., 293., 306. és 322. §-ához)[^40]
+## 27/B. §[^46] A 26–27/A. §-ban foglaltakat a Nemzeti Adó- és Vámhivatal tekintetében nem kell alkalmazni.
+
+## (A Hszt. 104., 254., 293., 306. és 322. §-ához)[^47]
 
 ## Illetménypótlék
 
@@ -8,4 +10,8 @@
 
 (3) Az egy hónapra számított illetménypótlékok esetében, ha a hivatásos állomány tagja az adott hónapban bármely oknál fogva a munkanapok felénél többet távol van, számára csak az időarányos rész folyósítható.
 
-[^40]: A 28. §-t megelőző jogszabályi hivatkozás a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének d) pontja szerint módosított szöveg.
+(4)[^48] A szenior állomány tagja esetében a Hszt. 104. és 254. §-a nem alkalmazható, az illetményt a Hszt. 264/C. § (4) bekezdésében foglaltaknak megfelelően kell megállapítani.
+
+[^46]: A 27/B. §-t a 273/2010. (XII. 9.) Korm. rendelet 81. § (4) bekezdése iktatta be, szövege a 269/2011. (XII. 20.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^47]: A 28. §-t megelőző jogszabályi hivatkozás a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének d) pontja szerint módosított szöveg.
+[^48]: A 28. § (4) bekezdését a 376/2011. (XII. 31.) Korm. rendelet 6. §-a iktatta be.

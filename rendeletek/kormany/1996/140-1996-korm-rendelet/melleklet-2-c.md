@@ -1,124 +1,128 @@
 ## A rendszeresített alapbeosztások beosztási kategóriába sorolása
 
-| Be- osz- tási kate- gória | Szerv | BM, NGM, valamint a BM és az NGM irányítása alá tartozó szervek, továbbá a TEK és az NVSZ | A rendőrségről szóló törvényben meghatározott, általános rendőrségi feladatok ellátására létrehozott szerv | Katasztrófavédelem (polgári védelem, hiv. áll. tűzoltóság) | Hivatásos önkormányzati tűzoltóság | Büntetés-végrehajtás |
+|  | A | B | C | D | E | F |
 
-| I. BESOROLÁSI OSZTÁLY |
+| 1. | Beosztási kategória | Szerv | BM, NGM, valamint a BM és az NGM irányítása alá tartozó szervek, továbbá a TEK és az NVSZ | A rendőrségről szóló törvényben meghatározott, általános rendőrségi feladatok ellátására létrehozott szerv | Hivatásos katasztrófavédelmi szervek | Büntetés- végrehajtás |
 
-| VI. | Minisztériumi | kiemelt főreferens |  |  |  |  |
+| 2. | I. BESOROLÁSI OSZTÁLY |
 
-| osztályvezető- helyettes (TEK) |
+| 3. | VI. | Minisztériumi | kiemelt főreferens |  |  |  |
 
-| belső ellenőr (TEK) |
+| 4. | osztályvezető- helyettes (TEK) |
 
-| jogtanácsos (TEK) |
+| 5. | belső ellenőr (TEK) |
 
-| csoportvezető (TEK) |
+| 6. | jogtanácsos (TEK) |
 
-| pszichológus (TEK) |
+| 7. | csoportvezető (TEK) |
 
-| ügyeletvezető (TEK) |
+| 8. | pszichológus (TEK) |
 
-| Központi | osztályvezető- helyettes | osztályvezető- helyettes | osztályvezető- helyettes |  | osztályvezető- helyettes |
+| 9. | ügyeletvezető (TEK) |
 
-| alosztályvezető | alosztályvezető | alosztályvezető |
+| 10. | Központi | osztályvezető- helyettes | osztályvezető- helyettes | osztályvezető- helyettes | osztályvezető- helyettes |
 
-| kiemelt főreferens | kiemelt főreferens | kiemelt főreferens |
+| 11. | alosztályvezető | alosztályvezető | alosztályvezető |  |
 
-| szakcsoport- vezető |
+| 12. | kiemelt főreferens | kiemelt főreferens | kiemelt főreferens |  |
 
-| főiskolai tanár, docens |
+| 13. | szakcsoport- vezető |
 
-| Területi | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens, szakcsoport- vezető | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens | osztályvezető- helyettes, kiemelt főreferens |
+| 14. | főiskolai tanár, docens |
 
-| Helyi |  | hivatalvezető, alosztályvezető, kiemelt főreferens, kirendeltség- vezető-helyettes |  | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens |  |
+| 15. | Területi | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens, szakcsoport- vezető | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens | osztályvezető- helyettes, kiemelt főreferens |
 
-| V. | Minisztériumi | főreferens |  |  |  |  |
+| 16. | Helyi |  | hivatalvezető, alosztályvezető, kiemelt főreferens, kirendeltség- vezető- helyettes | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens |  |
 
-| kiemelt főelőadó |
+| 17. | V. | Minisztériumi | főreferens |  |  |  |
 
-| mentőtiszt (TEK) |
+| 18. | kiemelt főelőadó |
 
-| kiemelt biztonsági főtiszt (TEK) |
+| 19. | mentőtiszt (TEK) |
 
-| főmérnök (TEK) |
+| 20. | kiemelt biztonsági főtiszt (TEK) |
 
-| Központi | csoportvezető, kiemelt főelőadó, főiskolai adjunktus | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó |  | kiemelt főelőadó |
+| 21. | főmérnök (TEK) |
 
-| Területi | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó, főiskolai adjunktus | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó |
+| 22. | Központi | csoportvezető, kiemelt főelőadó, főiskolai adjunktus | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó | kiemelt főelőadó |
 
-| Helyi | csoportvezető, kiemelt főelőadó | kiemelt főelőadó | csoportvezető, kiemelt főelőadó |
+| 23. | Területi | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó, | csoportvezető, kiemelt főelőadó |
 
-| IV. | Minisztériumi | főelőadó (TEK) |  |  |  |  |
+| 24. | Helyi | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó |
 
-| szolgálat- parancsnok (TEK) |
+| 25. | IV. | Minisztériumi | főelőadó (TEK) |  |  |  |
 
-| Központi | főelőadó, főiskolai tanársegéd | főelőadó | főelőadó |  | főelőadó |
+| 26. | szolgálat- parancsnok (TEK) |
 
-| Területi | főelőadó | főelőadó | főelőadó | főelőadó | főelőadó |
+| 27. | Központi | főelőadó, főiskolai tanársegéd | főelőadó | főelőadó | főelőadó |
 
-| Helyi |  | főelőadó technikai tiszt | főelőadó | főelőadó |  |
+| 28. | Területi | főelőadó | főelőadó | főelőadó | főelőadó |
 
-| III. | Minisztériumi | előadó (TEK) |  |  |  |  |
+| 29. |  | Helyi |  | főelőadó technikai tiszt | főelőadó |  |
 
-| Központi | előadó | előadó | előadó |  | előadó |
+| 30. | III. | Minisztériumi | előadó (TEK) |  |  |  |
 
-| Területi | előadó | előadó | előadó | előadó | előadó |
+| 31. | Központi | előadó | előadó | előadó | előadó |
 
-| Helyi |  | előadó | előadó | előadó |  |
+| 32. | Területi | előadó | előadó | előadó | előadó |
 
-| II. | Központi | fogalmazó | fogalmazó | fogalmazó |  | fogalmazó |
+| 33. | Helyi |  | előadó | előadó |  |
 
-| Területi | fogalmazó | fogalmazó | fogalmazó | fogalmazó | fogalmazó |
+| 34. | II. | Központi | fogalmazó | fogalmazó | fogalmazó | fogalmazó |
 
-| Helyi |  | fogalmazó | fogalmazó | fogalmazó |  |
+| 35. | Területi | fogalmazó | fogalmazó | fogalmazó | fogalmazó |
 
-| I. | Központi |  |  | szerződéses |  |  |
+| 36. | Helyi |  | fogalmazó | fogalmazó |  |
 
-| Területi |  |  | szerződéses | szerződéses |  |
+| 37. | I. | Központi |  |  | szerződéses |  |
 
-| Helyi |  |  | szerződéses | szerződéses |  |
+| 38. | Területi |  |  | szerződéses |  |
 
-| Pályakezdő |
+| 39. | Helyi |  |  | szerződéses |  |
 
-| II. BESOROLÁSI OSZTÁLY |
+| 40. | Pályakezdő |
 
-| IV. | Minisztériumi | gépjárművezető (TEK) |  |  |  |  |
+| 41. | II. BESOROLÁSI OSZTÁLY |
 
-| biztonsági gépjárművezető (TEK) |
+| 42. | IV. | Minisztériumi | gépjárművezető (TEK) |  |  |  |
 
-| referens (TEK) |
+| 43. | biztonsági gépjárművezető (TEK) |
 
-| lakásbiztosító (TEK) |
+| 44. | referens (TEK, NVSZ) |
 
-| helyszínbiztosító (TEK) |
+| 45. | lakásbiztosító (TEK) |
 
-| objektumőr (TEK) |
+| 46. | helyszínbiztosító (TEK) |
 
-| Központi |  | szolgálat- parancsnok, szolgálati csoportvezető |  |  |  |
+| 47. | objektumőr (TEK) |
 
-| Területi | szolgálat- parancsnok | szolgálat- parancsnok, szolgálati csoportvezető | szolgálatvezető | szolgálatvezető | főfelügyelő |
+| 48. | tűzszerész (TEK) |
 
-| Helyi |  | szolgálat- parancsnok, szolgálati csoportvezető, körzeti megbízott | szolgálatvezető, szerparancsnok | roham- parancsnok- helyettes, szolgálat- parancsnok- helyettes |  |
+| 49. | Központi |  | szolgálat- parancsnok, szolgálati csoportvezető |  |  |
 
-| III. | Központi | segédelőadó | járőrvezető, segédelőadó |  |  | segédelőadó |
+| 50. | Területi | szolgálat- parancsnok | szolgálat- parancsnok, szolgálati csoportvezető | szolgálatvezető | főfelügyelő |
 
-| Területi | segédelőadó | járőrvezető, segédelőadó, főhatárrendész | segédelőadó | segédelőadó | segédelőadó, művezető |
+| 51. | Helyi |  | szolgálat- parancsnok, szolgálati csoport- vezető, körzeti megbízott | szolgálatvezető, szerparancsnok |  |
 
-| Helyi |  | járőrvezető, főhatárrendész | különleges szerkezelő | segédelőadó, szerparancsnok, különleges szerkezelő |  |
+| 52. | III. | Központi | segédelőadó | járőrvezető, segédelőadó |  | segédelőadó |
 
-| II. | Központi |  | gépjárművezető |  |  |  |
+| 53. | Területi | segédelőadó | járőrvezető, segédelőadó, főhatár- rendész | segédelőadó | segédelőadó, művezető |
 
-| Területi | kiképző | járőr, határrendész | gépjárművezető | gépjárművezető | felügyelő |
+| 54. | Helyi |  | járőrvezető, főhatár- rendész | segédelőadó, szerparancsnok különlegesszer- kezelő |  |
 
-| Helyi | járőr, határrendész | beosztott tűzoltó | beosztott tűzoltó |
+| 55. | II. | Központi |  | gépjármű- vezető |  |  |
 
-| I. | Központi | szerződéses |
+| 56. | Területi | kiképző | járőr, határrendész | gépjárművezető | felügyelő |
 
-| Területi | szerződéses | szerződéses |
+| 57. | Helyi | járőr, határrendész | beosztott tűzoltó |
 
-| Helyi | szerződéses | szerződéses |
+| 58. | I. | Központi | szerződéses |
 
-| Pályakezdő |
+| 59. | Területi | szerződéses |
+
+| 60. | Helyi | szerződéses |
+
+| 61. | Pályakezdő |
 
 ## Rövidítés:
 
@@ -130,74 +134,6 @@
 
 ## NVSZ: Nemzeti Védelmi Szolgálat
 
-2/C. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^92]
+2/C. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^107]
 
-Besorolási fokozatok (beosztási kategóriák) a Nemzeti Adó- és Vámhivatalnál
-
-| Besorolási fokozat (beosztási kategória) | Szervezeti szint | Alapbeosztások |
-
-| I. BESOROLÁSI OSZTÁLY |
-
-| Vezető-főtanácsos | Központi szerv | Kiemelt főreferens |
-
-| Középfokú szerv | Kiemelt főreferens |
-
-| Alsó fokú szerv | Kiemelt főreferens |
-
-| Főtanácsos | Központi szerv | Főreferens |
-
-| Középfokú szerv | Főreferens |
-
-| Alsó fokú szerv | Főreferens |
-
-| Vezető-tanácsos | Központi szerv | Vezető szakreferens |
-
-| Középfokú szerv | Vezető szakreferens |
-
-| Alsó fokú szerv | Vezető szakreferens |
-
-| Tanácsos | Központi szerv | Szakreferens |
-
-| Középfokú szerv | Szakreferens |
-
-| Alsó fokú szerv | Szakreferens |
-
-| Fogalmazó | Központi szerv | Referens |
-
-| Középfokú szerv | Referens |
-
-| Alsó fokú szerv | Referens |
-
-| Gyakornok | Központi szerv | Gyakornok |
-
-| Középfokú szerv | Gyakornok |
-
-| Alsó fokú szerv | Gyakornok |
-
-| II. BESOROLÁSI OSZTÁLY |
-
-| Főmunkatárs | Központi szerv | Főszemlész |
-
-| Középfokú szerv | Főszemlész |
-
-| Alsó fokú szerv | Főszemlész |
-
-| Főelőadó | Központi szerv | Szemlész |
-
-| Középfokú szerv | Szemlész |
-
-| Alsó fokú szerv | Szemlész |
-
-| Előadó | Központi szerv | Ügyintéző |
-
-| Középfokú szerv | Ügyintéző |
-
-| Alsó fokú szerv | Ügyintéző |
-
-| Gyakornok | Központi szerv | Gyakornok |
-
-| Középfokú szerv | Gyakornok |
-
-| Alsó fokú szerv | Gyakornok |
-
-[^92]: A 2/C. számú mellékletet a 273/2010. (XII. 9.) Korm. rendelet 81. § (12) bekezdése iktatta be.
+[^107]: A 2/C. számú mellékletet a 273/2010. (XII. 9.) Korm. rendelet 81. § (12) bekezdése iktatta be, hatályon kívül helyezte a 269/2011. (XII. 20.) Korm. rendelet 21. §-a.

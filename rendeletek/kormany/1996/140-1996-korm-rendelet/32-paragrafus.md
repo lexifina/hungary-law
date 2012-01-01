@@ -1,3 +1,3 @@
-## 31. § Repülőgép berepülési pótlék jár annak a repülőgép- (helikopter-)vezetőnek és hajózó személyzet tagjának, aki a repülőgépet (helikoptert) a szállító féltől történt műszaki átvétele után, valamint gyári javítás, időszakos vizsga, csapatjavítás, hajtóműcsere alkalmából, illetőleg bonyolult meghibásodás légi kivizsgálása esetén berepüli.
+## 31. §[^53]
 
-## Ejtőernyős ugrási pótlék
+[^53]: A 31. §-t és az azt megelőző alcímet a 376/2011. (XII. 31.) Korm. rendelet 9. § h) pontja hatályon kívül helyezte.

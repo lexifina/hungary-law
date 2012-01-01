@@ -2,137 +2,137 @@
 
 ## A BM, valamint a BM irányítása alá tartozó szervek
 
-| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési követelmény |
+|  | A | B | C | D | E | F |
 
-| állami iskolai végzettség | szakképesítés |
+| 1. |  |  |  |  | Képesítési követelmény |
 
-| Minisztériumi | főosztályvezetői illetményre jogosult | főosztályvezető (BM) | tábornok | egyetem | szakirányú felsőfokú |
+| 2. | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | állami iskolai végzettség | szakképesítés |
 
-| főosztályvezető- helyettesi illetményre jogosult | főosztályvezető- helyettes | ezredes | egyetem vagy főiskola |
+| 3. | Minisztériumi | főosztályvezetői illetményre jogosult | főosztályvezető (BM) | tábornok | egyetem | szakirányú felsőfokú |
 
-| osztályvezetői illetményre jogosult | titkárságvezető |
+| 4. |  | főosztályvezető- helyettesi illetményre jogosult | főosztályvezető- helyettes | ezredes | egyetem vagy főiskola |  |
 
-| osztályvezetői illetményre jogosult | osztályvezető | alezredes |
+| 5. |  | osztályvezetői illetményre jogosult | titkárságvezető |  |  |  |
 
-| Központi | főosztályvezetői illetményre jogosult | rektor (RTF) főigazgató (NOPVK) | tábornok | egyetem |
+| 6. |  | osztályvezetői illetményre jogosult | osztályvezető | alezredes |  |  |
 
-| főosztályvezető- helyettesi illetményre jogosult | rektor-helyettes (RTF) igazgató (RTF) főtitkár (RTF) | ezredes | egyetem vagy főiskola |
+| 7. | Központi | főosztályvezetői illetményre jogosult | főigazgató (NOK) | tábornok | egyetem |
 
-| főosztályvezető- helyettesi illetményre jogosult | főigazgató- helyettes (NOPVK), tanszékvezető (RTF) |
+| főosztályvezető- helyettesi illetményre jogosult | főigazgató- helyettes (NOK), | ezredes | egyetem vagy főiskola |
 
-| osztályvezetői illetményre jogosult | osztályvezető (RTF, NOPVK) | alezredes | egyetem vagy főiskola |
+| 8. |  | osztályvezetői illetményre jogosult | osztályvezető (NOK) | alezredes | egyetem vagy főiskola |  |
 
-| Területi | főosztályvezetői illetményre jogosult | igazgató (középfokú oktatási intézet) | ezredes | egyetem vagy főiskola |
+| 9. | Területi | főosztályvezetői illetményre jogosult | igazgató (középfokú oktatási intézet) | ezredes | egyetem vagy főiskola |  |
 
-| főosztályvezető- helyettesi illetményre jogosult | igazgatóhelyettes (középfokú oktatási intézet) | alezredes | egyetem vagy főiskola |
+| 10. |  | főosztályvezető- helyettesi illetményre jogosult | igazgatóhelyettes (középfokú oktatási intézet) | alezredes | egyetem vagy főiskola |  |
 
-| osztályvezetői illetményre jogosult | osztályvezető (középfokú oktatási intézet) |
+| 11. |  | osztályvezetői illetményre jogosult | osztályvezető (középfokú oktatási intézet) |  |  |  |
 
 ## Rövidítések:
 
 ## BM: Belügyminisztérium
 
-## NOPVK: Nemzetközi Oktatási és Polgári Válságkezelési Központ
-
-## RTF: Rendőrtiszti Főiskola
+## NOK: Nemzetközi Oktatási Központ
 
 ## A rendőrségről szóló törvényben meghatározott, általános rendőrségi feladatok ellátására létrehozott szerv
 
-| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési követelmény |
+|  | A | B | C | D | E | F |
 
-| állami iskolai végzettség | szakképesítés |
+| 1. |  |  |  |  | Képesítési követelmény |
 
-| Központi | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | országos rendőrfőkapitány | tábornok | egyetem | szakirányú felsőfokú |
+| 2. | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | állami iskolai végzettség | szakképesítés |
 
-| országos rendőrfőkapitány- helyettes |
+| 3. | Központi | a Hszt. 245/H. § (2) bekezdése szerinti | országos rendőrfőkapitány | tábornok | egyetem | szakirányú felsőfokú |
 
-| parancsnok (KŐE országos rendőrfőkapitány- helyettes) |
+| 4. |  | illetményre jogosult | országos rendőrfőkapitány- helyettes |  |  |  |
 
-| főosztályvezetői illetményre jogosult | kiemelt főtanácsadó |
+| 5. |  |  | parancsnok (KŐE országos rendőrfőkapitány- helyettes) |  |  |  |
 
-| szolgálatvezető (személyügyi, ellenőrzési ORFK) |
+| 6. |  | főosztályvezetői | kiemelt főtanácsadó |  |  |  |
 
-| hivatalvezető (ORFK) |
+| 7. |  | illetményre jogosult | szolgálatvezető (személyügyi, ellenőrzési ORFK) |  |  |  |
 
-| parancsnok- helyettes (KŐE) | ezredes | egyetem vagy főiskola |
+| 8. |  |  | hivatalvezető (ORFK) |  |  |  |
 
-| főosztályvezető |
+| 9. |  |  | parancsnokhelyettes (KŐE) | ezredes | egyetem vagy főiskola |  |
 
-| igazgató |
+| 10. |  |  | főosztályvezető |  |  |  |
 
-| hivatalvezető (KŐE) |
+| 11. |  |  | igazgató |  |  |  |
 
-| szolgálatvezető (személyügyi KŐE) |
+| 12. |  |  | hivatalvezető (KŐE) |  |  |  |
 
-| főosztályvezető- helyettesi illetményre jogosult | igazgatóhelyettes | alezredes |
+| 13. |  |  | szolgálatvezető (személyügyi KŐE) |  |  |  |
 
-| szolgálatvezető (ellenőrzési KŐE) |
+| 14. |  | főosztályvezető- | igazgatóhelyettes | alezredes |  |  |
 
-| főosztályvezető- helyettes (KŐE) |
+| 15. |  | helyettesi illetményre jogosult | szolgálatvezető (ellenőrzési KŐE) |  |  |  |
 
-| osztályvezetői illetményre jogosult | osztályvezető |
+| 16. |  |  | főosztályvezető- helyettes (KŐE) |  |  |  |
 
-| Területi | főosztályvezetői illetményre jogosult | rendőrfőkapitány | tábornok | egyetem |
+| 17. |  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |
 
-| igazgató (NNI, RRI) |
+| 18. | Területi | főosztályvezetői | rendőrfőkapitány | tábornok | egyetem |  |
 
-| parancsnok (KR) |
+| 19. |  | illetményre jogosult | igazgató (NNI, RRI) |  |  |  |
 
-| bűnügyi rendőr- főkapitány- helyettes (BRFK) |
+| 20. |  |  | parancsnok (KR) |  |  |  |
 
-| rendészeti rendőrfőkapitány-helyettes (BRFK) |
+| 21. |  |  | bűnügyi rendőrfőkapitány-helyettes (BRFK) |  |  |  |
 
-| igazgató (ORFK GF GEI) | ezredes | egyetem vagy főiskola |
+| 22. |  |  | rendészeti rendőrfőkapitány- helyettes (BRFK) |  |  |  |
 
-| főosztályvezető- helyettesi illetményre jogosult | rendőr- főkapitány- helyettes |  |
+| 23. |  |  | igazgató (ORFK GF GEI) | ezredes | egyetem vagy főiskola |  |
 
-| parancsnok- helyettes (KR) |
+| 24. |  | főosztályvezető- helyettesi illetményre jogosult | rendőrfőkapitány- helyettes |  |
 
-| igazgatóhelyettes (BSZKI bűnügyi, NNI, RRI) |
+| 25. |  | parancsnokhelyettes (KR) |  |  |  |
 
-| főosztályvezető (NNI, KR, BRFK) |
+| 26. |  |  | igazgatóhelyettes (BSZKI bűnügyi, NNI, RRI) |  |  |  |
 
-| hivatalvezető (BRFK) |
+| 27. |  |  | főosztályvezető (NNI, KR, BRFK) |  |  |  |
 
-| szolgálat- parancsnok (KR tűzszerész) |
+| 28. |  |  | hivatalvezető (BRFK) |  |  |  |
 
-| igazgató |
+| 29. |  |  | szolgálatparancsnok (KR tűzszerész) |  |  |  |
 
-| parancsnok (ÁFSZ, LRP) |
+| 30. |  |  | igazgató |  |  |  |
 
-| zászlóaljparancs- nok (BRFK) |
+| 31. |  |  | parancsnok (ÁFSZ, LRP) |  |  |  |
 
-| igazgató- helyettes (OKI) | alezredes |
+| 32. |  |  | zászlóaljparancsnok (BRFK) | alezredes |  |  |
 
-| hivatalvezető |
+| 33. |  |  | igazgatóhelyettes (OKI) |  |  |
 
-| szolgálatvezető |
+| 34. |  |  | hivatalvezető |  |  |
 
-| osztályvezetői illetményre jogosult | osztályvezető |
+| 35. |  |  | szolgálatvezető |  |  |  |
 
-| szolgálat- parancsnok (KR pénzkísérő) |
+| 36. |  | osztályvezetői | osztályvezető |  |  |  |
 
-| szakcsoport- vezető (OKI) |
+| 37. |  | illetményre jogosult | szolgálatparancsnok (KR pénzkísérő) |  |  |  |
 
-| parancsnok- helyettes (LRP) |
+| 38. |  |  | szakcsoportvezető (OKI) |  |  |  |
 
-| Helyi | főosztályvezetői illetményre jogosult | kapitányság- vezető (kiemelt) | ezredes | egyetem vagy főiskola |  |
+| 39. |  |  | parancsnokhelyettes (LRP) |  |  |  |
 
-| kapitányság- vezető | alezredes |  |  |
+| 40. | Helyi | főosztályvezetői illetményre | kapitányságvezető (kiemelt) | ezredes | egyetem vagy főiskola |  |
 
-| főosztályvezető- helyettesi illetményre jogosult | kapitányság- vezető-helyettes (kiemelt) |
+| 41. |  | jogosult | kapitányságvezető | alezredes |  |  |
 
-| határrendészeti kirendeltség- vezető |
+| 42. |  | főosztályvezető- helyettesi illetményre | kapitányságvezető- helyettes (kiemelt) |  |  |  |
 
-| osztályvezetői illetményre jogosult | osztályvezető |
+| 43. |  | jogosult | határrendészeti kirendeltségvezető |  |  |  |
 
-| hivatalvezető (kiemelt) |
+| 44. |  | osztályvezetői | osztályvezető |  |  |  |
 
-| őrsparancsnok (osztály jogállású) |
+| 45. |  | illetményre jogosult | hivatalvezető (kiemelt) |  |  |  |
+
+| 46. |  |  | őrsparancsnok (osztály jogállású) |  |  |  |
 
 ## Rövidítések:
 
-## RTF: Rendőrtiszti Főiskola
+## NKE: Nemzeti Közszolgálati Egyetem
 
 ## ORFK: Országos Rendőr-főkapitányság
 
@@ -149,8 +149,6 @@
 ## BRFK: Budapesti Rendőr-főkapitányság
 
 ## OKI: Oktatási Igazgatóság
-
-## NOPVK: Nemzetközi Oktatási és Polgári Válságkezelési Központ
 
 ## ÁFSZ: Állami Futárszolgálat
 
@@ -210,83 +208,77 @@
 
 ## TEK: Terrorelhárítási Központ
 
-## Katasztrófavédelem (polgári védelem, hivatásos állami tűzoltóság)
+## Hivatásos katasztrófavédelmi szerv
 
-| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési követelmény |
+|  | A | B | C | D | E | F |
 
-| állami iskolai végzettség | szakképesítés |
+| 1. |  |  |  |  | Képesítési követelmény |
 
-| Központi | Hszt. 245/H. §-ának (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem | szakirányú felsőfokú |
+| 2. | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | állami iskolai végzettség | szakképesítés |
 
-| Hszt. 245/H. §-ának (2) bekezdése szerinti illetményre jogosult | főigazgató- helyettes | tábornok | egyetem | szakirányú felsőfokú |
+| 3. | Központi | Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató | tábornok | egyetem | szakirányú felsőfokú |
 
-| főosztályvezetői illetményre jogosult | polgári védelmi főfelügyelő | tábornok | egyetem | szakirányú felsőfokú |
+| 4. | Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | főigazgató- helyettes | tábornok | egyetem | szakirányú felsőfokú |
 
-| főosztályvezetői illetményre jogosult | tűzoltósági főfelügyelő | tábornok | egyetem | szakirányú felsőfokú |
+| 5. | főosztály- vezetői illetményre jogosult | országos polgári védelmi főfelügyelő | tábornok | egyetem | szakirányú felsőfokú |
 
-| főosztályvezetői illetményre jogosult | hivatalvezető | tábornok | egyetem | szakirányú felsőfokú |
+| 6. | főosztály- vezetői illetményre jogosult | országos tűzoltósági főfelügyelő | tábornok | egyetem | szakirányú felsőfokú |
 
-| főosztályvezetői illetményre jogosult | igazgató (OKF Gazdasági Ellátó Központ) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 7. | főosztályvezetői illetményre jogosult | országos iparbiztonsági főfelügyelő | tábornok | egyetem | szakirányú felsőfokú |
 
-| főosztályvezetői illetményre jogosult | főosztályvezető | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 8. | főosztály- vezetői illetményre jogosult | hivatalvezető | tábornok | egyetem | szakirányú felsőfokú |
 
-| főosztályvezetői illetményre jogosult | igazgatóhelyettes (OKF Gazdasági Ellátó Központ) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 9. | főosztály- vezetői illetményre jogosult | szolgálatvezető | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| főosztályvezető- helyettesi illetményre jogosult | főosztályvezető- helyettes (Tűzoltósági Főfelügyelőség, Polgári Védelmi Főfelügyelőség) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 10. | főosztály- vezetői illetményre jogosult | igazgató (OKF Gazdasági Ellátó Központ) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| főosztályvezető- helyettesi illetményre jogosult | főosztályvezető- helyettes | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 11. | főosztály- vezetői illetményre jogosult | főosztályvezető | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| osztályvezetői illetményre jogosult | titkárságvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 12. | főosztály- vezetői illetményre jogosult | igazgató- helyettes (OKF Gazdasági Ellátó Központ) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| osztályvezetői illetményre jogosult | osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 13. | főosztály- vezető- helyettesi illetményre jogosult | főosztály- vezető- helyettes | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| Területi | főosztályvezetői illetményre jogosult | igazgató (fővárosi polgári védelmi) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 14. | osztályvezetői illetményre jogosult | titkárság- vezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-|  | igazgató | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 15. | osztályvezetői illetményre jogosult | osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| főosztályvezető- helyettesi illetményre jogosult | igazgatóhelyettes | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 16. | Területi | főosztály- vezetői illetményre jogosult | igazgató (főváros) | tábornok | egyetem | szakirányú felsőfokú |
 
-| osztályvezetői illetményre jogosult | polgári védelmi felügyelő | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 17. | főosztály- vezetői illetményre jogosult | igazgató- helyettes (főváros), | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| osztályvezetői illetményre jogosult | tűzoltósági felügyelő | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 18. | főosztály- vezetői illetményre jogosult | igazgató | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| osztályvezetői illetményre jogosult | karmester | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 19. | főosztály- vezető- helyettesi illetményre jogosult | igazgató- helyettes | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| osztályvezetői illetményre jogosult | szakcsoportvezető (KOK) | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 20. | főosztály- vezető- helyettesi illetményre jogosult | főosztályvezető (főváros) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| osztályvezetői illetményre jogosult | osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 21. | főosztályvezető-helyettesi illetményre jogosult | főosztály- vezető- helyettes (főváros) | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| Helyi | osztályvezetői illetményre jogosult | tűzoltóparancs- nok (Országház) | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 22. | osztályvezetői illetményre jogosult | fővárosi, megyei polgári védelmi főfelügyelő | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| kirendeltség- vezető (polgári védelmi) |
+| 23. | osztályvezetői illetményre jogosult | fővárosi, megyei tűzoltósági főfelügyelő | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-## Hivatásos önkormányzati tűzoltóság
+| 24. | osztályvezetői illetményre jogosult | fővárosi, megyei iparbiztonsági főfelügyelő | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Képesítési követelmény |
+| 25. | osztályvezetői illetményre jogosult | karmester | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| állami iskolai végzettség | szakképesítés |
+| 26. | osztályvezetői illetményre jogosult | szakcsoport- vezető (KOK) | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| Területi | főosztályvezetői illetményre jogosult | tűzoltóparancs- nok (főváros) | tábornok | egyetem | szakirányú felsőfokú |
+| 27. | osztályvezetői illetményre jogosult | osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| tűzoltóparancs- nok-helyettes hatósági (főváros), tűzoltóparancs- nok-helyettes mentési (főváros), gazdasági igazgató (főváros) | ezredes | egyetem vagy főiskola |
+| 28. | Helyi | főosztály- vezetői illetményre jogosult | tűzoltó- parancsnok, (megye- székhelyi) parancsnok (főváros) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| főosztályvezető- helyettesi illetményre jogosult | főosztályvezető (megelőzési régióvezető főváros) | ezredes |
+| 29. | főosztály- vezetői illetményre jogosult | tűzoltó- parancsnok (készenléti egységgel rendelkező), | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| főosztályvezető- helyettesi illetményre jogosult | főosztályvezető (főváros) | ezredes |
+| 30. | osztályvezetői illetményre jogosult | tűzoltó- parancsnok (készenléti egységgel nem rendelkező; Országház) | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| főosztályvezető- helyettesi illetményre jogosult | szolgálatvezető (főváros) | alezredes |
+| 31. | osztályvezetői illetményre jogosult | kirendeltség- vezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| főosztályvezető- helyettes (főváros) | alezredes |
+| 32. | osztályvezetői illetményre jogosult | osztályvezető (készenléti egységgel rendelkező tűzoltóság; főváros) | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| osztályvezetői illetményre jogosult | osztályvezető (főváros) |
+## Rövidítés:
 
-| Helyi | főosztályvezetői illetményre jogosult | tűzoltóparancs- nok, (megyeszékhelyi) mentési parancsnok (Közép-pesti Tűzoltási Mentési Parancsnokság) | ezredes |
-
-| főosztályvezetői illetményre jogosult | tűzoltóparancs- nok (készenléti egységgel rendelkező), mentési parancsnok (fővárosi) | alezredes |
-
-| osztályvezetői illetményre jogosult | tűzoltóparancs- nok (készenléti egységgel nem rendelkező) |
-
-| osztályvezető (készenléti egységgel rendelkező tűzoltóság) |
+## KOK: Katasztrófavédelmi Oktatási Központ
 
 ## Büntetés-végrehajtás
 
@@ -302,7 +294,7 @@
 
 | Főosztályvezető-helyettesi illetményre jogosult | Főosztályvezető-helyettes | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| Tanszékvezető (RTF) |
+| Tanszékvezető (NKE) |
 
 | Osztályvezetői illetményre jogosult | Osztályvezető | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
@@ -356,11 +348,11 @@
 
 | Főosztályvezető-helyettes | ezredes | szakirányú egyetem vagy főiskola |
 
-| RTF tanszékvezető | szakirányú egyetem vagy főiskola |
+| NKE tanszékvezető | szakirányú egyetem vagy főiskola |
 
 | Osztályvezető | alezredes | szakirányú egyetem vagy főiskola |
 
-| RTF tanszékvezető-helyettes | szakirányú egyetem vagy főiskola |
+| NKE tanszékvezető-helyettes | szakirányú egyetem vagy főiskola |
 
 | Területi szerv | Főigazgató | tábornok | szakirányú egyetem vagy főiskola |
 
@@ -406,6 +398,6 @@
 
 | Osztályvezetői illetményre jogosult | Osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú_ |
 
-2/B. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^91]
+2/B. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^106]
 
-[^91]: A 2/B. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 81. § (11) bekezdésével megállapított, a 361/2010. (XII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^106]: A 2/B. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 223/2011. (X. 21.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

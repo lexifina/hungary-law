@@ -1,5 +1,5 @@
-## 60. §[^74]
+## 60. §[^89]
 
 ## Szemle pótlék
 
-[^74]: A 60. §-t a 273/2010. (XII. 9.) Korm. rendelet 139. § (2) bekezdése hatályon kívül helyezte.
+[^89]: A 60. §-t a 273/2010. (XII. 9.) Korm. rendelet 139. § (2) bekezdése hatályon kívül helyezte.

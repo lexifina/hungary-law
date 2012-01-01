@@ -1,3 +1,3 @@
-## 30. § Repülési, repülőgép-vezetői pótlékra az a repülőgép- (helikopter-)vezető és hajózó személyzet tagja jogosult, aki a repülési terv alapján, illetve a beosztásával összefüggő, a repülési naplóba bejegyzett repülési feladatot hajtott végre.
+## 30. §[^52]
 
-## Repülőgép berepülési pótlék
+[^52]: A 30. §-t és az azt megelőző alcímet a 376/2011. (XII. 31.) Korm. rendelet 9. § g) pontja hatályon kívül helyezte.
