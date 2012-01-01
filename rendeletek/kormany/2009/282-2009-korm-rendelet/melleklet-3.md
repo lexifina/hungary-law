@@ -26,7 +26,7 @@
 
 | c) felszíni vízminőség-védelmi terület | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
 
-| d) tómeder | Vízügyi és Környezetvédelmi Központi Igazgatóság |
+| d) tómeder | Országos Vízügyi Főigazgatóság |
 
 3. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^18]
 
@@ -36,9 +36,9 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú erdőterület | Mezőgazdasági Szakigazgatási Hivatal |
 
-| b) kiemelten érzékeny felszín alatti vízminőség-védelmi terület | Vízügyi és Környezetvédelmi Központi Igazgatóság |
+| b) kiemelten érzékeny felszín alatti vízminőség-védelmi terület | Nemzeti Környezetügyi Intézet |
 
-| c) felszíni vizek vízminőség-védelmi vízgyűjtő területe | Vízügyi és Környezetvédelmi Központi Igazgatóság |
+| c) felszíni vizek vízminőség-védelmi vízgyűjtő területe | Nemzeti Környezetügyi Intézet |
 
 | d) ásványi nyersanyag-gazdálkodási terület | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
 
@@ -60,4 +60,4 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | h) honvédelmi terület | honvédelemért felelős miniszter |
 
-[^18]: A 3. melléklet a 237/2011. (XI. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 3. melléklet a 237/2011. (XI. 15.) Korm. rendelet 1. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.

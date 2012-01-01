@@ -20,9 +20,9 @@
 
 | e) történeti települési terület | Kulturális Örökségvédelmi Hivatal | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
 
-| f) rendszeresen belvízjárta terület | Vízügyi és Környezetvédelmi Központi Igazgatóság | Vízügyi és Környezetvédelmi Központi Igazgatóság |
+| f) rendszeresen belvízjárta terület | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
 
-| g) nagyvízi meder | Vízügyi és Környezetvédelmi Központi Igazgatóság | Vízügyi és Környezetvédelmi Központi Igazgatóság |
+| g) nagyvízi meder | Országos Vízügyi Főigazgatóság | Országos Vízügyi Főigazgatóság |
 
 | h) földtani veszélyforrás területe | Magyar Bányászati és Földtani Hivatal bányakapitánysága | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
 
@@ -30,4 +30,4 @@
 
 2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^17]
 
-[^17]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 264. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 264. §-a, a 300/2011. (XII. 22.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
