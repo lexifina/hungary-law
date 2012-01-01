@@ -1,1 +1,0 @@
-A vízügyi igazgatási szervezet vízrajzi feladatainak ellátására – a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. §-a (8) bekezdésének a) pontjában kapott felhatalmazás alapján – a következőket rendelem el:
