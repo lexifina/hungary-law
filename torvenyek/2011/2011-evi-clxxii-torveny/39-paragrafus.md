@@ -10,7 +10,7 @@ c) gondoskodik a sporttal kapcsolatos kormányzati döntések végrehajtásáró
 
 d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 
-e) együttműködik az Országos Területfejlesztési Tanáccsal, a regionális fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, illetve a térségi fejlesztési tanácsokkal,
+e) együttműködik az Országos Területfejlesztési Tanáccsal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal és a térségi fejlesztési tanácsokkal,
 
 f) együttműködik a MOB-bal, valamint kapcsolatot tart a sport területén működő civil, érdek-képviseleti szervekkel,
 

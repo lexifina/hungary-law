@@ -6,7 +6,7 @@ A SPORT CIVIL IRÁNYÍTÁSI RENDSZERE
 
 A Magyar Olimpiai Bizottság
 
-38. § (1) A MOB a Nemzetközi Olimpiai Bizottság (a továbbiakban NOB) által kizárólagos nemzeti olimpiai bizottságként elismert, a sporttal összefüggő – e törvényben meghatározott – országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. A MOB jogosult Magyarország címerének és zászlajának használatára. A MOB-ot a Fővárosi Törvényszék tartja nyilván.
+38. § (1) A MOB a Nemzetközi Olimpiai Bizottság (a továbbiakban NOB) által kizárólagos nemzeti olimpiai bizottságként elismert, a sporttal összefüggő – e törvényben meghatározott – országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. A MOB-ot a Fővárosi Törvényszék tartja nyilván.
 
 (2) A MOB működésének részletes szabályait a NOB szabályainak (különösen az Olimpiai Chartának), valamint e törvény és a külön jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
 

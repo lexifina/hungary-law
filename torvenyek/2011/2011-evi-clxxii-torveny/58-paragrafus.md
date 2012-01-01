@@ -15,11 +15,3 @@
 (8) A Magyar Paralimpiai Bizottság – Magyarország paralimpiai mozgalommal és az Stv. 38. § (4)–(5) bekezdéseinek az e törvény 35. §-ával megállapított rendelkezéseire figyelemmel meghatározott kizárólagos jogosítványok folyamatos gyakorlása érdekében – az e törvény hatálybalépésétől számított hatvan napon belül gondoskodik átalakulásáról és fogyatékosok országos sportszövetségeként kezdeményezi a Fővárosi Törvényszéknél történő nyilvántartásba vételét.
 
 (9) Az e törvény hatálybalépése előtt már megkötött amatőr sportszerződések a szerződésben meghatározott időtartam végéig, de legfeljebb 2012. december 31-ig hatályosak.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
