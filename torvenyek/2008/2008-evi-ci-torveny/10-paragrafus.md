@@ -1,1 +1,0 @@
-10. § A tárgyévi kárenyhítő juttatások mértékének meghatározásánál a tárgyévet megelőző év október 1-jétől a tárgyév szeptember 30-áig bekövetkezett elemi károkat kell figyelembe venni. Az ezt követő időszakban bekövetkezett elemi kár a következő évi kárenyhítési igény megállapításánál érvényesíthető.

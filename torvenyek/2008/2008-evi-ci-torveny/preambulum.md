@@ -1,1 +1,0 @@
-Az Országgyűlés a mezőgazdaságot sújtó elemi károk hatásának enyhítésében való termelői érdekközösség kialakítása, öngondoskodó felelősségük megerősítése és az állami segítség hatékonyabbá tétele érdekében a következő törvényt alkotja:
