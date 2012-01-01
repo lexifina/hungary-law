@@ -22,7 +22,7 @@ d) elsőbbség érvényesítése esetén az alapbejelentés bejelentési napját
 
 e) az európai szabadalmi bejelentés közzétételének napját és számát;
 
-f) a találmány címét;
+f)[^2] a találmány címét magyar nyelven;
 
 g) a találmány nemzetközi osztályjelzetét;
 
@@ -34,4 +34,7 @@ j) a kérelem mellékleteinek felsorolását;
 
 k) a bejelentő, illetve mindegyik bejelentő vagy a képviselő aláírását.
 
-(3) Az igénypontok fordítását a 2. § (2)–(5) bekezdéseiben foglaltak szerint kell elkészíteni, azzal az eltéréssel, hogy azt két azonos példányban kell benyújtani.
+(3)[^3] Az igénypontok fordítását a 2. § (2)–(5) bekezdéseiben foglaltak szerint kell elkészíteni, azzal az eltéréssel, hogy azt egy példányban kell benyújtani.
+
+[^2]: A 10. § (2) bekezdés f) pontja a 35/2011. (XII. 22.) KIM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 10. § (3) bekezdése a 35/2011. (XII. 22.) KIM rendelet 1. §-ával megállapított szöveg.
