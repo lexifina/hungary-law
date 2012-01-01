@@ -1,8 +1,8 @@
 18/A. §[^107] (1) A központi vizsgakövetelményekre épülő vizsgatárgyak írásbeli feladatlapjait és javítási, értékelési útmutatóit tételkészítő bizottságok készítik el. A tételkészítő bizottságokat vizsgatárgyanként kell megszervezni.
 
-(2)[^108] A tételkészítő bizottság tagjait a Hivatal, illetve a Nemzeti Szakképzési Intézet vezetője, elnökét az oktatásért felelős miniszter, illetve a szakképesítésért felelős miniszter kéri fel.
+(2)[^108] A tételkészítő bizottság tagjait a Hivatal, illetve a Nemzeti Munkaügyi Hivatal vezetője, elnökét az oktatásért felelős miniszter, illetve a szakképesítésért felelős miniszter kéri fel.
 
-(3)[^109] A tételkészítő bizottság feladatait a Hivatal, illetve a Nemzeti Szakképzési Intézet vezetője határozza meg.
+(3)[^109] A tételkészítő bizottság feladatait a Hivatal, illetve a Nemzeti Munkaügyi Hivatal vezetője határozza meg.
 
 (4) A tételkészítő bizottság az elnök irányításával működik. Az elnök felelős a feladatlapok, javítási és értékelési útmutatók szakszerű elkészítéséért, továbbá azért, hogy azok megfeleljenek a központi vizsgakövetelményeknek.
 
@@ -11,6 +11,6 @@
 (6) Az akkreditált vizsgatárgy középszintű írásbeli tételeit és javítási, értékelési útmutatóit – az akkreditációs eljárásban jóváhagyott vizsgakövetelmények szerint – a vizsgát szervező középiskola készíti el, és annak nevelőtestülete fogadja el az írásbeli központi vizsgatételek átadásának napjáig.
 
 [^107]: A 18/A. §-t a 256/2005. (XII. 7.) Korm. rendelet 8. §-a iktatta be.
-[^108]: A 18/A. § (2) bekezdése a 307/2006. (XII. 23.) Korm. rendelet 42. § (4) bekezdésének a) pontja és a 254/2009. (XI. 20.) Korm. rendelet 6. § (4) bekezdés j) pontja szerint módosított szöveg.
-[^109]: A 18/A. § (3) bekezdése a 307/2006. (XII. 23.) Korm. rendelet 42. § (4) bekezdésének a) pontja szerint módosított szöveg.
-[^110]: A 18/A. § (5) bekezdése a 307/2006. (XII. 23.) Korm. rendelet 42. § (4) bekezdésének a) pontja szerint módosított szöveg.
+[^108]: A 18/A. (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^109]: A 18/A. (3) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^110]: A 18/A. (5) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.

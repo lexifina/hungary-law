@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2010-09-01 | 1997-100-20-22.26 | 254/2009. (XI. 20.) Korm. rendelet |
 | 2011-01-01 | 1997-100-20-22.27 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2011-08-25 | 1997-100-20-22.28 | 172/2011. (VIII. 24.) Korm. rendelet |
+| 2012-01-01 | 1997-100-20-22.29 | 324/2011. (XII. 28.) Korm. rendelet |
