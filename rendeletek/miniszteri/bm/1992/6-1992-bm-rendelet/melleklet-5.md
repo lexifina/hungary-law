@@ -10,6 +10,6 @@
 
 ## Az emlékérem bronzból készül, kör alakú, 135 mm átmérőjű. Egyik oldalán Kós Károly domborműves arcképe található, ,,Kós Károly 1883–1977'' körfelirattal. A másik oldal közepén ,,KÓS KÁROLY'' felirat, négyzet alakban ,,Településeink védelméért, szépítéséért emlékérem'' felirat található.
 
-5. számú melléklet a 6/1992. (V. 5.) BM rendelethez[^18]
+5. számú melléklet a 6/1992. (V. 5.) BM rendelethez[^20]
 
-[^18]: Az 5. számú mellékletet a 23/2005. (V. 2.) BM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 9/2009. (II. 27.) ÖM rendelet 38. § (2) bekezdésének a) pontja.
+[^20]: Az 5. számú mellékletet a 23/2005. (V. 2.) BM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 9/2009. (II. 27.) ÖM rendelet 38. § (2) bekezdésének a) pontja.

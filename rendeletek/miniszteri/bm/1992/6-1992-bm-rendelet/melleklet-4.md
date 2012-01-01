@@ -6,6 +6,6 @@
 
 ## »A Közszolgálatért« adományozott Miniszteri Díj plakettjének hátoldalára körkörösen »AZ IGAZSÁG MINDIG A LEGERŐSEBB ÉRV« feliratot kell rávésetni.
 
-4. számú melléklet a 6/1992. (V. 5.) BM rendelethez[^17]
+4. számú melléklet a 6/1992. (V. 5.) BM rendelethez[^19]
 
-[^17]: A 4. számú mellékletet a 31/2002. (XI. 30.) BM rendelet 2. §-a iktatta a szövegbe.
+[^19]: A 4. számú mellékletet a 31/2002. (XI. 30.) BM rendelet 2. §-a iktatta a szövegbe.
