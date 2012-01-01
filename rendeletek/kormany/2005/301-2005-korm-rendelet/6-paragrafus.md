@@ -1,10 +1,19 @@
-6. § (1) A Httv. hatálybalépése után gyártási vagy szolgáltatási tevékenységre kérelmet benyújtó, korábban hadiipari tevékenységet nem végző kérelmező az engedély beszerzéséig a haditechnikai termék gyártásával, illetve a szolgáltatással kapcsolatosan előkészítő tevékenységet sem folytathat.
+6. § (1)[^21] A gyártási vagy szolgáltatási tevékenységre kérelmet benyújtó, korábban hadiipari tevékenységet nem végző kérelmező az engedély beszerzéséig a haditechnikai termék gyártásával, valamint a szolgáltatással kapcsolatosan előkészítő tevékenységet sem folytathat.
 
-(2) Az engedélyben kötelezni kell az engedélyest a haditechnikai terméket külön jogszabály[^15] szerint jelölő, valamint a gyártót egyértelműen azonosító jelzés és adatnyilvántartás alkalmazására.
+(2) Az engedélyben kötelezni kell az engedélyest a haditechnikai terméket külön jogszabály[^22] szerint jelölő, valamint a gyártót egyértelműen azonosító jelzés és adatnyilvántartás alkalmazására.
 
-(3)[^16] Az 5. § (2) bekezdése szerint kiadott engedély hatályának a lejárta előtt, legkésőbb a 30. napon az engedélyesnek nyilatkoznia kell a tevékenységéről, ha azt folytatni kívánja.
+(3)[^23] Az engedélyben meg kell határozni a haditechnikai termékek tárolására szolgáló helyiségek biztonsági előírásának feltételeit, amelynek megváltoztatásához a hadiipari gyártás és szolgáltatásfelügyelet előzetes hozzájárulása szükséges.
 
-(4) A határozatlan időre szóló engedély kiadására irányuló kérelem esetén a Hivatal a (3) bekezdés szerinti nyilatkozatban foglaltak figyelembevételével dönt a határozatlan időre szóló engedély kiadásáról vagy a kérelem elutasításáról.
+(4)[^24] A haditechnikai terméket a hadiipari tevékenység végzésére engedéllyel nem rendelkező személyektől elzárva kell tárolni. A tárolásra szolgáló helyiség nyílászáróit acélráccsal vagy ultraerős biztonsági fóliával kell ellátni, és a tároló helyet őrszemélyzettel kell őrizni vagy távfelügyeleti rendszerbe bekötött elektronikus riasztóberendezéssel kell ellátni.
 
-[^15]: A haditechnikai termékek jelöléséről és nyilvántartásáról szóló GKM rendelet.
-[^16]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 440. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(5)[^25] Az 5. § (1) bekezdése szerint kiadott engedély hatályának a lejártát megelőző 30. napig az engedélyesnek nyilatkoznia kell a tevékenységéről, ha azt folytatni kívánja. Amennyiben az engedélyes késedelmesen nyilatkozik, engedély csak két évre adható.
+
+(6)[^26] Az öt évre szóló engedély kiadására irányuló kérelem esetén a Hivatal ismételt engedélyezési eljárást folytat le és a (5) bekezdés szerinti nyilatkozatban foglaltak figyelembevételével dönt az öt évre szóló engedély kiadásáról vagy a kérelem elutasításáról.[^27]
+
+[^21]: A 6. § (1) bekezdése a 292/2011. (XII. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^22]: A haditechnikai termékek jelöléséről és nyilvántartásáról szóló GKM rendelet.
+[^23]: A 6. § (3) bekezdése a 292/2011. (XII. 22.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^24]: A 6. § (4) bekezdése a 292/2011. (XII. 22.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^25]: A 6. § (5) bekezdését a 292/2011. (XII. 22.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+[^26]: A 6. § (6) bekezdését a 292/2011. (XII. 22.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+[^27]: A 6. § (4) bekezdése a 292/2011. (XII. 22.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

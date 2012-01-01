@@ -1,6 +1,6 @@
 ## Az engedély kiadása, érvényessége, visszavonása
 
-5. § (1) Határozatlan időtartamra abban az esetben adható engedély, ha a kérelmező közvetlenül a Httv. hatálybalépését megelőzően folyamatosan legalább két éven keresztül kifejezetten hadiipari gyártási tevékenységet végzett, vagy szolgáltatást nyújtott.
+5. § (1)[^19] Hadiipari tevékenységi engedély első alkalommal két évre, azt követően öt évre adható.
 
 (2) Két évre adható az engedély, ha a kérelmező
 
@@ -8,4 +8,9 @@ a) közvetlenül a Httv. hatálybalépése előtt két évnél rövidebb ideig f
 
 b) a gyártási vagy szolgáltatási tevékenységet a Httv. hatálybalépése után kezdi meg.
 
-(3) A (2) bekezdés szerinti esetekben az engedéllyel rendelkező (a továbbiakban: engedélyes) a tevékenység két év folyamatosan történő folytatása után kérelmezheti határozatlan időtartamra szóló engedély kiadását.
+(3)[^20]
+
+A (2) bekezdés szerinti esetekben az engedéllyel rendelkező (a továbbiakban: engedélyes) a tevékenység két év folyamatosan történő folytatása után kérelmezheti öt évre szóló engedély kiadását.
+
+[^19]: Az 5. § (1) bekezdése a 292/2011. (XII. 22.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (3) bekezdése a 292/2011. (XII. 22.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

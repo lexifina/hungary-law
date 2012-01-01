@@ -1,5 +1,5 @@
-## 12/A. §[^19] A Hivatal elsőfokú döntése ellen benyújtott fellebbezést a gazdasági és közlekedési miniszter bírálja el.
+## 12/A. §[^33]
 
 ## Záró rendelkezések
 
-[^19]: A 12/A. §-t a 261/2006. (XII. 20.) Korm. rendelet 2. §-a iktatta be.
+[^33]: A 12/A. §-t a 261/2006. (XII. 20.) Korm. rendelet 2. §-a iktatta be, a 282/2011., (XII. 21.) Korm. rendelet 13. §-a hatályon kívül helyezte.
