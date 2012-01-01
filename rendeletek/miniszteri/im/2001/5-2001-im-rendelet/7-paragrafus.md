@@ -32,4 +32,6 @@ i) a titokvédelmi szabályzat ismerete.
 
 (4) A felsőfokú végzettségű tisztviselők munkakörüknek megfelelően a (3) bekezdés a) pontjában írt követelményeken túl megfelelő ügyviteli ismeretekről, illetve ennek keretében a szükséges számítógépes ismeretekről, továbbá a kinevező által a (3) bekezdés b)–i) pontjaiban felsoroltak közül az adott munkakör jellegéhez igazodóan meghatározott egy vagy több témakörből kötelesek vizsgát tenni. Jogi végzettségű tisztviselők esetében a vizsga a munkakörnek megfelelő ügyviteli szabályokat és számítógépes ismereteket tartalmazza.
 
-(5) Az OIT Hivatalában foglalkoztatott igazságügyi alkalmazottaknak a szóbeli vizsgán az OIT és Hivatala működésére vonatkozó jogszabályok, szabályzatok ismeretéről is számot kell adniuk, egyebekben a (4) bekezdés rendelkezéseit kell megfelelően alkalmazni.
+(5)[^10] Az OBH-ban foglalkoztatott igazságügyi alkalmazottaknak a szóbeli vizsgán az Országos Bírói Tanács és az OBH működésére vonatkozó jogszabályok, szabályzatok ismeretéről is számot kell adniuk, egyebekben a (4) bekezdés rendelkezéseit kell megfelelően alkalmazni.
+
+[^10]: A 7. § (5) bekezdése a 40/2011. (XII. 30.) KIM rendelet 15. § i) pontja szerint módosított szöveg.

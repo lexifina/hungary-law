@@ -38,11 +38,11 @@ a vizsgabizottság elnöke
 
 .......................
 
-a vizsgabizottság tagja[^18]
+a vizsgabizottság tagja[^36]
 
 .......................
 
-a vizsgabizottság tagja[^19]
+a vizsgabizottság tagja[^37]
 
-[^18]: A Magyar Közlöny 2001. évi 36. számában közzétett helyesbítésnek megfelelő szöveg.
-[^19]: A Magyar Közlöny 2001. évi 36. számában közzétett helyesbítésnek megfelelő szöveg.
+[^36]: A Magyar Közlöny 2001. évi 36. számában közzétett helyesbítésnek megfelelő szöveg.
+[^37]: A Magyar Közlöny 2001. évi 36. számában közzétett helyesbítésnek megfelelő szöveg.

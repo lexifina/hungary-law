@@ -2,6 +2,6 @@
 
 (2) Az ügyviteli vizsgára készülők a szükséges ismereteket tanfolyam keretében vagy egyéni tanulás útján sajátítják el.
 
-(3)[^2] Tanfolyamot vagy konzultációt kell szervezni a Legfelsőbb Bíróságon, az ítélőtáblákon, a Fővárosi Bíróságon, a megyei bíróságokon (a továbbiakban együtt: bíróság), az Országos Igazságszolgáltatási Tanács Hivatalában, valamint azon a helyi bíróságon és munkaügyi bíróságon, ahol az ügyviteli vizsgára kötelezettek száma legalább az öt főt eléri, vagy a konzultációt a megyei bíróság elnöke szükségesnek tartja.
+(3)[^6] Tanfolyamot vagy konzultációt kell szervezni a Kúrián, az ítélőtáblákon, a Fővárosi Törvényszéken, a törvényszékeken (a továbbiakban együtt: bíróság), az OBH-ban, valamint azon a helyi bíróságon és munkaügyi bíróságon, ahol az ügyviteli vizsgára kötelezettek száma legalább az öt főt eléri, vagy a konzultációt a törvényszék elnöke szükségesnek tartja.
 
-[^2]: Az 5. § (3) bekezdése a 22/2004. (V. 18.) IM rendelet 18. § (2) bekezdésének d) pontja szerint módosított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^6]: Az 5. § (3) bekezdése a 22/2004. (V. 18.) IM rendelet 18. § (2) bekezdés d) pontja, a 40/2011. (XII. 30.) KIM rendelet 15. § e) pontja szerint módosított szöveg.
