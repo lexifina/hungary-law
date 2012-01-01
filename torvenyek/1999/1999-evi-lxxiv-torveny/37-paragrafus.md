@@ -1,3 +1,0 @@
-37. § (1) A hatóság a veszélyes tevékenység végzésére vonatkozó határozatát a veszélyeztetett települések polgármestereivel, az illetékes helyi, megyei védelmi bizottság elnökével, valamint a fővárosban a főpolgármesterrel közli.
-
-(2) A hatóság a veszélyes tevékenység végzésére vonatkozó határozatának kiadását követően a veszélyes tevékenységet végzőkről tájékoztatja az illetékes megyei (budapesti) rendőr-főkapitányságot a területileg illetékes hivatásos önkormányzati tűzoltó-parancsnokságot, az egészségügyi államigazgatási szervet, a környezetvédelmi hatóságot, valamint az állami mentőszolgálatot.

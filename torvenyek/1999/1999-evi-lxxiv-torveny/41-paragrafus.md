@@ -1,1 +1,0 @@
-41. § A veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek csökkentésére vonatkozó veszélyes ipari üzemen belüli feladatait az üzemeltetőnek a belső védelmi tervben, míg az érintett állami és önkormányzati szervek veszélyes ipari üzemen kívüli feladatait a külső védelmi tervben kell meghatározni.

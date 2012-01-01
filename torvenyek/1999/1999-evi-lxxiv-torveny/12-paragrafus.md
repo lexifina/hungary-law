@@ -1,1 +1,0 @@
-12. § A katasztrófaveszély elhárítására, illetve a katasztrófa elleni védekezés során – a következmények felszámolása érdekében – védekezési munkabizottság működik. A katasztrófavédelem irányítása a szakirányítást végző miniszterek közreműködésével valósul meg.

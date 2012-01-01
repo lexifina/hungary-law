@@ -1,5 +1,0 @@
-32. § (1) Amennyiben a veszélyes ipari üzemben a veszélyes anyagok mennyisége eléri a jogszabályban meghatározott alsó küszöbértéket, de nem éri el a felső küszöbértéket, az üzemeltető biztonsági elemzést készít és a hatósághoz elfogadásra benyújtja.
-
-(2) A biztonsági elemzés megelőzésre vonatkozó előírásait úgy kell kialakítani, hogy képes legyen biztosítani az egészség és a környezet magas fokú védelmét. Ennek érdekében tartalmaznia kell az eszközökre, a szervezési és vezetési rendszerre vonatkozó elgondolást is.
-
-(3) A biztonsági elemzést, működő veszélyes ipari üzem esetén a külön jogszabályban meghatározott időszakonként, de legalább ötévenként az üzemeltető felülvizsgálja, és szükség szerint módosítja. Az üzemeltető kérelmet nyújt be a hatósághoz az engedély meghosszabbítása iránt. A kérelemhez csatolni kell a felülvizsgálat eredményét és – módosítása esetén – a módosított biztonsági elemzést. A hatóság a biztonsági elemzés alapján dönt az engedély meghosszabbításáról. A hatóság az engedély meghosszabbítását kormányrendeletben meghatározott feltételekhez kötheti.

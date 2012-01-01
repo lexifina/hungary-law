@@ -1,1 +1,0 @@
-11. § A Bizottság vezetője kezdeményezi a Kormánynál a védekezéshez, illetve a katasztrófaveszély elhárításához szükséges nemzetközi segítség igénybevételét, illetve összehangolja a védekezésben részt vevő magyar és külföldi szervek és szervezetek tevékenységét.
