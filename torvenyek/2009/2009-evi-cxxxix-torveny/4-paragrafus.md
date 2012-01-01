@@ -4,4 +4,4 @@
 
 (3) A Magyar Honvédség és a rendvédelmi szervek által fenntartott intézetek és a befogadó állomások, valamint az ezekben az intézetekben és a befogadó állomásokon élők vonatkozásában a népszámlálás helyi előkészítéséért és az adatfelvétel végrehajtásáért – a települési (a fővárosban a kerületi) önkormányzat jegyzőjével együttműködve – az intézet, befogadó állomás vezetője a felelős.
 
-(4) A begyűjtött adatok a feldolgozási folyamat lezárásáig a Magyar Köztársaság területét nem hagyhatják el.
+(4) A begyűjtött adatok a feldolgozási folyamat lezárásáig Magyarország területét nem hagyhatják el.

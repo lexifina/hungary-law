@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-139-00-00
 | 2009-12-23 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-139-00-00.1 |
 | 2010-06-19 | 2010. évi XLIX. törvény | 2009-139-00-00.2 |
 | 2010-12-15 | 2010. évi CXXXVII. törvény | 2009-139-00-00.3 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2009-139-00-00.4 |

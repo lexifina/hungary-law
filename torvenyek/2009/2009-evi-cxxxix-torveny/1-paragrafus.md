@@ -1,10 +1,10 @@
-1. § (1) A Magyar Köztársaság területén 2011. október 1-jén 0 órakor fennálló állapot alapulvételével az Európai Parlament és a Tanács nép- és lakásszámlálásról szóló 763/2008/EK (2008. július 9.) rendelete, a statisztikáról szóló 1993. évi XLVI. törvény, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, valamint a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény rendelkezéseinek figyelembevételével a természetes személyekről és a lakásokról nép- és lakásszámlálást (a továbbiakban: népszámlálás) kell tartani.
+1. § (1) A Magyar Köztársaság területén 2011. október 1-jén 0 órakor fennálló állapot alapulvételével az Európai Parlament és a Tanács nép- és lakásszámlálásról szóló 763/2008/EK (2008. július 9.) rendelete, a statisztikáról szóló 1993. évi XLVI. törvény, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, valamint a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény rendelkezéseinek figyelembevételével a természetes személyekről és a lakásokról nép- és lakásszámlálást (a továbbiakban: népszámlálás) kell tartani.
 
 (2) A népszámlálás kiterjed
 
-a) a Magyar Köztársaság területén élő vagy átmenetileg külföldön tartózkodó, de Magyarországon bejelentett lakóhellyel, tartózkodási hellyel rendelkező magyar állampolgárokra,
+a) a Magyarország területén élő vagy átmenetileg külföldön tartózkodó, de Magyarországon bejelentett lakóhellyel, tartózkodási hellyel rendelkező magyar állampolgárokra,
 
-b) a Magyar Köztársaság területén három hónapnál hosszabb ideig tartózkodó
+b) a Magyarország területén három hónapnál hosszabb ideig tartózkodó
 
 ba) EGT-állampolgárokra,
 
