@@ -1,6 +1,6 @@
 ## Az engedély mintája
 
-| Magyar Köztársaság Republic of Hungary |
+| Magyarország Republic of Hungary |
 
 | NEMZETI KÖZLEKEDÉSI HATÓSÁG POLGÁRI LÉGIKÖZLEKEDÉSI IGAZGATÓSÁGA CIVIL AVIATION ADMINISTRATION OF THE NATIONAL TRANSPORT AUTHORITY |
 

@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya a Magyar Köztársaság területén működő kereskedelmi repülőtereken [Lt. 37. § (1) bek. a) pontjának aa) alpontja] végzett földi kiszolgálási tevékenységre, az e tevékenységet folytatókra, továbbá a repülőteret üzemeltetőkre terjed ki.
+## 1. §[^1] E rendelet hatálya Magyarország területén működő kereskedelmi repülőtereken [Lt. 37. § (1) bek. a) pontjának aa) alpontja] végzett földi kiszolgálási tevékenységre, az e tevékenységet folytatókra, továbbá a repülőteret üzemeltetőkre terjed ki.
 
 ## Fogalommeghatározások
 
@@ -15,3 +15,5 @@ d) földi kiszolgálás: az Lt. 71. §-ának 23. pontjában említett és az e r
 e) saját kiszolgálás: olyan földi kiszolgálás, amelynek során a repülőtér-használó közvetlenül végez egy vagy több, földi kiszolgálásnak minősülő tevékenységet a maga számára, és nem köt szerződést másik féllel e tevékenységek elvégzésére. A saját kiszolgálás szempontjából a repülőtér-használók nem tekintendők egymás viszonylatában másik félnek, ha egyikük a másik többségi tulajdonában van, vagy mindegyikük ugyanannak a személynek a többségi tulajdonában van;
 
 f) kiszolgáló: az a gazdálkodó szervezet, amely hatósági engedély alapján egy vagy több, földi kiszolgálásnak minősülő tevékenységet végez másik fél számára.
+
+[^1]: Az 1. § a 91/2011. (XII. 30.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
