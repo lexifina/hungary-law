@@ -1,1 +1,0 @@
-## Az ellátási normák kiadása

@@ -1,1 +1,0 @@
-## 5. § A szolgálati elöljáró felelős a szolgálatban lévő, valamint a közös rendezvényen részt vevő, egyenruha-viselésre jogosultak egységes és kulturált öltözködéséért. Az egyenruházati termékek és felszerelési cikkek összetételét a szolgálati követelményekre, a rendezvények jellegére (viselési alkalom), továbbá a viselési időszakra tekintettel kell meghatározni.

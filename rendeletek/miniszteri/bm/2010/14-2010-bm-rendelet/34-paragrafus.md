@@ -1,1 +1,0 @@
-## Az ellátás előkészítésének szabályai
