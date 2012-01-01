@@ -28,7 +28,7 @@ k) a pince- és borhigiéniai követelményeket, a borászati üzemek működés
 
 l) az adópolitikáért felelős miniszterrel egyetértésben a forgalomba hozatali járulék megfizetésének, megfizetése ellenőrzésének, az ellenőrzéshez kapcsolódó adatok szolgáltatásának, kezelésének és felhasználásának részletes szabályait;
 
-m) a forgalomba hozatali, illetve a Magyar Köztársaság területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;
+m) a forgalomba hozatali, illetve Magyarország területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;
 
 n) a Bor Eredetvédelmi Tanács összetételével, működésével és eljárásával kapcsolatos részletes szabályokat;
 

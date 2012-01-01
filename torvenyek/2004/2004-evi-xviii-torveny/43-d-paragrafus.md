@@ -12,4 +12,4 @@ b) a telepítés és a bírság kiszabásának időpontja között eltelt évek 
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv (4) bekezdés szerinti értesítéséig a bírságot az arról szóló határozat kézhezvételének napját követő minden 12. hónapban ki kell szabni.
 
-(6) A bírság összegének meghatározásakor a forintra történő átszámítást a határozathozatal hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell elvégezni. A kiszabott bírság hetven százaléka a mezőgazdasági és vidékfejlesztési támogatási szerv – ellenőrzésekhez kapcsolódó dologi kiadásainak fedezetére felhasználandó – bevétele, harminc százaléka a központi költségvetést illeti meg. A bírság adók módjára behajtandó köztartozás.
+(6) A bírság összegének meghatározásakor a forintra történő átszámítást a határozathozatal hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell elvégezni.

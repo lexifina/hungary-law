@@ -1,4 +1,4 @@
-58. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+58. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
 (2) A törvény 31. § (2) bekezdését először a 2004-ben szüretelt szőlőből készített borra kell alkalmazni.
 

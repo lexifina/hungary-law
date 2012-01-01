@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-18-00-00
 | 2010-12-31 | 2010. évi CLXVIII. törvény | 2004-18-00-00.15 |
 | 2011-01-01 | 2010. évi CLII. törvény | 2004-18-00-00.16 |
 | 2011-01-02 | 2010. évi CLXVIII. törvény | 2004-18-00-00.17 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2004-18-00-00.18 |

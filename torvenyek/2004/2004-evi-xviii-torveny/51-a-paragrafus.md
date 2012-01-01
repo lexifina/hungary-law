@@ -4,8 +4,8 @@
 
 (2) A mulasztási bírság mértéke legfeljebb ötszázezer forint összeg erejéig terjedhet.
 
-(3) A borászati hatóság a bírság kiszabása során figyelembe veszi a jogsértéssel érintett borászati termék mennyiségét, a mulasztás gyakoriságát. A borászati hatóság által kiszabott mulasztási bírság a borászati hatóság bevétele. A befolyt összeget a borászati hatóság csak a vizsgálati módszerek korszerűsítésére, a hatósági ellenőrzést elősegítő intézkedésekre használhatja fel.
+(3) A borászati hatóság a bírság kiszabása során figyelembe veszi a jogsértéssel érintett borászati termék mennyiségét, a mulasztás gyakoriságát.
 
 (4) A hegybíró a bírság kiszabása során figyelembe veszi a szolgáltatandó adatok körét és a jogsértés gyakoriságát. A hegybíró által kiszabott mulasztási bírság a hegyközség bevétele.
 
-(5) A mulasztási bírság adók módjára behajtandó köztartozásnak minősül.
+(5)
