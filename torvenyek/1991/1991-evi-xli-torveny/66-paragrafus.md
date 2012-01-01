@@ -2,7 +2,7 @@
 
 (2) Az önkormányzati szerv a felhívásban foglaltakat köteles megvizsgálni, és a megadott határidőn belül annak megfelelően az iránymutatást, a szervezeti és működési szabályzatot, továbbá a határozatot módosítani vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3) Ha az önkormányzati szerv a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetésére, a miniszter kérheti a vitatott iránymutatás, a szervezeti és működési szabályzat, illetőleg a határozat bírósági felülvizsgálatát. A pert az önkormányzati szerv ellen a megadott határidő lejártától számított 30 napon belül lehet megindítani és a Pp. általános szabályai szerint kell lefolytatni; a per a megyei (fővárosi) bíróság hatáskörébe tartozik.
+(3) Ha az önkormányzati szerv a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetésére, a miniszter kérheti a vitatott iránymutatás, a szervezeti és működési szabályzat, illetőleg a határozat bírósági felülvizsgálatát. A pert az önkormányzati szerv ellen a megadott határidő lejártától számított 30 napon belül lehet megindítani és a Pp. általános szabályai szerint kell lefolytatni; a per a törvényszék hatáskörébe tartozik.
 
 (4) A miniszter által indított perben fél lehet az az önkormányzati szerv is, amelynek egyébként nincs perbeli jogképessége.
 

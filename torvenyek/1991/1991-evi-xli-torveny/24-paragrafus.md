@@ -2,7 +2,7 @@
 
 a) a 22. § (1) bekezdés a), c) és d) pontjában meghatározott esetekben a közjegyzői szolgálat megszűnésének időpontjától kezdődően,
 
-b) a magyar állampolgárság vagy a választójog elvesztésének időpontjától kezdődően,
+b) a magyar állampolgárság elvesztésének időpontjától, vagy attól az időponttól kezdődően, amelytől az országgyűlési képviselők választásán nem választható,
 
 c) a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ítélet jogerőre emelkedésének napjától kezdődően,
 

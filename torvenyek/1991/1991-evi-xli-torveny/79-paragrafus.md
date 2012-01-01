@@ -1,1 +1,1 @@
-79. § A fegyelmi bíróság tagjai és a vizsgálóbiztosok működésük megkezdése előtt a megyei bíróság elnöke előtt esküt tesznek kötelességük lelkiismeretes és pártatlan teljesítésére.
+79. § A fegyelmi bíróság tagjai és a vizsgálóbiztosok működésük megkezdése előtt a törvényszék elnöke előtt a 21. § (2) bekezdés szerint esküt tesznek. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során az esküt tevő személyétől függően: fegyelmi bíró, vizsgálóbiztos.

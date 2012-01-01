@@ -1,6 +1,6 @@
 20. § (1) Közjegyzőt a beleegyezése nélkül nem lehet más székhelyre áthelyezni.
 
-(2) Az érintett egy vagy több területi kamara elnökségének javaslatára a miniszter a közjegyzőket — beleegyezésükkel — pályázat kiírása nélkül kölcsönösen áthelyezheti.
+(2) Az érintett egy vagy több területi kamara elnökségének javaslatára a miniszter a közjegyzőket – beleegyezésükkel – pályázat kiírása nélkül kölcsönösen áthelyezheti. Nincs helye kölcsönös áthelyezésnek a közjegyző kinevezését követő 3 éven belül és a közjegyzőre irányadó öregségi nyugdíjkorhatár betöltésének napját megelőző 5 éven belül.
 
 (3) Ha a közjegyzői álláshelyet a miniszter – a 18. §-ban foglaltak szerint – más székhelyre kinevezett közjegyző személyével tölti be, a közjegyzőt e székhelyre helyezi át.
 

@@ -2,4 +2,4 @@
 
 (2) Az elfogultságról a fegyelmi tanács határoz.
 
-(3) Ha a fegyelmi bíróság elfogultság vagy kizáró ok miatt határozatképtelenné válik, a Legfelsőbb Bíróság jelöli ki az eljáró fegyelmi tanácsot.
+(3) Ha a fegyelmi bíróság elfogultság vagy kizáró ok miatt határozatképtelenné válik, a Kúria jelöli ki az eljáró fegyelmi tanácsot.

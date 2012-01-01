@@ -4,7 +4,7 @@ a) magyar állampolgár,
 
 b)
 
-c) választójoggal rendelkezik,
+c) az országgyűlési képviselők választásán választható,
 
 d) egyetemi jogi végzettséggel rendelkezik,
 

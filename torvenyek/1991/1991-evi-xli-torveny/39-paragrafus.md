@@ -1,13 +1,13 @@
-39. § A Magyar Köztársaság területén 5 területi kamara működik:
+39. § Magyarország területén 5 területi kamara működik:
 
-a) a Budapesti Közjegyzői Kamara: a Fővárosi, a Komárom-Esztergom, a Nógrád és a Pest Megyei Bíróság,
+a) a Budapesti Közjegyzői Kamara: a Fővárosi, a Tatabányai, a Balassagyarmati és a Budapest Környéki Törvényszék,
 
-b) a Győri Közjegyzői Kamara: a Győr-Moson-Sopron, a Vas, a Veszprém és a Zala Megyei Bíróság,
+b) a Győri Közjegyzői Kamara: a Győri, a Szombathelyi, a Veszprémi és a Zalaegerszegi Törvényszék,
 
-c) a Miskolci Közjegyzői Kamara: a Borosd-Abaúj-Zemplén, a Hajdú-Bihar, a Heves és a Szabolcs-Szatmár-Bereg Megyei Bíróság,
+c) a Miskolci Közjegyzői Kamara: a Miskolci, a Debreceni, az Egri és a Nyíregyházi Törvényszék,
 
-d) a Pécsi Közjegyzői Kamara: a Baranya, a Fejér, a Somogy és a Tolna Megyei Bíróság,
+d) a Pécsi Közjegyzői Kamara: a Pécsi, a Székesfehérvári, a Kaposvári és a Szekszárdi Törvényszék,
 
-e) a Szegedi Közjegyzői Kamara: a Bács-Kiskun, a Békés, a Csongrád és a Jász-Nagykun-Szolnok Megyei Bíróság
+e) a Szegedi Közjegyzői Kamara: a Kecskeméti, a Gyulai, a Szegedi és a Szolnoki Törvényszék
 
 illetékességi területén.

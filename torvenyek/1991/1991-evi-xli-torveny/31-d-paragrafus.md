@@ -8,6 +8,6 @@ b) tagja megfelel a közjegyzői irodai tagságra e törvényben meghatározott 
 
 (3) A területi kamara elnöksége a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat – szükség esetén a helyszínen – ellenőrzi az alapító okiratban foglalt adatok valódiságát.
 
-(4) A közjegyzői iroda köteles az alapítási engedély kézhezvételétől számított 30 napon belül az iroda alapítását bejegyzés és közzététel végett bejelenteni a cégjegyzéket vezető megyei bíróságnak, mint cégbíróságnak; a közjegyzői iroda a cégjegyzékbe való bejegyzéssel, a bejegyzés napján jön létre.
+(4) A közjegyzői iroda köteles az alapítási engedély kézhezvételétől számított 30 napon belül az iroda alapítását bejegyzés és közzététel végett bejelenteni a cégjegyzéket vezető törvényszéknek, mint cégbíróságnak; a közjegyzői iroda a cégjegyzékbe való bejegyzéssel, a bejegyzés napján jön létre.
 
 (5) Ha a területi kamara elnöksége a hatósági ellenőrzés során megállapítja, hogy a közjegyzői iroda nem felel meg az e törvényben meghatározott alapítási engedély kiadása vagy a közjegyzői irodai tagság létesítése feltételeinek, az alapítási engedélyt, illetve a tagság létesítése iránti engedélyt visszavonja, és a cégbíróságnál kérelmezi a közjegyzői irodával szemben törvényességi felügyeleti eljárás lefolytatását.

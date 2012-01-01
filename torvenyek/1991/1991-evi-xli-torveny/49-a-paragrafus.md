@@ -72,7 +72,7 @@ g) a nyilvántartásból történő törlés időpontja.
 
 a) a közjegyzőnél fennálló munkaviszonya megszűnt,
 
-b) magyar állampolgárságát vagy választójogát elveszítette,
+b) magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 
 c) a jogi képesítéshez kötött foglalkozás gyakorlásától a bíróság jogerős ítélettel eltiltotta,
 

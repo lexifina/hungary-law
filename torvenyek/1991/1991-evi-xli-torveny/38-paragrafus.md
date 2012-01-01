@@ -4,4 +4,4 @@
 
 ## A területi közjegyzői kamara
 
-38. § A területi közjegyzői kamara köztestület, amelyet az ugyanazon területi kamara illetékességi területére kinevezett közjegyzők, illetve a kamarai névjegyzékbe bejegyzett közjegyzőhelyettesek és -jelöltek alkotnak.
+38. § A területi közjegyzői kamara köztestület, amelyet az ugyanazon területi kamara illetékességi területére kinevezett közjegyzők, illetve a kamarai névjegyzékbe bejegyzett közjegyzőhelyettesek és -jelöltek alkotnak. A területi közjegyzői kamarát a törvényszék nem veszi nyilvántartásba.
