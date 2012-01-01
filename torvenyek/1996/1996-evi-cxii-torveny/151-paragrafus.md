@@ -20,17 +20,13 @@ rögzített tőkekövetelményt,
 
 f) a kockázatvállalásra, a kockázatok megállapítására, elemzésére, értékelésére és behatárolására, a kockázatvállalás ellenőrzésére, a kockázatok kezelésére, továbbá csökkentésére vonatkozó szabályok valamelyikét megsérti,
 
-g) elmulasztja a közgyűlésnek a Felügyelet intézkedéseiről történő tájékoztatását, valamint, ha a hitelintézet
+g) elmulasztja a közgyűlésnek a Felügyelet intézkedéseiről történő tájékoztatását,
 
-1. az azonnali fizetőképesség, illetőleg a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat nem tartja be,
+h) ha fennáll annak veszélye, hogy a hitelintézet nem fogja betartani az azonnali fizetőképességre, a likviditás minimális szintjére vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat,
 
-2. nem tesz eleget tartalékképzési kötelezettségeinek,
+i) nem tesz eleget tartalékképzési kötelezettségének,
 
-h) nem teljesíti a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt kötelezettségét,
-
-i)
-
-j)
+j) nem teljesíti a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt kötelezettségét.
 
 k) ha a pénzügyi intézmény nem tesz eleget a 115. § (6) bekezdésében foglalt kötelezettségének.
 
@@ -68,7 +64,9 @@ k) az előírásoknak való meg nem felelés miatt a vele szemben alkalmazott fe
 
 l) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést, illetőleg bírságot megállapító határozat jogerőre emelkedését követő két éven belül – ismételten megsérti,
 
-m) a rá vonatkozó tőkemegfelelési előírásnak csak úgy tud megfelelni, hogy nem fizeti vissza lejáratkor a kiegészítő alárendelt kölcsönt.
+m) a rá vonatkozó tőkemegfelelési előírásnak csak úgy tud megfelelni, hogy nem fizeti vissza lejáratkor a kiegészítő alárendelt kölcsönt,
+
+n) ha a hitelintézet nem tartja be az azonnali fizetőképességre, a likviditás minimális szintjére vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat.
 
 (3) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak súlyos megsértése esetén meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
 

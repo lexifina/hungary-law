@@ -8,11 +8,13 @@
 
 (2) A hitelintézet az igazgatóság által jóváhagyott szabályzatban határozza meg a nyilvánosságra hozatali elveket. A szabályzatban meg kell határozni az információ ellenőrzésére, valamint a nyilvánosságra hozatal megfelelőségének értékelésére vonatkozó szabályokat is, illetve a nyilvánosságra hozatal gyakoriságát.
 
-(3) A hitelintézet a külön jogszabály szerinti nyilvánosságra hozatal követelményének teljesítése során
+(2a) A (2) bekezdés szerinti szabályzatban elveket kell meghatározni annak értékelésére is, hogy a nyilvánosságra hozott információk átfogóan beszámolnak-e a hitelintézet kockázati profiljáról. Ha az értékelés alapján nyilvánosságra hozott információk nem számolnak be átfogóan a kockázati profilról, a hitelintézet – a (3) bekezdésben meghatározott eltéréssel – köteles az ehhez szükséges információkat is nyilvánosságra hozni.
+
+(3) A hitelintézet az e törvény, valamint a külön jogszabály szerinti nyilvánosságra hozatali követelményének teljesítése során
 
 a) a nem lényeges információt, és
 
-b) védett vagy bizalmas információt
+b) a védett vagy bizalmas információt
 
 nem köteles nyilvánosságra hozni.
 

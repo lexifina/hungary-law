@@ -2,11 +2,11 @@
 
 a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
 
-b)
+b) a hitelintézet likviditásának minimális szintjére,
 
 c) az egységesített betéti kamatláb mutató számítására és közzétételére,
 
-d)
+d) a hitelintézet devizapozícióbeli lejárati összhangjára,
 
 e) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott pénzügyi szolgáltatási, illetőleg kiegészítő pénzügyi szolgáltatási tevékenységek folytatásához szükséges személyi és tárgyi feltételekre,
 
@@ -40,13 +40,13 @@ vonatkozó részletes szabályokat.
 
 a)
 
-b) a kintlevőségek, befektetések, a mérlegen kívüli tételek és a fedezetek minősítésének, illetőleg értékelésének szempontjaira,
+b) a kintlevőségek, a mérlegen kívüli tételek és a fedezetek minősítésének, illetőleg értékelésének szempontjaira,
 
 c)–e)
 
 f)–g)
 
-h) a közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
+h) a Felügyelet közvetítői hatósági képzéssel összefüggő feladataira vonatkozó szabályait, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
 
 i)
 
@@ -74,6 +74,14 @@ vonatkozó részletes szabályokat.
 
 a) a hitelintézetek befektetési szabályzatára,
 
-b) a belső ellenőrzési rendszerekre, eljárásokra
+b) a belső ellenőrzési rendszerekre, eljárásokra,
+
+c) közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire,
+
+d) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes pénzügyi szolgáltatások nyújtására vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire,
+
+e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére
 
 vonatkozó részletes szabályokat.
+
+(4) Felhatalmazást kap a Felügyelet elnöke, hogy a számviteli szabályozásért felelős miniszterrel egyetértésben a könyvvizsgálók által – a Felügyeletnek évente – a 136. § alapján készítendő külön kiegészítő jelentés szerkezetére és tartalmára vonatkozó részletes szabályokat rendeletben állapítsa meg.

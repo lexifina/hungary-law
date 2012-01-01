@@ -1,6 +1,6 @@
 2. § (1) E törvény rendelkezései nem terjednek ki:
 
-a) az 1. számú mellékletben felsorolt pénzügyi intézményeknek a Magyar Köztársaság területén folytatott tevékenységére;
+a) az 1. számú mellékletben felsorolt pénzügyi intézményeknek Magyarország területén folytatott tevékenységére;
 
 b) a betétnek nem minősülő, visszafizetendő pénzeszközöknek a Magyar Állam és a helyi önkormányzatok által a nyilvánosságtól történő – külön törvényben szabályozott – gyűjtésére;
 

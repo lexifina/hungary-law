@@ -6,7 +6,7 @@
 
 a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy;
 
-b) az MNB alelnöke,
+b) az MNB-nek az MNB elnöke által kijelölt alelnöke,
 
 c) a Felügyelet elnöke,
 

@@ -40,6 +40,8 @@ p) az MNB részére, írásbeli megkeresés alapján az MNB tv. 4. § (1)–(7) 
 
 q) a pénzügyi intézmény által a pénzügyi intézménnyel szerződéses kapcsolatban levő közvetítő részére a közvetítő által közvetített pénzügyi szolgáltatásra vonatkozó szerződés teljesítéséhez kapcsolódó adatszolgáltatás,
 
-r) Felügyelet által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek.
+r) Felügyelet által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
+
+s) a pénzügyi intézmény ügyfele által nyilvánosságra hozott állítással összefüggésben a pénzügyi intézmény részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés.
 
 (2)–(10)

@@ -8,7 +8,7 @@ c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követ
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
-a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az Áht. 120/B. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az Áht. 63. §-ában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 
 b) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 
@@ -28,11 +28,13 @@ i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítéséne
 
 j) bírósági végrehajtási eljárásban és a bírósági végrehajtó által lefolytatott közigazgatási végrehajtási eljárásban – ideértve az 1994. évi LIII. törvény 79/C. § (2) bekezdés alapján a közös számla nem adós tulajdonosának nevére és címére vonatkozó megkeresést is – eljáró végrehajtóval, valamint a bírósági végrehajtási eljárásba a lakáscélú állami támogatásokról szóló kormányrendelet alapján bekapcsolódni szándékozó kincstárral,
 
-k) a feladatkörében eljáró országgyűlési biztossal
+k) a feladatkörében eljáró alapvető jogok biztosával
 
 l) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerinti feladatkörében eljáró államháztartásért felelős miniszterrel, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel és az Európai Közösségeket létrehozó Szerződés 87. cikk (1) bekezdésének hatálya alá tartozó állami támogatások – az Európai Közösségeket létrehozó Szerződés I. mellékletében szereplő mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint külön jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáért felelős miniszterrel,
 
-m) lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző kincstárral
+m) lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző kincstárral,
+
+n) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
 
 szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.
 
@@ -40,7 +42,9 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 a) az adóhatóság és a Felügyelet nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, amennyiben a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
 
-b) a hitelintézet az adózás rendjéről szóló 2003. évi XCII. törvény 52. §-ának (8) bekezdése alapján szolgáltat adatot.
+b) a hitelintézet az adózás rendjéről szóló 2003. évi XCII. törvény 52. §-ának (8) bekezdése alapján szolgáltat adatot,
+
+c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot.
 
 (4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet vagy az MNB helyszíni ellenőrzést folytat.
 

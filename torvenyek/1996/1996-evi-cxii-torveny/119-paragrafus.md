@@ -20,6 +20,6 @@ a) az MNB-től, illetve
 
 b) hitelintézettől.
 
-(3) A Kormány az Alap által a 98. § (1) bekezdésének b) pontja szerinti kötelezettségei teljesítése érdekében felvett kölcsönre az Áht. 33. § (3) bekezdésére tekintettel készfizető kezességet vállal.
+(3) A Kormány az Alap által a 98. § (1) bekezdésének b) pontja szerinti kötelezettségei teljesítése érdekében felvett kölcsönre az Áht. 92. §-ára tekintettel készfizető kezességet vállal.
 
 (4)

@@ -223,3 +223,15 @@ e) a kereskedési könyv szerinti nyitva szállítás értékét a második szer
 28. A 13., 22. és a 25. pontban foglalt levonásokat követően fennmaradó szavatoló tőke alapvető és járulékos tőkerészeiből le kell vonni a 79. és 83. § szerinti limittúllépések összegét. A levonások során érvényesíteni kell a 24. pontban meghatározott korlátozásokat.
 
 29. A szavatoló tőke a 76. § (1) bekezdése a) pontjának 1. és 4. pontja és (2) bekezdése alkalmazásában a 28. pontban foglalt levonásokat követően fennmaradó szavatoló tőke.
+
+30. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére az alapvető és járulékos tőke mellett kiegészítő tőke is felhasználható. Alapvető és járulékos tőkerészként a 28. pontban foglalt levonások és a 76. § (1) bekezdése a) pontjának 1. és 4. alpontjában, a 76. § (2) bekezdésében és felügyeleti kivételes intézkedés keretében meghatározott tőkekövetelmény értékének tőkéből történő elkülönítése után fennmaradó összeg vehető figyelembe. A kiegészítő tőkét a kiegészítő alárendelt kölcsöntőke és a járulékos tőkének a 24. pontban meghatározott korlátozások miatt fel nem használható része alkotja.
+
+31. A törvény alkalmazásában kiegészítő alárendelt kölcsöntőkének minősül minden olyan alárendelt kölcsön, amely kielégíti a következő feltételeket:
+
+a) megfelel a 19. pont a), b), d), e) és f) alpontjában rögzített feltételeknek,
+
+b) eredeti futamideje legalább két év,
+
+c) a vonatkozó szerződés tartalmazza, hogy a lejáratkor vagy azt követően kizárólag akkor fizethető vissza, ha a kereskedési könyvet vezető intézmény megfelel a rá vonatkozó tőkekövetelményeknek.
+
+32. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére szolgáló szavatoló tőkében a kiegészítő alárendelt kölcsöntőke és a járulékos tőkeelemek csak olyan mértékben vehetők figyelembe, hogy azok együttes összege ne haladja meg az ugyanezen kockázatok fedezetére figyelembe vett alapvető tőkeelemek összegének 200%-át.

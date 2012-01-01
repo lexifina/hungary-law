@@ -1,6 +1,6 @@
 48. § A vezető állású személy, illetőleg a pénzügyi intézmény könyvvizsgálója haladéktalanul bejelenti a Felügyeletnek, ha
 
-a) fennáll a veszélye annak, hogy a pénzügyi intézmény nem tud eleget tenni a pénzügyi szolgáltatási tevékenységből származó kötelezettségeinek, nem tud megfelelni e törvény és a felhatalmazása alapján kiadott jogszabályok, valamint a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény (a továbbiakban: MNB tv.), a pénzforgalomról szóló jogszabályok, valamint a devizajogszabályok előírásainak,
+a) fennáll a veszélye annak, hogy a pénzügyi intézmény nem tud eleget tenni a pénzügyi szolgáltatási tevékenységből származó kötelezettségeinek, nem tud megfelelni e törvény és a felhatalmazása alapján kiadott jogszabályok, valamint a Magyar Nemzeti Bankról szóló törvény (a továbbiakban: MNB tv.), a pénzforgalomról szóló jogszabályok, valamint a devizajogszabályok előírásainak,
 
 b) a pénzügyi intézmény nem tud eleget tenni fizetési kötelezettségeinek, vagy
 

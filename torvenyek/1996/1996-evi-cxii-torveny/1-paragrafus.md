@@ -4,9 +4,9 @@
 
 1. § (1) Ha nemzetközi szerződés másként nem rendelkezik, e törvény rendelkezéseit kell alkalmazni:
 
-a) a Magyar Köztársaság területén végzett, e törvényben meghatározott pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységre, valamint betétbiztosításra,
+a) Magyarország területén végzett, e törvényben meghatározott pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységre, valamint betétbiztosításra,
 
-b) a Magyar Köztársaság területén székhellyel rendelkező hitelintézet által külföldön alapított hitelintézet, pénzügyi vállalkozás e törvényben meghatározott pénzügyi szolgáltatási, illetőleg kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységének c) pont szerinti felügyeletére,
+b) Magyarország területén székhellyel rendelkező hitelintézet által külföldön alapított hitelintézet, pénzügyi vállalkozás e törvényben meghatározott pénzügyi szolgáltatási, illetve kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységének c) pont szerinti felügyeletére,
 
 c) a magyar hatóság által ellátott – e törvényben meghatározott – felügyeleti tevékenységre,
 
@@ -20,16 +20,16 @@ g) az elismert külső hitelminősítő szervezet és exporthitel-ügynökség h
 
 (2) Ha nemzetközi szerződés másként nem rendelkezik, e törvény rendelkezéseit kell alkalmazni:
 
-a) a pénzügyi intézmények Magyar Köztársaság területén történő alapítására, létesítésére, működésére, pénzforgalmi intézmények pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási tevékenységének Magyar Köztársaság területén történő engedélyezésére,
+a) a pénzügyi intézmények Magyarország területén történő alapítására, létesítésére, működésére, pénzforgalmi intézmények pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási tevékenységének Magyarország területén történő engedélyezésére,
 
-b) a Magyar Köztársaság területén székhellyel rendelkező pénzügyi intézmény külföldi leányvállalatának, fióktelepének létesítésére, külföldi pénzügyi intézményben történő tulajdonszerzésére,
+b) Magyarország területén székhellyel rendelkező pénzügyi intézmény külföldi leányvállalatának, fióktelepének létesítésére, külföldi pénzügyi intézményben történő tulajdonszerzésére,
 
-c) a Magyar Köztársaság területén székhellyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény által külföldön létesített leányvállalat, fióktelep e törvényben meghatározott pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, illetve bankképviseleti tevékenységének (1) bekezdés c) pont szerinti felügyeletére,
+c) Magyarország területén székhellyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény által külföldön létesített leányvállalat, fióktelep e törvényben meghatározott pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, illetve bankképviseleti tevékenységének (1) bekezdés c) pont szerinti felügyeletére,
 
-d) a Magyar Köztársaság területén székhellyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény által külföldön nyújtott pénzügyi szolgáltatási, illetve kiegészítő pénzügyi szolgáltatási tevékenység (1) bekezdés c) pont szerinti felügyeletére,
+d) Magyarország területén székhellyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény által külföldön nyújtott pénzügyi szolgáltatási, illetve kiegészítő pénzügyi szolgáltatási tevékenység (1) bekezdés c) pont szerinti felügyeletére,
 
-e) a Magyar Köztársaság területén bankképviselet létesítésére, illetve működésére,
+e) Magyarország területén bankképviselet létesítésére, illetve működésére,
 
 f) az e törvényben meghatározott betétbiztosításra,
 
-g) a külföldön székhellyel rendelkező pénzügyi intézmény által a Magyar Köztársaság területén történő, határon átnyúló pénzügyi szolgáltatásra, illetve kiegészítő pénzügyi szolgáltatásnyújtásra.
+g) a külföldön székhellyel rendelkező pénzügyi intézmény által Magyarország területén történő, határon átnyúló pénzügyi szolgáltatásra, illetve kiegészítő pénzügyi szolgáltatásnyújtásra.

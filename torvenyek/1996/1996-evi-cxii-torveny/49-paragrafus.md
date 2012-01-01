@@ -22,7 +22,7 @@ e) Állami Számvevőszékkel,
 
 f) Gazdasági Versenyhivatallal,
 
-g) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 120/B. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel,
+g) az államháztartásról szóló 2011. évi CXCV. törvény 63. §-ában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel,
 
 h) vagyonellenőrrel
 

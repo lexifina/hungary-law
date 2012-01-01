@@ -64,6 +64,16 @@ c) megtilthatja, korlátozhatja vagy feltételhez kötheti
 
 6. az egyes pénzügyi szolgáltatási tevékenységek vagy kiegészítő pénzügyi szolgáltatási tevékenységek végzését,
 
-7. új fiókok megnyitását, új pénzügyi szolgáltatások megkezdését, valamint egy pénzügyi szolgáltatáson belül új tevékenység (új üzletág) megkezdését.
+7. új fiókok megnyitását, új pénzügyi szolgáltatások megkezdését, valamint egy pénzügyi szolgáltatáson belül új tevékenység (új üzletág) megkezdését;
+
+d) kötelezheti a hitelintézetet, hogy a javadalmazási politika hatálya alá tartozó személyek teljesítményjavadalmazása a nettó bevétel százalékában legyen meghatározva, ha a teljesítményjavadalmazás nincs összhangban a hitelintézet prudenciális követelményeknek való megfelelésével.
+
+(2a) A (2) bekezdés b) pont 9. alpontja szerinti többlettőke-követelmény mértékének meghatározásakor a Felügyeletnek figyelembe kell vennie:
+
+a) a hitelintézet belső tőkemegfelelés értékelési folyamatának [76/K. §] mennyiségi és minőségi szempontjait,
+
+b) a hitelintézet irányítási és kockázatkezelési rendszerének [13/D. §] megfelelőségét és
+
+c) a hitelintézetnél végrehajtott felügyeleti felülvizsgálat [145/A. §] eredményét.
 
 (3) Ha a fióktelep formájában működő hitelintézet eszköz fenntartási mutatója száz százalék alá csökken, a Felügyelet kötelezi a külföldi hitelintézetet, hogy harminc napon belül feleljen meg a fióktelep az eszköz fenntartási mutatóra vonatkozó előírásoknak.

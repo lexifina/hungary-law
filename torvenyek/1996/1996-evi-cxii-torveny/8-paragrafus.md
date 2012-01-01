@@ -12,7 +12,7 @@
 
 (2) A részvénytársasági formában működő pénzügyi intézményre, pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre és korlátolt felelősségű társaságként működő pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre a gazdasági társaságokra vonatkozó törvényi rendelkezéseket, a szövetkezeti formában működő pénzügyi intézményre, pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre a szövetkezetekre vonatkozó törvényi rendelkezéseket, az alapítványi formában működő pénzügyi vállalkozásra a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre, pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(3) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény, amelynek székhelye a Magyar Köztársaság területén található, a főirodáját is a Magyar Köztársaság területén létesíti.
+(3) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény, amelynek székhelye a Magyarország területén található, a főirodáját is Magyarország területén létesíti.
 
 (4) A pénzügyi szolgáltatás közvetítését – az (5) bekezdésben meghatározott eltéréssel – bármely jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó is végezheti.
 

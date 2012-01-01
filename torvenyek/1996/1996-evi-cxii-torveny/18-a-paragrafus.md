@@ -62,7 +62,7 @@ i) a kérelmezővel szoros kapcsolatban álló személy nyilatkozatát arról, h
 
 j) a tulajdonos teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
-(4) A pénzforgalmi szolgáltatási tevékenységre, illetve az elektronikuspénz-kibocsátásra jogosító engedély kiadásának feltételeként nyilatkozatot kell adni arról, hogy a pénzforgalmi, illetve elektronikuspénz-kibocsátó intézmény irányítása a Magyar Köztársaság területén létesített főirodában történik.
+(4) A pénzforgalmi szolgáltatási tevékenységre, illetve az elektronikuspénz-kibocsátásra jogosító engedély kiadásának feltételeként nyilatkozatot kell adni arról, hogy a pénzforgalmi, illetve elektronikuspénz-kibocsátó intézmény irányítása Magyarország területén létesített főirodában történik.
 
 (5) Ha a kérelmező az (1) bekezdés m) pontjában, illetve a (3) bekezdés c) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, a Felügyelet megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja a Felügyeletet.
 
