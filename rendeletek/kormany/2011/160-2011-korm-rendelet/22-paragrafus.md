@@ -1,0 +1,3 @@
+22. § (1) A vámhivatal a nem hatályos papír alapú tranzitengedély okmányt köteles bevonni és haladéktalanul visszaküldeni a Hatóság részére. A vállalkozás a fel nem használt papír alapú tranzit engedély okmányokat a Hatóság részére köteles visszaküldeni. A vállalkozás a felhasznált vagy a nem hatályos papír alapú globális és egyedi forgalmi engedély okmányok hiteles másolati példányát köteles megküldeni a Hatóság részére.
+
+(2) A behozatali vámhivatal a 6. melléklet II. pont 2. alpontja és a 8. melléklet II. pont 2. alpontja szerinti Szállítási Tanúsítvány másodpéldányát haladéktalanul köteles megküldeni a Hatóság részére.
