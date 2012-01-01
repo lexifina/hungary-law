@@ -12,7 +12,7 @@ vehető fel.
 
 (3)[^3] A Cstv. 27/C. § (2) bekezdésének b) pontjában foglaltakra tekintettel a felszámoló gazdasági társaságnak rendelkeznie kell legalább 70 millió forint biztosítékkal, amely – a felszámoló gazdasági társaság választása szerint –
 
-a) a fővárosi (megyei) bíróság gazdasági hivatalában letéti számlára befizetett pénzösszeg,
+a)[^4] a fővárosi (megyei) bíróság gazdasági hivatalában letéti számlára befizetett pénzösszeg,
 
 b) magyarországi székhelyű hitelintézetnél vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban letelepedett hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét),
 
@@ -30,8 +30,9 @@ lehet. A felszámoló gazdasági társaságnak a vagyoni biztosíték meglétét
 
 (4) A Cstv. 27/C. § (2) bekezdés c)–d) és f) pontjaiban előírt feltételek fennállásáról nyilatkozatot kell tenni.
 
-(5)[^4] A névjegyzékbe való felvétel feltétele annak igazolása is, hogy a felszámoló gazdasági társaság legalább két-két közgazdászt, jogi szakvizsgát tett jogászt, valamint a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót, továbbá a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyt foglalkoztat. Az említettek közül legalább egy-egy főnek (kivéve a könyvvizsgálót) munkaviszonyban vagy személyes közreműködésre is kötelezettséggel is járó tagsági jogviszonyban kell állnia a felszámoló gazdasági társasággal. E feltételek teljesítését a Cstv.-ben és a Melléklet b) pontjában meghatározott okiratokkal kell igazolni.
+(5)[^5] A névjegyzékbe való felvétel feltétele annak igazolása is, hogy a felszámoló gazdasági társaság legalább két-két közgazdászt, jogi szakvizsgát tett jogászt, valamint a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót, továbbá a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyt foglalkoztat. Az említettek közül legalább egy-egy főnek (kivéve a könyvvizsgálót) munkaviszonyban vagy személyes közreműködésre is kötelezettséggel is járó tagsági jogviszonyban kell állnia a felszámoló gazdasági társasággal. E feltételek teljesítését a Cstv.-ben és a Melléklet b) pontjában meghatározott okiratokkal kell igazolni.
 
 [^2]: A 2. § a 275/2009. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 275/2009. (XII. 3.) Korm. rendelet 6. § (6) bekezdése alapján a 2. § (3) bekezdése szerinti vagyoni biztosíték teljesítését legkésőbb 2010. október 1-jéig kell igazolni.
-[^4]: A 2. § (5) bekezdése a 275/2009. (XII. 3.) Korm. rendelet 6. § (4) és (5) bekezdése szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdés a) pontjának a 314/2011. (XII. 23.) Korm. rendelet 11. § a) pontjával elrendelt módosítása, amely szerint a „megyei (fővárosi) bíróság” szövegrész helyébe a „törvényszék” szöveg lép, nem vezethető át.
+[^5]: A 2. § (5) bekezdése a 275/2009. (XII. 3.) Korm. rendelet 6. § (4) és (5) bekezdése szerint módosított szöveg.

@@ -1,10 +1,10 @@
-## Melléklet a 114/2006. (V. 12.) Korm. rendelethez[^17]
+## Melléklet a 114/2006. (V. 12.) Korm. rendelethez[^22]
 
 ## A pályázati kérelemhez csatolni kell:
 
 ## a) a Cstv. 27/C. § (4) bekezdése szerinti azon adatokat igazoló okiratokat, amelyek a nyilvántartó szerv által a külön jogszabályok szerint nem ismerhetők meg,
 
-## b)[^18] a 2. § (5) bekezdésben, illetve a 3. § (5) bekezdés d) pontjában említett személyek iskolai végzettségét és szakképesítését igazoló okiratok másolatait, továbbá hatósági bizonyítványuk eredeti példányát (amely igazolja a büntetlen előéletet és azt, hogy nem állnak a felszámolói tevékenységben való közreműködést kizáró foglalkoztatás hatálya alatt), nyilatkozatot vagy igazolást arról, hogy az említetteket milyen jogviszonyban foglalkoztatja,
+## b)[^23] a 2. § (5) bekezdésben, illetve a 3. § (5) bekezdés d) pontjában említett személyek iskolai végzettségét és szakképesítését igazoló okiratok másolatait, továbbá hatósági bizonyítványuk eredeti példányát (amely igazolja a büntetlen előéletet és azt, hogy nem állnak a felszámolói tevékenységben való közreműködést kizáró foglalkoztatás hatálya alatt), nyilatkozatot vagy igazolást arról, hogy az említetteket milyen jogviszonyban foglalkoztatja,
 
 ## c) a pályázó nyilatkozatát arról, hogy a 2. § (5) bekezdésében említett személyeknek van-e és milyen időtartamú szakmai gyakorlatuk felszámolóbiztosként, vagyonfelügyelőként vagy reorganizációs, követeléskezelői, kockázatkezelési szakterületeken,
 
@@ -24,15 +24,15 @@
 
 ## i) a pályázó szakmai tevékenységének bemutatását,
 
-## j)[^19] nyilatkozatokat a Cstv. 27/C. § (1) bekezdésében, (2) bekezdésének e)–f) pontjában és (3) bekezdésében foglalt követelmények, illetve körülmények fennállásáról,
+## j)[^24] nyilatkozatokat a Cstv. 27/C. § (1) bekezdésében, (2) bekezdésének e)–f) pontjában és (3) bekezdésében foglalt követelmények, illetve körülmények fennállásáról,
 
 ## k) a Cstv. 27/C. § (2) bekezdésének e) pontjában említett hozzájáruló nyilatkozatokat.
 
-## A pályázónak meg kell jelölnie azt is, hogy a székhelyén kívül – a 2. § b) pont szerinti pályázó esetén pedig a magyarországi cégbejegyzése helyén kívül – melyik legközelebb eső további három megyei (vagy fővárosi) bíróság illetékességi területén kívánja elsősorban folytatni a Cstv. szerinti tevékenységét.
+## A pályázónak meg kell jelölnie azt is, hogy a székhelyén kívül – a 2. § b) pont szerinti pályázó esetén pedig a magyarországi cégbejegyzése helyén kívül – melyik legközelebb eső további három törvényszék illetékességi területén kívánja elsősorban folytatni a Cstv. szerinti tevékenységét.
 
-2. számú melléklet a 114/2006. (V. 12.) Korm. rendelethez[^20]
+2. számú melléklet a 114/2006. (V. 12.) Korm. rendelethez[^25]
 
-[^17]: Az 1. számú melléklet megjelölését Mellékletre változtatta és szövegét megállapította a 275/2009. (XII. 3.) Korm. rendelet 5. §-a.
-[^18]: A melléklet b) pontja a 275/2009. (XII. 3.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
-[^19]: A melléklet j) pontja a 275/2009. (XII. 3.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
-[^20]: A 2. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^22]: Az 1. számú melléklet megjelölését Mellékletre változtatta és szövegét megállapította a 275/2009. (XII. 3.) Korm. rendelet 5. §-a, szövege a 314/2011. (XII. 23.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
+[^23]: A melléklet b) pontja a 275/2009. (XII. 3.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^24]: A melléklet j) pontja a 275/2009. (XII. 3.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
+[^25]: A 2. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
