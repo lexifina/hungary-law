@@ -1,6 +1,6 @@
 7. § Az Alap vagyonát képező eszközökből származó bevételt
 
-a) a Nyugdíjbiztosítási Alap fejezetnek és a központi költségvetésnek a Magyar Köztársaság költségvetéséről szóló törvényben meghatározott előirányzata javára kell befizetni,
+a) a központi költségvetésről szóló törvényben meghatározott előirányzat javára kell a központi költségvetésbe befizetni,
 
 b) az államadósság csökkentésére kell fordítani,
 

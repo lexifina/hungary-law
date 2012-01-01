@@ -12,4 +12,4 @@ b) az értékesítési döntések végrehajtásában közreműködőnek, így k�
 
 (5) Az Alap működtetésében részt vevő személy a tudomására jutott minősített adatot, banktitkot, értékpapírtitkot és üzleti titkot megőrzi.
 
-(6) Az (1)–(5) bekezdésben az összeférhetetlenségre vonatkozó előírásokat az ÁKK és az általa igénybevett harmadik személy esetén is alkalmazni kell.
+(6)

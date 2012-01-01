@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-154-00-00
 | 2011-03-12 | 2011. évi XIII. törvény | 2010-154-00-00.2 |
 | 2011-05-15 | 2011. évi XLIII. törvény | 2010-154-00-00.3 |
 | 2011-06-10 | 2011. évi LVII. törvény | 2010-154-00-00.4 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2010-154-00-00.5 |
