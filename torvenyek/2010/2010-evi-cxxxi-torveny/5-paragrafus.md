@@ -32,6 +32,6 @@ f) a szervezet és intézmény alapításáról,
 
 szóló jogszabályok tervezeteit.
 
-(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés a Magyar Köztársaság különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi, természetvédelmi, környezetvédelmi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
+(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés Magyarország különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi, természetvédelmi, környezetvédelmi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
 
 (5) Nem kell társadalmi egyeztetésre bocsátani a jogszabály tervezetét, ha annak sürgős elfogadásához kiemelkedő közérdek fűződik.

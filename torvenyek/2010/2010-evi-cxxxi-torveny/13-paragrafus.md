@@ -10,7 +10,7 @@ b) egyházakkal,
 
 c) szakmai, tudományos szervezetekkel,
 
-d) országos kisebbségi önkormányzatokkal,
+d) országos nemzetiségi önkormányzatokkal,
 
 e) érdek-képviseleti szervezetekkel,
 
@@ -18,7 +18,7 @@ f) köztestületekkel, valamint
 
 g) a felsőoktatási intézmények képviselőivel.
 
-(3) Az együttműködés feltételeit és kereteit a stratégiai partner és a miniszter között határozott idejű, de legkésőbb a Kormány megbízatásának megszűnéséig tartó megállapodásban kell rögzíteni.
+(3) Az együttműködés feltételeit és kereteit a stratégiai partner és a miniszter között határozott idejű, de legkésőbb a miniszterelnök megbízatásának megszűnéséig tartó megállapodásban kell rögzíteni.
 
 (4) A megállapodásban rögzíteni kell különösen
 

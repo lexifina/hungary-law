@@ -8,4 +8,4 @@
 
 (2) E törvény rendelkezései nem érintik az egyéb jogszabályokban, illetve közjogi szervezetszabályozó eszközökben meghatározott véleményezési és egyeztetési jogosultságokat.
 
-(3) E törvény hatálya nem terjed ki a rendkívüli állapot, a szükségállapot, a veszélyhelyzet, a megelőző védelmi helyzet és az Alkotmány 19/E. §-a szerinti eset idején az Alkotmány szerint kiadható jogszabályok előkészítésére.
+(3) E törvény hatálya nem terjed ki a különleges jogrendben alkotható jogszabályok előkészítésére.
