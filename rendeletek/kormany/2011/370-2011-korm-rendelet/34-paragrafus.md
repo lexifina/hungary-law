@@ -1,0 +1,21 @@
+## 17. A megbízólevél
+
+34. § (1) A belső ellenőrt – ideértve a vizsgálatban részt vevő szakértőt is – megbízólevéllel kell ellátni, amelyet a belső ellenőrzési vezető ír alá. A belső ellenőrzési vezető megbízólevelét a költségvetési szerv vezetője írja alá.
+
+(2) A megbízólevél – e megnevezés mellett – az alábbiakat tartalmazza:
+
+a) az ellenőr nevét, regisztrációs számát, szolgálati igazolványának, illetve – amennyiben szolgálati igazolvánnyal nem rendelkezik – a személyazonosító igazolványának vagy más személyazonosításra alkalmas igazolványának számát;
+
+b) az ellenőrzött szerv, illetve szervezeti egység megnevezését;
+
+c) a 21. § (3) bekezdésében meghatározott ellenőrzés típusát, kivéve tanácsadó tevékenység esetén;
+
+d) az ellenőrzés tárgyát és célját;
+
+e) az ellenőrzésre vonatkozó jogszabályi vagy egyéb felhatalmazásra történő hivatkozást;
+
+f) a megbízólevél érvényességi idejét;
+
+g) a kiállítás keltét;
+
+h) a kiállításra jogosult aláírását, bélyegzőlenyomatát.

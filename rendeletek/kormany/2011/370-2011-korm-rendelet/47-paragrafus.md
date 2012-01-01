@@ -1,0 +1,3 @@
+47. § (1) A belső ellenőrzési vezető a 46. § (1) bekezdésében meghatározott tájékoztatás alapján éves bontásban nyilvántartást vezet, amellyel a belső ellenőrzési jelentésekben tett megállapításokat, javaslatokat, a vonatkozó intézkedési terveket és azok végrehajtását nyomon követi.
+
+(2) A (1) bekezdésben meghatározott nyilvántartásnak – az államháztartásért felelős miniszter által közzétett módszertani útmutató figyelembevétele mellett – tartalmaznia kell az ellenőrzési jelentésben szereplő javaslatot, az elfogadott intézkedési tervet, az intézkedési terv alapján végrehajtott intézkedések rövid leírását, és a végre nem hajtott intézkedések okát.
