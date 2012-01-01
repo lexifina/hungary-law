@@ -8,7 +8,7 @@
 
 (5) Ha a személyes adatok megsértése várhatóan hátrányosan érinti az előfizető vagy más magánszemély személyes adatait vagy magánéletét, akkor az elektronikus hírközlési szolgáltató erről az előfizetőt vagy magánszemélyt is indokolatlan késedelem nélkül köteles értesíteni. Nem kell az érintett előfizetőt vagy magánszemélyt értesíteni a személyes adataival való visszaélésről, ha az elektronikus hírközlési szolgáltató a Hatóságnak kielégítően igazolni tudja, hogy végrehajtotta a megfelelő technikai védelmi intézkedéseket, vagy, hogy ezen intézkedéseket alkalmazták a biztonság sérelmével érintett adatok tekintetében. Az ilyen technológiai védelmi intézkedéseknek értelmezhetetlenné kell tenniük az adatokat az azokhoz való hozzáféréshez engedéllyel nem rendelkező személyek számára.
 
-(6) Az érintett előfizetők vagy magánszemélyek értesítésére irányuló szolgáltatói kötelezettség sérelme nélkül – amennyiben a szolgáltató még nem értesítette az előfizetőt vagy magánszemélyt a személyes adatok megsértéséről – a Hatóság, az Adatvédelmi Biztos véleményének kikérését követően, kötelezheti erre, miután megfontolta a biztonság megsértésének várható hátrányos hatásait.
+(6) Az érintett előfizetők vagy magánszemélyek értesítésére irányuló szolgáltatói kötelezettség sérelme nélkül – amennyiben a szolgáltató még nem értesítette az előfizetőt vagy magánszemélyt a személyes adatok megsértéséről – a Hatóság, a Nemzeti Adatvédelmi és Információszabadság Hatóság véleményének kikérését követően, kötelezheti erre, miután megfontolta a biztonság megsértésének várható hátrányos hatásait.
 
 (7) Az előfizetőnek vagy magánszemélynek szóló értesítés tartalmazza legalább a személyes adatok megsértésének jellegét és azokat az információs pontokat, ahol az előfizető további felvilágosítást kaphat, továbbá intézkedéseket javasol a személyes adatok megsértése lehetséges hátrányos hatásainak enyhítésére. A Hatósághoz intézett értesítés ezen túlmenően leírja a személyes adatok megsértésének következményeit, és az annak orvoslására az elektronikus hírközlési szolgáltató által javasolt, vagy megtett intézkedéseket.
 
@@ -24,10 +24,10 @@
 
 (13) Amennyiben valamely értéknövelt szolgáltatás nyújtásához a forgalmi adatokon kívüli helymeghatározási adatok szükségesek, a szolgáltató köteles a felhasználót, és előfizetőt tájékoztatni ezen adatok típusáról, az adatfeldolgozás céljáról, időtartamáról, továbbá arról, hogy az adatokat szükséges-e harmadik fél számára továbbítani.
 
-(14) A felhasználóval, előfizetővel kapcsolatos forgalmi adatokon kívüli helymeghatározási adatokat – a 159. §-ba foglalt adatfeldolgozás kivételével – az elektronikus hírközlési szolgáltató kizárólag a felhasználó vagy az előfizető hozzájárulása esetén dolgozhatja fel és csak olyan mértékben és időtartamig, amely szükséges az értéknövelt szolgáltatás nyújtásához.
+(14) A felhasználóval, előfizetővel kapcsolatos forgalmi adatokon kívüli helymeghatározási adatokat – a 158. §-ban foglalt adatfeldolgozás kivételével – az elektronikus hírközlési szolgáltató kizárólag a felhasználó vagy az előfizető hozzájárulása esetén dolgozhatja fel és csak olyan mértékben és időtartamig, amely szükséges az értéknövelt szolgáltatás nyújtásához.
 
 (15) A felhasználó, és az előfizető a (14) bekezdésben foglalt hozzájárulását bármikor visszavonhatja.
 
 (16) Az elektronikus hírközlési szolgáltató az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, kérelmükre köteles megállapítani és részükre továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
 
-(17) A személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) 3. § (8) bekezdése szerinti esetben, az adatok megismerésére külön törvényben felhatalmazott szerv kérelmére az elektronikus hírközlési szolgáltató köteles megállapítani és részére továbbítani a felhasználóval, és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
+(17)

@@ -1,5 +1,1 @@
-150/A. § (1) A 10. § (1) bekezdés m) pontjától eltérve, az ügyfélszolgálattal, az előfizetői számlapanaszok elektronikus hírközlési szolgáltató általi intézésének rendjével kezelésével, a számla tartalmával kapcsolatban e törvényben vagy az e törvény végrehajtására kibocsátott jogszabályban meghatározott rendelkezések fogyasztókkal szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló törvényt kell alkalmazni.
-
-(2) A 10. § (1) bekezdés m) pontjától eltérve, az e törvényben vagy az e törvény végrehajtására kibocsátott jogszabályban az előfizetők elektronikus hírközlési szolgáltató általi tájékoztatására vonatkozóan előírt követelmények – az egyedi előfizetői szerződés és az általános szerződési feltételek tartalmára vonatkozó követelményeket ide nem értve – fogyasztókkal szembeni megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jár el az ott meghatározott szabályok szerint.
-
-(3) Az (1) és a (2) bekezdés szerinti e törvényben vagy az e törvény végrehajtására kibocsátott jogszabályban meghatározott szabályok a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+150/A. §

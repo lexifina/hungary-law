@@ -1,6 +1,6 @@
 ## A Hivatal döntése elleni jogorvoslat
 
-44. § (1) A Hivatal által hozott elsőfokú hatósági döntése ellen az ügyfél az Elnökhöz fellebbezhet, kivéve azon döntéseket, amelyek ellen a Ket. vagy e törvény alapján nincs helye fellebbezésnek.
+44. § (1) A Hivatal által hozott elsőfokú hatósági döntés ellen az ügyfél az Elnökhöz fellebbezhet, kivéve azon döntéseket, amelyek ellen a Ket. vagy e törvény alapján nincs helye fellebbezésnek.
 
 (2) A Hivatal elsőfokú határozata ellen kizárólag azon – az eljárásról szabályszerűen értesített – ügyfél élhet fellebbezési kérelemmel, aki az elsőfokú eljárásban részt vett.
 
@@ -8,6 +8,6 @@
 
 (4) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
 
-(5) A bírósági felülvizsgálati eljárásra a Fővárosi Bíróság kizárólagosan illetékes.
+(5) A bírósági felülvizsgálati eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
 
-(6) A KFGH határozata ellen nincs helye fellebbezésnek. Akinek jogát vagy jogos érdekét a KFGH-nak az ügy érdemében hozott határozata sérti, keresettel kérheti a Fővárosi Bíróságtól annak felülvizsgálatát. A bírósági felülvizsgálattal kapcsolatban, egyebekben a 45–46. §-ban foglaltak megfelelően irányadók.
+(6) A KFGH határozata ellen nincs helye fellebbezésnek. Akinek jogát vagy jogos érdekét a KFGH-nak az ügy érdemében hozott határozata sérti, keresettel kérheti a Fővárosi Törvényszéktől annak felülvizsgálatát. A bírósági felülvizsgálattal kapcsolatban, egyebekben a 45–46. §-ban foglaltak megfelelően irányadók.

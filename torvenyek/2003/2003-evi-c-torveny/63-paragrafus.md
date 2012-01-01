@@ -1,6 +1,6 @@
 63. § (1) Az Elnök az azonosított jelentős piaci erővel rendelkező szolgáltatóra az azon a piacon, amelyen a szolgáltató jelentős piaci erővel rendelkezik, a piacelemzés által feltárt, versenyt korlátozó akadályok által indokolt, azokkal arányos mértékű kötelezettséget vagy kötelezettségeket ír elő a XI–XIV. fejezetben meghatározott kötelezettségfajták közül, vagy hatályában fenntartja, illetve módosítja a jelentős piaci erővel rendelkező szolgáltatóra korábban megállapított kötelezettséget.
 
-(2) Az Európai Bizottság határozatában megállapított, a Magyar Köztársaság földrajzi területét is érintő, az Európai Gazdasági Térség tagállamai közötti piac esetében az Elnök a kötelezettségek előírását, hatályban tartását, módosítását vagy hatályon kívül helyezését az Európai Gazdasági Térség érintett tagállamának elektronikus hírközlési szabályozó hatóságával együttműködve végzi el.
+(2) Az Európai Bizottság határozatában megállapított, Magyarország területét is érintő, az Európai Gazdasági Térség tagállamai közötti piac esetében az Elnök a kötelezettségek előírását, hatályban tartását, módosítását vagy hatályon kívül helyezését az Európai Gazdasági Térség érintett tagállamának elektronikus hírközlési szabályozó hatóságával együttműködve végzi el.
 
 (3) Amennyiben valamely jelentős piaci erejű szolgáltató esetében jogutódlás következik be, a szolgáltató kérelmére az Elnök hatósági szerződés keretében rendezheti, hogy a jogutód szolgáltatót vagy szolgáltatókat a jogelőd szolgáltatókat terhelő kötelezettségek közül melyik milyen tartalommal terheli.
 

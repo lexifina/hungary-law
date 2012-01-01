@@ -10,6 +10,6 @@
 
 (4a) Az előfizetői szerződés időtartama a felek megállapodása szerint lehet határozatlan vagy határozott.
 
-(4b) A határozott időtartamú előfizetői szerződés legfeljebb 24 hónapra köthető meg azzal, hogy a szerződés megkötését megelőzően fel kell ajánlani a 12 hónapig tartó, valamint a határozatlan időtartalmú előfizetői szerződés megkötésének lehetőségét, és bemutatni azok részletes feltételeit.
+(4b) A határozott időtartamú előfizetői szerződés legfeljebb 24 hónapra köthető meg azzal, hogy a szerződés megkötését megelőzően fel kell ajánlani a 12 hónapig tartó, valamint a határozatlan időtartamú előfizetői szerződés megkötésének lehetőségét, és bemutatni azok részletes feltételeit.
 
 (5) Az előfizetői szerződésnek az előfizetők és felhasználók védelmével, a díjazás hitelességével, a felek jogaival és kötelezettségeivel összefüggő további feltételeit az Elnök rendeletben állapítja meg.

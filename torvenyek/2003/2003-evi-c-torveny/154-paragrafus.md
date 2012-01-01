@@ -12,4 +12,4 @@
 
 (6) Az elektronikus hírközlési szolgáltatás nyújtása nem tehető függővé az igénybevevőnek valamely e § (1)–(3) bekezdésében nem említett célból történő adatkezeléshez való hozzájárulásától.
 
-(7) A személyes adatok védelméről szóló törvényben meghatározott tájékoztatáson kívül a szolgáltatónak biztosítania kell, hogy a felhasználó az elektronikus hírközlési szolgáltatás igénybevétele előtt és az igénybevétel során bármikor megismerhesse, hogy a szolgáltató mely adatkezelési célokból milyen személyes adatokat kezel.
+(7) Az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott tájékoztatáson kívül a szolgáltatónak biztosítania kell, hogy a felhasználó az elektronikus hírközlési szolgáltatás igénybevétele előtt és az igénybevétel során bármikor megismerhesse, hogy a szolgáltató mely adatkezelési célokból milyen személyes adatokat kezel.

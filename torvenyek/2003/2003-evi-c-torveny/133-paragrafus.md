@@ -12,6 +12,6 @@ c) az új szolgáltató általános szerződési feltételei a régi szolgáltat
 
 d) a régi szolgáltató az alanyváltozásról a 132. § (4) bekezdése szerint értesíti az érintett előfizetőket;
 
-e) az új szolgáltató a módosított általános szerződési feltételeit a 130. § (2a) bekezdése szerint megküldi a Hatóságnak;
+e) az új szolgáltató a módosított általános szerződési feltételeit a 130. § (3) bekezdése szerint megküldi a Hatóságnak;
 
 f) mind a régi mind az új szolgáltató eleget tesz bejelentési kötelezettségének a 76. §-a szerint.

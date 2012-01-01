@@ -8,7 +8,7 @@
 
 ## Jogosultság elektronikus hírközlési szolgáltatás nyújtására
 
-74. § (1) A Magyar Köztársaság területén elektronikus hírközlő hálózatot üzemeltetni, valamint elektronikus hírközlő hálózaton szolgáltatást nyújtani bármely természetes, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező szervezet az e törvényben, illetve külön jogszabályban meghatározott feltételek teljesítése esetén jogosult.
+74. § (1) Magyarország területén elektronikus hírközlő hálózatot üzemeltetni, valamint elektronikus hírközlő hálózaton szolgáltatást nyújtani bármely természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet az e törvényben, illetve külön jogszabályban meghatározott feltételek teljesítése esetén jogosult.
 
 (2) Az elektronikus hírközlési szolgáltató jogosult arra, hogy elektronikus hírközlő hálózatot üzemeltessen, elektronikus hírközlő hálózaton elektronikus hírközlési szolgáltatást nyújtson, továbbá, hogy kérelmet nyújtson be a Hatósághoz rádiófrekvenciák és azonosítók használatára vonatkozó egyedi engedély, illetve elektronikus hírközlési építmények építésére vonatkozó jogosultság megszerzése érdekében.
 

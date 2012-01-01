@@ -1,4 +1,4 @@
-2. § A törvény céljai és alapelvei:
+2. § E törvény céljai és alapelvei:
 
 a) az információs társadalom elektronikus hírközlési infrastruktúrájának fejlesztését és az információs társadalommal összefüggő szolgáltatások, végberendezések és új technológiák elterjedését elősegítő kiszámítható, átlátható, az alkalmazott technológiától független, versenyt, azokon a területeken ahol lehetséges, az infrastruktúra alapú versenyt segítő szabályozás megteremtése;
 
@@ -42,7 +42,7 @@ m) a rádiófrekvenciákkal és azonosítókkal való hatékony gazdálkodás;
 
 n) a rádiófrekvenciák káros zavarástól mentes felhasználásának elősegítése;
 
-o) az elektronikus hírközlési szolgáltatásoknak a Magyar Köztársaság nemzetközi szerződéseivel összhangban levő szabad forgalmának biztosítása és a Magyar Köztársaság nemzetközi kötelezettségeinek teljesítése, ideértve a határokon átnyúló szolgáltatások biztosítását az elérhető legalacsonyabb áron;
+o) az elektronikus hírközlési szolgáltatásoknak Magyarország nemzetközi szerződéseivel összhangban levő szabad forgalmának biztosítása és Magyarország nemzetközi kötelezettségeinek teljesítése, ideértve a határokon átnyúló szolgáltatások biztosítását az elérhető legalacsonyabb áron;
 
 p) a magyar elektronikus hírközlési piacok integrációja az Európai Közösség egységesülő elektronikus hírközlési piacaiba, különös tekintettel a transz-európai hálózatok létrehozására és fejlesztésére, valamint az összeurópai szolgáltatások együttműködési képességének, valamint a végponttól végpontig történő kapcsolatépítések ösztönzésére;
 

@@ -1,4 +1,4 @@
-140. § (1) A szolgáltató a nyilvános elektronikus hírközlő hálózaton elérhető ügyfélszolgálat elérését köteles a megfizetendő, legalacsonyabb díjú hívás díjánál nem magasabb díjazású hívhatósággal is biztosítani. E szabályt a belföldi hálózatból indított hívásokra kell alkalmazni.
+140. § (1) A szolgáltató a nyilvános elektronikus hírközlő hálózaton elérhető ügyfélszolgálat elérését köteles a megfizetendő, legalacsonyabb díjú hívás díjánál nem magasabb díjazású hívhatósággal is biztosítani. E szabályt a belföldi hálózatokból indított hívásokra kell alkalmazni.
 
 (2) Az előfizetői hozzáférést nyújtó szolgáltató a műszaki szolgáltatási feltételek megléte esetén saját hálózatából díjmentesen köteles biztosítani ügyfélszolgálatának elérhetőségét.
 

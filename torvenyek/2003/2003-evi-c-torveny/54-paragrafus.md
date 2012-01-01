@@ -4,7 +4,7 @@
 
 (2) A Hatóság piacfelügyeleti tevékenysége során figyelemmel kíséri az elektronikus hírközlési piac működését, az arra vonatkozó elektronikus hírközlési szabályokban, valamint az előfizetői szerződésben foglaltak érvényesülését és arról – nem hatósági hatáskörben – elemzést, értékelést készít.
 
-(3) A Hatóság az előző év piacfelügyeleti tapasztalatainak figyelembevételével – az Elnök és a Hivatal piacfelügyeleti tervét egységesen tartalmazó – éves piacfelügyeleti tervet készít a tárgyévet megelőző év december 1-jéig, és azt tizenöt napon belül az internetes oldalán közzéteszi. A piacfelügyeleti tervet az Elnök hagyja jóvá. A terv az első félév tapasztalatai alapján a félév végén felülvizsgálható, és amennyiben szükséges, az Elnök jóváhagyásával módosítható. A módosított piacfelügyeleti tervet a Hatóság a módosítás jóváhagyásától számított tizenöt napon belül internetes oldalán közzéteszi.
+(3)
 
 (4) A piacfelügyeleti eljárás hivatalból indul.
 

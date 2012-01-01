@@ -24,6 +24,6 @@ k) az előfizető jogszabályban meghatározott nyilatkozatai megadásának, a n
 
 l) az Elnök által rendeletben meghatározott további fejezetek.
 
-(2) A Hatóság az általános szerződési feltételeknek az elektronikus hírközlésre vonatkozó szabályoknak való megfelelőségét a piacfelügyelet keretében rendszeresen vizsgálja.
+(2) A Hatóság az általános szerződési feltételeknek az elektronikus hírközlésre vonatkozó szabályoknak való megfelelőségét rendszeresen vizsgálja.
 
 (3) A szolgáltatók általános szerződési feltételeire vonatkozó részletes szabályokat az Elnök rendeletben állapítja meg.

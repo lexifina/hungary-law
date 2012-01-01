@@ -1,6 +1,6 @@
 158. § (1) Az elektronikus hírközlési szolgáltatók a díjfizetési, illetőleg a szerződésből eredő egyéb kötelezettségek kijátszásának megelőzése, illetve a 118. § (4) bekezdésében meghatározott feltételek fennállása esetén a szerződéskötés megtagadásának céljából jogosultak a 157. § szerint jogszerűen kezelhető adatok köréből az előfizető azonosításához szükséges adatokat, valamint az adatátadásnak a (3) bekezdés szerinti indokáról szóló tájékoztatást másik elektronikus hírközlési szolgáltatónak átadni vagy attól átvenni, illetőleg – azzal az adattartalommal – közös adatállományt létrehozni.
 
-(2) A szolgáltató az (1) bekezdésben meghatározott célból csak a 129. § (6) bekezdésének b)–f) pontjában foglalt előfizetői adatokat adhatja tovább.
+(2) A szolgáltató az (1) bekezdésben meghatározott célból csak a 129. § (5) bekezdés a), c), illetve f) pontjában foglalt előfizetői adatokat adhatja tovább.
 
 (3) Az előfizető adatai a 118. § (4) bekezdés szerinti feltételek fennállása esetén, illetőleg abban az esetben adhatók át, illetve kerülhetnek be a közös adatállományba, ha
 

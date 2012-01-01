@@ -10,7 +10,7 @@ a) elektronikus hírközlésre vonatkozó szabályban, a szolgáltató bejelent�
 
 b) a szabálytalanul forgalomba hozott, forgalmazott elektronikus hírközlő berendezés minden darabja után a nettó beszerzési érték ötszöröse;
 
-c) szabálytalan vagy jogszerűtlen, engedély nélküli rádiófrekvencia-, illetve azonosítóhasználat esetén a jogsértő árbevételének 1%-a;
+c) szabálytalan vagy jogszerűtlen, engedély nélküli rádiófrekvencia-, illetve azonosítóhasználat esetén, valamint a hatósági intézkedés keretében lepecsételt eszközről, berendezésről a pecsét engedély nélküli eltávolítása vagy a pecsét megkerülésével a lepecsételt eszköz, berendezés újra üzembe helyezése esetén a jogsértő árbevételének 1%-a;
 
 d) a jelentős piaci erővel rendelkező szolgáltató számára határozatban megállapított kötelezettség teljesítésének elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén a jogsértő árbevételének 0,5%-a;
 

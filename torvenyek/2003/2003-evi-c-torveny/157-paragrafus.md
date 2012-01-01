@@ -4,7 +4,7 @@
 
 (2) Az elektronikus hírközlési szolgáltató az előfizetők és a felhasználók részére történő számlázás és a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése céljából a következő adatokat kezelheti:
 
-a) a 129. § (6) bekezdés b)–d) pontjában foglalt adatok;
+a) a 129. § (5) bekezdés a) pontjában foglalt adatok;
 
 b) az előfizetői állomás száma vagy egyéb azonosítója;
 
@@ -54,6 +54,6 @@ b) a számlázási és forgalmazási jogviták rendezésére jogszabály alapjá
 
 c) a bírósági végrehajtásról szóló törvény előírásai szerint a végrehajtónak;
 
-d) az Avtv. 3. § (8) bekezdése szerinti esetben az adatok megismerésére külön törvényben felhatalmazott szerv kérelme alapján a felhatalmazott szerv részére.
+d) ha az érintett elháríthatatlan okból nem képes hozzájárulását megadni, az érintett vagy más személy létfontosságú érdekeinek védelme, vagy a személyek életét, testi épségét vagy javait fenyegető veszély elhárítása vagy megelőzése érdekében, az adatok megismerésére külön törvényben felhatalmazott szerv kérelme alapján a felhatalmazott szerv részére.
 
 (10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.

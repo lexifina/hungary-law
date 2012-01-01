@@ -2,7 +2,7 @@
 
 (2) A rádióberendezést úgy kell kialakítani, hogy az – a káros zavarás elkerülése mellett – hatékonyan használja a földfelszíni rádiótávközlésre és űrtávközlésre felosztott rádióspektrumot, illetőleg műholdas pályákat.
 
-(3) Egyes, a miniszter rendeletében meghatározott osztályokba tartozó rádióberendezések, illetve elektronikus hírközlő végberendezések forgalmazására – az Európai Bizottság határozatát átültető jogszabályi rendelkezés alapján – az alábbiakban felsorolt további egy vagy több követelményt is alkalmazni kell. E követelmények szerint az adott berendezésnek alkalmasnak kell lennie:
+(3) Egyes, az Elnök rendeletében meghatározott osztályokba tartozó rádióberendezések, illetve elektronikus hírközlő végberendezések forgalmazására – az Európai Bizottság határozatát átültető jogszabályi rendelkezés alapján – az alábbiakban felsorolt további egy vagy több követelményt is alkalmazni kell. E követelmények szerint az adott berendezésnek alkalmasnak kell lennie:
 
 a) elektronikus hírközlő hálózatokon keresztül más készülékekkel történő együttműködésre és megfelelő típusú interfészekhez való csatlakoztatásra az Európai Gazdasági Térség tagállamaiban;
 
@@ -16,6 +16,6 @@ e) a segélyszolgálatok elérésére;
 
 f) a fogyatékos személyek általi használatra.
 
-(4) A rádióberendezés és elektronikus hírközlő végberendezés alapvető követelményeknek való megfelelését a miniszter rendeletében meghatározottak szerint – megfelelőség értékelési eljárás alapján tett – megfelelőségi nyilatkozatban kell igazolni.
+(4) A rádióberendezés és elektronikus hírközlő végberendezés alapvető követelményeknek való megfelelését az Elnök rendeletében meghatározottak szerint – megfelelőség értékelési eljárás alapján tett – megfelelőségi nyilatkozatban kell igazolni.
 
-(5) A megfelelőségi nyilatkozat, valamint a megfelelőség értékelési eljárás során keletkezett, illetőleg előírt dokumentumok (így különösen műszaki dokumentáció, kijelölt tanúsító szerv megfelelőségi tanúsítványa) meglétét, valamint az alapvető követelményeknek való megfelelést a Hatóság piacfelügyeleti eljárás keretében ellenőrzi.
+(5) A megfelelőségi nyilatkozat, valamint a megfelelőség értékelési eljárás során keletkezett, illetőleg előírt dokumentumok (így különösen műszaki dokumentáció, kijelölt tanúsító szerv megfelelőségi tanúsítványa) meglétét, valamint az alapvető követelményeknek való megfelelést a Hatóság ellenőrzi.

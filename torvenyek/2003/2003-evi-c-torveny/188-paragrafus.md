@@ -18,7 +18,7 @@
 
 6. Barangolás mobil rádiótávközlő hálózaton: mobil rádiótelefon hálózat üzemeltetőjének előfizetője által más mobil rádiótelefon szolgáltató vagy üzemeltető hálózatának igénybevétele oly módon, hogy az előfizető a részére előfizetői hozzáférést nyújtó elektronikus hírközlési szolgáltató hálózatában használt alap-, illetve a műszaki lehetőségek figyelembevételével további szolgáltatásokat és hívási módokat részben vagy egészben az igénybe vett hálózaton is használni tudja, anélkül, hogy ezen szolgáltató előfizetőjévé válna.
 
-6/A. Belföldi forgalomba hozatal: a Magyar Köztársaságban első alkalommal történő forgalmazás.
+6/A. Belföldi forgalomba hozatal: Magyarországon első alkalommal történő forgalmazás.
 
 7. Belföldi hívás: minden olyan hívás, amelyet belföldön kezdeményeznek, és belföldön végződik.
 
@@ -28,7 +28,7 @@
 
 10. Egyéni előfizető: az a természetes személy előfizető, aki úgy nyilatkozott, hogy gazdasági tevékenységi körén kívül veszi igénybe az előfizetői szolgáltatást.
 
-11. Egyetemes elektronikus hírközlési szolgáltatás: az e törvényben meghatározott azon elektronikus hírközlési szolgáltatások, amelyek meghatározott minőségben, a Magyar Köztársaság területén bárhol, minden felhasználó számára megfizethető ár ellenében igénybe vehetők.
+11. Egyetemes elektronikus hírközlési szolgáltatás: az e törvényben meghatározott azon elektronikus hírközlési szolgáltatások, amelyek meghatározott minőségben, Magyarország területén bárhol, minden felhasználó számára megfizethető ár ellenében igénybe vehetők.
 
 12. Elektronikus hírközlési építmény: elektronikus hírközlési nyomvonalas és nyomvonal jellegű létesítmények és egyéb műtárgyak; az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – burkoló, tartó, védő, jelző stb. – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat.
 
@@ -286,7 +286,7 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 
 109. Üzleti titok: a Ptk. 81. §-a szerinti üzleti titok.
 
-110. Vállalkozás: Az a természetes és a jogi személy, valamint a jogi személyiség nélküli gazdasági társaság – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is – amelynek a Magyar Köztársaság területén tanúsított, vagy hatásaiban itt érvényesülő piaci magatartása részben vagy egészben a Magyar Köztársaság területén nyújtott elektronikus hírközlési szolgáltatáshoz kapcsolódik.
+110. Vállalkozás: Az a természetes és a jogi személy, valamint a jogi személyiség nélküli gazdasági társaság – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is – amelynek Magyarország területén tanúsított, vagy hatásaiban itt érvényesülő piaci magatartása részben vagy egészben Magyarország területén nyújtott elektronikus hírközlési szolgáltatáshoz kapcsolódik.
 
 110/a. Végfelhasználó: olyan felhasználó, aki az adott hálózati hozzáférési pontot saját érdekkörében használja, és azon nem nyújt nyilvánosan elérhető elektronikus hírközlési szolgáltatást.
 

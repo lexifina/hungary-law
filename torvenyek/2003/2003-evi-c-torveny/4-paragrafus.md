@@ -26,6 +26,8 @@ g) meghatározza az elektronikus hírközlés biztonságának alapelveit, minős
 
 h) meghatározza az elektronikus hírközlés területén a nemzetbiztonsági érdekek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat;
 
-i) ellátja az elektronikus hírközléssel összefüggő, jogszabályban meghatározott további feladatokat.
+i) biztosítja a különleges jogrend idején a lakosság riasztásának rendszerét;
+
+j) ellátja az elektronikus hírközléssel összefüggő, jogszabályban meghatározott további feladatokat.
 
 (2) A Kormány az elektronikus hírközlési piacot szabályozó jogszabályainak tervezetével kapcsolatban egyeztet az érdekeltekkel.

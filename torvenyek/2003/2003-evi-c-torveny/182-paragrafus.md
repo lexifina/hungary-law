@@ -22,7 +22,7 @@ b) az egyetemes szolgáltatással kapcsolatos díjcsomagokra vonatkozó szabály
 
 c) a védelmi feladatokban részt vevő elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
 
-d) piacmeghatározás, piacelemzés, a jelentős piaci erővel rendelkező szolgáltatók kijelölése és a rájuk vonatkozó kötelezettségek előírása során alkalmazandó alapelveket;
+d)
 
 e) az informatikai és hírközlési ágazat ügyeleti rendszerének létrehozására, működtetésére, hatáskörére vonatkozó szabályokat, a szolgáltatók bejelentési és kapcsolattartási kötelezettségeit;
 
@@ -44,7 +44,7 @@ f) az egyetemes elektronikus hírközlési szolgáltató kijelölésére vonatko
 
 7. idegen honosságú rádióengedélyek magyarországi elismerésének feltételeit;
 
-8. a rádióberendezések és elektronikus hírközlő végberendezések megfelelőségigazolásának és elismerésének, valamint forgalomba hozatalának, forgalmazásának, üzembe helyezésének részletes szabályait;
+8. a rádióberendezések és elektronikus hírközlő végberendezések megfelelőség-igazolásának és elismerésének, valamint forgalomba hozatalának, forgalmazásának, üzembe helyezésének részletes szabályait;
 
 9. a rádióamatőrökre vonatkozó vizsgakövetelményeket, a vizsgáztatás rendjét és a vizsgabizonyítvány kiadásának feltételeit;
 
@@ -72,8 +72,12 @@ f) az egyetemes elektronikus hírközlési szolgáltató kijelölésére vonatko
 
 21. a segélyhívások megválaszolása céljából a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatok segélyhívó szolgálatok műszaki feltételeit és rendelkezésére bocsátásának módját;
 
-22. a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőségtanúsítványok kölcsönös elismerésének feltételeit az iparügyekért felelős miniszter véleményezését követően;
+22. a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőségi tanúsítványok kölcsönös elismerésének feltételeit az iparügyekért felelős miniszter véleményezését követően;
 
 23. az építésügyért és, a feladatkörükbe tartozó sajátos építményfajtára vonatkozó szabályok tekintetében, az elektronikus hírközlési építmények más építményfajtákkal való megközelítését, védelmét, illetve keresztezését a közlekedésért, az energiapolitikáért, illetve a vízgazdálkodásért felelős miniszter véleményezését követően;
 
-24. előfizetői szerződések, azok létrejötte, módosítása, megszűnése, szolgáltatások korlátozásának feltételeit, az egyedi előfizetői szerződések és a szolgáltatók általános szerződési feltételei részletes szabályait, ideértve a tudakozószolgálatokkal és telefonkönyvekkel, valamint a szolgáltatók ezzel kapcsolatos kötelezettségeire vonatkozó részletes szabályokat.
+24. előfizetői szerződések, azok létrejötte, módosítása, megszűnése, szolgáltatások korlátozásának feltételeit, az egyedi előfizetői szerződések és a szolgáltatók általános szerződési feltételei részletes szabályait, ideértve a tudakozószolgálatokkal és telefonkönyvekkel, valamint a szolgáltatók ezzel kapcsolatos kötelezettségeire vonatkozó részletes szabályokat;
+
+25. azon eljárások körét, amelyekben kötelező vagy kizárólagos az elektronikus kapcsolattartás, illetve az egyes eljárásokban a kapcsolattartás módját.
+
+26. település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál az elektronikus hírközlési építmények elhelyezésével kapcsolatos szabályokat.

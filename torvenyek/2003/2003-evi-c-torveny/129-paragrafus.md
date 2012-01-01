@@ -30,4 +30,4 @@ g) az Elnök által rendeletben meghatározott további fejezetek.
 
 (8) Az előfizetői szerződés, annak létrejötte, módosítása, megszűnése részletes szabályait az Elnök rendeletben szabályozza.
 
-(9) Fogyasztó esetében semmis az egyéni előfizetői szerződés azon rendelkezése, amely szerint az előfizető az általános szerződési feltételeket átolvasta, és az abban foglaltakat tudomásul vette.
+(9) Fogyasztó esetében semmis az egyedi előfizetői szerződés azon rendelkezése, amely szerint az előfizető az általános szerződési feltételeket átolvasta, és az abban foglaltakat tudomásul vette.

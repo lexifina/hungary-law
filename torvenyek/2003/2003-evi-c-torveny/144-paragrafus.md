@@ -1,4 +1,4 @@
-## Az előfizetők tájékoztatása
+## Az előfizetők tájékoztatása és értesítése
 
 144. § (1) Ha jogszabály vagy a Hatóság valamely általános szerződési feltételnek vagy más tájékoztatásnak (e bekezdésben a továbbiakban: tájékoztatás) a szolgáltató ügyfélszolgálatán történő közzétételét rendeli el, ennek a szolgáltató a következők teljesítésével tesz eleget:
 

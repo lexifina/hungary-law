@@ -4,4 +4,4 @@
 
 (3) Az azonosítók lekötéséért és használatáért azonosító-lekötési és használati díjat, az ahhoz kapcsolódó, jogszabályban meghatározott hatósági eljárásért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az azonosító-lekötési és használati díjat a miniszter rendeletben, a 84. § (7) bekezdése szerinti módon állapítja meg.
+(4) Az azonosító-lekötési és használati díjat az Elnök rendeletben, a 84. § (7) bekezdése szerinti módon állapítja meg.

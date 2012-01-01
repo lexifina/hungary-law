@@ -1,0 +1,3 @@
+## Felügyeleti terv
+
+54/B. § A Hatóság az előző év tapasztalatainak figyelembevételével – az Elnök és a Hivatal felügyeleti tervét egységesen tartalmazó – a következő évben tervezett általános hatósági felügyeleti és piacfelügyeleti eljárásairól éves felügyeleti tervet készít a tárgyévet megelőző év december 1-jéig, és azt tizenöt napon belül az internetes honlapján közzéteszi. A felügyeleti tervet az Elnök hagyja jóvá. A felügyeleti terv az első félév tapasztalatai alapján, a félév végén felülvizsgálható, és az Elnök jóváhagyásával módosítható. A módosított felügyeleti tervet a Hatóság a módosítás jóváhagyásától számított tizenöt napon belül internetes oldalán közzéteszi.

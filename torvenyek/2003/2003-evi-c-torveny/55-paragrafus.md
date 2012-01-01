@@ -30,6 +30,10 @@ c) a kérelmezőnek lejárt határidejű frekvenciadíj-fizetési kötelezettsé
 
 (12) A (11) bekezdésben foglaltak nem alkalmazhatók a felmondás tárgyában hozott hatósági határozat bírósági felülvizsgálata keretében kért végrehajtás felfüggesztése tekintetében a bíróság által meghozott elsőfokú döntésig, továbbá nem alkalmazhatók – a vonatkozó közigazgatási per jogerős lezárásáig – amennyiben a felmondás tárgyában hozott hatósági határozat végrehajtását a bíróság felfüggesztette.
 
+(12a) Ha a felmondás tárgyában hozott hatósági határozat végrehajtását a bíróság felfüggesztette, a felmondás tárgyát képező médiaszolgáltatási és frekvenciahasználati jogosultság gyakorlása esetén a közigazgatási per jogerős lezárásáig is terheli a jogosultat a médiaszolgáltatási díj, illetve a frekvenciadíj megfizetésének kötelezettsége.
+
+(12b) Ha a közigazgatási per folyamatában a jogosult a frekvenciadíj tekintetében 3 hónapot meghaladó késedelembe esik, a Hivatal a 49. § (7) bekezdés g) pontjában foglalt – engedély visszavonása – jogkövetkezménnyel egyidejűleg alkalmazhatja a 37/A–37/C. §-ban meghatározott hatósági intézkedést.
+
 (13) A rádióengedély tartalmazza az engedély hatályát és a (10)–(12) bekezdések szerinti megszűnésének eseteit.
 
 (14) A műsorszórásra felosztott frekvenciák frekvenciahasználati jogosultságával, kijelölésével és rádióengedélyével kapcsolatos részletes szabályokat a műsorterjesztés és a digitális átállás szabályairól szóló törvény, a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló Elnök által kiadott rendelet, valamint az Elnök a frekvenciagazdálkodás egyes hatósági eljárásairól szóló rendeletben állapítja meg.

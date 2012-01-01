@@ -6,9 +6,9 @@
 
 ## A TÖRVÉNY HATÁLYA, CÉLJAI ÉS ALAPELVEI
 
-1. § (1) A törvény hatálya kiterjed
+1. § (1) E törvény hatálya kiterjed
 
-a) a Magyar Köztársaság területén végzett vagy területére irányuló elektronikus hírközlési tevékenységre, valamint minden olyan tevékenységre, amelynek gyakorlása során rádiófrekvenciás jel keletkezik,
+a) a Magyarország területén végzett vagy területére irányuló elektronikus hírközlési tevékenységre, valamint minden olyan tevékenységre, amelynek gyakorlása során rádiófrekvenciás jel keletkezik,
 
 b) az a) pontban foglalt, vagy azzal összefüggő tevékenységet végző vagy szolgáltatást nyújtó természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire,
 

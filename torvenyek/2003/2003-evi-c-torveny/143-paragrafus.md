@@ -4,4 +4,4 @@
 
 (2) Az előfizetői szerződésekből eredő igények egy év alatt évülnek el, amelyet az (1) bekezdés szerinti esetekben a késedelem, illetve a hibás teljesítés bekövetkezésétől kell számítani.
 
-(3) Az előfizetői szerződés megszegése esetén az elektronikus hírközlési szolgáltató a külön jogszabályban meghatározott mértékű kötbért köteles fizetni.
+(3) Az előfizetői szerződés megszegése esetén az elektronikus hírközlési szolgáltató az Elnök által rendeletben meghatározottak szerinti kötbért köteles fizetni.

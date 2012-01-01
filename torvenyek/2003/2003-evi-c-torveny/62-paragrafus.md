@@ -18,4 +18,4 @@ b) a jelentős piaci erővel rendelkező szolgáltatóra, szolgáltatókra a XI�
 
 (5) Amennyiben az Elnök a piacelemzés alapján egy, a piacelemzés megkezdésének időpontjában jelentős piaci erővel rendelkező szolgáltatónak minősülő szolgáltatót nem határoz meg jelentős piaci erővel rendelkező szolgáltatóként, határozatában megszünteti az ilyen szolgáltató jelentős piaci erővel rendelkező szolgáltatóként való azonosítását.
 
-(6) Az Európai Bizottság határozatában megállapított, a Magyar Köztársaság földrajzi területét is érintő, az Európai Gazdasági Térség tagállamai közötti piac esetében az Elnök a jelentős piaci erővel rendelkező szolgáltató azonosítását az érintett, az Európai Gazdasági Térség tagállamainak elektronikus hírközlési szabályozó hatóságaival együttműködve végzi el.
+(6) Az Európai Bizottság határozatában megállapított, Magyarország területét is érintő, az Európai Gazdasági Térség tagállamai közötti piac esetében az Elnök a jelentős piaci erővel rendelkező szolgáltató azonosítását az érintett, az Európai Gazdasági Térség tagállamainak elektronikus hírközlési szabályozó hatóságaival együttműködve végzi el.

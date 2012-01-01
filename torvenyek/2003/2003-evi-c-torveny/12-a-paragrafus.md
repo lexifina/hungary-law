@@ -34,7 +34,7 @@ g) a 80. § (3) bekezdése szerinti további alapvető követelmények;
 
 h) a frekvenciatervezés kiinduló feltételei.
 
-(4) A Hatóság a (2) bekezdés a) pont ad) alpontjában meghatározott frekvenciasávokra vonatkozóan – az adatvédelméről szóló törvény rendelkezéseivel, valamint az üzleti titokra vonatkozó jogszabályi követelményekkel összhangban – köteles megadni:
+(4) A Hatóság a (2) bekezdés a) pont ad) alpontjában meghatározott frekvenciasávokra vonatkozóan – az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseivel, valamint az üzleti titokra vonatkozó jogszabályi követelményekkel összhangban – köteles megadni:
 
 a) a frekvencia használatára jogosult személyét;
 

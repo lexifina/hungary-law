@@ -1,4 +1,4 @@
-96. § (1) Az állami tulajdonban álló közterület és a közös eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa kivételével az érintett ingatlan tulajdonosát a korlátozás mértékének megfelelő kártalanítás illeti meg. A tulajdonos ezen felül a Ptk. 108. §-ának (2) bekezdésében meghatározott jogokat érvényesítheti.
+96. § (1) Az állami tulajdonban álló közterület és a közös eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa kivételével az érintett ingatlan tulajdonosát a korlátozás mértékének megfelelő kártalanítás illeti meg. A tulajdonos ezen felül a Ptk. 108. § (2) bekezdésében meghatározott jogokat érvényesítheti.
 
 (2) Az elektronikus hírközlési építményt elhelyező szolgáltató az építési munkálatok befejeztével a környezet eredeti állapotának megfelelő helyreállítására köteles. Az elektronikus hírközlési építmény elhelyezéséhez használt más közüzemi létesítmény, magánterület, illetve önkormányzati tulajdonban lévő közterület tulajdonosa megállapodhat az építtetővel, hogy a helyreállítás az eredetinél jobb minőségben történjen.
 

@@ -26,7 +26,7 @@ i) a harmadik személyeknek nyújtott szolgáltatásokért fennálló felelőss�
 
 (4) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 6 hónapon belül tervezett változtatásokat is.
 
-(5) A hálózati szerződés semmissége, illetve a hálózati szerződés vonatkozásában fennálló felelősség tekintetében, amennyiben ezen törvény ellentétes rendelkezést nem tartalmaz, a Ptk. megfelelő rendelkezéseit kell alkalmazni.
+(5) A hálózati szerződés semmissége, illetve a hálózati szerződés vonatkozásában fennálló felelősség tekintetében, amennyiben ezen törvény ellentétes rendelkezést nem tartalmaz, a Polgári törvénykönyvről szóló törvény (a továbbiakban: Ptk. megfelelő rendelkezéseit kell alkalmazni.
 
 (6) A hálózati szerződések késedelmes vagy hibás teljesítése esetében az elektronikus hírközlési szolgáltató a felhasználó vagyonában okozott kárt köteles megtéríteni, az elmaradt haszon kivételével.
 

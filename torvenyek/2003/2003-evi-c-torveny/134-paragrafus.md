@@ -2,9 +2,9 @@
 
 134. § (1) Az előfizető a határozatlan idejű előfizetői szerződést legfeljebb 8 napos felmondási határidővel bármikor jogosult további jogkövetkezmények nélkül felmondani. Az előfizetői szerződés bármely ezzel ellentétes kikötése semmis.
 
-(2) Az előfizetői szerződés szolgáltató általi felmondásának felmondási ideje a (6)–(7) bekezdésekben meghatározottak kivételével nem lehet kevesebb mint 60 nap.
+(2) Az előfizetői szerződés szolgáltató általi felmondásának felmondási ideje a (6)–(7), illetve a (13) bekezdésben meghatározottak kivételével nem lehet kevesebb mint 60 nap.
 
-(3) A szolgáltató az előfizetői szerződés felmondását írásban, tértivevényes levélben, amennyiben az előfizetői szerződésben az előfizető hozzájárult, olyan elektronikus dokumentumban vagy elektronikus levélben köteles megküldeni, amelynek kézbesítése hitelesen igazolható, kivéve, ha az előfizetőt a felmondásról azért nem tudja így értesíteni, mert a szolgáltatás sajátosságai következtében a szolgáltató nem rendelkezik az előfizető e módon történő értesítéséhez szükséges adatokkal. Ez utóbbi esetben a szolgáltató az előfizetőt a szerződés felmondásáról a 144. § (2) bekezdésében meghatározott egyéb módon is értesítheti.
+(3) A szolgáltató az előfizetői szerződés felmondását írásban, tértivevényes levélben, amennyiben az előfizetői szerződésben az előfizető hozzájárult, olyan elektronikus dokumentumban vagy elektronikus levélben köteles megküldeni, amelynek kézbesítése hitelesen igazolható, kivéve, ha az előfizetőt a felmondásról azért nem tudja így értesíteni, mert a szolgáltatás sajátosságai következtében a szolgáltató nem rendelkezik az előfizető e módon történő értesítéséhez szükséges adatokkal. Ez utóbbi esetben a szolgáltató az előfizetőt a szerződés felmondásáról a 144. § (4) bekezdésében meghatározott egyéb módon is értesítheti.
 
 (4) Ha a felmondás indoka az előfizető szerződésszegése, és az előfizető a felmondási idő alatt a szerződésszegést megszünteti, az előfizetői szerződés nem szűnik meg a szolgáltató felmondásával. Erről a szolgáltató köteles az előfizetőt haladéktalanul értesíteni.
 
