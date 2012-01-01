@@ -1,0 +1,11 @@
+## NEGYEDIK RÉSZ
+
+## A HALLGATÓ
+
+## XI. Fejezet
+
+## A HALLGATÓI JOGVISZONY KELETKEZÉSE, JOGOSULTSÁGOK, KÖTELEZETTSÉGEK
+
+## 23. Felvétel, beiratkozás
+
+### 39–41. §

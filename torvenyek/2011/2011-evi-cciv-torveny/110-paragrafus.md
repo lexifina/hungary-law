@@ -2,112 +2,14 @@
 
 110. § (1) A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza
 
-1. a kiemelt felsőoktatási intézmény, a kutatóegyetem, kutató kar, az alkalmazott kutatások főiskolája minősítés feltételeit, rendjét, a minősítésre tekintettel megállapított támogatás felhasználási feltételeit,
-
-2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
-
-3. a felsőoktatási intézmény, valamint az egyház, egyházi jogi személy vagy alapítvány által fenntartott diákotthonok minimális, létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét és díját, a gyakorló közoktatási intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit
-
-4. a képesítési keretet, a doktori képzés szabályait,
-
-a) az alap- és mesterképzés képzési területeit, képzési ágait, szakjait, az azokhoz rendelt kreditek számát, valamint az indítással összefüggő eljárási rendet, továbbá azokat a szakokat, amelyekben külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzést kell szervezni,
-
-b) a doktori iskola létesítésének eljárási rendjét és feltételeit, a doktori iskola tagságára és szervezetére, a doktori tanács számára biztosított hatáskörre, a doktori tézisek, a doktori értekezés nyilvánosságára, a doktori fokozatszerzési eljárásra vonatkozó általános szabályokat, a doktori fokozat megszerzésének feltételeit,
-
-5. az államilag elismert nyelvvizsgáztatás rendszerét, ezen belül az Európa Tanács Közös Európai Referenciakeretében ajánlott hatfokozatú nyelvvizsgarendszer és az alap-, közép-, illetve felsőfokú államilag elismert vagy azzal egyenértékű nyelvvizsgák megfeleltetését, továbbá az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatás rendjét,
-
-6. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal, az oktatói igazolvánnyal, az oktatói azonosító számmal és a hallgatói azonosító számmal kapcsolatos eljárási szabályokat, a diákigazolvány és az oktatói igazolvány kibocsátásához kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, a felsőoktatási intézmények által kötelezően használt, központilag kibocsátásra kerülő nyomtatványok – az oklevél megszerzését megelőzően kiállítható, a tanulmányok sikeres befejezését és a záróvizsga megszerzését tanúsító igazolás kiadásának feltételei – tartalmi és formai követelményeit és engedélyezési rendjét, a támogatási idő nyilvántartásának, a magyar állami (rész)ösztöndíjas és az önköltséges hallgatók közötti átsorolásnak a rendjét,
-
-7. a felsőoktatási szakképzés rendjét, a felsőoktatási szakképzés képzési területeit, képzési ágait, szakjait, az azokhoz rendelt kreditek számát, valamint az indítással összefüggő eljárási rendet, továbbá a gyakorlati képzés feltételeit, az ahhoz kapcsolódó díjmentes hallgatói juttatásokat, valamint a külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzés megvalósítására köthető hallgatói képzési szerződésre vonatkozó szabályokat,
-
-8. a felvételhez szükséges érettségi vizsga teljesítésével kapcsolatos követelményeket, az érettségi vizsgatárgyakat, a jelentkezők eredményeinek megfeleltetését, , a jelentkezések elbírálási rendjét, a többletteljesítmények, beszámítása, a jelentkezők rangsorolásának, valamint felsőoktatási intézménybe való besorolásának elveit és módját a felsőoktatási felvételi tájékoztatás módját, ezen belül a felvételi feltételek, illetve az alkalmassági követelmények a felvételt legalább két évvel megelőzően történő közzétételének rendjét, a felvételi eljárások igazgatási szolgáltatási díjainak mértékét, befizetésének módját és visszatérítésének feltételeit, azon alapszakokat, amelyek esetében a felvétel gyakorlati vizsga, egészségügyi alkalmassági vizsgálat alkalmazásával történik, továbbá azt, hogy a felsőoktatási intézmények milyen feltételekkel szervezhetnek szóbeli felvételi vizsgát,
-
-9. a felvételi eljárás azon feltételeit, amelyek
-
-a) hátrányos helyzetű hallgatói (jelentkezői) csoport,
-
-b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, terhességi-gyermekágyi segélyben, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
-
-c) fogyatékossággal élő jelentkezők csoportjához tartozók,
-
-d) nemzetiséghez tartozó jelentkezők csoportjához tartozók
-
-esélyegyenlőségét biztosítja.
-
-10. a hallgatók esélyegyenlőségének előmozdítása érdekében az előnyben részesítés követelményeit; a mentorprogram megszervezésének szabályait,
-
-11. a fogyatékosság megállapításának és igazolásának rendjét, a fogyatékossággal élő hallgatók tanulmányaival kapcsolatos elveket, az előnyben részesítési szempontokat és eljárási szabályokat,
-
-12. a tehetséggondozás rendjét, így különösen
-
-a) a tudományos diákköri tevékenység országos szintű rendszerét,
-
-b) a szakkollégiumok szervezésének elveit,
-
-c) a tehetséggondozási tevékenység előmozdítását ösztönző támogatási rendszert,
-
-d) a felsőoktatási intézmény tehetséggondozó rendszere elveit,
-
-13. a hallgatói juttatások, támogatások és egyéb kedvezmények igénybevételi rendjét,
-
-14. a hallgatói lakhatási feltételek, jóléti szolgáltatások biztosításával kapcsolatos szabályokat, intézményi feltételeket,
-
-15. a kreditrendszerű képzés általános szabályait, ezen belül különösen
-
-a) a tanulmányi tájékoztatás módját,
-
-b) a tanulmányi előrehaladás kereteit, a kötelezően megszerzendő kreditek minimumát,
-
-c) a kreditek és a tanulmányi eredmények dokumentálásának és nyilvántartásának rendjét,
-
-d) a tanulmányi időszakokat és ezek beosztását,
-
-e) a hallgatók teljesítményének értékelése elveit és módját,
-
-f) a fogyatékos hallgatók számára biztosítandó támogatás elveit és módját, az esélyegyenlőség és egyenlő esélyű hozzáférés biztosításának eszközeit,
-
-g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
-
-16. a kitüntetéses doktorrá avatás szabályait,
-
-17. a foglalkoztatással, kedvezményekkel, a foglalkoztatással összefüggő pályázati rendszerrel, vezetői megbízással, összeférhetetlenséggel kapcsolatos szabályokat, a kutatói munkakörök létesítésének, betöltésének feltételeit, a tanári munkakörben történő foglalkoztatás besorolási, fizetési szabályait,
-
-18. a felsőoktatási intézmények nyilvántartását vezető szerv vagy szervek eljárását, működési, felügyeleti rendjét,
+1–18.
 
 19. a MAB működésével, hatáskörével, a Felsőoktatási Tervezési Testület létrehozásával, működésével kapcsolatos kérdéseket,
 
-20. a felsőoktatási intézmény finanszírozásával, gazdálkodásával kapcsolatos kérdéseket, a magán intézmények gazdálkodásával kapcsolatos kérdéseket,
-
-21. felsőoktatási ösztöndíjak alapítását, odaítélésük feltételeit, rendjét, így különösen a köztársasági ösztöndíj, az esélyegyenlőségi ösztöndíj, valamint a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj adományozásának rendjét és feltételeit,
-
-22. a pedagógus ösztöndíj igénybevételének feltételeit, a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait, választható egyenrangú szakpárjait, továbbá a mesterképzés szakosodási rendszerének általános szabályait,
+20–22.
 
 23. a hallgatói szerződés kötelező tartalmi elemeit, a szerződés nem teljesülése esetén követendő eljárást, a magyar állami (rész)ösztöndíjas hallgató által igénybe vett szakos képzés éves költségét,
 
-24. az oklevéllel tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
+24–27.
 
-25. a habilitációs eljárás rendjét,
-
-26. felsőoktatási intézmény volt oktatójának, óraadó oktatójának adományozható címeket, az adományozás feltételeit,
-
-27. a gazdasági tanács létrehozásának, hatáskörének, működésének általános szabályait.
-
-(2) Felhatalmazást kap a Kormány arra, hogy
-
-a) a felsőoktatási intézmények nyilvántartását vezető szervet vagy szerveket,
-
-b) a felsőoktatási információs rendszer működéséért felelős szervet.
-
-rendeletben jelölje ki.
-
-(3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
-
-a) az oktatási jogok biztosa hivatalának feladatait és működésének szabályait,
-
-b) a felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
-
-c) a szakirányú továbbképzés szervezésének általános feltételeit,
-
-d) az államilag elismert nyelvvizsgáztatáshoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, valamint a felsőoktatási hatósági eljárási díjakat és azok mértékét.
-
-(4) A miniszter a (3) bekezdés d) pontjában kapott szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.
+(2)–(4)

@@ -1,9 +1,0 @@
-90. § (1) Az állami felsőoktatási intézmények kezelésében lévő állami vagyonba tartozó ingatlanok átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a 89. § (3) bekezdés szerinti jóváhagyással a felsőoktatási intézmény a vagyonkezelésében lévő állami tulajdonú ingatlanok állagmegóvási, felújítási, beruházási – beleértve a korábban kötött szerződés szerinti PPP (az állami és a magánszektor közötti fejlesztési, illetve szolgáltatási együttműködés, Public Private Partnership program) keretében megvalósuló fejlesztéseket is – célra használhatja fel.
-
-(2) Ha az intézményfejlesztési tervben megjelölt cél az állami vagyon felügyeletéért felelős miniszter jóváhagyásában megjelölt időpontig nem valósul meg, akkor a fenntartó szerv az értékesítés ellenértékét a felsőoktatási intézménytől elvonja, vagy ha ez akadályba ütközik, megteszi a szükséges intézkedéseket annak érdekében, hogy a bevétel harminc napon belül az állam részére megfizetésre kerüljön.
-
-(3) Az állami felsőoktatási intézmény kincstári körbe nem tartozó befektetővel végzett közös beruházás esetén csak az állami vagyonért felelős miniszter előzetes engedélyével jogosult a vagyonkezelésében lévő ingatlant – versenyeztetés nélkül – a befektető használatába adni, vagy arra vonatkozóan földhasználati jogot biztosítani legfeljebb húsz évre.
-
-(4) Az oktató, illetve kutató foglalkoztatási jogviszonya keretében létrehozott szellemi alkotásra a munkaviszonyban vagy más hasonló jogviszonyban létrehozott szellemi alkotás munkáltató részére történő átadására vonatkozó rendelkezéseket kell alkalmazni.
-
-(5) Az állami felsőoktatási intézmény rendelkezésére bocsátott nemzeti vagyont az állami vagyonról vezetett vagyonnyilvántartásban nyilván kell tartani, ennek érdekében a felsőoktatási intézményt külön jogszabályban meghatározott adatszolgáltatási kötelezettség terheli.

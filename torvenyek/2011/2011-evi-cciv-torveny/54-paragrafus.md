@@ -1,3 +1,3 @@
 ## 32. Tehetséggondozás, tudományos diákkörök, szakkollégiumok
 
-54. § A felsőoktatási intézmény feladata a tantervi követelményeket meghaladó teljesítmény nyújtására képes, kiemelkedő képességű és hozzáállású, valamint a hátrányos, illetve a halmozottan hátrányos helyzetű hallgatók felkutatása, felismerése, és szakmai, tudományos, művészeti és sport tevékenységének elősegítése. Ennek érdekében a felsőoktatási intézmény önállóan vagy más felsőoktatási intézménnyel együttműködve tehetséggondozó és felzárkóztató rendszert, illetve programokat – így különösen tudományos diákköröket, szakkollégiumokat, tehetségpontokat és felzárkóztató, illetve roma szakkollégiumokat – működtet. Felzárkóztató, illetve roma szakkollégiumokat felsőoktatási intézménnyel együttműködve egyházi fenntartó is létesíthet. A felsőoktatási intézmény mentorprogram keretében nyújt segítséget a hátrányos helyzetű hallgató tehetségének kibontakoztatásához.
+### 54. §

@@ -1,7 +1,0 @@
-14. § (1) A felsőoktatási intézményben informatikai, szociális, sport, könyvtári, levéltári, múzeumi, egészségügyi szolgáltató – kormányrendeletben meghatározottak szerint kollégiumi – és egyéb – így különösen köznevelési, gyakorlati képzést biztosító tanműhely, tanszálloda, tangazdaság, művészeti gyakorlóhely, botanikus kert, valamit termelő feladatot ellátó – szervezeti egység hozható létre. Egy szak képzéséért több telephely esetén is csak egy oktatási szervezeti egység lehet a felelős. A felelős megnevezését a képzési program tartalmazza.
-
-(2) A felsőoktatási intézmény könyvtára, könyvtári rendszere szakirodalmi, információs, oktatási és kutatási feladatokat ellátó nyilvános tudományos közgyűjtemény, amely múzeumi, levéltári funkciót is elláthat. Az állami egyetemi könyvtárak ellátják a muzeális intézményekről, a nyilvános könyvtári ellátásról, és a közművelődésről szóló törvényben meghatározott nyilvános könyvtári, valamint szak- és felsőoktatási könyvtári feladatokat. Az egyetemi könyvtárak az országos Dokumentum-ellátási Rendszerből – jogszabályban meghatározottak szerint – támogatást kapnak.
-
-(3) A felsőoktatási intézmény szervezeti egységei centrummá, főiskolai, egyetemi központtá szervezhetők. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy.
-
-(4) Állami felsőoktatási intézményben – a Kormány által meghatározott keretek között – gazdasági tanácsot kell működtetni, nem állami felsőoktatási intézményben gazdasági tanács működtethető.

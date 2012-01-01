@@ -1,9 +1,3 @@
 ## 38. A doktorandusz önkormányzat, a Doktoranduszok Országos Szövetsége, az Országos Tudományos Diákköri Tanács
 
-63. § (1) A doktori képzésben részt vevők intézményi képviseletét a felsőoktatási intézmény részeként működő doktorandusz önkormányzat látja el. A doktorandusz önkormányzatnak minden doktorandusz a tagja, választó és választható. A doktorandusz önkormányzat működésére egyebekben a 60. § (1)–(6) bekezdésében foglaltakat kell megfelelően alkalmazni.
-
-(2) A felsőoktatási intézmények doktori képzésben részt vevő hallgatóinak országos képviseletét a Doktoranduszok Országos Szövetsége látja el. A Doktoranduszok Országos Szövetsége a doktorandusz önkormányzatok képviselőiből álló testület által elfogadott alapszabállyal rendelkező jogi személy, székhelye Budapest, képviseletére az elnök jogosult. A Doktoranduszok Országos Szövetsége jogosult Magyarország címerének használatára. A Doktoranduszok Országos Szövetségét az oktatási hivatal veszi nyilvántartásba.
-
-(3) A Hallgatói Önkormányzatok Országos Konferenciája és a Doktoranduszok Országos Szövetsége üléseire tanácskozási joggal meg kell hívni a Magyar Rektori Konferencia képviselőjét.
-
-(4) A tudományos diákköri tevékenységet végző hallgatók és az őket támogató oktatók szakmai szervezete az Országos Tudományos Diákköri Tanács. Az Országos Tudományos Diákköri Tanács feladata a felsőoktatási intézményekben folyó hallgatói tudományos és művészeti tevékenység, a diákköri mozgalom országos képviselete és összehangolása, valamint az országos jellegű tudományos és művészeti diákfórumok szervezése. Az Országos Tudományos Diákköri Tanács működését – az általa megalkotott – szervezeti és működési szabályzat határozza meg.
+### 63. §

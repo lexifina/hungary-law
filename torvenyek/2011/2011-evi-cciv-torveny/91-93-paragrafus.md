@@ -1,0 +1,11 @@
+## NYOLCADIK RÉSZ
+
+## SAJÁTOS MŰKÖDÉSI RENDELKEZÉSEK
+
+## XXVI. Fejezet
+
+## A NEM ÁLLAMI FENNTARTÁSÚ FELSŐOKTATÁSI INTÉZMÉNYEK MŰKÖDÉSÉRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
+
+## 56. Az egyházi felsőoktatási intézmények
+
+### 91–93. §
