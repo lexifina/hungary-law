@@ -1,5 +1,5 @@
+## 33. §[^20]
+
 ## 18. Pályázati rendszer
 
-34. § (1) A szolgálati beosztásban történő előmenetelt a munkáltatói jogokat gyakorló vezető kiválasztással vagy pályázat kiírásával is biztosíthatja.
-
-(2) A pályázat meghirdetése és a benyújtási határidő között legalább 30 napnak kell eltelnie.
+[^20]: A 33. §-t az 53/2011. (XII. 29.) NGM rendelet 6. § g) pontja hatályon kívül helyezte.

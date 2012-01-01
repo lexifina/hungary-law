@@ -1,4 +1,4 @@
-## 9. § A hivatásos állományába történő visszavétel esetén a szolgálati idő számításánál a Hszt. 328. §-ának előírásait kell megfelelően alkalmazni azzal, hogy a korábbi szolgálati viszony során már beszámított szolgálati időt tényleges szolgálati időnek kell tekinteni.
+## 9. §[^8]
 
 ## III. Fejezet
 
@@ -6,6 +6,4 @@
 
 ## 7. Beosztásból felmentés, más beosztásba kinevezés, áthelyezés
 
-10. § (1) A szolgálati viszony módosítása a szolgálati elöljáró kezdeményezésére a szolgálat érdekére tekintettel, vagy a pénzügyőr kérelmére történik. Ez esetekben új okmányt – parancsot, határozatot – kell készíteni.
-
-(2) A szolgálat érdekében történő áthelyezés a Hszt. 47. § (2) bekezdésében rögzített korlátozás betartásával azonos vagy magasabb beosztásba történhet.
+[^8]: A 9. §-t az 53/2011. (XII. 29.) NGM rendelet 6. § g) pontja hatályon kívül helyezte.

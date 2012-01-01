@@ -1,3 +1,5 @@
+## 94–98. §[^49]
+
 ## XIII. Fejezet
 
 ## SZOLGÁLATI IGAZOLVÁNYOK, SZOLGÁLATI JELVÉNY
@@ -7,3 +9,5 @@
 (2) A pénzügyőr a kiadott NAV pénzügyőr igazolványt köteles megőrizni, szolgálatteljesítés, valamint munkavégzés során minden esetben magánál tartani, azt az ellenőrző elöljáró felszólítására bemutatni.
 
 (3) A NAV pénzügyőr igazolvány szigorú számadású és sorszámmal ellátott.
+
+[^49]: A 94–98. §-t az 53/2011. (XII. 29.) NGM rendelet 6. § g) pontja hatályon kívül helyezte.

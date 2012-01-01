@@ -1,5 +1,5 @@
+## 17. §[^13]
+
 ## 12. Lemondás
 
-18. § (1) A szolgálati viszonyról történő lemondást – a szolgálati elöljáró útján – írásban kell előterjeszteni az állományilletékes parancsnokhoz. A lemondást nem kell indokolni.
-
-(2) A lemondást a szolgálati elöljáró soron kívül köteles felterjeszteni az állományilletékes parancsnokhoz.
+[^13]: A 17. §-t az 53/2011. (XII. 29.) NGM rendelet 6. § g) pontja hatályon kívül helyezte.

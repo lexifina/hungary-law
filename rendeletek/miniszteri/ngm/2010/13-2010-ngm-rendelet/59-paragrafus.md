@@ -1,3 +1,0 @@
-59. § (1) A vizsgáló személyével kapcsolatos, a Hszt. 129. § (2) bekezdése szerinti összeférhetetlenségi okot a vizsgálattal megbízott köteles haladéktalanul bejelenteni a fegyelmi jogkör gyakorlójának. A vizsgáló személyével kapcsolatos összeférhetetlenség megállapítását az eljárás alá vont személy és képviselője is kérheti. Az összeférhetetlenségről, és az új vizsgáló kijelöléséről a fegyelmi jogkör gyakorlója három munkanapon belül indoklás nélküli határozatban dönt. A határozattal szemben panasznak nincs helye.
-
-(2) Az összeférhetetlenség elbírálásáig, illetve az új vizsgáló személyének kijelöléséig a vizsgáló eljárási cselekményt nem végezhet.

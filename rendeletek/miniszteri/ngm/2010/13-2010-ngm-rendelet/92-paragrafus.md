@@ -1,7 +1,5 @@
-## 91. § A NAV szervezési adatai és teljes hivatásos személyi állományának a személyügyi nyilvántartás keretében nyilvántartható adatait manuális és számítógépes rendszerben kell feldolgozni.
+## 89–91. §[^46]
 
 ## 40. Összeférhetetlenség, munkavégzéssel járó egyéb jogviszony iratai
 
-92. § (1) A munkavégzéssel járó egyéb jogviszony engedélyezéséről, módosításáról vagy elutasításáról szóló értesítés vagy határozat egy példányát a pénzügyőr személyi anyaggyűjtőjében kell kezelni.
-
-(2) A Hszt. 66. § (1) bekezdésében meghatározott bejelentés és felszólítás egy példányát a pénzügyőr személyi anyaggyűjtőjében el kell helyezni.
+[^46]: A 89–91. §-t az 53/2011. (XII. 29.) NGM rendelet 6. § g) pontja hatályon kívül helyezte.
