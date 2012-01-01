@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-180-20-
 | 2010-08-17 | 2010-180-20-22.4 | 225/2010. (VIII. 12.) Korm. rendelet |
 | 2011-01-01 | 2010-180-20-22.5 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2011-05-01 | 2010-180-20-22.6 | 289/2010. (XII. 21.) Korm. rendelet |
+| 2012-01-01 | 2010-180-20-22.7 | 325/2011. (XII. 28.) Korm. rendelet |
