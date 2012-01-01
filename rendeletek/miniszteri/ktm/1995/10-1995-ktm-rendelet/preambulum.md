@@ -1,1 +1,0 @@
-A környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény (a továbbiakban: Kt.) 21. §-ának (1) bekezdésében kapott felhatalmazás alapján — az érdekelt miniszterekkel egyetértésben — a következőket rendelem el:
