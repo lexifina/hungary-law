@@ -6,4 +6,6 @@
 
 (3) A fegyelmi eljárást a Hszt. és a Szabályzat fegyelmi eljárásra vonatkozó szabályai szerint kell lefolytatni, azonban a vizsgálat során a katonai vétség Btk.-ban meghatározott törvényi tényállásának megvalósítását kell bizonyítani. Ha fegyelmi hatáskörbe utalás a nyomozás megszüntetésével történt, a nyomozás során lefolytatott bizonyítási cselekményeket nem kell megismételni.
 
-(4) A katonai vétség miatti pénzbírság kiszabásakor a területileg illetékes megyei bíróságok katonai tanácsánál kialakult gyakorlatot kell alapul venni. A pénzbírság befizetésére, a befizetés halasztására, illetve a részletfizetésre a 36. § rendelkezéseit kell alkalmazni.
+(4)[^24] A katonai vétség miatti pénzbírság kiszabásakor a területileg illetékes törvényszék katonai tanácsánál kialakult gyakorlatot kell alapul venni. A pénzbírság befizetésére, a befizetés halasztására, illetve a részletfizetésre a 36. § rendelkezéseit kell alkalmazni.
+
+[^24]: A 37. § (4) bekezdése a 63/2011. (XII. 29.) BM rendelet 6. §-a szerint módosított szöveg.
