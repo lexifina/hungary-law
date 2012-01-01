@@ -20,7 +20,7 @@ d) amelynek végzésére vonatkozóan az építtetővel a 3. § (1)–(3) bekezd
 
 e) amelynek megkezdéséhez az e rendeletben előírt bejelentési kötelezettségének az építtető határidőben eleget tett, és az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység végzését nem tiltotta meg,
 
-f) amelynek megkezdését az építési munkahelyeken és az építési folyamatok során megvalósítandó minimális munkavédelmi követelményekről szóló jogszabályban meghatározott feltételek fennállása esetén – az ott rögzített adatok megadásával – előzetesen bejelenti a munkavédelmi hatóság építési munkahely szerint illetékes felügyelőségének.
+f)[^17] amelynek megkezdését az építési munkahelyeken és az építési folyamatok során megvalósítandó minimális munkavédelmi követelményekről szóló jogszabályban meghatározott feltételek fennállása esetén – az ott rögzített adatok megadásával – előzetesen bejelenti az építési munkahely szerint illetékes munkavédelmi hatóságnak
 
 (2) A vállalkozó kivitelező feladata az Étv. 40. § (1) bekezdésében és 43. § (2) bekezdésében foglaltakon túlmenően:
 
@@ -46,9 +46,9 @@ j) az építési munkaterület őrzésének biztosítása,
 
 k) az építési munkák befejeztével az építési területről való levonulás végrehajtása,
 
-l)[^17] fővállalkozó kivitelezőként az építési műszaki ellenőr által kiadott teljesítésigazolásnak és a teljesítésigazolás alapján a szerződés szerinti teljesítésről (részteljesítésről) kiállított számlának az építtető, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő részére történő eljuttatása,
+l)[^18] fővállalkozó kivitelezőként az építési műszaki ellenőr által kiadott teljesítésigazolásnak és a teljesítésigazolás alapján a szerződés szerinti teljesítésről (részteljesítésről) kiállított számlának az építtető, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő részére történő eljuttatása,
 
-m)[^18] építtetői fedezetkezelő közreműködése esetén, ha a kivitelezési tevékenység megvalósításában alvállalkozóként vesz részt, a szerződése adatainak felvitele – legkésőbb a kivitelezési tevékenységének megkezdéséig – a fedezetkezelő által internetes alapon működtetett alvállalkozói nyilvántartásba.
+m)[^19] építtetői fedezetkezelő közreműködése esetén, ha a kivitelezési tevékenység megvalósításában alvállalkozóként vesz részt, a szerződése adatainak felvitele – legkésőbb a kivitelezési tevékenységének megkezdéséig – a fedezetkezelő által internetes alapon működtetett alvállalkozói nyilvántartásba.
 
 (3) A kivitelezőnek a (2) bekezdés e) pontjában meghatározott feladat teljesítésével kapcsolatos költségeit annak elszámolása esetén az építtető köteles megtéríteni.
 
@@ -62,5 +62,6 @@ c) az építési napló vezetése, külön megállapodás esetén az alvállalko
 
 (5) A vállalkozó kivitelező az építési napló vezetésével megbízhatja a felelős műszaki vezetőjét. Az erre irányuló megállapodást mindkét fél aláírásával az építési naplóban rögzíteni kell.
 
-[^17]: A 12. § (2) bekezdés l) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
-[^18]: A 12. § (2) bekezdés m) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 8. pontja szerint módosított szöveg.
+[^17]: A 12. § (1) bekezdés f) pontja a 324/2011. (XII. 28.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^18]: A 12. § (2) bekezdés l) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
+[^19]: A 12. § (2) bekezdés m) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 8. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Birtokbaadás, használatbavételi engedély megkérése
 
-33. §[^93] (1) A műszaki átadás-átvételi eljáráson felmerült és jegyzőkönyvbe vett hibák, hiányosságok kijavítását, valamint az e rendeletben meghatározott esetekben az építtetői fedezetkezelői elszámolás és az építési műszaki ellenőri teljesítésigazolás, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően a fővállalkozó kivitelező az építtető birtokába adja az építményt, építményrészt, továbbá átadja
+33. §[^94] (1) A műszaki átadás-átvételi eljáráson felmerült és jegyzőkönyvbe vett hibák, hiányosságok kijavítását, valamint az e rendeletben meghatározott esetekben az építtetői fedezetkezelői elszámolás és az építési műszaki ellenőri teljesítésigazolás, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően a fővállalkozó kivitelező az építtető birtokába adja az építményt, építményrészt, továbbá átadja
 
 a) a rendeltetésszerű és biztonságos használhatóságot igazoló felelős műszaki vezetői nyilatkozatot,
 
@@ -42,4 +42,4 @@ ch) az építmény használatával összefüggő későbbi munkákhoz kapcsolód
 
 (4) Az építtető és a fővállalkozó kivitelező erre irányuló megállapodása szerint a birtokbaadási eljárásra a használatbavételi engedély megszerzését, használatbavételi bejelentés megtörténtét követően is sor kerülhet azzal, hogy az e rendeletben meghatározottak szerint az építtetői fedezetkezelői elszámolás és az építési műszaki ellenőri teljesítésigazolás, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően a fővállalkozó kivitelező az építtető részére átadja az (1) bekezdésben meghatározott dokumentumokat.
 
-[^93]: A 33. § a 182/2010. (V. 14.) Korm. rendelet 5. § (34) bekezdésével megállapított szöveg.
+[^94]: A 33. § a 182/2010. (V. 14.) Korm. rendelet 5. § (34) bekezdésével megállapított szöveg.
