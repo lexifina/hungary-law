@@ -4,17 +4,17 @@ a) a Magyar Állam,
 
 b)–d)
 
-e) az egyház, egyházak szövetsége, egyházi intézmény,
+e) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett belső egyházi jogi személy;
 
 f)–j)
 
-k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az említett fegyveres erők alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében;
+k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az Észak-atlanti Szerződés Szervezetével aláírt „Békepartnerség” program Keretdokumentumának törvénybe iktatásáról, és annak a Magyar Köztársaság által történő végrehajtásáról szóló törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az azok alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében.
 
 l)
 
-(2) Az (1) bekezdés e) pontjában említett szervezetet a díjmentesség csak abban az esetben illeti meg, ha az eljárás megindítását megelőző naptári évben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége nem keletkezett.
+(2) Az (1) bekezdés e) pontjában említett szervezetet a díjmentesség csak abban az esetben illeti meg, ha az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége nem keletkezett.
 
-(3) A díjmentességnek a (2) bekezdésben meghatározott feltétele meglétéről a szervezet az eljárás megindításakor írásban köteles nyilatkozni. A nyilatkozatnak tartalmaznia kell, hogy a szervezet – az eljárás megindítását megelőző naptári évben folytatott vállalkozási tevékenységéből származó jövedelme után, vagy ilyen tevékenység hiányában – társasági adó fizetésére nem volt kötelezett.
+(3) A díjmentességnek a (2) bekezdésben meghatározott feltétele meglétéről a szervezet az eljárás megindításakor írásban köteles nyilatkozni. A nyilatkozatnak tartalmaznia kell, hogy a szervezet – az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után, vagy ilyen tevékenység hiányában – társasági adó fizetésére nem volt kötelezett.
 
 (4) Nemzetközi szervezet, ennek tisztségviselői és családtagjaik, idegen állam, idegen állam magyarországi diplomáciai, konzuli és egyéb képviselete, ezek tagjai és családtagjaik díjmentességére nézve nemzetközi szerződés, ennek hiányában a viszonosság az irányadó.
 

@@ -10,19 +10,19 @@ d) annak, aki a kérelmet, megkeresést előterjeszti.
 
 (2) Több fizetésre kötelezett esetén a feleket egyetemleges díjfizetési kötelezettség terheli.
 
-(3) Ha a megkeresést előterjesztő és a díj megfizetésére kötelezett nem azonos, a megkeresést előterjesztő – amennyiben a díj megfizetésére kötelezett a díj megfizetését nála igazolta – a díj megfizetését igazoló okiratot, vagy annak másolatát a megkeresésével együtt továbbítja az eljáró ingatlanügyi hatóságnak.
+(3) Ha a megkeresést előterjesztő és a díj megfizetésére kötelezett nem azonos, a megkeresést előterjesztő – amennyiben a díj megfizetésére kötelezett a díj megfizetését nála igazolta – a díj megfizetését igazoló bizonylatot, vagy annak másolatát a megkeresésével együtt továbbítja az eljáró ingatlanügyi hatóságnak.
 
 (4) A (3) bekezdésben foglaltak hiányában a megkeresést előterjesztő legkésőbb a megkeresés előterjesztésével egyidejűleg a díj összegének, valamint az eljáró ingatlanügyi hatóságnak a megjelölésével tájékoztatja a díj megfizetésére kötelezettet, hogy a díj megfizetését a (9) bekezdés szerinti határidőben az eljáró ingatlanügyi hatóságnál igazolnia kell, és erről a tájékoztatásról a megkeresésében az ingatlanügyi hatóságot tájékoztatja.
 
 (5) A díjfizetésre kötelezett személyének megállapításához szükséges adatok hiányában az ingatlanügyi hatóság a megkereső szervet hívja fel a (9) bekezdés szerinti hiánypótlásra.
 
-(6) A díjnak a másodfokú ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot vagy annak másolatát.
+(6) A díjnak a másodfokú ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló bizonylatot vagy annak másolatát.
 
 (7) Átutalással történő fizetési mód esetén az átutalási megbízáson fel kell tüntetni a külön jogszabályban meghatározott kincstári tranzakciós kódot, valamint az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát. Készpénz-átutalási megbízással történő fizetés esetén a készpénz-átutalási megbízás „Közlemény” rovatában fel kell tüntetni az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát.
 
 (8) Ha e törvény másként nem rendelkezik a díjfizetési kötelezettség (ideértve a fellebbezés díját is) az ingatlanügyi hatóságnál – a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel, ha az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával – vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető.
 
-(9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tíz munkanapon belül kell megfizetni a díjat és igazolni annak megfizetését.
+(9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül kell megfizetni a díjat és igazolni annak megfizetését.
 
 (10) Ha jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági, bírósági végrehajtói vagy hatósági megkeresés alapján induló eljárás esetén a díj megfizetésére kötelezett nem tesz eleget a (9) bekezdés szerinti hiánypótlási felhívásban foglaltaknak, az ingatlanügyi hatóság az eljárást lefolytatja, azonban a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek.
 
@@ -38,6 +38,6 @@ d) az a)–c) pontok valamelyikében foglalt feltétel teljesülését, valamint
 
 (12) Ha a díj megfizetését a végrehajtást kérő az (1) bekezdés szerint, vagy a (9) bekezdés alapján történő fizetést követően a végrehajtási eljárásban igazolta, továbbá utólagos díjfizetés igénybevétele esetén a díjat a végrehajtási eljárásban végrehajtási költségként kell behajtani.
 
-(13) A 32/A. § (4) bekezdésében meghatározott díjat a soron kívüli eljárás lefolytatása iránti kérelem előterjesztésével egyidejűleg kell az ingatlanügyi hatóság pénztárába befizetni, vagy amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával megfizetni, illetve a díj készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén mellékelni kell a kérelemhez a díj megfizetését igazoló okiratot vagy annak másolatát.
+(13) A 32/A. § (4) bekezdésében meghatározott díjat a soron kívüli eljárás lefolytatása iránti kérelem előterjesztésével egyidejűleg kell az ingatlanügyi hatóság pénztárába befizetni, vagy amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával megfizetni, illetve a díj készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén mellékelni kell a kérelemhez a díj megfizetését igazoló bizonylatot vagy annak másolatát.
 
 (14) A (9) bekezdésben foglaltak nem teljesítése esetén a soronkívüliség, illetve a hitelesített vagy hitelesítés nélküli iratmásolat, illetőleg kivonat iránti kérelem nem teljesíthető.

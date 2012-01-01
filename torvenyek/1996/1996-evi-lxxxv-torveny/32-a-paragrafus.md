@@ -4,7 +4,7 @@
 
 32/A. § (1) Az elsőfokú eljárásért – ha e törvény másként nem rendelkezik – változással érintett ingatlanonként 6600 forint összegű díjat kell fizetni.
 
-(2) A jelzálogjog bejegyzése, valamint a bejegyzés módosítása iránti eljárás díja változással érintett ingatlanonként 12 600 forint.
+(2) A jelzálogjog bejegyzése, valamint – ide nem értve a jelzálogjog törlését – a bejegyzés módosítása iránti eljárás díja változással érintett ingatlanonként 12 600 forint.
 
 (3)
 
@@ -20,4 +20,6 @@
 
 (9) A (7) és (8) bekezdés rendelkezéseit a lakásszövetkezet esetén is megfelelően alkalmazni kell.
 
-(10) Az ingatlan-nyilvántartási eljárásért fizetett díj az ingatlanügyi hatóság saját bevételét képezi, amely az ingatlan-nyilvántartásért felelős miniszter által az e törvény felhatalmazása alapján az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. Az ingatlan-nyilvántartási eljárásért fizetendő díjbevétel 25%-át az ingatlan-nyilvántartásért felelős miniszter jogosult központosítani, amely kizárólag a földügyi szakigazgatáson belüli bevétel kiegyenlítésére fordítható.
+(9a) Az ingatlan közigazgatási címének közterület-név változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja közterületenként 2 600 forint.
+
+(10) Az ingatlan-nyilvántartási eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely az ingatlan-nyilvántartásért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. Az ingatlan-nyilvántartási eljárásért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
