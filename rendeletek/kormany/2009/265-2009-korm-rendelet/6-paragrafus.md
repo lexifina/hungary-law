@@ -10,13 +10,13 @@ c) a Nemzetbiztonsági Hivatal,
 
 d) a Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetség),
 
-e) a rendszerirányító,
+e)[^17] a szállítási rendszerirányító,
 
 f) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló törvény szerinti Kormányzati Koordinációs Bizottság Titkársága,
 
 g) a villamos energiáról szóló törvény szerinti átviteli rendszerirányításra vonatkozó működési engedéllyel rendelkező engedélyes,
 
-h) a földgáztárolók, valamint
+h)[^18] a földgáztároló engedélyes, valamint
 
 i) az Országos Meteorológiai Szolgálat
 
@@ -45,3 +45,6 @@ f) a felhasználásra javasolt földgáz javasolt árát, a javasolt áralkalmaz
 g) a földgázkészlet visszapótlásának javasolt rendjét és a visszapótlásra kötelezetteket.
 
 (7) A földgáz biztonsági készletből történő értékesítésre vonatkozó árjavaslatát a Bizottság – az Fbkt. 5. § (3) bekezdésével összhangban – a földgáznak az árjavaslat elkészítésekor ismert tényleges árának figyelembevételével készíti elő. A Szövetség a javaslat elkészítéséhez szükséges – különösen ár- és pénzügyi – információkat köteles a Bizottság rendelkezésére bocsátani.
+
+[^17]: A 6. § (2) bekezdés e) pontja a 293/2011. (XII. 22.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 6. § (2) bekezdés h) pontja a 293/2011. (XII. 22.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.

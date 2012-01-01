@@ -1,3 +1,5 @@
 ## Az Európai Unió jogának való megfelelés
 
-20. § Ez a rendelet a földgázellátás biztonságának megőrzését szolgáló intézkedésekről szóló 2004. április 26-i 2004/67/EK európai parlamenti és a tanácsi irányelv 4. és 8. cikkének való megfelelést szolgálja.
+20. §[^63] Ez a rendelet a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+[^63]: A 20. § a 293/2011. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
