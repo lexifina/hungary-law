@@ -1,23 +1,19 @@
-8. § (1) A nukleáris biztonsági és a sugárvédelmi helyzet értékelése
-
-a) az NVM működésének megkezdéséig az atomenergia alkalmazója és az OAH,
-
-b) az NVM működésének megkezdését követően az NVM szakértői részleg
-
-feladata.
+8. §[^9] (1) A nukleáris biztonsági és a sugárvédelmi helyzet értékelése az atomenergia alkalmazója és az atomenergia-felügyeleti szerv feladata.
 
 (2) Az értékeléshez és a döntés-előkészítéshez adatot és információt biztosít
 
-a) az OAH,
+a) az atomenergia-felügyeleti szerv,
 
-b) az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF),
+b) a hivatásos katasztrófavédelmi szerv központi szerve,
 
 c) az Országos Környezeti Sugárvédelmi Ellenőrző Rendszer Információs Központja,
 
 d) a Magyar Honvédség Ágazati Információs Központja,
 
-e) a Földművelésügyi és Vidékfejlesztési Minisztérium Radiológiai Ellenőrző Hálózat Ágazati Információs Központja,
+e) az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium Radiológiai Ellenőrző Hálózat Ágazati Információs Központja,
 
 f) az atomenergia alkalmazója,
 
 g) az Országos Meteorológiai Szolgálat.
+
+[^9]: A 8. § a 361/2011. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.

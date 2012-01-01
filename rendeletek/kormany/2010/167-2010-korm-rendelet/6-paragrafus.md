@@ -1,3 +1,6 @@
-6. § (1) A nukleárisbaleset-elhárítás kormányzati döntés-előkészítéssel kapcsolatos szakmai feladatait az NVM végzi.
+6. § (1)[^5] A nukleárisbaleset-elhárítás kormányzati döntés-előkészítéssel kapcsolatos szakmai feladatait a kormányzati koordinációs szerv végzi.
 
-(2) Az NVM keretein belül szakértői részleg működik, melynek tevékenységéhez az elemzési eredményeket az Országos Atomenergia Hivatal (a továbbiakban: OAH), valamint az Országos Katasztrófavédelmi Főigazgatóság Nukleáris Baleseti Információs és Értékelő Központja (a továbbiakban: NBIÉK) biztosítja.
+(2)[^6]
+
+[^5]: A 6. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 6. § (2) bekezdését a 361/2011. (XII. 30.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.

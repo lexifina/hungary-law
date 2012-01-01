@@ -1,3 +1,6 @@
-7. § (1) A lakosság sugárvédelmét biztosító feladatok végrehajtásának országos koordinálását a KKB Operatív Törzs látja el.
+7. § (1)[^7] A lakosság sugárvédelmét biztosító feladatok végrehajtásának országos koordinálását a hivatásos katasztrófavédelmi szerv központi szerve látja el.
 
-(2) Az ONER riasztását és értesítését a KKB Veszélyhelyzeti Központja látja el.
+(2)[^8] Az ONER riasztását és értesítését a hivatásos katasztrófavédelmi szerv központi szerve látja el.
+
+[^7]: A 7. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^8]: A 7. § (2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 10. § (4) bekezdése szerint módosított szöveg.

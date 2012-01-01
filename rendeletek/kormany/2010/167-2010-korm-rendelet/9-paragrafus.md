@@ -1,8 +1,8 @@
-9. § (1) A Nukleárisbaleset-elhárítási Műszaki Tudományos Tanács (a továbbiakban: NBE MTT) a normál működési állapotban a KKB felkérésére
+9. § (1)[^10] A kormányzati koordinációs szerv a normál működési állapotban
 
-a) figyelemmel kíséri a nukleáris létesítmények veszélyhelyzetekre történő felkészülési és a következmények elhárítási képességeinek színvonalát, és azokról – az OAH-hal és az atomenergia alkalmazójával együttműködve – kétévenként tájékoztató anyagot készít,
+a) figyelemmel kíséri a nukleáris létesítmények veszélyhelyzetekre történő felkészülési és a következmények elhárítására való képességének színvonalát, és azokról – az atomenergia-felügyeleti szervvel és az atomenergia alkalmazójával együttműködve – kétévenként tájékoztató anyagot készít,
 
-b) értékeli és folyamatosan pontosítja a Magyar Köztársaság nukleáris veszélyeztetettségének mértékét,
+b) értékeli és folyamatosan pontosítja az ország nukleáris veszélyeztetettségének mértékét,
 
 c) elkészíti javaslatát a nukleárisbaleset-elhárítás 3 évre szóló műszaki-fejlesztési tervére, és évenkénti bontásban az éves költségvetési tervek készítéséhez igazodóan megjelöli a fő fejlesztési területeket,
 
@@ -12,6 +12,10 @@ e) az ONER működtetésében részt vevő, 1. melléklet szerinti szervek öné
 
 f) javaslatot tesz a nukleárisbaleset-elhárítási rendszer képzési, gyakorlatozási tevékenységére.
 
-(2) A készenléti és veszélyhelyzeti működési állapotban az NBE MTT a KKB felkérésére javaslatot készít a felmerülő, új kérdések és problémák tudományos megválaszolására, megoldására.
+(2)[^11] A készenléti és veszélyhelyzeti működési állapotban a kormányzati koordinációs szerv elemzi a felmerülő új kérdések és problémák tudományos megválaszolását, megoldását.
 
-(3) A helyreállítási működési állapotban az NBE MTT a KKB elnökének felkérésére részt vesz a nukleárisbaleset okainak kivizsgálásában.
+(3)[^12] A helyreállítási működési állapotban a Kormány eseti döntésének megfelelően a kormányzati koordinációs szerv részt vesz a nukleáris baleset okainak kivizsgálásában.
+
+[^10]: A 9. § (1) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (2) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^12]: A 9. § (3) bekezdése a 361/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

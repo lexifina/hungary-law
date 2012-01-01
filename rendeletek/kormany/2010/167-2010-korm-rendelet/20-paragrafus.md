@@ -1,3 +1,3 @@
-## 19. §[^1]
+20. §[^30]
 
-[^1]: A 19. § a 20. § (1) bekezdése alapján hatályát vesztette.
+[^30]: A 20. § a (2) bekezdés alapján hatályát vesztette.
