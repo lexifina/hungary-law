@@ -1,5 +1,5 @@
-## 12. §[^11] Ez a rendelet az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
+## való megfelelést szolgálja.
 
-1. melléklet a 22/2006. (IV. 25.) BM rendelethez
+1. melléklet a 22/2006. (IV. 25.) BM rendelethez[^36]
 
-[^11]: Az újabb 12. §-t a 25/2007. (V. 31.) IRM rendelet 30. § (3) bekezdése iktatta be.
+[^36]: Az 1. melléklet az 55/2011. (XII. 21.) BM rendelet 12. §-ával megállapított szöveg.

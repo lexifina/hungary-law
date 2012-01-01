@@ -1,27 +1,29 @@
-|  | Sorszám: SZ1234567 |
+## A 2012. január 1-jét követően kiállításra kerülő igazolvány tartalmi elemei
 
-| IGAZOLVÁNY |
+| Sorszám: SZ1234567 |
 
-| Családi és utónév: |
+| IGAZOLVÁNY Családi és utónév: Születési hely, idő: Anyja neve: Állampolgárság: személy- és vagyonőr részére |
 
-| Születési hely, idő: |
+| ÉRVÉNYES -ig. A személyazonosságot igazoló hatósági igazolvánnyal együtt jogosít fel a tevékenység végzésére. Engedélyező hatóság: Engedélyezés dátuma: |
 
-| Anyja neve: |
+| Sorszám: MA1234567 |
 
-| Állampolgárság: |
+| IGAZOLVÁNY Családi és utónév: Születési hely, idő: Anyja neve: Állampolgárság: magánnyomozó részére |
 
-| személy- és vagyonőr részére |
+| ÉRVÉNYES -ig. A személyazonosságot igazoló hatósági igazolvánnyal együtt jogosít fel a tevékenység végzésére. Engedélyező hatóság: Engedélyezés dátuma: |
 
-| ÉRVÉNYES |
+| Sorszám: VT1234567 |
 
-| -ig. |
+| IGAZOLVÁNY Családi és utónév: Születési hely, idő: Anyja neve: Állampolgárság: vagyonvédelmi rendszert tervező, szerelő részére |
 
-| A személyazonosságot igazoló |
+| ÉRVÉNYES -ig. A személyazonosságot igazoló hatósági igazolvánnyal együtt jogosít fel a tevékenység végzésére. Engedélyező hatóság: Engedélyezés dátuma: |
 
-| hatósági igazolvánnyal és a kamarai igazolvánnyal együtt jogosít fel a tevékenység végzésére. |
+| Sorszám: VS1234567 |
 
-| Engedélyező hatóság: |
+| IGAZOLVÁNY Családi és utónév: Születési hely, idő: Anyja neve: Állampolgárság: vagyonvédelmi rendszert szerelő részére |
 
-| Engedélyezés dátuma: |
+| ÉRVÉNYES -ig. A személyazonosságot igazoló hatósági igazolvánnyal együtt jogosít fel a tevékenység végzésére. Engedélyező hatóság: Engedélyezés dátuma: |
 
-3. melléklet a 22/2006. (IV. 25.) BM rendelethez
+3. melléklet a 22/2006. (IV. 25.) BM rendelethez[^38]
+
+[^38]: A 3. melléklet az 55/2011. (XII. 21.) BM rendelet 12. §-ával megállapított szöveg.
