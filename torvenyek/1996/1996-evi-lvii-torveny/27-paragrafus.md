@@ -1,6 +1,6 @@
 27. § (1) A 24. § (1) bekezdése alkalmazásában a nettó árbevétel számítása során nem kell számításba venni az érintett vállalkozásoknak (26. §) vagy azok részeinek egymás közötti forgalmát.
 
-(2) Külföldön honos vállalkozások nettó árbevételének számítása során a Magyar Köztársaság területén eladott árukból az előző üzleti évben elért nettó árbevételt kell figyelembe venni.
+(2) Külföldön honos vállalkozások nettó árbevételének számítása során a Magyarország területén eladott árukból az előző üzleti évben elért nettó árbevételt kell figyelembe venni.
 
 (3) Az állami vagy helyi önkormányzati többségi tulajdonban lévő érintett vállalkozások nettó árbevételének kiszámításánál azt a gazdasági egységet alkotó vállalkozást kell számításba venni, amely piaci magatartásának meghatározásában önálló döntési joggal rendelkezik.
 

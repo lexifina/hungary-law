@@ -1,17 +1,17 @@
-## Az eljárási díj és költség
+## Igazgatási szolgáltatási díj és eljárási költség
 
-62. § (1) Ha az eljárás a 24. § vagy a 25. § alapján kérelemre indul, a kérelmező négymillió forint eljárási díjat köteles fizetni, a kérelem benyújtásával egyidejűleg. Ha az eljáró versenytanács a 24. § alapján indított eljárásban a határozatot a 63. § (3) bekezdésének b) pontja alapján hozza meg, a határozat kézbesítésétől számított tizenöt napon belül további tizenkettőmillió forint eljárási díjat kell fizetni. Az eljárásnak a 68. § (5) bekezdése alapján történő megszüntetése esetében a befizetett eljárási díj felét vissza kell téríteni az ügyfélnek. A 68. § (4) bekezdése alapján történő megszüntetés esetében az eljárás díjmentes.
+62. § (1) Ha az eljárás a 67. § (2) bekezdése alapján kérelemre indul, az eljárásért – a jogorvoslati eljárást ide nem értve – igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj mértéke
 
-(2) Ha az eljáró versenytanács határozatában a 77. § (1) bekezdésének b) pontja alkalmazásával a vállalkozások összefonódását engedélyezi, egyúttal kötelezi az ügyfelet az (1) bekezdésben meghatározott díj, illetve a (3) bekezdésben meghatározott költségek megfizetésére.
+a) ha az eljáró versenytanács a 24. § alapján indított eljárásban a 63. § (4) bekezdése alapján a 63. § (3) bekezdés b) pontjának alkalmazásáról dönt, tizenhatmillió forint,
 
-(3) Az ügyfél köteles előlegezni és – az eljárás eredményére tekintet nélkül – viselni a kérelemre indult eljárás költségeit. Amennyiben a kérelem alapos, az eljárási díj és költség a kérelmező és azon vállalkozás között, akire a határozat vonatkozik, megosztható.
+b) egyéb esetben négymillió forint.
 
-(4) A hivatalból indított eljárásban felmerült költséget a törvénybe ütköző magatartás megállapítása esetén az ügyfél viseli. A törvénybe ütköző magatartás megállapításának hiányában a hivatalból indított eljárás költségét az állam viseli.
+(2) Az eljárás kezdeményezésekor meg kell fizetni az (1) bekezdés b) pontja szerinti igazgatási szolgáltatási díjat.
 
-(5) Hivatalból indult vizsgálat esetén, ha több vállalkozás együttesen valósította meg a törvénybe ütköző magatartást, az eljárás költségeinek megfizetéséért egyetemlegesen felelnek.
+(3) Ha az eljáró versenytanács a 24. § alapján indított eljárásban a 63. § (4) bekezdése alapján a 63. § (3) bekezdés b) pontjának alkalmazásáról dönt, végzésében – nyolcnapos határidő megjelölésével és a jogkövetkezményekre való figyelmeztetés mellett – felszólítja a kérelmezőt az (1) bekezdés a) pontja szerinti igazgatási szolgáltatási díj a (2) bekezdés szerint megfizetett összegen túli részének megfizetésére. Ha a kérelmező a kitűzött határidőn belül a fizetési kötelezettségének nem tesz eleget, az eljárást meg kell szüntetni; az igazgatási szolgáltatási díjnak a (2) bekezdés szerint megfizetett része visszatérítésének ebben az esetben nincs helye.
 
-(6) Az eljárási díj, valamint a költség megfizetése alól mentesség nem adható. A tolmács díját az állam előlegezi és viseli.
+(4) Az eljárásnak a hiánypótlási felhívás nemteljesítése miatt történő megszüntetése esetén az eljárás díjmentes, a már megfizetett igazgatási szolgáltatási díjat vissza kell téríteni.
 
-(7)
+(5) Az eljárásnak a kérelem visszavonása miatt történő megszüntetése esetén a már megfizetett igazgatási szolgáltatási díj felét vissza kell téríteni.
 
-(8) Az eljárás során felmerült költséget megállapító végzés ellen külön jogorvoslatnak (82. §) van helye, amely a végrehajtásra halasztó hatályú.
+(6) Az igazgatási szolgáltatási díjba valamennyi eljárási költség beleszámít.

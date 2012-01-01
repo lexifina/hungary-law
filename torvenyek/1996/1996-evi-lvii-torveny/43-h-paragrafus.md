@@ -24,4 +24,4 @@ c) amennyiben a bejelentésben foglaltakkal kapcsolatos eljárás más hatóság
 
 (10) A (8) bekezdés b) pontja szerinti végzést a bejelentővel minden esetben, a bejelentettel pedig akkor kell közölni, ha az eljárásban részt vett.
 
-(11) A (8) bekezdés b) pontja szerinti végzés ellen a bejelentő élhet a közléstől számított nyolc napon belül jogorvoslati kérelemmel, melyet a Fővárosi Bíróság közigazgatási hatósági eljárásban hozott végzés elleni bírósági felülvizsgálatra vonatkozó szabályok szerint bírál el. Ha a bíróság álláspontja szerint a (8) bekezdés a) pontja alkalmazásának van helye, a vizsgálót a vizsgálat harminc napon belül történő elrendelésére kötelezi.
+(11) A (8) bekezdés b) pontja szerinti végzés ellen a bejelentő élhet a közléstől számított nyolc napon belül jogorvoslati kérelemmel, melyet a Fővárosi Törvényszék közigazgatási hatósági eljárásban hozott végzés elleni bírósági felülvizsgálatra vonatkozó szabályok szerint bírál el. Ha a bíróság álláspontja szerint a (8) bekezdés a) pontja alkalmazásának van helye, a vizsgálót a vizsgálat harminc napon belül történő elrendelésére kötelezi.

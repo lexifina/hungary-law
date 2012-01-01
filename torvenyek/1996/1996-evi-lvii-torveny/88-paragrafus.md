@@ -4,7 +4,7 @@
 
 (3) A magatartás tanúsításától számított öt év eltelte után perindításnak helye nincs.
 
-(4) Az e fejezet alapján indított perekre a megyei (fővárosi) bíróságnak van hatásköre.
+(4) Az e fejezet alapján indított perekre a törvényszéknek van hatásköre.
 
 (5) A 4. vagy a 6. § rendelkezéseinek megsértése miatt indított perekben az érdekelt – a polgári jogi igényeken felül – az ideiglenes intézkedésre vonatkozó feltételekkel kérheti biztosítási intézkedés elrendelését a bírósági végrehajtásról szóló törvény szabályai szerint, ha valószínűsítette, hogy a kártérítés, illetve a jogsértéssel elért gazdagodás visszatérítése iránti követelésének későbbi kielégítése veszélyben van; továbbá kérheti a jogsértő fél kötelezését banki, pénzügyi és kereskedelmi adatainak és iratainak közlésére, illetve bemutatására a fenti biztosítási intézkedés elrendelése céljából. Az érdekelt – amennyiben a 4. vagy a 6. §-okban foglalt rendelkezéseket feltételezetten sértő cselekmények folytatásához hozzájárul – a jogsértés abbahagyásának követelése helyett arra is kérheti a bíróságot, hogy a feltételezett jogsértőt biztosíték adására kötelezze. A biztosíték letételét a bíróság az érdekelt erre irányuló kérelme hiányában is elrendelheti, feltéve, hogy az érdekelt előterjesztett kérelmet a jogsértés abbahagyása iránt, és annak a bíróság nem ad helyt.
 
@@ -16,7 +16,7 @@ b) banki, pénzügyi és kereskedelmi adatok közlésére, illetve a birtokában
 
 (7) Előzetes bizonyításnak a per megindítása előtt helye van, amennyiben az érdekelt fél a 4. vagy a 6. §-ba ütköző magatartás tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Az előzetes bizonyítás elrendelésének kérdésében hozott határozat ellen fellebbezésnek van helye.
 
-(8) A 4., illetve a 6. §-okban foglalt rendelkezések megsértése esetén ideiglenes intézkedés iránti kérelem a keresetlevél benyújtását megelőzően is előterjeszthető, amelyet a megyei bíróság (Fővárosi Bíróság) nemperes eljárásban bírál el. Az ideiglenes intézkedés iránti nemperes eljárásra e törvény, valamint a Polgári perrendtartásról szóló 1952. évi III. törvény általános szabályai – a nemperes eljárás sajátosságaiból fakadó eltérésekkel – megfelelően irányadók. Ha a kérelmező a 4. vagy a 6. §-okban foglalt rendelkezések megsértése miatt a pert a (9) bekezdésben foglaltak szerint megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
+(8) A 4., illetve a 6. §-okban foglalt rendelkezések megsértése esetén ideiglenes intézkedés iránti kérelem a keresetlevél benyújtását megelőzően is előterjeszthető. Ez az eljárás a törvényszék hatáskörébe tartozik, amely a kérelmet nemperes eljárásban bírálja el. Az ideiglenes intézkedés iránti nemperes eljárásra e törvény, valamint a Polgári perrendtartásról szóló 1952. évi III. törvény általános szabályai – a nemperes eljárás sajátosságaiból fakadó eltérésekkel – megfelelően irányadók. Ha a kérelmező a 4. vagy a 6. §-okban foglalt rendelkezések megsértése miatt a pert a (9) bekezdésben foglaltak szerint megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
 
 (9) A bíróság az ideiglenes intézkedés tárgyában soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül határoz. Az ideiglenes intézkedés tárgyában hozott határozat elleni fellebbezést a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül bírálja el.
 

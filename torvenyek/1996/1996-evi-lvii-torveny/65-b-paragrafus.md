@@ -6,7 +6,7 @@
 
 (4) Ha az érintett személy nyilatkozatával ellentétben a vizsgáló álláspontja szerint az irat nem esik az (1) bekezdés hatálya alá, az iratot, (illetve az adathordozóról készített fizikai tükörmásolatot) olyan tárolóeszközben kell elhelyezni, amely kizárja az irat megismerhetőségét. A tárolóeszköz lezárását az érintett személy és a vizsgáló aláírásával hitelesíti, oly módon, hogy a hitelesítés sérelme nélkül a tárolóeszköz felnyitása ne legyen lehetséges. A tárolóeszközt a Gazdasági Versenyhivatal veszi birtokba.
 
-(5) Az iratnak az (1) bekezdés hatálya alá tartozásáról a Gazdasági Versenyhivatal kérelme alapján a Fővárosi Bíróság nemperes eljárásban, a kérelem előterjesztésétől számított nyolc napon belül dönt, az ügyfél meghallgatásával. Az iratot tartalmazó tárolóeszközt a Gazdasági Versenyhivatal a kérelméhez mellékeli.
+(5) Az iratnak az (1) bekezdés hatálya alá tartozásáról a Gazdasági Versenyhivatal kérelme alapján a Fővárosi Törvényszék nemperes eljárásban, a kérelem előterjesztésétől számított nyolc napon belül dönt, az ügyfél meghallgatásával. Az iratot tartalmazó tárolóeszközt a Gazdasági Versenyhivatal a kérelméhez mellékeli.
 
 (6) Ha a bíróság azt állapítja meg, hogy az irat nem esik az (1) bekezdés hatálya alá, az iratot a Gazdasági Versenyhivatal számára kiadja; a továbbiakban az iratra vonatkozó általános szabályok irányadóak. Ellenkező döntés esetében a bíróság az iratot az ügyfélnek adja ki.
 

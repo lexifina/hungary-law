@@ -6,6 +6,6 @@
 
 (4) A díj kifizetéséről az eljáró versenytanács a (2) bekezdés szerinti igényt előterjesztő személyek vonatkozásában külön végzést hoz, legkésőbb az eljárást befejező határozatának meghozatalát követő harminc napon belül. A végzés ellen az érintett személy külön jogorvoslattal (82. §) élhet.
 
-(5) A díj a (4) bekezdés szerinti végzés jogerőre emelkedésétől számított harminc napon belül esedékes. A kifizetésről a Gazdasági Versenyhivatal bírságbevételi számlája terhére kell intézkedni.
+(5) A díj a (4) bekezdés szerinti végzés jogerőre emelkedésétől számított harminc napon belül esedékes. A díj kifizetését a központi költségvetésről szóló törvénynek a központi bírságbevételeket tartalmazó fejezete kiadási előirányzatainak terhére kell teljesíteni.
 
 (6) Ha a jutalmat vissza kell fizetni, ennek az eljáró versenytanács e tárgyban, legkésőbb a visszafizetést megalapozó határozat jogerőre emelkedésétől számított harminc napon belül hozott külön végzése alapján van helye. A végzés ellen az érintett személy külön jogorvoslattal (82. §) élhet. A visszafizetendő díj adók módjára behajtandó köztartozásnak minősül.
