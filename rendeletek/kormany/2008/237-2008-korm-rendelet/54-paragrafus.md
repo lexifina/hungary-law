@@ -2,7 +2,7 @@
 
 (2) A szakmai lebonyolításért felelős tárca fejezeti költségvetésért felelős vezetője az NKE részére beterjeszti a tervezési körirat közreadását követő 5 munkanapon belül adott projektre vonatkozó finanszírozási tervét és önerő igényét.
 
-(3)[^60] A Svájci–Magyar Együttműködési Program keretében finanszírozott projektek esetén a Projekt Végrehajtóknak az EFK-ról utalt előleg mértéke
+(3)[^64] A Svájci–Magyar Együttműködési Program keretében finanszírozott projektek esetén a Projekt Végrehajtóknak az EFK-ról utalt előleg mértéke
 
 a) egyedi projekt támogatási forma esetén a Svájci–Magyar Együttműködési Programból származó támogatás 25%-a,
 
@@ -12,7 +12,7 @@ c) a svájci hatóság, illetőleg az NKE egyedi döntése alapján, a pénzügy
 
 lehet.
 
-(4)[^61] Kockázati tőke támogatás nyújtása esetén a (3) bekezdés a) pontjában meghatározott mértéknél alacsonyabb mértékű előleg is meghatározható.
+(4)[^65] Kockázati tőke támogatás nyújtása esetén a (3) bekezdés a) pontjában meghatározott mértéknél alacsonyabb mértékű előleg is meghatározható.
 
-[^60]: Az 54. § (3) bekezdését a 226/2009. (X. 14.) Korm. rendelet 12. §-a iktatta be.
-[^61]: Az 54. § (4) bekezdését a 33/2011. (III. 17.) Korm. rendelet 6. §-a iktatta be.
+[^64]: Az 54. § (3) bekezdését a 226/2009. (X. 14.) Korm. rendelet 12. §-a iktatta be.
+[^65]: Az 54. § (4) bekezdését a 33/2011. (III. 17.) Korm. rendelet 6. §-a iktatta be.
