@@ -1,5 +1,0 @@
-7. § (1)[^9] Ha a családi segély megállapítása után a hozzátartozó kereseti (jövedelmi) viszonyaiban olyan változás áll be, amely a segély felemelését teszi indokolttá, kérheti az összeg felemelését. Ilyen esetben a változást követő hónap első napjától kell a családi segély összegét felemelni. Ha a kérelmet késedelmesen terjesztik elő, a felemelt összegű családi segély legkorábban a kérelem benyújtását megelőző hatodik hónap első napjától kezdődően folyósítható.
-
-(2) Az olyan változást, amelynek folytán a segélyt csökkenteni kell vagy meg kell szüntetni, a segélyezett hozzátartozó köteles 8 napon belül a jegyzőnek írásban bejelenteni. Ilyen esetben a jegyző intézkedik a változást követő hónap első napjától a családi segély összegének csökkentésére vagy megszüntetésére.
-
-[^9]: A 7. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 420. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
