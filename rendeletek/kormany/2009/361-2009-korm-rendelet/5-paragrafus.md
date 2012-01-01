@@ -1,11 +1,11 @@
-5. §[^7] (1)[^8] Lakás-előtakarékossági szerződéssel vagy életbiztosítási szerződéssel kombinált hitel esetén a kapcsolódó befizetési kötelezettséget figyelembe kell venni a hitelezhetőségi limit meghatározásánál, mint törlesztőrészlet növelő tényezőt.
+5. §[^11] (1)[^12] Lakás-előtakarékossági szerződéssel vagy életbiztosítási szerződéssel kombinált hitel esetén a kapcsolódó befizetési kötelezettséget figyelembe kell venni a hitelezhetőségi limit meghatározásánál, mint törlesztőrészlet növelő tényezőt.
 
 (2) Lakás-előtakarékossági szerződéssel kombinált lakáscélú hitel esetén nem vehető figyelembe a hitel összegének meghatározásánál a lakás-takarékpénztári hitel.
 
-(3)[^9] Életbiztosítási szerződéssel kombinált hitel esetén a hitel összegének meghatározásánál csak a tőkegarantált összeg és a hozamgarancia, az eléréses életbiztosítás esetén csak a biztosítási összeg vehető figyelembe.
+(3)[^13] Életbiztosítási szerződéssel kombinált hitel esetén a hitel összegének meghatározásánál csak a tőkegarantált összeg és a hozamgarancia, az eléréses életbiztosítás esetén csak a biztosítási összeg vehető figyelembe.
 
 (4) Ha a hitelnyújtó egy kedvezményes időtartamra alacsonyabb kamatot és díjakat számít fel vagy a tőketörlesztés megkezdésére haladékot nyújt, a kedvezményes időtartam lejárta utáni legmagasabb törlesztőrészletet kell figyelembe venni a hitelezhetőségi limitnek való megfelelés vizsgálatánál.
 
-[^7]: A 5. § a 8. § (2) bekezdése alapján 2010. június 11-én lépett hatályba.
-[^8]: Az 5. § (1) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (8) bekezdése szerint módosított szöveg.
-[^9]: Az 5. § (3) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (8) bekezdése szerint módosított szöveg.
+[^11]: A 5. § a 8. § (2) bekezdése alapján 2010. június 11-én lépett hatályba.
+[^12]: Az 5. § (1) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (8) bekezdése szerint módosított szöveg.
+[^13]: Az 5. § (3) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (8) bekezdése szerint módosított szöveg.
