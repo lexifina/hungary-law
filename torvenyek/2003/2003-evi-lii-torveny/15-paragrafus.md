@@ -1,6 +1,6 @@
 ## A szaporítóanyagok előállítása és forgalomba hozatala
 
-15. § (1) A Magyar Köztársaságban
+15. § (1) Magyarországon
 
 a) a Nemzeti Fajtajegyzékben,
 
@@ -18,7 +18,7 @@ szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal célj
 
 (3) Ha jogszabály másként nem rendelkezik, az (1) bekezdés alá nem tartozó növényfajok, illetve -fajták szabadon előállíthatók, forgalomba hozhatók, továbbszaporíthatók és árutermesztésre, árutermesztő ültetvény létesítésére felhasználhatók.
 
-(4) A Magyar Köztársaság területén tilos szaporítóanyagként felhasználni céltermeltetésből bármilyen okból visszamaradt szaporítóanyagot.
+(4) Magyarország területén tilos szaporítóanyagként felhasználni céltermeltetésből bármilyen okból visszamaradt szaporítóanyagot.
 
 (5) Az oltalom alatt álló növényfajta szaporítóanyagát csak a 15. § (1) bekezdésében meghatározott feltételek szerint lehet termeszteni és forgalomba hozni.
 

@@ -4,7 +4,7 @@
 
 a) a nemesítő,
 
-b) a Magyar Köztársaságban, az Európai Unióban, vagy valamely tagállamban nemzeti vagy közösségi növényfajta-oltalomban részesített növényfajta jogosultja, vagy a növényfajta-oltalomra bejelentett növényfajta igényjogosultja,
+b) Magyarországon, az Európai Unióban, vagy valamely tagállamban nemzeti vagy közösségi növényfajta-oltalomban részesített növényfajta jogosultja, vagy a növényfajta-oltalomra bejelentett növényfajta igényjogosultja,
 
 c) a fajtafenntartó.
 
@@ -12,7 +12,7 @@ c) a fajtafenntartó.
 
 a) magyar természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, vagy
 
-b) más tagállam természetes vagy jogi személye, illetve jogi személyiség nélküli gazdasági társasága, akinek (amelynek) lakóhelye vagy székhelye a Magyar Köztársaság vagy valamely tagállam területén van.
+b) más tagállam természetes vagy jogi személye, illetve jogi személyiség nélküli gazdasági társasága, akinek (amelynek) lakóhelye vagy székhelye Magyarország vagy valamely tagállam területén van.
 
 (4) Nem tagállam természetes vagy jogi személye, illetve jogi személyiség nélküli gazdasági társasága csak képviselő útján jelenthet be növényfajtát állami elismerésre.
 

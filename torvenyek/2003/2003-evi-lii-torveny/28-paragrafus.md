@@ -4,6 +4,6 @@
 
 (2) A minőségvédelmi bírság mértékét külön jogszabály szerint kell megállapítani.
 
-(3) A minőségvédelmi bírságot a növénytermesztési hatóság előirányzat-felhasználási keretszámlájára kell befizetni. A befolyt összeget a miniszter döntése alapján a vizsgálati módszerek korszerűsítésére, a szaporítóanyagok minősítésének javítására, valamint a hatósági ellenőrzést elősegítő intézkedésekre lehet felhasználni.
+(3) A minőségvédelmi bírságot a növénytermesztési hatóság előirányzat-felhasználási keretszámlájára kell befizetni.
 
-(4) A bírságot és a késedelmi pótlékot adók módjára kell behajtani, amelyről az állami adóhatóság gondoskodik.
+(4)

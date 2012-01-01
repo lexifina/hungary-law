@@ -16,7 +16,7 @@ c) továbbszaporítása során tulajdonságait változatlanul megőrzi, és ezá
 
 5. Állami fajtaelismerés: hivatalos vizsgálatok és eljárások rendszere, amelynek eredményeként a növényfajta, illetve a szőlő klón a Nemzeti Fajtajegyzékbe bejegyzésre kerül.
 
-6. Nemzeti Fajtajegyzék: a Magyar Köztársaságban állami elismerésben részesített fajták, valamint a szőlő klónok lényeges adatait tartalmazó, évente közzétett jegyzék.
+6. Nemzeti Fajtajegyzék: Magyarországon állami elismerésben részesített fajták, valamint a szőlő klónok lényeges adatait tartalmazó, évente közzétett jegyzék.
 
 7. Leíró Fajtajegyzék: a Nemzeti Fajtajegyzékben felsorolt egyes növényfajták leírását és lényeges jellemzőit tartalmazó jegyzék.
 
@@ -78,7 +78,7 @@ d) az a)–c) pontok szerinti személy örököse, illetve jogutódja.
 
 32. Szaporítóanyag előállítási zárt körzet: a szaporítóanyag előállítás genetikai és növényegészségügyi tisztaságának megőrzése céljából e törvényben és külön jogszabályban előírt korlátozásokkal elrendelt termesztési körzet; ide tartoznak a külön jogszabályban meghatározott nagyságú törzsültetvények is.
 
-33. Céltermeltetés: tagállamokon kívüli ország természetes vagy jogi személyével, illetve jogi személyiség nélküli gazdasági társaságával kötött szerződés alapján a Magyar Köztársaság területén szaporítóanyag termesztése azzal a céllal, hogy az előállított szaporítóanyag teljes mennyiségét az Európai Unió területéről kiszállítsák.
+33. Céltermeltetés: tagállamokon kívüli ország természetes vagy jogi személyével, illetve jogi személyiség nélküli gazdasági társaságával kötött szerződés alapján Magyarország területén szaporítóanyag termesztése azzal a céllal, hogy az előállított szaporítóanyag teljes mennyiségét az Európai Unió területéről kiszállítsák.
 
 34. Védőtávolság:
 

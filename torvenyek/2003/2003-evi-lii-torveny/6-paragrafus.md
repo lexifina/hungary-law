@@ -10,7 +10,7 @@ d) amely növényfajta bejelentője teljesíti az e törvényben és a külön j
 
 (2) A növényfajta
 
-a) megkülönböztethető, ha egy vagy több lényeges tulajdonsága tekintetében határozottan eltér minden más növényfajtától, melynek létezése közismert a bejelentés benyújtásának időpontjában; a növényfajta közismert, ha azt a Magyar Köztársaságban vagy valamely tagállamban nemzeti fajtajegyzékre vétel céljából bejelentették, vagy ha a bejelentés eredményeként nemzeti fajtajegyzékre vették, illetve a Közösségi Fajtajegyzékben szerepel,
+a) megkülönböztethető, ha egy vagy több lényeges tulajdonsága tekintetében határozottan eltér minden más növényfajtától, melynek létezése közismert a bejelentés benyújtásának időpontjában; a növényfajta közismert, ha azt Magyarországon vagy valamely tagállamban nemzeti fajtajegyzékre vétel céljából bejelentették, vagy ha a bejelentés eredményeként nemzeti fajtajegyzékre vették, illetve a Közösségi Fajtajegyzékben szerepel,
 
 b) egyöntetű (egynemű), ha a szaporítási sajátosságai következtében várható variabilitástól eltekintve megfelelően egységes a megkülönböztethetőség vizsgálata során értékelt, valamint a fajtaleírásban közzétett lényeges tulajdonságaiban,
 

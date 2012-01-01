@@ -2,7 +2,7 @@
 
 19. § (1) Az állami elismerésben részesített szőlő-, gyümölcs-, fásszárú dísznövény- és erdészeti fajták minőségi szaporításának biztosítására törzskönyvezett növényállományt kell létrehozni. Ezeket törzskönyvezés céljából be kell jelenteni a növénytermesztési hatóságnak.
 
-(2) Aki a Magyar Köztársaság területén szőlő-, gyümölcs- és erdészeti fajta vetőmagját, vegetatív szaporító alapanyagát állítja elő, annak külön jogszabályban meghatározott feltételek szerint törzsültetvényt, illetve anyanövény-állományt kell létesítenie. A törzsültetvény létesítését a növénytermesztési hatóság engedélyezi.
+(2) Aki Magyarország területén szőlő-, gyümölcs- és erdészeti fajta vetőmagját, vegetatív szaporító alapanyagát állítja elő, annak külön jogszabályban meghatározott feltételek szerint törzsültetvényt, illetve anyanövény-állományt kell létesítenie. A törzsültetvény létesítését a növénytermesztési hatóság engedélyezi.
 
 (3) A központi és üzemi törzsültetvények fenntartását, ellenőrzési rendjét, azok szerepét a növényfajták szaporításában külön jogszabály szabályozza.
 
