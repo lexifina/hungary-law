@@ -16,6 +16,8 @@ ba) az előleg összege eléri vagy meghaladja a 900 000 forintnak megfelelő p�
 
 bb) egyéb, a ba) alpont alá nem tartozó esetekben pedig kéri a számla kibocsátását;
 
-c) belföldön kívül, a Közösség területén vagy harmadik államban teljesít termékértékesítést, szolgáltatásnyújtást, feltéve, hogy gazdasági célú letelepedési helye kizárólag belföldön van, gazdasági célú letelepedési hely hiányában pedig lakóhelye vagy szokásos tartózkodási helye van kizárólag belföldön.
+c) belföldön kívül, a Közösség területén teljesít termékértékesítést, szolgáltatásnyújtást, feltéve, hogy az adott ügylet teljesítésével legközvetlenebbül érintett gazdasági célú letelepedési helye belföldön van, gazdasági célú letelepedési hely hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön és az adófizetésre kötelezett személy a termék beszerzője vagy a szolgáltatás igénybevevője;
+
+d) belföldön kívül harmadik államban teljesít termékértékesítést, szolgáltatásnyújtást, feltéve, hogy az adott ügylet teljesítésével legközvetlenebbül érintett gazdasági célú letelepedési helye belföldön van, gazdasági célú letelepedési hely hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön.
 
 (3) A (2) bekezdés a) és b) pontjában említett esetben a számla annak a termék értékesítésének, szolgáltatás nyújtásának az adatait tartalmazza, amelynek teljesítése fejében járó ellenértékébe az előleg beszámítható.

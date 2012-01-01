@@ -1,6 +1,6 @@
 ## Egyes adókötelezettségek alóli mentesülés
 
-257. § (1) Az adót önadózással megállapító, a (2) bekezdésben meghatározott adófizetésre kötelezett, akinek (amelynek) az adott adómegállapítási időszakban nincs olyan önadózással megállapítandó fizetendő adója, amelyről ellenkező esetben az állami adóhatóságnak bevallást kell tennie, és adólevonásra nem jogosult vagy adólevonásra jogosult ugyan, de ugyanezen adómegállapítási időszakban adólevonási jogot nem gyakorol, mentesül az adott adómegállapítási időszakra vonatkozóan az Art. szerinti bevallástételi kötelezettség alól.
+257. § (1) Az adót önadózással megállapító, a (2) bekezdésben meghatározott adófizetésre kötelezett, akinek (amelynek) az adott adómegállapítási időszakban nincs olyan önadózással megállapítandó fizetendő adója, amelyről ellenkező esetben az állami adóhatóságnak bevallást kell tennie, illetve nincs az Art. szerinti összesítő nyilatkozat benyújtási kötelezettséget keletkeztető közösségi kereskedelemmel kapcsolatos ügylete, és adólevonásra nem jogosult vagy adólevonásra jogosult ugyan, de ugyanezen adómegállapítási időszakban adólevonási jogot nem gyakorol, mentesül az adott adómegállapítási időszakra vonatkozóan az Art. szerinti bevallástételi kötelezettség alól.
 
 (2) A bevallástételi kötelezettség alól a következők mentesülnek:
 

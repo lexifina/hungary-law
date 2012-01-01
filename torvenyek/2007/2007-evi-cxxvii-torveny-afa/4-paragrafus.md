@@ -1,4 +1,4 @@
-4. § (1) Belföld alatt a Magyar Köztársaság államterülete értendő.
+4. § (1) Belföld alatt Magyarország területe értendő.
 
 (2) Közösség és tagállamai, valamint azok területe alatt az 1. számú mellékletben meghatározottak értendők.
 

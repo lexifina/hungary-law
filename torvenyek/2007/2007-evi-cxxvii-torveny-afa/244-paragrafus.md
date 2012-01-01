@@ -20,7 +20,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 
 a) gazdasági célú letelepedési helye nem belföldön, hanem a Közösség valamely más tagállamában van, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van nem belföldön, hanem a Közösség valamely más tagállamában (a továbbiakban: a Közösség más tagállamában letelepedett adóalany);
 
-b) gazdasági célú letelepedési helye a 8/A. számú mellékletben felsorolt államok valamelyikében vagy olyan harmadik államban van, amely állammal a Magyar Köztársaság az adó kölcsönös visszatérítéséről nemzetközi megállapodást kötött (a továbbiakban együtt: elismert harmadik állam), gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van elismert harmadik államban (a továbbiakban: elismert harmadik államban letelepedett adóalany)
+b) gazdasági célú letelepedési helye a 8/A. számú mellékletben felsorolt államok valamelyikében vagy olyan harmadik államban van, amely állammal Magyarország az adó kölcsönös visszatérítéséről nemzetközi megállapodást kötött (a továbbiakban együtt: elismert harmadik állam), gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van elismert harmadik államban (a továbbiakban: elismert harmadik államban letelepedett adóalany)
 
 [e fejezet alkalmazásában – eltérő rendelkezés hiányában – a) és b) pont a továbbiakban együtt: belföldön nem letelepedett adóalany].
 

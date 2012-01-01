@@ -2,7 +2,7 @@
 
 a) termék beszerzéséhez, szolgáltatás igénybevételéhez kapcsolódóan egy másik adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – rá áthárított;
 
-b) termék beszerzéséhez – ideértve a termék Közösségen belüli beszerzését is –, szolgáltatás igénybevételéhez kapcsolódóan fizetendő adóként megállapított;
+b) termék beszerzéséhez – ideértve a termék Közösségen belüli beszerzését is –, szolgáltatás igénybevételéhez – ideértve az előleget is, ha az adót a 140. § a) pontja szerint a szolgáltatás igénybevevője fizeti – kapcsolódóan fizetendő adóként megállapított;
 
 c) termék importjához kapcsolódóan
 

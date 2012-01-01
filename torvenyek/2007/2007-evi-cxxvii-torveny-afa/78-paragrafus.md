@@ -2,9 +2,9 @@
 
 a) érvénytelenítéséről gondoskodjon
 
-aa) a 77. § (1) bekezdésének aa) és ba) alpontjában, (2) bekezdésének a) pontjában említett esetekben;
+aa) a 77. § (1) bekezdés aa) és ba) alpontjában említett esetekben, valamint a (2) bekezdésének a) pontjában említett esetben, feltéve, hogy az előleg teljes összegét visszafizetik;
 
-ab) a 77. § (2) bekezdésének b) pontjában említett esetben, ha a felek az ügylet kötése előtt fennálló helyzetet állítják helyre;
+ab) a 77. § (2) bekezdés b) pontjában említett esetben, ha a felek az ügylet kötése előtt fennálló helyzetet állítják helyre;
 
 b) adattartalmának módosításáról gondoskodjon az a) pont alá nem tartozó esetekben.
 
@@ -16,4 +16,8 @@ a) az eredeti számlát érvénytelenítő számla vagy az azt módosító szám
 
 b) a kötelezett a jogosultnak az ellenértéket visszatéríti, az előleget visszafizeti, vagy a betétdíjat visszatéríti az a) pont alá nem tartozó esetekben.
 
-(4) A (3) bekezdést kell megfelelően alkalmazni abban az esetben is, ha az adó alapjának utólagos csökkenése azért nem eredményez fizetendőadó-csökkenést, mert az ügylet – e törvény rendelkezései szerint – mentes az adó alól.
+(4) A (3) bekezdést kell megfelelően alkalmazni abban az esetben is, ha
+
+a) az adó alapjának utólagos csökkenése azért nem eredményez fizetendőadó-csökkenést, mert az ügylet – e törvény rendelkezései szerint – mentes az adó alól, vagy
+
+b) a fizetendő adó csökkenését nem az adóalap utólagos csökkentése eredményezte.

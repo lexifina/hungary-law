@@ -6,7 +6,7 @@ a) a 95. § szerinti adómentesség esetében megfelel a termék vámjogi szabad
 
 b) az adóraktározási eljárás során kiraktározandó/kiraktározott termék esetében megfelel a termék szokásos piaci árának figyelembevételével megállapított fizetendő adónak;
 
-2. állandó telephely: a székhelyen kívül a gazdasági tevékenység helyhez kötött folytatására huzamosabb időtartamra létesített vagy arra szánt földrajzilag körülhatárolt hely, amelyen a gazdasági tevékenység – székhelyhez képesti – önálló folytatásához szükséges egyéb feltételek is ténylegesen rendelkezésre állnak, ideértve az adóalany kereskedelmi képviseletét is, de csak annyiban, amennyiben a 37. § (1) bekezdésének alkalmazásában az adóalany kereskedelmi képviselete a legközvetlenebbül érintett;
+2. állandó telephely: a székhelyen kívül a gazdasági tevékenység helyhez kötött folytatására huzamosabb időtartamra létesített vagy arra szánt földrajzilag körülhatárolt hely, amelyen a gazdasági tevékenység – székhelyhez képesti – önálló folytatásához szükséges egyéb feltételek is ténylegesen rendelkezésre állnak, ideértve az adóalany kereskedelmi képviseletét is, de csak annyiban, amennyiben a 37. § (1) bekezdésének alkalmazásában az adóalany kereskedelmi képviselete a legközvetlenebbül érintett, kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik;
 
 3. áruminta: a képviselt terméknek kisebb és jellemző része vagy mennyisége, amelyet kizárólag a képviselt termék bemutatásának céljára adnak, és amely fizikai állapotánál, vagyoni értékénél fogva más cél elérésére nem is alkalmas;
 
@@ -32,7 +32,7 @@ c) az adományozó rendelkezik a közhasznú szervezet, az egyház által kiáll
 
 10. külföldi utas: az a természetes személy, aki Közösség egyetlen tagállamának sem állampolgára, és nem jogosult a Közösség egyetlen tagállamában sem állandó tartózkodásra, továbbá az, aki a Közösség valamely tagállamának állampolgára ugyan, de lakóhelye a Közösség területén kívül van;
 
-11. lakóhely: tartós ottlakásra szolgáló hely, amellyel a természetes személy személyes és gazdasági kapcsolatai a legszorosabbak (létérdekek központja);
+11. lakóhely: tartós ottlakásra szolgáló hely, amellyel a természetes személy személyes és gazdasági kapcsolatai a legszorosabbak (létérdekek központja), kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik;
 
 12. lakóingatlan: lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan. Nem minősül lakóingatlannak a lakás rendeltetésszerű használatához nem szükséges helyiség még akkor sem, ha az a lakóépülettel egybeépült, így különösen: a garázs, a műhely, az üzlet, a gazdasági épület;
 
@@ -62,11 +62,11 @@ a) amely tulajdon kisajátításának tárgyát képezi, vagy
 
 b) amelynek szerzése az értékesítőnél – az illetékekről szóló törvény alapján – öröklési illeték tárgyát képezte,
 
-az az előzőekben említett darabszámba beleszámít ugyan, de önmagában nem minősül sorozat jellegűnek;
+az az előzőekben említett darabszámba beleszámít ugyan, de önmagában nem minősül sorozat jellegűnek, továbbá azon – lakóterület besorolású – építési telkek (telekrészek), amelyeket telekmegosztással egyazon építési telekből (telekrészből) alakítottak ki – darabszámtól függetlenül – az előzőekben említett darabszámba egy építési telekként (telekrészként) számítanak be.
 
-19. székhely: a gazdasági tevékenység folytatásának az a helye, ahol a központi ügyvezetés helye van;
+19. székhely: a gazdasági tevékenység folytatásának az a helye, ahol a központi ügyvezetés helye van, kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik;
 
-20. szokásos tartózkodási hely: adott naptári évben az adott állam területén a természetes személy tartózkodásának időtartama összességében – a ki- és beutazás napját is egész naptári napnak számítva – eléri, vagy meghaladja a 183 napot;
+20. szokásos tartózkodási hely: adott naptári évben az adott állam területén a természetes személy tartózkodásának időtartama összességében – a ki- és beutazás napját is egész naptári napnak számítva – eléri, vagy meghaladja a 183 napot, kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik;
 
 21. tárgyi eszköz: az ingatlan, valamint az olyan ingó termék, amely vállalkozáson belüli rendeltetésszerű használatot feltételezve, legalább 1 évet meghaladó időtartamban szolgálja a gazdasági tevékenység folytatását;
 

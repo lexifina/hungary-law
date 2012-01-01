@@ -4,7 +4,7 @@ Az Országgyűlés
 
 – figyelemmel az árutermelő piacgazdaság igényeit kielégítő versenysemleges adórendszer működtetésének követelményeire,
 
-– figyelemmel a Magyar Köztársaságnak az Európai Unióban tagállamként való részvételére, különös tekintettel az ebből fakadó, az általános forgalmi adózás területén jelentkező jogharmonizációs kötelezettségekre, valamint
+– figyelemmel Magyarországnak az Európai Unióban tagállamként való részvételére, különös tekintettel az ebből fakadó, az általános forgalmi adózás területén jelentkező jogharmonizációs kötelezettségekre, valamint
 
 – tekintetbe véve az általános forgalmi adózás 1988-as bevezetése óta szerzett tapasztalatokat is,
 

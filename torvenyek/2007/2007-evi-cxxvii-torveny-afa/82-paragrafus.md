@@ -2,7 +2,7 @@
 
 ## ADÓ MÉRTÉKE
 
-82. § (1) Az adó mértéke az adó alapjának 25 százaléka.
+82. § (1) Az adó mértéke az adó alapjának 27 százaléka.
 
 (2) A 3. számú mellékletben felsorolt termékek, szolgáltatások esetében az adó mértéke az adó alapjának 5 százaléka.
 

@@ -28,6 +28,8 @@ b) az ingatlan értékesítésének, illetőleg az ingatlanhoz kapcsolódó szol
 
 c) a 86. § (1) bekezdésének a)–g) pontjaiban felsorolt szolgáltatások nyújtásának ellenértéke, ha a tevékenységet az adóalany eseti jelleggel végzi.
 
+3/A. Az 1. pont szerinti levonási hányados számításakor az ellenérték helyett a szokásos piaci árat kell figyelembe venni, ha az adó alapjának megállapítására egyébként a 67. § (1) bekezdés a) vagy c) pontját kell alkalmazni.
+
 4. A 3. b) és 3. c) alpont alkalmazásában nem tekinthető eseti jellegűnek, ha az adóalany a tevékenységet – az arra irányadó külön jogszabályi rendelkezések alapján – engedéllyel végzi, vagy kizárólag engedéllyel végezhetné, illetőleg ha a 3. b) és 3. c) alpontban említett tevékenységekből származó ellenérték adó nélkül számított, forintban megállapított és éves szinten összesített összegének részaránya meghaladja az 1. pont szerinti levonási hányados nevezője értékének a 10 százalékát.
 
 5. Az 1. pont szerinti levonási hányadost felfelé kerekítve, 2 tizedesjegy pontossággal kell megállapítani.

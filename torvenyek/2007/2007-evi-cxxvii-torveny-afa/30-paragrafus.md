@@ -6,7 +6,7 @@ b) az adott naptári évben az a) pontban említett termékek 29. § szerinti é
 
 c) a b) pontban említett feltétel az adott naptári évet megelőző naptári évre is teljesült, amennyiben ilyen értékesítések ténylegesen történtek.
 
-(2) Az (1) bekezdés b) pontjában említett felső értékhatár a Magyar Köztársaság esetében 35 000 eurónak megfelelő pénzösszeg.
+(2) Az (1) bekezdés b) pontjában említett felső értékhatár Magyarország esetében 35 000 eurónak megfelelő pénzösszeg.
 
 (3) Az (1) bekezdés alkalmazhatósága megszűnik, és nem alkalmazható arra a termékértékesítésre sem, amelynek – adó nélkül számított – ellenértékével az adóalany először meghaladja az (1) bekezdés b) pontjában említett felső értékhatárt.
 

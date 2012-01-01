@@ -2,7 +2,7 @@
 
 a) a termékértékesítés – adóval számított – összellenértéke meghaladja a 175 eurónak megfelelő pénzösszeget,
 
-b) a külföldi utas érvényes úti okmányával vagy személye azonosítására szolgáló egyéb, a Magyar Köztársaság által elismert érvényes közokirattal (a továbbiakban együtt: úti okmány) igazolja jogállását,
+b) a külföldi utas érvényes úti okmányával vagy személye azonosítására szolgáló egyéb, Magyarország által elismert érvényes közokirattal (a továbbiakban együtt: úti okmány) igazolja jogállását,
 
 c) a termék Közösség területéről való elhagyásának tényét az állami adóhatóság által erre a célra rendszeresített nyomtatvány vagy más, az állami adóhatóság által engedélyezett, a (10) bekezdésben meghatározott adattartalmú nyomtatvány (a továbbiakban együtt: adó-visszaigénylő lap) záradékolásával és lebélyegzésével a terméket a Közösség területéről kiléptető hatóság – az értékesített termék és a termékértékesítés teljesítését tanúsító számla eredeti példányának egyidejű bemutatása mellett – igazolja.
 

@@ -16,7 +16,7 @@ d) beszedésének módja szerint: adóhalmozódást kiküszöbölő.
 
 (3) E törvény alkalmazásában az „adószám” kifejezés
 
-a) a Magyar Köztársaság esetében a belföldön adófizetésre kötelezettként nyilvántartásba vett egyedi azonosítására szolgáló, az Art.-ben meghatározott adószámot (közösségi adószámot), csoportazonosító számot jelenti;
+a) Magyarország esetében a belföldön adófizetésre kötelezettként nyilvántartásba vett egyedi azonosítására szolgáló, az Art.-ben meghatározott adószámot (közösségi adószámot), csoportazonosító számot jelenti;
 
 b) a Közösség más tagállamai esetében a tagállamban az (1) bekezdés szerint meghatározott adó fizetésére kötelezettként hatósági nyilvántartásba vett egyedi azonosítására szolgáló olyan betűből és/vagy számból álló jelet jelenti, amely a tagállam joga szerint tartalmában megfelel a Héa-irányelv 215. cikkének;
 
@@ -24,6 +24,6 @@ c) harmadik állam esetében az adott államban a (2) bekezdésnek megfelelő ad
 
 (4) E törvény alkalmazásában a „jövedéki termék” és a „jövedéki adó” kifejezés
 
-a) a Magyar Köztársaság esetében a Jöt. hatálya alá tartozó terméket és a Jöt. alapján fizetett vagy fizetendő adót jelenti;
+a) Magyarország esetében a Jöt. hatálya alá tartozó terméket és a Jöt. alapján fizetett vagy fizetendő adót jelenti;
 
 b) a Közösség más tagállamai esetében azt a terméket és azt az adót jelenti, amely termékre és adóra a tagállamnak az a joga vonatkozik, amely tartalmában megfelel a Jövedékiadó-irányelv rendelkezéseinek, figyelemmel az energiatermékek és a villamos energia közösségi adóztatási keretének átszervezéséről szóló 2003/96/EK tanácsi irányelv 3. cikkére is, kivéve a földgázcsővezeték-hálózaton keresztül szállított gázt és a villamos energiát, valamint az e termékek után – az előzőek szerint meghatározott – fizetett vagy fizetendő adót.

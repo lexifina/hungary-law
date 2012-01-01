@@ -6,7 +6,7 @@ a) a számlakibocsátásra jogalapot teremtő ügylet a 159. § (2) bekezdésén
 
 b) a 159. § (2) bekezdésének b) pontjában és a 165. § (1) bekezdésének b) pontjában meghatározott esetben az ott említett személy, szervezet az adóalanytól számla kibocsátását kéri, feltéve, hogy a számlán szereplő adatok egyébként forintban kifejezettek;
 
-c) a számlakibocsátásra jogalapot teremtő ügylet a 159. § (2) bekezdésének c) pontja alá tartozik.
+c) a számlakibocsátásra jogalapot teremtő ügylet a 159. § (2) bekezdésének c) vagy d) pontjai alá tartozik.
 
 (2) A számla egyszerűsített adattartalma azt jelenti, hogy
 

@@ -34,6 +34,6 @@ b) az állami adóhatóságtól pedig, hogy tájékoztassa
 
 a (3) bekezdésben említett feltételek teljesüléséről, illetőleg arról is, hogy az (1) bekezdés e) pontjában meghatározott esetben az értékesítő adóalany élt-e, és ha igen, milyen terjedelemben élt ott említett választási jogával.
 
-(6) Az állami adóhatóság (5) bekezdésben említett tájékoztatási kötelezettségének köteles haladéktalanul eleget tenni. Az írásos megkeresésre adott adóhatósági választ az ellenkező bizonyításáig valósnak kell tekinteni.
+(6) Az állami adóhatóság (5) bekezdésben említett tájékoztatási kötelezettségének köteles haladéktalanul eleget tenni. Az írásos megkeresésre adott adóhatósági választ az ellenkező bizonyításáig valósnak kell tekinteni. Az (1) bekezdés e) pontjában meghatározott esetben az adóhatóság tájékoztatási kötelezettségének a honlapján történő közzététellel tesz eleget.
 
 (7) Az (1) bekezdés alkalmazása esetében a termék értékesítője, szolgáltatás nyújtója olyan számla kibocsátásáról gondoskodik, amelyben áthárított adó, illetőleg a 83. §-ban meghatározott százalékérték nem szerepel.

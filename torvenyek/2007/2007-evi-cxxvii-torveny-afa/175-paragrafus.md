@@ -8,7 +8,11 @@ a) az elektronikus aláírásról szóló törvény rendelkezései szerinti, leg
 
 b) az elektronikus adatcsererendszerben (a továbbiakban: EDI) elektronikus adatként kell létrehozni és továbbítani.
 
-(3) A (2) bekezdés b) pontja alkalmazásának feltétele, hogy a számlakibocsátásra kötelezett és a termék beszerzője, szolgáltatás igénybevevője előzetesen és írásban megállapodjon az EDI alkalmazásáról és használatáról.
+(3) A (2) bekezdés alkalmazásának feltétele
+
+a) a (2) bekezdés a) pontjában említett esetben a számlabefogadó előzetes beleegyezése, kivéve, ha jogszabály ettől eltérően rendelkezik;
+
+b) a (2) bekezdés b) pontjában említett esetben, hogy a számlakibocsátásra kötelezett és a termék beszerzője, szolgáltatás igénybevevője előzetesen és írásban megállapodjon az EDI alkalmazásáról és használatáról.
 
 (4) A (2) bekezdés b) pontja alkalmazása esetében a számlakibocsátásra kötelezett köteles gondoskodni arról is, hogy havi rendszerességgel az adott hónapban kibocsátott számlákról papíron kiegészítő összesítő jelentés készüljön, és azt a termék beszerzője, szolgáltatás igénybevevője megkapja.
 

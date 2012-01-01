@@ -26,7 +26,7 @@ k) az italt terhelő előzetesen felszámított adó.
 
 (2) A 120. és 121. §-tól függetlenül nem vonható le továbbá:
 
-a) az (1) bekezdés d)–g) pontjaiban említett termékek bérbevételét,
+a)
 
 b) a személygépkocsi üzemeltetéséhez, fenntartásához szükséges szolgáltatást,
 

@@ -78,7 +78,7 @@ a) a költségvetési szerv az alapító okiratban megjelölt tevékenysége tek
 
 b) az egyesület, a szövetség, a civil társaság, a köztestület, az országos sportági szakszövetség az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenysége tekintetében;
 
-c) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló törvény szerint nyilvántartásba vett egyház – ideértve az egyház önálló képviseleti szervvel rendelkező szervezeti egységét is, ha alapszabálya így rendelkezik – és az egyházak szövetsége az alapszabályban megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban) megjelölt tevékenysége tekintetében;
+c) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett egyház és annak belső egyházi jogi személye, ideértve az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban) megjelölt tevékenysége tekintetében,
 
 d) az alapítvány és a közalapítvány az alapító okiratban megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban) megjelölt tevékenysége tekintetében;
 

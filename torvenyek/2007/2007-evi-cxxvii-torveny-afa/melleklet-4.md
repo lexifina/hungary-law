@@ -56,9 +56,11 @@ e) az adóraktár nyilvántartási száma és címe.
 
 18. Kiraktározó kizárólag a termék
 
-a) 7. b) alpontban említett beraktározója lehet; vagy
+a) 7/b. alpontban említett beraktározója lehet; vagy
 
-b) igazolt utolsó értékesítője lehet, aki (amely) azt a 113. § szerint értékesítette.
+b) igazolt utolsó értékesítője lehet, aki (amely) azt a 113. § szerint értékesítette; vagy
+
+c) azon utolsó beszerzője lehet, aki (amely) részére a terméket a b) pont szerinti igazolt utolsó értékesítő értékesítette.
 
 19. A kiraktározás indítványozásának feltétele, hogy a kiraktározó a kiraktározandó termék után adóbiztosítékot nyújtson. Abban az esetben, ha a kiraktározó képviseletére pénzügyi képviselőt bíz meg, a kiraktározó helyett a pénzügyi képviselő is nyújthatja saját nevében az adóbiztosítékot. Mentesül az adóbiztosíték nyújtása alól az a kiraktározó, illetőleg az a pénzügyi képviselő, aki (amely) az Art. rendelkezései szerint egyúttal minősített adózó is.
 
@@ -128,9 +130,9 @@ a) amely a mennyiségi eltérés feltárásakor a 2. § a) pontja szerint adózt
 
 b) amelyet a mennyiségi eltérés feltárásakor kiraktároztak.
 
-35. A 34. pontban említett esetben a termék értékesítője, aki (amely) egyúttal annak kiraktározója is, megegyezik a nyilvántartásban szereplő személlyel [32. pont].
+35. A 34. pontban említett esetben a kiraktározó megegyezik a nyilvántartásban szereplő személlyel [32. pont].
 
-36. Abban az esetben, ha a 35. pont szerint a termék értékesítőjének személye nem állapítható meg, az adóraktár üzemeltetője minősül a termék értékesítőjének, egyúttal annak kiraktározójának.
+36. Abban az esetben, ha a 35. pont szerint a termék kiraktározójának személye nem állapítható meg, az adóraktár üzemeltetője minősül a termék kiraktározójának.
 
 37. A 34. pontban említett esetben a kiraktározónak a termékre adóbiztosítékot kell nyújtani, amelyre a 19. pontban meghatározott mentesség nem vonatkozik.
 
