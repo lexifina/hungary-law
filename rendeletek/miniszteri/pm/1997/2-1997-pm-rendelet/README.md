@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-2-20-53
 | --- | --- | --- |
 | 2010-01-01 | 1997-2-20-53.14 | 2/1997. (I. 31.) PM rendelet |
 | 2011-01-01 | 1997-2-20-53.15 | 8/2010. (XII. 14.) NGM rendelet |
+| 2012-01-01 | 1997-2-20-53.16 | 40/2012. (XII. 20.) NGM rendelet |
