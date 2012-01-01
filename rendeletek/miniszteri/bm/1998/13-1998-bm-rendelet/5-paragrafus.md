@@ -1,5 +1,0 @@
-## 4. § Polgári védelmi alapképzésben kell részesíteni a polgári védelmi szervezetbe beosztott személyeket a szakképzettségüktől és a szervezetben betöltött beosztásuktól függetlenül. Az alapképzési ismeretek felsorolását az 1. számú melléklet tartalmazza.
-
-5. § (1) Polgári védelmi szakkiképzésben kell részesíteni a polgári védelmi szervezet szakalegységébe beosztott személyt a szakalegység tevékenységének és a szakalegységben elvégzendő feladatának megfelelően. A szakkiképzési ismeretek felsorolását a 2. számú melléklet tartalmazza.
-
-(2) A munkahelyi polgári védelmi szervezet szakalegységébe beosztott személy szakkiképzésének a 2. számú mellékletben meghatározottakon túl a polgári szervnél lehetséges veszélyhelyzetek elhárítására, a területi és települési polgári védelmi szervezetekkel történő együttműködés lehetőségeire, valamint a polgári szerv esetleges kitelepítésének az Alkotmány 19. §-a (3) bekezdésének 4. pontjában meghatározott rendkívüli állapotban (a továbbiakban: minősített időszak) történő továbbműködésének feladataira is ki kell kiterjednie.
