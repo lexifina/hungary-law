@@ -1,0 +1,13 @@
+## 1. A földgázellátásról szóló 2008. évi XL. törvény módosítása
+
+1. § A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 82. §-a helyébe a következő rendelkezés lép:
+
+„82. § (1) A rendszerüzemeltető évente a saját szállító- és elosztóvezetékeire, valamint a tárolóira vonatkozóan – a 81. § (2)–(4) bekezdésében, valamint a 994/2010/EU európai parlamenti és tanácsi rendelet szerinti előírások figyelembevételével – kapacitás-felülvizsgálatot végez.
+
+(2) A kapacitás-felülvizsgálat alapján a rendszerüzemeltető a szállítási rendszerirányító részére 10 éves fejlesztési javaslatot tesz.
+
+(3) A szállítási rendszerüzemeltető a (2) bekezdés szerinti fejlesztési javaslata kétirányú kapacitásbővítésre vonatkozó javaslatot vagy ez alóli mentességi kérelmet tartalmaz.
+
+(4) A rendszerüzemeltető a (2) bekezdés szerinti fejlesztési javaslatot évente köteles felülvizsgálni és szükség esetén kiegészíteni az elmúlt időszakra vonatkozó teljesülés és a jövőbeni teljesíthetőség mutatóival, valamint a várható igényekkel.
+
+(5) A szállítási rendszerirányító a többi rendszerüzemeltetővel együttműködve a szállítóvezetékek – beleértve a gázátadó állomásokat is –, az elosztóvezetékek, valamint a földgáztárolók kapacitás-felülvizsgálatának eredményeit és a fejlesztési javaslatokat összehangolja, az összehangolt javaslatot az engedélyesek és a felhasználói érdekvédelmi szervezetek képviselőivel véleményezteti, és a Hivatal részére elbírálásra és jóváhagyásra benyújtja. A fejlesztési javaslatban a szállítási rendszerirányító javaslatot tesz a kétirányú kapacitásbővítésre, vagy abban ez alóli mentesítésre vonatkozó kérelmet terjeszt elő. Véleményeltérés esetén a szállítási rendszerirányító az eltérő véleményeket is köteles benyújtani a Hivatalhoz. A Hivatal a vizsgálat során – szükség esetén – nyilvános egyeztetést tart a rendszerhasználókkal a fejlesztési javaslatról és annak eredményét jegyzőkönyvben rögzíti, illetve határkeresztező kapacitás beruházások esetén egyeztet az érintett ország hatóságaival a költségmegosztásról és a beruházás műszaki-gazdasági feltételrendszeréről.”
