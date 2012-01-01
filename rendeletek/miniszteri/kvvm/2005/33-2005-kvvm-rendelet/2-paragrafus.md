@@ -16,5 +16,39 @@
 
 (8) A vízbázis védőterületét kijelölő határozattal érintett ingatlan tulajdonosa, használója által a jogorvoslati eljárásért fizetendő díj ingatlanonként 5000 Ft.
 
+(9)[^3] A nemzeti park igazgatóságoknak a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben biztosított díjfizetési mentessége az 1. melléklet I. táblázat
+
+a) 36. pontja,
+
+b) 37. pont 1–8. alpontja,
+
+c) 39–47. pontja,
+
+d) 48. pont 1–3. alpontja és
+
+e) az a)–d) pontokhoz kapcsolódóan 51. és 52. pontja
+
+alá tartozó tevékenységekre terjed ki.
+
+(10)[^4] A vízügyi igazgatóságoknak, valamint az Országos Vízügyi Főigazgatóságnak a vízgazdálkodásról szóló 1995. évi LVII. törvényben biztosított díjfizetési mentessége az 1. melléklet I. táblázat
+
+a) 24. pont 1. és 9. alpontja,
+
+b) az a) ponthoz kapcsolódóan 23., 28., 29. pontja,
+
+c) 25. pontja,
+
+d) 26. pont 2. alpontja,
+
+e) 34. pontja,
+
+f) 35. pontja és
+
+g) az a)–f) pontokhoz kapcsolódóan 51. és 52. pontja
+
+alá tartozó tevékenységekre terjed ki.
+
 [^1]: Az 1. § a 4/2010. (II. 25.) KvVM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.
 [^2]: Az 2. § a 4/2010. (II. 25.) KvVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.
+[^3]: A 2. § (9) bekezdését a 149/2011. (XII. 31.) VM rendelet 1. §-a iktatta be.
+[^4]: A 2. § (10) bekezdését a 149/2011. (XII. 31.) VM rendelet 1. §-a iktatta be.

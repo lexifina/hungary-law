@@ -898,7 +898,7 @@
 
 | 15.4.2. | Kizárólag környezeti hatások jelentőségének vizsgálata | 133 000 |
 
-2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^18]
+2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^22]
 
 A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
 
@@ -926,6 +926,6 @@ A közigazgatási szervek előirányzat-felhasználási számláinak megnevezés
 
 | 11. | Alsó-Tisza-Vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10028007-01711875-00000000 |
 
-| 12. | Környezetvédelmi és Vízügyi Minisztérium | 10032000-01468216-00000000 |
+| 12. | Vidékfejlesztési Minisztérium | 10032000-01494549 |
 
-[^18]: A 2. melléklet a 20/2007. (VI. 8.) KvVM rendelet 2. §-ának b) pontjával megállapított szöveg. E módosító rendelet 3. §-a alapján rendelkezéseit a 2007. július 23. napját követően indult eljárásokban kell alkalmazni.
+[^22]: A 2. melléklet a 20/2007. (VI. 8.) KvVM rendelet 2. §-ának b) pontjával megállapított, a 149/2011. (XII. 31.) VM rendelet 3. §-a szerint módosított szöveg.
