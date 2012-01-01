@@ -1,1 +1,0 @@
-## 4. § Az igénybe vevő az általa igénybe vett ingatlanban (ingatlanrészben), tűzvédelmi berendezésben, szakfelszerelésben bekövetkezett kárért a Ptk. szabályai szerint kártérítési felelősséggel tartozik.
