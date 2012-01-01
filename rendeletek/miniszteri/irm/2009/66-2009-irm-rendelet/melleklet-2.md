@@ -1,6 +1,6 @@
 ## Vállalkozói igazolvány törzslap
 
-| MAGYAR KÖZTÁRSASÁG |  |
+| MAGYARORSZÁG |  |
 
 | EGYÉNI VÁLLALKOZÓI IGAZOLVÁNY | Okmányszám |
 
@@ -86,4 +86,4 @@
 
 2. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^11]
 
-[^11]: A 2. melléklet a 13. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba.
+[^11]: A 2. melléklet a 13. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba, szövege a 41/2011. (XII. 30.) KIM rendelet 32. §-a szerint módosított szöveg.

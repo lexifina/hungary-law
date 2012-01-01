@@ -1,6 +1,6 @@
 ## Vállalkozói igazolvány pótlap
 
-| MAGYAR KÖZTÁRSASÁG |
+| MAGYARORSZÁG |
 
 | EGYÉNI VÁLLALKOZÓI IGAZOLVÁNY PÓTLAP |
 
