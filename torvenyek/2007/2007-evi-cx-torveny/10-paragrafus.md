@@ -1,5 +1,0 @@
-10. § (1) Ez a törvény 2007. október 20-án lép hatályba, rendelkezéseit a hatálybalépését követően benyújtott kérelmekre kell alkalmazni.
-
-(2) E törvény hatálybalépésével egyidejűleg hatályát veszti az Etv. 7. § (5) bekezdése, 43–53. §-a, valamint 54–60. §-a, azzal, hogy e rendelkezéseket, valamint az Etv. e törvény hatálybalépéséig hatályos 21–42. §-át alkalmazni kell, amennyiben az nemzetközi szerződésnek a végrehajtásához szükséges. E törvény hatálybalépésével egyidejűleg hatályát veszti továbbá az Etv. 67. § (4) bekezdése.
-
-(3) A Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon hatályát veszti az e törvény 3. §-ával megállapított Etv. 6. §-ának (3) bekezdéséből a „tartózkodási vízummal, illetve” szövegrész, az e törvény 6. §-ával megállapított Etv. 23. § (2) bekezdés b) pontjában a „tartózkodási vízum, illetve” szövegrész, valamint az e törvény 6. §-ával megállapított Etv. 28. § (2) bekezdésének b) pontjában a „tartózkodási vízummal, illetve” szövegrész.
