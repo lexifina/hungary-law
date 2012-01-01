@@ -1,4 +1,4 @@
-1. § (1) E törvény rendelkezéseit a Magyar Köztársaság területén
+1. § (1) E törvény rendelkezéseit Magyarország területén
 
 a) magyar hatóság által kiállított vagy annak alapján külföldi hatóság által kiadott járművezetésre jogosító okmánnyal (a továbbiakban: vezetői engedéllyel) rendelkező, illetve
 
