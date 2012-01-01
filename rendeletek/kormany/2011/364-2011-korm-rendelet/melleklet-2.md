@@ -20,11 +20,11 @@
 
 | 6. |  |  | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| 7. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Tűzoltóparancs- nokság | Országos Katasztrófavé- delmi Főigazgatóság |
+| 7. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavé- delmi Főigazgatóság |
 
-| 8. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Fővárosi Tűzoltóparancs- nokság | Országos Katasztrófa- védelmi Főigazgatóság |
+| 8. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófa- védelmi Főigazgatóság |
 
-| 9. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Fővárosi Tűzoltóparancs- nokság | Országos Katasztrófa- védelmi Főigazgatóság |
+| 9. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófa- védelmi Főigazgatóság |
 
 | 10 | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Országos Katasztrófa- védelmi Főigazgatóság | Katasztrófák elleni védekezésért felelős miniszter |
 
