@@ -1,6 +1,6 @@
-17. § (1)–(3)[^49]
+17. § (1)–(3)[^52]
 
-(4)[^50]
+(4)[^53]
 
-[^49]: A 17. § (1)–(3) bekezdése a 15. § (3) bekezdése alapján hatályát vesztette.
-[^50]: A 17. § (4) bekezdése e rendelet 15. § (3) bekezdése alapján hatályát vesztette.
+[^52]: A 17. § (1)–(3) bekezdése a 15. § (3) bekezdése alapján hatályát vesztette.
+[^53]: A 17. § (4) bekezdése e rendelet 15. § (3) bekezdése alapján hatályát vesztette.

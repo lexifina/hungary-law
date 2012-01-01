@@ -6,11 +6,11 @@
 
 ## 3. A gyártó által forgalmazott elem, illetve akkumulátor típusa (hordozható, ipari, gépjármű);
 
-## 4. A kötelezettség teljesítésének módja (egyéni vagy koordináló szervezeten keresztüli teljesítés);
+## 4. A kötelezettség teljesítésének módja (egyéni, OHÜ-n vagy koordináló szervezeten keresztüli teljesítés);
 
 ## 5. A nyilvántartásba vételi kérelem keltezése, és a gyártó nyilatkozata a megadott adatok valódiságáról.
 
-3. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^54]
+3. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^57]
 
 A gyártó és az átvevő adatszolgáltatási kötelezettsége során közölt adatok
 
@@ -26,7 +26,7 @@ A gyártó és az átvevő adatszolgáltatási kötelezettsége során közölt 
 
 1.5. A gyártó tárgyévi begyűjtési kötelezettsége (kilogramm) és a tárgyévi begyűjtési arány;
 
-1.6. A gyártó által a tárgyévben visszavett, begyűjtött és kezelt elem, illetve akkumulátor hulladék mennyisége (kilogramm) hasznosítónként megbontva, újrafeldolgozási hatékonysági mutatóval, a Magyar Köztársaság területén kívüli hulladékkezelés esetén a kiviteli engedély száma;
+1.6.[^58] A gyártó által a tárgyévben visszavett, begyűjtött és kezelt elem, illetve akkumulátor hulladék mennyisége (kilogramm) hasznosítónként megbontva, újrafeldolgozási hatékonysági mutatóval, Magyarország területén kívüli hulladékkezelés esetén a kiviteli engedély száma;
 
 1.7. Az átvevő által megállapodásban átvállalt hulladékmennyiség, kilogramm.
 
@@ -48,4 +48,5 @@ A gyártó és az átvevő adatszolgáltatási kötelezettsége során közölt 
 
 3.5. Összesített mennyiség
 
-[^54]: A 3. számú mellékletet a 217/2008. (VIII. 29.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte, újonnan a 101/2010. (IV. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^57]: A 3. számú mellékletet a 217/2008. (VIII. 29.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte, újonnan a 101/2010. (IV. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^58]: A 3. melléklet 1.6. pontja a 322/2011. (XII. 27.) Korm. rendelet 11. §-a szerint módosított szöveg.

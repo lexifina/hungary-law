@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-181-20-
 | 2010-04-17 | 2008-181-20-22.11 | 101/2010. (IV. 2.) Korm. rendelet |
 | 2011-01-01 | 2008-181-20-22.12 | 217/2008. (VIII. 29.) Korm. rendelet |
 | 2011-12-13 | 2008-181-20-22.13 | 253/2011. (XII. 5.) Korm. rendelet |
+| 2012-01-01 | 2008-181-20-22.14 | 282/2011. (XII. 21.) Korm. rendelet |

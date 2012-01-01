@@ -40,6 +40,6 @@
 
 ## K: a tárgyévre vonatkozó begyűjtési arány.
 
-2. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^53]
+2. melléklet a 181/2008. (VII. 8.) Korm. rendelethez[^56]
 
-[^53]: A 2. számú melléklet a 101/2010. (IV. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^56]: A 2. számú melléklet a 101/2010. (IV. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított, és a 343/2011. (XII. 29.) Korm. rendelet 40. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 33–34. §-át.
