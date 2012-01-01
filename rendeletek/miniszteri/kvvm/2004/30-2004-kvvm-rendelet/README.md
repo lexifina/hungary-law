@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-30-20-0
 | --- | --- | --- |
 | 2009-01-03 | 2004-30-20-0N.4 | 30/2004. (XII. 30.) KvVM rendelet |
 | 2011-08-15 | 2004-30-20-0N.5 | 80/2011. (VIII. 3.) VM rendelet |
+| 2012-01-01 | 2004-30-20-0N.6 | 147/2011. (XII. 23.) VM rendelet |

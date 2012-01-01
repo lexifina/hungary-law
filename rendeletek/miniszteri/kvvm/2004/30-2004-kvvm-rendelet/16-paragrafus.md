@@ -1,8 +1,8 @@
 ## Adatszolgáltatás és koordináció
 
-16. §[^46] (1) A víztestek jellemzését, illetve a felszín alatti vizek állapotvizsgálatát a monitoring rendszerekre, a víztestek értékelését és minősítését a 14. § szerinti monitoring program észlelő és mérőhelyeinek adataira támaszkodva a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervezés során kell elvégezni.
+16. §[^44] (1) A víztestek jellemzését, illetve a felszín alatti vizek állapotvizsgálatát a monitoring rendszerekre, a víztestek értékelését és minősítését a 14. § szerinti monitoring program észlelő és mérőhelyeinek adataira támaszkodva a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervezés során kell elvégezni.
 
-(2) Az (1) bekezdésben meghatározott feladat ellátásához szükséges, feladatkörükhöz tartozó adatokat a környezetvédelmi és vízügyi igazgatóságok és a környezetvédelmi, természetvédelmi és vízügyi felügyelőségek (a továbbiakban: felügyelőség) tartják nyilván és azokat a miniszter által kijelölt, a nyilvántartásokat vezető szervezet részére a tárgyévet követő év március 31. napjáig szolgáltatják.
+(2)[^45] Az (1) bekezdésben meghatározott feladat ellátásához szükséges, feladatkörükhöz tartozó adatokat a Nemzeti Környezetügyi Intézet területi kirendeltségei és a környezetvédelmi, természetvédelmi és vízügyi felügyelőségek (a továbbiakban: felügyelőség) tartják nyilván és azokat a miniszter által kijelölt, a nyilvántartásokat vezető szervezet részére a tárgyévet követő év március 31. napjáig szolgáltatják.
 
 (3) Az (1) bekezdésben foglalt feladat ellátásához szükséges, a feladat- és hatáskör gyakorlásával érintett miniszter irányítása alá tartozó szerveknél rendelkezésre álló, földtani, bányászati, mezőgazdasági, talajvédelmi, közegészségügyi adatokat e szervek szolgáltatják a (2) bekezdés szerinti, miniszter által kijelölt szervezet részére.
 
@@ -32,4 +32,5 @@ d) részt vesz a külön jogszabály szerinti intézkedési programok kidolgozá
 
 e) kidolgozza a víztestek minősítésére, a monitoring program üzemeltetésére vonatkozó műszaki előírásokat és a szabványosított módszereket.
 
-[^46]: A 16. § a 33/2008. (XII. 31.) KvVM rendelet 10. §-ával megállapított szöveg.
+[^44]: A 16. § a 33/2008. (XII. 31.) KvVM rendelet 10. §-ával megállapított szöveg.
+[^45]: A 16. § (2) bekezdése a 147/2011. (XII. 23.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
