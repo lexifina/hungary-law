@@ -2,6 +2,6 @@
 
 (2) Az útfeljárót – a keresztező út jellegének figyelembevételével – a vonatkozó előírásoknak megfelelően kell kialakítani.
 
-(3)[^5] Az elsőrendű árvízvédelmi vonalat a közforgalomtól sorompóval el kell zárni, ha azon egyébként nincs kijelölt közforgalmú út.
+(3)[^7] Az elsőrendű árvízvédelmi vonalat a közforgalomtól sorompóval el kell zárni, ha azon egyébként nincs kijelölt közforgalmú út.
 
-[^5]: A 35. § (3) bekezdése a 80/2011. (VIII. 3.) VM rendelet 7. §-ával megállapított szöveg.
+[^7]: A 35. § (3) bekezdése a 80/2011. (VIII. 3.) VM rendelet 7. §-ával megállapított szöveg.
