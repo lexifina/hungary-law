@@ -1,0 +1,7 @@
+## 36. A légiriasztás végrehajtásában érintett szervek és személyek feladatai
+
+## 72. § A honvédelemért felelős miniszter
+
+a) kijelöli a Honvédségnek az ország területének légvédelmi készenléti erőkkel történő oltalmazásáért felelős katonai szervezetet (a továbbiakban: kijelölt katonai szervezet),
+
+b) gondoskodik a kijelölt katonai szervezet és a BM OKF, továbbá megyei katasztrófavédelmi igazgatóságok, valamint a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: MTVA) közötti összeköttetés létesítéséről és fenntartásáról.
