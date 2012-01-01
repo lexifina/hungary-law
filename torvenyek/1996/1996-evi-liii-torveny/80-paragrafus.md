@@ -14,7 +14,7 @@ e) a természetvédelmi hatóság engedélyéhez, hozzájárulásához kötött 
 
 természetvédelmi bírságot köteles fizetni.
 
-(2) A természetvédelmi bírságot a természetvédelmi hatóság szabja ki. A természetvédelmi bírság adók módjára behajtandó köztartozás.
+(2) A természetvédelmi bírságot a természetvédelmi hatóság szabja ki.
 
 (3) A bírság kiszabására a természetvédelmi hatóságnak az (1) bekezdésben meghatározott cselekményről való tudomásszerzésétől számított 1 éven túl nincs lehetősége. Az elkövetésétől számított öt éven túl nem szabható ki bírság, kivéve, ha a cselekmény jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nem kezdődik meg, amíg a jogszerűtlen állapot fennáll.
 

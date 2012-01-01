@@ -6,4 +6,4 @@
 
 (3) A természet védelméhez fűződő érdekeket a nemzetgazdasági tervezés, szabályozás, továbbá a gazdasági, terület- és településfejlesztési, illetőleg rendezési döntések, valamint a hatósági intézkedések során figyelembe kell venni.
 
-(4) A Magyar Köztársaság a természet védelme érdekében együttműködik más államokkal és nemzetközi szervezetekkel, illetve nemzetközi természetvédelmi szerződések részesévé válik. A Magyar Köztársaság nemzetközi egyezmény hiányában is figyelembe veszi más államoknak a természet védelméhez fűződő érdekeit.
+(4) Magyarország a természet védelme érdekében együttműködik más államokkal és nemzetközi szervezetekkel, illetve nemzetközi természetvédelmi szerződések részesévé válik. Magyarország nemzetközi egyezmény hiányában is figyelembe veszi más államoknak a természet védelméhez fűződő érdekeit.

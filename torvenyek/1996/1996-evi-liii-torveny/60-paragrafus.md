@@ -4,4 +4,4 @@
 
 (2) Természeti érték, terület, valamint védett természeti terület veszélyeztetése, károsítása esetén az ügyész keresetet indíthat a tevékenységtől való eltiltás, illetőleg a tevékenységgel okozott kár megtérítése iránt.
 
-(3) Az ügyész törvényességi felügyeleti jogkörében eljárva, a rá vonatkozó jogszabályok alapján különös figyelemmel közreműködik a természetvédelmi hatóságok eljárásai és döntései törvényességének biztosításában.
+(3) Az ügyészség az irányadó jogszabályok szerint közreműködik a természetvédelmi hatóságok eljárásai és döntései törvényességének biztosításában.

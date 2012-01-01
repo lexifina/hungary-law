@@ -1,4 +1,4 @@
-51. § (1) A miniszter engedélye szükséges
+51. § (1) A természetvédelmi hatóság engedélye szükséges
 
 a) barlang, barlangszakasz hasznosításához, illetve a hasznosítási mód megváltoztatásához;
 
