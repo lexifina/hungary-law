@@ -1,4 +1,4 @@
-5. § (1)[^1] Az Emlékérem adományozására az életmentés helye szerint illetékes polgármester (a továbbiakban: polgármester) írásban tehet ajánlást a Kormány általános hatáskörű területi államigazgatási szerve vezetőjének (a továbbiakban: hivatalvezető) az életmentés napjától számított három hónapon belül.
+5. § (1)[^2] Az Emlékérem adományozására az életmentés helye szerint illetékes polgármester (a továbbiakban: polgármester) írásban tehet ajánlást a Kormány általános hatáskörű területi államigazgatási szerve vezetőjének (a továbbiakban: hivatalvezető) az életmentés napjától számított három hónapon belül.
 
 (2) Az ajánlás megtételét a polgármesternél kezdeményezheti
 
@@ -26,4 +26,4 @@ f) posztumusz adományozás esetén az Emlékérem átvételére jogosult szemé
 
 g) az érintettnek vagy törvényes képviselőjének a polgármesternél írásban tett, vagy jegyzőkönyvbe foglalt hozzájáruló nyilatkozatát az a), illetőleg az f) pontban foglalt személyes adatoknak a kitüntetettre vonatkozó szabályok szerinti kezeléséhez.
 
-[^1]: Az 5. § (1) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdése a 234/2010. (VIII. 31.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
