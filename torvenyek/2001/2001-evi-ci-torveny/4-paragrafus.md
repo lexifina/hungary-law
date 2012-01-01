@@ -26,7 +26,7 @@ c) az Országos Képzési Jegyzékbe (a továbbiakban: OKJ) tartozó szakképes�
 
 d) a felnőttképzést folytató intézmények ellenőrzésére vonatkozó szabályokat;
 
-e) az Európai Gazdasági Térségről szóló megállapodásban részes államok felnőttképzési minősítési rendszerei közül a Magyar Köztársaságban akkreditáltként elismerhetőeket, illetve a minősítési rendszerek elemei közül az elfogadhatóakat,
+e) az Európai Gazdasági Térségről szóló megállapodásban részes államok felnőttképzési minősítési rendszerei közül a Magyarországon akkreditáltként elismerhetőeket, illetve a minősítési rendszerek elemei közül az elfogadhatóakat,
 
 f) az e törvény szerinti felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 
@@ -36,6 +36,6 @@ i)
 
 (4) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály a felnőttképzési szakterületen felnőttképzési szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(5) Aki a (4) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a miniszternek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+(5) Aki a (4) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát az állami szakképzési és felnőttképzési szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-(6) A miniszter a szakértői tevékenység végzésére jogosult, (5) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(6) Az állami szakképzési és felnőttképzési szerv a szakértői tevékenység végzésére jogosult, (5) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.

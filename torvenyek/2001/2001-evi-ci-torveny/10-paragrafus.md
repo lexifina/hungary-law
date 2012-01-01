@@ -50,4 +50,4 @@ d) a 9. § (2) bekezdésében foglalt kötelezettségeinek nyolc napon belül ne
 
 (8) Az állami foglalkoztatási szerv az (1) bekezdés bh) alpontjában meghatározott ellenőrzési tevékenységét a gyakorlati foglalkozás helye szerint illetékes területi gazdasági kamara – külön jogszabályban meghatározottak szerint történő – bevonásával látja el.
 
-(9) Az állami foglalkoztatási szerv által kiszabott bírságot az MPA lebonyolítási számlájára kell befizetni. A befizetett bírság teljes összege az MPA képzési alaprészét illeti meg.
+(9) Az állami foglalkoztatási szerv által kiszabott bírságot a Nemzeti Foglalkoztatási Alap lebonyolítási számlájára kell befizetni.

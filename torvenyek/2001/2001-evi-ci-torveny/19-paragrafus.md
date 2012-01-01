@@ -2,7 +2,7 @@
 
 (2) A programakkreditáció hatályának időtartama legalább 2, legfeljebb 5 év lehet. A FAT a programakkreditáció alapjául szolgáló feltételek fennállása esetén kiadja a programakkreditációs tanúsítványt.
 
-(3) A más törvény felhatalmazása alapján akkreditált, vagy hatósági jogkörben engedélyezett képzési programot az állami szakképzési és felnőttképzési intézethez be kell jelenteni. A bejelentés alapján a FAT az akkreditációs eljárás lefolytatása nélkül kiadja a programakkreditációs tanúsítványt.
+(3) A más törvény felhatalmazása alapján akkreditált, vagy hatósági jogkörben engedélyezett képzési programot az állami szakképzési és felnőttképzési szervhez be kell jelenteni. A bejelentés alapján a FAT az akkreditációs eljárás lefolytatása nélkül kiadja a programakkreditációs tanúsítványt.
 
 (4)
 

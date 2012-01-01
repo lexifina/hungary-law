@@ -12,7 +12,7 @@ a) a központi költségvetés,
 
 b) a szakképzési hozzájárulásnak a felnőttképzésre elszámolható része,
 
-c) az MPA foglalkoztatási és képzési alaprészei.
+c) az Nemzeti Foglalkoztatási Alap (a továbbiakban: NFA) foglalkoztatási és képzési alaprészei.
 
 d)
 
@@ -26,7 +26,7 @@ c)
 
 (4) A (3) bekezdés a) pontjában meghatározott feltétel a 29. § 13. pontjában meghatározott belső képzések támogatása esetében nem alkalmazható.
 
-(5) A (3) bekezdésben meghatározott feltételt a szakképzési hozzájárulásra kötelezett saját munkavállalói részére a szakképzési hozzájárulás terhére szervezett képzés költségei elszámolása során akkor kell alkalmazni, ha a képzés – külön jogszabályban meghatározottak szerint – részben vagy egészben külső képzés formájában valósul meg.
+(5)
 
 (6) A (3) bekezdésben meghatározott források terhére nyújtott képzési célú támogatások esetében a – külön jogszabályban meghatározott – rész-szakképesítés nem minősül az első, állam által elismert szakképesítésnek.
 

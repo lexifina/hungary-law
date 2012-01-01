@@ -30,7 +30,7 @@ való megfelelést szolgálja.
 
 1. E törvény alapján kezelt adatok:
 
-a) a képzésben résztvevő neve, születési helye és ideje, állampolgársága, lakó- és tartózkodási helyének címe és telefonszáma, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat, illetőleg okmány vagy a tartózkodási jogot igazoló okmány megnevezése, száma;
+a) a képzésben résztvevő neve, születési helye és ideje, állampolgársága, lakó- és tartózkodási helyének címe és telefonszáma, nem magyar állampolgár esetén Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat, illetve okmány vagy a tartózkodási jogot igazoló okmány megnevezése, száma;
 
 b) a képzési jogviszonnyal összefüggő adatok, így különösen a képzésben résztvevő
 

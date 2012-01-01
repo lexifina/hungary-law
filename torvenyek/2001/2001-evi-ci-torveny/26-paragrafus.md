@@ -1,6 +1,6 @@
 ## A felnőttképzés, valamint a felnőttképzés technikai feltételei fejlesztésének támogatása
 
-26. § (1) Az MPA képzési alaprésze központi keretének felnőttképzési célra fordítható része – külön jogszabályban meghatározottak szerint – felhasználható
+26. § (1) Az NFA képzési alaprésze központi keretének felnőttképzési célra fordítható része – külön jogszabályban meghatározottak szerint – felhasználható
 
 a) az e törvény hatálya alá tartozó képzések támogatására,
 
