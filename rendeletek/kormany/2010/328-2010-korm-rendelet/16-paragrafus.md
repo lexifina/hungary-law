@@ -2,7 +2,7 @@
 
 (2) A Kormány a vetőmagtörvényben szabályozott a szőlő-, gyümölcs-, dísznövény-, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyagok előállítása és forgalomba hozatala, szolgáltatási tevékenységek tekintetében a Szolgtv. szerinti szolgáltatás felügyeletét ellátó hatóságként a megyei kormányhivatal növény- és talajvédelmi igazgatóságát jelöli ki.
 
-(3)[^1] A vetőmagtörvényben foglalt, a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága hatáskörébe tartozó, vetőmagokat érintő feladatokat
+(3)[^2] A vetőmagtörvényben foglalt, a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága hatáskörébe tartozó, vetőmagokat érintő feladatokat
 
 a) a Baranya Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Baranya, Somogy és Tolna megyére,
 
@@ -20,7 +20,7 @@ g) a Vas Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Vas �
 
 kiterjedő illetékességgel látja el.
 
-(4)[^2] A vetőmagtörvényben foglalt, a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága hatáskörébe tartozó, kertészeti szaporítóanyagokat érintő feladatokat
+(4)[^3] A vetőmagtörvényben foglalt, a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága hatáskörébe tartozó, kertészeti szaporítóanyagokat érintő feladatokat
 
 a) a Baranya Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Baranya, Somogy és Tolna megyére,
 
@@ -34,7 +34,7 @@ e) a Vas Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Győr
 
 kiterjedő illetékességgel látja el.
 
-(5)[^3] A vetőmagtörvényben foglalt, a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága hatáskörébe tartozó, erdészeti szaporítóanyagokat érintő feladatokat
+(5)[^4] A vetőmagtörvényben foglalt, a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága hatáskörébe tartozó, erdészeti szaporítóanyagokat érintő feladatokat
 
 a) a Baranya Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága Bács-Kiskun, Baranya, Csongrád, Somogy és Tolna megyére,
 
@@ -46,6 +46,6 @@ d) a Győr-Moson-Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazg
 
 kiterjedő illetékességgel látja el.
 
-[^1]: A 16. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be.
-[^2]: A 16. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be.
-[^3]: A 16. § (5) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be.
+[^2]: A 16. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be.
+[^3]: A 16. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be.
+[^4]: A 16. § (5) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be.

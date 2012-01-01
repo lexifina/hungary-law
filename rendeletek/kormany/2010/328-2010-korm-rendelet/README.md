@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-328-20-
 | 2011-07-05 | 2010-328-20-22.2 | 111/2011. (VII. 4.) Korm. rendelet |
 | 2011-08-26 | 2010-328-20-22.3 | 158/2011. (VIII. 11.) Korm. rendelet |
 | 2011-09-15 | 2010-328-20-22.4 | 82/2011. (V. 18.) Korm. rendelet |
+| 2012-01-01 | 2010-328-20-22.5 | 271/2011. (XII. 20.) Korm. rendelet |
