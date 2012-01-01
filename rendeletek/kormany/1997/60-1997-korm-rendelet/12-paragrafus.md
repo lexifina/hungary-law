@@ -1,1 +1,0 @@
-## 11. § Minősített időszakban és veszélyhelyzetben a védekezés érdekében jelezni kell az esemény bekövetkezését és annak elmúlását, illetve haladéktalanul közölni kell a lakossággal a követendő magatartási szabályokat.

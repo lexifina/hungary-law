@@ -1,1 +1,0 @@
-## 19. § A légi-, illetve a katasztrófariadó elrendelését követően – ha az addig még nem történt meg – a megyei közgyűlés elnöke és a polgármester elrendeli a polgári védelmi szolgálatot, és gondoskodik a lakosság megfelelő tájékoztatásáról, valamint megteszi a szükséges intézkedéseket a lakosság és a létfenntartáshoz szükséges anyagi javak védelmére.

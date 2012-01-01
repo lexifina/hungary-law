@@ -1,1 +1,0 @@
-## 21. § Kitelepítés minősített időszakban, valamint veszélyhelyzetben rendelhető el, ha a veszélyeztető esemény által érintett területen élő lakosság, illetve a létfenntartáshoz szükséges anyagi javak védelme más módon nem valósítható meg.
