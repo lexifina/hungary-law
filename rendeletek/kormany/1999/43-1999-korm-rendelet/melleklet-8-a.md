@@ -22,8 +22,6 @@
 
 ## ** A 37. § (4) bekezdésében foglalt rendelkezés szerinti minősítés.
 
-8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^447]
+8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^466]
 
-A nem pszichiátriai rehabilitációs minősítési kritériumok
-
-[^447]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg.
+[^466]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg.

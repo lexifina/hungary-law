@@ -32,7 +32,11 @@ n)[^14] szolgáltatásvolumen: önálló elszámolási tételként elszámolhat�
 
 o)[^15] teljesítményvolumen: önálló elszámolási tételként elszámolható, külön jogszabályban meghatározott szolgáltatási egységek teljesítményértékeinek mennyisége.
 
-p)[^16] feladatváltozás: egészségügyi államigazgatási szerv döntése vagy egészségügyi ellátási szerződés, illetve megállapodás alapján az érintett egészségügyi szolgáltatók ellátási területének, vagy a finanszírozási szerződésben lekötött kapacitás mértékének és szakmai összetételének megfelelő szakellátási feladataiknak a változása.
+p)[^16] feladatváltozás: egészségügyi államigazgatási szerv döntése vagy egészségügyi ellátási szerződés, illetve megállapodás alapján az érintett egészségügyi szolgáltatók ellátási területének, vagy a finanszírozási szerződésben lekötött kapacitás mértékének és szakmai összetételének megfelelő szakellátási feladataiknak a változása;
+
+q)[^17] rehabilitációs ellátási program: az Egészségügyi Szakmai Kollégium Fizikális medicina, rehabilitáció és gyógyászati segédeszköz Tagozat által közzétett, a finanszírozási eljárásrendet megalapozó módszertani ajánlásgyűjteményben foglalt ellátási program,
+
+r)[^18] rehabilitációs ellátási program szerinti nappali ellátás: rehabilitációs ellátási program alapján végzett olyan nappali ellátás, amelyet az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendeletben (a továbbiakban: R.) meghatározott finanszírozási paraméterek és elszámolhatósági szabályok szerint végeznek.
 
 [^2]: Az 1. § a 365/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § b) pontja a 293/2002. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
@@ -49,3 +53,5 @@ p)[^16] feladatváltozás: egészségügyi államigazgatási szerv döntése vag
 [^14]: A 2. § n) pontját az 58/2009. (III. 18.) Korm. rendelet 1. §-a iktatta be.
 [^15]: A 2. § o) pontját az 58/2009. (III. 18.) Korm. rendelet 1. §-a iktatta be.
 [^16]: A 2. § p) pontját a 139/2011. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A 2. § q) pontját a 227/2011. (X. 28.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 2. § r) pontját a 227/2011. (X. 28.) Korm. rendelet 1. §-a iktatta be.
