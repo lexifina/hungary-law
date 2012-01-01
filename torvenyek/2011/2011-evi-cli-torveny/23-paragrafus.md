@@ -10,4 +10,4 @@
 
 (3) Az Alkotmánybíróság (1) bekezdésben megjelölt hatásköre kiterjed a nemzetközi szerződés egyes rendelkezései Alaptörvénnyel való összhangjának előzetes vizsgálatára.
 
-(4) Nemzetközi szerződés kötelező hatályának köztársasági elnök általi elismerését megelőzően a köztársasági elnök, a Kormány, illetve az országgyűlési képviselők egynegyede kérheti az Alkotmánybíróságtól a nemzetközi szerződés Alaptörvénnyel való összhangjának előzetes vizsgálatát.
+(4) A nemzetközi szerződés kötelező hatályának köztársasági elnök általi elismerését megelőzően a köztársasági elnök, illetve ha a nemzetközi szerződést kormányrendelet hirdeti ki, a nemzetközi szerződés kötelező hatályának elismerését megelőzően a Kormány kérheti az Alkotmánybíróságtól a nemzetközi szerződés vagy annak valamely rendelkezése Alaptörvénnyel való összhangjának előzetes vizsgálatát.
