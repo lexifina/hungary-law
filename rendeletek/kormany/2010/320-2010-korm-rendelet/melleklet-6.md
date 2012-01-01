@@ -30,7 +30,7 @@
 
 | 8. | Minden eljárásban a nyomvonalas létesítmény, valamint szélerőmű engedélyezése kivételével. | Létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása. | első fokon eljáró tűzvédelmi szakhatóság | másodfokon eljáró tűzvédelmi szakhatóság | IGEN | IGEN | IGEN | NEM | IGEN |
 
-| 9. | Az 50 MW és az ezt meghaladó teljesítőképességű erőmű, a 220 kV és az ezt meghaladó névleges feszültségű termelői, magán-, és közvetlen vezeték, közcélú átviteli hálózat esetén. | A területrendezési tervekkel való összhang tekintetében. | állami főépítész | Belügyminisztérium | IGEN | NEM | NEM | NEM | NEM |
+| 9. |  |  |  |  |  |  |  |  |  |
 
 | 10. | Az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett építmény vagy tevékenység engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter | IGEN | IGEN | IGEN | NEM | IGEN |
 

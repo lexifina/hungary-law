@@ -8,6 +8,6 @@
 
 ## – kéményseprőipari szolgáltató szerv (vállalkozó)
 
-5. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^16]
+5. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^18]
 
-[^16]: Az 5. melléklet a 111/2011. (VII. 4.) Korm. rendelet 19. § (2) bekezdése, a 158/2011. (VIII. 11.) Korm. rendelet 36. §-a, a 82/2011. (V. 18.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^18]: Az 5. melléklet a 111/2011. (VII. 4.) Korm. rendelet 19. § (2) bekezdése, a 158/2011. (VIII. 11.) Korm. rendelet 36. §-a, a 82/2011. (V. 18.) Korm. rendelet 60. §-a, a 282/2011. (XII. 21.) Korm. rendelet 50. §-a szerint módosított szöveg.

@@ -42,7 +42,7 @@
 
 | 6. | A Kulturális Örökségvédelmi Hivatalról és a kulturális örökségvédelmi szakigazgatási szervekről szóló Korm. rendeletben meghatározott, a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és műemlékeket tartalmazó, a Kulturális Örökségvédelmi Hivatal által vezetett adatbázisban szerepelő régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás. | Annak elbírálása kérdésében, hogy az építmény vagy tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi és megyei kormányhivatal kulturális örökségvédelmi szakigazgatási szerve | Kulturális Örökségvédelmi Hivatal |
 
-7. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^17]
+7. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^19]
 
 Az éghető folyadékok és olvadékok tárolótartályainak létesítési,, használatbavételi átalakítási és megszüntetési engedélyezési eljárásaiban kijelölt szakhatóságok
 
@@ -82,4 +82,4 @@ Az éghető folyadékok és olvadékok tárolótartályainak létesítési,, has
 
 | 7. | A Kulturális Örökségvédelmi Hivatalról és a kulturális örökségvédelmi szakigazgatási szervekről szóló Korm. rendeletben meghatározott, a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és műemlékeket tartalmazó, a Kulturális Örökségvédelmi Hivatal által vezetett adatbázisban szerepelő régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló létesítési vagy használatba vételi eljárás vagy külön jogszabályban meghatározott esetekben műemléket érintő tevékenység engedélyezésére irányuló eljárás. | Annak elbírálása kérdésében, hogy a tervezett tárolótartály a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | kormányhivatal kulturális örökségvédelmi szakigazgatási szerve | Kulturális Örökségvédelmi Hivatal |
 
-[^17]: A 7. melléklet a 111/2011. (VII. 4.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^19]: A 7. melléklet a 111/2011. (VII. 4.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.

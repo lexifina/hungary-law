@@ -46,7 +46,7 @@ e) a külföldi bizonyítványok és oklevelek elismeréséről szóló külön 
 
 f) a földgázellátásban műszaki biztonsági szempontból jelentős munkakörök esetén szükséges továbbképzés felkészítő tanfolyamának és a továbbképzés képzési programjának jóváhagyásával,
 
-g) szakhatóságként a veszélyes ipari üzemekkel, veszélyes katonai objektumokkal,
+g)[^5]
 
 h) a gázpalackokkal kapcsolatos rendkívüli események kivizsgálásával,
 
@@ -58,3 +58,4 @@ i) az iparügyekért felelős miniszter kormányzati feladatkörébe tartozó te
 
 [^3]: A 12. § (2) bekezdés m) pontja a 111/2011. (VII. 4.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^4]: A 12. § (2) bekezdés n) pontját a 111/2011. (VII. 4.) Korm. rendelet 19. § (4) bekezdése hatályon kívül helyezte.
+[^5]: A 12. § (3) bekezdés g) pontját a 219/2011. (X. 20.) Korm. rendelet 53. § b) pontja hatályon kívül helyezte.
