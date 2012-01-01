@@ -12,7 +12,7 @@ c) archív nyilvántartás: a személyazonosító jel használatára 1996. decem
 
 d) kapcsolati kód: a különböző célú adatkezelések közötti törvényes kapcsolat elősegítésére, megvalósítására képzett ideiglenes számjegysor;
 
-e) társadalombiztosítási szerv: az egészségbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. §-ának (2) bekezdése alapján a Kormány rendeletében meghatározott társadalombiztosítási feladatokat ellátó szervek;
+e) társadalombiztosítási szerv: az egészségbiztosítási szerv, rehabilitációs hatóság, a nyugdíjbiztosítási igazgatási szerv, valamint a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. §-ának (2) bekezdése alapján a Kormány rendeletében meghatározott társadalombiztosítási feladatokat ellátó szervek;
 
 f) egészségügyi ellátóhálózat szerve: az egészségügyi szolgáltatást nyújtó szerv vagy polgár, függetlenül attól, hogy tevékenységét milyen szervezeti vagy tulajdoni formában végzi;
 

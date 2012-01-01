@@ -14,6 +14,12 @@ f) a munkaügyi igazgatás szerve a munkanélküli ellátással, a foglalkoztat�
 
 g) a fogva tartó szerv, a fogvatartott egészségügyi szolgáltatásra jogosultsága keletkezésével, megszűnésével összefüggő adatszolgáltatás, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
 
-h) a kincstár az Áht. 18/C. §-ának (11) bekezdésében meghatározott feladata teljesítéséhez.
+h) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata teljesítéséhez.
 
 i) a kincstár, a családtámogatási kifizetőhely a családtámogatási ellátások, illetőleg a fogyatékossági támogatás megállapítása feladatkörében a külön törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettség teljesítése során.
+
+j) a kincstár a helyi önkormányzatokat megillető, a központi költségvetésből származó források igénybevételének és elszámolásának szabályszerűsége megállapításához, valamint a nem állami intézmények fenntartói részére folyósított humánszolgáltatások normatív támogatási előirányzataival kapcsolatos adatszolgáltatási, folyósítási és ellenőrzési feladatai ellátása érdekében.
+
+j) a Magyar Honvédség a törvényben meghatározott hadkiegészítési és érdekvédelmi feladatai ellátásához.
+
+j) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben.

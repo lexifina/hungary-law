@@ -12,9 +12,9 @@ d) a külképviseleti hatóság, olyan ügy intézéséhez, amelyben a személyi
 
 e) az állami ingatlan-nyilvántartás szerve, belső azonosítóként, a külön törvényben meghatározottak szerint, az ingatlantulajdonosok, illetve az ingatlannal kapcsolatos bármely joggal vagy kötelezettséggel összefüggésben, a nyilvántartásba bejegyzett polgár azonosításához;
 
-f) a hadkiegészítő parancsnokság, a katonai szolgálat teljesítésének időtartama alatt az állományilletékes katonai szervezet, valamint a Honvéd Vezérkar illetékes adatfeldolgozó szerve, a honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Hvt.) 73. §-a szerinti katonai nyilvántartás vezetéséhez, valamint a háborús veszteség nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez;
+f) a katonai igazgatás szervei és a Magyar Honvédség központi irattározásra kijelölt szerve, továbbá a katonai szolgálat teljesítésének időtartama alatt a tényleges állomány vonatkozásában az állományilletékes katonai szervezet a törvény szerinti hadköteles nyilvántartás vezetéséhez, az önkéntes tartalékos és kiképzett tartalékos állomány katonai szolgálata tervezése érdekében, valamint a háborús veszteség nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez;
 
-g) a választási szerv a népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben, továbbá a népszámlálásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és kisebbségi önkormányzati képviselő, az országos kisebbségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;
+g) a választási szerv a népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben, továbbá a népszámlálásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és nemzetiségi önkormányzati képviselő, az országos nemzetiségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;
 
 h) a választójoggal nem rendelkező polgárok nyilvántartását vezető, valamint a neki adatot szolgáltató szerv, a választójoggal nem rendelkezők nyilvántartásának vezetéséhez;
 

@@ -20,4 +20,6 @@ i) a munkaügyi igazgatás szerve, a munkanélküli ellátással, a foglalkoztat
 
 j) a fogva tartó szervek egymás között, továbbá az egészségügyi ellátó hálózat szervének a fogvatartott egészségügyi szolgáltatásra jogosultságának keletkezésével, megszűnésével összefüggő adatszolgáltatása, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
 
-k) a kincstár az Áht. 18/C. §-ának (11) bekezdésében meghatározott feladata teljesítéséhez.
+k) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata teljesítéséhez.
+
+l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás területi szervei egymás között a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához.

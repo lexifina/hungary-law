@@ -8,11 +8,11 @@ b) a 32. § b) pontja szerint adatot szolgáltató szerv vagy polgár, a személ
 
 c) az adatkezelő, ha törvény alapján a személyi azonosító alkalmazásával a személyiadat- és lakcímnyilvántartásból adatszolgáltatás igénylésére jogosult, a személyiadat- és lakcímnyilvántartástól történő adatszolgáltatás igényléséhez;
 
-d) a népszavazási kezdeményezést, népi kezdeményezést szervező az összegyűjtött aláírásoknak az Országos Választási Bizottság elnöke, illetőleg a polgármester (főpolgármester) részére történő átadásakor;
+d) a népszavazási kezdeményezést, népi kezdeményezést, európai polgári kezdeményezést szervező az összegyűjtött aláírásoknak az Országos Választási Bizottság elnöke, illetőleg a polgármester (főpolgármester) részére történő átadásakor;
 
 e) a választójoggal nem rendelkező polgárok nyilvántartásának vezetéséhez adatszolgáltatásra kötelezett szerv, e kötelezettsége teljesítésekor;
 
-f) a választójoggal nem rendelkezők nyilvántartását vezető szerv, a népi kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek, a munkacsoportnak és a bíróságnak teljesített adatszolgáltatáskor;
+f) a választójoggal nem rendelkezők nyilvántartását vezető szerv, a népi kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek és a bíróságnak teljesített adatszolgáltatáskor;
 
 g) a polgármester (főpolgármester) a népiülnök-választási eljárásban, a választójoggal nem rendelkezők nyilvántartását vezető szervtől történő adatszolgáltatás igényléséhez;
 
@@ -22,7 +22,7 @@ i) az idegenrendészeti szervek, a törvényben meghatározott feladataik ellát
 
 j) a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a nyomozó hatóság részére;
 
-k) a 32. § f) pontjában felsorolt szervek egymás között, a Hvt.-ben meghatározott feladataik ellátásához;
+k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
 
 l) a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keretében a hatáskörrel rendelkező hazai hatóságnak;
 

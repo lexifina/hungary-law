@@ -18,7 +18,7 @@ e) a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatá
 
 f) az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott – körzetközponti feladatokat ellátó – települési (fővárosi kerületi) önkormányzat jegyzője az egyéni vállalkozóról szóló törvényben meghatározott feladatai ellátásához;
 
-g) a kincstár az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 18/C. §-ának (11) bekezdésében meghatározott feladata teljesítéséhez, valamint az energiafelhasználási támogatás megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett támogatás visszakövetelésével összefüggésben;
+g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, a családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, a hozzájárulások, támogatások, ellátások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
 
 h) a Pénzügyi Szervezetek Állami Felügyelete és a magánnyugdíjpénztár a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX., továbbá a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvényben meghatározott feladatai ellátásához;
 
