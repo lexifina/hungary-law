@@ -8,7 +8,7 @@ b) az ideiglenes határátkelőhely helyét, működésének időtartamát, nyit
 
 c) az ideiglenes átkelőhelyen várható határforgalom nagyságát,
 
-d)[^7] a 15/A. §-ban foglalt eset kivételével, nyilatkozatot, amelyben a kérelmező kötelezettséget vállal arra, hogy biztosítja az ideiglenes határátkelőhely működtetéséhez szükséges tárgyi, technikai és pénzügyi feltételeket, és vállalja a mellékletben meghatározott, az ideiglenes határnyitással felmerülő költségek megtérítését,
+d)[^8] a 15/A. §-ban foglalt eset kivételével, nyilatkozatot, amelyben a kérelmező kötelezettséget vállal arra, hogy biztosítja az ideiglenes határátkelőhely működtetéséhez szükséges tárgyi, technikai és pénzügyi feltételeket, és vállalja a mellékletben meghatározott, az ideiglenes határnyitással felmerülő költségek megtérítését,
 
 e) a kérelem indokait.
 
@@ -18,4 +18,4 @@ a) a légi jármű típusát, felségjelzését, lajstromjelét,
 
 b) az érkező légi jármű érkezésének tervezett időpontját és helyét, valamint az indulási állomást, illetve az induló légi jármű indulásának tervezett időpontját és helyét, valamint a célállomást.
 
-[^7]: A 10. § (1) bekezdés d) pontja a 64/2011. (IV. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 10. § (1) bekezdés d) pontja a 64/2011. (IV. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
