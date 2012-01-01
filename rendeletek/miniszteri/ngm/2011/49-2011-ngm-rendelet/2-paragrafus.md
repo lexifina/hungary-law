@@ -1,0 +1,3 @@
+## 1. § A kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti rendszere alapján fizetett baleseti kártérítési járadékok emeléséről szóló 2/1997. (I. 31.) PM rendelet 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § A gépjárművek kötelező felelősségbiztosítása alapján az 1991. július 1. napja előtt bekövetkezett káreseményekkel kapcsolatban a Magyar Államot terhelő, forintban megállapított keresetpótló baleseti kártérítési járadékok, valamint a forintban megállapított költségpótló baleseti kártérítési járadékok 2012. január 1-jétől a 2011. december 31-én hatályos rendelkezések szerinti összeghez képest 4,2 százalékkal emelkednek.”
