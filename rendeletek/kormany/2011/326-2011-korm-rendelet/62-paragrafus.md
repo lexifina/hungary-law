@@ -1,0 +1,5 @@
+## 61. § A 60. § (2) bekezdés a) és b) pontjában meghatározott különleges rendszámtáblák jogosítottjai részére a külföldi forgalmi engedélyt és rendszámtáblát a kiadó ország Magyarországon működő diplomáciai és konzuli képviseletének, valamint nemzetközi szervezetének írásbeli kérelmére soron kívül vissza kell adni, ha a külföldi hatóság nemzeti jogszabálya alapján kiviteli rendszám kiadására nincs lehetőség, és emiatt a jármű külföldi hatóság által kiadott diplomáciai rendszámmal érkezik Magyarországra.
+
+62. § (1) A Magyar Honvédség járműveire a H, a rendőrség járműveire az R, az Országos Mentőszolgálat járműveire az M kezdő betűjelű, a NAV, valamint a büntetés-végrehajtási szervezet járműveire az RR betűjelű, különleges rendszámtábla szerelhető fel, ami a jármű forgalomból történő kivonása után e szervek más járműveire is felszerelhető.
+
+(2) Az R kezdő betűjelű – kettő betű, négy számjegy kombinációból álló – rendőrségi rendszámtábla csak olyan szolgálati járműre szerelhető fel, amelynek külső kialakítása e szolgálati jelleget tükrözi.

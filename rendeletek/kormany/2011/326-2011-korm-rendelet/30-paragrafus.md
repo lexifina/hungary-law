@@ -1,0 +1,19 @@
+30. § (1) A pályaalkalmassági minősítést és annak érvényességi idejét – kivéve a (2) bekezdésben foglaltakat – a közlekedési hatóság jogerős határozata alapján kell a nyilvántartásba bejegyezni.
+
+(2) A vezetői engedély cseréjekor a meglévő vezetői engedélyben szereplő bejegyzés alapján, továbbá az alábbi okiratok alapján lehet a következő PÁV kategóriákat a nyilvántartásba bejegyezni:
+
+a) PÁV I. (első) kategória minősítés:
+
+aa) 1978. április 1-je előtt vizsgázott és a vezetői engedélyben „Gépjármű-vezetői állás vállalására jogosult” szövegű bejegyzés,
+
+ab) 1970. január 1-je előtti C kategóriás vizsgát igazoló vezetői engedély,
+
+ac) 1969. július 1-je és 1978. április 1-je között kiadott „Gépjármű-kezelői bizonyítvány”,
+
+ad) PÁV I. alkalmasságot tanúsító határozat (igazolás);
+
+b) PÁV II. (második) kategória minősítés: PÁV II. alkalmasságot tanúsító határozat (igazolás);
+
+c) PÁV III. (harmadik) kategória minősítés: az 1978. április 1-je után kiadott „Gépjármű-kezelői bizonyítvány”, valamint PÁV III. alkalmasságot tanúsító határozat (igazolás).
+
+(3) A közlekedési igazgatási hatóság a vezetői engedély cseréjével egyidejűleg a korábbi vezetői engedélybe bejegyzett pályaalkalmassági minősítés engedély nyilvántartásban szereplő adatáról első alkalommal térítésmentesen hitelesített kivonatot állít ki.

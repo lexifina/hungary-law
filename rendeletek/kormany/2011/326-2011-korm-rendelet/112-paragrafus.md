@@ -1,0 +1,1 @@
+## 111. § A jármű közúti forgalomból történő kivonására vonatkozó szabályokat a lassú járműre, annak pótkocsijára és a négykerekű segédmotoros kerékpárra kiadott igazolólapra értelemszerűen alkalmazni kell.

@@ -1,0 +1,1 @@
+## 72. § A P, az M, a Z és a CD betűjelű ideiglenes rendszámtábla csak olyan járműre szerelhető fel, amely a közúti közlekedésre alkalmas műszaki állapotban van. E feltételek betartásáért a jármű üzemben tartója felelős.

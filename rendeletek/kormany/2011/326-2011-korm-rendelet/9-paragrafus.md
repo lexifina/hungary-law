@@ -1,0 +1,1 @@
+## 8. § Ha a gépjárművezető külföldi vezetői engedélyét két évnél nem régebben szerezte, a kezdő vezetői engedélyre vonatkozó rendelkezéseket – nemzetközi szerződés eltérő rendelkezése hiányában – a külföldi vezetői engedély helyett a magyar hatóság által kiadott vezetői engedélyre is alkalmazni kell.

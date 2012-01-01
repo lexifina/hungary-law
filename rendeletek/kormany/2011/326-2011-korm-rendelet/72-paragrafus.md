@@ -1,0 +1,1 @@
+## 71. § Az E és az M betűjelű ideiglenes rendszámtáblával ellátott járművel csak a Magyarország területén lehet közlekedni. A P betűjelű ideiglenes rendszámtábla viszonosság vagy kétoldalú megállapodás esetén, illetve akkor jogosít más EGT-államban történő közlekedésre, ha azt az adott ország jogszabályai is lehetővé teszik.

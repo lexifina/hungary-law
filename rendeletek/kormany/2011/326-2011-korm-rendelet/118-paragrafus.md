@@ -1,0 +1,3 @@
+118. § (1) A jármű forgalombehelyezésével, üzemben tartásával kapcsolatos – kérelemre indult – közlekedési igazgatási eljárás során a közlekedési igazgatási hatóság a jármű kilométerszámláló műszere (km- órája) által jelzett értéket, és a km-óra állás rögzítésének időpontját okirat – annak hiányában az ügyfél nyilatkozata – alapján bejegyzi a járműnyilvántartásba.
+
+(2) A közúti tömegközlekedési személyszállítással foglalkozó gazdálkodó szervezetek flottaüzemeltetéséből adódó különleges körülményekre tekintettel a gazdálkodó szerv a motorcserével kapcsolatos műszaki adat változását a változást követő tárgynegyedév utolsó napjáig jelentheti be.
