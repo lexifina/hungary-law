@@ -8,7 +8,7 @@
 
 (4) Az OTKA bevételi forrásai:
 
-a) a Magyar Köztársaság éves költségvetéséről szóló törvényben évente címzetten megállapított támogatási előirányzat;
+a) a központi költségvetésről szóló törvényben évente címzetten megállapított támogatási előirányzat;
 
 b) bel- és külföldi jogi és természetes személyek befizetései, hozzájárulásai és belföldiek visszafizetései.
 
