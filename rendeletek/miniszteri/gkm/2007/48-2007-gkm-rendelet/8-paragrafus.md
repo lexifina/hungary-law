@@ -1,8 +1,8 @@
 ## Pótdíjak
 
-8. §[^16] (1) A megállapított menetdíj vagy pótjegy díján felül 500 forint pótdíjat fizet a járművön, aki
+8. §[^20] (1) A megállapított menetdíj vagy pótjegy díján felül 500 forint pótdíjat fizet a járművön, aki
 
-a) vonaton menetjegy-kiegészítés, kocsiosztály-különbözet fizetésére vagy regisztrációs jegy váltásra köteles és a menetjegy-kiegészítést, kocsiosztály-különbözetet nem fizette meg, illetve regisztrációs jegyet nem váltott, kivéve, ha olyan helyen száll fel, ahol a menetjegy vagy regisztrációs jegy megváltására nincs lehetőség,
+a)[^21] vonaton menetjegy-kiegészítés, kocsiosztály-különbözet fizetésére köteles és a menetjegy-kiegészítést, kocsiosztály-különbözetet nem fizette meg, kivéve, ha olyan helyen száll fel, ahol a menetjegy megváltására nincs lehetőség,
 
 b) vonaton a belföldi forgalomban pótjegyköteles vonaton érvényes pótjegy nélkül utazik,
 
@@ -10,7 +10,7 @@ c) vonaton a helyjegyköteles vonatra érvényes helyjegy nélkül száll fel,
 
 d) vonaton a belföldi forgalomban a pót- és helyjegyköteles vonaton érvényes pót- és helyjeggyel nem rendelkezik,
 
-e) autóbuszon regisztrációs jegy váltására köteles, e kötelezettségének azonban nem tesz eleget.
+e)[^22]
 
 (2) A megállapított menetdíj (viteldíj) vagy menetdíj és pótjegy díján felül 2600 forint pótdíjat fizet a vonaton, aki
 
@@ -38,7 +38,7 @@ d) az utazási kedvezményt jogosulatlanul veszi igénybe, vagy jogosultságát 
 
 e) a menetdíjat, viteldíjat, pótdíjat a vonaton vagy 3 munkanapon belül nem fizeti meg,
 
-f) a menetjegyet, a regisztrációs jegyet vagy az egyéb utazásra jogosító igazolványt meghamisítva használja fel,
+f)[^23] a menetjegyet vagy az egyéb utazásra jogosító igazolványt meghamisítva használja fel,
 
 g) a névre szóló menetjegyet, bérletét vagy más, utazásra vagy kedvezmény igénybevételére jogosító igazolványát, igazolását arra jogosulatlan részére felhasználásra átadja vagy a más nevére szóló ilyen okmányokat felhasználja,
 
@@ -58,4 +58,7 @@ l) aki a dohányzási tilalmat megszegi és nemdohányzóként megjelölt járm�
 
 (6) Az egyes menetjegyek, bérletek és más utazási igazolványok érvénytelenségének eseteit részletesen a szolgáltatók díjszabása tartalmazza.
 
-[^16]: A 8. § a 4/2010. (I. 22.) KHEM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.
+[^20]: A 8. § a 4/2010. (I. 22.) KHEM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.
+[^21]: A 8. § (1) bekezdés a) pontja a 86/2011. (XII. 29.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^22]: A 8. § (1) bekezdés e) pontját a 86/2011. (XII. 29.) NFM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^23]: A 8. § (3) bekezdés f) pontja a 86/2011. (XII. 29.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.

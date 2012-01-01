@@ -22,21 +22,21 @@ c) a vasúti utazások esetében a kocsiosztály
 
 (4) A menettérti utazásra szóló menetjegy ára az azonos viszonylatra vonatkozó, egy útra szóló menetjegy árának legfeljebb a kétszerese.
 
-(5)[^1] A helybiztosítás díja a menetdíjon felül 160 forint.
+(5)[^2] A helybiztosítás díja a menetdíjon felül 160 forint.
 
-(6)[^2] A vasúti Intercity (IC) vonat pótjegy díja 460 forint, amely a helybiztosítás díját nem tartalmazza. A kötelező helybiztosítással közlekedő Intercity (IC) vonatokra a pótjegyváltással együtt helyjegy váltása is kötelező.
+(6)[^3] A vasúti Intercity (IC) vonat pótjegy díja 465 forint, amely a helybiztosítás díját nem tartalmazza. A kötelező helybiztosítással közlekedő Intercity (IC) vonatokra a pótjegyváltással együtt helyjegy váltása is kötelező.
 
-(7)[^3] A vasúti Intercity Rapid (ICR) vonat pótjegy díja 620 forint, amely a helybiztosítás díját nem tartalmazza. A kötelező helybiztosítással közlekedő Intercity Rapid (ICR) vonatokra a pótjegyváltással együtt helyjegy váltása is kötelező.
+(7)[^4] A vasúti Intercity Rapid (ICR) vonat pótjegy díja 630 forint, amely a helybiztosítás díját nem tartalmazza. A kötelező helybiztosítással közlekedő Intercity Rapid (ICR) vonatokra a pótjegyváltással együtt helyjegy váltása is kötelező.
 
 (8) Vasúti személyszállításnál a kocsiosztály különbözet összege megegyezik a teljes árú első és a második kocsiosztály díja közötti különbséggel.
 
 (9) A havitól eltérő érvényességű bérlet árát az érvényességi időszaknak megfelelő arányban az 1. mellékletben meghatározott havi bérletárak alapulvételével kell meghatározni.
 
-(10)[^4] Az (5)–(7) bekezdésben, valamint az 1–3. mellékletben meghatározott díjak az általános forgalmi adó összegét is tartalmazzák.
+(10)[^5] Az (5)–(7) bekezdésben, valamint az 1–3. mellékletben meghatározott díjak az általános forgalmi adó összegét is tartalmazzák.
 
 (11) A 4. §-ban meghatározottakon kívüli esetekben a helyközi (távolsági) menetrend szerinti autóbuszon a kizárólag egy helység közigazgatási határán belüli utazásért a helyi önkormányzat által megállapított menetdíjat kell megfizetni, ha erre az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény 3. § (4) bekezdésének a) pontja alapján az önkormányzat és a helyközi közlekedésért felelős miniszter megállapodott és az autóbuszjáratot a szolgáltató a helyi menetrendjében is meghirdeti.
 
-[^1]: Az 1. § (5) bekezdése a 4/2010. (I. 22.) KHEM rendelet 1. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.
-[^2]: Az 1. § (6) bekezdése a 4/2010. (I. 22.) KHEM rendelet 1. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.
-[^3]: Az 1. § (7) bekezdése a 4/2010. (I. 22.) KHEM rendelet 1. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.
-[^4]: Az 1. § (10) bekezdése a 34/2009. (VII. 6.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^2]: Az 1. § (5) bekezdése a 86/2011. (XII. 29.) NFM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (6) bekezdése a 86/2011. (XII. 29.) NFM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (7) bekezdése a 86/2011. (XII. 29.) NFM rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § (10) bekezdése a 34/2009. (VII. 6.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.

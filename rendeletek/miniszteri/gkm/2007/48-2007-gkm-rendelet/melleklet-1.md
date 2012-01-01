@@ -1,3 +1,3 @@
-1. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^19]
+1. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^26]
 
-[^19]: Az 1. melléklet a 35/2010. (IV. 23.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^26]: Az 1. melléklet a 86/2011. (XII. 29.) NFM rendelet 5. §-ával megállapított szöveg.

@@ -4,37 +4,37 @@
 
 |  | A | B | C | D | E | F |
 
-| 1 | Díjcsoport | Ülőhely (fő) |  | alap | komfort | kiemelt komfortú |
+| 1. | Díjcsoport | Ülőhely (fő) |  | alap | komfort | kiemelt komfortú |
 
-| 2 | I. | 9–20 fő | forint/km | 225 | 295 | 385 |
+| 2. | I. | 9-20 fő | forint/km | 230 | 300 | 390 |
 
-| 3 | forint/óra | 2 810 | 3 690 | 4 810 |
+| 3. | forint/óra | 2 880 | 3 750 | 4 880 |
 
-| 4 | Legcsekélyebb díj (forint) | 14 100 | 18 500 | 24 100 |
+| 4. | Legcsekélyebb díj (forint) | 14 400 | 18 800 | 24 400 |
 
-| 5 | II. | 21–40 fő | forint/km | 295 | 385 | 455 |
+| 5. | II. | 21–40 fő | forint/km | 300 | 390 | 460 |
 
-| 6 | forint/óra | 3 690 | 4 810 | 5 690 |
+| 6. | forint/óra | 3 750 | 4 880 | 5 750 |
 
-| 7 | Legcsekélyebb díj (forint) | 18 500 | 24 100 | 28 500 |
+| 7. | Legcsekélyebb díj (forint) | 18 800 | 24 400 | 28 800 |
 
-| 8 | III. | 41–54 fő | forint/km | 385 | 455 | 540 |
+| 8. | III. | 41–54 fő | forint/km | 390 | 460 | 550 |
 
-| 9 | forint/óra | 4 810 | 5 690 | 6 750 |
+| 9. | forint/óra | 4 880 | 5 750 | 6 880 |
 
-| 10 | Legcsekélyebb díj (forint) | 24 100 | 28 500 | 33 800 |
+| 10. | Legcsekélyebb díj (forint) | 24 400 | 28 800 | 34 400 |
 
-| 11 | IV. | 55 felett | forint/km | 455 | 540 | 625 |
+| 11. | IV. | 55 felett | forint/km | 460 | 550 | 635 |
 
-| 12 | forint/óra | 5 690 | 6 750 | 7 810 |
+| 12. | forint/óra | 5 750 | 6 880 | 7 940 |
 
-| 13 | Legcsekélyebb díj (forint) | 28 500 | 33 800 | 39 100 |
+| 13. | Legcsekélyebb díj (forint) | 28 800 | 34 400 | 39 700 |
 
-| 14 | V. | Csuklós | forint/km forint/óra | 575 |  |
+| 14. | V. | Csuklós | forint/km | 585 |  |
 
-| 15 | 7 190 |
+| 15. | forint/óra | 7 310 |
 
-| 16 | Legcsekélyebb díj (forint) | 36 000 |
+| 16. | Legcsekélyebb díj (forint) | 36 600 |
 
 ## Az ülőhelyek számának meghatározásánál a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet szerinti besorolást kell alkalmazni.
 
@@ -42,25 +42,25 @@
 
 ## b) A „komfort” kategóriába tartozó autóbuszoknak legalább a következő felszereltséggel kell rendelkezniük:
 
-## –  napvédő roletta vagy függöny az utasablaknál,
+## – napvédő roletta vagy függöny az utasablaknál,
 
-## –  mikrofon és hangerősítő az autóbusz-vezető vagy utaskísérő számára (kivéve a 20 fő alatti befogadóképességű autóbuszokat), utastéri hangszórók,
+## – mikrofon és hangerősítő az autóbusz-vezető vagy utaskísérő számára (kivéve a 20 fő alatti befogadóképességű autóbuszokat), utastéri hangszórók,
 
-## –  az utastértől elkülönített, külön zárható poggyásztér vagy utánfutó (kivéve a 20 fő alatti befogadóképesség),
+## – az utastértől elkülönített, külön zárható poggyásztér vagy utánfutó (kivéve a 20 fő alatti befogadóképesség),
 
-## –  légkondicionálás.
+## – légkondicionálás.
 
 ## c) A „kiemelt komfort” kategóriájú autóbuszoknak a „komfortos” kategória követelményein felül rendelkezniük kell:
 
-## –  videóval (41 fő feletti befogadóképesség esetén legalább 2 képernyővel),
+## – videóval (41 fő feletti befogadóképesség esetén legalább 2 képernyővel),
 
-## –  forróital-automatával,
+## – forróital-automatával,
 
-## –  vízöblítéses vagy kémiai működtetésű WC-vel,
+## – vízöblítéses vagy kémiai működtetésű WC-vel,
 
-## –  az átjáró felé kimozdítható üléssel,
+## – az átjáró felé kimozdítható üléssel,
 
-## –  20 fő alatti befogadóképesség esetén is mikrofonnal és hangerősítővel és az autóbusz-vezető vagy utaskísérő számára utastéri hangszórókkal.
+## – 20 fő alatti befogadóképesség esetén is mikrofonnal és hangerősítővel és az autóbusz-vezető vagy utaskísérő számára utastéri hangszórókkal.
 
 ## A „komfortos” és a „kiemelt komfortú” fokozatba akkor sorolható valamely autóbusz, ha a fokozatra meghatározott feltételek mindegyikének megfelel.
 
@@ -78,6 +78,6 @@
 
 ## 6. A különjárat teljesítése során felmerülő autópálya-használati, parkolási és kompdíjak a megrendelőt terhelik.
 
-4. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^22]
+4. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^29]
 
-[^22]: A 4. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^29]: A 4. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.

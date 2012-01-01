@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-48-20-0
 | 2010-03-01 | 2007-48-20-0L.6 | 4/2010. (I. 22.) KHEM rendelet |
 | 2010-05-01 | 2007-48-20-0L.7 | 35/2010. (IV. 23.) KHEM rendelet |
 | 2010-07-01 | 2007-48-20-0L.8 | 4/2010. (I. 22.) KHEM rendelet |
+| 2012-01-01 | 2007-48-20-0L.9 | 86/2011. (XII. 29.) NFM rendelet |
