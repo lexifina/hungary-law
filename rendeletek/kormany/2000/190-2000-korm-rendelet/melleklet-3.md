@@ -10,7 +10,7 @@
 
 ## – létszám (maximális, amely a megadott időtartamon belül összesen, nem pedig egyidőben összesen értendő);
 
-## – a Magyar Köztársaság területén történő tartózkodás időtartama (a belépéstől a kilépésig);
+## – Magyarország területén történő tartózkodás időtartama (a belépéstől a kilépésig);
 
 ## – rendeltetési hely (Magyarországon a tevékenység helye, külföldön a rendeltetési ország);
 
@@ -30,9 +30,9 @@
 
 ## – az útvonalengedély kiadásához szükséges egyéb adatok.
 
-3. számú melléklet a 190/2000. (XI. 14.) Korm. rendelethez[^17]
+3. számú melléklet a 190/2000. (XI. 14.) Korm. rendelethez[^18]
 
-Magyar Köztársaság
+Magyarország
 
 sz. példány
 
@@ -46,9 +46,9 @@ CÍMZETT megnevezése
 
 Állomáshely megnevezése
 
-Tárgy: Értesítés, engedély[^18]
+Tárgy: Értesítés, engedély[^19]
 
-A határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló 190/2000. (XI. 14.) Korm. rendelet 6. §-ában kapott felhatalmazás alapján értesítem és hivatalosan igazolom, hogy a ……… számú csapatmozgásra vonatkozó diplomáciai engedélykérelem alapján a Magyar Köztársaság Kormánya a ………… számú határozatában a ……… (kérelmező állam megnevezése) Fegyveres Erői Kötelékébe tartozó egység mozgását a Magyar Köztársaság területén(re, keresztül) engedélyezte.
+A határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló 190/2000. (XI. 14.) Korm. rendelet 6. §-ában kapott felhatalmazás alapján értesítem és hivatalosan igazolom, hogy a ……… számú csapatmozgásra vonatkozó diplomáciai engedélykérelem alapján Magyarország Kormánya a ………… számú határozatában a ……… (kérelmező állam megnevezése) Fegyveres Erői Kötelékébe tartozó egység mozgását Magyarország területén(re, keresztül) engedélyezte.
 
 A csapatmozgás engedélyezett ideje vagy időtartama:
 
@@ -66,7 +66,7 @@ Egyéb előírások:....................................
 
 Tájékoztatom, hogy a magyar határőrizeti tevékenységet végző hatóságot és a vámhatóságot a kiadott jelen engedélyről a kiadás időpontjában egyidejűleg értesítettem.
 
-A Magyar Köztársaság Honvédelmi Minisztériuma megragadja az alkalmat, hogy a ………………-t nagyrabecsüléséről biztosítsa.
+A Magyarország Honvédelmi Minisztériuma megragadja az alkalmat, hogy a ………………-t nagyrabecsüléséről biztosítsa.
 
 Kiadás helye, dátum
 
@@ -82,5 +82,5 @@ helye
 
 Záradék
 
-[^17]: A 3. számú melléklet a 331/2007. (XII. 13.) Korm. rendelet 1. § 31. pontja szerint módosított szöveg.
-[^18]: Megjegyzés: ezt az okmányt angol nyelven is el kell készíteni.
+[^18]: A 3. számú melléklet a 331/2007. (XII. 13.) Korm. rendelet 1. § 31. pontja, a 290/2011. (XII. 22.) Korm. rendelet 94. § (2) bekezdése szerint módosított szöveg.
+[^19]: Megjegyzés: ezt az okmányt angol nyelven is el kell készíteni.
