@@ -10,6 +10,6 @@ b) helyi jelentőségű objektumok
 
 ## nyilvántartásából áll.
 
-(3) Az országos jelentőségű vízgazdálkodási objektumok a Vgtv. 2. és 3. számú melléklete szerinti, a külön jogszabállyal közzétett jegyzékben szereplő,[^2] az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények, továbbá azon kiemelt vízgazdálkodási objektumok, melyek az ország egészének vagy nagyobb régiójának vízgazdálkodását meghatározzák, illetve befolyásolják.
+(3) Az országos jelentőségű vízgazdálkodási objektumok a Vgtv. 2. és 3. számú melléklete szerinti, a külön jogszabállyal közzétett jegyzékben szereplő,[^4] az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények, továbbá azon kiemelt vízgazdálkodási objektumok, melyek az ország egészének vagy nagyobb régiójának vízgazdálkodását meghatározzák, illetve befolyásolják.
 
-[^2]: 22/1996. (XI. 29.) KHVM rendelet.
+[^4]: 22/1996. (XI. 29.) KHVM rendelet.
