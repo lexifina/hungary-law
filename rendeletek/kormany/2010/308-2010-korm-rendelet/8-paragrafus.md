@@ -1,1 +1,3 @@
-## 7. § Az OKTVF e rendeletben szabályozott eljárásaiban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+## 7. §[^1]
+
+[^1]: A 7. §-t a 282/2011. (XII. 21.) Korm. rendelet 46. §-a hatályon kívül helyezte.
