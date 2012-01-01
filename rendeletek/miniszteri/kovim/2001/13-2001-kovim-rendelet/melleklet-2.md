@@ -1,4 +1,4 @@
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^42]
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^43]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -288,7 +288,7 @@ terjed ki.
 
 Hajóbizonyítvány
 
-Nem magyar lobogó alatt a Magyar Köztársaság területén közlekedő úszólétesítménynek rendelkeznie kell közösségi, dunai vagy rajnai hajóbizonyítvánnyal, illetve a lobogó szerinti hajózási hatóság által kiállított, a Magyar Köztársaság által elismert hatályos hajóokmánnyal (az elismerésre vonatkozó szabályt nem kell alkalmazni az olyan lobogó alatt közlekedő úszólétesítményekre, amelyek nemzetközi szerződés alapján a nemzeti elbánás szabályai alá tartoznak).
+Nem magyar lobogó alatt Magyarország területén közlekedő úszólétesítménynek rendelkeznie kell közösségi, dunai vagy rajnai hajóbizonyítvánnyal, illetve a lobogó szerinti hajózási hatóság által kiállított, Magyarország által elismert hatályos hajóokmánnyal (az elismerésre vonatkozó szabályt nem kell alkalmazni az olyan lobogó alatt közlekedő úszólétesítményekre, amelyek nemzetközi szerződés alapján a nemzeti elbánás szabályai alá tartoznak).
 
 1.04 cikk
 
@@ -356,7 +356,7 @@ Az úszólétesítmény kiállítása szemlére
 
 A közösségi hajóbizonyítvány, illetőleg az úszómunkagép-bizonyítvány megadása
 
-1. Ha az úszólétesítmény szemléje során a szemlebizottság megállapítja, hogy az úszólétesítmény a rendeletben foglalt követelményeknek megfelel, a kérelmező számára kiállítja az 5. mellékletben foglalt minta szerinti üzemképességet igazoló közösségi hajóbizonyítványt, illetőleg úszómunkagép-bizonyítványt (a továbbiakban együtt: közösségi hajóbizonyítvány), illetve amennyiben az úszómunkagépet a Magyar Köztársaság határain kívül kívánják üzemeltetni, a hajózási hatóság az 5. mellékletben szereplő minta szerinti közösségi hajóbizonyítványt állítja ki.
+1. Ha az úszólétesítmény szemléje során a szemlebizottság megállapítja, hogy az úszólétesítmény a rendeletben foglalt követelményeknek megfelel, a kérelmező számára kiállítja az 5. mellékletben foglalt minta szerinti üzemképességet igazoló közösségi hajóbizonyítványt, illetőleg úszómunkagép-bizonyítványt (a továbbiakban együtt: közösségi hajóbizonyítvány), illetve amennyiben az úszómunkagépet Magyarország határain kívül kívánják üzemeltetni, a hajózási hatóság az 5. mellékletben szereplő minta szerinti közösségi hajóbizonyítványt állítja ki.
 
 2. Ha a szemlebizottság megtagadja a közösségi hajóbizonyítvány megadását, úgy ezt annak okaival együtt határozatban (szemlejegyzőkönyv) közölnie kell a kérelmezővel.
 
@@ -2284,7 +2284,7 @@ A vontatásra alkalmas géphajókat és tolóhajókat fel kell szerelni legaláb
 
 (e) Egy csáklya.
 
-(f) Külön jogszabályban[^43] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
+(f) Külön jogszabályban[^44] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
 
 (g) Egy távcső, amely legalább 7x50 lencseátmérőjű.
 
@@ -4832,10 +4832,12 @@ Felszerelés
 
 1. Az orrvitorlarúddal vagy orrárboccal felszerelt hajóknak rendelkezniük kell orrvitorlahálóval és kellő számú, megfelelő tartó és merevítő eszközzel.
 
-[^42]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 10. § (16) bekezdését. A 2. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a szerint módosított szöveg.
+2. Az 1. pont szerinti felszereléstől el lehet tekinteni, ha az orrsudár vagy az orrárboc fel van szerelve megfelelő méretű kézi hámmal és talpallókötéllel, amelyek lehetővé teszik a fedélzeten tartandó biztonsági heveder rögzítését.
+
+[^43]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 10. § (16) bekezdését. A 2. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja szerint módosított szöveg.
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény
 [^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről.
 [^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről
-[^43]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész
+[^44]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész

@@ -1,4 +1,4 @@
-1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^41]
+1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^42]
 
 A FÖLDRAJZILAG AZ 1., 2., 3. ÉS 4. HAJÓZÁSI ZÓNÁBA TARTOZÓ KÖZÖSSÉGI BELVÍZI UTAK JEGYZÉKE
 
@@ -216,7 +216,7 @@ Rhône | Az Arles-ban levő Trinquetaille-hídtól, és azon túl Marseille irá
 
 Szajna | A Rouenban levő Jeanne-d'Arc-hídtól a torkolatig |
 
-MAGYAR KÖZTÁRSASÁG
+MAGYARORSZÁG
 
 Balaton
 
@@ -618,7 +618,7 @@ FRANCIA KÖZTÁRSASÁG
 
 Rajna
 
-MAGYAR KÖZTÁRSASÁG
+MAGYARORSZÁG
 
 Duna: 1812 fkm – 1433 fkm
 
@@ -892,7 +892,7 @@ LUXEMBURGI NAGYHERCEGSÉG
 
 Moselle
 
-MAGYAR KÖZTÁRSASÁG
+MAGYARORSZÁG
 
 Valamennyi, a 2. és 3. zónában fel nem sorolt egyéb vízi út
 
@@ -1058,4 +1058,4 @@ Bridgewater-csatorna | Az egész csatorna |
 
 [1] Azon hajók esetében, amelyek honi kikötője máshol van, az 1960. április 8-i Emst–Dollart-szerződés 32. cikkét kell figyelembe venni (BGBl. 1963 II, 602. o.).
 
-[^41]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a szerint módosított szöveg.
+[^42]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a, 91/2011. (XII. 30.) NFM rendelet 16. § b) pontja szerint módosított szöveg.

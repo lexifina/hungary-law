@@ -1,6 +1,6 @@
-## 14. §[^39] A hajózási hatósági szemlék végrehajtásának egységes közösségi gyakorlata érdekében elfogadott utasításokat a 2. melléklet 2. függeléke tartalmazza.
+## 14. §[^40] A hajózási hatósági szemlék végrehajtásának egységes közösségi gyakorlata érdekében elfogadott utasításokat a 2. melléklet 2. függeléke tartalmazza.
 
-## 15. §[^40] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 15. §[^41] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) az Európai Parlament és a Tanács 2006/87/EK irányelve (2006. december 12.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról és a 82/714/EGK tanácsi irányelv hatályon kívül helyezéséről,
 
@@ -16,5 +16,5 @@ f) a Bizottság 2009/46/EK irányelve (2009. április 24.) a belvízi hajókra v
 
 g) az Európai Parlament és a Tanács 2009/100/EK irányelve (2009. szeptember 16.) a belvízi hajókra vonatkozó hajóbizonyítványok kölcsönös elismeréséről.
 
-[^39]: A 14. § az 1/2010. (I. 8.) KHEM rendelet 10. §-ával megállapított szöveg.
-[^40]: A 15. § a 34/2010. (IV. 22.) KHEM rendelet 5. §-ával megállapított szöveg.
+[^40]: A 14. § az 1/2010. (I. 8.) KHEM rendelet 10. §-ával megállapított szöveg.
+[^41]: A 15. § a 34/2010. (IV. 22.) KHEM rendelet 5. §-ával megállapított szöveg.
