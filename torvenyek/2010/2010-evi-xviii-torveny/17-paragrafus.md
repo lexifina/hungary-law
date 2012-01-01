@@ -8,4 +8,4 @@ b) a nyilvántartásból történő adatszolgáltatásról a szolgáltatott adat
 
 (2) Az (1) bekezdés szerinti adatokat azok keletkezésétől számított öt évig kell megőrizni.
 
-(3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok csak az érintettnek a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 12. §-a alapján előterjesztett kérelme alapján történő tájékoztatása, valamint az adatvédelmi biztos által végzett adatvédelmi ellenőrzés céljából használhatók fel.
+(3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok csak az érintettnek a kérelme alapján történő tájékoztatása, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóság által végzett adatvédelmi ellenőrzés céljából használhatók fel.

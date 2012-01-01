@@ -8,15 +8,15 @@ b) a közjegyző polgári nemperes eljárás lefolytatása céljából a 2. § (
 
 c) a rendőrség a fogvatartott gondnokának értesítése, a fegyverengedély-ügyi és a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység végzésével összefüggő hatósági engedélyezési feladatok ellátása céljából a 2. § (2) bekezdés a), b), c), d), e), f) pontjában szereplő adatokat,
 
-d) az ügyészség a gondnokság alá helyezés, annak megszüntetése, fenntartása vagy módosítása iránti per megindításával kapcsolatos feladatai ellátása során a 2. § (2) bekezdés a), b), c), d), e) pontjában szereplő adatokat,
+d) az ügyészség a gondnokság alá helyezés, annak megszüntetése, fenntartása vagy módosítása, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindításával kapcsolatos feladatai ellátása során a 2. § (2) bekezdés a)–f) pontjában meghatározott adatokat,
 
-e) a választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv a 2. § (2) bekezdés a) és c) pontjában szereplő adatokat,
+e) a választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv a 2. § (2) bekezdés a), c) és g) pontjában szereplő adatokat,
 
 f) a gyámhatóság
 
-fa) a gondnokok felügyeletével kapcsolatos feladata ellátása során a 2. § (2) bekezdés a), b), c), d), e) pontjában szereplő adatokat,
+fa) a gondnokok felügyeletével kapcsolatos feladata ellátása során a 2. § (2) bekezdés a)–e) és g) pontjában szereplő adatokat,
 
-fb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgálata iránti per megindítása miatt a 2. § (2) bekezdés a), b), c), d), e), f) pontjában szereplő adatokat.
+fb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgálata, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindítása miatt a 2. § (2) bekezdés a)–g) pontjában szereplő adatokat.
 
 (3) A közvetlen hozzáférésre jogosult szerv nevében csak az a személy vehet át adatokat, akinek a közvetlen hozzáférésre jogosult szerv erre felhatalmazást adott.
 

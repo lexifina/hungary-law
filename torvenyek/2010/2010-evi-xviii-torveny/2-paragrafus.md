@@ -16,7 +16,9 @@ e) a gondnokság cselekvőképességet kizáró vagy korlátozó jellegét,
 
 f) a gondnokság alá helyezés kötelező felülvizsgálatának időpontját, ha a bíróság a felülvizsgálatról rendelkezett.
 
-g)–k)
+g) a választójogból való kizárás tényét, ha a bíróság a gondnokság alá helyezett személyt a választójogból kizárta.
+
+h)–k)
 
 (3) A nyilvántartásban fel kell tüntetni
 
