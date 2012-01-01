@@ -1,4 +1,4 @@
-## 2. § A Szabályzat rendelkezéseit az atomerőműből származó, a Magyar Köztársaság területén feladott, vagy más országban feladott és a Magyar Köztársaság területén áthaladó kiégett nukleáris üzemanyag vasúti szállítására (ideértve a fuvarozást is) kell alkalmazni.
+## 2. §[^2] A Szabályzat rendelkezéseit az atomerőműből származó, Magyarország területén feladott, vagy más országban feladott és Magyarország területén áthaladó kiégett nukleáris üzemanyag vasúti szállítására (ideértve a fuvarozást is) kell alkalmazni.
 
 3. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba; egyidejűleg a KGST-tagországok atomerőműveiből származó, kiégett nukleáris üzemanyag biztonságos vasúti szállítása szabályzatának kihirdetéséről rendelkező 6/1989. (IV. 24.) KöHÉM–IpM együttes rendelet hatályát veszti.
 
@@ -14,7 +14,7 @@ A kiégett nukleáris üzemanyag biztonságos vasúti szállításának szabály
 
 1.3. A kiégett fűtőelemkötegek szállításának előkészítésekor, szervezésekor és szállításakor a sugár- és nukleáris biztonság garantálásának érdekében a Nemzetközi Atomenergia Ügynökség ,,Radioaktív anyagok biztonságos szállítására vonatkozó szabályzat''-ának 1990. évi kiadását (a továbbiakban: NAÜ Szabályzat) kell alkalmazni.
 
-1.4. Ha a Szabályzat másként nem rendelkezik, a kiégett fűtőelemkötegek szállításánál, a személyszállításra és az árufuvarozásra vonatkozó ,,Nemzetközi Vagonhasználati Szabályzat'' (a továbbiakban: PPV), a Magyar Köztársaság és Ukrajna közti forgalomban az ,,Ukrajna és a Magyar Köztársaság közötti személyforgalomra vonatkozó előírások'' (a továbbiakban: IPV), a ,,Nukleáris Anyagok Fizikai Védelméről szóló NAÜ Egyezmény'', valamint a Magyarországról Oroszországba irányuló szállításoknál a ,,Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás'' (a továbbiakban: SZMGSZ) rendelkezéseit kell alkalmazni.
+1.4.[^3] Ha a Szabályzat másként nem rendelkezik, a kiégett fűtőelemkötegek szállításánál, a személyszállításra és az árufuvarozásra vonatkozó ,,Nemzetközi Vagonhasználati Szabályzat'' (a továbbiakban: PPV), Magyarország és Ukrajna közti forgalomban az ,,Ukrajna és a Magyar Köztársaság közötti személyforgalomra vonatkozó előírások'' (a továbbiakban: IPV), a ,,Nukleáris Anyagok Fizikai Védelméről szóló NAÜ Egyezmény'', valamint a Magyarországról Oroszországba irányuló szállításoknál a ,,Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás'' (a továbbiakban: SZMGSZ) rendelkezéseit kell alkalmazni.
 
 1.5. A kiégett fűtőelemkötegek szállítása során figyelembe kell venni a rakomány olyan veszélyes tulajdonságait, mint a kritikusság fellépésének lehetősége, a nagy radioaktivitás, a toxikusság, a robbanás- és tűzveszély, a korrózió előidézésének képessége, s mindezek kapcsán megfelelő intézkedéseket kell tenni a veszélyhelyzetek kialakulásának megelőzésére.
 
@@ -64,7 +64,7 @@ A védőkocsiknak a szerelvényen belüli elhelyezkedését a kiégett fűtőele
 
 Ha kölcsönös megállapodás alapján a védőkocsik két vagy több ország területén is áthaladnak, akkor ki kell elégíteniük a PPV-ben rögzített műszaki követelményeket.
 
-2.7. A konténerkocsiknak, a kísérőkocsiknak és a védőkocsiknak meg kell felelniük a PPV-ben rögzített műszaki követelményeknek, amelyek mind az 1435 mm, mind pedig az 1520 mm nyomtávú kocsikra érvényesek. Ezen túlmenően a Magyar Köztársaság és Ukrajna közötti forgalomban a személykocsiknak az IPV előírásainak is meg kell felelniük.
+2.7.[^4] A konténerkocsiknak, a kísérőkocsiknak és a védőkocsiknak meg kell felelniük a PPV-ben rögzített műszaki követelményeknek, amelyek mind az 1435 mm, mind pedig az 1520 mm nyomtávú kocsikra érvényesek. Ezen túlmenően Magyarország és Ukrajna közötti forgalomban a személykocsiknak az IPV előírásainak is meg kell felelniük.
 
 A csomagolásoknak meg kell felelniük a gyártó üzem által megadott műszaki rajzoknak és műszaki feltételeknek, jelölésüknek meg kell egyezniük a kiégett fűtőelemkötegekre vonatkozó műszaki feltételek követelményeinek, amelyek közé tartozik a konténer állandó számjele és megjelölése, a sugárveszély jele, a csomagolásnak az illetékes hatóság jóváhagyását igazoló jele, valamint a csomagolási kategóriát feltüntető cserélhető jelzések.
 
@@ -106,7 +106,7 @@ A fenti értékek a felület bármely 300 cm2-es részéről származó minta á
 
 2.18. Ha két- vagy többoldalú egyezmény másként nem rendelkezik a kiégett fűtőelemkötegekkel megrakott szerelvényeknek az újrafeldolgozó üzem telephely-országa részére történő átadása, valamint az üres szerelvény átadása, az újrafeldolgozó üzem telephely-országának területén található átadási ponton történik.
 
-2.19. Az üres, valamint a berakott szerelvény átadási pontján az újrafeldolgozó üzem telephely-országának és a Magyar Köztársaság képviselői jegyzőkönyvet vesznek föl a szállítási eszközök átadásáról, amelyekhez mellékelni kell azokat az iratokat (bizonylatokat, jegyzőkönyveket, okmányokat), amelyeket a Műszaki Feltételek alapján állítottak ki.
+2.19.[^5] Az üres, valamint a berakott szerelvény átadási pontján az újrafeldolgozó üzem telephely-országának és Magyarország képviselői jegyzőkönyvet vesznek föl a szállítási eszközök átadásáról, amelyekhez mellékelni kell azokat az iratokat (bizonylatokat, jegyzőkönyveket, okmányokat), amelyeket a Műszaki Feltételek alapján állítottak ki.
 
 Az üres vagy a megrakott szerelvénynek a szállításban részt vevő egyik ország vasútja által a másik ország vasútjának történő átadásakor a megfelelő vasúti szabályzat – Oroszország viszonylatában az SZMGSZ – szerinti átadási szállítási dokumentumok szerinti műveleteket kell elvégezni.
 
@@ -172,11 +172,11 @@ A sugárbaleset következtében keletkezett károk megtérítésével kapcsolatb
 
 Ha a sugárbaleset Magyarország és olyan ország közötti szállításkor történik, amely ország nem részese az említett nemzetközi egyezményeknek, a sugárbalesettel összefüggő kár megtérítésével kapcsolatos kérdéseket az ilyen szállításban részt vevő ország(ok) két- (vagy több)oldalú egyezmények alapján oldják meg.
 
-Függelék
+Függelék[^6]
 
 a kiégett nukleáris üzemanyag biztonságos vasúti szállításának szabályzatához
 
-A kiégett nukleáris üzemanyag szállításával kapcsolatos kérdésekben a Magyar Köztársaság illetékes hatóságai:
+A kiégett nukleáris üzemanyag szállításával kapcsolatos kérdésekben Magyarország illetékes hatóságai:
 
 1. A kiégett üzemanyag szállításának nukleáris biztonságával kapcsolatos kérdésekben: Országos Atomenergia Hivatal (a továbbiakban: OAH), 1024 Budapest, Margit krt. 85.; 1539 Budapest, 114. Pf. 676.
 
@@ -207,3 +207,9 @@ A kiégett fűtőelemkötegekkel a nukleáris létesítményben végzendő, szá
 7. A kiégett fűtőelem vasúti szállítására a Magyar Államvasutak Rt. által, a Honvédelmi Minisztérium, a Belügyminisztérium és a Paksi Atomerőmű Rt. közreműködésével kidolgozott utasítás vonatkozik.
 
 8. A nukleáris balesetek esetén adandó gyors értesítésről és segítségnyújtásról szóló egyezmények végrehajtásáról az OAH főigazgatója gondoskodik.
+
+[^2]: A 2. § a 91/2011. (XII. 30.) NFM rendelet 4. §-a szerint módosított szöveg.
+[^3]: A melléklet 1. pont 1.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 4. §-a szerint módosított szöveg.
+[^4]: A melléklet 2. pont 2.7. alpontja a 91/2011. (XII. 30.) NFM rendelet 4. §-a szerint módosított szöveg.
+[^5]: A melléklet 2. pont 2.19. alpontja a 91/2011. (XII. 30.) NFM rendelet 4. §-a szerint módosított szöveg.
+[^6]: A függelék a 91/2011. (XII. 30.) NFM rendelet 4. §-a szerint módosított szöveg.
