@@ -1,1 +1,0 @@
-## 4. § Az e rendeletben nem szabályozott kérdésekben — a 6—7. § kivételével — a társadalmi szervezetek nyilvántartásának ügyviteli szabályairól szóló 6/1989. (VI. 8.) IM rendeletben foglaltakat kell megfelelően alkalmazni.

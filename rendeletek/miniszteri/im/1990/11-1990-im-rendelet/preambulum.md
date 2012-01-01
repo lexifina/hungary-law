@@ -1,1 +1,0 @@
-A lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény (Ltv.) 24. §-ának (3) bekezdésében kapott felhatalmazás alapján — a Legfelsőbb Bíróság elnökével egyetértésben — a következőket rendelem:

@@ -1,1 +1,0 @@
-## 3. § Az Ltv. hatálybalépése előtt törvényesen elismert egyházként, bejegyzett szerzetesrendként működő szervezetet a bíróság a Pk lajstromba bejegyzi, és az e rendelet szerinti nyilvántartásba bevezeti. Erről az egyház, szerzetesrend képviselőjét a 3. számú mellékletnek megfelelően, a Legfelsőbb Bíróságot pedig az 1. § (3) bekezdése szerint értesíti.
