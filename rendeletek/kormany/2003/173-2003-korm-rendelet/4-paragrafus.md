@@ -12,7 +12,7 @@
 
 6. idényjellegű (szezonális) üzemelés: a naptári év szolgáltató által meghatározott, legalább egy hónapos időszakára kiterjedő folyamatos működés;
 
-7.[^20] igényjogosult: jogszabály eltérő rendelkezése hiányában a szolgáltatóval vagy annak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. §-a 23. pontja szerinti kapcsolt vállalkozásával munkavégzésre irányuló vagy tagsági jogviszonyban álló, illetve a szolgáltatótól vagy annak kapcsolt vállalkozásától nyugdíjazott személy;
+7.[^20] igényjogosult: jogszabály eltérő rendelkezése hiányában a szolgáltatóval vagy annak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. §-a 23. pontja szerinti kapcsolt vállalkozásával munkavégzésre irányuló vagy tagsági jogviszonyban álló, illetve a szolgáltatótól vagy annak kapcsolt vállalkozásától nyugdíjazott személy, ideértve a jogviszony megszűnését követően korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesülő személyt is;
 
 8. összkapacitás: a férőhelyek és a hozzárendelt tárgyévi működési napok számának szorzatösszege;
 
@@ -35,6 +35,6 @@
 [^17]: A 4. § 2. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének a) pontja hatályon kívül helyezte.
 [^18]: A 4. § 3. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (6) bekezdésének a) pontja hatályon kívül helyezte.
 [^19]: A 4. § 5. pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének g) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^20]: A 4. § 7. pontja a 218/2007. (VIII. 15.) Korm. rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^20]: A 4. § 7. pontja a 218/2007. (VIII. 15.) Korm. rendelet 2. §-ával megállapított, a 333/2011. (XII. 29.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
 [^21]: A 4. § 10. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének a) pontja hatályon kívül helyezte.
 [^22]: A 4. § 16. pontja a 218/2007. (VIII. 15.) Korm. rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
