@@ -1,1 +1,3 @@
-## „(2) A Hivatal rendszeresen ellenőrzi a közoktatási szakértői tevékenység folytatását, az államilag elismert nyelvvizsgaközpontokat, a pedagógus-továbbképzések szervezőit, a Magyarországon működő felsőoktatási intézményeket, a szakmai vizsga vizsgaszervezési feladatainak ellátását és valamennyi tevékenység tekintetében ellátja a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait.”
+## 14. §[^27]
+
+[^27]: A 14. §-t a 16. § (2) bekezdése hatályon kívül helyezte.

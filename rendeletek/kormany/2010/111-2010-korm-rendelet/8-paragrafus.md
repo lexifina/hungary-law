@@ -8,7 +8,7 @@
 
 (4)[^20] A kormányhivatal a szakmai vizsga szervezésére jogosító engedély hiányában vizsgaszervezési tevékenységet folytató intézménnyel szemben a minimálbér havi összege tízszeresének megfelelő mértékű bírságot szab ki.
 
-(5)[^21] A kormányhivatal által kiszabott bírságot a Munkaerőpiaci Alap (a továbbiakban: MPA) lebonyolítási számlájára kell befizetni. A befizetett bírság összege az MPA képzési alaprészét illeti meg.
+(5)[^21] A kormányhivatal által kiszabott bírságot a Nemzeti Foglalkoztatási Alap (a továbbiakban: NFA) lebonyolítási számlájára kell befizetni. A befizetett bírság összege az NFA képzési alaprészét illeti meg.
 
 (6) A szakképesítésért felelős miniszter által kiszabott bírságot az általa vezetett minisztérium Igazgatási számlájára kell befizetni.
 

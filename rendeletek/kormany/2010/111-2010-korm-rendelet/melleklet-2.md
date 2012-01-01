@@ -46,8 +46,4 @@
 
 2. melléklet a 111/2010. (IV. 9.) Korm. rendelethez[^31]
 
-Az R. 4. melléklete a „II. Egészségügyi munkakörök, b) Szakalkalmazottak, Pályáztatás alól mentesített, raktárvezető, raktáros” sor helyébe a következő sor lép:
-
-| raktárvezető, raktárvezető helyettes |  |  | * | * | * |  |  |  |  |  |  |
-
-[^31]: A 2. mellékletet a 16. § (2) bekezdése hatályon kívül helyezte 2012. január 1. napjával.
+[^31]: A 2. mellékletet a 16. § (2) bekezdése hatályon kívül helyezte.
