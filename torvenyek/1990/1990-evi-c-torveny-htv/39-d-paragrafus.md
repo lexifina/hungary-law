@@ -2,7 +2,7 @@
 
 39/D. § (1) A 39. § (1) bekezdés szerinti adóalap csökkenthető az adóévi működés hónapjai alapján számított adóévi átlagos statisztikai állományi létszámnak az előző adóévi működés hónapjai alapján az előző adóévre számított átlagos statisztikai állományi létszámhoz képest bekövetkezett – főben kifejezett – növekménye után 1 millió forint/fő összeggel.
 
-(2) Nem vehető igénybe az adóalap-mentesség azon létszámbővítéshez, amely állami támogatás igénybevételével jött létre. E bekezdés alkalmazásában állami támogatás a Munkaerőpiaci Alapból folyósított olyan támogatás, amelynek feltétele új munkahely létesítése.
+(2) Nem vehető igénybe az adóalap-mentesség azon létszámbővítéshez, amely állami támogatás igénybevételével jött létre. E bekezdés alkalmazásában állami támogatás a Nemzeti Foglalkoztatási Alapból folyósított olyan támogatás, amelynek feltétele új munkahely létesítése.
 
 (3) Az átlagos statisztikai állományi létszámot a Központi Statisztikai Hivatal Útmutató az intézményi munkaügyi statisztika kérdőíve kitöltéséhez c. kiadvány 1999. január 1. napján érvényes szabályai szerint kell – két tizedesjegy pontossággal – számítani. Az adóévi átlagos statisztikai állományi létszám számítása során figyelmen kívül kell hagyni azt, aki egyébként a statisztikai állományi létszámba tartozik, ám állományba kerülését közvetlenül megelőzően a vállalkozóval a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő vállalkozásnál tartozott az átlagos statisztikai állományi létszámba.
 

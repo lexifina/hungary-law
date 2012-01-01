@@ -4,15 +4,15 @@
 
 a) a szükséglakás,
 
-b) a gyógy- vagy üdülőhelynek nem minősülő kistelepülésen fekvő komfort nélküli lakásból 100 m2,
+b)
 
 c)
 
-d) a szociális, egészségügyi és gyermekvédelmi, illetőleg a nevelési-oktatási intézmények céljára szolgáló helyiség,
+d)
 
 e)
 
-f) a költségvetési szerv, az egyház tulajdonában álló építmény,
+f)
 
 g)
 

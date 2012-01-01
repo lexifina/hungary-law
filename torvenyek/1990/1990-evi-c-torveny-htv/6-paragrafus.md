@@ -8,4 +8,4 @@ c) az adó mértékét a helyi sajátosságokhoz, az önkormányzat gazdálkodá
 
 d) az e törvény második részében meghatározott mentességeket, kedvezményeket további mentességekkel, kedvezményekkel, így különösen a lakások esetében a lakásban lakóhellyel rendelkező eltartottak számától, a lakáson fennálló, hitelintézet által lakásvásárlásra, lakásépítésre nyújtott hitel biztosítékául szolgáló jelzálogjog fennállásától, a lakásban lakóhellyel rendelkezők jövedelmétől függő mentességekkel, kedvezményekkel kibővítse,
 
-e) e törvény és az adózás rendjéről szóló törvény keretei között a helyi adózás részletes szabályait meghatározza.
+e) e törvény és az adózás rendjéről szóló törvény keretei között az adózás részletes szabályait meghatározza.

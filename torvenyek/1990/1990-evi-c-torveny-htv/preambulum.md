@@ -4,4 +4,4 @@ E feladatnak a helyi sajátosságokhoz és igényekhez igazítható ellátása �
 
 A gazdasági önállósulás egyik eszköze a helyi adók rendszere. Ez a települési önkormányzat számára lehetőséget teremt a helyi szuverén adóztatási jog gyakorlására, s ezzel együtt a helyi adópolitika kialakítására.
 
-Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a települési önkormányzat önálló gazdálkodásában — összhangban a Magyar Köztársaság Alkotmányával és a helyi önkormányzatokról szóló törvény rendelkezéseivel — a helyi adókról a következő törvényt alkotja.
+Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a települési önkormányzat önálló gazdálkodásában a helyi adókról a következő törvényt alkotja.
