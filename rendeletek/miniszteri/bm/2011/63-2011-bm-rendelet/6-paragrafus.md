@@ -1,0 +1,1 @@
+## 5. § A honvédelmi felkészülés és az országmozgósítás egyes feladatainak ellátásában részt vevő szervek részére szóló értesítési feladatokról szóló 39/2001. (XII. 22.) BM rendelet 2. § (1) bekezdés a) pontjában az „Országos Igazságszolgáltatási Tanács Hivatalát” szövegrész helyébe az „Országos Bírósági Hivatal elnökét” szöveg lép.
