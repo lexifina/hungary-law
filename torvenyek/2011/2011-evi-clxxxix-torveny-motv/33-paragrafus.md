@@ -1,0 +1,1 @@
+33. § Az e törvényben meghatározott kötelezettségeit megszegő önkormányzati képviselő megállapított tiszteletdíját, természetbeni juttatását a képviselő-testület – a szervezeti és működési szabályzatában meghatározottak alapján – legfeljebb tizenkét havi időtartamra csökkentheti, megvonhatja. Ismételt kötelezettségszegés esetén a csökkentés vagy a megvonás újra megállapítható.

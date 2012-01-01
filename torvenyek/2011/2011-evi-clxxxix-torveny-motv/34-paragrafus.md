@@ -1,0 +1,1 @@
+34. § A képviselő-testület a polgármesternek vagy bármely önkormányzati képviselőnek a javaslatára az önkormányzati képviselők közül tanácsnokokat választhat. A tanácsnok felügyeli a képviselő-testület által meghatározott önkormányzati feladatkörök ellátását.

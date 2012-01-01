@@ -1,0 +1,1 @@
+108. § A helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon birtoklása, használata, hasznai szedésének joga, fenntartása, üzemeltetése, létesítése, fejlesztése, valamint felújítása a nemzeti vagyonról szóló törvényben szabályozott módon engedhető át másnak.

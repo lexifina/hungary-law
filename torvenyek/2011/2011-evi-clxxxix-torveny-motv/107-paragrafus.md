@@ -1,0 +1,1 @@
+107. § A helyi önkormányzatot – törvényben meghatározott eltérésekkel – megilletik mindazok a jogok és terhelik mindazok a kötelezettségek, amelyek a tulajdonost megilletik, terhelik. A tulajdonost megillető jogok gyakorlásáról a képviselő-testület rendelkezik.

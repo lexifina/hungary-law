@@ -1,0 +1,1 @@
+77. § Amennyiben a képviselő-testület az alpolgármester megbízását a 76. § d) pontja alapján nem vonja vissza és a polgármester az alpolgármester feladatait írásban, teljeskörűen megvonja, a feladatkör megvonását követően az alpolgármester a helyi önkormányzati képviselők tiszteletdíjával azonos mértékű díjra jogosult.
