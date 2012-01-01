@@ -4,7 +4,7 @@ a) a magyar törvény szerint a büntetés elévült,
 
 b) a külföldi határozat alapjául szolgáló cselekményt a magyar szabálysértési hatóság vagy a bíróság már jogerősen elbírálta,
 
-c) a külföldi határozat alapjául szolgáló cselekményt külföldi hatóság már jogerősen elbírálta, és az erről szóló határozat végrehajtását a Magyar Köztársaság már átvette,
+c) a külföldi határozat alapjául szolgáló cselekményt külföldi hatóság már jogerősen elbírálta, és az erről szóló határozat végrehajtását Magyarország már átvette,
 
 d) a tagállami hatóság által megküldött tanúsítvány nyilvánvalóan nem az ahhoz mellékelt határozatra vonatkozik,
 

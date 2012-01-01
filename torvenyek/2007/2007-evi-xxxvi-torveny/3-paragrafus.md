@@ -1,6 +1,6 @@
-3. § (1) A szabálysértési jogsegély iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha veszélyezteti a Magyar Köztársaság biztonságát, sérti közrendjét.
+3. § (1) A szabálysértési jogsegély iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha veszélyezteti Magyarország biztonságát, sérti közrendjét.
 
-(2) A szabálysértési jogsegély iránti megkeresésben foglaltak teljesítését meg kell tagadni, ha az a Magyar Köztársaságnak az emberi jogok védelmére vonatkozó nemzetközi kötelezettségvállalásával, így különösen az emberi jogok és alapvető szabadságok védelméről szóló Egyezménnyel, illetve az Emberi Jogok Európai Bírósága ítéleteivel ellentétes.
+(2) A szabálysértési jogsegély iránti megkeresésben foglaltak teljesítését meg kell tagadni, ha az Magyarországnak az emberi jogok védelmére vonatkozó nemzetközi kötelezettségvállalásával, így különösen az emberi jogok és alapvető szabadságok védelméről szóló Egyezménnyel, illetve az Emberi Jogok Európai Bírósága ítéleteivel ellentétes.
 
 (3) Az (1) és (2) bekezdésben foglaltak vizsgálata a központi hatóság hatáskörébe tartozik.
 
