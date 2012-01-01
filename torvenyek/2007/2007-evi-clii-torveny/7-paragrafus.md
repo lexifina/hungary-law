@@ -8,6 +8,6 @@ b) a 3. § (3) bekezdés a)–c) pontja szerinti kötelezett esetében a gazdál
 
 c) a 3. § (3) bekezdés d) pontja szerinti kötelezettek esetében az állami támogatási előirányzat kezelője – helyi önkormányzat esetében a jegyző, közalapítvány esetében az alapítói jogokat gyakorló szerv, területfejlesztési tanács esetében annak hivatali szervezete –, vagy ha e szerv nem azonos az állami pénzalap, illetve az állami támogatási előirányzat felhasználásának szakmai lebonyolításáért felelős szervvel, akkor ez utóbbi,
 
-d) a Magyar Nemzeti Banknak a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 49. § hatálya alá nem tartozó alkalmazottai vonatkozásában a Magyar Nemzeti Bank elnöke
+d) a Magyar Nemzeti alkalmazottai vonatkozásában a Magyar Nemzeti Bank elnöke
 
-felelős (a továbbiakban: őrzésért felelős).
+felelős (a továbbiakban együtt: őrzésért felelős).
