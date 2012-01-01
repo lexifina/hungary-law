@@ -1,4 +1,4 @@
-3. § (1) Az oktatásért felelős miniszter az e törvényben meghatározottak szerint ellenőrzi a tankönyvkiadók és tankönyvforgalmazók tevékenységét, indokolt esetben intézkedést kezdeményez, illetve intézkedést hoz.
+3. § (1) Az oktatásért felelős miniszter szakmai ellenőrzés keretében az e törvényben meghatározottak szerint ellenőrzi a tankönyvkiadók és tankönyvforgalmazók tevékenységét, indokolt esetben intézkedést kezdeményez, illetve intézkedést hoz.
 
 (2) A szakképesítésért felelős miniszter – költségvetésének terhére – az ágazatába tartozó szakképesítések tekintetében kidolgoztatja a szakmai tantárgyak tankönyveit (a továbbiakban: szakmai tankönyv). A szakképesítésért felelős miniszter a kis példányszámú szakmai tankönyvekből történő tankönyvellátás biztosítása céljából
 
@@ -14,7 +14,7 @@ b) megállapodást köthet tankönyvkiadóval a tankönyv előállítására, il
 
 c) megállapodást köthet tankönyvkiadóval, illetve tankönyvforgalmazóval külföldi tankönyvek beszerzésére és az iskolák részére történő értékesítésére.
 
-(4) A (3) bekezdés a) pontjában szabályozott – a nemzetiségi oktatást érintő – nyilvános pályázatot az Országos Kisebbségi Bizottság egyetértésével kell kiírni. A benyújtott pályázatokról az oktatásért felelős miniszter az Országos Kisebbségi Bizottság javaslata alapján dönt.
+(4) A (3) bekezdés a) pontjában szabályozott – a nemzetiségi oktatást érintő – nyilvános pályázatot az Országos Nemzetiségi Bizottság egyetértésével kell kiírni. A benyújtott pályázatokról az oktatásért felelős miniszter az Országos Nemzetiségi Bizottság javaslata alapján dönt.
 
 (5) Az oktatásért felelős miniszter – költségvetésének terhére – a sajátos nevelési igényű tanulók kis példányszámú tankönyvekkel történő tankönyvellátásának biztosítása céljából
 

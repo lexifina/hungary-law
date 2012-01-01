@@ -10,7 +10,7 @@ d) közreműködik a vitás kérdések békés, bírósági eljáráson kívüli
 
 e) segíti a tankönyvkiadói és tankönyvforgalmazói tevékenység fejlesztését,
 
-f) segíti a Magyarországon élő nemzeti és etnikai kisebbséghez tartozók, továbbá a külföldön élő magyar kisebbségek tankönyvkiadását és ellátását,
+f) segíti a Magyarországon élő nemzetiségekhez tartozók, továbbá a külföldön élő magyar kisebbségek tankönyvkiadását és ellátását,
 
 g) ellátja mindazokat az ügyeket, amelyeket jogszabály a feladatkörébe utal.
 

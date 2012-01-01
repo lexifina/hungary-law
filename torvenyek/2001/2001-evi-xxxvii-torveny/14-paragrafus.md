@@ -18,4 +18,4 @@ b) az elnökhelyettesek,
 
 c) a bizottságok elnökei.
 
-(3) A Testület körbélyegzőjén, hivatalos iratain és hivatali helyiségeiben használhatja a Magyar Köztársaság címerét.
+(3)

@@ -2,7 +2,7 @@
 
 15. § (1) A közgyűlésen a Testület minden tagjának egy képviselője tanácskozási és szavazati joggal jogosult részt venni. Minden tagnak egy szavazati joga van.
 
-(2) A közgyűlés ülésén – az alapszabályban meghatározottak szerint – tanácskozási joggal részt vehet az Országos Köznevelési Tanács, a Közoktatás-politikai Tanács, az Országos Szakképzési Tanács, az Országos Kisebbségi Bizottság, az Országos Diákjogi Tanács, az Országos Szülői Érdekképviseleti Tanács, az oktatásért felelős miniszter és a szakképesítésért felelős miniszter egy-egy képviselője.
+(2) A közgyűlés ülésén – az alapszabályban meghatározottak szerint – tanácskozási joggal részt vehet az Országos Köznevelési Tanács, a Közoktatás-politikai Tanács, az Országos Szakképzési Tanács, az Országos Nemzetiségi Bizottság, az Országos Diákjogi Tanács, az Országos Szülői Érdekképviseleti Tanács, az oktatásért felelős miniszter és a szakképesítésért felelős miniszter egy-egy képviselője.
 
 (3) A közgyűlés hatáskörébe tartozik
 
