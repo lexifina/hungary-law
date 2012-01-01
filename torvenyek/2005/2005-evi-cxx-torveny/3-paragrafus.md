@@ -18,11 +18,11 @@ b) nyugdíjas
 
 és
 
-c) a tevékenysége alapján a (3) bekezdésben meghatározott foglalkozásúnak minősül, valamint
+c) a tevékenysége alapján a (3) és (3c) bekezdésben meghatározott foglalkozásúnak minősül, valamint
 
 d) – figyelemmel a (2)–(5) bekezdés rendelkezéseire is – a kifizetőnek írásban nyilatkozik arról, hogy a c) pont szerinti tevékenysége alapján számára kifizetett bevételt, vagy annak a nyilatkozatában meghatározott részét terhelő közterhek megfizetésére az e törvény rendelkezéseinek alkalmazását választja.
 
-(2) A közterhek e törvény szerinti megfizetését a (3) bekezdésben említett foglalkozású magánszemély azon bevételére választhatja, amely az adóévben a Magyar Köztársaság törvényes fizetőeszközében történő kifizetéssel (folyósítással)
+(2) A közterhek e törvény szerinti megfizetését a (3) és (3c) bekezdésben említett foglalkozású magánszemély azon bevételére választhatja, amely az adóévben Magyarország törvényes fizetőeszközében történő kifizetéssel (folyósítással)
 
 a) – a (7) bekezdés rendelkezéseiben foglalt korlátozással – munkaviszonyban, vagy társas vállalkozás személyesen közreműködő tagjaként illeti meg, feltéve, hogy e bevételt eredményező jogviszonyában kizárólag a foglalkozása szerinti tevékenységet folytat, és/vagy
 
@@ -38,73 +38,139 @@ alapján illeti meg,
 
 (3) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett, FEOR-számmal azonosított foglalkozás:
 
-2615 Könyv- és lapkiadó szerkesztője
+2123 Telekommunikációs mérnök foglalkozásból
 
-2616 Újságíró
+Akusztikus mérnök
 
-2617 Rádióműsor-, televízióműsor-szerkesztő
+Audiotechnikai mérnök
 
-2618 Szakképzett edző, sportszervező, -irányító, feltéve, hogy rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel
+Hangmérnök
 
-2619 Egyéb magasabb képzettséget igénylő kulturális foglalkozások
+Televíziós műszaki adásrendező
 
-2621 Író (újságíró nélkül)
+2136 Grafikus és multimédia-tervező
 
-2622 Műfordító
+2627 Nyelvész, fordító, tolmács foglalkozásból
 
-2623 Képzőművész
+Filmszöveg fordító
 
-2624 Iparművész
+Lírai művek fordítója
 
-2625 Zeneszerző
+Műfordító
 
-2626 Rendező
+Prózai és drámai művek fordítója
 
-2627 Operatőr, fotóművész
+2714 Kulturális szervező foglalkozásból
 
-2629 Egyéb alkotóművész foglalkozások (díszlettervező, jelmeztervező, dramaturg)
+Producer (kulturális)
 
-2631 Színész, előadóművész, bábművész
+Produkciós menedzser (szórakoztatóipar)
 
-2632 Zenész, énekes
+2715 Könyv- és lapkiadó szerkesztője
 
-2633 Koreográfus, táncművész
+2716 Újságíró, rádióműsor-, televízióműsor-szerkesztő
 
-3714 Rádióműsor-, televízióműsor-szerkesztő munkatárs
+2719 Egyéb kulturális és sportfoglalkozású (felsőfokú képzettséghez kapcsolódó) foglalkozásból
 
-3715 Könyv- és lapkiadó-szerkesztő munkatárs
+Művészeti tanácsadó
 
-3716 Hivatásos sportoló, sportmunkatárs, valamint FEOR számtól függetlenül a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, továbbá a szövetség vagy a sportszervezet főállású munkavállalója. A sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén további feltétel, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel
+Zenei konzulens, tanácsadó
 
-3721 Segédszínész
+2721 Író (újságíró nélkül)
 
-3722 Segédrendező
+2722 Képzőművész
 
-3723 Népzenész
+2723 Iparművész, gyártmány- és ruhatervező
 
-3725 Cirkuszművész
+2724 Zeneszerző, zenész, énekes
 
-3729 Egyéb művészeti foglalkozások
+2725 Rendező, operatőr
 
-5311 Színházi fodrász
+2726 Színész, bábművész
 
-5312 Színházi kikészítő
+2727 Táncművész, koreográfus
 
-5341 Fényképész, fotó- és mozgófilmlaboráns
+2728 Cirkuszi és hasonló előadóművész
 
-5342 Világosító és egyéb filmgyártási foglalkozású
+2729 Egyéb alkotó- és előadó-művészi foglalkozású (felsőfokú végzettséghez kapcsolódó)
 
-5343 Díszletező, díszítő
+3122 Villamosipari technikus (elektronikai technikus) foglalkozásból
 
-5349 Egyéb kulturális, sport-, szórakoztatási szolgáltatási foglalkozások, feltéve, hogy azok a mű elkészítésének folyamatában alkotó jelleggel, attól elválaszthatatlan módon vesznek részt. Ilyen foglalkozás különösen a fotóriporter, a korrektor, a designer, képszerkesztő, művészeti vezető, a hangmérnök, továbbá a népi iparművész igazolvánnyal rendelkező magánszemély az igazolványban feltüntetett tevékenysége tekintetében
+Koncert-fénytechnikus
 
-5349 Színházi öltöztető
+Koncert-színpadtechnikus
 
-7321 Színházi jelmezkészítő
+3145 Műsorszóró és audiovizuális technikus foglalkozásból
 
-7323 Színházi fejdíszkészítő
+Filmstúdió technikus
 
-7335 Színházi lábbeli készítő.
+Hangmester
+
+Hangrestaurációs technikus
+
+Hangstúdió-technikus
+
+Hangtechnikus
+
+Képtechnikus
+
+Rögzítéstechnikai technikus
+
+Stúdiótechnikus
+
+Videótechnikus
+
+Zenei technikus
+
+3711 Segédszínész, statiszta
+
+3712 Segédrendező
+
+3714 Díszletező, díszítő
+
+3715 Kiegészítő filmgyártási és színházi foglalkozású
+
+3719 Egyéb művészeti és kulturális foglalkozású
+
+5211 Fodrász foglalkozásból
+
+Színházi fodrász
+
+Színházi parókakészítő
+
+5212 Kozmetikus foglalkozásból
+
+Maszkmester
+
+Sminkes
+
+Sminkmester
+
+Színházi kikészítő
+
+7212 Szabó, varró foglalkozásból
+
+Jelmez- és alkalmiruha-készítő
+
+Színházi varró
+
+7213 Kalapos, kesztyűs foglalkozásból
+
+Színházi fejdíszkészítő
+
+7217 Cipész, cipőkészítő, -javító foglalkozásból
+
+Színházi cipész
+
+(3a) Elnevezésétől függetlenül is az ekho választására jogosít az a tevékenység, amely a FEOR-08 osztályozási szempontjai szerint tartalma alapján megfelel a (3) bekezdés szerinti foglalkozásoknak, munkaköröknek.
+
+(3b) A (3) bekezdés szerinti foglalkozásúnak minősülő magánszemély – munkakörének elnevezésétől függetlenül – akkor választhatja az ekhot, ha tevékenysége alapján a mű elkészítésének folyamatában alkotó jelleggel vesz részt.
+
+(3c) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett foglalkozásúnak minősül:
+
+a) a szakképzett edző, sportszervező, -irányító (FEOR-08 2717), feltéve, hogy rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel;
+
+b) a hivatásos sportoló, sportmunkatárs, valamint a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, vagy a szövetség vagy a sportszervezet főállású munkavállalója. A sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén további feltétel, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel.
 
 (4) A (2) bekezdésben említett összeghatár
 

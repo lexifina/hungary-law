@@ -2,11 +2,11 @@
 
 8. § A jogszerűen ekhoalapként figyelembe vett bevétel után a közterhek e törvényben szabályozott megfizetésével teljesülnek
 
-a) a Tbj.-ben meghatározott, a foglalkoztatót terhelő társadalombiztosítási járulék,
+a) a szociális hozzájárulási adóra vonatkozó törvényi rendelkezésekben meghatározott, a kifizetőt terhelő közterheket,
 
-b) a Tbj.-ben meghatározott, a biztosítottat terhelő nyugdíjjárulék (magánnyugdíjpénztári tagdíj),
+b) a Tbj.-ben meghatározott biztosítottat terhelő járulékokat
 
-befizetési, illetve levonási, továbbá
+érintő befizetési, illetve levonási, továbbá
 
 c) a kifizetőt és a magánszemélyt terhelő személyi jövedelemadózási
 

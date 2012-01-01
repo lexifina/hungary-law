@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdésben említett magánszemélynek a számfejtést megelőzően az adóévben esedékes további kifizetések tekintetében vissza kell vonnia az ekho választására tett nyilatkozatát, ha az esedékes bevételére (vagy annak egy részére) a bevétel nagysága alapján a továbbiakban az ekho már nem alkalmazható az adóévben.
 
-(3) Ha a magánszemély az olyan tevékenységét, amely alapján a 3. § (3) bekezdése szerinti foglalkozásúnak minősül, vállalkozási szerződés vagy eseti megbízási szerződés alapján végzi, az ekho választásáról az őt megillető bevétel kifizetése előtt nyilatkozik, ekkor nyilatkozhat arról is, hogy a kifizetőt és az őt terhelő ekho megállapítását, bevallását és megfizetését átvállalja a kifizetőtől.
+(3) Ha a magánszemély az olyan tevékenységét, amely alapján a 3. § (3) és (3c) bekezdése szerinti foglalkozásúnak minősül, vállalkozási szerződés vagy eseti megbízási szerződés alapján végzi, az ekho választásáról az őt megillető bevétel kifizetése előtt nyilatkozik, ekkor nyilatkozhat arról is, hogy a kifizetőt és az őt terhelő ekho megállapítását, bevallását és megfizetését átvállalja a kifizetőtől.
 
 (4) A kifizető a magánszemély nyilatkozata ellenére, vagy annak visszavonása hiányában sem alkalmazhatja a továbbiakban az ekhót, ha a magánszemély tőle származó olyan bevétele, amely után ekhót fizetett, az adóévben a 3. § (4) bekezdése szerinti összeghatárt meghaladja.

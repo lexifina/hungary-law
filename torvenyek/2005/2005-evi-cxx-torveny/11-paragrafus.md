@@ -6,20 +6,6 @@ a) 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százaléko
 
 b)
 
-(2) Az állami adóhatóság a kifizetőt terhelő, megfizetett ekho összegéből
-
-a) 94 százalék nyugdíjbiztosítási járulékot a Nyugdíjbiztosítási Alapnak,
-
-b) 6 százalék egészségbiztosítási járulékot az Egészségbiztosítási Alapnak
-
-utal át.
-
-(3) Az állami adóhatóság a különadó megfizetett összegéből
-
-a) 94 százalékot a Nyugdíjbiztosítási Alapnak,
-
-b) 6 százalékot az Egészségbiztosítási Alapnak
-
-utal át.
+(2)–(3)
 
 (4) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes ekhora az (1) bekezdés b) pontja nem alkalmazható.
