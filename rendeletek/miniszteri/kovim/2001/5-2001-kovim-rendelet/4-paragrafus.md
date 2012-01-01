@@ -2,7 +2,7 @@
 
 4. § (1) A szakszolgálati engedély alapján:
 
-a)[^4] UL A1 pilóta és légiutas-kísérő szakszolgálat magyar lajstromba vett légijárművön a Magyar Köztársaság területén (légterében) vagy területén (légterén) kívül (a továbbiakban: belföldön, illetőleg külföldön) látható el;
+a)[^4] UL A1 pilóta és légiutas-kísérő szakszolgálat magyar lajstromba vett légijárművön Magyarország területén (légterében) vagy területén (légterén) kívül (a továbbiakban: belföldön, illetőleg külföldön) látható el;
 
 b)[^5] UL A1 pilóta és légiutas-kísérő szakszolgálat más állam lajstromába vett légijárművön belföldön, illetve külföldön abban az esetben látható el, ha ezt a lajstromozó állam megengedi;
 
@@ -12,7 +12,7 @@ d)[^6]
 
 (2)[^7]
 
-[^4]: A 4. § (1) bekezdésének a) pontja a 32/2009. (VI. 30.) KHEM rendelet 30. § (5) bekezdésének j) pontja szerint módosított szöveg. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
+[^4]: A 4. § (1) bekezdésének a) pontja a 32/2009. (VI. 30.) KHEM rendelet 30. § (5) bekezdésének j) pontja, a 91/2011. (XII. 30.) NFM rendelet 13. §-a szerint módosított szöveg.
 [^5]: A 4. § (1) bekezdésének b) pontja a 32/2009. (VI. 30.) KHEM rendelet 30. § (5) bekezdésének j) pontja szerint módosított szöveg. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
 [^6]: A 4. § (1) bekezdésének d) pontját a 6/2004. (I. 30.) GKM rendelet 16. §-a (11) bekezdésének a) pontja hatályon kívül helyezte.
 [^7]: A 4. § (2) bekezdését a 32/2009. (VI. 30.) KHEM rendelet 30. § (4) bekezdése hatályon kívül helyezte. A 2009. augusztus 24. napját megelőzően kiadott engedélyekre vonatkozóan lásd e módosító rendelet 31–35. §-át.
