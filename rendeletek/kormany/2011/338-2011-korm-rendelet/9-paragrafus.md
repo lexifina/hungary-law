@@ -1,0 +1,3 @@
+9. § (1) A Nemzeti Jogszabálytár szolgáltatója a Magyar Közlöny Lap- és Könyvkiadó Kft.
+
+(2) A Magyar Közlöny Lap- és Könyvkiadó Kft. Nemzeti Jogszabálytár működtetésével kapcsolatos feladatát a kormányzati tevékenység összehangolásáért felelős miniszterrel kötött közszolgáltatási szerződés alapján látja el, amelyben a felek rögzítik az elvárt szolgáltatások körét és a szolgáltatások elvárt szintjét. A Magyar Közlöny Lap- és Könyvkiadó Kft. szolgáltatási díját a ténylegesen felmerült és a teljes költség felosztás módszerével meghatározott önköltség, valamint az adott szolgáltatással közvetlenül összefüggő felhalmozási költség alapján a szolgáltatási szint alapú közszolgáltatási szerződés határozza meg.
