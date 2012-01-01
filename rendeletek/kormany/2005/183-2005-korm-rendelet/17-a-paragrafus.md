@@ -1,3 +1,3 @@
-## Jogorvoslat[^53]
+## Jogorvoslat[^55]
 
-[^53]: A 17/A. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 428. § (15) bekezdése iktatta be.
+[^55]: A 17/A. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 428. § (15) bekezdése iktatta be.

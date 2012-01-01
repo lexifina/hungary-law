@@ -2,7 +2,7 @@
 
 ## I. Általános követelmények
 
-## I.1[^57] A hitelesítő szakértőnek energetikai vagy analitikai, vagy az érintett létesítmény által végzett tevékenységhez kapcsolódó ipari eljárástechnológiai vagy légiközlekedési területen szaktudással kell rendelkeznie. A megfelelő szaktudást a II.1.1, II.1.2, II.1.3 vagy II.1.4 pont szerinti szakirányú felsőfokú végzettség egyikével és a III.1 pont szerinti kapcsolódó szakmai gyakorlat meglétével kell igazolni.
+## I.1[^59] A hitelesítő szakértőnek energetikai vagy analitikai, vagy az érintett létesítmény által végzett tevékenységhez kapcsolódó ipari eljárástechnológiai vagy légiközlekedési területen szaktudással kell rendelkeznie. A megfelelő szaktudást a II.1.1, II.1.2, II.1.3 vagy II.1.4 pont szerinti szakirányú felsőfokú végzettség egyikével és a III.1 pont szerinti kapcsolódó szakmai gyakorlat meglétével kell igazolni.
 
 ## I.2 A vezető hitelesítő szakértőnek az I.1 pontban megjelölteken túl minőségbiztosítási vagy kockázatkezelési vagy audit szaktudással is kell rendelkeznie. A szaktudást a II.2.1, II.2.2, illetve a II.2.3 pont szerinti szakirányú felsőfokú végzettség egyikével vagy a III.2 pont szerinti szakmai gyakorlat meglétével kell igazolni.
 
@@ -54,7 +54,7 @@
 
 ## be) ásványanyag-ipar: kohómérnök.
 
-## II.1.4[^58] Légiközlekedési területen
+## II.1.4[^60] Légiközlekedési területen
 
 ## a) közlekedésmérnök, légiközlekedési szakirány;
 
@@ -92,15 +92,15 @@
 
 ## III. Szakmai gyakorlat
 
-## III.1[^59] A 7. § (1) bekezdés b) pont szerinti megfelelő szakmai gyakorlatnak minősül a II.1.1, II.1.2 és II.1.3 pont szerinti iparági technológiai szakterületen vagy légiközlekedési szakterületen eltöltött, legalább ötéves szakmai gyakorlat, továbbá az ezen szakterületekkel kapcsolatos legalább ötéves tudományos és oktatói tevékenység.
+## III.1[^61] A 7. § (1) bekezdés b) pont szerinti megfelelő szakmai gyakorlatnak minősül a II.1.1, II.1.2 és II.1.3 pont szerinti iparági technológiai szakterületen vagy légiközlekedési szakterületen eltöltött, legalább ötéves szakmai gyakorlat, továbbá az ezen szakterületekkel kapcsolatos legalább ötéves tudományos és oktatói tevékenység.
 
 ## III.2 A vezető hitelesítő igazolhatja az I.2 pont szerinti szaktudását minőségbiztosítási, kockázatkezelési vagy audit szakterületen eltöltött, legalább ötéves szakmai gyakorlattal is.
 
 ## III.3 Amennyiben az egyéni hitelesítő csak a II.2.3 pont szerinti szakirányú felsőfokú végzettséggel rendelkezik, megfelelő szakmai gyakorlatnak minősül az audit szakterületen eltöltött legalább ötéves szakmai gyakorlat is.
 
-2. számú melléklet a 183/2005. (IX. 13.) Korm. rendelethez[^60]
+2. számú melléklet a 183/2005. (IX. 13.) Korm. rendelethez[^62]
 
-[^57]: Az 1. számú melléklet I.1 pontja a 18/2011. (II. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^58]: Az 1. számú melléklet II.1.4 pontját a 18/2011. (II. 28.) Korm. rendelet 19. §-a iktatta be.
-[^59]: Az 1. számú melléklet III.1 pontja a 18/2011. (II. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^60]: A 2. számú mellékletet a 18/2011. (II. 28.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.
+[^59]: Az 1. számú melléklet I.1 pontja a 18/2011. (II. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^60]: Az 1. számú melléklet II.1.4 pontját a 18/2011. (II. 28.) Korm. rendelet 19. §-a iktatta be.
+[^61]: Az 1. számú melléklet III.1 pontja a 18/2011. (II. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^62]: A 2. számú mellékletet a 18/2011. (II. 28.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.
