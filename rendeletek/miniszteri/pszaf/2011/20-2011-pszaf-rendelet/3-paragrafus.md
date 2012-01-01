@@ -1,0 +1,1 @@
+## 2. § Felügyeleti jelentés: a Felügyelet Elektronikus Rendszere hitelesített Adatok fogadásához (a továbbiakban: ERA) rendszerén, illetve a Felügyelet Kihelyezett Adatküldő Program (a továbbiakban: KAP) rendszerén keresztül letölthető, a formaszabályokat is tartalmazó adatszolgáltatási táblák együttese.
