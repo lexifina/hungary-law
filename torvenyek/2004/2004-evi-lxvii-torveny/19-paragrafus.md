@@ -24,4 +24,4 @@ h) a létesítmények üzembe helyezése.
 
 (3) A minősítés előtt kiadott jogerős és végrehajtható építési engedélyek a minősítés hatálybalépésével hatályukat vesztik, amennyiben a jogszerűen szerzett jogával az engedélyes nem élt (nem kezdte meg az építést).
 
-(4) Az e törvényben meghatározott létesítmények esetében az államháztartásról szóló 1992. évi XXXVIII. törvény 22. §-ának második és harmadik mondatában foglaltakat – figyelemmel a 3. §-ban foglaltakra – nem kell alkalmazni.
+(4)
