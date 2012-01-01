@@ -18,10 +18,14 @@ bc) Szigorúan titkos – Top secret.
 
 (2) Az Europollal folytatott információcserében küldött minősített adat adathordozóján
 
-a) Europol 3 szint alkalmazandó olyan információ esetében, amelynek illetéktelen körbe kerülése különösen súlyosan sértené a Magyar Köztársaság, az Europol, illetőleg egy vagy több tagállam alapvető érdekeit,
+a)[^8] Europol 3 szint alkalmazandó olyan információ esetében, amelynek illetéktelen körbe kerülése különösen súlyosan sértené Magyarország, az Europol, illetőleg egy vagy több tagállam alapvető érdekeit,
 
-b) Europol 2 szint alkalmazandó olyan információ esetében, amelynek illetéktelen körbe kerülése nagyon súlyosan sértené a Magyar Köztársaság, az Europol, illetőleg egy vagy több tagállam alapvető érdekeit,
+b)[^9] Europol 2 szint alkalmazandó olyan információ esetében, amelynek illetéktelen körbe kerülése nagyon súlyosan sértené Magyarország, az Europol, illetőleg egy vagy több tagállam alapvető érdekeit,
 
-c) Europol 1 szint alkalmazandó olyan információ esetében, amelynek illetéktelen körbe kerülése súlyosan sértené a Magyar Köztársaság, az Europol, illetőleg egy vagy több tagállam alapvető érdekeit.
+c)[^10] Europol 1 szint alkalmazandó olyan információ esetében, amelynek illetéktelen körbe kerülése súlyosan sértené Magyarország, az Europol, illetőleg egy vagy több tagállam alapvető érdekeit.
 
 (3) Az egyes Europol minősítési szintekhez kapcsolódóan a minősítésnek megfelelő magyar biztonsági intézkedéseket kell alkalmazni.
+
+[^8]: A 21. § (2) bekezdés a) pontja a 68/2011. (XII. 30.) BM rendelet 19. § a) pontja szerint módosított szöveg.
+[^9]: A 21. § (2) bekezdés b) pontja a 68/2011. (XII. 30.) BM rendelet 19. § a) pontja szerint módosított szöveg.
+[^10]: A 21. § (2) bekezdés c) pontja a 68/2011. (XII. 30.) BM rendelet 19. § a) pontja szerint módosított szöveg.

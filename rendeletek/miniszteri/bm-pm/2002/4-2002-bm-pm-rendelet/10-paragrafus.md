@@ -1,6 +1,6 @@
-## 9. § A NEBEK vezetője gondoskodik a más államnak a Magyar Köztársaságba küldött összekötőjét az Europol Megállapodás alapján megillető jogok gyakorlásának biztosításáról és azok védelméről.
+## 9. §[^2] A NEBEK vezetője gondoskodik a más államnak Magyarországra küldött összekötőjét az Europol Megállapodás alapján megillető jogok gyakorlásának biztosításáról és azok védelméről.
 
-10. § (1)[^2] A NEBEK feladatainak ellátásában az ORFK – meghatározott nemzetközi kötelezettségvállalás kizárólagos teljesítésére kijelölt – szervei, továbbá a Határőrség, a Vám- és Pénzügyőrség bűnüldöző szervei vesznek részt a belső összekötők útján.
+10. § (1)[^3] A NEBEK feladatainak ellátásában az ORFK – meghatározott nemzetközi kötelezettségvállalás kizárólagos teljesítésére kijelölt – szervei, továbbá a Határőrség, a Vám- és Pénzügyőrség bűnüldöző szervei vesznek részt a belső összekötők útján.
 
 (2) Az (1) bekezdésben meghatározott szervek belső összekötőiket felhatalmazzák arra, hogy küldő szervük tekintetében közvetlenül, illetőleg annak főügyeletén keresztül a megkeresés végrehajtására irányuló ellenőrzést, információgyűjtést vagy intézkedést kezdeményezzenek.
 
@@ -12,4 +12,5 @@ b) a belső összekötő jogosult arra, hogy az általa képviselt bűnüldöző
 
 (4) Az a bűnüldöző szerv, amelynek nincs belső összekötője, a NEBEK vezetőjének közvetlen megkeresésére teljesíti a (3) bekezdésben meghatározottakat.
 
-[^2]: A 10. § (1) bekezdése a 4/2003. (I. 30.) BM–PM együttes rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 9. § a 68/2011. (XII. 30.) BM rendelet 19. § c) pontja szerint módosított szöveg.
+[^3]: A 10. § (1) bekezdése a 4/2003. (I. 30.) BM–PM együttes rendelet 1. §-a szerint módosított szöveg.
