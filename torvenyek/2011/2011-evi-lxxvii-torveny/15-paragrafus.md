@@ -2,6 +2,4 @@
 
 (2) A világ kulturális és természeti örökségének védelméről szóló, az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete Általános Konferenciájának ülésszakán Párizsban, 1972. november 16-án elfogadott egyezmény kihirdetéséről szóló 1985. évi 21. törvényerejű rendelet 3. §-ában az „az agrárpolitikáért felelős miniszterrel és a természetvédelemért felelős miniszterrel” szövegrész helyébe az „az agrárpolitikáért felelős miniszterrel, az építésügyért felelős miniszterrel, a természetvédelemért felelős miniszterrel a területrendezésért felelős miniszterrel, valamint a településfejlesztésért és településrendezésért felelős miniszterrel” szövegrész lép.
 
-(3) A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 12. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Ha a megkeresett szerv nem rendelkezik a kért környezeti információval, az információ megismerésére vonatkozó igényt köteles a környezeti információval rendelkező szervnek megküldeni, és erről az igénylőt értesíteni vagy tájékoztatni, hogy a kért információt mely környezeti információval rendelkező szervtől igényelheti. A környezeti információ megismerésére vonatkozó igény elutasítása esetén az elutasítás tartalmazza annak indokait, valamint tájékoztatást arról, hogy a megtagadással szemben az igénylő mely szervhez fordulhat.”
+(3)

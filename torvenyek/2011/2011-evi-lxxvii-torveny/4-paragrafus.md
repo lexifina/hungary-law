@@ -22,4 +22,4 @@ i) ellátja a világörökséggel kapcsolatos, az Egyezményből eredő nemzetk�
 
 j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles körben történő megismertetését, bemutatását, valamint fejlesztését elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról, valamint
 
-k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során az alapszabályuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó társadalmi szervezetekkel való együttműködésről.
+k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről.

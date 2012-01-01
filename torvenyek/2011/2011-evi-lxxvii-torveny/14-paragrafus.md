@@ -10,12 +10,12 @@ c) a világörökségi kezelési terv készítését, annak tartalmi elemeire vo
 
 d) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
 
-e) a világörökségi terület világörökségi kezelési tervét; valamint
+e)
 
-f) a világörökségi várományos terület világörökségi kezelési tervét.
+f)
 
 (2) Felhatalmazást kap a kultúráért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
 
 a) a világörökségi gondnokság kiválasztásának részletes szabályait, a világörökségi gondnokság feladatait és működését; valamint
 
-b) a Világörökségi Várományos Helyszínek Jegyzékét.
+b)
