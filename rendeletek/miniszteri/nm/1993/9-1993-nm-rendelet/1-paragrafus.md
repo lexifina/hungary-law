@@ -74,7 +74,7 @@ f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 
 (17)[^23]
 
-(18)[^24] Az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) a külön jelzéssel ellátott HBCs-ékhez tartozó ellátások indikációjának érvényesítésére szakmai bizottságot hozhat létre, amelybe az illetékes szakmai kollégiumot és az Országos Szakfelügyeletet tagok delegálására kérheti fel. A bizottság feladata az ellenőrzés szakmai, módszertani előiratainak elkészítése. A bizottságot az OEP működteti.
+(18)[^24] Az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) a külön jelzéssel ellátott HBCs-ékhez tartozó ellátások indikációjának érvényesítésére szakmai bizottságot hozhat létre, amelybe az egészségügyi szakmai kollégium illetékes tagozatát és a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet a szakterület tekintetében illetékes szakfelügyelők delegálására kérheti fel. A bizottság feladata az ellenőrzés szakmai, módszertani előiratainak elkészítése. A bizottságot az OEP működteti.
 
 (19)[^25] Az (1) bekezdés szerint kerül finanszírozásra az Országos Gyógyszerészeti Intézet által a külön jogszabályban foglalt eljárásrend szerint engedélyezett – az egészségügyi miniszter által tájékoztatóban közzétett, a homogén betegségcsoportok 5.0 verzióhoz kapcsolódó Besorolási Kézikönyv besoroló táblájában szereplő protokollokban foglalt, továbbá a Besorolási Kézikönyv Függelékében kihirdetett, nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban foglalt – indikáción túli gyógyszeres kezelés.
 
@@ -110,7 +110,7 @@ c) kórházi ellátás kiegészítő HBCs-jeként, a kórházi ellátás időtar
 [^21]: Az 1. § új (15) bekezdését a 13/2000. (V. 12.) EüM rendelet 1.§-ának (4) bekezdése iktatta be.
 [^22]: Az 1. § eredeti (15) bekezdés számozását a 13/2000. (V. 12.) EüM rendelet 1. §-ának (4) bekezdése (16) bekezdésre változtatta. A 7/2001. (III. 2.) EüM rendelet 4. §-a (3) bekezdésének a) pontja módosította.
 [^23]: Az 1. § (17) bekezdését a 7/2001. (III. 2.) EüM rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 29/2009. (VIII. 14.) EüM rendelet 3. § (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^24]: Az 1. § (18) bekezdését a 26/2006. (VI. 26.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege az 55/2008. (XII. 31.) EüM rendelet 15. §-a, a 29/2010. (XII. 30.) NEFMI rendelet 7. §-a szerint módosított szöveg.
+[^24]: Az 1. § (18) bekezdését a 26/2006. (VI. 26.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege az 55/2008. (XII. 31.) EüM rendelet 15. §-a, a 29/2010. (XII. 30.) NEFMI rendelet 7. §-a, a 70/2011. (XII. 23.) NEFMI rendelet 1. § a) pontja szerint módosított szöveg.
 [^25]: Az 1. § (19) bekezdését a 28/2009. (VIII. 7.) EüM rendelet 2. §-a iktatta be, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
 [^26]: Az 1. § (20) bekezdését a 35/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
 [^27]: Az 1. § (21) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be.
