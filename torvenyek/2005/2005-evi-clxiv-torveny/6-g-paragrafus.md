@@ -6,7 +6,7 @@ a) a kereskedőkről,
 
 b) a működési engedéllyel rendelkező és a bejelentett üzletekről, az üzletek nyitva tartásáról,
 
-c) a bejelentett bevásárlóközpontokról, valamint az engedélyezett vásárokról és piacokról,
+c) a bejelentett bevásárlóközpontokról és helyi termelői piacokról, valamint az engedélyezett vásárokról és piacokról,
 
 d) az idegenvezetői tevékenységet folytatókról,
 

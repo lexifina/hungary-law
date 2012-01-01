@@ -1,6 +1,6 @@
 ## A kereskedelmi tevékenységek folytatásának általános feltételei
 
-3. § (1) A (3) bekezdés szerint vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa alapján engedélyköteles kereskedelmi tevékenység kivételével az, aki a Magyar Köztársaság területén kereskedelmi tevékenységet kíván folytatni, köteles az erre irányuló szándékát a kereskedelmi hatóságnak bejelenteni.
+3. § (1) A (3) bekezdés szerint vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa alapján engedélyköteles kereskedelmi tevékenység kivételével az, aki Magyarország területén kereskedelmi tevékenységet kíván folytatni, köteles az erre irányuló szándékát a kereskedelmi hatóságnak bejelenteni.
 
 (2) A kereskedelmi tevékenység formáját (a továbbiakban: kereskedési forma) a kereskedő az e törvényben meghatározott, valamint a (4) bekezdés szerinti szabályok szerint maga választhatja meg.
 

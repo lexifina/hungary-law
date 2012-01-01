@@ -6,7 +6,7 @@ b) az üzletek bejelentésének, valamint működési engedélye kiadásának re
 
 c) a vásárlók könyve hitelesítésének rendjét,
 
-d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a vásár és a piac üzemeltetésének részletes feltételeit, valamint a bevásárlóközpont bejelentésének, illetve a vásár- és a piacüzemeltetési engedély kiadásának részletes szabályait, valamint a kereskedelemsegítő szolgáltatást nyújtók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a vásár és a piac üzemeltetésének részletes feltételeit, valamint a bevásárlóközpont és a helyi termelői piac bejelentésének, illetve a vásár- és a piacüzemeltetési engedély kiadásának részletes szabályait, valamint a kereskedelmet kiszolgáló szolgáltató tevékenységet végzők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
 e) a tartós szálláshasználati szolgáltatási tevékenység folytatásának részletes feltételeit, a tartós szálláshasználati szolgáltatási tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban, illetve hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
@@ -16,7 +16,7 @@ g) az utazásszervezői és utazásközvetítői tevékenységre jogosító enge
 
 h) a kereskedelmi hatóság vagy hatóságok kijelölését,
 
-i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének és felhasználásának részletes szabályait
+i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait
 
 rendeletben állapítsa meg.
 

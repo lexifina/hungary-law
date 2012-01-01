@@ -10,6 +10,8 @@
 
 5. forgalmazás: kereskedelmi tevékenység keretében valamely termék értékesítése, fogyasztás vagy használat, illetve igénybevétel céljára ellenérték fejében történő rendelkezésre bocsátása;
 
+5a. helyi termelői piac: olyan piac, ahol a kistermelő a piac fekvése szerinti megyében, vagy a piac 40 km-es körzetében, vagy Budapesten fekvő piac esetében az ország területén bárhol működő gazdaságából származó mezőgazdasági-, illetve élelmiszeripari termékét értékesíti.
+
 6. idegenvezetői tevékenység: üzletszerű gazdasági tevékenység keretében a turisztikai szempontból jelentős értékeknek és egyéb látnivalóknak az azokat látogató személyek számára a helyszínen való részletes ismertetése és ehhez kapcsolódóan a látogatók számára nem ismert helyen való eligazodás érdekében általános tájékoztatás, illetve adott esetben segítség nyújtása;
 
 7. jelentős piaci erő: olyan piaci helyzet, amelynek következtében a kereskedő a beszállító számára termékeinek, illetve szolgáltatásainak a vásárlókhoz való eljuttatása során ésszerűen megkerülhetetlen szerződéses partnerré válik, illetve vált, és forgalmi részesedésének mértéke miatt képes egy termék, termékcsoport piacra jutását regionálisan vagy országosan befolyásolni;
