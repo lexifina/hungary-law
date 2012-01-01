@@ -1,4 +1,4 @@
-5. § (1) Támogatás nyújtása esetén az állami foglalkoztatási szerv a kérelem átvételétől számított 15 napon belül intézkedik annak a Munkaerőpiaci Alap bérgarancia alaprészéből történő átutalásáról.
+5. § (1) Támogatás nyújtása esetén az állami foglalkoztatási szerv a kérelem átvételétől számított 15 napon belül intézkedik annak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből történő átutalásáról.
 
 (2) A támogatás kamatmentes.
 

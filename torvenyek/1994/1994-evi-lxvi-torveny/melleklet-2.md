@@ -4,7 +4,7 @@ ADATLAP
 
 a Bérgarancia Alapból igényelhető támogatás számításához
 
-(A ........... év ........................ hó .........-i bérfizetési napon – a gazdálkodó szervezetnél – fennálló adatok alapján)
+(A ........... év ........................ hó .........-i bérfizetési napon – a gazdálkodó szervezetnél – fennálló adatok alapján)
 
 |
 
@@ -50,7 +50,7 @@ tartozás együttes összege
 
 6.
 
-A tartozás Munkaerőpiaci Alap bérgarancia alaprészéből igényelhető összege
+A tartozás Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összege
 
 |
 
@@ -204,9 +204,9 @@ Megjegyzés:
 
 – a 6. oszlop „Összesen” sorának adata szerepelhet az 1. számú melléklet 9. sorában.
 
-Oldalszám összesen: ......................
+Oldalszám összesen: ......................
 
-Kelt: ............................................. hely, ........ év ........................ hó ..... nap
+Kelt: ............................................. hely, ........ év ........................ hó ..... nap
 
 ................................................................
 

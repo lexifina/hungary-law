@@ -14,4 +14,4 @@ c) bértartozás: a felszámolás alatt álló gazdálkodó szervezetet – mint
 
 (3) A pénzügyi támogatás (a továbbiakban: támogatás) a felszámolás kezdő időpontja előtt megszűnt munkaviszonyból származó bértartozások fedezetéül is szolgál.
 
-(4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a Munkaerőpiaci Alap bérgarancia alaprésze szolgál.
+(4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a Nemzeti Foglalkoztatási Alap bérgarancia alaprésze szolgál.
