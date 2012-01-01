@@ -1,8 +1,8 @@
 10. § (1) A kibocsátási jogosultságok a következő módokon használhatók fel a Jegyzőkönyvvel és az azt követő döntésekkel összhangban:
 
-a) a Magyar Köztársaságnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési céljaival összhangban a Magyar Köztársaság területén történt üvegházhatású gáz kibocsátások ellentételezésére, visszavonás által;
+a) Magyarországnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési céljaival összhangban Magyarország területén történt üvegházhatású gáz kibocsátások ellentételezésére, visszavonás által;
 
-b) a Magyar Köztársaság mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
+b) Magyarország mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
 
 (2) A nemzetközi és európai kibocsátás-kereskedelem keretében a miniszter a Magyar Állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 

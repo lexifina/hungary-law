@@ -8,7 +8,7 @@
 
 (4) Az Éghajlatváltozási Program különösen az alábbiakat tartalmazza:
 
-a) a Keretegyezményben, illetve a Jegyzőkönyvben az emberi eredetű üvegházhatású gázkibocsátás csökkentésére, illetve korlátozására, e gázok nyelőinek erősítésére irányuló, a Magyar Köztársaság által vállalt kötelezettségek teljesítésének fő intézkedéseit, ezek menetrendjét és fő finanszírozási forrásait;
+a) a Keretegyezményben, illetve a Jegyzőkönyvben az emberi eredetű üvegházhatású gázkibocsátás csökkentésére, illetve korlátozására, e gázok nyelőinek erősítésére irányuló, Magyarország által vállalt kötelezettségek teljesítésének fő intézkedéseit, ezek menetrendjét és fő finanszírozási forrásait;
 
 b) az éghajlatváltozás hazai hatásaihoz való alkalmazkodás szükséges lépéseit, az ahhoz szükséges főbb intézkedéseket és azok finanszírozási forrásait;
 
