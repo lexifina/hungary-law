@@ -1,1 +1,0 @@
-40. § Az OIT személyes meghallgatás alapján előzetes véleményt nyilvánít a Legfelsőbb Bíróság elnökének tisztségére jelölt személyéről. A meghallgatásról készült jegyzőkönyvet a bíróságok központi internetes honlapján közzé kell tenni.
