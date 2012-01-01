@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-68-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2003-10-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 2003-68-00-00.1 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2003-68-00-00.2 |
