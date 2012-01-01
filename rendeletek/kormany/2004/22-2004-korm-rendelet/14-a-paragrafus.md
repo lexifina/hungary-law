@@ -1,6 +1,6 @@
-## Az egyszerűsített intézményakkreditációs eljárás[^33]
+## Az egyszerűsített intézményakkreditációs eljárás[^36]
 
-14/A. §[^34] (1) A közoktatási feladatot ellátó – a közoktatásról szóló törvényben meghatározott – közoktatási intézmény intézmény-akkreditációs kérelme esetén a FAT az intézmény felnőttképzésre vonatkozó dokumentumait helyszíni szemle tartása nélkül egy szakértő bevonásával vizsgálja. Az eljárás a közoktatási intézmény tárgyi feltételeinek vizsgálatára nem terjed ki.
+14/A. §[^37] (1) A közoktatási feladatot ellátó – a közoktatásról szóló törvényben meghatározott – közoktatási intézmény intézmény-akkreditációs kérelme esetén a FAT az intézmény felnőttképzésre vonatkozó dokumentumait helyszíni szemle tartása nélkül egy szakértő bevonásával vizsgálja. Az eljárás a közoktatási intézmény tárgyi feltételeinek vizsgálatára nem terjed ki.
 
 (2) Az egyszerűsített intézmény-akkreditációs eljárás lefolytatása iránti kérelem tartalmazza:
 
@@ -86,5 +86,5 @@ nc) ügyfélszolgálat címe, telefonszáma, egyéb elérhetősége, nyitva tart
 
 (4) A FAT a kérelemnek helyt adó határozat meghozatalával egyidejűleg intézmény-akkreditációs tanúsítványt állít ki.
 
-[^33]: A 14/A. §-t megelőző alcím a 189/2009. (IX. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^34]: A 14/A. §-t a 294/2006. (XII. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 100/2010. (IV. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^36]: A 14/A. §-t megelőző alcím a 189/2009. (IX. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^37]: A 14/A. §-t a 294/2006. (XII. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 100/2010. (IV. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
