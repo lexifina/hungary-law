@@ -6,7 +6,7 @@
 
 (2)[^47] Az (1) bekezdésben meghatározott hatáskörben a felügyelőség:
 
-a)[^48] távlati ivóvízellátásra kijelölt vízbázis esetén a kijelöléssel összefüggésben az illetékes környezetvédelmi és vízügyi igazgatóság, elvi vízjogi engedély esetén az engedélyes kérelmére a vízjogi létesítési engedélyezési eljárás során a kérelemben, illetve az engedélyben meghatározott vízilétesítmény megvalósításával, a vízjogi üzemeltetési engedélyben pedig az engedélyezett vízhasználat gyakorlásával összefüggésben határoz;
+a)[^48] távlati ivóvízellátásra kijelölt vízbázis esetén a kijelöléssel összefüggésben az illetékes Nemzeti Környezetügyi Intézet területi kirendeltsége, elvi vízjogi engedély esetén az engedélyes kérelmére a vízjogi létesítési engedélyezési eljárás során a kérelemben, illetve az engedélyben meghatározott vízilétesítmény megvalósításával, a vízjogi üzemeltetési engedélyben pedig az engedélyezett vízhasználat gyakorlásával összefüggésben határoz;
 
 b) megfelelő védelem és biztonság nélkül üzemeltetett vízilétesítmény és gyakorolt vízhasználat esetén az engedélyes kérelmére, vagy ennek hiányában hivatalból indított eljárás keretében határoz a védőidom, védőterület kijelöléséről.
 
@@ -25,7 +25,7 @@ b) a kijelölt védőterület fenntartásával járó feladatokról, ideértve a
 (7)[^51] A védőidomot, a védőterületen belül – külön jogszabály szerint meghatározott – belső és külső védőövezetet, valamint a védősávot érintő tulajdoni, illetve használati korlátozásokat, ideértve a telekalakítási és építési tilalmat, valamint a vízmű üzemeltetőjét megillető használati, szolgalmi jogot a kijelölésről és a fenntartásról rendelkező határozat alapján az ingatlan-nyilvántartásba be kell jegyezni.
 
 [^47]: A 9. § (2) bekezdésének bevezető mondata a 340/2004. (XII. 22.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^48]: A 9. § (2) bekezdésének a) pontja a 340/2004. (XII. 22.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^48]: A 9. § (2) bekezdésének a) pontja a 340/2004. (XII. 22.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 26. §-a szerint módosított szöveg.
 [^49]: A 9. § új (4) bekezdését a 123/1997. (VII. 18.) Korm. rendelet 22. §-a (3) bekezdésének b) pontja iktatta a szövegbe, s egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre módosította. Az eredeti (5) bekezdést hatályon kívül helyezte a 22. § (2) bekezdése. Hatályos 1997. szeptember 1. napjától.
 [^50]: A 9. § eredeti (4) bekezdésének számozását a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének b) pontja (5) bekezdésre változtatta, a 22. § (2) bekezdése az eredeti (5) bekezdést hatályon kívül helyezte.
 [^51]: A 9. § (7) bekezdése a 123/1997. (VII. 18.) Korm. rendelet 22. §-a (3) bekezdésének c) pontjával megállapított szöveg. Hatályos 1997. szeptember 1. napjától.
