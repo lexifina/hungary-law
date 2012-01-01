@@ -1,10 +1,4 @@
-9. § (1) Az állam a kizárólagos tulajdonában, valamint az önkormányzat (önkormányzati társulás) a törzsvagyonában lévő víziközmű létesítmények létesítéséről, fenntartásáról, üzemeltetéséről (a továbbiakban együttesen: működtetés) a következő módokon gondoskodhat:
-
-a) olyan gazdálkodó szervezetet hoz létre, amelyben kizárólagos részesedéssel rendelkezik – ide nem értve a munkavállalói résztulajdont,
-
-b) az állam és az önkormányzat együttesen olyan gazdálkodó szervezetet hoz létre, amelyben kizárólagos közös részesedéssel rendelkezik – ide nem értve a munkavállalói résztulajdont,
-
-c) a működtetés gyakorlásának időleges jogát koncessziós szerződésben átengedi.
+9. § (1)
 
 (2) Nem minősül koncesszióköteles tevékenységnek:
 

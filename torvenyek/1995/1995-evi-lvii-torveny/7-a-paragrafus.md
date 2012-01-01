@@ -28,4 +28,4 @@ adottságok.
 
 (5) A kijelölt szennyvízelvezetési agglomerációk szükség szerinti módosítását a Kormány kétévente a (2) bekezdésben említett program felülvizsgálata keretén belül végzi el.
 
-(6) Az Európai Közösségek Tanácsa 91/271/EGK számú, a települési szennyvíz tisztításáról szóló Irányelve 15. cikkében előírt információszolgáltatási (jelentéstételi) tagállami kötelezettség teljesítéséhez a víziközmű-szolgáltatók kötelesek szolgáltatni a vízügyi igazgatási és hatósági feladatokat ellátó szervek által kért adatokat és információkat , illetve a helyszínen biztosítani ezek megbízhatóságának vízügyi hatósági ellenőrzését.
+(6) Az Európai Közösségek Tanácsa 91/271/EGK számú, a települési szennyvíz tisztításáról szóló Irányelve 15. cikkében előírt információszolgáltatási (jelentéstételi) tagállami kötelezettség teljesítéséhez a víziközmű-szolgáltatók kötelesek szolgáltatni a vízgazdálkodásért felelős miniszter által kért adatokat és információkat , illetve a helyszínen biztosítani ezek megbízhatóságának vízügyi hatósági ellenőrzését.

@@ -1,4 +1,4 @@
-39. § (1) A víziközmű társulat törvényességi felügyeletét – ideértve a közfeladatok ellátásával kapcsolatos, a szakmai követelményeknek megfelelő törvényes megalakulás és működés ellenőrzését is – a társulat székhelye szerint illetékes környezetvédelmi és vízügyi igazgatóság gyakorolja.
+39. § (1) A víziközmű társulat törvényességi felügyeletét – ideértve a közfeladatok ellátásával kapcsolatos, a szakmai követelményeknek megfelelő törvényes megalakulás és működés ellenőrzését is – a társulat székhelye szerint illetékes vízügyi igazgatási szerv gyakorolja.
 
 (2) A törvényességi felügyelet kiterjed a társulat megalakulásának, működésének, ellenőrzésére, továbbá annak vizsgálatára, hogy
 

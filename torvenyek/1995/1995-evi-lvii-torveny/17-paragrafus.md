@@ -1,10 +1,10 @@
 17. § (1) Az árvíz- és belvízvédekezés országos irányítása
 
-a) a rendkívüli védekezési készültség beálltáig a miniszter;
+a) a rendkívüli védekezési készültség beálltáig a vízügyi igazgatási szervek irányításáért felelős miniszter;
 
-b) a rendkívüli védekezési készültség (veszélyhelyzet) tartama alatt a miniszter;
+b) a rendkívüli védekezési készültség tartama alatt, ha veszélyhelyzet kihirdetésére nem kerül sor, a vízügyi igazgatási szervek irányításáért felelős miniszter;
 
-c) különösen nagy veszély esetén (szükségállapot) — a külön jogszabály szerinti — kormánybizottság
+c) veszélyhelyzet kihirdetése esetén a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti kormányzati koordinációs szerv
 
 hatáskörébe tartozik.
 
@@ -12,17 +12,17 @@ hatáskörébe tartozik.
 
 (3) A saját szervezettel védekező települések által fenntartott műveken az árvíz- és belvízvédekezés műszaki feladatait a település közigazgatási határán belül — a vízügyi igazgatási szervnek szakmai irányításával — a polgármester (Budapesten a főpolgármester) a polgármesteri (főpolgármesteri) hivatal útján látja el.
 
-(4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a megyei közgyűlés elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
+(4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a megyei, fővárosi védelmi bizottság elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
 
-(5) A vizek kártételei elleni védekezés részletes feladatait, módját és a miniszter jogkörét a Kormány rendeletben állapítja meg.
+(5) A vizek kártételei elleni védekezés részletes feladatait, módját és a vízügyi igazgatási szervek irányításáért felelős miniszter jogkörét a Kormány rendeletben állapítja meg.
 
-(6) A főpolgármester, a megyei közgyűlés elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
+(6) A főpolgármester, a megyei, fővárosi védelmi bizottság elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
 
 (7) A polgármester (főpolgármester) az árvíz- és belvízvédekezéssel kapcsolatos államigazgatási feladat- és hatáskörében
 
 a) közreműködik az árvíz- és belvízvédekezési területi bizottság jogszabályban meghatározott feladatainak végrehajtásában;
 
-b) gondoskodik a közerők, továbbá a védekezéshez szükséges anyagok, eszközök és felszerelések összeírásáról, nyilvántartásáról, szükség szerinti mozgósításáról, továbbá a közerők általános ellátásáról;
+b) gondoskodik a közerők – ezen belül a polgári védelmi szervezetbe beosztottak és a közfoglalkoztatottak –, továbbá a védekezéshez szükséges anyagok, eszközök és felszerelések összeírásáról, nyilvántartásáról, szükség szerinti mozgósításáról, továbbá a közerők – ezen belül a polgári védelmi szervezetbe beosztottak és a közfoglalkoztatottak – általános ellátásáról;
 
 c) megtervezi a kitelepítést, a kimenekítést, a mentést és a visszatelepítést, illetőleg ezek elrendelése esetén gondoskodik a végrehajtásról;
 

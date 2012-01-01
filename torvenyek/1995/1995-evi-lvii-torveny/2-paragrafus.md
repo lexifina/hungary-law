@@ -22,10 +22,30 @@ h) az állami tulajdonban lévő közcélú vízilétesítmények működtetése
 
 i) a vízgazdálkodáshoz szükséges adatgyűjtés elrendelése;
 
-j) a vízrajzi tevékenység ellátása és szabályozása, a vízkészletek mennyiségi és minőségi számbavétele;
+j) a vízrajzi tevékenység szabályozása;
 
-k) a vizek kártételei elleni védelem érdekében a vízkár-elhárítási tevékenység szabályozása, szervezése, irányítása, ellenőrzése, a helyi közfeladatokat meghaladó védekezés;
+k) a vizek kártételei elleni védelem érdekében a vízkár-elhárítási tevékenység szabályozása;
 
-l) vízgyűjtő-gazdálkodási terv készítése.
+l) a vizek kártételei elleni védelem érdekében a vízkár-elhárítási tevékenység szervezése, irányítása, ellenőrzése, a helyi közfeladatokat meghaladó védekezés;
 
-(2) Az (1) bekezdésben felsorolt feladatok közül az a), az f) és az i) pontban említetteket a Kormány; a b), a c), a d), a k) és az l) pontban említetteket a vízgazdálkodásért felelős miniszter (a továbbiakban: miniszter) és – a Kormány által meghatározott munkamegosztás szerinti rendben – az érdekelt miniszter együttesen; az e), a g), a h) és a j) pontokban említetteket a miniszter látja el.
+m) vízgyűjtő-gazdálkodási terv készítése;
+
+n) az állami tulajdonú vízi utak fenntartásának, valamint fejlesztésének felügyelete;
+
+o) a vízrajzi tevékenység ellátása;
+
+p) a vízkészletek mennyiségi és minőségi számbavétele.
+
+(2) Az (1) bekezdésben felsorolt feladatok közül
+
+a) a Kormány az a), f), i) és az m) pontban;
+
+b) a vízgazdálkodásért felelős miniszter a c), d), e), g), j) és a k) pontban;
+
+c) a vízügyi igazgatási szervek irányításáért felelős miniszter az l), n) és o) pontban;
+
+d) a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter együttesen a b), h) és p) pontban
+
+meghatározott feladatokat látja el.
+
+(3) Az (1) bekezdésben felsorolt feladatok közül a c) és a d) pontban említetteket a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás szerinti rendben az érdekelt miniszterek közreműködésével látja el.

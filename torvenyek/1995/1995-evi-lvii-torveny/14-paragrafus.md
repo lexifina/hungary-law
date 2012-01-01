@@ -32,6 +32,6 @@ kell törekedni.
 
 (5) Aki a szennyvízelvezető és -tisztító közműbe a meghatározott mértéket meghaladó károsító anyagot bocsát be, csatornabírságot köteles fizetni.
 
-(6) Az (5) bekezdésben említett károsító anyagok fajtáit, a csatornabírság kiszabásával kapcsolatos szabályokat, valamint a csatornabírság mértékét a Kormány, a bebocsátási küszöbértékeket a miniszter rendeletben állapítja meg.
+(6) Az (5) bekezdésben említett károsító anyagok fajtáit, a csatornabírság kiszabásával kapcsolatos szabályokat, valamint a csatornabírság mértékét a Kormány, a bebocsátási küszöbértékeket a vízgazdálkodásért felelős miniszter rendeletben állapítja meg.
 
 (7) Az állam kizárólagos tulajdonában lévő természetes vizek medrében található nádasok vízminőség-védelmi nádgazdálkodásáról a meder kezelője köteles gondoskodni.

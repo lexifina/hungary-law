@@ -1,4 +1,4 @@
-10. § (1) A kizárólagos állami tulajdonban, illetve önkormányzati törzsvagyonban lévő közcélú vízilétesítmények működtetését végző gazdálkodó szervezetnek a létesítmény közművagyonát az állam nevében a miniszter, az önkormányzat nevében a képviselő-testület adja szerződéssel használatba.
+10. § (1) A kizárólagos állami tulajdonban, illetve önkormányzati törzsvagyonban lévő közcélú vízilétesítmények működtetését végző gazdálkodó szervezetnek a létesítmény közművagyonát az állam nevében a vízgazdálkodásért felelős miniszter, az önkormányzat nevében a képviselő-testület adja szerződéssel használatba.
 
 (2) A szerződésnek tartalmaznia kell:
 

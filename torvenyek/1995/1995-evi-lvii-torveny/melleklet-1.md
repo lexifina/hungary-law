@@ -12,7 +12,7 @@ E törvény alkalmazásában
 
 4. elhabolás: víz (folyó, patak, csatorna, tározó, tó) hullámzó mozgásának hatására a partban keletkezett rongálódás;
 
-5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő – a miniszter által – fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés;
+5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés;
 
 6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 

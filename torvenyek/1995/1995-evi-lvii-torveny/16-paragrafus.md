@@ -6,7 +6,7 @@
 
 (2) A Kormány által rendeletben kijelölt vízügyi igazgatási szervnek a vizek többletéből eredő kockázattal érintett területekre veszély- és kockázati térképet, valamint kockázatkezelési tervet kell készítenie.
 
-(3) A vízügyi igazgatási szervezet feladata – a mezőgazdasági vízgazdálkodási célokat szolgáló vízilétesítmények kivételével – a folyók vízkárelhárítási célú szabályozása, a kettőnél több települést szolgáló vízkárelhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkárelhárítási célú tározók, belvízvédelmi főművek (a továbbiakban: védművek) – építése, ezek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása és fejlesztése, továbbá azokon a védekezés ellátása. A mezőgazdasági vízgazdálkodási célokat szolgáló vízilétesítmények esetében a feladat ellátásáról a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszter gondoskodik.
+(3) A vízügyi igazgatási szervek feladata a folyók vízkár-elhárítási célú szabályozása, a kettőnél több települést szolgáló vízkár-elhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkár-elhárítási célú tározók, belvízvédelmi főművek (a továbbiakban: védművek) – építése, ezek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása és fejlesztése, azokon a védekezés ellátása, továbbá a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatainak ellátása.
 
 (4) A vízügyi igazgatási szervnek vízkárelhárítással összefüggő feladata;
 

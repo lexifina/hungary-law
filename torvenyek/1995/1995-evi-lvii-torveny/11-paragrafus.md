@@ -1,6 +1,6 @@
 11. § (1) A koncessziós pályázatot
 
-a) az állami tulajdon működtetésére a miniszter;
+a) az állami tulajdon működtetésére a vízgazdálkodásért felelős miniszter;
 
 b) a helyi önkormányzati tulajdon működtetésére a képviselő-testület írja ki.
 

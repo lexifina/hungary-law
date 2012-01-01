@@ -18,7 +18,7 @@ a) a vízbázisok, a távlati vízbázisok, illetőleg az ivóvízellátást szo
 
 b) a vizekkel és a közcélú vízilétesítményekkel kapcsolatos fenntartási feladatokra vonatkozó szabályoknak;
 
-c) a vízgazdálkodási feladatokkal összefüggő alapadatok gyűjtésének, feldolgozásának, szolgáltatásának — a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezéseivel összhangban —;
+c) a vízgazdálkodási feladatokkal összefüggő alapadatok gyűjtésének, feldolgozásának, szolgáltatásának;
 
 d) a társulatok megalakulásával, működésével, megszűnésével, az e törvényen alapuló és a társulat belső szabályozási feladatkörébe nem utalt közcélú érdekeltségi hozzájárulással kapcsolatos szabályok;
 
@@ -52,9 +52,9 @@ r) az e törvényben, valamint a környezet védelmének általános szabályair
 
 s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, illetve folytatható tevékenységek körének, továbbá a bejelentés tartalmi elemeinek és a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályainak, valamint az alkalmazható jogkövetkezményeknek;
 
-t) a vizek kártételei elleni védekezés részletes feladatainak és módjának, valamint a rendkívüli védekezési készültség esetén eljáró miniszter jogkörének;
+t) a vizek kártételei elleni védekezés részletes feladatainak és módjának;
 
-u) a rendkívüli védekezési készültség elrendelésének;
+u)
 
 v) a vízkárelhárítási célú tározók létesítésére, az érintett ingatlanok használatára és a kártalanítási eljárásra vonatkozó szabályoknak;
 
@@ -64,7 +64,7 @@ x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendj
 
 rendeletben történő megállapítására.
 
-(8) Felhatalmazást kap a miniszter
+(8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
 
@@ -88,7 +88,7 @@ j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfig
 
 k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
 
-l) az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények jegyzékének;
+l)
 
 m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
 
@@ -98,7 +98,7 @@ o) a folyók nagyvízi medrére vonatkozó kezelési terv
 
 rendeletben történő megállapítására.
 
-(9) A vízgazdálkodással, valamint a vizek védelmével összefüggő érdekek érvényesítését a Magyar Köztársaság két- vagy többoldalú nemzetközi együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíti, különösen a szomszédos országokkal való kapcsolatában. Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok — különösen a szomszédos országok — vízgazdálkodással összefüggő érdekeire.
+(9) A vízgazdálkodással, valamint a vizek védelmével összefüggő érdekek érvényesítését a Magyarország két- vagy többoldalú nemzetközi együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíti, különösen a szomszédos országokkal való kapcsolatában. Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok — különösen a szomszédos országok — vízgazdálkodással összefüggő érdekeire.
 
 (10) A 15. § (7) bekezdése szerinti rendelkezést legkésőbb 2010. december 22-ig kell végrehajtani.
 
