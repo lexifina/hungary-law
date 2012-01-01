@@ -24,7 +24,7 @@ kell feltüntetni.
 
 (9) Amennyiben a vállalkozó e törvény vagy más jogszabály, illetve saját döntés alapján az internetes honlapján vagy egyéb más módon is közzéteszi a beszámolót és a kapcsolódó üzleti jelentést, a könyvvizsgálatra való hivatkozás tekintetében a (3) bekezdés szerint köteles eljárni.
 
-(10) A cégjegyzékbe be nem jegyzett vállalkozó – ha jogszabály a közzétételről, annak módjáról külön rendelkezik – a közzétételről az adott üzleti év mérlegfordulónapját követő 150 napon belül, az ismételt közzétételről az ellenőrzés befejezését követő három hónapon belül köteles gondoskodni.
+(10) A cégjegyzékbe be nem jegyzett vállalkozó – ha jogszabály a közzétételről, annak módjáról külön rendelkezik – a közzétételről az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig, az ismételt közzétételről az ellenőrzés befejezését követő harmadik hónap utolsó napjáig köteles gondoskodni.
 
 (11) Ha a vállalkozó nem tett eleget letétbe helyezési, valamint közzétételi kötelezettségének és a letétbe helyezés, a közzététel elmaradása harmadik fél jogos érdekeit érinti, a harmadik fél kezdeményezheti a cégbíróság törvényességi felügyeleti eljárását.
 

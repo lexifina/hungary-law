@@ -3,3 +3,5 @@
 (2) Az egyéb szervezet beszámolási kötelezettségének, beszámolót alátámasztó könyvvezetési kötelezettségének sajátosságait a vonatkozó külön jogszabály és e törvény alapján kormányrendelet szabályozza.
 
 (3) A gazdálkodó, illetve a természetes személy által alapított egészségügyi, szociális és oktatási intézmény könyvvezetési, beszámoló készítési kötelezettségét – e törvény és a vonatkozó külön jogszabály rendelkezései alapulvételével – a létrehozó szervezet állapítja meg azzal, hogy a létrehozott szervezetet – jogi személyiségének megfelelően – a 3. § (1) bekezdése 2–4. pontjai szerinti szervezetek közé kell besorolnia.
+
+(4) A gazdálkodónak a könyvvezetés és a beszámolókészítés során alkalmaznia kell a külön rendelettel kihirdetett, hatályos magyar számviteli standardokat.

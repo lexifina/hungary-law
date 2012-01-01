@@ -1,6 +1,6 @@
 49. § (1) Gazdasági társaságnál alapításkor, tőkeemeléskor a jegyzett tőke fedezeteként, továbbá a jegyzési, a kibocsátási érték és a névérték különbözeteként, a jegyzett tőkén felüli tőke fedezeteként nem pénzbeli (vagyoni) hozzájárulásként átvett (kapott) eszköz létesítő okiratban, annak módosításában, illetve a közgyűlési, az alapítói, a taggyűlési határozatban meghatározott értéke bekerülési (beszerzési) értéknek minősül. Átalakulás esetén a létesítő okiratban meghatározott értéknek az átalakulással létrejövő gazdasági társaság végleges vagyonmérlegében szereplő értéket kell tekinteni.
 
-(2) Üzleti vagy cégérték bekerülési (beszerzési) értéke cégvásárlás, illetve átalakulás esetén a 3. § (5) bekezdésének 1. pontja szerint meghatározott különbözet.
+(2) Üzleti vagy cégérték bekerülési (beszerzési) értéke cégvásárlás esetén a 3. § (5) bekezdésének 1. pontja szerint meghatározott különbözet.
 
 (3) A gazdasági társaságban lévő tulajdoni részesedést jelentő befektetés bekerülési (beszerzési) értéke vásárláskor a részvényekért, üzletrészekért, vagyoni betétekért fizetett ellenérték (vételár), cégvásárláskor – üzleti vagy cégérték, illetve negatív üzleti vagy cégérték kimutatása esetén – az üzleti vagy cégértékkel csökkentett, a negatív üzleti vagy cégértékkel növelt ellenérték (vételár).
 

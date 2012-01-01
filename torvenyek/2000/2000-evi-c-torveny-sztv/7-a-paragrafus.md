@@ -1,0 +1,1 @@
+7/A. § A külföldi székhelyű vállalkozás magyarországi fióktelepe alapítására, működésére és megszűnésére – ha e törvény, illetve más jogszabály eltérően nem rendelkezik – e törvény vállalkozóra vonatkozó szabályait kell megfelelően alkalmazni.

@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2011-07-15 | 2011. évi XCVI. törvény | 2000-100-00-00.36 |
 | 2011-11-30 | 2011. évi CLVI. törvény | 2000-100-00-00.37 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2000-100-00-00.38 |
+| 2012-01-01 | 2011. évi CLVI. törvény | 2000-100-00-00.39 |

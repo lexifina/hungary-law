@@ -4,7 +4,7 @@
 
 a) az összevont (konszolidált) mérleg és az összevont (konszolidált) eredménykimutatás összeállításánál alkalmazott mérlegértékelési eljárásokat;
 
-b) a forintra, a devizára történő átszámítás során alkalmazott módszert, ha a konszolidálásba bevont vállalkozások az anyavállalattól eltérően más pénznemben készítették éves beszámolójukat, vagy ha az összevont (konszolidált) éves beszámoló olyan tételeket tartalmaz, amelyeket a konszolidálásba bevont vállalkozások éves beszámolói nem tartalmaztak, és amelyeket eredetileg más pénznemben adtak meg;
+b) a forintra, a devizára történő átszámítás során alkalmazott módszert, ha a konszolidálásba bevont vállalkozások az anyavállalattól eltérően más pénznemben készítették beszámolójukat, vagy ha az összevont (konszolidált) éves beszámoló olyan tételeket tartalmaz, amelyeket a konszolidálásba bevont vállalkozások beszámolói nem tartalmaztak, és amelyeket eredetileg más pénznemben adtak meg;
 
 c) ha az előző üzleti évhez képest megváltoztak az értékelési, a konszolidálási módszerek, ezen változások indokolását, valamint ezen változások hatását a konszolidálásba bevont vállalkozások vagyoni, pénzügyi és jövedelmi helyzetére.
 

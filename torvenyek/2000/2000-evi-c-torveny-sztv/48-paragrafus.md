@@ -10,10 +10,8 @@
 
 (6) Nem minősül importbeszerzésnek az exportértékesítéshez kapcsolódóan a magyar határállomás és a külföldi rendeltetési hely közötti útszakaszra jutó – egyébként szolgáltatásimportnak tekintendő – devizában, valutában vagy forintban számlázott, fizetett szállítási és rakodási-raktározási díj. Ha a vámjogszabályok eltérően nem rendelkeznek, nem minősül importbeszerzésnek a vámszabad és a tranzitterületen levő vállalkozótól történő közvetlen beszerzés, továbbá a vámszabad és tranzitterületen lévő vállalkozóknak az egymástól történő beszerzése sem.
 
-(7) Az importbeszerzés értéke:
+(7) Ha a beszerzés ellenértékének kiegyenlítése számla alapján devizában, valutában történik, akkor a számla szerinti – levonható általános forgalmi adót nem tartalmazó – devizaösszegnek, valutaösszegnek a beszerzéskor, a szolgáltatás igénybevételekor (teljesítésekor) érvényes, a 60. § (4)–(6) bekezdése szerinti árfolyamon átszámított forintértéke a termék, illetve a szolgáltatás értéke.
 
-a) ha az (5) bekezdés szerinti importbeszerzés ellenértékének kiegyenlítése számla alapján forintban történik, akkor a számla szerinti – levonható általános forgalmi adót nem tartalmazó – forintérték az importtermék, illetve az importszolgáltatás értéke;
+(8) Ha a beszerzés ellenértékének kiegyenlítése valutában történik, akkor – a (7) bekezdéstől eltérően – a termék, illetve a szolgáltatás értéke az ellenértékként fizetett valuta könyv szerinti árfolyamán is meghatározható.
 
-b) ha az (5) bekezdés szerinti importbeszerzés ellenértékének kiegyenlítése számla alapján devizában, valutában történik, akkor a számla szerinti – levonható általános forgalmi adót nem tartalmazó – devizának, valutának az importbeszerzéskor, az importszolgáltatás igénybevételekor (teljesítésekor) érvényes, a 60. § (4)–(6) bekezdése szerinti árfolyamon átszámított forintértéke az importtermék, illetve importszolgáltatás értéke;
-
-c) ha az (5) bekezdés szerinti importbeszerzés devizában meghatározott ellenértékének kiegyenlítése azonos devizaértékű exportáruval, exportszolgáltatással történik, az importbeszerzés forintértékét a 75. § (6) bekezdése szerint kell meghatározni.
+(9) Ha a beszerzés devizában meghatározott ellenértékének kiegyenlítése szerződés alapján azonos devizaértékű áruval, szolgáltatással történik, a beszerzés forintértékét a 75. § (6) bekezdése szerint kell meghatározni.

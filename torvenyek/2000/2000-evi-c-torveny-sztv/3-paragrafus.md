@@ -86,11 +86,11 @@ d) a tulajdonosokkal (a részvényesekkel) kötött szerződés (vagy a létesí
 
 1. közvetített szolgáltatás: a gazdálkodó által saját nevében vásárolt és a harmadik személlyel (a megrendelővel) kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített (továbbszámlázott) szolgáltatás; közvetített szolgáltatásnál a gazdálkodó vevője és nyújtója is a szolgáltatásnak, a gazdálkodó a vásárolt szolgáltatást részben vagy egészben közvetíti úgy, hogy a megrendelővel kötött szerződésből a közvetítés lehetősége, a számlából a közvetítés ténye, vagyis az, hogy a gazdálkodó nemcsak a saját, hanem az általa vásárolt szolgáltatást is értékesíti változatlan formában, de nem feltétlenül változatlan áron, egyértelműen megállapítható;
 
-2. alapkutatás: olyan kísérleti és elméleti munka, amelynek elsődleges célja új ismeretek szerzése a jelenségek alapvető lényegéről és a megfigyelhető tényekről, bármiféle konkrét alkalmazási és felhasználási célkitűzés nélkül;
+2. alapkutatás: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvényben (a továbbiakban: Innovációs tv.) meghatározott alapkutatás;
 
-3. alkalmazott kutatás: új ismeretek megszerzésére irányuló eredeti vizsgálat, amelyet elsődlegesen valamely konkrét gyakorlati cél érdekében végeznek;
+3. alkalmazott kutatás: az Innovációs tv.-ben meghatározott alkalmazott kutatás;
 
-4. kísérleti fejlesztés: olyan a kutatásból és a gyakorlati tapasztalatokból nyert, már létező tudásra támaszkodó, rendszeres munka, amelynek célja új anyagok, termékek és szerkezetek létrehozása, új eljárások, rendszerek és szolgáltatások bevezetése vagy a már létrehozottak vagy bevezetettek lényeges javítása;
+4. kísérleti fejlesztés: az Innovációs tv.-ben meghatározott kísérleti fejlesztés;
 
 5. hasznos élettartam: az az időszak, amely alatt az amortizálható eszközt a gazdálkodó időarányosan vagy teljesítményarányosan az eredmény terhére elszámolja;
 
@@ -132,7 +132,7 @@ a) cégvásárlás esetén (amikor a megvásárolt társaság, annak telephelye,
 
 b) cégvásárlás esetén (amikor az adott társaság részvényeit úgy szerzi meg a vevő, hogy ezzel a vásárlással az adott társaságban minősített többséget biztosító befolyást szerez, és az adott társaság részvényeit a tőzsdén jegyzik, illetve forgalmazzák): az adott társaság megszerzett részvényeiért fizetett ellenérték lényegesen több, mint a megvásárolt részvények piaci értéke, a kettő közötti pozitív különbözet,
 
-c) cégvásárlás esetén (amikor az adott társaság részvényeit, üzletrészeit, vagyoni betéteit a vevő úgy szerzi meg, hogy ezzel a vásárlással az adott társaságban minősített többséget biztosító befolyást szerez, és az adott társaság részvényeit, üzletrészeit, vagyoni betéteit a tőzsdén nem jegyzik, nem forgalmazzák): az adott társaság megszerzett részvényeiért, üzletrészeiért, vagyoni betéteiért fizetett ellenérték lényegesen több, mint az ezen befektetésre jutó – az adott társaság eszközei és kötelezettségei piaci értékének figyelembevételével meghatározott (számított) – saját tőke értéke, a kettő közötti pozitív különbözet;
+c) cégvásárlás esetén (amikor az adott társaság részvényeit, üzletrészeit, vagyoni betéteit a vevő úgy szerzi meg, hogy ezzel a vásárlással az adott társaságban minősített többséget biztosító befolyást szerez, és az adott társaság részvényeit, üzletrészeit, vagyoni betéteit a tőzsdén nem jegyzik, nem forgalmazzák): az adott társaság megszerzett részvényeiért, üzletrészeiért, vagyoni betéteiért fizetett ellenérték lényegesen több, mint az ezen befektetésre jutó – az adott társaság eszközei és kötelezettségei piaci értékének figyelembevételével meghatározott (számított) – saját tőke értéke, a kettő közötti pozitív különbözet, negatív számított saját tőke esetén a fizetett ellenérték;
 
 d)
 
@@ -172,7 +172,7 @@ d)
 
 2. egyéb szolgáltatás: a pénzügyi, a befektetési, a biztosítóintézeti, a hatósági igazgatási, az egyéb hatósági szolgáltatás;
 
-3. személyi jellegű egyéb kifizetések: azok a természetes személyek részére teljesített kifizetések, elszámolt összegek, amelyeket a kifizető a természetes személy részére jogszabályi előírás vagy saját elhatározása alapján teljesít, és nem tartoznak a bérköltség, illetve a vállalkozási díj fogalmába. Ilyenek különösen: a szerzői jogdíj, a lakhatási költségtérítés, a lakásépítésre nyújtott támogatás (ideértve az átvállalt kamatot és kezelési költséget is), az étkezési térítés, a munkábajárással kapcsolatos költségtérítés, a jubileumi jutalom, a dolgozó kötelezettségvállalásának térítése, a bányászati keresetkiegészítés, a tárgyjutalmak, az egyéb természetbeni munkajövedelmek, a megváltozott munkaképességű munkavállalók keresetkiegészítése, a betegszabadság díjazása, a munkáltatót terhelő táppénz, táppénz-kiegészítés, a munkavállaló részére kötött, de a munkáltató által fizetett baleset-, élet- és nyugdíjbiztosítás díja, az önkéntes pénztárba befizetett munkáltatói tagdíj-hozzájárulás, a magánnyugdíjpénztárba befizetett munkáltatói tagdíj-kiegészítés, a munkáltatót terhelő, illetve általa átvállalt személyi jövedelemadó, a jóléti és kulturális költségek, a végkielégítés, a munkáltatói hozzájárulás a korengedményes nyugdíj igénybevételéhez, továbbá az alkalmazottakat, munkavállalókat megillető kifizetések, mint a napidíj, a különélési pótlék, a jogszabály alapján fizetett költségtérítések, a sorkatonai vagy polgári szolgálat teljesítését követően fizetett személyi alapbér, a találmányi díj, a szabadalom vételára és hasznosítási díja, az újítási díj, az ezekkel kapcsolatosan fizetett közreműködői díj, valamint nem a munkaviszonnyal összefüggésben fizetett szerzői, írói és más szerzői jogvédelmet élvező munkák díjai, az azokkal kapcsolatos közreműködői díjak, a mezőgazdaságban részesmunkát végzők díjazása, a természetben adott juttatások, a reprezentáció költségei, és minden egyéb, a statisztikai előírások szerint egyéb munkajövedelemnek, szociális költségnek minősített összegek.
+3. személyi jellegű egyéb kifizetések: azok a természetes személyek részére teljesített kifizetések, elszámolt összegek, amelyeket a kifizető a természetes személy részére jogszabályi előírás vagy saját elhatározása alapján teljesít, és nem tartoznak a bérköltség, illetve a vállalkozási díj fogalmába. Ilyenek különösen: a szerzői jogdíj, a lakhatási költségtérítés, a lakásépítésre nyújtott támogatás (ideértve az átvállalt kamatot és kezelési költséget is), az étkezési térítés, a munkábajárással kapcsolatos költségtérítés, a jubileumi jutalom, a dolgozó kötelezettségvállalásának térítése, a bányászati keresetkiegészítés, a tárgyjutalmak, az egyéb természetbeni munkajövedelmek, a megváltozott munkaképességű munkavállalók keresetkiegészítése, a betegszabadság díjazása, a munkáltatót terhelő táppénz, táppénz-kiegészítés, a munkavállaló részére kötött, de a munkáltató által fizetett baleset-, élet- és nyugdíjbiztosítás díja, az önkéntes pénztárba befizetett munkáltatói tagdíj-hozzájárulás, a magánnyugdíjpénztárba befizetett munkáltatói tagdíj-kiegészítés, a munkáltatót terhelő, illetve általa átvállalt személyi jövedelemadó, a jóléti és kulturális költségek, a végkielégítés, a munkáltatói hozzájárulás a korengedményes nyugdíj, illetve a helyébe lépő korhatár előtti ellátás igénybevételéhez, továbbá az alkalmazottakat, munkavállalókat megillető kifizetések, mint a napidíj, a különélési pótlék, a jogszabály alapján fizetett költségtérítések, a sorkatonai vagy polgári szolgálat teljesítését követően fizetett személyi alapbér, a találmányi díj, a szabadalom vételára és hasznosítási díja, az újítási díj, az ezekkel kapcsolatosan fizetett közreműködői díj, valamint nem a munkaviszonnyal összefüggésben fizetett szerzői, írói és más szerzői jogvédelmet élvező munkák díjai, az azokkal kapcsolatos közreműködői díjak, a mezőgazdaságban részesmunkát végzők díjazása, a természetben adott juttatások, a reprezentáció költségei, és minden egyéb, a statisztikai előírások szerint egyéb munkajövedelemnek, szociális költségnek minősített összegek.
 
 (8) E törvény alkalmazásában
 
@@ -208,7 +208,7 @@ a) valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben leg
 
 b) nem valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben a felek megállapodásától függően, a penzió átvevője saját döntése (jogosultsága) alapján egy előre rögzített időpontban (időpontig), vagy az általa megállapított későbbi időpontban vagy egy, a későbbiekben bekövetkező feltétel beállta esetén, annak időpontjában az eladási áron, vagy a felek által meghatározott más áron visszaadja, a penzióba adó pedig visszaveszi a penzió tárgyát. Nem valódi penziós ügyletnek minősül az is, ha a penzió átvevője kötelezi magát, hogy a penzió tárgyát egy előre meghatározott vagy a penzióba adó által meghatározandó időpontban visszaadja és a penzióba adó a penzió tárgya feletti ellenőrzési jogokat szerződéses kitételekkel nem tartja fenn. A nem valódi penziós ügylet a pénzügyi eszközök adásvételére vonatkozó általános szabályok szerint kerül elszámolásra.
 
-12. elektronikus pénzeszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
+12. elektronikus pénz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
 
 13. pénzügyi lízing: olyan szerződés alapján valósul meg, amely szerződés értelmében a lízingbeadó a lízingbevevő igényei szerint beszerzett és a lízingbeadó tulajdonát képező eszközt lízingdíj ellenében, a szerződésben rögzített időtartamra a lízingbevevő használatába, birtokába adja azzal, hogy a lízingbevevőt terheli a használatból következően minden költség és kockázat, a lízingbevevő jogosult a hasznok szedésére, a szerződés időtartamának végén a lízingelt eszköz tulajdonjogát a lízingbevevő vagy az általa megjelölt megszerzi (vagy megszerezheti), a maradványérték megfizetésével vagy anélkül, illetve a lízingbevevőt elővételi jog illeti meg, a lízingbevevő azonban ezen jogairól a szerződés megszűnése előtt le is mondhat;
 
@@ -304,14 +304,24 @@ nemzetközi számviteli standardok: a Nemzetközi Számviteli Standardok Testül
 
 (11) E törvény exportra, importra vonatkozó rendelkezéseinek alkalmazásában:
 
-1. külföld: a Magyar Köztársaság államhatárán kívüli terület;
+1. külföld: Magyarország államhatárán kívüli terület;
 
 2. külföldi: az a jogi személy vagy jogi személyiség nélküli szervezet, illetve természetes személy, amelynek (akinek) székhelye, ennek hiányában állandó telephelye, illetve lakóhelye, ennek hiányában szokásos tartózkodási helye külföldön van;
 
-3. belföld: a Magyar Köztársaság területe;
+3. belföld: Magyarország területe;
 
 4. belföldi: az a jogi személy vagy jogi személyiség nélküli szervezet, illetve természetes személy, amelynek (akinek) székhelye, ennek hiányában állandó telephelye, illetve lakóhelye, ennek hiányában szokásos tartózkodási helye belföldön van.
 
 (12) E törvény alkalmazásában
 
 Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
+
+(13) E törvény alkalmazásában:
+
+1. hitelesítő záradék: a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény 4. § (5) bekezdésének b) pontja szerinti magyar nemzeti könyvvizsgálati standardok alapján kibocsátott független könyvvizsgálói jelentésben szereplő, minősítés nélküli könyvvizsgálói vélemény;
+
+2. korlátozott záradék: az 1. pont szerint kibocsátott független könyvvizsgálói jelentésben szereplő, korlátozott könyvvizsgálói vélemény;
+
+3. elutasító záradék: az 1. pont szerint kibocsátott független könyvvizsgálói jelentésben szereplő ellenvélemény;
+
+4. záradék megadásának elutasítása: az 1. pont szerint kibocsátott független könyvvizsgálói jelentésben a véleménynyilvánítás visszautasítása.

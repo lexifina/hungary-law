@@ -10,7 +10,7 @@
 
 (3) Nem kötelező a könyvvizsgálat, ha az alábbi két feltétel együttesen teljesül:
 
-a) az üzleti évet megelőző két üzleti év átlagában a vállalkozó éves (éves szintre átszámított) nettó árbevétele nem haladta meg a 100 millió forintot, és
+a) az üzleti évet megelőző két üzleti év átlagában a vállalkozó éves (éves szintre átszámított) nettó árbevétele nem haladta meg a 200 millió forintot, és
 
 b) az üzleti évet megelőző két üzleti év átlagában a vállalkozó által átlagosan foglalkoztatottak száma nem haladta meg az 50 főt.
 

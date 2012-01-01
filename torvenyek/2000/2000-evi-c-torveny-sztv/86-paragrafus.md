@@ -14,7 +14,7 @@ d) a külső tulajdonosnál (tagnál) – a gazdasági társaság beolvadása es
 
 e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság jegyzett tőkéjének leszállításakor, ha a tőkeleszállítás tőkekivonás útján valósul meg, a bevont részesedés (részvény, üzletrész, vagyoni betét) névértékének fejében átvett (járó) eszközök értékét;
 
-f) a visszavásárolt saját részvény, saját üzletrész, a visszaváltható részvény bevonása esetén, azok névértékét;
+f)
 
 g)
 
@@ -40,7 +40,7 @@ d) a tartozásátvállalás során harmadik személy által – ellentételezés
 
 a) a tulajdonosnál (a tagnál) az alapításkor, a jegyzett tőke emelésekor a gazdasági társaságba bevitt vagyontárgyak nyilvántartás szerinti értékét;
 
-b) a visszavásárolt saját részvény, saját üzletrész, a visszaváltható részvény bevonása esetén, azok visszavásárlási (nyilvántartás szerinti) értékét;
+b)
 
 c) a tulajdonosnál (a tagnál) a gazdasági társaság jogutód nélküli megszűnése esetén (a felszámolás, a végelszámolás befejezésekor) – az erről szóló határozat jogerőre emelkedésekor – a jogelőd gazdasági társaságban lévő megszűnt részesedésének (részvényeinek, üzletrészeinek, vagyoni betéteinek) nyilvántartás szerint (könyv szerinti) értékét, valamint a megszűnés miatt – a megszűnt részesedés (részvények, üzletrészek, vagyoni betétek) ellenében – kapott eszközök vagyonfelosztási javaslat szerinti értékének és az átvett kötelezettségek megállapodás szerinti értékének különbözetét, amennyiben a kapott eszközök értéke a kevesebb;
 

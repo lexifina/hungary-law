@@ -6,7 +6,7 @@
 
 135. § (1) A jogelőd nélkül alapított vállalkozó a 11. § (5) bekezdése szerinti előtársasági időszakról – a (2)–(4) bekezdésben foglaltak figyelembevételével – e törvény szerinti könyvvezetéssel alátámasztott beszámolót köteles készíteni.
 
-(2) Az (1) bekezdés szerinti beszámolási (beszámolókészítési, nyilvánosságra hozatali és közzétételi) kötelezettségnek a vállalkozó cégjegyzékbe való bejegyzésének, illetve a cégbejegyzés iránti kérelem jogerős elutasításának, vagy a cégbejegyzési eljárás megszüntetésének napját követő 90 napon belül köteles eleget tenni.
+(2) Az (1) bekezdés szerinti beszámolási (beszámolókészítési, nyilvánosságra hozatali és közzétételi) kötelezettségnek a vállalkozó cégjegyzékbe való bejegyzésének, illetve a cégbejegyzés iránti kérelem jogerős elutasításának, vagy a cégbejegyzési eljárás megszüntetésének napját követő harmadik hónap utolsó napjáig köteles eleget tenni.
 
 (3) Az (1) bekezdés szerinti időszak meghosszabbodik mindaddig, amíg a cégbejegyzési eljárás folyamatban van, ha a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerint ismételten benyújtották a cégbejegyzési kérelmet.
 

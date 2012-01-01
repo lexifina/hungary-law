@@ -6,7 +6,7 @@
 
 (3) A (2) bekezdés szerinti áttérési időponttal (mint mérlegfordulónappal) e törvény előírásainak megfelelő éves beszámolót, egyszerűsített éves beszámolót kell készíteni az áttérés előtti pénznemben.
 
-(4) A (3) bekezdés szerinti éves beszámolót, egyszerűsített éves beszámolót a 153. § előírásainak megfelelően az áttérést követő 90 napon belül letétbe kell helyezni, a 154. § szerint közzé kell tenni.
+(4) A (3) bekezdés szerinti éves beszámolót, egyszerűsített éves beszámolót a 153. § előírásainak megfelelően az áttérés napját követő ötödik hónap utolsó napjáig letétbe kell helyezni, a 154. § szerint közzé kell tenni.
 
 (5) A (3) bekezdés szerinti – a jóváhagyásra jogosult testület által elfogadott – éves beszámoló, egyszerűsített éves beszámoló mérlegében szereplő adatokat a 146–149. § szerint kell forintról devizára, devizáról forintra, illetve devizáról más devizára átszámítani. Az átszámítás alapján, annak megfelelően az áttérés napjára vonatkozóan külön mérleget kell készíteni a létesítő okiratban rögzített devizában, illetve forintban, majd ezen – a könyvvizsgáló által hitelesített – külön mérleg alapján kell a könyveket az áttérés napját követő nappal, a létesítő okiratban rögzített devizában, illetve forintban megnyitni.
 

@@ -1,6 +1,6 @@
 53. § (1) Terven felüli értékcsökkenést kell az immateriális jószágnál, a tárgyi eszköznél elszámolni akkor, ha
 
-a) az immateriális jószág, a tárgyi eszköz (ide nem értve a beruházást) könyv szerinti értéke tartósan és jelentősen magasabb, mint ezen eszköz piaci értéke;
+a) az immateriális jószág, a tárgyi eszköz (ide értve a beruházást is) könyv szerinti értéke tartósan és jelentősen magasabb, mint ezen eszköz piaci értéke;
 
 b) az immateriális jószág, a tárgyi eszköz (ideértve a beruházást is) értéke tartósan lecsökken, mert az immateriális jószág, a tárgyi eszköz (ideértve a beruházást is) a vállalkozási tevékenység változása miatt feleslegessé vált, vagy megrongálódás, megsemmisülés, illetve hiány következtében rendeltetésének megfelelően nem használható, illetve használhatatlan;
 
@@ -8,7 +8,7 @@ c) a vagyoni értékű jog a szerződés módosulása miatt csak korlátozottan 
 
 d) a befejezett kísérleti fejlesztés révén megvalósuló tevékenységet korlátozzák vagy megszüntetik, illetve az eredménytelen lesz.
 
-e) az üzleti vagy cégérték könyv szerinti értéke – a jövőbeni gazdasági hasznokra vonatkozó várakozásokat befolyásoló körülmények változása következtében – tartósan és jelentősen meghaladja annak piaci értékét (a várható megtérülésként meghatározott összeget).
+e) az üzleti vagy cégérték vagy az alapítás-átszervezés aktivált értékének könyv szerinti értéke – a jövőbeni gazdasági hasznokra vonatkozó várakozásokat befolyásoló körülmények változása következtében – tartósan és jelentősen meghaladja annak piaci értékét (a várható megtérülésként meghatározott összeget).
 
 (2) Az (1) bekezdés szerint az érték csökkentését olyan mértékig kell végrehajtani, hogy az immateriális jószág, a tárgyi eszköz, a beruházás használhatóságának megfelelő, a mérlegkészítéskor érvényes (ismert) piaci értéken szerepeljen a mérlegben. Amennyiben az immateriális jószág, a tárgyi eszköz, a beruházás rendeltetésének megfelelően nem használható, illetve használhatatlan, megsemmisült vagy hiányzik, azt az immateriális javak, a tárgyi eszközök, a beruházások közül – a terven felüli értékcsökkenés elszámolása után – ki kell vezetni. A piaci érték alapján meghatározott terven felüli értékcsökkenést a mérleg fordulónapjával, az eszközök állományból történő kivezetése esetén meghatározott terven felüli értékcsökkenést a kivezetés időpontjával kell elszámolni.
 

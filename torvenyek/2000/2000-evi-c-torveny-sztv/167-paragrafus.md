@@ -34,4 +34,4 @@ a) az adatok vizuális megjelenítése érdekében azoknak – szükség esetén
 
 b) az egyértelmű azonosítás érdekében a kódjegyzéket.
 
-(7) A gazdálkodó az (1) bekezdés h) és i) pontjában, illetve a 166. § (4) bekezdésében foglalt kötelezettségnek oly módon is eleget tehet, hogy a megjelölt adatokat, információkat és igazolásokat az eredeti bizonylathoz egyértelmű hozzárendeléssel, elválaszthatatlan módon, az utólagos módosítás lehetőségét kizárva csatolja.
+(7) A gazdálkodó az (1) bekezdés h) és i) pontjában, illetve a 166. § (4) bekezdésében foglalt kötelezettségnek oly módon is eleget tehet, hogy a megjelölt adatokat, információkat és igazolásokat az eredeti (elektronikus vagy papíralapú) bizonylathoz egyértelmű, az utólagos módosítás lehetőségét kizáró módon fizikailag vagy logikailag hozzárendeli. A logikai hozzárendelés elektronikus nyilvántartással is teljesíthető.

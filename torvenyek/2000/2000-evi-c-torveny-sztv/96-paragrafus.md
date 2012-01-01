@@ -2,7 +2,7 @@
 
 ## EGYSZERŰSÍTETT ÉVES BESZÁMOLÓ
 
-96. § (1) Az egyszerűsített éves beszámoló a (2)–(4) bekezdés szerinti mérlegből, eredménykimutatásból és kiegészítő mellékletből áll. Üzleti jelentést – az egyszerűsített éves beszámolóhoz kapcsolódóan – nem kell készíteni.
+96. § (1) Az egyszerűsített éves beszámoló a (2)–(4) bekezdés szerinti mérlegből, eredménykimutatásból és kiegészítő mellékletből áll. Üzleti jelentést – az egyszerűsített éves beszámolóhoz kapcsolódóan – nem kell készíteni. Az egyszerűsített éves beszámoló készítésénél az éves beszámoló készítésére vonatkozó szabályok irányadók az e fejezetben foglalt eltérésekkel.
 
 (2) Az egyszerűsített éves beszámoló mérlege az 1. számú melléklet ,,A'', illetve ,,B'' változata közül a vállalkozó által választott mérleg nagybetűvel és római számmal jelölt tételeit tartalmazza.
 

@@ -4,7 +4,7 @@
 
 (2) A teljesítés időszakában (üzleti évében) elszámolt értékesítés nettó árbevétele magában foglalja
 
-a) a vevőnek a szerződésben meghatározott feltételek szerinti teljesítés alapján kiállított, elküldött, a vevő által elismert, elfogadott számlában rögzített vagy a készpénzben kapott – általános forgalmi adót nem tartalmazó – ellenértékkel egyező árbevételt,
+a) a vevőnek a szerződésben meghatározott feltételek szerinti teljesítés alapján kiállított, elküldött, a vevő által elismert, elfogadott számlában, nyugtában, illetve – ha az eladó számla, nyugta kiállítására nem kötelezett – egyéb számviteli bizonylatban rögzített, vagy a pénzeszközben kapott – általános forgalmi adót nem tartalmazó – ellenértékkel egyező árbevételt,
 
 b) a külföldi székhelyű vállalkozás magyarországi fióktelepe által a külföldi székhelyű vállalkozásnak, a külföldi székhelyű vállalkozás más fióktelepének teljesített termékértékesítés és szolgáltatásnyújtás számlázott ellenértékét az egymás közötti megállapodásban, szerződésben meghatározott feltételek teljesítésekor a külföldi székhelyű vállalkozás, illetve annak más fióktelepe által elismert – általános forgalmi adót nem tartalmazó – összegben,
 
@@ -16,7 +16,7 @@ c) az árbevételbe beszámító árkiegészítést az adóhatósággal történ
 
 a) a kötelezettségek teljesítésére, a csereszerződés keretében átadott vásárolt és saját termelésű készletek, nyújtott szolgáltatások – általános forgalmi adót nem tartalmazó – számlázott, megállapodás, csereszerződés szerinti értékét a készlet átadás-átvétel, a szolgáltatásnyújtás időpontjában;
 
-b) az értékesített göngyöleg betétdíjas áron számlázott – általános forgalmi adót nem tartalmazó – értékét,
+b) az értékesített göngyöleg betétdíjas árának számla, nyugta szerinti – általános forgalmi adót nem tartalmazó – értékét;
 
 c) a gazdasági társaságnál a jegyzett tőkének tőkekivonással történő leszállításakor a bevont részvények, üzletrészek, vagyoni betétek ellenében átadott vásárolt és saját termelésű készletek – általános forgalmi adót nem tartalmazó – számlázott, a létesítő okiratban, annak módosításában, illetve az arra jogosult testület határozatában rögzített értékének összegét,
 

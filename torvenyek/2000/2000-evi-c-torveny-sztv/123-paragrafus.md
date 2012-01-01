@@ -1,6 +1,6 @@
 123. § (1) A 122. § (2) bekezdése szerint a konszolidálásba bevont vállalkozásnak az összevont (konszolidált) mérlegbe kerülő eszközeit és forrásait az anyavállalat éves mérlegében alkalmazható értékelési előírások szerint egységesen kell értékelni. Ha valamelyik bevont vállalkozás eltér az anyavállalat éves beszámolójánál alkalmazható értékelési módszerektől, az anyavállalatnál alkalmazható értékelésre való áttérés miatti eltéréseket az adott vállalkozás előkészítő-eredménykimutatásában is szerepeltetni kell.
 
-(2) Amennyiben a konszolidálásba bevont eszközöket és forrásokat a konszolidálásba bevont vállalkozás éves beszámolójában az anyavállalatnál alkalmazottaktól vagy előírtaktól eltérően értékelte, akkor az eltérően értékelt eszközöket és forrásokat az anyavállalat módszerei szerint kell értékelni, és ez az új kiinduló érték kerül az összevont (konszolidált) éves beszámolóba.
+(2) Amennyiben a konszolidálásba bevont eszközöket és forrásokat a konszolidálásba bevont vállalkozás beszámolójában az anyavállalatnál alkalmazottaktól vagy előírtaktól eltérően értékelte, akkor az eltérően értékelt eszközöket és forrásokat az anyavállalat módszerei szerint kell értékelni, és ez az új kiinduló érték kerül az összevont (konszolidált) éves beszámolóba.
 
 (3) A (2) bekezdés szerinti értékelés alatt ezen törvény szerinti értékelés értendő. E törvény szerint választható értékelési módszerek eltérését – figyelembe véve a 120. § (5) bekezdésében megfogalmazott egyetlen vállalkozásként működés elvét is – nem szükséges egységesíteni.
 
@@ -32,4 +32,4 @@ c) minden más tételt havonként a hó végi – a 60. § szerinti, az anyavál
 
 (10) Ha a (6), (8) bekezdésben alkalmazott árfolyamok mellett nem teljesül az összevont (konszolidált) éves beszámolónál a megbízható és valós összkép követelménye, az anyavállalat a (6), (8) bekezdésben meghatározott árfolyamoktól eltérő – a számviteli politikájában rögzített – árfolyamot is alkalmazhat. Az alkalmazott árfolyamot, valamint az eltérés indokait az összevont (konszolidált) kiegészítő mellékletben be kell mutatni.
 
-(11) Amennyiben az anyavállalat éves beszámolójára a 20. § (3)–(5) bekezdése vonatkozik, akkor a konszolidálásba bevont vállalkozások forintban készült éves beszámolója átszámításához – a reciprok árfolyamok meghatározásakor – a (6)–(10) bekezdés előírásait kell értelemszerűen alkalmazni.
+(11) Amennyiben az anyavállalat éves beszámolójára a 20. § (3)–(5) bekezdése vonatkozik, akkor a konszolidálásba bevont vállalkozások forintban készült beszámolója átszámításához – a reciprok árfolyamok meghatározásakor – a (6)–(10) bekezdés előírásait kell értelemszerűen alkalmazni.

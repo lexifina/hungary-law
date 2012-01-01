@@ -12,7 +12,7 @@ d) a termékpálya-szabályozáshoz kapcsolódó, terméktanácsok javára telje
 
 e) az államháztartás egyes alrendszereivel (a központi kormányzat, az elkülönített állami pénzalapok, a helyi önkormányzatok, a társadalombiztosítás költségvetéseivel), az Európai Unió különböző pénzügyi alapjaival (pénzügyi forrásaival) elszámolt – a bekerülési érték részét nem képező, illetve a költségek között el nem számolható – adók, díjak, illetékek, hozzájárulások tárgyévre bevallott, fizetett, illetve fizetendő összegét;
 
-f) a külföldön, külföldi telephelyen fizetett, fizetendő nyereségadó összegét;
+f)
 
 g)
 

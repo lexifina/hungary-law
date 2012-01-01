@@ -2,7 +2,7 @@
 
 a) a legutolsó beszámolóval lezárt üzleti év mérlegében, illetve
 
-b) a 21. § szerinti közbenső mérlegben
+b) a 21. § szerinti közbenső mérlegben (illetve egyéb, az alapul szolgáló beszámoló mérlegében)
 
 kimutatott – osztalékként, részesedésként, kamatozó részvény kamataként, illetve osztalékelőlegként figyelembe nem vett – adózott eredmény (mérleg szerinti eredmény), szabad tőketartalék, szabad eredménytartalék arra fedezetet nyújt és a tőkeemelést követően a jegyzett tőke összege nem haladja meg a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett saját tőke összegét.
 

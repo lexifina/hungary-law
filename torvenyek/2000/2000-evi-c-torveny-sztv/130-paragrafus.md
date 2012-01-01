@@ -20,8 +20,8 @@ c) az eredménykimutatásba beállított, de az összevont (konszolidált) mérl
 
 d) a részesedés, a tőkekonszolidációs különbözet leírt összegével.
 
-(6) Ha a társult vállalkozás éves beszámolójában a 123. §-ban foglaltaktól eltérő értékelési módszert alkalmazott, akkor az eltérően értékelt eszközök, kötelezettségek – az (1)–(5) bekezdésben meghatározott célokra – az összevont (konszolidált) éves beszámoló értékelési módszere szerint átértékelhetők. Ha ilyen esetben az újraértékeléstől eltekintenek, akkor ezt a tényt az összevont (konszolidált) kiegészítő mellékletben fel kell tüntetni.
+(6) Ha a társult vállalkozás beszámolójában a 123. §-ban foglaltaktól eltérő értékelési módszert alkalmazott, akkor az eltérően értékelt eszközök, kötelezettségek – az (1)–(5) bekezdésben meghatározott célokra – az összevont (konszolidált) éves beszámoló értékelési módszere szerint átértékelhetők. Ha ilyen esetben az újraértékeléstől eltekintenek, akkor ezt a tényt az összevont (konszolidált) kiegészítő mellékletben fel kell tüntetni.
 
 (7) A 126. §-t a közbenső eredmények kiszűrésére megfelelően alkalmazni kell, amennyiben a szükséges információk hozzáférhetőek, ismertek. A közbenső eredmények a társult vállalkozás tőkerészesedése függvényében elhagyhatók.
 
-(8) Az (1)–(7) bekezdés alkalmazásakor minden esetben a társult vállalkozás utolsó éves beszámolóját kell alapul venni. Amennyiben a társult vállalkozás összevont (konszolidált) éves beszámolót készít, és az rendelkezésre áll, akkor ebből kell kiindulni.
+(8) Az (1)–(7) bekezdés alkalmazásakor minden esetben a társult vállalkozás utolsó beszámolóját kell alapul venni. Amennyiben a társult vállalkozás összevont (konszolidált) éves beszámolót készít, és az rendelkezésre áll, akkor ebből kell kiindulni.
