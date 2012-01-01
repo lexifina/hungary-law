@@ -1,7 +1,0 @@
-9/B. § (1) Az ügyészségi nyomozás kizárólagos hatáskörébe tartozó bűncselekmény (Be. 29. §) elkövetésének felderítése, megszakítása, az elkövető kilétének megállapítása, az elkövető elfogása, tartózkodási helyének megállapítása, továbbá a bizonyítékok megszerzése céljából a nyomozó ügyész, illetve megbízása alapján az ügyészségi nyomozó – az e törvényben foglalt eltérésekkel – titokban információt gyűjthet az Rtv. VII. fejezetében meghatározott szabályok szerint. Ahol az Rtv. a titkos információgyűjtés körében a rendőrség számára állapít meg jogokat, ott a nyomozó ügyészséget kell érteni.
-
-(2) Ha az Rtv. a bírói engedélyhez nem kötött titkos információgyűjtés keretében végzett cselekményhez az ügyész engedélyét (hozzájárulását, jóváhagyását) írja elő, az engedélyezés jogkörét a nyomozó ügyészség vezetője gyakorolja.
-
-(3) A bírói engedélyhez nem kötött titkos információgyűjtés elvégzésére a nyomozó ügyészség vezetője – a nemzetbiztonsági szolgálatok kivételével – bármely titkos információgyűjtés végzésére jogosult szervet utasíthatja, az illetékes nemzetbiztonsági szolgálatot megkeresheti.
-
-(4) Ha a nemzetbiztonsági szolgálatok hivatásos állományú tagját érintően az ügyész titkos információgyűjtést kezd, e tényről tájékoztatja azon szolgálat főigazgatóját, amelynek állományába az említett személy tartozik. A titkos információgyűjtés elvégzésére ilyen esetben az ügyész az érintett nemzetbiztonsági szolgálatot is felkérheti.

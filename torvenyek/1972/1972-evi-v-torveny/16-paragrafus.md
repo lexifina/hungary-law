@@ -1,7 +1,0 @@
-## A felszólalás és figyelmeztetés
-
-16. § (1) Az ügyész a törvénysértő gyakorlat vagy mulasztásban megnyilvánuló törvénysértés megszüntetése végett a szerv vezetőjénél felszólalással él; jövőbeni törvénysértés veszélye esetén pedig a törvénysértés megelőzése érdekében figyelmeztetést nyújt be.
-
-(2) A szerv vezetője az ügyészi felszólalást, illetőleg figyelmeztetést harminc napon belül – testületi szerv az ügyészi intézkedés benyújtását követő legközelebbi ülésén – köteles elbírálni, a megfelelő intézkedést megtenni és erről az ügyészt értesíteni. Ha a szerv a felszólalással, illetőleg figyelmeztetéssel nem ért egyet, köteles az iratokat észrevételeivel együtt az elbírálástól számított nyolc napon belül felülvizsgálat végett felettes szervéhez felterjeszteni és erről a felterjesztés indokainak megjelölésével az ügyészt értesíteni. A felettes szerv a felszólalás, illetőleg figyelmeztetés kérdésében harminc napon belül érdemben határoz és határozatát az ügyésszel is közli.
-
-(3) Ha az ügyész olyan szervhez nyújt be felszólalást, illetőleg figyelmeztetést, amelynek az ügyészi intézkedéssel érintett tevékenységi körben felettes szerve nincs, a szerv – a (2) bekezdésben foglaltaktól eltérően – a felszólalás, illetőleg figyelmeztetés tárgyában egyetértés hiánya esetén is érdemben dönt. E rendelkezés akkor is irányadó, ha az ügyészi intézkedéssel érintett tevékenységi körbe tartozó egyedi ügyek bírósági felülvizsgálatát a jogszabály lehetővé teszi.
