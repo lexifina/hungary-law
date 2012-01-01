@@ -2,14 +2,6 @@
 
 55. § E törvény II–III. Fejezete, 19–20. §-a, 21. § (1) és (2) bekezdése, 22–25. §-a, V. Fejezete, 12. alcíme és melléklete az Alaptörvény VII. cikk (3) bekezdése, 21. § (3) bekezdése az Alaptörvény 43. cikk (4) bekezdése, 49. §-a az Alaptörvény 24. cikk (5) bekezdése, 53. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2011. évi CCVI. törvényhez
 
 Az Országgyűlés által elismert magyarországi egyházak, vallásfelekezetek és vallási közösségek

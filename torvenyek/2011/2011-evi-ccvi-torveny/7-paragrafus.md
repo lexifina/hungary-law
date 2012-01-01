@@ -1,6 +1,6 @@
 ## 2. Az egyház
 
-7. § (1) Az egyház, vallásfelekezet, vallási közösség (a továbbiakban együtt: egyház) azonos hitelveket valló természetes személyekből álló, önkormányzattal rendelkező és az Országgyűlés által elismert autonóm szervezet, amely elsődlegesen vallási tevékenység gyakorlása céljából jön létre és működik.
+7. § (1) Az egyház, vallásfelekezet, vallási közösség (a továbbiakban együtt: egyház) azonos hitelveket valló természetes személyekből álló, önkormányzattal rendelkező autonóm szervezet, amely elsődlegesen vallási tevékenység gyakorlása céljából jön létre és működik.
 
 (2) Az egyház jogi személy.
 

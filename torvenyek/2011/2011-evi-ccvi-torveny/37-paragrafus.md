@@ -1,4 +1,4 @@
-37. § (1) Az e törvény hatálybalépését követően – a (3) bekezdésben meghatározott kivétellel – csak a mellékletben meghatározott egyháznak nyújtható egyházi célú költségvetési támogatás.
+37. § (1)
 
 (2) A szervezet a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvény alkalmazásában egyesületnek minősül, és az egyesület részére felajánlható egy százalékra jogosult, feltéve, hogy az egyesületre vonatkozó jogszabályok által támasztott feltételeket 2012. június 30-áig teljesíti.
 
