@@ -2,7 +2,7 @@
 
 96. § (1) Az anyakönyvi eljárás befejezése után az alap- vagy utólagos bejegyzés alapját képező iratokat az anyakönyvi irattárban kell elhelyezni.
 
-(2)[^195] Az anyakönyvi irattárban az iratokat az anyakönyvi típusonként, évek szerint és az anyakönyvi folyószámok emelkedő sorrendjében kell elhelyezni.
+(2)[^208] Az anyakönyvi irattárban az iratokat az anyakönyvi típusonként, évek szerint és az anyakönyvi folyószámok emelkedő sorrendjében kell elhelyezni.
 
 (3) Azt az iratot, amelynek alapján az anyakönyvbe utólagos bejegyzést teljesítettek, az alapbejegyzés anyakönyvi folyószámán az alapbejegyzés irataival együtt kell őrizni.
 
@@ -10,10 +10,10 @@
 
 (5) Ha korábban nem anyakönyvi számon kezelt iratot az anyakönyvi irattárba helyezik el, az iktatószámot áthúzva, az anyakönyvi folyószámot felette kell feltüntetni. Egyidejűleg az iktatókönyvben és az előadói íven fel kell jegyezni, hogy az iratot az anyakönyvi irattárban milyen folyószám alatt helyezték el.
 
-(6)[^196] Az anyakönyvvezető azt az iratot, amely házassági anyakönyvben vagy bejegyzett élettársi kapcsolatok anyakönyvében szereplő anyakönyvi bejegyzésen kívül más anyakönyvi bejegyzésnek is alapirata, a házassági, illetve a bejegyzett élettársi kapcsolatok anyakönyvi iratainál helyezi el.
+(6)[^209] Az anyakönyvvezető azt az iratot, amely házassági anyakönyvben vagy bejegyzett élettársi kapcsolatok anyakönyvében szereplő anyakönyvi bejegyzésen kívül más anyakönyvi bejegyzésnek is alapirata, a házassági, illetve a bejegyzett élettársi kapcsolatok anyakönyvi iratainál helyezi el.
 
-(7)[^197] Azt az iratot, amelynek alapján anyakönyvi bejegyzést nem teljesítettek, valamint azt a házasságkötést vagy a bejegyzett élettársi kapcsolat létesítését megelőző eljárásról készített jegyzőkönyvet, amelynek alapján a házasságot nem kötötték meg, vagy a bejegyzett élettársi kapcsolatot nem hozták létre, iktatás után az irattárban kell elhelyezni.
+(7)[^210] Azt az iratot, amelynek alapján anyakönyvi bejegyzést nem teljesítettek, valamint azt a házasságkötést vagy a bejegyzett élettársi kapcsolat létesítését megelőző eljárásról készített jegyzőkönyvet, amelynek alapján a házasságot nem kötötték meg, vagy a bejegyzett élettársi kapcsolatot nem hozták létre, iktatás után az irattárban kell elhelyezni.
 
-[^195]: A 96. § (2) bekezdése a 14/2009. (VI. 3.) IRM rendelet 47. § k) pontja szerint módosított szöveg.
-[^196]: A 96. § (6) bekezdése a 14/2009. (VI. 3.) IRM rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^197]: A 96. § (7) bekezdése a 14/2009. (VI. 3.) IRM rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^208]: A 96. § (2) bekezdése a 14/2009. (VI. 3.) IRM rendelet 47. § k) pontja szerint módosított szöveg.
+[^209]: A 96. § (6) bekezdése a 14/2009. (VI. 3.) IRM rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^210]: A 96. § (7) bekezdése a 14/2009. (VI. 3.) IRM rendelet 41. § (2) bekezdésével megállapított szöveg.

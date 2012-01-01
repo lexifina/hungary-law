@@ -24,6 +24,6 @@
 
 ## An év
 
-4. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^217]
+4. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^232]
 
-[^217]: A 4. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 10/2011. (III. 10.) KIM rendelet 3. §-a, a 17/2011. (VI. 1.) KIM rendelet 2. §-a szerint módosított szöveg.
+[^232]: A 4. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 41/2011. (XII. 30.) KIM rendelet 30. § l) és m) pontja szerint módosított szöveg.

@@ -600,13 +600,13 @@
 
 ## b) Az apa és a gyermek születési családi neve: B. Kovács (Gy. Varga, Kovács B.). 2002. december 5. X.Y. aktő.
 
-## 33. Kisebbségi nyelven történő házasságkötés:
+## 33. Nemzetiségi nyelven történő házasságkötés:
 
 ## A házasság megkötése bolgár (görög, lengyel, szlovén stb.) nyelven történt.
 
 ## [A házassági anyakönyvi kivonaton nem kell feltüntetni.]
 
-## 34. Kisebbségi utónévre, valamint a családi név kisebbségi anyanyelvi szabályok szerinti módra történő kijavítása:
+## 34. Nemzetiségi utónévre, valamint a családi név nemzetiségi nyelvi szabályok szerinti módra történő kijavítása:
 
 ## Kijavítás: A gyermek utóneve: Josef (Iosif, Josip, Jozef stb.). 2002. december 16. X.Y. aktő.
 
@@ -682,6 +682,6 @@
 
 ## Kijavítás: A gyermek családi neve: Lopez y Sanchez, utóneve: Carmen. (Közép-magyarországi Reg. Állig. Hiv. 31-907/2009.) 2009. december 16. X.Y. aktő.
 
-5. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^218]
+5. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^233]
 
-[^218]: Az 5. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.
+[^233]: Az 5. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.

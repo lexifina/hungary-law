@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-6-20-0A
 | 2011-01-01 | 2003-6-20-0A.10 | 17/2010. (XII. 17.) KIM rendelet |
 | 2011-03-11 | 2003-6-20-0A.11 | 10/2011. (III. 10.) KIM rendelet |
 | 2011-06-02 | 2003-6-20-0A.12 | 17/2011. (VI. 1.) KIM rendelet |
+| 2012-01-01 | 2003-6-20-0A.13 | 41/2011. (XII. 30.) KIM rendelet |

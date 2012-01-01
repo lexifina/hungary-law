@@ -6,9 +6,9 @@
 
 ## – az anyakönyvi bejegyzés számát (folyószám/év/megkülönböztető betűjel),
 
-## – a Magyar Köztársaság megjelölést,
+## – a Magyarország megjelölést,
 
-## – a Magyar Köztársaság címerét,
+## – Magyarország címerét,
 
 ## – az anyakönyvi kivonat típusának megjelölését (születési, házassági, halotti anyakönyvi kivonat, kivonat a bejegyzett élettársi kapcsolatok anyakönyvéből),
 
@@ -108,6 +108,6 @@
 
 ## Megjegyzések.
 
-3. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^215]
+3. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^230]
 
-[^215]: A 3. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^230]: A 3. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított szöveg.

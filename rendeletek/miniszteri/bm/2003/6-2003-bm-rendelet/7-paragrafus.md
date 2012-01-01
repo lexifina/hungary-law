@@ -26,7 +26,7 @@ d) a helyettesítő anyakönyvvezető munkáltatójának hozzájárulását.
 
 (5) Településrész kiválása és új településsé alakulása esetén – az új polgármesteri hivatal létrejöttéig, illetve az új település anyakönyvvezetőjének megbízásáig – helyettesítő anyakönyvvezetőt kell kijelölni, aki az új település anyakönyvi eseményeit külön anyakönyvben vezeti. Az új település anyakönyvvezetőjének megbízása után az érintett anyakönyveket az új település részére át kell adni.
 
-(6)[^19] Helyettesítő anyakönyvvezetőt lehet kijelölni a házasság megkötésére és a bejegyzett élettársi kapcsolat létesítésére abban az esetben is, ha a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye szerinti település anyakönyvvezetője az érintett kisebbségi nyelvet nem beszéli.
+(6)[^19] Helyettesítő anyakönyvvezetőt lehet kijelölni a házasság megkötésére és a bejegyzett élettársi kapcsolat létesítésére abban az esetben is, ha a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye szerinti település anyakönyvvezetője az érintett nemzetiségi nyelvet nem beszéli.
 
 [^13]: A 7. §-t megelőző alcím a 14/2009. (VI. 3.) IRM rendelet 47. § a) pontja szerint módosított szöveg.
 [^14]: A 7. § a 2/2006. (I. 13.) BM rendelet 4. §-ával megállapított szöveg.
@@ -34,4 +34,4 @@ d) a helyettesítő anyakönyvvezető munkáltatójának hozzájárulását.
 [^16]: A 7. § (1) bekezdés c) pontja a 14/2009. (VI. 3.) IRM rendelet 46. § 4. pontja szerint módosított szöveg.
 [^17]: A 7. § (2) bekezdése a 10/2007. (III. 6.) IRM rendelet 25. § (3) bekezdésének b) pontja szerint módosított szöveg.
 [^18]: A 7. § (3) bekezdése a 10/2007. (III. 6.) IRM rendelet 3. §-ával megállapított, valamint a 36/2008. (XII. 31.) IRM rendelet 1. §-ának 1. pontja, a 14/2009. (VI. 3.) IRM rendelet 46. § 5. pontja szerint módosított szöveg.
-[^19]: A 7. § (6) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 6. pontja szerint módosított szöveg.
+[^19]: A 7. § (6) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § a) bekezdése szerint módosított szöveg.
