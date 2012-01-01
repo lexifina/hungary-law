@@ -1,3 +1,1 @@
-## 7. §[^8]
-
-[^8]: A 7. § a 9. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+## 7. § Az R2. 2. §-ában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
