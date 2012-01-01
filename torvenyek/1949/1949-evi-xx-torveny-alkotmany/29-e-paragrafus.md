@@ -1,3 +1,0 @@
-29/E. § (1) A köztársasági elnök átmeneti akadályoztatása esetén, vagy ha a köztársasági elnök megbízatása valamely okból idő előtt megszűnik, az új köztársasági elnök hivatalba lépéséig a köztársasági elnöki jogkört az Országgyűlés elnöke gyakorolja, azzal a korlátozással, hogy törvényt az Országgyűlésnek megfontolás végett, illetőleg az Alkotmánybíróságnak megvizsgálás céljából nem küldhet meg, az Országgyűlést nem oszlathatja fel, és a kegyelmezés jogával csak a jogerősen elítéltek javára élhet.
-
-(2) A köztársasági elnök helyettesítése idején az Országgyűlés elnöke képviselői jogait nem gyakorolhatja, és helyette az Országgyűlés elnökének feladatát az Országgyűlés által kijelölt alelnök látja el.

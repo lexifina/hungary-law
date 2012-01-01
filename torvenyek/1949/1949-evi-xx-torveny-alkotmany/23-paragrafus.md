@@ -1,1 +1,0 @@
-23. § Az Országgyűlés ülései nyilvánosak. A köztársasági elnök, a Kormány, továbbá bármely képviselő kérelmére az Országgyűlés a képviselők kétharmadának a szavazatával zárt ülés tartását is elhatározhatja.

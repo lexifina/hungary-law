@@ -1,1 +1,0 @@
-42. § A község, a város, a főváros és kerületei, valamint a megye választópolgárainak közösségét megilleti a helyi önkormányzás joga. A helyi önkormányzás a választópolgárok közösségét érintő helyi közügyek önálló, demokratikus intézése, a helyi közhatalomnak a lakosság érdekében való gyakorlása.
