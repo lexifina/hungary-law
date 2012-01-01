@@ -82,7 +82,7 @@ k)[^2] a bányászati hulladékok kezeléséről szóló miniszteri rendelet sze
 
 2.2. Ha a súlyos baleset a súlyos üzemzavar során keletkezett, azt a súlyos üzemzavarral együtt kell bejelenteni és kivizsgálni.
 
-2.3.[^3] A bejelentést azonnal meg kell tenni a területileg illetékes bányakapitányságnak (a továbbiakban: bányakapitányság), a Magyar Bányászati és Földtani Hivatalnak (a továbbiakban: MBFH) és a területileg illetékes városi, megyei rendőr-főkapitányságnak, valamint, ha a súlyos üzemzavart vízbetörés okozta, vagy az üzemzavar környezetszennyezést, környezetkárosodást okozott, illetve a környezetkárosodás védett természeti területen vagy annak közelében történt, akkor a területileg illetékes vízügyi igazgatóságnak, a környezetvédelmi felügyelőségnek, illetve a nemzeti park igazgatóságnak. A szóban tett bejelentést legkésőbb a következő munkanapon az addig megismert tények és körülmények közlésével, írásban meg kell erősíteni.
+2.3.[^3] A bejelentést azonnal meg kell tenni a területileg illetékes bányakapitányságnak (a továbbiakban: bányakapitányság), a Magyar Bányászati és Földtani Hivatalnak (a továbbiakban: MBFH) és a területileg illetékes városi, megyei rendőr-főkapitányságnak, valamint, ha a súlyos üzemzavart vízbetörés okozta, vagy az üzemzavar környezetszennyezést, környezetkárosodást okozott, illetve a környezetkárosodás védett természeti területen vagy annak közelében történt, akkor a működési terület szerinti vízügyi igazgatóságnak és nemzeti park igazgatóságnak, valamint a területileg illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek. A szóban tett bejelentést legkésőbb a következő munkanapon az addig megismert tények és körülmények közlésével, írásban meg kell erősíteni.
 
 2.4. A bejelentésnek tartalmaznia kell:
 
@@ -189,7 +189,7 @@ b) súlyos baleset esetén a sérülttel, halála esetén közvetlen hozzátarto
 A gazdálkodó szervezet köteles gondoskodni a vizsgálattal kapcsolatban felmerült szállítási, tárolási, őrzési feladatok teljesítéséről.
 
 [^2]: A melléklet 1.2. pont k) alpontját a 11/2011. (IV. 7.) NFM rendelet 13. §-a iktatta be.
-[^3]: A melléklet 2. pontja 2.3. alpontjának első mondata a 86/2006. (XII. 26.) GKM rendelet 22. §-a szerint módosított szöveg.
+[^3]: A melléklet 2.3. pontja a 83/2011. (XII. 29.) NFM rendelet 6. §-a szerint módosított szöveg.
 [^4]: A melléklet 2. pontjának 2.10. alpontja a 86/2006. (XII. 26.) GKM rendelet 22. §-a szerint módosított szöveg.
 [^5]: A melléklet 2.12. pontjának c) alpontja a 18/2007. (V. 10.) SZMM rendelet 4. §-ával megállapított szöveg.
 [^6]: A melléklet 2.16. pont b) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
