@@ -1,10 +1,10 @@
-## 34. §[^61] Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+## 34. §[^62] Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) a Tanács 1999. június 21-ei, 1260/1999/EK rendelete a strukturális alapokra vonatkozó általános rendelkezések megállapításáról;
 
 b) a Tanács 1999. június 21-ei, 1264/1999. és 1265/1999. számú rendeleteivel módosított 1994. május 16-ai, 1164/1994/EK rendelete a Kohéziós Alap létrehozásáról.
 
-Melléklet az 1/2004. (I. 5.) Korm. rendelethez[^62]
+Melléklet az 1/2004. (I. 5.) Korm. rendelethez[^63]
 
 A rendeletben meghatározott egyes intézmények működtetéséért felelős személyek
 
@@ -32,5 +32,5 @@ A rendeletben meghatározott egyes intézmények működtetéséért felelős sz
 
 | 11. | Kifizető Hatóság | államháztartásért felelős miniszter |
 
-[^61]: A 34. § a 192/2006. (IX. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^62]: A melléklet a 86/2011. (V. 31) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^62]: A 34. § a 192/2006. (IX. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^63]: A melléklet a 86/2011. (V. 31) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.

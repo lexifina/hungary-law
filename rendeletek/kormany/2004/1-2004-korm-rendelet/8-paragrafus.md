@@ -1,4 +1,4 @@
-## 7. §[^10] A Közösségi Támogatási Keret megvalósítását általánosan vagy több operatív programot együttesen érintő kérdésekben a Közösségi Támogatási Keret Irányító Hatóság vezetője feladatkörében kapcsolatot tart az Európai Bizottsággal és képviseli a Magyar Köztársaság érdekeit.
+## 7. §[^11] A Közösségi Támogatási Keret megvalósítását általánosan vagy több operatív programot együttesen érintő kérdésekben a Közösségi Támogatási Keret Irányító Hatóság vezetője feladatkörében kapcsolatot tart az Európai Bizottsággal és képviseli Magyarország érdekeit.
 
 ## 8. § A Közösségi Támogatási Keret Irányító Hatóság feladata a Közösségi Támogatási Keret megvalósításának koordinációja, különösen:
 
@@ -22,7 +22,7 @@ i) a Közösségi Támogatási Keret végrehajtásában érintett intézményren
 
 j) az operatív program irányító hatóságok rendszeres, illetve előzetes tájékoztatása az Európai Bizottsággal folytatott, illetve folytatandó tárgyalásokról,
 
-k)[^11] a Közösségi Támogatási Keret Irányító Bizottságával történt egyeztetést követően javaslat kidolgozása a strukturális alapok felhasználásának általános eljárási szabályaira különös tekintettel
+k)[^12] a Közösségi Támogatási Keret Irányító Bizottságával történt egyeztetést követően javaslat kidolgozása a strukturális alapok felhasználásának általános eljárási szabályaira különös tekintettel
 
 ka) a pályázati kiírások szerkezetére és kötelező elemeire,
 
@@ -30,8 +30,8 @@ kb) a programok és központi projektek végrehajtását megalapozó, a teljesí
 
 kc) a strukturális alapok végrehajtásában résztvevő intézmények által az intézkedések végrehajtása során alkalmazandó eljárások kötelező elemeinek meghatározására közös eljárási kézikönyv formájában;
 
-l)[^12] az operatív programok irányító hatóságai által készítendő, az egyes operatív programok végrehajtására vonatkozó stratégiai és éves munkatervek jóváhagyása, különös tekintettel a kötelezettségvállalásra, támogatási szerződések megkötésére és kifizetésekre vonatkozó éves irányszámokra.
+l)[^13] az operatív programok irányító hatóságai által készítendő, az egyes operatív programok végrehajtására vonatkozó stratégiai és éves munkatervek jóváhagyása, különös tekintettel a kötelezettségvállalásra, támogatási szerződések megkötésére és kifizetésekre vonatkozó éves irányszámokra.
 
-[^10]: A 7. § az 53/2005. (III. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^11]: A 8. § k) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.
-[^12]: A 8. § l) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^11]: A 7. § az 53/2005. (III. 26.) Korm. rendelet 1. §-ával megállapított, a 304/2011. (XII. 23.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^12]: A 8. § k) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^13]: A 8. § l) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.
