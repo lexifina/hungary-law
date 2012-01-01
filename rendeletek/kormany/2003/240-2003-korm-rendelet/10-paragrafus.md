@@ -1,6 +1,6 @@
-## 9. § A 6–8. §-ok szerinti mérlegeket a 14. § (2) bekezdése szerinti főkönyvi kivonat, valamint az analitikus és kiegészítő nyilvántartások adatai alapján kell elkészíteni.
+## 9. §[^7] A 6–8. § szerinti mérlegeket, leltárral, a 14. § (2) bekezdése szerinti főkönyvi kivonat, valamint az analitikus és kiegészítő nyilvántartások adatai alapján kell elkészíteni.
 
-10. § (1) A kiegészítő melléklet számszerű adatokat és szöveges magyarázatokat tartalmaz. Ugyancsak a kiegészítő melléklet részét képezi a beszámoló adattartalmát meghatározó kitöltési tájékoztató.
+10. § (1)[^8] A kiegészítő melléklet számszerű adatokat és szöveges magyarázatokat tartalmaz. Ugyancsak a kiegészítő melléklet részét képezi a beszámoló adattartalmát meghatározó módszertani útmutató
 
 (2) A kincstári éves beszámoló kiegészítő melléklete számszerű adatainak tartalmaznia kell:
 
@@ -14,7 +14,7 @@ d) a központi költségvetés követelései és kötelezettségei állományán
 
 e) a letétek állományának alakulását,
 
-f) a befektetett eszközök, követelések és értékpapírok állományának és értékvesztésének alakulását,
+f)[^9] Az eszközök értékvesztésének alakulását
 
 g) a kötelezettségvállalások alakulását.
 
@@ -25,3 +25,7 @@ a) a számviteli politikában és az alkalmazott értékelési eljárásokban be
 b) a számviteli alapelvek sajátos érvényesülését és azok indokolását,
 
 c) minden olyan kiegészítő adatot, amely a beszámolót egyértelművé teszi, és a megbízható, valós összkép kialakításához szükséges.
+
+[^7]: A 9. § a 369/2011. (XII. 31.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^8]: A 10. § (1) bekezdése a 369/2011. (XII. 31.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
+[^9]: A 10. § (2) bekezdés f) pontja a 369/2011. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.

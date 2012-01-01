@@ -1,1 +1,3 @@
-## 5. § Az Áht. 18/B. §-a (1) bekezdésének a) pontjában előírt zárszámadás előkészítésével kapcsolatos feladat teljesítése e rendelet 3. §-ában foglaltak összeállításával valósul meg.
+## 5. §[^5]
+
+[^5]: Az 5. §-t a 369/2011. (XII. 31.) Korm. rendelet 29. §-a hatályon kívül helyezte.

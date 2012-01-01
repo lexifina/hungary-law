@@ -18,6 +18,6 @@
 
 | Összes számla |  |  |  |  |  |  |
 
-8. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^25]
+8. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^34]
 
-[^25]: A 8. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 24. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 117. §-a szerint módosított szöveg.
+[^34]: A 8. számú melléklet a 369/2011. (XII. 31.) Korm. rendelt 27. § (2) bekezdésével megállapított szöveg.

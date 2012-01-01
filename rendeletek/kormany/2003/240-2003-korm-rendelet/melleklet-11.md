@@ -1,3 +1,5 @@
+## Az eszközök értékvesztésének alakulása[^36]
+
 ## Befektetett eszközök, követelések és értékpapírok állományának és értékvesztésének alakulása
 
 ## Millió forintban
@@ -69,3 +71,5 @@ Millió forintban
 | Pénzügyileg nem teljesített tárgyévi kötelezettségvállalás | 12=07–09 |  |  |  |  |  |  |  |  |
 
 | ÖSSZES KÖTELEZETTSÉG VÁLLALÁS | 13=11+12 |  |  |  |  |  |  |  |  |
+
+[^36]: A 10. számú melléklet címe a 369/2011. (XII. 31.) Korm. rendelet 28. § 7. pontja szerint módosított szöveg.
