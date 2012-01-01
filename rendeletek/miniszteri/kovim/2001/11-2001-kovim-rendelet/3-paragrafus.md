@@ -1,10 +1,10 @@
 3. § (1) Ez a rendelet 2001. április 1-jén lép hatályba, rendelkezéseit a hatálybalépése után létesített útburkolati jelekre kell alkalmazni.
 
-(2)[^3]
+(2)[^4]
 
-(3)[^4]
+(3)[^5]
 
-(4)[^5]
+(4)[^6]
 
 Melléklet a 11/2001. (III. 13.) KöViM rendelethez
 
@@ -14,13 +14,13 @@ A Közúti Útburkolati Jelek Szabályzata (ÚBJSZ)
 
 1. Az útburkolati jelek alapkövetelményei
 
-1.1.[^6] A szabályzatban foglalt előírások megtartásán túl az útburkolati jelek
+1.1.[^7] A szabályzatban foglalt előírások megtartásán túl az útburkolati jelek
 
-a) alakjának, méretének, színének és elrendezésének az erre vonatkozó útügyi műszaki előírásban[^7],
+a) alakjának, méretének, színének és elrendezésének az erre vonatkozó útügyi műszaki előírásban[^8],
 
-b) megtervezésének az erre vonatkozó útügyi műszaki előírásban[^8],
+b) megtervezésének az erre vonatkozó útügyi műszaki előírásban[^9],
 
-c) kivitelezésének az erre vonatkozó szabványokban[^9]
+c) kivitelezésének az erre vonatkozó szabványokban[^10]
 
 meghatározott műszaki követelmények valamelyikének kell megfelelnie.
 
@@ -30,7 +30,7 @@ meghatározott műszaki követelmények valamelyikének kell megfelelnie.
 
 1.4. Az útburkolati jeleknek nappali természetes látási körülmények esetén legalább a megállási látótávolságnak megfelelő távolságból felismerhetőnek kell lenniük; törekedni kell azonban arra, hogy azokon a helyeken, ahol az előzési látótávolság is rendelkezésre áll, az út útburkolati jelekkel jelölt vonalvezetése az előzési látótávolságnak megfelelő hosszon is jól felismerhető legyen.
 
-1.5.[^10] Az útburkolati jelek anyaga nem változtathatja meg számottevően az útburkolat súrlódási tényezőjét; ugyancsak nem veszélyeztethetik a járművek menetstabilitását az útburkolati jelek felismerhetőségének fokozására használt, az útburkolatba ágyazott fényvisszaverő eszközök (fényvisszavető útburkolati jelzőtestek).
+1.5.[^11] Az útburkolati jelek anyaga nem változtathatja meg számottevően az útburkolat súrlódási tényezőjét; ugyancsak nem veszélyeztethetik a járművek menetstabilitását az útburkolati jelek felismerhetőségének fokozására használt, az útburkolatba ágyazott fényvisszaverő eszközök (fényvisszavető útburkolati jelzőtestek).
 
 1.6. Az útburkolati jeleket tisztán, jól látható állapotban kell tartani. Ahol ezek a követelmények nem teljesülnek, az útburkolati jeleket fel kell újítani. Különös gonddal kell megítélni azoknak az útburkolati jeleknek a felújítási gyakoriságát, amelyek kötelezettségekre hívják fel a járművezetők figyelmét.
 
@@ -62,9 +62,9 @@ a) a kerékpársáv szélessége legalább 1 méter,
 
 b) az autóbusz-forgalmi sáv, az autóbusz öböl, a kapaszkodósáv, a lassító és gyorsítósáv legalább 3 méter és legfeljebb 4 méter,
 
-c)[^11] a kerékpárosok által is használható autóbusz-forgalmi sáv szélessége legalább 3,75 m,
+c)[^12] a kerékpárosok által is használható autóbusz-forgalmi sáv szélessége legalább 3,75 m,
 
-d)[^12] a járművek hosszirányú várakozására szolgáló felület szélessége legalább 2 méter
+d)[^13] a járművek hosszirányú várakozására szolgáló felület szélessége legalább 2 méter
 
 legyen.
 
@@ -86,11 +86,11 @@ Váltakozó irányú forgalmú úton a forgalmi sávokat kettős terelővonallal
 
 4. Kerékpárút és kerékpársáv jelei
 
-4.1.[^13] A járdán kijelölt kerékpárutat a széleit jelző ,,Kerékpáros osztóvonal'' (folytonos sárga vonal) útburkolati jellel vagy eltérő színű, illetve anyagú burkolattal kell jelölni.
+4.1.[^14] A járdán kijelölt kerékpárutat a széleit jelző ,,Kerékpáros osztóvonal'' (folytonos sárga vonal) útburkolati jellel vagy eltérő színű, illetve anyagú burkolattal kell jelölni.
 
 4.2. A kerékpárút helyét az úton ,,Az utat keresztező kerékpárút'' útburkolati jellel kell jelölni. Mindig el kell helyezni az útburkolati jelet, ha a kerékpárosok részére a gépjármű forgalomnak elsőbbséget kell adni és az ,,Elsőbbségadás kötelező'', vagy ,,Állj! Elsőbbségadás kötelező'' jelzőtábla alatt a kerékpárutat jelző kiegészítő (KRESZ 10/a. ábra) tábla van, illetve ha az útkereszteződésben a forgalmat jelzőlámpa irányítja.
 
-4.3.[^14] A kerékpársávot ,,Kerékpáros osztóvonal'' útburkolati jellel kell jelölni. Útkereszteződésekben a sáv mindkét szélét ,,Kerékpársáv terelővonala'' útburkolati jellel kell átvezetni. Autóbuszöböl mellett, vagy ahol a járművek várakozóhelyét az úttest széle és a kerékpársáv külső széle között jelölték ki, a kerékpársávot az autóbuszöböltől vagy várakozóhelytől ,,Kerékpársáv terelővonala'' útburkolati jellel el kell választani. Egyirányú forgalmú úton a jelölt iránnyal ellentétes irányú kerékpársávon útkereszteződésnél a ,,Kerékpárosok közlekedésére kijelölt úttest'' [KRESZ 158/i) ábra] útburkolati jelet, valamint a kerékpáros forgalom irányát jelző nyilat el kell helyezni.
+4.3.[^15] A kerékpársávot ,,Kerékpáros osztóvonal'' útburkolati jellel kell jelölni. Útkereszteződésekben a sáv mindkét szélét ,,Kerékpársáv terelővonala'' útburkolati jellel kell átvezetni. Autóbuszöböl mellett, vagy ahol a járművek várakozóhelyét az úttest széle és a kerékpársáv külső széle között jelölték ki, a kerékpársávot az autóbuszöböltől vagy várakozóhelytől ,,Kerékpársáv terelővonala'' útburkolati jellel el kell választani. Egyirányú forgalmú úton a jelölt iránnyal ellentétes irányú kerékpársávon útkereszteződésnél a ,,Kerékpárosok közlekedésére kijelölt úttest'' [KRESZ 158/i) ábra] útburkolati jelet, valamint a kerékpáros forgalom irányát jelző nyilat el kell helyezni.
 
 4.4. Ha a kerékpársáv melletti forgalmi sávon a járműveknek a kerékpársávval párhuzamos várakozása megengedett, akkor a két sáv között legalább 60 cm széles forgalom elől elzárt területet kell létesíteni, vagy olyan térelválasztó elemeket kell alkalmazni, amelyek biztosítják az előírt szélességű sáv szabadon tartását.
 
@@ -104,11 +104,11 @@ b) az ellentétes irányú forgalmi sávoktól kettős záróvonallal
 
 kell elválasztani és a forgalmi sávon a ,,BUSZ'' feliratot legalább minden útkereszteződés után el kell helyezni.
 
-6. Kapaszkodósávval, előzési sávval rendelkező út jelei[^15]
+6. Kapaszkodósávval, előzési sávval rendelkező út jelei[^16]
 
 6.1. Kapaszkodósávval rendelkező úton az ellentétes irányú forgalmi sávokat a kapaszkodósáv teljes hosszában záróvonallal kell elválasztani, amelyet a kapaszkodósáv kezdetének és végének térségére mindkét irányban a szükséges mértékben ki kell terjeszteni. A záróvonal a lejtőirányú forgalom számára a kapaszkodósáv kezdete és vége között indokolt esetben átléphetővé tehető, ha a szükséges előzési látótávolság rendelkezésre áll.
 
-6.2.[^16] A kezdetén és a végén jelzőtáblával jelölt kapaszkodósávot, előzési sávot a forgalmi sávtól ,,Terelővonal'' útburkolati jellel kell elválasztani. A kapaszkodósáv, előzési sáv megszűnését sávvégi terelőnyilakkal mindig jelezni kell.
+6.2.[^17] A kezdetén és a végén jelzőtáblával jelölt kapaszkodósávot, előzési sávot a forgalmi sávtól ,,Terelővonal'' útburkolati jellel kell elválasztani. A kapaszkodósáv, előzési sáv megszűnését sávvégi terelőnyilakkal mindig jelezni kell.
 
 7. Korlátozott sebességű övezetek jelei
 
@@ -134,7 +134,7 @@ A lakó-pihenő övezetekben lévő utak kialakítására és forgalmának szab�
 
 10.1. Körforgalmú csomópont előtt a betorkolló út irányából a helyzetjelző vonalat minden esetben el kell helyezni.
 
-10.2.[^17] A csomóponti ágakat keresztező kerékpárút esetén az ,,Utat keresztező kerékpárút'' útburkolati jelet minden esetben alkalmazni kell.
+10.2.[^18] A csomóponti ágakat keresztező kerékpárút esetén az ,,Utat keresztező kerékpárút'' útburkolati jelet minden esetben alkalmazni kell.
 
 10.3. Körforgalmú csomópontban kerékpársávot nem szabad kijelölni.
 
@@ -224,7 +224,7 @@ cf) kerékpársáv kijelölése esetén,
 
 cg) olyan kiemelt szegély nélküli utakon, ahol az úttest szélén ,,Megállási tilalom'' útburkolati jel van.
 
-16.2.[^18] Az úttest szélét a 16.1. a) és b) pontban felsorolt esetekben
+16.2.[^19] Az úttest szélét a 16.1. a) és b) pontban felsorolt esetekben
 
 a) folytonos vonallal (,,Úttest széle'') kell jelölni, a folyópálya szakaszokon az ingatlanok bejáratainál és a mezőgazdasági utak csatlakozásainál;
 
@@ -252,7 +252,7 @@ c) olyan utakon, amelyeken csak az egyik irányban van párhuzamos közlekedés.
 
 16.6. Az irányjelző (előjelző) nyilakat a járműosztályozók azon részén is el kell helyezni, ahol a forgalmi sávok között a sávváltás még lehetséges. Kerékpárforgalmi létesítményeken csökkentett méretű ,,Kerékpáros irányjelző nyilak'' alkalmazhatók.
 
-16.7.[^19] Az útburkolaton feltüntethetők
+16.7.[^20] Az útburkolaton feltüntethetők
 
 a) az elsőbbségadás kötelező jelkép;
 
@@ -324,7 +324,7 @@ Ezeken az utakon sem mellőzhető azonban az ,,Állj! Elsőbbségadás kötelez�
 
 17.3. A ,,Megállási tilalom'' és a ,,Várakozási tilalom'' útburkolati jeleket a kiemelt szegélyen, ahol az nincs, vagy útburkolati jel létesítésére nem alkalmas, az úttest szélén kell alkalmazni.
 
-17.4.[^20] Az ,,Irányjelző (előjelző) nyíl'' útburkolati jelet csak az útburkolati jelekkel jelölt forgalmi sávokban szabad létesíteni.
+17.4.[^21] Az ,,Irányjelző (előjelző) nyíl'' útburkolati jelet csak az útburkolati jelekkel jelölt forgalmi sávokban szabad létesíteni.
 
 17.5. A ,,Terelőnyíl'' útburkolati jelet
 
@@ -346,7 +346,7 @@ Az útburkolati jeleket az éjszakai láthatóság érdekében általában fény
 
 a) ahol az út megvilágítása a vonatkozó szabvány előírásainak megfelel,
 
-b) ahol az útburkolati jellel együtt fényvisszaverő burkolati jelzőtesteket[^21] is elhelyeztek,
+b) ahol az útburkolati jellel együtt fényvisszaverő burkolati jelzőtesteket[^22] is elhelyeztek,
 
 c) a járműforgalom elől elzárt terület útburkolati jel belső sávozásánál,
 
@@ -368,7 +368,7 @@ j) a mozgáskorlátozottak jelképénél.
 
 19.1. Az ideiglenes útburkolati jelek színe sárga.
 
-19.2.[^22] Az állandó jellegű útburkolati jeleket nem kell eltávolítani, vagy láthatóságát megszüntetni, ha a munkavégzés ideje alatt az ideiglenes forgalmi sávokat sárga színű útburkolati jelekkel vagy egyéb optikai vezetést biztosító megfelelő eszközökkel egyértelműen kijelölték. Nem szabad azonban az állandó irányjelző (előjelző) nyíl láthatóságát részben meghagyni és más irányba is mutató ideiglenes irányjelző (előjelző) nyíl egy részével kiegészíteni abban a forgalmi sávban, amelyben ideiglenesen a más irányú haladást is engedélyezni szükséges. A nyíl részbeni láthatóságának meghagyása helyett az állandó irányjelző (előjelző) nyilat meg kell szüntetni és a megfelelő ideiglenes irányjelző (előjelző) nyilat kell alkalmazni.
+19.2.[^23] Az állandó jellegű útburkolati jeleket nem kell eltávolítani, vagy láthatóságát megszüntetni, ha a munkavégzés ideje alatt az ideiglenes forgalmi sávokat sárga színű útburkolati jelekkel vagy egyéb optikai vezetést biztosító megfelelő eszközökkel egyértelműen kijelölték. Nem szabad azonban az állandó irányjelző (előjelző) nyíl láthatóságát részben meghagyni és más irányba is mutató ideiglenes irányjelző (előjelző) nyíl egy részével kiegészíteni abban a forgalmi sávban, amelyben ideiglenesen a más irányú haladást is engedélyezni szükséges. A nyíl részbeni láthatóságának meghagyása helyett az állandó irányjelző (előjelző) nyilat meg kell szüntetni és a megfelelő ideiglenes irányjelző (előjelző) nyilat kell alkalmazni.
 
 19.3. Ideiglenes útburkolati jelet – a roncsolásmentes eltávolíthatóság érdekében – csak ragasztott kivitelben szabad létesíteni, kivéve azt az esetet, ha az ideiglenes útburkolati jelekkel ellátott útfelületet a végleges forgalmi rend kialakítását megelőzően új útburkolattal látják el.
 
@@ -382,19 +382,19 @@ j) a mozgáskorlátozottak jelképénél.
 
 20.3. Kijelölt gyalogos-átkelőhely megszüntetésénél a kijelölt gyalogos-átkelőhely jelzéseit egyszerre kell eltávolítani.
 
-21. Burkolati jelzőtestek[^23]
+21. Burkolati jelzőtestek[^24]
 
-21.1. Burkolati jelzőtesteket[^24] állandó forgalmi rend kialakítása esetén csak útburkolati jelekkel együtt szabad létesíteni, azonban ideiglenes alkalmazás esetén azok önállóan is telepíthetők.
+21.1. Burkolati jelzőtesteket[^25] állandó forgalmi rend kialakítása esetén csak útburkolati jelekkel együtt szabad létesíteni, azonban ideiglenes alkalmazás esetén azok önállóan is telepíthetők.
 
-21.2. Burkolati jelzőtesteket[^25] útburkolati jelen elhelyezni nem szabad.
+21.2. Burkolati jelzőtesteket[^26] útburkolati jelen elhelyezni nem szabad.
 
-21.3.[^26] A burkolati jelzőtestek[^27] fényvisszavető felülete színének meg kell egyeznie a vele együtt alkalmazott útburkolati jel színével.
+21.3.[^27] A burkolati jelzőtestek[^28] fényvisszavető felülete színének meg kell egyeznie a vele együtt alkalmazott útburkolati jel színével.
 
-21.4. Az ideiglenesen alkalmazott burkolati jelzőtest[^28] színe sárga.
+21.4. Az ideiglenesen alkalmazott burkolati jelzőtest[^29] színe sárga.
 
-21.5. Burkolati jelzőtestek[^29] alkalmazása esetén az ÚT 2–1.113 sz. útügyi műszaki előírásban foglaltakat be kell tartani.
+21.5. Burkolati jelzőtestek[^30] alkalmazása esetén az ÚT 2–1.113 sz. útügyi műszaki előírásban foglaltakat be kell tartani.
 
-21.6. A burkolati jelzőtestek[^30] – a fokozott figyelemfelhívás érdekében – az ÚT 2–1.152 sz. szerinti függőleges jelzőfelülettel is elláthatók.
+21.6. A burkolati jelzőtestek[^31] – a fokozott figyelemfelhívás érdekében – az ÚT 2–1.152 sz. szerinti függőleges jelzőfelülettel is elláthatók.
 
 22. Nyilvántartás
 
@@ -412,7 +412,7 @@ a) Alkalmazás (az útburkolati jel alkalmazása): az útburkolati jel meghatár
 
 b) Állandó forgalmi rend: a közúti forgalom tartós szabályozása építésekkel és közúti jelzésekkel (forgalomirányító jelzőlámpákkal, jelzőtáblákkal, útburkolati jelekkel és egyéb úttartozékokkal, útfelszerelési tárgyakkal) a biztonságos, gyors és zavartalan közlekedés biztosítására.
 
-c)[^31] Útburkolati jelzőtest: az útburkolati jelet megerősítő vagy azt helyettesítő, az útburkolatba süllyeszthető vagy az útburkolatra ragasztható eszköz, amely fényvisszavető elemet is tartalmazhat.
+c)[^32] Útburkolati jelzőtest: az útburkolati jelet megerősítő vagy azt helyettesítő, az útburkolatba süllyeszthető vagy az útburkolatra ragasztható eszköz, amely fényvisszavető elemet is tartalmazhat.
 
 d) Csomópont: az egymást keresztező vagy az egymáshoz csatlakozó utak valamennyi ágában a járműosztályozó, a keresztezési sokszög és az ürítési szakasz együttes hosszának megfelelő terület.
 
@@ -428,7 +428,7 @@ i) Függőleges jelzés: az úttest (útpálya) síkja fölött elhelyezett – 
 
 j) Helyi közút: a települési önkormányzat tulajdonában levő közút.
 
-k)[^32] Helyzetjelző vonal: az a széles – folytonos vagy szaggatott – haránt irányú vonal, amely előtt a járművek vezetőinek
+k)[^33] Helyzetjelző vonal: az a széles – folytonos vagy szaggatott – haránt irányú vonal, amely előtt a járművek vezetőinek
 
 – a keresztező, illetve – balra bekanyarodásnál – a szembejövő forgalom részére történő elsőbbségadás céljából,
 
@@ -446,7 +446,7 @@ o) Közúti jelzőtábla: olyan tartós anyagból készült, az út mellett vagy
 
 p) KRESZ: a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet.
 
-q)[^33] Közforgalom elől elzárt magánút: a sorompóval, kapuval vagy más fizikai eszközzel lezárt, vagy „Mindkét irányból behajtani tilos” jelzőtáblával jelzett magánút.[^34]
+q)[^34] Közforgalom elől elzárt magánút: a sorompóval, kapuval vagy más fizikai eszközzel lezárt, vagy „Mindkét irányból behajtani tilos” jelzőtáblával jelzett magánút.[^35]
 
 r) Megállási látótávolság: a biztonságos megálláshoz szükséges, akadálytalanul áttekinthető úthossz, illetve látómező (az ÚT 1–1.201 sz. Közutak tervezési szabályzata szerint).
 
@@ -464,35 +464,35 @@ x) Útburkolati jel: az úttest (útpálya) felületén, annak síkjában fekvő
 
 y) Ürítési szakasz: az útkereszteződést elhagyó járművek folyamatos haladásának elérésére szolgáló útszakasz (hossza általában azonos az ellenkező forgalmi irány járműosztályozójának hosszával).
 
-[^3]: A 3. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 32. pontja hatályon kívül helyezte.
-[^4]: A 3. § (3) bekezdését a 7/2004. (I. 30.) GKM–IHM–KvVM együttes rendelet 1. §-ának e) pontja hatályon kívül helyezte.
-[^5]: A 3. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 32. pontja hatályon kívül helyezte.
-[^6]: A melléklet 1.1. pontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (1) bekezdésével megállapított szöveg.
-[^7]: Jelenleg az ÚT 2–1.150 „Közúti útburkolati jelek alakja, mérete, színe és elrendezése” című útügyi műszaki előírás.
-[^8]: Jelenleg az ÚT 2–1.113 „Közúti útburkolati jelek tervezése” című útügyi műszaki előírás.
-[^9]: Jelenleg az MSZ EN 1436, az MSZ EN 1463-1 és az MSZ EN 1463-2 szabvány.
-[^10]: A melléklet 1.5. pontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (2) bekezdésével megállapított szöveg.
-[^11]: A melléklet 2.4 pontjának új c) alpontját a 46/2001. (XII. 20.) KöViM rendelet 1. §-a, illetve mellékletének 1. pontja iktatta a szövegbe, egyidejűleg az eredeti c) alpont jelölését d) alpontra változtatva.
-[^12]: A melléklet 2.4 pontjának eredeti c) alpontját a 46/2001. (XII. 20.) KöViM rendelet 1. §-a, illetve mellékletének 1. pontja d) alpontra változtatta.
-[^13]: A melléklet 4.1 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 2. pontjával megállapított szöveg.
-[^14]: A melléklet 4.3 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 3. pontjával megállapított szöveg.
-[^15]: A melléklet 6. pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 4. pontjával megállapított szöveg.
-[^16]: A melléklet 6.2 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 5. pontjával megállapított szöveg.
-[^17]: A melléklet 10.2 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 6. pontjával megállapított szöveg.
-[^18]: A melléklet 16.2. pontja a 46/2001. (XII. 20.) KöViM rendelet 2. §-a szerint módosított szöveg.
-[^19]: A melléklet 16.7. pontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (3) bekezdésével megállapított szöveg.
-[^20]: A melléklet 17.4 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 9. pontjával megállapított szöveg.
-[^21]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
-[^22]: A melléklet 19.2. pontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (4) bekezdésével megállapított szöveg.
-[^23]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
+[^4]: A 3. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 32. pontja hatályon kívül helyezte.
+[^5]: A 3. § (3) bekezdését a 7/2004. (I. 30.) GKM–IHM–KvVM együttes rendelet 1. §-ának e) pontja hatályon kívül helyezte.
+[^6]: A 3. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 32. pontja hatályon kívül helyezte.
+[^7]: A melléklet 1.1. pontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (1) bekezdésével megállapított szöveg.
+[^8]: Jelenleg az ÚT 2–1.150 „Közúti útburkolati jelek alakja, mérete, színe és elrendezése” című útügyi műszaki előírás.
+[^9]: Jelenleg az ÚT 2–1.113 „Közúti útburkolati jelek tervezése” című útügyi műszaki előírás.
+[^10]: Jelenleg az MSZ EN 1436, az MSZ EN 1463-1 és az MSZ EN 1463-2 szabvány.
+[^11]: A melléklet 1.5. pontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (2) bekezdésével megállapított szöveg.
+[^12]: A melléklet 2.4 pontjának új c) alpontját a 46/2001. (XII. 20.) KöViM rendelet 1. §-a, illetve mellékletének 1. pontja iktatta a szövegbe, egyidejűleg az eredeti c) alpont jelölését d) alpontra változtatva.
+[^13]: A melléklet 2.4 pontjának eredeti c) alpontját a 46/2001. (XII. 20.) KöViM rendelet 1. §-a, illetve mellékletének 1. pontja d) alpontra változtatta.
+[^14]: A melléklet 4.1 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 2. pontjával megállapított szöveg.
+[^15]: A melléklet 4.3 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 3. pontjával megállapított szöveg.
+[^16]: A melléklet 6. pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 4. pontjával megállapított szöveg.
+[^17]: A melléklet 6.2 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 5. pontjával megállapított szöveg.
+[^18]: A melléklet 10.2 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 6. pontjával megállapított szöveg.
+[^19]: A melléklet 16.2. pontja a 46/2001. (XII. 20.) KöViM rendelet 2. §-a szerint módosított szöveg.
+[^20]: A melléklet 16.7. pontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (3) bekezdésével megállapított szöveg.
+[^21]: A melléklet 17.4 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 9. pontjával megállapított szöveg.
+[^22]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
+[^23]: A melléklet 19.2. pontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (4) bekezdésével megállapított szöveg.
 [^24]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
 [^25]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
-[^26]: A melléklet 21.3 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 10. pontjával megállapított szöveg.
-[^27]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
+[^26]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
+[^27]: A melléklet 21.3 pontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 10. pontjával megállapított szöveg.
 [^28]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
 [^29]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
 [^30]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
-[^31]: A melléklet 23. pontjának c) alpontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (5) bekezdésével megállapított szöveg.
-[^32]: A melléklet 23. pontjának k) alpontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 11. pontjával megállapított szöveg.
-[^33]: A melléklet 23. pontjának q) alpontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (5) bekezdésével megállapított szöveg.
-[^34]: 1988. évi I. törvény 32. §-ának (1) bekezdése.
+[^31]: A 65/2007. (VII. 2.) GKM rendelet 2. § (2) bekezdése alapján ahol a rendelet „burkolati jelzőtestet” említ, azon „útburkolati jelzőtestet” kell érteni.
+[^32]: A melléklet 23. pontjának c) alpontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (5) bekezdésével megállapított szöveg.
+[^33]: A melléklet 23. pontjának k) alpontja a 46/2001. (XII. 20.) KöViM rendelet 1. §-ával, illetve mellékletének 11. pontjával megállapított szöveg.
+[^34]: A melléklet 23. pontjának q) alpontja a 65/2007. (VII. 2.) GKM rendelet 1. §-ával, illetve mellékletének (5) bekezdésével megállapított szöveg.
+[^35]: 1988. évi I. törvény 32. §-ának (1) bekezdése.
