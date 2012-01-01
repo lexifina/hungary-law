@@ -38,7 +38,7 @@
 
 ## s) 38. sz. főút 37. sz. főúttal alkotott csomópontja és Rakamaz között.
 
-4. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^8]
+4. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^9]
 
 .................... sorszám
 
@@ -80,4 +80,4 @@ ___________
 
 2. A nyilatkozatot a gépjármű vezetője köteles magánál tartani és az ellenőrzésre jogosult hatóság részére felmutatni.
 
-[^8]: A 4. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^9]: A 4. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.

@@ -18,7 +18,7 @@ tehergépkocsira.
 
 (2) A 2. §-ban meghatározott közlekedési korlátozás – a 2. § (1) bekezdés a) pontjában meghatározott időszakban a 3. mellékletben meghatározott útvonalak kivételével – nem vonatkozik:
 
-1. az Európai Közösség és a Magyar Köztársaság közötti közúti árufuvarozás meghatározott feltételeinek kialakításáról és a kombinált fuvarozás elősegítéséről szóló Megállapodás kihirdetéséről rendelkező törvényben meghatározott kombinált áruszállítást
+1.[^3] az Európai Közösség és Magyarország közötti közúti árufuvarozás meghatározott feltételeinek kialakításáról és a kombinált fuvarozás elősegítéséről szóló Megállapodás kihirdetéséről rendelkező törvényben meghatározott kombinált áruszállítást
 
 1a) az átrakó állomás (kombiterminál) és a le-, vagy felrakóhely között vagy
 
@@ -47,3 +47,4 @@ tehergépkocsira.
 12. a közút kezelője által a meghatározott össztömeget vagy tengelyterhelést vagy méretet meghaladó járművek közlekedésére kiadott hozzájárulás alapján közlekedő
 
 [^2]: Az 5. § a 280/2010. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 5. § (2) bekezdés 1. pontja a 304/2011. (XII. 23.) Korm. rendelet 32. §-a szerint módosított szöveg.

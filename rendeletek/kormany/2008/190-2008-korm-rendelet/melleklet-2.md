@@ -20,7 +20,7 @@
 
 ## j) nyilatkozat arról, hogy a 2. § (1) bekezdés a) pontjában meghatározott időszakban a 3. mellékletben meghatározott útvonalakat nem veszik igénybe.
 
-2. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^6]
+2. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^7]
 
 .................... sorszám
 
@@ -34,4 +34,4 @@ a nehéz tehergépkocsik közlekedésének korlátozásáról szóló
 
 meghatározott közlekedési korlátozás alóli felmentésre
 
-[^6]: A 2. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
