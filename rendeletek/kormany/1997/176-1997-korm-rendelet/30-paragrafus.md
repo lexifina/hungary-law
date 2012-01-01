@@ -1,6 +1,6 @@
-30. §[^42] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+30. §[^43] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 176/1997. (X. 11.) Korm. rendelethez[^43]
+Melléklet a 176/1997. (X. 11.) Korm. rendelethez[^44]
 
 Átmeneti rendelkezések
 
@@ -38,8 +38,8 @@ A Budapest-Ferihegy Nemzetközi Repülőtér zajgátló védőövezetének az e 
 
 6. A repülőtér üzemben tartója negyedévenként köteles tájékoztatni a légiközlekedési hatóságot a forgalommegoszlás alakulásáról.
 
-1. ábra[^44]
+1. ábra[^45]
 
-[^42]: A 30. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1320. pontja hatályon kívül helyezte.
-[^43]: A mellékletet az 53/2004. (III. 31.) Korm. rendelet 16. §-a iktatta be.
-[^44]: A melléklet 1. számú ábráját a 366/2004. (XII. 26.) Korm. rendelet 3. §-a állapította meg.
+[^43]: A 30. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1320. pontja hatályon kívül helyezte.
+[^44]: A mellékletet az 53/2004. (III. 31.) Korm. rendelet 16. §-a iktatta be.
+[^45]: A melléklet 1. számú ábráját a 366/2004. (XII. 26.) Korm. rendelet 3. §-a állapította meg.
