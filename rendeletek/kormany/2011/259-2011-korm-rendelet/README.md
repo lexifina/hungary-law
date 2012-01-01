@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-259-20-
 | --- | --- | --- |
 | 2011-12-08 | 2011-259-20-22.1 | 259/2011. (XII. 7.) Korm. rendelet |
 | 2011-12-09 | 2011-259-20-22.2 | 2010: CXXX. törvény |
+| 2012-01-01 | 2011-259-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

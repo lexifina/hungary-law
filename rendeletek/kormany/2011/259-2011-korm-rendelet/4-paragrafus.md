@@ -1,5 +1,5 @@
-## 3. §[^3]
-
 ## 4. Másodfokon eljáró tűzvédelmi szakhatóságok
 
-[^3]: A 3. § a 15. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+4. § (1) A Kormány másodfokú tűzvédelmi szakhatóságként – ha kormányrendelet másként nem rendelkezik – a területi szervet jelöli ki.
+
+(2) A Kormány másodfokú tűzvédelmi szakhatóságként a központi szervet jelöli ki azokban az ügyekben, ahol a területi szerv járt el első fokú tűzvédelmi szakhatóságként.
