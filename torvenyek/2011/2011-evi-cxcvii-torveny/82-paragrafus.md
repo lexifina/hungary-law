@@ -1,0 +1,3 @@
+82. § A Gt. 54. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha az ellenőrzött társaság jogutód nélkül megszüntetésre kerül, a minősített befolyásszerző korlátlan felelősséggel tartozik a társaság minden olyan kötelezettségéért, amelynek kielégítését az eljárás során az adós ellenőrzött társaság vagyona nem fedezi, ha hitelezőinek a felszámolási eljárás során, vagy a társaság jogutód nélküli megszűnését követően, törvényben meghatározott határidőn belül benyújtott keresete alapján a bíróság – az adós társaság felé érvényesített tartósan hátrányos üzletpolitikájára figyelemmel – megállapítja a minősített befolyásszerző korlátlan és teljes felelősségét.”
