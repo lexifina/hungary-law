@@ -1,0 +1,1 @@
+35. § A 2011. december 31-én bányász dolgozók egészségkárosodási járadékában részesülő személy 2012. január 1-jétől az egyes bányászati dolgozók társadalombiztosítási kedvezményeiről szóló 23/1991. (II. 9.) Korm. rendelet alapján bányászok egészségkárosodási járadékára jogosult.

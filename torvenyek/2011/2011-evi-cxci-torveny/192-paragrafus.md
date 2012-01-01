@@ -1,1 +1,0 @@
-192. § A Kftv. 24. §-ának az Szt. 58/A. § (2a) bekezdését megállapító rendelkezése a „befogadást.” szövegrész helyett a „befogadást, valamint 2012. július 1-jétől a nem állami fenntartású házi segítségnyújtás – ide nem értve az egyházi fenntartású házi segítségnyújtást – esetében a 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszám.” szöveggel lép hatályba.
