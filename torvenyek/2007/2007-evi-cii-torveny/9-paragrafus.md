@@ -1,5 +1,0 @@
-9. § Az Szt. 15. §-a a következő (1) bekezdéssel egészül ki, az eredeti (1) bekezdése helyébe a következő (2) bekezdés lép, ezzel egyidejűleg az eredeti (2)–(6) bekezdések számozása (3)–(7) bekezdésekre változik:
-
-„(1) Az iskolai rendszerű szakképzés a szakképzési évfolyamra történő továbbhaladással, felvétellel, illetve átvétellel kezdődik.
-
-(2) Az iskolai rendszerű szakképzés az OKJ-ben meghatározott szakképesítés tekintetében a szakképesítésért felelős miniszter által meghatározott szakmai és vizsgakövetelmény, valamint a szakképesítés központi programja (tanterve) alapján szakmai elméleti és gyakorlati képzés keretében történik, illetve ajánlott szakképzési programja alapján szakmai elméleti és gyakorlati képzés keretében történhet. A központi program (tanterv), illetve ajánlott szakképzési program tartalmazza a tananyag elsajátítására rendelkezésre álló időkeretet, a szakképzési évfolyamokon, valamint az azok közötti, a szorgalmi idő befejezését követő összefüggő (nyári) szakmai gyakorlat (a továbbiakban: összefüggő szakmai gyakorlat) időtartamát.”
