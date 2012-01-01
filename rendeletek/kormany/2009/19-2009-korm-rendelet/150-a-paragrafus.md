@@ -1,5 +1,5 @@
-150/A. §[^261] (1) A tanúsítási eljárás lefolytatása iránti kérelemhez a 14. számú mellékletben meghatározott iratokat kell benyújtani.
+150/A. §[^435] (1) A tanúsítási eljárás lefolytatása iránti kérelemhez a 14. számú mellékletben meghatározott iratokat kell benyújtani.
 
 (2) A Hivatal a 14. számú melléklet I. d) és e) pontja alapján benyújtott dokumentumok jóváhagyásáról a tanúsítást követően a szállítási rendszerüzemeltetési működési engedély iránti kérelem elbírálásával egyidejűleg dönt.
 
-[^261]: A Vhr. 150/A. §-t a 75/2011. (V. 2.) Korm. rendelet 21. §-a iktatta be.
+[^435]: A Vhr. 150/A. §-t a 75/2011. (V. 2.) Korm. rendelet 21. §-a iktatta be.

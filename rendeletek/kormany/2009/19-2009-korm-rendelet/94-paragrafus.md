@@ -2,24 +2,22 @@
 
 ## Szolgáltatás szüneteltetése
 
-94. §[^168] (1) A földgázszállító a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról. Ennek érdekében jogosult objektumonként évente egy alkalommal legfeljebb 48 óra időtartamú, gázszünettel járó karbantartást végezni a gázátadó állomásokon és betáplálási pontokon, ha a leállásokat előre bejelentette.
+94. §[^289] (1) A szállítási rendszerüzemeltető a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról. Ennek érdekében jogosult évente egy alkalommal legfeljebb 48 óra időtartamú, gázszünettel járó karbantartást végezni a gázátadó állomásokon és betáplálási pontokon.
 
-(2) A rendszerüzemeltető – az (5) bekezdés kivételével – a gázszünettel járó karbantartások időpontját és a közvetlen távvezetéki felhasználó vagy az őt ellátó földgázkereskedő a tervezett leállások időpontját a következő évre vonatkozóan – a GET 78. § (2) bekezdése szerinti határidő figyelembevételével – minden év december 15-ig bejelenti a földgázszállító részére. A földgázszállító az általa üzemeltetett szállítóvezeték karbantartási ütemtervének elkészítésekor a tervezett leállások időpontját figyelembe veszi.
+(2) A rendszerüzemeltető – az (5) bekezdés kivételével – a gázszünettel járó karbantartások időpontját és a tervezett leállások időpontját a következő évre vonatkozóan – a GET 78. § (2) bekezdése szerinti határidő figyelembevételével – minden év december 15-ig bejelenti a kapcsolódó szállítási rendszerüzemeltető részére. A bejelentés részletes szabályait az ÜKSZ tartalmazza.
 
-(3) A földgázszállító évente köteles az általa üzemeltetett szállítóvezetékre a földgázelosztóval és a kapcsolódó rendszerüzemeltetővel előzetesen egyeztetett leállási terv figyelembevételével karbantartási tervet készíteni, amely a gázszállítási szünettel járó karbantartási munkákat tartalmazza.
+(3) A szállítási rendszerüzemeltető évente köteles az általa üzemeltetett szállítóvezetékre karbantartási tervet készíteni, amely a gázszállítási szünettel járó karbantartási munkákat tartalmazza. A szállítási rendszerüzemeltető az általa üzemeltetett szállítóvezeték karbantartási tervének elkészítésekor a (2) bekezdés szerint bejelentett tervezett karbantartások és leállások időpontját figyelembe veszi.
 
-(4) A földgázszállító a gázszünettel járó karbantartásokat az aktuális évre vonatkozóan minden év január 15-ig bejelenti a rendszerirányító részére. A földgázszállító által készített és a rendszerirányítónak leadott karbantartási terven – a (7) bekezdés kivételével – csak rendkívül indokolt esetben a rendszerirányító jóváhagyásával lehet változtatni.
+(4) A szállítási rendszerüzemeltető a gázszünettel járó karbantartásokat az aktuális évre vonatkozóan minden év január 15-ig a kapcsolódó rendszerüzemeltetők egyidejű értesítésével közzéteszi.
 
-(5) A földgázszállító jogosult a közzétett leállási időpontok megváltoztatására, de a változást és az új időpontot az érintett rendszerüzemeltetőkkel és a közvetlen távvezetéki felhasználókkal vagy az őket ellátó földgázkereskedőkkel egyeztetnie kell legalább 3 hónappal a leállás tervezett új időpontja előtt, hogy azok intézkedni tudjanak a gázszünet meghirdetéséről.
+(5) A szállítási rendszerüzemeltető jogosult a közzétett leállási időpontok megváltoztatására, de az új időpontot az érintett rendszerüzemeltetőkkel és a szállítóvezetékre közvetlenül csatlakozó felhasználókkal vagy az őket ellátó földgázkereskedőkkel legalább 3 hónappal a leállás tervezett új időpontja előtt egyeztetnie kell. A szállítási rendszerüzemeltető az új időpontot honlapján közzéteszi.
 
-(6) A földgázszállító a rendszerirányító jóváhagyását követően jogosult a közzétett leállási időpontokat 15 nappal a leállás tervezett időpontja előtt
+(6) A szállítási rendszerüzemeltető jogosult a közzétett leállási időtartamot 15 nappal a leállás tervezett időpontja előtt
 
-a) csökkenteni, ha a kapcsolódó rendszerüzemeltető nem tervezett a szállítóvezetéki leállás csökkentett időtartamánál hosszabb idejű karbantartási munkát,
+a) csökkenteni, ha a kapcsolódó rendszerüzemeltető a korábbi bejelentése alapján nem tervezett a csökkentett időtartamot meghaladó karbantartási munkát,
 
 b) törölni, ha a kapcsolódó rendszerüzemeltető nem tervezett a szállítóvezetéki leállási időtartamára karbantartási munkát.
 
-(7) A rendszerirányító összehangolja a földgázszállítók által leadott karbantartási ütemterveket, és február 15-ig elkészíti az együttműködő földgázrendszer éves karbantartási tervét, amelyet közzétesz az internetes honlapján.
+(7) A rendszerhasználó jogosult egyedi műszaki megoldás alkalmazását igényelni, amely lehetővé teszi a karbantartás gázszüneteltetés nélküli elvégzését, az ezzel kapcsolatos költségek a felhasználót terhelik.
 
-(8) Ha egy rendszerhasználó jogosult egyedi műszaki megoldás alkalmazását igényelve lehetővé kívánja tenni a karbantartás gázszüneteltetés nélküli elvégzését, a megoldás kiépítésének többletköltsége a hozzáférésre jogosultat terheli.
-
-[^168]: A Vhr. 94. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^289]: A Vhr. 94. §-a a 378/2011. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.

@@ -1,14 +1,10 @@
 ## Egyetemes szolgáltatási szabályzat
 
-## Általános rendelkezések
+## 1. Általános rendelkezések
 
-## 1. § Az Egyetemes Szolgáltatási Szabályzat (a továbbiakban: ESZSZ) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 132. § 12. és 13. pontjában foglalt felhatalmazás alapján, az egyetemes szolgáltatásra jogosult felhasználó és a részére a GET 35. §-ában meghatározott szolgáltatásokat nyújtó egyetemes szolgáltató közötti jogviszony részletes szabályait, valamint az egyetemes szolgáltató és a felhasználó között létrejövő egyetemes szolgáltatási szerződés kötelező tartalmi elemeit és formai követelményeit tartalmazza.
+## 1.1. Az egyetemes szolgáltatás során az egyetemes szolgáltató a gázellátáshoz szükséges földgázbeszerzést, földgáztárolást, földgázszállítást, földgázelosztást és egyetemes szolgáltatást biztosítja az egyetemes szolgáltatásra jogosult felhasználó részére. Ennek érdekében szerződést köt a gáz beszerzéséről, szállításáról és tárolásáról a megfelelő engedélyesekkel, az elosztás igénybevételéről a földgázelosztóval.
 
-## 2. § Az e szabályzat alkalmazására irányadó fogalmakat a GET, illetve a végrehajtására kiadott jogszabályok tartalmazzák azzal, hogy felhasználó alatt – kizárólag e szabályzat alkalmazása szempontjából – az egyetemes szolgáltatásra jogosult, azt igénybevevő, illetve azt igénybe venni kívánó felhasználót kell érteni.
-
-## 3. § (1) Az egyetemes szolgáltatás során az egyetemes szolgáltató a gázellátáshoz szükséges földgázbeszerzést, földgáztárolást, földgázszállítást, földgázelosztást és egyetemes szolgáltatást biztosítja az egyetemes szolgáltatásra jogosult felhasználó részére. Ennek érdekében szerződést köt a gáz beszerzéséről, szállításáról és tárolásáról a megfelelő engedélyesekkel, az elosztás igénybevételéről a földgázelosztóval.
-
-## (2) A felhasználók gázellátásának biztosítása érdekében az egyetemes szolgáltató az alábbi feladatokat köteles elvégezni:
+## 1.2. A felhasználók gázellátásának biztosítása érdekében az egyetemes szolgáltató az 1.1. pontban foglaltakon felül az alábbi feladatokat köteles elvégezni:
 
 ## a) egyetemes szolgáltatási szerződés megkötése,
 
@@ -22,191 +18,137 @@
 
 ## f) ügyfélszolgálati feladatok ellátása.
 
-## (3) Az egyetemes szolgáltató ügyfélszolgálatán a felhasználó kezdeményezheti az elosztói csatlakozási szerződés megkötését is.
+## 1.3. Az egyetemes szolgáltató ügyfélszolgálatán a felhasználó kezdeményezheti az elosztói csatlakozási szerződés és az elosztóhálózat-használati szerződés megkötését is.
 
-## Egyetemes szolgáltatásra vonatkozó szerződés megkötése iránti igény bejelentése
+## 2. Egyetemes szolgáltatásra vonatkozó ajánlatkérés és egyetemes szolgáltatói tájékoztatás
 
-## 4. § (1) A felhasználó, ha egyetemes szolgáltatást kíván igénybe venni, köteles az egyetemes szolgáltató üzletszabályzata szerinti formanyomtatványon felhasználói igénybejelentést tenni annál az egyetemes szolgáltatónál, amelynek a működési engedélyében meghatározott szolgáltatási területe az ellátni kívánt felhasználási helyet tartalmazza.
+## 2.1. A felhasználó, ha egyetemes szolgáltatást kíván igénybe venni, köteles az egyetemes szolgáltató üzletszabályzata szerinti formanyomtatványon ajánlatot kérni annál az egyetemes szolgáltatónál, amelynek a működési engedélyében meghatározott szolgáltatási területe az ellátni kívánt felhasználási helyet tartalmazza.
 
-## (2) Az igénybejelentésnek az egyetemes szolgáltató üzletszabályzatában meghatározott formanyomtatványát az egyetemes szolgáltató az állandó ügyfélszolgálati irodákban és az ügyfélszolgálati fiókirodában egyaránt köteles térítésmentesen hozzáférhetővé tenni, továbbá honlapján elektronikusan letölthető formátumban is közzétenni.
+## 2.2. Az ajánlatkérésben a felhasználónak nyilatkoznia kell arról, hogy kezdeményezi-e az elosztói csatlakozási és az elosztóhálózat-használati szerződés egyetemes szolgáltató mint megbízott által történő kezelését. A megbízás kezdeményezésével a felhasználó hozzájárul a hálózathasználati szerződés megkötéséhez szükséges személyes adatainak a földgázelosztó részére történő átadásához.
 
-## (3) A felhasználói igénybejelentés részletes szabályait az egyetemes szolgáltató üzletszabályzata tartalmazza.
+## 2.3. Az ajánlatkérésnek az egyetemes szolgáltató üzletszabályzatában meghatározott formanyomtatványát az egyetemes szolgáltató az ügyfélszolgálatán köteles térítésmentesen hozzáférhetővé tenni, továbbá honlapján elektronikusan letölthető formátumban is közzétenni.
 
-## (4) Az igénybejelentés kézhezvétele után az egyetemes szolgáltató a saját, illetve a földgázelosztó üzletszabályzatában meghatározottak szerint 8 munkanapon belül köteles a felhasználót az egyetemes szolgáltatásra vonatkozó jogviszony minden lényeges eleméről tájékoztatni és ennek részeként az egyetemes szolgáltatásra ajánlatot tenni. Abban az esetben, ha az igénybejelentés hiányos vagy ajánlat elkészítésére nem alkalmas, az egyetemes szolgáltató az igénybejelentés kézhezvételétől számított 8 napon belül köteles a felhasználót hiánypótlásra felhívni a hiányok pontos megjelölésével. Az ajánlattételre meghatározott fenti határidő a hiánypótlás kézhezvételétől számítandó.
+## 2.4. Az ajánlatkérés részletes szabályait az egyetemes szolgáltató üzletszabályzata tartalmazza.
 
-## (5) A tájékoztatásnak legalább az alábbiakat kell tartalmaznia:
+## 2.5. Az ajánlatkérés kézhezvétele után az egyetemes szolgáltató a saját, illetve a földgázelosztó üzletszabályzatában meghatározottak szerint 8 munkanapon belül köteles a felhasználót az egyetemes szolgáltatásra vonatkozó jogviszony minden lényeges eleméről tájékoztatni és ennek részeként az egyetemes szolgáltatásra ajánlatot tenni. Abban az esetben, ha az ajánlatkérés hiányos vagy ajánlat elkészítésére nem alkalmas, az egyetemes szolgáltató az ajánlatkérés kézhezvételétől számított 8 napon belül köteles a felhasználót hiánypótlásra felhívni a hiányok pontos megjelölésével. Az ajánlattételre meghatározott fenti határidő a hiánypótlás kézhezvételétől számítandó.
 
-## a) a tájékoztató hivatkozásra alkalmas azonosító számát,
+## 2.6. Ha a felhasználó az ajánlatkérésben az elosztói csatlakozási és az elosztóhálózat-használati szerződés megbízottként történő kezelését nem kéri, a tájékoztatásnak legalább az alábbiakat kell tartalmaznia:
+
+## a) a tájékoztató egyedi azonosító számát,
 
 ## b) azt az időpontot, amelytől kezdődően a közölt feltételek teljesítése esetén az egyetemes szolgáltatás megkezdhető,
 
-## c) az egyetemes szolgáltatás keretében nyújtott szolgáltatások külön jogszabályban, illetve az egyetemes szolgáltató üzletszabályzatban meghatározott árát,
+## c) az egyetemes szolgáltatás keretében nyújtott szolgáltatások külön jogszabály szerint meghatározott árát,
 
-## d) az egyetemes szolgáltatónak a tájékoztatóban foglalt ajánlati kötöttségét és annak időtartamát,
+## d) az egyetemes szolgáltatónak a tájékoztatóban foglalt ajánlati kötöttségét és annak időtartamát, és
 
-## e) az egyetemes szolgáltatásra vonatkozó ajánlatot.
+## e) az egyetemes szolgáltatás keretében nyújtott szolgáltatásokra vonatkozó teljes körű ajánlatot, valamint az egyetemes szolgáltatási szerződéstervezet egyetemes szolgáltató által aláírt példányait.
 
-## (6) Az igénybejelentés megtételével a felhasználó hozzájárul a szerződés teljesítéséhez szükséges személyes adatainak a földgázelosztó részére történő átadásához.
+## 2.7. Ha az ajánlatkérés tartalmazza a felhasználó a 2.2. pont szerinti megbízásra vonatkozó kezdeményezését, a tájékoztatóhoz mellékelni kell az egyetemes szolgáltató által aláírt megbízási szerződés példányait.
 
-## (7)[^298] A felhasználói igénybejelentés intézése során az egyetemes szolgáltató és a felhasználási helyre hatályos működési engedéllyel rendelkező elosztó hálózati engedélyes köteles együttműködni. Ennek keretében kötelesek a felhasználó bekapcsolásához és a szolgáltatás megkezdéséhez szükséges információkat egymásnak átadni.
+## 2.8. Az ajánlattétel során az egyetemes szolgáltató és a felhasználási helyre hatályos működési engedéllyel rendelkező földgázelosztó köteles együttműködni. Ennek keretében kötelesek a felhasználó bekapcsolásához és a szolgáltatás megkezdéséhez szükséges információkat egymásnak átadni.
 
-## (8) Az egyetemes szolgáltatási szerződés alapján a felhasználó részére a rendszerirányítási, földgázszállítási, -tárolási és -elosztási szolgáltatásokat biztosítottnak kell tekinteni.
+## 2.9. Az egyetemes szolgáltatási szerződés alapján a felhasználó részére a rendszerirányítási, földgázszállítási, -tárolási és -elosztási szolgáltatásokat biztosítottnak kell tekinteni.
 
-## (9) Nem köteles az e paragrafus szerinti új igénybejelentést tenni az az egyetemes szolgáltatásra jogosult felhasználó, aki a jelen szabályzat hatálybalépésekor a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szerződés alapján vételez. E felhasználókat az egyetemes szolgáltató az egyetemes szolgáltatás igénybevételének feltételeiről a GET-ben és a jelen kormányrendeletben meghatározott tartalommal és határidővel, az üzletszabályzata szerinti módon köteles tájékoztatni.
+## 2.10. Nem köteles a 2.1. pont szerinti új ajánlatot kérni az az egyetemes szolgáltatásra jogosult felhasználó, aki e szabályzat hatálybalépésekor a GET szerinti közüzemi szerződés alapján vételez. E felhasználókat az egyetemes szolgáltató az egyetemes szolgáltatás igénybevételének feltételeiről az üzletszabályzata szerinti módon és tartalommal köteles tájékoztatni.
 
-## Az egyetemes szolgáltatásra vonatkozó szerződés előkészítése, létrejötte, tartalma
+## 3. Az egyetemes szolgáltatásra vonatkozó szerződés előkészítése, létrejötte, tartalma
 
-## 5. § Ha a felhasználó az egyetemes szolgáltató tájékoztatójában foglalt ajánlatot elfogadja és – az egyetemes szolgáltató által vállalt ajánlati kötöttség időtartama alatt – a megküldött egyetemes szolgáltatási szerződéstervezetet véleményeltérés nélkül az egyetemes szolgáltatónak a keltezés feltüntetésével aláírva visszaküldi, az egyetemes szolgáltatási szerződés az engedélyes által történő kézhezvételének napján jön létre.
+## 3.1. Ha a felhasználó az egyetemes szolgáltató tájékoztatójában foglalt ajánlatot elfogadja és – az egyetemes szolgáltató által vállalt ajánlati kötöttség időtartama alatt – a megküldött egyetemes szolgáltatási szerződéstervezetet az egyetemes szolgáltatónak a keltezés feltüntetésével aláírva visszaküldi, az egyetemes szolgáltatási szerződés az engedélyes által történő kézhezvételének napján jön létre.
 
-## 6. § (1) Az egyetemes szolgáltatási szerződésnek a GET 36. § (1) bekezdésében foglaltakon túl tartalmaznia kell:
+## 3.2. Az egyetemes szolgáltatási szerződés hatálybalépésének feltétele a felhasználási hely elosztóhálózathoz való csatlakozásának, valamint az, hogy a felhasználó érvényes elosztóhálózat-használati szerződéssel rendelkezzen.
 
-## a) annak a földgázelosztónak a megnevezését, székhelyét, amelynek rendszeréhez a felhasználó közvetve vagy közvetlenül csatlakozik,
+## 3.3. Eltérő megállapodás hiányában minden felhasználási helyre külön egyetemes szolgáltatási szerződést kell kötni.
 
-## b) arra vonatkozó megbízás, hogy az egyetemes szolgáltató a rendszerüzemeltetőkkel a szükséges szerződéseket megkösse,
+## 4. A felhasználó felhasználási helyében, valamint a részére földgázt értékesítő engedélyes személyében beállt változás
 
-## c) az egyetemes szolgáltató és az adott területre működési engedéllyel rendelkező földgázelosztó ügyfélszolgálati irodájának elérhetőségét,
+## A felhasználó az egyetemes szolgáltatási szerződés felmondásával egyidejűleg az elosztóhálózat-használati szerződését is köteles megszüntetni. Amennyiben az egyetemes szolgáltató a felhasználó elosztóhálózat-használati szerződését megbízottként kezeli, úgy az elosztóhálózat-használati szerződés megszüntetésére a felhasználó az egyetemes szolgáltatónak köteles megbízást adni. E rendelkezéseket nem kell alkalmazni, ha az egyetemes szolgáltatási szerződés felmondására kereskedőváltás miatt kerül sor.
 
-## d) a felhasználási hely (helyek) és a csatlakozási pont (pontok) megjelölését,
+## 5. A felek kötelezettségei
 
-## e) a szolgáltatott földgáz minőségi jellemzőit,
+## 5.1. Az egyetemes szolgáltató köteles gondoskodni arról, hogy a felhasználó igénye szerinti földgázmennyiség általa beszerzésre kerüljön, az a felhasználó rendelkezésére álljon, annak elszámolása az egyetemes szolgáltatási szerződés szerinti időszakonként elszámolásra kerüljön, köteles továbbá a földgázigény kielégítéséhez kapcsolódó egyéb szolgáltatások biztosítására.
 
-## f) a szerződött kapacitás mértékét,
+## 5.2. A felhasználó a földgázfogyasztásának megfelelő, a felhasználási helyre kötött egyetemes szolgáltatási szerződés szerinti díjat köteles fizetni.
 
-## g) a szerződött szolgáltatásért fizetendő díj meghatározásának módját,
+## 6. Elszámolás
 
-## h) a leolvasási, az elszámolási és a számlázási időszakokat,
+## 6.1. Az elszámolási időszakra az egyetemes szolgáltató által a felhasználónak értékesített földgáz mennyiségét az egyetemes szolgáltató a felhasználási hely mérésére szolgáló fogyasztásmérő berendezés földgázelosztó általi leolvasásából (adatrögzítéséből) vagy a felhasználó saját közlése alapján állapítja meg.
 
-## i) a számlázás és a számla kiegyenlítésének módját, feltételeit.
+## 6.2. Éves elszámolás szerint kötött egyetemes szolgáltatási szerződés esetén az elszámoló számla csak a földgázelosztó által ténylegesen leolvasott – távlehívható mérő esetén ténylegesen rögzített – és a számlán feltüntetett fogyasztásmérő-adatok alapján készülhet.
 
-## (2) Az egyetemes szolgáltató mintaszerződését, amely magába foglalja az általános szerződési feltételeket, az egyetemes szolgáltató üzletszabályzata tartalmazza.
+## 6.3. Az elszámolás alapja a szolgáltatott gáz fűtőértéke, valamint a fogyasztásmérő berendezésen leolvasott érték, amelyet a földgázelosztó gáztechnikai normál m3-re számít át. A gáztechnikai normál m3-re átszámítás szabályait a földgázelosztó üzletszabályzatában kell meghatározni.
 
-## 7. § Eltérő megállapodás hiányában minden felhasználási helyre külön egyetemes szolgáltatási szerződést kell kötni.
+## 6.4. Az egyetemes szolgáltatás árának változása esetén a felhasználó jogosult a fogyasztásmérő berendezés aktuális állását az egyetemes szolgáltatóval közölni. Ebben az esetben az egyetemes szolgáltató köteles az árváltozás időpontjával a közölt adatot az árváltozás időpontját magában foglaló elszámolásban figyelembe venni. Ha a felhasználó adatot az egyetemes szolgáltató által megjelölt határidőn belül nem közöl, az egyetemes szolgáltató a felhasználást jogosult a 13. számú mellékletben vagy az üzletszabályzatában foglalt jelleggörbe szerint megosztani és a megosztás szerint elszámolni a felhasználóval.
 
-## Változás a felek személyében
+## 6.5. Az elszámolási időszak időtartamában a felek az egyetemes szolgáltatási szerződésben állapodnak meg. Erre vonatkozó eltérő megállapodás hiányában az elszámolási időszak megegyezik a leolvasási időszakkal.
 
-## 8. §[^299]
+## 6.6. Ha az elszámolási időszak egy hónapnál hosszabb, az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámla kibocsátására jogosult. A részszámla a felhasználási helyre becsléssel megállapított mennyiség alapján, vagy a felek megállapodása esetén a felhasználó havonként történő közlése alapján kerül kiállításra.
 
-## Felek kötelezettségei
+## 6.7. Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát kibocsátani és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, mely magában foglalja a tételes pénzügyi elszámolást is.
 
-## 9. § (1) Az egyetemes szolgáltató köteles gondoskodni arról, hogy a felhasználó igénye szerinti földgázmennyiség általa beszerzésre kerüljön, az a felhasználó rendelkezésére álljon, annak elszámolása az egyetemes szolgáltatási szerződés szerinti időszakonként elszámolásra kerüljön, köteles továbbá a földgázigény kielégítéséhez kapcsolódó egyéb szolgáltatások biztosítására.
-
-## (2) A felhasználó a földgázfogyasztásának megfelelő, a felhasználási helyre kötött egyetemes szolgáltatási szerződés szerinti díjat köteles fizetni.
-
-## (3) A felhasználó köteles a felhasználási helyen belüli gázszivárgás, gázömlés esetén a veszély elhárítása érdekében a tőle elvárható intézkedéseket (pl. szellőztetés, gázcsapok lezárása, tűzgyújtás és villamos berendezés bekapcsolásának mellőzése, szikraképződés megakadályozása, a veszélyeztetett környezet tájékoztatása) megtenni.
-
-## (4) A felhasználó köteles elvégeztetni a csatlakozóvezeték és a felhasználói berendezés műszaki biztonsági felülvizsgálatát. A felülvizsgálatra vonatkozó részletes előírásokat külön jogszabály tartalmazza.
-
-## (5) Üzemzavar vagy forráshiány miatti fogyasztáskorlátozás esetén a felhasználó köteles a korlátozási sorrend szerinti vételezés végrehajtására.
-
-## Elszámolás
-
-## 10. § (1) Az elszámolási időszakra az egyetemes szolgáltató által a felhasználónak értékesített földgáz mennyiségét az egyetemes szolgáltató a felhasználási hely mérésére szolgáló gázmérő földgázelosztó általi leolvasásából (adatrögzítéséből) vagy a felhasználó saját közlése alapján állapítja meg.
-
-## (2) Éves elszámolás szerint kötött egyetemes szolgáltatási szerződés esetén az éves elszámoló számla csak a földgázelosztó által ténylegesen leolvasott és a számlán feltüntetett fogyasztásmérő-adatok alapján készülhet.
-
-## (3) Az elszámolás alapja a szolgáltatott gáz fűtőértéke, valamint a gázmérőn leolvasott érték, amelyet a földgázelosztó gáztechnikai normál m3-re számít át. A gáztechnikai normál m3-re átszámítás szabályait a földgázelosztó üzletszabályzatában kell meghatározni.
-
-## (4) Az egyetemes szolgáltatás díjtételeit az egyetemes szolgáltató üzletszabályzata tartalmazza a külön jogszabályokban, ármegállapításokban, egyéb előírásokban foglaltakkal összhangban.
-
-## (5)[^300] Az egyetemes szolgáltatás árának változása esetén a felhasználó jogosult a gázmérő aktuális állását az egyetemes szolgáltatóval közölni. Ebben az esetben az egyetemes szolgáltató köteles az árváltozás időpontjával a közölt adatot az árváltozás időpontját magában foglaló elszámolásban figyelembe venni. Ha a felhasználó adatot az egyetemes szolgáltató által megjelölt határidőn belül nem közöl, az egyetemes szolgáltató a felhasználást jogosult a 13. számú mellékletben vagy az üzletszabályzatában foglalt jelleggörbe szerint megosztani és a megosztás szerint elszámolni a felhasználóval.
-
-## (6) Az elszámolási és számlázási időszak időtartamában a felek az egyetemes szolgáltatási szerződésben állapodnak meg. Erre vonatkozó eltérő megállapodás hiányában az elszámolási időszak megegyezik a leolvasási időszakkal.
-
-## (7) Ha az elszámolási időszak egy hónapnál hosszabb, az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámla kibocsátására jogosult.
-
-## (8) Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát kibocsátani és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, mely magában foglalja a tételes pénzügyi elszámolást is. Ennek részletes szabályait az egyetemes szolgáltató üzletszabályzata tartalmazza.
-
-## (9) Ha az elszámolás eredményeként a felhasználó folyószámláján túlfizetés mutatkozik, akkor az egyetemes szolgáltató
+## 6.8. Ha az elszámolás eredményeként a felhasználó folyószámláján túlfizetés mutatkozik, akkor az egyetemes szolgáltató
 
 ## a) 1000 forintot meg nem haladó összeg esetén a felhasználót megillető összeget a felhasználó következő számlájában számolja el,
 
-## b) 1000 forintot meghaladó összeg esetén a felhasználó fizetési módja szerinti módon az elszámoló számla kibocsátásától számított 8 napon belül köteles azt a felhasználónak, illetve a számla fizetőjének visszafizetni.
+## b) 1000 forintot meghaladó összeg esetén a felhasználó fizetési módja szerinti módon az elszámoló számla kibocsátásától számított 8 napon belül köteles azt a felhasználónak visszafizetni.
 
-## (10) A (9) bekezdésben foglalt rendelkezésektől csak a felhasználó kérésére lehet eltérni.
+## 6.9. A 6.8. pontban foglalt rendelkezésektől csak a felhasználó kérésére lehet eltérni.
 
-## (11) Az egyetemes szolgáltatási szerződés megszűnésekor keletkező visszafizetendő összeget az egyetemes szolgáltató köteles az elszámolást követő 8 napon belül visszafizetni a felhasználónak vagy a számla fizetőjének.
+## 6.10. Az egyetemes szolgáltatási szerződés megszűnésekor keletkező visszafizetendő összeget az egyetemes szolgáltató köteles az elszámolást követő 8 napon belül visszafizetni a felhasználónak.
 
-## (12) Ha az egyetemes szolgáltató és a felhasználó az egyetemes szolgáltatási szerződésben fizetési határidőben nem állapodtak meg, akkor a felhasználó vagy a számla kiegyenlítését vállaló fizető köteles a számlában feltüntetett díjat a számlán feltüntetett fizetési határidő napjáig kifizetni.
+## 6.11. Ha az egyetemes szolgáltató és a felhasználó az egyetemes szolgáltatási szerződésben fizetési határidőben nem állapodtak meg, akkor a felhasználó köteles a számlában feltüntetett díjat a számlán feltüntetett fizetési határidő napjáig kifizetni.
 
-## (13) Az egyetemes szolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak a kézhezvételtől számított legalább 8 nap rendelkezésére álljon.
+## 6.12. A fizető és a felhasználó – a felek megállapodásától függően – tartósan vagy időlegesen is eltérő lehet, az egyetemes szolgáltatóval szemben azonban felelősségük egyetemleges. A fizetési megállapodásban vállalt kötelezettségek elmulasztása esetén a megállapodásban meghatározott felhasználási helyen (helyeken) megszüntethető a földgázellátás.
 
-## (14) Az elszámolás és fizetés további részletes szabályait az egyetemes szolgáltató üzletszabályzata tartalmazza.
+## 6.13. Az egyetemes szolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak a kézhezvételtől számított legalább 8 nap rendelkezésére álljon.
 
-## (15) A fizető és a felhasználó – a felek megállapodásától függően – tartósan vagy időlegesen is eltérő lehet, az egyetemes szolgáltatóval szemben azonban felelősségük egyetemleges. A fizetési megállapodásban vállalt kötelezettségek elmulasztása esetén a megállapodásban meghatározott felhasználási helyen (helyeken) megszüntethető a földgázellátás.
+## 6.14. Az egyetemes szolgáltató a felhasználó kérésére a részszámlát, valamint az elszámoló számlát elektronikus úton bocsátja ki.
 
-## (16)[^301] Ha a felhasználó a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől számított második naptól alkalmazhatók.
+## 6.15. A végszámlát – ha a szerződés ettől eltérően nem rendelkezik – nyomtatott formában kell a felhasználó rendelkezésére bocsátani.
 
-## (17)[^302] Az egyetemes szolgáltató a felhasználó kérésére a részszámlát, valamint az elszámoló számlát elektronikus úton bocsátja ki.
+## 7. Kifogás
 
-## Kifogás
+## 7.1. A felhasználó a számla ellen az egyetemes szolgáltatónál kifogást emelhet. A kifogás bejelentésének a számla kifizetésére csak akkor van halasztó hatálya, ha a számlán elszámolt földgázmennyiség az előző év azonos időszakára vetített mennyiség 150%-át meghaladja. Azonos időszak alatt egyforma elszámolási időszak értendő. Ha az elszámolási időszak mértékében változás következik be, az azonos időszakra vetített mennyiséget a 13. számú mellékletben vagy az egyetemes szolgáltató üzletszabályzatában meghatározott jelleggörbe szerinti megosztással kell kiszámítani.
 
-## 11. § (1)[^303] A felhasználó a számla ellen az egyetemes szolgáltatónál kifogást emelhet. A kifogás bejelentésének a számla kifizetésére csak akkor van halasztó hatálya, ha a számlán elszámolt földgázmennyiség az előző év azonos időszakára vetített mennyiség 150%-át meghaladja. Azonos időszak alatt egyforma elszámolási időszak értendő. Ha az elszámolási időszak mértékében változás következik be, az azonos időszakra vetített mennyiséget a 13. számú mellékletben vagy az egyetemes szolgáltató üzletszabályzatában meghatározott jelleggörbe szerinti megosztással kell kiszámítani.
+## 7.2. Az egyetemes szolgáltató köteles a kifogást megvizsgálni és ennek eredményéről a felhasználót legkésőbb a kifogás kézhezvételétől számított 15 napon belül írásban értesíteni.
 
-## (2) Az egyetemes szolgáltató köteles a kifogást megvizsgálni és ennek eredményéről a felhasználót legkésőbb a kifogás kézhezvételétől számított 15 napon belül írásban értesíteni.
+## 7.3. Ha a felhasználót a vizsgálat eredménye szerint visszatérítés illeti meg, annak elintézésére a 6.8. pontban foglaltakat kell alkalmazni.
 
-## (3) Ha a felhasználót a vizsgálat eredménye szerint visszatérítés illeti meg, annak elintézésére a 10. § (9) bekezdését kell alkalmazni.
+## 7.4. Ha a téves vagy elmaradt elszámolás miatt az egyetemes szolgáltatót díj vagy díjkülönbözet illeti meg, a felhasználó azt a téves vagy elmaradt számlázás időtartamával azonos időn belül, egyenlő részletekben jogosult kiegyenlíteni. Ez esetben késedelmi kamat nem számítható fel. E rendelkezés nem mentesíti az egyetemes szolgáltatót a szerződésszegés egyéb jogkövetkezményei alól. E bekezdés szerinti részletfizetések késedelme esetén a GET 29. § (3) bekezdése szerint kell eljárni.
 
-## (4) Ha a téves vagy elmaradt elszámolás miatt az egyetemes szolgáltatót díj vagy díjkülönbözet illeti meg, a felhasználó azt a téves vagy elmaradt számlázás időtartamával azonos időn belül, egyenlő részletekben jogosult kiegyenlíteni. Ez esetben késedelmi kamat nem számítható fel. E rendelkezés nem mentesíti az egyetemes szolgáltatót a szerződésszegés egyéb jogkövetkezményei alól. E bekezdés szerinti részletfizetések késedelme esetén a GET 29. § (3) bekezdése szerint kell eljárni.
+## 7.5. A 6.8. pontban és a 7.4. pontban előírtakon túli teljesítés késedelmes fizetésnek minősül. Késedelmes fizetés esetén a késedelembe eső fél köteles a szerződésben és a jogszabályokban meghatározott mértékű kamatot, valamint a másik fél igazolt költségeit megfizetni.
 
-## (5) A 10. § (9) bekezdésben és a (4) bekezdésben előírtakon túli teljesítés késedelmes fizetésnek minősül. Késedelmes fizetés esetén a késedelembe eső fél köteles a szerződésben és a jogszabályokban meghatározott mértékű kamatot, valamint a másik fél igazolt költségeit megfizetni.
+## 8. A szerződésszegés esetei
 
-## A szerződésszegés esetei
+## 8.1. Az egyetemes szolgáltató szerződésszegésének – a GET-ben szabályozottakon túl – esetei:
 
-## 12. § Az egyetemes szolgáltató szerződésszegésének – a GET 38. § (1) bekezdésében szabályozottakon túl – esetei:
+## a) a Hivatal garantált szolgáltatásra vonatkozó határozatában előírtakat nem vagy nem megfelelően nyújtja,
 
-## 1. az ESZSZ 8. § (5) bekezdésében meghatározott felhívási kötelezettségének 2 napon belül nem tesz eleget,
+## b) a szolgáltatás minőségi követelményeit megsérti,
 
-## 2. az általa garantált szolgáltatásokat nem, vagy nem megfelelően nyújtja a Hivatal garantált szolgáltatásra vonatkozó határozata, illetve az üzletszabályzat szerint,
+## c) védendő fogyasztóval kapcsolatos feladatát nem látja el, vagy
 
-## 3. a felhasználóval szembeni nyilvántartási, számlázási kötelezettségeit elmulasztja, különösen:
+## d) az üzletszabályzatában vagy a szerződésben foglalt kötelezettségeit egyéb módon megszegi.
 
-## a) a felhasználási hellyel, a felhasználó vagy fizető személyével kapcsolatos, a szerződésből eredő jogok gyakorlásához, kötelezettségek teljesítéséhez szükséges adatok megváltozásának bejelentést követően a nyilvántartási rendszerben történő késedelmes – 15 napon túli – átvezehtése vagy az átvezetés elmulasztása,
+## 8.2. A 8.1. pont b) pontja szerinti szerződésszegésnek minősül, ha az egyetemes szolgáltató
 
-## b) számlázás normál üzemvitel mellett nem a szerződésben, jogszabályban, üzletszabályzatban foglalt gyakorisággal és időpontban történik,
+## a) a felhasználási hellyel vagy a felhasználó személyével kapcsolatos, a szerződésből eredő jogok gyakorlásához, valamint kötelezettségek teljesítéséhez szükséges adatot megváltozásának bejelentését követően a nyilvántartási rendszerben 15 napot meghaladóan vezeti át, vagy az átvezetést elmulasztja, vagy
 
-## 4. a védendő fogyasztókkal kapcsolatos feladatokat nem látja el,
+## b) a számlázással kapcsolatos kötelezettségeit normál üzemvitel mellett megsérti.
 
-## 5. a fentieken kívül az üzletszabályzatban, jogszabályban foglalt szerződési feltételeket egyéb módon megsérti.
+## 8.3. A felhasználó szerződésszegésének esetei:
 
-## 13. § (1) A felhasználó szerződésszegésének esetei:
+## a) az egyetemes szolgáltatás díját nem, vagy nem a szerződésben meghatározott határidőben fizeti meg, vagy
 
-## 1. az egyetemes szolgáltatás díját – beleértve az egyetemes szolgáltatón keresztül megfizetett rendszerhasználati díjat is – nem, vagy nem a szerződésben meghatározott határidőben fizeti meg,
+## b) a fentieken kívül az üzletszabályzatban vagy a szerződésben foglalt kötelezettségét egyéb módon megszegi.
 
-## 2.[^304]
+## 8.4. A szerződésszegések jogkövetkezményei alkalmazásának részletes szabályait – a 8.5. pontban foglalt kivétellel – az egyetemes szolgáltató üzletszabályzata tartalmazza.
 
-## 3. a felhasználó a műszaki-biztonsági követelményeknek nem megfelelő csatlakozóvezetéket, felhasználói berendezést használ, vagy azokat az életre, a testi épségre, az egészségre vagy a vagyonbiztonságra veszélyes módon használja,
+## 8.5. A GET 29. § (5) bekezdésében meghatározott kötelezettség megszegése esetén az egyetemes szolgáltató kötbért köteles fizetni a felhasználónak, amelynek mértéke a külön díj ellenében végezhető szolgáltatásokról szóló rendeletben meghatározott, a felhasználónak a földgázellátásból való jogszerű kizárása (kikapcsolása) utáni visszakapcsolásáért kért külön díj
 
-## 4.[^305] a fogyasztói vezetéket engedély nélkül átalakítja, továbbá a felhasználó vagy a megbízásából eljáró, gázszerelőnek nem minősülő személy a fogyasztói vezetéket megbontja,
+## a) 50%-a, ha az egyetemes szolgáltató érdekkörében felmerült okból a visszakapcsolásra a felhasználó tartozásának rendezését követő 48 óránál később, de 72 órán belül kerül sor,
 
-## 5. a felhasználó az egyetemes szolgáltatási szerződésben megállapított lényeges kötelezettségének az egyetemes szolgáltató írásbeli felszólítása ellenére nem tett eleget, különösen, ha
-
-## a) a nyomásszabályozó vagy a gázmérő ellenőrzését, illetve a mérő leolvasását a földgázelosztó vagy megbízottja részére nem teszi lehetővé,
-
-## b)[^306]
-
-## 6. a szerződésben meghatározott gázteljesítményt egy adott átadás-átvételi pont vonatkozásában túllépi,
-
-## 7. szabálytalanul vételez,
-
-## 8. a fentieken kívül az üzletszabályzatban, jogszabályban foglalt szerződési feltételeket egyéb módon megsérti.
-
-## (2) A szerződésszegésre egyebekben a GET és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény általános szabályai, valamint az egyetemes szolgáltató üzletszabályzatában foglalt előírások az irányadók.
-
-## 14. § (1)[^307] Szabálytalan vételezésnek minősül különösen, ha a felhasználó a Gázelosztási Szabályzat 47. § (1) bekezdése szerinti magatartások valamelyikét tanúsítja.
-
-## (2)[^308] A plomba sérülésére az egyetemes szolgáltató csak abban az esetben hivatkozhat, ha azokat a felhasználó dokumentáltan, azonosítható módon, sérülésmentes állapotban vette át az engedélyestől. A plombák számára, azonosítójára és sérülésmentes külsejére vonatkozóan a felhasználót írásban tájékoztatni kell.
-
-## (3) Ha a szerződésszegés időtartama egyértelműen nem állapítható meg, akkor a szerződésszegés időtartamaként 30 napot kell figyelembe venni.
-
-## (4)[^309] A 12–14. §-ban meghatározott szerződésszegések jogkövetkezményei alkalmazásának részletes szabályait – az (5)–(6) bekezdésekben foglalt kivétellel – az egyetemes szolgáltató üzletszabályzata tartalmazza.
-
-## (5)[^310] A GET 38. §-ának (1) bekezdés f) pontjában meghatározott szerződésszegés esetén az egyetemes szolgáltató kötbért köteles fizetni a felhasználónak, amelynek mértéke a földgáz elosztói és egyetemes szolgáltatói engedélyesek vagy megbízottaik által fogyasztói igény alapján, külön díj ellenében végezhető szolgáltatások kizárólagos körének meghatározásáról szóló rendeletben meghatározott, a felhasználónak a földgázellátásból való jogszerű kizárása (kikapcsolása) utáni visszakapcsolásáért kért külön díj
-
-## a) 50%-a, amennyiben az elosztói engedélyes vagy az egyetemes szolgáltatói engedélyes érdekkörében felmerült okból a visszakapcsolásra a fogyasztó tartozásának rendezését követő 48 óránál később, de 72 órán belül kerül sor,
-
-## b) 100%-a, amennyiben az elosztói engedélyes vagy az egyetemes szolgáltatói engedélyes érdekkörében felmerült okból a visszakapcsolásra a fogyasztó tartozásának rendezését követő 72 óránál később kerül sor.
-
-## (6)[^311] Amennyiben a tartozás rendezését követő visszakapcsolásra vonatkozó jogszabályi határidők elmulasztása a földgázelosztó érdekkörében felmerült okból történt, az egyetemes szolgáltató a felhasználónak kifizetett kötbért a földgázelosztótól követelheti.
+## b) 100%-a, ha az egyetemes szolgáltató érdekkörében felmerült okból a visszakapcsolásra a felhasználó tartozásának rendezését követő 72 óránál később kerül sor.
 
 3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez
 
@@ -220,7 +162,7 @@ a) az együttműködő földgázrendszer szereplői,
 
 b) együttműködési szerződések, az engedélyesek és a hozzáférésre jogosultak közötti együttműködés rendje,
 
-c) a rendszerirányító és a külföldi rendszerirányító kapcsolatai.
+c)[^484] a szállítási rendszerirányító és a külföldi rendszerirányító kapcsolatai.
 
 2. Az együttműködő földgázrendszer részletes leírása:
 
@@ -280,7 +222,7 @@ h) a nominálás, nominálási eljárás, felosztás rendjét, elszámolások re
 
 10. A rendszerirányítás működésére vonatkozó rendelkezések keretében részletesen kell szabályozni:
 
-a) a más földgázszállítókkal, földgázelosztói és földgáztárolói rendszerüzemeltetőkkel történő együttműködés rendjét,
+a)[^485] a más szállítási rendszerüzemeltetőkkel, földgázelosztói és földgáztárolói rendszerüzemeltetőkkel történő együttműködés rendjét,
 
 b) a rendszeregyensúlyhoz szükséges tartalék-szállító, elosztó és tároló kapacitások meghatározását,
 
@@ -296,7 +238,7 @@ b) a kapacitáslekötés időtartama.
 
 12. A kiegyensúlyozáshoz szükséges földgázforrás megtervezése, igénybevételi rendje, opciós források felhasználása, az elszámolások szabályai.
 
-13. A rendszerirányító által a kiegyenlítő földgáz beszerzésének rendje.
+13.[^486] A szállítási rendszerüzemeltető által a kiegyenlítő földgáz beszerzésének rendje.
 
 14. Rendszerszintű szolgáltatások:
 
@@ -304,7 +246,7 @@ a) az informatikai platform működtetésének és használatának szabályai, a
 
 b) nominálási szabályok,
 
-c) a rendszerirányító intézkedései a rendszeregyensúly érdekében,
+c)[^487] a szállítási rendszerüzemeltető intézkedései a rendszeregyensúly érdekében,
 
 d) másodlagos kapacitás-kereskedelem nyilvántartása,
 
@@ -324,17 +266,7 @@ d) külső-belső elszámolások.
 
 16. A szervezett földgázpiac működtetésére vonatkozó jogszabályok alkalmazásának részletei.
 
-[^298]: A Vhr. 2. számú melléklet 4. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^299]: A Vhr. 2. számú melléklet 8. §-t a 100/2011. (VI. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
-[^300]: A Vhr. 2. számú melléklet 10. § (5) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
-[^301]: A Vhr. 2. számú melléklet 10. § (16) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdése iktatta be.
-[^302]: A Vhr. 2. számú melléklet 10. § (17) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 25. § (3) bekezdése iktatta be.
-[^303]: A Vhr. 2. számú melléklet 11. § (1) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^304]: A Vhr. 2. számú melléklet 13. § (1) bekezdés 2. pontját a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
-[^305]: A Vhr. 2. számú melléklet 13. § (1) bekezdés 4. pontja a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^306]: A Vhr. 2. számú melléklet 13. § (1) bekezdés 5. pont a) alpontját a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
-[^307]: A Vhr. 2. számú melléklet 14. § (1) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^308]: A Vhr. 2. számú melléklet 14. § (2) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^309]: A Vhr. 2. számú melléklet 14. § (4) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^310]: A Vhr. 2. számú melléklet 14. § (5) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdése iktatta be.
-[^311]: A Vhr. 2. számú melléklet 14. § (6) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^484]: A Vhr. 3. számú melléklet 1. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^485]: A Vhr. 3. számú melléklet 10. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^486]: A Vhr. 3. számú melléklet 13. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^487]: A Vhr. 3. számú melléklet 14. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.

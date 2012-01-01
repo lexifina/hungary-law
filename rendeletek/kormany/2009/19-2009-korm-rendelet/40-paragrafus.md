@@ -2,7 +2,7 @@
 
 ## Egyablakos kapacitásértékesítés
 
-40. §[^83] (1) Az egyablakos kapacitásértékesítésre vonatkozó működési engedélyt kérelmezőnek rendelkeznie kell:
+40. §[^126] (1) Az egyablakos kapacitásértékesítésre vonatkozó működési engedélyt kérelmezőnek rendelkeznie kell:
 
 a) 3 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza a földgáz kapacitásértékesítő tevékenységet a hozzá kapcsolódó költségeket, pénzforgalmat,
 
@@ -12,21 +12,19 @@ c) a rendszer leírásával, amely tartalmazza az egyablakos kapacitásértékes
 
 d) az egyablakos kapacitásértékesítésbe bevont rendszerüzemeltetőkkel kötött kapacitásértékesítési megállapodásokkal,
 
-e) ha Magyar Köztársaság területén átmenő vezeték és a magyar együttműködő rendszer forráspontját képező csatlakozási ponttal rendelkezik:
+e)[^127] a Hivatal által jóváhagyott tarifa képzési elvvel és képlettel,
 
-ea) a Hivatal által jóváhagyott tarifa képzési elvvel és képlettel,
+f)[^128] a kapacitásértékesítésre vonatkozó felmentésekkel,
 
-eb) a kapacitásértékesítésre vonatkozó felmentésekkel,
+g)[^129] a kapacitások átlátható értékesítésére vonatkozó szabályzattal,
 
-ec) a kapacitások átlátható értékesítésére vonatkozó szabályzattal,
+h)[^130] az érintett szállítási rendszerüzemeltetővel kötött együttműködési megállapodással,
 
-ed) az érintett szállítóval kötött együttműködési megállapodással,
+i)[^131] ha az egyablakos kapacitásértékesítő kapacitásai a magyar együttműködő földgázrendszer kapacitásai részeként kerülnek értékesítésre
 
-f) ha az egyablakos kapacitásértékesítő kapacitásai a magyar együttműködő földgázrendszer kapacitás részeként kerülnek értékesítésre:
+ia) a kapacitások átlátható értékesítését részletesen bemutató üzletszabályzattal,
 
-fa) a kapacitások átlátható értékesítését részletesen bemutató üzletszabályzattal,
-
-fb) rendkívüli ellátási helyzetben, korlátozáskor, krízis helyzetben alkalmazandó eljárásrenddel.
+ib) rendkívüli ellátási helyzetben, korlátozáskor, krízis helyzetben alkalmazandó eljárásrenddel.
 
 (2) Az egyablakos kapacitásértékesítésre vonatkozó engedély iránti kérelemhez az e rendelet 5. számú mellékletének IX. fejezetében meghatározott iratokat kell benyújtani.
 
@@ -38,4 +36,9 @@ b) a rendszerhasználók hozzáférhessenek a saját adataikhoz, valamint a köz
 
 c) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön előnyben.
 
-[^83]: A Vhr. 40. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^126]: A Vhr. 40. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^127]: A Vhr. 40. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^128]: A Vhr. 40. § (1) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^129]: A Vhr. 40. § (1) bekezdés g) pontját a 378/2011. (XII. 31.) Korm. rendelet 44. §-a iktatta be.
+[^130]: A Vhr. 40. § (1) bekezdés h) pontját a 378/2011. (XII. 31.) Korm. rendelet 44. §-a iktatta be.
+[^131]: A Vhr. 40. § (1) bekezdés i) pontját a 378/2011. (XII. 31.) Korm. rendelet 44. §-a iktatta be.

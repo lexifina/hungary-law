@@ -2,13 +2,34 @@
 
 ## Kapacitáslekötés és az együttműködő földgázrendszerhez való hozzáférés
 
-73. §[^135] (1)[^136]
+73. §[^227] (1) A rendszerüzemeltetői szolgáltatások a GET-ben és az e rendeletben meghatározott követelményeknek megfelelő szerződéssel vehetők igénybe. A szerződés mellékleteként a rendszerhasználó köteles elfogadni az ÜKSZ előírásait és a külön jogszabályban meghatározott pótdíjak, egyensúlyozási költségek érvényesíthetőségét.
 
-(2) Ha a felhasználó vásárolt kapacitását, vagy annak egy részét két egymást követő gázévben nem kötötte le, annak igénybevételére legkorábban az igénybejelentéstől számított második gázév első napjától kerülhet sor, kivéve, ha a csatlakozó rendszerüzemeltetővel ettől eltérő időpontról állapodott meg.
+(2) A földgázelosztási szolgáltatást végző rendszerüzemeltető a GET 71. § (4) bekezdése alapján köteles nyilvántartani az adott felhasználási hely és a felhasználó ÜKSZ-ben meghatározott, de legalább a következő adatait:
 
-(3) A földgázszállító, illetve a földgázelosztó köteles a csatlakozási szerződés létrejöttével a felhasználási hely nyilvántartásában a vásárolt és a nyilvántartott kapacitást rögzíteni. A nyilvántartásban a forrásoldali kapacitás meghatározásakor a hatályon kívül helyezett gázszolgáltatásról szóló 1994. évi XLI. törvény szerinti gázértékesítő által 2003. december 31-ig kiadott forrásnyilatkozatokat, 2004. január 1-jétől a földgázszállító által kiadott kapacitás nyilatkozatokat kell irányadónak tekinteni.
+a) a felhasználási hely egyedi azonosítóját,
 
-(4) A földgáz és biogáz termelő a saját termelésű gáz Magyar Köztársaság államhatárán történő átszállítása érdekében történő szállítói és tárolói kapacitáslekötés tekintetében felhasználónak minősül. A földgáztermelő nyilvántartott kapacitásának az adott gázévre vonatkozóan az általa a csatlakozó rendszerüzemeltetőnek bejelentett legnagyobb termelési-kapacitási értéket kell tekinteni.
+b) a felhasználási helyen lévő fogyasztásmérő berendezés jellemző adatait és azonosító számát,
 
-[^135]: A Vhr. 73. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^136]: A Vhr. 73. § (1) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
+c) a felhasználó vásárolt kapacitását,
+
+d) a felhasználó nyilvántartott kapacitását,
+
+e) a felhasználó lekötött kapacitását,
+
+f) a felhasználó profilba sorolását,
+
+g) a felhasználó korlátozási besorolását,
+
+h) a felhasználó azonosításához szükséges adatokat és fogyasztási adatait.
+
+(3) A (2) bekezdés c) pontja szerinti vásárolt kapacitást kiadásponti kapacitásként (MJ/óra), a (2) bekezdés d) pontja szerinti nyilvántartott kapacitást kiadási ponti (MJ/óra) és összevont forrásoldali kapacitásként (MJ/nap) kell nyilvántartani. A nyilvántartás alapját a csatlakozási szerződés képezi. A felhasználó előző gázévi nyilvántartott kapacitása alapján a legnagyobb kiadási (MJ/óra) és forrásoldali kapacitásigényét (MJ/nap) kell rögzíteni.
+
+(4) A forrásoldali kapacitás meghatározásakor a földgázszállítást végző engedélyes által kiadott kapacitás nyilatkozatokat kell irányadónak tekinteni.
+
+(5) A szállítási rendszerüzemeltető és a földgázelosztó a csatlakozási szerződésben megállapodhatnak a nyilvántartott kapacitás tervezett igénybevételének feltételeiben és ütemezésében, amelyet a szállítási rendszerüzemeltető és a földgázelosztó köteles rögzíteni a felhasználási helyre vonatkozó nyilvántartásában.
+
+(6) A földgáz és biogáz termelő a saját termelésű gáz Magyarország államhatárán történő átszállítása érdekében történő szállítási rendszerüzemeltetői és tárolói kapacitás lekötés tekintetében felhasználónak minősül. A földgáztermelő nyilvántartott kapacitásának az adott gázévre vonatkozóan az általa a csatlakozó rendszerüzemeltetőnek bejelentett legnagyobb termelési-kapacitási értéket kell tekinteni.
+
+(7) Ha a GET 71. § (3) bekezdése szerinti kapacitás igénybevételi korlát esetében a vásárolt kapacitás terhére felmerült többlet vásárolt kapacitásigény az adott gázátadón a szállítórendszer beadási és kiadási kapacitásainak vagy az elosztóvezeték fejlesztése nélkül nem teljesíthető, annak igénybevételét a szállítási rendszerüzemeltető és a földgázelosztó a 10 éves hálózatfejlesztési terv szerinti szállítói fejlesztési terv ütemezésének megfelelően biztosítja.
+
+[^227]: A Vhr. 73. §-a a 378/2011. (XII. 31.) Korm. rendelet 57. §-ával megállapított szöveg.

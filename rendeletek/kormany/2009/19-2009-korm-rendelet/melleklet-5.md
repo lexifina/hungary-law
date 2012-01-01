@@ -1,8 +1,8 @@
 ## Üzletszabályzatok
 
-## A benyújtandó üzletszabályzatok formátumára vonatkozó előírások
+## A benyújtandó üzletszabályzatok formátumára vonatkozó előírások[^488]
 
-## Az üzletszabályzatokat kinyomtatva, fűzve vagy kötve, nyomtatva kell elkészíteni. Az oldalakat folyamatos számozással kell ellátni. A mellékletek és a függelékek minden lapján fel kell tüntetni, hányas számú melléklet vagy függelék lapjáról van szó. Az üzletszabályzat, a mellékletek és a függelékek minden oldalán fel kell tüntetni, melyik engedélyes szabályzatáról van szó. Az üzletszabályzatokat legalább 3 példányban kell jóváhagyásra benyújtani, melyből két példány marad a Hivatalban. Az üzletszabályzatokat elektronikus formában is be kell nyújtani. Azokban az esetekben, amikor az üzletszabályzatok módosítását kérelmezik az engedélyesek, egy példányban – papír alapon és elektronikusan – a korrektúrás változatot is kötelesek benyújtani, melyből a módosítások egyértelműen megállapíthatók. A benyújtott üzletszabályzathoz mellékelni kell a jóváhagyásra vonatkozó kérelmet, és az igazgatási szolgáltatási díj átutalását igazoló dokumentum egy másolati példányát.
+## Az üzletszabályzatokat kinyomtatva, fűzve vagy kötve, nyomtatva, a kötelező tartalmi követelményeknek megfelelő tartalomjegyzékkel kell elkészíteni. Az oldalakat folyamatos számozással kell ellátni. A mellékletek és a függelékek minden lapján fel kell tüntetni, hányas számú melléklet vagy függelék lapjáról van szó. Az üzletszabályzat, a mellékletek és a függelékek minden oldalán fel kell tüntetni, melyik engedélyes szabályzatáról van szó. Az üzletszabályzatokat legalább 2 példányban kell jóváhagyásra benyújtani, melyből egy példány marad a Hivatalban. Egy példány az engedélyes, egy példány a fogyasztóvédelmi hatóság példánya. Az üzletszabályzatokat elektronikus formában is be kell nyújtani. Azokban az esetekben, amikor az üzletszabályzatok módosítását kérelmezik az engedélyesek, egy példányban – papír alapon és elektronikusan – a korrektúrás változatot is kötelesek benyújtani, melyből a módosítások egyértelműen megállapíthatók. A benyújtott üzletszabályzathoz mellékelni kell a jóváhagyásra vonatkozó kérelmet, és az igazgatási szolgáltatási díj átutalását igazoló dokumentum egy másolati példányát.
 
 ## Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása
 
@@ -10,7 +10,7 @@
 
 ## Az üzletszabályzatok kötelező tartalmi követelményei
 
-## 1.1. A földgázszállító üzletszabályzatának tartalmi elemei
+## 1.1.[^489] A szállítási rendszerüzemeltető üzletszabályzatának tartalmi elemei
 
 ## 1. Az üzletszabályzat hatálya és érvényességi köre, fogalommeghatározások, az engedélyesre vonatkozó adatok, az engedélyes által végzett tevékenység bemutatása.
 
@@ -44,7 +44,7 @@
 
 ## 6. A rendszerhasználói igény kielégítésének módjai és részletes szabályai:
 
-## a) az igénykielégítés feltételei, a rendszerhasználóval kötött földgázszállítási szerződés,
+## a)[^490] az igénykielégítés feltételei, a rendszerhasználóval kötött szállítási rendszerüzemeltetési szerződés,
 
 ## b) az igénybejelentő részére történő tájékoztatás rendje és szabályai,
 
@@ -168,21 +168,27 @@
 
 ## a) a folyamatos és biztonságos szolgáltatásra vonatkozó, üzleti titkok körébe nem tartozó főbb műszaki paraméterek,
 
-## b) az engedélyesek által működtetett rendszer üzemviteli irányítási rendje, beleértve az ezek távfelügyeletét és adatforgalmát biztosító rendszert.
+## b) az engedélyesek által működtetett rendszer üzemviteli irányítási rendje, beleértve az ezek távfelügyeletét és adatforgalmát biztosító rendszert,
 
-## 6. A felhasználói igény kielégítésének módjai és részletes szabályai:
+## c)[^491] Az alkalmazott fogyasztásmérő berendezés mérőteljesítményére és a fogyasztói nyomásszabályozóra vonatkozó műszaki követelmények, valamint a fogyasztásmérő berendezés cseréjének eljárási és formai feltételei,
 
-## a) az igénykielégítés feltételei, a felhasználóval kötött csatlakozási szerződés,
+## d)[^492] a földgáz mennyisége mellett szükséges egyéb jellemzők mérési adatainak képzése és a mérési adatok közreadása.
+
+## 6.[^493] A felhasználói igény kielégítésének módjai és részletes szabályai:
+
+## a) az igény-kielégítés feltételei, a felhasználóval kötött csatlakozási szerződés mintája, tartalmi elemei,
 
 ## b) az igénybejelentő részére történő tájékoztatás rendje és szabályai,
 
 ## c) az igénylőtől kért adatok, dokumentumok felsorolása és a benyújtás módja,
 
-## d) ajánlattételi kötelezettség, és az elmulasztásának konzekvenciája,
+## d) ajánlattételi kötelezettség, az ajánlat feltételei és az ajánlattétel elmulasztásának következményei,
 
-## e) a felhasználó személyében történt változás esetén alkalmazott eljárás.
+## e) a felhasználó személyében történt változás esetén alkalmazott eljárás,
 
-## 7. A szerződési feltételek az elosztói csatlakozási és a földgázelosztási szerződésekhez
+## f) a csatlakozóvezeték és a felhasználói berendezés készítése, átalakítása vagy megszüntetése esetén készült kiviteli terv műszaki-biztonsági felülvizsgálatának eljárása, díjai.
+
+## 7.[^494] A szerződési feltételek az elosztói csatlakozási és az elosztóhálózat-használati szerződésekhez:
 
 ## a) általános szerződéses feltételek, különösen a felek jogai és kötelezettségei,
 
@@ -191,6 +197,16 @@
 ## c) egyedi feltételek kezelése,
 
 ## d) az üzemzavar, korlátozás és szüneteltetés esetén alkalmazandó szabályok,
+
+## da) kölcsönös tájékoztatási kötelezettség,
+
+## db) az értesítési kötelezettség ideje, módja, értesítés a szállítási rendszerüzemeltető vagy földgázelosztó által végzett előre tervezhető karbantartási, felújítási munkák miatti szünetelés időpontjáról, várható időtartamáról,
+
+## dc) az értesítés elmaradásának következményei,
+
+## dd) a felek együttműködése a helyreállítás érdekében,
+
+## de) a földgázelosztás szüneteltetése kezdeményezésének módja
 
 ## e) az engedélyes rendszerének karbantartása és hibaelhárításának rendje,
 
@@ -204,7 +220,7 @@
 
 ## hb) az elszámolás alapja, időszaka és rendje,
 
-## hc) hatósági árhoz képest alkalmazott árengedményezés szabályai,
+## hc) jogszabályban vagy a Hivatal által meghatározott ár, annak alkalmazási feltételei és az árhoz képest alkalmazott árengedményezés szabályai,
 
 ## hd) a mérés és az elszámolás során alkalmazott számítások részletes szabályai,
 
@@ -216,17 +232,21 @@
 
 ## hh) a választható fizetési határidők,
 
-## hi) a késedelmes fizetés esetére alkalmazható szankciók.
+## hi) a késedelmes fizetés esetére alkalmazható szankciók,
 
-## 8. Szerződésszegésre és szerződés nélküli vételezésre vonatkozó szabályok:
+## i) a fogyasztásmérő berendezés nélküli fogyasztás feltételei.
+
+## 8.[^495] Szabálytalan és szerződés nélküli vételezésre vonatkozó szabályok:
 
 ## a) a szerződésszegés esetei,
 
-## b) szankciók és következmények,
+## b) a szerződésszegés szankciói és következményei,
 
-## c) a szerződéses állapot helyreállítása,
+## c) a szerződésszerű állapot helyreállítása,
 
-## d) a szerződés nélküli vételezés.
+## d) a szerződés nélküli vételezés és jogkövetkezményei,
+
+## e) a szabálytalan vételezés esetén lefolytatott vizsgálat eljárási és formai feltételei.
 
 ## 9. Panaszügyintézésre vonatkozó rendelkezések
 
@@ -522,7 +542,7 @@
 
 ## df) a számlázás rendje,
 
-## dg) az alkalmazott árak (az egyetemes szolgáltatás keretében nyújtott szolgáltatás díjai, és az értékesített földgáz ára), az árváltozás bejelentésének módjára és határidejére vonatkozó előírások,
+## dg)[^496] jogszabályban vagy a Hivatal által meghatározott ár, annak alkalmazási feltételei és az árhoz képest alkalmazott árengedményezés szabályai, az árváltozás bejelentésének módjára és határidejére vonatkozó előírások,
 
 ## dh) választható fizetési és elszámolási módok és határidők,
 
@@ -532,17 +552,7 @@
 
 ## f) a szerződés teljesítésében részt vevő harmadik személyek és a velük fennálló kapcsolatok bemutatása,
 
-## g) az üzemzavar, korlátozás és szüneteltetés esetén alkalmazandó szabályok
-
-## ga) kölcsönös tájékoztatási kötelezettség,
-
-## gb) az értesítési kötelezettség ideje, módja, értesítés a földgázszállító vagy földgázelosztó által végzett előre tervezhető karbantartási, felújítási munkák miatti szünetelés időpontjáról, várható időtartamáról,
-
-## gc) az értesítés elmaradásának következményei,
-
-## gd) a felek együttműködése a helyreállítás érdekében,
-
-## ge) a földgázelosztás szüneteltetése kezdeményezésének módja,
+## g)[^497]
 
 ## h) a szerződés megszűnésének esetei
 
@@ -622,103 +632,105 @@
 
 ## 3. Az érdek-képviseleti szervezetek felsorolása.
 
-## 1.5. A földgázkereskedő üzletszabályzatának tartalmi elemei
+## 1.5.[^498] A földgázkereskedő üzletszabályzatának tartalmi elemei
 
-## 1. Az üzletszabályzat hatálya és érvényességi köre, fogalommeghatározások, az engedélyesre vonatkozó adatok, az engedélyes által végzett tevékenység bemutatása.
+## 1. Az üzletszabályzat hatálya és érvényességi köre, fogalom meghatározások, az engedélyesre vonatkozó adatok.
 
-## 2. A külső környezettel való kapcsolata:
+## 2. Az engedélyes által végzett tevékenység és a nyújtott szolgáltatások bemutatása, engedélyes által ellátott felhasználói csoportok felsorolása.
 
-## a) felettes szervekkel való kapcsolat,
+## 3. A külső környezettel, felügyeleti szervekkel, felhasználókkal és rendszerüzemeltetőkkel való kapcsolat:
 
-## b) felhasználók részére adott információk.
+## 3.1. felettes szervekkel való kapcsolat, a felettes szervek felhasználók részére biztosított feladatai,
 
-## 3. Általános biztonsági előírások:
+## 3.2. felhasználókkal való kapcsolattartás szervezete és működése,
 
-## a) felhasználók biztonságos ellátására vonatkozó garanciák és az ellátást biztosító rendelkezések,
+## 3.3. a felhasználók részére rendszeresen nyújtott és földgáz-kereskedelmi szerződés alapján nyújtható információk,
 
-## b) az adatvédelemre vonatkozó biztosítékok (a szerződő fél kezelt adatainak köre, azon személyek megjelölése, akik számára a kezelt adatok, vagy azok meghatározott részei átadhatók, eljárásrend a személyes adatokhoz fűződő jogok megsértése esetén),
+## 3.4. rendszerüzemeltetőkkel való kapcsolat.
 
-## c) a környezetvédelmi előírások és az előírást biztosító rendelkezések.
+## 4. Általános földgázellátás-biztonsági, adatvédelmi és környezetvédelmi előírások:
 
-## 4. Szolgáltatás minőségi követelmények:
+## 4.1. felhasználók biztonságos ellátására vonatkozó garanciák és az ellátást biztosító rendelkezések,
 
-## a) az engedélyes tevékenység minőségi jellemzői,
+## 4.2. az adatvédelemre vonatkozó biztosítékok (a szerződő fél kezelt adatainak köre, a személyes adatok kezelésének rendje és a személyes adatokhoz fűződő jogok megsértése esetén alkalmazandó eljárásrend),
 
-## b) a forgalmazott gáz minőségi előírásai,
+## 4.3. a környezetvédelmi előírások és az előírást biztosító rendelkezések.
 
-## c) a gázminőség ellenőrzésének részletes eljárásrendje.
+## 5. A földgáz-kereskedelmi szolgáltatások és a forgalmazott földgáz minőségi követelményei:
 
-## 5. A felhasználói igény kielégítésének módjai és részletes szabályai:
+## 5.1. a földgáz-kereskedelmi tevékenység engedélyes által biztosított minőségi jellemzői,
 
-## a) az igénybejelentő részére történő tájékoztatás rendje és szabályai,
+## 5.2. a forgalmazott földgáz minőségi előírásai,
 
-## b) az igénylőtől kért adatok, dokumentumok felsorolása és a benyújtás módja,
+## 5.3. a gázminőség ellenőrzésének eljárásrendje.
 
-## c) a felhasználónál történt változás esetén alkalmazott eljárás.
+## 6. A felhasználói igény kielégítésének módjai és részletes szabályai, valamint a felhasználónál történt változások bejelentésének szabályai:
 
-## 6. A szerződési feltételek a szerződésekhez:
+## 6.1. az igénybejelentő részére történő tájékoztatás rendje és szabályai,
 
-## a) általános szerződéses feltételek, különösen a felek jogai és kötelezettségei,
+## 6.2. az igénylőtől kért adatok, dokumentumok felsorolása és a benyújtás módja,
 
-## b) egyedi feltételek kezelése,
+## 6.3. az internetes vagy papír alapú földgáz-kereskedelmi szerződéskötés sajátosságai,
 
-## c) az üzemzavar, korlátozás és szüneteltetés esetén alkalmazandó szabályok,
+## 6.4. a felhasználónál történt változás esetén alkalmazott eljárás.
 
-## d) a szerződő partnerrel szemben támasztott követelmények,
+## 7. Általános szerződéses feltételek:
 
-## e) mennyiségi elszámolási és fizetési előírások:
+## 7.1. szerződések általános hatálya,
 
-## ea) az elszámolás alapja, időszaka és rendje,
+## 7.2. a felek jogai és kötelezettségei,
 
-## eb) a mérés és az elszámolás során alkalmazott számítások részletezése,
+## 7.3. a kereskedő kapacitás lekötéssel kapcsolatos kötelezettségei és jogai, a kereskedő kötelezettségvállalása az átruházott kapacitás visszaadására,
 
-## ec) a számlázás és a számlakifogásolások intézésének rendje.
+## 7.4. egyedi feltételek kezelése,
 
-## f) pénzügyi garancia feltételei,
+## 7.5. az áralkalmazási feltételek, árak meghatározása, az árak megváltoztatásának feltételei, árváltozás esetén alkalmazandó eljárás,
 
-## g) az internetes vagy papír alapú szerződéskötés sajátosságai,
+## 7.6. az üzemzavar, korlátozás és szüneteltetés esetén alkalmazandó szabályok,
 
-## h) az internetes vagy papír alapú szerződés esetében az ügyfélszolgálatok elhelyezésére és működtetésére vonatkozó részletes szabályok.
+## 7.7. a szerződő partnerrel szemben támasztott követelmények, választható pénzügyi garanciák részletes bemutatása 20 m3/óra feletti felhasználók esetében,
 
-## 7. Az egyetemes szolgáltatásra jogosultakra vonatkozó külön rendelkezések:
+## 7.8. mennyiségi elszámolási és fizetési előírások:
 
-## a) az ajánlott földgázellátás és szolgáltatások részletes ismertetése,
+## 7.8.1. a mérés és az elszámolás során alkalmazott számítások,
 
-## b) a rendszerüzemeltetők kötelezettségei és jogai,
+## 7.8.2. az elszámolás alapja, feltételei, időszaka és rendje,
 
-## c) a kereskedő kapacitáslekötéssel kapcsolatos kötelezettségei és jogai,
+## 7.8.3. a számlázás és a számlakifogásolások intézésének rendje.
 
-## d) az áralkalmazás, elszámolás feltételei, leolvasás ütemezése, rendje,
+## 7.9. szerződésszegésre és szabálytalan vételezésre vonatkozó szabályok és eljárásrend:
 
-## e) a kereskedő váltás, egyetemes szolgáltatásba történő áttérés részletes szabályai,
+## 7.9.1. a szerződésszegés és szabálytalan vételezés esetei,
 
-## f) a szerződés kereskedő általi egyoldalú módosításának – beleértve az árváltoztatást is – eseteit, a módosítás időbeli hatályát és a közzététel szabályait.
+## 7.9.2. szankciók és következmények,
 
-## 8. Szerződésszegésre vonatkozó szabályok:
+## 7.9.3. a szerződéses állapot helyreállítása,
 
-## a) a szerződésszegés esetei,
+## 7.9.4. a késedelmes fizetés esetére alkalmazható szankciók.
 
-## b) szankciók és következmények,
+## 7.10. a felhasználói panaszok ügyintézésének és a panaszok kezelésének rendje,
 
-## c) a szerződéses állapot helyreállítása,
+## 7.11. a szerződés felmondásának esetei, megszűnésének rendje.
 
-## d) a késedelmes fizetés esetére alkalmazható szankciók.
+## 8. A kereskedőváltás szabályai, eljárásrendje, elszámolási módszerek.
 
-## 9. Felhasználói kapcsolattartás szervezetének és működésének, valamint a felhasználói panaszok ügyintézésének rendjét, a panaszok kezelésének rendje.
+## 9. A 20 m3/óra alatti felhasználókra vonatkozó különös feltételrendszer (amennyiben a földgázkereskedő ilyen felhasználókat el kíván látni):
+
+## 9.1. a szerződés kereskedő általi egyoldalú módosításának – beleértve az árváltoztatást is – eseteit, a módosítás időbeli hatályát és a közzététel szabályait,
+
+## 9.2. a védendő fogyasztókra vonatkozó speciális rendelkezésekre,
+
+## 9.3. a felhasználó változás kezelésére vonatkozó eljárásrend.
 
 ## Mellékletek
 
-## 1. Az ügyfélszolgálatok és az ügyfélszolgálati iroda elérhetősége.
+## 1. Az ügyfélszolgálatok és az ügyfélszolgálati irodák elérhetősége.
 
 ## 2. Elszámolás során alkalmazott részletes számítási eljárás, paraméterek.
 
 ## 3. Szerződések általános tartalmi elemei.
 
-## 4. Szerződés minták egyetemes szolgáltatásra jogosult felhasználók esetén.
-
-## 5. Az elszámolási módszerek a kereskedő váltáskor alkalmazott és választható pénzügyi garanciák részletes bemutatása.
-
-## 6. Eljárásrend a szerződésszegés és szabálytalan vételezés esetén.
+## 4. Szerződés minták 20 m3/óra alatti felhasználók esetén (amennyiben a földgázkereskedő ilyen felhasználókat el kíván látni).
 
 ## Függelék
 
@@ -738,13 +750,13 @@
 
 Az engedélyezési kérelemhez tevékenységenként benyújtandó mellékletek
 
-I.[^312]
+I.[^499]
 
-II. Fejezet[^313]
+II. Fejezet[^500]
 
-Szállítási rendszerüzemeltetésre vonatkozó működési engedély[^314]
+Szállítási rendszerüzemeltetésre vonatkozó működési engedély[^501]
 
-## A)[^315] A szállítási rendszerüzemeltetésre vonatkozó engedély iránti kérelem benyújtásával együtt a Hivatalhoz be kell nyújtani:
+## A)[^502] A szállítási rendszerüzemeltetésre vonatkozó engedély iránti kérelem benyújtásával együtt a Hivatalhoz be kell nyújtani:
 
 1. a kérelem benyújtását megelőző évre elkészített éves beszámolót, vagy ha a kérelmező éves beszámoló benyújtására nem volt kötelezett, akkor a nyitómérleget,
 
@@ -802,7 +814,7 @@ d) a szállítóvezetékek üzemeltetését, irányítását, ellenőrzését sz
 
 e) a nem hazai felhasználású földgáz szállítására igénybevett vezetékszakaszok bemutatásával,
 
-f)[^316] a nem szállítási rendszerüzemeltetői tulajdonú rendszerek bemutatásával,
+f)[^503] a nem szállítási rendszerüzemeltetői tulajdonú rendszerek bemutatásával,
 
 g) a szállítóvezeték többségi tulajdonának igazolásával,
 
@@ -812,7 +824,7 @@ h) a mérő és adatátviteli eszközök leírásával,
 
 19. Minőség Elszámolási Rendet,
 
-20.[^317] nyilatkozatot arra vonatkozóan, hogy a tanúsításról rendelkező határozatban foglaltakhoz képest nem történt változás.
+20.[^504] nyilatkozatot arra vonatkozóan, hogy a tanúsításról rendelkező határozatban foglaltakhoz képest nem történt változás.
 
 B) Az A) pont 4., 6., 7., 8., 9., 10., 12., 15., 17., 18. vagy 19. alpontjaiban foglalt dokumentumok a 125. § (5) bekezdésben meghatározott határidőben is benyújthatók.
 
@@ -860,9 +872,9 @@ e) kapacitásfejlesztésnél történő eljárásokra,
 
 f) a földgáz rendszerek közötti átadásánál normál és rendkívüli üzemmenetnél követendő eljárásokra,
 
-13.[^318] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+13.[^505] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
 
-14.[^319]
+14.[^506]
 
 15. üzemeltetési szerződéseket,
 
@@ -994,9 +1006,9 @@ e) kapacitásfejlesztésnél történő eljárásokra,
 
 f) a földgáz rendszerek közötti átadásánál normál és rendkívüli üzemmenetnél követendő eljárásokra,
 
-13.[^320] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+13.[^507] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
 
-14.[^321]
+14.[^508]
 
 15. üzemeltetési szerződéseket,
 
@@ -1040,7 +1052,7 @@ Földgáz kereskedelemre vonatkozó működési engedély
 
 9. elszámolási rendszer leírását,
 
-10. a földgázszállítóval kötött együttműködési megállapodást, ha az az engedély iránti kérelem benyújtáskor nem áll rendelkezésre, a megállapodás megkötésére vonatkozó szándéknyilatkozatot az egyensúlyozási tevékenység, az adatforgalmi és informatikai rendszerhez való hozzáférés, továbbá a gáznapon belüli kiegyensúlyozó kereskedelem biztosítására,
+10.[^509] a szállítási rendszerüzemeltetővel kötött együttműködési megállapodást, ha az az engedély iránti kérelem benyújtáskor nem áll rendelkezésre, a megállapodás megkötésére vonatkozó szándéknyilatkozatot az egyensúlyozási tevékenység, az adatforgalmi és informatikai rendszerhez való hozzáférés, továbbá a gáznapon belüli kiegyensúlyozó kereskedelem biztosítására,
 
 11. pénzügyi biztosíték bemutatását.
 
@@ -1068,7 +1080,7 @@ Egyetemes szolgáltatásra vonatkozó működési engedély
 
 9. elszámolási rendszer leírását,
 
-10. rendszerirányítóval és a rendszerüzemeltetőkkel kötött együttműködési, kapacitáslekötési és rendszerhasználati szerződéseket,
+10.[^510] szállítási rendszerirányítóval és a rendszerüzemeltetőkkel kötött együttműködési, kapacitáslekötési és rendszerhasználati szerződéseket,
 
 11. pénzügyi biztosíték bemutatását,
 
@@ -1100,11 +1112,11 @@ Vezetékes PB-gáz szolgáltatásra vonatkozó működési engedély
 
 9. mérési, felosztási és elszámolási rendszer leírását,
 
-10.[^322]
+10.[^511]
 
-11.[^323] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
+11.[^512] az engedélyes – bányafelügyelet általi – műszaki-biztonsági szempontú minősítését tartalmazó határozatot a szervezetről, a szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állásáról,
 
-12.[^324]
+12.[^513]
 
 13. üzemeltetési szerződéseket,
 
@@ -1178,16 +1190,29 @@ Szervezett földgázpiac működtetésére vonatkozó működési engedély
 
 9. ellenőrzött minőségbiztosítási rendszer bevezetésének ütemtervét a bevezetés határidejével.
 
-[^312]: A Vhr. 5. számú melléklet I. Fejezetét a 75/2011. (V. 2.) Korm. rendelet 28. § (1) bekezdése hatályon kívül helyezte.
-[^313]: A Vhr. 5. számú melléklet II. Fejezete az 54/2011. (IV. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^314]: A Vhr. 5. számú melléklet II. Fejezet címe a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
-[^315]: A Vhr. 5. számú melléklet II. Fejezet A) pont nyitó szövegrésze a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
-[^316]: A Vhr. 5. számú melléklet II. Fejezet A) pont 17. pont f) alpontja a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
-[^317]: A Vhr. 5. számú melléklet II. Fejezet A) pont 20. pontját a 75/2011. (V. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be.
-[^318]: A Vhr. 5. számú melléklet III. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^319]: A Vhr. 5. számú melléklet III. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^320]: A Vhr. 5. számú melléklet V. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^321]: A Vhr. 5. számú melléklet V. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^322]: A Vhr. 5. számú melléklet VIII. Fejezet 10. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^323]: A Vhr. 5. számú melléklet VIII. Fejezet 11. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^324]: A Vhr. 5. számú melléklet VIII. Fejezet 12. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^488]: A Vhr. 4. számú melléklet „A benyújtandó üzletszabályzatok formátumára vonatkozó előírások” címet követő szövegrész a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^489]: A Vhr. 4. számú melléklet 1.1. pont címe a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg.
+[^490]: A Vhr. 4. számú melléklet 1.1. pont 6. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg.
+[^491]: A Vhr. 4. számú melléklet 1.2. pont 5. pont c) alpontját a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése iktatta be.
+[^492]: A Vhr. 4. számú melléklet 1.2. pont 5. pont d) alpontját a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése iktatta be.
+[^493]: A Vhr. 4. számú melléklet 1.2. pont 6. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^494]: A Vhr. 4. számú melléklet 1.2. pont 7. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^495]: A Vhr. 4. számú melléklet 1.2. pont 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^496]: A Vhr. 4. számú melléklet 1.4. pont 6. pont d) pont dg) alpontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^497]: A Vhr. 4. számú melléklet 1.4. pont 6. pont g) alpontját a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése haátlyon kívül helyezte.
+[^498]: A Vhr. 4. számú melléklet 1.5. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^499]: A Vhr. 5. számú melléklet I. Fejezetét a 75/2011. (V. 2.) Korm. rendelet 28. § (1) bekezdése hatályon kívül helyezte.
+[^500]: A Vhr. 5. számú melléklet II. Fejezete az 54/2011. (IV. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^501]: A Vhr. 5. számú melléklet II. Fejezet címe a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^502]: A Vhr. 5. számú melléklet II. Fejezet A) pont nyitó szövegrésze a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^503]: A Vhr. 5. számú melléklet II. Fejezet A) pont 17. pont f) alpontja a 75/2011. (V. 2.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^504]: A Vhr. 5. számú melléklet II. Fejezet A) pont 20. pontját a 75/2011. (V. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^505]: A Vhr. 5. számú melléklet III. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^506]: A Vhr. 5. számú melléklet III. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^507]: A Vhr. 5. számú melléklet V. Fejezet 13. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^508]: A Vhr. 5. számú melléklet V. Fejezet 14. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^509]: A Vhr. 5. számú melléklet VI. Fejezet 10. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^510]: A Vhr. 5. számú melléklet VII. Fejezet 10. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
+[^511]: A Vhr. 5. számú melléklet VIII. Fejezet 10. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^512]: A Vhr. 5. számú melléklet VIII. Fejezet 11. pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^513]: A Vhr. 5. számú melléklet VIII. Fejezet 12. pontját a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

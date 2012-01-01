@@ -1,4 +1,4 @@
-7. §[^28] (1) A kérelmezőnek rendelkeznie kell:
+7. §[^41] (1) A kérelmezőnek rendelkeznie kell:
 
 a) 3 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza a földgázelosztási tevékenységet a hozzá kapcsolódó költségeket, pénzforgalmat,
 
@@ -20,7 +20,7 @@ i) az engedélyköteles tevékenység üzletszabályzatban meghatározott normá
 
 j) a működési területén lévő felhasználókat ellátó egyetemes szolgáltatókkal vagy kereskedőkkel megkötött megállapodásokkal,
 
-k) az ÜKSZ vonatkozó rendelkezéseit kielégítő adatforgalmi és informatikai rendszerrel, mérő és adatátviteli eszközökkel, beleértve a határon keresztüli elosztáshoz szükséges mérőeszközöket és a Magyar Köztársaság államhatárán kívül eső felhasználási helyek esetében az elosztóvezeték határátlépésénél nemzetközi mérőállomást is,
+k)[^42] az ÜKSZ vonatkozó rendelkezéseit kielégítő adatforgalmi és informatikai rendszerrel, mérő és adatátviteli eszközökkel, beleértve a határon keresztüli elosztáshoz szükséges mérőeszközöket és Magyarország államhatárán kívül eső felhasználási helyek esetében az elosztóvezeték határátlépésénél nemzetközi mérőállomást is,
 
 l) a működési terület leírásával, azon belül a települések, településrészek, területek megjelölésével, ahol az elosztóvezetékről vételező felhasználási hely található,
 
@@ -40,4 +40,5 @@ d) a földgázipari vállalkozások és a felhasználók egyenlő bánásmódban
 
 (4) A földgázelosztó a (3) bekezdés szerinti megkülönböztetés-mentes bánásmód keretében köteles biztosítani különösen az információhoz egyenlő feltételekkel történő hozzáférést, tekintet nélkül arra, hogy a felhasználók és vállalkozások az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, földgáz kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók, vagy más, önálló vállalkozások, illetve felhasználók.
 
-[^28]: A Vhr. 7. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^41]: A Vhr. 7. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^42]: A Vhr. 7. § (1) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 35. §-a szerint módosított szöveg.

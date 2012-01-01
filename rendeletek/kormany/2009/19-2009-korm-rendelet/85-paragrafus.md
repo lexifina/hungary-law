@@ -1,16 +1,18 @@
-85. §[^151] (1) A szerződés szerinti szolgáltatás megtagadható, ha
+85. §[^252] (1)[^253] A rendszerüzemeltetői szolgáltatás szerződéses biztosítékkal összefüggő okból akkor tagadható meg, ha
 
-a) a szerződéses biztosíték a szerződéses szolgáltatás megkezdését 10 munkanappal megelőzően nem áll rendelkezésre,
+a) a szerződéses biztosíték a szerződéses szolgáltatás megkezdését 10 munkanappal megelőzően nem áll rendelkezésre, vagy
 
-b) a rendszerüzemeltető a szerződés szerint írásban értesítette a rendszerhasználót számlakiegyenlítés elmaradásáról, továbbá a szerződéses biztosíték várható felhasználásáról és a szerződéses biztosíték felhasználást követő feltöltése a szerződéses feltételek szerint nem történt meg,
+b) a rendszerüzemeltető részére a szerződéses biztosíték annak esedékességekor nem állt rendelkezésre, vagy
 
-c) a tárolt készlet nem nyújt fedezetet a tárolói szolgáltatásra és a szerződéses biztosítékot a rendszerhasználó nem biztosította.
+c) a szerződéses biztosíték felhasználását követően annak feltöltése a szerződéses feltételek szerint nem történt meg, vagy
 
-(2)[^152] A rendszerüzemeltető szerződéses biztosítékként nem írhatja elő kizárólag meghatározott pénzintézet vagy pénzintézetek által nyújtott szerződéses biztosíték szolgáltatását.
+d) a biztosítékként elfogadott tárolói készlet nem nyújt fedezetet a tárolói szolgáltatásra.
 
-(3)[^153]
+(2)[^254] A rendszerüzemeltető szerződéses biztosítékként nem írhatja elő kizárólag meghatározott pénzintézet vagy pénzintézetek által nyújtott szerződéses biztosíték szolgáltatását. Ha a rendszerüzemeltető a szerződéses biztosítékot nyújtó pénzintézetet a rendszerhasználó felé nevesíteni kívánja, úgy üzletszabályzatában köteles legalább öt pénzintézetet megnevezni, valamint a szerződéses biztosíték tartalmára vonatkozó elvárásait rögzíteni.
 
-(4) A szerződéses biztosíték összegének fedezetet kell nyújtania legalább a legmagasabb téli havi tervezett szállításnak, illetve elosztásnak megfelelő forgalmi díjra és az éves kapacitásdíj 1/12 részére. A rendszerüzemeltető köteles a szerződéses biztosíték összegének módosítását elfogadni, ha a szerződés módosítására kereskedőváltás miatt kerül sor.
+(3)[^255]
+
+(4)[^256] A szerződéses biztosíték összegének fedezetet kell nyújtania a leghidegebb téli hónap tervezett szállításának, illetve elosztásának megfelelő forgalmi díjra és az éves kapacitásdíj 1/12-ed részére. A rendszerüzemeltető köteles a szerződéses biztosíték összegének módosítását elfogadni, ha a szerződés módosítására kereskedőváltás miatt kerül sor.
 
 (5) A földgáztároló köteles a tárolt készlet letéti elszámolásához árképletet kialakítani, vagy az elégtelen készlet esetén igénybe veendő szerződéses biztosíték meghatározását rögzíteni.
 
@@ -24,6 +26,8 @@ b) a szerződéses biztosíték feltöltés időpontja a felhasználást követ�
 
 (8) A szerződéses biztosíték rendelkezésre állását követően a felfüggesztést azonnal meg kell szüntetni, azonban a szolgáltatást attól a gáznaptól kell biztosítani, amelyre az ÜKSZ szerint érvényes nominálás adható le.
 
-[^151]: A Vhr. 85. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^152]: A Vhr. 85. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 667. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^153]: A Vhr. 85. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^252]: A Vhr. 85. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^253]: A Vhr. 85. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^254]: A Vhr. 85. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^255]: A Vhr. 85. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 669. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^256]: A Vhr. 85. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 63. § (2) bekezdésével megállapított szöveg.

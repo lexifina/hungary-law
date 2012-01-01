@@ -1,3 +1,3 @@
-160. §[^280] Az üzletszabályzat készítésére, módosítására vonatkozó előírásoknak az engedélyes először 2009. március 31-ig köteles eleget tenni.
+160. §[^457]
 
-[^280]: A Vhr. 160. §-a a 165. §-ának (2) bekezdése alapján 2009. február 14-én lépett hatályba.
+[^457]: A Vhr. 160. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

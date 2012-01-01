@@ -1,20 +1,17 @@
-59. §[^117] (1) A fogyasztó a fogyatékkal élő fogyasztók nyilvántartásába történő felvételére való, saját vagy a háztartásában lakó – a GET 3. § 22. pontja szerinti juttatások valamelyikében részesülő – más személy fogyatékosságára tekintettel fennálló jogosultságát
+59. §[^188] (1) A lakossági fogyasztó – fogyatékkal élő fogyasztóként – a védendő fogyasztók nyilvántartásába történő felvételére való jogosultságát
 
-a) a 10. számú melléklet A)–B) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, vagy
+a) a 10. számú melléklet A) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, és
 
-b) a GET 3. § 22. pontja szerinti juttatásokat megállapító vagy e juttatásokat folyósító szerv által kiadott, a jogosultság fennállását igazoló, 30 napnál nem régebbi határozat, illetve igazolás
+b) ha vakok személyi járadékában részesül, akkor a juttatást megállapító vagy e juttatást folyósító szerv által kiadott, a jogosultság fennállását igazoló, 30 napnál nem régebbi határozat, illetve igazolás eredeti példányának bemutatásával, vagy a 10. számú melléklet B) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, vagy
 
-eredeti példányának bemutatásával igazolhatja. Az igazolást az engedélyes a jogosultság megszűnését követő 5 évig köteles megőrizni.
+c) ha fogyatékossági támogatásban részesül, akkor a juttatást megállapító vagy e juttatást folyósító szerv által kiadott, a jogosultság fennállását igazoló, 30 napnál nem régebbi határozat, illetve igazolás eredeti példányának bemutatásával, vagy a 10. számú melléklet B) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, és a 10. számú melléklet C) része szerinti nyomtatvány, vagy
 
-(2)[^118] A fogyatékosság jellegét a kezelőorvos, ennek hiányában a háziorvos állapítja meg – amennyiben a Nemzeti Rehabilitációs és Szociális Hivatal szakvélemény vagy szakhatósági állásfoglalás kiadására vonatkozó feladat- és hatásköre az érintettre kiterjed, a szakvéleménnyel, szakhatósági állásfoglalással összhangban –, és a 10. számú melléklet C) része szerinti formanyomtatvány kitöltésével igazolja abból a célból, hogy az érintett engedélyes azonosítani tudja a jogszabályok és az üzletszabályzata szerinti különleges bánásmód jellegét, tartalmát. A fogyatékosság jellegét az alábbi csoportok egyikébe (vagy egyidejűleg több csoportba) sorolás révén kell megállapítani:
+d) ha a földgázellátásból való kikapcsolás vagy a földgázellátás megszakadása a lakossági fogyasztó, vagy a vele közös háztartásban élő személy életét vagy egészségét közvetlenül veszélyezteti, akkor a 10. számú melléklet C) része szerinti nyomtatvány
 
-a) olyan jellegű fogyatékosság, amely a fogyatékkal élő fogyasztót alkalmatlanná teszi a mérő leolvasására, mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére,
+benyújtásával igazolhatja. A benyújtott iratokat vagy azok másolatát az engedélyes a jogosultság megszűnését követő 2 évig köteles megőrizni.
 
-b) olyan jellegű fogyatékosság, amely a fogyatékkal élő személy egészségét, életét veszélyezteti a fogyasztó szerződésszegése alapján kezdeményezett kikapcsolása esetén,
+(2) A fogyatékosság jellegét – amely a fogyatékkal élő fogyasztót alkalmatlanná teszi a fogyasztásmérő berendezés leolvasására, mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére – vagy az (1) bekezdés d) pontjának való megfelelést a kezelőorvos, ennek hiányában a háziorvos a 10. számú melléklet C) része szerinti nyomtatvány kitöltésével igazolja abból a célból, hogy az érintett engedélyes azonosítani tudja a jogszabályok és az üzletszabályzata szerinti különleges bánásmód jellegét, tartalmát.
 
-c) olyan jellegű fogyatékosság, amely a fogyatékkal élő személy életét veszélyezteti a földgázellátás tervezett szüneteltetése vagy üzemzavar jellegű szünetelése esetén.
+(3) Ha a Nemzeti Rehabilitációs és Szociális Hivatal szakvéleményezési hatásköre az érintettre kiterjed, a kezelőorvos vagy háziorvos e szerv szakvéleménye alapján állapítja meg a fogyatékosság jellegét vagy az (1) bekezdés d) pontjának való megfelelést.
 
-(3) A vakok személyi járadékában részesülő személy esetén e jogosultság igazolása alapján a (2) bekezdés a) pontja szerinti csoportba tartozást vélelmezni kell, és nem kell a 10. számú melléklet szerinti formanyomtatvány C) részét kitölteni, ha a vakok személyi járadékában részesülő személy egyéb fogyatékosság alapján további csoportba történő felvételét nem kívánja kezdeményezni.
-
-[^117]: A Vhr. 59. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^118]: A Vhr. 59. § (2) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^188]: A Vhr. 59. §-a a 378/2011. (XII. 31.) Korm. rendelet 50. §-ával megállapított szöveg.

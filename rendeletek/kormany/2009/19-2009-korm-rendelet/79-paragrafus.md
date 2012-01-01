@@ -1,3 +1,3 @@
-79. §[^143] Korlátozás esetére a földgázelosztási szerződésnek rendelkeznie kell a korlátozás során alkalmazandó eljárásrendről.
+79. §[^241] Korlátozás esetére a kapacitáslekötési és a kereskedelmi szerződésnek rendelkeznie kell a korlátozás során alkalmazandó eljárásrendről.
 
-[^143]: A Vhr. 79. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^241]: A Vhr. 79. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.

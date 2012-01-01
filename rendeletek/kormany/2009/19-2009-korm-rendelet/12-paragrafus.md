@@ -1,3 +1,3 @@
-12. §[^35] A földgázelosztónak biztosítania kell az előre fizető mérőket üzemeltető feltöltő kártya, vagy feltöltő egység feltöltésének műszaki lehetőségét. Az előre fizető mérők üzemeltetésének és feltöltésének részletes szabályait az engedélyesek üzletszabályzata tartalmazza.
+12. §[^63] A földgázelosztónak biztosítania kell az előre fizető mérő működéséhez szükséges feltöltő kártya, vagy feltöltő egység feltöltésének műszaki lehetőségét. Az előre fizető mérők üzemeltetésének és feltöltésének részletes szabályait a földgázelosztó és a földgázkereskedő üzletszabályzata tartalmazza.
 
-[^35]: A Vhr. 12. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^63]: A Vhr. 12. § a 378/2011. (XII. 31.) Korm. rendelet 38. §-ával megállapított szöveg.

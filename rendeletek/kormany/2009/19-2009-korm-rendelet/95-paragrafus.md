@@ -2,6 +2,6 @@
 
 ## Infrastruktúra-fejlesztés
 
-95. §[^169] A Hivatal a GET 81. § (2)–(3) bekezdése szerinti adatbázis felépítését legalább 5 évente felülvizsgálja, amelynek során a szállítási rendszerirányító köteles a Hivatallal együttműködni.
+95. §[^290] A Hivatal a GET 81. § (2)–(3) bekezdése szerinti adatbázis felépítését legalább 5 évente felülvizsgálja, amelynek során a szállítási rendszerirányító köteles a Hivatallal együttműködni.
 
-[^169]: A Vhr. 95. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^290]: A Vhr. 95. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.

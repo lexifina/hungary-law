@@ -1,15 +1,21 @@
-115/A. §[^190] (1)[^191] Az engedélyes biztosítja, hogy a számlázás és az elszámolás a tényleges energiafogyasztáson alapuljon, megjelenítése világos, érthető módon történjen, a távlehívható fogyasztásmérővel rendelkező felhasználó esetén minden alkalommal, a távlehívható mérővel nem rendelkező felhasználó esetén pedig a (2) bekezdésben foglaltaknak megfelelően. A távleolvasott adatokhoz való, internetes honlapon keresztül történő hozzáférést az engedélyes az üzletszabályzatában meghatározott módon biztosítja a felhasználó számára.
+115/A. §[^340] (1) A számlázásnak és az elszámolásnak világosan, érthető módon kell történnie, valamint a tényleges energiafogyasztáson kell alapulnia.
 
-(2)[^192] A földgázkereskedő és az egyetemes szolgáltató köteles évente egy alkalommal az elszámoló számlán vagy ahhoz csatoltan tájékoztatásul feltüntetni:
+(2) A (4) bekezdés szerinti adatokat távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében minden alkalommal, nem távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében évente egy alkalommal kell a számlán feltüntetni. A távleolvasott adatokhoz való, internetes felületen keresztül történő hozzáférést a földgázelosztó az üzletszabályzatában meghatározott módon térítésmentesen biztosítja a felhasználó számára.
 
-a) a földgáz tényleges, aktuális (és évközi árváltozás esetén az évközi időszakos) értékesítési árát és az elszámolási időszakra vonatkozó nyitó és záró fogyasztásmérő-állásokkal együtt a tényleges energiafogyasztást,
+(3) A részszámlán a földgáz értékesítési árát minden alkalommal fel kell tüntetni.
 
-b) a felhasználó elszámoló számlában elszámolt energiafogyasztásának az azt megelőző elszámolási időszakban mért fogyasztásnak az összehasonlítását, ha ez az adat ugyanazon szerződés alapján rendelkezésre áll,
+(4) A földgázkereskedő köteles az elszámoló számlán és a végszámlán feltüntetni
 
-c) a lakossági fogyasztók részére az átlagos földgázfogyasztással történő összehasonlítást vagy az összehasonlítási lehetőség elérhetőségét, és
+a) a földgáz tényleges értékesítési árát, elszámolási időszakon belüli árváltozás esetében az elszámolási időszak értékesítési árait is, és
 
-d) a 23/A. §-ban megjelölt elérhetőséget.
+b) az elszámolási időszakra vonatkozó kezdő és záró fogyasztásmérő-állásokkal együtt a tényleges energiafogyasztást.
 
-[^190]: A Vhr. 115/A. §-át a 64/2009. (III. 31.) Korm. rendelet 2. § (5) bekezdése iktatta be.
-[^191]: A Vhr. 115/A. § (1) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^192]: A Vhr. 115/A. § (2) bekezdése a 116/2010. (IV. 15.) Korm. rendelet 23. §-ával megállapított szöveg.
+(5) A földgázkereskedő köteles évente egy alkalommal tájékoztatást adni:
+
+a) a felhasználó számlában elszámolt éves energiafogyasztásának és az azt megelőző éves elszámolási időszakban mért fogyasztással való összehasonlításáról, ha ez az adat ugyanazon szerződés alapján rendelkezésre áll,
+
+b) a lakossági fogyasztók részére az átlagos földgázfogyasztással történő összehasonlításról vagy az összehasonlítási lehetőség elérhetőségéről, és
+
+c) a 23/A. §-ban megjelölt elérhetőségről.
+
+[^340]: A Vhr. 115/A. §-át a 64/2009. (III. 31.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 378/2011. (XII. 31.) Korm. rendelet 68. §-ával megállapított szöveg.

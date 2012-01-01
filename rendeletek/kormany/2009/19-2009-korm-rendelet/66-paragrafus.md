@@ -1,3 +1,3 @@
-66. §[^125] E rendelet alkalmazásában földgáznak minősül a GET 3. § 26. pontjában leírt földgáz minőségű biogáz és biomasszából származó gázok, valamint egyéb, nem természetes úton előállított, éghető gázok és elegyeik.
+66. §[^207]
 
-[^125]: A Vhr. 66. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^207]: A Vhr. 66. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

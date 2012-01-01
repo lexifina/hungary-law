@@ -1,3 +1,3 @@
-23. §[^49] A földgázkereskedő előre fizető mérőn keresztül történő vételezés esetén biztosítja a földgáz-értékesítést lehetővé tevő előrefizetés és feltöltés lehetőségét.
+23. §[^82] A földgázkereskedő előre fizető mérőn keresztül történő vételezés esetén biztosítja a földgáz-értékesítést lehetővé tevő előrefizetés és feltöltés lehetőségét.
 
-[^49]: A Vhr. 23. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^82]: A Vhr. 23. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

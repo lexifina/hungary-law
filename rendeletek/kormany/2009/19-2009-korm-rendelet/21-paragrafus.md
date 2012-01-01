@@ -1,3 +1,3 @@
-21. §[^47] A földgázkereskedő a működési engedélye alapján jogosult a földgáznak a Magyar Köztársaság államhatárán keresztül történő be-, és kiszállítására.
+21. §[^80] A földgázkereskedő a működési engedélye alapján jogosult a földgáznak Magyarország államhatárán keresztül történő be-, és kiszállítására.
 
-[^47]: A Vhr. 21. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^80]: A Vhr. 21. §-a a 304/2011. (XII. 23.) Korm. rendelet 35. §-a szerint módosított szöveg.

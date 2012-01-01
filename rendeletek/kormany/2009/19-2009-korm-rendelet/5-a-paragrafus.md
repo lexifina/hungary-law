@@ -1,4 +1,4 @@
-5/A. §[^24] A szállítási rendszerüzemeltető a napi egyensúlyozó feladatainak ellátásához az alábbi egyensúlyozó eszközöket veheti igénybe:
+5/A. §[^37] A szállítási rendszerüzemeltető a napi egyensúlyozó feladatainak ellátásához az alábbi egyensúlyozó eszközöket veheti igénybe:
 
 a) a földgázkereskedők vagy felhasználók által felajánlott lekötött, de fel nem használt kapacitások,
 
@@ -12,4 +12,4 @@ e) a szervezett földgázpiacról beszerzett földgáz mennyiség és kapacitás
 
 f) a szállítási rendszerüzemeltető által importból beszerzett földgáz mennyiség vagy opciós forrás.
 
-[^24]: A Vhr. 5/A. §-t a 75/2011. (V. 2.) Korm. rendelet 17. §-a iktatta be.
+[^37]: A Vhr. 5/A. §-t a 75/2011. (V. 2.) Korm. rendelet 17. §-a iktatta be.

@@ -2,6 +2,6 @@
 
 ## A szállító- és az elosztóvezetékhez való csatlakozás
 
-63. §[^122] Az elosztóvezetékhez való csatlakozás részletes szabályait e rendelet 1. számú melléklete szerinti Gázelosztási Szabályzat (a továbbiakban: GESZ) és a csatlakozási díjakat megállapító külön jogszabály tartalmazza.
+63. §[^203] Az elosztóvezetékhez való csatlakozás részletes szabályait az 1. számú melléklet és a csatlakozási díjakat megállapító jogszabály tartalmazza.
 
-[^122]: A Vhr. 63. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^203]: A Vhr. 63. §-a a 378/2011. (XII. 31.) Korm. rendelet 53. §-ával megállapított szöveg.

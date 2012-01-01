@@ -1,3 +1,3 @@
-81. §[^145] A földgázszállító, a földgázelosztó és a földgáztároló technológiai célra és a veszteségeik pótlására, pályáztatás útján, átlátható módon köteles földgázt beszerezni.
+81. §[^243] A rendszerüzemeltető technológiai célra és a veszteségeik pótlására, pályáztatás útján, átlátható módon köteles földgázt beszerezni.
 
-[^145]: A Vhr. 81. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^243]: A Vhr. 81. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.

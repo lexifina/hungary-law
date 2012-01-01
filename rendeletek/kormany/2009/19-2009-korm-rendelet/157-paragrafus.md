@@ -1,25 +1,27 @@
-157. §[^272] (1) A GET 139. § (1) bekezdése alapján a közüzemi szolgáltató helyébe lépő egyetemes szolgáltató szerződéskötési kötelezettségének teljesítése érdekében 2009. december 31-ig köteles – a 2009. július 1-jén vagy azt követően szerződést kötött felhasználók kivételével – minden általa ellátott felhasználót írásban legalább a következőkről tájékoztatni:
+157. §[^445] (1) Az egyetemes szolgáltató az üzletszabályzat részét képező egyetemes szolgáltatási szerződés mintájának Hivatal általi jóváhagyását követő 30 napon belül köteles a honlapján és az ügyfélszolgálatain közzétenni a GET 139. § (4) bekezdésében meghatározott egyetemes szolgáltatási szerződés írásba foglalására vonatkozó eljárásrendet. A tájékoztatásnak tartalmaznia kell továbbá
 
-a) saját elérhetőségeiről (ügyfélszolgálatok, telefon, internet),
+a) azt, hogy az írásbeli egyetemes szolgáltatási szerződéssel nem rendelkező felhasználókkal 2016. július 1-jéig írásbeli egyetemes szolgáltatási szerződést kell kötni,
 
-b) arról, hogy 2010. július 1-jéig a GET és e rendelet rendelkezéseinek megfelelő egyetemes szolgáltatási szerződéseket meg kell kötni,
+b) azt, hogy milyen módon köthetnek írásbeli egyetemes szolgáltatási szerződést,
 
-c) arról, hogy milyen módon köthetnek levélváltás útján, vagy személyesen az ügyfélszolgálaton egyetemes szolgáltatási szerződést,
+c) az írásbeli egyetemes szolgáltatási szerződés megkötéséhez szükséges iratokat, adatokat,
 
-d) az egyetemes szolgáltatási szerződés megkötéséhez szükséges iratokról, adatokról,
+d) a más földgázkereskedőtől vagy egyetemes szolgáltatótól történő földgázvásárlás lehetőségére vonatkozó információkat, és
 
-e) a más földgázkereskedőtől vagy egyetemes szolgáltatótól történő földgázvásárlás lehetőségéről,
+e) az általános szerződési feltételeket tartalmazó üzletszabályzat hozzáférhetőségére vonatkozó információkat.
 
-f) az általános szerződési feltételeket tartalmazó üzletszabályzat hozzáférhetőségére vonatkozó információkról,
+(2) Az egyetemes szolgáltató köteles az írásbeli egyetemes szolgáltatási szerződéssel nem rendelkező felhasználóknak
 
-g) arról, hogy ha a felhasználó 2010. július 1-jéig nem köti meg az egyetemes szolgáltatási szerződést, akkor az írásbeli közüzemi szerződéssel rendelkező felhasználók esetében 2010. július 2-tól a közüzemi szerződés a jogszabályi változásoknak megfelelő tartalommal, az egyetemes szolgáltató üzletszabályzatának mellékletét képező mintaszerződéssel összhangban marad hatályban, az írásbeli közüzemi szerződéssel nem rendelkező felhasználók esetében az egyetemes szolgáltatást az egyetemes szolgáltató üzletszabályzatának mellékletét képező mintaszerződés feltételei szerint kell biztosítani és igénybe venni.
+a) az egyetemes szolgáltató ügyfélszolgálatán bármely ügyben történő személyes ügyintézése esetén, valamint
 
-(2) Ha a felhasználó a megküldött tájékoztatás alapján az egyetemes szolgáltatási szerződést meg kívánja kötni, az egyetemes szolgáltató köteles 30 napon belül a felhasználóhoz eljuttatni, illetve az ügyfélszolgálaton történő személyes eljárás esetén rendelkezésére bocsátani az egyetemes szolgáltatásra vonatkozó szerződési ajánlatát.
+b) az üzletszabályzatában meghatározott módon
 
-(3) Az egyetemes szolgáltató a GET és e rendelet rendelkezéseinek megfelelő egyetemes szolgáltatási szerződésekről naprakész nyilvántartást vezet, amelynek alapján az új szerződéssel rendelkező felhasználók számáról, és azoknak az összes felhasználóhoz viszonyított arányáról a Hivatalt 2010. március 31-től negyedévente tájékoztatja.
+új szerződés kötésére ajánlatot tenni.
 
-(4) Az egyetemes szolgáltató köteles az (1) bekezdés g) pontjának hatálya alá tartozó felhasználókkal azoknak az egyetemes szolgáltató ügyfélszolgálatán bármely ügyben történő személyes ügyintézése esetén a GET és e rendelet rendelkezéseinek megfelelő új szerződés megkötését kezdeményezni.
+(3) Személyes ügyintézés esetében a (2) bekezdésben meghatározott felhasználót az üzletszabályzatban meghatározott módon tájékoztatni kell az egyetemes szolgáltatási szerződés írásba foglalásának kötelezettségéről, valamint az (1) bekezdés a)–e) pontjában foglaltakról. Ha a felhasználó az egyetemes szolgáltatási szerződést az ügyfélszolgálaton nem írja alá, a szerződéstervezet egyetemes szolgáltató által aláírt két példányát a felhasználónak át kell adni, valamint ahhoz előzetesen bérmentesített válaszborítékot kell mellékelni.
 
-(5) A tájékoztatók szövegét a Hivatal részére előzetesen be kell mutatni. A Hivatal elrendelheti az e § rendelkezéseinek nem megfelelő, hiányos vagy megtévesztő tájékoztató módosítását.
+(4) A (2) bekezdés b) pontjában meghatározott ajánlattétel esetén az egyetemes szolgáltató a szerződéstervezet felhasználó részére történő megküldését megelőzően legalább egy, de legfeljebb két hónappal köteles az üzletszabályzatában meghatározott módon tájékoztatni az írásbeli egyetemes szolgáltatási szerződéssel nem rendelkező felhasználót a szerződés írásba foglalásának kötelezettségéről. A tájékoztatásnak az (1) bekezdés a)–e) pontjain felül tartalmaznia kell a szerződéstervezet megküldésének időpontját.
 
-[^272]: A Vhr. 157. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+(5) A (4) bekezdés szerinti esetben az egyetemes szolgáltató az üzletszabályzatában szereplő szerződésmintának megfelelő szerződéstervezet általa aláírt két példányát az üzletszabályzatában meghatározott módon megküldi az írásba foglalt szerződéssel nem rendelkező felhasználónak. A szerződéstervezethez az (1) bekezdés a)–e) pontját tartalmazó tájékoztatást, valamint előzetesen bérmentesített válaszborítékot kell mellékelni.
+
+[^445]: A Vhr. 157. § a 378/2011. (XII. 31.) Korm. rendelet 76. §-ával megállapított szöveg.
