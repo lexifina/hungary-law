@@ -1,0 +1,9 @@
+## 4. § Az R. 3. §-a helyébe a következő rendelkezés lép:
+
+## „3. § (1) Az SZJA törvény 71. § (1) bekezdés c) pontja szerinti Széchenyi Pihenő Kártya támogatás jogcímén juttatott támogatásokat az elektronikus utalvány nyilvántartásban elkülönítetten kell nyilvántartani, az elektronikus utalvány nyilvántartás elkülönített részére kizárólag az SZJA törvény 71. § (1) bekezdés c) pontjában meghatározott támogatások érkezhetnek. Az elektronikus utalvány nyilvántartás elkülönített részén belül az SZJA törvény 71. § (1) bekezdés c) pont ca)–cc) alpontja szerinti egyes alszámlákra utalt támogatások másik alszámlára nem utalhatók át, azokat kizárólag a munkáltató általi utalásban megjelölt alszámlán lehet nyilvántartani, és csak az alszámlának megfelelő 5. § a)–c) pontja szerinti szolgáltatás nyújtására lehet beváltani.
+
+## (2) Az intézmény a munkáltató megrendelése alapján, munkavállalónként személyes elektronikus utalvány nyilvántartást nyit, amelyen naprakészen vezeti az SZJA törvény 71. § (1) bekezdés c) pontjában meghatározott jogcímeken juttatott munkáltatói támogatások egyenlegét.
+
+## (3) Az SZJA törvény 71. § (1) bekezdés c) pontjában meghatározott támogatásokat a munkáltató az intézménytől általa megrendelt elektronikus utalványkártyán keresztül biztosítja a munkavállaló számára, elektronikus utalvány formájában. Az elektronikus utalványkártyára a munkavállaló számára egy időben több munkáltatótól is juttatható támogatás. A munkáltató számára a Széchenyi Pihenőkártya támogatás beszerzése és az intézménnyel megkötendő szerződés nem visszterhes.
+
+## (4) A munkáltató az SZJA törvény 71. § (1) bekezdés c) pontjában meghatározott jogcímeken juttatott éves támogatásokat a béren kívüli juttatásokról szóló jogszabály, megállapodás, utasítás vagy szabályzat, nyilatkozat szerint biztosítja.”
