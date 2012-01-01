@@ -1,6 +1,6 @@
 ## Az európai közösségi jogász névjegyzéke
 
-89/B. § (1) Európai közösségi jogászként a Magyar Köztársaság területén ügyvédi tevékenység
+89/B. § (1) Európai közösségi jogászként Magyarország területén ügyvédi tevékenység
 
 a) állandó jelleggel csak az európai közösségi jogászok kamara által vezetett névjegyzékébe (e Fejezet alkalmazásában a továbbiakban: névjegyzék) történő felvételt, vagy
 

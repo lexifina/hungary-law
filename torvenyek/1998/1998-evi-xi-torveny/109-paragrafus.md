@@ -10,4 +10,4 @@
 
 (4) A Magyar Ügyvédi Kamara székhelye: Budapest.
 
-(5) A Magyar Ügyvédi Kamara jogosult a Magyar Köztársaság címerének használatára.
+(5)

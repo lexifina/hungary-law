@@ -8,7 +8,7 @@ c) alkalmazott európai közösségi jogászként kíván ügyvédi tevékenysé
 
 szerint illetékes kamaránál kell előterjeszteni.
 
-(2) Ha az európai közösségi jogász igazolja, hogy a saját EGT-államának előírásai szerint, a Magyar Köztársaság területén végzett ügyvédi tevékenységére is kiterjedő hatályú ügyvédi felelősségbiztosítással vagy biztosító-pénztári tagsággal rendelkezik, az erről szóló igazolás az ügyvédi felelősségbiztosítás meglétét tanúsítja. A kamara az igazolás ismeretében kiegészítő biztosítás megkötését írja elő, ha a biztosítási szerződés a szerződési feltételek és a biztosítási összeg tekintetében nem felel meg a magyar jogszabályok által előírt követelményeknek.
+(2) Ha az európai közösségi jogász igazolja, hogy a saját EGT-államának előírásai szerint, Magyarország területén végzett ügyvédi tevékenységére is kiterjedő hatályú ügyvédi felelősségbiztosítással vagy biztosító-pénztári tagsággal rendelkezik, az erről szóló igazolás az ügyvédi felelősségbiztosítás meglétét tanúsítja. A kamara az igazolás ismeretében kiegészítő biztosítás megkötését írja elő, ha a biztosítási szerződés a szerződési feltételek és a biztosítási összeg tekintetében nem felel meg a magyar jogszabályok által előírt követelményeknek.
 
 (3) A felelősségbiztosítóval szembeni igényérvényesítés érdekében az európai közösségi jogász megbízója kérelmére a kamara köteles
 

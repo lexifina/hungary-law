@@ -8,4 +8,4 @@
 
 (4) A másodfokú eljárásban az első fokú eljárás szabályait kell megfelelően alkalmazni.
 
-(5) A másodfokú határozat ellen az eljárás alá vont ügyvéd, a képviselője és a kamara elnöke a kézbesítéstől számított 30 napon belül a közigazgatási perekre (Pp. XX. fejezet) irányadó szabályok szerint bírósághoz fordulhat. A perre a Fővárosi Bíróság illetékes.
+(5) A másodfokú határozat ellen az eljárás alá vont ügyvéd, a képviselője és a kamara elnöke a kézbesítéstől számított 30 napon belül a közigazgatási perekre (Pp. XX. fejezet) irányadó szabályok szerint bírósághoz fordulhat. A perre a Fővárosi Törvényszék illetékes.

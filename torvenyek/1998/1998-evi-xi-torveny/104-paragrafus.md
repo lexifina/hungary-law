@@ -22,4 +22,4 @@ h) ellátja a területi kamara alapszabályában meghatározott egyéb feladatok
 
 (3) A területi kamara alapszabályát, a területi szabályzatot és a területi iránymutatást tájékoztatásul meg kell küldeni a Magyar Ügyvédi Kamarának. A területi kamara alapszabálya a területi kamara tagjaira, a területi szabályzat a területi kamara tagjaira, a területi kamara névjegyzékében szereplő alkalmazott ügyvédekre és ügyvédjelöltekre kötelező.
 
-(4) A közgyűlés határozata ellen a területi kamara tagja – jogszabály, alapszabály vagy szabályzat megsértésére hivatkozással – a határozat közlésétől számított 30 napon belül az illetékes megyei bírósághoz (Fővárosi Bírósághoz) fordulhat. A bíróság a perben a Polgári perrendtartásról szóló 1952. évi III. törvény (Pp.) általános szabályai szerint jár el.
+(4) A közgyűlés határozata ellen a területi kamara tagja – jogszabály, alapszabály vagy szabályzat megsértésére hivatkozással – a határozat közlésétől számított 30 napon belül az illetékes törvényszékhez fordulhat. A bíróság a perben a Polgári perrendtartásról szóló 1952. évi III. törvény (Pp.) általános szabályai szerint jár el.

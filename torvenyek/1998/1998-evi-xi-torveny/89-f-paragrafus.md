@@ -4,7 +4,7 @@
 
 a) megfelel a 13. § (3) bekezdésének e)–g) pontjában foglalt feltételeknek,
 
-b) az általa ellátott ügyek számára és jellegére vonatkozó iratokkal, illetve a kamara külön felhívására személyes meghallgatáson hitelt érdemlően igazolja, hogy a Magyar Köztársaság területén megszakítás nélkül három éven át folytatott ügyvédi tevékenységet a magyar joggal kapcsolatban (ideértve az Európai Unió jogának magyarországi alkalmazásával kapcsolatos tevékenységet is), és
+b) az általa ellátott ügyek számára és jellegére vonatkozó iratokkal, illetve a kamara külön felhívására személyes meghallgatáson hitelt érdemlően igazolja, hogy Magyarország területén megszakítás nélkül három éven át folytatott ügyvédi tevékenységet a magyar joggal kapcsolatban (ideértve az Európai Unió jogának magyarországi alkalmazásával kapcsolatos tevékenységet is), és
 
 c) a személyes meghallgatáson bizonyítja, hogy rendelkezik az ügyvédi tevékenység gyakorlásához szükséges szintű magyar nyelvtudással.
 

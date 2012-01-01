@@ -1,8 +1,8 @@
 ## IX. Fejezet
 
-## AZ EURÓPAI GAZDASÁGI TÉRSÉGRŐL SZÓLÓ MEGÁLLAPODÁSBAN RÉSZES VALAMELY MÁS ÁLLAMBAN ÜGYVÉDI TEVÉKENYSÉG FOLYTATÁSÁRA JOGOSULTAK ÜGYVÉDI TEVÉKENYSÉGE A MAGYAR KÖZTÁRSASÁG TERÜLETÉN
+## AZ EURÓPAI GAZDASÁGI TÉRSÉGRŐL SZÓLÓ MEGÁLLAPODÁSBAN RÉSZES VALAMELY MÁS ÁLLAMBAN ÜGYVÉDI TEVÉKENYSÉG FOLYTATÁSÁRA JOGOSULTAK ÜGYVÉDI TEVÉKENYSÉGE MAGYARORSZÁG TERÜLETÉN
 
-89/A. § (1) E törvény rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni annak a magyar állampolgárnak, illetve a külön törvény alapján szabad mozgás és tartózkodás jogával rendelkező személynek a Magyar Köztársaság területén kifejtett tevékenységére, aki a külön jogszabályban meghatározott szakmai megnevezések valamelyike alatt ügyvédi tevékenység folytatására jogosult valamely EGT-államban (a továbbiakban: európai közösségi jogász).
+89/A. § (1) E törvény rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni annak a magyar állampolgárnak, illetve a külön törvény alapján szabad mozgás és tartózkodás jogával rendelkező személynek Magyarország területén kifejtett tevékenységére, aki a külön jogszabályban meghatározott szakmai megnevezések valamelyike alatt ügyvédi tevékenység folytatására jogosult valamely EGT-államban (a továbbiakban: európai közösségi jogász).
 
 (2) E Fejezet alkalmazásában EGT-állam az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, ha a vonatkozó nemzetközi szerződés eltérően nem rendelkezik.
 

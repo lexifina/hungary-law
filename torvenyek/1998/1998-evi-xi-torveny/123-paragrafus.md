@@ -1,4 +1,4 @@
-123. § (1) Ha az érintett kamara a jogszabálysértést nem szüntette meg, az igazságügyért felelős miniszter – a felhívásában megadott határidő lejártától számított 30 napon belül – az illetékes megyei bírósághoz (Fővárosi Bírósághoz) fordulhat. A bíróság a perben a Pp. általános szabályai szerint jár el.
+123. § (1) Ha az érintett kamara a jogszabálysértést nem szüntette meg, az igazságügyért felelős miniszter – a felhívásában megadott határidő lejártától számított 30 napon belül – az illetékes törvényszékhez fordulhat. A bíróság a perben a Pp. általános szabályai szerint jár el.
 
 (2) Ha a bíróság az (1) bekezdés alapján indított eljárás eredményeként a jogszabálysértést megállapítja,
 

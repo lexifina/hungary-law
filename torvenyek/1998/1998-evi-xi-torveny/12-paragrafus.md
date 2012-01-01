@@ -1,6 +1,6 @@
 ## Az ügyvédi kamara
 
-12. § (1) Az ügyvédi kamara az ügyvédek önkormányzati elven alapuló, szakmai és érdekképviseleti feladatokat ellátó köztestülete.
+12. § (1) Az ügyvédi kamara az ügyvédek önkormányzati elven alapuló, szakmai és érdekképviseleti feladatokat ellátó köztestülete. Az ügyvédi kamarát a törvényszék nem veszi nyilvántartásba.
 
 (2) Az ügyvédi kamara az ügyvédek szakmai irányításával, érdekképviseletével kapcsolatos közfeladatokat látja el. Ennek során
 
