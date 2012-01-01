@@ -8,6 +8,6 @@
 
 (4) A megadott engedély nem érinti a szállításban részt vevő tulajdonos, birtokos, szállítmányozó, címzett, egyéb természetes személy vagy jogi személy más jogszabályban meghatározott felelősségét.
 
-(5)[^11] Az engedély legfeljebb 3 évig hatályos.
+(5)[^20] Az engedély legfeljebb 3 évig hatályos.
 
-[^11]: A 13. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 671. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 13. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 671. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

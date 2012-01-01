@@ -1,6 +1,6 @@
 23. § Ez a rendelet a radioaktív hulladékok és a kiégett fűtőelemek szállításának felügyeletéről és ellenőrzéséről szóló, 2006. november 20-i 2006/117/Euratom tanácsi irányelvnek való megfelelést szolgálja.
 
-Melléklet a 34/2009. (II. 20.) Korm. rendelethez[^13]
+Melléklet a 34/2009. (II. 20.) Korm. rendelethez[^27]
 
 FORMANYOMTATVÁNY A RADIOAKTÍV HULLADÉKOK ÉS A KIÉGETT FŰTŐELEMEK SZÁLLÍTÁSÁNAK FELÜGYELETÉHEZ ÉS ELLENŐRZÉSÉHEZ (A TANÁCS 2006/117/EURATOM IRÁNYELVE)
 
@@ -666,4 +666,4 @@ A címzett a 6. részt (átvételi elismervény) az 5. résszel együtt megküld
 
 36. A címzett bejelöli, hogy „nem alkalmazandó” vagy MM vagy TT típusú szállítás esetén kitölti a 36. rovatot vagy külön nyilatkozatot mellékel és megadja a mellékletre való hivatkozást. A kérelmező az 5. és 6. részt továbbítja a szállítási engedély kiadásáért felelős illetékes hatóságnak. Az áttekinthetőség érdekében az utolsó átvételi elismervényhez csatolni kell minden egyes szállításra vonatkozóan a 6. részt.
 
-[^13]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 671. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 671. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
