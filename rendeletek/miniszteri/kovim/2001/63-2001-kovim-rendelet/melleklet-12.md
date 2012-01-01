@@ -156,7 +156,7 @@
 
 ## A léghajó teljes működéspróbája) berepülése a típusdokumentációban szereplő értékek ellenőrzésével történik.
 
-12. számú melléklet a 63/2001. (XII. 23.) KöViM rendelethez[^6]
+12. számú melléklet a 63/2001. (XII. 23.) KöViM rendelethez[^12]
 
 Egyéb légijárművek
 
@@ -1334,4 +1334,4 @@ d) legyen megkövetelve az automatikus magasság-ellenőrző rendszer megléte, 
 
 6. Ezek a standardok képeznek alapot a sárkány, a magasságmérés, a magasságmérő felszerelések és az automatikus magasság-ellenőrző rendszer eltérő teljesítmény-szempontjainak érvényesítéséhez. Fontos felismerni azt, hogy a határok olyan tanulmányokon alapulnak (9536. számú dokumentum. 2. kötet), melyek afelé mutatnak, hogy az ASE névlegesen egy légijármű csoportra vonatkozó normál eloszlás karakterisztikus középértéke felé tendál, valamint azt, hogy a különböző csoportoknak a szolgálat során nyújtott teljesítményei közösen úgy halmozódnak, hogy a végső teljesítmény-szórás, mely a populáció körül oszlik el, zérus névleges TVE-t jelent. Ebből az következik, hogy gondoskodni kell egy ellenőrzésről, mely kizárja annak a lehetőségét, hogy az egyedi légijármű jóváhagyások olyan csoportokat teremtsenek, melyek egyedei a 25 métert jelentősen meghaladó középérték körül üzemelnek. Ilyen eset akkor merül fel, ha a magasságmérő rendszer elemei kiugró hibákat létesítenek és ezek a korrigált közepes statikus nyomáfelvevő hibájához hozzáadódnak.
 
-[^6]: A 12. számú melléklet a 118/2007. (XII. 29.) GKM rendelet 3. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^12]: A 12. számú melléklet a 118/2007. (XII. 29.) GKM rendelet 3. § (2) bekezdésének c) pontja szerint módosított szöveg.

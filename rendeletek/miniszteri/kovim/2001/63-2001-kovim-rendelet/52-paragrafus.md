@@ -26,7 +26,7 @@ b) a légijármű típusa, lajstromjele, gyári száma,
 
 c) a kérelmező nyilatkozata arról, hogy a légijárművön műszaki szemlét hajtott végre, és azt az egyszeri repülésre alkalmasnak találta,
 
-d) a légijármű külön jogszabályban[^2] meghatározott biztosítási igazolása,
+d) a légijármű külön jogszabályban[^7] meghatározott biztosítási igazolása,
 
 e) a repülés végrehajtásának ideje alatt a fedélzeten tartózkodók névsora, feladat,
 
@@ -48,4 +48,4 @@ b) törölte a lajstromból,
 
 c) lefoglalták.
 
-[^2]: 39/2001. (III. 5.) Korm. rendelet a légiközlekedési kötelező felelősségbiztosításról.
+[^7]: 39/2001. (III. 5.) Korm. rendelet a légiközlekedési kötelező felelősségbiztosításról.

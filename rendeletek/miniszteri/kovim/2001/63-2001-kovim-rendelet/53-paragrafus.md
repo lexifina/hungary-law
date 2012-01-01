@@ -1,6 +1,6 @@
 ## Légialkalmasságot értékelő jegyzőkönyv
 
-53. § (1) A hatóság a Magyar Köztársaság légterében repüléseket végző, lajstromba vételre nem kötelezett, kísérleti vagy egyedi célú repülések végrehajtására épített légijármű légialkalmasságának vizsgálatát is elvégzi a gyártó, a tulajdonos vagy az üzemben tartó kérelmére.
+53. § (1)[^8] A hatóság Magyarország légterében repüléseket végző, lajstromba vételre nem kötelezett, kísérleti vagy egyedi célú repülések végrehajtására épített légijármű légialkalmasságának vizsgálatát is elvégzi a gyártó, a tulajdonos vagy az üzemben tartó kérelmére.
 
 (2) A hatóság az elvégzett vizsgálat eredményéről légialkalmasságot értékelő jegyzőkönyvet készít.
 
@@ -35,3 +35,5 @@ f) az értékelést kérő egyetértő vagy egyet nem értő záradékát.
 (5) A légialkalmasságot értékelő jegyzőkönyv a vizsgálat időpontjában értékeli légijármű légialkalmasságát, ezért érvényességi ideje nincs, visszavonni nem lehet.
 
 (6) A légialkalmasságot értékelő jegyzőkönyvnek hatósági tanúsító értéke nincs, a légijármű légiközlekedésben való alkalmazására nem jogosít. Az értékelést kérő a légialkalmasságot értékelő jegyzőkönyvet saját céljaira, fejlesztési törekvéseinek értékelése, további fejlesztések, reklám, együttműködési tárgyalások, külföldi hatóságok előtti eljárás során korlátozás nélkül felhasználhatja.
+
+[^8]: Az 53. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 19. § b) pontja szerint módosított szöveg.

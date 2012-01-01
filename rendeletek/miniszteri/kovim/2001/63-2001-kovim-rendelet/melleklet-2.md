@@ -28,6 +28,6 @@
 
 | Megjegyzések: Notes: |
 
-2. számú melléklet a 63/2001. (XII. 23.) KöViM rendelethez[^5]
+2. számú melléklet a 63/2001. (XII. 23.) KöViM rendelethez[^11]
 
-[^5]: A 2. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 34. §-a szerint módosított szöveg.
+[^11]: A 2. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 34. §-a szerint módosított szöveg.
