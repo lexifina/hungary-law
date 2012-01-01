@@ -1,1 +1,0 @@
-## 13. § Az 1. §-ban meghatározott szervek közötti áthelyezés esetén, amennyiben a természetbeni ellátás még nem történt meg, az áthelyezett felmért méretadatait az átadásra kerülő ruházati ellátási dokumentáció részeként kell átadni.

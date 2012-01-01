@@ -1,1 +1,0 @@
-## 6. § Azon személy részére, aki a RUSZ alapján ruházati utánpótlási ellátmányra jogosult, és e rendelet alapján természetbeni ellátásban nem részesül, a ruházati utánpótlási ellátmány kifizetését az április havi illetménnyel egyidejűleg – a 7. §-ban foglaltak figyelembevételével – kell biztosítani.
