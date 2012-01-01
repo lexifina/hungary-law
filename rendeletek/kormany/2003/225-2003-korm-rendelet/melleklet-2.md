@@ -112,7 +112,7 @@ Nemzetközi merülésvonal-mentességi bizonyítvány.
 
 31. Döntéssegítő rendszer a személyszállító hajók parancsnokainak.
 
-32. SAR[^25] együttműködési terv rögzített útvonalon közlekedő személyszállító hajókra.
+32. SAR[^27] együttműködési terv rögzített útvonalon közlekedő személyszállító hajókra.
 
 33. Operatív korlátozások listája személyszállító hajókra.
 
@@ -120,7 +120,7 @@ Nemzetközi merülésvonal-mentességi bizonyítvány.
 
 35. Be- és kirakodási terv ömlesztettáru-szállítóknak.
 
-36. Az olajszennyezés miatti polgári jogi felelősség esetére szóló biztosításról vagy egyéb pénzügyi biztosítékról szóló igazolás.[^26]
+36. Az olajszennyezés miatti polgári jogi felelősség esetére szóló biztosításról vagy egyéb pénzügyi biztosítékról szóló igazolás.[^28]
 
-[^25]: 2001. évi II. törvény a tengeri felkutatásról és mentésről szóló 1979. évi nemzetközi egyezmény kihirdetéséről.
-[^26]: Az olajszennyezésből eredő kárért viselt polgári jogi felelősségről szóló 1992. évi nemzetközi egyezmény szerint.
+[^27]: 2001. évi II. törvény a tengeri felkutatásról és mentésről szóló 1979. évi nemzetközi egyezmény kihirdetéséről.
+[^28]: Az olajszennyezésből eredő kárért viselt polgári jogi felelősségről szóló 1992. évi nemzetközi egyezmény szerint.

@@ -8,7 +8,7 @@
 
 ## 3. 3000 tonna bruttó űrtartalmat meghaladó és a hajó biztonsági bizonyítványaiban feltüntetett építési dátum alapján számítva 15 évesnél idősebb olajszállító tartályhajók.
 
-## 4. 15 évnél idősebb személyhajók a gyorsjáratú kompok[^27] kivételével
+## 4. 15 évnél idősebb személyhajók a gyorsjáratú kompok[^29] kivételével
 
 ## ,,B'' Rész
 
@@ -144,4 +144,4 @@
 
 5. számú melléklet a 225/2003. (XII. 13.) Korm. rendelethez
 
-[^27]: 16/2002. ( IX. 25.) GKM rendelet a tengeren menetrend szerint közlekedő kompok és gyorsjáratú kompok biztonságos üzemeltetésének kötelező vizsgálatáról.
+[^29]: 16/2002. ( IX. 25.) GKM rendelet a tengeren menetrend szerint közlekedő kompok és gyorsjáratú kompok biztonságos üzemeltetésének kötelező vizsgálatáról.
