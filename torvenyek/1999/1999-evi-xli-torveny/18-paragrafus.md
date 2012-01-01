@@ -2,7 +2,7 @@
 
 18. § (1) Az Ötv. 56. §-a (3) bekezdése alapján létrehozott, területrész átadását előkészítő bizottság javaslatot készít az átadásra kerülő területrész területére, az új közigazgatási határvonalra, a vagyon megosztására, a költségek viselésére. A javaslat a területrész szempontjából bemutatja a lakott területrész átadásának részletes körülményeit, előnyeit, illetőleg feltételeit, így különösen: a fogadó települési önkormányzat székhelyétől való kisebb távolságot, a lakosság számára előnyösebb megközelítést, a közigazgatási, az intézményi és egyéb lakossági szolgáltatások igénybevételének előnyeit; megvizsgálja és bemutatja, hogy az átadás jár-e hátrányokkal az átadó település önkormányzatára, lakosságára nézve.
 
-(2) A javaslat elkészítéséhez – az előkészítő bizottság felkérésére – a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv szakmai segítséget ad, más szerv pedig szakmai segítséget adhat.
+(2) A javaslat elkészítéséhez – az előkészítő bizottság felkérésére – a fővárosi és megyei kormányhivatal szakmai segítséget ad, más szerv pedig szakmai segítséget adhat.
 
 (3) A képviselő-testületek előzetes megállapodásáról, az előkészítő bizottság javaslatáról és a lakott területrész átadásának részletes feltételeiről a lakosságot a helyi népszavazás előtt tájékoztatni kell.
 

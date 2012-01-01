@@ -1,3 +1,3 @@
-12. § (1) Az előkészítő bizottság, a képviselő-testület a miniszter határozatának felülvizsgálatát a kézbesítéstől számított 30 napon belül a miniszternek benyújtott kérelemben a Fővárosi Bíróságtól kérheti. A miniszter az iratokat a kérelem beérkezésétől számított 3 napon belül megküldi a bírósághoz.
+12. § (1) Az előkészítő bizottság, a képviselő-testület a miniszter határozatának felülvizsgálatát a kézbesítéstől számított 30 napon belül a miniszternek benyújtott kérelemben a Fővárosi Törvényszéktől kérheti. A miniszter az iratokat a kérelem beérkezésétől számított 3 napon belül megküldi a bírósághoz.
 
 (2) A bíróság az ügyben a beérkezéstől számított 30 napon belül nemperes eljárásban dönt. Végzésében a kérelmet elutasítja, vagy a miniszter határozatát hatályon kívül helyezi. A végzés ellen fellebbezésnek helye nincs. A miniszter a határozat hatályon kívül helyezése esetén november 30-áig nyújtja be a kezdeményezést a köztársasági elnöknek.
