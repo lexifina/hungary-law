@@ -17,7 +17,3 @@ Az ezen Alaptörvényhez kapcsolódó átmeneti rendelkezéseket az Országgyűl
 A Kormány köteles az Alaptörvény végrehajtásához szükséges törvényjavaslatokat az Országgyűlés elé terjeszteni.
 
 ## * Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
-
-## Dr. Schmitt Pál s. k., köztársasági elnök
-
-## Kövér László s. k., az Országgyűlés elnöke
