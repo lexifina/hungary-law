@@ -1,4 +1,4 @@
-30. § (1) A kiadatási eljárás során a Fővárosi Bíróság engedélyezheti olyan tárgyak átadását a megkereső állam részére, amelyek a kiadatás iránti megkeresés alapjául szolgáló bűncselekmény eszközéül szolgáltak, vagy azokat az elkövető e bűncselekmény útján szerezte meg, illetőleg a bűncselekmény útján megszerzett tárgyak helyébe léptek, vagy tárgyi bizonyítás eszközéül szolgálhatnak.
+30. § (1) A kiadatási eljárás során a Fővárosi Törvényszék engedélyezheti olyan tárgyak átadását a megkereső állam részére, amelyek a kiadatás iránti megkeresés alapjául szolgáló bűncselekmény eszközéül szolgáltak, vagy azokat az elkövető e bűncselekmény útján szerezte meg, illetőleg a bűncselekmény útján megszerzett tárgyak helyébe léptek, vagy tárgyi bizonyítás eszközéül szolgálhatnak.
 
 (2) E tárgyak átadását akkor is engedélyezni lehet, ha a kiadatást engedélyezték, de a kiadni kért személy átadására nem került sor.
 

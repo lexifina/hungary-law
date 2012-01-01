@@ -1,6 +1,6 @@
-22. § (1) A kiadatási letartóztatás legfeljebb hat hónapig tarthat, azt a Fővárosi Bíróság egy alkalommal legfeljebb hat hónappal meghosszabbíthatja. Ha a kiadatást szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtása céljából kérik, a kiadatási letartóztatás tartama nem haladhatja meg a végrehajtandó szabadságvesztés vagy szabadságelvonással járó intézkedés tartamát.
+22. § (1) A kiadatási letartóztatás legfeljebb hat hónapig tarthat, azt a Fővárosi Törvényszék egy alkalommal legfeljebb hat hónappal meghosszabbíthatja. Ha a kiadatást szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtása céljából kérik, a kiadatási letartóztatás tartama nem haladhatja meg a végrehajtandó szabadságvesztés vagy szabadságelvonással járó intézkedés tartamát.
 
-(2) A kiadatási letartóztatást a Fővárosi Bíróság haladéktalanul megszünteti, ha
+(2) A kiadatási letartóztatást a Fővárosi Törvényszék haladéktalanul megszünteti, ha
 
 a) a kiadatást a miniszter megtagadta,
 

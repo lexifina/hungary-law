@@ -1,3 +1,3 @@
 24. § (1) Sürgős esetben – különösen ha szökés veszélye áll fenn – a megkereső állam a kiadatási kérelem előterjesztése előtt is kérheti azon személy ideiglenes kiadatási letartóztatásának elrendelését, akinek kiadatása iránt megkeresést szándékozik előterjeszteni.
 
-(2) Az ideiglenes kiadatási letartóztatás iránti megkeresést a Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján is elő lehet terjeszteni. A NEBEK intézkedik a keresett személy kiadatás céljából történő őrizetbe vétele és a Fővárosi Bíróság elé állítása iránt. Az őrizet tartama legfeljebb hetvenkét óra lehet.
+(2) Az ideiglenes kiadatási letartóztatás iránti megkeresést a Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján is elő lehet terjeszteni. A NEBEK intézkedik a keresett személy kiadatás céljából történő őrizetbe vétele és a Fővárosi Törvényszék elé állítása iránt. Az őrizet tartama legfeljebb hetvenkét óra lehet.

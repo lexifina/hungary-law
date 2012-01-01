@@ -6,6 +6,6 @@
 
 (4) A nemzetközi elfogatóparancsot a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye – ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye – szerint illetékes rendőrkapitányságnak is meg kell küldeni.
 
-(5) A nemzetközi elfogatóparancs hatálya kiterjed a Magyar Köztársaság területére is.
+(5) A nemzetközi elfogatóparancs hatálya kiterjed Magyarország területére is.
 
 (6) A nemzetközi elfogatóparancsot haladéktalanul vissza kell vonni, ha a kibocsátásának oka megszűnt. A nemzetközi elfogatóparancs visszavonásáról szóló végzést a kibocsátó haladéktalanul megküldi a miniszternek. A nemzetközi elfogatóparancs visszavonásáról szóló végzést a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye – ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye – szerint illetékes rendőrkapitányságnak is meg kell küldeni.

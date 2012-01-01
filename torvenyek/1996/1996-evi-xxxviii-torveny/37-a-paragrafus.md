@@ -2,6 +2,6 @@
 
 a) belföldön, valamint
 
-b) a Magyar Köztársaság határain kívül tartózkodó magyar hajón vagy magyar légi járművön
+b) Magyarország határain kívül tartózkodó magyar hajón vagy magyar légi járművön
 
-elkövetett bűncselekmény üldözéséről a Magyar Köztársaság törvénnyel kihirdetett nemzetközi szerződésben lemondott.
+elkövetett bűncselekmény üldözéséről Magyarország törvénnyel kihirdetett nemzetközi szerződésben lemondott.

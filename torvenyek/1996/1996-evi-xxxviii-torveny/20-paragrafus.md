@@ -1,4 +1,4 @@
-20. § (1) A Fővárosi Bíróság
+20. § (1) A Fővárosi Törvényszék
 
 a) a kiadni kért személlyel kapcsolatos iratokat indítványtétel végett megküldi az ügyésznek;
 

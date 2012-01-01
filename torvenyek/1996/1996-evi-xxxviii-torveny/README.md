@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-38-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1996-38-00-00.11 |
 | 2011-01-01 | 2010. évi CLXI. törvény | 1996-38-00-00.12 |
 | 2011-07-01 | 2010. évi CLXI. törvény | 1996-38-00-00.13 |
+| 2012-01-01 | 2011. évi CL. törvény | 1996-38-00-00.14 |
