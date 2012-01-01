@@ -1,4 +1,4 @@
-4. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^152]
+4. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^153]
 
 ## A beavatkozási terv tartalmi követelményei
 
@@ -18,15 +18,15 @@ e) vizsgálni kell a kármentesítés beavatkozásának pénzügyi-műszaki megv
 
 a) az elsődleges beavatkozások azonosítása során köteles mérlegelni a felszíni vizek és szolgáltatások eredeti állapothoz közeli állapotba történő gyors és közvetlen visszaállítása érdekében a választható beavatkozások vagy a természetes regenerálódás lehetőségét;
 
-b) a kiegészítő és a kompenzációs[^153] beavatkozás mértékének meghatározása során a kieső felszíni vizet vagy szolgáltatást az adott felszíni vízzel vagy szolgáltatással egyenértékű felszíni vízzel vagy szolgáltatással kell helyettesíteni. A helyettesítés elsődleges követelménye a károsodott felszíni vízhez vagy szolgáltatáshoz típusában, minőségében és mennyiségében hasonló felszíni víz, illetve szolgáltatás biztosítása.
+b) a kiegészítő és a kompenzációs[^154] beavatkozás mértékének meghatározása során a kieső felszíni vizet vagy szolgáltatást az adott felszíni vízzel vagy szolgáltatással egyenértékű felszíni vízzel vagy szolgáltatással kell helyettesíteni. A helyettesítés elsődleges követelménye a károsodott felszíni vízhez vagy szolgáltatáshoz típusában, minőségében és mennyiségében hasonló felszíni víz, illetve szolgáltatás biztosítása.
 
 Amennyiben
 
-a) a (2) bekezdés b) pontjában meghatározott helyettesítés nem valósítható meg, alternatív értékelési technikákat kell alkalmazni, alternatív felszíni vizek, illetve szolgáltatások biztosításával (így például: a minőségromlás kompenzálható a kármentesítési intézkedések mennyiségének növelésével). A felügyelőség a szükséges kiegészítő és kompenzációs[^154] beavatkozás mértékének meghatározására előírhatja a megfelelő módszert (így például: pénzügyi értékelés);
+a) a (2) bekezdés b) pontjában meghatározott helyettesítés nem valósítható meg, alternatív értékelési technikákat kell alkalmazni, alternatív felszíni vizek, illetve szolgáltatások biztosításával (így például: a minőségromlás kompenzálható a kármentesítési intézkedések mennyiségének növelésével). A felügyelőség a szükséges kiegészítő és kompenzációs[^155] beavatkozás mértékének meghatározására előírhatja a megfelelő módszert (így például: pénzügyi értékelés);
 
 b) az elveszett felszíni vizek, illetve szolgáltatások értékelése elvégezhető, de a helyettesítő felszíni vizek, illetve szolgáltatások értékelése nem hajtható végre ésszerű határidőn belül vagy ésszerű költségszinten, a felügyelőség olyan beavatkozásokat választhat, amelyek költsége megegyezik az elveszett felszíni vizek, illetve szolgáltatások becsült pénzügyi értékével.
 
-3. A kiegészítő és a kompenzációs[^155] beavatkozások tervezése során annyi időre kell gondoskodni további felszíni vizekről, illetve szolgáltatásokról, amennyi a beavatkozások ideális időtartama és időbeosztása alapján szükséges (így például: minél több időt vesz igénybe az eredeti állapotba történő visszaállás, annál több kompenzációs[^156] beavatkozást kell alkalmazni, míg a többi tényező nem változik).
+3. A kiegészítő és a kompenzációs[^156] beavatkozások tervezése során annyi időre kell gondoskodni további felszíni vizekről, illetve szolgáltatásokról, amennyi a beavatkozások ideális időtartama és időbeosztása alapján szükséges (így például: minél több időt vesz igénybe az eredeti állapotba történő visszaállás, annál több kompenzációs[^157] beavatkozást kell alkalmazni, míg a többi tényező nem változik).
 
 4. A beavatkozási tervben a lehetséges, ésszerű beavatkozási lehetőségeket a kötelezettnek az elérhető legjobb technika alkalmazásával és a következő ismérvek alapján kell értékelni:
 
@@ -50,14 +50,14 @@ fc) mennyire veszik figyelembe a lényeges társadalmi, gazdasági és kulturál
 
 fd) milyen mértékben állatják helyre a felszíni vizekben okozott károkat szenvedett természeti területet.
 
-5. A lehetséges beavatkozások értékelése során választható olyan elsődleges beavatkozás, amely nem, vagy csak lassabban állítja vissza teljesen a károsodott felszíni vizek eredeti állapotát (így például: ha az azonos szintű felszíni vizek, illetve szolgáltatások biztosításáról máshol alacsonyabb költséggel lehet gondoskodni). A választás feltétele, hogy eredményként az elsődleges területen a felszíni vizekben, illetve szolgáltatásokban bekövetkező veszteséget egyre jelentősebb kiegészítő vagy kompenzációs[^157] beavatkozással kompenzáljuk annak érdekében, hogy az elveszített felszíni vizekhez, illetve szolgáltatásokhoz hasonló szintű felszíni vizek, illetve szolgáltatások álljanak rendelkezésre.
+5. A lehetséges beavatkozások értékelése során választható olyan elsődleges beavatkozás, amely nem, vagy csak lassabban állítja vissza teljesen a károsodott felszíni vizek eredeti állapotát (így például: ha az azonos szintű felszíni vizek, illetve szolgáltatások biztosításáról máshol alacsonyabb költséggel lehet gondoskodni). A választás feltétele, hogy eredményként az elsődleges területen a felszíni vizekben, illetve szolgáltatásokban bekövetkező veszteséget egyre jelentősebb kiegészítő vagy kompenzációs[^158] beavatkozással kompenzáljuk annak érdekében, hogy az elveszített felszíni vizekhez, illetve szolgáltatásokhoz hasonló szintű felszíni vizek, illetve szolgáltatások álljanak rendelkezésre.
 
-6. Kompenzációs[^158] beavatkozást kell végezni a felszíni vizek és azok szolgáltatásainál regenerálódásáig bekövetkező ideiglenes veszteségek kompenzálására. Ez a kompenzáció a felszíni víz további javítását jelenti vagy károsodott, vagy pedig a másik természeti területen. E fogalom nem terjed ki a köznek nyújtott pénzbeli kompenzációra.
+6. Kompenzációs[^159] beavatkozást kell végezni a felszíni vizek és azok szolgáltatásainál regenerálódásáig bekövetkező ideiglenes veszteségek kompenzálására. Ez a kompenzáció a felszíni víz további javítását jelenti vagy károsodott, vagy pedig a másik természeti területen. E fogalom nem terjed ki a köznek nyújtott pénzbeli kompenzációra.
 
-[^152]: A 4. számú mellékletet a 93/2007. (IV. 26.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^153]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^153]: A 4. számú mellékletet a 93/2007. (IV. 26.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
 [^154]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
 [^155]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
 [^156]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
 [^157]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
 [^158]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^159]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.

@@ -10,7 +10,7 @@ B) Meglévő létesítményből kibocsátók engedélyének (vízjogi üzemeltet
 
 1. Általában szükséges adatok minden kibocsátóra értelemszerűen vonatkoztatva
 
-1.1. A külön jogszabályban[^145] meghatározott adatok.
+1.1. A külön jogszabályban[^146] meghatározott adatok.
 
 1.2. Termelő üzemekből kibocsátók termelésre, gyártástechnológiára vonatkozó, az 1.1. pontban előírtakon túli, egyéb jellemző adatai:
 
@@ -46,7 +46,7 @@ e) a bevezetés jellegének (parti, sodorvonali, hígulási) leírása.
 
 a) a tisztítótelep lakott területtől való távolsága,
 
-b)[^146]
+b)[^147]
 
 c) az üzemelés (szennyvíztisztítás) megkezdésének időpontja,
 
@@ -94,7 +94,7 @@ c) a szennyvíz-előtisztító, illetve tisztító technológia működési hoss
 
 d) szennyvízre, szennyvíziszapra vonatkozó – lehetőleg – akkreditált laboratórium által elvégzett önkontroll vizsgálati eredmények,
 
-e)[^147] a felügyelőség hatáskörébe nem tartozó alkalmazási, működési és használatbavételi engedélyek, valamint a közegészségügyi hatóság által kiadott engedély másolatai és a telep nyilvántartási száma,
+e)[^148] a felügyelőség hatáskörébe nem tartozó alkalmazási, működési és használatbavételi engedélyek, valamint a közegészségügyi hatóság által kiadott engedély másolatai és a telep nyilvántartási száma,
 
 f) az eddig előfordult üzemzavarok, havária események rövid ismertetése.
 
@@ -116,7 +116,7 @@ f) csatornamű hulladékok mennyiségére, minőségére, kezelésére vonatkoz�
 
 2.8. Szivattyútelepről való közvetlen bevezetést folytató kibocsátás esetén
 
-a)[^148]
+a)[^149]
 
 b) az engedély jogerőre emelkedését követő érdemi, a kibocsátást befolyásoló változások ismertetése,
 
@@ -130,7 +130,7 @@ f) kárelhárítás szabályzat.
 
 2.9. A végpontján szennyvíztisztító teleppel nem rendelkező szennyvízelvezető hálózatból (szabadkiömlőből) való közvetlen bevezetés esetén
 
-a)[^149]
+a)[^150]
 
 b) az engedély jogerőre emelkedését követő érdemi, a kibocsátást befolyásoló változások ismertetése,
 
@@ -140,13 +140,13 @@ d) kárelhárítási szabályzat.
 
 3. Amennyiben a meglévő létesítményből kibocsátást folytató vízjogi engedélyköteles kibocsátó nem rendelkezik érvényes vízjogi üzemeltetési engedéllyel az 1., 2. fejezetekben előírtak értelemszerű alkalmazásával megadott adatokon túl a következőket is csatolni kell az engedélykérő dokumentációhoz:
 
-3.7.[^150]
+3.7.[^151]
 
 3.8. Amennyiben a kibocsátó nem nyújtott be engedélykérelmet
 
 a) szennyvíztisztító telepről vagy szennyvíz-előtisztító (kezelő) létesítményből való kibocsátás esetében
 
-– a külön jogszabályban[^151] előírtak;
+– a külön jogszabályban[^152] előírtak;
 
 b) szivattyútelepről való közvetlen bevezetés esetében
 
@@ -166,10 +166,10 @@ c) szabadkiömlőből való közvetlen bevezetés esetében
 
 – a vízgyűjtőterületen leeresztett települési folyékony hulladék mennyisége, minősége.
 
-[^145]: A használt és szennyvizek kibocsátásának méréséről, ellenőrzéséről, adatszolgáltatásáról, valamint a vízszennyezési bírság sajátos szabályairól szóló 7/2002. (III. 1.) KöM rendelet 3/I. számú mellékletének 1–22. pontja.
-[^146]: A 3. számú melléklet 1.4. pontjának b) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^147]: A 3. számú melléklet 1.7. pontjának e) alpontja a 182/2009. (IX. 10.) Korm. rendelet 360. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^148]: A 3. számú melléklet 2.8. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^149]: A 3. számú melléklet 2.9. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^150]: A 3. számú melléklet 3.7. pontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^151]: A vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló 18/1996. (VI. 13.) KHVM rendelet 2. §-ban.
+[^146]: A használt és szennyvizek kibocsátásának méréséről, ellenőrzéséről, adatszolgáltatásáról, valamint a vízszennyezési bírság sajátos szabályairól szóló 7/2002. (III. 1.) KöM rendelet 3/I. számú mellékletének 1–22. pontja.
+[^147]: A 3. számú melléklet 1.4. pontjának b) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^148]: A 3. számú melléklet 1.7. pontjának e) alpontja a 182/2009. (IX. 10.) Korm. rendelet 360. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^149]: A 3. számú melléklet 2.8. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^150]: A 3. számú melléklet 2.9. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^151]: A 3. számú melléklet 3.7. pontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^152]: A vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló 18/1996. (VI. 13.) KHVM rendelet 2. §-ban.

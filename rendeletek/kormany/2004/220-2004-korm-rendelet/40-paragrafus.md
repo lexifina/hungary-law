@@ -1,6 +1,6 @@
 ## Adatszolgáltatás
 
-40. §[^129] (1) A kibocsátásokkal és a szennyezéscsökkentési intézkedésekkel kapcsolatos – a 2006/11/EK európai parlamenti és tanácsi irányelv 6. cikk (6) bekezdése és a 11. cikke szerinti –, valamint a 30. §-nak megfelelő – a 2000/60/EK európai parlamenti és tanácsi irányelv 5. és 8. cikkével összhangban és a 166/2006/EK európai parlamenti és tanácsi rendelet szerinti – az Európai Bizottság részére történő adatszolgáltatásról a környezetvédelemért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
+40. §[^130] (1) A kibocsátásokkal és a szennyezéscsökkentési intézkedésekkel kapcsolatos – a 2006/11/EK európai parlamenti és tanácsi irányelv 6. cikk (6) bekezdése és a 11. cikke szerinti –, valamint a 30. §-nak megfelelő – a 2000/60/EK európai parlamenti és tanácsi irányelv 5. és 8. cikkével összhangban és a 166/2006/EK európai parlamenti és tanácsi rendelet szerinti – az Európai Bizottság részére történő adatszolgáltatásról a környezetvédelemért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
 
 (2) A 30. § (3) bekezdésében meghatározott nyilvántartásban szereplő szennyező anyagokról készülő jelentésnél a referencia-időszak a 2008 és 2010 közé eső egy éves időszak. A növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló miniszteri rendelet által szabályozott elsőbbségi anyagok, szennyező anyagok tekintetében a 2008-tól 2010. év végéig terjedő időszak átlagában is meg lehet állapítani az éves nyilvántartás adatait.
 
@@ -8,4 +8,4 @@
 
 (4) Az adatszolgáltatás során közölt adatok teljeskörűségéért, a bejelentésre kötelezettre érvényes számviteli szabályokkal, statisztikai rendszerrel, valamint egyéb nyilvántartási rendszereivel, mérési, megfigyelési adataival való egyezéséért a bejelentésre kötelezett felelős.
 
-[^129]: A 40. § a 230/2010. (VIII. 18.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^130]: A 40. § a 230/2010. (VIII. 18.) Korm. rendelet 15. §-ával megállapított szöveg.

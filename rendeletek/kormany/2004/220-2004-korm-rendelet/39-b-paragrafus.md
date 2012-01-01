@@ -1,6 +1,6 @@
-## A kármentesítés[^113]
+## A kármentesítés[^114]
 
-39/B. §[^114] (1) A kármentesítés végrehajtására kötelezett a felügyelőség által – a tevékenységével összefüggő – meghatározott adatot, információt a felügyelőség részére bocsátja.
+39/B. §[^115] (1) A kármentesítés végrehajtására kötelezett a felügyelőség által – a tevékenységével összefüggő – meghatározott adatot, információt a felügyelőség részére bocsátja.
 
 (2) A kármentesítés szakaszai:
 
@@ -20,16 +20,16 @@ c) az a) és b) pontok során folytatott monitoring.
 
 (7) A kármentesítés során biztosítani kell, hogy a szennyezés ne tevődjön át más környezeti elemre, a felszín alatti vízre, a földtani közeg nem szennyezett részeire, illetve, hogy az a lehető legkisebb környezeti terheléssel járjon, és ne okozzon környezeti veszélyeztetést, szennyezést, környezetkárosodást.
 
-(8)[^115] A kármentesítés során az eredeti környezetéből (helyéről) kitermelt és a szennyezett területen a kívánt mértékig a legjobb elérhető technika alkalmazásával sem ártalmatlanítható, elszállított szennyező anyagok kezelésére a hulladékokra vonatkozó a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendelet előírásait kell alkalmazni.
+(8)[^116] A kármentesítés során az eredeti környezetéből (helyéről) kitermelt és a szennyezett területen a kívánt mértékig a legjobb elérhető technika alkalmazásával sem ártalmatlanítható, elszállított szennyező anyagok kezelésére a hulladékokra vonatkozó a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendelet előírásait kell alkalmazni.
 
 (9) A Kvt. 56. §-ának (1) bekezdése szerinti esetekben a kármentesítést az OKKP keretében kell végezni.
 
-(10)[^116] A kármentesítés (2) bekezdésben meghatározott szakaszaira, valamint a (4) bekezdés szerint összevont határozat alapján tervezett kármentesítés engedélyezésére irányuló kérelmekhez csatolt dokumentációt, továbbá a kármentesítési szakasz elvégzéséről szóló jelentést (zárójelentést) szakértők is elkészíthetik.
+(10)[^117] A kármentesítés (2) bekezdésben meghatározott szakaszaira, valamint a (4) bekezdés szerint összevont határozat alapján tervezett kármentesítés engedélyezésére irányuló kérelmekhez csatolt dokumentációt, továbbá a kármentesítési szakasz elvégzéséről szóló jelentést (zárójelentést) szakértők is elkészíthetik.
 
-(11)[^117] A kármentesítés során tervezési feladatokat szakértők is végezhetnek. Amennyiben a kármentesítés sajátosságai megkövetelik, a szakértők jogosultságának a tervezési feladatokkal érintett valamennyi szakterületre vagy részterületre ki kell terjednie.
+(11)[^118] A kármentesítés során tervezési feladatokat szakértők is végezhetnek. Amennyiben a kármentesítés sajátosságai megkövetelik, a szakértők jogosultságának a tervezési feladatokkal érintett valamennyi szakterületre vagy részterületre ki kell terjednie.
 
-[^113]: A 39/B. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^114]: A 39/B. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^115]: A 39/B. § (8) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^116]: A 39/B. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 360. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^117]: A 39/B. § (11) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 360. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^114]: A 39/B. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^115]: A 39/B. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^116]: A 39/B. § (8) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^117]: A 39/B. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 360. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^118]: A 39/B. § (11) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 360. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
