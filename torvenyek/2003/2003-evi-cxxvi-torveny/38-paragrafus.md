@@ -1,8 +1,8 @@
 ## A vámkódex 97. cikkéhez
 
-38. § A vámkódex 97. cikke (2) bekezdésének b) pontja értelmében csak a Magyar Köztársaság államterületén történő árutovábbítási eljárásban:
+38. § A vámkódex 97. cikke (2) bekezdésének b) pontja értelmében csak Magyarország területén történő árutovábbítási eljárásban:
 
-a) a magyar vámhatóság által engedélyezett, az államterületen végzett árutovábbítási eljárásokhoz elegendő egy olyan személy, aki jogosult árukat nyilvántartásba vétellel vámeljárásra bocsátani. A becsatolt kísérő okmánynak tartalmaznia kell az áru mennyiségét és fajtáját, és hivatkoznia kell az egyszerűsített eljárásra. Ebben az esetben az egyszerűsített eljárás engedélyese főkötelezettnek minősül, és az árutovábbítás során esetleg felmerülő vámtartozás, valamint a nem közösségi adók és díjak fedezetéül az engedélyéhez nyújtott biztosíték szolgál,
+a) a magyar vámhatóság által engedélyezett, Magyarország területén végzett árutovábbítási eljárásokhoz elegendő egy olyan személy, aki jogosult árukat nyilvántartásba vétellel vámeljárásra bocsátani. A becsatolt kísérő okmánynak tartalmaznia kell az áru mennyiségét és fajtáját, és hivatkoznia kell az egyszerűsített eljárásra. Ebben az esetben az egyszerűsített eljárás engedélyese főkötelezettnek minősül, és az árutovábbítás során esetleg felmerülő vámtartozás, valamint a nem közösségi adók és díjak fedezetéül az engedélyéhez nyújtott biztosíték szolgál,
 
 b) azoknak a személyeknek, akik az árutovábbítási eljárás során a biztosíték nyújtása alól mentességet kaptak vagy összkezességet biztosítottak, a vámhatóság olyan könnyítéseket engedélyezhet, amelyek mentesítik őket az írásos árunyilatkozat benyújtási kötelezettség alól. Ebben az esetben az engedélyes főkötelezettnek minősül,
 

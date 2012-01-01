@@ -1,18 +1,14 @@
-17. § (1) Az EK végrehajtási rendelet 4k–4t. cikkeiben foglaltak alkalmazása mellett, ezen rendelkezések sérelme nélkül a vámhatóság e törvényben vagy külön jogszabályban meghatározott feladat- és hatáskörébe tartozó eljárás során az általa hivatalból vagy kérelemre adott vámazonosító szám (a továbbiakban: VPID szám) alapján az ügyfelet nyilvántartásba veszi és nyilvántartja. A VPID szám az EK végrehajtási rendelet 4k. cikk (3) bekezdésével összhangban nyilvántartási és azonosító számként (a továbbiakban: EORI-szám) használható. A vámjogszabályok hatálya alá tartozó tevékenységgel kapcsolatban a VPID számra történő hivatkozást EORI-számra történő hivatkozásként kell értelmezni.
+17. § (1) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásba vételre vonatkozó részletes szabályokat az adózás rendjéről szóló törvény (a továbbiakban: Art.) tartalmazza. Az Art. adózóra vonatkozó rendelkezéseit a VPID szám megállapításával összefüggő nyilvántartásba vétellel és nyilvántartással kapcsolatban az e törvény hatálya alá tartozó ügyfélre is alkalmazni kell. A vámjogszabályok hatálya alá tartozó tevékenységgel kapcsolatban a VPID számra történő hivatkozást EORI-számra történő hivatkozásként kell értelmezni.
 
-(2) A vámhatóság
+(2)
 
-a) a nem természetes személy adatai közül annak nevét, rövidített nevét, székhelyének, központjának vagy állandó üzleti vállalkozásának címét, levelezési címét, továbbá a Közösség területén letelepedett személy esetén közösségi adószámát és pénzforgalmi számlájának számait,
+(3)
 
-b) a természetes személyeket a személyazonosításra alkalmas adatok (név, lakóhely, születési év, hó, nap, anyja neve, valamint az adóazonosító jel), vagy a fenti adatok hiányában az útlevél adatai (név, születési hely és idő, útlevélszám) alapján nyilvántartja.
+(4) A vámhatóság a vámmentességi rendelet 107. cikke alapján történő vámmentes üzemanyag-behozatal esetén a vámmentességi rendelet 110. cikk (1) bekezdése szerinti kötelezettség ellenőrzése, valamint a vámmentességi rendelet 110. cikkének (2) bekezdése szerinti vámfizetési kötelezettség teljesítésének biztosítása érdekében jogosult a szabad forgalomba bocsátás vámeljárás alanyának természetes személyazonosító adataira, továbbá a gépjármű belépésének és – ha történt ilyen – a kilépésének időpontjára, rendszámára, üzemmódjára, a kilométeróra állására, valamint a behozott üzemanyag mennyiségére vonatkozó adatokat kérni. Az EK végrehajtási rendelet 205. cikk (3) bekezdésének harmadik francia bekezdése alapján a vámáru-nyilatkozatként használandó különleges formanyomtatvány mintáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatásban teszi közzé.
 
-(3) Amennyiben a (2) bekezdésben meghatározott adatok a vámeljárás megkezdésekor a vámhatóság nyilvántartásában nem szerepelnek, akkor azokról az ügyfélnek a vámeljárást lefolytató vámhivatalnál írásban nyilatkoznia kell és az adatok hitelességét bizonyító okiratok bemutatását a vámhatóság megkövetelheti.
+(5)
 
-(4) A vámhatóság a vámmentességi rendelet 107. cikke alapján történő vámmentes üzemanyag-behozatal esetén a vámmentességi rendelet 110. cikkének (1) bekezdése szerinti kötelezettség ellenőrzése, valamint a vámmentességi rendelet 110. cikkének (2) bekezdése szerinti vámfizetési kötelezettség teljesítésének biztosítása érdekében jogosult a szabad forgalomba bocsátás vámeljárás alanyának természetes személyazonosító adataira, továbbá a gépjármű belépésének időpontjára, rendszámára, üzemmódjára, a kilométeróra állására valamint a behozott üzemanyag mennyiségére vonatkozó adatokat kérni. Az adatszolgáltatás formáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatóban teszi közzé.
-
-(5) Amennyiben az adós más szervezettel jogelődi vagy jogutódi viszonyban van, akkor a (2) bekezdésben felsorolt adatokról valamennyi jogelőd, illetve jogutód tekintetében is nyilatkoznia kell.
-
-(6) Az ügyfél – a természetes személy kivételével – a (2) és (5) bekezdésben meghatározott adataiban bekövetkezett változásokat a változást követő 15 napon belül a vámhatóságnál köteles írásban bejelenteni.
+(6)
 
 (7) A vámhatóság feladatának ellátásához, valamint a birtokába került adatok ellenőrzéséhez, a személy és az áru azonosítása érdekében a következő nyilvántartásokból igényelhet adatot:
 

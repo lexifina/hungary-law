@@ -2,7 +2,7 @@
 
 ## Hatálybalépés
 
-74. § (1) E törvény – a (2)–(5) bekezdés kivételével – a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+74. § (1) E törvény – a (2)–(5) bekezdés kivételével – a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
 (2) E törvény 77. §-a és a 79. §-ának (1) és (2) bekezdése a kihirdetés napját követő 8. napon lép hatályba.
 

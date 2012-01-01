@@ -10,7 +10,7 @@
 
 (4) Ha a korábbi utólagos ellenőrzés eredményeként határozatot hoztak, a határozat jogerőre emelkedésétől számított egy éven túl nem hozható olyan új határozat, amely vámtartozást, illetve nem közösségi adó- és díj fizetési kötelezettséget az ügyfél terhére állapít meg. A súlyosítási tilalomra vonatkozó rendelkezésben foglaltakat nem kell alkalmazni
 
-a) a bíróság jogerős ítéletében megállapított csempészet, illetve az ezzel összefüggő egyéb bűncselekmény vagy szabálysértés,
+a) a bíróság jogerős ítéletében megállapított költségvetési csalás, a 2011. december 31-ig hatályban volt csempészet, illetve az ezzel összefüggő egyéb bűncselekmény vagy szabálysértés,
 
 b) a szabálysértési hatóság, illetve a bíróság jogerős határozatával megállapított vámszabálysértés,
 

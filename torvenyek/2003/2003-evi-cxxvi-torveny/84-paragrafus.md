@@ -84,7 +84,9 @@
 
 41. a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK rendelet módosításáról szóló 312/2009/EK rendelet,
 
-42. a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK rendelet módosításáról szóló 414/2009/EK rendelet.
+42. a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK rendelet módosításáról szóló 414/2009/EK rendelet,
+
+43. Az adókból, vámokból, illetékekből és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról szóló 2010/24/EU (2010. március 16.) tanácsi irányelv.
 
 ## Melléklet a 2003. évi CXXVI. törvényhez
 

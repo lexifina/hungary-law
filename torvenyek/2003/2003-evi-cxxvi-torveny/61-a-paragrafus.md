@@ -38,7 +38,7 @@ meghatározott vámigazgatási bírságot köteles fizetni. Hosszú távú besz�
 
 (8) A vámigazgatási bírságot nem lehet kiszabni, ha természetes személy esetében a kötelezettségszegés következtében büntető- vagy szabálysértési eljárás indult.
 
-(9) Ha az ügyfél a gyűjtő vámáru-nyilatkozat vagy a vámáru-nyilatkozat adatainak a vámkódex 65. cikke vagy 78. cikkének (1) bekezdése szerinti módosítását a korrekcióra okot adó okmány kiállítását követő hónap 15. napjáig a vámhatóságnál kérelmezi, a vámhatóság a módosítás elfogadásakor a vámigazgatási bírság kiszabását mellőzi. Ha az ügyfél a korrekciót a fenti időponton túl, de még a vámhatóságnak a vámkódex 78. cikkének (2) bekezdése szerinti vagy utólagos ellenőrzése előtt kérelmezi, és ha az általa elmulasztott, vámhiányt okozó kötelezettséget pótlólagosan, még a vámhatóság intézkedése előtt teljesíti, a vámigazgatási bírság mértéke a (6) bekezdés szerint kiszabható bírság huszonöt százaléka.
+(9) Ha az ügyfél a gyűjtő vámáru-nyilatkozat vagy a vámáru-nyilatkozat adatainak a vámkódex 65. cikke vagy 78. cikk (1) bekezdése szerinti módosítását a korrekcióra okot adó okmány kiállításától számított 60 napon belül a vámhatóságnál kérelmezi, a vámhatóság a módosítás elfogadásakor a vámigazgatási bírság kiszabását mellőzi. Ha az ügyfél a vámáru-nyilatkozat módosítását a fenti időponton túl vagy egyéb okból, de még a vámhatóságnak a vámkódex 78. cikk (2) bekezdése szerinti vagy utólagos ellenőrzésről szóló értesítés kézhezvétele, illetve az előzetes értesítés mellőzése estén az ellenőrzés megkezdése előtt kérelmezi, a vámigazgatási bírság mértéke a (6) bekezdés szerint kiszabható bírság huszonöt százaléka.
 
 (10) A vámigazgatási bírságot – a fizetésre kötelezett kérelmére – a külön jogszabályban meghatározott vámszerv elengedheti vagy mérsékelheti, ha
 
@@ -46,8 +46,8 @@ a) a fizetésre kötelezettel szemben három éven belül vámigazgatási bírs�
 
 b) a vámigazgatási bírság megfizetése a fizetésre kötelezett és vele egy háztartásban élő és eltartásra szoruló közeli hozzátartozói megélhetését, illetve a kereskedelmi forgalommal kapcsolatban a szervezet tevékenységének folyamatosságát súlyosan veszélyeztetné,
 
-c) az utólagos ellenőrzés és a vámkódex 78. cikke szerinti ellenőrzés alkalmazásában – az a)–b) pontban foglaltak figyelmen kívül hagyásával – a fizetésre kötelezett vizsgálati időszakban nyilvántartott vámigazgatási bírságainak összege nem haladja meg az ezen időszakban kiszabott vámtartozás összegének három százalékát.
+c) az utólagos ellenőrzés alkalmazásában – az a)–b) pontban foglaltak figyelmen kívül hagyásával – a fizetésre kötelezett vizsgálati időszakban nyilvántartott vámigazgatási bírságainak összege nem haladja meg az ezen időszakban kiszabott vámtartozás összegének három százalékát.
 
 (11) Nincs helye a bírság elengedésének, mérséklésének, ha a vámhiány a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
 
-(12) Az e törvény alapján megfizetett vámigazgatási bírság a központi költségvetés bevétele.
+(12)

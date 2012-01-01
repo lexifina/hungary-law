@@ -20,7 +20,9 @@ a módosításaikkal együtt.
 
 1/b. állami adóhatóság: a Nemzeti Adó- és Vámhivatal adóztatási szerve,
 
-1/c. vámhivatal: a Nemzeti Adó- és Vámhivatal alsó fokú vámszerve vagy annak kirendeltsége.
+1/c. vámhivatal: a Nemzeti Adó- és Vámhivatal alsó fokú vámszerve vagy annak kirendeltsége,
+
+1/d. állami adó- és vámhatóság: a Nemzeti Adó- és Vámhivatal adóztatási és vámszerve együtt;
 
 2. vámigazgatási eljárás: a vámhatóság által a vám- és egyéb jogszabályok rendelkezéseinek érvényesítése érdekében végzett cselekmények összessége;
 
@@ -76,4 +78,4 @@ a) ügyvezetésre vagy képviseletre feljogosított tagja vagy tisztségviselőj
 
 b) tagja vagy alkalmazottja az AEO-tanúsítvány iránti kérelmet benyújtó gazdasági szereplő tevékenységi körében követte el, és azt a vezető tisztségviselő felügyeleti vagy ellenőrzési kötelezettségének teljesítése megakadályozhatta volna.
 
-(4) A (3) bekezdés 3. pont a) és b) pontjában meghatározott, az állami adóhatóságnál nyilvántartott adótartozás adatait a vámhatóság közvetlenül kéri meg az állami adóhatóságtól, illetőleg az ügyfél cégjegyzékadatokról nyilvántartást vezető cégbíróságtól, amennyiben a megbízható vámadós feltételeinek igazolása során az ügyfél ezeket az adatokat nem igazolta. A felsorolt feltételek fennállását – a vámhatósági adatok és az ügyfél kérelmére más hatóságtól bekért adatok, illetve a vámkódex 5a. Cikke szerinti engedélyezett gazdálkodó státusszal rendelkezők kivételével – az illetékes vámszervnél a kérelmezőnek évente igazolnia kell. A vámhatóság a feltételek meglétét folyamatosan, illetve bármikor vizsgálhatja. A megbízható vámadós személyre vonatkozó feltételeket az EK végrehajtási rendelet 14a. Cikk a) és c) pontjaiban meghatározott AEO-tanúsítvánnyal rendelkező személyeknél a tanúsítvány kiadása, illetve az EK végrehajtási rendelet 14q. Cikk (5) bekezdése szerinti újbóli értékelése során együtt vizsgálja a vámhatóság. A feltételek fennállását az AEO-tanúsítványra vonatkozó szabályok szerint kell igazolni.
+(4) A (3) bekezdés 3. pont b) pontjában meghatározott adatot a vámhatóság közvetlenül kéri meg az ügyfél cégjegyzékadatairól nyilvántartást vezető cégbíróságtól, amennyiben a megbízható vámadós feltételeinek igazolása során az ügyfél ezeket az adatokat nem igazolta. A felsorolt feltételek fennállását – a vámhatósági adatok és az ügyfél kérelmére más hatóságtól bekért adatok, illetve a vámkódex 5a. cikke szerinti engedélyezett gazdálkodó státusszal rendelkezők kivételével – az illetékes vámszervnél a kérelmezőnek évente igazolnia kell. A vámhatóság a feltételek meglétét folyamatosan, illetve bármikor vizsgálhatja. A megbízható vámadós személyre vonatkozó feltételeket az EK végrehajtási rendelet 14a. cikk a) és c) pontjaiban meghatározott AEO-tanúsítvánnyal rendelkező személyeknél a tanúsítvány kiadása, illetve az EK végrehajtási rendelet 14q. cikk (5) bekezdése szerinti újbóli értékelése során együtt vizsgálja a vámhatóság. A feltételek fennállását az AEO-tanúsítványra vonatkozó szabályok szerint kell igazolni.
