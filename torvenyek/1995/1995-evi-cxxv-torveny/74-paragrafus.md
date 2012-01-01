@@ -16,7 +16,7 @@ a) nemzetbiztonsági érdek: a Magyar Köztársaság szuverenitásának biztosí
 
 b) állami szerv: a minisztériumok, a központi államigazgatási szervek, az ügyészség, a Magyar Honvédség, a Pénzügyi Szervezetek Állami Felügyelete, valamint a rendvédelmi szervek;
 
-c) rendvédelmi szerv: a polgári nemzetbiztonsági szolgálatok, a rendőrség, a polgári védelem állami szervei, a hivatásos tűzoltóság, a vám- és pénzügyőrség, valamint a büntetésvégrehajtási szervezet;
+c) rendvédelmi szerv: a polgári nemzetbiztonsági szolgálatok, a rendőrség, a hivatásos katasztrófavédelmi szerv, valamint a büntetés-végrehajtási szervezet;
 
 d) lakás: a nyilvános vagy a közönség részére nyitva álló helyen kívüli minden egyéb helyiség vagy terület;
 

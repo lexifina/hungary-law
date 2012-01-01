@@ -22,4 +22,4 @@ i) az 56. §-ban foglaltakon kívül beszélgetést lehallgathatnak, az észlelt
 
 j) hírközlési rendszerekből és egyéb adattároló eszközökből információkat gyűjthetnek.
 
-(2) Rendvédelmi szerv fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
+(2) Rendvédelmi szerv és a Nemzeti Adó- és Vámhivatal fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.

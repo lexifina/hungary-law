@@ -1,15 +1,13 @@
 ## A nemzetbiztonsági szolgálatok szervezete és jogállása
 
-1. § A Magyar Köztársaság nemzetbiztonsági szolgálatai
+1. § Magyarország nemzetbiztonsági szolgálatai:
 
 a) az Információs Hivatal,
 
 b) az Alkotmányvédelmi Hivatal,
 
-c) a Katonai Felderítő Hivatal,
+c) a Katonai Nemzetbiztonsági Szolgálat, valamint
 
-d) a Katonai Biztonsági Hivatal,
-
-e) a Nemzetbiztonsági Szakszolgálat
+d) a Nemzetbiztonsági Szakszolgálat
 
 (a továbbiakban együtt: nemzetbiztonsági szolgálatok).

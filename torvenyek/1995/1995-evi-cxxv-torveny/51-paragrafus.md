@@ -8,4 +8,4 @@ c) biztonsági ellenőrzési és védelmi feladataival
 
 kapcsolatos adatok.
 
-(2) Az (1) bekezdésben meghatározott adatok megismerésére vonatkozó kérelem elutasításáról, az elutasítás indokairól a nemzetbiztonsági szolgálatok évente értesítik az adatvédelmi biztost.
+(2) Az (1) bekezdésben meghatározott adatok megismerésére vonatkozó kérelem elutasításáról, az elutasítás indokairól a nemzetbiztonsági szolgálatok évente értesítik a Nemzeti Adatvédelmi és Információszabadság Hatóságot.

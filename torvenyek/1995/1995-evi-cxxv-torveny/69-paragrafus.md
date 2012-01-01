@@ -8,6 +8,8 @@ c) a Köztársasági Elnök Hivatala vezető beosztású munkatársai
 
 tekintetében.
 
+(1a) A köztársasági elnöknek az (1) bekezdéssel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
+
 (2) Az Országgyűlés elnöke kezdeményezi az ellenőrzést
 
 a) az Országgyűlés Nemzetbiztonsági Bizottságába és Honvédelmi Bizottságába, illetve – ha a feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, eseti bizottságba jelölt személy,
@@ -51,6 +53,8 @@ h) az általa – a 2. számú melléklet 18. pontja alapján – meghatározott
 i) az irányítása vagy felügyelete alatt álló minősített adatot kezelő szerv vezetője
 
 tekintetében.
+
+(4a) A Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter kezdeményezi az ellenőrzést a Nemzeti Adó- és Vámhivatal tábornokok és a tábornoki rendfokozattal rendszeresített beosztásokba kinevezettek tekintetében, a (3) bekezdés d) pontja szerinti eset kivételével.
 
 (5) A honvédelemért felelős miniszter vagy a Magyar Honvédség parancsnoka rendeli el, illetve kezdeményezi az ellenőrzést a Magyar Honvédségen belül, az illetékes miniszter által meghatározott munkakört betöltő személyek tekintetében.
 

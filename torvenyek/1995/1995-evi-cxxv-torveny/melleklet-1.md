@@ -18,7 +18,7 @@ A védelem alá eső tisztségek:
 
 8. az Állami Számvevőszék elnöke és alelnökei,
 
-9. az országgyűlési biztos,
+9. az alapvető jogok biztosa és helyettese,
 
 10. az Országgyűlés Nemzetbiztonsági és Honvédelmi Bizottságának tagjai,
 
@@ -28,4 +28,6 @@ A védelem alá eső tisztségek:
 
 13. a Magyar Nemzeti Bank elnöke és alelnökei,
 
-14. a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei.
+14. a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei,
+
+15. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
