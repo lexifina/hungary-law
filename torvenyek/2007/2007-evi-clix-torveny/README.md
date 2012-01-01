@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-159-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-159-00-00.7 |
 | 2010-01-02 | 2009. évi CX. törvény | 2007-159-00-00.8 |
 | 2011-01-01 | 2010. évi CLVIII. törvény | 2007-159-00-00.9 |
+| 2012-01-01 | 2011. évi CXCIII. törvény | 2007-159-00-00.10 |

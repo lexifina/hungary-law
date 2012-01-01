@@ -4,7 +4,7 @@
 
 a) a harmadik országban székhellyel rendelkező vállalkozás alapító okiratát, tevékenységi engedélyének másolatát, az előző 3 év auditált mérlegét,
 
-b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy a Magyar Köztársaság területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező viszontbiztosító működését.
+b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy a Magyarország területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező viszontbiztosító működését.
 
 (2) A harmadik országbeli viszontbiztosító fióktelepe esetén a tevékenységi engedélyt az (1) bekezdésben foglalt feltételek teljesülésén túl a Felügyelet abban az esetben adja meg, ha
 
@@ -16,9 +16,9 @@ c) a kérelmező viszontbiztosító rendelkezik a magyar jogszabályok által t�
 
 d) a kérelmező viszontbiztosító nyilatkozik arról, hogy helytáll a fióktelep útján keletkezett kötelezettségeiért,
 
-e) a kérelmező viszontbiztosító nyilatkozatban kötelezi magát arra, hogy a Magyar Köztársaság területén folytatott tevékenységre vonatkozó számláját magyarországi hitelintézetnél vezeti,
+e) a kérelmező viszontbiztosító nyilatkozatban kötelezi magát arra, hogy a Magyarország területén folytatott tevékenységre vonatkozó számláját magyarországi hitelintézetnél vezeti,
 
-f) a kérelmező viszontbiztosító nyilatkozatban kötelezi magát arra, hogy a Magyar Köztársaság területén folytatott tevékenységére vonatkozó nyilvántartásokat a Magyar Köztársaság területén vezeti,
+f) a kérelmező viszontbiztosító nyilatkozatban kötelezi magát arra, hogy a Magyarország területén folytatott tevékenységére vonatkozó nyilvántartásokat a Magyarország területén vezeti,
 
 g) a kérelmező viszontbiztosító a 68. §-ban foglalt minimális biztonsági tőke összegével azonos értékű vagyoni eszközökkel rendelkezik és ennek egynegyedét biztosítékként letétbe helyezi,
 
@@ -30,7 +30,7 @@ j) a kérelmező viszontbiztosító székhelye és főirodája azonos országban
 
 (3) A harmadik országban székhellyel rendelkező viszontbiztosító által létesített fióktelep általános képviselője kizárólag az a személy lehet, aki megfelel a Bit. 70. §-ának (3) bekezdésében foglalt feltételeknek.
 
-(4) A harmadik országbeli viszontbiztosító fióktelepe köteles a biztonsági tőke fedezetét képező vagyoni eszközeit a Magyar Köztársaság területén elhelyezni, a minimális szavatoló tőke további fennmaradó részét fedező eszközöket pedig jogosult bármely tagállamban elhelyezni. Az (5) bekezdésben foglaltak alapján a választott felügyeleti hatóság jogosult ellenőrizni a fióktelep szavatoló tőke követelmény teljesítését valamennyi érintett tagállamban.
+(4) A harmadik országbeli viszontbiztosító fióktelepe köteles a biztonsági tőke fedezetét képező vagyoni eszközeit Magyarország területén elhelyezni, a minimális szavatoló tőke további fennmaradó részét fedező eszközöket pedig jogosult bármely tagállamban elhelyezni. Az (5) bekezdésben foglaltak alapján a választott felügyeleti hatóság jogosult ellenőrizni a fióktelep szavatoló tőke követelmény teljesítését valamennyi érintett tagállamban.
 
 (5) Ha a harmadik országban székhellyel rendelkező viszontbiztosító több tagállamban kért vagy kapott engedélyt fióktelep létesítésére, akkor kérelmezheti, hogy a (2) bekezdés g) pontjában meghatározott letétet kizárólag az érintett tagállamok egyikében helyezze el. Ennek feltétele
 

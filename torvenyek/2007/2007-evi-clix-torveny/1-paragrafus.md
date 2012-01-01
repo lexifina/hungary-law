@@ -6,7 +6,7 @@
 
 1. § (1) Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed:
 
-a) a Magyar Köztársaság területén a viszontbiztosítók által végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre, illetve a Magyar Köztársaság területén székhellyel rendelkező viszontbiztosító által e törvény felhatalmazása alapján végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre;
+a) Magyarország területén a viszontbiztosítók által végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre, illetve a Magyarország területén székhellyel rendelkező viszontbiztosító által e törvény felhatalmazása alapján végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre;
 
 b) a külföldi viszontbiztosító magyarországi képviselete által folytatott tevékenységre;
 

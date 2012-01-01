@@ -14,7 +14,7 @@ f) a központi költségvetési pénzeszközök felhasználásának szabályszer
 
 g) vagyonellenőrrel,
 
-h) adatvédelmi biztossal
+h) Nemzeti Adatvédelmi és Információszabadság Hatósággal
 
 szemben.
 

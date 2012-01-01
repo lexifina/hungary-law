@@ -28,9 +28,13 @@ m) a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a
 
 n) fióktelep esetében – ha a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a harmadik országbeli viszontbiztosító székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal – a harmadik országbeli viszontbiztosítóval,
 
-o) a feladatkörében eljáró országgyűlési biztossal,
+o) a feladatkörében eljáró alapvető jogok biztosával,
 
-p) a feladatkörében eljáró könyvvizsgálóval.
+p) a feladatkörében eljáró könyvvizsgálóval,
+
+q) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
+
+szemben.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, illetve, ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 

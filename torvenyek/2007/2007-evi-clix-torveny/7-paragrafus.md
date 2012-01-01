@@ -8,7 +8,7 @@
 
 ## A viszontbiztosítók
 
-7. § (1) A Magyar Köztársaság területén viszontbiztosító részvénytársaság, szövetkezet, vagy harmadik országbeli viszontbiztosító magyarországi fióktelepe formájában létesíthető.
+7. § (1) Magyarország területén viszontbiztosító részvénytársaság, szövetkezet, vagy harmadik országbeli viszontbiztosító magyarországi fióktelepe formájában létesíthető.
 
 (2) Az egyes szervezeti formákra
 
