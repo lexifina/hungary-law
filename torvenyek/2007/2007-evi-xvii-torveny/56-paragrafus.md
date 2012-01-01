@@ -32,7 +32,7 @@ i) ha a támogatást igénylő, a pénzügyi következményekkel járó intézke
 
 j) amennyiben az intézkedésre vonatkozó jogszabály alapján a kérelmet nyomtatványon kell benyújtani, és az eljárás megindítására irányuló kérelem nem tartalmazza a főlapot vagy az intézkedésben való részvételre vonatkozó jogszabályban meghatározott betétlapokat, vagy bármelyiket az igény érvényesítésére jogosult aláírásával a nyomtatványon megjelölt helyen nem hitelesítette;
 
-k) az ügyfél az intézkedésben való részvételre vonatkozó kérelemben nem nyilatkozik arról, hogy tudomásul veszi, hogy a fizetési számlát vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
+k) az ügyfél – az agrárkár-enyhítési eljárás kivételével – az intézkedésben való részvételre vonatkozó kérelemben nem nyilatkozik arról, hogy tudomásul veszi, hogy a fizetési számlát vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
 
 (3) A támogatás visszatartásáról, a mulasztási bírság kiszabásáról, valamint a hatósági szerződés felmondásáról szóló végzés ellen önálló fellebbezésnek van helye.
 

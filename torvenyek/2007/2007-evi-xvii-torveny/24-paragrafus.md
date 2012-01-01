@@ -1,6 +1,6 @@
 ## A támogatási adatok védelmére vonatkozó külön rendelkezések
 
-24. § (1) Nem nyilvános támogatási adat a mezőgazdasági és vidékfejlesztési támogatási szerv eljárásában készített vagy rögzített, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 19/A. §-a szerinti adat.
+24. § (1) Nem nyilvános támogatási adat a mezőgazdasági és vidékfejlesztési támogatási szerv eljárásában készített vagy rögzített, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti döntés megalapozását szolgáló adat.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv által kezelt támogatási adatok közül közérdekből nyilvános adat e törvény alapján a mezőgazdasági és vidékfejlesztési támogatási szerv által folyósított, a központi költségvetésből, illetve az EMGA-ból, az EMVA-ból, illetve EHA-ból finanszírozott támogatásban részesülő ügyfél:
 
