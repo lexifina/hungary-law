@@ -1,6 +1,6 @@
 3. § (1) A közalapítvány az életjáradékot megállapító döntésében azonos elvek szerint rendelkezik az életjáradék induló összegéről és az annak megfelelően átváltott kárpótlási jegy címletértékéről, illetőleg a 2. § (1) bekezdésében írt keretből való felhasználás mértékéről.
 
-(2) Az (1) bekezdés szerinti döntést meg kell küldeni a jogosultnak, a nyugdíjfolyósító szervnek és az OKKH-nak.
+(2) Az (1) bekezdés szerinti döntést meg kell küldeni a jogosultnak, a nyugdíjfolyósító szervnek és a kárpótlási hatóságnak.
 
 (3) A közalapítvány által megállapított életjáradékot a nyugdíjfolyósító szerv folyósítja.
 
