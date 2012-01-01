@@ -24,7 +24,7 @@
 
 12. a pályázat érvényességének feltételeit;
 
-13.[^15] az elővásárlási jog gyakorlásának módját;
+13.[^16] az elővásárlási jog gyakorlásának módját;
 
 14. a minimális ellenszolgáltatást, amelynél kedvezőtlenebb ajánlat nem tehető;
 
@@ -82,7 +82,7 @@
 
 (3) A (2) bekezdés 7. pontjában foglalt adatokat az NFA a Mezőgazdasági és Vidékfejlesztési Hivatal adatszolgáltatása alapján állapítja meg.
 
-(4)[^16] Ha a pályázati felhívás tárgyát jogszabállyal vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem, illetve védett terület képezi, a (2) bekezdés 11. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó jogszabályi előírásokat.
+(4)[^17] Ha a pályázati felhívás tárgyát jogszabállyal vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem, illetve védett terület képezi, a (2) bekezdés 11. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó jogszabályi előírásokat.
 
 (5) Az NFA oly módon köteles a pályázati felhívást közzétenni, és a pályázati kiírást elkészíteni, hogy az abban foglalt jogok, tények, adatok megegyezzenek a pályázati felhívás közzétételének időpontjában az ingatlan-nyilvántartásba bejegyzett jogokkal, tényekkel és adatokkal, valamint a földhasználati nyilvántartásba bejegyzett adatokkal.
 
@@ -94,5 +94,5 @@
 
 (9) Az NFA a pályázók bármelyikének biztosított információt, adatot és egyéb szolgáltatást köteles a többi pályázó számára is ugyanolyan módon biztosítani.
 
-[^15]: A 7. § (1) bekezdés 13. pontja a 161/2011. (VIII. 18.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^16]: A 7. § (4) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^16]: A 7. § (1) bekezdés 13. pontja a 161/2011. (VIII. 18.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^17]: A 7. § (4) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.

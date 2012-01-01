@@ -1,3 +1,3 @@
-## 4/B. §[^9]
+## 4/B. §[^10]
 
-[^9]: A 4/B. §-t a 11/2011. (II. 22.) Korm. rendelet 9. § (3) bekezdése iktatta be, hatályon kívül helyezte a 161/2011. (VIII. 18.) Korm. rendelet 18. § b) pontja.
+[^10]: A 4/B. §-t a 11/2011. (II. 22.) Korm. rendelet 9. § (3) bekezdése iktatta be, hatályon kívül helyezte a 161/2011. (VIII. 18.) Korm. rendelet 18. § b) pontja.

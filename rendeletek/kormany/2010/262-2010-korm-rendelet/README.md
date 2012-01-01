@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-262-20-
 | 2011-09-01 | 2010-262-20-22.3 | 161/2011. (VIII. 18.) Korm. rendelet |
 | 2011-11-01 | 2010-262-20-22.4 | 220/2011. (X. 20.) Korm. rendelet |
 | 2011-11-19 | 2010-262-20-22.5 | 242/2011. (XI. 18.) Korm. rendelet |
+| 2012-01-01 | 2010-262-20-22.6 | 300/2011. (XII. 22.) Korm. rendelet |
