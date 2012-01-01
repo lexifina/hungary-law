@@ -1,0 +1,1 @@
+41/C. § Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben kijelölje a hősi temető, hősi temetési hely kezelésének ellenőrzését végző szervet és meghatározza az általa ellátandó tevékenység további feltételeit.

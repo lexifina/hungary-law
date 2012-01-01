@@ -12,7 +12,7 @@ d) a temetők létesítésével, bővítésével, lezárásával, megszüntetés
 
 e) a temető, a temetkezési emlékhely, továbbá a temetési hely építményei létesítésének építési szabályait;
 
-f) a Nemzeti Kegyeleti Bizottság szervezetére, tagjaira, feladataira és működésére, továbbá annak Titkárságára vonatkozó szabályokat;
+f) a Nemzeti Emlékhely és Kegyeleti Bizottság szervezetére, tagjaira, feladataira, működésére, és Titkárságára vonatkozó szabályokat, továbbá kijelölje a Bizottság létrehozásával és felügyeletével kapcsolatos feladatokat ellátó minisztert;
 
 g) a temetőszabályzat kötelező tartalmi elemeit;
 

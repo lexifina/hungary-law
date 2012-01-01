@@ -10,4 +10,4 @@
 
 (3) A temetés módja lehet világi és egyházi. A világi temetés szertartásrendjét az eltemettetők határozzák meg. Az egyházi temetés az egyházak hitéleti tevékenységének, vallási szokásainak tiszteletben tartásával történik.
 
-(4) E törvényben foglalt rendelkezéseket a nemzeti és etnikai kisebbségek törvényben biztosított jogainak érvényesítésével kell végrehajtani.
+(4) E törvényben foglalt rendelkezéseket a nemzetiségek törvényben biztosított jogainak érvényesítésével kell végrehajtani.

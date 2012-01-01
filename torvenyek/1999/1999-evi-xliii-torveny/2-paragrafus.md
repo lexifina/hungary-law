@@ -4,7 +4,7 @@
 
 (2) A törvény rendelkezéseit alkalmazni kell
 
-a) azoknak az egyházaknak, felekezeteknek és vallási közösségeknek (a továbbiakban együtt: egyház), települési önkormányzatoknak, kisebbségi önkormányzatoknak, gazdálkodó szervezeteknek [Ptk. 685. § c) pont], közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
+a) azoknak az egyházaknak, felekezeteknek és vallási közösségeknek (a továbbiakban együtt: egyház), települési önkormányzatoknak, nemzetiségi önkormányzatoknak, gazdálkodó szervezeteknek [Ptk. 685. § c) pont], közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
 
 b) a temető és temetkezési emlékhely fenntartását, üzemeltetését, valamint temetkezési szolgáltatási tevékenységet végző természetes és jogi személyeknek, illetőleg annak, akire nézve e tevékenységek során jogok keletkeznek, és kötelezettségek hárulnak.
 
@@ -12,4 +12,4 @@ b) a temető és temetkezési emlékhely fenntartását, üzemeltetését, valam
 
 (4) A halvaszületett és elvetélt magzatok, csonkolt testrészek, emberi szervek, szervmaradványok eltemetésével összefüggésben – ha jogszabály másként nem rendelkezik – e törvényben foglaltakat kell alkalmazni.
 
-(5) A hősi temetőre és hősi temetési helyre vonatkozó szabályokat kell alkalmazni a Magyar Köztársaság területén levő más nemzetek hősi temetőire, hősi temetési helyeire is.
+(5) A hősi temetőre és hősi temetési helyre vonatkozó szabályokat kell alkalmazni Magyarország területén levő más nemzetek hősi temetőire, hősi temetési helyeire is.
