@@ -1,1 +1,3 @@
-## 25. § Az e rendelet hatálybalépésekor a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 2/2009. (I. 23.) MNB rendelet 18. § (5) bekezdés b) pontja alapján jogszerűen működött bankjegyvizsgáló gép a forintbankjegyek valódiság- és forgalomképességi vizsgálatára 2011. december 31-éig használható.
+## 25. §[^4]
+
+[^4]: A 25. §-t a 32. § (2) bekezdése hatályon kívül helyezte.
