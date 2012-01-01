@@ -10,7 +10,7 @@
 
 (3)[^53] Az (1) és (2) bekezdésben nem szereplő előadó-művészeti dolgozó szolgálatszámában — kollektív szerződés keretei között — a munkáltatói jogkör gyakorlója és az érintett közalkalmazott állapodik meg.
 
-(4)[^54] Közgyűjteményi és közművelődési intézmény 2. melléklet szerinti tudományos munkakörben foglalkoztatott:
+(4)[^54] Közművelődési intézmény 2. melléklet szerinti tudományos munkakörben foglalkoztatott:
 
 a) tudományos munkatársnak minősülő közalkalmazottja a heti munkaidőkeret 80%-ának,
 
@@ -26,4 +26,4 @@ megfelelő időtartamban köteles a munkavégzés helyén tartózkodni.
 [^51]: A 12. § (1) bekezdését a 150/2010. (IV. 30.) Korm. rendelet 16. § i) pontja hatályon kívül helyezte.
 [^52]: A 12. § (2) bekezdése a 112/2001. (VI. 26.) Korm. rendelet 3. §-a szerint kiegészített szöveg.
 [^53]: A 12. § (3) bekezdése a 150/2010. (IV. 30.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^54]: A 12. § (4) bekezdése a 150/2010. (IV. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^54]: A 12. § (4) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 25. §-ával megállapított szöveg.

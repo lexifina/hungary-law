@@ -80,9 +80,9 @@
 
 | 3.1.3 | Országos (fővárosi) intézmény, országos szakkönyvtár és közművelődési intézmény, országos múzeum főosztályvezetője (tudományos titkára) | 225 |
 
-| 3.1.4 | Megyei intézmény, főiskolai könyvtár, megyei múzeum igazgatója | 275 |
+| 3.1.4 | Megyei intézmény, főiskolai könyvtár, megyei múzeumigazgató | 275 |
 
-| 3.1.5 | Megyei intézmény, főiskolai könyvtár, megyei múzeum igazgatóhelyettese | 250 |
+| 3.1.5 | Megyei intézmény, főiskolai könyvtár, megyei múzeumigazgató-helyettes | 250 |
 
 | 3.1.6 | Minisztérium, országos hatáskörű szerv szaklevéltárának, országos szakmúzeum igazgatója | 250 |
 
