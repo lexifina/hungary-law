@@ -4,7 +4,7 @@
 
 ## I.
 
-## Fővárosi Bíróság
+## Fővárosi Törvényszék
 
 | Pesti Központi Kerületi Bíróság | 13 |
 
@@ -22,7 +22,7 @@
 
 ## II.
 
-## Baranya Megyei Bíróság
+## Pécsi Törvényszék
 
 | Komlói Városi Bíróság | 2 |
 
@@ -38,7 +38,7 @@
 
 ## III.
 
-## Bács-Kiskun Megyei Bíróság
+## Kecskeméti Törvényszék
 
 | Bajai Városi Bíróság | 2 |
 
@@ -58,7 +58,7 @@
 
 ## IV.
 
-## Békés Megyei Bíróság
+## Gyulai Törvényszék
 
 | Battonyai Városi Bíróság | 1 |
 
@@ -78,7 +78,7 @@
 
 ## V.
 
-## Borsod-Abaúj-Zemplén Megyei Bíróság
+## Miskolci Törvényszék
 
 | Encsi Városi Bíróság | 1 |
 
@@ -102,7 +102,7 @@
 
 ## VI.
 
-## Csongrád Megyei Bíróság
+## Szegedi Törvényszék
 
 | Csongrádi Városi Bíróság | 1 |
 
@@ -118,7 +118,7 @@
 
 ## VII.
 
-## Fejér Megyei Bíróság
+## Székesfehérvári Törvényszék
 
 | Bicskei Városi Bíróság | 1 |
 
@@ -132,7 +132,7 @@
 
 ## VIII.
 
-## Győr-Moson-Sopron Megyei Bíróság
+## Győri Törvényszék
 
 | Győri Városi Bíróság | 5 |
 
@@ -144,7 +144,7 @@
 
 ## IX.
 
-## Hajdú-Bihar Megyei Bíróság
+## Debreceni Törvényszék
 
 | Berettyóújfalui Városi Bíróság | 1 |
 
@@ -160,7 +160,7 @@
 
 ## X.
 
-## Heves Megyei Bíróság
+## Egri Törvényszék
 
 | Egri Városi Bíróság | 3 |
 
@@ -176,7 +176,7 @@
 
 ## XI.
 
-## Jász-Nagykun-Szolnok Megyei Bíróság
+## Szolnoki Törvényszék
 
 | Jászberényi Városi Bíróság | 3 |
 
@@ -194,7 +194,7 @@
 
 ## XII.
 
-## Komárom-Esztergom Megyei Bíróság
+## Tatabányai Törvényszék
 
 | Esztergomi Városi Bíróság | 2 |
 
@@ -208,7 +208,7 @@
 
 ## XIII.
 
-## Nógrád Megyei Bíróság
+## Balassagyarmati Törvényszék
 
 | Balassagyarmati Városi Bíróság | 2 |
 
@@ -220,7 +220,7 @@
 
 ## XIV.
 
-## Pest Megyei Bíróság
+## Budapest Környéki Törvényszék
 
 | Budakörnyéki Bíróság | 1 |
 
@@ -250,7 +250,7 @@
 
 ## XV.
 
-## Somogy Megyei Bíróság
+## Kaposvári Törvényszék
 
 | Barcsi Városi Bíróság | 2 |
 
@@ -268,7 +268,7 @@
 
 ## XVI.
 
-## Szabolcs-Szatmár-Bereg Megyei Bíróság
+## Nyíregyházi Törvényszék
 
 | Fehérgyarmati Városi Bíróság | 1 |
 
@@ -286,7 +286,7 @@
 
 ## XVII.
 
-## Tolna Megyei Bíróság
+## Szekszárdi Törvényszék
 
 | Bonyhádi Városi Bíróság | 1 |
 
@@ -302,7 +302,7 @@
 
 ## XVIII.
 
-## Vas Megyei Bíróság
+## Szombathelyi Törvényszék
 
 | Körmendi Városi Bíróság | 1 |
 
@@ -316,7 +316,7 @@
 
 ## XIX.
 
-## Veszprém Megyei Bíróság
+## Veszprémi Törvényszék
 
 | Ajkai Városi Bíróság | 1 |
 
@@ -332,7 +332,7 @@
 
 ## XX.
 
-## Zala Megyei Bíróság
+## Zalaegerszegi Törvényszék
 
 | Keszthelyi Városi Bíróság | 2 |
 
@@ -344,6 +344,6 @@
 
 | Összesen: | 9 |
 
-2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^66]
+2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^93]
 
-[^66]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta.
+[^93]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta.

@@ -1,13 +1,17 @@
-## 2. §[^2] Az igazságügyi és rendészeti miniszter (a továbbiakban: miniszter) az önálló bírósági végrehajtói állás létesítése előtt beszerzi a Magyar Bírósági Végrehajtói Kamara (a továbbiakban: kamara) javaslatát, és megvizsgálja, hogy az adott bíróság illetékességi területén indult és befejezett végrehajtási ügyek száma indokolttá teszi-e az álláshely létesítését.
+## 2. §[^2] Az igazságügyért felelős miniszter (a továbbiakban: miniszter) az önálló bírósági végrehajtói állás létesítése előtt beszerzi a Magyar Bírósági Végrehajtói Kamara (a továbbiakban: kamara) javaslatát, és megvizsgálja, hogy az adott bíróság illetékességi területén indult és befejezett végrehajtási ügyek száma indokolttá teszi-e az álláshely létesítését.
 
-## Megyei bírósági végrehajtó, végrehajtó-helyettes
+## Törvényszéki végrehajtó, végrehajtó-helyettes
 
-## és végrehajtójelölt
+## és végrehajtójelölt[^3]
 
-3. § (1) Minden megyei bíróságnál legalább 2 megyei bírósági végrehajtói állást kell szervezni.
+3. § (1)[^4] Minden törvényszéknél legalább 2 törvényszéki végrehajtói állást kell szervezni.
 
-(2) A fővárosi bírósági és a megyei bírósági (a továbbiakban együtt: megyei bírósági) végrehajtói állások számát a bírósági létszámgazdálkodás keretében kell megállapítani és a szükségnek megfelelően módosítani.
+(2)[^5] A törvényszéki végrehajtói állások számát a bírósági létszámgazdálkodás keretében kell megállapítani és a szükségnek megfelelően módosítani.
 
-(3) A megyei bírósági végrehajtó-helyettesi és megyei bírósági végrehajtójelölti állások számát a bírósági létszámgazdálkodás keretében úgy kell megállapítani, hogy a megyei bírósági végrehajtók utánpótlása biztosított legyen.
+(3)[^6] A törvényszéki végrehajtó-helyettesi és törvényszéki végrehajtójelölti állások számát a bírósági létszámgazdálkodás keretében úgy kell megállapítani, hogy a törvényszéki végrehajtók utánpótlása biztosított legyen.
 
-[^2]: A 2. § a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^2]: A 2. § a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése, a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^3]: A 3. §-t megelőző alcím a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 5. pontja szerint módosított szöveg.
