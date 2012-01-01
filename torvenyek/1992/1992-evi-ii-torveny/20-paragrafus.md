@@ -4,4 +4,4 @@
 
 (3) A fórum munkájában a helyi önkormányzat(ok) megbízottja(i), a kárpótlási igényt bejelentők közül a képviselő-testület által megválasztott 3—11 személy, a szövetkezet megbízottja és a részarány-földtulajdonosok képviselője vesz részt. A fórumban a nem helyben lakók képviseletét is biztosítani kell.
 
-(4) A fórum ügyrendjét maga állapítja meg, működési feltételeit a megalakító önkormányzat biztosítja az állami költségvetés terhére.
+(4) A fórum ügyrendjét maga állapítja meg, működési feltételeit a megalakító önkormányzat biztosítja a központi költségvetés terhére.

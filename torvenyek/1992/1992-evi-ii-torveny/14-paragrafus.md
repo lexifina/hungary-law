@@ -8,4 +8,4 @@ b) e földeken, valamint a szövetkezet közös használatában álló földeken
 
 c) e földek egy hektárra vonatkozó összesített átlagos AK értéke, legfeljebb tízszázalékos eltéréssel, feleljen meg a részarány-földtulajdonosok tulajdonaként nyilvántartott földek egy hektárra számított átlagos AK értékének.
 
-(3) Ha a tulajdonosnak az e törvény és a Kpt. alapján többféle jogcímen és földalapból keletkezett részerány-tulajdona van, a részarány-tulajdonokat az illetékes földhivatal a tulajdonos kezdeményezésére – az ingatlannyilvántartás szabályainak figyelembevételével – összevonja.
+(3) Ha a tulajdonosnak az e törvény és a Kpt. alapján többféle jogcímen és földalapból keletkezett részerány-tulajdona van, a részarány-tulajdonokat az ingatlanügyi hatóság a tulajdonos kezdeményezésére – az ingatlannyilvántartás szabályainak figyelembevételével – összevonja.
