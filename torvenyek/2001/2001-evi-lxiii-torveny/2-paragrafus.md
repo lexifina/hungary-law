@@ -1,1 +1,1 @@
-2. § A Magyar Köztársaság Országgyűlése a magyar nemzet soha el nem múló hálája jeléül, a ma élő és a jövő nemzedékek okulására, a hősök dicsőségére minden esztendő május hónapjának utolsó vasárnapját a Magyar Hősök Emlékünnepévé nyilvánítja.
+2. § Az Országgyűlés a magyar nemzet soha el nem múló hálája jeléül, a ma élő és a jövő nemzedékek okulására, a hősök dicsőségére minden esztendő május hónapjának utolsó vasárnapját a Magyar Hősök Emlékünnepévé nyilvánítja.
