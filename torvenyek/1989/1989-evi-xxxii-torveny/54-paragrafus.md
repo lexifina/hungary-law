@@ -1,3 +1,0 @@
-54. § (1) Az Alkotmánybíróság további öt tagját a legközelebbi országgyűlési választásokat követően az Országgyűlés az alakuló ülése utáni két hónapon belül választja meg. Az Alkotmánybíróság megválasztott tíz tagja maguk közül megválasztja az Alkotmánybíróság elnökét.
-
-(2) Az Alkotmánybíróság teljes ülésének hatáskörébe utalt ügyekben az átmenetileg tíz tagból álló Alkotmánybíróság akkor határozatképes, ha a döntésnél legalább az Alkotmánybíróság nyolc, köztük az elnök vagy akadályoztatása esetén a helyettes elnök jelen van. Szavazategyenlőség esetén a 30. § (3) bekezdésében foglaltak az irányadók.

@@ -1,1 +1,0 @@
-6. § Az Alkotmánybíróság tagjaira és elnökére az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjai által jelölt legalább kilenc és legfeljebb tizenöt képviselőből álló jelölő bizottság tesz javaslatot. A bizottságban a képviselőcsoportok legalább egy-egy képviselőjének helyet kell kapnia.

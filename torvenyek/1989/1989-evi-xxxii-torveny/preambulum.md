@@ -1,1 +1,0 @@
-Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotmányban biztosított alapjogok védelme, a hatalmi ágak elválasztása és kölcsönös egyensúlyának megteremtése, az alkotmányvédelem legfőbb szervének felállítása érdekében — az Alkotmány 32/A. §-a (6) bekezdésének végrehajtására — a következő törvényt alkotja:
