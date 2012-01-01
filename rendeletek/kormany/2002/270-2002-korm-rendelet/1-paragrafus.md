@@ -1,6 +1,6 @@
 ## Az Iparjogvédelmi Szakértői Testület feladatai
 
-1. § (1)[^1] Az Iparjogvédelmi Szakértői Testület (a továbbiakban: Szakértői Testület) az Szt. 16. §-ának (2) bekezdésében és 115/C. §-ának (1) bekezdésében megjelölt ügyekben, valamint 115/C. §-ának (2) bekezdésében meghatározott kérdésekben szakértői véleményt ad bírósági vagy hatósági megkeresés vagy megbízás alapján.
+1. § (1)[^1] Az Iparjogvédelmi Szakértői Testület (a továbbiakban: Szakértői Testület) az Szt. 16. §-ának (2) bekezdésében és 115/T. §-ának (1) bekezdésében megjelölt ügyekben, valamint 115/T. §-ának (2) bekezdésében meghatározott kérdésekben szakértői véleményt ad bírósági vagy hatósági megkeresés vagy megbízás alapján.
 
 (2) E rendelet alkalmazásában iparjogvédelmi jogvitás ügy
 
@@ -16,4 +16,4 @@ d) az a)–c) pontokban említett szellemi alkotások, ismeretek és tapasztalat
 
 (3) E rendelet alkalmazásában iparjogvédelmi kérdésnek minősül a (2) bekezdésben meghatározott jogok gyakorlásával kapcsolatos bármely kérdés.
 
-[^1]: Az 1. § (1) bekezdése a 204/2005. (IX. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. november 1. napját követően érkeznek az Iparjogvédelmi Szakértői Testülethez.
+[^1]: Az 1. § (1) bekezdése a 204/2005. (IX. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 272/2011. (XII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
