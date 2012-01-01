@@ -28,9 +28,9 @@ A munkáltatói érdekképviseletek a maguk és tagszervezeteik által kötött 
 
 Amennyiben egy munkaviszonyban álló foglalkoztatottra több – munkahelyi, több munkáltató, vagy egy, illetőleg több munkáltatói érdekképviselet által kötött, illetve az ágazatra kiterjesztett – kollektív szerződés vonatkozik, a halmozódás elkerülése érdekében a legmagasabb szintű kollektív szerződést kell figyelembe venni. Amennyiben van az ágazatra kiterjesztett hatályú kollektív szerződés, a szerződést kötő munkáltatói érdekképviseletek egyenlő arányban részesednek a felosztható pontszámból.
 
-5. Az Országos Érdekegyeztető Tanács (OÉT) munkáltatói oldalán résztvevő országos munkáltatói szövetséghez való tartozás
+5. Az NGTT gazdaságot képviselők oldalán belül az országos munkáltatói érdekképviseletek, illetve érdek-képviseleti szövetségekhez (a továbbiakban: NGTT munkáltatói oldal) való tartozás
 
-Az OÉT tagság alapján összesen 10 pont osztható fel. Azok a munkáltatói érdekképviseletek, amelyek tagjai valamely, az OÉT munkáltatói oldalán résztvevő országos szövetségnek, vagy maguk tagjai az OÉT-nek, egyenlő arányban részesednek a felosztható pontszámból.
+Az NGTT tagság alapján összesen 10 pont osztható fel. Azok a munkáltatói érdekképviseletek, amelyek tagjai valamely, az NGTT munkáltatói oldalán résztvevő országos szövetségnek, vagy maguk tagjai az NGTT-nek, egyenlő arányban részesednek a felosztható pontszámból.
 
 6. Az ágazat nemzetközi munkáltatói szervezeteihez való tartozás
 

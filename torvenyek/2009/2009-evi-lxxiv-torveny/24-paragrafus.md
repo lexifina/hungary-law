@@ -4,7 +4,7 @@
 
 a) az érdekképviselet elnevezése, székhelye, képviselőjének neve;
 
-b) az OÉT munkavállalói, illetve munkáltatói oldalán résztvevő országos szövetséghez való tartozás;
+b) a Nemzeti Gazdasági és Társadalmi Tanácsban (továbbiakban: NGTT) részt vevő országos munkáltatói és munkavállalói érdekképviseletekhez, illetve érdek-képviseleti szövetségekhez való tartozás;
 
 c) a nemzetközi ágazati érdekképviseleti tagság;
 
@@ -40,8 +40,8 @@ is felhasználhatja.
 
 (6) A kezelt adatok – személyazonosító adatok nélkül – statisztikai célra felhasználhatók, illetőleg azokból statisztikai célra adat szolgáltatható.
 
-(7) Az ÁPB-ben részt venni kívánó érdekképviselet a 6-8. § szerinti részvételi feltételeknek való megfelelés vagy a 12. § (1) bekezdésében foglalt jogosultságok megállapítására vonatkozó ÁRMB eljárás lefolytatásához szükséges kérelmet, a kollektív szerződést kötő érdekképviseletek a szerződés kiterjesztésére vonatkozó kérelmet, továbbá a kapcsolódó adatszolgáltatást elektronikus úton nyújtja be, illetve teljesíti, a miniszter honlapján és a kormányzati portálon közzétett elektronikus adatlap felhasználásával.
+(7) Az ÁPB-ben részt venni kívánó érdekképviselet a 6–8. § szerinti részvételi feltételeknek való megfelelés vagy a 12. § (1) bekezdésében foglalt jogosultságok megállapítására vonatkozó ÁRMB eljárás lefolytatásához szükséges kérelmet, a kollektív szerződést kötő érdekképviseletek a szerződés kiterjesztésére vonatkozó kérelmet, továbbá a kapcsolódó adatszolgáltatást elektronikus úton nyújtja be, illetve teljesíti, az állami foglalkoztatási szerv honlapján közzétett elektronikus adatlap felhasználásával.
 
-(8) A miniszter közreműködik az ÁRMB határozatát megalapozó adatok feldolgozásában. Ebben az esetben a miniszter erre kijelölt szervezeti egységének munkatársa, akinek a munkaköri leírása az adatkezelési feladatot tartalmazza, az adatokat kezelheti.
+(8) Az állami foglalkoztatási szerv közreműködik az ÁRMB határozatát megalapozó adatok feldolgozásában. Ebben az esetben az állami foglalkoztatási szerv erre kijelölt szervezeti egységének munkatársa, akinek a munkaköri leírása az adatkezelési feladatot tartalmazza, az adatokat kezelheti.
 
 (9) A (3) bekezdés b) pontjával összefüggésben az adóhatóság június 30-ig átadja a miniszter részére az előző évi adatokat.
