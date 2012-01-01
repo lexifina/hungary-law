@@ -1,0 +1,1 @@
+## 7. § A megyei önkormányzatnál, a Fővárosi Önkormányzatnál és Esztergom Város Önkormányzatánál az átvett intézményekkel, valamint az ágazati jogszabályok által meghatározott szakmai feladatokkal összefüggésben a folyamatban lévő ügyek tekintetében 2012. január 1-jétől a GYEMSZI jár el.

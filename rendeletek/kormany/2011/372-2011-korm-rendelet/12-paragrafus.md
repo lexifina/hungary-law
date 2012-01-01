@@ -16,8 +16,10 @@
 
 ## (1a) Az Esztergom Város Önkormányzatától átvett nem egészségügyi intézményekkel, valamint az ágazati jogszabályok által meghatározott szakmai feladatokkal összefüggésben folyamatban lévő ügyek tekintetében 2012. január 1-jétől a Komárom-Esztergom Megyei Intézményfenntartó Központ jár el.”
 
-(4)[^4]
+(4) Az R1. a következő 22/A. §-sal egészül ki:
+
+## „22/A. § (1) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 5. melléklete szerint január első munkanapján a Megyei Önkormányzatot megillető nettó támogatást a Kincstár a Kincstár megyei igazgatóság lebonyolítási számlájára utalja.
+
+## (2) A Kincstár megyei igazgatósága a lebonyolítási számláról teljesíti a Megyei Önkormányzat fenntartása alatt maradó költségvetési szerveknél foglalkoztatottak 2011. december havi, 2012. január elején esedékes nettó illetményének utalását. A fedezetet a Kincstár a 22. § (4) és (6) bekezdése, valamint az (1) bekezdés alapján biztosítja. A fedezettel a Kincstár megyei igazgatósága 2012. január 20-áig számol el a Megyei Önkormányzattal.”
 
 (5) Nem lép hatályba az R1. 43. § (2) bekezdése.
-
-[^4]: A 12. § (4) bekezdése a 6. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

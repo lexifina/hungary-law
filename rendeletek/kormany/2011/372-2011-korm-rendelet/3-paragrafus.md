@@ -10,8 +10,6 @@
 
 (4) A megállapodás alapjául szolgáló dokumentumok, adattáblák átadása jegyzőkönyv felvételével történik. A jegyzőkönyvet az átadó és az átvevő írja alá.
 
-(5)[^1]
+(5) A vagyonkezelő GYEMSZI az átvett vagyont elkülönítetten köteles nyilvántartani könyveiben. Az átvett ingatlan vagyont, valamint az átvett intézményi ingó vagyont a GYEMSZI 2012. január 1-jén az átvett intézményekkel megkötött külön megállapodásban (a továbbiakban: intézményi megállapodás), az abban meghatározottak szerint használatba, hasznosításba adja az átvett intézménynek. Az intézményi megállapodás az átadás-átvételi megállapodás része, azt a Törvényben megjelölt aláírók, valamint az intézmény képviselője írja alá.
 
 (6) Az ingó vagyont a megállapodásban meghatározottak szerint mind a vagyonkezelő, mind a használó intézmény értékesítheti, az értékesítésből származó bevétel az intézmény bevétele.
-
-[^1]: A 3. § (5) bekezdése a 6. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

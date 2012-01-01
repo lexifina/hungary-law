@@ -1,3 +1,3 @@
-## 14. § A R1. 12. §-a a következő (5) bekezdéssel egészül ki:
+15. §[^3]
 
-## „(5) Esztergom Város Önkormányzata egyes intézményeinek átadása során a 6. mellékletben foglalt Jegyzőkönyv készül.”
+[^3]: A 13–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
