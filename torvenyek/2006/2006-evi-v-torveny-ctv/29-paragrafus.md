@@ -32,9 +32,9 @@ m) az l) pontban foglalt végzésnek megfelelően a cégjegyzékadatok bejegyzé
 
 (4) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzési kérelméhez a törvény mellékletében felsorolt iratok közül az 1. számú melléklet I. 1. a), 2., 4., 6., 7., 9–12., illetve a 2. számú melléklet I. 1., 2., 3. b), valamint 7. pontja alatt megjelölt iratokat kell csatolni. Az 1. számú melléklet II. 6. a) pontjában, valamint a 2. számú melléklet II. 3. a)–b) pontjában előírt iratok csatolására vonatkozó kötelezettség a külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzése során is megfelelően irányadó.
 
-(5) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének nyilvántartásba vételére, illetve nyilvántartására a Fővárosi Bíróság mint cégbíróság rendelkezik hatáskörrel és kizárólagos illetékességgel.
+(5) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének nyilvántartásba vételére, illetve nyilvántartására a Fővárosi Törvényszék mint cégbíróság rendelkezik hatáskörrel és kizárólagos illetékességgel.
 
-(6) Ha a külföldi székhelyű európai gazdasági egyesülés Magyarországra helyezi át a székhelyét, a bejegyzési kérelem benyújtásával egyidejűleg kezdeményeznie kell a Fővárosi Bíróságnál a korábban már a cégjegyzékbe bejegyzett magyarországi telephelye önálló nyilvántartásának megszüntetését is.
+(6) Ha a külföldi székhelyű európai gazdasági egyesülés Magyarországra helyezi át a székhelyét, a bejegyzési kérelem benyújtásával egyidejűleg kezdeményeznie kell a Fővárosi Törvényszéknél a korábban már a cégjegyzékbe bejegyzett magyarországi telephelye önálló nyilvántartásának megszüntetését is.
 
 2. CÍM
 

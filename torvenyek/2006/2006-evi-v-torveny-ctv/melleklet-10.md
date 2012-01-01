@@ -512,12 +512,6 @@
 
 ## b) korlátozott, a pótbefizetés összege:
 
-## 5.3. Osztalékelőleg fizetésére
-
-## a) sor kerülhet
-
-## b) nem kerülhet sor.
-
 ## 6. Ügyvezető
 
 ## 6.1. A társaság ügyvezetője:

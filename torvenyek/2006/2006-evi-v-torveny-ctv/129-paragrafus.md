@@ -1,4 +1,4 @@
-129. § (1) E törvény hatálybalépését megelőzően bejegyzett cégek a cégjegyzékben vezetett adataik első változásakor, ennek hiányában legkésőbb 2007. szeptember 1. napjáig kötelesek a 24–25. §-nak megfelelő adatok bejelentésére.
+129. § (1) A 36. § (4a) bekezdésében foglalt adatok bejegyzését a tagok a cégjegyzékben vezetett adataik első változásakor kötelesek a cégbíróságnak benyújtani.
 
 (2) Az e törvény 4. §-ának (3) bekezdésében foglalt rendelkezéseket csak azon cégek esetében kell alkalmazni, amelyekben az állam közvetlenül vagy szervezetei útján gyakorolt többségi befolyása (Ptk. 685/B. §) a törvény hatálybalépését követően szűnik meg vagy a cég a törvény hatálybalépését követően kerül ki a külön törvény szerinti tartós állami tulajdoni körből.
 

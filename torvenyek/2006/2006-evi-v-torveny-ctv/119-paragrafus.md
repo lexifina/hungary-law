@@ -2,7 +2,7 @@
 
 (2) A vagyonrendezési eljárás nemperes eljárás, amelyre a Pp. szabályait – ha e fejezet másként nem rendelkezik – megfelelően alkalmazni kell, szünetelésnek azonban nincs helye.
 
-(3) A vagyonrendezési eljárást a törölt cég utolsó bejegyzett székhelye szerint illetékes megyei bíróság folytatja le.
+(3) A vagyonrendezési eljárást a törölt cég utolsó bejegyzett székhelye szerint illetékes törvényszék folytatja le.
 
 (4) Az eljárást a törölt cég volt hitelezője, volt tagja (részvényese), illetve az kérheti, akinek az eljárás lefolytatásához jogi érdeke fűződik, mivel az általa megjelölt vagyontárgyra vonatkozóan követelése áll fenn. A kérelmezőnek meg kell jelölnie a törölt cég, valamint azon vagyontárgy azonosításához szükséges adatokat, amely vonatkozásában a vagyonrendezési eljárás lefolytatását kéri, és csatolnia kell azokat az okiratokat, amelyekkel a vagyontárgy létét, tulajdoni helyzetének rendezetlenségét, illetve a kérelmező követelésének fennállását valószínűsíti. A kérelemhez csatolni kell a közzétételi költségtérítés megfizetésére vonatkozó igazolást is.
 

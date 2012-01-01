@@ -1,4 +1,4 @@
-1. § (1) A megyei (fővárosi) bíróság mint cégbíróság (a továbbiakban: cégbíróság) feladata
+1. § (1) A törvényszék mint cégbíróság (a továbbiakban: cégbíróság) feladata
 
 a) a cégbejegyzési (változásbejegyzési) eljárás lefolytatása és a kérelemnek helyt adó végzés esetén, illetve e törvényben meghatározott esetekben hivatalból is, a cégre vonatkozó adat, jog, valamint tény (a továbbiakban: adat) cégjegyzékbe történő bejegyzése, illetve törlése,
 
@@ -8,9 +8,11 @@ c) a cégjegyzék adatairól, valamint a cégiratokról tájékoztatás nyújtá
 
 d) a cégnyilvántartás közhitelességének és a cég törvényes működésének biztosítása érdekében – hivatalból, illetve kérelemre – törvényességi felügyeleti eljárás lefolytatása,
 
-e) a gazdasági társaságokról szóló törvényben és más, az egyes cégformákra vonatkozó törvényekben, illetve az Európai Unió rendeleteiben meghatározott, a kisebbségi jogok gyakorlását, valamint a hitelezői jogok védelmét biztosító kérelmek elbírálása, továbbá
+e) a gazdasági társaságokról szóló törvényben és más, az egyes cégformákra vonatkozó törvényekben, illetve az Európai Unió rendeleteiben meghatározott, a kisebbségi jogok gyakorlását, valamint a hitelezői jogok védelmét biztosító kérelmek elbírálása,
 
-f) azoknak az egyéb ügyeknek az elbírálása, amelyeket törvény a cégbíróság hatáskörébe utal.
+f) döntés a közhasznúvá minősítésről, és a közhasznú jogállás cégjegyzékbe történő bejegyzése, illetve törlése, továbbá
+
+g) azoknak az egyéb ügyeknek az elbírálása, amelyeket törvény a cégbíróság hatáskörébe utal.
 
 (2) A céginformációs és az elektronikus cégeljárásban közreműködő szolgálat (a továbbiakban: céginformációs szolgálat) feladatai a következők:
 
