@@ -1,3 +1,3 @@
-## 4. §[^11] Ha a nyilvántartásba vételre az egyesülési jogról szóló 1989. évi II. törvény 15. § (6) bekezdése alapján került sor, a kézbesítés előtt a bíróság a számítógépen rögzített adatsort olyan záradékkal látja el, amely igazolja, hogy a nyilvántartásba vétel e törvényi rendelkezés erejénél fogva megtörtént.
+## 4. §[^6]
 
-[^11]: A 4. § a 24/2001. (XII. 26.) IM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 4. §-t a 40/2011. (XII. 30.) KIM rendelet 38. § (3) bekezdése hatályon kívül helyezte.

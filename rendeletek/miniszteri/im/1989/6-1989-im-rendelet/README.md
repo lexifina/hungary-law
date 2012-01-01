@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1989-6-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-01-01 | 1989-6-20-06.5 | 6/1989. (VI. 8.) IM rendelet |
+| 2012-01-01 | 1989-6-20-06.6 | 40/2011. (XII. 30.) KIM rendelet |

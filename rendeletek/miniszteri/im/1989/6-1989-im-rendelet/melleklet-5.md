@@ -224,38 +224,6 @@
 
 ## * Írja be annak a rovatnak a betűjelét, amelyre a folytatás vonatkozik (pl. társadalmi szervezet képviselőjének neve esetén: ,,II/3.”, ekkor a harmadik hely üresen marad; jogi személy szervezeti egység neve esetén: ,,II/8/a.”).
 
-5. számú melléklet a 6/1989. (VI. 8.) IM rendelethez[^20]
+5. számú melléklet a 6/1989. (VI. 8.) IM rendelethez[^17]
 
-............. Megyei (Fővárosi) Bíróság
-
-PK ....................................
-
-KIVONAT
-
-társadalmi szervezet bírósági nyilvántartási adatairól
-
-A társadalmi szervezet nyilvántartási száma:
-
-A társadalmi szervezet neve:
-
-A társadalmi szervezet székhelye:
-
-A társadalmi szervezet célja, valamint célja szerinti besorolása:
-
-A társadalmi szervezet közhasznúsági fokozata:
-
-A társadalmi szervezet képviselőjének neve, lakóhelye:
-
-A társadalmi szervezet jogi személyiséggel rendelkező szerve:
-
-A társadalmi szervezet nyilvántartásba vételéről rendelkező jogerős bírósági határozat száma, kelte:
-
-A társadalmi szervezet működésének felfüggesztését/megszűnését elrendelő jogerős bírósági határozat száma, kelte:
-
-A kivonat a fent meghatározott társadalmi szervezet 20.... év ......... hó .... napján hatályos adatairól készült.
-
-Kelt ........, 20.... év ............ hó ..... napján.
-
-Aláírás, bélyegző
-
-[^20]: Az 5. számú mellékletet a 35/2004. (XI. 22.) IM rendelet 6. §-ának (1) bekezdése iktatta a szövegbe.
+[^17]: Az 5. számú mellékletet a 35/2004. (XI. 22.) IM rendelet 6. §-ának (1) bekezdése iktatta be, hatályon kívül helyezte 40/2011. (XII. 30.) KIM rendelet 38. § (3) bekezdése.
