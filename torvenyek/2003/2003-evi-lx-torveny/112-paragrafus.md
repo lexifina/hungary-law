@@ -1,6 +1,6 @@
 112. § (1) A 111. § (1) bekezdésében meghatározott engedély megadását a Felügyelet elutasítja, ha a kérelmező
 
-a) természetes személy büntetett előéletű;
+a) természetes személy nem büntetlen előéletű;
 
 b) jogállása, tulajdonosi háttere nem tisztázott, vagy nem állapítható meg;
 

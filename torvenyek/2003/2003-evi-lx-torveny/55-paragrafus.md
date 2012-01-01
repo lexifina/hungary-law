@@ -1,6 +1,6 @@
 ## A külföldi biztosító, biztosításközvetítő, szaktanácsadó magyarországi képviselete
 
-55. § (1) A külföldi biztosító (biztosításközvetítő, szaktanácsadó) a Magyar Köztársaság területén tartós képviseletet (a továbbiakban: képviselet) létesíthet.
+55. § (1) A külföldi biztosító (biztosításközvetítő, szaktanácsadó) Magyarország területén tartós képviseletet (a továbbiakban: képviselet) létesíthet.
 
 (2) A képviselet a képviselt biztosító (biztosításközvetítő, szaktanácsadó) nevében annak tevékenységét ismerteti.
 

@@ -1,4 +1,4 @@
-32. § (1) Ha a Felügyeletet másik tagállam felügyeleti hatósága tájékoztatja arról, hogy a tagállamban székhellyel rendelkező biztosító fióktelepet kíván létesíteni a Magyar Köztársaság területén, akkor a Felügyelet a tájékoztatás kézhezvételétől számított 2 hónapon belül tájékoztatja a tagállam felügyeleti hatóságát a biztosítási tevékenység magyarországi végzésének feltételeiről.
+32. § (1) Ha a Felügyeletet másik tagállam felügyeleti hatósága tájékoztatja arról, hogy a tagállamban székhellyel rendelkező biztosító fióktelepet kíván létesíteni Magyarország területén, akkor a Felügyelet a tájékoztatás kézhezvételétől számított 2 hónapon belül tájékoztatja a tagállam felügyeleti hatóságát a biztosítási tevékenység magyarországi végzésének feltételeiről.
 
 (2) A másik tagállamban székhellyel rendelkező biztosító magyarországi fióktelepe tevékenységét a Felügyelet tájékoztatásának kézhezvételét követően, illetve a tájékoztatásra rendelkezésre álló 2 hónapos időtartam lejártát követően kezdheti meg.
 

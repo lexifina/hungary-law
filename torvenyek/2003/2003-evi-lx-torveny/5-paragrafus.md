@@ -1,8 +1,8 @@
-5. § (1) Biztosítási, független biztosításközvetítői tevékenység és biztosítási tevékenységgel összefüggő tevékenység a Magyar Köztársaság területén – a (2) bekezdésben foglaltak kivételével – a Felügyelet engedélyével végezhető.
+5. § (1) Biztosítási, független biztosításközvetítői tevékenység és biztosítási tevékenységgel összefüggő tevékenység Magyarország területén – a (2) bekezdésben foglaltak kivételével – a Felügyelet engedélyével végezhető.
 
-(2) A tagállamban székhellyel rendelkező biztosító, biztosításközvetítő, biztosítási szaktanácsadó tevékenységét a Magyar Köztársaság területén határon átnyúló szolgáltatásként vagy magyarországi fióktelepe útján akkor végezheti, ha erre a saját államában jogosult.
+(2) A tagállamban székhellyel rendelkező biztosító, biztosításközvetítő, biztosítási szaktanácsadó tevékenységét Magyarország területén határon átnyúló szolgáltatásként vagy magyarországi fióktelepe útján akkor végezheti, ha erre a saját államában jogosult.
 
-(3) Harmadik országbeli biztosító, biztosításközvetítő és biztosítási szaktanácsadó tevékenységét a Magyar Köztársaság területén – a (7) bekezdésben meghatározott kivétellel – kizárólag magyarországi fióktelepen keresztül végezheti.
+(3) Harmadik országbeli biztosító, biztosításközvetítő és biztosítási szaktanácsadó tevékenységét Magyarország területén – a (7) bekezdésben meghatározott kivétellel – kizárólag magyarországi fióktelepen keresztül végezheti.
 
 (4) Biztosítási tevékenységet kizárólag biztosító végezhet.
 
@@ -22,7 +22,9 @@ e) a Tpt.-ben foglaltak szerint végzett értékpapír-kölcsönzés,
 
 f) a biztosító által a biztosító anyavállalata, leányvállalata vagy részesedési viszonya alatt álló vállalkozása részére a biztosítási üzem működése és fenntartása körébe eső szolgáltatások nyújtása,
 
-g) a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapról szóló 2003. évi LVIII. törvény 9. § (4) bekezdése szerinti tevékenység.
+g) a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapról szóló 2003. évi LVIII. törvény 9. § (4) bekezdése szerinti tevékenység,
+
+h) az önkéntes kölcsönös biztosító pénztárakról szóló törvényben meghatározott tagszervezési tevékenység.
 
 (7) Harmadik országbeli biztosító – nemzetközi szerződés alapján – fióktelep közbeiktatása nélkül
 

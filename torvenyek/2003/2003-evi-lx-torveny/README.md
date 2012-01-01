@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-60-00-00
 | 2011-10-11 | 2011. évi CXXII. törvény | 2003-60-00-00.28 |
 | 2011-11-30 | 2011. évi CLVI. törvény | 2003-60-00-00.29 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2003-60-00-00.30 |
+| 2012-01-01 | 2011. évi CXCIII. törvény | 2003-60-00-00.31 |

@@ -8,7 +8,7 @@ c) az átruházandó állományhoz kapcsolódó biztosítástechnikai tartaléko
 
 d) az állományátruházás időpontját, ellenértékét,
 
-e) abban az esetben, ha az átvevő biztosító székhelye a Magyar Köztársaság területén van, annak bemutatását, hogy az átvevő biztosító rendelkezik a saját állományához tartozó minimális szavatoló tőkén túl az átvett állományhoz szükséges minimális szavatoló tőkével.
+e) abban az esetben, ha az átvevő biztosító székhelye Magyarország területén van, annak bemutatását, hogy az átvevő biztosító rendelkezik a saját állományához tartozó minimális szavatoló tőkén túl az átvett állományhoz szükséges minimális szavatoló tőkével.
 
 (2) Az állományátruházást engedélyező felügyeleti hatóság megkeresi az átvevő biztosító felügyeleti hatóságát, kérve annak igazolását, hogy az átvevő biztosító szavatoló tőkéje az állomány átvétele után is eléri a minimális szavatoló tőke szintjét.
 

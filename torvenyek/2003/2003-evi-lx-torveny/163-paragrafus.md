@@ -16,6 +16,8 @@ g) vagyonellenőrrel,
 
 h) Információs Központtal
 
+i) , – a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében – az agrárkár-megállapító szervvel, agrárkár-enyhítési szervvel, mezőgazdasági igazgatási szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel
+
 szemben.
 
 (2) A 162. §-ban előírt titoktartási kötelezettség az eljárás alapját képező ügyre vonatkozóan nem áll fenn a feladatkörében eljáró

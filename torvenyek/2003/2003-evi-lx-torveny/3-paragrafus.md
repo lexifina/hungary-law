@@ -76,7 +76,7 @@ A minősített befolyás nagyságának megállapításakor a közvetlen és a k�
 
 28. jegyzett tőke, saját tőke: a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: Szmt.) foglalt meghatározások szerinti fogalmak;
 
-29. jelzáloghitel: a biztosító részvénytársaság által életbiztosítási ügyfeleinek közokiratban foglalt szerződés alapján nyújtott olyan pénzkölcsön, amelynek fedezete – az adott ügyfél által megkötött, életbiztosítási szerződés alapján teljesítendő biztosítási összeg mellett – a Magyar Köztársaság területén lévő ingatlanon (a termőföldet kivéve) alapított jelzálogjog;
+29. jelzáloghitel: a biztosító részvénytársaság által életbiztosítási ügyfeleinek közokiratban foglalt szerződés alapján nyújtott olyan pénzkölcsön, amelynek fedezete – az adott ügyfél által megkötött, életbiztosítási szerződés alapján teljesítendő biztosítási összeg mellett – Magyarország területén lévő ingatlanon (a termőföldet kivéve) alapított jelzálogjog;
 
 30. kapcsolt vállalkozás: a leányvállalat vagy az a vállalkozás, amelyben egy másik vállalkozás (részesedő vállalkozás) részesedési viszonnyal rendelkezik;
 
@@ -86,7 +86,7 @@ A minősített befolyás nagyságának megállapításakor a közvetlen és a k�
 
 33. Kártalanítási Szervezet: a Gfbt.-ben meghatározott fogalom;
 
-34. kézbesítési megbízott: a Magyar Köztársaság területén bejegyzett ügyvéd, ügyvédi iroda vagy a kérelmező Magyar Köztársaság területén bejegyzett biztosítója, biztosításközvetítője, vagy biztosítási szaktanácsadója, illetve az e törvény szerinti képviselete;
+34. kézbesítési megbízott: Magyarország területén bejegyzett ügyvéd, ügyvédi iroda vagy a kérelmező Magyar Köztársaság területén bejegyzett biztosítója, biztosításközvetítője, vagy biztosítási szaktanácsadója, illetve az e törvény szerinti képviselete;
 
 35. kockázatnak kitett összeg: a halál esetén kifizetendő összeg, levonva belőle a fő kockázat matematikai tartalékát, illetve befektetési egységekhez kötött életbiztosítási szerződés esetén a befektetési egységekhez kötött (unit-linked) életbiztosítások tartalékát;
 
@@ -242,6 +242,8 @@ c) az a) és b) pontokban megjelölt felügyeleti hatóságok által kijelölt �
 
 94. kapcsolt vállalkozás: a Tpt.-ben meghatározott fogalom;
 
-95. Kártalanítási Alap: a Gfbt.-ben meghatározott fogalom.
+95. Kártalanítási Alap: a Gfbt.-ben meghatározott fogalom;
+
+96. büntetlen előéletű: akinek e törvényben külön nevesített tevékenység végzéséhez és vezető állás betöltéséhez feltétel a büntetlen előélet, annak büntetlen előéletét a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (Btk. 233. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238. §), a hamis tanúzásra felhívás (Btk. 242. §), a mentő körülmény elhallgatása (Btk. 243. §), a bűnpártolás (Btk. 244. §), a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (Btk. 261. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), a bűnszervezetben részvétel (Bt. 263/C. §), a visszaélés atomenergia alkalmazásával (Btk. 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), az önbíráskodás (Btk. 273. §), a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények tekintetében kell – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvánnyal – igazolnia.
 
 (2) Az Európai Unió, illetőleg az Európai Unió tagállama kifejezésen az Európai Gazdasági Térséget, illetőleg az Európai Gazdasági Térségről szóló megállapodásban részes államot is érteni kell (a továbbiakban: EGT-állam), kivéve a 227. § (1) bekezdését. A nem-életbiztosítási ág tekintetében Svájcra az EGT-államra vonatkozó rendelkezéseket kell alkalmazni.

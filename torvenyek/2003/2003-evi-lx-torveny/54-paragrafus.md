@@ -8,4 +8,4 @@
 
 (4) A független biztosításközvetítő tevékenységét a másik tagállamban a Felügyelet (2) bekezdésben foglalt tájékoztatásának kézhezvételét követően, illetve a tájékoztatásra rendelkezésre álló 1 hónapos időtartam lejártát követően kezdheti meg.
 
-(5) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a tagállam területén biztosításközvetítői tevékenységre jogosult első alkalommal kíván biztosításközvetítői tevékenységet végezni a Magyar Köztársaság területén, a Felügyelet a felügyeleti tájékoztatás kézhezvételétől számított 1 hónapon belül tájékoztatja a biztosításközvetítőt a tevékenységvégzésre vonatkozó magyar szabályozásról.
+(5) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a tagállam területén biztosításközvetítői tevékenységre jogosult első alkalommal kíván biztosításközvetítői tevékenységet végezni Magyarország területén, a Felügyelet a felügyeleti tájékoztatás kézhezvételétől számított 1 hónapon belül tájékoztatja a biztosításközvetítőt a tevékenységvégzésre vonatkozó magyar szabályozásról.

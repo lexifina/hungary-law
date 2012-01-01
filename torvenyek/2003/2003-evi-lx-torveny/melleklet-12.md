@@ -57,3 +57,17 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 26. Az Európai Parlament és a Tanács 2002. március 5-i 2002/13/EK irányelve a nem életbiztosítási vállalkozások szavatoló tőkéjére vonatkozó követelmények tekintetében a 73/239/EGK tanácsi irányelv módosításáról.
 
 27. Az Európai Parlament és a Tanács 2002. november 5-i 2002/83/EK életbiztosítási irányelve (konszolidált).
+
+28. Az Európai Parlament és a Tanács 2002. december 16-i 2002/87/EK irányelve a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról.
+
+29. A Tanács 1991. június 20-i 91/371/EGK irányelve az Európai Gazdasági Közösség és a Svájci Államszövetség között az életbiztosítás körén kívüli közvetlen biztosításokra vonatkozó megállapodás végrehajtásáról.
+
+30. Az Európai Parlament és a Tanács 2000. május 16-i 2000/26/EK irányelve a tagállamok gépjármű-felelősségbiztosításra vonatkozó jogszabályainak közelítéséről, valamint a Tanács 73/239/EGK és 88/357/EGK irányelveinek módosításáról.
+
+31. Az Európai Parlament és a Tanács 2002. december 9-i 2002/92/EK irányelve a biztosítási közvetítésről.
+
+32. Az Európai Parlament és a Tanács 2005. május 11-i 2005/14/EK irányelve a gépjármű-felelősségbiztosításra vonatkozó 72/166/EGK, 84/5/EGK, 88/357/EGK és 90/232/EGK tanácsi irányelv, valamint a 2000/26/EK európai parlamenti és tanácsi irányelv módosításáról.
+
+33. A Tanács 2004. december 13-i 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról.
+
+34. Az Európai Parlament és a Tanács 2005. november 16-i 2005/68/EK irányelve a viszontbiztosításról és a 73/239/EGK, a 92/49/EGK tanácsi irányelv, valamint a 98/78/EK és a 2002/83/EK irányelv módosításáról.

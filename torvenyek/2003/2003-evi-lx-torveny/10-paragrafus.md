@@ -8,7 +8,7 @@
 
 ## A biztosítók
 
-10. § (1) A Magyar Köztársaság területén biztosító részvénytársaság, szövetkezet, egyesület, vagy harmadik országbeli biztosító magyarországi fióktelepe formájában létesíthető.
+10. § (1) Magyarország területén biztosító részvénytársaság, szövetkezet, egyesület, vagy harmadik országbeli biztosító magyarországi fióktelepe formájában létesíthető.
 
 (2) Az egyes szervezeti formákra
 
