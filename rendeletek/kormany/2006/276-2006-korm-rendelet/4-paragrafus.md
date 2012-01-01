@@ -18,8 +18,8 @@ gyakorolja.
 
 (3)[^4]
 
-(4)[^5] A KEKKH hatósági eljárásaiban a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(4)[^5] A KEKKH hatósági eljárásaiban az útiokmány-nyilvántartás vezetése, a származás-ellenőrzés, az előzetes eredetiségvizsgálat, a bűnügyi nyilvántartási rendszerrel és a közlekedési pontrendszerrel összefüggő eljárások kivételével a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
 [^3]: A 4. § (2) bekezdése a 220/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése. [A 4. § (3a) bekezdésének a 105/2010. (IV. 9.) Korm. rendelet 5. § (1) bekezdésével beiktatott, a 267/2010. (XII. 2.) Korm. rendelet 45. § (1) bekezdése alapján 2012. január 1-jétől hatályos szövege: „(3a) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH elektronikus anyakönyvi nyilvántartással összefüggő ügycsoportjai tekintetében az anyakönyvi ügyekért felelős miniszter gyakorolja.”.]
-[^5]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése.
+[^5]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.

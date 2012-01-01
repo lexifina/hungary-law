@@ -6,5 +6,8 @@
 
 (2)[^9] Közlekedési igazgatási ügyekben a Kormány általános hatáskörű területi államigazgatási szerve által elsőfokú hatósági jogkörben hozott határozatok tekintetében másodfokon a KEKKH jár el.
 
+(3)[^10] A 4. § (2) bekezdés c) pontjában meghatározott közúti közlekedési igazgatási és nyilvántartási ügycsoportba tartozóan a KEKKH által elsőfokú hatósági jogkörben hozott döntések tekintetében másodfokon a Nemzeti Közlekedési Hatóság Központja jár el.
+
 [^8]: A 8. §-t a 308/2009. (XII. 28.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte, újonnan az 1/2010. (I. 8.) Korm. rendelet 1. §-a iktatta be.
 [^9]: A 9. § (2) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 18. pontja szerint módosított szöveg.
+[^10]: A 9. § (3) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 15. § (2) bekezdése iktatta be.
