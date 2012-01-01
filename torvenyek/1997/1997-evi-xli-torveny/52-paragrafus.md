@@ -32,7 +32,7 @@ b) az állami halászjegy és az állami horgászjegy kiadásáért fizetett dí
 
 c) a halászvizsga és a horgászvizsga díjának megfizetéséből,
 
-d) a halgazdálkodási bírság és a halvédelmi bírság befizetéséből,
+d)
 
 e) a halászat céljainak megvalósítását elősegítő egyéb önkéntes befizetésekből,
 

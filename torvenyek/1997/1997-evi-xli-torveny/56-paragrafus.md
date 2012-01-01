@@ -26,7 +26,9 @@ k) a tudományos kutatási célú halászati engedély kiadásának részletes s
 
 l) az idegen és nem honos halfajok telepítésének szabályait,
 
-m) a halászati hatóság által vezetett nyilvántartások tartalmával és vezetésével kapcsolatos részletes szabályokat
+m) a halászati hatóság által vezetett nyilvántartások tartalmával és vezetésével kapcsolatos részletes szabályokat,
+
+n) a halgazdálkodási, illetve halvédelmi bírság megfizetésére vonatkozó szabályokat
 
 rendeletben határozza meg.
 
