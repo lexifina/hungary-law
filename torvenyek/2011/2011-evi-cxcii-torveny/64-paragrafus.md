@@ -34,4 +34,4 @@ k) 34/O. §–34/P. §,
 
 l) 37. § (1) bekezdése.
 
-(4) Hatályát veszti a Hft. 34/K. §-a.
+(4)
