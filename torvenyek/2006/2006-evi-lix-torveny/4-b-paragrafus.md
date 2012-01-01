@@ -1,6 +1,6 @@
 ## A hitelintézetek különadója
 
-4/B. § (1) A hitelintézet a 2011-ben kezdődő üzleti évére (adóévére) vonatkozóan különadó megállapítására, bevallására és fizetésére kötelezett.
+4/B. § (1) A hitelintézet a 2012-ben kezdődő üzleti évére (adóévére) vonatkozóan különadó megállapítására, bevallására és fizetésére kötelezett.
 
 (2) A különadó alapja az üzleti év (adóév) adózás előtti eredménye, növelve az annak terhére a pénzügyi szervezetek különadója címén fizetett (fizetendő) összegének megfelelően ráfordításként elszámolt összegével.
 
