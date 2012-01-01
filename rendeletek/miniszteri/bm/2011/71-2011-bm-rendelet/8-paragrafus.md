@@ -1,0 +1,15 @@
+## 7. § Az egyenruházati termékeknek és felszerelési cikkeknek vagy ezek utánzatának polgári személy, valamint nem e rendelet hatálya alá tartozó szervezet vagy oktatási intézmény, személy általi felhasználását a középfokú szakirányító szerv vezetője engedélyezheti.
+
+8. § (1) Nem kötelező egyenruházatot beszerezni:
+
+a) a közvetlen irányítás alatt lévő szervek egyenruha viselésre nem kötelezett állományának,
+
+b) a vezényelt, illetve a berendelt hivatásos állomány tagjának, amennyiben a szolgálat ellátásához nincs kötelezően előírva a szolgálati egyenruha viselése és annak megvásárlása nem kerül részére elrendelésre,
+
+c) a rendelkezési állományban lévőknek és nyugdíj előtti rendelkezési állományban lévőknek,
+
+d) a felmentési idejüket töltőknek, valamint
+
+e) a tárgyévben nyugállományba vonulóknak.
+
+(2) Ha a vezényelt, illetve berendelt hivatásos állomány tagjának az állományilletékes parancsnok szolgálati ruha viselését rendeli el, akkor a ruházat biztosítása – amennyiben a ruházat az igényjogosult ruházati normájában nem szerepel – az elrendelő vagy a fogadó szerv költségvetése terhére történik.

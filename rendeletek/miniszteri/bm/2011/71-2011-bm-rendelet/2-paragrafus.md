@@ -1,0 +1,65 @@
+## 1. § A rendelet hatálya kiterjed a rendőrségre, a büntetés-végrehajtási szervekre, a hivatásos katasztrófavédelmi szervekre, valamint a rendészeti szakközépiskolákra (a továbbiakban: oktatási intézetek), a Szervezett Bűnözés Elleni Koordinációs Központra, a Belügyminisztérium Nemzetközi Oktatási Központra, ezeknek a szerveknek az egyenruha-ellátásra jogosult személyi állományára, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat tábornoki rendfokozatú hivatásos állományú tagjaira, a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar (a továbbiakban: NKE-RTK) hallgatóira, az oktatási intézetek tanulói állományára, a berendelt és vezényelt állományra, továbbá a hivatásos állományból nyugállományba helyezett személyekre.
+
+## 2. § E rendelet alkalmazásában
+
+a) állományilletékes parancsnok: a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) szerinti állományilletékes parancsnok, valamint a berendeltek és a vezényeltek esetében a munkáltatói jogkört gyakorló vezető;
+
+b) önálló szervek: a rendőrség, a büntetés-végrehajtási szervek, a hivatásos katasztrófavédelmi szervek, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Szervezett Bűnözés Elleni Koordinációs Központ, a Belügyminisztérium Nemzetközi Oktatási Központ és az oktatási intézetek;
+
+c) igényjogosult: az önálló szervek hivatásos és egyenruha-ellátásra jogosult személyi állománya, az NKE-RTK hallgatói és az oktatási intézetek tanulói állománya, valamint a berendeltek és a vezényeltek;
+
+d) ruházati szakszolgálat: az önálló szervek ruházati ellátásban illetékes szervezeti egysége, amely ellátja az önálló szerv ruházati ellátással kapcsolatos feladatait;
+
+e) ruházati termékek és felszerelési cikkek:
+
+ea) a hivatásos állomány egyenruházati termékei (felsőruházat, alsóruházat, lábbeli, sapka, ékítmények, valamint személyi felszerelés), ezek alap- és kellékanyagai,
+
+eb) a speciális szolgálati egyenruházat,
+
+ec) a formaruházat,
+
+ed) a munka- és védőruházat, illetve a védőeszközök, védőfelszerelések,
+
+ee) a ruházati egységfelszerelési anyagok,
+
+ef) a szolgálati azonosító jelvény, a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a hímzett azonosító, a kitüntetések és tartozékai, valamint
+
+eg) a javító és karbantartó anyagok;
+
+f) a szolgálati feladatokhoz igazodóan az alapellátási norma:
+
+fa) egyenruhás alapellátási norma, amely kizárólag egyenruházati termékeket és felszerelési cikkeket tartalmaz és e normába besoroltak szolgálati feladataikat egyenruhában látják el,
+
+fb) vegyes ruhás alapellátási norma, amely az egyenruházati termékeken és felszerelési cikkeken túl meghatározott összegű – polgári ruházat vásárlását szolgáló – ruhapénzt is tartalmazhat, amely normába besoroltak szolgálati feladatok ellátása során polgári ruházatot és egyenruházatot is viselhetnek,
+
+fc) polgári ruhás alapellátási norma, amely a hivatásos állomány esetében gyakorló ruházatot és polgári ruhapénzt vagy csak polgári ruhapénzt tartalmaz és az ide sorolt igényjogosultak alapvetően polgári ruházatban teljesítenek szolgálatot,
+
+fd) csökkentett alapellátási norma, amelyet az alapellátásra igényjogosult egyen- és vegyes ruhás állomány részére kell kiadni, az alapellátás kiegészítést a csökkentett alapellátási norma terhelési időpontjától számított 12 hónapot követően kell kiadni,
+
+fe) kiegészítő szakmai normák, amelyek az egyes speciális felszereltséget igénylő feladatok végrehajtását végzők ellátásának normáit tartalmazzák,
+
+ff) a szenior alapellátási norma, amely a különleges foglalkoztatási állomány (a továbbiakban: szenior állomány) alapellátási normája;
+
+g) felsőfokú szakirányító szerv: a Belügyminisztérium (a továbbiakban: BM) anyagi-technikai ellátásért felelős főosztálya;
+
+h) központi szervek:
+
+ha) az Országos Rendőr-főkapitányság (az általános rendőrségi feladatok ellátására létrehozott szerv és az oktatási intézetek vonatkozásában),
+
+hb) a Terrorelhárítási Központ,
+
+hc) a Büntetés-végrehajtás Országos Parancsnoksága (a büntetés-végrehajtási szervek vonatkozásában),
+
+hd) az Országos Katasztrófavédelmi Főigazgatóság (a katasztrófavédelem önálló szervei, valamint a hivatásos tűzoltóságok szervei vonatkozásában);
+
+i) közvetlen irányítás alatt levő szervek: az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Szervezett Bűnözés Elleni Koordinációs Központ, a Nemzeti Védelmi Szolgálat, a Belügyminisztérium Nemzetközi Oktatási Központ és az NKE-RTK;
+
+j) középfokú szakirányító: a központi szerv és a közvetlen irányítás alatt levő szerv ruházati szakszolgálati feladatait végző szervezeti egysége;
+
+k) végrehajtó szervezeti egység: az önálló szervek ruházati ellátási feladatát végrehajtó gazdálkodó szervezeti egysége;
+
+l) Központi Beszerző és Ellátó Szerv: a központosított ellátásba vont termékek beszerzését végző szerv, amely a Büntetés-végrehajtás Országos Parancsnoksága;
+
+m) Beszerző Szerv: a Központi Beszerző és Ellátó Szerv által a központosított ellátásba be nem vont termékek beszerzését végző szerv, amely az Országos Rendőr-főkapitányság, a Terrorelhárítási Központ, a Büntetés-végrehajtás Országos Parancsnoksága, az Országos Katasztrófavédelmi Főigazgatóság és az NKE-RTK;
+
+n) ruházati bolt: az igényjogosult állomány ruházati ellátását biztosító, a felsőfokú és a középfokú szakirányító szerv által működtetett, valamint szerződéses viszonyban lévő gazdálkodó egység, továbbá a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt. (a továbbiakban: BMSK Zrt.).

@@ -1,0 +1,1 @@
+## 30. § A középfokú szakirányító szervek vezetőjének javaslata alapján, az általuk előzetesen jóváhagyott egyenruha jellegű munkaruházatra, egyéni védőfelszerelésre és ruházati egységfelszerelésre vonatkozó ellátási normát a miniszter adja ki.
