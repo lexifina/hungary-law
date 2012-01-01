@@ -1,6 +1,6 @@
 ## Az egyéni cég alapítása
 
-21. § (1) Az egyéni cég alapításához közjegyző által készített közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt alapító okiratra van szükség, amelyet a tagnak (alapítónak) alá kell írnia.
+21. § (1) Az egyéni cég alapításához közjegyző által készített közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt alapító okiratra van szükség, amelyet a tagnak (alapítónak) alá kell írnia. Az alapító okirat aláírásának legkorábbi napja az egyéni vállalkozói nyilvántartásba vételt követő nap.
 
 (2) Az alapító okirat a Ctv. mellékletét képező szerződésminta megfelelő kitöltésével is elkészíthető. Ebben az esetben az alapító okirat tartalmát kizárólag a kitöltött szerződésmintában foglalt rendelkezések alkothatják. A szerződésmintával készült alapító okiratra az (1) bekezdést alkalmazni kell.
 

@@ -1,10 +1,10 @@
-6. § (1) A bejelentést az e célra rendszeresített elektronikus űrlapon (a továbbiakban: bejelentési űrlap) kell megtenni. A bejelentésnek tartalmaznia kell
+6. § (1) A bejelentésnek tartalmaznia kell:
 
-a) a bejelentő családi és utónevét, születési családi és utónevét, anyja családi és utónevét, születési helyét és idejét, lakcímét, értesítési címét, állampolgárságát,
+a) a bejelentő családi és utónevét, születési családi és utónevét, anyja családi és utónevét, születési helyét és idejét, lakcímét vagy szálláshelyét (a továbbiakban együtt: lakcím), értesítési címét, állampolgárságát,
 
 b) nyilatkozatot arról, hogy nem állnak fenn a 3. §-ban meghatározott kizáró okok,
 
-c) a főtevékenységet, és a folytatni kívánt egyéb tevékenységet (tevékenységeket) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett szakmakód szerint megjelölve,
+c) a főtevékenységet, és a folytatni kívánt egyéb tevékenységet (tevékenységeket) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kód szerint megjelölve,
 
 d) a székhely, valamint szükség szerint a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
 

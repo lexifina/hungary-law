@@ -8,7 +8,7 @@ c) az egyéni cég azon tevékenységeit, amelyeket a cégjegyzékben szerepelte
 
 d) az egyéni cég jegyzett tőkéjét, a tag vagyoni betétjének összegét, valamint a jegyzett tőke rendelkezésre bocsátásának módját és idejét,
 
-e) a tag korlátlan vagy korlátozott felelősségét, korlátozott felelősség esetén annak mértékét (a pótbefizetés összegét),
+e)
 
 f) az egyéni cég működésének időtartamát, ha azt határozott időre alapítják,
 

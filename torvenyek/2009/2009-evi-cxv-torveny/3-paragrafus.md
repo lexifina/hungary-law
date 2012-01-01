@@ -4,7 +4,7 @@ a) a magyar állampolgár,
 
 b) az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államnak az állampolgára, továbbá az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes más állam között létrejött nemzetközi szerződés alapján a letelepedés tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes más állam állampolgáraival azonos jogállást élvező személy,
 
-c) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó, a b) pontban nem említett olyan személy, aki a szabad mozgás és tartózkodás jogát a Magyar Köztársaság területén gyakorolja,
+c) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó, a b) pontban nem említett olyan személy, aki a szabad mozgás és tartózkodás jogát Magyarország területén gyakorolja,
 
 d) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó bevándorolt vagy letelepedett jogállású személy, a keresőtevékenység folytatása céljából, családegyesítés céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel rendelkező személy, valamint a humanitárius célból kiadott tartózkodási engedéllyel rendelkező befogadott és hontalan.
 

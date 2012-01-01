@@ -4,7 +4,7 @@
 
 ## Az egyéni vállalkozói tevékenység
 
-2. § (1) A Magyar Köztársaság területén természetes személy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti letelepedés keretében üzletszerű – rendszeresen, nyereség- és vagyonszerzés céljából, saját gazdasági kockázatvállalás mellett folytatott – gazdasági tevékenységet egyéni vállalkozóként végezhet.
+2. § (1) Magyarország területén természetes személy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti letelepedés keretében üzletszerű – rendszeresen, nyereség- és vagyonszerzés céljából, saját gazdasági kockázatvállalás mellett folytatott – gazdasági tevékenységet egyéni vállalkozóként végezhet.
 
 (2) E törvény rendelkezéseit nem kell alkalmazni
 
