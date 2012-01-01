@@ -1,0 +1,1 @@
+## „b) az elosztó hálózathoz csatlakozó erőművek csatlakozási feltételeire, beleértve a megvalósíthatósági tanulmány és a csatlakozási terv szükségességének eseteit, valamint ezek általános tartalmi elemeit, és”

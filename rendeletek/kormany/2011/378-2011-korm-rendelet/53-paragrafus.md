@@ -1,0 +1,1 @@
+## „(3) A (2) bekezdés szerinti szabályokat kell alkalmazni akkor is, ha a védendő fogyasztó kereskedőt vált. A földgázelosztó a védendő fogyasztók nyilvántartásában szereplő adatokról a kapacitás-lekötési szerződés megkötésével egyidejűleg köteles tájékoztatni az új földgázkereskedőt.”
