@@ -1,5 +1,5 @@
-8. § A mikro-, kis- és középvállalkozásnak minősülő mezőgazdasági termelőt sújtó időjárási kockázatokra kötött mezőgazdasági biztosítás díjának támogatására az alábbi pénzforrások használhatók fel:
+8. § A mezőgazdasági termelőt sújtó időjárási kockázatokra kötött mezőgazdasági biztosítás díjának támogatására a következő pénzforrások használhatók fel:
 
 a) az állam által évenként a központi költségvetésből nyújtott támogatás,
 
-b) az Európai Mezőgazdasági Garancia Alapból az uniós jogi aktusban foglaltakkal összhangban nyújtott támogatás.
+b) az Európai Mezőgazdasági Garancia Alapból az Európai Unió kötelezően alkalmazandó jogi aktusában foglaltakkal összhangban nyújtott támogatás.

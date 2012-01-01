@@ -25,11 +25,3 @@ b) a termőföldről szóló 1994. évi LV. törvény 15–16. §-a,
 c) az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény 8/A. §-a és
 
 d) a Krt.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
