@@ -34,7 +34,7 @@
 
 ## aláírás
 
-3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^29]
+3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^31]
 
 A közreműködő szervezetek felsorolása operatív programonként, prioritásonként és intézkedésenként
 
@@ -158,4 +158,4 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 59. | Társadalmi Infrastruktúra Operatív Program |  |  | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
-[^29]: A 3. számú melléklet a 86/2011. (V. 31.) Korm. rendelet 13. § (6) bekezdése és a 14. § h) pontja szerint módosított szöveg.
+[^31]: A 3. számú melléklet a 86/2011. (V. 31.) Korm. rendelet 13. § (6) bekezdése és a 14. § h) pontja szerint módosított szöveg.

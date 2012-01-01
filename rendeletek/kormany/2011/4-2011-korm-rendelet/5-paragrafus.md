@@ -16,6 +16,6 @@ f) gondoskodik az állami támogatások versenyszempontú ellenőrzésének koor
 
 g) előterjesztést nyújt be a Kormány részére az operatív programok előrehaladásáról, a monitoring bizottságok által előterjesztett akciótervekről, és a 3. §-ban meghatározott további feladatokkal kapcsolatban,
 
-h)[^3] dönt az akciótervben meghatározott prioritások támogatási konstrukcióinak a 3. § d) pontjában meg nem határozott adatairól és az azokban bekövetkező változásról.
+h)[^4] dönt az akciótervben meghatározott prioritások támogatási konstrukcióinak a 3. § d) pontjában meg nem határozott adatairól és az azokban bekövetkező változásról.
 
-[^3]: Az 5. § h) pontját a 153/2011. (VIII. 10.) Korm. rendelet 3. §-a iktatta be.
+[^4]: Az 5. § h) pontját a 153/2011. (VIII. 10.) Korm. rendelet 3. §-a iktatta be.

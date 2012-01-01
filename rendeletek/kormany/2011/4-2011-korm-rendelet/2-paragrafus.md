@@ -34,7 +34,7 @@
 
 16. konzorcium: több kedvezményezett támogatásával megvalósuló projektek esetében a részes felek (tagok) polgári jogi szerződésben szabályozott munkamegosztásán alapuló együttműködése a projekt közös megvalósítása, valamint ennek érdekében közös gazdasági érdekeik előmozdítása és erre irányuló tevékenységük összehangolása céljából,
 
-16a.[^1] közkiadás: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet 2. cikk 5. pontja szerinti kiadás, amelynek részét képezi az uniós és a központi költségvetési támogatáson kívül a közbeszerzésekről szóló 2003. évi CXXIX. törvény 22. § (1) bekezdése alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosított elismerhető saját forrás is,
+16a.[^1] közkiadás: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet 2. cikk 5. pontja szerinti kiadás, amelynek részét képezi az uniós és a központi költségvetési támogatáson kívül a közbeszerzésekről szóló 2011. évi CVIII. törvény 6. § (1) bekezdése alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosított elismerhető saját forrás is,
 
 17. közreműködő szervezet: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet (a továbbiakban: 1083/2006/EK tanácsi rendelet) 2. cikk 6. pontja szerint bármely közjogi vagy magánjogi intézmény, amely egy irányító vagy az igazoló hatóság illetékessége alatt jár el, vagy ilyen hatóság nevében hajt végre feladatokat a műveleteket végrehajtó kedvezményezettek tekintetében,
 
@@ -50,7 +50,7 @@
 
 23. regionális program: regionális operatív program, illetve az ágazati és regionális prioritásokat egyaránt tartalmazó Közép-Magyarország operatív program regionális prioritása, vagy támogatási konstrukciója,
 
-24. szabálytalanság: az 1083/2006/EK tanácsi rendelet 2. cikk 7. pontjában foglaltak, továbbá a nemzeti jogszabályok előírásainak, és a támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen a Magyar Köztársaság pénzügyi érdekei sérülnek, illetve sérülhetnek,
+24.[^2] szabálytalanság: az 1083/2006/EK tanácsi rendelet 2. cikk 7. pontjában foglaltak, továbbá a nemzeti jogszabályok előírásainak, és a támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek,
 
 25. szabálytalanság-felelős: az NFÜ, illetve a közreműködő szervezet (a továbbiakban együtt: lebonyolításban érintett szervezet) alkalmazásában álló, a szabálytalansági eljárással kapcsolatos feladatok ellátására kijelölt személy,
 
@@ -84,4 +84,5 @@ rendelkezései szerint kell értelmezni.
 
 (3) Ha támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon az NFÜ-t kell érteni.
 
-[^1]: A 2. § 16a. pontját a 153/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be. [A 2. § 16a. pontjában a 153/2011. (VIII. 10.) Korm. rendelet 1. § (2) bekezdése alapján a „2003. évi CXXIX. törvény 22. §” szövegrész helyébe a „2011. évi CVIII. törvény 6. §” szöveg lép. E módosító rendelet 7. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.]
+[^1]: A 2. § 16a. pontját a 153/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 153/2011. (VIII. 10.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 24. pontja a 304/2011. (XII. 23.) Korm. rendelet 43. §-a szerint módosított szöveg.

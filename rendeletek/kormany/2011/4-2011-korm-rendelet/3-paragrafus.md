@@ -12,7 +12,7 @@ b) dönt az operatív programok tartalmára és azok módosítására vonatkozó
 
 c) elfogadja az 1083/2006/EK tanácsi rendelet 39. cikke szerinti nagyprojektekre vonatkozóan az Európai Bizottság számára benyújtandó javaslatokat,
 
-d)[^2] dönt az akciótervről, ennek keretében az akciótervben meghatározott
+d)[^3] dönt az akciótervről, ennek keretében az akciótervben meghatározott
 
 da) prioritások tartalmáról, célkitűzéséről és ütemezéséről,
 
@@ -26,4 +26,4 @@ e) dönt a kiemelt projektek nevesítéséről,
 
 f) dönt az ötmilliárd forintot meghaladó támogatási igényű projektjavaslatokról.
 
-[^2]: A 3. § d) pontja a 153/2011. (VIII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § d) pontja a 153/2011. (VIII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.

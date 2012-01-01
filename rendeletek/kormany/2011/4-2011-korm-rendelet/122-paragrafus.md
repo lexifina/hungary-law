@@ -12,7 +12,7 @@
 
 (4) A 34. alcímet a 2011. március 1-jén és az azt megelőzően meghirdetett felhívások, a 23. alcímet és a 33. alcímet a 2011. március 1-jét követően megindított közbeszerzési ellenőrzések és benyújtott kifogások tekintetében is alkalmazni kell.
 
-(5)[^21] E rendeletnek a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet módosításáról szóló 153/2011. (VIII. 10.) Korm. rendelettel (a továbbiakban: 1. módosító rendelet) megállapított 3. § d) pontját és 5. § h) pontját az 1. módosító rendelet hatálybalépését[^22] megelőzően közzétett kormányhatározatok módosítása esetén is alkalmazni kell.
+(5)[^23] E rendeletnek a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet módosításáról szóló 153/2011. (VIII. 10.) Korm. rendelettel (a továbbiakban: 1. módosító rendelet) megállapított 3. § d) pontját és 5. § h) pontját az 1. módosító rendelet hatálybalépését[^24] megelőzően közzétett kormányhatározatok módosítása esetén is alkalmazni kell.
 
-[^21]: A 122. § (5) bekezdését a 153/2011. (VIII. 10.) Korm. rendelet 5. §-a iktatta be.
-[^22]: A hatálybalépés napja: 2011. augusztus 11.
+[^23]: A 122. § (5) bekezdését a 153/2011. (VIII. 10.) Korm. rendelet 5. §-a iktatta be.
+[^24]: A hatálybalépés napja: 2011. augusztus 11.

@@ -2,9 +2,9 @@
 
 (2) A kedvezményezett a támogatási szerződésbe foglalt következő nyilatkozatok nyújtására köteles:
 
-a)[^14]
+a)[^16]
 
-b)[^15]
+b)[^17]
 
 c) a kedvezményezett azon nyilatkozata, hogy az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 122/A. § (1) és (2) bekezdése szerinti támogatási rendszerből való kizárás hatálya alatt nem áll,
 
@@ -16,5 +16,5 @@ ea) az adott projektre vonatkozóan a kedvezményezett részére megítélt, de 
 
 eb) a központi költségvetésből biztosított támogatásból – ha a kedvezményezett ilyen támogatásra jogosult – levonásra kerül.
 
-[^14]: A 34. § (2) bekezdés a) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
-[^15]: A 34. § (2) bekezdés b) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
+[^16]: A 34. § (2) bekezdés a) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
+[^17]: A 34. § (2) bekezdés b) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
