@@ -18,7 +18,7 @@ b) a megállapított tényállást,
 
 c) a döntés rendelkező részét a jogorvoslat lehetőségéről szóló tájékoztatás kivételével, valamint
 
-d) a határozattal szembeni bírósági felülvizsgálat, felügyeleti eljárás vagy ügyészi óvás tényét és – amennyiben rendelkezésre áll – azok eredményét.
+d) a határozattal szembeni bírósági felülvizsgálat, felügyeleti eljárás vagy az ügyészi felhívás tényét és – amennyiben rendelkezésre áll – azok eredményét.
 
 (5) A Hatóság a 16/D. § (1) bekezdésének c) pontja szerinti hatósági szerződésről közleményt tesz közzé a honlapján. A közleménynek tartalmaznia kell:
 

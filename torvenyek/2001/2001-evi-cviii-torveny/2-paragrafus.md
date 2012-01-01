@@ -14,9 +14,9 @@ e) Információ: bármely, elektronikus úton feldolgozható, tárolható, tová
 
 f) Információs társadalommal összefüggő szolgáltatás: elektronikus úton, távollevők részére, rendszerint ellenszolgáltatás fejében nyújtott szolgáltatás, amelyhez a szolgáltatás igénybe vevője egyedileg fér hozzá;
 
-g) Magyar Köztársaság területére irányuló szolgáltatás: minden olyan szolgáltatás, melyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybevevők számára kívánják elérhetővé tenni;
+g) Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, melyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybevevők számára kívánják elérhetővé tenni;
 
-h) Magyar Köztársaság területéről nyújtott szolgáltatás: a Magyar Köztársaság területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
+h) Magyarország területéről nyújtott szolgáltatás: Magyarország területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
 
 i) Szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott szakma;
 
@@ -46,7 +46,7 @@ q)
 
 r)
 
-s) Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek a Magyar Köztársaság területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
+s) Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek Magyarország területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
 
 t) Vállalkozás: a természetes személy, jogi személy, jogi személyiség nélküli szervezet – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is –, aki, illetve amely önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el;
 

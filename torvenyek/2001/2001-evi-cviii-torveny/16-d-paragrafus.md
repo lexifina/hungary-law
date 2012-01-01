@@ -12,7 +12,7 @@ e) ötvenezer forinttól ötszázezer forintig terjedő összegű elektronikus k
 
 (2) Az elektronikus kereskedelmi bírság összegét az eset összes körülményeire – így különösen az igénybe vevők, illetve az elektronikus hirdetés címzettjei érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt jellegére – tekintettel kell meghatározni. A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
-(3) Az elektronikus kereskedelmi bírságot a Hatóság számlájára kell megfizetni. A jogerősen kiszabott és be nem fizetett bírságot adók módjára és azokkal egy sorban kell behajtani.
+(3) Az elektronikus kereskedelmi bírságot a Hatóság számlájára kell megfizetni.
 
 (4) A Hatóság az ügydöntő határozat meghozataláig terjedő időtartamra végzésében azonnali hatállyal megtilthatja a jogsértő magatartás további folytatását, illetve elrendelheti a jogsértő állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van. E döntését a Hatóság soron kívül hozza meg. A Hatóság végzése ellen önálló fellebbezésnek van helye, amelyet a Hatóság Tanácsának elnöke bírál el.
 

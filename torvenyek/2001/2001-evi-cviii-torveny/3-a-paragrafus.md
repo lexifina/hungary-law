@@ -1,4 +1,4 @@
-3/A. § (1) Az Európai Gazdasági Térségről szóló megállapodás más részes államai területén letelepedett szolgáltató által a Magyar Köztársaság területére irányuló szolgáltatás nem korlátozható, kivéve, ha az érintett hatóság vagy bíróság intézkedése
+3/A. § (1) Az Európai Gazdasági Térségről szóló megállapodás más részes államai területén letelepedett szolgáltató által a Magyarország területére irányuló szolgáltatás nem korlátozható, kivéve, ha az érintett hatóság vagy bíróság intézkedése
 
 a) az alábbi érdekek valamelyikének védelmében szükséges:
 
