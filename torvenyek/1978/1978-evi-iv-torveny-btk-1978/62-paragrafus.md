@@ -6,7 +6,7 @@
 
 (2) A közügyektől eltiltott
 
-a) nem vehet részt népképviseleti szerv tagjainak választásában, népszavazásban és népi kezdeményezésben,
+a) nem rendelkezik választójoggal, valamint nem vehet részt népszavazásban és népi kezdeményezésben,
 
 b) nem lehet hivatalos személy,
 

@@ -1,21 +1,3 @@
-## Munkáltatással összefüggésben elkövetett adócsalás
+## A költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása
 
-310/A. § (1) Az a munkáltató, aki
-
-a) munkaszerződés nélkül,
-
-b) színlelt szerződéssel
-
-alkalmazott munkavállalója részére járó személyi jellegű juttatáshoz kapcsolódó, a kifizetőt terhelő, az államháztartás valamely alrendszerébe kötelezően előírt közteher-fizetési kötelezettség teljesítését elmulasztja, és ezzel az adóbevételt csökkenti, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a bűncselekmény folytán az adóbevétel nagyobb mértékben csökken.
-
-(3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény folytán az adóbevétel jelentős mértékben csökken.
-
-(4) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény folytán az adóbevétel különösen nagy, vagy ezt meghaladó mértékben csökken.
-
-(5) Az (1)–(4) bekezdés szerint büntetendő, aki a megállapított adó meg nem fizetése céljából téveszti meg a hatóságot, ha ezzel az adó behajtását jelentősen késlelteti vagy megakadályozza.
-
-(6) Az (1) bekezdésben meghatározott bűncselekmény elkövetője nem büntethető, ha a vádirat benyújtásáig az adótartozását kiegyenlíti.
-
-(7) E § alkalmazásában az adóbevétel csökkenésének meghatározásakor az elvont adók összegét egybe kell számítani.
+310/A. § A gazdálkodó szervezet vezetője, ellenőrzésre vagy felügyeletre feljogosított tagja vagy dolgozója, ha a 310. §-ban meghatározott bűncselekményt a gazdálkodó szervezet tagja vagy dolgozója a gazdálkodó szervezet érdekében követi el, és a felügyeleti vagy az ellenőrzési kötelezettség teljesítése a bűncselekményt megakadályozhatta volna, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.

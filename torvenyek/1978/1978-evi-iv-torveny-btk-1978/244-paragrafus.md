@@ -20,4 +20,4 @@ b) hivatalos személy eljárása során követi el.
 
 (4) A (2) bekezdést és a (3) bekezdés b) pontját kivéve nem büntethető, aki az (1) bekezdés a) pontjában meghatározott bűnpártolást hozzátartozója érdekében követi el.
 
-(5) E § rendelkezéseit a külföldi állam igazságszolgáltatási vagy bűnüldözési feladatot ellátó hatóságának a külön törvény alapján a Magyar Köztársaság területén eljáró tagjára is megfelelően kell alkalmazni.
+(5) E § rendelkezéseit a külföldi állam igazságszolgáltatási vagy bűnüldözési feladatot ellátó hatóságának a külön törvény alapján Magyarország területén eljáró tagjára is megfelelően kell alkalmazni.

@@ -1,6 +1,6 @@
 ## Nemzetközi gazdasági tilalom megszegése
 
-261/A. § (1) Aki a Magyar Köztársaság nemzetközi jogi kötelezettsége alapján kihirdetett, illetve az Európai Unió Működéséről szóló Szerződés 75. cikke alapján elfogadott rendeletekben, illetve e rendeletek felhatalmazása alapján elfogadott rendeletekben vagy határozatokban, valamint az Európai Uniót létrehozó szerződés 15. cikke alapján elfogadott tanácsi közös álláspontokban elrendelt
+261/A. § (1) Aki Magyarország nemzetközi jogi kötelezettsége alapján kihirdetett, illetve az Európai Unió Működéséről szóló Szerződés 75. cikke alapján elfogadott rendeletekben, illetve e rendeletek felhatalmazása alapján elfogadott rendeletekben vagy határozatokban, valamint az Európai Uniót létrehozó szerződés 15. cikke alapján elfogadott tanácsi közös álláspontokban elrendelt
 
 a) a pénzeszközök, egyéb vagyoni értékek vagy gazdasági erőforrások zárolására vonatkozó kötelezettségét,
 

@@ -6,7 +6,7 @@ a) az Országgyűlést,
 
 b) a köztársasági elnököt
 
-c) a Legfelsőbb Bíróságot,
+c) a Kúriát,
 
 d) a Kormányt
 

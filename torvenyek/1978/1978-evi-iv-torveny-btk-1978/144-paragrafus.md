@@ -1,6 +1,6 @@
 ## Hazaárulás
 
-144. § (1) Az a magyar állampolgár, aki abból a célból, hogy a Magyar Köztársaság függetlenségét, területi épségét vagy alkotmányos rendjét sértse, külföldi kormánnyal vagy külföldi szervezettel kapcsolatot vesz fel vagy tart fenn, bűntettet követ el, és öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő.
+144. § (1) Az a magyar állampolgár, aki abból a célból, hogy Magyarország függetlenségét, területi épségét vagy alkotmányos rendjét sértse, külföldi kormánnyal vagy külföldi szervezettel kapcsolatot vesz fel vagy tart fenn, bűntettet követ el, és öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés tíz évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztés, ha a hazaárulást
 

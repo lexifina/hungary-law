@@ -14,7 +14,7 @@ bűntettet követ el, és két évtől nyolc évig terjedő szabadságvesztésse
 
 a) vegyi, biológiai vagy nukleáris fegyver vagy más nukleáris robbanóanyag, valamint ezeket célba juttatni képes rakétatechnikai eszköz kifejlesztésével, gyártásával, kereskedelmével, karbantartásával, észlelésével, azonosításával vagy elterjesztésével kapcsolatban műszaki segítséget nyújt, valamint
 
-b) az a) pontban foglaltaktól eltérő, más katonai felhasználással kapcsolatban nyújt műszaki segítséget olyan országra vonatkozóan, amely a nemzetközi kötelezettségvállalás alapján a Magyar Köztársaságra nézve kötelező fegyverkiviteli korlátozás alá tartozik.
+b) az a) pontban foglaltaktól eltérő, más katonai felhasználással kapcsolatban nyújt műszaki segítséget olyan országra vonatkozóan, amely a nemzetközi kötelezettségvállalás alapján Magyarországra nézve kötelező fegyverkiviteli korlátozás alá tartozik.
 
 (3) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt
 

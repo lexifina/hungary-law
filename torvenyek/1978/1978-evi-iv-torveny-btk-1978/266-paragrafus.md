@@ -14,4 +14,4 @@ vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő
 
 (2) Aki veszélyes ebet őrző-védő feladat végzésére tart, kiképez, illetve veszélyes ebbel ilyen feladatot végeztet, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) Az (1) és (2) bekezdés alkalmazásában veszélyes eb a törvényben, törvény felhatalmazása alapján kormányrendeletben, valamint hatósági határozatban veszélyes ebbé nyilvánított eb.
+(3) Az (1) és (2) bekezdés alkalmazásában veszélyes eb a hatósági határozatban egyedileg veszélyes ebbé nyilvánított eb.

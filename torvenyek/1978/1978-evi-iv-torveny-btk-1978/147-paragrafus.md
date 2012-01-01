@@ -1,6 +1,6 @@
 ## Kémkedés
 
-147. § (1) Aki idegen hatalom vagy idegen szervezet részére a Magyar Köztársaság ellen hírszerző tevékenységet végez, bűntettet követ el, és két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+147. § (1) Aki idegen hatalom vagy idegen szervezet részére Magyarország ellen hírszerző tevékenységet végez, bűntettet követ el, és két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Aki az (1) bekezdésben meghatározott kémkedést szigorúan titkos minősítésű nemzeti adat vagy nemzetközi szerződésben e minősítésű adatnak megfeleltetett külföldi minősített adat kiszolgáltatásával követi el, öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő.
 

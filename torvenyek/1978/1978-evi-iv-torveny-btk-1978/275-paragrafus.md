@@ -6,4 +6,4 @@ b) lényeges tényt hamisan foglal közokiratba,
 
 bűntettet követ el és öt évig terjedő szabadságvesztéssel büntetendő.
 
-(2) E § rendelkezéseit a külföldi állam igazságszolgáltatási vagy bűnüldözési feladatot ellátó hatóságának a külön törvény alapján a Magyar Köztársaság területén eljáró tagjára is megfelelően kell alkalmazni.
+(2) E § rendelkezéseit a külföldi állam igazságszolgáltatási vagy bűnüldözési feladatot ellátó hatóságának a külön törvény alapján Magyarország területén eljáró tagjára is megfelelően kell alkalmazni.

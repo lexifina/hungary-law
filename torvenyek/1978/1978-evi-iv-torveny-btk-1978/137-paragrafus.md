@@ -16,7 +16,7 @@ d) a Kormány tagja, az államtitkár, a közigazgatási államtitkár és a hel
 
 e) az alkotmánybíró, a bíró, az ügyész, a választottbíró;
 
-f) az országgyűlési biztos;
+f) az alapvető jogok biztosa és helyettese;
 
 g) a helyi önkormányzati testületek tagja;
 
@@ -24,7 +24,7 @@ h) a közjegyző és a közjegyzőhelyettes;
 
 i) az önálló bírósági végrehajtó és az önálló bírósági végrehajtó-helyettes;
 
-j) alkotmánybíróságnál, bíróságnál ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársaság Elnökének Hivatalánál, az Országgyűlés Hivatalánál szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik;
+j) alkotmánybíróságnál, bíróságnál ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársaság Elnökének Hivatalánál, az Országgyűlés Hivatalánál és az Alapvető Jogok Biztosának Hivatalánál szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik;
 
 k)
 
@@ -50,7 +50,7 @@ h) az állami, önkormányzati, önkéntes és létesítményi tűzoltóság, va
 
 i) a polgárőr a polgárőrségről szóló törvényben meghatározott feladatok ellátásával kapcsolatban,
 
-j) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló törvény szerint nyilvántartásba vett egyház lelkésze,
+j) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett egyház lelkésze,
 
 k) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben, valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személy e tevékenysége gyakorlása során,
 
@@ -68,7 +68,7 @@ b) nemzetközi szerződéssel létrehozott nemzetközi szervezetnél szolgálato
 
 c) nemzetközi szerződéssel létrehozott nemzetközi szervezet közgyűlésébe, testületébe megválasztott személy,
 
-d) a Magyar Köztársaság területén, illetőleg állampolgárai felett joghatósággal rendelkező nemzetközi bíróság tagja, a nemzetközi bíróságnál szolgálatot teljesítő személy, akinek a tevékenysége a bíróság rendeltetésszerű működéséhez tartozik,
+d) Magyarország területén, illetőleg állampolgárai felett joghatósággal rendelkező nemzetközi bíróság tagja, a nemzetközi bíróságnál szolgálatot teljesítő személy, akinek a tevékenysége a bíróság rendeltetésszerű működéséhez tartozik,
 
 4. a) fegyveresen követi el a bűncselekményt, aki lőfegyvert vagy robbanóanyagot tart magánál; a fegyveres elkövetésre vonatkozó rendelkezéseket alkalmazni kell akkor is, ha a bűncselekményt lőfegyver vagy robbanóanyag utánzatával fenyegetve követik el,
 
@@ -90,9 +90,9 @@ a) a háború áldozatainak védelmére vonatkozóan Genfben, az 1949. évi augu
 
 b) az a) pontban említett egyezmények II. Kiegészítő Jegyzőkönyvének 1. Cikkében meghatározott helyzetek,
 
-c) rendkívüli állapot, valamint az alkotmányos rend megdöntésére vagy a hatalom kizárólagos megszerzésére irányuló fegyveres cselekmények, továbbá az élet- és vagyonbiztonságot tömeges méretekben veszélyeztető, fegyveresen vagy felfegyverkezve elkövetett súlyos erőszakos cselekmények miatt elrendelt szükségállapot [Alkotmány 19. § (3) bek. g) és h) pontja, valamint i) pontjának első és második fordulata],
+c) rendkívüli állapot, valamint szükségállapot,
 
-d) a XI. fejezet II. címében, illetve a XX. fejezetben meghatározott bűncselekmények esetében a Magyar Honvédség külföldi alkalmazása is [Alkotmány 19. § (3) bek. j) pontja],
+d) a XI. fejezet II. címében, illetve a XX. fejezetben meghatározott bűncselekmények esetében a Magyar Honvédség külföldi alkalmazása is,
 
 11. termék: az ipari és a mezőgazdasági termék (termény), akár nyersanyag, akár félgyártmány vagy készáru: a termékkel egy tekintet alá esik az élő állat, valamint a termelőeszköz akkor is, ha ingatlan,
 
@@ -112,6 +112,6 @@ d) a XI. fejezet II. címében, illetve a XX. fejezetben meghatározott bűncsel
 
 19. gazdálkodó szervezet: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (Ptk.) 685. §-ának c) pontjában felsorolt gazdálkodó szervezet, valamint az a szervezet, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a Ptk. szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni,
 
-20. szövetséges fegyveres erő: a kölcsönös katonai segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés szerint a Magyar Köztársasággal szövetséges államok fegyveres erői, valamint az e szerződés alapján létrehozott közös katonai szervezetek,
+20. szövetséges fegyveres erő: a kölcsönös katonai segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés szerint Magyarországgal szövetséges államok fegyveres erői, valamint az e szerződés alapján létrehozott közös katonai szervezetek,
 
 21. külföldi hadműveleti területen végzett humanitárius tevékenységen, békefenntartáson, humanitárius műveleten a honvédelemről szóló törvényben meghatározott tevékenységet kell érteni.

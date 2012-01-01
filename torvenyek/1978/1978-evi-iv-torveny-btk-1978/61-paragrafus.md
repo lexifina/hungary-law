@@ -1,6 +1,6 @@
 ## A kiutasítás
 
-61. § (1) Azt a nem magyar állampolgár elkövetőt, akinek az országban tartózkodása nem kívánatos, a Magyar Köztársaság területéről ki kell utasítani. A kiutasított köteles az ország területét elhagyni, és a kiutasítás tartama alatt nem térhet vissza.
+61. § (1) Azt a nem magyar állampolgár elkövetőt, akinek az országban tartózkodása nem kívánatos, Magyarország területéről ki kell utasítani. A kiutasított köteles az ország területét elhagyni, és a kiutasítás tartama alatt nem térhet vissza.
 
 (2) Nem utasítható ki az, aki a külön törvényben meghatározottak szerint menedékjogot élvez.
 
@@ -10,11 +10,11 @@
 
 (5) A végleges hatályú kiutasítás alól a bíróság a kiutasítottat, kérelmére mentesítheti, ha arra érdemes és a kiutasítás óta tíz év eltelt.
 
-(6) A külön törvény szerinti szabad mozgás és tartózkodás jogával rendelkező személy, valamint a Magyar Köztársaság területén letelepedettként vagy bevándoroltként tartózkodási joggal rendelkezővel szemben kiutasításnak csak olyan bűncselekmény elkövetése miatt lehet helye, amely öt évi vagy azt meghaladó szabadságvesztéssel büntetendő.
+(6) A külön törvény szerinti szabad mozgás és tartózkodás jogával rendelkező személy, valamint Magyarország területén letelepedettként vagy bevándoroltként tartózkodási joggal rendelkezővel szemben kiutasításnak csak olyan bűncselekmény elkövetése miatt lehet helye, amely öt évi vagy azt meghaladó szabadságvesztéssel büntetendő.
 
 (7) Kiutasításnak csak tíz évi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén lehet helye azzal szemben,
 
-a) aki a Magyar Köztársaság területén legalább tíz éve jogszerűen tartózkodik,
+a) aki Magyarország területén legalább tíz éve jogszerűen tartózkodik,
 
 b) aki fiatalkorú,
 

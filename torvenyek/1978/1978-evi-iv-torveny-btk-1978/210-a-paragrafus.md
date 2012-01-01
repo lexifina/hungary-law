@@ -8,4 +8,4 @@
 
 I. CÍM
 
-A választás, a népszavazás és a népi kezdeményezés rendje elleni bűncselekmény
+A választás, a népszavazás, a népi kezdeményezés és az európai polgári kezdeményezés rendje elleni bűncselekmény

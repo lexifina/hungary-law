@@ -1,0 +1,1 @@
+## Elöljárói intézkedés elmulasztása
