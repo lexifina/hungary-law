@@ -1,6 +1,6 @@
 ## A szövetkezet nyilvántartásba vétele
 
-15. § (1) A szövetkezet alapítását az alapszabály elfogadásától számított 30 napon belül – bejegyzés és közzététel céljából – be kell jelenteni a szövetkezet székhelye szerint illetékes megyei (fővárosi) bírósághoz, mint cégbírósághoz (a továbbiakban: cégbíróság). A szövetkezet a cégbejegyzés iránti kérelem benyújtását követően végezhet gazdasági tevékenységet.
+15. § (1) A szövetkezet alapítását az alapszabály elfogadásától számított 30 napon belül – bejegyzés és közzététel céljából – be kell jelenteni a szövetkezet székhelye szerint illetékes törvényszékhez, mint cégbírósághoz (a továbbiakban: cégbíróság). A szövetkezet a cégbejegyzés iránti kérelem benyújtását követően végezhet gazdasági tevékenységet.
 
 (2) A tagok a részjegytőke alapszabályban meghatározott mértékét, de legalább harminc százalékát az alapítást követő 8 napon belül kötelesek befizetni, illetőleg a nem pénzbeli hozzájárulás teljes egészét szolgáltatni kell. A szövetkezetet csak a befizetési (szolgáltatási) kötelezettség teljesítését követően szabad bejegyezni. Aki e kötelezettségét határidőben nem teljesíti, nem válik a szövetkezet tagjává. A cégbejegyzés során e személyt figyelmen kívül kell hagyni.
 
