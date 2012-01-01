@@ -2,99 +2,99 @@
 
 ## 20 . évi feldolgozási összesítője
 
-| Egyszerűsített adóalap megállapítási módot választó adóalanyok iparűzési adóbevallásának 20 ….... évi feldolgozási összesítője |
+## Egyszerűsített adóalap megállapítási módot választó adóalanyok iparűzési adóbevallásának
 
-| Ft |
+## 20 ....... évi feldolgozási összesítője
+
+|  |  | Ft |
 
 | Megnevezés | Egyszerűsített adóalap megállapítási módot választó adóalany vállalkozási szintű adóalap | Összesen |
 
-| 0–2 500 000 | 2 500 001–5 000 000 | 5 000 001– |
+|  | 0-2 500 000 | 2 500 001-5 000 000 | 5 000 001 - |  |
 
 | NEM AZ EGYSZERŰSÍTETT VÁLLALKOZÓI ADÓ HATÁLYA ALÁ TARTOZÓK |  |  |  |  |
 
-| 1. | Személyi jövedelemadó szerinti bevétel, árbevétel |  |  |  |  |
+| 1. Személyi jövedelemadó szerinti bevétel, árbevétel |  |  |  |  |
 
-| 2. | Helyi adó törvény szerinti egyszerűsített adóalap |  |  |  |  |
+| 2. Helyi adó törvény szerinti egyszerűsített adóalap |  |  |  |  |
 
-| 3. | A foglalkoztatás csökkenéséhez kapcsolódó adóalap növekedés (+) |  |  |  |  |
+| 3. A foglalkoztatás csökkenéséhez kapcsolódó adóalap növekedés (+) |  |  |  |  |
 
-| 4. | A foglalkoztatás növeléséhez kapcsolodó adóalap-mentesség (–) |  |  |  |  |
+| 4. A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség (-) |  |  |  |  |
 
-| 5. | Külföldön létesített telephelyen végzett tevékenységre jutó adóalap (–) |  |  |  |  |
+| 5. Adómentes adóalap önkormányzati döntés alapján (-) |  |  |  |  |
 
-| 6. | Adómentes adóalap önkormányzati döntés alapján (–) |  |  |  |  |
+| 6. Adózás alá eső adóalap [(2+3)-(4+5)] |  |  |  |  |
 
-| 7. | Adózás alá eső adóalap [(2+3)–(4+5+6)] |  |  |  |  |
+| 7. ADÓKÖTELES ADÓALAP SZERINTI IPARŰZÉSI ADÓ |  |  |  |  |
 
-| 8. | ADÓKÖTELES ADÓALAP SZERINTI IPARŰZÉSI ADÓ |  |  |  |  |
+| 8. Kedvezmény az adóból az önkormányzat döntése alapján (-) |  |  |  |  |
 
-| 9. | Kedvezmény az adóból az önkormányzat döntése alapján (–) |  |  |  |  |
+| 9. Az ideiglenes jelleggel megfizetett adóátalány levonható összege (-) |  |  |  |  |
 
-| 10. | Az ideiglenes jelleggel megfizetett adóátalány levonható összege (–) |  |  |  |  |
+| 10. Az 1995. évi XCVIII. tv. 10. § (2) bek. alapján csökkentés (-) |  |  |  |  |
 
-| 11. | Az 1995. évi XVIII. tv. 10. § (2) bek. alapján csökkentés (–) |  |  |  |  |
-
-| 12. | FIZETENDŐ IPARŰZÉSI ADÓ [8–(9+10+11)] |  |  |  |  |
+| 11. FIZETENDŐ IPARŰZÉSI ADÓ [8-(9+10+11)] |  |  |  |  |
 
 | EGYSZERŰSÍTETT VÁLLALKOZÓI ADÓ HATÁLYA ALÁ TARTOZÓK |  |  |  |  |
 
-| Magán személy vállalkozó |  |  |  |  |
+| Magánszemély vállalkozó |  |  |  |  |
 
-| 1. | Egyszerűsített vállalkozói adó törvény szerinti adóalap |  |  |  |  |
+| 1. Egyszerűsített vállalkozói adó törvény szerinti adóalap |  |  |  |  |
 
-| 2. | Helyi adó törvény szerinti egyszerűsített adóalap (50%) |  |  |  |  |
+| 2. Helyi adó törvény szerinti egyszerűsített adóalap (50%) |  |  |  |  |
 
-| 3. | A foglalkoztatás csökkenéséhez kapcsolódó adóalap növekedés (+) |  |  |  |  |
+| 3. A foglalkoztatás csökkenéséhez kapcsolódó adóalap növekedés (+) |  |  |  |  |
 
-| 4. | A foglalkoztatás növeléséhez kapcsolodó adóalap-mentesség (–) |  |  |  |  |
+| 4. A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség (-) |  |  |  |  |
 
-| 5. | Külföldön létesített telephelyen végzett tevékenységre jutó adóalap (–) |  |  |  |  |
+| 5. Adómentes adóalap önkormányzati döntés alapján (-) |  |  |  |  |
 
-| 6. | Adómentes adóalap önkormányzati döntés alapján (–) |  |  |  |  |
+| 6. Adózás alá eső adóalap [(2+3)+(4+5)] |  |  |  |  |
 
-| 7. | Adózás alá eső adóalap [(2+3)–(4+5+6)] |  |  |  |  |
+| 7. ADÓKÖTELES ADÓALAP SZERINTI IPARŰZÉSI ADÓ |  |  |  |  |
 
-| 8. | ADÓKÖTELES ADÓALAP SZERINTI IPARŰZÉSI ADÓ |  |  |  |  |
+| 8. Kedvezmény az adóból az önkormányzat döntése alapján (-) |  |  |  |  |
 
-| 9. | Kedvezmény az adóból az önkormányzat döntése alapján (–) |  |  |  |  |
+| 9. Az ideiglenes jelleggel megfizetett adóátalány levonható összege (-) |  |  |  |  |
 
-| 10. | Az ideiglenes jelleggel megfizetett adóátalány levonható összege (–) |  |  |  |  |
+| 10. Az 1995. évi XCVIII. tv. 10. § (2) bek. alapján csökkentés (-) |  |  |  |  |
 
-| 11. | Az 1995. évi XVIII. tv. 10. § (2) bek. alapján csökkentés (–) |  |  |  |  |
+| 11. FIZETENDŐ IPARŰZÉSI ADÓ [8-(9+10+11)] |  |  |  |  |
 
-| 12. | FIZETENDŐ IPARŰZÉSI ADÓ [8–(9+10+11)] |  |  |  |  |
+| 12. A Htv. 40. § (3)-(4) bek. alapján megfizetett adóátalány önkormányzatra jutó összege |  |  |  |  |
 
-| 13. | A Htv. 40. § (3)-(4) bek. alapján megfizetett adóátalány önkormányzatra jutó összege |  |  |  |  |
+| Nem magánszemély vállalkozó |  |  |  |  |
 
-| Nem magán személy vállalkozó |  |  |  |  |
+| 1. Egyszerűsített vállalkozói adó törvény szerinti adóalap |  |  |  |  |
 
-| 1. | Egyszerűsített vállalkozói adó törvény szerinti adóalap |  |  |  |  |
+| 2. Helyi adó törvény szerinti egyszerűsített adóalap (50%) |  |  |  |  |
 
-| 2. | Helyi adó törvény szerinti egyszerűsített adóalap (50%) |  |  |  |  |
+| 3. A foglalkoztatás csökkenéséhez kapcsolódó adóalap növekedés (+) |  |  |  |  |
 
-| 3. | A foglalkoztatás csökkenéséhez kapcsolódó adóalap növekedés (+) |  |  |  |  |
+| 4. A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség (-) |  |  |  |  |
 
-| 4. | A foglalkoztatás növeléséhez kapcsolodó adóalap-mentesség (–) |  |  |  |  |
+| 5. Adómentes adóalap önkormányzati döntés alapján (-) |  |  |  |  |
 
-| 5. | Külföldön létesített telephelyen végzett tevékenységre jutó adóalap (–) |  |  |  |  |
+| 6. Adózás alá eső adóalap [(2+3)-(4+5+6+)] |  |  |  |  |
 
-| 6. | Adómentes adóalap önkormányzati döntés alapján (–) |  |  |  |  |
+| 7. ADÓKÖTELES ADÓALAP SZERINTI IPARŰZÉSI ADÓ |  |  |  |  |
 
-| 7. | Adózás alá eső adóalap [(2+3)–(4+5+6+)] |  |  |  |  |
+| 8. Kedvezmény az adóból az önkormányzat döntése alapján (-) |  |  |  |  |
 
-| 8. | ADÓKÖTELES ADÓALAP SZERINTI IPARŰZÉSI ADÓ |  |  |  |  |
+| 9. Az ideiglenes jelleggel megfizetett adóátalány levonható összege (--) |  |  |  |  |
 
-| 9. | Kedvezmény az adóból az önkormányzat döntése alapján (–) |  |  |  |  |
+| 10. FIZETENDŐ IPARŰZÉSI ADÓ [8-(9+10)] |  |  |  |  |
 
-| 10. | Az ideiglenes jelleggel megfizetett adóátalány levonható összege (–) |  |  |  |  |
+| 11. A Htv. 40. § (3)-(4) bek. alapján megfizetett adóátalány önkormányzatra jutó összege |  |  |  |  |
 
-| 11. | FIZETENDŐ IPARŰZÉSI ADÓ [8–(9+10)] |  |  |  |  |
+| Tájékoztató adatok |
 
-| 12. | A Htv. 40. § (3)–(4) bek. alapján megfizetett adóátalány önkormányzatra jutó összege |  |  |  |  |
+| 1. Egyszerűsített vállalkozói adó alanya (fő) |  |  |  |  |
 
-| 1. | Egyszerűsített vállalkozói adó alanya (fő) |  |  |  |  |
+| 2. Egyszerűsített vállalkozói adó alanya és az egyszerűsített adóalap megállapítási módot választja (fő) |  |  |  |  |
 
-| 2. | Egyszerűsített vállalkozói adó alanya és és az egyszerűsített adóalap megállapítási módot választja (fő) |  |  |  |  |
+| 3. Külföldön létesített telephelyre jutó adóalap (Ft) |  |  |  |  |
 
 13/c. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^87]
 

@@ -1,12 +1,6 @@
-## Iparűzési adó
+## Iparűzési adó feldolgozási összesítő
 
-## feldolgozási összesítő
-
-| Megnevezés | Összesen | Adózók |
-
-|  |  | száma |
-
-|  | (Ft) | (fő, db) |
+| Megnevezés | Összesen (Ft) | Adózók száma (fő, db) |
 
 | 1. Számviteli tv. szerinti éves nettó árbevétel (ÁFA nélkül) (+) |  |  |
 
@@ -28,47 +22,41 @@
 
 | 10. Nem biztosítási tevékenység bevétele, befektetések nettó bevétele, egyéb növelő tételek (+) |  |  |
 
-| 11. A Htv. 52. § 22. j ) pontjában megfogalmazott árfolyamnyereség, osztalék és részesedés (+) |  |  |
+| 11. Fedezeti ügyletek veszteségének/nyereségének nyereségjellegű különbözete (+) |  |  |
 
-| 12. Fedezeti ügyletek veszteségének/nyereségének nyereségjellegű különbözete (+) |  |  |
+| 12. Alapügyletek (fedezett ügyletek) nyereségének/veszteségének nyereségjellegű különbözete (+) |  |  |
 
-| 13. Alapügyletek (fedezett ügyletek) nyereségének/veszteségének nyereségjellegű különbözete (+) |  |  |
+| 13. Biztosítóknál a Htv. 52. § 22. c) pontjában foglalt csökkentések (-) |  |  |
 
-| 14. Biztosítóknál a Htv. 52. § 22. c) pontjában foglalt csökkentések (-) |  |  |
+| 14. Az egyéb szolgáltatások értékeként, illetve egyéb ráfordítások között kimutatott jövedéki adó (-) |  |  |
 
-| 15. Az egyéb szolgáltatások értékeként, illetve egyéb ráfordítások között kimutatott jövedéki adó (-) |  |  |
+| 15. Egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energia adó (-) |  |  |
 
-| 16. Egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energia adó (-) |  |  |
+| 16. Felszolgálási díj árbevétele (-) |  |  |
 
-| 17. Felszolgálási díj árbevétele (-) |  |  |
+| 17. A társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenérték (-) |  |  |
 
-| 18. A társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként |  |  |
+| 18. Fizetett kamatok és kamatjellegű ráfordítások (-) |  |  |
 
-| elszámolt ellenérték (-) |  |  |
+| 19. HTV. SZERINTI NETTÓ ÁRBEVÉTEL [(1+2+3+4+5+6+7+8+9+10+11+12)-(13+14+15+16+17+18+19)] |  |  |
 
-| 19. Fizetett kamatok és kamatjellegű ráfordítások (-) |  |  |
+| 20. Eladott áruk beszerzési értéke (-) |  |  |
 
-| 20. HTV. SZERINTI NETTÓ ÁRBEVÉTEL |  |  |
+| 21. Közvetített szolgáltatások értéke (-) |  |  |
 
-| [(1+2+3+4+5+6+7+8+9+10+11+12+13)-(14+15+16+17+18+19)] |  |  |
-
-| 21. Eladott áruk beszerzési értéke (-) |  |  |
-
-| 22. Közvetített szolgáltatások értéke (-) |  |  |
-
-| 22/a. A 22. sorból az alvállalkozói teljesítések értéke |  |  |
+| 22. Alvállalkozói teljesítések értéke |  |  |
 
 | 23. Anyagköltség (a Htv. 39. § (1) bek.) (-) |  |  |
 
-| 24. HTV. SZERINTI ADÓALAP [20-(21+23+24)] |  |  |
+| 24. Alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége |  |  |
 
-| 25. A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség (-) |  |  |
+| 25. HTV. SZERINTI ADÓALAP [19-(20+2122+23+24)] |  |  |
 
-| 26. Külföldön létesített telephelyen végzett tevékenységre jutó adóalap (-) |  |  |
+| 26. A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség (-) |  |  |
 
 | 27. A foglalkoztatás csökkenéséhez kapcsolódó adóalap növekedés (+) |  |  |
 
-| 28. HTV. SZERINTI ADÓALAP MENTESSÉGGEL KORRIGÁLVA [(24-25-26)+27] |  |  |
+| 28. HTV. SZERINTI ADÓALAP MENTESSÉGGEL KORRIGÁLVA [(25-26)+27] |  |  |
 
 | 29. Adómentes adóalap önkormányzati döntés alapján (-) |  |  |
 
@@ -89,6 +77,8 @@
 | 37. Első adóelőleg részletre bevallott összeg |  |  |
 
 | 38. Második adóelőleg részletre bevallott összeg |  |  |
+
+| 39. Külföldön létesített telephelyre jutó adóalap |  |  |
 
 13/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^85]
 

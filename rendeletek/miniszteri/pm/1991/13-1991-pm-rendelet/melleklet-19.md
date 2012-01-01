@@ -22,4 +22,4 @@
 
 19. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^96]
 
-[^96]: A 19. számú mellékletet a 42/2003. (XII. 29.) PM rendelet 8. §-ának (3) bekezdése iktatta a szövegbe.
+[^96]: A 19. számú mellékletet a 42/2003. (XII. 29.) PM rendelet 8. §-ának (3) bekezdése iktatta be, szövege az 54/2011. (XII. 29.) NGM rendelet 31. § (6) bekezdése szerint módosított szöveg.

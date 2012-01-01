@@ -1,6 +1,6 @@
-## Lakás utáni építményadó fizetési kötelezettség alól igényyelt adófelfüggesztés
+## Lakás utáni építményadó és magánszemély kommunális adója alól igényelt adófelfüggesztés
 
-## 200.. év
+## 20… év
 
 ## Lakás utáni építményadó fizetési kötelezettség alól igényelt adófelfüggesztés
 

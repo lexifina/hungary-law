@@ -1,3 +1,3 @@
 5. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^74]
 
-[^74]: Az 5. számú melléklet a 44/2007. (XII. 29.) PM rendelet 6. § (4) bekezdésének b) pontjával megállapított szöveg.
+[^74]: Az 5. számú melléklet az 54/2011. (XII. 29.) NGM rendelet 31. § (1) bekezdésével megállapított szöveg.

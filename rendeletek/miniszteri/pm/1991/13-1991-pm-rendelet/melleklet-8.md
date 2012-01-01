@@ -1,18 +1,18 @@
-| T E L E K A D Ó |
+## TELEKADÓ
 
-| 20 . évi kivetési összesítő |
+## 20... . évi kivetési összesítő
 
-| Megnevezés | Adóalanyok száma | Adótárgyak száma | Jellemző érték | Adómegállapítás |
+| Megnevezés | Adóalanyok száma | Adó- tárgyak száma | Jellemző érték | Adómegál- lapítás |
 
-|  | magánszemély | vállalkozó** | összesen |
+|  | magánszemély | vállalkozó | összesen |  |  |  |
 
-|  | tulajdonos | vagyoni értékű jog jogosítottja | tulajdonos | vagyoni értékű jog jogosítottja |  |
+|  | tulajdonos | vagyoni értékű jog jogosítottja | tulajdonos | vagyoni értékű jog jogosítottja |  |  |  |  |
 
 |  | (fő) | (fő, db) | (fő, db) | (db) | (m2, Ft) | (Ft) |
 
-|  | 1. Belterületi földrészlet teljes alapterülete |  |  |  |  |  |  |  |  |
+|  | 1. Telek teljes területe |  |  |  |  |  |  |  |  |
 
-|  | 2. Építménnyel lefedett terület |  |  |  |  |  |  |  |  |
+|  | 2. Épülettel lefedett telek |  |  |  |  |  |  |  |  |
 
 |  | 3. Htv. 19. § a) pontja alapján mentes |  |  |  |  |  |  |  |  |
 
@@ -20,53 +20,45 @@
 
 | E | 5. Htv. 19. § c) pontja alapján mentes |  |  |  |  |  |  |  |  |
 
-| R | 6. Htv. 19. § d) pontja alapján mentes |  |  |  |  |  |  |  |  |
+| R | 6. Önkormányzati döntés alapján mentes |  |  |  |  |  |  |  |  |
 
-| Ü | 7. Htv. 19. § e) pontja alapján mentes |  |  |  |  |  |  |  |  |
+| Ü | 7. ADÓKÖTELES TERÜLET [1-(2+3+4+5+6)] |  |  |  |  |  |  |  |  |
 
-| L | 8. Htv. 19. § f) pontja alapján mentes |  |  |  |  |  |  |  |  |
+| L | 8. TELEK ADÓJA |  |  |  |  |  |  |  |  |
 
-| E | 9. Önkormányzati döntés alapján mentes |  |  |  |  |  |  |  |  |
+| E | 9. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
 
-| T | 10. ADÓKÖTELES TERÜLET [1-(2+3+4+5+6+7+8+9)] |  |  |  |  |  |  |  |  |
+| T | 10. Az 1995. évi XCVIII. tv. 10. § (2) bekezdése alapján csökkentés |  |  |  |  |  |  |  |  |
 
-|  | 11. BELTERÜLETI FÖLDRÉSZLET ADÓJA |  |  |  |  |  |  |  |  |
+|  | 11. FIZETENDŐ ADÓ [8-(9+10)] |  |  |  |  |  |  |  |  |
 
-|  | 12. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
+| F | 12. Telek |  |  |  |  |  |  |  |  |
 
-|  | 13. Az 1995. évi XCVIII. tv. 10.§ (2) bekezdése alapján csökkentés |  |  |  |  |  |  |  |  |
+| O | 13. Korrigált forgalmi érték |  |  |  |  |  |  |  |  |
 
-|  | 14. FIZETENDŐ ADÓ [11-(12+13)] |  |  |  |  |  |  |  |  |
+| R | 14. Htv. 19 § a) pontja alapján mentes |  |  |  |  |  |  |  |  |
 
-| F | 15. Belterületi földrészlet |  |  |  |  |  |  |  |  |
+| G | 15. Htv. 19. § b) pontja alapján mentes |  |  |  |  |  |  |  |  |
 
-| O | 16. Korrigált forgalmi érték |  |  |  |  |  |  |  |  |
+| A | 16. Htv. 19. § c) pontja alapján mentes |  |  |  |  |  |  |  |  |
 
-| R | 17. Htv. 19. § a) pontja alapján mentes |  |  |  |  |  |  |  |  |
+| L | 17. Önkormányzati döntés alapján mentesség |  |  |  |  |  |  |  |  |
 
-| G | 18. Htv. 19. § b) pontja alapján mentes |  |  |  |  |  |  |  |  |
+| M | 18. ADÓKÖTELES FORGALMI ÉRTÉK [13-(14+15+16+17)] |  |  |  |  |  |  |  |  |
 
-| A | 19. Htv. 19. § c) pontja alapján mentes |  |  |  |  |  |  |  |  |
+| I | 19. TELEK ADÓJA |  |  |  |  |  |  |  |  |
 
-| L | 20. Htv. 19. § d) pontja alapján mentes |  |  |  |  |  |  |  |  |
+|  | 20. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
 
-| M | 21. Htv. 19. § e) pontja alapján mentes |  |  |  |  |  |  |  |  |
+| É | 21. Az 1995. évi XCVIII. tv. 10. § (2) bekezdése alapján csökkentés |  |  |  |  |  |  |  |  |
 
-| I | 22. Htv. 19. § f) pontja alapján mentes |  |  |  |  |  |  |  |  |
+| R | 22. FIZETENDŐ ADÓ [19-(20+21)] |  |  |  |  |  |  |  |  |
 
-|  | 23. Önkormányzati döntés alapján mentesség |  |  |  |  |  |  |  |  |
+| T | 23. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
 
-| É | 24. ADÓKÖTELES FORGALMI ÉRTÉK [16-(17+18+19+20+21+22+23)] |  |  |  |  |  |  |  |  |
+| É |  |  |  |  |  |  |  |  |  |
 
-| R | 25. BELTERÜLETI FÖLDRÉSZLET ADÓJA |  |  |  |  |  |  |  |  |
-
-| T | 26. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
-
-| É | 27. Az 1995. évi XCVIII. tv. 10.§ (2) bekezdése alapján csökkentés |  |  |  |  |  |  |  |  |
-
-| K | 28. FIZETENDŐ ADÓ [25-(26+27)] |  |  |  |  |  |  |  |  |
-
-| * Ideértve az egyéni vállalkozókat is. |
+| K |  |  |  |  |  |  |  |  |  |
 
 8. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^77]
 
