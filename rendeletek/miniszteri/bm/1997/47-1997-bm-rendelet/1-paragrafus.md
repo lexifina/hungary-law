@@ -6,11 +6,11 @@
 
 (2) Nem terjed ki a rendelet hatálya:
 
-a)[^1] az egészségügyi, valamint a tudományos célokat szolgáló orvosi, állatorvosi röntgenberendezésekre, a fix telepítésű ipari röntgenberendezésekkel kapcsolatos tevékenységre;
+a)[^2] az egészségügyi, valamint a tudományos célokat szolgáló orvosi, állatorvosi röntgenberendezésekre, a fix telepítésű ipari röntgenberendezésekkel kapcsolatos tevékenységre;
 
 b) a honvédelmi ágazatnak az atomenergia békés célú alkalmazásával összefüggő – törvényben meghatározott – jogosultságaira és kötelezettségeire;
 
-c)[^2] az atomenergia alkalmazásával kapcsolatos műszaki-technológiai folyamatok ellenőrzésére.
+c)[^3] az atomenergia alkalmazásával kapcsolatos műszaki-technológiai folyamatok ellenőrzésére.
 
-[^1]: Az 1. § (2) bekezdésének a) pontja a 45/2005. (X. 18.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (2) bekezdésének c) pontját a 45/2005. (X. 18.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^2]: Az 1. § (2) bekezdésének a) pontja a 45/2005. (X. 18.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdésének c) pontját a 45/2005. (X. 18.) BM rendelet 1. § (2) bekezdése iktatta be.

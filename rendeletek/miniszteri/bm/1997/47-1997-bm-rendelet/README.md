@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-47-20-0
 | 2010-01-01 | 1997-47-20-0A.9 | 47/1997. (VIII. 26.) BM rendelet |
 | 2010-03-03 | 1997-47-20-0A.10 | 4/2010. (II. 23.) IRM rendelet |
 | 2011-07-22 | 1997-47-20-0A.11 | 23/2011. (VII. 21.) BM rendelet |
+| 2012-01-01 | 1997-47-20-0A.12 | 47/2012. (X. 4.) BM rendelet |

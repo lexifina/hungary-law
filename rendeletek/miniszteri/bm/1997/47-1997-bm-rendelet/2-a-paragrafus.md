@@ -1,4 +1,4 @@
-2/A. §[^6] (1) A rendőrségi szakhatósági hozzájárulás kiadása iránti megkeresésben a következő adatokat kell feltüntetni, illetve a megkereséshez a következő dokumentumokat kell csatolni:
+2/A. §[^7] (1) A rendőrségi szakhatósági hozzájárulás kiadása iránti megkeresésben a következő adatokat kell feltüntetni, illetve a megkereséshez a következő dokumentumokat kell csatolni:
 
 a) a tevékenység megjelölése;
 
@@ -24,4 +24,4 @@ k) bérelt tárolóhely vagy eszköz esetén a bérbeadó hozzájárulási nyila
 
 (2) Hatósági engedély meghosszabbítása, meglévő engedély módosítására irányuló megkeresés esetén az (1) bekezdésben felsoroltakon túl a megkereséshez csatolni kell a munkahelyi sugárvédelmi szabályzat rendészeti előírásokat tartalmazó részének másolatát.
 
-[^6]: A 2/A. §-t a 45/2005. (X. 18.) BM rendelet 3. §-a iktatta be.
+[^7]: A 2/A. §-t a 45/2005. (X. 18.) BM rendelet 3. §-a iktatta be.

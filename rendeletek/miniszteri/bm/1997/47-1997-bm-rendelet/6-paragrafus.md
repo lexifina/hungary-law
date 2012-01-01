@@ -12,7 +12,7 @@
 
 (4) A létesítménybe történő be- és kiléptetés rendjét a létesítmény vezetője írásbeli utasításban szabályozza.
 
-(5)[^13] A létesítmény vezetőjének a be- és kiléptetés rendjét szabályozó utasításának tervezetét és a védelmi rendszerek terveit jóváhagyás céljából meg kell küldeni a rendőrség részére. A létesítmény vezetőjének a védelmi rendszerekben tervezett változásokat előzetesen – jóváhagyás céljából – be kell jelentenie a rendőrségnek.
+(5)[^14] A létesítmény vezetőjének a be- és kiléptetés rendjét szabályozó utasításának tervezetét és a védelmi rendszerek terveit jóváhagyás céljából meg kell küldeni a rendőrség részére. A létesítmény vezetőjének a védelmi rendszerekben tervezett változásokat előzetesen – jóváhagyás céljából – be kell jelentenie a rendőrségnek.
 
 (6) A létesítményt bármely személy (állampolgárságra tekintet nélkül) csak a létesítmény vezetőjének írásbeli engedélyével látogathatja. A látogatási engedélyekről ügyviteli nyilvántartást kell vezetni. A látogató a létesítmény területén csak az arra kijelölt személy kíséretében tartózkodhat.
 
@@ -30,4 +30,4 @@
 
 (13) A közbiztonság és a belső rend veszélyeztetettsége esetén a területileg illetékes rendőri szerv vezetője intézkedik a létesítmény környezetében a rendőri erők szolgálatának megerősítéséről.
 
-[^13]: A 6. § (5) bekezdése a 4/2010. (II. 23.) IRM rendelet 4. §-a szerint módosított szöveg.
+[^14]: A 6. § (5) bekezdése a 4/2010. (II. 23.) IRM rendelet 4. §-a szerint módosított szöveg.
