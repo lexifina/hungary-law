@@ -4,7 +4,7 @@
 
 1. alakuló gyűlés: az érdekeltek fóruma a társulat megalakítása céljából;
 
-2. állami hozzájárulás: a társulati művek fejlesztését, működtetését, ezeken a műveken a vizek kártételei elleni védekezést szolgáló, a Magyar Köztársaság költségvetéséről szóló törvényben évenként megállapított költségvetési hozzájárulás;
+2. állami hozzájárulás: a társulati művek fejlesztését, működtetését, ezeken a műveken a vizek kártételei elleni védekezést szolgáló, a központi költségvetésről szóló törvényben évenként megállapított költségvetési hozzájárulás;
 
 3. beolvadás: egyesülési folyamat, amelyben a beolvadó társulat megszűnik, és annak vagyona az átvevő társulatra, mint jogutódra száll át;
 
@@ -36,7 +36,7 @@
 
 17. küldött jelölt: területi egységenként az érdekeltek által jelölt személy, akit az alakuló gyűlés választ meg küldöttnek;
 
-18. működési terület: a vízgyűjtő-gazdálkodási tervezési alegységekre és az érintett környezetvédelmi és vízügyi igazgatóság működési területére figyelemmel, elsősorban a legalább 100 000 ha nagyságú földrajzi terület, amelyen a társulat működik, vagy amely területen a társulat legalább 500 km-nyi közcélú vonalas létesítményt tart fent és üzemeltet;
+18. működési terület: a vízgyűjtő-gazdálkodási tervezési alegységekre és az érintett vízügyi igazgatási szerv működési területére figyelemmel, elsősorban a legalább 100 000 ha nagyságú földrajzi terület, amelyen a társulat működik, vagy amely területen a társulat legalább 500 km-nyi közcélú vonalas létesítményt tart fent és üzemeltet;
 
 19. önkormányzati hozzájárulás: a társulati művek körébe tartozó önkormányzati tulajdonban lévő vizek és vízilétesítmények fejlesztését, működtetését, a vizek kártételei elleni védekezést szolgáló, a települési önkormányzatok évenként megállapított költségvetési hozzájárulása;
 

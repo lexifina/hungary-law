@@ -12,4 +12,4 @@ d) a társulat alapításában részt vevő valamennyi tag cselekvőképtelen vo
 
 (3) A jogerős cégbejegyzést követően az alapszabály érvénytelenségének megállapítása nem érinti azon kötelezettségek fennállását, amelyek a társulat terhére vagy javára az érvénytelenség megállapításáig keletkeztek.
 
-(4) Ha a cégbíróság a társulat bejegyzését megtagadta, a társulat tevékenységét a jogerős határozat kézhezvétele után meg kell szüntetni. Az alakuló gyűléstől a tevékenység megszüntetéséig terjedő időszakra vonatkozóan a tagok kötelesek egymással elszámolni. Az új társulat megalakulásig a társulati művek működtetéséről a vízgazdálkodásért felelős illetékes állami szervezet, illetve az önkormányzat gondoskodik.
+(4) Ha a cégbíróság a társulat bejegyzését megtagadta, a társulat tevékenységét a jogerős határozat kézhezvétele után meg kell szüntetni. Az alakuló gyűléstől a tevékenység megszüntetéséig terjedő időszakra vonatkozóan a tagok kötelesek egymással elszámolni. Az új társulat megalakulásig a társulati művek működtetéséről a vízügyi igazgatási szerv, illetve az önkormányzat gondoskodik.
