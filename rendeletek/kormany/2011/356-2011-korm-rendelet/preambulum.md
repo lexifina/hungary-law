@@ -1,0 +1,1 @@
+A Kormány az állami vagyonról szóló 2007. évi CVI. törvény 71. § (1) bekezdés a)–e) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
