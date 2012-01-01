@@ -10,7 +10,7 @@ I. Fejezet
 
 1. A jelzőtáblák csoportosítása és a fogalmak meghatározása
 
-1.1. E szabályzat szerint – figyelemmel a nemzetközi Közúti Jelzési Egyezményre[^2], az azt kiegészítő európai Megállapodásra[^3] és ezek 1995. évi módosításaira[^4] – a jelzőtáblák csoportosítása a következő:
+1.1. E szabályzat szerint – figyelemmel a nemzetközi Közúti Jelzési Egyezményre[^3], az azt kiegészítő európai Megállapodásra[^4] és ezek 1995. évi módosításaira[^5] – a jelzőtáblák csoportosítása a következő:
 
 A) Veszélyt jelző táblák
 
@@ -30,7 +30,7 @@ H) Kiegészítő jelzőtáblák
 
 1.2. A szabályzatban említett jelzőtáblákra való hivatkozásnál feltüntetett – egy betűből és három számjegyből álló – szám a jelzőtáblának a vonatkozó útügyi műszaki előírás szerinti számát jelzi.
 
-1.3. A szabályzatban említett közúti jelzőtáblák a közúti közlekedés szabályai (KRESZ)[^5] szerinti jelzőtáblák.
+1.3. A szabályzatban említett közúti jelzőtáblák a közúti közlekedés szabályai (KRESZ)[^6] szerinti jelzőtáblák.
 
 2. Alapkövetelmények
 
@@ -42,13 +42,13 @@ H) Kiegészítő jelzőtáblák
 
 2.4. A jelzőtáblákat – ideértve a fényjelző készülékkel, illetőleg a fénysorompóval (vagy a teljes sorompót kiegészítő fényjelző berendezéssel) együtt elhelyezett jelzőtáblákat is – úgy kell elhelyezni, hogy azok
 
-a) a külön jogszabályban[^6] foglalt észlelhetőségi és felismerhetőségi feltételeknek megfeleljenek, és
+a) a külön jogszabályban[^7] foglalt észlelhetőségi és felismerhetőségi feltételeknek megfeleljenek, és
 
 b) a közúti űrszelvényben megengedett határon belül ne kerüljenek, továbbá
 
 c) járdán való elhelyezés esetén a járdát jogszerűen használók közlekedését ne veszélyeztessék, és lehetőség szerint ne akadályozzák.
 
-2.5. A jelzőtábla méretét a külön jogszabályban[^7] meghatározottak szerint kell kiválasztani. Azonos útvonalon azonos táblaméret alkalmazása szükséges, figyelemmel a lakott területen és lakott területen kívül engedélyezett sebességhatárokra.
+2.5. A jelzőtábla méretét a külön jogszabályban[^8] meghatározottak szerint kell kiválasztani. Azonos útvonalon azonos táblaméret alkalmazása szükséges, figyelemmel a lakott területen és lakott területen kívül engedélyezett sebességhatárokra.
 
 2.6. Lakott területen a forgalomterelő oszlopon elhelyezett „Kikerülési irány” jelzőtábla kisméretű is lehet.
 
@@ -58,7 +58,7 @@ c) járdán való elhelyezés esetén a járdát jogszerűen használók közlek
 
 3. A jelzőtáblák nyilvántartása
 
-A közúti jelzőtáblákról nyilvántartást kell vezetni.[^8] Kihelyezésüket, érvénytelenítésüket (annak időszakaival és időtartamaival), valamint megszüntetésüket dokumentálni kell.
+A közúti jelzőtáblákról nyilvántartást kell vezetni.[^9] Kihelyezésüket, érvénytelenítésüket (annak időszakaival és időtartamaival), valamint megszüntetésüket dokumentálni kell.
 
 4. A jelzőtáblák megtervezésének általános szabályai
 
@@ -66,7 +66,7 @@ A közúti jelzőtáblákról nyilvántartást kell vezetni.[^8] Kihelyezésüke
 
 4.2. A közúti jelzőtáblák csak szaktervező által készített és közútkezelői hozzájárulással ellátott dokumentációk (forgalomtechnikai terv, diszpozíciós vázlat) alapján helyezhetők ki.
 
-4.3. A közúti forgalom szabályozásához csak a közúti közlekedés szabályaiban[^9] és a vonatkozó útügyi műszaki előírásokban szereplő, illetve minisztériumi engedéllyel rendelkező jelzőtáblák alkalmazhatók. Jogszabályok és útügyi műszaki előírások rögzítik a különféle közúti jelzőtáblák alakját, méreteit, az alkalmazható jelképeket, felirati formákat és a jelzésfelületek szín- és fénytechnikai követelményeit.
+4.3. A közúti forgalom szabályozásához csak a közúti közlekedés szabályaiban[^10] és a vonatkozó útügyi műszaki előírásokban szereplő, illetve minisztériumi engedéllyel rendelkező jelzőtáblák alkalmazhatók. Jogszabályok és útügyi műszaki előírások rögzítik a különféle közúti jelzőtáblák alakját, méreteit, az alkalmazható jelképeket, felirati formákat és a jelzésfelületek szín- és fénytechnikai követelményeit.
 
 4.4. Alapvető követelmény, hogy a jelzőtáblák teljes felülete fényvisszavető, átvilágított vagy megvilágított legyen. Egyazon oszlopra szerelt táblák az éjszakai láthatóság érdekében azonos fénytechnikai jellemzőkkel rendelkezzenek. Ez vonatkozik a kiegészítő táblákra is azzal az eltéréssel, hogy az átvilágított jelzőtáblák kiegészítő táblái átvilágított kivitel helyett csak fényvisszavetők legyenek.
 
@@ -86,7 +86,7 @@ A közúti jelzőtáblákról nyilvántartást kell vezetni.[^8] Kihelyezésüke
 
 5.7. Az ismétlő jelzőtáblákat az ÚT 2–1.114 szerint kell megtervezni és elhelyezni.
 
-5.8. A jelzőtáblák szükség esetén előjelezhetők. Elő kell jelezni a jelzőtáblát akkor, ha a tilalom vagy a veszélyes hely a keresztező úton van, és annak az útkereszteződéstől mért távolsága nem teszi lehetővé, hogy a járművezető kellően felkészüljön a veszélyre vagy a tilalmi táblával jelzett korlátozásra. Ebben az esetben a veszélyt, tilalmat a vonatkozó útügyi műszaki előírásban[^10] foglaltak szerint kell előjelezni.
+5.8. A jelzőtáblák szükség esetén előjelezhetők. Elő kell jelezni a jelzőtáblát akkor, ha a tilalom vagy a veszélyes hely a keresztező úton van, és annak az útkereszteződéstől mért távolsága nem teszi lehetővé, hogy a járművezető kellően felkészüljön a veszélyre vagy a tilalmi táblával jelzett korlátozásra. Ebben az esetben a veszélyt, tilalmat a vonatkozó útügyi műszaki előírásban[^11] foglaltak szerint kell előjelezni.
 
 5.9. A kihelyezett jelzőtáblák a közlekedőket (járművezetőket, gyalogosokat) szabad kilátásukban és egymás mozgásának észlelésében ne akadályozzák.
 
@@ -198,7 +198,7 @@ távolságban kell elhelyezni.
 
 8.1.3. A csökkentett távolság lakott területen – a vasúti átjárók jelzésének kivételével – kivételesen 5 méter is lehet, ha a jelzőtáblát 50 méterről és azon belül folyamatosan jól lehet látni.
 
-8.1.4. A veszélyt jelző táblák az úttesten is elhelyezhetők az úton végzett munkáknál a külön jogszabályban[^11] említett esetekben és módokon.
+8.1.4. A veszélyt jelző táblák az úttesten is elhelyezhetők az úton végzett munkáknál a külön jogszabályban[^12] említett esetekben és módokon.
 
 8.2. A veszélyt jelző táblák alkalmazása földutakon – a vasúti átjáró kezdetét jelző táblák kivételével – mellőzhető.
 
@@ -208,7 +208,7 @@ a) ha a veszélyes útkanyarulatok száma három, vagy több,
 
 b) egyéb esetben, ha a veszélyes útszakasz 100 méternél hosszabb.
 
-8.4. Az 1000 méternél nagyobb hosszban fennálló veszélyek jelzése legalább 1000 méterenként megismétlendő a vonatkozó útügyi műszaki előírásban[^12] foglaltak szerint.
+8.4. Az 1000 méternél nagyobb hosszban fennálló veszélyek jelzése legalább 1000 méterenként megismétlendő a vonatkozó útügyi műszaki előírásban[^13] foglaltak szerint.
 
 8.5. Amennyiben a veszélyes hely kezdete a 8.1.1. pontban meghatározott távolságnál közelebb van a jelzőtáblához, és egyúttal a veszélyes szakasz hosszát is jelezni kell, akkor a veszélyt jelző tábla alatt előbb a biztonság szempontjából fontosabb távolság megjelölést kell alkalmazni, és csak ez alatt alkalmazható a veszélyes szakasz hosszára utaló kiegészítő tábla.
 
@@ -466,7 +466,7 @@ Tilalmi jelzőtáblák (C)
 
 12. A tilalmi jelzőtáblák megtervezése
 
-12.1. A tilalmi jelzőtáblákra vonatkozó útügyi műszaki előírásban[^13] szereplő jelzőtáblák közül meg kell tervezni
+12.1. A tilalmi jelzőtáblákra vonatkozó útügyi műszaki előírásban[^14] szereplő jelzőtáblák közül meg kell tervezni
 
 a) a következő jelzőtáblákon alkalmazott feliratokat:
 
@@ -554,7 +554,7 @@ Utasítást adó jelzőtáblák (D)
 
 15. Az utasítást adó jelzőtáblák megtervezése
 
-Amennyiben az utasítást adó jelzőtáblákra vonatkozó útügyi műszaki előírásban[^14] szereplő „Kötelező haladási irány” jelzőtáblák közül – beleértve a veszélyes anyagot szállító járműre, a kerékpárosokra és az autóbuszokra vonatkozó ilyen táblákat is – egyik sem alkalmazható a helyszínrajzi sajátosságok miatt, akkor a megfelelő nyíl-alakot meg kell tervezni.
+Amennyiben az utasítást adó jelzőtáblákra vonatkozó útügyi műszaki előírásban[^15] szereplő „Kötelező haladási irány” jelzőtáblák közül – beleértve a veszélyes anyagot szállító járműre, a kerékpárosokra és az autóbuszokra vonatkozó ilyen táblákat is – egyik sem alkalmazható a helyszínrajzi sajátosságok miatt, akkor a megfelelő nyíl-alakot meg kell tervezni.
 
 16. Az utasítást adó jelzőtáblák alkalmazása és elhelyezése
 
@@ -620,7 +620,7 @@ Különleges szabályokat jelző táblák (E)
 
 17. A különleges szabályokat jelző táblák megtervezése
 
-17.1. A különleges szabályokat jelző táblákra vonatkozó útügyi műszaki előírásban[^15] szereplő jelzőtáblák közül meg kell tervezni
+17.1. A különleges szabályokat jelző táblákra vonatkozó útügyi műszaki előírásban[^16] szereplő jelzőtáblák közül meg kell tervezni
 
 a) a kiegészítő sáv kezdetét és végét jelző táblákon a sávok számát és az esetlegesen előírt legkisebb sebesség értékét,
 
@@ -660,7 +660,7 @@ is elhelyezhetők.
 
 a) A besorolás rendjét jelző tábla alkalmazása
 
-aa) kötelező az olyan útkereszteződések előtt, ahol a járművek továbbhaladási lehetőségét az általános jogszabályi[^16] előírástól eltérően szabályozták,
+aa) kötelező az olyan útkereszteződések előtt, ahol a járművek továbbhaladási lehetőségét az általános jogszabályi[^17] előírástól eltérően szabályozták,
 
 ab) megengedett minden egyéb más útkereszteződés előtt, ahol ez a járművezetők jobb tájékozódását elősegíti.
 
@@ -708,7 +708,7 @@ a tilalom miatt el nem helyezhető járművek számának megfelelő méretű vá
 
 c) A korlátozott várakozási övezet területén belül kivételesen és indokolt esetben egyes helyeken a várakozás megengedhető. Ebben az esetben a várakozóhely kezdetén kívül a várakozóhely végét is meg kell jelölni.
 
-d) Nem alkalmazható ez a jelzőtábla az olyan területek jelzésére, ahol a várakozás feltételekhez kötötten (pl. meghatározott ideig és/vagy díjfizetési kötelezettséggel stb.) megengedett.[^17]
+d) Nem alkalmazható ez a jelzőtábla az olyan területek jelzésére, ahol a várakozás feltételekhez kötötten (pl. meghatározott ideig és/vagy díjfizetési kötelezettséggel stb.) megengedett.[^18]
 
 e) A „Korlátozott várakozási övezet” jelzőtáblát az olyan területre bevezető minden út elején el kell helyezni, amely – több, egymással összefüggő útszakaszból álló – területen a várakozást megtiltották.
 
@@ -780,7 +780,7 @@ ea) amelynek forgalmát fényjelző készülék irányítja, kivéve az útkeres
 
 eb) amely előtt ugyanabban az útkereszteződésben az egyenesen haladó járművezető már másik – jelzőtáblával jelzett – kijelölt gyalogos-átkelőhelyet keresztezett,
 
-ec) amelyre bekanyarodó jármű vezetőjének a gyalogosok részére a jogszabály[^18] szerint a bekanyarodás miatt egyébként is elsőbbséget kell adni.
+ec) amelyre bekanyarodó jármű vezetőjének a gyalogosok részére a jogszabály[^19] szerint a bekanyarodás miatt egyébként is elsőbbséget kell adni.
 
 f) Kijelölt gyalogos-átkelőhely ideiglenes vagy végleges megszüntetésénél
 
@@ -858,7 +858,7 @@ Tájékoztató jelzőtáblák (F)
 
 19. A tájékoztató jelzőtáblák megtervezése
 
-19.1. A tájékoztató jelzőtáblákra vonatkozó útügyi műszaki előírásban[^19] szereplő táblák közül meg kell tervezni
+19.1. A tájékoztató jelzőtáblákra vonatkozó útügyi műszaki előírásban[^20] szereplő táblák közül meg kell tervezni
 
 a) a „Közlekedési információt adó rádióműsor-szóró állomás” jelzőtábláját, a rádióadó megnevezésének és adófrekvenciájának megjelölésével,
 
@@ -894,7 +894,7 @@ is fel szabad tüntetni.
 
 20. A tájékoztató jelzőtáblák alkalmazása és elhelyezése
 
-20.1. A különböző szolgáltatásokra vonatkozó tájékoztató jelzőtáblákat csak ott kell elhelyezni, ahol azt a közút kezelője elkerülhetetlennek tartja. Az üzemanyag utánpótlás, a műszaki segély, a telefonálás, az elszállásolás, az étkezés és a turisztikai informálódás lehetőségeire utaló jelzéseket – az „Idegenforgalmi tájékoztatás” jelzőtábla kivételével – csak lakott területen kívüli ilyen létesítmények jelzésére szabad elhelyezni.[^20]
+20.1. A különböző szolgáltatásokra vonatkozó tájékoztató jelzőtáblákat csak ott kell elhelyezni, ahol azt a közút kezelője elkerülhetetlennek tartja. Az üzemanyag utánpótlás, a műszaki segély, a telefonálás, az elszállásolás, az étkezés és a turisztikai informálódás lehetőségeire utaló jelzéseket – az „Idegenforgalmi tájékoztatás” jelzőtábla kivételével – csak lakott területen kívüli ilyen létesítmények jelzésére szabad elhelyezni.[^21]
 
 20.2. A tájékoztató jelzőtáblákkal jelezhető létesítmény jelzésére a jelzőtáblák csak akkor alkalmazhatók, ha a létesítmények nem okoznak a közúton illetőleg annak padkáján várakozást, valamint, ha a létesítmények megfelelő várakozási lehetőséggel rendelkeznek. Ha a várakozási lehetőség nem közvetlenül a létesítménynél biztosított, a jelzőtábla csak a várakozóhely egyidejű előjelzésével együtt alkalmazható.
 
@@ -914,11 +914,11 @@ b) A sávozott kettős terelőtáblát a két oldalról is elkerülhető pontsze
 
 VIII. Fejezet
 
-Útbaigazító és utaló jelzőtáblák (G)[^21]
+Útbaigazító és utaló jelzőtáblák (G)[^22]
 
 21. Egyes útbaigazító és utaló jelzőtáblák megtervezése
 
-Az útbaigazító és utaló jelzőtáblákra vonatkozó útügyi műszaki előírásban[^22] szereplő, de a 40/2001. (XI. 23.) KöViM rendeletben nem említett – a zsákutcára, ennek előjelzésére és az ilyen utcából a kerékpárosok továbbhaladására utaló; az ajánlott sebességre utaló; a forgalmi sávok számára, irányára és a forgalmi sáv megszűnésére utaló; a gyalogos alul- és felüljáróra utaló – jelzőtáblát meg kell tervezni, a zsákutcát (G–301), a kerékpáros továbbhaladást (G–302), valamint a gyalogos alul- és felüljárót jelző táblák (G–305 – G–308) kivételével.
+Az útbaigazító és utaló jelzőtáblákra vonatkozó útügyi műszaki előírásban[^23] szereplő, de a 40/2001. (XI. 23.) KöViM rendeletben nem említett – a zsákutcára, ennek előjelzésére és az ilyen utcából a kerékpárosok továbbhaladására utaló; az ajánlott sebességre utaló; a forgalmi sávok számára, irányára és a forgalmi sáv megszűnésére utaló; a gyalogos alul- és felüljáróra utaló – jelzőtáblát meg kell tervezni, a zsákutcát (G–301), a kerékpáros továbbhaladást (G–302), valamint a gyalogos alul- és felüljárót jelző táblák (G–305 – G–308) kivételével.
 
 22. Egyes útbaigazító és utaló jelzőtáblák alkalmazása és elhelyezése
 
@@ -978,7 +978,7 @@ Kiegészítő jelzőtáblák (H)
 
 23. A kiegészítő jelzőtáblák megtervezése
 
-23.1. A kiegészítő jelzőtáblák útügyi műszaki előírásában[^23] szereplő táblák közül meg kell tervezni
+23.1. A kiegészítő jelzőtáblák útügyi műszaki előírásában[^24] szereplő táblák közül meg kell tervezni
 
 a) a főútvonal, illetőleg az elsőbbséggel rendelkező út – beleértve a kerékpárosok elsőbbségének, valamint a forgalomcsillapító középsziget melletti elhaladás jelölését is – vonalvezetését jelző kiegészítő táblák ábráit,
 
@@ -1014,7 +1014,7 @@ b) elcsúszás és elfordulás ellen különös gonddal legyenek rögzítve.
 
 24.3. A kiegészítő jelzőtáblákat csak azokkal a jelzőtáblákkal együtt szabad alkalmazni, amelyekhez azok értelemszerűen hozzárendelhetők.
 
-24.4. A több kiegészítést tartalmazó tábla (táblák) feliratai az alaptábla alatt úgy kövessék egymást, hogy azok – felülről lefelé olvasva – egyértelműen legyenek értelmezhetők. Az értelmezésre példákat a vonatkozó útügyi műszaki előírás[^24] tartalmaz.
+24.4. A több kiegészítést tartalmazó tábla (táblák) feliratai az alaptábla alatt úgy kövessék egymást, hogy azok – felülről lefelé olvasva – egyértelműen legyenek értelmezhetők. Az értelmezésre példákat a vonatkozó útügyi műszaki előírás[^25] tartalmaz.
 
 24.5. A napot és időszakot jelző kiegészítő táblán a hatályos napokat – neveik kezdőbetűjével – fekete alapon, a többi napot szürke alapon fehér betűvel kell jelölni.
 
@@ -1084,26 +1084,26 @@ r) Útbaigazító jelzőtábla: a járművezetők utazás közbeni eligazítás�
 
 s) Veszélyt jelző tábla: az olyan háromszög alakú jelzőtábla, valamint az út és a vasút kereszteződésének jelzésére és előjelzésére szolgáló négyszög vagy sokszög alakú jelzőtábla, amely alakjával, piros szegélyével és jelképeivel az úton közlekedőket a veszélyes helyhez való közeledésre figyelmezteti.
 
-[^2]: 1980. évi 4. törvényerejű rendelet az 1968. évi november hó 8. napján Bécsben aláírásra megnyitott Közúti Jelzési Egyezmény kihirdetéséről.
-[^3]: 1980. évi 6. törvényerejű rendelet az 1968. évi november hó 8. napján Bécsben aláírásra megnyitott Közúti Jelzési Egyezményt kiegészítő európai Megállapodás kihirdetéséről.
-[^4]: Az Egyezményt az ENSZ EGB 1995. november 30-án, a Megállapodást 1995. november 27-én módosította.
-[^5]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ).
-[^6]: Az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről szóló 20/1984. (XII. 21.) KM rendelet 11. § (1) bekezdés.
-[^7]: A közúti jelzőtáblák méreteiről és műszaki követelményeiről szóló 4/2001. (I. 31.) KöViM rendelet.
-[^8]: Az országos közutak kezelésének szabályozásáról szóló 6/1998. (III. 31.) KHVM rendelet mellékletének (OKKSZ) 2.2.6.1. pontja.
-[^9]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ).
-[^10]: ÚT 2–1.114 „Közúti jelzőtáblák. A jelzőtáblák megtervezése, alkalmazása és elhelyezése” c. útügyi műszaki előírás.
-[^11]: A közutakon végzett munkák elkorlátozási és forgalombiztonsági követelményeiről szóló 3/2001. (I. 31.) KöViM rendeletet.
-[^12]: ÚT 2–1.114 „Közúti jelzőtáblák. A jelzőtáblák megtervezése, alkalmazása és elhelyezése” c. útügyi műszaki előírás.
-[^13]: ÚT 2–1.127 „Közúti jelzőtáblák. Tilalmi jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
-[^14]: ÚT 2–1.128 „Közúti jelzőtáblák. Utasítást adó jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
-[^15]: ÚT 2–1.129 „Közúti jelzőtáblák. Különleges szabályokat jelző táblák és jelképeik” c. útügyi műszaki előírás.
-[^16]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ).
-[^17]: Az ilyen területek jelzésére a „Várakozási övezet” jelzőtáblákat kell alkalmazni.
-[^18]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ).
-[^19]: ÚT 2–1.130 „Közúti jelzőtáblák. Tájékoztató jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
-[^20]: Lakott területen belül az említett létesítmények az ÚT 2–1.140 útügyi műszaki előírás szerinti közterületi információs táblákkal jelezhetők.
-[^21]: A szabályzat nem tárgyalja azokat az útbaigazító és utaló jelzőtáblákat, amelyekre a közúti útbaigazítás rendszerének és jelzéseinek követelményeiről szóló 40/2001. (XI. 23.) KöViM rendelet vonatkozik.
-[^22]: ÚT 2–1.131 „Közúti jelzőtáblák. Útbaigazító és utaló jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
-[^23]: ÚT 2–1.132 „Közúti jelzőtáblák. Kiegészítő jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
-[^24]: ÚT 2–1.114 „Közúti jelzőtáblák. A jelzőtáblák megtervezése, alkalmazása és elhelyezése” c. útügyi műszaki előírás.
+[^3]: 1980. évi 4. törvényerejű rendelet az 1968. évi november hó 8. napján Bécsben aláírásra megnyitott Közúti Jelzési Egyezmény kihirdetéséről.
+[^4]: 1980. évi 6. törvényerejű rendelet az 1968. évi november hó 8. napján Bécsben aláírásra megnyitott Közúti Jelzési Egyezményt kiegészítő európai Megállapodás kihirdetéséről.
+[^5]: Az Egyezményt az ENSZ EGB 1995. november 30-án, a Megállapodást 1995. november 27-én módosította.
+[^6]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ).
+[^7]: Az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről szóló 20/1984. (XII. 21.) KM rendelet 11. § (1) bekezdés.
+[^8]: A közúti jelzőtáblák méreteiről és műszaki követelményeiről szóló 4/2001. (I. 31.) KöViM rendelet.
+[^9]: Az országos közutak kezelésének szabályozásáról szóló 6/1998. (III. 31.) KHVM rendelet mellékletének (OKKSZ) 2.2.6.1. pontja.
+[^10]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ).
+[^11]: ÚT 2–1.114 „Közúti jelzőtáblák. A jelzőtáblák megtervezése, alkalmazása és elhelyezése” c. útügyi műszaki előírás.
+[^12]: A közutakon végzett munkák elkorlátozási és forgalombiztonsági követelményeiről szóló 3/2001. (I. 31.) KöViM rendeletet.
+[^13]: ÚT 2–1.114 „Közúti jelzőtáblák. A jelzőtáblák megtervezése, alkalmazása és elhelyezése” c. útügyi műszaki előírás.
+[^14]: ÚT 2–1.127 „Közúti jelzőtáblák. Tilalmi jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
+[^15]: ÚT 2–1.128 „Közúti jelzőtáblák. Utasítást adó jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
+[^16]: ÚT 2–1.129 „Közúti jelzőtáblák. Különleges szabályokat jelző táblák és jelképeik” c. útügyi műszaki előírás.
+[^17]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ).
+[^18]: Az ilyen területek jelzésére a „Várakozási övezet” jelzőtáblákat kell alkalmazni.
+[^19]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ).
+[^20]: ÚT 2–1.130 „Közúti jelzőtáblák. Tájékoztató jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
+[^21]: Lakott területen belül az említett létesítmények az ÚT 2–1.140 útügyi műszaki előírás szerinti közterületi információs táblákkal jelezhetők.
+[^22]: A szabályzat nem tárgyalja azokat az útbaigazító és utaló jelzőtáblákat, amelyekre a közúti útbaigazítás rendszerének és jelzéseinek követelményeiről szóló 40/2001. (XI. 23.) KöViM rendelet vonatkozik.
+[^23]: ÚT 2–1.131 „Közúti jelzőtáblák. Útbaigazító és utaló jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
+[^24]: ÚT 2–1.132 „Közúti jelzőtáblák. Kiegészítő jelzőtáblák és jelképeik” c. útügyi műszaki előírás.
+[^25]: ÚT 2–1.114 „Közúti jelzőtáblák. A jelzőtáblák megtervezése, alkalmazása és elhelyezése” c. útügyi műszaki előírás.

@@ -2,10 +2,11 @@
 
 (2) A rendelet hatálya kiterjed
 
-a) a Magyar Köztársaság területén levő közutakra és a közforgalom elől el nem zárt magánutakra[^1] (e rendelet alkalmazása szempontjából a továbbiakban együtt: út), valamint ezeken az utakon levő vasúti átjárókra és vasúti gyalogos átkelőhelyekre,
+a)[^1] Magyarország területén levő közutakra és a közforgalom elől el nem zárt magánutakra[^2] (e rendelet alkalmazása szempontjából a továbbiakban együtt: út), valamint ezeken az utakon levő vasúti átjárókra és vasúti gyalogos átkelőhelyekre,
 
 b) az a) pontban felsorolt utak kezelőire (tulajdonosaira) és a vasutak üzemben tartóira.
 
 (3) A rendeletben alkalmazott egyes fogalmak meghatározását a függelék tartalmazza.
 
-[^1]: A közúti közlekedésről szóló 1988. évi I. törvény 32. §-a.
+[^1]: Az 1. § (2) bekezdés a) pontja a 91/2011. (XII. 30.) NFM rendelet 42. §-a szerint módosított szöveg.
+[^2]: A közúti közlekedésről szóló 1988. évi I. törvény 32. §-a.
