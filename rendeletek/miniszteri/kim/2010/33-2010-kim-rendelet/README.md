@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-33-20-2
 | --- | --- | --- |
 | 2011-01-01 | 2010-33-20-2T.1 | 33/2010. (XII. 31.) KIM rendelet |
 | 2011-01-02 | 2010-33-20-2T.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-01-01 | 2010-33-20-2T.3 | 33/2011. (XI. 24.) KIM rendelet |
