@@ -1,1 +1,0 @@
-47. § A 2004. évi európai parlamenti választások során az Európai Unió más tagállamai állampolgárainak névjegyzékbe vételére és szavazására e törvény rendelkezéseit a 48–50. §-ban foglalt eltérésekkel kell alkalmazni.

@@ -4,4 +4,4 @@
 
 2. § (1) A választás arányos választási rendszerben, listás szavazással történik.
 
-(2) A választáson a Magyar Köztársaság területe egy választókerületet alkot.
+(2) A választáson Magyarország területe egy választókerületet alkot.

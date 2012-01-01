@@ -1,6 +1,6 @@
 ## A választás eredményének megállapítása
 
-8. § (1) A megszerezhető mandátumok száma megegyezik az Európai Parlamentben a Magyar Köztársaság számára fenntartott képviselői helyek számával.
+8. § (1) A megszerezhető mandátumok száma megegyezik az Európai Parlamentben Magyarország számára fenntartott képviselői helyek számával.
 
 (2) A mandátumkiosztásban csak azok a listák vehetnek részt és szerezhetnek mandátumot, amelyek több szavazatot kaptak, mint az összes listára leadott összes érvényes szavazat 5%-a.
 
