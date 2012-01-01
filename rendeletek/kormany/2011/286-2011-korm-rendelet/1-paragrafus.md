@@ -1,0 +1,9 @@
+1. § (1) A büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A büntetés-végrehajtási szervezetet – a Kormány, a kormánybizottságok, az autonóm államigazgatási szervek, önálló szabályozó szervek kivételével, továbbá a (3) bekezdésben meghatározott kivétellel – a központi államigazgatási szervek, a rendvédelmi szervek, az egészségügyért felelős miniszter irányítása alatt álló, az egészségügy területén működő országos intézetek, valamint az állam tulajdonába, illetve fenntartásába tartozó egészségügyi intézmények, továbbá a szociál- és nyugdíjpolitikáért felelős miniszter irányítása és felügyelete alá tartozó szociális intézmények, valamint a Magyar Honvédség (a továbbiakban együtt: Kedvezményezett) részére, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körében, a megkötött ellátási megállapodás vagy szerződés alapján, az e célra rendelkezésre bocsátott források erejéig ellátási kötelezettség terheli.”
+
+(2) Az R. 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A Kedvezményezett ellátása az ellátási megállapodással érintett, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körében – törvényben vagy kormányrendeletben meghatározott kivétellel – kizárólag a Központi Ellátó Szerv útján valósul meg. Az ellátási kötelezettség – a (2a) bekezdésben meghatározott kivétellel – a nettó 100 000 forintot (a továbbiakban: ellátási kötelezettség minimális értéke) elérő vagy meghaladó igényekre terjed ki.”
+
+(3) Az R. 1. §-a a következő (2a) bekezdéssel egészül ki:
