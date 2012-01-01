@@ -1,4 +1,4 @@
-1. melléklet a 7/2011. (III. 4.) KIM rendelethez
+1. melléklet a 7/2011. (III. 4.) KIM rendelethez[^4]
 
 ## A bírói álláspályázatok elbírálása során felállításra kerülő pályázati rangsor kialakításakor adható pontok
 
@@ -52,7 +52,7 @@
 
 | 1.2.2.6. | 15 év felett | 6 |
 
-2. A megyei (fővárosi) bíróság, az ítélőtábla és a Legfelsőbb Bíróság kollégiumának véleménye – maximális pontszám: 20 pont
+2. A törvényszék, az ítélőtábla és a Kúria kollégiumának véleménye – maximális pontszám: 20 pont
 
 3. A jogi szakvizsga eredménye – maximális pontszám: 10 pont
 
@@ -117,3 +117,5 @@
 | 10.4. | részvétel jogszabálytervezetek véleményezésében, előkészítésében | 5 |
 
 11. A meghallgatás eredménye – adható maximális pontszám: 20 pont
+
+[^4]: Az 1. melléklet a 40/2011. (XII. 30.) KIM rendelet 37. § d) pontja szerint módosított szöveg.
