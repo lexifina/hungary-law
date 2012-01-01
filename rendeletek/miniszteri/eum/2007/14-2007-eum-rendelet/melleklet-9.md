@@ -1,363 +1,351 @@
-## Tartós, vagy nem tartós használatra, illetőleg ruházati jellegű tartós használatra szánt gyógyászati segédeszközök
+## Tartós, vagy nem tartós használatra, illetve ruházati jellegű tartós használatra szánt gyógyászati segédeszközök
 
-|  | Iso | Név |
+|  | A | B | C |
 
-| NT | 02 | KÖTSZEREK |
+| 1. |  | ISO | Név |
 
-|  | 04 | SZEMÉLYES GYÓGYKEZELŐ SEGÉDESZKÖZÖK |
+| 2. | NT | 02 | KÖTSZEREK |
 
-|  | 04 03 | LÉGZÉSTERÁPIA SEGÉDESZKÖZEI |
+| 3. |  | 04 | SZEMÉLYES GYÓGYKEZELŐ SEGÉDESZKÖZÖK |
 
-| T | 04 03 06 | Inhalátorok |
+| 4. |  | 04 03 | LÉGZÉSTERÁPIA SEGÉDESZKÖZEI |
 
-| T | 04 03 12 | Lélegeztetők |
+| 5. | T | 04 03 06 | Inhalátorok |
 
-| T | 04 03 18 | Oxigén egységek, oxigén sűrítők |
+| 6. | T | 04 03 12 | Lélegeztetők |
 
-| T | 04 03 21 | Szívók |
+| 7. | T | 04 03 18 | Oxigén egységek, oxigén sűrítők |
 
-| T | 04 03 30 | Légzésmérők |
+| 8. | T | 04 03 21 | Szívók |
 
-| T | 04 03 33 | Egyéb légzésgyógyászati eszközök |
+| 9. | T | 04 03 27 | Légzőizom-erősítők |
 
-|  | 04 06 | KERINGÉSI TERÁPIÁS SEGÉDESZKÖZÖK |
+| 10. | T | 04 03 30 | Légzésmérők |
 
-| RT | 04 06 06 | Ödéma elleni kar-, láb- és más testrészekre való kompressziós textiliák |
+| 11. | T | 04 03 33 | Egyéb légzésgyógyászati eszközök |
 
-|  | 04 12 | HASI SÉRV-SEGÉDESZKÖZÖK |
+| 12. |  | 04 06 | KERINGÉSI TERÁPIÁS SEGÉDESZKÖZÖK |
 
-| T | 04 12 09 | Sérvtapaszok, övek és sérvkötők |
+| 13. | RT | 04 06 06 | Ödéma elleni kar-, láb- és más testrészekre való kompressziós textíliák |
 
-|  | 04 19 | SEGÉDESZKÖZÖK GYÓGYSZERBEADÁSHOZ |
+| 14. |  | 04 12 | HASISÉRV-SEGÉDESZKÖZÖK |
 
-| T | 04 19 06 | Befecskendező pisztolyok |
+| 15. | T | 04 12 09 | Sérvtapaszok, övek és sérvkötők |
 
-| NT | 04 19 09 | Egyszerhasználatos fecskendők |
+| 16. |  | 04 19 | SEGÉDESZKÖZÖK GYÓGYSZERBEADÁSHOZ |
 
-| NT | 04 19 15 | Egyszerhasználatos fecskendőtűk |
+| 17. | T | 04 19 06 | Befecskendező pisztolyok |
 
-| T | 04 19 21 | Fecskendőkkel kapcsolatos adagoló eszközök |
+| 18. | NT | 04 19 09 | Egyszer használatos fecskendők |
 
-|  | 04 24 | FIZIKAI, ÉLETTANI ÉS BIOKÉMIAI VIZSGÁLÓ KÉSZÜLÉKEK ÉS ANYAGOK |
+| 19. | NT | 04 19 15 | Egyszer használatos fecskendőtűk |
 
-|  | 04 24 12 | Vérelemző anyagok |
+| 20. | T | 04 19 21 | Fecskendőkkel kapcsolatos adagoló eszközök |
 
-| T | 04 24 12 03 | Vércukorszintmérők |
+| 21. | T | 04 19 24 | Infúziós pumpák |
 
-| NT | 04 24 12 06 | Tesztcsíkok |
+| 22. |  | 04 24 | FIZIKAI, ÉLETTANI ÉS BIOKÉMIAI VIZSGÁLÓ KÉSZÜLÉKEK ÉS ANYAGOK |
 
-|  | 04 27 | INGERLŐK |
+| 23. |  | 04 24 12 | Vérelemző anyagok |
 
-| T | 04 27 09 | Nem ortézisként használt izomingerlők |
+| 24. | T | 04 24 12 03 | Vércukorszintmérők |
 
-| T | 04 27 15 | Fülzúgás elleni maszkok |
+| 25. | NT | 04 24 12 06 | Tesztcsíkok |
 
-|  | 04 39 | LÁTÁSGYAKORLÁSI SEGÉDESZKÖZÖK |
+| 26. |  | 04 27 | INGERLŐK |
 
-| NT | 04 39 03 | Segédeszközök okklúziós kezeléshez |
+| 27. | T | 04 27 09 | Nem ortézisként használt izomingerlők |
 
-|  | 04 45 | GERINCNYÚJTÁS ESZKÖZEI |
+| 28. | T | 04 27 15 | Fülzúgás elleni maszkok |
 
-| T | 04 45 03 | Fekvő helyzetű húzásra alkalmas eszköz |
+| 29. |  | 04 39 | LÁTÁSGYAKORLÁSI SEGÉDESZKÖZÖK |
 
-| T | 04 45 06 | Álló helyzetű húzásra alkalmas eszköz |
+| 30. | NT | 04 39 03 | Segédeszközök okklúziós kezeléshez |
 
-| T | 04 45 09 | Tartozékok és kiegészítők |
+| 31. |  | 04 45 | GERINCNYÚJTÁS ESZKÖZEI |
 
-|  | 04 48 | MOZGÁS-, ERŐ- ÉS EGYENSÚLYGYAKORLÓ ESZKÖZÖK |
+| 32. | T | 04 45 03 | Fekvő helyzetű húzásra alkalmas eszközök |
 
-| T | 04 48 12 | Ujj-, és kéztorna eszközök |
+| 33. | T | 04 45 06 | Álló helyzetű húzásra alkalmas eszközök |
 
-| T | 04 48 15 | Kar-, törzs- és lábtorna eszközök |
+| 34. |  | 04 48 | MOZGÁS-, ERŐ- ÉS EGYENSÚLYGYAKORLÓ ESZKÖZÖK |
 
-|  | 06 | ORTÉZISEK ÉS PROTÉZISEK |
+| 35. | T | 04 48 12 | Ujj- és kéztorna eszközök |
 
-|  | 06 03 | GERINCORTÉZIS-RENDSZEREK |
+| 36. | T | 04 48 15 | Kar-, törzs- és lábtorna eszközök |
 
-| T | 06 03 06 | Ágyék-keresztcsont ortézisek |
+| 37. |  | 06 | ORTÉZISEK ÉS PROTÉZISEK |
 
-| T | 06 03 09 | Mellkas-ágyék-keresztcsont ortézisek |
+| 38. |  | 06 03 | GERINCORTÉZIS-RENDSZEREK |
 
-| T | 06 03 12 | Nyakortézisek |
+| 39. | T | 06 03 06 | Ágyék-keresztcsont ortézisek |
 
-| T | 06 03 15 | Nyak-mellkas ortézisek |
+| 40. | T | 06 03 09 | Mellkas-ágyék-keresztcsont ortézisek |
 
-|  | 06 06 | FELSŐ VÉGTAGOK ORTÉZIS RENDSZEREI (TESTEN VISELT) |
+| 41. | T | 06 03 12 | Nyakortézisek |
 
-| T | 06 06 03 | Ujjortézisek |
+| 42. | T | 06 03 15 | Nyak-mellkas ortézisek |
 
-| T | 06 06 06 | Kézortézisek |
+| 43. |  | 06 06 | FELSŐ VÉGTAGOK ORTÉZIS RENDSZEREI (TESTEN VISELT) |
 
-| T | 06 06 09 | Csuklóortézisek |
+| 44. | T | 06 06 06 | Kézortézisek |
 
-| T | 06 06 12 | Csukló-kéz ortézisek |
+| 45. | T | 06 06 09 | Csuklóortézisek |
 
-| T | 06 06 15 | Könyökortézisek |
+| 46. | T | 06 06 12 | Csukló-kéz ortézisek |
 
-| T | 06 06 24 | Váll-könyök ortézisek |
+| 47. | T | 06 06 15 | Könyökortézisek |
 
-|  | 06 12 | ALSÓ VÉGTAGOK ORTÉZIS RENDSZEREI |
+| 48. | T | 06 06 24 | Váll-könyök ortézisek |
 
-| T | 06 12 03 | Lábortézisek |
+| 49. |  | 06 12 | ALSÓ VÉGTAGOK ORTÉZISRENDSZEREI |
 
-| T | 06 12 06 | Boka-láb ortézisek |
+| 50. | T | 06 12 03 | Lábortézisek |
 
-| T | 06 12 09 | Térdortézisek |
+| 51. | T | 06 12 06 | Boka-láb ortézisek |
 
-| T | 06 12 15 | Csípőortézisek |
+| 52. | T | 06 12 09 | Térdortézisek |
 
-| T | 06 12 18 | Csípő-térd-boka-láb ortézisek |
+| 53. | T | 06 12 15 | Csípőortézisek |
 
-| T | 06 12 30 | Tartozékok |
+| 54. | T | 06 12 18 | Csípő-térd-boka-láb ortézisek |
 
-|  | 06 18 | FELSŐ VÉGTAGOK PROTÉZISRENDSZEREI |
+| 55. | T | 06 12 30 | Tartozékok alsóvégtag-ortézisekhez |
 
-| T | 06 18 03 | Részleges kézprotézisek |
+| 56. |  | 06 18 | FELSŐ VÉGTAGOK PROTÉZISRENDSZEREI |
 
-| T | 06 18 09 | Alkarcsonkprotézisek (könyök alatti) |
+| 57. | T | 06 18 03 | Részleges kézprotézisek |
 
-| T | 06 18 15 | Felkarcsonkprotézisek (könyök feletti) |
+| 58. | T | 06 18 09 | Alkarcsonkprotézisek |
 
-| T | 06 18 18 | Vállcsonkprotézisek |
+| 59. | T | 06 18 15 | Felkarcsonkprotézisek |
 
-| T | 06 18 24 | Kézprotézisek |
+| 60. | T | 06 18 18 | Vállcsonkprotézisek |
 
-| T | 06 18 27 | Kampók és rendeltetési szerszámok |
+| 61. | T | 06 18 24 | Kiegészítők felsővégtag-protézisekhez |
 
-|  | 06 24 | ALSÓ VÉGTAGOK PROTÉZISRENDSZEREI |
+| 62. | T | 06 18 27 | Kampók és rendeltetési szerszámok |
 
-| T | 06 24 03 | Részleges lábprotézisek |
+| 63. |  | 06 24 | ALSÓ VÉGTAGOK PROTÉZISRENDSZEREI |
 
-| T | 06 24 09 | Lábszárcsonkprotézisek (térd alatti) |
+| 64. | T | 06 24 03 | Részleges lábprotézisek |
 
-| T | 06 24 12 | Térdcsonkprotézisek |
+| 65. | T | 06 24 09 | Lábszárcsonkprotézisek |
 
-| T | 06 24 15 | Combcsonkprotézisek (térd feletti) |
+| 66. | T | 06 24 12 | Térdcsonkprotézisek |
 
-| T | 06 24 18 | Csípőcsonkprotézisek |
+| 67. | T | 06 24 15 | Combcsonkprotézisek |
 
-| T | 06 24 48 | Ideiglenes protézisek a csonkolt alsóvégtagok korai mozgathatósága céljából |
+| 68. | T | 06 24 18 | Csípőcsonkprotézisek |
 
-| T | 06 24 54 | Tartozékok |
+| 69. | T | 06 24 48 | Ideiglenes protézisek a csonkolt alsó végtagok korai mozgathatósága céljából |
 
-|  | 06 30 | MÁS, NEM VÉGTAG PROTÉZISEK |
+| 70. | T | 06 24 54 | Kiegészítők alsóvégtag-protézisekhez |
 
-| T | 06 30 03 | Parókák |
+| 71. |  | 06 30 | EGYÉB NEMVÉGTAG-PROTÉZISEK |
 
-| T | 06 30 18 | Emlőprotézisek (mell) |
+| 72. | T | 06 30 03 | Parókák |
 
-| T | 06 30 21 | Szemprotézisek |
+| 73. | T | 06 30 18 | Emlőprotézisek |
 
-| T | 06 30 24 | Fülprotézisek |
+| 74. | T | 06 30 21 | Szemprotézisek |
 
-| T | 06 30 27 | Orrprotézisek |
+| 75. | T | 06 30 24 | Fülprotézisek |
 
-| T | 06 30 30 | Összetett arcprotézisek |
+| 76. | T | 06 30 27 | Orrprotézisek |
 
-| T | 06 30 33 | Szájpadprotézisek |
+| 77. | T | 06 30 30 | Összetett arcprotézisek |
 
-| T | 06 30 36 | Műfogsorok |
+| 78. | T | 06 30 33 | Szájpadprotézisek |
 
-| T | 06 30 37 | Fogszabályozás segédeszközei |
+| 79. | T | 06 30 36 | Műfogsorok |
 
-| T | 06 30 89 | Egyéb kozmetikai protézisek |
+| 80. | T | 06 30 37 | Fogszabályozás segédeszközei |
 
-|  | 06 33 | ORTOPÉD CIPŐK ÉS TARTOZÉKAIK |
+| 81. |  | 06 33 | ORTOPÉD CIPŐK ÉS TARTOZÉKAIK |
 
-| RT | 06 33 03 | Méretsorozatos |
+| 82. | RT | 06 33 06 | Egyedi méretvétel alapján, egyedileg készített cipők, deformált lábra |
 
-| RT | 06 33 06 | Rendelésre készült ortopéd lábbelik |
+| 83. | RT | 06 33 12 | Tartozékok ortopéd cipőkhöz |
 
-| RT | 06 33 09 | Átalakított szabványos lábbelik |
+| 84. |  | 09 | SZEMÉLYI GONDOSKODÁS ÉS VÉDELEM SEGÉDESZKÖZEI |
 
-| RT | 06 33 12 | Tartozékok ortopéd cipőkhöz |
+| 85. |  | 09 03 | RUHÁK ÉS CIPŐK |
 
-|  | 09 | SZEMÉLYI GONDOSKODÁS ÉS VÉDELEM SEGÉDESZKÖZEI |
+| 86. | RT | 09 03 24 | Alsóneműk |
 
-|  | 09 03 | RUHÁK ÉS CIPŐK |
+| 87. |  | 09 06 | TESTEN VISELT VÉDŐESZKÖZÖK |
 
-| RT | 09 03 24 | Alsóneműk |
+| 88. | T | 09 06 18 | Térd- vagy lábvédő segédeszközök |
 
-|  | 09 06 | Testen viselt védőeszközök |
+| 89. |  | 09 12 | HIGIÉNÉS SEGÉDESZKÖZÖK |
 
-| T | 09 06 18 | Térd- vagy lábvédő segédeszközök |
+| 90. | T | 09 12 03 | Szobai WC-k |
 
-|  | 09 12 | HIGIÉNÉS SEGÉDESZKÖZÖK |
+| 91. | T | 09 12 15 | Emelt toalettülések laza csatolással |
 
-| T | 09 12 03 | Szobai WC (gurítókerékkel vagy gurítókerék nélkül) |
+| 92. |  | 09 15 | TRACHEOSTOMIÁS SEGÉDESZKÖZÖK |
 
-| T | 09 12 15 | Emelt toalettülések (laza csatolással) |
+| 93. | T | 09 15 03 | Kanülök |
 
-|  | 09 15 | TRACHEOSTOMIÁS SEGÉDESZKÖZÖK |
+| 94. | NT | 09 15 06 | Tracheostoma-védők |
 
-| T | 09 15 03 | Kanülök |
+| 95. |  | 09 18 | SZTOMATERÁPIÁS SEGÉDESZKÖZÖK |
 
-| NT | 09 15 06 | Sztomavédők |
+| 96. | NT | 09 18 04 | Egyrészes, zártvégű zsákok |
 
-|  | 09 18 | SZTOMATERÁPIÁS SEGÉDESZKÖZÖK |
+| 97. | NT | 09 18 05 | Többrészes, zártvégű zsákok |
 
-| NT | 09 18 04 | Egyrészes, zárt végű zacskók |
+| 98. | NT | 09 18 07 | Egyrészes, nyíltvégű zsákok, visszajutást gátló szeleppel |
 
-| NT | 09 18 05 | Többrészes, zárt végű zacskók |
+| 99. | NT | 09 18 08 | Többrészes, nyíltvégű zsákok, visszajutást gátló szeleppel |
 
-| NT | 09 18 07 | Egyrészes, nyílt végű zacskók, visszajutást gátló szeleppel |
+| 100. | NT | 09 18 14 | Tapadólemezek, bőrvédő gátak |
 
-| NT | 09 18 08 | Többrészes, nyílt végű zacskók, visszajutást gátló szeleppel |
+| 101. |  | 09 18 24 | Irrigációs készletek |
 
-| NT | 09 18 14 | Tapadólemezek, bőrvédő gátak |
+| 102. | T | 09 18 24 03 | Irrigációs készletek |
 
-|  | 09 18 24 | Irrigációs készletek |
+| 103. | NT | 09 18 24 06 | Tartozékok irrigációs készletekhez |
 
-| T | 09 18 24 03 | Irrigáló készletek |
+| 104. | NT | 09 18 30 | Sztómaernyők |
 
-| NT | 09 18 24 06 | Tartozékok irrigáló készletekhez |
+| 105. | NT | 09 18 39 | Egyrészes, nyíltvégű zsákok |
 
-| NT | 09 18 30 | Sztómaernyők |
+| 106. | NT | 09 18 42 | Többrészes, nyíltvégű zsákok |
 
-| NT | 09 18 39 | Egyrészes, nyílt végű zacskók |
+| 107. |  | 09 24 | VIZELETELVEZETŐK |
 
-| NT | 09 18 42 | Többrészes, nyílt végű zacskók |
+| 108. | NT | 09 24 03 | Ballonkatéterek |
 
-|  | 09 21 | BŐRVÉDŐ ÉS BŐRTISZTÍTÓ TERMÉKEK |
+| 109. | NT | 09 24 06 | Bevezetőkatéterek |
 
-| NT | 09 21 06 | Bőrdetergensek |
+| 110. | NT | 09 24 09 | Vizeletkondomok és hasonló funkciójú eszközök |
 
-| NT | 09 21 18 | Bőrvédő készítmények |
+| 111. |  | 09 27 | VIZELETGYŰJTŐK |
 
-|  | 09 24 | VIZELETELVEZETŐK |
+| 112. | NT | 09 27 05 | Testen viselt vizeletgyűjtő zsákok |
 
-| NT | 09 24 03 | Ballonkatéterek |
+| 113. |  | 09 27 13 | Függesztő- és rögzítő eszközök vizeletgyűjtőkhöz |
 
-| NT | 09 24 06 | Bevezetőkatéterek |
+| 114. | NT | 09 30 | VIZELETFELSZÍVÓ ÉS DEFEKÁLÁSI SEGÉDESZKÖZÖK |
 
-| NT | 09 24 09 | Vizeletkondomok és hasonló funkciójú eszközök |
+| 115. | NT | 09 30 04 | Testen való viselésre szánt vizeletfelszívó segédeszközök |
 
-|  | 09 27 | VIZELETGYŰJTŐK |
+| 116. | NT | 09 30 09 | Függesztő- és rögzítőeszközök vizelet- és székletfelszívó segédeszközökhöz |
 
-| NT | 09 27 05 | Testen viselt, nyitott végű vizeletgyűjtő zacskók |
+| 117. |  | 09 33 | MOSDÁSI, FÜRDÉSI ÉS ZUHANYOZÁSI SEGÉDESZKÖZÖK |
 
-|  | 09 27 13 | Függesztő- és rögzítő eszközök vizeletgyűjtőkhöz |
+| 118. | T | 09 33 03 | Fürdő- és zuhanyzószékek |
 
-| NT | 09 30 | VIZELETFELSZÍVÓ ÉS DEFEKÁLÁSI SEGÉDESZKÖZÖK |
+| 119. |  | 12 | SZEMÉLYES MOZGÁS SEGÉDESZKÖZEI |
 
-| NT | 09 30 04 | Testen való viselésre szánt vizletfelszívó segédeszközök |
+| 120. |  | 12 03 | EGY KARRAL MŰKÖDTETETT, JÁRÁST SEGÍTŐ ESZKÖZÖK |
 
-| NT | 09 30 09 | Függesztő- és rögzítőeszközök vizelet- és székletfelszívó segédeszközökhöz |
+| 121. | T | 12 03 03 | Járóbotok |
 
-|  | 09 33 | MOSDÁSI, FÜRDÉSI ÉS ZUHANYOZÁSI SEGÉDESZKÖZÖK |
+| 122. | T | 12 03 06 | Könyökmankók |
 
-| T | 09 33 03 | Fürdő/zuhanyzó székek |
+| 123. | T | 12 03 12 | Hónaljmankók |
 
-|  | 12 | SZEMÉLYES MOZGÁS SEGÉDESZKÖZEI |
+| 124. | T | 12 03 16 | Három- vagy többlábú járóbotok markolattal és/vagy alkartámasszal |
 
-|  | 12 03 | EGY KARRAL MŰKÖDTETETT, JÁRÁST SEGÍTŐ ESZKÖZÖK |
+| 125. |  | 12 06 | KÉT KARRAL MŰKÖDTETETT, JÁRÁST SEGÍTŐ ESZKÖZÖK |
 
-| T | 12 03 03 | Járóbotok |
+| 126. | T | 12 06 03 | Járókeretek |
 
-| T | 12 03 06 | Könyökmankók |
+| 127. | T | 12 06 06 | Guruló járókeretek (rollátorok) |
 
-| T | 12 03 12 | Hónaljmankók |
+| 128. | T | 12 16 | MOPEDEK ÉS MOTORKERÉKPÁROK |
 
-| T | 12 03 16 | Három-, vagy többlábú járóbotok markolattal és/vagy alkartámasszal |
+| 129. |  | 12 21 | KEREKESSZÉKEK |
 
-|  | 12 06 | KÉT KARRAL MŰKÖDTETETT, JÁRÁST SEGÍTŐ ESZKÖZÖK |
+| 130. | T | 12 21 03 | Kísérő személy által irányított, kézi kerekesszékek |
 
-| T | 12 06 03 | Járókeretek |
+| 131. | T | 12 21 06 | Kétkezes, hátsókerék-meghajtású kerekesszékek |
 
-| T | 12 06 06 | Guruló járókeretek (rollátorok) |
+| 132. | T | 12 21 15 | Egyoldali meghajtású, nem-motorikus kerekesszékek |
 
-| T | T 12 16 | MOPEDEK ÉS MOTORKERÉKPÁROK |
+| 133. | T | 12 21 27 | Elektromos motorral meghajtott kerekesszékek, rásegített kormányzással |
 
-|  | 12 21 | KEREKESSZÉKEK |
+| 134. |  | 12 24 | KEREKESSZÉKEK EGYÉB TARTOZÉKAI |
 
-| T | 12 21 03 | Kísérő személy által irányított, kézi kerekesszékek |
+| 135. | T | 12 24 24 | Elemek és akkumulátorok |
 
-| T | 12 21 06 | Kétkezes, hátsókerék-meghajtású kerekesszékek |
+| 136. |  | 12 39 | TÁJÉKOZÓDÁSI SEGÉDESZKÖZÖK |
 
-| T | 12 21 15 | Egyoldali meghajtású, nem motorikus kerekesszékek |
+| 137. | T | 12 39 03 | Tapogatóbotok és pálcák |
 
-| T | 12 21 27 | Elektromos motorral meghajtott kerekesszékek, rásegített kormányzással |
+| 138. |  | 15 | HÁZTARTÁSI SEGÉDESZKÖZÖK |
 
-|  | 12 24 | KEREKESSZÉK EGYÉB TARTOZÉKAI |
+| 139. |  | 15 09 | EVÉSI ÉS IVÁSI SEGÉDESZKÖZÖK |
 
-| T | 12 24 21 | Abroncsok és kerekek |
+| 140. | NT | 15 09 30 | Tápszondák |
 
-| T | 12 24 24 | Elemek/akkumulátorok és elem/akkumulátor töltők |
+| 141. |  | 18 | BÚTORZAT ÉS LAKÁS-, ILLETVE EGYÉB HELYISÉGÁTALAKÍTÁSOK |
 
-|  | 12 39 | TÁJÉKOZÓDÁSI SEGÉDESZKÖZÖK |
+| 142. |  | 18 09 | ÜLŐBÚTOROK |
 
-| T | 12 39 03 | Tapogató (fehér) botok és pálcák |
+| 143. | T | 18 09 27 | Lábszártámaszok, lábzsámolyok és lábtámaszok |
 
-|  | 15 | HÁZTARTÁSI SEGÉDESZKÖZÖK |
+| 144. | T | 18 09 34 | Háttámaszok |
 
-|  | 15 09 | EVÉSI ÉS IVÁSI SEGÉDESZKÖZÖK |
+| 145. | T | 18 09 36 | Kartámaszok székekhez |
 
-| NT | 15 09 30 | Tápszondák |
+| 146. | T | 18 09 42 | Antidecubitus-párnák |
 
-|  | 18 | BÚTORZAT ÉS LAKÁS-, ILLETVE EGYÉB HELYISÉGÁTALAKÍTÁSOK |
+| 147. |  | 18 12 | ÁGYAK |
 
-|  | 18 09 | Ülőbútorok |
+| 148. | T | 18 12 18 | Antidecubitus-matracok és alátétek |
 
-| T | 18 09 27 | Lábszártámaszok, lábzsámolyok és lábtámaszok |
+| 149. |  | 18 18 | TÁMASZTÓESZKÖZÖK |
 
-| T | 18 09 34 | Háttámaszok |
+| 150. | T | 18 18 03 | Járókorlátok és támasztókorlátok |
 
-| T | 18 09 36 | Székek kartámlái |
+| 151. | T | 18 18 06 | Kapaszkodók és fogantyúk |
 
-| T | 18 09 42 | Üléspárnák és alátétek (Antidecubitus eszközök) |
+| 152. |  | 21 | SEGÉDESZKÖZÖK A KOMMUNIKÁCIÓHOZ, TÁJÉKOZTATÁSHOZ ÉS JELADÁSHOZ |
 
-|  | 18 12 | Ágyak |
+| 153. |  | 21 03 | OPTIKAI SEGÉDESZKÖZÖK |
 
-| T | 18 12 18 | Matracok és matrac borítások (Antidecubitus eszközök) |
+| 154. | T | 21 03 03 | Szemüveglencsék |
 
-|  | 18 18 | TÁMASZTÓESZKÖZÖK |
+| 155. | T | 21 03 06 | Szemüvegkeretek |
 
-| T | 18 18 03 | Járókorlátok és támasztókorlátok |
+| 156. | NT | 21 03 09 | Kontaktlencsék |
 
-| T | 18 18 06 | Kapaszkodók és fogantyúk |
+| 157. | T | 21 03 21 | Távcsőszemüveg |
 
-|  | 21 | SEGÉDESZKÖZÖK A KOMMUNIKÁCIÓHOZ, TÁJÉKOZTATÁSHOZ ÉS JELADÁSHOZ |
+| 158. | NT | 21 03 39 | Kontaktlencse-ápolási termékek |
 
-|  | 21 03 | OPTIKAI SEGÉDESZKÖZÖK |
+| 159. |  | 21 42 | SZEMTŐL SZEMBENI KOMMUNIKÁCIÓS ESZKÖZÖK |
 
-| T | 21 03 03 | Szemüveglencsék |
+| 160. | T | 21 42 12 | Hanggenerátorok |
 
-| T | 21 03 06 | Szemüvegkeretek |
+| 161. |  | 21 45 | HALLÁSJAVÍTÓ ESZKÖZÖK |
 
-| NT | 21 03 09 | Kontaktlencsék |
+| 162. | T | 21 45 03 | Hallójárati készülékek |
 
-| T | 21 03 21 | Távcsőszemüveg |
+| 163. | T | 21 45 06 | Fül mögötti hallókészülékek |
 
-| NT | 21 03 39 | Kontaktlencse-ápolási termékek |
+| 164. | T | 21 45 09 | Szemüvegszárba épített hallókészülékek |
 
-|  | 21 42 | SZEMTŐL SZEMBENI KOMMUNIKÁCIÓS ESZKÖZÖK |
+| 165. | T | 21 45 12 | Testen viselt, dobozos hallókészülékek |
 
-| T | 21 42 12 | Hanggenerátorok |
+| 166. | T | 21 45 15 | Szemüvegszárba épített és egyéb csontvezetéses hallásjavító készülék |
 
-|  | 21 45 | HALLÁSJAVÍTÓ ESZKÖZÖK |
+| 167. | T | 21 45 24 | Hallásjavító készülékek kiegészítői (egyéni fülillesztékek hallásjavító készülékekhez és a hallójárat védelméhez) |
 
-| T | 21 45 03 | Fülben viselt hallásjavító készülék |
+| 168. | T | 21 45 27 | Hallásjavító készülékek energiaforrásai és ezek tartozékai |
 
-| T | 21 45 06 | Fül mögött viselt hallásjavító készülék |
+| 169. | T | 21 45 30 | Hallásjavító készülékek tartozékai és a hallásjavítás egyéb eszközei |
 
-| T | 21 45 09 | Szemüvegszárba épített légvezetéses hallásjavító készülék |
+|  | NT – egyszer használatos vagy rövid (néhány napos) használatra szánt eszközök |
 
-| T | 21 45 12 | Testen viselt dobozos hallásjavító készülék |
+|  | T – tartós használatra szánt, több hónapos kihordási idejű eszközök |
 
-| T | 21 45 15 | Szemüvegszárba épített és egyéb csontvezetéses hallásjavító készülék |
+|  | RT – ruházati jellegű tartós használatra szánt eszközök |
 
-| T | 21 45 24 | Hallásjavító készülékek kiegészítői (egyéni fülillesztékek hallásjavító készülékekhez és a hallójárat védelméhez) |
+9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^138]
 
-| T | 21 45 27 | Hallásjavító készülékek energiaforrásai és ezek tartozékai |
-
-| T | 21 45 30 | Hallásjavító készülékek tartozékai és a hallásjavítás egyéb eszközei |
-
-## NT− egyszehasználatos vagy rövid (néhány napos) használatra szánt eszközök
-
-## T− tartós használatra szánt, több hónapos kihordási idejű eszközök
-
-## RT− ruházati jellegű tartós használatra szánt eszközök
-
-9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^128]
-
-[^128]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^138]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte.

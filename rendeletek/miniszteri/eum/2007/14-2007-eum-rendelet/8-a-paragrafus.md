@@ -1,4 +1,4 @@
-8/A. §[^65] (1) A 8. § szerinti, hivatalból indított eljárásában az OEP kizárja a támogatásból a gyógyászati segédeszközt, ha
+8/A. §[^66] (1) A 8. § szerinti, hivatalból indított eljárásában az OEP kizárja a támogatásból a gyógyászati segédeszközt, ha
 
 a) az 5/D. § szerinti követelményjegyzékben foglalt követelményeknek nem felel meg, és a (4) bekezdés c) pontja szerint nem sorolható át más funkcionális csoportba,
 
@@ -30,4 +30,4 @@ c) az adott funkcionális csoportra megállapított követelményjegyzéknek nem
 
 (5) Ha az OEP a felülvizsgálat eredményeként az eszköz más funkcionális csoportba történő átsorolásáról dönt, az eszközt közfinanszírozás alapjául szolgáló árának, közfinanszírozás alapjául szolgáló kölcsönzési napidíjának változatlansága mellett sorolja át.
 
-[^65]: A 8/A. §-t a 34/2010. (V. 14.) EüM rendelet 7. §-a iktatta be.
+[^66]: A 8/A. §-t a 34/2010. (V. 14.) EüM rendelet 7. §-a iktatta be.

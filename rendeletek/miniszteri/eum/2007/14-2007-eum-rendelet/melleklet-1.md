@@ -1,3 +1,3 @@
-1. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^121]
+1. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^131]
 
-[^121]: Az 1. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^131]: Az 1. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (1) bekezdésével megállapított szöveg.

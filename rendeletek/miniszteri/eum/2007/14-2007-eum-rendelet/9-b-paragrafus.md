@@ -1,4 +1,4 @@
-9/B. §[^69] (1) A 9–9/A. § szerinti fixesítési eljárásában az OEP kizárhatja a támogatásból a gyógyászati segédeszközt, ha az eszköz
+9/B. §[^71] (1) A 9–9/A. § szerinti fixesítési eljárásában az OEP kizárhatja a támogatásból a gyógyászati segédeszközt, ha az eszköz
 
 a) támogatási csoporton belüli forgalmi részesedése a fixesítési eljárás kezdőnapját közvetlenül megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapot vizsgálva legalább hét egymást követő hónapban az összes támogatási jogcímet együttesen figyelembe véve az elszámolt ártámogatás tekintetében a 0,5%-ot nem érte el, és befogadására az ezt megelőző időszakban került sor, vagy
 
@@ -8,4 +8,4 @@ b) adott támogatási csoportban meghatározott fix összegű támogatású, és
 
 (3) A (2) bekezdés szerinti befogadási kérelemről az OEP gyorsított eljárásban dönt.
 
-[^69]: A 9/B. §-t a 34/2010. (V. 14.) EüM rendelet 9. §-a iktatta be.
+[^71]: A 9/B. §-t a 34/2010. (V. 14.) EüM rendelet 9. §-a iktatta be.
