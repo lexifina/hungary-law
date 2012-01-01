@@ -1,4 +1,4 @@
-4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^12]
+4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^13]
 
 A hatósági ármegállapítások árszabályozásának keretei
 
@@ -190,4 +190,4 @@ zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekci
 
 zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^12]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 65/2011. (XI. 30.) NFM rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^13]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 65/2011. (XI. 30.) NFM rendelet 5. § (7) bekezdésével megállapított szöveg.
