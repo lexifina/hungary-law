@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-11-20-0
 | --- | --- | --- |
 | 2008-09-21 | 1997-11-20-0A.13 | 11/1997. (II. 18.) BM rendelet |
 | 2010-05-08 | 1997-11-20-0A.14 | 13/2010. (IV. 30.) ÖM rendelet |
+| 2012-01-01 | 1997-11-20-0A.15 | 65/2011. (XII. 30.) BM rendelet |

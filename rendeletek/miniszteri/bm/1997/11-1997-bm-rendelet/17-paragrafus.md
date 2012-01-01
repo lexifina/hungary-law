@@ -1,12 +1,6 @@
-## A BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója a katasztrófavédelmi szervek vonatkozásában[^51]
+## 16. §[^14]
 
-17. §[^52] (1) A főigazgatóság főosztályvezető-helyetteseit, osztályvezetőit, velük azonos jogállású vezetőit, a főigazgatóság területi besorolású háttérintézményeinek vezetőit szolgálati beosztásba kinevezi, más beosztásba helyezi, vezényli, szolgálati beosztás ellátásával megbízza, áthelyezi, szolgálati beosztásból felmenti.
+## A BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója a katasztrófavédelmi szervek vonatkozásában[^15]
 
-(2) A megyei katasztrófavédelmi igazgatókat – a megyei közgyűlés elnöke előzetes véleményével – szolgálati beosztásba kinevezi, más beosztásba helyezi, vezényli, szolgálati beosztás ellátásával megbízza, áthelyezi, szolgálati beosztásból felmenti. A megyei katasztrófavédelmi igazgatóhelyetteseket, a fővárosi polgári védelmi igazgatóhelyettest szolgálati beosztásba kinevezi, más beosztásba helyezi, vezényli, szolgálati beosztás ellátásával megbízza, áthelyezi, szolgálati beosztásból felmenti.
-
-(3) A Repülőtéri Katasztrófavédelmi Igazgatóság igazgatóját és igazgatóhelyettesét, az Országház Tűzoltó-parancsnokság parancsnokát szolgálati beosztásba kinevezi, más beosztásba helyezi, vezényli, szolgálati beosztás ellátásával megbízza, áthelyezi, szolgálati beosztásból felmenti.
-
-(4) Előzetesen véleményt nyilvánít a BM Katasztrófavédelmi Oktatási Központ igazgatójának szolgálati beosztásba történő kinevezésére és szolgálati beosztásból való felmentésére.
-
-[^51]: Az alcím a 13/2001. (VI. 29.) BM rendelet 11. §-ával megállapított szöveg.
-[^52]: A 17. § a 13/2001. (VI. 29.) BM rendelet 11. §-ával megállapított szöveg.
+[^14]: A 16. §-t megelőző alcímet a 19/2008. (IX. 18.) IRM rendelet 7. § (2) bekezdés f) pontja hatályon kívül helyezte. [A 16. §-nak a 61/2011. (XII. 29.) BM rendelet 4. § (2) bekezdés a) pontjával elrendelt módosítása, amely szerint a 16. § hatályát veszti, nem vezethető át.]
+[^15]: Az alcím a 13/2001. (VI. 29.) BM rendelet 11. §-ával megállapított szöveg.
