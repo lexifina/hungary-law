@@ -1,0 +1,13 @@
+## A Magyar Honvédség
+
+45. cikk
+
+(1) Magyarország fegyveres ereje a Magyar Honvédség. A Magyar Honvédség alapvető feladata Magyarország függetlenségének, területi épségének és határainak katonai védelme, nemzetközi szerződésből eredő közös védelmi és békefenntartó feladatok ellátása, valamint a nemzetközi jog szabályaival összhangban humanitárius tevékenység végzése.
+
+(2) A Magyar Honvédség irányítására – ha nemzetközi szerződés másként nem rendelkezik – az Alaptörvényben és sarkalatos törvényben meghatározott keretek között az Országgyűlés, a köztársasági elnök, a Honvédelmi Tanács, a Kormány, valamint a feladat- és hatáskörrel rendelkező miniszter jogosult. A Magyar Honvédség működését a Kormány irányítja.
+
+(3) A Magyar Honvédség közreműködik a katasztrófák megelőzésében, következményeik elhárításában és felszámolásában.
+
+(4) A Magyar Honvédség hivatásos állományú tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.
+
+(5) A Magyar Honvédség szervezetére, feladataira, irányítására és vezetésére, működésére vonatkozó részletes szabályokat sarkalatos törvény határozza meg.
