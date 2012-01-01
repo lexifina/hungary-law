@@ -8,4 +8,6 @@ c) akivel kapcsolatban az engedély megadását követően merült fel olyan té
 
 d) akiről a szakmai tevékenység ellenőrzése során megállapításra került, hogy tevékenységét nem a hatályos jogszabályoknak, műszaki követelményeknek megfelelően végzi.
 
-(2) Az e rendelet szerinti eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(2)[^2]
+
+[^2]: A 10. § (2) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 37. §-a hatályon kívül helyezte.
