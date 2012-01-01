@@ -1,3 +1,0 @@
-## III. Fejezet
-
-## AZ EGYSZERŰ TERVPÁLYÁZATI ELJÁRÁS
