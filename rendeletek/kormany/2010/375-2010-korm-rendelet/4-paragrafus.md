@@ -1,6 +1,6 @@
-## Hosszabb időtartamú közfoglalkoztatás támogatása[^4]
+## Hosszabb időtartamú közfoglalkoztatás támogatása[^5]
 
-4. §[^5] (1) Támogatás nyújtható a foglalkoztatást helyettesítő támogatásra (bérpótló juttatásra) jogosult személy és a kirendeltség által kiközvetített álláskereső 2–12 hónap időtartamra szóló, közfoglalkoztatási jogviszony keretében, napi 6–8 órás munkaidőben történő foglalkoztatására.
+4. §[^6] (1) Támogatás nyújtható a foglalkoztatást helyettesítő támogatásra (bérpótló juttatásra) jogosult személy és a kirendeltség által kiközvetített álláskereső 2–12 hónap időtartamra szóló, közfoglalkoztatási jogviszony keretében, napi 6–8 órás munkaidőben történő foglalkoztatására.
 
 (2) A közfoglalkoztatott személyében beállt változás esetén az (1) bekezdés szerinti támogatás 1 hónap közfoglalkoztatási jogviszony létesítésére is nyújtható.
 
@@ -8,5 +8,5 @@
 
 (4) A hosszabb időtartamú közfoglalkoztatás támogatása esetén a 3. § (5) és (6) bekezdésében foglaltakat is alkalmazni kell.
 
-[^4]: A 4. §-t megelőző alcím a 171/2011. (VIII. 24.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^5]: A 4. § a 171/2011. (VIII. 24.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^5]: A 4. §-t megelőző alcím a 171/2011. (VIII. 24.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^6]: A 4. § a 171/2011. (VIII. 24.) Korm. rendelet 16. §-ával megállapított szöveg.

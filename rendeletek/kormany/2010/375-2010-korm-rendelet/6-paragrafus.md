@@ -1,6 +1,6 @@
 ## Országos közfoglalkoztatási program támogatása
 
-6. §[^12] (1) Támogatható az Országgyűlés vagy a Kormány által meghatározott cél elérésére irányuló program keretében történő, az álláskeresők és a foglalkoztatást helyettesítő támogatásra (bérpótló juttatásra) jogosult személyek közfoglalkoztatása.
+6. §[^13] (1) Támogatható az Országgyűlés vagy a Kormány által meghatározott cél elérésére irányuló program keretében történő, az álláskeresők és a foglalkoztatást helyettesítő támogatásra (bérpótló juttatásra) jogosult személyek közfoglalkoztatása.
 
 (2) Támogatás a közfoglalkoztató részére abban az esetben nyújtható, ha
 
@@ -16,4 +16,4 @@ c) a képzés, a szociális földprogram, továbbá a megváltozott munkaképess
 
 (5) Az országos közfoglalkoztatási program támogatására a 3. § (6) bekezdésében foglaltakat alkalmazni kell.
 
-[^12]: A 6. § a 171/2011. (VIII. 24.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^13]: A 6. § a 171/2011. (VIII. 24.) Korm. rendelet 19. §-ával megállapított szöveg.
