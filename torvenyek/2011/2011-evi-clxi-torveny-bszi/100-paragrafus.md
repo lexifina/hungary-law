@@ -1,1 +1,3 @@
-100. §
+100. § (1) Megválasztott tagnak, póttagnak – a törvényben meghatározott számban – azt kell tekinteni, aki a leadott érvényes szavazatok közül a legtöbb szavazatot, de legalább 50 százalékot meghaladó szavazatot (szavazattöbbség) kapott. A szavazást mindaddig folytatni kell, amíg – a 91. § (1) és (2) bekezdésében meghatározottak szerint – a szükséges számú jelölt az előírt számú szavazatot meg nem kapja. A szavazatokat a Kúria 3 legfiatalabb – küldötté nem választott – bírájából álló szavazatszámláló bizottság összesíti.
+
+(2) A küldöttek korelnöke a küldöttértekezleten történt választás eredményét tartalmazó jegyzőkönyvet 3 napon belül megküldi az OBH elnökének, aki azt haladéktalanul továbbítja a Kúria elnökének, valamint az ítélőtáblák és a törvényszékek elnökeinek.

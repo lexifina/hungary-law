@@ -1,0 +1,3 @@
+179. § (1) A Kúria teljes ülése, valamint az ítélőtábla és a törvényszék összbírói értekezlete a bíróság engedélyezett bírói létszáma alapján minden 20 bírói létszám után – titkosan – egy-egy küldöttet választ. Ha a töredéklétszám a 10 főt meghaladja, további egy küldöttet kell választani. A megválasztott küldöttek száma a 20 főt nem haladhatja meg és 2 – törvényszék esetén 4 – főnél akkor sem lehet kevesebb, ha a bíróság engedélyezett bírói létszáma alapján egy vagy egy küldött sem választható.
+
+(2) A törvényszéken a küldötteket úgy kell megválasztani, hogy azok közül legalább egy helyi bírósági bíró és legalább egy munkaügyi bírósági bíró legyen.

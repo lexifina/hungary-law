@@ -1,1 +1,1 @@
-92–93. §
+92. § Ha a póttagok létszáma 5 alá csökkent és az OBT zavartalan működése vagy a 91. § (1) bekezdésben meghatározott felső határok érvényesülése nem biztosítható, a póttagok létszámát – új választás tartásával – 14 főre kell kiegészíteni.
