@@ -1,3 +1,3 @@
-10. §[^10]
+10. § (1) A megyei (fővárosi) védelmi bizottság a megyei egészségügyi védelmi bizottsággal együttműködve, annak igényei alapján tervezi és biztosítja a katasztrófa-egészségügyi ellátáshoz szükségessé váló objektum kiürítését és átadását, továbbá a szükséggyógyintézet telepítéséhez és működtetéséhez nélkülözhetetlen szállításokat és infrastrukturális ellátást, beleértve a fertőtlenítéshez, járványmegelőzéshez és egyéb közegészségügyi feladatokhoz szükséges felszereléseket és személyeket is.
 
-[^10]: Az 1–13. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+(2) A megyei egészségügyi védelmi bizottság katasztrófa-egészségügyi tervezési tevékenységéhez a megyei (fővárosi) védelmi bizottság által egészségügyi célra kijelölt objektum működtetője a szükséges adatokat és információkat rendelkezésre bocsátja.

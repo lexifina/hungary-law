@@ -1,3 +1,3 @@
-4. §[^4]
+4. § (1) A megyei egészségügyi védelmi bizottság az illetékességi területén az alapellátás körzethatárait, a járó-, illetve fekvőbeteg-szakellátáson belül a tevékenységek szakmai megoszlását, az ellátási terület határait, a betegbeutalás rendjét, továbbá a fekvőbeteg-gyógyintézetek ágyszámát egészségügyi válsághelyzet esetén átmenetileg módosíthatja, és erről az érintetteket a helyben szokásos módon, soron kívül tájékoztatja. A megyei egészségügyi védelmi bizottság irányítja a közegészségügyi és járványügyi feladatok egészségügyi válsághelyzet idején történő végrehajtását.
 
-[^4]: Az 1–13. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+(2) A Magyar Honvédség és a rendvédelmi szervek egészségügyi szolgálatai a katasztrófavédelmi tervüknek megfelelően, szervezeti kereteiket és irányítási rendjüket megtartva vesznek részt a katasztrófa-egészségügyi feladatok ellátásában.

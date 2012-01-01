@@ -1,3 +1,7 @@
-12. §[^12]
+## 12. § Az Eütv. 230. § (5) bekezdésében meghatározott térítést a központi költségvetés az egészségügyért felelős miniszter által vezetett minisztérium fejezeti költségvetésén belül
 
-[^12]: Az 1–13. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+a) a működési kiadások tekintetében az Állami Népegészségügyi és Tisztiorvosi Szolgálat,
+
+b) az egészségügyi anyagok beszerzése tekintetében az Egészségügyi Készletgazdálkodási Intézet
+
+költségvetésében biztosítja.

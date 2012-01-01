@@ -1,1 +1,5 @@
-17. § Nem lép hatályba az egyes kormányrendeleteknek a miniszteri hatósági hatáskörök felülvizsgálatával összefüggésben történő módosításáról szóló 282/2011. (XII. 21.) Korm. rendelet 3. alcíme.
+## 16. § Hatályát veszti a katasztrófa-egészségügyi ellátásról szóló 158/1999. (XI. 19.) Korm. rendelet.
+
+17. §[^2]
+
+[^2]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
