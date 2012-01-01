@@ -52,7 +52,7 @@ h) az érintett országos analóg földfelszíni televíziós sugárzás előreh
 
 a) előfizetőinek összesített száma a televíziós műsorterjesztési piacokon a digitális televízió műsorszóró hálózattal végzett műsorterjesztés kivételével meghaladja a háromszázezret, vagy
 
-b) az Mttv. hatálya alá tartozó, elsősorban a Magyar Köztársaság területére irányuló médiaszolgáltatást végez.
+b) az Mttv. hatálya alá tartozó, elsősorban Magyarország területére irányuló médiaszolgáltatást végez.
 
 (6) A 43. § (2) bekezdésében foglalt pályázaton nem vehet részt országos rádiós médiaszolgáltató, vagy azzal irányítási viszonyban álló vállalkozás, kivéve az Mttv. szerinti közszolgálati rádiós médiaszolgáltatót, valamint országos közösségi médiaszolgáltatót.
 

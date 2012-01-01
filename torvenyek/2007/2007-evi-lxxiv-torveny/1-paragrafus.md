@@ -8,7 +8,7 @@
 
 1. § (1) A törvény hatálya kiterjed
 
-a) a részben vagy egészben a Magyar Köztársaság területén telepített elektronikus hírközlő berendezéssel végzett műsorterjesztésre,
+a) a részben vagy egészben Magyarország területén telepített elektronikus hírközlő berendezéssel végzett műsorterjesztésre,
 
 b) a médiaszolgáltató a) pontban foglalt műsorterjesztéssel összefüggő műszaki tevékenységére,
 

@@ -8,7 +8,7 @@
 
 ## Műsorterjesztés
 
-6. § (1) A Magyar Köztársaság területén bármely természetes, jogi személy vagy jogi személyiséggel nem rendelkező szervezet az e törvényben és az Eht.-ban meghatározott feltételek teljesítése esetén jogosult műsorterjesztési szolgáltatás nyújtására.
+6. § (1) Magyarország területén bármely természetes, jogi személy vagy jogi személyiséggel nem rendelkező szervezet az e törvényben és az Eht.-ban meghatározott feltételek teljesítése esetén jogosult műsorterjesztési szolgáltatás nyújtására.
 
 (2) A műsorterjesztési szolgáltatás, mint elektronikus hírközlési szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját a műsorterjesztőnek nyilvántartásba vétel céljából az Eht.-ban meghatározottak szerint be kell jelentenie a Hatósághoz. A műsorterjesztő olyan műsorokat terjeszthet, amelyek terjesztésére megfelelő szerződésen vagy jogszabályon alapuló jogosultsággal rendelkezik.
 

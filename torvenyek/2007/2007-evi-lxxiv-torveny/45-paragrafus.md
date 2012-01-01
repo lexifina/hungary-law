@@ -18,7 +18,7 @@ a) digitális rádió- vagy televízió-műsorszóró hálózat, illetve az ehhe
 
 b) a digitális műsorterjesztés vételére alkalmas készülékkel nem rendelkezők rászorultsági alapú, célhoz kötött támogatása a külön jogszabályban meghatározottak szerint; vagy
 
-c) a digitális átállással kapcsolatos állami kommunikáció az (1) bekezdés a) pontjában meghatározott forrásból, pályázat útján; vagy
+c) a digitális átállással kapcsolatos állami kommunikáció pályázat útján, vagy
 
 d) egyéb, az 1014/2007. (III. 13.) Korm. határozat mellékletében (Digitális Átállás Stratégia) meghatározott célra.
 

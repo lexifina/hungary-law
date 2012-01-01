@@ -1,3 +1,1 @@
-## Adatszolgáltatás
-
 29. §
