@@ -2,9 +2,9 @@
 
 ## különös szabályok álláskereső szülők
 
-## gyermekeinek esetében[^32]
+## gyermekeinek esetében[^36]
 
-23/A. §[^33] (1) Annak a hitelfelvevőnek,
+23/A. §[^37] (1) Annak a hitelfelvevőnek,
 
 a) akinek mindkét szülője álláskereső, vagy
 
@@ -42,5 +42,5 @@ Az ab) és a cb) pontban foglalt okiratot a hitelfelvevőnek tanulmányi félév
 
 (4) Az (1) bekezdés szerinti az államilag támogatott képzésre tekintettel meghatározott legnagyobb hitelösszeget akár egy alkalommal is igénybe vett hitelfelvevő tárgyévi havi törlesztő részletének mértéke a 15. § (2)–(4) bekezdések megfelelő alkalmazásával számított éves jövedelem nyolc – a költségtérítéses képzésre tekintettel meghatározott legnagyobb hitelösszeget akár egy alkalommal is igénybe vett hitelfelvevők esetében kilenc – százalékának 1/12-ed része.
 
-[^32]: A 23/A. §-t megelőző alcímet a 27/2009. (II. 13.) Korm. rendelet 4. §-a iktatta be.
-[^33]: A 23/A. §-t a 27/2009. (II. 13.) Korm. rendelet 4. §-a iktatta be.
+[^36]: A 23/A. §-t megelőző alcímet a 27/2009. (II. 13.) Korm. rendelet 4. §-a iktatta be.
+[^37]: A 23/A. §-t a 27/2009. (II. 13.) Korm. rendelet 4. §-a iktatta be.

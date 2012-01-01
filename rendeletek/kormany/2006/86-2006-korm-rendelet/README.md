@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-86-20-2
 | 2010-03-28 | 2006-86-20-22.11 | 80/2010. (III. 25.) Korm. rendelet |
 | 2011-07-10 | 2006-86-20-22.12 | 114/2011. (VII. 7.) Korm. rendelet |
 | 2011-10-01 | 2006-86-20-22.13 | 114/2011. (VII. 7.) Korm. rendelet |
+| 2012-01-01 | 2006-86-20-22.14 | 114/2011. (VII. 7.) Korm. rendelet |

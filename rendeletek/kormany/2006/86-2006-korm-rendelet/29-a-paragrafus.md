@@ -1,4 +1,4 @@
-29/A. §[^39] (1) E rendeletnek a hallgatói hitelrendszerről és a Diákhitel Központról szóló 86/2006. (IV. 12.) Korm. rendelet módosításáról szóló 114/2011. (VII. 7.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+29/A. §[^43] (1) E rendeletnek a hallgatói hitelrendszerről és a Diákhitel Központról szóló 86/2006. (IV. 12.) Korm. rendelet módosításáról szóló 114/2011. (VII. 7.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
 (2) E rendeletnek a módosító rendelet
 
@@ -6,4 +6,4 @@ a) 3. §-ával megállapított 14. § (1) bekezdésében meghatározott, egy ös
 
 b) 4. § (1) bekezdésével megállapított 16. § (1) bekezdésében foglalt rendelkezés alapján az új hallgatói jogviszony létesítését a módosító rendelet hatálybalépésének időpontjában hallgatói jogviszonyban állók, az aktuális tanulmányi félév lezárását követő 3 hónapon belül jelenthetik be.
 
-[^39]: A 29/A. §-t a 114/2011. (VII. 7.) Korm. rendelet 9. §-a iktatta be.
+[^43]: A 29/A. §-t a 114/2011. (VII. 7.) Korm. rendelet 9. §-a iktatta be.
