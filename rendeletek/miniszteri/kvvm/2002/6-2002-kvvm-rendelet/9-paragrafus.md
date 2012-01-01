@@ -22,12 +22,12 @@ c) a további vízszennyezés megakadályozására a vízszennyezést okozó kib
 
 a) megállapítja a felszíni ivóvízbázis szennyezettségének mértékét,
 
-b)[^11] elvégzi a kárelhárításhoz szükséges vízszennyezettségi vizsgálatokat, és felügyeli az illetékes környezetvédelmi és vízügyi igazgatóság által végzett kárelhárítás lefolytatását,
+b)[^11] elvégzi a kárelhárításhoz szükséges vízszennyezettségi vizsgálatokat, és felügyeli az illetékes vízügyi igazgatóság által végzett kárelhárítás lefolytatását,
 
 c) intézkedéseket tesz a rendkívüli vízszennyezést okozó azonosítására és a rendkívüli vízszennyezés okának megállapítására,
 
 d) rendkívüli vízszennyezési bírságot szab ki, a külön jogszabályban[^12] foglaltak alapján.
 
 [^10]: A 9. § (3) bekezdése a 3/2005. (II. 22.) KvVM rendelet 7. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^11]: A 9. § (5) bekezdésének b) pontja az 1/2004. (II. 6.) KvVM rendelet 11. §-a szerint módosított szöveg.
+[^11]: A 9. § (5) bekezdés b) pontja a 147/2011. (XII. 23.) VM rendelet 17. § d) pontja szerint módosított szöveg.
 [^12]: A felszíni vizek minősége védelmének egyes szabályairól szóló 203/2001. (X. 26.) Korm. rendelet 23. §-a.
