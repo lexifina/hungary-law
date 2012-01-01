@@ -1,29 +1,25 @@
 ## Behajtási jogsegély
 
-60. § (1) Az Európai Közösség tagállamai illetékes hatóságának megkeresésére a kapcsolattartó közigazgatási szerv intézkedik a más tagállamot megillető
+60. § (1) A behajtási jogsegély teljesítésének az alábbi követelésekkel kapcsolatban van helye:
 
-a) az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) teljes vagy részleges finanszírozási rendszerének részét képező visszatérítés, intervenció és egyéb, pénzösszeg behajtására irányuló intézkedés, továbbá a cukorágazat piacának közös szervezése keretében alkalmazott lefölözés és egyéb díj,
+a) az Európai Unió tagállama által vagy nevében, illetve területi vagy közigazgatási alegysége – ideértve a helyi hatóságokat (helyi önkormányzatokat) is – által vagy nevében, valamint az Európai Unió nevében kivetett adó és illeték;
 
-b) a jövedelem-, nyereség- és vagyonadó,
+b) az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) teljes vagy részleges finanszírozási rendszerének részét képező visszatérítések, intervenciók és egyéb intézkedések, ideértve az e tevékenységgel kapcsolatban behajtandó összegek;
 
-c) az általános forgalmi adó,
+c) a cukorágazat piacának közös szervezése keretében előírt lefölözések és egyéb díjak.
 
-d) a biztosítási díjakra kiszabott adó, valamint
+(2) A behajtási jogsegély rendelkezéseit alkalmazni kell továbbá a következő követelésekre is:
 
-e) az a)–d) pontokban meghatározott tartozással összefüggésben felmerült kamat, igazgatási pénzbüntetés, pénzbírság és költség végrehajtása iránt,
+a) az (1) bekezdésben meghatározott követelésekkel összefüggő – az adó és illeték megállapítása, ellenőrzése (kivetése, közigazgatási vizsgálat végrehajtása) során az adóhatóság, illetékes közigazgatási hatóság által megállapított vagy e hatóság kérésére közigazgatási hatóság vagy bíróság által megerősített – közigazgatási szankció, bírság, pótlék, díj, pótdíj;
 
-f)
+b) az (1) bekezdés a) pontjában meghatározott követeléshez kapcsolódó eljárásokhoz közigazgatási szerv vagy bíróság által kibocsátott igazolások (így különösen hatósági bizonyítvány) és hasonló okiratok díja;
 
-(2) A más tagállamot megillető tartozás a belföldi tartozással azonos megítélés alá esik.
+c) az (1) bekezdésben és e bekezdés a)–b) pontjában meghatározott követelésekhez kapcsolódó kamatok és díjak.
 
-(3) Az Európai Közösség tagállamai közötti behajtási jogsegély keretében átadott adóadatokat megismerheti:
+(3) A behajtási jogsegély teljesítésének nincs helye a következő követelésekkel kapcsolatban:
 
-a) a megkeresésben megjelölt személy,
+a) az Európai Unió tagállamának, illetve területi vagy közigazgatási alegységének, továbbá közjogi társadalombiztosítási intézményének fizetendő kötelező társadalombiztosítási járulék,
 
-b) a behajtás céljából a behajtási eljárásban részt vevő hatóság,
+b) a (2) bekezdés hatálya alá nem tartozó díjak, ideértve a szerződéses jellegű (így különösen közüzemi) díjakat is,
 
-c) a behajtási eljárással kapcsolatos perindítás esetén a bíróság.
-
-(4) A kapcsolattartó közigazgatási szerv a behajtási jogsegély iránti kérelmet elutasítja, ha a megkeresés alapját képező végrehajtható okirat keltének napjától az ugyanazzal az üggyel kapcsolatos adóadat átadási, kézbesítési vagy behajtási megkeresés keltének napjáig öt év eltelt. Amennyiben a végrehajtható okirat ellen jogorvoslatot kezdeményeztek, az ötéves határidő attól a naptól számítandó, amelytől – a megkereső hatóság tájékoztatása alapján – az okirattal szemben további jogorvoslatnak nincs helye.
-
-(5) Az Európai Közösség más tagállama illetékes hatóságának behajtási jogsegély iránti megkeresése esetén végrehajtható okirat az adóhatóság követelését tartalmazó hátraléki kimutatás.
+c) büntető eljárás keretében megállapított büntetőjogi szankciók és a (2) bekezdés a) pontjának hatálya alá nem tartozó egyéb büntetőjogi szankciók.

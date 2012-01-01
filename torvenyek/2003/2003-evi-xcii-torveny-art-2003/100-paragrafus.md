@@ -6,7 +6,7 @@ b) az ellenőrzési cselekményeknél jelen lenni,
 
 c) megfelelő képviseletről gondoskodni.
 
-(2) Ha a magánszemély adózó jogainak gyakorlásában akadályozott – az egyes adókötelezettségek teljesítésére irányuló, az adatok gyűjtését célzó, illetőleg az egyszerűsített ellenőrzés kivételével – kérheti az akadály megszűnéséig, de legfeljebb 60 napig az ellenőrzés megkezdésének elhalasztását, vagy az ellenőrzési cselekmények szüneteltetését. Az ellenőrzés szünetelése az ellenőrzés időtartamába nem számít bele.
+(2) Ha a magánszemély adózó jogainak gyakorlásában akadályozott – az egyes adókötelezettségek teljesítésére irányuló, az adatok gyűjtését célzó, illetőleg az egyszerűsített ellenőrzés, egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés kivételével – egy alkalommal kérheti az akadály megszűnéséig, de legfeljebb 60 napig az ellenőrzés megkezdésének elhalasztását, vagy az ellenőrzési cselekmények szüneteltetését. Az ellenőrzés szünetelése az ellenőrzés időtartamába nem számít bele.
 
 (3) Az adózónak joga van az ellenőrzés során keletkezett iratokba betekinteni, a megállapításokkal kapcsolatban felvilágosítást kérni, azokra észrevételt tenni, bizonyítási indítványokat előterjeszteni, a jegyzőkönyvet megismerni, és a jegyzőkönyv átadását, kézbesítését követő 15 napon belül észrevételt tenni.
 

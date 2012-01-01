@@ -1,6 +1,20 @@
 ## A megfizetés, a kiutalás módja
 
-38. § (1) A fizetési kötelezettséget a pénzforgalmi számlanyitásra kötelezett adózónak belföldi pénzforgalmi számlájáról átutalással, pénzforgalmi számlanyitásra nem kötelezett adózónak belföldi fizetési számlájáról történő átutalással vagy készpénz-átutalási megbízással kell teljesítenie. Az adózó a külön jogszabályban meghatározottak szerint az állami adó- és vámhatósághoz teljesítendő fizetési kötelezettségeit az elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül is teljesítheti. Az adózó az állami adóhatósághoz teljesítendő fizetési kötelezettségét a külön jogszabályban meghatározottak szerint készpénz-helyettesítő fizetési eszközzel is teljesítheti.
+38. § (1) A pénzforgalmi számlanyitásra kötelezett adózó a fizetési kötelezettségét belföldi pénzforgalmi számlájáról történő átutalással köteles teljesíteni, az állami adó- és vámhatósághoz teljesítendő befizetések vonatkozásában ideértve a külön jogszabályban meghatározott elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül átutalással történő fizetést is. A pénzforgalmi számlanyitásra kötelezett adózó az eljárási illeték, az állami adó- és vámhatóságnál kezdeményezett eljárásokért fizetendő igazgatási szolgáltatási díj, az adórendszeren kívüli keresettel járó foglalkoztatáshoz kapcsolódó regisztrációs díj, az egyszerűsített foglalkoztatáshoz kapcsolódó közteher-fizetési kötelezettség, valamint – ha végrehajtási eljárás alatt áll – a végrehajtói letéti számlára történő befizetés vonatkozásában az állami adó- és vámhatóságnál fennálló fizetési kötelezettségét
+
+a) készpénz-helyettesítő fizetési eszközzel (bankkártyával), vagy
+
+b) a külön jogszabályban meghatározott, az elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül POS terminál útján történő bankkártyás fizetés útján
+
+is teljesítheti.
+
+(1a) A pénzforgalmi számlanyitásra nem kötelezett adózó a fizetési kötelezettségét belföldi fizetési számlájáról történő átutalással, vagy készpénz-átutalási megbízással köteles teljesíteni. A pénzforgalmi számlanyitásra nem kötelezett adózó az állami adó- és vámhatóság felé fennálló fizetési kötelezettségét
+
+a) készpénz-helyettesítő fizetési eszközzel (bankkártyával), vagy
+
+b) a külön jogszabályban meghatározott, az elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül átutalással, illetőleg POS terminál útján történő bankkártyás fizetéssel
+
+is teljesítheti.
 
 (2) A belföldi jogi személynek, jogi személyiséggel nem rendelkező gazdasági társaságnak és az általános forgalmi adó fizetésére kötelezett magánszemélynek – ideértve az egyéni vállalkozót is – (a továbbiakban együtt: pénzforgalmi számla nyitására kötelezett adózó) legalább egy belföldi pénzforgalmi számlával kell rendelkeznie. Pénzforgalmi számla nyitására kötelezett adózó rendszeres gazdasági tevékenysége körében kizárólag pénzforgalmi számlát nyithat. Az első pénzforgalmi számlát a pénzforgalmi számlanyitásra kötelezett adózó adószámának közlésétől számított 15 napon belül kell megnyitni. Az adózó bevallásában, valamint kiutalási kérelmében feltünteti azon fizetési számla számát, amelyre a költségvetési támogatás kiutalását kéri.
 

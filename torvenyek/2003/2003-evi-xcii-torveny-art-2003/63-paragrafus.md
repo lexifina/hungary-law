@@ -1,3 +1,11 @@
-## A biztosítási intézkedés megtétele iránti megkeresés
+## Behajtás iránti megkeresés
 
-63. § A kapcsolattartó közigazgatási szerv az illetékes külföldi hatóság megkeresésére a biztosítási intézkedést az illetékes adóhatóság útján foganatosítja.
+63. § (1) A megkereső hatóság behajtás iránti megkeresésével érvényesített követelését – a (2) bekezdésben foglalt eltérésekkel – a belföldi követeléssel azonos módon kell kezelni a behajtás iránti megkeresés teljesítése során.
+
+(2) Ha a megkereső hatóság tagállamával kötött megállapodás eltérően nem rendelkezik, a magyar megkeresett hatóság (állami adó- és vámhatóság) nem köteles a megkereső hatóság behajtás iránti megkereséssel érvényesített követelésnek ugyanolyan elsőbbséget biztosítani, mint a belföldi hasonló követeléseknek. A végrehajtási cselekmények foganatosítása kizárólag a magyar megkeresett hatóság (állami adó- és vámhatóság) hatáskörébe tartozik, az önkormányzati adóhatóság vagy más magyar hatóság a végrehajtás foganatosítása céljából nem kereshető meg.
+
+(3) A behajtás iránti megkeresés teljesítésének végrehajtást engedélyező egységes okirat alapján van helye, amely az e törvény végrehajtási eljárásról szóló rendelkezéseinek alkalmazása során végrehajtható okiratnak minősül.
+
+(4) A magyar megkeresett hatóság (állami adó- és vámhatóság) a megkereső hatóság kérelmére a végrehajtást engedélyező egységes okiratban foglalt követelés behajtása iránt e törvénynek a végrehajtási eljárásról szóló – a megkereséssel érvényesített követeléssel azonos, vagy ennek hiányában hasonló követelésre vonatkozó – rendelkezései alkalmazásával jár el. Ha a magyar jogszabályok alapján nincs a végrehajtást engedélyező egységes okiratban foglalt követeléssel azonos vagy ahhoz hasonló belföldi követelés, a magyar megkeresett hatóság (állami adó- és vámhatóság) a személyi jövedelemadó végrehajtására vonatkozó rendelkezéseket alkalmazza.
+
+(5) A megkereső hatóság a végrehajtást engedélyező egységes okiraton kívül más, a megkereső tagállamban a követeléssel kapcsolatban kiállított okiratot is továbbíthat a magyar megkeresett hatóság részére.

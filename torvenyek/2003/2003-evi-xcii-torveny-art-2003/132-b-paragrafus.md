@@ -48,7 +48,7 @@ g) az eljárás lefolytatása a díj mértékét meghaladó költségterheket r�
 
 h) a külföldi állam illetékes hatóságával a szokásos piaci ár megállapítását érintő megállapodásra irányuló egyeztetés eredménytelen, kivéve, ha az adózó kéri az eljárás egyoldalúan történő lefolytatását;
 
-i) a Magyar Köztársaságnak a külföldi állammal nincs a kettős adóztatás elkerülése tárgyában kötött nemzetközi egyezménye, illetőleg az egyezmény nem tartalmaz a kölcsönös egyeztetési eljárásról szóló vagy ennek megfelelő rendelkezéseket;
+i) Magyarországnak a külföldi állammal nincs a kettős adóztatás elkerülése tárgyában kötött nemzetközi egyezménye, vagy az egyezmény nem tartalmaz a kölcsönös egyeztetési eljárásról szóló vagy ennek megfelelő rendelkezéseket;
 
 j) az eljárás lefolytatásához jogszabály megalkotására vagy módosítására lenne szükség;
 

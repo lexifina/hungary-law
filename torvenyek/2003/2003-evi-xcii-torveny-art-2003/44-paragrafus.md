@@ -1,6 +1,6 @@
 ## Bizonylatok, könyvvezetés, nyilvántartás
 
-44. § (1) A jogszabályban előírt bizonylatot, könyvet, nyilvántartást – ideértve a gépi adathordozón rögzített adatokat is – úgy kell kiállítani, illetve vezetni, hogy az az adó alapjának, az adó összegének, a mentességnek, a kedvezménynek, a költségvetési támogatás alapjának és összegének, továbbá ezek megfizetésének, illetve igénybevételének megállapítására, ellenőrzésére alkalmas legyen.
+44. § (1) A jogszabályban előírt bizonylatot, könyvet, nyilvántartást – ideértve a gépi adathordozón rögzített elektronikus adatokat, információkat is – úgy kell kiállítani, illetve vezetni, hogy az az adó alapjának, az adó összegének, a mentességnek, a kedvezménynek, a költségvetési támogatás alapjának és összegének, továbbá ezek megfizetésének, illetve igénybevételének megállapítására, ellenőrzésére alkalmas legyen.
 
 (2) A könyveket, nyilvántartásokat – ha jogszabály másként nem rendelkezik – úgy kell vezetni, hogy
 

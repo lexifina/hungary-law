@@ -10,7 +10,7 @@ c) az általános forgalmi adó,
 
 d) a biztosítási díjakra kiszabott adó,
 
-e) az a)–d) pontban meghatározott tartozás végrehajtásával kapcsolatban felmerült költség, továbbá a kamat, igazgatási pénzbüntetés és pénzbírság megállapításához szükségesek és az állami adóhatóság nyilvántartásában rendelkezésre állnak. Amennyiben a megkeresés teljesítéséhez más hatóságtól kell az adatot beszerezni, a beszerzést követően a kapcsolattartó közigazgatási szerv az adóadatot a megkereső hatóságnak haladéktalanul továbbítja. Az adatátadás akadályáról, megtagadásának okáról a kapcsolattartó közigazgatási szerv értesíti a megkereső hatóságot. Az általános forgalmi adóval összefüggésben a kapcsolattartó közigazgatási szerv az 1798/2003/EK rendelet és végrehajtási rendelete szabályai szerint jár el.
+e) az a)–d) pontban meghatározott tartozás végrehajtásával kapcsolatban felmerült költség, továbbá a kamat, igazgatási pénzbüntetés és pénzbírság megállapításához szükségesek és az állami adóhatóság nyilvántartásában rendelkezésre állnak. Amennyiben a megkeresés teljesítéséhez más hatóságtól kell az adatot beszerezni, a beszerzést követően a kapcsolattartó közigazgatási szerv az adóadatot a megkereső hatóságnak haladéktalanul továbbítja. Az adatátadás akadályáról, megtagadásának okáról a kapcsolattartó közigazgatási szerv értesíti a megkereső hatóságot. Az általános forgalmi adóval összefüggésben a kapcsolattartó közigazgatási szerv a 904/2010/EU rendelet szabályai szerint jár el.
 
 f)
 

@@ -8,7 +8,7 @@ a) az ellenőrzést az adópolitikáért felelős miniszter vagy az Állami Szá
 
 b) az állami adó- és vámhatóság vezetője erre utasítást ad, amely alapján a felettes adóhatóság ellenőrzi a korábban lefolytatott ellenőrzés szakszerűségét és törvényességét,
 
-c) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi ellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adó- és vámhatóság vezetője utasítást ad,
+c) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi ellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adó- és vámhatóság vezetője utasítást ad. Új tény, körülmény különösen a külföldi adóhatóság egy éven túl megérkezett válaszában foglalt, az adó megállapítását befolyásoló új tény, adat, feltéve, hogy az adóhatóság az ellenőrzést a külföldi adóhatóság válaszának hiányában fejezte be,
 
 d) az állami garancia beváltásával kapcsolatosan a korábban lefolytatott ellenőrzéshez képest új tény, körülmény merül fel, amely alapján az ellenőrzésre az állami adó- és vámhatóság vezetője utasítást ad.
 

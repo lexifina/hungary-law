@@ -14,7 +14,7 @@ e) az önkormányzatokat megillető helyi adóval, illetve a gépjárműadóval 
 
 ügyében, feltéve, hogy azt törvény vagy kormányrendelet nem utalja más hatóság vagy adóhatóság hatáskörébe.
 
-(2) Az állami adóhatóság látja el a magán-nyugdíjpénztári tagdíjfizetési kötelezettséggel kapcsolatban az ellenőrzési, az utólagos adómegállapítási és a végrehajtási feladatokat. A magánnyugdíjpénztár megkeresésére az adóhatóság az ellenőrzést és a végrehajtást a külön jogszabályban meghatározott feltételekkel folytatja le.
+(2)
 
 (3) A csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a vagyonrendezési és adósságrendezési eljárásban
 

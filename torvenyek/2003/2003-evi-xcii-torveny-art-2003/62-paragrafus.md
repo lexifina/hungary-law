@@ -1,3 +1,13 @@
-## A kézbesítés iránti megkeresés
+## Kézbesítés iránti megkeresés
 
-62. § A kapcsolattartó közigazgatási szerv megkeresésre kézbesíti az adózónak azt a határozatot, illetve egyéb okiratot, amelyet a megkereső hatóság a tartozás behajtása érdekében kibocsátott. A kapcsolattartó közigazgatási szerv haladéktalanul értesíti a megkereső hatóságot az általa tett intézkedésről, különösen a kézbesítés időpontjáról.
+62. § (1) A magyar megkeresett hatóság a megkereső hatóság kérelmére intézkedik valamennyi olyan döntés és egyéb okirat– ideértve a bírósági okiratot is – címzett személynek történő kézbesítéséről, amely a megkereső tagállamból származik és a 60. §-ban meghatározott követelésre vagy annak behajtására vonatkozik. A kézbesítés iránti megkereséshez egységes formanyomtatványt kell mellékelni.
+
+(2) A magyar megkeresett hatóság haladéktalanul tájékoztatja a megkereső hatóságot a kézbesítés érdekében megtett intézkedésről, így különösen a kézbesítés időpontjáról.
+
+(3) A megkereső tagállam illetékes hatósága által a megkeresett tagállam joga szerint a Magyarország területén teljesített vagy nem a behajtási jogsegély keretében kezdeményezett kézbesítés nem érinti a magyar megkeresett hatóság kézbesítés iránti megkereséssel kapcsolatos eljárását.
+
+(4) A magyar megkeresett hatóság a kézbesítés iránti megkeresést elutasítja, ha a megkereső hatóság a rendelkezésére álló kézbesítési eljárásokat nem merítette ki, kivéve ha
+
+a) a megkereső hatóságnak nem áll módjában az okiratot a magyar jogszabályok szerint kézbesíteni, vagy
+
+b) a megkereső hatóságnak az okirat ilyen kézbesítése aránytalan nehézséget okozna.

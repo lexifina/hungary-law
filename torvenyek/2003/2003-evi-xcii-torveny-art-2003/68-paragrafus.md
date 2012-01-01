@@ -1,7 +1,17 @@
-## A tartozás kiegyenlítése
+## A megkeresés elutasítása
 
-68. § (1) A tartozást a kötelezett forintban fizeti meg.
+68. § (1) A magyar megkeresett hatóság a 60–67. § szerinti megkeresést elutasítja, ha
 
-(2) A külföldről érkező megkeresésben feltüntetett követelésre az adóhatóság a végrehajtást elrendelő végzés jogerőre emelkedésének napjától a tartozás fedezetét biztosító végrehajtási cselekmények foganatosításának napjáig, illetve a tartozás megfizetésének napjáig az e törvényben meghatározott mértékű késedelmi pótlékot számít fel. A késedelmi pótlék felszámítására a nettó pótlékszámítás szabályai nem alkalmazhatók.
+a) a megkeresés olyan követelésre vonatkozik, amelynek a megkereső tagállam joga szerinti esedékességi napja és a megkeresés beérkezésének napja között több mint öt naptári év telt el, vagy
 
-(3) A tartozás kiegyenlítésére a megkereső hatósággal folytatott egyeztetést követően, e törvény fizetési könnyítésre vonatkozó rendelkezései alkalmazásával az adóhatóság a kötelezett részére fizetési könnyítést engedélyezhet. Ha a kötelezett a tartozást a pótlékköteles fizetési könnyítés engedélyezését követően teljesíti, e pótlék a megkereső adóhatóságot illeti meg.
+b) a (2) és (3) bekezdésben foglalt esetekben a követelés esedékességének a megkeresés tagállambeli időpontjától számított több mint tíz naptári év eltelt, vagy
+
+c) a követelés behajtása – az adós személy helyzete miatt – Magyarországon komoly gazdasági nehézséget okozna, feltéve, hogy a magyar jogszabályok szerint hasonló követelésre ez a behajtást kizáró ok külön jogszabály alapján alkalmazható lenne.
+
+(2) Ha a megkereséssel érvényesített követelés összege az 1500 eurónak megfelelő pénzösszegnél kisebb, a magyar megkeresett hatóság a 63–67. § szerinti megkeresést elutasítja.
+
+(3) Ha a kötelezett személy vagy más érdekelt személy a követeléssel vagy a végrehajtást engedélyező eredeti okirattal kapcsolatban jogorvoslati kérelmet nyújtott be, az (1) bekezdés a) pontja szerinti határidő kezdőnapja az a nap, amelyen a megkereső tagállam illetékes hatósága (bírósága) megállapítja, hogy a követeléssel vagy a végrehajtást engedélyező eredeti okirattal kapcsolatban további jogorvoslatnak nincs helye.
+
+(4) Ha a követeléssel kapcsolatban a megkereső tagállam illetékes hatósága fizetési könnyítést (halasztott fizetést vagy részletfizetést) engedélyezett, az (1) bekezdés a) pontja szerinti határidő a fizetési könnyítés alapján előírt fizetési határidő lejárta napján kezdődik.
+
+(5) A magyar megkeresett hatóság a megkeresés elutasításáról, az ok megjelölésével tájékoztatja a megkereső hatóságot.

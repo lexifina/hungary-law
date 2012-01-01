@@ -14,7 +14,7 @@ b) alanyi adómentességet választott, vagy
 
 c) kizárólag mezőgazdasági tevékenységet folytató adóalanynak minősül az általános forgalmi adóról szóló törvény XIV. fejezete szerint.
 
-B) A visszatéríttetés tagállama – a Magyar Köztársaság kivételével – az Európai Közösség azon tagállama, amelyben a hozzáadottérték-adót az A) pontban meghatározott adóalanyra az ebben a tagállamban számára más adóalany által végzett termékértékesítéshez, szolgáltatásnyújtáshoz kapcsolódóan, vagy az ebbe a tagállamba irányuló termékimporthoz kapcsolódóan felszámították.
+B) A visszatéríttetés tagállama – Magyarország kivételével – az Európai Közösség azon tagállama, amelyben a hozzáadottérték-adót az A) pontban meghatározott adóalanyra az ebben a tagállamban számára más adóalany által végzett termékértékesítéshez, szolgáltatásnyújtáshoz kapcsolódóan, vagy az ebbe a tagállamba irányuló termékimporthoz kapcsolódóan felszámították.
 
 C) A visszatéríttetési időszak a visszatéríttetés tagállama által a 2008/9/EK tanácsi irányelv 16. cikkének megfelelően meghatározott időszak, amelyre az adó-visszatéríttetési kérelem vonatkozik.
 
@@ -58,7 +58,7 @@ jogosult.
 
 B) E cím alkalmazásában az ügyfélkapun és a központi elektronikus szolgáltató rendszeren keresztül történő, az e törvény 5. § (3) bekezdésének megfelelő elektronikus kapcsolattartás szabályait kell alkalmazni.
 
-II. A Közösség más tagállamában, illetve harmadik államban letelepedett adóalany általános forgalmiadó-visszatéríttetési jogának a Magyar Köztársaságban történő érvényesítésével kapcsolatos eljárás egyes kérdéseiről
+II. A Közösség más tagállamában, illetve harmadik államban letelepedett adóalany általános forgalmiadó-visszatéríttetési jogának Magyarországon történő érvényesítésével kapcsolatos eljárás egyes kérdéseiről
 
 1. Az általános forgalmi adóról szóló törvényben meghatározott, a Közösség más tagállamában vagy harmadik államban letelepedett adóalany (a továbbiakban együtt: adózó) adó-visszatéríttetési kérelmével, kiigazítási nyilatkozatával (a továbbiakban: kérelem) kapcsolatos eljárásban e törvény rendelkezéseit az e címben foglalt eltérésekkel kell alkalmazni.
 

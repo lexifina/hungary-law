@@ -6,6 +6,6 @@
 
 (3) Az adóhatóság a pótlék- és bírságtartozást kivételes méltányosságból mérsékelheti (elengedheti) különösen akkor, ha annak megfizetése a vállalkozási tevékenységet folytató magánszemély, jogi személy vagy egyéb szervezet gazdálkodási tevékenységét ellehetetlenítené. Az adóhatóság a mérséklést az adótartozás egy részének (vagy egészének) megfizetéséhez kötheti.
 
-(4)
+(4) Az általános forgalmi adóról szóló törvény szerinti csoportos adóalany számára a csoportos adóalanyiság időszakában adómérséklés nem engedélyezhető.
 
-(5) Az adópolitikáért felelős miniszter rendeletben állapíthatja meg az illeték megállapításának mellőzésére vonatkozó szabályokat, ha ezt az állampolgárok szélesebb körét érintő rendkívüli esemény, elemi csapás indokolja.
+(5)

@@ -14,7 +14,7 @@ d) törvényben előírt fizetési kötelezettségtől való eltérés engedély
 
 (3) Kérelemre indul különösen:
 
-a) a nyilvántartás vezetésével kapcsolatos,
+a) a nyilvántartás vezetésével (ideértve a VPID szám megállapítását is) kapcsolatos,
 
 b) a fizetési halasztás, részletfizetés engedélyezése iránti,
 
@@ -28,7 +28,7 @@ hatósági eljárás.
 
 (4) Hivatalból indul különösen:
 
-a) a nyilvántartás vezetésével kapcsolatos,
+a) a nyilvántartás vezetésével (ideértve a VPID szám megállapítását is) kapcsolatos,
 
 b) a hatósági adómegállapítás, adatszolgáltatás, bejelentés, bevallás alapján (adókivetés, illetékkiszabás),
 
@@ -46,4 +46,4 @@ hatósági eljárás.
 
 a) az adózótól – az azonosításához szükséges adatok kivételével – nem kérhető olyan adat igazolása, amelyet valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvános nyilvántartásának tartalmaznia kell, vagy amelyet ilyen nyilvántartásból az adóhatóság közvetlen adathozzáféréssel megszerezhet, ebben az esetben az adatszolgáltatásért díj nem számítható fel,
 
-b) – jogszabály eltérő rendelkezése hiányában – az adózó nem kérheti az adóhatóságnál, hogy az (1) bekezdésen túlmenően más szervet adatszolgáltatás iránt keressen meg.
+b) – jogszabály eltérő rendelkezése hiányában – az adózó nem kérheti az adóhatóságnál, hogy az a) pontban foglaltakon túlmenően más szervet adatszolgáltatás iránt keressen meg.

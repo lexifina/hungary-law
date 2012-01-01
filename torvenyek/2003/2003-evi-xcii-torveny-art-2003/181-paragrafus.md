@@ -24,11 +24,11 @@ d) a Tanács 2004/56/EK irányelve (2004. április 21.) a tagállamok illetékes
 
 e) a Tanács 2004/106/EK irányelve (2004. november 16.) a tagállamok illetékes hatóságainak a közvetlen adózás, a bizonyos jövedéki adók és a biztosítási díjak adózása területén történő kölcsönös segítségnyújtásáról szóló 77/799/EGK tanácsi irányelv, valamint a jövedékiadó-köteles termékekre vonatkozó általános rendelkezésekről és e termékek tartásáról, szállításáról és ellenőrzéséről szóló 92/12/EGK irányelv módosításáról, 1. cikk,
 
-f) a Tanács 1798/2003/EK rendelete (2003. október 7.) a hozzáadottérték-adó területén történő közigazgatási együttműködésről, valamint a 218/92/EGK rendelet hatályon kívül helyezéséről;
+f) a Tanács 904/2010/EU rendelete (2010. október 7.) a hozzáadottérték-adó területén történő közigazgatási együttműködésről és csalás elleni küzdelemről,
 
-g) a Bizottság 1925/2004/EK rendelete (2004. október 29.) a hozzáadottérték-adó területén való közigazgatási együttműködésről szóló 1798/2003/EK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról.
+g)
 
-(3) E törvény 60–70. §-ai és 11. számú melléklete az egyes lefölözésekből, vámokból, adókból és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról szóló 2008/55/EK tanácsi irányelvnek való megfelelést szolgálják, és a 2008/55/EK tanácsi irányelv egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló 1179/2008/EK rendelettel összeegyeztethető szabályozást tartalmaznak.
+(3) E törvény 60–70. §-ai az adókból, vámokból, illetékekből és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról szóló 2010/24/EU tanácsi irányelvnek való megfelelést szolgálják és az ezen irányelv 26. cikke alapján az Európai Bizottság által elfogadott részletes végrehajtási intézkedésekkel összeegyeztethető szabályozást tartalmaznak.
 
 (4) E törvény 52. § (12) bekezdése, 57. § (9) bekezdése, valamint 7. számú melléklete a következő uniós jogi aktusoknak való megfelelést szolgálják:
 

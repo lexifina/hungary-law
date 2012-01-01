@@ -6,6 +6,14 @@ a) az eljárás megindítására, az újrafelvételi eljárásra, a hatósági s
 
 b) a kiskorú adózó esetében az ügyintézés soronkívüliségére és határidejére vonatkozó szabályait.
 
+(2a) A kutatás-fejlesztési tevékenység minősítésével összefüggő eljárás lefolytatására hatáskörrel rendelkező szakértő intézmény kirendelése során nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény
+
+a) ügyfél által javasolt szakértő kirendelésére,
+
+b) kirendelt szakértő eljárási bírsággal történő sújtására
+
+vonatkozó szabályait.
+
 (3) Adóügyben az elektronikus kapcsolattartásra akkor van lehetőség, ha azt jogszabály az ügy típusának megjelölésével lehetővé teszi. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályait az ügyre vonatkozó jogszabályban meghatározott eltérésekkel kell alkalmazni.
 
 (4) Adóügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a kérelemre vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy – jogszabály eltérő rendelkezése hiányában – az adózó nem kérheti az adóhatóságnál, hogy az más szervet adatszolgáltatás iránt keressen meg.

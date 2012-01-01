@@ -28,11 +28,11 @@ D) A hitelintézet, pénzforgalmi szolgáltató és a befektetési szolgáltató
 
 D/I. A hitelintézet adatszolgáltatása
 
-1. A hitelintézet adatot szolgáltat a lakótelek és lakás vásárlása, építése, bővítése céljára elhelyezett, elkülönítetten kezelt megtakarítás után járó, az adókedvezmény igénybevételéhez az adózónak kiadott igazolásról.
+1.
 
 2–3.
 
-4. Az 1. pont szerinti adatszolgáltatást az adóévet követő január 31-éig elektronikus úton az adózó, illetve a kedvezményezett illetékes állami adóhatóságához kell teljesíteni.
+4.
 
 5. A pénzforgalmi számlát vezető pénzforgalmi szolgáltató – a cégjegyzékbe bejelentett pénzforgalmi számlára vonatkozó adatok kivételével – a pénzforgalmi számla megnyitását és megszüntetését annak időpontját követő hó 15. napjáig a pénzforgalmi jelzőszám feltüntetésével közli az állami adóhatósággal.
 
@@ -40,13 +40,13 @@ D/II. A befektetési szolgáltató adatszolgáltatása
 
 A befektetési szolgáltató az adóévet követő január 31-éig elektronikus úton adatot szolgáltat az állami adóhatósághoz az olyan ügyletben részt vevő személyek (felek) – ha egyikük, vagy mindegyikük magánszemély – azonosító adatairól, adóazonosító jeléről/adószámáról, amely ügyletben az egyik fél tulajdonában lévő értékpapír (értékpapír-letéti) számláról másik fél tulajdonában lévő értékpapír (értékpapír-letéti) számlára értékpapír áthelyezésére kapott megbízást teljesített. Az adatszolgáltatás tartalmazza továbbá az áthelyezett értékpapír fajtáját, névértékét, valamint – ha a megbízást adó fél igazolja, vagy arról nyilatkozik – az értékpapír átruházása ellenében megszerzett bevételt.
 
-E) A vámhatóság és az önkormányzat jegyzője adatszolgáltatása
+E) Az önkormányzat jegyzőjének adatszolgáltatása
 
-A vámhatóság az általa kiadott (visszavont, módosított) jövedéki engedélyről az önkormányzat jegyzője az általa kiadott (visszavont, módosított) jövedéki termékkel folytatott kereskedelmi tevékenységre jogosító működési engedélyről 15 napon belül adatot szolgáltat az állami adóhatóságnak.
+Az önkormányzat jegyzője az általa kiadott (visszavont, módosított) jövedéki termékkel folytatott kereskedelmi tevékenységre jogosító működési engedélyről 15 napon belül adatot szolgáltat az állami adóhatóságnak.
 
-F) Nyugdíjat, rehabilitációs járadékot folyósító szerv adatszolgáltatása
+F) Nyugdíjat, rehabilitációs járadékot, korhatár előtti ellátást, szolgálati járandóságot, balettművészeti életjáradékot, átmeneti bányászjáradékot folyósító szerv adatszolgáltatása
 
-A nyugdíjat, rehabilitációs járadékot folyósító szerv – az állami adóhatóságnak az Art. 31. §-ának (2) bekezdése szerinti bevallásban lévő adatok alapján a nyugdíj mellett munkát vállaló személyekre a természetes személyazonosító adatok és az adóazonosító jel feltüntetésével az adóévet követő év január 31. napjáig teljesített elektronikus adatszolgáltatása alapján – az előzőekben megjelölt adatok feltüntetésével az adóévet követő év február 15. napjáig az állami adóhatóság felé elektronikus úton adatot szolgáltat a kifizetett nyugellátás, rehabilitációs járadék adóévi összegéről. Az állami adóhatóság a kiegészítő tevékenységet folytató egyéni vállalkozókra az előzőekben meghatározott feltételek szerinti adatszolgáltatást az adóévet követő év március 15-ig, a nyugdíjat, rehabilitációs járadékot folyósító szerv pedig március 31-ig teljesíti.
+A nyugdíjat, rehabilitációs járadékot, korhatár előtti ellátást, szolgálati járandóságot, balettművészeti életjáradékot, átmeneti bányászjáradékot folyósító szerv – az állami adóhatóságnak az Art. 31. §-ának (2) bekezdése szerinti bevallásban lévő adatok alapján a nyugdíj, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék vagy átmeneti bányászjáradék mellett munkát vállaló személyekre a természetes személyazonosító adatok és az adóazonosító jel feltüntetésével az adóévet követő év január 31. napjáig teljesített elektronikus adatszolgáltatása alapján – az előzőekben megjelölt adatok feltüntetésével az adóévet követő év február 15. napjáig az állami adóhatóság felé elektronikus úton adatot szolgáltat a kifizetett nyugellátás, rehabilitációs járadék, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék adóévi összegéről. Az állami adóhatóság a kiegészítő tevékenységet folytató egyéni vállalkozókra az előzőekben meghatározott feltételek szerinti adatszolgáltatást az adóévet követő év március 15-ig, a nyugdíjat, rehabilitációs járadékot, korhatár előtti ellátást, szolgálati járandóságot, balettművészeti életjáradékot, átmeneti bányászjáradékot folyósító szerv pedig március 31-ig teljesíti.
 
 G) Hatósági adatszolgáltatás
 
@@ -80,7 +80,7 @@ d) 2011. január 20. napjáig a 2006. január 1. és 2009. december 31. között
 
 a 2. pont szerinti adattartalommal közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati adóhatósággal.
 
-4. Az első fokon eljáró közlekedési igazgatási hatóság által a jármű tulajdonjogának, üzemben tartói jogának bejegyzésére, ezek valamelyikének változására irányuló eljárás során a közlekedési igazgatási ügymenetet támogató informatikai rendszerben rögzített, az ügyfél által bemutatott, a gépjármű és pótkocsi vagyonszerzési illetékének megfizetését igazoló készpénz-átutalási megbízás azonosító számát, gyártójának kódját, valamint a befizetett illeték összegét a közúti közlekedési nyilvántartást vezető szerv útján, továbbá a közúti közlekedési nyilvántartást vezető szerv a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (2) bekezdésében szereplő adatok közül a gépjármű és pótkocsi vagyonszerzési illetéke teljesítésének ellenőrzéséhez szükséges adatokat (a jármű fajtáját, gyártmányát, típusát, kategóriáját, forgalmi rendszámát, hengerűrtartalmát, kamratérfogatát, teljesítményét, össztömegét, a járműtulajdonos, üzemben tartói jog jogosítottja azonosító adatait, lakcímét, székhelyét, adóazonosító számát) elektronikus úton továbbítja az állami adóhatóságnak.
+4. Az első fokon eljáró közlekedési igazgatási hatóság által a jármű tulajdonjogának, üzemben tartói jogának bejegyzésére, ezek valamelyikének változására irányuló eljárás során a közlekedési igazgatási ügymenetet támogató informatikai rendszerben rögzített, az ügyfél által bemutatott, a gépjármű és pótkocsi vagyonszerzési illetékének megfizetését igazoló készpénz-átutalási megbízás azonosító számát, gyártójának kódját, valamint a befizetett illeték összegét a közúti közlekedési nyilvántartást vezető szerv útján, továbbá a közúti közlekedési nyilvántartást vezető szerv a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (2) bekezdésében szereplő adatok közül a gépjármű és pótkocsi vagyonszerzési illetéke teljesítésének ellenőrzéséhez szükséges adatokat (a jármű fajtáját, gyártmányát, típusát, kategóriáját, forgalmi rendszámát, hengerűrtartalmát, kamratérfogatát, teljesítményét, össztömegét, gyártási évét, a járműtulajdonos, üzemben tartói jog jogosítottja azonosító adatait, lakcímét, székhelyét, adóazonosító számát) elektronikus úton továbbítja az állami adóhatóságnak.
 
 5. Az okmányiroda, valamint a vámhatóság minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően adatokat szolgáltat az ,,E'' és ,,P'' betűjelű ideiglenes rendszámtábla kiadásáról a kérelmező lakóhelye (székhelye) szerint illetékes önkormányzati adóhatósághoz. Az adatszolgáltatás tartalmazza a kérelmező nevét, anyja nevét, születési helyét és idejét, valamint lakcímét (székhelyét), továbbá a jármű fajtáját és rendszámát.
 
@@ -90,9 +90,21 @@ a) az építési helyszín címe, helyrajzi száma,
 
 b) a kivitelező (vállalkozó) neve (elnevezése), címe (székhelye), adóazonosító száma, kivitelezési jogosultságának (vállalkozói engedély, cégbírósági bejegyzés) külön jogszabály szerinti igazolása.
 
+7. Az okmányiroda, illetve a fővárosi és megyei kormányhivatal – minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően, elektronikus úton – megküldi az állami adóhatóság részére azon személyek természetes személyazonosító adatait, adóazonosító számát, állampolgárságát, elektronikus levélcímét, ügyfélkapu azonosítóját, akik ügyfélkaput létesítettek vagy szüntettek meg.
+
+8. A kötelező gépjármű-felelősségbiztosítási kötvényeket nyilvántartó szerv, a közúti közlekedési nyilvántartási szerv a kötvénynyilvántartásból, illetve a közúti járműnyilvántartásból a tárgyévet követő év január 31-ig a kötelező gépjárműfelelősség-biztosítási jogviszony díj nemfizetési okból való megszűnéséről, továbbá ha a biztosító értesítése alapján a gépjármű forgalomból való kivonása iránti eljárás indul, az állami adóhatósághoz – elektronikus úton – adatot szolgáltat a következő tartalommal:
+
+a) a biztosított (üzemben tartó) neve (jogi személy vagy jogi személyiséggel nem rendelkező szervezet megnevezése, továbbá cégjegyzékszáma, illetve nyilvántartási száma), születési helye, születési ideje, anyja neve és lakcíme, illetőleg székhelye (fióktelepe),
+
+b) a gépjármű hatósági jelzése (rendszáma) és alvázszáma,
+
+c) a kockázatviselés kezdetének, megszűnésének időpontja,
+
+d) a gépjármű forgalomból való kivonásának időpontja.
+
 H) Az általános forgalmi adóról szóló törvényben meghatározott új közlekedési eszközt értékesítő adózó adatszolgáltatása
 
-Az adózó az állami adóhatósághoz az értékesítés napját követő hó 15. napjáig az erre a célra rendszeresített nyomtatványon adatot szolgáltat
+Az adózó az állami adóhatósághoz az értékesítés napját magába foglaló általános forgalmi adómegállapítási időszakot követő hónap 20. napjáig az erre a célra rendszeresített nyomtatványon adatot szolgáltat
 
 a) az Európai Közösség más tagállamában illetőséggel bíró, közösségi adószámmal nem rendelkező vevő nevéről, címéről,
 
@@ -102,19 +114,21 @@ c) a számla kiállításának időpontjáról, illetve az első forgalomba hely
 
 I) Az állami foglalkoztatási szerv adatszolgáltatása
 
-Az állami foglalkoztatási szerv elektronikus úton az állami adóhatósághoz az adóévet követő január 31-éig adatot szolgáltat azon személyek azonosító adatairól, adóazonosító jeléről, akiknél a munkanélküli-ellátás folyósítását az ellátásra való jogosultságot kizáró kereső tevékenység miatt szüntették meg, lehetőség szerint az e személyek munkaadóiról, azok adószámának feltüntetésével, valamint a folyósítás megszűnésének időpontjáról.
+1. Az állami foglalkoztatási szerv elektronikus úton az állami adóhatósághoz az adóévet követő január 31-éig adatot szolgáltat azon személyek azonosító adatairól, adóazonosító jeléről, akiknél a munkanélküli-ellátás folyósítását az ellátásra való jogosultságot kizáró kereső tevékenység miatt szüntették meg, lehetőség szerint az e személyek munkaadóiról, azok adószámának feltüntetésével, valamint a folyósítás megszűnésének időpontjáról.
+
+2. Az állami foglalkoztatási szerv elektronikus úton az állami adóhatóság részére a tárgyhót követő hó 5. napjáig adatot szolgáltat az adott hónapban a Karrier Híd Program keretében kiadott, visszavont vagy ismételten kiadott Igazolással összefüggésben az Igazolással rendelkező adózó természetes személyazonosító adatairól, lakcíméről, adóazonosító jeléről, az Igazolás sorszámáról, kiállításának dátumáról, érvényessége kezdetéről és érvényessége lejártáról, az igazolás visszavonásáról, ismételt kiadásáról.
 
 J) Adókedvezményre jogosító igazolásokról adatszolgáltatás
 
-Az adókedvezményre jogosító igazolást kiállító szerv, ha olyan igazolást (bizonylatot) állít ki, amelynek alapján a magánszemély adókedvezmény (adómentesség) igénybevételére jogosult, a kedvezmény igénybevételére jogosító igazolás tartalmának közlésével adatot szolgáltat az adózónak kiadott igazolásról. Az adatszolgáltatást az adóévet követő év február 15-ig elektronikus úton az adókedvezményre jogosító igazolást kiállító szerv illetékes állami adóhatóságához kell teljesíteni.
+Az adókedvezményre jogosító igazolást kiállító szerv, ha olyan igazolást (bizonylatot) állít ki, amelynek alapján a magánszemély adókedvezmény (adómentesség) igénybevételére jogosult, a kedvezmény igénybevételére jogosító igazolás tartalmának közlésével adatot szolgáltat az adózónak kiadott igazolásról. Az adatszolgáltatást az adóévet követő év január 31-ig elektronikus úton az adókedvezményre jogosító igazolást kiállító szerv illetékes állami adóhatóságához kell teljesíteni.
 
 K) A nyomtatványt forgalmazó (alforgalmazó) adatszolgáltatása
 
-1. A nyomtatvány forgalmazó (alforgalmazó) az általa értékesített adóigazgatási azonosításra alkalmas számla-, nyugtatömbökről – jogszabály eltérő rendelkezésének hiányában – vevőnkénti részletezésben adatot szolgáltat.
+1. A nyomtatvány forgalmazó (alforgalmazó) az általa értékesített adóigazgatási azonosításra alkalmas számla-, nyugtatömbökről, szállítólevéltömbökről – jogszabály eltérő rendelkezésének hiányában – vevőnkénti részletezésben adatot szolgáltat.
 
 2. Az adatszolgáltatás tartalmazza:
 
-a) az értékesített nyomtatványok (számlatömbök, nyugtatömbök) megnevezését,
+a) az értékesített nyomtatványok (számlatömbök, nyugtatömbök, szállítólevéltömbök) megnevezését,
 
 b) a nyomtatvány sorszámát (tól–ig),
 
@@ -134,14 +148,10 @@ M) Soron kívüli adatszolgáltatás
 
 A jogutód nélkül megszűnő adózó, illetőleg a személyi jövedelemadóról szóló törvény szerint egyéni vállalkozónak minősülő magánszemély, ha e tevékenységét megszünteti, vagy hatósági engedélyét jogerősen visszavonják, az e törvényben, illetőleg adótörvényben vagy költségvetési támogatást megállapító jogszabályban megállapított adatszolgáltatási kötelezettségét az éves elszámolású adókról benyújtott soron kívüli bevallással egyidejűleg teljesíti.
 
-N) A cégbíróság adatszolgáltatása
-
-A cégbíróság január 31-ig adatot szolgáltat az állami adóhatóságnak, ha a megelőző évben az általa nyilvántartott cég(ek)ben valamely tag minősített többségi befolyást ért el, illetve a minősített többségi befolyás alatt álló cég tagjainak (részvényeseinek) tulajdonában lévő vagyoni betétek arányában változás következett be, vagy az egyedüli részvényes tag bejegyzésére került sor. A cégbíróság közli az adatszolgáltatással érintett időszak egészében vagy egy részében tagként (részvényesként) nyilvántartott valamennyi személy nevét, elnevezését, cégjegyzékszámát (amennyiben azzal rendelkezik), természetes azonosító adatait, illetve a tulajdonában lévő vagyoni betétek arányát, ennek valamennyi változását és az egyes vagyoni betétek megszerzésének időpontjait.
+N)
 
 O) Az önkormányzat jegyzőjének adatszolgáltatása
 
 A jegyző az ingatlanokat terhelő adókról szóló bevallás benyújtására nyitva álló határidő lejártát követő 45 napon belül az állami adóhatóságnak adatot szolgáltat az önkormányzat illetékességi területén, a korrigált forgalmi érték szerinti adóztatás esetén az 500 millió forint forgalmi értéket elérő ingatlannal, alapterület szerinti adóztatás esetén az 1000 m2-t elérő épülettel, illetve 10 000 m2-t elérő telekkel rendelkező külföldön bejegyzett szervezetek tagjairól (tulajdonosairól), illetve az egyes tagokat megillető részesedés arányáról a külföldi szervezetek ingatlanadó bevallásában feltüntetett adatok alapján.
 
-P) A Pénzügyi Szervezetek Állami Felügyeletének adatszolgáltatása
-
-A Felügyelet – a magán-nyugdíjpénztári tagdíjjal kapcsolatos ellenőrzési feladatok ellátása érdekében – a pénztárak központi nyilvántartásából havonta, a tárgyhónapot követő hónap utolsó napjáig elektronikus úton adatot szolgáltat az állami adóhatóság részére a magán-nyugdíjpénztári tag nevének és adóazonosító jelének, illetve a magán-nyugdíjpénztár azonosító kódjának feltüntetésével a tárgyhónapban az adott magán-nyugdíjpénztárnál a tagok magán-nyugdíjpénztári tagsági jogviszonyának kezdő időpontjáról, illetve a tagsági jogviszony megszűnésének napjáról, továbbá a tag társadalombiztosítási nyugdíjrendszerbe történő visszalépése napjáról.
+P)

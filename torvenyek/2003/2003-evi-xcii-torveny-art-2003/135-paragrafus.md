@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben foglalt, az adózó terhére történő módosítás korlátozása nem érvényesül, ha
 
-a) a bíróság a büntetőügyben hozott jogerős ítéletével megállapította, hogy az adózó adókötelezettsége teljesítésével összefüggésben csalást, adócsalást, illetve munkáltatással összefüggésben elkövetett adócsalást követett el,
+a) a bíróság a büntetőügyben hozott jogerős ítéletével megállapította, hogy az adózó adókötelezettsége teljesítésével összefüggésben csalást, költségvetési csalást, adócsalást, illetve munkáltatással összefüggésben elkövetett adócsalást követett el,
 
 b) a határozatot (végzést) hozó adóhatóság dolgozója a kötelességét a büntetőtörvénybe ütköző módon szegte meg úgy, hogy ez a határozat (végzés) meghozatalát befolyásolta, és ezt a bíróság büntetőügyben hozott jogerős ítélete megállapította,
 

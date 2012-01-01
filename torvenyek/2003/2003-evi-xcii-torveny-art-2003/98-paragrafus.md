@@ -10,7 +10,7 @@ d) az adózótól, képviselőjétől, alkalmazottjától felvilágosítást, m�
 
 e) tisztázhatja az adóköteles tevékenységben résztvevők személyazonosságát, részvételük jogcímét,
 
-f) próbavásárlást, leltárfelvételt végezhet,
+f) próbavásárlást, fel nem fedett próbavásárlást, leltárfelvételt végezhet,
 
 g) próbagyártást rendelhet el,
 

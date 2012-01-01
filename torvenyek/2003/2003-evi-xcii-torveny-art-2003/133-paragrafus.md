@@ -33,3 +33,5 @@ c) a kérelem teljesítése esetén a fizetési könnyítés időtartamára az e
 (8) Az adóhatóság a fizetési halasztást, részletfizetést engedélyező határozatában a kedvezményt feltételhez kötheti.
 
 (9) A határozat rendelkező részében fel kell hívni az adózó figyelmét arra, hogy ha a kedvezmény feltételeit vagy az esedékes részletek befizetését nem teljesíti, a kedvezmény érvényét veszti, és a tartozás járulékaival együtt egy összegben esedékessé válik.
+
+(10) Az általános forgalmi adóról szóló törvény szerinti csoportos adóalany számára a csoportos adóalanyiság időszakában fizetési könnyítés nem engedélyezhető.

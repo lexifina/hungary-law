@@ -4,7 +4,7 @@ A jövedelem-, nyereség- és vagyonadó, valamint a biztosítási díjakra kisz
 
 A jövedelem-, nyereség- és vagyonadó, valamint a biztosítási díjakra kiszabott adó fogalma az egyes tagállamokban
 
-I. Az e törvény 57. § (1) bekezdés b) pontjának és 60. § (1) bekezdés b) pontjának alkalmazásában a „jövedelem-, nyereség- és vagyonadó” kifejezés jelentése az Európai Közösség egyes tagállamaiban különösen a következő:
+I. Az e törvény 57. § (1) bekezdés b) pontjának alkalmazásában a „jövedelem-, nyereség- és vagyonadó” kifejezés jelentése az Európai Közösség egyes tagállamaiban különösen a következő:
 
 1. a Belga Királyság esetében: Impôt des personnes physiques/Personenbelasting, Impôt des sociétés/Vennootschapsbelasting, Impôt des personnes morales/Rechtspersonenbelasting Impôt des non-résidents/Belasting der niet-verblijfhouders;
 
@@ -62,7 +62,7 @@ daň z nehnuteľností, daň z pridanej hodnoty, spotrebné dane;
 
 26. a Szlovén Köztársaság esetében: Dohodnina Davki občanov, Davek od dobička pravnih oseb, Posebni davek na bilančno vsoto bank in hranilnic.
 
-II. Az e törvény 57. § (1) bekezdés d) pontjában és a 60. § (1) bekezdés d) pontjában a „biztosítási díjakra kiszabott adó” kifejezés jelentése az Európai Közösség egyes tagállamaiban különösen a következő:
+II. Az e törvény 57. § (1) bekezdés d) pontjában a „biztosítási díjakra kiszabott adó” kifejezés jelentése az Európai Közösség egyes tagállamaiban különösen a következő:
 
 1. a Belga Királyság esetében: taxe annuelle sur les contrats d’assurance, jaarlijkse taks op de verzekeringscontracten;
 
@@ -89,15 +89,3 @@ II. Az e törvény 57. § (1) bekezdés d) pontjában és a 60. § (1) bekezdés
 12. Írország esetében: levy on insurance premiums;
 
 13. a Lengyel Köztársaság esetében: -;
-
-14. a Lett Köztársaság esetében: -;
-
-15. a Litván Köztársaság esetében: -;
-
-16. a Luxemburgi Nagyhercegség esetében: impôt sur les assurances, impôt dans l’intérêt du service d’incendie;
-
-17. a Máltai Köztársaság esetében: taxxa fuq dokumenti u trasferimenti;
-
-18. a Németországi Szövetségi Köztársaság esetében: Versicherungssteuer, Feuerschutzsteuer;
-
-19. az Olasz Köztársaság esetében: imposte sulle assicurazioni private ed i contratti vitalizi di cui alla legge 1967.10.29. no 1216;

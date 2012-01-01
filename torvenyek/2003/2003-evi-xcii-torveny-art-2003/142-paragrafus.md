@@ -4,12 +4,12 @@
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni
 
-a) a bíróság jogerős ítéletében megállapított adócsalás, munkáltatással összefüggésben elkövetett adócsalás, illetve az adókötelezettség teljesítésével összefüggésben elkövetett csalás,
+a) a bíróság jogerős ítéletében megállapított költségvetési csalás, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, illetve az adókötelezettség teljesítésével összefüggésben elkövetett csalás,
 
 b) a bíróság által elrendelt új eljárás,
 
 c) ha az ellenőrzést az adópolitikáért felelős miniszter vagy az Állami Számvevőszék elnöke – helyi adó esetében az önkormányzati képviselő-testület határozata – rendelte el,
 
-d) ha az adóhatóság az ellenőrzést a társadalombiztosítási igazgatási szerv megkeresésének teljesítése érdekében, illetőleg a magánnyugdíjpénztár megkeresésére soron kívül folytatja le, és az ismételt ellenőrzés eredménye ellátási jogosultságot teremt,
+d) ha az adóhatóság az ellenőrzést a társadalombiztosítási igazgatási szerv megkeresésének teljesítése érdekében soron kívül folytatja le, és az ismételt ellenőrzés eredménye ellátási jogosultságot teremt,
 
 e) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi ellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adó- és vámhatóság vezetője utasítást ad.

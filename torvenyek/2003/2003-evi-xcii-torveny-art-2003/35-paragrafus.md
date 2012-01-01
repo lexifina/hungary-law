@@ -10,7 +10,7 @@ b) a megajándékozott, az adózó által az adókötelezettsége keletkezését
 
 c) az adózó jogutódja,
 
-d) a 36. §-ban említett kezességet vállaló és az adótartozást átvállaló a jóváhagyott szerződésben foglalt adó tekintetében,
+d) a 36. §-ban említett kezességet vállaló és az adótartozást átvállaló a jóváhagyott szerződésben foglalt adó tekintetében, valamint akinek a meg nem fizetett adóért való kezességét külön törvény írja elő,
 
 e) az adóbevétel csökkentésével kapcsolatos bűncselekmény elkövetője az azzal összefüggő adó tekintetében,
 
@@ -28,6 +28,6 @@ i) a szülői felügyelet alatt álló kiskorú gyermek adótartozásáért – 
 
 (5) A külföldi vállalkozást közvetlenül, illetve – belföldi fióktelepén keresztül – közvetve terhelő valamennyi adótartozás, illetve e törvény hatálya alá tartozó köztartozás megfizetésére egyetemlegesség címén a fióktelep is kötelezhető határozattal.
 
-(6) Ha az adóhatóság utólag megállapítja, hogy az e törvény 20/A. §-a szerinti START, START PLUSZ, vagy START EXTRA kártya igényléséhez kapcsolódó – külön jogszabályban előírt – nyilatkozattételi kötelezettségét az igénylő rosszhiszeműen, valótlan adatok feltüntetésével teljesítette, az így megszerzett kártya felhasználása esetén az adóhatóság a foglalkoztatót megillető kedvezményes mértékű járulék, valamint az általános szabályok szerint kedvezmény nélkül megállapított járulékok közötti különbözet összegének megfizetésére a kártya tulajdonosát (felhasználóját) határozattal kötelezi.
+(6) Ha az adóhatóság utólag megállapítja, hogy az e törvény 20/A. §-a szerinti START, START PLUSZ, START EXTRA vagy START BÓNUSZ kártya igényléséhez kapcsolódó – külön jogszabályban előírt – nyilatkozattételi kötelezettségét az igénylő rosszhiszeműen, valótlan adatok feltüntetésével teljesítette, az így megszerzett kártya felhasználása esetén az adóhatóság a foglalkoztatót megillető kedvezményes mértékű szociális hozzájárulási adó, valamint az általános szabályok szerint kedvezmény nélkül megállapított szociális hozzájárulási adó közötti különbözet összegének megfizetésére a kártya tulajdonosát (felhasználóját) határozattal kötelezi.
 
 (7)

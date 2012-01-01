@@ -1,9 +1,7 @@
-## A behajtás iránti megkeresés
+64. § (1) A magyar megkeresett hatóság (állami adó- és vámhatóság) a végrehajtást engedélyező egységes okiratban foglalt követelést (e § alkalmazásában: követelés) forintban hajtja be.
 
-64. § (1) A kapcsolattartó közigazgatási szerv az illetékes külföldi hatóság megkeresésére a belföldi jogszabályok alapján intézkedik a külföldi hatóság által csatolt végrehajtható okiratban foglalt követelés végrehajtása iránt.
+(2) A magyar megkeresett hatóság a megkeresés beérkezése napjától a követelés fedezetét biztosító végrehajtási cselekmény foganatosításának napjáig, illetve a követelés megfizetésének napjáig az e törvényben meghatározott mértékű késedelmi pótlékot számít fel. A késedelmi pótlék felszámítására a nettó pótlékszámítás szabályai nem alkalmazhatók.
 
-(2) A kapcsolattartó közigazgatási szerv haladéktalanul értesíti a megkereső hatóságot a behajtást érintő körülmények változásáról.
+(3) A követelés megfizetésére a magyar megkeresett hatóság (állami adó- és vámhatóság) az e törvény fizetési könnyítésre vonatkozó rendelkezései szerint a kötelezett személy részére fizetési könnyítést engedélyezhet. A fizetési könnyítéssel kapcsolatos döntésről a magyar megkeresett hatóság a megkereső hatóságot is értesíti.
 
-(3) A kapcsolattartó közigazgatási szerv megkeresése alapján az adóhatóság a megkereséshez csatolt végrehajtható okirat alapján a végrehajtást és a biztosítási intézkedés foganatosítását végzéssel rendeli el.
-
-(4) A behajtási jogsegély keretében beszedett összeg kizárólag a behajtás iránti megkeresésben megjelölt tartozásra számolható el.
+(4) A magyar megkeresett hatóság a követelés és a (2)–(3) bekezdések alapján felszámított késedelmi pótlék végrehajtási eljárásban érvényesített összegét átutalja a megkereső hatóság részére.

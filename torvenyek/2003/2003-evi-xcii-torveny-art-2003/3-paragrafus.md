@@ -1,6 +1,6 @@
 ## A törvény hatálya
 
-3. § (1) A Magyar Köztársaság területén
+3. § (1) Magyarország területén
 
 a) székhellyel, telephellyel rendelkező vagy egyébként gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató jogi személy,
 

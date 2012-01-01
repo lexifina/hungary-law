@@ -14,4 +14,6 @@ d) felülellenőrzés keretében.
 
 (3) Az (1) bekezdés a)–c) pontjában meghatározott ismételt ellenőrzést az elsőfokú adóhatóság folytatja le.
 
-(4) Az ismételt ellenőrzés eredményeként feltárt tényállás alapján adóhatósági határozat nem hozható, ha a korábbi ellenőrzés eredményeként hozott adóhatósági határozatot bíróság felülvizsgálta.
+(4) Nincs helye ismételt ellenőrzés lefolytatásának, ha a korábbi ellenőrzés eredményeként hozott adóhatósági határozatot bíróság felülvizsgálta.
+
+(5) A bizonytalan adójogi helyzet jogszerű bejelentése hatálya alá tartozó adómegállapítási időszakra vonatkozó adóbevallás utólagos ellenőrzésével lezárt időszak ismételt ellenőrzésére a bejelentés tárgyát képező adó tekintetében az (1) bekezdés c) pontja alapján csak akkor kerülhet sor, ha az ellátás jogosultja az adózótól eltérő személy (ide nem értve az adózó jogutódját), továbbá felülellenőrzésére csak az Állami Számvevőszék elnökének elrendelése alapján, vagy akkor van lehetőség, ha az adóhatóság az adó megállapítását befolyásoló olyan új tényről, adatról, bizonyítékról szerzett tudomást, amely a korábbi ellenőrzéskor nem volt ismert.

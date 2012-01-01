@@ -1,4 +1,4 @@
-158. § (1) Zálogjoggal terhelt ingó vagy ingatlan lefoglalása esetén a zálogjogosultat a Vht. 114. §-ában, illetőleg 140. §-ának (6) bekezdésében foglaltak szerint kell értesíteni. A 154. § szerint lefoglalt gépjármű esetében az adóhatóság a törzskönyv lefoglalását követő 6 hónap elteltét követően hívja fel a zálogjogosultat a végrehajtásba történő bekapcsolódásra.
+158. § (1) Zálogjoggal terhelt ingó vagy ingatlan lefoglalása esetén a zálogjogosultat a Vht. 114. §-ában, illetőleg 140. §-ának (6) bekezdésében foglaltak szerint kell értesíteni. A 154. § szerint lefoglalt gépjármű esetében az adóhatóság a gépjármű lefoglalását követő 6 hónap elteltét követően hívja fel a zálogjogosultat a végrehajtásba történő bekapcsolódásra.
 
 (2) A bíróság a kérelmet elbíráló végzést megküldi az adóhatóságnak. A kérelem elbírálása során az adóssal szemben folyamatban lévő végrehajtási ügyön az adóhatóság által a zálogjoggal terhelt vagyontárgyra folytatott végrehajtási eljárást kell érteni.
 

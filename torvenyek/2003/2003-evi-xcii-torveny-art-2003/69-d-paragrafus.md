@@ -1,0 +1,11 @@
+69/D. § (1) A behajtási jogsegély teljesítése során a magyar megkeresett hatóság által közölt, továbbított vagy szerzett információ adótitoknak minősül.
+
+(2) Az (1) bekezdés szerinti információkat a magyar megkeresett hatóság (állami adó- és vámhatóság) és más magyar közigazgatási hatóság kizárólag a 62. § (1)–(2) bekezdésekben meghatározott követelések végrehajtása, az ilyen követelésekkel kapcsolatos biztosítási intézkedések, valamint a társadalombiztosítási járulékok megállapításához és végrehajtásához használhatja fel. E rendelkezéstől eltérni és az információt más célra felhasználni kizárólag az információt szolgáltató tagállam kifejezett írásbeli engedélyével lehet.
+
+(3) Az (1) bekezdés szerinti információkat a magyar megkeresett hatóság (állami adó- és vámhatóság) és más magyar közigazgatási hatóság eljárása során a hasonló információra magyar jogszabályok szerint vonatkozó rendelkezéseknek megfelelően használhatja fel bizonyítékként.
+
+(4) A megkereső vagy megkeresett hatóság tagállamától eltérő tagállam illetékes hatósága (harmadik fél) részére a magyar megkeresett hatóság a behajtási jogsegély teljesítése során szerzett információt akkor továbbíthatja, ha megítélése szerint az információ a harmadik félnek a (2) bekezdésben meghatározott célból hasznos lehet, és az információt szolgáltató megkeresett vagy megkereső hatóság az információ továbbítását nem ellenezte. A magyar megkeresett hatóság az információ továbbítását megelőzően tájékoztatja az információt szolgáltató megkereső vagy megkeresett hatóságot az információ szolgáltatásának szándékáról, e hatóság a tájékoztatás beérkezésétől számított tíz munkanapon belül megküldött nyilatkozatában ellenezheti az információ továbbítását.
+
+(5) A magyar megkeresett hatóság információt szolgáltató hatóságként akkor ellenzi az információ harmadik félnek való továbbítását, ha az nincs összhangban a behajtási jogsegély rendelkezéseivel. E bekezdés és a (4) bekezdés alkalmazásában információt szolgáltató megkeresett vagy megkereső hatóság az a hatóság, amelytől az információ eredetileg származik.
+
+(6) Az (1) bekezdés szerinti információt kizárólag a CCN működtetéséhez és fejlesztéséhez szükséges mértékben lehet az Európai Bizottság Bizottsági Akkreditációs Hatósága által megfelelően akkreditált személy rendelkezésére bocsátani.

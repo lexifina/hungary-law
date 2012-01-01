@@ -1,16 +1,16 @@
 ## A változás bejelentése
 
-23. § (1) Az adózónak az adókötelezettségét érintő olyan változást – a megváltozott természetes személyazonosító adatok, lakcím és a 22. § (2) bekezdésében foglaltak kivételével –, amelyről a cégbíróság, illetve az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság külön jogszabály alapján az adóhatóságot nem köteles értesíteni, annak bekövetkezésétől számított 15 napon belül az előírt nyomtatványon közvetlenül az állami és az önkormányzati adóhatóságnak kell bejelentenie.
+23. § (1) Az adózónak az adókötelezettségét érintő olyan változást – a megváltozott természetes személyazonosító adatok, lakcím és a 22. § (2) bekezdésében foglaltak kivételével –, amelyről a cégbíróság, illetve az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság külön jogszabály alapján az adóhatóságot nem köteles értesíteni, annak bekövetkezésétől számított 15 napon belül az előírt nyomtatványon közvetlenül az állami adó- és vámhatóságnak, illetve az önkormányzati adóhatóságnak kell bejelentenie.
 
-(2) Az adókötelezettséget érintő változás különösen a 16. § (3) bekezdésében felsorolt adatok változása, továbbá a cégbejegyzésre nem kötelezett adózó végelszámolása kezdetének és befejezésének időpontja, az adóköteles tevékenység vagy a jogi személy, egyéb szervezet megszűnése is. A cég létesítő okiratában nem szereplő, de ténylegesen végzett tevékenység esetén a tevékenység megkezdését, illetve a bejelentett vagy bejelenteni elmulasztott tevékenység megszűnését követő 15 napon belül tesz bejelentést.
+(2) Az adókötelezettséget érintő változás különösen a 16. § (3) bekezdésében és 22/C. §-ában felsorolt adatok változása, továbbá a cégbejegyzésre nem kötelezett adózó végelszámolása kezdetének és befejezésének időpontja, cégbejegyzésre nem kötelezett jogi személy, egyéb szervezet végelszámolás nélküli megszűnése esetén a jogutód nélküli megszűnésről szóló döntés, az egyszerűsített végelszámolás megindulásáról, valamint annak megszüntetéséről és a cég működésének továbbfolytatásáról a Cégközlönyben megjelentetett közlemény adatai, az adóköteles tevékenység vagy a jogi személy, egyéb szervezet megszűnése is. A cég létesítő okiratában nem szereplő, de ténylegesen végzett tevékenység esetén a tevékenység megkezdését, illetve a bejelentett vagy bejelenteni elmulasztott tevékenység megszűnését követő 15 napon belül tesz bejelentést.
 
 (3) Akit törvényben meghatározott értékhatár elérése esetén terhel adókötelezettség, a bejelentést az értékhatár elérését követő 15 napon belül kell megtennie az adóhatósághoz.
 
-(4) Az adózó az adókötelezettséget érintő változás szabályai szerint jelenti be az állami adóhatósághoz,
+(4) Az adózó az adókötelezettséget érintő változás szabályai szerint jelenti be az állami adóhatósághoz
 
-a)
+a) a tényleges üzletvezetés helye áthelyezésének időpontját és az érintett másik államot, ha a tényleges üzletvezetésének helyét Magyarország területéről másik állam területére helyezi át,
 
-b) a kapcsolt vállalkozásnak minősülő másik személy nevét (elnevezését), székhelyét (telephelyét) és adóazonosító számát az első szerződéskötésüket követő 15 napon belül.
+b) a kapcsolt vállalkozásnak minősülő másik személy nevét (elnevezését), székhelyét (telephelyét) és adóazonosító számát az első szerződéskötésüket követő 15 napon belül, valamint a kapcsolt vállalkozási viszony megszűnését a megszűnést követő 15 napon belül.
 
 (5) Ha a 17. § (1) bekezdésének a)–b) pontjában említett adózó adataiban bekövetkezett változás az adózó adószámának megváltozását eredményezi, az állami adóhatóság a megváltozott adószámról az adózóval egyidejűleg értesíti a cégbíróságot, illetve az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóságot és az egyéni vállalkozók nyilvántartását vezető szervet.
 

@@ -1,6 +1,24 @@
 ## Elévülés
 
-164. § (1) Az adó megállapításához való jog annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amelyben az adóról bevallást, bejelentést kellett volna tenni, illetve bevallás, bejelentés hiányában az adót meg kellett volna fizetni. A költségvetési támogatás igényléséhez, a túlfizetés visszaigényléséhez való jog – ha törvény másként nem rendelkezik – annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amelyben az annak igényléséhez való jog megnyílt. Az elévülés hat hónappal meghosszabbodik, ha az adóbevallás késedelmes benyújtásakor, illetve a költségvetési támogatás igénylésekor az adómegállapításhoz, illetőleg a költségvetési támogatás igényléséhez való jog elévüléséig kevesebb, mint hat hónap van hátra. A bíróság által jogerősen megállapított adócsalás (Btk. 310. §), munkáltatással összefüggésben elkövetett adócsalás (Btk. 310/A. §), a társadalombiztosítási, egészségbiztosítási vagy nyugdíjjárulék fizetési kötelezettség megsértése (Btk. 310/B. §), csalás (Btk. 318. §), illetve jogosulatlan gazdasági előny megszerzése (Btk. 288. §) esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik el – ideértve azt az esetet is, ha az elkövető azért nem büntethető, mert tartozását [Btk. 310. § (6) bekezdés, 310/A. § (6) bekezdés] a vádirat benyújtásáig az adóhatóság által megjelölt számlára kiegyenlítette és ezért az eljárást vele szemben ez okból megszüntették, továbbá ha az eljárást az elkövetővel szemben a Btk. 71. §-ában meghatározott megrovás alkalmazásával szüntették meg –, az adó megállapításához való jog nem évül el mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
+164. § (1) Az adó megállapításához való jog annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amelyben az adóról bevallást, bejelentést kellett volna tenni, illetve bevallás, bejelentés hiányában az adót meg kellett volna fizetni. A költségvetési támogatás igényléséhez, a túlfizetés visszaigényléséhez való jog – ha törvény másként nem rendelkezik – annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amelyben az annak igényléséhez való jog megnyílt. Az elévülés hat hónappal meghosszabbodik, ha az adóbevallás késedelmes benyújtásakor, illetve a költségvetési támogatás igénylésekor az adómegállapításhoz, illetve a költségvetési támogatás igényléséhez való jog elévüléséig kevesebb mint hat hónap van hátra.
+
+(1a) A bíróság által jogerősen megállapított
+
+a) költségvetési csalás (Btk. 310. §),
+
+b) csalás (Btk. 318. §),
+
+c) a 2011. december 31-ig hatályban volt jogosulatlan gazdasági előny megszerzése, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, vagy
+
+d) a 2005. szeptember 1-jéig hatályban volt társadalombiztosítási, egészségbiztosítási vagy nyugdíjjárulék fizetési kötelezettség megsértése
+
+esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik el, az adó megállapításához való jog nem évül el mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
+
+(1b) Az (1a) bekezdésben foglaltakat kell alkalmazni akkor is, ha
+
+a) az elkövető azért nem büntethető, vagy büntetése korlátlanul enyhíthető, mert tartozását a vádirat benyújtásáig az adóhatóság által megjelölt számlára kiegyenlítette, és vele szemben az eljárást ez okból megszüntették, vagy
+
+b) az eljárást az elkövetővel szemben a Btk. 71. §-ában meghatározott megrovás alkalmazásával szüntették meg.
 
 (2) Az önellenőrzés bevallása – ha az adókülönbözet az adózó javára mutatkozik – az (1) bekezdésben meghatározott elévülést megszakítja.
 
@@ -14,7 +32,7 @@
 
 (7) Nyugszik az elévülés a végrehajtási eljárás felfüggesztésének és szünetelésének, az adózó vagyonának egészére elrendelt bűnügyi zárlatnak, továbbá törvényben biztosított fizetési kedvezménynek vagy feltételhez kötött adómentességnek az időtartama alatt. A jelzálogjog bejegyzése az elévülés nyugvása szempontjából a végrehajtási eljárás felfüggesztésével esik egy tekintet alá.
 
-(8) Ha jogszabály másként nem rendelkezik, az adók módjára behajtandó köztartozás végrehajtásához való jog elévülésére a (6) bekezdésben foglaltakat kell alkalmazni.
+(8) Ha jogszabály másként nem rendelkezik, az adók módjára behajtandó köztartozás végrehajtásához való jog elévülésére (6)–(7) bekezdésben foglaltakat kell alkalmazni.
 
 (9) Ha az adóhatóság az adót megállapító határozat vagy a végrehajtás során hozott végzés kézbesítése tekintetében ad helyt a vélelem megdöntése iránti kérelemnek, nyugszik az adómegállapításhoz, illetve a végrehajtáshoz való jog elévülése a kézbesítési vélelem beálltától az annak megdöntésére irányuló kérelemnek helyt adó végzés jogerőre emelkedéséig.
 
@@ -24,4 +42,12 @@
 
 (12) Amennyiben hagyatéki eljárás lefolytatására kerül sor, úgy az adó megállapításához, az adótartozás végrehajtásához és a költségvetési támogatás igényléséhez való jog elévülése az adózó halálának napjától a hagyatéki eljárást lezáró döntés jogerőre emelkedésének időpontjáig nyugszik.
 
-(13) Az adó megállapításához való jog elévülése 6 hónappal meghosszabbodik, ha a felettes adóhatóság illetve az adópolitikáért felelős miniszter felügyeleti intézkedés keretében megállapítja, hogy a felülvizsgált döntés súlyosításának lenne helye, és ezért új eljárás lefolytatását rendeli el.
+(13) Az adó megállapításához való jog elévülése 6 hónappal meghosszabbodik,
+
+a) egy alkalommal, ha a felettes adóhatóság a másodfokú eljárás keretében, vagy
+
+b) a felettes adóhatóság, az adópolitikáért felelős miniszter vagy a NAV felügyeletére kijelölt miniszter felügyeleti intézkedés keretében, illetve
+
+c) az adóhatósági határozat bírósági felülvizsgálata során a bíróság
+
+új eljárás lefolytatását rendeli el.

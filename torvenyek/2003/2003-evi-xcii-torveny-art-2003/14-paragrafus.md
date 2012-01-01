@@ -26,7 +26,7 @@ i) pénzforgalmi számlanyitásra
 
 (3) A költségvetési támogatásra az adózó csak azt követően jogosult, ha eleget tesz a támogatással kapcsolatos bejelentési vagy bevallási, nyilatkozattételi, illetőleg megállapítási kötelezettségének.
 
-(4) Az adózó (1) bekezdésben említett kötelezettségeit a felszámoló a felszámolás kezdő időpontjától teljesíti, továbbá gyakorolja az adózót megillető jogokat. A felszámoló (felszámolóbiztos) által a felszámolás kezdő időpontjától elkövetett jogsértés miatt megállapított mulasztási bírság a felszámolót terheli azzal, hogy a mulasztási bírság alól történő mentesülésre az állandó meghatalmazottra, megbízottra vonatkozó rendelkezést kell megfelelően alkalmazni.
+(4) Az adózó (1) bekezdésben meghatározott kötelezettségeit felszámolás esetén a felszámolás kezdő időpontjától a felszámoló, végelszámolás esetén a végelszámolás kezdő időpontjától a végelszámoló teljesíti, továbbá gyakorolja az adózót megillető jogokat. A felszámoló, illetve a végelszámoló által elkövetett jogsértés miatt a mulasztási bírságot felszámolás esetén a felszámolóval, végelszámolás esetén a végelszámolóval szemben kell megállapítani, azzal, hogy akkor mentesül a mulasztási bírság alól, ha bizonyítja, hogy a jogsértés az ő érdekkörén kívül eső okra vezethető vissza.
 
 (5) A kockázati tőkealap adókötelezettségeit az alap kezelője teljesíti, és gyakorolja az adózót megillető jogokat is.
 

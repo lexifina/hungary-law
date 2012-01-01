@@ -1,5 +1,5 @@
-## Költségek
+## Egyéb közös rendelkezések
 
-69. § (1) A behajtási jogsegéllyel kapcsolatban felmerült valamennyi költség – a megalapozatlan megkeresés eredményeként induló eljárással összefüggésben felmerülő költséget kivéve – az adóhatóságot terheli, amennyiben a végrehajtás költségét nem tudja a fizetésre kötelezettre hárítani.
+69. § (1) Az elévülési idő számítására a megkereső tagállam jogát kell alkalmazni.
 
-(2) Amennyiben a végrehajtás nehézségbe ütközik, különösen, ha a tartozás nagy összegű vagy a szervezett bűnözéssel összefüggésben keletkezett, a kapcsolattartó közigazgatási szerv megállapodhat a megkereső hatósággal a végrehajtással kapcsolatban felmerült költségek megtérítéséről.
+(2) A megkereső hatóság és a magyar megkeresett hatóság tájékoztatja egymást a behajtás iránti vagy biztosítási intézkedésre irányuló megkereséssel érintett követeléssel kapcsolatos elévülési időt megszakító, felfüggesztő, meghosszabbító jogi tényekről (intézkedésekről).

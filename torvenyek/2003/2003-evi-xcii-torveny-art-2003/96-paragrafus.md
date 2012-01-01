@@ -1,5 +1,7 @@
-96. § (1) Az adóhatóság mellőzheti az adózó előzetes értesítését, ha fennáll a veszélye annak, hogy a vizsgálat alá vont bizonylatokat, könyveket, nyilvántartásokat, egyéb iratokat megsemmisítik, vagy az üzleti tevékenység körülményeit megváltoztatják.
+96. § (1) Az adóhatóság mellőzheti az adózó részére a megbízólevél kézbesítését, ha fennáll a veszélye annak, hogy a vizsgálat alá vont bizonylatokat, könyveket, nyilvántartásokat, adózással összefüggő elektronikus adatokat, információkat, egyéb iratokat megsemmisítik, vagy az üzleti tevékenység körülményeit megváltoztatják.
 
 (2) Az (1) bekezdésben foglalt esetben a helyszínen talált körülményeket jegyzőkönyvben kell rögzíteni, illetve a bizonylatokat, könyveket, nyilvántartásokat és egyéb iratokat átvételi elismervény ellenében, szükség szerint másolat hátrahagyásával be kell vonni. Az átvételi elismervényen a bevont iratokat az azonosításukra alkalmas módon kell feltüntetni.
 
 (3) Az iratok a hivatali helyiségben történő tanulmányozás végett más esetben is bevonhatók, ilyen esetekben azok 60 napon túl csak az adóhatóság vezetőjének engedélyével és az adózó egyidejű értesítésével tarthatók az adóhatóságnál.
+
+(4) Amennyiben a helyszínen pénztárgéppel történő visszaélés tapasztalható, és a tényállás másként nem tisztázható, a pénztárgép vizsgálat céljából átvételi elismervény ellenében legfeljebb 10 napra bevonható. A bevonás időszaka alatt adózó a nyugta kibocsátási kötelezettségét, amennyiben a külön jogszabályban meghatározottak szerint adóigazgatási azonosításra alkalmas nyugta adására szolgáló másik pénztárgéppel is rendelkezik, annak alkalmazásával, pénztárgép hiányában kézi úton előállított nyugtával teljesíti.

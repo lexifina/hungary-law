@@ -2,7 +2,7 @@
 
 Adatszolgáltatás a kamatjövedelemről
 
-1. A kifizető az adóévet követő év március 20-ig elektronikus úton az állami adóhatósághoz adatot szolgáltat
+1. A kifizető az adóévet követő év január 31-ig elektronikus úton az állami adóhatósághoz adatot szolgáltat
 
 a) saját cégnevéről (elnevezéséről), székhelyéről (telephelyéről),
 
@@ -16,13 +16,13 @@ da) a 4. a) pontban meghatározott kifizetett vagy jóváírt kamat esetén a ka
 
 db) a 4. b) és d) pontban meghatározott kamat esetében a kamatjövedelem összegéről, ha ez nem állapítható meg, akkor a jövedelem teljes összegéről, ennek hiányában az átruházásból, beváltásból vagy visszavásárlásból származó bevétel összegéről,
 
-dc) a 4. c) pont esetén a tőkepiacról szóló 2001. évi CXX. törvényben (Tpt.) meghatározott európai befektetési alap (európai befektetési alap), a 3. pont szerinti igazolás alapján európai befektetési alapnak minősülő szervezet vagy az Európai Közösségen kívüli kollektív befektetési forma által közvetlenül, vagy a 3. pontban meghatározott szervezeten keresztül közvetve juttatott kamatjövedelem összegéről,
+dc) a 4. c) pont esetén a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi ???. törvényben (Batv.) meghatározott ÁÉKBV, a 3. pont szerinti igazolás alapján ÁÉKBV-nek minősülő szervezet vagy az Európai Közösségen kívüli kollektív befektetési forma által közvetlenül, vagy a 3. pontban meghatározott szervezeten keresztül közvetve juttatott kamatjövedelem összegéről,
 
 dd) az 5. pont szerinti kamatjövedelem esetén a 3. pontban meghatározott szervezet azon tagjaihoz rendelhető kamat összegéről, amely tagok más tagállamban bírnak illetőséggel és haszonhúzónak minősülnek.
 
 2. E melléklet alkalmazásában kifizető az a gazdasági tevékenységet folytató jogi személy, jogi személyiség nélküli gazdasági társaság vagy egyéb szervezet, amely az Európai Közösség más tagállamában illetőséggel bíró haszonhúzónak közvetlenül kamatot fizet vagy jóváír.
 
-3. Adatszolgáltatásra kötelezett továbbá az a gazdasági tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező egyéb szervezet, amely bármely más közösségi tagállamban illetőséggel bíró szervezet útján a szervezet haszonhúzónak minősülő tagjainak juttat kamatjövedelmet. Az adatszolgáltatásra kötelezett az adóévet követő év március 20-ig elektronikus úton közli az állami adóhatósággal a szervezet nevét, címét és a részére kifizetett kamat összegét, kivéve, ha az hitelt érdemlően igazolja, hogy jogi személy, vagy az illetősége szerinti tagállamban a társasági adó alanya vagy európai befektetési alapként működik, illetve az illetősége szerinti tagállam hatósága által kiállított igazolás alapján ilyen alapnak minősül. E pont alkalmazásában nem minősül jogi személynek
+3. Adatszolgáltatásra kötelezett továbbá az a gazdasági tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező egyéb szervezet, amely bármely más közösségi tagállamban illetőséggel bíró szervezet útján a szervezet haszonhúzónak minősülő tagjainak juttat kamatjövedelmet. Az adatszolgáltatásra kötelezett az adóévet követő év március 20-ig elektronikus úton közli az állami adóhatósággal a szervezet nevét, címét és a részére kifizetett kamat összegét, kivéve, ha az hitelt érdemlően igazolja, hogy jogi személy, vagy az illetősége szerinti tagállamban a társasági adó alanya vagy ÁÉKBV-ként működik, illetve az illetősége szerinti tagállam hatósága által kiállított igazolás alapján ilyen alapnak minősül. E pont alkalmazásában nem minősül jogi személynek
 
 a) Finnországban: avion yhtiö (Ay) és kommandiittiyhtiö (Ky), valamint öppet bolag és kommanditbolag, illetőleg
 
@@ -34,9 +34,9 @@ a) bármely követeléshez kapcsolódó jóváírt vagy kifizetett kamat – kü
 
 b) az a) pontban meghatározott követelés átruházásakor, beváltásakor vagy visszavásárlásakor felhalmozódott vagy tőkésített kamat,
 
-c) az európai befektetési alap, a 3. pont szerinti igazolás alapján európai befektetési alapnak minősülő szervezet, és az Európai Közösségen kívüli kollektív befektetési forma által közvetlenül, vagy a 3. pontban meghatározott szervezeten keresztül közvetve teljesített kamatkifizetés,
+c) az ÁÉKBV, a 3. pont szerinti igazolás alapján ÁÉKBV-nek minősülő szervezet, és az Európai Közösségen kívüli kollektív befektetési forma által közvetlenül, vagy a 3. pontban meghatározott szervezeten keresztül közvetve teljesített kamatkifizetés,
 
-d) az európai befektetési alap, a 3. pont szerinti igazolás alapján európai befektetési alapnak minősülő szervezet vagy az Európai Közösségen kívüli kollektív befektetési forma részesedésének átruházásából, beváltásából vagy visszavásárlásából származó jövedelem, feltéve, ha ezen szervezetek közvetlenül vagy közvetetten európai befektetési alapon, ilyennek minősülő szervezeten, vagy Európai Közösségen kívüli kollektív befektetési formán keresztül vagyonuk (eszközeik) több mint 40%-át az a) pontban meghatározott követelésekbe fektetik; ennek a jövedelemnek azon része minősül kamatjövedelemnek, amely megfelel az a) vagy b) pont szerinti közvetlen vagy közvetett úton szerzett kamatnak.
+d) az ÁÉKBV, a 3. pont szerinti igazolás alapján ÁÉKBV-nek minősülő szervezet vagy az Európai Közösségen kívüli kollektív befektetési forma részesedésének átruházásából, beváltásából vagy visszavásárlásából származó jövedelem, feltéve, ha ezen szervezetek közvetlenül vagy közvetetten ÁÉKBV-n, ilyennek minősülő szervezeten, vagy Európai Közösségen kívüli kollektív befektetési formán keresztül vagyonuk (eszközeik) több mint 40%-át az a) pontban meghatározott követelésekbe fektetik; ennek a jövedelemnek azon része minősül kamatjövedelemnek, amely megfelel az a) vagy b) pont szerinti közvetlen vagy közvetett úton szerzett kamatnak.
 
 5. Kamatjövedelemnek minősül az az összeg is, amelyet a 3. pont szerinti adatszolgáltatásra kötelezett a 3. pontban meghatározott szervezetnek juttat.
 
@@ -52,7 +52,7 @@ d) az európai befektetési alap, a 3. pont szerinti igazolás alapján európai
 
 a) kifizetőként jár el,
 
-b) jogi személy, az illetősége szerinti tagállam joga alapján a társasági adó alanya, európai befektetési alapnak minősülő szervezet, vagy a 3. pontban meghatározott szervezet képviseletében jár el, feltéve, ha ez utóbbi esetben közli a részére kamatot juttató vagy jóváíró személlyel ezen szervezet nevét, címét és erről a kamatot juttató vagy jóváíró személy (adatszolgáltatásra kötelezett) adatot szolgáltat az állami adóhatóságnak,
+b) jogi személy, az illetősége szerinti tagállam joga alapján a társasági adó alanya, ÁÉKBV-nek minősülő szervezet, vagy a 3. pontban meghatározott szervezet képviseletében jár el, feltéve, ha ez utóbbi esetben közli a részére kamatot juttató vagy jóváíró személlyel ezen szervezet nevét, címét és erről a kamatot juttató vagy jóváíró személy (adatszolgáltatásra kötelezett) adatot szolgáltat az állami adóhatóságnak,
 
 c) a haszonhúzó képviseletében jár el és annak nevéről és címéről a kifizető részére adatot szolgáltat.
 

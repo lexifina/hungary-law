@@ -18,4 +18,8 @@ b) az adó-visszaigénylés és az adó-visszatérítés tekintetében a költs�
 
 vonatkozó rendelkezéseket kell alkalmazni.
 
-(4) E törvény hatálya nem terjed ki a társadalombiztosítási ellátásokra, valamint a közösségi vámjog végrehajtásáról szóló törvény hatálya alá tartozó kötelező befizetésekre (adó, illeték, díj, hozzájárulás, költség, bírság, kamat), ha azok megállapítása, beszedése, végrehajtása, visszatérítése, kiutalása vagy ellenőrzése a vámhatóság hatáskörébe tartozik. A vámtartozásra e törvényt az adóhatóság által a költségvetési támogatás vonatkozásában gyakorolható visszatartási jog tekintetében azonban alkalmazni kell.
+(4) E törvény hatálya nem terjed ki a társadalombiztosítási ellátásokra, valamint a közösségi vámjog végrehajtásáról szóló törvény hatálya alá tartozó kötelező befizetésekre (adó, illeték, díj, hozzájárulás, költség, bírság, kamat), ha azok megállapítása, beszedése, végrehajtása, visszatérítése, kiutalása vagy ellenőrzése a vámhatóság hatáskörébe tartozik. E törvényt kell alkalmazni
+
+a) a vámazonosító szám megállapításával és a külön jogszabály alapján a vámhatóság hatáskörébe tartozó személyek nyilvántartásba vételével összefüggő eljárásokra a külön jogszabályban meghatározott eltérésekkel, valamint
+
+b) a vámtartozás esetén az adóhatóság által a költségvetési támogatás vonatkozásában gyakorolható visszatartási jog tekintetében.

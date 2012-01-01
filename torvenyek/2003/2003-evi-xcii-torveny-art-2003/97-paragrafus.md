@@ -8,6 +8,6 @@
 
 (4) Az ellenőrzés során a tényállást az adóhatóság köteles tisztázni és bizonyítani, kivéve, ha törvény a bizonyítást az adózó kötelezettségévé teszi.
 
-(5) Bizonyítási eszközök és bizonyítékok különösen: az irat, a szakértői vélemény, az adózó, képviselője, alkalmazottja, illetőleg más adózó nyilatkozata, a tanúvallomás, a helyszíni szemle, a próbavásárlás, a próbagyártás, a helyszíni leltározás, más adózók adatai, az elrendelt kapcsolódó vizsgálatok megállapításai, az adatszolgáltatás tartalma, más hatóság nyilvántartásából származó adat.
+(5) Bizonyítási eszközök és bizonyítékok különösen: az irat, a szakértői vélemény, az adózó, képviselője, alkalmazottja, illetőleg más adózó nyilatkozata, a tanúvallomás, a helyszíni szemle, a próbavásárlás, a fel nem fedett próbavásárlás, a próbagyártás, a helyszíni leltározás, más adózók adatai, az elrendelt kapcsolódó vizsgálatok megállapításai, az adatszolgáltatás tartalma, más hatóság nyilvántartásából származó vagy nyilvánosan elérhető elektronikus adat, információ.
 
 (6) Az adóhatóság a tényállás tisztázása során az adózó javára szolgáló tényeket is köteles feltárni. A nem bizonyított tény, körülmény – a becslési eljárás kivételével – az adózó terhére nem értékelhető.

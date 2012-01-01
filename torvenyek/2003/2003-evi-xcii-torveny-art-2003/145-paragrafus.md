@@ -10,7 +10,9 @@ c) a behajtási eljárás során a behajtást kérő megkeresése,
 
 d) az adózóval közölt adóhatósági adómegállapítás,
 
-f) a bírósági eljárási illetéket megállapító bírósági határozat.
+e) a bírósági eljárási illetéket megállapító bírósági határozat,
+
+f) az egészségügyi szolgáltatási járulék kötelezettséget tartalmazó bejelentés.
 
 (2) Az okirat végrehajthatóságához külön intézkedésre (záradékolás, végrehajtási lap kiállítása stb.) nincs szükség.
 

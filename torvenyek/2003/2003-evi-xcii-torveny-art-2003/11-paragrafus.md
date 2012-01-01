@@ -12,4 +12,4 @@ d) a törvényesség és szakszerűség ellenőrzése érdekében az önkormány
 
 e) az önkormányzati adóhatóság hatáskörébe tartozó adóügyben megváltoztatja, megsemmisíti a Kormány általános hatáskörű területi államigazgatási szervének jogszabálysértő határozatát (végzését), illetve a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja.
 
-(2) A NAV felügyeletére kijelölt miniszter az (1) bekezdés b) pontjában meghatározott hatáskörét nem ruházhatja át.
+(2) Az adópolitikáért felelős miniszter az (1) bekezdés b) pontjában meghatározott hatáskörét nem ruházhatja át.
