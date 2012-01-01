@@ -106,6 +106,6 @@
 
 |  | személyügyi vezető |
 
-7. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^214]
+7. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^215]
 
-[^214]: Az újabb 7. számú mellékletet a 30/2003. (IX. 11.) HM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja.
+[^215]: Az újabb 7. számú mellékletet a 30/2003. (IX. 11.) HM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja.
