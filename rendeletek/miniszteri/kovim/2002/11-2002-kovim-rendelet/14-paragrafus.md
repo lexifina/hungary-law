@@ -1,6 +1,6 @@
 ## 13. § Ez a rendelet 2004. január 1-jén lép hatályba.
 
-14. §[^21] (1)[^22] Ez a rendelet
+14. §[^22] (1)[^23] Ez a rendelet
 
 1. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelvnek,
 
@@ -14,15 +14,15 @@
 
 6. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelv módosításáról szóló, 2009. április 6-i 2009/26/EK bizottsági irányelvnek
 
-7.[^23] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2010. október 22-i 2010/68/EU bizottsági irányelvnek
+7.[^24] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2010. október 22-i 2010/68/EU bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
 (2) Ez a rendelet a hajófelügyeleti és hajóvizsgáló szervezetek közös szabályairól és szabványairól szóló, 2009. április 23-i 391/2009/EK európai parlamenti és tanácsi rendelettel összeegyeztethető szabályozást tartalmaz.
 
-A) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^24]
+A) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^25]
 
-B) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^25]
+B) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^26]
 
 A megfelelőség tanúsítás moduljai
 
@@ -32,7 +32,7 @@ EK TÍPUSVIZSGÁLATI ELJÁRÁS
 
 1. Az elismert szervezetnek meg kell győződnie arról, hogy a vizsgált gyártási folyamatból vett reprezentatív minta megfelel a vonatkozó nemzetközi dokumentum(ok) rendelkezéseiben előírt követelményeknek.
 
-2. A típusvizsgálati eljárás lefolytatását a gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles kérelmezni a saját választása szerint kijelölt testületnél.
+2.[^27] A típusvizsgálati eljárás lefolytatását a gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles kérelmezni a saját választása szerint kijelölt testületnél.
 
 A kérelemnek tartalmaznia kell:
 
@@ -68,17 +68,17 @@ Ha a gyártó ismételt típusvizsgálati kérelmet nyújt be olyan esetben, ami
 
 8. Más kijelölt testületek jogosultak megkapni a típusvizsgálati bizonyítványoknak és/vagy azok kiegészítéseinek a másolatát. A bizonyítványok mellékleteit a többi kijelölt testület számára hozzáférhető módon kell tartani.
 
-9. A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles a műszaki dokumentációval együtt típusvizsgálati bizonyítványoknak és azok kiegészítéseinek a másolatait az utolsó termék legyártásától számított tíz éven keresztül megőrizni.
+9.[^28] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles a műszaki dokumentációval együtt típusvizsgálati bizonyítványoknak és azok kiegészítéseinek a másolatait az utolsó termék legyártásától számított tíz éven keresztül megőrizni.
 
 EK TÍPUS-MEGFELELŐSÉGI NYILATKOZAT
 
 (C MODUL)
 
-1. A gyártó vagy annak a Magyar Köztáraság területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a vonatkozó termékek megfeleljenek a megvizsgált típusnak, és kielégítik a vonatkozó hatályos nemzetközi okmányok rendelkezéseiben előírt elvárásokat, továbbá köteles erről nyilatkozatot tenni. A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani.
+1.[^29] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a vonatkozó termékek megfeleljenek a megvizsgált típusnak, és kielégítik a vonatkozó hatályos nemzetközi okmányok rendelkezéseiben előírt elvárásokat, továbbá köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani.
 
-2. A gyártó köteles minden szükséges intézkedés megtételével gondoskodni arról, hogy a gyártott termékek megfeleljenek a megvizsgált típusnak, és kielégítsék a vonatkozó hatályos nemzetközi okmányok rendelkezéseiben előírt elvárásokat.
+2.[^30] A gyártó köteles minden szükséges intézkedés megtételével gondoskodni arról, hogy a gyártott termékek megfeleljenek a megvizsgált típusnak, és kielégítsék a vonatkozó hatályos nemzetközi okmányok rendelkezéseiben előírt elvárásokat.
 
-A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles a típus-megfelelőségi nyilatkozat egy másolatát az utolsó termék legyártásától számított tíz éven keresztül megőrizni.
+A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles a típus-megfelelőségi nyilatkozat egy másolatát az utolsó termék legyártásától számított tíz éven keresztül megőrizni.
 
 GYÁRTÁS MINŐSÉGBIZTOSÍTÁSI
 
@@ -86,7 +86,7 @@ EK TÍPUS-MEGFELELŐSÉGI NYILATKOZAT
 
 (D MODUL)
 
-1. A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
+1.[^31] A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
 
 2. A gyártó a gyártási folyamathoz, az utolsó termékellenőrzéshez és a 3. pont rendelkezései szerinti vizsgálathoz köteles jóváhagyott minőségbiztosítási rendszert működtetni, és köteles alávetni magát a 4. pont rendelkezéseiben előírt felügyeleti eljárásoknak.
 
@@ -124,9 +124,9 @@ Az ellenőrzést végző munkacsoport legalább egy olyan taggal kell, hogy rend
 
 A kijelölt testület a gyártót döntéséről köteles tájékoztatni. A tájékoztatásnak tartalmaznia kell a vizsgálat eredményei alapján megállapított következtetéseket és az ellenőrzés eredményeként meghozott, indokokkal alátámasztott döntéseket.
 
-3.4. A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését, és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
+3.4.[^32] A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését, és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
 
-A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője az általa alkalmazott minőségbiztosítási rendszer minden szándékozott frissítéséről köteles a jóváhagyó kijelölt testületet tájékoztatni.
+A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője az általa alkalmazott minőségbiztosítási rendszer minden szándékozott frissítéséről köteles a jóváhagyó kijelölt testületet tájékoztatni.
 
 A kijelölt testület köteles felmérni a javasolt módosításokat, és eldönteni, hogy a módosított minőségbiztosítási rendszer ki fogja-e elégíteni a 3.2. pont rendelkezéseiben előírt elvárásokat, vagy újabb felmérést kell készíteni.
 
@@ -164,7 +164,7 @@ EK TÍPUS-MEGFELELŐSÉGI NYILATKOZAT
 
 (E MODUL)
 
-1. A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
+1.[^33] A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
 
 2. A gyártó az utolsó termékellenőrzéshez és a 3. pont rendelkezései szerinti vizsgálathoz köteles jóváhagyott minőségbiztosítási rendszert működtetni, és köteles alávetni magát a 4. pont rendelkezéseiben előírt felügyeleti eljárásoknak.
 
@@ -198,9 +198,9 @@ Az ellenőrzést végző munkacsoport legalább egy olyan taggal kell hogy rende
 
 A kijelölt testület a gyártót döntéséről köteles tájékoztatni. A tájékoztatásnak tartalmaznia kell a vizsgálat eredményei alapján megállapított következtetéseket és az ellenőrzés eredményeként meghozott, indokokkal alátámasztott döntéseket.
 
-3.4. A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
+3.4.[^34] A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
 
-A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője az általa alkalmazott minőségbiztosítási rendszer minden szándékozott frissítéséről köteles a jóváhagyó kijelölt testület tájékoztatni.
+A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője az általa alkalmazott minőségbiztosítási rendszer minden szándékozott frissítéséről köteles a jóváhagyó kijelölt testület tájékoztatni.
 
 A kijelölt testület köteles felmérni a javasolt módosításokat, és eldönteni, hogy a módosított minőségbiztosítási rendszer ki fogja-e elégíteni a 3.2. pont rendelkezéseiben előírt elvárásokat, vagy újabb felmérést kell-e készíteni.
 
@@ -238,7 +238,7 @@ EK TÍPUS-MEGFELELŐSÉGI NYILATKOZAT
 
 (F MODUL)
 
-1. A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles ellenőrizni és tanúsítani, hogy a termékek megfelelnek a típus-megfelelőségi elvárásoknak.
+1.[^35] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles ellenőrizni és tanúsítani, hogy a termékek megfelelnek a típus-megfelelőségi elvárásoknak.
 
 2. A gyártó köteles minden szükséges intézkedés megtételével gondoskodni arról, hogy a gyártási folyamat biztosítsa azt, hogy a gyártott termékek megfeleljenek a megvizsgált típusnak a típusvizsgálati bizonyítványban előírtak szerint.
 
@@ -246,7 +246,7 @@ A gyártó köteles minden egyes terméken jelölést és írásos típusmegfele
 
 3. A gyártó választása szerinti kijelölt testület köteles vagy a 4. pont rendelkezéseiben meghatározott módon minden egyes termék megvizsgálásával és tesztelésével, vagy az 5. pont rendelkezésekben meghatározott módon statisztikai alapon végrehajtani a megfelelő vizsgálatokat annak ellenőrzése céljából, hogy a termékek megfelelnek-e a nemzetközi okmányokban előírt rendelkezések elvárásainak.
 
-3.1. A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles az utolsó termék gyártásától számított 10 éven keresztül megőrizni a megfelelőségi nyilatkozat egy példányát.
+3.1.[^36] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles az utolsó termék gyártásától számított 10 éven keresztül megőrizni a megfelelőségi nyilatkozat egy példányát.
 
 4. Minden egyes termék megvizsgálása
 
@@ -254,7 +254,7 @@ A gyártó köteles minden egyes terméken jelölést és írásos típusmegfele
 
 4.2. A kijelölt testület köteles felhelyezni vagy felhelyeztetni azonosító jelét minden egyes jóváhagyott termékre, és írásos megfelelőségi bizonyítványt kiállítani a lefolytatott vizsgálatokkal kapcsolatosan.
 
-4.3. A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványt átadni.
+4.3.[^37] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványt átadni.
 
 5. Statisztikai ellenőrzés
 
@@ -268,13 +268,13 @@ Ha egy sorozatot elutasítanak, a kijelölt testületnek vagy az illetékes igaz
 
 A gyártó a kijelölt testület helyett a gyártási folyamat során felhelyezheti a kijelölt testület azonosító jelét.
 
-5.4. A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványokat átadni.
+5.4.[^38] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványokat átadni.
 
 EGYEDI TERMÉKELLENŐRZÉSI EK ELJÁRÁS
 
 (G MODUL)
 
-1. A gyártó köteles gondoskodni arról, hogy a vonatkozó 2. pont rendelkezései szerinti bizonyítvánnyal ellátott termék kielégíti a vonatkozó nemzetközi okmányok rendelkezéseiben előírt elvárásokat. A gyártó vagy annak a Magyar Köztársaság területén letelepedett, engedéllyel rendelkező képviselője köteles a terméket jelöléssel ellátni, és a termékhez megfelelőségi nyilatkozatot kiállítani.
+1.[^39] A gyártó köteles gondoskodni arról, hogy a vonatkozó 2. pont rendelkezései szerinti bizonyítvánnyal ellátott termék kielégíti a vonatkozó nemzetközi okmányok rendelkezéseiben előírt elvárásokat. A gyártó vagy annak Magyarország területén letelepedett, engedéllyel rendelkező képviselője köteles a terméket jelöléssel ellátni, és a termékhez megfelelőségi nyilatkozatot kiállítani.
 
 2. Az elismert szervezet köteles megvizsgálni az egyedi terméket, és lefolytatni a megfelelő vizsgálatokat annak ellenőrzése céljából, hogy a termék kielégíti-e a nemzetközi okmányok rendelkezéseiben előírt elvárásokat.
 
@@ -286,7 +286,7 @@ TELJES EK MINŐSÉGBIZTOSÍTÁS
 
 (H MODUL)
 
-1. A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak a Magyar Köztársaság területén letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
+1.[^40] A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
 
 2. A gyártó a gyártási folyamathoz, az utolsó termékellenőrzéshez és a 3. pont rendelkezései szerinti vizsgálathoz köteles jóváhagyott minőségbiztosítási rendszert működtetni és köteles alávetni magát a 4. pont rendelkezéseiben előírt felügyeleti eljárásoknak.
 
@@ -326,9 +326,9 @@ Az ellenőrzést végző munkacsoport legalább egy olyan taggal kell, hogy rend
 
 A kijelölt testület a gyártót döntéséről köteles tájékoztatni. A tájékoztatásnak tartalmaznia kell a vizsgálat eredményei alapján megállapított következtetéseket és az ellenőrzés eredményeként meghozott indokokkal alátámasztott döntéseket.
 
-3.4. A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
+3.4.[^41] A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
 
-A gyártó vagy annak a Magyar Köztársaság területén belül letelepedett, engedéllyel rendelkező képviselője az általa alkalmazott minőségbiztosítási rendszer minden szándékozott frissítéséről köteles a jóváhagyó kijelölt testületet tájékoztatni.
+A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője az általa alkalmazott minőségbiztosítási rendszer minden szándékozott frissítéséről köteles a jóváhagyó kijelölt testületet tájékoztatni.
 
 A kijelölt testület köteles felmérni a javasolt módosításokat és eldönteni, hogy a módosított minőségbiztosítási rendszer ki fogja-e elégíteni a 3.2. pont rendelkezéseiben előírt elvárásokat, vagy újabb felmérést kell-e készíteni.
 
@@ -422,8 +422,23 @@ A jelölés különféle elemeinek lényegileg ugyanolyan függőleges méretez�
 
 Kis méretű felszerelések esetében a minimális méretkorlátozástól el lehet tekinteni.
 
-[^21]: A 14. § a 65/2009. (XI. 26.) KHEM rendelet 7. §-ával megállapított szöveg.
-[^22]: A 14. § (1) bekezdése a 24/2010. (III. 25.) KHEM rendelet 3. §-ával megállapított szöveg.
-[^23]: A 14. § (1) bekezdés 7. pontját a 90/2011. (XII. 30.) NFM rendelet 3. §-a iktatta be.
-[^24]: Az A) mellékletet a 65/2009. (XI. 26.) KHEM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
-[^25]: A B) melléklet a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
+[^22]: A 14. § a 65/2009. (XI. 26.) KHEM rendelet 7. §-ával megállapított szöveg.
+[^23]: A 14. § (1) bekezdése a 24/2010. (III. 25.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^24]: A 14. § (1) bekezdés 7. pontját a 90/2011. (XII. 30.) NFM rendelet 3. §-a iktatta be.
+[^25]: Az A) mellékletet a 65/2009. (XI. 26.) KHEM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A B) melléklet a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
+[^27]: A B) melléklet (B MODUL) rész 2. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^28]: A B) melléklet (B MODUL) rész 9. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^29]: A B) melléklet (C MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^30]: A B) melléklet (C MODUL) rész 2. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^31]: A B) melléklet (D MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^32]: A B) melléklet (D MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^33]: A B) melléklet (E MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^34]: A B) melléklet (E MODUL) 3. pont 3.4. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^35]: A B) melléklet (F MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^36]: A B) melléklet (F MODUL) rész 3. pont 3.1. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^37]: A B) melléklet (F MODUL) rész 4. pont 4.3. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^38]: A B) melléklet (F MODUL) rész 5. pont 5.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^39]: A B) melléklet (G MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^40]: A B) melléklet (H MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^41]: A B) melléklet (H MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
