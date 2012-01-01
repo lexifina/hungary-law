@@ -8,9 +8,9 @@
 
 | 2. egészségügyi terület | Országos Tisztifőorvosi Hivatal |
 
-| 3. munkabiztonsági terület | Országos Munkavédelmi és Munkaügyi Főfelügyelőség |
+| 3. munkabiztonsági terület | Nemzeti Munkaügyi Hivatal |
 
-| 4. mező- és erdőgazdálkodási, valamint élelmiszer-ipari területek | agrárpolitikáért, élelmiszerlánc-felügyeletért, élelmiszeriparért, erdőgazdálkodásért, térképészetért, földügyért, vadgazdálkodásért és halgazdálkodásért felelős miniszter |
+| 4. mező- és erdőgazdálkodási, valamint élelmiszer-ipari területek | VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet |
 
 | 5. közlekedési terület | a) a b) és c) pontban foglalt kivétellel a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala b) gépjármű-közlekedési műszaki (javítás, karbantartás, járműértékelés); környezetvédelem a közlekedésben; közlekedés pszichológia, közúti szállítás, fuvarozás; közúti jármű vizsgálat; közúti járműtervezés műszaki; közúti közlekedésbiztonsági műszaki (balesetelemzés); közúti közlekedési forgalmi, tároló és fenntartó; létesítmények technológiai tervezése és fenntartása; mobil rakodógép, rakodásgépesítés szakterületeken a Nemzeti Közlekedési Hatóság Közúti Gépjármű-közlekedési Hivatala |
 
@@ -22,9 +22,9 @@
 
 |  | b) a bányászat és a szénhidrogén termelés, -kutatás, -szállítás szakterületeken a Magyar Bányászati és Földtani Hivatal területileg illetékes bányakapitánysága |
 
-| 8. informatikai terület | informatikáért felelős miniszter |
+| 8. informatikai terület | Nemzeti Média- és Hírközlési Hatóság |
 
-| 9.hírközlési terület | elektronikus hírközlésért felelős miniszter |
+| 9. hírközlési terület | Nemzeti Média- és Hírközlési Hatóság |
 
 | 10.környezetvédelem és természetvédelem területei | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -46,7 +46,7 @@
 
 | 19.kriminalisztikai terület | rendészetért felelős miniszter |
 
-| 20.audiovizuális média területe | audiovizuális politikáért felelős miniszter |
+| 20. audiovizuális média területe | Nemzeti Média- és Hírközlési Hatóság |
 
 | 21.titokvédelmi terület | minősített adatok védelmének szakmai felügyeletéért felelős miniszter |
 
@@ -54,16 +54,18 @@
 
 A névjegyzékbe vétel feltételei fennállásának felülvizsgálata során a képesítés szakirányúságának elbírálása kérdésében kijelölt szakhatóság
 
-| A szakhatósági közreműködés feltétele | Szakhatóság |
+|  | A | B |
 
-| Ha az igazságügyi szakértő gépjárművekkel kapcsolatos közlekedési szakterülete a gépjármű-közlekedési műszaki (javítás, karbantartás, járműértékelés); a közúti szállítás, fuvarozás; a közúti jármű vizsgálat; a közúti járműtervezés műszaki; a közúti közlekedési forgalmi, tároló és fenntartó létesítmények technológiai tervezése, fenntartása; a mobil rakodógép, rakodásgépesítés szakterületek valamelyikének megfelel. | közlekedésért felelős miniszter |
+| 1 | A szakhatósági közreműködés feltétele | Szakhatóság |
 
-| Ha az igazságügyi szakértő környezetvédelmi vagy természetvédelmi szakterülete a környezetvédelem vagy természetvédelem területein bejegyezhető szakterületek valamelyikének megfelel. | környezetvédelemért és természetvédelemért felelős miniszter |
+| 2 | Ha az igazságügyi szakértő gépjárművekkel kapcsolatos közlekedési szakterülete a gépjármű-közlekedési műszaki (javítás, karbantartás, járműértékelés); a közúti szállítás, fuvarozás; a közúti jármű vizsgálat; a közúti járműtervezés műszaki; a közúti közlekedési forgalmi, tároló és fenntartó létesítmények technológiai tervezése, fenntartása; a mobil rakodógép, rakodásgépesítés szakterületek valamelyikének megfelel. | közlekedésért felelős miniszter |
 
-| Ha az igazságügyi szakértő vízügyi szakterülete a vízügyi területen bejegyezhető szakterületek valamelyikének megfelel. | vízügyért felelős miniszter |
+| 3 | Ha az igazságügyi szakértő környezetvédelmi vagy természetvédelmi szakterülete a környezetvédelem vagy természetvédelem területein bejegyezhető szakterületek valamelyikének megfelel. | VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet |
 
-| Ha az igazságügyi szakértő informatikai szakterülete az informatikai területen bejegyezhető szakterületek valamelyikének megfelel. | informatikáért felelős miniszter |
+| 4 | Ha az igazságügyi szakértő vízügyi szakterülete a vízügyi területen bejegyezhető szakterületek valamelyikének megfelel. | VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet |
 
-| Ha az igazságügyi szakértő hírközlési szakterülete a hírközlési területen bejegyezhető szakterületek valamelyikének megfelel. | elektronikus hírközlésért felelős miniszter |
+| 5 | Ha az igazságügyi szakértő informatikai szakterülete az informatikai területen bejegyezhető szakterületek valamelyikének megfelel. | Nemzeti Média- és Hírközlési Hatóság |
 
-[^6]: A 2. melléklet a 8. § (2) bekezdése alapján hatályát veszti 2013. december 31. napjával.
+| 6 | Ha az igazságügyi szakértő hírközlési szakterülete a hírközlési területen bejegyezhető szakterületek valamelyikének megfelel. | Nemzeti Média- és Hírközlési Hatóság |
+
+[^6]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg. [A 2. melléklet a 8. § (2) bekezdése alapján hatályát veszti 2013. december 31. napjával.]

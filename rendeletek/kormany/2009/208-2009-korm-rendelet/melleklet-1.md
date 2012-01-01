@@ -1,3 +1,3 @@
 1. melléklet a 208/2009. (IX. 29.) Korm. rendelethez[^5]
 
-[^5]: Az 1. melléklet a 351/2010. (XII. 30.) Korm. rendelet 255. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 351/2010. (XII. 30.) Korm. rendelet 255. §-a, a 282/2011. (XII. 21.) Korm. rendelet 35. § (1) bekezdése, a 324/2011. (XII. 28.) Korm. rendelet 18. §-a szerint módosított szöveg.
