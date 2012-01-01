@@ -1,1 +1,0 @@
-13. § A 9. § (1) bekezdésben meghatározott intézmények által elhelyezett kötelező tartalékok után az MNB kamatot téríthet. A kamatok a tartalékráta különböző típusú forrásai szerint eltérő mértékűek lehetnek.

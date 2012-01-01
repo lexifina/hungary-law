@@ -1,1 +1,0 @@
-Az Országgyűlés törvényt alkot a Magyar Nemzeti Bankról, annak elsődleges céljairól, alapvető feladatairól, intézményi, szervezeti, személyi, pénzügyi függetlenségéről, működéséről, figyelemmel a fejlett piacgazdaság követelményeire.
