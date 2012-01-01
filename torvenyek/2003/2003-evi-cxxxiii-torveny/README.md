@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-133-00-00
 | 2011-01-02 | 2010. évi CLXXVII. törvény | 2003-133-00-00.14 |
 | 2011-07-28 | 2011. évi LXXVI. törvény | 2003-133-00-00.15 |
 | 2011-09-30 | 2010. évi CLXXVII. törvény | 2003-133-00-00.16 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2003-133-00-00.17 |

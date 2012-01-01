@@ -5,3 +5,5 @@
 (2) A közösség a házirendben meghatározza a közös tulajdonban lévő épületrészek, területek és helyiségek használatára vonatkozó részletes szabályokat is.
 
 (3) A házirend szabályait – a használat jogcímétől függetlenül – a lakás, illetőleg a nem lakás céljára szolgáló helyiség mindenkori használója köteles betartani.
+
+(4) A házirend – a tulajdonostársak összes tulajdoni hányad szerinti legalább négyötödös többségével megállapított – eltérő rendelkezése hiányában tilos dohányozni a közös tulajdonban lévő zárt légterű épületrészekben, területeken, illetve helyiségekben.
