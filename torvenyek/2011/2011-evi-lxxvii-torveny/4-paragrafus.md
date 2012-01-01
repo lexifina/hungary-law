@@ -1,0 +1,25 @@
+4. § (1) A világörökségi területekkel összefüggő állami feladatokat a kultúráért felelős miniszter – a külön jogszabályok alapján fennálló feladat- és hatáskörüket nem érintve – az 1. mellékletben meghatározott miniszterekkel egyetértésben, más érdekelt miniszterekkel együttműködve látja el.
+
+(2) A kultúráért felelős miniszter az (1) bekezdés szerinti feladatai körében különösen az alábbi tevékenységet végzi:
+
+a) meghatározza az Egyezményből eredő feladatok végrehajtásának koncepcióját, stratégiáját;
+
+b) érvényesíti a világörökségi szempontokat a világörökségi területet érintő jogszabályokban, illetve átfogó tervezési programokban;
+
+c) előkészíti a világörökségi területek, valamint a várományos területek világörökségi kezelési tervét (a továbbiakban: világörökségi kezelési terv), kezdeményezi annak felülvizsgálatát, illetve – szükség esetén – módosítását, valamint ellátja az ebből eredő egyéb feladatokat;
+
+d) gondoskodik a világörökségi terület állapotának felméréséről és folyamatos figyelemmel kíséréséről, továbbá megteszi a kiemelkedő egyetemes érték megőrzéséhez, bemutatásához, fenntartásához, valamint az azt érő káros hatások bekövetkezésének megelőzéséhez szükséges intézkedéseket;
+
+e) felügyeli a világörökségi gondnokságok e törvényben, valamint e törvény alapján kiadott külön jogszabályban meghatározott tevékenységét, és külön jogszabályban meghatározott esetekben intézkedik a világörökségi gondnokság megbízásának visszavonásáról;
+
+f) évente jelentést tesz a Kormánynak, és négyévente beszámol az Országgyűlésnek a világörökségi területek állapotáról és az Egyezményből eredő feladatok ellátásáról;
+
+g) szükség esetén gondoskodik a világörökségi területtel kapcsolatos módosítás, így különösen a világörökségi terület határának, a világörökségi helyszín elnevezésének, valamint kiemelkedő egyetemes értékének megváltoztatása Központhoz történő bejelentéséről;
+
+h) gondoskodik a világörökségi terület fennmaradását szolgáló használat, fejlesztés és bemutatás érdekében tervek, programok, projektek előkészítéséről és megvalósításáról;
+
+i) ellátja a világörökséggel kapcsolatos, az Egyezményből eredő nemzetközi feladatokat, így különösen a határon átnyúló világörökségi helyszínek esetén együttműködésre törekszik a határon átnyúló helyszínnel érintett Részes Állam felelős miniszterével;
+
+j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles körben történő megismertetését, bemutatását, valamint fejlesztését elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról, valamint
+
+k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során az alapszabályuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó társadalmi szervezetekkel való együttműködésről.

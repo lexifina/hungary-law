@@ -1,0 +1,1 @@
+11. § Több település közigazgatási területét érintő világörökségi területen az érintett helyi önkormányzatok társulásos formában a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendelet szerinti helyi építészeti-műszaki tervtanácsot hoznak létre.
