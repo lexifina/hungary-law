@@ -1,0 +1,3 @@
+## 28. § Ez a rendelet az építési beruházásra, az árubeszerzésre és a szolgáltatásnyújtásra irányuló közbeszerzési szerződések odaítélési eljárásainak összehangolásáról szóló 2004. március 31-i 2004/18/EK európai parlamenti és tanácsi irányelv IV. címének, valamint a vízügyi, energiaipari, közlekedési és postai ágazatban működő ajánlatkérők beszerzési eljárásainak összehangolásáról szóló 2004. március 31-i 2004/17/EK európai parlamenti és tanácsi irányelv III. címének való megfelelést szolgálja.
+
+29. § Hatályát veszti a tervpályázati eljárások részletes szabályairól szóló 137/2004. (IV. 29.) Korm. rendelet.
