@@ -8,7 +8,7 @@
 
 ## 2. A díjat évente 15 személy kaphatja meg.
 
-## 3. A díj díszdobozban elhelyezett emlékplakett. A bronzból készült plakett átmérője 110 mm. Előlapja közepén a névadó mellképe, felette körívben a díj elnevezése látható. Hátoldalán „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat helyezkedik el, felette egy körben a Magyar Köztársaság egymást keresztező tölgy- és babérággal övezett címere, alatta a díjazott nevének és az adományozás évszámának gravírozására alkalmas sík felület található.
+## 3.[^4] A díj díszdobozban elhelyezett emlékplakett. A bronzból készült plakett átmérője 110 mm. Előlapja közepén a névadó mellképe, felette körívben a díj elnevezése látható. Hátoldalán „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat helyezkedik el, felette egy körben Magyarország egymást keresztező tölgy- és babérággal övezett címere, alatta a díjazott nevének és az adományozás évszámának gravírozására alkalmas sík felület található.
 
 ## „Puskás Tivadar-díj”
 
@@ -16,7 +16,7 @@
 
 ## 2. A díjat évente 4 személy kaphatja meg.
 
-## 3. A díj díszdobozban elhelyezett, proof kivitelű ezüstérem. Az érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján a névadó mellképe, mellette két oldalon tölgy-, illetve babérág, amelyben a díj elnevezése látható. Hátoldalán a Magyar Köztársaság egymást keresztező tölgy- és babérággal övezett címere helyezkedik el, amelyet „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat vesz körül.
+## 3.[^5] A díj díszdobozban elhelyezett, proof kivitelű ezüstérem. Az érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján a névadó mellképe, mellette két oldalon tölgy-, illetve babérág, amelyben a díj elnevezése látható. Hátoldalán Magyarország egymást keresztező tölgy- és babérággal övezett címere helyezkedik el, amelyet „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat vesz körül.
 
 ## „Prométheus-díj”
 
@@ -24,7 +24,7 @@
 
 ## 2. A díjat évente 10 személy kaphatja meg.
 
-## 3. A díj díszdobozban elhelyezett, proof kivitelű ezüstérem. Az érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján a díj névadójának stilizált képe, mellette két oldalon tölgy, illetve babérág, amelyben a díj elnevezése látható. Hátoldalán „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat helyezkedik el, felette egy körben a Magyar Köztársaság egymást keresztező tölgy- és babérággal övezett címere, alatta a díjazott nevének és az adományozás évszámának gravírozására alkalmas sík felület található.
+## 3.[^6] A díj díszdobozban elhelyezett, proof kivitelű ezüstérem. Az érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján a díj névadójának stilizált képe, mellette két oldalon tölgy, illetve babérág, amelyben a díj elnevezése látható. Hátoldalán „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat helyezkedik el, felette egy körben Magyarország egymást keresztező tölgy- és babérággal övezett címere, alatta a díjazott nevének és az adományozás évszámának gravírozására alkalmas sík felület található.
 
 ## II. SZAKMAI ÉRMEK
 
@@ -34,7 +34,7 @@
 
 ## 2. Az érdemérmet évente 30 személy kaphatja meg.
 
-## 3. A szakmai érem díszdobozban elhelyezett emlékplakett. Az ezüstből készült, proof kivitelű érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján a közlekedési ágazatot szimbolizáló ábra és „A Közlekedésért” felirat látható. Hátoldalán a Magyar Köztársaság címere helyezkedik el, amelyet „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat övez.
+## 3.[^7] A szakmai érem díszdobozban elhelyezett emlékplakett. Az ezüstből készült, proof kivitelű érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján a közlekedési ágazatot szimbolizáló ábra és „A Közlekedésért” felirat látható. Hátoldalán Magyarország címere helyezkedik el, amelyet „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat övez.
 
 ## „Szent Borbála-érem”
 
@@ -42,9 +42,9 @@
 
 ## 2. Az érmet a bányászat területén évente 15 személy, a kohászat területén évente 4 személy kaphatja meg.
 
-## 3. A szakmai érem díszdobozban elhelyezett emlékplakett.
+## 3.[^8] A szakmai érem díszdobozban elhelyezett emlékplakett.
 
-## Az ezüstből készült, proof kivitelű érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján a névadó egész alakos képe, felette szalagon a díj elnevezése, alatta a „LELKIISMERETES BÁNYÁSZATI TEVÉKENYSÉGÉRT”, illetve a „LELKIISMERETES KOHÁSZATI TEVÉKENYSÉGÉRT” felirat, mindkét oldalán bányászkalapácsok. Hátoldalán a Magyar Köztársaság egymást keresztező tölgy- és babérággal övezett címere helyezkedik el, amelyet a „MINISZTERI KITÜNTETÉS” felirat vesz körül.
+## Az ezüstből készült, proof kivitelű érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján a névadó egész alakos képe, felette szalagon a díj elnevezése, alatta a „LELKIISMERETES BÁNYÁSZATI TEVÉKENYSÉGÉRT”, illetve a „LELKIISMERETES KOHÁSZATI TEVÉKENYSÉGÉRT” felirat, mindkét oldalán bányászkalapácsok. Hátoldalán Magyarország egymást keresztező tölgy- és babérággal övezett címere helyezkedik el, amelyet a „MINISZTERI KITÜNTETÉS” felirat vesz körül.
 
 ## „A Hírközlésért Érdemérem”
 
@@ -52,7 +52,7 @@
 
 ## 2. A szakmai érmet a hírközlés területén évente 6 személy kaphatja meg.
 
-## 3. A szakmai érem díszdobozban elhelyezett emlékplakett. Az ezüstből készült, proof kivitelű érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján az ágazatot szimbolizáló ábra és a szakmai érem elnevezése látható. Hátoldalán a Magyar Köztársaság címere helyezkedik el, amelyet „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat övez.
+## 3.[^9] A szakmai érem díszdobozban elhelyezett emlékplakett. Az ezüstből készült, proof kivitelű érem átmérője 42,5 mm, vastagsága 3 mm. Előlapján az ágazatot szimbolizáló ábra és a szakmai érem elnevezése látható. Hátoldalán Magyarország címere helyezkedik el, amelyet „A KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ENERGIAÜGYI MINISZTER” felirat övez.
 
 ## III. SZAKMAI ELISMERÉSEK
 
@@ -111,3 +111,10 @@ Javaslattevő neve:
 Javaslattevő munkahelye:
 
 Javaslattevő aláírása:
+
+[^4]: Az 1. melléklet „Baross Gábor-díj” rész 3. pontja a 91/2011. (XII. 30.) NFM rendelet 62. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet „Puskás Tivadar-díj” rész 3. pontja a 91/2011. (XII. 30.) NFM rendelet 62. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet „Prométheus-díj” rész 3. pontja a 91/2011. (XII. 30.) NFM rendelet 62. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet „A Közlekedésért Érdemérem” rész 3. pontja a 91/2011. (XII. 30.) NFM rendelet 62. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet „Szent Borbála-érem” rész 3. pontja a 91/2011. (XII. 30.) NFM rendelet 62. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet „A Hírközlésért Érdemérem” rész 3. pontja a 91/2011. (XII. 30.) NFM rendelet 62. §-a szerint módosított szöveg.

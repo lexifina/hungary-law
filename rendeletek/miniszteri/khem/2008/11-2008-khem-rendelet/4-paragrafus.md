@@ -24,6 +24,6 @@ d) a „Kiváló Bányász” kitüntető cím esetében a szakma reprezentatív
 
 (9) Az elismerések adományozásáról és megvonásáról a minisztérium – az adományozás napjától számított 30 évig – nyilvántartást vezet. A nyilvántartás tartalmazza a megadományozott 2. mellékletben foglalt adatait, az elismerés megnevezését, az elismerés adományozásának időpontját és indokát, valamint az elismerés esetleges visszavonásának tényét, indokát és időpontját.
 
-(10)[^1] A Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján közzé kell tenni az adományozott nevét és beosztását, az elismerés megnevezését, a szakmai díjak esetében az elismerés adományozásának indokát, továbbá az elismerés esetleges visszavonásának tényét és időpontját.
+(10)[^2] A Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján közzé kell tenni az adományozott nevét és beosztását, az elismerés megnevezését, a szakmai díjak esetében az elismerés adományozásának indokát, továbbá az elismerés esetleges visszavonásának tényét és időpontját.
 
-[^1]: A 4. § (10) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 1. pontja szerint módosított szöveg.
+[^2]: A 4. § (10) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 1. pontja szerint módosított szöveg.
