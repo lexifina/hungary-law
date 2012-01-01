@@ -1,0 +1,1 @@
+## 5. § A kormányzati ellenőrzés az ellenőrzött szerv szervezetétől függetlenül működő, elsősorban a közpénzek felhasználását, a nemzeti vagyonnal való gazdálkodást, annak megóvását, a közfeladatok hatékony, gazdaságos és eredményes ellátását vizsgáló tárgyilagos, tényfeltáró, következtetéseket levonó és javaslatokat megfogalmazó ellenőrzési vagy tanácsadó tevékenység.

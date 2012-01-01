@@ -1,0 +1,9 @@
+## 13. § A kormányzati ellenőrzéseknél a vizsgálatvezető, valamint a kormányzati ellenőrök számára meghatározott feladatok ellátásának rendjét a Hivatal kormányzati ellenőrzési kézikönyve szabályozza. A kormányzati ellenőrzési kézikönyvet a Hivatal elnöke hagyja jóvá.
+
+## 8. A kormányzati ellenőr
+
+14. § (1) Kormányzati ellenőr felsőfokú iskolai végzettséggel és jogi, ellenőrzési, költségvetési, pénzügyi vagy számviteli munkakörben szerzett, legalább kétéves munkaviszonnyal, köztisztviselői, kormánytisztviselői, közalkalmazotti jogviszonnyal, bírói, igazságügyi, ügyészi, vagy hivatásos szolgálati viszonnyal rendelkező személy lehet.
+
+(2) A Hivatal elnöke az (1) bekezdésben foglalt szakmai gyakorlatra vonatkozó követelmények alól felmentést adhat, de köteles gondoskodni arról, hogy a Hivatal rendelkezzen mindazzal a szaktudással, gyakorlattal és egyéb ismerettel, amely a kormányzati ellenőrzési feladatok elvégzéséhez szükséges.
+
+(3) Nem lehet vizsgálatvezetőnek kijelölni azt a kormányzati ellenőrt, aki a szakmai gyakorlatra vonatkozó követelmények alól a (2) bekezdés alapján felmentést kapott mindaddig, amíg az (1) bekezdésben foglaltaknak nem felel meg.
