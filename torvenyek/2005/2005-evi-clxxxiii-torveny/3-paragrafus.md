@@ -36,7 +36,11 @@ j) az államháztartásért felelős miniszterrel egyetértésben a vállalkozó
 
 k) az államháztartásért felelős miniszterrel egyetértésben a vasúti személyszállítási közszolgáltatás díjához a – külön jogszabályban meghatározott kedvezményekből származó – bevételkiesés fogyasztói árkiegészítéssel történő ellentételezése,
 
-l) a vasúti személyszállítási közszolgáltatás és a belföldi menetrend szerinti személyszállítás szervezésére vonatkozó főbb prioritásokat tartalmazó egységes, országosan és regionálisan összehangolt, valamint az államháztartás teherbíró-képességét is figyelembe vevő közszolgáltatási menetrendi koncepció kidolgozása.
+l) a vasúti személyszállítási közszolgáltatás és a belföldi menetrend szerinti személyszállítás szervezésére vonatkozó főbb prioritásokat tartalmazó egységes, országosan és regionálisan összehangolt, valamint az államháztartás teherbíró-képességét is figyelembe vevő közszolgáltatási menetrendi koncepció kidolgozása,
+
+m) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokban szabályozott esetekben a tagállam nevében az Európai Unió Bizottsága értesítése,
+
+m) az utasok számára elektronikus formában egységesen megismerhető közszolgáltatási menetrend és elektronikus utazásszervező működtetésére és fejlesztésére vonatkozó koncepció készítése.
 
 (3) A miniszter az állam nevében a települési önkormányzatokkal, illetőleg azok társulásaival a térségi, elővárosi, illetve helyi vasúti személyszállítási közszolgáltatás működtetése tárgyában – írásban – együttműködési megállapodást köthet.
 

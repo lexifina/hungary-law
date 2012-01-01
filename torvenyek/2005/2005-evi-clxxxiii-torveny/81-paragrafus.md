@@ -90,6 +90,6 @@ e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő mag
 
 (15) Az e § szerinti bírság (a továbbiakban: vasúti bírság) a cselekmény elkövetésétől számított három éven belül szabható ki. Folyamatos cselekmény, illetve jogsértő állapot fenntartása esetén e határidő a cselekmény befejezésekor, illetve az állapot megszüntetésekor kezdődik. A vasúti bírság ismételten is kiszabható.
 
-(16) A beszedett vasúti bírság a közlekedési hatóságot illeti.
+(16)
 
 (17) A közlekedési hatóság a VPSZ-t a vasúti közlekedés biztonságával kapcsolatos tevékenységének ellátásához szükséges információk, adatok szolgáltatására kötelezheti.

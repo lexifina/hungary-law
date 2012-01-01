@@ -12,7 +12,7 @@ b) a jogosult lakhelye vagy tartózkodási helye, valamint levelezési címe,
 
 c) a munkaviszony, közszolgálati, közalkalmazotti jogviszony, szakmai gyakorlat kezdete, illetve vége,
 
-d) nyugdíjas esetén a saját jogú, illetve hozzátartozói nyugellátás, valamint egyéb nyugdíjszerű társadalombiztosítási ellátás ténye és megállapításának kezdő időpontja, illetve megszűnésének időpontja.
+d) nyugdíjas esetén a saját jogú, illetve hozzátartozói nyugellátás, valamint egyéb 68. § (2) bekezdése szerinti ellátás ténye és megállapításának kezdő időpontja, illetve megszűnésének időpontja.
 
 (5) Az adatkezelésre e § alapján jogosult (a továbbiakban: adatkezelő) a (4) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli.
 

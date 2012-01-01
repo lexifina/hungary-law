@@ -30,9 +30,9 @@
 
 4. vasúti személyszállítás: vasúti járművel szerződés alapján, díj ellenében végzett személyszállítás;
 
-5. belföldi vasúti személyszállítás: az a vasúti személyszállítás, amelyben az utazás megkezdésének a helye és a célállomás egyaránt a Magyar Köztársaság területén van;
+5. belföldi vasúti személyszállítás: az a vasúti személyszállítás, amelyben az utazás megkezdésének a helye és a célállomás egyaránt Magyarország területén van;
 
-6. határon átmenő vasúti személyszállítás: az a vasúti személyszállítás, amelyben az utazás megkezdésének a helye és a célállomás, vagy legalább azok egyike a Magyar Köztársaság területén kívül van, de az útvonal részben a Magyar Köztársaság területén halad;
+6. határon átmenő vasúti személyszállítás: az a vasúti személyszállítás, amelyben az utazás megkezdésének a helye és a célállomás, vagy legalább azok egyike Magyarország területén kívül van, és az útvonal részben Magyarország területén halad;
 
 7. vasúti árutovábbítás: árufuvarozás vagy áruszállítás;
 
@@ -42,21 +42,29 @@
 
 10. vontatás: vasúti jármű továbbítása;
 
-11. belföldi vasúti árutovábbítás: az a vasúti árutovábbítás, amelyben a küldemény átvételének és kiszolgáltatásának helye egyaránt a Magyar Köztársaság területén van;
+11. belföldi vasúti árutovábbítás: az a vasúti árutovábbítás, amelyben a küldemény átvételének és kiszolgáltatásának helye egyaránt Magyarország területén van;
 
-12. határon átmenő vasúti árutovábbítás: az a vasúti árutovábbítás, amelyben a küldemény átvételének és kiszolgáltatásának helye, vagy legalább azok egyike a Magyar Köztársaság területén kívül van, de az útvonal részben a Magyar Köztársaság területén halad;
+12. határon átmenő vasúti árutovábbítás: az a vasúti árutovábbítás, amelyben a küldemény átvételének és kiszolgáltatásának helye, vagy legalább azok egyike Magyarország területén kívül van, és az útvonal részben Magyarország területén halad;
 
 13. közforgalmú vasúti szolgáltatás: az a vasúti személyszállítás és árufuvarozás, amelyet – a közzétett feltételek alkalmazásával, díj ellenében – bárki igénybe vehet;
 
 14. országos közforgalmú vasúti szolgáltatás: a térségi, elővárosi, illetve helyi közforgalmú vasúti szolgáltatásnak nem minősülő közforgalmú vasúti szolgáltatás;
 
-15. térségi közforgalmú vasúti szolgáltatás: azonosíthatóan a Magyar Köztársaság területének valamely meghatározható részén jelentkező, e területen belüli közforgalmú vasúti szolgáltatás iránti igények kielégítését szolgáló vasúti szolgáltatás, amely nem minősül elővárosi közforgalmú szolgáltatásnak;
+15. térségi közforgalmú vasúti szolgáltatás: azonosíthatóan Magyarország területének valamely meghatározható részén jelentkező, e területen belüli közforgalmú vasúti szolgáltatás iránti igények kielégítését szolgáló vasúti szolgáltatás, amely nem minősül elővárosi közforgalmú szolgáltatásnak;
 
 16. elővárosi közforgalmú vasúti szolgáltatás: egy város és agglomerációja területén, valamint a város és vonzáskörzete között végzett közforgalmú vasúti szolgáltatás, kivéve a 16. § (1) bekezdésében meghatározott tevékenységeket;
 
 17. helyi közforgalmú vasúti szolgáltatás: egy város és agglomerációja területén a 16. § (1) bekezdésében meghatározott tevékenységek keretében végzett közforgalmú vasúti szolgáltatás;
 
-18. vasúti személyszállítási közszolgáltatás: vasúton végzett személyszállítási közszolgáltatás [1370/2007/EK rendelet 2. cikk a) pont];
+18. vasúti személyszállítási közszolgáltatás: vasúton végzett személyszállítási közszolgáltatás, ezen belül
+
+a) elővárosi vasúti személyszállítási közszolgáltatás: a főváros vagy megyei város és annak legfeljebb 70 kilométeres vonzáskörzete között végzett személyszállítási szolgáltatás,
+
+b) helyi vasúti személyszállítási közszolgáltatás: a település közigazgatási határán belül – helyi díjszabás alapján – végzett személyszállítási szolgáltatás, a vasúti járművel végzett személyszállítási közszolgáltatások esetében ideértve a település közigazgatási határon kívül eső közösségi közlekedési eszköz megállóhelyére, komp- vagy rév-átkelőhelyére közbeeső megállóhely érintése nélkül történő személyszállítási szolgáltatást is,
+
+c) országos személyszállítási közszolgáltatás: regionális, elővárosi, vagy helyi személyszállítási szolgáltatásnak nem minősülő személyszállítási szolgáltatás,
+
+d) regionális személyszállítási közszolgáltatás: a megye határain belül vagy a megyehatár átlépése esetén 100 kilométert meg nem haladó, elővárosi személyszállítási szolgáltatásnak nem minősülő belföldi személyszállítási szolgáltatás;
 
 19. nemzetközi személyszállítási szolgáltatás: olyan vasúti személyszállítási szolgáltatás, amelynek során a vonat valamely, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) legalább egy határán áthalad, és amelynek fő célja a különböző EGT-államok állomásai közötti személyszállítás; a vonatot egyesíthetik és szétválaszthatják, továbbá a különböző vasúti szerelvények különböző kiindulási és célállomással rendelkezhetnek, feltéve, hogy valamennyi vasúti kocsi legalább egy határon áthalad;
 
@@ -189,6 +197,8 @@ vasúti pálya;
 18. Regionális Közlekedési Szakbizottság: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 1059/2003/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: NUTS) meghatározott, a magyarországi NUTS 2 szintnek megfelelő statisztikai régiók szerint a miniszter által létrehozott, az egységes egyeztetési eljárás során a regionális érdekeket megjelenítő, döntés-előkészítő szakértői testület;
 
 19. turistavasút: vasúti személyszállítást végző és keskeny nyomtávú vasúti pályahálózatot működtető integrált vasúti társaság.
+
+20. meghatározó befolyás: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685/B. § (1)–(3) bekezdése szerinti meghatározó befolyás.
 
 (6) A 68. §–68/G. § alkalmazásában:
 

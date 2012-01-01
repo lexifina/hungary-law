@@ -8,6 +8,6 @@ a) a vasúti igazgatási szerv,
 
 b) a vasúti közlekedési hatóság (a továbbiakban: közlekedési hatóság).
 
-(3) A 2004/49/EK irányelv szerinti vasútbiztonsági hatóság a Magyar Köztársaság területén a közlekedési hatóság.
+(3) A 2004/49/EK irányelv szerinti vasútbiztonsági hatóság Magyarországon a közlekedési hatóság.
 
 (4) A vasúti közlekedés igazgatásának szervezete a vasúti társaságoktól függetlenül működik.

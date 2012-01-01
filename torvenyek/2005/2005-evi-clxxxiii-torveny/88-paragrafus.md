@@ -30,6 +30,12 @@ l) a vasúti pályákkal, a vasúti pálya tartozékaival és a vasúti üzemi l
 
 m) a vasúti társaság indokoltnak elismert és az állam által meg nem térített költségei finanszírozására felvett hitel esetében az állami kezességre vonatkozó részletes szabályokat
 
+n) a hivatásos katasztrófavédelmi szervek által lefolytatott eljárások során a veszélyes áruk vasúti szállításának ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az egyes szabálytalanságokért kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
+
+o) a vasúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait,
+
+p) az 5. § (1) bekezdés f) pontjában, a 21/C. §-ban, a 27/H. § (1) bekezdés e)–g) pontjában és a 27/H.§ (4), (6) és (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, a központi adatbázisok és az azokhoz kapcsolódó központi szolgáltatások kialakításával, működtetésével, fejlesztésével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, továbbá a központi adatbázisok működtetésére és a központi koordinációs feladatok ellátását végző szervezet kijelölését
+
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
@@ -99,3 +105,5 @@ rendeletben állapítsa meg.
 rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti szakértői tevékenység bejelentésére vonatkozó igazgatási szolgáltatási díjakat rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap a települési önkormányzat, a főváros esetében a fővárosi önkormányzat képviselő-testülete, hogy a közlekedésszervezőt rendeletben jelölje ki, valamint arra, hogy a közlekedésszervező által a helyi személyszállítást végző, valamint a helyi vasúti pályahálózatot működtető vasúti társaság számára adható rendelkezései kereteit rendeletben határozza meg.

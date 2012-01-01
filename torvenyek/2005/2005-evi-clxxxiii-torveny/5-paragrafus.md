@@ -10,7 +10,9 @@ c) helyi közforgalmú vasúti társaság alapítása,
 
 d) a helyi vasúti személyszállítási közszolgáltatás hatósági árainak a megállapítása,
 
-e) az 1370/2007/EK rendelet szerinti illetékes helyi hatóságként a helyi vasúti személyszállítási közszolgáltatás – menetrend jóváhagyásával történő – megállapítása, valamint a 27. § (11) bekezdése szerinti szerződés megkötése.
+e) az 1370/2007/EK rendelet szerinti illetékes helyi hatóságként a helyi vasúti személyszállítási közszolgáltatás – menetrend jóváhagyásával történő – megállapítása, valamint a 27. § (11) bekezdése szerinti szerződés megkötése,
+
+f) az utasok számára elektronikus formában egységesen megismerhető közszolgáltatási menetrend és elektronikus utazásszervező működtetésére és fejlesztésére vonatkozó koncepció készítése.
 
 (2) Az (1) bekezdésben felsorolt feladatok a képviselő-testület hatáskörébe tartoznak.
 

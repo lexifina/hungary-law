@@ -1,0 +1,5 @@
+81/C. § (1) A veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat működtető, a veszélyes áru rakodását, átrakását, tárolását – ideértve az ideiglenes tárolást is – végző személyek, szervezetek, a veszélyesáru-szállítással kapcsolatos rendkívüli eseményről haladéktalanul kötelesek értesíteni a hivatásos katasztrófavédelmi szerv ügyeletét.
+
+(2) A hivatásos katasztrófavédelmi szerv az (1) bekezdésben meghatározott bejelentés alapján jogosult a veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat működtető, a veszélyes áru rakodását, átrakását, tárolását – ideértve az ideiglenes tárolást is – végző személyek, szervezetek felé intézkedni, a károk enyhítése érdekében készített tervekben előírtak megtételére utasítást adni.
+
+(3) A hivatásos katasztrófavédelmi szerv által adott utasításokat a veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat-működtetők, a veszélyes áru rakodását, átrakását, tárolását végző személyek, szervezetek kötelesek haladéktalanul végrehajtani.

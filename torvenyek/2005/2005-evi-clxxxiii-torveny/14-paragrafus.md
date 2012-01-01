@@ -1,8 +1,8 @@
 ## A VASÚTI PÁLYAHÁLÓZAT MŰKÖDTETÉSE
 
-14. § (1) Az országos törzshálózati vasúti pályát és tartozékait magába foglaló pályahálózat, vagy olyan vasúti pályahálózat működtetését, amelynek országos törzshálózati vasúti pálya vagy annak tartozéka a része, az a gazdasági társaság végezheti, amelynek egyedüli tagja (részvényese) a Magyar Állam. A regionális vasúti pályát és tartozékait magába foglaló vasúti pályahálózat működtetését, amelynek országos törzshálózati vasúti pálya vagy tartozéka nem része, az a gazdasági társaság is végezheti, amelyben a Magyar Állam legalább többségi befolyással rendelkezik. Az egyéb vasúti pályát és tartozékait magába foglaló pályahálózat működtetését bármely gazdálkodó szervezet végezheti.
+14. § (1) A regionális vasúti pályát és tartozékait magába foglaló vasúti pályahálózat működtetését, amelynek országos törzshálózati vasúti pálya vagy tartozéka nem része, az a gazdasági társaság is végezheti, amelyben a Magyar Állam legalább többségi befolyással rendelkezik. Az egyéb vasúti pályát és tartozékait magába foglaló pályahálózat működtetését bármely gazdálkodó szervezet végezheti.
 
-(1a) A Magyar Állam az (1) bekezdés szerinti jogát kizárólagos tulajdonában lévő gazdasági társasága útján is gyakorolhatja. Az állam tulajdonosi jogait gyakorló kizárólagos állami tulajdonú társaság e jogait nem ruházhatja át.
+(1a)
 
 (2) A nyílt hozzáférésű vasúti pályahálózat használatáért fizetendő hálózat-hozzáférési díj az azt működtető vasúti társaságot illeti, aki köteles az ebből keletkező bevételét a nyílt hozzáférésű pályahálózat működtetésére fordítani.
 

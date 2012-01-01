@@ -36,7 +36,9 @@ o) a hálózati forgalmi és a biztonsági szabályzatok jóváhagyása,
 
 p) a vasúti járművek üzembe helyezésének engedélyezése,
 
-q) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
+q) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokban a hatósági engedélyezési és ellenőrzési feladatok ellátása,
+
+r) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
 
 (2) A közlekedési hatóság minden év szeptember 30-áig a vasútbiztonsági hatósági feladat- és hatáskörében végzett tevékenységéről készített éves jelentését megküldi az Európai Vasúti Ügynökségnek, és azt egyidejűleg honlapján is közzéteszi.
 
