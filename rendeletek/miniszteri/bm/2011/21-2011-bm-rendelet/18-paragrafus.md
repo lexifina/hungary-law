@@ -4,6 +4,9 @@
 
 (2) A képzés végén a résztvevő záró felmérésen és vizsgagyakorlaton vesz részt.
 
-(3) A rendészeti vezetővé képző tanfolyam eredményes elvégzéséről az RVKI oklevelet állít ki.
+(3)[^15] A rendészeti vezetővé képző tanfolyam eredményes elvégzéséről az OKTF oklevelet állít ki.
 
-(4) A (3) bekezdés szerint kiállított oklevelek nyilvántartását az RVKI végzi.
+(4)[^16] A (3) bekezdés szerint kiállított oklevelek nyilvántartását az OKTF végzi.
+
+[^15]: A 18. § (3) bekezdése az 56/2011. (XII. 22.) BM rendelet 5. § (6) bekezdése szerint módosított szöveg.
+[^16]: A 18. § (4) bekezdése az 56/2011. (XII. 22.) BM rendelet 5. § (6) bekezdése szerint módosított szöveg.
