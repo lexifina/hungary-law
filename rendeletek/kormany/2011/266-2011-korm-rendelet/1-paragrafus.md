@@ -1,0 +1,7 @@
+## 1. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet módosítása
+
+1. § (1) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet (a továbbiakban: R.) 5/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Az egészségbiztosítási szakigazgatási szerv a jogerős határozatok adatait határozatonként, a foglalkoztató azonosító számát és a követelés összegét, valamint esedékességét tartalmazó adatszolgáltatást teljesít az állami adóhatóság részére. Az adatszolgáltatást elektronikusan, a NAV és az OEP közötti megállapodásban rögzített adattartalommal és rendszerességgel, de legkésőbb a tárgyhónapot követő hónap 15-éig kell teljesíteni. Az adatszolgáltatás szerint fennálló követelést az adóhatóság a foglalkoztató adószámláján „táppénz-hozzájárulás adónem” kötelezettségként írja elő. Az adatszolgáltatás alapját képező jogerős határozatok közül az egészségbiztosítási szakigazgatási szerv csak azt a határozatot küldi meg kinyomtatva és cégszerűen aláírva az illetékes állami adóhatóság részére, amelyet a végrehajtási kifogás benyújtása esetén az adóhatóság megküldeni kér. Az állami adóhatóság kérésére az egészségbiztosítási szakigazgatási szerv a jogerős határozatot 8 napon belül papír alapon is megküldi.”
+
+(2) Az R. 5/A. §-a a következő (5) bekezdéssel egészül ki:
