@@ -1,0 +1,3 @@
+1. § (1) A vízrajzi feladatok ellátása magában foglalja a vízrajzi tevékenységet, a vízrajzi adatok tárolását, a vizek állapotértékelését és kutatását, valamint a nemzetközi vízrajzi együttműködést.
+
+(2) Az (1) bekezdésben meghatározott feladatokat a vízügyi igazgatási szervek irányításáért felelős miniszter, a vízgazdálkodásért felelős miniszter, az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF), a vízügyi igazgatóságok (a továbbiakban: VIZIG), a Nemzeti Környezetügyi Intézet (a továbbiakban: NeKI), a Nemzeti Környezetügyi Intézet területi kirendeltségei (a továbbiakban: NeKI kirendeltség) és a „VITUKI” Környezetvédelmi és Vízgazdálkodási Kutató Intézet Nonprofit Kft. (a továbbiakban: VITUKI) látja el.
