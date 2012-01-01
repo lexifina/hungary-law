@@ -1,3 +1,0 @@
-5. § (1) A vizsgáló a vizsgálatot 15 napon belül jelentés elkészítésével fejezi be. A vizsgáló a jelentésében összefoglalja a kifogásolt cselekmény elkövetését, valamint a Hjt.-ben meghatározott feltételek fennállását bizonyító tényeket és következtetéseket, és ezek alapján javaslatot tesz a méltatlansági eljárás megszüntetésére, vagy a bizottság létrehozására és a bizottság döntésére. Jelentését a vizsgálat befejezését követő 5 napon belül felterjeszti a parancsnoknak.
-
-(2) A vizsgáló a vizsgálat során összegyűjti mindazokat a bizonyítékokat, amelyek alapján a bizottság dönthet a szolgálati jogviszony méltatlanság címén történő megszüntetésének kezdeményezéséről.

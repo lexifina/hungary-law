@@ -1,1 +1,0 @@
-A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. §-a (2) bekezdésének ah) pontjában kapott felhatalmazás alapján, a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 51. §-ában foglalt feladatkörömben az alábbiakat rendelem el:
