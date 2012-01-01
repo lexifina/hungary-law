@@ -1,0 +1,1 @@
+68. § A 23–24. § és a 32–33. § szerinti eljárásban az Alkotmánybíróság a részére megküldött indítványokat elektronikus formában, bárki számára, személyazonosítás nélkül, korlátozásmentesen nyilvánosságra hozza. A 25–27. § szerinti eljárásban az Alkotmánybíróság az indítványokat az indítványozó hozzájárulása esetén nyilvánosságra hozza.

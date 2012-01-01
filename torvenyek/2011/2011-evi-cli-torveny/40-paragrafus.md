@@ -1,0 +1,5 @@
+40. § (1) Nem hirdethető ki a törvény, ha az Alkotmánybíróság a 23. §-ban meghatározott eljárásában megállapítja a vizsgált törvényi rendelkezés vagy rendelkezések alaptörvény-ellenességét.
+
+(2) Ha az Alkotmánybíróság az Alaptörvény 6. cikk (8) bekezdése alapján ismételten lefolytatott eljárásában is megállapítja a törvényi rendelkezés vagy rendelkezések alaptörvény-ellenességét, az Országgyűlést felhívja jogalkotói feladatának Alaptörvénnyel összhangban történő teljesítésére.
+
+(3) Ha az Alkotmánybíróság a 23. §-ban meghatározott eljárásában a nemzetközi szerződés rendelkezésének alaptörvény-ellenességét megállapítja, a nemzetközi szerződés kötelező hatályának elismerésére addig nem kerülhet sor, amíg a nemzetközi szerződést létrehozó államok vagy a nemzetközi jog szerződéskötési képességgel rendelkező egyéb alanyai az alaptörvény-ellenességet meg nem szüntetik, vagy ameddig fenntartás megtételével – ha ezt az adott nemzetközi szerződés lehetővé teszi – vagy a nemzetközi jog által elismert egyéb jogintézménnyel élve Magyarország nem zárja ki a nemzetközi szerződés és az Alaptörvény összeütközését.

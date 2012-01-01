@@ -1,0 +1,3 @@
+42. § (1) Ha az Alkotmánybíróság olyan jogszabály nemzetközi szerződésbe ütközését állapítja meg, amely a nemzetközi szerződést kihirdető jogszabállyal az Alaptörvény alapján nem lehet ellentétes, a nemzetközi szerződéssel ellentétes jogszabályt teljesen vagy részben megsemmisíti.
+
+(2) Ha az Alkotmánybíróság olyan jogszabály nemzetközi szerződésbe ütközését állapítja meg, amellyel a nemzetközi szerződést kihirdető jogszabály az Alaptörvény alapján nem lehet ellentétes, az ellentét feloldása érdekében – a körülmények mérlegelése alapján, határidő megjelölésével – felhívja a Kormányt, illetve a jogalkotót, hogy a megjelölt határidőben tegye meg az ellentét feloldása érdekében szükséges intézkedéseket.

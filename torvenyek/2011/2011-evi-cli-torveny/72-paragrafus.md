@@ -1,0 +1,3 @@
+72. § (1) A 71. §-ban foglalt rendelkezéstől eltérően az Alaptörvény 25. cikk (2) bekezdés c) pontja alapján a bírósághoz kell áttenni az e törvény hatálybalépését megelőzően a fővárosi és megyei kormányhivatal, illetve jogelődje által előterjesztett olyan indítványt, amely jogszabály alkotmányellenességének utólagos vizsgálatára irányuló eljárásban önkormányzati rendelet vizsgálatára irányult, és az indítvány tartalmában önkormányzati rendelet más jogszabályba ütközését állítja.
+
+(2) Ha az (1) bekezdés szerinti indítvány kizárólag az önkormányzati rendelet alkotmányellenességét állítja, és a rendelet más jogszabályba ütközésére egyidejűleg nem hivatkozik, az Alkotmánybíróság előtt a 71. § szerint kell eljárni.

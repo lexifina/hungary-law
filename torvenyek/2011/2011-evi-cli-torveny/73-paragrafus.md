@@ -1,0 +1,3 @@
+73. § (1) Az Alkotmánybíróság előtt folyamatban lévő, a 71–72. §-ban nem szabályozott további ügyekben az Alkotmánybíróság eljárását e törvény rendelkezései szerint le kell folytatni, ha az ügy az Alaptörvény rendelkezéseivel összefüggésben vizsgálható, és az indítványozó indítványozási jogosultsága e törvény rendelkezései alapján fennáll.
+
+(2) Az Alaptörvény 25. cikk (2) bekezdés c) pontja alapján a bírósághoz kell áttenni az e törvény hatálybalépését megelőzően bíró által előterjesztett olyan indítványt, amely előtte folyamatban lévő ügy elbírálása során alkalmazandó jogszabály alkotmányellenességének vizsgálatára irányuló eljárásban önkormányzati rendelet vizsgálatára irányult, és az indítvány tartalmában önkormányzati rendelet más jogszabályba ütközését állítja.
