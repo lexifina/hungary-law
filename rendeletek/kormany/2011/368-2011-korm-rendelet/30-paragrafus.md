@@ -1,0 +1,3 @@
+## [Az Áht. 28. § (1) bekezdéséhez]
+
+30. § Az Áht. 28. § (1) bekezdése szerinti szabályzatban rendelkezni kell különösen a fejezeti kezelésű előirányzatok módosításának, átcsoportosításának, a támogatói döntések meghozatala és a kötelezettségvállalás belső egyeztetési és engedélyezési eljárási, továbbá dokumentációs szabályairól, határidőiről, a pénzügyi teljesítés, a beszámoltatás, az ellenőrzés feladatainak rendjéről, mindezek határidőiről, szervezeti megosztásáról, az egyes szervezeti egységek feladatairól. Ha a fejezetet irányító szerv a szabályzatot jogalkotási jog hiányában adja ki, a szabályzatnak rendelkeznie kell az Áht. 109. § (5) bekezdésében foglaltakról is.

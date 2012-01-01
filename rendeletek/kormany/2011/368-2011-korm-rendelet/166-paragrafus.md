@@ -1,0 +1,1 @@
+166. § A központi költségvetésben előirányzatként szereplő minősített adatokat más hasonló, de minősített adatokat nem tartalmazó bevételi, kiadási előirányzatokkal összevontan, az azonosíthatóságot kizáró módon kell megjeleníteni.

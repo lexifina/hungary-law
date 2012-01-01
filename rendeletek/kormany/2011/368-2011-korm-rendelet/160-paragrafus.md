@@ -1,0 +1,1 @@
+160. § A költségvetési szervek, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok, társadalombiztosítás pénzügyi alapjai kezelő szervei az éves költségvetési beszámoló készítési kötelezettségüknek az államháztartási számviteli kormányrendeletben foglalt módon és határidőre tesznek eleget.

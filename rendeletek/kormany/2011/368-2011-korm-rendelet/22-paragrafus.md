@@ -1,0 +1,1 @@
+22. § A központi költségvetés XLIII. fejezetébe sorolt központi kezelésű előirányzatok esetén a kezelő szerv a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) és a Magyar Fejlesztési Bank Zrt.

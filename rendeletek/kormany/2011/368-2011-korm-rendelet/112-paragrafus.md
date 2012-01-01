@@ -1,0 +1,11 @@
+## [Az Áht. 60. § (1)–(6) bekezdéséhez]
+
+112. § (1) Az Áht. 60. §-a szerinti felülvizsgálatot az Igazgatóság területére vonatkozó munkaterv alapján kell megszervezni. A munkatervet a következő négy évre vonatkozóan minden év december 31-ig kell elkészíteni. A munkatervnek tartalmaznia kell az Igazgatóság illetékességi területéhez tartozó valamennyi helyi önkormányzat, helyi nemzetiségi önkormányzat, többcélú kistérségi társulás elszámolásai helyszíni ellenőrzésének tervezett időpontját negyedéves ütemezés szerint, valamint a helyszíni vizsgálatba bevont főbb hozzájárulások, támogatások jogcímeit.
+
+(2) Az Áht. 60. §-a szerinti felülvizsgálatot a Kincstár a felhívás Áht. 60. § (1) bekezdése szerinti határidőig történő kibocsátásával, vagy a helyszíni ellenőrzésről szóló értesítés ugyanezen határidőig történő megküldésével kezdi meg.
+
+(3) A felülvizsgálat során a Kincstár figyelembe veszi az Állami Számvevőszék ellenőrzése alapján készült jelentésben a tárgyévre és az azt megelőző, a Ptk. szerinti általános elévülési időn belüli évekre megállapított, az ellenőrzöttet megillető, pótlólagos hozzájárulások, támogatások, illetve az ellenőrzött által jogtalanul igénybe vett és az Állami Számvevőszék megállapítására vissza nem fizetett hozzájárulásokat, támogatásokat is.
+
+(4) Az Áht. 60. § (5) bekezdése szerinti helyszíni ellenőrzésről készített jegyzőkönyv tartalmára a 109. § és 111. § rendelkezéseit kell alkalmazni. A helyszíni ellenőrzésről készített jegyzőkönyv az Áht. 60. § (6) bekezdése szerinti felhívással történő összevonás esetét kivéve nem tartalmaz felhívást az elszámolás módosítására, annak megállapításait – a helyszíni ellenőrzés időpontjától függően – az Áht. 60. § (6) bekezdése szerinti felhívásban, (8) bekezdése szerinti jegyzőkönyvben vagy (10) bekezdése szerinti határozatban kell szerepeltetni.
+
+(5) Az Áht. 60. § (6) bekezdése szerinti felhívás tartalmára a 108. § (2) bekezdés a)–c) és e) pontjait, valamint a 110. § (4) bekezdés a), b) és d) pontjait kell alkalmazni, azzal, hogy a normatív hozzájárulások és támogatások esetén az összeget, illetve az Állami Számvevőszék által a felhívás címzettje vonatkozásában megállapított eltéréseket is fel kell tüntetni, tartalmaznia kell továbbá az elszámolás módosítására és annak határidejére vonatkozó felhívást.

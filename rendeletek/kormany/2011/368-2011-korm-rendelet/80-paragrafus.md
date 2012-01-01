@@ -1,0 +1,13 @@
+## [Az Áht. 53. § (1) bekezdéséhez]
+
+80. § (1) A kedvezményezett a támogatott tevékenységről és a támogatott tevékenység megvalósításával kapcsolatban felmerült valamennyi költségről – ideértve a részletekben történő finanszírozás esetén az egyes finanszírozási szakaszok lezárásaként benyújtott részbeszámolást, előleg biztosítása esetén az előleg elszámolásáról szóló beszámolót (a továbbiakban együtt: részbeszámoló) is – jogszabályban, a támogatói okiratban vagy a támogatási szerződésben rögzített határidőig készít el az Áht. 53. § (1) bekezdése szerinti beszámolót.
+
+(2) A központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások esetén beszámoló alatt a költségvetési támogatásokkal kapcsolatban adott elszámolást kell érteni.
+
+(3) A költségvetési támogatás rendeltetésszerű felhasználásáról, a megítélt költségvetési támogatás utófinanszírozás keretében történő kifizethetőségéről elsősorban a részbeszámoló, beszámoló útján kell meggyőződni. A részbeszámoló, beszámoló jogszabályban vagy a támogatói okiratban, támogatási szerződésben előírt tartalommal és formában ismerteti a költségvetési támogatás és – ha előírásra került – a saját forrás felhasználásának, a támogatott tevékenység megvalósításának szakmai vonatkozásait, tapasztalatait, elemzi a megvalósítás eredményességét, továbbá részletes pénzügyi elszámolást ad a költségvetési támogatás és – ha előírásra került – a saját forrás felhasználásáról.
+
+(4) A kedvezményezett a beszámolóban külön nyilatkozik arról, hogy a feltüntetett költségek kifizetése előtt azok jogosságáról és összegszerűségéről – ellenszolgáltatás teljesítését követően esedékes kifizetés előtt ezen felül az ellenszolgáltatás teljesítéséről is –előzetesen meggyőződött. Nyilatkozat hiányában a beszámoló nem fogadható el.
+
+(5) A kedvezményezett kizárólag a jogszabályban vagy a támogatói okiratban, támogatási szerződésben meghatározott időtartam alatt felmerült, és a támogatott tevékenység megvalósításához kapcsolódó költségeket szerepeltetheti a részbeszámolóban, beszámolóban. A részbeszámolóhoz, beszámolóhoz csatolni kell a százezer forint értékhatárt meghaladó számlák másolatát, vagy egyéb, a támogató által a támogatói okiratban, támogatási szerződésben meghatározott, a gazdasági eseményt igazoló dokumentum másolatát.
+
+(6) A részbeszámoló, beszámoló elfogadásáról, az esetleg jogosulatlanul igénybe vett támogatás visszafizetésének kötelezettségéről jogszabályban vagy a támogatói okiratban, támogatási szerződésben meghatározott határidőn belül írásban kell értesíteni a kedvezményezettet.

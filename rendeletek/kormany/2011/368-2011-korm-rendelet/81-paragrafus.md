@@ -1,0 +1,3 @@
+81. § (1) Ha jogszabály vagy a támogatói okirat, támogatási szerződés a kedvezményezett részbeszámolási kötelezettségét is előírja, annak elmulasztása vagy nem megfelelő teljesítése esetén a támogatás folyósítója – ha a támogatás folyósítója nem azonos a támogatóval, a támogató értesítése alapján – a költségvetési támogatás folyósítását felfüggeszti, amíg a kedvezményezett a kötelezettségének nem tesz eleget.
+
+(2) A részbeszámoló, beszámoló határidejének elmulasztása vagy nem megfelelő teljesítése esetén a támogató írásban, határidő tűzésével felszólítja a kedvezményezettet a kötelezettsége teljesítésére.

@@ -1,0 +1,7 @@
+135. § (1) A társadalombiztosítás pénzügyi alapjai előirányzat-felhasználási tervei a költségvetési és a tervezhető finanszírozási bevételeket és kiadásokat tartalmazzák. Az ellátások előirányzatainak központi intézkedésen alapuló emelése esetén, illetve a hóközi állományváltozás által indokolt esetben az előirányzat-felhasználási terv módosítható.
+
+(2) Ha az Egészségbiztosítási Alap előirányzat-felhasználási tervében szereplő gyógyító-megelőző ellátás, gyógyszertámogatás és a gyógyászati segédeszköz támogatás jogcímcsoportokon belül a jogcímek együttes összege meghaladja az időarányos szintet, a Kincstár az előirányzat-felhasználási tervet véleményével együtt az államháztartásért felelős miniszter részére jóváhagyás céljából megküldi. Az előirányzat-felhasználási tervhez mellékelni kell az Egészségbiztosítási Alap kezelő szervének részletes indokolását.
+
+(3) A Kincstár a jóváhagyott előirányzat-felhasználási terv alapján előirányzat-felhasználási keretet nyit, és arról tájékoztatja az államháztartásért felelős minisztert és a társadalombiztosítás pénzügyi alapjainak kezelő szerveit.
+
+(4) Ha az Egészségbiztosítási Alapból finanszírozott, nem túlléphető előirányzatok (a továbbiakban: zárt előirányzatok) előirányzat-felhasználási tervének jóváhagyására a tárgyhónapot megelőző hó utolsó munkanapjáig nem kerül sor, a Kincstár az időarányosan még rendelkezésre álló előirányzatból egy hónapra számított mértékű előzetes előirányzat-felhasználási keretet nyit.
