@@ -1,6 +1,6 @@
-## 10. §[^62] Ha az orvos erős hatású, belsőleges használatra szánt gyógyszert olyan adagolásban rendel, amely a megállapított legnagyobb egyszeri vagy napi adagot meghaladja, a túllépést felkiáltójellel jelölnie és aláírásával, valamint bélyegzőjével külön igazolnia kell.
+## 10. §[^64] Ha az orvos erős hatású, belsőleges használatra szánt gyógyszert olyan adagolásban rendel, amely a megállapított legnagyobb egyszeri vagy napi adagot meghaladja, a túllépést felkiáltójellel jelölnie és aláírásával, valamint bélyegzőjével külön igazolnia kell.
 
-11. §[^63] (1) Az orvosnak a rendelt gyógyszer mennyiségét úgy kell meghatároznia, hogy a beteg szakszerű gyógykezeléséhez szükséges legközelebbi orvosi vizsgálatig elegendő legyen.
+11. §[^65] (1) Az orvosnak a rendelt gyógyszer mennyiségét úgy kell meghatároznia, hogy a beteg szakszerű gyógykezeléséhez szükséges legközelebbi orvosi vizsgálatig elegendő legyen.
 
 (2) Az orvos egy vényen, egyszeri kiváltásra 30 napra elegendő gyógyszermennyiséget rendelhet.
 
@@ -26,5 +26,5 @@ c) a gyógyszer tartós alkalmazásától az adott beteg esetében az előzetes 
 
 (6) Nem kell a 30 napot meghaladó mennyiség indokoltságát feltüntetni, ha az orvos a gyógyszerből egy eredeti, a 30 napra elegendő gyógyszermennyiséghez legközelebb álló mennyiségű gyógyszert tartalmazó csomagolást rendelt és az abban foglalt gyógyszermennyiség – az adagolás figyelembevételével – meghaladja a 30 napra elegendő mennyiséget.
 
-[^62]: A 10. § a 47/2005. (XI. 4.) EüM rendelet 19. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^63]: A 11. § a 9/2007. (II. 15.) EüM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2007. február 15. napját követően kiállított vények esetén kell alkalmazni.
+[^64]: A 10. § a 47/2005. (XI. 4.) EüM rendelet 19. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^65]: A 11. § a 9/2007. (II. 15.) EüM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2007. február 15. napját követően kiállított vények esetén kell alkalmazni.

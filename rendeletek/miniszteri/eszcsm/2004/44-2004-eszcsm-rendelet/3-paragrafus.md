@@ -1,6 +1,6 @@
 ## Az orvos által rendelhető gyógyszerek
 
-3. §[^22] (1)[^23] Az orvos – a 2/A. §-ban, jelen § (5)–(8) bekezdésében, valamint a 4. §-ban foglaltak kivételével – Magyarországon, illetve az Európai Unió Bizottsága által forgalomba hozatalra engedélyezett gyógyszert, valamint magisztrális gyógyszert rendelhet. Az orvos magisztrális gyógyszer alkotórészeként a GYEMSZI közleményében közzétett gyógyszeranyagokat rendelheti, ennek hiányában kerülhet sor forgalomba hozatalra engedélyezett gyógyszer magisztrális alkotórészként történő rendelésére.
+3. §[^22] (1)[^23] Az orvos – a 2/A. §-ban, az (5)–(8) bekezdésben, a 4. §-ban, valamint a 6. § (3) bekezdésében foglaltak kivételével – Magyarországon, illetve az Európai Unió Bizottsága által forgalomba hozatalra engedélyezett gyógyszert, valamint magisztrális gyógyszert rendelhet. Az orvos magisztrális gyógyszer alkotórészeként a GYEMSZI közleményében közzétett gyógyszeranyagokat rendelheti, ennek hiányában kerülhet sor forgalomba hozatalra engedélyezett gyógyszer magisztrális alkotórészként történő rendelésére.
 
 (2)[^24] A forgalomba hozatalra engedélyezett gyógyszerek listáját, továbbá a magisztrális gyógyszerek készítéséhez felhasználható gyógyszeranyagok listáját a GYEMSZI honlapján közzéteszi az alábbiak szerint:
 
@@ -33,7 +33,7 @@ c) az orvos által rendelkezésre bocsátott adatok alapján – véleménye sze
 (8)[^29] Amennyiben a GYEMSZI olyan nyilatkozatot tesz, hogy az (5) bekezdés c) pontja szerinti rendelési indok nem áll fenn, az orvos – amennyiben a gyógyszer vényen történő rendelésének szükségességét továbbra is fenntartja – a GYEMSZI nyilatkozatát a vénnyel együtt a betegnek átadja és a beteget tájékoztatni köteles a nyilatkozat tartalmáról és lehetséges következményeiről.
 
 [^22]: A 3. § a 47/2005. (XI. 4.) EüM rendelet 3. §-ával megállapított szöveg.
-[^23]: A 3. § (1) bekezdése a 39/2008. (X. 18.) EüM rendelet 3. §-ával megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^23]: A 3. § (1) bekezdése a 73/2011. (XII. 29.) NEFMI rendelet 1. §-ával megállapított szöveg.
 [^24]: A 3. § (2) bekezdése a 20/2010. (IV. 29.) EüM rendelet 5. § (2) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^25]: A 3. § (3) bekezdése a 47/2005. (XI. 4.) EüM rendelet 19. § (5) bekezdésével megállapított szöveg.
 [^26]: A 3. § (5) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) és d) pontja szerint módosított szöveg.
