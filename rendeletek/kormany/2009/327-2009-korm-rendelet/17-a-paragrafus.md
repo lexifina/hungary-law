@@ -1,4 +1,4 @@
-## III/A. Fejezet[^6]
+## III/A. Fejezet[^7]
 
 ## ELEKTRONIKUSPÉNZ-KIBOCSÁTÓ INTÉZMÉNYEK ÉVES BESZÁMOLÓ KÉSZÍTÉSI
 
@@ -26,4 +26,4 @@ d) a fióktelep és a központ közötti elszámolásra, illetve a fióktelepek 
 
 (7) A Hpt. szerinti tőkekövetelmény meghatározása érdekében a kibocsátott (kinn lévő) és még vissza nem váltott elektronikus pénz állományáról és az abban bekövetkezett változásokról folyamatosan nyilvántartást kell vezetni.
 
-[^6]: A III/A. fejezetet (17/A–17/C. §-t) a 345/2010. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
+[^7]: A III/A. fejezetet (17/A–17/C. §-t) a 345/2010. (XII. 28.) Korm. rendelet 31. §-a iktatta be.

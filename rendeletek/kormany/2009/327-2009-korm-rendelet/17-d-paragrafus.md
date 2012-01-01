@@ -1,4 +1,4 @@
-## III/B. Fejezet[^7]
+## III/B. Fejezet[^8]
 
 ## PÉNZÜGYI SZOLGÁLTATÁST KÖZVETÍTŐK ÉVES BESZÁMOLÓ KÉSZÍTÉSI
 
@@ -32,4 +32,4 @@ d) a fióktelep és a központ közötti elszámolásra, illetve a fióktelepek 
 
 (10) A pénzügyi szolgáltatás közvetítéséért, valamint a végzett egyéb pénzügyi szolgáltatásokért felszámított különböző díjakat az értékesítés nettó árbevételén belül elkülönítetten kell bemutatni pénzügyi szolgáltatás közvetítésének díjbevétele és egyéb pénzügyi szolgáltatások díjbevétele jogcímen.
 
-[^7]: A III/B. fejezetet (17/D–17/E. §-t) a 345/2010. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
+[^8]: A III/B. fejezetet (17/D–17/E. §-t) a 345/2010. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
