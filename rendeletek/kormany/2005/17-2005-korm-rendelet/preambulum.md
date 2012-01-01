@@ -1,1 +1,0 @@
-A Kormány a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: közoktatásról szóló törvény) 94. §-a (3) bekezdésének d) pontjában, valamint a felsőoktatásról szóló 1993. évi LXXX. törvény (a továbbiakban: felsőoktatásról szóló törvény) 29. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
