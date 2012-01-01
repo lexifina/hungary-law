@@ -1,4 +1,4 @@
-## 14/A. §[^24] A TEK
+## 14/A. §[^25] A TEK
 
 a) a feladatai ellátása során tudomására jutott információkból értékeli a polgári légiközlekedés terrorfenyegetettségi és terrorveszélyeztetettségi szintjét, és tájékoztatja az általános rendőrségi feladatok ellátására létrehozott szervet, az AH-t és a légiközlekedési hatóságot a feladatkörének ellátásához szükséges adatokról,
 
@@ -14,4 +14,4 @@ f) elvégzi a repülőtereken a bűncselekményt lőfegyverrel vagy robbanóanya
 
 g) ellátja a veszélyeztetett légijárművek hatáskörébe tartozó műveleti biztosítását.
 
-[^24]: A 14/A. §-t a 240/2011. (XI. 18.) Korm. rendelet 10. §-a iktatta be.
+[^25]: A 14/A. §-t a 240/2011. (XI. 18.) Korm. rendelet 10. §-a iktatta be.

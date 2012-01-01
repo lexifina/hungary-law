@@ -1,4 +1,4 @@
-## 15. §[^25] Az AH
+## 15. §[^26] Az AH
 
 a) feladatai ellátása során tudomására jutott információkból értékeli a polgári légiközlekedés fenyegetettségi és veszélyeztetettségi szintjét, és tájékoztatja az általános rendőrségi feladatok ellátására létrehozott szervet, a TEK-et és a légiközlekedési hatóságot a feladatkörének ellátásához szükséges adatokról,
 
@@ -18,4 +18,4 @@ h) részt vesz a repülőtéri belépőkártyák, szigorított védelmi terület
 
 i) ellenőrzi a repülőtéri állandó és ideiglenes belépőkártyák kiadása során a személyek részére a hatóságok által engedélyezett zónajogosultságok megtartását.
 
-[^25]: A 15. § a 240/2011. (XI. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^26]: A 15. § a 240/2011. (XI. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
