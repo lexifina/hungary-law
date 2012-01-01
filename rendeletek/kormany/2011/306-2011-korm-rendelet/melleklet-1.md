@@ -1,0 +1,3 @@
+## 20. § Ez a rendelet – a Kbt.-vel együtt – az építési beruházásra, az árubeszerzésre és a szolgáltatásnyújtásra irányuló közbeszerzési szerződések odaítélési eljárásainak összehangolásáról szóló 2004. március 31-i 2004/18/EK európai parlamenti és tanácsi irányelvnek, valamint a vízügyi, energiaipari, közlekedési és postai ágazatban működő ajánlatkérők beszerzési eljárásainak összehangolásáról szóló 2004. március 31-i 2004/17/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+1. melléklet a 306/2011. (XII. 23.) Korm. rendelethez

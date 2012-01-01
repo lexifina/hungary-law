@@ -1,0 +1,3 @@
+6. § (1) Ha az ajánlatkérő versenypárbeszéd eljárási fajtát alkalmaz arra tekintettel, hogy a közbeszerzés tárgyára vonatkozó közbeszerzési műszaki leírás meghatározására nem, vagy nem a nyílt, illetve meghívásos eljárásban szükséges részletességgel képes, az ismertetőt az 1. mellékletben előírt követelmények alapján kell összeállítania.
+
+(2) Ha az ajánlatkérő keretmegállapodásos eljárást folytat le, – amennyiben az eljárás első részében további információ még nem áll rendelkezésre – a keretmegállapodás megkötésére irányuló eljárás ajánlattételi dokumentációjában foglalt árazatlan költségvetésnek elegendő a keretmegállapodás tárgyát képező, egységárakkal beárazandó egyes tételeket tartalmaznia további részletezés nélkül.
