@@ -1,3 +1,3 @@
-## 65. §[^23]
+## 65. §[^7]
 
-[^23]: A 65. § a 108. § (3) bekezdése alapján 2012. május 1-jén lép hatályba.
+[^7]: A 65. § a 108. § (3) bekezdése alapján 2012. május 1-jén lép hatályba.

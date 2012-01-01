@@ -1,0 +1,13 @@
+## „(9) Teljesítményként az adott rendelésen nyújtott, az R. 12. számú mellékletében önálló elszámolási tételként meghatározott ellátásokhoz tartozó pontértéket a feltüntetett minimumidők figyelembevételével lehet elszámolni, amennyiben az megfelel a fogászati ellátás tevékenységi kódlistájának alkalmazásáról szóló miniszteri rendeletben foglaltaknak. A minimumidő azt az időtartamot jelenti, amelynél kevesebbet a szolgáltató nem fordíthat az adott beavatkozás elvégzésére.”
+
+21. § (1) A Kr. 27. § (2)–(3b) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(2) A teljesítményvolumen keretet (a továbbiakban: TVK) a járóbeteg-szakellátásra – ideértve a 32. § szerinti CT, MRI vizsgálatokat is – és az aktív fekvőbeteg-szakellátásra vonatkozóan éves szinten, valamint időarányosan – az ellátási igények változásának figyelembevételével – havi bontásban kell meghatározni. A tárgyidőszakra vonatkozó TVK havi bontását a 28. számú melléklet tartalmazza az egyes ellátási formákra meghatározott tárgyidőszakra vonatkozó országos szezonális index alapján.
+
+## (3) A (2) bekezdés szerinti TVK megállapításának alapját – ide nem értve a 29/A. § (1) bekezdése szerinti orvosi klinikai és mikrobiológiai laboratóriumi vizsgálatokat, továbbá az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) szerint fejlesztéssel összefüggő többletkapacitás-befogadás alapján finanszírozásba lépett szakellátási szolgáltatásokat – a 2011. finanszírozási évre a külön keretekkel szintre hozott és megállapított, miniszteri tartalék terhére biztosított növekmény nélküli TVK képezi.
+
+## (3a) Az aktív fekvőbeteg-szakellátást speciális ellátotti kör részére nyújtó, az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet (a továbbiakban: Eftv. vhr.) 5/A. § (2) bekezdés a), d) és f) pontja szerinti egészségügyi szolgáltató (3) bekezdés alapján megállapított TVK-ját növelni kell az általa a 2011. finanszírozási évben a finanszírozónak lejelentett és elfogadott teljesítmény arányában a 28. számú melléklet B. rész 2. pontjában meghatározott TVK keretből.
+
+## (3b) 2010. év végén a kardiológiai és protetikai várólisták csökkentésére adott többlet volumen felhasználással összefüggésben a többlet esetszámot 2011. június 30-áig legalább 100 százalékos arányban teljesítő szolgáltató esetében a 2011-ben felhasznált többlet volumen beépül a szolgáltató (3) bekezdés alapján megállapított aktív-fekvőbeteg szakellátási TVK keretébe.”
+
+(2) A Kr. 27. §-a a következő (4a) bekezdéssel egészül ki:

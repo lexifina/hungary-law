@@ -1,12 +1,11 @@
-## 15–24. §[^2]
+## „(4) A szolgáltató a (3) bekezdés szerinti adatszolgáltatást a (2) bekezdésben meghatározottak szerint köteles elektronikus formában teljesíteni a finanszírozó felé.”
 
-25. § (1)[^3]
+25. § (1) A Kr. 56. §-a a következő (7) bekezdéssel egészül ki:
 
-(2)[^4]
+## „(7) Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel (a továbbiakban: Mód. kormányrendelet) megállapított 4. § (2) bekezdése szerinti jelentést 2012. március hónaptól kötelezően alkalmaznia kell minden egészségügyi szolgáltatónak.”
 
-(3)[^5]
+(2)[^1]
 
-[^2]: A 15–24. § a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
-[^3]: A 25. § (1) bekezdése a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
-[^4]: A 25. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 25. § (3) bekezdése a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+(3) A Kr. 56. §-a a következő (9) bekezdéssel egészül ki:
+
+[^1]: A 25. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

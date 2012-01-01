@@ -1,0 +1,1 @@
+## 104. § A gyógyszerek és gyógyászati segédeszközök közbeszerzésének részletes és sajátos szabályairól szóló 130/2004. (IV. 29.) Korm. rendelet 1. § (2) bekezdésében a „Magyar Köztársaság mindenkori éves költségvetési törvényében” szövegrész helyébe a „mindenkori központi költségvetésről szóló törvényben” szöveg lép.

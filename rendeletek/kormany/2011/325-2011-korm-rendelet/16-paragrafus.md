@@ -1,0 +1,3 @@
+## 15. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A szolgáltató az általa nyújtott, a finanszírozás alapjául szolgáló egészségügyi szolgáltatásokról rejtjelezéssel védett adatátviteli vonalon a megadott formátumban (rekordkép), e rendelet szerint adatot szolgáltat (a továbbiakban: jelentés) a finanszírozó részére. A finanszírozó a befogadott jelentésről az adott ellátási forma szerinti kísérőjegyzéknek megfelelő adattartamú visszaigazolást küld adatátviteli vonalon a szolgáltató részére.”

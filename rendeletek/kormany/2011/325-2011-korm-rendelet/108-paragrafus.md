@@ -1,4 +1,4 @@
-## 101–107. §[^33]
+## 107. § Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet 30. § (1) bekezdésében a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
 
 ## 13. Záró rendelkezések
 
@@ -9,5 +9,3 @@
 (3) Az 58. § (1) bekezdése, a 64. § (3) bekezdése, a 65. §, valamint a 72. § b) és c) pontja 2012. május 1-jén lép hatályba.
 
 (4) Ez a rendelet 2012. május 2-án hatályát veszti.
-
-[^33]: A 101–107. § a 108. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

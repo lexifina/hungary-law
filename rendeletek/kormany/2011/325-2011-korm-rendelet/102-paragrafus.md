@@ -1,0 +1,1 @@
+## 101. § A keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló 102/1995. (VIII. 25.) Korm. rendelet 2. § (7) bekezdésében az „a kúraszerű ellátás” szövegrész helyébe az „a kúraszerű ellátás, a járóbeteg-szakellátás keretében végzett nappali ellátás” szöveg lép.
