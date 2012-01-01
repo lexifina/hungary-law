@@ -6,8 +6,8 @@
 
 (3) Ha a szabadlábon lévő elítélt az átszállítására irányuló kérelmet terjeszt elő, az első fokon eljárt bíróság tanácsának elnöke elrendeli a jogerős szabadságvesztés, illetőleg intézkedés azonnali foganatba vételét, és intézkedik az (1) bekezdésben írt hozzájáruló nyilatkozat jegyzőkönyvezése iránt.
 
-(4)[^1] Amennyiben az elítélt, illetőleg képviselője az átszállítás iránti kérelmet terjeszt elő, a bíróság a büntetőügy iratait, valamint az Egyezmény 6. Cikk 2. pontjában felsorolt iratokat felterjeszti az Igazságügyi és Rendészeti Minisztériumnak.
+(4)[^1] Amennyiben az elítélt, illetőleg képviselője az átszállítás iránti kérelmet terjeszt elő, a bíróság a büntetőügy iratait, valamint az Egyezmény 6. Cikk 2. pontjában felsorolt iratokat felterjeszti az igazságügyért felelős miniszter által vezetett minisztériumnak.
 
 (5) Az Egyezmény 2. Cikk 3. pontjában említett esetben az (1)—(4) bekezdés rendelkezései értelemszerűen irányadók.
 
-[^1]: Az 1. § (4) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 53. pontja szerint módosított szöveg.
+[^1]: Az 1. § (4) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 53. pontja, a 40/2011. (XII. 30.) KIM rendelet 9. § a) pontja szerint módosított szöveg.
