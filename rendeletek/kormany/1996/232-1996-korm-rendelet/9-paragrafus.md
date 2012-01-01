@@ -1,6 +1,6 @@
-## A vízügyi igazgatóság[^21] műszaki és szervezési adatszolgáltatási kötelezettsége
+## A vízügyi igazgatóság[^25] műszaki és szervezési adatszolgáltatási kötelezettsége[^26]
 
-9. § (1) A vízügyi igazgatóság[^22] szolgáltatja:
+9. § (1)[^27] A vízügyi igazgatóság[^28] szolgáltatja:
 
 a) a védelmi bizottság elnöke útján
 
@@ -8,9 +8,11 @@ a) a védelmi bizottság elnöke útján
 
 2. a kitelepítési, kiürítési, mentési, befogadási és visszatelepítési tervek elkészítéséhez a lokalizációs tervek kivonatát, a műszaki leírást és átnézetes helyszínrajzot, amely tartalmazza az elöntéssel fenyegetett területeket, a kiürítés végrehajtására alkalmas utakat és vasútvonalakat;
 
-b) a helyi önkormányzatok és vízitársulatok saját védekezési terveinek elkészítéséhez a mértékadó, illetőleg jellemző vízszintek és vízhozamok, továbbá a befogadó és csatlakozó állami főművek műszaki alapadatait.(2) A vízügyi igazgatóság[^23] az (1) bekezdés a) pontjában felsorolt adatokban bekövetkezett változásokat – a védelmi bizottság elnöke útján – minden év augusztus 31-ig közölni köteles az érintett polgármesterekkel.
+b) a helyi önkormányzatok és vízitársulatok saját védekezési terveinek elkészítéséhez a mértékadó, illetőleg jellemző vízszintek és vízhozamok, továbbá a befogadó és csatlakozó állami főművek műszaki alapadatait.
 
-(3)[^24] A vízügyi igazgatóság[^25] a Vgtv. 16. §-a (4) bekezdésének d) pontja szerinti szakmai irányítási feladatkörében:
+(2)[^29] A VIZIG az (1) bekezdés a) pontjában felsorolt adatokban bekövetkezett változásokat – a hivatásos katasztrófavédelmi szerv területi szerve útján – évente január 31-ig közölni köteles az érintett polgármesterrel, főpolgármesterrel és a védelmi bizottság elnökével.
+
+(3)[^30] A vízügyi igazgatóság[^31] a Vgtv. 16. §-a (4) bekezdésének d) pontja szerinti szakmai irányítási feladatkörében:
 
 a) véleményezi a védekezési terveket;
 
@@ -18,8 +20,10 @@ b) közreműködik a védekezési felkészülés és a védőművek felülvizsg�
 
 c) a polgármester részére műszaki segítséget nyújt a védekezés ellátásához.
 
-[^21]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
-[^22]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
-[^23]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
-[^24]: A 9. § (3) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 104. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^25]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol e rendelet vízügyi igazgatóságot említ, azon a KÖVIG-et kell érteni.
+[^25]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^26]: [A 9. §-t megelőző alcímnek a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^27]: [A 9. § (1) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^28]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^29]: A 9. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 25. § (8) bekezdésével megállapított szöveg.
+[^30]: A 9. § (3) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 104. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni. [A 9. § (3) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^31]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol e rendelet vízügyi igazgatóságot említ, azon a KÖVIG-et kell érteni.

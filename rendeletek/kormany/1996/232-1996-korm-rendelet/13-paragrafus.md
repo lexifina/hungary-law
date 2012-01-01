@@ -1,4 +1,4 @@
-## 12. §[^28] A Vízügyi és Környezetvédelmi Központi Igazgatóság (a továbbiakban: VKKI) és a KÖVIZIG-ek állandó (éjjel-nappal) ügyeletet tartanak.
+## 12. §[^36] Az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) és a VIZIG-ek állandó (éjjel-nappal) ügyeletet tartanak.
 
 ## A védekezési készültség elrendelése
 
@@ -6,4 +6,4 @@
 
 (2) A rendkívüli védekezési készültség elrendelésére a 4. § (1) bekezdésben az irányadók.
 
-[^28]: A 12. § a 39/2007. (III. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^36]: A 12. § a 39/2007. (III. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés g) és i) pontja szerint módosított szöveg.

@@ -20,4 +20,6 @@
 
 9. a védekezési készültség fokozatai: I., II., III. és rendkívüli védekezési készültség;
 
-10. veszélyhelyzet: a polgári védelemről szóló 1996. évi XXXVII. törvény (a továbbiakban: Pvtv.) 2. §-a (2) bekezdésének g) és j) pontja szerinti állapot.
+10.[^1]
+
+[^1]: Az 1. § 10. pontját a 300/2011. (XII. 22.) Korm. rendelet 30. § m) pontja hatályon kívül helyezte.

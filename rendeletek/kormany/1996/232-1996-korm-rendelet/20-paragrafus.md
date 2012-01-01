@@ -1,5 +1,3 @@
-## 19. § Ha az árvízvédelmi védvonal átszakadásának veszélye fenyeget, vagy ha az elöntések emberi életet, létesítményeket és javakat veszélyeztetnek, a vízügyi igazgató köteles a megyei közgyűlés elnökének, a helyi önkormányzat védelemvezetője a polgármesternek (főpolgármesternek) a veszélyeztetett területekről a kimenekítés, kiürítés elrendelésére javaslatot tenni.
-
 ## A védekezés megszüntetését követő intézkedések
 
 20. § (1) A védelemvezető a készültség megszüntetése után haladéktalanul gondoskodik:
@@ -12,6 +10,8 @@ c) más szervektől, valamint az állampolgároktól igénybe vett szolgáltatá
 
 d) a megrongálódott védőművek helyreállításáról.(2) A készültség megszüntetését követő 30 napon belül a védelemvezető a felülvizsgálatra jogosult szerv részére a védekezésről összefoglaló jelentést köteles készíteni és jóváhagyásra előterjeszteni.
 
-(3) Rendkívüli készültségben történt védekezésről a kormánybiztosnak a Kormány részére a készültség megszüntetését követő 45 napon belül jelentést kell tennie.
+(3)[^48] Rendkívüli készültségben történt védekezésről a vízügyi igazgatási szervek irányításáért felelős miniszternek a Kormány részére a készültség megszüntetését követő 45 napon belül jelentést kell tennie.
 
 (4) A tartós III. fokú készültséggel járó védekezéseket a védekező szerv a felülvizsgálatra jogosult bevonásával értékelni köteles.
+
+[^48]: A 20. § (3) bekezdés a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés b) pontja szerint módosított szöveg.

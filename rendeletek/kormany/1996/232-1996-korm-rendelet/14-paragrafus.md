@@ -1,17 +1,15 @@
 ## Tájékoztatás a védekezési készültség elrendeléséről
 
-14. § (1) A védekezési készültségi fokozatok elrendeléséről, módosításáról és megszüntetéséről
+14. §[^37] (1) A védekezési készültségi fokozatok elrendeléséről, módosításáról és megszüntetéséről
 
-a)[^29] a KÖVIZIG-ek a VKKI ügyeletét, a védelmi bizottság elnökét és az ügyelettel rendelkező egyéb (így például rendvédelmi) szerveket,
+a) a VIZIG-ek a Törzset, a védelmi bizottság elnökét és a katasztrófák elleni védekezésben résztvevő, ügyelettel rendelkező szerveket,
 
-b) a polgármester (főpolgármester) a területileg illetékes vízügyi igazgatóság[^30] ügyeletét, a védelmi bizottság titkárát és a lakosságot,
+b) a polgármester, főpolgármester a működési terület szerinti VIZIG ügyeletét, a hivatásos katasztrófavédelmi szerv területi szervét és a lakosságot,
 
-c) a vízitársulatok a területileg illetékes vízügyi igazgatóság[^31] ügyeletét és az érintett települések polgármestereit
+c) a vízitársulatok a működési terület szerinti VIZIG ügyeletét és az érintett települések polgármestereit
 
-## haladéktalanul tájékoztatják.
+haladéktalanul tájékoztatják.
 
-(2) Az a) pont szerinti jelentésben foglaltakról a minisztert vagy az általa kijelölt személyt és az állandó tárcamegbízottakat tájékoztatni kell.
+(2) A vízügyi igazgatási szervek irányításáért felelős minisztert a Törzs tájékoztatja a védekezési fokozatok elrendeléséről, módosításáról és megszüntetéséről.
 
-[^29]: A 14. § (1) bekezdésének a) pontja a 39/2007. (III. 13.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^30]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
-[^31]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^37]: A 14. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.
