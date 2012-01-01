@@ -12,15 +12,10 @@
 
 (4) A közigazgatási alapvizsgához kapcsolódó felkészítő konzultáción részt vevő konzulensek, valamint az ügykezelői alapvizsgához kapcsolódó felkészítő tanfolyamon részt vevő konzulensek díjazását az NKI által kiadott, a 3. § (2) és (3) bekezdése szerinti országosan egységes oktatási program határozza meg a közigazgatási továbbképzés 2008. évi ajánlott díjairól szóló 1/2008. (MK 62.) MeHVM irányelvben foglaltak alapján.
 
-(5) 2011. december 31-ig a vizsgázó az 1. melléklet 3. függelékében szereplő jelentkezési lap kitöltésével postai úton is jelentkezhet közigazgatási alapvizsgára.
-
-(6) Az (5) bekezdés szerinti jelentkezés esetén a jelentkezési lapot legkésőbb a vizsga időpontja előtt 20 naptári nappal kell megküldeni a vizsgaszervezőnek.
-
-(7) Az (5) bekezdés szerinti jelentkezés esetén a vizsgaszervezőnek a befogadott jelentkezéseket legkésőbb a vizsga időpontja előtt 10 naptári nappal elektronikus úton vissza kell igazolnia a vizsgázónak és a munkáltatónak.
-
-(8) Az (5) bekezdés szerinti jelentkezés esetén a vizsgaszervező végzi el a 15. §-ban foglaltak szerint a vizsgázó regisztrációját és jelentkezését, valamint a munkáltató regisztrációját. Ennek megtörténtéről a vizsgaszervező a vizsgázó és a munkáltató részére elektronikus értesítést küld.
+(5)–(8)[^3]
 
 (9) Az (5)–(8) bekezdés, valamint az 1. melléklet 3. függeléke 2012. január 1-jén hatályát veszti.
 
 [^1]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 28. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: 28. § (5)–(8) bekezdését a (9) bekezdés hatályon kívül helyezte.

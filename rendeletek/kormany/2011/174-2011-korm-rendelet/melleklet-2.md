@@ -1,3 +1,33 @@
+## 2. függelék
+
+## Szám:
+
+## (a Magyar Köztársaság címere többszínnyomással)
+
+## BIZONYÍTVÁNY
+
+## Családi és utónév:
+
+## Születési hely, idő:
+
+## Anyja születési családi és utóneve:
+
+## ..........................(vizsgaszervező neve)................................ , mint vizsgaszervező előtt a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény alapján megfelelt minősítéssel
+
+## KÖZIGAZGATÁSI ALAPVIZSGÁT
+
+## tett.
+
+## Kelt: ............................, .................. év .................... hónap ............. nap
+
+## P. H.
+
+## ..............................................................
+
+## vizsgaszervező vezetője
+
+## 3. függelék[^4]
+
 2. melléklet a 174/2011. (VIII. 31.) Korm. rendelethez
 
 Az ügykezelői alapvizsga vizsgaszabályzata
@@ -111,3 +141,5 @@ VIZSGANYILVÁNTARTÓ-KÖNYV
 Az ügykezelői alapvizsgáról
 
 | Sorszám | Dátum | Vizsgázó családi és utóneve, (Születési családi és utóneve) születési helye, ideje anyja születési családi és utóneve | Munkáltató megnevezése | Bizonyítvány minősítése | Megjegyzés |
+
+[^4]: Az 1. melléklet 3. függelékét a 28. § (9) bekezdése hatályon kívül helyezte.
