@@ -18,8 +18,6 @@
 
 ## B) ÉRTESÍTEM, hogy a gondozásomban levő gyermek/fiatal felnőtt ellátásában a gondozási napok igénybevételének mértékét befolyásoló, alábbi VÁLTOZÁS TÖRTÉNT:
 
-|  |  | A gondozott sorkatonai (polgári) szolgálatból szerelt le. |
-
 |  |  | A gondozott büntetésének letöltése után visszatért. |
 
 |  |  | A BEFOGADÁS, illetve a VÁLTOZÁS időpontja: |
@@ -50,7 +48,7 @@
 
 ## A befogadást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni!
 
-5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^362]
+5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^392]
 
 ## ÉRTESÍTÉS A SZAKELLÁTÁSBAN ELLÁTOTTAKRÓL – TÁVOZÁS
 
@@ -75,8 +73,6 @@
 | gyámhivatali határozat alapján távozott. |  |
 
 ## B) ÉRTESÍTEM, hogy a gondozásomban levő gyermek/fiatal felnőtt ellátásában a gondozási napok igénybevételének mértékét befolyásoló, alábbi VÁLTOZÁS TÖRTÉNT:
-
-|  | A gondozott sorkatonai (polgári) szolgálatra bevonult. |  |
 
 |  | A gondozott | -ban |
 
@@ -110,4 +106,4 @@
 
 A távozást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni!
 
-[^362]: Az 5. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.
+[^392]: Az 5. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a szerint módosított szöveg.

@@ -14,7 +14,7 @@ b) a gyámhivatal által nevelésbe vett
 
 a) a beutaló szervet, illetve a gyámhivatalt,
 
-b)[^222] a szakszolgálatot a 4. számú melléklet szerinti adatlapon,
+b)[^244] a szakszolgálatot a 4. számú melléklet szerinti adatlapon,
 
 c) a gyermek törvényes képviselőjét,
 
@@ -22,9 +22,9 @@ d) az átmeneti nevelt és ideiglenes hatállyal elhelyezett gondozott gyermek v
 
 e) a szülő lakóhelye szerinti gyermekjóléti szolgálatot,
 
-f)[^223] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
+f)[^245] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
 
 (3) A nevelőszülői hálózat működtetője haladéktalanul értesíti a nevelésbe vételt elrendelő gyámhivatalt, ha a gondozott gyermek a határozatban megjelölt időpontig nem került a nevelőszülő gondozásába.
 
-[^222]: A 101. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 60. §-ával megállapított szöveg.
-[^223]: A 101. § (2) bekezdésének f) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 60. §-ával megállapított szöveg.
+[^244]: A 101. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 60. §-ával megállapított szöveg.
+[^245]: A 101. § (2) bekezdésének f) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 60. §-ával megállapított szöveg.

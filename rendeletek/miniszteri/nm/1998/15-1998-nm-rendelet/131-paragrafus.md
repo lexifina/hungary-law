@@ -1,4 +1,4 @@
-131. §[^289] (1) A Minisztérium gyermekotthona annak a 12. – kivételesen indokolt esetben 10. – életévét betöltött gondozott gyermeknek biztosít speciális ellátást, akinek gondozási helyéül a gyámhivatal az országos bizottság szakvéleménye alapján – a Minisztérium gyermekotthonát jelölte meg.
+131. §[^318] (1) A Minisztérium gyermekotthona annak a 12. – kivételesen indokolt esetben 10. – életévét betöltött gondozott gyermeknek biztosít speciális ellátást, akinek gondozási helyéül a gyámhivatal az országos bizottság szakvéleménye alapján – a Minisztérium gyermekotthonát jelölte meg.
 
 (2) A Minisztérium gyermekotthona a speciális ellátás keretében a gyermek állapotához, szükségleteihez igazodó terápiát nyújt azon gyermek számára, aki
 
@@ -18,4 +18,4 @@ d) szerzett immunhiányos tünetegyüttesben való megbetegedése
 
 (5) A Minisztérium gyermekotthona nyilvántartást vezet azokról a gyermekekről, akiknek az elhelyezésére az országos bizottság javaslatot tett, de férőhely hiányában elhelyezésükre csak későbbi időpontban kerülhet sor (várakozó lista). A Minisztérium gyermekotthona haladéktalanul értesíti a várakozó listán szereplő gyermek ügyében illetékes területi gyermekvédelmi szakszolgálatot és a törvényes képviselőt, ha a gyermeket fogadni tudja.
 
-[^289]: A 131. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
+[^318]: A 131. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.

@@ -112,6 +112,8 @@
 
 |  | segédgondozó | alapfokú iskolai végzettség, dajka (OKJ), óvodai dajka (OKJ) |
 
+| 4/a. Alternatív napközbeni ellátás |  | felsőfokú szociális alapvégzettség, pszichológus, pszichopedagógus, gyógypedagógus, pedagógus vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: óvodapedagógus, csecsemő- és kisgyermeknevelő (BA), tanító, tanár, nevelőtanár, pedagógia szakos nevelő, pedagógiai előadó, pedagógia alapszakos bölcsész, viselkedéselemző, gyógypedagógus, védőnő, teológus, hittanár, hittantanár, hittanár-nevelő vagy gyermekotthoni asszisztens (OKJ), gyermek- és ifjúsági felügyelő I. (OKJ), gyógypedagógiai asszisztens (OKJ), mentálhigiénés asszisztens (OKJ), pedagógiai asszisztens (OKJ), szociális asszisztens (OKJ) vagy gyermek- és ifjúsági felügyelő II. (OKJ), dajka (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ), óvodai dajka (OKJ) vagy bölcsődei szakgondozó (OKJ), csecsemő- és kisgyermekgondozó (OKJ), csecsemő- és kisgyermeknevelő-gondozó (OKJ) csecsemő- és gyermeknevelő-gondozó (OKJ), kisgyermekgondozó, -nevelő (OKJ) vagy csecsemő- és gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő II. (OKJ), pedagógiai asszisztens (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ) vagy szociális asszisztens (OKJ), pedagógiai asszisztens (OKJ), gyógypedagógus asszisztens (OKJ), mentálhigiénés asszisztens (OKJ), szociális, gyermek- és ifjúságvédelmi ügyintéző (OKJ) vagy népművelő-művelődésszervező |
+
 | 5. Helyettes szülői hálózat | helyettes szülői tanácsadó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
 
 | 6. Gyermekek átmeneti otthona | nevelő | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: teológus, hittanár, hittantanár |
@@ -202,6 +204,6 @@
 
 |  | módszertani szaktanácsadó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális igazgatásszervező, szociális menedzser oklevéllel rendelkező: jogász, igazgatásszervező, szociológus, közgazdász szociálpolitikai szakon |
 
-3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^360]
+3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^390]
 
-[^360]: A 3. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.
+[^390]: A 3. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.

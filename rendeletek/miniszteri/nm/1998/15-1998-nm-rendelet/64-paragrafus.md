@@ -4,6 +4,6 @@
 
 64. § (1) A gyermekek átmeneti otthona az otthonba történő befogadásról haladéktalanul értesíti a gyermek lakóhelye szerinti gyermekjóléti szolgálatot.
 
-(2)[^164] A gyermekek átmeneti otthonában fizetendő térítési díjról a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló kormányrendelet rendelkezik.
+(2)[^186] A gyermekek átmeneti otthonában fizetendő térítési díjról a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló kormányrendelet rendelkezik.
 
-[^164]: A 64. § (2) bekezdése a 28/2010. (XII. 30.) NEFMI rendelet 25. § j) pontja szerint módosított szöveg.
+[^186]: A 64. § (2) bekezdése a 28/2010. (XII. 30.) NEFMI rendelet 25. § j) pontja szerint módosított szöveg.
