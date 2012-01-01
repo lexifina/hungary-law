@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-104-00-00
 | 2011-04-06 | 2011. évi XIX. törvény | 2010-104-00-00.3 |
 | 2011-08-03 | 2011. évi CVII. törvény | 2010-104-00-00.4 |
 | 2011-12-21 | 165/2011. (XII. 20.) AB határozat | 2010-104-00-00.5 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2010-104-00-00.6 |

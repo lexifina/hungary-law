@@ -6,7 +6,7 @@
 
 a) azt a nyilatkozó nem a helyi, országos vagy európai közélet eseményével összefüggésben tette,
 
-b) az nem a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
+b) az nem Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
 
 c) a visszavonásra irányuló nyilatkozatot nem hivatalos vagy közfeladatot ellátó személy, vagy politikai közszereplő közmegbízatása ellátásával összefüggésben tette,
 

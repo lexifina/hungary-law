@@ -1,4 +1,4 @@
-4. § (1) A Magyar Köztársaság jogrendje elismeri és védi a sajtó szabadságát, valamint biztosítja sokszínűségét.
+4. § (1) Magyarország elismeri és védi a sajtó szabadságát és sokszínűségét.
 
 (2) A sajtószabadság kiterjed az államtól, valamint bármely szervezettől és érdekcsoporttól való függetlenségre is.
 

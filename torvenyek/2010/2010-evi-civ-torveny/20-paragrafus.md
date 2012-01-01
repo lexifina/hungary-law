@@ -10,11 +10,11 @@
 
 (6) A médiatartalomban közzétett kereskedelmi közlemény nem ösztönözhet az egészségre, a biztonságra és a környezetre ártalmas magatartásra.
 
-(7) Nem szabad médiatartalomban közzétenni dohányárut, fegyvert, lőszert, robbanóanyagot, kizárólag orvosi rendelvényre igénybe vehető gyógyszert, továbbá gyógyászati eljárást népszerűsítő, ismertető kereskedelmi közleményt. E korlátozás nem terjed ki a gazdasági reklámtevékenységről szóló törvényben, illetve más jogszabályban foglalt kivételekre.
+(7) Nem szabad médiatartalomban közzétenni dohányárut, fegyvert, lőszert, robbanóanyagot, az állami adóhatóság engedélye nélkül szervezett szerencsejátékot, kizárólag orvosi rendelvényre igénybe vehető gyógyszert, továbbá gyógyászati eljárást népszerűsítő, ismertető kereskedelmi közleményt. E korlátozás nem terjed ki a gazdasági reklámtevékenységről szóló törvényben, illetve más jogszabályban foglalt kivételekre.
 
 (8) A médiatartalom támogatóját a közzététellel egyidejűleg, illetve azt közvetlenül megelőzően vagy azt követően meg kell nevezni. Audiovizuális médiaszolgáltatás vagy annak műsorszáma más audiovizuális médiaszolgáltatást végző, illetve audiovizuális műsorszámok vagy filmalkotások készítésével foglalkozó vállalkozás által nem támogatható.
 
-(9) A médiaszolgáltatásban közzétett, támogatott médiatartalom nem ösztönözhet, és nem hívhat fel a támogató vagy az általa meghatározott harmadik személy termékének beszerzésére vagy szolgáltatásának igénybevételére, illetőleg az attól való tartózkodásra.
+(9) A médiaszolgáltatásban közzétett, támogatott médiatartalom nem ösztönözhet, és nem hívhat fel a támogató vagy az általa meghatározott harmadik személy termékének beszerzésére vagy szolgáltatásának igénybevételére, illetve az attól való tartózkodásra.
 
 (10) A támogató a médiatartalom-szolgáltató felelősségét, illetve szerkesztői szabadságát érintő módon a médiatartalmat vagy annak közzétételét nem befolyásolhatja.
 
