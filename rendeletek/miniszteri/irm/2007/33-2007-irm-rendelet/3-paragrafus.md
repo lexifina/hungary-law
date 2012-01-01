@@ -4,4 +4,6 @@
 
 3. § (1) A szakértői testület tagjainak kinevezése a külön törvényben meghatározottak szerint történik.
 
-(2) Az igazságügyi és rendészeti miniszter (a továbbiakban: miniszter) a kinevezést megelőzően a tagok személyére vonatkozóan véleményt kér a Magyar Igazságügyi Szakértői Kamarától és az adott szakértői testülethez tartozó szakterületnek megfelelő képzést folytató egyetemektől. A beérkezett vélemények nem kötelezik a kinevezés során a minisztert.
+(2)[^2] Az igazságügyért felelős miniszter (a továbbiakban: miniszter) a kinevezést megelőzően a tagok személyére vonatkozóan véleményt kér a Magyar Igazságügyi Szakértői Kamarától és az adott szakértői testülethez tartozó szakterületnek megfelelő képzést folytató egyetemektől. A beérkezett vélemények nem kötelezik a kinevezés során a minisztert.
+
+[^2]: A 3. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 29. § a) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
 ## 30. § A Pénz- és Tőkepiaci Igazságügyi Szakértői Testület legfeljebb 50 tagból áll.
 
-## A Műszaki Igazságügyi Szakértői Testület[^4]
+## A Műszaki Igazságügyi Szakértői Testület[^7]
 
-30/A. §[^5] (1) A Műszaki Igazságügyi Szakértői Testület – a (2) bekezdésben foglalt kivétellel – az R.
+30/A. §[^8] (1) A Műszaki Igazságügyi Szakértői Testület – a (2) bekezdésben foglalt kivétellel – az R.
 
 a) 5. számú mellékletében meghatározott közlekedési és ipari szakterületeken,
 
@@ -28,5 +28,5 @@ ab) B) részének 33. pontjában meghatározott vendéglátóipar, és 37. pontj
 
 b) 11. számú mellékletének 14. pontjában meghatározott táj- és kertépítészet, valamint 18. pontjában megjelölt idegenforgalom szakterületeken
 
-[^4]: A 30/A. §-t megelőző alcímet a 23/2008. (X. 17.) IRM rendelet 4. §-a iktatta be.
-[^5]: A 30/A. §-t a 23/2008. (X. 17.) IRM rendelet 4. §-a iktatta be.
+[^7]: A 30/A. §-t megelőző alcímet a 23/2008. (X. 17.) IRM rendelet 4. §-a iktatta be.
+[^8]: A 30/A. §-t a 23/2008. (X. 17.) IRM rendelet 4. §-a iktatta be.
