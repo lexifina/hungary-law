@@ -1,4 +1,4 @@
-| A Magyar Köztársaság Elnökének Budapest | fénykép helye |  | fénykép helye |
+| A köztársasági elnöknek Budapest | fénykép helye |  | fénykép helye |
 
 ## HONOSÍTÁSI KÉRELEM
 
@@ -309,4 +309,4 @@
 2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^63]
 
 [^*]: A kívánt rész aláhúzandó vagy a nem kívánt rész törlendő.
-[^63]: A 2. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^63]: A 2. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 276/2011. (XII. 20.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.

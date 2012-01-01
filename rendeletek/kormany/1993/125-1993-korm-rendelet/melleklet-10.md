@@ -20,7 +20,7 @@
 
 ## (törvényes képviselője)
 
-## -t a Magyar Köztársaság Elnöke
+## -t a köztársasági elnök
 
 ## év hó napján kelt határozatával honosította/visszahonosította. Az
 
@@ -28,15 +28,7 @@
 
 ## A polgármester/külképviselet vezetője a honosított/visszahonosított személy(eke)t tájékoztatta, hogy választása/uk szerint állampolgársági esküt vagy fogadalmat tehet(nek). Az eskü és a fogadalom egyenértékű.
 
-## A honosított(ak), visszahonosított(ak) a magyar állampolgárságról szóló 1993. évi LV. törvény 7. §-ában foglaltak szerint az alábbi esküt, illetve fogadalmat letette(ék):
-
-## „Én (mint törvényes képviselője)
-
-## esküszöm/fogadom, hogy Magyarországot hazámnak tekintem. A Magyar Köztársaságnak hű állampolgára leszek, Alkotmányát és törvényeit tiszteletben tartom és megtartom. Hazámat erőmhöz mérten megvédem, képességeimnek megfelelően szolgálom.”
-
-## (Az esküt tevő meggyőződése szerint:)
-
-## „Isten engem úgy segéljen.”
+## A honosított(ak), visszahonosított(ak) a magyar állampolgárságról szóló 1993. évi LV. törvény 7. §-ában foglaltak szerint az esküt, illetve a fogadalmat letette(ék).
 
 ## Előttem:
 
@@ -74,9 +66,9 @@
 
 ## A jegyzőkönyv első példányát 5 napon belül az állampolgársági ügyekben eljáró szervnek kell megküldeni, másodpéldányát pedig a polgármesteri hivatal/külképviselet irattározza. A jegyzőkönyv nem selejtezhető!”
 
-10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^74]
+10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^75]
 
-| A Magyar Köztársaság Elnökének Budapest | fénykép helye |  | fénykép helye |
+| A köztársasági elnöknek Budapest | fénykép helye |  | fénykép helye |
 
 | HONOSÍTÁSI – VISSZAHONOSÍTÁSI – KÉRELEM |
 
@@ -448,4 +440,4 @@ Megjegyzéseim:
 
 a kérelmező aláírása
 
-[^74]: A 10. számú mellékletet a 224/2010. (VIII. 4.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni. A 10. számú melléklet a 26/2011. (III. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^75]: A 10. számú mellékletet a 224/2010. (VIII. 4.) Korm. rendelet 8. §-a iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 3. §-a, a 276/2011. (XII. 20.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.

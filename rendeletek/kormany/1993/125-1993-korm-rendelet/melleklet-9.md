@@ -62,6 +62,6 @@
 
 ## P. H.
 
-9. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^73]
+9. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^74]
 
-[^73]: A 9. számú mellékletet a 128/2003. (VIII. 19.) Korm. rendelet 5. §-a iktatta be, szövege a 116/2007. (V. 24.) Korm. rendelet 11. § (5) bekezdésével megállapított, a 26/2011. (III. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^74]: A 9. számú mellékletet a 128/2003. (VIII. 19.) Korm. rendelet 5. §-a iktatta be, szövege a 116/2007. (V. 24.) Korm. rendelet 11. § (5) bekezdésével megállapított, a 26/2011. (III. 10.) Korm. rendelet 3. §-a, a 276/2011. (XII. 20.) Korm. rendelet 1. § (4)–(5) bekezdése és a 22. § b) pontja szerint módosított szöveg.

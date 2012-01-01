@@ -1,4 +1,4 @@
-## A Magyar Köztársaság Elnökének
+## A köztársasági elnöknek
 
 ## Budapest
 
@@ -74,4 +74,4 @@
 
 3. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^64]
 
-[^64]: A 3. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^64]: A 3. számú melléklet a 116/2007. (V. 24.) Korm. rendelet 11. § (3) bekezdésével megállapított, a 276/2011. (XII. 20.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## KÉRELEM
 
-## A Magyar Köztársaság belügyminiszterének
+## A belügyminiszternek
 
 ## Budapest
 
@@ -112,4 +112,4 @@
 
 [^*]: A kívánt rész aláhúzandó vagy a nem kívánt rész törlendő!
 [^*]: A kívánt rész aláhúzandó vagy a nem kívánt rész törlendő!
-[^68]: A 6. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 116/2007. (V. 24.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^68]: A 6. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 116/2007. (V. 24.) Korm. rendelet 11. § (4) bekezdésével megállapított, a 276/2011. (XII. 20.) Korm. rendelet 1. § (6) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## A Magyar Köztársaság Elnökének
+## A köztársasági elnöknek
 
 ## Budapest
 

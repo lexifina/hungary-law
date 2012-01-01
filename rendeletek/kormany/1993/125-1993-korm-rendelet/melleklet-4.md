@@ -1,4 +1,4 @@
-## A Magyar Köztársaság Elnökének
+## A köztársasági elnöknek
 
 ## Budapest
 
@@ -78,7 +78,7 @@
 
 ## LEMONDÁS a magyar állampolgárságról
 
-## A Magyar Köztársaság Elnökének
+## A köztársasági elnöknek
 
 ## Budapest
 
@@ -346,4 +346,4 @@ Megjegyzéseim:
 
 a kérelmező aláírása
 
-[^65]: A 4. számú melléklet a 128/2003. (VIII. 19.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^65]: A 4. számú melléklet a 128/2003. (VIII. 19.) Korm. rendelet 5. §-ával megállapított, a 276/2011. (XII. 20.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.

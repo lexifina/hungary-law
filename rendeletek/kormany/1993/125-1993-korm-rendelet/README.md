@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-125-20-
 | 2010-09-01 | 1993-125-20-22.13 | 234/2010. (VIII. 31.) Korm. rendelet |
 | 2011-01-01 | 1993-125-20-22.14 | 340/2010. (XII. 28.) Korm. rendelet |
 | 2011-03-11 | 1993-125-20-22.15 | 26/2011. (III. 10.) Korm. rendelet |
+| 2012-01-01 | 1993-125-20-22.16 | 116/2007. (V. 24.) Korm. rendelet |
