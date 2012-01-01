@@ -4,7 +4,7 @@
 
 (2) Engedély – a (3) bekezdésben szabályozott eset kivételével – csak annak a kérelmezőnek adható, amelynek
 
-a) cégbírósági nyilvántartásba vétele vagy a vállalkozói igazolványának kiadása legkésőbb a kérelem benyújtását egy évvel megelőzően megtörtént;
+a)
 
 b) a kérelemben megjelölt tevékenység irányítására kijelölt felelős vezetője a külön jogszabályban megjelölt szakirányú végzettséggel és gyakorlattal rendelkezik;
 
@@ -22,10 +22,6 @@ c) a kérelemben megjelölt tevékenység irányítására kijelölt felelős ve
 
 d) megfelel az e törvény vagy a felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
 
-(5) El kell tekinteni a (2) bekezdés a) pontjában meghatározott feltételtől, ha a kérelmező
+(5)
 
-a) a korábban hadiipari tevékenységet végző gazdálkodó szervezetnek az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény szerinti értékesítése, illetve a gazdasági társaság átalakulása folytán létrejött gazdasági társaság,
-
-b) többségi vagy közvetlen irányítást biztosító befolyással bíró tagja vagy részvényese hadiipari tevékenységet folytat.
-
-(6) Az engedélyezési eljárás ügyintézési határideje negyvenöt nap.
+(6) Az engedélyezési eljárás ügyintézési határideje hatvan nap.

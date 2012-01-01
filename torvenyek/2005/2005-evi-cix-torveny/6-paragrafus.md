@@ -10,7 +10,7 @@ c) az alkalmazottak 5. § (3) és (4) bekezdése alapján megismert személyes a
 
 (2) Az (1) bekezdésben meghatározott személyes adatok kezelésének célja a benyújtott kérelem elbírálásának biztosítása, valamint a jogszabály által meghatározott és az engedélyezés alapjául szolgáló feltételrendszereknek való megfelelés folyamatos ellenőrzése.
 
-(3) A haditechnikai ipari bizottság a hatóság előtt folyó eljárásban kezelt adatok megismerésére jogosult.
+(3) Eltérő törvényi rendelkezés hiányában a 2. § (4) bekezdésében meghatározott szervek jogosultak az e törvényben meghatározott eljárás lefolytatása céljából a hadiipari gyártás- és szolgáltatás felügyelet előtt folyó eljárásban kezelt adatok megismerésére.
 
 (4) A hadiipari gyártás- és szolgáltatásfelügyelet a kérelem kézhezvételétől a kérelem jogerős elutasítását vagy az engedély visszavonását követő 6 hónapig jogosult az (1) bekezdés a) és b) pontjában szerinti adatok kezelésére. A kezelési idő lejárta után az adatokat meg kell semmisíteni.
 
