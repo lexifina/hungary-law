@@ -4,9 +4,9 @@
 
 a) a gyermek tartására köteles, és
 
-b) nyugellátásban, vagy baleseti nyugellátásban, vagy nyugdíjszerű rendszeres szociális pénzellátásban, vagy időskorúak járadékában részesül.
+b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, időskorúak járadékában vagy olyan ellátásban részesül, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik.
 
-(2) A kiegészítő gyermekvédelmi támogatásra való jogosultságot a gyám lakcíme szerint illetékes települési önkormányzat jegyzője – határozatlan időre – állapítja meg.
+(2) A kiegészítő gyermekvédelmi támogatásra való jogosultságot a családbafogadó gyám lakcíme szerint illetékes települési önkormányzat jegyzője – határozatlan időre – állapítja meg.
 
 (3) A kiegészítő gyermekvédelmi támogatás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
 

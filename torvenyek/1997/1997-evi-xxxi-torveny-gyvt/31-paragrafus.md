@@ -4,10 +4,4 @@
 
 (2) Ha a gyermek védelme az ellátás önkéntes igénybevételével nem biztosított, e törvény az ellátás kötelező igénybevételét elrendeli.
 
-(3) Ha az önkormányzat rendelete eltérően nem rendelkezik, a kérelmező a kérelmet
-
-a) a lakóhelye szerint illetékes települési önkormányzat által fenntartott nem bentlakásos gyermekintézmény esetén az intézmény vezetőjénél,
-
-b) más intézmény esetében a lakóhelye szerinti települési önkormányzat polgármesteri hivatalánál
-
-nyújthatja be.
+(3)

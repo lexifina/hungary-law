@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2011-05-01 | 2010. évi CXXXV. törvény | 1997-31-00-00.48 |
 | 2011-07-01 | 2010. évi CLIII. törvény | 1997-31-00-00.49 |
 | 2011-07-27 | 2011. évi CVI. törvény | 1997-31-00-00.50 |
+| 2012-01-01 | 2011. évi CXCI. törvény | 1997-31-00-00.51 |

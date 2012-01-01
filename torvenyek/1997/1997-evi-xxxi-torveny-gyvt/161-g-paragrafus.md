@@ -1,0 +1,1 @@
+161/G. § A 145/A. § (5) bekezdésének hatályon kívül helyezése alapján az egyházi kiegészítő támogatás megtérítése alóli mentesülésre akkor van lehetőség, ha 2012. január 1-jéig a fenntartóváltozásra, illetve az új szolgáltató, intézmény létrehozására tekintettel a működési engedély, illetve annak módosítása jogerőre emelkedett.

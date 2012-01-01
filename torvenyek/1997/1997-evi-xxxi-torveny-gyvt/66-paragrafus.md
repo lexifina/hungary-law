@@ -1,4 +1,4 @@
-66. § (1) A megyei, fővárosi önkormányzat a gyermekvédelmi szakszolgáltatás
+66. § (1) A megyei fenntartó és a fővárosi önkormányzat a gyermekvédelmi szakszolgáltatás
 
 a) 60. § a) pontjában meghatározott feladatait – az elhelyezési javaslat kivételével – a megyei, fővárosi gyermekvédelmi szakértői bizottság útján biztosítja,
 
@@ -6,7 +6,7 @@ b) a) pontban nem említett feladatait, gyermekvédő intézet vagy más szakszo
 
 biztosítja.
 
-(2) A megyei, fővárosi önkormányzat a 63. §-ban meghatározott feladatokat
+(2) A megyei fenntartó és a fővárosi önkormányzat a 63. §-ban meghatározott feladatokat
 
 a) az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában elhelyezett gyermek, továbbá
 
@@ -18,11 +18,11 @@ tekintetében látja el.
 
 a) eseti gondnoki, vagyonkezelő gondnoki, hivatásos gyámi hálózatot működtet,
 
-b) a megyei, fővárosi és megyei jogú városi önkormányzat döntése alapján a gyermekek ideiglenes hatályú elhelyezését biztosító otthont működtet,
+b) a megyei fenntartó és a fővárosi önkormányzat döntése alapján a gyermekek ideiglenes hatályú elhelyezését biztosító otthont működtet,
 
 c) működteti az utógondozói ellátást igénylő fiatal felnőttek lakhatását biztosító külső férőhelyeket,
 
-d) a megyei, fővárosi és megyei jogú városi önkormányzat vagy más fenntartó felkérésére javaslatot tesz az ideiglenes hatállyal elhelyezett gyermekek ellátását biztosító nevelőszülőre, gyermekotthonra,
+d) a megyei fenntartó, a fővárosi és megyei jogú városi önkormányzat vagy más fenntartó felkérésére javaslatot tesz az ideiglenes hatállyal elhelyezett gyermekek ellátását biztosító nevelőszülőre, gyermekotthonra,
 
 e) ügyeleti szolgálatot működtet,
 

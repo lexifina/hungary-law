@@ -12,13 +12,13 @@ kell kifizetni.
 
 a) a kérelmezőnek a 22. § (1) bekezdésében meghatározott körülményeiben változás állt be,
 
-b) a kötelezett rendszeres jövedelmére, illetve az egyéb vagyonára vezetett végrehajtás eredménnyel jár,
+b) a kötelezett rendszeres jövedelmére, illetve az egyéb vagyonára vezetett végrehajtás eredménnyel jár, feltéve, hogy annak mértéke a bíróság által megállapított gyermektartásdíj alapösszegének ötven százalékát meghaladja,
 
-c) a kötelezett a kérelmező részére közvetlenül fizet tartásdíjat,
+c) a kötelezett a kérelmező részére legalább két egymást követő alkalommal közvetlenül fizet tartásdíjat, feltéve, hogy annak összege alkalmanként a bíróság által megállapított gyermektartásdíj alapösszegének ötven százalékát meghaladja,
 
 d) a gyermek ideiglenes hatályú elhelyezését rendelték el.
 
-(4) A gyámhivatal a felfüggesztést követő vizsgálat eredményeképpen, ha a felfüggesztés időtartama alatt a jogosult nem részesült gyermektartásdíjban – a felfüggesztés lejárta után – elrendeli a gyermektartásdíj további folyósítását és a felfüggesztés időtartamára esedékes megelőlegezett gyermektartásdíj utólagos, egy összegben történő kifizetését vagy a megelőlegezést megszünteti.
+(4) A gyámhivatal a felfüggesztést követő vizsgálat eredményeképpen, ha a felfüggesztés időtartama alatt a jogosult nem részesült a 22. § (6) bekezdés a) pontjában meghatározott mértékű gyermektartásdíjban – a felfüggesztés lejárta után – elrendeli a gyermektartásdíj további folyósítását és a felfüggesztés időtartamára esedékes megelőlegezett gyermektartásdíj utólagos, egy összegben történő kifizetését vagy a megelőlegezést megszünteti.
 
 (5) A gyámhivatal a gyermektartásdíj megelőlegezését megszünteti, ha
 

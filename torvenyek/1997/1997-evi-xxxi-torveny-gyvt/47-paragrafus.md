@@ -1,6 +1,4 @@
-47. § (1) A gyermekek átmeneti gondozását meg kell szüntetni, ha azt a szülő kéri, vagy ha annak okai már nem állnak fenn.
-
-(2) Megszűnik a gyermek átmeneti gondozása, ha a gondozás időtartama eltelt.
+47. § (1)–(2)
 
 (3) Ha az átmeneti gondozás időtartama eltelt, azonban a gyermek családi környezetébe nem térhet vissza
 

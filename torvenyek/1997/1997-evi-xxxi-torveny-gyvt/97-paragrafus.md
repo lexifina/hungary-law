@@ -1,6 +1,6 @@
 ## Ellátási szerződés
 
-97. § (1) Az e törvényben meghatározott személyes gondoskodást nyújtó ellátást vagy egyes körülhatárolható és elkülöníthető feladatok ellátását a helyi önkormányzat, valamint az állami szerv nem állami szervvel kötött ellátási szerződés útján is biztosíthatja.
+97. § (1) Az e törvényben meghatározott személyes gondoskodást nyújtó ellátást vagy egyes körülhatárolható és elkülöníthető feladatok ellátását a helyi önkormányzat, az állam, valamint az állami szerv nem állami szervvel kötött ellátási szerződés útján is biztosíthatja.
 
 (2) Ha az ellátási szerződés alapján a feladat ellátásában vallási vagy világnézeti elkötelezettségű nem állami szerv működik közre, a megállapodás megkötése nem mentesíti a helyi önkormányzatot, valamint az állami szervet a feladatellátási kötelezettség alól azon gyermek tekintetében, akinek szülője nem kívánja a nem állami szerv szolgáltatását igénybe venni.
 

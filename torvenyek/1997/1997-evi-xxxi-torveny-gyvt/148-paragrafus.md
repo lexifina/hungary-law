@@ -1,47 +1,25 @@
-148. § (1) A személyes gondoskodást nyújtó alapellátás keretében biztosított gyermekek napközbeni ellátása személyi térítési díjának megfizetésére a szülői felügyeleti joggal rendelkező szülő vagy más törvényes képviselő köteles.
+148. § (1) A kötelezett által fizetendő térítési díj összegét (a továbbiakban: személyi térítési díj) az intézményvezető, a szolgáltatást vezető vagy a működtető (a továbbiakban együtt: intézményvezető) konkrét összegben állapítja meg.
 
-(2) A gyermekek napközbeni ellátását biztosító intézményben – a 149. §-ban foglalt kivétellel – az alapellátások keretébe tartozó szolgáltatások közül csak az étkezésért állapítható meg térítési díj.
+(2) A bölcsődei ellátás esetében az intézményvezető a 151. § (4) bekezdés alapján megállapítja a bölcsődei ellátás keretében biztosított gyermekétkeztetésre vonatkozó személyi térítési díjat, valamint emellett – a fenntartó döntésétől függően – a bölcsődei ellátás keretében nyújtott gondozásra is megállapíthat személyi térítési díjat.
 
-(3) A gyermekek napközbeni ellátása (a továbbiakban: gyermekétkeztetés) intézményi térítési díjának alapja – ide nem értve a bölcsődét – az élelmezés nyersanyagköltségének egy ellátottra jutó napi összege. A bölcsőde intézményi térítési díjának alapja az élelmezés nyersanyagköltsége és a nyersanyagköltség legfeljebb 50%-át kitevő rezsiköltség egy ellátottra jutó napi összege.
+(3) Az intézményvezető a kötelezettet írásban értesíti a személyi térítési díj összegéről
 
-(4) A személyi térítési díjat az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg.
+a) a gyermekek napközbeni ellátása esetén a szolgáltatás, ellátás igénybevételét megelőzően,
 
-(5) Gyermekétkeztetés esetén
+b) a gyermekek átmeneti gondozása és utógondozói ellátás esetén legkésőbb az ellátás igénybevételétől számított harminc napon belül.
 
-a) a rendszeres gyermekvédelmi kedvezményben részesülő
+(4) A személyi térítési díj – a gyermekétkeztetés kivételével – nem haladhatja meg az intézményi térítési díj összegét. Ha az intézményi térítési díj számítása nem eredményez pozitív számot, a személyi térítési díj összege nulla.
 
-aa) bölcsődés,
+(5) A személyi térítési díj összege – önkormányzati intézmény esetén – a fenntartó rendeletében foglaltak szerint csökkenthető, illetve elengedhető, ha a kötelezett jövedelmi és vagyoni viszonyai ezt indokolttá teszik.
 
-ab) óvodás,
+(6) Ha a kötelezett a személyi térítési díjat vitatja, illetve annak csökkentését vagy elengedését kéri, a (3) bekezdés szerinti értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat.
 
-ac) 1–8. évfolyamon nappali rendszerű iskolai oktatásban részt vevő,
+(7) Ha a kötelezett a személyi térítési díj egyházi vagy nem állami fenntartó által megállapított összegét vitatja, a bíróságtól kérheti a személyi térítési díj megállapítását. A bíróság jogerős határozatáig a korábban megállapított személyi térítési díjat kell megfizetni.
 
-ad) fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó intézményben elhelyezett, aa)–ac) alpont szerinti életkorú
+(8) A személyi térítési díj összege évente két alkalommal vizsgálható felül és változtatható meg, kivéve, ha a kötelezett jövedelme olyan mértékben csökken, hogy az e törvényben szabályozott díjfizetési kötelezettségének nem tud eleget tenni. A kötelezett nem kötelezhető a felülvizsgálatot megelőző időszakra vonatkozóan az új térítési díj megfizetésére.
 
-gyermek után az intézményi térítési díj 100%-át,
+(9) A térítési díj meg nem fizetése esetén késedelmi pótlék nem állapítható meg.
 
-b) az a) pont alá nem tartozó, rendszeres gyermekvédelmi kedvezményben részesülő gyermek és tanuló után az intézményi térítési díj 50%-át,
+(10) A kötelezett írásban vállalhatja a mindenkori intézményi térítési díjjal azonos személyi térítési díj megfizetését, vagy a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését. Ebben az esetben nem kell a 150. § (1)–(3) bekezdésében foglaltakat alkalmazni, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő ne kerüljön előnyösebb helyzetbe, mint ha a vállalást a kötelezett nem tenné meg.
 
-c) három- vagy többgyermekes családoknál gyermekenként az intézményi térítési díj 50%-át,
-
-d) az ad) alpont alá nem tartozó, tartósan beteg vagy fogyatékos gyermek, tanuló után az intézményi térítési díj 50%-át,
-
-e)
-
-kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: normatív kedvezmény].
-
-(6) A normatív kedvezmény csak egy jogcímen vehető igénybe. Nem jár a tanulónak kedvezmény azon étkeztetésére, amely kedvezményre – a szakképzésre vonatkozó rendelkezések szerint létrejött – tanulói szerződése alapján már jogosult. A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban, vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett gyermek után nem vehető igénybe a normatív kedvezmény.
-
-(7) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek közoktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
-
-(8) Az (5) bekezdés szerinti normatív kedvezmény megállapításához közös háztartásban élőként kell figyelembe venni
-
-a) a tizennyolc éven aluli,
-
-b) a huszonöt évesnél fiatalabb, közoktatásban nappali rendszerű oktatásban részt vevő, illetve felsőoktatásban nappali tagozaton tanuló, valamint
-
-c) az életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos
-
-gyermekeket.
-
-(9) (9) A normatív kedvezményt a tanuló után a nappali rendszerű oktatásban való részvétele befejezéséig kell biztosítani.
+(11) A normatív állami hozzájárulásban nem részesülő fenntartó esetén a 147. §-t, a 148. § (4) bekezdését és a 150. §-t nem kell alkalmazni.

@@ -10,6 +10,16 @@ b) akit egyedülálló vagy időskorú személy nevel, vagy akivel együtt a csa
 
 c) akinek a szülője, gondozója szociális helyzete miatt az ellátásról nem tud gondoskodni.
 
-(3) A gyermekek napközbeni ellátása megszervezhető – a gyermekek életkorának megfelelően – különösen bölcsődében, hetes bölcsődében, családi napköziben, családi gyermekfelügyelet vagy házi gyermekfelügyelet keretében, nyári napközis otthonban, valamint a Kt. hatálya alá tartozó óvodában, iskolai napköziben.
+(3) A gyermekjóléti alapellátás keretében biztosított gyermekek napközbeni ellátásának formái – a gyermekek életkorának megfelelően –
 
-(4) A gyermekek napközbeni ellátásának minősül az iskolai napközis ellátásban nem részesülő, különösen a csellengő vagy egyéb okból veszélyeztetett tíz év feletti gyermekek számára nyújtott nappali felügyelet, foglalkoztatás – sport- és egyéb klubfoglalkozás, illetve játszótér, játéktár, játszóház keretében – és az étkeztetés biztosítása is, feltéve, ha a működtető rendelkezik az ehhez szükséges – a külön jogszabályban meghatározott – személyi és tárgyi feltételekkel.
+a) a bölcsőde, a hetes bölcsőde,
+
+b) a családi napközi,
+
+c) a családi gyermekfelügyelet,
+
+d) a házi gyermekfelügyelet,
+
+e) az alternatív napközbeni ellátás.
+
+(4)

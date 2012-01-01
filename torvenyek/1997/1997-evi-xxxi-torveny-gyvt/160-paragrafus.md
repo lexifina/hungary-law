@@ -1,3 +1,3 @@
 160. § (1) Az otthonteremtési támogatás megállapítására csak az e törvény hatálybalépését követően nagykorúvá vált fiatal felnőtt által előterjesztett kérelem alapján kerülhet sor. A nevelés – 25. § (2) bekezdése szerinti – időtartamába be kell számítani azokat az éveket, amelyek alatt a fiatal felnőtt megszakítás nélkül intézeti elhelyezett, intézeti vagy állami nevelt volt.
 
-(2) Az e törvény hatálybalépését megelőzően nagykorúvá vált fiatal felnőtt önálló életkezdésének támogatása iránti kérelmét a 21/1989. (VII. 25.) SZEM rendelet szerint kell elbírálni, és a támogatást a megyei, fővárosi önkormányzat által meghatározott módon kell biztosítani.
+(2)

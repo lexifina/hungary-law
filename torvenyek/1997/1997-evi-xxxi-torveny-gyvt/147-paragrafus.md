@@ -1,13 +1,7 @@
-147. § (1) A személyes gondoskodás körébe tartozó ellátások intézményi térítési díját az intézményt fenntartó évente kétszer állapíthatja meg.
+147. § (1) A fenntartó megállapítja a 146. § (1) bekezdése szerinti ellátások intézményi térítési díját, ami a szolgáltatási önköltség és a normatív állami hozzájárulás különbözete. Az intézményi térítési díjat több szolgáltatás és ellátás nyújtása esetében is szolgáltatásonként (ellátásonként) kell meghatározni, a közös költségelemek szolgáltatásonkénti (ellátásonkénti) közvetlen költségeinek arányában történő megosztásával.
 
-(2) A 148–151. §-ok alapján fizetendő térítési díj összegét (a továbbiakban: személyi térítési díj) az intézményvezető – az önálló helyettes szülői ellátás esetén a működtető – állapítja meg, melyről az ellátás igénybevétele után, de legkésőbb az igénybevételtől számított harminc napon belül írásban értesíti a térítési díj fizetésére kötelezettet. A személyi térítési díj nem haladhatja meg az intézményi térítési díj összegét.
+(2) A bölcsőde esetében az intézményi térítési díjat külön meg kell határozni a gyermek gondozására, nevelésére, nappali felügyeletére és a vele történő foglalkozásra (a továbbiakban együtt: gondozására), valamint a 151. § (3) bekezdésében foglaltak szerint a gyermekétkeztetésre vonatkozóan.
 
-(3) A személyi térítési díj összegét a fenntartó – a 29. § (2) bekezdésének e) pontja alapján – csökkentheti vagy elengedheti.
+(3) A szolgáltatási önköltséget a tárgyévre tervezett adatok alapján a tárgyév április elsejéig kell megállapítani. A szolgáltatási önköltség év közben egy alkalommal korrigálható, ha azt a tárgyidőszaki folyamatok indokolják.
 
-(4) Ha a kötelezett a személyi térítési díjat vitatja, a (2) bekezdés szerinti értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat.
-
-(5) A személyi térítési díj összege évente két alkalommal vizsgálható felül és változtatható meg, kivéve, ha a kötelezett jövedelme olyan mértékben csökken, hogy az e törvényben szabályozott térítési díjfizetési kötelezettségének nem tud eleget tenni. A kötelezett nem kötelezhető a felülvizsgálatot megelőző időszakra vonatkozóan az új térítési díj megfizetésére.
-
-(6) Ingyenes ellátásban kell részesíteni a jogosultat, ha a térítési díj fizetésre kötelezett jövedelemmel nem rendelkezik.
-
-(7) A térítési díj meg nem fizetése esetén késedelmi pótlék nem állapítható meg.
+(4) A fenntartó az intézményi térítési díjat az (1) bekezdés szerint kiszámított és külön jogszabály szerint dokumentált térítési díjnál alacsonyabb összegben is meghatározhatja.

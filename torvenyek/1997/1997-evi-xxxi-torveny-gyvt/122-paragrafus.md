@@ -1,1 +1,3 @@
-122. §
+122. § (1) A megyei fenntartó a 95. § (1) bekezdés szerinti állami ellátási kötelezettségnek intézmény fenntartásával, vagy – a területi gyermekvédelmi szakszolgáltatás kivételével – az intézményt működtető fenntartóval létrejött ellátási szerződés megkötésével tehet eleget.
+
+(2) Az (1) bekezdés szerinti intézmény létrehozásához, átszervezéséhez és megszüntetéséhez, valamint az (1) bekezdés szerinti ellátási szerződés megkötéséhez, módosításához és megszüntetéséhez a miniszter jóváhagyása szükséges. A miniszter ezen jogkörében a 96. § (6) bekezdése szerinti értékelésben foglaltak figyelembevételével, a személyes gondoskodást nyújtó ellátás iránti helyi szükségletek alapján dönt.

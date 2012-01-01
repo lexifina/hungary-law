@@ -36,7 +36,7 @@ p) a szolgáltató tevékenységet végző szolgáltatók, intézmények, helyet
 
 q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
 
-r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására irányuló eljárás részletes szabályait,
+r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására irányuló eljárásra, valamint az iskoláztatási támogatás folyósításának felfüggesztésére, a felfüggesztés megszüntetésére és az iskoláztatási támogatás szüneteltetése kezdeményezésére irányuló eljárásra, a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,
 
 s) a nem állami és egyházi fenntartók által igénybe vehető normatív állami hozzájárulás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
 
@@ -46,7 +46,13 @@ u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésér
 
 v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
 
-w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat.
+w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat,
+
+x) a megyei fenntartó kijelölését,
+
+y) a rendszeres gyermekvédelmi kedvezményhez kapcsolódó 20/A. § szerinti támogatás természetbeni formában történő nyújtásának feltételeit és eljárási szabályait,
+
+z) a gyermekétkeztetésre vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
@@ -74,6 +80,6 @@ j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályai
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 
-(4)
+(4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani intézményeknek fizetendő szakértői díj mértékét.
 
 (5) Felhatalmazást kap a nevelési-oktatási intézményt fenntartó helyi önkormányzat, hogy rendeletben határozza meg azokat a szabályokat, amelyek keretei között a nevelési-oktatási intézmény vezetője egyéni rászorultság alapján kedvezményt állapít meg a gyermekétkeztetés térítési díjának megfizetésére.

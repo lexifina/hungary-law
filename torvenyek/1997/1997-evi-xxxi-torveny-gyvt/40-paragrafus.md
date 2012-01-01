@@ -38,6 +38,6 @@ d) készenléti szolgálatot
 
 biztosít.
 
-(4) Az (1)–(3) bekezdés szerinti gyermekjóléti szolgáltatás térítésmentes.
+(4)
 
 (5) Gyermekjóléti szolgálatot, gyermekjóléti központot egyházi és más nem állami fenntartó is működtethet.

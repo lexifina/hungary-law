@@ -22,6 +22,4 @@ d) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemb
 
 (7)
 
-(8) A jogerősen kiszabott és meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül, amelyről az állami adóhatóság gondoskodik.
-
-(9) A bírságból befolyt összeget a miniszter a gyermekjóléti és gyermekvédelmi szolgáltatások fejlesztését segítő feladatokra használja fel.
+(8)–(9)

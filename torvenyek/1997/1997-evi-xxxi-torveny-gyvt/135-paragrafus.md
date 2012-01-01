@@ -4,7 +4,7 @@ a) a gyermekek védelmét biztosító hatósági feladat- és hatásköröket gy
 
 b) a fővárosi főjegyző,
 
-c) a gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás, intézmény vezetője,
+c) a gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás, intézmény fenntartója, vezetője,
 
 d) a helyettes szülő, nevelőszülő,
 

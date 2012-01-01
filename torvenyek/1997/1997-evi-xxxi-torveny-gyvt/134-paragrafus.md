@@ -28,4 +28,4 @@ b) a gyámsággal és a gondnoksággal kapcsolatos ügyekben, valamint a kiskor�
 
 (6) A személyes adatok felhasználására a miniszter, a helyi önkormányzat, a gyermekvédelmi és gyámügyi igazgatási hatáskört, illetve szociális hatáskört gyakorló szerv, a személyes gondoskodást nyújtó személy és intézmény, közoktatási és felsőoktatási intézmény, az ügyészség, a nyomozó hatóság, az ingatlan-nyilvántartási szerv, valamint pénzintézet, külföldi hatóság és bíróság jogosult e törvényben meghatározott módon és mértékben.
 
-(7) Az e törvény alapján elrendelt adatkezelésre és az adatok védelmére egyebekben a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezései az irányadóak.
+(7)

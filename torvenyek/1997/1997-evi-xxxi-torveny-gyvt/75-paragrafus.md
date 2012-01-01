@@ -2,6 +2,6 @@
 
 a) megállapítja a különélő másik szülő szülői felügyeleti jogának feléledését, és felhívja őt e joga gyakorlására, ha a gyermeket ideiglenes hatállyal nála helyezték el,
 
-b) a gyermek gyámjául rendeli azt a hozzátartozót vagy más személyt, akinél a gyermeket ideiglenes hatállyal elhelyezték,
+b) a gyermek családbafogadó gyámjául rendeli azt a hozzátartozót vagy más személyt, akinél a gyermeket ideiglenes hatállyal elhelyezték,
 
 c) gyámot (hivatásos gyámot) rendel, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el.

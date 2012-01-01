@@ -2,7 +2,7 @@
 
 5. § E törvény alkalmazásában
 
-a) gyermek: a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 12. §-a szerinti kiskorú,
+a) gyermek: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 12. §-a szerinti kiskorú,
 
 b) fiatalkorú: az a személy, aki a szabálysértés vagy a bűncselekmény elkövetésekor 14. évét betöltötte, de 18. évét még nem,
 
@@ -16,7 +16,7 @@ f) a gyermek tartására köteles személy: a házasságról, a családról és 
 
 g) gyermekjóléti és gyermekvédelmi szolgáltató tevékenység: a gyermekjóléti alapellátás, illetve a gyermekvédelmi szakellátás keretében – működési engedéllyel – végzett tevékenység, függetlenül a feladatellátás e törvényben nevesített formájától és módjától; a szolgáltató tevékenység célja a gyermekjólétnek, azaz a gyermek testi, értelmi, érzelmi és erkölcsi fejlődésének, személyi, vagyoni és egyéb jogainak biztosítása,
 
-h) gyermeki jogok: a Magyar Köztársaság Alkotmányában, a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvényben és más törvényekben megfogalmazott, a gyermeket megillető jogok összessége,
+h) gyermeki jogok: az Alaptörvényben, a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvényben és más törvényekben megfogalmazott, a gyermeket megillető jogok összessége,
 
 i) ellátás: jogszabályban meghatározott pénzbeli, természetbeni, illetve személyes gondoskodást nyújtó alapellátás és szakellátás,
 
@@ -44,9 +44,9 @@ r) jövedelem: a szociális igazgatásról és szociális ellátásokról szól�
 
 s) fenntartó:
 
-sa) a központi költségvetési szerv, a helyi önkormányzat, a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §-a, 9. §-a, illetve 16. §-a szerinti intézményi társulás, a települési önkormányzatok többcélú kistérségi társulása, a települési kisebbségi önkormányzat és a területi kisebbségi önkormányzat (a továbbiakban együtt: állami fenntartó),
+sa) a központi költségvetési szerv, a megyei intézményeket fenntartó, Kormány által rendeletben kijelölt szerv (a továbbiakban: megyei fenntartó), a helyi önkormányzat, a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §–9. §-a, illetve 16. §-a szerinti intézményi társulás, a települési önkormányzatok többcélú kistérségi társulása, a nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),
 
-sb) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény (a továbbiakban: Ltv.) szerinti, magyarországi székhelyű egyház, az egyházaknak az Ltv. 14. §-a szerinti magyarországi székhelyű szövetsége, illetve az Ltv. 13. §-ának (2)–(3) bekezdése szerinti magyarországi székhelyű egyházi jogi személy, amennyiben az egyház a Kormánnyal a gyermekjóléti, gyermekvédelmi vagy a szociális feladatok ellátására is kiterjedő megállapodást kötött, ideértve a Magyar Köztársaság és az Apostoli Szentszék között a Katolikus Egyház magyarországi közszolgálati és hitéleti tevékenységének finanszírozásáról, valamint néhány vagyoni természetű kérdésről 1997. június 20-án, Vatikánvárosban aláírt Megállapodás alapján a Magyar Katolikus Egyházat is (a továbbiakban együtt: egyházi fenntartó); nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a társadalmi szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság és a közhasznú társaság,
+sb) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti nyilvántartásba vett egyház, illetve annak belső egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó), nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a civil szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság,
 
 sc) az egyéni vállalkozó,
 
