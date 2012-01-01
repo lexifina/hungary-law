@@ -10,7 +10,7 @@ c) otthoni gondozás, amelyet a pénztártag vagy közeli hozzátartozója rész
 
 d) gyógytorna, gyógymasszázs és fizioterápiás kezelés igénybevételének támogatása;
 
-e) fürdőszolgáltatás támogatása, melynek keretében a gyógyfürdő, mozgásszervi betegeket ellátó nappali kórház, gyógyfürdőkórház, szanatórium, éghajlati gyógyintézet, klímagyógyintézet, gyógyvíz-ivócsarnok és gyógybarlang (barlangterápiás intézet) egészségügyi szolgáltatásai, gyógyellátásai igénybevételének támogatása, vagy közfürdők fürdőgyógyászati részlege által nyújtott gyógykezelések igénybevételének támogatása nyújtható;
+e)
 
 f) látássérült személyek életvitelét elősegítő szolgáltatás, mely a Braille írással készült könyvek, magazinok árának, a vakvezető kutyával összefüggő költségek támogatása, valamint vak pénztártag, vagy pénztártag vak közeli hozzátartozója részére hangoskönyv és elektronikus könyv vásárlásának támogatása lehet;
 
@@ -24,10 +24,6 @@ j) pénzbeli kiegészítő egészségbiztosítási szolgáltatások, amely a pé
 
 k) hátramaradottak segélyezése: a pénztártag halála esetén;
 
-l) gyógyüdülés támogatása, melynek keretében a természetes gyógytényezőkről szóló jogszabályban meghatározottak szerinti gyógyüdülőben, vagy gyógyszállóban igénybe vett, egészségügyi szolgáltatást is tartalmazó gyógyüdülés igénybevétele támogatható;
+l)–n)
 
-m) egészségügyi üdülés támogatása, melynek keretében a kereskedelmi és fizetővendéglátó szálláshelyek osztályba sorolásáról szóló jogszabályban meghatározottak szerinti szállodában vagy üdülőházban, valamint a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú mellékletének 8.33. pontjában meghatározott üdülőben igénybe vett olyan üdülés igénybevétele támogatható, melynek során a szálloda, az üdülőház, illetve az üdülő saját gyógyászati részlegén, illetve más gyógyintézet szolgáltatásainak bevonásával – a pénztárral egészségügyi szolgáltatóként kötött szerződésben foglaltak szerint – egészségügyi szolgáltatást nyújt;
-
-n) a sporttevékenységhez közvetlenül kapcsolódó kiadások támogatása, melynek keretében különösen pálya-, uszoda-, teremhasználatra, illetve foglalkozáson való részvételre jogosító bérletjegy megvásárlása támogatható. Nem tekinthető a sporttevékenységhez közvetlenül kapcsolódó kiadásnak az utazás, a szállás, a sportruházat, sportlábbeli és az étkezés költsége. Fogyatékos személyek esetén a sporttevékenységhez kapcsolódó kiadásnak minősül a fogyatékkal élő személy sportolásához szükséges sportruházat, sportlábbeli, utazás, szállás költsége, ideértve a fogyatékos személy sportolásához szükséges kísérő(k) utazásának és szállásának költségét. A sporttevékenységhez közvetlenül kapcsolódó kiadások támogatása személyenként és naptári évenként legfeljebb a tárgyév január 1-jén érvényes minimálbér havi összegének mértékéig vehető igénybe.
-
-(2) Az (1) bekezdés l) és m) pontjában foglalt szolgáltatások naptári évenként együttesen legfeljebb 160 ezer forint összegben, több szolgáltatásra jogosult személy által történő együttes igénybevétel esetén naptári évenként együttesen legfeljebb 240 ezer forint összegben vehetők igénybe.
+(2)

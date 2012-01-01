@@ -1,1 +1,1 @@
-8. § A pénztárak törvényességi felügyeletét az ügyészség a rá irányadó jogszabályok szerint, állami felügyeletét e törvény VI. Fejezete alapján a Pénzügyi Szervezetek Állami Felügyelete látja el.
+8. § A pénztárak működésének törvényességét az ügyészség az irányadó jogszabályok szerint ellenőrzi. Ha a működés törvényessége másképpen nem biztosítható az ügyészség keresettel a bírósághoz fordulhat. A pénztárak állami felügyeletét e törvény VI. fejezete alapján a Pénzügyi Szervezetek Állami Felügyelete látja el.

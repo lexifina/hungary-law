@@ -22,9 +22,9 @@ f) a d) pont alapján készült életvezetési javaslat, amely kiterjed
 
 3. az esetlegesen javasolt gyógyászati szolgáltatásokra;
 
-4. az esetlegesen javasolt, az 51/B. § (1) bekezdésének h) pontjában és az 51/C. § d) pontjában felsorolt kúraszerű ellátásokra.
+4. az esetlegesen javasolt, az 51/B. § (1) bekezdésének h) pontjában felsorolt kúraszerű ellátásokra.
 
-(4) A személyes egészségterv alapján indokolt, az egészség megőrzését és a megbetegedések megelőzését elősegítő – az orvosi javaslat alapján – igénybe vehető szolgáltatások közül az 51/B. § (1) bekezdésének d)–e) és n) pontjaiban felsorolt szolgáltatások prevenciós szolgáltatásnak minősülnek.
+(4) A személyes egészségterv alapján indokolt, az egészség megőrzését és a megbetegedések megelőzését elősegítő – az orvosi javaslat alapján – igénybe vehető szolgáltatások közül az 51/B. § (1) bekezdésének d) pontjában felsorolt szolgáltatások prevenciós szolgáltatásnak minősülnek.
 
 (5) Prevenciós szolgáltatásnak minősülnek az elkerülhető megbetegedések korai felismerésére irányuló, az 51/B. § (1) bekezdésének a) pontjában foglaltaknak megfelelő orvosi javaslatra igénybe vett szűrővizsgálatok, ideértve az OEP által nem finanszírozott, működési engedéllyel rendelkező szakorvos által végzett szűrést, így különösen
 
@@ -44,6 +44,6 @@ g) mentális zavarok korai felismerését célzó szűrés;
 
 h) fogászati szűrés.
 
-(6) Ha az a (2) bekezdés alapján készített személyes egészségterv alapján indokolt, prevenciós szolgáltatásnak minősülnek az 51/B. § (1) bekezdésének h) pontjában és az 51/C. § d) pontjában felsorolt szolgáltatások is.
+(6) Ha az a (2) bekezdés alapján készített személyes egészségterv alapján indokolt, prevenciós szolgáltatásnak minősülnek az 51/B. § (1) bekezdésének h) pontjában felsorolt szolgáltatások is.
 
 (7) A (2), (4) és (6) bekezdésben meghatározott szolgáltatások csak akkor minősülnek prevenciós szolgáltatásnak, ha a pénztártag a (3) bekezdés f) pontja szerinti javaslat megértését, a javaslatok elfogadását és a megvalósításban való együttműködő készségét aláírásával igazolja és – a (4) és (6) bekezdésben meghatározott szolgáltatások esetén – a (2) bekezdésben meghatározott személyes egészségterv a szolgáltatás igénybevételének időpontját megelőző két éven belül készült.

@@ -44,13 +44,13 @@ e) kihelyezés: a pénztár feladatkörébe tartozó tevékenységének e tevék
 
 f) kiszervezés: tevékenység olyan kihelyezése, melynek során adatkezelés vagy adatfeldolgozás is megvalósul,
 
-g) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatkezelési tevékenység,
+g) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatkezelési tevékenység,
 
-h) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatfeldolgozási tevékenység.
+h) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatfeldolgozási tevékenység.
 
 (5) E törvény alkalmazásában a kiegészítő nyugdíjpénztárnál
 
-a) nyugdíjkorhatár: az életkor, melynek betöltését a társadalombiztosítási jogszabályok az öregségi nyugdíjra való jogosultság feltételéül előírják. E törvény alkalmazásában a nyugdíjkorhatár betöltésének minősül, ha a pénztártag előrehozott öregségi nyugdíjban, csökkentett összegű előrehozott öregségi nyugdíjban, szolgálati nyugdíjban, korengedményes nyugdíjban, előnyugdíjban, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 30. § (1) bekezdésének c) pontjában meghatározott jogosultságon alapuló álláskeresési segélyben, bányásznyugdíjban, egyes művészeti tevékenységet folytatók öregségi nyugdíjában, rokkantsági, baleseti rokkantsági nyugdíjban vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül. A nyugdíjkorhatár betöltése után a pénztártag a várakozási idő időtartamától függetlenül jogosulttá válik a nyugdíjszolgáltatásra;
+a) nyugdíjkorhatár: a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatár, továbbá az az időpont, amelytől a pénztártag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), növelt összegű öregségi, munkaképtelenségi járadékban vagy nyugdíj előtti álláskeresési segélyben részesül. A nyugdíjkorhatár betöltése után a pénztártag a várakozási idő időtartamától függetlenül jogosulttá válik a nyugdíjszolgáltatásra;
 
 b) felhalmozási időszak: a tagsági viszonynak a belépéstől a c) pont szerinti nyugdíjszolgáltatás megnyílásáig terjedő időszaka;
 

@@ -16,11 +16,11 @@ b) az 50/B. § (1) bekezdésének b) pontjában meghatározott ellátások köz�
 
 c) az 50/B. § (1) bekezdésének d) pontjában meghatározott ellátások közül
 
-ca) a táppénz, baleseti táppénz, rokkantsági, baleseti rokkantsági nyugellátás, valamint a baleseti járadék kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
+ca) a táppénz, baleseti táppénz, a baleseti járadék valamint a megváltozott munkaképességű személyek ellátásai kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 
-cb) az átmeneti járadék, valamint a bányász dolgozók egészségkárosodási járadéka összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
+cb) a bányász dolgozók egészségkárosodási járadéka, valamint a bányászok egészségkárosodási járadéka összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 
-cc) a rokkantsági járadék, ápolási díj, valamint a rendszeres szociális járadék összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
+cc) a rokkantsági járadék valamint az ápolási díj összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
 
 d) az 50/B. § (1) bekezdésének e) pontjában meghatározott ellátások közül a temetés igazolt költségeinek támogatása;
 

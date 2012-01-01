@@ -1,6 +1,6 @@
 40. § (1) A pénztár beszámolási kötelezettségét, a beszámolót alátámasztó könyvvezetési kötelezettségét — e törvény alapján és a számviteli törvényben foglaltakra figyelemmel — kormányrendelet szabályozza.
 
-(2) A könyvszakértővel hitelesített pénztári beszámolót a pénzügyi év lejártát követő 150 napon belül közgyűlés elé kell terjeszteni.
+(2) A könyvszakértővel hitelesített pénztári beszámolót a pénzügyi év lejártát követő ötödik hónap utolsó napjáig közgyűlés elé kell terjeszteni.
 
 (3) Járadékszolgáltatást is nyújtó nyugdíjpénztárnak, valamint közösségi szolgáltatást nyújtó önsegélyező pénztárnak kormányrendeletben megállapított rendszerességgel és tartalommal az éves beszámoló részeként biztosításmatematikai mérleget kell készítenie, amelyet biztosításmatematikus ír alá.
 

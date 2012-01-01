@@ -4,7 +4,7 @@ a) Felügyelettel,
 
 b) az Állami Számvevőszékkel,
 
-c) a pénztárak törvényességi felügyeletét ellátó ügyészséggel,
+c) a pénztárak működése törvényességének ellenőrzésére jogosult ügyészséggel,
 
 d) a folyamatban levő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
 
@@ -14,7 +14,7 @@ f) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében elj
 
 g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 
-h) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben a csőd-, felszámolási eljárás és a helyi önkormányzatok adósságrendezési eljárása keretében a bírósággal,
+h) a büntető-, valamint polgári ügyben, továbbá a csőd-, felszámolási eljárás és a helyi önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 
 i) a gazdálkodás nyilvántartásához szükséges adatok tekintetében a gazdálkodás nyilvántartását végző szolgáltatóval, továbbá a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 
