@@ -4,19 +4,19 @@
 
 (2) A biztosító éves beszámolója a 3. § (1) bekezdése szerinti mérlegből, a 7. § (1) bekezdése szerinti eredménykimutatásból, a 14. § szerinti kiegészítő mellékletből áll. Az éves beszámolóval egyidejűleg a biztosítónak üzleti jelentést is kell készítenie.
 
-(3)[^4] Egyszerűsített éves beszámolót készíthet a Bit. 1. számú melléklete A/8–9. és 18. pontja szerinti biztosítási tevékenységet végző biztosító egyesület, amelynek két egymást követő üzleti évben a mérleg fordulónapján a (4) bekezdés szerinti három mutatóérték közül kettő nem haladja meg a megadott határértéket. Újonnan alakuló biztosító egyesület abban az esetben készíthet egyszerűsített éves beszámolót, ha a biztosítási tevékenység engedélyezésekor jóváhagyott üzleti terv első két üzleti évének tervszámaiból a (4) bekezdés szerinti három mutatóérték közül kettő nem haladja meg a megadott határértékeket.
+(3)[^5] Egyszerűsített éves beszámolót készíthet a Bit. 1. számú melléklete A/8–9. és 18. pontja szerinti biztosítási tevékenységet végző biztosító egyesület, amelynek két egymást követő üzleti évben a mérleg fordulónapján a (4) bekezdés szerinti három mutatóérték közül kettő nem haladja meg a megadott határértéket. Újonnan alakuló biztosító egyesület abban az esetben készíthet egyszerűsített éves beszámolót, ha a biztosítási tevékenység engedélyezésekor jóváhagyott üzleti terv első két üzleti évének tervszámaiból a (4) bekezdés szerinti három mutatóérték közül kettő nem haladja meg a megadott határértékeket.
 
 (4) Az egyszerűsített éves beszámoló készítés határértékei:
 
-a)[^5] mérlegfőösszeg 125 millió forint;
+a)[^6] mérlegfőösszeg 125 millió forint;
 
-b)[^6] az éves bruttó díj 125 millió forint;
+b)[^7] az éves bruttó díj 125 millió forint;
 
 c) a biztosítási szerződések száma 1000 darab.
 
 (5) A biztosító egyesület egyszerűsített éves beszámolója a 3. § (2) bekezdése szerinti mérlegből, a 7. § (2) bekezdése szerinti eredménykimutatásból és a 14. § szerinti kiegészítő mellékletből áll.
 
-(6)[^7] A biztosítónak a számviteli politika keretében – a Tv. 14. §-ának (3)–(5) bekezdésében foglaltakon túlmenően – kell meghatároznia:
+(6)[^8] A biztosítónak a számviteli politika keretében – a Tv. 14. §-ának (3)–(5) bekezdésében foglaltakon túlmenően – kell meghatároznia:
 
 a) az eszközök, források, költségek, ráfordítások, bevételek, valamint a mérleg szerinti eredmény nem biztosítási tevékenységre és biztosítási tevékenységre, ez utóbbin belül életbiztosítási és nem-életbiztosítási ágra – feltéve, hogy a biztosító mindkét ágat egyaránt műveli – történő elkülönítésének módszerére, dokumentálására, vetítési alapjára vonatkozó szabályokat (az elkülönítés belső szabályzata);
 
@@ -52,13 +52,13 @@ g) a biztosító által végzett pénzügyi szolgáltatások (ideértve a nyugd�
 
 h) a határidős, opciós és swap ügyletek elszámolására, nyilvántartására, a fedezeti ügyletek meghatározására és elkülönített kezelésére vonatkozó szabályokat (határidős, opciós és swap ügyletek elszámolási szabályzata).
 
-(7)[^8] A biztosító köteles belső számviteli rendjét és számlarendjét, illetve belső ellenőrzési rendszerét úgy kialakítani, hogy az megfeleljen a Tv., valamint a Bit. és Vbit. követelményeinek és alkalmas legyen a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) részére történő adatszolgáltatásra, a Felügyelet általi ellenőrzésre.
+(7)[^9] A biztosító köteles belső számviteli rendjét és számlarendjét, illetve belső ellenőrzési rendszerét úgy kialakítani, hogy az megfeleljen a Tv., valamint a Bit. és Vbit. követelményeinek és alkalmas legyen a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) részére történő adatszolgáltatásra, a Felügyelet általi ellenőrzésre.
 
-(8)[^9] A 2. § (6) bekezdésének a) pontja szerinti szabályzat (az elkülönítés belső szabályzata) alkalmazásának szempontjából a tulajdonos által tőkeemelésre adott összeg mindaddig a nem biztosítási tevékenységhez kapcsolódó saját tőke részét képezi, amíg annak az élet- vagy nem-életbiztosítási ághoz kapcsolódó hozzárendelése részben vagy egészen meg nem történik.
+(8)[^10] A 2. § (6) bekezdésének a) pontja szerinti szabályzat (az elkülönítés belső szabályzata) alkalmazásának szempontjából a tulajdonos által tőkeemelésre adott összeg mindaddig a nem biztosítási tevékenységhez kapcsolódó saját tőke részét képezi, amíg annak az élet- vagy nem-életbiztosítási ághoz kapcsolódó hozzárendelése részben vagy egészen meg nem történik.
 
-[^4]: A 2. § (3) bekezdésének első mondata a 235/2003. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (4) bekezdésének a) pontja a 334/2005. (XII. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^6]: A 2. § (4) bekezdésének b) pontja a 334/2005. (XII. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^7]: A 2. § (6) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható azzal, hogy a 38. § (1) bekezdése alapján az e)–h) pontokba beiktatott szabályzatokat legkésőbb a 2006. január 1. napját követő 180 napon belül kell elkészíteni.
-[^8]: A 2. § (7) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 21. § (3) bekezdésével megállapított, a 397/2007. (XII. 27.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést először a 2008. évben induló üzleti évről készített beszámolókra kell alkalmazni.
-[^9]: A 2. § (8) bekezdését a 334/2005. (XII. 29.) Korm. rendelet 21. § (3) bekezdése iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^5]: A 2. § (3) bekezdésének első mondata a 235/2003. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (4) bekezdésének a) pontja a 334/2005. (XII. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^7]: A 2. § (4) bekezdésének b) pontja a 334/2005. (XII. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^8]: A 2. § (6) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható azzal, hogy a 38. § (1) bekezdése alapján az e)–h) pontokba beiktatott szabályzatokat legkésőbb a 2006. január 1. napját követő 180 napon belül kell elkészíteni.
+[^9]: A 2. § (7) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 21. § (3) bekezdésével megállapított, a 397/2007. (XII. 27.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést először a 2008. évben induló üzleti évről készített beszámolókra kell alkalmazni.
+[^10]: A 2. § (8) bekezdését a 334/2005. (XII. 29.) Korm. rendelet 21. § (3) bekezdése iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.

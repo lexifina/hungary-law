@@ -342,7 +342,7 @@
 
 ## Ez a sor tartalmazza a nem-életbiztosítási ághoz kapcsolódó tartalékok fedezetéül szolgáló befektetések bevételéből átvezetett, a biztosítottaknak visszajuttatandó eredményt.
 
-## A/03. és B/04. sor[^100]: Egyéb biztosítástechnikai bevétel
+## A/03. és B/04. sor[^103]: Egyéb biztosítástechnikai bevétel
 
 ## Itt kell kimutatni a biztosítási tevékenységből eredő, az előbbiek közé nem tartozó egyéb biztosítási bevételek összegét.
 
@@ -412,7 +412,7 @@
 
 ## Itt kell szerepeltetni – a 9. § (11) bekezdésének előírásait is figyelembe véve – a Tv. szerinti egyéb ráfordítások közé tartozó tételek összegét, továbbá a nem biztosítási tevékenységhez kapcsolódó ráfordításokat is (pl. iparűzési adó). Nem szabad ide beállítani a biztosítási állományhoz kapcsolódó ingatlanok értékesítésének ráfordításait (nettó értékét).
 
-3. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^101]
+3. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^104]
 
-[^100]: A 2. számú melléklet „Az eredménykimutatás egyes tételeire vonatkozó előírások” címének az „A/03. és B/04. sora a 347/2004. (XII. 22.) Korm. rendelet 18. §-a szerint módosított szöveg, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^101]: A 3. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, (3) bekezdése alapján a 2003. évi üzleti évről készített beszámolóra is alkalmazhatók.
+[^103]: A 2. számú melléklet „Az eredménykimutatás egyes tételeire vonatkozó előírások” címének az „A/03. és B/04. sora a 347/2004. (XII. 22.) Korm. rendelet 18. §-a szerint módosított szöveg, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^104]: A 3. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a, a 342/2011. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
