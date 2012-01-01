@@ -1,4 +1,4 @@
-118. § (1) A 130. § (1) bekezdése szerinti jogorvoslati határidő eredménytelen elteltét követő napon, jogorvoslat esetén az Alkotmánybíróság hitelesítő határozatot helybenhagyó döntésének a Magyar Közlönyben való közzététele napján az Országos Választási Iroda vezetője hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát. Az aláírásgyűjtést a hitelesítési záradékkal ellátott aláírásgyűjtő ív másolatával lehet megkezdeni.
+118. § (1) A 130. § (1) bekezdése szerinti jogorvoslati határidő eredménytelen elteltét követő napon, jogorvoslat esetén a Kúria hitelesítő határozatot helybenhagyó döntésének a Magyar Közlönyben való közzététele napján az Országos Választási Iroda vezetője hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát. Az aláírásgyűjtést a hitelesítési záradékkal ellátott aláírásgyűjtő ív másolatával lehet megkezdeni.
 
 (2) Az aláírásgyűjtésre a 46. § (2) és (4) bekezdése, a 48. §, az 50. § (1) bekezdésének c) pontja és (2) bekezdése, valamint az 54. §, az 59. § és a 60. § rendelkezéseit az e fejezetben foglalt eltérésekkel megfelelően alkalmazni kell.
 

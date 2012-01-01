@@ -16,7 +16,7 @@ d) a kérelmező magyarországi lakóhelyét, és a személyi azonosítót és l
 
 e) a kérelmező állampolgárságát,
 
-f) a kérelmező nyilatkozatát, hogy szavazati jogát csak a Magyar Köztársaságban gyakorolja, továbbá
+f) a kérelmező nyilatkozatát, hogy szavazati jogát csak Magyarországon gyakorolja, továbbá
 
 g) azt a települést, szavazókört vagy választókerületet, amelynek névjegyzékében a kérelmező az állampolgársága szerinti államban legutoljára szerepelt.
 

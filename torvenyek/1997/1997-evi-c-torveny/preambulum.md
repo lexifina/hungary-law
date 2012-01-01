@@ -1,1 +1,1 @@
-A Magyar Köztársaság Alkotmánya szerint a választójog általános és egyenlő, a szavazás közvetlen és titkos. Annak érdekében, hogy a választójog gyakorlása, a választási, népszavazási és népi kezdeményezési eljárás demokratikus és megfelelő biztosítékokkal övezett legyen, az Országgyűlés a következő törvényt alkotja:
+Az Országgyűlés a választójog gyakorlása, a választási eljárás, a népszavazási eljárás, a népi kezdeményezési és az európai polgári kezdeményezési eljárás demokratikus lefolytatásának biztosítása érdekében a következő törvényt alkotja:

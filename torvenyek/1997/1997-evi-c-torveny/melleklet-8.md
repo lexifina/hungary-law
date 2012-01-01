@@ -1,12 +1,12 @@
 8. számú melléklet az 1997. évi C. törvényhez
 
-(A települési kisebbségi önkormányzati választás szavazólapjának mintája.)
+(A települési nemzetiségi önkormányzati választás szavazólapjának mintája.)
 
 SZAVAZÓLAP
 
 (a település neve)
 
-............................................. kisebbségi önkormányzati képviselők választása
+............................................. nemzetiségi önkormányzati képviselők választása
 
 ........... (év) ............................... (hónap) ............ (nap)
 
@@ -42,4 +42,4 @@ A jelöltekre szavazni a nevük mellett lévő körben elhelyezett egymást mets
 
 [A szavazólapon a jelölő szervezet bíróság által bejegyzett neve mellett a jelölő szervezet kérésére fel kell tüntetni annak rövidítését is.
 
-A szavazólapot két nyelven (magyar nyelven és a kisebbség anyanyelvén) kell elkészíteni. A jelölt nevét csak a jelölt kérésére, a jelölő szervezet nevét csak a jelölő szervezet kérésére kell feltüntetni a kisebbség anyanyelvén is.]
+A szavazólapot két nyelven (magyar nyelven és a nemzetiség anyanyelvén) kell elkészíteni. A jelölt nevét csak a jelölt kérésére, a jelölő szervezet nevét csak a jelölő szervezet kérésére kell feltüntetni a nemzetiség anyanyelvén is.]

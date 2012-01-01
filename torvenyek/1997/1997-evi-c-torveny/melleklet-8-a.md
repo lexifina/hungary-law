@@ -1,12 +1,12 @@
 8/A. számú melléklet az 1997. évi C. törvényhez
 
-(A területi és az országos kisebbségi önkormányzati választás szavazólapjának mintája)
+(A területi és az országos nemzetiségi önkormányzati választás szavazólapjának mintája)
 
-(A területi és az országos kisebbségi önkormányzati választás szavazólapjának mintája)
+(A területi és az országos nemzetiségi önkormányzati választás szavazólapjának mintája)
 
 SZAVAZÓLAP
 
-Fővárosi/ ........... megyei/Országos .................. kisebbségi önkormányzati képviselők választása
+Fővárosi/ ........... megyei/Országos .................. nemzetiségi önkormányzati képviselők választása
 
 Érvényesen szavazni csak 1 listára lehet!
 
@@ -134,4 +134,4 @@ A listára szavazni a lista feletti körben elhelyezett egymást metsző két vo
 
 [A szavazólapon a jelölő szervezet bíróság által bejegyzett neve mellett a jelölő szervezet kérésére fel kell tüntetni annak rövidítését is.
 
-A szavazólapot két nyelven (magyar nyelven és a kisebbség anyanyelvén) kell elkészíteni. A jelölt nevét csak a jelölt kérésére, a jelölő szervezet nevét csak a jelölő szervezet kérésére kell feltüntetni a kisebbség anyanyelvén is.]
+A szavazólapot két nyelven (magyar nyelven és a nemzetiség anyanyelvén) kell elkészíteni. A jelölt nevét csak a jelölt kérésére, a jelölő szervezet nevét csak a jelölő szervezet kérésére kell feltüntetni a nemzetiség anyanyelvén is.]

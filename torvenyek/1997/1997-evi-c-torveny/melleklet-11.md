@@ -1,8 +1,8 @@
 11. számú melléklet az 1997. évi C. törvényhez
 
-Kisebbségi választói jegyzékbe vétel iránti kérelem
+Nemzetiségi választói jegyzékbe vétel iránti kérelem
 
-Kisebbségi választói jegyzékbe vétel iránti kérelem
+Nemzetiségi választói jegyzékbe vétel iránti kérelem
 
 Családi név: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -22,7 +22,7 @@ Lakóhely: ⬜ ⬜ ⬜ ⬜ irányítószám
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ szám ⬜ ⬜ ⬜ ⬜ emelet ⬜ ⬜ ⬜ ⬜ ajtó
 
-Kijelentem, hogy az alább megjelölt kisebbségi közösség tagja vagyok. (CSAK EGY KISEBBSÉG JELÖLHETŐ MEG!)
+Kijelentem, hogy az alább megjelölt nemzetiségi közösség tagja vagyok. (CSAK EGY NEMZETISÉG JELÖLHETŐ MEG!)
 
 |
 
@@ -80,6 +80,6 @@ Kijelentem, hogy az alább megjelölt kisebbségi közösség tagja vagyok. (CSA
 
 |
 
-Kérem felvételem a kisebbségi választói jegyzékbe!
+Kérem felvételem a nemzetiségi választói jegyzékbe!
 
 Kelt: ............................................................................. Aláírás: .......................................................................

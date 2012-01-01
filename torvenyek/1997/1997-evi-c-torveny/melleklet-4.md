@@ -106,6 +106,6 @@ A jelöltekre szavazni a nevük melletti körben elhelyezett egymást metsző k�
 
 (A szavazólapon a jelölő szervezet bíróság által bejegyzett neve mellett a jelölő szervezet kérésére fel kell tüntetni annak rövidítését is. Közös jelölt esetén a szavazólapon valamennyi jelölő szervezet nevét fel kell tüntetni.
 
-Ha a választási szerv a jelöltet nemzeti vagy etnikai kisebbségi jelöltként veszi nyilvántartásba, akkor a kisebbség nevét a szavazólapon fel kell tüntetni. A kisebbségi jelölt, illetve a kisebbségi jelölő szervezet kívánságára a jelölt, illetve a kisebbségi jelölő szervezet, valamint a kissebség nevét a szavazólapon a kisebbség nyelvén is fel kell tüntetni.)
+Ha a választási szerv a jelöltet nemzetiségi jelöltként veszi nyilvántartásba, akkor a nemzetiség nevét a szavazólapon fel kell tüntetni. A nemzetiségi jelölt, illetve a nemzetiségi jelölő szervezet kívánságára a jelölt, illetve a nemzetiségi jelölő szervezet, valamint a kissebség nevét a szavazólapon a nemzetiség nyelvén is fel kell tüntetni.)
 
 |

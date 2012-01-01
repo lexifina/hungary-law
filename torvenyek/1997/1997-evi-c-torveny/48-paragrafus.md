@@ -4,7 +4,7 @@
 
 a) munkahelyen munkaidőben vagy munkaviszonyból, illetőleg munkavégzésre irányuló más jogviszonyból fakadó munkavégzési kötelezettség teljesítése közben,
 
-b) a Magyar Honvédségnél és a rendvédelmi szerveknél szolgálati viszonyban levő személytől a szolgálati helyen vagy szolgálati feladat teljesítése közben,
+b) a Magyar Honvédségnél, a rendvédelmi szerveknél és a Nemzeti Adó- és Vámhivatalnál szolgálati viszonyban levő személytől a szolgálati helyen vagy szolgálati feladat teljesítése közben,
 
 c) tömegközlekedési eszközön,
 

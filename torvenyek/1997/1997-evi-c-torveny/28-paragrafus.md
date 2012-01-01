@@ -1,4 +1,4 @@
-28. § (1) A választási bizottság tagjai az illetékes polgármester, a fővárosi főpolgármester, a megyei közgyűlés elnöke, illetőleg az Országgyűlés elnöke előtt esküt tesznek. Az eskü szövegét az 1. számú melléklet állapítja meg.
+28. § (1) Az Országos Választási Bizottság tagjai az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerint, más választási bizottság tagjai az illetékes polgármester, fővárosi főpolgármester, megyei közgyűlés elnöke előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesznek.
 
 (2) A választási bizottság – tagjai megválasztását és eskütételét követően – alakuló ülést tart. Az alakuló ülésen a választott tagok közül megválasztja elnökét és annak helyettesét.
 

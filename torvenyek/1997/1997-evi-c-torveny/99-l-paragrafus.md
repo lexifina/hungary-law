@@ -16,7 +16,7 @@ d) a jelölt állampolgárságát,
 
 e) azt a települést, szavazókört vagy választókerületet, amelynek névjegyzékében az állampolgársága szerinti államban legutoljára szerepelt,
 
-f) a jelölt nyilatkozatát, hogy csak a Magyar Köztársaságban indul jelöltként,
+f) a jelölt nyilatkozatát, hogy csak Magyarországon indul jelöltként,
 
 g) a jelölt nyilatkozatát, hogy választójoga van, a jelölést elfogadja és nincs olyan tisztsége, amely összeférhetetlen a képviselői megbízatással, illetőleg megválasztása esetén arról lemond.
 

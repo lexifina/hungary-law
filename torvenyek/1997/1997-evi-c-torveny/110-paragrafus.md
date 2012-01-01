@@ -8,7 +8,7 @@ b) a 10 000-nél több lakosú településen az egyéni választókerületi, a p
 
 c) a fővárosban az egyéni választókerületi, a polgármester-, a főpolgármester-, valamint a fővárosi listás választásra.
 
-(2) A települési egyéni listás, az egyéni választókerületi és a polgármester-választás szavazólapja ábécé sorrendben tartalmazza a jelöltek hivatalosan használt családi és utónevét, a 52. § (3) bekezdése szerinti megkülönböztető jelzést, valamint a jelölő szervezetek nevét – a jelölő szervezet kérésére annak rövidítését is –, illetőleg a független jelölés tényét. A kisebbséget képviselő jelölt kívánságára a nevét, illetőleg a jelölő szervezet nevét a szavazólapnak a kisebbség anyanyelvén is tartalmaznia kell.
+(2) A települési egyéni listás, az egyéni választókerületi és a polgármester-választás szavazólapja ábécé sorrendben tartalmazza a jelöltek hivatalosan használt családi és utónevét, a 52. § (3) bekezdése szerinti megkülönböztető jelzést, valamint a jelölő szervezetek nevét – a jelölő szervezet kérésére annak rövidítését is –, illetőleg a független jelölés tényét. A nemzetiséget képviselő jelölt kívánságára a nevét, illetőleg a jelölő szervezet nevét a szavazólapnak a nemzetiség anyanyelvén is tartalmaznia kell.
 
 (3)
 

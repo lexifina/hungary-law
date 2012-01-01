@@ -18,17 +18,17 @@ d) hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefo
 
 e) jegyző: a települési jegyző, a körjegyző,
 
-f) jelölési fajta: az országgyűlési képviselők választásán az egyéni választókerületi, a területi listás, az országos listás jelölés; az Európai Parlament tagjainak választásán a listás jelölés; a helyi önkormányzati képviselők és polgármesterek választásán a polgármester-/főpolgármester-, az egyéni listás, az egyéni választókerületi, a kompenzációs listás, a fővárosi/megyei listás jelölés; a kisebbségi önkormányzati képviselők választásán a települési kisebbségi önkormányzati, a területi kisebbségi önkormányzati, az országos kisebbségi önkormányzati jelölés,
+f) jelölési fajta: az országgyűlési képviselők választásán az egyéni választókerületi, a területi listás, az országos listás jelölés; az Európai Parlament tagjainak választásán a listás jelölés; a helyi önkormányzati képviselők és polgármesterek választásán a polgármester-/főpolgármester-, az egyéni listás, az egyéni választókerületi, a kompenzációs listás, a fővárosi/megyei listás jelölés; a nemzetiségi önkormányzati képviselők választásán a települési nemzetiségi önkormányzati, a területi nemzetiségi önkormányzati, az országos nemzetiségi önkormányzati jelölés,
 
 g) jelölő szervezet: a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény szerint bejegyzett párt, valamint az egyesülési jogról szóló törvény szerint bejegyzett egyesület; a közös jelöltet, listát állító jelölő szervezetek egy jelölő szervezetnek számítanak,
 
-h) képviselő: az országgyűlési képviselő, az Európai Parlament tagja, a települési önkormányzat képviselő-testületének tagja, a megyei közgyűlés tagja, a fővárosi közgyűlés tagja, a kisebbségi önkormányzat tagja,
+h) képviselő: az országgyűlési képviselő, az Európai Parlament tagja, a települési önkormányzat képviselő-testületének tagja, a megyei közgyűlés tagja, a fővárosi közgyűlés tagja, a nemzetiségi önkormányzat tagja,
 
-i) kezdeményezést benyújtók: népszavazás állampolgári kezdeményezése, valamint népi kezdeményezés esetén azok a szervezetek, illetve magánszemélyek, amelyek, illetve akik a kezdeményezést benyújtották,
+i) kezdeményezést benyújtók: népszavazás állampolgári kezdeményezése, népi kezdeményezés, valamint európai polgári kezdeményezés esetén azok a szervezetek, illetve magánszemélyek, amelyek, illetve akik a kezdeményezést benyújtották,
 
 j)
 
-k) kisebbségi jelölő szervezet: a kisebbségi önkormányzati képviselők választásáról szóló törvény szerinti jelölő szervezet,
+k) nemzetiségi jelölő szervezet: a nemzetiségi önkormányzati képviselők választásáról szóló törvény szerinti jelölő szervezet,
 
 l) plakát: választási falragasz, hirdetés, felirat, szórólap, vetített kép, zászló, embléma a hordozóanyagtól függetlenül,
 
@@ -42,4 +42,4 @@ p) családi és utónév: a házassági név, a születési családi és utóné
 
 q) lakóhely: annak a lakásnak vagy ennek hiányában – a külföldön élő magyar és nem magyar állampolgár kivételével – szükségből használt helyiségnek, szálláshelynek a címe, amelyet a választópolgár életvitelszerűen otthonául használ, amennyiben azt a személyiadat- és lakcímnyilvántartásba lakcímként bejelentette,
 
-r) külképviselet: a Magyar Köztársaság nagykövetsége és főkonzulátusa.
+r) külképviselet: Magyarország nagykövetsége és főkonzulátusa.

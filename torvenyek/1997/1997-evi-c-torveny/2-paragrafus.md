@@ -8,13 +8,13 @@ b) az Európai Parlament tagjainak választására,
 
 c) a helyi önkormányzati képviselők és polgármesterek választására,
 
-d) a kisebbségi önkormányzatok tagjainak megválasztására,
+d) a nemzetiségi önkormányzatok tagjainak megválasztására,
 
 e) az országos népszavazásra,
 
 f) a helyi népszavazásra,
 
-g) az országos népi kezdeményezésre,
+g) az országos népi kezdeményezésre és az európai polgári kezdeményezésre,
 
 h) a helyi népi kezdeményezésre, továbbá
 

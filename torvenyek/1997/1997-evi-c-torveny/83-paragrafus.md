@@ -16,4 +16,4 @@ c) a kérelem benyújtójának választása szerint telefaxszámát vagy elektro
 
 (6) A bírósági felülvizsgálat iránti kérelmet a választási bizottság az ügy összes iratával a beérkezése napján felterjeszti az annak elbírálására jogosult bírósághoz. A felterjesztés során a megtámadott határozatot hozó választási bizottság a bírósági felülvizsgálat iránti kérelemről kialakított álláspontjáról is nyilatkozhat.
 
-(7) A bírósági felülvizsgálat iránti kérelmet a másodfokú határozatot hozó választási bizottság székhelye szerint illetékes megyei, fővárosi bíróság bírálja el. Az Országos Választási Bizottság határozata ellen benyújtott bírósági felülvizsgálat iránti kérelmet a Legfelsőbb Bíróság bírálja el.
+(7) A bírósági felülvizsgálat iránti kérelmet a másodfokú határozatot hozó választási bizottság székhelye szerint illetékes törvényszék bírálja el. Az Országos Választási Bizottság határozata ellen benyújtott bírósági felülvizsgálat iránti kérelmet a Kúria bírálja el.

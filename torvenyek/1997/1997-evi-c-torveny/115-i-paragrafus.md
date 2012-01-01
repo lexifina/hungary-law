@@ -1,6 +1,6 @@
 ## Választási szervek
 
-115/I. § (1) A települési kisebbségi önkormányzati választásokon az alábbi választási bizottságok működnek:
+115/I. § (1) A települési nemzetiségi önkormányzati választásokon az alábbi választási bizottságok működnek:
 
 a) szavazatszámláló bizottság,
 
@@ -8,7 +8,7 @@ b) helyi választási bizottság,
 
 c) területi választási bizottság.
 
-(2) A települési kisebbségi önkormányzati választásokon az alábbi választási irodák működnek:
+(2) A települési nemzetiségi önkormányzati választásokon az alábbi választási irodák működnek:
 
 a) helyi választási iroda,
 
@@ -18,9 +18,9 @@ c) területi választási iroda,
 
 d) Országos Választási Iroda.
 
-(3) A szavazatszámláló bizottság tagja a helyi önkormányzati képviselők és polgármesterek választásán választójoggal rendelkező személy lehet. A kisebbségi jelölő szervezet a szavazatszámláló bizottságba nem bízhat meg tagot.
+(3) A szavazatszámláló bizottság tagja a helyi önkormányzati képviselők és polgármesterek választásán választójoggal rendelkező személy lehet. A nemzetiségi jelölő szervezet a szavazatszámláló bizottságba nem bízhat meg tagot.
 
-(4) A kisebbségi jelölő szervezet megbízottja a helyi választási bizottság ülésein a saját kisebbségével kapcsolatos döntések meghozatalában teljes jogú tagként, egyéb kérdések megtárgyalásán tanácskozási joggal vehet részt. A tanácskozási joggal rendelkező tagot a bizottság határozatképességének megállapításakor nem kell figyelembe venni.
+(4) A nemzetiségi jelölő szervezet megbízottja a helyi választási bizottság ülésein a saját kisebbségével kapcsolatos döntések meghozatalában teljes jogú tagként, egyéb kérdések megtárgyalásán tanácskozási joggal vehet részt. A tanácskozási joggal rendelkező tagot a bizottság határozatképességének megállapításakor nem kell figyelembe venni.
 
 (5) A szavazatszámláló bizottság
 
@@ -34,9 +34,9 @@ d) indítványozza az illetékes választási bizottságnak a szavazás szavazó
 
 (6) A helyi választási bizottság
 
-a) kitűzi a települési kisebbségi önkormányzati választást,
+a) kitűzi a települési nemzetiségi önkormányzati választást,
 
-b) dönt a települési kisebbségi önkormányzati jelöltek, valamint a csak egy településen jelöltet állítani kívánó jelölő szervezetek nyilvántartásba vételéről, illetőleg elutasításáról,
+b) dönt a települési nemzetiségi önkormányzati jelöltek, valamint a csak egy településen jelöltet állítani kívánó jelölő szervezetek nyilvántartásba vételéről, illetőleg elutasításáról,
 
 c) kisorsolja a jelöltek sorrendjét a szavazólapon,
 
@@ -68,4 +68,4 @@ c) a tudomására jutott törvénysértés esetén kezdeményezi a hatáskörrel
 
 a) állásfoglalást ad ki a választással kapcsolatos jogszabályok egységes értelmezése és az egységes joggyakorlat kialakítása érdekében; az állásfoglalás iránymutató jellegű, az ellen jogorvoslatnak helye nincs; az állásfoglalást a Magyar Közlönyben közzé kell tenni,
 
-b) beszámol az Országgyűlésnek a települési kisebbségi önkormányzati képviselők választásáról.
+b) beszámol az Országgyűlésnek a települési nemzetiségi önkormányzati képviselők választásáról.
