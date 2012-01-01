@@ -1,0 +1,1 @@
+A Kormány a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 45. § (1) bekezdés a) és b) pontjában kapott felhatalmazása alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
