@@ -2,9 +2,9 @@
 
 8. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2)[^1]
+(2)[^3]
 
-(3)[^2]
+(3)[^4]
 
-[^1]: A 8. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
-[^2]: A 8. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^3]: A 8. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^4]: A 8. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
