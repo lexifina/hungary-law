@@ -1,3 +1,3 @@
-8. §[^4]
+8. §[^6]
 
-[^4]: A 8. §-t a (2) bekezdése hatályon kívül helyezte.
+[^6]: A 8. §-t a (2) bekezdése hatályon kívül helyezte.
