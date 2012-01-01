@@ -80,7 +80,7 @@ f) fegyelmi büntetések.
 
 a) természetes személyazonosító adatok,
 
-b)
+b) – saját iroda működtetésével ellátott helyettesítés esetén – a végrehajtói letéti számla száma, a számlát vezető hitelintézet neve, valamint a tartós helyettes irodájának és kézbesítési irodájának címe, több tartós helyettes kirendelése esetén a tartós helyettesre vonatkozó ügyelosztási szabályok,
 
 c) a helyettesített végrehajtó neve, székhelye, illetékességi területe,
 

@@ -1,6 +1,6 @@
 ## Végrehajtójelölt
 
-241. § (1) Önálló bírósági végrehajtójelöltként (e fejezetben a továbbiakban: végrehajtójelölt) az járhat el, akit a kamara a végrehajtójelöltek nyilvántartásába felvett, és a 238. § (2) bekezdése szerinti esküt letette. A kamara a nyilvántartásba való felvételét kérő személyt meghallgatja.
+241. § (1) Önálló bírósági végrehajtójelöltként (e fejezet alkalmazásában a továbbiakban: végrehajtójelölt) az járhat el, akit a kamara a végrehajtójelöltek nyilvántartásába felvett, és a 238. § (2) bekezdése szerinti esküt letette. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: önálló bírósági végrehajtójelölt. A kamara a nyilvántartásba való felvételét kérő személyt meghallgatja.
 
 (2) Végrehajtójelöltként azt lehet nyilvántartásba venni, aki
 

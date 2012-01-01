@@ -1,5 +1,13 @@
-271. § (1) A kamara közgyűlése a végrehajtók közül 4 évre a Pest Megyei és a Győr-Moson-Sopron Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 7-7, a Hajdú-Bihar Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 6 végrehajtót fegyelmi bírónak, ugyanennyi végrehajtót vizsgálóbiztosnak, a Legfelsőbb Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 3 végrehajtót fegyelmi bírónak választ meg.
+271. § (1) A kamara közgyűlése a végrehajtók közül 4 évre a Budapest Környéki és a Győri Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 7-7, a Debreceni Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 6 végrehajtót vizsgálóbiztosnak választ meg.
 
-(2) Fegyelmi bírónak és vizsgálóbiztosnak azt a végrehajtót lehet megválasztani, akinek legalább 5 éves végrehajtói gyakorlata van, feltéve hogy vele szemben nincs kizáró ok [275. § (1) bek. a) pont].
+(2) Vizsgálóbiztosnak azt a végrehajtót lehet megválasztani, akinek legalább 5 éves végrehajtói gyakorlata van, feltéve hogy vele szemben nincs kizáró ok [275. § (1) bek. a) pont].
 
-(3) Fegyelmi bírónak és vizsgálóbiztosnak az elsőfokú fegyelmi bírósághoz azt a végrehajtót lehet megválasztani, akinek a székhelye a fegyelmi bíróság illetékességi területén van, de minden megyéből kell egy bírót és egy vizsgálóbiztost választani. A másodfokú fegyelmi bírósághoz bármely végrehajtót meg lehet választani.
+(3) A vizsgálóbiztosi tisztség megszűnik
+
+a) a megválasztás időtartamának lejártával,
+
+b) a végrehajtói szolgálat megszűnésével,
+
+c) a vizsgálóbiztosi tisztségről való lemondással vagy
+
+d) ha a fegyelmi bíróság kötelességeinek vétkes megszegése, hosszabb időn át történő elmulasztása vagy súlyos elhanyagolása miatt – titkos szavazással, a fegyelmi bíróság tagjai legalább kétharmadának szavazatával – tagjainak sorából kizárta.

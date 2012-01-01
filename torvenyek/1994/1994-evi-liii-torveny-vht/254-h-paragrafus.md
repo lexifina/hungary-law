@@ -1,6 +1,6 @@
 ## Közigazgatási hatósági ügyek intézése
 
-254/H. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni – az e §-ban foglalt eltérésekkel – a következő ügyekben:
+254/H. § (1) A Ket. rendelkezéseit kell alkalmazni – az e §-ban foglalt eltérésekkel – a következő ügyekben:
 
 a) bejegyzés a végrehajtó-helyettesek és végrehajtójelöltek kamarai névjegyzékébe, törlés e névjegyzékből, kivéve, ha a törlésre a 240/F. § (5) bekezdésének e) pontja vagy a 241. § (6) bekezdésének e) pontja alapján kerül sor,
 
@@ -8,7 +8,7 @@ b) a végrehajtói iroda alapítási engedélyének megadása iránti eljárás,
 
 c) felvétel a végrehajtói irodák kamarai nyilvántartásába, törlés e nyilvántartásból,
 
-d) a végrehajtói tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés [a továbbiakban az a)–d) pontban foglaltak együtt: kamarai hatósági eljárás].
+d) a végrehajtói tevékenység gyakorlásának időtartama alatt a 239/A. § szerint lefolytatott hatósági ellenőrzés és a 240/A. § (5) bekezdése alapján a végrehajtási iratok átadásának megtörténtére vonatkozóan lefolytatott hatósági ellenőrzés [az a)–d) pont a továbbiakban együtt: kamarai hatósági eljárás].
 
 (2) A kamarai hatósági eljárás lefolytatása iránti kérelmet csak a kamaránál írásban vagy szóban, szóbeli kérelmet pedig csak személyesen lehet előterjeszteni. Nem minősül írásbeli kérelemnek a telefax útján benyújtott kérelem.
 

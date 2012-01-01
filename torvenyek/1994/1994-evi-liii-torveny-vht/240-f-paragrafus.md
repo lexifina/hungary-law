@@ -6,7 +6,7 @@ b)
 
 c) a 18. évét betöltötte,
 
-d) választójoggal rendelkezik,
+d) az országgyűlési képviselők választásán választható,
 
 e) középfokú iskolai végzettséggel rendelkezik,
 

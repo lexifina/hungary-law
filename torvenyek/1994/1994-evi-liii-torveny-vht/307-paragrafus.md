@@ -21,3 +21,13 @@ e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végr
 f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
 
 g) a végrehajtói ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat,
+
+h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtói díjszabást, a törvényszéki végrehajtó végrehajtási jutalmát, a végrehajtási költségátalányt, a végrehajtási eljárásban közreműködő jogi képviselő díjazását,
+
+i) a rendészetért felelős miniszterrel és a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben a meghatározott cselekmény végrehajtására vonatkozó részletes szabályokat, különösen a lakás kiürítésére, valamint a gyermek átadására irányuló eljárásban,
+
+j) a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat,
+
+k) az általános költségátalány megfizetéséről szóló szabályokat,
+
+l) az adópolitikáért felelős miniszterrel egyetértésben a természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjármű becsértékének azt az összegét, amelynél alacsonyabb becsérték esetén a gépjármű mentes a végrehajtás alól, továbbá azt az összeget, amely a gépjármű értékesítése során befolyt vételárból az adóst illeti meg,

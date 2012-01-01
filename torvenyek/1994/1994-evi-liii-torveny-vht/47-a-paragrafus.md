@@ -32,7 +32,7 @@ fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. tör
 
 fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. §-a (1) bekezdésének g) pontja, 96. §-a (1) bekezdésének g) pontja, továbbá 100. §-a (1) bekezdésének b) és c) pontja szerinti tények.
 
-(5) A végrehajtó a végrehajtási eljárásban részt vevő jogi képviselő képviseleti jogosultságát a jogi képviselő által bemutatott ügyvédi vagy jogtanácsosi igazolvány alapján az illetékes ügyvédi kamara, illetve a jogtanácsosi névjegyzéket vezető megyei bíróság nyilvántartásában szereplő adatok alapján ellenőrizheti.
+(5) A végrehajtó a végrehajtási eljárásban részt vevő jogi képviselő képviseleti jogosultságát a jogi képviselő által bemutatott ügyvédi vagy jogtanácsosi igazolvány alapján az illetékes ügyvédi kamara, illetve a jogtanácsosi névjegyzéket vezető törvényszék nyilvántartásában szereplő adatok alapján ellenőrizheti.
 
 (6) Az adatigénylés iránti megkeresésre a 47. § (4) bekezdésében, a megkeresés teljesítésének díjkötelezettségére a 47. § (3) bekezdésében, az ellenőrzés során beszerzett adatok kezelésére pedig a 47. § (5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 

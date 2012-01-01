@@ -8,8 +8,8 @@ b) tagjával szemben a végrehajtói irodai tagságot kizáró, a 254/B. §-ban 
 
 (3) A kamara a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat, és – szükség esetén a helyszínen – ellenőrzi az okiratban foglalt adatok valódiságát.
 
-(4) A végrehajtói iroda köteles az alapítási engedély kézhezvételétől számított 30 napon belül az iroda alapítását bejegyzés és közzététel végett bejelenteni a cégjegyzéket vezető megyei bíróságnak mint cégbíróságnak; a végrehajtói iroda a cégjegyzékbe való bejegyzéssel, a bejegyzés napján jön létre.
+(4) A végrehajtói iroda köteles az alapítási engedély kézhezvételétől számított 30 napon belül az iroda alapítását bejegyzés és közzététel végett bejelenteni a cégjegyzéket vezető törvényszéknek mint cégbíróságnak; a végrehajtói iroda a cégjegyzékbe való bejegyzéssel, a bejegyzés napján jön létre.
 
 (5) A cégjegyzékből jogerős határozattal törölt végrehajtói irodát a kamara törli a végrehajtói irodák kamarai nyilvántartásából.
 
-(6) Ha a kamara a hatósági ellenőrzése során megállapítja, hogy a végrehajtói iroda nem felel meg az e törvényben meghatározott alapítási engedély kiadása vagy a végrehajtói irodai tagság fenntartása feltételeinek, az alapítási engedélyt, illetve a tagság létesítése iránti engedélyt visszavonja, és a cégbíróságnál kérelmezi a közjegyzői irodával szemben törvényességi felügyeleti eljárás lefolytatását.
+(6) Ha a kamara a hatósági ellenőrzése során megállapítja, hogy a végrehajtói iroda nem felel meg az e törvényben meghatározott alapítási engedély kiadása vagy a végrehajtói irodai tagság fenntartása feltételeinek, az alapítási engedélyt, illetve a tagság létesítése iránti engedélyt visszavonja, és a cégbíróságnál kérelmezi a végrehajtói irodával szemben törvényességi felügyeleti eljárás lefolytatását.

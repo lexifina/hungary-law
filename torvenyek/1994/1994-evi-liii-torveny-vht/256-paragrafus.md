@@ -1,7 +1,7 @@
-## A megyei bírósági végrehajtó szolgálati viszonya
+## A törvényszéki végrehajtó szolgálati viszonya
 
-256. § (1) A megyei bírósági végrehajtó a megyei bíróságnál szolgálati viszonyban álló bírósági tisztviselő.
+256. § (1) A törvényszéki végrehajtó a törvényszéknél szolgálati viszonyban álló bírósági tisztviselő.
 
-(2) A megyei bírósági végrehajtót a megyei bíróság elnöke nevezi ki határozatlan időre, meghatározott megyei bíróságra; a kinevezésre a 233. § megfelelően irányadó. A megyei bírósági végrehajtó a 238. § (2) bekezdése szerinti esküt a kinevezését követő egy hónapon belül a megyei bíróság elnöke előtt teszi le.
+(2) A törvényszéki végrehajtót a törvényszék elnöke nevezi ki határozatlan időre, meghatározott törvényszékre; a kinevezésre a 233. § megfelelően irányadó. A törvényszéki végrehajtó a 238. § (2) bekezdése szerinti esküt a kinevezését követő egy hónapon belül a törvényszék elnöke előtt teszi le. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: törvényszéki végrehajtó.
 
-(3) A megyei bírósági végrehajtó szolgálati viszonyának megszűnésére a 239. § irányadó azzal, hogy a szolgálat megszűnését a megyei bíróság elnöke állapítja meg, illetve ő menti fel a megyei bírósági végrehajtót végrehajtói szolgálata alól.
+(3) A törvényszéki végrehajtó szolgálati viszonyának megszűnésére a 239. § irányadó azzal, hogy a szolgálat megszűnését a törvényszék elnöke állapítja meg, illetve ő menti fel a törvényszéki végrehajtót végrehajtói szolgálata alól.

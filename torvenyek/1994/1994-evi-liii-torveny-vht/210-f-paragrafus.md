@@ -8,6 +8,6 @@
 
 (5) A végrehajtó a becsértéket közli az MNV Zrt.-vel, és nyilatkozattételre hívja fel arról, hogy a vagyonelkobzás végrehajtásának keretében az ingatlan tulajdonjogára vagy az értékesítéséből befolyt vételárra tart igényt az állam.
 
-(6) Ha az állam az ingatlan tulajdonjogára tart igényt, a végrehajtó a becsérték jogerős megállapítását követően az (1) bekezdés szabályainak alkalmazásával intézkedik a tulajdonjog bejegyzése iránt. Ha az ingatlan becsértéke a tízezer eurót meghaladja, a végrehajtó egyben felhívja az MNV Zrt.-t a végrehajtási költségek és a becsérték 50%-ának a megyei bírósági letéti számlára történő befizetésére.
+(6) Ha az állam az ingatlan tulajdonjogára tart igényt, a végrehajtó a becsérték jogerős megállapítását követően az (1) bekezdés szabályainak alkalmazásával intézkedik a tulajdonjog bejegyzése iránt. Ha az ingatlan becsértéke a tízezer eurót meghaladja, a végrehajtó egyben felhívja az MNV Zrt.-t a végrehajtási költségek és a becsérték 50%-ának a törvényszéki letéti számlára történő befizetésére.
 
 (7) Ha az állam az ingatlan értékesítéséből befolyt vételárra tart igényt, úgy a pénzkövetelés behajtásának szabályai szerint kell az eljárást folytatni; ebben az esetben a végrehajtási költségek, valamint a 165. § a)–c) pontjaiban és a 170. §-ban foglalt követelések kielégítése után fennmaradó pénzösszeg illeti meg az államot.

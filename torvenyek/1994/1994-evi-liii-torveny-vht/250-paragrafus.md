@@ -1,4 +1,4 @@
-250. § (1) A kamara köztestület, e törvényben és más jogszabályokban meghatározott jogok gyakorlásával és kötelezettségek teljesítésével képviseli és védi a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek érdekeit, ellátja a végrehajtói szolgálattal kapcsolatos, jogszabályban meghatározott feladatokat, és közreműködik a végrehajtással kapcsolatos jogszabályok előkészítésében.
+250. § (1) A kamara köztestület, e törvényben és más jogszabályokban meghatározott jogok gyakorlásával és kötelezettségek teljesítésével képviseli és védi a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek érdekeit, ellátja a végrehajtói szolgálattal kapcsolatos, jogszabályban meghatározott feladatokat, és közreműködik a végrehajtással kapcsolatos jogszabályok előkészítésében. A kamarát a törvényszék nem veszi nyilvántartásba.
 
 (2) A kamara jogai és feladatai különösen:
 
@@ -26,7 +26,7 @@ k) szervezi a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek 
 
 l) fegyelmi eljárást kezdeményez, nyilvántartja a jogerős fegyelmi határozatokat,
 
-m) megválasztja a fegyelmi bíróság végrehajtó tagjait és a vizsgálóbiztosokat,
+m) megválasztja a fegyelmi bíróság vizsgálóbiztosait,
 
 n) a végrehajtási ügyek intézéséről statisztikai adatgyűjtést és adatszolgáltatást végez,
 

@@ -1,6 +1,6 @@
 ## Új eljárás kezdeményezése
 
-294. § (1) A jogerős fegyelmi határozat meghozatala után az eljárás alá vont személy, a megyei bíróság elnöke, továbbá a miniszter és a kamara elnöke új eljárást kezdeményezhet, ha
+294. § (1) A jogerős fegyelmi határozat meghozatala után az eljárás alá vont személy, a törvényszék elnöke, továbbá a miniszter és a kamara elnöke új eljárást kezdeményezhet, ha
 
 a) olyan tényre vagy bizonyítékra, illetőleg olyan jogerős bírósági vagy hatósági határozatra hivatkozik, amelyet a fegyelmi bíróság nem bírált el, feltéve, hogy az a fegyelmi határozatra lényeges hatással lett volna,
 

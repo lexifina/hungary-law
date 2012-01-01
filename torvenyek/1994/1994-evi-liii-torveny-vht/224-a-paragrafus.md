@@ -4,4 +4,4 @@
 
 a) a végrehajtást elrendelő bíróságon a közjegyzőt, a végrehajtást elrendelő bíróság által hozott határozat alatt a közjegyző által hozott határozatot kell érteni;
 
-b) a közjegyző határozata elleni fellebbezést a közjegyző székhelye szerint illetékes megyei bíróság bírálja el.
+b) a közjegyző határozata elleni fellebbezést a közjegyző székhelye szerint illetékes törvényszék bírálja el.

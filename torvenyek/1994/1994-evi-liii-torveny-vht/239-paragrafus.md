@@ -18,7 +18,7 @@ napján.
 
 (3) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha
 
-a) a végrehajtó magyar állampolgárságát vagy választójogát elvesztette,
+a) a végrehajtó magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 
 b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) pontjában meghatározott körülmény következett be,
 

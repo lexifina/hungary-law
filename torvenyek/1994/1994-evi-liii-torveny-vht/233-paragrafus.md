@@ -6,7 +6,7 @@ b)
 
 c) a 24. évét betöltötte,
 
-d) választójoggal rendelkezik,
+d) az országgyűlési képviselők választásán választható,
 
 e) felsőfokú iskolai végzettséggel rendelkezik,
 

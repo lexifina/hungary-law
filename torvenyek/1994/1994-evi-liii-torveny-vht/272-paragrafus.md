@@ -1,4 +1,4 @@
-272. § (1) Minden megyei bíróság elnöke 1 fegyelmi bírót nevez ki 4 évre a bírák közül az elsőfokú fegyelmi bíróságba, a Legfelsőbb Bíróság elnöke a másodfokú fegyelmi bíróságba 3 bírót taggá ugyancsak 4 évre nevez ki.
+272. § (1) Minden törvényszék elnöke 1 fegyelmi bírót nevez ki 4 évre a bírák közül az elsőfokú fegyelmi bíróságba, a Kúria elnöke a másodfokú fegyelmi bíróságba 6 bírót a Kúria és az ítélőtáblák bírái közül ugyancsak 4 évre nevez ki.
 
 (2)
 

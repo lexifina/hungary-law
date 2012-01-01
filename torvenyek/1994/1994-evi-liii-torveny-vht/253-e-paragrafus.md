@@ -14,7 +14,7 @@ e) a végrehajtási ügy számát, és
 
 f) azt, hogy a követelést a későbbiekben kielégítették (teljesítették).
 
-(3) A végrehajtó (megyei bírósági végrehajtó) a végrehajtási ügy befejezésekor megkeresi a kamarát az adós gazdálkodó szervezet (2) bekezdésben foglalt adatainak a nyilvántartásba történő bejegyzése céljából. Ha a bejegyzés után az eljárás folytatódik, és ennek során a követelést kielégítették (teljesítették), ezt is közölni kell a kamarával.
+(3) A végrehajtó (törvényszéki végrehajtó) a végrehajtási ügy befejezésekor megkeresi a kamarát az adós gazdálkodó szervezet (2) bekezdésben foglalt adatainak a nyilvántartásba történő bejegyzése céljából. Ha a bejegyzés után az eljárás folytatódik, és ennek során a követelést kielégítették (teljesítették), ezt is közölni kell a kamarával.
 
 (4) A kamara a nyilvántartás adatairól költségtérítés fejében tájékoztatást adhat annak, aki ezt a cél és az adatkéréshez fűződő jogi érdek megjelölésével írásban kéri. A nyilvántartásból történő tájékoztatás tényét rögzíteni kell.
 

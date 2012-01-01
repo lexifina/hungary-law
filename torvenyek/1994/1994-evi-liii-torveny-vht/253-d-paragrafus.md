@@ -4,7 +4,7 @@
 
 (3) A kamara köteles a megadott határidőn belül a felhívásnak megfelelően a szervezeti és működési szabályzatot, iránymutatást, illetve egyéb határozatot módosítani, vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(4) Ha a kamara a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetése iránt, a miniszter kérheti a szervezeti és működési szabályzat, iránymutatás, illetve egyéb határozat bírósági felülvizsgálatát. A pert a kamara ellen a megadott határidő lejártától számított 30 napon belül lehet megindítani és a Pp. általános szabályai szerint kell lefolytatni; a per a megyei (fővárosi) bíróság hatáskörébe tartozik.
+(4) Ha a kamara a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetése iránt, a miniszter kérheti a szervezeti és működési szabályzat, iránymutatás, illetve egyéb határozat bírósági felülvizsgálatát. A pert a kamara ellen a megadott határidő lejártától számított 30 napon belül lehet megindítani és a Pp. általános szabályai szerint kell lefolytatni; a per a törvényszék hatáskörébe tartozik.
 
 (5) Ha a bíróság a jogszabálysértést megállapítja,
 
