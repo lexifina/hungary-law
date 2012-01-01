@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-42-00-00
 | 2010-06-17 | 2010. évi LII. törvény | 1994-42-00-00.25 |
 | 2010-08-15 | 2010. évi XC. törvény | 1994-42-00-00.26 |
 | 2011-01-01 | 2010. évi CLIX. törvény | 1994-42-00-00.27 |
+| 2012-01-01 | 2011. évi CXCV. törvény | 1994-42-00-00.28 |
