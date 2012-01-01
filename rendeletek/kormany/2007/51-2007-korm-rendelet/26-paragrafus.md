@@ -2,11 +2,11 @@
 
 ## [a felsőoktatási törvény 119. §-ának (3) bekezdéséhez]
 
-26. § (1)[^31] A kétoldalú nemzetközi szerződés alapján államilag elismert felsőoktatási intézményben államilag támogatott képzésben részt vevő hallgató részére – az államilag támogatott doktori képzésben részt vevő hallgatót kivéve – az oktatási és kulturális miniszter ösztöndíjat adományoz. Az adományozott ösztöndíj évente tíz vagy tizenkét hónapra szól.
+26. § (1)[^32] A kétoldalú nemzetközi szerződés alapján államilag elismert felsőoktatási intézményben államilag támogatott képzésben részt vevő hallgató részére – az államilag támogatott doktori képzésben részt vevő hallgatót kivéve – az oktatási és kulturális miniszter ösztöndíjat adományoz. Az adományozott ösztöndíj évente tíz vagy tizenkét hónapra szól.
 
 (2) A miniszteri ösztöndíj havi összege megfelel
 
-a)[^32]
+a)[^33]
 
 b) más alap- és mesterképzésben részt vevő hallgatók esetében a költségvetési törvényben meghatározott hallgatói normatíva éves összege 34%-ának,
 
@@ -16,13 +16,13 @@ c) doktori képzésben részt vevő hallgatók esetében a költségvetési tör
 
 (4) Az államilag támogatott alap- és mesterképzésben, valamint doktori képzésben Magyarországon tanulmányokat folytató nem magyar állampolgárságú hallgató, akinek esetében ezt két- vagy többoldalú nemzetközi szerződés előírja, évi 12 hónapra jogosult kollégiumi elhelyezésre.
 
-(5)[^33] A nemzetközi szerződés alapján Magyarországon tanulmányokat folytató személyekről a Balassi Intézet tájékoztatja a felsőoktatási intézményeket.
+(5)[^34] A nemzetközi szerződés alapján Magyarországon tanulmányokat folytató személyekről a Balassi Intézet tájékoztatja a felsőoktatási intézményeket.
 
 (6) A 2007. január 1-je előtt hallgatói jogviszonyt létesítő és magyar állami ösztöndíjjal tanulmányokat folytató külföldi hallgatók részére a támogatásokat a velük kötött megállapodás előírásai szerint kifizetni, azzal az eltéréssel, hogy a Magyar Ösztöndíj Bizottság által adományozott ösztöndíjat a felsőoktatási intézmények folyósítják.
 
-(7)[^34] Nemzetközi megállapodás alapján részképzésben részt vevő nem magyar állampolgárok esetében az (1)–(5) bekezdés rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az adományozott ösztöndíj a részképzés időtartamára szól.
+(7)[^35] Nemzetközi megállapodás alapján részképzésben részt vevő nem magyar állampolgárok esetében az (1)–(5) bekezdés rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az adományozott ösztöndíj a részképzés időtartamára szól.
 
-[^31]: A 26. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^32]: A 26. § (2) bekezdésének a) pontját a 372/2007. (XII. 23.) Korm. rendelet 32. § g) pontja hatályon kívül helyezte.
-[^33]: A 26. § (5) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^34]: A 26. § (7) bekezdését a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének e) pontja iktatta be, szövege a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^32]: A 26. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^33]: A 26. § (2) bekezdésének a) pontját a 372/2007. (XII. 23.) Korm. rendelet 32. § g) pontja hatályon kívül helyezte.
+[^34]: A 26. § (5) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^35]: A 26. § (7) bekezdését a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének e) pontja iktatta be, szövege a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

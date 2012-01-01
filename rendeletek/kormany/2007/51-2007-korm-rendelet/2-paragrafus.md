@@ -34,9 +34,9 @@ ga) államilag támogatott képzési formában vesz részt, vagy
 
 gb) tanulmányait államilag támogatott képzési formában kezdte meg és az adott szakon, szakképzésben megkezdett féléveinek száma alapján jogosult lenne államilag támogatott képzésben való részvételre;
 
-h)[^1] saját bevétel: a felsőoktatási törvény 125. §-ának (3)–(4) bekezdése szerinti térítési díj, továbbá az intézményi szabályzatban meghatározott szolgáltatási díj, valamint az intézmény vállalkozási tevékenységének eredménye, gazdasági társaságtól kapott támogatásból származó bevétele, továbbá a pályázat útján kifejezetten ösztöndíj fizetésére kapott támogatás.
+h)[^2] saját bevétel: a felsőoktatási törvény 125. §-ának (3)–(4) bekezdése szerinti térítési díj, továbbá az intézményi szabályzatban meghatározott szolgáltatási díj, valamint az intézmény vállalkozási tevékenységének eredménye, gazdasági társaságtól kapott támogatásból származó bevétele, továbbá a pályázat útján kifejezetten ösztöndíj fizetésére kapott támogatás.
 
-(2)[^2]
+(2)[^3]
 
-[^1]: A 2. § (1) bekezdésének h) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének a) pontjával megállapított szöveg.
-[^2]: A 2. § (2) bekezdését a 233/2007. (IX. 4.) Korm. rendelet 2. § (5) bekezdése hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdésének h) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének a) pontjával megállapított szöveg.
+[^3]: A 2. § (2) bekezdését a 233/2007. (IX. 4.) Korm. rendelet 2. § (5) bekezdése hatályon kívül helyezte.

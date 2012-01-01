@@ -20,7 +20,7 @@ bd) a külföldi hallgatók miniszteri ösztöndíja,
 
 be) alaptámogatás,
 
-bf)[^10] szakmai gyakorlaton való részvétel támogatása,
+bf)[^11] szakmai gyakorlaton való részvétel támogatása,
 
 c) doktorandusz ösztöndíj,
 
@@ -38,4 +38,4 @@ ed) kollégiumi férőhely bérlése, kollégiumi felújítás,
 
 ee) a hallgatói önkormányzat működésének támogatása.
 
-[^10]: A 7. § bf) alpontját a 198/2009. (IX. 15.) Korm. rendelet 1. §-a iktatta be; e módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2010. január 31. napját követően benyújtott kérelmekre kell alkalmazni.
+[^11]: A 7. § bf) alpontját a 198/2009. (IX. 15.) Korm. rendelet 1. §-a iktatta be; e módosító rendelet 9. § (4) bekezdése alapján a rendelkezést a 2010. január 31. napját követően benyújtott kérelmekre kell alkalmazni.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-51-20-2
 | 2009-09-23 | 2007-51-20-22.10 | 51/2007. (III. 26.) Korm. rendelet |
 | 2010-01-31 | 2007-51-20-22.11 | 198/2009. (IX. 15.) Korm. rendelet |
 | 2011-08-25 | 2007-51-20-22.12 | 172/2011. (VIII. 24.) Korm. rendelet |
+| 2012-01-01 | 2007-51-20-22.13 | 363/2011. (XII. 30.) Korm. rendelet |

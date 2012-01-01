@@ -1,6 +1,6 @@
 27. § (1) A Magyarországon költségtérítéses képzésben részt vevő nem magyar állampolgárságú hallgató részére tanévenként az oktatási és kulturális miniszter ösztöndíjat adományozhat.
 
-(2)[^38] A pályázatot – a költségvetési törvényben meghatározott keretek között – az oktatási és kulturális miniszter írja ki, és a Balassi Intézet bonyolítja le.
+(2)[^39] A pályázatot – a költségvetési törvényben meghatározott keretek között – az oktatási és kulturális miniszter írja ki, és a Balassi Intézet bonyolítja le.
 
 (3) A pályázat elbírálására a rendelkezésre álló költségvetési előirányzat és a pályázók tanulmányi teljesítménye alapján kerül sor.
 
@@ -10,4 +10,4 @@
 
 (6) A pályázat benyújtási határideje nem lehet korábbi, mint a közzétételtől számított 30. nap.
 
-[^38]: A 27. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^39]: A 27. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
