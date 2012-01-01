@@ -30,7 +30,7 @@ b) az illetékességi területén elkövetett azon bűncselekmények nyomozása,
 
 [^1]: A 2. § (5) bekezdése a 20/2010. (V. 4.) IRM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (5) bekezdés b) pontja az 52/2011. (XII. 21.) BM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § (6) bekezdése az 52/2011. (XII. 21.) BM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § (6) bekezdése az 52/2011. (XII. 21.) BM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (7) bekezdése a 20/2010. (V. 4.) IRM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § (8) bekezdése a 20/2010. (V. 4.) IRM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (8a) bekezdését a 20/2010. (V. 4.) IRM rendelet 1. § (3) bekezdése iktatta be.

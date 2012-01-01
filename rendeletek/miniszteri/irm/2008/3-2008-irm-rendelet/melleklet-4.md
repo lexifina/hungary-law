@@ -212,7 +212,7 @@
 
 ## 7.1.20. Btk. 329/D. § (3) bekezdés a) pont – Különösen nagy vagyoni hátrányt okozó iparjogvédelmi jogok megsértésének bűntette
 
-4. melléklet a 3/2008. (I. 16.) IRM rendelethez[^36]
+4. melléklet a 3/2008. (I. 16.) IRM rendelethez[^37]
 
 A vízirendészeti rendőrkapitányságok hatáskörébe tartozó bűncselekmények
 
@@ -266,7 +266,7 @@ A vízirendészeti rendőrkapitányságok hatáskörébe tartozó bűncselekmén
 
 4. Btk. XVIII. fejezet – A vagyon elleni bűncselekmények
 
-4.1.[^37] Ha az elkövetés tárgya vízi jármű, úszó munkagép, úszómű vagy ezek tartozéka, kivéve a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó eseteket
+4.1.[^38] Ha az elkövetés tárgya vízi jármű, úszó munkagép, úszómű vagy ezek tartozéka, kivéve a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó eseteket
 
 4.1.1. Btk. 316. § (1)–(5) bekezdés – Lopás vétsége és bűntette
 
@@ -288,7 +288,7 @@ A vízirendészeti rendőrkapitányságok hatáskörébe tartozó bűncselekmén
 
 4.1.10. Btk. 327. § – Jármű önkényes elvételének bűntette
 
-4.2.[^38] Ha az elkövetés tárgya a természetes vizek kincsei körébe tartozik, kivéve az Nemzeti Adó- és Vámhivatal hatáskörébe tartozó eseteket
+4.2.[^39] Ha az elkövetés tárgya a természetes vizek kincsei körébe tartozik, kivéve az Nemzeti Adó- és Vámhivatal hatáskörébe tartozó eseteket
 
 4.2.1. Btk. 316. § (1)–(5) bekezdés – Lopás vétsége és bűntette
 
@@ -302,6 +302,6 @@ A vízirendészeti rendőrkapitányságok hatáskörébe tartozó bűncselekmén
 
 4.2.6. Btk. 326. § (1)–(4) bekezdés – Orgazdaság vétsége és bűntette
 
-[^36]: A 4. mellékletet a 20/2010. (V. 4.) IRM rendelet 4. § (4) bekezdése iktatta be.
-[^37]: A 4. melléklet 4. pont 4.1. alpont nyitó szövegrésze az 52/2011. (XII. 21.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^38]: A 4. melléklet 4. pont 4.2. alpont nyitó szövegrésze az 52/2011. (XII. 21.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^37]: A 4. mellékletet a 20/2010. (V. 4.) IRM rendelet 4. § (4) bekezdése iktatta be.
+[^38]: A 4. melléklet 4. pont 4.1. alpont nyitó szövegrésze az 52/2011. (XII. 21.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^39]: A 4. melléklet 4. pont 4.2. alpont nyitó szövegrésze az 52/2011. (XII. 21.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
