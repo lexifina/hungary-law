@@ -14,7 +14,7 @@ e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti másodfokú el
 
 – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a Kulturális Örökségvédelmi Hivatalt szakhatóságként jelöli ki.
 
-(2)[^4] A Kormány védett természeti területen található erdő esetén
+(2)[^6] A Kormány védett természeti területen található erdő esetén
 
 a) erdei épület, erdei vasút kivételével minden erdészeti létesítmény létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, lebontására, elmozdítására, illetve használatbavételére, fennmaradására vagy a rendeltetésének megváltoztatására irányuló másodfokú eljárásban,
 
@@ -64,7 +64,7 @@ p) lovas sportverseny rendezésének engedélyezésére irányuló másodfokú e
 
 (4) A Kormány védett természeti területen lévő természetes és természetszerű erdő, valamint a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében a fásítás és a szabad rendelkezésű erdő telepítése feltételeinek meghatározására, tiltására irányuló másodfokú eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(5)[^5] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
+(5)[^7] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
 
 a) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló másodfokú eljárásban,
 
@@ -104,5 +104,5 @@ f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó másodfok�
 
 g) cserjék kivágásának engedélyezése iránti másodfokú eljárásban,
 
-[^4]: A 28. § (2) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 65. § (1) bekezdése szerint módosított szöveg.
-[^5]: A 28. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 65. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 28. § (2) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 65. § (1) bekezdése szerint módosított szöveg.
+[^7]: A 28. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 65. § (2) bekezdése szerint módosított szöveg.

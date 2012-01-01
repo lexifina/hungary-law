@@ -34,6 +34,6 @@ db) az eszközök MgSzH, valamint a megyei kormányhivatalok közötti átcsopor
 
 (12) Az Éltv. szerinti állami védekezés több megyére kiterjedő, illetve országos szintű elrendelésére az MgSzH jogosult.
 
-(13)[^2] Az MgSzH ellátja a növényvédő szerek forgalomba hozataláról valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló az Európai Parlament és a Tanács 1107/2009/EK rendelet 75. cikk (1) bekezdés szerinti hatáskörrel rendelkező hatósági, és (2) bekezdés szerinti nemzeti koordináló hatósági feladatokat.
+(13)[^3] Az MgSzH ellátja a növényvédő szerek forgalomba hozataláról valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló az Európai Parlament és a Tanács 1107/2009/EK rendelet 75. cikk (1) bekezdés szerinti hatáskörrel rendelkező hatósági, és (2) bekezdés szerinti nemzeti koordináló hatósági feladatokat.
 
-[^2]: A 8. § (13) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^3]: A 8. § (13) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 22. § (2) bekezdése iktatta be.
