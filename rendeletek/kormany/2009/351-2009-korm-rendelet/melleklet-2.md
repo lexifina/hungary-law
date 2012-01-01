@@ -10,7 +10,7 @@
 
 | 4. |  | a Porpác közigazgatási területén lévő külterületi 0100, 0101, 0102, 0103, 0104, 0105/1, 0105/2, 0105/3, 0106, | vízjogi engedélyezési eljárások | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 5. |  | 0107, 0108, 0109, 011, 0110, 0111, 0112, 0113, 0114, 0115, 0116, 0117, 02/10, 02/6, 02/7, 02/8, 02/9, 03/1, 03/2, 04, 060, 07/2, 07/4, 07/5, | villamosenergia-ipari építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 5. |  | 0107, 0108, 0109, 011, 0110, 0111, 0112, 0113, 0114, 0115, 0116, 0117, 02/10, 02/6, 02/7, 02/8, 02/9, 03/1, 03/2, 04, 060, 07/2, 07/4, 07/5, | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Győr-Moson-Sopron Megyei Kormányhivatal Győri Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 6. |  | 070/14, 070/15, 070/17, 070/18, | földvédelmi hatósági eljárások | Vas Megyei kormányhivatal földhivatala | földügyért felelős miniszter |
 
@@ -20,7 +20,7 @@
 
 | 9. |  |  | erdővédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
-| 10. |  |  | hírközlési hatósági engedélyezési eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| 10. |  |  | hírközlési hatósági engedélyezési eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 11. |  |  | bányahatósági engedélyezési eljárások | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -30,13 +30,13 @@
 
 | 14. |  |  | vasúti hatósági engedélyezési eljárások | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 15. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
+| 15. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások | Vas Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 16. |  |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 16. |  |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 17. |  |  | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
+| 17. |  |  | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Vas Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 18. |  |  | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 18. |  |  | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 19. |  |  | zajgátló övezet kijelölése | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
@@ -70,7 +70,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 |  | b) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Vas Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 6. | tűzvédelem | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. | tűzvédelem | Vas Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | 7. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -96,6 +96,6 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | területrendezési tervekkel való összhang | Győr-Moson-Sopron Megyei Kormányhivatal állami főépítésze | területrendezésért felelős miniszter |
 
-| 16. | településrendezési előírásokkal való összhang | Vas Megyei Kormányhivatal | építésügyért felelős miniszter |
+| 16. |  |  |  |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 270. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 270. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 30. §-a, a 259/2011. (XII. 7.) Korm. rendelet 21. § c) pontja, a 282/2011. (XII. 21.) Korm. rendelet 41. §-a szerint módosított szöveg.
