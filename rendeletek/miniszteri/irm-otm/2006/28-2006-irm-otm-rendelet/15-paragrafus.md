@@ -1,1 +1,0 @@
-## 14. § A hivatásos állomány elhunyt tagjának az elhalálozásakor vele nem közös háztartásban élő, nyugellátásra jogosult hozzátartozói részére megállapított ellátást az elhunyt halála napjától, a jogosultság későbbi bekövetkezése esetén pedig a bekövetkezés napjától kell folyósítani.

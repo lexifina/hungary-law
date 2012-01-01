@@ -1,1 +1,0 @@
-## 3. § A – folyósítás nélküli – rögzített szolgálati nyugdíj megállapításánál a szolgálati időt a Hszt. 182. §-ának (1) bekezdésében meghatározott szolgálati idő elérésének napjával kell lezártnak tekinteni. A rögzítés időpontja az ezt követő naptári nap.
