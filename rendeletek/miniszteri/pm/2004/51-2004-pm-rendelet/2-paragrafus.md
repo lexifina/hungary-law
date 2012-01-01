@@ -1,5 +1,6 @@
-2. § (1)[^3] A díjkötelezettség akkor is fennáll, ha a kérelmet az adópolitikáért felelős miniszter elutasítja, vagy ha azt az ügyfél visszavonja. A kérelem ismételt benyújtása esetén a díjat újból meg kell fizetni.
+2. § (1)[^2] A díjkötelezettség akkor is fennáll, ha a kérelmet a Nemzeti Adó- és Vámhivatal elnöke elutasítja, vagy ha azt az ügyfél visszavonja. A kérelem ismételt benyújtása esetén a díjat újból meg kell fizetni.
 
-(2) A kérelmet érdemi vizsgálat nélkül kell elutasítani, ha az ügyfél a díjat az eljárás megindításakor nem fizette meg és fizetési kötelezettségét a hiánypótlási felhívás ellenére, annak kézhezvételét követő nyolc napon belül sem teljesíti.
+(2)[^3]
 
-[^3]: A 2. § (1) bekezdése a 40/2006. (XII. 25.) PM rendelet 11. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 40/2006. (XII. 25.) PM rendelet 11. §-a, az 52/2011. (XII. 29.) NGM rendelet 7. § szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdését az 52/2011. (XII. 29.) NGM rendelet 9. §-a hatályon kívül helyezte.
