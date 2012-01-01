@@ -30,7 +30,7 @@ i) gazdaságmozgósítási előszerződés: a gazdaságmozgósítási feladatok 
 
 j) gazdaságmozgósítási szerződés: a gazdaságmozgósítási feladatok ellátására vonatkozó szerződés;
 
-k)[^13] követelménytámasztó szervek: a Magyar Honvédséget, a Nemzeti Adó- és Vámhivatalt, illetve a rendvédelmi szerveket irányító (felügyelő) miniszterek; a szövetséges fegyveres erők tekintetében a Kormány; a közigazgatási rendszer, a nemzetgazdaság és a társadalom működése tekintetében az ágazati miniszterek; a bíróságok tekintetében az Országos Igazságszolgáltatási Tanács (a továbbiakban: OIT) Hivatalának vezetője; a lakosság ellátása tekintetében az illetékes megyei védelmi bizottság elnöke;
+k)[^13] követelménytámasztó szervek: a Magyar Honvédséget, a Nemzeti Adó- és Vámhivatalt, illetve a rendvédelmi szerveket irányító (felügyelő) miniszterek; a szövetséges fegyveres erők tekintetében a Kormány; a közigazgatási rendszer, a nemzetgazdaság és a társadalom működése tekintetében az ágazati miniszterek; a bíróságok tekintetében az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke; a lakosság ellátása tekintetében az illetékes megyei védelmi bizottság elnöke;
 
 l) minősített időszak: a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 19. §-a (3) bekezdésének h) pontja alapján rendkívüli állapotnak, illetve a 19. §-a (3) bekezdésének i) pontja alapján szükségállapotnak kihirdetett időszak, vagy a 35. §-a (1) bekezdésének i) pontja alapján veszélyhelyzetnek minősített, illetve a 19/E. §-a (1) bekezdésének e) pontja alapján meghatározott esemény;
 
@@ -54,5 +54,5 @@ r) védelmi célú hányad: az egyes állami tartalékok gazdaságmozgósítási
 [^10]: A Magyar Köztársaságnak az Észak-atlanti Szerződéshez történő csatlakozásáról és a Szerződés szövegének kihirdetéséről szóló 1999. évi I. törvény 5. cikk.
 [^11]: Az Egyesült Nemzetek Szövetsége Alapokmányának törvénybe iktatásáról szóló 1956. évi I. törvény VI. fejezet, az 1999. évi I. törvény nem 5. cikk hatálya alá eső béketámogató műveletek.
 [^12]: A katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 3. § d) pontja.
-[^13]: A 2. § k) pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. § k) pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (1) bekezdésével megállapított, a 314/2011. (XII. 23.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^14]: A Hvt. 69. § (3) bekezdése és a 191. § (1) bekezdés a)–d) pontjai.

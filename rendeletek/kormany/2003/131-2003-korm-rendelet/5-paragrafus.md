@@ -6,11 +6,11 @@
 
 a) központi tervező szerv: a Gazdasági és Közlekedési Minisztérium,
 
-b) ágazati tervező szervek: a minisztériumok és az irányításuk vagy felügyeletük alá tartozó országos hatáskörű szervek, valamint az MNB, továbbá az OIT Hivatala,
+b)[^19] ágazati tervező szervek: a minisztériumok és az irányításuk vagy felügyeletük alá tartozó országos hatáskörű szervek, valamint az MNB, továbbá az OBH elnöke,
 
 c) területi tervező szervek: a megyei védelmi bizottságok és az ágazati tervező szervek területi szervei,
 
-d) helyi tervező szervek: a külön jogszabályban[^19] meghatározott helyi védelmi bizottságok és a polgármesterek,
+d) helyi tervező szervek: a külön jogszabályban[^20] meghatározott helyi védelmi bizottságok és a polgármesterek,
 
 e) a 6. §-ban foglaltak szerint kijelölt szolgáltatók (a továbbiakban: kijelölt szolgáltatók).
 
@@ -40,7 +40,7 @@ k) a statisztikai tényadatok gyűjtését a nemzetgazdaság békeidőszaki foly
 
 (4) A védelemgazdasági alapterv elkészítésének és rendszeres felülvizsgálatának folyamatát a központi tervező szerv koordinálja. Az ágazati tervező szervek az irányításuk vagy felügyeletük alá tartozó országos és területi szervek részére, a megyei védelmi bizottságok a helyi tervező szervek részére határozzák meg a védelemgazdasági alapterv elkészítéséhez szükséges tervezési feladatokat.
 
-(5) A gazdaságfelkészítési tervezés ágazati feladatai végrehajtásának irányítását az ágazati tervező szervek a honvédelmi felkészítés és az országmozgósítás feladatainak végrehajtására létrehozott, külön jogszabályban[^20] meghatározott önálló szervezeti egységek útján látják el.
+(5) A gazdaságfelkészítési tervezés ágazati feladatai végrehajtásának irányítását az ágazati tervező szervek a honvédelmi felkészítés és az országmozgósítás feladatainak végrehajtására létrehozott, külön jogszabályban[^21] meghatározott önálló szervezeti egységek útján látják el.
 
 (6) A gazdaságfelkészítési tervezés területi feladatait a területi tervező szervek végzik: a megyei védelmi bizottságok titkárságai – gazdaságmozgósítási szakreferens alkalmazása mellett – a megyei védelmi bizottság elnökének irányításával; az ágazati tervező szervek területi szervei az (5) bekezdésben megjelölt önálló szervezeti egységek vezetőjének irányításával.
 
@@ -60,15 +60,16 @@ e) az i) pontjában foglalt feladat tekintetében a tartalékolásért felelős 
 
 f) a j) pontjában foglalt feladat tekintetében a kijelölt szolgáltatók,
 
-g) a k) pontjában foglalt feladat tekintetében a tervező szervek, valamint – a külön jogszabályban[^21] foglaltak keretein belül – a KSH és területi igazgatóságai
+g) a k) pontjában foglalt feladat tekintetében a tervező szervek, valamint – a külön jogszabályban[^22] foglaltak keretein belül – a KSH és területi igazgatóságai
 
 ## végzik.
 
 (9) A védelemgazdasági alaptervet, valamint az abban foglaltak és a speciális minősített időszaki és egyéb gazdaságmozgósítási jogszabályi rendelkezések érvényesülését elősegítő, a 4. § (2) bekezdés d) pontjában foglalt – gazdaságmozgósítási célú – intézkedési tervet a tervező szerv vezetője hagyja jóvá. A területi és a helyi tervező szerveknél az intézkedési tervet minden esetben az illetékes megyei védelmi bizottság elnökének, míg a kijelölt szolgáltatók esetében a kijelölő tervező szervnek az egyetértésével kell jóváhagyni.
 
-(10)[^22] A védelemgazdasági alapterv elkészítésének módszertani szabályait az 1. számú melléklet tartalmazza.
+(10)[^23] A védelemgazdasági alapterv elkészítésének módszertani szabályait az 1. számú melléklet tartalmazza.
 
-[^19]: A Hvt. 17. §-a.
-[^20]: A Vhr. 5. § (3) bekezdése.
-[^21]: A statisztikáról szóló 1993. évi XLVI. törvény.
-[^22]: Az 5. § (10) bekezdését a 201/2003. (XII. 10.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^19]: Az 5. § (2) bekezdés b) pontja a 314/2011. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^20]: A Hvt. 17. §-a.
+[^21]: A Vhr. 5. § (3) bekezdése.
+[^22]: A statisztikáról szóló 1993. évi XLVI. törvény.
+[^23]: Az 5. § (10) bekezdését a 201/2003. (XII. 10.) Korm. rendelet 1. §-a iktatta a szövegbe.

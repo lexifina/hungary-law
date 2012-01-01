@@ -16,7 +16,7 @@
 
 ## A tervező szervek az általános tervezési feladatok meghatározása alapján az alábbiak szerint csoportosíthatók:
 
-## 1.[^47] Követelménytámasztó szervek
+## 1.[^48] Követelménytámasztó szervek
 
 ## – A Kormány, a MeH, az MNB és az érintett ágazati minisztériumok (EüM, FVM, FMM, GKM, KüM, KvVM, NKÖM, OM);
 
@@ -30,13 +30,13 @@
 
 ## – az IRM mint a Rendőrség és a BV felügyeleti szerve;
 
-## –[^48] az NGM mint a NAV felügyeleti szerve;
+## –[^49] az NGM mint a NAV felügyeleti szerve;
 
-## – az OITH mint a bíróságok felügyeleti szerve;
+## – az OBH elnöke mint a bíróságok felügyeleti szerve;
 
 ## – a megyei védelmi bizottságok elnökei a lakosság ellátásának követelménytámasztói.
 
-## 2.[^49] Felelős teljesítő szervek
+## 2.[^50] Felelős teljesítő szervek
 
 ## Ágazati ellátási felelősséggel az ágazati tervező szervek:
 
@@ -48,7 +48,7 @@
 
 ## – az FVM – a hazai mezőgazdasági, erdészeti és élelmiszeripari cikkekkel való ellátásért,
 
-## –[^50] a GKM – a hazai nyersanyagokkal, energiahordozókkal, ipari, kereskedelmi cikkekkel és szolgáltatásokkal való ellátásért, továbbá a szállítási szolgáltatásért, közúti, vasúti helyreállításért, a nyersanyagból, energiahordozóból, ipari mezőgazdasági, erdészeti és egyéb termékekből való behozatalért,
+## –[^51] a GKM – a hazai nyersanyagokkal, energiahordozókkal, ipari, kereskedelmi cikkekkel és szolgáltatásokkal való ellátásért, továbbá a szállítási szolgáltatásért, közúti, vasúti helyreállításért, a nyersanyagból, energiahordozóból, ipari mezőgazdasági, erdészeti és egyéb termékekből való behozatalért,
 
 ## – az IHM – az informatikai és távközlési szolgáltatásokért,
 
@@ -58,7 +58,7 @@
 
 ## – az OM – az oktatás-képzés védelmi feladatai ellátásáért,
 
-## –[^51] az NGM – a költségvetési előirányzatokért.
+## –[^52] az NGM – a költségvetési előirányzatokért.
 
 ## Területi ellátási felelősséggel a megyei védelmi bizottságok,
 
@@ -82,13 +82,13 @@
 
 ## A BNT keretében beérkező szövetségesi erőforrás igény fogadása, a BNT katonai igény kielégítésének tervezése, a nem katonai igény továbbítása az illetékes tervező szervek részére. A BNT összes igény visszaigazolása a szövetségesek részére. A BNT képességkatalógus összeállítása, frissítése, valamint a NATO tagállamok és a küldő államok részére történő átadása.
 
-## 2.[^52] Az igazságügyi és rendészeti miniszter, valamint az önkormányzati és területfejlesztési miniszter feladatai
+## 2.[^53] Az igazságügyi és rendészeti miniszter, valamint az önkormányzati és területfejlesztési miniszter feladatai
 
 ## Az irányítása és felügyelete alá tartozó rendvédelmi szervek nemzetgazdasággal szembeni minősített időszaki igényei tervezésének összefogása, a részigénytervek összesítése. Az összesített igénytervet az illetékes ágazati tervező szervek részére kell megküldeni.
 
 ## A rendvédelmi szervek gazdaságmozgósítási helyzetre vonatkozó igényei tervezésének ki kell terjednie az egyéb gazdaságmozgósítási helyzetre vonatkozó – központi beavatkozást igénylő – tárcaszintű tervkivonat elkészítésére is. Az egyéb gazdaságmozgósítási helyzetre vonatkozó tárcaszintű tervkivonatot csak a központi tervező szerv részére kell megküldeni.
 
-## 3.[^53] Az egyéb rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatalt is) felügyeletét ellátó miniszterek, országos hatáskörű szervek vezetőinek feladatai
+## 3.[^54] Az egyéb rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatalt is) felügyeletét ellátó miniszterek, országos hatáskörű szervek vezetőinek feladatai
 
 ## Az alárendelt rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) nemzetgazdasággal szemben támasztott, gazdaságmozgósítási helyzetre vonatkozó igényeinek tervezése, a részigénytervek összesítésének elvégzése. Az összesített igénytervet az illetékes ágazati tervező szervek részére kell megküldeni.
 
@@ -106,7 +106,7 @@
 
 ## A KSH által koordinált OSAP keretében végzett adatgyűjtésekben a gazdaságfelkészítési tervezés szempontjainak érvényesítése. Az adatgyűjtés kérdőíveinek összeállításakor a védelemgazdasági alapterv tényadat igényeinek figyelembevétele. A védelemgazdasági alapterv ágazati bázisadatainak – szükség szerinti – egyszeri adatfelvételezéssel történő biztosítása.
 
-## 5.[^54] A gazdasági és közlekedési miniszter feladatai
+## 5.[^55] A gazdasági és közlekedési miniszter feladatai
 
 ## Az ágazati miniszterre vonatkozó tervezési feladatok ellátása.
 
@@ -124,7 +124,7 @@
 
 ## Az igények felülvizsgálata során ki kell alakítani az egyes stratégiai jellegű termékek exportjára vonatkozó esetleges korlátozó, illetve importjára vonatkozó esetleges könnyítő külkereskedelmi eljárási szabályokat.
 
-## 6.[^55]
+## 6.[^56]
 
 ## 7. A pénzügyminiszter feladatai
 
@@ -134,13 +134,13 @@
 
 ## A Kormány tájékoztatása a minősített időszaki költségvetés főbb sarokszámairól, megállapításairól, valamint a döntést igénylő kérdésekről (a gazdaság és közlekedési miniszterrel közös jelentésben). Közreműködés a nemzetgazdaság minősített időszaki (rendkívüli állapoti) teljesítőképességének elemző vizsgálatában. Az illetékes tervező szervek tájékoztatása a Kormány döntéseiről, állásfoglalásáról, a döntések végrehajtását szolgáló pénzügyi tervezési feladatok egyidejű meghatározásával.
 
-## 8.[^56] A fővárosi, megyei védelmi bizottságok feladatai
+## 8.[^57] A fővárosi, megyei védelmi bizottságok feladatai
 
 ## A védelmi bizottság a gazdaságfelkészítési tervezés keretében elvégzi:
 
 ## – az illetékességi terület lakosságának minősített időszaki, alapvető élelmiszerekkel, közszükségleti cikkekkel, egészségügyi szolgáltatással való ellátásának tervezési feladatait;
 
-## –[^57] a Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) részéről, valamint a BNT keretében a megyére mint közigazgatási egységre háruló igények kielégítése tervezését;
+## –[^58] a Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) részéről, valamint a BNT keretében a megyére mint közigazgatási egységre háruló igények kielégítése tervezését;
 
 ## – az illetékességi területen működő és az alapterv végrehajtásában érintett szolgáltatásra kötelezettek kijelölésével kapcsolatos feladatokat;
 
@@ -160,7 +160,7 @@
 
 ## 10. A tervező szervek kódjai
 
-## a)[^58] A Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is):
+## a)[^59] A Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is):
 
 ## F-01: HM
 
@@ -188,7 +188,7 @@
 
 ## R-43: NbSz
 
-## b)[^59] Minisztériumok, országos hatáskörű szervek:
+## b)[^60] Minisztériumok, országos hatáskörű szervek:
 
 ## M-01: ÖTM (építésügyi ágazat)
 
@@ -214,7 +214,7 @@
 
 ## M-13: KSH
 
-## M-14: OITH
+## M-14: OBH elnöke
 
 ## c) Megyei védelmi bizottságok:
 
@@ -274,7 +274,7 @@
 
 ## Az igények tervezése kiterjed:
 
-## 1.1.[^60] A Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) által a nemzetgazdaságtól igényelt, a béke időszaki alapfeladataik ellátásához megállapított békeszükséglethez vagy átlagos békefelhasználáshoz képest számított többlet erőforrás igény tételes felmérésére (követelménytámasztók).
+## 1.1.[^61] A Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) által a nemzetgazdaságtól igényelt, a béke időszaki alapfeladataik ellátásához megállapított békeszükséglethez vagy átlagos békefelhasználáshoz képest számított többlet erőforrás igény tételes felmérésére (követelménytámasztók).
 
 ## 1.2. A nemzetgazdaság gazdaságmozgósítási helyzetben való működéséhez, valamint az 1.1. pont szerinti erőforrásigény biztosításához szükséges ágazati és import igények felmérésére (ágazati tervező szervek).
 
@@ -290,7 +290,7 @@
 
 ## A gazdaságmozgósítási igények kielégítése tervezésekor az alábbi kielégítési módokat lehet figyelembe venni:
 
-## 2.1.[^61] Az igénybevétellel történő igénykielégítés
+## 2.1.[^62] Az igénybevétellel történő igénykielégítés
 
 ## A kielégítési mód meghatározásához legelőször azt kell megvizsgálni, hogy az adott igény közvetlenül a nemzetgazdaságból minősített időszaki igénybevétellel kielégíthető-e. Ide tartoznak a nemzetgazdaságban meglévő és honvédelmi vagy egyéb védelmi célból igénybevételre kijelölt ingatlanok (beleértve a közlekedési, hírközlési, távközlési, infrastrukturális hálózatokat és létesítményeket is), ingó dolgok (gépek, közúti, vízi és légi járművek, vasúti gördülőanyagok és más technikai eszközök és tartozékaik, pótalkatrészek), a tartalékos személyi állomány, valamint a meghagyásban részesített szakemberek. A honvédelmi és a polgári védelmi célú igénybevétellel kapcsolatos előkészületi, tervezési és nyilvántartási tevékenységeket az MH, valamint az OKF, a Rendőrség igénybejelentése alapján a Hvt. és a végrehajtásáról szóló 178/1993. (XII. 27.) Korm. rendelet (a továbbiakban: Vhr.) vonatkozó szakaszai szerint a megyei/fővárosi hadkiegészítő parancsnokságok és védelmi bizottságok végzik.
 
@@ -312,7 +312,7 @@
 
 ## A 2.1–2.4. pontokban leírt igénykielégítési módokkal nem biztosítható erőforrás esetén tervezhető az importból történő igénykielégítés. A minősített időszaki igények kielégítése tervezésekor figyelembe kell venni a veszélyeztetettségi időszakban (6 hónap) szükség szerint bevezetésre kerülő exportot korlátozó, importot könnyítő gazdaságpolitikai intézkedéseket. A NATO-ban alkalmazott együttműködői logisztikai technikák, mint a NATO Logisztikai Értéktőzsde, a Raktári Készlet és Eszközigények Cseréje, a Közös Felhasználású Termékek Anyaggazdálkodása, a Termékek Nyilvántartásból Történő Biztosítása, vagy a NATO Lőszer Adatbázis projektek alkalmazása alapvető érdekünk.
 
-## A szövetségesi kötelezettség alapján tervezni kell a BNT-re vonatkozó kormánymegállapodásból a nemzetgazdaságra háruló export, valamint a szövetséges állam területén állomásoztatott, működtetett magyar haderő import igényeit is. Ezen igénykielégítési mód tervezésénél jelen módszertant a BNT tervezési és eljárási szabályaira vonatkozó kormányrendelet[^62] figyelembevételével kell alkalmazni.
+## A szövetségesi kötelezettség alapján tervezni kell a BNT-re vonatkozó kormánymegállapodásból a nemzetgazdaságra háruló export, valamint a szövetséges állam területén állomásoztatott, működtetett magyar haderő import igényeit is. Ezen igénykielégítési mód tervezésénél jelen módszertant a BNT tervezési és eljárási szabályaira vonatkozó kormányrendelet[^63] figyelembevételével kell alkalmazni.
 
 ## 2.6. Költségvetési előirányzat
 
@@ -356,7 +356,7 @@
 
 ## A gazdaságfelkészítési szerződések, gazdaságmozgósítási előszerződések megkötése és a gazdaságmozgósítási szerződések előkészítése a felelős teljesítő szervek feladata.
 
-## A ,,T'' jelű táblázatot csak azok a tervező szervek (minisztériumok) töltik ki, amelyek az egyéb gazdaságmozgósítási helyzetre vonatkozó, – jogszabályban[^63] előírt – tervkészítésre kötelezettek.
+## A ,,T'' jelű táblázatot csak azok a tervező szervek (minisztériumok) töltik ki, amelyek az egyéb gazdaságmozgósítási helyzetre vonatkozó, – jogszabályban[^64] előírt – tervkészítésre kötelezettek.
 
 ## A nemzetgazdaság minősített időszaki teljesítőképességének ellenőrző vizsgálatát a tervező szervek adatai alapján a GKM és a PM végzi. A nemzetgazdasági szintű elemző munka kiterjed a visszaigazolt igények költségvetési fedezetének és a gazdaság teljesítőképességének összehasonlítására.
 
@@ -366,9 +366,9 @@
 
 ## Az alaptervet 4 évenként (1+3 év) kell elkészíteni. A tervező szervek adatai alapján összeállított alaptervről a gazdasági és közlekedési miniszter és a pénzügyminiszter közös előterjesztésben számol be a Kormánynak.
 
-## A terv a 4 éves tervezési ciklus első évére (a továbbiakban: tervév)[^64] a követelménytámasztók által bejelentett igényeknek megfelelő részletességgel, mint alapterv kerül kidolgozásra, és – az évenként szükségessé váló pontosításokkal – folyamatosan tartalmazza az aktuálisan visszaigazolt minősített időszaki vagyoni szolgáltatásokat.
+## A terv a 4 éves tervezési ciklus első évére (a továbbiakban: tervév)[^65] a követelménytámasztók által bejelentett igényeknek megfelelő részletességgel, mint alapterv kerül kidolgozásra, és – az évenként szükségessé váló pontosításokkal – folyamatosan tartalmazza az aktuálisan visszaigazolt minősített időszaki vagyoni szolgáltatásokat.
 
-## A tervezési ciklus 2–4. éveiben[^65] csak a tervév adataiban szükségessé váló változásokat kell – a tervévivel azonos ütemezéssel – végigvezetni a tervezési folyamaton. Az alapterv pontosításáról évente szűkített jelentésben számol be a Kormánynak a gazdasági és közlekedési miniszter.
+## A tervezési ciklus 2–4. éveiben[^66] csak a tervév adataiban szükségessé váló változásokat kell – a tervévivel azonos ütemezéssel – végigvezetni a tervezési folyamaton. Az alapterv pontosításáról évente szűkített jelentésben számol be a Kormánynak a gazdasági és közlekedési miniszter.
 
 ## Az alapterv bázisát, a tervévet megelőző év tényadatai képezik. A tényadatokat szolgáltató információs rendszerek a következők:
 
@@ -398,13 +398,13 @@
 
 ## A követő tervezés információs rendszerének kialakításakor alapelv, hogy az adatszolgáltatásra kijelöltek köre minden esetben meghaladja a tervezésbe bevontak körét.
 
-## A kijelölt szolgáltatókat a gazdasági tevékenységek egységes ágazati osztályozási rendszere (TEÁOR[^66]) alapján kell besorolni. Az ágazati besorolásnál a gazdasági egységeknek a tervév január 1-jei szervezeti állapotát kell figyelembe venni.
+## A kijelölt szolgáltatókat a gazdasági tevékenységek egységes ágazati osztályozási rendszere (TEÁOR[^67]) alapján kell besorolni. Az ágazati besorolásnál a gazdasági egységeknek a tervév január 1-jei szervezeti állapotát kell figyelembe venni.
 
-## V.[^67] A TERVEZÉS FOLYAMATA
+## V.[^68] A TERVEZÉS FOLYAMATA
 
 ## A tervező szervek a védelemgazdasági alapterv összeállítása során
 
-## –[^68] a Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) igényei, valamint a BNT keretében a nemzetgazdaságra háruló igények tervezésekor a „felülről lefelé tervezés” (feladatmeghatározó) módszerét, míg
+## –[^69] a Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) igényei, valamint a BNT keretében a nemzetgazdaságra háruló igények tervezésekor a „felülről lefelé tervezés” (feladatmeghatározó) módszerét, míg
 
 ## – a lakossági igények, valamint a területi, ágazati és nemzetgazdasági igénykielégítés tervezésekor az ,,alulról felfelé tervezés'' módszerét alkalmazzák.
 
@@ -468,7 +468,7 @@
 
 ## A jelen módszertani szabályok a tervezési segédletek papíralapú kitöltését tekintik alapértelmezésnek. Amikor a tervezés számítógépes támogatásának folyamatos bevezetésével megteremtődnek a feltételek a teljes folyamat elektronikus úton történő végrehajtására, kiváltjuk a hagyományos iratokat; addig a papíralapú dokumentumok tekintendők elsődlegesnek.
 
-## 1.[^69] A Magyar Honvédséget, a rendvédelmi szerveket irányító minisztériumok és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter
+## 1.[^70] A Magyar Honvédséget, a rendvédelmi szerveket irányító minisztériumok és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter
 
 ## az erőforrás igényeket (3. számú táblázat) igénykielégítési módonként, ágazati besorolás szerinti felelős teljesítő szervenként és a javasolt igénykielégítők székhelye szerinti megyei bontásban 3 példányban küldik meg az illetékes felelős teljesítő szervek részére. A felelős teljesítő szerv a visszaigazolt tervlap egy példányát a követelmény támasztó és egy példányát az NGM részére küldi meg. A Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) a költségvetési többletigényt az igénybejelentési táblázaton feltüntetett módon tervezik.
 
@@ -518,7 +518,7 @@
 
 ## A felelős teljesítő szervek a táblázat 14 jelű oszlopa (Szolgáltató) figyelembevételével kielégíthetőségi szempontból megvizsgálják az igényeket, elvégzik a szükséges egyeztetéseket, pontosításokat, előkészítik a vagyoni szolgáltatás teljesítésére szóló előszerződés megkötését, és az igényeket visszaigazolják a követelménytámasztó szervnek.
 
-## 2.[^70] Az ágazati minisztériumok
+## 2.[^71] Az ágazati minisztériumok
 
 ## a nemzetgazdaság minősített időszaki működőképessége fenntartását szolgáló ágazati tervező tevékenységük során:
 
@@ -550,7 +550,7 @@
 
 ## – végzik a nemzetgazdasági ágazatok minősített időszaki működéséhez
 
-## –[^71] alapvetően fontos igények kielégítését szolgáló nyersanyagok, alkatrészek, gyógyszerek, kötszerek, gyógyszeralapanyagok, élelmiszerek, gépek és berendezések stb. importból történő beszerzésének tárcaszintű tervezését (6. számú táblázat).
+## –[^72] alapvetően fontos igények kielégítését szolgáló nyersanyagok, alkatrészek, gyógyszerek, kötszerek, gyógyszeralapanyagok, élelmiszerek, gépek és berendezések stb. importból történő beszerzésének tárcaszintű tervezését (6. számú táblázat).
 
 ## Az import igények összeállításakor figyelembe veszik a tervévet megelőző külkereskedelmi statisztikai adatokat. A tervlapot 3 példányban készítik el és megküldik a GKM részére. A GKM az előzetesen visszaigazolt tervlap egy példányát a követelménytámasztó részére küldi meg. A GKM a tervlapokat kielégítő országonként csoportosítva további intézkedésig tárolja.
 
@@ -558,7 +558,7 @@
 
 ## = elkészítik az igénykielégítési tervjavaslatot (7. számú táblázat);
 
-## A 7. számú táblázat értelmezéséhez szükséges magyarázatok:[^72]
+## A 7. számú táblázat értelmezéséhez szükséges magyarázatok:[^73]
 
 ## V Veszélyhelyzet
 
@@ -594,7 +594,7 @@
 
 ## A védelmi bizottságok az ágazati minisztériumokhoz hasonlóan a tervezés során követelménytámasztói és felelős teljesítő minőségben is terveznek.
 
-## 3.1.[^73] A védelmi bizottságok követelménytámasztói minőségben tervezik:
+## 3.1.[^74] A védelmi bizottságok követelménytámasztói minőségben tervezik:
 
 ## – a lakosság ,,kiemelt'' és ,,kiegészítő'' fogyasztási cikkekre vonatkozó minősített időszaki (itt rendkívüli állapoti szervezett) ellátásának szükségletét;
 
@@ -650,19 +650,19 @@
 
 ## Az egyéb, eddig fel nem sorolt tervező szervek a módszertan táblázatait a tervezésben elfoglalt szerepük (követelménytámasztó, felelős teljesítő) alapján, valamint a felügyeletet ellátó tervező szerv útmutatásának megfelelően értelemszerűen alkalmazzák.
 
-## VIII.[^74] AZ IGÉNYEK VISSZAIGAZOLÁSA
+## VIII.[^75] AZ IGÉNYEK VISSZAIGAZOLÁSA
 
 ## A felelős teljesítő tervező szerv minden esetben azon tervlap egyik példányán igazolja vissza az igényeket, amelyik tervlapon a követelménytámasztó benyújtotta azt. A tételes visszaigazolás a követelménytámasztó tervlapjára való egyértelmű hivatkozással történhet az alábbiak figyelembevételével:
 
-## a)[^75] A Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) igényeinek kielégítése a nemzetgazdaság igényeivel szemben prioritást élveznek. A kielégítés mértéke azonban nem veszélyeztetheti az alapellátást szolgáló (egészségügyi ellátás, élelmiszer- és közszükségleti cikkek) lakossági igények kielégítését.
+## a)[^76] A Magyar Honvédség és a rendvédelmi szervek (ideértve a Nemzeti Adó- és Vámhivatal vámszerveit és nyomozóhatósági szerveit is) igényeinek kielégítése a nemzetgazdaság igényeivel szemben prioritást élveznek. A kielégítés mértéke azonban nem veszélyeztetheti az alapellátást szolgáló (egészségügyi ellátás, élelmiszer- és közszükségleti cikkek) lakossági igények kielégítését.
 
 ## b) A minősített időszaki rendkívüli állapoti ágazati kapcsolatok biztosítását szolgáló tárcaközi igények visszaigazolási mechanizmusába kell sorolni a területi tervező szervek által tervezett, a lakosság minősített időszaki (egészségügyi és szervezett) ellátását szolgáló igények tárcaszintű visszaigazolását is.
 
-## c)[^76] A minősített időszaki (rendkívüli állapoti) nemzetközi együttműködést szolgáló igényeket a GKM, a tervévet megelőző évi külkereskedelmi statisztikai adatok – mint bázisadatok – figyelembevételével előzetesen visszaigazolja, és a megjegyzés rovatban feltünteti a szállító ország megnevezését. Az ágazati tervező szervek az előzetesen visszaigazolt import igényeket az igénykielégítési tervjavaslat összeállításakor ténylegesen visszaigazoltnak tekintik.
+## c)[^77] A minősített időszaki (rendkívüli állapoti) nemzetközi együttműködést szolgáló igényeket a GKM, a tervévet megelőző évi külkereskedelmi statisztikai adatok – mint bázisadatok – figyelembevételével előzetesen visszaigazolja, és a megjegyzés rovatban feltünteti a szállító ország megnevezését. Az ágazati tervező szervek az előzetesen visszaigazolt import igényeket az igénykielégítési tervjavaslat összeállításakor ténylegesen visszaigazoltnak tekintik.
 
 ## d) Az import igények tényleges visszaigazolására és az illetékes szállító ország részére történő kiküldésre csak a Kormány vagy a Honvédelmi Tanács külön rendelkezése alapján kerülhet sor.
 
-## e)[^77] A követelménytámasztók igényeinek tételes visszaigazolása – az import igények kivételével – a tervlapra való egyértelmű hivatkozással történik az alábbi módon:
+## e)[^78] A követelménytámasztók igényeinek tételes visszaigazolása – az import igények kivételével – a tervlapra való egyértelmű hivatkozással történik az alábbi módon:
 
 ## = ,,a benyújtott igényeket teljes mértékben visszaigazolom'';
 
@@ -684,7 +684,7 @@
 
 ## Az ágazati minisztériumok és a védelmi bizottságok jelen módszertannal összhangban szabályozzák a gazdaságfelkészítési tervezésre általuk kijelölt szolgáltatók tervezési feladatait.
 
-## Tervezési táblázatok, segédletek[^78]
+## Tervezési táblázatok, segédletek[^79]
 
 | Sorszáma | Jele | Címe |
 
@@ -720,7 +720,7 @@
 
 | Függelék | Rövidítések magyarázata |
 
-## 1. számú táblázat[^79]
+## 1. számú táblázat[^80]
 
 ## A tervező szervek munkamegosztása
 
@@ -754,7 +754,7 @@
 
 | költségvetési előirányzatok, pénzeszközök | PM, MNB |
 
-| A minősített időszaki feladatok végrehajtásáért felelős Magyar Honvédség és a rendvédelmi szervek működéséhez szükséges többlet anyagi javak és szolgáltatások biztosítása | MH (HM), Rendőrség (IRM), OKF (ÖTM), közigazgatási hivatalok (ÖTM), BV (IRM), NAV, Polgári nemzetbiztonsági szolgálatok (MeH), bíróságok (OIT) | rögzített hadiipari kapacitások fenntartása | GKM | ágazati |
+| A minősített időszaki feladatok végrehajtásáért felelős Magyar Honvédség és a rendvédelmi szervek működéséhez szükséges többlet anyagi javak és szolgáltatások biztosítása | MH (HM), Rendőrség (IRM), OKF (ÖTM), közigazgatási hivatalok (ÖTM), BV (IRM), NAV, Polgári nemzetbiztonsági szolgálatok (MeH), bíróságok (OBH elnöke) | rögzített hadiipari kapacitások fenntartása | GKM | ágazati |
 
 | élelmezési anyagok, élelmiszerek | FVM |
 
@@ -790,7 +790,7 @@
 
 | stratégiai export biztosítása |
 
-## 2. számú táblázat[^80]
+## 2. számú táblázat[^81]
 
 ## Tervezési munkaprogram
 
@@ -824,7 +824,7 @@
 
 | 14. | A Kormány által elfogadott tervek visszaigazolása | GKM, PM | illetékes tervező szervek | III. 31. |
 
-## 3. számú táblázat[^81]
+## 3. számú táblázat[^82]
 
 ## IGÉNYBEJELENTÉS, -MÓDOSÍTÁS
 
@@ -1430,7 +1430,7 @@
 
 ## Kapja: GKM.
 
-## Függelék[^82]
+## Függelék[^83]
 
 ## Rövidítések magyarázata
 
@@ -1446,7 +1446,7 @@
 
 | ESZCSM | Egészségügyi, Szociális és Családügyi Minisztérium | NKÖM | Nemzeti Kulturális Örökség Minisztérium |
 
-| FMM | Foglalkoztatáspolitikai és Munkaügyi Minisztérium | OITH | Országos Igazságszolgáltatási Tanács Hivatala |
+| FMM | Foglalkoztatáspolitikai és Munkaügyi Minisztérium | OBH | Országos Bírósági Hivatal |
 
 | FVM | Földművelésügyi és Vidékfejlesztési Minisztérium | OKF | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -1468,42 +1468,42 @@
 
 | KüM | Külügyminisztérium |  |  |
 
-2. számú melléklet a 131/2003. (VIII. 22.) Korm. rendelethez[^83]
+2. számú melléklet a 131/2003. (VIII. 22.) Korm. rendelethez[^84]
 
-[^47]: Az 1. számú melléklet I. fejezetének 1. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja és a 2. § (3) bekezdése, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^48]: Az 1. számú melléklet I. Fejezet 1. pont hetedik franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdésével megállapított szöveg.
-[^49]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) I. (ÁLTALÁNOS TERVEZÉSI ALAPELVEK) 2. „Felelős teljesítő szervek” pontja a 335/2004. (XII. 15.) Korm. rendelet 12. § (1) bekezdés c) pontjának ca) alpontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja szerint módosított szöveg.
-[^50]: Az 1. számú melléklet (A védelemgazdasági alapterv elkészítésének módszertani szabályai) I. (ÁLTALÁNOS TERVEZÉSI ALAPELVEK) 2. „Felelős teljesítő szervek” pontjának ötödik francia bekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (1) bekezdése szerint módosított szöveg.
-[^51]: Az 1. számú melléklet I. Fejezet 2. pont tizedik franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdésével megállapított szöveg.
-[^52]: Az 1. számú melléklet II. fejezetének 2. pontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 17. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja szerint módosított szöveg.
-[^53]: Az 1. számú melléklet II. alcím 3. pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (4) bekezdésével megállapított szöveg.
-[^54]: Az 1. számú melléklet (A védelemgazdasági alapterv elkészítésének módszertani szabályai) II. (A TERVEZŐ SZERVEK TERVEZÉSI FELADATAI) 5. pontja a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (2) bekezdése szerint módosított szöveg.
-[^55]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) II. (A TERVEZŐ SZERVEK TERVEZÉSI FELADATAI) 6. pontját a 335/2004. (XII. 15.) Korm. rendelet 12. § (1) bekezdés c) pontjának cb) alpontja hatályon kívül helyezte.
-[^56]: Az 1. számú melléklet II. fejezetének 8. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
-[^57]: Az 1. számú melléklet II. Fejezet 8. pont második franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (5) bekezdése szerint módosított szöveg.
-[^58]: Az 1. számú melléklet II. fejezete 10. pontjának a) alpontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja és 3. § 17. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (6) bekezdése szerint módosított szöveg.
-[^59]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) II. (A TERVEZŐ SZERVEK TERVEZÉSI FELADATAI) 10/b) pontja a 335/2004. (XII. 15.) Korm. rendelet 12. § (1) bekezdés c) pontjának cc) alpontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (6) bekezdése szerint módosított szöveg.
-[^60]: Az 1. számú melléklet III. fejezet 1. pontjának 1.1. alpontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (7) bekezdésével megállapított szöveg.
-[^61]: Az 1. számú melléklet III. fejezete 2. pontjának 2.1. alpontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 17. pontja szerint módosított szöveg.
-[^62]: A befogadó nemzeti támogatás egyes kérdéseiről szóló 176/2003. (X. 28.) Korm. rendelet.
-[^63]: A polgári védelemről szóló 1996. évi XXXVII. törvény, a polgári védelmi tervezés rendszeréről és követelményeiről szóló 20/1998. (IV. 10.) BM rendelet, az egészségügyi intézmények katasztrófa tervének tartalmi követelményeiről szóló 29/2000. (X. 30.) EüM rendelet.
-[^64]: Először e módszertan szerint 2004-re.
-[^65]: Az első ciklusban a 2005–2007. években.
-[^66]: TEÁOR '03. Közzétette: 9003/2002. (SK 6.) KSH közlemény.
-[^67]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) V. (A TERVEZÉS FOLYAMATA) pontja ötödik bekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (3) bekezdésével megállapított, negyedik bekezdése e módosító rendelet 12. § (1) bekezdés c) pontjának cd) alpontja szerint módosított szöveg. Az 1. számú melléklet V. fejezete a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
-[^68]: Az V. Fejezet első franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (8) bekezdésével megállapított szöveg.
-[^69]: Az 1. számú melléklet VII. Fejezet 1. pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (9) bekezdése szerint módosított szöveg.
-[^70]: Az 1. számú melléklet VII. fejezetének 2. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
-[^71]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) VII. (A TERVEZÉSI SEGÉDLETEK KITÖLTÉSE) 2. pontja (Az ágazati minisztériumok) negyedik francia bekezdésének második szövegbekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (4) bekezdésével megállapított szöveg.
-[^72]: A 7. számú táblázat értelmezéséhez szükséges magyarázatok című táblázat alatti szövegrész a 273/2010. (XII. 9.) Korm. rendelet 99. § (10) bekezdése szerint módosított szöveg.
-[^73]: Az 1. számú melléklet VII. fejezete 3. pontjának 3.1. alpontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja szerint módosított szöveg.
-[^74]: Az 1. számú melléklet VIII. fejezete a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
-[^75]: Az 1. számú melléklet VIII. fejezetének a) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
-[^76]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) VIII. (AZ IGÉNYEK VISSZAIGAZOLÁSA) c) pontja a 335/2004. (XII. 15.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg.
-[^77]: Az 1. számú melléklet VIII. Fejezet e) pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
-[^78]: Az 1. számú melléklet VIII. fejezetének „Tervezési táblázatok, segédletek” című táblázata a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
-[^79]: Az 1. számú melléklet VIII. fejezetének 1. számú táblázata a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja és 3. § 17. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
-[^80]: Az 1. számú melléklet VIII. fejezetének 2. számú táblázata a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
-[^81]: Az 1. számú melléklet VIII. fejezetének 3. számú táblázata a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
-[^82]: Az 1. számú melléklet VIII. fejezetének Függeléke a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 273/2010. (XII. 9.) 99. § (11) bekezdése szerint módosított szöveg.
-[^83]: A 2. számú mellékletet a 201/2003. (XII. 10.) Korm. rendelet 2. számú melléklete iktatta a szövegbe.
+[^48]: Az 1. számú melléklet I. fejezetének 1. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja és a 2. § (3) bekezdése, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (2) bekezdés 5. pontja, a 314/2011. (XII. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^49]: Az 1. számú melléklet I. Fejezet 1. pont hetedik franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdésével megállapított szöveg.
+[^50]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) I. (ÁLTALÁNOS TERVEZÉSI ALAPELVEK) 2. „Felelős teljesítő szervek” pontja a 335/2004. (XII. 15.) Korm. rendelet 12. § (1) bekezdés c) pontjának ca) alpontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja szerint módosított szöveg.
+[^51]: Az 1. számú melléklet (A védelemgazdasági alapterv elkészítésének módszertani szabályai) I. (ÁLTALÁNOS TERVEZÉSI ALAPELVEK) 2. „Felelős teljesítő szervek” pontjának ötödik francia bekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (1) bekezdése szerint módosított szöveg.
+[^52]: Az 1. számú melléklet I. Fejezet 2. pont tizedik franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdésével megállapított szöveg.
+[^53]: Az 1. számú melléklet II. fejezetének 2. pontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 17. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja szerint módosított szöveg.
+[^54]: Az 1. számú melléklet II. alcím 3. pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (4) bekezdésével megállapított szöveg.
+[^55]: Az 1. számú melléklet (A védelemgazdasági alapterv elkészítésének módszertani szabályai) II. (A TERVEZŐ SZERVEK TERVEZÉSI FELADATAI) 5. pontja a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (2) bekezdése szerint módosított szöveg.
+[^56]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) II. (A TERVEZŐ SZERVEK TERVEZÉSI FELADATAI) 6. pontját a 335/2004. (XII. 15.) Korm. rendelet 12. § (1) bekezdés c) pontjának cb) alpontja hatályon kívül helyezte.
+[^57]: Az 1. számú melléklet II. fejezetének 8. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
+[^58]: Az 1. számú melléklet II. Fejezet 8. pont második franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (5) bekezdése szerint módosított szöveg.
+[^59]: Az 1. számú melléklet II. fejezete 10. pontjának a) alpontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja és 3. § 17. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (6) bekezdése szerint módosított szöveg.
+[^60]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) II. (A TERVEZŐ SZERVEK TERVEZÉSI FELADATAI) 10/b) pontja a 335/2004. (XII. 15.) Korm. rendelet 12. § (1) bekezdés c) pontjának cc) alpontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (6) bekezdése, a 314/2011. (XII. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^61]: Az 1. számú melléklet III. fejezet 1. pontjának 1.1. alpontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (7) bekezdésével megállapított szöveg.
+[^62]: Az 1. számú melléklet III. fejezete 2. pontjának 2.1. alpontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 17. pontja szerint módosított szöveg.
+[^63]: A befogadó nemzeti támogatás egyes kérdéseiről szóló 176/2003. (X. 28.) Korm. rendelet.
+[^64]: A polgári védelemről szóló 1996. évi XXXVII. törvény, a polgári védelmi tervezés rendszeréről és követelményeiről szóló 20/1998. (IV. 10.) BM rendelet, az egészségügyi intézmények katasztrófa tervének tartalmi követelményeiről szóló 29/2000. (X. 30.) EüM rendelet.
+[^65]: Először e módszertan szerint 2004-re.
+[^66]: Az első ciklusban a 2005–2007. években.
+[^67]: TEÁOR '03. Közzétette: 9003/2002. (SK 6.) KSH közlemény.
+[^68]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) V. (A TERVEZÉS FOLYAMATA) pontja ötödik bekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (3) bekezdésével megállapított, negyedik bekezdése e módosító rendelet 12. § (1) bekezdés c) pontjának cd) alpontja szerint módosított szöveg. Az 1. számú melléklet V. fejezete a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
+[^69]: Az V. Fejezet első franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (8) bekezdésével megállapított szöveg.
+[^70]: Az 1. számú melléklet VII. Fejezet 1. pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (9) bekezdése szerint módosított szöveg.
+[^71]: Az 1. számú melléklet VII. fejezetének 2. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
+[^72]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) VII. (A TERVEZÉSI SEGÉDLETEK KITÖLTÉSE) 2. pontja (Az ágazati minisztériumok) negyedik francia bekezdésének második szövegbekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (4) bekezdésével megállapított szöveg.
+[^73]: A 7. számú táblázat értelmezéséhez szükséges magyarázatok című táblázat alatti szövegrész a 273/2010. (XII. 9.) Korm. rendelet 99. § (10) bekezdése szerint módosított szöveg.
+[^74]: Az 1. számú melléklet VII. fejezete 3. pontjának 3.1. alpontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja szerint módosított szöveg.
+[^75]: Az 1. számú melléklet VIII. fejezete a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja szerint módosított szöveg.
+[^76]: Az 1. számú melléklet VIII. fejezetének a) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
+[^77]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) VIII. (AZ IGÉNYEK VISSZAIGAZOLÁSA) c) pontja a 335/2004. (XII. 15.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg.
+[^78]: Az 1. számú melléklet VIII. Fejezet e) pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
+[^79]: Az 1. számú melléklet VIII. fejezetének „Tervezési táblázatok, segédletek” című táblázata a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
+[^80]: Az 1. számú melléklet VIII. fejezetének 1. számú táblázata a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja és 3. § 17. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése, a 314/2011. (XII. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^81]: Az 1. számú melléklet VIII. fejezetének 2. számú táblázata a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
+[^82]: Az 1. számú melléklet VIII. fejezetének 3. számú táblázata a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 273/2010. (XII. 9.) Korm. rendelet 99. § (11) bekezdése szerint módosított szöveg.
+[^83]: Az 1. számú melléklet VIII. fejezetének Függeléke a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 273/2010. (XII. 9.) 99. § (11) bekezdése, a 314/2011. (XII. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^84]: A 2. számú mellékletet a 201/2003. (XII. 10.) Korm. rendelet 2. számú melléklete iktatta a szövegbe.

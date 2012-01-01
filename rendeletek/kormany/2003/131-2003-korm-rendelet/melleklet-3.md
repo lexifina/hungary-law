@@ -86,7 +86,7 @@
 
 ## C) ADATSZOLGÁLTATÓK ELÉRHETŐSÉGI ADATAI
 
-3. számú melléklet a 131/2003. (VIII. 22.) Korm. rendelethez[^84]
+3. számú melléklet a 131/2003. (VIII. 22.) Korm. rendelethez[^85]
 
 ## A BNT erőforrásokra vonatkozó adatgyűjtés adatkörei
 
@@ -118,4 +118,4 @@
 
 14. Adatszolgáltatók elérhetőségi adatai.
 
-[^84]: A 3. számú mellékletet a 201/2003. (XII. 10.) Korm. rendelet 3. számú melléklete iktatta a szövegbe.
+[^85]: A 3. számú mellékletet a 201/2003. (XII. 10.) Korm. rendelet 3. számú melléklete iktatta a szövegbe.
