@@ -1,1 +1,0 @@
-31. § Aki adatszolgáltatási, bejelentési, megjelenési vagy szolgálatadási kötelezettségét elmulasztja, a polgári védelmi kötelezettségek elmulasztására vonatkozó szabályok szerinti felelősséggel tartozik.
