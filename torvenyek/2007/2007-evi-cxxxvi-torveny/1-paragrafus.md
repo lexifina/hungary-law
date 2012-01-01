@@ -1,6 +1,6 @@
 ## A törvény hatálya
 
-1. § (1) E törvény hatálya – a (3)–(5) bekezdésben foglalt kivételekkel – kiterjed arra, aki a Magyar Köztársaság területén
+1. § (1) E törvény hatálya – a (3)–(5) bekezdésben foglalt kivételekkel – kiterjed arra, aki Magyarország területén
 
 a) pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási tevékenységet folytat;
 

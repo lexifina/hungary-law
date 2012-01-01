@@ -22,4 +22,4 @@ b) megtiltja a szolgáltatónak a jogsértő állapot fennállása alatt a pénz
 
 (9) A Rendelet 4. cikkének (2) bekezdésében meghatározott „nemzeti azonosító szám” alatt a 7. § (2) bekezdése a) pontjának ad) alpontjában és a b) pontjának bc) alpontjában meghatározottak értendők.
 
-(10) A szolgáltató nem köteles alkalmazni a Rendelet előírásait az olyan, Magyar Köztársaságon belüli pénzátutalásokra, amelyek megfelelnek a Rendelet 3. cikk (6) bekezdésében meghatározott feltételeknek.
+(10) A szolgáltató nem köteles alkalmazni a Rendelet előírásait az olyan, Magyarországon belüli pénzátutalásokra, amelyek megfelelnek a Rendelet 3. cikk (6) bekezdésében meghatározott feltételeknek.

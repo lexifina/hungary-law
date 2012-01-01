@@ -16,15 +16,7 @@ e) az a)–d) pontokban felsorolt intézkedések mellett vagy önállóan az 1. 
 
 (2)
 
-(3) Az 5. § c), f) és g) pontjaiban meghatározott felügyeletet ellátó szerv által kiszabott bírságokból származó bevétel kizárólag a következő célokra fordítható:
-
-a) szakemberek képzése;
-
-b) az 5. § c), f) és g) pontjaiban meghatározott felügyeleti tevékenységgel kapcsolatos tanulmányok készítésének és közzétételének támogatása;
-
-c) a szolgáltató ügyfeleinek tájékoztatása;
-
-d) a pénzügyi információs egységként működő hatóság munkatársainak – az e törvénnyel kapcsolatos speciális ismeretekre vonatkozó – továbbképzése.
+(3)
 
 (4) A szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet és a szolgáltató vezetője a szolgáltató javára sérti meg e törvény rendelkezéseit.
 

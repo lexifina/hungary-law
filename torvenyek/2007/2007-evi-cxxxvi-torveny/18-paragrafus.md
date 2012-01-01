@@ -1,6 +1,6 @@
 ## Más szolgáltató által elvégzett ügyfél-átvilágítási intézkedések
 
-18. § (1) A szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást – a készpénzátutalás és pénzváltási tevékenységet folytató szolgáltató kivételével – az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet a Magyar Köztársaság területén folytató szolgáltató végezte el.
+18. § (1) A szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást – a készpénzátutalás és pénzváltási tevékenységet folytató szolgáltató kivételével – az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet Magyarország területén folytató szolgáltató végezte el.
 
 (2) A szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást – a készpénzátutalás és pénzváltási tevékenységet folytató szolgáltató kivételével – az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet
 
@@ -8,7 +8,7 @@ a) az Európai Unió más tagállamában folytató szolgáltató végezte el, va
 
 b) olyan harmadik országban folytató szolgáltató végezte el, amely megfelel a (6) bekezdésben és a 19. §-ban meghatározott követelményeknek.
 
-(3) Az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet folytató szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet a Magyar Köztársaság területén folytató szolgáltató végezte el.
+(3) Az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet folytató szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet Magyarország területén folytató szolgáltató végezte el.
 
 (4) Az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet folytató szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet
 

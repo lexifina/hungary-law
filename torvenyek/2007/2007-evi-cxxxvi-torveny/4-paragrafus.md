@@ -6,7 +6,7 @@ a) az államfő, a kormányfő, a miniszter, az államtitkár,
 
 b) az országgyűlési képviselő,
 
-c) a legfelsőbb bíróság, alkotmánybíróság és olyan bírói testület tagja, melynek ítélete ellen fellebbezésnek helye nincs,
+c) a Kúria, alkotmánybíróság és olyan bírói testület tagja, melynek ítélete ellen fellebbezésnek helye nincs,
 
 d) a számvevőszék elnöke, a számvevőszék testületének tagja, a központi bank igazgatóságának tagja,
 
