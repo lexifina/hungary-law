@@ -20,7 +20,7 @@ b) a megbízott tanúsító szervezet végrehajtja az 5. pontban leírtakat.
 
 a) a gyártó a biztonsági rendszerelem tervezésére, gyártására, végellenőrzésére és vizsgálatára vonatkozóan a 6. pontnak megfelelően tanúsított és a 7. pontnak megfelelően felügyelt minőségbiztosítási rendszert működtet;
 
-b)[^18] a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője minden egyes biztonsági rendszerelemet ellát a CE megfelelőségi jellel és írásos megfelelőségi nyilatkozatot készít hozzájuk, továbbá a CE jelhez csatolja a 7. pont szerinti felügyeletért felelős tanúsító szervezet azonosító jelét.
+b)[^19] a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője minden egyes biztonsági rendszerelemet ellát a CE megfelelőségi jellel és írásos megfelelőségi nyilatkozatot készít hozzájuk, továbbá a CE jelhez csatolja a 7. pont szerinti felügyeletért felelős tanúsító szervezet azonosító jelét.
 
 5. E modul választása esetén a gyártó által megbízott tanúsító szervezet a gyártó kérelmére és költségére a gyártó által fenntartott és az adott biztonsági rendszerelem tervezésére, gyártására, végellenőrzésére és vizsgálatára vonatkozó minőségbiztosítási rendszert (a továbbiakban: átfogó minőségbiztosítási rendszer)
 
@@ -76,7 +76,7 @@ b) a döntés indoklása.
 
 c) elutasító döntés esetén a megismételt eljárásra vagy jogorvoslatra vonatkozó tudnivalókat.
 
-6.7.[^19] A gyártó köteles vállalni a tanúsított minőségbiztosítási rendszerből eredő kötelezettségek teljesítését, és gondoskodni a rendszer hatékony működéséről.
+6.7.[^20] A gyártó köteles vállalni a tanúsított minőségbiztosítási rendszerből eredő kötelezettségek teljesítését, és gondoskodni a rendszer hatékony működéséről.
 
 A gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője folyamatosan köteles tájékoztatni az átfogó minőségbiztosítási rendszere minden tervezett módosításáról.
 
@@ -174,5 +174,5 @@ b) a visszavont műszaki terv tanúsítványok és kiegészítéseik;
 
 c) az elutasított műszaki terv tanúsítványok és kiegészítéseik.
 
-[^18]: A 8. számú melléklet 4. pontjának b) alpontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (7) bekezdésével megállapított szöveg.
-[^19]: A 8. számú melléklet 6. pont 6.7. alpontjának második mondata a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (8) bekezdésével megállapított szöveg.
+[^19]: A 8. számú melléklet 4. pontjának b) alpontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (7) bekezdésével megállapított szöveg.
+[^20]: A 8. számú melléklet 6. pont 6.7. alpontjának második mondata a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (8) bekezdésével megállapított szöveg.

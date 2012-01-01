@@ -74,7 +74,7 @@ b) a döntés indokolását;
 
 c) elutasító döntés esetén a megismételt eljárásra vagy jogorvoslatra vonatkozó tudnivalókat.
 
-5.7.[^13] A gyártó köteles vállalni a tanúsított minőségbiztosítási rendszerből eredő kötelezettségek teljesítését, és gondoskodni a rendszer hatékony működéséről.
+5.7.[^14] A gyártó köteles vállalni a tanúsított minőségbiztosítási rendszerből eredő kötelezettségek teljesítését, és gondoskodni a rendszer hatékony működéséről.
 
 A gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője folyamatosan köteles tájékoztatni a gyártási minőségbiztosítási rendszere minden tervezett módosításáról.
 
@@ -118,4 +118,4 @@ b) a visszavont gyártási minőségbiztosítási rendszer tanúsítványok;
 
 c) az elutasított gyártási minőségbiztosítási rendszer tanúsítványok.
 
-[^13]: Az 5. számú melléklet 5. pont 5.7. alpontjának második mondata a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (3) bekezdésével megállapított szöveg.
+[^14]: Az 5. számú melléklet 5. pont 5.7. alpontjának második mondata a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (3) bekezdésével megállapított szöveg.

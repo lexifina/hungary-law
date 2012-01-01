@@ -18,11 +18,11 @@ b) és megfelelnek e rendelet rájuk vonatkozó követelményeinek.
 
 4. Az e modul szerinti esetben és eljárás esetén
 
-a)[^14] a gyártó, illetve az Európai Közösségben letelepedett meghatalmazott képviselője teljesíti az 5. pontban leírt követelményeket;
+a)[^15] a gyártó, illetve az Európai Közösségben letelepedett meghatalmazott képviselője teljesíti az 5. pontban leírt követelményeket;
 
 b) a megbízott tanúsító szervezet végrehajtja a 7. pontban leírtakat.
 
-5.[^15] E modul választása esetén a gyártó, illetve az Európai Közöségben letelepedett meghatalmazott képviselőjének kötelezettségei a következők:
+5.[^16] E modul választása esetén a gyártó, illetve az Európai Közöségben letelepedett meghatalmazott képviselőjének kötelezettségei a következők:
 
 a) a gyártó megteszi a szükséges intézkedéseket ahhoz, hogy a gyártási folyamat biztosítsa a legyártott biztonsági rendszerelemek megegyezését a típus-megfelelőségi tanúsítványban szereplő típussal, és hogy a legyártott biztonsági rendszerelemek megfeleljenek e rendelet rájuk vonatkozó követelményeinek;
 
@@ -32,7 +32,7 @@ c) a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képvi
 
 d) a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője kérésre rendelkezésre bocsátja a tanúsító szerv által kiadott termék-megfelelőségi tanúsítványokat.
 
-6.[^16] Amennyiben a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője (a továbbiakban együtt: kérelmező) ezt a modult választja, a tanúsítást a kérelmezőnek az erre kijelölt tanúsító szervezettől kell kérnie.
+6.[^17] Amennyiben a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője (a továbbiakban együtt: kérelmező) ezt a modult választja, a tanúsítást a kérelmezőnek az erre kijelölt tanúsító szervezettől kell kérnie.
 
 7. A kérelmező által megbízott tanúsító szervezet a kérelmező kérésére és költségére
 
@@ -74,6 +74,6 @@ A mintában szereplő biztonsági rendszerelemek ellenőrzését a megbízott ta
 
 10.6. Amennyiben a tételek gyakran kerülnek visszautasításra, akkor a megbízott tanúsító szervezet felfüggesztheti a statisztikai eljárást. Ebben az esetben a 9. pont szerinti eljárásra kell áttérni.
 
-[^14]: A 6. számú melléklet 4. pontjának a) alpontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (4) bekezdésével megállapított szöveg.
-[^15]: A 6. számú melléklet 5. pontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (5) bekezdésével megállapított szöveg.
-[^16]: A 6. számú melléklet 6. pontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (5) bekezdésével megállapított szöveg.
+[^15]: A 6. számú melléklet 4. pontjának a) alpontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (4) bekezdésével megállapított szöveg.
+[^16]: A 6. számú melléklet 5. pontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (5) bekezdésével megállapított szöveg.
+[^17]: A 6. számú melléklet 6. pontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (5) bekezdésével megállapított szöveg.

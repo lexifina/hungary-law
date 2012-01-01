@@ -138,9 +138,9 @@ TARTALOMJEGYZÉK
 
 13. Fogalommeghatározások
 
-1. Általános rendelkezések
+1. Általános rendelkezések[^22]
 
-Az Országos Vasúti Szabályzat III. kötete (a továbbiakban: OVSZ III.) a Magyar Köztársaság területén levő sí- és szánfelvonókra, siklókra, és függőpályákra – az utóbbiakon belül elsősorban a kötélpályákra – mint kötélvontatású személyszállító vasutakra vonatkozó követelményeket rögzíti, függetlenül attól, hogy azok közforgalmúak vagy saját használatúak.
+Az Országos Vasúti Szabályzat III. kötete (a továbbiakban: OVSZ III.) Magyarország területén levő sí- és szánfelvonókra, siklókra, és függőpályákra – az utóbbiakon belül elsősorban a kötélpályákra – mint kötélvontatású személyszállító vasutakra vonatkozó követelményeket rögzíti, függetlenül attól, hogy azok közforgalmúak vagy saját használatúak.
 
 1.1. Az OVSZ III. tartalma és alapvető követelményei
 
@@ -174,7 +174,7 @@ A tervdokumentáció alaki és tartalmi követelményeit rendeletben, annak hiá
 
 A kötélvontatású vasúti építményeket, eszközöket és járműveket az OVSZ III., az európai előírások és a vonatkozó szabványok, szakterületi előírások (szabályzatok, utasítások stb.), hatósági tájékoztatók, különleges esetekben egyedi, a hatóság által előírt feltételek szerint kell megtervezni. A tervezés során a kötélvontatású vasúti építmények műszaki, üzemeltetési követelményeit, valamint a helyi település- és közlekedésfejlesztési elképzeléseket kölcsönösen figyelembe kell venni. Ezektől eltérő esetekben igazolni kell, hogy a javasolt megoldás alkalmazásával a biztonság nem csökken. Törekedni kell a mozgássérültek közlekedését elősegítő megoldások alkalmazására.
 
-Az OVSZ III. hatálya alá tartozó kötélvontatású vasutakon még nem létesített vagy nem alkalmazott berendezés, szerkezet, illetve annak biztonságtechnikai feladatot ellátó készüléke, részegysége, szerkezeti eleme jellemzőit a tervezés előtt feltétfüzetben kell összefoglalni, függetlenül attól, hogy az belföldi vagy külföldi eredetű. Az alkalmazás előtt a feltétfüzetet, valamint a feltételeket megvalósító szerkezeti kialakítást a kötélvontatású vasút létesítését engedélyező hatóság – megfelelőségi tanúsítás alapján[^21] – felülvizsgálja és engedélyezi.
+Az OVSZ III. hatálya alá tartozó kötélvontatású vasutakon még nem létesített vagy nem alkalmazott berendezés, szerkezet, illetve annak biztonságtechnikai feladatot ellátó készüléke, részegysége, szerkezeti eleme jellemzőit a tervezés előtt feltétfüzetben kell összefoglalni, függetlenül attól, hogy az belföldi vagy külföldi eredetű. Az alkalmazás előtt a feltétfüzetet, valamint a feltételeket megvalósító szerkezeti kialakítást a kötélvontatású vasút létesítését engedélyező hatóság – megfelelőségi tanúsítás alapján[^23] – felülvizsgálja és engedélyezi.
 
 Külföldi eredetű berendezések, szerkezetek, készülékek, részegységek, szerkezeti elemek hazai alkalmazását az OVSZ III. előírásainak figyelembevételével a kötélvontatású vasút létesítését engedélyező hatóság a külföldi megfelelőségi igazolás alapján készített, független hazai szakértő (tanúsító) által kiállított megfelelőségi tanúsítvány alapján engedélyezi.
 
@@ -200,7 +200,7 @@ Hatósági használatbavételi – járművekre üzembe helyezési – engedély
 
 Hatósági használatbavételi eljárást – járművek esetében üzembe helyezést – a használati, üzemi-műszaki alkalmasság és biztonság elbírálása szempontjából szükséges bizonylatok vizsgálata és próbák alapján kell lebonyolítani, figyelembe véve a létesítési engedélyben foglalt előírások, feltételek teljesítését.
 
-A megfelelőség és biztonság elbírálása a felhasznált anyag (alrendszer, berendezés és részegység) megfelelőségi tanúsítása alapján történhet. A megfelelőséget vizsgáló, ellenőrző és tanúsító szervezetek kijelölése az ágazati irányításért felelős miniszter feladat- és hatásköre[^22].
+A megfelelőség és biztonság elbírálása a felhasznált anyag (alrendszer, berendezés és részegység) megfelelőségi tanúsítása alapján történhet. A megfelelőséget vizsgáló, ellenőrző és tanúsító szervezetek kijelölése az ágazati irányításért felelős miniszter feladat- és hatásköre[^24].
 
 Az engedélyes a kötélvontatású vasút létesítményeit csak hatósági használatbavételi engedély alapján helyezheti forgalomba. A használatbavételi engedély kiadását megelőzően csak a létesítési engedélyben előírt próbaüzemelés végezhető (lásd a 11.1. pontot).
 
@@ -254,9 +254,9 @@ A felügyeleti rendszer vizsgálati időszakainak meghatározásánál a kötél
 
 1.9.2. Az OVSZ III. hatálya alá tartozó építményeket, berendezéseket és járműveket úgy kell kialakítani és üzemeltetni, hogy azok a biztonság követelményeit mindenkor kielégítsék. Ezen követelmények akkor tekinthetők teljesítettnek, ha a vasúti építmények, berendezések, járművek, és az üzemmód a jelen szabályzat előírásainak vagy – ha ilyen előírás a szabályzatban nincs – a technika elismert szabályainak megfelelnek.
 
-1.9.3. A technika elismert szabályait tartalmazzák az érvényes szabványok és előírások, továbbá a hatósági jóváhagyással bíró előírások[^23] és feltétfüzetek. Ezeket kell alkalmazni a mindenkori előírásoknak és módosításoknak megfelelően.
+1.9.3. A technika elismert szabályait tartalmazzák az érvényes szabványok és előírások, továbbá a hatósági jóváhagyással bíró előírások[^25] és feltétfüzetek. Ezeket kell alkalmazni a mindenkori előírásoknak és módosításoknak megfelelően.
 
-1.9.4. Az OVSZ III. előírásaitól és az előzőekben meghatározott előírásoktól eltérni – a vasúti hatóság eseti engedélye alapján – csak akkor lehet, ha az a biztonságot nem érinti, vagy a biztonsági követelmények más módon kielégíthetők. Ezt biztonsági elemzéssel kell igazolni.[^24]
+1.9.4. Az OVSZ III. előírásaitól és az előzőekben meghatározott előírásoktól eltérni – a vasúti hatóság eseti engedélye alapján – csak akkor lehet, ha az a biztonságot nem érinti, vagy a biztonsági követelmények más módon kielégíthetők. Ezt biztonsági elemzéssel kell igazolni.[^26]
 
 1.9.5. A meglévő kötélvontatású vasúti építmények és járművek továbbra is a korábbi hatósági engedélyekben foglalt feltételek szerint üzemeltethetők, de átépítésük vagy átalakításuk esetén már az OVSZ III. előírásait be kell tartani.
 
@@ -2890,7 +2890,8 @@ Vészleállítás után az újraindulás csak a hiba teljes körű felszámolás
 
 55. Védőhíd vagy védőháló: a kötélvontatású vasutat keresztező, azt megközelítő, rendkívüli biztonságot igénylő létesítmény védelmére vagy a kötélmunkák független végzésére szolgáló hídszerkezet, illetve tartókötelekből és azokra szerelt hullámos fonatból kialakított hálószerkezet.
 
-[^21]: A 182/1997. (X. 17.) Korm. rendelet, a 39/1997. (XII. 19.) KTM–IKIM együttes rendelet, továbbá a 26/2003. (IV. 28.) GKM rendelete szerinti eljárással.
-[^22]: 182/1997. (X. 17.) Korm. rendelet 11. §-ában kapott felhatalmazás szerint.
-[^23]: Jelenleg a 39/1997. (XII. 19.) KTM–IKIM együttes rendelet szerinti Építőipari Műszaki Engedély (ÉME), és/vagy az Európai Műszaki Engedély (ETA).
-[^24]: A 26/2003. (IV. 28.) GKM rendelet 15. § szerint.
+[^22]: A 10. számú melléklet 1. pontja a 91/2011. (XII. 30.) NFM rendelet 33. §-a szerint módosított szöveg.
+[^23]: A 182/1997. (X. 17.) Korm. rendelet, a 39/1997. (XII. 19.) KTM–IKIM együttes rendelet, továbbá a 26/2003. (IV. 28.) GKM rendelete szerinti eljárással.
+[^24]: 182/1997. (X. 17.) Korm. rendelet 11. §-ában kapott felhatalmazás szerint.
+[^25]: Jelenleg a 39/1997. (XII. 19.) KTM–IKIM együttes rendelet szerinti Építőipari Műszaki Engedély (ÉME), és/vagy az Európai Műszaki Engedély (ETA).
+[^26]: A 26/2003. (IV. 28.) GKM rendelet 15. § szerint.

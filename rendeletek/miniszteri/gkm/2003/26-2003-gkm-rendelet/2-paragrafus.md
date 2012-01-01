@@ -1,4 +1,4 @@
-## 1. § E rendelet alkalmazási köre a Magyar Köztársaság területén lévő kötélpálya-rendszerekre, valamint azok tervezésének, építésének, gyártásának, összeszerelésének, üzembe helyezésének (a továbbiakban együtt: létesítés), üzemeltetésének, felújításának, fejlesztésének, átalakításának, karbantartásának és megszüntetésének követelményeire terjed ki.
+## 1. §[^1] E rendelet alkalmazási köre Magyarország területén lévő kötélpálya-rendszerekre, valamint azok tervezésének, építésének, gyártásának, összeszerelésének, üzembe helyezésének (a továbbiakban együtt: létesítés), üzemeltetésének, felújításának, fejlesztésének, átalakításának, karbantartásának és megszüntetésének követelményeire terjed ki.
 
 2. § (1) E rendelet alkalmazásában
 
@@ -30,8 +30,9 @@ m) működtethetőség: a kötélpálya-rendszer tervezésével, szerkezeti kial
 
 n) rendszerkövetelmények: a kötélpálya-rendszerekre és azok infrastruktúrájára, alrendszereire és biztonsági rendszerelemeire vonatkozó alapvető követelmények összessége; a rendszerkövetelményeket a 2. számú melléklet határozza meg;
 
-o) tanúsító szervezetek: a kötélpálya létesítmény biztonsági ellenőrzésére, valamint alrendszerei és biztonsági rendszerelemei megfelelőségének tanúsítására a külön jogszabályokban[^1] foglaltak szerint kijelölt szervezetek.
+o) tanúsító szervezetek: a kötélpálya létesítmény biztonsági ellenőrzésére, valamint alrendszerei és biztonsági rendszerelemei megfelelőségének tanúsítására a külön jogszabályokban[^2] foglaltak szerint kijelölt szervezetek.
 
 (2) Amennyiben e rendelet eltérően nem rendelkezik, a kötélpálya-rendszer infrastruktúrájára, alrendszereire, valamint biztonsági rendszerelemeire a külön jogszabályok2 rendelkezéseit kell alkalmazni.
 
-[^1]: A műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 182/1997. (X. 17.) Korm. rendelet, és a műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelölésének részletes szabályairól szóló 4/1999. (II. 24.) GM rendelet.
+[^1]: Az 1. § a 91/2011. (XII. 30.) NFM rendelet 33. §-a szerint módosított szöveg.
+[^2]: A műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 182/1997. (X. 17.) Korm. rendelet, és a műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelölésének részletes szabályairól szóló 4/1999. (II. 24.) GM rendelet.

@@ -16,6 +16,6 @@ a) a nem megfelelő biztonsági rendszerelemet megfelelőségi jelöléssel és 
 
 b) a tanúsítvánnyal rendelkező, de nem megfelelő alrendszerhez a tanúsítványt készítette.
 
-(4)[^7] A (2) és (3) bekezdések szerinti, a biztonsági rendszerelemekkel és az alrendszerekkel kapcsolatos intézkedésekről az indokok megjelölésével együtt tájékoztatni kell az Európai Bizottságot.
+(4)[^8] A (2) és (3) bekezdések szerinti, a biztonsági rendszerelemekkel és az alrendszerekkel kapcsolatos intézkedésekről az indokok megjelölésével együtt tájékoztatni kell az Európai Bizottságot.
 
-[^7]: A 16. § (4) bekezdése e rendelet 19. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^8]: A 16. § (4) bekezdése e rendelet 19. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.

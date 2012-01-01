@@ -20,7 +20,7 @@
 
 2. E modul a biztonsági rendszerelem megfelelőségtanúsítási eljárásának azon része, amellyel a megbízott tanúsító szervezet meggyőződik arról és tanúsítja azt, hogy a típus megfelel e rendelet előírásainak (a továbbiakban: típus-megfelelőségi tanúsítási eljárás).
 
-3.[^11] Amennyiben a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője (a továbbiakban együtt: kérelmező) ezt a modult választja, a tanúsítást a kérelmezőnek az erre kijelölt tanúsító szervezettől kell kérnie.
+3.[^12] Amennyiben a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője (a továbbiakban együtt: kérelmező) ezt a modult választja, a tanúsítást a kérelmezőnek az erre kijelölt tanúsító szervezettől kell kérnie.
 
 4. A kérelemnek a következőket kell tartalmaznia:
 
@@ -96,11 +96,11 @@ a) a kiadott típus-megfelelőségi tanúsítványok és azok kiegészítései;
 
 b) a tanúsítványok mellékletei.
 
-16.[^12] A honos gyártó, illetve az Európai Közösségben letelepedett meghatalmazott képviselője, illetve ezek hiányában a forgalmazó, az utolsó biztonsági rendszerelem legyártását követően legalább 30 évig, de a biztonsági rendszerelem használatának teljes időtartama során köteles megőrizni az engedélyező hatóság számára a következőket:
+16.[^13] A honos gyártó, illetve az Európai Közösségben letelepedett meghatalmazott képviselője, illetve ezek hiányában a forgalmazó, az utolsó biztonsági rendszerelem legyártását követően legalább 30 évig, de a biztonsági rendszerelem használatának teljes időtartama során köteles megőrizni az engedélyező hatóság számára a következőket:
 
 a) a vonatkozó műszaki dokumentációt;
 
 b) a kiadott tanúsítványokat és azok kiegészítéseit.
 
-[^11]: A 4. számú melléklet 3. pontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (1) bekezdésével megállapított szöveg.
-[^12]: A 4. számú melléklet 16. pontjának felvezető mondata a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (2) bekezdésével megállapított szöveg.
+[^12]: A 4. számú melléklet 3. pontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (1) bekezdésével megállapított szöveg.
+[^13]: A 4. számú melléklet 16. pontjának felvezető mondata a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (2) bekezdésével megállapított szöveg.

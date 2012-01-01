@@ -6,7 +6,7 @@
 
 2. E modul szerinti esetben és eljárás esetén
 
-a)[^17] a gyártó, illetve az Európai Közösségben letelepedett meghatalmazott képviselője (a továbbiakban együtt: kérelmező) teljesíti a 3. pontban leírt kötelezettségeket;
+a)[^18] a gyártó, illetve az Európai Közösségben letelepedett meghatalmazott képviselője (a továbbiakban együtt: kérelmező) teljesíti a 3. pontban leírt kötelezettségeket;
 
 b) a megbízott tanúsító szervezet végrehajtja az 5. pontban leírtakat.
 
@@ -60,4 +60,4 @@ f) a vizsgálati jelentések;
 
 g) a biztonsági rendszerelem alkalmazási területe.
 
-[^17]: A 7. számú melléklet 2. pontjának a) alpontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (6) bekezdésével megállapított szöveg.
+[^18]: A 7. számú melléklet 2. pontjának a) alpontja a 104/2003. (XII. 29.) GKM rendelet 10. §-ának (6) bekezdésével megállapított szöveg.
