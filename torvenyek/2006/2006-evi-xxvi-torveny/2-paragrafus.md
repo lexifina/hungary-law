@@ -18,7 +18,7 @@ g) szabad kapacitás: a földgázszállítói, a földgáztárolói és a földg
 
 h) rendszerirányító: az az engedélyes, aki az együttműködő földgázrendszer irányítási és koordinációs feladatainak ellátására a Hivataltól engedélyt kapott;
 
-i) földgáztermelő: az a gazdálkodó szervezet [Polgári Törvénykönyv 685. § c) pont], aki (amely) a Magyar Köztársaság területén földgáz bányászati tevékenységet végez;
+i) földgáztermelő: az a gazdálkodó szervezet [Polgári Törvénykönyv 685. § c) pont], aki (amely) Magyarország területén földgáz bányászati tevékenységet végez;
 
 j) földgáz egyetemes szolgáltató: az az engedélyes, aki az egyetemes szolgáltatási csomag kisfelhasználóknak történő értékesítésére a Hivataltól engedélyt kapott;
 
