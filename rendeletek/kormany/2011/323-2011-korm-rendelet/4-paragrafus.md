@@ -1,5 +1,7 @@
-## 3. §[^3]
-
 ## 4. Az állami szakképzési és felnőttképzési szerv kijelölése
 
-[^3]: A 3. § a 27. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+4. § (1) A Kormány állami szakképzési és felnőttképzési szervként a Hivatalt jelöli ki.
+
+(2) A szakképzésről szóló törvényben, a felnőttképzésről szóló törvényben, valamint a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben a szakképzési és felnőttképzési szerv számára meghatározott feladatokat a Hivatal látja el.
+
+(3) A tankönyvpiac rendjéről szóló törvényben meghatározott Szakképzési Tankönyv és Taneszköz Testület működtetésével kapcsolatos feladatokat a Hivatal látja el.

@@ -1,5 +1,3 @@
-## 28. §[^19]
-
 1. melléklet a 323/2011. (XII. 28.) Korm. rendelethez
 
 A megyei munkaügyi központok és székhelyük
@@ -83,5 +81,3 @@ székhelye: Veszprém
 20. Zala Megyei Kormányhivatal Munkaügyi Központja
 
 székhelye: Zalaegerszeg
-
-[^19]: A 28. § a 27. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
