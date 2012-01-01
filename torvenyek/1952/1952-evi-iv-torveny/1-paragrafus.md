@@ -1,4 +1,4 @@
-Csjt. 1. § (1) A házasságról, a családról és a gyámságról szóló törvénynek az a célja, hogy a Magyar Köztársaság Alkotmányának megfelelően szabályozza és védje a házasság és a család intézményét, biztosítsa a házasságban és a családi életben a házastársak egyenjogúságát, fokozza a gyermekekért való felelősséget és előmozdítsa az ifjúság fejlődését és nevelését.
+Csjt. 1. § (1) A házasságról, a családról és a gyámságról szóló törvénynek az a célja, hogy az Alaptörvénynek megfelelően szabályozza és védje a házasság és a család intézményét, biztosítsa a házasságban és a családi életben a házastársak egyenjogúságát, fokozza a gyermekekért való felelősséget és előmozdítsa az ifjúság fejlődését és nevelését.
 
 (2) E törvény alkalmazása során mindenkor a kiskorú gyermek érdekére figyelemmel, jogait biztosítva kell eljárni.
 
