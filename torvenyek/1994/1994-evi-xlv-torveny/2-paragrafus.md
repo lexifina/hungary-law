@@ -18,6 +18,6 @@ e) légitámadás és hadművelet: az ország területén vagy azon kívül leza
 
 f) visszamaradt robbanóanyag felrobbanása: a háborúból, megszállásból, fegyveres konfliktusokból vagy ezekkel összefüggésben egyéb módon visszamaradt, illetőleg akár a megszállók, akár a magyar fegyveres alakulatok által elhagyott robbanóanyag vagy robbanó szerkezet felrobbanása, kivéve, ha a robbanás hivatásszerűen (tűzszerész) végzett mentesítés során történt;
 
-g) hadieredetű fogyatkozás (hadirokkantak esetében): a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény 1. §-ának a) pontja szerinti egészségkárosodás (a továbbiakban: egészségkárosodás), valamint a szolgálattal össze nem függő egészségkárosodásnak a szolgálat folytán bekövetkező súlyosbodása;
+g) hadieredetű fogyatkozás (hadirokkantak esetében): a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti egészségkárosodás (a továbbiakban: egészségkárosodás), valamint a szolgálattal össze nem függő egészségkárosodásnak a szolgálat folytán bekövetkező súlyosbodása;
 
 h) veszteség: a hadigondozásra való jogosultságot megalapozó bármely hátrány.

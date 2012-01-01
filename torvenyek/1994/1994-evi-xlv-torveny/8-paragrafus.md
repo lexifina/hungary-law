@@ -2,7 +2,7 @@
 
 8. § (1) Nem jogosult hadigondozásra:
 
-a) aki rokkantságát szándékosan maga okozta;
+a) aki rokkantságát, egészségkárosodását szándékosan maga okozta;
 
 b) az a hozzátartozó, aki a hadigondozott halálát szándékosan okozta.
 

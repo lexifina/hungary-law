@@ -6,7 +6,7 @@ a) orvosi alapellátás (gyógykezelés),
 
 b) állami, önkormányzati intézményi ellátás (kórház, szanatórium, gyógyfürdő, terápiás ellátások),
 
-c) fogászati ellátás,
+c) fogászati alapellátás,
 
 d) szociális intézményi ellátás.
 

@@ -12,7 +12,7 @@ III. járadékosztályba sorolt hadirokkant esetén 180%,
 
 IV. járadékosztályba sorolt hadirokkant esetén 155%,
 
-V. járadékosztályba sorolt hadirokkant esetén 70%.
+V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 (3) Ha a hadirokkant a hadigondozotti pénzellátáson kívül (hadirokkant-járadék) nem rendelkezik egyéb jövedelemmel, akkor a megfelelő járadékosztály szerinti pénzellátás havi összegét növelni kell az öregségi nyugdíj mindenkori legkisebb összegével.
 
