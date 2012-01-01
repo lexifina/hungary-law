@@ -1,4 +1,4 @@
-## 29. § A Bizottság a Munkaerőpiaci Alap képzési alaprészéből átcsoportosított rész terhére nyújtott támogatásokról – ezen belül a támogatás formája, mértéke, célja, támogatottak köre bemutatásával – az államháztartásért felelős miniszter számára az adott tárgyév vonatkozásában – a tárgyévet követő év március 31-éig – beszámolót nyújt be.
+## 29. §[^34] A Bizottság a Nemzeti Foglalkoztatási Alap képzési alaprészéből átcsoportosított rész terhére nyújtott támogatásokról – ezen belül a támogatás formája, mértéke, célja, támogatottak köre bemutatásával – az államháztartásért felelős miniszter számára az adott tárgyév vonatkozásában – a tárgyévet követő év március 31-éig – beszámolót nyújt be.
 
 ## 10. Az Alap pénzügyi működése
 
@@ -12,6 +12,7 @@
 
 (5) Az Alap terhére vállalt kötelezettségekről az Alapkezelő naprakész nyilvántartást vezet. A nyilvántartásból a Bizottság döntéséhez és a Kollégium döntés-előkészítéséhez az Alapkezelő adatot szolgáltat. A Kollégium tagjainak nyújtott költségtérítések adatai közérdekből nyilvános adatok.
 
-(6)[^33] Az Alap pénzforgalmának bonyolítása az (1) bekezdésben meghatározott felhasználási keretszámlán történik, amely felett a rendelkezési jogosultságot az Alapkezelő vezérigazgatója gyakorolja.
+(6)[^35] Az Alap pénzforgalmának bonyolítása az (1) bekezdésben meghatározott felhasználási keretszámlán történik, amely felett a rendelkezési jogosultságot az Alapkezelő vezérigazgatója gyakorolja.
 
-[^33]: A 30. § (6) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^34]: A 29. § a 324/2011. (XII. 28.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^35]: A 30. § (6) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés h) pontja szerint módosított szöveg.
