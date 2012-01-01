@@ -6,7 +6,7 @@ b) a közúti közlekedési ügyekben eljáró hatóságok a külön jogszabály
 
 c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
 
-d) a honvédelmi igazgatás szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a hadkiegészítő parancsnokság, a Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1) bekezdésében, valamint 9. § (2) bekezdés a) pontjában meghatározott adatokat;
+d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a hadkiegészítő parancsnokság, a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozóhatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1) bekezdésében, valamint 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 
 e) a települési önkormányzat jegyzője
 
@@ -42,6 +42,6 @@ aa) a szabálysértési ügyekben eljáró hatóság a szabálysértési eljár�
 
 ab) a közúti közlekedés ellenőrzésére jogosult hatóságok jogszabályban meghatározott feladataik ellátásához;
 
-b) a hivatásos polgári védelmi szerv, a megyei közgyűlés elnöke, a főpolgármester és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § c), d), g), h) és a 9. § (1) bekezdés c), d), g) pontjaiban megjelölt adatok kivételével.
+b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § c), d), g), h) és a 9. § (1) bekezdés d), g) pontjaiban megjelölt adatok kivételével.
 
 (3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
