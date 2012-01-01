@@ -24,6 +24,10 @@ j) megszűnt fenntartó: az a fenntartó, amely valamennyi szolgáltatóját má
 
 k) jegybanki alapkamat: a tárgyév átlagos jegybanki alapkamata, a tárgyévben megszűnt fenntartó esetén a megszűnés napjáig érvényes átlagos jegybanki alapkamat,
 
-l) korrekció: a tárgyévi költségvetés végrehajtásáról szóló törvény alapján az egyházi fenntartót megillető vagy az egyházi fenntartó által visszafizetendő egyházi kiegészítő támogatás összege.
+l)[^2] korrekció: a tárgyévi központi költségvetés végrehajtásáról szóló törvény alapján az egyházi fenntartót megillető vagy az egyházi fenntartó által visszafizetendő egyházi kiegészítő támogatás összege.
+
+m)[^3] befogadás: az Szt. 58/A. § (2) és (2a) bekezdése, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 145. § (2) és (2a) bekezdése szerinti, a szociális és a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás.
 
 [^1]: Az 1. § d) pontja a 357/2010. (XII. 30.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § l) pontja a 330/2011. (XII. 29.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § m) pontját a 330/2011. (XII. 29.) Korm. rendelet 11. §-a iktatta be.

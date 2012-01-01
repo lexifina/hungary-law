@@ -2,13 +2,13 @@
 
 a) a tárgyévet megelőző évben benyújtott kérelem esetén tárgyév január 16-áig,
 
-b)[^11] tárgyévben benyújtott kérelem esetén a kérelem megérkezését követő naptól számított harminc napon belül,
+b)[^16] tárgyévben benyújtott kérelem esetén a kérelem megérkezését követő naptól számított harminc napon belül,
 
-c)[^12] az igénylési határidő elmulasztása esetén a kérelem megérkezését követő naptól számított két hónapon belül
+c)[^17] az igénylési határidő elmulasztása esetén a kérelem megérkezését követő naptól számított két hónapon belül
 
 határoz.
 
-(2) Az igazgatóság a normatívát – ha jogszabály másként nem rendelkezik vagy a kérelemben más nem szerepel – nem új fenntartó esetén tárgyév január 1-jétől, új fenntartó esetén a szolgáltató működésének a jogerős működési engedélyben meghatározott kezdő időpontjától állapítja meg.
+(2)[^18] Az igazgatóság a normatívát – ha jogszabály másként nem rendelkezik vagy a kérelemben más nem szerepel – nem új fenntartó esetén tárgyév január 1-jétől, új fenntartó esetén a befogadás működési engedélybe történő bejegyzése jogerőre emelkedésének időpontjától állapítja meg.
 
 (3) A normatívát megállapító határozat tartalmazza
 
@@ -28,5 +28,6 @@ g) a normatíva elszámolásának határidejét és módját,
 
 h) a normatíva felhasználásáról való elszámolás és ellenőrzés rendjéről, a köztartozás esetén követendő eljárásról, valamint a visszafizetésről és a kamatfizetésről szóló tájékoztatást.
 
-[^11]: A 4. § (1) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^12]: A 4. § (1) bekezdés c) pontja a 357/2010. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^16]: A 4. § (1) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^17]: A 4. § (1) bekezdés c) pontja a 357/2010. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^18]: A 4. § (2) bekezdése a 330/2011. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

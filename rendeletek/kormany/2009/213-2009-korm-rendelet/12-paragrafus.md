@@ -1,4 +1,4 @@
-12. § (1)[^30] A fenntartó az elszámolás, illetve az ellenőrzés során keletkezett visszafizetési kötelezettségének és a kamatfizetési kötelezettségének – ha az igazgatóság fizetési kedvezményt nem engedélyezett – az azt előíró határozat jogerőre emelkedését követő húsz napon belül köteles eleget tenni.
+12. § (1)[^38] A fenntartó az elszámolás, illetve az ellenőrzés során keletkezett visszafizetési kötelezettségének és a kamatfizetési kötelezettségének – ha az igazgatóság fizetési kedvezményt nem engedélyezett – az azt előíró határozat jogerőre emelkedését követő húsz napon belül köteles eleget tenni.
 
 (2) Ha a fenntartó a visszafizetési és kamatfizetési kötelezettségének határidőben nem tesz eleget, a visszafizetendő összeg után késedelmi pótlékot kell fizetnie, és tartozását a késedelmi pótlékkal együtt a fizetési határidő lejártát követően folyósítandó normatívából le kell vonni.
 
@@ -8,4 +8,4 @@
 
 (5) Fenntartóváltozás esetén a korábbi fenntartó által visszafizetendő normatíva megfizetésére a szolgáltatót átvevő fenntartó is kötelezhető, ha a korábbi fenntartót megillető, pénzforgalmi szolgáltatónál kezelt pénzösszegre vezetett végrehajtás részben vagy egészben eredménytelen volt. A szolgáltatót átvevő fenntartó fizetési kötelezettségének teljesítésére az (1)–(4) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
-[^30]: A 12. § (1) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 31. § i) pontja szerint módosított szöveg.
+[^38]: A 12. § (1) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 31. § i) pontja szerint módosított szöveg.
