@@ -4,7 +4,7 @@
 
 ## A törvény hatálya
 
-1. § (1) A törvény hatálya a Magyar Köztársaság területén:
+1. § (1) E törvény hatálya Magyarország területén
 
 a) folytatott hajózási tevékenységre, az azt szolgáló vagy annak folytatását befolyásoló, a mederben és a parton lévő létesítményekre, az úszólétesítményekre, a víziutakra és kikötőkre,
 

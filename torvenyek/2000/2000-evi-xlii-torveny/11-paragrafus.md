@@ -18,11 +18,13 @@ f) elő- vagy visszavásárlási jog és vételi jog,
 
 g) végrehajtási jog.
 
+(3a) Motoros vízi sporteszköz esetén – a (3) bekezdésben foglaltaktól eltérően – a tulajdonjogot és az üzembentartói jogot kell bejegyeztetni a kishajólajstromba.
+
 (4) A lajstromba bejegyezhető tényeket és az úszólétesítményre vonatkozó – a 10. § (1) bekezdésében nem említett – egyéb adatokat az úszólétesítmények lajstromozásáról szóló jogszabály állapítja meg.
 
 (5) A hajózási hatóság bejegyzése hozza létre átruházás esetén a tulajdonjogot, továbbá a szerződésen alapuló üzemben tartói jogot, haszonélvezeti jogot.
 
-(6) A lajstromba bejegyzett úszólétesítményt terhelő jelzálogjogot a lajstromba be kell jegyeztetni. A lajstromba bejegyzett úszólétesítményt terhelő jelzálogjogot csak külön jogszabályban meghatározott közjegyzői okiratba foglalt zálogszerződés vagy a zálogjogviszony létesítésére irányuló bírósági vagy más hatósági döntés alapján lehet bejegyeztetni.
+(6) Amennyiben az úszólétesítményt – a motoros vízi sporteszköz kivételével – jelzálog terhelheti, a jelzálogjogot a lajstromba be kell jegyeztetni.
 
 (7) Valamely jognak vagy ténynek a lajstromba való bejegyzését annak kell kérnie, aki a bejegyzéssel jogosulttá válik, vagy akinek ez a bejegyzett jogát érinti.
 

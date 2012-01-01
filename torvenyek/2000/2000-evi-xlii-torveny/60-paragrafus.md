@@ -26,4 +26,4 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 
 (2) A bírság összege legfeljebb a miniszter rendeletében megállapított hatósági eljárási díj tízszerese. Amennyiben külön jogszabály az adott tevékenységgel kapcsolatban eljárási díjat nem állapít meg, a bírság összege legfeljebb az általános tételű államigazgatási eljárási illeték húszszorosa.
 
-(3) A beszedett bírság összege a hajózási hatóságot illeti meg.
+(3)

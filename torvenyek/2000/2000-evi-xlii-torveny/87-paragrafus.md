@@ -58,7 +58,7 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 24. komp: vízen történő közútpótló átkelésre szolgáló, személyeket és közúti járműveket szállító, a hajózási hatóság által kompnak (önjáró, nem önjáró, köteles komp, továbbá a révhajó és a révcsónak) minősített vízijármű;
 
-25. konzuli tisztviselő: a Magyar Köztársaság diplomáciai vagy konzuli képviseletén konzuli feladatok végzésével megbízott személy;
+25. konzuli tisztviselő: Magyarország diplomáciai vagy konzuli képviseletén konzuli feladatok végzésével megbízott személy;
 
 26. külföldi: akit (amit) a devizajogszabályok külföldinek tekintenek;
 

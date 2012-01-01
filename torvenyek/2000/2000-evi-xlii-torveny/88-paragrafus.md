@@ -28,6 +28,10 @@ k) a hajókról származó szennyezés és az azzal összefüggő jogkövetkezm�
 
 l) az e törvény szerinti szakértői tevékenység folytatása részletes feltételeinek, a szakértői tevékenység bejelentése és a szakértők nyilvántartása személyes adatot nem tartalmazó adattartalmának, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályoknak, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek
 
+m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
+
+n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak
+
 rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter
@@ -70,7 +74,7 @@ r) a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjén
 
 s) a hajózási képesítések megszerzése feltételeinek és rendjének, valamint a kiadandó okmányok (bizonyítványok) formai és tartalmi követelményeinek az oktatási, valamint a rádiószolgálatok állomáskezelőire vonatkozó követelmények meghatározása tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben,
 
-t) a hajózási bírság kivetése részletes szabályainak és a bírság felhasználása rendjének az adópolitikáért felelős miniszterrel egyetértésben,
+t) a hajózási bírság kiszabása, megfizetése és kezelése részletes szabályainak az adópolitikáért felelős miniszterrel egyetértésben,
 
 u) a hajózási hatósági eljárások díjainak, valamint e díjaknak az eljáró hatóság, illetve a felügyeleti és irányítási feladatot ellátó szervezetek közötti megosztása szabályainak, továbbá a hajózási képesítő vizsgák díjainak az adópolitikáért felelős miniszterrel egyetértésben,
 
@@ -94,7 +98,7 @@ rendeletben történő megállapítására.
 
 a) a határkikötők fenntartásával és működtetésével kapcsolatos szabályoknak, a miniszterrel és a határrendészetért felelős miniszterrel egyetértésben,
 
-b) a hajó-felelősségbiztosítási szerződésre vonatkozó részletes szabályoknak
+b)
 
 rendeletben történő megállapítására.
 
