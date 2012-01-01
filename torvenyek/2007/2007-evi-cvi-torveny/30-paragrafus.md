@@ -2,7 +2,7 @@
 
 (2)–(4)
 
-(5) A többségi állami tulajdonú gazdálkodó szervezet és tagja (részvényese) között létrejövő szerződést a szerződés aláírásától számított harminc napon belül a cégbíróságon a cégiratok közé letétbe kell helyezni. Ezt a rendelkezést nem kell alkalmazni, ha a társaság és a tag (részvényes) a társaság tevékenységi körébe tartozó, a létesítő okirat által meghatározott szokásos nagyságrendű szerződést köt.
+(5) A többségi állami tulajdonú gazdálkodó szervezet és tagja (részvényese) között létrejövő szerződést a szerződés aláírásától számított harminc napon belül a cégbíróságon a cégiratok közé letétbe kell helyezni. Ezt a rendelkezést nem kell alkalmazni, ha a társaság és a tag (részvényes) a társaság tevékenységi körébe tartozó, a létesítő okirat által meghatározott szokásos nagyságrendű szerződést köt, továbbá ha az banktitok sérelmével járna.
 
 (6)
 

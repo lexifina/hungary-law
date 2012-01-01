@@ -32,7 +32,7 @@ g) ingyenes vagyonátadásra vonatkozó javaslat kialakítása a döntéshozó r
 
 h) az éves költségvetési törvényben foglaltakra figyelemmel, döntés hitelfelvételről és kötvénykibocsátásról,
 
-i) az Áht. 109. § (8)–(9) bekezdésének figyelembevételével döntés gazdasági társaságok részére történő hitel, kölcsön és támogatás nyújtásáról, tőkeemelésről,
+i) az Áht. 45. §-a figyelembevételével döntés gazdasági társaságok részére történő hitel, kölcsön és támogatás nyújtásáról, tőkeemelésről,
 
 j) döntés a b) pontba nem tartozó kötelezettségvállalásokról, ha a kötelezettség mértéke, annak járulékaival együtt eléri vagy meghaladja a 200 millió forintot,
 
