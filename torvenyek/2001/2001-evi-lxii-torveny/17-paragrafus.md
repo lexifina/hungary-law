@@ -10,4 +10,4 @@ b) a tárgyilagos kép kialakítását a világról, Magyarországról és a mag
 
 c) a kisebbségben élő magyar nemzeti közösségek azonosságtudatának, anyanyelvének, kultúrájának megőrzését.
 
-(2) A Magyar Köztársaság a határon túli magyarság számára közszolgálati televízió-műsor készítését és sugárzását a határokat átlépő televíziózásról szóló európai egyezménnyel összhangban, az e célt szolgáló szervezet létrehozásával és működtetésével biztosítja. Az ehhez szükséges pénzügyi forrásokat a központi költségvetés fedezi.
+(2) Magyarország a határon túli magyarság számára közszolgálati televízió-műsor készítését és sugárzását a határokat átlépő televíziózásról szóló európai egyezménnyel összhangban, az e célt szolgáló szervezet létrehozásával és működtetésével biztosítja. Az ehhez szükséges pénzügyi forrásokat a központi költségvetés fedezi.

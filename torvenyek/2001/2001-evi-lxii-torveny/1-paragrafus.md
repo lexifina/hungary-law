@@ -12,4 +12,4 @@ a) aki magyar állampolgárságát önként tett nyilatkozata alapján veszítet
 
 b) akinek magyar állampolgárságát azért vonták vissza, mert azt csalárd módon szerezte meg;
 
-c) aki a Magyar Köztársaság területén bevándorolt, letelepedett, menekült vagy menedékes jogállást szerzett.
+c) aki Magyarország területén bevándorolt, letelepedett, menekült vagy menedékes jogállást szerzett.

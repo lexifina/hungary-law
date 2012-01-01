@@ -1,6 +1,6 @@
 ## Utazási kedvezmények
 
-8. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személy – a törvény céljaival összhangban, a magyar kultúrához való kötödés erősítésének érdekében – a Magyar Köztársaság területén a belföldi helyi és helyközi menetrend szerinti tömegközlekedési eszközön – vasúti utazás esetén annak 2. kocsiosztályán – utazási kedvezményekben részesül.
+8. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személy – a törvény céljaival összhangban, a magyar kultúrához való kötödés erősítésének érdekében – Magyarország területén a belföldi helyi és helyközi menetrend szerinti tömegközlekedési eszközön – vasúti utazás esetén annak 2. kocsiosztályán – utazási kedvezményekben részesül.
 
 (2) Korlátlan számú díjmentes utazásra jogosult
 

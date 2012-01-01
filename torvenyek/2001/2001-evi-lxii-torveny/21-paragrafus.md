@@ -16,7 +16,7 @@ c) annak tulajdonosa Magyarországon lakóhelyet létesített; vagy
 
 d) annak tulajdonosát a menekültügyi hatóság menekültként, menedékesként elismerte; vagy
 
-e) annak tulajdonosát a Magyar Köztársaság területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el; vagy
+e) annak tulajdonosát Magyarország területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el; vagy
 
 f) az igazolványt jogosulatlanul használták fel vagy meghamisították; vagy
 

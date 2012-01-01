@@ -1,6 +1,6 @@
 ## Határon túli szervezetek támogatása
 
-18. § (1) A Magyar Köztársaság támogatja a szomszédos államokban élő magyar nemzeti közösségek azonosságtudatának, anyanyelvének és kultúrájának megőrzését elősegítő, a szomszédos államokban működő szervezeteket.
+18. § (1) Magyarország támogatja a szomszédos államokban élő magyar nemzeti közösségek azonosságtudatának, anyanyelvének és kultúrájának megőrzését elősegítő, a szomszédos államokban működő szervezeteket.
 
 (2) A támogatás elnyerése érdekében a külföldi szervezethez [25. § (1) bekezdése] pályázatot nyújthat be az (1) bekezdésben meghatározott szervezet, amelynek célja különösen
 

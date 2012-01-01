@@ -4,7 +4,7 @@
 
 27. § (1) Ez a törvény 2002. január 1-jén lép hatályba.
 
-(2) E törvény rendelkezéseit a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésétől az Európai Unió közösségi vívmányaival összhangban kell alkalmazni.
+(2)
 
 (3) Nemzetközi szerződés alapján a 10. és 14. § rendelkezéseit alkalmazni kell arra a személyre is, aki a szomszédos állam óvodai, alap- vagy középfokú oktatási intézményében tanulói jogviszonyban áll és magyar nyelven tanul, továbbá arra a hallgatóra is, aki a szomszédos állam felsőoktatási intézményében magyar nyelven vagy a magyar kultúra tárgyában tanulmányokat folytat.
 

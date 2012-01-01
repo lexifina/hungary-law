@@ -4,7 +4,7 @@
 
 ## Művelődés, kultúra, tudomány
 
-4. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeknek a Magyar Köztársaság a területén biztosítja különösen:
+4. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeknek Magyarország a területén biztosítja különösen:
 
 a) a közművelődési intézmények használatának jogát és ezen intézmények szolgáltatásai igénybevételének lehetőségét,
 
