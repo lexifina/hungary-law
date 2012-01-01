@@ -80,7 +80,7 @@
 
 ## 3.1.1.0100. A szabályzat célja az atomerőmű, mint nukleáris létesítmény és az azt alkotó, a nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezési alapelveinek és tervezési követelményeinek meghatározása.
 
-## 3.1.1.0200. A jelen szabályzat rendelkezéseit a Magyar Köztársaság területén létesítendő és már üzemelő, vízhűtésű, termikus reaktorokkal működő atomerőművek tervezési követelményeinek meghatározása tekintetében kell alkalmazni.
+## 3.1.1.0200.[^3] A jelen szabályzat rendelkezéseit Magyarország területén létesítendő és már üzemelő, vízhűtésű, termikus reaktorokkal működő atomerőművek tervezési követelményeinek meghatározása tekintetében kell alkalmazni.
 
 ## 3.2. ÁLTALÁNOS TERVEZÉSI KÖVETELMÉNYEK
 
@@ -1301,3 +1301,5 @@
 ## 3.3.21.0600. Az atomerőmű telephelyén bevezetendő óvintézkedésekhez szükséges védőeszközöket biztosítani kell. A baleset-elhárításban részt vevő személyzet számára a polgári védelmi előírásoknak és a balesetelhárítási tevékenységbe bevont személyek számának megfelelő óvólétesítményeket kell kialakítani, valamint a folyamatos működéshez szükséges készleteket kell biztosítani.
 
 4. melléklet a 118/2011. (VII. 11.) Korm. rendelethez
+
+[^3]: A 3. melléklet 3.1.1.0200. pontja a 304/2011. (XII. 23.) Korm. rendelet 46. §-a szerint módosított szöveg.

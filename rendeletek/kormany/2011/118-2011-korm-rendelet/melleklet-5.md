@@ -94,7 +94,7 @@
 
 ## 4.1.1.0100. A jelen szabályzat célja az atomerőművek, azok nukleáris biztonság szempontjából fontos rendszerei és rendszerelemei üzembe helyezésének, üzemeltetésének, állapotfenntartásának, átalakításának és felülvizsgálatának végrehajtására, valamint a baleset-elhárítási tevékenységre, továbbá az e tevékenységeket végzőkre vonatkozó nukleáris biztonsági követelményeknek a meghatározása.
 
-## 4.1.1.0200. A jelen szabályzat követelményeit alkalmazni kell a Magyar Köztársaság területén működő valamennyi atomerőműre.
+## 4.1.1.0200.[^4] A jelen szabályzat követelményeit alkalmazni kell Magyarország területén működő valamennyi atomerőműre.
 
 ## 4.2. ÜZEMELTETÉSI FELTÉTELEK ÉS KORLÁTOK
 
@@ -1348,7 +1348,7 @@ TARTALOMJEGYZÉK
 
 5.1.1.0100. A jelen Szabályzat célja, a kutatóreaktorok tervezésére, üzembe helyezésére, üzemeltetésére és üzemeltetéshez kapcsolódó tevékenységekre vonatkozó nukleáris biztonsági követelmények meghatározása.
 
-5.1.1.0200. A jelen Szabályzat követelményei a Magyar Köztársaság területén üzemelő vagy létesíteni kívánt kutatási, oktatási célra szolgáló atomreaktorokra mint létesítményekre, azoknak biztonság szempontjából fontos rendszereire és rendszerelemeire vonatkoznak.
+5.1.1.0200.[^5] A jelen Szabályzat követelményei a Magyarország területén üzemelő vagy létesíteni kívánt kutatási, oktatási célra szolgáló atomreaktorokra mint létesítményekre, azoknak biztonság szempontjából fontos rendszereire és rendszerelemeire vonatkoznak.
 
 5.2. KUTATÓREAKTOROK TERVEZÉSÉNEK KÖVETELMÉNYEI
 
@@ -1549,3 +1549,6 @@ A tervezési adatok és modellek
 5.2.2.4600. Az elemzésekhez használt adatok helyességét igazolni kell megalapozott valós adatokkal való összehasonlítással, kísérletek eredményeinek felhasználásával vagy egyéb módon, és ezt az extrapolált adatok esetén is be kell mutatni. Ahol az adatok alkalmazásában bizonytalanság mutatkozik, ott a bizonytalanságot a biztonság irányába ható megfelelő konzervativizmussal kell kiküszöbölni. Jól megalapozott alátámasztás hiányában a rendelkezésre álló adatokból nem szabad extrapolálni. A kezdeti és peremfeltételeket konzervatív módon kell meghatározni.
 
 5.2.2.4700. Modelleket kell alkalmazni a tervezés támogatására, megfelelőségének igazolására és a kutatóreaktor biztonságát érintő, a normál üzem, a várható üzemi események és a tervezési üzemzavarok során fellépő körülmények leírására. Ezeknek a modelleknek elismert tudományos értelmezésen kell alapulniuk, és a szükséges feltételezések vagy alkalmazott közelítések igazolhatóan a biztonság irányába kell mutatniuk.
+
+[^4]: A 4. melléklet 4.1.1.0200. pontja a 304/2011. (XII. 23.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^5]: Az 5. melléklet 5.1.1.0200. pontja a 304/2011. (XII. 23.) Korm. rendelet 46. §-a szerint módosított szöveg.

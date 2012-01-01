@@ -4,7 +4,7 @@
 
 ## 1. A rendelet hatálya
 
-1. § (1) E rendelet hatálya az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 1–11. pontjában megfogalmazottak szerint a Magyar Köztársaság területén létesíteni kívánt, valamint a már üzemelő nukleáris létesítményekre, azok rendszereire és rendszerelemeire, a nukleáris létesítménnyel kapcsolatos tevékenységekre és az e tevékenységet végzőkre terjed ki (beleértve a nukleáris létesítményeken belüli radioaktív anyag szállítást és a radioaktív hulladékok átmeneti tárolását biztosító rendszereket, rendszerelemeket, a nukleáris létesítmény biztonsági osztályba sorolt nyomástartó berendezéseit és csővezetékeit, továbbá a tűzvédelmet, ha azok a nukleáris biztonságra hatást gyakorolnak, kizárólag ezen hatásuk szempontjából), így:
+1. § (1)[^1] E rendelet hatálya az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 1–11. pontjában megfogalmazottak szerint Magyarország területén létesíteni kívánt, valamint a már üzemelő nukleáris létesítményekre, azok rendszereire és rendszerelemeire, a nukleáris létesítménnyel kapcsolatos tevékenységekre és az e tevékenységet végzőkre terjed ki (beleértve a nukleáris létesítményeken belüli radioaktív anyag szállítást és a radioaktív hulladékok átmeneti tárolását biztosító rendszereket, rendszerelemeket, a nukleáris létesítmény biztonsági osztályba sorolt nyomástartó berendezéseit és csővezetékeit, továbbá a tűzvédelmet, ha azok a nukleáris biztonságra hatást gyakorolnak, kizárólag ezen hatásuk szempontjából), így:
 
 a) a nukleáris létesítmény
 
@@ -71,3 +71,5 @@ h) a nukleáris létesítmény nukleárisbaleset-elhárítási tevékenységére
 (3) A nukleáris biztonsági követelmények és rendelkezések betartása mindazok számára kötelező, akik az Atv. szerinti, valamint e rendeletben előírt hatósági engedélyhez kötött tevékenységet folytatnak, ilyen tevékenységben közreműködnek, vagy ilyen tevékenység folytatásához engedély iránti kérelmet nyújtanak be.
 
 (4) E rendelet hatálya nem terjed ki a fizikai védelemmel kapcsolatos nukleáris biztonsági követelményekre.
+
+[^1]: Az 1. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 45. §-a szerint módosított szöveg.
