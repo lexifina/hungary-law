@@ -1,0 +1,9 @@
+# 55/2011. (XII. 30.) NGM rendelet
+
+a START kártyák felhasználásának, illetve az ahhoz kapcsolódó szociális hozzájárulási adókedvezmény érvényesítésének, továbbá elszámolásának részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-55-20-2X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-01-01 | 2011-55-20-2X.1 | 55/2011. (XII. 30.) NGM rendelet |

@@ -1,0 +1,5 @@
+## 10. § A munkaadónként benyújtott igényeket a NAV havonta összesíti a pénzügyi fedezet biztosítása érdekében és a tárgyhót követő hó 5. napjáig a Nemzeti Foglalkoztatási Alap részére küldi meg. Az igénylést csökkenteni kell az adott hónapban az adózó által végrehajtott önellenőrzés, illetve adóhatósági megállapítás kapcsán visszafizetett jogosulatlanul igénybe vett összegekkel.
+
+11. § (1) Az adóellenőrzés során megállapított jogszerűtlen igénylés jogkövetkezményeként beszedett, valamint a munkaadó által jogosulatlanul igénybe vett adókedvezménynek önadózással történt bevallásával egyidejűleg esedékes adókülönbözetet a NAV szociális hozzájárulási adó számla javára kell megfizetni.
+
+(2) A NAV a Nemzeti Foglalkoztatási Alap részére negyedévente gépi adathordozón a 3. melléklet szerinti adatszolgáltatást teljesít. Az adatszolgáltatás tartalmazza közigazgatás és egyéb foglalkoztatók szerinti bontásban az adott negyedévre vonatkozóan megyénként összesítve az adókedvezményt igénylők számát, az igénylésben érintett létszámot az adatlapnak megfelelő bontásban, az igényelt adókedvezmény összegét.

@@ -1,0 +1,1 @@
+## 9. § A Pftv. 4/A § (1) bekezdésében, a Pftv. 5. § (1) bekezdésében, a Pftv. 7. § (1) bekezdésében, valamint a 7/A. § (4) bekezdésében meghatározott adókedvezmény iránti igénylés az illetékes NAV igazgatósághoz, a NAV által rendszeresített bevallásnyomtatványon nyújtható be.
