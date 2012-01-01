@@ -1,6 +1,6 @@
 2. számú melléklet a 354/2009. (XII. 30.) Korm. rendelethez
 
-## A munkabiztonsági szakértői tevékenység gyakorlására való jogosultság megállapítására vonatkozó kérelem minimális tartalma az Országos Munkavédelmi és Munkaügyi Főfelügyelőség hatáskörébe tartozó engedélyezési eljárásokban
+## A munkabiztonsági szakértői tevékenység gyakorlására való jogosultság megállapítására vonatkozó kérelem minimális tartalma a munkavédelmi hatóság hatáskörébe tartozó engedélyezési eljárásokban[^4]
 
 1. A kérelmező adatai:
 
@@ -46,6 +46,8 @@ b) munkahelyi tevékenység és beosztás.
 
 7. Nyelvismeretre vonatkozó adatok.
 
-8. A kérelmező hozzájárulása, illetve a hozzájárulás megtagadása arra vonatkozóan, hogy a kérelemben megadott személyes és végzettségre vonatkozó adatokat az OMMF nyilvántartásba vegye, illetve az szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatait (név, lakcím, az engedélyezett szolgáltatási tevékenység megnevezése) az OMMF honlapján közzétegye.
+8. A kérelmező hozzájárulása, illetve a hozzájárulás megtagadása arra vonatkozóan, hogy a kérelemben megadott személyes és végzettségre vonatkozó adatokat az OMMF nyilvántartásba vegye, illetve az szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatait (név, lakcím, az engedélyezett szolgáltatási tevékenység megnevezése) a munkavédelmi hatóság a honlapján közzétegye.
 
 9. A kérelem benyújtásának kelte, a kérelmező aláírása.
+
+[^4]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
