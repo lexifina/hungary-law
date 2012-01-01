@@ -2,6 +2,6 @@
 
 (2) A felügyelőség az (1) bekezdésben meghatározottak alapján kötelezi az ingatlan tulajdonosát, illetve egyéb jogcímen használóját a jogszabályoknak megfelelő állapot helyreállítására és folyamatos fenntartására, vagy megkeresi a hatáskörrel és illetékességgel rendelkező hatóságot a szükséges intézkedések megtétele érdekében.
 
-(3)[^9] Ha az érintett a (2) bekezdésben említett hatóság határozatában foglalt kötelezésnek az ott előírt határidőn belül nem tesz eleget, a szükséges munkálatok elvégzéséről a hatóság a védekezésért felelős bevonásával gondoskodik.
+(3)[^10] Ha az érintett a (2) bekezdésben említett hatóság határozatában foglalt kötelezésnek az ott előírt határidőn belül nem tesz eleget, a szükséges munkálatok elvégzéséről a hatóság a védekezésért felelős bevonásával gondoskodik.
 
-[^9]: A 10. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 447. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 10. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 447. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

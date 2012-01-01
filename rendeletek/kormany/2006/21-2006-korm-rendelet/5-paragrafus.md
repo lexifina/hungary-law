@@ -4,7 +4,7 @@
 
 ## ÉS HASZNOSÍTÁSA
 
-5. §[^4] (1) A folyószakasz mederkezelőjének az építmény nagyvízi mederben történő elhelyezéséhez való hozzájárulása előtt vizsgálnia kell a tervezett építménynek az árvíz és a jég levonulására gyakorolt hatását. Az építmény kialakítása és magassági elhelyezése során a mértékadó árvízszint és az eddig előfordult legmagasabb árvízszint közül a magasabbat kell figyelembe venni.
+5. §[^5] (1) A folyószakasz mederkezelőjének az építmény nagyvízi mederben történő elhelyezéséhez való hozzájárulása előtt vizsgálnia kell a tervezett építménynek az árvíz és a jég levonulására gyakorolt hatását. Az építmény kialakítása és magassági elhelyezése során a mértékadó árvízszint és az eddig előfordult legmagasabb árvízszint közül a magasabbat kell figyelembe venni.
 
 (2) Építmény nagyvízi mederben történő elhelyezéséhez a folyószakasz mederkezelője akkor járulhat hozzá, ha van az igénybe vett területre vonatkozó, kihirdetett nagyvízi mederkezelési terv és annak figyelembevételével az építmény megvalósítható. Nagyvízi mederkezelési terv hiányában a folyószakasz mederkezelője akkor járulhat hozzá az építmény elhelyezéshez, ha a kérelem:
 
@@ -24,4 +24,4 @@ c) a nagyvízi mederben fekvő települési belterületen történő építmény
 
 (7) A nagyvízi mederben fekvő földrészlet használatára vonatkozó, a földrészlet tulajdonosa és használója között kötött szerződésben fel kell tüntetni azt a tényt, hogy a földrészlet nagyvízi mederben fekszik.
 
-[^4]: Az 5. § a 209/2011. (X. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 5. § a 209/2011. (X. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
