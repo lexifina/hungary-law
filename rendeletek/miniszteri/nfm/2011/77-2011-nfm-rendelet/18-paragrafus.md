@@ -18,8 +18,10 @@ f) az esettel kapcsolatban elhunytak, eltűntek vagy súlyos sérülést szenved
 
 g) az úszólétesítmény kiindulási és rendeletetési kikötőjét,
 
-h) annak jelzését, hogy a Magyar Köztársaság milyen mértékig folytatja a kivizsgálást vagy javasolja annak átruházását,
+h)[^1] annak jelzését, hogy Magyarország milyen mértékig folytatja a kivizsgálást vagy javasolja annak átruházását,
 
 i) közlekedésbiztonsági szerv azonosító adatait, és a vizsgálóbizottság vezetőjével vagy a szakmai kivizsgálóval, valamint a közlekedésbiztonsági szervvel folyamatos kapcsolattartást lehetővé tevő elérhetőségi adatokat,
 
 j) veszélyes áru szállítása esetén a veszélyes áru leírását.
+
+[^1]: A 18. § h) pontja a 21. § (1) bekezdése szerint módosított szöveg.
