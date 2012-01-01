@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-10-20-9
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2001-10-20-93.3 | 10/2001. (III. 2.) KöViM rendelet |
+| 2012-01-01 | 2001-10-20-93.4 | 95/2006. (XII. 27.) GKM rendelet |
