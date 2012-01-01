@@ -6,4 +6,4 @@ a) az érintett önkormányzati képviselőnek,
 
 b) a választási bizottságnak,
 
-c) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
+c) a fővárosi és megyei kormányhivatalnak.

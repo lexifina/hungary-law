@@ -4,7 +4,7 @@
 
 a) központi államigazgatási szerv köztisztviselője,
 
-b) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek a vezetője, köztisztviselője, továbbá annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak és illetékessége az önkormányzatra kiterjed,
+b) a fővárosi és megyei kormányhivatalnak a vezetője, köztisztviselője, továbbá annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak és illetékessége az önkormányzatra kiterjed,
 
 c) jegyző (főjegyző, körjegyző), aljegyző, továbbá ugyanannál az önkormányzatnál a képviselő-testület hivatalának köztisztviselője,
 
