@@ -14,7 +14,7 @@
 
 | 6 |  | vízjogi engedélyek | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 7 |  | villamosenergia-ipari építésügyi hatósági engedélyek | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 7 |  | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 8 |  | régészeti feltárási engedély | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -28,9 +28,9 @@
 
 | 13 |  | a jogszabályokban rögzített tűzvédelmi hatósági ügyek, egyeztetésekkel kapcsolatos hatósági engedélyezési eljárások | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 14 |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 14 |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 15 |  | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos engedélyezési eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 15 |  | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos engedélyezési eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság |  |
 
 2. melléklet a 174/2010. (V. 13.) Korm. rendelethez[^4]
 
@@ -75,6 +75,8 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 | 4 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | 5 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+
+| 6 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 3. Környezetvédelmi hatósági engedélyezés
 
@@ -190,4 +192,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 4 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
