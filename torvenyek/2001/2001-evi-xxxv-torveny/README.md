@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-35-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-35-00-00.16 |
 | 2010-08-11 | 2010. évi LXXXII. törvény | 2001-35-00-00.17 |
 | 2011-01-01 | 2010. évi CLII. törvény | 2001-35-00-00.18 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2001-35-00-00.19 |

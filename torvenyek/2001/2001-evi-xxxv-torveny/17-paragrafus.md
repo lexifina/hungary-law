@@ -20,4 +20,4 @@ d) nyilvántartásokat vezet, és ezeket közcélú távközlő hálózatok seg�
 
 (6) A Hatóság eljárása során szakértőként igazságügyi szakértőt, vagy elektronikus aláírás szolgáltatási szakértőt is igénybe vehet.
 
-(7) A Hatóságnak a nyilvántartással kapcsolatos tevékenységéért igazgatási szolgáltatási díjat kell fizetni, mely a Hatóság bevételét képezi. Az e törvény szerinti bírságok a központi költségvetés bevételét képezik.
+(7) A Hatóságnak a nyilvántartással kapcsolatos tevékenységéért igazgatási szolgáltatási díjat kell fizetni, amely a Hatóság bevételét képezi.
