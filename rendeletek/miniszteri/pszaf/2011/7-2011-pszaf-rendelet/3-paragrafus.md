@@ -1,9 +1,0 @@
-## 2. § Az adatszolgáltató a felügyeleti jelentését a mellékletben foglaltaknak megfelelő tartalommal és formában köteles elkészíteni és a Felügyelet részére megküldeni. A felügyeleti jelentés összeállításához a Felügyelet időbélyegzővel ellátott módszertani útmutatót tesz közzé a Felügyelet honlapján.
-
-3. § (1) Az e rendeletben előírt adatszolgáltatási kötelezettséget a Felügyelet által meghatározott elektronikus formában, minősített vagy fokozott biztonságú elektronikus aláírással ellátva (a továbbiakban: elektronikus úton) a Felügyelet Kihelyezett Adatküldő Program rendszerén (a továbbiakban: KAP) keresztül kell teljesíteni. Ez alól kivételt képez a termékismertetőre vonatkozó eseti jelentés (melléklet 9HA–9HS, F9HA–F9HS táblák), amelyet a Felügyelet Elektronikus Rendszere hitelesített Adatok fogadásához (a továbbiakban: ERA) rendszeren keresztül kell teljesíteni.
-
-(2) A Felügyelet az adatfogadó rendszerén keresztül (a feltöltött küldemény jogosultsági, az előre definiált ellenőrző szabályok teljesülésének és technikai ellenőrzésének eredménye függvényében) a beküldéstől számított 24 órán belül (a küldeményazonosító számot is tartalmazó) automatikus üzenetet küld az adatszolgáltatónak. Hibás adatszolgáltatás esetén „visszautasított”, az adatszolgáltatás sikeres teljesítése esetén pedig a KAP rendszerben „feldolgozott”, az ERA rendszerben „publikálásra vár” üzenetet kap az adatszolgáltató a Felügyelettől.
-
-A „feldolgozott”, illetve a „publikálásra vár” üzenet tekintendő a teljesítés elfogadásáról szóló tájékoztatásának.
-
-(3) Az adatszolgáltatási kötelezettség teljesítéséhez szükséges iratokat és a számviteli, nyilvántartási, informatikai rendszerekben tárolt információkat a rendszeres adatszolgáltatás esedékessége naptári évének utolsó napjától számított öt évig kell megőrizni.
