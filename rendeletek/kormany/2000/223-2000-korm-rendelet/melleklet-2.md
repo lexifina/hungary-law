@@ -262,6 +262,6 @@
 
 |  |  | 3. | Halasztott bevételek |  |  |
 
-2. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^194]
+2. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^196]
 
-[^194]: A 2. számú melléklet a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (1) bekezdésével megállapított és a 396/2007. (XII. 27.) Korm. rendelet 67. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
+[^196]: A 2. számú melléklet a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (1) bekezdésével megállapított és a 396/2007. (XII. 27.) Korm. rendelet 67. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.

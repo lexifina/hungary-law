@@ -8,6 +8,6 @@ b) áruk között kell kimutatni a továbbértékesítés céljára beszerzett i
 
 c) készletekre adott előlegként kell kimutatni az anyagok, a továbbértékesítési célú eszközök, ingatlanok beszerzésére a szállítóknak – a teljesítést megelőzően – ilyen címen átutalt, fizetett – a levonható előzetesen felszámított általános forgalmi adót nem tartalmazó – összegeket;
 
-d)[^25] áruk értékelési különbözeteként kell kimutatni a továbbértékesítés céljára beszerzett ingatlanok, valamint a tagdíjkövetelés fejében átvett, értékesíteni kívánt ingatlanok mérlegfordulónapra vonatkozóan meghatározott, könyvvizsgáló által hitelesített piaci értéke, illetve a negyedév utolsó napjára vonatkozóan – elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztár esetében naponta – meghatározott piaci értéke és könyv szerinti értéke közötti különbözet összegét.
+d)[^30] áruk értékelési különbözeteként kell kimutatni a továbbértékesítés céljára beszerzett ingatlanok, valamint a tagdíjkövetelés fejében átvett, értékesíteni kívánt ingatlanok mérlegfordulónapra vonatkozóan meghatározott, könyvvizsgáló által hitelesített piaci értéke, illetve a negyedév utolsó napjára vonatkozóan – elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztár esetében naponta – meghatározott piaci értéke és könyv szerinti értéke közötti különbözet összegét.
 
-[^25]: A 17. § (2) bekezdésének d) pontja a 396/2007. (XII. 27.) Korm. rendelet 45. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^30]: A 17. § (2) bekezdésének d) pontja a 396/2007. (XII. 27.) Korm. rendelet 45. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.

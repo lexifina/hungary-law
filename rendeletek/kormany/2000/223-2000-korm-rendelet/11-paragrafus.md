@@ -1,3 +1,3 @@
-## 10. §[^18] Az éves pénztári beszámolóban, az egyesített (összesített) éves pénztári beszámolóban, a negyedéves jelentésben az adatokat ezer forintban kell megadni.
+## 10. §[^23] Az éves pénztári beszámolóban, az egyesített (összesített) éves pénztári beszámolóban az adatokat ezer forintban kell megadni.
 
-[^18]: A 10. § a 293/2001. (XII. 26.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^23]: A 10. § a 345/2010. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
