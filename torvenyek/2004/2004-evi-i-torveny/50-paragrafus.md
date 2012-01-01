@@ -2,10 +2,14 @@
 
 (2) A Kormány kialakítja a hosszú távú sportstratégiát, fejlesztési tervet, és ennek alapján javaslatot tesz az Országgyűlésnek a sporttal kapcsolatos törvények, határozatok megalkotására, egyéb döntések meghozatalára.
 
-(3) A Kormány az Országgyűlés döntései alapján:
+(3) A Kormány:
 
-a) a költségvetésről szóló törvénnyel összhangban – figyelemmel a környezet- és természetvédelem érdekeire – meghatározza a sport állami támogatásának alapvető célkitűzéseit, rendszerét, módszereit,
+a) a költségvetésről szóló törvénnyel összhangban – figyelemmel a környezet- és természetvédelem érdekeire, valamint az egészségügyi és az esélyegyenlőséget biztosító egyéb követelményekre – meghatározza a sport állami támogatásának, valamint az állami támogatás felhasználásának és ellenőrzésének alapvető célkitűzéseit, rendszerét, módszereit,
 
-b) részt vesz a sporttal kapcsolatos nemzetközi együttműködésben, ideértve a sporttal kapcsolatos feladatokat ellátó nemzetközi szervezetek munkájában való részvételt. Előkészíti és megköti a sporttal kapcsolatos, a hatáskörébe tartozó nemzetközi szerződéseket, valamint a miniszter javaslata alapján a nemzetközi sportszervezetek által megkívánt garanciát vállal a kiemelt nemzetközi sportrendezvények (olimpia, speciális világjátékok, világbajnokság, Európa-bajnokság) magyarországi megrendezéséhez.
+b) részt vesz a sporttal kapcsolatos nemzetközi együttműködésben, ideértve a sporttal kapcsolatos feladatokat ellátó nemzetközi szervezetek munkájában való részvételt,
 
-c)
+c) előkészíti és megköti a sporttal kapcsolatos, a hatáskörébe tartozó nemzetközi szerződéseket,
+
+d) a sportpolitikáért felelős miniszter javaslata alapján a nemzetközi sportszervezetek (jogtulajdonosok) által megkívánt garanciát vállal a kiemelt nemzetközi sportrendezvények (különösen olimpia, Paralimpia, Siketlimpia és speciális világjátékok, világbajnokság, Európa-bajnokság) és sportdiplomáciai események magyarországi megrendezéséhez,
+
+e) a sportkultúra fenntartásával és fejlesztésével kapcsolatos feladatok ellátása során támogatja a határon túli magyar sportkapcsolatok fejlesztését.

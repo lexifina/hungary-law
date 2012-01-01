@@ -1,33 +1,17 @@
-## A Magyar Paralimpiai Bizottság
+40. § A MOB sportigazgatási feladatai elsősorban:
 
-40. § (1) A Magyar Paralimpiai Bizottság (a továbbiakban: MPB) köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az MPB-t a sportigazgatási szerv tartja nyilván. Az MPB jogosult a Magyar Köztársaság címerének és zászlajának használatára.
+a) kezdeményezi a sporttal kapcsolatos kormányzati intézkedések, szabályozási koncepciók megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
 
-(2) Az MPB feletti törvényességi felügyeletet az ügyészség gyakorolja.
+b) a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint ellátja a doppingellenes tevékenységgel összefüggő sportszakmai feladatait,
 
-(3) Az MPB feladatai elsősorban:
+c) ellátja az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat,
 
-a) a Nemzetközi Paralimpiai Bizottság alapszabályában és egyéb szabályzataiban a nemzeti paralimpiai bizottságok részére megállapított célkitűzések és feladatok végrehajtása,
+d) ellátja a versenyengedélyek kiadásával kapcsolatos – a nemzeti sportinformációs rendszerről szóló kormányrendeletben meghatározott – adminisztratív feladatokat, meghatározza a versenyengedély sportágaktól függetlenül egységes formáját, valamint együttműködik a sportpolitikáért felelős miniszterrel a nemzeti sportinformációs rendszer működtetésében, továbbá adatot szolgáltat a nemzeti sportinformációs rendszer részére,
 
-b) a szakszövetségekkel, sportszövetségekkel együttműködve a sportolók paralimpiai játékokra történő felkészülésének, illetve részvételének szakmai elősegítése, a paralimpiai mozgalom fejlesztése,
+e) együttműködik a sportpolitikáért felelős miniszterrel a sportszakemberek képzési, továbbképzési, valamint foglalkoztatási céljait szolgáló programok meghatározásában, segíti a sportszövetségek kötelező sportszakember-továbbképzési feladataik ellátását,
 
-c) a paralimpiai mozgalom érdekében a paralimpiai játékok jelképeinek védelme,
+f) együttműködik a sportpolitikáért felelős miniszterrel a sporttudomány fejlesztésével összefüggő szakmai feladatok ellátásában,
 
-d) a paralimpiai mozgalom eszményének jegyében az érintett ifjúság testi, erkölcsi és kulturális nevelésének segítése, a tisztességes játék (fair play) szellemében való versenyzés támogatása, fellépés a sportmozgalomra ható káros jelenségek ellen,
+g) az országos sportági szakszövetségi és az országos sportági szövetségi jogállás bírósági bejegyzését megelőzően igazolja a 20. § (4)–(5) bekezdésében és a 28. § (1)–(2) bekezdésében meghatározott feltételek fennállását,
 
-e) együttműködés az állami szervekkel, a MOB-bal és a nemzeti sportszövetségekkel a sport stratégiai fejlesztési céljainak megvalósításában.
-
-(4) Az MPB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben és a külön jogszabályban meghatározottak szerint – a következők:
-
-a) a paralimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
-
-b) a Fogyatékosok Nemzeti Sportszövetségével és a Sportegyesületek Országos Szövetségével közösen javaslatot dolgoz ki a fogyatékosok versenysportjára vonatkozó feladatokra, valamint a fogyatékosok versenysportja pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
-
-c) dönt a rendelkezésére bocsátott állami támogatásról.
-
-(5) Az MPB kizárólagosan jogosult a Nemzetközi Paralimpiai Bizottság előírásaival összhangban:
-
-a) a sportágak és a sportolók nevezésére a paralimpiai játékokra,
-
-b) a paralimpiai zászló, jelvény, jelmondat kereskedelmi vagy egyéb célú használatára, illetve ezek mások általi használatának, hasznosításának engedélyezésére.
-
-(6) Az MPB közreműködik az olimpiai központok fejlesztésében, illetve szakmai tevékenységének kidolgozásában.
+h) biztosítja a Sport Állandó Választottbíróság működési feltételeit.

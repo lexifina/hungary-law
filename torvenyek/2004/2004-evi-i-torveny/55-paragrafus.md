@@ -10,19 +10,19 @@ c) fenntartja és működteti a tulajdonát képező sportlétesítményeket,
 
 d) megteremti az önkormányzati iskolai testnevelés és sporttevékenység gyakorlásának feltételeit.
 
-(2) A helyi önkormányzat az (1) bekezdésben foglaltakon kívül – a közoktatásról szóló törvényben meghatározottak szerint – biztosítja az önkormányzati iskolai sportkörök működéséhez szükséges feltételeket.
+(2) A települési önkormányzat az (1) bekezdésben foglaltakon kívül – a köznevelésről szóló törvényben meghatározottak szerint – biztosítja az önkormányzati iskolai sportkörök működéséhez, vagy az ezek feladatait ellátó diáksport-egyesületek feladatainak zavartalan ellátásához szükséges feltételeket.
 
-(3) A megyei (fővárosi) önkormányzat az (1)–(2) bekezdésben foglaltakon túl sportszervezési feladatai körében:
+(3) A megyei és a fővárosi önkormányzat az (1)–(2) bekezdésben foglaltakon túl sportszervezési feladatai körében:
 
 a) segíti a területén tevékenykedő sportszövetségek működésének alapvető feltételeit,
 
 b) közreműködik a sportszakemberek képzésében és továbbképzésében,
 
-c) segíti a sportági és iskolai területi versenyrendszerek kialakítását, illetve az e körbe tartozó sportrendezvények lebonyolítását, különös tekintettel a családok sportjára, a hátrányos helyzetű társadalmi csoportok, valamint a fogyatékosok sportjára,
+c) segíti a sportági és iskolai területi versenyrendszerek kialakítását, illetve az e körbe tartozó sportrendezvények lebonyolítását,
 
 d) adottságainak megfelelően részt vesz a nemzetközi sportkapcsolatokban,
 
-e) ellátja az állami sportinformációs adatszolgáltatással összefüggő területi feladatokat,
+e) ellátja a nemzeti sportinformációs adatszolgáltatással összefüggő területi feladatokat,
 
 f) közreműködik a sport népszerűsítésében, a mozgásgazdag életmóddal kapcsolatos sporttudományos felvilágosító tevékenység szervezésében,
 
@@ -30,6 +30,6 @@ g) közreműködik a sportorvosi tevékenység feltételeinek biztosításában.
 
 (4) A megyei jogú városi önkormányzat illetékességi területén – adottságainak megfelelően – ellátja a (3) bekezdésben meghatározott feladatokat.
 
-(5) A helyi önkormányzatok a sporttal kapcsolatos feladataik ellátásához a költségvetési törvény szerint normatív hozzájárulásban részesülnek.
+(5) A helyi önkormányzatok – figyelemmel a 49. § d) pontjában foglaltakra is – a sporttal kapcsolatos feladataik ellátásához a költségvetési törvényben és más, a sport állami támogatásáról rendelkező jogszabályok szerinti támogatásokban részesülnek.
 
 (6) Az e törvényben meghatározott feladatai alapján a tízezernél több lakosú helyi önkormányzatok rendeletben állapítják meg a helyi adottságoknak megfelelően a sporttal kapcsolatos részletes feladatokat és kötelezettségeket, valamint a költségvetésükből a sportra fordítandó összeget.

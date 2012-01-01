@@ -1,27 +1,19 @@
-## A Nemzeti Szabadidősport Szövetség
+43. § (1) A MOB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben az alapszabályban rögzített számú helyet kell biztosítani az olimpiai sportágak országos szakszövetségei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia a MOB tagjai létszámának felét. A MOB alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy tag több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. A MOB közgyűlésének részletes összetételét a MOB alapszabálya határozza meg.
 
-43. § (1) A Nemzeti Szabadidősport Szövetség az országos szabadidősport szövetségek önkéntes részvételével működő – a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
+(2) A közgyűlés kizárólagos hatáskörébe tartozik:
 
-(2) A Nemzeti Szabadidősport Szövetség:
+a) az alapszabály megállapítása és módosítása,
 
-a) képviseli a szabadidősport, illetve tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség és más egyesületek előtt,
+b) az elnök, valamint az elnökség többi tagjának, a felügyelő szerv (felügyelőbizottság) elnökének és választott tagjainak megválasztása és visszahívása,
 
-b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki részükre,
+c) az előző évre vonatkozó szakmai és pénzügyi beszámoló, valamint a tárgyévi költségvetés (pénzügyi és szakmai terv) elfogadása,
 
-c) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányzati intézkedések megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
+d) az ügyintéző és képviseleti szerv (elnökség) éves beszámolójának elfogadása,
 
-d) részt vesz a szabadidősporttal kapcsolatos nemzetközi együttműködésben,
+e) döntés minden olyan ügyben, amelyet az alapszabály a közgyűlés kizárólagos hatáskörébe utal.
 
-e) együttműködik a sportigazgatási szervvel, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztésében,
+(3) A MOB közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
 
-f) elsősorban tagjai útján segíti az utánpótlás-nevelést.
+(4) A MOB-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül vagy közvetett úton választott testület (elnökség). A MOB elnökségének tagjai: az elnök, alelnökökként a 45. § (2) bekezdés szerinti tagozatok vezetői, valamint a MOB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet állami vezető.
 
-(3) A Nemzeti Szabadidősport Szövetség feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a szabadidősportra, a diáksportra és a főiskolai-egyetemi sportra nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben, valamint a külön jogszabályban meghatározottak szerint – a következők:
-
-a) a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
-
-b) javaslatot dolgoz ki a szabadidősport, a diáksport és a főiskolai-egyetemi sport feladataira, valamint a szabadidősport, a diáksport és a főiskolai-egyetemi sport pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
-
-c) dönt a rendelkezésére bocsátott állami támogatásról.
-
-(4) Az országos szabadidősport szövetségek alanyi jogon tagjai lehetnek a Nemzeti Szabadidősport Szövetségnek, ha annak alapszabályát elfogadják.
+(5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.

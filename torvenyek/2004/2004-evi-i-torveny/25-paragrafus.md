@@ -1,8 +1,8 @@
 25. § (1) A szakszövetség közgyűlése (küldöttgyűlése) alapszabályának felhatalmazása alapján a szakszövetség egyes szervezeti egységeit – például tagozatait, területi szervezeteit, szakágait – jogi személyiséggel ruházhatja fel. A jogi személy szervezeti egység vezetésének és működésének rendjét a szakszövetség állapítja meg. A jogi személy szervezeti egység kötelezettségeiért a szakszövetség kezesi felelősséggel tartozik.
 
-(2) Ha a szakszövetség hivatásos bajnokságot rendez, köteles hivatásos tagozatot létrehozni, és azt jogi személlyé nyilvánítani. A hivatásos tagozatban a szakszövetség minden olyan tagja részt vehet, amely indul a hivatásos bajnokságban.
+(2) Ha a szakszövetség hivatásos bajnokságot rendez, hivatásos tagozatot hozhat létre, és azt jogi személlyé nyilváníthatja. A hivatásos tagozatban a szakszövetség minden olyan tagja részt vehet, amely indul a hivatásos bajnokságban.
 
-(3) Amennyiben a szakszövetség területi (regionális, megyei, városi stb.) szervezeti egységeket hoz létre és ezeket jogi személynek nyilvánítja, a szakszövetség közgyűlése:
+(3) Amennyiben a szakszövetség területi szervezeti egységeket hoz létre és ezeket jogi személynek nyilvánítja, a szakszövetség közgyűlése:
 
 a) engedélyezheti a területre utaló (pl. ,,megyei szövetség'') elnevezés használatát a szervezeti egység részére,
 
@@ -18,6 +18,6 @@ e) lehetővé teheti, hogy más szakszövetségek (sportszövetségek) területi
 
 (5) A szakszövetség jogi személlyé nyilvánított szervezeti egysége:
 
-a) a jogi személyiségét a Fővárosi Bíróság nyilvántartásába történő bejegyzéssel szerzi meg,
+a) a jogi személyiségét a Fővárosi Törvényszék nyilvántartásába történő bejegyzéssel szerzi meg,
 
-b) nevét, székhelyét, az ügyintéző és képviseleti szervének nevét a Fővárosi Bíróság külön alszámon tartja nyilván.
+b) nevét, székhelyét, képviselőjének nevét és lakóhelyét a Fővárosi Törvényszék külön alszámon tartja nyilván.

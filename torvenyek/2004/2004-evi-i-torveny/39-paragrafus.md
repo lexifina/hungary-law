@@ -1,13 +1,29 @@
-39. § (1) A MOB tagjai azok a büntetlen előéletű magyar állampolgárok, valamint az olimpiai sportágak azon képviselői, akik elismerik és magukénak vallják az olimpiai eszmét, készek elősegíteni a MOB működését, akiket a MOB alapszabályában felsorolt szervek és szervezetek képviselőiként taggá delegálnak, illetőleg akik a MOB alapszabályában foglaltak szerint személyes jogosultság alapján válnak tagokká.
+39. § A MOB stratégiai jellegű feladatai elsősorban:
 
-(2) A MOB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben az alapszabályban rögzített számú helyet kell biztosítani az olimpiai sportágak országos szakszövetségei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia a MOB tagjai létszámának felét.
+a) a sport civil szervezetei közötti koordinációs tevékenységet végez, előkészíti a sport átfogó fejlesztési koncepcióját,
 
-(3) A MOB elnökségének tagjait a közgyűlés választja. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet állami vezető.
+b) a sport stratégiai fejlesztési céljainak meghatározásában együttműködik a sportpolitikáért felelős miniszterrel,
 
-(4) A MOB közgyűlésén a sportpolitikáért felelős miniszter, a Magyar Paralimpiai Bizottság elnöke, valamint a nemzeti sportszövetségek elnökei tanácskozási joggal vehetnek részt.
+c) figyelemmel kíséri a sportszövetségek által elkészített sportági stratégiai fejlesztési koncepciók megvalósítását,
 
-(5) A MOB rendelkezésére bocsátott állami támogatás felhasználásáról való döntés a közgyűlés kizárólagos hatáskörébe tartozik. A MOB közgyűlése köteles könyvvizsgálót választani a MOB gazdálkodásának ellenőrzésére.
+d) részt vesz a versenysporttal, az utánpótlás-neveléssel, a diák- és főiskolai-egyetemi sporttal, a fogyatékosok sportjával, valamint a szabadidősporttal kapcsolatos döntés-előkészítésben,
 
-(6) A MOB működésének részletes szabályait a NOB szabályainak, valamint e törvény és a külön jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
+e) együttműködik az állami szervekkel, valamint a civil szervezetekkel a sport stratégiai fejlesztési céljainak meghatározásában, illetve megvalósításában,
 
-(7) Az állam évente hozzájárul a MOB működési kiadásaihoz.
+f) az olimpiai mozgalom eszményének jegyében segíti az ifjúság testi, erkölcsi és kulturális nevelését, felvilágosító kampánnyal és más eszközökkel támogatja a tisztességes játék (fair play) szellemében való versenyzést, fellép a sportmozgalomra ható káros jelenségek (különösen a tiltott teljesítményfokozás, valamint a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolása és a fogadási csalás) ellen,
+
+g) meghatározza a versenyzők minősítési szintjeit – együttműködésben az országos sportági szakszövetségekkel és az országos sportági szövetségekkel –,
+
+h) a 64. § (1) bekezdésében meghatározottak szerint – elláthatja az olimpiai központokról szóló kormányrendeletben meghatározott állami tulajdonban álló sportlétesítmények vagyonkezelését,
+
+i) kidolgozza a sportolóvá válás gondozásának módszertanát a kiválasztástól a nemzetközi szintű teljesítményig,
+
+j) segíti, koordinálja a sport különböző területeinek szakmai munkáját,
+
+k) kialakítja a támogatási rendszerek minőségbiztosítási rendszerét és követelményeit,
+
+l) négyéves ciklusokban megtervezi az olimpiai, paralimpiai és siketlimpiai játékokra, valamint a világjátékokra és a speciális világjátékokra történő felkészülés, támogatás rendszerét,
+
+m) hozzájárul a nemzetközi szintű felkészülés és versenyzés feltételeinek biztosításához,
+
+n) segíti a korszerű szakmai munkához szükséges ismeretek széles körben terjesztését, azok alkalmazását.

@@ -1,27 +1,13 @@
-## A Fogyatékosok Nemzeti Sportszövetsége
+44. § (1) A MOB működését és gazdálkodását felügyelőbizottság ellenőrzi. A felügyelőbizottság elnökét és két tagját a közgyűlés választja meg és hívja vissza, egy tagját a sportpolitikáért felelős miniszter, egy tagját pedig az Országgyűlés sportért felelős bizottsága nevezi ki és hívja vissza. A felügyelőbizottság tagjainak megbízatása öt évre szól.
 
-44. § (1) A Fogyatékosok Nemzeti Sportszövetsége a fogyatékosok sportja területén működő országos sportszövetségek önkéntes részvételével működő – a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
+(2) A felügyelőbizottság – a MOB közgyűlése által elfogadott – éves ellenőrzési munkaterv alapján látja el feladatát.
 
-(2) A Fogyatékosok Nemzeti Sportszövetsége:
+(3) A felügyelőbizottság írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c)–d) pontjai szerinti beszámolókról és a MOB költségvetéséről nem dönthet. A MOB alapszabálya határozza meg a MOB közgyűlése és elnöksége elé kizárólag a felügyelőbizottság előzetes véleménye alapján terjesztendő további ügyek körét. A felügyelőbizottság feladatkörében eljárva, azzal összefüggésben a MOB irataiba betekinthet, a MOB tagjától és tisztségviselőjétől felvilágosítást kérhet.
 
-a) képviseli az állami szervek, az önkormányzatok, a további két nemzeti sportszövetség, és más egyesületek előtt a fogyatékosok sportjának érdekeit,
+(4) Ha a felügyelőbizottság a feladatai ellátása során jogszabályt, az alapszabályt, a MOB valamely testületének döntését vagy egyébként a MOB érdekeit sértő körülményt észlel, az arra jogosult számára intézkedési javaslatot tesz, illetve jogosult – jogszabály vagy az alapszabály megsértése esetén köteles – a napirend megjelölésével a közgyűlés összehívását kezdeményezni.
 
-b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki tagjai részére,
+(5) A felügyelőbizottság – az alapszabály vonatkozó rendelkezéseire figyelemmel – maga állapítja meg működésének részletes szabályait, amit a közgyűlés hagy jóvá.
 
-c) részt vesz a fogyatékosok nemzetközi sportszervezeteinek tevékenységében,
+(6) A MOB elnökségének tagjai és azok Polgári Törvénykönyv szerinti közeli hozzátartozói nem lehetnek a felügyelőbizottság tagjai. Az alapszabály az összeférhetetlenség további eseteit is megállapíthatja, valamint rendelkezik az összeférhetetlenségi ok felmerülése esetén követendő eljárásról.
 
-d) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányzati intézkedések megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
-
-e) az érintett sportszövetségekkel együttműködve elősegíti és koordinálja a magyar sportolóknak a speciális világjátékokon való részvételét,
-
-f) együttműködik a sportigazgatási szervvel, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztése érdekében.
-
-(3) A Fogyatékosok Nemzeti Sportszövetsége feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a fogyatékosok sportjára nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvény és a külön jogszabályban meghatározottak szerint – a következők:
-
-a) a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
-
-b) az MPB-vel közösen javaslatot dolgoz ki a fogyatékosok sportja feladataira, valamint a fogyatékosok sportja pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
-
-c) dönt a rendelkezésére bocsátott állami támogatásról.
-
-(4) A fogyatékosok országos sportszövetségei alanyi jogon lehetnek tagjai a Fogyatékosok Nemzeti Sportszövetségének, ha annak alapszabályát elfogadják.
+(7) A MOB gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c)–d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.

@@ -1,14 +1,14 @@
 33. § (1) Nem vehet részt a versenyrendszerben (nem nevezhet a bajnokságba) a 32. § (1) bekezdésében foglalt eseten túlmenően:
 
-a) az a sportvállalkozás, illetve az a sportegyesület, amellyel szemben a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló törvény szerint csőd- vagy felszámolási eljárás van folyamatban,
+a) az a sportvállalkozás, sportegyesület, sportszövetség, amellyel szemben a bíróság elrendelte a sportszervezet felszámolását, továbbá amely sportszervezet végelszámolás vagy kényszer-végelszámolás alatt áll,
 
-b) az a sportegyesület, amely elhatározta feloszlását, illetve amellyel szemben az ügyészség a sportegyesület feloszlatására irányuló kérelmet nyújtott be a bírósághoz,
+b) az a sportegyesület, sportszövetség, amely elhatározta feloszlását.
 
 c) az a sportvállalkozás, amelynél végelszámolási eljárás indult.
 
 (2) A versenyrendszerben (bajnokságban) való indulás (nevezés) joga nem ruházható át, az erre irányuló szerződés semmis. E rendelkezés alól kivételt képez, ha:
 
-a) a sportegyesület hivatásos versenyrendszerben (bajnokságban) való részvétel céljából gazdasági társaságot alapít (abban tagként részt vesz), és az indulási jogot erre a társaságra ruházza át,
+a) a sportegyesület versenyrendszerben (bajnokságban) való részvétel céljából gazdasági társaságot alapít (abban tagként részt vesz), és az indulási jogot erre a társaságra ruházza át,
 
 b) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, köztartozása nincs, és az indulási jogát a tagjaként működő sportegyesületre ruházza át.
 

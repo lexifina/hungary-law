@@ -6,7 +6,7 @@
 
 77. § E törvény alkalmazásában:
 
-a) állami sportinformációs rendszer: a sportolókra, a sportszervezetekre, a sportköztestületekre, a, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak az állam által rendszerezett és nyilvánosan hozzáférhetővé tett összessége,
+a) nemzeti sportinformációs rendszer: a sportolókra, a sportszervezetekre, a sportköztestületekre, a, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak az állam által rendszerezett és nyilvánosan hozzáférhetővé tett összessége,
 
 b) edző: a külön jogszabályban meghatározott szakképesítéssel rendelkező természetes személy, aki a sportolónak a sporttevékenységre való felkészítését végzi,
 
@@ -18,7 +18,7 @@ e) fogyatékos személy: a mozgáskorlátozott, az értelmi fogyatékos, a siket
 
 f) játékjog: a sportoló sporttevékenységéhez fűződő fizikai és szellemi képességei sporttevékenység keretében történő felhasználásának joga,
 
-g)
+g) speciális világjátékok: a Speciális Olimpia, a Siketlimpia és a Szervátültetettek Világjátékai,
 
 h) kommunikációs akadálymentesítés: annak biztosítása, hogy a fogyatékos személy a sportrendezvény helyszínén az információhoz hozzáférhessen, azt érzékelhesse és megfelelően értelmezhesse,
 
@@ -26,20 +26,28 @@ i) közterület: a mindenki számára korlátozás nélkül igénybe vehető ter
 
 j) nyilvános hely: az olyan épület, építmény vagy a közterületnek sportrendezvény megtartása céljából lezárt része, ahová a sportrendezvény szervezője által meghatározott feltételek mellett bárki bemehet vagy ott tartózkodhat,
 
-k) országos jellegű szervezet a szabadidősport és a fogyatékosok sportja területén: a szervezet közhasznúnak minősül, és legalább 8 megyére kiterjedően, országosan legalább 20 jogi személy taggal működik,
+k) országos jellegű szervezet a szabadidősport, a fogyatékosok sportja, a diák- és a főiskolai-egyetemi sport területén: a szervezet közhasznúnak minősül, és legalább 7 megyében székhellyel rendelkező, országosan legalább 20 jogi személy taggal működik,
 
 l) speciális világjátékok: a Paralimpia, a Speciális Olimpia, a Siketlimpia és a Szervátültetettek Világjátékai,
 
-m) sportiskola: az a költségvetési szerv vagy közhasznú társaság, amely utánpótlás-nevelést végez, valamint az az iskola, amely a Kt. alapján közreműködik az utánpótlás nevelésében,
+m) sportiskola: az a köznevelési intézmény, jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány, amely az alábbiak szerint utánpótlás-nevelési feladatokat lát el vagy közreműködik azok ellátásában:
+
+ma) köznevelési típusú sportiskola: az a köznevelésről szóló törvény hatálya alá tartozó, évfolyamos vagy korcsoportos sportági képzést biztosító köznevelési intézmény, amely a helyi pedagógiai programját – az országos sportági szakszövetség, illetve országos sportági szövetség vagy fogyatékosok országos sportszövetségének szakmai javaslata alapján, az országos sportági szakszövetség, az országos sportági szövetség, vagy a fogyatékosok országos sportszövetsége és a köznevelési típusú sportiskola közötti együttműködési megállapodásban foglaltakra is figyelemmel – sportiskolai kerettanterv alapján készíti el, és biztosítja a testnevelés tantárgy emelt szintű oktatását, valamint a helyi pedagógiai programja összeállítása során figyelemmel van a sportolók felkészítési és versenyeztetési tevékenységére, továbbá a sportági programok megvalósításával kapcsolatos felkészítéssel és versenyeztetéssel összefüggő feladatait jogi személy nonprofit gazdasági társasággal, sportegyesülettel, sportvállalkozással vagy utánpótlás-nevelés fejlesztését végző alapítvánnyal fennálló együttműködési megállapodás alapján végzi,
+
+mb) egyesületi jellegű sportiskola: az a korcsoportos sportági képzést biztosító jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány (utánpótlás akadémia), amely köznevelési intézménnyel, a MOB-bal, országos sportági szakszövetséggel, országos sportági szövetséggel, vagy fogyatékosok országos sportszövetségével kötött együttműködési megállapodás alapján vesz részt az utánpótlás-nevelési feladatok ellátásban, sportolók magas szintű felkészítésében és versenyeztetésében, vagy közreműködik az utánpótlás-nevelési feladat-ellátás feltételeinek biztosításában.
 
 n) sportrendezvény helyszíne: az a nyilvános hely vagy a közterület meghatározott része, ahol a sportrendezvényt megtartják, és ahol néző tartózkodhat,
 
 o) sportrendezvény résztvevője: az a természetes személy, aki a sportrendezvény helyszínén annak időtartama alatt, valamint a sportrendezvényt megelőzően vagy követően másfél órával tartózkodik. A néző (szurkoló) résztvevőnek minősül,
 
-p) sportszakember: az a természetes személy, aki a KSH elnökének a foglalkozások egységes osztályozási rendszeréről (FEOR) szóló 9029/1993. (SK 1994. 1.) KSH közlemény szerinti szakképesítéssel rendelkezik, illetve a sportszervezettel munkaviszonyban, vagy polgári jogi jogviszonyban sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el. Sportszakember különösen az edző, a csapatvezető, a mérkőzésvezető, a versenybíró, a sportorvos, a gyúró. A sportszövetség szabályzatában határozza meg, hogy az adott sportágban kik minősülnek sportszakembernek,
+p) sportszakember: az a természetes személy, aki a KSH elnökének a Foglalkozások Egységes Osztályozási Rendszeréről (FEOR) szóló 7/2010. (IV. 23.) KSH közleménye szerinti sport-foglalkozást folytat, vagy a sportszervezettel, sportszövetséggel munkaviszonyban vagy polgári jogi jogviszonyban sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, sportszakembernek minősül továbbá a sportszervezet és a sportszövetség ügyintéző és képviseleti szervének vezetője. Sportszakember különösen a versenyző felkészítését végző vagy azzal kapcsolatba hozható edző, a csapatvezető, a mérkőzésvezető, a versenybíró, a sportegészségügyi szakember (pl. sportorvos, sportpszichológus, gyúró, masszőr). A sportszövetség szabályzatában határozza meg, hogy az adott sportágban kik minősülnek további sportszakembernek.
 
 q) versenyrendszer: a sportág nemzetközi szövetsége és a hazai szakszövetség, illetve országos sportági szövetség – kivéve a szabadidősport szövetség – által meghatározott szabályok szerint szervezett fizikai vagy szellemi sportteljesítményt mérő erőpróba. A bajnokság versenyrendszernek minősül. A versenyrendszer hivatásos, amatőr és vegyes (nyílt) rendszerű lehet,
 
 r) versenyszabályzat: a versenyrendszer keretében folytatott sporttevékenységre és az ahhoz közvetlenül kapcsolódó szakmai tevékenységekre vonatkozó előírások rendszerbe foglalt összessége, amely a versenyrendszerben részt vevő sportolók, sportszervezetek, sportszakemberek általános és sportági kötelezettségein túlmenően tartalmazza a versenyrendszert működtető sportszövetség eljárásának szabályait is;
 
 s) sportlétesítmény: sportrendezvény megrendezésének helyszínéül szolgáló építmény és terület.
+
+t) utánpótlás-nevelés fejlesztését végző alapítvány: alapító okiratában meghatározott tartós közérdekű cél szerinti tevékenysége – elsősorban utánpótláskorú versenyzőkkel kapcsolatos – sporttevékenység elősegítése, feltételeinek biztosítása, felkészítő (edzéssel összefüggő) és versenyeztetési feladatok szervezése.
+
+u) sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés. A sportesemény sportrendezvénynek minősül.

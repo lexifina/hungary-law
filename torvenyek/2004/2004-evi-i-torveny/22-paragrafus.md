@@ -10,11 +10,13 @@ d) működtetni a nemzeti válogatott kereteket, elősegíteni a sportágához t
 
 e) meghatározni a sportág stratégiai fejlesztési koncepcióit (ideértve az utánpótlás-nevelés fejlesztését is) és gondoskodni ezek megvalósításáról,
 
-f) képviselni a sportág érdekeit az állami szervek, a Nemzeti Sportszövetség, a Magyar Olimpiai Bizottság, a többi sportszövetség, illetve más egyesületek előtt, valamint a nemzetközi sportéletben,
+f) képviselni a sportág érdekeit az állami szervek, a MOB és annak szakmai tagozatai, a többi sportszövetség, más egyesületek, szövetségek előtt, valamint a nemzetközi sportéletben,
 
 g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését,
 
-h) meghatározni a sportág utánpótlás-fejlesztési koncepcióját és gondoskodni annak végrehajtásáról.
+h) meghatározni a sportág utánpótlás-fejlesztési koncepcióját és gondoskodni annak végrehajtásáról,
+
+i) a 23. § (1) bekezdés d) pontja szerinti szabályzatában meghatározottak alapján ellenőrizni az adott sportág versenyrendszerében szervezett, vagy versenynaptárában egyébként szereplő sportrendezvények biztonságos lebonyolítását.
 
 (2) A szakszövetség ellátja az alapszabályában, a sportága nemzetközi szövetségének szabályzataiban, illetve a jogszabályokban meghatározott feladatokat. Ennek keretében különösen:
 
@@ -38,10 +40,14 @@ fc) kezdeményezi a sportigazgatási szervnél a Tao. 22/C. § (6) bekezdés a) 
 
 fd) az fa)–fb) alpontban meghatározott feladatai ellátása során kapcsolatot tart a sportigazgatási szervvel, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a sportigazgatási szervet az általa kiadott támogatási igazolásokról,
 
+g) sportágában elláthatja a sportág fogyatékosok sportjával összefüggő feladatait, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
+
+h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni.
+
 (3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatóság eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései alapján.
 
 (4) A látvány-csapatsportban működő szakszövetség által a (2) bekezdés f) pont fa) és fb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
 (5) A (2) bekezdés f) pontja alapján végzett közigazgatási hatósági feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-(6) A sportág céljainak elérése érdekében a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.
+(6) A sportág céljainak elérése érdekében – összhangban a sportág stratégiai fejlesztési koncepciójában foglaltakkal – a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a versenyrendszer (bajnokság) kiírásával, szervezésével, lebonyolításával, valamint a versenyrendszerben (bajnokságban) szervezett sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.

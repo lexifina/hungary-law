@@ -1,4 +1,4 @@
-13. § (1) Sportfegyelmi eljárást lehet lefolytatni a sportszervezettel szemben, ha a sportszövetség alapszabályában, illetve más szabályzataiban meghatározott előírásokat vétkesen megszegi.
+13. § (1) Sportfegyelmi eljárást kell lefolytatni a sportszervezettel szemben, ha a sportszövetség alapszabályában, illetve más szabályzataiban meghatározott előírásokat megszegi.
 
 (2) A sportszövetség a sportfegyelmi eljárást tagjaival, illetve az általa kiírt vagy szervezett versenyen (versenyrendszerben) részt vevő sportszervezettel szemben folytathatja le.
 
@@ -12,9 +12,9 @@ c) a rendezői létszám felemelésére kötelezés,
 
 d) sportszövetségi ellenőr fogadására és eljárási költségeinek viselésére kötelezés,
 
-e) a sportrendezvény nézők nélkül, zárt sportlétesítményben történő megtartásának előírása vagy szektor lezárásának elrendelése, mindkettő legfeljebb hathónapi időtartamra,
+e) a sportrendezvény nézők nélkül, zárt sportlétesítményben történő megtartásának előírása vagy szektor lezárásának elrendelése, mindkettő legfeljebb tizenkét havi időtartamra,
 
-f) a pályaválasztási jog legfeljebb hat hónapra történő megvonása,
+f) a pályaválasztási jog legfeljebb tizenkét hónapra történő megvonása,
 
 g) a mérkőzés eredményének megsemmisítése, bajnoki pontok levonása,
 
@@ -26,7 +26,7 @@ j) sportoló igazolásához (átigazolásához) való jog megvonása, legfeljebb
 
 k) a versenyrendszer alacsonyabb osztályába sorolás, abban az esetben, ha az adott versenyrendszerben (hivatásos, vegyes, amatőr) van alacsonyabb osztály,
 
-l) meghatározott számú (legfeljebb öt) versenyből vagy versenyrendszerből (hivatásos, vegyes, amatőr) történő kizárás legfeljebb egy évre,
+l) meghatározott számú versenyből vagy a – hivatásos, vegyes vagy amatőr – versenyrendszerből, bajnokság egészéből történő – akár végleges időtartamú – kizárás,
 
 m) a sportszövetségi eljárás költségeinek viselésére kötelezés,
 

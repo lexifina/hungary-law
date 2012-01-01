@@ -1,6 +1,6 @@
 ## A sportági szövetségek
 
-28. § (1) A sportági szövetség az Et. alapján működő egyesületek szövetsége, amelynek tagjai kizárólag sportszervezetek, sportiskolák lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
+28. § (1) A sportági szövetség a Civil tv. alapján – az e törvényben meghatározott eltérésekkel – működő szövetség, amelynek tagjai kizárólag sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
 
 (2) A szakszövetségnek az e törvényben és a külön jogszabályokban meghatározott feladatait az országos sportági szövetség akkor láthatja el, ha nem felel meg a 20. § (4)–(5) bekezdésében meghatározott feltételeknek és:
 
@@ -18,8 +18,10 @@ f) szerepel az illetékes bíróság egyesületi nyilvántartásában, és alaps
 
 (3) Az országos sportági szövetséget megfelelően megilletik és terhelik a szakszövetségekre e törvényben és más jogszabályokban meghatározott jogok és kötelezettségek.
 
-(4) Az országos sportági szövetség felvételét kérheti a Nemzeti Sportszövetségbe.
+(4) Az országos sportági szövetség felvételét kérheti a MOB-ba.
 
-(5) A sportági szövetség állami támogatásban részesíthető.
+(5) Az országos sportági szövetség közvetlenül is részesíthető állami támogatásban.
 
 (6) Ha a sportági szövetség a (2) bekezdésben meghatározott feltételeknek megfelelő országos sportági szövetség, ezt a bírósági nyilvántartásban kifejezetten fel kell tüntetni.
+
+(7) Az országos sportági szövetség megszűnése esetén a 27. § (3) bekezdését megfelelően alkalmazni kell.

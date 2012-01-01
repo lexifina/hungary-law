@@ -20,21 +20,25 @@ bf) a sport területén képesítéshez kötött tevékenységek gyakorlására 
 
 bg) a sportorvoslás szabályaira és a sportegészségügyi hálózatra vonatkozó részletes szabályokat,
 
-bh) az állami sportinformációs rendszerre vonatkozó részletes szabályokat és
+bh) a nemzeti sportinformációs rendszerre vonatkozó részletes szabályokat és
 
-bi) a Magyar Köztársaság területén rendezett gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó részletes szabályokat,
+bi) a Magyarország területén rendezett gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó részletes szabályokat,
 
-bj) a biztonságtechnikai fejlesztésre kötelezettek körét, és
+bj) az 57/A. § szerinti támogatás mértékét, a támogatásban részesíthető személyek körét és feltételeit, valamint a támogatás nyújtásának eljárásrendjét,
 
-bj) az 57/A. § szerinti támogatás mértékét, a támogatásban részesíthető személyek körét és feltételeit, valamint a támogatás nyújtásának eljárásrendjét.
+bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkozó részletes szabályokat,
 
-bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkozó részletes szabályokat.
+bl) a biztonságtechnikai fejlesztésre kötelezettek körét, és
+
+bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosításra vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 a) az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény 5. §-ának (5) bekezdésében meghatározott méltányossági hozzájárulás iránti kérelemhez csatolandó okiratok, tervek és adatok körét, valamint a méltányossági eljárás szabályait,
 
-b)
+b) a sportági stratégiai fejlesztési koncepciók egységes követelményrendszerét,
+
+c) az amatőr és a hivatásos sportolói versenyengedély kiadásának feltételeit.
 
 (3) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg
 

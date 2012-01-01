@@ -8,11 +8,11 @@
 
 a) meghatározza a szervezett formában történő sporttevékenység gyakorlásának jogszabályi feltételeit,
 
-b) gondoskodik – a közoktatásról szóló törvényben meghatározottak szerint – a mindennapos testedzés feltételeinek megteremtéséről a közoktatásban, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
+b) gondoskodik – a köznevelésről szóló törvényben meghatározottak szerint – a mindennapos testedzés feltételeinek megteremtéséről a közoktatásban, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
 
 c) elősegíti az egészséges életmód és a szabadidősport gyakorlása feltételeinek megteremtését,
 
-d) részt vesz a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a főiskolai-egyetemi sport, a szabadidősport és a fogyatékosok sportja finanszírozásában,
+d) az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, valamint az állami sportcélú támogatásokról szóló miniszteri rendeletben meghatározottak szerint – elsősorban a sportfejlesztési programokon alapuló támogatás előtérbe helyezésével, pályázati úton történő források rendelkezésre bocsátásával – részt vesz a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a főiskolai-egyetemi sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok finanszírozásában,
 
 e) az esélyegyenlőség jegyében támogatja a gyermek- és ifjúsági sportot, a nők és a családok sportját, a hátrányos helyzetű társadalmi csoportok, valamint a fogyatékosok sportját,
 
@@ -20,22 +20,22 @@ f) korlátozza a sport önveszélyeztető, káros megnyilvánulását és ellen�
 
 g) ösztönzi a sportpiac kialakulását és működését,
 
-h) a környezet- és természetvédelmi, egészségügyi és az esélyegyenlőséget biztosító egyéb követelmények figyelembevételével sportrendezvények lebonyolítására alkalmas létesítményeket hoz létre,
+h) a környezet- és természetvédelmi, egészségügyi és az esélyegyenlőséget biztosító egyéb követelmények figyelembevételével sportrendezvények lebonyolítására alkalmas létesítményeket hoz létre a létesítményfejlesztés tervezése és végrehajtása során a sport-világesemények (olimpia, Paralimpia, Siketlimpia, világbajnokságok, Európa-bajnokságok) és kiemelt sportdiplomáciai események (nemzetközi sportszövetségi, sporttudományi kongresszusok) megrendezésére is alkalmas sportinfrastruktúra kialakításának lehetőségére is figyelemmel,
 
-i) gondoskodik az állami tulajdonban lévő sportlétesítmények fenntartásától és rendeltetésszerű hasznosításáról,
+i) gondoskodik az állami tulajdonban lévő sportlétesítmények fenntartásától, fejlesztéséről és rendeltetésszerű hasznosításáról,
 
-j) támogatja a nem állami tulajdonban lévő sportlétesítmények építését, karbantartását, korszerűsítését, akadálymentesítését, illetve fejlesztését,
+j) elősegíti a nem állami tulajdonban lévő sportlétesítmények építését, karbantartását, korszerűsítését, akadálymentesítését, illetve fejlesztését,
 
 k) gondoskodik a sportrendezvényeken a közbiztonságról, hozzájárul a sportrendezvények biztonságos lebonyolításához,
 
 l) részt vesz a sporttal kapcsolatos nemzetközi együttműködésben,
 
-m) támogatja az olimpiai mozgalmat, a Magyar Köztársaság sportolóinak, sportszervezeteinek részvételét az olimpiákon és más, kiemelkedő jelentőségű nemzetközi sportversenyeken, ideértve a speciális világjátékokat, valamint a fogyatékosok más kiemelkedő jelentőségű nemzetközi sportversenyeit is,
+m) támogatja az olimpiai, a paralimpiai és siketlimpiai mozgalmat, Magyarország sportolóinak részvételét az olimpiákon, paralimpiákon, és siketlimpiákon és más, az épek és fogyatékosok sportjának kiemelkedő jelentőségű nemzetközi sportversenyein,
 
 n) támogatja a sportszakember-képzést és a sporttal kapcsolatos tudományos tevékenységet, elősegíti a testkulturális felsőoktatás feltételeinek biztosítását,
 
 o) fenntartja a sportegészségügy állami intézményeit és országos hálózatát, támogatja a sportorvosi tevékenységet,
 
-p) működteti az állami sportinformációs rendszert,
+p) biztosítja a nemzeti sportinformációs rendszer működésének feltételeit,
 
 q) támogatja a testkultúra fejlesztését szolgáló és sporttudományi képzést.

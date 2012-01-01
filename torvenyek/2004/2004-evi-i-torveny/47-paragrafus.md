@@ -6,7 +6,9 @@ a) a sportszövetségek és tagjaik, illetve a tagok egymás közötti – a spo
 
 b) a sportszövetségek, illetve a sportolók és a sportszakemberek közötti sporttal kapcsolatos jogvitákban,
 
-c) a sportszervezetek, illetve a sportolók és a sportszakemberek közötti sporttal kapcsolatos jogvitákban.
+c) a sportszervezetek, illetve a sportolók és a sportszakemberek közötti sporttal kapcsolatos jogvitákban,
+
+d) a MOB, valamint a tagjai közötti, sporttal kapcsolatos jogvitákban.
 
 (2) A Sport Állandó Választottbíróság az érintett sportoló, sportszakember, sportszervezet, valamint sportszövetség kérelmére eljárhat a versenyengedély kiadására és visszavonására vonatkozó, igazolási és átigazolási, továbbá sportfegyelmi, valamint az indulási joggal kapcsolatos ügyekben is, ha ezekben a 3. § (6) bekezdése, a 14. § (2) bekezdése, illetve a 33. § (4) bekezdése alapján bírósági eljárásnak van helye.
 
@@ -20,6 +22,6 @@ a) a kérelemnek helyt adva a sportszövetség határozatát, vagy hatályon kí
 
 b) a kérelmet elutasítani.
 
-(6) A Sport Állandó Választottbíróság a Nemzeti Sportszövetség keretén belül működik. Elnökét és legalább 15 tagját a Nemzeti Sportszövetség elnöksége négy évre választja meg a jogi szakvizsgával és legalább öt év joggyakorlattal rendelkező, a sport területén tapasztalatokkal rendelkező jogászok közül. A Sport Állandó Választottbíróság két tagját az elnökség a MOB javaslatára választja meg.
+(6) A Sport Állandó Választottbíróság a MOB keretén belül működik. Elnökét és legalább tizenöt tagját a MOB elnöksége négy évre választja meg a jogi szakvizsgával és legalább öt év joggyakorlattal rendelkező, a sport területén tapasztalatokkal rendelkező jogászok közül.
 
-(7) A Sport Állandó Választottbíróság eljárási szabályzatát maga állapítja meg. A szabályzat hatálybalépéséhez a Nemzeti Sportszövetség elnökségének – az igazságügyért felelős miniszter véleménye alapján hozott – előzetes jóváhagyása szükséges.
+(7) A Sport Állandó Választottbíróság eljárási szabályzatát maga állapítja meg. A szabályzat hatálybalépéséhez a MOB elnökének előzetes jóváhagyása szükséges.

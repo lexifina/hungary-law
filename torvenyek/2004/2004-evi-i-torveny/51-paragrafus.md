@@ -1,20 +1,20 @@
-51. § (1) A sport irányításával, szabályozásával és ellenőrzésével kapcsolatos, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a miniszter – a (3) bekezdésben meghatározottakra is figyelemmel – a sportigazgatási szerv útján gondoskodik.
+51. § (1) A sport irányításával, szabályozásával és ellenőrzésével kapcsolatos, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a miniszter gondoskodik.
 
-(2) A sportigazgatási szerv:
+(2) A sportpolitikáért felelős miniszter:
 
-a) előkészíti a sporttal kapcsolatos kormányzati döntéseket,
+a) A MOB által a sport valamennyi területére nézve előkészített, a sport állami támogatásának is alapjául szolgáló sportfejlesztési stratégia, és a sportszövetségek által elkészített, a MOB egyes szakmai tagozatai által összehangolt, a MOB-on keresztül a sportpolitikáért felelős minisztériumhoz benyújtott sportágfejlesztési tervek alapján előkészíti a sporttal kapcsolatos kormányzati döntéseket,
 
-b) az 56. § (3) bekezdésében foglaltakra is figyelemmel ellátja a sportcélú központi állami pénzeszközök elosztásával kapcsolatos, e törvényben és külön jogszabályokban meghatározott feladatokat, meghatározza a pénzeszközök elosztásának részletes előírásait, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről,
+b) az 56. § (3) bekezdésében foglaltakra is figyelemmel ellátja a sportcélú központi állami pénzeszközök tervezésével, elosztásával kapcsolatos, e törvényben és az államháztartás működésére, valamint az állami sportcélú támogatásra vonatkozó jogszabályokban meghatározott feladatokat, – a MOB-bal történő, e törvényben meghatározott együttműködés alapján – meghatározza a pénzeszközök elosztásának részletes előírásait, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről,
 
 c) gondoskodik a sporttal kapcsolatos kormányzati döntések végrehajtásáról,
 
 d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 
-e) együttműködik az Országos Területfejlesztési Tanáccsal, a regionális fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, illetve a térségi fejlesztési tanácsokkal,
+e) együttműködik az Országos Területfejlesztési Tanáccsal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal és a térségi fejlesztési tanácsokkal,
 
-f) együttműködik a MOB-bal, az MPB-vel és a nemzeti sportszövetségekkel, valamint kapcsolatot tart a és a sport területén működő érdekképviseleti szervekkel,
+f) együttműködik a MOB-bal, valamint kapcsolatot tart a sport területén működő civil, érdek-képviseleti szervekkel,
 
-g) ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási feladatokat:
+g) – a (2a) bekezdésben foglaltakra is figyelemmel – ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási feladatokat:
 
 ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
 
@@ -36,13 +36,37 @@ gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támo
 
 h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket,
 
-i) programokat dolgoz ki a szabadidő-, a gyermek- és ifjúsági sportnak, a nők és a családok sportjának, a fogyatékosok sportjának, a hátrányos helyzetű társadalmi csoportok sportjának, a köz- és felsőoktatás sportjának, valamint a sportpiac fejlődésének a támogatására, e programokban biztosítja az esélyegyenlőséget, a programok kidolgozását a népegészségügyi érdekek hatékony érvényesítése céljából az illetékes minisztériummal együttműködésben végzi,
+i) a MOB-bal együttműködve programokat dolgoz ki
 
-j) kialakítja és működteti az állami sportinformációs rendszert,
+ia) a versenysportnak,
 
-k) közreműködik a sportszakember-képzésben és -továbbképzésben, a miniszter hatáskörébe tartozó feladatok teljesítésében, valamint a sport szakmai (oktatási, továbbképzési, kutatási, sporttudományos, sportegészségügyi) hátterének biztosítása érdekében együttműködik az e feladatokat ellátó intézmények felügyeletét ellátó minisztériumokkal,
+ib) az utánpótlás-nevelésnek,
 
-l) ellátja a részére jogszabályban, valamint a Kormány által meghatározott egyéb feladatokat.
+ic) a diák- és főiskolai-egyetemi sportnak,
+
+id) a fogyatékosok sportjának,
+
+ie) a szabadidősportnak (ideértve különösen a gyermek- és ifjúsági sport, a nők és a családok sportja, a munkahelyi sport, a hátrányos helyzetű társadalmi csoportok sportja és a szenior sport),
+
+if) a sportszakemberek képzésének és kötelező továbbképzésének,
+
+ig) a sportkultúra fenntartásának és a határon túli magyar sportkapcsolatok ápolásának, fejlesztésének,
+
+ih) a sport szakmúzeumi rendszere fenntartása biztosításának,
+
+ii) a sportpiac fejlődésének,
+
+ij) a sport egyéb területeinek
+
+támogatására és e programokban elősegíti az esélyegyenlőséget, továbbá a programok kidolgozását a népegészségügyi érdekek hatékony érvényesítése céljából az illetékes miniszterekkel együttműködve végzi,
+
+j) biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását,
+
+k) közreműködik a sportszakember-képzésben és -továbbképzésben a hatáskörébe tartozó feladatok teljesítésében, valamint a sport szakmai (oktatási, továbbképzési, kutatási, sporttudományos, sportegészségügyi) hátterének biztosítása érdekében együttműködik az e feladatokat ellátó intézmények felügyeletét ellátó minisztériumokkal,
+
+l) a MOB-bal együttműködésben meghatározza az állami sportcélú támogatásban részesülő kiemelkedő jelentőségű sportegészségügyi és sporttudományos feladatokat, javaslatot tesz a sportegészségügyi és a sporttudományos feladatok ellátásának szervezeti kereteire, és figyelemmel kíséri a feladatok megvalósítását.
+
+(2a) Az (1) bekezdés g) pontjában meghatározott feladatot a sportpolitikáért felelős miniszter az irányítása alatt álló, a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló kormányrendelet vonatkozó rendelkezéseire figyelemmel meghatározott sportigazgatási szerv útján látja el.
 
 (3) A (2) bekezdés g) pontja alapján végzett közigazgatási hatósági és szolgáltatási feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 

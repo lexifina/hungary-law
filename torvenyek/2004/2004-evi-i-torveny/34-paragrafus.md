@@ -12,6 +12,6 @@ d) előírhatja a sportszervezet előző évi pénzügyi beszámolójának, ille
 
 e) előírhatja, hogy a sportszervezet köteles a sportszövetség könyvvizsgálójának betekintést biztosítani a sportszervezet könyveibe, illetve köteles felhatalmazást adnia az adóhatóság és a számláját vezető pénzforgalmi szolgáltató számára, hogy a sportszervezet köztartozásairól, és pénzügyi forgalmáról – annak kérelmére – a sportszövetség könyvvizsgálóját tájékoztassa.
 
-(3) A sportszövetség hivatásos, illetve vegyes (nyílt) versenyrendszerére vonatkozó szabályzatában meghatározhatja a hivatásos sportoló részére a sportszervezet részéről fizethető munkabér és egyéb juttatások együttes felső határát, továbbá a részére fizethető igazolási, valamint átigazolási juttatások legmagasabb mértékét, és a sportszervezet adott sportágban tevékenykedő összes hivatásos sportolója részére fizethető valamennyi juttatás felső határát.
+(3) A sportszövetség hivatásos, illetve vegyes (nyílt) versenyrendszerére vonatkozó szabályzatában meghatározhatja a hivatásos sportoló részére a sportszervezet részéről fizethető munkabér vagy megbízási díj és egyéb juttatások együttes alsó és felső határát, továbbá a részére fizethető igazolási, valamint átigazolási juttatások legalacsonyabb és legmagasabb mértékét, és a sportszervezet adott sportágban tevékenykedő összes hivatásos sportolója részére fizethető valamennyi juttatás alsó és felső határát.
 
-(4) A sportszövetség hivatásos tagozata a hivatásos sportolók érdekképviseletét ellátó szakszervezettel kollektív szerződést köthet.
+(4) A sportszövetség a hivatásos sportolók érdekképviseletét ellátó szakszervezettel kollektív szerződést köthet.

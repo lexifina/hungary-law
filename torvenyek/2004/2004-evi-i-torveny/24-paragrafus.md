@@ -1,8 +1,8 @@
-24. § (1) A szakszövetség szervezeti felépítésére az Et. előírásait a következő eltérésekkel kell alkalmazni:
+24. § (1) A szakszövetség szervezeti felépítésére a Civil tv. előírásait a következő eltérésekkel kell alkalmazni:
 
 a) a szakszövetség legfelsőbb szerve a tagok képviselőiből álló közgyűlés. A szakszövetség alapszabályának rendelkezése alapján a közgyűlés hatáskörét küldöttgyűlés is gyakorolhatja. A küldöttek számát és a küldöttválasztás módját az alapszabályban kell megállapítani,
 
-b) amennyiben ezt az alapszabály lehetővé teszi – az arányosság elvének betartásával –, egy tagszervezet több képviselőt, illetve küldöttet is küldhet a közgyűlésre, illetve a küldöttgyűlésre,
+b) amennyiben ezt az alapszabály lehetővé teszi, egy tagszervezet több képviselőt, illetve küldöttet is küldhet a közgyűlésre, illetve a küldöttgyűlésre,
 
 c) a közgyűlést (küldöttgyűlést) a szakszövetség ügyintéző-képviselő szervének (elnökségének) évente legalább egyszer össze kell hívnia, amelyen meg kell tárgyalni az elnökség szakmai, illetve az Sztv. szerinti pénzügyi beszámolóját, valamint a tárgyévre vonatkozó szakmai és pénzügyi tervét, és amennyiben a szakszövetség közhasznú szervezet, úgy közhasznúsági jelentését is,
 
@@ -22,7 +22,7 @@ e) a szakszövetség más szakszövetségekkel való egyesülésének, illetve s
 
 f) a szakszövetség szervezeti egységei jogi személlyé nyilvánítása,
 
-g) gazdasági társaság alapításáról, illetve gazdasági társaságban való részvételről szóló döntés,
+g)
 
 h) a szakszövetség önkéntes feloszlásának kimondása, rendelkezés a fennmaradó vagyonról,
 
@@ -32,6 +32,6 @@ j) mindaz, amit e törvény, más jogszabály, illetve az alapszabály a közgy�
 
 (3) A közgyűlés (küldöttgyűlés) akkor határozatképes, ha a tagok képviselőinek (küldötteknek) több mint a fele jelen van. A közgyűlés (küldöttgyűlés) – ha az alapszabály másként nem rendelkezik – a jelenlévő képviselők (küldöttek) több mint felének szavazatával (egyszerű szótöbbséggel) és nyílt szavazással hoz határozatokat.
 
-(4) Az elnökség – az elnökkel együtt – legalább öt tagból áll. A közgyűlés elnökké, elnökségi taggá, illetve az ellenőrző testület elnökévé és tagjává olyan személyt is megválaszthat, aki nem a tag képviselője. A szakszövetség az alapszabályában határozza meg a további tisztségviselők megválasztásával kapcsolatos előírásokat.
+(4) A közgyűlés elnökké, elnökségi taggá, illetve az ellenőrző testület elnökévé és tagjává olyan személyt is megválaszthat, aki az alapszabály felhatalmazása, a szakszövetség közgyűlésének határozata vagy szerződés alapján a szakszövetség képviseletére jogosult személy. A szakszövetség az alapszabályában határozza meg a további tisztségviselők megválasztásával kapcsolatos előírásokat.
 
 (5) Az elnökség és az ellenőrző testület elnöke, illetve tagjai megbízatásának időtartama legfeljebb öt év lehet. Ezek a tisztségviselők újraválaszthatók, de a közgyűlés (küldöttgyűlés) által megbízatásuk lejárta előtt is visszahívhatók.

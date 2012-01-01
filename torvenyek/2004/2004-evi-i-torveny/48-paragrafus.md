@@ -1,3 +1,1 @@
-## A sportközalapítványok
-
 48. §

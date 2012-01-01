@@ -1,35 +1,35 @@
-## A Nemzeti Sportszövetség
+42. § (1) A MOB tagjai
 
-42. § (1) A Nemzeti Sportszövetség a szakszövetségek, illetve az országos sportági szövetségek önkéntes részvételével működő – a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
+a) azok a büntetlen előéletű magyar állampolgárok, valamint az olimpiai sportágak azon képviselői, akik elismerik és magukénak vallják az olimpiai eszmét, készek elősegíteni a MOB működését, akiket a MOB alapszabályában felsorolt szervek és szervezetek képviselőiként taggá delegálnak, illetve akik a MOB alapszabályában foglaltak szerint személyes jogosultság alapján válnak tagokká
 
-(2) A szakszövetségek – a Nemzeti Sportszövetség alapszabályának elfogadása esetén – alanyi jogon, az országos sportági szövetségek pedig a Nemzeti Sportszövetség közgyűlésének az össztaglétszám kétharmados többségével hozott határozata alapján lehetnek tagjai a Nemzeti Sportszövetségnek.
+b) – a MOB alapszabályának elfogadása esetén – alanyi jogon a szakszövetségek, az országos sportági szövetségek, az országos szabadidősport-szövetségek, valamint az országos diák- és hallgatói sportszövetségek,
 
-(3) A Nemzeti Sportszövetség:
+c) alanyi jogon a fogyatékosok országos sportszövetségei, azok a szakszövetségek és országos sportági szövetségek, amelyek sportága szerepel a Paralimpia, illetve a Siketlimpia programjában vagy tevékenységi köre kiterjed a fogyatékossággal élők versenysportjára, vagy amelyek integrált versenyrendszert működtetnek, vagy amelyeknél az épek versenyrendszerében fogyatékos sportolók is részt vesznek.
 
-a) képviseli tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség, illetve más egyesületek előtt,
+(2) A MOB tagjait a főtitkár vagy az azzal azonos jogállású tisztségviselő (a továbbiakban együtt: MOB-főtitkár) tartja nyilván.
 
-b) összehangolja tagjai tevékenységét, illetve versenyrendszerét, összeállítja az országos összesített versenynaptárt, valamint sportszakmai, gazdasági, jogi és egyéb szolgáltatásokat nyújt, és pályázatokat ír ki tagjai részére,
+(3) A MOB leendő tagja tagfelvételi kérelmének, illetve a személyes jogosultság alapján a MOB tagjává váló személy a tagfelvételre irányuló nyilatkozatának benyújtásával egyidejűleg hatósági bizonyítvánnyal igazolja a MOB-főtitkár részére azt a tényt, hogy büntetlen előéletű.
 
-c) együttműködik a sportigazgatási szervvel, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztése érdekében,
+(4) A MOB elnökségi tagjának jelölt személy az elnökségi taggá választását megelőzően a MOB-főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
 
-d) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányzati intézkedések megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
+(5) A
 
-e) részt vesz a nem kormányzati nemzetközi sportszervezetek, különösen az Európai Nem Kormányzati Sportszervezetek Szövetségének (ENGSO) tevékenységében,
+a) MOB tagja a tagság fennállása alatt a MOB elnökének felhívására,
 
-f) működteti a Sport Állandó Választottbíróságot,
+b) MOB elnökségi tagja az elnökségi megbízatásának időtartama alatt a közgyűlés írásbeli – a mulasztás jogkövetkezményeinek ismertetését tartalmazó – felhívására
 
-g) elsősorban a tagjai útján segíti az utánpótlás-nevelést,
+a felhívástól számított tizenöt munkanapon belül, vagy ha e határidőn belül a felhívott személyén kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul, a MOB főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
 
-h) együttműködik a sportigazgatási szervvel az állami sportinformációs rendszer működtetésében,
+(6) Ha a MOB tagja, illetve a MOB elnökségi tagja igazolja, hogy büntetlen előéletű, a MOB a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
 
-i) szervezi az AGFIS világjátékokon való magyar részvételt, illetve az arra való felkészülést.
+(7) Ha a MOB tagja, illetve a MOB elnökségi tagja büntetett előéletűvé válik, vagy az (5) bekezdésben meghatározott igazolási kötelezettségének a teljesítését elmulasztja, tagsági jogviszonya, illetve elnökségi tagsági megbízatása megszűnik.
 
-(4) A Nemzeti Sportszövetség feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben, valamint a külön jogszabályban meghatározottak szerint – a következők:
+(8) A MOB-főtitkár
 
-a) a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+a) a (3) bekezdés alapján megismert személyes adatokat a MOB-tagságról meghozott döntés időpontjáig,
 
-b) a MOB-bal és a Sportegyesületek Országos Szövetségével közösen javaslatot dolgoz ki a versenysport és az utánpótlás-nevelés feladataira, valamint a versenysport és az utánpótlás-nevelés pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
+b) a (4) bekezdés alapján megismert személyes adatokat a MOB elnökségi tagságról meghozott döntés időpontjáig,
 
-c) dönt a rendelkezésére bocsátott állami támogatásról.
+c) az (5) bekezdés alapján megismert személyes adatokat a MOB-tag tagsági viszonyának megszűnéséig
 
-(5) A Nemzeti Sportszövetség elnöksége tagjainak legalább a felét az olimpiai sportágakat képviselő tagok javaslata alapján kell a Nemzeti Sportszövetség közgyűlésének megválasztania.
+kezeli.
