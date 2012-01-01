@@ -16,7 +16,7 @@ g) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében elj
 
 h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 
-i) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben a csőd-, felszámolási eljárás és a helyi önkormányzatok adósságrendezési eljárása keretében a bírósággal,
+i) a büntető-, valamint polgári ügyben, továbbá a csőd-, felszámolási eljárás és a helyi önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 
 j) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal, illetve társadalombiztosítási szervvel,
 
@@ -26,7 +26,7 @@ l) a gazdálkodás nyilvántartásához szükséges adatok tekintetében a gazd�
 
 m) külön törvényben meghatározott feltételek megléte esetén az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel,
 
-n) az Áht. 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel
+n) az államháztartásról szóló 2011. évi CXCV. törvény 63. § (1) bekezdés g) pontjában és azzal összefüggésben i) pontjában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel
 
 szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 

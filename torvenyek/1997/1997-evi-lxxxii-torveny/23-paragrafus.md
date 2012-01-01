@@ -8,7 +8,7 @@ b) elhalálozással, az elhalálozás napjával;
 
 c) zárt pénztárban a tagsági viszony SzMSz szerinti feltételének megszűnésével; vagy
 
-d) a Tny. szerint megállapított rokkantsági nyugdíjra jogosulttá válásával, a rokkantsági nyugdíj megállapításának napját megelőző nappal, a tag döntése szerint; illetőleg
+d)
 
 e)
 

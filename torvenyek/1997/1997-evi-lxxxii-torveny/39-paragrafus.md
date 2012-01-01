@@ -26,4 +26,4 @@ l) döntés a tagdíjak behajtásának módjáról.
 
 (2) A közgyűlésen jelenléti ívet és jegyzőkönyvet kell vezetni. A jegyzőkönyv tartalmazza az elhangzott felszólalások lényegét és a hozott határozatokat. A jegyzőkönyvhöz csatolni kell az igazgatótanács és az ellenőrző bizottság beszámolójának egy példányát. A jegyzőkönyv egy példányát a csatolt iratokkal együtt – a közgyűlést követő 30 napon belül – meg kell küldeni a Felügyeletnek. Az elfogadott beszámolót és mérleget a tárgyévet követő év június 30-áig a beszámoló könyvvizsgálói záradékával együtt a Pénzügyi Közlönyben közzé kell tenni.
 
-(3) A közgyűlési határozatok ellen a pénztártagok, illetve a küldöttek, valamint a Felügyelet a határozat meghozatalától számított 90 napon belül keresetet nyújthat be a pénztár székhelye szerint illetékes megyei bíróságon.
+(3) A közgyűlési határozatok ellen a pénztártagok, illetve a küldöttek, valamint a Felügyelet a határozat meghozatalától számított 90 napon belül keresetet nyújthat be a pénztár székhelye szerint illetékes törvényszéken.

@@ -1,4 +1,4 @@
-71. § (1) A könyvvizsgáló által hitelesített pénztári beszámolót a pénzügyi év lejártát követő 150 napon belül a közgyűlés elé kell terjeszteni. A beszámoló tartalmazza a vagyonértékelési és teljesítménymérési jelentéseket, valamint az aktuáriusi értékelést.
+71. § (1) A könyvvizsgáló által hitelesített pénztári beszámolót a pénzügyi év lejártát követő ötödik hónap utolsó napjáig a közgyűlés elé kell terjeszteni. A beszámoló tartalmazza a vagyonértékelési és teljesítménymérési jelentéseket, valamint az aktuáriusi értékelést.
 
 (2) A pénztár likviditási helyzetének ellenőrzése érdekében a Felügyelet a pénztárat év közben is beszámoltathatja.
 

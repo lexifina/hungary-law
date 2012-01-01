@@ -8,9 +8,9 @@ a) társadalombiztosítási nyugdíj: amit a Tny. társadalombiztosítási nyuge
 
 b) nyugdíjkorhatár:
 
-1. az az életkor, melyet a Tny. az öregségi nyugdíjra való jogosultság feltételeként meghatároz,
+1. a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatár,
 
-2. a nyugdíjkorhatár betöltésével esik egy tekintet alá az az időpont, amelytől a pénztártag társadalombiztosítási nyugellátásban, így öregségi nyugdíjban (ideértve a korengedményes nyugdíjat, előnyugdíjat, bányásznyugdíjat, egyes művészeti tevékenységet folytatók öregségi nyugdíját, ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott öregségi nyugdíjat is, valamint a szolgálati nyugdíjat), a rokkantsági és baleseti rokkantsági nyugdíjban (ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott rendszeres rokkantsági segélyt is), továbbá növelt összegű öregségi és munkaképtelenségi járadékban részesül,
+2. az az időpont, amelytől a pénztártag öregségi nyugdíjban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
 
 c) pénztártag: az a természetes személy, aki pénztárba belép és e törvény szerint tagdíjat fizet, illetve a pénztártól nyugdíjszolgáltatásban részesül,
 
@@ -26,7 +26,7 @@ h) felhalmozási időszak: a tagsági viszony kezdetétől a nyugdíjszolgáltat
 
 i) járadékos időszak: a nyugdíjszolgáltatás megállapításától kezdődően a szolgáltatás igénybevételének tartamával megegyező időszak,
 
-j) nyugdíjszolgáltatás: a nyugdíjkorhatár elérésekor, vagy a pénztártag kérése alapján a nyugdíjkorhatár elérése után, továbbá ha a pénztártag munkaképesség-csökkenése eléri a rokkantsági nyugdíj megállapításához szükséges mértéket vagy egészségkárosodása eléri a rokkantsági nyugdíj megállapításához szükséges mértéket és nem rehabilitálható, illetőleg a pénztártag elhalálozása esetén hozzátartozója részére, az egyéni számláján nyilvántartott összeg mint fedezet alapján megállapított, a pénztártag által választott szolgáltatáshoz tartozó szolgáltatási tartalékból folyósított nyugdíjjáradék, a hozzátartozó, illetve kedvezményezett (a továbbiakban: kedvezményezett) járadéka, és az e törvényben szabályozott egy összegben történő pénzbeli kifizetés,
+j) nyugdíjszolgáltatás: a nyugdíjkorhatár elérésekor, vagy a pénztártag kérése alapján a nyugdíjkorhatár elérése után, illetőleg a pénztártag elhalálozása esetén hozzátartozója részére, az egyéni számláján nyilvántartott összeg mint fedezet alapján megállapított, a pénztártag által választott szolgáltatáshoz tartozó szolgáltatási tartalékból folyósított nyugdíjjáradék, a hozzátartozó, illetve kedvezményezett (a továbbiakban: kedvezményezett) járadéka, és az e törvényben szabályozott egy összegben történő pénzbeli kifizetés,
 
 k) társadalombiztosítási jogszabályok: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.), a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.), valamint a Tbj. 13. §-ában hivatkozott külön jogszabály és nemzetközi egyezmény,
 
@@ -52,7 +52,7 @@ u) szakmai egyesület: olyan egyesület, amelyben a taggá válás feltétele va
 
 v) a tag követelése: a felhalmozási időszakban a tag egyéni számlájának egyenlege, a járadékos időszakban a tag által választott szolgáltatás tartalékából az őt a jövőben még megillető szolgáltatás értéke, a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag egyéni számlaegyenlege, valamint a Pénztárak Garanciaalapja garanciális kifizetésekre fordítható pénzeszközeinek az egy főre jutó összege.
 
-x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
+x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
 
 y) közeli hozzátartozó: a Ptk. 685. §-ának b) pontjában megjelölt közeli hozzátartozó, valamint az élettárs,
 
@@ -66,9 +66,9 @@ zsa) kihelyezés: a pénztár feladatkörébe tartozó tevékenységének e tev�
 
 zsb) kiszervezés: tevékenység olyan kihelyezése, melynek során adatkezelés vagy adatfeldolgozás is megvalósul,
 
-zsc) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatkezelési tevékenység,
+zsc) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatkezelési tevékenység,
 
-zsd) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatfeldolgozási tevékenység,
+zsd) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatfeldolgozási tevékenység,
 
 zse) elszámolóegység: a tagok felhalmozási időszakban fennálló követelésének, valamint a függő tételeknek a kimutatására, nyilvántartására szolgáló, napi árfolyammal rendelkező egység;
 

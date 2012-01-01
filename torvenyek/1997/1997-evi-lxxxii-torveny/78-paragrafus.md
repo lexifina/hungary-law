@@ -22,7 +22,7 @@ b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása célj
 
 c) a gazdasági, pénzpiaci folyamatok elemzése, a pénztárak befektetési tevékenységének eredményesebbé tétele, valamint a pénztárak szolgáltatási kötelezettsége teljesíthetőségének értékelése céljából az Alap,
 
-d) az Áht. 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott feladatkörében eljáró kormányzati ellenőrzési szerv
+d) az államháztartásról szóló 2011. évi CXCV. törvény 63. § (1) bekezdés g) pontjában és azzal összefüggésben i) pontjában meghatározott feladatkörében eljáró kormányzati ellenőrzési szerv
 
 részére.
 
