@@ -1,1 +1,0 @@
-A Kormány az egészségkárosodott személyek szociális biztonságának érdekében az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. §-a (1) bekezdésének g) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
