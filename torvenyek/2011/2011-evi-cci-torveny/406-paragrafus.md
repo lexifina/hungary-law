@@ -1,0 +1,1 @@
+406. § A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény 5. § (3) bekezdésében az „a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról” szövegrész helyébe az „az információs önrendelkezési jogról és az információszabadságról” szöveg lép.

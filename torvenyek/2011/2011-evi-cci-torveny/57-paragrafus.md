@@ -1,0 +1,1 @@
+57. § Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról 1992. évi XXXII. törvény 14. § d) pontjában a „megyei bíróság” szövegrész helyébe a „törvényszék” szöveg, a „Fővárosi Bíróság” szövegrész helyébe a „Fővárosi Törvényszék” szöveg lép.

@@ -1,3 +1,3 @@
 ## 148. A terrorizmus elleni küzdelemről, a pénzmosás megakadályozásáról szóló rendelkezések szigorításáról, valamint az egyes korlátozó intézkedések elrendeléséről szóló 2001. évi LXXXIII. törvény hatályon kívül helyezése
 
-213. §
+213. § Hatályát veszti a terrorizmus elleni küzdelemről, a pénzmosás megakadályozásáról szóló rendelkezések szigorításáról, valamint az egyes korlátozó intézkedések elrendeléséről szóló 2001. évi LXXXIII. törvény.

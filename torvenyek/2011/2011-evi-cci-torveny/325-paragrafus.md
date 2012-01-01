@@ -1,0 +1,1 @@
+325. § Hatályát veszti a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 2. § (1) bekezdés e) pontjában az „a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei,” szövegrész.
