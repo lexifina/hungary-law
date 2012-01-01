@@ -1,3 +1,0 @@
-7. § (1) A kincstári körbe tartozó költségvetési szerv az Áht. 18/C. § (10) bekezdése szerinti engedély birtokában devizabetét számlát belföldön működő hitelintézetnél, külföldön működő szervezeti egysége részére pedig annak székhelyén nyithat.
-
-(2) A kincstári körbe tartozó költségvetési szervek a belföldi hitelintézetnél vezetett devizaszámlájukról történt felhasználásukról forintban a Kincstár által e célra rendszeresített bizonylaton kötelesek adatot szolgáltatni a Kincstár részére, a számla terhére történő kifizetést követő három munkanapon belül. Az adatszolgáltatásban a devizaszámláról teljesített kiadás összegével a megjelölt bevételi és kiadási jogcímek teljesítési adatait a Kincstár azonos összegben megemeli.

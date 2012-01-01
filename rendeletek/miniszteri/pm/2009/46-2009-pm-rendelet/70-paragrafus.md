@@ -1,1 +1,0 @@
-## VIII. ZÁRÓ RENDELKEZÉSEK

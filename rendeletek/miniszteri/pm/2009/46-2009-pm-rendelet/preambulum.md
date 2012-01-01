@@ -1,1 +1,0 @@
-Az államháztartásról szóló 1992. évi XXXVIII. törvény 124. §-a (4) bekezdésének a)–b), d), g) és o)–p) pontjaiban kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. §-ának a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

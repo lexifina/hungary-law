@@ -1,1 +1,0 @@
-## 70. § Ez a rendelet 2010. január 1-jén lép hatályba, ezzel egyidejűleg hatályát veszti a kincstári rendszer működésével kapcsolatos pénzügyi szolgáltatások teljesítésének rendjéről szóló 36/1999. (XII. 27.) PM rendelet.
