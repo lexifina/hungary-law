@@ -1,6 +1,6 @@
 13. § (1) Az adósságrendezés megindításának időpontjától a helyi önkormányzat
 
-a) többlet vagyoni kötelezettségvállalással járó döntést nem hozhat,
+a) vagyoni kötelezettségvállalással járó döntést kizárólag külön törvényi felhatalmazás alapján hozhat,
 
 b) vállalkozást nem alapíthat,
 

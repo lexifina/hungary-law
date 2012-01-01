@@ -22,11 +22,11 @@ Az alapvető lakossági szolgáltatások
 
 9. A tűzoltás és a műszaki mentés biztosítása (1973. évi 13. törvényerejű rendelet).
 
-10. Az óvodai nevelés, az általános iskolai nevelés és oktatás, továbbá a nemzeti és etnikai kisebbségek által lakott településen a nemzeti vagy etnikai kisebbséghez tartozók óvodai nevelése, általános iskolai nevelése és oktatása (1993. évi LXXIX. törvény).
+10. Az óvodai nevelés, az általános iskolai nevelés és oktatás, továbbá a nemzetiségek által lakott településen a nemzetiséghez tartozók óvodai nevelése, általános iskolai nevelése és oktatása (a nemzetiségek jogairól szóló törvény).
 
 11. A többi gyermekkel, tanulóval együtt nevelhető, oktatható testi, érzékszervi, enyhe értelmi, beszéd- és más fogyatékos tanulók ellátása (1993. évi LXXIX. törvény).
 
-12. A kollégiumi és a nemzeti és etnikai kisebbségi kollégiumi ellátás, a középiskolai és a szakiskolai ellátás, a nemzeti és etnikai kisebbségek középiskolai és szakiskolai ellátása, a felnőttoktatás, a nevelési tanácsadás, a logopédiai szolgáltatás (1993. évi LXXIX. törvény).
+12. A kollégiumi és a nemzetiségi kollégiumi ellátás, a középiskolai és a szakiskolai ellátás, a nemzetiségek középiskolai és szakiskolai ellátása, a felnőttoktatás, a nevelési tanácsadás, a logopédiai szolgáltatás (a nemzetiségek jogairól szóló törvény).
 
 13. Az egészségügyi intézményekben tartós gyógykezelés alatt álló gyermekek tankötelezettségének teljesítéséhez szükséges oktatás, a többi gyermekkel, tanulóval együtt nem foglalkoztatható, illetőleg oktatható testi, érzékszervi, értelmi, beszéd- vagy más fogyatékos gyermekek, tanulók óvodai, iskolai, továbbá kollégiumi ellátása azoknak a tanulóknak, akiknek az állandó lakóhelyén a tankötelezettség végéig nem biztosítottak az iskolai nevelés és oktatás feltételei, a képzési kötelezettség, teljesítéséhez szükséges feltételek, a különbözeti vizsga, vagy évfolyamismétlés nélküli iskolaváltás, a korai fejlesztő tanácsadó és gondozó szolgálat, a tanulási képességet vizsgáló szakértői és rehabilitációs tevékenység, a konduktív pedagógiai ellátás, a középiskolai, szakiskolai felvételekkel összefüggő tájékoztató tevékenység, a területi pedagógiai szakmai szolgáltatás (1993. évi LXXIX. törvény).
 

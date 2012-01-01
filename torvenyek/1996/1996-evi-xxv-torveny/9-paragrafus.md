@@ -4,7 +4,7 @@
 
 (3) Nem jelölhető ki pénzügyi gondnoknak
 
-a) aki az önkormányzat polgármestere, képviselő-testületének tagja, költségvetési intézményének vezetője és dolgozója, illetve ezek hozzátartozója [a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pont], e minősége fennállása alatt, illetve annak megszűnésétől számított 3 évig;
+a) aki az önkormányzat polgármestere, képviselő-testületének tagja, költségvetési intézményének vezetője és dolgozója, illetve ezek, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti hozzátartozója, e minősége fennállása alatt, illetve annak megszűnésétől számított 3 évig;
 
 b) aki az önkormányzat hitelezője, vagy akinek az önkormányzat a hitelezője, illetve akinél az önkormányzat tulajdonosi jogosultsággal rendelkezik. E szabályok irányadóak a kijelölt pénzügyi gondnok munkavállalóira is;
 

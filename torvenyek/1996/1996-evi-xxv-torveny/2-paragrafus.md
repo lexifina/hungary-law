@@ -14,7 +14,7 @@ ea) az állam tulajdonából a helyi önkormányzat tulajdonába került lakáso
 
 eb) olyan feladat ellátásához kapcsolódó vagyon, melyhez az állam támogatást, hozzájárulást biztosít;
 
-ec) az adósságrendezés alatt álló helyi önkormányzat részvételével működő, az adósságrendezés alá vont helyi önkormányzat költségvetésében megjelenő helyi önkormányzati társulások bevételei és pénzeszközei; az adósságrendezés alá vont helyi önkormányzat költségvetésében megjelenő helyi kisebbségi önkormányzat(ok) bevételei és pénzeszközei;
+ec) az adósságrendezés alatt álló helyi önkormányzat részvételével működő, az adósságrendezés alá vont helyi önkormányzat költségvetésében megjelenő helyi önkormányzati társulások bevételei és pénzeszközei; az adósságrendezés alá vont helyi önkormányzat költségvetésében megjelenő helyi nemzetiségi önkormányzat bevételei és pénzeszközei;
 
 ed) az adósságrendezés alá vont helyi önkormányzat vagy költségvetési szerve gesztori közreműködése mellett támogatásban részesített, a megvalósítás szakaszában álló, pályázaton elnyert, kizárólagosan célhoz kötötten – törvényben meghatározott kötelező feladat ellátásához kapcsolódóan – felhasználható fejlesztési és működési források önerő- és támogatásrésze;
 
