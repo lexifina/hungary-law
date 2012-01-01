@@ -1,1 +1,1 @@
-Az Országgyűlés az élethez, testi épséghez és méltósághoz minden embert megillető alapvető emberi jogok védelmében, összhangban a nemzetközi egyezményekkel és az Alkotmánnyal, a hozzátartozók közötti erőszak visszaszorítása érdekében az alábbi törvényt alkotja:
+Az Országgyűlés az élethez, testi épséghez és méltósághoz minden embert megillető alapvető emberi jogok védelmében, összhangban a nemzetközi egyezményekkel és az Alaptörvénnyel, a hozzátartozók közötti erőszak visszaszorítása érdekében az alábbi törvényt alkotja:
