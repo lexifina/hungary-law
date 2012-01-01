@@ -8,6 +8,6 @@ b) a 11. § (1) bekezdésében foglalt kötelezettségeit – e törvényben meg
 
 (3) A Program a megállapodás megkötésével kezdődik. A megállapodásban a 2. számú mellékletben meghatározottakról rendelkezni kell.
 
-(4) A megállapodásból származó viták rendezése érdekében a felek egyeztetést kötelesek folytatni. Amennyiben az egyeztetés keretében három napon belül a vitás kérdést nem sikerül rendezni, a felek bármelyike bírósághoz fordulhat. Az eljárás lefolytatására kizárólag a Fővárosi Bíróság az illetékes, amely a felek közötti jogvitát peren kívüli eljárásban bírálja el. Szükség esetén a bíróság a feleket személyesen is meghallgathatja.
+(4) A megállapodásból származó viták rendezése érdekében a felek egyeztetést kötelesek folytatni. Amennyiben az egyeztetés keretében három napon belül a vitás kérdést nem sikerül rendezni, a felek bármelyike bírósághoz fordulhat. Az eljárás lefolytatására kizárólag a Fővárosi Törvényszék az illetékes, amely a felek közötti jogvitát peren kívüli eljárásban bírálja el. Szükség esetén a bíróság a feleket személyesen is meghallgathatja.
 
 (5) A megállapodás egy hiteles másolatát bírósági eljárás kezdeményezése esetén a Szolgálatnak az eljáró bíróságnál letétbe kell helyeznie.

@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-85-00-00
 | 2010-04-01 | 2009. évi CLV. törvény | 2001-85-00-00.8 |
 | 2011-01-01 | 2010. évi CXXX. törvény | 2001-85-00-00.9 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2001-85-00-00.10 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2001-85-00-00.11 |
