@@ -8,9 +8,9 @@ a) a gépjárművekre, valamint azok alkatrészeire és anyagaira, függetlenül
 
 b) a hulladékká vált gépjárművekre.
 
-(2) A rendelet hatálya nem terjed ki a külön jogszabályban[^1] meghatározott:
+(2) A rendelet hatálya nem terjed ki a külön jogszabályban[^2] meghatározott:
 
-a)[^2]
+a)[^3]
 
 b) a környezet veszélyeztetése nélkül tartott muzeális jellegű,
 
@@ -18,8 +18,8 @@ c) a 3. § (2) bekezdés a)–c) pontjai, és a 7. § kivételével a háromkere
 
 ## gépjárművekre.
 
-(3)[^3] E rendelet 6. §-át a közúti járművek megvizsgálásáról szóló jogszabályban meghatározott különleges rendeltetésű járművekre nem kell alkalmazni.
+(3)[^4] E rendelet 6. §-át a közúti járművek megvizsgálásáról szóló jogszabályban meghatározott különleges rendeltetésű járművekre nem kell alkalmazni.
 
-[^1]: 1991. évi LXXXII. tv. 18. § 14. pont és az 5/1990. (IV. 12.) KöHÉM r. 20. § (2) bek.
-[^2]: Az 1. § (2) bekezdés a) pontját a 298/2009. (XII. 21.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^3]: Az 1. § (3) bekezdését a 298/2009. (XII. 21.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^2]: 1991. évi LXXXII. tv. 18. § 14. pont és az 5/1990. (IV. 12.) KöHÉM r. 20. § (2) bek.
+[^3]: Az 1. § (2) bekezdés a) pontját a 298/2009. (XII. 21.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^4]: Az 1. § (3) bekezdését a 298/2009. (XII. 21.) Korm. rendelet 13. § (1) bekezdése iktatta be.

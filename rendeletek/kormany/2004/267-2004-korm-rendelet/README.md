@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-267-20-
 | --- | --- | --- |
 | 2010-01-01 | 2004-267-20-22.6 | 267/2004. (IX. 23.) Korm. rendelet |
 | 2011-01-01 | 2004-267-20-22.7 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2012-01-01 | 2004-267-20-22.8 | 444/2012. (XII. 29.) Korm. rendelet |

@@ -184,7 +184,7 @@
 
 | Veszélyes folyadékok | 1,3 | % |
 
-4. számú melléklet a 267/2004. (IX. 23.) Korm. rendelethez[^49]
+4. számú melléklet a 267/2004. (IX. 23.) Korm. rendelethez[^51]
 
 1. A hulladékká vált gépjárművek kezelése előtti tárolására és az átvevőhelyre vonatkozó minimális műszaki követelmények:
 
@@ -234,4 +234,4 @@ d) üvegek eltávolítása.
 
 A hulladékkezelést végző telephelyen a hulladék kezelését megelőző és a kezelést követő raktározási műveleteket úgy kell végezni, hogy az újrahasználatra alkalmas kibontott alkatrészek és a folyadékokat tartalmazó alkatrészek ne sérüljenek.
 
-[^49]: A 4. számú mellékletet a 286/2006. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^51]: A 4. számú mellékletet a 286/2006. (XII. 23.) Korm. rendelet 10. §-a iktatta be.

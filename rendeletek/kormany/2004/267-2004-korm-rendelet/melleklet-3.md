@@ -110,6 +110,6 @@
 
 | Összesen | ! ! ! ! ! ! | ! ! ! ! ! ! | ! ! ! ! ! ! ! ! ! |
 
-3. számú melléklet a 267/2004. (IX. 23.) Korm. rendelethez[^48]
+3. számú melléklet a 267/2004. (IX. 23.) Korm. rendelethez[^50]
 
-[^48]: A 3. számú mellékletet a 286/2006. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^50]: A 3. számú mellékletet a 286/2006. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
