@@ -240,7 +240,7 @@
 
 ## Megjegyzés:
 
-## Ha a nyilatkozó vagy kiskorú igénybe vevő esetén családtagja bármely vagyontárgyból egynél többel rendelkezik, akkor a vagyonnyilatkozat megfelelő pontját a vagyontárgyak számával egyezően kell kitölteni. Amennyiben a vagyonnyilatkozatban feltüntetett vagyon nem a Magyar Köztársaság területén van, a forgalmi értéket a vagyon helye szerinti állam hivatalos pénznemében is fel kell tüntetni.
+## Ha a nyilatkozó vagy kiskorú igénybe vevő esetén családtagja bármely vagyontárgyból egynél többel rendelkezik, akkor a vagyonnyilatkozat megfelelő pontját a vagyontárgyak számával egyezően kell kitölteni. Amennyiben a vagyonnyilatkozatban feltüntetett vagyon nem a Magyarország területén van, a forgalmi értéket a vagyon helye szerinti állam hivatalos pénznemében is fel kell tüntetni.
 
 ## Tájékoztató a jövedelem- és a vagyonnyilatkozat kitöltéséhez
 

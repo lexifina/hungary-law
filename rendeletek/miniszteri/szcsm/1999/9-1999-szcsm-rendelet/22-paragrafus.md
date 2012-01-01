@@ -8,7 +8,7 @@
 
 a) az egészségi állapoton, illetve a betegségen alapuló szociális rászorultság esetében a külön jogszabály szerinti, két évnél nem régebbi
 
-aa)[^42] igazolást, amelynek 1. pontjában az ellátást igénylő besorolása a b)–e) pont szerinti vagy amelynek 1. pontja szerint jelzőrendszeres házi segítségnyújtás biztosítása egészségi állapot alapján indokolt, és a felülvizsgálat határideje – amennyiben megjelöl ilyet – nem járt le, illetve
+aa)[^42] 1. számú melléklet I. része szerinti orvosi igazolást, illetve
 
 ab) pszichiáter vagy neurológus szakorvosi szakvéleményt;
 
@@ -34,7 +34,7 @@ b) a szociális rászorultságát igazoló iratot 60 napon belül csatolja, a ha
 
 [^40]: A 22. § alcímét a 10/2006. (XII. 27.) SZMM rendelet 10. §-a iktatta be.
 [^41]: A 22. § a 10/2006. (XII. 27.) SZMM rendelet 10. §-ával megállapított szöveg.
-[^42]: A 22. § (2) bekezdés a) pont aa) alpontja a 35/2009. (XII. 30.) SZMM rendelet 6. §-ával megállapított szöveg.
+[^42]: A 22. § (2) bekezdés a) pont aa) alpontja a 78/2011. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.
 [^43]: A 22. § (4) bekezdése a 27/2010. (XII. 30.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^44]: A 22. § (5) bekezdése a 27/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja szerint módosított szöveg.
 [^45]: A 22. § (7) bekezdését a 27/2010. (XII. 30.) NEFMI rendelet 7. § (2) bekezdése iktatta be.
