@@ -1,4 +1,4 @@
-## 12/A. §[^13] Az egyes pénzügyminiszteri rendeletek módosításáról szóló 17/2010. (IV. 28.) PM rendelet 2. § (2) bekezdésével módosított 12. § (1) bekezdést a hatálybalépését[^14] követően benyújtott kérelmek esetében kell alkalmazni.
+## 12/B. §[^17] A 2. §-nak, az 5–6. §-oknak, valamint a 9–12. §-oknak az egyes adózási tárgyú pénzügyminiszteri rendeletek módosításáról szóló 54/2011. (XII. 29.) számú NGM rendelettel módosított szabályait a 2011. december 31-ét követően beadott kérelmekre kell alkalmazni.
 
 13. § Ez a rendelet a kihirdetése napján lép hatályba.
 
@@ -18,7 +18,7 @@ d) alapító okiratának száma, kelte, cégjegyzékszáma,
 
 e) gazdálkodási formája, tevékenységének felsorolása,
 
-f)[^15] belföldi fizetési számlaszáma, ahova a kérelem visszavonása esetén a díj visszatérítését kéri.
+f)[^18] belföldi fizetési számlaszáma, ahova a kérelem visszavonása esetén a díj visszatérítését kéri.
 
 2. A program részletes leírása, így különösen:
 
@@ -110,6 +110,5 @@ A rendelet 4. §-ában meghatározott nyilatkozatok, iratok.
 
 10. A kérelem kelte, a Szervező képviseletére jogosult személy aláírása.
 
-[^13]: A 12/A. §-t a 17/2010. (IV. 28.) PM rendelet 2. § (3) bekezdése iktatta be.
-[^14]: A hatálybalépés időpontja: 2010. június 12.
-[^15]: A melléklet 1. pont f) alpontja a 17/2010. (IV. 28.) PM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^17]: A 12/B. §-t az 54/2011. (XII. 29.) NGM rendelet 4. § (3) bekezdése iktatta be.
+[^18]: A melléklet 1. pont f) alpontja a 17/2010. (IV. 28.) PM rendelet 2. § (1) bekezdése szerint módosított szöveg.

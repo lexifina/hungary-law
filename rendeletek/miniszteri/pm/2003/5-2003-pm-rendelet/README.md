@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-5-20-53
 | 2009-10-01 | 2003-5-20-53.3 | 5/2003. (II. 4.) PM rendelet |
 | 2010-05-01 | 2003-5-20-53.4 | 17/2010. (IV. 28.) PM rendelet |
 | 2010-06-12 | 2003-5-20-53.5 | 17/2010. (IV. 28.) PM rendelet |
+| 2012-01-01 | 2003-5-20-53.6 | 54/2011. (XII. 29.) NGM rendelet |

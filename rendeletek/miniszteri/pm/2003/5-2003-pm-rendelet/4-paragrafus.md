@@ -2,6 +2,6 @@
 
 4. § (1) A kérelemhez a Szervező mellékeli az Szja tv. 77/C. § (2) bekezdésében meghatározott keretszerződés és egyedi szerződés tervezetét, valamint a Szervező és a letétkezelő nyilatkozatát arról, hogy az említett szerződéseket a kérelemben bemutatott tartalommal kötik meg.
 
-(2)[^2] Amennyiben a letétkezelő külföldi befektetési szolgáltató, a Szervező a kérelemhez mellékeli mindazon szerződéseket, megállapodásokat, amelyek alapján valószínűsíthető, hogy a Szervező a törvényben meghatározott adatszolgáltatási és bejelentési kötelezettségét maradéktalanul teljesíteni tudja.
+(2)[^3] Amennyiben a letétkezelő külföldi befektetési szolgáltató, a Szervező a kérelemhez mellékeli mindazon szerződéseket, megállapodásokat, amelyek alapján valószínűsíthető, hogy a Szervező a törvényben meghatározott adatszolgáltatási és bejelentési kötelezettségét maradéktalanul teljesíteni tudja.
 
-[^2]: A 4. § (2) bekezdése a 17/2009. (IX. 29.) PM rendelet 90. § b) pontja szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^3]: A 4. § (2) bekezdése a 17/2009. (IX. 29.) PM rendelet 90. § b) pontja szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
