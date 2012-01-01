@@ -1,5 +1,0 @@
-5. § (1)[^4] A hozzájárulásra kötelezettnek a tárgyévre elszámolt képzésre vonatkozó adatszolgáltatást (a továbbiakban: adatszolgáltatás) az 1. és 2. számú mellékletek szerinti adattartalommal kell benyújtania a tárgyévet követő év második hónapjának 25. napjáig a székhelye szerint illetékes fővárosi és megyei kormányhivatal munkaügyi központja (a továbbiakban: munkaügyi központ) részére. Egy bejelentőlaphoz több képzésre vonatkozó adatlap is csatolható.
-
-(2) Az adatszolgáltatás helyességét annak benyújtásától számított 60 napon belül a munkaügyi központ megvizsgálja. Hibásan vagy pontatlanul kitöltött, illetőleg ellentmondó adatokat tartalmazó adatszolgáltatás esetén a munkaügyi központ írásban – 15 nap alatt teljesítendő – hiánypótlásra történő felszólítást küld a hozzájárulásra kötelezettnek. A hiánypótlás nem, vagy nem határidőre történő teljesítése esetén a munkaügyi központ a 7. § szerint jár el.
-
-[^4]: Az 5. § (1) bekezdése a 27/2010. (XII. 31.) NGM rendelet 66. §-a szerint módosított szöveg.
