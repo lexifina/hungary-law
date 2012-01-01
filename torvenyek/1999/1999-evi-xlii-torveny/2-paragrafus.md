@@ -2,50 +2,58 @@
 
 2. § (1) A dohányzás számára kijelölt helyek kivételével – a (3) bekezdésben foglalt eltéréssel – nem szabad dohányozni
 
-a) közforgalmú intézménynek a szolgáltatást igénybevevők számára nyitva álló zárt légterű helyiségeiben;
+a) közforgalmú intézménynek a nyilvánosság számára nyitva álló helyiségeiben,
 
-b) tömegközlekedési eszközön;
+b) közösségi közlekedési eszközön,
 
-c) zárt térben megtartott rendezvényen;
+c) munkahelyen,
 
-d) munkahelyen, e törvényben, külön jogszabályban, valamint a munkáltató rendelkezései szerint meghatározott esetekben.
+d) közterületnek minősülő
 
-(2) Nem jelölhető ki dohányzóhely
+da) a gyalogosforgalom számára nyitva álló aluljárókban és egyéb, zárt légterű közforgalmú közlekedő összekötő terekben, valamint közterületi játszótereken, továbbá a játszóterek külső határvonalától számított 5 méteres távolságon belül,
 
-a) egészségügyi alapellátást, illetőleg járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónak, illetve egészségügyi szolgáltató ezen ellátásokat nyújtó részlegének, valamint gyógyszertárnak a betegforgalom számára nyitva álló helyiségeiben, továbbá jellemzően gyermekek fekvőbeteg-szakellátását végző egészségügyi szolgáltatók épületeiben;
+db) a közforgalmú vasúti szolgáltatás nyújtására szolgáló vasúti üzemi létesítmények és a vasúti pálya tartozékainak személyforgalom számára megnyitott területein, közösségi közlekedési eszköz igénybevételének céljából létesített, illetve erre kijelölt megállóban, várakozó helyen, illetőleg helyiségben, valamint nyílt légterű megálló, várakozó hely esetén annak külső határvonalától számított 5 méteres távolságon belül, azzal, hogy ha a dohányzási korlátozás alá tartozó terület külső határvonala nem állapítható meg egyértelműen, akkor a dohányzás a megállót vagy várakozó helyet kijelölő táblától vagy más jelzéstől számított 5 méteres sugarú körnek megfelelő körzetben tilos.
 
-b) óvodákban;
+(2) Az (5) bekezdésben foglalt eltéréssel nem jelölhető ki dohányzóhely
 
-c) a b) pont hatálya alá nem tartozó közoktatási intézménynek a tanulók által is használt helyiségeiben;
+a) közforgalmú intézmények zárt légterű helyiségeiben,
 
-d) gyermekjóléti, gyermekvédelmi intézményben;
+b) munkahelyek zárt légterű helyiségeiben,
 
-e) a személyes gondoskodást nyújtó szociális intézmények közösségi helyiségeiben;
+c) helyi közforgalomban közlekedő közösségi közlekedési eszközön, helyiérdekű vasúton, menetrend alapján belföldi helyközi közforgalomban közlekedő autóbuszon, valamint menetrend szerint közlekedő személyszállító vonaton.
 
-f) helyi közforgalomban közlekedő tömegközlekedési eszközön, helyiérdekű vasúton, valamint menetrend alapján belföldi helyközi közforgalomban közlekedő autóbuszon;
+(3) Az (1) bekezdés a) pontjában foglaltaktól eltérően dohányzóhely kijelölése nélkül is lehet dohányozni
 
-g) sportlétesítménynek a sporttevékenység végzésére szolgáló zárt légterű helyiségeiben.
+a) a dohánytermék kereskedelmi bemutatója céljából létrejött rendezvényen,
 
-(3) Az (1) bekezdésben foglaltaktól eltérően – ha tűzvédelmi előírás nem tiltja – dohányzóhely kijelölése nélkül is lehet dohányozni
+b) szállásszolgáltatást nyújtó intézmények kifejezetten dohányzóként kiadott és ekként megjelölt, zárt légterű szobáiban,
 
-a) szórakoztató, vendéglátó szolgáltatást nyújtó közforgalmú intézményeknek kizárólag élelmiszerek, illetve egyéb italáruk kiszolgálására a vendégforgalom számára nyitvaálló helyiségeiben, ha a helyiségben helyben történő fogyasztás céljából meleg- és hidegkonyhai, továbbá cukrászati készítményt nem, illetőleg – az üzletkörnek megfelelően – csak kiegészítő jelleggel hoznak forgalomba;
+feltéve, hogy a dohányzást az e törvényben foglalt más rendelkezés vagy tűzvédelmi előírás egyébként nem tiltja.
 
-b) a dohánytermék kereskedelmi bemutatója, vagy egyéb okból történő fogyasztása céljából létrejött rendezvényeken, feltéve, hogy a dohányzást az e törvényben foglalt más rendelkezések egyébként nem tiltják;
+(4) A (2) bekezdés a) és b) pontjában foglaltakon túlmenően nyílt légtérben sem jelölhető ki dohányzóhely
 
-c) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 1. § (3) bekezdés c) pontja és 27–28. §-ai szerinti játékkaszinóban
+a) közoktatási intézményben,
 
-(4) A dohányzóhely ugyanabban a helyiségben nem jelölhető ki, kivéve, ha annak légtere a helyiség egyéb részétől elkülöníthető, vagy az elkülönítés megfelelő légtechnikai megoldás alkalmazásával megoldható. A dohányzásra kijelölt hely zárt légterű csak abban az esetben lehet, ha a megfelelő légcsere feltételei nyílászáró szerkezetekkel, vagy egyéb műszaki berendezés felszerelésével biztosítottak, és ott más, nemdohányzó személy benttartózkodása – a munkaköri feladatok ellátásán kívül, a munkavédelemről szóló 1993. évi XCIII. törvény rendelkezéseire is figyelemmel – a helyiség rendeltetéséből adódóan nem szükségszerű.
+b) gyermekjóléti, gyermekvédelmi intézményben,
 
-(5) A (4) bekezdés alkalmazásában megfelelő a dohányzóhelyek légtechnikai elkülönítése abban az esetben, ha a helyiségben legalább
+c) az (5) bekezdésben foglalt kivétellel az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltatónál, ideértve a többcélú intézményt is, ha abban egészségügyi szolgáltatást is nyújtanak.
+
+(5) A (7) és (8) bekezdésben foglaltak szerint zárt légterű dohányzóhely is kijelölhető
+
+a) a 9. §-ban foglalt esetekben,
+
+b) büntetés-végrehajtási intézményekben a fogvatartottak – köztük a kóros elmeállapotúak – számára,
+
+c) az Eütv. 188. § a) pontja szerinti pszichiátriai intézetben a pszichiátriai betegek számára,
+
+d) a munkavállalók részére, ahol a munkahelyi klíma zárttéri munkahelyen a külön jogszabályban meghatározott korrigált effektív hőmérséklet a 24 °C-ot meghaladja.
+
+(6) A kijelölt dohányzóhelyek e törvényben előírt rendelkezéseknek való megfelelőségét az egészségügyi államigazgatási szerv, tűzvédelmi szempontoknak való megfelelőségét a tűzvédelmi hatóság ellenőrzi.
+
+(7) A dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeket, helyiségeket, valamint közterületeket felirat vagy más egyértelmű jelzés alkalmazásával – tűzvédelmi szempontú tilalom esetén szabványos tiltó táblával, illetve piktogrammal – szembetűnő módon meg kell jelölni.
+
+(8) Ha e törvény alapján zárt légterű dohányzóhely kerül kijelölésre, a dohányzóhely nemdohányzó helyiséggel azonos helyiségben nem jelölhető ki. Zárt légterű dohányzóhely esetén a megfelelő légcsere feltételeit nyílászáró szerkezetekkel vagy egyéb műszaki berendezés felszerelésével biztosítani kell úgy, hogy dohányfüst a nemdohányzó helyiségekbe ne juthasson be. E bekezdés alkalmazásában a légcsere abban az esetben megfelelő, ha a helyiségben legalább
 
 a) a friss levegő befúvását, illetve az elhasznált levegő elszívását biztosító mechanikus szellőztető berendezés működik, és
 
 b) a dohányzóhelyek kijelölése, valamint a helyiség légöblítése olyan módon került kialakításra, hogy a dohányfüst a keletkezése helyétől közvetlenül az elszívócsatornába áramlik anélkül, hogy a nemdohányzó helyek az áramlás irányába esnének.
-
-(6) A kijelölt dohányzóhelyek megfelelőségét egészségügyi államigazgatási szerv, illetve tűzvédelmi szempontból a tűzvédelmi hatóság jogosult rendszeresen ellenőrizni.
-
-(7) A dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyiségeket felirat vagy más egyértelmű jelzés alkalmazásával – tűzvédelmi szempontú tilalom esetén szabványos tiltó táblával, illetve piktogrammal – szembetűnő módon meg kell jelölni, valamint a belépő vendégforgalom számára jól látható helyen fel kell tüntetni, ha a szórakoztató, vedéglátóipari szolgáltatást nyújtó közforgalmú intézményben a dohányzás a (3) bekezdés a) pontja alapján korlátozás nélkül megengedett. A jelölés megfelelőségét a fogyasztóvédelmi hatóság rendszeresen ellenőrzi.
-
-(8) A munkavállalók munkahelyi dohányzásának, valamint a dohányzóhelyek munkavállalók részére történő kijelölésének feltételeire e törvény, külön jogszabály, valamint a munkáltató rendelkezései irányadóak.
-
-(9) Közforgalmú intézményben, zárt térben megtartott rendezvényen, valamint tömegközlekedési eszközön 18. életévét be nem töltött személy még a dohányzás számára kijelölt helyen sem dohányozhat.

@@ -8,7 +8,11 @@
 
 (4) Felhatalmazást kapnak az érintett miniszterek, hogy az irányításuk, illetve felügyeletük alá tartozó fegyveres szervek tekintetében a dohányzásra, a dohányzóhelyek kijelölésére, illetve a dohánytermékek forgalmazására vonatkozó részletes, az e törvénnyel összhangban lévő szabályokat rendeletben meghatározzák.
 
-(5)
+(5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+a) a kombinált figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, továbbá a dohánytermékek előállításának, forgalmazásának és ellenőrzésének a jövedéki törvény szabályozási körébe nem tartozó egyéb feltételeit,
+
+b) az egészségvédelmi bírság befizetésének, nyilvántartásának részletes szabályait.
 
 (6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
