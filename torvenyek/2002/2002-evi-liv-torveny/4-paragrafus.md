@@ -2,7 +2,7 @@
 
 a) az a magyar jog szabályaival ellentétes,
 
-b) veszélyezteti a Magyar Köztársaság biztonságát, sérti közrendjét, vagy
+b) veszélyezteti Magyarország biztonságát, sérti közrendjét, vagy
 
 c) politikai vagy katonai bűncselekményre vonatkozik.
 

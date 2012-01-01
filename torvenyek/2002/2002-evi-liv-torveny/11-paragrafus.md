@@ -6,6 +6,4 @@ a) az e törvényben meghatározott együttműködési formák során történő
 
 b) más, az e törvényben meghatározott együttműködési formákhoz közvetlenül kapcsolódó büntető-, illetve szabálysértési eljárásban való felhasználás végett.
 
-(3) Az e törvény keretei között megszerzett személyes vagy különleges adat továbbítása harmadik személy vagy szerv részére csak az átadó szerv előzetes hozzájárulásával lehetséges.
-
-(4) A személyes, illetve különleges adat kezelésénél az átadó szerv által meghatározott feltételek figyelembevételével kell eljárni.
+(3)–(4)

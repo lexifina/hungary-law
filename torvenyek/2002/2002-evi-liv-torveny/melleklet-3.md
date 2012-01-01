@@ -42,13 +42,9 @@ A törvény 29. § (1) bekezdésének b) pontjában meghatározott bűncselekmé
 
 20. pénzhamisítás (Btk. 304–304/A. §);
 
-21. adócsalás [Btk. 310. § (2)–(5) bekezdés];
+21. költségvetési csalás [Btk. 310. § (2)–(7) bekezdés], amelyen érteni kell a 2011. december 31-ig hatályban volt adócsalást, visszaélés jövedékkel bűncselekményt, valamint a csempészet súlyosabban minősülő eseteit is;
 
-22. visszaélés jövedékkel [Btk. 311. § (2)–(4) bekezdés];
-
-23. jövedéki orgazdaság [Btk. 311/A. § (2)–(4) bekezdés];
-
-24. csempészet súlyosabban minősülő esetei [Btk. 312. § (2)–(4) bekezdés];
+22–24.
 
 25. lopás, ha annak tárgya gépjármű (Btk. 316. §), illetve a dolog elleni erőszakkal elkövetett lopás [Btk. 316. § (5) bekezdés b) pontja, a (6) bekezdés b) pontja, valamint a (7) bekezdés b) pontja] szerint minősülő esetei;
 
@@ -56,7 +52,7 @@ A törvény 29. § (1) bekezdésének b) pontjában meghatározott bűncselekmé
 
 27. zsarolás (Btk. 323. §);
 
-28. az orgazdaság súlyosabban minősülő esetei [Btk. 326. § (3)–(5) bekezdés];
+28. az orgazdaság súlyosabban minősülő esetei [Btk. 326. § (3)–(5) bekezdés], amelyen érteni kell a 2011. december 31-ig hatályban volt jövedéki orgazdaságot is;
 
 29. szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 329/A. § (2)–(3) bekezdés];
 

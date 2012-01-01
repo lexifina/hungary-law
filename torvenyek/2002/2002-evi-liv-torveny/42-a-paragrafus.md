@@ -16,7 +16,7 @@ c) ha az intervenciós egységben való közreműködésre kijelölt szerv a ké
 
 és erről az érintett tagállamot a NEBEK-en keresztül haladéktalanul tájékoztatja.
 
-(5) A segítségnyújtás különösen az érintett tagállam megkeresésére felszerelés, valamint szakértők biztosításából vagy az érintett tagállam által – a Magyar Köztársaság területén a magyar intervenciós egység felügyelete és irányítása mellett – a 8. § a)–k) pontjában meghatározott műveletek végrehajtásából áll.
+(5) A segítségnyújtás különösen az érintett tagállam megkeresésére felszerelés, valamint szakértők biztosításából vagy az érintett tagállam által – Magyarország területén a magyar intervenciós egység felügyelete és irányítása mellett – a 8. § a)–k) pontjában meghatározott műveletek végrehajtásából áll.
 
 (6) A megkeresésben foglaltak elfogadása vagy más jellegű segítség felajánlása esetén a segítségnyújtás végrehajtásáról az érintett tagállammal az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója megállapodást köt, amely tartalmazza:
 
