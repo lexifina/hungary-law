@@ -1,34 +1,34 @@
 |  | A | B | C |
 
-| 1 | Baromfi megnevezése | Időszak | Elkülönített támogatási pénzösszeg (millió Ft) |
+| 1. | Baromfi megnevezése | Időszak | Elkülönített támogatási pénzösszeg (millió Ft) |
 
-| 2 | növendék csirke (vágócsirke) |  |  |
+| 2. | növendék csirke (vágócsirke) szabadtartásos csirke és gyöngyös | negyedévenként | 475,00 |
 
-| szabadtartásos csirke és gyöngyös | negyedévenként | 475,00 |
+| 3. | házi tyúk | I. negyedév | 60,00 |
 
-| 3 |  | I. negyedév | 60,00 |
+| II. negyedév | 62,50 |
 
-| 4 | házi tyúk | II. negyedév | 62,50 |
+| III. negyedév | 75,00 |
 
-| 5 |  | III. negyedév | 75,00 |
+| IV. negyedév | 52,50 |
 
-| 6 |  | IV. negyedév | 52,50 |
+| 4. | pecsenyeliba |  |  |
 
-| 7 | pecsenyeliba | I. negyedév | 130,40 |
+| növendék liba |  |  |
 
-| 8 | növendék liba |
+| fiatal liba | I. negyedév | 130,40 |
 
-| 9 | fiatal liba |
-
-| 10 | hízott liba | II. negyedév | 180,65 |
+| hízott liba | II. negyedév | 180,65 |
 
 | pecsenyekacsa | III. negyedév | 240,00 |
 
-| hízott liba | IV. negyedév | 251,95 |
+| növendék kacsa | IV. negyedév | 251,95 |
 
-| 11 | növendék pulyka | negyedévenként | 261,75 |
+| hízott kacsa |  |  |
 
-| 12 | Összesen: |  | 4000,00 |
+| 5. | növendék pulyka | negyedévenként | 261,75 |
+
+| 6. | Összesen: |  | 4000,00 |
 
 5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^51]
 

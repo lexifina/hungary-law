@@ -12,4 +12,4 @@
 
 4. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^50]
 
-[^50]: A 4. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^50]: A 4. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 139/2011. (XII. 22.) VM rendelet 5. §-ával megállapított szöveg.
