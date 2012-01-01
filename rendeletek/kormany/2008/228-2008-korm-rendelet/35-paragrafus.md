@@ -8,9 +8,9 @@
 
 (2) Az (1) bekezdésben meghatározott, a feladatok papír alapon történő elvégzésének kötelezettsége vonatkozik az értesítési, tájékoztatási kötelezettségekre is.
 
-(3)[^69]
+(3)[^70]
 
-(4)[^70] Az IMIR 2007–2013-ra vonatkozó eljárásrendeket, kézikönyveket az Irányító Hatóság hagyja jóvá.
+(4)[^71] Az IMIR 2007–2013-ra vonatkozó eljárásrendeket, kézikönyveket az Irányító Hatóság hagyja jóvá.
 
-[^69]: A 35. § (3) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 30. §-a hatályon kívül helyezte.
-[^70]: A 35. § (4) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 60. §-a iktatta be.
+[^70]: A 35. § (3) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^71]: A 35. § (4) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 60. §-a iktatta be.

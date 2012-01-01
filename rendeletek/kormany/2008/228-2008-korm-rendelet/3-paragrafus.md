@@ -16,7 +16,7 @@ e)[^4] partner: több jogi személy vagy jogi személyiséggel nem rendelkező g
 
 f) hazai partner: magyarországi székhellyel rendelkező partner;
 
-g)[^5] szabálytalanság: az Európai Unió joga valamely rendelkezésének bármiféle megsértése, továbbá a nemzeti jogszabályok előírásainak, illetve a közösségi támogatási szerződésben, illetve a hazai társfinanszírozási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amely az Európai Unió általános költségvetését az általános költségvetésre rótt indokolatlan költség formájában sérti vagy sértheti, illetve amelyek eredményeképpen a Magyar Köztársaság pénzügyi érdekei sérülnek, illetve sérülhetnek;
+g)[^5] szabálytalanság: az Európai Unió joga valamely rendelkezésének bármiféle megsértése, továbbá a nemzeti jogszabályok előírásainak, illetve a közösségi támogatási szerződésben, illetve a hazai társfinanszírozási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amely az Európai Unió általános költségvetését az általános költségvetésre rótt indokolatlan költség formájában sérti vagy sértheti, illetve amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek;
 
 h) rendszerjellegű szabálytalanság: adott operatív program irányítási és ellenőrzési rendszeréből fakadó szabálytalanság;
 
@@ -31,7 +31,7 @@ k)[^8] Technikai Segítségnyújtás projekt kedvezményezettje: Technikai Segí
 [^2]: A 2. § a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés d) pontja a 314/2009. (XII. 28.) Korm. rendelet 57. § (2) bekezdése szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdésének e) pontja a 160/2009. (VIII. 3.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (1) bekezdésének g) pontja a 160/2009. (VIII. 3.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdésének g) pontja a 160/2009. (VIII. 3.) Korm. rendelet 52. § (2) bekezdésével megállapított, a 304/2011. (XII. 23.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdésének i) pontját a 160/2009. (VIII. 3.) Korm. rendelet 52. § (3) bekezdése iktatta be.
 [^7]: A 3. § (1) bekezdésének j) pontját a 160/2009. (VIII. 3.) Korm. rendelet 52. § (3) bekezdése iktatta be.
 [^8]: A 3. § (1) bekezdésének k) pontját a 160/2009. (VIII. 3.) Korm. rendelet 52. § (3) bekezdése iktatta be.
