@@ -17,3 +17,5 @@
 (7) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 40. § (1) bekezdés b) pontját a 2011. augusztus 31-ét követően bekövetkező szülések esetén kell alkalmazni.
 
 (8) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 40. § (2) bekezdés a) pontját, valamint a 42/A. § (4) bekezdés a) pontját a 2013. július 31-ét követően bekövetkező szülések esetén kell alkalmazni.
+
+(9) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított 20. § (2) bekezdés szerinti országos várólista nyilvántartást, valamint a 20. § (1) bekezdés a) pontja szerinti térségi várólistákat az adott térségben az adott ellátások tekintetében a térségben működő egészségügyi szolgáltatók által vezetett intézményi várólisták alapján – kormányrendeletben meghatározottak szerint – 2012. április 30-áig kell létrehozni.

@@ -12,7 +12,7 @@ c) a gyógyszerek, gyógyászati segédeszközök és a gyógyászati ellátáso
 
 d) a külföldön történő gyógykezelés feltételeinek és elszámolási rendjének,
 
-e) a beutaló nélkül igénybe vehető szakellátások, a beutalásra jogosult orvosok körének és a beutalási rend,
+e) a beutaló nélkül igénybe vehető szakellátások, a beutalásra jogosult orvosok körének, a beutalási rendnek, a szolgáltató-választás feltételeinek és eljárási szabályainak,
 
 f) a magánszemély által jogalap nélkül felvett, igénybe vett ellátás visszatérítése, illetve megtérítése iránti követelés mérséklése, elengedése esetén gyakorolható méltányosság szempontjainak, valamint a kirótt kamat, késedelmi pótlék, mulasztási bírság mérséklése, elengedése során gyakorolható méltányosság szempontjainak,
 
@@ -56,9 +56,21 @@ y) az elszámolási nyilatkozattal kapcsolatos részletes szabályok,
 
 z) az Európai Egészségbiztosítási Kártya érvényességi idejének és kibocsátása szabályainak
 
-zs) a várólistára és a betegfogadási listára vonatkozó szabályok
+zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzésre és a betegfogadási listára vonatkozó szabályok
 
 meghatározására.
+
+(2a) Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) határozza meg az országos várólista nyilvántartás, valamint a térségi várólistáknak a korábbi intézményi várólisták alapján történő létrehozásának szabályait,
+
+b) jelölje ki a térségi betegút-szervezésért felelős szervet,
+
+c) jelölje ki az országos várólista nyilvántartást vezető szervet,
+
+d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, az intézményi előjegyzés alapján, illetve a betegfogadási lista alapján végzett ellátásokkal kapcsolatos jelentés szabályait.
+
+(2b) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg az egészségbiztosító által a 31. § (11) bekezdése alapján kiszabható bírság mértékét.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
@@ -66,7 +78,7 @@ a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapj�
 
 b) a társadalombiztosítási támogatással kölcsönözhető, kizárólag kölcsönzés keretében kiszolgáltatható vagy a beteg tulajdonába csak a kölcsönzési időszakot követően adható gyógyászati segédeszközök körét, valamint a kölcsönzési díjhoz nyújtott támogatás alapját és mértékét,
 
-c) a gyógyszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának és a támogatás mértéke megállapításának szempontrendszerét, valamint a társadalombiztosítási támogatásba befogadott gyógyszerek hivatalból történő felülvizsgálatának szempontjait,
+c) a gyógyszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának és a támogatás mértéke megállapításának szempontrendszerét, valamint a társadalombiztosítási támogatásba befogadott gyógyszerek, gyógyászati segédeszközök hivatalból történő felülvizsgálatának szempontjait és eljárási szabályait,
 
 d) a nagy értékű, országosan nem elterjedt műtéti eljárások, beavatkozások díjtételeit, valamint az aktív fekvőbeteg-szakellátásban a sürgősségi ellátási formák havi fix összegű díjazását,
 
@@ -92,7 +104,7 @@ e) a szanatóriumi ellátásokat,
 
 f) a betegszállításra jogosító kúraszerű kezeléseket,
 
-g) a várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének egészségügyi szakmai feltételeit és szabályait, továbbá a várólista adatainak honlapon történő közzétételére vonatkozó szabályait,
+g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzés, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzés adatainak honlapon történő közzétételére vonatkozó szabályokat,
 
 h) a beutalás szakmai szabályait,
 
@@ -100,7 +112,7 @@ i) az egyes egészségügyi szolgáltatások körébe tartozó beavatkozásokat,
 
 j) a gyógyászati ellátások körébe tartozó szolgáltatásokat,
 
-k) az egészségügyi szakellátás társadalombiztosítási finanszírozásának körében a határnapon belüli ismételt felvételre vonatkozó összevonási szabály alóli kivételeket, a tételes elszámolás alá eső egyszerhasználatos eszközök és implantátumok jegyzékét; a tételes elszámolás alá eső gyógyszerek jegyzékét és kódját; a J0 ellátási szintű laboratóriumokból jelenthető eljárásokat (OENO); a meghatározott intézeti körben végezhető ellátásokat tartalmazó homogén betegségcsoportokat; az egynapos beavatkozásokat (kivéve 1 éves kor alatt); az aktív fekvőbeteg-ellátási háttér mellett ambuláns formában is nyújtható kúraszerű kezeléseket; a dializálási eljárásokat; és a vérkészítmények térítési díját,
+k) az egészségügyi szakellátás társadalombiztosítási finanszírozásának körében a határnapon belüli ismételt felvételre vonatkozó összevonási szabály alóli kivételeket, a tételes elszámolás alá eső egyszerhasználatos eszközök és implantátumok jegyzékét; a tételes elszámolás alá eső hatóanyagok körét és kódját; a J0 ellátási szintű laboratóriumokból jelenthető eljárásokat (OENO); a meghatározott intézeti körben végezhető ellátásokat tartalmazó homogén betegségcsoportokat; az egynapos beavatkozásokat (kivéve 1 éves kor alatt); az aktív fekvőbeteg-ellátási háttér mellett ambuláns formában is nyújtható kúraszerű kezeléseket; a dializálási eljárásokat; és a vérkészítmények térítési díját,
 
 l) a finanszírozás alapjául szolgáló homogén betegségcsoportokat és azok súlyszámértékét,
 
@@ -118,7 +130,7 @@ r) az anyatejellátás szakmai és közegészségügyi követelményeit,
 
 s) az anyatej társadalombiztosítási támogatás alapjául szolgáló literenkénti árát, valamint a támogatás elszámolási módját,
 
-t) a magyar egészségbiztosítási jogszabályok alapján egészségügyi szolgáltatásra nem jogosult, a Magyar Köztársaság területén tartózkodó személyek betegellátásának szabályait,
+t) a magyar egészségbiztosítási jogszabályok alapján egészségügyi szolgáltatásra nem jogosult, a Magyarország területén tartózkodó személyek betegellátásának szabályait,
 
 u) a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeit,
 
@@ -146,7 +158,7 @@ e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egy
 
 f) az egészségügyi ellátás finanszírozásában használt kódrendszerek meghatározását és alkalmazásainak részletszabályait,
 
-g) a szakmai ellenjegyzéssel kiszolgáltatható egyes gyógyászati segédeszközök körét, a szakmai ellenjegyzés feltételeit és a mérlegelés szempontjait.
+g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközök körét, az egészségbiztosítói ellenjegyzés feltételeit és a mérlegelés szempontjait, valamint az ellenjegyzéssel kapcsolatos eljárási szabályokat.
 
 (7)
 

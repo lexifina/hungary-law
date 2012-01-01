@@ -16,4 +16,4 @@ d) az Egészségbiztosítási Alapból (a továbbiakban: E. Alap) finanszírozot
 
 terjed ki.
 
-(2)
+(2) A megváltozott munkaképességű személyek egészségbiztosítási ellátások körébe tartozó ellátásairól külön törvény rendelkezik.

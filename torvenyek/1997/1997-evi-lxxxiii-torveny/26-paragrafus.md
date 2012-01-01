@@ -26,7 +26,13 @@ d) az (1) bekezdés c) pontja szerinti gyógyászati segédeszközre, amennyiben
 
 a) olyan gyógyszerhez vagy gyógyászati segédeszközhöz, amelyre vonatkozóan a Gyftv. szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve, ha az elutasítás költségvetési fedezet hiányán alapult,
 
-b) olyan, Magyarországon az adott indikációra forgalomba hozatali engedéllyel rendelkező gyógyszerhez, amely esetén a kérelem benyújtása hónapját megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapban az azonos hatóanyag-tartalmú készítményekkel méltányosság alapján kezelt betegek száma elérte az 50 főt, kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre benyújtott társadalombiztosítási támogatás iránti kérelem elbírálása az egészségbiztosítási szervnél már folyamatban van.
+b) olyan, Magyarországon az adott indikációra forgalomba hozatali engedéllyel rendelkező gyógyszerhez, amely esetén
+
+ba) a kérelem benyújtása hónapját megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapban az azonos hatóanyag-tartalmú gyógyszerekkel méltányosság alapján kezelt betegek száma elérte az 50 főt, vagy
+
+bb) egy beteg tekintetében elérte az engedély időtartamára vonatkozóan a 8 millió Ft támogatás összeget,
+
+kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre benyújtott társadalombiztosítási támogatás iránti kérelem elbírálása az egészségbiztosítási szervnél már folyamatban van.
 
 (5) Az (1) bekezdés alapján méltányosságból támogatás
 

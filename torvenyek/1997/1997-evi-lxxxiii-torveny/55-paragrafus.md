@@ -6,7 +6,7 @@
 
 (3) A baleseti táppénz – az előzetes biztosítási időre és táppénzfolyósításra tekintet nélkül – egy éven keresztül jár azzal, hogy a baleseti táppénz folyósítása legfeljebb egy évvel meghosszabbítható.
 
-(4) Nem jogosult baleseti táppénzre az, aki ugyanazon üzemi balesetből eredően baleseti rokkantsági nyugdíjban vagy baleseti járadékban részesül.
+(4) Nem jogosult baleseti táppénzre az, aki ugyanazon üzemi balesetből eredően baleseti járadékban részesül.
 
 (5) A baleseti táppénzre való jogosultság megállapításánál a betegszabadságra vonatkozó rendelkezéseket nem kell alkalmazni.
 

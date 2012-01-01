@@ -12,4 +12,6 @@ d) az előzetes letartóztatás és a szabadságvesztés tartamára.
 
 e) a saját jogú nyugdíj folyósításának időtartamára.
 
+f) a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék és az átmeneti bányászjáradék folyósításának az idejére, ide nem értve a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék, illetve az átmeneti bányászjáradék mellett végzett munka alapján járó táppénzt.
+
 (3) A táppénz folyósítását meg kell szüntetni, ha a jogosult az elrendelt orvosi vizsgálaton elfogadható ok nélkül nem jelent meg, vagy a keresőképesség elbírálását külön jogszabályban foglaltak szerint ellenőrző (fő)orvos vizsgálatához nem járult hozzá. Az ellenőrző (fő)orvos – a kezelő orvos jelenlétében – a keresőképességet a jogosult tartózkodási helyén is ellenőrizheti. A táppénz folyósítását akkor is meg kell szüntetni, ha a táppénzre jogosult a keresőképességét elbíráló orvos utasításait nyilvánvalóan nem tartja be, illetőleg a gyógyulását tudatosan késlelteti.

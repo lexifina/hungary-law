@@ -15,3 +15,5 @@ b) megfelel a külön jogszabályban meghatározott személyi és tárgyi felté
 c) nem rendelkezik olyan köztartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
 
 (3) Az egészségbiztosító külön jogszabályban meghatározott esetben külön jogszabály szerinti hatósági bizonyítvánnyal rendelkező nem egészségügyi szolgáltatóval is köthet szerződést gyógyászati segédeszköz egyedi méretvétel alapján társadalombiztosítási támogatással történő gyártására, illetve ezen eszközök társadalombiztosítási támogatással történő javítására.
+
+(4) Az (1) bekezdés szerinti szerződés megkötésének, az egészségügyi szolgáltató által kezdeményezett módosításának, illetve az egészségügyi szolgáltató általi felmondásának érvényességi feltétele az egészségügyi szakellátások esetében az egészségügyi szolgáltató fenntartója általi jóváhagyás.
