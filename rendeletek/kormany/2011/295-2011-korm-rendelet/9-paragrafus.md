@@ -1,0 +1,3 @@
+## 8. § A Rend. 25. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+## „b) ha az adott állam, illetékes bírósága vagy hatósága nem bocsát ki a 23. § vagy 24. § szerinti kivonatot vagy igazolást, vagy azok nem terjednek ki a 23. § vagy 24. §-ban hivatkozott esetek mindegyikére, vagy ha a kibocsátásra jogosított szervek eljárási időtartama meghaladja az ajánlattételi határidőt, az ajánlattevő (alvállalkozó) eskü alatt tett nyilatkozatát, vagy ha ilyen nyilatkozat nem ismert az érintett országban, az ajánlattevő (alvállalkozó) által az illetékes bíróság, hatóság, közjegyző, kamara vagy szakmai szervezet előtt tett, vagy általuk hitelesített nyilatkozatot.”
