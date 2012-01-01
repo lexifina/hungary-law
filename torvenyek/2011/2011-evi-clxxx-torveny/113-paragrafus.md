@@ -1,0 +1,3 @@
+113. § Az Fmhtv. 55. § (1) bekezdésének második mondata helyébe a következő rendelkezés lép:
+
+„Ha a végrehajtást kérő ugyanazon fizetési meghagyás alapján, ugyanannak a követelésnek a végrehajtását több, egyetemlegesen kötelezett adóssal szemben egyidejűleg kéri, csak az egyik adóssal szemben előterjesztett végrehajtási kérelemre kell megfizetni a végrehajtási díjat, a további adóssal szemben előterjesztett végrehajtható okirat kiállítási kérelemre 5000 Ft díjat kell adósonként megfizetni; az így megfizetett összes díjat az adósokon egyenlő arányban kell behajtani. A díjat a végrehajtást kérő előlegezi és a végrehajtás elrendelése esetén az adós, minden más esetben a végrehajtást kérő viseli.”
