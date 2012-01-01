@@ -1,1 +1,0 @@
-## Állományhoz tartozás igazolása
