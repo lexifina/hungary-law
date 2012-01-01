@@ -1,0 +1,1 @@
+## 72. § A vasúti rendszer kölcsönös átjárhatóságáról szóló 30/2010. (XII. 23.) NFM rendelet 1. § (1) bekezdés nyitó szövegrészében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

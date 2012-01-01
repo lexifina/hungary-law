@@ -1,0 +1,1 @@
+## 68. § A polgári repülés hajózó személyzete egyes tagjainak repülési idejéről szóló 44/2009. (IX. 4.) KHEM rendelet 1. §-ában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,0 +1,1 @@
+## 2. § Az egyes veszélyes tevékenységek biztonsági követelményeiről szóló szabályzatok kiadásáról szóló 17/1993. (VII. 1.) KHVM rendelet 4. számú melléklet 1. pont 1.4. alpontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

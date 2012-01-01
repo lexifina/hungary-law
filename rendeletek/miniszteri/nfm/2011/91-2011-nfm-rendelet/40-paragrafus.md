@@ -1,0 +1,1 @@
+## 39. § A postai piac szereplőinek a hírközlési hatóság részére történő adatszolgáltatási kötelezettségéről és az adatkezelés szabályairól szóló 12/2004. (IV. 22.) IHM rendelet 1. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

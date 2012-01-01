@@ -1,0 +1,1 @@
+## 38. § A rádióberendezésekről és az elektronikus hírközlő végberendezésekről, valamint megfelelőségük kölcsönös elismeréséről szóló 5/2004. (IV. 13.) IHM rendelet 4. § (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

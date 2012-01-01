@@ -1,0 +1,1 @@
+## 47. § A belvízi légpárnás kishajók megfelelőségének feltételeiről szóló 120/2005. (XII. 28.) GKM rendelet 1. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

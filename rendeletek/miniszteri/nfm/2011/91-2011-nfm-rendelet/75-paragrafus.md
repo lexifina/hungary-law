@@ -1,0 +1,1 @@
+## 74. § Egyes fejezeti kezelésű előirányzatok felhasználásáról szóló 9/2011. (IV. 7.) NFM rendelet 19. § (1) bekezdésében és 20. § (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

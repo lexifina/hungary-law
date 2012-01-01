@@ -1,0 +1,1 @@
+## 48. § A tengerészek munkaidejére vonatkozó rendelkezések végrehajtásáról szóló 121/2005. (XII. 28.) GKM rendelet 1. § b) pontjában és 3. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

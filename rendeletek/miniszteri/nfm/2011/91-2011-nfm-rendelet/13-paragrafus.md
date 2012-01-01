@@ -1,0 +1,1 @@
+## 12. § A közúti jelzőtáblák méreteiről és műszaki követelményeiről szóló 4/2001. (I. 31.) KöViM rendelet 1. § (2) bekezdés a) pontjában az „A Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,0 +1,1 @@
+## 36. § Az ömlesztett árut szállító tengeri hajók biztonságos rakodásáról szóló 1/2004. (I. 5.) GKM rendelet 1. § c) pontjában és 2. § c) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

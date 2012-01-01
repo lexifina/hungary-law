@@ -1,0 +1,1 @@
+## 40. § A rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadásáról szóló 60/2004. (IV. 24.) GKM rendelet mellékletében a „MAGYAR KÖZTÁRSASÁG” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,0 +1,1 @@
+## 70. § Az Általános Robbantási Biztonsági Szabályzatról szóló 13/2010. (III. 4.) KHEM rendelet 1. § (2) bekezdés a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

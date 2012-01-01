@@ -1,0 +1,1 @@
+## 71. § A meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló 13/2010. (X. 5.) NFM rendelet 1. § (1) bekezdésében és 7. § (1) bekezdés d) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

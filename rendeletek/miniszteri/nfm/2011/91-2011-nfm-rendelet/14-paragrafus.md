@@ -1,0 +1,1 @@
+## 13. § A légiközlekedési szakszemélyzet szakszolgálati engedélyeiről szóló 5/2001. (II. 6.) KöViM rendelet 4. § (1) bekezdés a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

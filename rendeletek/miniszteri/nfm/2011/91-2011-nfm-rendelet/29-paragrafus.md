@@ -1,0 +1,1 @@
+## 28. § A légi közlekedéssel kapcsolatos hatósági eljárások díjairól szóló 3/2002. (VI. 20.) GKM rendelet melléklete 60–62. és 66–67. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

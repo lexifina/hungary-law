@@ -1,0 +1,1 @@
+## 45. § Az elektronikus aláírási termékek tanúsítását végző szervezetekről, illetve a kijelölésükre vonatkozó szabályokról szóló 9/2005. (VII. 21.) IHM rendelet 2. mellékletében a „MAGYAR KÖZTÁRSASÁG” szövegrész helyébe a „MAGYARORSZÁG” szöveg lép.

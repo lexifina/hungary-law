@@ -1,0 +1,1 @@
+## 26. § A polgári légi jármű üzemben tartásának szakmai feltételeiről és engedélyezési eljárásáról szóló 20/2002. (III. 30.) KöViM rendelet 1. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

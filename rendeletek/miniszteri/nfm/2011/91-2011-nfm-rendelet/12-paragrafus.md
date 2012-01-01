@@ -1,0 +1,1 @@
+## 11. § A közutakon végzett munkák elkorlátozási és forgalombiztonsági követelményeiről szóló 3/2001. (I. 31.) KöViM rendelet 1. § (2) bekezdés a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,0 +1,1 @@
+## 41. § A hírközlési hatóság postai szolgáltatással és postai közvetítői tevékenységgel kapcsolatos piacfelügyeleti, minőségfelügyeleti és ellenőrzési tevékenységéről szóló 13/2004. (IV. 24.) IHM rendelet 1. § nyitó szövegrészében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

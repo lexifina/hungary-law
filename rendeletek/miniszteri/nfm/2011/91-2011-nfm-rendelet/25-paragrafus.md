@@ -1,0 +1,1 @@
+## 24. § A tengeri személyhajókra vonatkozó biztonsági követelményekről szóló 12/2002. (II. 7.) KöViM rendelet 2. számú mellékletében az „a MAGYAR KÖZTÁRSASÁG” szövegrész helyébe a „MAGYARORSZÁG” szöveg lép.

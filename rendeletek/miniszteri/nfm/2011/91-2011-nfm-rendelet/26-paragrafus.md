@@ -1,0 +1,1 @@
+## 25. § A hajózásra alkalmas, illetőleg hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek víziúttá nyilvánításáról szóló 17/2002. (III. 7.) KöViM rendelet 1. § (1) bekezdés a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
