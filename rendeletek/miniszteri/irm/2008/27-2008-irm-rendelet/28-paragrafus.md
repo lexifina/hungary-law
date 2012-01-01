@@ -10,10 +10,10 @@ b) közzétehető összegű ajánlattal kitöltött adatlap alapján automatikus
 
 c) nem közzétehető összegű ajánlat esetén ne tegyen közzé vételi ajánlatot, hanem erről – a közzététel akadályának megjelölésével – küldjön hibaüzenetet az árverező részére.
 
-(3)[^12] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell
+(3)[^14] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell
 
 a) üzletrész árverése során az elővásárlási jog gyakorlására,
 
 b) lakóingatlan árverése során a települési önkormányzat lakástörvény szerinti elővásárlási jogának gyakorlására
 
-[^12]: A 28. § (3) bekezdése a 31/2009. (VIII. 14.) IRM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján az új informatikai alkalmazást azokon az árveréseken kell alkalmazni, amelyek árverési hirdetményét 2009. augusztus 21. napját követően tették közzé az elektronikus árverési hirdetmények nyilvántartásában.
+[^14]: A 28. § (3) bekezdése a 31/2009. (VIII. 14.) IRM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján az új informatikai alkalmazást azokon az árveréseken kell alkalmazni, amelyek árverési hirdetményét 2009. augusztus 21. napját követően tették közzé az elektronikus árverési hirdetmények nyilvántartásában.
