@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-177-20-
 | 2011-03-23 | 2005-177-20-22.20 | 357/2008. (XII. 31.) Korm. rendelet |
 | 2011-07-15 | 2005-177-20-22.21 | 121/2011. (VII. 15.) Korm. rendelet |
 | 2011-12-14 | 2005-177-20-22.22 | 352/2009. (XII. 30.) Korm. rendelet |
+| 2012-01-01 | 2005-177-20-22.23 | 333/2011. (XII. 29.) Korm. rendelet |
