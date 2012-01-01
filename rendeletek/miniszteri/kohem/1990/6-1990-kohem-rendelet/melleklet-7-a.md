@@ -22,7 +22,7 @@
 
 ## A vizsgálati módszer és a számítási eljárás Otto-rendszerű motor esetén az MSZ 21871 számú, Dízel-rendszerű motor esetén az MSZ 21866/1–4. számú szabvány szerint. (A szabvány szerint meghatározott g/kWh fajlagos kibocsátás átszámítása g/MJ-ra: 1 g/MJ = 3,6 g/kWh.)
 
-7/A. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^273]
+7/A. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^274]
 
 ## A rendelet 16/A. §-ának (1) bekezdésében meghatározott tilalom alól mentesülő egyes anyagok és alkatrészek
 
@@ -114,5 +114,5 @@ Megjegyzések:
 
 3. A 2003. július 1. előtt forgalomba helyezett járművekben való felhasználásra szánt, 2003. július 1. után forgalomba hozott pótalkatrészek mentesülnek a 16/A. § (1) bekezdésben foglalt rendelkezések alól[^*.]
 
-[^273]: A 7/A. számú mellékletet a 35/2004. (III. 30.) GKM rendelet 11. § c) pontja iktatta be, szövege a 41/2010. (V. 12.) KHEM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^274]: A 7/A. számú mellékletet a 35/2004. (III. 30.) GKM rendelet 11. § c) pontja iktatta be, szövege a 41/2010. (V. 12.) KHEM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^*.]: * Ez a kikötés nem vonatkozik a kerékkiegyensúlyozó súlyokra, az elektromotorok szénkeféire és a fékbetétekre.

@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2011-03-02 | 1990-6-20-5E.66 | 44/2001. (XII. 18.) KöViM rendelet |
 | 2011-04-09 | 1990-6-20-5E.67 | 26/2010. (XII. 22.) NFM rendelet |
 | 2011-12-07 | 1990-6-20-5E.68 | 63/2011. (XI. 29.) NFM rendelet |
+| 2012-01-01 | 1990-6-20-5E.69 | 63/2011. (XI. 29.) NFM rendelet |

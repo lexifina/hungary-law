@@ -16,9 +16,9 @@ A vezető szemhelyzetének meghatározását és a takarási szögek mérési m�
 
 (2) A menetrend szerinti helyi forgalmat lebonyolító autóbusz jobb oldali külső visszapillantó tükrének, valamint a tükrök tartószerkezetének legalsó pontja az úttest szintjéhez 2,10 méternél közelebb nem lehet.
 
-(3)[^137] A műszakilag megengedett legnagyobb össztömegig terhelt járműre szerelt, az A. Függelék A/8. számú mellékletének A. fejezete szerinti V. osztályba tartozó tükör minden alkatrészének 2,0 méternél magasabban kell lennie.
+(3)[^138] A műszakilag megengedett legnagyobb össztömegig terhelt járműre szerelt, az A. Függelék A/8. számú mellékletének A. fejezete szerinti V. osztályba tartozó tükör minden alkatrészének 2,0 méternél magasabban kell lennie.
 
-(4)[^138] A kiegészítő tükrök és a közvetett látást biztosító egyéb berendezések összes látóterének az A. Függelék A/8. számú melléklet A. fejezete értelmében a IV. osztályba tartozó visszapillantó tükrök esetén a talajszinten mért teljes látótér legalább 95%-át, az V. osztályba tartozó tükrök esetén a talajszinten mért látótér 85%-át le kell fednie.
+(4)[^139] A kiegészítő tükrök és a közvetett látást biztosító egyéb berendezések összes látóterének az A. Függelék A/8. számú melléklet A. fejezete értelmében a IV. osztályba tartozó visszapillantó tükrök esetén a talajszinten mért teljes látótér legalább 95%-át, az V. osztályba tartozó tükrök esetén a talajszinten mért látótér 85%-át le kell fednie.
 
-[^137]: A 79. § (3) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 2. §-a iktatta be.
-[^138]: A 79. § (4) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 2. §-a iktatta be.
+[^138]: A 79. § (3) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 2. §-a iktatta be.
+[^139]: A 79. § (4) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 2. §-a iktatta be.
