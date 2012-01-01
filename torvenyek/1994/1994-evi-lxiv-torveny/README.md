@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-64-00-00
 | 2010-10-04 | 2010. évi LXVIII. törvény | 1994-64-00-00.14 |
 | 2010-12-24 | 2010. évi CLXV. törvény | 1994-64-00-00.15 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1994-64-00-00.16 |
+| 2012-01-01 | 2011. évi CLXXXIX. törvény | 1994-64-00-00.17 |

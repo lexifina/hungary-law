@@ -1,4 +1,4 @@
-13/B. § (1) Közszolgálati járadékra jogosult az a foglalkoztatási jogviszonyban álló polgármester, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy legalább három választási ciklus – de legalább tizenegy év – során foglalkoztatási jogviszonyban polgármesteri vagy foglalkoztatási jogviszonyban alpolgármesteri tisztséget tölt be, és a foglalkoztatási jogviszonyának megszűnését követő tizenkettedik naptári év végéig a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri, s megfelel a Tny. egyéb jogosultsági feltételeinek.
+13/B. § (1) Közszolgálati járadékra jogosult az a foglalkoztatási jogviszonyban álló polgármester, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy legalább három választási ciklus – de legalább tizenegy év – során foglalkoztatási jogviszonyban polgármesteri vagy foglalkoztatási jogviszonyban alpolgármesteri tisztséget tölt be, és a foglalkoztatási jogviszonyának megszűnését követő tizenkettedik naptári év végéig a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, eléri, s megfelel a Tny. egyéb jogosultsági feltételeinek, továbbá öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban és rehabilitációs ellátásban nem részesül.
 
 (2) A közszolgálati járadék összege:
 
@@ -14,7 +14,7 @@ c) öt, vagy ennél több választási ciklust – de legalább tizenkilenc éve
 
 a) bármilyen munkavégzésre irányuló jogviszonyt létesít, vagy
 
-b) öregségi, rokkantsági (baleseti rokkantsági) nyugdíjban részesül.
+b) öregségi nyugdíjban részesül.
 
 (5) Az (1) bekezdésben foglalt jogosultság igénybevételéről a polgármester a tisztségének megszűnésétől számított három hónapon belül dönthet.
 

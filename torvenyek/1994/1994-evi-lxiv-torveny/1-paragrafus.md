@@ -12,8 +12,8 @@ b) a szervezeti és működési szabályzat módosításával jön létre a hár
 
 (4) A polgármestert kérésére — foglalkoztatási jogviszonyának időtartamára — a megválasztásakor fennálló munkaviszonya, közalkalmazotti jogviszonya szerinti munkáltatója — közalkalmazottak esetében az intézményvezetői megbízás egyidejű visszavonásával — köteles fizetés nélküli szabadságban részesíteni. E rendelkezést a szövetkezet és tagja között létrejött munkaviszony jellegű jogviszonyra is alkalmazni kell.
 
-(5) Ha a polgármester megválasztása előtt ügyész, köztisztviselő, a Magyar Honvédség, a rendvédelmi szervek hivatásos állományú tagja volt, a polgármesteri tisztség megszűnésétől számított 30 napon belül benyújtott írásbeli kérelmére őt közszolgálati, illetve hivatásos szolgálati viszonyába vissza kell helyezni.
+(5) Ha a polgármester megválasztása előtt ügyész, köztisztviselő, a Magyar Honvédség, a rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja volt, a polgármesteri tisztség megszűnésétől számított 30 napon belül benyújtott írásbeli kérelmére őt közszolgálati, illetve hivatásos szolgálati viszonyába vissza kell helyezni.
 
 (6) A polgármesteri foglalkoztatási jogviszonyban töltött időtartam közszolgálati, illetve hivatásos szolgálati jogviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít.
 
-(7) A polgármester a megválasztását követően a képviselő-testület előtt a melléklet szerinti szöveggel esküt vagy fogadalmat tesz, és erről okmányt ír alá.
+(7)

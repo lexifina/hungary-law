@@ -1,4 +1,4 @@
-7. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága és a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv jogosult.
+7. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága és a fővárosi és megyei kormányhivatal jogosult.
 
 (2) A fegyelmi eljárás során vizsgálatot kell tartani, amelynek lefolytatására a képviselő-testület tagjai közül háromtagú vizsgáló bizottságot kell megbízni. A száznál kevesebb lakosú községekben a fegyelmi vizsgálatot a képviselő-testület folytatja le.
 
