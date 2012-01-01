@@ -1,6 +1,6 @@
 ## tanúsítja.
 
-4. §[^9] (1) A jogi szakvizsgára az igazságügyért felelős miniszternél kell jelentkezni.
+4. §[^10] (1) A jogi szakvizsgára az igazságügyért felelős miniszternél kell jelentkezni.
 
 (2) A jelentkezésben a jelöltnek fel kell tüntetnie
 
@@ -20,4 +20,4 @@ d) az e rendeletben foglaltak szerint választott vizsgaidőpontot.
 
 (6) A jelentkezésről a Szakvizsga Bizottság titkára a jelölt joggyakorlati idejére, a jogi szakvizsga díjának befizetésére, valamint a kért vizsgaidőpontra jelentkezők számára vonatkozó, rendelkezésére álló adatok alapján dönt. A jelentkezés elutasítása ellen nyolc napon belül felülvizsgálatra irányuló kérelemnek van helye; a kérelemről a Szakvizsga Bizottság elnöke harminc nap alatt dönt.
 
-[^9]: A 4. § a 31/2010. (XII. 31.) KIM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a 2011. január 1-je előtt benyújtott kérelmek alapján indult, részvizsgára bocsátás iránti eljárásokban is alkalmazni kell.
+[^10]: A 4. § a 31/2010. (XII. 31.) KIM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a 2011. január 1-je előtt benyújtott kérelmek alapján indult, részvizsgára bocsátás iránti eljárásokban is alkalmazni kell.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-5-20-06
 | 2010-05-17 | 1991-5-20-06.13 | 37/2010. (V. 14.) IRM rendelet |
 | 2011-01-01 | 1991-5-20-06.14 | 31/2010. (XII. 31.) KIM rendelet |
 | 2011-07-21 | 1991-5-20-06.15 | 22/2011. (VII. 20.) KIM rendelet |
+| 2012-01-01 | 1991-5-20-06.16 | 40/2011. (XII. 30.) KIM rendelet |

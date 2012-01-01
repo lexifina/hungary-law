@@ -20,6 +20,6 @@
 
 ## a bizottság tagja
 
-2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^37]
+2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^38]
 
-[^37]: A 2. számú melléklet a 14/2000. (VIII. 29.) IM rendelet 4. §-ának (2) bekezdésével, illetve 2. számú mellékletével megállapított szöveg.
+[^38]: A 2. számú melléklet a 14/2000. (VIII. 29.) IM rendelet 4. §-ának (2) bekezdésével, illetve 2. számú mellékletével megállapított szöveg.

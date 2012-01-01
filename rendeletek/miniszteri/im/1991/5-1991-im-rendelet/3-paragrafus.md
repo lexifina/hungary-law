@@ -1,6 +1,6 @@
 ## 3. §[^8] A joggyakorlat tartamára vonatkozó adatokat
 
-a) a bírósági fogalmazó esetében a Legfelsőbb Bíróság, az ítélőtábla, illetve a megyei (fővárosi) bíróság elnöke,
+a)[^9] a bírósági fogalmazó esetében a Kúria, az ítélőtábla, illetve a törvényszék elnöke,
 
 b) ügyészségi fogalmazó esetében a legfőbb ügyész, a fellebbviteli főügyész, illetve a megyei (fővárosi) főügyész,
 
@@ -15,3 +15,4 @@ f) jogi előadó és más jogi munkakörben foglalkoztatott jogász esetében az
 g) a 2. § (2) bekezdés c) pontja szerinti ösztöndíjas esetében a Nemzeti Közigazgatási Intézet
 
 [^8]: A 3. § a 22/2011. (VII. 20.) KIM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 3. § a) pontja a 40/2011. (XII. 30.) KIM rendelet 6. §-a szerint módosított szöveg.
