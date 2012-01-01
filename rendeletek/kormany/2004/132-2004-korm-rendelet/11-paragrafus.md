@@ -14,7 +14,7 @@ a) a kérdéses géntechnológiával módosított szervezet vagy szervezetek for
 
 b) a géntechnológiával módosított szervezet vagy szervezetek nem hozhatók forgalomba.
 
-(4)[^18]
+(4)[^19]
 
 (5) Ha a vizsgálati jelentést készítő géntechnológiai hatóság álláspontja szerint a géntechnológiával módosított szervezet vagy szervezetek nem hozhatók forgalomba, a kérelmet el kell utasítani. Az elutasító döntést meg kell indokolni.
 
@@ -24,4 +24,4 @@ b) a géntechnológiával módosított szervezet vagy szervezetek nem hozhatók 
 
 (8) Az erdészeti szaporítóanyagok esetében az első engedély időtartamának legkésőbb tíz év elteltével azt követően kell letelnie, amikor először vették fel a géntechnológiával módosított szervezetet tartalmazó bázisanyagot a Nemzeti szaporítóanyag-forrás jegyzékbe az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendeletnek megfelelően.
 
-[^18]: A 11. § (4) bekezdését a 15/2006. (I. 26.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^19]: A 11. § (4) bekezdését a 15/2006. (I. 26.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.

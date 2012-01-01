@@ -8,6 +8,6 @@
 
 (5) A Bizottsággal szembeni ellenvélemény megvitatását a géntechnológiai hatóság kezdeményezésére a kapcsolattartó szerv bonyolítja le.
 
-(6)[^29]
+(6)[^30]
 
-[^29]: A 20. § (6) bekezdését a 15/2006. (I. 26.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^30]: A 20. § (6) bekezdését a 15/2006. (I. 26.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.
