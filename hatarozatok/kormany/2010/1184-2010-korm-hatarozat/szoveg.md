@@ -10,31 +10,15 @@ c) a nemzeti erőforrás miniszter képviselőjeként az egészségügyért fele
 
 d) a nemzeti fejlesztési miniszter képviselőjeként a fejlesztéspolitikai koordinációért felelős államtitkárt és az infrastruktúráért felelős államtitkárt,
 
-e) a nemzetgazdasági miniszter képviselőjeként a parlamenti és gazdaságstratégiáért felelős államtitkárt és a foglalkoztatáspolitikáért felelős államtitkárt,
+e)[^1] a nemzetgazdasági miniszter képviselőjeként a tervezéskoordinációért felelős államtitkárt és a foglalkoztatáspolitikáért felelős államtitkárt,
 
 f) a vidékfejlesztési miniszter képviselőjeként a vidékfejlesztésért felelős államtitkárt
 
 kijelöli.
 
-2.[^1] A Kormány a Balaton Fejlesztési Tanácsban a Kormány képviselőjévé dr. Bóka Istvánt kijelöli.
+2.[^2] A Kormány a Balaton Fejlesztési Tanácsban a Kormány képviselőjévé dr. Bóka Istvánt kijelöli.
 
-3. A Kormány a regionális fejlesztési tanács tagjává
-
-a) a Dél-Alföldi Regionális Fejlesztési Tanácsban Mágori Andreát, Simonka Györgyöt, Font Sándort, Nógrádi Zoltánt, Farkas Sándort, Zsigó Róbertet, Kovács Ernőt, Dancsó Józsefet,
-
-b)[^2] a Dél-Dunántúli Regionális Fejlesztési Tanácsban Filczinger Ágnest, Schmidt Jenőt, Gere Attilát, dr. Jarjabka Ákost, Csutor Ferencet, Szekó Józsefet, Patay Vilmost, Ribányi Józsefet,
-
-c)[^3] az Észak-Alföldi Regionális Fejlesztési Tanácsban dr. Seszták Miklóst, Borbás Zsoltot, dr. Kozma Pétert, dr. Tiba Istvánt, dr. Tilki Attilát, Molnár Ivánt, Tasó Lászlót, Balogh Zoltánt,
-
-d)[^4] az Észak-Magyarországi Regionális Fejlesztési Tanácsban Gál Erzsébetet, Vámos Zoltánt, Farkas Zoltánt, Balázs Józsefet, dr. Ódor Ferencet, Szandai Józsefet, Aros Jánost, Barna Jánost,
-
-e)[^5] a Közép-Dunántúli Regionális Fejlesztési Tanácsban Szabóné Cserna Évát, Tessely Zoltánt, Sövényházi Balázst, dr. Kreft-Horváth Lórándot, dr. Csernavölgyi Istvánt, Horváthy Lórántot, Tratnyek Istvánt, Óvádi Pétert,
-
-f)[^6] a Közép-Magyarországi Regionális Fejlesztési Tanácsban dr. Fónagy Jánost, dr. Láng Zsoltot, Tóth Jánost, Egry Attilát, dr. Kocsis Mátét, Pápai Mihályt, dr. Bácskai Jánost, Riz Leventét, Kucsák Lászlót,
-
-g) a Nyugat-Dunántúli Regionális Fejlesztési Tanácsban Kepli Józsefet, Bánó Zoltánt, Firtl Mátyást, dr. Gulyás Zoltánt, Papp Nándort, Kiniczky Istvánt, Lazáry Viktort, Hámori Györgyöt
-
-kijelöli. A tagot az ülésen az általa írásban felhatalmazott és az ülésen jelenlévő – a Kormány által ugyanazon regionális fejlesztési tanácsba kijelölt – tag helyettesítheti.
+3.[^3]
 
 4. Ez a határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg
 
@@ -48,9 +32,6 @@ d) a Kormány képviselőjének a Közép-Magyarországi Regionális Fejlesztés
 
 hatályát veszti.
 
-[^1]: A 2. pont az 1237/2010. (XI. 16.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 3. pont b) alpontja az 1060/2011. (III. 23.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^3]: A 3. pont c) alpontja az 1060/2011. (III. 23.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^4]: A 3. pont d) alpontja az 1291/2010. (XII. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^5]: A 3. pont e) alpontja az 1291/2010. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^6]: A 3. pont f) alpontja az 1291/2010. (XII. 15.) Korm. határozat 4. pontja, az 1060/2011. (III. 23.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: A határozat 1. pont e) alpontja az 1493/2011. (XII. 27.) Korm. rendelet 4. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1237/2010. (XI. 16.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A határozat 3. pontját az 1493/2011. (XII. 27.) Korm. határozat 1. pont d) alpontja hatályon kívül helyezte.
