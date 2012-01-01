@@ -1,0 +1,1 @@
+## 8. § A hivatásos katasztrófavédelmi szervtől helyszínre érkező magasabb beosztású – tűzoltás vezetésére jogosult – személy az önkormányzati tűzoltóknak csak az önkormányzati tűzoltóság helyszínen tartózkodó tűzoltásvezetésére jogosult személye útján adhat utasítást és parancsot.

@@ -1,0 +1,1 @@
+## 19. § Az önkormányzati tűzoltóság parancsnoka felelős a szolgálatban lévő, valamint a közös rendezvényen részt vevő, egyenruha-viselésre jogosultak egységes és rendezett öltözködéséért. Az egyenruházati termékek és felszerelési cikkek összetételét a rendezvények jellegére, a viselési alkalomra tekintettel kell meghatározni.

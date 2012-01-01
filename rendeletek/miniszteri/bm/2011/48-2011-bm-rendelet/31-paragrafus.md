@@ -1,0 +1,1 @@
+## 30. § E rendelet hatályba lépését megelőzően önkéntes tűzoltó tevékenységet végzők önkormányzati tűzoltó tevékenységet folytathatnak, azonban kötelesek a 26. § szerinti képesítést legkésőbb 2014. január 1. napjáig megszerezni.
