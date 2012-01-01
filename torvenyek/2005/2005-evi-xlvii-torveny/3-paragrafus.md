@@ -14,7 +14,7 @@ c) a szakterületén működő szakmai kamara tagja, ha a tevékenység folytat�
 
 d) kötelezettséget vállal arra, hogy a hatósági kirendelésnek – a jogszabályban meghatározott eseteket kivéve – eleget tesz,
 
-e) választójoggal rendelkezik,
+e) cselekvőképes, és nem áll közügyektől való eltiltás hatálya alatt,
 
 f) a névjegyzékbe való felvételét követően tagja – törvény eltérő rendelkezésének hiányában – a lakóhelye szerint illetékes területi igazságügyi szakértői kamarának (a továbbiakban: szakértői kamara).
 

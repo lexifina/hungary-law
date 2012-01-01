@@ -20,7 +20,9 @@ i) több szakértő egyidejű kirendelése esetén a többi szakértő személy�
 
 j) személy vizsgálatával járó kirendelés esetén a szakkonzultáns személyéhez történő hozzájárulás beszerzésének kötelezettségét és
 
-k) a kirendelő előzetes hozzájárulását a vizsgálati tárgy megváltozásával vagy megsemmisülésével járó vizsgálat elvégzéséhez, ha a hozzájárulásra a miniszter rendelete alapján szükség van.
+k) a kirendelő előzetes hozzájárulását a vizsgálati tárgy megváltozásával vagy megsemmisülésével járó vizsgálat elvégzéséhez, ha a hozzájárulásra a miniszter rendelete alapján szükség van,
+
+l) – indokolt esetben – a kirendelő arra vonatkozó utasítását, hogy a szakértő az érintett részére az általa kezelt adatokra vonatkozó, az Info tv. szerinti tájékoztatást megtagadni köteles.
 
 (2) A szakértő a (4) bekezdésben foglalt kivételekkel köteles eljárni a hatóság kirendelése alapján.
 
