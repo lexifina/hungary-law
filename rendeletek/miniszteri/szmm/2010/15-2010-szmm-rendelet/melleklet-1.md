@@ -1,6 +1,6 @@
-## 4. §[^2]
+## 4. §[^3]
 
-1. melléklet a 15/2010. (V. 13.) SZMM rendelethez[^3]
+1. melléklet a 15/2010. (V. 13.) SZMM rendelethez[^4]
 
 Fontos és bizalmas munkakörök és a biztonsági ellenőrzés szintje
 
@@ -52,9 +52,9 @@ Fontos és bizalmas munkakörök és a biztonsági ellenőrzés szintje
 
 | 23 | Az ONYF igazgatási szerveinél a gazdasági vezető | B |
 
-| 23a |  | Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat nyugdíjügyeiben másodfokon vagy felügyeleti hatáskörben eljáró ügyintézők és ügykezelők, valamint a döntéseket kiadmányozó vezetők | C |
+| 23a |  | Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonság Szolgálat ügyeiben másodfokon vagy felügyeleti hatáskörben eljáró ügyintézők és ügykezelők, valamint a döntéseket kiadmányozó vezetők | C |
 
-| 23b |  | A Központi Nyugdíjnyilvántartó és Informatikai Igazgatóságnál az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat nyugdíjügyeiben első fokon eljáró ügyintézők és ügykezelők, valamint a döntéseket kiadmányozó vezetők | C |
+| 23b |  | A Központi Nyugdíjnyilvántartó és Informatikai Igazgatóságnál az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonság Szolgálat ügyeiben első fokon eljáró ügyintézők és ügykezelők, valamint a döntéseket kiadmányozó vezetők | C |
 
 | 24 |  |  |  |
 
@@ -64,5 +64,5 @@ Fontos és bizalmas munkakörök és a biztonsági ellenőrzés szintje
 
 | 27 | az a személy, akinek a munkaköri leírása szerint a 25. és a 26 sorban meghatározott minősítési szintet el nem érő nemzetközi kötelezettségvállalás alapján védelmet igénylő adatot szükséges feldolgoznia, felhasználnia | A |
 
-[^2]: A 4. § a (2) bekezdés alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 18/2011. (V. 6.) NEFMI rendelet 1. §-a, a 21/2011. (VII. 13.) KIM rendelet 3. § k) pontja szerint módosított szöveg.
+[^3]: A 4. § a (2) bekezdés alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 18/2011. (V. 6.) NEFMI rendelet 1. §-a, a 21/2011. (VII. 13.) KIM rendelet 3. § k) pontja, a 78/2011. (XII. 30.) NEFMI rendelet 14. §-a szerint módosított szöveg.
