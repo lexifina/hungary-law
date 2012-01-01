@@ -1,1 +1,0 @@
-A Kormány a Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény 17. § b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
