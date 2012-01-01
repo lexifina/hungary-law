@@ -8,7 +8,7 @@
 
 a) a termékdíj-kötelezettség, a termékdíj átvállalásának, visszaigénylésének, a készletre vétel részletes szabályait,
 
-b) a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodási pályáztatás, illetve közbeszerzés útján történő szolgáltatás-megrendelés, szerződéskötés, felbontás, felmondás részletes szabályait,
+b) a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodási pályáztatás, illetve szolgáltatás-megrendelés, szerződéskötés, felbontás, felmondás részletes szabályait,
 
 c) az OHÜ által folytatott ellenőrzések, valamint az OHÜ ellenőrzésekben szakértői, szaktanácsadói részvételére vonatkozó részletes szabályokat, továbbá a közvetítésre vonatkozó részletes szabályokat, valamint az OHÜ és az egyes hatóságok közötti együttműködés, adat-, és információcsere részletes szabályait,
 

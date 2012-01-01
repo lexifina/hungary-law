@@ -1,3 +1,3 @@
-## 32. Módosító rendelkezések
+## 32.
 
 ### 42. §

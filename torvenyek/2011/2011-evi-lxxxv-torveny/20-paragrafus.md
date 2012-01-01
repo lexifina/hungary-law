@@ -6,21 +6,19 @@ b) előkészíti az Országos Gyűjtési és Hasznosítási Tervet (a továbbiak
 
 c) nyomon követi és értékeli a hulladékgazdálkodás – tevékenységi körébe tartozó – folyamatait;
 
-d) támogatja a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodás
-
-fejlesztését;
+d) támogatja a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodás fejlesztését;
 
 e) közreműködik a lakosság környezettudatos nevelésével kapcsolatos teendők ellátásában;
 
 f) ellenőrzi a vele szerződéses kapcsolatban állók, illetve a pályázatok, illetve szolgáltatás megrendelések kedvezményezettek által a termékdíjköteles termékből képződött hulladékokkal kapcsolatban folytatott tevékenységét;
 
-g) közreműködik – a törvény végrehajtására kiadott rendeletben foglaltak szerint – a kötelezettek, ellenőrzésében;
+g) közreműködik – a törvény végrehajtására kiadott rendeletben foglaltak szerint – a kötelezettek ellenőrzésében;
 
 h) innovációs tevékenységet folytat a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodási tevékenység fejlesztése érdekében.
 
-(2) Az OHÜ az (1) bekezdés e) pontjának teljesítése érdekében az OHÜ által szolgáltatás megrendelés és pályázat útján továbbfolyósított forrás költségvetési során meghatározott összegének legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
+(2) Az OHÜ az (1) bekezdés e) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
 
-(3) Az OHÜ az (1) bekezdés f) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont és teljesítési segédje, alvállalkozója (a továbbiakban együtt: ellenőrzött) az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
+(3) Az OHÜ az (1) bekezdés f) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
 
 (4) Az (1) bekezdés f) pontja keretében végzett ellenőrzés során az OHÜ jogosult:
 
@@ -34,9 +32,7 @@ d) a termékdíjköteles termékkel kapcsolatos hulladékokkal összefüggő mun
 
 e) a termékdíjköteles termékkel kapcsolatos hulladékokra vonatkozó nyilvántartásokat, okiratokat, bizonylatokat megtekinteni, arról feljegyzést, másolatot készíteni,
 
-f) olyan adatgyűjtést, feldolgozást elvégezni, amelyből a tevékenységet jellemző anyagmérleg meghatározható,
-
-g) az ellenőrzésről jegyzőkönyvet készíteni.
+f) olyan adatgyűjtést, feldolgozást elvégezni, amelyből a tevékenységet jellemző anyagmérleg meghatározható.
 
 (5) Az OHÜ a (4) bekezdés alapján tudomására jutott üzleti titkot köteles megőrizni, azt – arra feljogosított hatóság, ügyészség, vagy bíróság kivételével – másnak nem adhatja át, annak tartalmáról tájékoztatást nem adhat.
 
