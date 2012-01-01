@@ -2,9 +2,9 @@
 
 9. § (1) Ez a rendelet 2007. július 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően – elektronikus úton – benyújtott iparjogvédelmi beadványokra kell alkalmazni.
 
-(2)[^16]
+(2)[^20]
 
-Melléklet a 147/2007. (VI. 26.) Korm. rendelethez[^17]
+Melléklet a 147/2007. (VI. 26.) Korm. rendelethez[^21]
 
 1. Képi adatmegjelenítési formátumok
 
@@ -38,5 +38,5 @@ ISO 8859–2:1999 (Latin–2), a magyar referenciakészletre vonatkozóan az MSZ
 
 ISO 10646:2003 (Unicode v.4.0)
 
-[^16]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 66. pontja hatályon kívül helyezte.
-[^17]: A Melléklet a 341/2010. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^20]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 66. pontja hatályon kívül helyezte.
+[^21]: A Melléklet a 341/2010. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
