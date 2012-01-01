@@ -1,0 +1,1 @@
+## 1. A tűzvédelmi bírságnak, valamint a biztosítók tűzvédelmi hozzájárulásának a központi költségvetésbe történő befizetése és elszámolása rendjéről, valamint felhasználásának és ellenőrzésének módjáról szóló 180/1998. (XI. 6.) Korm. rendelet módosítása
