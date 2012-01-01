@@ -1,8 +1,8 @@
 1. § (1) E rendelet alkalmazásában többletkapacitás az
 
-a)[^1] az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Tv.) alapján 2010. december 31-én lekötött, valamint szüneteltetett fekvőbeteg-szakellátási kapacitáson felüli fekvőbeteg-szakellátási kapacitás,
+a)[^1] az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Tv.) alapján 2011. december 31-én lekötött, valamint szüneteltetett fekvőbeteg-szakellátási kapacitáson felüli fekvőbeteg-szakellátási kapacitás,
 
-b)[^2] a Tv. alapján 2010. december 31-én lekötött, valamint szüneteltetett járóbeteg-szakellátási kapacitáson felüli járóbeteg-szakellátási kapacitás,
+b)[^2] a Tv. alapján 2011. december 31-én lekötött, valamint szüneteltetett járóbeteg-szakellátási kapacitáson felüli járóbeteg-szakellátási kapacitás,
 
 c)[^3] a finanszírozási rendszerbe már befogadott, de az adott egészségügyi szolgáltató érvényes finanszírozási szerződése alapján a szolgáltató által el nem számolható krónikus súlyozási szorzóval finanszírozott ellátás végzése, valamint az a finanszírozási rendszerbe már befogadott és az adott egészségügyi szolgáltató érvényes finanszírozási szerződése alapján a szolgáltató által elszámolható krónikus súlyozási szorzónál magasabb szorzóval finanszírozott ellátás végzése,
 
@@ -44,8 +44,10 @@ b) szakirányú végzettséggel rendelkező szakasszisztens által irányított 
 
 (6)[^16] Uniós támogatási forrásból megvalósuló pályázatok esetében általános röntgen-, illetve ultrahang-diagnosztika nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítását szakorvos végzi.
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés b) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+(7)[^17] A Tv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térségek alatt a 4. számú melléklet szerinti térségeket kell érteni.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés c) pontját a 291/2009. (XII. 18.) Korm. rendelet 16. § (8) bekezdése hatályon kívül helyezte, újonnan a 227/2011. (X. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (1) bekezdés d) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
 [^5]: Az 1. § (1) bekezdés e) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
@@ -60,3 +62,4 @@ b) szakirányú végzettséggel rendelkező szakasszisztens által irányított 
 [^14]: Az 1. § új (4) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva, szövege a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
 [^15]: Az 1. § (4) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése.
 [^16]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^17]: Az 1. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 58. § (2) bekezdése iktatta be.

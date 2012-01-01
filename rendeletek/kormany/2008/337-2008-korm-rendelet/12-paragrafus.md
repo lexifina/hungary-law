@@ -1,8 +1,8 @@
-## 11/A. §[^85] Amennyiben a benyújtott pályázat, illetve kérelem olyan többletkapacitás befogadására irányul, amelyre vonatkozóan a korábbiakban a 12–15/A. § alapján támogató befogadási döntés született, a pályázat, illetve a kérelem csak a pályázó, illetve a kérelmező korábban befogadott kapacitásigényéről történő lemondása esetén támogatható.
+## 11/A. §[^95] Amennyiben a benyújtott pályázat, illetve kérelem olyan többletkapacitás befogadására irányul, amelyre vonatkozóan a korábbiakban a 12–15/A. § alapján támogató befogadási döntés született, a pályázat, illetve a kérelem csak a pályázó, illetve a kérelmező korábban befogadott kapacitásigényéről történő lemondása esetén támogatható.
 
 ## Az előzetes többletkapacitás-befogadási eljárás
 
-12. §[^86] (1) Többletkapacitás a Tv. 11. §-a alapján előzetesen akkor fogadható be, ha
+12. §[^96] (1) Többletkapacitás a Tv. 11. §-a alapján előzetesen akkor fogadható be, ha
 
 a) címzett támogatás szakmai programja,
 
@@ -56,5 +56,5 @@ c) történt-e rendkívüli intézkedés az ellátás biztosítása érdekében.
 
 (6) Az OEP (4) bekezdés szerinti véleménye a (3) bekezdés szerinti kérelem finanszírozási szempontú véleményezésén túlmenően a többletkapacitás-befogadás mértékére és feltételeire vonatkozó javaslatát is tartalmazza.
 
-[^85]: A 11/A. §-t a 185/2011. (IX. 9.) Korm. rendelet 4. §-a iktatta be.
-[^86]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^95]: A 11/A. §-t a 185/2011. (IX. 9.) Korm. rendelet 4. §-a iktatta be.
+[^96]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.

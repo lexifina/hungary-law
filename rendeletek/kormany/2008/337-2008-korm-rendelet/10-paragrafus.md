@@ -1,6 +1,9 @@
-10. § (1)[^72] A 2. számú melléklet határozza meg azon szakmák körét, amelyekre a fekvőbeteg-szakellátásban külön jogszabály szerint finanszírozási szerződés köthető.
+## Finanszírozási szerződésben leköthető szakmák[^81]
 
-(2)[^73] A 3. számú melléklet határozza meg azon szakmák körét, amelyekre a járóbeteg-szakellátásban külön jogszabály szerint finanszírozási szerződés köthető.
+10. § (1)[^82] A 2. számú melléklet határozza meg azon szakmák körét, amelyekre a fekvőbeteg-szakellátásban külön jogszabály szerint finanszírozási szerződés köthető.
 
-[^72]: A 10. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 7. §-a.
-[^73]: A 10. § (2) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 7. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatva.
+(2)[^83] A 3. számú melléklet határozza meg azon szakmák körét, amelyekre a járóbeteg-szakellátásban külön jogszabály szerint finanszírozási szerződés köthető.
+
+[^81]: A 10. §-t megelőző alcímet a 325/2011. (XII. 28.) Korm. rendelet 69. §-a iktatta be.
+[^82]: A 10. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 7. §-a.
+[^83]: A 10. § (2) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 7. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatva.
