@@ -2,7 +2,7 @@
 
 a) a helyi önkormányzat, a helyi önkormányzatok társulása és a települési önkormányzatok többcélú kistérségi társulása az általa biztosított közszolgáltatások és katasztrófavédelmi feladatai körében;
 
-b) a kisebbségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
+b) a nemzetiségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
 
 c) a költségvetési szerv az alaptevékenysége körében;
 

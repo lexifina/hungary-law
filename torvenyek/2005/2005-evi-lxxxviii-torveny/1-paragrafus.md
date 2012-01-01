@@ -2,7 +2,7 @@
 
 a) a 3. § (1) bekezdése szerinti természetes személynél, jogi személynél, illetve jogi személyiséggel nem rendelkező gazdasági társaságnál és egyéni cégnél (a továbbiakban: fogadó szervezet) Magyarországon végzett,
 
-b) a magyar állampolgár által a 3. § (1) bekezdésének a)–e) pontja szerinti fogadó szervezetnél a Magyar Köztársaság területén kívül (a továbbiakban: külföld) végzett
+b) a magyar állampolgár által a 3. § (1) bekezdésének a)–e) pontja szerinti fogadó szervezetnél Magyarország területén kívül (a továbbiakban: külföld) végzett
 
 közérdekű önkéntes tevékenységre terjed ki.
 

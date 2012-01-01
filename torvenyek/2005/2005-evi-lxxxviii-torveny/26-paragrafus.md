@@ -26,7 +26,7 @@ e) típusa:*
 
 ⬜ helyi önkormányzat, azok társulása ⬜ közoktatási intézmény
 
-⬜ kisebbségi önkormányzat ⬜ felsőoktatási intézmény
+⬜ nemzetiségi önkormányzat ⬜ felsőoktatási intézmény
 
 ⬜ költségvetési szerv ⬜ muzeális intézmény
 
