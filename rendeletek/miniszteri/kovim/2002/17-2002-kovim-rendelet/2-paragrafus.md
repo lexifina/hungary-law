@@ -4,7 +4,7 @@
 
 a) hajózási kisvízszint (a továbbiakban: HKV):
 
-aa) változó vízállású víziutaknál – a nemzetközi jelentőségű európai víziutakról szóló európai megállapodás[^3] ajánlása szerint – a HKV az az év legalább 240 napján vagy a hajózási szezon 60%-ban fennálló vízszint, amely mellett a víziút osztálya szerinti, e rendeletben meghatározott követelmények teljesülnek,
+aa) változó vízállású víziutaknál – a nemzetközi jelentőségű európai víziutakról szóló európai megállapodás[^4] ajánlása szerint – a HKV az az év legalább 240 napján vagy a hajózási szezon 60%-ban fennálló vízszint, amely mellett a víziút osztálya szerinti, e rendeletben meghatározott követelmények teljesülnek,
 
 ab) duzzasztott folyószakaszokon, csatornákon és szabályozott vízállású tavakon a HKV az üzemrendben előírt üzemi kisvízszint;
 
@@ -24,4 +24,4 @@ d) hajóúti vízmélység: a víziúton a HKV-nél a hajóútban mért vízmél
 
 e) hajózási szezon: a 75%-os vagy azt meghaladó mértékű jégzajlás, a külön jogszabályban meghatározott II. fokú árvízszintet meghaladó árvíz vagy más rendkívüli körülmény által okozott, a hajózási hatóság által kihirdetett hajózási zárlat időtartamát nem tartalmazó időszak.
 
-[^3]: Kihirdette a 151/2000. (IX. 1.) Korm. rendelet.
+[^4]: Kihirdette a 151/2000. (IX. 1.) Korm. rendelet.

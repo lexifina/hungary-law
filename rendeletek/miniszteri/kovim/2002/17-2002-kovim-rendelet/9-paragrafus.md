@@ -4,6 +4,6 @@
 
 (2) A 8. § (8) bekezdése a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
-(3)–(4)[^20]
+(3)–(4)[^21]
 
-[^20]: A 9. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 4. pontja hatályon kívül helyezte.
+[^21]: A 9. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 4. pontja hatályon kívül helyezte.
