@@ -1,12 +1,12 @@
 ## A Nyugdíjbiztosítási Alap
 
-4. § (1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj, a rokkantsági és baleseti rokkantsági nyugdíj, a rehabilitációs járadék, a hozzátartozói nyugellátás és a külön törvényben meghatározott méltányossági kifizetések fedezetére szolgál.
+4. § (1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj – ideértve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében meghatározott szolgálatfüggő nyugellátást is –, a hozzátartozói nyugellátás és törvényben meghatározott méltányossági kifizetések fedezetére szolgál.
 
-(2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre, a jóváhagyott működési kiadások külső forrásból nem biztosított fedezetének biztosítására, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel. A Nyugdíjbiztosítási Alap működési költségvetését a 10. § (2) bekezdése szerinti kiadások terhelik.
+(2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre – ideértve a bérmentesítő gép alkalmazásával kapcsolatos költségeket is – az ügyfelekkel való kapcsolattartás nyomtatott dokumentumai előállítási költségére, a jóváhagyott működési kiadások külső forrásból nem biztosított fedezetének biztosítására, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel. A Nyugdíjbiztosítási Alap működési költségvetését a 10. § (2) bekezdése szerinti kiadások terhelik.
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-a) a munkáltatói nyugdíjbiztosítási járulék, ideértve az álláskeresési támogatás és az ápolási díj után fizetett nyugdíjbiztosítási járulékot;
+a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék, ideértve az álláskeresési támogatás és az ápolási díj után fizetett nyugdíjbiztosítási járulékot;
 
 b)
 
@@ -24,11 +24,11 @@ b)
 
 c) egyéb járulékok és hozzájárulások, ideértve
 
-1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjbiztosítási járulékot és nyugdíjjárulékot,
+1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjjárulékot,
 
 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget,
 
-3. a Munkaerőpiaci Alap általi megtérítéseket,
+3. a Nemzeti Foglalkoztatási Alap általi megtérítéseket,
 
 4. a korkedvezmény biztosítási járulék,
 
@@ -38,15 +38,11 @@ c) egyéb járulékok és hozzájárulások, ideértve
 
 7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 23. § (1) bekezdés d) pontjában, a 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
 
-d) az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra havonta befolyt összegből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
+d) a Nemzeti Adó- és Vámhivatalnál (a továbbiakban: az állami adóhatóság) kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 
 e) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 91. §-a szerinti mulasztási bírság;
 
-f) a központi költségvetési hozzájárulások, ideértve
-
-1–3.
-
-4. a központi költségvetésben tervezett, a korkedvezmény-biztosítási járulék címen átadott pénzeszközt;
+f) a központi költségvetési hozzájárulások, ideértve az adórendszer átalakításával összefüggő pénzeszköz átvételt;
 
 g) a nyugdíjbiztosítási tevékenységgel kapcsolatos, a Nyugdíjbiztosítási Alapból fizetett – jogalap nélkül felvett, vagy más ok miatt – visszatérült, bevételként elszámolt összeg,
 
@@ -58,6 +54,6 @@ j) a 10. § (1) bekezdésében meghatározott működési bevételek;
 
 k)
 
-l) a Nyugdíjreform és Adósságcsökkentő Alapból származó bevétel, ideértve a Tbj. 18. § (6) bekezdése és 26. § (11) bekezdése szerinti bevételt, valamint a külön törvény szerint a Nyugdíjbiztosítási Alap részére átadandó egyéb pénzeszközt.
+l) törvény alapján a Nyugdíjbiztosítási Alap részére átadandó egyéb pénzeszköz.
 
-(4)
+(4) A Nyugdíjbiztosítási Alap a rokkantsági, rehabilitációs ellátások fedezetére az Egészségbiztosítási Alapnak, a korhatár alatti ellátások fedezetére a Nemzeti Család- és Szociálpolitikai Alapnak a központi költségvetésről szóló törvényben meghatározott összegű pénzeszközt ad át.

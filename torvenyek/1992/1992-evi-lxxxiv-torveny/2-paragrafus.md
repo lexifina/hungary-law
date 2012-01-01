@@ -4,7 +4,7 @@ a) a 4—5. §-ban meghatározott bevételeik keletkeznek, az ott megjelölt kia
 
 b)
 
-c) a társadalombiztosítás pénzügyi alapjainak költségvetéséről, illetve a költségvetés végrehajtásáról a Magyar Köztársaság költségvetéséről, illetve a költségvetés végrehajtásáról szóló törvény rendelkezik.
+c) a társadalombiztosítás pénzügyi alapjainak költségvetéséről, illetve a költségvetés végrehajtásáról a központi költségvetésről, illetve annak végrehajtásáról szóló törvény rendelkezik.
 
 (2)
 
