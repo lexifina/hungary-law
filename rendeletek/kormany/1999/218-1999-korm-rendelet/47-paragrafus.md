@@ -4,9 +4,9 @@
 
 százezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^60] Azzal szemben, aki a közúti forgalomban gépi meghajtású járművet engedély nélkül vezet, a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat, továbbá a rendőrség helyszíni bírságot szabhat ki.
+(2)[^63] Azzal szemben, aki a közúti forgalomban gépi meghajtású járművet engedély nélkül vezet, a szabálysértési hatóság járművezetéstől eltiltást alkalmazhat, továbbá a rendőrség helyszíni bírságot szabhat ki.
 
-(3)[^61] Az (1) bekezdésben meghatározott közúti közlekedési szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
+(3)[^64] Az (1) bekezdésben meghatározott közúti közlekedési szabálysértés esetén – a szabálysértési jogsegély keretében – a pénzbírságot kiszabó jogerős határozat végrehajtása átadható.
 
-[^60]: A 47. § (2) bekezdése a 23/2000. (III. 8.) Korm. rendelet 5. §-ával megállapított és a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^61]: A 47. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 8. §-a iktatta be.
+[^63]: A 47. § (2) bekezdése a 23/2000. (III. 8.) Korm. rendelet 5. §-ával megállapított és a 97/2008. (IV. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^64]: A 47. § (3) bekezdését a 129/2007. (VI. 8.) Korm. rendelet 8. §-a iktatta be.

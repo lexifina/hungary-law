@@ -8,6 +8,6 @@ b) nem teszi lehetővé, hogy a vevő a vásárolt áru súlyát az üzletben hi
 
 ## ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^109] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
+(2)[^111] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
 
-[^109]: A 80. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.
+[^111]: A 80. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.

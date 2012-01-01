@@ -4,6 +4,6 @@
 
 százezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^134] Az (1) bekezdésben meghatározott szabálysértés miatti eljárás az Országos Munkavédelmi és Munkaügyi Főfelügyelőség hatáskörébe is tartozik.
+(2)[^136]
 
-[^134]: A 97. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^136]: A 97. § (2) bekezdését a 324/2011. (XII. 28.) Korm. rendelet 6. § (4) bekezdés c) pontja hatályon kívül helyezte.

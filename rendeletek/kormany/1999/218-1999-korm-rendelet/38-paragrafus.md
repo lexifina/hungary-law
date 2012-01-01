@@ -6,10 +6,10 @@
 
 ## 38. § Aki
 
-a)[^51] technikai eszköz igénybevételéről szóló határozat átvételét megtagadja,
+a)[^54] technikai eszköz igénybevételéről szóló határozat átvételét megtagadja,
 
 b) a honvédelemmel kapcsolatos gazdasági vagy anyagi szolgáltatási kötelezettségének nem tesz eleget,
 
 c) a honvédelmi célból igénybevételre kijelölt ingatlannal, létesítménnyel, továbbá ingó dologgal kapcsolatban elrendelt bejelentési vagy karbantartási kötelezettségét elmulasztja,
 
-[^51]: A 38. § a) pontja a 71/2006. (IV. 3.) Korm. rendelet 61. § (1) bekezdése szerint módosított szöveg.
+[^54]: A 38. § a) pontja a 71/2006. (IV. 3.) Korm. rendelet 61. § (1) bekezdése szerint módosított szöveg.

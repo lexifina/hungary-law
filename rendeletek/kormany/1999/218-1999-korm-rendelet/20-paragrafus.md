@@ -24,8 +24,8 @@ g) tűz esetén a tűzoltás vezetőjének intézkedését nem hajtja végre, va
 
 ## hatvanenezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^32] Az (1) bekezdés a) pontjában meghatározott szabálysértés miatt az eljárás a bányakapitányság tűzvédelmi hatósági jogkörébe tartozó létesítmények tekintetében a bányakapitányság hatáskörébe tartozik.
+(2)[^34] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a hivatásos katasztrófavédelmi szerv területi szerve hatáskörébe is tartozik, az (1) bekezdés a) pontjában meghatározott szabálysértés miatt az eljárás a bányakapitányság tűzvédelmi hatósági jogkörébe tartozó létesítmények tekintetében a bányakapitányság hatáskörébe is tartozik.
 
 (3) Az (1) bekezdés a)–g) pontjában meghatározott szabálysértés miatt a hivatásos tűzoltóság, az (1) bekezdés b) pontjában meghatározott szabálysértés miatt a természetvédelmi őr helyszíni bírságot szabhat ki.
 
-[^32]: A 20. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^34]: A 20. § (2) bekezdése a 259/2011. (XII. 7.) Korm. rendelet 17. §-ával megállapított szöveg.

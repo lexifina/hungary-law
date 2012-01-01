@@ -20,9 +20,9 @@ e) a munkaidőre, pihenőidőre, a rendkívüli munkavégzésre, valamint a szab
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^126] Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság, az (1) bekezdés a)–b), d)–e) ) pontban meghatározott szabálysértés miatt az eljárás a munkaügyi felügyelőség, az (1) bekezdés c) pontjában és a (2) bekezdésben meghatározott szabálysértés miatt az eljárás a fővárosi, megyei kormányhivatal munkaügyi és munkavédelmi szakigazgatási szervének munkavédelmi felügyelősége (a továbbiakban: munkavédelmi felügyelőség) hatáskörébe is tartozik.
+(3)[^128] Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság, az (1) bekezdés c) pontjában és a (2) bekezdésben meghatározott szabálysértés miatt az eljárás a fővárosi, megyei kormányhivatal munkaügyi és munkavédelmi szakigazgatási szervének munkavédelmi felügyelősége (a továbbiakban: munkavédelmi felügyelőség) hatáskörébe is tartozik.
 
-(4)[^127]
+(4)[^129]
 
-[^126]: A 94. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 65. §-ával megállapított szöveg.
-[^127]: A 94. § (4) bekezdését a 32/2007. (III. 6.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^128]: A 94. § (3) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^129]: A 94. § (4) bekezdését a 32/2007. (III. 6.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.

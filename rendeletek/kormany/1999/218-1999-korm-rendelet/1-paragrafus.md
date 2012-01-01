@@ -16,16 +16,16 @@ tízezer forintig terjedő pénzbírsággal sújtható.
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(3)[^2] Aki erőszakot öncélúan bemutató reklámot tesz közzé, százezer forintig terjedő pénzbírsággal sújtható.
+(3)[^3] Aki erőszakot öncélúan bemutató reklámot tesz közzé, százezer forintig terjedő pénzbírsággal sújtható.
 
-(4)[^3] A (3) bekezdés alkalmazásában öncélú a bemutatás, ha az erőszak bemutatását a reklám tárgya vagy témája nem teszi feltétlenül indokolttá.
+(4)[^4] A (3) bekezdés alkalmazásában öncélú a bemutatás, ha az erőszak bemutatását a reklám tárgya vagy témája nem teszi feltétlenül indokolttá.
 
 (5) Azt a szexuális árut, amelyre nézve a (2) bekezdésben meghatározott szabálysértést elkövették, el kell kobozni.
 
 (6) Az (1) bekezdésben meghatározott szabálysértés miatt a rendőrség, a közterület-felügyelő helyszíni bírságot szabhat ki.
 
-(7)[^4] A (2)–(3) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
+(7)[^5] A (2)–(3) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség hatáskörébe is tartozik.
 
-[^2]: Az 1. § (3) bekezdése a 42/2001. (III. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (4) bekezdése a 42/2001. (III. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése a 42/2001. (III. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (4) bekezdése a 42/2001. (III. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 64. § e) pontja szerint módosított szöveg.

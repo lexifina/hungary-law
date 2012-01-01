@@ -1,4 +1,4 @@
-## 6/B. §[^14] Aki a nemzeti gyászról szóló jogszabályban meghatározott kötelezettségeket megszegi, százezer forintig terjedő pénzbírsággal sújtható.
+## 6/B. §[^16] Aki a nemzeti gyászról szóló jogszabályban meghatározott kötelezettségeket megszegi, százezer forintig terjedő pénzbírsággal sújtható.
 
 ## Köztisztasági szabálysértés
 
@@ -16,4 +16,4 @@ százezer forintig terjedő pénzbírsággal sújtható.
 
 (3) Az (1) bekezdésben meghatározott szabálysértések miatt a rendőrség, a helyi önkormányzat képviselő-testülete hivatalának erre felhatalmazott ügyintézője, a közterület-felügyelő, valamint a természeti és védett természeti területen természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr helyszíni bírságot szabhat ki.
 
-[^14]: A 6/B. §-t a 237/2001. (XII. 10.) Korm. rendelet 6. §-a iktatta a szövegbe.
+[^16]: A 6/B. §-t a 237/2001. (XII. 10.) Korm. rendelet 6. §-a iktatta a szövegbe.
