@@ -1,1 +1,0 @@
-11/C. § A hatóság által – a rá irányadó ügyintézési határidő ügyfélnek vagy az eljárás egyéb résztvevőjének nem felróható okból történő túllépése alapján – saját költségvetése terhére megfizetett összeg a központi költségvetésből nem téríthető meg, és az igazgatási szolgáltatási díjmérték számításánál költségelemként nem vehető figyelembe.

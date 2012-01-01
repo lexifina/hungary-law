@@ -1,3 +1,0 @@
-89. § (1) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv alapító okiratának kiadásához és módosításához – a minisztérium, a kormányhivatal, és a honvédelemért felelős miniszter által alapított költségvetési szerv alapító okirata kivételével – az államháztartásért felelős miniszter előzetes egyetértése szükséges.
-
-(2) Köztestületi költségvetési szerv alapításához, átalakításához, alapító jogainak átadásához és átvételéhez az államháztartásért felelős miniszter előzetes egyetértése szükséges, ha az alapítás vagy a működtetés államháztartásból származó forrás igénybevételével történik.

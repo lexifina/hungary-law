@@ -1,1 +1,0 @@
-128. § E törvény VII. fejezetének alkalmazásában jogszabályon, 93. § (1) és (6) bekezdésének, 100/C. § (1) bekezdésének alkalmazásában törvényen az Országgyűlés Hivatala tekintetében az Országgyűlés – az Alkotmány 24. § (4) bekezdése alapján megalkotott – Házszabályát is érteni kell.

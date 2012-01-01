@@ -1,1 +1,0 @@
-54/A. § Az alappal rendelkező miniszter az alap tervezési, kötelezettségvállalási, bevétel-előírási, szerződéskötési, utalványozási, ellenőrzési, államháztartási információszolgáltatási és beszámolási feladatainak ellátásával kizárólag központi költségvetési szervet vagy kivételesen köztestületet bízhat meg. Az alap működtetésének kiadásait az alap finanszírozhatja.

@@ -1,1 +1,0 @@
-72. § A helyi önkormányzat az elfogadott költségvetéséről a 71. § (1) bekezdése szerinti benyújtási határidőtől számított 30 napon belül, az államháztartási információs és mérlegrendszernek megfelelően tájékoztatja a Kormányt.

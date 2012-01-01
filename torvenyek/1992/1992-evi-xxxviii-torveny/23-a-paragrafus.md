@@ -1,7 +1,0 @@
-23/A. § (1) A Kormány és az Európai Unió Bizottsága által jóváhagyott éves, illetőleg több évre szóló szakmai programok és projektek egy évnél hosszabb távú kötelezettségvállalást jelentenek a Kormány részére, ami egyben a fejezetek számára is a mindenkori fejezeti költségvetési előirányzatokon belüli kötelezettségvállalással jár.
-
-(2) Az (1) bekezdésben vállalt kötelezettségek figyelembevételével kell éves szinten megtervezni a vállalt társfinanszírozás összegét, amelynek alapja minden esetben az Európai Unió Bizottsága és a Kormány által jóváhagyott programban vagy a projektben előirányzott nemzeti finanszírozás. A fejezetet irányító szerv köteles a program benyújtásakor megjelölt finanszírozási eszközt az adott időszaki fejezeti költségvetések kialakítása során megtervezni és a mindenkori fejezeti költségvetési kiadási főösszeg keretén belül biztosítani.
-
-(3) Amennyiben a Kormány célelőirányzatból történő finanszírozásra vállalt kötelezettséget, akkor a fejezet a megfelelő célelőirányzatból köteles elkülöníteni és külön költségvetési soron megtervezni és megjeleníteni az éves társfinanszírozás előirányzatát.
-
-(4) A program végrehajtásáért felelős fejezet – amennyiben önkormányzat a program kedvezményezettje vagy megvalósítója – köteles az önkormányzattal szerződést kötni a több évet átfogó kötelezettségvállalásra és az elvállalt társfinanszírozási összeg éves önkormányzati részének biztosítása érdekében

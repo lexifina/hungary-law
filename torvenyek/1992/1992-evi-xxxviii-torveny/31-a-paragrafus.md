@@ -1,1 +1,0 @@
-31/A. § Az Országgyűlés a költségvetési törvényben az alapok, valamint a társadalombiztosítás pénzügyi alapjainak költségvetését alaponként, bevételeiket és kiadásaikat jogcímenként, illetve – amennyiben az alap működéséről szóló törvény a jogcímek megválasztását az alappal rendelkező hatáskörébe utalja – összevont jogcímenként állapítja meg.

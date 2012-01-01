@@ -1,1 +1,0 @@
-81. § A polgármester pótköltségvetési rendelettervezetet terjeszt a képviselő-testület elé, ha év közben a körülmények oly módon változnak meg, hogy ezek a helyi önkormányzat költségvetésének teljesítését jelentősen veszélyeztetik.

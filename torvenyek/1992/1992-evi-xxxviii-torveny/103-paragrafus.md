@@ -1,3 +1,0 @@
-103. § (1) Az államháztartás alrendszereiben a kincstár és a költségvetés végrehajtásáért felelős szerv köteles a költségvetés végrehajtása során a költségvetési címek, illetőleg költségvetési szervek, alapok jóváhagyott előirányzatainak és azok teljesülésének alakulását folyamatosan nyilvántartani.
-
-(2) Az (1) bekezdésben foglalt nyilvántartási kötelezettség jogszabályban szabályozott módon kiterjed a kiadási előirányzatokat terhelő kötelezettségvállalások és a bevételi előirányzatok teljesítését előrejelző – a teljesülés várható időpontja szerint rögzített – bevételi előírások folyamatos nyilvántartására.

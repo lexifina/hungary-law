@@ -1,1 +1,0 @@
-118/B. § A kincstár az elkülönített állami pénzalapokat, a társadalombiztosítás pénzügyi alapjait, a fejezeti kezelésű előirányzatokat nyilvántartja, illetve az államháztartással összefüggő, külön jogszabályban meghatározott adatait kezeli.

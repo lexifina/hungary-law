@@ -1,1 +1,0 @@
-18. § A költségvetés végrehajtásáról szóló zárszámadást költségvetési évenként, az elfogadott költségvetéssel összehasonlítható módon, az év utolsó napján érvényes szervezeti, besorolási rendnek megfelelően kell elkészíteni.

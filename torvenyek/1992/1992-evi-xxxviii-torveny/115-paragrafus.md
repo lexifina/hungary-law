@@ -1,1 +1,0 @@
-115. § Az államháztartás mérlegeinek e törvényben meghatározott kivétellel a költségvetés előterjesztésekor a vonatkozó év és az előző év várható, valamint az azt megelőző év tényadatait kell tartalmaznia. A mérlegeknek a zárszámadáskor a vonatkozó év terv- és tény-, illetve az előző év tényadatait kell tartalmazniuk.

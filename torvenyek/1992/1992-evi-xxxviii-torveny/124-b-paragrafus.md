@@ -1,1 +1,0 @@
-124/B. § A 124. § (2) bekezdés l) pontjában foglalt felhatalmazás alapján kiadott kormányrendeletben meghatározott nyilvántartásokkal kapcsolatos adatfeldolgozási feladatok ellátásával az adatkezelő csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
