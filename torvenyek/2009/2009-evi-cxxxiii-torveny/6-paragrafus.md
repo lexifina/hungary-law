@@ -1,6 +1,6 @@
 ## A kijelölés iránti kérelem
 
-6. § (1) Kijelölés iránti kérelmet a Magyar Köztársaság területén letelepedett megfelelőségértékelő szervezet nyújthat be.
+6. § (1) Kijelölés iránti kérelmet a Magyarország területén letelepedett megfelelőségértékelő szervezet nyújthat be.
 
 (2) A kijelölés iránti kérelemnek tartalmaznia kell a kérelmező szervezet törvényes képviselője, a kijelölő hatósággal való kapcsolattartásra megjelölt személy, és – ha az utóbbitól különbözik – a Bizottság és az EGT-államok felé megadandó kapcsolattartó személy családi és utónevét, elérhetőségeit (hivatali címe, telefonszáma, telefaxszáma és elektronikus levélcíme), továbbá a kérelmező szervezet a tevékenység végzéséhez szükséges szakmai képesítés követelményét teljesítő munkavállalója, illetve a kérelmező szervezettel munkavégzésre irányuló egyéb jogviszonyban álló személy családi és utónevét.
 
