@@ -1,0 +1,1 @@
+14. § Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 5. § (4) bekezdését az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor fennálló elidegenítési és terhelési tilalom tekintetében is alkalmazni kell.
