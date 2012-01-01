@@ -6,6 +6,6 @@
 
 (2) Az ítélőtáblai bírák és igazságügyi alkalmazottak igazolványaira vonatkozó rendelkezések az ítélőtáblák székhelyének és illetékességi területének megállapításáról szóló külön törvény hatálybalépésével egyidejűleg lépnek hatályba.
 
-(3)[^9]
+(3)[^14]
 
-[^9]: A 14. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 131. pontja hatályon kívül helyezte.
+[^14]: A 14. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 131. pontja hatályon kívül helyezte.
