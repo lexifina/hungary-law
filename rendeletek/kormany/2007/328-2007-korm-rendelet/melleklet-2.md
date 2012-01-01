@@ -1,6 +1,6 @@
-2. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^3]
+2. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^5]
 
-## A Magyar Köztársaság által elismert egyéb okmányok listája
+## Magyarország által elismert egyéb okmányok listája[^6]
 
 1. Amerikai Egyesült Államok – az Amerikai Egyesült Államok Állampolgársági és Bevándorlási Szolgálata által kiállított úti okmányok (Travel Document Issued by US Citizenship and Immigration Services)
 
@@ -108,4 +108,5 @@ b) úti okmány palesztin menekültek részére
 
 25. Tunézia – különleges útlevél
 
-[^3]: A 2. melléklet a 25/2010. (II. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. melléklet a 25/2010. (II. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 2. melékletet követő cím a 276/2011. (XII. 20.) Korm. rendelet 14. §-a szerint módosított szöveg.
