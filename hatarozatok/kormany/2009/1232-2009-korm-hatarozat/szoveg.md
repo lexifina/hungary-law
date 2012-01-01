@@ -50,7 +50,7 @@ A Kormány a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvé
 
 1.24. a fővárosi, a megyei jogú városi és a fővárosi kerületi önkormányzatok képviselő-testületeinek hivatalai, valamint a megyei önkormányzati hivatalok,
 
-1.25. az Országos Területfejlesztési Tanács, a regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok, a Budapesti Agglomerációs Fejlesztési Tanács titkársági feladatokat ellátó szervei,
+1.25.[^1] az Országos Területfejlesztési Tanács titkársági feladatokat ellátó szervei,
 
 1.26. regionális államigazgatási hivatalok és kirendeltségeik,
 
@@ -225,3 +225,5 @@ A Kormány a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvé
 6. Hatályát veszti a nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 3002/2004. Korm. határozat, valamint a nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 3002/2004. Korm. határozat módosításáról szóló 3012/2006. Korm, határozat, a nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 3002/2004. Korm. határozat módosításáról szóló 3011/2008. Korm. határozat és a nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 3002/2004. Korm. határozat módosításáról szóló 3032/2008. Korm. határozat.
 
 7. E határozat hatálybalépése nem érinti a jelen határozatban foglalt szervekkel, illetve létesítményekkel korábban megkötött együttműködési megállapodások hatályát.
+
+[^1]: A határozat l. pont 1.25. alpontját az 1493/2011. (XII. 27.) Korm. határozat 1. pont c) alpontja hatályon kívül helyezte.
