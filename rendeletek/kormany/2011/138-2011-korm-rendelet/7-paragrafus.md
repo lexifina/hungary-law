@@ -1,4 +1,4 @@
-## 6. §[^4] A jármű forgalomba helyezésével és üzemben tartásával kapcsolatos – kérelemre indult – külön jogszabályban meghatározott közlekedési igazgatási eljárás során a közlekedési igazgatási hatóság a jármű kilométerszámláló műszere (km-órája) által jelzett értéket, és a km-óra állás rögzítésének időpontját okirat alapján bejegyzi a járműnyilvántartásba.
+## 6. §[^7] A jármű forgalomba helyezésével és üzemben tartásával kapcsolatos – kérelemre indult – külön jogszabályban meghatározott közlekedési igazgatási eljárás során a közlekedési igazgatási hatóság a jármű kilométerszámláló műszere (km-órája) által jelzett értéket, és a km-óra állás rögzítésének időpontját okirat alapján bejegyzi a járműnyilvántartásba.
 
 ## II. Fejezet
 
@@ -20,4 +20,4 @@
 
 (2) Az R1. a következő 12/A. §-sal egészül ki:
 
-[^4]: A 6. § a 10. § (3) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^7]: A 6. § a 10. § (3) bekezdése alapján 2012. január 1-jén lépett hatályba.

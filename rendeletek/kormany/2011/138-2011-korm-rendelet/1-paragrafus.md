@@ -3,17 +3,3 @@
 ## EGYES KÖZÚTI KÖZLEKEDÉSI IGAZGATÁSI FELADATOK
 
 ## 1. A P betűjelű ideiglenes rendszámtábla kiadásának, használatának különös szabályai
-
-1. §[^1] (1) Kérelemre P betűjelű ideiglenes rendszámtáblát kell kiadni a fő tevékenysége szerint gépjármű-kereskedelemre jogosult szervezetnek, vállalkozásnak, a fő tevékenysége szerint járműgyártásra, járműjavításra jogosult szervezetnek, vállalkozásnak, a közlekedési kutatóintézetnek, valamint egyéb olyan vállalkozásnak vagy intézménynek, amelynek tevékenysége indokolja a még forgalomba nem helyezett vagy a forgalomból ideiglenesen kivont, javítás alatt álló vagy kereskedelmi célból történő szállítása során a jármű ideiglenes részvételét a közúti forgalomban.
-
-(2) A P betűjelű ideiglenes rendszámtáblával ellátott jármű használata az ideiglenes forgalomban tartási engedély jogosítottján vagy a vele munkavégzésre irányuló jogviszonyban álló személyen kívül másnak nem engedhető át.
-
-(3) Az (1) bekezdésben meghatározott járműjavításra jogosult szervezet, vállalkozás részére kiadott P betűjelű ideiglenes rendszámtáblával ellátott járművet olyan személy vezetheti, aki rendelkezik a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben a járműszerelői tevékenység önálló végzéséhez előírt képesítéssel.
-
-(4) A P betűjelű ideiglenes rendszámtáblával ellátott járműnek a közúti forgalomban való részvételéről a közlekedési igazgatási hatóság által hitelesített indítási naplót kell vezetni.
-
-(5) A P betűjelű ideiglenes rendszámtáblával ellátott járművel a személy- és teherszállítás, valamint a vontatás tilos. A korlátozás alól az engedélyező közlekedési igazgatási hatóság indokolt esetben felmentést adhat.
-
-(6) A P betűjelű ideiglenes rendszámtáblával ellátott jármű esetében az (5) bekezdésben meghatározott személy- és teherszállítás, illetve vontatási tilalom alól akkor lehet felmentést adni, ha a tesztelés a jármű ezen jellemzőinek megismerésére irányul. A közlekedési igazgatási hatóság a jogszabályban előírt korlátozásokon túl egyéb indokolt megszorításokat rendelhet el, így különösen útvonalbeli, területi és időbeli korlátozásokat írhat elő. Erről és a jogszabályban meghatározott tilalmak alóli felmentésről határozatot hoz.
-
-[^1]: Az 1. § a 10. § (2) bekezdése alapján 2011. szeptember 1-jén lép hatályba, a 10. § (4) bekezdése alapján rendelkezéseit a folyamatban levő ügyekben is alkalmazni kell.
