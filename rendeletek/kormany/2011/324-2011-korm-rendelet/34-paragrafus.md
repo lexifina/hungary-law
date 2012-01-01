@@ -1,4 +1,4 @@
-## 33. §[^33]
+## 33. § Hatályát veszti a Foglalkoztatási és Közfoglalkoztatási Adatbázisról szóló 169/2011. (VIII. 24.) Korm. rendelet 6. §-a és az azt megelőző 4. alcím címsora.
 
 ## 34. Záró rendelkezések
 
@@ -6,7 +6,4 @@
 
 (2) Az 1–33. §, valamint a (3) bekezdés 2012. január 1-jén lép hatályba.
 
-(3)[^34]
-
-[^33]: A 33. § a 34. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
-[^34]: A 34. § (3) bekezdése a 34. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+(3) Hatályát veszti a válság következtében munkahelyüket elvesztő személyek foglalkoztatásának elősegítését célzó támogatásról szóló 356/2009. (XII. 30.) Korm. rendelet.
