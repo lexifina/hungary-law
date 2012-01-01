@@ -10,7 +10,7 @@ a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelent
 
 b) elvégzi
 
-ba) a rendőrség, a büntetés-végrehajtási szervezet, az állami és hivatásos önkormányzati tűzoltóság, a polgári védelem, a katasztrófavédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai,
+ba) a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai,
 
 bb) a ba) pontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró, Kormány által kijelölt szerv a Szervezett Bűnözés Elleni Koordinációs Központ kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai, valamint
 

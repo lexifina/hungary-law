@@ -22,7 +22,7 @@ h) hírközlési rendszerekből és egyéb adattároló eszközökből informác
 
 (3) Az e törvényben meghatározott feladatok ellátása érdekében a rendőrség – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet a (2) bekezdés hatálya alá tartozó szervezeteknél.
 
-(4) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, az Országgyűlési Biztosok Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
+(4) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Országgyűlési Biztosok Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
 
 (5) A foglalkoztatás rendőri jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a rendőrség és az érintett szervezet külön megállapodása tartalmazza.
 

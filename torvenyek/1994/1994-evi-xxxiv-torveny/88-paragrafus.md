@@ -1,4 +1,4 @@
-88. § (1) A rendőrségi adatkezelőnek az adatátadásokról adattovábbítási nyilvántartást kell vezetnie. Az adattovábbítási nyilvántartás célja az érintett tájékozódási jogának, illetve az adatátadások jogszerűsége ellenőrzésének biztosítása.
+88. § (1) A rendőrségi adatkezelő az adatátadásokról az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint adattovábbítási nyilvántartást vezet.
 
 (2) Az adattovábbítási nyilvántartás tartalmazza:
 
@@ -14,7 +14,7 @@ d) a továbbított adatfajták megnevezését.
 
 a) az érintettnek saját adata tekintetében, kivéve, ha a törvény a tájékoztatást kizárta vagy korlátozta,
 
-b) az adatvédelmi biztosnak,
+b) a Nemzeti Adatvédelmi és Információszabadság Hatóságnak,
 
 c) az adatvédelmi ellenőrzésre feljogosított szerv képviselőjének,
 

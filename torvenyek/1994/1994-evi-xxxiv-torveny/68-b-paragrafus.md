@@ -4,4 +4,4 @@
 
 (3) Ha a fedőintézmény megszűnik, vagyona a rendőrséget illeti.
 
-(4) Az államháztartásról szóló 1992. évi XXXVIII. törvény rendelkezései a fedőintézményre nem vonatkoznak.
+(4) Az államháztartásról szóló 2011. évi CXCV. törvény rendelkezései a fedőintézményre nem vonatkoznak.
