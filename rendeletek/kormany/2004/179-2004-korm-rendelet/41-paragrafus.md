@@ -2,7 +2,7 @@
 
 ## SZABÁLYTALANSÁGOK KEZELÉSE
 
-41. § (1)[^91] A szabálytalanságok felfedése, megfelelő kezelése és jelentése érdekében a Felelős Hatóság, a KPSZE, valamint az SzKSz-ek kijelölnek egy szervezeti egységet vagy személyt, amely vagy aki felelős:
+41. § (1)[^92] A szabálytalanságok felfedése, megfelelő kezelése és jelentése érdekében a Felelős Hatóság, a KPSZE, valamint az SzKSz-ek kijelölnek egy szervezeti egységet vagy személyt, amely vagy aki felelős:
 
 a) a szabálytalanságok nyilvántartásáért,
 
@@ -12,9 +12,9 @@ c) a szabálytalanságokkal kapcsolatos döntések végrehajtásának nyomon kö
 
 d) a szabálytalanságokkal kapcsolatos negyedéves jelentések összeállításáért.
 
-(2)[^92] A szabálytalansági jelentési rendszer koordinációjáért – amely biztosítja a szabálytalanságokkal kapcsolatos információáramlást, a szükséges tájékozottságot és a problémák egységes kezelését – a Felelős Hatóság a felelős.
+(2)[^93] A szabálytalansági jelentési rendszer koordinációjáért – amely biztosítja a szabálytalanságokkal kapcsolatos információáramlást, a szükséges tájékozottságot és a problémák egységes kezelését – a Felelős Hatóság a felelős.
 
 (3) A szabálytalanságokkal kapcsolatos teendőket az egyes szervezetek eljárásrendjük önálló fejezeteként kötelesek részletesen szabályozni.
 
-[^91]: A 41. § (1) bekezdésének felvezető szövege a 143/2006. (VI. 29.) Korm. rendelet 23. § b)–c) pontja szerint módosított szöveg.
-[^92]: A 41. § (2) bekezdése a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^92]: A 41. § (1) bekezdésének felvezető szövege a 143/2006. (VI. 29.) Korm. rendelet 23. § b)–c) pontja szerint módosított szöveg.
+[^93]: A 41. § (2) bekezdése a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.

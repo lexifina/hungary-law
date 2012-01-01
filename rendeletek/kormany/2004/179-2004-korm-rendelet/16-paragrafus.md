@@ -12,10 +12,10 @@ e) a belső ellenőrzési tevékenységre,
 
 f) a számviteli nyilvántartások vezetésére,
 
-g)[^49] a közbeszerzési eljárásokban történő részvételre,
+g)[^50] a közbeszerzési eljárásokban történő részvételre,
 
 h) a monitoringra, valamint
 
 i) a szabálytalanságok kezelésére.
 
-[^49]: A 16. § g) pontja a 143/2006. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^50]: A 16. § g) pontja a 143/2006. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

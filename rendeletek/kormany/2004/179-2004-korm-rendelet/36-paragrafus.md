@@ -1,4 +1,4 @@
-36. § (1)[^83] A közbeszerzési eljárás során, valamint a kifizetések teljesítését megelőzően a KPSZE-nek ellenőriznie kell, hogy azok a közösségi politikákkal összhangban vannak, továbbá megfelelnek-e
+36. § (1)[^84] A közbeszerzési eljárás során, valamint a kifizetések teljesítését megelőzően a KPSZE-nek ellenőriznie kell, hogy azok a közösségi politikákkal összhangban vannak, továbbá megfelelnek-e
 
 a) a versenypolitikai szabályoknak,
 
@@ -10,7 +10,7 @@ d) a közbeszerzésre vonatkozó előírásoknak,
 
 e) a környezetvédelemre, esélyegyenlőségre, tájékoztatásra és nyilvánosságra vonatkozó előírásoknak.
 
-(2)[^84] A pénzügyi lebonyolítás során kockázatelemzés alapján a Szakmai Projektfelelősnek biztosítania kell a kifizetéseket megelőző helyszíni ellenőrzések lefolytatását, melynek keretében ellenőrizni kell a Schengen Alap támogatások megfelelő fizikai és pénzügyi előrehaladását, valamint azt, hogy a benyújtott számla összhangban van a szerződéses feltételekkel, a fizikai és teljesítmény mutatószámok teljesítésével.
+(2)[^85] A pénzügyi lebonyolítás során kockázatelemzés alapján a Szakmai Projektfelelősnek biztosítania kell a kifizetéseket megelőző helyszíni ellenőrzések lefolytatását, melynek keretében ellenőrizni kell a Schengen Alap támogatások megfelelő fizikai és pénzügyi előrehaladását, valamint azt, hogy a benyújtott számla összhangban van a szerződéses feltételekkel, a fizikai és teljesítmény mutatószámok teljesítésével.
 
-[^83]: A 36. § (1) bekezdése a 143/2006. (VI. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^84]: A 36. § (2) bekezdése a 143/2006. (VI. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^84]: A 36. § (1) bekezdése a 143/2006. (VI. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^85]: A 36. § (2) bekezdése a 143/2006. (VI. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
