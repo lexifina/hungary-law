@@ -1,4 +1,4 @@
-9. §[^9] (1) A Kormány a Kossuth-díj és a Széchenyi-díj, valamint a művészeti díjak adományozására vonatkozó javaslatok értékelésére, a kitüntetésekre vonatkozó ajánlások megtételére Kossuth- és Széchenyi-díj Bizottságot (a továbbiakban: Bizottság) hoz létre.
+9. §[^10] (1) A Kormány a Kossuth-díj és a Széchenyi-díj, valamint a művészeti díjak adományozására vonatkozó javaslatok értékelésére, a kitüntetésekre vonatkozó ajánlások megtételére Kossuth- és Széchenyi-díj Bizottságot (a továbbiakban: Bizottság) hoz létre.
 
 (2) A Bizottság elnöke a miniszterelnök, alelnöke a miniszterelnök általános helyettese. A Bizottság működésével kapcsolatos titkársági feladatokat a Miniszterelnökség kitüntetési ügyekért felelős szervezeti egységének vezetője látja el.
 
@@ -18,4 +18,4 @@ d) a Kossuth-díjjal, Széchenyi-díjjal, illetve az Állami Díjjal korábban k
 
 (6) A Művészeti Díj Bizottság elnöke a miniszterelnök általános helyettese, tagjai a közigazgatási és igazságügyi miniszter, a kultúráért felelős miniszter, valamint a Bizottság elnöke által a Bizottság egyes művészeti ágakat képviselő tagjai közül felkért négy fő.
 
-[^9]: A 9. § a 3/2011. (I. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 9. § a 3/2011. (I. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
