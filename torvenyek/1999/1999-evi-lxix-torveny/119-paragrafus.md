@@ -1,6 +1,6 @@
 ## Az elzárással is sújtható szabálysértésekre vonatkozó általános eljárási szabályok
 
-119. § (1) Az elzárással is sújtható szabálysértést az elkövetés helye szerint illetékes helyi bíróság tárgyaláson bírálja el.A megyei bíróság elnöke ezekre az eljárásokra – a megyei rendőrfőkapitány javaslatára – más helyi bíróság illetékességét is megállapíthatja.
+119. § (1) Az elzárással is sújtható szabálysértést az elkövetés helye szerint illetékes helyi bíróság tárgyaláson bírálja el.A törvényszék elnöke ezekre az eljárásokra – a megyei rendőrfőkapitány javaslatára – más helyi bíróság illetékességét is megállapíthatja.
 
 (2) A bíróság – ha ez a feljelentés, illetőleg az iratok tartalma alapján lehetséges – nyolc napon belül határoz az áttételről, az eljárás felfüggesztéséről, illetőleg az eljárás megszüntetéséről.
 

@@ -1,3 +1,3 @@
-122. § (1) A megyei bíróság a fellebbezést tanácsülésen bírálja el, ennek során az eljárás alá vont személy terhére – a feljelentőnek az eljárás alá vont személy terhére bejelentett fellebbezésének hiányában – a bíróság határozatában megállapított rendelkezéseknél hátrányosabb rendelkezést nem hozhat.
+122. § (1) A törvényszék a fellebbezést tanácsülésen bírálja el, ennek során az eljárás alá vont személy terhére – a feljelentőnek az eljárás alá vont személy terhére bejelentett fellebbezésének hiányában – a bíróság határozatában megállapított rendelkezéseknél hátrányosabb rendelkezést nem hozhat.
 
 (2) Az eljárás alá vont személy terhére bejelentett fellebbezésnek azt kell tekinteni, ami szabálysértési felelősségének megállapítására, szabálysértésének súlyosabb minősítésére, a büntetésének súlyosítására, illetve a vele szemben büntetés helyett alkalmazott intézkedésnél súlyosabbnak a megállapítására, vagy az ilyen intézkedés helyett büntetés megállapítására irányul.

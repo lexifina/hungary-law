@@ -6,6 +6,6 @@
 
 (4) A határozat kihirdetése után a bíróság megkérdezi a rendőrség képviselőjét, az eljárás alá vont személyt, illetőleg a védőt, kívánnak-e fellebbezést benyújtani. Ha elzárás kiszabására kerül sor, a fellebbezés benyújtására jogosultnak a kérdés feltételét követően nyomban nyilatkoznia kell.
 
-(5) Ha a rendőrség képviselője, az eljárás alá vont személy, illetőleg a védő az elzárás kiszabásával szemben fellebbezést jelent be, és a bíróság az őrizetet meghosszabbítja, a bíróság az iratokat haladéktalanul felterjeszti a megyei bírósághoz.
+(5) Ha a rendőrség képviselője, az eljárás alá vont személy, illetőleg a védő az elzárás kiszabásával szemben fellebbezést jelent be, és a bíróság az őrizetet meghosszabbítja, a bíróság az iratokat haladéktalanul felterjeszti a törvényszékhez.
 
 (6) A fellebbezésre vonatkozó nyilatkozatokat követően a bíróság a határozatát nyomban írásba foglalja és kézbesíti az eljárás alá vont személynek, a védőnek, valamint a rendőrség képviselőjének.

@@ -1,4 +1,4 @@
-90. § (1) Az elkésett vagy nem a jogosult által előterjesztett kifogást a szabálysértési hatóság elutasítja. E határozattal szemben a közléstől számított három napon belül az illetékes ügyészségen panaszt lehet előterjeszteni. A panaszt a 86. § (4) bekezdésében foglaltak szerint kell elbírálni.
+90. § (1) Az elkésett vagy nem a jogosult által előterjesztett kifogást a szabálysértési hatóság elutasítja.
 
 (2) A szabálysértési hatóság a kifogás beérkezését követő nyolc napon belül – amennyiben a kifogás érvényes és nem kerül sor a 89. § (1) bekezdésében foglaltak alkalmazására – az iratokat a további eljárás lefolytatása céljából megküldi az illetékes helyi bíróságnak.
 

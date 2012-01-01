@@ -8,6 +8,6 @@ százezer forintig terjedő pénzbírsággal sújtható.
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(3) Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség, a bányafelügyelet, illetőleg a munkavédelmi hatóság és a munkaügyi hatóság hatáskörébe tartozik.
+(3) Az (l) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség, a bányafelügyelet, valamint a munkavédelmi hatóság hatáskörébe tartozik.
 
 (4) Azt a pirotechnikai terméket, amelyre az (1)–(2) bekezdésben meghatározott szabálysértést elkövették, el kell kobozni.

@@ -2,6 +2,6 @@
 
 (2) A fellebbezésre, illetve annak elbírálására a 121. § (2)–(4) bekezdéseit, valamint a 122–124. § szerinti rendelkezéseket a következő eltérésekkel kell alkalmazni:
 
-a) a határozatot hozó bíróság az iratokat a fellebbezés beérkezését követő három munkanapon belül megküldi az illetékes megyei bíróságnak;
+a) a határozatot hozó bíróság az iratokat a fellebbezés beérkezését követő három munkanapon belül megküldi az illetékes törvényszéknek;
 
-b) a megyei bíróság a fellebbezést három munkanapon belül bírálja el.
+b) a törvényszék a fellebbezést három munkanapon belül bírálja el.

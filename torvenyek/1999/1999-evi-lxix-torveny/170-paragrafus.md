@@ -1,4 +1,6 @@
-170. §
+## Az Európai Unió jogának való megfelelés
+
+170. § A 156. § a polgári kezdeményezésről szóló 2011. február 16-ai 211/2011/EU európai parlamenti és tanácsi rendelet 14. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 Vhr.33. § (1) Ez a rendelet 2000. március 1-jén lép hatályba.
 

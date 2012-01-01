@@ -6,7 +6,7 @@
 
 92. § (1) A bíróság a szabálysértési ügyben egyesbíróként jár el.
 
-(2) A bíróság szabálysértési ügyben végzéssel határoz. A bíróságnak az ügydöntő határozatban a kifogásról kell döntenie, ügydöntő végzését ,,A Magyar Köztársaság nevében'' hozza.
+(2) A bíróság szabálysértési ügyben végzéssel határoz. A bíróságnak az ügydöntő határozatban a kifogásról kell döntenie.
 
 (3) A bíróságot a tényállás ténybeli és jogi elbírálásában a szabálysértési hatóság határozata nem köti.
 

@@ -22,4 +22,4 @@ a) a perújítási okként megjelölt bűncselekmény elkövetését jogerős í
 
 b) e bűncselekmény a szabálysértési hatóság, illetőleg a bíróság határozatát befolyásolta.
 
-(3) Perújításnak van helye, ha az Alkotmánybíróság az alkotmányellenessé nyilvánított jogszabálynak a konkrét esetben történő alkalmazhatósága visszamenőleges kizárásával ad helyt az alkotmányjogi panasznak.
+(3)

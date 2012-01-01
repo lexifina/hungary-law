@@ -1,1 +1,1 @@
-127. § A határozattal szembeni fellebbezés elintézésére a 121–124. §-okban foglalt rendelkezéseket kell értelemszerűen alkalmazni azzal, hogy a megyei bíróság a határozatának egy kiadmányát közvetlenül megküldi az eljárást kezdeményező rendőrségnek.
+127. § A határozattal szembeni fellebbezés elintézésére a 121–124. §-okban foglalt rendelkezéseket kell értelemszerűen alkalmazni azzal, hogy a törvényszék a határozatának egy kiadmányát közvetlenül megküldi az eljárást kezdeményező rendőrségnek.

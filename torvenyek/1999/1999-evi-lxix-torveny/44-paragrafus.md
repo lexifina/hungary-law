@@ -4,6 +4,6 @@
 
 (3) Bíróval szemben felmerült kizárási ok esetében a bíróság elnöke intézkedik más bíró kijelöléséről.
 
-(4) Ha a kizárási ok a bíróság elnökével szemben merül fel, továbbá, ha a bíróságnak nincs olyan tagja, akire kizárási ok nem vonatkozik, a kizárásról a megyei bíróság határoz. Ha a bíróság a kizárás iránti bejelentésnek helyt ad, az illetékességi területén működő másik helyi bíróságot jelöli ki.
+(4) Ha a kizárási ok a bíróság elnökével szemben merül fel, továbbá, ha a bíróságnak nincs olyan tagja, akire kizárási ok nem vonatkozik, a kizárásról a törvényszék határoz. Ha a bíróság a kizárás iránti bejelentésnek helyt ad, az illetékességi területén működő másik helyi bíróságot jelöli ki.
 
 (5) A kizárás e törvényben nem szabályozott eseteire a büntetőeljárásról szóló törvény rendelkezéseit kell értelemszerűen alkalmazni.

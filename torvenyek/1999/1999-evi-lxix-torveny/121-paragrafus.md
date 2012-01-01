@@ -4,4 +4,4 @@
 
 (3) Az elkésett vagy nem a jogosult által előterjesztett fellebbezést a bíróság elutasítja.
 
-(4) A bíróság az iratokat a fellebbezés beérkezését követő nyolc napon belül megküldi az illetékes megyei bíróságnak.
+(4) A bíróság az iratokat a fellebbezés beérkezését követő nyolc napon belül megküldi az illetékes törvényszéknek.

@@ -6,7 +6,7 @@
 
 (3) A (2) bekezdés esetében az elővezetést elrendelő határozatnak tartalmaznia kell, hogy amennyiben az eljárás alá vont személy a pénzbírságot az elővezetés megkezdésekor vagy annak foganatosítása alatt hiánytalanul megfizeti és ezt igazolja, akkor mentesül az elővezetés foganatosítása, illetőleg az elzárás végrehajtása alól.
 
-(4) A szabálysértési hatóság által elrendelt elővezetés az ügyész jóváhagyásával hajtható végre.
+(4) A szabálysértési hatóság által elrendelt elővezetés elrendeléséről az ügyészt haladéktalanul értesíteni kell. Az ügyész az elővezetést elrendelő határozatba elektronikus úton tekint be. Ha az ügyész az elővezetéssel nem ért egyet, az elővezetés megkezdéséig határozattal az elővezetési határozatot hatályon kívül helyezi. Az elővezetés az ügyész intézkedéséig nem hajtható végre.
 
 (5) A megidézett távolmaradásának igazolása esetén a szabálysértési hatóság, illetőleg a bíróság az elővezetést elrendelő határozatát hatályon kívül helyezi.
 

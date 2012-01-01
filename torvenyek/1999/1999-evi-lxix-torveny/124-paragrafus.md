@@ -1,1 +1,1 @@
-124. § A megyei bíróság az ügy iratait határozatának kiadmányával visszaküldi az eljárt bíróságnak.
+124. § A törvényszék az ügy iratait határozatának kiadmányával visszaküldi az eljárt bíróságnak.

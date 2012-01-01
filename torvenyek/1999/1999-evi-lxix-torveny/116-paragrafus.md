@@ -19,3 +19,7 @@ c) központi hivatal vezetője, amennyiben a felügyeletet nem miniszter látja 
 (7) A méltányossági döntésről az értesítést az elkövetőnek a (4) bekezdésben meghatározott bíróság kézbesíti.
 
 (8) A bíróság hivatalból vagy kérelemre egy ízben elrendelheti határozata végrehajtásának felfüggesztését, ha a rendelkezésre álló adatok alapján annak megváltoztatása vagy megsemmisítése várható, vagy ezt különleges méltánylást igénylő körülmény indokolja. A végrehajtás harminc napnál hosszabb időre nem függeszthető fel.
+
+(9) A bíróság a határozata végrehajtását az Alkotmánybíróság eljárásának befejezéséig felfüggesztheti, ha azzal szemben alkotmányjogi panaszt nyújtottak be. A bíróság a felfüggesztésről értesíti az Alkotmánybíróságot.
+
+(10) A bíróság a határozata végrehajtását az Alkotmánybíróság felhívására felfüggeszti és erről értesíti az Alkotmánybíróságot. A végzés ellen nincs helye fellebbezésnek.

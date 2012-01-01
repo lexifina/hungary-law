@@ -10,9 +10,9 @@ c) a fogyasztóvédelmi hatóság;
 
 d) a bányafelügyelet;
 
-e) a munkaügyi hatóság és a munkavédelmi hatóság;
+e) a munkavédelmi hatóság;
 
-f)
+f) a hivatásos katasztrófavédelmi szerv;
 
 g) a védett természeti területek természetvédelmi kezeléséért felelős szerv;
 
