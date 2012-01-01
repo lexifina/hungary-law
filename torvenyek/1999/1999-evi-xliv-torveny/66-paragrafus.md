@@ -2,7 +2,7 @@
 
 (2)–(3)
 
-(4) 2000. január 1-jét követően a Fővárosi, megyei bíróság elnöke gondoskodik a közjegyzői levéltárba kerülő okiratoknak, nyilvántartásoknak és bélyegzőknek a Magyar Országos Közjegyzői Kamara részére történő átadásáról.
+(4) 2000. január 1-jét követően a törvényszék elnöke gondoskodik a közjegyzői levéltárba kerülő okiratoknak, nyilvántartásoknak és bélyegzőknek a Magyar Országos Közjegyzői Kamara részére történő átadásáról.
 
 (5)
 
