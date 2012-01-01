@@ -2,9 +2,9 @@
 
 ## Dublini eljárás
 
-96. § (1)[^95] Ha a dublini eljárás lefolytatására az részletes vizsgálati eljárásban kerül sor, a 83–85. §-ban foglaltakat megfelelően alkalmazni kell.
+96. § (1)[^103] Ha a dublini eljárás lefolytatására az részletes vizsgálati eljárásban kerül sor, a 83–85. §-ban foglaltakat megfelelően alkalmazni kell.
 
-(2)[^96] Dublini eljárás lefolytatásának csak a menekültügyi hatóság részletes vizsgálati eljárást lezáró döntése meghozataláig van helye.
+(2)[^104] Dublini eljárás lefolytatásának csak a menekültügyi hatóság részletes vizsgálati eljárást lezáró döntése meghozataláig van helye.
 
-[^95]: A 96. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
-[^96]: A 96. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^103]: A 96. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^104]: A 96. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.

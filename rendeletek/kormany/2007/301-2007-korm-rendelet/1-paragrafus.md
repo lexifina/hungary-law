@@ -8,13 +8,13 @@
 
 a) a Tanács határozattal kezdeményezi az Európai Unió Bizottságánál (a továbbiakban: Bizottság), hogy nyújtson be javaslatot a harmadik ország minimumlistáról való törlése iránt, vagy
 
-b) a Magyar Köztársaság kezdeményezi a Bizottságnál, hogy nyújtson be javaslatot a Tanácshoz a harmadik ország minimumlistáról való törlése iránt.
+b)[^1] Magyaroszág kezdeményezi a Bizottságnál, hogy nyújtson be javaslatot a Tanácshoz a harmadik ország minimumlistáról való törlése iránt.
 
 (2) Az (1) bekezdés szerinti kötelezettség kezdő napja
 
 a) az (1) bekezdés a) pont szerinti esetben a Tanács határozatának meghozatalát követő nap;
 
-b) az (1) bekezdés b) pont szerinti esetben azt a napot követő nap, amelyen a Magyar Köztársaság a Bizottsághoz intézett kezdeményezéséről a Tanácsot írásban tájékoztatja.
+b)[^2] az (1) bekezdés b) pont szerinti esetben azt a napot követő nap, amelyen Magyarország a Bizottsághoz intézett kezdeményezéséről a Tanácsot írásban tájékoztatja.
 
 (3) Az (1) bekezdés szerinti kötelezettség megszűnik
 
@@ -27,3 +27,6 @@ b) a Tanácsnak a harmadik ország minimumlistáról való törlésére vonatkoz
 (5) Valamely ország biztonságos származási országgá nyilvánítása során különös figyelmet kell fordítani az Európai Unió más tagállamától, az ENSZ Menekültügyi Főbiztosságától, az Európa Tanácstól, valamint más nemzetközi szervezetektől származó információkra.
 
 (6) A miniszter rendszeresen tájékoztatja a Bizottságot azokról az országokról, amelyek vonatkozásában a biztonságos harmadik ország elve alkalmazásra kerül.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 276/2011. (XII. 20.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés b) pontja a 276/2011. (XII. 20.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.

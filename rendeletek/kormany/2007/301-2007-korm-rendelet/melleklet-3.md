@@ -100,6 +100,6 @@
 
 ## A nyilatkozatot nyomtatott betűvel kell kitölteni.
 
-3. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^105]
+3. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^118]
 
-[^105]: A 3. számú melléklet a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^118]: A 3. számú melléklet a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés c) pontja szerint módosított szöveg.
