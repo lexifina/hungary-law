@@ -1,1 +1,0 @@
-Az Országgyűlés — a Magyar Köztársaság Alkotmányában foglaltakkal összhangban — a személyes adatok védelmét, valamint a közérdekű adatok megismeréséhez való jog érvényesülését szolgáló alapvető szabályokról a következő törvényt alkotja:
