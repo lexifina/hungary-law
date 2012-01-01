@@ -10,12 +10,12 @@ való megfelelést szolgálja.
 
 c) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-ai 2009/52/EK tanácsi irányelvnek.
 
-(3)[^2]
+(3)[^14]
 
-(4)[^3]
+(4)[^15]
 
-(5)[^4]
+(5)[^16]
 
-[^2]: Az 5. § (3) bekezdését a (4) bekezdés hatályon kívül helyezte.
-[^3]: Az 5. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^4]: Az 5. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^14]: Az 5. § (3) bekezdését a (4) bekezdés hatályon kívül helyezte.
+[^15]: Az 5. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^16]: Az 5. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
