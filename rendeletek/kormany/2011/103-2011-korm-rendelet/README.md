@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-103-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-07-04 | 2011-103-20-22.1 | 103/2011. (VI. 29.) Korm. rendelet |
+| 2012-01-01 | 2011-103-20-22.2 | 300/2011. (XII. 22.) Korm. rendelet |
