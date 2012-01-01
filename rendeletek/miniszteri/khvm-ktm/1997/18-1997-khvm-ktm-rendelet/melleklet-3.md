@@ -168,7 +168,7 @@
 
 3. számú melléklet a 18/1997. (X. 11.) KHVM–KTM
 
-együttes rendelethez[^30]
+együttes rendelethez[^31]
 
 ## Légiforgalmi korlátozásokat előkészítése során figyelembe veendő információk
 
@@ -212,4 +212,4 @@ együttes rendelethez[^30]
 
 4.2. a zajterhelés értékeléséhez (azaz az izofon görbék és az érintett lakosság számának meghatározásához) az 1. függelékben meghatározott zajjellemzőket, az Lden és Lnight értéket kell használni.
 
-[^30]: A 3. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be.
+[^31]: A 3. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be.

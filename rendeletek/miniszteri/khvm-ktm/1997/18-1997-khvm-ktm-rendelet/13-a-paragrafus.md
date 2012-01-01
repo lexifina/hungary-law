@@ -1,6 +1,6 @@
 ## A zajvédelmi bizottság
 
-13/A. §[^25] (1) Az R. 21. §-a alapján létrehozott zajvédelmi bizottság konzultatív, érdekegyeztető és tanácsadó testület, amely a repülőtér üzemeltetésével kapcsolatos zajkérdések tekintetében
+13/A. §[^26] (1) Az R. 21. §-a alapján létrehozott zajvédelmi bizottság konzultatív, érdekegyeztető és tanácsadó testület, amely a repülőtér üzemeltetésével kapcsolatos zajkérdések tekintetében
 
 a) biztosítja a szükséges információk beszerzését, nyilvánosságra hozatalát és megfelelő értelmezését az érdekeltek számára,
 
@@ -52,4 +52,4 @@ g) a főváros területére eső repülőtér esetén a Budapesti Agglomeráció
 
 (16) Új repülőtér létesítése esetén a zajvédelmi bizottságot úgy kell létrehozni, hogy a zajvédelmi bizottság már az engedélyezést megelőző időszakban véleményt nyilváníthasson az engedélyezésre előkészített tervekről.
 
-[^25]: A 13/A. §-t és az előtte lévő címet a 36/2004. (III. 31.) GKM–KvVM e. r. 11. §-a iktatta be.
+[^26]: A 13/A. §-t és az előtte lévő címet a 36/2004. (III. 31.) GKM–KvVM e. r. 11. §-a iktatta be.

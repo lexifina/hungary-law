@@ -1,6 +1,6 @@
 ## Légiforgalmi korlátozások elrendelése fő kereskedelmi repülőtereken
 
-12/A. §[^21] (1) Fő kereskedelemi repülőtereken a jet repülőgépekre vonatkozó, a 12. § (2) és (3) bekezdése szerinti légiforgalmi korlátozásokat a légiközlekedési hatóság rendelhet el.
+12/A. §[^22] (1) Fő kereskedelemi repülőtereken a jet repülőgépekre vonatkozó, a 12. § (2) és (3) bekezdése szerinti légiforgalmi korlátozásokat a légiközlekedési hatóság rendelhet el.
 
 (2) Légiforgalmi korlátozások elrendelését megelőzően a légiközlekedési hatóság mérlegeli a különböző lehetséges intézkedések hasznát és költségét, valamit az érintett repülőtér helyzetét, környezetének állapotát.
 
@@ -10,7 +10,7 @@
 
 (5) Fő kereskedelmi repülőtéren bevezetni tervezett légiforgalmi korlátozás előkészítése során a 3. számú melléklet szerinti információkat kell értékelni a szükséges és lehetséges mértékben.
 
-(6) Ha a repülőtéren végrehajtott változtatások, bővítések külön jogszabály[^22] szerint környezeti hatásvizsgálatra kötelezettek, a környezeti hatásvizsgálat keretében végzett értékelést el kell fogadni az (5) bekezdésben előírtak teljesítésének, feltéve, hogy elegendő mértékben figyelembe vették a 3. számú melléklet szerinti információkat.
+(6) Ha a repülőtéren végrehajtott változtatások, bővítések külön jogszabály[^23] szerint környezeti hatásvizsgálatra kötelezettek, a környezeti hatásvizsgálat keretében végzett értékelést el kell fogadni az (5) bekezdésben előírtak teljesítésének, feltéve, hogy elegendő mértékben figyelembe vették a 3. számú melléklet szerinti információkat.
 
 (7) A (2)–(6) bekezdésekben foglalt előírásokat nem kell alkalmazni
 
@@ -48,5 +48,5 @@ c) részleges korlátozások esetén két hónappal az érintett menetrendi idő
 
 (13) A légiközlekedési hatóság, amennyiben a fő kereskedelmi repülőtéren új légiforgalmi korlátozás bevezetéséről dönt, haladéktalanul értesíti az Európai Unió tagállamainak légiközlekedési hatóságát és az Európai Bizottságot.
 
-[^21]: A 12/A. §-t és az előtte lévő címet a 36/2004. (III. 31.) GKM–KvVM e. r. 9. §-a iktatta be.
-[^22]: A környezeti hatásvizsgálatról szóló 20/2001. (II. 14.) Korm. rendelet.
+[^22]: A 12/A. §-t és az előtte lévő címet a 36/2004. (III. 31.) GKM–KvVM e. r. 9. §-a iktatta be.
+[^23]: A környezeti hatásvizsgálatról szóló 20/2001. (II. 14.) Korm. rendelet.

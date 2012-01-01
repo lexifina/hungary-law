@@ -1,6 +1,6 @@
-## Zajmonitor rendszer létesítése[^23]
+## Zajmonitor rendszer létesítése[^24]
 
-13. §[^24] (1) A zajterhelés rendszeres és folyamatos ellenőrzése érdekében a repülőtér üzemben tartója állandó mérőpontokon kihelyezett mikrofonok és mobil mérőegység üzembeállításával zajmonitor rendszert köteles működtetni minden olyan esetben, ha az alábbi feltételek valamelyike teljesül:
+13. §[^25] (1) A zajterhelés rendszeres és folyamatos ellenőrzése érdekében a repülőtér üzemben tartója állandó mérőpontokon kihelyezett mikrofonok és mobil mérőegység üzembeállításával zajmonitor rendszert köteles működtetni minden olyan esetben, ha az alábbi feltételek valamelyike teljesül:
 
 a) a zajgátló védőövezeten az A és a B jelű övezetekben levő lakások, valamint az R. 10. §-ának (2) bekezdésében említett intézmények száma együttesen több, mint 200,
 
@@ -30,5 +30,5 @@ a) új repülőtér létesítése vagy meglévő repülőtér jelentős mérték
 
 b) meglevő repülőtéren, az e rendelet hatálybalépése miatt szükségessé váló zajmonitor rendszer kiépítését vagy szükségessé váló bővítését a zajgátló védőövezet kijelölésétől számított másfél éven belül végre kell hajtani. A légiközlekedési hatóság a zajmonitor rendszer kiépítésére másfél éven túli határidőt is előírhat, ha a zajgátló védőövezetben a zajvédelmi intézkedések végrehajtása az R. 17. §-ának (5) bekezdése szerinti program alapján történik.
 
-[^23]: A 13. § előtti címet a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-a iktatta be.
-[^24]: A 13. § a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-ával megállapított szöveg.
+[^24]: A 13. § előtti címet a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-a iktatta be.
+[^25]: A 13. § a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-ával megállapított szöveg.

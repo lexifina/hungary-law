@@ -20,7 +20,7 @@ b) a zajgátló védőövezetben élő lakosság több alkalommal tett panaszbej
 
 (5) Azokon a nyilvános és polgári célú nem nyilvános repülőtereken, ahol az (1) bekezdés a) és b) pontjában meghatározott feltételek együttesen fennállnak, 1998. január 1-jétől a zajbizonyítvány nélküli repülőgépek fel-, illetve leszállása nem engedélyezhető.
 
-(6) A más állam lajstromában szereplő, de magyar repülőtereket használó repülőgépeknek, valamint a 2000. január 1-jét követően a Magyar Köztársaság Állami Légijármű Lajstromába (a továbbiakban: magyar lajstrom) felvett repülőgépeknek az (1)–(3) bekezdésben meghatározott feltételek teljesítését igazoló okmánya – amelynek egy példányát a repülőgép fedélzetén kell tartani – lehet önálló zajbizonyítvány vagy más dokumentum része, azonban mindkét esetben tartalmaznia kell legalább az alábbi adatokat:
+(6)[^19] A más állam lajstromában szereplő, de magyar repülőtereket használó repülőgépeknek, valamint a 2000. január 1-jét követően Magyarország Állami Légijármű Lajstromába (a továbbiakban: magyar lajstrom) felvett repülőgépeknek az (1)–(3) bekezdésben meghatározott feltételek teljesítését igazoló okmánya – amelynek egy példányát a repülőgép fedélzetén kell tartani – lehet önálló zajbizonyítvány vagy más dokumentum része, azonban mindkét esetben tartalmaznia kell legalább az alábbi adatokat:
 
 a) a regisztráló állam és a repülőgép regisztrálási jele;
 
@@ -75,3 +75,4 @@ b) olyan ország lajstromában szerepelnek, amelyet tartalmaz a miniszter által
 [^16]: A 11. § a 48/1999. (XII. 29.) KHVM-KöM együttes rendelet 1. §-ával megállapított szöveg.
 [^17]: A 11. § (1) bekezdése a 36/2004. (III. 31.) GKM–KvVM e. r. 7. § (1) bekezdésével megállapított szöveg.
 [^18]: A 11. § (2) bekezdése a 36/2004. (III. 31.) GKM–KvVM e. r. 7. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 11. § (6) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
