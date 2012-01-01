@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-53-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2004-53-00-00.4 |
 | 2011-01-01 | 2007. évi CXXXIX. törvény | 2004-53-00-00.5 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2004-53-00-00.6 |

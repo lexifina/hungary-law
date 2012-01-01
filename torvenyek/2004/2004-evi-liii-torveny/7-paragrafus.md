@@ -8,4 +8,4 @@
 
 (4) A miniszterelnök az Európai Tanács üléséről szóban tájékoztatja az Országgyűlés plenáris ülését.
 
-(5) A Kormány évente tájékoztatja az Országgyűlés plenáris ülését a Magyar Köztársaság európai uniós tagságával összefüggő kérdésekről és az európai integráció helyzetéről.
+(5) A Kormány évente tájékoztatja az Országgyűlés plenáris ülését Magyarország európai uniós tagságával összefüggő kérdésekről és az európai integráció helyzetéről.
