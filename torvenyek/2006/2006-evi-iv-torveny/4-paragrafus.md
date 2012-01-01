@@ -8,7 +8,7 @@
 
 (4a) A nonprofit gazdasági társaság külön törvényben meghatározottak szerint közhasznú jogállású lehet.
 
-(5) Külön törvény határozza meg, hogy a nonprofit gazdasági társaság milyen előfeltételek fennállása esetén minősül közhasznú szervezetnek, és ehhez milyen követelményeket kell teljesítenie. A közhasznú tevékenységet a társasági szerződésben (alapszabályban, alapító okiratban) meg kell határozni. A közhasznú szervezeti minőséget – a társaság alapításakor vagy később – kérelemre a cégjegyzéket vezető megyei (fővárosi) bíróság (a továbbiakban: cégbíróság) állapítja meg. A közhasznú szervezeti jelleget cégnevében a nonprofit gazdasági társaság feltüntetheti.
+(5) Külön törvény határozza meg, hogy a nonprofit gazdasági társaság milyen előfeltételek fennállása esetén minősül közhasznú szervezetnek, és ehhez milyen követelményeket kell teljesítenie. A közhasznú tevékenységet a társasági szerződésben (alapszabályban, alapító okiratban) meg kell határozni. A közhasznú szervezeti minőséget – a társaság alapításakor vagy később – kérelemre a cégjegyzéket vezető törvényszék (a továbbiakban: cégbíróság) állapítja meg. A közhasznú szervezeti jelleget cégnevében a nonprofit gazdasági társaság feltüntetheti.
 
 (6) Ha a közhasznú szervezetnek minősülő nonprofit gazdasági társaság jogutód nélkül megszűnik, úgy a tartozások kiegyenlítése után a társaság tagjai (részvényesei) részére csak a megszűnéskori saját tőke összege adható ki, legfeljebb a tagok (részvényesek) vagyoni hányadának teljesítéskori értéke erejéig. Az ezt meghaladó vagyont a cégbíróság a társasági szerződés (alapszabály, alapító okirat) rendelkezései szerint fordítja közcélokra. Ilyen rendelkezés hiányában a cégbíróság a megmaradt vagyont a Nemzeti Együttműködési Alap támogatására fordítja.
 

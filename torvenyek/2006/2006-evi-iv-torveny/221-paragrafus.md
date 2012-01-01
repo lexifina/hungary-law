@@ -4,4 +4,6 @@ a) a számviteli törvény szerint készített közbenső mérleg alapján megá
 
 b) a részvényesek vállalják az osztalékelőleg visszafizetését, amennyiben utóbb a számviteli törvény szerinti beszámoló alapján – a 219. § (1) bekezdésben foglaltakra figyelemmel – az osztalékfizetésre nem lenne jogszabályi lehetőség.
 
+Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közbenső mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni. Osztalékelőleg a mérleg fordulónapját követő hat hónapon belül a számviteli törvény szerinti beszámoló alapján is fizethető.
+
 (2) Az alapszabály felhatalmazhatja az igazgatóságot arra, hogy a felügyelőbizottság előzetes jóváhagyása mellett a közgyűlés helyett határozzon osztalékelőleg fizetéséről.
