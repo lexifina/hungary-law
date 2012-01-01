@@ -14,7 +14,7 @@ alapján végzi.
 
 a) a hivatásos állományba jelentkező (a továbbiakban: jelentkező)
 
-aa) által kitöltött – 1. melléklet szerinti – kérdőívet, a jelentkező és a vele közös háztartásban élők a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 8. számú melléklete szerinti nyilatkozatával,
+aa)[^2] által kitöltött – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 10. számú melléklete szerinti – kérdőívet, a jelentkező és a vele közös háztartásban élők Hszt. 8. számú melléklete szerinti nyilatkozatával,
 
 ab) önéletrajzát, valamint
 
@@ -24,10 +24,14 @@ b) a hivatásos állomány tagja
 
 ba) jelenlegi vagy tervezett beosztását,
 
-bb) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét.
+bb) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét,
 
-(3)[^1] A kifogástalan életvitel ellenőrzést az NVSZ főigazgatója határozattal rendeli el.
+bc)[^3] által kitöltött, a Hszt. 9. számú melléklete szerinti nyilatkozatot.
+
+(3)[^4] A kifogástalan életvitel ellenőrzést az NVSZ főigazgatója határozattal rendeli el.
 
 (4) A kifogástalan életvitel ellenőrzést az elrendelésétől számított 30 napon belül be kell fejezni. E határidőt az elrendelő indokolt esetben egy alkalommal 30 nappal meghosszabbíthatja.
 
-[^1]: A 7. § (3) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^2]: A 7. § (2) bekezdés a) pont aa) alpontja a 376/2011. (XII. 31.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^3]: A 7. § (2) bekezdés b) pont bc) alpontját a 376/2011. (XII. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^4]: A 7. § (3) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
