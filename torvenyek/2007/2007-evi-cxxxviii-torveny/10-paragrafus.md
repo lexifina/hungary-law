@@ -10,4 +10,4 @@ c) az elfogadott szabályzatokban rögzített szervezeti, működési, ügyvitel
 
 teljesítése esetén nyújtható.
 
-(3) Külföldi befektetési vállalkozás árutőzsdei szolgáltatást a Magyar Köztársaság területén csak fióktelepén keresztül nyújthat.
+(3) Külföldi befektetési vállalkozás árutőzsdei szolgáltatást Magyarország területén csak fióktelepén keresztül nyújthat.

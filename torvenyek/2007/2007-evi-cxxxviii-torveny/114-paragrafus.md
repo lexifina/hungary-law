@@ -1,6 +1,6 @@
 114. § (1) Befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás közvetítésére irányuló tevékenységet függő ügynökként – a (2) bekezdésben foglalt kivétellel – az végezhet, aki szerepel a Felügyelet 159. § (2) bekezdése szerinti nyilvántartásában és megfelel a 111–116. §-ban foglalt rendelkezéseknek.
 
-(2) A más EGT-államban székhellyel rendelkező közvetítő a Magyar Köztársaság területén határon átnyúló tevékenységet akkor végezhet és fióktelepet akkor létesíthet, ha a hatáskörrel rendelkező felügyeleti hatósága, illetőleg a 159. § (3) bekezdésében meghatározott esetben a Felügyelet nyilvántartásba vette.
+(2) A más EGT-államban székhellyel rendelkező közvetítő Magyarország területén határon átnyúló tevékenységet akkor végezhet és fióktelepet akkor létesíthet, ha a hatáskörrel rendelkező felügyeleti hatósága, vagy a 159. § (3) bekezdésében meghatározott esetben a Felügyelet nyilvántartásba vette.
 
 (3) A Felügyelet – kérelmére – azt a függő ügynököt veszi nyilvántartásba, aki megfelel az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak.
 

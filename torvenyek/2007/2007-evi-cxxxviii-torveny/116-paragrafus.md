@@ -1,6 +1,6 @@
 116. § (1) Természetes személy függő ügynök az lehet, aki
 
-a) büntetlen előéletű,
+a) a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
 
 b) nem áll tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt,
 

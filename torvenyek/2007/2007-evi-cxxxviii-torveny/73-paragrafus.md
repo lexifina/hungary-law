@@ -8,7 +8,7 @@
 
 (4) Egy adott részvény piacaként az ezen részvényt érintő, az EGT-államok területén lévő végrehajtási helyszínen végrehajtott összes megbízást kell tekinteni, ide nem értve az adott részvény szokásos piaci ügyletméretét meghaladó méretű ügyleteket.
 
-(5) A Felügyelet azon részvény esetében, melynek likviditás szempontjából leginkább érintett piacát felügyeli, a Bizottság 1287/2006/EK rendeletében meghatározott feltételek alapján legalább évente meghatározza azt a részvényosztályt, amelybe az tartozik, az adott piacon az adott részvényre vonatkozóan végrehajtott megbízások számtani átlagértéke alapján. Ezt az információt honlapján az összes piaci résztvevő számára közzéteszi.
+(5) A Felügyelet azon részvény esetében, melynek likviditás szempontjából leginkább érintett piacát felügyeli, a Bizottság 1287/2006/EK rendeletében meghatározott feltételek alapján legalább évente meghatározza azt a részvényosztályt, amelybe az tartozik, az adott piacon az adott részvényre vonatkozóan végrehajtott megbízások számtani átlagértéke alapján. Ezt az információt honlapján az összes piaci résztvevő számára közzéteszi, valamint továbbítja az Európai Értékpapír-piaci Hatóságnak.
 
 (6) A rendszeres internalizáló a (2) bekezdés szerinti vételi és eladási árfolyamokat az érvényes piaci helyzetnek megfelelően alakítja ki, valamint
 

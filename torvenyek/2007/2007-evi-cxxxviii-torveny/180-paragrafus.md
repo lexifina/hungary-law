@@ -24,4 +24,10 @@ h) a javadalmazási politikának az érintett befektetési vállalkozás mérete
 
 rendeletben állapítsa meg.
 
-(2)
+(2) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+
+a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére,
+
+b) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére
+
+vonatkozó részletes szabályokat.

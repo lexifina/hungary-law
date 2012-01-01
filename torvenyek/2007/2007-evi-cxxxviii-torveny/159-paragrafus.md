@@ -36,8 +36,8 @@ n) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenysé
 
 valamint az ezen adatokban bekövetkező változást.
 
-(2) A Felügyelet – a (3) és (4) bekezdésben foglaltakra figyelemmel – nyilvántartást vezet a 114. § (3) bekezdése alapján a befektetési vállalkozás és az árutőzsdei szolgáltató által megbízható függő ügynökökről, akik lakóhelye (tartózkodási helye), illetőleg székhelye a Magyar Köztársaság területén található.
+(2) A Felügyelet – a (3) és (4) bekezdésben foglaltakra figyelemmel – nyilvántartást vezet a 114. § (3) bekezdése alapján a befektetési vállalkozás és az árutőzsdei szolgáltató által megbízható függő ügynökökről, akik lakóhelye (tartózkodási helye), vagy székhelye Magyarország területén található.
 
-(3) Ha a Magyar Köztársaság területén székhellyel rendelkező befektetési vállalkozás függő ügynöke olyan más EGT-államban rendelkezik székhellyel, amely az ott székhellyel rendelkező befektetési vállalkozás számára nem teszi lehetővé függő ügynök igénybevételét, a Felügyelet – a Magyar Köztársaság területén székhellyel rendelkező befektetési vállalkozás 113. § (1) bekezdése szerinti bejelentése alapján – nyilvántartásba veszi.
+(3) Ha a Magyarország területén székhellyel rendelkező befektetési vállalkozás függő ügynöke olyan más EGT-államban rendelkezik székhellyel, amely az ott székhellyel rendelkező befektetési vállalkozás számára nem teszi lehetővé függő ügynök igénybevételét, a Felügyelet – a Magyarország területén székhellyel rendelkező befektetési vállalkozás 113. § (1) bekezdése szerinti bejelentése alapján – nyilvántartásba veszi.
 
 (4) A Felügyelet a (2) és (3) bekezdés szerint vezetett nyilvántartásában a függő ügynökkel kapcsolatosan a 113. § (2) bekezdésében foglalt adatokat tartja nyilván.

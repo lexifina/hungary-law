@@ -16,19 +16,21 @@ c) harminc napnál nem régebbi okirati igazolást arról, hogy a személyes jog
 
 d) annak igazolását, hogy egyéb tulajdonosi érdekeltsége és tevékenysége nem veszélyezteti a pénzügyi intézmény működését,
 
-e) természetes személy kérelmező esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt, vagy a személyes joga szerinti ennek megfelelő okiratot,
+e)
 
 f) a kérelmező arra vonatkozó nyilatkozatát, hogy megfelel a (4) és (5) bekezdésben meghatározott feltételeknek,
 
 g) nem természetes személy kérelmező esetén a kérelem benyújtásakor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése, nyilvántartásba vétele megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben e törvényben meghatározott kizáró okok nem állnak fenn,
 
-h) a kérelmező arra vonatkozó nyilatkozatát, hogy a minősített befolyás megszerzése a befektetési vállalkozás Magyar Köztársaság területén található központi irodából történő irányítását nem veszélyezteti,
+h) a kérelmező arra vonatkozó nyilatkozatát, hogy a minősített befolyás megszerzése a befektetési vállalkozás Magyarország területén található központi irodából történő irányítását nem veszélyezteti,
 
 i) nem természetes személy kérelmező esetén a kérelmező tulajdonosi szerkezetének részletes leírását,
 
 j) a 28. § (1) bekezdésének t) és u) pontjában meghatározott nyilatkozatokat,
 
 k) a minősített befolyás megszerzése következtében a befektetési vállalkozással szoros kapcsolatba kerülő természetes személy hozzájárulását a személyes adatainak az összevont alapú, vagy a kiegészítő felügyelet érdekében történő kezeléséhez.
+
+(2a) Természetes személy kérelmező az (1) bekezdés szerinti engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (3) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
@@ -38,7 +40,9 @@ a) akinek tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyás
 
 b) akinek üzleti tevékenysége, kapcsolatainak jellege vagy más vállalkozásokkal fennálló közvetlen és közvetett tulajdoni részesedésének szerkezete a felügyeleti tevékenységet nem akadályozza,
 
-c) aki jó üzleti hírnévvel rendelkezik.
+c) aki jó üzleti hírnévvel rendelkezik,
+
+d) aki – természetes személy esetén – a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja.
 
 (5) A kérelmező, tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása különösen akkor veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását, ha
 

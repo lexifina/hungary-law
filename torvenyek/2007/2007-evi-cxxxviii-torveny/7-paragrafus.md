@@ -2,6 +2,6 @@
 
 (2) Befektetési szolgáltatási tevékenység az e törvényben és külön jogszabályban meghatározott feltételek teljesítése esetén kezdhető meg és folytatható.
 
-(3) A harmadik országban székhellyel rendelkező befektetési vállalkozás tevékenységét a Magyar Köztársaság területén fióktelepén keresztül végezheti.
+(3) A harmadik országban székhellyel rendelkező befektetési vállalkozás tevékenységét Magyarország területén fióktelepén keresztül végezheti.
 
-(4) A más EGT-államban székhellyel rendelkező befektetési vállalkozás a Magyar Köztársaság területén határon átnyúló tevékenységet végezhet.
+(4) A más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén határon átnyúló tevékenységet végezhet.

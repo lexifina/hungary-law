@@ -6,4 +6,4 @@
 
 (2) A gazdasági társasági formában működő befektetési vállalkozásra és árutőzsdei szolgáltatóra a Gt., a szövetkezeti formában működő árutőzsdei szolgáltatóra az Sztv., a külföldi vállalkozás fióktelepére az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(3) A befektetési vállalkozás, amelynek székhelye a Magyar Köztársaság területén található, a központi irodáját is a Magyar Köztársaság területén jelöli ki.
+(3) A befektetési vállalkozás, amelynek székhelye Magyarország területén található, a központi irodáját is Magyarország területén jelöli ki.

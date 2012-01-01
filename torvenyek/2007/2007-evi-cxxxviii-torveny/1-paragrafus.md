@@ -8,7 +8,7 @@
 
 1. § Ha nemzetközi szerződés vagy e törvény eltérően nem rendelkezik, e törvény hatálya kiterjed
 
-a) a Magyar Köztársaság területén székhellyel rendelkező személy és szervezet által a Magyar Köztársaság területén végzett
+a) a Magyarország területén székhellyel rendelkező személy és szervezet által Magyarország területén végzett
 
 aa) befektetési szolgáltatási tevékenységre,
 
@@ -16,7 +16,7 @@ ab) befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásra 
 
 ac) árutőzsdei szolgáltatásra,
 
-b) a Magyar Köztársaság területén székhellyel rendelkező vállalkozás az Európai Unió más tagállamában vagy az Európai Gazdasági Térséget létrehozó megállapodásban részes más állam területén végzett határon átnyúló vagy fióktelep formájában folytatott
+b) a Magyarország területén székhellyel rendelkező vállalkozás az Európai Unió más tagállamában vagy az Európai Gazdasági Térséget létrehozó megállapodásban részes más állam területén végzett határon átnyúló vagy fióktelep formájában folytatott
 
 ba) befektetési szolgáltatási tevékenységére, és
 

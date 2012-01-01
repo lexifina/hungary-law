@@ -64,8 +64,18 @@ s) a befektetési vállalkozást az irányítási és kockázatkezelési rendsze
 
 t) a befektetési vállalkozást a 105. § (5) bekezdése szerinti többlet-tőkekövetelmény elérésére kötelezheti azzal, hogy a befektetési vállalkozás többlet-tőkekövetelménye nem haladhatja meg a 105. § (2) bekezdése szerinti érték kétszeresét, és
 
-u) a multilaterális kereskedési rendszerben kereskedés tárgyát képező pénzügyi eszköz kereskedését felfüggesztheti, valamint előírhatja valamely pénzügyi eszköz kereskedésből történő kivezetését.
+u) a multilaterális kereskedési rendszerben kereskedés tárgyát képező pénzügyi eszköz kereskedését felfüggesztheti, valamint előírhatja valamely pénzügyi eszköz kereskedésből történő kivezetését,
+
+v) kötelezheti a befektetési vállalkozást, hogy a javadalmazási politika hatálya alá tartozó személyek teljesítményjavadalmazása a nettó bevétel százalékában legyen meghatározva, ha a teljesítményjavadalmazás nincs összhangban a befektetési vállalkozás prudenciális követelményeknek való megfelelésével.
 
 (2) A Felügyelet az (1) bekezdés oa) alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató e törvényben foglalt tőkekövetelményeknek való megfelelése nem biztosított.
 
 (3) Ha a Felügyelet az (1) bekezdés n) pontjában meghatározott intézkedést alkalmazza, haladéktalanul köteles tájékoztatni azon tagállamok felügyeleti hatóságait, melyekben az intézkedéssel érintett befektetési vállalkozás fióktelepet működtet, illetőleg határon átnyúló szolgáltatást nyújt.
+
+(4) Az (1) bekezdés t) pontja szerinti többlettőke-követelmény mértékének meghatározásakor a Felügyeletnek figyelembe kell vennie:
+
+a) a befektetési vállalkozás belső tőkemegfelelés értékelési folyamatának mennyiségi és minőségi szempontjait,
+
+b) a befektetési vállalkozás irányítási és kockázatkezelési rendszerének megfelelőségét és
+
+c) a befektetési vállalkozásnál végrehajtott felügyeleti felülvizsgálat eredményét.

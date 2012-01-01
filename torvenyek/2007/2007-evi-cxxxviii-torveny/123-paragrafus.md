@@ -62,4 +62,4 @@ kell eleget tenni.
 
 (6) A befektetési vállalkozás és az árutőzsdei szolgáltató köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
 
-(7) A Magyar Köztársaság területén bejegyzett befektetési vállalkozás köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság lett vagy ezen viszony módosul, illetőleg megszűnik.
+(7) A Magyarország területén bejegyzett befektetési vállalkozás köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társasággá vagy vegyes pénzügyi holding társasággá válik, és ha ezen viszony módosul vagy megszűnik.

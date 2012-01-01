@@ -8,7 +8,7 @@
 
 1. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
 
-2. ÁÉKBV: a Tanács 85/611/EGK irányelve alapján létrehozott, átruházható értékpapírokba kollektív alapon befektető forma,
+2. ÁÉKBV: a Batv-ben meghatározott fogalom,
 
 3. árjegyző: az a saját számlás kereskedést folytató befektetési vállalkozás, amely egy pénzügyi eszközre folyamatos vételi és eladási kötelezettséget vállal az általa meghatározott árakon,
 
@@ -96,13 +96,13 @@ b) amely megvásárolja egy harmadik fél eszközeit, mérlegen kívüli tétele
 
 35. kiszervezés: olyan megállapodás egy befektetési vállalkozás és egy harmadik személy között, amelynek keretében e harmadik személy olyan tevékenységet végez, amelyet egyébként a befektetési vállalkozás maga végezne,
 
-36. kollektív befektetési forma: az azonos szerződési feltételek mellett, az ügyfelek által átadott eszközök egymástól el nem különített, együttes kezelésével létrehozott és működtetett befektetési forma, amelynek célja, hogy az ügyfelek számára portfóliókezelési szolgáltatást nyújtson, illetőleg tagjaiként az ügyfelek közvetve vegyenek igénybe ilyen szolgáltatást,
+36. kollektív befektetési forma: a Batv-ben meghatározott fogalom,
 
 37. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer (a továbbiakban: KHR),
 
 38. központi szerződő fél: a Tpt.-ben meghatározott fogalom,
 
-39. külföldi befektetési vállalkozás: az a befektetési vállalkozás, amelynek székhelye nem a Magyar Köztársaság területén van,
+39. külföldi befektetési vállalkozás: az a befektetési vállalkozás, amelynek székhelye nem Magyarország területén van,
 
 40. különleges célú gazdasági egység: kizárólag a külön törvény szerinti értékpapírosítási ügylet végrehajtása céljából létrehozott jogalany, amely működhet alap (értékpapírosító alap) vagy társaság (értékpapírosító társaság) formájában,
 

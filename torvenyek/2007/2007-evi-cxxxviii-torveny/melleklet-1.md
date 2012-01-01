@@ -1,6 +1,6 @@
 1. melléklet a 2007. évi CXXXVIII. törvényhez
 
-1. Áht.: az államháztartásról szóló 1992. évi XXXVIII. törvény,
+1. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 
 2. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
 
@@ -26,7 +26,7 @@
 
 13. Ktv.: a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény,
 
-14. MNB tv.: a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény,
+14. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 
 15. Pmtv.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény,
 
@@ -43,3 +43,7 @@
 21. Vbt.: a választottbíráskodásról szóló 1994. évi LXXI. törvény,
 
 22. Vht.: a bírósági végrehajtásról szóló 1994. évi LIII. törvény.
+
+22. Bnytv.: a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény,
+
+23. Batv.: a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény.

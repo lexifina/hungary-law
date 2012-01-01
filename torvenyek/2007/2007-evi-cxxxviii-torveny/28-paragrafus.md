@@ -8,7 +8,7 @@ c) a meghatározott mértékű induló tőke befizetésének igazolását, nyila
 
 d) a végezni kívánt tevékenység megnevezését és a kérelmező döntési, irányítási rendszerét is tartalmazó szervezeti és működési szabályzatot,
 
-e) egy nyilatkozatot arról, hogy a befektetési vállalkozás irányítása a Magyar Köztársaság területén létesítendő központi irodában történik,
+e) egy nyilatkozatot arról, hogy a befektetési vállalkozás irányítása Magyarország területén létesítendő központi irodában történik,
 
 f) több telephely esetén azon telephely tárgyi-technikai feltételeinek leírását, ahol a tevékenységet folytatni kívánja,
 
