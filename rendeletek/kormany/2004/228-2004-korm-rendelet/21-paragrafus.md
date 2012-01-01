@@ -1,6 +1,6 @@
 ## Bírálati szempontok
 
-21. § (1) Az ajánlatkérő az ajánlati felhívásban köteles meghatározni az ajánlatok bírálati szempontját.
+21. § (1)[^48] Az ajánlatkérő az ajánlattételi felhívásban köteles meghatározni az ajánlatok bírálati szempontját.
 
 (2) Az ajánlatok bírálati szempontja a következő lehet:
 
@@ -8,7 +8,7 @@ a) a legalacsonyabb összegű ellenszolgáltatás, vagy
 
 b) az összességében legelőnyösebb ajánlat kiválasztása.
 
-(3) Ha az ajánlatkérő az összességében legelőnyösebb ajánlatot kívánja kiválasztani, az ajánlati felhívásban köteles meghatározni
+(3)[^49] Ha az ajánlatkérő az összességében legelőnyösebb ajánlatot kívánja kiválasztani, az ajánlattételi felhívásban köteles meghatározni
 
 a) az összességében legelőnyösebb ajánlat megítélésére szolgáló részszempontokat;
 
@@ -28,4 +28,8 @@ c) a részszempontoknak mennyiségi vagy más módon értékelhető tényezőkö
 
 d) a részszempontok nem eredményezhetik ugyanazon ajánlati tartalmi elem többszöri értékelését.
 
-(5) Ha az ajánlatkérő az összességében legelőnyösebb ajánlatot kívánja kiválasztani a dokumentációban – vagy ha ajánlatkérő dokumentációt nem készít, az ajánlati felhívásban – köteles meghatározni a részszempontokat, szükség esetén azok alszempontjait és az azok súlyát meghatározó szorzószámokat.
+(5)[^50] Ha az ajánlatkérő az összességében legelőnyösebb ajánlatot kívánja kiválasztani a dokumentációban – vagy ha ajánlatkérő dokumentációt nem készít, az ajánlattételi felhívásban – köteles meghatározni a részszempontokat, szükség esetén azok alszempontjait és az azok súlyát meghatározó szorzószámokat.
+
+[^48]: A 21. § (1) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.
+[^49]: A 21. § (3) bekezdés nyitó szövegrésze a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.
+[^50]: A 21. § (5) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.

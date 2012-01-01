@@ -4,7 +4,7 @@
 
 (2) A rendeletet nem kell alkalmazni
 
-a) az államtitkot vagy szolgálati titkot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 143/2004. (IV. 29.) Korm. rendeletben meghatározott esetekben;
+a)[^5] a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendeletben meghatározott esetekben;
 
 b) csapatok állomásoztatására vonatkozó és valamely tagállam vagy harmadik ország vállalkozásait érintően kötött nemzetközi szerződés vagy megállapodás alapján külön eljárási rend szerinti beszerzésre;
 
@@ -14,9 +14,11 @@ d) a harmadik országokban kiírt, olyan beszerzésre, a civil célú beszerzés
 
 e) szolgáltatás megrendelésre, amelyek tárgya föld, meglévő épületek vagy egyéb ingatlan, illetve az arra vonatkozó jogok bármely pénzügyi eljárással történő megvásárlása vagy bérlése;
 
-f) az olyan kutatási és fejlesztési szolgáltatás megrendelésre, amelyek haszna nem kizárólag az ajánlatkérőnél jelentkezik a szolgáltatásnak a saját tevékenységében való felhasználása során, feltéve, hogy a kapott szolgáltatás ellenértékét teljes mértékben az ajánlatkérő fizeti meg; vagy
+f)[^6] az olyan kutatási és fejlesztési szolgáltatás megrendelésre, amelyek haszna nem kizárólag az ajánlatkérőnél jelentkezik a szolgáltatásnak a saját tevékenységében való felhasználása során, feltéve, hogy a kapott szolgáltatás ellenértékét teljes mértékben az ajánlatkérő fizeti meg;
 
-g) a NATO Biztonsági Beruházási Program vagy egyéb közös finanszírozású NATO támogatott program keretében megvalósuló beszerzésre.
+g)[^7] a NATO Biztonsági Beruházási Program vagy egyéb közös finanszírozású NATO támogatott program keretében megvalósuló beszerzésre;
+
+h)[^8] a 412 000 EUR értékhatárt el nem érő, a fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások beszerzésére.
 
 (3) A következő esetekben kizárólag a 74/B. §-t kell alkalmazni:
 
@@ -29,3 +31,7 @@ c) valamely kormányzat által egy másik kormányzatnak odaítélt, katonai fel
 d) a Kormány egyedi döntésének megfelelően az Európai Unió működéséről szóló szerződés 346. cikke alapján történő beszerzésekre.
 
 [^4]: A 2. § a 191/2011. (IX. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdés a) pontja a 295/2011. (XII. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdés f) pontja a 295/2011. (XII. 22.) Korm. rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^7]: [A 2. § (2) bekezdés g) pontjának a 295/2011. (XII. 22.) Korm. rendelet 22. § (2) bekezdésével elrendelt módosítása, amely szerint a „megvalósuló beszerzésekre.” szövegrész helyébe a „megvalósuló beszerzésekre; vagy” szöveg lép, nem átvezethető.]
+[^8]: A 2. § (2) bekezdés h) pontját a 295/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.

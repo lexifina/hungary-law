@@ -40,6 +40,6 @@
 
 ## A **-gal megjelölt pontokat csak akkor kell kitölteni, ha az ajánlatkérő az összességében legelőnyösebb ajánlatot választja.”
 
-7. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^107]
+7. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^169]
 
-[^107]: A 7. számú mellékletet a 191/2011. (IX. 20.) Korm. rendelet 29. § (3) bekezdése iktatta be.
+[^169]: A 7. számú mellékletet a 191/2011. (IX. 20.) Korm. rendelet 29. § (3) bekezdése iktatta be.

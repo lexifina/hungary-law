@@ -1,6 +1,6 @@
-## 78. §[^100] Ez a rendelet a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 78. §[^158] Ez a rendelet a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-## 1. számú mellélet a 228/2004. (VII. 30) Korm. rendelethez[^101]
+## 1. számú mellélet a 228/2004. (VII. 30) Korm. rendelethez[^159]
 
 ## Általános megjegyzések:
 
@@ -1022,7 +1022,7 @@
 
 ## (ML 11)
 
-## Az EU közös katonai listáján másutt meg nem határozott elektronikai berendezések, valamint kifejezetten ezekhez tervezett részegységek a következők szerint:
+## Az EU közös katonai listáján másutt meg nem határozott elektronikai berendezések, vezetés-irányítási rendszerek és kapcsolódó szolgáltatások, valamint kifejezetten ezekhez tervezett részegységek a következők szerint
 
 ## a) kifejezetten katonai felhasználásra tervezett elektronikai berendezések;
 
@@ -1033,6 +1033,8 @@
 ## b) széles frekvenciasávban hangolható elektroncsövek;
 
 ## c) elektronikai rendszerek vagy berendezések, amelyeket elektromágneses spektrum ellenőrzésére és megfigyelésére, katonai hírszerzési vagy biztonsági célokra, vagy az ilyen hírszerzési és megfigyelési ellentevékenység elhárítására terveztek;
+
+## c) Vezetési, Irányítási (Command and Control – C2), Vezetési, Irányítási, Hírközlési (Command, Control and Communications – C3), Vezetési, Irányítási, Hírközlési és Hírszerzési (Command, Control, Communications and Intelligence – C3I), Vezetési, Irányítási, Hírközlési, Számítástechnikai és Hírszerzési (Command, Control, Communications, Computer and Intelligence – C4I) képességek, rendszerek, rendszerelemek, berendezések, eszközök és kapcsolódó szolgáltatások.
 
 ## d) víz alatti ellentevékenység eszközei, többek között akusztikai és mágneses zavaróeszközök és csapdák, a szonár vevőkbe zavaró, vagy hamis jeleket továbbító berendezések;
 
@@ -1366,7 +1368,7 @@
 
 ## 3. hagyományos, nukleáris, vegyi vagy biológiai fegyverek hatásának meghatározására szolgáló „szoftver”;
 
-## 4. kifejezetten katonai felhasználásra tervezett és kifejezetten vezetési, hírközlési, irányítási és hírszerzési (Command, Communications, Control and Intelligence – C3I) vagy vezetési, hírközlési, irányítási, számítástechnikai és hírszerzési (Command, Communications, Control, Computer and Intelligence – C4I) rendszer alkalmazások céljára kifejlesztett „szoftver”;
+## 4. Vezetési, Irányítási (Command and Control – C2), Vezetési, Irányítási, Hírközlési (Command, Control and Communications – C3), Vezetési, Irányítási, Hírközlési és Hírszerzési (Command, Control, Communications and Intelligence – C3I), Vezetési, Irányítási, Hírközlési, Számítástechnikai és Hírszerzési (Command, Control, Communications, Computer and Intelligence – C4I) rendszer alkalmazások, vagy azok részelemei;
 
 ## c) az ML21. fejezet a) vagy b) pontjában nem meghatározott szoftver, amelyet kifejezetten arra terveztek vagy alakítottak át, hogy az EU közös katonai listájában nem szereplő berendezések számára lehetővé tegye az EU közös katonai listájában meghatározott berendezések katonai rendeltetésének betöltését.
 
@@ -1502,8 +1504,8 @@
 
 ## 9. Nyomrögzítő berendezések és anyagok.
 
-2. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^102]
+2. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^160]
 
-[^100]: A 78. §-t a 191/2011. (IX. 20.) Korm. rendelet 28. §-a iktatta be.
-[^101]: Az 1. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^102]: A 2. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^158]: A 78. §-t a 191/2011. (IX. 20.) Korm. rendelet 28. §-a iktatta be.
+[^159]: Az 1. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (1) bekezdésével megállapított, a 295/2011. (XII. 22.) Korm. rendelet 19. § (1)–(2) bekezdése és 20. § szerint módosított szöveg.
+[^160]: A 2. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
