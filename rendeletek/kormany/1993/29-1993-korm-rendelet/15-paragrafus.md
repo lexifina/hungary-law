@@ -1,28 +1,28 @@
-## 14/B. §[^42]
+## 14/B. §[^45]
 
 ## Nappali ellátást nyújtó intézmények
 
 ## 15. §
 
-(1)[^43] Nappali ellátás esetében az intézményi térítési díjat külön meg kell határozni
+(1)[^46] Nappali ellátás esetében az intézményi térítési díjat külön meg kell határozni
 
 a) a csak napközbeni tartózkodást igénybe vevőkre, illetve
 
 b) a napközbeni tartózkodást és ott étkezést igénybe vevőkre, ahol az intézményi térítési díj megegyezik az a) pont szerint meghatározott és a (2) bekezdés szerinti díj összegével.
 
-(2)[^44] A nappali ellátás keretében igénybe vett étkezés intézményi térítési díját a 9. § (2) és (4) bekezdése szerint kell megállapítani. A személyi térítési díj megállapítására a 9. § (5) bekezdésében foglaltak az irányadók.
+(2)[^47] A nappali ellátás keretében igénybe vett étkezés intézményi térítési díját a 9. § (2) és (4) bekezdése szerint kell megállapítani. A személyi térítési díj megállapítására a 9. § (5) bekezdésében foglaltak az irányadók.
 
 (3) Ha a jogosult az ellátást meghatározott ideig nem kívánja igénybe venni, azt a házirendben foglaltak szerint be kell jelenteni.
 
-(4)[^45] Amennyiben a nappali ellátást nyújtó intézményben az ellátottról – átmenetileg – a házi segítségnyújtás keretében gondoskodnak, az ellátás intézményi térítési díjának, valamint a személyi térítési díjnak a megállapítására a 12–14. § rendelkezései értelemszerűen irányadók.
+(4)[^48] Amennyiben a nappali ellátást nyújtó intézményben az ellátottról – átmenetileg – a házi segítségnyújtás keretében gondoskodnak, az ellátás intézményi térítési díjának, valamint a személyi térítési díjnak a megállapítására a 12–14. § rendelkezései értelemszerűen irányadók.
 
-(5)[^46] A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény gyermekétkeztetésért fizetendő térítési díjra vonatkozó szabályait kell alkalmazni a fogyatékos gyermekek számára nappali ellátást nyújtó fogyatékosok nappali intézményében nyújtott étkeztetésre.
+(5)[^49] A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény gyermekétkeztetésért fizetendő térítési díjra vonatkozó szabályait kell alkalmazni a fogyatékos gyermekek számára nappali ellátást nyújtó fogyatékosok nappali intézményében nyújtott étkeztetésre.
 
-(6)[^47] Nappali ellátás esetén az adott hónapra fizetendő személyi térítési díj a napi személyi térítési díj és az ellátási napok szorzata.
+(6)[^50] Nappali ellátás esetén az adott hónapra fizetendő személyi térítési díj a napi személyi térítési díj és az ellátási napok szorzata.
 
-[^42]: A 14/B. §-t és az azt megelőző alcímet a 312/2002. (XII. 29.) Korm. rendelet 5. §-a iktatta be, a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdésének c) pontja hatályon kívül helyezte.
-[^43]: A 15. § (1) bekezdése a 339/2007. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^44]: A 15. § (2) bekezdése a 339/2007. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^45]: A 15. § (4) bekezdését a 169/1999. (XI. 24.) Korm. rendelet 6. §-a iktatta a szövegbe.
-[^46]: A 15. § (5) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^47]: A 15. § (6) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^45]: A 14/B. §-t és az azt megelőző alcímet a 312/2002. (XII. 29.) Korm. rendelet 5. §-a iktatta be, a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdésének c) pontja hatályon kívül helyezte.
+[^46]: A 15. § (1) bekezdése a 339/2007. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^47]: A 15. § (2) bekezdése a 339/2007. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^48]: A 15. § (4) bekezdését a 169/1999. (XI. 24.) Korm. rendelet 6. §-a iktatta a szövegbe.
+[^49]: A 15. § (5) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^50]: A 15. § (6) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be.

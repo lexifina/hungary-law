@@ -1,9 +1,9 @@
-## 27. §[^66]
+## 27. §[^69]
 
-(1)[^67] Ha az ellátott gondnokság alatt áll, gondnoka — amennyiben a gondozott megfelelő jövedelemmel vagy készpénzvagyonnal rendelkezik — köteles — legalább az Szt. 117/A. §-a szerinti, a költőpénz összegével azonos összegű — készpénzt biztosítani a gondnokolt személyes szükségleteire. Amennyiben a gondnok e kötelességének nem tesz eleget, az intézményvezető erről – a szükséges intézkedés megtétele érdekében – tájékoztatja a gondnokot kirendelő gyámhivatalt.
+(1)[^70] Ha az ellátott gondnokság alatt áll, gondnoka — amennyiben a gondozott megfelelő jövedelemmel vagy készpénzvagyonnal rendelkezik — köteles — legalább az Szt. 117/A. §-a szerinti, a költőpénz összegével azonos összegű — készpénzt biztosítani a gondnokolt személyes szükségleteire. Amennyiben a gondnok e kötelességének nem tesz eleget, az intézményvezető erről – a szükséges intézkedés megtétele érdekében – tájékoztatja a gondnokot kirendelő gyámhivatalt.
 
-(2)[^68] Az (1) bekezdés rendelkezéseit értelemszerűen kell alkalmazni a személyes gondoskodásban részesülő gyermekvédelmi gondoskodás alatt álló kiskorúak esetében is.
+(2)[^71] Az (1) bekezdés rendelkezéseit értelemszerűen kell alkalmazni a személyes gondoskodásban részesülő gyermekvédelmi gondoskodás alatt álló kiskorúak esetében is.
 
-[^66]: A 27. § a 10/1994. (I. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^67]: A 27. § (1) bekezdése a 169/1999. (XI. 24.) Korm. rendelet 10. §-a szerint kiegészített és a 15. §-a (4) bekezdésének a) pontja szerint módosított szöveg.
-[^68]: A 27. § (2) bekezdése a 339/2007. (XII. 15.) Korm. rendelet 30. § (2) bekezdése a) pontjának ac) alpontja szerint módosított szöveg.
+[^69]: A 27. § a 10/1994. (I. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^70]: A 27. § (1) bekezdése a 169/1999. (XI. 24.) Korm. rendelet 10. §-a szerint kiegészített és a 15. §-a (4) bekezdésének a) pontja szerint módosított szöveg.
+[^71]: A 27. § (2) bekezdése a 339/2007. (XII. 15.) Korm. rendelet 30. § (2) bekezdése a) pontjának ac) alpontja szerint módosított szöveg.
