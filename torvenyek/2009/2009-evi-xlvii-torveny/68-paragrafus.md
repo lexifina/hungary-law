@@ -92,13 +92,15 @@ a) az igazságügyért felelős miniszter a kegyelmi kérelem felterjesztéséne
 
 b) az állampolgársági ügyekért felelős miniszter az állampolgársági eljárásban a honosítás és visszahonosítás törvényi feltételeinek vizsgálata során a bűntettesek nyilvántartásában és a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok.
 
-(5) A Magyar Honvédség központi adatfeldolgozó szerve, valamint rendkívüli állapot idején és a megelőző védelmi helyzetben a hadkiegészítő parancsnokság a hadkötelezettség feltételei fennállásának megállapítása céljából jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
+(5) A hadkötelezettség bevezetését követően a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a hadkötelezettség feltételei fennállásának megállapítása céljából jogosultak közvetlen hozzáféréssel átvenni a következő adatokat:
 
-a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
 
-b) a 23. § c), f) és g) pontjában meghatározott adatok, valamint
+b) a 16. § (2) bekezdés a) pontjában meghatározott adatok,
 
-c) a 28. § b) és c) pontjában meghatározott adatok.
+c) a 23. § c), f) és g) pontjában meghatározott adatok, valamint
+
+d) a 28. § b) és c) pontjában meghatározott adatok.
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
