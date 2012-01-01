@@ -1,4 +1,4 @@
-## 131. §[^152]
+## 131. §[^162]
 
 ## (1) Az Országgyűlés a képviselő és a volt képviselő mentelmi ügyében benyújtott határozati javaslatot sürgősséggel tárgyalja.
 
@@ -6,9 +6,9 @@
 
 ## (3) A mentelmi jog felfüggesztése tárgyában hozott döntéshez a jelen lévő képviselők kétharmadának szavazata szükséges.
 
-## Az összeférhetetlenségi ügyek intézése[^153]
+## Az összeférhetetlenségi ügyek intézése[^163]
 
-## 131/A. §[^154]
+## 131/A. §[^164]
 
 ## (1) Az országgyűlési képviselők összeférhetetlenségi ügyeinek intézése során a Házszabály általános rendelkezéseit a 131/A–131/E. §-okban foglalt eltérésekkel kell alkalmazni.
 
@@ -34,7 +34,7 @@
 
 ## (10) A Já.tv. 15. § (2) és (3) bekezdése, illetve a Já.tv. 16. § (1) bekezdése alapján indított eljárásban a határozati javaslat csak az összeférhetetlenség megállapítására irányulhat. Az eljárásra a 131/B. § (3)–(7) bekezdéseit, valamint a 131/C. §-t kell megfelelően alkalmazni.
 
-## 131/B. §[^155]
+## 131/B. §[^165]
 
 ## (1) A Mentelmi bizottság a Já.tv. 20. § (2) és (3) bekezdése alapján indított összeférhetetlenségi eljárás esetén [131/A. § (3) bekezdés, 131/A. § (4) bekezdés a) pont] az ügy kézhezvételétől számított tíz napon belül az összeférhetetlenség kimondására irányuló határozati javaslathoz ajánlást nyújt be az Országgyűlésnek.
 
@@ -50,7 +50,7 @@
 
 ## (7) A vizsgálóbizottság ajánlástervezetet, illetve határozati javaslattervezetet készít a Mentelmi bizottság részére.
 
-## 131/C. §[^156]
+## 131/C. §[^166]
 
 ## (1) A Mentelmi bizottság az összeférhetetlenségi ügyeket zár ülésen tárgyalja.
 
@@ -64,7 +64,7 @@
 
 ## (6) A Mentelmi bizottság elnöke az összeférhetetlenségi ügy tárgyalásáról, idejéről és helyéről köteles az érintett képviselőt értesíteni. Ha a képviselő megjelenik, kérésére meg kell őt hallgatni, de a Mentelmi bizottság ülésén egyébként nem lehet jelen.
 
-## 131/D. §[^157]
+## 131/D. §[^167]
 
 ## (1) Az Országgyűlés az összeférhetetlenségi ügyben a határozati javaslatot sürgősséggel tárgyalja.
 
@@ -72,11 +72,11 @@
 
 ## (3) A határozati javaslathoz módosító javaslatot nem lehet fűzni, arról az Országgyűlés vita nélkül határoz. A határozathozatal előtt a képviselő felszólalhat.
 
-## (4)[^158] A Já.tv. 15. § (2) és (3) bekezdése, valamint 16. § (1) bekezdése alapján csak az összeférhetetlenség megállapítására kerülhet sor.
+## (4)[^168] A Já.tv. 15. § (2) és (3) bekezdése, valamint 16. § (1) bekezdése alapján csak az összeférhetetlenség megállapítására kerülhet sor.
 
-## 131/E. §[^159]
+## 131/E. §[^169]
 
-## (1)[^160] Ha az Országgyűlés nem mondta ki az összeférhetetlenséget, akkor a képviselővel szemben ugyanezen tények alapján nem lehet újabb összeférhetetlenségi eljárást kezdeményezni.
+## (1)[^170] Ha az Országgyűlés nem mondta ki az összeférhetetlenséget, akkor a képviselővel szemben ugyanezen tények alapján nem lehet újabb összeférhetetlenségi eljárást kezdeményezni.
 
 ## (2) Az összeférhetetlenség megállapításával egyidejűleg – kivéve a 131/D. § (4) bekezdésében foglalt eseteket – az Országgyűlés felszólítja a képviselőt, hogy öt napon belül szüntesse meg vagy kezdeményezze az összeférhetetlenség megszüntetését, és ennek tényét jelentse be az Országgyűlés elnökének. Egyúttal kimondja, hogy amennyiben a képviselő nem szünteti meg vagy nem kezdeményezi az összeférhetetlenség megszüntetését, illetve, ha ennek tényét nem jelenti be az Országgyűlés elnökének, akkor képviselői megbízatása ezen határozat alapján, az összeférhetetlenség megállapításától számított öt nap elteltével megszűnik. A mandátumvizsgálati ügyekkel foglalkozó bizottság elnöke az összeférhetetlenség megállapításától számított öt nap elteltével bejelenti az összeférhetetlenség megszüntetését, illetve ennek kezdeményezését vagy ennek hiányát, aminek következtében a képviselő képviselői megbízatása az összeférhetetlenség megállapításától számított öt nap elteltével megszűnt.
 
@@ -84,9 +84,9 @@
 
 ## (4) Nem szűnik meg a képviselő megbízatása, ha az Országgyűlés a Já.tv. 15. § (2) és (3) bekezdése, valamint 16. § (1) bekezdése alapján állapítja meg az összeférhetetlenséget, de az Országgyűlés az összeférhetetlenség megállapításának tényét nyilvánosságra hozza.
 
-## A vagyon-, jövedelem- és érdekeltségi nyilatkozattal kapcsolatos eljárás[^161]
+## A vagyon-, jövedelem- és érdekeltségi nyilatkozattal kapcsolatos eljárás[^171]
 
-## 131/F. §[^162]
+## 131/F. §[^172]
 
 ## (1) Vagyon-, jövedelem- és érdekeltségi nyilatkozattal (a továbbiakban: vagyonnyilatkozat) kapcsolatos eljárást az Országgyűlés elnökénél bárki kezdeményezhet.
 
@@ -114,7 +114,7 @@
 
 ## (10) A vagyonnyilatkozattal kapcsolatos eljárás megismétlésének ugyanazon vagyonnyilatkozat esetében csak akkor van helye, ha az erre irányuló kezdeményezés új tényállítást (adatot) tartalmaz. A vagyonnyilatkozattal kapcsolatos eljárásra irányuló – új tényállítás nélküli – ismételt kezdeményezést a Mentelmi bizottság elnöke az eljárás lefolytatása nélkül elutasítja.
 
-## 131/G. §[^163]
+## 131/G. §[^173]
 
 ## (1) Az újonnan megválasztott Országgyűlés Mentelmi bizottsága a Já.tv. 19. § (1) bekezdésében meghatározott határidő lejártát követő első ülésén listát állít össze azokról a volt képviselőkről, akik nem tettek eleget záró vagyonnyilatkozat-tételi kötelezettségüknek.
 
@@ -124,17 +124,17 @@
 
 ## A vezető közjogi tisztségek betöltőinek megválasztása
 
-## 132. §[^164]
+## 132. §[^174]
 
 ## (1) A vezető közjogi tisztségek betöltőinek megválasztása során a Házszabály általános rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-## (2)[^165] Az Országgyűlés az Alkotmányban, illetőleg külön törvényekben megállapított szabályok szerint választja meg a köztársasági elnököt, a miniszterelnököt, az Alkotmánybíróság elnökét és tagját, a Legfelsőbb Bíróság elnökét, a legfőbb ügyészt, az országgyűlési biztost, továbbá az Állami Számvevőszék elnökét és alelnökét. A választás titkos szavazással történik, kivéve a miniszterelnök megválasztását.
+## (2)[^175] Az Országgyűlés az Alkotmányban, illetőleg külön törvényekben megállapított szabályok szerint választja meg a köztársasági elnököt, a miniszterelnököt, az Alkotmánybíróság elnökét és tagját, a Legfelsőbb Bíróság elnökét, a legfőbb ügyészt, az országgyűlési biztost, továbbá az Állami Számvevőszék elnökét és alelnökét. A választás titkos szavazással történik, kivéve a miniszterelnök megválasztását.
 
 ## (3) Ha törvény valamely tisztségviselő megválasztása vagy kinevezése előtt a jelölt országgyűlési bizottság előtt történő meghallgatását írja elő, az erre hatáskörrel rendelkező bizottság a jelöltet meghallgatja, és a személyi javaslatot véleményezi. A jelölt miniszterré történő kinevezésének támogatásáról a bizottság nyílt szavazással határoz.
 
 ## (4) Az Országgyűlés által választott tisztségviselők esetében a kialakított véleményt a bizottság előadója az Országgyűlés ülésén ismerteti. A többi jelöltről a véleményt a bizottság elnöke az Országgyűlés elnökének küldi meg, aki azt a javaslattételi és a kinevezési jogkör gyakorlójához eljuttatja.
 
-## (5)[^166]
+## (5)[^176]
 
 ## (6) Külön törvényben meghatározott tisztségek betöltőinek megválasztására – eltérő rendelkezés hiányában – e § rendelkezéseit kell alkalmazni.
 
@@ -158,7 +158,7 @@
 
 ## b) a lemondó nyilatkozatot nem kell kiadni bizottsági előkészítésre;
 
-## c)[^167] a lemondó nyilatkozathoz módosító javaslatot nem lehet benyújtani, de bármely képviselőcsoport vagy legalább tíz képviselő — legkésőbb az e napirendi pont tárgyalásának megkezdése előtti napon — írásban javasolhatja, hogy az Országgyűlés kérje a köztársasági elnöktől elhatározásának újbóli megfontolását; ilyen javaslat esetén először e javaslatról kell szavazni;
+## c)[^177] a lemondó nyilatkozathoz módosító javaslatot nem lehet benyújtani, de bármely képviselőcsoport vagy legalább tíz képviselő — legkésőbb az e napirendi pont tárgyalásának megkezdése előtti napon — írásban javasolhatja, hogy az Országgyűlés kérje a köztársasági elnöktől elhatározásának újbóli megfontolását; ilyen javaslat esetén először e javaslatról kell szavazni;
 
 ## d) ha a köztársasági elnök elhatározásának fenntartásáról írásban értesíti az Országgyűlést, az a)—c) pontok szerint kell eljárni, de vitát már nem lehet nyitni, és az Országgyűlés a lemondás tudomásulvételét nem tagadhatja meg.
 
@@ -190,9 +190,9 @@
 
 ## (2) Ha a Kormány a miniszterelnök útján azt javasolja, hogy az általa benyújtott előterjesztés feletti szavazás egyben bizalmi szavazás is legyen, a javaslatot az Országgyűlés ülésén szóban is — legkésőbb a benyújtott előterjesztés egésze feletti zárószavazás megkezdése előtt — elő lehet terjeszteni.
 
-## 134/A–134/F. §[^168]
+## 134/A–134/F. §[^178]
 
-## 5. Fejezet[^169]
+## 5. Fejezet[^179]
 
 ## AZ EURÓPAI UNIÓS ÜGYEKKEL KAPCSOLATOS ELJÁRÁS
 
@@ -204,21 +204,21 @@
 
 (3) A törvényben meghatározott esetekben a Kormány a tanácsi döntéshozatalban képviselni kívánt tárgyalási álláspontját az Országgyűlés elnökének és az Európai uniós bizottságnak küldi meg. Ezen dokumentumok az e fejezetben szabályozott eljárásban nem nyilvános minősítésű iratként kezelendők. A tárgyalási álláspontjavaslatot az Európai uniós bizottság zárt ülésén részvételre jogosult, valamint a bizottság elnöke által erre felhatalmazott személy ismerheti meg.
 
-[^152]: A 131. § a 61/1997. (VI. 5.) OGY határozat 1. §-ával megállapított szöveg.
-[^153]: Az alcímet a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
-[^154]: A 131/A. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
-[^155]: A 131/B. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
-[^156]: A 131/C. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
-[^157]: A 131/D. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
-[^158]: A 131/D. § (4) bekezdésének második mondatát a 104/2001. (XII. 21.) OGY határozat 4. §-a hatályon kívül helyezte.
-[^159]: A 131/E. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
-[^160]: A 131/E. § (1) bekezdése a 104/2001. (XII. 21.) OGY határozat 1. §-ával megállapított szöveg.
-[^161]: Az alcímet a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
-[^162]: A 131/F. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 104/2001. (XII. 21.) OGY határozat 2. §-ával megállapított szöveg.
-[^163]: A 131/G. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 104/2001. (XII. 21.) OGY határozat 3. §-ával megállapított szöveg.
-[^164]: A 132. § a 71/1997. (VII. 17.) OGY határozat 45. §-ával megállapított szöveg.
-[^165]: A 132. § (2) bekezdése a 36/2011. (VI. 15.) OGY határozat 1. §-ával megállapított szöveg.
-[^166]: A 132. § (5) bekezdését az Alkotmánybíróság a 9/2008. (I. 31.) AB határozatának 1. pontjával megsemmisítette 2008. december 31. napjával.
-[^167]: A 133. § (2) bekezdésének c) pontja a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése szerint módosított szöveg.
-[^168]: A 134/A–134/F. §-t és a 134/A. §-t megelőző alcímet a 62/1995. (VI. 17.) OGY határozat 1. §-a iktatta be, hatályon kívül helyezte a 103/2007. (XII. 6.) OGY határozat 25. § (2) bekezdése.
-[^169]: A IV. Rész 5. fejezetét (134/A–134/D. §-t) a 47/2004. (V. 18.) OGY határozat 4. §-a iktatta be, e módosító határozat 5. §-a alapján a rendelkezés az Országgyűlés és a Kormány európai uniós ügyekben történő együttműködéséről szóló törvény hatálybalépésének napján lép hatályba; a hatálybalépés napja 2004. június 24. (Lásd a 2004: LIII. törvényt.)
+[^162]: A 131. § a 61/1997. (VI. 5.) OGY határozat 1. §-ával megállapított szöveg.
+[^163]: Az alcímet a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
+[^164]: A 131/A. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
+[^165]: A 131/B. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
+[^166]: A 131/C. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
+[^167]: A 131/D. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
+[^168]: A 131/D. § (4) bekezdésének második mondatát a 104/2001. (XII. 21.) OGY határozat 4. §-a hatályon kívül helyezte.
+[^169]: A 131/E. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
+[^170]: A 131/E. § (1) bekezdése a 104/2001. (XII. 21.) OGY határozat 1. §-ával megállapított szöveg.
+[^171]: Az alcímet a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
+[^172]: A 131/F. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 104/2001. (XII. 21.) OGY határozat 2. §-ával megállapított szöveg.
+[^173]: A 131/G. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 104/2001. (XII. 21.) OGY határozat 3. §-ával megállapított szöveg.
+[^174]: A 132. § a 71/1997. (VII. 17.) OGY határozat 45. §-ával megállapított szöveg.
+[^175]: A 132. § (2) bekezdése a 36/2011. (VI. 15.) OGY határozat 1. §-ával megállapított szöveg.
+[^176]: A 132. § (5) bekezdését az Alkotmánybíróság a 9/2008. (I. 31.) AB határozatának 1. pontjával megsemmisítette 2008. december 31. napjával.
+[^177]: A 133. § (2) bekezdésének c) pontja a 103/2007. (XII. 6.) OGY határozat 25. § (1) bekezdése szerint módosított szöveg.
+[^178]: A 134/A–134/F. §-t és a 134/A. §-t megelőző alcímet a 62/1995. (VI. 17.) OGY határozat 1. §-a iktatta be, hatályon kívül helyezte a 103/2007. (XII. 6.) OGY határozat 25. § (2) bekezdése.
+[^179]: A IV. Rész 5. fejezetét (134/A–134/D. §-t) a 47/2004. (V. 18.) OGY határozat 4. §-a iktatta be, e módosító határozat 5. §-a alapján a rendelkezés az Országgyűlés és a Kormány európai uniós ügyekben történő együttműködéséről szóló törvény hatálybalépésének napján lép hatályba; a hatálybalépés napja 2004. június 24. (Lásd a 2004: LIII. törvényt.)

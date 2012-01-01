@@ -130,21 +130,25 @@
 
 ## 107. §[^130]
 
-## (1) A zárószavazás megkezdése előtt módosító javaslatot lehet benyújtani bármely – korábban megszavazott – rendelkezéshez kapcsolódóan, ha a megszavazott rendelkezés nincs összhangban az Alkotmánnyal vagy más törvénnyel, a törvényjavaslat már megszavazott rendelkezésével, vagy a törvényjavaslat módosítással nem érintett valamely rendelkezésével. Zárószavazás előtti módosító javaslatot az előterjesztő is benyújthat. Zárószavazás előtti módosító javaslatot írásban lehet benyújtani legkésőbb annak az ülésnapnak a megnyitása előtt egy órával, amely ülésnap napirendjén szerepel az adott törvényjavaslat zárószavazása.
+## (1)[^131] A zárószavazás megkezdése előtt írásban – legkésőbb annak az ülésnapnak a megnyitása előtt huszonnégy órával, amely ülésnap napirendjén szerepel az adott törvényjavaslat zárószavazása – módosító javaslatot nyújthat be
+
+## a) bizottság, illetve országgyűlési képviselő bármely korábban megszavazott rendelkezéshez kapcsolódóan, ha a megszavazott rendelkezés nincs összhangban az Alkotmánnyal vagy más törvénnyel, a törvényjavaslat már megszavazott rendelkezésével, vagy a törvényjavaslat módosítással nem érintett valamely rendelkezésével, továbbá
+
+## b) az előterjesztő, az első helyen kijelölt bizottság és az Alkotmányügyi bizottság az a) pontban és a 94. § (3) bekezdésében foglalt tartalmi korlátozásokra való tekintet nélkül azzal, hogy a módosító javaslat nem terjedhet ki az egységes javaslat által nem érintett törvények rendelkezéseire.
 
 ## (2) A zárószavazás előtti módosító javaslatot az elnök az Alkotmányügyi bizottságnak adja ki. A költségvetési, pótköltségvetési, zárszámadási, illetve költségvetést módosító törvényjavaslathoz benyújtott zárószavazást megelőző módosító javaslatot az elnök a Költségvetési bizottságnak is kiadja.
 
 ## (3) A zárószavazás megkezdése előtt a zárószavazás elhalasztását javasolhatja a kijelölt bizottság, illetve az Alkotmányügyi bizottság, amennyiben az (1) bekezdésben meghatározott módosító javaslatot kíván benyújtani. A zárószavazás elhalasztásáról – a javaslattevő indokainak meghallgatása után – az Országgyűlés vita nélkül határoz.
 
-## (4) A törvényjavaslat záró vitája az (1) bekezdés szerinti módosító javaslatok megtárgyalásából áll. A tárgyalásra, a vitára és a szavazásra a 105–106. § rendelkezéseit kell megfelelően alkalmazni azzal, hogy amennyiben nem a Kormány az előterjesztő, akkor nyilatkoznia kell, hogy egyetért-e a törvényjavaslat elfogadásával. A zárószavazást megelőzően benyújtott módosító javaslat esetén a zárószavazást csak a törvényjavaslat záró vitája után lehet megtartani.
+## (4)[^132] A törvényjavaslat záró vitája az (1) bekezdés szerinti módosító javaslatok megtárgyalásából áll. A tárgyalásra, a vitára és a szavazásra a 105–106. § rendelkezéseit kell megfelelően alkalmazni azzal, hogy amennyiben nem a Kormány az előterjesztő, akkor nyilatkoznia kell, hogy egyetért-e a törvényjavaslat elfogadásával. A törvényjavaslat záró vitájában a képviselőcsoportok számára azonos idő áll rendelkezésre, amelyet az Országgyűlés a Házbizottság javaslatára – ennek hiányában elnöki javaslat alapján – azon ülés napirendjének megállapítása során határoz meg, amelyen az adott indítvány zárószavazása szerepel. A javaslat tartalmazza a független képviselők számára rendelkezésre álló időt is. Több törvényjavaslat zárószavazása esetén a képviselőcsoportok, valamint a független képviselők számára az egyes törvényjavaslatok záró vitájában rendelkezésre álló időt az Országgyűlés egy döntéssel határozza meg.
 
 ## (5) Ha a zárószavazás során minősített többséget igénylő döntés is szükséges, akkor a zárószavazást két részletben kell lefolytatni úgy, hogy először a minősített többséget igénylő döntést kell meghozni. A szükséges minősített többség hiányában az 56. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az elnök köteles elrendelni a tárgyalási szünetet.
 
-## 107/A. §[^131]
+## 107/A. §[^133]
 
 ## Zárószavazás újból nem rendelhető el, illetve a zárószavazás elhalasztására – a 107. § (3) bekezdésében meghatározott okból – legfeljebb egy alkalommal kerülhet sor. A 107. § (1) bekezdésében meghatározott határidő letelte után új módosító javaslat nem nyújtható be.
 
-## 107/B. §[^132]
+## 107/B. §[^134]
 
 ## 108. §
 
@@ -152,7 +156,7 @@
 
 ## (2) Az Országgyűlés felkérheti az Országgyűlés elnökét, hogy a köztársasági elnöktől a törvény sürgős kihirdetését kérje. Erről az Országgyűlés vita nélkül határoz.
 
-## 109. §[^133]
+## 109. §[^135]
 
 ## (1) Az Országgyűlés által elfogadott, de a köztársasági elnök által még alá nem írt népszavazással történő megerősítését legkésőbb a zárószavazás befejezésekor, írásban lehet kérni. Az Országgyűlés a zárószavazást követő ülésen a határozati javaslat tárgyalására vonatkozó rendelkezések (112. §) szerint határoz a népszavazásra bocsátásról.
 
@@ -164,7 +168,7 @@
 
 ## (2) A köztársasági elnök átiratát az Országgyűlés elnöke kiadja az Alkotmányügyi, valamint a kijelölt bizottságnak. Az eljárásra ezt követően a 107. § (2) és (4) bekezdéseit kell megfelelően alkalmazni.
 
-## 111. §[^134]
+## 111. §[^136]
 
 ## Ha a köztársasági elnök az Alkotmánybíróság által alkotmányellenesnek nyilvánított rendelkezés miatt visszaküldi a törvényt az Országgyűlésnek, az Országgyűlés elnöke felhívja az Alkotmányügyi bizottságot és a kijelölt bizottságot az Alkotmánybíróság határozatának megfelelő módosító javaslat előterjesztésére. Az eljárásra ezt követően a 107. § (2) és (4) bekezdéseit kell megfelelően alkalmazni.
 
@@ -172,7 +176,7 @@
 
 ## 112. §
 
-## (1)[^135] A határozati javaslat tárgyalására a 98—99., 101–108 §-okat a (2)—(3) bekezdésben meghatározott eltérésekkel kell megfelelően alkalmazni.
+## (1)[^137] A határozati javaslat tárgyalására a 98—99., 101–108 §-okat a (2)—(3) bekezdésben meghatározott eltérésekkel kell megfelelően alkalmazni.
 
 ## (2) Az Országgyűlés határozatát a hivatalos lapban közzé kell tenni. A határozatokat az elnök és a soros jegyzők írják alá. E határozatok közzétételéről az Országgyűlés elnöke gondoskodik.
 
@@ -182,7 +186,7 @@
 
 ## 113. §
 
-## (1)[^136] A politikai nyilatkozattervezet tárgyalására a 98—99., 101–108. §-okat kell megfelelően alkalmazni.
+## (1)[^138] A politikai nyilatkozattervezet tárgyalására a 98—99., 101–108. §-okat kell megfelelően alkalmazni.
 
 ## (2) A politikai nyilatkozat közzétételének módjáról az Országgyűlés esetenként dönt.
 
@@ -192,7 +196,7 @@
 
 ## (1) A jelentés tárgyalására a 98—99., 101—103. §-okat kell megfelelően alkalmazni, azzal az eltéréssel, hogy az előterjesztéshez módosító javaslatot nem lehet tenni. A jelentésnek csak általános vitája van, amely a jelentésben foglalt megállapítások intézkedések megalapozottságáról folyik.
 
-## (2)[^137] A jelentés elfogadásáról az Országgyűlés határozattal dönt.
+## (2)[^139] A jelentés elfogadásáról az Országgyűlés határozattal dönt.
 
 ## Az interpelláció és a kérdés tárgyalása
 
@@ -202,7 +206,7 @@
 
 ## (2) Az interpellációt az Országgyűlés elnökénél kell benyújtani. Az interpellációnak tartalmaznia kell a vele kapcsolatos tények és körülmények közlését.
 
-## (3)[^138] Az Országgyűlés ülésének napirendjében feltüntetett időpontban az interpelláció és kérdés tárgyalására hetente legalább kilencven percet kell biztosítani. Az interpellációkat és kérdéseket benyújtásuk idősorrendjében kell napirendre tűzni. Valamennyi képviselőcsoport számára lehetővé kell tenni, hogy legalább egy – általa benyújtott – interpelláció és kérdés tárgyalására sor kerüljön. A Házbizottság a független képviselők létszámát figyelembe véve biztosítja az interpellációk és kérdések feltételének lehetőségét számukra.
+## (3)[^140] Az Országgyűlés ülésének napirendjében feltüntetett időpontban az interpelláció és kérdés tárgyalására hetente legalább kilencven percet kell biztosítani. Az interpellációkat és kérdéseket benyújtásuk idősorrendjében kell napirendre tűzni. Valamennyi képviselőcsoport számára lehetővé kell tenni, hogy legalább egy – általa benyújtott – interpelláció és kérdés tárgyalására sor kerüljön. A Házbizottság a független képviselők létszámát figyelembe véve biztosítja az interpellációk és kérdések feltételének lehetőségét számukra.
 
 ## (4) Ha az interpelláció az egész Kormány működését érinti, a miniszterelnök válaszol, ha több minisztert érint vagy az érintett miniszter személye kérdéses, a miniszterelnök jelöli ki a válaszadó minisztert.
 
@@ -212,7 +216,7 @@
 
 ## (2) A képviselő az interpellációt legkésőbb az interpelláció elhangzásáig visszavonhatja. Ha a képviselő az interpelláció elhangzásának a napirend szerint várható időpontjában nincs jelen, s távolmaradását előzetesen indokolva nem mentette ki, az interpellációt visszavontnak kell tekinteni. Kimentés esetén az interpelláció elmondására az elnök új időpontot tűz ki.
 
-## (3)[^139] Az interpelláció három perc időtartam alatt terjeszthető elő. A válaszra négy perc, a válasz elfogadásával kapcsolatos nyilatkozattételre egy perc áll rendelkezésre. E határidők túllépésekor az elnök – a szómegvonás okának közlésével – megvonja a szót.
+## (3)[^141] Az interpelláció három perc időtartam alatt terjeszthető elő. A válaszra négy perc, a válasz elfogadásával kapcsolatos nyilatkozattételre egy perc áll rendelkezésre. E határidők túllépésekor az elnök – a szómegvonás okának közlésével – megvonja a szót.
 
 ## (4) Az elmondott interpelláció nem tartalmazhat olyan új tényt, amelyet az interpelláció írott szövege nem tartalmazott. Ettől eltérni csak az interpellált egyetértésével lehet.
 
@@ -256,7 +260,7 @@
 
 ## (4) Az azonnali kérdések órájában az Alkotmány szerint válaszadásra kötelezettek kötelesek az ülésteremben tartózkodni. A válaszadásra kötelezett halaszthatatlan közfeladata ellátása esetén előzetesen tájékoztatja az Országgyűlés elnökét, és megjelöli a helyette válaszadásra feljogosított személyt.
 
-## (5)[^140] Ha a miniszterelnök vagy a miniszter nem személyesen válaszol, a képviselő személyes válaszadást kérhet. Ebben az esetben a megkérdezett legkésőbb a harmadik soron következő azonnali kérdések órájában köteles személyesen válaszolni. Ezen határidő alatt a kérdést a képviselőcsoport vezetője csak olyan helyre sorolhatja, ahol annak feltételére lehetőség nyílik, ellenkező esetben a személyes válaszadás kötelezettsége megszűnik.
+## (5)[^142] Ha a miniszterelnök vagy a miniszter nem személyesen válaszol, a képviselő személyes válaszadást kérhet. Ebben az esetben a megkérdezett legkésőbb a harmadik soron következő azonnali kérdések órájában köteles személyesen válaszolni. Ezen határidő alatt a kérdést a képviselőcsoport vezetője csak olyan helyre sorolhatja, ahol annak feltételére lehetőség nyílik, ellenkező esetben a személyes válaszadás kötelezettsége megszűnik.
 
 ## (6) A kérdés elmondására és a válaszadásra két-két perc áll rendelkezésre. A képviselőnek és a megkérdezettnek egyperces viszontválaszra van joga. Az utolsó szó joga a megkérdezettet illeti meg. A határidők túllépésekor az elnök megvonja a szót.
 
@@ -266,13 +270,13 @@
 
 ## KÜLÖNLEGES ELJÁRÁSOK
 
-## A költségvetési, a pótköltségvetési és a zárszámadási törvényjavaslatokra vonatkozó eljárás[^141]
+## A költségvetési, a pótköltségvetési és a zárszámadási törvényjavaslatokra vonatkozó eljárás[^143]
 
-## 120. §[^142]
+## 120. §[^144]
 
 ## (1) A Magyar Köztársaság költségvetéséről szóló törvényjavaslat (a továbbiakban: költségvetési törvényjavaslat), a pótköltségvetési törvényjavaslat és a központi költségvetés végrehajtásáról (a továbbiakban: zárszámadás) szóló törvényjavaslat tárgyalásakor és határozathozatalakor a Házszabály általános rendelkezéseit a 120–121. §-okban foglalt eltérésekkel kell alkalmazni.
 
-## (2)[^143] A költségvetési, a pótköltségvetési, a zárszámadási törvényjavaslatot minden bizottság külön véleményezi. A bizottságok véleményét a Költségvetési bizottság foglalja össze és terjeszti az Országgyűlés elé. Mind a Költségvetési bizottság elnöke (előadója), mind a kisebbségi vélemény ismertetője harminc percben szólalhat fel. A Házbizottság javaslatára az Országgyűlés ennél hosszabb időkeretet is megállapíthat.
+## (2)[^145] A költségvetési, a pótköltségvetési, a zárszámadási törvényjavaslatot minden bizottság külön véleményezi. A bizottságok véleményét a Költségvetési bizottság foglalja össze és terjeszti az Országgyűlés elé. Mind a Költségvetési bizottság elnöke (előadója), mind a kisebbségi vélemény ismertetője harminc percben szólalhat fel. A Házbizottság javaslatára az Országgyűlés ennél hosszabb időkeretet is megállapíthat.
 
 ## (3) A központi költségvetés bevételeinek és kiadásainak fejezetenkénti összegére, főösszegére, továbbá a költségvetési hiány, illetve többlet mértékére, valamint a központi költségvetés általános tartalékának összegére kizárólag a Költségvetési bizottság nyújthat be módosító javaslatot.
 
@@ -284,7 +288,7 @@
 
 ## (7) A központi költségvetés egyes bevételi és kiadási előirányzataira elfogadott több módosító javaslat, továbbá a fejezeteken belüli rendes és rendkívüli bevételi és kiadási előirányzatok közötti átcsoportosításra elfogadott módosító javaslatok számszaki átvezetését az egységes javaslat [106. § (9) bekezdés] tartalmazza, kivéve a normatív támogatásokkal érintett előirányzatokat, melyekre a 107. §-ban foglaltak az irányadók.
 
-## 121. §[^144]
+## 121. §[^146]
 
 ## (1) A költségvetési törvényjavaslat sürgős tárgyalását nem lehet kérni.
 
@@ -330,7 +334,7 @@
 
 ## (1) Az előterjesztő a törvényjavaslat vagy határozati javaslat (a továbbiakban e címben együtt: törvényjavaslat) benyújtásakor kérheti a kivételes eljárásban történő tárgyalást.
 
-## (2)[^145] Ha az Alkotmány értelmében a törvény elfogadásához az országgyűlési képviselők, illetve a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges, továbbá a Magyar Köztársaság éves költségvetéséről, annak módosításáról, végrehajtásáról, valamint a pótköltségvetésről szóló törvényjavaslat tárgyalásánál kivételes eljárás nem kérhető.
+## (2)[^147] Ha az Alkotmány értelmében a törvény elfogadásához az országgyűlési képviselők, illetve a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges, továbbá a Magyar Köztársaság éves költségvetéséről, annak módosításáról, végrehajtásáról, valamint a pótköltségvetésről szóló törvényjavaslat tárgyalásánál kivételes eljárás nem kérhető.
 
 ## (3) Ha a Kormány az általa benyújtott előterjesztés kivételes eljárású tárgyalása során javasolja, hogy az előterjesztés feletti szavazás egyben bizalmi szavazás is legyen, akkor a kivételes eljárást azonnal meg kell szakítani, és a törvényjavaslat tárgyalását az általános rendelkezéseknek, illetőleg a 134. §-nak megfelelően újra meg kell kezdeni.
 
@@ -338,9 +342,9 @@
 
 ## 125. §
 
-## (1) A kivételes eljárásban történő tárgyalásról — az előterjesztő esetleges felszólalása után — az Országgyűlés vita nélkül határoz. A kivételes eljárásban történő tárgyalás elfogadásához a jelenlevő országgyűlési képviselők négyötödének szavazata szükséges.
+## (1)[^148] A kivételes eljárásban történő tárgyalásról — az előterjesztő esetleges felszólalása után — az Országgyűlés vita nélkül határoz. A kivételes eljárásban történő tárgyalás elfogadásához a jelenlevő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-## (2) A kivételes eljárásban tárgyalandó törvényjavaslat sürgős tárgyalását a törvényjavaslat benyújtásakor kell kérni. A sürgősség tárgyában történő határozathozatalra az (1) bekezdés irányadó.
+## (2)[^149]
 
 ## (3) A kivételes eljárás elrendelése után az Országgyűlés elnöke nyomban kijelöli azt a bizottságot, amely a törvényjavaslat vitáját lefolytatja.
 
@@ -348,7 +352,7 @@
 
 ## (1) A kivételes eljárást elrendelő határozat meghozatalát követő huszonegy napon belül lehet a törvényjavaslathoz módosító javaslatot előterjeszteni.
 
-## (2) Sürgős tárgyalás esetén a módosító javaslatok benyújtásának határideje a sürgősségről hozott országgyűlési határozat meghozatalától számított nyolc nap.
+## (2)[^150]
 
 ## (3) A módosító javaslatok benyújtására meghatározott határidő lejárta után, a bizottsági vita lezárásáig csak a korábban benyújtott módosító javaslatokhoz kapcsolódóan lehet módosító javaslatot beterjeszteni. Ezt a rendelkezést a kijelölt bizottságra nem kell alkalmazni.
 
@@ -360,19 +364,65 @@
 
 ## 128. §
 
-## (1)[^146] A törvényjavaslat kivételes és sürgős tárgyalása esetén a kijelölt bizottság a módosító javaslatok benyújtására nyitva álló határidő leteltét követő harminc napon belül lefolytatja a vitát. A vita lezárását követő ülésen a törvényjavaslatot az Országgyűlés napirendjére kell tűzni.
+## (1)[^151] A törvényjavaslat kivételes eljárásban történő tárgyalása esetén a kijelölt bizottság a módosító javaslatok benyújtására nyitva álló határidő leteltét követő harminc napon belül lefolytatja a vitát. A vita lezárását követő ülésen a törvényjavaslatot az Országgyűlés napirendjére kell tűzni.
 
 ## (2) Az ülésen való tárgyalás során először a törvényjavaslat előterjesztője, majd — amennyiben a törvényjavaslatot nem a Kormány terjesztette elő — a Kormány képviselője szólal fel. Ezt követően a kijelölt bizottság képviselője ismerteti a bizottság ajánlását. A képviselőcsoportok álláspontját csoportonként egy-egy képviselő fejtheti ki. A független képviselők közül az elsőként szólásra jelentkezett nyilváníthat véleményt. Az előterjesztőnek a határozathozatal előtt viszontválaszra van joga.
 
-## (3)[^147] A (2) bekezdésben meghatározott felszólalások után az Országgyűlés egy szavazással dönt a kijelölt bizottság által támogatott módosító javaslatokról.
+## (3)[^152] A (2) bekezdésben meghatározott felszólalások után az Országgyűlés egy szavazással dönt a kijelölt bizottság által támogatott módosító javaslatokról.
 
-## (4)[^148] A 106. § (8) bekezdése szerinti ötnapos határidőt és a 107. §-ban foglalt rendelkezéseket kivételes eljárás esetén csak az Alkotmányügyi bizottság javaslatára kell alkalmazni.
+## (4)[^153] A 106. § (8) bekezdése szerinti ötnapos határidőt és a 107. §-ban foglalt rendelkezéseket kivételes eljárás esetén csak az Alkotmányügyi bizottság javaslatára kell alkalmazni.
+
+## A kivételes sürgős eljárás[^154]
+
+## 128/A. §[^155]
+
+## (1) A törvényjavaslat vagy határozati javaslat (a továbbiakban e címben együtt: törvényjavaslat) előterjesztője kérheti a kivételes sürgős eljárásban történő tárgyalást.
+
+## (2) A képviselő által benyújtott, tárgysorozaton lévő törvényjavaslat kivételes sürgős tárgyalására irányuló indítványhoz a képviselők egyötödének támogató aláírása szükséges. Minden képviselő ülésszakonként legfeljebb két kivételes sürgős tárgyalásra irányuló indítványt támogathat.
+
+## (3) A kivételes sürgős tárgyalást az Országgyűlés elnökéhez benyújtva, írásban lehet kérni legkésőbb annak az ülésnek a megnyitása előtt egy órával,
+
+## a) amely ülés tervezett napirendjén az előterjesztés szerepel, vagy
+
+## b) amely ülés napirendjének az előterjesztéssel történő kiegészítését kérik.
+
+## (4) Az Alaptörvény és a sarkalatos törvények módosítására, valamint a megalkotásukra irányuló törvényjavaslat tárgyalásánál kivételes sürgős eljárás nem kérhető.
+
+## (5) Kivételes sürgős eljárás elrendelésére ülésszakonként legfeljebb hat alkalommal kerülhet sor.
+
+## (6) A kivételes sürgős eljárás során a törvényjavaslat tárgyalására és döntéshozatalára irányadó általános rendelkezéseket a 128/A–128/D. §-okban foglalt eltérésekkel kell alkalmazni.
+
+## 128/B. §[^156]
+
+## (1) A kivételes sürgős eljárásban történő tárgyalásról az előterjesztő esetleges felszólalása után az Országgyűlés vita nélkül határoz. A kivételes sürgős eljárásban történő tárgyalás elfogadásához a jelen levő országgyűlési képviselők kétharmadának szavazata szükséges.
+
+## (2) A kivételes sürgős eljárásban történő tárgyalás elfogadása során az Országgyűlés – az előterjesztő javaslata alapján, a (3) bekezdésben, valamint a 128/D. § (1) bekezdésében foglaltakra is figyelemmel – a módosító javaslatok benyújtásának határidejéről, valamint a módosító javaslatokról történő határozathozatal és a zárószavazás időpontjáról is határoz.
+
+## (3) A módosító javaslatok előterjesztésére nyitva álló határidő nem lehet kevesebb, mint a kivételes sürgős eljárást elrendelő határozat meghozatalát követő három óra.
+
+## (4) A kivételes sürgős eljárás elrendelése után az Országgyűlés elnöke nyomban kijelöli azt a bizottságot, amely a törvényjavaslat bizottsági vitáját lefolytatja és állást foglal a módosító javaslatokról.
+
+## (5) A (4) bekezdés szerint kijelölt bizottság legkésőbb annak az ülésnapnak a megnyitása előtt egy órával nyújthat be módosító javaslatot, amely ülésnap napirendjén az adott törvényjavaslathoz benyújtott módosító javaslatokról történő szavazás szerepel.
+
+## 128/C. §[^157]
+
+## (1) Az Országgyűlés a törvényjavaslatot összevont általános és részletes vitában tárgyalja meg.
+
+## (2) A vitában elsőként a törvényjavaslat előterjesztője, majd – amennyiben a törvényjavaslatot nem a Kormány terjesztette elő – a Kormány képviselője szólal fel. Ezt követően a kijelölt bizottság képviselője ismerteti a bizottság ajánlását. A képviselőcsoportok álláspontjukat harminc perces, a független képviselők összesen nyolc perces időkeretben fejthetik ki. Vita közben a kétperces felszólalásokat – a személyes érintettségre történő reagálás kivételével – bele kell számítani az időkeretbe. Az előterjesztőnek a határozathozatal előtt viszontválaszra van joga.
+
+## 128/D. §[^158]
+
+## (1) A módosító javaslatokról történő határozathozatalra és a zárószavazásra legkorábban a kivételes sürgős eljárást elrendelő határozat meghozatalát követő ülésnapon kerülhet sor.
+
+## (2) Az Országgyűlés egy szavazással dönt a kijelölt bizottság által támogatott módosító javaslatokról. A szavazás során a 106. § (1) bekezdés a), d) és e) pontjai, valamint (2)–(4) bekezdései nem alkalmazhatók.
+
+## (3) Az Országgyűlés a (2) bekezdés szerinti szavazást követően haladéktalanul zárószavazást tart. A zárószavazás megkezdése előtt a zárószavazás elhalasztását javasolhatja az Alkotmányügyi bizottság. A zárószavazás elhalasztásáról az Országgyűlés vita nélkül határoz.
 
 ## A politikai vita
 
 ## 129. §
 
-## (1)[^149] A Kormány vagy a képviselők legalább egyötödének írásbeli indítványára – az indítványban megjelölt átfogó politikai témakörben – az Országgyűlés vitát tart. Ilyen indítványt kizárólag a rendes ülésszakon lehet benyújtani és tárgyalni. Minden képviselő ülésszakonként legfeljebb két politikai vita tartására irányuló indítványt támogathat.
+## (1)[^159] A Kormány vagy a képviselők legalább egyötödének írásbeli indítványára – az indítványban megjelölt átfogó politikai témakörben – az Országgyűlés vitát tart. Ilyen indítványt kizárólag a rendes ülésszakon lehet benyújtani és tárgyalni. Minden képviselő ülésszakonként legfeljebb két politikai vita tartására irányuló indítványt támogathat.
 
 ## (2) A politikai vitát az Országgyűlés az indítvány benyújtásától számított tizennégy napon túl és huszonnyolc napon belül tartja meg.
 
@@ -384,9 +434,9 @@
 
 ## (3) A mentelmi jog felfüggesztése tárgyában hozott döntéshez a jelen lévő képviselők kétharmadának szavazata szükséges.
 
-## A mentelmi ügyek intézése[^150]
+## A mentelmi ügyek intézése[^160]
 
-130. §[^151] (1) Az országgyűlési képviselők mentelmi ügyeinek intézése során a Házszabály általános rendelkezéseit a 130–131. §-okban foglalt eltérésekkel kell alkalmazni.
+130. §[^161] (1) Az országgyűlési képviselők mentelmi ügyeinek intézése során a Házszabály általános rendelkezéseit a 130–131. §-okban foglalt eltérésekkel kell alkalmazni.
 
 (2) Az Országgyűlés elnöke a mentelmi jog felfüggesztésére irányuló indítványt [az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény (a továbbiakban: Já.tv.) 5. § (2)–(3) bekezdés], a mentelmi jog megsértését kifogásoló bejelentést [Já.tv. 6. § (2) bekezdés] haladéktalanul átadja megvizsgálásra az Országgyűlés mentelmi és összeférhetetlenségi ügyekkel foglalkozó állandó bizottságának (a továbbiakban: Mentelmi bizottság), és erről az Országgyűlést, valamint az eljárásban érintett képviselőt tájékoztatja. Ha az Országgyűlés nem ülésezik, az Országgyűlés elnöke dönt arról, hogy a mentelmi ügy elbírálása céljából szükség van-e rendkívüli ülésszak vagy rendkívüli ülés összehívására.
 
@@ -418,24 +468,34 @@ b) a mentelmi jog felfüggesztésére irányuló indítvány tárgyában határo
 [^128]: A 106. § (1) bekezdése a 103/2007. (XII. 6.) OGY határozat 21. § (1) bekezdésével megállapított szöveg.
 [^129]: A 106. § (2) bekezdésének első mondata a 103/2007. (XII. 6.) OGY határozat 21. § (2) bekezdésével megállapított szöveg.
 [^130]: A 107. §-t az 50/1997. (X. 11.) AB határozat megsemmisítette. Utóbb a 104/1997. (XI. 26.) OGY határozat új 107. §-t iktatott a szövegbe.
-[^131]: A 107/A. §-t az 50/1997. (X. 11.) AB határozat megsemmisítette. Utóbb a 104/1997.(XI. 26.) OGY határozat 2. §-a új 107/A. §-t iktatott a szövegbe.
-[^132]: A 107/B. §-t a 25/1998. (III. 11.) OGY határozat 2. §-a hatályon kívül helyezte 1998. március 11. napjával.
-[^133]: A 109. § a 104/1997. (XI. 26.) OGY határozat 4. §-ával megállapított szöveg.
-[^134]: A 111. § a 25/1998. (III. 11.) OGY határozat 1. §-ával megállapított szöveg.
-[^135]: A 112. § (1) bekezdése a 104/1997. (XI. 26.) OGY határozat 6. §-a és a 25/1998. (III. 11.) OGY határozat 2. §-a szerint módosított szöveg.
-[^136]: A 113. § (1) bekezdése a 104/1997. (XI.26.) OGY határozat 6. §-a és a 25/1998. (III. 11.) OGY határozat 2. §-a szerint módosított szöveg.
-[^137]: A 114. § (2) bekezdése a 71/1997. (VII. 17.) OGY határozat 36. §-ával megállapított szöveg.
-[^138]: A 115. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 37. §-ával megállapított szöveg.
-[^139]: A 116. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 38. §-ával megállapított szöveg.
-[^140]: A 119. § (5) bekezdése a 71/1997. (VII. 17.) OGY határozat 39. §-ával megállapított szöveg.
-[^141]: A cím a 71/1997. (VII. 17.) OGY határozat 40. §-ával megállapított szöveg.
-[^142]: A 120. § a 71/1997. (VII. 17.) OGY határozat 40. §-ával megállapított szöveg.
-[^143]: A 120. § (2) bekezdése a 103/2007. (XII. 6.) OGY határozat 22. §-a szerint módosított szöveg.
-[^144]: A 121. § a 71/1997. (VII. 17.) OGY határozat 41. §-ával megállapított szöveg.
-[^145]: A 124. § (2) bekezdése a 71/1997. (VII. 17.) OGY határozat 42. §-ával megállapított szöveg.
-[^146]: A 128. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 43. §-ának (1) bekezdésével megállapított szöveg.
-[^147]: A 128. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 43. §-ának (2) bekezdésével megállapított szöveg.
-[^148]: A 128. § (4) bekezdése a 71/1997. (VII. 17.) OGY határozat 43. §-ának (2) bekezdésével megállapított szöveg.
-[^149]: A 129. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 44. §-ával megállapított szöveg.
-[^150]: Az alcím a 61/1997. (VI. 5.) OGY határozat 1. §-ával megállapított szöveg.
-[^151]: A 130. § a 61/1997. (VI. 5.) OGY határozat 1. §-ával megállapított szöveg.
+[^131]: A 107. § (1) bekezdése a 98/2011. (XII. 31.) OGY határozat 1. § (1) bekezdésével megállapított szöveg.
+[^132]: A 107. § (4) bekezdése a 98/2011. (XII. 31.) OGY határozat 1. § (2) bekezdésével megállapított szöveg.
+[^133]: A 107/A. §-t az 50/1997. (X. 11.) AB határozat megsemmisítette. Utóbb a 104/1997.(XI. 26.) OGY határozat 2. §-a új 107/A. §-t iktatott a szövegbe.
+[^134]: A 107/B. §-t a 25/1998. (III. 11.) OGY határozat 2. §-a hatályon kívül helyezte 1998. március 11. napjával.
+[^135]: A 109. § a 104/1997. (XI. 26.) OGY határozat 4. §-ával megállapított szöveg.
+[^136]: A 111. § a 25/1998. (III. 11.) OGY határozat 1. §-ával megállapított szöveg.
+[^137]: A 112. § (1) bekezdése a 104/1997. (XI. 26.) OGY határozat 6. §-a és a 25/1998. (III. 11.) OGY határozat 2. §-a szerint módosított szöveg.
+[^138]: A 113. § (1) bekezdése a 104/1997. (XI.26.) OGY határozat 6. §-a és a 25/1998. (III. 11.) OGY határozat 2. §-a szerint módosított szöveg.
+[^139]: A 114. § (2) bekezdése a 71/1997. (VII. 17.) OGY határozat 36. §-ával megállapított szöveg.
+[^140]: A 115. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 37. §-ával megállapított szöveg.
+[^141]: A 116. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 38. §-ával megállapított szöveg.
+[^142]: A 119. § (5) bekezdése a 71/1997. (VII. 17.) OGY határozat 39. §-ával megállapított szöveg.
+[^143]: A cím a 71/1997. (VII. 17.) OGY határozat 40. §-ával megállapított szöveg.
+[^144]: A 120. § a 71/1997. (VII. 17.) OGY határozat 40. §-ával megállapított szöveg.
+[^145]: A 120. § (2) bekezdése a 103/2007. (XII. 6.) OGY határozat 22. §-a szerint módosított szöveg.
+[^146]: A 121. § a 71/1997. (VII. 17.) OGY határozat 41. §-ával megállapított szöveg.
+[^147]: A 124. § (2) bekezdése a 71/1997. (VII. 17.) OGY határozat 42. §-ával megállapított szöveg.
+[^148]: A 125. § (1) bekezdése a 98/2011. (XII. 31.) OGY határozat 3. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^149]: A 125. § (2) bekezdését a 98/2011. (XII. 31.) OGY határozat 3. § (2) bekezdése hatályon kívül helyezte.
+[^150]: A 126. § (2) bekezdését a 98/2011. (XII. 31.) OGY határozat 3. § (2) bekezdése hatályon kívül helyezte.
+[^151]: A 128. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 43. §-ának (1) bekezdésével megállapított, a 98/2011. (XII. 31.) OGY határozat 3. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^152]: A 128. § (3) bekezdése a 71/1997. (VII. 17.) OGY határozat 43. §-ának (2) bekezdésével megállapított szöveg.
+[^153]: A 128. § (4) bekezdése a 71/1997. (VII. 17.) OGY határozat 43. §-ának (2) bekezdésével megállapított szöveg.
+[^154]: A 128/A. §-t megelőző alcímet a 98/2011. (XII. 31.) OGY határozat 2. §-a iktatta be.
+[^155]: A 128/A. §-t a 98/2011. (XII. 31.) OGY határozat 2. §-a iktatta be.
+[^156]: A 128/B. §-t a 98/2011. (XII. 31.) OGY határozat 2. §-a iktatta be.
+[^157]: A 128/C. §-t a 98/2011. (XII. 31.) OGY határozat 2. §-a iktatta be.
+[^158]: A 128/D. §-t a 98/2011. (XII. 31.) OGY határozat 2. §-a iktatta be.
+[^159]: A 129. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 44. §-ával megállapított szöveg.
+[^160]: Az alcím a 61/1997. (VI. 5.) OGY határozat 1. §-ával megállapított szöveg.
+[^161]: A 130. § a 61/1997. (VI. 5.) OGY határozat 1. §-ával megállapított szöveg.
