@@ -8,8 +8,8 @@
 
 (4) A (2) bekezdés alapján helyben szabadított fiatalkorú – írásbeli kérelmére – a tárgyalásról az intézetbe visszaszállítható, ha az intézet hivatali idejében a szabadulási igazolás kiadása és az elszámolás még aznap elvégezhető.
 
-(5)[^22] Az előzetes letartóztatásból szabaduló fiatalkorú részére az intézet szabadulási igazolást ad. A szabadításkor ki kell adni a fiatalkorú részére a személyazonosító igazolványát, a letéti pénzét, a letétként kezelt értéktárgyait, saját ruházatát, valamint iskolai bizonyítványát.
+(5)[^24] Az előzetes letartóztatásból szabaduló fiatalkorú részére az intézet szabadulási igazolást ad. A szabadításkor ki kell adni a fiatalkorú részére a személyazonosító igazolványát, a letéti pénzét, a letétként kezelt értéktárgyait, saját ruházatát, valamint iskolai bizonyítványát.
 
 (6) A fiatalkorú szabadításáról értesíteni kell azokat a szerveket és személyeket, akiket a fiatalkorú intézetbe történt befogadásáról értesítettek, továbbá az előzetes letartóztatás megszüntetését elrendelő ügyészt vagy bíróságot.
 
-[^22]: A 75. § (5) bekezdésének második mondata a 4/2002. (IX. 4.) ESZCSM rendelet 6. §-ával megállapított szöveg.
+[^24]: A 75. § (5) bekezdésének második mondata a 4/2002. (IX. 4.) ESZCSM rendelet 6. §-ával megállapított szöveg.

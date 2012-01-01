@@ -18,6 +18,6 @@ b) ha az elhelyezés okai megszűntek,
 
 c) ha a fiatalkorú a részleg rendjét ismételten súlyosan megszegi.
 
-(7)[^19] Az intézetből elbocsátott fiatalkorúról az intézet nyilvántartást vezet, és a pártfogó felügyelő jelentései alapján figyelemmel kíséri életkörülményeinek alakulását. A fiatalkorú kérésére segítséget nyújt – a pártfogó felügyelővel együttműködve – problémái megoldásában.
+(7)[^21] Az intézetből elbocsátott fiatalkorúról az intézet nyilvántartást vezet, és a pártfogó felügyelő jelentései alapján figyelemmel kíséri életkörülményeinek alakulását. A fiatalkorú kérésére segítséget nyújt – a pártfogó felügyelővel együttműködve – problémái megoldásában.
 
-[^19]: Az 57. § (7) bekezdésének első és második mondata a 44/2003. (VII. 30.) ESZCSM rendelet 3. §-a (2) bekezdésének c)–d) pontja szerint módosított szöveg.
+[^21]: Az 57. § (7) bekezdésének első és második mondata a 44/2003. (VII. 30.) ESZCSM rendelet 3. §-a (2) bekezdésének c)–d) pontja szerint módosított szöveg.

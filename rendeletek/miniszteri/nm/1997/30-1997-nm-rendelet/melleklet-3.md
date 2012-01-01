@@ -68,6 +68,6 @@
 
 ## – középfokú iskolai végzettség
 
-3. számú melléklet a 30/1997. (X. 11.) NM rendelethez[^25]
+3. számú melléklet a 30/1997. (X. 11.) NM rendelethez[^27]
 
-[^25]: A 3. számú mellékletet az 5/2002. (II. 26.) SZCSM rendelet 2. §-a állapította meg, szövege a 4/2002. (IX. 4.) ESZCSM rendelet 8. §-a (2) bekezdésének b) pontja szerint módosított szöveg.
+[^27]: A 3. számú mellékletet az 5/2002. (II. 26.) SZCSM rendelet 2. §-a állapította meg, szövege a 4/2002. (IX. 4.) ESZCSM rendelet 8. §-a (2) bekezdésének b) pontja szerint módosított szöveg.
