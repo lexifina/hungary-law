@@ -1,0 +1,1 @@
+24. § A gyermeket nevelő szülő részmunkaidős foglalkoztatásához, illetve a gyermek gondozása céljából igénybe vett pénzbeli ellátás igénybevételét követő foglalkoztatásához az állam külön törvényben foglaltak szerint járulékkedvezményt nyújt.

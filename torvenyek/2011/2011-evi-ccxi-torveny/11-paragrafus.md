@@ -1,0 +1,1 @@
+11. § A házasság érvénytelenítése, valamint érvényességének, létezésének vagy nemlétezésének megállapítása, továbbá a házasság felbontása külön törvényben meghatározottak szerint a bíróság hatáskörébe tartozik.
