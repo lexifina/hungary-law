@@ -10,9 +10,9 @@
 
 (4) A működtetési jognak a (2) vagy a (3) bekezdés alapján a törvény erejénél fogva történő megszerzése és az ezt tanúsító hatósági bizonyítvány kiállítása illetékmentes. E rendelkezés nem vonatkozik a működtetési jog további ingyenes, illetve ellenérték fejében történő megszerzésére.
 
-(5)
+(5) A területi ellátási kötelezettséggel működő háziorvosok működtetési joga 2012. január 1-jével praxisjognak minősül, amely jog arra a körzetre terjed ki, ahol a háziorvos 2012. január 1-jén területi ellátási kötelezettséggel háziorvosi ellátást nyújt, ideértve a munkavégzésben akadályozott, működtetési joggal rendelkező orvost is.
 
-(6)
+(6) Azok a működtetési joggal rendelkező háziorvosok, akik 2012. január 1-jén nem rendelkeznek területi ellátási kötelezettséggel (a továbbiakban: működtetési joggal rendelkező háziorvos), tartósan betöltetlen körzetben működtetési joguk alapján területi ellátási kötelezettséget vállalhatnak 2015. december 31-éig. A tartósan betöltetlen körzetek betöltésénél a működtetési joggal rendelkező háziorvosok előnyt élveznek. A működtetési joggal rendelkező háziorvos működtetési joga a tartósan betöltetlen körzet betöltésével – illetékmentesen – praxisjognak minősül. Azon működtetési joggal rendelkező háziorvos működtetési joga, aki 2015. december 31-éig nem tölt be tartósan betöltetlen háziorvosi körzetet, 2015. december 31-i hatállyal megszűnik.
 
 (7) Felhatalmazást kap
 
@@ -21,3 +21,17 @@ a) a Kormány, hogy a működtetési jog megszerzésének és visszavonásának 
 b) az egészségügyért felelős miniszter, hogy a működtetési jog alapján végzett tevékenység gyakorlásának és ellenőrzésének részletes szakmai szabályait, továbbá a helyettesítésre, a tevékenység végzéséhez szükséges szakképesítésre és az alkalmassági vizsgálatra vonatkozó szabályokat
 
 rendeletben meghatározza.
+
+(8) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított 2/B. §-ban foglalt követelményeknek 2013. január 1-jétől kell megfelelni.
+
+(9) Felhatalmazást kap
+
+a) a Kormány, hogy
+
+aa) a praxisjog megszerzésének és visszavonásának feltételeit és eseteit, a helyettesítés eseteit, valamint a praxisjog átengedésére vonatkozó szabályokat rendeletben megállapítsa,
+
+ab) a praxiskezelőt kijelölje,
+
+ac) a praxiskezelő által nyújtott kamatmentes visszatérítendő támogatásra, valamint a praxiskezelő által szedett díjra vonatkozó részletes szabályokat rendeletben megállapítsa,
+
+b) az egészségügyért felelős miniszter, hogy a praxisjog alapján végzett tevékenység gyakorlásának és ellenőrzésének részletes szakmai szabályait, továbbá a helyettesítésre, a tevékenység végzéséhez szükséges szakképesítésre és az alkalmassági vizsgálatra vonatkozó szabályokat rendeletben meghatározza.

@@ -1,4 +1,4 @@
-1. § (1) E törvény hatálya a Magyar Köztársaság területén az egészségügyi szolgáltatás keretében nyújtott önálló orvosi tevékenységre és az e tevékenységet nyújtó orvosokra terjed ki.
+1. § (1) E törvény hatálya a Magyarország területén egészségügyi szolgáltatás keretében nyújtott önálló orvosi tevékenységre és az e tevékenységet nyújtó orvosokra terjed ki.
 
 (2) E törvény alkalmazásában
 
@@ -6,4 +6,4 @@ a) önálló orvosi tevékenység: a területi ellátási kötelezettség köré
 
 b) orvos: a külön jogszabály szerint vezetett alap- és működési nyilvántartásban szereplő orvosi, fogorvosi szakképesítéssel rendelkező személy;
 
-c) működtetési jog: az egészségügyi államigazgatási szerv által az a) pont szerinti orvos részére adott önálló orvosi tevékenység nyújtására jogosító engedélyben foglalt jog.
+c) praxisjog: az egészségügyi államigazgatási szerv által az a) pont szerinti orvos részére adott önálló orvosi tevékenység nyújtására jogosító engedélyben foglalt jog, amely alapján önálló orvosi tevékenység területi ellátási kötelezettséggel, meghatározott körzetben végezhető.
