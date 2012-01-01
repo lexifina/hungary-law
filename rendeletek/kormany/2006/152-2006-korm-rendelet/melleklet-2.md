@@ -36,7 +36,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - rendőrség | Országos Rendőr-főkapitányság | rendészetért felelős miniszter |
 
-| Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős Miniszter |
 
@@ -78,7 +78,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - rendőrség | Országos Rendőr-főkapitányság | rendészetért felelős miniszter |
 
-| Tűzvédelem | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -98,4 +98,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 152. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 152. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 6. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
