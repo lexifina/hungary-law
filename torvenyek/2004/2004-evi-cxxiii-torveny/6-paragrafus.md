@@ -2,7 +2,7 @@
 
 ## A MUNKAERŐPIACON HALMOZOTTAN HÁTRÁNYOS HELYZETBEN LÉVŐ ÁLLÁSKERESŐK FOGLALKOZTATÁSÁNAK KEDVEZMÉNYE
 
-6. § (1) Az Art. szerinti START EXTRA kártya kiváltására jogosult
+6. § (1) 2011. december 31-éig az Art. szerinti START EXTRA kártya kiváltására jogosult
 
 a) a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőzően legalább 3 hónapig álláskeresőként nyilvántartott személy, ha ötvenedik életévét betöltötte, vagy életkorra való tekintet nélkül legfeljebb alapfokú iskolai végzettséggel rendelkezik, vagy
 
@@ -14,4 +14,4 @@ b) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső.
 
 (4) A START EXTRA kártya kiváltására a 4. § (6) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-(5) A START EXTRA kártyával rendelkező személyt foglalkoztató munkáltatóra a 4. § (7) bekezdésében, valamint a 4/A. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(5) A START EXTRA kártyával rendelkező személyt foglalkoztató munkáltatóra a 4. § (7) bekezdésében, valamint a 4/A. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.

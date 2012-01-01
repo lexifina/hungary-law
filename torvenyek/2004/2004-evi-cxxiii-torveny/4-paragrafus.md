@@ -1,6 +1,6 @@
 ## Gyermekgondozási segély, gyermekgondozási díj, gyermeknevelési támogatás, valamint ápolási díj folyósításának megszűnését követő foglalkoztatás, a gyermekgondozási segély folyósítása melletti foglalkoztatás, valamint a tartósan álláskeresők foglalkoztatásának kedvezménye
 
-4. § (1) Az 1. § (2) bekezdése 1. pontjának b)–c) alpontjában meghatározott személy – az 1. § (2) bekezdése 1. pontjának c) alpontjában szereplő személyek vonatkozásában a 6. §-ban meghatározott kivétellel – az Art. szerinti START PLUSZ kártya kiváltására jogosult.
+4. § (1) 2011. december 31-éig az 1. § (2) bekezdése 1. pontjának b)–c) alpontjában meghatározott személy – az 1. § (2) bekezdése 1. pontjának c) alpontjában szereplő személyek vonatkozásában a 6. §-ban meghatározott kivétellel – az Art. szerinti START PLUSZ kártya kiváltására jogosult.
 
 (2) A munkaadót az 1. § (2) bekezdése 1. pontjának b)–c) alpontjaiban meghatározott személy foglalkoztatásának időtartamára a START PLUSZ kártya érvényességi idején belül illeti meg az 5. §-ban meghatározott kedvezmény abban az esetben is, ha a foglalkoztatás időtartama azt meghaladja.
 

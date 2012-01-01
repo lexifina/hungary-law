@@ -8,7 +8,9 @@ c) a kedvezmény érvényesítése során eljáró hatóságra,
 
 d) az ösztöndíjas foglalkoztatottra, valamint az őt foglalkoztatóra,
 
-e) a 8/B. § (1) bekezdésében meghatározott munkavállalókra.
+e) a 8/B. § (1) bekezdésében meghatározott munkavállalókra,
+
+f) a 16/A. § (1) bekezdése szerinti megváltozott munkaképességű személyre.
 
 (2) E törvény alkalmazásában
 
@@ -50,4 +52,4 @@ d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 
 (3) Az álláskeresőként történő nyilvántartásnak a (2) bekezdés 9. pontjában meghatározott időtartamába a külön jogszabályban meghatározott rendszeres szociális segélyben részesülő személy esetében be kell számítani azt az időtartamot is, amely alatt a rendszeres szociális segélyben részesülő személy a települési önkormányzat által kijelölt szervvel együttműködött.
 
-(4) A START PLUSZ, illetve a START EXTRA kártyát az igénylő legkésőbb 2011. december 31-éig válthatja ki, és ezek alapján a munkaadót legfeljebb 2013. december 31-éig illeti meg az e törvény szerinti járulékkedvezmény.
+(4)

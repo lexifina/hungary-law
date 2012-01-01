@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-123-00-00
 | 2010-08-01 | 2010. évi LXXV. törvény | 2004-123-00-00.13 |
 | 2011-01-01 | 2010. évi CXXIII. törvény | 2004-123-00-00.14 |
 | 2011-09-01 | 2011. évi CVI. törvény | 2004-123-00-00.15 |
+| 2012-01-01 | 2011. évi CLVI. törvény | 2004-123-00-00.16 |

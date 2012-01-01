@@ -1,7 +1,5 @@
-7. § (1) Az érvényes START EXTRA kártyával rendelkező személy foglalkoztatása esetén a munkaadót a következők szerint illeti meg járulékkedvezmény:
+7. § (1) Legfeljebb 2013. december 31-ig az érvényes START EXTRA kártyával rendelkező személy foglalkoztatása után a munkaadót a következők szerint illeti meg a szociális hozzájárulási adóból igénybe vehető részkedvezmény:
 
-a)
+a részkedvezmény egyenlő az érvényes START EXTRA kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének huszonhét százalékával a foglalkoztatás első évében, illetve tizenhét százalékával a foglalkoztatás második évében.
 
-b) Az a) pontban foglaltakon túlmenően a foglalkoztatás első évében a munkaadó mentesül a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék megfizetése alól. A munkaadót a START EXTRA kártya tulajdonosa foglalkoztatásának második évében a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék összege helyett a bruttó munkabér tíz százalékának megfelelő járulékfizetési kötelezettség terheli.
-
-(2) A START EXTRA kártyával rendelkező személy foglalkoztatásához kapcsolódó járulékkedvezmény érvényesítésére, a járulékkülönbözet megtérítésére, valamint a munkáltató által befizetett járulékok elszámolására az 5. § (2)–(7) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(2) A START EXTRA kártyával rendelkező személy foglalkoztatásához kapcsolódó, a szociális hozzájárulási adóból igénybe vehető részkedvezmény érvényesítésére, a kedvezmény megtérítésére, valamint a munkaadó által befizetett szociális hozzájárulási adó, illetve részkedvezmény elszámolására az 5. § (3)–(6) bekezdésében foglaltakat megfelelően alkalmazni kell.
