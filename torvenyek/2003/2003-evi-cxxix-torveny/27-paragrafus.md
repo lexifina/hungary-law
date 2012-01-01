@@ -1,1 +1,0 @@
-27. § A szolgáltatás megrendelése – árubeszerzésnek és építési beruházásnak nem minősülő – olyan visszterhes szerződés, amelynek tárgya különösen valamely tevékenység megrendelése az ajánlatkérő részéről.

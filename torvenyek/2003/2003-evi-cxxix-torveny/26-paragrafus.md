@@ -1,1 +1,0 @@
-26. § Az építési koncesszió olyan építési beruházás, amely alapján az ajánlatkérő ellenszolgáltatása az építmény hasznosítási jogának meghatározott időre történő átengedése vagy e jog átengedése pénzbeli ellenszolgáltatással együtt.

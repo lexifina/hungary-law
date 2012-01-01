@@ -1,3 +1,0 @@
-159. § (1) A kiírónak a tervpályázati eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót külön jogszabályban meghatározott minta szerinti hirdetmény útján kell közzétennie. A hirdetményt legkésőbb az eredményhirdetéstől, illetőleg az eredményhirdetés határidejének lejártától számított öt munkanapon belül kell megküldeni.
-
-(2) Az (1) bekezdés szerinti hirdetményben nem kell megadni azokat az információkat, amelyek közzététele akadályozná a jogérvényesítést, ellentétes lenne a közérdekkel, sértené valamely gazdálkodó szervezet üzleti érdekeit vagy sértené a szolgáltatók közötti tisztességes versenyt.

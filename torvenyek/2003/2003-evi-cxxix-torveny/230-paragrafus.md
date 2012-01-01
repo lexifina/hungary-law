@@ -1,1 +1,0 @@
-230. § A 225. § (3) bekezdésének b) és d) pontja szerinti tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles benyújtani a Közbeszerzési Döntőbizottsághoz – telefaxon vagy elektronikus úton – a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást, a d) pont szerinti esetben továbbá az érintett szervezet nevét és címét.

@@ -1,3 +1,0 @@
-## Általános rendelkezések
-
-271. §

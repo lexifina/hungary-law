@@ -1,1 +1,0 @@
-403/D. § Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény 73. §-ával megállapított 60. § (1) bekezdés g) pontját a 2011. július 20-át követően megkezdett közbeszerzési eljárásokra kell alkalmazni.

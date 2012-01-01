@@ -1,1 +1,0 @@
-97. § Az ajánlatkérő az érvényes ajánlatot tevő ajánlattevő kérésére köteles tájékoztatást adni a nyertes ajánlat jellemzőiről és az általa tett ajánlathoz viszonyított előnyeiről a kérés kézhezvételétől számított öt munkanapon belül, figyelembe véve a nyertes ajánlattevő üzleti titokhoz fűződő érdekeit is (73. §).

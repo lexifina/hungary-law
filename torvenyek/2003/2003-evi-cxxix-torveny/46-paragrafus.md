@@ -1,1 +1,0 @@
-46. § Az ajánlatkérő olyan hirdetményének a 44. § (1) bekezdése szerinti közzétételét is kérheti, amelyben megadott közbeszerzésre nem vonatkozik az e fejezetben előírt közzétételi kötelezettség. Az ilyen közzététel azonban nem vonja maga után az e fejezet szerinti eljárás alkalmazását.

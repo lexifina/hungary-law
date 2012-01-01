@@ -1,5 +1,0 @@
-260. §
-
-24. CÍM
-
-A KÜLÖNÖS EGYSZERŰ KÖZBESZERZÉSI ELJÁRÁS

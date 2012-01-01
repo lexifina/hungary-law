@@ -1,3 +1,0 @@
-390. § (1) Ha a Tanács módosítja a minősítési szempontokat és igazolási módjait, köteles a minősítési szempontokat újra meghirdetni, valamint a már jegyzékbe vett minősített ajánlattevőket és a kérelmet benyújtókat egyidejűleg, közvetlenül, írásban tájékoztatni.
-
-(2) A minősítési szempontok módosítása esetében a már jegyzékbe vett minősített ajánlattevőknek is igazolniuk kell az előírt módon megfelelőségüket az új vagy a módosult minősítési szempont tekintetében. Erre – az (1) bekezdés szerinti tájékoztatás során – fel kell hívni a minősített ajánlattevőket. Benyújtott kérelem folyamatban levő elbírálása esetében pedig a Tanácsnak a kérelem módosítás miatt szükséges kiegészítésére kell a kérelmezőt felhívnia.

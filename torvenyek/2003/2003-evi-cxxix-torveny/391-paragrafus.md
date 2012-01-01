@@ -1,3 +1,0 @@
-391. § (1) A Tanácsnak a kérelmet elutasító vagy a törlésről hozott határozata ellen fellebbezésnek helye nincs, de a kérelmező, illetőleg az érintett minősített ajánlattevő a határozat felülvizsgálatát kérheti a bíróságtól a határozat kézhezvételétől számított tizenöt napon belül.
-
-(2) A kérelemről a megyei bíróság (Fővárosi Bíróság) nemperes eljárásban a kérelem benyújtásától számított hatvan napon belül határoz. A bíróság a Tanács határozatát megváltoztathatja. A végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetőleg a nemperes eljárás jellegéből más nem következik.

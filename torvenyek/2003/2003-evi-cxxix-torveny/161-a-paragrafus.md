@@ -1,3 +1,0 @@
-161/A. § (1) A 4. melléklet szerinti szolgáltatások esetében egyszerű eljárás (harmadik rész) alkalmazható. Ha a közbeszerzés tárgya olyan összetett szolgáltatás, amely a 3. melléklet, valamint a 4. melléklet szerinti valamely szolgáltatást is magában foglalja, az egyszerű eljárás alkalmazható, feltéve, hogy a 4. melléklet szerinti szolgáltatás értéke meghaladja a 3. melléklet szerinti szolgáltatás értékét.
-
-(2)

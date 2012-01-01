@@ -1,1 +1,0 @@
-24. § Az árubeszerzés olyan visszterhes szerződés, amelynek tárgya forgalomképes és birtokba vehető ingó dolog tulajdonjogának vagy használatára, illetőleg hasznosítására vonatkozó jognak – vételi joggal vagy anélkül történő – megszerzése az ajánlatkérő részéről. Az árubeszerzés magában foglalja a beállítást és üzembe helyezést is.

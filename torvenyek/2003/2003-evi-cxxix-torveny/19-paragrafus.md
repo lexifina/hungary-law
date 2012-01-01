@@ -1,1 +1,0 @@
-19. § Az 1. § (4) bekezdése szerinti nemzetközi szerződésekről a külpolitikáért felelős miniszter, az európai integrációs ügyekért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter tájékoztatót ad ki. A tájékoztatót a Közbeszerzési Értesítőben is közzé kell tenni.

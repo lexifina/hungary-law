@@ -1,1 +1,0 @@
-331/A. § A kérelmező ugyanazon közbeszerzési eljárásra vonatkozó több kérelmi eleme esetén a Közbeszerzési Döntőbizottság a döntést egyidejűleg is meghozhatja. A Közbeszerzési Döntőbizottság a döntéseit egybefoglalhatja.
