@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-1-20-1V
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2008-1-20-1V.2 | 1/2008. (I. 11.) ÖTM rendelet |
+| 2012-01-01 | 2008-1-20-1V.3 | 68/2011. (XII. 30.) BM rendelet |
