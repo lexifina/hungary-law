@@ -1,0 +1,15 @@
+## 2. Külföldi állampolgárok tanulmányainak támogatási rendje
+
+16. § (1) A kétoldalú nemzetközi szerződés alapján az Egyetemen államilag támogatott képzésben részt vevő külföldi hallgató részére az FT ösztöndíjat adományoz. Az adományozott ösztöndíj évente 10 vagy 12 hónapra szól.
+
+(2) Az ösztöndíj havi összege megfelel
+
+a) alap- és mesterképzésben részt vevő hallgatók esetében a költségvetési törvényben meghatározott hallgatói normatíva éves összege 30%-ának,
+
+b) doktori képzésben részt vevő hallgatók esetében a költségvetési törvényben e célra megállapított normatíva éves összege egy tizenketted részének.
+
+(3) Az ösztöndíjat a hallgatónak az Egyetem fizeti ki.
+
+(4) Az államilag támogatott alap- és mesterképzésben, valamint doktori képzésben az Egyetemen tanulmányokat folytató nem magyar állampolgárságú hallgató, akinek esetében ezt két- vagy többoldalú nemzetközi szerződés előírja, évi 12 hónapra jogosult kollégiumi elhelyezésre.
+
+(5) Nemzetközi megállapodás alapján részképzésben részt vevő nem magyar állampolgárok esetében az (1)–(4) bekezdés rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az adományozott ösztöndíj a részképzés időtartamára szól.

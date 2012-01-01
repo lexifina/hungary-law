@@ -1,0 +1,1 @@
+## 19. § A 2012. január 1-je előtt hallgatói jogviszonyt létesítő, államilag támogatott doktori képzésben részt vevő hallgatót, amennyiben e rendelet hatálybalépése előtt kollégiumi, szállón elhelyezésben részesült, kérelme esetén fel kell venni a kollégiumba, szállóra.
