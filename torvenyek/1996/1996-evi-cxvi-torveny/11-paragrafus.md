@@ -128,7 +128,7 @@ bk) egyes pénz- és bélyeghamisítás bűncselekmények:
 
 3. pénzhamisítás elősegítése (Btk. 304/A. §),
 
-bl) csempészet (Btk. 312. §),
+bl) költségvetési csalás (Btk. 310. §), a 2011. december 31-ig hatályban volt csempészet,
 
 bm) egyes vagyon elleni bűncselekmények:
 

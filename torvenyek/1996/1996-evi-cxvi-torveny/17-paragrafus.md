@@ -34,9 +34,9 @@
 
 15. a nukleáris és a nukleáris kettős felhasználású termékek exportjának és importjának engedélyezése;
 
-16. radioaktív hulladékok és kiégett fűtőelemek a Magyar Köztársaság országhatárán át történő szállításának engedélyezése, és a szállítás engedélyezéséhez való hozzájárulás;
+16. radioaktív hulladékok és kiégett fűtőelemek az országhatáron át történő szállításának engedélyezése, és a szállítás engedélyezéséhez való hozzájárulás;
 
-17. radioaktív anyagoknak a Magyar Köztársaság és az Európai Unió tagállamai, továbbá a Magyar Köztársaság és harmadik országok közötti szállításához való hozzájárulás, illetve engedélyezés;
+17. radioaktív anyagoknak Magyarország és az Európai Unió tagállamai, továbbá Magyarország és harmadik országok közötti szállításához való hozzájárulás, illetve engedélyezés;
 
 18. az atomenergia alkalmazása körében a fizikai védelmi rendszer – fizikai védelmi terv alapján történő – engedélyezése és ellenőrzése;
 
