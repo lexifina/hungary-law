@@ -4,7 +4,7 @@
 
 (2)–(3)[^53]
 
-(4)[^54] A 6. számú mellékletben felsorolt településeken az arzén, bór, fluorid és nitrit 1. számú melléklet B) részében meghatározott határértékeit, valamint az ammónium 1. számú melléklet C) részében meghatározott határértékeit legfeljebb 2009. december 25-ig lehet alkalmazni.
+(4)[^54] A 6. számú mellékletben felsorolt településeken az arzén, bór, fluorid és nitrit 1. számú melléklet B) részében meghatározott határértékeit, valamint az ammónium 1. számú melléklet C) részében meghatározott határértékeit kell alkalmazni.
 
 (5) A (3)–(4) bekezdésben foglaltak nem vonatkoznak az arzén 1. számú melléklet B) részében megjelölt határértékére, amennyiben a vizet élelmiszer előállítására használják fel.
 
@@ -31,7 +31,7 @@
 (16)[^62] Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban összeegyeztethető szabályozást tartalmaz a Tanácsnak az emberi fogyasztásra szolgáló víz minőségéről szóló 98/83/EK irányelve rendelkezéseivel.
 
 [^53]: A 10. § (2)–(3) bekezdését a 65/2009. (III. 31.) Korm. rendelet 9. § (11) bekezdése hatályon kívül helyezte.
-[^54]: A 10. § (4) bekezdése a 65/2009. (III. 31.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^54]: A 10. § (4) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 103. § (1) bekezdésével megállapított szöveg.
 [^55]: A 10. § (8) bekezdését a 65/2009. (III. 31.) Korm. rendelet 9. § (11) bekezdése hatályon kívül helyezte.
 [^56]: A 10. § (10) bekezdése a 47/2005. (III. 11.) Korm. rendelet 4. §-ával megállapított szöveg; azon ivóvizek tekintetében, amelyekre nem vonatkoznak ezek a technikai előírások lásd e módosító rendelet 7. §-át. A 10. § (10) bekezdése a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése szerint módosított szöveg.
 [^57]: A 10. § (11) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1039. pontja hatályon kívül helyezte, újonnan a 65/2009. (III. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be.
