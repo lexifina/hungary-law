@@ -20,7 +20,7 @@
 
 ## 1.2.7 állampolgársága;
 
-## 1.3 a kérelmező házastársának, bejegyzett élettársának, élettársának
+## 1.3 a kérelmező házastársának, bejegyzett élettársának, élettársának, törvényes képviselőjének
 
 ## 1.3.1 neve
 
@@ -88,6 +88,6 @@
 
 ## 3.8 a kérelmező vagy a törvényes képviselő aláíróhelye
 
-2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^162]
+2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^165]
 
-[^162]: A 2. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^165]: A 2. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

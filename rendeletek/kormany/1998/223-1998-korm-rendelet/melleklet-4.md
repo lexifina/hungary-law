@@ -54,7 +54,7 @@
 
 ## – nyilatkozat arról, hogy a gyermek a szülő háztartásában él-e.
 
-## III. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+## III.[^169] A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
 ## – nyilatkozat arról, hogy a II. pont szerinti azon gyermek(ek) után, akikre tekintettel a kérelmező a gyermekgondozási segély megállapítását kéri, folyósít vagy folyósított-e valamely szerv valamely személy számára gyermekgondozási segélyt, illetve benyújtott-e kérelmet gyermekgondozási segély megállapítására; amennyiben igen, a jogosult (kérelmező) neve, valamint a folyósító (eljáró) szerv megnevezése, címe;
 
@@ -82,7 +82,7 @@
 
 ## – a szülők nyilatkozata arról, hogy a gyermekgondozási segélyről a nagyszülő javára lemondanak és egyetértenek a gyermekgondozási segély nagyszülő részére történő folyósításával, továbbá a nyilatkozatot tevő szülők aláíróhelye;
 
-## – a kérelmező nyilatkozata arról, hogy rokkantsági, baleseti rokkantsági nyugdíjasként, illetve a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülőként a nyugdíjfolyósító szervhez benyújtott nyilatkozatában vállalja-e a gyermekgondozási segély összege után nyugdíjjárulék (tagdíj) fizetését;
+## – a kérelmező nyilatkozata arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülőként a nyugdíjfolyósító szervhez benyújtott nyilatkozatában vállalja-e a gyermekgondozási segély összege után nyugdíjjárulék (tagdíj) fizetését;
 
 ## – a kérelmező nyilatkozata arról, hogy a jogosultság megállapítása szempontjából figyelembe veendő rendszeres pénzellátásban nem részesül;
 
@@ -96,6 +96,7 @@
 
 ## – a kérelmező aláíróhelye.
 
-4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^165]
+4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^170]
 
-[^165]: A 4. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^169]: A 3. számú melléklet III. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^170]: A 4. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

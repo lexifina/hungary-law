@@ -1,6 +1,6 @@
 ## A gyermekgondozási segély iránti kérelem adattartalma
 
-## I.[^163] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
+## I.[^166] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
 ## – a jogosultság jogcíme;
 
@@ -56,7 +56,7 @@
 
 ## – nyilatkozat a gyermek(ek) tartósan beteg, illetve súlyosan fogyatékos állapotáról.
 
-## III. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+## III.[^167] A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
 ## – a kérelmező magánnyugdíj-pénztári tagságára vonatkozó adat;
 
@@ -64,7 +64,7 @@
 
 ## – nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, TAJ száma, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
 
-## – nyilatkozat arról, hogy a rokkantsági, baleseti rokkantsági nyugdíjas, illetve a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülő kérelmező a nyugdíjfolyósító szervhez benyújtott nyilatkozatban vállalta-e a gyermekgondozási segély összege után nyugdíjjárulék (tagdíj) fizetését;
+## – nyilatkozat arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülő kérelmező a nyugdíjfolyósító szervhez benyújtott nyilatkozatban vállalta-e a gyermekgondozási segély összege után nyugdíjjárulék (tagdíj) fizetését;
 
 ## – a kérelmező nyilatkozata a kereső tevékenységének a gyermekgondozási segély folyósítási ideje alatti korlátozásának tudomásul vételéről;
 
@@ -74,7 +74,8 @@
 
 ## – a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^164]
+3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^168]
 
-[^163]: A 2. számú melléklet I. pontja a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^164]: A 3. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^166]: A 2. számú melléklet I. pontja a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^167]: A 2. számú melléklet III. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^168]: A 3. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

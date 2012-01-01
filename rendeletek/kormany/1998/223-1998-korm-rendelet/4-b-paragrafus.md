@@ -44,19 +44,19 @@ i)[^33] az Alkotmányvédelmi Hivatal,
 
 j) a Nemzetbiztonsági Szakszolgálat,
 
-k) a Szervezett Bűnözés Elleni Koordinációs Központ,
+k)[^34]
 
 l) az Országgyűlés Hivatala.
 
-(5)[^34] Amennyiben a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más – a (4) bekezdés szerinti – kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt a Központot kell megkeresni.
+(5)[^35] Amennyiben a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más – a (4) bekezdés szerinti – kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt a Központot kell megkeresni.
 
-(6)[^35]
+(6)[^36]
 
-(7)[^36] Amennyiben a családtámogatási ellátás iránti kérelem családtámogatási kifizetőhelynél kerül benyújtásra, és a kérelem benyújtását közvetlenül megelőzően ugyanazon gyermekre tekintettel az Igazgatóság folyósít vagy folyósított családtámogatási ellátást, akkor
+(7)[^37] Amennyiben a családtámogatási ellátás iránti kérelem családtámogatási kifizetőhelynél kerül benyújtásra, és a kérelem benyújtását közvetlenül megelőzően ugyanazon gyermekre tekintettel az Igazgatóság folyósít vagy folyósított családtámogatási ellátást, akkor
 
-a)[^37] családi pótlék iránti kérelem esetén az 5. § (3)–(4) bekezdését,
+a)[^38] családi pótlék iránti kérelem esetén az 5. § (3)–(4) bekezdését,
 
-b)[^38] gyermekgondozási segély iránti kérelem esetén a 19. § (4)–(5) bekezdését
+b)[^39] gyermekgondozási segély iránti kérelem esetén a 19. § (4)–(5) bekezdését
 
 [^22]: A 4/B. §-t a 321/2006. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 394/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^23]: A 4/B. § (1) bekezdésének b) pontja a 176/2009. (VIII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -70,8 +70,9 @@ b)[^38] gyermekgondozási segély iránti kérelem esetén a 19. § (4)–(5) be
 [^31]: A 4/B. § (4) bekezdés d) pontját a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés b) pont ba) alpontja hatályon kívül helyezte.
 [^32]: A 4/B. § (4) bekezdés e)–f) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
 [^33]: A 4/B. § (4) bekezdés i) pontja a 236/2010. (IX. 13.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^34]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^35]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
-[^36]: A 4/B. § (7) bekezdésének bevezető szövegrésze a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének a) pontja szerint módosított szöveg.
-[^37]: A 4/B. § (7) bekezdésének a) pontja a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének a) pontja szerint módosított szöveg.
-[^38]: A 4/B. § (7) bekezdésének b) pontja a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének a) pontja szerint módosított szöveg.
+[^34]: A 4/B. § (4) bekezdés k) pontját a 332/2011. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^35]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^36]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^37]: A 4/B. § (7) bekezdésének bevezető szövegrésze a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének a) pontja szerint módosított szöveg.
+[^38]: A 4/B. § (7) bekezdésének a) pontja a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének a) pontja szerint módosított szöveg.
+[^39]: A 4/B. § (7) bekezdésének b) pontja a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének a) pontja szerint módosított szöveg.

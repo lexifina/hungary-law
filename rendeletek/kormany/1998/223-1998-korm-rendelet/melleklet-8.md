@@ -12,9 +12,9 @@
 
 ## – a kérelmező aláíróhelye.
 
-8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^170]
+8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^175]
 
-## A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyek családtámogatási ellátásra való jogosultságának megállapításához szükséges formanyomtatvány adattartalma[^171]
+## A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyek családtámogatási ellátásra való jogosultságának megállapításához szükséges formanyomtatvány adattartalma[^176]
 
 I. A kérelmezővel kapcsolatos adatok
 
@@ -30,7 +30,7 @@ I. A kérelmezővel kapcsolatos adatok
 
 ## – nyilatkozat arról, hogy a kérelmező kiküldetésben foglalkoztatott-e; amennyiben igen, a kiküldő munkáltató megnevezése, címe.
 
-## II.[^172] A kérelmező házastársával, bejegyzett élettárásával, élettársával kapcsolatos adatok
+## II.[^177] A kérelmező házastársával, bejegyzett élettárásával, élettársával kapcsolatos adatok
 
 ## – életvitelszerű tartózkodási hely;
 
@@ -48,6 +48,6 @@ I. A kérelmezővel kapcsolatos adatok
 
 III. A kérelmezővel, a házastársával (bejegyzett élettárásával, élettársával), valamint a gyermek(ek)kel kapcsolatos további adatok
 
-[^170]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^171]: A 8. számú melléklet címe a 140/2010. (IV. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
-[^172]: A 8. számú melléklet II. pontja a 359/2010. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^175]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^176]: A 8. számú melléklet címe a 140/2010. (IV. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^177]: A 8. számú melléklet II. pontja a 359/2010. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
