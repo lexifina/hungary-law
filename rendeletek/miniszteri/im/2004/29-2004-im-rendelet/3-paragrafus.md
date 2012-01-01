@@ -1,7 +1,0 @@
-3. § (1) A Kbt. 11. §-ának (1) bekezdése alkalmazásában közbeszerzési gyakorlatnak minősül a közbeszerzéssel, illetőleg a 2. § (1) bekezdése szerinti beszerzéssel kapcsolatos jogorvoslati eljárásban, illetőleg békéltetési eljárásban képviselőként történt eljárás is.
-
-(2) A közbeszerzési gyakorlat az (1) bekezdés szerinti esetben akkor valósul meg, ha a kérelmező – a közbeszerzésekről szóló 1995. évi XL. törvény hatálybalépésének napjától (1995. november 1-jétől) a kérelem benyújtásának időpontjáig terjedő időtartam alatt – bármely összesen 3 év (36 hónap) során – az (1) bekezdés szerinti tevékenység többszöri kifejtése mellett – összesen legalább 10 közbeszerzési eljárással kapcsolatban vett részt a közbeszerzési eljárás, illetőleg a 2. § (1) bekezdése szerinti eljárás előkészítésében.
-
-(3)[^3] Amennyiben a kérelmező az állam által elismert közbeszerzési tárgyú szakképesítéssel rendelkezik, a közbeszerzési gyakorlat akkor valósul meg, ha az (1) bekezdés szerinti tevékenységet kifejtett kérelmező – a közbeszerzésekről szóló 1995. évi XL. törvény hatálybalépésének napjától (1995. november 1-jétől) a kérelem benyújtásának időpontjáig terjedő időtartam alatt – bármely összesen 2 év (24 hónap) során – az (1) bekezdés szerinti tevékenység többszöri kifejtése mellett – összesen legalább 7 közbeszerzési eljárással kapcsolatban vett részt a közbeszerzési eljárás, illetőleg a 2. § (1) bekezdése szerinti eljárás előkészítésében.
-
-[^3]: A 3. § (3) bekezdése a 33/2004. (XI. 10.) IM rendelet 1. §-a szerint módosított szöveg.
