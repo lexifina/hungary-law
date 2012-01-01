@@ -1,6 +1,4 @@
-## 42. §[^3]
-
-1. melléklet a 37/2011. (III. 22.) Korm. rendelethez
+1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^7]
 
 ## Az egyes támogatási kategóriák
 
@@ -64,24 +62,10 @@
 
 ## EB. Az EUMSz 107. cikk (2) bekezdés b) pontja alapján: természeti csapás és egyéb rendkívüli események kompenzálása
 
-## F. Az EUMSz 107. cikk (3) bekezdés b) pontja alapján: egy tagállam gazdaságában bekövetkezett komoly zavar megszüntetésére nyújtott támogatás
-
-## FA. A pénzügyi válság miatti szabályok: pénzügyi válság kapcsán nyújtandó átmeneti támogatás
-
-## FB. A pénzügyi válság miatti szabályok: állami kezességvállalás létező program módosítása
-
-## FC. A pénzügyi válság miatti szabályok: állami kezességvállalás, FB-be nem tartozó esetek
-
-## FD. A pénzügyi válság miatti szabályok: kockázati tőkebefektetésre vonatkozó támogatási program
-
-## FE. A pénzügyi válság miatti szabályok: kedvezményes egyedi referencia kamatlábból eredő támogatás
-
-## FF. A pénzügyi válság miatti szabályok: beruházási hitelhez kapcsolódó kamattámogatás
-
 ## G. Az EUMSz 107. cikk (3) bekezdés e) pontja alapján történő mentesítés
 
 ## H. Az EUMSz 108. cikk (2) bekezdés 3. albekezdése alapján történő rendkívüli mentesítés
 
 I. Közszolgáltatásért nyújtott állami támogatás
 
-[^3]: A 42. § a 37. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^7]: Az 1. melléklet a 42. § b) pontja szerint módosított szöveg.
