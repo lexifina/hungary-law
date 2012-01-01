@@ -14,7 +14,7 @@ a) a munkavállalók nagyobb csoportját érintő munkáltatói intézkedések t
 
 b) a személyügyi nyilvántartás rendszerének kialakítására, a nyilvántartandó adatok körére, a 77. §-ban meghatározott adatlap tartalmára vonatkozó elképzeléseit, illetve a személyügyi tervet;
 
-c) a munkavállalók képzésével összefüggő terveket, a foglalkoztatást elősegítő támogatások igénybevételére, illetve a korengedményes nyugdíjazásra vonatkozó elképzeléseket;
+c) a munkavállalók képzésével összefüggő terveket, a foglalkoztatást elősegítő támogatások igénybevételére vonatkozó elképzeléseket;
 
 d) a külön jogszabályban meghatározott egészségkárosodott, megváltozott munkaképességű munkavállalók rehabilitációjára vonatkozó intézkedések tervezetét;
 
@@ -24,7 +24,9 @@ f) az új munkaszervezési módszerek és a teljesítménykövetelmények beveze
 
 g) a munkavállalók lényeges érdekeit érintő belső szabályzatainak tervezetét;
 
-h) a munkáltató által meghirdetett anyagi vagy erkölcsi elismeréssel járó pályázatot.
+h) a munkáltató által meghirdetett anyagi vagy erkölcsi elismeréssel járó pályázatot;
+
+i) a családi élet és a munkatevékenység összehangolását érintő munkáltatói intézkedések tervezetét.
 
 (4) A munkáltató köteles tájékoztatni az üzemi tanácsot:
 

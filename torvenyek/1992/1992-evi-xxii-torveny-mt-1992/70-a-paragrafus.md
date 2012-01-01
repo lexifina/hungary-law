@@ -16,7 +16,7 @@ e) a két vagy több, tíz éven aluli gyermeket nevelő munkavállalók vagy t�
 
 foglalkoztatási helyzetének – így különösen azok bérének, munkakörülményeinek, szakmai előmenetelének, képzésének, illetve a gyermekneveléssel és a szülői szereppel kapcsolatos kedvezményeinek – elemzését, valamint a munkáltatónak az esélyegyenlőség biztosítására vonatkozó, az adott évre megfogalmazott céljait és az azok eléréséhez szükséges eszközöket, így különösen a képzési, munkavédelmi, valamint a munkáltatónál rendszeresített, a foglalkoztatás feltételeit érintő bármely programokat.
 
-(3) Az esélyegyenlőségi terv elkészítéséhez szükséges különleges személyes adatok csak a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezései szerint, az érintett önkéntes adatszolgáltatása alapján az esélyegyenlőségi terv által érintett időszak utolsó napjáig kezelhetőek.
+(3) Az esélyegyenlőségi terv elkészítéséhez szükséges különleges személyes adatok az érintett önkéntes adatszolgáltatása alapján az esélyegyenlőségi terv által érintett időszak utolsó napjáig kezelhetőek.
 
 (4) Az esélyegyenlőségi tervnek rendelkeznie kell
 

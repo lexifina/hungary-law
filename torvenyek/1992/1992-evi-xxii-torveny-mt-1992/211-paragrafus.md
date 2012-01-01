@@ -12,6 +12,10 @@
 
 (6) A 136. § (1) bekezdése szerinti, a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság első hat hónapjára járó szabadság pénzbeni megváltásáról szóló megállapodás a Módtv. hatálybalépését követően lejáró fizetés nélküli szabadság megszűnésekor köthető.
 
+(6a) A 2011. augusztus 1-je után kezdődő és az azt követően lejáró fizetés nélküli szabadságok megszűnésekor a (6) bekezdés szerint köthető megállapodás alapján a fizetés nélküli szabadság első hat hónapjára járó szabadságot lehet csak pénzben megváltani abban az esetben is, ha az igénybevett fizetés nélküli szabadság [138. § (5) bekezdés] első évére jár a munkavállaló részére szabadság.
+
 (7) A XI. fejezetnek a Módtv. 15–20. §-ával módosított rendelkezéseit első alkalommal a 2011. december 1-jét követően létesített munkaviszonyokra kell alkalmazni. E rendelkezések végrehajtása érdekében a kollektív szerződéseket legkésőbb 2011. december 31-ig felül kell vizsgálni.
+
+(7a) A kikölcsönzés ideiglenességére vonatkozó rendelkezéseket a 2011. december 1-jét megelőzően létesített határozatlan idejű munkaviszonyokban történő kikölcsönzés esetén is alkalmazni kell azzal, hogy a kikölcsönzés időtartamának számítása során kezdő időpontnak 2011. december 1-jét kell tekinteni.
 
 (8) A Módtv.-vel megállapított XII/A. fejezet rendelkezései nem érintik a Módtv. hatálybalépésének időpontjában az iskolaszövetkezet és tagja között fennálló munkaszerződéseket, valamint e szerződések alapján a harmadik személynél történő munkavégzést.

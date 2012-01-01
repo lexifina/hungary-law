@@ -12,7 +12,7 @@ e) a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli s
 
 f) a sor- vagy tartalékos katonai szolgálatnak a behívóparancs, a polgári szolgálatnak a teljesítésre vonatkozó felhívás kézhezvételétől számított,
 
-g) a külön törvény szerinti rehabilitációs járadékban részesülő személy esetén a keresőképtelenség teljes,
+g) a külön törvény szerinti rehabilitációs járadékban, rehabilitációs ellátásban részesülő személy esetén a keresőképtelenség teljes,
 
 h) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az örökbe fogadni szándékozó munkavállalót – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás
 

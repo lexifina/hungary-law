@@ -1,4 +1,4 @@
-106/A. § (1) Ha külföldi munkáltató munkavállalója – harmadik féllel kötött megállapodás alapján, a 105. §, a 106. §, illetve a XI. fejezet szabályai szerint – a Magyar Köztársaság területén végez munkát, a munkavállalóra
+106/A. § (1) Ha külföldi munkáltató munkavállalója – harmadik féllel kötött megállapodás alapján, a 105. §, a 106. §, illetve a XI. fejezet szabályai szerint – a Magyarország területén végez munkát, a munkavállalóra
 
 a) a leghosszabb munkaidő, illetve a legrövidebb pihenőidő mértéke,
 

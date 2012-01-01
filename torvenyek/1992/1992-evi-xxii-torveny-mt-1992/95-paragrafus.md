@@ -28,10 +28,4 @@ f) legalább huszonöt év esetén: hathavi
 
 átlagkereset összege.
 
-(5) A végkielégítésnek a (4) bekezdésben meghatározott mértéke háromhavi átlagkereset összegével emelkedik, ha a munkavállaló munkaviszonya az (1) bekezdésben meghatározott módon
-
-a) az öregségi nyugdíjra [87/A. § (1) bekezdés a) pont], továbbá
-
-b) a korkedvezményes öregségi nyugdíjra
-
-való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a munkavállalót, ha az a) vagy a b) pontban foglaltak alapján korábban már emelt összegű végkielégítésben részesült.
+(5) A végkielégítésnek a (4) bekezdésben meghatározott mértéke háromhavi átlagkereset összegével emelkedik, ha a munkavállaló munkaviszonya az (1) bekezdésben meghatározott módon az öregségi nyugdíjra való jogosultság [87/A. § (1) bekezdés a) pont] megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a munkavállalót, ha az e bekezdésben foglaltak alapján korábban már emelt összegű végkielégítésben részesült.

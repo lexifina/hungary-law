@@ -1,6 +1,8 @@
 ## Egyéb munkaidő-kedvezmények
 
-138. § (1) A terhes, illetőleg a szülő nőt huszonnégy hét szülési szabadság illeti meg. Ezt úgy kell kiadni, hogy négy hét lehetőleg a szülés várható időpontja elé essen.
+138. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult. A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette. A szülési szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy legfeljebb négy hét a szülés várható időpontja elé essen.
+
+(1a) A szülési szabadság tartamát – a kifejezetten munkavégzéshez kapcsolódó jogosultságot kivéve – munkában töltött időnek kell tekinteni azzal, hogy a 84. § rendelkezéseit is megfelelően alkalmazni kell.
 
 (2) A szülési szabadság megszűnik:
 
@@ -31,3 +33,5 @@ b) hat hónap elteltével vagy azt követően kíván munkába állni, a bejelen
 elteltével köteles foglalkoztatási kötelezettségének eleget tenni.
 
 (6) A nőnek a szoptatás első hat hónapjában naponta kétszer egy óra, ezt követően a kilencedik hónap végéig egy óra munkaidőkedvezmény jár. Ikrek esetében a munkaidőkedvezmény az ikrek számának megfelelő mértékben jár.
+
+(7) A munkavállaló mentesül rendelkezésre állási vagy munkavégzési kötelezettségének teljesítése alól a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára. A munkaidő-kedvezmény tartamára távolléti díj jár.

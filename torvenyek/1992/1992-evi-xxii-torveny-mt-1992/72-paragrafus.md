@@ -1,6 +1,6 @@
 72. § (1) Munkaviszonyt munkavállalóként az létesíthet, aki tizenhatodik életévét betöltötte.
 
-(2) Korlátozottan cselekvőképes személy törvényes képviselőjének hozzájárulása nélkül is létesíthet munkaviszonyt.
+(2) A törvényes képviselő hozzájárulása szükséges a korlátozottan cselekvőképes személy olyan jognyilatkozatához, amely a munkaszerződés megkötésére, módosítására, megszüntetésére, vagy kötelezettségvállalásra irányul. A cselekvőképtelen személy nevében törvényes képviselője tesz jognyilatkozatot.
 
 (3) A munkaviszony szempontjából fiatal munkavállaló az, aki tizennyolcadik életévét még nem töltötte be.
 

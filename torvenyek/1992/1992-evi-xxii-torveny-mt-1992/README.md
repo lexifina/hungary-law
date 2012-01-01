@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-22-00-00
 | 2011-09-01 | 39/2011. (X. 14.) NGM rendelet | 1992-22-00-00.78 |
 | 2011-12-01 | 2011. évi CV. törvény | 1992-22-00-00.79 |
 | 2011-12-10 | 2011. évi CLXVI. törvény | 1992-22-00-00.80 |
+| 2012-01-01 | 2011. évi CXCI. törvény | 1992-22-00-00.81 |

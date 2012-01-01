@@ -4,7 +4,7 @@
 
 ## A törvény hatálya
 
-1. § (1) E törvény hatálya – ha a nemzetközi magánjog szabályai eltérően nem rendelkeznek – kiterjed minden olyan munkaviszonyra, amelynek alapján a munkát a Magyar Köztársaság területén végzik, továbbá, amelynél a magyar munkáltató munkavállalója a munkát ideiglenes jelleggel külföldön végzi.
+1. § (1) E törvény hatálya – ha a nemzetközi magánjog szabályai eltérően nem rendelkeznek – kiterjed minden olyan munkaviszonyra, amelynek alapján a munkát a Magyarország területén végzik, továbbá, amelynél a magyar munkáltató munkavállalója a munkát ideiglenes jelleggel külföldön végzi.
 
 (2)–(4)
 

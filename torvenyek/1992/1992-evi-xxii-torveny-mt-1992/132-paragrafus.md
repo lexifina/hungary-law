@@ -1,6 +1,6 @@
 132. § (1) A fiatal munkavállalónak évenként öt munkanap pótszabadság jár, utoljára abban az évben, amelyben a fiatal munkavállaló a tizennyolcadik életévét betölti.
 
-(2) A szülők döntése alapján gyermeke nevelésében nagyobb szerepet vállaló munkavállalót vagy a gyermekét egyedül nevelő szülőt évenként a tizenhat évnél fiatalabb
+(2) A munkavállalónak a tizenhat évesnél fiatalabb
 
 a) egy gyermeke után kettő,
 
@@ -8,7 +8,7 @@ b) két gyermeke után négy,
 
 c) kettőnél több gyermeke után összesen hét
 
-munkanap pótszabadság illeti meg. A pótszabadság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
+munkanap pótszabadság jár. A pótszabadság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
 
 (3) A vak munkavállalónak évenként öt munkanap pótszabadság jár.
 
