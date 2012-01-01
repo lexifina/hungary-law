@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-37-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 1998-37-20-0A.12 | 37/1998. (VIII. 18.) BM rendelet |
+| 2012-01-01 | 1998-37-20-0A.13 | 64/2004. (X. 28.) BM rendelet |
