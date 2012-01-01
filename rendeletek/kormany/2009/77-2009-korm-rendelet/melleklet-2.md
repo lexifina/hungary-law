@@ -244,7 +244,7 @@
 
 | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -288,7 +288,7 @@
 
 | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -332,7 +332,7 @@
 
 | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
 
-| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| 6. tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | 7. honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -354,4 +354,4 @@
 
 * Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére kiterjedő illetékességgel látja el.
 
-[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 239. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 239. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 21. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés c) pontja szerint módosított szöveg.
