@@ -1,1 +1,0 @@
-A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (2) bekezdés 11. és 17. pontjában kapott felhatalmazás alapján, a gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 163/2006. (VII. 28.) Korm. rendelet 1. § g) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
