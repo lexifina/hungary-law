@@ -8,9 +8,9 @@
 
 (4) Ha a családban egyidejűleg több gyermek részesül házi gyermekfelügyeletben, a második és minden további gyermek után fizetendő térítési díj összege – a (3) bekezdésben foglaltak figyelembevételével – az egy gyermek után fizetendő személyi térítési díj 25%-a.
 
-(5)[^23] A házi gyermekfelügyelet keretében ellátásra fordított időt a gondozási napló alapján kell megállapítani A gondozási napló formáját a 4. számú melléklet tartalmazza.
+(5)[^29] A házi gyermekfelügyelet keretében ellátásra fordított időt a gondozási napló alapján kell megállapítani A gondozási napló formáját a 4. számú melléklet tartalmazza.
 
-(6)[^24] Ellátásra fordított időnek számít a lakásban töltött időn kívül a gyermekkel egyéb helyen eltöltött, illetve a gyermek érdekében végzett tevékenységre fordított idő is.
+(6)[^30] Ellátásra fordított időnek számít a lakásban töltött időn kívül a gyermekkel egyéb helyen eltöltött, illetve a gyermek érdekében végzett tevékenységre fordított idő is.
 
-[^23]: A 12. § (5) bekezdése a 210/2002. (X. 1.) Korm. rendelet 12. § (4) bekezdésének e) pontja szerint módosított szöveg.
-[^24]: A 12. § (6) bekezdése a 210/2002. (X. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^29]: A 12. § (5) bekezdése a 210/2002. (X. 1.) Korm. rendelet 12. § (4) bekezdésének e) pontja szerint módosított szöveg.
+[^30]: A 12. § (6) bekezdése a 210/2002. (X. 1.) Korm. rendelet 6. §-ával megállapított szöveg.

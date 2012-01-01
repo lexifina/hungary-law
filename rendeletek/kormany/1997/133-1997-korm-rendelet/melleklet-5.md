@@ -16,7 +16,7 @@
 
 ## a gondozó aláírása az ellátást nyújtó szervezet vezetőjének aláírása
 
-5. számú melléklet a 133/1997. (VII. 29.) Korm. rendelethez[^39]
+5. számú melléklet a 133/1997. (VII. 29.) Korm. rendelethez[^45]
 
 JÖVEDELEMNYILATKOZAT A SZEMÉLYI TÉRÍTÉSI DÍJ MEGÁLLAPÍTÁSÁHOZ
 
@@ -64,4 +64,4 @@ a gondnok és a gondnokolt együttes aláírása szükséges.
 
 (1)–(2) bekezdése alapján kell meghatározni.
 
-[^39]: Az 5. számú mellékletet a 210/2002. (X. 1.) Korm. rendelet 11. §-a iktatta a szövegbe, e módosító rendelet 12. § (2) bekezdése alapján a melléklet szerinti jövedelemnyilatkozat benyújtása a 2003. január 1-jén már biztosított intézményi ellátás esetén a kötelezettől legkorábban a személyi térítési díj felülvizsgálata során kérhető.
+[^45]: Az 5. számú mellékletet a 210/2002. (X. 1.) Korm. rendelet 11. §-a iktatta a szövegbe, e módosító rendelet 12. § (2) bekezdése alapján a melléklet szerinti jövedelemnyilatkozat benyújtása a 2003. január 1-jén már biztosított intézményi ellátás esetén a kötelezettől legkorábban a személyi térítési díj felülvizsgálata során kérhető.

@@ -54,6 +54,6 @@
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  | X |
 
-4. számú melléklet a 133/1997. (VII. 29.) Korm. rendelethez[^38]
+4. számú melléklet a 133/1997. (VII. 29.) Korm. rendelethez[^44]
 
-[^38]: A 4. számú mellékletet a 210/2002. (X. 1.) Korm. rendelet 11. §-a iktatta a szövegbe.
+[^44]: A 4. számú mellékletet a 210/2002. (X. 1.) Korm. rendelet 11. §-a iktatta a szövegbe.

@@ -6,6 +6,6 @@
 
 (3) Az intézményi térítési díjak megállapításához az egy ellátottra jutó önköltség napi összegének kiszámításához az intézmény költségvetésében az adott évre tervezett működési kiadásokat kell figyelembe venni.
 
-(4)[^15]
+(4)[^21]
 
-[^15]: A 9. § (4) bekezdését a 210/2002. (X. 1.) Korm. rendelet 12. § (3) bekezdésének d) pontja hatályon kívül helyezte.
+[^21]: A 9. § (4) bekezdését a 210/2002. (X. 1.) Korm. rendelet 12. § (3) bekezdésének d) pontja hatályon kívül helyezte.

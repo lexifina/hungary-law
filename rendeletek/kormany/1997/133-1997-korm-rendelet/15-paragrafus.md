@@ -6,6 +6,6 @@
 
 (3) A (2) bekezdés szerint nyilvántartott díjhátralékról az intézmény vezetője negyedévenként tájékoztatja a fenntartót a térítési díjhátralék behajtása vagy a behajthatatlan hátralék törlése érdekében.
 
-(4)[^30]
+(4)[^36]
 
-[^30]: A 15. § (4) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A 15. § (4) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

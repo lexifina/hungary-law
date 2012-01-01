@@ -48,6 +48,6 @@
 
 ## * Csak akkor, ha a fizetésre kötelezett maga az ellátott.
 
-2. számú melléklet a 133/1997. (VII. 29.) Korm. rendelethez[^36]
+2. számú melléklet a 133/1997. (VII. 29.) Korm. rendelethez[^42]
 
-[^36]: A 2. számú melléklet a 210/2002. (X. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^42]: A 2. számú melléklet a 210/2002. (X. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
