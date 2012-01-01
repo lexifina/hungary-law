@@ -20,7 +20,7 @@
 
 (10) A Hivatal négyévente a 12. számú melléklet szerinti szempontoknak megfelelően beszámolóban értékeli a nagy hatásfokú kapcsolt energiatermelés terén elért előrehaladást. A Hivatal a beszámolót honlapján közzéteszi.
 
-(11)[^63] Az Energia Központ Energiahatékonysági, Környezetvédelmi és Információs Ügynökség Nonprofit Kft. – az Európai Bizottságnak történő jelentéstételi kötelezettség teljesítése érdekében – évente statisztikai feldolgozást és értékelést készít a nagy hatásfokú kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló külön jogszabályban meghatározott módszer szerint a kapcsolt energiatermelésből származó hő-, és villamosenergia-termelésről, az energiatermelési kapacitásokról, valamint a kapcsolt villamosenergia-termeléshez felhasznált tüzelőanyagokról.
+(11)[^63] A Hivatal – az Európai Bizottságnak történő jelentéstételi kötelezettség teljesítése érdekében – évente statisztikai feldolgozást és értékelést készít a nagy hatásfokú kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló külön jogszabályban meghatározott módszer szerint a kapcsolt energiatermelésből származó hő-, és villamosenergia-termelésről, az energiatermelési kapacitásokról, valamint a kapcsolt villamosenergia-termeléshez felhasznált tüzelőanyagokról.
 
 (12) A Hivatal a (11) bekezdés alapján készült értékelő jelentést megküldi az Európai Bizottságnak és az energiapolitikáért felelős miniszternek.
 
@@ -29,4 +29,4 @@
 [^60]: A 8. § (3) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 7. §-ával megállapított, a 166/2011. (VIII. 24.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
 [^61]: A 8. § (4) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 11. § (12) bekezdése szerint módosított szöveg.
 [^62]: A 8. § (8) bekezdés második mondatát a 182/2009. (IX. 10.) Korm. rendelet 613. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^63]: A 8. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 612. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^63]: A 8. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 612. §-a, a 378/2011. (XII. 31.) Korm. rendelet 83. §-a szerint módosított szöveg.
