@@ -1,0 +1,7 @@
+5. § (1) Az ügyész a tudomására jutott jogsértés vagy jogszabálysértő mulasztás miatt jogszabályban megállapított feltételek fennállása esetén büntető, fegyelmi, szabálysértési, illetve hatósági eljárást, büntetés-végrehajtási ügyekben kártérítési eljárást is kezdeményez. A kezdeményezés címzettje érdemi döntésének egy példányát köteles az ügyésznek haladéktalanul megküldeni.
+
+(2) Az ügyész elbírálja a hatósági határozat, intézkedés, jogszabálysértő mulasztás ellen hozzá intézett kérelmeket, közérdekű bejelentéseket, jogsértésre utaló jelzéseket (a továbbiakban együtt: kérelem). Amennyiben a hozzá intézett kérelem vizsgálatára nincs hatásköre, gondoskodik annak áttételéről a hatáskörrel rendelkező szervhez.
+
+(3) Ha a kérelmet az ügyész alaptalannak találja, indokolt állásfoglalásával elutasítja. A kérelmező a felülvizsgálat érdekében – az állásfoglalás kézbesítésétől számított – 8 napon belül a felettes ügyészséghez fordulhat, ennek lehetőségéről a kérelmezőt tájékoztatni kell.
+
+(4) Ha törvény másként nem rendelkezik, a kérelem érdemi elbírálása mellőzhető, ha azt nem határidőben, vagy nem a jogosult terjesztette elő, vagy a kérelmet változatlan tényállás mellett az ügyészség már korábban elbírálta, vagy a kérelmező – a jogszabálynak megfelelő jogorvoslati tájékoztatás ellenére – a rendelkezésre álló jogorvoslati lehetőséggel nem élt, továbbá ha a kérelmet a sérelmezett határozat jogerőre emelkedésétől, illetve a végrehajtás elrendelésétől számított egy éven túl nyújtják be. Az elbírálás mellőzéséről és annak okáról a kérelmezőt tájékoztatni kell.

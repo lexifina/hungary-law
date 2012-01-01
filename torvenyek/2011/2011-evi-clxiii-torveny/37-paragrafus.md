@@ -1,0 +1,1 @@
+37. § Az Országos Kriminológiai Intézet a feladatkörébe tartozó vizsgálatai során állami szervektől és bíróságoktól bűnügyi és szabálysértési iratok rendelkezésre bocsátását kérheti, azokat tanulmányozhatja, és az azokban szereplő adatokat egyedi azonosításra nem alkalmas módon nyilvánosságra hozhatja.
