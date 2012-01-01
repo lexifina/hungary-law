@@ -10,7 +10,7 @@ b) az országos gazdasági kamarák,
 
 c) a nemzetpolitika területén tevékenykedő civil szervezetek,
 
-d) a külön törvényben meghatározott történelmi egyházak, valamint
+d) az egyházak, valamint
 
 e) a tudomány
 
