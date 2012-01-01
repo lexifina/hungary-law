@@ -4,7 +4,7 @@ kinyilvánítva elkötelezettségét a demokratikus jogállam értékei, a köz�
 
 megerősítve – ezen értékek megvalósítása érdekében – a korrupció elleni küzdelem fontosságát;
 
-tekintettel a Magyar Köztársaságnak a korrupció elleni fellépéssel összefüggésben vállalt nemzetközi kötelezettségeire és a nemzetközi szervezetek által megfogalmazott ajánlásokra;
+tekintettel Magyarország korrupció elleni fellépéssel összefüggésben vállalt nemzetközi kötelezettségeire és a nemzetközi szervezetek által megfogalmazott ajánlásokra;
 
 kinyilvánítva elkötelezettségét a foglalkoztatottak védelmére a közérdeksérelem veszélyét vagy megvalósulását feltáró bejelentések miatt a magánszférában és a közszférában egyaránt;
 

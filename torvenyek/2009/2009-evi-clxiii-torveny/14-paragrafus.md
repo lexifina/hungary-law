@@ -20,6 +20,6 @@ terjedhet.
 
 (8) Az (5) bekezdés szerinti peres eljárásban
 
-a) az ítélőtábla székhelye szerinti megyei bíróság – az ítélőtábla illetékességi területén – jár el,
+a) az ítélőtábla székhelye szerinti törvényszék – az ítélőtábla illetékességi területén – jár el,
 
 b) a bíróság soron kívül jár el.
