@@ -1,8 +1,8 @@
 2. § (1) Ez a rendelet 2001. május 1. napján lép hatályba, rendelkezéseit a hatálybalépése után kihelyezett közúti jelzőtáblák esetében kell alkalmazni.
 
-(2)[^2]
+(2)[^3]
 
-(3)[^3]
+(3)[^4]
 
 Melléklet a 4/2001. (I. 31.) KöViM rendelethez
 
@@ -10,7 +10,7 @@ A Közúti Jelzőtáblák Műszaki Szabályzata
 
 (JTSZ)
 
-1.[^4] Általános előírások
+1.[^5] Általános előírások
 
 1.1. A jelzőtáblák jellemző tulajdonságait az MSZ EN 12899-1 szabvány szerinti osztályok egyikébe kell sorolni és jelzőtábla létesítése (cseréje, felújítása) esetén csak olyan jelzőtáblát szabad alkalmazni, amely a JTSZ megfelelő szakaszában jelzett osztályozási követelménynek megfelel.
 
@@ -28,7 +28,7 @@ A Közúti Jelzőtáblák Műszaki Szabályzata
 
 2. Alak és méret
 
-2.1.[^5] A közúti jelzőtáblák alakja
+2.1.[^6] A közúti jelzőtáblák alakja
 
 a) kör,
 
@@ -72,7 +72,7 @@ Megjegyzés: Háromszög alakú jelzőtáblánál az oldalhosszat a csúcsok lek
 
 A jelzőtáblák méretei
 
-1. táblázat[^6]
+1. táblázat[^7]
 
 | A jelzőtáblák alakja és típusa | A kerékpár- forgalmi létesítmé- nyeken | Lakott területen belül | Lakott területen kívül |
 
@@ -178,7 +178,7 @@ A kiegészítő táblák méretei (mm)
 
 2.12.5. Kerékpárutakon, gyalog- és kerékpárutakon, időszakosan járműforgalomra megnyitott gyalogutakon, 30 km/h területi sebességszabályozás alá vont területen, illetőleg lakó-pihenő övezetben a ,,kerékpárforgalmi létesítményeken alkalmazandó'' méretcsoportba tartozó jelzőtáblák alkalmazandók.
 
-2.12.6.[^7] A jelzőlámpás csomópontokban a fényjelző készülékekkel azonos tartószerkezeten elhelyezett jelzőtáblák belső átvilágításúak legyenek. A belső átvilágítású jelzőtáblák helyettesíthetők 3. típusú (mikroprizmás) fényvisszavető bevonatú táblákkal
+2.12.6.[^8] A jelzőlámpás csomópontokban a fényjelző készülékekkel azonos tartószerkezeten elhelyezett jelzőtáblák belső átvilágításúak legyenek. A belső átvilágítású jelzőtáblák helyettesíthetők 3. típusú (mikroprizmás) fényvisszavető bevonatú táblákkal
 
 – lakott területen kívüli jelzőlámpás csomópontban,
 
@@ -218,7 +218,7 @@ Névleges méret (mm) Tűrés (mm)
 
 ----------------
 
-4.[^8] Szín- és fénytechnikai követelmények
+4.[^9] Szín- és fénytechnikai követelmények
 
 4.1. A jelzőtábla szín- és fénytechnikai szempontból megfelelő, ha az MSZ EN 12899-1 szabvány előírásait általánosan, és az alábbi részletezés szerint kielégíti:
 
@@ -274,11 +274,11 @@ fényvisszavető bevonatúnak kell lennie.
 
 4.8. Kívülről vagy belülről megvilágított, illetőleg a belső átvilágítású jelzőtáblát csak igen indokolt esetben, és csak olyan helyen szabad létesíteni, ahol a biztonságos áramellátás megoldható. Gondoskodni kell arról, hogy a jelzőtábla megvilágítása, illetőleg átvilágítása egyenletes legyen. A kívülről megvilágított jelzőtáblát megvilágító fényforrást úgy kell elhelyezni, hogy az a közlekedőket ne kápráztassa.
 
-5.[^9] Biztonságtechnikai követelmény
+5.[^10] Biztonságtechnikai követelmény
 
 Ha a jelzőtáblában vagy tartószerkezetében elektromos berendezés van, annak védelme legalább IP34 osztályú legyen.
 
-6.[^10] Erőtani és szilárdságtani követelmények
+6.[^11] Erőtani és szilárdságtani követelmények
 
 6.1. Terhek
 
@@ -306,7 +306,7 @@ A koncentrált terhelés esetében a jelzőtáblának legalább a PL1 osztály k
 
 6.2.2. A legnagyobb ideiglenes csavarás esetében a jelzőtáblának legalább a TDT3 osztály követelményei szerintinek kell lennie.
 
-7.[^11] A jelzőtábla-lemez követelményei
+7.[^12] A jelzőtábla-lemez követelményei
 
 7.1. A hátlap színe
 
@@ -346,11 +346,11 @@ Az 1.5. szakaszban előírt követelmények teljesülését szemrevételezéssel
 
 A vizsgálatot szemrevételezéssel és méréssel kell elvégezni. A szemrevételezést minden darab esetében, a mérést egyedi daraboknál ugyancsak minden darabnál, a sorozatban készült táblák esetében 20 darabig minden ötödik darabnál, 20 darab fölött minden tizedik darabnál kell elvégezni. A nem megfelelő darabot újra kell gyártani. Mintavétel esetén a hibás előtt és után annyi darabot kell megvizsgálni amennyi a megelőző, illetve a következő alkalmas mintáig található.
 
-10.[^12] Vizsgálat beépítéskor
+10.[^13] Vizsgálat beépítéskor
 
 A teljes szerkezetet beépítéskor szemrevételezéssel vizsgálni kell, hogy a szállítás és a beépítés során a szerkezetben károsodás nem keletkezett-e.
 
-11.[^13] Tárolás
+11.[^14] Tárolás
 
 A közúti jelzőtáblát legalább fedett vagy zárt, száraz helyen, az élére állítva, vagy a lapjára fektetve úgy kell tárolni, hogy
 
@@ -362,11 +362,11 @@ A közúti jelzőtáblát legalább fedett vagy zárt, száraz helyen, az élér
 
 – a táblát korrózióhatások ne károsítsák.
 
-12.[^14] Csomagolás
+12.[^15] Csomagolás
 
 A jelzőtáblák csomagolása olyan legyen, hogy biztosítsa a táblák sérülésmentes szállítását. Több darab jelzőtáblát is szabad egymásra fektetve egybe csomagolni, ha azok a szállítás során nem sértik, nem karcolják egymás jelzőfelületét, kivéve a több darabból összeszerelt, útbaigazítást adó jelzőtáblákat.
 
-13.[^15] Szállítás
+13.[^16] Szállítás
 
 A közúti jelzőtáblákat bármely szállítóeszközön akár vízszintesen lefektetve, akár függőlegesen felállítva, a 15. szakasz feltételeit betartva kell szállítani. A táblákat a járművön beépített rekeszekben, vagy elcsúszás, eldőlés, vetemedés, ütődés, karcolás ellen védett módon kell kiékelni és rögzíteni.
 
@@ -406,7 +406,7 @@ n) Kijelző felülete: a változtatható jelzéstartalmú jelzőtábla látható
 
 2. számú függelék
 
-a Közúti Jelzőtáblák Műszaki Szabályzatához[^16]
+a Közúti Jelzőtáblák Műszaki Szabályzatához[^17]
 
 A fényvisszavetés R’ együtthatója (cd×lx–1×m–2)
 
@@ -420,18 +420,18 @@ A fényvisszavetés R’ együtthatója (cd×lx–1×m–2)
 
 | 30° | 20 | 13 | 4 | 2 | 1,5 |
 
-[^2]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 35. pontja hatályon kívül helyezte.
-[^3]: A 2. § (3) bekezdését a 7/2004. (I. 30.) GKM–IHM–KvVM együttes rendelet 1. §-ának d) pontja hatályon kívül helyezte.
-[^4]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 1. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
-[^5]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 2.1. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
-[^6]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 1. számú táblázata a 84/2004. (VI. 4.) GKM rendelet 2. §-ának (2)–(4) bekezdése szerint módosított szöveg.
-[^7]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 2.12.6. pontja a 84/2004. (VI. 4.) GKM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
-[^8]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 4. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
-[^9]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 5. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
-[^10]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 6. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
-[^11]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 7. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
-[^12]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 10–12. pontját a 64/2007. (VII. 2.) GKM rendelet 3. § (1) bekezdése hatályon kívül helyezte, egyidejűleg az eredeti 13. pontjának számozását 10. pontra változtatta.
-[^13]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 14. pontját a 64/2007. (VII. 2.) GKM rendelet 3. § (1) bekezdése hatályon kívül helyezte, egyidejűleg az eredeti 15. pontjának számozását 11. pontra változtatta.
-[^14]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) eredeti 16. pontjának számozását 12. pontra változtatta a 64/2007. (VII. 2.) GKM rendelet 3. § (1) bekezdése.
-[^15]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) eredeti 17. pontjának számozását 13. pontra változtatta a 64/2007. (VII. 2.) GKM rendelet 3. § (1) bekezdése.
-[^16]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabálzata) 2. számú függeléke a 64/2007. (VII. 2.) GKM rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
+[^3]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 35. pontja hatályon kívül helyezte.
+[^4]: A 2. § (3) bekezdését a 7/2004. (I. 30.) GKM–IHM–KvVM együttes rendelet 1. §-ának d) pontja hatályon kívül helyezte.
+[^5]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 1. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
+[^6]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 2.1. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
+[^7]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 1. számú táblázata a 84/2004. (VI. 4.) GKM rendelet 2. §-ának (2)–(4) bekezdése szerint módosított szöveg.
+[^8]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 2.12.6. pontja a 84/2004. (VI. 4.) GKM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
+[^9]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 4. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
+[^10]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 5. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
+[^11]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 6. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
+[^12]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 7. pontja a 64/2007. (VII. 2.) GKM rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
+[^13]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 10–12. pontját a 64/2007. (VII. 2.) GKM rendelet 3. § (1) bekezdése hatályon kívül helyezte, egyidejűleg az eredeti 13. pontjának számozását 10. pontra változtatta.
+[^14]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) 14. pontját a 64/2007. (VII. 2.) GKM rendelet 3. § (1) bekezdése hatályon kívül helyezte, egyidejűleg az eredeti 15. pontjának számozását 11. pontra változtatta.
+[^15]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) eredeti 16. pontjának számozását 12. pontra változtatta a 64/2007. (VII. 2.) GKM rendelet 3. § (1) bekezdése.
+[^16]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabályzata) eredeti 17. pontjának számozását 13. pontra változtatta a 64/2007. (VII. 2.) GKM rendelet 3. § (1) bekezdése.
+[^17]: A melléklet (A Közúti Jelzőtáblák Műszaki Szabálzata) 2. számú függeléke a 64/2007. (VII. 2.) GKM rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 3. § (3)–(4) bekezdését.
