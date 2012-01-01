@@ -2,8 +2,13 @@
 
 ## Könyvviteli szolgáltatás
 
-11. §[^7] (1) A vállalkozási tevékenységet is folytató egyházi jogi személy a Tv. 150. § (2) bekezdése szerinti könyvviteli szolgáltatás körébe tartozó feladatok irányításával, vezetésével, a beszámoló elkészítésével olyan természetes személyt köteles megbízni, illetve ezen feladatok végzésére alkalmazni, aki okleveles könyvvizsgálói képesítéssel, illetve mérlegképes könyvelői képesítéssel rendelkezik, és aki szerepel a Tv. 151. § (3)–(5) bekezdése szerinti nyilvántartások valamelyikében és ennek megfelelően a tevékenység ellátására jogosító engedéllyel (igazolvánnyal) rendelkezik, vagy olyan számviteli szolgáltatást nyújtó társaságot, amelynek a feladat irányításával, vezetésével, a beszámoló elkészítésével megbízott tagja, alkalmazottja rendelkezik az előbbi képesítéssel és a Tv. 151. § (3)–(5) bekezdése szerinti nyilvántartásba történt bejegyzés alapján a tevékenység ellátására jogosító engedéllyel (igazolvánnyal).
+11. §[^9] (1)[^10] A vállalkozási tevékenységet is folytató egyházi jogi személy a Tv. 150. § (2) bekezdése szerinti könyvviteli szolgáltatás körébe tartozó feladatok irányításával, vezetésével, a beszámoló elkészítésével
+
+a) olyan természetes személyt köteles megbízni, illetve ezen feladatok végzésére alkalmazni, aki okleveles könyvvizsgálói szakképesítéssel vagy mérlegképes könyvelői szakképesítéssel, illetve az engedélyezés szempontjából mérlegképes könyvelői szakképesítéssel egyenértékű szakképesítéssel (ez utóbbiak a továbbiakban együtt: mérlegképes könyvelői szakképesítés) és a tevékenység ellátására jogosító engedéllyel rendelkezik, vagy aki a Tv. 152/B. §-a szerinti bejelentést tett, vagy
+
+b) olyan számviteli szolgáltatást nyújtó társaságot köteles megbízni, amelynek a feladat irányításával, vezetésével, a beszámoló elkészítésével megbízott tagja, alkalmazottja megfelel az a) pontban meghatározott követelményeknek.
 
 (2) Mentesül az (1) bekezdésben előírt kötelezettség alól az a vállalkozási tevékenységet is folytató egyházi jogi személy, amelynél a vállalkozási tevékenységből származó éves (éves szintre átszámított) (ár)bevétel a tárgyévet megelőző két naptári év átlagában, ennek hiányában a tárgyévben várhatóan a 10 millió forintot nem haladja meg.
 
-[^7]: A 11. § a 286/2002. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 11. § a 286/2002. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 11. § (1) bekezdés a 342/2011. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

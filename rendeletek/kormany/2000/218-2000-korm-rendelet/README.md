@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-218-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 2000-218-20-22.7 | 218/2000. (XII. 11.) Korm. rendelet |
+| 2012-01-01 | 2000-218-20-22.8 | 342/2011. (XII. 29.) Korm. rendelet |

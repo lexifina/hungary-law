@@ -24,9 +24,9 @@ b) egyszerűsített éves beszámoló.
 
 (8) Az egyszerűsített beszámolót, illetve egyszerűsített éves beszámolót készítő egyházi jogi személynek kiegészítő mellékletet, valamint üzleti jelentést nem kötelező készítenie.
 
-(9)[^2] Az az egyházi jogi személy, amely könyvvizsgálatra nem kötelezett, és amelynek két egymást követő évben az alaptevékenységéből, valamint a vállalkozási tevékenységéből származó éves (ár)bevételének együttes összege nem haladja meg a 100 millió forintot, egyszerűsített éves beszámolóját a Tv. 98/A. §-a szerinti sajátos szabályok figyelembevételével is elkészítheti (sajátos egyszerűsített éves beszámoló).
+(9)[^4] Az az egyházi jogi személy, amely könyvvizsgálatra nem kötelezett, és amelynek két egymást követő évben az alaptevékenységéből, valamint a vállalkozási tevékenységéből származó éves (ár)bevételének együttes összege nem haladja meg a 100 millió forintot, egyszerűsített éves beszámolóját a Tv. 98/A. §-a szerinti sajátos szabályok figyelembevételével is elkészítheti (sajátos egyszerűsített éves beszámoló).
 
-(10)[^3] A (9) bekezdés szerinti sajátos egyszerűsített éves beszámoló választása esetén az egyházi jogi személy a választásától mindaddig nem térhet el, amíg a választás feltételeinek megfelel.
+(10)[^5] A (9) bekezdés szerinti sajátos egyszerűsített éves beszámoló választása esetén az egyházi jogi személy a választásától mindaddig nem térhet el, amíg a választás feltételeinek megfelel.
 
-[^2]: A 4. § (9) bekezdését a 330/2008. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A 4. § (10) bekezdését a 330/2008. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 4. § (9) bekezdését a 330/2008. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 4. § (10) bekezdését a 330/2008. (XII. 30.) Korm. rendelet 1. §-a iktatta be.

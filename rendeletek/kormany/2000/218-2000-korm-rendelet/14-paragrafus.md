@@ -10,6 +10,6 @@
 
 (2) A vállalkozási tevékenységet nem folytató egyházi jogi személynek a Tv. könyvvezetésre, bizonylatolásra vonatkozó előírásait – a beszámolót alátámasztó sajátos nyilvántartási rendre tekintettel – kell figyelembe vennie.
 
-(3)[^9] A vállalkozási tevékenységet nem folytató egyházi jogi személy a beszámolási és könyvvezetési kötelezettségének eleget tehet az I. fejezetben foglalt előírások szerint is. Ebben az esetben nem kell alkalmazni a 11. § előírását.
+(3)[^12] A vállalkozási tevékenységet nem folytató egyházi jogi személy a beszámolási és könyvvezetési kötelezettségének eleget tehet az I. fejezetben foglalt előírások szerint is. Ebben az esetben nem kell alkalmazni a 11. § előírását.
 
-[^9]: A 14. § (3) bekezdésének utolsó mondatát a 286/2002. (XII. 23.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^12]: A 14. § (3) bekezdésének utolsó mondatát a 286/2002. (XII. 23.) Korm. rendelet 2. §-a iktatta a szövegbe.
