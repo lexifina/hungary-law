@@ -1,1 +1,1 @@
-11. § Az adóból származó bevétel a központi költségvetés bevételét képezi.
+11. § A népegészségügyi termékadóból és a baleseti adóból származó bevétel az Egészségbiztosítási Alap bevételét képezi.

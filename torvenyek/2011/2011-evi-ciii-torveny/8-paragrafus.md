@@ -1,6 +1,6 @@
 ## 7. Az adó megállapítása
 
-8. § (1) Azon adóköteles termék értékesítése utáni adót kell megállapítani és a 10. § (1) és (2) bekezdése szerint bevallani, amely adóköteles termék értékesítéséről kiállított
+8. § (1) Azon adóköteles termék értékesítése utáni adót kell megállapítani és a 10. § (2) és (3) bekezdése szerint bevallani, amely adóköteles termék értékesítéséről kiállított
 
 a) számlán, számviteli bizonylaton vagy ezek hiányában bármely más, az értékesítésről kiállított okiraton szereplő teljesítési időpont vagy, ha a teljesítési időpontot nem tüntették fel, akkor a
 

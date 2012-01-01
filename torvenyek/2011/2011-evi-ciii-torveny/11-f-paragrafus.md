@@ -1,0 +1,3 @@
+11/F. § (1) A Kgfb. tv. szerinti határon átnyúló szolgáltatás esetén az adót az adó alanya önadózással, a biztosítási díj esedékességével egyidejűleg állapítja meg.
+
+(2) A biztosítási díjjal le nem fedett időtartam azon napjaira, amelyekre a biztosító a 11/C. § (1) vagy (2) bekezdése alapján az adót nem szedte be, az adó alanya az adó összegét önadózással állapítja meg a gépjármű forgalomból való kivonását vagy az üzemben tartó személyében bekövetkezett változás esetén, a változást követő hónap 15. napjáig. A biztosító a kockázatviselése megszűnésétől számított 15 napon belül igazolást ad az adóalany számára arról, hogy az adó a 11/E. § alapján mely napig van megfizetve.
