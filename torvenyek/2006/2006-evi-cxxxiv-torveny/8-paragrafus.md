@@ -1,1 +1,0 @@
-8. § A Kormány felhatalmazást kap arra, hogy a 2007. évi költségvetési törvényben a határon túli magyarok támogatására meghatározott fejezeti kezelésű előirányzatokból az Alap javára átcsoportosítson.
