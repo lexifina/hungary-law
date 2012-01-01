@@ -1,0 +1,5 @@
+## 1. § E rendelet hatálya kiterjed a jogi személyre, a gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató jogi személyiséggel nem rendelkező szervezetre, ezen jogalanyok gazdasági tevékenységére vonatkozóan, valamint a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 17. pontja alapján egyéni vállalkozónak minősülő személyre (a továbbiakban együtt: adatszolgáltatók).
+
+2. § (1) Az adatszolgáltatók az 1. mellékletében felsorolt információkat az ott meghatározott módon, gyakorisággal és határidőben szolgáltatják a Magyar Nemzeti Bank (a továbbiakban: MNB) részére.
+
+(2) A hitelintézetek adatszolgáltatási kötelezettségéről szóló PSZÁF rendeletben 20AB, 20ABB, 20ABU, illetve F20A táblakód alatt meghatározott információkat a bank, a szakosított hitelintézet, illetve az Európai Gazdasági Térségről szóló megállapodásban részes (valamely más) tagállamban székhellyel rendelkező ezen típusú pénzügyi intézmények magyarországi fióktelepe (a továbbiakban: EGT fióktelep) az ott meghatározott gyakorisággal és határidőben, az MNB elektronikus adatbefogadási rendszerén (a továbbiakban: EBEAD) keresztül szolgáltatja az MNB részére is.

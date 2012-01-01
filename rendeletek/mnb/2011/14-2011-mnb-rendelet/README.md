@@ -1,0 +1,9 @@
+# 14/2011. (X. 13.) MNB rendelet
+
+a jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-14-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-01-01 | 2011-14-20-2C.1 | 14/2011. (X. 13.) MNB rendelet |
