@@ -1,0 +1,9 @@
+# 327/2011. (XII. 29.) Korm. rendelet
+
+a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-327-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-01-01 | 2011-327-20-22.1 | 327/2011. (XII. 29.) Korm. rendelet |

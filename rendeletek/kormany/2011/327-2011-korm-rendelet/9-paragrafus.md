@@ -1,0 +1,1 @@
+## 8. § A kérelem elbírálásához a nyugdíjmegállapító szerv megkeresi a Hivatalt, amely szakértői bizottsága komplex minősítést végez, és szakhatósági állásfoglalást ad az Mmtv. 15. §-ában foglaltakról.

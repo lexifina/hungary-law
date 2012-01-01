@@ -1,0 +1,1 @@
+## 7. § Ha kétség merül fel a 6. § (4) bekezdés d) pontja szerinti nyilatkozat valóságtartalmát illetően, a 2. § szerinti nyugdíjmegállapító szerv (a továbbiakban: nyugdíjmegállapító szerv) megkeresi a rendszeres pénzellátás folyósítására jogosult szervet, hogy megállapítsa, a kérelmező részesül-e rendszeres pénzellátásban.

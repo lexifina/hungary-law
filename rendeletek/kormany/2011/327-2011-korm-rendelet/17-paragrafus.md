@@ -1,0 +1,17 @@
+## 8. A rehabilitációs terv
+
+17. § (1) A kirendeltség legkésőbb a rehabilitációs ellátást megállapító határozat jogerőre emelkedéséről szóló értesítést követő 30 napon belül elkészíti és a rehabilitációs ellátásban részesülő személlyel ismerteti a rehabilitációs tervre tett javaslatát.
+
+(2) A kirendeltség a rehabilitációs tervet a komplex minősítés során kiadott szakhatósági állásfoglalás részét képező rehabilitációs javaslatnak megfelelően, a (3) bekezdés szerinti konzultációt és az adott térség munkaerő-piaci feltételeit is figyelembe véve készíti el.
+
+(3) A rehabilitációs terv elkészítése során a kirendeltség a rehabilitációs ellátásban részesülő személlyel együttműködik, ennek keretében személyes konzultációt folytat a rehabilitációt érintő lényeges kérdésekről. A konzultáció során a kirendeltség a rehabilitációs ellátásban részesülő személyt tájékoztatja az irányadó jogszabályi rendelkezésekről, az őt megillető jogokról és az őt terhelő kötelezettségekről, továbbá a kötelezettségek elmulasztásának jogkövetkezményeiről.
+
+(4) A rehabilitációs ellátásban részesülő személy a rehabilitációs terv elkészítése során együttműködik a kirendeltséggel, és részt vesz a szükséges foglalkozás-egészségügyi vizsgálatokon.
+
+(5) A kirendeltség szükség esetén a rehabilitációs terv kidolgozásába a rehabilitációs ellátásban részesülő személy kérésére – annak beleegyezése esetén – hozzátartozóját is bevonhatja.
+
+(6) Amennyiben a rehabilitációs szolgáltatások nyújtásában akkreditált munkáltató is közreműködik, a rehabilitációs terv kidolgozásába az akkreditált munkáltató képviselőjét is be kell vonni.
+
+(7) A kirendeltség szükség esetén a rehabilitációs terv kidolgozásába más szervet, szakértőt (képző intézmény, akkreditált munkáltató, műszaki tanácsadó, rehabilitációs tanácsadó, foglalkozás-egészségügyi orvos, pszichológiai, szociális szakértő) is bevonhat.
+
+(8) A rehabilitációs szolgáltatásokat nyújtó szolgáltatók a kirendeltség megkeresésére a rehabilitációs terv elkészítésében szükség szerint közreműködnek.
