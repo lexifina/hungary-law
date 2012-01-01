@@ -6,7 +6,7 @@
 
 (3) A rendőr meghatározott szolgálati feladat végrehajtása során észlelt vagy tudomására jutott kisebb súlyú jogsértő cselekmény esetén a meghatározott szolgálati feladatának teljesítését folytatja, azonban a szolgálati elöljárónak történő jelentéssel vagy a legközelebbi általános rendőrségi feladatok ellátására létrehozott szerv ügyeletének értesítésével köteles intézkedést kezdeményezni. A rendőr az életet, testi épséget és a vagyonbiztonságot közvetlenül veszélyeztető magatartás észlelése esetén köteles intézkedni, azonban az alábbi feladatokat ellátó rendőr az intézkedés végrehajtása helyett intézkedés kezdeményezése érdekében jelentést tesz, ha a szolgálati feladat teljesítésének megszakítása
 
-a) a Magyar Köztársaság védett vezetői vagy kijelölt létesítményei tekintetében jelentkező személy- vagy objektumvédelmi szolgálati feladat végrehajtásának biztonságát vagy eredményességét,
+a)[^2] Magyarország védett vezetői vagy kijelölt létesítményei tekintetében jelentkező személy- vagy objektumvédelmi szolgálati feladat végrehajtásának biztonságát vagy eredményességét,
 
 b) a terrorelhárítási feladatok végrehajtásának eredményességét,
 
@@ -25,3 +25,5 @@ b) a szolgálatban lévő rendőrnek kell segítséget nyújtani.
 (6) A szolgálaton kívül lévő rendőr kizárólag abban az esetben intézkedhet, ha a felmerülő feladat végrehajtására megfelelő szakmai ismeretekkel és képzettséggel rendelkezik, egészséges, nincs szeszesitaltól befolyásolt állapotban, vagy nem áll intézkedési képességére hátrányosan ható gyógyszer, valamint bódító hatású anyag befolyása alatt.
 
 (7) A rendőr intézkedése előtt felméri, hogy rendelkezésére állnak-e azok az eszközök, amelyekkel a megkezdett intézkedését eredményesen be tudja fejezni; ha nem, úgy az intézkedésének megkezdése előtt segítséget kér.
+
+[^2]: A 4. § (3) bekezdés a) pontja a 68/2011. (XII. 30.) BM rendelet 35. § (2) bekezdése szerint módosított szöveg.
