@@ -1,0 +1,3 @@
+24. § (1) Az egyház az állam és a helyi önkormányzat által fenntartott nevelési és oktatási intézményben – a tanulók és a szülők igényei szerint – hit- és erkölcstanoktatást tarthat, továbbá felsőoktatási intézményben hitéleti tevékenységet folytathat. A felsőoktatási intézmény köteles a dologi feltételeket, a közoktatási intézmény a dologi feltételeket és más, kötelező iskolai foglalkozásokkal nem ütköző időpontot, az egyház pedig a hitoktató, illetve hittanár személyét biztosítani. A hit- és erkölcstanoktatás költségeit – törvény, illetve az egyházzal kötött megállapodás alapján – az állam biztosítja.
+
+(2) Az egyház jogszabályban meghatározott rendben végzett tábori lelkészi, valamint börtön- és kórházlelkészi szolgálatot vagy más szolgálatot végezhet.

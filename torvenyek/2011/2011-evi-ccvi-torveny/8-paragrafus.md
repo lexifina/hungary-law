@@ -1,0 +1,1 @@
+8. § A jelentős társadalmi támogatottsággal rendelkező, történelmi és kulturális értékeket megőrző, nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, valamint kulturális, sportintézményeket fenntartó (a továbbiakban: közcélú tevékenység) egyházzal – működésük biztosítása érdekében – az állam megállapodást köthet.
