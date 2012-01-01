@@ -28,7 +28,7 @@ i) a lakásépítéssel, megszűnéssel kapcsolatos nyilvántartás,
 
 j) a hatósági, építésfelügyeleti ellenőrzések jegyzőkönyveinek nyilvántartása,
 
-k) az építésügyi és építésfelügyeleti hatósági eljárások következtében szükségessé vált pénzösszeg behajtásának nyilvántartása,
+k) az építésügyi és építésfelügyeleti hatósági eljárásokkal összefüggésben kiszabott bírságok nyilvántartása,
 
 l) a bauxitcementtel épült építmények nyilvántartása,
 
@@ -111,5 +111,3 @@ c) a kivitelező (vállalkozó) neve (elnevezése), címe (székhelye), adóazon
 d) a felelős műszaki vezető és az építési műszaki ellenőr neve, címe (székhelye), jogosultságának igazolása.
 
 (8) Az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység végzése jogszerűségének ellenőrzése céljából a (4) és (7) bekezdésben megjelölt adatokat a használatbavételi engedély jogerőre emelkedését követő 3 évig kezelheti, és azok – külön törvényben megállapított – körét az ott meghatározott hatóságoknak továbbíthatja.
-
-(9)–(10)

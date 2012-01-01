@@ -6,7 +6,7 @@ b) az állami és az önkormányzati (megyei, illetve települési) főépítés
 
 c) az építésügyi hatósági és építésfelügyeleti ellenőrzési tevékenységet, az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó köztisztviselő, az állami főépítész, a térségi főépítész, valamint az önkormányzati főépítész végzettségét és szakmai gyakorlatát,
 
-d) az építésügyi bírság megállapításának részletes szabályait,
+d) az építésügyi bírság kiszabásának és nyilvántartásának részletes szabályait,
 
 e) az építésügyi vizsga tartalmát, követelményeit és eljárási szabályait,
 
@@ -28,7 +28,7 @@ m) az építészeti-műszaki tervpályázati eljárás kötelező eseteit és r�
 
 n) a felsőoktatási szakokon szerzett szakképesítésekről szóló kormányrendeletben meghatározottak vonatkozásában a szabályozott építésügyi szakmák tekintetében a szakképesítések és szakképzettségek elismerésének részletes eljárási szabályait,
 
-o) az építőipari kivitelezési tevékenység gyakorlásának, az építőipari kivitelezési tevékenység résztvevői feladatának, felelősségének, az építési napló vezetésének, az építőipari kivitelezési tevékenység megkezdésére vonatkozó bejelentésnek, a bejelentés elbírálásának, az építésfelügyeleti tevékenység végzésének és az építésfelügyeleti bírság megállapításának szabályait, továbbá az ajánlati, valamint a kivitelezési tervdokumentáció tartalmi követelményeit, a kivitelezési tervdokumentáció ellenőrzésének módját, továbbá az építtetői fedezetkezelés alkalmazásának eseteit, az építtetői fedezetkezelést végzők körét, működésük személyi és tárgyi feltételeit, az építtetői fedezetkezelés résztvevői jogait és kötelezettségeit, az eljárás szabályait, a fedezetkezelő megbízásának, feladatellátásának, díjának és a fedezetkezelői számla kezelésének szabályait,
+o) az építőipari kivitelezési tevékenység gyakorlásának, az építőipari kivitelezési tevékenység résztvevői feladatának, felelősségének, az építési napló vezetésének, az építőipari kivitelezési tevékenység megkezdésére vonatkozó bejelentésnek, a bejelentés elbírálásának, az építésfelügyeleti tevékenység végzésének és az építésfelügyeleti bírság kiszabásának és nyilvántartásának szabályait, továbbá az ajánlati, valamint a kivitelezési tervdokumentáció tartalmi követelményeit, a kivitelezési tervdokumentáció ellenőrzésének módját, továbbá az építtetői fedezetkezelés alkalmazásának eseteit, az építtetői fedezetkezelést végzők körét, működésük személyi és tárgyi feltételeit, az építtetői fedezetkezelés résztvevői jogait és kötelezettségeit, az eljárás szabályait, a fedezetkezelő megbízásának, feladatellátásának, díjának és a fedezetkezelői számla kezelésének szabályait,
 
 p) a településtervezők, az építészeti-műszaki tervezők, az építésügyi műszaki szakértők, a tervellenőrök, az építési műszaki ellenőrök, a felelős műszaki vezetők és az építésügyi, építésfelügyeleti hatósági ügyintézők, az építésügyi igazgatási szakértők, beruházáslebonyolítók, az energetikai tanúsítók szakmai továbbképzésének részletes szabályait,
 
@@ -54,6 +54,16 @@ z) a településfejlesztési terv tartalmi követelményeire vonatkozó részlet
 
 rendelettel állapítsa meg.
 
+(1a) Felhatalmazást kap a Kormány, hogy
+
+a) a 300 m2-nél nagyobb alapterületű kereskedelmi építményekre a fenntartható kereskedelemmel összefüggő építésügyi és környezetvédelmi, valamint kereskedelmi követelményeket,
+
+b) az 53/F. § (2) bekezdésében meghatározott Bizottság összetételét és működését, továbbá
+
+c) az 53/F. § (3) bekezdése szerinti felmentés iránti eljárás sajátos szabályait
+
+rendeletben állapítsa meg.
+
 (2) Felhatalmazást kap a miniszter arra, hogy
 
 a) a telekalakítási és építési tilalom elrendelése, továbbá a cseretelekadás részletes szakmai szabályait,
@@ -74,7 +84,7 @@ i) az építésügyi hatósági eljáráshoz kötött építési tevékenységek
 
 j)
 
-k) a Világörökség Magyar Nemzeti Bizottsága működésének rendjét,
+k)
 
 l) a helyi építészeti örökség védelmének szakmai szabályait,
 
@@ -86,7 +96,7 @@ p)
 
 q) a településszerkezeti tervek, a helyi építési szabályzatok és a szabályozási tervek tartalmi követelményeire vonatkozó részletes szabályokat – az érdekelt miniszterekkel egyetértésben –,
 
-r) az építési célelőirányzat kezelésének, felhasználásának szabályait,
+r)
 
 s) az igazgatási eljárásokban alkalmazandó telekár számításának szabályait,
 

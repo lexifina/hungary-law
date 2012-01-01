@@ -6,6 +6,6 @@
 
 (3) A nemzetközi építészeti örökség – a ,,Világörökség jegyzék''-ben nyilvántartott – kiemelkedő, egyetemes értékű elemeit a vonatkozó nemzetközi egyezményeknek is megfelelően kell fenntartani, megőrizni, használni és bemutatni.
 
-(4) A Kormány a világörökséggel kapcsolatos feladatait a kultúráért felelős miniszter útján, az általa – a miniszterrel és a környezetvédelemért felelős miniszterrel egyetértésben – létrehozott és működtetett Világörökség Magyar Nemzeti Bizottsága közreműködésével látja el.
+(4)
 
 (5) Az országos építészeti örökség – a műemléki, természetvédelmi és egyéb védettséget tartalmazó nyilvántartásba vett – kiemelkedő, nemzeti értékű elemeire vonatkozó részletes szabályokat külön törvények állapítják meg.

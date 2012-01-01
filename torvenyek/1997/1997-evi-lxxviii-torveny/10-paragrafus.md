@@ -6,4 +6,4 @@
 
 (3) A településszerkezeti tervet a 9. § rendelkezésein túlmenően a megyei, a szomszédos települési (a fővárossal szomszédos települések esetében a fővárosi és az érintett – határos – fővárosi kerületi) önkormányzatokkal is véleményeztetni kell. A főváros településszerkezeti tervét a kerületi önkormányzatokkal is véleményeztetni kell.
 
-(4) A településszerkezeti terv esetében az előzetes véleményt kérő dokumentációnak a 9. § (2) bekezdésében előírtakon túlmenően tartalmaznia kell a szerkezeti terv módosítása esetén az azt szükségessé tévő településfejlesztési döntést, valamint tájékoztatásul az elfogadott településfejlesztési koncepciót is.
+(4) A településszerkezeti terv esetében az előzetes véleményt kérő dokumentációnak a 9. § (2) bekezdésében előírtakon túlmenően tartalmaznia kell a szerkezeti terv módosítása esetén az azt szükségessé tévő településfejlesztési döntést, valamint tájékoztatásul az elfogadott településfejlesztési koncepciót is, kivéve a 9/D. § esetében a településszerkezeti terv módosítását, amelynél a vonatkozó kormányhatározatot kell mellékelni.
