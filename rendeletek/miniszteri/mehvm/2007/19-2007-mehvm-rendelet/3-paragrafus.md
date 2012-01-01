@@ -1,6 +1,6 @@
 ## Az előirányzatok felhasználásának általános céljai
 
-3. § (1)[^19] Az NFÜ által felügyelt Regionális Fejlesztés Operatív Programok céljai a következők:
+3. § (1)[^20] Az NFÜ által felügyelt Regionális Fejlesztés Operatív Programok céljai a következők:
 
 a) A regionális versenyképesség javítása, az ipar modernizációjának gyorsítása, a magas hozzáadott értékű beruházások ösztönzése, a környezeti terhelés csökkentése;
 
@@ -40,7 +40,7 @@ r) A vállalatok közötti elektronikus kapcsolatok, illetve a vállalkozások b
 
 s) Mikro- és kisvállalkozás fejlődését gátló piaci elégtelenségek közül a piaci hitel-, tőke- és garanciaforrásokhoz való hozzáférés elősegítése.
 
-(2)[^20] Az EUMSz 107. cikk (1) bekezdésének hatálya alá tartozó, e rendelet által szabályozott támogatások a 3–25/A. § alapján nyújthatók.
+(2)[^21] Az EUMSz 107. cikk (1) bekezdésének hatálya alá tartozó, e rendelet által szabályozott támogatások a 3–25/A. § alapján nyújthatók.
 
-[^19]: A 3. § (1) bekezdés nyitó szövegrésze a 85/2011. (XII. 29.) NFM rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^20]: A 3. § (2) bekezdése a 7/2009. (IV. 2.) NFGM rendelet 3. §-ával megállapított, a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^20]: A 3. § (1) bekezdés nyitó szövegrésze a 85/2011. (XII. 29.) NFM rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^21]: A 3. § (2) bekezdése a 7/2009. (IV. 2.) NFGM rendelet 3. §-ával megállapított, a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.

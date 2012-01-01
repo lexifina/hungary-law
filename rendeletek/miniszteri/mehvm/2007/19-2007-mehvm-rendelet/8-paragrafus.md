@@ -1,8 +1,8 @@
-## A REGIONÁLIS BERUHÁZÁSI TÁMOGATÁSOKRA VONATKOZÓ SZABÁLYOK[^23]
+## A REGIONÁLIS BERUHÁZÁSI TÁMOGATÁSOKRA VONATKOZÓ SZABÁLYOK[^25]
 
 ## A támogatás célja
 
-8. §[^24] (1) E rendelet alapján regionális beruházási támogatás csak abban az esetben nyújtható, ha a beruházás költségei az alábbi költségekből tevődnek össze:
+8. §[^26] (1) E rendelet alapján regionális beruházási támogatás csak abban az esetben nyújtható, ha a beruházás költségei az alábbi költségekből tevődnek össze:
 
 a) tárgyi eszközbe vagy immateriális javakba történő beruházás, amely új létesítmény létrehozásához, meglévő létesítmény bővítéséhez, egy létesítmény termelésének további új termékekkel történő diverzifikációjához vagy egy meglévő létesítmény termelési folyamatának alapvető megváltoztatásához kapcsolódik, vagy
 
@@ -10,7 +10,7 @@ b) egy létesítményhez közvetlenül kapcsolódó befektetett eszközök besze
 
 (2) A támogatási intenzitást a tárgyi eszközökbe és immateriális javakba történő beruházás elszámolható költségeinek hányadaként, közvetlenül a beruházási projekttel létrehozott munkahelyek esetén az új munkavállaló két éves becsült bérköltségének hányadaként, vagy e fenti két módszer együttes alkalmazásával kell kiszámítani, feltéve, hogy a támogatás nem lépi túl a kétfajta számítás alkalmazásából eredő kedvezőbb értéket.
 
-(3)[^25] Az egyes azonos elszámolható költségekkel rendelkező projektek támogatási intenzitása nem haladhatja meg az Atr. 25. § (1) bekezdésében meghatározott mértékeket.
+(3)[^27] Az egyes azonos elszámolható költségekkel rendelkező projektek támogatási intenzitása nem haladhatja meg az Atr. 25. § (1) bekezdésében meghatározott mértékeket.
 
 (4) Nagyberuházás esetén a támogatási intenzitás a (3) bekezdés alapján meghatározott támogatási intenzitás
 
@@ -28,14 +28,14 @@ b) középvállalkozásnak minősül, akkor – szállítási ágazat és nagybe
 
 (6) A mezőgazdasági termékek feldolgozásához, illetve forgalmazásához kapcsolódó beruházások esetén a maximális támogatási intenzitások az alábbiak:
 
-a)[^26] ha a kedvezményezett KKV, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 50%, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 40%,
+a)[^28] ha a kedvezményezett KKV, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 50%, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében pedig 40%,
 
-b)[^27] ha a kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb mint 750 fő, és árbevétele kevesebb mint 200 millió eurónak megfelelő forintösszeg, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 25%, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében 20%.
+b)[^29] ha a kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb mint 750 fő, és árbevétele kevesebb mint 200 millió eurónak megfelelő forintösszeg, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 25%, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében 20%.
 
 (7) Ha egy vállalkozás a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás alapján részesül támogatásnak minősülő kockázatitőke-juttatásban, a tőkejuttatástól számított három éven belül – a nyújtott tőke összegéig – az adott vállalkozásnak e rendelet alapján megítélt beruházási támogatás intenzitását 20%-kal csökkenteni kell.
 
-[^23]: A 8. §-t megelőző cím a 7/2009. (IV. 2.) NFGM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^24]: A 8. § a 7/2009. (IV. 2.) NFGM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^25]: A 8. § (3) bekezdése a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.
-[^26]: A 8. § (6) bekezdés a) pontja a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.
-[^27]: A 8. § (6) bekezdés b) pontja a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^25]: A 8. §-t megelőző cím a 7/2009. (IV. 2.) NFGM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^26]: A 8. § a 7/2009. (IV. 2.) NFGM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^27]: A 8. § (3) bekezdése a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^28]: A 8. § (6) bekezdés a) pontja a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^29]: A 8. § (6) bekezdés b) pontja a 85/2011. (XII. 29.) NFM rendelet 9. §-a szerint módosított szöveg.

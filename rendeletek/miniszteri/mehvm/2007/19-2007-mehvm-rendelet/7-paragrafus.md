@@ -1,6 +1,6 @@
 ## Támogatási kategóriák
 
-## 7. §[^22] A 4. §
+## 7. §[^23] A 4. §
 
 a) 1–11., 13–21., 23., 26–27., 32–33. pontjában megjelölt jogcímek alapján regionális beruházási és foglalkoztatási támogatás (a továbbiakban: regionális beruházási támogatás) nyújtható;
 
@@ -18,10 +18,11 @@ g) 29. és 34. pontjában megjelölt jogcímek alapján újonnan létrehozott ki
 
 h) 31. pontjában megjelölt jogcím alapján az energia-megtakarítási intézkedésekhez környezetvédelmi beruházási támogatás nyújtható;
 
-i) 1–35. pontjában megjelölt jogcímek alapján pénzügyi válság kapcsán nyújtandó átmeneti támogatás (a továbbiakban: átmeneti támogatás) nyújtható;
+i)[^24]
 
 j) 36. pontjában megjelölt jogcím alapján közszolgáltatások ellentételezésére és fejlesztésére támogatás nyújtható;
 
 k) 35. pontja alapján kockázati tőke formájában támogatás nyújtható.
 
-[^22]: A 7. § a 85/2011. (XII. 29.) NFM rendelet 3. §-ával megállapított szöveg.
+[^23]: A 7. § a 85/2011. (XII. 29.) NFM rendelet 3. §-ával megállapított szöveg.
+[^24]: A 7. § i) pontját a 85/2011. (XII. 29.) NFM rendelet 10. § (2) bekezdése hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## A támogatások előirányzatok szerinti jogcímei
 
-## 4. §[^21] A Regionális Fejlesztés Operatív Programok forrásai a következő jogcímeken használhatók fel:
+## 4. §[^22] A Regionális Fejlesztés Operatív Programok forrásai a következő jogcímeken használhatók fel:
 
 1. Régészeti lelőhelyek, értékek feltárása, műemlékvédelem alatt álló ingatlanok, kastélyok, várak, múzeumok helyreállítása, értékőrző megújítása, látogatóbarát fejlesztése;
 
@@ -74,4 +74,4 @@
 
 36. Közszolgáltatások fejlesztése.
 
-[^21]: A 4. § a 85/2011. (XII. 29.) NFM rendelet 2. §-ával megállapított szöveg.
+[^22]: A 4. § a 85/2011. (XII. 29.) NFM rendelet 2. §-ával megállapított szöveg.

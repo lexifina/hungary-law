@@ -1,6 +1,8 @@
-## KOCKÁZATI TŐKE FORMÁJÁBAN NYÚJTOTT TÁMOGATÁSOKRA VONATKOZÓ SZABÁLYOK[^68]
+## 22/A–22/B. §[^65]
 
-22/C. §[^69] (1) A 7. § k) pontja alapján a (2)–(7) bekezdésben szereplő feltételek teljesülése esetén nyújtható támogatás.
+## KOCKÁZATI TŐKE FORMÁJÁBAN NYÚJTOTT TÁMOGATÁSOKRA VONATKOZÓ SZABÁLYOK[^66]
+
+22/C. §[^67] (1) A 7. § k) pontja alapján a (2)–(7) bekezdésben szereplő feltételek teljesülése esetén nyújtható támogatás.
 
 (2) A befektetési alap által nyújtandó beruházási részösszegek bármely tizenkét hónap alatt vállalkozásonként nem haladhatják meg a 1,5 millió eurónak megfelelő forintösszeget.
 
@@ -26,5 +28,6 @@ c) a magánbefektetők képviseltetik magukat a döntéshozatalban és
 
 d) az alapkezelés a legjobb gyakorlatok alkalmazásával és prudenciális felügyelet mellett zajlik.
 
-[^68]: A 22/C. §-t megelőző alcímet a 85/2011. (XII. 29.) NFM rendelet 6. §-a iktatta be.
-[^69]: A 22/C. §-t a 85/2011. (XII. 29.) NFM rendelet 6. §-a iktatta be.
+[^65]: A 22/A–22/B. §-t és a 22/A. §-t megelőző alcímet a 17/2009. (VII. 22.) NFGM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 85/2011. (XII. 29.) NFM rendelet 10. § (2) bekezdése.
+[^66]: A 22/C. §-t megelőző alcímet a 85/2011. (XII. 29.) NFM rendelet 6. §-a iktatta be.
+[^67]: A 22/C. §-t a 85/2011. (XII. 29.) NFM rendelet 6. §-a iktatta be.

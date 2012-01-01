@@ -1,4 +1,4 @@
-25/B. §[^83] (1) A támogatott projekt megkezdése időpontjának a következő időpont minősül:
+25/B. §[^81] (1) A támogatott projekt megkezdése időpontjának a következő időpont minősül:
 
 a) építési beruházási tevékenységet tartalmazó projekt esetén a kivitelezői (vállalkozási) szerződés hatályba lépésének napja, függetlenül a szerződés létrejöttének napjától, érvényességétől,
 
@@ -28,4 +28,4 @@ f) a településfejlesztési felhívások esetén a közvetett támogatás form�
 
 (3) A projekt-előkészítési tevékenység nem jelenti a projekt megkezdését.
 
-[^83]: A 25/B. §-t a 85/2011. (XII. 29.) NFM rendelet 7. §-a iktatta be.
+[^81]: A 25/B. §-t a 85/2011. (XII. 29.) NFM rendelet 7. §-a iktatta be.

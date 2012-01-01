@@ -1,8 +1,8 @@
-## 12. §[^35] A támogatások átláthatóságának növelése céljából e rendelet regionális beruházási támogatásokra vonatkozó előírásait, a támogatási programot közzé kell tenni az NFÜ honlapján. A támogatási programot nem lehet az interneten való közzététel előtt elindítani.
+## 12. §[^37] A támogatások átláthatóságának növelése céljából e rendelet regionális beruházási támogatásokra vonatkozó előírásait, a támogatási programot közzé kell tenni az NFÜ honlapján. A támogatási programot nem lehet az interneten való közzététel előtt elindítani.
 
-## Az energia-megtakarítási intézkedéshez nyújtott környezetvédelmi beruházási támogatás[^36]
+## Az energia-megtakarítási intézkedéshez nyújtott környezetvédelmi beruházási támogatás[^38]
 
-13. §[^37] (1) Energia-megtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatást a (2)–(3) bekezdésben vagy a (4)–(6) bekezdésben rögzített feltételek alapján lehet nyújtani.
+13. §[^39] (1) Energia-megtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatást a (2)–(3) bekezdésben vagy a (4)–(6) bekezdésben rögzített feltételek alapján lehet nyújtani.
 
 (2) A támogatási intenzitás nem haladhatja meg a támogatható költségek 60%-át. A támogatási intenzitás 20%-kal növelhető a kisvállalkozásoknak, illetve 10%-kal a középvállalkozásoknak nyújtott támogatások esetén.
 
@@ -18,6 +18,6 @@ b) minden más esetben úgy kell megállapítani a beruházás többletköltség
 
 (6) A támogatható beruházást tárgyi eszközökbe, illetve immateriális javakba történő beruházás formájában kell megvalósítani, a működési előnyöket és a működési költségeket figyelmen kívül kell hagyni.
 
-[^35]: A 12. § a 7/2009. (IV. 2.) NFGM rendelet 9. §-ával megállapított szöveg.
-[^36]: A 13. §-t megelőző alcím a 7/2009. (IV. 2.) NFGM rendelet 10. §-ával megállapított szöveg.
-[^37]: A 13. § a 7/2009. (IV. 2.) NFGM rendelet 10. §-ával megállapított szöveg.
+[^37]: A 12. § a 7/2009. (IV. 2.) NFGM rendelet 9. §-ával megállapított szöveg.
+[^38]: A 13. §-t megelőző alcím a 7/2009. (IV. 2.) NFGM rendelet 10. §-ával megállapított szöveg.
+[^39]: A 13. § a 7/2009. (IV. 2.) NFGM rendelet 10. §-ával megállapított szöveg.
