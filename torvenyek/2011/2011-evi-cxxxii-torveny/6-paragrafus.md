@@ -1,1 +1,1 @@
-6–9. §
+6. § Az FT képviselőjét a szenátus és a kari tanács ülésére tanácskozási joggal meg kell hívni.

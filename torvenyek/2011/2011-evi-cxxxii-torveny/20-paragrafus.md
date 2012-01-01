@@ -1,0 +1,1 @@
+20. § A rektor köteles a képzési program honvédelemmel kapcsolatos katonai-szakmai követelményei vonatkozásában a Honvéd Vezérkar főnöke, a rendészeti ágazat rendészeti szakmai követelményei vonatkozásában az érintett országos parancsnok egyetértését beszerezni.

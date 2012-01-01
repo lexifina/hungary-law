@@ -1,0 +1,5 @@
+31. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató, valamint a doktori képzésben részt vevő hivatásos vagy szerződéses állományú hallgató külföldi tanulmányokat a Honvéd Vezérkar főnökének engedélyével folytathat. A honvédtiszti alap- és mesterképzésben részt vevő hallgató esetében vendéghallgatói és további (párhuzamos) hallgatói jogviszony létesítéséhez, valamint a további szakképesítés, illetve szakképzettség megszerzéséhez szükséges tanulmányok folytatásához a Honvéd Vezérkar főnökének előzetes engedélye szükséges.
+
+(2) A rendészeti felsőoktatási alap-, mester- és doktori képzésben részt vevő hivatásos állományú hallgató külföldi tanulmányokat, résztanulmányokat az adott rendvédelmi szerv országos parancsnokának előzetes engedélyével folytathat. Vendéghallgatói jogviszonyt, illetve további (párhuzamos) hallgatói jogviszonyt az adott rendvédelmi szerv országos parancsnokának előzetes engedélyével létesíthet.
+
+(3) Az (1) és (2) bekezdésben foglalt engedély megtagadását indokolni kell.

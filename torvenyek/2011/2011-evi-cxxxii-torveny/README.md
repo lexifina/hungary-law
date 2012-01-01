@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-132-00-00
 | 2011-10-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-132-00-00.1 |
 | 2011-10-19 | 2010. évi CXXX. törvény | 2011-132-00-00.2 |
 | 2011-10-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-132-00-00.3 |
+| 2012-01-01 | 2011. évi CXCII. törvény | 2011-132-00-00.4 |
