@@ -1,4 +1,4 @@
-## 23. §[^83] Alapképzésre, egységes, osztatlan képzésre csak az a jelentkező vehető fel, akinek az emelt szintű érettségiért járó többletpontokkal együtt, de más jogcímen adható többletpontok nélkül számított pontszáma eléri a 200 pontot.
+## 23. §[^83] Alapképzésre, egységes, osztatlan képzésre csak az a jelentkező vehető fel, akinek az emelt szintű érettségiért járó többletpontokkal együtt, de más jogcímen adható többletpontok nélkül számított pontszáma eléri a 240 pontot.
 
 ## Pontszámítás a felsőfokú szakképzésre történő jelentkezés esetén[^84]
 
@@ -20,7 +20,7 @@ c) az érettségi pontok kétszerezésével,
 
 (5)[^87] Felsőfokú szakképzésre csak az a jelentkező vehető fel, akinek az emelt szintű érettségiért járó többletpontokkal együtt, de a más jogcímen adható többletpontok nélkül számított pontszáma eléri a 140 pontot.
 
-[^83]: A 23. § a 308/2008. (XII. 20.) Korm. rendelet 9. §-ával megállapított szöveg. [A 23. §-nak a 117/2010. (IV. 16.) Korm. rendelet 3. §-ával megállapított, az 5. § alapján 2012. január 1-jétől hatályos szövege: „23. § Alapképzésre, egységes, osztatlan képzésre csak az a jelentkező vehető fel, akinek az emelt szintű érettségiért járó többletpontokkal együtt, de más jogcímen adható többletpontok nélkül számított pontszáma eléri a 240 pontot.”.]
+[^83]: A 23. § a 117/2010. (IV. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^84]: A 24. §-t megelőző alcíme e rendelet 46. § (3) bekezdése iktatta be.
 [^85]: A 24. § e rendelet 46. § (3) bekezdésével megállapított szöveg.
 [^86]: A 24. § új (4) bekezdését a 198/2008. (VIII. 4.) Korm. rendelet 11. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva. E módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

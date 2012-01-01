@@ -38,13 +38,13 @@
 
 | közgazdaság | gazdaságtudományok |
 
-| ügyvitel | bölcsészettudomány, gazdaságtudományok, jogi és igazgatási |
+| ügyvitel | bölcsészettudomány, gazdaságtudományok, jogi |
 
 | kereskedelem-marketing, üzleti adminisztráció (kereskedelem, marketing, üzleti adminisztráció, menedzselés, nem gazdasági ügyintézés, szervezés) | gazdaságtudományok |
 
 | vendéglátás-idegenforgalom (vendéglátás, idegenforgalom, turizmus) | gazdaságtudományok |
 
-| egyéb szolgáltatások (személyi, biztonsági, polgári védelmi, rendészeti szolgáltatások, honvédelem, tűzvédelem, munkavédelem, kis- és kézművesipar) | nemzetvédelmi és katonai |
+| egyéb szolgáltatások (személyi, biztonsági, polgári védelmi, rendészeti szolgáltatások, honvédelem, tűzvédelem, munkavédelem, kis- és kézművesipar) | közigazgatási, rendészeti és katonai |
 
 | mezőgazdaság (növénytermesztés, kertészet, állattenyésztés, erdészet, vadászat, halászat, térképészet) | agrár |
 
@@ -60,7 +60,7 @@
 
 | adatelemző | informatika |
 
-| adóigazgatási szakügyintéző | gazdaságtudományok jogi és igazgatási |
+| adóigazgatási szakügyintéző | gazdaságtudományok jogi |
 
 | adózási szakellenőr | gazdaságtudományok |
 
@@ -120,7 +120,7 @@
 
 | biotechnológus technikus | műszaki, természettudományok |
 
-| biztonságszervező i. | nemzetvédelmi és katonai |
+| biztonságszervező i. | közigazgatási, rendészeti és katonai |
 
 | biztosítási tanácsadó | gazdaságtudományok |
 
@@ -212,7 +212,7 @@
 
 | élelmiszerminősítő laboratóriumi technikus | műszaki, természettudományok |
 
-| emberi erőforrás ügyfélkapcsolati szakügyintéző | bölcsészettudományok, gazdaságtudományok jogi és igazgatási |
+| emberi erőforrás ügyfélkapcsolati szakügyintéző | bölcsészettudományok, gazdaságtudományok jogi |
 
 | endoszkópos szakasszisztens | orvos- és egészségtudomány |
 
@@ -288,7 +288,7 @@
 
 | gazdálkodási menedzserasszisztens | gazdaságtudomány |
 
-| gazdasági idegen nyelvű menedzser | bölcsészettudomány társadalomtudomány gazdaságtudományok jogi- és igazgatási |
+| gazdasági idegen nyelvű menedzser | bölcsészettudomány társadalomtudomány gazdaságtudományok jogi |
 
 | gazdasági informatikus | informatika |
 
@@ -310,7 +310,7 @@
 
 | gombatoxikológus | műszaki, természettudományok |
 
-| grafológus | nemzetvédelmi és katonai |
+| grafológus | közigazgatási, rendészeti és katonai |
 
 | gyakorlati oktató | pedagógusképzés |
 
@@ -358,7 +358,7 @@
 
 | hisztokémiai, immunhisztokémiai szakasszisztens | orvos- és egészségtudomány |
 
-| honvéd zászlós (az ágazat megjelölésével) 3 | nemzetvédelmi és katonai |
+| honvéd zászlós (az ágazat megjelölésével) 3 | közigazgatási, rendészeti és katonai |
 
 | hospice szakápoló | orvos- és egészségtudomány |
 
@@ -370,7 +370,7 @@
 
 | hús- és baromfiipari technikus | agrár |
 
-| idegen nyelvi titkár | bölcsészettudományok, gazdaságtudományok jogi és igazgatási |
+| idegen nyelvi titkár | bölcsészettudományok, gazdaságtudományok jogi |
 
 | idegenforgalmi szakmenedzser | gazdaságtudományok |
 
@@ -406,11 +406,11 @@
 
 | ipari informatikai technikus | informatika |
 
-| iskolatitkár | bölcsészettudományok, gazdaságtudományok jogi és igazgatási |
+| iskolatitkár | bölcsészettudományok, gazdaságtudományok jogi |
 
 | it biztonság technikus | informatika |
 
-| it helpdesk ügyfélkapcsolati szakügyintéző | bölcsészettudományok, gazdaságtudományok jogi és igazgatási |
+| it helpdesk ügyfélkapcsolati szakügyintéző | bölcsészettudományok, gazdaságtudományok jogi |
 
 | it kereskedő | informatika |
 
@@ -420,7 +420,7 @@
 
 | jazz-zenész (a hangszer megjelölésével) | művészet, művészetközvetítés, társadalomtudomány |
 
-| jogi asszisztens | jogi- és igazgatási |
+| jogi asszisztens | jogi |
 
 | kántor-énekvezető | művészet, művészetközvetítés, társadalomtudomány |
 
@@ -432,7 +432,7 @@
 
 | kataszteri szaktechnikus | agrár |
 
-| katasztrófavédelmi és polgári védelmi főelőadó | nemzetvédelmi és katonai |
+| katasztrófavédelmi és polgári védelmi főelőadó | közigazgatási, rendészeti és katonai |
 
 | kémiai laboratóriumi szakasszisztens | orvos- és egészségtudomány |
 
@@ -764,7 +764,7 @@
 
 | távközlési informatikus | informatika |
 
-| távközlési ügyfélkapcsolati szakügyintéző | bölcsészettudományok, gazdaságtudományok jogi és igazgatási |
+| távközlési ügyfélkapcsolati szakügyintéző | bölcsészettudományok, gazdaságtudományok jogi |
 
 | tejipari technikus | agrár |
 
@@ -796,9 +796,9 @@
 
 | titkárságvezető | gazdaságtudományok, bölcsészettudomány, társadalomtudomány |
 
-| tűzoltó technikus | nemzetvédelmi és katonai, műszaki |
+| tűzoltó technikus | közigazgatási, rendészeti és katonai, műszaki |
 
-| tűzvédelmi főelőadó | nemzetvédelmi és katonai, műszaki |
+| tűzvédelmi főelőadó | közigazgatási, rendészeti és katonai, műszaki |
 
 | újságíró | művészet, művészetközvetítés, társadalomtudomány |
 
@@ -810,13 +810,13 @@
 
 | utómunka szakasszisztens | művészet, művészetközvetítés, társadalomtudomány |
 
-| ügyfélkapcsolati vezető | bölcsészettudományok, gazdaságtudományok jogi és igazgatási |
+| ügyfélkapcsolati vezető | bölcsészettudományok, gazdaságtudományok jogi |
 
-| ügyintéző titkár | bölcsészettudományok, gazdaságtudományok jogi és igazgatási |
+| ügyintéző titkár | bölcsészettudományok, gazdaságtudományok jogi |
 
 | üvegműves | művészet, művészetközvetítés, társadalomtudomány |
 
-| üzleti kommunikációs szakügyintéző | bölcsészettudományok, gazdaságtudományok jogi és igazgatási |
+| üzleti kommunikációs szakügyintéző | bölcsészettudományok, gazdaságtudományok jogi |
 
 | üzletviteli szakmenedzser | gazdaságtudományok |
 
@@ -882,7 +882,7 @@
 
 | minden más szakképzés | az Oktatási Hivatal döntése szerint |
 
-3. számú melléklet a 237/2006. (XI. 27.) Korm. rendelethez[^133]
+3. számú melléklet a 237/2006. (XI. 27.) Korm. rendelethez[^131]
 
 A felvételi eljárás során figyelembe vehető érettségi vizsgatárgyak
 
@@ -898,9 +898,9 @@ a) a kötelező érettségi vizsgatárgyak
 
 – magyar nyelven, illetve a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett matematika
 
-–[^134] az élő idegen nyelv vizsgatárgy esetében az angol, német, francia, olasz, orosz, spanyol nyelvekből, valamint a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 42. §-a szerinti kisebbségek által használt nyelvként elismert nyelvből tett vizsga, amennyiben az adott idegen nyelvből az érettségi vizsga szabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 12. § (1) bekezdése alapján érettségi vizsga tehető;
+–[^132] az élő idegen nyelv vizsgatárgy esetében az angol, német, francia, olasz, orosz, spanyol nyelvekből, valamint a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 42. §-a szerinti kisebbségek által használt nyelvként elismert nyelvből tett vizsga, amennyiben az adott idegen nyelvből az érettségi vizsga szabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 12. § (1) bekezdése alapján érettségi vizsga tehető;
 
-b)[^135] a választható közismereti vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
+b)[^133] a választható közismereti vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
 – fizika
 
@@ -926,7 +926,7 @@ b)[^135] a választható közismereti vizsgatárgyak közül a magyar nyelven, a
 
 – latin nyelv;
 
-c)[^136] a választható szakmai előkészítő vizsgatárgyak magyar nyelvű vizsgáztatás esetén
+c)[^134] a választható szakmai előkészítő vizsgatárgyak magyar nyelvű vizsgáztatás esetén
 
 – egészségügyi alapismeretek
 
@@ -952,7 +952,7 @@ c)[^136] a választható szakmai előkészítő vizsgatárgyak magyar nyelvű vi
 
 – vendéglátó-idegenforgalmi alapismeretek.
 
-[^133]: A 3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 251. pontja hatályon kívül helyezte, újonnan a 98/2009. (IV. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be. [A 4. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 11. §-a iktatta be, a 28. § (3) bekezdése alapján a módosítás 2013. január 1-jén lép hatályba.]
-[^134]: A 3. számú melléklet a) pont hatodik franciabekezdése a 39/2011. (III. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^135]: A 3. számú melléklet b) pontja a 39/2011. (III. 22.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^136]: A 3. számú melléklet c) pontjának „közgazdasági alapismeretek” szövegrész helyébe a „közgazdasági alapismeretek (üzleti gazdaságtan), közgazdasági alapismeretek (elméleti gazdaságtan)” szöveg, a „közgazdasági- marketing alapismeretek” szövegrész helyébe „kereskedelmi és marketing alapismeretek” szöveg, a „közlekedési alapismeretek” szövegrész helyébe „közlekedési alapismeretek (közlekedéstechnika), közlekedési alapismeretek (közlekedés-üzemvitel)” szöveg, a „vendéglátó-idegenforgalmi alapismeretek” szövegrész helyébe „vendéglátás-idegenforgalom” alapismeretek” szöveg lép a 39/2011. (III. 22.) Korm. rendelet 10. § (3) bekezdése alapján. [E módosító rendelet 28. § (5) bekezdése alapján 2012. április 1-jén lép hatályba.]
+[^131]: A 3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 251. pontja hatályon kívül helyezte, újonnan a 98/2009. (IV. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be. [A 4. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 11. §-a iktatta be, a 28. § (3) bekezdése alapján a módosítás 2013. január 1-jén lép hatályba.]
+[^132]: A 3. számú melléklet a) pont hatodik franciabekezdése a 39/2011. (III. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^133]: A 3. számú melléklet b) pontja a 39/2011. (III. 22.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^134]: A 3. számú melléklet c) pontjának „közgazdasági alapismeretek” szövegrész helyébe a „közgazdasági alapismeretek (üzleti gazdaságtan), közgazdasági alapismeretek (elméleti gazdaságtan)” szöveg, a „közgazdasági- marketing alapismeretek” szövegrész helyébe „kereskedelmi és marketing alapismeretek” szöveg, a „közlekedési alapismeretek” szövegrész helyébe „közlekedési alapismeretek (közlekedéstechnika), közlekedési alapismeretek (közlekedés-üzemvitel)” szöveg, a „vendéglátó-idegenforgalmi alapismeretek” szövegrész helyébe „vendéglátás-idegenforgalom” alapismeretek” szöveg lép a 39/2011. (III. 22.) Korm. rendelet 10. § (3) bekezdése alapján. [E módosító rendelet 28. § (5) bekezdése alapján 2012. április 1-jén lép hatályba.]

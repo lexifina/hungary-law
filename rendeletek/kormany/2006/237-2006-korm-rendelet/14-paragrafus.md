@@ -20,7 +20,7 @@ a) a középiskolai osztályzatai és az érettségi vizsgákon elért százalé
 
 b) a jelentkezés feltételéül meghatározott érettségi vizsgaeredményei alapján legfeljebb 200 érettségi pontot,
 
-c)[^56] az emelt szinten teljesített érettségiért legfeljebb 80 érettségi többletpontot,
+c)[^56] az emelt szinten teljesített érettségiért legfeljebb 100 érettségi többletpontot,
 
 d) egyéb többletteljesítményért a 19–20. §-okban meghatározott többletpontokat,
 
@@ -28,10 +28,10 @@ e)[^57] a 22. § (1)–(4) pontjaiban meghatározottak alapján legfeljebb 40 t�
 
 ## szerezhet.
 
-(4)[^58] A (3) bekezdés c)–e) pontjai alapján adható többletpontok összege legfeljebb 80 pont lehet. A jelentkező abban az esetben is csak 80 pontra jogosult, ha a különböző jogcímek alapján elért többletpontjainak összege ezt meghaladná.
+(4)[^58] A (3) bekezdés c)–e) pontjai alapján adható többletpontok összege legfeljebb 100 pont lehet. A jelentkező abban az esetben is csak 100 pontra jogosult, ha a különböző jogcímek alapján elért többletpontjainak az összege ezt meghaladná.
 
 [^54]: A 13/A. §-t a 198/2008. (VIII. 4.) Korm. rendelet 6. §-a iktatta be, szövege a 39/2011. (III. 22.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^55]: A 14. § e rendelet 46. § (3) bekezdésével megállapított szöveg.
-[^56]: [A 14. § (3) bekezdés c) pontjának a 117/2010. (IV. 16.) Korm. rendelet 1. § (1) bekezdésével megállapított, az 5. § alapján 2012. január 1-jétől hatályos szövege: „c) az emelt szinten teljesített érettségiért legfeljebb 100 érettségi többletpontot,”.]
+[^56]: A 14. § (3) bekezdés c) pontja a 117/2010. (IV. 16.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^57]: A 14. § (3) bekezdés e) pontja a 39/2011. (III. 22.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^58]: [A 14. § (4) bekezdésének a 117/2010. (IV. 16.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 5. § alapján 2012. január 1-jétől hatályos szövege: „(4) A (3) bekezdés c)–e) pontjai alapján adható többletpontok összege legfeljebb 100 pont lehet. A jelentkező abban az esetben is csak 100 pontra jogosult, ha a különböző jogcímek alapján elért többletpontjainak az összege ezt meghaladná.”.]
+[^58]: A 14. § (4) bekezdése a 117/2010. (IV. 16.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
