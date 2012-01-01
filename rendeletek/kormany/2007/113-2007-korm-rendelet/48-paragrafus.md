@@ -1,15 +1,15 @@
 48. § (1) A Tv. 38. § (1) bekezdés szerinti önálló beutazási és tartózkodási tilalom elrendelésének szükségességéről a külpolitikáért felelős miniszter tájékoztatja a Hivatalt.
 
-(2)[^68] Az önálló beutazási és tartózkodási tilalom, valamint az idegenrendészeti kiutasítás elrendelésére – a (2a) bekezdésben foglalt kivétellel – a regionális igazgatóság jogosult.
+(2)[^81] Az önálló beutazási és tartózkodási tilalom, valamint az idegenrendészeti kiutasítás elrendelésére – a (2a) bekezdésben foglalt kivétellel – a regionális igazgatóság jogosult.
 
-(2a)[^69] A Tv. 38. § (1) bekezdésében meghatározott esetben az önálló beutazási és tartózkodási tilalom elrendelésére a Hivatal jogosult.
+(2a)[^82] A Tv. 38. § (1) bekezdésében meghatározott esetben az önálló beutazási és tartózkodási tilalom elrendelésére a Hivatal jogosult.
 
 (3) Idegenrendészeti kiutasítás a Tv. 40. § (1) bekezdése alapján kizárólag a közegészségügyi hatóság kezdeményezésére rendelhető el.
 
-(3a)[^70] Idegenrendészeti kiutasítás a Tv. 40. § (2) bekezdés c) pontja alapján az Alkotmányvédelmi Hivatal vagy a Terrorelhárítási Központ kezdeményezésére is elrendelhető.
+(3a)[^83] Idegenrendészeti kiutasítás a Tv. 40. § (2) bekezdés c) pontja alapján az Alkotmányvédelmi Hivatal vagy a Terrorelhárítási Központ kezdeményezésére is elrendelhető.
 
 (4) Az idegenrendészeti kiutasítás végrehajtását követő harminc napon belül a személyi azonosítót és a lakcímet igazoló hatósági igazolványt a személy- és lakcímnyilvántartás központi szervének kell megküldeni.
 
-[^68]: A 48. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^69]: A 48. § (2a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 19. § (2) bekezdése iktatta be.
-[^70]: A 48. § (3a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^81]: A 48. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^82]: A 48. § (2a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^83]: A 48. § (3a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 19. § (3) bekezdése iktatta be.

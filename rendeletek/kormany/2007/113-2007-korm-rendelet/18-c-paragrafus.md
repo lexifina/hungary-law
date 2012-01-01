@@ -1,4 +1,4 @@
-18/C. §[^31] (1) A kishatárforgalmi engedély kiadását meg kell tagadni, illetve a kiadott kishatárforgalmi engedélyt vissza kell vonni, ha a kérelmező vagy a kiadott kishatárforgalmi engedély jogosultja
+18/C. §[^37] (1) A kishatárforgalmi engedély kiadását meg kell tagadni, illetve a kiadott kishatárforgalmi engedélyt vissza kell vonni, ha a kérelmező vagy a kiadott kishatárforgalmi engedély jogosultja
 
 a) a kishatárforgalmi engedély kiadási feltételeit nem teljesíti;
 
@@ -16,16 +16,16 @@ c) hamis adatot tartalmaz, vagy meghamisították;
 
 d) jogosultja meghalt;
 
-e)[^32] jogosultja magyar állampolgárságot szerzett.
+e)[^38] jogosultja magyar állampolgárságot szerzett.
 
-(3)[^33] A kishatárforgalmi engedély tárgyában hozott döntés elleni fellebbezést az illetékes konzuli tisztviselőnél lehet előterjeszteni.
+(3)[^39] A kishatárforgalmi engedély tárgyában hozott döntés elleni fellebbezést az illetékes konzuli tisztviselőnél lehet előterjeszteni.
 
-(4)[^34] A fellebbezést a konzuli tisztviselő haladéktalanul felterjeszti a külpolitikáért felelős miniszternek.
+(4)[^40] A fellebbezést a konzuli tisztviselő haladéktalanul felterjeszti a külpolitikáért felelős miniszternek.
 
-(5)[^35] A fellebbezést a külpolitikáért felelős miniszter bírálja el.
+(5)[^41] A fellebbezést a külpolitikáért felelős miniszter bírálja el.
 
-[^31]: A 18/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
-[^32]: A 18/C. § (2) bekezdés e) pontját a 290/2010. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^33]: A 18/C. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^34]: A 18/C. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^35]: A 18/C. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^37]: A 18/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^38]: A 18/C. § (2) bekezdés e) pontját a 290/2010. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^39]: A 18/C. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^40]: A 18/C. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^41]: A 18/C. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 6. § (3) bekezdése iktatta be.

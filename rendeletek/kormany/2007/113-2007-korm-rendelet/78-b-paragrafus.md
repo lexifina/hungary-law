@@ -1,6 +1,6 @@
-## Biometrikus adatkezelés szabályai[^96]
+## Biometrikus adatkezelés szabályai[^111]
 
-78/B. §[^97] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 76/D. §-ban meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
+78/B. §[^112] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 76/D. §-ban meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
 
 (2) A magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja tartózkodási kártya iránti kérelmének benyújtása során a Tv. 76/A. § (1) bekezdésében meghatározott biometrikus azonosítókat a regionális igazgatóság rögzíti.
 
@@ -34,5 +34,5 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 
 (9) A kishatárforgalmi engedéllyel, valamint magyar állampolgár harmadik ország állampolgárságával rendelkező családtagjaként tartózkodási kártyával rendelkező harmadik országbeli állampolgár a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.
 
-[^96]: A 78/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 27. §-a iktatta be.
-[^97]: A 78/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 27. §-a iktatta be.
+[^111]: A 78/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 27. §-a iktatta be.
+[^112]: A 78/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 27. §-a iktatta be.

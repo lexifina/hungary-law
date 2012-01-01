@@ -1,9 +1,9 @@
-## 13. §[^15]
+## 13. §[^19]
 
-14. § (1)[^16] A külpolitikáért felelős miniszter, valamint a konzuli tisztviselő a vízum iránti kérelemről a Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ véleményét kérheti.
+14. § (1)[^20] A külpolitikáért felelős miniszter, valamint a konzuli tisztviselő a vízum iránti kérelemről a Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ véleményét kérheti.
 
-(2)[^17] (2) A Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ köteles a megkeresésnek tíz napon belül eleget tenni.
+(2)[^21] (2) A Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ köteles a megkeresésnek tíz napon belül eleget tenni.
 
-[^15]: A 13. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
-[^16]: A 14. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
-[^17]: A 14. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (2) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (6)–(7) bekezdése szerint módosított szöveg.
+[^19]: A 13. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^20]: A 14. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^21]: A 14. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (2) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (6)–(7) bekezdése szerint módosított szöveg.

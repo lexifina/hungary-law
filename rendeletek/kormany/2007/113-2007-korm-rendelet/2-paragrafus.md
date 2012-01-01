@@ -2,7 +2,7 @@
 
 ## 2. § A Tv.-ben szabályozott közigazgatási hatósági eljárások során a következő hatóságok járnak el:
 
-a) az idegenrendészetért és menekültügyért felelős miniszter;
+a)[^1]
 
 b) a külpolitikáért felelős miniszter;
 
@@ -12,6 +12,7 @@ d) a Hivatal területi szerve (a továbbiakban: regionális igazgatóság);
 
 e) a vízumkiadásra feljogosított magyar konzuli tisztviselő (a továbbiakban: konzuli tisztviselő);
 
-f)[^1] a Rendőrség.
+f)[^2] a Rendőrség.
 
-[^1]: A 2. § f) pontja a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^1]: A 2. § a) pontját a 282/2011. (XII. 21.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^2]: A 2. § f) pontja a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
