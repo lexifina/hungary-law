@@ -6,11 +6,27 @@
 
 20. § (1) A kérelemnek tartalmaznia kell:
 
-a)–i)
+a) az eljáró bíróság megjelölését,
+
+b) a kérelmező nevét, lakóhelyét (székhelyét),
+
+c) a szervezet nevét, elnevezését,
+
+d) a szervezet székhelyét,
+
+e) a szervezet képviselőjének nevét, lakóhelyét,
+
+f) a képviseleti jog terjedelmét,
+
+g) a szervezet célját,
+
+h) a szervezet célja szerinti besorolását,
+
+i) az alapító okirat, alapszabály (a továbbiakban együtt: létesítő okirat) keltét,
 
 j)
 
-k)
+k) a szervezet típusát.
 
 (2) A kérelemben a szervezet célja szerinti besorolását jogszabályban meghatározott módon kell megadni.
 

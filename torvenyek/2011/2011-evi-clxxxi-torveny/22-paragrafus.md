@@ -1,0 +1,1 @@
+22. § Ha külön jogszabályban előírt kötelezettségek teljesítése feltétele a szervezet nyilvántartásba vételének, a kérelemnek tartalmaznia kell azokat az adatokat és a kérelemhez csatolni kell azokat az okiratokat is, melyek alapján megállapítható, hogy a szervezet a külön jogszabályban előírt kötelezettségeket teljesítette.
