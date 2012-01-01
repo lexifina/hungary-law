@@ -2,7 +2,7 @@
 
 ## A szociális feladatokat ellátó nem állami fenntartók címzett támogatása
 
-21/F. § (1) A szociális feladatokat ellátó egyházi jogi személyek, egyesületek, alapítványok, közalapítványok, országos kisebbségi önkormányzatok (a továbbiakban: nem állami fenntartó) címzett támogatást igényelhetnek a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 57. § (2) bekezdésében megjelölt szociális szakellátási célt szolgáló és 250 millió forint feletti beruházási összköltségű beruházások megvalósítására.
+21/F. § (1) A szociális feladatokat ellátó egyházi jogi személyek, egyesületek, alapítványok, közalapítványok, országos nemzetiségi önkormányzatok (a továbbiakban: nem állami fenntartó) címzett támogatást igényelhetnek a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 57. § (2) bekezdésében megjelölt szociális szakellátási célt szolgáló és 250 millió forint feletti beruházási összköltségű beruházások megvalósítására.
 
 (2) A nem állami fenntartó címzett támogatást csak akkor igényelhet, ha maga vagy egyházi fenntartó esetén az erre feljogosított szerve az állammal vagy a Kormánnyal megállapodást kötött szociális feladatok átvállalására, illetve, ha a beruházással érintett intézmény működtetésére a feladat ellátására kötelezett helyi önkormányzattal érvényes ellátási szerződéssel rendelkezik. A címzett támogatás
 

@@ -30,7 +30,7 @@ Támogatást igényelhetnek a helyi önkormányzatok 1 millió Ft egyedi érték
 
 |
 
-A Regionális Fejlesztési Tanácsok a céltámogatási igényeket az alábbi szempontok szerint rangsorolják:
+Az érintett megyei önkormányzatok, a fővárosi önkormányzat esetén a fővárosi önkormányzat a céltámogatási igényeket az alábbi szempontok szerint rangsorolják:
 
 |
 

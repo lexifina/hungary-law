@@ -36,7 +36,7 @@ c) a szennyvízelvezetési és -tisztítási beruházás esetében a 80%-os bek�
 
 akkor a jogtalanul felhasznált központi támogatásról haladéktalanul le kell mondania.
 
-(6) Az önkormányzatnak a lemondásról, és felhasználás esetén ezzel egyidejűleg a visszafizetésről – a képviselő-testületi határozatok és az átutalási megbízás másolatának megküldésével – a döntést és a visszafizetést követő nyolc munkanapon belül értesítenie kell a kincstár útján címzett és céltámogatás esetében a helyi önkormányzatokért felelős minisztert. A határidő elmulasztása esetén a vissza nem fizetett összeg után az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 64/B. §-ának (2) bekezdése szerinti – a felhasználási kötöttséggel járó állami támogatásokra vonatkozó – kamatot kell fizetni a központi költségvetés javára.
+(6) Az önkormányzatnak a lemondásról, és felhasználás esetén ezzel egyidejűleg a visszafizetésről – a képviselő-testületi határozatok és az átutalási megbízás másolatának megküldésével – a döntést és a visszafizetést követő nyolc munkanapon belül értesítenie kell a kincstár útján címzett és céltámogatás esetében a helyi önkormányzatokért felelős minisztert. A határidő elmulasztása esetén a vissza nem fizetett összeg után az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 59. §-a szerinti – a felhasználási kötöttséggel járó állami támogatásokra vonatkozó – kamatot kell fizetni a központi költségvetés javára.
 
 (7) Ha az önkormányzat a 13. §-ban, valamint a (4) bekezdésben foglaltakat nem teljesíti határidőre, a fel nem használt támogatást a helyi önkormányzatokért felelős miniszter elvonja.
 
