@@ -1,6 +1,6 @@
 ## I. Fejezet
 
-## A BELFÖLDÖN NEM LETELEPEDETT ADÓALANYOKAT A MAGYAR KÖZTÁRSASÁGBAN MEGILLETŐ ÁLTALÁNOSFORGALMIADÓ-VISSZATÉRÍTTETÉSI JOG ÉRVÉNYESÍTÉSÉVEL KAPCSOLATOS RENDELKEZÉSEK
+## A BELFÖLDÖN NEM LETELEPEDETT ADÓALANYOKAT MAGYARORSZÁGON MEGILLETŐ ÁLTALÁNOSFORGALMIADÓ-VISSZATÉRÍTTETÉSI JOG ÉRVÉNYESÍTÉSÉVEL KAPCSOLATOS RENDELKEZÉSEK[^1]
 
 ## Az elismert harmadik államban letelepedett adóalany és a nem adóalany jogi személy
 
@@ -25,3 +25,5 @@ c) az okirat kibocsátásának helye és kelte;
 d) az okiratot kibocsátó hatóság nevében és képviseletében eljáró személy aláírása az okirat hitelességének és érvényességének tanúsítására, valamint neve és beosztása olvasható módon;
 
 e) az okiratot kibocsátó hatóság hivatalos jelzése az okirat hitelességének és érvényességének tanúsítására.
+
+[^1]: Az I. Fejezet címe az 54/2011. (XII. 29.) NGM rendelet 7. § a) pontja szerint módosított szöveg.

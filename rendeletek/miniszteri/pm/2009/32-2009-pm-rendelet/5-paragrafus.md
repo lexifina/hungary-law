@@ -34,8 +34,10 @@ e) a d) pont szerinti adó összegéből az az összeg, amelyre az adó-visszat�
 
 f) arra az esetre, ha az elismert harmadik államban letelepedett adóalanyt az adó-visszatéríttetési jog az Áfa tv. 248. § (2) bekezdése értelmében részlegesen illeti meg, a levonási arány mértéke százalékos formában kifejezve;
 
-g) a termék, szolgáltatás megnevezésére, illetőleg a felhasználás, egyéb módon történő hasznosítás jellegére utaló, a Mellékletben meghatározott részletezettségű kódszám.
+g)[^7] a termék, szolgáltatás megnevezésére, illetőleg a felhasználás, egyéb módon történő hasznosítás jellegére utaló, a Mellékletben meghatározott részletezettségű kódszám, illetve a 10-es kód alkalmazása esetén az értékesített termékek és nyújtott szolgáltatások jellege szövegesen is.
 
 (3) Az (1) és (2) bekezdésen kívül az adó-visszatéríttetési kérelemnek szintén tartalmaznia kell még az Áfa tv. 251. § (1) bekezdésében meghatározott kiigazítást, ha azt az Áfa tv. 251. § (2) bekezdése szerint kell elvégezni.
 
 (4) Az elismert harmadik államban letelepedett adóalany az (1) bekezdés g) pontjában kizárólag belföldön vagy olyan államban vezetett fizetési számláját jelölheti meg, amelyben az (1) bekezdés a) pontja szerinti címe van.
+
+[^7]: Az 5. § (2) bekezdés g) pontja az 54/2011. (XII. 29.) NGM rendelet 7. § e) pontja szerint módosított szöveg.

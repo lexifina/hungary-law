@@ -20,7 +20,7 @@ e) a belföldön letelepedett adóalany nyilatkozata arról, hogy az adó-vissza
 
 f) a belföldön letelepedett adóalany adóazonosító száma, az Art. 9. számú melléklete I. címének 8. pontja szerinti esetben a csoportazonosító szám és a tag adószáma is;
 
-g) a belföldön letelepedett adóalany részére visszatérítendő adó átutalás útján történő teljesítéséhez szükséges adatok és egyéb információk, beleértve fizetési számlájának IBAN számát és számlavezetőjének BIC (SWIFT) kódját is.
+g)[^8] a belföldön letelepedett adóalany részére visszatérítendő adó átutalás útján történő teljesítéséhez szükséges adatok és egyéb információk, beleértve a fizetési számla IBAN számát és a számlavezető BIC (SWIFT) kódját is.
 
 (2) Az (1) bekezdésen kívül az adó-visszatéríttetési kérelemnek tartalmaznia kell még minden számlára és termékimport-okmányra vonatkozóan a következő adatokat is:
 
@@ -38,7 +38,7 @@ f) a levonható adónak a visszatéríttetés tagállamának a Héavisszatérít
 
 g) ha a belföldön letelepedett adóalanyt az adó-visszatéríttetési jog részlegesen illeti meg, az Áfa tv. 123. §-ának és 5. számú mellékletének megfelelően számított, százalékban kifejezett levonási hányad;
 
-h) a termék, szolgáltatás megnevezésére, illetőleg a felhasználás, egyéb módon történő hasznosítás jellegére utaló kódszám a visszatéríttetés tagállamának a Héavisszatérítési-irányelv 9. cikkét átültető rendelkezésével összhangban.
+h)[^9] a termék, szolgáltatás megnevezésére, illetőleg a felhasználás, egyéb módon történő hasznosítás jellegére utaló kódszám, illetve a 10-es kód alkalmazása esetén az értékesített termékek és nyújtott szolgáltatások jellege szövegesen is megadva a visszatéríttetés tagállamának a Héavisszatérítési-irányelv 9. cikkét átültető rendelkezésével összhangban.
 
 (3) Ha azt a visszatéríttetés tagállamának joga előírja, az (1) és (2) bekezdésen kívül a belföldön letelepedett adóalany adó-visszatéríttetési kérelmének tartalmaznia kell a következő adatokat, illetőleg elektronikus mellékleteket is:
 
@@ -56,7 +56,7 @@ bb) egyéb esetekben pedig az 1000
 
 a) a kiigazítással érintett adó-visszatérítési időszakot,
 
-b) a kiigazítás összegét a visszatéríttetés tagállamának nemzeti pénznemében kifejezve, valamint
+b)[^10]
 
 c) a (2) bekezdés g) pontjában megadott levonási hányadnak a módosított értékét százalékos formában kifejezve
 
@@ -72,10 +72,15 @@ c) a belföldön letelepedett adóalany adóazonosító száma, az Art. 9. szám
 
 d) a kiigazítással érintett adó-visszatérítési időszak;
 
-e) a kiigazítás összege a visszatéríttetés tagállama nemzeti pénznemében kifejezve;
+e)[^11]
 
 f) a (2) bekezdés g) pontjában megadott levonási hányadnak a módosított értéke százalékos formában kifejezve.
 
 (6) Az Art. 9. számú melléklete I. címének 4. A) pontja alkalmazásában az adó-visszatéríttetési kérelem abban az esetben rendelkezik a külön jogszabályban meghatározott kötelező adattartalommal, ha az az (1) és (2) bekezdésben, valamint a (3) bekezdés a) pontjában meghatározott adatokat tartalmazza.
 
 (7) Az Art. 9. számú melléklete I. címének 7. C) pontja alkalmazásában – a visszatéríttetés tagállama jogának eltérő rendelkezése hiányában – a kiigazítási nyilatkozat abban az esetben rendelkezik a külön jogszabályban meghatározott kötelező adattartalommal, ha az az (5) bekezdésben meghatározott adatokat tartalmazza.
+
+[^8]: A 8. § (1) bekezdés g) pontja az 54/2011. (XII. 29.) NGM rendelet 6. §-ával megállapított szöveg.
+[^9]: A 8. § (2) bekezdés h) pontja az 54/2011. (XII. 29.) NGM rendelet 7. § f) pontja szerint módosított szöveg.
+[^10]: A 8. § (4) bekezdés b) pontját az 54/2011. (XII. 29.) NGM rendelet 8. §-a hatályon kívül helyezte.
+[^11]: A 8. § (5) bekezdés e) pontját az 54/2011. (XII. 29.) NGM rendelet 8. §-a hatályon kívül helyezte.
