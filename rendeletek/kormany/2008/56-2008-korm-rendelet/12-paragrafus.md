@@ -22,7 +22,7 @@ a) az egyesületek, a társadalmi szervezetek, valamint a sportági szakszövets
 
 b) az alapítvány – a közalapítvány és a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 9/A. §-ában foglaltak alapján létrehozott alapítvány kivételével – nyilvántartásba vételével, változásbejegyzésével, törlésével kapcsolatos eljárásban,
 
-c)[^1]
+c)[^2]
 
 d) az európai területi együttműködési csoportosulás nyilvántartásba vételével, változásbejegyzésével, törlésével kapcsolatos eljárásban,
 
@@ -30,4 +30,4 @@ e) a jogtanácsosi névjegyzék vezetésével (bejegyzés, törlés, változáso
 
 (3) A bírósági ügyintéző a holtnak nyilvánítási eljárásban, a holtnak nyilvánító végzés módosítása vagy hatályon kívül helyezése iránti eljárásban, továbbá a halál tényének megállapítására irányuló eljárásban első fokon eljárhat – kivéve, ha bizonyítás felvételére vagy az érdekeltek meghallgatására kerül sor –, de az ügy érdemében végzés meghozatalára nem jogosult.
 
-[^1]: A 12. § (2) bekezdés c) pontját a 283/2010. (XII. 15.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^2]: A 12. § (2) bekezdés c) pontját a 283/2010. (XII. 15.) Korm. rendelet 3. §-a hatályon kívül helyezte.

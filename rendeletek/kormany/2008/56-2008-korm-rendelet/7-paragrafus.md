@@ -62,4 +62,6 @@ l) intézkedhet a végzés elleni fellebbezés másodpéldányának a fellebbez�
 
 m) az iratokat fellebbezés folytán felterjesztheti a másodfokú bírósághoz,
 
-n) az iratokat felülvizsgálati kérelem folytán felterjesztheti a Legfelsőbb Bírósághoz, és értesítheti a jogerős határozatot hozó bíróságot az eljárás megindításáról a felülvizsgálati kérelem másolatának megküldésével.
+n)[^1] az iratokat felülvizsgálati kérelem folytán felterjesztheti a Kúriához, és értesítheti a jogerős határozatot hozó bíróságot az eljárás megindításáról a felülvizsgálati kérelem másolatának megküldésével.
+
+[^1]: A 7. § (2) bekezdés n) pontja a 314/2011. (XII. 23.) Korm. rendelet 14. §-a szerint módosított szöveg.
