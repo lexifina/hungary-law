@@ -2,7 +2,7 @@
 
 ## Előlap:
 
-| CÍMER HELYE | MAGYAR HONVÉDSÉG ÉPÍTÉSFELÜGYELŐI IGAZOLVÁNY A □ □ □ □ □ □ □  számú szolgálati/köztisztviselői igazolvánnyal együtt érvényes |
+| CÍMER HELYE | MAGYAR HONVÉDSÉG ÉPÍTÉSFELÜGYELŐI IGAZOLVÁNY A □ □ □ □ □ □ □  számú szolgálati/kormánytisztviselői igazolvánnyal együtt érvényes |
 
 | FÉNYKÉP HELYE | Név Rendfokozat MH építésfelügyelő |
 

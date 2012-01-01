@@ -1,4 +1,4 @@
-8. § (1) A katonai építésfelügyeleti hatóság helyszíni ellenőrzéséről készített jegyzőkönyvének a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon kívül tartalmaznia kell
+8. § (1)[^3] A katonai építésfelügyeleti hatóság helyszíni ellenőrzéséről készített jegyzőkönyvének a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon kívül tartalmaznia kell
 
 a) az eljáró építésfelügyelő hivatali elérhetőségét,
 
@@ -37,3 +37,5 @@ q) az építtető (illetve megbízottja) nyilatkozatát arra vonatkozóan, hogy 
 r) a felelős műszaki vezető nyilatkozatát arra vonatkozóan, hogy a jegyzőkönyvben foglaltakat megértette, tudomásul vette, aláírásával a jegyzőkönyv egy példányának átvételét elismeri és az ellenőrzésből rá háruló intézkedéseket megteszi, továbbá esetleges észrevételeit.
 
 (2) A katonai építésfelügyeleti hatóság a jegyzőkönyv egy példányát az építési naplóhoz csatolja, a másik példány a hatósági ügyirat része. A jegyzőkönyv egy-egy másolati példányát az építésügyi hatóság, illetve az építtető részére küldi meg.
+
+[^3]: A 8. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (2) bekezdése szerint módosított szöveg.
