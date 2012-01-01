@@ -6,4 +6,6 @@
 
 (3) A 2. melléklet 1. pontjában szereplő rendeletben található termékek közül e rendelet hatálya – a miniszter kizárólagos szabályozási feladatkörébe tartozó – közúti berendezésekre, útépítési termékekre és vasúti termékekre terjed ki.
 
-(4) E rendelet alkalmazásában – a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet (a továbbiakban: R.) 9. §-ára figyelemmel – a kijelölő hatóság a miniszter.
+(4)[^1] E rendelet alkalmazásában – a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet (a továbbiakban: R.) 9. §-ára figyelemmel – a kijelölő hatóság a közlekedési hatóság.
+
+[^1]: Az 1. § (4) bekezdése a 11. §-sal megállapított szöveg.
