@@ -1,0 +1,7 @@
+15. § (1) A szakképesítésért felelős miniszter elkészíti, és az állami szakképzési és felnőttképzési szerv részére megküldi az ágazatába tartozó szakképesítések tekintetében a vizsgaelnöknek javasoltak listáját. Az állami szakképzési és felnőttképzési szerv a vizsgaelnöki névjegyzékre történő felvételt megtagadja, ha a vizsgaelnöknek javasolt személy nem felel meg az e törvényben és a vizsgaelnöki névjegyzékre kerülésről szóló jogszabályban előírt feltételeknek.
+
+(2) Azokban a szakképesítésekben, amelyekben a gazdasági kamara a szakképesítésért felelős miniszterrel kötött megállapodás alapján kidolgozza és gondozza a szakmai és vizsgakövetelményt, a gazdasági kamara közvetlenül tesz javaslatot az állami szakképzési és felnőttképzési szerv részére a vizsgaelnöki névjegyzékre.
+
+(3) A vizsgaelnöki névjegyzékre javaslatot tevő szakképesítésért felelős miniszter és gazdasági kamara a vizsgaelnöki és a vizsgabizottsági névjegyzékre történő felvételre vonatkozó javaslatát évente kettő alkalommal küldi meg az állami szakképzési és felnőttképzési szervnek.
+
+(4) Az állami szakképzési és felnőttképzési szerv által vezetett vizsgabizottsági névjegyzékre a szakképesítésért felelős miniszteren keresztül jelentkezhet az, aki az e törvényben és a szakmai vizsgaszabályzatban meghatározott feltételeknek megfelel. A vizsgabizottsági névjegyzékre javaslatot tehet a szakképesítés szerint illetékes területi gazdasági kamara, vagy ha a szakképesítés nem tartozik egyik gazdasági kamara hatáskörébe sem, akkor a szakmai szervezet vagy szakmai kamara is.

@@ -1,0 +1,9 @@
+## 56. Az Európai Unióra vonatkozó és nemzetközi vonatkozású rendelkezések
+
+93. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) a Tanács 94/33/EK irányelve (1994. június 22.) a fiatal személyek munkahelyi védelméről,
+
+b) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról (9–11. cikk),
+
+c) a Tanács 2010/707/EU Határozata (2010. október 21.) a tagállamok foglalkoztatáspolitikáira vonatkozó iránymutatásokról (Melléklet 7–9. Iránymutatás)
