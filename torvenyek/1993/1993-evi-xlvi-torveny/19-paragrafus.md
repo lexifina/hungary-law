@@ -2,7 +2,7 @@ Stt.19. § (1) A természetes személy személyére vonatkozó adatgyűjtésn�
 
 (2) Az (1) bekezdés szerinti adatokat érintő, egy évnél hosszabb időszakra vonatkozó idősoros vizsgálatok esetében az adatállományt belső azonosítóval kell ellátni, amelyből az érintett személyazonossága nem állapítható meg. Az érintett személyazonosító adatait az adatállománytól elkülönítetten kell kezelni. Az adatok feldolgozásáról, annak áttekinthetőségének biztosítására az adatkezelő részletes nyilvántartást vezet.
 
-(3) Új adatoknak az adatállományhoz csatolása, valamint az azonos célú statisztikai adatgyűjtés céljából történt mintavételes eljárás végrehajtásának idejére, a személyazonosító adatok az adatállománnyal ideiglenesen összekapcsolhatók. Az összekapcsolás szabályait az adatvédelmi biztos állásfoglalásának figyelembevételével kell meghatározni, és véleményezésre az OST elé kell terjeszteni.
+(3) Új adatoknak az adatállományhoz csatolása, valamint az azonos célú statisztikai adatgyűjtés céljából történt mintavételes eljárás végrehajtásának idejére, a személyazonosító adatok az adatállománnyal ideiglenesen összekapcsolhatók. Az összekapcsolás szabályait a Nemzeti Adatvédelmi és Információszabadság Hatóság állásfoglalásának figyelembevételével kell meghatározni, és véleményezésre az OST elé kell terjeszteni.
 
 (4) A (2) és (3) bekezdésben foglaltak külön törvény szerint alkalmazhatók a lakosság egészére kiterjedő adatszolgáltatásnál.
 

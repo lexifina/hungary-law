@@ -18,7 +18,7 @@ h) az Országgyűlés és a Kormány évenkénti tájékoztatása az ország tá
 
 i) statisztikai adatok szolgáltatása az államhatalom és a közigazgatás szervei, az egyesületek, az érdekképviseletek, a helyi önkormányzatok, a köztestületek, a tudományos, a gazdasági szervezetek, a lakosság és a hírközlő szervek, valamint a nemzetközi szervezetek részére;
 
-j) a Magyar Köztársaság Közigazgatási Helynévkönyvének vezetése, a Magyar Köztársaság Helységnévtárának kiadása;
+j) a Magyarország Közigazgatási Helynévkönyvének vezetése, a Magyarország Helységnévtárának kiadása;
 
 k) részvétel nemzetközi szervezetek statisztikai munkájában, valamint kapcsolattartás külföldi nemzeti statisztikai hivatalokkal;
 

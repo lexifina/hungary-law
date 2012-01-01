@@ -8,7 +8,7 @@ a) a Központi Statisztikai Hivatal;
 
 b) a minisztériumok és a Miniszterelnökség;
 
-c) Az Országos Igazságszolgáltatási Tanács Hivatala,
+c) Az Országos Bírósági Hivatal elnöke,
 
 d) a Legfőbb Ügyészség;
 

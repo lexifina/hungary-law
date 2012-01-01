@@ -10,7 +10,7 @@ b) a munkáltatók érdekképviseletei által kijelölt két, az országos gazda
 
 d) a tudományos élet képviselői közül, a Magyar Tudományos Akadémia Statisztikai Bizottsága által javasolt és a KSH elnöke által felkért legfeljebb öt szakember.
 
-(3) Az OST ülésein az adatvédelmi biztos állandó meghívottként vesz részt.
+(3) Az OST ülésein a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke állandó meghívottként vesz részt.
 
 (4) A tagokat és az elnököt határozott időtartamra a miniszterelnök bízza meg. A megbízásra az előterjesztést – a KSH elnökének javaslata alapján – a KSH felett felügyeletet gyakorló miniszter teszi meg.
 

@@ -20,6 +20,8 @@ neve:
 
 születési ideje:
 
+társadalombiztosítási azonosító jele:
+
 lakcíme:
 
 iskolai végzettsége:
