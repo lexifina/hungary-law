@@ -1,4 +1,4 @@
-12. § (1) Rendkívül indokolt esetben a határrendészetért felelős miniszter a közbiztonság védelme érdekében rendeletével – legfeljebb harminc napra, az Alkotmány 58. § (1) bekezdésében meghatározott alapvető jog korlátozásaként – részleges határzárat rendelhet el, amellyel az államhatár átlépését meghatározott személyek, járművek és szállítmányok körére kiterjedően megtilthatja.
+12. § (1) Rendkívül indokolt esetben a határrendészetért felelős miniszter a közbiztonság védelme érdekében rendeletével – legfeljebb harminc napra, az Alaptörvény XXVII. cikk (1) bekezdésében meghatározott alapvető jog korlátozásaként – részleges határzárat rendelhet el, amellyel az államhatár átlépését meghatározott személyek, járművek és szállítmányok körére kiterjedően megtilthatja.
 
 (2) Ha a részleges határzár elrendelésére
 

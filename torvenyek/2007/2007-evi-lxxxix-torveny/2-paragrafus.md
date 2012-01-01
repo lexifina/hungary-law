@@ -8,4 +8,4 @@ b) a határátkelőhely üzemeltetője: jogszabály eltérő rendelkezése hián
 
 c) határátlépési pont: személyforgalmat lebonyolító, határátkelőhelynek nem minősülő hely, amelyen az államhatáron átnyúló vagy annak közvetlen közelében levő területen található műemlék, természeti érték vagy más turisztikai látványosság megtekintése vagy rendezvény látogatása céljából lehet az államhatárt átlépni,
 
-d) szomszédos állam: az az állam, amelynek államhatára a Magyar Köztársaság államhatárával részben megegyezik.
+d) szomszédos állam: az az állam, amelynek államhatára Magyarország államhatárával részben megegyezik.
