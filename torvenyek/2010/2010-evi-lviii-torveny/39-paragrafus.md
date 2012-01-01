@@ -2,7 +2,7 @@
 
 a) halálával,
 
-b) választójogának elvesztésével,
+b) ha az országgyűlési képviselők választásán már nem választható,
 
 c) összeférhetetlenségének megállapításával vagy
 

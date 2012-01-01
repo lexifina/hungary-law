@@ -20,11 +20,11 @@ d) a 6/A. § (1) bekezdésében meghatározott kinevezés-módosítás esetén a
 
 e) a kormánytisztviselő vezetőjének bizalmát elveszti (8/C. §);
 
-f) a rokkantsági (baleseti rokkantsági) nyugdíjjogosultság (6) bekezdés szerinti feltételeivel rendelkező kormánytisztviselő azt kérelmezi;
+f)
 
-g) az előrehozott öregségi nyugdíjjogosultság életkori, valamint szolgálati idővel kapcsolatos feltételeivel a felmentési idő leteltekor rendelkező kormánytisztviselő a (8) bekezdés szerint kérelmezi;
+g)
 
-h) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételekkel a felmentési idő leteltekor rendelkező kormánytisztviselő kérelmezi.
+h) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi.
 
 (3) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 
@@ -32,10 +32,10 @@ h) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törv�
 
 (5) A (2) bekezdés f) pontjában foglalt jogcímen a kormánytisztviselő kezdeményezésére csak egy alkalommal kötelező a felmentés.
 
-(6) Ha a kormánytisztviselő rokkantsági (baleseti rokkantsági) nyugdíj iránti igényét érvényesíti és ezen eljárás során a rokkantság (baleseti rokkantság) tényéről és a szükséges szolgálati idő megszerzéséről az illetékes nyugdíjbiztosítási igazgatási szerv értesíti, akkor az általa kezdeményezett ellátás igénybevétele érdekében a kormánytisztviselői jogviszonyát – kérelmére – a (2) bekezdés f) pontja alapján felmentéssel meg kell szüntetni.
+(6)
 
 (7) Ha az államigazgatási szerv jogutód nélkül szűnik meg, akkor a kormánytisztviselői jogviszony megszüntetésével, valamint a Ktv. 20/A. § (2), (5) bekezdésében meghatározott feladatokkal kapcsolatos munkáltatói intézkedéseket – ha jogszabály eltérően nem rendelkezik – az államigazgatási szerv felügyeleti szerve hozza meg.
 
-(8) Az előrehozott öregségi nyugdíj megállapításához szükséges szolgálati időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
+(8)
 
 (9) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételek megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.

@@ -1,4 +1,4 @@
-32. § (1) Ha a szakmai vezető megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, feltéve, hogy megbízatása nem választójogának elvesztése, összeférhetetlenségének megállapítása vagy hivatalvesztés fegyelmi büntetés miatt szűnt meg.
+32. § (1) Ha a szakmai vezető megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, feltéve, hogy megbízatása nem összeférhetetlenségének megállapítása, hivatalvesztés fegyelmi büntetés miatt, vagy azért szűnt meg, mert az országgyűlési képviselők választásán már nem választható.
 
 (2) A szakmai vezető a jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított tizenöt napon belül köteles visszafizetni.
 

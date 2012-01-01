@@ -12,7 +12,7 @@
 
 (5) A (2)–(4) bekezdésekben meghatározott munkakörök száma nem haladhatja meg az államigazgatási szervnél foglalkoztatott kormánytisztviselők létszámának nyolc százalékát. Az (1)–(3) bekezdésekben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében kell feltüntetni.
 
-(6) Politikai főtanácsadói, politikai tanácsadói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és a Ktv. 7. § (1) bekezdésben előírt egyéb feltételekkel rendelkezik. A kinevezés a Kormány, a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére szól. A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat
+(6) Politikai főtanácsadói, politikai tanácsadói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és a Ktv. 7. § (1) bekezdésben előírt egyéb feltételekkel rendelkezik. A kinevezés a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére szól. A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat
 
 a) az (1) bekezdés esetében a Miniszterelnökséget vezető államtitkár,
 
@@ -26,7 +26,7 @@ gyakorolja.
 
 (7) A politikai főtanácsadó, politikai tanácsadó – a kormánytisztviselői jogviszonyban eltöltött idejére tekintet nélkül – vezető-főtanácsos vagy főtanácsos besorolást kap, illetményét a besorolásától függetlenül a (6) bekezdés a)–d) pontjában meghatározott munkáltatói jogkör gyakorlója állapítja meg. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
-(8) Ha a politikai főtanácsadó, politikai tanácsadó kormánytisztviselői jogviszonya a Kormány, a miniszterelnök, a miniszter vagy az államtitkár megbízatásának megszűnése következtében szűnik meg, végkielégítés címén kéthavi illetményére jogosult, feltéve, hogy a politikai főtanácsadói, politikai tanácsadói jogviszonya legalább két évig folyamatosan fennállt.
+(8) Ha a politikai főtanácsadó, politikai tanácsadó kormánytisztviselői jogviszonya a miniszterelnök, a miniszter vagy az államtitkár megbízatásának megszűnése következtében szűnik meg, végkielégítés címén kéthavi illetményére jogosult, feltéve, hogy a politikai főtanácsadói, politikai tanácsadói jogviszonya legalább két évig folyamatosan fennállt.
 
 (9) A végkielégítés megfizetésére a jogviszony megszűnését követő 31. napon kell intézkedni.
 

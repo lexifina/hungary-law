@@ -1,4 +1,4 @@
-10. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 6. § (1) bekezdése, a 11. § (1)–(6) bekezdése, a 16. § (2) bekezdése, 16/A–17. §-a, 17/B–E. §-a, 18. §-a, a 19. § (8) bekezdésének c) pontja, 19/A. § (1) bekezdésének j) és k) pontja és (4) bekezdése nem alkalmazható.
+10. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 6. § (1) bekezdése, a 11. § (1)–(6) bekezdése, a 16. § (2) bekezdése, 16/A–17. §-a, 17/B–E. §-a, 18. §-a, a 19. § (8) bekezdésének c) pontja, 19/A. § (1) bekezdés d) pontja nem alkalmazható.
 
 (2) A kormánytisztviselői jogviszony tekintetében a Ktv. 14. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy áthelyezésen
 
@@ -14,7 +14,7 @@ a) méltatlanság címén mentették fel [8. § (2) bekezdés a) pont];
 
 b) felmentésére a 8. § (2) bekezdés b) pontjában meghatározott okból került sor.
 
-(4) A Ktv. 19/A. §-ban foglaltakon túlmenően, e törvény alkalmazásában nyugdíjasnak minősül az a kormánytisztviselő, aki az előrehozott öregségi nyugdíj feltételeivel rendelkezik, és felmentésére a 8. § (2) bekezdés g) pontja alapján kerül sor.
+(4)
 
 (5) A Ktv. 19/A. §-ban foglaltakon túlmenően, e törvény alkalmazásában nyugdíjasnak minősül az a kormánytisztviselő, aki a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételekkel rendelkezik, és felmentésére a 8. § (2) bekezdés h) pontja alapján kerül sor.
 
@@ -40,4 +40,4 @@ Az a)–d) pontban meghatározott rendelkezések alkalmazása szempontjából a 
 
 (11) A kormánytisztviselői jogviszony tekintetében a Ktv. 14. § (1) bekezdés második mondatában foglaltakon túl a 6/A. §-ban meghatározottak alapján is módosíthatja a munkáltató egyoldalúan a kormánytisztviselő kinevezését.
 
-(12) A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 28. § (2) bekezdés a) pontja a kormánytisztviselői jogviszony tekintetében nem alkalmazható. A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 28. § (4) bekezdése azzal az eltéréssel alkalmazható, hogy a védelem a tisztségviselőt a megbízatása megszűnését követően nem illeti meg.
+(12) A Ktv. 66/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közvetlen felsőbb szakszervezeti szerv egyetértése szükséges a szakszervezetnél választott tisztséget betöltő és a szakszervezet által megjelölt kormánytisztviselő kormánytisztviselői jogviszonyának az államigazgatási szerv által felmentéssel történő megszüntetéséhez – kivéve a 8. § (2) bekezdés a) pontjában meghatározott felmentést –, valamint – a Ktv. 66/A. § (1) bekezdésében felsoroltakon kívül – a kormányzati érdekből történő kirendeléséhez is.
