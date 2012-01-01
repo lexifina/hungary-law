@@ -1,6 +1,6 @@
 ## Az eljárás megindítása
 
-26. § (1) Az ingatlanhoz kapcsolódó jog vagy tény keletkezését, módosulását, illetve megszűnését a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott nyomtatványon benyújtott kérelemre vagy megkeresés alapján kell az ingatlan-nyilvántartásba bejegyezni.
+26. § (1) Az ingatlanhoz kapcsolódó jog vagy tény keletkezését, módosulását, illetve megszűnését a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott nyomtatványon benyújtott kérelemre vagy megkeresés alapján kell az ingatlan-nyilvántartásba átvezetni.
 
 (2) A kérelemre induló olyan eljárásokban, amelyekben a jogváltozás bejegyzésének alapjául közjegyző által készített okirat vagy ügyvéd által ellenjegyzett magánokirat szolgál, a jogi képviselet kötelező. Jogi képviselőnek kell tekinteni az ügyvédet (ügyvédi irodát), jogtanácsost és a fél képviseletében eljáró közjegyzőt [1991. évi XLI. törvény 175. § (1) bek.].
 
@@ -14,7 +14,7 @@
 
 (7) A bejegyzést – ha jogszabály rendelkezéséből vagy a felek megállapodásából más nem következik – annak kell kérnie, aki ezáltal jogosulttá válik. Kérheti a bejegyzést az is, akinek ez bejegyzett jogát érinti.
 
-(8) Az eljáró hatóság (bíróság, közjegyző, bírósági végrehajtó stb.) bejegyezhető jogra vagy feljegyezhető tényre vonatkozó határozata alapján – annak jogerőre emelkedése után – megkeresi az ingatlanügyi hatóságot a bejegyzés iránt. A vagyonszerzést létrehozó, megállapító hatósági határozatot két példányban kell az ingatlanügyi hatóság részére megküldeni.
+(8) Az eljáró hatóság – ideértve a bíróságot, közjegyzőt, bírósági végrehajtót is – bejegyezhető jogra, feljegyezhető tényre, illetve az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, végrehajtható határozata alapján megkeresi az ingatlanügyi hatóságot az átvezetés iránt. A vagyonszerzést létrehozó, megállapító hatósági határozatot két eredeti példányban kell az ingatlanügyi hatóság részére megküldeni.
 
 (9) A kérelem a szerződő felek ügyvéd által ellenjegyzett magánokiratba vagy közokiratba foglalt közös nyilatkozatával mindaddig visszavonható, amíg abban az ingatlanügyi hatóság nem hozott határozatot. Ha a bejegyzés folytán harmadik személy vált volna jogosulttá, a kérelem visszavonásához az ő ügyvéd által ellenjegyzett magánokiratba vagy közokiratba foglalt hozzájárulása is szükséges. Ellenjegyzésként a jogtanácsos ellenjegyzését is el kell fogadni, ha a szerződő felek valamelyike jogtanácsos által képviselt szervezet.
 

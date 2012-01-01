@@ -34,4 +34,4 @@ c) vagy az az ingatlan, jog vagy tény, amelyre a bejegyzést kérték az ingatl
 
 d) vagy a bejegyzési kérelmet arra nem jogosult nyújtotta be.
 
-(5)
+(5) Az igazgatási szolgáltatási díj meg nem fizetése esetén – a (3) és (4) bekezdéstől eltérően – az ingatlanügyi hatóság a díj megfizetésére irányuló hiánypótlási felhívást bocsát ki a (3) és (4) bekezdés szerinti döntés meghozatalát megelőzően, de legkésőbb a kérelem benyújtását követő tizenöt napon belül.

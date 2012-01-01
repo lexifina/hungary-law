@@ -12,7 +12,7 @@ d) a jog vagy tény pontos megjelölését,
 
 e) a jogváltozás jogcímét,
 
-f) az érdekeltek megállapodását, a bejegyzett jogosult bejegyzést engedő nyilatkozatát,
+f) az érdekeltek megállapodását, a bejegyzett jogosult bejegyzést engedő – feltétlen és visszavonhatatlan – nyilatkozatát,
 
 g) a szerződő felek állampolgárságra vonatkozó nyilatkozatát.
 

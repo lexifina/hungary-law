@@ -1,4 +1,12 @@
-27. § (1) Az ingatlan adatainak, valamint az ingatlan-nyilvántartásba bejegyzett jogosult nevének (cégnevének), illetve lakcímének (székhelyének vagy telephelyének) a megváltozását az ingatlanügyi hatóság az érdekelt bejelentése alapján vagy hivatalból (helyszíni ellenőrzés, adatátvétel hatósági nyilvántartásból, különösen a személyiadat- és lakcímnyilvántartásból vagy a cégnyilvántartásból történő adatátvétellel) vezeti át az ingatlan-nyilvántartásban.
+27. § (1) Az ingatlan adatainak, valamint az ingatlan-nyilvántartásba bejegyzett jogosult nevének (cégnevének) és lakcímének (székhelyének vagy telephelyének) a megváltozását az ingatlanügyi hatóság az érdekelt bejelentése vagy megkeresés alapján vezeti át az ingatlan-nyilvántartásban.
+
+(1a) Hivatalból vezeti át – az (5) bekezdésben és a 28. § (1) bekezdésében foglaltakra figyelemmel – az ingatlanügyi hatóság
+
+a) az ingatlan (2) bekezdés a) pontjában meghatározott adatában, továbbá a földrészlet művelési ágában – ide nem értve a művelés alól kivett területet – és a föld minőségében bekövetkezett, helyszíni ellenőrzés alapján megállapított,
+
+b) a hatósági nyilvántartásból, különösen a személyiadat- és lakcímnyilvántartásból vagy a cégnyilvántartásból történő adatátvétellel a jogosult adatában bekövetkezett
+
+azon változásokat, amelyeket eljárása során észlel.
 
 (2) Az ingatlan tulajdonosa, az állam tulajdonosi jogait gyakorló szerv vagy a vagyonkezelő, illetőleg a használó a változás bekövetkezésétől, illetőleg a tudomásszerzéstől számított harminc napon belül köteles bejelenteni az ingatlanügyi hatóságnak
 
@@ -10,4 +18,4 @@ b) a nyilvántartás tárgyát képező épület, építmény létesítését, i
 
 (4) Nincs szükség külön bejelentésre, ha a (2) és (3) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
 
-(5) Az ingatlan adataiban hatósági határozattal, továbbá a település igazgatási, belterületi határának módosításával kapcsolatban bekövetkezett változásokat az eljáró hatóság jelenti be az ingatlanügyi hatóságnak.
+(5) Az ingatlan adataiban hatósági határozattal, a település közigazgatási, belterületi határának, továbbá a közterület nevének módosításával kapcsolatban bekövetkezett változások átvezetése iránt az erről szóló döntést hozó szerv keresi meg az ingatlanügyi hatóságot.

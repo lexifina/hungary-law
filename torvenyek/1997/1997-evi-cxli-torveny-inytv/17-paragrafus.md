@@ -50,4 +50,4 @@ z) az e törvényben meghatározott megismételt hagyatéki eljárás megindít�
 
 (2) Az (1) bekezdés a)–k) pontjaiban említett tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti. Az l)–z) pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű harmadik jogszerzővel szemben.
 
-(3) Tulajdonjog fenntartással történő eladás ténye jegyezhető fel az ingatlan tulajdonjogának a futamidő végén – minden további jognyilatkozat nélkül (ide nem értve a tulajdonjog bejegyzési engedélyt) – történő átszállását eredményező pénzügyi lízingbe adás esetében is.
+(3) Tulajdonjog fenntartással történt eladás ténye jegyezhető fel az ingatlan tulajdonjogának a futamidő végén – minden további jognyilatkozat nélkül (ide nem értve a tulajdonjog bejegyzési engedélyt) – történő átszállását eredményező pénzügyi lízingbe adás esetében is.

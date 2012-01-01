@@ -2,11 +2,15 @@
 
 4. § (1) Az ingatlan-nyilvántartás – az e törvényben meghatározottak szerint – nyilvános.
 
-(2) Az ingatlan-nyilvántartási tulajdoni lap tartalma korlátozás nélkül megismerhető: azt bárki megtekintheti, arról feljegyzést készíthet, hiteles másolatot kérhet. A tulajdoni lapról az alábbi hiteles másolatok állíthatók ki, valamint – az e törvényben meghatározottak szerint – elektronikus dokumentumként az alábbi hiteles és nem hiteles másolatok szolgáltathatók:
+(2) Az ingatlan-nyilvántartási tulajdoni lap tartalma korlátozás nélkül megismerhető, azt bárki megtekintheti, arról feljegyzést készíthet, hiteles másolatot kérhet.
 
-a) teljes másolat: amely valamennyi bejegyzést tartalmazza szó szerint,
+(2a) A tulajdoni lapról a következő papír alapú másolatok állíthatók ki, valamint – az e törvényben meghatározottak szerint – elektronikus dokumentumként a következő másolatok szolgáltathatók:
 
-b) szemle: amely a fennálló bejegyzéseket tartalmazza szó szerint.
+a) teljes másolat, amely valamennyi bejegyzést szó szerint tartalmaz,
+
+b) szemle, amely kizárólag a – másolat kiállításának, illetve elektronikus úton történő lekérdezésének időpontjában – fennálló bejegyzéseket tartalmazza szó szerint.
+
+(2b) A tulajdoni lap tartalma – a (2a) bekezdésben foglaltakon túl, e törvény felhatalmazása alapján kiadott miniszteri rendeletben foglaltak szerinti – részadat-szolgáltatás formájában is megismerhető.
 
 (3) Az ingatlan-nyilvántartás, illetve a széljegyzett okirat szerinti jogosult, illetőleg kötelezett teljes bizonyító erejű magánokiratba vagy közjegyzői okiratba foglalt engedélyével ismerhető meg:
 

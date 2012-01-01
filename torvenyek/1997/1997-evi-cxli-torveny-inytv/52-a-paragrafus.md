@@ -3,3 +3,5 @@
 (2) Az az adott ügyben érintett ügyfél, akinek jogi érdeke fűződik a földhivatali határozat kézbesítéséhez, saját költségére kérheti a határozatot tartalmazó irat végrehajtói kézbesítését az ingatlan tulajdonosa (érintett tulajdonosa) és annak a részére, akinek bejegyzett joga keletkezett, módosult vagy megszűnt. A végrehajtói kézbesítés eredményéről a kézbesítést kérő és a földhivatal kap értesítést. Ha a végrehajtói kézbesítés során a címzett az irat másolatát átvette, tizenöt napon belül kezdeményezheti a kézbesítési vélelem megdöntését.
 
 (3) Az ingatlan-nyilvántartási iratok kézbesítésére egyébként a hivatalos iratok kézbesítésének egyszerűsítéséről, illetőleg a postai tevékenységről szóló jogszabály az irányadó.
+
+(4) A határozatot az ingatlan közigazgatási címének közterület-név változás miatt történő átvezetése iránti eljárásban a megkereső részére a (3) bekezdésben foglaltak szerint, az 52. § (1) és (2) bekezdés szerinti jogosultak részére hirdetményi úton kell kézbesíteni.
