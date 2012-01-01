@@ -8,7 +8,7 @@ a) a kölcsön nyilvántartási pénzneme euró, svájci frank vagy japán jen,
 
 b) a törlesztési kötelezettséget a hiteladós forintban teljesíti, és
 
-c) a kölcsön fedezete a Magyar Köztársaság területén lévő lakóingatlanon alapított zálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség;
+c) a kölcsön fedezete a Magyarország területén lévő lakóingatlanon alapított zálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség;
 
 2. fedezeti ingatlan: lakáshitel-szerződésből eredő hiteltartozás biztosítására jelzálogjoggal terhelt lakóingatlan, ha a lakáshitel-szerződésből eredő lejárt tartozás megfizetése tekintetében több mint 90 napos késedelem áll fenn;
 
@@ -30,7 +30,7 @@ b) végrehajtási kérelem előterjesztése a lakáshitel-szerződésből eredő
 
 9. lakóingatlan: lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel, továbbá az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese;
 
-10. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, a Magyar Köztársaság területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
+10. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
 
 11. rögzített árfolyam: a devizakölcsön törlesztése körében a pénzügyi intézmény által a forinttal szemben alkalmazott átváltási árfolyam;
 
@@ -40,7 +40,7 @@ b) végrehajtási kérelem előterjesztése a lakáshitel-szerződésből eredő
 
 a) a magyar állampolgár és az a személy, akit külön törvény alapján a magyar állampolgár jogai illetnek meg,
 
-b) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
+b) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
 
 c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben (a továbbiakban: Tv.) foglaltak szerint bevándorolt vagy letelepedett jogállással rendelkezik,
 

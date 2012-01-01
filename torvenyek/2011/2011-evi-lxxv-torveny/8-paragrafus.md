@@ -1,5 +1,5 @@
 8. § (1) A hitelező minden tárgynegyedév első napján megyei, fővárosi szinten megállapítja az összes fedezeti ingatlanának a számát és a 7. §-ban foglaltak szerint kijelöli azokat, amelyek tekintetében kényszerértékesítést kezdeményez.
 
-(2) A kényszerértékesítésre kijelölt fedezeti ingatlan kényszerértékesítését a hitelezőnek a tárgynegyedév végéig kezdeményeznie kell.
+(2) A kényszerértékesítésre kijelölt fedezeti ingatlan kényszerértékesítését a hitelezőnek a tárgynegyedév végéig kezdeményeznie kell, kivéve, ha a hitelező pénzügyi intézmény a lakáshitel fedezetéül szolgáló lakóingatlan tulajdonjogának – a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény szerinti – átruházásához hozzájárult.
 
 (3) Ha a fedezeti ingatlan kényszerértékesítésére vagy kényszerértékesítésének kezdeményezésére utóbb a lakáshitel-szerződésből eredő hiteltartozás megszűnése miatt nem kerül sor, a hitelező ehelyett – az e törvényben foglalt feltételeknek megfelelő – másik fedezeti ingatlant jelölhet ki kényszerértékesítésre a kényszerértékesítési kvótát meghaladóan.
