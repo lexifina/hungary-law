@@ -1,8 +1,8 @@
-## Tengerész szolgálati könyv[^19]
+## Tengerész szolgálati könyv[^21]
 
 ## a) borító és címoldal
 
-## MAGYAR KÖZTÁRSASÁG
+## MAGYARORSZÁG
 
 ## REPUBLIC of HUNGARY
 
@@ -132,11 +132,11 @@
 
 ## 1. A hitelesített tengerész szolgálati könyv a tulajdonos személyi adatainak, egészségi szolgálati alkalmasságának, a szolgálatban eltöltött hajózási idejének, valamint képesítéseinek igazolására szolgál.
 
-## 2.[^20] A szolgálati könyvet a Magyar Köztársaság Nemzeti Közlekedési Hatóságának Központi Hivatala mint hajózási hatóság állítja ki.
+## 2.[^22] A szolgálati könyvet Magyarország Nemzeti Közlekedési Hatóságának Központi Hivatala mint hajózási hatóság állítja ki.
 
 ## 3. A tengerész szolgálati könyvnek mindenkor a tényleges adatokat kell tartalmaznia, ezért a bejegyzett személyi, szolgálati, képesítési és egészségi alkalmassági adatok változását be kell jegyeztetni, így:
 
-## –[^21] a személyi adatok, a tengerész képesítések változásait az NKH Központi Hivatala,
+## –[^23] a személyi adatok, a tengerész képesítések változásait az NKH Központi Hivatala,
 
 ## – az egészségi alkalmasság igazolását a vizsgáló egészségügyi szerv,
 
@@ -144,7 +144,7 @@
 
 ## 4. A szolgálati könyv tulajdonosa azt behajózása során köteles magánál tartani, és hatósági felhívásra felmutatni.
 
-## 5.[^22] Az elveszett vagy megsemmisült szolgálati könyvet az NKH Központi Hivatalának vagy külföldön a területileg illetékes konzulnak be kell jelenteni. Ha az megrongálódott, vagy elveszett, újat kell kiállítani.
+## 5.[^24] Az elveszett vagy megsemmisült szolgálati könyvet az NKH Központi Hivatalának vagy külföldön a területileg illetékes konzulnak be kell jelenteni. Ha az megrongálódott, vagy elveszett, újat kell kiállítani.
 
 ## 6. Tilos a szolgálati könyvet zálogba adni vagy zálogként venni, valamint másra átruházni. A szolgálati könyvvel elkövetett visszaélés eljárást von maga után.
 
@@ -186,7 +186,7 @@ DLÁ YODITELÁ PROGULOXNOGO CUDNA
 
 FOR BOATMASTER OF PLEASURE CRAFT
 
-[^19]: A 2. számú melléklet „Tengerész szolgálati könyv” címének c) pontja a 95/2006. (XII. 27.) GKM rendelet 40. §-ának f)–g) pontja szerint módosított szöveg.
-[^20]: A 2. számú melléklet „A szolgálati könyvre vonatkozó megjegyzések” cím k) pontjának 2. alpontja a 95/2006. (XII. 27.) GKM rendelet 40. §-ának h) pontja szerint módosított szöveg.
-[^21]: A 2. számú melléklet „A szolgálati könyvre vonatkozó megjegyzések” cím k) pontja 3. alpontjának első francia bekezdése a 95/2006. (XII. 27.) GKM rendelet 40. §-ának b) pontja szerint módosított szöveg.
-[^22]: A 2. számú melléklet „A szolgálati könyvre vonatkozó megjegyzések” cím k) pontja 5. alpontjának első mondata a 95/2006. (XII. 27.) GKM rendelet 40. §-ának i) pontja szerint módosított szöveg.
+[^21]: A 2. számú melléklet „Tengerész szolgálati könyv” címének c) pontja a 95/2006. (XII. 27.) GKM rendelet 40. §-ának f)–g) pontja szerint módosított szöveg.
+[^22]: A 2. számú melléklet „A szolgálati könyvre vonatkozó megjegyzések” cím k) pontjának 2. alpontja a 95/2006. (XII. 27.) GKM rendelet 40. §-ának h) pontja szerint módosított szöveg.
+[^23]: A 2. számú melléklet „A szolgálati könyvre vonatkozó megjegyzések” cím k) pontja 3. alpontjának első francia bekezdése a 95/2006. (XII. 27.) GKM rendelet 40. §-ának b) pontja szerint módosított szöveg.
+[^24]: A 2. számú melléklet „A szolgálati könyvre vonatkozó megjegyzések” cím k) pontja 5. alpontjának első mondata a 95/2006. (XII. 27.) GKM rendelet 40. §-ának i) pontja szerint módosított szöveg.

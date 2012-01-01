@@ -2,7 +2,7 @@
 
 ## Hajós szolgálati könyv
 
-## MAGYAR KÖZTÁRSASÁG
+## MAGYARORSZÁG
 
 ## REPUBLIK UNGARN
 
@@ -146,6 +146,8 @@
 
 ## (Ort, Datum/место, дата отметки) (Unterschrift des Schiffsführers/Подпись водителя судна)
 
+## ______________
+
 ## ∗ Nem megfelelőt kihúzni !
 
 | Szolgálati idő a (hajó/úszómunkagép/úszómű neve, jele)-n: Dienstzeit an Bord (Schiffsname): Стаж службы на судне (название судна): |
@@ -171,6 +173,8 @@
 ## (bejegyzés helye, dátum) (az úszólétesítmény vezetőjének aláírása)
 
 ## (Ort, Datum/место, дата отметки) (Unterschrift des Schiffsführers/Подпись водителя судна)
+
+## _________________
 
 ## ∗ Nem megfelelőt kihúzni !
 
@@ -210,13 +214,13 @@
 
 ## 1. A hitelesített hajós szolgálati könyv a tulajdonos személyi adatainak, egészségi szolgálati alkalmasságának, a szolgálatban eltöltött hajózási idejének, a szolgálat alatt megtett utaknak, valamint képesítéseinek hatósági igazolására szolgál.
 
-## 2.[^13] A hajós szolgálati könyvet az NKH illetékes regionális igazgatóságai állítják ki. A szolgálati könyv a 2. oldalon található hatósági hitelesítés nélkül érvénytelen.
+## 2.[^14] A hajós szolgálati könyvet az NKH illetékes regionális igazgatóságai állítják ki. A szolgálati könyv a 2. oldalon található hatósági hitelesítés nélkül érvénytelen.
 
 ## 3. A hajós szolgálati könyvet hatósági felhívásra be kell mutatni. A hajóskapitányi és hajóvezető ,,A'' képesítéssel rendelkezők a szolgálati könyv szolgálati idők, utak rovatait nem kötelesek tovább vezetni, ha képesítésük kiterjesztéséhez ez számukra nem szükséges.
 
 ## 4. A hajós szolgálati könyvnek mindenkor a tényleges adatokat kell tartalmaznia, ezért a bejegyzett adatok változását be kell jegyeztetni:
 
-## –[^14] a személyi adatok és a hajózási képesítések változásait az NKH illetékes regionális igazgatósága,
+## –[^15] a személyi adatok és a hajózási képesítések változásait az NKH illetékes regionális igazgatósága,
 
 ## – az egészségi alkalmasság igazolását a vizsgáló egészségügyi szerv,
 
@@ -224,7 +228,7 @@
 
 ## jegyzi be.
 
-## 5.[^15] Az elveszett vagy megsemmisült szolgálati könyvet az NKH-nak a szolgálati könyvet kiállító regionális igazgatóságán be kell jelenteni. Ha a szolgálati könyv megrongálódott, vagy elveszett új kiadását lehet kérelmezni. A pótlásként kiállított hajós szolgálati könyvbe csak a hajózási hatóság által nyilvántartott és/vagy igazolt adatok jegyezhetők be.
+## 5.[^16] Az elveszett vagy megsemmisült szolgálati könyvet az NKH-nak a szolgálati könyvet kiállító regionális igazgatóságán be kell jelenteni. Ha a szolgálati könyv megrongálódott, vagy elveszett új kiadását lehet kérelmezni. A pótlásként kiállított hajós szolgálati könyvbe csak a hajózási hatóság által nyilvántartott és/vagy igazolt adatok jegyezhetők be.
 
 ## 6. Tilos a szolgálati könyvet zálogba adni vagy zálogként venni, valamint másra átruházni. A szolgálati könyvvel elkövetett visszaélés eljárást von maga után.
 
@@ -256,7 +260,7 @@
 
 ## 2.5. Ha az út során vagy helyi szolgálatban 24 óránál hosszabb veszteglés történik, akkor azt a ,,D'' rovatban kell feltüntetni.
 
-## 2.6. Az ,,F'' rovatban kell feltüntetni azon napok számát, amelyek alatt a hajót vagy köteléket – a hajózási képesítésekről szóló rendelkezések szerint[^16] – csak hajóskapitányi képesítéssel lehetett vezetni.
+## 2.6. Az ,,F'' rovatban kell feltüntetni azon napok számát, amelyek alatt a hajót vagy köteléket – a hajózási képesítésekről szóló rendelkezések szerint[^17] – csak hajóskapitányi képesítéssel lehetett vezetni.
 
 ## 3. Hivatalos bejegyzések
 
@@ -282,24 +286,25 @@
 
 ## A képesítés igazolása – Szolgálati könyv
 
-## 1. A személyzet minden tagjának a külön jogszabályban[^17] meghatározott, személyére kiállított hajós szolgálati könyvvel kell rendelkeznie. A szolgálati könyvet az úszólétesítményen való első szolgálat felvételekor át kell adni az úszólétesítmény vezetőjének, akinek rendszeresen el kell végeznie az összes bejegyzéseket, és a szolgálati viszony befejezéséig azt biztonságosan meg kell őriznie. Ezt a szolgálati könyvet a tulajdonos kívánságára mindenkor és késedelem nélkül ki kell szolgáltatni.
+## 1. A személyzet minden tagjának a külön jogszabályban[^18] meghatározott, személyére kiállított hajós szolgálati könyvvel kell rendelkeznie. A szolgálati könyvet az úszólétesítményen való első szolgálat felvételekor át kell adni az úszólétesítmény vezetőjének, akinek rendszeresen el kell végeznie az összes bejegyzéseket, és a szolgálati viszony befejezéséig azt biztonságosan meg kell őriznie. Ezt a szolgálati könyvet a tulajdonos kívánságára mindenkor és késedelem nélkül ki kell szolgáltatni.
 
 ## 2. A szolgálati könyv tulajdonosának azt a kiállítás dátumától kezdve minden 12 hónapon belül legalább egyszer be kell mutatnia az illetékes hajózási hatóságnak láttamoztatás céljából.
 
 ## 3. A járművön a szolgálat ellátására jogosító képesítés meglétét bármikor kell tudni igazolni:
 
-## 3.1. A hajózási képesítésekről szóló rendeletben[^18] meghatározott képesítő oklevéllel, illetve bizonyítvánnyal
+## 3.1. A hajózási képesítésekről szóló rendeletben[^19] meghatározott képesítő oklevéllel, illetve bizonyítvánnyal
 
 ## 3.2. A fedélzetmester, a matróz-gépkezelő, a matróz és a tanulómatróz esetében a szolgálati könyvvel vagy a 3.1. pont szerinti képesítő okmánnyal.
 
 ## 105. oldal
 
-2. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez
+2. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez[^20]
 
 [^*]: 13/2001. (IV.10.) KöViM rendelet a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról. 4. oldal
-[^13]: Az 1. számú melléklet „Tudnivalók” címe 2. pontjának első mondata a 95/2006. (XII. 27.) GKM rendelet 40. §-ának c) pontja szerint módosított szöveg.
-[^14]: Az 1. számú melléklet „Tudnivalók” címe 4. pontjának első francia bekezdése a 95/2006. (XII. 27.) GKM rendelet 40. §-ának d) pontja szerint módosított szöveg.
-[^15]: Az 1. számú melléklet „Tudnivalók” címe 5. pontjának első mondata a 95/2006. (XII. 27.) GKM rendelet 40. §-ának e) pontja szerint módosított szöveg.
-[^16]: A hajózási képesítésekről szóló 15/2001. (IV. 27.) KöViM rendelet szerint.
-[^17]: A hajós és tengerész szolgálati könyvről szóló 26/2002. (XI. 29.) GKM rendelet.
-[^18]: A hajózási képesítésekről szóló 15/2001. (IV. 27.) KöViM rendelet szerint.
+[^14]: Az 1. számú melléklet „Tudnivalók” címe 2. pontjának első mondata a 95/2006. (XII. 27.) GKM rendelet 40. §-ának c) pontja szerint módosított szöveg.
+[^15]: Az 1. számú melléklet „Tudnivalók” címe 4. pontjának első francia bekezdése a 95/2006. (XII. 27.) GKM rendelet 40. §-ának d) pontja szerint módosított szöveg.
+[^16]: Az 1. számú melléklet „Tudnivalók” címe 5. pontjának első mondata a 95/2006. (XII. 27.) GKM rendelet 40. §-ának e) pontja szerint módosított szöveg.
+[^17]: A hajózási képesítésekről szóló 15/2001. (IV. 27.) KöViM rendelet szerint.
+[^18]: A hajós és tengerész szolgálati könyvről szóló 26/2002. (XI. 29.) GKM rendelet.
+[^19]: A hajózási képesítésekről szóló 15/2001. (IV. 27.) KöViM rendelet szerint.
+[^20]: A 2. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 31. §-a szerint módosított szöveg.
