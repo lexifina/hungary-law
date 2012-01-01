@@ -1,0 +1,3 @@
+## 2. § Az R. a következő 16. §-sal egészül ki:
+
+## „16. § A törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet 2. és 3. számú mellékletének egyes indikációs pontjaihoz tartozó kijelölt intézmények vonatkozásában a 32/2004. (IV. 26.) ESZCSM rendelet 2–3. számú mellékletének indikációs pontjaiban feltüntetett kijelölt intézmények, illetve szakorvosok listájáról szóló 2/2010. (I. 27.) EüM tájékoztató 2011. december 31-én hatályos rendelkezéseit kell alkalmazni.”
