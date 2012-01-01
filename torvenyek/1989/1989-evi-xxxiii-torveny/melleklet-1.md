@@ -8,7 +8,7 @@ Bevételek:
 
 1. Tagdíjak
 
-2. Állami költségvetésből származó támogatás
+2. Központi költségvetésből származó támogatás
 
 3. Képviselői csoportnak nyújtott állami támogatás
 

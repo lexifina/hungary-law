@@ -1,1 +1,1 @@
-14. § Az e törvény hatálybalépésekor működő pártoknak a törvény hatálybalépésétől számított három hónapon belül kell kérniük nyilvántartásba vételüket. E pártok bejegyzése nem érinti jogi személyiségük jogfolytonosságát.
+14. §

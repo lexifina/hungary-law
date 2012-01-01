@@ -60,7 +60,7 @@ A vagyon forrása Ft-ban
 
 35. Elszámolás a munkavállalókkal
 
-36. Elszámolás az állami költségvetéssel
+36. Elszámolás a központi költségvetéssel
 
 37. Egyéb elszámolások
 
