@@ -122,7 +122,7 @@
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Talajvédelem | megyei kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2 | Talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
 
 | 3 | Természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -150,13 +150,15 @@
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | : Országos Tisztifőorvosi Hivatal |
+| 2 | Egészségügy | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
 | 3 | Bányászat | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 4 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | 5 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
+
+| 6 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 8. Villamosenergia-ipari építésügyi engedélyezési eljárás
 
@@ -180,6 +182,6 @@
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal” |
+| 2 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) korm. rendelet 280. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított szöveg.
