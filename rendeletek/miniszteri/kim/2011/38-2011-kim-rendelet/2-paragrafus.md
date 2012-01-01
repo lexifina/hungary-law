@@ -1,0 +1,3 @@
+## 1. § A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet (a továbbiakban: Cvhr.) 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha a cég képviseletére feljogosított vezető tisztségviselő vagy a cég cégjegyzékbe bejegyzett (bejegyezni kívánt) tagja külföldi személy vagy külföldi szerv, az állami adóhatósághoz történő bejelentkezés esetén a bejegyzési (változásbejegyzési) nyomtatványon az állami adóhatóság által kiadott adóazonosító számot kell feltüntetnie. Az állami adóhatóság által kiadott adóazonosító szám hiányában a külföldinek az illetősége szerinti államban kiadott, bármely közteherviseléssel kapcsolatos azonosító számot kell feltüntetnie.”
