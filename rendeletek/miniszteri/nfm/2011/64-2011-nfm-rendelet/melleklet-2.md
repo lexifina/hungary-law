@@ -60,7 +60,7 @@
 
 ## 2.2.7. A közvilágítási célra vételező felhasználók esetében a teljesítményüket a közvilágítási lámpatestek beépített teljesítményével, azaz a fényforrásnak az előtét, a gyújtó és a lámpatestbe épített feszültségszabályzó teljesítményfelvételével növelt névleges villamos teljesítményével kell figyelembe venni. Ha a közvilágítási berendezés fényáramszabályzóval van ellátva, akkor a közvilágítási berendezés számított teljesítményét – az elosztó üzletszabályzatában rögzített módon – a szabályzóberendezés által beállított legnagyobb feszültségnek megfelelő szabályozási tényezővel kell módosítani.
 
-## 2.2.8. A környezetvédelmi és vízügyi igazgatóságok kezelésében, továbbá a vízitársulatok kezelésében álló és helyi vízrendezési, valamint vízkár-elhárítási feladatok ellátása érdekében működtetett ár- és belvízvédelmi szivattyútelepek esetében az adott hónapra vonatkozó teljesítménydíjat az adott hónapot követően kell elszámolni oly módon, hogy a fizetendő teljesítménydíj megegyezzen az adott hónapban mért legnagyobb teljesítmény-igénybevételnek megfelelő éves teljesítménydíj 1/12 részével.
+## 2.2.8.[^2] A vízügyi igazgatóságok kezelésében, továbbá a vízitársulatok kezelésében álló és helyi vízrendezési, valamint vízkár-elhárítási feladatok ellátása érdekében működtetett ár- és belvízvédelmi szivattyútelepek esetében az adott hónapra vonatkozó teljesítménydíjat az adott hónapot követően kell elszámolni oly módon, hogy a fizetendő teljesítménydíj megegyezzen az adott hónapban mért legnagyobb teljesítmény-igénybevételnek megfelelő éves teljesítménydíj 1/12 részével.
 
 ## 2.2.9. A lekötött teljesítmény nem engedélyezett túllépése esetén a rendszerhasználó a túllépés minden megkezdett kW-jára havonta a Hivatal által megállapított éves teljesítménydíj 1/4 részének megfelelő teljesítménydíjat köteles fizetni.
 
@@ -173,3 +173,5 @@ b) az elosztói teljesítménydíj kiszámításához a közvilágítási berend
 c) az elosztói forgalmi díj, veszteség díj, meddő energia díj és a közvilágítási elosztási díj megfizetéséhez az elszámolás alapjául szolgáló villamosenergia-mennyiségeket.
 
 2.5. A részszámlákon a fogyasztásarányos rendszerhasználati díjak a tételenkénti feltüntetés helyett összevontan is szerepeltethetők.
+
+[^2]: Az 1. melléklet 2.2.8. pontja a 83/2011. (XII. 29.) NFM rendelet 7. §-a szerint módosított szöveg.
