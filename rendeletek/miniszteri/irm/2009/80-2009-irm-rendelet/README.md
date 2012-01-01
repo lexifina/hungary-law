@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-80-20-1
 | 2010-09-01 | 2009-80-20-1U.1 | 80/2009. (XII. 28.) IRM rendelet |
 | 2010-09-02 | 2009-80-20-1U.2 | 3/2010. (VI. 28.) KIM rendelet |
 | 2010-09-03 | 2009-80-20-1U.3 | 3/2010. (VI. 28.) KIM rendelet |
+| 2012-01-01 | 2009-80-20-1U.4 | 40/2011. (XII. 30.) KIM rendelet |
