@@ -6,7 +6,7 @@
 
 (4) A (3) bekezdésben meghatározott feltételeken kívüli esetben a hátralévő lejárati idő az alapul szolgáló hitelviszonyt megtestesítő értékpapír hátralévő lejárati ideje vagy kifizetési láb estén az ügylet hátralévő lejárati ideje.
 
-(5)[^4] A nemteljesítéskori csereügylet alapjául szolgáló hitelviszonyt megtestesítő értékpapír minden egyes kibocsátójához egy fedezeti halmazt kell rendelni azzal, hogy az n-edik nemteljesítéskor lehívható nemteljesítéskori csereügyletek kosarát az alábbiak szerint kell kezelni:
+(5)[^8] A nemteljesítéskori csereügylet alapjául szolgáló hitelviszonyt megtestesítő értékpapír minden egyes kibocsátójához egy fedezeti halmazt kell rendelni azzal, hogy az n-edik nemteljesítéskor lehívható nemteljesítéskori csereügyletek kosarát az alábbiak szerint kell kezelni:
 
 a) az n-edik nemteljesítéskor lehívható nemteljesítéskori csereügylet alapjául szolgáló hitelviszonyt megtestesítő értékpapír kosárból származó referencia eszközben lévő kockázati pozíció értéke megegyezik a referencia eszközt képező hitelviszonyt megtestesítő értékpapír tényleges elvi értékének és az n-edik nemteljesítéskor lehívható nemteljesítéskori csereügyleteknek a hitelviszonyt megtestesítő értékpapírok hitelkockázati felárának változására vonatkoztatott módosított hátralévő futamidejének a szorzatával;
 
@@ -30,4 +30,4 @@ b) az olyan alapul szolgáló hitelviszonyt megtestesítő értékpapír kamatko
 
 (8) A hitelintézet azonos fedezeti halmazba sorolhatja az adott kibocsátóhoz tartozó hitelviszonyt megtestesítő értékpapírhoz vagy az alapul szolgáló hitelviszonyt megtestesítő értékpapírhoz tartozó kockázati pozícióját, amelyet egy kifizetési láb követ vagy amely nemteljesítéskori csereügylet alapjául szolgál.
 
-[^4]: A 10. § (5) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^8]: A 10. § (5) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 51. §-ával megállapított szöveg.

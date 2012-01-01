@@ -10,18 +10,22 @@ c) a hitelintézet rendelkezik a szerződéses nettósítás jogi érvényesség
 
 d) a hitelintézet dokumentációja mindenre kiterjedő és naprakész,
 
-e) a partnerek összesített hitelkockázati kitettség értékének értékelése során a nettósítás hatásai figyelembe vannak véve és a hitelintézet a partnerkockázatát ennek mentén kezeli, és
+e)[^12] a partnerek összesített hitelkockázati kitettség értékének mérése során a nettósítás hatásait figyelembe veszik és a hitelintézet a partnerkockázatát ennek mentén kezeli és
 
-f) minden egyes partnerrel szembeni hitelezési kockázat összesítésre kerül az ügyletek közötti egyetlen jogi kitettség keretében azzal, hogy az összesítést figyelembe veszi a hitelkorlátok és a belső tőke tekintetében.
+f)[^13] minden egyes partnerrel szembeni hitelezési kockázatok összesítésre kerülnek az ügyletek közötti nettósítás révén egyetlen jogi kitettség keretében azzal, hogy a hitelintézet ezt az összeget veszi figyelembe a partnerek hitellimitjeinek kezelésénél és a belső tőkeszámításoknál.
 
 (2) A szerződéses nettósítás kockázatmérséklő hatása a tőkekövetelmény számítása során nem ismerhető el, ha a szerződésnek van olyan kikötése (walkaway clause), amely alapján az egyik fél nemteljesítése esetén a másik félnek lehetősége van korlátozott teljesítésre vagy nemteljesítésre, még akkor is, ha a nemteljesítő nettó hitelező.
 
-(3) Az (1) bekezdésben rögzített feltételeken kívül a termékek közötti szerződéses nettósítási megállapodásnak eleget kell a következő feltételeknek is tenni a kockázatmérséklő hatása elismerhetősége érdekében:
+(3)[^14] Az (1) bekezdésben rögzített feltételeken kívül a termékcsoportok közötti szerződéses nettósítási megállapodásnak a kockázatmérséklő hatása elismerhetősége érdekében eleget kell tennie a következő feltételeknek is:
 
-a) az (1) bekezdés a) pontja szerinti nettó összegnek a kétoldalú szerződéses nettósítási megállapodás pozitív és negatív értékeinek és az egyedi ügyletek piaci árazás szerinti, pozitív és negatív értéknek a nettó összeget kell tekinteni,
+a) az (1) bekezdés a) pontja szerinti nettó összegnek a termékcsoportok közötti nettósítási megállapodás hatálya alá tartozó összes kétoldalú szerződéses nettósítási keretmegállapodás pozitív és negatív pozíció lezáró értékeinek, továbbá az egyes egyedi ügyletek pozitív és negatív piaci értéknek a nettó összegét kell tekinteni,
 
-b) az (1) bekezdés b) pontja szerinti írásos és indokolással ellátott jogi szakvéleménynek ki kell térnie a termékek közötti szerződéses nettósítási megállapodás érvényességére és érvényesíthetőségére, valamint az egyedi kétoldalú szerződéses nettósítási megállapodás dologi rendelkezéseivel kapcsolatos nettósítási megállapodás hatásaira,
+b) az (1) bekezdés b) pontja szerinti írásos és indokolással ellátott jogi szakvéleménynek ki kell térnie a termékcsoportok közötti szerződéses nettósítási megállapodás érvényességére és érvényesíthetőségére, valamint a termékcsoportok közötti kétoldalú szerződéses nettósítási megállapodásnak a hatálya alá tartozó bármely kétoldalú nettósítási keretmegállapodás lényeges rendelkezéseire gyakorolt hatására,
 
-c) a hitelintézetnek olyan eljárással kell rendelkeznie az (1) bekezdés c) pontja vonatkozásában, amely biztosítja a nettósítási halmazba tartozó ügylet jogi szakvéleménnyel való lefedettségét, valamint
+c) a hitelintézetnek olyan eljárással kell rendelkeznie az (1) bekezdés c) pontja vonatkozásában, amely biztosítja a nettósítási halmazba tartozó minden ügylet jogi szakvéleménnyel való lefedettségét, valamint
 
-d) a hitelintézetnek meg kell felelnie a kétoldalú szerződéses nettósítási megállapodás és a Hkr. hitelkockázati fedezet elismerhetőségére vonatkozó feltételeknek a termékek közötti nettósítási megállapodás figyelembevétele tekintetében, ideértve az egyes kétoldalú szerződéses megállapodást és az egyedi ügyletet is.
+d) a kétoldalú termékcsoportok közötti szerződéses nettósítási megállapodás tekintetében a belső modell módszert alkalmazó hitelintézetnek meg kell felelnie a Hkr. hitelkockázati fedezet elismerhetőségére vonatkozó feltételeknek, ideértve a szerződés hatálya alá tartozó minden egyes kétoldalú szerződéses keretmegállapodást és az egyedi ügyletet is.
+
+[^12]: A 30. § (1) bekezdés e) pontja a 348/2011. (XII. 30.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^13]: A 30. § (1) bekezdés f) pontja a 348/2011. (XII. 30.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^14]: A 30. § (3) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.

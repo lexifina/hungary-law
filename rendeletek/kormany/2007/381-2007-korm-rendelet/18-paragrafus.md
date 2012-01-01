@@ -1,8 +1,8 @@
 ## 17. § A belső modell módszere alkalmazásakor a kitettség értéket a 4. számú mellékletben meghatározottak szerint kell kiszámítani.
 
-18. § (1)[^5] A 4. számú melléklet 1. pontjától eltérően a Felügyelet engedélyével a hitelintézet saját becslése alapján legalább 1,2-es értékű alfa (α) értéket alkalmazhat, ahol alfa (α) az összes partner partnerkockázatának átfogó teljes szimulációjából számított belső tőke és a várható pozitív kitettség értéken alapuló belső tőke aránya azzal, hogy a várható pozitív kitettséget úgy kell tekinteni, mintha egy fix összegű kintlévőség lenne.
+18. § (1)[^9] A 4. számú melléklet 1. pontjától eltérően a Felügyelet engedélyével a hitelintézet saját becslése alapján legalább 1,2-es értékű alfa (α) értéket alkalmazhat, ahol alfa (α) az összes partner partnerkockázatának átfogó teljes szimulációjából számított belső tőke és a várható pozitív kitettség értéken alapuló belső tőke aránya azzal, hogy a várható pozitív kitettséget úgy kell tekinteni, mintha egy fix összegű kintlévőség lenne.
 
-(2)[^6] Az (1) bekezdés alkalmazásakor a hitelintézetnek az alfa (α) értékre vonatkozó saját becslésekor figyelembe kell vennie az összes partner partnerkockázatának átfogó teljes szimulációjából számított belső tőkének az ügyletek vagy az ügyletek portfóliója piaci értéke eloszlásától való sztochasztikus függését befolyásoló lényeges tényezőket. Az alfa (α) saját becslésének figyelembe kell vennie a portfóliók szemcsézettségét, tagoltságát is.
+(2)[^10] Az (1) bekezdés alkalmazásakor a hitelintézetnek az alfa (α) értékre vonatkozó saját becslésekor figyelembe kell vennie az összes partner partnerkockázatának átfogó teljes szimulációjából számított belső tőkének az ügyletek vagy az ügyletek portfóliója piaci értéke eloszlásától való sztochasztikus függését befolyásoló lényeges tényezőket. Az alfa (α) saját becslésének figyelembe kell vennie a portfóliók szemcsézettségét, tagoltságát is.
 
 (3) Az (1) bekezdés szerinti aránynak a modellezési módszerrel, a paraméterekre vonatkozó előírásokkal és a portfólió összetételével konzisztensnek kell lennie. Az alkalmazott módszernek a hitelintézet belső tőkére vonatkozó megközelítése tekintetében dokumentáltnak és a hitelintézet ügyvezetése által felülvizsgáltnak kell lennie.
 
@@ -20,5 +20,5 @@ c) ha a várható kitettség érték becslésekor a modell tükrözi a biztosít
 
 (7) A (6) bekezdés b) pontja szerinti hozzáadott értéket a biztosítéki kockázati periódus alatti nulla értékű kitettség értékből származó, a nettósítási halmaz kitettségében bekövetkező várható növekedésként kell számítani. A repó ügyletekből álló nettósítási halmaz esetén – napi piaci értékelés és napi biztosíték-kiigazítás mellett – öt munkanap, nem repó ügyletekből álló nettósítási halmaz esetén tíz munkanap fogadható el a kockázat biztosíték-kiigazítási időszakaként.
 
-[^5]: A 18. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 52. §-ával megállapított szöveg.
-[^6]: A 18. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 52. §-ával megállapított szöveg.
+[^9]: A 18. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 52. §-ával megállapított szöveg.
+[^10]: A 18. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 52. §-ával megállapított szöveg.
