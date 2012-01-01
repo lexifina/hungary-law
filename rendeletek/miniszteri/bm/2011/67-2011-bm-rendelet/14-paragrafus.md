@@ -1,0 +1,1 @@
+## „e) ha egészségi, illetve pszichikai állapotában az alapellátó orvos, illetve pszichológus vagy a közvetlen szolgálati elöljáró az alkalmatlanság megállapítására okot adó körülményt észlel, és írásban kezdeményezi a soron kívüli vizsgálatot,”

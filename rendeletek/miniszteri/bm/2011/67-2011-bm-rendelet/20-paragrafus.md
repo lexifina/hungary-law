@@ -1,0 +1,1 @@
+## „(10) A minősítő határozattal rendelkező személyeknél, ha a FÜV bizottság „Jelenlegi beosztására alkalmatlan” vagy „Hivatásos szolgálatra alkalmatlan” döntést hoz, a határozat rendelkező részében nyilatkozik az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel való összefüggéséről.”
