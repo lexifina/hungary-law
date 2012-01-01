@@ -16,4 +16,4 @@ c) közreműködik abban, hogy a rászorult saját vagy más forrásból anyagi 
 
 (5) A miniszter különös méltánylást érdemlő esetekben kérelemre a konzuli kölcsön visszafizetése alól részben vagy egészben mentesítést adhat. A miniszter határozata a közigazgatási ügyekben eljáró bíróság előtt kizárólag semmisségére hivatkozva támadható meg.
 
-(6) A konzuli kölcsönre előirányzott keretet fejezeti kezelésű előirányzatként a Magyar Köztársaság költségvetésének a miniszter által vezetett minisztériumra vonatkozó költségvetési fejezetében kell megállapítani.
+(6) A konzuli kölcsönre előirányzott keretet fejezeti kezelésű előirányzatként a miniszter által vezetett minisztérium költségvetési fejezetében kell megállapítani.

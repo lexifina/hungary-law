@@ -4,7 +4,7 @@
 
 (2) Más állampolgársággal is rendelkező magyar állampolgár a másik állampolgársága szerinti államban olyan mértékben jogosult a védelemre, amilyen mértékig azt a fogadó állam lehetővé teszi.
 
-(3) Olyan államban, ahol a Magyar Köztársaságnak nem működik diplomáciai vagy konzuli képviselete, – a (4) bekezdés rendelkezéseit nem érintve – nemzetközi szerződés vagy viszonosság alapján harmadik állam konzuli szolgálata is elláthatja a magyar állampolgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi. Nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat is elláthatja harmadik állam állampolgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
+(3) Olyan államban, ahol Magyarországnak nem működik diplomáciai vagy konzuli képviselete, – a (4) bekezdés rendelkezéseit nem érintve – nemzetközi szerződés vagy viszonosság alapján harmadik állam konzuli szolgálata is elláthatja a magyar állampolgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi. Nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat is elláthatja harmadik állam állampolgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
 
 (4) Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján magyar állampolgár érdekvédelmét az Európai Unió tagállama is elláthatja, feltéve, hogy azt a fogadó állam nem ellenzi. Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat ellátja az Európai Unió polgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
 

@@ -1,6 +1,6 @@
 ## Alapvető rendelkezések
 
-1. § (1) A Magyar Köztársaság a magyar állampolgár érdekeinek külföldön történő védelmét a konzuli szolgálat útján látja el (a továbbiakban: konzuli védelem). A konzuli védelem ellátása érdekében a konzuli szolgálat a 4–13. §-okban meghatározott érdekvédelmi feladatokat, illetve a konzuli tisztviselő – a konzuli szolgálat keretében – a 19. § (3)–(4) bekezdéseiben foglalt közigazgatási hatósági feladatokat végzi.
+1. § (1) Magyarország a magyar állampolgár érdekeinek külföldön történő védelmét a konzuli szolgálat útján látja el (a továbbiakban: konzuli védelem). A konzuli védelem ellátása érdekében a konzuli szolgálat a 4–13. §-okban meghatározott érdekvédelmi feladatokat, illetve a konzuli tisztviselő – a konzuli szolgálat keretében – a 19. § (3)–(4) bekezdéseiben foglalt közigazgatási hatósági feladatokat végzi.
 
 (2) A konzuli védelem körébe eső feladatokon túl e törvény a konzuli szolgálat számára egyéb feladatokat is meghatároz, valamint rendelkezik a konzuli tisztviselő közjegyzői, továbbá a külpolitikáért felelős miniszter (a továbbiakban: miniszter) és a konzuli tisztviselő felülhitelesítési tevékenységéről. A konzuli feladatok végrehajtása során a konzuli szolgálat együttműködik hazai és külföldi szervezetekkel, valamint magánszemélyekkel. Nemzetközi szerződés, törvény vagy kormányrendelet a konzuli szolgálat részére további feladatokat is meghatározhat.
 
