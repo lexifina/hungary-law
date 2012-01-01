@@ -8,7 +8,7 @@ c) rendeletben állapítsa meg a felszámolási eljárás alatt lévő vállalko
 
 d) rendeletben állapítsa meg az e törvény 31. §-a (12) bekezdésében megállapított tartalékalap képzésének és felhasználásának részletes szabályait,
 
-e) rendeletben állapítsa meg a fiatal házasok, a többgyermekes családok és más arra rászorultak méltányolható igényű otthonhoz jutásához szükséges támogatás, valamint hitelek kamattámogatásának módját, továbbá ezek részletes szabályait,
+e)
 
 f) rendeletben állapítsa meg a 36. § szerint vállalható agrárkezesség felhasználásának szabályait.
 
