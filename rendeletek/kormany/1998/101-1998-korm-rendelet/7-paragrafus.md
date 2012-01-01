@@ -1,10 +1,10 @@
-7. §[^29] (1) Az úti okmányt előállító szerv, a kormányrendeletben meghatározott körzetközponti feladatokat ellátó, okmányirodát működtető települési (fővárosi kerületi) önkormányzat jegyzője (a továbbiakban: körzetközponti jegyző), a lakó- vagy tartózkodási hely szerint illetékes települési önkormányzat jegyzője (a továbbiakban: jegyző), a magánútlevél tekintetében a konzuli tisztviselő az útlevélhatóságok feladatainak ellátásában közreműködőként vesz részt.
+7. §[^30] (1) Az úti okmányt előállító szerv, a kormányrendeletben meghatározott körzetközponti feladatokat ellátó, okmányirodát működtető települési (fővárosi kerületi) önkormányzat jegyzője (a továbbiakban: körzetközponti jegyző), a lakó- vagy tartózkodási hely szerint illetékes települési önkormányzat jegyzője (a továbbiakban: jegyző), a magánútlevél tekintetében a konzuli tisztviselő az útlevélhatóságok feladatainak ellátásában közreműködőként vesz részt.
 
 (2) A körzetközponti jegyző magánútlevél kiadásával összefüggő feladatai körében
 
 a) átveszi a magánútlevél kiadására irányuló kérelmet,
 
-b)[^30] e jogszabályban foglaltak szerint ellenőrzi a kérelmező személyi adatait és magyar állampolgárságát,
+b)[^31] e jogszabályban foglaltak szerint ellenőrzi a kérelmező személyi adatait és magyar állampolgárságát,
 
 c) a kérelemnek megfelelő adattartalmú, elektronikus úton továbbítandó kérelmet állít elő,
 
@@ -18,7 +18,7 @@ g) gondoskodik az úti okmány érvénytelenítéséről,
 
 h) kérelem esetén lehetővé teszi a tároló elem adattartalmának ellenőrzését.
 
-(3)[^31] A konzuli tisztviselő a magánútlevél kiadásával összefüggő közreműködői feladatai körében:
+(3)[^32] A konzuli tisztviselő a magánútlevél kiadásával összefüggő közreműködői feladatai körében:
 
 a) átveszi a magánútlevél kiadására irányuló kérelmet,
 
@@ -36,6 +36,6 @@ g) gondoskodik az úti okmány érvénytelenítéséről, valamint
 
 h) kérelem esetén lehetővé teszi a tároló elem adattartalmának ellenőrzését.
 
-[^29]: A 7. § a 117/2009. (VI. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^30]: A 7. § (2) bekezdés b) pontja a 98/2010. (IV. 2.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^31]: A 7. § (3) bekezdését a 98/2010. (IV. 2.) Korm. rendelet 1. §-a iktatta be.
+[^30]: A 7. § a 117/2009. (VI. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^31]: A 7. § (2) bekezdés b) pontja a 98/2010. (IV. 2.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^32]: A 7. § (3) bekezdését a 98/2010. (IV. 2.) Korm. rendelet 1. §-a iktatta be.
