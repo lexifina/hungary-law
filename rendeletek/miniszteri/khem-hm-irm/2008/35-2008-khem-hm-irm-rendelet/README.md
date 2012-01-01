@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-35-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-12-13 | 2008-35-20-2M.1 | 35/2008. (XII. 5.) KHEM–HM–IRM együttes rendelet |
+| 2012-01-01 | 2008-35-20-2M.2 | 91/2011. (XII. 30.) NFM rendelet |
