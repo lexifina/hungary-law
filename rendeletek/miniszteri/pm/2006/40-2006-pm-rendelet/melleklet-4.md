@@ -1,6 +1,6 @@
 ## Illetékek zárási összesítője
 
-| Sor- szám | Zárási összesítő | Öröklési illeték (gépjármű nélkül) | Ajándékozási illeték (gépjármű nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatósági eljárási illeték | Összesen |
+| Sor- szám | Zárási összesítő | Öröklési illeték (gépjármű és egyenes ági mentes nélkül) | Ajándékozási illeték (gépjármű nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatósági eljárási illeték | Összesen |
 
 | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz |
 
@@ -60,7 +60,7 @@
 
 ## * Tárgyévben jogerőssé vált követelés csökkentve az esedékességi sorrend szerint azt csökkentő tárgyévben jogerőssé vált törléssel.
 
-4. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^11]
+4. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^12]
 
 ## Folyó évi előírás alakulása
 
@@ -76,17 +76,7 @@
 
 | Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
@@ -96,17 +86,7 @@
 
 | Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -118,17 +98,7 @@
 
 | Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -138,17 +108,7 @@
 
 | Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -160,17 +120,7 @@
 
 | Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -180,17 +130,7 @@
 
 | Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -202,17 +142,7 @@
 
 | Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -222,17 +152,7 @@
 
 | Megoszlása örökhagyó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -248,17 +168,7 @@
 
 | Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
@@ -268,17 +178,7 @@
 
 | Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
@@ -290,17 +190,7 @@
 
 | Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
@@ -310,17 +200,7 @@
 
 | Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -332,17 +212,7 @@
 
 | Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | _ |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | _ |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
@@ -352,17 +222,7 @@
 
 | Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
@@ -374,17 +234,7 @@
 
 | Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
 | testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  | – |
 
@@ -394,19 +244,7 @@
 
 | Megoszlása ajándékozó |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| gyermeke |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 | házastársa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| szülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| háztartásban eltartott szülő nélküli unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| egyéb unokája |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| nagyszülője |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| testvére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | minden más megajándékozott szerint |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -612,7 +450,7 @@
 
 4. Ingatlan és ingó öröklése
 
-| Illetékalap sáv (Ft) | Örökös által szerzett tulajdonjog | Egy örökös által szerzett vagyon |
+| Illetékalap sáv (Ft) | Örökös által megszerzett tulajdonjog (az egyenes ági mentességet élvező örökösök kivételével) | Egy örökös által szerzett vagyon |
 
 | Lakás | Termőföld | Egyéb ingatlan | Értékpapír | Egyéb ingó |
 
@@ -718,4 +556,4 @@
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^11]: A 4. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (4) bekezdése, a 31/2009. (XII. 18.) PM rendelet 7. §-a és 11. § d) pontja szerint módosított szöveg.
+[^12]: A 4. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (4) bekezdése, a 31/2009. (XII. 18.) PM rendelet 7. §-a és 11. § d) pontja, az 52/2011. (XII. 29.) NGM rendelet 8. § és 10. §-a szerint módosított szöveg.

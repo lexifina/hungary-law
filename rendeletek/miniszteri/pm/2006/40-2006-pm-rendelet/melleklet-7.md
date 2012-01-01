@@ -142,13 +142,13 @@
 
 | Összesen |  |  |  |  |  |  |  |
 
-7. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^14]
+7. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^15]
 
 ## Mentességek, kedvezmények érvényesülése
 
-1.[^15] Személyes mentesség
+1.[^16] Személyes mentesség
 
-Az 1.1–1.12. pontokban felsorolt személyes mentességi jogcímenként a visszterhes vagyonátruházás, öröklési, ajándékozási illetékek esetében az érintett forgalmi értéket Ft-ban, érintett szervezetek/személyek számát, ügyek számát, a közigazgatási hatósági eljárási, a bírósági eljárási és a felügyeleti illeték esetében illetékösszegét Ft-ban, érintett szervezetek/személyek, ügyek számát kell illetékfajtánként táblázatszerűen közölni.
+Az 1.1–1.13. pontokban felsorolt személyes mentességi jogcímenként a visszterhes vagyonátruházás, öröklési, ajándékozási illetékek esetében az érintett forgalmi értéket Ft-ban, érintett szervezetek/személyek számát, ügyek számát, a közigazgatási hatósági eljárási, a bírósági eljárási és a felügyeleti illeték esetében illetékösszegét Ft-ban, érintett szervezetek/személyek, ügyek számát kell illetékfajtánként táblázatszerűen közölni.
 
 1.1. Helyi önkormányzat, önkormányzati intézmény, önkormányzati társulás
 
@@ -156,9 +156,9 @@ Az 1.1–1.12. pontokban felsorolt személyes mentességi jogcímenként a vissz
 
 1.3. Magyar Nemzeti Vagyonkezelő Zrt.
 
-1.4. Társadalmi szervezet
+1.4.[^17] Egyesület
 
-1.5.[^16] Közhasznú nonprofit gazdasági társaság
+1.5.[^18] közhasznú, kiemelten közhasznú nonprofit gazdasági társaság
 
 1.6. Egyház, egyházi intézmény, egyházak szövetsége
 
@@ -170,11 +170,13 @@ Az 1.1–1.12. pontokban felsorolt személyes mentességi jogcímenként a vissz
 
 1.10. Egészségbiztosítási szerv, Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv
 
-1.11. Magyar Nemzeti Bank, Magyar Távirati Iroda Részvénytársaság
+1.11.[^19] Magyar Nemzeti Bank, Magyar Rádió Nonprofit Zrt., Magyar Televízió Nonprofit Zrt., Duna Televízió Nonprofit Zrt., Magyar Távirati Iroda Nonprofit Zrt., Médiaszolgáltatás-támogató és Vagyonkezelő Alap
 
-1.12. Egyéb (köztestület; Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az említett fegyveres erők alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő illetékügyek tekintetében; a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó fejlesztési tanács)
+1.12.[^20] Az Európai Unió, valamint intézményei és szervei, hivatalai, elkülönült alapjai; nemzetközi szervezet, ennek tisztségviselői és családtagjaik, idegen állam, idegen állam magyarországi diplomáciai, konzuli és egyéb képviselete, ezek tagjai és családtagjaik
 
-2.[^17] Nem személyes mentes vagyonszerző által szerzett tárgyi illetékmentes örökség
+1.13.[^21] Egyéb (köztestület; Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az említett fegyveres erők alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő illetékügyek tekintetében; a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó fejlesztési tanács)
+
+2.[^22] Nem személyes mentes vagyonszerző által szerzett tárgyi illetékmentes örökség
 
 A 2.1–2.10. pontokban felsorolt mentességi jogcímenként a tárgyi mentes örökség forgalmi értékét mentességi jogcímenként összesen Ft-ban és a mentességi jogcímmel érintett hagyatékátadó végzések számát kell táblázatszerűen közölni.
 
@@ -182,23 +184,23 @@ A 2.1–2.10. pontokban felsorolt mentességi jogcímenként a tárgyi mentes ö
 
 2.2. Takarékbetét
 
-2.3.[^18] Az Európai Gazdasági Térségről szóló megállapodásban részes állam által kibocsátott, hitelviszonyt megtestesítő értékpapír
+2.3.[^23] Az Európai Gazdasági Térségről szóló megállapodásban részes állam által kibocsátott, hitelviszonyt megtestesítő értékpapír
 
 2.4. Egy örökösnek jutó (más címen mentes és gépjármű, pótkocsi nélküli) ingóörökség 300 000 forint forgalmi értéket meg nem haladó részének öröklése
 
 2.5. Lakástulajdon haszonélvezetének, használatának a túlélő házastárs általi öröklése
 
-2.6. Szülő kiskorú gyermeke utáni öröklése
+2.6.[^24]
 
 2.7. Lakóház építésére alkalmas telek tulajdonjogának öröklése
 
 2.8. Lakóház építésére alkalmas telekre vonatkozó vagyoni értékű jog öröklése
 
-2.9. Önálló orvosi tevékenység működtetési jogának öröklés útján történő megszerzése
+2.9.[^25]
 
-2.10.[^19] Az örökhagyó gyermeke, házastársa, szülője, valamint a háztartásában eltartott szülő nélküli unokája által megszerzett örökrész tiszta értékéből 20 millió forint
+2.10.[^26] Az örökhagyó házastársa által megszerzett örökrész tiszta értékéből 20 millió forint
 
-3.[^20] Nem személyes mentes vagyonszerző által szerzett tárgyi illetékmentes ajándék
+3.[^27] Nem személyes mentes vagyonszerző által szerzett tárgyi illetékmentes ajándék
 
 A 3.1–3.14. pontokban felsorolt mentességi jogcímenként a tárgyi mentes ajándék forgalmi értékét Ft-ban és az egyes mentességi jogcímekkel érintett ajándékozási ügyletek számát kell táblázatszerűen közölni.
 
@@ -220,19 +222,19 @@ A 3.1–3.14. pontokban felsorolt mentességi jogcímenként a tárgyi mentes aj
 
 3.9. Jogszabályi kötelezettségen alapuló ingyenes eszközátadás
 
-3.10.[^21] A visszterhes vagyonátruházási illeték tárgyát nem képező ingó vagyontárgyaknak a számvitelről szóló törvény szerinti térítésmentes eszközátruházás keretében történő, gazdálkodó szervezet általi megszerzése, illetve a követelés gazdálkodó szervezetek közötti ajándékozás – ideértve a követeléselengedést és a tartozásátvállalást is – útján történő megszerzése
+3.10.[^28] A visszterhes vagyonátruházási illeték tárgyát nem képező ingó vagyontárgyaknak a számvitelről szóló törvény szerinti térítésmentes eszközátruházás keretében történő, gazdálkodó szervezet általi megszerzése, illetve a követelés gazdálkodó szervezetek közötti ajándékozás – ideértve a követeléselengedést és a tartozásátvállalást is – útján történő megszerzése
 
-3.11.[^22] A pénzügyi intézmény által az azonos helyzetben levők egyenlő elbánásának elve alapján a magánszemély adós és családja megélhetési ellehetetlenülésének megelőzése érdekében elengedett követelés útján megvalósuló vagyonszerzés
+3.11.[^29] A pénzügyi intézmény által az azonos helyzetben levők egyenlő elbánásának elve alapján a magánszemély adós és családja megélhetési ellehetetlenülésének megelőzése érdekében elengedett követelés útján megvalósuló vagyonszerzés
 
-3.12.[^23] Munkavállalónak adott ingyenes juttatás, mely mentes a személyi jövedelemadó alól
+3.12.[^30] Munkavállalónak adott ingyenes juttatás, mely mentes a személyi jövedelemadó alól
 
-3.13.[^24] Önálló orvosi tevékenység működtetési jogának ajándékozás útján történő megszerzése
+3.13.[^31] Önálló orvosi tevékenység működtetési jogának ajándékozás útján történő megszerzése
 
-3.14.[^25] Egyéb (lakástulajdon kezelői jogának megszerzése; közüzemi létesítmény, illetve az ehhez tartozó földrészlet kezelői jogának az üzemeltető által történő megszerzése; állami tulajdonú természetvédelemi terület kezelői jogának a természetvédelmi kezelő általi megszerzése; hitel-, kölcsönszerződés jogosultja által elengedett 10 000 Ft-ot meg nem haladó követelés; közüzemi díjtartozás elengedése)
+3.14.[^32] Egyéb (lakástulajdon kezelői jogának megszerzése; közüzemi létesítmény, illetve az ehhez tartozó földrészlet kezelői jogának az üzemeltető által történő megszerzése; állami tulajdonú természetvédelmi terület kezelői jogának a természetvédelmi kezelő általi megszerzése; a termőföldről szóló törvény 3. § u) pontjának 2. alpontjában meghatározott mezőgazdasági termelők gazdaságátadási támogatásának igénybevétele érdekében a közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény, valamint ingó ajándékozása, illetve vagyoni értékű jog ingyenes átengedése)
 
-4.[^26] Nem személyes mentes vagyonszerző tárgyi illetékmentes visszterhes vagyonszerzése
+4.[^33] Nem személyes mentes vagyonszerző tárgyi illetékmentes visszterhes vagyonszerzése
 
-A 4.1–4.17. pontokban felsorolt mentességi jogcímenként a tárgyi mentes vagyonszerzés forgalmi értéket Ft-ban és a vagyonszerzők számát kell táblázatszerűen közölni.
+A 4.1–4.21. pontokban felsorolt mentességi jogcímenként a tárgyi mentes vagyonszerzés forgalmi értéket Ft-ban és a vagyonszerzők számát kell táblázatszerűen közölni.
 
 4.1. Lakóház építésére alkalmas telektulajdon megszerzése, ha 4 éven belül lakóházat építenek rá
 
@@ -242,17 +244,17 @@ A 4.1–4.17. pontokban felsorolt mentességi jogcímenként a tárgyi mentes va
 
 4.4. Állami tulajdonban levő természetvédelmi terület kezelői jogának a természetvédelmi kezelő által történő megszerzése, állami vagyon vagyonkezelői jogának megszerzése
 
-4.5.[^27] Ügyvédi iroda olyan átalakulással (egyesülés,szétválás) bekövetkező vagyonszerzése, amikor a létrejövő iroda (irodák) a korábbinak jogutóda(i)
+4.5.[^34] Ügyvédi iroda olyan átalakulással (egyesülés,szétválás) bekövetkező vagyonszerzése, amikor a létrejövő iroda (irodák) a korábbinak jogutóda(i)
 
 4.6. Kisajátítás
 
-4.7.[^28] Gépjármű, pótkocsi tulajdonjogának gépjármű, pótkocsi forgalmazására jogosult vállalkozó, továbbá a gépjárműlízinget folytató vállalkozó általi megszerzése
+4.7.[^35] Gépjármű, pótkocsi tulajdonjogának gépjármű, pótkocsi forgalmazására jogosult vállalkozó, továbbá a gépjárműlízinget folytató vállalkozó általi megszerzése
 
 4.8. Helyi önkormányzat vagy az állam tulajdonában álló lakás tulajdonjogának, haszonélvezeti jogának a lakástörvény alapján elővásárlási joggal rendelkező személy által történő megszerzése
 
 4.9. Birtokösszevonási célú önkéntes földcsere keretében létrejött megállapodáson alapuló termőföldtulajdon szerzése, birtokösszevonási célú önkéntes földcsere keretében létrejött megállapodáson alapuló haszonélvezet, használat jogának alapítása abban az esetben, ha az elcserélt földrészletet azonos jogosult javára haszonélvezet, használat joga terhelte
 
-4.10.[^29] Regisztrációs igazolással rendelkező, mezőgazdasági tevékenységet végző személy általi termőföldszerzés, az Itv.-ben meghatározott feltételekkel
+4.10.[^36] Regisztrációs igazolással rendelkező, mezőgazdasági tevékenységet végző személy általi termőföldszerzés, az Itv.-ben meghatározott feltételekkel
 
 4.11. Önálló orvosi tevékenység működtetési jogának megszerzése, ha az átruházó az önálló orvosi tevékenységről szóló törvény erejénél fogva, az említett törvény hatálybalépésétől volt jogosult a működtetési jog alapján végezhető tevékenység gyakorlására
 
@@ -260,15 +262,23 @@ A 4.1–4.17. pontokban felsorolt mentességi jogcímenként a tárgyi mentes va
 
 4.13. Természeti katasztrófa következtében megsemmisült vagy helyrehozhatatlanul megrongálódott lakástulajdon helyett vásárolt másik lakástulajdon az Itv.-ben meghatározott feltételekkel
 
-4.14. Kedvezményezett eszközátadás
+4.14.[^37] Ingatlannak, illetve az Itv. 18. § (2) bekezdésének h) pontja szerinti vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett eszközátruházás keretében történő átruházása, az Itv.-ben meghatározott feltételekkel
 
-4.15.[^30] A társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett átalakulás keretében történő vagyonszerzés
+4.15.[^38] A társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett átalakulás keretében történő vagyonszerzés
 
-4.16.[^31] A társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett részesedéscsere keretében történő vagyonszerzés
+4.16.[^39] A társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett részesedéscsere keretében történő vagyonszerzés
 
-4.17.[^32] Egyéb (az ingatlant az átruházását megelőzően már fennállott és az ingatlan-nyilvántartásba bejegyzett haszonélvezettel, használattal terhelten idegenítik el; az ingatlan elidegenítése az átruházó haszonélvezetének vagy a használat jogának fenntartásával történik; lakástulajdon kezelői jogának megszerzése; közcélú vízi létesítmények és tartozékaik kezelői jogának megszerzése)
+4.17.[^40] Ingatlannak a társasági adóról és osztalékadóról szóló törvény szerinti kapcsolt vállalkozások közötti átruházása
 
-5.[^33] Nem személyes mentes vagyonszerző kedvezményes ajándék- és örökségszerzése
+4.18.[^41] Belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és osztalékadóról szóló törvény szerinti kapcsolt vállalkozások közötti átruházása
+
+4.19.[^42] Az egyéni cég egyszemélyes korlátolt felelősségű társasággá való átalakulása keretében történő vagyonszerzés
+
+4.20.[^43] A kizárólag elektromos hajtómotorral ellátott gépjármű tulajdonjogának, illetve ilyen gépjárműre vonatkozó vagyoni értékű jognak a megszerzése
+
+4.21.[^44] Egyéb (az ingatlant az átruházását megelőzően már fennállott és az ingatlan-nyilvántartásba bejegyzett haszonélvezettel, használattal terhelten idegenítik el; az ingatlan elidegenítése az átruházó haszonélvezetének vagy a használat jogának fenntartásával történik; lakástulajdon kezelői jogának megszerzése; közcélú vízi létesítmények és tartozékaik kezelői jogának megszerzése; a termőföldről szóló törvény 3. § u) pontjának 2. alpontjában meghatározott mezőgazdasági termelők által gazdaságátadási támogatás igénybevétele érdekében a közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény, valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése)
+
+5.[^45] Nem személyes mentes vagyonszerző kedvezményes ajándék- és örökségszerzése
 
 A 5.1–5.14. pontokban felsorolt kedvezményi jogcímenként a kedvezményes vagyonszerzés illetékalapját, illeték összegét Ft-ban és a vagyonszerzők darabszámát kell táblázatszerűen közölni.
 
@@ -294,15 +304,15 @@ A 5.1–5.14. pontokban felsorolt kedvezményi jogcímenként a kedvezményes va
 
 5.11. Képző-, ipar-, népművészeti alkotás, muzeális tárgy, gyűjtemény államnak, helyi önkormányzatnak vagy felsőoktatási intézménynek történő felajánlása esetén járó kedvezmény
 
-5.12.[^34] Kisvállalkozásban fennálló vagyoni betét ajándékozás útján történő megszerzése
+5.12.[^46] Kisvállalkozásban fennálló vagyoni betét ajándékozás útján történő megszerzése
 
-5.13.[^35] Túlélő házastárs kisvállalkozásban fennálló vagyoni betétet örököl
+5.13.[^47] Túlélő házastárs kisvállalkozásban fennálló vagyoni betétet örököl
 
-5.14.[^36] Házastárson kívüli magánszemély a kisvállalkozásban fennálló vagyoni betétet örököl
+5.14.[^48] Házastárson kívüli magánszemély a kisvállalkozásban fennálló vagyoni betétet örököl
 
-6. Nem személyes mentes vagyonszerző kedvezményes visszterhes vagyonszerzése
+6.[^49] Nem személyes mentes vagyonszerző kedvezményes visszterhes vagyonszerzése
 
-A 6.1–6.19. pontokban felsorolt kedvezményi jogcímenként a kedvezményes vagyonszerzés illetékalapját Ft-ban, az illeték összegét Ft-ban és a vagyonszerzők számát kell táblázatszerűen közölni.
+A 6.1–6.22. pontokban felsorolt kedvezményi jogcímenként a kedvezményes vagyonszerzés illetékalapját Ft-ban, az illeték összegét Ft-ban és a vagyonszerzők számát kell táblázatszerűen közölni.
 
 6.1. Lakástulajdon szerzése lakásépítési kedvezménnyel
 
@@ -342,6 +352,12 @@ A 6.1–6.19. pontokban felsorolt kedvezményi jogcímenként a kedvezményes va
 
 6.19. Házastársi vagyonközösség, élettársak közös tulajdonának megszüntetése
 
+6.20.[^50] A 35. életévét be nem töltött fiatal első lakástulajdonának (tulajdoni hányadának) megszerzése, továbbá az ezen kedvezménynél alkalmazott pótlékmentes részletfizetés
+
+6.21.[^51] Szabályozott ingatlanbefektetési társaság, szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság projekttársasága, szabályozott ingatlanbefektetési elővállalkozás projekttársasága általi vagyonszerzés
+
+6.22.[^52] A 120 kW-nál nagyobb teljesítményű hajtómotorral rendelkező autóbuszok, tehergépkocsik és vontatók tulajdonjogának megszerzése
+
 7. Kiskorú örökös által igénybe vett kedvezmény
 
 A kiskorú örökös határidő lejárata előtt teljesített fizetése utáni kedvezmény vonatkozásában az örökös életkora (0, 1, 2 stb.) szerinti sávokban a törölt illeték összegét Ft-ban, valamint tételszámát kell táblázatszerűen közölni.
@@ -354,26 +370,41 @@ A kiskorú örökössel szembeni illetékkövetelés összegét Ft-ban, tételsz
 
 A lakóház építésére alkalmas telektulajdon vagy ahhoz kapcsolódó vagyoni értékű jog visszterhes szerzését terhelő, felfüggesztett illeték záró állománya esetében az illetékalapot Ft-ban, az illetéket Ft-ban és a tételszámot kell a nyilatkozat időszaka (tárgyévben, tárgyévet megelőző évben, tárgyévet megelőző 2. évben, tárgyévet megelőző 3. évben, tárgyévet megelőző 3. év előtt) szerinti sávokban, táblázatszerűen közölni.
 
-[^14]: A 7. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 3. § (5) bekezdése alapján a 2007. évre vonatkozó éves zárási összesítőt a 40/2006. (XII. 25.) PM rendelet 2007. december 31-én hatályos rendelkezései szerint kell elkészíteni.
-[^15]: A 7. számú melléklet 1. pontja a 31/2009. (XII. 18.) PM rendelet 11. § f) pontja szerint módosított szöveg.
-[^16]: A 7. számú melléklet 1.5. alpontja a 31/2009. (XII. 18.) PM rendelet 7. §-ával megállapított szöveg.
-[^17]: A 7. számú melléklet 2. pontja a 31/2009. (XII. 18.) PM rendelet 11. § g) pontja szerint módosított szöveg.
-[^18]: A 7. számú melléklet 2.3. alpontja a 31/2009. (XII. 18.) PM rendelet 7. §-ával megállapított szöveg.
-[^19]: A 7. számú melléklet 2.10. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
-[^20]: A 7. számú melléklet 3. pontja a 31/2009. (XII. 18.) PM rendelet 11. § h) pontja szerint módosított szöveg.
-[^21]: A 7. számú melléklet új 3.10. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be, egyidejűleg az eredeti 3.10. alpont számozását 3.12. pontra változtatva.
-[^22]: A 7. számú melléklet új 3.11. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be, egyidejűleg az eredeti 3.11. alpont számozását 3.13. pontra változtatva.
-[^23]: A 7. számú melléklet eredeti 3.10. alpontjának számozását 3.12. alpontra változtatta a 31/2009. (XII. 18.) PM rendelet 7. §-a.
-[^24]: A 7. számú melléklet eredeti 3.11. alpontjának számozását 3.13. alpontra változtatta a 31/2009. (XII. 18.) PM rendelet 7. §-a.
-[^25]: A 7. számú melléklet eredeti 3.12. alpontjának számozását 3.14. alpontra változtatta a 31/2009. (XII. 18.) PM rendelet 7. §-a.
-[^26]: A 7. számú melléklet 4. pontja a 31/2009. (XII. 18.) PM rendelet 11. § i) pontja szerint módosított szöveg.
-[^27]: A 7. számú melléklet 4.5. alpontja a 31/2009. (XII. 18.) PM rendelet 7. §-ával megállapított szöveg.
-[^28]: A 7. számú melléklet 4.7. alpontja a 31/2009. (XII. 18.) PM rendelet 13. §-a szerint módosított szöveg.
-[^29]: A 7. számú melléklet 4.10. alpontja a 31/2009. (XII. 18.) PM rendelet 11. § j) pontja szerint módosított szöveg.
-[^30]: A 7. számú melléklet 4.15. alpontja a 31/2009. (XII. 18.) PM rendelet 7. §-ával megállapított szöveg.
-[^31]: A 7. számú melléklet 4.16. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
-[^32]: A 7. számú melléklet 4.17. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
-[^33]: A 7. számú melléklet 5. pontja a 31/2009. (XII. 18.) PM rendelet 11. § k) pontja szerint módosított szöveg.
-[^34]: A 7. számú melléklet 5.12. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
-[^35]: A 7. számú melléklet 5.13. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
-[^36]: A 7. számú melléklet 5.14. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
+[^15]: A 7. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 3. § (5) bekezdése alapján a 2007. évre vonatkozó éves zárási összesítőt a 40/2006. (XII. 25.) PM rendelet 2007. december 31-én hatályos rendelkezései szerint kell elkészíteni.
+[^16]: A 7. számú melléklet 1. pontja a 31/2009. (XII. 18.) PM rendelet 11. § f) pontja, nyitó szövegrésze az 52/2011. (XII. 29.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^17]: A 7. számú melléklet 1. pont 1.4. pontja az 52/2011. (XII. 29.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^18]: A 7. számú melléklet 1. pont 1.5. alpontja az 52/2011. (XII. 29.) NGM rendelet 11. §-ával megállapított szöveg.
+[^19]: A 7. számú melléklet 1. pont 1.11. alpontja az 52/2011. (XII. 29.) NGM rendelet 11. §-ával megállapított szöveg.
+[^20]: A 7. számú melléklet 1. pont 1.12. alpontja az 52/2011. (XII. 29.) NGM rendelet 11. §-ával megállapított szöveg.
+[^21]: A 7. számú melléklet 1. pont 1.13. alpontját az 52/2011. (XII. 29.) NGM rendelet 11. §-a iktatta be.
+[^22]: A 7. számú melléklet 2. pontja a 31/2009. (XII. 18.) PM rendelet 11. § g) pontja szerint módosított szöveg.
+[^23]: A 7. számú melléklet 2.3. alpontja a 31/2009. (XII. 18.) PM rendelet 7. §-ával megállapított szöveg.
+[^24]: A 7. számú melléklet 2 pont 2.6. pontját az 52/2011. (XII. 29.) NGM rendelet 10. §-a hatályon kívül helyezte.
+[^25]: A 7. számú melléklet 2. pont 2.9. pontját az 52/2011. (XII. 29.) NGM rendelet 10. §-a hatályon kívül helyezte.
+[^26]: A 7. számú melléklet 2. pont 2.10. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be, szövege az 52/2011. (XII. 29.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^27]: A 7. számú melléklet 3. pontja a 31/2009. (XII. 18.) PM rendelet 11. § h) pontja szerint módosított szöveg.
+[^28]: A 7. számú melléklet új 3.10. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be, egyidejűleg az eredeti 3.10. alpont számozását 3.12. pontra változtatva.
+[^29]: A 7. számú melléklet új 3.11. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be, egyidejűleg az eredeti 3.11. alpont számozását 3.13. pontra változtatva.
+[^30]: A 7. számú melléklet eredeti 3.10. alpontjának számozását 3.12. alpontra változtatta a 31/2009. (XII. 18.) PM rendelet 7. §-a.
+[^31]: A 7. számú melléklet eredeti 3.11. alpontjának számozását 3.13. alpontra változtatta a 31/2009. (XII. 18.) PM rendelet 7. §-a.
+[^32]: A 7. számú melléklet eredeti 3.12. alpontjának számozását 3.14. alpontra változtatta a 31/2009. (XII. 18.) PM rendelet 7. §-a. A 3 pont 3.14. alpontja az 52/2011. (XII. 29.) NGM rendelet 11. §-ával megállapított szöveg.
+[^33]: A 7. számú melléklet 4. pontja a 31/2009. (XII. 18.) PM rendelet 11. § i) pontja, nyitó szövegrésze az 52/2011. (XII. 29.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^34]: A 7. számú melléklet 4.5. alpontja a 31/2009. (XII. 18.) PM rendelet 7. §-ával megállapított szöveg.
+[^35]: A 7. számú melléklet 4.7. alpontja a 31/2009. (XII. 18.) PM rendelet 13. §-a szerint módosított szöveg.
+[^36]: A 7. számú melléklet 4.10. alpontja a 31/2009. (XII. 18.) PM rendelet 11. § j) pontja szerint módosított szöveg.
+[^37]: A 7. számú melléklet 4. pont 4.14. alpontja az 52/2011. (XII. 29.) NGM rendelet 11. §-ával megállapított szöveg.
+[^38]: A 7. számú melléklet 4.15. alpontja a 31/2009. (XII. 18.) PM rendelet 7. §-ával megállapított szöveg.
+[^39]: A 7. számú melléklet 4.16. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
+[^40]: A 7. számú melléklet 4. pont 4.17. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be, szövege az 52/2011. (XII. 29.) NGM rendelet 11. §-ával megállapított szöveg.
+[^41]: A 7. számú melléklet 4. pont 4.18. alpontját az 52/2011. (XII. 29.) NGM rendelet 11. §-a iktatta be.
+[^42]: A 7. számú melléklet 4. pont 4.19. alpontját az 52/2011. (XII. 29.) NGM rendelet 11. §-a iktatta be.
+[^43]: A 7. számú melléklet 4. pont 4.20. alpontját az 52/2011. (XII. 29.) NGM rendelet 11. §-a iktatta be.
+[^44]: A 7. számú melléklet 4. pont 4.21. alpontját az 52/2011. (XII. 29.) NGM rendelet 11. §-a iktatta be.
+[^45]: A 7. számú melléklet 5. pontja a 31/2009. (XII. 18.) PM rendelet 11. § k) pontja szerint módosított szöveg.
+[^46]: A 7. számú melléklet 5.12. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
+[^47]: A 7. számú melléklet 5.13. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
+[^48]: A 7. számú melléklet 5.14. alpontját a 31/2009. (XII. 18.) PM rendelet 7. §-a iktatta be.
+[^49]: A 7. számú melléklet 6. pontja nyitó szövegrésze az 52/2011. (XII. 29.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^50]: A 7. számú melléklet 6. pont 6.20. alpontját az 52/2011. (XII. 29.) NGM rendelet 11. §-a iktatta be.
+[^51]: A 7. számú melléklet 6. pont 6.21. alpontját az 52/2011. (XII. 29.) NGM rendelet 11. §-a iktatta be.
+[^52]: A 7. számú melléklet 6. pont 6.22. alpontját az 52/2011. (XII. 29.) NGM rendelet 11. §-a iktatta be.

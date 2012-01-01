@@ -1,10 +1,10 @@
-5. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^12]
+5. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^13]
 
 ## Követelésállomány, végrehajtási cselekmények, végrehajtás eredménye, teljesítménymutatók
 
 1. Követelés tárgyidőszak végén
 
-| Sor- szám | Megnevezés | Öröklési illeték (gépjármű nélkül) | Ajándékozási illeték (gépjármű nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatósági eljárási illeték | Összesen |
+| Sor- szám | Megnevezés | Öröklési illeték (gépjármű és egyenes ági mentes nélkül) | Ajándékozási illeték (gépjármű nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatósági eljárási illeték | Összesen |
 
 |  |  | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz |
 
@@ -76,7 +76,7 @@
 
 6. Végrehajtási, biztosítási és egyéb cselekmények eredménye
 
-| Sor- szám | Megnevezés | Öröklési illeték (gépjármű nélkül) | Ajándékozási illeték (gépjármű nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátru- házási illeték (gépjármű nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatóságieljárási illeték | Összesen |
+| Sor- szám | Megnevezés | Öröklési illeték (gépjármű és egyenes ági mentes nélkül) | Ajándékozási illeték (gépjármű nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátru- házási illeték (gépjármű nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatóságieljárási illeték | Összesen |
 
 | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz |
 
@@ -86,7 +86,7 @@
 
 7. Ügyintézési idő
 
-| Sor- szám | Az adózás rendjéről szóló törvény szerinti ügyintézési idő alakulása | Öröklési illeték (gépjármű nélkül) | Ajándékozási illeték (gépjármű nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatóságieljárási illeték | Összesen |
+| Sor- szám | Az adózás rendjéről szóló törvény szerinti ügyintézési idő alakulása | Öröklési illeték (gépjármű és egyenes ági mentes nélkül) | Ajándékozási illeték (gépjármű nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatóságieljárási illeték | Összesen |
 
 | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz |
 
@@ -148,4 +148,4 @@
 
 | 14. | egyéb nem lakás célú ingatlan |  |  |  |  |  |  |  |  |
 
-[^12]: Az 5. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (3) bekezdésével megállapított, a 17/2009. (IX. 29.) PM rendelet 89. § (2) bekezdése, a 31/2009. (XII. 18.) PM rendelet 11. § d) pontja szerint módosított szöveg.
+[^13]: Az 5. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (3) bekezdésével megállapított, a 17/2009. (IX. 29.) PM rendelet 89. § (2) bekezdése, a 31/2009. (XII. 18.) PM rendelet 11. § d) pontja, az 52/2011. (XII. 29.) NGM rendelet 8. §-a szerint módosított szöveg.

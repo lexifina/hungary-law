@@ -98,7 +98,7 @@
 
 ## 3 Amennyiben nem történt teljes felújítás, akkor a mező kihúzandó.
 
-2. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^9]
+2. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^10]
 
 ## Illetékbevétel képződése és felosztása
 
@@ -256,4 +256,4 @@
 
 | 44. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^9]: A 2. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (3) bekezdésével megállapított, a 31/2009. (XII. 18.) PM rendelet 11. § d) pontja szerint módosított szöveg.
+[^10]: A 2. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (3) bekezdésével megállapított, a 31/2009. (XII. 18.) PM rendelet 11. § d) pontja szerint módosított szöveg.

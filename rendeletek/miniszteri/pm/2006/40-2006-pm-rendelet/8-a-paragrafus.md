@@ -1,0 +1,1 @@
+## 8. § Az állami adóhatóság illetékügyi tevékenységéről az első félév végén, valamint az év végén – megyénkénti, fővárosi és országos összesítéssel – zárási összesítőt készít a rendelet 3–8. számú melléklete szerint, melyet a félévet követően július 20-áig, illetőleg az évet követően január 20-áig megküld az adópolitikáért felelős miniszter által vezetett minisztérium részére.
