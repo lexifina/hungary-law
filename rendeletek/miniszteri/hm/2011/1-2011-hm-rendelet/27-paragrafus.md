@@ -10,10 +10,11 @@
 
 (5)–(6)[^6]
 
-(7) Ez a rendelet 2014. december 31-én a hatályát veszti.
+(7)[^7] Ez a rendelet 2012. január 15-én a hatályát veszti.
 
 [^2]: Az 1–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 27. § (2) bekezdését a 4/2011. (VI. 7.) HM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
 [^4]: A hatálybalépés időpontja 2011. március 16.
 [^5]: A hatálybalépés időpontja 2011. március 16.
 [^6]: A 27. § (5)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 27. § (7) bekezdése a 19/2011. (XII. 29.) HM rendelet 1. §-a szerint módosított szöveg.
