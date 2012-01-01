@@ -1,7 +1,0 @@
-## 1. §[^2] A rehabilitációs szakértői szerv szakértői bizottsága (a továbbiakban: szakértői bizottság) a külön jogszabályban meghatározott komplex minősítés keretében a rehabilitáció lehetséges irányáról, a rehabilitációs szükségletekről, a rehabilitálhatóságról, valamint a rehabilitációhoz szükséges időtartamról szóló szakhatósági állásfoglalásának kialakítása során az e rendeletben foglaltak figyelembevételével jár el.
-
-2. § (1) Amennyiben a szakértői bizottság megállapítja, hogy az érintett személy az egészségkárosodásától függően alkalmassá tehető a jelenlegi, az egészségkárosodását megelőző, vagy a képzettségének megfelelő más munkakörben való foglalkoztatásra, akkor a rehabilitáció lehetséges irányaként ezt a munkakört, illetve munkaköröket jelöli meg.
-
-(2) A szakértői bizottság a rehabilitáció lehetséges irányaként meghatározza továbbá azokat a foglalkozásokat, foglalkozási alcsoportokat, illetve foglalkozási csoportokat, amelyek ellátására az érintett személy alkalmas, vagy a rehabilitációs szolgáltatások igénybevételét követően – a szakértői bizottság által meghatározott feltételek fennállása esetén – alkalmas lehet. A foglalkozások, foglalkozási alcsoportok, foglalkozási csoportok meghatározása a Foglalkozások Egységes Osztályozási Rendszerének figyelembevételével történik.
-
-[^2]: Az 1. § a 182/2009. (IX. 10.) Korm. rendelet 589. §-a, a 332/2010. (XII. 27.) Korm. rendelet 26. § (2) bekezdés a) pontja szerint módosított szöveg.

@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény (a továbbiakban: Rjtv.) 33. §-a (1) bekezdésének a)–c) pontjaiban foglalt felhatalmazás alapján a következő rendeletet alkotja:
