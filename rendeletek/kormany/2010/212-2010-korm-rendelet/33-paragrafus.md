@@ -1,4 +1,4 @@
-## 33. §[^81] A miniszter a társadalmi és civil kapcsolatok fejlesztéséért való felelőssége körében:
+## 33. §[^82] A miniszter a társadalmi és civil kapcsolatok fejlesztéséért való felelőssége körében:
 
 a) összehangolja a Kormánynak a civil és társadalmi kapcsolatok fejlesztésével összefüggő feladatait,
 
@@ -12,9 +12,9 @@ e) együttműködik a Kormány közalapítványainak alapítói jogai gyakorlás
 
 f) ellátja a Nemzeti Civil Alapprogram működtetésével kapcsolatos feladatokat,
 
-g)[^82] gondoskodik a civil szektor erősödését elősegítő szolgáltató és fejlesztő programok kidolgozásáról, a civil társadalommal való párbeszédet biztosító informatikai rendszerek kialakításáról és működtetéséről, valamint gondoskodik az önkéntességgel kapcsolatos kormányzati politika kialakításáról a hatáskörrel rendelkező miniszterrel együttműködve,
+g)[^83] gondoskodik a civil szektor erősödését elősegítő szolgáltató és fejlesztő programok kidolgozásáról, a civil társadalommal való párbeszédet biztosító informatikai rendszerek kialakításáról és működtetéséről, valamint gondoskodik az önkéntességgel kapcsolatos kormányzati politika kialakításáról a hatáskörrel rendelkező miniszterrel együttműködve,
 
-h)[^83]
+h)[^84]
 
 i) közreműködik a közérdekű önkéntes tevékenységre vonatkozó jogszabályok előkészítésében,
 
@@ -26,6 +26,6 @@ l) dönt a hatáskörébe utalt civil támogatási források felosztásáról,
 
 m) működteti a Civil Szolgáltató Központ hálózatot.
 
-[^81]: A 33. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (13) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^82]: A 33. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^83]: A 33. § h) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (13) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^82]: A 33. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (13) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^83]: A 33. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^84]: A 33. § h) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (13) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.

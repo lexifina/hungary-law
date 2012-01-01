@@ -2,7 +2,7 @@
 
 ## A KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTER SZAKPOLITIKAI FELADAT- ÉS HATÁSKÖRE
 
-## 12. §[^38] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
+## 12. §[^39] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
 a) igazságügyért,
 
@@ -44,4 +44,4 @@ s) kisebbségpolitikáért és
 
 t) romák társadalmi integrációjáért
 
-[^38]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^39]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

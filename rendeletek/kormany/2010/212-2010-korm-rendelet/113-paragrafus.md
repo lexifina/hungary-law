@@ -1,4 +1,6 @@
-113. § (1)[^336] A miniszter irányítja:
+## 112. §[^355]
+
+113. § (1)[^356] A miniszter irányítja:
 
 a) a Mezőgazdasági és Vidékfejlesztési Hivatalt,
 
@@ -10,7 +12,7 @@ d) a Földmérési és Távérzékelési Intézetet,
 
 e) az Állami Ménesgazdaságot,
 
-f)[^337] a VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézetét,
+f)[^357] a VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézetét,
 
 g) a Magyar Mezőgazdasági Múzeumot,
 
@@ -20,7 +22,7 @@ i) az Állattenyésztési és Takarmányozási Kutatóintézetet,
 
 j) az Erdészeti Tudományos Intézetet,
 
-k)[^338] a VM Mezőgazdasági Gépesítési Intézetet,
+k)[^358] a VM Mezőgazdasági Gépesítési Intézetet,
 
 l) a Halászati és Öntözési Kutatóintézetet,
 
@@ -38,28 +40,31 @@ r) az Országos Meteorológiai Szolgálatot,
 
 s) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget,
 
-t) a Vízügyi és Környezetvédelmi Központi Igazgatóságot,
+t)[^359] a Nemzeti Környezetügyi Intézetet,
 
-u)[^339] a Nemzeti Földalapkezelő Szervezetet,
+u)[^360] a Nemzeti Földalapkezelő Szervezetet,
 
-v) a környezetvédelmi és vízügyi igazgatóságokat,
+v)[^361] a környezetvédelmi és vízügyi igazgatóságokat,
 
 w) a nemzeti park igazgatóságokat,
 
-x)[^340] az Agrármarketing Centrumot.
+x)[^362] az Agrármarketing Centrumot.
 
-(2)[^341] A miniszter felügyeli
+(2)[^363] A miniszter felügyeli
 
-a)[^342]
+a)[^364]
 
 b) a Kormány nevében az ENSZ Élelmezési és Mezőgazdasági Szervezeteinek Magyar Nemzeti Bizottságát,
 
 c) a külügyminiszterrel egyetértésben a külképviseleti hálózatban dolgozó mező- és környezetgazdasági szakattasék működését.
 
-[^336]: A 113. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^337]: A 113. § (1) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^338]: A 113. § (1) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^339]: A 113. § (1) bekezdés u) pontját a 219/2010. (VII. 27.) Korm. rendelet 13. § (7) bekezdése hatályon kívül helyezte, újonnan a 267/2010. (XII. 3.) Korm. rendelet 35. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 47. §-át.
-[^340]: A 113. § (1) bekezdés x) pontját a 267/2010. (XII. 3.) Korm. rendelet 35. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^341]: A 113. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^342]: A 113. § (2) bekezdés a) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (45) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^355]: A 112. §-t a 282/2011. (XII. 21.) Korm. rendelet 45. §-a hatályon kívül helyezte.
+[^356]: A 113. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^357]: A 113. § (1) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^358]: A 113. § (1) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^359]: A 113. § (1) bekezdés t) pontja a 300/2011. (XII. 22.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^360]: A 113. § (1) bekezdés u) pontját a 219/2010. (VII. 27.) Korm. rendelet 13. § (7) bekezdése hatályon kívül helyezte, újonnan a 267/2010. (XII. 3.) Korm. rendelet 35. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 47. §-át.
+[^361]: A 113. § (1) bekezdés v) pontját a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
+[^362]: A 113. § (1) bekezdés x) pontját a 267/2010. (XII. 3.) Korm. rendelet 35. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^363]: A 113. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^364]: A 113. § (2) bekezdés a) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (45) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.

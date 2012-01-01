@@ -40,7 +40,7 @@ b) a Közlekedésfejlesztési Koordinációs Központot,
 
 c) a Közlekedésbiztonsági Szervezetet,
 
-d) a szolnoki MÁV Kórház és Rendelőintézetet.
+d)[^299]
 
 (3) A miniszter a közlekedésért való felelőssége körében
 
@@ -49,3 +49,5 @@ a) a repülésbiztonsággal összefüggő tevékenységek szervezett irányítá
 b) ellátja a helyközi közösségi közlekedés megrendelésével és finanszírozásával kapcsolatos feladatokat,
 
 c) szervezi, összehangolja a közlekedési hálózati infrastruktúra fejlesztését.
+
+[^299]: A 88. § (2) bekezdés d) pontját a 320/2011. (XII. 27.) Korm. rendelet 2. § (3) bekezdés b) pontja hatályon kívül helyezte.

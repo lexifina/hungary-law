@@ -1,10 +1,10 @@
-18. § (1)[^52] A miniszter igazságügyért való felelőssége körében
+18. § (1)[^53] A miniszter igazságügyért való felelőssége körében
 
 a) együttműködik a miniszterekkel a nemzetközi szerződések előkészítésével, kötelező hatályának elismerésére adott felhatalmazással, kihirdetésével és értelmezésével kapcsolatban,
 
 b) a kötelező hatály elismerésére adott felhatalmazás előtt véleményezi a nemzetközi szerződést annak érdekében, hogy az megfeleljen az Alkotmánynak, összeegyeztethető legyen az Európai Unió jogával, és illeszkedjen a jogrendszerbe.
 
-(2)[^53] A miniszter igazságügyért való felelőssége körében felel továbbá
+(2)[^54] A miniszter igazságügyért való felelőssége körében felel továbbá
 
 a) az eljárás tárgya szerint felelős miniszterrel együttműködve a Kormány képviseletéért az alkotmánybírósági eljárásokban,
 
@@ -16,8 +16,8 @@ a) koordinálja a képviselet ellátásához szükséges iratok előkészítés�
 
 b) figyelemmel kíséri az ügyeket, és gondoskodik az ezekből esetlegesen következő jogalkotási feladatok meghatározásáról, programozásáról és teljesítésének ellenőrzéséről.
 
-(4)[^54] A miniszter – a külügyminiszter koordinálása mellett – részt vesz a közösségi jog megsértése miatt indult eljárásoknak az Európai Bíróság előtti eljárást megelőző szakaszában a Kormány képviseletének ellátásában és az ezzel kapcsolatos beadványok és előterjesztések előkészítésében.
+(4)[^55] A miniszter – a külügyminiszter koordinálása mellett – részt vesz a közösségi jog megsértése miatt indult eljárásoknak az Európai Bíróság előtti eljárást megelőző szakaszában a Kormány képviseletének ellátásában és az ezzel kapcsolatos beadványok és előterjesztések előkészítésében.
 
-[^52]: A 18. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (12) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^53]: A 18. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (12) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^54]: A 18. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 41. § (6) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^53]: A 18. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (12) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^54]: A 18. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (12) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^55]: A 18. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 41. § (6) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

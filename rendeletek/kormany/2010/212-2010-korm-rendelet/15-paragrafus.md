@@ -1,4 +1,4 @@
-15. § (1)[^42] A miniszter az igazságügyért való felelőssége körében felel
+15. § (1)[^43] A miniszter az igazságügyért való felelőssége körében felel
 
 a) az alkotmány-előkészítésért,
 
@@ -44,7 +44,7 @@ q) a pártfogó felügyelői tevékenységről,
 
 r) a lobbitevékenységről,
 
-s)[^43]
+s)[^44]
 
 t) a sztrájkjogról
 
@@ -58,18 +58,18 @@ a) az állampolgársági ügyekért való felelőssége körében a magyar álla
 
 b) az anyakönyvi ügyekért való felelőssége körében az anyakönyvvezetésről, a házasságkötési eljárásról, a névviselésről, a névváltoztatásról szóló,
 
-c)[^44] a személyiadat- és lakcímnyilvántartásért való felelőssége körében a személyi adatok és a lakcím nyilvántartásáról, a személyazonosító igazolványról szóló,
+c)[^45] a személyiadat- és lakcímnyilvántartásért való felelőssége körében a személyi adatok és a lakcím nyilvántartásáról, a személyazonosító igazolványról szóló,
 
 d) a kárpótlásért való felelőssége körében a személyi és vagyoni kárpótlásról szóló,
 
-e)[^45] a közigazgatás-fejlesztésért való felelőssége körében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló,
+e)[^46] a közigazgatás-fejlesztésért való felelőssége körében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló,
 
-f)[^46] az igazságügyért való felelőssége körében a magyar formatervezési díjról és az iparjogvédelmi támogatásokról szóló
+f)[^47] az igazságügyért való felelőssége körében a magyar formatervezési díjról és az iparjogvédelmi támogatásokról szóló
 
 jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki.
 
-[^42]: A 15. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^43]: A 15. § (2) bekezdés s) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^44]: A 15. § (5) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^45]: A 15. § (5) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^46]: A 15. § (5) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^43]: A 15. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^44]: A 15. § (2) bekezdés s) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^45]: A 15. § (5) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^46]: A 15. § (5) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^47]: A 15. § (5) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
