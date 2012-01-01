@@ -2,7 +2,7 @@
 
 28. § E rész alkalmazásában a következő fogalmak esetén az alábbi meghatározásokat kell alkalmazni.
 
-(1) Tagállamnak minősül a Magyar Köztársaság kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
+(1) Tagállamnak minősül Magyarország kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
 
 (2) A tagállam állampolgárával azonos megítélés alá esik:
 
@@ -100,4 +100,4 @@ c) az olyan kereskedelmi-műszaki jellegű munkakört betöltő személy, aki a 
 
 (19) Letelepedés szerinti tagállam az a tagállam, ahol az önálló vállalkozó gazdasági tevékenységét ténylegesen és tartós, huzamos jelleggel, erre a célra szolgáló vagy rendszeresített létesítmény, telep, iroda, üzlet vagy egyéb hely, rögzített felszerelés vagy berendezés útján folytatja.
 
-(20) Határon átnyúló szolgáltatásnyújtásnak minősül a tevékenységnek a Magyar Köztársaság területén letelepedés nélkül, átmeneti vagy alkalmi jelleggel történő folytatása.
+(20) Határon átnyúló szolgáltatásnyújtásnak minősül a tevékenységnek Magyarország területén letelepedés nélkül, átmeneti vagy alkalmi jelleggel történő folytatása.

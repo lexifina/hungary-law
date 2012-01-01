@@ -1,6 +1,6 @@
 ## A szolgáltatásnyújtó mentességei
 
-39. § (1) A 38. § szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó a Magyar Köztársaság területén folytatott, határon átnyúló szolgáltatásnyújtása tekintetében mentesül az alábbi, más jogszabály által előírt követelmények teljesítése alól:
+39. § (1) A 38. § szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó Magyarország területén folytatott, határon átnyúló szolgáltatásnyújtása tekintetében mentesül az alábbi, más jogszabály által előírt követelmények teljesítése alól:
 
 a) valamely szakmai szervezet vagy testület engedélyének beszerzése, szakmai szervezet vagy testület általi nyilvántartásba vétel, vagy szakmai szervezetben vagy testületben tagság betöltése,
 

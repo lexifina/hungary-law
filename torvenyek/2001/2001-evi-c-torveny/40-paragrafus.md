@@ -1,6 +1,6 @@
 ## A határon átnyúló szolgáltatásnyújtás bejelentése, a külföldi és a hazai szakmai cím használata, a szolgáltatásnyújtó szakmai képesítésének ellenőrzése
 
-40. § (1) A 38. § szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó a Magyar Köztársaság területén való, határon átnyúló, a Kormány rendeletében meghatározott szolgáltatási tevékenység folytatására irányuló szándékát annak első alkalommal való megkezdése előtt köteles bejelenteni az adott szabályozott szakma tekintetében az elismerésért felelős hatóságnak, illetve a 41. § szerinti előzetes ellenőrzést végző hatóságnak.
+40. § (1) A 38. § szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó Magyarország területén való, határon átnyúló, a Kormány rendeletében meghatározott szolgáltatási tevékenység folytatására irányuló szándékát annak első alkalommal való megkezdése előtt köteles bejelenteni az adott szabályozott szakma tekintetében az elismerésért felelős hatóságnak, illetve a 41. § szerinti előzetes ellenőrzést végző hatóságnak.
 
 (2) Az (1) bekezdés szerinti bejelentés tartalmát, a bejelentés esetleges megújítása szabályait, valamint a bejelentéssel együtt benyújtandó iratokat a Kormány rendeletben állapítja meg.
 

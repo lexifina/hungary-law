@@ -10,7 +10,7 @@
 
 (4) A szakmai vizsga lebonyolításáért az oktatási intézmény a kérelmező által fizetendő díjat szabhat meg, amely azonban nem haladhatja meg az eljárási díj tízszeresét.
 
-(5) A külföldi oktatási intézményben szerzett és a Magyar Köztársaságban nemzetközi szerződéssel vagy jogszabály által a magyar általános iskolai, szakképesítő vagy érettségi bizonyítvánnyal egyenértékűnek elismert bizonyítvány egyenértékűségéről szóló hatósági bizonyítvány kiállításáért az eljárási díj felét kell az eljáró hatóság számlájára befizetni.
+(5) A külföldi oktatási intézményben szerzett és Magyarországon nemzetközi szerződéssel vagy jogszabály által a magyar általános iskolai, szakképesítő vagy érettségi bizonyítvánnyal egyenértékűnek elismert bizonyítvány egyenértékűségéről szóló hatósági bizonyítvány kiállításáért az eljárási díj felét kell az eljáró hatóság számlájára befizetni.
 
 (6) Az e §-ban szabályozott díjat a kérelmező részére vissza kell téríteni, ha kérelmét a határozat meghozatala vagy a hatósági bizonyítvány kiállítása előtt visszavonja.
 
