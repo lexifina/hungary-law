@@ -140,11 +140,11 @@ A légiközlekedéssel kapcsolatos hatósági eljárások (szolgáltatások) dí
 
 | Légijárművek lajstromba vétele Lt. 12. § (1), 15. § (2), Vhr. 1. § (4) 1. pont, 32/2001. (IX. 28.) KöViM rendelet |
 
-| 60. | Légijárműnek a Magyar Köztársaság Állami Légijármű Lajstromába vétele ultralight, microlight, vitorlázó repülőgép és levegőnél könnyebb légijárművek esetében | 50 200 |
+| 60. | Légijárműnek Magyarország Állami Légijármű Lajstromába vétele ultralight, microlight, vitorlázó repülőgép és levegőnél könnyebb légijárművek esetében | 50 200 |
 
-| 61. | Légijárműnek a Magyar Köztársaság Állami Légijármű Lajstromába vétele 5700 kg vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetében | 80 500 |
+| 61. | Légijárműnek Magyarország Állami Légijármű Lajstromába vétele 5700 kg vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetében | 80 500 |
 
-| 62. | Légijárműnek a Magyar Köztársaság Állami Légijármű Lajstromába vétele 5700 kg feletti felszálló tömegű légijárművek esetében | 150 800 |
+| 62. | Légijárműnek Magyarország Állami Légijármű Lajstromába vétele 5700 kg feletti felszálló tömegű légijárművek esetében | 150 800 |
 
 | 63. | A lajstromjel előzetes kijelölése 60–63-ig az alkalmazott díjtétel 50%-a |  |
 
@@ -152,9 +152,9 @@ A légiközlekedéssel kapcsolatos hatósági eljárások (szolgáltatások) dí
 
 | 65. | Tulajdonjogban bekövetkezett változás bejegyzése, tulajdonosváltásonként | 60 400 |
 
-| 66. | A légijárműnek a Magyar Köztársaság Állami Légijármű Lajstromából való törlése | 2 000 |
+| 66. | A légijárműnek Magyarország Állami Légijármű Lajstromából való törlése | 2 000 |
 
-| 67. | A 12 hónapon túl lejárt légialkalmassággal rendelkező légijárműnek a Magyar Köztársaság Állami Légijármű Lajstromban való tartási díja, évenként | 50 000 |
+| 67. | A 12 hónapon túl lejárt légialkalmassággal rendelkező légijárműnek Magyarország Állami Légijármű Lajstromban való tartási díja, évenként | 50 000 |
 
 | 68. | Lajstromozással kapcsolatos adatszolgáltatás kérése, légijárművenként | 4 000 |
 
@@ -933,4 +933,4 @@ A légiközlekedéssel kapcsolatos hatósági eljárások (szolgáltatások) dí
 | 420. | A repülőtér üzemben tartója által készített, a légijármű által történő igénybevételért fizetendő díjak meghatározásának részletes szabályait tartalmazó szabályzat jóváhagyása, illetve e szabályzat módosításának jóváhagyása | 300 000 |
 
 [^11]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
-[^12]: A melléklet a 98/2005. (XI. 14.) GKM rendelet 3. §-ával megállapított, és a 100/2005. (XI. 23.) GKM rendelet 1. §-a, a 97/2006. (XII. 28.) GKM rendelet 9. § c) és f) pontja szerint módosított szöveg.
+[^12]: A melléklet a 98/2005. (XI. 14.) GKM rendelet 3. §-ával megállapított, a 100/2005. (XI. 23.) GKM rendelet 1. §-a, a 97/2006. (XII. 28.) GKM rendelet 9. § c) és f) pontja, a 91/2011. (XII. 30.) NFM rendelet szerint módosított szöveg.
