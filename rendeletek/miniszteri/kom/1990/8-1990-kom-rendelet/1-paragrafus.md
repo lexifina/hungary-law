@@ -2,4 +2,6 @@
 
 (2) A védetté nyilvánítás célja a fokozottan védett lisztes kankalin termőhelyének megóvása, a természeti területen található állomány fennmaradásának biztosítása.
 
-(3) A természetvédelmi terület természeti értékeinek megóvása, őrzése, fenntartása és bemutatása (a továbbiakban: természetvédelmi kezelés) a Közép-dunántúli Környezetvédelmi és Vízügyi Igazgatóság feladata.
+(3)[^2] A természetvédelmi terület természeti értékeinek megóvása, őrzése, fenntartása és bemutatása (a továbbiakban: természetvédelmi kezelés) a Balaton-felvidéki Nemzeti Park Igazgatóság feladata.
+
+[^2]: Az 1. § (3) bekezdése a 147/2011. (XII. 23.) VM rendelet 3. §-a szerint módosított szöveg.
