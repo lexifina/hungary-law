@@ -1,5 +1,3 @@
-## 14. §[^14]
+## 14. § A bírósági ügyintézők által ellátható egyes feladatokról szóló 56/2008. (III. 26.) Korm. rendelet 7. § (2) bekezdés n) pontjában a „Legfelsőbb Bírósághoz” szövegrész helyébe a „Kúriához” szöveg lép.
 
 ## 15. A békéltető testületi tagok kijelölésének szabályairól szóló 215/2008. (VIII. 29.) Korm. rendelet módosítása
-
-[^14]: A 14. § a 25. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

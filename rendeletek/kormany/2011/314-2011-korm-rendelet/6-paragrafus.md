@@ -1,5 +1,9 @@
-## 5. §[^5]
+## lép.
 
 ## 6. A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet módosítása
 
-[^5]: Az 5. § a 25. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+## 6. § A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet
+
+a) 10. § a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+
+b) 30. § (2) bekezdésében a „Magyarországon honos nemzeti és etnikai kisebbséghez” szövegrész helyébe a „nemzetiséghez” szöveg
