@@ -1,1 +1,0 @@
-10. § A letétbehelyezési kötelezettség alá eső az a részvény, amelyre nézve a 9. §-ban meghatározott letétbehelyezési kötelezettséget nem teljesítették, hatályát veszti és helyette a kibocsátó köteles az intézőbizottság felhívására új részvényokiratot kiállítani és azt kártalanítás nélkül az államkincstár tulajdonába átadni.

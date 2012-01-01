@@ -1,1 +1,0 @@
-12. § Ha a 9. § értelmében letétbe helyezett részvény tekintetében zálogjog, haszonélvezeti jog, vagy egyéb idegen dologbeli jog áll fenn, a jogosult ezt a jogát a kártalanítási összegre vonatkozólag érvényesítheti.
