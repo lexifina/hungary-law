@@ -2,14 +2,14 @@
 
 49. § (1) A munkavállaló csak olyan munkára és akkor alkalmazható, ha
 
-— annak ellátásához megfelelő élettani adottságokkal rendelkezik,
+a) annak ellátásához megfelelő élettani adottságokkal rendelkezik,
 
-— foglalkoztatása az egészségét, testi épségét, illetőleg a fiatalkorú egészséges fejlődését károsan nem befolyásolja,
+b) foglalkoztatása az egészségét, testi épségét, illetve a fiatalkorú egészséges fejlődését károsan nem befolyásolja,
 
-— foglalkoztatása az utódaira veszélyt nem jelent,
+c) foglalkoztatása nem jelent veszélyt a munkavállaló reprodukciós képességére, magzatára,
 
-— mások egészségét, testi épségét nem veszélyezteti, és a munkára — külön jogszabályokban meghatározottak szerint — alkalmasnak bizonyult.
+d) mások egészségét, testi épségét nem veszélyezteti és a munkára – külön jogszabályokban meghatározottak szerint – alkalmasnak bizonyult.
 
-Az egészségügyi megfelelőségről előzetes és — külön jogszabályban meghatározott munkakörökben — időszakos orvosi vizsgálat alapján kell dönteni.
+A munkára való alkalmasságról külön jogszabályban meghatározott orvosi vizsgálat alapján kell dönteni.
 
 (2) A tevékenység szerinti miniszter meghatározott munkakörök (foglalkozások) tekintetében előírhatja, hogy az (1) bekezdésben foglaltakon túl pályaalkalmassági vizsgálat is szükséges, továbbá a vizsgálat rendjét az egészségügyért felelős miniszterrel egyetértésben határozza meg.

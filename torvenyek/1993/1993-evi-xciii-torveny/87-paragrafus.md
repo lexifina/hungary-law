@@ -36,7 +36,7 @@ A munkavégzéssel összefüggésben következik be a baleset, ha a munkavállal
 
 Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek (munkabalesetnek) az a baleset, amely a sérültet a lakásáról (szállásáról) a munkahelyére, illetve a munkahelyéről a lakására (szállására) menet közben éri, kivéve, ha a baleset a munkáltató saját vagy bérelt járművével történt.
 
-Bányászati munkabaleset: az a munkabaleset, amely a bányászati tevékenység során bármely munkáltatónál következett be.
+Bányászati munkabaleset: az a munkabaleset, amely a bányafelügyelet hatósági felügyelete alá tartozó tevékenységek végzése során bármely munkáltatónál következett be.
 
 Súlyos az a munkabaleset (bányászati munkabaleset), amely
 
@@ -68,9 +68,11 @@ e) beszélőképesség elvesztését vagy feltűnő eltorzulást, bénulást, il
 
 8/A. Sérülékeny csoport: az a munkavállalói kategória, amelybe tartozó munkavállalókat testi, lelki adottságaik, állapotuk következtében a munkavégzéssel összefüggő kockázatok fokozottan fenyegetnek, illetve akik maguk is fokozott kockázatot jelenthetnek munkavégzésük során (pl. fiatalkorúak, terhes, nemrégen szült, anyatejet adó nők és szoptató anyák, idősödők, megváltozott munkaképességűek).
 
-9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában egyszerűsített foglalkoztatás keretében történő munkavégzést –, a közszolgálati, a közalkalmazotti jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, a szakképző iskolákban a tanulói jogviszony keretében a szakmai képzési követelmények teljesülése során, továbbá a tanulószerződés alapján, a hallgatói jogviszonyban a gyakorlati képzés során, a büntetés-végrehajtási jogviszonyban (előzetes letartóztatásban, elítéltként), a közigazgatási határozat alapján, a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a katasztrófavédelem szerveinek tagjai által szolgálati viszonyukban, az önkéntes jogviszonyban végzett munka, valamint a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka.
+9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában egyszerűsített foglalkoztatás keretében történő munkavégzést –, a közfoglalkoztatási, a közszolgálati, a közalkalmazotti jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, a szakképző iskolákban a tanulói jogviszony keretében a szakmai képzési követelmények teljesülése során, továbbá a tanulószerződés alapján, a hallgatói jogviszonyban a gyakorlati képzés során, a büntetés-végrehajtási jogviszonyban (előzetes letartóztatásban, elítéltként), a közigazgatási határozat, a szabálysértési határozat alapján a Magyar Honvédségnél, a Katonai Nemzetbiztonsági Szolgálatnál, a rendvédelmi szerveknél, az önkormányzati tűzoltóságoknál szolgálati jogviszonyban végzett munka, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti közérdekű önkéntes tevékenység, és a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka.
 
 9/A. Telephely: A tevékenység (munkavégzés) gyakorlásának – a munkáltató székhelyétől különböző – helye, ideértve a munkáltató fióktelepét is.
+
+9/B. Természetes személy munkáltató háztartásában történő munkavégzés: kizárólag a maga és háztartásában vele együtt élő személyek, továbbá közeli hozzátartozói mindennapi életéhez szükséges feltételek biztosítására irányuló munkaviszony.
 
 10. Újraindítás: az olyan — munkavédelmi szempontból korábban üzembe helyezett — munkaeszköz, technológia újbóli üzembe helyezése, amelyet műszaki okból egybefüggően 30 napot meghaladóan nem használtak, vagy amelyen teljes szétszereléssel együttjáró javítási munkafolyamatot végeztek.
 
@@ -153,3 +155,7 @@ Veszélyforrás lehet különösen:
 = makroorganizmus (növény, állat);
 
 — a fiziológiai, idegrendszeri és pszichés igénybevétel.
+
+14. Munkáltatói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti országos munkáltatói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.
+
+15. Munkavállalói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti munkavállalói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.

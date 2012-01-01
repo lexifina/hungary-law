@@ -2,7 +2,7 @@
 
 19. § (1) A létesítés során a munkavédelmi követelmények érvényre juttatása a létesítésben közreműködők feladata, amelynek teljesítésében együtt kell működniük.
 
-(2) A létesítésben közreműködő (tervező, kivitelező) köteles írásban nyilatkozni, hogy a 18. § (1) bekezdésében foglaltakat megtartotta.
+(2)
 
 (3) A munkahelyek, munkaeszközök kialakítása, telepítése, továbbá a munka megszervezése során az ergonómiai szempontokat is figyelembe kell venni.
 

@@ -1,6 +1,6 @@
 14. § (1) A munkavédelem irányításának keretében állami feladat
 
-a) a munkavédelem országos programjának kialakítása;
+a) a munkavédelem nemzeti politikájának kialakítása;
 
 b) az egészséget nem veszélyeztető és biztonságos munkavégzés alapvető követelményeinek, továbbá az ehhez kapcsolódó jogoknak és kötelezettségeknek a meghatározása;
 

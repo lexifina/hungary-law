@@ -1,4 +1,4 @@
-82. § (1) A munkavédelmi hatóság munkavédelmi bírságot alkalmaz az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó követelmények teljesítését elmulasztó, és ezzel a munkavállaló életét, testi épségét vagy egészségét súlyosan veszélyeztető munkáltatóval szemben.
+82. § (1) A munkavédelmi hatóság munkavédelmi bírságot alkalmaz az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó követelmények teljesítését elmulasztó, és ezzel a munkavállaló életét, testi épségét vagy egészségét súlyosan veszélyeztető munkáltatóval vagy a 40. § (2) bekezdésében meghatározott összehangolási kötelezettség megvalósításáért felelős személlyel vagy szervezettel szemben.
 
 (2) A munkavállaló életét, testi épségét vagy egészségét súlyosan veszélyezteti különösen
 
@@ -30,4 +30,26 @@ j) a rákkeltő expozícióval járó tevékenység esetére a külön jogszabá
 
 (4) A munkavédelmi hatóság a munkavédelmi bírságot telephelyenként szabja ki, amennyiben az azonos időben lefolytatott eljárás során megállapítást nyer, hogy az (1) bekezdésben leírt veszélyeztetést ugyanazon jogszabályi rendelkezést megsértve a munkáltató több telephelyén valósítja meg.
 
-(5) A munkavédelmi bírságot a súlyos veszélyeztetést feltáró felügyelő javaslata alapján a munkavédelmi hatóság a veszélyeztetés mértéke alapján, valamint a mulasztás személyi és tárgyi körülményeinek mérlegelésével szabja ki.
+(5) A munkavédelmi bírságot a súlyos veszélyeztetést feltáró felügyelő javaslata alapján a munkavédelmi hatóság szabja ki. A munkavédelmi hatóság a bírságot
+
+a) a veszélyeztetés mértékének,
+
+b) a veszélyeztetettek számának,
+
+c) a veszélyeztetés időtartamának, ismétlődő jellegének,
+
+d) a megsértett jogszabályi előírások számának,
+
+e) a veszélyeztetés várható következményeinek,
+
+f) a sérülés és az egészségkárosodás mértékének,
+
+g) a munkáltató vagy a 40. § (2) bekezdésében meghatározott összehangolási kötelezettséget elmulasztó személy vagy szervezet által foglalkoztatott munkavállalók számának és éves nettó árbevételének vagy mérlegfőösszegének,
+
+h) a határértékkel jellemzett kóroki tényezőkre megadott határérték túllépése mértékének, valamint
+
+i) a bírság kiszabására okot adó veszélyeztetés kialakulásához vezető egyéb mulasztás személyi és tárgyi körülményeinek
+
+mérlegelésével szabja ki.
+
+(6) Az (1) bekezdés alapján kiszabott pénzbírságot a munkavédelmi hatóság kincstári előirányzat-felhasználási keretszámlájára kell befizetni.

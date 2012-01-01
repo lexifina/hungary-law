@@ -1,15 +1,17 @@
 79. § (1) A Munkavédelmi Bizottság az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó érdekegyeztető tevékenysége keretében
 
-a) előzetesen véleményezi a 11. §-ban megjelölt jogszabályok és egyéb előírások, intézkedések tervezeteit, a beszámolókat (jelentéseket) és az időszakos programokat azzal, hogy egyhangú állásfoglalását vagy a tárgyaló csoportok eltérő véleményét az előterjesztéseken fel kell tüntetni;
+a) előzetesen véleményezi a 11. §-ban megjelölt jogszabály-koncepciók és egyéb előírások, intézkedések tervezeteit, a beszámolókat, jelentéseket és az időszakos programokat azzal, hogy egyhangú állásfoglalását vagy a tárgyaló csoportok eltérő véleményét az előterjesztéseken fel kell tüntetni;
 
-b) részt vesz a munkavédelem országos programjának, annak végrehajtását szolgáló éves intézkedési és ütemterveknek a kialakításában, értékelésében és felülvizsgálatában;
+b) részt vesz a munkavédelem nemzeti politikájának, annak végrehajtását szolgáló éves intézkedési és ütemterveknek a kialakításában, értékelésében és felülvizsgálatában;
 
-c) tárgyal és állást foglal, illetve ajánlást alakít ki a tárgyaló csoportok által előterjesztett, munkavédelmi kérdésekről;
+c) tárgyal és állást foglal, illetve ajánlást vagy véleményt alakít ki a tárgyaló csoportok által előterjesztett munkavédelmi kérdésekről;
 
 d) ajánlásokat alakít ki a munkavédelemre vonatkozó szabályokban rögzítetteket meghaladó munkavédelmi követelményekről;
 
 e) munkájáról a közvéleményt tájékoztatja;
 
-f) a 80. §-ban meghatározott keretben javaslatot tesz a munkavédelmi hatóság által kiszabott pénzbírságok pályázat útján történő felhasználására, továbbá saját adataival, megállapításaival szükség szerint segíti a munkavédelmi információs rendszer működését.
+f) saját adataival, megállapításaival szükség szerint segíti a munkavédelmi információs rendszer működését.
+
+g) dönt a nevelés és az oktatás területén a biztonságos életvitelre, a szakmai oktatás területén az egészséget nem veszélyeztető és a biztonságos munkavégzés szabályaira vonatkozó ismeretanyag meghatározásával kapcsolatos kérdésekben.
 
 (2) A Munkavédelmi Bizottság működésével kapcsolatos titkársági, adminisztratív teendőket a munkavédelmi hatóság látja el.

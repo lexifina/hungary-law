@@ -8,6 +8,6 @@ b) a munkavállaló születési évét, társadalombiztosítási azonosító jel
 
 (3) A munkavédelmi hatóság a (2) bekezdésben meghatározott adatokat kezelheti, illetve a munkáltatókat adatközlésre hívhatja fel.
 
-(4) A munkavédelmi hatóság a (2) bekezdésben meghatározott adatokat a foglalkozási eredetű rákkeltő anyagok elleni védekezés és az általuk okozott egészségkárosodások megelőzésének céljából továbbítja a jogszabály alapján foglalkozás-egészségügyi feladatokat ellátó és a munkavédelmi hatóság tevékenységében közreműködő, kormányrendeletben meghatározott szerv részére, amely szerv ezen adatokat a továbbítástól számított ötven év elteltével törli.
+(4) A munkavédelmi hatóság a (2) bekezdésben meghatározott adatokat a foglalkozási eredetű rákkeltő anyagok elleni védekezés és az általuk okozott egészségkárosodások megelőzésének céljából továbbítja a munkahigiénés és foglalkozás-egészségügyi szerv részére, amely szerv ezen adatokat a továbbítástól számított ötven év elteltével törli.
 
 (5) A munkavédelmi hatóság a nyilvántartásban szereplő adatokat a munkáltató bejelentésétől számított ötven év elteltével törli.

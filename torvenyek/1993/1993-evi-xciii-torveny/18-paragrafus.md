@@ -8,7 +8,7 @@
 
 (2) Az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeinek teljesítése helyett a munkáltató pénzbeli vagy egyéb megváltást a munkavállalónak nem adhat.
 
-(3) Munkaeszközt üzembe helyezni, valamint használatba venni csak abban az esetben szabad, ha az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit kielégíti, és rendelkezik az adott munkaeszközre, mint termékre, külön jogszabályban meghatározott gyártói megfelelőségi nyilatkozattal, illetve a megfelelőséget tanúsító egyéb dokumentummal (pl. tanúsítvány).
+(3) Munkaeszközt üzembe helyezni, valamint használatba venni csak abban az esetben szabad, ha az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit kielégíti, és rendelkezik az adott munkaeszközre, mint termékre, külön jogszabályban meghatározott EK-megfelelőségi nyilatkozattal, illetve a megfelelőséget tanúsító egyéb dokumentummal (pl. tanúsítvány).
 
 (4) Egyéni védőeszközt forgalomba hozni, használatba venni akkor szabad, ha az rendelkezik EK-megfelelőségi nyilatkozattal, illetve EK-típustanúsítvánnyal. Az egyéni védőeszközök megfelelőségének tanúsítását a foglalkoztatáspolitikáért felelős miniszter rendeletében foglaltak szerint kell elvégezni.
 

@@ -4,17 +4,21 @@
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-a) a munkavédelmi hatóságot vagy hatóságokat, illetőleg e törvény 86. §-ának (2) bekezdésében említett Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, a katasztrófavédelem szervei tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket rendeletben jelölje ki;
+a) a munkavédelmi hatóságot vagy hatóságokat, illetőleg az e törvény 86. §-ának (2) bekezdésében említett Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok, a rendvédelmi szervek, valamint az önkormányzati tűzoltóságok tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket rendeletben jelölje ki;
 
 b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 
-c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a munkavédelmi szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a nyilvántartás vezetésére vonatkozó eljárás részletes szabályait.
+c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a munkavédelmi szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a nyilvántartás vezetésére vonatkozó eljárás részletes szabályait;
+
+d) rendeletben állapítsa meg a munkavédelmi bírság mértékére és kiszabására vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap a feladatkörében érintett miniszter, hogy
 
-a) rendkívüli munkavégzési körülmények esetére, illetőleg a Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, a katasztrófavédelem szervei tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozó eltérő munkavédelmi követelményeket, eljárási szabályokat rendeletben határozza meg;
+a) a rendkívüli munkavégzési körülmények esetére, illetőleg a rendvédelmi szervek, az önkormányzati tűzoltóságok tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan – az egyes szervek specifikumait figyelembe véve – ezen törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat ágazati rendeletben határozza meg;
 
 b) az egyes veszélyes tevékenységekre vonatkozó Szabályzatokat (11. §) a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben, rendeletben adja ki.
+
+c) rendeletben határozza meg a Magyar Honvédségnél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságoknál a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy
 
@@ -30,7 +34,7 @@ ad) a munkabalesetek bejelentésének, kivizsgálásának és nyilvántartásán
 
 ae) a kollektív munkaügyi vita munkavédelmi képviselet által történő kezdeményezése feltételének;
 
-af)
+af) az ipari alpintechnikai tevékenység biztonsági követelményeinek;
 
 részletes szabályait;
 
@@ -38,7 +42,7 @@ b) az egészségügyért felelős miniszterrel és a tevékenység szerinti mini
 
 c) a bányászati ügyekért felelős miniszterrel egyetértésben, rendeletben határozza meg
 
-ca) a munkavédelmi jellegű bírságok felhasználásának részletes szabályait;
+ca)
 
 cb) a munkavédelmi szabályokat a bányászatról szóló törvény hatálya alá tartozó tevékenységek tekintetében;
 
