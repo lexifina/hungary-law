@@ -24,7 +24,7 @@ b) a felügyelőbizottság tagjai, az operatív irányítást végző személy k
 
 c) a Ptk. 685/B. § (1) bekezdés szerinti többségi befolyás.
 
-(3) Az (1) bekezdés b), c) és d) pontjában meghatározott feltétel teljesül abban az esetben is, ha egyrészt az átviteli rendszerirányító vagy az átviteli hálózat, másrészt a termelői engedélyes vagy a kereskedő felett az irányítást a Magyar Köztársaság nevében önálló, törvényben meghatározott gazdálkodó szervezetek vagy más állami szervek gyakorolják.
+(3) Az (1) bekezdés b), c) és d) pontjában meghatározott feltétel teljesül abban az esetben is, ha egyrészt az átviteli rendszerirányító vagy az átviteli hálózat, másrészt a termelői engedélyes vagy a kereskedő felett az irányítást Magyarország nevében, törvényben meghatározott gazdálkodó szervezetek vagy más állami szervek gyakorolják.
 
 (4) Azokat az üzleti titkokat, amelyek a korábban vertikálisan integrált villamosenergia-ipari vállalkozás részét képező átviteli rendszerirányító birtokában voltak, az átviteli rendszerirányító nem hozhatja a termeléssel vagy a villamosenergia-kereskedelemmel foglalkozó vállalkozás tudomására, továbbá az ilyen átviteli rendszerirányító alkalmazásában álló a 102/A. § (6) és (7) bekezdés szerinti személyeket munkaviszonyuk alatt és munkaviszonyuk megszűnését követő 4 évig, az átviteli rendszerirányítóval munkaviszonyukban álló egyéb személyeket 1 évig a termeléssel vagy villamosenergia-kereskedelemmel foglalkozó vállalkozás nem alkalmazhatja.
 

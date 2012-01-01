@@ -4,7 +4,7 @@
 
 a) a jogkövetkezményekre való utalás mellett írásban felszólítja az engedélyest a kötelezettségei betartására,
 
-b) a külön jogszabályban meghatározott mértékű bírságot szabhat ki, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is,
+b) a kormányrendeletben meghatározott mértékű bírságot szabhat ki, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is,
 
 c) az engedélyt módosíthatja, vagy visszavonhatja, ha az engedélyes az a) pont szerinti felszólítás és a b) pont szerinti bírság kiszabása ellenére nem szünteti meg a jogsértést, vagy nem teljesíti kötelezettségét,
 

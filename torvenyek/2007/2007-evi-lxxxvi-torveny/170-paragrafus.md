@@ -4,7 +4,7 @@
 
 170. § (1) Felhatalmazást kap a Kormány, hogy
 
-1. a Magyar Energia Hivatal által kiszabható bírság felső határát,
+1. az e törvény alapján a Hivatal által kiszabható bírság mértékét,
 
 2. a panaszok engedélyes általi kezelésére és a felhasználók, illetve lakossági fogyasztók általi benyújtására vonatkozó eljárási szabályokat,
 
@@ -54,11 +54,11 @@
 
 25. a Hivatal határozatainak közzétételére vonatkozó részletes szabályokat,
 
-26. az ország nemzetközi kötelezettségvállalásán alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre vonatkozó részletes szabályokat,
+26. Magyarország nemzetközi kötelezettségvállalásán alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre vonatkozó részletes szabályokat,
 
 27. az e törvény szerinti hatósági árakra vonatkozó rendelkezések végrehajtásának ellenőrzésére vonatkozó eljárás, valamint az alkalmazandó jogkövetkezmények végrehajtásának részletes szabályait,
 
-28. az e törvény 147. § (1) bekezdésében meghatározott pénzeszköz kezelésének és felhasználásának részletes szabályait, valamint a kifizetések rendjét,
+28. az e törvény 147. § (1) bekezdésében meghatározott pénzeszköz kezelésének és a 147. § (1) bekezdés a) pontja esetében felhasználása és kifizetése szabályait,
 
 29. a megújuló energiaforrásból, valamint a hulladékból nyert energiával, továbbá a jogszabályban meghatározott egyéb módon termelt villamos energia felhasználását elősegítő kötelező átvételi rendszer részletes szabályait – különösen az átvételi kötelezettség alá eső villamos energia átvételi árát – a kötelező átvételi rendszer keretében végrehajtandó elszámolások részletes szabályait, az átvételi kötelezettség alá eső villamos energia befogadásának és kötelező átvételének részletes szabályait, valamint az egyes termelési eljárások, különösen a biomasszával termelt villamos energia kötelező átvételéhez szükséges minimális hatásfokot,
 
@@ -88,7 +88,11 @@
 
 42. az egyetemes szolgáltatás keretében történő villamosenergia-vásárláshoz való jogosultság szempontjából az egyetemes szolgáltatóhoz tett igénybejelentésük esetén közszolgáltatásra jogosult központi költségvetési szervek és közfeladatot ellátó intézmények, helyi önkormányzatok közfeladatot ellátó költségvetési intézményei, közfeladatot ellátó egyházi jogi személyek, valamint közfeladatot ellátó alapítványi fenntartású intézmények körét,
 
-43. a hálózatfejlesztési tervre vonatkozó szempontrendszert
+43. a hálózatfejlesztési tervre vonatkozó szempontrendszert,
+
+44. a villamosenergia-rendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszere, kijelölése, az érzékeny információ védelme, a kapcsolattartás és a jelentéstételi kötelezettségek, valamint európai kritikus infrastruktúra kijelölése esetén annak védelme, ellenőrzésének rendje, az előírások megsértése esetén alkalmazható jogkövetkezmények szabályait,
+
+45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit.
 
 rendeletben állapítsa meg.
 
@@ -138,7 +142,7 @@ b) az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia H
 
 c) a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, a területfejlesztésért felelős miniszterrel és a területrendezésért felelős miniszterrel egyetértésben a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény hálózati engedélyesek által, a vezetékjog alapján történő megközelítésének, keresztezésének szabályait,
 
-d)
+d) az adópolitikáért felelős miniszterrel egyetértésben az igazgatási-szolgáltatási díj mértékét, továbbá a díjak és egyéb bevételek fizetésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

@@ -16,7 +16,7 @@
 
 6. Csatlakozóberendezés: az átviteli vagy elosztó hálózat részét képező vezetékrendszer – a hozzá tartozó átalakító- és kapcsolóberendezéssel együtt –, amely az átviteli vagy elosztó hálózat leágazási pontját a csatlakozási ponttal köti össze. A fogyasztásmérő berendezés a csatlakozóberendezés tartozéka;
 
-7. Egyetemes szolgáltatás: a villamosenergia-kereskedelem körébe tartozó sajátos villamosenergia-értékesítési mód, amely az ország területén bárhol, meghatározott minőségben a jogosult felhasználó számára méltányos, összehasonlítható, átlátható ár ellenében igénybe vehető;
+7. Egyetemes szolgáltatás: a villamosenergia-kereskedelem körébe tartozó sajátos villamosenergia-értékesítési mód, amely Magyarország területén bárhol, meghatározott minőségben a jogosult felhasználó számára méltányos, összehasonlítható, átlátható ár ellenében igénybe vehető;
 
 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 
@@ -48,7 +48,7 @@
 
 20. Gazdaságilag indokolt hő- vagy hűtési igény: a hő vagy hűtés iránti igényt meg nem haladó mértékű kereslet, amelyet versenypiaci feltételek mellett, kapcsolt hő- és villamosenergia-termelés hiányában, a kapcsolt energiatermeléstől eltérő egyéb energia-előállító folyamaton keresztül elégítenének ki;
 
-21. Határkeresztező vezeték: az átviteli hálózat részét képező, az országhatárt keresztező vezeték, beleértve a hozzá tartozó átalakító- és kapcsolóberendezést;
+21. Határkeresztező vezeték: az átviteli hálózat részét képező, Magyarország államhatárát keresztező vezeték, beleértve a hozzá tartozó átalakító- és kapcsolóberendezést;
 
 22. Hálózati engedélyes: az átviteli rendszerirányító és az elosztó;
 
@@ -90,7 +90,7 @@
 
 37.
 
-38. Közvetlen vezeték: közcélúnak, magán- és termelői vezetéknek nem minősülő, országhatárt nem keresztező vezeték, hálózati elem vagy átalakító- és kapcsolóberendezés, amely közcélú hálózatra csatlakozó erőművet köt össze vételezővel;
+38. Közvetlen vezeték: közcélúnak, magán- és termelői vezetéknek nem minősülő, Magyarország államhatárát nem keresztező vezeték, hálózati elem vagy átalakító- és kapcsolóberendezés, amely közcélú hálózatra csatlakozó erőművet köt össze vételezővel;
 
 39. Közvilágítás: a külön jogszabályban meghatározott területnek a közlekedés-, köz- és vagyonbiztonság érdekében szükséges összefüggő, rendszeres, meghatározott időtartamú, villamos üzemű megvilágítása;
 
@@ -120,9 +120,9 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 46. Mérlegkör: a kiegyenlítő energia igénybevételének okozathelyes megállapítására és elszámolására és a kapcsolódó feladatok végrehajtására a vonatkozó felelősségi viszonyok szabályozása érdekében létrehozott, egy vagy több tagból álló elszámolási szerveződés;
 
-47. Nemzeti Cselekvési Terv: a közlekedésben, a villamosenergia-fogyasztásban, a fűtésben és hűtésben felhasznált, megújuló energiaforrásokból előállított energia 2020-as részarányaira vonatkozó – az energiahatékonysággal kapcsolatos egyéb intézkedéseknek a végső energiafogyasztásra gyakorolt hatásait figyelembe vevő – a Magyar Köztársaságra érvényes célértékeket, és az e célértékek elérésére alkalmas, foganatosítandó intézkedéseket tartalmazó terv;
+47. Nemzeti Cselekvési Terv: a közlekedésben, a villamosenergia-fogyasztásban, a fűtésben és hűtésben felhasznált, megújuló energiaforrásokból előállított energia 2020-as részarányaira vonatkozó – az energiahatékonysággal kapcsolatos egyéb intézkedéseknek a végső energiafogyasztásra gyakorolt hatásait figyelembe vevő – a Magyarországra érvényes célértékeket, és az e célértékek elérésére alkalmas, foganatosítandó intézkedéseket tartalmazó terv;
 
-48. Együttműködő villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik a Magyar Köztársaság (a továbbiakban: ország) területén működik;
+48. Együttműködő villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik Magyarország területén működik;
 
 49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
 

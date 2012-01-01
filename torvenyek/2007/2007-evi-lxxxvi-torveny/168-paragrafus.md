@@ -24,7 +24,7 @@ c) a korlátozott villamosenergia-kereskedelmi engedélyezési ügyekben 30 nap,
 
 d) amennyiben a Hivatal piacelemzés alapján jelentős piaci erővel rendelkező engedélyes azonosítása vagy kötelezettség előírására irányuló eljárásban jár el, hat hónap, amely egy alkalommal három hónappal meghosszabbítható.
 
-e) amennyiben a Hivatal a 107. § (2) bekezdés vagy a 108. § alapján jár el hat hónap, amely egy alkalommal három hónappal meghosszabbítható,
+e)
 
 e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az Európai Bizottság véleményének kézhezvételét követően vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének letelte után az eljárás felfüggesztésének megszüntetésére és határozat közzétételére vagy annak módosítására a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam.
 

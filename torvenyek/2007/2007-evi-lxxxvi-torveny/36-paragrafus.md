@@ -10,7 +10,7 @@ d) az együttműködő villamosenergia-rendszer, illetve a villamosenergia-rends
 
 e) a rendszerszintű szolgáltatások biztosításának vagy a rendszer szabályozhatóságának veszélybe kerülése,
 
-f) a határon keresztül szállított villamos energia beszállításra olyan létesítményekből kerül sor, amelyek üzemeltetése a Magyar Köztársaság területén tartózkodó személyekre, vagyontárgyaikra, a természetre vagy a környezetre közvetett vagy közvetlen veszéllyel jár, illetve járhat,
+f) a határon keresztül szállított villamos energia beszállításra olyan létesítményekből kerül sor, amelyek üzemeltetése a Magyarország területén tartózkodó személyekre, vagyontárgyaikra, a természetre vagy a környezetre közvetett vagy közvetlen veszéllyel jár, illetve járhat,
 
 g) a villamos energia beszállítása a megújuló energiaforrások, a hulladékból nyert energia, illetve a kapcsolt villamos energia termelését vagy felhasználását hátrányosan érinti,
 

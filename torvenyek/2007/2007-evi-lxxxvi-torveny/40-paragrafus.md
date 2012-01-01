@@ -18,7 +18,7 @@ d) a villamos energia határon keresztül történő szállítása esetén az á
 
 (4) A (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén – a hálózathasználati szerződés eltérő rendelkezése hiányában – legalább éves gyakorisággal, egyéb esetben a Vhr.-ben előírtak alapján a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani. A hálózathasználati szerződés egy évnél hosszabb leolvasási időszakot nem állapíthat meg.
 
-(5) A (3) bekezdésben meghatározott mérési adatokat – természetes személy esetén a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) rendelkezései szerint – az érintett rendszerhasználó részére külön díjfizetés nélkül hozzáférhetővé kell tenni.
+(5) A (3) bekezdésben meghatározott mérési adatokat – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett rendszerhasználó részére külön díjfizetés nélkül hozzáférhetővé kell tenni.
 
 (6) A közvilágítás céljára vételezett villamos energia fogyasztásmérés nélküli elszámolását az elosztó a fényforrások előtétekkel növelt beépített teljesítményeinek összege és a közvilágítási égésidő szorzataként végzi.
 

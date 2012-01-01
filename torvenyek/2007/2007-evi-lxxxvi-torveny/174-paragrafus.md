@@ -10,4 +10,4 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (3) A villamos energiáról szóló 2001. évi CX. törvény 98. § (1) bekezdése szerinti, a rendszerirányítási díj részeként az átállási költségek térítése céljából beszedett pénzeszköz kezelésére az átviteli rendszerirányító által létrehozott elkülönített számla e törvény hatálybalépésének napjára vonatkozó egyenlegét az átviteli rendszerirányító bevételként számolhatja el. Ezt a bevételt az átviteli rendszerirányítási díj szabályozásánál csökkentő tételként figyelembe kell venni.
 
-(4) A 147. § (1) bekezdése szerinti pénzeszközök mértékét, vagy annak módosítását a 148. § (4) bekezdésében foglaltak kivételével – a költségvetési törvényben kell megállapítani.
+(4)

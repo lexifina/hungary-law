@@ -4,7 +4,7 @@ a) tartós erőművi, illetőleg a határon keresztül beszállított villamos e
 
 b) tartós elsődleges energiaforrás hiány,
 
-c) az ország vagy országrész villamosenergia-ellátásában több napon át hiányt okozó környezetszennyezés, illetőleg vezetékek üzemszünete,
+c) Magyarország teljes területén vagy egy részén a villamosenergia-ellátásban több napon át hiányt okozó környezetszennyezés, illetőleg vezetékek üzemszünete,
 
 d) a felhasználók ellátásának zavara.
 

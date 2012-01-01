@@ -12,7 +12,7 @@ a) kiserőművi összevont engedélyes esetében,
 
 b) magánvezeték engedélyese esetében,
 
-c) közvetlen vezeték engedélyese esetében vagy
+c) közvetlen vezeték engedélyese esetében.
 
 (5) Villamos energia termelésével, földgáz kitermelésével vagy villamos energia vagy földgáz kereskedelmével foglalkozó vállalkozás, valamint az ilyen vállalkozásokban irányítást gyakorló részvényes az átviteli rendszerirányítóban vagy annak irányító részvényesében sem közvetlenül, sem közvetetten nem szerezhet irányítást biztosító részesedést. Az átviteli rendszerirányítóban, illetve annak irányító részvényesében irányítást biztosító részesedésszerzéshez a Hivatal előzetes hozzájárulása is szükséges. E rendelkezés nem érinti a 102. § (1) bekezdésében rögzített rendelkezést.
 

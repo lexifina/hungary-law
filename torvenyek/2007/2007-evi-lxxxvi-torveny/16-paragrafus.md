@@ -4,7 +4,7 @@ a) a villamosenergia-rendszer – a nemzetközi kapcsolatokra is kiterjedő – 
 
 b) a villamosenergia-rendszer működéséhez, fejlesztéséhez, valamint a folyamatos és biztonságos villamosenergia-ellátáshoz szükséges információk összegyűjtése és szolgáltatása,
 
-c) az ország nemzetközi kötelezettségvállalásainak teljesítése érdekében az átviteli rendszerirányítási engedélyes tevékenységgel összefüggő árakra vonatkozó adatok külön jogszabályban, valamint a villamosenergia-ellátási szabályzatokban meghatározott módon történő gyűjtése és szolgáltatása a Hivatal részére,
+c) Magyarország nemzetközi kötelezettségvállalásainak teljesítése érdekében az átviteli rendszerirányítási engedélyes tevékenységgel összefüggő árakra vonatkozó adatok külön jogszabályban, valamint a villamosenergia-ellátási szabályzatokban meghatározott módon történő gyűjtése és szolgáltatása a Hivatal részére,
 
 d) a mérlegköri rendszer működtetése, a mérlegkörök és az átviteli rendszerirányító közötti elszámolás szervezése,
 

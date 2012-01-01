@@ -8,7 +8,7 @@ a) a szénipari szerkezetátalakítási támogatás,
 
 b) a külön jogszabályban meghatározott személyi kör részére a villamosenergia-iparban fennálló, vagy eltöltött munkaviszonnyal összefüggésben külön jogszabálynak megfelelően biztosított kedvezményes árú villamosenergia-ellátás támogatása,
 
-c) a kapcsolt termelésszerkezet-átalakítási díj
+c) a kapcsolt termelésszerkezet-átalakítás támogatása
 
 finanszírozásához szükséges pénzügyi forrásokat.
 

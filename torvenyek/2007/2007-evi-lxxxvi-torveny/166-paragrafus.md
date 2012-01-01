@@ -1,5 +1,3 @@
-## A Hivatal szervezete, vezetői és alkalmazottai
-
 166. § (1) A Hivatal elnökét és elnökhelyetteseit – a miniszter javaslatára – a miniszterelnök nevezi ki és menti fel. A kinevezés időtartama hat év, ami egy alkalommal azonos időtartamra meghosszabbítható. Az elnök és elnökhelyettesek kinevezése időtartamának lejárta vagy megbízatása egyéb okból történő megszűnése esetén a miniszter nyilvános pályázatot ír ki a megüresedő tisztségre. A pályázatokat a miniszter a pályázatok benyújtására rendelkezésre nyitva álló határidő lejártát követően harminc napon belül szakmailag értékeli. A miniszter az értékelés eredményéről, a jelöltek sorrendjéről és javaslatának indokolásáról írásban vagy elektronikusan tájékoztatja a miniszterelnököt.
 
 (2) Az elnök és az elnökhelyettesek tekintetében a munkáltatói jogokat – a kinevezés és a felmentés kivételével – a miniszter gyakorolja.

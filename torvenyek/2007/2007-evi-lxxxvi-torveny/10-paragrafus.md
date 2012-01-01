@@ -4,7 +4,7 @@ a) a megújuló energiaforrásokból és a hulladékból nyert energiával terme
 
 b) a kötelező átvételi rendszernek a termelők piaci versenyét fenntartva kell csökkentenie a termelt villamos energia értékesítése során jelentkező versenyhátrányt,
 
-c) az átvételi kötelezettség alá eső villamos energia átvételi árának, mennyiségének és a kötelező átvétel időtartamának megállapításakor figyelembe kell venni az egyes termelési eljárások átlagos megtérülési idejét, az egyes energiaforrások felhasználásának az ország természeti adottságaival összefüggő hatékonyságát, a felhasználók teherbíró képességét és a technológiák fejlődéséből adódó hatékonyságjavulást, valamint az adott technológiának a villamosenergia-rendszer működésére gyakorolt hatását és a technológiai sajátosságokat,
+c) az átvételi kötelezettség alá eső villamos energia átvételi árának, mennyiségének és a kötelező átvétel időtartamának megállapításakor figyelembe kell venni az egyes termelési eljárások átlagos megtérülési idejét, az egyes energiaforrások felhasználásának Magyarország természeti adottságaival összefüggő hatékonyságát, a felhasználók teherbíró képességét és a technológiák fejlődéséből adódó hatékonyságjavulást, valamint az adott technológiának a villamosenergia-rendszer működésére gyakorolt hatását és a technológiai sajátosságokat,
 
 d)
 

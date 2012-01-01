@@ -2,7 +2,7 @@
 
 1. kiadja, jogszabályban meghatározott esetekben módosítja, illetve visszavonja az e törvény szerint engedélyköteles tevékenységek gyakorlásához szükséges engedélyeket,
 
-2. jóváhagyja az engedélyesek által kidolgozott üzletszabályzatokat és belső szabályzatokat, valamint azok módosítását, illetve e törvényben meghatározott esetekben hivatalból módosítja, vagy visszavonja azokat,
+2. jóváhagyja az engedélyesek által kidolgozott üzletszabályzatokat és belső kiválasztási szabályzatokat, valamint azok módosítását, illetve e törvényben meghatározott esetekben hivatalból módosítja, vagy visszavonja azokat,
 
 3. jóváhagyja a villamosenergia-ellátási szabályzatokat, a szervezett villamosenergia-piaci szabályzatot, valamint azok módosítását, illetve e törvényben meghatározott esetekben hivatalból módosítja, vagy visszavonja azokat,
 

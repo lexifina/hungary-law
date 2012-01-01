@@ -1,6 +1,6 @@
 ## A Hivatal gazdálkodása
 
-161. § (1) A Hivatal a feladatai ellátásával, valamint működésével összefüggő kiadásokat és működését – a bírságok kivételével – saját bevételeiből fedezi.
+161. § (1) A Hivatal a feladatai ellátásával, valamint működésével összefüggő kiadásokat és működését saját bevételeiből fedezi.
 
 (2) A Hivatal bevételét képezik a
 
@@ -8,7 +8,7 @@ a) felügyeleti díjak,
 
 b) igazgatási szolgáltatási díjak,
 
-c) bírságok,
+c)
 
 d) egyéb bevételek.
 
@@ -16,6 +16,6 @@ d) egyéb bevételek.
 
 (4) A Hivatal kérelemre indult eljárásáért igazgatási-szolgáltatási díjat kell fizetni.
 
-(5) Az igazgatási-szolgáltatási díj és a bírságok mértékét, továbbá a díjak és egyéb bevételek fizetésére vonatkozó részletes szabályokat a miniszter az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+(5) Az igazgatási-szolgáltatási díj mértékét, továbbá a díjak és egyéb bevételek fizetésére vonatkozó részletes szabályokat a miniszter az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 (6)–(7)

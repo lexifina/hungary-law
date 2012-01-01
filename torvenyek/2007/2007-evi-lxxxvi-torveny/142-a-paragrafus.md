@@ -8,7 +8,7 @@
 
 (5) A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
 
-a) elfogadása esetén a miniszter a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat és a díjak alkalmazásának általános szabályait a Hivatal előterjesztését követő 30 napon belül rendelettel hirdeti ki, vagy
+a) elfogadása esetén a miniszter a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat és a díjak alkalmazásának általános szabályait a Hivatal előterjesztésének elfogadását követő 30 napon belül rendelettel hirdeti ki, vagy
 
 b) elutasítása esetén a miniszter az elutasítás tényét és indokolását az elutasító döntés meghozatalát követő 15 napon belül nyilvánosságra hozza.
 
