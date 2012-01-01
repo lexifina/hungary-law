@@ -10,7 +10,7 @@
 
 ## A kérelmező vagy képviselője személyi azonosítója:
 
-## II.[^176]
+## II.[^180]
 
 ## A kért adatkör meghatározása:
 
@@ -64,7 +64,7 @@
 
 ## aláírás
 
-3. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^177]
+3. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^181]
 
-[^176]: Az R. 2. számú mellékletének II. pontja a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
-[^177]: A 3. számú melléklet a 13/1999. (II. 1.) Korm. rendelet 35. §-ával és 3. számú mellékletével megállapított, valamint a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^180]: Az R. 2. számú mellékletének II. pontja a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^181]: A 3. számú melléklet a 13/1999. (II. 1.) Korm. rendelet 35. §-ával és 3. számú mellékletével megállapított, valamint a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
