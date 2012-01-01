@@ -6,6 +6,8 @@ b) az üzembe helyezést (használatba vételt) követően, az üzemeltetés ide
 
 ## az arra szakértelemmel rendelkező útján gondoskodik.
 
-(2) Nem vízügyi szerv kezelésében lévő kiemelt jelentőségű vízilétesítmény esetén a megfigyelések eredményeit az adatgyűjtő a rögzítéstől számított 30 naponbelül köteles átadni a területileg illetékes környezetvédelmi és vízügyi igazgatóságnak (a továbbiakban: igazgatóság).
+(2)[^1] Nem vízügyi szerv kezelésében lévő kiemelt jelentőségű vízilétesítmény esetén a megfigyelések eredményeit az adatgyűjtő a rögzítéstől számított 30 naponbelül köteles átadni a területileg illetékes vízügyi igazgatóságnak (a továbbiakban: igazgatóság).
 
 (3) Ha a kiemelt jelentőségű vízilétesítmény üzemeltetője nem vízügyi szerv, a megfigyeléssel kapcsolatos feladatokat akkor láthatja el, ha ehhez az igazgatóság hozzájárul.
+
+[^1]: Az 5. § (2) bekezdése a 147/2011. (XII. 23.) VM rendelet 17. § e) pontja szerint módosított szöveg.
