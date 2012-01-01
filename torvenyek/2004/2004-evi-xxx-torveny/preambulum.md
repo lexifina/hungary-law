@@ -8,6 +8,4 @@ emlékeztetve a Magyar Köztársaságnak az Európai Unióhoz történő csatlak
 
 figyelemmel arra, hogy az ország lakossága ügydöntő népszavazással döntött hazánk Európai Unióhoz történő csatlakozása mellett;
 
-összhangban az Alkotmány 2/A. §-ának (2) bekezdésével
-
 a következő törvényt alkotja:
