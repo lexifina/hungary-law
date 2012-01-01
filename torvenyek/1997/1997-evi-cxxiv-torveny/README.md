@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-124-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-124-00-00.13 |
 | 2011-01-01 | 2009. évi CIX. törvény | 1997-124-00-00.14 |
+| 2012-01-01 | 2011. évi CLXVI. törvény | 1997-124-00-00.15 |

@@ -1,1 +1,1 @@
-1. § E törvényt alkalmazni kell a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény szerint a bíróság által nyilvántartásba vett egyházra, vallásfelekezetre és vallási közösségre (a továbbiakban: egyház).
+1. § E törvényt a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) szerint nyilvántartásba vett egyházra, vallásfelekezetre és vallási közösségre (a továbbiakban együtt: egyház) kell alkalmazni.
