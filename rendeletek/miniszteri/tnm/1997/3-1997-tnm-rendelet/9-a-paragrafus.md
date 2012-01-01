@@ -1,6 +1,6 @@
 ## A nyugállományú tagok társadalmi szervezeteinek támogatása
 
-9/A. §[^2] (1) A Hivatal támogathatja nyugállományú tagjai országos és helyi szervezeteinek működését. A támogatás az alábbiakra terjed ki:
+9/A. §[^3] (1) A Hivatal támogathatja nyugállományú tagjai országos és helyi szervezeteinek működését. A támogatás az alábbiakra terjed ki:
 
 a) a szervezeti élettel összefüggő elhelyezési, irodatechnikai feltételek és egyéb szolgáltatások (pl. telefon, levelezés) biztosítása;
 
@@ -12,4 +12,4 @@ b) évente két alkalommal közérdeklődésre számot tartó rendezvény felté
 
 (4) A támogatás részleteit a Hivatal és az érintett szervezet közötti megállapodásban kell meghatározni.
 
-[^2]: A 9/A. §-t és az előtte lévő alcímet a 2/2004. (V. 28.) MeHVM rendelet 1. §-a iktatta a szövegbe.
+[^3]: A 9/A. §-t és az előtte lévő alcímet a 2/2004. (V. 28.) MeHVM rendelet 1. §-a iktatta a szövegbe.

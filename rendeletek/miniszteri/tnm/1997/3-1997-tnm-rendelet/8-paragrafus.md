@@ -22,7 +22,7 @@ d) a szociális segély odaítélése és mértéke;
 
 e) a családalapítási támogatás odaítélése és mértéke;
 
-f) az albérleti hozzájárulás odaítélése és mértéke;
+f) az albérleti hozzájárulás odaítélése és mértéke;[^2]
 
 g) az üdülési főidényben rendelkezésre álló üdülői férőhelyek szervezeti egységek közötti elosztása.
 
@@ -37,3 +37,4 @@ c) a családalapítási támogatással, és
 d) az üdültetés rendjével
 
 [^1]: A 8. § (6) bekezdés c) pontja az 1/2010. (I. 14.) PTNM rendelet 14. § (3) bekezdés szerint módosított szöveg; alkalmazására lásd e módosító rendelet 14. (1) bekezdését.
+[^2]: A 42/2012. (VIII. 23.) BM rendelet 10. §-a alapján az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat állománya tekintetében nem alkalmazható.
