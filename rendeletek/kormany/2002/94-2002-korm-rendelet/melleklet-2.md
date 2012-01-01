@@ -50,4 +50,6 @@
 
 | (3) A megfelelőségre vonatkozó vélelem megszűnésének időpontja általában megegyezik az Európai Szabványügyi Szervezet által meghatározott visszavonás időpontjával. |
 
-2. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez
+2. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^67]
+
+[^67]: A 2. melléklet a 343/2011. (XII. 29.) Korm. rendelet 36. § (3) bekezdésével megállapított szöveg.

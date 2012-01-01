@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-94-20-2
 | 2010-06-01 | 2002-94-20-22.11 | 71/2010. (III. 19.) Korm. rendelet |
 | 2010-11-16 | 2002-94-20-22.12 | 255/2010. (XI. 8.) Korm. rendelet |
 | 2011-01-01 | 2002-94-20-22.13 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2012-01-01 | 2002-94-20-22.14 | 343/2011. (XII. 29.) Korm. rendelet |

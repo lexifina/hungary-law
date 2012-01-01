@@ -234,26 +234,6 @@
 
 ## d) a csomagolásban szennyeződésként maradó anyagnak tulajdoníthatóan veszélyesnek minősülő csomagolási hulladék mennyiségéről és minőségéről.
 
-5. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^85]
+5. számú melléklet a 94/2002. (V. 5.) Korm. rendelethez[^70]
 
-A kötelezettek által minimálisan teljesítendő anyagában történő hasznosítási arányok
-
-| Anyagfajta | Év |
-
-| 2006. (tömeg- százalékban)* | 2007. (tömeg- százalékban)* | 2008. (tömeg- százalékban)* |
-
-| Papír | 55 | 60 | 60 |
-
-| Üveg | 18 | 21 | 25 |
-
-| Fém | 40 | 45 | 50 |
-
-| Műanyag | 16 | 18 | 20 |
-
-| Fa | 15 | 15 | 15 |
-
-* A kötelezett termékéből származó hulladék mennyiségének arányában.
-
-”
-
-[^85]: Az 5. számú mellékletet a 37/2006. (II. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^70]: Az 5. számú mellékletet a 37/2006. (II. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be, a 343/2011. (XII. 29.) Korm. rendelet 42. § (2) bekezdése hatályon kívül helyezte.
