@@ -1,5 +1,1 @@
-25. § (1) Az ösztöndíjas hallgató az intézmény Szabályzatában meghatározott módon – az ösztöndíjszerződésben érintett fegyveres szervek engedélyével – a képzési időben egyszer szakot változtathat.
-
-(2) Az ösztöndíjas hallgató nem csatlakozhat olyan szervezethez, amelynek szerveződési célja vagy tevékenysége a fegyveres szervek törvényben meghatározott feladataival ellentétes.
-
-(3) Az ösztöndíjas hallgató – az alapképzés, az ügyeleti szolgálatok, a szakmai gyakorlat időtartama, katasztrófa megelőzése és következményeinek elhárítása, valamint a szükségállapot és rendkívüli állapot kivételével – szolgálati feladat ellátására nem vehető igénybe. A szakmai gyakorlat teljesítése során az ösztöndíjas hallgató önálló hatósági jogkör gyakorlása nélkül, felügyelet mellett, a fegyveres szerv tevékenységére vonatkozó eljárási szabályok szerint köteles a fegyveres szerv szolgálati feladatainak végrehajtásában közreműködni, jogosult bármely cselekménynél jelen lenni, intézkedésben részt venni, részfeladatokat önállóan végrehajtani. A katasztrófavédelmi feladatok ellátásában részt vevő ösztöndíjas hallgató részére a tanulmányi és vizsgaszabályzatban meghatározott módon biztosítani kell a vizsgakötelezettség utólagos teljesítésének lehetőségét.
+25. §

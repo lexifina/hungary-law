@@ -1,3 +1,1 @@
-34/O. § (1) A Zászlóalj beosztásában történő szolgálatteljesítés kiképzési időnek minősül, melyet úgy kell megállapítani, hogy az a honvéd tisztjelölt tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse. A kiképzési időn belül a honvéd tisztjelölt napirendjét a Zászlóalj parancsnoka határozza meg.
-
-(2) A honvéd tisztjelöltet a Zászlóalj elhelyezési körletében kell elhelyezni. Ettől eltekinteni szakmai gyakorlat vagy szolgálati feladat végrehajtása érdekében lehet. Az elhelyezési körletben biztosítani kell a képzéssel és a kiképzéssel kapcsolatos követelmények teljesítését elősegítő körülmények kialakítását, a tisztálkodásnak, az étkeztetésnek, az egészségügyi ellátásnak, valamint a pihenőidő eltöltésének és az alvásnak az általános feltételeit. A honvéd tisztjelölt az elhelyezési körletet csak a Zászlóalj parancsnoka által meghatározottak szerint és engedélyével hagyhatja el.
+34/O. §

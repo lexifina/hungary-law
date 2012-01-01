@@ -1,6 +1,6 @@
 31. § (1) Az ösztöndíjas hallgatói jogviszony megszűnik:
 
-a) a hallgatói jogviszony 16. § szerinti megszűnésével,
+a)
 
 b) az ösztöndíjszerződés közös megegyezéssel történő megszüntetésével,
 

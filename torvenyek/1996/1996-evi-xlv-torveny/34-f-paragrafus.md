@@ -1,3 +1,1 @@
-34/F. § (1) A tisztjelölti szolgálati viszony közös megegyezéssel bármikor, bármelyik fél kezdeményezésére megszüntethető. A közös megegyezést írásba kell foglalni, amelyben rögzíteni kell a feleknek a megszüntetett ösztöndíjszerződésből eredő, egymás iránti jogait és kötelezettségeit.
-
-(2) A 34/D. § és a 34/H. § (2) bekezdés d) pontja kivétel közös megegyezéssel szűnik meg a tisztjelölti szolgálati viszony akkor is, ha a honvéd tisztjelölt kérelmére a Zászlóalj parancsnokának javaslatára a Honvéd Vezérkar főnöke a szolgálat érdekére, illetve a honvéd tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel engedélyezi a szerződéses legénységi állományba vételt, vagy azt, hogy a honvéd tisztjelölt tanulmányait tiszthelyettes-jelöltként folytathassa. A Honvéd Vezérkar főnöke egyetértésének hiánya – amennyiben a honvéd tisztjelölt a kérelmét fenntartja – a tisztjelölti szolgálati viszonyról való lemondásnak minősül.
+34/F. §

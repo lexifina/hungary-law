@@ -1,1 +1,0 @@
-47. § A minősített adatot tartalmazó dokumentációk, könyvtári segédletek a minősített adat védelmére vonatkozó jogszabályok alapján az intézmény minősített adat védelmére vonatkozó szabályzatában meghatározottak szerint ismerhetőek meg.

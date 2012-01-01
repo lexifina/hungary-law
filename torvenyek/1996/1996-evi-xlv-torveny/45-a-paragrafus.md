@@ -1,1 +1,1 @@
-45/A. § A katasztrófa megelőzése és következményeinek elhárítása érdekében történő feladatok ellátásáért az ösztöndíjas hallgatót naponta az illetményalap 5,8%-a szerinti katasztrófavédelmi pótlék illeti meg, amelynek fedezetét a szerződést kötő fegyveres szerv éves költségvetésében kell biztosítani.
+45/A. §

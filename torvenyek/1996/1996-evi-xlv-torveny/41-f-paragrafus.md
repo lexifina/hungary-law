@@ -1,1 +1,1 @@
-41/F. § A tisztjelölti szolgálati viszony ideje alatt, illetőleg azzal összefüggő baleset vagy betegség következtében a jogviszony megszűnését követően egy éven belül elhunyt honvéd tisztjelölt eltemettetéséről – saját költségvetése terhére – a honvédelemért felelős miniszter által meghatározottak szerint, a Honvédség gondoskodik.
+41/F. §

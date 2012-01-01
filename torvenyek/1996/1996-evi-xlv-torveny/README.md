@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-45-00-00
 | 2010-09-01 | 2010. évi LXXXV. törvény | 1996-45-00-00.19 |
 | 2010-12-01 | 2010. évi XCV. törvény | 1996-45-00-00.20 |
 | 2011-01-01 | 2010. évi CLXXX. törvény | 1996-45-00-00.21 |
+| 2012-01-01 | 2011. évi CXXXII. törvény | 1996-45-00-00.22 |

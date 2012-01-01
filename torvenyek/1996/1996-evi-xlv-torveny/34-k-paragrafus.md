@@ -1,4 +1,4 @@
-34/K. § (1) A honvéd tisztjelölt a Zászlóaljnál rendfokozat nélkül tölt be szolgálati beosztást. A honvéd tisztjelölt a szolgálati feladatait a jogszabályoknak, a parancsoknak és intézkedéseknek megfelelően, az elvárható szakértelemmel és gondossággal, pártatlanul és igazságosan köteles végrehajtani. Az általa ellátott beosztás alapján a honvéd tisztjelölt fenyítési és elismerési jogkört nem gyakorolhat, illetményre és egyéb járandóságokra pedig e törvény szabályai alapján jogosult.
+34/K. § (1) A honvéd tisztjelölt a Zászlóaljnál rendfokozat nélkül tölt be szolgálati beosztást. A honvéd tisztjelölt a szolgálati feladatait a jogszabályoknak, a parancsoknak és intézkedéseknek megfelelően, az elvárható szakértelemmel és gondossággal, pártatlanul és igazságosan köteles végrehajtani. Az általa ellátott beosztás alapján a honvéd tisztjelölt fenyítési és elismerési jogkört nem gyakorolhat, illetményre és egyéb járandóságokra jogosult.
 
 (2) A honvéd tisztjelölt külön jogszabály szerint egyenruha és évfolyamjelzés viselésére köteles. Az intézményen kívüli rendezvényen a honvéd tisztjelölt egyenruhát a Zászlóalj parancsnokának engedélyével viselhet.
 

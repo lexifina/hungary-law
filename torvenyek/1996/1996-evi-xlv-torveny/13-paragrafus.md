@@ -1,1 +1,0 @@
-13. § A Rendőrtiszti Főiskola rendvédelmi szolgálati ismereteket oktató szervezeti egységeinek vezetőit az oktatott szakterület szerint illetékes országos parancsnok véleményét kikérve kell kinevezni, illetve megbízásukat visszavonni.

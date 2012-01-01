@@ -1,1 +1,1 @@
-37/A. § Az államilag támogatott nappali képzésben részt vevő polgári hallgató az állami felsőoktatási intézményekre vonatkozó szabályok szerint jogosult a katonai felsőoktatási intézménytől ösztöndíjra és egyéb támogatásokra.
+37/A. §
