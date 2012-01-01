@@ -1,1 +1,0 @@
-60/D. § A kisebbségi önkormányzat által nyitandó pénzforgalmi számlához az illetékes választási bizottság igazolása, illetőleg a kisebbségi önkormányzat testülete (közgyűlése) alakuló ülésének jegyzőkönyve is szükséges.

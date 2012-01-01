@@ -1,7 +1,0 @@
-30/H. § (1) A települési kisebbségi önkormányzat testülete akkor határozatképes, ha az ülésen a települési kisebbségi önkormányzati képviselők több, mint a fele jelen van. A javaslat elfogadásához a jelen lévő települési kisebbségi önkormányzati képviselők több, mint a felének igen szavazata szükséges.
-
-(2) A települési kisebbségi önkormányzat testületének döntéshozatalából kizárható az, akit vagy akinek hozzátartozóját az ügy személyesen érinti. A képviselő köteles bejelenteni a személyes érintettséget. A kizárásról az érintett képviselő kezdeményezésére vagy bármely más települési kisebbségi önkormányzati képviselő javaslatára a testület dönt. A kizárt képviselő a határozatképesség szempontjából jelenlévőnek minősül.
-
-(3) A megválasztott képviselők több, mint felének szavazata (minősített többség) szükséges a 30/C. § (3) bekezdésében, a 30/J. §-ban, a 30/P. § (3) bekezdésében, a 60. § (1) bekezdésében, a 60/A. § (3) bekezdésében és a (4) bekezdésének b) pontjában meghatározott ügyeknek, továbbá a szervezeti és működési szabályzat szerint minősített többséget igénylő ügyeknek az eldöntéséhez.
-
-(4) A települési kisebbségi önkormányzat testületi ülésére a területileg illetékes hatáskörrel rendelkező főjegyzőt, jegyzőt vagy annak megbízottját (a továbbiakban együtt: jegyző) meg kell hívni. A jegyző köteles jelezni a települési kisebbségi önkormányzat testületének, illetőleg az elnöknek, ha döntéseiknél jogszabálysértést észlel.

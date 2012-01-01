@@ -1,3 +1,0 @@
-26. § (1) Ha a települési kisebbségi önkormányzat jogainak gyakorlásához a települési önkormányzatnak vagy szervének döntése szükséges, a települési kisebbségi önkormányzat erre irányuló kezdeményezését a döntésre jogosult köteles a következő ülésén napirendre tűzni, illetőleg a kezdeményezés benyújtásától számított 30 napon belül döntést hozni.
-
-(2) A helyi önkormányzat a települési kisebbségi önkormányzatnak a 25. § (1) bekezdése j) és k) pontja alapján hozott határozatát a kézhezvételtől számított 60 napon belül változatlan tartalommal köteles beépíteni a saját költségvetéséről, zárszámadásáról szóló rendeletébe.

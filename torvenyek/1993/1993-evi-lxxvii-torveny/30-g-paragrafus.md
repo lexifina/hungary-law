@@ -1,1 +1,0 @@
-30/G. § A testület a határozatait nyílt szavazással hozza. A 30/E. § (3) és (4) bekezdése szerinti ügyekben titkos szavazás is tartható. Az elnök név szerinti szavazást rendel el a jelen lévő képviselők több, mint a felének kezdeményezésére.

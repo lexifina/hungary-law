@@ -1,1 +1,0 @@
-10. § A kisebbséghez tartozóknak a közéletben való részvétele nem korlátozható. Érdekeik kifejezésére, védelmére — az alkotmányos szabályozás szerint — egyesületeket, pártokat, más társadalmi szervezeteket hozhatnak létre.

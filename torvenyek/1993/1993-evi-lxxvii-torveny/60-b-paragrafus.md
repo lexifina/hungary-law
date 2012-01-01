@@ -1,1 +1,0 @@
-60/B. § A kisebbségi önkormányzatok költségvetése az államháztartás részét képezi, ahhoz a teljes pénzforgalmával kapcsolódik. A kisebbségi önkormányzatok költségvetése a központi költségvetéstől elkülönül, ahhoz az állami támogatásokkal és más költségvetési kapcsolatokkal kötődik.

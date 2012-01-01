@@ -1,5 +1,0 @@
-28. § (1) A helyi sajtó, a helyi hagyományápolás és kultúra, valamint a kollektív nyelvhasználat kérdéskörében a kisebbségi lakosságot e minőségében érintő helyi önkormányzati rendeletet a képviselő-testület csak az e lakosságot képviselő települési kisebbségi önkormányzat egyetértésével alkothatja meg.
-
-(2) A kisebbségi intézmények vezetőinek kinevezésére (felmentésére, vezetői megbízás visszavonására) – ha nem a települési kisebbségi önkormányzat gyakorolja a kinevezési jogot –, illetőleg a kisebbséghez tartozók képzésére is kiterjedő helyi önkormányzati döntés meghozatalára csak az érintett települési kisebbségi önkormányzat egyetértésével kerülhet sor. Települési kisebbségi önkormányzat hiányában az adott kisebbség helyi egyesületeinek véleményét ki kell kérni.
-
-(3) Az egyetértési, illetőleg a véleményezési jog jogosultja az (1) és (2) bekezdésben meghatározott jogát az ez irányú kezdeményezés kézhezvételétől számított 30 napon belül gyakorolhatja. E határidő elmulasztása jogvesztő.

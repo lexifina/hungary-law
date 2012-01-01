@@ -1,3 +1,0 @@
-67. § Az e törvény 30/D. §-ának (3) bekezdésében meghatározottak szerinti eskü szövege:
-
-„Én .............................. (név) mint a nemzeti és etnikai kisebbségek jogairól szóló törvény szerinti ........................ (kisebbség megjelölése) kisebbségi közösség tagja, esküszöm, hogy képviselői tisztségem ellátása során kisebbségi közösségemhez hű leszek, az Alkotmányt és a jogszabályokat megtartom, a tudomásomra jutott titkot megőrzöm, munkám során választóim akaratához híven, lelkiismeretesen járok el, minden igyekezetemmel a ........................... kisebbség (kisebbség megjelölése) anyanyelvének, hagyományainak, kultúrájának a megőrzésén és fejlesztésén fogok fáradozni. (Az esküt tevő meggyőződése szerint:) Isten engem úgy segéljen!

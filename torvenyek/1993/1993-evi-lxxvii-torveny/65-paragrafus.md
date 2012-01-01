@@ -1,1 +1,0 @@
-65. § A bármely módon megszűnő kisebbségi önkormányzat jogutóda az újonnan választott, megalakult kisebbségi önkormányzat. A megszűnő kisebbségi önkormányzat a megszűnés napjával könyveit lezárja, és a rá vonatkozó rész tekintetében a költségvetés alapján gazdálkodó szervek éves beszámolójával azonos tartalmú költségvetési beszámolót készít.
