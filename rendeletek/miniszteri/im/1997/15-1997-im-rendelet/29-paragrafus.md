@@ -1,1 +1,0 @@
-## A terhes nő illetménye
