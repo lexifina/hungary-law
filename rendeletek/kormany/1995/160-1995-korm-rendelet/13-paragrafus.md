@@ -32,13 +32,13 @@ i) a jogorvoslati lehetőséget.
 
 (3) A határidőre be nem fizetett érdekeltségi hozzájárulást az intézőbizottság elnökének megkeresésére az ingatlan fekvése szerint illetékes jegyző – az adózás rendjéről szóló jogszabályok szerint – hajtja be, a befolyt összeget pedig a behajtási költségek levonása után negyedévenként a társulat számlájára utalja át.
 
-(4)[^6] A (3) bekezdés szerinti megkeresésben közölni kell a behajtáshoz szükséges adatokat:
+(4)[^7] A (3) bekezdés szerinti megkeresésben közölni kell a behajtáshoz szükséges adatokat:
 
 a) a tag nevét;
 
 b) lakóhelyét, székhelyét;
 
-c)[^7] a tagsági jogviszonnyal összefüggő ingatlanra vonatkozóan a település nevét, az ingatlan fekvését (belterület, külterület megjelölése), a belterületen lévő ingatlannál a közterület nevét és a házszámot, a helyrajzi számát és a területnagyságát;
+c)[^8] a tagsági jogviszonnyal összefüggő ingatlanra vonatkozóan a település nevét, az ingatlan fekvését (belterület, külterület megjelölése), a belterületen lévő ingatlannál a közterület nevét és a házszámot, a helyrajzi számát és a területnagyságát;
 
 d) az érdekeltségi hozzájárulás összegét, a követelést megalapozó taggyűlési határozat számát és az abban foglalt határidőt.
 
@@ -46,5 +46,5 @@ d) az érdekeltségi hozzájárulás összegét, a követelést megalapozó tagg
 
 (6) Vízitársulat esetében az alapszabály – különös tekintettel a település belterületére – meghatározhatja azt az érdekeltségi egységben mért értéket, amelynél kisebb érdekeltségi egység után nem kell érdekeltségi hozzájárulást fizetni.
 
-[^6]: A 13. § (4) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 72–73. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: A 13. § (4) bekezdésének c) pontja a 182/2009. (IX. 10.) Korm. rendelet 71. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 13. § (4) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 72–73. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 13. § (4) bekezdésének c) pontja a 182/2009. (IX. 10.) Korm. rendelet 71. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
