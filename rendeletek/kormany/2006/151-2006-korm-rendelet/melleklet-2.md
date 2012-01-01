@@ -76,7 +76,7 @@
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-| Lakosság életének védelme | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Lakosság életének védelme | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Nukleáris biztonság | Országos Atomenergia Hivatal Nukleáris Biztonsági Igazgatósága | Országos Atomenergia Hivatal Nukleáris Biztonsági Igazgatósága főigazgatója |
 
@@ -116,7 +116,7 @@
 
 | - rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | Honvédelemért felelős miniszter |
 
@@ -160,7 +160,7 @@
 
 | - rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | Honvédelemért felelős miniszter |
 
@@ -202,7 +202,7 @@
 
 | - rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | Honvédelemért felelős miniszter |
 
@@ -222,4 +222,4 @@
 
 | Műszaki biztonság | főváros, megyei kormányhivatal mérésügyi és biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 151. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 151. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 5. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
