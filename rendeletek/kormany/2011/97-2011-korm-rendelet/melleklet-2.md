@@ -38,15 +38,15 @@
 
 | 17. | Vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
 
-| 18. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 18. | Tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 19. | A jogszabályban, nemzeti szabványban teljeskörűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 19. | A jogszabályban, nemzeti szabványban teljeskörűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 20. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 21. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^4]
+2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^5]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -104,4 +104,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 17. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi és Vízügyi felügyelőség | Országos Környezetvédelmi és Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^4]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^5]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a szerint módosított szöveg.
