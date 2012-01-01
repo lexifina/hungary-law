@@ -1,0 +1,1 @@
+## 41. § A Bhkr. 12. § (5) bekezdés a) pontjában, 12. § (6) bekezdés a) pontjában, 15. § (4) bekezdés a) pontjában, 43. § (1) bekezdés d) és e) pontjában és 171. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,0 +1,3 @@
+## 36. § A Bhkr. 214. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A szponzor befektetési vállalkozás, az olyan eszközátruházó befektetési vállalkozás, amely az értékpapírosított kitettség kockázattal súlyozott kitettség értékét a 212. § szerint számítja ki vagy a kereskedési könyvben nyilvántartott kitettséget ruházott át különleges célú gazdasági egységre, amelynek következtében az érintett kitettséget nem kell figyelembe vennie a kockázattal súlyozott kitettség érték és várható veszteség érték számítása során, a szerződésben rögzített kötelezettségeit meghaladóan nem adhat támogatást az értékpapírosításhoz az értékpapírosítási pozícióval rendelkező (befektető) potenciális vagy tényleges veszteségeinek csökkentése érdekében.”

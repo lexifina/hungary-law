@@ -1,0 +1,1 @@
+## 12. § A Hkr. 12. § (5) bekezdés a) pontjában és (6) bekezdés a) pontjában, 15. § (4) bekezdés a) pontjában és 150. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
