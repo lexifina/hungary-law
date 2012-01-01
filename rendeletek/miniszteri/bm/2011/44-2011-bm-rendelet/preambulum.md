@@ -1,0 +1,5 @@
+A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (2) bekezdés 3. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § q) pontjában meghatározott feladatkörömben eljárva
+
+a 2. § (3) bekezdése és a 11. § tekintetében a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (6) bekezdés a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § q) pontjában meghatározott feladatkörömben eljárva – a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény egyes rendelkezéseinek végrehajtásáról szóló 71/2006. (IV. 3.) Korm. rendelet 32/A. § (1) bekezdésében meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben –
+
+a következőket rendelem el:
