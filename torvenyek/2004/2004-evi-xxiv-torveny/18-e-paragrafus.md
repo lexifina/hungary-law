@@ -8,7 +8,7 @@ a) engedély hiányában folytatja,
 
 b) engedéllyel nem rendelkező vállalkozással vagy a biztonsági követelményeknek nem megfelelő pirotechnikussal, vagy pirotechnikusi végzettséggel nem rendelkező személlyel végezteti.
 
-(4) A felügyeleti bírság összege a rendőrséget illeti meg.
+(4)
 
 (5) Ha a vállalkozással szemben mind a felügyeleti bírság, mind a szabálysértésekről szóló törvény szerint minősülő polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértés miatti bírság kiszabásának feltételei fennállnak, kizárólag a felügyeleti bírság megállapítására irányuló eljárásnak van helye.
 

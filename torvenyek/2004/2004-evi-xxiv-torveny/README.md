@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-24-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2004-24-00-00.8 |
 | 2011-01-01 | 2010. évi CLII. törvény | 2004-24-00-00.9 |
 | 2011-04-21 | 2011. évi XXIV. törvény | 2004-24-00-00.10 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2004-24-00-00.11 |
