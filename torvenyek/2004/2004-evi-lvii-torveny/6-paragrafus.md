@@ -6,7 +6,7 @@
 
 (4) Ha az európai parlamenti képviselő a megválasztása előtt ügyész, igazságügyi alkalmazott, közigazgatási szerv köztisztviselője, fegyveres szervek hivatásos állományú tagja volt, az európai parlamenti képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
-(5) Ha az európai parlamenti képviselő a megválasztása előtt bíró volt és képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy ismét bíróvá történő kinevezését kéri, valamint a bírói kinevezéséhez szükséges feltételeknek eleget tesz – ide nem értve a pályaalkalmassági vizsgálaton való részvételt – akkor őt kérelmére, pályázat kiírása nélkül, a köztársasági elnök – az Országos Igazságszolgáltatási Tanács javaslatára – határozatlan időre bíróvá kinevezi. A bírói munkakörbe történő beosztásánál az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra vonatkozó rendelkezésnek megfelelően kell eljárni.
+(5)
 
 (6) A 2004–2009. közötti európai parlamenti ciklusban az Európai Parlamenthez tartozó és a 2009-től kezdődő ciklusban újból megválasztott képviselő a tiszteletdíj, az átmeneti ellátás és a nyugdíjak tekintetében – az Európai Parlament 2005/684/EK, Euratom határozatban foglaltak szerint – dönthet úgy, hogy tevékenysége teljes időtartamára e törvény 7. §-a, 13. §-a, 14. §-a szerinti ellátásokra válik jogosulttá.
 

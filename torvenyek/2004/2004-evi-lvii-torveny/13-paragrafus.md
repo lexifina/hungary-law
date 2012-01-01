@@ -4,7 +4,7 @@
 
 ## Az európai parlamenti képviselők tiszteletdíja
 
-13. § (1) Az európai parlamenti képviselő megválasztásának időpontjától megbízatásának megszűnéséig havonta tiszteletdíjra jogosult, amelyet számára az Országgyűlés Hivatala folyósít. A tiszteletdíj alapdíjból és pótdíjból áll. A képviselőt megillető tiszteletdíj kifizetése az általa meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
+13. § (1) A 6. § (6) bekezdése szerinti nyilatkozatot tett európai parlamenti képviselő megválasztásának időpontjától megbízatásának megszűnéséig havonta tiszteletdíjra jogosult, amelyet számára az Országgyűlés Hivatala folyósít. A tiszteletdíj alapdíjból és pótdíjból áll. A képviselőt megillető tiszteletdíj kifizetése az általa meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
 
 (2) Az alapdíj a mindenkori főtisztviselői alapilletmény 2,5-szerese.
 

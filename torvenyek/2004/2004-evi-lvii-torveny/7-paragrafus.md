@@ -2,9 +2,9 @@
 
 (2) Amennyiben az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, megbízásának időtartama – ideértve a 14. §-ban meghatározott hat hónapra folyósított ellátás időtartamát is – munkaviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a közszolgálati, hivatásos szolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani.
 
-(3) Öregségi nyugdíjra jogosult az az európai parlamenti képviselő – az egyéb feltételek fennállása esetén –, akinek e megbízatása az Európai Parlament működésének befejezésével szűnik meg, és a volt európai parlamenti képviselő az ezt követő ötödik naptári év végéig az öregségi nyugdíjra jogosító korhatárt betölti. E nyugdíjazással kapcsolatban az Országgyűlés hivatali szervezetét költségvetési befizetés nem terheli.
+(3)
 
-(4) Ha az európai parlamenti képviselő az Európai Parlament működésének befejezése után újra jelölteti magát, öregségi nyugdíj a (3) bekezdés szerint – legkorábban a mandátumok igazolását követő naptól – akkor illeti meg, ha európai parlamenti képviselőnek nem választják meg újra.
+(4)
 
 (5) Az Európai Parlament állandó bizottságának elnöki, alelnöki, az európai parlamenti képviselőcsoport háromnál több tagból álló nemzeti csoportjának (képviselőcsoport) vezetői, vezető-helyettesi tisztségek betöltése vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 

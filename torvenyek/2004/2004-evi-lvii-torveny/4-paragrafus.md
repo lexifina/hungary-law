@@ -4,7 +4,7 @@
 
 a) halálával,
 
-b) választójoga elvesztésével,
+b) ha az európai parlamenti választáson már nem választható,
 
 c) lemondással,
 
