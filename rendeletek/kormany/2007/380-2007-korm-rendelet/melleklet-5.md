@@ -1,74 +1,48 @@
 ## Minősítésen alapuló módszer kockázati súlyai
 
-## 1. táblázat
+| Hitelminősítési besorolás | Értékpapírosítási pozíciók | Újraértékpapírosítási pozíciók |
 
-## Rövid lejáratú hitelminősítéssel nem rendelkező pozíciók
+| Rövid lejáratú hitelminősítésektől eltérő hitelminősítések | Rövid lejáratú hitelminősítések | A | B | C | D | E |
 
-| Hitelminősítési besorolás | Kockázati súly |
+| 1 | 1 | 7% | 12% | 20% | 20% | 30% |
 
-| A | B | C |
+| 2 |  | 8% | 15% | 25% | 25% | 40% |
 
-| 1 | 7% | 12% | 20% |
+| 3 |  | 10% | 18% | 35% | 35% | 50% |
 
-| 2 | 8% | 15% | 25% |
+| 4 | 2 | 12% | 20% |  | 40% | 65% |
 
-| 3 | 10% | 18% | 35% |
+| 5 |  | 20% | 35% |  | 60% | 100% |
 
-| 4 | 12% | 20% | 35% |
+| 6 |  | 35% | 50% | 100% | 150% |
 
-| 5 | 20% | 35% | 35% |
+| 7 | 3 | 60% | 75% | 150% | 225% |
 
-| 6 | 35% | 50% | 50% |
+| 8 |  | 100% | 200% | 350% |
 
-| 7 | 60% | 75% | 75% |
+| 9 |  | 250% | 300% | 500% |
 
-| 8 | 100% | 100% | 100% |
+| 10 |  | 425% | 500% | 650% |
 
-| 9 | 250% | 250% | 250% |
+| 11 |  | 650% | 750% | 850% |
 
-| 10 | 425% | 425% | 425% |
+| Minden egyéb és minősítéssel nem rendelkező | 1250% |
 
-| 11 | 650% | 650% | 650% |
+## 1. A táblázat „C” oszlopában található kockázati súlyt kell alkalmazni, ha az értékpapírosítási pozíció nem újraértékpapírosítási pozíció és ahol az értékpapírosított kitettségek tényleges száma hatnál kevesebb. A fennmaradó olyan értékpapírosítási pozíciókra, amelyek nem újraértékpapírosítási pozíciók, a táblázat „B” oszlopában található kockázati súlyt kell alkalmazni, kivéve, ha a pozíció az értékpapírosítás legalacsonyabb veszteségviselő képességgel rendelkező ügyletrész-sorozatába tartozik, amelynél a táblázat „A” oszlopában található kockázati súlyt kell alkalmazni.
 
-| 12 vagy magasabb | 1250% | 1250% | 1250% |
+## 2. A táblázat „E” oszlopában található kockázati súlyt kell alkalmazni az újraértékpapírosítási pozícióra, kivéve, ha a pozíció az értékpapírosítás legalacsonyabb veszteségviselő képességgel rendelkező ügyletrész-sorozatába tartozik és ha az alapul szolgáló kitettségek egyike sem újraértékpapírosított kitettség, amelynél a táblázat „D” oszlopában található kockázati súly alkalmazandó.
 
-## 2. táblázat
+## 3. Annak meghatározásához, hogy az adott ügyletrész-sorozat a legalacsonyabb veszteségviselő képességgel rendelkezik-e, nem kell figyelembe venni a származékos kamat- vagy devizaügyletekből, esedékes díjakból vagy egyéb kapcsolódó hasonló jellegű kifizetésekből eredő összegeket.
 
-## Rövid lejáratú hitelminősítéssel rendelkező pozíciók
-
-| Hitelminősítési besorolás | Kockázati súly |
-
-| A | B | C |
-
-| 1 | 7% | 12% | 20% |
-
-| 2 | 12% | 20% | 35% |
-
-| 3 | 60% | 75% | 75% |
-
-| 4 vagy magasabb | 1 250% | 1 250% | 1 250% |
-
-## 1. A táblázatok „A” oszlopában található kockázati súlyt kell alkalmazni, ha a pozíció az értékpapírosítás legalacsonyabb veszteségviselő képességgel rendelkező ügyletrész-sorozatába tartozik. Annak meghatározásához, hogy az adott ügyletrész-sorozat a legalacsonyabb veszteségviselő képességgel rendelkezik-e, nem kell figyelembe venni a kamatokból, deviza származékos ügyletekből vagy egyéb kapcsolódó kifizetésekből eredő összegeket.
-
-## 2.
-
-## 3. A táblázatok „C” oszlopában található kockázati súlyt kell alkalmazni, ha a pozíció olyan értékpapírosítási ügylethez kapcsolódik, ahol az értékpapírosított kitettségek tényleges száma hatnál kevesebb.
-
-## Az értékpapírosított kitettségek tényleges számának kiszámításához az egy ügyféllel szembeni több ügylet kapcsán fennálló kitettségeket egy kitettségnek kell tekinteni.
+## 4. Az értékpapírosított kitettségek tényleges számának kiszámításához az egy ügyféllel szembeni több ügylet kapcsán fennálló kitettségeket egy kitettségnek kell tekinteni.
 
 ## A kitettségek tényleges számát az alábbiak szerint kell kiszámítani:
 
-## Ahol:
+## ahol EADi az i-edik ügyféllel szembeni összes kitettség értékének összege.
 
-## EADi az összes, az in ügyféllel szembeni kitettségek értékének az összege.
+## Ha rendelkezésre áll a legnagyobb kitettséghez tartozó portfólió részesedés, a hitelintézet az N értékét az 1/C1 hányados alkalmazásával is kiszámíthatja, ahol C1 a legnagyobb kitettséghez tartozó portfólió részesedés.”
 
-## Értékpapírosított kitettségek értékpapírosítása (újraértékpapírosítás) esetén a hitelintézetnek a halmazban (poolban) található értékpapírosított kitettségek számát kell figyelembe vennie, nem pedig az eredeti halmazok (poolok) alapjául szolgáló kitettségek számát, amelyekből az alapul szolgáló értékpapírosított kitettségek erednek.
-
-## Ha rendelkezésre áll a legnagyobb kitettséghez tartozó portfólió részesedés, a hitelintézet az N értékét az 1/C1 hányados alkalmazásával is kiszámíthatja, ahol C1 a legnagyobb kitettséghez tartozó portfólió részesedés.
-
-## 4. Minden más pozícióra a táblázatok „B” oszlopában található kockázati súlyt kell alkalmazni.
-
-5. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez
+5. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez[^36]
 
 Felügyeleti képlet módszerének kockázati súlyai
 
@@ -110,15 +84,15 @@ az L (a hitelminőség-javítás szintje) értéket a pozícióhoz tartozó ügy
 
 az N a kitettségeknek a 4. számú melléklet 3. pontja szerint kiszámított tényleges száma.
 
-2. A kitettséggel súlyozott átlagos nemteljesítéskori veszteségrátát (ELGD) az alábbiak szerint kell kiszámítani:
+2. A kitettséggel súlyozott átlagos nemteljesítéskori veszteségrátát (ELGD) az alábbiak szerint kell kiszámítani:
 
-ahol:
+ahol az LGDi az in ügyféllel szembeni kitettség átlagos nemteljesítéskori veszteségráta (LGD) értéke, ha az LGD értékét a Hpt. 76/B – 76/D. §-a szerint állapítják meg.
 
-az LGDi az in ügyféllel szembeni összes kitettség átlagos nemteljesítéskori veszteségráta (LGD) értéke, ha az LGD értékét a Hpt. 76/B–76/D. §-a szerint állapítják meg.
+Újraértékpapírosítás esetén az értékpapírosított pozíciókra 100%-os nemteljesítéskori veszteségráta (LGD) értéket kell alkalmazni.
 
-Értékpapírosított kitettségek értékpapírosítása (újraértékpapírosítás) esetén az értékpapírosított pozíciókra 100%-os nemteljesítéskori veszteségráta (LGD) értéket kell alkalmazni.
+Ha a vásárolt követeléseknél a nemteljesítést és a felhígulási kockázatot egy értékpapírosításon belül összevonva kezelik, akkor az LGDi érték a hitelezési kockázat LGD értékének és a felhigulási kockázat LGD értéke 75%-ának súlyozott átlaga azzal, hogy ezen súlyok képezik a hitelezési kockázat és a felhígulási kockázat tőkekövetelményét.
 
-Ha a vásárolt követeléseknél a nemteljesítést és a felhígulási kockázatot egy értékpapírosításon belül összevonva kezelik, akkor az LGDi érték a hitelezési kockázat LGD értékének és a felhígulási kockázat LGD értéke 75%-ának súlyozott átlaga azzal, hogy ezen súlyok képezik a hitelezési kockázat és a felhígulási kockázat tőkekövetelményét.
+Újraértékpapírosítás esetén a hitelintézetnek az alapul szolgáló értékpapírosított kitettségek számát kell figyelembe vennie.
 
 3. Egyszerűsített bemeneti adatok
 
@@ -135,3 +109,5 @@ A Cm a legnagyobb „m” kitettségekhez tartozó kitettség értékek összeg�
 4. Lakossági kitettségeket érintő értékpapírosítási ügylet esetében a Felügyelet engedélyezheti a felügyeleti képlet módszerének a következő egyszerűsítésekkel történő alkalmazását:
 
 h = 0 és v = 0.
+
+[^36]: Az 5. számú melléklet a 348/2011. (XII. 30.) Korm. rendelet 21. § (3) bekezdése szerint módosított szöveg.

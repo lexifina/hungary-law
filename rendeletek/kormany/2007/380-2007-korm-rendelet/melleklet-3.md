@@ -1,19 +1,9 @@
-## Minősített értékpapírosítási pozícióhoz tartozó kockázati súly
+## Minősített pozícióhoz tartozó kockázati súly
 
-## 1. táblázat
+| Hitelminősítési besorolás | 1 | 2 |  | 3 | 4 (csak rövid lejáratú hitel- minősíté- sektől eltérő hitel- minősíté- sekre) | Minden egyéb hitel- minősítési besorolás |
 
-## Rövid lejáratú hitelminősítéssel nem rendelkező pozíciók
+| Értékpapírosítási pozíciók | 20% |  | 50% | 100% | 350% | 1250% |
 
-| Hitelminősítési besorolás | 1 | 2 | 3 | 4 | 5 vagy magasabb |
-
-| Kockázati súly | 20% | 50% | 100% | 350% | 1250% |
-
-## 2. táblázat
-
-## Rövid lejáratú hitelminősítéssel rendelkező pozíciók
-
-| Hitelminősítési besorolás | 1 | 2 | 3 | 4 | 4 vagy magasabb |
-
-| Kockázati súly | 20% | 50% | 100% | 1250% |  |
+| Újraértékpapírosítási pozíciók | 40% |  | 100% | 225% | 650% | 1250% |
 
 3. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez

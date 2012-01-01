@@ -28,6 +28,6 @@
 
 ## „E szint” olyan értékpapírosítási felár szinteket jelöl, amelyek kisebbek az értékpapírosítási felár határszintjének 25%-ánál.
 
-4. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez[^26]
+4. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez[^35]
 
-[^26]: A 4. számú melléklet a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja szerint módosított szöveg.
+[^35]: A 4. számú melléklet a 348/2011. (XII. 30.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.

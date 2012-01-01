@@ -4,7 +4,7 @@
 
 ## Hagyományos értékpapírosítás
 
-6. §[^9] (1) Hagyományos értékpapírosítást kezdeményező hitelintézetnek az értékpapírosított kitettségeire nem kell meghatároznia a kockázattal súlyozott kitettség értékét és a várható veszteség értékét, ha
+6. §[^13] (1) Hagyományos értékpapírosítást kezdeményező hitelintézetnek az értékpapírosított kitettségeire nem kell meghatároznia a kockázattal súlyozott kitettség értékét és a várható veszteség értékét, ha
 
 a) az értékpapírosított kitettségekhez tartozó jelentős hitelezési kockázatot harmadik félre ruházta át, vagy
 
@@ -52,4 +52,4 @@ a) az átruházott kitettségeket nyereség realizálása érdekében a különl
 
 b) köteles visszavenni az átruházott kockázatot.
 
-[^9]: A 6. § a 349/2010. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^13]: A 6. § a 349/2010. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.

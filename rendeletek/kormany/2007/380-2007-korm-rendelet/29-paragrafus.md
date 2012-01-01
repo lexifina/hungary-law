@@ -8,6 +8,6 @@ b) azon kockázattal súlyozott kitettség érték, amelyet az értékpapírosí
 
 ## közül a magasabbik értéknél.
 
-(2)[^19] Az értékpapírosítást kezdeményező hitelintézetnek az értékpapírosított eszközökből származó, olyan jövőbeni, nem realizált nyereséget, amelyet a Hpt. 5. számú melléklet 4. pontja alapján a szavatoló tőkéje számításakor nem vehet figyelembe, az (1) bekezdésben meghatározott számítások során sem kell figyelembe vennie.
+(2)[^25] Az értékpapírosítást kezdeményező hitelintézetnek az értékpapírosított eszközökből származó, olyan jövőbeni, nem realizált nyereséget, amelyet a Hpt. 5. számú melléklet 4. pontja alapján a szavatoló tőkéje számításakor nem vehet figyelembe, az (1) bekezdésben meghatározott számítások során sem kell figyelembe vennie.
 
-[^19]: A 29. § (2) bekezdése a 96/2008. (IV. 28.) Korm. rendelet 3. §-ával megállapított, a 349/2010. (XII. 28.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
+[^25]: A 29. § (2) bekezdése a 96/2008. (IV. 28.) Korm. rendelet 3. §-ával megállapított, a 349/2010. (XII. 28.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.

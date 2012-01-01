@@ -30,9 +30,9 @@ b) a különleges célú gazdasági egység által kibocsátott értékpapírok 
 
 13. maradék pozícióra vonatkozó visszavásárlási jog: az értékpapírosítást kezdeményező olyan szerződéses vételi opciója, amely lehetővé teszi az értékpapírosítás során kibocsátott értékpapírok visszavásárlását vagy az értékpapírosítási pozíció megszüntetését az alapul szolgáló kitettségek egészének visszafizetése előtt, ha a fennálló kitettségek egy meghatározott érték alá csökkennek;
 
-14. minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével rendelkező értékpapírosítási pozíció;
+14.[^6] minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével rendelkező értékpapírosítási vagy újraértékpapírosítási pozíció;
 
-15. nem minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező értékpapírosítási pozíció;
+15.[^7] nem minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező értékpapírosítási vagy újraértékpapírosítási pozíció.
 
 16. rulírozó megállapodásból származó kitettség: olyan kitettség, amelynél az ügyfelek tartozásának egyenlegei az ügyfelek kölcsönfelvételi és visszafizetési döntéseinek megfelelően a megállapított értékhatáron belül ingadozhatnak;
 
@@ -40,7 +40,9 @@ b) a különleges célú gazdasági egység által kibocsátott értékpapírok 
 
 18. szponzor: értékpapírosítást kezdeményezőnek nem minősülő hitelintézet, amely ABCP programot vagy más értékpapírosítási konstrukciót hoz létre és működtet, amely harmadik fél kitettségeit vásárolja meg;
 
-19.[^6]
+19.[^8] újraértékpapírosítás: olyan értékpapírosítás, ahol az alapul szolgáló kitettségek halmazához (pooljához) tartozó hitelezési kockázat ügyletrész-sorozatba kerül besorolásra, és az alapul szolgáló kitettségek legalább egyike értékpapírosítási pozíció;
+
+20.[^9] újraértékpapírosítási pozíció: az újraértékpapírosítási ügyletben vállalt hitelezési kockázati kitettség.
 
 (2) Az (1) bekezdésben meghatározottakon kívül, az e rendeletben használt fogalmak meghatározását a Hpt. 2. számú melléklete, valamint a Hkr. tartalmazza.
 
@@ -49,4 +51,7 @@ b) a különleges célú gazdasági egység által kibocsátott értékpapírok 
 [^3]: A 2. § (1) bekezdés 4. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
 [^4]: A 2. § (1) bekezdés 5. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
 [^5]: A 2. § (1) bekezdés 10. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
-[^6]: A 2. § (1) bekezdés 19. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés 14. pontja a 348/2011. (XII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 15. pontja a 348/2011. (XII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdés 19. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte, újonnan a 348/2011. (XII. 30.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés 20. pontját a 348/2011. (XII. 30.) Korm. rendelet 15. § (2) bekezdése iktatta be.

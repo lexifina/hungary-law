@@ -16,4 +16,6 @@
 
 ## t* = 0,25.
 
-2. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez
+2. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez[^34]
+
+[^34]: A 2. számú melléklet a 348/2011. (XII. 30.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
