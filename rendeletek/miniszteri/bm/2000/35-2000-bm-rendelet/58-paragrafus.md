@@ -1,7 +1,0 @@
-58. §[^209] (1) A Z betűjelű ideiglenes rendszámtábla kiadására csak a jármű tulajdonjogának igazolását követően kerülhet sor. A tulajdonjogot közokirattal, eredeti okirattal vagy hitelesített másolati példányával, illetve ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordításával kell igazolni. A kérelmező által előterjesztett adatok valódiságát a rendelkezésre álló nyilvántartásokban ellenőrizni kell.
-
-(2) A Magyarországon forgalomba helyezett járműre a Z betűjelű rendszámtábla csak akkor adható ki, ha a járművet kivitel miatt átmeneti időszakra kivonták a forgalomból és a kivonás ténye a járműnyilvántartásba bejegyzésre került.
-
-(3) A Magyarországon már forgalomba helyezett, külföldön tartózkodó, érvényes hatósági jelzéssel nem rendelkező jármű hazaszállításához történő kiadás során a Z betűjelű ideiglenes rendszámhoz tartozó ideiglenes forgalmi engedély kiadására az előző forgalmi engedély érvénytelenítésével és annak ügyfél részére történő visszaadásával egyidejűleg kerül sor. Az érvénytelenítés tényét csak a járműnyilvántartásba kell bejegyezni, ha a rendszámtábla vagy előző forgalmi engedély elvesztés, eltulajdonítás, megsemmisülés miatt nem áll az ügyfél rendelkezésére.
-
-[^209]: Az 58. § a 6/2009. (III. 31.) IRM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
