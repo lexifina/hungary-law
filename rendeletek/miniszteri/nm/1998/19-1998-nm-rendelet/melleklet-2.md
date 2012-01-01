@@ -46,7 +46,7 @@
 
 ## A szolgáltatónak a működési engedélye módosítását kell kérnie az Országos Tisztifőorvosi Hivataltól, ha az általa üzemeltetett és működési engedéllyel rendelkező közúti betegszállító gépjárművet más közúti betegszállító gépjárművel váltja ki.
 
-## 1.[^44] Ülőbeteg-szállító kocsi: gépkocsivezetővel és szükség esetén betegkísérővel kivonuló, finanszírozási szerződéssel rendelkező betegszállító szolgáltatók esetén EDR rádióval és globális helymeghatározó rendszerrel, amely alkalmas a gépjárművek napi futásteljesítményének jelentésére, a finanszírozási szerződéssel nem rendelkező betegszállító szolgáltatók esetén pedig URH rádióval vagy rádiótelefonnal, továbbá megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal ellátott gépkocsi, mely teljesíti az alábbi műszaki paramétereket:
+## 1.[^44] Ülőbeteg-szállító kocsi: gépkocsivezetővel és szükség esetén betegkísérővel kivonuló, finanszírozási szerződéssel rendelkező betegszállító szolgáltatók esetén EDR rádióval, a finanszírozási szerződéssel nem rendelkező betegszállító szolgáltatók esetén pedig URH rádióval vagy rádiótelefonnal, továbbá megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal ellátott gépkocsi, mely teljesíti az alábbi műszaki paramétereket:
 
 ## a) az oldalajtók száma minimum 3,
 
@@ -56,7 +56,7 @@
 
 ## Az ülőbeteg-szállító kapacitással rendelkező szállítóknál minden harmadik ülőbeteg-szállító gépjármű lehet csak hét férőhelynél kisebb kapacitású.
 
-## 2.[^45] Fekvőbeteg-szállító kocsi: gépkocsivezetővel és betegkísérővel kivonuló, hordágytartóval, hordággyal és finanszírozási szerződéssel rendelkező betegszállító szolgáltatók esetén EDR rádióval és globális helymeghatározó rendszerrel, amely alkalmas a gépjárművek napi futásteljesítményének jelentésére, a finanszírozási szerződéssel nem rendelkező betegszállító szolgáltatók esetén pedig URH rádióval vagy rádiótelefonnal, továbbá megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal ellátott gépkocsi, mely teljesíti az alábbi műszaki paramétereket:
+## 2.[^45] Fekvőbeteg-szállító kocsi: gépkocsivezetővel és betegkísérővel kivonuló, hordágytartóval, hordággyal és finanszírozási szerződéssel rendelkező betegszállító szolgáltatók esetén EDR rádióval, a finanszírozási szerződéssel nem rendelkező betegszállító szolgáltatók esetén pedig URH rádióval vagy rádiótelefonnal, továbbá megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal ellátott gépkocsi, mely teljesíti az alábbi műszaki paramétereket:
 
 ## a) a hordágy méretei: minimális hosszúsága 1950 mm, minimális szélessége 450 mm.
 
@@ -91,7 +91,7 @@
 [^41]: Az 1. számú melléklet I. pont 2. c)–d) alpontját a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdése hatályon kívül helyezte.
 [^42]: Az 1. számú melléklet II/A. pontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^43]: Az 1. számú melléklet II/B. pont nyitó szövegrésze a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^44]: Az 1. számú melléklet II/B. pont 1. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg. Az 1. számú melléklet II. Tárgyi feltételek II/B. pont 1. alpontjában a 37/2011. (VI. 28.) NEFMI rendelet 17. § (3) bekezdése alapján hatályát veszti az „és globális helymeghatározó rendszerrel, amely alkalmas a gépjárművek napi futásteljesítményének jelentésére” szövegrész. [Ez utóbbi módosító rendelet 19. § (3) bekezdése alapján 2012. január 1-jén lép hatályba.]
-[^45]: Az 1. számú melléklet II/B. pont 2. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg. Az 1. számú melléklet II. Tárgyi feltételek II/B. pont 2. alpontjában a 37/2011. (VI. 28.) NEFMI rendelet 17. § (3) bekezdése alapján hatályát veszti az „és globális helymeghatározó rendszerrel, amely alkalmas a gépjárművek napi futásteljesítményének jelentésére” szövegrész. [Ez utóbbi módosító rendelet 19. § (3) bekezdése alapján 2012. január 1-jén lép hatályba.]
+[^44]: Az 1. számú melléklet II/B. pont 1. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze a 37/2011. (VI. 28.) NEFMI rendelet 17. § (3) bekezdése szerint módosított szöveg.
+[^45]: Az 1. számú melléklet II/B. pont 2. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze a 37/2011. (VI. 28.) NEFMI rendelet 17. § (3) bekezdése szerint módosított szöveg.
 [^46]: Az 1. számú melléklet II. pont II/B. 4. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^47]: A 2. számú melléklet a 60/2007. (XII. 29.) EüM rendelet 8. § (2) bekezdésével megállapított szöveg.
