@@ -28,7 +28,7 @@ d) álláskereső: az a személy, aki
 
 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és
 
-3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban nem részesül és
+3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban, rehabilitációs ellátásban nem részesül és
 
 4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és
 
@@ -52,9 +52,15 @@ f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbel
 
 g) kötelező legkisebb munkabér, minimálbér: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
 
-h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár, a társadalombiztosítási jogszabályok által egyes munkakörökben biztosított korkedvezmény figyelembevételével,
+h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár,
 
-i) öregség nyugdíjra jogosult személy: aki a reá irányadó öregségi nyugdíjkorhatárt – a társadalombiztosítási nyugellátásról szóló jogszabályok által egyes munkakörökben biztosított korkedvezmény figyelembevételével – elérte, és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik, továbbá az is, aki előrehozott öregségi nyugdíjban, korengedményes nyugdíjban, bányásznyugdíjban, egyes művészeti tevékenységet folytatók öregségi nyugdíjában, a Magyar Alkotóművészeti Közalapítványtól öregségi nyugdíjban, valamint szolgálati nyugdíjban részesül,
+i) öregségi nyugdíjra jogosult személy: aki
+
+ia) az öregségi nyugdíjkorhatárt elérte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik, vagy
+
+ib) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül, vagy
+
+ic) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban, öregségi járadékban vagy növelt összegű öregségi járadékban részesül,
 
 j) munkaközvetítő tevékenység: olyan szolgáltatások összessége, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
 
@@ -68,7 +74,7 @@ k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű
 
 l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 90 napot nem haladja meg,
 
-m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahely-megtartási esélyei testi vagy szellemi károsodása miatt csökkennek; a rehabilitációs hozzájárulás fizetési kötelezettség megállapítása szempontjából a 42. §-ban meghatározott személy,
+m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahely-megtartási esélyei testi vagy szellemi károsodása miatt csökkennek,
 
 n) alkalmi foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
 
@@ -106,9 +112,9 @@ b) az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántar
 
 c) az EGT tagállamaiban történő munkahelykereséssel kapcsolatos költségtérítés feltételeinek és odaítélésének,
 
-d)
+d) a rendbírság kiszabásának, megfizetésének és kezelésének,
 
-e)
+e) az e törvényben meghatározott nyilvántartások vezetésének
 
 f)
 
@@ -116,13 +122,11 @@ g) az adópolitikáért felelős miniszterrel egyetértésben a munkaerőpiaci s
 
 szabályait.
 
-(8a) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait.
-
-(9) A 39. § (3) bekezdés a) pontja szerinti kiegészítő segélyre az 1999. évben munkanélküli járadékban részesülők a járadék folyósításával megegyező időtartamra, de legfeljebb 1999. december 31-ig jogosultak. A kiegészítő segély egy napra járó összege 33 forint. A kiegészítő segélyt a munkanélküli járadékkal együtt – a segély megállapítására irányuló külön határozat nélkül – kell kifizetni. A kiegészítő segélyt a személyi jövedelemadóról szóló, 1998. évi LXV. törvénnyel módosított 1995. évi CXVII. törvény 1. számú mellékletének 1.3. pontjában meghatározott állami szociális rendszer keretében nyújtott szociális segélynek kell tekinteni.
+(8a)
 
 (9) Ahol e törvény
 
-a) gyermekgondozási díjat, gyermekgondozási segélyt, terhességi gyermekágyi segélyt, gyermeknevelési támogatást, ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, továbbá bányászok egészségkárosodási járadékát,
+a) gyermekgondozási díjat, gyermekgondozási segélyt, terhességi gyermekágyi segélyt, gyermeknevelési támogatást, ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, megváltozott munkaképességű személyek ellátásait, továbbá bányászok egészségkárosodási járadékát,
 
 b) munkaviszonyt
 
@@ -130,4 +134,4 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 (10) Felhatalmazást kap a Kormány, hogy az e törvény szerinti magán-munkaközvetítési tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a magán-munkaközvetítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
 
-(11) A rehabilitációs hozzájárulást – a 2011. január 1-jétől 2011. június 30-ig terjedő időszak tekintetében – a 42. §-ban foglaltaktól eltérően a törvény 2010. december 31-én hatályos 58. § (5) bekezdés m) pontjában foglaltak figyelembevételével kell megfizetni.
+(11)

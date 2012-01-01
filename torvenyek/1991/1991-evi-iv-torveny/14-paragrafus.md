@@ -8,7 +8,7 @@ b) aki 25. életévét – felsőfokú végzettségű személy esetén a 30. él
 
 c) aki gyermekgondozási segélyben, gyermeknevelési támogatásban, illetőleg terhességi gyermekágyi segélyben, gyermekgondozási díjban vagy ápolási díjban részesül,
 
-d) aki rehabilitációs járadékban részesül,
+d) aki rehabilitációs ellátásban részesül,
 
 e) akinek munkaviszonya várhatóan egy éven belül megszűnik, és ezt a munkaadó a munkavállalóval és az állami foglalkoztatási szervvel előzetesen írásban közölte, vagy
 
@@ -38,14 +38,14 @@ adható.
 
 (5) A keresetkiegészítés a képzést megelőzően elért átlagkereset és a képzés alatt elért kereset különbözetéig terjedhet.
 
-(6) A keresetpótló juttatás összege nem lehet alacsonyabb a megállapításakor hatályos kötelező legkisebb munkabér 60 százalékánál, és nem haladhatja meg a megállapításakor hatályos kötelező legkisebb munkabér összegét.
+(6) A keresetpótló juttatás összege nem lehet alacsonyabb a megállapításakor hatályos közfoglalkoztatási bér 60 százalékánál, és nem haladhatja meg a megállapításakor hatályos közfoglalkoztatási bér összegét.
 
 (7)
 
 (8)
 
-(9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben részt vevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget.
+(9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben résztvevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget. Ebben az esetben a keresetpótló juttatást – erről szóló külön határozat nélkül – a mulasztás napjára járó keresetpótló juttatás összegével csökkentett összegben kell folyósítani.
 
-(10) A (8) bekezdésben meghatározott ellátást, illetve támogatást – erről szóló külön határozat nélkül – a mulasztás, illetve a munkavégzés napjára járó keresetpótló juttatás összegével csökkentett összegben kell folyósítani.
+(10)
 
 (11) A képzéssel kapcsolatos költségek részben vagy teljes mértékben megtéríthetők.

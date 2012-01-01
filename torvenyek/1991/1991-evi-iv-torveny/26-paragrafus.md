@@ -10,7 +10,7 @@
 
 (5) Az álláskeresési járadék napi összege a (4) bekezdés alapján meghatározott járadékalap 60 százaléka, legfeljebb a jogosultság kezdő napján hatályos kötelező legkisebb munkabér napi összegének megfelelő összeg.
 
-(6) Az álláskeresési járadék napi összege a folyósítási időtartam második szakaszában az álláskeresési járadékra való jogosultság kezdő napján hatályos kötelező legkisebb munkabér napi összegének 60 százaléka. Ha a járadék számításánál figyelembe vett összeg nem éri el a minimálbért, akkor mindkét szakaszban az álláskeresési járadék napi összege az (1) és (3)–(4) bekezdés szerint számított összeg 60 százaléka.
+(6)
 
 (7) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személyek esetében az Európai Gazdasági Térség másik tagállamában szerzett bért, szakmai jövedelmet vagy átlagkeresetet az (1) bekezdésben meghatározott járulékalapként kell figyelembe venni.
 

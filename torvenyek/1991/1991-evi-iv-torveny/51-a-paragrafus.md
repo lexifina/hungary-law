@@ -4,7 +4,7 @@
 
 (3) A jegyző az (1) bekezdésben meghatározott ellátás folyósítása alatt történő kereső tevékenység folytatásáról és annak bizonyítékairól írásban tájékoztatja az állami foglalkoztatási szervet.
 
-(4) Amennyiben az (1) bekezdésben meghatározott ellenőrzés eredményeként a munkanélküli járadék, a pályakezdők munkanélküli segélyének folyósítását az állami foglalkoztatási szerv megszünteti, a települési önkormányzat ezen ellátások — a 28. § (2) bekezdésében meghatározott időtartamra járó — összegének megfelelő támogatásban részesül. A támogatást a Munkaerőpiaci Alap foglalkoztatási alaprészének központi pénzügyi keretéből kell folyósítani, és az a 16/A. §-ban, valamint 17. §-ban meghatározott célokra használható fel.
+(4) Amennyiben az (1) bekezdésben meghatározott ellenőrzés eredményeként a munkanélküli járadék, a pályakezdők munkanélküli segélyének folyósítását az állami foglalkoztatási szerv megszünteti, a települési önkormányzat ezen ellátások — a 28. § (2) bekezdésében meghatározott időtartamra járó — összegének megfelelő támogatásban részesül. A támogatást a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének központi pénzügyi keretéből kell folyósítani, és az a 16/A. §-ban, valamint 17. §-ban meghatározott célokra használható fel.
 
 (5) Az (1) bekezdésben meghatározott megállapodásban az önkormányzat vállalja, hogy az e címen kapott támogatást elkülönítetten kezeli, és félévenként tájékoztatja az állami foglalkoztatási szervet annak felhasználásáról.
 

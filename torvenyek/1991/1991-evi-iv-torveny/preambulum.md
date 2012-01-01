@@ -1,1 +1,1 @@
-A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a munka és a foglalkozás szabad megválasztásához. E jogok gyakorlásának elősegítése, a foglalkoztatási feszültségek feloldása, valamint az álláskeresők támogatásának biztosítása érdekében az Országgyűlés a következő törvényt alkotja.
+A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának elősegítése, a foglalkoztatási feszültségek feloldása, valamint az álláskeresők támogatásának biztosítása érdekében az Országgyűlés a következő törvényt alkotja.

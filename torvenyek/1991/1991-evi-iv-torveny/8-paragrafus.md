@@ -24,7 +24,7 @@ a) érdekképviseleti szervei útján részt vesz a foglalkoztatási érdekegyez
 
 b) segíti az állami foglalkoztatási szerv munkáját, ennek keretében munkaerőigényéről és annak megszűnéséről folyamatosan, de legkésőbb a betöltés esedékességekor — a miniszter által meghatározott módon — tájékoztatja az állami foglalkoztatási szervet,
 
-c) járulék fizetésével hozzájárul az álláskeresők támogatásához.
+c) szociális hozzájárulási adó fizetésével hozzájárul az álláskeresők ellátásához.
 
 (7) A munkavállaló:
 

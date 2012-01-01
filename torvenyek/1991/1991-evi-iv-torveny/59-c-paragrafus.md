@@ -1,3 +1,5 @@
-59/C. § (1) A 2011. augusztus 31-én folyósított, illetve szünetelő álláskeresési járadékot, álláskeresési segélyt a megállapítása idején hatályos szabályok szerint kell tovább folyósítani.
+59/C. § (1) A 2011. augusztus 31-én folyósított, illetve szünetelő álláskeresési járadékot és álláskeresési segélyt a megállapítása idején hatályos szabályok szerint kell tovább folyósítani. Az álláskeresési járadék – a folyósítási idő lejártát megelőzően létesített munkaviszony miatt – egy összegben történő kifizetésére az álláskeresési járadék megállapítása idején hatályos szabályokat kell alkalmazni.
 
 (2) A 25. § (1) bekezdés b) pont és a 26. § (5) bekezdés rendelkezéseit, a 27. § (1) bekezdésének bevezető szövegrészét, a 27. § (2) és (3) bekezdése és a 30. § rendelkezéseit a 2011. szeptember 1-jét követően benyújtott kérelmekre kell alkalmazni. A hatályba lépést megelőzően, álláskeresési járadék, valamint álláskeresési segély megállapítása iránt benyújtott kérelmeket a kérelem benyújtásának időpontjában hatályos szabályok szerint kell elbírálni.
+
+(3) A 2011. december hónapra vonatkozóan kifizetett ellátások után a Tbj. 2011. december 31-én hatályos 22. §-a alapján fizetendő társadalombiztosítási járulékot a szolidaritási alaprészből kell megfizetni.

@@ -6,6 +6,4 @@ b) az a felszámoló, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törv
 
 (2) A rendbírság összege 5000 forinttól 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a rendbírságot munkavállalónként kell kiszabni.
 
-(3) A befizetett rendbírság hatvan százaléka a Munkaerőpiaci Alap foglalkoztatási alaprészét növeli, negyven százaléka a rendbírság kiszabására jogosult szerv saját bevétele, amely személyi juttatásokra nem használható fel.
-
-(4) A rendbírság kiszabására, továbbá a törvény végrehajtásához szükséges nyilvántartások vezetésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+(3)–(4)

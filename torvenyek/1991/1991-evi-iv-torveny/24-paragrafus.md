@@ -1,5 +1,5 @@
 ## V. Fejezet
 
-## ÁLLÁSKERESŐK TÁMOGATÁSA
+## ÁLLÁSKERESŐK ELLÁTÁSA
 
-24. § Az álláskereső részére – az e törvényben meghatározott feltételek szerint – álláskeresési támogatásként álláskeresési járadék, nyugdíj előtti álláskeresési segély, valamint költségtérítés jár.
+24. § Az álláskereső részére – az e törvényben meghatározott feltételek szerint – álláskeresési ellátásként álláskeresési járadék, nyugdíj előtti álláskeresési segély, valamint költségtérítés jár.

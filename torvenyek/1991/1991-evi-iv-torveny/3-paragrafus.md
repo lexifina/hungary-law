@@ -6,4 +6,4 @@
 
 (4) Az állami foglalkoztatási szerv tevékenységét humánszolgáltatásként, a munkanélküliség lélektani és társadalmi összefüggéseinek figyelembevételével végzi.
 
-(5) Az állami foglalkoztatási szerv a tevékenysége során – az Európai Unió és a Magyar Köztársaság jogszabályaiban foglaltaknak megfelelően – együttműködik az EGT tagállamainak foglalkoztatási szolgálataival, valamint az Európai Koordinációs Hivatallal.
+(5) Az állami foglalkoztatási szerv a tevékenysége során együttműködik az EGT tagállamainak foglalkoztatási szolgálataival, valamint az Európai Koordinációs Hivatallal.

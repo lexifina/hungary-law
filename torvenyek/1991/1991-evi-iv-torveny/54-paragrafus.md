@@ -28,7 +28,7 @@ a)
 
 b) az állami foglalkoztatási szervnél az általa meghatározott időpontban, de legalább három havonta jelentkezik, és
 
-c) az 58. § (5) bekezdés d) pontjának 1–4. alpontjaiban bekövetkezett változást – annak bekövetkezésétől számított 8 napon belül – bejelenti az állami foglalkoztatási szervnek, és
+c) az 58. § (5) bekezdés d) pontjának 1–4. alpontjaiban bekövetkezett változást – annak bekövetkezésétől számított 15 napon belül – bejelenti az állami foglalkoztatási szervnek, és
 
 d) maga is aktívan keres munkahelyet, és
 
@@ -91,6 +91,10 @@ a) a munkaügyi központ által támogatott képzésben vesz részt,
 b) rövid, 90 napot meg nem haladó időtartamú kereső tevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat, továbbá
 
 c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész.
+
+d) terhességi-gyermekágyi segélyre, gyermekgondozási díjra vagy gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély esetén a jogosultság megállapításának napjától,
+
+e) önkéntes tartalékos katonai tényleges szolgálatot teljesít, a szolgálatteljesítés időtartama alatt.
 
 (15) Az állami foglalkoztatási szerv hatósági ellenőrzési tevékenységére a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy az állami foglalkoztatási szerv a személyazonosság megállapítására alkalmas okmány felmutatására szólíthatja fel azt az ügyfelet, akinek személyazonosságát meg kell állapítania.
 

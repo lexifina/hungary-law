@@ -1,6 +1,6 @@
 ## Foglalkoztatási és Közfoglalkoztatási Adatbázis
 
-57/B. § (1) Az állami foglalkoztatási szerv az Szt. szerint foglalkoztatást helyettesítő támogatásra jogosult személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerőpiaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglakoztatási szerv, valamint a jegyző ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
+57/B. § (1) Az állami foglalkoztatási szerv az Szt. szerint foglalkoztatást helyettesítő támogatásra jogosult személyekről, rehabilitációs ellátásban részesülő személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerőpiaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglalkoztatási szerv, a rehabilitációs hatóság, valamint a jegyző ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
 
 (2) Az állami foglalkoztatási szerv az adatbázissal kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
@@ -64,6 +64,8 @@ af) a munkaügyi központtal történő együttműködésére vonatkozó adatoka
 
 ag) a (4) bekezdés alapján megállapított prioritási szintjét,
 
+ah) a rehabilitációs ellátásban részesülő személy által betölthető munkakörök leírását (FEOR kód),
+
 b) a közfoglalkoztatási jogviszonyra vonatkozó adatok körében
 
 ba) a közfoglalkoztatás jellegét, azaz hogy
@@ -73,6 +75,8 @@ ba) a közfoglalkoztatás jellegét, azaz hogy
 2. képzésben vesz-e részt
 
 3. foglakoztatást helyettesítő támogatásban részesül-e,
+
+4. rehabilitációs ellátásban részesül-e.
 
 bb) a közfoglalkoztatási jogviszony időtartamát,
 
@@ -120,7 +124,7 @@ d) egy vagy több eltartottal egyedül élő felnőtt, vagy
 
 e) valamely tagállam olyan ágazatában vagy szakmájában dolgozik, amelyben 25%-kal nagyobb a nemi egyensúlyhiány, mint e tagállam valamennyi gazdasági ágazatára jellemző átlagos egyensúlyhiány, és ezen alulreprezentált nemi csoportba tartozik, vagy
 
-f) egy tagállam etnikai kisebbségéhez tartozik, és akinek szakmai, nyelvi képzésének vagy szakmai tapasztalatának megerősítésére van szüksége ahhoz, hogy javuljanak munkába állási esélyei egy biztos munkahelyen;
+f) egy tagállam nemzetiséghez tartozik, és akinek szakmai, nyelvi képzésének vagy szakmai tapasztalatának megerősítésére van szüksége ahhoz, hogy javuljanak munkába állási esélyei egy biztos munkahelyen;
 
 2. Súlyosan hátrányos helyzetű munkavállaló, aki legalább 24 hónapja munkanélküli;
 
@@ -130,9 +134,15 @@ a) a nemzeti jog szerint fogyatékosnak elismert, vagy
 
 b) elismerten fizikai, elmebeli vagy pszichológiai károsodásban szenved.
 
+4. Megváltozott munkaképességű munkavállaló, aki
+
+a) rehabilitációs ellátásban részesül,
+
+b) aki 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesült.
+
 (5) A (3) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
-(6) A (3) bekezdés 1. pont a) alpont szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban.
+(6) A (3) bekezdés 1. pont a) alpontja szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban. A települési önkormányzat jegyzője rögzítheti a (3) bekezdés 3. pont g) alpontja szerinti adatokat is.
 
 (7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
 

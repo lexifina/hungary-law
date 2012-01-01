@@ -1,3 +1,3 @@
 ## Költségtérítés
 
-31. § Az álláskereső részére járó járadék vagy segély megállapításával, valamint a munkahelykereséssel kapcsolatos (ideértve a lakóhelyétől a az állami foglalkoztatási szervhez történő oda- és visszautazást, valamint az állami foglalkoztatási szerv által kezdeményezett foglalkozás-egészségügyi szakvélemény beszerzéséhez szükséges utazást is), a tömegközlekedési eszköz igénybevételével felmerült indokolt helyközi utazási költséget meg kell téríteni. Jogszabály az álláskereső részére az e §-ban felsorolt okokból felmerült, indokolt helyi utazási költségek megtérítéséről is rendelkezhet.
+### 31. §

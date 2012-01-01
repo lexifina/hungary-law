@@ -1,6 +1,6 @@
-56. § (1) A Munkaerőpiaci Alap javára fennálló – a jogszabályban meghatározott kis összegű követelés értékhatárát meghaladó – tartozás adók módjára behajtandó köztartozás.
+56. § (1) A Nemzeti Foglalkoztatási Alap javára fennálló – a jogszabályban meghatározott kis összegű követelés értékhatárát meghaladó – tartozás adók módjára behajtandó köztartozás.
 
-(2) A Munkaerőpiaci Alap Pénzeszközeinek hatékony felhasználása, valamint az azokból történő téves kifizetések elkerülése érdekében, ha a tényállás tisztázott,
+(2) A Nemzeti Foglalkoztatási Alap Pénzeszközeinek hatékony felhasználása, valamint az azokból történő téves kifizetések elkerülése érdekében, ha a tényállás tisztázott,
 
 a) az álláskeresési járadék és álláskeresési segély iránti kérelemnek helyt adó,
 

@@ -10,6 +10,8 @@ d) rövid időtartamú, legfeljebb kilencven napig tartó kereső tevékenysége
 
 e) a 14. § (6) bekezdésében meghatározott keresetpótló juttatásban részesül.
 
+f) az önkéntes tartalékos katonai szolgálat keretében tényleges szolgálatot teljesít, ezen időszak teljes időtartamára.
+
 (2) Ha az álláskeresési járadék folyósítása szünetelésének oka megszűnik, és fennállnak a 25. § (1) bekezdésében meghatározott feltételek, az álláskeresési járadékot a megállapító határozatban meghatározott feltételekkel tovább kell folyósítani.
 
 (3)
