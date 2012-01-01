@@ -8,6 +8,8 @@ ab) a technológiával végzett kutatás eredménye alapján a technológia magy
 
 ac) a technológia alkalmas-e a kérelemben foglalt célok megvalósítására,
 
-b) – az új eszközt nem igénylő orvosi eljárás befogadására irányuló eljárás kivételével – az Egészségügyi Engedélyezési és Közigazgatási Hivatalt (a továbbiakban: EEKH) jelöli ki a tekintetben, hogy az adott CE jelölés a technológiához kapcsolódó orvostechnikai eszköz adott indikációjára kiterjed-e.
+b)[^5] – az új eszközt nem igénylő orvosi eljárás befogadására irányuló eljárás kivételével – az EEKH-t jelöli ki a tekintetben, hogy az adott CE jelölés a technológiához kapcsolódó orvostechnikai eszköz adott indikációjára kiterjed-e.
 
 (2) Az ETT, valamint az EEKH az előzetes befogadásra irányuló kérelem kézhezvételétől számított 45 napon belül küldi meg az állásfoglalását az OEP-nek.
+
+[^5]: A 8. § (1) bekezdés b) pontja a 282/2011. (XII. 21.) Korm. rendelet 48. §-a szerint módosított szöveg.
