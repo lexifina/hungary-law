@@ -1,3 +1,7 @@
-## 5. §[^4]
+## lép.
 
-[^4]: A 5. § a 22. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+## 6. § Hatályát veszti az Er.
+
+a) 2. § (8) bekezdése,
+
+b) 3. § (3) és (4) bekezdése.

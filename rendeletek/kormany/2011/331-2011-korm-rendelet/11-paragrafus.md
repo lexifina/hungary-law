@@ -1,3 +1,1 @@
-## 10. §[^9]
-
-[^9]: A 10. § a 22. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+## „(3) Abban az esetben, ha a rendszeres szociális segélyre jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, a rendszeres szociális segély Szt. 37. § (4) bekezdése szerinti legmagasabb összege 19 526 Ft.”
