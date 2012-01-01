@@ -1,3 +1,3 @@
-10. §[^23]
+10. §[^24]
 
-[^23]: A 10. §-t a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^24]: A 10. §-t a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.

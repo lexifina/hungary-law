@@ -106,7 +106,7 @@
 
 | 52. | KvVM | Kiemelten fontos érzékeny természeti terület | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 53. | KvVM | Környezetvédelmi, természetvédelmi és vízügyi felügyelőségek illetékessége, környezetvédelmi és vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
+| 53. | KvVM | Környezetvédelmi, természetvédelmi és vízügyi felügyelőségek illetékessége, vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
 
 | 54. | KvVM | Kiemelten érzékeny felszín alatti vízminőség-védelmi terület | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
@@ -206,7 +206,7 @@
 
 | 102. | Kormányhivatal | Munkaügyi felügyelőségek | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 103. | OMMF | Munkavédelmi felügyelőségek | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 103. | Kormányhivatal | Munkavédelmi felügyelőségek | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 104. | OMSZ | Mentőállomások | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -228,25 +228,25 @@
 
 | 113. | Térségi vasúthálózatok tulajdonosai és üzemeltetői | Magyarország térségi vasúthálózatának analóg vagy digitális, vektoros, szerkeszthető formátumú térképe EOV koordináta rendszerben vasútvonalankénti szelvényezéssel és az állomások (megállóhelyek) megnevezésével és feltüntetésével (keskeny nyomtávú, személy- és áruszállítás céljából üzemeltetett nem nyílt hozzáférésű vasúti pályahálózat pályatengelyét feltüntető szerkeszthető digitális vagy analóg térképi állomány) | 3.1.2. | évente | ország, vasútvonal, vonalszakasz | március 1. |
 
-| 114. | VKKI | Vízi közművek adatai | 3.4.1. és 3.4.2. | frissítést követően | település | frissítést követő 90. nap |
+| 114. | NeKI | Vízi közművek adatai | 3.4.1. és 3.4.2. | frissítést követően | település | frissítést követő 90. nap |
 
-| 115. | VKKI | Felszíni víztestek térképi adatbázisa | 4.3. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 115. | NeKI | Felszíni víztestek térképi adatbázisa | 4.3. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 116. | VKKI | Partvonal szabályozási tervek (Balaton) | 6.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 116. | OVF | Partvonal szabályozási tervek (Balaton) | 6.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 117. | VKKI | Sérülékeny vízbázisok védőterülete | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 117. | NeKI | Sérülékeny vízbázisok védőterülete | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 118. | VKKI | Árterek és hullámterek | 4.4. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 118. | OVF | Árterek és hullámterek | 4.4. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 119. | VKKI | Magyarország elsőrendű és másodrendű árvízvédelmi vonalainak nyomvonalas térképe | 4.12. | frissítést követően | ország, kiemelt térség, megye, település | frissítést követő 90. nap |
+| 119. | OVF | Magyarország elsőrendű és másodrendű árvízvédelmi vonalainak nyomvonalas térképe | 4.12. | frissítést követően | ország, kiemelt térség, megye, település | frissítést követő 90. nap |
 
-| 120. | VKKI | Felszín alatti víztestek térképi adatbázisa | 4.3. és 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 120. | NeKI | Felszín alatti víztestek térképi adatbázisa | 4.3. és 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 121. | VKKI | Felszín alatti vízkitermelés víztestenként és felhasználási cél szerint | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 121. | NeKI | Felszín alatti vízkitermelés víztestenként és felhasználási cél szerint | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 122. | VKKI | Magyarország öntöző- és belvízcsatorna-hálózatának nyomvonalas térképe a csatornák megnevezésével: – országos jelentőségű öntözőcsatornák, – térségi belvíz- és öntözőcsatornák. | 3.4. | frissítést követően | ország, kiemelt térség, megye | frissítést követő 90. nap |
+| 122. | OVF | Magyarország öntöző- és belvízcsatorna-hálózatának nyomvonalas térképe a csatornák megnevezésével: – országos jelentőségű öntözőcsatornák, – térségi belvíz- és öntözőcsatornák. | 3.4. | frissítést követően | ország, kiemelt térség, megye | frissítést követő 90. nap |
 
-| 123. | VKKI | Magyarország víztározóinak térképe poligonként ábrázolva, a víztározók, illetve az érintett települések megnevezésével: – meglévő szükségtározók, – a Vásárhelyi-terv továbbfejlesztése I. ütemében megvalósuló árvízi tározók, – belvíztározók, – 10 millió m3-t meghaladó térfogattal tervezhető tározási lehetőség, – 1 millió m3-t meghaladó és 10 millió m3-nél kisebb tározási lehetőség. | 3.4. | frissítést követően | ország, kiemelt térség, megye | frissítést követő 90. nap |
+| 123. | OVF | Magyarország víztározóinak térképe poligonként ábrázolva, a víztározók, illetve az érintett települések megnevezésével: – meglévő szükségtározók, – a Vásárhelyi-terv továbbfejlesztése I. ütemében megvalósuló árvízi tározók, – belvíztározók, – 10 millió m3-t meghaladó térfogattal tervezhető tározási lehetőség, – 1 millió m3-t meghaladó és 10 millió m3-nél kisebb tározási lehetőség. | 3.4. | frissítést követően | ország, kiemelt térség, megye | frissítést követő 90. nap |
 
 ## 2. Az adatkezelő szervezetek neve és a mellékletben használt rövidítése
 
@@ -330,14 +330,16 @@
 
 | 39. | Országos Meteorológiai Szolgálat | Meteorológia |
 
-| 40. | Országos Munkavédelmi és Munkaügyi Főfelügyelőség | OMMF |
+| 40. | Nemzeti Munkaügyi Hivatal | NMH |
 
 | 41. | Országos Nyugdíjbiztosítási Főigazgatóság | ONYF |
 
 | 42. | Szociális és Munkaügyi Minisztérium | SZMM |
 
-| 43. | Vízügyi és Környezetvédelmi Központi Igazgatóság | VKKI |
+| 43. | Országos Vízügyi Igazgatóság | OVF |
 
-3–4. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^31]
+| 44. | Nemzeti Környezetügyi Intézet | NeKI |
 
-[^31]: A 3–4. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+3–4. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^32]
+
+[^32]: A 3–4. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
