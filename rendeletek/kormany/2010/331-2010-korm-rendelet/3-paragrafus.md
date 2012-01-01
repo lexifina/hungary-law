@@ -6,7 +6,7 @@ a) gyakorolja a munkáltatói jogokat a főigazgatóság alkalmazottai, valamint
 
 b) kinevezi és felmenti a regionális igazgatóságok és a kirendeltségek alkalmazottait,
 
-c) gondoskodik az egységes szakértői, szakhatósági tevékenység kialakításáról, irányítja és ellenőrzi a Hivatal szakmai tevékenységét,
+c)[^2] gondoskodik az egységes szakértői, szakhatósági tevékenység kialakításáról, irányítja és ellenőrzi a Hivatal szakmai tevékenységét, olyan tényről vagy körülményről történő tudomásszerzés esetén, amely valószínűsíti, hogy a korábbi komplex minősítés során megállapított körülmény a megállapítás időpontjában nem állt fenn, felülvizsgálatot kezdeményez,
 
 d) ha a szakértői, szakhatósági tevékenységgel kapcsolatban kötelezettségszegésre utaló megalapozott információ jut a tudomására, kijelöli a kötelezettségszegés esetén indított rendkívüli eljárásban részt vevő első- és másodfokú szakértői bizottság tagjait,
 
@@ -41,3 +41,5 @@ a) vezeti a kirendeltséget,
 b) szervezi az elsőfokú szakértői bizottságok működését, ellenőrzi szakmai tevékenységüket,
 
 c) gondoskodik a kirendeltség feladatkörébe tartozó ügyek ellátásáról.
+
+[^2]: A 3. § (1) bekezdés c) pontja a 327/2011. (XII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.

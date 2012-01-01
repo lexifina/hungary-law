@@ -2,13 +2,7 @@
 
 15. § (1) Az elsőfokú szakértői bizottság tagjait és elnökét a kirendeltség-vezető, a másodfokú szakértői bizottság tagjait és elnökét a regionális igazgató jelöli ki. A szakértői bizottság elnökének a Hivatallal kormánytisztviselői jogviszonyban álló orvosszakértő jelölhető ki.
 
-(2) A szakértői bizottság
-
-a) a komplex minősítés során legalább négy,
-
-b) az a) pont alá nem tartozó esetben – jogszabály eltérő rendelkezése hiányában – legalább két orvosszakértő
-
-tagból áll.
+(2)[^22] A szakértői bizottság – jogszabály eltérő rendelkezése hiányában – legalább két tagból áll. A szakértői bizottság elnöke és előadó szakértője a kormánytisztviselőkre vonatkozó szabályok szerint kétévente vagyonnyilatkozatot tesz.
 
 (3) A szakértői bizottságban a nem orvosszakértő tagok száma nem haladhatja meg az orvosszakértő tagok számát.
 
@@ -16,10 +10,7 @@ tagból áll.
 
 (5) A szakértői bizottságnak orvosszakértőként egészségbiztosítási szakvizsgával rendelkező személy lehet a tagja.
 
-(6) A komplex minősítés során a szakértői bizottság
+(6)[^23]
 
-a) legalább két tagja orvosszakértő,
-
-b) legalább egy tagja foglalkoztatási szakértő,
-
-c) legalább egy tagja szociális szakértő.
+[^22]: A 15. § (2) bekezdése a 327/2011. (XII. 29.) Korm. rendelet 25. § (7) bekezdésével megállapított szöveg.
+[^23]: A 15. § (6) bekezdését a 327/2011. (XII. 29.) Korm. rendelet (11) bekezdés b) pontja hatályon kívül helyezte.

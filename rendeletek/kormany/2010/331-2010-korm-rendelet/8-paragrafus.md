@@ -13,3 +13,7 @@ c) a megváltozott munkaképességű munkavállalók foglalkoztatásával, az az
 ## kapcsolatos feladatokat.
 
 (2) A Hivatal – foglalkoztatási rehabilitációs feladatkörében – ellátja a Társadalmi Megújulás Operatív Program 1.3.1 kiemelt projekt 1.2.1 számú, a Megváltozott munkaképességű ügyfelekkel való bánásmód fejlesztését és az ÁFSZ dolgozói szemléletváltás lehetőségének megteremtését célzó, az 1.2.2 számú, a Megváltozott munkaképességű ügyfelek részére nyújtható szolgáltatások fejlesztését, továbbfejlesztését, a stratégiai együttműködési formák kialakítását és működtetését célzó, valamint az 1.2.3 számú, a Kommunikációs akadálymentesítésre irányuló alprojektek szakmai felügyeletét.
+
+(3)[^17] A Hivatal a foglalkozási rehabilitációval összefüggő oktatási, innovációs, tárolási, logisztikai, nyilvántartási és informatikai feladatokat lát el.
+
+[^17]: A 8. § (3) bekezdését a 327/2011. (XII. 29.) Korm. rendelet 25. § (5) bekezdése iktatta be.

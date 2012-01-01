@@ -2,29 +2,31 @@
 
 7. § (1) A Hivatal a jogszabályban meghatározott közigazgatási hatósági eljárásokban szakhatóságként vesz részt, e feladatkörében szakhatósági állásfoglalást ad
 
-a) a rokkantsági, baleseti rokkantsági nyugellátás,
+a)[^10] a megváltozott munkaképességű személyek ellátása,
 
 b) a hozzátartozói nyugellátás,
 
 c) a baleseti járadék,
 
-d) a rehabilitációs járadék,
+d)[^11]
 
 e) a rokkantsági járadék,
 
-f) a rendszeres szociális járadék, átmeneti járadék,
+f)[^12]
 
 g) a fogyatékossági támogatás,
 
-h)[^2] a foglalkoztatást helyettesítő támogatás, a rendszeres szociális segély,
+h)[^13] a foglalkoztatást helyettesítő támogatás, a rendszeres szociális segély,
 
 i) a magasabb összegű családi pótlék,
 
-j) a bányász dolgozók egészségkárosodási járadéka,
+j)[^14] a bányászok egészségkárosodási járadéka,
 
 k) a bányászati dolgozók társadalombiztosítási kedvezményei,
 
 l) a hadi rokkantsági ellátások
+
+m)[^15] a befogadás
 
 ## megállapításához.
 
@@ -44,7 +46,7 @@ f) a közúti járművezetők egészségi alkalmasságáról,
 
 g) a súlyos mozgáskorlátozottságról,
 
-h) a Magyar Honvédség hivatásos és szerződéses, valamint a fegyveres szervek hivatásos állományú tagjai egészségi alkalmasságának felülvizsgálata során az egészségkárosodás mértékéről,
+h)[^16] a Magyar Honvédség hivatásos és szerződéses, valamint a fegyveres szervek hivatásos állományú tagjai egészségi alkalmasságának felülvizsgálata során az egészségkárosodás, egészségi állapot mértékéről,
 
 i) a nemzeti helytállásért pótlék elbírálásához szükséges egészségkárosodás mértékéről,
 
@@ -66,4 +68,10 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 
 biztosítottnak minősülő személy rehabilitálhatóságáról, valamint javaslatot tesz az orvosi rehabilitációhoz szükséges egészségügyi szolgáltatásokra.
 
-[^2]: A 7. § (1) bekezdés h) pontja a 171/2011. (VIII. 24.) Korm. rendelet 26. § (6) bekezdése szerint módosított szöveg.
+[^10]: A 7. § (1) bekezdés a) pontja a 327/2011. (XII. 29.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^11]: A 7. § (1) bekezdés d) pontját a 327/2011. (XII. 29.) Korm. rendelet (11) bekezdés a) pontja hatályon kívül helyezte.
+[^12]: A 7. § (1) bekezdés f) pontját a 327/2011. (XII. 29.) Korm. rendelet (11) bekezdés a) pontja hatályon kívül helyezte.
+[^13]: A 7. § (1) bekezdés h) pontja a 171/2011. (VIII. 24.) Korm. rendelet 26. § (6) bekezdése szerint módosított szöveg.
+[^14]: A 7. § (1) bekezdés j) pontja a 327/2011. (XII. 29.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^15]: A 7. § (1) bekezdés m) pontját a 330/2011. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
+[^16]: A 7. § (2) bekezdés h) pontja a 327/2011. (XII. 29.) Korm. rendelet (10) bekezdés c) pontja szerint módosított szöveg.
