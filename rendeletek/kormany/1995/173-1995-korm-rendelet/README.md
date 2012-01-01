@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-173-20-
 | --- | --- | --- |
 | 2009-10-01 | 1995-173-20-22.31 | 173/1995. (XII. 27.) Korm. rendelet |
 | 2011-01-01 | 1995-173-20-22.32 | 213/2007. (VIII. 7.) Korm. rendelet |
+| 2012-01-01 | 1995-173-20-22.33 | 333/2011. (XII. 29.) Korm. rendelet |

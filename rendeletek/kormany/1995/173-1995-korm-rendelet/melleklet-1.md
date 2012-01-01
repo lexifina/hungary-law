@@ -6,15 +6,15 @@ E rendelet alkalmazásában nyugellátásnak minősül:
 
 1. öregségi nyugdíj,
 
-2. rokkantsági nyugdíj,
+2.[^26]
 
-3.[^21] özvegyi nyugdíj (az ideiglenes özvegyi nyugdíj kivételével),
+3.[^27] özvegyi nyugdíj (az ideiglenes özvegyi nyugdíj kivételével),
 
-4.[^22] árvaellátás [a Tny. 55. § (1) bekezdés utolsó mondatában szabályozott formában],
+4.[^28] árvaellátás [a Tny. 55. § (1) bekezdés utolsó mondatában szabályozott formában],
 
 5. szülői nyugdíj,
 
-6. baleseti nyugellátás (a baleseti járadék kivételével),
+6.[^29]
 
 7. hozzátartozói baleseti nyugellátás,
 
@@ -34,18 +34,25 @@ E rendelet alkalmazásában nyugellátásnak minősül:
 
 15. utóbb igénylő házastárs munkaképtelenségi járadéka,
 
-16. egyes művészeti tevékenységet folytatók öregségi nyugdíja,
+16.[^30] korhatár előtti ellátás
 
-17. szolgálati nyugdíj,
+17.[^31] szolgálati járandóság
 
-18. korengedményes nyugdíj,
+18.[^32] balettművészeti életjáradék,
 
-19.[^23] bányásznyugdíj,
+19.[^33] átmeneti bányászjáradék
 
-20. előnyugdíj,
+20.[^34] Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátások
 
-21. korkedvezményes nyugdíj.
+21.[^35]
 
-[^21]: Az 1. számú melléklet 3. pontja a 247/2000. (XII. 24.) Korm. rendelet 8. § (3) bekezdése f) pontjának fa) alpontja szerint módosított szöveg.
-[^22]: Az 1. számú melléklet 4. pontja a 247/2000. (XII. 24.) Korm. rendelet 8. § (3) bekezdése f) pontjának fb) alpontja szerint módosított szöveg.
-[^23]: Az 1. számú melléklet 19. pontja a 247/2000. (XII. 24.) Korm. rendelet 8. § (3) bekezdése f) pontjának fc) alpontja szerint módosított szöveg.
+[^26]: Az 1. számú melléklet 2. pontját a 333/2011. (XII. 29.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^27]: Az 1. számú melléklet 3. pontja a 247/2000. (XII. 24.) Korm. rendelet 8. § (3) bekezdése f) pontjának fa) alpontja szerint módosított szöveg.
+[^28]: Az 1. számú melléklet 4. pontja a 247/2000. (XII. 24.) Korm. rendelet 8. § (3) bekezdése f) pontjának fb) alpontja szerint módosított szöveg.
+[^29]: Az 1. számú melléklet 6. pontját a 333/2011. (XII. 29.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^30]: Az 1. számú melléklet 16. pontja a 333/2011. (XII. 29.) Korm. rendelet 17. § e) pontjával megállapított szöveg.
+[^31]: Az 1. számú melléklet 17. pontja a 333/2011. (XII. 29.) Korm. rendelet 17. § e) pontjával megállapított szöveg.
+[^32]: Az 1. számú melléklet 18. pontja a 333/2011. (XII. 29.) Korm. rendelet 17. § e) pontjával megállapított szöveg.
+[^33]: Az 1. számú melléklet 19. pontja a 333/2011. (XII. 29.) Korm. rendelet 17. § e) pontjával megállapított szöveg.
+[^34]: Az 1. számú melléklet 20. pontja a 333/2011. (XII. 29.) Korm. rendelet 17. § e) pontjával megállapított szöveg.
+[^35]: Az 1. számú melléklet 21. pontját a 333/2011. (XII. 29.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
