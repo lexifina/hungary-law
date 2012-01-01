@@ -1,0 +1,7 @@
+45. § (1) Az ügyész a tisztsége ellátásán kívül nem folytathat kereső tevékenységet, kivéve tudományos és oktatói (edzői, versenybírói, játékvezetői), művészi, szerzői jogi védelemben részesülő, továbbá lektori és szerkesztői, műszaki alkotó munkát, feltéve, hogy ezzel nem veszélyezteti függetlenségét és pártatlanságát, valamint nem akadályozza hivatali kötelezettségei teljesítését.
+
+(2) Az ügyész nem lehet gazdasági társaság, kooperációs társaság, szövetkezet vezető tisztségviselője vagy személyes közreműködésre kötelezett tagja, gazdasági társaság, kooperációs társaság, szövetkezet felügyelő bizottságának tagja, továbbá gazdasági társaság, kooperációs társaság korlátlanul felelős tagja, valamint egyéni cég tagja.
+
+(3) Az ügyész az ügyészségi szolgálati viszony munkaidejét egészben vagy részben érintő munkavégzésre irányuló egyéb jogviszonyt csak a munkáltatói jogkör gyakorlójának előzetes hozzájárulásával létesíthet. A hozzájárulás megtagadása miatt jogvita nem kezdeményezhető.
+
+(4) Az ügyészségi szolgálati viszony munkaidejét nem érintő munkavégzésre irányuló egyéb jogviszony létesítését az ügyész köteles a munkáltatói jogkör gyakorlójának előzetesen bejelenteni. A munkáltatói jogkör gyakorlója a jogviszony létesítését megtiltja, ha az ügyész ügyészségi szolgálati viszony alapján betöltött munkakörével e törvény rendelkezései szerint összeférhetetlen.

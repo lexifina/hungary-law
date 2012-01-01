@@ -1,0 +1,3 @@
+134. § (1) A tisztviselőt, az írnokot és a fizikai alkalmazottat hat órát meghaladó belföldi kiküldetés esetén – az élelmezéssel kapcsolatos többletköltségek fedezésére – napidíjként az illetményalap egy munkanapra eső részének a tíz százaléka illeti meg. Ha a kiküldetésben töltött idő a hat órát nem haladja meg, de a négy órát eléri, a napidíj fele jár. A napidíjra való jogosultságot nem érinti a szolgálati helyen kívül végzett munka gyakorisága.
+
+(2) A tisztviselő, az írnok és a fizikai alkalmazott belföldi kiküldetésénél az 57. § (2)–(4) bekezdésében foglalt rendelkezést is megfelelően alkalmazni kell.

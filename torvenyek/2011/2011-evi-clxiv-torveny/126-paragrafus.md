@@ -1,0 +1,1 @@
+126. § A tisztviselői munkakör betöltésére a munkáltatói jogkör gyakorlója pályázatot írhat ki. A pályázatra egyebekben e törvénynek az ügyészek pályázatára vonatkozó rendelkezéseit kell megfelelően alkalmazni.

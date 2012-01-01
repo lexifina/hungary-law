@@ -1,0 +1,1 @@
+80. § Az ügyészségi alkalmazottak számára munkaszüneti napnak minősül az Ügyészség Napjaként minden év június 10-e, amely megemlékezés az első magyar ügyészi törvény, az 1871. évi XXXIII. törvénycikk kihirdetéséről.

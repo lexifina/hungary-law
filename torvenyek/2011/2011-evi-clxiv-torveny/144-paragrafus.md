@@ -1,0 +1,5 @@
+144. § (1) A munkáltatói jogkör gyakorlója a munkakörének megfelelő, legalább ötéves szakmai gyakorlattal rendelkező szakirányú felsőfokú iskolai végzettségű tisztviselőt szakmai tanácsadónak, a tíz éves szakmai gyakorlattal rendelkező szakirányú felsőfokú iskolai végzettségű tisztviselőt pedig szakmai főtanácsadónak nevezheti ki. A kinevezések együttes száma nem haladhatja meg az ügyészség felsőfokú iskolai végzettségű tisztviselői létszámának egyharmadát.
+
+(2) A szakmai tanácsadó a 6. mellékletben az osztályvezetőre, a szakmai főtanácsadó a főosztályvezetőre megállapított – a munkáltatói jogkör gyakorlója által meghatározott – vezetői pótlékkal azonos összegű tanácsadó pótlékra jogosult. Ha a szakmai tanácsadót, szakmai főtanácsadót vezetői pótlék is megilleti, részére a magasabb összegű pótlék jár.
+
+(3) A szakmai tanácsadói és főtanácsadói kinevezést vissza kell vonni, ha az érintett azonos vagy magasabb pótlékkal járó vezetői kinevezést, megbízást kap, vagy az a munkájának értékelése alapján indokolt. Visszavonás esetén a pótlék folyósítását meg kell szüntetni, az érintett a besorolása szerinti illetményre jogosult.

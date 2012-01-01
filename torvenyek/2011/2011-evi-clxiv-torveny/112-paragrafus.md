@@ -1,0 +1,3 @@
+112. § (1) Az ügyészségi fogalmazót alügyésszé kinevezését megelőzően kell minősíteni. Az alügyészt a határozott időre szóló kinevezés időtartamának lejártáig, határozatlan időre szóló kinevezés esetén a kinevezést követő három év letelte előtt, azt követően – az öregségi nyugdíjra való jogosultságot megelőző hat év kivételével – nyolc évenként, valamint az ügyészi tisztségre történő pályázatának benyújtását követő két héten belül minősíteni kell, feltéve, hogy az előző minősítés ismertetése óta hat hónap eltelt.
+
+(2) Az alügyész és az ügyészségi fogalmazó minősítésére egyebekben az 50. § (2)–(6) bekezdését és az 51–52. §-t kell megfelelően alkalmazni.

@@ -1,0 +1,7 @@
+128. § (1) A tisztviselő vezetői kinevezése indokolás nélkül bármikor visszavonható.
+
+(2) A kinevezés visszavonásakor a vezetőt, ha ehhez hozzájárul – választása szerint a szolgálati helyével vagy a vezetői kinevezését megelőző szolgálati helyével azonos helységben, vezetői beosztásának megfelelő vagy annál alacsonyabb szintű ügyészségen – más tisztviselői munkakörbe kell áthelyezni.
+
+(3) Az áthelyezéshez való hozzájárulás hiányában a 25. § (3) bekezdésében foglalt rendelkezést kell megfelelően alkalmazni.
+
+(4) A magasabb vezető állású tisztviselő három hónapos határidővel, a vezető állású tisztviselő pedig két hónapos határidővel vezetői tisztségéről lemondhat; a felek ennél rövidebb időben is megállapodhatnak. Lemondás esetében a munkáltatói jogkör gyakorlója a vezetőt – ha ehhez hozzájárul – szolgálati helyével azonos helységben, illetve a vezetői kinevezését megelőző szolgálati helyére és lehetőleg a korábbival legalább azonos vezetői beosztásba más tisztviselői munkakörbe helyezi. Ha a vezető az áthelyezéséhez nem járul hozzá, ezt úgy kell tekinteni, hogy ügyészségi szolgálati viszonya a lemondási idő lejártának napjával lemondással megszűnik.

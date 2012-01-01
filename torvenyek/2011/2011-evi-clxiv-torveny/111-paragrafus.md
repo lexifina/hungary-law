@@ -1,0 +1,1 @@
+111. § Az alügyész és az ügyészségi fogalmazó kirendelésére az ügyész kirendelésére vonatkozó szabályokat kell megfelelően alkalmazni, azzal az eltéréssel, hogy a kirendelésük esetén a napidíj összegét a 113. § szerint kell megállapítani.

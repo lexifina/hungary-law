@@ -1,0 +1,1 @@
+39. § A munkavégzés alóli mentesítés időtartamára az ügyészt átlagilletménye illeti meg. Nem jár átlagilletmény arra az időre, amely alatt az ügyész munkabérre egyébként sem lenne jogosult. A munkavégzési kötelezettség alól végleg mentesített ügyész esetében nem kell alkalmazni a 45. §-ban meghatározott rendelkezéseket.

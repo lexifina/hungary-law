@@ -1,0 +1,1 @@
+99. § A fegyelmi eljárás lefolytatásával kapcsolatos indokolt költségeket az ügyészség viseli. Ha azonban az ügyész fegyelmi felelősségét jogerősen megállapították, az ügyész köteles megtéríteni az általa indítványozott eljárási cselekmények költségeit, illetve a részéről igénybe vett képviselő költségeit.

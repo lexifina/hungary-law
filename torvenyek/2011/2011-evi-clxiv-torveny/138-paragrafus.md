@@ -1,0 +1,1 @@
+138. § Ha a tisztviselő, az írnok az 5. melléklet szerinti magasabb fizetési osztályba kerül, az addig elért fizetési fokozatát az új fizetési osztályban legfeljebb két fokozattal csökkenteni lehet, az új alapilletményének azonban a korábbit meg kell haladnia.
