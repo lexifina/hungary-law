@@ -4,4 +4,4 @@
 
 ## A törvény hatálya
 
-1. § E törvény hatálya a Magyar Köztársaság területén a mérésügyi szervezet tevékenységére, a mértékegységek használatára és a joghatással járó mérésekre terjed ki.
+1. § E törvény hatálya a mérésügyi szervezet tevékenységére, a mértékegységek használatára és a joghatással járó mérésekre terjed ki.

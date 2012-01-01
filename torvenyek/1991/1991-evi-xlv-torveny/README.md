@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-45-00-00
 | --- | --- | --- |
 | 2009-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1991-45-00-00.9 |
 | 2011-01-01 | 2010. évi CLII. törvény | 1991-45-00-00.10 |
+| 2012-01-01 | 2011. évi CCI. törvény | 1991-45-00-00.11 |
