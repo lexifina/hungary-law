@@ -1,4 +1,4 @@
-17/C. §[^39] (1) A közhasznú kölcsönző a közfoglalkoztatottal a közfoglalkoztatásra irányuló jogviszonyt legalább 60 napra létesíti. A közfoglalkoztatási jogviszony munkaerő-kölcsönzés céljára jön létre, de emellett lehetőség van arra, hogy a közhasznú kölcsönző a foglalkoztatottat a kikölcsönzések közötti időtartam alatt saját tevékenysége keretében is foglalkoztassa.
+17/C. §[^40] (1) A közhasznú kölcsönző a közfoglalkoztatottal a közfoglalkoztatásra irányuló jogviszonyt legalább 60 napra létesíti. A közfoglalkoztatási jogviszony munkaerő-kölcsönzés céljára jön létre, de emellett lehetőség van arra, hogy a közhasznú kölcsönző a foglalkoztatottat a kikölcsönzések közötti időtartam alatt saját tevékenysége keretében is foglalkoztassa.
 
 (2) A közhasznú kölcsönző által kölcsönbeadott közfoglalkoztatott nem foglalkoztatható olyan munkakörben, melynek ellátására törvény közalkalmazotti, közszolgálati vagy kormánytisztviselői jogviszony létesítését írja elő.
 
@@ -26,4 +26,4 @@ e) segíti a foglalkoztatási szervvel való együttműködési kötelezettsége
 
 (7) A közhasznú kölcsönző a 12. §-ban meghatározott adatszolgáltatási kötelezettség részeként tájékoztatást köteles adni a lebonyolított képzésekről, valamint a nyújtott mentori szolgáltatásról.
 
-[^39]: A 17/C. §-t a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.
+[^40]: A 17/C. §-t a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.

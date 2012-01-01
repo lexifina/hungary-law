@@ -6,7 +6,8 @@
 
 a) az 5. § (1) bekezdés c) pontját, a 6–7. §-t, valamint a 16. § (1) bekezdés a) pont ab) alpontját nem kell alkalmazni,
 
-b) a közhasznú kölcsönzőkről vezetett nyilvántartásnak, valamint a Foglalkoztatási Hivatal által vezetett országos nyilvántartásnak a 8. § (5) bekezdés d) pontjában foglaltakat nem kell tartalmaznia, fel kell benne tüntetni azonban a kölcsönző közhasznú jellegét.
+b)[^39] a közhasznú kölcsönzőkről vezetett nyilvántartásnak, valamint a Nemzeti Munkaügyi Hivatal által vezetett országos nyilvántartásnak a 8. § (5) bekezdés d) pontjában foglaltakat nem kell tartalmaznia, fel kell benne tüntetni azonban a kölcsönző közhasznú jellegét.
 
 [^37]: A 17/A. §-t a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.
 [^38]: A 17/B. §-t a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.
+[^39]: A 17/B. § (2) bekezdés b) pontja a 324/2011. (XII. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.
