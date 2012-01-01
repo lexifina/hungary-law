@@ -1,21 +1,21 @@
 ## Döntés a pályázatokról
 
-30. § (1)[^57] A pályázatot a pályázati felhívásban meghatározott határidőben, tartalommal, formában és nyomtatványon a miniszter által kijelölt döntés-előkészítő szervhez (a továbbiakban: kijelölt szerv) kell benyújtani. A kijelölt szerv a beérkezett pályázatokat folyamatosan érkezteti. A pályázat befogadásáról a pályázót tájékoztatni kell.
+30. § (1)[^62] A pályázatot a pályázati felhívásban meghatározott határidőben, tartalommal, formában és nyomtatványon a miniszter által kijelölt döntés-előkészítő szervhez (a továbbiakban: kijelölt szerv) kell benyújtani. A kijelölt szerv a beérkezett pályázatokat folyamatosan érkezteti. A pályázat befogadásáról a pályázót tájékoztatni kell.
 
-(2)[^58] A kijelölt szerv 15 munkanapon belül a pályázat előírt feltételeknek való megfelelését – a beérkezett pályázatok felbontásával – ellenőrzi, az előírt feltételeknek meg nem felelő pályázatokat a pályázó részére visszaküldi, egyidejűleg az előírt feltételeknek megfelelő pályázatokat nyilvántartásba veszi.
+(2)[^63] A kijelölt szerv 15 munkanapon belül a pályázat előírt feltételeknek való megfelelését – a beérkezett pályázatok felbontásával – ellenőrzi, az előírt feltételeknek meg nem felelő pályázatokat a pályázó részére visszaküldi, egyidejűleg az előírt feltételeknek megfelelő pályázatokat nyilvántartásba veszi.
 
-(3)[^59] A kijelölt szerv a benyújtott, a pályázati felhívásban foglalt feltételeknek megfelelő pályázatokat a pályázat céljára tekintettel, szükség esetén külső szakértő bevonásával a (2) bekezdés szerinti határidőt követő 20 munkanapon belül értékeli. A pályázati felhívás alapján komplexnek minősülő pályázatok esetén az értékelés időtartama a miniszter döntése alapján 30 nappal meghosszabbítható. Az értékelés részeként helyszíni vizsgálat is tartható.
+(3)[^64] A kijelölt szerv a benyújtott, a pályázati felhívásban foglalt feltételeknek megfelelő pályázatokat a pályázat céljára tekintettel, szükség esetén külső szakértő bevonásával a (2) bekezdés szerinti határidőt követő 20 munkanapon belül értékeli. A pályázati felhívás alapján komplexnek minősülő pályázatok esetén az értékelés időtartama a miniszter döntése alapján 30 nappal meghosszabbítható. Az értékelés részeként helyszíni vizsgálat is tartható.
 
-(4)[^60] A pályázatokat szakmai (környezet- és éghajlatvédelmi, műszaki, energetikai, közgazdasági) és pénzügyi szempontok szerint kell értékelni és rangsorolni. A pénzügyi értékelés a szakmai szempontból rangsorolt, támogatható pályázatok közül kizárja a pénzügyi szempontból nem megfelelő pályázatokat.
+(4)[^65] A pályázatokat szakmai (környezet- és éghajlatvédelmi, műszaki, energetikai, közgazdasági) és pénzügyi szempontok szerint kell értékelni és rangsorolni. A pénzügyi értékelés a szakmai szempontból rangsorolt, támogatható pályázatok közül kizárja a pénzügyi szempontból nem megfelelő pályázatokat.
 
-(5)[^61] A szakmai értékelés során előnyben kell részesíteni:
+(5)[^66] A szakmai értékelés során előnyben kell részesíteni:
 
 a) a költséghatékonyabb, a nagyobb szén-dioxid megtakarítást jelentő pályázatokat, valamint
 
 b) az a) pontnak megfelelő pályázatok közül a komplex, több célt megvalósító fejlesztéseket.
 
-[^57]: A 30. § (1) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^58]: A 30. § (2) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 20. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^59]: A 30. § (3) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 20. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^60]: A 30. § (4) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^61]: A 30. § (5) bekezdését a 121/2009. (VI. 11.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^62]: A 30. § (1) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^63]: A 30. § (2) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 20. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^64]: A 30. § (3) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 20. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^65]: A 30. § (4) bekezdése a 121/2009. (VI. 11.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^66]: A 30. § (5) bekezdését a 121/2009. (VI. 11.) Korm. rendelet 13. § (3) bekezdése iktatta be.
