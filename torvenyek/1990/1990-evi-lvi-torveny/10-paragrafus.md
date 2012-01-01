@@ -1,3 +1,1 @@
-10. § (1) Öregségi nyugdíjra jogosult az a képviselő – az egyéb feltételek fennállása esetén –, akinek e megbízatása az Országgyűlés működésének befejezésével szűnik meg, és a volt képviselő az ezt követő ötödik naptári év végéig az öregségi nyugdíjra jogosító korhatárt betölti. E nyugdíjazással kapcsolatban az Országgyűlés hivatali szervezetét költségvetési befizetés nem terheli.
-
-(2) Ha a képviselő az Országgyűlés működésének befejezése után újra jelölteti magát, öregségi nyugdíj az (1) bekezdés szerint — legkorábban a mandátumok igazolását követő naptól — akkor illeti meg, ha képviselőnek nem választják meg újra.
+10. §

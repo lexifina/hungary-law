@@ -10,4 +10,4 @@
 
 (6) Az Országgyűlés alelnökei az e törvényben meghatározottakon kívül az államtitkárt megillető juttatásokra jogosultak.
 
-(7) A képviselő javadalmának csökkentésére a Magyar Köztársaság Országgyűlésének Házszabálya az irányadó.
+(7) A képviselő javadalmának csökkentésére a Házszabály az irányadó.
