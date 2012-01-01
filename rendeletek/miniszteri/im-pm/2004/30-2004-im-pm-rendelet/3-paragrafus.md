@@ -1,1 +1,0 @@
-## 2. § A Kbt. 11. §-ának (3) bekezdése szerinti egyéb jogszabályban meghatározott felelősségbiztosítással rendelkező személy vagy szervezet kizárólag abban az esetben nem köteles az e rendelet szerinti felelősségbiztosítási szerződés megkötésére, ha felelősségbiztosítási szerződése megfelel az 1. §-ban foglaltaknak.
