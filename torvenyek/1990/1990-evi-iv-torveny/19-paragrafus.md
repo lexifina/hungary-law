@@ -1,3 +1,0 @@
-19. § (1) Az állam az egyházi jogi személy nevelési-oktatási, szociális és egészségügyi, sport, gyermek- és ifjúságvédelmi intézményei működéséhez — külön törvény rendelkezései szerint — normatív módon meghatározott, a hasonló állami intézményekkel azonos mértékű költségvetési támogatást nyújt, illetőleg a támogatás az ilyen ellátásokra elkülönített pénzeszközökből történik.
-
-(2) Az egyházi jogi személy részére az (1) bekezdésben nem említett egyéb tevékenysége segítésére az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvényben foglaltak szerint adható állami támogatás.

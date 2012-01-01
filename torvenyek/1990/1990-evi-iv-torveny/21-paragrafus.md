@@ -1,5 +1,0 @@
-21. § (1) Az egyház vagyona az egyház más egyházzal való egyesülése, illetőleg két vagy több egyházra való szétválása esetén a jogutód egyház tulajdonába kerül. Szétválás esetén a vagyon megosztásának arányát az egyház határozza meg.
-
-(2) Ha az egyház feloszlott, illetőleg ha a bíróság a megszűnését állapította meg, vagyonát — a hitelezők követeléseinek kielégítése után — a 17. § (1) bekezdésében felsorolt vagy más közérdekű célokra kell fordítania.
-
-(3) Ha az egyház feloszlott, illetőleg ha a bíróság a megszűnését állapította meg, és a vagyonáról — a megszűnéstől számított kilencven napon belül — nem intézkedett, továbbá ha az egyházat a 20. § (2) bekezdése alapján törölték a nyilvántartásból, a vagyonból alapítványt (alapítványokat) kell létrehozni, amelynek célját a Kormány határozza meg, és egyidejűleg kijelöli az alapítót is. Ha a vagyon nagysága alapítvány létrehozását nem teszi lehetővé, az állami tulajdonba kerül, és közérdekű célra kell felhasználni. A vagyon hasznosítsának módját mindkét esetben nyilvánosságra kell hozni.

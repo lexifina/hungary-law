@@ -1,3 +1,0 @@
-2. § (1) A lelkiismereti és vallásszabadság joga magában foglalja a vallás vagy más lelkiismereti meggyőződés szabad megválasztását vagy elfogadását, és azt a szabadságot, hogy vallását és meggyőződését mindenki vallásos cselekmények, szertartások végzése útján vagy egyéb módon — akár egyénileg, akár másokkal együttesen — nyilvánosan vagy magánkörben kinyilváníthassa vagy kinyilvánítását mellőzze, gyakorolhassa vagy taníthassa. (Alkotmány 60. § (2) bekezdés)
-
-(2) A vallás vagy más lelkiismereti meggyőződés terjesztése a tömegtájékoztatási eszközök útján is történhet. Ebben az esetben e tevékenységre a tájékoztatásra vonatkozó törvény rendelkezéseit kell alkalmazni.
