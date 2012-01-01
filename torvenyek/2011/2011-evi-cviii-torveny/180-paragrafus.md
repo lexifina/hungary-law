@@ -8,6 +8,16 @@
 
 (2) E törvény 1–179. §-a; 180. § (3)–(6) bekezdései; a 181. § (1) bekezdése; a 182–183. §-a, valamint 1–4. mellékletei 2012. január 1-jén lépnek hatályba, rendelkezéseiket a hatálybalépés után megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és az azokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra és előzetes vitarendezési eljárásokra kell alkalmazni. A szerződés teljesítéséről azon szerződések esetében sem kell hirdetményben tájékoztatót feladni, amelyeket 2012. január 1-jét megelőzően indított közbeszerzési eljárás eredményeként kötöttek.
 
-(3)–(6)
+(3) A Pp. 340. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A bíróság ítélete ellen fellebbezésnek van helye, ha a közigazgatási pert olyan elsőfokú határozat bírósági felülvizsgálata iránt indították, amely ellen közigazgatási úton nincs helye fellebbezésnek és e határozatot a bíróság törvény alapján megváltoztathatja. E rendelkezés nem vonatkozik a menekültügyi per tárgyában hozott bírósági döntésre, továbbá e rendelkezést közbeszerzési ügyekben a közbeszerzésekről szóló törvényben foglalt eltérésekkel kell alkalmazni.”
+
+(4) Az e törvény Hatodik Részében foglaltaknak megfelelően a Közbeszerzések Tanácsa, mint költségvetési szerv elnevezése 2012. január hó 1. napjával Közbeszerzési Hatóságra változik, a névváltozásra a költségvetési szerv folyamatos működése mellett kerül sor.
+
+(5)
+
+(6) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+„a) a Közbeszerzési Hatóság,”
 
 (7)

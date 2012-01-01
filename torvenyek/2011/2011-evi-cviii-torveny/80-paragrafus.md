@@ -1,0 +1,9 @@
+## Az ajánlatok, részvételi jelentkezések nyilvánossága és az üzleti titok védelme
+
+80. § (1) Az ajánlattevő és a részvételre jelentkező az ajánlatában, illetve a részvételi jelentkezésben, valamint a 69–70. § szerinti indokolásban elkülönített módon elhelyezett, üzleti titkot [Ptk. 81. § (2) bekezdése] tartalmazó iratok nyilvánosságra hozatalát megtilthatja. Az üzleti titkot tartalmazó iratokat úgy kell elkészíteni, hogy azok ne tartalmazzanak a (2)–(3) bekezdés szerinti elemeket.
+
+(2) Az ajánlattevő nem tilthatja meg nevének, címének (székhelyének, lakóhelyének), valamint olyan ténynek, információnak, megoldásnak vagy adatnak (a továbbiakban együtt: adat) a nyilvánosságra hozatalát, amely a 71. § szerinti értékelési szempont alapján értékelésre kerül, de az ezek alapjául szolgáló – a (3) bekezdés hatálya alá nem tartozó – részinformációk, alapadatok (így különösen az árazott költségvetés) nyilvánosságra hozatalát megtilthatja.
+
+(3) Nem korlátozható vagy nem tiltható meg üzleti titokra hivatkozással olyan adat nyilvánosságra hozatala, amely a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség alá esik. A közbeszerzési eljárás alapján megkötött szerződés engedményezést kizáró rendelkezése nem minősül üzleti titoknak.
+
+(4) Az ajánlatok (részvételi jelentkezések) elbírálásáról készített összegezés megküldését követően nem lehet üzleti titokra hivatkozással olyan adat nyilvánosságra hozatalát korlátozni vagy megtiltani, amely a (2)–(3) bekezdés körébe tartozik. Erre tekintettel ajánlattevő (részvételre jelentkező) kérheti, hogy más ajánlattevő ajánlatának (részvételre jelentkező részvételi jelentkezésének) azon részeibe betekinthessen, mely nem minősül üzleti titoknak. Az iratbetekintés során az iratokról feljegyzést lehet készíteni. Az iratbetekintést munkaidőben kell biztosítani, a betekintést kérő által javasolt napon.
