@@ -1,3 +1,3 @@
-7. melléklet a 63/2011. (XI. 29.) NFM rendelethez[^9]
+7. melléklet a 63/2011. (XI. 29.) NFM rendelethez[^8]
 
-[^9]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

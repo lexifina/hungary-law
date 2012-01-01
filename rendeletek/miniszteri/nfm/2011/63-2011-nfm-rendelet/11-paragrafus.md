@@ -1,4 +1,4 @@
-## 10. §[^2]
+## 10. § Az MR. 1. § (1) bekezdésében „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az MR. 1. számú melléklet 4. pontjában „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az MR. 2. számú melléklet címében „Az Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az MR. A Függelék 5.2. pontjában „A Magyar Köztársaságnak” szövegrész helyébe a „Magyarországnak” szöveg, az MR. A Függelék A/2. számú melléklet I. RÉSZ 5. pontjában „A Magyar Köztársaságnak” szövegrész helyébe a „Magyarországnak” szöveg, az MR. A Függelék A/2. számú melléklet XIII. RÉSZ 5.1. pontjában „A Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az MR. A Függelék A/39. számú melléklet 3.3. pontjában „A Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az MR. A Függelék A/59. számú melléklet 4.20. pontjában „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
 
 11. § (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -19,5 +19,3 @@ d) a Bizottság 1009/2010/EU rendelete (2010. november 9.) egyes gépjárművek 
 e) a Bizottság 19/2011/EU rendelete (2011. január 11.) gépjárművek és pótkocsijaik hatóságilag előírt gyári adattáblájára és járműazonosító számára vonatkozó típus-jóváhagyási előírásokról, továbbá a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek, valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló 661/2009/EK európai parlamenti és tanácsi rendelet végrehajtásáról;
 
 f) a Bizottság 109/2011/EU rendelete (2011. január 27.) a 661/2009/EK európai parlamenti és tanácsi rendeletnek a gépjárművek és pótkocsijaik egyes kategóriáira a felcsapódó víz elleni védőrendszerekkel összefüggésben vonatkozó típus- jóváhagyási előírások tekintetében történő végrehajtásáról.
-
-[^2]: A 10. § a 9. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.

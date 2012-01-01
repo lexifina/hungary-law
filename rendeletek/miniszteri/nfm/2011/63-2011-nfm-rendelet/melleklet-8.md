@@ -1,3 +1,3 @@
-8. melléklet a 63/2011. (XI. 29.) NFM rendelethez[^10]
+8. melléklet a 63/2011. (XI. 29.) NFM rendelethez[^9]
 
-[^10]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
