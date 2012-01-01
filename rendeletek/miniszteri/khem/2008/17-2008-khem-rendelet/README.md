@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-17-20-2
 | --- | --- | --- |
 | 2008-09-16 | 2008-17-20-2M.1 | 17/2008. (VIII. 1.) KHEM rendelet |
 | 2011-12-22 | 2008-17-20-2M.2 | 76/2011. (XII. 21.) NFM rendelet |
+| 2012-01-01 | 2008-17-20-2M.3 | 52/2013. (IX. 13.) NFM rendelet |

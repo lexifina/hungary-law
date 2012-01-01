@@ -1,4 +1,4 @@
-5. § (1) A 3. § (1) bekezdés k) pontjában és a 3. § (2) bekezdés a) pontjában foglalt szolgáltatásokért kért külön díj mértéke oldalanként nem haladhatja meg a villamos energia rendszerhasználati díjakról szóló 119/2007. (XII. 29.) GKM rendelet 1. számú melléklet II. Elosztási díj 1. A) táblázat e) pont ec) alpontjában meghatározott kisfeszültségű villamos energia elosztói alapdíj (a továbbiakban: elosztói alapdíj) 0,05%-át.
+5. § (1)[^3] A 3. § (1) bekezdés k) pontjában és a 3. § (2) bekezdés a) pontjában foglalt szolgáltatásokért kért külön díj mértéke oldalanként nem haladhatja meg a Magyar Energia Hivatal határozatában megállapított, a kisfeszültségű, nem profilos villamos energia felhasználókra vonatkozó elosztói alapdíj (a továbbiakban: elosztói alapdíj) 0,05%-át.
 
 (2) A 3. § (1) bekezdés f), l) és m) pontjában, valamint a 3. § (2) bekezdés c) pontjában foglalt szolgáltatásokért kért külön díj mértéke nem haladhatja meg az elosztói alapdíj 5%-át.
 
@@ -13,3 +13,5 @@
 (7) A 3. § (1) bekezdés d) és h) pontjában foglalt szolgáltatásokért kért külön díj mértéke nem haladhatja meg az elosztói alapdíj 30%-át.
 
 (8) Az (1)–(7) bekezdés szerinti díjak az általános forgalmi adó összegét nem tartalmazzák.
+
+[^3]: Az 5. § (1) bekezdése a 83/2011. (XII. 29.) NFM rendelet 5. §-ával megállapított szöveg.
