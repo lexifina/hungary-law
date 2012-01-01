@@ -36,10 +36,10 @@ g) feltételezhetően a 4. számú melléklet 3.5.2. és 3.6.2. pontjaiban felso
 
 3. A várhatóan érintett terület értékes, illetve sérülékeny, mert
 
-a) a környezeti elemek, rendszerek[^10] vagy a kulturális örökség szempontjából különleges;
+a) a környezeti elemek, rendszerek[^11] vagy a kulturális örökség szempontjából különleges;
 
 b) a területen a környezetvédelmi határértékeket [Kvt. 4. § s), t), u) pontjai] elérő vagy azt meghaladó igénybevétel, kibocsátás, illetve szennyezettség van;
 
 c) a terület hasznosítása, használata intenzív (mint pl. intenzív mezőgazdasági, erdőgazdasági termesztés, termelés, sűrűn beépített terület stb.).
 
-[^10]: A 4. számú melléklet 3.6.1.1. és 3.6.1.2. pontjai szerint.
+[^11]: A 4. számú melléklet 3.6.1.1. és 3.6.1.2. pontjai szerint.
