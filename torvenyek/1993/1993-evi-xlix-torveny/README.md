@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-49-00-00
 | 2010-04-01 | 2010. évi VII. törvény | 1993-49-00-00.15 |
 | 2010-07-01 | 2010. évi VII. törvény | 1993-49-00-00.16 |
 | 2011-01-01 | 2010. évi CXXX. törvény | 1993-49-00-00.17 |
+| 2012-01-01 | 2011. évi CCI. törvény | 1993-49-00-00.18 |

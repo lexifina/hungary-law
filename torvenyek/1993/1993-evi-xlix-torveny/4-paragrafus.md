@@ -4,7 +4,7 @@ a) amelyet a Magyar Honvédség használ fel vagy saját felhasználásra tartal
 
 b) azon mennyiség után, amelyet az e törvényben előírt készletezési kötelezettség teljesítése céljából hoznak be,
 
-c) amelyet más állam készletezési céllal a Magyar Köztársaság területén tárol,
+c) amelyet más állam készletezési céllal Magyarország területén tárol,
 
 d) amelyet az Észak-atlanti Szerződés tagállamai és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részt vevő államai Magyarországon tartózkodó fegyveres erői és polgári állománya által a szolgálati járművek, légijárművek és hajók üzemanyagaként használnak fel vagy saját felhasználásra tartalékolnak,
 
