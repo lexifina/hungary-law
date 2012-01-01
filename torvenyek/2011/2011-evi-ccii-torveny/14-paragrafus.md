@@ -1,0 +1,1 @@
+14. § A Magyar Szent István Rend (a továbbiakban: Szent István Rend) – a Mária Terézia magyar királynő által 1764. május 5-én alapított Szent István Rend megújításaként – Magyarország érdekében tett legkiemelkedőbb különleges érdemek, kimagasló életművek, nemzetközi téren szerzett jelentős értékek elismerésére szolgál.
