@@ -1,0 +1,1 @@
+A Kormány a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 17. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében foglalt feladatkörében eljárva a következő rendeletet alkotja:
