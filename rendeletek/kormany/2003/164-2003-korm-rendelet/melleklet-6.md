@@ -66,6 +66,6 @@
 
 | Eredet1: lakossági települési = L, termelői/intézményi települési = T, egyéb termelői = M, import = I |
 
-6. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^33]
+6. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^35]
 
-[^33]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú mellékletet a 78/2007. (IV. 24.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte, újonnan a 194/2007. (VII. 25.) Korm. rendelet 9. § (3) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 10. § (2)–(4) bekezdését.
+[^35]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú mellékletet a 78/2007. (IV. 24.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte, újonnan a 194/2007. (VII. 25.) Korm. rendelet 9. § (3) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 10. § (2)–(4) bekezdését.

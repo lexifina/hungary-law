@@ -70,6 +70,6 @@
 
 | Típus1: előkezelő = E, begyűjtő = B, hasznosító/ártalmatlanító = K, export = P |
 
-4. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^31]
+4. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^33]
 
-[^31]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 4. számú melléklet a 313/2005. (XII. 25.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^33]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 4. számú melléklet a 313/2005. (XII. 25.) Korm. rendelet 11. §-ával megállapított szöveg.

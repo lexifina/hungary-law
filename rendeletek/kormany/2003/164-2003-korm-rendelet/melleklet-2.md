@@ -90,7 +90,7 @@
 
 ## A technológia leírása, kapacitása
 
-## A technológia anyagmérlege a külön jogszabályban[^27] előírt tartalommal
+## A technológia anyagmérlege a külön jogszabályban[^29] előírt tartalommal
 
 ## A keletkezett félkész és/vagy késztermékek termelési adatai
 
@@ -112,7 +112,7 @@
 
 ## Minden hulladékmozgáshoz rögzíteni kell annak időpontját
 
-## 4.[^28] Az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról szóló 166/2006/EK (2006. január 18.) Európai Parlamenti és Tanácsi rendelet hatálya alá tartozó környezethasználónak (üzemeltetőnek) az alábbi nyilvántartási kötelezettsége van veszélyes és nem veszélyes hulladék esetében egyaránt.
+## 4.[^30] Az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról szóló 166/2006/EK (2006. január 18.) Európai Parlamenti és Tanácsi rendelet hatálya alá tartozó környezethasználónak (üzemeltetőnek) az alábbi nyilvántartási kötelezettsége van veszélyes és nem veszélyes hulladék esetében egyaránt.
 
 ## a) Általános adatok:
 
@@ -138,8 +138,8 @@
 
 ## A hasznosító/ártalmatlanító neve, címe és a szállítmányt befogadó tényleges hasznosító/ártalmatlanító telephely címe (megjelölve az országkódot)
 
-2. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^29]
+2. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^31]
 
-[^27]: 98/2001. (VI. 15.) Korm. rendelet a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről.
-[^28]: Az 1. számú melléklet 4. pontját a 194/2007. (VII. 25.) Korm. rendelet 9. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 10. § (2)–(4) bekezdését.
-[^29]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 194/2007. (VII. 25.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^29]: 98/2001. (VI. 15.) Korm. rendelet a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről.
+[^30]: Az 1. számú melléklet 4. pontját a 194/2007. (VII. 25.) Korm. rendelet 9. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 10. § (2)–(4) bekezdését.
+[^31]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 194/2007. (VII. 25.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.

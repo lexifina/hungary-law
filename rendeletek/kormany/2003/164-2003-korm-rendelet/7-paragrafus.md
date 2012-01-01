@@ -2,7 +2,7 @@
 
 ## Az adatszolgáltatás szabályai
 
-7. § (1)[^10] Rendszeres adatszolgáltatásra telephelyenként – a szállító kivételével – a hulladék kezelője, továbbá az a termelő kötelezett, amely esetében a gazdálkodó szervezetnél foglalkoztatottak száma eléri a 10 főt, vagy a tárgyévben a telephelyen keletkezett (birtokolt) hulladékok összes mennyisége meghaladja
+7. § (1)[^12] Rendszeres adatszolgáltatásra telephelyenként – a szállító kivételével – a hulladék kezelője, továbbá az a termelő kötelezett, amely esetében a gazdálkodó szervezetnél foglalkoztatottak száma eléri a 10 főt, vagy a tárgyévben a telephelyen keletkezett (birtokolt) hulladékok összes mennyisége meghaladja
 
 a) veszélyes hulladék esetében a 200 kg-ot, vagy
 
@@ -18,4 +18,4 @@ b) a hulladék begyűjtője vagy előkezelője a 4. számú melléklet,
 
 c) a hulladék hasznosítója vagy ártalmatlanítója az 5. számú melléklet
 
-[^10]: A 7. § (1) bekezdése a 313/2005. (XII. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^12]: A 7. § (1) bekezdése a 313/2005. (XII. 25.) Korm. rendelet 4. §-ával megállapított szöveg.

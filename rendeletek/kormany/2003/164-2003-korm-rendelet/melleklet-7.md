@@ -36,6 +36,6 @@
 
 ## Megjegyzés: az országkódok kitöltésénél az ISO 3166 szabvány szerinti rövidítéseket kell alkalmazni.
 
-7. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^34]
+7. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^36]
 
-[^34]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 7. számú mellékletet a 78/2007. (IV. 24.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte.
+[^36]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 7. számú mellékletet a 78/2007. (IV. 24.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte.

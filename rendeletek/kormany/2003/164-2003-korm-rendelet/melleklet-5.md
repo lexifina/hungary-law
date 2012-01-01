@@ -90,6 +90,6 @@
 
 | Eredet1: lakossági települési = L, termelői települési = T, egyéb termelői = M, import = I |
 
-5. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^32]
+5. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^34]
 
-[^32]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 313/2005. (XII. 25.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^34]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 313/2005. (XII. 25.) Korm. rendelet 11. §-ával megállapított szöveg.

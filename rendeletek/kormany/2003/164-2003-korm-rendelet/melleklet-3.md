@@ -60,6 +60,6 @@
 
 ## Beérkezési határidő: a tárgyévet követő év március 1., veszélyes hulladék kezelés esetén a tárgynegyedévet követő 8. munkanap.
 
-3. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^30]
+3. számú melléklet a 164/2003. (X. 18.) Korm. rendelethez[^32]
 
-[^30]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 3. számú melléklet a 313/2005. (XII. 25.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^32]: A melléklet számozása a Magyar Közlöny 2003. évi 130. számában megjelent helyesbítésnek megfelelő szöveg. A 3. számú melléklet a 313/2005. (XII. 25.) Korm. rendelet 11. §-ával megállapított szöveg.
