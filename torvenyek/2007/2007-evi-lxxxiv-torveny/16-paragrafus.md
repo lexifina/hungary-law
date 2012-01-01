@@ -1,7 +1,0 @@
-16. § (1) Az állami foglalkoztatási szerv a rehabilitációval összefüggő tevékenysége érdekében a 15. §-ban meghatározott, valamint a rehabilitációs járadékban részesülő keresetére, jövedelemére vonatkozó adatokat kezelheti.
-
-(2) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az adóhatóság, a munkaügyi hatóság, a bányafelügyelet, a nyugdíjbiztosítási igazgatási szerv, a rehabilitációs szakértői szerv, a szociális hatáskört gyakorló szerv, a gyermekvédelmi és gyámügyi feladatokat ellátó szerv, az egészségbiztosítási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény feladatai ellátása érdekében a 14. §, a 15. § a)–d) és f)–i) pontjai szerinti, valamint az (1) bekezdésben meghatározott keresetre, jövedelemre vonatkozó adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A 15. § j) pontja szerinti adatok továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény rendelkezéseit kell alkalmazni.
-
-(3) Az e törvény felhatalmazása alapján kezelt adatok statisztikai célra felhasználhatók, és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
-
-(4) Az egészségügyi adatok kezelésére és az adatok védelmére egyebekben az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezései az irányadók.
