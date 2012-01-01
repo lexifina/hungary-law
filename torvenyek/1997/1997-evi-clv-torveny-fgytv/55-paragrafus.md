@@ -12,7 +12,7 @@ d) az üzleten kívül fogyasztóval kötött szerződésekre,
 
 e) a távollevők között létrejött szerződésekre,
 
-f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és felhasználására, valamint a külön jogszabályok alapján az eljáró hatóságot megillető eljárási költség felhasználására, továbbá a fogyasztói érdekek képviseletét ellátó egyesületeknek a fogyasztóvédelmi bírság meghatározott arányában történő támogatására,
+f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és a jogszabály alapján az eljáró hatóságot megillető eljárási költség felhasználására,
 
 g) a békéltető testületi tagok díjazására,
 
@@ -22,9 +22,9 @@ i) a békéltető testületi tagok kijelölésére, valamint a 21. § (4) bekezd
 
 j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének végrehajtása céljából a fogyasztói érdekek képviseletét ellátó egyesületeknek az irányelv 4. cikk (3) bekezdésében meghatározott jegyzékre való felkerülése céljából lefolytatandó eljárásra,
 
-k) az Európai Fogyasztói Központok Hálózatában való részvételre
+k) az Európai Fogyasztói Központok Hálózatában való részvételre,
 
-l)
+l) a fogyasztói csoportok szervezésére és működésére, valamint a fogyasztói csoportokkal kapcsolatos fogyasztóvédelmi hatósági feladatok ellátását végző szerv kijelölésére, annak feladat- és hatáskörére,
 
 vonatkozó részletes szabályokat rendelettel meghatározza.
 

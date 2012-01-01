@@ -8,7 +8,7 @@
 
 (5) Az elnök a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának és a 23/A. § szerinti lista egyidejű megküldésével kellő időben előzetesen értesíti, azzal a felhívással, hogy az eljáró tanács általuk jelölhető tagjára vonatkozó javaslatukat legkésőbb az értesítés részükre történt kézbesítésétől számított nyolc napon belül tegyék meg, ellenkező esetben a kijelölésről a békéltető testület elnöke hivatalból gondoskodik.
 
-(6) A 25. § (3) bekezdése szerinti esetben az elnök az értesítésben közli a felekkel a kijelölt eljáró testületi tag személyét, egyben köteles felhívni a felek figyelmét arra, hogy a 25. § (3) bekezdésében meghatározottak szerint nyolc napon belül kérhetik, hogy a testület háromtagú tanácsban járjon el.
+(6) A 25. § (4) bekezdése szerinti esetben az elnök az értesítésben közli a felekkel a kijelölt eljáró testületi tag személyét, egyben köteles felhívni a felek figyelmét arra, hogy a 25. § (4) bekezdésében meghatározottak szerint nyolc napon belül kérhetik, hogy a testület háromtagú tanácsban járjon el.
 
 (7) Az elnök a körülmények mérlegelése alapján kezdeményezheti az eljárás írásbeli lefolytatását, a meghallgatás mellőzéséhez azonban mindkét fél hozzájárulását be kell szereznie.
 

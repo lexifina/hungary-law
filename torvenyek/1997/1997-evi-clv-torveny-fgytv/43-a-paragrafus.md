@@ -26,6 +26,6 @@ k) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott 
 
 (2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról szóló 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Közösségen belüli jogsértések tekintetében.
 
-(3) A fogyasztóvédelmi hatóság végzi a Magyar Köztársaságban – összekötő hivatalként – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának összehangolását.
+(3) A fogyasztóvédelmi hatóság végzi Magyarországon – összekötő hivatalként – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának összehangolását.
 
 (4) A kölcsönös jogsegély során a fogyasztóvédelmi hatóság a – 2008/282/EK bizottsági határozattal módosított – 2007/76/EK bizottsági határozatnak megfelelően jár el.

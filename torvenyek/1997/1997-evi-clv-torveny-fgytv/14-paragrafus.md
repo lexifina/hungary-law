@@ -6,7 +6,7 @@
 
 (3) Az eladási árat, az egységárat, illetve a szolgáltatás díját egyértelműen, könnyen azonosíthatóan és tisztán olvashatóan kell feltüntetni.
 
-(4) Az eladási árat és az egységárat, illetve – határon átnyúló szolgáltatásnyújtás kivételével – a szolgáltatás díját a Magyar Köztársaság törvényes fizetőeszközében kifejezve fel kell tüntetni.
+(4) Az eladási árat és az egységárat, illetve – határon átnyúló szolgáltatásnyújtás kivételével – a szolgáltatás díját Magyarország törvényes fizetőeszközében kifejezve fel kell tüntetni.
 
 (5) A termék eladási áraként és egységáraként, illetve a szolgáltatás díjaként a fogyasztó által ténylegesen fizetendő, az általános forgalmi adót és egyéb kötelező terheket is tartalmazó árat kell feltüntetni.
 

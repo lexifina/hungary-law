@@ -22,7 +22,9 @@ g) szolgáltatás: termék, ingatlan vagy vagyoni értékű jog értékesítés�
 
 h) közüzemi szolgáltatás: külön törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozó vállalkozás által e kötelezettség alapján nyújtott közszolgáltatás,
 
-i)–k)
+i) fogyasztói csoport: a szervezők – díjazás ellenében történő – közreműködésével a csoport tagjai pénzének összegyűjtésén alapuló minden olyan csoport, amelynek célja, hogy minden tagja az általa előre meghatározott dolog tulajdonjogát a tagok befizetéseiből, előre meghatározott időtartamon belül – véletlenszerű vagy többletfeltételek vállalásától függő kiválasztás útján – a csoport segítségével megszerezze,
+
+j)–k)
 
 l) áru: a termék, az ingatlan és a vagyoni értékű jog, valamint a szolgáltatás,
 
