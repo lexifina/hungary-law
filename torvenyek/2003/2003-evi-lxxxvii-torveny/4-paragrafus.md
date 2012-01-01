@@ -10,6 +10,8 @@ b) komp- és révközlekedést
 
 nyújt, amelyhez jogszabály utazási kedvezményt állapít meg.
 
+(1a) Az (1) bekezdésben meghatározott tevékenység után az árkiegészítést az autóbusszal végzett menetrend szerinti közlekedésről szóló törvényben, valamint a vasúti közlekedésről szóló törvényben meghatározott közlekedésszervező is igényelheti, ha jogszabály az árkiegészítés igénylésével kapcsolatos feladatokat az (1) bekezdésben meghatározott személyek és a közlekedésszervező között osztja meg.
+
 (2) Nem vehető igénybe árkiegészítés azon utazási kedvezmény után,
 
 a) amelynek pénzügyi fedezetére jogszabály más forrást határoz meg.

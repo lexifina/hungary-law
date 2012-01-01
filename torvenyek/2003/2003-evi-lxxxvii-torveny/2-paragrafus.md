@@ -1,1 +1,1 @@
-2. § E törvény alkalmazásában belföldön történő szolgáltatásnyújtás a személyszállítás útvonalának a Magyar Köztársaság területére eső része.
+2. § E törvény alkalmazásában belföldön történő szolgáltatásnyújtás a személyszállítás útvonalának Magyarország területére eső része.

@@ -4,13 +4,13 @@
 
 Az egyes kategóriák szerint igénybe vehető fogyasztói árkiegészítés tételek
 
+Az egyes kategóriák szerint igénybe vehető fogyasztói árkiegészítés tételek
+
 |
 
-1. utazási kedvezmény, vasúti és távolsági autóbusz menetjegy
+1. utazási kedvezmény, vasúti és távolsági autóbusz menetjegy (TESZOR 49.31.10 és 49.10.19, beleértve
 
-(SZJ 60.21.10.9 és 60.10.1, beleértve HÉV-közlekedés, kivéve járműszállítás a 60.10.12.0-ból, SZJ 60.21.41.0, SZJ 60.21.31.3)
-
-Ft/5 km/db
+HÉV-közlekedés, kivéve járműszállítás a 49.10.19.-ből, TESZOR 49.39.11, TESZOR 49.31.21)
 
 |
 
@@ -18,25 +18,19 @@ km
 
 |
 
+Ft/5 km/db
+
 |
 
 0–5
 
 |
 
-45
+34
 
 |
 
 5,1–10
-
-|
-
-37
-
-|
-
-10,1–50
 
 |
 
@@ -44,31 +38,7 @@ km
 
 |
 
-50,1–100
-
-|
-
-27
-
-|
-
-100,1–200
-
-|
-
-26
-
-|
-
-200,1–300
-
-|
-
-24
-
-|
-
-300,1–500
+10,1–50
 
 |
 
@@ -76,7 +46,7 @@ km
 
 |
 
-500,1–
+50,1–100
 
 |
 
@@ -84,57 +54,11 @@ km
 
 |
 
-2. utazási kedvezmény, vasúti és távolsági autóbusz menetjegy
-
-(SZJ 60.21.10.9 és 60.10.1, beleértve HÉV-közlekedés, kivéve járműszállítás a 60.10.12.0-ból, SZJ 60.21.41.0, SZJ 60.21.31.3)
-
-Ft/5 km/db
-
-|
-
-km
-
-|
-
-|
-
-0–5
-
-|
-
-83
-
-|
-
-5,1–10
-
-|
-
-68
-
-|
-
-10,1–50
-
-|
-
-52
-
-|
-
-50,1–100
-
-|
-
-51
-
-|
-
 100,1–200
 
 |
 
-50
+20
 
 |
 
@@ -142,7 +66,7 @@ km
 
 |
 
-46
+18
 
 |
 
@@ -150,7 +74,7 @@ km
 
 |
 
-40
+16
 
 |
 
@@ -158,19 +82,15 @@ km
 
 |
 
-35
+15
 
 |
 
-3.
-
 |
 
-4. utazási kedvezmény, vasúti és távolsági autóbusz bérlet
+2. utazási kedvezmény, vasúti és távolsági autóbusz menetjegy (TESZOR 49.31.10 és 49.10.19, beleértve
 
-(SZJ 60.21.10.9 és 60.10.1, beleértve HÉV-közlekedés, kivéve járműszállítás a 60.10.12.0-ból, SZJ 60.21.41.0)
-
-Ft/5 km/hó/db
+HÉV-közlekedés, kivéve járműszállítás a 49.10.19.-ből, TESZOR 49.39.11, TESZOR 49.31.21)
 
 |
 
@@ -178,13 +98,15 @@ km
 
 |
 
+Ft/5 km/db
+
 |
 
 0–5
 
 |
 
-3 465
+62
 
 |
 
@@ -192,7 +114,87 @@ km
 
 |
 
-2 772
+51
+
+|
+
+10,1–50
+
+|
+
+39
+
+|
+
+50,1–100
+
+|
+
+38
+
+|
+
+100,1–200
+
+|
+
+38
+
+|
+
+200,1–300
+
+|
+
+35
+
+|
+
+300,1–500
+
+|
+
+30
+
+|
+
+500,1–
+
+|
+
+26
+
+|
+
+|
+
+3. utazási kedvezmény, vasúti és távolsági autóbusz bérlet (TESZOR 49.31.10 és 49.10.19, beleértve
+
+HÉV-közlekedés, kivéve járműszállítás a 49.10.19.-ből, TESZOR 49.39.11)
+
+|
+
+km
+
+|
+
+Ft/5 km/hó/db
+
+|
+
+0–5
+
+|
+
+2599
+
+|
+
+5,1–10
+
+|
+
+2079
 
 |
 
@@ -200,7 +202,7 @@ km
 
 |
 
-2 310
+1733
 
 |
 
@@ -208,7 +210,7 @@ km
 
 |
 
-2 118
+1589
 
 |
 
@@ -216,7 +218,7 @@ km
 
 |
 
-2 110
+1583
 
 |
 
@@ -224,7 +226,7 @@ km
 
 |
 
-2 105
+1579
 
 |
 
@@ -232,7 +234,7 @@ km
 
 |
 
-2 101
+1576
 
 |
 
@@ -240,7 +242,7 @@ km
 
 |
 
-2 098
+1574
 
 |
 
@@ -248,7 +250,7 @@ km
 
 |
 
-2 096
+1572
 
 |
 
@@ -256,7 +258,7 @@ km
 
 |
 
-2 094
+1571
 
 |
 
@@ -264,7 +266,7 @@ km
 
 |
 
-2 092
+1569
 
 |
 
@@ -272,7 +274,7 @@ km
 
 |
 
-2 101
+1576
 
 |
 
@@ -280,7 +282,7 @@ km
 
 |
 
-2 098
+1574
 
 |
 
@@ -288,7 +290,7 @@ km
 
 |
 
-2 096
+1572
 
 |
 
@@ -296,7 +298,7 @@ km
 
 |
 
-2 094
+1571
 
 |
 
@@ -304,7 +306,7 @@ km
 
 |
 
-2 066
+1550
 
 |
 
@@ -312,7 +314,7 @@ km
 
 |
 
-2 041
+1531
 
 |
 
@@ -320,7 +322,7 @@ km
 
 |
 
-2 002
+1502
 
 |
 
@@ -328,7 +330,7 @@ km
 
 |
 
-1 978
+1484
 
 |
 
@@ -336,7 +338,7 @@ km
 
 |
 
-1 944
+1458
 
 |
 
@@ -344,7 +346,7 @@ km
 
 |
 
-1 908
+1431
 
 |
 
@@ -352,7 +354,7 @@ km
 
 |
 
-1 893
+1420
 
 |
 
@@ -360,7 +362,7 @@ km
 
 |
 
-1 851
+1388
 
 |
 
@@ -368,7 +370,7 @@ km
 
 |
 
-1 829
+1372
 
 |
 
@@ -376,7 +378,7 @@ km
 
 |
 
-1 797
+1348
 
 |
 
@@ -384,7 +386,7 @@ km
 
 |
 
-1 727
+1295
 
 |
 
@@ -392,7 +394,7 @@ km
 
 |
 
-1 646
+1235
 
 |
 
@@ -400,7 +402,7 @@ km
 
 |
 
-1 574
+1181
 
 |
 
@@ -408,7 +410,7 @@ km
 
 |
 
-1 502
+1127
 
 |
 
@@ -416,11 +418,17 @@ km
 
 |
 
-1 428
+1071
 
 |
 
-5. utazási kedvezmény, helyi bérlet (SZJ 60.21.31-ből és 60.21.10-ből)
+|
+
+4. utazási kedvezmény, helyi bérlet (TESZOR 49.31.21-ből és 49.31.10-ből)
+
+|
+
+|
 
 Ft/hó/db
 
@@ -488,11 +496,15 @@ Egyéb településekre (autóbuszra)
 
 |
 
-6. utazási kedvezmény, ezen belül:
+|
+
+5. utazási kedvezmény, ezen belül:
 
 |
 
-Komp- (SZJ 61.20.11-ből) és a révközlekedési (SZJ 61.20.12-ből) menetjegy
+|
+
+Komp- (TESZOR 50.30.11-ből) és a révközlekedési (TESZOR 50.30.12-ből) menetjegy
 
 |
 
@@ -500,7 +512,7 @@ Komp- (SZJ 61.20.11-ből) és a révközlekedési (SZJ 61.20.12-ből) menetjegy
 
 |
 
-Komp- (SZJ 61.20.11-ből) és a révközlekedési (SZJ 61.20.12-ből) bérlet
+Komp- (TESZOR 50.30.11-ből) és a révközlekedési (TESZOR 50.30.12-ből) bérlet
 
 |
 
