@@ -16,10 +16,11 @@ f) új munkahelyek megteremtése, meglévő munkahelyek megőrzése;
 
 g) a vidékfejlesztés, továbbá a vidéki infrastruktúra, illetve a falusi lakosság munkalehetőségeinek és életkörülményeinek javítása;
 
-h)[^6] az európai uniós tagság nemzetgazdasági feltételeinek kiteljesítése, a piaci, a gazdasági és az intézményi harmonizáció megerősítése.
+h)[^7] az európai uniós tagság nemzetgazdasági feltételeinek kiteljesítése, a piaci, a gazdasági és az intézményi harmonizáció megerősítése.
 
 (2) Támogatás ahhoz a programhoz vagy projekthez nyújtható, amely az (1) bekezdésben meghatározott célok megvalósítását, szempontok érvényesülését ösztönzi, és a pályázó személyi és tárgyi feltételeinek ismeretében, továbbá a megvalósítási és az üzleti tervhez kapcsolódó gazdasági számítások alapján a program vagy projekt nagy valószínűséggel hosszabb távon életképesnek bizonyul.
 
-(3) A támogatások nyújtására irányuló pályázati felhívásokban, a támogatások jogcímei tekintetében, továbbá a pályázatok kezelése, elbírálása, a szerződéskötés és ellenőrzés, valamint a célelőirányzatok forrásainak felhasználása során biztosítani kell a pályázati programok átláthatóságát, továbbá a támogatások hatályos jogszabályokkal és a Magyar Köztársaság nemzetközi szerződésekben vállalt kötelezettségeivel való összhangját.
+(3)[^8] A támogatások nyújtására irányuló pályázati felhívásokban, a támogatások jogcímei tekintetében, továbbá a pályázatok kezelése, elbírálása, a szerződéskötés és ellenőrzés, valamint a célelőirányzatok forrásainak felhasználása során biztosítani kell a pályázati programok átláthatóságát, továbbá a támogatások hatályos jogszabályokkal és Magyarország nemzetközi szerződésekben vállalt kötelezettségeivel való összhangját.
 
-[^6]: A 2. § (1) bekezdésének h) pontja a 2/2005. (II. 18.) TNM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 2. § (1) bekezdésének h) pontja a 2/2005. (II. 18.) TNM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 2. § (3) bekezdése a 91/2011. (XII. 30.) NFM rendelet 30. §-a szerint módosított szöveg.

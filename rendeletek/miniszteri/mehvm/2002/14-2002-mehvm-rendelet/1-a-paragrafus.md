@@ -1,6 +1,6 @@
-## Értelmező rendelkezések[^4]
+## Értelmező rendelkezések[^5]
 
-## 1/A. §[^5] E rendelet alkalmazásában
+## 1/A. §[^6] E rendelet alkalmazásában
 
 1. állami támogatás: az Európai Közösséget létrehozó Szerződés 87. cikk (1) bekezdése szerinti támogatás, valamint a Korm. rendelet 1. § 5. pontja szerinti csekély összegű támogatás,
 
@@ -54,5 +54,5 @@
 
 26. újonnan létesített munkahelyek száma: egy meghatározott létesítményben közvetlenül alkalmazottak számának nettó növekménye a kérelem benyújtását megelőző 12 hónap átlagával összehasonlítva.
 
-[^4]: Az 1/A. §-t megelőző alcímet a 2/2007. (I. 31.) ÖTM rendelet 1. §-a iktatta be.
-[^5]: Az 1/A. §-t a 2/2007. (I. 31.) ÖTM rendelet 1. §-a iktatta be, szövege a 18/2009. (IV. 2.) ÖM rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1/A. §-t megelőző alcímet a 2/2007. (I. 31.) ÖTM rendelet 1. §-a iktatta be.
+[^6]: Az 1/A. §-t a 2/2007. (I. 31.) ÖTM rendelet 1. §-a iktatta be, szövege a 18/2009. (IV. 2.) ÖM rendelet 1. §-ával megállapított szöveg.
