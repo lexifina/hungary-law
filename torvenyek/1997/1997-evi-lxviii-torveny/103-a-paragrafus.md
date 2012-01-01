@@ -1,6 +1,6 @@
 103/A. § (1) Az igazságügyi alkalmazott alapilletménye nem lehet kevesebb
 
-a) a Legfelsőbb Bíróság és az OIT Hivatalának alkalmazottja esetén a Ktv. 44. § (1) bekezdésében meghatározott központi közigazgatási szerveknél,
+a) a Kúria és az OBH alkalmazottja esetén a Ktv. 44. § (1) bekezdésében meghatározott központi közigazgatási szerveknél,
 
 b) az egyéb igazságügyi szerv alkalmazottja esetén a Ktv. 44. § (2) bekezdésében meghatározott központi közigazgatási szerveknél,
 

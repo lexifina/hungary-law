@@ -6,7 +6,7 @@
 
 11. § (1) A szolgálati viszony kinevezéssel és annak elfogadásával jön létre.
 
-(2) Igazságügyi alkalmazottnak – a (3) bekezdésben meghatározott kivétellel – az a tizennyolcadik életévét betöltött, választójoggal rendelkező magyar állampolgár nevezhető ki, aki a munkakörére meghatározott iskolai végzettséggel és szakképzettséggel (a továbbiakban: képesítés) rendelkezik.
+(2) Igazságügyi alkalmazottnak – a (3) bekezdésben meghatározott kivétellel – az a tizennyolcadik életévét betöltött, cselekvőképes magyar állampolgár nevezhető ki, aki a munkakörére meghatározott iskolai végzettséggel és szakképzettséggel (a továbbiakban: képesítés) rendelkezik.
 
 (3) Igazságügyi szakértőnek, szakértőjelöltnek, – a bírósági jegyzőkönyvvezető és a cégszerkesztő kivételével – írnoknak és fizikai dolgozónak azt a tizennyolcadik életévét betöltött, a munkakörére meghatározott képesítéssel rendelkező személyt lehet kinevezni, aki
 

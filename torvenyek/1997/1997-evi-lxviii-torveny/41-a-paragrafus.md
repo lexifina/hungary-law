@@ -1,4 +1,4 @@
-41/A. § (1) A helyi bíróság hatáskörébe tartozó, törvény által meghatározott ügyben egyesbíró hatáskörében eljárásra jogosult bírósági titkárokat (a továbbiakban: kijelölt titkár) – a helyi bíróság elnökének javaslatára – a megyei bíróság elnöke jelöli ki. A kijelölésben meg kell határozni, hogy az mely ügyek körére vonatkozik.
+41/A. § (1) Törvény által meghatározott ügyben egyesbíró hatáskörében eljárásra jogosult bírósági titkárokat (a továbbiakban: kijelölt titkár) a törvényszék elnöke jelöli ki. A járásbíróságnál működő titkárok esetében a törvényszék elnöke a járásbíróság elnökének javaslatára dönt a kijelölésről. A kijelölésben meg kell határozni, hogy az mely ügyek körére vonatkozik.
 
 (2) A kijelölt titkár a kijelölését követő 30 napon belül a bírák jogállásáról és javadalmazásáról szóló törvényben foglalt módon vagyonnyilatkozatot köteles tenni. Ha a kijelölt titkár
 

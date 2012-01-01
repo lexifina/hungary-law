@@ -6,9 +6,9 @@
 
 a)
 
-b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OIT Hivatalára és a bíróságokra vonatkozóan az OIT véleményének kikérésével egyetértésével –,
+b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével –,
 
-c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OIT véleményének kikérésével,
+c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OBH elnöke véleményének kikérésével,
 
 d) az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
 

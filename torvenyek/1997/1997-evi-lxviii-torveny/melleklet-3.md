@@ -8,7 +8,9 @@ Fizetési osztály
 
 |
 
-Fizetési fokozatok és a szorzószámok, az illetményalap = 1
+Fizetési fokozatok és a szorzószámok
+
+(az illetményalap = 1)
 
 |
 
@@ -28,43 +30,27 @@ Fizetési fokozatok és a szorzószámok, az illetményalap = 1
 
 |
 
-I. osztály
-
-bírósági
-
-titkár
+I. osztály: bírósági titkár
 
 |
 
-0,70
-
-0–3 év
+0,7 (0–2 év)
 
 |
 
-0,75
-
-4–6 év
+0,8 (3–4 év)
 
 |
 
-0,80
-
-7–9 év
+0,9 (5–6 év)
 
 |
 
-0,90
-
-10 évtől
+1 (7 évtől)
 
 |
 
-II. osztály
-
-bírósági
-
-fogalmazó
+II. osztály: bírósági fogalmazó
 
 |
 

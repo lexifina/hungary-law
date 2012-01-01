@@ -1,4 +1,4 @@
-13. § (1) Bírósági fogalmazónak az az egyetemi állam- és jogtudományi diplomával rendelkező személy nevezhető ki, aki az OIT Hivatala által lebonyolított felvételi versenyvizsgát sikeresen letette. Bírósági titkárnak jogi szakvizsgával rendelkező személy nevezhető ki. A titkári kinevezés előtt bírói pályaalkalmassági vizsgálaton kell részt venni. A katonai tanácsoknál működő bírósági fogalmazókat elsősorban a Magyar Honvédség ösztöndíjasai közül kell kinevezni.
+13. § (1) Bírósági fogalmazónak az az egyetemi állam- és jogtudományi diplomával rendelkező személy nevezhető ki, aki az OBH elnöke által lebonyolított felvételi versenyvizsgát sikeresen letette. Bírósági titkárnak jogi szakvizsgával rendelkező személy nevezhető ki. A titkári kinevezés előtt bírói pályaalkalmassági vizsgálaton kell részt venni. A katonai tanácsoknál működő bírósági fogalmazókat elsősorban a Magyar Honvédség ösztöndíjasai közül kell kinevezni.
 
 (2)
 
@@ -16,4 +16,4 @@ szükséges.
 
 (6) A munkáltató a munkakörre előírt szakvizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
 
-(7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is – a miniszter – a bíróságok és az OIT Hivatala képesítési követelményei esetében az Országos Igazságszolgáltatási Tanács véleményének kikérésével – rendeletben határozza meg.
+(7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is – a miniszter – a bíróságok és az OBH képesítési követelményei esetében az OBH elnöke véleményének kikérésével – rendeletben határozza meg.

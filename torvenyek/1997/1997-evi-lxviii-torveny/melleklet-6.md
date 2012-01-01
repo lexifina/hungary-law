@@ -6,7 +6,7 @@ Vezetői pótlékok (az illetményalap = 1)
 
 ______________________________
 
-1. Az OIT Hivatalának vezetőhelyettese 0,60
+1.
 
 2. Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese – 0,40–0,60
 

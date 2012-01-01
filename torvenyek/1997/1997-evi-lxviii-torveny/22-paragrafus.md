@@ -20,6 +20,6 @@ e) a beteg gyermek ápolására táppénzes állományba helyezés, valamint a k
 
 f) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az örökbe fogadni szándékozó igazságügyi alkalmazottat – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás ideje.
 
-(3) Ha az alkalmatlanság egészségügyi ok következménye és az igazságügyi alkalmazott rokkantsági nyugellátásra nem szerzett jogosultságot, a szolgálati viszony csak akkor szüntethető meg, ha részére az egészségi állapotának és a 18. § (2) bekezdésében foglaltaknak megfelelő más munkakört nem ajánlottak fel, vagy a megfelelő új munkakört nem fogadta el.
+(3) Ha az alkalmatlanság egészségügyi ok következménye, a szolgálati viszony csak akkor szüntethető meg, ha részére az egészségi állapotának és a 18. § (2) bekezdésében foglaltaknak megfelelő más munkakört nem ajánlottak fel, vagy a megfelelő új munkakört nem fogadta el.
 
 (4) Ha az egészségügyi alkalmatlanságra okot adó körülmény felmerülése esetén az igazságügyi alkalmazott a munkáltató által elrendelt orvosi vizsgálaton nem vesz részt, ezt úgy kell tekinteni, hogy alkalmatlanságát nem vitatja.

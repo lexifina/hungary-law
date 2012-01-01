@@ -1,6 +1,6 @@
 ## Az elektronikus aláírási jog
 
-35/A. § (1) Az igazságügyi alkalmazott az igazságügyi szerv döntésétől függően fokozott biztonságú vagy minősített – hivatali – elektronikus aláírásával látja el a hatáskörébe vagy munkakörébe tartozó ügyben készült elektronikus okiratot. A bíróságokkal létesített igazságügyi szolgálati viszonyban álló igazságügyi alkalmazottak vonatkozásában az igazságügyi szervet megillető jogokat és terhelő kötelezettségeket az elektronikus aláírási jogosultsággal kapcsolatos kérdésekben az OIT Hivatala gyakorolja.
+35/A. § (1) Az igazságügyi alkalmazott az igazságügyi szerv döntésétől függően fokozott biztonságú vagy minősített – hivatali – elektronikus aláírásával látja el a hatáskörébe vagy munkakörébe tartozó ügyben készült elektronikus okiratot. A bíróságokkal létesített igazságügyi szolgálati viszonyban álló igazságügyi alkalmazottak vonatkozásában az igazságügyi szervet megillető jogokat és terhelő kötelezettségeket az elektronikus aláírási jogosultsággal kapcsolatos kérdésekben az OBH elnöke gyakorolja.
 
 (2) Az igazságügyi alkalmazott a fokozott biztonságú vagy minősített elektronikus aláírással (a továbbiakban: elektronikus aláírás) kapcsolatos szolgáltatáshoz az igazságügyi szerv által megjelölt, az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eat.) szerinti elektronikus aláírással kapcsolatos szolgáltatást nyújtót (a továbbiakban: Szolgáltatót) veszi igénybe.
 
@@ -10,4 +10,4 @@
 
 (5) Az igazságügyi szerv az elektronikus aláírás hitelesítése céljából kiállított tanúsítvány visszavonását, illetve felfüggesztését az igazságügyi alkalmazott beosztásának megváltozása, szolgálati viszonyának megszűnése, illetve egyéb ok esetén a Szolgáltatónál kezdeményezi. A Szolgáltató köteles az igazságügyi szerv megkeresésére a tanúsítványt haladéktalanul visszavonni, illetve felfüggeszteni.
 
-(6) Az igazságügyi alkalmazottak elektronikus aláírásával kapcsolatos részletes igazgatási szabályokat az OIT határozza meg.
+(6) Az igazságügyi alkalmazottak elektronikus aláírásával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.

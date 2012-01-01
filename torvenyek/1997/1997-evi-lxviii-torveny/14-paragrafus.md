@@ -10,7 +10,7 @@
 
 (6) A bírósági fogalmazói állásokat nyilvános pályázat útján kell betölteni. A fogalmazói álláspályázatokat a pályázati határidő lejárta után 3 hónapon belül kell elbírálni.
 
-(7) Az OIT Hivatala a felvételi versenyvizsga letételétől számított egy évig kezeli és nyilvántartja a fogalmazói állásra pályázók
+(7) Az OBH elnöke a felvételi versenyvizsga letételétől számított egy évig kezeli és nyilvántartja a fogalmazói állásra pályázók
 
 a) nevét,
 
@@ -26,4 +26,4 @@ e) a felvételi versenyvizsga iratait és eredményét.
 
 (9) Az a pályázó, aki a pályázati feltételeknek megfelel és sikeres felvételi versenyvizsgát tett, a versenyvizsga letételétől számított egy éven belül kiírt pályázat elbírálása során nem köteles újabb versenyvizsgát tenni.
 
-(10) A bírósági fogalmazók felvételi versenyvizsgájával kapcsolatos részletes igazgatási szabályokat az OIT határozza meg.
+(10) A bírósági fogalmazók felvételi versenyvizsgájával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.
