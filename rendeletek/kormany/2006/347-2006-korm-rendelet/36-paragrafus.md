@@ -1,37 +1,45 @@
 ## Az igazgatóság feladatai
 
-## 36. § Az igazgatóság állami alaptevékenysége körében
+## 36. §[^104] Az igazgatóság állami alaptevékenysége körében
 
-a) véleményezi a kiemelt térségekre vonatkozó, a regionális, a megyei és a kistérségi területfejlesztési koncepciót és programot, a kiemelt térségek és a megyei területrendezési tervet;
+1. véleményezi a kiemelt térségekre vonatkozó, a regionális, a megyei és a kistérségi területfejlesztési koncepciót és programot, a kiemelt térségek és a megyék területrendezési tervét;
 
-b) koordinálja, illetőleg közreműködik a működési területe vízgazdálkodását érintő koncepciók és tervek elkészítésében;
+2. közreműködik
 
-c) gondoskodik a közcélú, állami és önkormányzati, továbbá saját célú vízi létesítmények fejlesztési, fenntartói, üzemeltetési összhangjának megteremtéséről;
+2.1. a vízgyűjtő-gazdálkodási terv készítésében és az intézkedési programok végrehajtásában,
 
-d) közreműködik
+2.2. a nemzetközi, különösen a határvízi egyezményekből adódó feladatok ellátásában,
 
-da) a nemzetközi, különösen a határvízi egyezményekből adódó feladatok ellátásában,
+2.3. a vízügyi kutatási, oktatási, nevelési és ismeretterjesztési tevékenységben;
 
-db) a települési ivóvízminőség-javítással, valamint a települési szennyvizek tisztításával és ártalommentes elhelyezésével kapcsolatos nemzeti és regionális programok elkészítésében,
+3. gondoskodik a közcélú, állami és önkormányzati, továbbá a saját célú vízilétesítmények fenntartói, üzemeltetési, rekonstrukciós és fejlesztési összhangjának megteremtéséről;
 
-dc) a vízügyi kutatási, oktatási, nevelési és ismeretterjesztési tevékenységben;
+4. gondoskodik az Ivóvízminőség-javító Program végrehajtásáról;
 
-e) összegyűjti és a szakterületi információs rendszerek rendelkezésére bocsátja az annak működéséhez szükséges – feladatkörével összefüggő – adatokat, továbbá együttműködik más ellenőrző és információs rendszerekkel;
+5. vízrajzi észlelőhálózatot és az annak részét képező víztest monitoringot tart fenn, üzemeltet és fejleszt, vízrajzi adatokat gyűjt és feldolgoz, a Vízgazdálkodási Információs Rendszer rendelkezésére bocsátja az annak működéséhez szükséges – feladatkörével összefüggő – és a külön jogszabályokban meghatározott egyéb adatokat;
 
-f) együttműködik
+6. együttműködik
 
-fa) a helyi önkormányzatokkal a vízgazdálkodási feladatok megoldásában, továbbá
+6.1. a helyi önkormányzatokkal a vízgazdálkodási feladatok megoldásában, továbbá
 
-fb) a vízgazdálkodási társulatokkal;
+6.2. a vízitársulatokkal;
 
-g)[^94] ellátja a vagyonkezelői feladatokat a vagyonkezelésében lévő állami tulajdonú vagyontárgyak tekintetében;
+7. ellátja a vagyonkezelői feladatokat a vagyonkezelésében lévő állami tulajdonú vagyontárgyak tekintetében;
 
-h) működteti
+8. fenntartja és üzemelteti – a feladat ellátására a vízitársulatnak át nem adott – állami tulajdonban lévő vízilétesítményeket, gondoskodik rekonstrukciójukról és fejlesztésükről;
 
-ha) külön jogszabály alapján az e feladat ellátására át nem adott kizárólagos állami tulajdonban lévő vízi létesítményeket, és
+9. végzi a vagyonkezelésében lévő állami tulajdonú vizek szabályozását, mederfenntartását, partvédelmét;
 
-hb) az állami tulajdonú felszíni vizek, vízi létesítmények kezelésének ellátásához szükséges laboratóriumokat;
+10. ellátja az egyes európai uniós források felhasználásával megvalósuló egyes fejlesztések megvalósításával összefüggő feladatokat;
 
-i) végzi a vagyonkezelésében lévő állami tulajdonú vizek szabályozását, mederfenntartását, partvédelmét.
+11. ellátja a víziközmű társulat törvényességi ellenőrzését;
 
-[^94]: A 36. § g) pontja a 344/2009. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+12. ellátja a Startmunka program keretében megvalósuló vízügyi közfoglalkoztatási feladatokat;
+
+13. ellátja a vízitársulatok szakmai felügyeletét,
+
+14. ellátja a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti kárelhárítási feladatokat,
+
+15. szervezi, irányítja a működési területén folyamatban lévő közmunkaprogramok végrehajtását.
+
+[^104]: A 36. § a 300/2011. (XII. 22.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.

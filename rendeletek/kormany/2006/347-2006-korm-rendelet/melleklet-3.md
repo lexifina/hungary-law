@@ -1,32 +1,32 @@
-## I. A környezetvédelmi és vízügyi igazgatóságok elnevezése és székhelye
+## I. A vízügyi igazgatóságok elnevezése és székhelye
 
-## Észak-dunántúli Környezetvédelmi és Vízügyi Igazgatóság, Győr
+## Észak-dunántúli Vízügyi Igazgatóság, Győr
 
-## Közép-Duna-völgyi Környezetvédelmi és Vízügyi Igazgatóság, Budapest
+## Közép-Duna-völgyi Vízügyi Igazgatóság, Budapest
 
-## Alsó-Duna-völgyi Környezetvédelmi és Vízügyi Igazgatóság, Baja
+## Alsó-Duna-völgyi Vízügyi Igazgatóság, Baja
 
-## Közép-dunántúli Környezetvédelmi és Vízügyi Igazgatóság, Székesfehérvár
+## Közép-dunántúli Vízügyi Igazgatóság, Székesfehérvár
 
-## Dél-dunántúli Környezetvédelmi és Vízügyi Igazgatóság, Pécs
+## Dél-dunántúli Vízügyi Igazgatóság, Pécs
 
-## Nyugat-dunántúli Környezetvédelmi és Vízügyi Igazgatóság, Szombathely
+## Nyugat-dunántúli Vízügyi Igazgatóság, Szombathely
 
-## Felső-Tisza-vidéki Környezetvédelmi és Vízügyi Igazgatóság, Nyíregyháza
+## Felső-Tisza-vidéki Vízügyi Igazgatóság, Nyíregyháza
 
-## Észak-magyarországi Környezetvédelmi és Vízügyi Igazgatóság, Miskolc
+## Észak-magyarországi Vízügyi Igazgatóság, Miskolc
 
-## Tiszántúli Környezetvédelmi és Vízügyi Igazgatóság, Debrecen
+## Tiszántúli Vízügyi Igazgatóság, Debrecen
 
-## Közép-Tisza-vidéki Környezetvédelmi és Vízügyi Igazgatóság, Szolnok
+## Közép-Tisza-vidéki Vízügyi Igazgatóság, Szolnok
 
-## Alsó-Tisza-vidéki Környezetvédelmi és Vízügyi Igazgatóság, Szeged
+## Alsó-Tisza-vidéki Vízügyi Igazgatóság, Szeged
 
-## Körös-vidéki Környezetvédelmi és Vízügyi Igazgatóság, Gyula
+## Körös-vidéki Vízügyi Igazgatóság, Gyula
 
-## II. A környezetvédelmi és vízügyi igazgatóságok működési köre[^114]
+## II. A vízügyi igazgatóságok működési köre[^128]
 
-## 1. ÉSZAK-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 1. ÉSZAK-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -132,7 +132,7 @@
 
 ## Győr, Sopron, Tatabánya megyei jogú városok, Győr-Moson-Sopron, Komárom-Esztergom, Vas és Veszprém megye.
 
-## 2. KÖZÉP-DUNA-VÖLGYI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 2. KÖZÉP-DUNA-VÖLGYI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -230,7 +230,7 @@
 
 ## Budapest főváros, Salgótarján megyei jogú város, Pest és Nógrád megye.
 
-## 3. ALSÓ-DUNA-VÖLGYI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 3. ALSÓ-DUNA-VÖLGYI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -336,7 +336,7 @@
 
 ## Kecskemét megyei jogú város, Bács-Kiskun megye.
 
-## 4. KÖZÉP-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 4. KÖZÉP-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -476,7 +476,7 @@
 
 ## Székesfehérvár, Dunaújváros, Szekszárd és Veszprém megyei jogú városok, Fejér, Tolna és Veszprém megye.
 
-## 5. DÉL-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 5. DÉL-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -598,7 +598,7 @@
 
 ## Pécs, Kaposvár megyei jogú városok, Baranya és Somogy megye.
 
-## 6. NYUGAT-DUNÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 6. NYUGAT-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -728,7 +728,7 @@
 
 ## Szombathely, Zalaegerszeg, Nagykanizsa megyei jogú városok, Vas és Zala megye.
 
-## 7. FELSŐ-TISZA-VIDÉKI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 7. FELSŐ-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -810,7 +810,7 @@
 
 ## Nyíregyháza megyei jogú város, Szabolcs-Szatmár-Bereg megye.
 
-## 8. ÉSZAK-MAGYARORSZÁGI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 8. ÉSZAK-MAGYARORSZÁGI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -970,7 +970,7 @@
 
 ## Miskolc, Eger megyei jogú városok, Borsod-Abaúj-Zemplén és Heves megye.
 
-## 9. TISZÁNTÚLI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 9. TISZÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -1090,7 +1090,7 @@
 
 ## Debrecen megyei jogú város, Hajdú-Bihar megye.
 
-## 10. KÖZÉP-TISZA-VIDÉKI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 10. KÖZÉP-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -1242,7 +1242,7 @@
 
 ## Szolnok megyei jogú város, Jász-Nagykun-Szolnok megye.
 
-## 11. ALSÓ-TISZA-VIDÉKI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 11. ALSÓ-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -1396,7 +1396,7 @@
 
 ## Szeged, Kecskemét, Hódmezővásárhely megyei jogú városok, Csongrád megye.
 
-## 12. KÖRÖS-VIDÉKI KÖRNYEZETVÉDELMI ÉS VÍZÜGYI IGAZGATÓSÁG
+## 12. KÖRÖS-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
 ## A) Működési köre
 
@@ -1488,7 +1488,7 @@
 
 ## b) árvízvédelmi művek:
 
-## a Hortobágy-Berettyó bal parti töltés a torkolattól Ecsegfalva és Bucsa közigazgatási határáig 43 km hosszban és a Hármas-Körös jobb parti töltése a Hortobágy-Berettyó és a Sebes-Körös között, a Sebes-Körös jobb parti töltése a Hármas-Körös és Berettyó torkolata között, a Berettyó jobb parti töltése Darvas és a Sebes-Körös között, a Sebes-Körös bal parti töltése az országhatár és a Hármas-Körös között, a Hármas-Körös bal parti töltése a Horgavölgyi-ér mellékága alatti Darurampa és a Sebes-Körös között, a Kettős-Körös, a Fekete-Körös és a Fehér-Körös mindkét parti töltései, a Fehér-Körös bal parti lokalizációs töltés, a mérgesi és a mályvádi árvízi szükségtározók töltései, a Kisdelta szükségtározó zárótöltése (a Fehér-Körös jobb oldali és a Fekete-Körös bal oldali védtöltései között), a Gyulavári és Dénes-majori körtöltések, a Fehér-Körös és a Fekete-Körös közötti lokalizációs töltés, a Fekete-Körös és a Sebes-Körös közötti lokalizációs töltés, az Öcsöd-Békésszentandrási lokalizációs töltés az Alsó-Tisza-vidéki Környezetvédelmi és Vízügyi Igazgatóság határáig;
+## a Hortobágy-Berettyó bal parti töltés a torkolattól Ecsegfalva és Bucsa közigazgatási határáig 43 km hosszban és a Hármas-Körös jobb parti töltése a Hortobágy-Berettyó és a Sebes-Körös között, a Sebes-Körös jobb parti töltése a Hármas-Körös és Berettyó torkolata között, a Berettyó jobb parti töltése Darvas és a Sebes-Körös között, a Sebes-Körös bal parti töltése az országhatár és a Hármas-Körös között, a Hármas-Körös bal parti töltése a Horgavölgyi-ér mellékága alatti Darurampa és a Sebes-Körös között, a Kettős-Körös, a Fekete-Körös és a Fehér-Körös mindkét parti töltései, a Fehér-Körös bal parti lokalizációs töltés, a mérgesi és a mályvádi árvízi szükségtározók töltései, a Kisdelta szükségtározó zárótöltése (a Fehér-Körös jobb oldali és a Fekete-Körös bal oldali védtöltései között), a Gyulavári és Dénes-majori körtöltések, a Fehér-Körös és a Fekete-Körös közötti lokalizációs töltés, a Fekete-Körös és a Sebes-Körös közötti lokalizációs töltés, az Öcsöd-Békésszentandrási lokalizációs töltés az Alsó-Tisza-vidéki Vízügyi Igazgatóság határáig;
 
 ## c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
 
@@ -1502,7 +1502,7 @@
 
 ## Biharnagybajom-Nagyrábé-Darvas község határában az Ó-Berettyó-csatorna.
 
-3. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^115]
+3. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^129]
 
-[^114]: A 2. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^115]: A 3. számú melléklet a 15/2008. (I. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^128]: A 2. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^129]: A 3. számú melléklet a 15/2008. (I. 30.) Korm. rendelet 6. §-ával megállapított szöveg.

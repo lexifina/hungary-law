@@ -24,20 +24,6 @@
 
 |  | *Megjegyzés A megyei népegészségügyi szakigazgatási szerv feladatait a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el |  |  |  |
 
-5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^118]
+5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^133]
 
-A felügyelőség települési hulladék begyűjtése, üzletszerű szállítása, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezése iránti eljárásában közreműködő szakhatóságok
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban | Begyűjtés és üz- letszerű szállítás, a települési folyé- kony hulladék elhelyezésére igénybe vehető szennyvíztisztító telep meghatá- rozására irányuló eljárás | Előkezelés, tárolás | Hasznos ítás | Ártal- mat- lanítás |
-
-| 1. | Minden esetben | Környezet-egészségügyi szakkérdésekre, így különösen az egészségkárosító kockázatok és esetleges hatások felmérésére, a fertőző betegségek terjedésének megakadályozására, a rovar-rágcsálóirtás, illetve a veszélyes készítményekkel végzett tevékenység vizsgálatára, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények érvényesítésére kiterjedően. | fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészség- ügyi intézete | fővárosi és megyei kormány- hivatal illetékes* megyei népegészségügyi szakigaz- gatási szerve | IGEN | IGEN | IGEN | IGEN |
-
-| 2. | Ha a tevékenység helyi jelentőségű védett természeti területet érint | Annak elbírálása kérdésében, hogy a tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője | fővárosi és megyei kormány- hivatal | IGEN | IGEN | IGEN | IGEN |
-
-| 3. | A tevékenység termőföldön valósul meg. | A termőföld minőségi védelme követelményeinek való megfelelés. | megyei kormány- hivatal Növény- és talajvédelmi igazgatósága | Mezőgaz- dasági Szakigazgatási Hivatal | IGEN | IGEN | IGEN | IGEN |
-
-| 4. | Nyilvántartott ásványi nyersanyag lelőhely, bányatelek érintettsége, ásványi nyersanyag kitermelése és annak használata, értékesítése, hasznosítása esetén. | Földtani környezet, földtani veszélyforrások, földtani gátak és az ásványvagyonvédelem értékelése, a fizetendő bányajáradék mértékének meghatározása, az építésföldtani megalapozottság vizsgálata, a földtani veszélyeztetettség vizsgálata figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződményekre, a felszínmozgás veszélyeztetésének vizsgálata | bánya- kapitányság | Magyar Bányászati és Földtani Hivatal | NEM | IGEN | NEM | IGEN |
-
-|  | * Megjegyzés A megyei népegészségügyi szakigazgatási szerv feladatait a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el. |  |  |  |  |  |  |
-
-[^118]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított szöveg.
+[^133]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított szöveg.

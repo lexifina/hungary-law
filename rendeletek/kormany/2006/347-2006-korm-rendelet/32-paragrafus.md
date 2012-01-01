@@ -1,10 +1,10 @@
-## 30–31. §[^46]
+## 30–31. §[^54]
 
 ## Vízügyi szakhatóság kijelölése
 
 32. § (1) A Kormány a felügyelőséget vízügyi szakhatóságként jelöli ki.
 
-(2)[^47]
+(2)[^55]
 
-[^46]: A 30–31. §-t a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 14. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^47]: A 32. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 14. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^54]: A 30–31. §-t a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 14. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^55]: A 32. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 14. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

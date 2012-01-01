@@ -1,3 +1,3 @@
-## 19. §[^37] A Kormány törvényben meghatározott hatásköreiben környezetvédelmi igazgatási szervként a felügyelőséget jelöli ki.
+## 19/A. §[^43] A NeKI a környezetvédelmi igazgatási feladatokhoz kapcsolódóan vízügyi igazgatási feladatokat is ellát.
 
-[^37]: A 19. § a 344/2009. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^43]: A 19/A. §-t a 300/2011. (XII. 22.) Korm. rendelet 1. § (8) bekezdése iktatta be.

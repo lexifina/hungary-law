@@ -1,6 +1,15 @@
-## 7/A. §[^17] Az NPI természetvédelmi szabálysértések elbírálására, nyilvántartás vezetésére, ellenőrzés végzésére, továbbá a természetvédelmi őrszolgálat működtetésére közhatalmi jogkörrel rendelkezik.
+## A BELÜGYMINISZTER ÁLTAL IRÁNYÍTOTT ÁLLAMIGAZGATÁSI SZERVEK[^17]
 
-## A FEJLESZTÉSPOLITIKÁÉRT FELELŐS MINISZTER ÁLTAL IRÁNYÍTOTT ÁLLAMIGAZGATÁSI SZERV[^18]
+## Országos Vízügyi Főigazgatóság[^18]
 
-[^17]: A 7/A. §-t a 344/2009. (XII. 30.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^18]: A 7/B. §-t megelőző fejezetcímet a 4/2011. (I. 28.) Korm. rendelet 124. §-a iktatta be. E módosító rendelet 122. § (3) bekezdése alapján a 2011. február 9-ét követően meghirdetett felhívások tekintetében kell alkalmazni.
+7/B. §[^19] (1) Az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) a belügyminiszter által irányított, önállóan működő és gazdálkodó központi költségvetési szerv. Székhelye: Budapest.
+
+(2) Az OVF-et főigazgató vezeti, aki – a (3) bekezdésben foglalt kivétellel – gyakorolja a munkáltatói jogokat az OVF foglalkoztatottjai felett.
+
+(3) A belügyminiszter irányítási jogkörében az OVF főigazgatójának javaslatára megbízza és felmenti az OVF gazdasági vezetőjét.
+
+(4) Az OVF működése az ország egész területére kiterjed.
+
+[^17]: A 7/B. §-t megelőző fejezetcímet a 4/2011. (I. 28.) Korm. rendelet 124. §-a iktatta be, szövege a 300/2011. (XII. 22.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^18]: A 7/B. §-t megelőző alcímet a 86/2011. (V. 31.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte, újonnan a 300/2011. (XII. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^19]: A 7/B. §-t és az azt megelőző alcímet a 86/2011. (V. 31.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte, újonnan a 300/2011. (XII. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.

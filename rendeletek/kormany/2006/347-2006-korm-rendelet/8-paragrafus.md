@@ -1,10 +1,8 @@
-## 7/B. §[^19]
-
 ## HATÓSÁGOK KIJELÖLÉSE
 
 ## Környezetvédelmi hatóságok kijelölése
 
-8. § (1)[^20] A Kormány törvényben meghatározott hatásköreiben környezetvédelmi hatóságként
+8. § (1)[^22] A Kormány törvényben meghatározott hatásköreiben környezetvédelmi hatóságként
 
 a) a minisztert,
 
@@ -28,5 +26,4 @@ jelöli ki.
 
 (2) Környezetvédelmi hatóságként – ha e rendelet másként nem rendelkezik – a felügyelőség jár el.
 
-[^19]: A 7/B. §-t és az azt megelőző alcímet a 86/2011. (V. 31.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
-[^20]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 517. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 517. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

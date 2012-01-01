@@ -1,6 +1,6 @@
 ## I. A nemzeti park igazgatóságok elnevezése
 
-## és székhelye
+## és székhelye[^130]
 
 ## Aggteleki Nemzeti Park Igazgatóság, Jósvafő
 
@@ -14,7 +14,7 @@
 
 ## Fertő–Hanság Nemzeti Park Igazgatóság, Sarród
 
-## Hortobágyi Nemzeti Park Igazgatóság, Hortobágy
+## Hortobágyi Nemzeti Park Igazgatóság, Debrecen
 
 ## Kiskunsági Nemzeti Park Igazgatóság, Kecskemét
 
@@ -22,7 +22,7 @@
 
 ## Őrségi Nemzeti Park Igazgatóság, Őriszentpéter
 
-## II. A nemzeti park igazgatóságok működési köre[^116]
+## II. A nemzeti park igazgatóságok működési köre[^131]
 
 ## 1. AGGTELEKI NEMZETI PARK IGAZGATÓSÁG
 
@@ -650,7 +650,8 @@
 
 ## települések közigazgatási területéből a Balaton-felvidéki Nemzeti Park Igazgatóság működési területén kívül eső területek.
 
-4. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^117]
+4. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^132]
 
-[^116]: A 3. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^117]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított szöveg.
+[^130]: A 3. melléklet I. pontja a 300/2011. (XII. 22.) Korm. rendelet 1. § (18) bekezdése szerint módosított szöveg.
+[^131]: A 3. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^132]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított szöveg.
