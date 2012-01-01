@@ -1,4 +1,4 @@
-7. § (1) A tulajdonba adott ingatlant – a (2) bekezdés és a 22. § (2) bekezdése alapján tulajdonba adott ingatlanok kivételével – a szerződés megkötésétől számított 15 éven belül nem lehet elidegeníteni és megterhelni. Az elidegenítési és terhelési tilalmat az ingatlan-nyilvántartásba a MNV Zrt. javára be kell jegyezni.
+7. § (1) A tulajdonba adott ingatlant – a (2) bekezdés és a 22. § (2) bekezdése alapján tulajdonba adott ingatlan kivételével – a tulajdonjog megszerzésétől számított tizenöt éven belül nem lehet elidegeníteni és megterhelni. Az elidegenítési és terhelési tilalmat az ingatlan-nyilvántartásba az MNV Zrt. javára be kell jegyezni.
 
 (2) A MNV Zrt. hozzájárulásával az ingatlan a felújítását, korszerűsítését szolgáló hitelfelvétel érdekében megterhelhető, azonos vagy hasonló célú más ingatlan vásárlása, építése érdekében elidegeníthető, vagy más ingatlanra cserélhető. Az így szerzett újabb ingatlanra az e törvény alapján tulajdonba kapott ingatlanra vonatkozó szabályokat kell alkalmazni.
 
