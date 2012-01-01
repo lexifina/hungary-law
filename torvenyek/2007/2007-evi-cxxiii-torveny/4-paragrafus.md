@@ -50,13 +50,15 @@ gc) szénhidrogén szállítóvezetékek, valamint ezek tartozékai és alkotór
 
 h) elektronikus hírközlési szolgáltatás céljából, ha az elektronikus hírközlési építmény elhelyezése és üzemeltetése céljából közérdekű használati jog alapításában az ingatlan tulajdonos és az engedélyes között nem jött létre megállapodás, illetve – az ingatlan használatának jelentős akadályozása, illetve megszüntetése miatt – a használati jogot az illetékes hatóság nem engedélyezte;
 
-i) kulturális örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely, vagy műemlék örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
+i) kulturális örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
 
-ia) az érintett ingatlan tulajdonosa olyan magatartást folytat, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy a műemlék megsemmisülését eredményezi,
+ia) az érintett ingatlan tulajdonosa olyan magatartást folytat, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi,
 
 ib) a védetté nyilvánított régészeti lelőhely vagy műemlék feltárása, védőövezetének kialakítása, megközelítése másként nem lehetséges,
 
-ic) korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt;
+ic) a nemzeti emlékhely megközelítése másként nem lehetséges,
+
+id) korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt;
 
 j) természetvédelem céljából, ha
 
