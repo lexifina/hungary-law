@@ -1,0 +1,1 @@
+146. § Ha a Felügyelet a befektetési alap könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.

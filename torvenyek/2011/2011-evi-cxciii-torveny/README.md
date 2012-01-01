@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-193-00-00
 | 2011-12-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-193-00-00.1 |
 | 2011-12-30 | 2010. évi CXXX. törvény | 2011-193-00-00.2 |
 | 2011-12-31 | 2010. évi CXXX. törvény | 2011-193-00-00.3 |
+| 2012-01-01 | 2011. évi CCIX. törvény | 2011-193-00-00.4 |

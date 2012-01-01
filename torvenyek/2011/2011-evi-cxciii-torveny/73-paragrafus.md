@@ -1,3 +1,5 @@
 ## 26. A befektetők egyéb jogai
 
-73. §
+73. § (1) Mind a beolvadó, mind az átvevő ÁÉKBV befektetője kérheti kollektív befektetési értékpapírjainak – az ÁÉKBV által a tőkekivonás fedezeteként visszatartott költségeken kívüli – térítésmentes visszaváltását, vagy ha lehetséges, egy másik, hasonló befektetési politikát folytató, és ugyanazon befektetési alapkezelő, vagy a befektetési alapkezelővel közös vezetés vagy ellenőrzés által, vagy befolyásoló részesedésen keresztül kapcsolatban álló bármely más társaság által kezelt ÁÉKBV kollektív befektetési értékpapírjaira való átváltását. Ez a jog a beolvadó ÁÉKBV és az átvevő ÁÉKBV befektetőit a 68. és 69. §-ban foglaltak szerinti a tervezett egyesülésről szóló tájékoztatástól a 75. § szerinti átváltási arány kiszámításának időpontja előtt 5 munkanapig illeti meg.
+
+(2) A befektetők (1) bekezdésben foglalt jogának biztosítása mellett a Felügyelet engedélyezheti a beolvadó, illetve az átvevő ÁÉKBV alapkezelője számára, hogy az egyesülés lebonyolítási idejére felfüggesszék a kollektív befektetési értékpapírok forgalmazását, amennyiben ezt a befektetők érdekeinek védelme indokolja.

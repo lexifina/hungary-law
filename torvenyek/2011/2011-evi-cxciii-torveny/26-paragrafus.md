@@ -1,0 +1,1 @@
+26. § A 4. § (3) bekezdése szerinti tevékenységek kiszervezésére a Bszt. kiszervezésre vonatkozó rendelkezéseit megfelelően alkalmazni kell azzal, hogy ahol a jogszabály befektetési vállalkozást említ, azon befektetési alapkezelőt kell érteni.
