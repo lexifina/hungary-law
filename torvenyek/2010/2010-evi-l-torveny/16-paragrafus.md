@@ -7,3 +7,7 @@
 a) a jelölő szervezet kompenzációs listája, ha az azt állító jelölő szervezet jelöltjei a települési szinten összesített kompenzációs szavazatok öt százalékát nem érték el, vagy
 
 b) a közös kompenzációs lista, ha a közös listát állító jelölő szervezetek közös jelöltjei a települési szinten összesített kompenzációs szavazatok tíz százalékát, kettőnél több jelölő szervezet által állított közös kompenzációs lista esetében tizenöt százalékát nem érték el.
+
+(4) A nemzetiség kompenzációs listáról a jelöltek az egyéni választókerületben megszerzett szavazataik száma szerinti sorrendben szereznek mandátumot. Szavazategyenlőség esetén sorsolás dönt.
+
+(5) A (3) bekezdést a nemzetiségi kompenzációs listára nem kell alkalmazni.

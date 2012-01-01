@@ -1,8 +1,10 @@
-15. § (1) A kompenzációs lista a választókerületben összesített töredékszavazatok arányában kap mandátumot.
+15. § (1) A kompenzációs lista és a nemzetiségi kompenzációs lista a választókerületben összesített töredékszavazatok arányában kap mandátumot.
 
 (2) Töredékszavazatnak minősül az egyéni választókerületekben a jelölő szervezet jelöltjére leadott minden olyan szavazat, amellyel nem szereztek mandátumot.
 
 (3) A közös jelöltekre leadott töredékszavazatnak minősülő szavazatok a közös jelöltet állító jelölő szervezetek közös kompenzációs listájára kerülnek.
+
+(3a) A nemzetiségi kompenzációs listára az azon szereplő jelöltekre az egyéni választókerületben leadott azon szavazatok kerülnek töredékszavazatként, amelyekkel nem szereztek mandátumot.
 
 (4) A kompenzációs mandátum számítás módja:
 
@@ -12,4 +14,4 @@ b) Meg kell keresni a táblázatban előforduló legnagyobb számot, és amelyik
 
 c) Ha a táblázatban előforduló legnagyobb szám keresésekor egyenlő legnagyobb számok vannak, akkor az a lista kap mandátumot, amelyik addig még nem szerzett mandátumot, vagy amelyik kevesebb mandátumot kapott, végezetül, amelyik a listasorsolásnál kisebb sorszámot kapott.
 
-(5) Ha egy kompenzációs lista több mandátumot kap, mint a listán szereplő személyek száma, a mandátum betöltetlen marad.
+(5) Ha egy kompenzációs lista vagy nemzetiségi kompenzációs lista több mandátumot kap, mint a listán szereplő személyek száma, a mandátum betöltetlen marad.
