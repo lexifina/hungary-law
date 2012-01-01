@@ -2,4 +2,6 @@
 
 (2) A védetté nyilvánítás célja a terület fajgazdag növény- és állatvilágának megőrzése.
 
-(3) A védett természeti terület természetvédelmi értékeinek megóvása, őrzése és bemutatása (a továbbiakban: természetvédelmi kezelés) a Közép-dunántúli Környezetvédelmi és Vízügyi Igazgatóság feladata.
+(3)[^2] A védett természeti terület természetvédelmi értékeinek megóvása, őrzése és bemutatása (a továbbiakban: természetvédelmi kezelés) a Duna-Ipoly Nemzeti Park Igazgatóság feladata.
+
+[^2]: Az 1. § (3) bekezdése a 147/2011. (XII. 23.) VM rendelet 2. §-a szerint módosított szöveg.
