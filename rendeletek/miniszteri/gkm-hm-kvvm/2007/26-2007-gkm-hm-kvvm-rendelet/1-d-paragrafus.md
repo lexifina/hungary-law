@@ -1,4 +1,4 @@
-1/D. §[^4] (1) Az NLKM előzetes döntési javaslata alapján a kérelmező elkészíti a légtér módosítására, új légtér kijelölésére vonatkozó tervet (a továbbiakban: végleges javaslat), amelynek kötelező tartalmi elemeit a 4. melléklet 2. pontját kiegészítve a 4. melléklet 3. pontja tartalmazza.
+1/D. §[^5] (1) Az NLKM előzetes döntési javaslata alapján a kérelmező elkészíti a légtér módosítására, új légtér kijelölésére vonatkozó tervet (a továbbiakban: végleges javaslat), amelynek kötelező tartalmi elemeit a 4. melléklet 2. pontját kiegészítve a 4. melléklet 3. pontja tartalmazza.
 
 (2) A kérelmező végleges javaslatát annak teljes dokumentációjával a közlekedésért felelős miniszter útján terjeszti az NLKM elé, amely testület döntési javaslatot készít a végleges javaslatról.
 
@@ -12,4 +12,4 @@
 
 (7) A biztonsági felmérés megfelelőségéről a légiközlekedési hatóság nyilatkozik.
 
-[^4]: Az 1/D. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.
+[^5]: Az 1/D. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.

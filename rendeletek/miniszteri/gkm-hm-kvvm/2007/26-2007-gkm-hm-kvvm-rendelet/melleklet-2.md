@@ -22,7 +22,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^18]
+együttes rendelethez[^21]
 
 ## ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS AZ IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -956,4 +956,4 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 III. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
-[^18]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja szerint módosított szöveg.
+[^21]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja szerint módosított szöveg.

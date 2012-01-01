@@ -1,6 +1,6 @@
-## 1/B. §[^2] A légtér módosítására, új légtér kijelölésére irányuló javaslat benyújtása előtt a kérelmező előzetes konzultációt kezdeményez a Nemzeti Légtér Koordinációs Munkacsoporttal (a továbbiakban: NLKM). Ennek keretében a kérelmező megadja a 4. melléklet 1. pontjában meghatározott információkat, az NLKM tájékoztatja a kérelmezőt az eljárásról, különösen az előzetes javaslat tartalmi elemeiről és a vonatkozó hazai és közösségi szabályozásról.
+## 1/B. §[^3] A légtér módosítására, új légtér kijelölésére irányuló javaslat benyújtása előtt a kérelmező előzetes konzultációt kezdeményez a Nemzeti Légtér Koordinációs Munkacsoporttal (a továbbiakban: NLKM). Ennek keretében a kérelmező megadja a 4. melléklet 1. pontjában meghatározott információkat, az NLKM tájékoztatja a kérelmezőt az eljárásról, különösen az előzetes javaslat tartalmi elemeiről és a vonatkozó hazai és közösségi szabályozásról.
 
-1/C. §[^3] (1) A kérelmező az 1/B. §-ban meghatározott tájékoztatás alapján készíti el az előzetes javaslatot, és azt benyújtja a közlekedésért felelős miniszter útján az NLKM-nek. Az előzetes javaslatnak legalább a 4. melléklet 2. pontjában meghatározottakat kell tartalmaznia.
+1/C. §[^4] (1) A kérelmező az 1/B. §-ban meghatározott tájékoztatás alapján készíti el az előzetes javaslatot, és azt benyújtja a közlekedésért felelős miniszter útján az NLKM-nek. Az előzetes javaslatnak legalább a 4. melléklet 2. pontjában meghatározottakat kell tartalmaznia.
 
 (2) Ha az előzetes javaslat nem tartalmazza a 4. melléklet 2. pontjában meghatározott elemeket, az NLKM az előzetes javaslatot érdemben nem tárgyalja.
 
@@ -12,5 +12,5 @@
 
 (6) Repülőtér létesítése vagy fejlesztése esetén a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet szerinti létesítési vagy fejlesztési engedély megszerzését megelőzően kell az előzetes javaslatot benyújtani. A létesítési engedélyhez szükséges dokumentációnak az NLKM (3) bekezdésben meghatározott döntési javaslatát kell tartalmaznia.
 
-[^2]: Az 1/B. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.
-[^3]: Az 1/C. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.
+[^3]: Az 1/B. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.
+[^4]: Az 1/C. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.

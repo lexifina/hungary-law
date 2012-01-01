@@ -830,7 +830,7 @@
 
 | 2 km sugarú kör a 480403N 0191953E középpont körül |
 
-4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^20]
+4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^23]
 
 ## A LÉGTÉRSZERKEZET MÓDOSÍTÁSÁRA IRÁNYULÓ JAVASLAT KÖTELEZŐ TARTALMI ELEMEI
 
@@ -898,4 +898,4 @@ Preliminary System Safety Assessment for ATM system designers (SAF–SAM2–PSSA
 
 System Safety Assessment for Implementation and Monitoring (SAF–SAM3–SSA)
 
-[^20]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
+[^23]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.

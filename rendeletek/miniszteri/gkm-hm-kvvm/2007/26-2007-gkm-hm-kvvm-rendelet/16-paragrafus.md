@@ -1,6 +1,6 @@
 ## Az eseti légtér igénybevétele
 
-16. §[^10] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – a 15/A. § (2) bekezdés f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
+16. §[^11] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – a 15/A. § (2) bekezdés f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
 
 a) az igénybevétel valós kezdésének időpontja (a továbbiakban: aktiválás), és a tervezett befejezés időpontja,
 
@@ -28,4 +28,4 @@ b) a határozatban engedélyezett időponton vagy ha az (1) bekezdés d) pontja 
 
 (5) Az eseti légtér a 15/A. § (2) bekezdés f) pontjában meghatározott légtérigénylő hozzájárulásával vehető igénybe.
 
-[^10]: A 16. § az 56/2011. (XI. 8.) NFM rendelet 4. §-ával megállapított szöveg.
+[^11]: A 16. § az 56/2011. (XI. 8.) NFM rendelet 4. §-ával megállapított szöveg.

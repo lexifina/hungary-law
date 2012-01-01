@@ -510,6 +510,6 @@
 
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^19]
+együttes rendelethez[^22]
 
-[^19]: A 3. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^22]: A 3. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 11. § (1) bekezdése szerint módosított szöveg.

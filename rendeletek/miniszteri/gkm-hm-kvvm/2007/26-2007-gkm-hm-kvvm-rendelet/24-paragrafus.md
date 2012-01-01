@@ -1,4 +1,4 @@
-## 23. § A légtér szerkezetére és osztályozására, a légi útvonalakra, a katonai légi folyosókra és a koordinált légtérben használt frekvenciákra vonatkozó adatokat a légiközlekedési hatóság az AIP-ben (a Magyar Köztársaság légiforgalmi tájékoztató kiadványában) teszi közzé.
+## 23. §[^15] A légtér szerkezetére és osztályozására, a légi útvonalakra, a katonai légi folyosókra és a koordinált légtérben használt frekvenciákra vonatkozó adatokat a légiközlekedési hatóság az AIP-ben (Magyarország légiforgalmi tájékoztató kiadványában) teszi közzé.
 
 ## Fogalmak, meghatározások
 
@@ -22,7 +22,7 @@
 
 9. Budapest ATS Központ: a közlekedésért felelős miniszter által a légiforgalom irányítására kijelölt szervezeten belül működő integrált, polgári-katonai operatív egység, amely továbbá jelenti a légtérgazdálkodó egységet (AMC) is;
 
-10. Budapest FIR (Budapest Repüléstájékoztató Körzet): a Magyar Köztársaság államhatára által körbezárt terület, amelyen belül a légiközlekedés számára FL660 (20 100 m STD) magasságig légiforgalmi szolgálatot biztosítanak;
+10.[^16] Budapest FIR (Budapest Repüléstájékoztató Körzet): Magyarország államhatára által körbezárt terület, amelyen belül a légiközlekedés számára FL660 (20 100 m STD) magasságig légiforgalmi szolgálatot biztosítanak;
 
 11. CTA (Control Area): polgári irányítói körzet, a földfelszín felett meghatározott magasságtól kezdődő térbeli kiterjedéssel rendelkező ellenőrzött légtér;
 
@@ -78,7 +78,7 @@
 
 37. TMA (Terminal Control Area): közelkörzeti irányítói körzet, amelyet egy vagy több nagyobb repülőtér közelében, rendszerint ATS útvonalak találkozásánál létesítettek. A közelkörzeti irányító körzet alsó határa a földrajzi viszonyoknak és a légiforgalomnak megfelelően változik, de sehol sem alacsonyabb 600 lábnál (200 m) a terep felszíne felett;
 
-38.[^14] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
+38.[^17] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
 
 39. UTC (Coordinated Universal Time): az egyeztetett egyetemes világidő jelölésére használt rövidítés;
 
@@ -88,4 +88,6 @@
 
 42. WGS-84 (World Geodetic System '84): az 1984-ben elfogadott világméretű geodéziai referenciarendszer jelölésére használt rövidítés.
 
-[^14]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.
+[^15]: A 23. § a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
+[^16]: A 24. § 10. pontja a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
+[^17]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.

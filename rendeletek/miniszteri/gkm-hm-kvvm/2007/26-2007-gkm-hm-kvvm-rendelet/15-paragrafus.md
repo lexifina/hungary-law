@@ -1,6 +1,6 @@
 ## Az eseti légtér igénylése
 
-15. §[^8] (1) A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendeletben (a továbbiakban: Korm. rendelet) meghatározott eseti légtér kijelölése iránti kérelmet harminc nappal a tervezett igénybevétel előtt, a katonai légügyi hatósághoz kell benyújtani.
+15. §[^9] (1) A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendeletben (a továbbiakban: Korm. rendelet) meghatározott eseti légtér kijelölése iránti kérelmet harminc nappal a tervezett igénybevétel előtt, a katonai légügyi hatósághoz kell benyújtani.
 
 (2) Az eseti légterek kijelölése során a katonai légügyi hatóság egyidejűleg nem jelölhet ki olyan eseti légtereket, amelyek térben és időben átfedik egymást.
 
@@ -12,4 +12,4 @@
 
 (6) Amennyiben az eseti légteret olyan légtéren belül tervezik kijelölni, amelyben műszer szerinti repülés engedélyezett, a kérelemhez mellékelni kell az illetékes légiforgalmi szolgáltató véleményét a közzétett repülési eljárások biztonságos végrehajthatóságáról az eseti légtér kijelölése esetén.
 
-[^8]: A 15. § az 56/2011. (XI. 8.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 15. § az 56/2011. (XI. 8.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.

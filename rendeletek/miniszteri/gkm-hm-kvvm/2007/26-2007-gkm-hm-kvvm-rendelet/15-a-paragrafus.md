@@ -1,4 +1,4 @@
-15/A. §[^9] (1) Eseti légteret a légiközlekedés biztonságának fenntartása érdekében kell kijelölni:
+15/A. §[^10] (1) Eseti légteret a légiközlekedés biztonságának fenntartása érdekében kell kijelölni:
 
 a) a Korm. rendelet 1. § (2) bekezdésében, és ha a repülés nem hajtható végre a légiforgalmi légtérre meghatározott repülési szabályok szerint, a Korm. rendelet 1. § (3) bekezdésében meghatározott esetben,
 
@@ -30,4 +30,4 @@ f) a légtérigénylő – a tevékenység szervezéséért – felelős személ
 
 (6) A katonai légügyi hatóság az eseti légtér kijelölésére vonatkozó határozatot a légtér működésének megkezdése előtt legkésőbb 7 nappal megküldi a légiforgalmi tájékoztató szolgálatnak közzététel céljából, valamint a Budapest ATS Központnak.
 
-[^9]: A 15/A. §-t az 56/2011. (XI. 8.) NFM rendelet 3. § (2) bekezdése iktatta be.
+[^10]: A 15/A. §-t az 56/2011. (XI. 8.) NFM rendelet 3. § (2) bekezdése iktatta be.
