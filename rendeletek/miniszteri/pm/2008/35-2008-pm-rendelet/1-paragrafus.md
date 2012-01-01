@@ -1,18 +1,14 @@
 1. § (1)[^1] Az önkormányzati adóhatóságnak (a továbbiakban: adóhatóság) a hatáskörébe tartozó adókra az 1–9. és a 15–17. mellékletben szereplő nyomtatványok alapján kell a bevallási nyomtatványokat rendszeresítenie. Az adóhatóság a bevallási nyomtatványokat kizárólag az önkormányzati adórendeletben szabályozott mentességi, kedvezményi rendelkezések végrehajtása, illetve a fizetendő adó megállapítása érdekében egészítheti ki.
 
-(2)[^2] Az adóhatóság – az (1) bekezdésben foglaltaktól eltérően –
+(2)[^2] Az adóhatóság – az (1) bekezdésben foglaltaktól eltérően
 
 a) az ideiglenes jellegű iparűzési tevékenység utáni helyi iparűzési adóra a 10. melléklet,
 
-b) az állandó jellegű iparűzési tevékenység utáni helyi iparűzési adóra
+b)[^3] az állandó jellegű iparűzési tevékenység utáni helyi iparűzési adóra
 
-ba) a 2008-ban kezdődő adóévre a 11. melléklet,
+ba) a 2011-ben kezdődő adóévekre a 18. melléklet,
 
-bb) a 2009-ben kezdődő adóévre a 12. melléklet,
-
-bc) a 2010-ben kezdődő adóévre a 18. melléklet,
-
-bd) a 2011-ben és az azt követő években kezdődő adóévekre a 19. melléklet,
+bb) a 2012-ben és az azt követő adóévekben kezdődő adóévekre a 19. melléklet,
 
 c) a helyi iparűzési adóelőlegkiegészítés bevallására a 20. melléklet,
 
@@ -26,3 +22,4 @@ szerinti adattartalmú nyomtatványt rendszeresítheti.
 
 [^1]: Az 1. § (1) bekezdése a 29/2009. (XII. 4.) PM rendelet 1. §-ával megállapított, a 21/2010. (XII. 31.) NGM rendelet 3. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 21/2010. (XII. 31.) NGM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pontja az 54/2011. (XII. 29.) NGM rendelet 32. §-ával megállapított szöveg.

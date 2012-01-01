@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-35-20-5
 | --- | --- | --- |
 | 2010-01-01 | 2008-35-20-53.2 | 35/2008. (XII. 31.) PM rendelet |
 | 2011-01-03 | 2008-35-20-53.3 | 21/2010. (XII. 31.) NGM rendelet |
+| 2012-01-01 | 2008-35-20-53.4 | 54/2011. (XII. 29.) NGM rendelet |

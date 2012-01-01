@@ -58,7 +58,7 @@
 
 | _____________________________ helység | ⎕⎕⎕⎕ év | ⎕⎕ hó | ⎕⎕ nap | _________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-22. melléklet a 35/2008. (XII. 31.) PM rendelethez[^15]
+22. melléklet a 35/2008. (XII. 31.) PM rendelethez[^19]
 
 | BEJELENTKEZÉS, VÁLTOZÁS-BEJELENTÉS |
 
@@ -472,4 +472,4 @@ Oldalszám: ⎕⎕⎕⎕
 
 | _____________________________ helység | ⎕⎕⎕⎕ év | ⎕⎕ hó | ⎕⎕ nap | _________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-[^15]: A 22. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be.
+[^19]: A 22. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be.

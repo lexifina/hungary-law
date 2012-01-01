@@ -56,4 +56,6 @@
 
 | ____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | ______________________________________________ az adózó vagy képviselője (meghatalmazottja) aláírása |
 
-11. melléklet a 35/2008. (XII. 31.) PM rendelethez
+11. melléklet a 35/2008. (XII. 31.) PM rendelethez[^10]
+
+[^10]: A 11. mellékletet az 54/2011. (XII. 29.) NGM rendelet 34. § 1. pontja hatályon kívül helyezte.

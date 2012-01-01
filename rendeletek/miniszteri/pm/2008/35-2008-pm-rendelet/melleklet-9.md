@@ -70,4 +70,6 @@
 
 | ____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | ________________________________________ beszedésre kötelezett vagy képviselője (meghatalmazottja) aláírása |
 
-9. melléklet a 35/2008. (XII. 31.) PM rendelethez
+9. melléklet a 35/2008. (XII. 31.) PM rendelethez[^9]
+
+[^9]: A 9. melléklet az 54/2011. (XII. 29.) NGM rendelet 33. § (5) bekezdésével megállapított szöveg.

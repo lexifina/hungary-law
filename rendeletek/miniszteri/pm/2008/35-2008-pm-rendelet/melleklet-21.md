@@ -30,6 +30,6 @@
 
 | 4. Bizonyítvány / igazolvány száma: _________________________________ |  |
 
-21. melléklet a 35/2008. (XII. 31.) PM rendelethez[^14]
+21. melléklet a 35/2008. (XII. 31.) PM rendelethez[^18]
 
-[^14]: A 21. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be.
+[^18]: A 21. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be.
