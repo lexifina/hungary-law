@@ -1,0 +1,1 @@
+156. § A Kúria elnökének halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a Kúria elnöke hathavi illetményének megfelelő összegű juttatás illeti meg.

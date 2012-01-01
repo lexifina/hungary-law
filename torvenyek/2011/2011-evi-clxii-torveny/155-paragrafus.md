@@ -1,0 +1,1 @@
+155. § A Kúria elnöke, valamint a vele együtt üdülő házastársa, élettársa, gyermeke, szülője, unokája és gyermekének házastársa – térítési díj ellenében – jogosult a Kormány központi üdülőjének használatára. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.

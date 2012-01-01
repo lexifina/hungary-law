@@ -1,0 +1,1 @@
+A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan érvényre juttatása érdekében, a bírák jogállásának, javadalmazásának és előmenetelének szabályairól az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 25–28. cikke alapján a következő törvényt alkotja:

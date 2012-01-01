@@ -1,0 +1,1 @@
+83. § Az alkalmatlanságot megállapító értékelés közlésének napjától a szolgálati bíróság jogerős határozatáig terjedő időben a bíró olyan tevékenységet nem folytathat, amely kizárólag bírói hatáskörbe tartozik.

@@ -1,0 +1,1 @@
+210. § A Kúria elnökének és az OBH elnökének vagyonnyilatkozata – az azonosító adatok kivételével – nyilvános. A vagyonnyilatkozat nyilvánosságra hozataláról az Országgyűlés elnöke gondoskodik. A hozzátartozói vagyonnyilatkozat nem nyilvános.

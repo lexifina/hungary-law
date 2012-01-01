@@ -1,0 +1,1 @@
+193. § A hitelintézet a negyedévet követő hónap 15. napjáig tájékoztatja a kincstárt a bírónak nyújtott kölcsönök állami kezességvállalással érintett részének negyedév végén fennálló állományáról, továbbá e kölcsönök számáról. Az adatgyűjtés és adatszolgáltatás egyedi azonosításra alkalmatlan módon történhet.

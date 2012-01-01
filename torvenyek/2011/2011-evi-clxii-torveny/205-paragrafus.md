@@ -1,0 +1,3 @@
+205. § (1) Az ellenőrzési eljárást az OBT, vagy az általa kijelölt tagja folytatja le.
+
+(2) Ellenőrzési eljárás kezdeményezése esetén, az ellenőrzés lefolytatása céljából a személyi részben feltüntetett adatok segítségével a személyi és a vagyoni rész adatait egymáshoz kell rendelni. Az ellenőrzési eljárást hat hónapon belül be kell fejezni. Az ellenőrzési eljárás befejezését követően a személyi és a vagyoni rész egymáshoz rendelését meg kell szüntetni és a személyi részben foglalt adatokat tartalmazó borítékot a munkáltatói jogkör gyakorlójának vissza kell küldeni, egyidejűleg a személyi rész adatait a számítógépes nyilvántartásból törölni kell.

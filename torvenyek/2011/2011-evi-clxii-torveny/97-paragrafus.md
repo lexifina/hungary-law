@@ -1,0 +1,5 @@
+97. § (1) A katonai bíró felmentéséről szóló javaslatot az OBH elnöke a honvédelemért felelős miniszterrel együttesen terjeszti a köztársasági elnök elé.
+
+(2) A katonai bírónak a Magyar Honvédségnél fennálló szolgálati viszonya – a lemondás kivételével – csak akkor szüntethető meg, ha katonai bírói tisztsége is megszűnik.
+
+(3) Ha a katonai bíró a Magyar Honvédségnél fennálló szolgálati viszonya megszűnésekor más bírói munkakörbe való beosztását kéri, az OBH elnöke az érintett bíró szolgálati viszonyának megtartása mellett a katonai bírói tisztségből történő felmentéséről, és egyben bírói tisztségre való kinevezéséről szóló javaslatot terjeszt a köztársasági elnök elé. A bírót ilyen esetben legalább törvényszékre kell beosztani azzal, hogy amennyiben a korábbi szolgálati helye szerinti törvényszékre osztják be, a korábbi bírósági vezetői kinevezését megtartja; e rendelkezéstől azonban a bíró hozzájárulásával el lehet térni. Ha a katonai bíró nem kéri más bírói munkakörbe való beosztását, az OBH elnöke a katonai bírói tisztségből való felmentésről szóló javaslatot terjeszt a köztársasági elnök elé.

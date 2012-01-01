@@ -1,0 +1,1 @@
+163. § Az OBH elnökhelyettesének juttatásaira – függetlenül attól, hogy a beosztást bíró vagy nem bíró tölti be – az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.

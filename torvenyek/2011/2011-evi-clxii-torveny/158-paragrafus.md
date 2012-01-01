@@ -1,0 +1,1 @@
+158. § A Kúria elnökhelyettesének juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a miniszter részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.

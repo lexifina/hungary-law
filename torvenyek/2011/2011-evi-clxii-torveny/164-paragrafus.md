@@ -1,0 +1,1 @@
+164. § Ha az OBH elnökhelyettese igazságügyi alkalmazott, javadalmazására és jogállására az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló, valamint a bíróságok szervezetéről és igazgatásáról szóló törvény rendelkezéseit kell alkalmazni.

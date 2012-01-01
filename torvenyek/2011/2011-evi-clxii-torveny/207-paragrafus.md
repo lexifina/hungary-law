@@ -1,0 +1,1 @@
+207. § Az OBT az ellenőrzési eljárás megállapításait közli a munkáltatói jogkör gyakorlójával. A munkáltatói jogkör gyakorlója a döntéséről és annak indokairól 15 napon belül tájékoztatja a bírót és az OBT-t. Ha a bíró a munkáltatói jogkör gyakorlójának a 90. § k) pontjára alapított döntését vitatja, jogorvoslatért bírósághoz fordulhat.

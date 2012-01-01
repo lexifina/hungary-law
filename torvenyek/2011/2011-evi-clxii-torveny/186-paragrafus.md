@@ -1,0 +1,3 @@
+186. § (1) Ha a bírót a szolgálati helyétől eltérő más településen működő olyan bíróságra rendelik ki, ahonnan a munkahelyére naponta nem tud visszautazni, a kirendelésen töltött munkanapokra – a közlekedési és a szállásköltség megtérítésén túl – élelmezési költségátalányként kirendelési díjra jogosult. Ha a kirendelésre a 32. § (1) bekezdése alapján kerül sor, a bíró a díj 150 százalékára jogosult.
+
+(2) Az a bíró, aki tisztségét a 33. §-ban foglaltakra tekintettel kiírt pályázat alapján tölti be, rendelkezésre állási pótlékra jogosult. A pótlék összege a bírói illetményalap összegének 20 százaléka.

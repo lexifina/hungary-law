@@ -1,0 +1,1 @@
+109. § A fegyelmi eljárás kezdeményezéséről az érintett bírót az eljárás kezdeményezője haladéktalanul értesíti. Ha a fegyelmi eljárást nem az OBH elnöke kezdeményezte, a kezdeményezésről az OBH elnökét is értesíteni kell.

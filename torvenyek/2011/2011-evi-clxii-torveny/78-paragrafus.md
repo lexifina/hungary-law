@@ -1,0 +1,3 @@
+78. § (1) Ha a bíró az értékelés eredményeként „alkalmas, utóvizsgálat lefolytatása indokolt” értékelést kap, az értékelő az értékelésben megállapítja a tapasztalt hiányosságokat, rendellenességeket és megjelöli a kívánt változtatás fő szempontjait, amelyeket a következő vizsgálat alkalmával meg kell vizsgálni. A következő vizsgálatot 2 éven belül el kell végezni. A 25. § (4) bekezdése szerint ismét határozott időre kinevezett bíró vizsgálatát a határozott idő leteltét megelőzően kell elvégezni.
+
+(2) A bíró a következő vizsgálatkor alkalmatlan minősítést kap abban az esetben is, ha az értékelése e vizsgálat alkalmával sem éri el legalább az alkalmas értékelést.

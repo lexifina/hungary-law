@@ -1,0 +1,1 @@
+13. § Ha a pályázó pályázata elkésett, azt a bíróság elnöke – a járásbíróság elnöke, valamint a közigazgatási és munkaügyi bíróság elnöke kivételével – elutasítja; a hiányos pályázatot benyújtó pályázót [12. §, 45. § (1) bekezdés] pedig rövid határidő tűzésével felhívja a hiányok pótlására, ennek elmulasztása esetén a pályázatot elutasítja.

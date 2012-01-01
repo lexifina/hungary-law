@@ -1,0 +1,1 @@
+38. § A bíró a bírói szolgálati viszony fennállása alatt a munkáltatói jogkör gyakorlójának írásbeli felhívására, a felhívás kézhezvételétől számított 15 munkanapon belül hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll fenn vele szemben a 4. § (2) bekezdés a)–f) pontjában meghatározott körülmény.

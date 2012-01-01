@@ -1,0 +1,1 @@
+231. § A 25. § (3) bekezdését a részmunkaidőben történő foglalkoztatásnak az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény hatálybalépését követően ledolgozott időtartama tekintetében kell alkalmazni.

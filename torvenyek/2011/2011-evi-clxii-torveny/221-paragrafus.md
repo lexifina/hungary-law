@@ -1,0 +1,11 @@
+## 79. Az ülnök javadalmazása
+
+221. § (1) A munkaviszonyban, kormánytisztviselői, közszolgálati vagy közalkalmazotti jogviszonyban, a fegyveres szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban [2006. évi X. törvény 56. § (2) bekezdés] stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
+
+(2) Ha valamely jogszabályban biztosított juttatáshoz való jogosultság, illetve annak mértéke meghatározott munkateljesítménytől vagy a munkában eltöltött napok számától függ, az ülnöki működés időtartamát munkában töltött időként kell számításba venni.
+
+(3) Az (1) bekezdésben meghatározott jogviszonyokban nem álló, vagy az ülnöki működése idejére munkabérben (díjazásban) nem részesülő ülnököt tiszteletdíj illeti meg. A tiszteletdíj mértéke az ülnök működésének minden napjára a bírói illetményalap egy munkanapra eső összegének a 25 százaléka.
+
+(4) Ha a távolléti díj az (1) bekezdés szerinti esetben nem éri el a (3) bekezdésben meghatározott tiszteletdíj arányos részét, azt a tiszteletdíj összegéig ki kell egészíteni.
+
+(5) Az ülnök a hivatalos kiküldetésével járó költségeket a bírákra irányadó rendelkezések megfelelő alkalmazásával számolhatja el.

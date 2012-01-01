@@ -1,0 +1,1 @@
+194. § A bíró részére a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel alapított kitüntetés, illetve a törvényben kapott felhatalmazás alapján alapított kitüntető cím, díj, oklevél, plakett vagy más elismerés adományozható.

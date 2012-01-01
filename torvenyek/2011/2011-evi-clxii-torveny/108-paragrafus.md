@@ -1,0 +1,3 @@
+108. § (1) Ha a bíró vétkessége enyhébb fokú, és a kötelességszegés nem, vagy csak csekély mértékben járt következménnyel, a fegyelmi eljárás kezdeményezésétől el lehet tekinteni.
+
+(2) Az (1) bekezdés szerinti esetben a fegyelmi eljárás kezdeményezésére jogosult a bírót figyelmeztetésben részesíti. Az írásban közölt döntés ellen a bíró a közléstől számított 15 napon belül fegyelmi eljárás lefolytatását kérheti. Ha a bíró a fegyelmi eljárás lefolytatását kérte, erről a fegyelmi eljárás kezdeményezésére jogosult az elsőfokú szolgálati bíróság elnökét haladéktalanul értesíti; ebben az esetben a fegyelmi eljárás lefolytatása nem tagadható meg.
