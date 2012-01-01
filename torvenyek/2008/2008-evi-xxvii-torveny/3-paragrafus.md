@@ -5,3 +5,11 @@
 (3)–(6)
 
 ## Melléklet az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényhez
+
+A közjogi tisztségviselő esküjének szövege
+
+Én, (az eskütevő neve) fogadom, hogy Magyarországhoz és annak Alaptörvényéhez hű leszek, jogszabályait megtartom és másokkal is megtartatom; (a tisztség megnevezése) tisztségemet a magyar nemzet javára gyakorolom.
+
+(Az eskütevő meggyőződése szerint)
+
+Isten engem úgy segéljen!
