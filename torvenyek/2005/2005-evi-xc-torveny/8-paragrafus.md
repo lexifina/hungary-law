@@ -1,3 +1,0 @@
-8. § (1) Az adatfelelős gondoskodik a kezelésében lévő, közérdekű adatokat tartalmazó honlapok, adatbázisok, illetve nyilvántartások leíró adatainak a központi elektronikus jegyzék működtetőjének történő továbbításáról és a továbbított adatok rendszeres frissítéséről. Ugyancsak felel az egységes közadatkereső rendszerbe továbbított közérdekű adatok tartalmáért és a továbbított adatok rendszeres frissítéséért is.
-
-(2) A közérdekű adatokat tartalmazó adatbázisok, illetve nyilvántartások jegyzékének fenntartása, valamint az egységes közadatkereső rendszerhez való csatlakozás nem mentesíti az adatfelelőst a honlapon való közzététel kötelezettsége alól.

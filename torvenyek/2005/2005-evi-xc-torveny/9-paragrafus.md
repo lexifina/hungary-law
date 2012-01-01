@@ -1,5 +1,0 @@
-## HARMADIK RÉSZ
-
-## A JOGALKOTÁS NYILVÁNOSSÁGA
-
-9–10. §
