@@ -1,6 +1,6 @@
 12. § (1) Pénzjutalomban kell részesíteni a személyi állomány tagját, ha a belügyi szerveknél bármely foglakoztatási jogviszonyban eltöltött legalább 10 szolgálati évvel vagy 500 repült órával rendelkezik, és minden további 5 vagy 250 repült óra foglalkoztatási jogviszonyban eltöltött szolgálati év után.
 
-(2)[^5] A jutalom összege az (1) bekezdés szerinti első esedékességkor a kifizethető legalacsonyabb jutalom összegével azonos, amely a további ötévenként a mindenkori illetményalap 15%-ának száz forintra kerekített összegével emelkedik.
+(2)[^6] A jutalom összege az (1) bekezdés szerinti első esedékességkor a kifizethető legalacsonyabb jutalom összegével azonos, amely a további ötévenként a mindenkori illetményalap 15%-ának száz forintra kerekített összegével emelkedik.
 
 (3) Az (1) bekezdésben meghatározott jutalom adományozásánál
 
@@ -12,4 +12,4 @@ c) akinek a korábbi foglalkoztatási jogviszonya nyugállományba helyezéssel 
 
 (4) Részmunkaidőben történő ismételt foglalkoztatás esetén ez az elismerés nem alkalmazható.(5) Nyugállományba helyezés esetén, amennyiben az (1) bekezdés szerinti jutalom az azt követő egy éven belül esedékes lenne, azt a nyugállományba helyezéskor az utolsó munkában töltött napon át kell adni.
 
-[^5]: A 12. § (2) bekezdése a 3/2001. (I. 19.) BM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 12. § (2) bekezdése a 3/2001. (I. 19.) BM rendelet 2. §-ával megállapított szöveg.
