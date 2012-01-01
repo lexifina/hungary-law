@@ -6,7 +6,7 @@
 
 11. § (1) A jelzáloglevél kizárólag a jelzálog-hitelintézet által e törvény alapján kibocsátott névre szóló, átruházható értékpapír.
 
-(2) A Magyar Köztársaság területén előállított jelzáloglevélre a kötvényről szóló jogszabály rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A Magyarország területén előállított jelzáloglevélre a kötvényről szóló jogszabály rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A jelzáloglevélnek tartalmaznia kell:
 
