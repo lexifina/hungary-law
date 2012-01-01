@@ -2,9 +2,9 @@
 
 ## A területi kamara
 
-5. § (1) A területi kamara jogi személy, amely képviseleti, ügyintézői szervezettel és önálló költségvetéssel rendelkezik, és a működési területén képviseli a szakértők érdekeit, gondoskodik a jogaik védelméről, ellátja az alapszabályban meghatározott feladatokat.
+5. § (1) A területi kamara jogi személy, amely képviseleti, ügyintézői szervezettel és önálló költségvetéssel rendelkezik, és a működési területén képviseli a szakértők érdekeit, gondoskodik a jogaik védelméről, ellátja az alapszabályban meghatározott feladatokat. A területi kamarát a törvényszék nem veszi nyilvántartásba.
 
-(2) A Magyar Köztársaság területén a következő területi kamarák működnek:
+(2) Magyarországon a következő területi kamarák működnek:
 
 a) Budapesti Igazságügyi Szakértői Kamara: Budapest, Nógrád megye és Pest megye,
 
@@ -26,4 +26,4 @@ területén.
 
 (3) A területi kamara székhelye az elnevezésében szereplő város, illetve a területi kamara alapszabályában meghatározott hely.
 
-(4) A területi kamara jogosult az állami címer használatára.
+(4)

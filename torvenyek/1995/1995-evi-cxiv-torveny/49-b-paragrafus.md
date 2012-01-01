@@ -2,7 +2,7 @@
 
 (2) Az érintett kamara elnöke köteles a megjelölt határidőn belül a jogsértés megszüntetése érdekében a szükséges intézkedéseket megtenni, vagy egyet nem értéséről az igazságügyért felelős minisztert tájékoztatni.
 
-(3) Ha az érintett kamara elnöke a megjelölt határidőn belül a szükséges intézkedéseket nem tette meg, vagy az igazságügyért felelős miniszter felhívásában foglaltakkal nem ért egyet, továbbá ha a megadott határidőn belül nem nyilatkozik, az érintett kamara ellen az igazságügyért felelős miniszter az elnök tájékoztatásának kézhezvételétől, illetve a felhívásában megjelölt határidő leteltétől számított 30 napon belül – a jogsértés megszüntetése érdekében – a polgári perrendtartásról szóló törvény általános szabályai szerint bírósághoz fordulhat. A per elbírálása a megyei (fővárosi) bíróság hatáskörébe tartozik.
+(3) Ha az érintett kamara elnöke a megjelölt határidőn belül a szükséges intézkedéseket nem tette meg, vagy az igazságügyért felelős miniszter felhívásában foglaltakkal nem ért egyet, továbbá ha a megadott határidőn belül nem nyilatkozik, az érintett kamara ellen az igazságügyért felelős miniszter az elnök tájékoztatásának kézhezvételétől, illetve a felhívásában megjelölt határidő leteltétől számított 30 napon belül – a jogsértés megszüntetése érdekében – a polgári perrendtartásról szóló törvény általános szabályai szerint bírósághoz fordulhat. A per elbírálása a törvényszék hatáskörébe tartozik.
 
 (4) Ha bíróság a (3) bekezdés alapján indított eljárás során a jogsértést megállapítja,
 
