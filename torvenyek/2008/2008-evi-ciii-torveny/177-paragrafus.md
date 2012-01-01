@@ -1,5 +1,0 @@
-177. § (1) E törvény – 175. §-ának (1) bekezdése szerinti – hatálybalépésekor már működő független biztosításközvetítő a Bit. – e törvénnyel módosított – 39. §-ában szereplő új értékhatároknak 2009. június 30-át követően köteles megfelelni, és ezt a Felügyeletnek az éves jelentésében igazolni.
-
-(2) E törvény – 175. §-ának (1) bekezdése szerinti – hatálybalépésekor biztosító vezető biztosításmatematikusaként (aktuáriusként) már alkalmazásban álló személy a Bit. – e törvénnyel módosított – 86. §-a (1) bekezdésének b) pontjában szereplő új feltételeknek 2010. január 1-jétől köteles megfelelni.
-
-(3) Amennyiben 2008. június 30-án a Felügyelet által már nyilvántartásba vett, felsőfokú végzettséggel vagy a számára előírt biztosításközvetítői szakképesítéssel nem rendelkező, biztosításközvetítői tevékenységet végző természetes személyt illetően a nyilvántartásba vételétől számított 24 hónapot követő 30 napon belül a külön jogszabály szerinti hatósági vizsga megszerzéséről a Felügyelet az általa meghatározott módon bejelentést kap, a Felügyelet e személyt nem törli a nyilvántartásból.

@@ -1,3 +1,0 @@
-106. § A Bit. 116. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A biztosító vezető állású személyei, egyéb vezetői (83. § és 85. §), valamint érdemi ügyintézői kötelesek a biztosítónak bejelenteni, ha ők vagy közeli hozzátartozójuk a biztosítóval szerződéses kapcsolatba lépni kívánó félnél minősített befolyással, a megkötendő szerződésben más érdekeltséggel rendelkeznek vagy a biztosítóval szerződéses kapcsolatba lépni kívánó félnél igazgatósági, illetve felügyelőbizottsági tisztséget viselnek. Ilyen esetben a nevezettek e döntés előkészítésében és meghozatalában nem vehetnek részt (összeférhetetlenség).”
