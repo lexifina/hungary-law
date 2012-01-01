@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-74-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2008-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-74-00-00.10 |
+| 2012-01-01 | 2011. évi CLXVII. törvény | 2001-74-00-00.11 |
