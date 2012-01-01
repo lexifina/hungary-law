@@ -2,7 +2,7 @@
 
 a) ha a határozatot közigazgatási eljárás keretében hozták, az erre irányadó törvényi rendelkezések szerint,
 
-b) egyéb esetben a pályázati eljárásban igénybe vehető jogorvoslati lehetőségek kimerítését követően a határozatot hozó szerv ellen indított polgári nemperes eljárásban a határozatot hozó szerv székhelye szerint illetékes megyei bíróságtól
+b) egyéb esetben a pályázati eljárásban igénybe vehető jogorvoslati lehetőségek kimerítését követően a határozatot hozó szerv ellen indított polgári nemperes eljárásban a határozatot hozó szerv székhelye szerint illetékes törvényszéktől
 
 lehet kérni.
 

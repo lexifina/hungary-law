@@ -14,9 +14,9 @@ ca) feladat- és hatásköre alapján a támogatási döntés meghozatalára jog
 
 cb) feladat- és hatásköre alapján támogatási döntésre érdemi befolyással rendelkezik, így különösen, ha a támogatási döntéshez kapcsolódóan egyetértési, vétó-, hozzájárulási, illetve jóváhagyási joggal rendelkezik, vagy ilyen joggal rendelkező szerv vezetője vagy testület tagja;
 
-d) kizárt közjogi tisztségviselő: a Kormány tagja, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a regionális fejlesztési tanács elnöke, a fejlesztéspolitikai ügyekben feladatkörrel rendelkező központi hivatal vezetője, a regionális fejlesztési tanács által törvény előírása alapján létrehozott társaság vezető tisztségviselői, felügyelő bizottsága tagjai, illetve az Ágazati Operatív Programok Közreműködő szervezetei vezető tisztségviselői és ellenőrző szervének tagjai;
+d) kizárt közjogi tisztségviselő: a Kormány tagja, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a megyei közgyűlés elnöke, a fővárosi közgyűlés esetében a főpolgármester, a területfejlesztésről és a területrendezésről szóló törvény által meghatározott regionális fejlesztési ügynökség vezető tisztségviselői, felügyelő bizottsága tagjai, illetve az Ágazati Operatív Programok Közreműködő szervezetei vezető tisztségviselői és ellenőrző szervének tagjai;
 
-e) nem kizárt közjogi tisztségviselő: a köztársasági elnök, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő, az országgyűlési és az európai parlamenti képviselő, a polgármester, az alpolgármester, a főpolgármester, a főpolgármester-helyettes, a helyi önkormányzati képviselő, a helyi önkormányzat képviselő-testülete bizottságának tagja, a központi államigazgatási szerv – a d) pont alá nem tartozó – vezetője és helyettesei, a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei, a regionális fejlesztési tanács tagja;
+e) nem kizárt közjogi tisztségviselő: a köztársasági elnök, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő, az országgyűlési és az európai parlamenti képviselő, a polgármester, az alpolgármester, a főpolgármester, a főpolgármester-helyettes, a helyi önkormányzati képviselő, a helyi önkormányzat képviselő-testülete bizottságának tagja, a központi államigazgatási szerv – a d) pont alá nem tartozó – vezetője és helyettesei;
 
 f) közeli hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) által meghatározott közeli hozzátartozó;
 
@@ -44,7 +44,7 @@ ca) legalább 5%-os tulajdonában álló nyilvánosan működő részvénytársa
 
 cb) bármilyen arányú tulajdonában álló gazdasági társaság (ide nem értve a nyilvánosan működő részvénytársaságot).
 
-(5) Az (1) bekezdés d)–e) pontját nem kell alkalmazni arra, aki tisztségét nem a Magyar Köztársaság joghatósága alapján kibocsátott jogszabályban meghatározott eljárásban nyerte el.
+(5) Az (1) bekezdés d)–e) pontját nem kell alkalmazni arra, aki tisztségét nem Magyarország joghatósága alapján kibocsátott jogszabályban meghatározott eljárásban nyerte el.
 
 (6) Nem minősül az (1) bekezdés b) pontja szerinti közreműködésnek, ha a természetes személy
 

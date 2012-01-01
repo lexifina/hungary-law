@@ -18,7 +18,7 @@ b) közzéteszi az elnyert támogatás összegét.
 
 (4) A pályázatot befogadó szerv törli az (1)–(3) bekezdés alapján közzétett adatokat a támogatás igényléséhez való jog megnyílása naptári évének utolsó napjától számított öt év elteltével.
 
-(5) Az (1)–(4) bekezdést nem kell alkalmazni az e törvény hatálya alá tartozó, a Munkaerőpiaci Alapból természetes személyek számára nyújtott támogatások esetében.
+(5) Az (1)–(4) bekezdést nem kell alkalmazni az e törvény hatálya alá tartozó, a Nemzeti Foglalkoztatási Alapból természetes személyek számára nyújtott támogatások esetében.
 
 (6) A honlapon bárki számára, ingyenesen biztosítani kell a közzétett adatok kereshetőségét, pályázatonként, pályázónként, összeghatár szerint és más módon csoportosított lekérdezhetőségét.
 
