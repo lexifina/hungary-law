@@ -1,0 +1,5 @@
+29. § A Bv. tvr. 35. §-a helyébe a következő rendelkezés lép:
+
+„35. § (1) A szabadságvesztés végrehajtása során az elítéltet ért kárért a Polgári Törvénykönyv szerint a bv. szervezet felelős. Az elítéltet a munkájával összefüggésben ért kárért fennálló felelősségre a Munka Törvénykönyve értelemszerűen irányadó azzal, hogy a 44. § (5) bekezdése szerinti munkáltatás esetén az elítéltet ért kárt a gazdálkodó szervezettel szerződésben álló bv. szerv téríti meg. A kár megtérítése a kárért való felelősséget nem érinti, és a bv. szerv visszkereseti igényét nem gátolja.
+
+(2) Az elítélt a kártérítési igényét annál a bv. szervnél terjesztheti elő, ahol a kár bekövetkezett, a 44. § (5) bekezdése szerinti munkáltatás esetén annál a bv. szervnél, amely a szerződést a gazdálkodó szervezettel megkötötte. A kártérítési igényt határozattal kell elbírálni, amely ellen az elítélt a közléstől számított harminc napon belül a határozatot hozó bv. szerv székhelye szerint illetékes bírósághoz keresettel fordulhat.”

@@ -1,0 +1,3 @@
+51. § A Be. 154. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A lefoglalt dolgot letétbe kell helyezni; ha a dolog letétbe helyezésre nem alkalmas, vagy azt más fontos ok indokolja, a megőrzéséről egyéb módon kell gondoskodni. Ez utóbbi esetben a lefoglalt dolognak a bűncselekménnyel kapcsolatos egyedi tulajdonságait rögzítő iratot vagy fényképet kell az ügy irataihoz csatolni. Az érdekelt őrizetében hagyott vagy más szerv őrizetébe adott dolog a lefoglalást elrendelő bíróság, ügyész, illetve nyomozó hatóság hozzájárulása hiányában más birtokába, kezelésébe nem adható. A bíróság, az ügyész, illetve a nyomozó hatóság hozzájárulása esetén a lefoglalt dolog megőrzésére az új birtokost, kezelőt kötelezi.”
