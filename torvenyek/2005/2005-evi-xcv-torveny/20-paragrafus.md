@@ -16,10 +16,10 @@ e) ismételt, vagy súlyos közegészségügyi veszélyt rejtő jogsértés eset
 
 (4) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható.
 
-(5) Az e törvény szerinti, gyógyszerellátással kapcsolatos kötelezettség megszegése esetén, a bírság összegét az eset összes körülményeire – így különösen a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására – tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer Ft. A jogerősen kiszabott és be nem fizetett bírságot adók módjára kell behajtani.
+(5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására vagy az eset más a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer forint.
 
 (6)
 
-(7) A bírságot a gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv számlájára kell befizetni. Amennyiben a jogsértő magatartást, illetve a mulasztást támogatott gyógyszerrel összefüggésben követték el, a kiszabott bírság 50%-át az Egészségbiztosítási Alapba kell befizetni.
+(7) A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv vagy egészségügyi államigazgatási szerv számlájára kell befizetni.
 
 (8) A lakossági gyógyszerellátásban résztvevők hatósági ellenőrzéséről egyebekben külön jogszabály rendelkezik.

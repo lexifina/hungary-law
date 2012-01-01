@@ -1,6 +1,6 @@
 ## A gyógyszergyártás feltételei
 
-4. § (1) A Magyar Köztársaság területén gyógyszert gyártani – a magisztrális gyógyszerek gyógyszertári előállítását kivéve – a gyógyszerészeti államigazgatási szerv által kiadott, e tevékenység végzésére jogosító engedélye birtokában lehet. A gyógyszer gyártója az a gazdálkodó szervezet, amely rendelkezik a gyógyszer gyártására jogosító hatósági engedéllyel.
+4. § (1) Magyarország területén gyógyszert gyártani – a magisztrális gyógyszerek gyógyszertári előállítását kivéve – a gyógyszerészeti államigazgatási szerv által kiadott, e tevékenység végzésére jogosító engedélye birtokában lehet. A gyógyszer gyártója az a gazdálkodó szervezet, amely rendelkezik a gyógyszer gyártására jogosító hatósági engedéllyel.
 
 (2) A gyógyszer gyártására jogosító engedélyt a gyógyszerészeti államigazgatási szerv akkor adja meg, ha a kérelmező rendelkezik olyan – a külön jogszabályban meghatározott – személyi és tárgyi feltételekkel, amelyek biztosítják, hogy az általa gyártott gyógyszer minősége a gyártást követően megfelel a forgalomba hozatali engedélyben meghatározott követelményeknek. A gyógyszer gyártására jogosító engedély magában foglalja a saját előállítású termékkel történő nagykereskedelmi jogosultságot is, azzal a feltétellel, hogy a gyógyszer-nagykereskedelmi tevékenység folytatása során egyebekben meg kell felelni a gyógyszer-nagykereskedelemre vonatkozó külön jogszabályban meghatározott személyi, tárgyi feltételeknek.
 

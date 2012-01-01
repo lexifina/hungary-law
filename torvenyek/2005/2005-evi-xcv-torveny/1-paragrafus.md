@@ -40,7 +40,7 @@ e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszere
 
 9. forgalomba hozatali engedély jogosultja: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet, amely részére az arra jogosult hatóság a gyógyszer forgalomba hozatalát engedélyezte;
 
-10. a forgalomba hozatali engedély jogosultjának képviselője: a forgalomba hozatali engedély jogosultja által kijelölt természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet, aki forgalomba hozatali engedély jogosultját a Magyar Köztársaság területén az általa megjelölt ügycsoportokban képviseli;
+10. a forgalomba hozatali engedély jogosultjának képviselője: a forgalomba hozatali engedély jogosultja által kijelölt természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet, aki forgalomba hozatali engedély jogosultját Magyarország területén az általa megjelölt ügycsoportokban képviseli;
 
 11. gyógyszergyártás: olyan engedélyhez kötött termelőtevékenység, ahol ellenőrzött ipari körülmények között gyógyszert állítanak elő;
 
@@ -66,7 +66,7 @@ e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszere
 
 22. Szabványos Vényminta Gyűjtemény (FoNo): a magisztrális gyógyszerkészítés szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
 
-23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyar Köztársaságban érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és ez a Magyar Köztársaságban már forgalomban lévő gyógyszertől nem várható;
+23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől vagy Magyarországon alkalmazott biztonságos és hatékony terápiás eljárástól nem várható;
 
 24. Európai Gyógyszerügynökség: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelettel létrehozott Európai Gyógyszerügynökség;
 

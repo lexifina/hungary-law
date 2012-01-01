@@ -2,11 +2,11 @@
 
 25. § (1) Gyógyszert rendelni az egészségügyről szóló 1997. évi CLIV. törvény 129. §-ában foglaltakra figyelemmel – az e törvényben és az annak végrehajtására megalkotott rendeletben foglalt kivétellel – csak a forgalomba hozatali engedélyében jóváhagyott alkalmazási előírásban szereplő – a Vényminták Gyűjteményében szereplő készítmény esetén az ott közölt – javallatban lehet. Gyógyszer rendelésére jogosult minden orvos és fogorvos (a továbbiakban együtt: orvos), aki az orvosi oklevélhez kötött tevékenység folytatására jogosult, és a külön jogszabályban meghatározott, gyógyszerrendelésre jogosító bélyegzővel rendelkezik.
 
-(2) Azt a gyógyszert, amely az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, különleges esetben gyógyászati célra akkor lehet alkalmazni, ha felhasználását különös méltánylást érdemlő betegellátási érdek vagy a Gyftv. 21. § (4) bekezdésében foglalt gyógyszerhiány indokolja, és alkalmazását – a külön jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte. Azt a gyógyszert, amelyet az EGT-megállapodásban részes államban forgalomba hozatalra engedélyeztek, gyógyászati célra akkor lehet alkalmazni, ha azt a külön jogszabályban foglaltaknak megfelelően a gyógyszerészeti államigazgatási szervnek bejelentették.
+(2) Azt a gyógyszert, amely az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, különleges esetben gyógyászati célra akkor lehet alkalmazni, ha a felhasználását különös méltánylást érdemlő betegellátási érdek indokolja, és alkalmazását – a külön jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte. Azt a gyógyszert, amelyet az EGT-megállapodásban részes államban forgalomba hozatalra engedélyeztek, gyógyászati célra akkor lehet alkalmazni, ha azt a külön jogszabályban foglaltaknak megfelelően a gyógyszerészeti államigazgatási szervnek bejelentették. A különös méltánylást érdemlő betegellátási érdek fennállása a terápiás eljárás biztonságossága és hatékonysága tekintetében a szakmai kollégium véleményét figyelembe véve kerül megállapításra.
 
 (3) Az orvosi gyógyszerrendelés részletes szabályait külön jogszabály állapítja meg.
 
-(4) A Magyar Köztársaság területén külföldre küldött és a Magyarországra érkező gyógyszeradományok az alábbi feltételekkel kerülhetnek kivitelre, illetve behozatal esetén hazai alkalmazásra:
+(4) A külföldre küldött és a Magyarországra érkező gyógyszeradományok az alábbi feltételekkel kerülhetnek kivitelre, illetve behozatal esetén hazai alkalmazásra:
 
 a) amennyiben a gyógyszer az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, abban az esetben, ha a gyógyszer kivitelét vagy behozatalát a gyógyszerészeti államigazgatási szerv engedélyezi,
 
@@ -32,12 +32,12 @@ c) a (6) bekezdés b)–c) pontjában foglaltak teljesülnek.
 
 (7) Amennyiben a gyógyszer rendelése a forgalomba hozatali engedélyének alkalmazási előírása alapján az adott esetben ellenjavallt, nem lehet indikáción túli gyógyszerrendelés keretében sem alkalmazni.
 
-(8) A gyógyszerészeti államigazgatási szerv a (6) bekezdés szerinti engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy napon – sürgős szükség esetén soron kívül, de legkésőbb három napon – belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
+(8) A gyógyszerészeti államigazgatási szerv a (6)–(6a) bekezdés szerinti engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy napon – sürgős szükség esetén soron kívül, de legkésőbb három napon – belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
 
 (9) Sürgős szükség esetén indokolt, indikáción túli gyógyszerrendelés szabályait külön jogszabály tartalmazza.
 
 (10) Az orvos a (8) bekezdés szerinti engedély másolatát a gyógyszeres kezelés megkezdését megelőzően átadja a betegnek, aki az átvételt aláírásával igazolja. Az átvételről szóló igazolást az orvos csatolja a betegdokumentációhoz.
 
-(11) A gyógyszerészeti államigazgatási szerv a (6) bekezdésben foglalt gyógyszerrendelésről nyilvántartást vezet a beteg állapotának, valamint a gyógyszer hatásának folyamatos nyomon követése érdekében, mely nyilvántartás tartalmazza az orvos nevét és pecsétszámát, a beteg nevét, születési idejét és TAJ-számát, a gyógyszer nevét, hatóanyagát, hatáserősségét, gyógyszerformáját, kiszerelését, valamint annak a javallatnak a pontos megnevezését, amelyben a kezelőorvos a gyógyszert rendelni kívánja, valamint a gyógyszer tervezett adagolását, a kezelés várható időtartamát.
+(11) A gyógyszerészeti államigazgatási szerv a (6)–(6a) bekezdésben foglalt gyógyszerrendelésről nyilvántartást vezet a beteg állapotának, valamint a gyógyszer hatásának folyamatos nyomon követése érdekében, mely nyilvántartás tartalmazza az orvos nevét és pecsétszámát, a beteg nevét, születési idejét és TAJ-számát, a gyógyszer nevét, hatóanyagát, hatáserősségét, gyógyszerformáját, kiszerelését, valamint annak a javallatnak a pontos megnevezését, amelyben a kezelőorvos a gyógyszert rendelni kívánja, valamint a gyógyszer tervezett adagolását, a kezelés várható időtartamát.
 
-(12) A (6) bekezdés c) pontja szerinti kérelemre, a (8) bekezdés szerinti engedélyre és a (10) bekezdés szerinti betegtájékoztatásra vonatkozó részletes szabályokat külön jogszabály tartalmazza.
+(12) A (6)–(6a) bekezdés szerinti kérelemre, a (8) bekezdés szerinti engedélyre és a (10) bekezdés szerinti betegtájékoztatásra vonatkozó részletes szabályokat külön jogszabály tartalmazza.

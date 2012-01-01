@@ -622,6 +622,46 @@ Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájéko
 
 |
 
+I.A.2.3.a.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok
+
+|
+
+100 000
+
+|
+
+I.A.2.3.b.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Egyéb beadványok
+
+|
+
+20 000
+
+|
+
 I.A.2.4.
 
 |
@@ -636,7 +676,7 @@ A forgalomba hozatali engedély jogosultság átruházása (jogutódlás)
 
 |
 
-100 000
+180 000
 
 |
 
@@ -2086,6 +2126,48 @@ Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájéko
 
 |
 
+I.B.2.3.a.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet
+
+3. § (4) bekezdésnek megfelelő beadványok
+
+|
+
+100 000
+
+|
+
+I.B.2.3.b.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Egyéb beadványok
+
+|
+
+20 000
+
+|
+
 I.B.2.4.
 
 |
@@ -2100,7 +2182,7 @@ A forgalomba hozatali engedély jogosultság átruházása (jogutódlás)
 
 |
 
-100 000
+180 000
 
 |
 
@@ -3094,6 +3176,50 @@ Egyéb
 
 |
 
+II.B.2.3.a.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok
+
+|
+
+100 000
+
+|
+
+II.B.2.3.b.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Egyéb beadványok
+
+|
+
+20 000
+
+|
+
 II.B.3.
 
 |
@@ -3126,7 +3252,7 @@ A forgalomba hozatali engedély jogosultság átruházása (jogutódlás)
 
 |
 
-100 000
+180 000
 
 |
 

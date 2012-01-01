@@ -4,9 +4,9 @@
 
 (2) A gyógyszerek megsemmisítésének módját és a követendő eljárás rendjét, a kábítószernek, illetve a pszichotróp anyagnak minősülő gyógyszerek esetén alkalmazandó fokozott biztonsági rendszabályokat, valamint a környezetvédelmi előírások betartásának ellenőrzését az egészségügyért felelős miniszter szabályozza.
 
-(3) A gyógyszerészeti államigazgatási szerv a Magyar Köztársaságban forgalomba hozatalra engedélyezett gyógyszerekről közhiteles nyilvántartást vezet.
+(3) A gyógyszerészeti államigazgatási szerv a Magyarországon forgalomba hozatalra engedélyezett gyógyszerekről közhiteles nyilvántartást vezet.
 
-(4) A Magyar Köztársaságban forgalomba hozatalra engedélyezett közfinanszírozásban részesülő gyógyszerek termelői (import beszerzői) és fogyasztói árát, valamint térítési díját a külön jogszabályban foglaltak szerint közzé kell tenni.
+(4) A Magyarországon forgalomba hozatalra engedélyezett közfinanszírozásban részesülő gyógyszerek termelői (import beszerzői) és fogyasztói árát, valamint térítési díját a külön jogszabályban foglaltak szerint közzé kell tenni.
 
 (5) Az egészségbiztosítási szerv és a gyógyszerészeti államigazgatási szerv a hivatalos lapjukban megjelenő – a gyógyszerek forgalomba hozatalával, orvosi rendelésével, valamint az árukhoz nyújtott társadalombiztosítási támogatással kapcsolatos – közleményeiket az internetes honlapjukon közzéteszik.
 

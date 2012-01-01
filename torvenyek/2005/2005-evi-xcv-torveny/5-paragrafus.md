@@ -14,7 +14,7 @@ c) előny/kockázat aránya kedvező.
 
 a) azt jogszabály, nemzetközi egyezmény előírja, vagy
 
-b) meggyőződött arról, hogy az EGT-megállapodásban részes államon kívüli államban végzett vizsgálatok végrehajtása és annak ellenőrzési gyakorlata megfelel a Magyar Köztársaságban előírt követelményeknek.
+b) meggyőződött arról, hogy az EGT-megállapodásban részes államon kívüli államban végzett vizsgálatok végrehajtása és annak ellenőrzési gyakorlata megfelel a Magyarországon előírt követelményeknek.
 
 (4) A gyógyszerészeti államigazgatási szerv elutasítja a forgalomba hozatali engedély iránti kérelmet, ha a közvetlen vagy külső csomagoláson feltüntetett e törvény szerinti közérthető tájékoztatás (a továbbiakban: címke) vagy a betegtájékoztató nem felel meg az e törvény és a külön jogszabály címkére és betegtájékoztatóra vonatkozó rendelkezéseinek, illetve az alkalmazási előírásban felsorolt adatoknak.
 
@@ -34,7 +34,7 @@ f) lejárati idejét és tárolásának körülményeit.
 
 (6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem beérkezését követő naptól számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
 
-(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább hat hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy a külön jogszabály szerinti mellékhatás bejelentési kötelezettség alapján beérkezett adatok alapján legfeljebb csak öt évre újítja meg.
+(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább hat hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy a külön jogszabály szerinti mellékhatás bejelentési kötelezettség alapján beérkezett adatok alapján csak öt évre újítja meg.
 
 (8)
 
