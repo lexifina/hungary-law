@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-15-20-1
 | 2011-08-28 | 2008-15-20-1X.7 | 18/2009. (IX. 10.) SZMM rendelet |
 | 2011-09-15 | 2008-15-20-1X.8 | 18/2009. (IX. 10.) SZMM rendelet |
 | 2011-11-06 | 2008-15-20-1X.9 | 19/2009. (IX. 25.) SZMM rendelet |
+| 2012-01-01 | 2008-15-20-1X.10 | 19/2009. (IX. 25.) SZMM rendelet |
