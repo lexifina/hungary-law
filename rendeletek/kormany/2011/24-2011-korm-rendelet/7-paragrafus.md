@@ -1,4 +1,4 @@
-7. § (1) A közalkalmazotti szakszervezet reprezentativitását az MKIR rendszer üzemeltetője által közzétett adatok alapján
+7. § (1)[^5] A közalkalmazotti szakszervezet reprezentativitását a Hivatal által közzétett adatok alapján
 
 a) az Országos Reprezentativitást Megállapító Bizottság, valamint
 
@@ -25,3 +25,5 @@ számára írásban kell bejelentenie részvételi szándékát, legkésőbb a K
 (5) Az RMB-ben való részvétellel több szakszervezet együttesen is megbízhat egy képviselőt. A képviselő akadályoztatása esetén a szakszervezet, illetve az országos szakszervezeti szövetség által kijelölt helyettes járhat el.
 
 (6) Az RMB mandátuma a 9. §-ban meghatározott időpontig tart.
+
+[^5]: A 7. § (1) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 30. § (3) bekezdés c) pontja szerint módosított szöveg.
