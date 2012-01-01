@@ -1,0 +1,1 @@
+13. § Az MNB az Országos Betétbiztosítási Alapnak – kérésére, azt önállóan mérlegelve – sürgős, rendkívüli, a pénzügyi rendszer egészének stabilitását és a pénzforgalom zavartalanságát veszélyeztető esetben a monetáris finanszírozás 15. § szerinti tilalmának betartásával hitelt nyújthat, amelynek lejárata legfeljebb három hónap lehet.

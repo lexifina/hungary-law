@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, alapvető feladatairól, intézményi, szervezeti, személyi, pénzügyi függetlenségéről, működéséről, figyelemmel a fejlett piacgazdaság követelményeire és az Alaptörvény végrehajtására, az Alaptörvény 41. cikke alapján a következő törvényt alkotja:

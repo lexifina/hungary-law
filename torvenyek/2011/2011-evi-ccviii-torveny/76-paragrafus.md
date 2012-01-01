@@ -1,0 +1,1 @@
+76. § A Hpt. 48. § a) pontjában a „Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény (a továbbiakban: MNB tv.)” szövegrész helyébe a „Magyar Nemzeti Bankról szóló törvény (a továbbiakban: MNB tv.)” szöveg lép.

@@ -1,0 +1,1 @@
+68. § E törvény 1–9. §-a, 11. §-a, 12. § (1) és (3) bekezdése, 19–21. §-a, 27. § (1), (2) és (10) bekezdése, 28. § (1), (2), (4) és (5) bekezdése, 30. §-a, 42–50. §-a és 67. §-a az Alaptörvény 41. cikk (1), (4) és (5) bekezdése alapján sarkalatosnak minősül.
