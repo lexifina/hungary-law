@@ -1,20 +1,20 @@
 4. § (1) Intézményi formában végzett szolgáltató tevékenység engedélyezése esetén a működési engedély kiadása iránti kérelemhez a fenntartónak csatolnia kell
 
-a)[^23] az intézményvezető – többcélú intézmény esetén a szakmai vezető – szakképesítését bizonyító irat másolatát, és a vezető (szakmai vezető) nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró okok,
+a)[^26] az intézményvezető – többcélú intézmény esetén a szakmai vezető – szakképesítését bizonyító irat másolatát, és a vezető (szakmai vezető) nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró okok,
 
-b)[^24] az intézmény fenntartójának és az intézményvezető együttes nyilatkozatát arra vonatkozóan, hogy a feladat ellátását biztosító, külön jogszabályban meghatározott munkakört betöltő személyek (a továbbiakban: szakalkalmazottak) rendelkeznek a szükséges szakképesítéssel, és nem állnak fenn velük szemben a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró okok,
+b)[^27] az intézmény fenntartójának és az intézményvezető együttes nyilatkozatát arra vonatkozóan, hogy a feladat ellátását biztosító, külön jogszabályban meghatározott munkakört betöltő személyek (a továbbiakban: szakalkalmazottak) rendelkeznek a szükséges szakképesítéssel, és nem állnak fenn velük szemben a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró okok,
 
 c) a szolgáltató tevékenység célját, alapelveit, módszereit tartalmazó szakmai programot,
 
-d)[^25] az intézmény elhelyezésére szolgáló épület (épületrész) használati jogcímét bizonyító okirat másolatát.
+d)[^28] az intézmény elhelyezésére szolgáló épület (épületrész) használati jogcímét bizonyító okirat másolatát.
 
-e)[^26] – ha beszerezte – az előzetes szakhatósági hozzájárulást, illetve ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki, a használatbavételi engedély, illetve a fennmaradási engedély másolatát.
+e)[^29] – ha beszerezte – az előzetes szakhatósági hozzájárulást, illetve ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki, a használatbavételi engedély, illetve a fennmaradási engedély másolatát.
 
 (2) Helyettes szülői hálózat, nevelőszülői hálózat, illetőleg külső férőhelyeken biztosított utógondozói ellátás esetén a működési engedély kiadása iránti kérelemhez a fenntartónak csatolnia kell
 
-a)[^27] a működtető vezetőjének – többcélú intézmény keretében végzett szolgáltató tevékenység esetén a szakmai vezető – szakképesítését bizonyító irat másolatát, és a vezető (szakmai vezető) nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró okok,
+a)[^30] a működtető vezetőjének – többcélú intézmény keretében végzett szolgáltató tevékenység esetén a szakmai vezető – szakképesítését bizonyító irat másolatát, és a vezető (szakmai vezető) nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró okok,
 
-b)[^28] a fenntartónak és a működtető vezetőjének az együttes nyilatkozatát arra vonatkozóan, hogy
+b)[^31] a fenntartónak és a működtető vezetőjének az együttes nyilatkozatát arra vonatkozóan, hogy
 
 ba) a feladat ellátását biztosító helyettes szülők, nevelőszülők, illetve a feladat ellátását biztosító szakalkalmazottak rendelkeznek a szükséges szakképesítéssel, illetőleg elvégezték a szükséges felkészítő tanfolyamot, és nem állnak fenn velük szemben a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró okok, valamint
 
@@ -24,39 +24,41 @@ bc) a helyettes szülők, nevelőszülők, illetve a helyettes szülőkkel, neve
 
 c) a szolgáltató tevékenység célját, alapelveit, módszereit tartalmazó szakmai programot,
 
-d)[^29] a szolgáltató tevékenység folytatására szolgáló épület (épületrész) használati jogcímét bizonyító okirat másolatát,
+d)[^32] a szolgáltató tevékenység folytatására szolgáló épület (épületrész) használati jogcímét bizonyító okirat másolatát,
 
 e) a helyettes szülő háztartásáról, a nevelőszülő háztartásáról, illetőleg a külső férőhelyet biztosító lakásról (lakrészről) készített környezettanulmányt.
 
 (3) Az (1)–(2) bekezdésekben nem szabályozott szolgáltató tevékenység engedélyezése esetén a működési engedély kiadása iránti kérelemhez a fenntartónak csatolnia kell
 
-a)[^30] – ha a szolgáltatás nyújtása, illetve a munkakör betöltése külön jogszabály szerint szakképesítéshez vagy tanfolyam elvégzéséhez kötött – a szakképesítést, illetve a tanfolyam elvégzését bizonyító okirat másolatát,
+a)[^33] – ha a szolgáltatás nyújtása, illetve a munkakör betöltése külön jogszabály szerint szakképesítéshez vagy tanfolyam elvégzéséhez kötött – a szakképesítést, illetve a tanfolyam elvégzését bizonyító okirat másolatát,
 
-b)[^31] családi napközi és családi gyermekfelügyelet esetén a szolgáltatást nyújtó személynek és helyettesének, illetve az önálló helyettes szülőnek a három hónapnál nem régebbi erkölcsi bizonyítványát,
+b)[^34] családi napközi és családi gyermekfelügyelet esetén a szolgáltatást nyújtó személynek és helyettesének, illetve az önálló helyettes szülőnek a három hónapnál nem régebbi erkölcsi bizonyítványát,
 
-c)[^32] családi napközi és családi gyermekfelügyelet esetén a szolgáltatást nyújtó személynek és helyettesének, az önálló helyettes szülőnek, valamint a szolgáltatónál külön jogszabályban meghatározott munkakörben, illetve önkéntes jogviszonyban foglalkoztatott személynek a nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró okok,
+c)[^35] családi napközi és családi gyermekfelügyelet esetén a szolgáltatást nyújtó személynek és helyettesének, az önálló helyettes szülőnek, valamint a szolgáltatónál külön jogszabályban meghatározott munkakörben, illetve önkéntes jogviszonyban foglalkoztatott személynek a nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró okok,
 
-d)[^33] családi napközi és családi gyermekfelügyelet esetén a szolgáltatást nyújtó személynek és helyettesének a külön jogszabály szerinti Egészségügyi Nyilatkozatát, illetve a háziorvos igazolását arra vonatkozóan, hogy a gondozás helyén élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket,
+d)[^36] családi napközi és családi gyermekfelügyelet esetén a szolgáltatást nyújtó személynek és helyettesének a külön jogszabály szerinti Egészségügyi Nyilatkozatát, illetve a háziorvos igazolását arra vonatkozóan, hogy a gondozás helyén élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket,
 
-e)[^34] az önálló helyettes szülő háztartásáról készített környezettanulmányt, valamint a háziorvos igazolását arra vonatkozóan, hogy az önálló helyettes szülő és a gondozás helyén élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket,
+e)[^37] az önálló helyettes szülő háztartásáról készített környezettanulmányt, valamint a háziorvos igazolását arra vonatkozóan, hogy az önálló helyettes szülő és a gondozás helyén élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket,
 
 f) a szolgáltató tevékenység célját, alapelveit, módszereit tartalmazó szakmai programot,
 
-g)[^35] a házi gyermekfelügyelet és a gyermekek átmeneti házi gondozása kivételével a szolgáltató tevékenység folytatására szolgáló épület (épületrész) használati jogcímét bizonyító okirat másolatát.
+g)[^38] a házi gyermekfelügyelet és a gyermekek átmeneti házi gondozása kivételével a szolgáltató tevékenység folytatására szolgáló épület (épületrész) használati jogcímét bizonyító okirat másolatát.
 
-h)[^36] családi napközi és a Gyvt. 41. §-ának (4) bekezdése szerinti ellátások esetén – ha beszerezte – az előzetes szakhatósági hozzájárulást.
+h)[^39] családi napközi és alternatív napközbeni ellátás esetén – ha beszerezte – az előzetes szakhatósági hozzájárulást.
 
-(4)[^37]
+(4)[^40]
 
-(5)[^38] Állami fenntartó esetén a kérelemhez – az (1)–(3) bekezdésben foglaltakon túl – csatolni kell
+(5)[^41] Állami fenntartó esetén a kérelemhez – az (1)–(3) bekezdésben foglaltakon túl – csatolni kell
 
-a)[^39] a fenntartó és – ha a fenntartóétól különböző adószámmal rendelkezik – a szolgáltató (intézmény, működtető) adószámát igazoló közokirat másolatát,
+a)[^42] a fenntartó és – ha a fenntartóétól különböző adószámmal rendelkezik – a szolgáltató (intézmény, működtető) adószámát igazoló közokirat másolatát,
 
-b)[^40] – ha a szolgáltató (intézmény, működtető) költségvetési szerv – a szolgáltató (intézmény, működtető) alapító okiratának másolatát,
+b)[^43] – ha a szolgáltató (intézmény, működtető) költségvetési szerv – a szolgáltató (intézmény, működtető) alapító okiratának másolatát,
 
-c)[^41] – ha a fenntartó a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §-a, 9. §-a, illetve 16. §-a szerinti intézményi társulás vagy települési önkormányzatok többcélú kistérségi társulása – a társulási szerződés másolatát.
+c)[^44] – ha a fenntartó a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §-a, 9. §-a, illetve 16. §-a szerinti intézményi társulás vagy települési önkormányzatok többcélú kistérségi társulása – a társulási szerződés másolatát.
 
-(6)[^42] Egyházi és nem állami fenntartó esetén a kérelemhez – az (1)–(3) bekezdésben foglaltakon túl – csatolni kell
+d)[^45] a fenntartó nyilatkozatát arról, hogy a Gyvt. 145. § (2) bekezdés szerinti szolgáltatót, intézményt, hálózatot, illetve férőhelyszámot normatív állami hozzájárulással kívánja-e működtetni.
+
+(6)[^46] Egyházi és nem állami fenntartó esetén a kérelemhez – az (1)–(3) bekezdésben foglaltakon túl – csatolni kell
 
 a) a fenntartó által megkötött, a szolgáltató tevékenység körében okozott kár megtérítésére kötött felelősségbiztosítási szerződés másolatát, ha jogszabály kivételt nem tesz;
 
@@ -64,13 +66,13 @@ b) az ellátási szerződést, ha a fenntartó a szolgáltató tevékenységre e
 
 c) annak harminc napnál nem régebbi közokirati igazolását, hogy a fenntartó köztartozásmentes adózónak minősül;
 
-d)[^43] egyéni vállalkozó fenntartó esetén az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, három hónapnál nem régebbi hatósági bizonyítványt, vagy a működést engedélyező szervnek be kell mutatni az egyéni vállalkozói igazolványt vagy az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, a fenntartó hatályos adatait tartalmazó igazolást (igazolásokat);
+d)[^47] egyéni vállalkozó fenntartó esetén az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, három hónapnál nem régebbi hatósági bizonyítványt, vagy a működést engedélyező szervnek be kell mutatni az egyéni vállalkozói igazolványt vagy az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, a fenntartó hatályos adatait tartalmazó igazolást (igazolásokat);
 
 e) a fenntartó három hónapnál nem régebbi cégkivonatát, ha a fenntartó cég;
 
 f) a fenntartó bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, három hónapnál nem régebbi kivonatot, ha a fenntartó társadalmi szervezet, alapítvány vagy közalapítvány;
 
-g)[^44] egyházi fenntartó esetén
+g)[^48] egyházi fenntartó esetén
 
 ga) az egyházat nyilvántartásba vevő bírósági végzés másolatát, kivéve, ha az egyházat a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény 22. §-a alapján vették nyilvántartásba, és
 
@@ -78,92 +80,103 @@ gb) az egyház bírósági nyilvántartásba bejegyzett hatályos adatairól kia
 
 gc) – ha a fenntartó az egyház bírósági nyilvántartásba nem vett szervezeti egysége – a nyilvántartásba vett egyház, egyházi jogi személy képviselőjének a nyilatkozatát a fenntartó nevéről, székhelyéről és képviselőjének személyéről, valamint arról, hogy a fenntartó az általa képviselt egyház, egyházi jogi személy szervezeti egysége és az egyház alapszabálya alapján jogi személyiséggel rendelkezik;
 
-h)[^45] a fenntartó és – ha a fenntartóétól különböző adószámmal rendelkezik – a szolgáltató (intézmény, működtető) adószámát igazoló közokirat másolatát, kivéve, ha a fenntartó egyéni vállalkozó vagy cég.
+h)[^49] a fenntartó és – ha a fenntartóétól különböző adószámmal rendelkezik – a szolgáltató (intézmény, működtető) adószámát igazoló közokirat másolatát, kivéve, ha a fenntartó egyéni vállalkozó vagy cég.
 
-(7)[^46] Ha a fenntartó a kérelemhez nem csatolta
+i)[^50] a fenntartó nyilatkozatát arról, hogy a Gyvt. 145. § (2) bekezdés szerinti szolgáltatót, intézményt, hálózatot, illetve férőhelyszámot normatív állami hozzájárulással kívánja-e működtetni.
 
-a)[^47] az (1) bekezdés d) pontja, a (2) bekezdés d) pontja, illetve a (3) bekezdés g) pontja szerinti esetben a tulajdoni lap másolatát, a szolgáltató tevékenység folytatására szolgáló ingatlan tulajdoni lapján található adatokat a működést engedélyező szerv az ingatlan-nyilvántartásból szerzi be,
+(6a)[^51] Ha a fenntartó a Gyvt. 145. § (2) bekezdése szerinti, a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadását (a továbbiakban: befogadás) kéri, és a Nemzeti Rehabilitációs és Szociális Hivatal előzetes szakhatósági hozzájárulását nem csatolja, azon szolgáltató, intézmény, hálózat, illetve férőhelyszám esetében, amellyel az ellátásra köteles helyi önkormányzat feladatellátási kötelezettségének tesz eleget, illetve amelyre nézve a fenntartó európai uniós vagy hazai fejlesztési támogatásban részesül, a kérelemhez csatolni kell a jegyző feladatellátást igazoló nyilatkozatát, illetve a pályázat elnyerését igazoló dokumentumot.
 
-b)[^48] az (5) bekezdés a) pontja, illetve a (6) bekezdés h) pontja szerinti iratot, az adószámot a működést engedélyező szerv az adózók nyilvántartásából ellenőrzi,
+(7)[^52] Ha a fenntartó a kérelemhez nem csatolta
 
-c)[^49] az (5) bekezdés b) pontja szerinti iratot, a költségvetési szerv szolgáltató (intézmény, működtető) alapító okiratának másolatát a működést engedélyező szerv a Magyar Államkincstártól szerzi be,
+a)[^53] az (1) bekezdés d) pontja, a (2) bekezdés d) pontja, illetve a (3) bekezdés g) pontja szerinti esetben a tulajdoni lap másolatát, a szolgáltató tevékenység folytatására szolgáló ingatlan tulajdoni lapján található adatokat a működést engedélyező szerv az ingatlan-nyilvántartásból szerzi be,
+
+b)[^54] az (5) bekezdés a) pontja, illetve a (6) bekezdés h) pontja szerinti iratot, az adószámot a működést engedélyező szerv az adózók nyilvántartásából ellenőrzi,
+
+c)[^55] az (5) bekezdés b) pontja szerinti iratot, a költségvetési szerv szolgáltató (intézmény, működtető) alapító okiratának másolatát a működést engedélyező szerv a Magyar Államkincstártól szerzi be,
 
 d) a (6) bekezdés c) pontja szerinti iratot, a működést engedélyező szerv ellenőrzi, hogy az egyházi, nem állami fenntartó szerepel-e a köztartozásmentes adózói adatbázisban,
 
-e)[^50] az (1) bekezdés e) pontja, illetve a (3) bekezdés h) pontja szerinti iratot, vagy nem igazolta, hogy az előzetes szakhatósági állásfoglalásban a hozzájárulás megadásához megkövetelt feltételt teljesítette, a működést engedélyező szerv megkeresi a (9) bekezdés szerinti szakhatóságokat, hogy szakhatósági állásfoglalást adjanak ki, illetve – ha intézményi formában végzett szolgáltatótevékenység engedélyezése esetén a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki – megkeresi az építésügyi hatóságot, hogy a használatbavételi engedélyről, illetve a fennmaradási engedélyről szolgáltasson adatot,
+e)[^56] az (1) bekezdés e) pontja, illetve a (3) bekezdés h) pontja szerinti iratot – ideértve azt az esetet, ha a fenntartó az (5) bekezdés d) pontja vagy a (6) bekezdés d) pontja szerinti nyilatkozata alapján normatív állami hozzájárulást kíván igényelni –, vagy nem igazolta, hogy az előzetes szakhatósági hozzájárulásban a hozzájárulás megadásához megkövetelt feltételt teljesítette, a működést engedélyező szerv megkeresi a (9) bekezdés szerinti szakhatóságokat, hogy szakhatósági állásfoglalást adjanak ki, illetve – ha intézményi formában végzett szolgáltatótevékenység engedélyezése esetén a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki – megkeresi az építésügyi hatóságot, hogy a használatbavételi engedélyről, illetve a fennmaradási engedélyről szolgáltasson adatot,
 
-f)[^51] illetve mutatta be a (6) bekezdés d) pontja szerinti iratot, vagy az nem tartalmazza az egyéni vállalkozó fenntartónak az egyéni vállalkozók nyilvános nyilvántartásában feltüntetett valamennyi hatályos adatát, az adatokat a működést engedélyező szerv az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi,
+f)[^57] illetve mutatta be a (6) bekezdés d) pontja szerinti iratot, vagy az nem tartalmazza az egyéni vállalkozó fenntartónak az egyéni vállalkozók nyilvános nyilvántartásában feltüntetett valamennyi hatályos adatát, az adatokat a működést engedélyező szerv az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi,
 
-g)[^52] a (6) bekezdés e)–f) pontja vagy ga)–gb) alpontja szerinti iratot, a működést engedélyező szerv a bíróság nyilvántartásából szerzi be, illetve ellenőrzi az egyházi, nem állami fenntartó nyilvántartásba vett adatait, vagy – ha a fenntartó az egyház bírósági nyilvántartásba nem vett, egyházi fenntartónak minősülő szervezeti egysége – annak a nyilvántartásba vett egyházi jogi személynek a nyilvántartásba vett adatait, amelynek az egyházi fenntartó a szervezeti egysége.
+g)[^58] a (6) bekezdés e)–f) pontja vagy ga)–gb) alpontja szerinti iratot, a működést engedélyező szerv a bíróság nyilvántartásából szerzi be, illetve ellenőrzi az egyházi, nem állami fenntartó nyilvántartásba vett adatait, vagy – ha a fenntartó az egyház bírósági nyilvántartásba nem vett, egyházi fenntartónak minősülő szervezeti egysége – annak a nyilvántartásba vett egyházi jogi személynek a nyilvántartásba vett adatait, amelynek az egyházi fenntartó a szervezeti egysége.
 
-(8)[^53] A működést engedélyező szerv a bölcsőde, a hetes bölcsőde, a családi napközi, a családi gyermekfelügyelet, a Gyvt. 41. §-ának (4) bekezdése szerinti ellátások, a gyermekek átmeneti otthona, a családok átmeneti otthona, a gyermekotthon és az utógondozó otthon székhelyén, illetve telephelyén, valamint az önálló gyermekjóléti szolgáltató, a gyermekjóléti szolgálat, a gyermekjóléti központ és a területi gyermekvédelmi szakszolgálat székhelyén és területi irodájában helyszíni szemlét tart. Nem kell a székhelyen helyszíni szemlét tartani, ha ott ellátást nem nyújtanak.
+(8)[^59] A működést engedélyező szerv a bölcsőde, a hetes bölcsőde, a családi napközi, a családi gyermekfelügyelet, az alternatív napközbeni ellátás, a gyermekek átmeneti otthona, a családok átmeneti otthona, a gyermekotthon és az utógondozó otthon székhelyén, illetve telephelyén, valamint az önálló gyermekjóléti szolgáltató, a gyermekjóléti szolgálat, a gyermekjóléti központ és a területi gyermekvédelmi szakszolgálat székhelyén és területi irodájában helyszíni szemlét tart. Nem kell a székhelyen helyszíni szemlét tartani, ha ott ellátást nem nyújtanak.
 
-(9)[^54] A Kormány
+(9)[^60] A Kormány
 
-a)[^55] családi napközi működési engedélyének kiadására irányuló eljárásban, ha egy lakásban egy családi napközi kerül kialakításra, és a gondozott gyermekek száma a saját, napközbeni ellátást máshol igénybe nem vevő gyermekeket és az időszakos gyermekfelügyelet keretében ellátott gyermekeket is beleszámítva sem haladja meg a hét főt, – az ellátás helyére vonatkozó közegészségügyi és az ivóvíz-minőségi követelményeknek való megfelelés jogszabályi előírásainak teljesülése kérdésében – első fokú eljárásban a fővárosi és megyei kormányhivatalnak a szolgáltató székhelye, telephelye szerint illetékes kistérségi (fővárosi kerületi) népegészségügyi intézetét (a továbbiakban: kistérségi népegészségügyi intézet), másodfokú eljárásban a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szervét (a továbbiakban: megyei népegészségügyi szakigazgatási szerv);
+a)[^61] családi napközi működési engedélyének kiadására irányuló eljárásban, ha egy lakásban egy családi napközi kerül kialakításra, és a gondozott gyermekek száma a saját, napközbeni ellátást máshol igénybe nem vevő gyermekeket és az időszakos gyermekfelügyelet keretében ellátott gyermekeket is beleszámítva sem haladja meg a hét főt, – az ellátás helyére vonatkozó közegészségügyi és az ivóvíz-minőségi követelményeknek való megfelelés jogszabályi előírásainak teljesülése kérdésében – első fokú eljárásban a fővárosi és megyei kormányhivatalnak a szolgáltató székhelye, telephelye szerint illetékes kistérségi (fővárosi kerületi) népegészségügyi intézetét (a továbbiakban: kistérségi népegészségügyi intézet), másodfokú eljárásban a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szervét (a továbbiakban: megyei népegészségügyi szakigazgatási szerv);
 
-b) az a) pontban nem említett családi napközi, valamint a Gyvt. 41. §-ának (4) bekezdése szerinti ellátások működési engedélyének kiadására irányuló eljárásban
+b)[^62] az a) pontban nem említett családi napközi, valamint az alternatív napközbeni ellátás működési engedélyének kiadására irányuló eljárásban
 
-ba)[^56] – az ellátás helyére vonatkozó közegészségügyi, az ivóvíz-minőségi, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások teljesülése kérdésében – első fokú eljárásban a szolgáltató székhelye, telephelye szerint illetékes kistérségi népegészségügyi intézetet, másodfokú eljárásban a megyei népegészségügyi szakigazgatási szervet,
+ba)[^63] – az ellátás helyére vonatkozó közegészségügyi, az ivóvíz-minőségi, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások teljesülése kérdésében – első fokú eljárásban a szolgáltató székhelye, telephelye szerint illetékes kistérségi népegészségügyi intézetet, másodfokú eljárásban a megyei népegészségügyi szakigazgatási szervet,
 
 bb) – az ellátás helyére vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások érvényesítése kérdésében – első fokú eljárásban a szolgáltató székhelye, telephelye szerint illetékes, első fokon eljáró tűzvédelmi szakhatóságot, másodfokú eljárásban a másodfokon eljáró tűzvédelmi szakhatóságot,
 
-bc)[^57]
+bc)[^64]
 
 c) bölcsőde, hetes bölcsőde, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon és utógondozó otthon működési engedélyének kiadására irányuló eljárásban
 
-ca)[^58] – az intézményre vonatkozó közegészségügyi, az ivóvíz-minőségi, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások teljesülése kérdésében – első fokú eljárásban intézmény székhelye, telephelye szerint illetékes kistérségi népegészségügyi intézetet, másodfokú eljárásban a megyei népegészségügyi szakigazgatási szervet,
+ca)[^65] – az intézményre vonatkozó közegészségügyi, az ivóvíz-minőségi, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások teljesülése kérdésében – első fokú eljárásban intézmény székhelye, telephelye szerint illetékes kistérségi népegészségügyi intézetet, másodfokú eljárásban a megyei népegészségügyi szakigazgatási szervet,
 
 cb) – az intézményre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások érvényesítése kérdésében – első fokú eljárásban az intézmény székhelye, telephelye szerint illetékes, első fokon eljáró tűzvédelmi szakhatóságot, másodfokú eljárásban a másodfokon eljáró tűzvédelmi szakhatóságot,
 
 cc) ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki, – a településrendezési és általános építésügyi követelményeknek való megfelelés kérdésében – első fokú eljárásban az intézmény székhelye, telephelye szerint illetékes építésügyi hatóságot, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét,
 
-cd)[^59] – családok átmeneti otthona és utógondozó otthon esetén csak abban az esetben, ha az intézmény meleg étkeztetést nyújt – az élelmiszer-higiéniai és élelmiszer-biztonsági követelményeknek való megfelelés kérdésében – első fokú eljárásban a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságának kerületi hivatalát, másodfokú eljárásban a megyei kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatóságát;
+cd)[^66] – családok átmeneti otthona és utógondozó otthon esetén csak abban az esetben, ha az intézmény meleg étkeztetést nyújt – az élelmiszer-higiéniai és élelmiszer-biztonsági követelményeknek való megfelelés kérdésében – első fokú eljárásban a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságának kerületi hivatalát, másodfokú eljárásban a megyei kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatóságát;
 
-d) egyházi vagy nem állami fenntartású, korai fejlesztést és gondozást, illetve fejlesztő felkészítést végző bölcsőde, hetes bölcsőde és gyermekotthon esetén – a korai fejlesztéshez és gondozáshoz, illetve a fejlesztő felkészítéshez szükséges személyi és tárgyi feltételek teljesítése kérdésében – első fokú eljárásban az intézmény székhelye, telephelye szerint illetékes megyei, fővárosi főjegyzőt, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét
+d) egyházi vagy nem állami fenntartású, korai fejlesztést és gondozást, illetve fejlesztő felkészítést végző bölcsőde, hetes bölcsőde és gyermekotthon esetén – a korai fejlesztéshez és gondozáshoz, illetve a fejlesztő felkészítéshez szükséges személyi és tárgyi feltételek teljesítése kérdésében – első fokú eljárásban az intézmény székhelye, telephelye szerint illetékes megyei, fővárosi főjegyzőt, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét,
 
-szakhatóságként jelöli ki. A szakhatóságok ügyintézési határideje harminc nap. A szakhatóság a fenntartó kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a működési engedélyezési eljárásban akkor használható fel, ha a fenntartó a működési engedély iránti kérelmét az előzetes szakhatósági állásfoglalás kiadását követő hat hónapon belül benyújtja.
+e)[^67] abban az esetben, ha a fenntartó a szolgáltatót, intézményt, hálózatot, férőhelyet normatív állami hozzájárulással kívánja működtetni, a befogadás kérdésében az első fokú eljárásban a Nemzeti Rehabilitációs és Szociális Hivatalt, a másodfokú eljárásban a minisztert
 
-(10)[^60] Családi gyermekfelügyelet engedélyezése esetén ki kell kérni a kistérségi népegészségügyi intézet – a szolgáltató székhelye, telephelye szerint illetékes – vezető védőnőjének (a továbbiakban: védőnő) véleményét. A védőnő – a megkereséstől számított tizenöt napon belül – helyszíni vizsgálat alapján azt véleményezi, hogy a családi gyermekfelügyelet körülményei alkalmasak-e a 2–4 éves gyermekek ellátására.
+## szakhatóságként jelöli ki. A szakhatóságok ügyintézési határideje harminc nap. A szakhatóság a fenntartó kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a működési engedélyezési eljárásban akkor használható fel, ha a fenntartó a működési engedély iránti kérelmét az előzetes szakhatósági állásfoglalás kiadását követő hat hónapon belül benyújtja.
 
-(11)[^61] A szakmai programot a módszertani intézmény – a kirendeléstől számított harminc napon belül – valamennyi szolgáltató tevékenység engedélyezése esetén szakértőként véleményezi. A működést engedélyező szerv a határidőt – a módszertani intézménynek a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
+(10)[^68] Családi gyermekfelügyelet engedélyezése esetén ki kell kérni a kistérségi népegészségügyi intézet – a szolgáltató székhelye, telephelye szerint illetékes – vezető védőnőjének (a továbbiakban: védőnő) véleményét. A védőnő – a megkereséstől számított tizenöt napon belül – helyszíni vizsgálat alapján azt véleményezi, hogy a családi gyermekfelügyelet körülményei alkalmasak-e a 2–4 éves gyermekek ellátására.
 
-[^23]: A 4. § (1) bekezdésének a) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
-[^24]: A 4. § (1) bekezdésének b) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
-[^25]: A 4. § (1) bekezdésének d) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának ba) alpontja, a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^26]: A 4. § (1) bekezdésének e) pontját a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pontjának ba) alpontja hatályon kívül helyezte, újonnan a 320/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^27]: A 4. § (2) bekezdésének a) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
-[^28]: A 4. § (2) bekezdésének b) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
-[^29]: A 4. § (2) bekezdésének d) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának ba) alpontja, a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^30]: A 4. § (3) bekezdés a) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^31]: A 4. § (3) bekezdésének b) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (3) bekezdésével megállapított, a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^32]: A 4. § (3) bekezdés c) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^33]: A 4. § (3) bekezdés d) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^34]: A 4. § (3) bekezdés e) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^35]: A 4. § (3) bekezdésének g) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának ba) alpontja, a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^36]: A 4. § (3) bekezdésének h) pontját a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pontjának bb) alpontja hatályon kívül helyezte, újonnan a 320/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 42. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^37]: A 4. § (4) bekezdését a 296/2005. (XII. 23.) Korm. rendelet 35. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 226/2006. (XI. 20.) Korm. rendelet 22. § (1) bekezdése iktatta be, hatályon kívül helyezte a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés c) pont cb) alpontja. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^38]: A 4. § (5) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^39]: A 4. § (5) bekezdés a) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
-[^40]: A 4. § (5) bekezdés b) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
-[^41]: A 4. § (5) bekezdés c) pontját a 320/2009. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^42]: A 4. § (6) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet – 213/2009. (IX. 29.) Korm. rendelet 15. § (10) bekezdése szerint módosított – 56. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^43]: A 4. § (6) bekezdés d) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^44]: A 4. § (6) bekezdés g) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^45]: A 4. § (6) bekezdés h) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 7. § (2)–(6) bekezdését.
-[^46]: A 4. § (7) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése b) pontjának ba) alpontja hatályon kívül helyezte, újonnan a 173/2009. (VIII. 29.) Korm. rendelet 56. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^47]: A 4. § (7) bekezdés a) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^48]: A 4. § (7) bekezdés b) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^49]: A 4. § (7) bekezdés c) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
-[^50]: A 4. § (7) bekezdés e) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (5) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^51]: A 4. § (7) bekezdés f) pontját a 320/2009. (XII. 29.) Korm. rendelet 3. § (5) bekezdése iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^52]: A 4. § (7) bekezdés g) pontját a 320/2009. (XII. 29.) Korm. rendelet 3. § (5) bekezdése iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^53]: A 4. § (8) bekezdésének első mondata a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (4) bekezdésével megállapított, a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^54]: A 4. § (9) bekezdését a 376/2004. (XII. 28.) Korm. rendelet 18. §-a iktatta be, szövege a 320/2009. (XII. 29.) Korm. rendelet 3. § (6) bekezdésével megállapított, záró szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^55]: A 4. § (9) bekezdés a) pontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^56]: A 4. § (9) bekezdés b) pont ba) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^57]: A 4. § (9) bekezdés b) pont bc) alpontját a 360/2010. (XII. 30.) Korm. rendelet 42. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^58]: A 4. § (9) bekezdés c) pont ca) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^59]: A 4. § (9) bekezdés c) pont cd) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^60]: A 4. § (10) bekezdését a 296/2005. (XII. 23.) Korm. rendelet 24. § (2) bekezdése iktatta be, hatályon kívül helyezte a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés g) pontja, újonnan a 320/2009. (XII. 29.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^61]: A 4. § (11) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 21. §-a iktatta be.
+(11)[^69] A szakmai programot a módszertani intézmény – a kirendeléstől számított harminc napon belül – valamennyi szolgáltató tevékenység engedélyezése esetén szakértőként véleményezi. A működést engedélyező szerv a határidőt – a módszertani intézménynek a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
+
+[^26]: A 4. § (1) bekezdésének a) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
+[^27]: A 4. § (1) bekezdésének b) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
+[^28]: A 4. § (1) bekezdésének d) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának ba) alpontja, a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 4. § (1) bekezdésének e) pontját a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pontjának ba) alpontja hatályon kívül helyezte, újonnan a 320/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^30]: A 4. § (2) bekezdésének a) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
+[^31]: A 4. § (2) bekezdésének b) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
+[^32]: A 4. § (2) bekezdésének d) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának ba) alpontja, a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A 4. § (3) bekezdés a) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^34]: A 4. § (3) bekezdésének b) pontja a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. §-ának (3) bekezdésével megállapított, a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^35]: A 4. § (3) bekezdés c) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^36]: A 4. § (3) bekezdés d) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^37]: A 4. § (3) bekezdés e) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^38]: A 4. § (3) bekezdésének g) pontja a 296/2005. (XII. 23.) Korm. rendelet 35. § (2) bekezdése b) pontjának ba) alpontja, a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^39]: A 4. § (3) bekezdésének h) pontját a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pont bb) alpontja hatályon kívül helyezte, újonnan a 320/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 42. § (1) bekezdés a) pontja, a 330/2011. (XII. 29.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^40]: A 4. § (4) bekezdését a 296/2005. (XII. 23.) Korm. rendelet 35. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 226/2006. (XI. 20.) Korm. rendelet 22. § (1) bekezdése iktatta be, hatályon kívül helyezte a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés c) pont cb) alpontja. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^41]: A 4. § (5) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A 4. § (5) bekezdés a) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
+[^43]: A 4. § (5) bekezdés b) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
+[^44]: A 4. § (5) bekezdés c) pontját a 320/2009. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^45]: A 4. § (5) bekezdés d) pontját a 330/2011. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^46]: A 4. § (6) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet – 213/2009. (IX. 29.) Korm. rendelet 15. § (10) bekezdése szerint módosított – 56. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^47]: A 4. § (6) bekezdés d) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^48]: A 4. § (6) bekezdés g) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^49]: A 4. § (6) bekezdés h) pontja a 320/2009. (XII. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 7. § (2)–(6) bekezdését.
+[^50]: A 4. § (6) bekezdés i) pontját a 330/2011. (XII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be
+[^51]: A 4. § (6a) bekezdését a 330/2011. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^52]: A 4. § (7) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése b) pontjának ba) alpontja hatályon kívül helyezte, újonnan a 173/2009. (VIII. 29.) Korm. rendelet 56. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^53]: A 4. § (7) bekezdés a) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^54]: A 4. § (7) bekezdés b) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^55]: A 4. § (7) bekezdés c) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
+[^56]: A 4. § (7) bekezdés e) pontja a 330/2011. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^57]: A 4. § (7) bekezdés f) pontját a 320/2009. (XII. 29.) Korm. rendelet 3. § (5) bekezdése iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^58]: A 4. § (7) bekezdés g) pontját a 320/2009. (XII. 29.) Korm. rendelet 3. § (5) bekezdése iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^59]: A 4. § (8) bekezdése a 127/2004. (IV. 29.) Korm. rendelet II. Része 5. § (4) bekezdésével megállapított, a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés g) pontja, a 330/2011. (XII. 29.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^60]: A 4. § (9) bekezdését a 376/2004. (XII. 28.) Korm. rendelet 18. §-a iktatta be, szövege a 320/2009. (XII. 29.) Korm. rendelet 3. § (6) bekezdésével megállapított, záró szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^61]: A 4. § (9) bekezdés a) pontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^62]: A 4. § (9) bekezdés b) pontja a 330/2011. (XII. 29.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^63]: A 4. § (9) bekezdés b) pont ba) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^64]: A 4. § (9) bekezdés b) pont bc) alpontját a 360/2010. (XII. 30.) Korm. rendelet 42. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^65]: A 4. § (9) bekezdés c) pont ca) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^66]: A 4. § (9) bekezdés c) pont cd) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^67]: A 4. § (9) bekezdés e) pontját a 330/2011. (XII. 29.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^68]: A 4. § (10) bekezdését a 296/2005. (XII. 23.) Korm. rendelet 24. § (2) bekezdése iktatta be, hatályon kívül helyezte a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés g) pontja, újonnan a 320/2009. (XII. 29.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^69]: A 4. § (11) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 21. §-a iktatta be.
