@@ -1,6 +1,6 @@
-## 9. §[^5]
+## 9. §[^6]
 
-10. §[^6]
+10. §[^7]
 
-[^5]: A 9. §-t a 10. § (2) bekezdése hatályon kívül helyezte.
-[^6]: A 10. §-t a (3) bekezdés hatályon kívül helyezte.
+[^6]: A 9. §-t a 10. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A 10. §-t a (3) bekezdés hatályon kívül helyezte.

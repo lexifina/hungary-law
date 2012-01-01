@@ -2,7 +2,7 @@
 
 (2) Az 1. § a) pont ad) alpontja, valamint az 1. § b) pont bb) alpontja szerinti dokumentáció (6)–(7) bekezdés szerinti elektronikus példányát a miniszter a hozzá történő beérkezést követően 30 napon belül megküldi a Dokumentációs Központnak.
 
-(3) Az 1. § c) pontja szerinti határozatot és hatásvizsgálatot a határozat jogerőre emelkedését követő 30 napon belül az állami főépítész megküldi a Dokumentációs Központnak. Amennyiben a térségi területfelhasználási engedélykérelemről hozott határozat elleni kereset ügyében a Fővárosi Bíróság határozatot hoz, azt az állami főépítész a határozat kézhezvételétől számított 30 napon belül megküldi a Dokumentációs Központnak.
+(3)[^3] Az 1. § c) pontja szerinti határozatot és hatásvizsgálatot a határozat jogerőre emelkedését követő 30 napon belül az állami főépítész megküldi a Dokumentációs Központnak. Amennyiben a térségi területfelhasználási engedélykérelemről hozott határozat elleni kereset ügyében a Fővárosi Törvényszék határozatot hoz, azt az állami főépítész a határozat kézhezvételétől számított 30 napon belül megküldi a Dokumentációs Központnak.
 
 (4) Az 1. § d) pontja szerinti területi kutatás iratanyagait a kutatást megrendelő szerv vezetője a kutatás lezárásától számított 90 napon belül megküldi a Dokumentációs Központnak.
 
@@ -32,6 +32,7 @@ g) a munka kezdetének és befejezésének időpontja, és
 
 h) a különleges kezelésre való utalás.
 
-(10)[^3] Az 1. § g)–h) pontja szerinti dokumentációt a kidolgozásért felelős szerv az elfogadást követő 90 napon belül elektronikus úton megküldi a Dokumentációs Központnak.
+(10)[^4] Az 1. § g)–h) pontja szerinti dokumentációt a kidolgozásért felelős szerv az elfogadást követő 90 napon belül elektronikus úton megküldi a Dokumentációs Központnak.
 
-[^3]: A 3. § (10) bekezdését a 37/2010. (II. 26.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^3]: A 3. § (3) bekezdése a 314/2011. (XII. 23.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^4]: A 3. § (10) bekezdését a 37/2010. (II. 26.) Korm. rendelet 11. § (2) bekezdése iktatta be.
