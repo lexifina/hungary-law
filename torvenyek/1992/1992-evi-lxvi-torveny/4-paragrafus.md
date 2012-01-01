@@ -2,9 +2,9 @@
 
 4. § (1) A törvény hatálya alá tartoznak:
 
-a) a Magyar Köztársaság területén élő magyar állampolgárok, a bevándorolt és a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személyek,
+a) Magyarország területén élő magyar állampolgárok, a bevándorolt és a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személyek,
 
-b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat a Magyar Köztársaság területén gyakorolják,
+b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat Magyarország területén gyakorolják,
 
 c) a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgárok; és
 
@@ -14,9 +14,9 @@ d) – e törvényben meghatározott esetekben – a külföldön élő magyar �
 
 (2a) A külföldön élő magyar állampolgár adatai a nyilvántartásban akkor szerepelnek, ha
 
-a) a Magyar Köztársaság területén kívül élő állampolgár kéri adatai nyilvántartásba való felvételét,
+a) Magyarország területén kívül élő állampolgár kéri adatai nyilvántartásba való felvételét,
 
-b) a Magyar Köztársaság területét külföldi letelepedés szándékával elhagyó magyar állampolgár kéri meglévő adatai további kezelését, vagy
+b) Magyarország területét külföldi letelepedés szándékával elhagyó magyar állampolgár kéri meglévő adatai további kezelését, vagy
 
 c) az (1) bekezdés c) pontja szerinti külföldön élő polgár magyar állampolgárságot szerez.
 

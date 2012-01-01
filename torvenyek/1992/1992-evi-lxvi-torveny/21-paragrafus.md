@@ -16,7 +16,7 @@ g) az anyakönyvi és névváltoztatási ügyekben eljáró szerv törvényben m
 
 h) a Központi Statisztikai Hivatal a statisztikáról szóló 1993. évi XLVI. törvényben meghatározott feladatai ellátásához;
 
-i) a polgári védelmi kötelezettség érvényesítése céljából a polgári védelem hivatásos szervezete, valamint a polgármester;
+i) a polgári védelmi kötelezettség érvényesítése céljából a hivatásos katasztrófavédelmi szerv és a polgármester;
 
 j) az egyes fontos tisztségeket betöltő személyek ellenőrzéséről szóló 1994. évi XXIII. törvény 5. §-ában meghatározott bizottság, az Országgyűlés Nemzetbiztonsági Bizottsága, valamint a bíróság a törvényben meghatározott ellenőrzés lefolytatásához;
 
@@ -30,4 +30,6 @@ n) az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló pol
 
 o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a kártörténeti nyilvántartást kezelő szerv a kártörténeti nyilvántartásban szereplő üzemben tartó személyazonosító adatai nyilvántartásának naprakészen tartásához,
 
-p) a gondnokoltak nyilvántartásában szereplő természetes személyek adatainak egyeztetése céljából az Országos Igazságszolgáltatási Tanács Hivatala.
+p) a gondnokoltak nyilvántartásában szereplő természetes személyek adatainak egyeztetése céljából az Országos Bírósági Hivatal elnöke,
+
+q) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben.

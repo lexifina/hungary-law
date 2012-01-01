@@ -18,7 +18,7 @@ g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján t
 
 ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizetbe vagy előzetes letartóztatásba vételt,
 
-gb) a Magyar Köztársaság területének külföldi letelepedés szándékával történő elhagyását,
+gb) Magyarország területének külföldi letelepedés szándékával történő elhagyását,
 
 gc) a bevándorlási engedély visszavonását, illetőleg a menekült vagy oltalmazott jogállás megszűnését,
 

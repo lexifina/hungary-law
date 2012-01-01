@@ -1,8 +1,8 @@
 ## A lakcím bejelentése és nyilvántartása
 
-26. § (1) A Magyar Köztársaság területén élő, e törvény hatálya alá tartozó polgár [4. § (1) bekezdés] köteles beköltözés vagy kiköltözés után három munkanapon belül lakóhelyének, illetve tartózkodási helyének címét a települési önkormányzat jegyzőjének nyilvántartásba vétel céljából bejelenteni (a továbbiakban együtt: lakcímbejelentés).
+26. § (1) A Magyarország területén élő, e törvény hatálya alá tartozó polgár [4. § (1) bekezdés] köteles beköltözés vagy kiköltözés után három munkanapon belül lakóhelyének, illetve tartózkodási helyének címét a települési önkormányzat jegyzőjének nyilvántartásba vétel céljából bejelenteni (a továbbiakban együtt: lakcímbejelentés).
 
-(2) Az (1) bekezdésben meghatározott polgárnak azt a tényt, hogy a Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyja, illetőleg, hogy három hónapon túl külföldön tartózkodik, a lakóhelye szerint illetékes települési önkormányzat jegyzőjénél vagy a konzuli tisztviselőnél kell bejelentenie.
+(2) Az (1) bekezdésben meghatározott polgárnak azt a tényt, hogy Magyarország területét a külföldi letelepedés szándékával elhagyja, illetve, hogy három hónapon túl külföldön tartózkodik, a lakóhelye szerint illetékes települési önkormányzat jegyzőjénél vagy a konzuli tisztviselőnél kell bejelentenie.
 
 (3) A lakcímbejelentéshez a lakás tulajdonosának vagy a lakás használatára egyéb jogcímen jogosultnak a hozzájárulása szükséges.
 
