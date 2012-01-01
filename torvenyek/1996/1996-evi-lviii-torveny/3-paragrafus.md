@@ -8,7 +8,7 @@ a) névjegyzéket vezető szervként az adott tevékenység folytatására való
 
 b) figyelemmel kíséri, hogy az a) pont szerinti tevékenységet csak az arra jogosultak végezzék, ennek keretében érdekeltsége területén
 
-ba) a tervező jogosultságának megállapítása céljából – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezéseit is figyelembe véve –:
+ba) a tervező jogosultságának megállapítása céljából:
 
 – az építési engedélyek nyilvántartásába betekinthet,
 
@@ -52,7 +52,7 @@ a) megalkotja – e törvény és az országos alapszabály keretei között –
 
 b) tagjaival szemben első fokon etikai-fegyelmi eljárást (a továbbiakban: fegyelmi eljárást) folytat le,
 
-c) nyilvántartást vezet tagjairól és tagjelöltjeiről, ennek során a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek a személyes adatvédelemre vonatkozó szabályai szerint jár el,
+c) nyilvántartást vezet tagjairól és tagjelöltjeiről,
 
 d) tagjai mérnöki, illetve építészeti tevékenységével kapcsolatban egyéb szolgáltatásokat nyújt.
 

@@ -4,4 +4,4 @@
 
 (3) A felvételt megtagadó határozat ellen a kérelmező a kézbesítéstől számított 15 napon belül az országos kamarához fellebbezhet. A fellebbezést 30 napon belül el kell bírálni.
 
-(4) Ha az országos kamara a felvételi kérelmet elutasította, e határozatot a kérelmező a határozat kézbesítésétől számított 30 napon belül a területi kamara székhelye szerint illetékes megyei (fővárosi) bíróság előtt keresettel támadhatja meg. A bíróság az eljárás során a polgári perrendtartásról szóló törvény rendelkezéseit alkalmazza.
+(4) Ha az országos kamara a felvételi kérelmet elutasította, e határozatot a kérelmező a határozat kézbesítésétől számított 30 napon belül a területi kamara székhelye szerint illetékes törvényszék előtt keresettel támadhatja meg. A bíróság az eljárás során a polgári perrendtartásról szóló törvény rendelkezéseit alkalmazza.
