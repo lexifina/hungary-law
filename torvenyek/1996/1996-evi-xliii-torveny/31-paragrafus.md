@@ -1,9 +1,29 @@
-31. § (1) A szervezeti egységnél képviselettel rendelkező szakszervezet jogosult a hivatásos állomány tagjait, illetve a szervezetét közvetlenül érintő jogellenes intézkedés, mulasztás (a továbbiakban együtt: intézkedés) ellen kifogást benyújtani.
+## Az MRK és állami szervek kapcsolata
 
-(2) A kifogást az állományilletékes parancsnokhoz kell benyújtani a jogellenes intézkedésről való tudomásszerzéstől számított 5 munkanapon belül. A kifogást az intézkedés megtételétől számított 1 hónapon túl nem lehet benyújtani.
+31. § (1) Az MRK a feladat- és hatáskörét érintő bármely kérdésben az adott kérdésben hatáskörrel rendelkező állami szerv vezetőjéhez fordulhat, és
 
-(3) Nincs helye kifogásnak, ha az intézkedéssel szemben a hivatásos állomány tagja jogvitát kezdeményezhet.
+a) tájékoztatást, adatot, szakmai és jogértelmezési kérdésben állásfoglalást (a továbbiakban együtt: tájékoztatás) kérhet,
 
-(4) Ha az állományilletékes parancsnok a kifogással nem ért egyet, egyeztetésnek van helye. Az egyeztető tárgyalást a kifogás benyújtásától számított 3 munkanapon belül meg kell kezdeni. Ha az egyeztetés 7 napon belül nem vezetett eredményre, az eredménytelenség megállapításától számított 5 napon belül a szakszervezet a bírósághoz fordulhat. A bíróság nem peres eljárásban, 15 napon belül dönt.
+b) javaslatot tehet, intézkedés megtételét kezdeményezheti,
 
-(5) A kifogásolt intézkedést az egyeztető eljárás eredményes befejezéséig vagy a jogerős bírósági döntésig végrehajtani nem lehet, illetőleg a végrehajtását fel kell függeszteni.
+c) az általa irányított szerv működésével, illetve az általa kibocsátott jogszabállyal, közjogi szervezetszabályozó eszközzel és egyéb – az MRK tagjainak csoportját érintő – döntésével kapcsolatban véleményt nyilváníthat, kezdeményezheti annak megváltoztatását vagy visszavonását.
+
+(2) A megkeresett szerv a megkeresésre 30 napon belül köteles érdemben válaszolni. Ha a tájékoztatás, illetve a válaszadás vagy az intézkedés nem a megkeresett szerv hatáskörébe tartozik, az köteles a megkeresést három napon belül áttenni a hatáskörrel rendelkező szervhez, és erről a jog gyakorlóját egyidejűleg tájékoztatni.
+
+(3) Az MRK felett a törvényességi ellenőrzést az ügyészség gyakorolja. A törvényességi ellenőrzés nem terjed ki az olyan ügyekre, amelyekben munkaügyi vitának, illetve egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+
+(4) A törvényességi ellenőrzést gyakorló ügyészség ellenőrzi, hogy az MRK
+
+a) Alapszabálya és más önkormányzati szabályzata, illetve azok módosítása megfelel-e a jogszabályoknak,
+
+b) működése, határozatai nem sértik-e a jogszabályokat, az Alapszabályt vagy az egyéb önkormányzati szabályzatokat.
+
+(5) Ha az MRK működésének törvényessége másképpen nem biztosítható, az ügyész törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
+
+a) megsemmisíti az MRK törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el,
+
+b) a működés törvényességének helyreállítása érdekében összehívja a Közgyűlést, vagy
+
+c) ismételt vagy súlyos törvénysértés esetén az MRK egyes szerveinek működését felfüggeszti.
+
+(6) Az ügyészég és a bíróság az (5) bekezdés szerinti jogsértés megállapításával és intézkedések megtételével egyidejűleg értesíti a rendészetért felelős minisztert.

@@ -1,9 +1,5 @@
-30. § (1) A szakszervezettel való együttműködés keretében az állományilletékes parancsnok köteles:
+## A Közgyűlés tagjainak megválasztása
 
-a) a szükséges tájékoztatás megadásával a szakszervezet érdekképviseleti tevékenységét elősegíteni;
+30. § (1) Az MRK Közgyűlésének tagjait a fegyveres szervek hivatásos állományának tagjai és közalkalmazottai közül választják meg, öt évre, titkos szavazással a Választási Szabályzat szerint. Nem jelölhető közgyűlési tagnak az, aki a választás kitűzésének időpontjában fegyelmi büntetés hatálya alatt áll. A Közgyűlés tagja ellen indított fegyelmi eljárás alatt a tagsági viszony szünetel.
 
-b) a szakszervezet által tett észrevételekre, javaslatokra vonatkozó álláspontját és ennek indokait közölni;
-
-c) a szolgálati viszonnyal összefüggő anyagi, szociális és kulturális érdekeket érintő intézkedésének megtétele előtt – ha az a hivatásos állomány legalább 25%-át vagy több, mint 50 főt közvetlenül érinti – a szervezeti egységen belül működő szakszervezet képviselőjét tájékoztatni.
-
-(2) Az (1) bekezdésben meghatározottak irányadók – irányítása körébe tartozóan – az elöljáró szervek parancsnokaira (vezetőire) is.
+(2) A Közgyűlés tagozatonként tíz, összesen ötven tagból áll.

@@ -10,7 +10,7 @@ b) a szolgálati viszony szünetelésének eljárási rendjét;
 
 c) a vezetői alapmunkaköröket, az abban elérhető rendfokozatokat, betöltésükhöz szükséges alap végzettségi (képesítési) követelményeket, a besorolási osztályok beosztási kategóriáihoz rendelt alapbeosztásokat, és az egyes beosztások besorolásának általános szabályait; az illetménypótlékra jogosultság és megállapításának általános feltételeit;
 
-d) a fokozottan veszélyes beosztások meghatározását a 85. § (2) bekezdése és a 92. § (1) bekezdésének a) pontja alapján, a fokozottan veszélyes és az egyéb veszélyes beosztások meghatározását a 254. § (2) bekezdése, a 293. § (1) bekezdése, a 306. § és a 322. § (1) bekezdésének l) pontja alapján, valamint a szolgálati idő kedvezményes számítására jogosító, fokozott igénybevétellel járó szolgálati beosztások meghatározását – azonos megnevezésű szolgálati beosztások esetén a szakterület vagy az ellátandó feladat megjelölésével – a 329. § (1) bekezdés c) pontja alapján, valamint a jogosultság megállapításának szabályait;
+d) a fokozottan veszélyes beosztások meghatározását a 85. § (2) bekezdése és a 92. § (1) bekezdésének a) pontja alapján, a fokozottan veszélyes és az egyéb veszélyes beosztások meghatározását a 254. § (2) bekezdése, a 293. § (1) bekezdése, a 306. § és a 322. § (1) bekezdésének l) pontja alapján;
 
 e) az állami készfizető kezesség vállalásra vonatkozó további szabályokat;
 
@@ -26,7 +26,13 @@ i) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hiva
 
 j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és kifizetésének eljárási rendjét;
 
-k) – az Információs Hivatalra vonatkozó szabályok kivételével – a nyugellátások, baleseti ellátások megállapításának eljárási rendjét.
+k)
+
+l) a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és e vizsgák alóli mentesítést;
+
+m) a tartalékállományba vételre és a tartalékállomány működtetésre vonatkozó szabályokat;
+
+n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztviselői kártya alkalmazásának szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy az általa irányított vagy felügyelt fegyveres szerv tekintetében rendeletben szabályozza:
 
@@ -38,7 +44,7 @@ k) – az Információs Hivatalra vonatkozó szabályok kivételével – a nyug
 
 4. az illetménypótlékra jogosító beosztást, tevékenységet, az illetménypótlék tényleges mértékét e törvény szerinti alsó és felső határ között, azokat a szolgálati beosztásokat, amelyekben az idegen nyelv használata szükséges, illetve, ahol az idegen nyelv ismerete a szolgálati beosztással járó feladat, továbbá a ritka és a kettőnél több nyelv használatáért adható kiegészítő nyelvpótlék mértékét;
 
-5. a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény hatálya alá nem tartozó egyes elismerések adományozására jogosultak körét, az elismerésben részesítés feltételeit és rendjét;
+5. a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény hatálya alá nem tartozó egyes elismerések adományozására jogosultak körét, az elismerésben részesítés feltételeit és rendjét;
 
 6. a ruházati ellátások rendszerét, módját, fajtáit, eljárási rendjét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátásban közreműködők és az ellátásra jogosultak feladatait, felelősségét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit, a tervezett viselési (használati) időt és annak módosítását, az egyenruha, a rendfokozati és a fegyvernemi jelzés, a kitüntetés és a szolgálati jel viselésének módját, az egyenruha és a rendfokozat viselése eltiltását a nyugállomány tagjainak esetében;
 
@@ -54,7 +60,7 @@ k) – az Információs Hivatalra vonatkozó szabályok kivételével – a nyug
 
 12. a három hónapnál rövidebb időtartamú külföldi szolgálatot teljesítők részére nyújtható napidíj mértékét, megállapításának, kifizetésének, elszámolásának rendjét;
 
-13. a fegyveres szerv hivatásos állományú tagjait érintő szakmai képzési, át- és továbbképzési és vezetőképzési rendszerét, valamint a rendészeti szakvizsgára vonatkozó szabályokat;
+13. a fegyveres szerv tiszti beosztásainak betöltéséhez elismerhető felsőfokú végzettségeket, a fegyveres szerv hivatásos állományú tagjait érintő szakmai képzési, át– és továbbképzési, valamint vezetőképzési rendszerét;
 
 14. a fegyelmi eljárás rendjét, illetve a fegyelmi jogkört gyakorló elöljárók körét;
 
@@ -68,20 +74,20 @@ k) – az Információs Hivatalra vonatkozó szabályok kivételével – a nyug
 
 19. az irányítása alá tartozó fegyveres szervek hivatásos állománya részére szolgálati és kiegészítő igazolványok, valamint a szolgálati azonosító jelvény rendszeresítésével, azokkal történő ellátás rendjével összefüggő szabályokat;
 
-20. a határozott idejű szolgálati viszonyban álló rendőrrel betölthető szolgálati beosztások körét, a beosztás betöltésének fizikai, pszichikai és egészségi feltételeit, valamint – a szolgálati feladatok ellátásához szükséges anyagi feltételek biztosítása keretében – a határozott idejű szolgálati viszonyban álló rendőr tulajdonában levő eszközök szolgálati célú felhasználásáért járó (nem adóköteles) költségtérítést;
+20. a szenior állományba vétel fizikai, pszichikai és egészségi feltételeit, a ruházati ellátási normát és a felszerelést;
 
 21. azon fertőző betegségek körét, amelyek esetében a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait.
 
-(3) Felhatalmazást kap a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy az Információs Hivatal tekintetében rendeletben állapítsa meg a nyugellátások, baleseti ellátások megállapításának részletes eljárási szabályait, továbbá kijelölje a nyugellátásokat, baleseti ellátásokat megállapító szervet vagy szerveket.
+(3)
 
 (4) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztásokat rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
 
 (5) A miniszter – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel egyetértésben – a 3. § (3) bekezdése szerinti munkaköröket is hivatásos beosztásként határozhat meg, ha ez a fegyveres szerv biztonságos működésének biztosítása, illetőleg a rendvédelmi ismeretek szükségessége miatt elengedhetetlenül szükséges. A polgári nemzetbiztonsági szolgálatok esetében a 3. § (3) bekezdésétől való eltérésre a 291. § rendelkezése alkalmazandó.
 
-(6)
+(6) Felhatalmazást kap a miniszter, hogy a könnyített szolgálat teljesítésének feltételeit, a könnyített szolgálatban foglalkoztatottak által betölthető munkaköröket, valamint az e körből kizárt tevékenységeket és kapcsolódó mentesítéseket rendeletben – a polgári nemzetbiztonsági szolgálatok, valamint a polgári hírszerző szolgálat esetében utasításban – állapítsa meg.
 
 (7) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztások beosztási kategóriába sorolását, a beosztásban elérhető rendfokozatot, valamint a betöltéséhez szükséges képzettségi (végzettségi) feltételeket rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
 
 (8) Felhatalmazást kap a miniszter, hogy a feladatok hatékonyabb ellátása érdekében kísérleti jelleggel az e törvényben nem szereplő – az abban résztvevő állományra anyagi szempontból az e törvényben foglaltaknál nem hátrányosabb – ösztönzési rendszert vezessen be.
 
-(9) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a hivatásos önkormányzati tűzoltóságokra vonatkozóan rendeletben szabályozza a választható juttatás éves összegét, a választható természetbeni juttatások fajtáit, mértékét, valamint kifizetésének rendjét és módját.
+(9)

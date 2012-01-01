@@ -2,7 +2,7 @@
 
 ## A NYUGÁLLOMÁNYÚAKRA VONATKOZÓ SZABÁLYOK
 
-204. § (1) A hivatásos állományból nyugállományba helyezett személy (a továbbiakban: a nyugállomány tagja) – a 205. §-ban meghatározott eset kivételével – egyenruháját viselheti, és rendfokozatát a nyugállományra utaló megjelöléssel használhatja.
+204. § (1) A hivatásos állományból nyugállományba helyezett vagy nyugállományba vonult személy (a továbbiakban: a nyugállomány tagja) – a 205. §-ban meghatározott eset kivételével – egyenruháját viselheti, és rendfokozatát a nyugállományra utaló megjelöléssel használhatja.
 
 (2) A nyugállomány tagja, házastársa és az általa eltartott gyermeke a 179. § szerinti egészségügyi szolgáltatáson túl jogosult – a külön jogszabályban meghatározott – kedvezményes üdülésre. A házastársat e jog a nyugállomány tagjának halála után is megilleti.
 

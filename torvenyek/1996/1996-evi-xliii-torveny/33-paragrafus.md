@@ -1,5 +1,17 @@
-33. § (1) A hivatásos állomány választott szakszervezeti tisztséget betöltő tagjának más szolgálati helyre való – a fegyveres szerv által kezdeményezett – beosztásához, áthelyezéséhez, 15 munkanapot elérő vezényléséhez és a szolgálatteljesítés helyének megváltoztatásához, továbbá szolgálati viszonyának felmentéssel történő megszüntetéséhez az adott szervezeten belüli érintett reprezentatív szakszervezeti szerv előzetes egyetértése szükséges. Ha a felmentés a hivatásos állomány tagjának nemzetbiztonsági szempontból felróható alkalmatlansága, vagy az 56. § (2) bekezdés b) pontjában meghatározott alkalmatlansága miatt válik szükségessé, valamint, ha a szakszervezeti tisztségviselőt fegyelmileg kell felelősségre vonni, erről a megfelelő szakszervezeti szervet előzetesen értesíteni kell.
+## IV/A. Fejezet
 
-(2) Az (1) bekezdésben meghatározott védelem a tisztségviselőt megbízatásának idejére és annak megszűnését követő 1 évre illeti meg, feltéve, hogy tisztségét legalább 6 hónapon át betöltötte.
+## A SZAKSZERVEZET
 
-(3) Ha a választott tisztségviselő ügyében az eljárásra jogosult szakszervezeti szerv nem határozható meg, az (1) bekezdésben meghatározott jogosultságot az a szakszervezeti szerv gyakorolja, amelyben a tisztségviselő a tevékenységét kifejti.
+33. § (1) Az e törvényben a szakszervezet számára biztosított jogok a fegyveres szervnél képviselettel rendelkező szakszervezetet illetik meg.
+
+(2) E törvény alkalmazásában
+
+a) szakszervezet olyan érdekképviseleti szerv, amelynek elsődleges célja a hivatásos állomány tagjai szolgálati viszonyával kapcsolatos érdekeinek előmozdítása és megvédése,
+
+b) a fegyveres szervnél képviselettel rendelkező szakszervezet, amelyik alapszabálya szerint
+
+a fegyveres szervnél képviseletére jogosult szervet működtet vagy tisztségviselővel rendelkezik.
+
+33/A. § (1) A hivatásos állomány tagjai jogosultak a fegyveres szervnél szakszervezet létrehozására. A szakszervezet a fegyveres szervnél szerveket működtethet, ezek működésébe tagjait bevonhatja.
+
+(2) A fegyveres szerv, illetve a szakszervezet köteles egymást írásban tájékoztatni a képviseletére jogosult, valamint a tisztségviselő személyéről.

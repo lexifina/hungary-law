@@ -1,21 +1,19 @@
-29. § (1) E törvény alkalmazásában szakszervezeten – elnevezésétől függetlenül – a hivatásos állomány tagjainak minden olyan érdekképviseleti szervét érteni kell, amelynek célja a hivatásos állomány tagjai szolgálati viszonyával kapcsolatos érdekeinek képviselete és megvédése.
+## A Magyar Rendvédelmi Kar jogállása, feladat- és hatásköre
 
-(2) A szakszervezet jogosult, hogy
+29. § (1) A Magyar Rendvédelmi Kar (a továbbiakban: MRK) a fegyveres szervek hivatásos állományú tagjainak és közalkalmazottainak önkormányzattal rendelkező rendvédelmi szakmai, érdekképviseleti köztestülete.
 
-a) a fegyveres szerven belül működjön és tagjait tevékenységébe bevonja;
+(2) Az MRK kötelező tagsági viszony alapján működik. A fegyveres szervvel fennálló szolgálati viszony vagy közalkalmazotti jogviszony alapján a hivatásos állomány tagja és a közalkalmazott az MRK tagjává válik.
 
-b) a hivatásos állomány tagjait az anyagi, szociális és kulturális, valamint az élet- és szolgálati körülményeiket érintő jogaikról és kötelezettségeikről tájékoztassa;
+(3) Az MRK tagozata
 
-c) tagjait a szolgálati viszonyt érintő körben a szervezeti egységgel szemben, illetőleg az állami szervek előtt, meghatalmazás alapján pedig az élet- és szolgálati körülményeiket érintő kérdésekben bíróság, más hatóság és egyéb szervek előtt képviselje.
+a) a rendőrségről szóló törvény hatálya alá tartozó szervek,
 
-(3) A szakszervezet a szervezeti egységgel kapcsolatban az alábbi jogokat gyakorolhatja:
+b) a büntetés-végrehajtási szervezetről szóló törvény hatálya alá tartozó szervek,
 
-a) minden olyan kérdésben tájékoztatást kérhet, amely a hivatásos állomány tagjainak a szolgálati viszonnyal összefüggő anyagi, szociális és kulturális érdekeivel kapcsolatos;
+c) a Nemzeti Adó- és Vámhivatalról szóló törvény hatálya alá tartozó fegyveres rendvédelmi feladatokat ellátó szervek,
 
-b) az a) pontba tartozó kérdésben a parancsnoki (vezetői) intézkedéssel (döntéssel) kapcsolatos álláspontját, véleményét az állományilletékes parancsnokkal közölheti, és ezzel összefüggésben konzultációt kezdeményezhet;
+d) a hivatásos katasztrófavédelmi szervek,
 
-c) a szolgálati és munkakörülményekre – ennek keretében az egészséges és biztonságos szolgálatteljesítés betartására – vonatkozó szabályok megtartását hivatali munkaidőben, illetve indokolt esetben szolgálatteljesítési időben ellenőrizheti, azok végrehajtásáról tájékoztatást, adatot kérhet, melyet részére meg kell adni. Az ellenőrzés a szolgálati feladatok ellátását nem veszélyeztetheti, illetve nem akadályozhatja.
+e) a polgári nemzetbiztonsági szolgálatok
 
-(4) A szakszervezet az ellenőrzés során észlelt hibákra és mulasztásokra a végrehajtásért felelős szerv vezetőjének a figyelmét felhívhatja. Ha az a szükséges intézkedést kellő időben nem tette meg, a megfelelő eljárást kezdeményezheti. Ennek eredményéről az eljárást lefolytató szerv a szakszervezetet tájékoztatni köteles.
-
-(5) A (3) és (4) bekezdésben meghatározott jogok az elöljáró szervek irányítása körébe tartozóan az adott szervezeten belüli reprezentatív szakszervezeti szervet illetik meg.
+személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban álló tagjainak a)–e) pont szerint elkülönülő résztestülete.

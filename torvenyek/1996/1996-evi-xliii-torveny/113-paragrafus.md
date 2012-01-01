@@ -10,6 +10,6 @@ c) a szabadságról, a munkaszüneti és a pihenőnapról történő visszarende
 
 költséget.
 
-(2) A hivatásos állomány tagjának a munkábajárás helyközi utazási költségeit a Munka Törvénykönyve 153. §-ának (2) bekezdése alapján kibocsátott jogszabály szerint megtéríteni. A munkába járáshoz szükséges helyi közlekedési bérlet a hivatásos állomány tagja részére biztosítható.
+(2) A munkába járás helyközi utazási költségeit a hivatásos állomány tagjának jogszabályban foglaltak szerint kell megtéríteni.
 
 (3) Az (1) bekezdés alapján a hivatásos állomány tagját megillető költségtérítések fajtáit, mértékét, a költségtérítés feltételeit, rendjét a miniszter állapítja meg.

@@ -11,3 +11,5 @@ c) ha minősítése alapján az általa betöltött szolgálati beosztásra elő
 d) fegyelmi fenyítésként.
 
 (2) Az alacsonyabb szolgálati beosztásba helyezéshez az (1) bekezdés c) és d) pontja esetén a hivatásos állomány tagjának beleegyezése nem szükséges.
+
+(3) A hivatásos állomány tagját alacsonyabb beosztásba kell helyezni, ha a részére a beosztás betöltéséhez előírt szakvizsga vagy képzési követelménynek határidőben nem tett eleget.

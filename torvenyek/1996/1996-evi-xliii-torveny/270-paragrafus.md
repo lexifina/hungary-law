@@ -1,4 +1,4 @@
-270. § (1) Szerződéses szolgálati viszony hivatásos szolgálati – kivéve vezetői – beosztások ellátására létesíthető. Tiszthelyettesi beosztások esetében szerződéses szolgálati viszony általános iskolai és legalább szakiskolai végzettséggel rendelkező jelentkezővel is létesíthető.
+270. § (1) A hivatásos katasztrófavédelmi szervnél szerződéses szolgálati viszony hivatásos szolgálati – kivéve vezetői – beosztások ellátására létesíthető. Tiszthelyettesi beosztások esetében szerződéses szolgálati viszony általános iskolai és legalább szakiskolai végzettséggel rendelkező jelentkezővel is létesíthető.
 
 (2) Szerződéses szolgálati viszonyt létesíteni a 37. életév betöltéséig lehet. Ez alól az országos parancsnok a 47. év betöltéséig indokolt esetben kivételt tehet.
 

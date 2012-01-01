@@ -1,4 +1,4 @@
-105. § (1) Az illetményt a törvényes magyar pénznemben kell megállapítani, és havonta utólag, a tárgyhónapot követő hónap 5. napjáig kell kifizetni, vagy a hivatásos állomány tagja megbízása alapján a fizetési számlájára átutalni.
+105. § (1) Az illetményt Magyarország hivatalos pénznemében kell megállapítani, és havonta utólag, a tárgyhónapot követő hónap 5. napjáig kell kifizetni, vagy a hivatásos állomány tagja megbízása alapján a fizetési számlájára átutalni.
 
 (2) Ha a hivatásos állomány tagja az illetményfizetési napon jogos okból nem tartózkodik a szolgálati helyén, kérésére, az illetményét az illetményfizetés előtti utolsó szolgálati helyén töltött napon kell kifizetni, vagy a szervezeti egység költségére a tartózkodási helyére megküldeni.
 

@@ -16,7 +16,7 @@ f) aki egészségi, pszichikai és fizikai állapota miatt eredeti szolgálati b
 
 g) aki szolgálati feladatait önhibáján kívüli okból (pl. gyermekgondozás céljából igénybe vett illetmény nélküli szabadság miatt) nem tudja ellátni, legfeljebb az ok megszűnéséig;
 
-h) akit függetlenített szakszervezeti tisztségbe választottak, tisztsége betöltéséig;
+h)
 
 i) akinek a részére vezetői beosztásba történt kinevezés visszavonásakor, illetve vezetői kinevezésről történő lemondás esetén a 245/D. § (2) és (5) bekezdés szerinti beosztás felajánlására nincs lehetőség;
 
@@ -24,7 +24,7 @@ j) akinek a részére a más szervhez vezénylés, illetve berendelés megszünt
 
 (2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 43. § rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
 
-(3) Az (1) bekezdés h) pontja alattiak jogai és kötelezettségei – a tisztségük ellátására vonatkozók kivételével – azonosak a szolgálati beosztást betöltőkével.
+(3)
 
 (4)
 

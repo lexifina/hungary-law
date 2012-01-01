@@ -2,7 +2,7 @@
 
 Vezetők beosztási illetménytáblázata
 
-– budapesti rendőrfőkapitány, a fővárosi tűzoltó parancsnok, a polgári nemzetbiztonsági szolgálatok igazgatói, a fővárosi polgári védelmi igazgató az illetményalap 8,3-szerese,
+– budapesti rendőrfőkapitány, a fővárosi illetékességű hivatásos katasztrófavédelmi szerv területi szerve vezetője, a katasztrófavédelem országos főfelügyelői, a polgári nemzetbiztonsági szolgálatok igazgatói az illetményalap 8,3-szerese,
 
 – főosztályvezető az illetményalap 8-szorosa,
 

@@ -4,7 +4,7 @@
 
 (2) A hivatásos állomány tagjának haláláról, 1 napot meghaladó szolgálatképtelenséget okozó balesetéről vagy a szolgálati kötelmekkel összefüggő olyan megbetegedéséről, amely előreláthatólag tartós szolgálatképtelenséggel jár, jegyzőkönyvet kell felvenni. A jegyzőkönyv felvételéről az állományilletékes parancsnok köteles gondoskodni.
 
-(3) A balesetnek, betegségnek a szolgálati kötelmekkel való összefüggéséről a miniszter által kijelölt szerv indokolt határozatban dönt (minősítő határozat). Az önkormányzati tűzoltóság tagjait az állományilletékes parancsnok minősíti.
+(3) A balesetnek, betegségnek a szolgálati kötelmekkel való összefüggéséről a miniszter által kijelölt szerv indokolt határozatban dönt (minősítő határozat).
 
 (4) A minősítő határozatot írásba kell foglalni, és azt a hivatásos állomány tagja – halála esetén közeli hozzátartozója – részére meg kell küldeni.
 

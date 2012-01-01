@@ -1,4 +1,4 @@
-## A szolgálati viszony megszűnésének egyéb esetei
+## A szolgálati viszony megszűnésének esetei
 
 53. § A szolgálati viszony megszűnik:
 
@@ -8,7 +8,7 @@ b) lemondással;
 
 c) felmentéssel;
 
-d) közszolgálati vagy közalkalmazotti jogviszonyba történő áthelyezéssel.
+d) kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyba történő áthelyezéssel.
 
 e) azonnali hatállyal a próbaidő alatt;
 

@@ -22,7 +22,7 @@ Vezetői megbízatás:
 
 4. Az előírtnál rövidebb vagy hosszabb várakozási idő indoka:
 
-5. A jogszabályban előírt és a rendvédelmi szerv által meghatározott feltételek, feladatok:
+5. A jogszabályban előírt és a rendvédelmi szerv és a Nemzeti Adó- és Vámhivatal által meghatározott feltételek, feladatok:
 
 6. Szempontok a feltételek és feladatok teljesítésének megítéléséhez:
 

@@ -4,6 +4,6 @@
 
 (3) A vezetői beosztást betöltő hivatásos állományúak beosztási illetményét a vezetői munkakörökhöz rendelt és a 6/B. számú mellékletben meghatározott szorzószámok alapján kell megállapítani.
 
-(4) A beosztási illetmény összegét a fizetési fokozatokhoz tartozó és a 6/A. számú mellékletben meghatározott szorzószámok és a mindenkori köztisztviselői illetményalap (a továbbiakban: illetményalap) szorzata adja. Az illetményalap összege évente az állami költségvetésről szóló törvényben kerül megállapításra.
+(4) A beosztási illetmény összegét a fizetési fokozatokhoz tartozó és a 6/A. számú mellékletben meghatározott szorzószámok és a mindenkori köztisztviselőkre vonatkozó illetményalap (a továbbiakban: illetményalap) szorzata adja. Az illetményalap összege évente a központi költségvetésről szóló törvényben kerül megállapításra.
 
 (5) A rendfokozati illetmények összegét a (4) bekezdés szerinti illetményalap és az egyes rendfokozatokhoz a 6. számú mellékletben meghatározott szorzószámok szorzata adja.

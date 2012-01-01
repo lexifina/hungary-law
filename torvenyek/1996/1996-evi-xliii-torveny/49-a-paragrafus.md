@@ -6,4 +6,4 @@
 
 (4) Az (1) bekezdés szerinti vezénylésre a 49. §-ban meghatározottak nem alkalmazhatók.
 
-(5) A hivatásos önkormányzati tűzoltóra az (1)–(4) bekezdés rendelkezése nem vonatkozik.
+(5)

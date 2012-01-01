@@ -1,1 +1,1 @@
-264/I. § A határozott idejű szolgálati viszonyban álló rendőr a feladatait kötött szolgálati időbeosztás nélkül, a munkáltatói jogkör gyakorlója által meghatározott rendben látja el, azonban ha a közbiztonságot, a közrendet vagy az államhatár rendjét sértő vagy veszélyeztető tényt, körülményt vagy cselekményt észlel, illetve ilyet a tudomására hoznak, haladéktalanul köteles intézkedni vagy intézkedést kezdeményezni.
+264/I. §

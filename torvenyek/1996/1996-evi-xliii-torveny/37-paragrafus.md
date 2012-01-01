@@ -22,6 +22,6 @@ e) aki hozzájárul a jogszabályokban meghatározott szintű nemzetbiztonsági 
 
 (6) A fegyveres szerv az (1) és (5) bekezdésben meghatározott adatokat, illetve a feltételeknek való megfelelést a szolgálati viszony fennállása alatt ellenőrizheti.
 
-(7) Amennyiben a hivatásos szolgálati jogviszony áthelyezés alapján olyan személlyel létesül, akinek korábbi szolgálati jogviszonya áthelyezés folytán közszolgálati, közalkalmazotti jogviszonyra változott, a 41. § szerinti próbaidőre, a 45. § szerinti pályázatra vonatkozó rendelkezések nem alkalmazhatók, a jogviszony létesítésére az 52. § első mondatában meghatározott életév betöltéséig kerülhet sor, továbbá ez esetben a 64. § (5) bekezdése alkalmazandó.
+(7) Amennyiben a hivatásos szolgálati jogviszony áthelyezés alapján olyan személlyel létesül, akinek korábbi szolgálati jogviszonya áthelyezés folytán kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyra változott, a 41. § szerinti próbaidőre, a 45. § szerinti pályázatra vonatkozó rendelkezések nem alkalmazhatók, a jogviszony létesítésére az 52. § első mondatában meghatározott életév betöltéséig kerülhet sor, továbbá ez esetben a 64. § (5) bekezdése alkalmazandó.
 
 (8) Az (1) bekezdés d) pontjában meghatározott megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.

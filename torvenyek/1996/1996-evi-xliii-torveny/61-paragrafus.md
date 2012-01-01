@@ -12,7 +12,7 @@ c) az illetményéből határozat vagy jogszabály alapján levonandó tartozás
 
 d) a szolgálati viszony megszűnésének évében igénybe vett szabadsága időtartamát;
 
-e) a szolgálati nyugellátásra való jogosultság megszerzésére és folyósítására vonatkozó, a 182. § szerinti rendelkezést;
+e)
 
 f) a kifizetésre került végkielégítés összegét.
 

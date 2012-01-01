@@ -8,9 +8,9 @@ b) állományilletékes parancsnok: az az általános munkáltatói jogkört gya
 
 c) elöljáró parancsnok: az állományilletékes parancsnok közvetlen szolgálati elöljárója;
 
-d) szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, köztisztviselőként foglalkoztatott személy is minősülhet;
+d) szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, kormánytisztviselőként foglalkoztatott személy is minősülhet;
 
-e) országos parancsnok: a rendőrség központi szervének vezetője, a BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója, a valamint a büntetés-végrehajtás országos parancsnoka, a nemzetbiztonsági szolgálatok főigazgatói;
+e) országos parancsnok: a rendőrség központi szervének vezetője, a hivatásos katasztrófavédelmi szerv központi szerve vezetője, a büntetés-végrehajtás országos parancsnoka, valamint a nemzetbiztonsági szolgálatok főigazgatói;
 
 f) országos parancsnokság: a nemzetbiztonsági szolgálatok főigazgatói kivételével az e) pontban meghatározott személyek által vezetett szervek;
 
@@ -26,7 +26,7 @@ k) kinevezés: a munkáltatói jogkört gyakorló elöljáró rendelkezése hiva
 
 l) felmentés: a szolgálati beosztás betöltése, valamint a szolgálati viszony megszüntetésének módja;
 
-m) áthelyezés: a fegyveres szerv szervezeti egységén belül, vagy az egyik szervezeti egységtől a másik szervezeti egységhez történő kinevezés vagy alacsonyabb beosztásba helyezés, amely az érintett miniszterek megállapodása alapján történhet fegyveres szervek között is; továbbá közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés;
+m) áthelyezés: a fegyveres szerv szervezeti egységén belül, vagy az egyik szervezeti egységtől a másik szervezeti egységhez történő kinevezés vagy alacsonyabb beosztásba helyezés, amely az érintett miniszterek megállapodása alapján történhet fegyveres szervek között is; továbbá kormányzati szolgálati jogviszonyba, közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés;
 
 n) berendelés: a fegyveres szervet irányító miniszter arra irányuló rendelkezése, hogy a hivatásos állomány tagja a Miniszterelnökségnél, az általa vezetett minisztériumban vagy törvényben meghatározott – a miniszter irányítása, felügyelete, valamint költségvetési jogállása alapján irányítása, felügyelete alá tartozó – szervnél meghatározott beosztásban teljesítse szolgálatát;
 
@@ -38,8 +38,14 @@ r) vezénylés: a hivatásos állomány tagjának az eredeti szervezeti egység�
 
 s) magasabb beosztás: nagyobb felelősséggel, szélesebb hatáskörrel és ennek megfelelően magasabb rendfokozattal és illetménnyel járó státusz;
 
-t) átszervezés: a fegyveres szervnél végrehajtott – a kizárólag névváltoztatással járó szervezetmódosításon kívüli – minden olyan szervezési intézkedés, amely az egyes szervezeti egységek egészét vagy azok egyes elemeit érinti, amelyből eredően új szervezeti elemek, beosztások létesülnek vagy azok megszűnnek, illetve módosulnak és ennek következtében megváltozik az adott szervezeti elem, illetve egyes beosztások szervezeti szint szerinti besorolása, vagy a beosztás egyes elemei (munkakör tartalma, a szolgálatteljesítés helye, beosztási kategória, rendszeresített rendfokozat) módosulnak. Nem átszervezés, ha a szolgálati beosztást – szolgálati jellegének megszűnése miatt – a miniszter köztisztviselői, vagy közalkalmazotti munkakörré minősíti át;
+t) átszervezés: a fegyveres szervnél végrehajtott – a kizárólag névváltoztatással járó szervezetmódosításon kívüli – minden olyan szervezési intézkedés, amely az egyes szervezeti egységek egészét vagy azok egyes elemeit érinti, amelyből eredően új szervezeti elemek, beosztások létesülnek vagy azok megszűnnek, illetve módosulnak és ennek következtében megváltozik az adott szervezeti elem, illetve egyes beosztások szervezeti szint szerinti besorolása, vagy a beosztás egyes elemei (munkakör tartalma, a szolgálatteljesítés helye, beosztási kategória, rendszeresített rendfokozat) módosulnak. Nem átszervezés, ha a szolgálati beosztást – szolgálati jellegének megszűnése miatt – a miniszter köztisztviselői, vagy közalkalmazotti munkakörré minősíti át. Nem minősül átszervezésnek az sem, ha a fegyveres szerv egészét vagy az érintett szervezeti egységét más fegyveres szervvel összevonják vagy annak alárendelik, és ennek következtében a hivatásos állomány tagja más fegyveres szerv állományába kerül, feltéve, hogy a szolgálati beosztásának felsorolt jellemzői – így különösen a hivatásos állomány tagjának szolgálati beosztása és helye, rendfokozata, a besorolási osztályon belüli beosztási kategóriája, fizetési fokozata, szolgálati rendje, vezényelhetősége – egyébként nem változnak;
 
-u) közszolgálati jogviszony: a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény és a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény szabályai szerinti közszolgálati jogviszony;
+u) közszolgálati és kormányzati szolgálati jogviszony:
 
-v) belföldi szolgálati kiküldetés: a hivatásos állomány tagjának meghatározott szolgálati feladat teljesítése céljából a szolgálatteljesítési helyének közigazgatási határán kívül történő ideiglenes szolgálatteljesítése, ide nem értve, ha a hivatásos állomány tagja a szolgálati kötelezettség teljesítésének természetéből eredően szolgálati feladatait szokásosan a szolgálatteljesítési helye közigazgatási határán kívül teljesíti.
+ua) közszolgálati jogviszony: a közszolgálati tisztviselőkről szóló törvény szabályai szerinti köztisztviselő és közszolgálati ügykezelő foglalkoztatási jogviszonya;
+
+ub) kormányzati szolgálati jogviszony: a közszolgálati tisztviselőkről szóló törvény szabályai szerinti kormánytisztviselő és kormányzati ügykezelő foglalkoztatási jogviszonya;
+
+v) belföldi szolgálati kiküldetés: a hivatásos állomány tagjának meghatározott szolgálati feladat teljesítése céljából a szolgálatteljesítési helyének közigazgatási határán kívül történő ideiglenes szolgálatteljesítése, ide nem értve, ha a hivatásos állomány tagja a szolgálati kötelezettség teljesítésének természetéből eredően szolgálati feladatait szokásosan a szolgálatteljesítési helye közigazgatási határán kívül teljesíti;
+
+z) rendészeti gyakorlat: a fegyveres szervnél szolgálati viszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban és munkaviszonyban töltött idő, továbbá a közszolgálati tisztviselőkről szóló törvény alapján közigazgatási gyakorlatként elismert idő.

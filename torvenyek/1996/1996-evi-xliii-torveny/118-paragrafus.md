@@ -26,9 +26,9 @@ i) kitüntetés.
 
 (3) A hivatásos állomány tagja részére havonta
 
-a) a tanácsosi cím után a köztisztviselői illetményalap 25%-ának,
+a) a tanácsosi cím után az illetményalap 25%-ának,
 
-b) a főtanácsosi cím után a köztisztviselői illetményalap 50%-ának
+b) a főtanácsosi cím után az illetményalap 50%-ának
 
 megfelelő címpótlékot kell folyósítani.
 
@@ -39,3 +39,5 @@ megfelelő címpótlékot kell folyósítani.
 a) a hivatásos állomány tagja jogerősen pénzbírságnál súlyosabb fegyelmi fenyítésben részesült, illetve
 
 b) a hivatásos állomány tagjával szemben – megrovás és járművezetéstől eltiltás kivételével – a bíróság büntetést szabott ki vagy intézkedést alkalmazott, feltéve, hogy a szolgálati viszonya e törvény alapján nem szűnt meg.
+
+(6) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a fegyveres szervek hivatásos állományú tagjai is részt vehetnek, és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosultak.

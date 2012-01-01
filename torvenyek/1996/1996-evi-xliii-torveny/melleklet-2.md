@@ -4,15 +4,49 @@ Táblázat a kiemelt munkáltatói jogkörök gyakorlásának rendjéről
 
 |
 
+|
+
+A
+
+|
+
+B
+
+|
+
+C
+
+|
+
+D
+
+|
+
+E
+
+|
+
+1.
+
+|
+
+|
+
+|
+
+A munkáltatói jogkör gyakorlója
+
+|
+
+2.
+
+|
+
 A hatáskör területe
 
 |
 
 A munkáltatói intézkedés tartalma
-
-|
-
-A munkáltatói jogkör gyakorlója
 
 |
 
@@ -25,6 +59,10 @@ országos parancsnok
 |
 
 a bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv vezetője
+
+|
+
+3.
 
 |
 
@@ -42,9 +80,33 @@ Hivatásos állományba vétel
 
 |
 
+4.
+
 |
 
-– tábornokra vonatkozó javaslat előterjesztése a KE-höz
+|
+
+– tábornokra vonatkozó javaslat előterjesztése a KE-höz
+
+|
+
+X
+
+|
+
+|
+
+|
+
+5.
+
+|
+
+|
+
+– főtiszt, tiszt esetében
+
+|
 
 |
 
@@ -54,19 +116,7 @@ X
 
 |
 
-|
-
-|
-
-– főtiszt, tiszt esetében
-
-|
-
-|
-
-X
-
-|
+6.
 
 |
 
@@ -82,9 +132,33 @@ Szolgálati viszony megszüntetése
 
 |
 
+7.
+
 |
 
-– tábornokra vonatkozó javaslat előterjesztése a KE-höz
+|
+
+– tábornokra vonatkozó javaslat előterjesztése a KE-höz
+
+|
+
+X
+
+|
+
+|
+
+|
+
+8.
+
+|
+
+|
+
+– főtiszt, tiszt esetében
+
+|
 
 |
 
@@ -94,19 +168,7 @@ X
 
 |
 
-|
-
-|
-
-– főtiszt, tiszt esetében
-
-|
-
-|
-
-X
-
-|
+9.
 
 |
 
@@ -122,25 +184,13 @@ Szolgálati viszony szüneteltetése
 
 |
 
-|
-
-– tábornok esetében
-
-|
-
-X
+10.
 
 |
 
 |
 
-|
-
-|
-
-– főtiszt, tiszt, zászlós, tiszthelyettes esetében
-
-|
+– tábornok esetében
 
 |
 
@@ -148,7 +198,31 @@ X
 
 |
 
+|
+
+|
+
+11.
+
+|
+
+|
+
+– főtiszt, tiszt, zászlós, tiszthelyettes esetében
+
+|
+
+|
+
 X
+
+|
+
+X
+
+|
+
+12.
 
 |
 
@@ -164,9 +238,33 @@ Hivatásos állományba visszavétel
 
 |
 
+13.
+
 |
 
-– tábornokra vonatkozó javaslat előterjesztése a KE-höz
+|
+
+– tábornokra vonatkozó javaslat előterjesztése a KE-höz
+
+|
+
+X
+
+|
+
+|
+
+|
+
+14.
+
+|
+
+|
+
+– főtiszt, tiszt, zászlós, tiszthelyettes esetében
+
+|
 
 |
 
@@ -176,19 +274,7 @@ X
 
 |
 
-|
-
-|
-
-– főtiszt, tiszt, zászlós, tiszthelyettes esetében
-
-|
-
-|
-
-X
-
-|
+15.
 
 |
 
@@ -208,6 +294,10 @@ X
 
 |
 
+16.
+
+|
+
 |
 
 Magasabb rendfokozatba történő kinevezés, előléptetés
@@ -220,9 +310,31 @@ Magasabb rendfokozatba történő kinevezés, előléptetés
 
 |
 
+17.
+
 |
 
-– tábornoki kinevezés előterjesztése a KE-höz
+|
+
+– tábornoki kinevezés előterjesztése a KE-höz
+
+|
+
+X
+
+|
+
+|
+
+|
+
+18.
+
+|
+
+|
+
+– ezredesi előléptetés
 
 |
 
@@ -234,17 +346,7 @@ X
 
 |
 
-|
-
-– ezredesi előléptetés
-
-|
-
-X
-
-|
-
-|
+19.
 
 |
 
@@ -266,6 +368,10 @@ X
 
 |
 
+20.
+
+|
+
 Szolgálati beosztásra vonatkozó döntések
 
 |
@@ -282,6 +388,10 @@ X
 
 |
 
+21.
+
+|
+
 |
 
 Beosztásba történő kinevezés
@@ -294,23 +404,13 @@ Beosztásba történő kinevezés
 
 |
 
-|
-
-– országos rendőrfőkapitány kinevezésére, felmentésére, megbízására vonatkozó előterjesztés a miniszterelnökhöz
-
-|
-
-X
+22.
 
 |
 
 |
 
-|
-
-|
-
-– a terrorizmust elhárító szerv főigazgatója kinevezésére, felmentésére, megbízására vonatkozó előterjesztés a miniszterelnökhöz
+– országos rendőrfőkapitány kinevezésére, felmentésére, megbízására vonatkozó előterjesztés a miniszterelnökhöz
 
 |
 
@@ -322,41 +422,13 @@ X
 
 |
 
-|
-
-– tábornoki beosztásokba történő kinevezés, felmentés, megbízás
-
-|
-
-X
+23.
 
 |
 
 |
 
-|
-
-|
-
-– ezredesi beosztásokba történő kinevezés, felmentés, megbízás
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-– tábornok más fegyveres szervhez történő áthelyezése
+– a terrorizmust elhárító szerv főigazgatója kinevezésére, felmentésére, megbízására vonatkozó előterjesztés a miniszterelnökhöz
 
 |
 
@@ -368,9 +440,71 @@ X
 
 |
 
+24.
+
 |
 
-– főtiszt, tiszt, zászlós, tiszthelyettes más fegyveres szervhez történő áthelyezése
+|
+
+– tábornoki beosztásokba történő kinevezés, felmentés, megbízás
+
+|
+
+X
+
+|
+
+|
+
+|
+
+25.
+
+|
+
+|
+
+– ezredesi beosztásokba történő kinevezés, felmentés, megbízás
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+26.
+
+|
+
+|
+
+– tábornok más fegyveres szervhez történő áthelyezése
+
+|
+
+X
+
+|
+
+|
+
+|
+
+27.
+
+|
+
+|
+
+– főtiszt, tiszt, zászlós, tiszthelyettes más fegyveres szervhez történő áthelyezése
 
 |
 
@@ -379,6 +513,10 @@ X
 X
 
 |
+
+|
+
+28.
 
 |
 
@@ -396,23 +534,13 @@ Rendfokozatot, szolgálati viszonyt érintő fegyelmi fenyítések kiszabása
 
 |
 
-|
-
-– tábornokra vonatkozó előterjesztés a KE-höz
-
-|
-
-X
+29.
 
 |
 
 |
 
-|
-
-|
-
-– főtiszt, tiszt esetében
+– tábornokra vonatkozó előterjesztés a KE-höz
 
 |
 
@@ -420,13 +548,33 @@ X
 
 |
 
+|
+
+|
+
+30.
+
+|
+
+|
+
+– főtiszt, tiszt esetében
+
+|
+
 X
 
 |
 
-rend-
+X
 
-fokozatot érintő
+|
+
+rendfokozatot érintő
+
+|
+
+31.
 
 |
 
@@ -442,9 +590,13 @@ Egyéb fegyelmi fenyítések kiszabása
 
 |
 
+32.
+
 |
 
-– tábornok esetében
+|
+
+– tábornok esetében
 
 |
 
@@ -453,6 +605,10 @@ X
 |
 
 |
+
+|
+
+33.
 
 |
 
@@ -460,7 +616,7 @@ Vezényléssel kapcsolatos intézkedések
 
 |
 
-– tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külszolgálatra történő vezénylése
+– tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külszolgálatra történő vezénylése
 
 |
 
@@ -472,9 +628,13 @@ X
 
 |
 
+34.
+
 |
 
-– tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külföldi tanintézetbe tanfolyamra történő vezénylése
+|
+
+– tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külföldi tanintézetbe tanfolyamra történő vezénylése
 
 |
 
@@ -483,6 +643,10 @@ X
 |
 
 |
+
+|
+
+35.
 
 |
 
@@ -502,6 +666,10 @@ X
 
 |
 
+36.
+
+|
+
 |
 
 49/A. § szerinti vezénylés
@@ -513,6 +681,10 @@ X
 X
 
 |
+
+|
+
+37.
 
 |
 
@@ -528,31 +700,13 @@ Hazai tanintézet alaptagozatára, tanfolyamaira történő vezénylés
 
 |
 
-|
-
-– tábornok esetében
-
-|
-
-X
+38.
 
 |
 
 |
 
-|
-
-|
-
-– főtiszt, tiszt esetében
-
-|
-
-X
-
-|
-
-X
+– tábornok esetében
 
 |
 
@@ -562,7 +716,37 @@ X
 
 |
 
-– zászlós, tiszthelyettes esetében
+|
+
+39.
+
+|
+
+|
+
+– főtiszt, tiszt esetében
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+40.
+
+|
+
+|
+
+– zászlós, tiszthelyettes esetében
 
 |
 
@@ -573,6 +757,10 @@ X
 |
 
 X
+
+|
+
+41.
 
 |
 
@@ -590,9 +778,13 @@ Egyenruha-viselési jog megvonása
 
 |
 
+42.
+
 |
 
-– tábornok esetében
+|
+
+– tábornok esetében
 
 |
 
@@ -601,6 +793,10 @@ X
 |
 
 |
+
+|
+
+43.
 
 |
 
@@ -616,9 +812,13 @@ Illetmény nélküli szabadság engedélyezése
 
 |
 
+44.
+
 |
 
-– tábornok esetében
+|
+
+– tábornok esetében
 
 |
 
@@ -627,6 +827,10 @@ X
 |
 
 |
+
+|
+
+45.
 
 |
 
@@ -642,25 +846,13 @@ Elhunytak minősítése
 
 |
 
-|
-
-– hősi halottá, szolgálat halottjává nyilvánítás
-
-|
-
-X
+46.
 
 |
 
 |
 
-|
-
-|
-
-– a fegyveres szerv halottjává nyilvánítás
-
-|
+– hősi halottá, szolgálat halottjává nyilvánítás
 
 |
 
@@ -668,7 +860,31 @@ X
 
 |
 
+|
+
+|
+
+47.
+
+|
+
+|
+
+– a fegyveres szerv halottjává nyilvánítás
+
+|
+
+|
+
 X
+
+|
+
+X
+
+|
+
+48.
 
 |
 
@@ -684,9 +900,31 @@ Elismerések adományozása
 
 |
 
+49.
+
 |
 
-– kitüntetésre vonatkozó javaslat felterjesztése a KE-höz
+|
+
+– kitüntetésre vonatkozó javaslat felterjesztése a KE-höz
+
+|
+
+X
+
+|
+
+|
+
+|
+
+50.
+
+|
+
+|
+
+– miniszteri elismerések odaítélése
 
 |
 
@@ -698,17 +936,7 @@ X
 
 |
 
-|
-
-– miniszteri elismerések odaítélése
-
-|
-
-X
-
-|
-
-|
+51.
 
 |
 
@@ -726,9 +954,13 @@ X
 
 |
 
+52.
+
 |
 
-Ágazati, Tárcaközi Érdekegyeztető Fórummal történő egyeztetés
+|
+
+Ágazati Érdekvédelmi Tanáccsal történő egyeztetés
 
 |
 

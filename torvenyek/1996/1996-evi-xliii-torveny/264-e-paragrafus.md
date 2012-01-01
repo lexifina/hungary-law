@@ -1,1 +1,1 @@
-264/E. § A határozott idejű szolgálati viszony önkéntes jelentkezés alapján, különleges állományba vétellel jön létre. A különleges állományba vételi döntésben meg kell állapítani a szolgálatteljesítés helyét és a betöltendő beosztást.
+264/E. § A szenior állományban foglalkoztatott a hivatásos szolgálati viszony létesítését követően, a tényleges szolgálat megkezdése előtt, a szolgálati feladatok jellegének megfelelő képzésben részesül.

@@ -2,7 +2,7 @@
 
 a) a betegség idejére járó távolléti díj és a sérelem folytán csökkent kereset, valamint
 
-b) a betegség idejére járó távolléti díj és a rokkantsági nyugdíj
+b) a betegség idejére járó távolléti díj és a rokkantsági nyugdíj, megváltozott munkaképességű személyek ellátása
 
 különbözetének megtérítése iránti igényt.
 
@@ -14,6 +14,6 @@ a) a betegség idejére járó távolléti díj első fizetésének napjától,
 
 b) attól az időponttól, amikor a sérelem folytán bekövetkezett munkaképesség-csökkenés, egészségkárosodás első ízben vezetett jövedelemkiesésben megmutatkozó károsodásra, végül
 
-c) a rokkantsági nyugállományba helyezés időpontjától kezdődik.
+c) a rokkantsági nyugállományba helyezés, megváltozott munkaképességű személyek ellátása folyósításának időpontjától kezdődik.
 
 (4) Járadékigény 6 hónapnál régebbi időre visszamenőleg csak akkor érvényesíthető, ha a jogosultat a követelés érvényesítésében mulasztás nem terheli, illetőleg a fegyveres szerv az 172. §-ban meghatározott kötelezettségét elmulasztotta. 3 évnél régebbi időre visszamenőleg járadékigény nem érvényesíthető.

@@ -2,7 +2,7 @@
 
 59. § (1) A törvény erejénél fogva szűnik meg a hivatásos állomány tagjának a szolgálati viszonya
 
-a) a társadalombiztosítási szabályok szerint reá születési éve alapján irányadó öregségi nyugdíjkorhatár elérése;
+a) a hivatásos szolgálat felső korhatárának elérése;
 
 b) a képzési kötelezettség teljesítésének elmulasztása [40. § (2) bekezdése, 259. § (1) bekezdése, 336. § (2) bekezdése];
 
@@ -12,7 +12,7 @@ d) az összeférhetetlenség megszüntetésének elmulasztása [66. § (2) bekez
 
 e) állami vezetővé történt kinevezése, megválasztása;
 
-f)
+f) a részére előírt rendészeti alapvizsga vagy a rendészeti szakképesítés megszerzésére vonatkozó kötelezettség meghatározott időben nem teljesítése
 
 miatt.
 

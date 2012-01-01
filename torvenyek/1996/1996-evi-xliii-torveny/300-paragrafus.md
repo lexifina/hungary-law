@@ -6,7 +6,7 @@ b) az egészségi, pszichikai és fizikai alkalmasság követelményeit, az egé
 
 c) azokat a szolgálati beosztásokat, amelyekben az idegen nyelv használata szükséges, illetőleg ahol idegen nyelv ismerete a szolgálati beosztással járó feladat, továbbá a ritka és a kettőnél több nyelv használatáért adható kiegészítő nyelvpótlék mértékét, valamint ahol – a 104. § (5) bekezdésében meghatározott nyelveken túl – más nyelv után is az ott meghatározott mértékű nyelvpótlék adható;
 
-d) azokat a szolgálati beosztásokat, amelyeknél a szolgálati viszonyban töltött idő számítása a 329. § (1) bekezdésében meghatározott szorzószámok alkalmazásával történik;
+d)
 
 e) a fegyelmi eljárás rendjét, illetve a fegyelmi jogkört gyakorló elöljárók körét.
 

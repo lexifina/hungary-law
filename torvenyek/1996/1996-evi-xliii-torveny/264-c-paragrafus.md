@@ -1,5 +1,19 @@
-## A rendőrség különleges állományába tartozók határozott idejű szolgálati viszonya
+## Különleges foglalkoztatási állomány
 
-264/C. § (1) A rendőrségnél e törvény végrehajtásáról szóló rendeletben meghatározott beosztások betöltésére határozott idejű szolgálati viszony létesíthető.
+264/C. § (1) Ha az öregségi nyugdíjkorhatár elérése előtt a szolgálati járandóságra jogosult
 
-(2) A rendőrség különleges állományába tartozók határozott idejű szolgálati viszonyára (a továbbiakban: határozott idejű szolgálati viszony) az ebben az alcímben foglalt rendelkezéseket és az I–IV., XII. és XIII. fejezetben, az 53. § h) pontjában, az 54. §-ban, a 65. §-ban, a 66. §-ban, a 68. § (1) bekezdés a)–c), e) és f) pontjában, továbbá (2)–(4) bekezdésében, a 69. §-ban, a 70. §-ban, a 118. § (1) bekezdés e), f) és h) pontjában, a 204. § (4) bekezdésében, valamint a XV–XVIII. fejezetben megállapított rendelkezéseket megfelelően alkalmazni kell.
+a) vállalja, hogy hivatásos szolgálati viszony keretében a különleges foglakoztatási állományban (a továbbiakban: szenior állomány) teljesít szolgálatot,
+
+b) megfelel a miniszter által meghatározott alkalmassági követelményeknek, és
+
+c) a szolgálati járandóságát a különleges foglalkoztatási állomány idejére szünetelteti,
+
+kérelmére – függetlenül attól, hogy melyik fegyveres szervnél vagy a Magyar Honvédségnél állt fenn szolgálati viszonya – a rendőrség különleges foglalkoztatási állományába kell venni.
+
+(2) A szenior állományba tartozó szolgálati beosztást nem lát el.
+
+(3) A szenior állományban történő foglalkoztatásra a rendőrség és a szolgálati járandóságra jogosult határozott idejű szerződést köt, amely alapján az öregségi nyugdíjkorhatár betöltéséig foglalkoztatható.
+
+(4) A szenior állományban foglalkoztatottnak a személyi jövedelemadó és a járulékok levonása után számított illetménye nem lehet alacsonyabb a részére a szenior állományba vétel előtt folyósított szolgálati járandóságnak – a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 5. § (2)–(5) bekezdése szerinti csökkentés nélkül számított – összegénél, és el kell, hogy érje a mindenkori kötelező legkisebb munkabér havi összegének 150 százalékát. Az illetményemelés mértéke megegyezik az öregségi nyugdíjemelés mértékével.
+
+(5) Szenior állományba vételkor a szolgálati időt a szolgálati nyugállományba helyezéskor elismert hivatásos szolgálati idő alapján kell megállapítani.

@@ -4,13 +4,17 @@ a) a betegség és az egészségügyi szabadság, valamint az egészségi okból
 
 b) a beteg gyermek ápolásának ideje vagy ilyen célból, illetőleg a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság;
 
-c) a terhesség ideje, a szülést követő 3 hónap, illetőleg a szülési szabadság és a gyermekgondozás céljára kapott illetmény nélküli szabadság, illetve illetmény nélküli szabadság igénybevétele nélkül is a gyermek hároméves kora;
+c) a várandósság ideje, a szülést követő 3 hónap, illetőleg a szülési szabadság és a gyermekgondozás céljára kapott illetmény nélküli szabadság, illetve illetmény nélküli szabadság igénybevétele nélkül is a gyermek hároméves kora;
 
 d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság,
 
 e) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az állomány örökbe fogadni szándékozó tagját – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás.
 
-(2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány szolgálati vagy rokkantsági nyugdíjra jogosult, a szolgálatra 56. § (2) b) pontja alapján alkalmatlanná vált tagja szolgálati viszonyának a megszüntetésére.
+(2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány tagjára, ha
+
+a) az 56. § (2) bekezdés b) pontja alapján alkalmatlanná vált, és a Munka Törvénykönyvének megfelelő alkalmazásával nyugdíjasnak minősül, vagy
+
+b) az 56. § (7) bekezdése alapján a felmentését maga kérte.
 
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó.
 

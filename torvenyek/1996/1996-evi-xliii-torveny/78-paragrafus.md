@@ -2,7 +2,7 @@
 
 78. § (1) A soron következő rendfokozatba elő kell léptetni a hivatásos állomány tagját, ha megfelel az alábbi együttes feltételeknek:
 
-a) a soron következő rendfokozatra előírt iskolai végzettséggel (szakképesítéssel) rendelkezik;
+a) a beosztásához előírt iskolai végzettséggel és szakképesítéssel rendelkezik, továbbá az előírt egyéb képzési követelményeket teljesítette;
 
 b) az előléptetését a beosztásához rendszeresített rendfokozat lehetővé teszi;
 

@@ -1,11 +1,11 @@
-264/F. § (1) A határozott idejű szolgálati viszony – meghosszabbítás hiányában – a határozott idő elteltével megszűnik.
+264/F. § (1) A szenior állományban foglalkoztatott szolgálati viszonya az öregségi nyugdíjkorhatár elérése előtt is megszűnik
 
-(2) A határozott idejű szolgálati viszony az (1) bekezdésben meghatározott idő eltelte előtt is megszűnik:
+a) a szenior állomány tagjának kérelmére, vagy
 
-a) közös megegyezéssel,
+b) ha a szenior állomány tagja nem felel meg a kifogástalan életvitel követelményének vagy a szenior állomány tagjára vonatkozó egészségi, fizikai és pszichikai követelményeknek.
 
-b) egyoldalú nyilatkozattal,
+(2) A szenior állományban foglalkoztatott szolgálati viszonyának megszüntetésére irányuló kérelemben meg kell jelölni a szolgálati viszony megszüntetésének időpontját. A kérelmet a szolgálati viszony megszüntetésének időpontját megelőzően legalább 60 nappal be kell nyújtani.
 
-c) szolgálati viszonyt érintő büntetés vagy szolgálati viszony megszüntetése fenyítés kiszabásával.
+(3) Ha a szenior állomány tagjának szolgálati viszonya kérelemre szűnik meg, a szenior állományba egy alkalommal visszavehető.
 
-(3) A fegyveres szerv, illetve a határozott idejű szolgálati viszonyban álló rendőr a szolgálati viszonyt a másik félhez intézett, a jogviszony megszüntetésére irányuló egyoldalú nyilatkozattal, tizenöt napos határidővel megszüntetheti.
+(4) Megüresedett szolgálati beosztás betöltésénél a szenior állomány tagját – ha megfelel a 64. §-ban meghatározott feltételeknek – előnyben kell részesíteni.

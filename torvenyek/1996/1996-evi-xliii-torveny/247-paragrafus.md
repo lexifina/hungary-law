@@ -10,11 +10,11 @@ c) megyei (budapesti) rendőrfőkapitány, és a vele azonos jogállású szerve
 
 d)
 
-e) fővárosi polgári védelmi igazgató,
+e)
 
-f) megyei katasztrófavédelmi igazgató, és a vele azonos jogállású szervek vezetői,
+f) a hivatásos katasztrófavédelmi szerv területi szerve vezetője, és a vele azonos jogállású szervek vezetői,
 
-g) önkormányzati tűzoltóparancsnok,
+g) tűzoltó parancsnok,
 
 h) városi (kerületi) rendőrkapitány,
 

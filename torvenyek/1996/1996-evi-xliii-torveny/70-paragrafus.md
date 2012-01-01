@@ -4,7 +4,7 @@ a) az állampolgári kötelezettségének teljesítése alatt;
 
 b) a közeli hozzátartozója halálakor, esetenként legalább 2 munkanapra;
 
-c) a kötelező orvosi vizsgálat – ideértve a terhességgel összefüggő orvosi vizsgálatot is – teljes időtartamára;
+c) a kötelező orvosi vizsgálat – ideértve a várandóssággal összefüggő orvosi vizsgálatot is – teljes időtartamára;
 
 d) a véradás miatt távol töltött teljes – a szolgálati helyen kívül szervezett véradás esetén legalább 4 óra – időtartamra;
 

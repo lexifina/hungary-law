@@ -1,6 +1,6 @@
 ## A szolgálati viszony szünetelése
 
-51. § (1) Szünetel a szolgálati viszonya a polgári védelem, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szervezet, valamint az állami és hivatásos önkormányzati tűzoltóság hivatásos állománya olyan tagjának, akit az országgyűlési képviselői, európai parlamenti képviselői, illetve a főpolgármesteri, polgármesteri választáson jelöltként nyilvántartásba vettek.
+51. § (1) Szünetel a szolgálati viszonya a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a büntetés-végrehajtási szervezet hivatásos állománya olyan tagjának, akit az országgyűlési képviselői, európai parlamenti képviselői, illetve a főpolgármesteri, polgármesteri választáson jelöltként nyilvántartásba vettek.
 
 A szünetelés időtartama jelöltségének nyilvántartásba vételétől a választás befejezéséig, illetve megválasztása esetén a mandátuma igazolásáig tart.
 

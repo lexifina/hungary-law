@@ -4,6 +4,6 @@
 
 (3) Az országos parancsnok a fegyelmi jogkörrel rendelkező közös elöljáró az általa irányított szervek tekintetében egyedi ügyben a fegyelmi jogkör gyakorlását magához vonhatja; vagy az alárendeltségébe tartozó fegyelmi jogkörrel rendelkező elöljárót felhatalmazhatja az illetékességi körén kívül eső ügyben a fegyelmi eljárás lefolytatására.
 
-(4) Az országos parancsnok (3) bekezdésben biztosított jogköre – a 274. és 275. §-ra tekintettel – nem alkalmazható az önkormányzati tűzoltóság állományába tartozó hivatásos állományú fegyelmi ügyében.
+(4)
 
-(5) Tábornok rendfokozatban való visszavetésére, szolgálati viszonyának megszüntetésére és lefokozására a miniszter tesz javaslatot a Magyar Köztársaság elnökének.
+(5) Tábornok rendfokozatban való visszavetésére, szolgálati viszonyának megszüntetésére és lefokozására a miniszter tesz javaslatot a köztársasági elnöknek.

@@ -1,0 +1,1 @@
+341/F. § A belügyminiszter irányítása alá tartozó fegyveres szervek hivatásos állományának tiszthelyettesi és zászlós rendfokozatú tagja havonta 14 000 Ft kiegészítő juttatásra jogosult, amelyet az illetménnyel együtt kell folyósítani.

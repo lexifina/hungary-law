@@ -1,6 +1,6 @@
 86. § (1) A hivatásos állomány
 
-a) nő tagját terhessége megállapításától gyermekének 1 éves koráig, továbbá
+a) nő tagját várandóssága megállapításától gyermekének 1 éves koráig, továbbá
 
 b) gyermekét egyedül nevelő tagját gyermekének 6 éves koráig, ha annak felügyeletét más nem tudja ellátni
 
@@ -14,4 +14,4 @@ b) gyermekét egyedül nevelő tagját gyermekének 6 éves koráig, ha annak fe
 
 (5) A (4) bekezdéstől eltérően a pihenőnap – a fokozottan veszélyes szolgálati beosztást kivéve – a szolgálati elfoglaltság miatt havonta összevontan is kiadható.
 
-(6) A Munka Törvénykönyvében meghatározott munkaszüneti napokon túl, munkaszüneti nap az egyes fegyveres szervek e törvény különös szabályait tartalmazó Második Részében meghatározott napjai. Munkaszüneti napon teljesített szolgálatért a hivatásos állomány tagját a munkájáért járó illetményén felül a távolléti díj is megilleti.
+(6) A Munka Törvénykönyvében meghatározott munkaszüneti napokon túl, munkaszüneti nap az egyes fegyveres szervek e törvény különös szabályait tartalmazó Második Részében, valamint a Nemzeti Adó- és Vámhivatal hivatásos állománya tekintetében a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott nap. Munkaszüneti napon teljesített szolgálatért a hivatásos állomány tagját a munkájáért járó illetményén felül a távolléti díj is megilleti.

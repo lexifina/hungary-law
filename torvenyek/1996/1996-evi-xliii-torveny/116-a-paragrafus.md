@@ -1,6 +1,6 @@
 ## Választható juttatások
 
-116/A. § (1) A hivatásos állomány tagja természetbeni juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A miniszter – a (7) bekezdésben meghatározott kivétellel – utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
+116/A. § (1) A hivatásos állomány tagja természetbeni juttatásként, választása szerint – az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjában, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A miniszter – a (7) bekezdésben meghatározott kivétellel – utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
 (2) Nem jogosult természetbeni juttatásra a hivatásos állomány tartós külszolgálaton lévő, illetve a nemzeti szakértőként foglalkoztatott tagja, továbbá a hivatásos állomány tagja azon időtartam vonatkozásában, amelyre illetményre vagy távolléti díjra nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
@@ -12,4 +12,4 @@
 
 (6) A miniszter – a (7) bekezdésben meghatározott kivétellel – utasításban szabályozza a választható természetbeni juttatások fajtáit, mértékét, a természetbeni juttatás kifizetésének rendjét és módját.
 
-(7) A katasztrófák elleni védekezésért felelős miniszter a hivatásos önkormányzati tűzoltóságokra vonatkozóan rendeletben szabályozza a választható juttatás éves összegét, a választható természetbeni juttatások fajtáit, mértékét, a természetbeni juttatás kifizetésének rendjét és módját. A hivatásos önkormányzati tűzoltóságokat fenntartó önkormányzatok a 273. § szerint további választható juttatásokat is meghatározhatnak, illetve az egyes juttatások választható mértékét magasabban is meghatározhatják.
+(7)

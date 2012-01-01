@@ -62,7 +62,7 @@ II. Iskolai végzettségek, egyéb képesítések:
 
 III. Korábbi alkalmazási (foglalkoztatási) adatok:
 
-Munkajogi jogviszonyra (munkaviszony, közszolgálati, közalkalmazotti stb.) vonatkozó adatok:
+Munkajogi jogviszonyra (munkaviszony, kormányzati szolgálati, közszolgálati, közalkalmazotti stb.) vonatkozó adatok:
 
 – munkahely,
 
@@ -103,3 +103,107 @@ V. Az alkalmazási feltételek fontosabb adatai:
 – fizikai, pszichikai állapotra vonatkozó adatok.
 
 VI. A szolgálat teljesítésének adatai:
+
+– állományviszony,
+
+– a szolgálati viszony kezdete, kinevezés ideje,
+
+– a szolgálati viszonyra és a szolgálati időre vonatkozó adatok,
+
+– a FEOR száma,
+
+– elért rendfokozat(ok),
+
+– a szolgálat során elért címek,
+
+– betöltött beosztás(ok),
+
+– helyettesítési megbízások,
+
+– a fegyveres szervek tanintézeteiben folytatott tanulmányok,
+
+– szolgálati besorolás fegyvernem, szakcsapat, szolgálati ág,
+
+– továbbképzés(ek),
+
+– tanulmányi szerződés,
+
+– berendelés, vezénylés,
+
+– kitüntetések, egyéb elismerések,
+
+– fenyítés(ek) és a folyamatban levő fegyelmi eljárások adatai,
+
+– folyamatban levő büntetőeljárás(ok), büntető ügyben hozott érdemi döntések adatai
+
+– legutóbbi minősítés ideje,
+
+– külföldi szolgálati hely(ek), idő,
+
+– szabadságolási adatok,
+
+– sebesülések,
+
+– a szolgálati viszony meghosszabbítása,
+
+– a szolgálati viszony megszűnésének jellege, oka, ideje,
+
+– végkielégítés.
+
+VII. Szolgálatteljesítési kötelezettséggel nem járó távollétek adatai:
+
+– a szolgálatteljesítés alóli mentesítés,
+
+– illetmény nélküli szabadság,
+
+– a szolgálati viszony szünetelése.
+
+VIII. Összeférhetetlenségre vonatkozó adatok:
+
+– közeli hozzátartozóval engedélyezett alá-fölérendeltségi, elszámolási, ellenőrzési kapcsolat,
+
+– engedélyezett, más kereső foglalkozás,
+
+– a bejelentéshez kötött egyéb, szolgálati viszonyon kívüli tevékenységre vonatkozó adatok,
+
+– a szolgálati viszony összeférhetetlenség miatti megszűnésének jogcíme.
+
+IX. Illetmény, juttatások, költségtérítések, kedvezmények és támogatások adatai:
+
+X. Fegyelmi, kártérítési adatok:
+
+– a fegyelmi fenyítés neme, hatálya, mentesítés,
+
+– kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok.
+
+XI. Társadalombiztosítási adatok:
+
+– a társadalombiztosítási jogosultságot igazoló adatok,
+
+– a társadalombiztosítási igazolvány,
+
+– társadalombiztosítási ellátások.
+
+XII. A nyugállományúakra vonatkozó adatok:
+
+– szolgálati lakásra jogosultság,
+
+– a nyugállományba helyezés, nyugállományba vonulás ideje,
+
+– a nyugdíjfolyósítási törzsszám,
+
+– egyenruha viselésének a joga.
+
+XIII. A szociális és kegyeleti gondoskodás adatai:
+
+– elhalálozás ideje, oka,
+
+– a haláleset minősítése,
+
+– a temetés helye, ideje,
+
+– visszamaradt hozzátartozók neve és címe,
+
+– segélyezés,
+
+– járadékfizetés.

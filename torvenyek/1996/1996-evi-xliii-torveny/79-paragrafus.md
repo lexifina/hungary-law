@@ -2,6 +2,8 @@
 
 a) a rendfokozatot érintő fegyelmi büntetés, vagy bírósági ítélet végrehajtásának tartama alatt,
 
-b) ha ellene büntető, vagy fegyelmi eljárás van folyamatban.
+b) ha ellene büntető, vagy fegyelmi eljárás van folyamatban,
+
+c) a részére meghatározott képzettség megszerzéséig, illetve képzési követelmény teljesítéséig.
 
 (2) Ha a hivatásos állomány tagját az (1) bekezdés b) pontja miatt nem léptették elő és az eljárás nem végződött rendfokozatot érintő büntetés kiszabásával, az eljárás jogerős befejezésekor a várakozási idő leteltének napjával elő kell léptetni.

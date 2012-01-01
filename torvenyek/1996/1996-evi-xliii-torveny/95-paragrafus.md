@@ -1,6 +1,6 @@
 ## Szülési szabadság
 
-95. § (1) A hivatásos állomány terhes, illetve szülő nő tagját a munkajogi szabályok szerinti mértékű szülési szabadság illeti meg. Ezt úgy kell kiadni, hogy 4 hét lehetőleg a szülés várható időpontja elé essen.
+95. § (1) A hivatásos állomány várandós, illetve szülő nő tagját a munkajogi szabályok szerinti mértékű szülési szabadság illeti meg. Ezt úgy kell kiadni, hogy 4 hét lehetőleg a szülés várható időpontja elé essen.
 
 (2) A szülési szabadság megszűnik, ha
 
