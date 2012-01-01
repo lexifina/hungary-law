@@ -30,10 +30,6 @@ II.
 
 4. A miniszteri elismerő oklevél, valamint emléklap kitüntetésekben csupán a Pénzügyminisztérium, illetve a pénzügyminiszter felügyelete alá tartozó költségvetési szervek dolgozói részesülhetnek.
 
-III.
+III.[^3]
 
-1. Szolgálati jel elismerést kaphatnak azok a pénzügyőrök, akik a testületnél átlagon felüli kimagasló teljesítményt nyújtanak, huzamosabb szolgálati viszonnyal rendelkeznek, feladataikat önállóan, folyamatosan magas színvonalon végzik.
-
-2. A Vám- és Pénzügyőr Szolgálati Érdemérem a szolgálat terén átlagon felüli teljesítmény elismérésül adományozható.
-
-3. A Vám- és Pénzügyőr Szolgálati Éremmel a testületnél 10, 15, 20, 25, 30 és 35 éves szolgálati idővel rendelkezők munkája ismerhető el.
+[^3]: A Melléklet III. pontját az 53/2011. (XII. 29.) NGM rendelet 6. § k) pontja hatályon kívül helyezte.

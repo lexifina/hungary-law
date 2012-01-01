@@ -10,12 +10,6 @@ c) EMLÉKLAP-ot
 
 adományozhat.
 
-(2) A pénzügyőr kimagasló szolgálati érdemének (érdemeinek) megbecsülése
+(2)[^2]
 
-a) Vám- és Pénzügyőr Szolgálati Érdemérem, és
-
-b) Vám- és Pénzügyőr Szolgálati Érem
-
-(a továbbiakban: szolgálati jel)
-
-odaítélésével történhet.
+[^2]: A 2. § (2) bekezdését az 53/2011. (XII. 29.) NGM rendelet 6. § k) pontja hatályon kívül helyezte.
