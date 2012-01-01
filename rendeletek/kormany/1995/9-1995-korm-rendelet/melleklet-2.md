@@ -6,11 +6,11 @@
 
 ## I.
 
-## 1. Belügyi igazgatási feladatok
+## 1.[^19] Belügyi igazgatási feladatok
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; főiskolai szintű igazgatásszervező vagy rendvédelmi felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és középfokú számítástechnikai szakképesítés.
+## jogász szakképzettség; főiskolai szintű igazgatásszervező vagy rendészeti felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és középfokú számítástechnikai szakképesítés.
 
 ## Kiemelt munkakör
 
@@ -28,7 +28,7 @@
 
 ## A II. besorolási osztályban:
 
-## közgazdasági szakközépiskolai végzettség vagy középiskolai végzettség és középfokú számítástechnikai szakképesítés; középiskolai végzettség és az OKJ[^18] szerint: nyilvántartási és okmányügyintéző, számítástechnikai programozó, számítógép rendszerprogramozó, információrendszer-szervező, számítástechnikai szoftverüzemeltető szakképesítés.
+## közgazdasági szakközépiskolai végzettség vagy középiskolai végzettség és középfokú számítástechnikai szakképesítés; középiskolai végzettség és az OKJ[^20] szerint: nyilvántartási és okmányügyintéző, számítástechnikai programozó, számítógép rendszerprogramozó, információrendszer-szervező, számítástechnikai szoftverüzemeltető szakképesítés.
 
 ## 2. Egészségügyi igazgatási feladatok
 
@@ -40,17 +40,17 @@
 
 ## középiskolai végzettség és egészségügyi szakképesítés, vagy középiskolai végzettség, és az OKJ szerint: egészségügyi szakképesítés.
 
-## 3. Európai uniós feladatkör
+## 3.[^21] Európai uniós feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi szintű nemzetközi kapcsolatok szakértő szakképzettség; Európai Unió szakirányú továbbképzési szakon szerzett szakképzettség; egyetemi szintű jogász, bölcsészettudományi vagy közgazdasági felsőoktatásban szerzett szakképzettség; műszaki felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus szakképzettség; főiskolai szintű gazdaságdiplomácia és nemzetközi menedzsment, nemzetközi kommunikáció, külgazdasági, nemzetközi marketing és teljes körű minőségirányítási szakon szerzett közgazdász szakképzettség; katonai felsőoktatási intézményben (jogelőd intézményében) egyetemi szintű biztonság- és védelempolitikai szakon, illetve azzal egyenértékű egyetemi szintű szakon szerzett szakképzettség és legalább középfokú angol, valamint a helyi adottságok szerint indokolt nyelvből szerzett legalább középfokú nyelvvizsga.
+## egyetemi szintű nemzetközi kapcsolatok szakértő szakképzettség; Európai Unió szakirányú továbbképzési szakon szerzett szakképzettség; egyetemi szintű jogász, bölcsészettudományi vagy közgazdasági felsőoktatásban szerzett szakképzettség; műszaki felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus szakképzettség; főiskolai szintű gazdaságdiplomácia és nemzetközi menedzsment, nemzetközi kommunikáció, külgazdasági, nemzetközi marketing és teljes körű minőségirányítási szakon szerzett közgazdász szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) egyetemi szintű biztonság- és védelempolitikai szakon, illetve azzal egyenértékű egyetemi szintű szakon szerzett szakképzettség és legalább középfokú angol, valamint a helyi adottságok szerint indokolt nyelvből szerzett legalább középfokú nyelvvizsga.
 
 ## A II. besorolási osztályban:
 
 ## középiskolai végzettség és közgazdasági (külkereskedelmi szakirányú) szakképzettség vagy középiskolai végzettség és az OKJ szerint: európai üzleti asszisztensi szakképesítés.
 
-## 4.[^19] Építésügyi igazgatási feladatok
+## 4.[^22] Építésügyi igazgatási feladatok
 
 ## Építésügyi igazgatási (hatósági) kiemelt munkakörben:
 
@@ -64,7 +64,7 @@
 
 ## Szakirányú középfokú végzettség.
 
-## 5.[^20] Fogyasztóvédelmi igazgatási feladatok
+## 5.[^23] Fogyasztóvédelmi igazgatási feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -108,11 +108,11 @@
 
 ## középiskolai végzettség és az OKJ szerinti: szociális gyermek- és ifjúságvédelmi ügyintéző, szociális asszisztens, szociális gondozó és szervező szakképesítés.
 
-## 8. Honvédelmi igazgatási, tervezési, szervezési feladatkör
+## 8.[^24] Honvédelmi igazgatási, tervezési, szervezési feladatkör
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; katonai felsőoktatási intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű műszaki vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű rendvédelmi felsőoktatásban szerzett szakképzettség vagy államigazgatási és szociális igazgatási szakképzettség.
+## jogász szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű műszaki vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű rendészeti felsőoktatásban szerzett szakképzettség vagy államigazgatási és szociális igazgatási szakképzettség.
 
 ## A II. besorolási osztályban:
 
@@ -158,11 +158,11 @@
 
 ## települési vízgazdálkodási, vízügyi, közlekedésgépészeti, útépítési, fenntartási technikus; középiskolai végzettség és közgazdasági szakképzettség; középiskolai végzettség és az OKJ szerint: közlekedésépítő-környezetvédő technikus, közlekedési környezetvédelmi technikus, víz- és szennyvíztechnológus technikus, vízügyi technikus szakképesítés.
 
-## 13. Közterület-felügyelői feladatkör
+## 13.[^25] Közterület-felügyelői feladatkör
 
 ## Az I. besorolási osztályban:
 
-## főiskolai szintű rendvédelmi felsőoktatásban szerzett szaknyomozó vagy szervező szakképzettség; egyetemi vagy főiskolai szintű katonai felsőoktatási intézményben (jogelőd intézményében) szerzett határrendészeti és védelmi vezetői, illetve azzal egyenértékű szakképzettség; egyetemi vagy főiskolai szintű végzettség és a Rendőrtiszti Főiskolán szerzett szakképesítés; egyetemi vagy főiskolai szintű végzettség és közterület-felügyelői vizsga.
+## főiskolai szintű rendészeti felsőoktatásban szerzett szaknyomozó vagy szervező szakképzettség; egyetemi vagy főiskolai szintű katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett határrendészeti és védelmi vezetői, illetve azzal egyenértékű szakképzettség; egyetemi vagy főiskolai szintű végzettség és a rendészeti felsőoktatásban Rendőrtiszti Főiskolán szerzett szakképesítés; egyetemi vagy főiskolai szintű végzettség és közterület-felügyelői vizsga.
 
 ## A II. besorolási osztályban:
 
@@ -174,23 +174,23 @@
 
 ## egyetemi vagy főiskolai szintű minőségügyi, minőségbiztosítási feladatokra felkészítő szakképzettség; egyetemi vagy főiskolai szintű végzettség és szakirányú posztgraduális másoddiploma vagy minőségirányítási vezetői vagy minőségbiztosítási auditori bizonyítvány.
 
-## 15. Kulturális és közoktatási igazgatási feladatok
+## 15.[^26] Kulturális és közoktatási igazgatási feladatok
 
 ## Az I. besorolási osztályban:
 
-## egyetemi szintű jogász, közgazdasági, természettudományi, bölcsészettudományi, hittudományi, művészeti felsőoktatásban szerzett szakképzettség; főiskolai szintű pedagógus, hittudományi, művész, közművelődési, közgyűjteményi, államigazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és az OKJ szerint: felsőfokú közművelődési, közgyűjteményi szakképesítés.
+## egyetemi szintű jogász, közgazdasági, természettudományi, bölcsészettudományi, hittudományi, művészeti felsőoktatásban szerzett szakképzettség; főiskolai szintű pedagógus, hittudományi, művész, közművelődési, közgyűjteményi, közigazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és az OKJ szerint: felsőfokú közművelődési, közgyűjteményi szakképesítés.
 
-## 16. Pénzügyi igazgatási feladatok
+## 16.[^27] Pénzügyi igazgatási feladatok
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű katonai felsőoktatási intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási szakképzettség és felsőfokú pénzügyi, számviteli szakügyintézői szakképesítés.
+## jogász szakképzettség; egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű katonai felsőoktatást folytató intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási szakképzettség és felsőfokú pénzügyi, számviteli szakügyintézői szakképesítés.
 
 ## A II. besorolási osztályban:
 
 ## középiskolai végzettség és közgazdasági szakképzettség vagy pénzügyi-számviteli szakképesítés; középiskolai végzettség és az OKJ szerint: gazdasági elemző- és szakstatisztikai ügyintéző, banki ügyintéző, számítógép-kezelői és számítástechnikai szoftverüzemeltetői szakképesítés.
 
-## 17.[^21] Sportszakmai és sportigazgatási feladatok
+## 17.[^28] Sportszakmai és sportigazgatási feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -210,7 +210,7 @@
 
 ## középiskolai végzettség és szociális ügyintéző vagy középiskolai végzettség és az OKJ szerint: szociális gyermek- és ifjúságvédelmi ügyintéző, szociális asszisztens szakképesítés.
 
-## 19.[^22] Településfejlesztési és -rendezési, valamint településüzemeltetési feladatok
+## 19.[^29] Településfejlesztési és -rendezési, valamint településüzemeltetési feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -276,33 +276,37 @@
 
 ## II.
 
-## 1. Foglalkoztatással kapcsolatos humánpolitikai, valamint munkaügyi feladatok
+## 1.[^30] Foglalkoztatással kapcsolatos humánpolitikai, valamint munkaügyi feladatok
 
 ## Az I. besorolási osztályban:
 
-## egyetemi szintű jogász, humánszervező, pszichológus, szociálpolitikus vagy szociológus szakképzettség; egyetemi vagy főiskolai szintű pedagógus, hittudományi, szociális munkás vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási, munkaügyi kapcsolatok vagy személyügyi szervező szakképzettség; rendvédelmi felsőoktatásban szerzett igazgatásrendészeti szakképzettség; katonai felsőoktatási intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképesítés.
+## egyetemi szintű jogász, humánszervező, pszichológus, szociálpolitikus vagy szociológus szakképzettség; egyetemi vagy főiskolai szintű pedagógus, hittudományi, szociális munkás vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási, munkaügyi kapcsolatok vagy személyügyi szervező szakképzettség; rendészeti felsőoktatásban szerzett igazgatásrendészeti szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképesítés.
 
 ## A II. besorolási osztályban:
 
 ## középiskolai végzettség és középfokú munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképesítés.
 
-## 2. Gazdálkodással kapcsolatos feladatok
+## 2.[^31] Gazdálkodással kapcsolatos feladatok
 
 ## Az I. besorolási osztályban:
 
-## egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi szintű műszaki felsőoktatásban szerzett szakképzettség; katonai felsőoktatási intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és pénzügyi, számviteli, számítástechnikai felsőfokú szakképesítés.
+## egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi szintű műszaki felsőoktatásban szerzett szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és pénzügyi, számviteli, számítástechnikai felsőfokú szakképesítés.
 
 ## A II. besorolási osztályban:
 
 ## középiskolai végzettség és közgazdasági szakképzettség vagy középiskolai végzettség és az OKJ szerint: pénzügyi-számviteli szakképesítés, gazdasági elemző és szakstatisztikus ügyintéző, banki ügyintéző szakképesítés.
 
-## 3.[^23] Belső ellenőrzési feladatok
+## 3.[^32] Belső ellenőrzési feladatok
 
 ## Az I. besorolási osztályban:
 
-## a) szakirányú felsőfokú iskolai végzettség (közgazdasági, jogi, államigazgatási), vagy
+## a) az alábbi szakirányú szakképzettségek valamelyikével rendelkezik:
 
-## b) más felsőfokú iskolai végzettség esetén a következő képesítések valamelyikével rendelkezik:
+## aa) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikusközgazdász, igazgatásszervező, okleveles igazgatásszervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser vagy
+
+## ab) olyan főiskolai, vagy egyetemi végzettség, amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti nyilvántartásba vételt lehetővé teszi,
+
+## b) más, olyan felsőfokú iskolai végzettséggel rendelkezik, amely nem az a) pontban meghatározott felsőfokú végzettség és emellett
 
 ## ba) okleveles pénzügyi revizori,
 
@@ -312,13 +316,19 @@
 
 ## bd) költségvetési ellenőri,
 
-## be) mérlegképes könyvelői, illetve azzal egyenértékű képesítés,
+## be) mérlegképes könyvelői,
 
-## bf) a Belső Ellenőrök Nemzetközi Szervezete okleveles belső ellenőri képesítése,
+## bf) a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
 
-## bg) okleveles informatikai rendszer ellenőr,
+## bg) az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA),
 
-## bh) közigazgatási gazdálkodási és ellenőrzési szakértő.
+## bh) közigazgatási gazdálkodási és ellenőrzési szakértői,
+
+## bi) felsőfokú költségvetési, vagy
+
+## bj) felsőfokú államháztartási
+
+## szakképesítéssel rendelkezik.
 
 ## 4. Kommunikációs feladatok
 
@@ -326,11 +336,11 @@
 
 ## jogász szakképzettség; egyetemi vagy főiskolai szintű pedagógus, kommunikáció vagy nemzetközi kapcsolatok szakon szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási szakképzettség.
 
-## 5. Műszaki és belső ellátási feladatok
+## 5.[^33] Műszaki és belső ellátási feladatok
 
 ## Az I. besorolási osztályban:
 
-## egyetemi vagy főiskolai szintű műszaki felsőoktatásban szerzett szakképzettség; katonai felsőoktatási intézményben (jogelőd intézményében) műszaki (technikai) szakirányú szakképzettség.
+## egyetemi vagy főiskolai szintű műszaki felsőoktatásban szerzett szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) műszaki (technikai) szakirányú szakképzettség.
 
 ## A II. besorolási osztályban:
 
@@ -352,12 +362,21 @@
 
 ## egyetemi vagy főiskolai szintű közgazdasági vagy műszaki felsőoktatásban szerzett szakképzettség és nyelvvizsga.
 
-2. számú melléklet a 9/1995. (II. 3.) Korm. rendelethez[^24]
+2. számú melléklet a 9/1995. (II. 3.) Korm. rendelethez[^34]
 
-[^18]: OKJ = 7/1993. (XII. 30.) MüM rendelet az Országos Képzési Jegyzékről.
-[^19]: Az 1. számú melléklet I. pontjának 4. alpontja a 343/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 126/2011. (VII. 18.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^20]: Az 1. számú melléklet I. 5. pontja a 298/2008. (XII. 12.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^21]: Az 1. számú melléklet I. részének 17. pontja a 256/2009. (XI. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^22]: Az. 1. számú melléklet I. pont 19. alpontja a 126/2011. (VII. 18.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^23]: Az 1. számú melléklete II. fejezetének 3. pontja a 162/2005. (VIII. 16.) Korm. rendelet 15. §-ának (6) bekezdésével megállapított szöveg.
-[^24]: A 2. számú melléklet a 192/2001. (X. 19.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
+[^19]: Az 1. számú melléklet I. fejezet 1. pontja a 363/2011. (XII. 30.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^20]: OKJ = 7/1993. (XII. 30.) MüM rendelet az Országos Képzési Jegyzékről.
+[^21]: Az 1. számú melléklet I. fejezet 3. pontja a 363/2011. (XII. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^22]: Az 1. számú melléklet I. pontjának 4. alpontja a 343/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 126/2011. (VII. 18.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^23]: Az 1. számú melléklet I. 5. pontja a 298/2008. (XII. 12.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^24]: Az 1. számú melléklet I. fejezet 8. pontja a 363/2011. (XII. 30.) Korm. rendelet 21. § a)–b) pontja szerint módosított szöveg.
+[^25]: Az 1. számú melléklet I. fejezet 13. pontja a 363/2011. (XII. 30.) Korm. rendelet 21. § a)–c) pontja szerint módosított szöveg.
+[^26]: Az 1. számú melléklet I. fejezet 15. pontja a 363/2011. (XII. 30.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^27]: Az 1. számú melléklet I. fejezet 16. pontja a 363/2011. (XII. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^28]: Az 1. számú melléklet I. részének 17. pontja a 256/2009. (XI. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^29]: Az. 1. számú melléklet I. pont 19. alpontja a 126/2011. (VII. 18.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^30]: Az 1. számú melléklet II. fejezet 1. pontja a 363/2011. (XII. 30.) Korm. rendelet 21. § a)–b) pontja szerint módosított szöveg.
+[^31]: Az 1. számú melléklet II. fejezet 2. pontja a 363/2011. (XII. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^32]: Az 1. számú melléklet II. fejezetének 3. pontja a 370/2011. (XII. 31.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^33]: Az 1. számú melléklet II. fejezete 5. pontja a 363/2011. (XII. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^34]: A 2. számú melléklet a 192/2001. (X. 19.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg.

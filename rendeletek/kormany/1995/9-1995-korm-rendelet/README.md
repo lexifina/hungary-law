@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-9-20-22
 | 2010-12-16 | 1995-9-20-22.20 | 277/2010. (XII. 15.) Korm. rendelet |
 | 2011-01-01 | 1995-9-20-22.21 | 277/2010. (XII. 15.) Korm. rendelet |
 | 2011-07-26 | 1995-9-20-22.22 | 126/2011. (VII. 18. ) Korm. rendelet |
+| 2012-01-01 | 1995-9-20-22.23 | 363/2011. (XII. 30.) Korm. rendelet |
