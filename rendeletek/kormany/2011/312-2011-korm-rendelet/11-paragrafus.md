@@ -1,0 +1,1 @@
+## 10. § Vasúti veszélyesáru-továbbítás ellenőrzése esetén, a 9. § szerinti ellenőrzést kizárólag a vasúti közlekedésről szóló törvény szerinti vasúti pályahálózat működtetését végző vasúti társaság irányítójának értesítése mellett lehet megkezdeni.

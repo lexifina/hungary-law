@@ -1,0 +1,9 @@
+## 13. § A 3. melléklet szerinti I. és II. kockázati kategóriába sorolt, műszaki hiányosság körébe tartozó szabálytalanság esetében, annak megszüntetéséig, a katasztrófavédelmi hatóság a veszélyes árut visszatartja.
+
+14. § (1) Veszélyes áru vasúti továbbítása esetén, ha az ellenőrzés alá vont veszélyes árut szállító vasúti jármű a berakható össztömegre, a méretre, a veszélyes áru vasúti továbbítására vonatkozó előírásoknak nem felelt meg, vagy a lakosság védelme érdekében egyébként indokolt, – a vasúti közlekedési hatóság és a veszélyes áru szállítójának értesítése mellett – a katasztrófavédelmi hatóság megtilthatja az érintett vasúti jármű közlekedtetését és kötelezheti a vasúti pályahálózat működtetését végző vasúti társaságot az ehhez szükséges intézkedések megtételére. Ezen intézkedéssel kapcsolatba hozható többletköltségek és károk a 3. melléklet szerint megállapított kötelezettet terhelik. A 3. melléklet „A” táblázat szerinti I. és II. kockázati kategóriába tartozó szabálytalanság esetében az ellenőrzött vasúti jármű kizárólag a szabálytalanság megszüntetését követően haladhat tovább.
+
+(2) A katasztrófavédelmi hatóság indokolt esetben az ellenőrzés során elrendeli a veszélyes áru vasúti továbbítási útvonalának megváltoztatását és a veszélyes áru szállítóját biztonságosabb útvonal választására kötelezi.
+
+(3) A katasztrófavédelmi hatóság az (1) és (2) bekezdés szerinti intézkedéseiről egyeztet a vasúti pályahálózat működtetését végző vasúti társasággal, az egyeztetésbe bevonja a veszélyes áru szállítóját.
+
+(4) A határon történő belépés alkalmával, az (1) vagy a (2) bekezdésben foglaltak fennállása esetén a katasztrófavédelmi hatóság haladéktalanul intézkedik a veszélyes árut átvevő szállító felé az átvétel megtagadására az előírások teljesüléséig. A katasztrófavédelmi hatóság által végzett ellenőrzés befejezése előtt a vonat műszaki, kereskedelmi átvétele nem történhet meg.

@@ -1,0 +1,1 @@
+## 22. § Az ellenőrzött úszólétesítmény feltartóztatásáról a katasztrófavédelmi hatóság haladéktalanul értesíti a hajózási hatóságot, valamint a rendőrség területileg illetékes vízirendészeti szervét.
