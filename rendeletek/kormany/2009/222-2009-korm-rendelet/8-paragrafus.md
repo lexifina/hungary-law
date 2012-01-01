@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésben említett szervezetek közérdekű és közérdekből nyilvános adataikat a kormányzati portálon is közzéteszik.
 
-[^7]: A 8. § a 28. § (3) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^7]: A 8. § a 28. § (3) bekezdése alapján 2012. január 1-jén lépett hatályba.
