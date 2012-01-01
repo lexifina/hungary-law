@@ -1,8 +1,8 @@
 ## A kárképviselő
 
-38. § (1) A Magyar Köztársaság területén székhellyel vagy fiókteleppel nem rendelkező biztosító gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében a Magyar Köztársaság területén csak akkor nyújthat, ha a tevékenység folytatásához kárképviselőt bízott meg.
+38. § (1) A Magyarország területén székhellyel vagy fiókteleppel nem rendelkező biztosító gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében Magyarország területén csak akkor nyújthat, ha a tevékenység folytatásához kárképviselőt bízott meg.
 
-(2) A kárképviselőnek a Magyar Köztársaság területén állandó lakóhellyel vagy székhellyel kell rendelkeznie.
+(2) A kárképviselőnek Magyarország területén állandó lakóhellyel vagy székhellyel kell rendelkeznie.
 
 (3) Az (1) bekezdésben meghatározott biztosítónak a kárképviselővel kapcsolatos adatokat, annak kijelölését, illetve az adataiban, valamint a személyében bekövetkezett változásokat 8 napon belül a Felügyeletnek be kell jelentenie.
 

@@ -8,7 +8,7 @@
 
 ## A biztosítási kötelezettség
 
-4. § (1) Minden magyarországi telephelyű gépjármű üzemben tartója köteles az e törvény szerinti biztosítóval a gépjármű üzemeltetése során okozott károk fedezetére, az e törvényben meghatározott feltételek szerinti biztosítási szerződést kötni, és azt díjfizetéssel hatályban tartani (biztosítási kötelezettség).
+4. § (1) Minden magyarországi telephelyű gépjármű üzemben tartója köteles – a külön jogszabály alapján mentesített gépjárművek kivételével – az e törvény szerinti biztosítóval a gépjármű üzemeltetése során okozott károk fedezetére, az e törvényben meghatározott feltételek szerinti biztosítási szerződést kötni, és azt díjfizetéssel hatályban tartani (biztosítási kötelezettség).
 
 (2) A biztosítási kötelezettség, ha jogszabály másként nem rendelkezik, a mindenkori üzemben tartót a gépjármű hatósági engedéllyel és jelzéssel való ellátásának időpontjától – a szünetelés kivételével – a gépjármű forgalomból történő kivonásáig, illetve a külön jogszabályban meghatározott forgalomba helyezésre nem kötelezett gépjármű esetében a forgalomban történő részvétel kezdetétől a részvétel végleges megszüntetéséig terheli.
 
@@ -20,4 +20,4 @@
 
 (6) Az üzemben tartó halála esetén, ha a biztosítási kötelezettség címzettje nem állapítható meg, a szerződés legkésőbb a hagyatéki eljárást lezáró határozat jogerőre emelkedésétől számított 30 napig tartható hatályban, amennyiben a gépjármű birtokosa a halál tényét a biztosítónak bejelentette, és a szerződést díjfizetéssel hatályban tartja.
 
-(7) Más tagállami telephelyű gépjármű tulajdonosa – ha a gépjármű rendeltetés helye szerinti tagállama a Magyar Köztársaság – köteles a tulajdonszerzést követően a rendelkezésre bocsátástól számított harmincnapos időtartamra az e törvény szerinti biztosítással rendelkezni.
+(7) Más tagállami telephelyű gépjármű tulajdonosa – ha a gépjármű rendeltetés helye szerinti tagállama Magyarország – köteles a tulajdonszerzést követően a rendelkezésre bocsátástól számított harmincnapos időtartamra az e törvény szerinti biztosítással rendelkezni.

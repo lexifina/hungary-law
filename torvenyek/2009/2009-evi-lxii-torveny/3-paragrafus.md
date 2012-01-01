@@ -6,7 +6,7 @@
 
 2. biztosítási időszak: a határozatlan tartamú szerződések esetében – a díjfizetés gyakoriságától függetlenül – az az időtartam, amelyre a megállapított díj vonatkozik;
 
-3. biztosító: a biztosítókról és biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és a Magyar Köztársaság területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
+3. biztosító: a biztosítókról és biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és Magyarország területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
 
 4. biztosított: a gépjármű biztosítással rendelkező üzemben tartója és a gépjárművet vezető személy;
 
@@ -44,7 +44,7 @@
 
 21. Kártalanítási Alap: az e törvény szerinti biztosítók által létrehozott és finanszírozott pénzalap, mely azon biztosítónál (a továbbiakban: felszámolás alatt álló biztosító) a károkozás időpontjában biztosítási fedezettel rendelkező üzemben tartó gépjárművével okozott károk megtérítését fedezi, mellyel szemben a Bit. szerinti felszámolási eljárás megindult;
 
-22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése, amennyiben a kötelezettségvállalás országa a Magyar Köztársaság;
+22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése, amennyiben a kötelezettségvállalás országa Magyarország;
 
 23. kártalanítási szervezet: a gépjármű-felelősségbiztosítási tevékenységet végző biztosítók által a székhelyük szerinti tagállamban működtetett szervezet, amelynek feladata a belföldi károsult más tagállam területén telephellyel rendelkező gépjármű üzemeltetéséből eredően a zöldkártyarendszer valamely országában elszenvedett kára kapcsán a károkozó biztosítója vagy annak kárrendezési megbízottja kárrendezésének elmaradása esetén a kárigények elbírálása és kielégítése e törvényben meghatározott esetekben;
 

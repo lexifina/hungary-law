@@ -1,6 +1,6 @@
 ## A szerződés létrejötte és megszűnése
 
-5. § (1) A biztosító a magyarországi telephelyű gépjármű üzemben tartójának, valamint azon gépjármű tulajdonosának, melynek rendeltetés helye szerinti tagállama a Magyar Köztársaság, az e törvényben meghatározott feltételek szerinti biztosítási szerződés megkötésére vonatkozó – a biztosító díjtarifájának megfelelő – ajánlatát a 13. § (1) bekezdésében meghatározott összeghatárok szerint köteles elfogadni.
+5. § (1) A biztosító a magyarországi telephelyű gépjármű üzemben tartójának, valamint azon gépjármű tulajdonosának, melynek rendeltetés helye szerinti tagállama a Magyarország, az e törvényben meghatározott feltételek szerinti biztosítási szerződés megkötésére vonatkozó – a biztosító díjtarifájának megfelelő – ajánlatát a 13. § (1) bekezdésében meghatározott összeghatárok szerint köteles elfogadni.
 
 (2) Ha a biztosítási szerződés a biztosítási időszak tartama alatt a 21. § (4) bekezdésében meghatározottak szerint (díjnemfizetés) szűnik meg, az üzemben tartónak az adott biztosítási időszak hátralévő részére fedezetet nyújtó szerződés megkötésére vonatkozó ajánlatát kizárólag az a biztosító jogosult és köteles elfogadni, amelynél a szerződés az adott biztosítási időszakban díjnemfizetéssel szűnt meg.
 

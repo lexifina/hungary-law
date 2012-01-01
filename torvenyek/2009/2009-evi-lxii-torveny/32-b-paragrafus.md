@@ -14,4 +14,4 @@ b) a gépjárművet közlekedésbiztonsági szempontból a (3) bekezdésben megh
 
 (6) A 32/A. § (2) bekezdésében, valamint a (2)–(5) bekezdésben foglaltak nem érintik azt a lehetőséget, hogy a biztosító a 32/A. § (1) bekezdés szerint előzetesen kalkulált nettó összeg, illetve értékcsökkenés 60%-ának megfelelő összegű szolgáltatási előleget nyújtson.
 
-(7) Az (1)–(6) bekezdésekben meghatározottakat nem kell alkalmazni, ha a kárt szenvedett gépjármű telephely szerinti országa nem a Magyar Köztársaság.
+(7) Az (1)–(6) bekezdésekben meghatározottakat nem kell alkalmazni, ha a kárt szenvedett gépjármű telephely szerinti országa nem Magyarország.

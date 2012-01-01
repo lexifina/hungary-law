@@ -14,4 +14,6 @@ e) a Tanács 1990. november 8-i 90/618/EGK irányelve az életbiztosítás kör�
 
 f) az Európai Parlament és a Tanács 2000. május 16-i 2000/26/EK irányelve a tagállamok gépjármű-felelősségbiztosításra vonatkozó jogszabályainak közelítéséről, valamint a 73/239/EGK és a 88/357/EGK tanácsi irányelv módosításáról (negyedik gépjármű-biztosítási irányelv),
 
-g) az Európai Parlament és a Tanács 2005. május 11-i 2005/14/EK irányelve a gépjármű-felelősségbiztosításra vonatkozó 72/166/EGK, 84/5/EGK, 88/357/EGK és 90/232/EGK tanácsi irányelv, valamint a 2000/26/EK európai parlamenti és tanácsi irányelv módosításáról.
+g) az Európai Parlament és a Tanács 2005. május 11-i 2005/14/EK irányelve a gépjármű-felelősségbiztosításra vonatkozó 72/166/EGK, 84/5/EGK, 88/357/EGK és 90/232/EGK tanácsi irányelv, valamint a 2000/26/EK európai parlamenti és tanácsi irányelv módosításáról,
+
+h) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/103/EK irányelve a a gépjármű-felelősségbiztosításról és a biztosítási kötelezettség ellenőrzéséről.

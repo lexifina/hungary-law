@@ -10,4 +10,4 @@
 
 (5) A biztosító köteles a biztosítási feltételeit, az adott naptári évben alkalmazandó, valamint október 30-át követően a következő évben alkalmazandó díjtarifáját az ügyfélfogadásra rendelkezésre álló helyiségeiben és a honlapján folyamatosan hozzáférhetővé tenni.
 
-(6) Ha a biztosító a gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében nyújtja és a Magyar Köztársaság területén szervezeti egységgel nem rendelkezik, köteles gondoskodni arról, hogy az (5) bekezdésben említett információk a kárképviselő székhelyén vagy lakóhelyén betekintés céljából kifüggesztésre kerüljenek.
+(6) Ha a biztosító a gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében nyújtja és Magyarország területén szervezeti egységgel nem rendelkezik, köteles gondoskodni arról, hogy az (5) bekezdésben említett információk a kárképviselő székhelyén vagy lakóhelyén betekintés céljából kifüggesztésre kerüljenek.
