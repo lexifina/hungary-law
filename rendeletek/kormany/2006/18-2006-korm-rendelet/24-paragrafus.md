@@ -1,1 +1,0 @@
-## 23. § A hatóság hozzájárulása alapján nem készül külső védelmi terv, ha a lehetséges veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek értékelése alapján alaposan feltételezhető, hogy a településen nem alakulhat ki az egészséget és a környezetet veszélyeztető hatás.
