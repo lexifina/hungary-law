@@ -2,7 +2,7 @@
 
 ## 1. A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Vám- és Pénzügyőri Főigazgatósága, székhelye Budapest, illetékességi területe
 
-## a) a Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága által országos illetékességgel, illetve hatáskörrel végzett feladatai tekintetében a Magyar Köztársaság területe,
+## a)[^77] a Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága által országos illetékességgel, illetve hatáskörrel végzett feladatai tekintetében Magyarország területe,
 
 ## b) az egyéb feladatai tekintetében a 8. pontban foglaltak kivételével Budapest és Pest megye közigazgatási területe.
 
@@ -18,25 +18,25 @@
 
 ## 7. A Nemzeti Adó- és Vámhivatal Dél-dunántúli Regionális Vám- és Pénzügyőri Főigazgatósága, székhelye Pécs, illetékességi területe Baranya, Somogy és Tolna megye közigazgatási területe.
 
-## 8. A Nemzeti Adó- és Vámhivatal Repülőtéri Főigazgatósága, székhelye Budapest, illetékességi területe Budapest Ferihegy Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9–12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575); továbbá a nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légiközlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében a Magyar Köztársaság területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
+## 8.[^78] A Nemzeti Adó- és Vámhivatal Repülőtéri Főigazgatósága, székhelye Budapest, illetékességi területe Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9–12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575); továbbá a nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légiközlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében Magyarország területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
 
-## 9. A Nemzeti Adó- és Vámhivatal Bevetési Főigazgatósága, székhelye Budapest, illetékességi területe a Magyar Köztársaság területe.
+## 9.[^79] A Nemzeti Adó- és Vámhivatal Bevetési Főigazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
-## 10. A Nemzeti Adó- és Vámhivatal Szakértői Intézete, székhelye Budapest, illetékességi területe a Magyar Köztársaság területe.
+## 10.[^80] A Nemzeti Adó- és Vámhivatal Szakértői Intézete, székhelye Budapest, illetékességi területe Magyarország területe.
 
 ## B) A Nemzeti Adó- és Vámhivatal alsó fokú vámszervei, székhelyük és illetékességi területük
 
 ## A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Vám- és Pénzügyőri Főigazgatósága területén:
 
-## 1. A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe a hatáskörébe tartozó kiemelt adózók tekintetében Budapest és Pest megye közigazgatási területe, a hatáskörébe tartozó egyéb feladatok tekintetében – az e rendelet szerinti eltérésekkel – a Magyar Köztársaság területe.
+## 1.[^81] A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe a hatáskörébe tartozó kiemelt adózók tekintetében Budapest és Pest megye közigazgatási területe, a hatáskörébe tartozó egyéb feladatok tekintetében – az e rendelet szerinti eltérésekkel – Magyarország területe.
 
 ## 2. A Nemzeti Adó- és Vámhivatal Észak-budapesti Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe – az e rendelet szerinti eltérésekkel – Budapest I., II., III., IV., V. és XIII. kerülete közigazgatási területe.
 
 ## 3. A Nemzeti Adó- és Vámhivatal Kelet-budapesti Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe – az e rendelet szerinti eltérésekkel – Budapest VI., VII., VIII., X., XIV., XV., XVI. és XVII. kerülete közigazgatási területe.
 
-## 4. A Nemzeti Adó- és Vámhivatal Dél-budapesti Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe Budapest IX., XI., XII., XVIII., XIX., XX., XXI., XXII. és XXIII. kerülete közigazgatási területe, ide nem értve a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság illetékességi területét.
+## 4.[^82] A Nemzeti Adó- és Vámhivatal Dél-budapesti Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe Budapest IX., XI., XII., XVIII., XIX., XX., XXI., XXII. és XXIII. kerülete közigazgatási területe; ide nem értve a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság hatáskörébe tartozó ügyekben a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság illetékességi területét.
 
-## 5. A Nemzeti Adó- és Vámhivatal Pest Megyei Vám- és Pénzügyőri Igazgatósága, székhelye Budaörs, illetékességi területe Pest megye közigazgatási területe, ide nem értve a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság illetékességi területét.
+## 5.[^83] A Nemzeti Adó- és Vámhivatal Pest Megyei Vám- és Pénzügyőri Igazgatósága, székhelye Budaörs, illetékességi területe Pest megye közigazgatási területe; ide nem értve a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság hatáskörébe tartozó ügyekben a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság illetékességi területét.
 
 ## A Nemzeti Adó- és Vámhivatal Észak-magyarországi Regionális Vám- és Pénzügyőri Főigazgatósága területén:
 
@@ -86,42 +86,28 @@
 
 ## 23. A Nemzeti Adó- és Vámhivatal Tolna Megyei Vám- és Pénzügyőri Igazgatósága, székhelye Szekszárd, illetékességi területe Tolna megye közigazgatási területe.
 
-## 24. A Nemzeti Adó- és Vámhivatal 1. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékességi területét a jelen melléklet C) része tartalmazza.
+## 24.[^84] A Nemzeti Adó- és Vámhivatal 1. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékessége szabálysértési ügyekben és vámigazgatási ügyekben – az utasok kézi- és feladott poggyászaival összefüggésben indult vámigazgatási és a jövedéki ügyek kivételével – a következő helyekre terjed ki: Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59-61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9-12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575) területére.
 
-## 25. A Nemzeti Adó- és Vámhivatal 2. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékességi területét a jelen melléklet C) része tartalmazza.
+## 25.[^85] A Nemzeti Adó- és Vámhivatal 2. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékessége a szabálysértési ügyek, a jövedéki ellenőrzéssel, hatósági felügyelettel kapcsolatos első fokú hatósági feladatok és az utasok kézi- és feladott poggyászaival, valamint a nemzetközi postai küldemények forgalmával összefüggésben indult vámigazgatási ügyek tekintetében, továbbá a környezetvédelmi termékdíj hatósági ügyek, a népegészségügyi termékadó vonatkozásában a következő helyekre terjed ki: a Budapest Liszt Ferenc Nemzetközi Repülőtér, és légi forgalom tekintetében Pest megye közigazgatási területére.
 
-## 26. A Nemzeti Adó- és Vámhivatal Járőr Igazgatósága, székhelye Budapest, illetékességi területe a Magyar Köztársaság területe.
+## 26.[^86]
 
-## 27. A Nemzeti Adó- és Vámhivatal Őrzésvédelmi- és Támogató Igazgatósága, székhelye Budapest, illetékességi területe a Magyar Köztársaság területe.
+## 27.[^87] A Nemzeti Adó- és Vámhivatal Őrzésvédelmi- és Támogató Igazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
-## C) A Nemzeti Adó- és Vámhivatalnak a nyomozóhatósági hatáskörrel felruházott, az Európai Unió külső vámhatárán működő szerveinek illetékessége
+## C)[^88]
 
-## 1. A Nemzeti Adó- és Vámhivatal Baranya Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Drávaszabolcs illetékessége a drávaszabolcsi határátkelőhely, valamint a Drávaszabolcsi Nemzetközi Hajókikötő területére terjed ki.
+4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez[^89]
 
-## 2. A Nemzeti Adó- és Vámhivatal Baranya Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Mohács illetékessége a mohácsi vízi határátkelőhely (1433–1450 folyamkilométer) területére terjed ki.
-
-## 3. A Nemzeti Adó- és Vámhivatal Baranya Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Udvar illetékessége az udvari és a beremendi határátkelőhely és a magyarbólyi vasúti határátkelőhely területére terjed ki.
-
-## 4. A Nemzeti Adó- és Vámhivatal Somogy Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Barcs illetékessége a barcsi határátkelőhely területére terjed ki.
-
-## 5. A Nemzeti Adó- és Vámhivatal Somogy Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Gyékényes illetékessége a gyékényesi vasúti határátkelőhely és a berzencei határátkelőhely területére terjed ki.
-
-## 6. A Nemzeti Adó- és Vámhivatal Bács-Kiskun Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Hercegszántó illetékessége a hercegszántói és a bácsalmási határátkelőhely területére terjed ki.
-
-## 7. A Nemzeti Adó- és Vámhivatal Bács-Kiskun Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Tompa illetékessége a tompai és a kelebiai vasúti határátkelőhely területére terjed ki.
-
-## 8. A Nemzeti Adó- és Vámhivatal Csongrád Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Röszke illetékessége a röszkei közúti és vasúti és a tiszaszigeti határátkelőhely, valamint a Szegedi Nemzetközi Kikötő területére terjed ki.
-
-## 9. A Nemzeti Adó- és Vámhivatal Szabolcs-Szatmár-Bereg Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Beregsurány illetékessége a beregsurányi, a barabási és a lónyai határátkelőhely területére terjed ki.
-
-## 10. A Nemzeti Adó- és Vámhivatal Szabolcs-Szatmár-Bereg Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Tiszabecs illetékessége a tiszabecsi határátkelőhely területére terjed ki.
-
-## 11. A Nemzeti Adó- és Vámhivatal Szabolcs-Szatmár-Bereg Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Záhony illetékessége a záhonyi közúti, a vasúti személyforgalmi határátkelőhely, valamint az eperjeskei vasúti határátkelőhely területére, továbbá vámigazgatási ügyekben a következő településekre terjed ki: Eperjeske, Fényeslitke, Győröcske, Komoró, Mándok, Tiszabezdéd, Tiszaszentmárton, Tornyospálca, Tuzsér, Záhony, Zsurk.
-
-## 12. A Nemzeti Adó- és Vámhivatal Zala Megyei Vám- és Pénzügyőri Igazgatóság Határkirendeltsége Letenye illetékessége a Letenye–Goričan (Muracsány) I. és Letenye–Goričan (Muracsány) II. határátkelőhely, valamint a murakeresztúri vasúti határátkelőhely területére terjed ki.
-
-## 13. A Nemzeti Adó- és Vámhivatal 1. számú Repülőtéri Igazgatósága illetékessége szabálysértési ügyekben és vámigazgatási ügyekben – az utasok kézi- és feladott poggyászaival összefüggésben indult vámigazgatási és a jövedéki ügyek kivételével – a következő helyekre terjed ki: Ferihegyi Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9–12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575) területére.
-
-## 14. A Nemzeti Adó- és Vámhivatal 2. számú Repülőtéri Igazgatósága illetékessége a szabálysértési ügyek, a jövedéki ellenőrzéssel, hatósági felügyelettel kapcsolatos első fokú hatósági feladatok és az utasok kézi- és feladott poggyászaival összefüggésben indult vámigazgatási ügyek tekintetében, továbbá a környezetvédelmi termékdíj hatósági ügyek vonatkozásában a következő helyekre terjed ki: a Ferihegyi Nemzetközi Repülőtér, és légi forgalom tekintetében Pest megye közigazgatási területére.
-
-4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez
+[^77]: A 3. számú melléklet A) rész 1. pont a) alpontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
+[^78]: A 3. számú melléklet A) rész 8. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 20. és 21. pontja szerint módosított szöveg.
+[^79]: A 3. számú melléklet A) rész 9. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
+[^80]: A 3. számú melléklet A) rész 10. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
+[^81]: A 3. számú melléklet B) rész 1. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 22. pontja szerint módosított szöveg.
+[^82]: A 3. számú melléklet B) rész 4. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 23. pontja szerint módosított szöveg.
+[^83]: A 3. számú melléklet B) rész 5. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 23. pontja szerint módosított szöveg.
+[^84]: A 3. számú melléklet B) rész 24. pontja a 269/2011. (XII. 20.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^85]: A 3. számú melléklet B) rész 25. pontja a 269/2011. (XII. 20.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^86]: A 3. számú melléklet B) rész 26. pontját a 269/2011. (XII. 20.) Korm. rendelet 19. § 18. pontja hatályon kívül helyezte.
+[^87]: A 3. számú melléklet B) rész 27. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 22. pontja szerint módosított szöveg.
+[^88]: A 3. számú melléklet C) részét a 269/2011. (XII. 20.) Korm. rendelet 19. § 19. pontja hatályon kívül helyezte.
+[^89]: A 4. számú melléklet a 269/2011. (XII. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## 52. § A külföldön működő magyar határkirendeltség, illetve a Magyar Köztársaság területén működő külföldi vámhivatalok illetékességére a vonatkozó nemzetközi egyezmény rendelkezései az irányadóak.
+## 52. §[^52] A külföldön működő magyar határkirendeltség, illetve a Magyarország területén működő külföldi vámhivatalok illetékességére a vonatkozó nemzetközi egyezmény rendelkezései az irányadóak.
 
-53. § (1) Az állandó tartózkodási helyüket harmadik országból a Közösség vámterületére áthelyező természetes személyek részére szabad forgalomba bocsátás vámeljárás lefolytatására a lakóhely (tartózkodási hely) szerint illetékes megyei vám- és pénzügyőri igazgatóság, Budapesten az Észak- budapesti Vám- és Pénzügyőri Igazgatóság, a Magyar Honvédség Pápa Bázis Repülőterén dolgozó személyzet tekintetében a Veszprém Megyei Vám- és Pénzügyőri Igazgatóság az illetékes.
-
-(2) Természetes személyek által harmadik országból behozott gépjárművek vámkezelésére a lakóhely (tartózkodási hely) szerint illetékes megyei vám- és pénzügyőri igazgatóság, Budapesten az Észak- budapesti Vám- és Pénzügyőri Igazgatóság, a Magyar Honvédség Pápa Bázis Repülőterén dolgozó EU tagországain kívüli állampolgárok tekintetében a Veszprém Megyei Vám- és Pénzügyőri Igazgatóság az illetékes.
+[^52]: Az 52. § a 269/2011. (XII. 20.) Korm. rendelet 18. § 14. pontja szerint módosított szöveg.

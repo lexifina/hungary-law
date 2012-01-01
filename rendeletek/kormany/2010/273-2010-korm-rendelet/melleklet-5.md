@@ -14,10 +14,8 @@
 
 ## 7. A Nemzeti Adó- és Vámhivatal Dél-dunántúli Regionális Bűnügyi Igazgatósága, székhelye Pécs, illetékességi területe Baranya megye, Somogy megye és Tolna megye közigazgatási területe.
 
-## 8. A nyomozóhatósági hatáskörrel felruházott alsó fokú vámszervek (határkirendeltségek) illetékességét a 3. számú melléklet C) része tartalmazza.
+## B) A Nemzeti Adó- és Vámhivatal Bűnügyi Főigazgatóságának alsó fokú szerve, székhelye és illetékességi területe
 
-## A Nemzeti Adó- és Vámhivatal Bűnügyi Főigazgatóságának alsó fokú szerve, székhelye és illetékességi területe
-
-## A Nemzeti Adó- és Vámhivatal Áru- és Bűnjelkezelő Hivatala, székhelye Budapest, illetékességi területe a Magyar Köztársaság területe.
+## A Nemzeti Adó- és Vámhivatal Áru- és Bűnjelkezelő Hivatala, székhelye Budapest, illetékességi területe Magyarország területe.
 
 5. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez

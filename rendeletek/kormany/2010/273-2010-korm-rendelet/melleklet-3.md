@@ -1,6 +1,6 @@
 ## A) A Nemzeti Adó- és Vámhivatal középfokú adóztatási szervei, székhelyük és illetékességi területük
 
-## 1. A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Adó Főigazgatósága, székhelye Budapest, illetékességi területe a Magyar Köztársaság területe.
+## 1.[^74] A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Adó Főigazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
 ## 2. A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Adó Főigazgatósága, székhelye Budapest, illetékességi területe Budapest és Pest megye közigazgatási területe.
 
@@ -18,9 +18,9 @@
 
 ## B) A Nemzeti Adó- és Vámhivatal alsó fokú adóztatási szervei, székhelyük és illetékességi területük
 
-## 1. A Nemzeti Adó- és Vámhivatal Kiemelt Adózók Adóigazgatósága, székhelye Budapest, illetékességi területe a Magyar Köztársaság területe.
+## 1.[^75] A Nemzeti Adó- és Vámhivatal Kiemelt Adózók Adóigazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
-## 2. A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek Adóigazgatósága, székhelye Budapest, illetékességi területe a Magyar Köztársaság területe.
+## 2.[^76] A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek Adóigazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
 ## A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Adó Főigazgatósága területén:
 
@@ -81,3 +81,7 @@
 ## 24. A Nemzeti Adó- és Vámhivatal Tolna Megyei Adóigazgatósága, székhelye Szekszárd, illetékességi területe Tolna megye közigazgatási területe.
 
 3. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez
+
+[^74]: A 2. számú melléklet A) rész 1. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 19. pontja szerint módosított szöveg.
+[^75]: A 2. számú melléklet B) rész 1. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 19. pontja szerint módosított szöveg.
+[^76]: A 2. számú melléklet B) rész 2. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 19. pontja szerint módosított szöveg.

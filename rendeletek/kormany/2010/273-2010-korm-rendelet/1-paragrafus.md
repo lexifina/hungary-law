@@ -14,7 +14,7 @@ b) a Bűnügyi Főigazgatóság,
 
 c) az Informatikai Intézet,
 
-d) az Integrált Informatikai és Telekommunikációs Intézet,
+d)[^1]
 
 e) a Képzési, Egészségügyi és Kulturális Intézet.
 
@@ -54,8 +54,11 @@ c) az 1. számú Repülőtéri Igazgatóság,
 
 d) a 2. számú Repülőtéri Igazgatóság,
 
-e) a Járőr Igazgatóság,
+e)[^2]
 
 f) az Őrzésvédelmi- és Támogató Igazgatóság.
 
 (8) A Bűnügyi Főigazgatóság alsó fokú szerve az Áru- és Bűnjelkezelő Hivatal.
+
+[^1]: Az 1. § (2) bekezdés d) pontját a 269/2011. (XII. 20.) Korm. rendelet 19. § 1. pontja hatályon kívül helyezte.
+[^2]: Az 1. § (7) bekezdés e) pontját a 269/2011. (XII. 20.) Korm. rendelet 19. § 2. pontja hatályon kívül helyezte.

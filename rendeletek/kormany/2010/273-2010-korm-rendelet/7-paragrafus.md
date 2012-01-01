@@ -4,4 +4,6 @@
 
 (3) A Repülőtéri Főigazgatóság felettes szerve az 1. számú Repülőtéri Igazgatóságnak, valamint a 2. számú Repülőtéri Igazgatóságnak.
 
-(4) A Bevetési Főigazgatóság felettes szerve a Járőr Igazgatóságnak, valamint az Őrzésvédelmi és Támogató Igazgatóságnak.
+(4)[^6] A Bevetési Főigazgatóság felettes szerve az Őrzésvédelmi és Támogató Igazgatóságnak.
+
+[^6]: A 7. § (4) bekezdése a 269/2011. (XII. 20.) Korm. rendelet 19. § 6. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 61. § A postaforgalomra vonatkozó illetékességi szabályokat külön jogszabály tartalmazza.
+## 61. §[^61]
 
 ## A nyomozóhatóságok illetékességi szabályai
 
@@ -11,3 +11,5 @@
 (4) Ha az elkövető több regionális bűnügyi igazgatóság illetékességi területén követett el bűncselekményt, az a regionális bűnügyi igazgatóság illetékes, amely az ügyben korábban intézkedett (megelőzésen alapuló illetékesség).
 
 (5) A regionális bűnügyi igazgatóságok közötti illetékességi összeütközés esetén a Bűnügyi Főigazgatóság dönt.
+
+[^61]: A 61. §-t a 269/2011. (XII. 20.) Korm. rendelet 19. § 15. pontja hatályon kívül helyezte.

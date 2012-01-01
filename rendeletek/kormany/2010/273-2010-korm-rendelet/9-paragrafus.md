@@ -1,4 +1,4 @@
-## 8. § A Bűnügyi Főigazgatóság felettes szerve a regionális bűnügyi igazgatóságoknak, az Áru- és Bűnjelkezelő Hivatalnak, valamint a nyomozóhatósági tevékenység tekintetében a nyomozóhatósági hatáskörrel felruházott, az Európai Unió külső vámhatárán működő kirendeltségeknek.
+## 8. §[^7] A Bűnügyi Főigazgatóság felettes szerve a regionális bűnügyi igazgatóságoknak, valamint az Áru- és Bűnjelkezelő Hivatalnak.
 
 ## II. Fejezet
 
@@ -15,3 +15,5 @@ b) a NAV elnöke által elrendelt azon felülellenőrzéseket, amelyeknél a fel
 c) azokat a felülellenőrzéseket, amelyeknél a felülellenőrzés lefolytatására a NAV elnöke a Központi Hivatalt jelölte ki.
 
 (2) A Központi Hivatal által lefolytatott felülellenőrzés eredményeként hozott határozat elleni fellebbezési eljárás során nem járhat el az, aki a felülellenőrzés lefolytatásában, illetve a határozat meghozatalában részt vett.
+
+[^7]: A 8. § a 269/2011. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

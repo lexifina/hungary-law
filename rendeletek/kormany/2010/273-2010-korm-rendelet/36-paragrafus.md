@@ -6,4 +6,9 @@
 
 (2) A Kormány a jövedéki adók területén való közigazgatási együttműködésről szóló 2004. november 16-i 2073/2004/EK tanácsi rendeletben szabályozott illetékes hatóságként és központi kapcsolattartó szervként a Központi Hivatalt jelöli ki.
 
-(3) A Kormány a szerencsejátékkal és játékautomatával összefüggő szabálysértések tekintetében szabálysértési hatóságként a Központi Hivatalt jelöli ki.
+(3)[^31]
+
+(4)[^32] A Kormány az Art. 70. § 5. pont 5.1. alpontjában megjelölt központi kapcsolattartó irodaként a NAV szervezetén belül a Központi Hivatalt jelöli ki.
+
+[^31]: A 36. § (3) bekezdését a 269/2011. (XII. 20.) Korm. rendelet 19. § 8. pontja hatályon kívül helyezte.
+[^32]: A 36. § (4) bekezdését a 269/2011. (XII. 20.) Korm. rendelet 11. §-a iktatta be.

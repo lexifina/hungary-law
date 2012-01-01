@@ -14,4 +14,9 @@ e) végzi az Európai Bizottsággal, valamint a tagállamok, illetve harmadik or
 
 f) végzi – amennyiben jogszabály ettől eltérően nem rendelkezik – a vámigazgatási ügyekben az Európai Bizottsággal, valamint a tagállamok, illetve harmadik országok vámhatóságaival történő kapcsolattartást,
 
-g) ellátja, koordinálja és felügyeli a Vám- és Pénzügyőrséget érintő piacfelügyeleti ellenőrzéssel kapcsolatos jogszabályban foglalt feladatokat, valamint együttműködik a piacfelügyeleti hatóságokkal.
+g)[^10] ellátja, koordinálja és felügyeli a NAV-ot érintő piacfelügyeleti ellenőrzéssel kapcsolatos jogszabályban foglalt feladatokat, valamint együttműködik a piacfelügyeleti hatóságokkal.
+
+h)[^11] végzi a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény szerinti, a Magyar Szénhidrogén Készletező Szövetség tagjai által benyújtott nyilatkozatok záradékolását.
+
+[^10]: A 12. § g) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
+[^11]: A 12. § h) pontját a 269/2011. (XII. 20.) Korm. rendelet 4. §-a iktatta be.

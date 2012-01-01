@@ -8,7 +8,7 @@ a) az Áfa törvény alapján adó-visszatéríttetésre jogosult
 
 aa) belföldön nem letelepedett adóalany,
 
-ab) diplomáciai és hivatásos konzuli képviselet, diplomáciai és hivatásos konzuli képviselet tagja, a Magyar Köztársaság által nemzetközi szervezetként elismert szervezet vagy annak képviselete, nemzetközi szervezet tisztviselője,
+ab)[^18] diplomáciai és hivatásos konzuli képviselet, diplomáciai és hivatásos konzuli képviselet tagja, a Magyarország által nemzetközi szervezetként elismert szervezet vagy annak képviselete, nemzetközi szervezet tisztviselője,
 
 ac) Észak-atlanti Szerződés tagállamának fegyveres ereje,
 
@@ -18,7 +18,7 @@ ae) közhasznú tevékenységet folytató személy, szervezet, továbbá a külf
 
 b) a diplomáciai és konzuli képviseletek, az ezekkel egy tekintet alá eső nemzetközi szervezetek, szervek által foglalkoztatott belföldi adóügyi illetőséggel rendelkező magánszemélyeknek teljesített kifizetésekkel összefüggő adókötelezettségek tekintetében,
 
-c) a Magyar Köztársaság területén székhellyel, telephellyel, állandó vagy ideiglenes lakóhellyel, tartózkodási hellyel nem rendelkező külföldi személy adóügyében, ideértve az Art. 4. és 10. számú mellékleteiben meghatározott adózókat és az Art. 9. számú mellékletben meghatározott adóügyeket is,
+c)[^19] a Magyarország területén székhellyel, telephellyel, állandó vagy ideiglenes lakóhellyel, tartózkodási hellyel nem rendelkező külföldi személy adóügyében, ideértve az Art. 4. és 10. számú mellékleteiben meghatározott adózókat és az Art. 9. számú mellékletben meghatározott adóügyeket is,
 
 d) a fióktelepnek nem minősülő telephelyen gazdasági tevékenységet folytató külföldi vállalkozás adóügyében,
 
@@ -41,3 +41,6 @@ h) a NAV alkalmazottai adóügyében.
 (6) A KÜIG végzi az Art.-ban meghatározott, az állami adóhatóság hatáskörébe tartozó központosított ellenőrzést. Amennyiben az állami adóhatóság hatáskörébe tartozó központosított ellenőrzési eljárást és az azt követő hatósági eljárást a KÜIG egy eljárásban, több adózónál egyidejűleg folytatja le, az eljárás eredményeként kiadmányozott jogerős határozatot az egyébként hatáskörrel és illetékességgel rendelkező adóigazgatóságnak kell megküldeni.
 
 (7) A KÜIG a NAV elnökének utasítására, honvédelmi vagy nemzetbiztonsági érdekek által indokolt esetben a hatáskörébe nem tartozó, a Magyar Honvédséggel, illetve a nemzetbiztonsági szolgálatokkal szerződéses kapcsolatban állt vagy álló adózónál is végezhet az állami adóhatóság hatáskörébe tartozó eljárásokban ellenőrzést. Ebben az esetben az ellenőrzés eredménye alapján megindítandó hatósági eljárást is a KÜIG folytatja le.
+
+[^18]: A 18. § (1) bekezdés ab) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 4. pontja szerint módosított szöveg.
+[^19]: A 18. § (1) bekezdés c) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 4. pontja szerint módosított szöveg.
