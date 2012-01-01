@@ -4,7 +4,7 @@
 
 a) a kutatás-fejlesztés kiadásainak, a kutatás-fejlesztési eredmények hasznosításának fedezetéül, valamint új tudományos és technológiai eredmények alkalmazásának elterjesztésére, beleértve az országos kutatási-fejlesztési programok, projektek finanszírozását;
 
-b) a kutatás-fejlesztés és a technológiai innováció infrastrukturális feltételeinek fejlesztésére, beleértve a nemzetközi kutatási-fejlesztési hálózatokhoz, infrastruktúrához való kapcsolódás megteremtésében és működtetésében történő részvételt, összhangban a Magyar Köztársaság nemzetközi kötelezettségvállalásaival;
+b) a kutatás-fejlesztés és a technológiai innováció infrastrukturális feltételeinek fejlesztésére, beleértve a nemzetközi kutatási-fejlesztési hálózatokhoz, infrastruktúrához való kapcsolódás megteremtésében és működtetésében történő részvételt, összhangban Magyarország nemzetközi kötelezettségvállalásaival;
 
 c) a kutatás-fejlesztést és a technológiai innovációt erősítő szolgáltatások, innovációs hídképző és hálózatépítő tevékenységek támogatására, beleértve konferenciák tartásának, szakkiállítások rendezésének, kiadványok készítésének költségeit;
 
@@ -36,7 +36,7 @@ g)
 
 (3) Az Alapból támogatás nyílt pályázati rendszerben nyerhető el. Pályázaton kívüli támogatás nyújtására, beleértve a (2) bekezdésben más jogszabályból, illetve nemzetközi szerződésből fakadó kötelezettségeket és támogatásokat – a fejlesztési célú beruházások kivételével – az Alap céljaival és felhasználásának jogcímeivel összhangban az Alap tárgyévi kiadási előirányzatának 3%-át meg nem haladó mértékben kerülhet sor.
 
-(4) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítani kell a TéT attaséi hálózat működésének költségeit, feladatai ellátásához szükséges forrásokat.
+(4)
 
 (4a) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül
 

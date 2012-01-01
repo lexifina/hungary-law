@@ -1,13 +1,17 @@
 12. § E törvény alkalmazásában
 
-a) alapkutatás: az általános tudományos és technikai tudásanyag bővítése, amely nem kapcsolódik ipari vagy kereskedelmi célkitűzéshez,
+a) alapkutatás: az Innovációs tv. 4. § 1. a) pontjában meghatározott alapkutatás;
 
-b) kutatás-fejlesztés: az alapkutatás, ipari vagy alkalmazott kutatás, valamint kísérleti (pre-kompetitív) fejlesztés,
+b) kutatás-fejlesztés: az Innovációs tv. 4. § 1. d) pontjában meghatározott kutatás-fejlesztés;
 
-c) ipari vagy alkalmazott kutatás: új tudásanyag megszerzésére irányuló kutatás, amelynek célja, hogy az így megszerzett tudásanyag felhasználható legyen új termékek, eljárások vagy szolgáltatások kifejlesztéséhez, illetve jelentős javulást eredményezzen a már meglévő termékekben, eljárásokban vagy szolgáltatásokban,
+c) alkalmazott kutatás: az Innovációs tv. 4. § 1. b) pontjában meghatározott alkalmazott kutatás;
 
-d) kísérleti (pre-kompetitív) fejlesztés: az alkalmazott kutatás eredményének tervekbe foglalása, azaz új vagy továbbfejlesztett termékek, eljárások, szolgáltatások tervezése (idetartozik a kereskedelmi felhasználásra nem kerülő prototípus elkészítése is). Nem minősül kísérleti fejlesztésnek a termékeken, termelési eljárásokban, folyamatokban, létező szolgáltatásokon végzett rutinszerű változtatás, még ha az az adott termék, eljárás, folyamat vagy szolgáltatás fejlődését is eredményezi,
+d) kísérleti fejlesztés: az Innovációs tv. 4. § 1. c) pontjában meghatározott kísérleti fejlesztés;
 
-e) technológiai innováció: minden olyan tudományos, műszaki, szervezeti, pénzügyi és kereskedelmi jellegű tevékenység, beleértve az új ismeretanyagba történő befektetéseket is, amely ténylegesen vagy szándék szerint műszakilag új vagy továbbfejlesztett termékek, eljárások és szolgáltatások megvalósításához vezet,
+e) technológiai innováció: az Innovációs tv. 4. § 2. pontjában meghatározott technológiai innováció.
 
 f) TéT: tudomány- és technológiapolitika.
+
+g) saját tevékenységi körben végzett kutatás-fejlesztési tevékenység: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körben végzett kutatás-fejlesztési tevékenység;
+
+h) kutatás-fejlesztési megállapodás: az Innovációs törvény 4. § 10. pont szerinti kutatás-fejlesztési megállapodás.
