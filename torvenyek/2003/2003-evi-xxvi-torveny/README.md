@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-26-00-00
 | 2011-01-01 | 2010. évi CLII. törvény | 2003-26-00-00.10 |
 | 2011-03-30 | 2011. évi XXIX. törvény | 2003-26-00-00.11 |
 | 2011-09-01 | 2011. évi LXXXVIII. törvény | 2003-26-00-00.12 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2003-26-00-00.13 |

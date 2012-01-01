@@ -22,7 +22,7 @@
 
 10. kiegyenlítő intézkedés: a magterület és az ökológiai folyosó állapotára, egységességére, az élőhelyek közötti ökológiai kapcsolatokra negatív hatást gyakorló tevékenység esetén a várható kedvezőtlen hatással arányos, az adott magterületen, ökológiai folyosó területén vagy más természeti területen elvégzendő helyreállítási vagy fejlesztési feladat,
 
-11. kiemelt fontosságú meglévő honvédelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelyben a Magyar Köztársaság védelmi képességeit alapvetően meghatározó, vagy a NATO-tagságból eredő, valamint a nemzetközi szerződéseiben vállalt kötelességei teljesítésére hivatott objektumok elhelyezésére szolgáló területek találhatók,
+11. kiemelt fontosságú meglévő honvédelmi terület: országos területrendezési tervben megállapított, kiemelt térségi és megyei területrendezési tervekben alkalmazott övezet, amelyben Magyarország védelmi képességeit alapvetően meghatározó, vagy a NATO-tagságból eredő, valamint a nemzetközi szerződéseiben vállalt kötelességei teljesítésére hivatott objektumok elhelyezésére szolgáló területek találhatók,
 
 12. kiemelt térség és a megye szerkezeti terve: a térségi területfelhasználás rendszerét, a települések térbeli rendjét, az országos és térségi műszaki infrastruktúra-hálózatok és építmények helyét, valamint ezek összefüggéseit a kiemelt térség és a megye területrendezési tervében meghatározó terv,
 
