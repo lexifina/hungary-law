@@ -1,6 +1,6 @@
 ## 5. A HUNADO feladatai
 
-5. § (1) A HUNADO doppingellenes tevékenysége során e rendelet, más jogszabályok és az egyes nemzetközi követelményeknek a nemzeti doppingellenes szervezetekre vonatkozó rendelkezéseinek megfelelően – a miniszterrel kötött szerződés alapján – részt vesz a doppingellenes tevékenységben. A HUNADO-nak a doppingellenes tevékenységével összefüggésben, a mintavétel és -kezelés során bekövetkező károk megtérítésének fedezésére szolgáló felelősségbiztosítással, ISO nemzetközi tanúsítvánnyal és WADA akkreditációval kell rendelkeznie.
+5. § (1)[^2] A HUNADO közhasznú szervezetnek minősülő nonprofit gazdasági társaság, amely doppingellenes tevékenysége során e rendelet, más jogszabályok és az egyes nemzetközi követelményeknek a nemzeti doppingellenes szervezetekre vonatkozó rendelkezéseinek megfelelően – a miniszterrel kötött közhasznú megállapodás alapján – részt vesz a doppingellenes tevékenységben. A HUNADO-nak a doppingellenes tevékenységével összefüggésben, a mintavétel és -kezelés során bekövetkező károk megtérítésének fedezésére szolgáló felelősségbiztosítással, ISO nemzetközi tanúsítvánnyal és WADA akkreditációval kell rendelkeznie.
 
 (2) A HUNADO doppingellenes tevékenysége során e rendelettel, a nemzetközi doppingellenes szervezetek doppingellenes szabályaival, valamint a nemzetközi követelményekkel összhangban
 
@@ -38,10 +38,13 @@ p) honlapot működtet, amelyen közzéteszi doppingellenes szabályzatát, tov�
 
 q) gondoskodik a doppingellenőrök képzéséről és rendszeres továbbképzéséről, amelyet a szövetségek kijelölt kapcsolattartói részére is biztosít,
 
-r) ellátja az (1) bekezdés szerinti szerződésben meghatározott egyéb feladatokat.
+r)[^3] ellátja az (1) bekezdés szerinti közhasznú megállapodásban meghatározott egyéb feladatokat.
 
 (3) A HUNADO-val munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban lévő személy a doppingellenes tevékenységben részt vevő más szervezetekkel – tudományos, oktatói, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység kivételével – doppingellenes tevékenységre irányuló munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt nem létesíthet, doppingellenes tevékenysége során pártatlanul, a szakmai, etikai és nemzetközi követelményeknek megfelelően köteles eljárni, és a tudomására jutott adatokat, információkat bizalmasan kezelni. Doppingvétséget elkövető személy nem állhat a HUNADO-val munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
 
 (4) A HUNADO mintavétel és -kezelés során eljáró doppingellenőrének felsőfokú végzettséggel kell rendelkeznie. A doppingellenőrök képzéséről és rendszeres szakmai továbbképzéséről a HUNADO gondoskodik.
 
 (5) A HUNADO együttműködik a doppingellenes tevékenységben részt vevő egyéb szervezetekkel, versenyzőkkel és sportszakemberekkel, tevékenységéről beszámol a miniszternek, és arról évente legalább egy alkalommal tájékoztatja a sportköztestületeket is.
+
+[^2]: Az 5. § (1) bekezdése a 35. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (2) bekezdés r) pontja a 35. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 34. §[^1]
+## 34. §[^4]
 
 35. § (1) A 3. § a) pontja helyébe a következő rendelkezés lép:
 
@@ -14,4 +14,4 @@
 
 (A HUNADO doppingellenes tevékenysége során e rendelettel, a nemzetközi doppingellenes szervezetek doppingellenes szabályaival, valamint a nemzetközi követelményekkel összhangban)
 
-[^1]: A 34. §-t a 36. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 34. §-t a 36. § (2) bekezdése hatályon kívül helyezte.
