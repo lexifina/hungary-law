@@ -38,11 +38,11 @@
 
 | 18. |  |  | tűzvédelmi berendezések létesítési és használatbavételi ügyeivel kapcsolatos hatósági eljárások | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 19. |  |  | tűzvédelmi hatósági ügyekben eltérési hatósági eljárások | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 19. |  |  | tűzvédelmi hatósági ügyekben eltérési hatósági eljárások | Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 20. |  |  | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Tolna Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 21. |  |  | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban nemzeti szabványban teljes- körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 21. |  |  | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban nemzeti szabványban teljes- körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 22. |  |  | nyomástartó berendezések, veszélyes folyadéktárolók engedélyezésével kapcsolatos hatósági eljárások | Baranya Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal” |
 
