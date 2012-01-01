@@ -2,11 +2,11 @@
 
 14. § (1) E rendelet a kihirdetését követő hónap első napján lép hatályba.
 
-(2)–(3)[^9]
+(2)–(3)[^25]
 
-(4)[^10] E rendeletnek a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Honvédség nemzetközi tevékenységéhez kapcsolódó egyes kormányrendeletek módosításáról szóló 64/2011. (IV. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (7)–(9) bekezdését a Módr. hatálybalépését[^11] követően a Honvédelmi Minisztérium illetékes szervéhez benyújtott kárigények elbírálása tekintetében kell alkalmazni.
+(4)[^26] E rendeletnek a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Honvédség nemzetközi tevékenységéhez kapcsolódó egyes kormányrendeletek módosításáról szóló 64/2011. (IV. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (7)–(9) bekezdését a Módr. hatálybalépését[^27] követően a Honvédelmi Minisztérium illetékes szervéhez benyújtott kárigények elbírálása tekintetében kell alkalmazni.
 
-Melléklet a 276/2008. (XI. 21.) Korm. rendelethez
+Melléklet a 276/2008. (XI. 21.) Korm. rendelethez[^28]
 
 KÁRIGÉNY BEJELENTŐ ADATLAP
 
@@ -64,7 +64,7 @@ KÁRIGÉNY BEJELENTŐ ADATLAP
 
 2. Valótlan információk közléséért, illetve hamis igénylés benyújtásáért a bejelentő az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet 31. § (1) bekezdés b) pontja alapján ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-3. A jelen adatlap kitöltésével és a Honvédelmi Minisztérium illetékes szerve részére történő megküldéssel a károsult, az igénybejelentő és a tanú hozzájárulnak ahhoz, hogy a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezéseinek megfelelően a Honvédelmi Minisztérium illetékes szerve a kérelemben foglalt adataikat kezelje.
+3. A jelen adatlap kitöltésével és a Honvédelmi Minisztérium illetékes szerve részére történő megküldéssel a károsult, az igénybejelentő és a tanú hozzájárulnak ahhoz, hogy az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény rendelkezéseinek megfelelően a Honvédelmi Minisztérium illetékes szerve a kérelemben foglalt adataikat kezelje.
 
 Kelt: ..................................., 2........... ............................ hó ......... nap
 
@@ -72,6 +72,7 @@ Kelt: ..................................., 2........... ........................
 
 bejelentő
 
-[^9]: A 14. § (2)–(3) bekezdése hatályát vesztette ugyanezen § (3) bekezdése alapján.
-[^10]: A 14. § (4) bekezdését a 64/2011. (IV. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be.
-[^11]: A hatálybalépés időpontja 2011. május 1.
+[^25]: A 14. § (2)–(3) bekezdése hatályát vesztette ugyanezen § (3) bekezdése alapján.
+[^26]: A 14. § (4) bekezdését a 64/2011. (IV. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be.
+[^27]: A hatálybalépés időpontja 2011. május 1.
+[^28]: A melléklet 3. pontja a 290/2011. (XII. 22.) Korm. rendelet 90. § (7) bekezdése szerint módosított szöveg.

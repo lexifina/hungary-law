@@ -6,8 +6,10 @@
 
 (4) Amennyiben a Honvédelmi Minisztérium illetékes szerve által lefolytatott vizsgálat eredményeképp megállapítható a károkozás ténye, a kár összege, valamint a károkozás betudhatósága, a Honvédelmi Minisztérium illetékes szerve haladéktalanul intézkedik a megítélt kártérítés kifizetése, valamint a kárigény teljes vagy részleges kielégítésének igazolása iránt.
 
-(5) Amennyiben a károkozás ténye megállapítható, azonban a betudhatóság nem áll fenn, a Honvédelmi Minisztérium illetékes szerve a Magyar Köztársaság és a Honvédség nemzetközi kötelezettségeinek teljesítése, valamint a károkozásban érintett honvédségi állomány iránti bizalom fenntartása érdekében ajánlatot tehet a külföldi harmadik fél részére a méltányosságon alapuló (ex gratia), a felelősség elismerésével nem járó kifizetésre.
+(5)[^21] Amennyiben a károkozás ténye megállapítható, azonban a betudhatóság nem áll fenn, a Honvédelmi Minisztérium illetékes szerve Magyarország és a Honvédség nemzetközi kötelezettségeinek teljesítése, valamint a károkozásban érintett honvédségi állomány iránti bizalom fenntartása érdekében ajánlatot tehet a külföldi harmadik fél részére a méltányosságon alapuló (ex gratia), a felelősség elismerésével nem járó kifizetésre.
 
 (6) Az (5) bekezdésben foglaltak nem érintik a külföldi harmadik fél azon jogát, hogy a Honvédségnek nem betudható károkozás tekintetében kárigényét polgári peres úton, közvetlenül is érvényesítse a kárt okozó személlyel szemben.
 
 (7) A Honvédség által külföldi harmadik félnek a Honvédségnek betudható módon okozott károk teljes megtérítése érdekében a külföldi harmadik fél ki nem elégített kárigényét peres úton a Magyar Állammal szemben érvényesítheti. E perekben a Magyar Államot a honvédelmi miniszter képviseli.
+
+[^21]: A 9. § (5) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 90. § (2) bekezdése szerint módosított szöveg.

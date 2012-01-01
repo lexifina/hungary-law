@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-276-20-
 | --- | --- | --- |
 | 2008-12-02 | 2008-276-20-22.2 | 276/2008. (XI. 21.) Korm. rendelet |
 | 2011-05-01 | 2008-276-20-22.3 | 64/2011. (IV. 13.) Korm. rendelet |
+| 2012-01-01 | 2008-276-20-22.4 | 290/2011. (XII. 22.) Korm. rendelet |
