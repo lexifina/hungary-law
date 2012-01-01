@@ -48,21 +48,21 @@
 
 22. ,,négy szem elve'': minden végrehajtási és pénzügyi tranzakció engedélyezését megelőzően az adott feladatot ellátó személy munkáját egy másik személy teljeskörűen felülvizsgálja, beleértve az ellenőrzési listák és a kitöltési útmutatók alkalmazását is;
 
-23. szabálytalanság: az előcsatlakozási eszközök és az Átmeneti Támogatás felhasználása során, a vonatkozó nemzetközi szerződésekbe, a hazai jogszabályokba foglalt előírások, illetve a támogatási szerződésben vállalt kötelezettségek megsértése, amelyek eredményeképpen az Európai Közösségek vagy a Magyar Köztársaság pénzügyi érdekei sérülnek;
+23.[^9] szabálytalanság: az előcsatlakozási eszközök és az Átmeneti Támogatás felhasználása során, a vonatkozó nemzetközi szerződésekbe, a hazai jogszabályokba foglalt előírások, illetve a támogatási szerződésben vállalt kötelezettségek megsértése, amelyek eredményeképpen az Európai Közösségek vagy Magyarország pénzügyi érdekei sérülnek;
 
 24. program: tágabb ágazati vagy térségi fejlesztési célrendszert megvalósító fejlesztési terv, mely több egymással összefüggő projekt útján, egységes, koordinált szervezeti rendszerben, az érintettek együttműködése alapján valósul meg, SAPARD esetében a SAPARD Program;
 
 25. projekt: Phare és az Átmeneti Támogatás esetében tartalmilag és formailag részletesen kidolgozott, megfelelő pénzügyi háttérrel és végrehajtási ütemezéssel rendelkező fejlesztési elképzelés, SAPARD esetében a végső kedvezményezettek által a Program keretében elvégzett bármilyen tevékenység;
 
-26.[^9] Tervezési körirat: a költségvetési törvényjavaslat (a központi költségvetés, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai) Kormány, illetve Országgyűlés elé terjesztési kötelezettségének teljesítése érdekében a Nemzetgazdasági Minisztérium (a továbbiakban: NGM) által kiadott, a meghatározott év(ek) költségvetési tervezési feladatait, a költségvetési javaslat kidolgozásának és összeállításának szempontjait tartalmazó összefoglaló tájékoztató;
+26.[^10] Tervezési körirat: a költségvetési törvényjavaslat (a központi költségvetés, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai) Kormány, illetve Országgyűlés elé terjesztési kötelezettségének teljesítése érdekében a Nemzetgazdasági Minisztérium (a továbbiakban: NGM) által kiadott, a meghatározott év(ek) költségvetési tervezési feladatait, a költségvetési javaslat kidolgozásának és összeállításának szempontjait tartalmazó összefoglaló tájékoztató;
 
 27. végső kedvezményezett: Phare és az Átmeneti Támogatás esetében olyan jogi személy, jogi személyiség nélküli gazdasági társaság, amely a projekt hasznosítója, és a projekt megvalósításának fizikai, műszaki vonatkozásaival foglalkozik. SAPARD esetében az a természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, egyéni vállalkozó, amely a projektek végrehajtásáért felelős;
 
-28.[^10] Kincstár által működtetett monitoring rendszer: az államháztartás pénzügyi információs rendszerébe illeszkedő, a Kincstárban működő integrált nyilvántartási rendszer;
+28.[^11] Kincstár által működtetett monitoring rendszer: az államháztartás pénzügyi információs rendszerébe illeszkedő, a Kincstárban működő integrált nyilvántartási rendszer;
 
 29. PERSEUS: az Európai Bizottság Phare és Átmeneti Támogatás programjai esetén alkalmazott, pénzügyi folyamatokat rögzítő nyilvántartási rendszere.
 
-30.[^11] Illetékes Nemzeti Pénzügyi Ellenőrző Szervezet: ezt a szerepet az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) tölti be az Európai Támogatásokat Auditáló Főigazgatóságról szóló 210/2010. (VI. 30.) Korm. rendelet 3. § b) pontjába foglaltaknak megfelelően.
+30.[^12] Illetékes Nemzeti Pénzügyi Ellenőrző Szervezet: ezt a szerepet az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) tölti be az Európai Támogatásokat Auditáló Főigazgatóságról szóló 210/2010. (VI. 30.) Korm. rendelet 3. § b) pontjába foglaltaknak megfelelően.
 
 [^2]: A 2. § 8. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
 [^3]: A 2. § 10. pontjának a 113/2011. (VII. 7.) Korm. rendelet 18. §-ával elrendelt módosítása, amely szerint a „Pénzügyminisztérium, Nemzeti Programengedélyező Iroda” szövegrésze helyébe a „Magyar Államkincstár (a továbbiakban: Kincstár)” szöveg lép, nem vezethető át.
@@ -71,6 +71,7 @@
 [^6]: A 2. § 15. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^7]: A 2. § 20. pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (8) bekezdése, a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^8]: A 2. § 21. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^9]: A 2. § 26. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^10]: A 2. § 28. pontja a 401/2007. (XII. 27.) Korm. rendelet 62. § (9) bekezdésének b) pontja szerint módosított szöveg.
-[^11]: A 2. § 30. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^9]: A 2. § 23. pontja a 304/2011. (XII. 23.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^10]: A 2. § 26. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^11]: A 2. § 28. pontja a 401/2007. (XII. 27.) Korm. rendelet 62. § (9) bekezdésének b) pontja szerint módosított szöveg.
+[^12]: A 2. § 30. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.

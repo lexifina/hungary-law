@@ -1,3 +1,3 @@
-## 62. §[^69] A pályázatokban jelezni kell és a támogatási szerződéseknek tartalmazniuk kell a támogatás kedvezményezettje által adott beszedési megbízás benyújtására vonatkozó felhatalmazó levelét szabálytalanság, illetve eltérés megállapításának esetére.
+## 62. §[^70] A pályázatokban jelezni kell és a támogatási szerződéseknek tartalmazniuk kell a támogatás kedvezményezettje által adott beszedési megbízás benyújtására vonatkozó felhatalmazó levelét szabálytalanság, illetve eltérés megállapításának esetére.
 
-[^69]: A 62. § a 314/2009. (XII. 28.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^70]: A 62. § a 314/2009. (XII. 28.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 59/B. §[^67] A szabálytalansági vizsgálatot lefolytató szervezeteknél a szabálytalansági vizsgálat lefolytatásában részt vevő minden személynek összeférhetetlenségi és pártatlansági nyilatkozatot kell tennie.
+## 59/B. §[^68] A szabálytalansági vizsgálatot lefolytató szervezeteknél a szabálytalansági vizsgálat lefolytatásában részt vevő minden személynek összeférhetetlenségi és pártatlansági nyilatkozatot kell tennie.
 
 60. § (1) Szabálytalanság esetén alkalmazandó szankciók:
 
@@ -20,4 +20,4 @@ f) a büntető- és polgári jogi eljárások kezdeményezése.
 
 (4) Az (1) bekezdés a)–e) pontjában foglalt szankciók alkalmazása esetén a szankcióval érintettek a szankció foganatosításától számított nyolc napon belül felülvizsgálati kérelemmel élhetnek a szankciót foganatosító szakmai felügyeletet állátó szervnél.
 
-[^67]: Az 59/B. §-t a 164/2010. (V. 11.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^68]: Az 59/B. §-t a 164/2010. (V. 11.) Korm. rendelet 5. § (2) bekezdése iktatta be.

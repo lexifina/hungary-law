@@ -1,4 +1,4 @@
-9. § (1)[^16] A Kincstár szervezeti keretei közt történik a nemzetközi megállapodásokban előírt nemzeti alap feladatok ellátása. E feladatok különösen:
+9. § (1)[^17] A Kincstár szervezeti keretei közt történik a nemzetközi megállapodásokban előírt nemzeti alap feladatok ellátása. E feladatok különösen:
 
 a) az előcsatlakozási eszközök és az Átmeneti Támogatás igénybevételéhez szükséges átutalási igénylések ellenőrzése és továbbítása (Phare és Átmeneti Támogatás esetében összeállítása is) az Európai Bizottság részére,
 
@@ -12,7 +12,7 @@ e) éves pénzügyi jelentés készítése és megküldése az Európai Unió Bi
 
 f) SAPARD esetén az illetékes hatóság feladatainak ellátása.
 
-(2)[^17]
+(2)[^18]
 
-[^16]: A 9. § (1) bekezdés nyitó szövegrésze a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^17]: A 9. § (2) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^17]: A 9. § (1) bekezdés nyitó szövegrésze a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^18]: A 9. § (2) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 19. §-a hatályon kívül helyezte.
