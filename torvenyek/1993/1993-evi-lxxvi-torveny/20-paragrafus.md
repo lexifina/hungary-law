@@ -1,1 +1,0 @@
-20. § A gyakorlati képzést szervező — eltérő megállapodás hiányában — köteles a gyakorlati képzés követelményeire való felkészítéshez, továbbá a gyakorlati vizsgához szükséges tárgyi eszközöket és a személyi feltételeket biztosítani.
