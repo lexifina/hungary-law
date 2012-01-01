@@ -640,7 +640,7 @@
 
 | 1702 | Dísznövénykertész |
 
-5/b. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^240]
+5/b. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^241]
 
 I. Végzettségi szint: főiskola
 
@@ -706,4 +706,4 @@ III. Végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc)
 
 IV. Végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
 
-[^240]: Az 5. számú mellékletet a 63/2007. (VII. 13.) FVM rendelet 6. §-a iktatta be. Az 5. számú melléklet helyébe az 51/2009. (IV. 16.) FVM rendelet 24. § (2) bekezdése alapján az 5/a. számú és 5/b. számú melléklet lépett. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^241]: Az 5. számú mellékletet a 63/2007. (VII. 13.) FVM rendelet 6. §-a iktatta be. Az 5. számú melléklet helyébe az 51/2009. (IV. 16.) FVM rendelet 24. § (2) bekezdése alapján az 5/a. számú és 5/b. számú melléklet lépett. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.

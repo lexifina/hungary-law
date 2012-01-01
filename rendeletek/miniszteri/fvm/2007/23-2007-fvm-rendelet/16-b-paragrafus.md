@@ -8,7 +8,7 @@ aa) február 1.–május 31., valamint
 
 ab) augusztus 1.–december 31.,
 
-b) 2011-ben július 1.–december 31.
+b)[^95]
 
 között lehet benyújtani.
 
@@ -24,3 +24,4 @@ c) az ugyanazon időszakban benyújtott kérelmét legkésőbb az újonnan beny�
 
 [^93]: A 16/A. §-t a 97/2008. (VII. 25.) FVM rendelet 7. §-a iktatta be.
 [^94]: A 16/B. §-t az 57/2011. (VI. 20.) VM rendelet 2. §-a iktatta be.
+[^95]: A 16/B. § (1) bekezdés b) pontját a 124/2011. (XII. 21.) VM rendelet 35. § (3) bekezdése hatályon kívül helyezte.

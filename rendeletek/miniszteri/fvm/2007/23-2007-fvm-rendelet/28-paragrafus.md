@@ -1,4 +1,4 @@
-28. §[^153] (1) A körülmények mesterséges megteremtésével kapcsolatos vizsgálat érdekében ellenőrizhető és a körülmények mesterséges megteremtésének minősíthető, ha a 27. § (1) bekezdés g) pontjában hivatkozott, a támogatási kérelemben benyújtott árajánlatban szereplő kiadási tétel vonatkozásában az árajánlat adója az ajánlat kiállításakor
+28. §[^154] (1) A körülmények mesterséges megteremtésével kapcsolatos vizsgálat érdekében ellenőrizhető és a körülmények mesterséges megteremtésének minősíthető, ha a 27. § (1) bekezdés g) pontjában hivatkozott, a támogatási kérelemben benyújtott árajánlatban szereplő kiadási tétel vonatkozásában az árajánlat adója az ajánlat kiállításakor
 
 a) nem jogosult azon tevékenység végzésére, amelyre vonatkozóan az árajánlatot kibocsátotta;
 
@@ -14,4 +14,4 @@ b) kapcsolt vállalkozás viszonyban áll a kérelmet benyújtó ügyféllel.
 
 (6) A forinttól eltérő pénznemben kiállított árajánlatra az e rendelet 20. § (5) bekezdésében foglalt átváltási módszert kell alkalmazni.
 
-[^153]: A 28. § a 124/2011. (XII. 21.) VM rendelet 20. §-ával megállapított szöveg.
+[^154]: A 28. § a 124/2011. (XII. 21.) VM rendelet 20. §-ával megállapított szöveg.

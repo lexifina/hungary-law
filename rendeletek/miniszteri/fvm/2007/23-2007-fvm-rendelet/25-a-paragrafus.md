@@ -1,4 +1,4 @@
-25/A. §[^139] (1) A beruházás helyének a támogatási kérelem benyújtási időszakot követő módosítása az alábbi feltételekkel lehetséges:
+25/A. §[^140] (1) A beruházás helyének a támogatási kérelem benyújtási időszakot követő módosítása az alábbi feltételekkel lehetséges:
 
 a) bírósági vagy közigazgatási határozattal igazoltan, az ügyfélnek fel nem róható okból a beruházás a kérelemben megjelölt helyen nem megvalósítható, vagy nem folytatható;
 
@@ -10,4 +10,4 @@ c) az eredeti támogatási kérelem alapján elért pontszám legalább a megval
 
 (3) Mentesül az ügyfél az (1) bekezdés a) pontjában nevesített feltétel alól, ha a beruházását saját tulajdonú új megvalósítási helyen kívánja megvalósítani. A megvalósítási hely módosítására vonatkozó, ezen okra alapozott kérelmet az ügyfél legkésőbb az első kifizetési kérelem benyújtásáig terjesztheti elő. A beruházás megvalósítását az ügyfél kizárólag a saját felelősségére kezdheti meg az MVH által hozott, a megvalósítási hely módosítása iránti kérelemnek helyt adó határozat kézhezvételét megelőzően.
 
-[^139]: A 25/A. §-t a 97/2008. (VII. 25.) FVM rendelet 13. §-a iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 18. §-ával megállapított szöveg.
+[^140]: A 25/A. §-t a 97/2008. (VII. 25.) FVM rendelet 13. §-a iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 18. §-ával megállapított szöveg.

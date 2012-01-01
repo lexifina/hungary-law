@@ -1,3 +1,3 @@
-26. §[^140]
+26. §[^141]
 
-[^140]: A 26. §-t a 127/2007. (X. 29.) FVM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^141]: A 26. §-t a 127/2007. (X. 29.) FVM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
