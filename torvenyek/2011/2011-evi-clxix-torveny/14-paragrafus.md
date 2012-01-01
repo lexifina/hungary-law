@@ -2,13 +2,11 @@
 
 „(2) A Hivatal jelen törvény szerinti eljárásainak díjai megfizetésének módját és feltételeit, valamint a díjak mértékét és a díjképzés szabályait az Elnök rendeletben állapítja meg.”
 
-(2) Az Mktv. 36. §-a a következő (4)–(6) bekezdéssel egészül ki:
+(2) Az Mktv. 36. §-a a következő (4) és (5) bekezdéssel egészül ki:
 
-„(4) A Magyar Mozgókép Közalapítvány által odaítélt Mozgókép Mestere Díj jogosultjai a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2011. évi CLXIX. törvény (a továbbiakban: Módtv.) 9. §-ával megállapított 17/A. § hatálybalépésétől a „Nemzet Filmművésze” címre és az azzal járó életjáradékra – külön miniszteri javaslat és kormánydöntés nélkül – jogosultak. Amennyiben az így jogosultságot szerző személyek száma a 15 főt eléri a Módtv. 9. §-ával megállapított 17/A. § hatálybalépésekor, az (1) bekezdése szerinti 15 főre vonatkozó javaslattételi lehetőség nem alkalmazható – vagy ha az 1 főt eléri de a 15 főt nem éri el, akkor arányosan csökkentett számmal alkalmazható –, és további cím valamint életjáradék biztosítása a Nemzet Filmművészei létszáma 15 fő alá csökkenése esetén lehetséges.
+„(4) 2012. január 1-jével a Kulturális Örökségvédelmi Hivatal (a továbbiakban: KÖH) költségvetésén belül a mozgóképszakmai hatóság működését biztosító költségvetési előirányzatai (pénzügyi kerete), valamint a Nemzeti Filmiroda KÖH által 2007. január 1-jével átvett vagyona, tételes elszámolás keretében átadásra kerül az NMHH részére.
 
-(5) 2012. január 1-jével a Kulturális Örökségvédelmi Hivatal (a továbbiakban: KÖH) költségvetésén belül a mozgóképszakmai hatóság működését biztosító költségvetési előirányzatai (pénzügyi kerete), valamint a Nemzeti Filmiroda KÖH által 2007. január 1-vel átvett vagyona, tételes elszámolás keretében átadásra kerül az NMHH részére.
-
-(6) A mozgóképszakmai hatósági feladatok körében 2012. január 1. napjától az NMHH a KÖH jogutódja. 2012. január elsejét megelőzően a mozgóképszakmai feladatok ellátása során keletkezett minden iratot, elektronikusan tárolt adatot át kell adni az NMHH részére, amely azokat tárolja és kezeli.”
+(5) A mozgóképszakmai hatósági feladatok körében 2012. január 1-jétől az NMHH a KÖH jogutódja. 2012. január 1-jét megelőzően a mozgóképszakmai feladatok ellátása során keletkezett minden iratot, elektronikusan tárolt adatot át kell adni az NMHH részére, amely azokat tárolja és kezeli.”
 
 „(3) Az Mktv. 36. §-a a következő (7)–(9) bekezdéssel egészül ki:
 

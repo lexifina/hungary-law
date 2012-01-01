@@ -1,10 +1,6 @@
 15. § Az Mktv. 37. §-a helyébe a következő rendelkezés lép:
 
-„37. § (1) Felhatalmazást kap a Kormány, hogy
-
-a) rendeletben állapítsa meg a nemzeti filmvagyonba tartozó filmalkotások többcsatornás és hatékony terjesztésének szabályait, valamint a terjesztésből befolyt bevétel felosztásának módját,
-
-b) rendeletben állapítsa meg a Nemzet Filmművésze címre vonatkozó részletes szabályokat.
+„37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a nemzeti filmvagyonba tartozó filmalkotások többcsatornás és hatékony terjesztésének szabályait, valamint a terjesztésből befolyt bevétel felosztásának módját.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
