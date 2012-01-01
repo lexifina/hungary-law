@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2010-05-29 | 2010. évi XLIII. törvény | 1998-12-00-00.20 |
 | 2010-12-23 | 2010. évi CLVII. törvény | 1998-12-00-00.21 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1998-12-00-00.22 |
+| 2012-01-01 | 2011. évi CCI. törvény | 1998-12-00-00.23 |

@@ -8,4 +8,4 @@ a) annak a külföldön tartózkodó magyar állampolgárnak a hazatérése cél
 
 b) annak a külföldön tartózkodó magyar állampolgárnak, akire nézve a tartózkodási helye szerinti külföldi állam illetékes hatósága az ország területének elhagyását rendelte el, és nem rendelkezik érvényes útlevéllel vagy személyazonosító igazolvánnyal.
 
-(4) Az ideiglenes magánútlevél a Magyar Köztársaság területére történő egyszeri beutazásra jogosít.
+(4) Az ideiglenes magánútlevél Magyarország területére történő egyszeri beutazásra jogosít.

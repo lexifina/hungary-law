@@ -2,7 +2,7 @@
 
 ## Külföldre utazást korlátozó rendelkezések
 
-16. § (1) A 18. §-ban foglalt kivétellel nem utazhat külföldre,
+16. § (1) Nem utazhat külföldre,
 
 a)
 

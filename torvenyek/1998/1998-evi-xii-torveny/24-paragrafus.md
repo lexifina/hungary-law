@@ -2,7 +2,7 @@
 
 ## Adatkezelés és adatszolgáltatás
 
-24. § Az útlevél hatóság eljárása során, valamint a Kormány által kijelölt központi útiokmány-nyilvántartó szerv (a továbbiakban: központi adatkezelő szerv) az e törvényben meghatározott feladatai ellátásához a következő adatokat kezelheti:
+24. § Az útlevél hatóság eljárása során, valamint a központi adatkezelő szerv az e törvényben meghatározott feladatai ellátásához a következő adatokat kezelheti:
 
 a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja nevét, nemét, állampolgárságát, menekült vagy bevándorolt jogállását (a továbbiakban: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetőleg lakcímét,
 

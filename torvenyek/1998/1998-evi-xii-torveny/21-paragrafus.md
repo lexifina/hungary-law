@@ -1,5 +1,1 @@
-## IV. Fejezet
-
-## Az eljárás alapvető szabályai
-
-21. §
+21. § A 20. § (1) bekezdés b) pontjában meghatározott okból érvénytelenné vált hivatalos útlevelet az útlevélhatóság az útlevél visszavonását elrendelő határozatában elveszettnek nyilvánítja és erről a Kormány által kijelölt központi útiokmány-nyilvántartó szervet (a továbbiakban: központi adatkezelő szerv) haladéktalanul értesíti.

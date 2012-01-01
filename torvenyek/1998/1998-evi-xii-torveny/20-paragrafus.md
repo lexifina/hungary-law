@@ -2,7 +2,7 @@
 
 a) a személyazonosság megállapítására alkalmatlan, betelt, megrongálódott vagy meghamisították;
 
-b)
+b) az arra való jogosultság megszűnt;
 
 c) azt nem az arra jogosult használja fel;
 

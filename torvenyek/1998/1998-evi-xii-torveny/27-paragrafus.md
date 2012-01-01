@@ -2,6 +2,6 @@
 
 (2) A Rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
-(3) A központi adatkezelő szerv haladéktalanul a Schengeni Információs Rendszerbe továbbítja annak az útlevélnek az adatait, amelynek elvesztését, eltulajdonítását, megsemmisülését, illetve találását bejelentették, és ezt a tényt a központi útiokmány-nyilvántartásba bejegyezték.
+(3) A központi adatkezelő szerv haladéktalanul a Schengeni Információs Rendszerbe továbbítja annak az útlevélnek az adatait, amelynek elvesztését – ideértve a 21. § szerint elveszettnek nyilvánított hivatalos útlevelet is –, eltulajdonítását, megsemmisülését, illetve találását bejelentették és ezt a tényt a központi útiokmány-nyilvántartásba bejegyezték.
 
 (4) Az útlevél hatóság, illetőleg a központi adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja .

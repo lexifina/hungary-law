@@ -2,9 +2,9 @@
 
 a) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai ranggal nem rendelkező munkatársa;
 
-b) a Magyar Köztársaság diplomáciai képviseletének igazgatási és műszaki személyzete, illetőleg kisegítő személyzetének tagja;
+b) Magyarország diplomáciai képviseletének igazgatási és műszaki személyzete, illetőleg kisegítő személyzetének tagja;
 
-c) a Magyar Köztársaság konzuli képviselete konzuli alkalmazottja és kisegítő személyzetének tagja;
+c) Magyarország konzuli képviselete konzuli alkalmazottja és kisegítő személyzetének tagja;
 
 d) a nemzetközi jogon alapuló mentességet élvező más személy;
 
