@@ -1,0 +1,1 @@
+A Kormány a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 10. § (1) bekezdés b), d), e) és f) pontjában kapott felhatalmazás, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
