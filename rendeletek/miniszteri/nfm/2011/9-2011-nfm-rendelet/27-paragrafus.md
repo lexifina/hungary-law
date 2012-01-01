@@ -26,6 +26,6 @@ i) az Energia Központ Nonprofit Kft. által készített, az energetikával, ene
 
 j) az Energia Központ Nonprofit Kft. által az energiatakarékossággal és megújuló energiaforrásokkal kapcsolatos témakörökben szervezett kampányokat;
 
-k)[^5] a Környezetvédelmi Fejlesztési Igazgatóságtól átvett feladatok ellátása kapcsán felmerült költségeket, amelyek az európai uniós támogatási konstrukciók közreműködő szervezeti tevékenysége kapcsán a szolgáltatási szint szerződések (SLA) keretében nem kerülhetnek elszámolásra.
+k)[^7] a Környezetvédelmi Fejlesztési Igazgatóságtól átvett feladatok ellátása kapcsán felmerült költségeket, amelyek az európai uniós támogatási konstrukciók közreműködő szervezeti tevékenysége kapcsán a szolgáltatási szint szerződések (SLA) keretében nem kerülhetnek elszámolásra.
 
-[^5]: A 27. § (3) bekezdés k) pontját a 96/2011. (XII. 30.) NFM rendelet 1. § (3) bekezdése iktatta be.
+[^7]: A 27. § (3) bekezdés k) pontját a 96/2011. (XII. 30.) NFM rendelet 1. § (3) bekezdése iktatta be.

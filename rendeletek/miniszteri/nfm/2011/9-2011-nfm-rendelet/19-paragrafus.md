@@ -2,6 +2,8 @@
 
 ## 12. RO-LA gördülő országút
 
-19. § (1) Az előirányzat célja vissza nem térítendő üzemeltetési támogatás nyújtása a vasúti kombinált árufuvarozás versenyképességének javítása, a környezetkímélő szállítási módozatok elősegítése, a közúti árufuvarozás okozta környezeti károk csökkentése érdekében. A támogatási összeg a Magyar Köztársaság területén igénybe vett vasúti pályaszakaszra vonatkozóan, a magyarországi indítású vagy fogadású gördülő országúti (Ro-La) vonatok támogatására fordítható.
+19. § (1)[^5] Az előirányzat célja vissza nem térítendő üzemeltetési támogatás nyújtása a vasúti kombinált árufuvarozás versenyképességének javítása, a környezetkímélő szállítási módozatok elősegítése, a közúti árufuvarozás okozta környezeti károk csökkentése érdekében. A támogatási összeg Magyarország területén igénybe vett vasúti pályaszakaszra vonatkozóan, a magyarországi indítású vagy fogadású gördülő országúti (Ro-La) vonatok támogatására fordítható.
 
 (2) A támogatás lebonyolítására a miniszter a MÁV Zrt.-vel (ezen alcím alkalmazásában a továbbiakban: támogatáskezelő) szerződést köt.
+
+[^5]: A 19. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 74. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 16/A.[^6] Beruházás ösztönzési célelőirányzat
+## 16/A.[^8] Beruházás ösztönzési célelőirányzat
 
-31/A. §[^7] (1) Az előirányzat célja a Kormány egyedi döntésével nyújtott beruházási támogatások forrásának biztosítása, összhangban a Kormány egyedi döntésével megítélhető támogatások nyújtásának szabályairól szóló 8/2007. (I. 24.) GKM rendeletben meghatározottakkal.
+31/A. §[^9] (1) Az előirányzat célja a Kormány egyedi döntésével nyújtott beruházási támogatások forrásának biztosítása, összhangban a Kormány egyedi döntésével megítélhető támogatások nyújtásának szabályairól szóló 8/2007. (I. 24.) GKM rendeletben meghatározottakkal.
 
 (2) A Beruházás ösztönzési célelőirányzat (a továbbiakban: BC) terhére nyújtott támogatások tekintetében a támogatási rendszer lebonyolításának operatív feladatait mint közreműködő szervezet a MAG – Magyar Gazdaságfejlesztési Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: MAG Zrt.) és a Nemzeti Külgazdasági Hivatal (a továbbiakban: HITA) látja el kizárólagos joggal a (3)–(4) bekezdésben foglaltak szerint.
 
@@ -18,5 +18,5 @@ e) ellátja a számviteli feladatokat, vezeti a követelésállomány nyilvánta
 
 (4) A HITA a Kormány egyedi döntése alapján támogatásban részesülő beruházásokhoz kapcsolódóan programkezelési feladatokat végez. Ennek keretében ellátja a döntés-előkészítői, a szerződések megkötésével összefüggő nyilvántartási és előrejelzési feladatokat, a folyamatlezárási és követeléskezelési tevékenységet, a beruházások ellenőrzési (monitoring) feladatait, valamint végzi a szerződésekkel összefüggő adatkezelési, adatfeldolgozási és adatszolgáltatási feladatokat.
 
-[^6]: A 31/A. §-t megelőző 16/A. alcímet a 96/2011. (XII. 30.) NFM rendelet 1. § (4) bekezdése iktatta be.
-[^7]: A 31/A. §-t a 96/2011. (XII. 30.) NFM rendelet 1. § (4) bekezdése iktatta be.
+[^8]: A 31/A. §-t megelőző 16/A. alcímet a 96/2011. (XII. 30.) NFM rendelet 1. § (4) bekezdése iktatta be.
+[^9]: A 31/A. §-t a 96/2011. (XII. 30.) NFM rendelet 1. § (4) bekezdése iktatta be.

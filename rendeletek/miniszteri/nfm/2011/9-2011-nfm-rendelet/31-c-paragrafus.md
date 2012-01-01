@@ -1,6 +1,6 @@
-## 16/C.[^10] Kormányzati szakpolitikai feladatok
+## 16/C.[^12] Kormányzati szakpolitikai feladatok
 
-31/C. §[^11] (1) Az előirányzat célja, hogy forrást biztosítson a kormányzati döntés-előkészítést megalapozó tanulmánykészítési, valamint kommunikációs stratégiai tanácsadási feladatok elvégzése tárgyú közbeszerzési eljárás eredményeképpen, a vonatkozó szerződések, továbbá médiafigyelési, médiaelemzési, média-hatásvizsgálati szolgáltatás nyújtása tárgyában kötendő szerződés megkötéséhez. Az előirányzat fedezetet nyújt a 2011. évben a kormányzati döntés-előkészítés és kommunikációs stratégiai feladat ellátásába bevont minisztériumokkal és azok irányítása vagy felügyelete alá tartozó költségvetési szervekkel a feladattal összefüggésben megállapodások megkötéséhez.
+31/C. §[^13] (1) Az előirányzat célja, hogy forrást biztosítson a kormányzati döntés-előkészítést megalapozó tanulmánykészítési, valamint kommunikációs stratégiai tanácsadási feladatok elvégzése tárgyú közbeszerzési eljárás eredményeképpen, a vonatkozó szerződések, továbbá médiafigyelési, médiaelemzési, média-hatásvizsgálati szolgáltatás nyújtása tárgyában kötendő szerződés megkötéséhez. Az előirányzat fedezetet nyújt a 2011. évben a kormányzati döntés-előkészítés és kommunikációs stratégiai feladat ellátásába bevont minisztériumokkal és azok irányítása vagy felügyelete alá tartozó költségvetési szervekkel a feladattal összefüggésben megállapodások megkötéséhez.
 
 (2) A minisztérium az előirányzat terhére megvalósuló feladatok körében a szakmai tartalom vonatkozásában feladatot, vagy annak módosítására utasítást kizárólag a Miniszterelnökség előzetes szakmai javaslata és egyetértése esetén adhat, továbbá a teljesítés igazolása is csak a Miniszterelnökség előzetes szakmai jóváhagyását követően történhet meg.
 
@@ -14,5 +14,5 @@ c) célszerűtlen, szakszerűtlen teljesítés esetén a visszautasítási jog g
 
 d) a teljesítés igazolás kibocsátásával összefüggő határidők, felelősségi körök, hatáskörök meghatározása.
 
-[^10]: A 31/C. §-t megelőző 16/C. alcímet a 96/2011. (XII. 30.) NFM rendelet 1. § (6) bekezdése iktatta be.
-[^11]: A 31/C. §-t a 96/2011. (XII. 30.) NFM rendelet 1. § (6) bekezdése iktatta be.
+[^12]: A 31/C. §-t megelőző 16/C. alcímet a 96/2011. (XII. 30.) NFM rendelet 1. § (6) bekezdése iktatta be.
+[^13]: A 31/C. §-t a 96/2011. (XII. 30.) NFM rendelet 1. § (6) bekezdése iktatta be.
