@@ -1,0 +1,1 @@
+## 10. § Az egyes elismerések adományozására jogosultak köréről, az elismerésben részesítés feltételeiről és rendjéről szóló 21/1997. (III. 19.) BM rendelet 9. § (1) bekezdésében, valamint a 17. § (1) bekezdésében „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

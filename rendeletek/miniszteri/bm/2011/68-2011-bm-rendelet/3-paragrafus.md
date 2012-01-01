@@ -1,0 +1,1 @@
+## 2. § A Szolgálati Jel, Bátorság Érdemjel kitüntető cím és a Miniszteri Díj alapításáról szóló 6/1992. (V. 5.) BM rendelet 2. számú mellékletének 1. pontjában „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

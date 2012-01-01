@@ -1,0 +1,1 @@
+## 13. § Az atomenergia alkalmazásával összefüggő rendőrségi feladatokról szóló 47/1997. (VIII. 26.) BM rendelet VI. fejezetének címében, a 8. § (1) bekezdésében és a 9. § a) pont 4. alpontjában „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

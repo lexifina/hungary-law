@@ -1,0 +1,1 @@
+## 14. § A határterületen a vadászat, határvízen a közlekedés, a halászat és a horgászat rendjéről szóló 56/1997. (X. 21.) BM-FM együttes rendelet 1. §-ában „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,0 +1,1 @@
+## 28. § Az Európai Közösségi jog hatálya alá tartozó, feltétel nélkül elismerésre kerülő okleveles építészmérnöki oklevelek megnevezéséről és az ezen okiratok birtokosaival azonos jogállású személyek köréről szóló 1/2008. (I. 11.) ÖTM rendelet 1. § (2) bekezdés b) pontjában „a Magyar Köztársaságban” szövegrész helyébe a „Magyarországon” szöveg lép.

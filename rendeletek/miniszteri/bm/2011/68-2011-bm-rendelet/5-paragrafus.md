@@ -1,0 +1,1 @@
+## 4. § A polgári nemzetbiztonsági szolgálatok gépjárműveinek üzemben tartásával és használatával kapcsolatos egyes szabályokról szóló 1/1993. (II. 9.) TNM rendelet Melléklete 2. pontjában „A MAGYAR KÖZTÁRSASÁG” szövegrész helyébe a „MAGYARORSZÁG” szöveg lép.
