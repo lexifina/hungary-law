@@ -12,23 +12,25 @@ b) három és minden további eltartott esetén 206 250 forint.
 
 a) az a magánszemély, aki a családok támogatásáról szóló törvény szerint gyermekre tekintettel családi pótlékra jogosult, kivéve azt a magánszemélyt, aki a családi pótlékot
 
-aa) vagyonkezelői joggal felruházott gyámként,
+aa) gyermekotthon vezetőjeként a gyermekotthonban nevelt gyermekre (személyre) tekintettel,
 
-ab) vagyonkezelő eseti gondnokként a gyermekotthonban, a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő, gyermekvédelmi gondoskodás alatt álló gyermekre (személyre) tekintettel kapja, ac) szociális intézmény vezetőjeként, az intézményben elhelyezett gyermekre (személyre) tekintettel
+ab) szociális intézmény vezetőjeként a szociális intézményben elhelyezett gyermekre (személyre) tekintettel,
+
+ac) javítóintézet igazgatójaként, illetve büntetés-végrehajtási intézet parancsnokaként a javítóintézetben nevelt vagy büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló gyermekre (személyre) tekintettel
 
 kapja;
 
-b) a várandós nő és vele közös háztartásban élő házastársa;
+b) a várandós nő és a vele közös háztartásban élő házastársa;
 
 c) a családi pótlékra saját jogán jogosult gyermek (személy);
 
 d) a rokkantsági járadékban részesülő magánszemély
 
-a c)–d) pont szerinti esetben azzal, hogy az ott említett jogosult és a vele közös háztartásban élő magánszemélyek közül egy – a döntésük szerinti – minősül jogosultnak.
+a c)–d) pont szerinti esetben azzal, hogy az ott említett jogosult és a vele közös háztartásban élő hozzátartozói közül egy – a döntésük szerinti – minősül jogosultnak.
 
 (4) Kedvezményezett eltartott
 
-a) az, akire tekintettel a családok támogatásáról szóló törvény szerint családi pótlékot folyósítanak,
+a) az, akire tekintettel a magánszemély a családok támogatásáról szóló törvény szerint családi pótlékra jogosult,
 
 b) a magzat a várandósság időszakában (fogantatásának 91. napjától megszületéséig),
 
@@ -40,11 +42,11 @@ d) a rokkantsági járadékban részesülő magánszemély.
 
 a) a kedvezményezett eltartott,
 
-b) az, akit a családok támogatásáról szóló törvény szerint a családi pótlék összegének megállapítása szempontjából figyelembe vesznek.
+b) az, aki a családok támogatásáról szóló törvény szerint a családi pótlék összegének megállapítása szempontjából figyelembe vehető.
 
 (6) E § alkalmazásában jogosultsági hónap az a hónap,
 
-a) amelyre tekintettel a családi pótlékot juttatják,
+a) amelyre tekintettel a családi pótlékra való jogosultság fennáll,
 
 b) amelyre tekintettel a rokkantsági járadékot folyósítják,
 

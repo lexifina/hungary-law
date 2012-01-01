@@ -40,6 +40,8 @@ vagy
 
 (3) Ha a megszerzésre fordított összeg a (2) bekezdés rendelkezései szerint nem állapítható meg, akkor a bevételt annak 75 százalékával kell csökkenteni. E szabály alkalmazása esetén más kiadás költségként nem vonható le a bevételből.
 
+(3a) Ha az ingatlan értékesítése – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – gazdasági tevékenység [3. § 46. pont] keretében történik, az (1)–(3) bekezdés rendelkezései szerint megállapított jövedelem önálló tevékenységből származó jövedelemnek minősül.
+
 (4) Az ingatlan átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(2) bekezdés rendelkezései szerint kiszámított összeg (e § alkalmazásában: számított összeg). Ezt követően a jövedelmet úgy kell megállapítani, hogy a számított összeget csökkenteni kell, ha az átruházás – a megszerzés évét követő évet első évnek tekintve –,
 
 a) a hatodik évben történik, a számított összeg 10 százalékával,

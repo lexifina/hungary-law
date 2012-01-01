@@ -8,7 +8,7 @@ b) azt a vagyoni értéket, amelynek a megszerzése alapjául szolgáló jogvisz
 
 c) azt a kapott vagyoni értéket, amelyet az adóalany köteles visszaszolgáltatni (így különösen a kapott kölcsönt, hitelt), továbbá a magánszemély által korábban átadott vagyoni értéket a magánszemély (halála esetén örököse) részére nem ellenértékként (ellenszolgáltatásként) történő visszaszolgáltatásakor (ideértve különösen a nyújtott kölcsön, hitel visszafizetett összegét, de ide nem értve a nyújtott kölcsönre, hitelre kapott kamatot); a kapott vagyoni érték ingyenes vagy kedvezményes használata révén a magánszemély által megszerzett vagyoni érték (igénybe vett szolgáltatás) azonban – hacsak e törvény egyéb rendelkezéséből más nem következik – a magánszemély olyan bevételének minősül, amelyet a jövedelem meghatározásánál figyelembe kell venni;
 
-d) a magánszemély által fizetett tagdíja, hozzájárulása, felajánlása ellenében a vállalkozási tevékenységet nem folytató társadalmi szervezet, köztestület által a magánszemély részére nyújtott szolgáltatást, ha a beszedő szervezet nem jogosult adóalap-csökkentésre vagy adókedvezményre jogosító igazolás kiadására;
+d) a magánszemély által fizetett tagdíjra, hozzájárulásra, felajánlásra tekintettel a vállalkozási tevékenységet nem folytató egyesület, köztestület által a magánszemély részére nyújtott szolgáltatást, amennyiben azt a társadalmi szervezet, a köztestület az alapszabálya alapján, a cél szerinti tevékenységével összefüggésben, a rendeltetésszerű joggyakorlás keretében nyújtja;
 
 e) a visszatérített adót, adóelőleget, feltéve, hogy azt korábban költségként nem érvényesítették, továbbá a magánszemély jogszerűen tett önkéntes kölcsönös pénztári nyilatkozata alapján kiutalt, illetőleg az önkéntes kölcsönös biztosító pénztár által a magánszemély egyéni számláján jóváírt kiutalt összeget; valamint a magánszemély nyugdíj-előtakarékossági nyilatkozata alapján kiutalt, a nyugdíj-előtakarékossági számláján jóváírt összeget;
 
@@ -46,7 +46,7 @@ kb) a magánnyugdíjpénztár a kedvezményezett részére nem nyugdíjszolgált
 
 l) a pedagógus szakvizsgára történő felkészülésben vagy továbbképzésben való részvételi díjának és költségének (utazás, szállás, étkezés, könyv, könyvtári beiratkozás és használat díja) munkáltató által történő megtérítését, kifizetését, amennyiben annak forrása a központi költségvetés által biztosított hozzájárulás, valamint a pedagógusnak szakkönyv vásárlására jogszabály alapján adott összeg;
 
-m) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól a Magyar Köztársaságban mentesített azon jövedelmet, amelyet egyébként az összevont adólapba kellene beszámítani;
+m) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól Magyarországon mentesített azon jövedelmet, amelyet egyébként az összevont adólapba kellene beszámítani;
 
 n) a jogszabály alapján, nyilvánosan meghirdetett pályázat útján költségvetési, önkormányzati forrásból
 
@@ -56,7 +56,7 @@ nb) magánszemély részére lakóépületnek az adott jogszabályban meghatáro
 
 juttatott támogatást;
 
-o)
+o) a kifizető által a tevékenységében közreműködő magánszemélytől átvállalt kamarai tagdíj összegét, feltéve, hogy a tevékenység kizárólag szakmai kamara tagjaként folytatható;
 
 p)
 
@@ -70,7 +70,7 @@ t) a termőföldről szóló törvényben meghatározott mezőgazdasági termel�
 
 u) a szomszédos államokban élő magyarokról szóló törvény alapján a hatálya alá tartozó személyt a művelődés, a kultúra, a tudomány területén ingyenesen megillető alapszolgáltatást és külön jogszabályban meghatározott további kedvezményt, az említett személyt külön jogszabály szerint megillető utazási kedvezményt és a diákigazolványához kapcsolódó kedvezményt, valamint a törvény alapján a határon túli magyar pedagógust megillető kedvezményt, továbbá a törvény hatálya alá tartozó személy részére a törvény rendelkezései szerint a határon túli kihelyezett képzés vagy a szülőföldön nyújtható oktatási támogatás keretében juttatott vagyoni értéket;
 
-v) a jogszabály vagy nemzetközi szerződés rendelkezése alapján a cél szerinti felhasználás igazolásával egyidejűleg, vagy azt követően a költségek fedezetére vagy fejlesztési célra folyósított támogatást (ideértve azt a támogatást is, amelyet a magánszemély jogszabály vagy nemzetközi szerződés alapján az önálló tevékenységének megkezdésével összefüggésben, a megkezdést megelőzően, továbbá gazdasági társaságba történő belépésével, gazdasági társaság alapításával összefüggésben felmerült költségei fedezetére kap), feltéve, hogy a cél szerinti felhasználás révén teljesített kiadás alapján a magánszemély költséget (ideértve az értékcsökkenési leírást is) egyáltalán nem számolt el;
+v) a jogszabály vagy nemzetközi szerződés rendelkezése alapján a cél szerinti felhasználás igazolásával egyidejűleg, vagy azt követően a költségek fedezetére vagy fejlesztési célra folyósított támogatást (ideértve azt a támogatást is, amelyet a magánszemély jogszabály vagy nemzetközi szerződés alapján az önálló tevékenységének megkezdésével összefüggésben, a megkezdést megelőzően, továbbá gazdasági társaságba történő belépésével, gazdasági társaság alapításával összefüggésben felmerült költségei fedezetére kap, azzal, hogy amennyiben a támogatás összegét a magánszemély gazdasági társaság alapítására fordítja, az a rész nem minősül bevételnek, amelyet ténylegesen is a gazdasági társaság rendelkezésére bocsát), feltéve, hogy a cél szerinti felhasználás révén teljesített kiadás alapján a magánszemély költséget (ideértve az értékcsökkenési leírást is) egyáltalán nem számolt el;
 
 w) a kifizető által kedvezményesen juttatott termék, szolgáltatás szokásos piaci értékéből a magánszemély által meg nem fizetett azon részt, amely nem haladja meg a termék szolgáltatás független féltől történő megszerzésekor a kifizető által elért (elérhető) árengedmény összegét;
 

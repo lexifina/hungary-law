@@ -36,7 +36,7 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 9. a mezőgazdasági őstermelő által a tevékenységével kapcsolatban felvett pénzintézeti hitelre (kölcsönre) kifizetett kamat;
 
-10. az állami költségvetésbe, központi alapokba, a helyi önkormányzatoknak fizetett, kizárólag az adott önálló tevékenységhez kapcsolódó adó (ide nem értve a személyi jövedelemadót), illeték, hatósági díj, vám, vámkezelési díj, perköltség, kötbér, késedelmi kamat, önellenőrzési pótlék;
+10. a központi költségvetésbe, a helyi önkormányzatoknak fizetett, kizárólag az adott önálló tevékenységhez kapcsolódó adó (ide nem értve a személyi jövedelemadót), illeték, hatósági díj, vám, vámkezelési díj, perköltség, kötbér, késedelmi kamat, önellenőrzési pótlék;
 
 11. az adózás rendjéről szóló törvény szerinti telephely bérleti díja, a fűtés, a világítás és a technológiai energia költsége, a telefon, rádiótelefon, telefax, cb-rádió, telex használati díja azzal, hogy ha a lakás és a telephely műszakilag nem elkülönített, akkor a tevékenységgel arányosan lehet a kiadásokat figyelembe venni az adott költségre jellemző mértékegységek (nap, m2, m3 stb.) alapulvételével (a közüzemi számlák esetében a házastárs nevére szóló számla alapján is);
 
@@ -50,7 +50,7 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 16. a tevékenységhez jogszabály vagy nemzetközi szerződés rendelkezése alapján kapott támogatás jogszerű felhasználásával teljesített kiadás alapján meghatározott költség, akkor is, ha a kiadás részben a magánszemély személyes vagy családi szükségletét szolgálja (ha azonban a támogatás csak részben nyújt fedezetet a kiadásra, akkor e rendelkezés alapján a kiadásnak csak a támogatásból fedezett része alapján számolható el költség);
 
-17. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, továbbá a külföldi kiküldetés esetén igazolás nélkül elismert költség elszámolására jogosító tevékenység esetében a 3. számú melléklet II. Igazolás nélkül elszámolható költségek fejezetének 7. pontja szerint elszámolható költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
+17. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, továbbá a 3. számú melléklet II. Igazolás nélkül elszámolható költségek fejezetének 7. pontja szerint elszámolható költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
 
 18. az alkalmazottat foglalkoztató, önálló tevékenységet folytató magánszemély – a mezőgazdasági őstermelő kivételével – az alkalmazott miatt a 17. pont rendelkezései szerint nem számolhat el költséget;
 
@@ -92,7 +92,11 @@ Az e törvényben elismert költségek esetében, ha törvény vagy kormányrend
 
 6. a kifizető által a magánszemélynek a saját személygépkocsi használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett km-távolság szerint az üzemanyag-fogyasztási norma és legfeljebb az állami adóhatóság által közzétett üzemanyagár, valamint 9 Ft/km általános személygépkocsi normaköltség alapulvételével kifizetett összeg;
 
-7. a külföldi kiküldetéshez (külszolgálat) kapcsolódó elismert költségekről szóló kormányrendelet szerint naponta elszámolható összeg a nemzetközi közúti árufuvarozásban és személyszállításban gépkocsivezetőként és árukísérőként foglalkoztatott (a közúti közlekedési szolgáltatásokról és közúti járművek üzemben tartásáról szóló külön jogszabály, illetőleg más, erről szóló jogszabályok rendelkezései szerint engedélyhez kötött nemzetközi közúti közlekedési szolgáltatást végző, illetőleg abban árukísérőként közreműködő), külföldi kiküldetés (külszolgálat) címén bevételt szerző magánszemélynél – kizárólag az e tevékenysége tekintetében – feltéve, hogy az említett kormányrendeletben foglaltak alapján kizárólag a gépjármű külföldön történő üzemeltetéséhez közvetlenül kapcsolódó és számlával, más bizonylattal igazolt költségek elszámolására jogosult, és ezt az elszámolási módszert alkalmazza;
+7. külföldi kiküldetés esetén
+
+a) a külföldi kiküldetéshez kapcsolódó elismert költségekről szóló kormányrendelet szerint naponta elszámolható összeg a nemzetközi közúti árufuvarozásban és személyszállításban gépkocsivezetőként és árukísérőként foglalkoztatott (a közúti közlekedési szolgáltatásokról és közúti járművek üzemben tartásáról szóló külön jogszabály, illetőleg más, erről szóló jogszabályok rendelkezései szerint engedélyhez kötött nemzetközi közúti közlekedési szolgáltatást végző, illetőleg abban árukísérőként közreműködő), külföldi kiküldetés (külszolgálat) címén bevételt szerző magánszemélynél – kizárólag az e tevékenysége tekintetében – feltéve, hogy az említett kormányrendeletben foglaltak alapján kizárólag a gépjármű külföldön történő üzemeltetéséhez közvetlenül kapcsolódó és számlával, más bizonylattal igazolt költségek elszámolására jogosult, és ezt az elszámolási módszert alkalmazza;
+
+b) az a) pontban nem említett esetben a külföldi kiküldetésre tekintettel megszerzett bevétel 30 százaléka, de legfeljebb a külföldi kiküldetéshez kapcsolódó elismert költségekről szóló kormányrendelet szerint naponta elszámolható összeg;
 
 8. a járművezető gyakorlati szakoktatók saját jármű üzemeltetésének költségtérítéséről szóló kormányrendelet szerint figyelembe vehető költségátalány.
 

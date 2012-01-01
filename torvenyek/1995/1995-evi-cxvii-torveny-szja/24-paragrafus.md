@@ -4,7 +4,7 @@
 
 a) a munkaviszonyban folytatott tevékenység,
 
-b)
+b) a közfoglalkoztatási jogviszonyban végzett tevékenység,
 
 c) a társas vállalkozás magánszemély tagjának személyes közreműködése,
 

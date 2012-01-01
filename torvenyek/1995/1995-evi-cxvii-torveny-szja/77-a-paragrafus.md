@@ -60,7 +60,7 @@ b) a magánszemély a kedvezményezett részesedéscsere révén megszerzett ös
 
 a) kedvezményezett részesedéscsere: az a jogügylet, amelynek alapján egy társaság (a megszerző társaság) részesedést szerez egy másik társaság (a megszerzett társaság) jegyzett tőkéjében annak ellenében, hogy a jegyzett tőkéjét képviselő értékpapír(oka)t bocsát ki, és az(oka)t, valamint – szükség esetén – legfeljebb az átadott összes értékpapír együttes névértékének (névérték hiányában arányos könyv szerinti értékének) a 10 százalékát meg nem haladó pénzeszközt ad a megszerzett társaság tagja(i)nak, részvényese(i)nek, feltéve, hogy a megszerző társaság a jogügylet révén megszerzi a szavazati jogok többségét vagy, ha a jogügylet előtt a szavazati jogok többségével már rendelkezett, azt tovább növeli a megszerzett társaságban;
 
-b) társaság: a gazdasági társaság, az egyesülés, a szövetkezet, továbbá a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamának adóra vonatkozó jogszabályai szerint ott belföldi illetőséggel bíró olyan társaság, amely
+b) társaság: a gazdasági társaság, az egyesülés, a szövetkezet, továbbá a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamának adóra vonatkozó jogszabályai szerint ott belföldi illetőséggel bíró olyan társaság, amely
 
 ba) az Európai Unión kívüli állammal a jövedelem- és vagyonadók tárgyában kötött nemzetközi szerződés szerint nem bír belföldi illetőséggel az Európai Unión kívüli államban, valamint
 

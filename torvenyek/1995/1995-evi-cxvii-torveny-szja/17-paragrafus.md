@@ -19,3 +19,5 @@ vagy
 b) az önálló tevékenység bevételének 10 százaléka (10 százalék költséghányad).
 
 (4) A 16. § (1) bekezdése, valamint e § (3) bekezdése rendelkezésétől eltérően a magánszemély termőföld-bérbeadásból származó bevételének – ha az nem adómentes – egésze külön adózó jövedelem, amelynek bevallására és a jövedelmet terhelő adó megfizetésére vonatkozó szabályokat az adózás rendjéről szóló törvény határozza meg.
+
+(5) Lakás bérbeadása esetén a bérbeadó magánszemély a bérbeadásból származó bevételéből levonhatja a más településen általa bérbevett lakás ugyanazon évben igazoltan megfizetett bérleti díját, feltéve, hogy a bérbeadás, illetve a bérbevétel időtartama a 90 napot meghaladja és a bérbevett lakással összefüggésben a magánszemély más tevékenységéből származó bevételével szemben költséget nem számol el, vagy az igazoltan megfizetett bérleti díjat számára még részben sem térítették meg.

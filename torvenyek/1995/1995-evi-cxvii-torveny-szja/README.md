@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2011-11-30 | 2011. évi CLVI. törvény | 1995-117-00-00.95 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1995-117-00-00.96 |
 | 2011-12-29 | 2011. évi CXCIII. törvény | 1995-117-00-00.97 |
+| 2012-01-01 | 2011. évi CLVI. törvény | 1995-117-00-00.98 |

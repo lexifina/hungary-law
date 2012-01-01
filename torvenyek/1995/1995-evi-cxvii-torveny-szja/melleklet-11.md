@@ -54,7 +54,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 10. a vállalkozási tevékenységgel kapcsolatban felvett pénzintézeti hitelre (kölcsönre) kifizetett kamat, kivéve azt a kamatot, amely a tárgyi eszköz beszerzési árának részét képezi;
 
-11. az állami költségvetésbe, központi alapokba, a helyi önkormányzatoknak az adóévben megfizetett, kizárólag a tevékenységhez kapcsolódó adó, illeték, hatósági díj, vám, vámkezelési díj, perköltség, kötbér, késedelmi kamat, önellenőrzési pótlék, kivéve, ha a tárgyi eszköz beszerzési árának részét képezi;
+11. a központi költségvetésbe, a helyi önkormányzatoknak az adóévben megfizetett, kizárólag a tevékenységhez kapcsolódó adó, illeték, hatósági díj, vám, vámkezelési díj, perköltség, kötbér, késedelmi kamat, önellenőrzési pótlék, kivéve, ha a tárgyi eszköz beszerzési árának részét képezi;
 
 12. az üzlet, a műhely, a gazdasági épület, az iroda bérleti díja, a fűtés, a világítás és a technológiai energia költsége, a telefon, rádiótelefon, telefax, cb-rádió, telex (ha a lakás és a telephely műszakilag nem elkülönített, akkor a tevékenységgel arányosan lehet e kiadásokat figyelembe venni az adott költségre jellemző mértékegységek – például nap, m2, m3 – alapulvételével), továbbá az internet használat díja (ha a lakás és a telephely műszakilag nem elkülönített, az internet használati díjának 50 százaléka) azzal, hogy kizárólag a közüzemi számlák esetében a házastárs nevére szóló számla is elfogadható;
 
@@ -70,7 +70,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 18. az egyéni vállalkozói tevékenységhez jogszabály vagy nemzetközi szerződés rendelkezése alapján kapott támogatás jogszerű felhasználásával teljesített kiadás alapján meghatározott költség, akkor is, ha a kiadás részben a magánszemély személyes vagy családi szükségletét szolgálja (ha azonban a támogatás csak részben nyújt fedezetet a kiadásra, akkor e rendelkezés alapján a kiadásnak csak a támogatásból fedezett része alapján számolható el költség);
 
-19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, továbbá a külföldi kiküldetés esetén igazolás nélkül elismert költség elszámolására jogosító tevékenység esetében a 3. számú melléklet II. Igazolás nélkül elszámolható költségek fejezetének 7. pontja szerint elszámolható költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
+19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, továbbá az erről szóló kormányrendelet szerint naponta számított igazolás nélkül elismert költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
 
 20. ha az egyéni vállalkozó alkalmazottat foglalkoztat, akkor annak hivatali üzleti utazására is a 19. pont rendelkezései szerint kell eljárni;
 
@@ -609,15 +609,3 @@ c) Nem anyagi javak esetében, ha azok nem kizárólag üzemi célt szolgálnak 
 5. Nem számolható el értékcsökkenési leírás azon tárgyi eszközök, nem anyagi javak után, amelyeknek beszerzési költségét a magánszemély korábban egy összegben, vagy értékcsökkenési leírásként bármilyen formában elszámolta, valamint a lízing útján beszerzett eszköz után.
 
 6. Elszámoltnak kell tekinteni az értékcsökkenési leírást azokra a naptári évekre, amelyekben a magánszemély a tárgyi eszközt (kivéve a személygépkocsit), nem anyagi javakat a jövedelemszerző tevékenységéhez használta és személyi jövedelemadó-kötelezettségének jogszabályban vélelmezett jövedelemhányad (a bevételnek a jogszabályban meghatározott aránya) szerint tett eleget, vagy értékcsökkenés ellentételezése címén bevételt kapott, vagy adómentes árbevétele volt.
-
-7. Az egyéni vállalkozó – az 1–5. pontban foglaltaktól függetlenül – az egyéni vállalkozói tevékenységéhez jogszabály vagy nemzetközi szerződés rendelkezése alapján kapott támogatás felhasználásával megszerzett (előállított) tárgyi eszköz, nem anyagi jószág beszerzési (előállítási) árának azt a részét, amely egyenlő a megszerzéséhez (előállításához) felhasznált támogatás összegével, az eszköz üzembe helyezésének (rendeltetésszerű használatba vételének) – az üzembe helyezés elmaradása esetén kiselejtezésének, elidegenítésének vagy a nyilvántartásból bármely más ok miatt történő kivezetésének – időpontjában értékcsökkenési leírásként számolja el. A nem kizárólag üzemi célt szolgáló tárgyi eszköz, nem anyagi jószág esetén ezen túlmenően nincs lehetőség értékcsökkenési leírás elszámolására.
-
-III. A járművek költsége
-
-1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett kizárólag üzemi célú jármű (ideértve a továbbiakban a házastárs tulajdonát képező, illetve a házastárs által zárt végű lízingbe vett járművet is) (e rendelkezés alkalmazásában a személygépkocsi-bérbeadó vagy személyszállító tevékenységet folytató egyéni vállalkozónál a tevékenység tárgyát, illetve eszközét képező személygépkocsi is, ha az egyéni vállalkozó azt más célra részben sem használja, és üzleti nyilvántartásai ezt egyértelműen alátámasztják) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint a II. fejezetben foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
-
-a) az üzemanyag-fogyasztási norma és az állami adóhatóság által közzétett üzemanyagár,
-
-b) a számlával (számlákkal) igazolt üzemanyag-vásárlás vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség,
-
-azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév első napján választott üzemanyag-felhasználással összefüggő költségelszámolási módszertől – ideértve a választott üzemanyag-fogyasztási normát is – nem térhet el. Nem alkalmazható az a) pont rendelkezése, ha az egyéni vállalkozó az Áfa törvény szabályai szerint az üzemanyag általános forgalmi adóját levonásba helyezi.

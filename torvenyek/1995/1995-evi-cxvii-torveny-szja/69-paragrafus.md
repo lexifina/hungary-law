@@ -18,13 +18,9 @@ b) természetes vagy tenyésztett gyöngy, drágakő, féldrágakő, nemesfém, 
 
 (5) Az adót a kifizetőnek – eltérő rendelkezés hiányában –
 
-a) a juttatás hónapja kötelezettségeként
+a) a juttatás hónapja kötelezettségeként,
 
-b) a 70. § (2) bekezdés a) és b) pontja szerint adókötelezettség alá eső érték után
-
-ba) a bb) pontban nem említett esetben az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően az elszámolt éves összes bevétel megállapítása hónapjának kötelezettségeként,
-
-bb) az egyéni vállalkozónak és a beszámoló készítésére nem kötelezett juttatónak az adóév utolsó hónapjának kötelezettségeként,
+b) a 70. § (2a) bekezdése szerint adókötelezettség alá eső érték után az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően az elszámolt éves összes bevétel megállapítása hónapjának kötelezettségeként,
 
 a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania, illetve megfizetnie.
 

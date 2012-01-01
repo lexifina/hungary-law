@@ -6,7 +6,7 @@
 
 58. § (1) Az ingó vagyontárgy átruházásából származó jövedelmet azon a napon kell megszerzettnek tekinteni, amikor az erről szóló szerződés kelt. Szerződés hiányában a jövedelem megszerzésének időpontjára az általános szabályokat kell alkalmazni.
 
-(2) Ingó vagyontárgy átruházásából származó bevétel minden olyan bevétel, amelyet a magánszemély az átruházásra tekintettel megszerez. Ilyennek minősül különösen az eladási ár, a cserében kapott dolognak a jövedelemszerzés időpontjára megállapított szokásos piaci értéke, valamint az ingó vagyontárgy gazdasági társaság vagy más cég részére nem pénzbeli hozzájárulásként (nem pénzbeli betétként) történő szolgáltatása esetén a vagyontárgynak a társasági szerződésben, más hasonló okiratban meghatározott értéke.
+(2) Ingó vagyontárgy átruházásából származó bevétel minden olyan bevétel – ide nem értve, ha a bevételt a magánszemély egyéni vállalkozóként szerzi meg, valamint ha a (10) bekezdés rendelkezését kell alkalmazni –, amelyet a magánszemély az átruházásra tekintettel megszerez. Ilyennek minősül különösen az eladási ár, a cserében kapott dolognak a jövedelemszerzés időpontjára megállapított szokásos piaci értéke, valamint az ingó vagyontárgy gazdasági társaság vagy más cég részére nem pénzbeli hozzájárulásként (nem pénzbeli betétként) történő szolgáltatása esetén a vagyontárgynak a társasági szerződésben, más hasonló okiratban meghatározott értéke.
 
 (3) Az ingó vagyontárgy átruházásából származó jövedelmet úgy kell megállapítani, hogy a bevételből le kell vonni az átruházó magánszemélyt terhelő következő igazolt költségeket (kivéve azokat, amelyeket valamely tevékenységéből származó bevételével szemben költségként már elszámolt):
 
@@ -24,6 +24,10 @@ c) az átruházással kapcsolatos kiadásokat.
 
 (7) Nem kell megfizetni az ingó vagyontárgyak átruházásából az év során együttesen származó jövedelem adójának a 32 ezer forintot meg nem haladó részét.
 
-(8) Nem alkalmazhatók az (1)–(7) bekezdés rendelkezései akkor, ha az ingó vagyontárgy átruházása üzletszerűen történik. Ekkor – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – az önálló tevékenységből származó jövedelemre vonatkozó szabályokat kell alkalmazni. E rendelkezés alkalmazásában üzletszerű az átruházás, ha ellenérték fejében történik, és az ügylettel kapcsolatban a magánszemélynek az általános forgalmi adó szabályszerűen bejelentkezett alanyaként adólevonási joga megnyílik.
+(8) Ha az ingó vagyontárgy átruházása – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – gazdasági tevékenység [3. § 46. pont] keretében történik, az (1)–(5) bekezdés rendelkezései szerint megállapított jövedelem önálló tevékenységből származó jövedelemnek minősül.
 
-(9) Nem alkalmazhatók az (1)–(7) bekezdés rendelkezései az ingó vagyontárgy átruházásából származó bevételnek arra a részére, amely meghaladja az ingó vagyontárgynak a szerződéskötés időpontjában ismert szokásos piaci értékét.
+(9) Az (1)–(8) bekezdésben foglalt rendelkezésektől függetlenül nem kell a jövedelmet megállapítani az ingó vagyontárgyak átruházására tekintettel megszerzett bevételből – ide nem értve, ha a bevételt a magánszemély egyéni vállalkozóként szerzi meg –, ha a bevétel az adóév elejétől összesítve nem haladja meg a 600 ezer forintot.
+
+(10) A magánszemély kifizetőtől – nem egyéni vállalkozóként – fémkereskedelmi engedélyköteles anyag (fémhulladék) átruházására tekintettel szerzett bevételéből 25 százalék számít jövedelemnek. Az adót a kifizetéskor a kifizető állapítja meg és vonja le, továbbá a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre – a magánszemélyhez nem köthető kötelezettségként – vallja be és fizeti meg. E jövedelemmel összefüggésben a kifizetőt, illetve a magánszemélyt egyéb, közteherrel összefüggő kötelezettség nem terheli.
+
+(11) Ha az ingó vagyontárgy átruházásából származó jövedelmet az (1)–(5) bekezdés rendelkezései szerint kell megállapítani, a bevételnek az ingó vagyontárgy szerződéskötés időpontjában ismert szokásos piaci értékét meghaladó részére a 28. § (14) bekezdés rendelkezését kell alkalmazni.

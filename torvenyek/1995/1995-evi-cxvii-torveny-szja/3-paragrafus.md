@@ -4,13 +4,13 @@
 
 3. § E törvény alkalmazásában az egyes fogalmak jelentése a következő:
 
-1. Belföld: a Magyar Köztársaság területe, beleértve a vámszabadterületet is.
+1. Belföld: Magyarország területe, beleértve a vámszabadterületet is.
 
 2. Belföldi illetőségű magánszemély:
 
 a) a magyar állampolgár (kivéve, ha egyidejűleg más államnak is állampolgára, és belföldön nem rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott lakóhellyel vagy tartózkodási hellyel);
 
-b) az a természetes személy, aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és a három hónapot meghaladó tartózkodáshoz való jogát az adott naptári évben – a ki- és beutazás napját is egész napnak tekintve – legalább 183 napig a Magyar Köztársaság területén gyakorolja;
+b) az a természetes személy, aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és a három hónapot meghaladó tartózkodáshoz való jogát az adott naptári évben – a ki- és beutazás napját is egész napnak tekintve – legalább 183 napig Magyarország területén gyakorolja;
 
 c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó letelepedett jogállású, illetve hontalan személy; továbbá
 
@@ -64,7 +64,7 @@ n) a társasági adóról és az osztalékadóról szóló törvény szerinti in
 
 o) az a)–n) alpontokban nem említett esetben a magánszemély illetősége szerinti állam.
 
-5. Alacsony adókulcsú állam: az az állam, amelyben törvény nem ír elő a társasági adónak megfelelő adókötelezettséget vagy az előírt adómérték legfeljebb 10 százalék, kivéve, ha az állammal a Magyar Köztársaság egyezményt kötött a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
+5. Alacsony adókulcsú állam: az az állam, amelyben törvény nem ír elő a társasági adónak megfelelő adókötelezettséget vagy az előírt adómérték legfeljebb 10 százalék, kivéve, ha az állammal Magyarország egyezményt kötött a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
 6. Adóév: az az időszak, amelyre vonatkozóan az adó alapját meg kell állapítani; ez a naptári év, az e törvényben meghatározott kivételekkel.
 
@@ -92,13 +92,13 @@ azzal, hogy szokásos haszon az a haszon, amelyet összehasonlítható tevékeny
 
 11. Kiküldetés (kirendelés): a munkáltató által elrendelt, a munkaszerződésben rögzített munkahelytől eltérő helyen történő munkavégzés, ideértve a fegyveres szervek hivatásos állományú tagjának, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonájának szolgálati érdekből történő áthelyezését, átvezénylését is.
 
-12. Külföldi kiküldetés: a belföldi illetőségű magánszemélynek a jövedelme megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében a Magyar Köztársaság területén kívüli (a továbbiakban: külföld) tartózkodása, továbbá az előzőekkel kapcsolatos külföldre történő utazás, ideértve különösen a külszolgálatot és az azzal összefüggő utazást.
+12. Külföldi kiküldetés: a belföldi illetőségű magánszemélynek a jövedelme megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében Magyarország területén kívüli (a továbbiakban: külföld) tartózkodása, továbbá az előzőekkel kapcsolatos külföldre történő utazás, ideértve különösen a külszolgálatot és az azzal összefüggő utazást.
 
 13. Külszolgálat: a munkáltató által elrendelt, külföldön történő munkavégzés.
 
 14. Munkáltató: az, akivel (amellyel) a magánszemély munkaviszonyban áll, illetve munkaerő-kölcsönzés esetén – a munkavállaló kölcsönbeadójával kötött megállapodás alapján – a kölcsönzött munkavállaló részére közvetlenül juttatott bevétel tekintetében a munkavállaló kölcsönvevője. Munkaerő-kölcsönzés esetén a bevételnek nem számító juttatásra, valamint a béren kívüli juttatásra [71. §] az e törvényben megállapított rendelkezéseket a kölcsönbeadó és a kölcsönvevő ilyen juttatásának együttes összegére vonatkozóan kell irányadónak tekinteni.
 
-15. Társadalombiztosítási ellátás: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény, a kötelező egészségbiztosításról szóló törvény, a társadalombiztosítási nyugellátásról szóló törvény, valamint a családok támogatásáról szóló törvény alapján folyósított ellátás.
+15. Társadalombiztosítási ellátás: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény, a kötelező egészségbiztosításról szóló törvény, a társadalombiztosítási nyugellátásról szóló törvény, a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény, valamint a családok támogatásáról szóló törvény alapján folyósított ellátás.
 
 16. Költségtérítés: az a bevétel (kivéve, ha a jövedelem kiszámításánál nem kell figyelembe venni), amelyet e törvény által költségnek elismert kiadás megtérítésére kizárólag az adott bevételszerző tevékenység folytatása érdekében vagy hivatali, üzleti utazással (ideértve a kiküldetést, a külföldi kiküldetést, a külszolgálatot) összefüggésben kap a magánszemély. Nem tartozik ezen kiadások körébe a magánszemély személyes vagy családi szükségletét részben vagy egészben közvetlenül kielégítő dolog, szolgáltatás megszerzését szolgáló kiadás, kivéve, ha e törvény olyan költségtérítést állapít meg, vagy olyan, jogszabályban meghatározott költségtérítést ismer el, amellyel szemben a kiadást nem kell igazolni.
 
@@ -126,7 +126,7 @@ g)
 
 h)
 
-18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, nem egyéni vállalkozó magánszemély, aki a saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet folytat, és ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve a mezőgazdasági és vidékfejlesztési támogatási szerv által vezetett ügyfél-nyilvántartási rendszerben nyilvántartott mezőgazdasági termelő magánszemélyt, valamint a termőföldről szóló törvény szerint családi gazdálkodónak minősülő magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében.
+18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, nem egyéni vállalkozó magánszemély, aki a saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet folytat, és ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve a termőföldről szóló törvény szerint családi gazdálkodónak minősülő magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében.
 
 a) Saját gazdaság alatt a termelést ténylegesen végző magánszemély rendelkezési jogosultságát kell érteni az eszközei (ideértve a bérelt eszközöket is), a termelés szervezése és – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása esetének kivételével – a termelés eredményének felhasználása felett.
 
@@ -154,7 +154,7 @@ a) a munkaviszonyból, közfoglalkoztatási jogviszonyból származó jövedelem
 
 b) az adóköteles társadalombiztosítási ellátás;
 
-c) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján folyósított adóköteles ellátás (kivéve az adóterhet nem viselő járandóságnak minősülő ellátást);
+c) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján folyósított adóköteles ellátás;
 
 d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított álláskeresési járadék, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás;
 
@@ -166,9 +166,9 @@ f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (kereset
 
 23. Nyugdíj:
 
-a) a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátások és hozzátartozói nyugellátások, valamint a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított nyugdíj előtti munkanélküli-segély (előnyugdíj), álláskeresési segély, ha annak megállapítására a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a rehabilitációs járadékról szóló törvényben meghatározott rehabilitációs járadék, továbbá a korengedményes nyugdíjazásról szóló kormányrendelet alapján megállapított korengedményes nyugdíj;
+a) a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátások és hozzátartozói nyugellátások, a rehabilitációs járadékról szóló törvényben meghatározott rehabilitációs járadék, továbbá a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított nyugdíj előtti munkanélküli-segély, álláskeresési segély, ha annak megállapítására a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor;
 
-b) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvényben meghatározott szolgálati nyugdíj, rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, özvegyi nyugdíj, szülői nyugdíj és baleseti hozzátartozói nyugellátások;
+b) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvényben meghatározott korhatár előtti ellátás és szolgálati járandóság;
 
 c) a magánnyugdíjpénztár által nyújtott nyugdíjszolgáltatás (ideértve a magánnyugdíjpénztár járadékszolgáltatására jogosult magánszemélyt megillető, biztosítóintézettől vásárolt járadékszolgáltatást is);
 
@@ -178,9 +178,9 @@ e) az egyes nyugdíjak felülvizsgálatáról, illetőleg egyes nyugdíjkiegész
 
 f) a társadalombiztosítási nyugellátásról szóló törvény hatálybalépése előtt hatályos jogszabály alapján megállapított saját jogú és hozzátartozói nyugellátások (így különösen a társadalombiztosításról szóló törvényben és a végrehajtásáról rendelkező kormányrendeletben meghatározott, mezőgazdasági szövetkezeti tagságon alapuló öregségi, munkaképtelenségi és özvegyi járadék, valamint a szakszövetkezeti tagságon alapuló növelt összegű öregségi, munkaképtelenségi és özvegyi járadék);
 
-g) a Kiváló és Érdemes Művészeket, valamint a Népművészet Mestereit és özvegyüket megillető, törvényben meghatározott járadék (nyugdíj-kiegészítés), valamint a Magyar Alkotóművészeti Közalapítvány által folyósított saját jogú és hozzátartozói nyugellátás és nyugdíjsegély, továbbá az egyes művészeti tevékenységeket folytatók öregségi nyugdíjra jogosultságáról szóló kormányrendelet szerint folyósított öregségi nyugdíj;
+g) a Kiváló és Érdemes Művészeket, valamint a Népművészet Mestereit és özvegyüket megillető, törvényben meghatározott járadék (nyugdíj-kiegészítés), az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott balettművészeti életjáradék, valamint a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátás;
 
-h) a bányásznyugdíjról szóló kormányrendelet alapján folyósított bányásznyugdíj, továbbá a nyugdíjas bányászok szénjárandóságának pénzbeli megváltásáról szóló kormányrendelet alapján folyósított pénzbeli szénjárandóság, valamint az e kormányrendelet szerint a pénzbeli szénjárandóságra jogosult magánszemély – a jogosult elhalálozása esetén a kormányrendeletben meghatározott közeli hozzátartozója – számára a jogosult volt munkáltatója, vagy a munkáltató jogutódja által folyósított pénzbeli szénjárandóságnak a kormányrendeletben meghatározott mértéket meg nem haladó része;
+h) a bányászatról szóló törvényben meghatározott átmeneti bányászjáradék, a nyugdíjas bányászok szénjárandóságának pénzbeli megváltásáról szóló kormányrendelet alapján folyósított pénzbeli szénjárandóság, valamint ugyanezen kormányrendelet szerint a pénzbeli szénjárandóságra jogosult magánszemély – a jogosult elhalálozása esetén a kormányrendeletben meghatározott közeli hozzátartozója – számára a jogosult volt munkáltatója, vagy a munkáltató jogutódja által folyósított pénzbeli szénjárandóságnak a kormányrendeletben meghatározott mértéket meg nem haladó része;
 
 i) a nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló kormányrendeletben meghatározott pótlék;
 
@@ -188,7 +188,7 @@ j) az egyház belső szabályai szerint létrehozott és működtetett nyugdíja
 
 k) a sportról szóló törvényben meghatározott olimpiai járadék, valamint az említett törvény alapján a „Nemzet Sportolója” címmel járó életjáradék;
 
-l) a megváltozott munkaképességű dolgozók foglalkoztatásáról és szociális ellátásáról szóló miniszteri rendeletben meghatározott átmeneti járadék, rendszeres szociális járadék, valamint a bányász dolgozók egészségkárosodási járadéka;
+l) a megváltozott munkaképességű személyek ellátásai, valamint a bányászok egészségkárosodási járadéka;
 
 m) a jövedelem- és vagyonadók területén a kettős adóztatás elkerülése tárgyában kötött egyezményben nyugdíjként meghatározott bevétel, valamint – egyezmény hiányában is – az ennek megfelelő, külföldi szervezet által folyósított bevétel;
 
@@ -196,11 +196,11 @@ n)
 
 24. Kamat: e törvény eltérő rendelkezése hiányában az adós által a kölcsönnyújtónak (betételhelyezőnek) vagy az igénybe vett kölcsön (elfogadott betét) használatáért, kockázatáért időarányosan fizetett (juttatott), a magánszemélyt terhelő, illetőleg megillető pénzösszeg és/vagy egyéb hozadék (ideértve a nyereménybetét esetében juttatott nyereményt is).
 
-25. Helyi önkormányzat: a helyi önkormányzatokról szóló törvény által meghatározott önkormányzat, ideértve a helyi kisebbségi önkormányzatot is.
+25. Helyi önkormányzat: a helyi önkormányzatokról szóló törvény által meghatározott önkormányzat, ideértve a helyi nemzetiségi önkormányzatot is.
 
 26. Reprezentáció: a juttató tevékenységével összefüggő üzleti, hivatali, szakmai, diplomáciai vagy hitéleti rendezvény, esemény keretében, továbbá az állami, egyházi ünnepek alkalmával nyújtott vendéglátás (étel, ital) és a rendezvényhez, eseményhez kapcsolódó szolgáltatás (utazás, szállás, szabadidőprogram stb.) azzal, hogy az előzőek nem minősülnek reprezentációnak, ha a juttatásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási hely és idő, a tényleges szakmai, illetve hitéleti program és a szabadidőprogram aránya stb.) valós tartalma alapján a rendeltetésszerű joggyakorlás sérelme akár közvetve is megállapítható.
 
-27. Üzleti ajándék: a juttató tevékenységével összefüggő üzleti, hivatali, szakmai, diplomáciai vagy hitéleti kapcsolatok keretében adott, a minimálbér 25 százalékának megfelelő egyedi értéket meg nem haladó ajándék (ingyenesen vagy kedvezményesen adott termék, nyújtott szolgáltatás, valamint a kizárólag erre szóló utalvány).
+27. Üzleti ajándék: a juttató tevékenységével összefüggő üzleti, hivatali, szakmai, diplomáciai vagy hitéleti kapcsolatok keretében adott ajándék (ingyenesen vagy kedvezményesen adott termék, nyújtott szolgáltatás, valamint a kizárólag erre szóló utalvány).
 
 28. Egységes területalapú támogatás: az Európai Mezőgazdasági Garancia Alapból (EMGA) finanszírozott területalapú támogatás és annak nemzeti támogatásból történő kiegészítése azzal, hogy e törvény alkalmazásában ez a támogatás nem tekinthető költségek fedezetére vagy fejlesztési célra folyósított támogatásnak.
 
@@ -226,11 +226,11 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 36. Szociálisan rászoruló: az a magánszemély, akinek (eltartottainak) létfenntartása oly mértékben veszélyeztetett, hogy azt – vagyoni viszonyára is tekintettel – csak külső segítséggel képes biztosítani.
 
-37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a Vám- és Pénzügyőrség, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
+37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
 
-38. Egyenruha: a Magyar Honvédség és a rendvédelmi szervezetek tagjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
+38. Egyenruha: a Magyar Honvédség és a rendvédelmi szervezetek tagjának, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
 
-39. Egyház: az a vallási közösség, amelyet a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló törvény ilyenként meghatároz.
+39. Egyház: az a vallási közösség, amelyet a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény ilyenként meghatároz.
 
 40. Egyházi személy az, akit az egyház belső törvényeiben és szabályzataiban annak minősít.
 
@@ -248,11 +248,11 @@ c) a b) pontban említett ellátásra való jogosultságát már kimerítette, d
 
 azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjából azt az időtartamot, amely alatt a munkanélküli terhességi-gyermekágyi segélyben, gyermekgondozási segélyben részesül, továbbá az előzetes letartóztatás, szabadságvesztés, elzárás büntetés időtartamát, valamint a tartalékos katonai szolgálatban, a polgári szolgálatban töltött időt (a szolgálat megkezdése és befejezése közötti időtartamot) figyelmen kívül kell hagyni.
 
-44. Azonos munkakör: a 9006/1996. (SK.12.) KSH közleménnyel kiadott, 1997. január 1-jén hatályos Foglalkozások Egységes Osztályozási Rendszere szerint azonosnak minősülő munkakör.
+44. Azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (FEOR-08) szerint azonosnak minősülő munkakör.
 
 45. Személygépkocsi: négy, illetve három gumiabroncskerékkel felszerelt olyan gépjármű, amely a vezetővel együtt legfeljebb nyolc felnőtt személy szállítására alkalmas, azzal, hogy ide tartozik a benzinüzemű, a dízelüzemű, az elektromos üzemű, a gázüzemű személygépkocsi, a versenyautó, az önjáró lakóautó. Személygépkocsinak minősül továbbá az a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű, olyan gépjármű (nagy rakodóterű személygépkocsi), amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén a felhasználás szerinti terhek szállítására bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor.
 
-46.
+46. Gazdasági tevékenység: valamely tevékenység üzletszerű, illetőleg tartós vagy rendszeres jelleggel történő folytatása, amennyiben az ellenérték elérésére irányul, vagy azt eredményezi, és annak végzése független formában történik.
 
 47. Lízingnek minősül a tárgyi eszköz használatba adása 1997. január 1-je előtt kötött olyan szerződés alapján, amely annak határozott időre szóló, de 365 napot meghaladó bérletéről azzal a kikötéssel rendelkezik, hogy a bérlő a tulajdonjogot legkésőbb az utolsó bérleti díj kiegyenlítésével, illetőleg a szerződés lejártával megszerzi vagy számára a bérbeadó vételi jogot biztosít.
 
@@ -286,17 +286,19 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 a) a tulajdonában (üzemeltetésében) lévő járművel, vagy
 
-b) különjárat formájában kifizetőtől igénybe vett személyszállítási szolgáltatás útján.
+b) kifizetőtől igénybe vett személyszállítási szolgáltatás útján
+
+azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csoportos személyszállításnak minősülhet, ha a munkavállalók munkarendje vagy a munkahely földrajzi elhelyezkedése miatt a munkába járás, illetve a hazautazás közösségi közlekedési eszköz igénybevételével nem valósítható meg.
 
 64. Biztosító szolgáltatása: a biztosítási esemény bekövetkezése miatt a biztosítót a biztosítási szerződés alapján terhelő kötelezettség keretében a biztosító által juttatott vagyoni érték.
 
 65. Szociális gondozói díj: az a költségtérítést nem tartalmazó bevétel, amelyet a személyes gondoskodásról szóló jogszabályi rendelkezések alapján, illetőleg azoknak megfelelően nem munkaviszony keretében folytatott tevékenységért és nem munkaviszony keretében folytatott lelki segélyszolgálatért kap a magánszemély.
 
-66. Alapkutatás: olyan kísérleti és elméleti munka, amelynek elsődleges célja új ismeretek szerzése a jelenségek alapvető lényegéről és a megfigyelhető tényekről, bármiféle konkrét alkalmazási és felhasználási célkitűzés nélkül.
+66. Alapkutatás: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény (a továbbiakban: Innovációs tv.) 4. § 1. pont a) alpontjában meghatározott alapkutatás.
 
-67. Alkalmazott kutatás: új ismeretek megszerzésére irányuló eredeti vizsgálat, amelyet elsődlegesen valamely konkrét gyakorlati cél érdekében végeznek.
+67. Alkalmazott kutatás: az Innovációs tv. 4. § 1. pont b) alpontjában meghatározott alkalmazott kutatás.
 
-68. Kísérleti fejlesztés: olyan kutatásból és a gyakorlati tapasztalatokból nyert, már létező tudásra támaszkodó rendszeres munka, amelynek célja új anyagok, termékek és szerkezetek létrehozása, új eljárások, rendszerek és szolgáltatások bevezetése vagy a már létrehozottak vagy bevezetettek lényeges javítása.
+68. Kísérleti fejlesztés: az Innovációs tv. 4. § 1. pont c) alpontjában meghatározott kísérleti fejlesztés.
 
 69. Független felek: azok a személyek (természetes személyek, jogi személyek, egyéb szervezetek), amelyek (akik) között nem áll fenn olyan szoros gazdasági, jogi kapcsolat, amelynek révén legalább az egyik fél meghatározó befolyást képes gyakorolni a másik fél gazdasági döntéseire, vagy amelynek révén a felek egymással szoros együttműködésben folytatják tevékenységüket (nem tekinthetők független feleknek különösen az egymással munkaviszonyban, tartós megbízási jogviszonyban álló személyek, továbbá a társas vállalkozás és a benne akár közvetlenül, akár közvetve – a közeli hozzátartozókat megillető jogokat együttesen számítva – többségi irányítást biztosító befolyással rendelkező magánszemély).
 
@@ -316,7 +318,7 @@ a) be kell számítani
 
 aa) a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozónál a vállalkozói osztalékalapot is,
 
-ab) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól a Magyar Köztársaságban mentesített azon jövedelmet, amelyet az összevont adólapba nem kell beszámítani,
+ab) a törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján az adó alól Magyarországon mentesített azon jövedelmet, amelyet az összevont adólapba nem kell beszámítani,
 
 ac) az egyszerűsített közteherviselési hozzájárulás alapjául figyelembe vett bevételt,
 
@@ -352,6 +354,6 @@ bc) az osztalékelőleget azzal, hogy az osztalékelőleg osztalékká váló r�
 
 86.
 
-87. Üdülési csekk: a Magyar Nemzeti Üdülési Alapítvány által kibocsátott névre szóló, kizárólag belföldi üdülési, művelődési, pihenési, kikapcsolódási, egészség-megőrzési, betegségmegelőzési, szabadidősport szolgáltatásra beváltható utalvány azzal, hogy a kibocsátó az igénybe vehető szolgáltatások körét az alapítói jogokat gyakorló miniszter és az adópolitikáért felelős miniszter előzetes egyetértésével határozza meg.
+87. Erzsébet-utalvány: a Magyar Nemzeti Üdülési Alapítvány által papír alapon vagy elektronikus formában kibocsátott, fogyasztásra kész étel vásárlására felhasználható utalvány.
 
 88. Iskolarendszeren kívüli képzés: olyan képzés, amelynek résztvevői nem állnak a képző intézménnyel tanulói vagy hallgatói jogviszonyban.

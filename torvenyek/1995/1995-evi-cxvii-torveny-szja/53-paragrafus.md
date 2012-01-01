@@ -26,120 +26,56 @@ akkor, ha az egyéni vállalkozó a társadalombiztosítás ellátásaira és a 
 
 (3) Az (1) bekezdés b) pontjában említett tevékenységek a következők:
 
-a) ipari és mezőgazdasági termékelőállítás, építőipari kivitelezés;
+a) mezőgazdasági, erdőgazdálkodási (TESZOR 01, 02), bányászati (TESZOR 05-től 09-ig) és feldolgozóipari (TESZOR 10-től 32-ig) termék-előállítás, építőipari kivitelezés (TESZOR 41.20, 42);
 
-b) növénytermelési, állattenyésztési, vadgazdálkodási és erdőgazdálkodási szolgáltatás (SZJ 01.4, 01.5, 02.02),
+b) mezőgazdasági, betakarítást követő szolgáltatás (TESZOR 01.6), vadgazdálkodáshoz kapcsolódó szolgáltatás (TESZOR 01.70.10), erdészeti szolgáltatás (TESZOR 02.40.10) és zöldterület-kezelés (TESZOR 81.30.10);
 
-kivéve:
+c) halászati szolgáltatás (TESZOR 03.00.71), halgazdálkodási szolgáltatás (TESZOR 03.00.72);
 
-– valamennyi bérmunkában végzett szolgáltatás;
-
-c) halászati szolgáltatás (SZJ 05.01.1), haltenyésztési szolgáltatás (SZJ 05.02.1),
+d) feldolgozóipari szolgáltatás (TESZOR 10-től 32-ig),
 
 kivéve:
 
-– halászati bérmunka (SZJ 05.01.10.1),
+– valamennyi bérmunkában végzett szolgáltatás,
 
-– haltenyésztési bérmunka (SZJ 05.02.10.1);
+– egyéb sokszorosítás (TESZOR 18.20);
 
-d) feldolgozóipari szolgáltatás (SZJ 15–37),
+e) építőipari szolgáltatás (TESZOR 43);
 
-kivéve:
+f) ipari gép, berendezés, eszköz javítása (TESZOR 33.1), gépjárműjavítás (TESZOR 45.20), személyi, háztartási cikk javítása (TESZOR 95.2), épületgépészeti berendezések javítása (TESZOR 43.21, 43.22, 43.29);
 
-– valamennyi bérmunkában végzett szolgáltatás, termékelőállítás,
+g) a taxis személyszállítás (TESZOR 49.32.11) személygépjármű kölcsönzése vezetővel (TESZOR 49.32.12), egyéb máshová nem sorolt szárazföldi személyszállítás (TESZOR 49.39.39), közúti áruszállítás (TESZOR 49.41.1);
 
-– kiadói tevékenység (SZJ 22.1),
+h) számítógép, kommunikációs eszköz javítása (TESZOR 95.1);
 
-– egyéb sokszorosítás (SZJ 22.3);
+i) fényképészet (TESZOR 74.20);
 
-e) építőipari szolgáltatás (SZJ 45);
+j) textil, szőrme mosása, tisztítása (TESZOR 96.01), fodrászat, szépségápolás (TESZOR 96.02), hobbiállat-gondozás (TESZOR 96.09.11);
 
-f) gépjárműjavítás (SZJ 50.20), fogyasztási cikk javítása (SZJ 52.7), bútorjavítás és restaurálás (SZJ 36.1-ből), hangszer javítása, karbantartása (SZJ 36.30.92), háztartási forróvíztároló javítása (SZJ 45.33.11-ből), professzionális sportberendezés javítása (SZJ 36.40.92-ből);
+k) a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység (TESZOR 56), kiskereskedelmi tevékenység [TEÁOR 47, kivéve a (4) bekezdésben felsorolt üzleteket].
 
-g) a taxiszolgáltatás (SZJ 60.22.11), közúti teherszállítás (SZJ 60.24);
+(4) Az (1) bekezdés d) pontjában említett üzletek a következők:
 
-h) irodagép-, számítógép-javítás (SZJ 72.50);
+a) élelmiszer jellegű bolti vegyes kiskereskedelem (TEÁOR 47.11);
 
-i) fényképészet (SZJ 74.81);
+b) iparcikk jellegű bolti vegyes kiskereskedelem (TEÁOR 47.19);
 
-j) mosás, tisztítás (SZJ 93.01.1), fodrászat, szépségápolás (SZJ 93.02), állatkozmetika (SZJ 93.05.11);
+c) zöldség, gyümölcs kiskereskedelme (TEÁOR 47.21);
 
-k) a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység, kiskereskedelmi tevékenység.
+d) hús, húsáru kiskereskedelme (TEÁOR 47.22);
 
-(4)
+e) hal kiskereskedelme (TEÁOR 47.23);
 
-Az (1) bekezdés d) pontjában említett üzletek a következők:
+f) kenyér-, pékáru-kiskereskedelem (TEÁOR 47.24-ből);
 
-|
+g) egyéb élelmiszer-kiskereskedelemből a gyógytea és étrend-kiegészítő termékek kiskereskedelme (TEÁOR 47.29-ből);
 
-|
+h) vasáru-, festék-, üveg-kiskereskedelem (TEÁOR 47.52);
 
-üzletköri jelzőszám
+i) gyógyszer-kiskereskedelemből a vitaminok kiskereskedelme (TEÁOR 47.73-ból);
 
-|
-
-a) élelmiszer jellegű vegyes kiskeres-
-
-kedelem
-
-|
-
-1111–1112.
-
-|
-
-b) zöldség- és gyümölcsüzlet
-
-|
-
-1210.
-
-|
-
-c) hús, húsáruüzlet
-
-|
-
-1220.
-
-|
-
-d) halüzlet
-
-|
-
-1230.
-
-|
-
-e) kenyér- és pékáruüzlet
-
-|
-
-1240.
-
-|
-
-f) közérzetjavító és étrend-kiegészítő termékek szaküzlete
-
-|
-
-1290.
-
-|
-
-g) festékek, lakkok, vasáru, barkács és építési anyagok üzlete
-
-|
-
-1363.
-
-|
-
-h) egyéb iparcikk-üzlet
-
-|
-
-1750.
+j) gyógyászati termékek kiskereskedelme (TEÁOR 47.74).
 
 (5) Abban az esetben, ha az egyéni vállalkozó tevékenysége év közben oly módon változik, hogy a korábban alkalmazott költséghányad már nem illeti meg, a változás időpontjában az év első napjára visszamenőlegesen át kell térnie a tevékenységének megfelelő alacsonyabb költséghányad alkalmazására. Amely adóévben az egyéni vállalkozó az adóév egy részében kiegészítő tevékenységet folytatónak is minősül, az adóévi összes bevételére az (1) bekezdés rendelkezését kell alkalmaznia.
+
+(6) Ha az adóévre átalányadózást választó egyéni vállalkozó elhunyt és a tevékenységét folytató özvegye vagy örököse, vagy egyesített tevékenység esetén az özvegye vagy az örököse ugyancsak átalányadózást választott, akkor az elhunyt esetében az elhalálozás napjáig elért bevétel alapján átalányban megállapított jövedelmet – az időarányos bevételi értékhatár figyelmen kívül hagyásával – az elhunyt által megszerzett jövedelemnek kell tekinteni azzal, hogy az elhunyt által elért bevétel beleszámít az özvegy vagy az örökös esetében az átalányadó alkalmazásának feltételéül megjelölt bevételi értékhatárba.

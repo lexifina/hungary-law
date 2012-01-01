@@ -36,9 +36,9 @@ feltéve, hogy
 
 3. az adójáról rendelkező önkéntes kölcsönös pénztári nyilatkozatot, valamint nyugdíj-előtakarékossági nyilatkozatot nem ad, és
 
-4. az adót, adóelőleget a kifizető hiánytalanul levonta, és
+4. az adót, adóelőleget a kifizető hiánytalanul levonta
 
-5. az összes jövedelme az adóévben az adójóváírás jogosultsági határát nem haladta meg, vagy adójóváírást nem érvényesített, nem érvényesít.
+5.
 
 (5) Ha a (2)–(3) bekezdésben foglalt, a kifizető ismeretében megállapítható feltételek fennállnak,
 

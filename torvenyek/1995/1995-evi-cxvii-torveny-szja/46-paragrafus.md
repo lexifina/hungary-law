@@ -14,13 +14,17 @@ c) a nyugdíj-előtakarékossági számla terhére teljesített nem-nyugdíj szo
 
 d) az önkéntes kölcsönös biztosítópénztár által a magánszemély egyéni számláján jóváírt adóköteles összeget, ha az egyéb jövedelemnek minősül,
 
-e) a jövedelemszerzés helye szerint olyan államból származó jövedelmet, amellyel nincs a Magyar Köztársaságnak a kettős adóztatás elkerüléséről szóló egyezménye
+e) a jövedelemszerzés helye szerint olyan államból származó jövedelmet, amellyel nincs Magyarországnak a kettős adóztatás elkerüléséről szóló egyezménye
 
 azzal, hogy az a)–e) pontokban említett jövedelmek adóját a magánszemély az adóbevallásban állapítja meg és az adóbevallás benyújtására nyitva álló határidőig fizeti meg.
 
 (3) Ha az a bevétel, amelyből az összevont adóalapba tartozó jövedelmet kell megállapítani, kifizetőtől származik – a (4) bekezdésben foglaltak figyelembevételével – az adóelőleget a kifizető állapítja meg (a továbbiakban: adóelőleg-megállapításra kötelezett kifizető).
 
-(4) A kifizetőnek nem kell adóelőleget megállapítania a számlaadásra kötelezett magánszemély által számlázott, valamint a felvásárlási jegy alapján kifizetett bevételből. Azonban ha a nem egyéni vállalkozóként, nem mezőgazdasági őstermelőként számlaadásra kötelezett magánszemély nyilatkozatot ad arról, hogy kéri az adóelőleg levonását, a kifizetőnek a (3) bekezdés szerint kell eljárnia.
+(4) A kifizetőnek nem kell adóelőleget megállapítania
+
+a) az őstermelői tevékenységből származó bevételből, ha a magánszemély legkésőbb a kifizetéskor (a juttatáskor) bemutatja az adóévre hitelesített értékesítési betétlapját, illetve ha családi gazdálkodó (gazdálkodó családtagja), az e jogállását igazoló okiratát; a kifizető az ilyen kifizetéseket is feltünteti a kötelezettséget eredményező kifizetésekről, juttatásokról az adózás rendjéről szóló törvényben meghatározott formában és előírt határidőre teljesítendő bevallásában;
+
+b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről kiállított bizonylatán feltünteti az egyéni vállalkozói jogállását bizonyító közokirat számát.
 
 (5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett családi kedvezményt, adóalap-kiegészítést, valamint az érvényesített adójóváírást és az érvényesített adókedvezményt, továbbá az adóévi összesített igazoláson a 11/A. § (5) bekezdésében említett esetben a rendelkezésben előírt tájékoztatást is megadja.
 

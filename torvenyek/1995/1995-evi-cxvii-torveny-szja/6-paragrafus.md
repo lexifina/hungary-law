@@ -14,7 +14,7 @@ f) a külföldi pénznemben megfizetett adó esetében – a magánszemély dön
 
 érvényes árfolyamot kell alkalmazni.
 
-(2) A külföldi pénznemben megszerzett kamatjövedelemből az adót ugyanazon külföldi pénznemben kell megállapítani, levonni és a kamatjövedelem megszerzésének időpontjában érvényes árfolyamon átszámítva, forintban kell megfizetni.
+(2) A külföldi pénznemben megszerzett kamatjövedelemből, osztalékból (osztalékelőlegből) az adót ugyanazon külföldi pénznemben kell megállapítani, levonni és a jövedelem megszerzésének időpontjában érvényes árfolyamon átszámítva, forintban kell megfizetni.
 
 (3) Az (1) bekezdés és az 5. § (7) bekezdésének rendelkezésétől eltérően, ha a magánszemély a bevételt külföldi pénznemben szerezte, vagy ha a kiadást külföldi pénznemben fizette ki, és
 
@@ -22,10 +22,10 @@ a) az (1) bekezdés a)–c) pontjaiban említett esetekben rendelkezik az ott me
 
 b) a külföldi pénz eladása/vétele az (1) bekezdés d)–e) pontjai szerinti ügyletben történt, a forintra történő átszámításra az ügyletben alkalmazott árfolyamot kell figyelembe venni.
 
-(4) Külföldi pénznemben keletkezett bevétel esetén az (1) bekezdés a) pontjának és az 5. § (7) bekezdésének rendelkezéseitől eltérően
+(4) Külföldi pénznemben keletkezett bevétel, valamint külföldi pénznemben teljesített kiadás esetén az (1) bekezdés a) és b) pontjának, valamint az 5. § (7) bekezdésének rendelkezéseitől eltérően
 
 a) – ha a bevétel adóelőleg-levonásra kötelezett kifizetőtől származik – a kifizető az adóelőleg megállapításához,
 
 b) a magánszemély – választása szerint – az adóelőleg, adó megállapításához
 
-a bevétel forintra történő átszámítására a megszerzése napját megelőző hónap 15. napján érvényes MNB hivatalos devizaárfolyamot, olyan külföldi pénznem esetében, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyamot alkalmazza.
+a bevétel, illetve a kiadás forintra történő átszámítására a bevétel megszerzése napját megelőző hónap, illetve a kiadás teljesítésének napját megelőző hónap 15. napján érvényes MNB hivatalos devizaárfolyamot, olyan külföldi pénznem esetében, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyamot alkalmazza.

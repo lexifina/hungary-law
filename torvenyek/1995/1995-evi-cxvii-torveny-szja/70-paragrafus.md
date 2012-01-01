@@ -6,17 +6,31 @@ b) a kifizető tevékenységének ellátása érdekében biztosított helyi és 
 
 c) több magánszemély, mint biztosított javára kötött biztosítási szerződés alapján fizetett adóköteles biztosítási díj, ha a biztosítási szerződés nem egyénileg, hanem kizárólag a munkakör, a beosztás, a munkaviszonyban eltöltött idő, az életkor vagy más közös ismérv alapján határozza meg a biztosítottak körét.
 
-(2) Egyes meghatározott juttatásnak minősül
+(1a) Egyes meghatározott juttatásnak minősül:
 
-a) – ha a kifizető társadalmi szervezet, köztestület, egyházi jogi személy, alapítvány (ideértve a közalapítványt is) – az adóévben reprezentáció és üzleti ajándékok juttatása alapján meghatározott jövedelem azon része, amely a közhasznú, illetve cél szerinti tevékenysége érdekében felmerült, az adóévre vonatkozó beszámolóban kimutatott összes ráfordítás 10 százalékát, de legfeljebb az adóévre elszámolt éves összes bevétele 10 százalékát meghaladja;
+a) a munkáltató által
 
-b) – ha a kifizető az a) pontban nem említett, a társasági adóról és az osztalékadóról szóló törvény hatálya alá nem tartozó juttató –
+aa) valamennyi munkavállaló (ideértve a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállalót is), vagy
 
-ba) a reprezentáció alapján meghatározott jövedelem azon része, amely az adóévre elszámolt éves összes bevétele 1 százalékát, de legfeljebb a 25 millió forintot meghaladja,
+ab) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
 
-bb) az adóévben adott üzleti ajándékok alapján meghatározott jövedelem azon része, amely az adóévi statisztikai átlagos állományi létszámmal, illetve az adóév során a tevékenységében személyesen közreműködő tagok (egyéni vállalkozó juttató esetében ideértve az egyéni vállalkozót is) együttes létszámával számolva az 5000 forint/fő értéket meghaladja,
+ac) az előbbiek és/vagy közeli hozzátartozóik
 
-azzal, hogy az a) és b) pont rendelkezése szerinti számításnál figyelmen kívül kell hagyni az e törvény előírásai szerint adómentes juttatásokat, továbbá az említett rendelkezésben meghatározott értékhatárt meg nem haladó összegben a reprezentáció, üzleti ajándék értékéből jövedelmet nem kell megállapítani.
+részére azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles bevétel (ideértve azt az esetet is, ha a termék, a szolgáltatás azonos értékben meghatározott keret terhére valamennyi, az előzőekben említett, juttatásban részesülő magánszemély számára ugyanazon termék vagy szolgáltatáskörből azonos feltételekkel választható), feltéve, hogy a termék megszerzése (választása), illetve a szolgáltatás igénybevétele (választása) bármelyikük számára ténylegesen is elérhető;
+
+b) a munkáltató által valamennyi munkavállaló (e rendelkezés alkalmazásában ideértve a munkáltatóhoz a Munka Törvénykönyvéről szóló törvény előírásai szerint kirendelt munkavállalót is) által megismerhető belső szabályzat (pl. kollektív szerződés, szervezeti és működési szabályzat, közszolgálati szabályzat stb.) alapján
+
+ba) több munkavállaló, vagy
+
+bb) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
+
+bc) az előbbiek és/vagy közeli hozzátartozóik
+
+részére, azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles bevétel (ideértve azt az esetet is, ha a termék, a szolgáltatás azonos módszerrel meghatározott keret terhére választható), feltéve, hogy a juttatásra jogosultak körét a belső szabályzat nem egyénileg, hanem a munkakör, a beosztás, a munkaviszonyban eltöltött idő, az életkor vagy más – munkaköri feladattal kapcsolatos teljesítménytől nem függő – közös ismérv alapján határozza meg;
+
+(2) Egyes meghatározott juttatásnak minősül az adóévben reprezentáció és üzleti ajándékok juttatása alapján meghatározott jövedelem azzal, hogy a jövedelem meghatározásánál figyelmen kívül kell hagyni az e törvény előírásai szerint adómentes juttatásokat.
+
+(2a) Ha a kifizető egyesület, köztestület, egyházi jogi személy, alapítvány (ideértve a közalapítványt is), a (2) bekezdéstől eltérően mentes az adó alól az adóévben reprezentáció és a minimálbér 25 százalékának megfelelő egyedi értéket meg nem haladó üzleti ajándékok juttatása alapján meghatározott jövedelem azon része, amely a közhasznú, illetve cél szerinti tevékenysége érdekében felmerült, az adóévre vonatkozó beszámolóban kimutatott összes ráfordítás 10 százalékát, de legfeljebb az adóévre elszámolt éves összes bevétele 10 százalékát nem haladja meg.
 
 (3) Egyes meghatározott juttatásnak minősül
 
@@ -32,15 +46,15 @@ ad) a kifizető a szakképző iskolai tanulónak, kötelező szakmai gyakorlatá
 
 juttatja, továbbá az aa)–ad) pontban nem említett esetben akkor, ha a juttatás olyan magánszemélynek történik, akinek a kifizetőtől az adóévben nem származik más jövedelme;
 
-b) az olyan ingyenes vagy kedvezményes termék, szolgáltatás révén juttatott adóköteles bevétel, amelynek igénybevételére egyidejűleg több magánszemély jogosult, és a kifizető – jóhiszemű eljárása ellenére – nem képes megállapítani az egyes magánszemélyek által megszerzett jövedelmet, továbbá az egyidejűleg több magánszemély (ideértve az üzleti partnereket is) számára szervezett, ingyenes vagy kedvezményes rendezvénnyel, eseménnyel összefüggésben (ha a rendezvény, esemény a juttatás körülményeiből megítélhetően döntő részben vendéglátásra, szabadidőprogramra irányul) a kifizető által viselt költség;
+b) az olyan ingyenes vagy kedvezményes termék, szolgáltatás révén juttatott adóköteles bevétel, amelynek igénybevételére egyidejűleg több magánszemély jogosult, és a kifizető – jóhiszemű eljárása ellenére – nem képes megállapítani az egyes magánszemélyek által megszerzett jövedelmet, továbbá az egyidejűleg több magánszemély (ideértve az üzleti partnereket is) számára szervezett, ingyenes vagy kedvezményes rendezvénnyel, eseménnyel összefüggésben (ha a rendezvény, esemény a juttatás körülményeiből megítélhetően döntő részben vendéglátásra, szabadidőprogramra irányul) a kifizető által viselt költség (beleértve az ilyen rendezvényen, eseményen a résztvevőknek adott ajándéktárgyra fordított kiadást is, feltéve, hogy az ajándéktárgy egyedi értéke személyenként nem haladja meg a minimálbér 25 százalékát);
 
 c) a kifizető által törvény vagy törvény felhatalmazása alapján más jogszabály rendelkezése következtében a magánszemélynek ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles jövedelem;
 
-d) az olyan adómentesnek, üzleti ajándéknak nem tekinthető reklám célú vagy egyéb ajándék, amelynek egyedi értéke a minimálbér 1 százalékát nem haladja meg, és amelynek elfogadása esetén a magánszemély azonosító adatai a juttató számára nem ismertek
+d) az olyan adómentesnek, üzleti ajándéknak nem tekinthető üzletpolitikai (reklám) célú juttatás, amely nem tartozik a szerencsejáték szervezéséről szóló törvény hatálya alá,
 
 azzal, hogy a kifizető rosszhiszemű vagy jogszerűtlen eljárása esetén a kiszabható mulasztási bírság az adóalap 50 százaléka.
 
-(4) Egyes meghatározott juttatásnak minősül az a juttatás, amely megfelel e törvény külön rendelkezése [71. §] szerint meghatározott béren kívüli juttatás feltételeinek, de az ott meghatározott értékhatárt meghaladja.
+(4) Egyes meghatározott juttatásnak minősül az a juttatás, amely megfelel e törvény külön rendelkezése [71. §] szerint meghatározott béren kívüli juttatás feltételeinek, de az ott meghatározott értékhatárt meghaladja. Egyes meghatározott juttatásnak minősül továbbá a munkáltató által a munkavállalónak, valamint a munkavállalóra tekintettel más magánszemélynek az adóévben biztosított béren kívüli juttatások együttes értékének az évi 500 ezer forintot, illetve az 500 ezer forintnak – a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló a jogviszonyban töltött napokkal – arányos összegét (éves keretösszeg) meghaladó része.
 
 (5) E § alkalmazásában
 

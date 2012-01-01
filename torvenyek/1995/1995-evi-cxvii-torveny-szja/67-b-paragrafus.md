@@ -6,9 +6,9 @@
 
 (3) A lekötött pénzösszeg és a (4) bekezdésben meghatározott időpontig elért befektetési hozamok állománya terhére a magánszemély az általa külön-külön megkötött tartós befektetési szerződés alapján
 
-a) ellenőrzött tőkepiaci ügyletben forintban denominált pénzügyi eszközre és olyan forintban denominált pénzügyi eszközre (pl. állampapír, befektetési jegy), amelynek a befektetési hozama egyébként kamatjövedelemnek minősülne, vagy
+a) ellenőrzött tőkepiaci ügyletben pénzügyi eszközre és olyan pénzügyi eszközre (pl. állampapír, befektetési jegy), amelynek a befektetési hozama egyébként kamatjövedelemnek minősülne, vagy
 
-b) kamatozó bankbetétben (ideértve a fizetési számlán történő elkülönítést is), takarékbetétben forintban történő elhelyezésre
+b) kamatozó bankbetétben (ideértve a fizetési számlán történő elkülönítést is), takarékbetétben történő elhelyezésre
 
 vonatkozó korlátlan számú (vételi, eladási, betétlekötési, ismételt lekötési stb.) megbízást adhat. A befektetési szolgáltató, illetőleg hitelintézet a megbízást, a teljesítést, a magánszemély tulajdonába került, vagy általa átruházott a) pont szerinti pénzügyi eszközt, pénzeszközt, illetve a b) pont szerinti befektetést rögzíti az adott szerződéshez tartozó lekötési nyilvántartásban.
 

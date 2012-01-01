@@ -26,7 +26,7 @@ nyújt be az adóhatósághoz.
 
 a) amelyet a jövedelem kiszámításánál nem kell figyelembe venni, kivéve, ha azt be kell számítani a magánszemély összes jövedelmébe az adóévben [3. § 75. pont];
 
-b) amely ingó vagyontárgy átruházásából származik, és abból az adóévben megállapított összes jövedelem nem haladja meg a 200 ezer forintot;
+b) amely ingó vagyontárgy átruházásából származik, és az éves összege nem haladja meg a 600 ezer forintot, vagy az abból megállapított összes jövedelem nem haladja meg a 200 ezer forintot;
 
 c) amely ingatlan átruházásából, a vagyoni értékű jog gyakorlásának átengedéséből, e jogról való lemondásból származik, ha abból jövedelem nem keletkezik;
 
@@ -36,6 +36,6 @@ e) amely kamatjövedelemnek minősül, és abból a kifizető az adót levonta;
 
 f) amely pénzbeli nyereménynek [76. § (2) bekezdés] minősül;
 
-g) amely nemzetközi szerződés vagy viszonosság alapján a Magyar Köztársaságban nem adóztatható;
+g) amely nemzetközi szerződés vagy viszonosság alapján Magyarországon nem adóztatható;
 
 h) amelyet külön törvény rendelkezése szerint nem kell bevallani.

@@ -8,6 +8,6 @@ b) az elismert munkavállalói értékpapír-juttatási program nyilvántartásb
 
 (3) Felhatalmazást kap a kultúráért felelős miniszter és az adópolitikáért felelős miniszter, hogy rendeletben határozzák meg a 3. számú melléklet 1.22. pontjában, továbbá a 11. számú melléklet 1.26. pontjában foglaltak alkalmazásának feltételeivel összefüggő részletes szabályokat.
 
-(4)
+(4) Felhatalmazást kap a társadalompolitika összehangolásáért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg az Erzsébet-utalvány kibocsátásának részletes szabályait.
 
 (5) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy rendeletben meghatározza a felszolgálási díj alkalmazásának, kifizetésének és felhasználásának részletes szabályait.

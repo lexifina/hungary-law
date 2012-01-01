@@ -22,7 +22,7 @@ c) a magánszemély a program keretében kizárólag értékpapírra vonatkozó 
 
 (8) A magánszemély által megszerzett munkaviszonyból származó jövedelemnek (a kötelező tartási időszak kezdő napján a program szervezője vezető tisztségviselőjének minősülő magánszemély esetében munkaviszonyból származó jövedelemnek nem minősülő nem önálló tevékenységből származó jövedelemnek), a magánszemély halála esetén az örököse által megszerzett egyéb jövedelemnek minősül:
 
-a) a magánszemély és a program szervezője, vagy kapcsolt vállalkozása közötti munkaviszony megszűnése esetén az értékpapírnak a munkaviszony megszűnésének időpontjára megállapított szokásos piaci értékéből az a rész, amely meghaladja az értékpapír megszerzésére fordított érték és az értékpapírhoz kapcsolódó járulékos költségek együttes összegét, kivéve, ha ezzel egyidejűleg a program szervezője, vagy kapcsolt vállalkozása (jogutódja) és a magánszemély között vezető tisztségviselői jogviszony vagy új munkaviszony jön létre, vagy az egyébként fennálló vezető tisztségviselői jogviszony fennmarad, valamint kivéve, ha a jogviszony megszűnésének oka a magánszemély halála, nyugdíjba vonulása vagy csoportos létszámleépítés,
+a) a magánszemély és a program szervezője, vagy kapcsolt vállalkozása közötti munkaviszony megszűnése esetén az értékpapírnak az utolsó munkában töltött napra megállapított szokásos piaci értékéből az a rész, amely meghaladja az értékpapír megszerzésére fordított érték és az értékpapírhoz kapcsolódó járulékos költségek együttes összegét, kivéve, ha ezzel egyidejűleg a program szervezője, vagy kapcsolt vállalkozása (jogutódja) és a magánszemély között vezető tisztségviselői jogviszony vagy új munkaviszony jön létre, vagy az egyébként fennálló vezető tisztségviselői jogviszony fennmarad, valamint kivéve, ha a jogviszony megszűnésének oka a magánszemély halála, nyugdíjba vonulása vagy csoportos létszámleépítés,
 
 b) a magánszemély és a program szervezője, vagy kapcsolt vállalkozása közötti vezető tisztségviselői jogviszony megszűnése esetén az értékpapírnak a jogviszony megszűnésének időpontjára megállapított szokásos piaci értékéből az a rész, amely meghaladja az értékpapír megszerzésére fordított érték és az értékpapírhoz kapcsolódó járulékos költségek együttes összegét, kivéve, ha ezzel egyidejűleg a program szervezője, vagy kapcsolt vállalkozása (jogutódja) és a magánszemély között munkaviszony vagy új vezető tisztségviselői jogviszony jön létre, vagy az egyébként fennálló munkaviszony fennmarad, valamint kivéve, ha a jogviszony megszűnésének oka a magánszemély halála,
 
@@ -62,7 +62,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 (11) A (8) bekezdésben meghatározott jövedelem megszerzésének időpontja:
 
-a) a (8) bekezdés a)–b) pontja szerinti esetben a jogviszony megszűnésének a napja;
+a) a (8) bekezdés a)–b) pontja szerinti esetben az utolsó munkában töltött nap, illetve a jogviszony megszűnésének a napja;
 
 b) a (8) bekezdés c) pontja szerinti esetben a bevonás, az átalakítás, illetve a kicserélés napja, ha az értékpapírt a program szervezője bocsátotta ki, egyébként a magánszemély tájékoztatási kötelezettsége teljesítésére nyitva álló határidő utolsó napja;
 
@@ -108,7 +108,7 @@ b az (1) bekezdés c) pontja szerint vételi, jegyzési vagy más hasonló jog g
 
 megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezte, akkor az értékpapír megszerzésére fordított értékkel csökkentett – együttes szokásos piaci értéke meghaladja az 1 millió forintot, az adózó az (1)–(17) bekezdésben foglaltakat csak azokra az értékpapírokra alkalmazza, amelyeknek – a letétbe helyezés, illetőleg a joggyakorlás sorrendjében – összesített együttes (csökkentett) szokásos piaci értéke nem haladja meg az említett összeget. A magánszemély által elismert program keretében megszerzett többi értékpapírra a 77/A. § rendelkezései az irányadók. Ha a magánszemély az adóévben több elismert program keretében szerez értékpapírt, az említett összeghatár eléréséről haladéktalanul köteles tájékoztatni valamennyi program szervezőjét.
 
-(19) Az adópolitikáért felelős miniszter – a gazdasági társaság (ideértve a program nyilvántartásba vétele iránti kérelmet magyarországi fióktelepe, kereskedelmi képviselete útján benyújtó külföldi vállalkozást is) kérelmére – a következő feltételek együttes fennállása esetén elismert programként veszi nyilvántartásba a kérelemben bemutatott programot:
+(19) A Nemzeti Adó- és Vámhivatal elnöke – a gazdasági társaság (ideértve a program nyilvántartásba vétele iránti kérelmet magyarországi fióktelepe, kereskedelmi képviselete útján benyújtó külföldi vállalkozást is) kérelmére – a következő feltételek együttes fennállása esetén elismert programként veszi nyilvántartásba a kérelemben bemutatott programot:
 
 a) a program keretében kizárólag a gazdasági társaság vagy kapcsolt vállalkozása által kibocsátott értékpapírt lehet szerezni;
 
@@ -128,13 +128,13 @@ h) a gazdasági társaság és a kibocsátó (jogelődjük) a kérelem benyújt�
 
 i) a gazdasági társaság, a kérelemben megnevezett kapcsolt vállalkozása és a kibocsátó (jogelődjük) a kérelem benyújtását megelőző három naptári éven belül és a kérelem benyújtásának évében a kérelem benyújtásáig nem állt csődeljárás vagy felszámolás (annak megfelelő, külföldi jog szerinti eljárás) hatálya alatt.
 
-(20) Az adópolitikáért felelős miniszter a nyilvántartásba vételt megtagadja, ha
+(20) A Nemzeti Adó- és Vámhivatal elnöke a nyilvántartásba vételt megtagadja, ha
 
 a) a kérelemben bemutatott program nem felel meg az e törvényben meghatározott összes feltételnek;
 
 b) a kérelem nem felel meg az e törvényben vagy e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott összes feltételnek, vagy a kérelemből nem állapítható meg minden, az elbírálás szempontjából jelentős tény, és az adózó a hiányt felhívás ellenére sem pótolta;
 
-c) a gazdasági társaság, a kérelemben megnevezett kapcsolt vállalkozása vagy a kibocsátó a kérelem jogerős elbírálását megelőzően csődeljárás vagy felszámolás (annak megfelelő, külföldi jog szerinti eljárás) hatálya alá kerül; ezt a tényt a gazdasági társaság, a kérelemben megnevezett kapcsolt vállalkozása köteles haladéktalanul bejelenteni az adópolitikáért felelős miniszter részére;
+c) a gazdasági társaság, a kérelemben megnevezett kapcsolt vállalkozása vagy a kibocsátó a kérelem jogerős elbírálását megelőzően csődeljárás vagy felszámolás (annak megfelelő, külföldi jog szerinti eljárás) hatálya alá kerül; ezt a tényt a gazdasági társaság, a kérelemben megnevezett kapcsolt vállalkozása köteles haladéktalanul bejelenteni a Nemzeti Adó- és Vámhivatal elnöke részére;
 
 d) a program alapján már történt értékpapír-juttatás;
 
@@ -142,19 +142,21 @@ e) a közölt tényállás alapján megállapítható, hogy a program megvalós�
 
 (21) A nyilvántartásba vétel iránti kérelmet az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott formában és tartalommal, ügyvéd vagy adótanácsadó ellenjegyzésével kell benyújtani. A kérelemben a kérelmező nyilatkozik arról, hogy a kérelemben megjelölt tényállás megfelel a valóságnak. A kérelemhez csatolni kell a miniszteri rendeletben meghatározott valamennyi okiratot.
 
-(22) Az adópolitikáért felelős miniszter a programot törli a nyilvántartásból:
+(22) A Nemzeti Adó- és Vámhivatal elnöke a programot törli a nyilvántartásból:
 
-a) a program keretében elsőként letétbe helyezett értékpapír letétbe helyezését követő ötödik év, az (1) bekezdés c) pontja szerinti esetben a joggyakorlásra nyitva álló időszak utolsó napjával; a program szervezője a letétbe helyezést 15 napon belül köteles bejelenteni az adópolitikáért felelős miniszter részére;
+a)
 
-b) a végelszámolás, a csődeljárás, a felszámolás kezdő napjával, ha a nyilvántartásba vételt követően az a) pontban meghatározott időpontig a program szervezője, a kérelemben megnevezett kapcsolt vállalkozása vagy a kibocsátó (jogutódjuk) végelszámolás, csődeljárás, illetve felszámolás hatálya alá kerül; ezt a tényt a program szervezője köteles haladéktalanul bejelenteni az adópolitikáért felelős miniszter részére;
+b) a végelszámolás, a csődeljárás, a felszámolás kezdő napjával, ha a nyilvántartásba vételt követően az a) pontban meghatározott időpontig a program szervezője, a kérelemben megnevezett kapcsolt vállalkozása vagy a kibocsátó (jogutódjuk) végelszámolás, csődeljárás, illetve felszámolás hatálya alá kerül; ezt a tényt a program szervezője köteles haladéktalanul bejelenteni a Nemzeti Adó- és Vámhivatal elnöke részére;
 
 c) a kérelemben megjelölt, a kérelem benyújtását követő nappal, ha a program szervezője az a) pontban meghatározott időpontig kéri a nyilvántartásból való törlést.
 
-(23) Ha az adópolitikáért felelős miniszter a kérelmet az ügyintézési határidőn belül nem utasítja el, a kérelemnek helyt adó határozathoz fűződő jogkövetkezményeket kell alkalmazni. Az adópolitikáért felelős miniszter a program nyilvántartásba vételéről és a nyilvántartásból való törléséről rendelkező jogerős határozatát, valamint a kérelem egy eredeti példányát megküldi az állami adóhatóságnak.
+(22a) A program nyilvántartása megszűnik a nyilvántartásba vétel iránti kérelem benyújtását követő tizedik év utolsó napjával.
+
+(23) Ha a Nemzeti Adó- és Vámhivatal elnöke a kérelmet az ügyintézési határidőn belül nem utasítja el, a kérelemnek helyt adó határozathoz fűződő jogkövetkezményeket kell alkalmazni.
 
 (24) Az elismert munkavállalói értékpapír-juttatási program keretében szerzett jövedelemre vonatkozó rendelkezések alkalmazásában:
 
-a) elismert program: az adópolitikáért felelős miniszter által ilyenként nyilvántartott munkavállalói értékpapír-juttatási program;
+a) elismert program: a Nemzeti Adó- és Vámhivatal elnöke által ilyenként nyilvántartott munkavállalói értékpapír-juttatási program;
 
 b) értékpapír: bármely EGT-államban, illetve a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) tagállamában az elismert program szervezője, vagy kapcsolt vállalkozása – ha a program szervezője külföldi vállalkozás magyarországi fióktelepe, kereskedelmi képviselete, akkor a külföldi vállalkozás, vagy kapcsolt vállalkozása – által forgalomba hozott (kibocsátott), tagsági jogokat megtestesítő, névre szóló értékpapír;
 

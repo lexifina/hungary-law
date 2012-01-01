@@ -4,17 +4,21 @@
 
 a) személyére és közeli hozzátartozói személyére tekintettel a munkáltató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 
-b) étkezőhelyi vendéglátásnak, munkahelyi étkeztetésnek vagy közétkeztetésnek minősülő szolgáltatás keretében megvalósuló ételfogyasztás vagy fogyasztásra kész étel révén juttatott jövedelemből (ideértve a kizárólag az előzőek igénybevételére jogosító utalvány, készpénz-helyettesítő fizetési eszköz formában az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 18 000 forintot meg nem haladó rész;
+b) a munkavállaló választása szerint
 
-c) az adóévben Széchenyi Pihenő Kártya számlájára utalt, külön jogszabályban meghatározott célra felhasználható – több juttatótól származóan együttvéve – legfeljebb 300 ezer forint támogatás;
+ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató munkavállalóit ellátó, a munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
 
-d) legfeljebb havi 5000 forintot meg nem haladó összegben
+bb) fogyasztásra kész étel vásárlására jogosító Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 5 ezer forintot meg nem haladó rész;
 
-da) internet szolgáltatás ingyenes vagy kedvezményes biztosítása
+c) az adóévben Széchenyi Pihenő Kártya
 
-vagy
+ca) szálláshely alszámlájára utalt, kormányrendeletben meghatározott szálláshely-szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb 225 ezer forint támogatás;
 
-db) internet szolgáltatás költségének a nevére szóló vagy vele közös háztartásban élő közeli hozzátartozója nevére szóló számla alapján történő megtérítése, ideértve – legfeljebb három hónapon belül az említett számlával történő utólagos elszámolással – a kizárólag erre szóló utalvány juttatását is;
+cb) vendéglátás alszámlájára utalt, melegkonyhás vendéglátóhelyeken (ideértve a munkahelyi étkeztetést is) kormányrendeletben meghatározott étkezési szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb 150 ezer forint támogatás;
+
+cc) szabadidő alszámlájára utalt, a szabadidő-eltöltést, a rekreációt, az egészségmegőrzést szolgáló, kormányrendeletben meghatározott szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb 75 ezer forint támogatás;
+
+d)
 
 e) iskolakezdési támogatás címén juttatott jövedelemből gyermekenként, tanulónként a minimálbér 30 százalékát meg nem haladó rész;
 
@@ -26,7 +30,11 @@ g) az iskolarendszerű képzési költsége munkáltató által történő átv�
 
 a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 
-b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek étkezőhelyi vendéglátásnak, munkahelyi étkeztetésnek vagy közétkeztetésnek minősülő szolgáltatás keretében megvalósuló ételfogyasztás vagy fogyasztásra kész étel révén juttatott jövedelemből (ideértve a kizárólag az előzőek igénybevételére jogosító utalvány, készpénz-helyettesítő fizetési eszköz formájában az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 18 000 forintot meg nem haladó rész;
+b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (vagy annak jogutódja) – a nyugdíjban részesülő magánszemélynek választása szerint
+
+ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató munkavállalóit ellátó, a munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
+
+bb) fogyasztásra kész étel vásárlására jogosító Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 5 ezer forintot meg nem haladó rész;
 
 c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 
