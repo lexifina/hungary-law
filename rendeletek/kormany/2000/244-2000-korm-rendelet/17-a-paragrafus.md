@@ -1,6 +1,6 @@
-## Kockázat a kockázatot átvevő szempontjából[^33]
+## Kockázat a kockázatot átvevő szempontjából[^42]
 
-17/A. §[^34] (1) A hitelkockázatot vállaló fél általános piaci kockázata tőkekövetelményének kiszámításához a hitelderivatíva szerződésben szereplő elvi főösszeget kell használni. A teljes hozamcsere-ügylet kivételével az egyedi pozíciókockázat tőkekövetelményének kiszámításakor az ügylet lejárata helyett a hitelderivatíva szerződés lejáratát kell alapul venni. A pozíciókat a (2)–(8) bekezdés rendelkezései szerint kell meghatározni.
+17/A. §[^43] (1)[^44] A hitelkockázatot vállaló fél általános piaci kockázata tőkekövetelményének kiszámításához a hitelderivatíva szerződésben szereplő névértéket használja, vagy a névértéket csökkentheti a kereskedés megkezdése óta a hitelderivatíva piaci értékében bekövetkezett változással. A teljes hozamcsere-ügylet kivételével az egyedi pozíciókockázat tőkekövetelményének kiszámításakor az ügylet lejárata helyett a hitelderivatíva szerződés lejáratát kell alapul venni. A pozíciókat a (2)–(8) bekezdés rendelkezései szerint kell meghatározni.
 
 (2) A teljes hozamcsere-ügyletből adódó követelést az egyedi és az általános pozíciókockázat tőkekövetelményének megállapításánál hosszú, a kötelezettséget rövid pozícióként kell figyelembe venni. A kötelezettségnek egyedi pozíciókockázata nincs.
 
@@ -14,7 +14,9 @@
 
 (7) A második nemteljesítéskor lehívható hitelderivatíva kosár (second-asset-to-default basket) az elvi főösszeget illető pozíciót képez a kosárba tartozó mindegyik referenciaintézmény ügyleténél a legalacsonyabb egyedi kockázati tőkekövetelménnyel bíró referenciaintézmény kivételével. Ha a hiteleseménnyel kapcsolatos maximális kifizetés mértéke alacsonyabb, mint a (6) bekezdés első mondatában szereplő módszer szerinti tőkekövetelmény, akkor ez az összeg tekinthető az egyedi kockázat tőkekövetelményének.
 
-(8) Ha az első vagy második nemteljesítéskor lehívható hitelderivatíva kosár elismert külső hitelminősítő szervezet minősítésével rendelkezik, és megfelel a minőségi kötvény feltételeinek, akkor a kockázat átvevőjének csak a származtatott eszköz minősítését tükröző egyedi kockázatra vonatkozó tőkekövetelményt kell kiszámítania.
+(8)[^45] Ha az n-edik nemteljesítéskor lehívható hitelderivatíva kosár elismert külső hitelminősítő szervezet minősítésével rendelkezik, akkor a kockázat átvevőjének a származtatott eszköz minősítése alapján kell kiszámítania az egyedi kockázatra vonatkozó tőkekövetelményt, és alkalmaznia kell a megfelelő értékpapírosítási kockázati súlyokat.
 
-[^33]: A 17/A. §-t megelőző alcímet a 345/2007. (XII. 19.) Korm. rendelet 13. §-a iktatta be.
-[^34]: A 17/A. §-t a 345/2007. (XII. 19.) Korm. rendelet 13. §-a iktatta be.
+[^42]: A 17/A. §-t megelőző alcímet a 345/2007. (XII. 19.) Korm. rendelet 13. §-a iktatta be.
+[^43]: A 17/A. §-t a 345/2007. (XII. 19.) Korm. rendelet 13. §-a iktatta be.
+[^44]: A 17/A. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^45]: A 17/A. § (8) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

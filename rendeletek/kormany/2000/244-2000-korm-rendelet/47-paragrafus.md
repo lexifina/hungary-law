@@ -10,8 +10,8 @@
 
 (3) A kereskedési könyv vezetésének részletes szabályait tartalmazó belső szabályzatot, valamint az alkalmazni kívánt modellek dokumentációját 2001. február 15-ig kell benyújtani a Felügyeletnek.
 
-(4)[^114]
+(4)[^131]
 
 (5) Amennyiben a hitelintézet kereskedési könyv vezetésére válik kötelezetté, akkor legkésőbb a tárgyévet követő év január 1-jétől köteles eleget tenni az e rendeletben foglalt kötelezettségeknek.
 
-[^114]: A 47. § (4) bekezdését a 345/2007. (XII. 19.) Korm. rendelet 27. § (4) bekezdése hatályon kívül helyezte.
+[^131]: A 47. § (4) bekezdését a 345/2007. (XII. 19.) Korm. rendelet 27. § (4) bekezdése hatályon kívül helyezte.

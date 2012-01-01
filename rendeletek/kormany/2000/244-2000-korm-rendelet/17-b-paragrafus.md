@@ -1,10 +1,10 @@
-## Kockázat a kockázatot átadó szempontjából[^35]
+## Kockázat a kockázatot átadó szempontjából[^46]
 
-17/B. §[^36] (1) A hitelkockázatot átadó fél szempontjából a pozíciókat a kockázatot átvevővel szimmetrikusan határozzák meg, kivéve a CLN-t, amely nem eredményez rövid pozíciót a kibocsátónál. Ha egy adott időpontban olyan vételi opció merül fel, amelynél a kötési árfolyam előre meghatározott időpontban emelkedik, akkor az az időpont tekintendő a védelem lejáratának. A szimmetrikus meghatározás helyett az első és az n-edik nemteljesítéskor lehívható hitelderivatívák esetén a (2) illetőleg a (3) bekezdésben meghatározott kezelés alkalmazandó.
+17/B. §[^47] (1) A hitelkockázatot átadó fél szempontjából a pozíciókat a kockázatot átvevővel szimmetrikusan határozzák meg, kivéve a CLN-t, amely nem eredményez rövid pozíciót a kibocsátónál. Ha egy adott időpontban olyan vételi opció merül fel, amelynél a kötési árfolyam előre meghatározott időpontban emelkedik, akkor az az időpont tekintendő a védelem lejáratának. A szimmetrikus meghatározás helyett az első és az n-edik nemteljesítéskor lehívható hitelderivatívák esetén a (2) illetőleg a (3) bekezdésben meghatározott kezelés alkalmazandó.
 
 (2) Amennyiben egy intézmény több, hitelderivatíva alapjául szolgáló referenciaegység esetében olyan feltételek mellett szerez hitelkockázati fedezetet, hogy az eszközök első nemteljesítése kiváltja a fizetést, és ez a hitelkockázati esemény megszünteti a szerződést, az intézmény azon referenciaegység vonatkozásában, amelyikre az alapul szolgáló referenciaegységek közül a 3. számú melléklet táblázata alapján a legalacsonyabb egyedi kockázatra vonatkozó tőkekövetelmény alkalmazandó, ellensúlyozhatja az egyedi kockázatot.
 
 (3) Amennyiben a kitettségek n-edik nemteljesítése váltja ki a fizetést a hitelkockázati fedezet keretében, a kockázatot átadó csak akkor ellensúlyozhatja az egyedi kockázatot, ha az elsőtől az n-1-edik nemteljesítésre is fedezetet szerzett, vagy ha n-1 nemteljesítés már felmerült. Ilyen esetekben az első nemteljesítéskor lehívható hitelderivatívákkal kapcsolatban a (2) bekezdésben meghatározott módszert kell megfelelően alkalmazni az n-edik nemteljesítéskor lehívható hitelderivatívák kezeléséhez.
 
-[^35]: A 17/B. §-t megelőző alcímet a 345/2007. (XII. 19.) Korm. rendelet 14. §-a iktatta be.
-[^36]: A 17/B. §-t a 345/2007. (XII. 19.) Korm. rendelet 14. §-a iktatta be, szövege a 349/2010. (XII. 28.) 5. §-ával megállapított szöveg.
+[^46]: A 17/B. §-t megelőző alcímet a 345/2007. (XII. 19.) Korm. rendelet 14. §-a iktatta be.
+[^47]: A 17/B. §-t a 345/2007. (XII. 19.) Korm. rendelet 14. §-a iktatta be, szövege a 349/2010. (XII. 28.) 5. §-ával megállapított szöveg.

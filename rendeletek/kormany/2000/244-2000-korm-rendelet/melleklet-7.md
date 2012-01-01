@@ -14,6 +14,6 @@
 
 | 46 vagy annál több nap | 100% |
 
-7. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^121]
+7. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^138]
 
-[^121]: A 7. számú melléklet a 345/2007. (XII. 19.) Korm. rendelet 26. § (5) bekezdésével megállapított szöveg.
+[^138]: A 7. számú melléklet a 345/2007. (XII. 19.) Korm. rendelet 26. § (5) bekezdésével megállapított szöveg.

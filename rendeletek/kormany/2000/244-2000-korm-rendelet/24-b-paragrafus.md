@@ -1,6 +1,6 @@
-## A kollektív befektetési forma tőkekövetelménye[^48]
+## A kollektív befektetési forma tőkekövetelménye[^57]
 
-24/B. §[^49] (1) A kollektív befektetési formák pozícióinak tőkekövetelményét a (2)–(10) bekezdésben foglalt módszerekkel összhangban kell kiszámítani.
+24/B. §[^58] (1) A kollektív befektetési formák pozícióinak tőkekövetelményét a (2)–(10) bekezdésben foglalt módszerekkel összhangban kell kiszámítani.
 
 (2) A kollektív befektetési formák pozícióira 32%-nak megfelelő, egyedi és általános pozíciós kockázatra vonatkozó tőkekövetelményt kell alkalmazni.
 
@@ -56,5 +56,5 @@ c) ha az általános és egyedi pozíciós kockázatra vonatkozó, e bekezdés a
 
 (11) Az intézmény harmadik felet is megbízhat a kollektív befektetési formában lévő – a (8) és (10) bekezdés alá eső – pozíciók általános és egyedi pozíciós kockázatára vonatkozó tőkekövetelménynek az e fejezetben meghatározott módszerekkel összhangban történő kiszámításával és az eredmények jelentésével, amennyiben megfelelően biztosított a számítás és a jelentés pontossága.
 
-[^48]: A 24/B. §-t megelőző alcímet a 345/2007. (XII. 19.) Korm. rendelet 17. §-a iktatta be.
-[^49]: A 24/B. §-t a 345/2007. (XII. 19.) Korm. rendelet 17. §-a iktatta be.
+[^57]: A 24/B. §-t megelőző alcímet a 345/2007. (XII. 19.) Korm. rendelet 17. §-a iktatta be.
+[^58]: A 24/B. §-t a 345/2007. (XII. 19.) Korm. rendelet 17. §-a iktatta be.

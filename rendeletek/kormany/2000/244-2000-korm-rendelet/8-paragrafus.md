@@ -2,10 +2,10 @@
 
 ## A deviza pozíciók értékelése
 
-8. § (1)[^13] A nem forintban denominált pénzügyi eszközök nettó pozícióit az MNB által közzétett hivatalos devizaárfolyamon kell értékelni.
+8. § (1)[^16] A nem forintban denominált pénzügyi eszközök nettó pozícióit az MNB által közzétett hivatalos devizaárfolyamon kell értékelni.
 
 (2) Ha az MNB az adott devizára nem jegyez devizaárfolyamot, akkor az árfolyamot az adott devizát kibocsátó ország jegybankja vagy jegybanki funkciókkal rendelkező intézménye által meghatározott hazai devizaárfolyam és az euró keresztárfolyamából kell átszámítani.
 
 (3) A devizában denominált tőzsdei határidős ügyleteket tőzsdei elszámoló áron, a tőzsdén kívüli határidős ügyleteket a Felügyelet által jóváhagyott belső szabályzat alapján kell értékelni.
 
-[^13]: A 8. § (1) bekezdése a 345/2007. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^16]: A 8. § (1) bekezdése a 345/2007. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.

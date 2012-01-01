@@ -2,7 +2,7 @@
 
 ## A TŐKEKÖVETELMÉNY
 
-12. §[^22] (1) A (2) bekezdésben foglaltak kivételével a kereskedési könyvben nyilvántartott pénzügyi eszközök tőkekövetelménye:
+12. §[^25] (1) A (2) bekezdésben foglaltak kivételével a kereskedési könyvben nyilvántartott pénzügyi eszközök tőkekövetelménye:
 
 a) a 14–25. § szerint kiszámítandó pozíciókockázat,
 
@@ -16,7 +16,7 @@ e) a 38. § szerint kiszámítandó nagykockázat
 
 ## tőkekövetelményének összege.
 
-(2)[^23] Az intézmény a kereskedési könyvben nyilvántartott pénzügyi eszközök tőkekövetelményét a hitelezési kockázatról szóló jogszabályban meghatározottak szerint számíthatja ki, ha
+(2)[^26] Az intézmény a kereskedési könyvben nyilvántartott pénzügyi eszközök tőkekövetelményét a hitelezési kockázatról szóló jogszabályban meghatározottak szerint számíthatja ki, ha
 
 a) a kereskedési könyvben nyilvántartott pozíciói előjeltől független összértékének a teljes tevékenységében mért pozíciók előjeltől független összértékéhez mért aránya általában nem haladja meg az 5%-ot, és sohasem haladhatja meg a 6%-ot, valamint
 
@@ -28,5 +28,5 @@ b) a kereskedési könyvben nyilvántartott pozícióinak előjeltől független
 
 (5) Ha az intézmény a tőkekövetelményt a Felügyelet által jóváhagyott belső modell alapján határozza meg, akkor a tőkekövetelmény kiszámításakor a 43–46. §-ban foglaltakat is figyelembe kell venni.
 
-[^22]: A 12. § a 345/2007. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^23]: A 12. § (2) bekezdés nyitó szövegrésze a 349/2010. (XII. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^25]: A 12. § a 345/2007. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^26]: A 12. § (2) bekezdés nyitó szövegrésze a 349/2010. (XII. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

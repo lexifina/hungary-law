@@ -36,6 +36,6 @@
 
 ## A vega kockázat tőkekövetelménye az eszközök vega kockázatai abszolút értékének összege.
 
-3. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^117]
+3. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^134]
 
-[^117]: A 3. számú melléklet a 345/2007. (XII. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított, a 349/2010. (XII. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^134]: A 3. számú melléklet a 345/2007. (XII. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított, a 349/2010. (XII. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

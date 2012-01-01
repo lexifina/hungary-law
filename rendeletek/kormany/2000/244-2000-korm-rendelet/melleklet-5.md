@@ -76,6 +76,6 @@
 
 ## Ezt követően az intézmény meghatározza a zónák nem kiegyenlített, futamidővel súlyozott pozícióját, majd e melléklet 4.1. fejezetének c) pontjában foglaltak szerint elvégzi a zónák közötti nettósítást.
 
-5. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^119]
+5. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^136]
 
-[^119]: Az 5. számú melléklet a 345/2007. (XII. 19.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^136]: Az 5. számú melléklet a 345/2007. (XII. 19.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
