@@ -22,7 +22,7 @@ f) személyes azonosítással igénybe vehető fórum;
 
 g) bejelentések, közlések felülete, mely a jogszabály alapján itt közzétett hatósági hirdetmények megjelenítését szolgálja;
 
-h) hatályos jogszabályok elektronikus gyűjteménye és a Magyar Közlöny hiteles elektronikus közzétételi felülete;
+h)[^4] a Magyar Közlöny hiteles elektronikus közzétételi felülete és a Nemzeti Jogszabálytár elérési lehetősége;
 
 i) pályázatok közzététele;
 
@@ -41,3 +41,5 @@ m) kulcstár.
 (5) A központi rendszer működtetőjének feladata a (2) bekezdés d), e), h) l) és m) pontjaiban rögzített szolgáltatások naprakészségének és pontosságának biztosítása. A működtető feladata, hogy a b) pontban meghatározott szolgáltatás azon részének naprakészségét és pontosságát biztosítsa, amelynek gondozása nem tartozik egyetlen csatlakozott, illetve a 8. § (4) bekezdése szerinti feladatot ellátó szervezet hatáskörébe sem.
 
 (6) A központi rendszer üzemeltetője felel az f) pontban meghatározott szolgáltatásért és – az érintett szervektől kapott tájékoztatás alapján – a (3) bekezdés szerinti idegen nyelvű tájékoztató frissítéséért.
+
+[^4]: A 7. § (2) bekezdés h) pontja a 338/2011. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
