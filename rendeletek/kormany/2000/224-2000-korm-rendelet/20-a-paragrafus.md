@@ -1,6 +1,6 @@
-## Nyugdíjreform és Adósságcsökkentő Alap beszámolókészítési és könyvvezetési sajátosságai[^61]
+## Nyugdíjreform és Adósságcsökkentő Alap beszámolókészítési és könyvvezetési sajátosságai[^86]
 
-20/A. §[^62] (1) A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény (a továbbiakban: Nyt.) hatálya alá tartozó Nyugdíjreform és Adósságcsökkentő Alap (a továbbiakban: Alap) a Tv. előírásait a (2)–(5) bekezdésben és a 20/B–20/C. §-ban foglaltak figyelembevételével alkalmazza.
+20/A. §[^87] (1) A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény (a továbbiakban: Nyt.) hatálya alá tartozó Nyugdíjreform és Adósságcsökkentő Alap (a továbbiakban: Alap) a Tv. előírásait a (2)–(5) bekezdésben és a 20/B–20/C. §-ban foglaltak figyelembevételével alkalmazza.
 
 (2) Az Alap üzemgazdasági szemléletű kettős könyvviteli nyilvántartással alátámasztott éves beszámolót köteles készíteni.
 
@@ -16,5 +16,5 @@ b) az Alap vagyonát képező eszközök értékesítésének és átadásának 
 
 c) az Alap működtetésével összefüggésben, valamint az Alap vagyonát képező eszközök kezelésével, értékesítésével és átadásával összefüggésben felmerült költségek, igénybe vett szolgáltatások és egyéb szolgáltatások elkülönítéséről.
 
-[^61]: A 20/A. §-t megelőző alcímet a 398/2007. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 87/2011. (V. 31.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^62]: A 20/A. §-t a 398/2007. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 87/2011. (V. 31.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^86]: A 20/A. §-t megelőző alcímet a 398/2007. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 87/2011. (V. 31.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^87]: A 20/A. §-t a 398/2007. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 87/2011. (V. 31.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.

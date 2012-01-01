@@ -1,6 +1,6 @@
-## Az egyszerűsített beszámoló, illetve a közhasznú egyszerűsített beszámoló mérlegének előírt tagolása
+## Az egyszerűsített beszámoló mérlegének előírt tagolása
 
-## az egyszeres könyvvitelt vezető egyéb szervezetnél, illetve közhasznú egyéb szervezetnél
+## az egyéb szervezetnél
 
 ## ESZKÖZÖK (AKTÍVÁK)
 
@@ -50,4 +50,6 @@
 
 ## Források összesen
 
-2. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez
+2. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^100]
+
+[^100]: A 2. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-20/B. §[^63] (1) Az Alap mérlegében a Tv. szerinti jegyzett tőke helyett induló tőke szerepel. Az induló tőke az Nyt. 2. § (3) bekezdése szerint a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok követeléseinek azon összege, amelyet a magánnyugdíjpénztárak a tagok portfoliójában lévő eszközök formájában bocsátanak az Alap rendelkezésére a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése szerint, továbbá a függő tételként nyilvántartott befizetések és hozamaik összegében az Alap által a magánnyugdíjpénztáraktól átvett eszközök értéke, valamint a visszalépő tagok követeléseinek azon része, amelyet a Pénztárak Garancia Alapja a visszalépő tagokra vonatkozó garanciális kifizetésre fordítható eszköz címén bocsát az Alap rendelkezésére az Mpt. 89. § (8) bekezdése szerint.
+20/B. §[^88] (1) Az Alap mérlegében a Tv. szerinti jegyzett tőke helyett induló tőke szerepel. Az induló tőke az Nyt. 2. § (3) bekezdése szerint a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok követeléseinek azon összege, amelyet a magánnyugdíjpénztárak a tagok portfoliójában lévő eszközök formájában bocsátanak az Alap rendelkezésére a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése szerint, továbbá a függő tételként nyilvántartott befizetések és hozamaik összegében az Alap által a magánnyugdíjpénztáraktól átvett eszközök értéke, valamint a visszalépő tagok követeléseinek azon része, amelyet a Pénztárak Garancia Alapja a visszalépő tagokra vonatkozó garanciális kifizetésre fordítható eszköz címén bocsát az Alap rendelkezésére az Mpt. 89. § (8) bekezdése szerint.
 
 (2) A pénzeszközök között kell kimutatni – a Tv.-ben foglaltakon túlmenően – az Alap Magyar Államkincstárnál vezetett
 
@@ -6,7 +6,7 @@ a) pénzforgalmi számláján lévő forintpénzkészlet, valamint
 
 b) devizaszámláján lévő devizakészlet számviteli politikában választott árfolyamon forintra átszámított
 
-összegét.
+## összegét.
 
 (3) A pénzeszközökről vezetett főkönyvi számlák bontásával vagy az analitikus nyilvántartás keretében biztosítani kell, hogy a külön jogszabályban meghatározott címeken bekövetkező forgalmi tételek elkülönítésére szolgáló alszámlákon történő pénzmozgások elkülönítetten megállapíthatók legyenek.
 
@@ -24,7 +24,7 @@ b) minden hónap utolsó napjára, valamint a mérleg fordulónapjára, mint ér
 
 (8) Az anyagjellegű ráfordításokon belül elkülönítetten kell kimutatni az átvett eszközök befektetésével összefüggésben – az Nyt. 8. § (3) bekezdése szerint – igénybevett és egyéb szolgáltatások költségét, valamint az Alap működtetésével összefüggésben igénybevett és egyéb szolgáltatások költségét.
 
-(9) Az Nyt. 7. §-ának megfelelően az Alap vagyonát képező eszközök értékesítéséből származó bevételből a Nyugdíjbiztosítási Alap fejezet részére, valamint a központi költségvetésnek a Magyar Köztársaság költségvetéséről szóló törvényben meghatározott előirányzata javára befizetett összeget az egyéb ráfordításokon belül elkülönítetten kell kimutatni.
+(9)[^89] Az Nyt. 7. §-ának megfelelően az Alap vagyonát képező eszközök értékesítéséből származó bevételből a Nyugdíjbiztosítási Alap fejezet részére, valamint a központi költségvetésnek Magyarország költségvetéséről szóló törvényben meghatározott előirányzata javára befizetett összeget az egyéb ráfordításokon belül elkülönítetten kell kimutatni.
 
 (10) Az Alap vagyonát képező, (1) bekezdés szerint átvett, a magyar állam által kibocsátott hitelviszonyt megtestesítő értékpapíroknak (a továbbiakban: állampapírok) az átvételt követően az Nyt. 9. §-a szerint bevonandó állományát a magyar állam részére ellentételezés nélkül történő átadásakor az egyéb ráfordításokkal szemben, elkülönítetten kell elszámolni az Alap könyveiben.
 
@@ -44,4 +44,14 @@ c) a magánnyugdíjpénztár működési és likviditási tartalékainak kimerü
 
 fedezetéül szolgáló eszközöket az egyéb ráfordítással szemben vezeti ki könyveiből jogcímenként elkülönítve.
 
-[^63]: A 20/B. §-t a 87/2011. (V. 31.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+(13)[^90] Az Nyt. 2. § (4) bekezdés b) pont ba) alpontja szerinti, az Összefogás az Államadósság Ellen Alapból átutalt pénzeszközöket az Alap a pénzügyi rendezés időpontjával egyéb bevételként számolja el.
+
+(14)[^91] Az Nyt. 2. § (4) bekezdés b) pont bb) alpontja szerinti, az Összefogás az Államadósság Ellen Alap megszűnésekor átadott vagyonát képező eszközök átadáskori könyv szerinti értékét az Alap az átadás időpontjával egyéb bevételként számolja el.
+
+(15)[^92] A (13)–(14) bekezdés szerinti pénzeszközöknek az államadósság csökkentésére az Alapból átutalt összegét az Alap a pénzügyi rendezés időpontjával egyéb ráfordításként számolja el.
+
+[^88]: A 20/B. §-t a 87/2011. (V. 31.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^89]: A 20/B. § (9) bekezdése a 342/2011. (XII. 29.) Korm. rendelet 39. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^90]: A 20/B. § (13) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^91]: A 20/B. § (14) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^92]: A 20/B. § (15) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 36. §-a iktatta be.

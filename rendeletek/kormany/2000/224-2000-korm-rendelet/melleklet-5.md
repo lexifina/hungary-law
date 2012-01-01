@@ -1,8 +1,4 @@
-## Az egyszerűsített éves beszámoló, illetve a közhasznú egyszerűsített éves beszámoló
-
-## mérlegének előírt tagolása a kettős könyvvitelt vezető egyéb szervezetnél,
-
-## illetve közhasznú egyéb szervezetnél
+## Az egyszerűsített éves beszámoló mérlegének előírt tagolása az egyéb szervezetnél
 
 ## ESZKÖZÖK (AKTÍVÁK)
 
@@ -58,4 +54,6 @@
 
 ## Források összesen
 
-5. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez
+5. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^103]
+
+[^103]: Az 5. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (4) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## Az egyszerűsített beszámoló eredménylevezetésének előírt tagolása az egyszeres könyvvitelt vezető egyéb szervezetnél
+## Az egyszerűsített beszámoló eredménylevezetésének előírt tagolása az egyéb szervezetnél
 
 ## Alaptevékenység Vállalkozási tevékenység Összesen
 
@@ -8,19 +8,11 @@
 
 ## ebből:
 
-## – támogatások
+## - tagdíj, alapítótól kapott befizetés
 
-## = alapítói
+## - támogatások
 
-## = központi költségvetési
-
-## = helyi önkormányzati
-
-## = egyéb
-
-## – tagdíj
-
-## – egyéb bevételek
+## - egyéb bevételek
 
 ## II. Pénzbevételt nem jelentő bevételek
 
@@ -34,18 +26,42 @@
 
 ## VI. Ráfordításként nem érvényesíthető kiadások
 
-## C. Tárgyévi pénzügyi eredmény (I–III–VI)
+## C. Tárgyévi pénzügyi eredmény (I-III-VI)
 
-## D. Nem pénzben realizált eredmény [II–(IV+V)]
+## D. Nem pénzben realizált eredmény [II-(IV+V)]
 
-## E. Adózás előtti eredmény (I+II)–(III+IV+V)
+## E. Adózás előtti eredmény (I+II)-(III+IV+V)
 
 ## F. Fizetendő társasági adó
 
-## G. Jóváhagyott osztalék
+## G. Adózott eredmény (E-F)
 
-## H. Tárgyévi eredmény (E–F–G)
+## H. Jóváhagyott osztalék
 
-3. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^69]
+## I. Tárgyévi eredmény (G-H)
 
-[^69]: A 3. számú melléklet a 289/2002. (XII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg, e módosító rendelet 6. § (2) bekezdése alapján a módosított rendelkezéseket a 2002. évi beszámoló készítése során is alkalmazni lehet.
+## Tájékoztató adatok
+
+## A. Központi költségvetési támogatás
+
+## B. Helyi önkormányzati költségvetési támogatás
+
+## C. Az Európai Unió strukturális alapjaiból, illetve a Kohéziós Alapból nyújtott támogatás
+
+## D. Normatív támogatás
+
+## E. A személyi jövedelamadó meghatározott részének adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény alapján kiutalt összeg
+
+## F. Közszolgáltatási bevétel
+
+## G. Végleges pénzbevételekből, elszámolt bevételekből a közhasznú tevékenység bevétele
+
+## H. Végleges pénzkiadásokból, elszámolt ráfordításokból a közhasznú tevékenység érdekében felmerült pénzkiadás, ráfordítás
+
+## I. Végleges pénzkiadásokból, elszámolt ráfordításokból a személyi jellegű ráfordítás (kiadás)
+
+## - ebből: vezető tisztségviselők juttatásai
+
+3. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^101]
+
+[^101]: A 3. számú mellékletet a 342/2011. (XII. 29.) Korm. rendelet 40. § 5. pontja hatályon kívül helyezte.
