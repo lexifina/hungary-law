@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-9-20-2M
 | --- | --- | --- |
 | 2009-05-02 | 2009-9-20-2M.2 | 9/2009. (III. 6.) KHEM rendelet |
 | 2010-09-30 | 2009-9-20-2M.3 | 10/2010. (IX. 29.) NFM rendelet |
+| 2012-01-01 | 2009-9-20-2M.4 | 91/2011. (XII. 30.) NFM rendelet |

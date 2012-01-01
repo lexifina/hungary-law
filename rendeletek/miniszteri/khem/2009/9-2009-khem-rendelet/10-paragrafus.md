@@ -46,7 +46,7 @@ c) vitorlás hajóra tett vizsga esetén vitorlás hajó vezetésére.
 
 (14) A 2009. május 1. napja előtt hatályos rendelkezéseknek megfelelő hajóskapitányi, hajóvezető „A” és hajóvezető „B” képesítés kiállítása, kiterjesztése, cseréje, pótlása 2009. május 1. napját követően kizárólag a 10. § (7), (9) és (12) bekezdésében foglalt rendelkezések alkalmazásával történhet és azok a 10. § (7), (9) és (12) bekezdésében megjelölt határidőt követően érvényüket veszítik.
 
-(15) A szolgálati célú nagyhajóra kiállított képesítés a vonalvizsgának megfelelően, de kizárólag a Magyar Köztársaság területére és az Európai Unió más tagállamával közös határvizekre érvényes.
+(15)[^5] A szolgálati célú nagyhajóra kiállított képesítés a vonalvizsgának megfelelően, de kizárólag Magyarország területére és az Európai Unió más tagállamával közös határvizekre érvényes.
 
 (16) Személyhajón, utasok szállítása esetén az utasok biztonságát szolgáló intézkedések végrehajtása érdekében a hajószemélyzet vagy a kiszolgáló személyzet tagjaként szolgálatot teljesítő személyhajózási szakértő, elsősegélynyújtó és légzőkészülék-kezelő személyeknek a hajón való tartózkodására és a szolgálat ellátásra vonatkozóan a Rendelet 2. mellékletében foglalt rendelkezéseket
 
@@ -56,9 +56,10 @@ b) a csak belföldi forgalomban résztvevő hajókra 2014. január 1-jétől
 
 ## kell alkalmazni.
 
-(17)[^5]
+(17)[^6]
 
 [^2]: Az 1–9. § e rendelet 10. § (3) bekezdése alapján hatályát vesztette.
 [^3]: A 10. § (10) bekezdés b) pontja a 10/2010. (IX. 29.) NFM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 10. § (11) bekezdést a 10/2010. (IX. 29.) NFM rendelet 2. §-a hatályon kívül helyezte.
-[^5]: A 10. § (17) bekezdése e rendelet 10. § (3) bekezdése alapján hatályát vesztette.
+[^5]: A 10. § (15) bekezdése a 91/2011. (XII. 30.) NFM rendelet 64. §-a szerint módosított szöveg.
+[^6]: A 10. § (17) bekezdése e rendelet 10. § (3) bekezdése alapján hatályát vesztette.
