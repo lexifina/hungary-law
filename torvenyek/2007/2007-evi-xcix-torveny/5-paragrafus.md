@@ -6,9 +6,7 @@
 
 (3) A kérelemnek tartalmaznia kell a 6. § (2) bekezdés a)–f) pontjaiban meghatározott adatokat.
 
-(4) Az európai területi társulás nyilvántartásba vételére irányuló hiányos kérelem benyújtása esetén a kérelem beérkezésétől számított tizenöt napon belül postára adott, vagy a kérelmezőnek átadott végzésben a bíróság megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett hiánypótlásra hívja fel a kérelmezőt. A hiánypótlásra megfelelő – legfeljebb harminc napos – határidőt kell biztosítani, amely kérelemre, indokolt esetben tizenöt nappal meghosszabbítható.
-
-A hiánypótlás késedelmes vagy hiányos teljesítése miatt igazolási kérelemnek nincs helye. Ha a hiánypótlási határidőt elmulasztották, vagy a hiánypótlást hiányosan, illetve hibásan terjesztették elő, a bíróság a kérelmet végzéssel elutasítja.
+(4) Az európai területi társulás nyilvántartásba vételére irányuló hiányos kérelem benyújtása esetén a kérelem beérkezésétől számított tizenöt napon belül postára adott, vagy a kérelmezőnek átadott végzésben a bíróság megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett hiánypótlásra hívja fel a kérelmezőt.
 
 (5) A bíróság az eljárást megszünteti, ha a nyilvántartásba vétel iránti kérelmet az ügy érdeméről döntő végzés meghozataláig a kérelmező visszavonja.
 

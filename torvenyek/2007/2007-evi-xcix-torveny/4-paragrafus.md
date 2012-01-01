@@ -8,9 +8,9 @@ a) az európai területi társulás tevékenysége vagy a kérelmező európai t
 
 b) az állam kivételével a Kbt. 22. § (1) bekezdés a) és b) pontja szerinti kérelmező nem rendelkezik hozzájárulással arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet,
 
-c) az országos kisebbségi önkormányzati költségvetési szerv, a helyi önkormányzati költségvetési szerv vagy a helyi kisebbségi önkormányzati költségvetési szerv kérelmező nem rendelkezik a képviselő-testület vagy közgyűlés hozzájárulásával arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet, vagy
+c) az országos nemzetiségi önkormányzati költségvetési szerv, a helyi önkormányzati költségvetési szerv vagy a helyi nemzetiségi önkormányzati költségvetési szerv kérelmező nem rendelkezik a képviselő-testület vagy közgyűlés hozzájárulásával arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet, vagy
 
-d) a helyi vagy kisebbségi önkormányzat kérelmező nem rendelkezik az európai területi társulásban való részvételről szóló képviselő-testületi, közgyűlési döntéssel.
+d) a helyi vagy nemzetiségi önkormányzat kérelmező nem rendelkezik az európai területi társulásban való részvételről szóló képviselő-testületi, közgyűlési döntéssel.
 
 (3) A Hatóság az (1) bekezdés szerinti jóváhagyással rendelkező szervezetek adatairól nyilvántartást vezet. A nyilvántartásban az alábbi adatok szerepelnek:
 
