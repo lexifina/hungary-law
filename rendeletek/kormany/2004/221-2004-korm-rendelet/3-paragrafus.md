@@ -10,11 +10,11 @@
 
 (3) A vízgyűjtő-gazdálkodási terv elkészítéséről a vízgazdálkodásért felelős miniszter (a továbbiakban: miniszter) gondoskodik. A miniszter irányításával
 
-a) a vízgyűjtő-gazdálkodási tervezési alegység tervét a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével, a vízgazdálkodási tanácsokról szóló külön jogszabály szerinti területi vízgazdálkodási tanács jóváhagyásával az 1. számú mellékletben meghatározott környezetvédelmi és vízügyi igazgatóság (a továbbiakban: KÖVIZIG),
+a)[^13] a vízgyűjtő-gazdálkodási tervezési alegység tervét a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével, a vízgazdálkodási tanácsokról szóló külön jogszabály szerinti területi vízgazdálkodási tanács jóváhagyásával az 1. számú mellékletben meghatározott Nemzeti Környezetügyi Intézet területi kirendeltsége,
 
-b) a részvízgyűjtő szintű tervet a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével, a vízgazdálkodási tanácsokról szóló külön jogszabály szerinti Részvízgyűjtő Vízgazdálkodási Tanács jóváhagyásával a miniszter által kijelölt KÖVIZIG,
+b)[^14] a részvízgyűjtő szintű tervet a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével, a vízgazdálkodási tanácsokról szóló külön jogszabály szerinti Részvízgyűjtő Vízgazdálkodási Tanács jóváhagyásával a miniszter által kijelölt Nemzeti Környezetügyi Intézet területi kirendeltsége,
 
-c) az országos szintű tervet a vízgazdálkodási tanácsokról szóló külön jogszabály szerinti Országos Vízgazdálkodási Tanács jóváhagyásával a Vízügyi és Környezetvédelmi Központi Igazgatóság (a továbbiakban: VKKI)
+c)[^15] az országos szintű tervet a vízgazdálkodási tanácsokról szóló külön jogszabály szerinti Országos Vízgazdálkodási Tanács jóváhagyásával a Nemzeti Környezetügyi Intézet
 
 állítja össze.
 
@@ -26,7 +26,7 @@ b) a részvízgyűjtőre vonatkozó vízgyűjtő-gazdálkodási tervet a Részv�
 
 c) a tervezési alegység vízgyűjtő-gazdálkodási tervet a Területi Vízgazdálkodási Tanácsnak küldi meg.
 
-(5) A (3) bekezdés c) pontja szerint elkészített tervet a miniszter – a vízgazdálkodásról szóló külön jogszabályban foglaltaknak megfelelően – rendeletben hirdeti ki.
+(5)[^16]
 
 (6) A vízgyűjtő-gazdálkodási terv tartalmazza különösen:
 
@@ -53,3 +53,7 @@ g) a felszín alatti vizek kémiai állapotának értékelését, beleértve ann
 (10) A vízgyűjtő-gazdálkodási terveket az egyéb szakterületi tervekkel – különös tekintettel a környezetvédelmi, természetvédelmi, tájhasználati és vidékfejlesztési tervekre – összhangban kell kialakítani.
 
 [^12]: A 3. § a 314/2008. (XII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 3. § (3) bekezdés a) pontja a 300/2011. (XII. 22.) Korm. rendelet 19. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdés b) pontja a 300/2011. (XII. 22.) Korm. rendelet 19. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 3. § (3) bekezdés c) pontja a 300/2011. (XII. 22.) Korm. rendelet 19. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^16]: A 3. § (5) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § i) pontja hatályon kívül helyezte.
