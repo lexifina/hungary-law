@@ -6,10 +6,10 @@
 
 (3) A tevékenységet lezáró beszámolóval egyidejűleg üzleti jelentést nem kell készíteni.
 
-(4)[^7] A gazdálkodó szervezet – kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt – a tevékenységet lezáró beszámolóra vonatkozó, a számviteli törvény 153–154. és 154/B. §-ában meghatározott letétbe helyezési és közzétételi kötelezettségének a tevékenységet lezáró beszámoló mérlegének (1) bekezdés szerinti fordulónapját követő 30 napon belül köteles eleget tenni.
+(4)[^6] A gazdálkodó szervezet – kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt – a tevékenységet lezáró beszámolóra vonatkozó, a számviteli törvény 153–154. és 154/B. §-ában meghatározott letétbe helyezési és közzétételi kötelezettségének a tevékenységet lezáró beszámoló mérlegének (1) bekezdés szerinti fordulónapját követő 30 napon belül köteles eleget tenni.
 
 (5) A zárómérleg a gazdálkodó szervezetnek az (1) bekezdés szerinti mérlegfordulónapon meglévő vagyoni eszközeinek és ezen eszközök forrásainak értékét a tevékenységet lezáró beszámoló mérlegében kimutatott mérleg szerinti eredménynek az eredménytartalékba történő átvezetése után mutatja.
 
 (6) A zárómérleg elkészítésével egy időben az alkalmazott könyvviteli számlákat, nyilvántartásokat – a számviteli törvény 164. §-a (1) bekezdésének megfelelően – a tevékenységet lezáró beszámoló mérlegfordulónapjával le kell zárni.
 
-[^7]: A 3. § (4) bekezdése a 398/2007. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 237/2009. (X. 20.) Korm. rendelet 6. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2009. október 28. napját követően kezdeményezett felszámolási eljárásokra kell alkalmazni.
+[^6]: A 3. § (4) bekezdése a 398/2007. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 237/2009. (X. 20.) Korm. rendelet 6. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2009. október 28. napját követően kezdeményezett felszámolási eljárásokra kell alkalmazni.
