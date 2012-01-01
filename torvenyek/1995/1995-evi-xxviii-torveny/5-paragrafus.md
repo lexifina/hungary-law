@@ -2,7 +2,7 @@
 
 5. § (1) A nemzeti szabvány olyan szabvány, amelyet a nemzeti szabványügyi szervezet alkotott meg, vagy fogadott el, és tett a nyilvánosság számára hozzáférhetővé.
 
-(2) A nemzetközi és az európai szabványokat szabványként közzétenni a Magyar Köztársaságban csak nemzeti szabványként lehet.
+(2) A nemzetközi és az európai szabványokat szabványként közzétenni Magyarországon csak nemzeti szabványként lehet.
 
 (3) A nemzeti szabvány nem lehet jogszabállyal ellentétes.
 
