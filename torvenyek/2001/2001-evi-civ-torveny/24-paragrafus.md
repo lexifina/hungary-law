@@ -6,14 +6,14 @@
 
 (3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen felülvizsgálati indítvány benyújtására az ügyész – a jogi személlyel szemben intézkedés alkalmazása érdekében hat hónapon belül – és a jogi személy képviselője jogosult.
 
-(4) A Legfelsőbb Bíróság a megtámadott határozat jogi személyre vonatkozó rendelkezését hatályon kívül helyezi, és a korábban eljárt bíróságot új eljárásra utasítja, ha
+(4) A Kúria a megtámadott határozat jogi személyre vonatkozó rendelkezését hatályon kívül helyezi, és a korábban eljárt bíróságot új eljárásra utasítja, ha
 
 a) a másodfokú bíróság ügydöntő határozatát az (1) bekezdésben írt jogszabálysértéssel hozta,
 
 b) a (2) bekezdés alapján azon vádlott esetében, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, hatályon kívül helyező rendelkezést hozott.
 
-(5) A Legfelsőbb Bíróság maga is hozhat a törvénynek megfelelő határozatot, ha a jogi személlyel szemben alkalmazott intézkedés mellőzésének van helye.
+(5) A Kúria maga is hozhat a törvénynek megfelelő határozatot, ha a jogi személlyel szemben alkalmazott intézkedés mellőzésének van helye.
 
-(6) A (4) bekezdés b) pontja esetén az ítélet jogi személyre vonatkozó rendelkezését nem kell hatályon kívül helyezni, ha a Be. 427. §-ának (1) bekezdése alapján a Legfelsőbb Bíróság maga hoz a törvénynek megfelelő határozatot.
+(6) A (4) bekezdés b) pontja esetén az ítélet jogi személyre vonatkozó rendelkezését nem kell hatályon kívül helyezni, ha a Be. 427. §-ának (1) bekezdése alapján a Kúria maga hoz a törvénynek megfelelő határozatot.
 
 (7) Nincs helye felülvizsgálatnak az (1) bekezdés esetén, ha az ügyben harmadfokú bíróság hozott ügydöntő határozatot.
