@@ -8,7 +8,7 @@ c) bányászatban végzett munka esetén a Magyar Bányászati és Földtani Hiv
 
 d) villamosenergia-iparban végzett munka esetén a Magyar Kereskedelmi Engedélyezési Hivatalnak a munkahely szerint illetékes szerve
 
-szakhatóságként vesz részt.
+## szakhatóságként vesz részt.
 
 (2)[^11] A szakhatóság az állásfoglalását – a 4. § (3) bekezdésének a)–b) pontjában foglaltak vizsgálatára figyelemmel – harminc napon belül adja meg.
 
