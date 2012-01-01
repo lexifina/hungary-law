@@ -30,13 +30,13 @@ Katonai öltözetek típusai viselésük szerint
 
 A hadi- (gyakorló-) ruházat általános (harckocsizó), ejtőernyős, repülőszerelő (repülőműszaki) és repülőhajózó öltözetekre tagozódik.
 
-5.[^1] A köznapi öltözet – ha más öltözet nincs elrendelve – a hivatásos és a szerződéses tiszti, tiszthelyettesi állomány, továbbá a hallgatók ruházata a szolgálati tevékenységük ellátása során.
+5.[^1] A köznapi öltözet – ha más öltözet nincs elrendelve – a hivatásos, szerződéses és önkéntes tartalékos állomány, továbbá a hallgatók ruházata a szolgálati tevékenységük ellátása során.
 
 A köznapi ruházat általános, légierő által viselt és hadihajós öltözetekre tagolódik.
 
-6.[^2] Ünnepi öltözetet visel a tiszti és tiszthelyettesi állomány tagja, valamint a hallgató a laktanyán belül és kívül ünnepi állománygyűlések, katonai rendezvények, külföldi katonai küldöttségek fogadása, baráti és nyugdíjas találkozók, valamint kulturális események alkalmával.
+6.[^2] Ünnepi öltözetet visel a hivatásos és szerződéses tiszt és tiszthelyettes, valamint a hallgató, viselheti a szerződéses legénységi és az önkéntes tartalékos állomány a laktanyán belül és kívül ünnepi állománygyűlések, katonai rendezvények, külföldi katonai küldöttségek fogadása, baráti és nyugdíjas találkozók, valamint kulturális események alkalmával.
 
-Ezt az öltözetet viseli a hallgató állomány nemzeti és állami ünnepeken, kiemelkedő társadalmi és ünnepélyes katonai rendezvényeken, ha a sorakozás (felvonulás) fegyver és haditechnika nélkül történik, valamint az elöljáró által meghatározott alkalommal, katonai temetésen, illetve viselheti jelentősebb családi eseményeken (házasságkötés, keresztelő stb.).
+Ezt az öltözetet viseli a hallgató, valamint viselheti a szerződéses legénységi és az önkéntes tartalékos állomány nemzeti és állami ünnepeken, kiemelkedő társadalmi és ünnepélyes katonai rendezvényeken, ha a sorakozás (felvonulás) fegyver és haditechnika nélkül történik, valamint az elöljáró által meghatározott alkalommal, katonai temetésen, illetve viselheti jelentősebb családi eseményeken (házasságkötés, keresztelő stb.).
 
 Az ünnepi ruházat általános, légierő által viselt és hadihajós öltözetekre tagolódik.
 
@@ -998,7 +998,7 @@ k)[^55] a nemzetközi műveletekben résztvevő katonai szervezet állománya so
 
 Köznapi öltözet
 
-46.[^56] Az öltözetet a hivatásos és a szerződéses tiszti, tiszthelyettesi állomány, valamint a hallgató viseli a napi szolgálati tevékenysége során (a hallgatók tantermi foglalkozások alkalmával) – ha más öltözetet nem rendeltek el –, továbbá ügyeleti szolgálatban, ha annak jellege nem teszi szükségessé a hadi- (gyakorló-) öltözetet.
+46.[^56] Az öltözetet viseli a hivatásos és a szerződéses tiszti, tiszthelyettesi, viselheti a szerződéses legénységi és az önkéntes tartalékos állomány a napi szolgálati tevékenysége során, valamint viseli a hallgató tantermi foglalkozások alkalmával, ha más öltözetet nem rendeltek el, továbbá ügyeleti szolgálatban, ha annak jellege nem teszi szükségessé a hadi- (gyakorló-) öltözetet.
 
 A)[^57] Az általános köznapi öltözetet viselő katona és hallgatói állomány
 
@@ -1770,9 +1770,9 @@ y)[^79] a főtiszt, tiszt, zászlós, tiszthelyettes és tisztes egészségügyi
 
 Ünnepi öltözet
 
-47.[^80] Ünnepi öltözetet visel a tiszti és tiszthelyettesi állomány tagja, valamint a hallgató a laktanyán belül és kívül ünnepi állománygyűlések, katonai rendezvények, külföldi katonai küldöttségek fogadása, baráti és nyugdíjas találkozók, valamint kulturális események alkalmával.
+47.[^80] Ünnepi öltözetet visel a tiszti, tiszthelyettesi, viselheti a szerződéses legénységi és az önkéntes tartalékos állomány, valamint viselheti a hallgató a laktanyán belül és kívül ünnepi állománygyűlések, katonai rendezvények, külföldi katonai küldöttségek fogadása, baráti és nyugdíjas találkozók, valamint kulturális események alkalmával.
 
-Ezt az öltözetet viseli a hallgatói állomány nemzeti és állami ünnepeken, kiemelkedő társadalmi és ünnepélyes katonai rendezvényeken, ha a sorakozás (felvonulás) fegyver és haditechnika nélkül történik, valamint az elöljáró által meghatározott alkalommal, katonai temetésen, illetve viselheti jelentősebb családi eseményeken (házasságkötés, keresztelő stb.).
+Ezt az öltözetet viseli a hallgatói, viselheti a szerződéses legénységi és az önkéntes tartalékos állomány nemzeti és állami ünnepeken, kiemelkedő társadalmi és ünnepélyes katonai rendezvényeken, ha a sorakozás (felvonulás) fegyver és haditechnika nélkül történik, valamint az elöljáró által meghatározott alkalommal, katonai temetésen, illetve viselheti jelentősebb családi eseményeken (házasságkötés, keresztelő stb.).
 
 A)[^81] Az általános ünnepi öltözetet viselő katona és hallgatói állomány
 
@@ -5132,8 +5132,8 @@ VIII. Fejezet
 
 151. A gyakorló, a köznapi, az ünnepi, a társasági, az estélyi, a díszelgő, valamint a sportöltözet körébe tartozó ruházati cikkek viselésének szabályozását, rendszeresítését, a rendszerből történő kivonását, a kihordás alatt lévő öltözetek és ruházati cikkek viselésének szabályozását a HM Honvéd Vezérkar főnök javaslata alapján a honvédelmi miniszter végzi.
 
-[^1]: A melléklet 5. pontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg. Az 5. pontban a „hivatásos és a szerződéses tiszti, tiszthelyettesi állomány” szövegrész helyébe „hivatásos, szerződéses és önkéntes tartalékos állomány” szöveg lép a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés a) pontja alapján [ez utóbbi módosító rendelet 40. § (2) bekezdése alapján 2012. január 1-jén lép hatályba].
-[^2]: A melléklet 6. pontja 42/2005. (XI. 29.) HM rendelet 1. §-a, a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg. A 6. pontban a „tiszti és tiszthelyettesi állomány tagja, valamint a hallgató” szövegrész helyébe „hivatásos és szerződéses tiszt és tiszthelyettes, valamint a hallgató, viselheti a szerződéses legénységi és az önkéntes tartalékos állomány”, „hallgató állomány” szövegrész helyébe „hallgató, valamint viselheti a szerződéses legnységi és az önkéntes tartalékos állomány” szöveg lép a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés b) pontja alapján [ez utóbbi módosító rendelet 40. § (2) bekezdése alapján 2012. január 1-jén lép hatályba].
+[^1]: A melléklet 5. pontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A melléklet 6. pontja 42/2005. (XI. 29.) HM rendelet 1. §-a, a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^3]: A melléklet 7. pontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
 [^4]: A melléklet 8. pontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
 [^5]: A melléklet 9. pontjának első mondata a 12/2008. (V. 29.) HM rendelet 1. §-ával megállapított szöveg. A melléklet 9. pontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
@@ -5187,7 +5187,7 @@ VIII. Fejezet
 [^53]: A melléklet 45. pont F) pontjának g) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (13) bekezdésével megállapított szöveg.
 [^54]: A melléklet 45. F) pontjának j) alpontját a 12/2008. (V. 29.) HM rendelet 5. § (6) bekezdése iktatta be.
 [^55]: A melléklet 45. F) pont k) alpontját a 21/2009. XII. 29.) HM rendelet 9. § (2) bekezdése iktatta be.
-[^56]: [A melléklet 46. pont nyitó szövegrészének a 21/2009. (XII. 29.) HM rendelet 10. §-ával megállapított, a 40. § (2) bekezdése alapján 2012. január 1-jétől hatályos szövege: „46. Az öltözetet viseli a hivatásos és a szerződéses tiszti, tiszthelyettesi, viselheti a szerződéses legénységi és az önkéntes tartalékos állomány a napi szolgálati tevékenysége során, valamint viseli a hallgató tantermi foglalkozások alkalmával, ha más öltözetet nem rendeltek el, továbbá ügyeleti szolgálatban, ha annak jellege nem teszi szükségessé a hadi- (gyakorló-) öltözetet.”.]
+[^56]: A melléklet 46. pont nyitó szövegrésze a 21/2009. (XII. 29.) HM rendelet 10. §-ával megállapított szöveg.
 [^57]: A melléklet 46. A) pont bevezető szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés d) pontja szerint módosított szöveg.
 [^58]: A melléklet 46. B) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 6. § (1) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés e) pontja szerint módosított szöveg.
 [^59]: A melléklet 46. B) pont a) alpontja a 21/2009. (XII. 29.) HM rendelet 11. § (1) bekezdésével megállapított szöveg.
@@ -5211,7 +5211,7 @@ VIII. Fejezet
 [^77]: A melléklet 46. pont D) pontjának w) alpontját a 42/2005. (XI. 29.) HM rendelet 6. § (2) bekezdése iktatta be, szövege a 21/2009. (XII. 29.) HM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^78]: A melléklet 46. D) pontjának x) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (6) bekezdése iktatta be.
 [^79]: A melléklet 46. D) pontjának y) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (6) bekezdése iktatta be, szövege a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés m) pontja szerint módosítot szöveg.
-[^80]: A melléklet 47. pont bevezető szövegrésze a 42/2005. (XI. 29.) HM rendelet 7. §-a szerint módosított szöveg. A 47. pont bevezető szövegrészében a „tiszti és tiszthelyettesi állomány tagja, valamint a hallgató” szövegrész helyébe „tiszti, tiszthelyettesi, viselheti a szerződéses legénységi és az önkéntes tartalékos állomány, valamint viselheti a hallgató”, „hallgatói állomány” szövegrész helyébe „hallgatói, viselheti a szerződéses legénységi és az önkéntes tartalékos állomány” szöveg lép a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés n) pontja alapján [ez utóbbi módosító rendelet 40. § (2) bekezdése alapján 2012. január 1-jén lép hatályba].
+[^80]: A melléklet 47. pont bevezető szövegrésze a 42/2005. (XI. 29.) HM rendelet 7. §-a, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés n) pontja szerint módosított szöveg.
 [^81]: A melléklet 47. A) pont bevezető szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés o) pontja szerint módosított szöveg.
 [^82]: A melléklet 47. B) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 7. § (1) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés p) pontja szerint módosított szöveg.
 [^83]: A melléklet 47. B) pont a) alpontja a 21/2009. (XII. 29.) HM rendelet 13. §-ával megállapított szöveg.
