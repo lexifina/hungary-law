@@ -8,7 +8,7 @@ c) a támogatási kérelmek formai és tartalmi szempontból történő ellenőr
 
 d) döntés a támogatási kérelmek továbbításáról az Európai Bizottság részére,
 
-e) a támogatási kérelmeknek az Európai Bizottság írásbeli felhívására a Magyar Köztársaság mint érintett tagállam képviseletében történő benyújtása az Európai Bizottsághoz; amennyiben a kérelmeket a jövőbeni kedvezményezett közvetlenül nyújtja be, azokat a végrehajtó hatóság jóváhagyásképpen igazoló ellenjegyzéssel látja el,
+e)[^2] a támogatási kérelmeknek az Európai Bizottság írásbeli felhívására Magyarország mint érintett tagállam képviseletében történő benyújtása az Európai Bizottsághoz; amennyiben a kérelmeket a jövőbeni kedvezményezett közvetlenül nyújtja be, azokat a végrehajtó hatóság jóváhagyásképpen igazoló ellenjegyzéssel látja el,
 
 f) gondoskodás a TEN-T támogatásból finanszírozott projektek éves költségvetési tervezéséről, a szakmai felelőssel való folyamatos tervegyeztetésről, a kedvezményezettől kapott információk és a támogatási határozat alapján,
 
@@ -33,3 +33,5 @@ o) a monitoring rendszer működtetése,
 p) éves pénzügyi jelentések megküldése az Európai Bizottság részére,
 
 q) a Kormány tájékoztatása a TEN-T támogatási igények benyújtását, valamint az Európai Bizottság támogatási határozatának kézhezvételét követően 1 hónapon belül.
+
+[^2]: A 4. § e) pontja a 304/2011. (XII. 23.) Korm. rendelet 21. §-a szerint módosított szöveg.

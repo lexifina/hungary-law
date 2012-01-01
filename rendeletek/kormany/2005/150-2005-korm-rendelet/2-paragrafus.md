@@ -26,7 +26,7 @@
 
 11. saját erő: a kedvezményezett által a projekt végrehajtásához nyújtott pénzügyi hozzájárulás;
 
-12. szabálytalanság: a TEN-T projektek végrehajtására nyújtott támogatás felhasználása során a vonatkozó nemzetközi szerződésekben, valamint a hatályos közösségi és hazai jogszabályokban foglalt előírások, illetve a támogatási határozatban, a szerződésekben vállalt kötelezettségek megsértése, amelyek eredményeképpen az Európai Közösségek vagy a Magyar Köztársaság pénzügyi érdekei sérülhetnek;
+12.[^1] szabálytalanság: a TEN-T projektek végrehajtására nyújtott támogatás felhasználása során a vonatkozó nemzetközi szerződésekben, valamint a hatályos közösségi és hazai jogszabályokban foglalt előírások, illetve a támogatási határozatban, a szerződésekben vállalt kötelezettségek megsértése, amelyek eredményeképpen az Európai Közösségek vagy Magyarország pénzügyi érdekei sérülhetnek;
 
 13. szakmai felelős: a TEN-T támogatásban részesülő kedvezményezettnek államigazgatási szakterületi felügyeletét ellátó szervezet. Amennyiben a GKM a kedvezményezett, a két feladatkör egybeesik;
 
@@ -45,3 +45,5 @@
 20. TEN-T előírások: az Európai Parlament és a Tanács 1692/96/EK határozata (1996. július 23.) a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról, és annak módosításai (a tengeri kikötők, belvízi kikötők és a kombinált árufuvarozási terminálok, valamint a III. Melléklet 8. projektje tekintetében az 1692/96/EK határozat módosításáról szóló, 2001. május 22-i 1346/2001/EK európai parlamenti és tanácsi határozat; a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány; a transzeurópai közlekedési hálózat fejlesztésére vonatkozó közösségi iránymutatásokról szóló 1692/96/EK határozat módosításáról szóló, 2004. április 29-i 884/2004/EK európai parlamenti és tanácsi határozat);
 
 21. végrehajtó hatóság: a GKM felelős szervezeti egysége.
+
+[^1]: A 2. § 12. pontja a 304/2011. (XII. 23.) Korm. rendelet 21. §-a szerint módosított szöveg.
