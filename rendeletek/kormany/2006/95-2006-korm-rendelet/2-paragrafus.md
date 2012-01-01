@@ -30,10 +30,11 @@ l) veszélyes anyagokkal kapcsolatos súlyos baleset: olyan mértékű veszélye
 
 m) veszélyes katonai objektum: egy adott honvédségi üzemeltető irányítása alatt álló, katonai célból üzemeltetett azon terület egésze, ahol egy vagy több veszélyes katonai objektum-részben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen az 1. mellékletben meghatározott küszöbértéket elérő mennyiségben;
 
-n) veszélyes tevékenység: a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény (a továbbiakban: Kat.) 3. § y) pontja szerinti tevékenység;
+n)[^3] veszélyes tevékenység: a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 31. pontja szerinti tevékenység;
 
-o)[^3] veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes katonai objektum környezetében az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) által kijelölt, az egyéni sérülés kockázatához igazodó terület.
+o)[^4] veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes katonai objektum környezetében a hivatásos katasztrófavédelmi szerv központi szerve által kijelölt, az egyéni sérülés kockázatához igazodó terület.
 
 [^1]: A 2. § d) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 23. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^2]: A 2. § e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 23. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^3]: A 2. § o) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 198. pontja szerint módosított szöveg.
+[^3]: A 2. § n) pontja a 219/2011. (X. 20.) Korm. rendelet 52. § (1) bekezdése szerint módosított szöveg.
+[^4]: A 2. § o) pontja a 219/2011. (X. 20.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.

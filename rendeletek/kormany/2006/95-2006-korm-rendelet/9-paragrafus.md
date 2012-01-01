@@ -4,7 +4,7 @@
 
 9. § (1) A honvédségi üzemeltető az 5. §-ban felsorolt engedélyek megszerzéséhez az 1. melléklet alapján azonosítja a veszélyes katonai objektumot, majd biztonsági jelentést, illetve biztonsági elemzést készít és nyújt be a veszélyes katonai objektum felügyeleti hatósághoz.
 
-(2)[^10] A veszélyes katonai objektum felügyeleti hatósági eljárások elektronikus úton nem intézhetők.
+(2)[^13] A veszélyes katonai objektum felügyeleti hatósági eljárások elektronikus úton nem intézhetők.
 
 (3) A biztonsági jelentést a 2. melléklet, a biztonsági elemzést a 3. mellékletben meghatározottak szerinti tartalommal kell elkészíteni.
 
@@ -30,4 +30,4 @@ bb) a lehetséges veszélyes anyagokkal kapcsolatos súlyos balesetek kialakulá
 
 bc) a veszélyes katonai objektum veszélyhelyzeti tevékenysége és az elhárításban érintett felelős személyek, szervezetek, azok felkészültsége és felszereltsége.
 
-[^10]: A 9. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 461. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 9. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 461. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

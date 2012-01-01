@@ -1,6 +1,6 @@
 ## A veszélyes katonai objektum felügyeleti hatóság feladatai
 
-4. § (1)[^7] A Kormány a veszélyes katonai objektum felügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel
+4. § (1)[^10] A Kormány a veszélyes katonai objektum felügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel
 
 a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
 
@@ -24,4 +24,4 @@ f) a veszélyes anyagokkal kapcsolatos súlyos balesetek, illetve rendkívüli e
 
 (3) A veszélyes katonai objektum felügyeleti hatóság hatósági jogkörének gyakorlása során csak a jogszabályoknak van alárendelve, a hatósági ügyekben hozandó döntésében nem utasítható.
 
-[^7]: A 4. § (1) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: A 4. § (1) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

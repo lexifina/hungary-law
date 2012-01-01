@@ -1,4 +1,4 @@
-5. melléklet a 95/2006. (IV. 18.) Korm. rendelethez[^27]
+5. melléklet a 95/2006. (IV. 18.) Korm. rendelethez[^29]
 
 ## Veszélyes katonai objektum üzemeltetési engedélyezése iránti kérelem adattartalma
 
@@ -18,4 +18,4 @@
 
 8. Keltezés, a kérelmező cégszerű aláírása.
 
-[^27]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 461. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 461. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
