@@ -26,7 +26,7 @@ i) az örökhagyó egyenes ági rokona (ideértve az örökbefogadáson alapuló
 
 (2c) Ha a maximális beépíthetőség az illetékkötelezettség keletkezésének időpontjában és a használatbavételi engedély kiadásának időpontjában eltérő, a kettő közül a vagyonszerzőre összességében kedvezőbbet kell figyelembe venni.
 
-(2d) Ha a lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakul, a lakóház felépítésére az ingatlant megszerző jogutód köteles.
+(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítésére az ingatlant megszerző jogutód, örökös köteles. Ebben az esetben a lakóház felépítését a jogutód, örökös nevére szóló használatbavételi engedély igazolja.
 
 (3) Ha az öröklés útján megszerzett képző-, ipar-, népművészeti alkotást, muzeális tárgyat, gyűjteményt vagy ennek egy részét az örökös az államnak, a helyi önkormányzatnak, vagy felsőoktatási intézménynek felajánlja, és a felajánlást elfogadják, az örökös mentesül a felajánlott ingóörökségre eső öröklési illeték alól. A teljes öröklési illeték alól mentesül az örökös, ha a felajánlott és elfogadott ingóörökség értéke eléri az ugyanabból a hagyatékból származó valamennyi örökségét terhelő illeték összegét.
 

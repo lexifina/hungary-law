@@ -18,7 +18,7 @@ d) gépjármű, illetőleg pótkocsi tulajdonjogának, vagyoni értékű jogána
 
 e) közterületen álló, ingatlannak nem minősülő felépítmény tulajdonjogának, vagyoni értékű jogának megszerzése;
 
-f) az önálló orvosi tevékenység működtetési jogának megszerzése;
+f) az önálló orvosi tevékenység praxisjogának megszerzése;
 
 g) az értékpapír öröklési szerződéssel való megszerzése;
 

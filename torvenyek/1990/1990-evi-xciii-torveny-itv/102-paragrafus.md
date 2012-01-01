@@ -8,7 +8,7 @@ b) ingatlan:a föld és a földdel alkotórészi kapcsolatban álló minden dolo
 
 c) ingó: a fizetőeszköz, az értékpapír, a gazdálkodó szervezetben fennálló vagyoni betét, valamint mindaz, ami ingatlannak nem minősülő dolog;
 
-d) vagyoni értékű jog: a földhasználat, a haszonélvezet, a használat joga – ideértve a szövetkezeti háztulajdonra vonatkozó rendelkezések szerinti használati jogokat –, továbbá a vagyonkezelői jog, az önálló orvosi tevékenység működtetési joga, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
+d) vagyoni értékű jog: a földhasználat, a haszonélvezet, a használat joga – ideértve a szövetkezeti háztulajdonra vonatkozó rendelkezések szerinti használati jogokat –, továbbá a vagyonkezelői jog, az önálló orvosi tevékenység praxisjoga, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
 
 e) forgalmi érték: az a pénzben kifejezett érték, amely a vagyontárgy eladása esetén az illetékkötelezettség keletkezésekor volt állapotában – a vagyontárgyat terhelő adósságok, továbbá az ingatlanon a vagyonszerző javára az elidegenítéskor megszűnő bérleti jog figyelembevétele nélkül – árként általában elérhető, azzal, hogy:
 
@@ -56,7 +56,7 @@ sz) kisvállalkozás: az az egyéni cég, illetve gazdasági társaság, amelyn�
 
 t) vállalkozói vagyon: minden olyan üzleti célt szolgáló ingatlan (termőföld, telek, épület, egyéb építmény), ingó vagyon (műszaki berendezés, gép, jármű, üzemi és üzleti felszerelés, egyéb berendezés), továbbá az ilyen vagyonra vonatkozó haszonélvezeti jog, amelyet a kisvállalkozó kizárólag a vállalkozói tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősül vállalkozói vagyonnak a személygépkocsi, a lakástulajdon (tulajdoni hányad), valamint az ezekre vonatkozó vagyoni értékű jog.
 
-v) alapítvány (közalapítvány): magánszemély, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság által tartós közérdekű célra alapított, az alapítvány székhelye szerint illetékes megyei (fővárosi) bíróság által nyilvántartásba vett szervezet;
+v) alapítvány (közalapítvány): magánszemély, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság által tartós közérdekű célra alapított, az alapítvány székhelye szerint illetékes törvényszék által nyilvántartásba vett szervezet;
 
 w) közigazgatási hatósági eljárás: a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hatósági ügy, a Polgári Törvénykönyvről szóló törvény szerinti eredeti birtokállapot helyreállítására vagy a birtokállapot zavarásának megszüntetésére irányuló eljárás, valamint minden olyan eljárás, amelyre a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései irányadók, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés.
 

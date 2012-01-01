@@ -6,7 +6,7 @@ a) olyan, ingatlanok tulajdonjogának értékesítését (a továbbiakban: ingat
 
 b) Pénzügyi Szervezetek Állami Felügyelete által kiadott engedély alapján pénzügyi lízinget folytató vállalkozó
 
-és legkésőbb a fizetési meghagyás jogerőre emelkedéséig nyilatkozatban vállalja, hogy az ingatlant az illetékkiszabásra történő bejelentéstől számított két éven belül eladja, illetve a futamidő végén tulajdonjog átszállást eredményező pénzügyi lízingbe adja.
+és legkésőbb a fizetési meghagyás jogerőre emelkedéséig nyilatkozatban vállalja, hogy az ingatlant az illetékkiszabásra történő bejelentéstől számított két éven belül eladja, illetve a futamidő végén tulajdonjog átszállást eredményező pénzügyi lízingbe adja. A vállalkozó nem teljesíti az illetékkedvezmény e bekezdés szerinti feltételét az ingatlan 26. § (1) bekezdés t) pontja szerinti átruházásával.
 
 (2) A Pénzügyi Szervezetek Állami Felügyeletének engedélyével működő ingatlanalap az (1) bekezdésben meghatározott illetéket fizeti ingatlanszerzése után.
 

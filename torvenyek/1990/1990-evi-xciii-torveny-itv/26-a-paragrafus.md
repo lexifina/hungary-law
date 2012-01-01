@@ -2,7 +2,7 @@
 
 a) a magánszemély a tulajdonában (résztulajdonában) haszonélvezetében vagy használatában álló, természeti katasztrófa következtében megsemmisült lakást életvitelszerűen lakásaként használta, nincs másik lakástulajdona, másik lakástulajdonban 50%-ot elérő tulajdoni hányada, illetve másik lakástulajdonon fennálló haszonélvezeti, használati joga, valamint
 
-b) a megsemmisült lakástulajdon pótlására 6 millió forintot meg nem haladó forgalmi értékű lakástulajdont (ilyen értékű lakástulajdonban tulajdoni hányadot) vásárol, vagy visszterhesen ilyen lakástulajdonon haszonélvezet, használat jogát szerzi meg, és ezt a vagyonszerzést legkésőbb a másik lakástulajdona megsemmisülését követő év március 31-ig illetékkiszabásra bejelenti.
+b) a megsemmisült lakástulajdon pótlására 10 millió forintot meg nem haladó forgalmi értékű lakástulajdont (ilyen értékű lakástulajdonban tulajdoni hányadot) vásárol, vagy visszterhesen ilyen lakástulajdonon haszonélvezet, használat jogát szerzi meg, és ezt a vagyonszerzést legkésőbb a másik lakástulajdona megsemmisülését követő év március 31-ig illetékkiszabásra bejelenti.
 
 (2) Az (1) bekezdés b) pontjában említett tulajdoni hányad megszerzése esetén az illetékmentesség csak akkor alkalmazható, ha annak aránya nem haladja meg a vagyonszerzőnek a megsemmisült lakástulajdonra vonatkozó tulajdoni hányadát.
 

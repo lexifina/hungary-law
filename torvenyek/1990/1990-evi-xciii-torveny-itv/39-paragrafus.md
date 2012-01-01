@@ -10,16 +10,16 @@
 
 a) a helyi bíróság előtt a peres eljárásban 350 000 forint, a nemperes eljárásban 200 000 forint;
 
-b) a Fővárosi Bíróság és a megyei bíróság előtt:
+b) a törvényszék előtt:
 
-– első fokon indult peres eljárásban 450 000 forint, nemperes eljárásban pedig 250 000 forint,
+– első fokon indult peres eljárásban 600 000 forint, nemperes eljárásban pedig 350 000 forint,
 
 – fellebbezési eljárásban, peres eljárás esetén 300 000 forint, nemperes eljárásban pedig 170 000 forint,
 
 c) az ítélőtábla előtt fellebbezési eljárásban, peres eljárás esetén 600 000 forint, nemperes eljárásban 300 000 forint;
 
-d) a Legfelsőbb Bíróság előtt:
+d) a Kúria előtt:
 
 – fellebbezési eljárásban 500 000 forint,
 
-– felülvizsgálati eljárásban 600 000 forint.
+– felülvizsgálati eljárásban 700 000 forint.

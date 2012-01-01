@@ -10,7 +10,7 @@
 
 3. a közérdekű bejelentés, javaslat és a panasz elbírálására irányuló eljárás;
 
-4. a születéssel, a házasságkötéssel, az örökbefogadással, tartással, gondozással és a halálesettel kapcsolatos, továbbá a nemzeti és etnikai kisebbségek anyakönyvi adatainak első ízben történő kijavításával kapcsolatos eljárás, kivéve
+4. a születéssel, a házasságkötéssel, az örökbefogadással, tartással, gondozással és a halálesettel kapcsolatos, továbbá a nemzetiségek anyakönyvi adatainak első ízben történő kijavításával kapcsolatos eljárás, kivéve
 
 a) a magyar állampolgár, illetőleg Magyarországon lakó hontalan külföldön történő házasságkötéséhez szükséges irat;
 
@@ -40,7 +40,7 @@ e) a szülők házassági anyakönyvi kivonatának a gyermek születésének any
 
 f) az elhunyt születési és házassági anyakönyvi kivonatának a haláleset anyakönyvezéséhez;
 
-g) a nemzeti és etnikai kisebbségek jogairól szóló törvény alapján kijavított anyakönyvi adatokról az érdekelt részére első ízben;
+g) a nemzetiségek jogairól szóló törvény alapján kijavított anyakönyvi adatokról az érdekelt részére első ízben;
 
 történik a kiállítása;
 
@@ -64,7 +64,7 @@ történik a kiállítása;
 
 14. a munkaviszony, szövetkezeti tagsági viszony létesítéséhez, igazolásához szükséges irat ;
 
-15. foglalkoztatáspolitika körébe tartozó juttatások (munkanélküli segély, járadék, átképzési támogatás stb.) igénybevételével, nyugdíjazással kapcsolatos eljárások és az eljáráshoz szükséges iratok;
+15. foglalkoztatáspolitika körébe tartozó juttatások (munkanélküli segély, járadék, átképzési támogatás stb.) , a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék és az átmeneti bányászjáradék igénybevételével, nyugdíjazással kapcsolatos eljárások és az eljáráshoz szükséges iratok;
 
 16. a kitüntetés adományozásával, viselésének engedélyezésével kapcsolatos eljárás;
 
@@ -80,7 +80,7 @@ történik a kiállítása;
 
 22. a költségmentesség engedélyezése iránti eljárás, valamint a költségmentesség feltételei fennállásának igazolásához kiállított irat;
 
-23. az adó és járulék ügyben az adóhatóságnál, vámigazgatási ügyben a vámhatóságnál, kezdeményezett első fokú eljárás – ideértve más hatóság adó, adó jellegű kötelezettség megállapításával kapcsolatos ilyen eljárását is –, kivéve a méltányossági eljárást, a fizetési könnyítésre (halasztás, részletfizetés) irányuló eljárást, továbbá az adó-, a vám-, az illeték- és a társadalombiztosítási kötelezettség teljesítéséről szóló igazolás kiadása, valamint az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
+23. az adó és járulék ügyben az adóhatóságnál, vámigazgatási ügyben a vámhatóságnál kezdeményezett első fokú eljárás – ideértve más hatóság adó, adó jellegű kötelezettség megállapításával kapcsolatos ilyen eljárását is –, kivéve a fizetési könnyítésre, illetve az adómérséklésre irányuló eljárást, továbbá az adó-, a vám-, az illeték- és a társadalombiztosítási kötelezettség teljesítéséről szóló igazolás kiadása, valamint az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
 
 24. a birtokösszevonási célú önkéntes földcsere megszervezése iránt az ingatlanügyi hatóságnál kezdeményezett eljárás, valamint a kárpótlási eljárás, a részaránytulajdonnal kapcsolatos eljárás és az ilyen eljárásokhoz szükséges irat, továbbá a kisajátítási eljárás;
 
@@ -104,10 +104,16 @@ történik a kiállítása;
 
 34. a Pénzügyi Szervezetek Állami Felügyeletének fogyasztóvédelmi eljárása;
 
-35. a fogyasztóvédelmi hatóság fogyasztóvédelmi eljárása;
+35. a fogyasztóvédelmi hatóság első fokú fogyasztóvédelmi eljárása;
 
 36. az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás;
 
 36. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
 
-37. az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás.
+37. az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás,
+
+37. A hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára kiállított közokirat,
+
+38. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás.
+
+38. a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás.

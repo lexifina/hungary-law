@@ -48,9 +48,13 @@ r) – a (16) bekezdésben foglaltakra figyelemmel – az építésügyi szabál
 
 s) a termőföldről szóló törvény 3. §-a u) pontjának 2. alpontjában meghatározott mezőgazdasági termelők által gazdaságátadási támogatás igénybevétele érdekében a közeli hozzátartozóval [Ptk. 685. § b) pont] megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése;
 
-t) ingatlannak, valamint a belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozások közötti átruházása. Ingatlan átruházása esetén az illetékmentesség akkor alkalmazható, ha az illetékfizetési kötelezettség keletkezése időpontjában a vagyonszerző főtevékenysége ingatlanforgalmazás, vagy saját tulajdonú ingatlan bérbeadása;
+t) ingatlannak, valamint a belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozások közötti átruházása. Ingatlan átruházása esetén az illetékmentesség akkor alkalmazható, ha az illetékkötelezettség keletkezése időpontjában a vagyonszerző főtevékenysége ingatlanforgalmazás, vagy saját tulajdonú ingatlan bérbeadása;
 
-u) a magánszemély lakásvásárlása, amennyiben az a szociálisan rászorult természetes személy hiteladósok lakhatásának biztosításáról szóló törvény által rögzített vételi jog érvényesítésével történik.
+u) a magánszemély lakásvásárlása, amennyiben az a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvényben meghatározott visszavásárlási jog érvényesítésével történik.
+
+v) az egyéni cég egyszemélyes korlátolt felelősségű társasággá való átalakulása keretében történő vagyonszerzés;
+
+w) a kizárólag elektromos hajtómotorral ellátott gépjármű tulajdonjogának, illetve ilyen gépjárműre vonatkozó vagyoni értékű jognak a megszerzése.
 
 (2a) Az (1) bekezdés a) pontjában említett lakóház felépítését a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) lejártát megelőzően kiadott használatba vételi engedély igazolja, feltéve, ha az utóbb változatlan tartalommal – ide nem értve a kijavítással érintett részeket – jogerőre emelkedik. Az igazolás kiadása érdekében a határidő elteltét követő 15 napon belül az állami adóhatóság megkeresi az ingatlan fekvése szerint illetékes építésügyi hatóságot. Ha a határidő lejártáig az építésügyi hatóság a vagyonszerző nevére használatba vételi engedélyt adott ki, amely még nem emelkedett jogerőre, az építésügyi hatóság erről a tényről tájékoztatja, majd a használatba vételi engedély kiadására irányuló hatósági eljárás jogerős befejezéséről külön értesíti az állami adóhatóságot. Egyidejűleg közli, hogy a jogerős használatbavételi engedély – a kijavítással érintett részeket figyelmen kívül hagyva – tartalmában megegyezik-e a határidő lejárta előtt kiadott használatbavételi engedéllyel. Amennyiben az építésügyi hatóság igazolása szerint a lakóházra a vagyonszerző nevére szóló, a határidő leteltét megelőzően kiadott használatbavételi engedély változatlan tartalommal – ide nem értve a kijavítással érintett részeket – jogerőre emelkedett, az állami adóhatóság a megállapított, de a megfizetés tekintetében felfüggesztett illetéket törli. Törli az állami adóhatóság az illetéket akkor is, ha a határidőn belül a vagyonszerző a nevére szóló jogerős használatbavételi engedéllyel igazolja a lakóház felépítését.
 
@@ -58,7 +62,7 @@ u) a magánszemély lakásvásárlása, amennyiben az a szociálisan rászorult 
 
 (2c) Ha a maximális beépíthetőség az illetékkötelezettség keletkezésének időpontjában és a használatbavételi engedély kiadásának időpontjában eltérő, a kettő közül a vagyonszerzőre összességében kedvezőbbet kell figyelembe venni.
 
-(2d) Ha a lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakul, a lakóház felépítésére az ingatlant megszerző jogutód köteles.
+(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítésére az ingatlant megszerző jogutód, örökös köteles. Ebben az esetben a lakóház felépítését a jogutód, örökös nevére szóló használatbavételi engedély igazolja.
 
 (3) Ha az (1) bekezdés j) pontjában említett csereingatlan a kisajátítottnál értékesebb, vagy ha a megszerzett ingatlan forgalmi értéke a kártalanítási összeget, illetőleg ennek a vevőre eső arányos részét meghaladja, az illetékmentesség a többletre nem terjed ki.
 
@@ -82,7 +86,7 @@ b) a gépjármű-forgalmazást a nyilatkozattétel adóévében kezdő vállalko
 
 (11) Abban az esetben, ha a 23/A. § szerinti kedvezményes illetékmérték alkalmazására egyébként jogosult vagyonszerző valamely ingatlan szerzésével kapcsolatban az (1) bekezdés a) pontjában meghatározott nyilatkozatot tesz, ezen illetékkötelezettségére a továbbiakban kizárólag e nyilatkozathoz kapcsolódó rendelkezések vonatkoznak. Ilyen esetben erre a vagyonszerzésre a 23/A. § rendelkezései nem alkalmazhatók.
 
-(12) Mentes a visszterhes vagyonátruházási illeték alól az önálló orvosi tevékenység működtetési jogának megszerzése, ha az átruházó az önálló orvosi tevékenységről szóló törvény erejénél fogva, az említett törvény hatálybalépésétől volt jogosult a működtetési jog alapján végezhető tevékenység gyakorlására. Az illetékmentességre való jogosultságot az önálló orvosi tevékenység működtetési jogát szerző magánszemélynek kell igazolnia.
+(12) Mentes a visszterhes vagyonátruházási illeték alól az önálló orvosi tevékenység praxisjogának megszerzése, ha az átruházó az önálló orvosi tevékenységről szóló törvény erejénél fogva, az említett törvény hatálybalépésétől volt jogosult az önálló orvosi tevékenység gyakorlására. Az illetékmentességre való jogosultságot az önálló orvosi tevékenység praxisjogát szerző magánszemélynek kell igazolnia.
 
 (13) Az (1) bekezdés f) pontjában meghatározott mentesség, illetve kedvezmény feltételeinek teljesülését – amennyiben az az adásvételi szerződésből nem állapítható meg – a vagyonszerzőnek kell az állami adóhatóságnál a vállalkozó e feltételek teljesüléséről szóló nyilatkozatával igazolni legkésőbb a fizetési meghagyás jogerőre emelkedéséig.
 

@@ -104,15 +104,19 @@ IX. Egyes okmányok kiadásával kapcsolatos eljárások illetéke
 
 I. Az úti okmányok kiadásával kapcsolatos eljárás illetéke
 
-1.
+1. A magánútlevél, a szolgálati és hajós szolgálati útlevél kiadásának illetéke 7500 forint, ha a magánútlevél érvényességi ideje 10 év, 14 000 forint. A kérelem benyújtásának időpontjában 18. életévét be nem töltött személy és a 70. életévét betöltött személy magánútlevelének, az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, valamint a menekültként elismert személyek kétnyelvű úti okmánya kiadásának illetéke 2500 forint.
 
-2. A magánútlevél, a szolgálati és hajós szolgálati útlevél kiadásának illetéke 7500 forint, ha a magánútlevél érvényességi ideje 10 év, 14 000 forint. A kérelem benyújtásának időpontjában 18. életévét be nem töltött személy és a 70. életévét betöltött személy magánútlevelének, az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, valamint a menekültként elismert személyek kétnyelvű úti okmánya kiadásának illetéke 2500 forint.
+2. A második magánútlevél kiadásának illetéke az 1. pontban meghatározott mértékek kétszerese.
 
-3. A második magánútlevél kiadásának, valamint a magánútlevél soron kívüli kiadásának illetéke a 2. pontban meghatározott mértékek kétszerese.
+3. A magánútlevél, valamint a második magánútlevél soron kívüli kiállításáért az 1–2. pontban meghatározott mértékű illetéket, valamint jogszabályban meghatározott igazgatási szolgáltatási pótdíjat kell fizetni.
 
-4. A határátlépési engedély kiadásának illetéke 1500 forint.
+4. A magánútlevél, valamint a második magánútlevél sürgősségi kiállításáért az 1–2. pontban meghatározott mértékű illetéket, valamint jogszabályban meghatározott igazgatási szolgáltatási pótdíjat kell fizetni.
 
-5. Illetékmentes:
+5. A magánútlevél, valamint a második magánútlevél azonnali kiállításáért az 1–2. pontban meghatározott mértékű illetéket, valamint jogszabályban meghatározott igazgatási szolgáltatási pótdíjat kell fizetni.
+
+6. A határátlépési engedély kiadásának illetéke 1500 forint.
+
+7. Illetékmentes
 
 a) a diplomata-útlevél,
 
@@ -122,11 +126,13 @@ c) a határátlépési igazolvány,
 
 d) az úti okmány cseréje, amennyiben arra azért kerül sor, mert az úti okmány biometrikus azonosítót tartalmazó tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat.
 
-6. Az elveszett, megsemmisült, továbbá – az 5. pont d) alpontjában meghatározott eset kivételével – a megrongálódott és utazásra alkalmatlanná vált úti okmány helyett kiállított új úti okmány kiadásának illetéke a 2–4. pontban meghatározott illeték kétszerese.
+8. Az elveszett, megsemmisült, továbbá – a 7. pont d) alpontjában meghatározott eset kivételével – a megrongálódott és utazásra alkalmatlanná vált úti okmány helyett kiállított új úti okmány kiadásának illetéke az 1–2., valamint 6. pontban meghatározott illeték kétszerese.
 
-7. Az úti okmányban történő idegen nyelvű bejegyzésért – az 1–4. pontban foglalt illetéken felül – 2000 forint illetéket kell fizetni.
+9. Az elveszett, megsemmisült, továbbá – a 7. pont d) alpontjában meghatározott eset kivételével – a megrongálódott és utazásra alkalmatlanná vált magánútlevél és második magánútlevél helyett soron kívüli, sürgősségi, illetve azonnali eljárás keretében kiállított új úti okmány kiadásáért az 1–2. pontban meghatározott illeték kétszeresének megfelelő illetéket és jogszabályban meghatározott mértékű igazgatási szolgáltatási pótdíjat kell fizetni.
 
-8. Az útlevél-hatósági eljárásban benyújtott fellebbezés illetéke 5000 forint.
+10. Az úti okmányban történő idegen nyelvű bejegyzésért – az 1. és 2. pontban meghatározott illetéken felül – 2000 forint illetéket kell fizetni.
+
+11. Az útlevél kiállítására irányuló hatósági eljárásban benyújtott fellebbezés illetéke 5000 forint.
 
 II. Személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával kapcsolatos eljárás illetéke
 
@@ -138,7 +144,7 @@ a) a 14. életévét be nem töltött polgár személyazonosító igazolványa i
 
 b) a 70. életévét betöltött polgár személyazonosító igazolvány iránti kérelme, ha útlevéllel vagy kártyaformátumú vezetői engedéllyel nem rendelkezik.
 
-3. Illetékmentes a személyazonosító igazolvány kiadásához szükséges – jogszabályban meghatározott – anyakönyvi kivonat kiállítása.
+3.
 
 4. A személyi azonosítót és a lakcímet igazoló hatósági igazolvány illetéke – ha az eljárás a személyi azonosítót vagy a lakcímet nem érintő adatváltozás miatt indult – 500 forint.
 
@@ -174,7 +180,7 @@ X. Anyakönyvi és névváltoztatási eljárás
 
 2. A születési név megváltoztatására irányuló kérelem illetéke 10 000 forint. Az egy családhoz tartozó nagykorúak közös kérelme esetében az illetéket minden nagykorúnak külön-külön kell megfizetni.
 
-3. Az anyakönyvi ügyekért felelős miniszter által megváltoztatott név ismételt megváltoztatására irányuló kérelem illetéke 30 000 forint.
+3. Az anyakönyvi ügyekért felelős miniszter által megváltoztatott név ismételt megváltoztatására irányuló kérelem illetéke 50 000 forint.
 
 4. A magyar állampolgár vagy Magyarországon élő hontalan személy, vagy a magyar menekültügyi hatóság által menekültként elismert személy külföldön történő házasságkötéséhez annak tanúsításáért, hogy házasságkötésének a magyar jog szerint nincs akadálya, 5000 forint illetéket kell fizetni.
 
@@ -240,7 +246,7 @@ ce) egyéb építési tevékenység esetén 50 m2-ként 10 000 forint,
 
 cf) antennák, antennatartó szerkezetek, csatlakozó műtárgyak esetén, az eljárás tárgyát képező távközlési építmény legnagyobb lineáris méretét figyelembe véve, megkezdett méterenként 50 000 forint,
 
-cg) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény IV. fejezete szerinti veszélyes ipari üzemhez vagy veszélyes létesítményhez tartozó építmény építése, bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 50 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 30 000 forint,
+cg) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény IV. fejezete szerinti veszélyes anyagokkal foglalkozó üzemhez vagy veszélyes létesítményhez tartozó építmény építése, bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 50 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 30 000 forint, de legfeljebb 3 000 000 forint.
 
 d) módosított építési engedélyezés esetén a módosítással érintett építményrész tekintetében az alapeljárás illetékével egyező mértékű,
 
@@ -308,9 +314,7 @@ Ingatlan tulajdonjogának a külön jogszabály szerinti külföldi jogi vagy te
 
 XXI. A hatósági bizonyítvány kiállítása iránti eljárás illetéke
 
-1. A hatósági bizonyítvány kiállítása 2000 forint illeték alá esik. Ha egy beadványban több hatósági bizonyítványt kérnek, az első példány után 2000 forint, minden további, az első példánnyal azonos tartalmú hatósági bizonyítvány után 600 forint illetéket kell fizetni.
-
-2. Ha egy eljárásban több ügyfél vesz részt, a hatósági bizonyítványért az 1. pont alapulvételével annyi illetéket kell fizetni, mint amennyi akkor járna, ha mindegyik ügyfél ügyében külön eljárás folyna. Ez a rendelkezés nem alkalmazható a 31. § (5) bekezdésének első mondatában meghatározott eljárás esetén.
+1–2.
 
 3. Az anyakönyvi kivonat kiállítása iránti eljárás illetéke – kivonatonként – 2000 forint.
 

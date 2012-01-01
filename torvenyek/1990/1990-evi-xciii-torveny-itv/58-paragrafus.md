@@ -12,6 +12,8 @@ d) ha a felek az első tárgyaláson egyezséget kötnek;
 
 e) ha a felek a per megszüntetését az első tárgyaláson közösen kérik.
 
+f) ha a bíróság az eljárást megindító beadványt idézés kibocsátása – nemperes eljárás esetén érdemi vizsgálat, cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása – nélkül, hivatalból elutasítja, vagy a pert a Pp. 157. §-a a) pontja alapján megszünteti.
+
 (2) Az illeték a peres eljárás illetékének 30%-a, ha az első tárgyalást követően az eljárás szüneteléssel vagy a felperes keresetétől való elállása folytán szűnik meg, illetőleg a per megszüntetését a felek közösen kérik.
 
 (3) Az illeték a peres eljárás illetékének 50%-a, ha az egyezségkötésre az első tárgyalást követően kerül sor. Ha a felek az első tárgyalást követően külön törvényben szabályozott közvetítői eljárásban vettek részt, és ezt követően a bíróság az egyezséget jóváhagyja, az egyébként fizetendő peres eljárás illetékek 50%-ának a közvetítő általános forgalmi adóval növelt díjával, de legfeljebb 50 000 forinttal csökkentett összegét kell megfizetni, feltéve ha a közvetítői eljárást törvény nem zárja ki; a fizetendő illeték mértéke azonban ebben az esetben sem lehet kevesebb a peres eljárás illetékének 30%-ánál.

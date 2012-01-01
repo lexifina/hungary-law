@@ -8,4 +8,4 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 (3) Ha a hagyatéki eljárást sem hivatalból, sem kérelemre nem kell megindítani, a közjegyző a hozzá beterjesztett hagyatéki kimutatást az illetékes állami adóhatóságnak továbbítja.
 
-(4) Az önálló orvosi tevékenység működtetési jogának folytatását az erre jogosult személy a korábbi jogosult halálától számított 60 napon belül köteles – a vagyonszerzést rögzítő irat eredeti és másolati példányának benyújtásával – illetékkiszabásra az állami adóhatósághoz bejelenteni. A másolatot az állami adóhatóság illetékmentesen hitelesíti.
+(4) Az önálló orvosi tevékenység praxisjogának folytatását az erre jogosult személy a korábbi jogosult halálától számított 60 napon belül köteles – a vagyonszerzést rögzítő irat eredeti és másolati példányának benyújtásával – illetékkiszabásra az állami adóhatósághoz bejelenteni. A másolatot az állami adóhatóság illetékmentesen hitelesíti.
