@@ -38,7 +38,7 @@ Nevezett jogosult:
 
 4. Az állami, helyi önkormányzati és magántulajdonban (kezelésben) lévő ipari, illetve erdő- és mezőgazdasági területeken térképezést, térképellenőrzést végezni.
 
-5. A földmérési szakigazgatási szervezetek, továbbá a vízügyi igazgatóságok térképészeti anyagaiba betekinteni, és az adatokat a katonai térképezési munkákhoz kikérni.
+5.[^23] A földmérési szakigazgatási szervezetek, továbbá a vízügyi igazgatóságok és a Nemzeti Környezetügyi Intézet térképészeti anyagaiba betekinteni, és az adatokat a katonai térképezési munkákhoz kikérni.
 
 6. A személyi átadó-átvevő nyilvántartó könyvében felsorolt minősített iratok terepre szállítására.
 
@@ -58,5 +58,8 @@ országos rendőrfőkapitány
 
 a Határőrség országos parancsnoka
 
+n
+
 [^21]: Lásd: 1997. MK 22. szám 1574. oldal.
 [^22]: Lásd: 1997. MK 22. szám 1574. oldal.
+[^23]: A 4. melléklet 5. pontja a 147/2011. (XII. 23.) VM rendelet 5. §-a szerint módosított szöveg.

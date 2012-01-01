@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-21-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2003-09-06 | 1997-21-20-11.4 | 21/1997. (III. 12.) FM–HM együttes rendelet |
+| 2012-01-01 | 1997-21-20-11.5 | 147/2011. (XII. 23.) VM rendelet |
