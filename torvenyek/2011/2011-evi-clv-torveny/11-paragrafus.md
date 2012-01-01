@@ -1,0 +1,3 @@
+11. § (1) A hozzájárulásra kötelezettnek a szakképzési hozzájárulás bevallási, befizetési és elszámolási kötelezettsége e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az Art. rendelkezéseit kell alkalmazni.
+
+(2) Az (1) bekezdésben foglalt ellenőrzés végrehajtásának céljából a gazdasági kamara közvetlen hozzáférési lehetőséget biztosít az állami adóhatóság részére az általa vezetett, a szakképzésről szóló törvényben meghatározott, a gyakorlati képzés szervezésére jogosult hozzájárulásra kötelezettekről, valamint a tanulószerződésekről vezetett nyilvántartásaihoz.

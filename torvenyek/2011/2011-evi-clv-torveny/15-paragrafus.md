@@ -1,0 +1,1 @@
+15. § Az alaprész pénzeszközeiből támogatás nyújtható a szakképzésről szóló törvényben meghatározott tanulószerződés kötésére jogosult egyéb szerv, szervezet részére, az általa kötött tanulószerződés alapján folytatott gyakorlati képzésre a 12. § b) pontjában meghatározott keretösszeg mértékéig.
