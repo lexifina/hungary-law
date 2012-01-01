@@ -1,6 +1,6 @@
 ## Közigazgatási hatóság kötelezése eljárás lefolytatására
 
-2. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott esetben, ha a közigazgatási hatóság az eljárási kötelezettségének nem tesz eleget, a megyei bíróság kérelemre – az iratoknak a bírósághoz való érkezését követő harminc napon belül – nemperes eljárásban végzéssel kötelezi a közigazgatási hatóságot az eljárás lefolytatására.
+2. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott esetben, ha a közigazgatási hatóság az eljárási kötelezettségének nem tesz eleget, a törvényszék kérelemre – az iratoknak a bírósághoz való érkezését követő harminc napon belül – nemperes eljárásban végzéssel kötelezi a közigazgatási hatóságot az eljárás lefolytatására.
 
 (2) A kérelemnek tartalmaznia kell azt is, hogy
 

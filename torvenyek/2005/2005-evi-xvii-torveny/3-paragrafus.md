@@ -1,6 +1,6 @@
 ## Közigazgatási végzés bírósági felülvizsgálata
 
-3. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint bírósági felülvizsgálattal megtámadható végzés ellen benyújtott kérelem tárgyában a megyei bíróság – ha az ügyben hozott határozat felülvizsgálata a munkaügyi bíróság hatáskörébe tartozik, a munkaügyi bíróság – nemperes eljárásban végzéssel határoz.
+3. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint bírósági felülvizsgálattal megtámadható végzés ellen benyújtott kérelem tárgyában a törvényszék – ha az ügyben hozott határozat felülvizsgálata a munkaügyi bíróság hatáskörébe tartozik, a munkaügyi bíróság – nemperes eljárásban végzéssel határoz.
 
 (2) A bíróság a feleket a szükségeshez képest meghallgathatja.
 
