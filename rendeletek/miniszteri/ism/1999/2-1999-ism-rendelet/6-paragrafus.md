@@ -14,7 +14,7 @@ d) meghatározza a támogatások kedvezményezettjeivel kötendő szerződések 
 
 e) közreműködik az ellenőrzési és értékelési feladatokban,
 
-f) az Alapprogram működésének tapasztalatai és értékelése alapján javaslatot tesz a miniszternek a 2. § (2) bekezdésében meghatározott célok keretei között az éves prioritásokra, az éves költségvetési törvény tervezésével összhangban a költségvetési keretösszegre,
+f) az Alapprogram működésének tapasztalatai és értékelése alapján javaslatot tesz a miniszternek a 2. § (2) bekezdésében meghatározott célok keretei között az éves prioritásokra, az éves központi költségvetésről szóló törvény tervezésével összhangban a költségvetési keretösszegre,
 
 g) kapcsolatot tart és egyeztet a hasonló célú támogatásokat nyújtó döntéshozó testületekkel,
 

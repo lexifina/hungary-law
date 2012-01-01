@@ -28,7 +28,7 @@ hc) Nagycsaládosok Országos Egyesülete,
 
 hd) Magyar Cserkészszövetség
 
-i)[^26] azon egyházak, illetőleg felekezetek által közösen jelölt két személy, amely egyházak, illetőleg felekezetek a Magyar Köztársaság területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben hitéleti, illetőleg nem hitéleti célú oktatást, nevelést és képzést biztosító köz- és akkreditált belföldi felsőoktatási intézményekkel rendelkeznek.
+i)[^26] azon egyházak, illetőleg felekezetek által közösen jelölt két személy, amely egyházak, illetőleg felekezetek a Magyarország területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben hitéleti, illetőleg nem hitéleti célú oktatást, nevelést és képzést biztosító köz- és akkreditált belföldi felsőoktatási intézményekkel rendelkeznek.
 
 (2)[^27] Az (1) bekezdés a)–f) pontjaiban szereplő szervek képviselőit az illetékes miniszter, az (1) bekezdés g)–i) pontjaiban szereplő személyeket a szervezet képviseletét ellátó (testület) személy jelöli a miniszter megkeresése alapján.
 
@@ -46,7 +46,7 @@ i)[^26] azon egyházak, illetőleg felekezetek által közösen jelölt két sze
 [^23]: A 7. § (1) bekezdés e) pontja a 21/2011. (V. 12.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^24]: A 7. § (1) bekezdés f) pontja a 21/2011. (V. 12.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^25]: A 7. § (1) bekezdés h) pontja a 21/2011. (V. 12.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^26]: A 7. § (1) bekezdésének i) pontja a 29/2007. (XII. 11.) SZMM rendelet 1. §-ával megállapított szöveg.
+[^26]: A 7. § (1) bekezdésének i) pontja a 29/2007. (XII. 11.) SZMM rendelet 1. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 17. § a) pontja szerint módosított szöveg.
 [^27]: A 7. § (2) bekezdése a 8/2006. (XII. 27.) SZMM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^28]: A 7. § (3) bekezdése a 6/2002. (V. 8.) ISM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 6. §-ának (3) bekezdése alapján a rendelkezéseit 2002. május 13. napját követően megbízott személyekre kell alkalmazni.
 [^29]: A 7. § (4) bekezdése a 21/2011. (V. 12.) NEFMI rendelet 10. § c) pontja szerint módosított szöveg.

@@ -14,7 +14,7 @@ cc) Magyar Cserkészszövetség;
 
 d)[^38]
 
-e)[^39] azon egyházak, illetőleg felekezetek által közösen jelölt három személy, amely egyházak, illetőleg felekezetek a Magyar Köztársaság területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben hitéleti, illetőleg nem hitéleti célú oktatást, nevelést és képzést biztosító köz- és akkreditált belföldi felsőoktatási intézményekkel rendelkeznek;
+e)[^39] azon egyházak, illetőleg felekezetek által közösen jelölt három személy, amely egyházak, illetőleg felekezetek Magyarország területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben hitéleti, illetőleg nem hitéleti célú oktatást, nevelést és képzést biztosító köz- és akkreditált belföldi felsőoktatási intézményekkel rendelkeznek;
 
 f) a miniszter képviseletében két személy;
 
@@ -31,7 +31,7 @@ g)[^40] a régióban működő ifjúsági információs és tanácsadó irodák 
 [^36]: A 9. § a 29/2007. (XII. 11.) SZMM rendelet 2. §-ával megállapított szöveg.
 [^37]: A 9. § (1) bekezdés c) pontja a 21/2011. (V. 12.) NEFMI rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^38]: A 9. § (1) bekezdés d) pontját a 21/2011. (V. 12.) NEFMI rendelet 11. § e) pontja hatályon kívül helyezte.
-[^39]: A 9. § (1) bekezdés e) pontja a 21/2011. (V. 12.) NEFMI rendelet 10. § d) pontja szerint módosított szöveg.
+[^39]: A 9. § (1) bekezdés e) pontja a 77/2011. (XII. 30.) NEFMI rendelet 17. § a) pontja szerint módosított szöveg.
 [^40]: A 9. § (1) bekezdés g) pontját a 21/2011. (V. 12.) NEFMI rendelet 6. § (2) bekezdése iktatta be.
 [^41]: A 9. § (4) bekezdése a 21/2011. (V. 12.) NEFMI rendelet 11. § f) pontja szerint módosított szöveg.
 [^42]: A 9. § (5) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 3. § d) pontja szerint módosított szöveg.
