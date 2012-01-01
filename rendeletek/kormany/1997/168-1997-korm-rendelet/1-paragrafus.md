@@ -1,25 +1,24 @@
 ## Hatáskör, illetékesség[^1]
 
-1. §[^2] (1)[^3] Ha jogszabály másként nem rendelkezik, a társadalombiztosítási nyugellátások, valamint a nyugdíjbiztosítási igazgatási szervek feladat- és hatáskörébe tartozó egyéb ellátások megállapításával kapcsolatos hatósági ügyekben első fokon
+1. §[^2] (1) A társadalombiztosítási nyugellátások, valamint a nyugdíjbiztosítási igazgatási szervek feladat- és hatáskörébe tartozó egyéb ellátások megállapításával kapcsolatos hatósági ügyekben – a (2) és a (3) bekezdésben vagy más jogszabályban foglalt kivételekkel – első fokon az igénylő lakóhelye, illetve a foglalkoztató vagy egyéb szerv székhelye (telephelye) szerint illetékes nyugdíjbiztosítási igazgatóság jár el.
 
-a) ha hozzátartozói nyugellátás esetén az elhunyt jogszerző saját jogú nyugellátásban részesült, ide nem értve a rehabilitációs járadékot, vagy ha az elhunyt jogán hozzátartozói nyugellátás megállapítására már sor került – a Nyugdíjfolyósító Igazgatóság,
+(2) A Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság jár el első fokon a társadalombiztosítási nyugellátások, valamint a nyugdíjbiztosítási igazgatási szervek feladat- és hatáskörébe tartozó egyéb ellátások megállapításával kapcsolatos hatósági ügyekben – a (3) bekezdésben vagy más jogszabályban foglalt kivételekkel –, ha
 
-b) az a) pontban nem említett esetben az igénylő lakóhelye, illetve a foglalkoztató vagy egyéb szerv székhelye (telephelye) szerint illetékes nyugdíjbiztosítási igazgatóság
+a) a hatósági ügy a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozik,
 
-jár el.
+b) a nyugellátást vagy más ellátást szociális biztonsági (szociálpolitikai) egyezmény alkalmazásával kell megállapítani,
 
-(2)[^4] A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó hatósági ügyekben, a szociális biztonsági (szociálpolitikai) egyezmények alapján járó nyugellátás megállapításával kapcsolatos hatósági ügyekben, valamint a külföldön élő vagy tartózkodó személy esetén a nyugellátás megállapításával kapcsolatos hatósági ügyekben első fokon
+c) a kérelmező magyarországi lakóhellyel nem rendelkezik,
 
-a) – ha hozzátartozói nyugellátás esetén az elhunyt jogszerző a magyar jogszabályok szerint saját jogú nyugellátásban részesült, ide nem értve a rehabilitációs járadékot, vagy ha az elhunyt jogán hozzátartozói nyugellátás megállapítására már sor került – a Nyugdíjfolyósító Igazgatóság,
+d) az öregségi nyugdíjra jogosult személy, illetve hozzátartozói nyugellátás esetén az elhunyt jogszerző utolsó biztosítással járó jogviszonya fegyveres szervvel, a Magyar Honvédséggel vagy a Katonai Nemzetbiztonsági Szolgálattal fennállt szolgálati viszony volt, vagy
 
-b) az a) pontban nem említett esetben a Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság
+e) fegyveres szerv hivatásos állományú tagjának, volt tagjának a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 19. §-a alapján rögzített nyugdíjat kell megállapítani (a továbbiakban: nyugdíjrögzítés).
 
-jár el.
+(3) A Nyugdíjfolyósító Igazgatóság jár el első fokon a hozzátartozói nyugellátások megállapításával kapcsolatos hatósági ügyekben, ha
 
-(3)[^5] A szolgálati viszonyban álló személyek nyugdíjügyében a külön jogszabály szerinti eseteken túl akkor is a Magyar Honvédség, illetve az Információs Hivatal nyugdíj-megállapító szerve jár el, ha a Magyarországon megszerzett szolgálati időt megelőzően az igénylő szociális biztonsági (szociálpolitikai) egyezménnyel érintett országban szerzett szolgálati idejét is figyelembe kell venni.
+a) az elhunyt jogszerző öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesült, kivéve, ha a jogosult a hozzátartozói nyugellátás összegét a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 18. § (3) bekezdése alapján kéri megállapítani, vagy
+
+b) az elhunyt jogszerző után hozzátartozói nyugellátás megállapítására már sor került.
 
 [^1]: Az 1. §-t megelőző alcím a 327/2006. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § a 327/2006. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 12. § (2) bekezdése alapján a rendelkezést a 2006. december 31-ét követő időponttól megállapított ellátások, valamint az ezen időpontot követő adatszolgáltatás esetén kell alkalmazni.
-[^3]: Az 1. § (1) bekezdése a 354/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § (2) bekezdése a 354/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. § (3) bekezdése a 172/2009. (VIII. 29.) Korm. rendelet 1. §-ával megállapított, a 273/2010. (XII. 9.) Korm. rendelet – 354/2010. (XII. 30.) Korm. rendelet 23. §-ával módosított – 86. §-a, a 21/2011. (III. 2.) Korm. rendelet 16. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 14. § (2) bekezdése alapján a 2011. március 3-án folyamatban lévő ügyekben is alkalmazni kell. A jogutódlás tekintetében lásd ez utóbbi módosító rendelet 14. § (1) bekezdését.
+[^2]: Az 1. § a 333/2011. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.

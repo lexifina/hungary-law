@@ -1,3 +1,3 @@
-72. §[^147]
+72. §[^130]
 
-[^147]: A 72. §-t a 365/2007. (XII. 23.) Korm. rendelet 18. § (1) bekezdése a) pontjának af) alpontja hatályon kívül helyezte.
+[^130]: A 72. §-t a 365/2007. (XII. 23.) Korm. rendelet 18. § (1) bekezdése a) pontjának af) alpontja hatályon kívül helyezte.

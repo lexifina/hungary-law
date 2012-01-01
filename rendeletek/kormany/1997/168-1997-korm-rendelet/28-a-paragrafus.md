@@ -1,6 +1,3 @@
-28/A. §[^72] (1) Ha a baleseti rokkantsági nyugdíjat a Tny. 36 § (2) bekezdés alkalmazásával kell újból megállapítani, a korábbi és az újabb üzemi balesetre irányadó átlagkeresetek meghatározásánál a figyelembe vehető keresetet, jövedelmet az újbóli megállapítás időpontjában hatályos rendelkezések (Tny. 13., 17., 22. §-ok) szerint kell meghatározni. Az így meghatározott kedvezőbb átlagkeresetből megállapított baleseti rokkantsági nyugdíjhoz az emelés az újabb megállapítás időpontjától jár.
+28/A. §[^52]
 
-(2)[^73] Az (1) bekezdés alkalmazásával kell a baleseti járadékot is az újabb üzemi baleset esetén megállapítani. A baleseti járadék újabb üzemi baleset alapján történő megállapításánál – ha az kedvezőbb – a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról rendelkező 217/1997. (XII. 1.) Korm. rendelet 36/A. §-ának (1) bekezdése alkalmazásával kell az összeget meghatározni.
-
-[^72]: A 28/A. §-t a 234/1998. (XII. 30.) Korm. rendelet 12. §-a iktatta a szövegbe. Újonnan a 28/A. § a 229/2000. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^73]: A 28/A. § (2) bekezdésének utolsó mondatát a 269/2001. (XII. 21.) Korm. rendelet 3. §-a iktatta a szövegbe, rendelkezéseit e módosító rendelet 26. § (1) bekezdése alapján a 2001. 12. 31-ét követő időponttól megállapításra (megszüntetésre) kerülő ellátásokra, illetőleg követelésekre, valamint az említett időpontot követő adatszolgáltatásokra és a folyamatban lévő ügyekben is alkalmazni kell.
+[^52]: A 28/A. §-t a 234/1998. (XII. 30.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja.

@@ -1,6 +1,6 @@
-12. §[^30] (1) A Tny. 18. § (2b)–(2c) bekezdése szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett jogosultsági időnek
+12. §[^21] (1) A Tny. 18. § (2b)–(2c) bekezdése szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett jogosultsági időnek
 
-a)[^31] az 1997. december 31-ét követően a Tbj. 5. § (1) bekezdés a), b) és e)–i) pontjában, valamint (2)–(3) bekezdésében meghatározott jogviszonyban – ideértve az alkalmi munkavállalói könyvvel történő foglalkoztatást, az egyszerűsített foglalkoztatást és a Tbj. 1998. január 1-je és 1999. december 31-e között hatályos 7. § (2) bekezdése szerinti biztosítási időt is –;
+a)[^22] az 1997. december 31-ét követően a Tbj. 5. § (1) bekezdés a), b) és e)–i) pontjában, valamint (2)–(3) bekezdésében meghatározott jogviszonyban – ideértve az alkalmi munkavállalói könyvvel történő foglalkoztatást, az egyszerűsített foglalkoztatást és a Tbj. 1998. január 1-je és 1999. december 31-e között hatályos 7. § (2) bekezdése szerinti biztosítási időt is –;
 
 b) az 1998. január 1-jét megelőzően
 
@@ -18,11 +18,11 @@ b) az 1998. január 1-jét megelőzően
 
 7. a gazdasági munkaközösség tagjaként,
 
-8.[^32] az ipari szövetkezet tagjaként, ipari és szolgáltató szövetkezeti szakcsoport tagjaként,
+8.[^23] az ipari szövetkezet tagjaként, ipari és szolgáltató szövetkezeti szakcsoport tagjaként,
 
 9. a kisszövetkezet tagjaként,
 
-10.[^33] a mezőgazdasági (halászati) termelőszövetkezet tagjaként, mezőgazdasági szakszövetkezeti tagként,
+10.[^24] a mezőgazdasági (halászati) termelőszövetkezet tagjaként, mezőgazdasági szakszövetkezeti tagként,
 
 11. a mezőgazdasági szakcsoport tagjaként,
 
@@ -60,7 +60,7 @@ szerzett szolgálati idő minősül.
 
 (5) Ha a kérelmező hatósági nyilvántartásban szereplő adatokat nem igazol, a nyugdíj-megállapító szerv a kérelem elbírálásához szükséges adatok szolgáltatása iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
 
-[^30]: A 12. §-t a 164/2009. (VIII. 14.) Korm. rendelet 11. § (7) bekezdés e) pontja hatályon kívül helyezte, újonnan a 354/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be. A 12. §-t megelőző alcímet a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^31]: A 12. § a) pontja a 40/2011. (III. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^32]: A 12. § b) pont 8. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^33]: A 12. § b) pont 10. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^21]: A 12. §-t a 164/2009. (VIII. 14.) Korm. rendelet 11. § (7) bekezdés e) pontja hatályon kívül helyezte, újonnan a 354/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be. A 12. §-t megelőző alcímet a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^22]: A 12. § a) pontja a 40/2011. (III. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^23]: A 12. § b) pont 8. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^24]: A 12. § b) pont 10. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
