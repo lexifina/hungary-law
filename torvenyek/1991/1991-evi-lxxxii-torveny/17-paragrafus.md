@@ -1,6 +1,6 @@
 ## Az adó megfizetésének ellenőrzése
 
-17. § (1) A Magyar Köztársaság területén közlekedő külföldön nyilvántartott tehergépjármű esetében az adókötelezettség teljesítésének ellenőrzését a vámhatóság végzi. A vámhatóság az illetékbélyeget érvényteleníti, a tehergépjármű rendszámát és a lerótt illeték összegét nyilvántartásba veszi.
+17. § (1) Magyarország területén közlekedő külföldön nyilvántartott tehergépjármű esetében az adókötelezettség teljesítésének ellenőrzését a vámhatóság végzi. A vámhatóság az illetékbélyeget érvényteleníti, a tehergépjármű rendszámát és a lerótt illeték összegét nyilvántartásba veszi.
 
 (2) Ha az adózó az adófizetési kötelezettségét részben vagy egészben elmulasztotta, a vámhatóság az adóhiányt és annak ötszörösét adóbírság címén állapítja meg. A határozatot a vámhatóság kihirdetés útján közli, mely fellebbezésre tekintet nélkül azonnal végrehajtható.
 

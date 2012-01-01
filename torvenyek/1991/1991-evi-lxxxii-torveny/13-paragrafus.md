@@ -4,7 +4,7 @@
 
 (2)
 
-(3) Mentes az adó alól a kombinált árufuvarozásra nemzetközi viszonylatban alkalmazott, külföldön nyilvántartott tehergépjármű, amely az árut a Magyar Köztársaság területén
+(3) Mentes az adó alól a kombinált árufuvarozásra nemzetközi viszonylatban alkalmazott, külföldön nyilvántartott tehergépjármű, amely az árut Magyarország területén
 
 a) a határátlépés helyétől vagy az áru feladási helyétől az útirány szerinti legközelebbi — attól légvonalban legfeljebb 70 kilométer távolságra levő — vasúti állomásra vagy belvízi kikötőbe közúton fuvarozza (előfuvarozás), illetőleg
 

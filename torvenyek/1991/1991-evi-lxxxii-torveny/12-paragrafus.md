@@ -1,6 +1,6 @@
 ## Az adókötelezettség megszűnése, szünetelése
 
-12. § (1) A gépjármű adókötelezettsége megszűnik azon a napon, amelyen a Magyar Köztársaság területét elhagyja.
+12. § (1) A gépjármű adókötelezettsége megszűnik azon a napon, amikor Magyarország területét elhagyja.
 
 (2)
 

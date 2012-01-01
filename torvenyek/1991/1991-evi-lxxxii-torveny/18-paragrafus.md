@@ -24,7 +24,7 @@
 
 9. használt gépjármű az, amely a gyártóüzem által történt kibocsátást követően közúti forgalomban részt vett,
 
-10. költségvetési szerv az államháztartásról szóló 1992. évi XXXVIII. törvény szerinti szerv,
+10. költségvetési szerv az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 
 11. helyi és a helyközi tömegközlekedés lebonyolítását szolgálja a gépjármű (autóbusz), amellyel a vállalkozó kizárólag menetrendszerinti személyszállítást díjfizetés ellenében bárki által igénybe vehető módon végzi,
 
@@ -40,7 +40,7 @@ az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeine
 
 16. mezőgazdasági vontató: mezőgazdasági munka végzésére készült, de pótkocsi vontatására is alkalmas, rakfelület nélküli olyan jármű, amelyet beépített erőgép hajt, és sík úton önerejéből 25 km/óra sebességnél gyorsabban haladni képes,
 
-17. külföldön nyilvántartott gépjármű és pótkocsi üzembentartója azon személyek egyike, akinek a nevére a forgalmi engedélyt kiállították; vagy akit a jogi személy vagy más személyi egyesülés nevére kiállított forgalmi engedélyben a jogi személy vagy a személyi egyesülés mellett feltüntettek; vagy aki a járművet a Magyar Köztársaság területén használja; vagy aki azt az ország területéről kilépteti,
+17. külföldön nyilvántartott gépjármű és pótkocsi üzembentartója azon személyek egyike, akinek a nevére a forgalmi engedélyt kiállították; vagy akit a jogi személy vagy más személyi egyesülés nevére kiállított forgalmi engedélyben a jogi személy vagy a személyi egyesülés mellett feltüntettek; vagy aki a járművet Magyarország területén használja; vagy aki azt az ország területéről kilépteti,
 
 18. gépjármű forgalomból való kivonásának minősül a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet szerinti forgalomból való kivonás,
 
@@ -63,3 +63,5 @@ az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeine
 27. nyergesvontató: olyan vontató, amely a rajta levő nyeregszerkezet útján a vontatott félpótkocsi tömegének jelentős részét átveszi,
 
 28. hybrid meghajtású az a jármű, amely elektromos és hagyományos belső égésű motorral van ellátva.
+
+29. környezetvédelmi osztály-jelzés: a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 2011. augusztus 15-én hatályos 5. számú melléklete II. alpontja szerinti környezetvédelmi osztály-jelzés (kód).

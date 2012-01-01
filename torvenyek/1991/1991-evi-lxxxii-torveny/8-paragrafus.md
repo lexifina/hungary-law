@@ -6,7 +6,7 @@
 
 (3)
 
-(4) Ha az adóalany az adóévben tehergépjárművével – fuvarokmánnyal igazoltan – olyan kombinált áruszállítást alkalmazott, amelynél a Magyar Köztársaság területén vasúton vagy belvízen megtett út járatonként 100 km-nél hosszabb volt, az (5) bekezdésben meghatározott adókedvezményre jogosult.
+(4) Ha az adóalany az adóévben tehergépjárművével – fuvarokmánnyal igazoltan – olyan kombinált áruszállítást alkalmazott, amelynél Magyarország területén vasúton vagy belvízen megtett út járatonként 100 km-nél hosszabb volt, az (5) bekezdésben meghatározott adókedvezményre jogosult.
 
 (5) Az adókedvezmény mértéke 30–60 járat teljesítése esetén a tehergépjármű után adóévre – az (1)–(2) bekezdés alapján megállapított – fizetendő adó 10%-a, 60 járat felett 20%-a. 2004. január 1-jétől az adókedvezmény mértéke 40 járat feletti teljesítés esetén a tehergépjármű után adóévre – az (1)–(2) bekezdés alapján megállapított – fizetendő adó 10%-a.
 
