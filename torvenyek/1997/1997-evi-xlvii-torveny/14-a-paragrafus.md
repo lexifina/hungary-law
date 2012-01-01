@@ -6,4 +6,6 @@ b) társadalombiztosítási támogatással történő rendelés esetén az a) po
 
 c) közgyógyellátott beteg esetén az a) és b) pontban foglaltak mellett a közgyógyellátási igazolvány számát.
 
+(1a) A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás rendelésére szolgáló vény elektronikus kezelésű is lehet. Az elektronikus vényre vonatkozó részletszabályokat az egészségügyért felelős miniszter rendeletben határozza meg.
+
 (2) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás kiszolgáltatója, illetve nyújtója az (1) bekezdés szerinti adatokat a 4. § (2) bekezdés s) pontjában foglalt céllal kezelheti.

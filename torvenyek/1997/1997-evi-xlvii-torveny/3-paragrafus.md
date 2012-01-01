@@ -16,7 +16,7 @@ g) betegellátó: a kezelést végző orvos, az egészségügyi szakdolgozó, az
 
 h)
 
-i) adatkezelő: a betegellátó; az intézményvezető; az adatvédelmi felelős; továbbá közegészségügyi-járványügyi közérdekből az 5. § (3) bekezdésében meghatározott szervek és személyek; továbbá a 22. § szerinti esetekben az ott meghatározottak szerint az egészségbiztosítási szerv; a 22/E. §-ban meghatározottak szerint az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv; a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíj-biztosítási szerv és a nyugdíj-biztosítási igazgatási szerv; továbbá a 16/A. §-ban meghatározottak szerint, valamint a lakossági célzott szűrővizsgálatok szervezése érdekében a 3. § b) pont szerinti személyazonosító adat tekintetében az egészségügyi államigazgatási szerv; a 14/A. §-ban meghatározott adatok tekintetében a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás kiszolgáltatója, illetve nyújtója; a 15/A. §-ban meghatározottak szerint a munkavédelmi hatóság és a tevékenységének ellátását segítő munkahigiénés és foglalkozás-egészségügyi szerv; továbbá a 23. § (1) bekezdés f) pontjában meghatározott esetben az első- és másodfokú etikai eljárást lefolytató kamarai szerv;
+i) adatkezelő: a betegellátó; az intézményvezető; az adatvédelmi felelős; a betegjogi képviselőket foglalkoztató szerv; az egészségügyi dokumentációt kezelő szerv; továbbá közegészségügyi-járványügyi közérdekből az 5. § (3) bekezdésében meghatározott szervek és személyek; továbbá a 22. § szerinti esetekben az ott meghatározottak szerint az egészségbiztosítási szerv; a 22/E. §-ban meghatározottak szerint az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság; a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíj-biztosítási szerv és a nyugdíj-biztosítási igazgatási szerv; továbbá a 16/A. §-ban meghatározottak szerint, valamint a lakossági célzott szűrővizsgálatok szervezése érdekében a 3. § b) pont szerinti személyazonosító adat tekintetében az egészségügyi államigazgatási szerv; a 14/A. §-ban meghatározott adatok tekintetében a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás kiszolgáltatója, illetve nyújtója; a 15/A. §-ban meghatározottak szerint a munkavédelmi hatóság és a munkahigiénés és foglalkozás-egészségügyi szerv; továbbá a 23. § (1) bekezdés f) pontjában meghatározott esetben az első- és másodfokú etikai eljárást lefolytató kamarai szerv;
 
 j) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbe fogadó, a mostoha- és nevelőszülő, valamint a testvér és az élettárs;
 
@@ -28,4 +28,4 @@ m) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségr
 
 n) harmadik ország: minden olyan állam, amely nem EGT-állam;
 
-o) ellátásszervező: az irányított betegellátás szervezésére vállalkozó egészségügyi szolgáltató.
+o)

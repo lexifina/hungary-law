@@ -6,182 +6,178 @@ Fertőzések, fertőzéses eredetű betegségek, mérgezések
 
 A) Személyazonosító adatokkal együtt jelentendő:
 
-1. acut flaccid paralysis (heveny petyhüdt bénulás)
+1. Acut flaccid paralysis (heveny petyhüdt bénulás)
 
-2. amoebiasis
+2. Amoebiasis
 
-3. ancylostomiasis, uncinariasis
+3. Ancylostomiasis, uncinariasis
 
-4. anthrax (lépfene), bacillus anthracis által okozott fertőzés
+4. Anthrax (lépfene), bacillus anthracis által okozott fertőzés
 
-5. botulizmus
+5. Az új influenzavírus által okozott emberi megbetegedések (az országos tiszti főorvos által megadott időszakban)
 
-6. brucellosis, máltai, mediterrán, unduláló láz
+6. Botulizmus
 
-7. B típusú Haemophilus influenzae által okozott betegség
+7. Brucellosis, máltai, mediterrán, unduláló láz
 
-8. campylobacteriosis, campylobacter okozta bélhurut
+8. B típusú Haemophilus influenzae által okozott invazív betegség
 
-9. cholera (kolera)
+9. Campylobacteriosis, campylobacter okozta bélhurut
 
-10. congenitalis rubeola syndroma (CRS) (veleszületett rubeola megbetegedés)
+10. Chikungunya-láz
 
-11. cryptosporidiosis
+11. Cholera (kolera)
 
-12. diphtheria (torokgyík)
+12. Congenitalis rubeola syndroma (CRS) (veleszületett rubeola megbetegedés)
 
-13. Escherichia coli által okozott gastrointestinalis megbetegedések
+13. Cryptosporidiosis
 
-14. echinococcosis, hydatidosis
+14. Diphtheria (torokgyík)
 
-15. encephalitis infectiosa (fertőző agyvelőgyulladás)
+15. Echinococcosis, hydatidosis
 
-16. enteritis infectiosa
+16. Egészségügyi ellátással összefüggő fertőzés
 
-17. ételfertőzés
+16.1 Clostridium difficile által okozott fertőzés
 
-18. ételmérgezés
+16.2 Intenzív osztályos ellátással összefüggő fertőzés
 
-19. febris flava (sárgaláz)
+16.3 Multirezisztens kórokozó által okozott fertőzés
 
-20. febris recurrens (visszatérő láz)
+16.4 Művesekezeléssel összefüggő fertőzés
 
-21. fertőző spongiform encephalopathiák
+16.5 Műtéti sebfertőzés
 
-22. giardiasis
+16.6 Véráramfertőzés
 
-23. hepatitis infectiosa (fertőző májgyulladás)
+17. Encephalitis infectiosa (fertőző agyvelőgyulladás)
 
-24. keratoconjunctivitis epidemica (fertőző kötőhártya- és szaruhártya-gyulladás)
+18. Ételfertőzés
 
-25. legionellosis
+19. Ételmérgezés
 
-26. lepra
+20. Febris flava (sárgaláz)
 
-27. leptospirosis
+21. Febris recurrens (visszatérő láz)
 
-28. listeriosis
+22. Fertőző spongiform encephalopathiák
 
-29. Lyme-kór
+23. Giardiasis
 
-30. lyssa (veszettség)
+24. Hantavírus okozta veseszindróma (nephropathia epidemica)
 
-31. lyssa fertőzésre gyanús sérülés
+25. HBV-fertőzés
 
-32. malária
+26. HCV-fertőzés
 
-33. malleus (takonykór)
+27. Hepatitis infectiosa (heveny fertőző májgyulladás)
 
-34. meningitis purulenta (fertőző agyhártyagyulladás)
+28. Influenzával összefüggésbe hozható halálos kimenetelű megbetegedés
 
-35. meningitis serosa (savós agyhártyagyulladás)
+29. Keratoconjunctivitis epidemica (fertőző kötőhártya- és szaruhártya-gyulladás)
 
-36. mononucleosis infectiosa, mirigyláz, monocyta angina, Pfeiffer-betegség
+30. Korábban Magyarországon nem észlelt, különösen veszélyes fertőző betegség
 
-37. morbilli (kanyaró), kivéve: subacut sclerotisalo panencephalitis
+31. Legionellosis
 
-38. multirezistens kórokozók által okozott, egészségügyi ellátással összefüggő fertőzés
+32. Lepra
 
-39. Neisseria meningitidis által okozott betegség (Meningococcus okozta megbetegedés)
+33. Leptospirosis
 
-40. ornithosis (papagájláz)
+34. Listeriosis
 
-41. paratyphus
+35. Lyme-kór
 
-42. parotitis epidemica (mumpsz)
+36. Lyssa (veszettség)
 
-43. pertussis (szamárköhögés)
+37. Lyssa fertőzésre gyanús sérülés
 
-44. pestis
+38. Madárinfluenza
 
-45. poliomyelitis anterior acuta (járványos gyermekbénulás)
+39. Malária
 
-46. Q-láz
+40. Malleus (takonykór)
 
-47. rubeola (rózsahimlő)
+41. Meningitis purulenta (gennyes agyhártyagyulladás)
 
-48. salmonellosis
+42. Meningitis serosa (savós agyhártyagyulladás)
 
-49. shigellosis
+43. Morbilli (kanyaró), kivéve: subacut sclerotisalo panencephalitis
 
-50. scarlatina (vörheny)
+44. Neisseria meningitidis által okozott invazív betegség (Meningococcus okozta megbetegedés)
 
-51. schistosomiasis (bilharziasis)
+45. Nyugat-nílusi láz
 
-52. súlyos akut légúti tünetegyüttes (SARS)
+46. Ornithosis (papagájkór)
 
-53. staphylococcosis
+47. Paratyphus
 
-54. Streptococcus pneumoniae által okozott betegség (Pneumococcus okozta megbetegedés)
+48. Parotitis epidemica (mumpsz)
 
-55. strongyloidosis
+49. Patogén Escherichia coli által okozott megbetegedések
 
-56. taeniasis
+50. Pertussis (szamárköhögés)
 
-57. tetanus (merevgörcs)
+51. Pestis
 
-58. toxoplasmosis
+52. Poliomyelitis anterior acuta (járványos gyermekbénulás)
 
-59. trachoma (kivéve: trachoma következményei)
+53. Q-láz
 
-60. trichinellosis
+54. Rotavírus-gastroenteritis
 
-61. tularaemia
+55. Rubeola (rózsahimlő)
 
-62. typhus abdominalis (hastífusz)
+56. Salmonellosis
 
-63. typhus exanthematicus (kiütéses tífusz)
+57. Shigellosis
 
-64. varicella (bárányhimlő)
+58. Scarlatina (vörheny)
 
-65. variola (himlő)
+59. Schistosomiasis (bilharziasis)
 
-66. yersiniosis
+60. Súlyos akut légúti tünetegyüttes (SARS)
 
-67. vírusos haemorrhagias lázak
+61. Streptococcus pneumoniae által okozott invazív betegség (Pneumococcus okozta megbetegedés)
 
-68. nosocomialis fertőzés
+62. Strongyloidosis
 
-69. korábban Magyarországon nem észlelt, különösen veszélyes fertőző betegség*
+63. Taeniasis
 
-70. madárinfluenza
+64. Tetanus (merevgörcs)
 
-71. Az új influenzavírus által okozott emberi megbetegedések (az országos tiszti főorvos által megadott időszakban)
+65. Toxoplasmosis
 
-72. Chikungunya-láz
+66. Trachoma (kivéve: trachoma következményei)
 
-73. tuberkulózis
+67. Trichinellosis
+
+68. Tuberkulózis
+
+69. Tularemia
+
+70. Typhus abdominalis (hastífusz)
+
+71. Typhus exanthematicus (kiütéses tífusz)
+
+72. Varicella (bárányhimlő)
+
+73. Variola (himlő)
+
+74. Vírusos haemorrhagias lázak
+
+75. Yersiniosis
 
 B) Személyazonosító adatok nélkül jelentendő:
 
-1. AIDS megbetegedés
+1. Acut urogenitalis chlamydiasis
 
-2. condyloma acuminatum
+2. AIDS megbetegedés
 
-3. gonorrhoea (kankó)
+3. Gonorrhoea (kankó)
 
-4. granuloma inguinale
+4. HIV-fertőzés
 
-5. herpes genitalis
+5. Lymphogranuloma venereum
 
-6. HIV fertőzés
-
-7. influenza, influenza szerű megbetegedés**
-
-8. lymphogranuloma inguinale
-
-9. syphilis (vérbaj)
-
-10. szexuális úton terjedő, chlamydiák által okozott egyéb betegségek
-
-11.
-
-12. ulcus molle, chancroid
-
-13. urethritis nongonococcica
-
-_______
-
-* A tekintetben, hogy mely betegség tartozik ide az egészségügyi, szociális és családügyi miniszter állásfoglalása az irányadó.
-
-** Az influenza figyelő és jelentő szolgálat működéséről, a jelentés időszakáról és a jelentendők köréről az országos tisztifőorvos állásfoglalása az irányadó.
+6. Syphilis (vérbaj)

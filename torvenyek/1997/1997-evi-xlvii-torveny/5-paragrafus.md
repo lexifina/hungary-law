@@ -6,7 +6,7 @@ b) az intézményvezető, valamint
 
 c) az adatvédelmi felelős,
 
-d) az ellátásszervező adatelemzéssel megbízott alkalmazottja.
+d)
 
 (2)
 

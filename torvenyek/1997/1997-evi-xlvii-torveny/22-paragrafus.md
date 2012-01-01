@@ -2,7 +2,7 @@
 
 22. § (1) A társadalombiztosítási igazgatási szervek részére abban az esetben továbbítható egészségügyi és személyazonosító adat, amennyiben
 
-a) arra az érintettnek járó társadalombiztosítási ellátások megállapítása, folyósítása céljából van szükség, és az az egészségi állapot alapján történik, valamint
+a) arra az érintettnek járó társadalombiztosítási ellátások megállapítása, folyósítása céljából van szükség, és az az egészségi állapot alapján történik,
 
 b) az a társadalombiztosítási alapok kezelői gazdálkodásának, továbbá a társadalombiztosítási ellátások folyósításának ellenőrzése céljából indokolt,
 

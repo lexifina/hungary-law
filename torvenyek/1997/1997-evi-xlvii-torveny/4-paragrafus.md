@@ -56,7 +56,11 @@ s) az egészségügyi ellátásokra jogosultak részére vényen rendelt gyógys
 
 t) a munkabalesetek, foglalkozási megbetegedések – ideértve a fokozott expozíciós eseteket is – kivizsgálása, nyilvántartása és a szükséges munkavédelmi intézkedések megtétele,
 
-u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás.
+u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás,
+
+v) eredményesség alapú támogatásban részesülő gyógyszerek, gyógyászati segédeszközök eredményességének, támogatásának megállapítása, és ezen gyógyszerekkel kezelt kórképek finanszírozási eljárásrendjének alkotása,
+
+w) betegút-szervezés.
 
 (3) Az (1)–(2) bekezdésekben meghatározott céloktól eltérő célra is lehet az érintett, illetve törvényes vagy meghatalmazott képviselője (a továbbiakban együtt: törvényes képviselő) – megfelelő tájékoztatáson alapuló – írásbeli hozzájárulásával egészségügyi és személyazonosító adatot kezelni.
 

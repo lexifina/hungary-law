@@ -1,6 +1,6 @@
 30. § (1) Az egészségügyi dokumentációt – a képalkotó diagnosztikai eljárással készült felvételek, az arról készített leletek, valamint a (7) bekezdés kivételével – az adatfelvételtől számított legalább 30 évig, a zárójelentést legalább 50 évig kell megőrizni. A kötelező nyilvántartási időt követően gyógykezelés vagy tudományos kutatás érdekében – amennyiben indokolt – az adatok továbbra is nyilvántarthatók. Ha a további nyilvántartás nem indokolt – a (3) bekezdés kivételével – a nyilvántartást meg kell semmisíteni.
 
-(2) Képalkotó diagnosztikai eljárással készült felvételt, valamint a felvétel esetén az arról készített leletet kell – a felvétel készítésétől számított – legalább 30 évig megőrizni.
+(2) Képalkotó diagnosztikai eljárással készült felvételt az annak készítésétől számított 10 évig, a felvételről készített leletet a felvétel készítésétől számított 30 évig kell megőrizni.
 
 (3) Amennyiben az egészségügyi dokumentációnak tudományos jelentősége van, a kötelező nyilvántartási időt követően át kell adni a Semmelweis Orvostörténeti Múzeum, Könyvtár és Levéltár részére.
 
@@ -8,7 +8,7 @@
 
 a) a tudományos jelentőségű egészségügyi dokumentációt a (3) bekezdés szerinti levéltárnak,
 
-b) az egyéb egészségügyi dokumentációt a központi költségvetési szervek esetében a Kormány által kijelölt szervnek, egyéb intézmények esetében az egészségügyi államigazgatási szervnek
+b) az egyéb egészségügyi dokumentációt a Kormány által kijelölt szervnek
 
 kell átadni.
 
