@@ -10,6 +10,6 @@ b) a társulási megállapodásban vagy a társulási tanács által meghatároz
 
 c) a társulás bármely tagjának – napirendet tartalmazó – indítványára;
 
-d) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kezdeményezésére.
+d) a fővárosi és megyei kormányhivatal kezdeményezésére.
 
-(4) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott személy írja alá. A jegyzőkönyvet tizenöt napon belül meg kell küldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
+(4) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott személy írja alá. A jegyzőkönyvet tizenöt napon belül meg kell küldeni a a fővárosi és megyei kormányhivatalnak.
