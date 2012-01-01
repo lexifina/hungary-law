@@ -1,1 +1,0 @@
-15. § A bírót – hozzájárulásával – az OIT a Legfelsőbb Bíróság elnökének javaslatára a Legfelsőbb Bíróságra, az OIT Hivatalába (a továbbiakban: Hivatal), illetőleg az igazságügyért felelős miniszterrel egyetértésben a minisztériumba is beoszthatja.

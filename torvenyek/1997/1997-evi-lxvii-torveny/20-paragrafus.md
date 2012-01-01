@@ -1,1 +1,0 @@
-20. § A bíró más bírósághoz történő kirendelésére az OIT elnöke, áthelyezésére a pályázat elbírálója, ha a kirendelés vagy az áthelyezés a megyei bíróság és az illetékességi területén működő helyi bíróság között vagy a megyei bíróság illetékességi területén működő helyi bíróságok között történik, a megyei bíróság elnöke jogosult.

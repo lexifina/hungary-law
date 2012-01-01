@@ -1,1 +1,0 @@
-120. § A bíró részére a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvénnyel alapított kitüntetés, illetve az e törvényben kapott felhatalmazás alapján alapított díj, oklevél, plakett adományozható.

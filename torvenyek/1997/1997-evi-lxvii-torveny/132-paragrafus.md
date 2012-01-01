@@ -1,3 +1,0 @@
-## Átmeneti rendelkezések
-
-132. §

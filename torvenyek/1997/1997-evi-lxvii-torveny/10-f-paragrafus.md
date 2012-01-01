@@ -1,1 +1,0 @@
-10/F. § A 10/A–10/C. §-ok rendelkezéseit kell alkalmazni a Legfelsőbb Bíróságra és az igazságügyért felelős miniszter által vezetett minisztériumba (a továbbiakban: minisztérium) beosztott bíróra is, azzal, hogy a munkáltatói jogkör gyakorlója a Legfelsőbb Bíróság elnöke, illetőleg az igazságügyért felelős miniszter.
