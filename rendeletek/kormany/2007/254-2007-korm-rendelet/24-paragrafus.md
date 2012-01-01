@@ -1,4 +1,4 @@
-## 23. §[^34] A tulajdonosi ellenőrzés nyomán az MNV Zrt. kezdeményezheti az ingatlan-nyilvántartási (vagyonnyilvántartási) állapot rendezését, illetőleg más intézkedés megtételét.
+## 23. §[^55] A tulajdonosi ellenőrzés nyomán az MNV Zrt. kezdeményezheti az ingatlan-nyilvántartási (vagyonnyilvántartási) állapot rendezését, illetőleg más intézkedés megtételét.
 
 ## VII. Fejezet
 
@@ -8,4 +8,4 @@
 
 (2) Az MNV Zrt. az állami vagyon elidegenítése előtt köteles megvizsgálni, hogy az adott vagyontárgyra szüksége van-e valamely központi költségvetési szervnek állami feladatai ellátásához. Ennek során az MNV Zrt. a Vtv. 28. §-ának (1) bekezdése alapján közölt igényeket áttekinti, szükség szerint a potenciálisan érintett központi költségvetési szerveket megkeresi.
 
-[^34]: A 23. § a 348/2010. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^55]: A 23. § a 348/2010. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.

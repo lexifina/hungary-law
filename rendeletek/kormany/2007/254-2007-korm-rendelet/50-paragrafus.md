@@ -4,9 +4,9 @@
 
 ## ÁLLAMI VAGYON INGYENES ÁTRUHÁZÁSÁNAK SZABÁLYAI
 
-50. § (1) A Vtv. 36. § (2) bekezdésének a)–e) pontja szerinti tulajdonba adásra vonatkozó kezdeményezést az MNV Zrt.-hez vagy az érintett vagyonelem vagyonkezelőjéhez (használójához) kell benyújtani. Utóbbi esetben a vagyonkezelő a hozzá benyújtott kérelmet véleményével, javaslatával együtt az MNV Zrt.-nek tizenöt napon belül döntésre megküldi.
+50. § (1)[^81] A Vtv. 36. § (2) bekezdésének a)–e) pontja szerinti tulajdonba adásra vonatkozó kezdeményezést az MNV Zrt.-hez vagy az érintett vagyonelem vagyonkezelőjéhez kell benyújtani. Utóbbi esetben a vagyonkezelő a hozzá benyújtott kérelmet véleményével, javaslatával együtt az MNV Zrt.-nek tizenöt napon belül döntésre megküldi.
 
-(2)[^59] A benyújtott dokumentumoknak tartalmazniuk kell, illetve azokhoz csatolni szükséges:
+(2)[^82] A benyújtott dokumentumoknak tartalmazniuk kell, illetve azokhoz csatolni szükséges:
 
 a) a tulajdonba adásra vonatkozó igényt, megjelölve a felhasználási célt, valamint a segítendő feladatot és az azt előíró jogszabályi rendelkezést,
 
@@ -16,4 +16,5 @@ c) helyi önkormányzat, illetve többcélú kistérségi társulás kezdeménye
 
 d) védettség (örökségvédelmi, természetvédelmi, illetve Natura 2000) fennállása esetén annak megjelölését, valamint az ahhoz kapcsolódó kötelezettségek vállalását.
 
-[^59]: Az 50. § (2) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^81]: A 50. § (1) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^82]: Az 50. § (2) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.

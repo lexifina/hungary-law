@@ -1,6 +1,6 @@
 ## A vagyonkezelési szerződés megszűnése
 
-12. §[^17] (1) A vagyonkezelési szerződés megszűnik:
+12. §[^32] (1) A vagyonkezelési szerződés megszűnik:
 
 a) a szerződésben megállapított idő elteltével,
 
@@ -32,4 +32,4 @@ d) a Vtv. 25. §-ának (2) bekezdése szerinti esetben.
 
 (8) Amennyiben a felek ugyanabban a szerződésben több állami tulajdonba tartozó vagyonelem vagyonkezeléséről rendelkeztek, a vagyonkezelési szerződés felmondása, vagy más okból történő megszűnése csak egyes vagyontárgyakra nézve, részlegesen is történhet. Ilyen esetben a szerződés a megszűnéssel (felmondással) nem érintett vagyontárgyakra nézve változatlan tartalommal hatályban marad, a 8. § (2) bekezdésének rendelkezéseit azonban ilyen esetben is alkalmazni kell.
 
-[^17]: A 12. § a 348/2010. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^32]: A 12. § a 348/2010. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.

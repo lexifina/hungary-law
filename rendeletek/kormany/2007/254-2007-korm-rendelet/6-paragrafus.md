@@ -1,8 +1,8 @@
-## 5. §[^6]
+## 5. §[^13]
 
 ## Állami tulajdonú gazdálkodó szervezetekre vonatkozó speciális szabályok
 
-6. §[^7] (1) Központi költségvetési szerv az alaptevékenységébe tartozó közfeladat hatékonyabb ellátása céljából – az irányítását vagy felügyeletét ellátó szerv vezetője útján – kezdeményezheti az MNV Zrt.-nél a Vtv. 29. §-ának (1) bekezdése szerinti gazdálkodó szervezet alapítását, abban részesedés vagy további részesedés szerzését (a továbbiakban együtt: alapítás), továbbá a Vtv. 29. §-ának (3) bekezdése szerinti meghatalmazás kiadását.
+6. §[^14] (1) Központi költségvetési szerv az alaptevékenységébe tartozó közfeladat hatékonyabb ellátása céljából – az irányítását vagy felügyeletét ellátó szerv vezetője útján – kezdeményezheti az MNV Zrt.-nél a Vtv. 29. §-ának (1) bekezdése szerinti gazdálkodó szervezet alapítását, abban részesedés vagy további részesedés szerzését (a továbbiakban együtt: alapítás), továbbá a Vtv. 29. §-ának (3) bekezdése szerinti meghatalmazás kiadását.
 
 (2) Az (1) bekezdés szerinti kezdeményezésben be kell mutatni a gazdálkodó szervezet alapításának indokait, más módon (szervezeti formában) történő feladatellátással szembeni előnyeit és azt, hogy a piacra lépés nem jár versenytorzító hatással.
 
@@ -14,8 +14,8 @@
 
 (6) Ha az állami részesedéssel működő gazdálkodó szervezetben az állam nevében tulajdonosi (tagsági, részvényesi) jogokat gyakorló személy nem központi költségvetési szerv és ezen jogait a Vtv. 29. §-ának (5) bekezdése alapján az MNV Zrt.-vel kötött szerződés alapján gyakorolja, úgy az MNV Zrt. előzetes engedélyét köteles kérni állami vagyon nem pénzbeli hozzájárulásként való szolgáltatásához, vagy más módon a gazdálkodó szervezet tulajdonába adásához, a tőkeemeléshez, a nem kötelező tőkeleszállításhoz, a gazdálkodó szervezet végelszámolással történő megszüntetéséhez vagy átalakulásához, egyesüléséhez, szétválásához.
 
-(7)[^8]
+(7)[^15]
 
-[^6]: Az 5. §-t a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
-[^7]: A 6. § a 348/2010. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^8]: A 6. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^13]: Az 5. §-t a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^14]: A 6. § a 348/2010. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^15]: A 6. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.

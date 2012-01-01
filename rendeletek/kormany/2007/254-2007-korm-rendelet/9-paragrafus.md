@@ -1,12 +1,12 @@
 ## A felek jogai és kötelezettségei
 
-9. §[^14] (1) A vagyonkezelő a kezelt vagyont rendeltetésének, a vagyonkezelési szerződésnek, továbbá a rendes gazdálkodás szabályainak megfelelően, az ilyen személytől elvárható gondossággal birtokolhatja, használhatja és szedheti hasznait.
+9. §[^22] (1) A vagyonkezelő a kezelt vagyont rendeltetésének, a vagyonkezelési szerződésnek, továbbá a rendes gazdálkodás szabályainak megfelelően, az ilyen személytől elvárható gondossággal birtokolhatja, használhatja és szedheti hasznait.
 
-(2) A Vtv. 23. §-ának (1) bekezdésében foglaltakra figyelemmel kötött szerződésben a felek az állami vagyon hasznosításának átengedése körében a hasznok szedésének átengedéséről (továbbhasznosítás) is megállapodhatnak. Ha a vagyonkezelő a kezelt vagyont más használatába adja, a használó magatartásáért mint a sajátjáért felel.
+(2)[^23] Amennyiben a vagyonkezelő a kezelt vagyon hasznosítását másnak átengedi, a használó magatartásáért, mint a sajátjáért felel.
 
 (3) A vagyonkezelő köteles teljesíteni a jogszabályban, illetve a vagyonkezelési szerződésben előírt, az állami vagyonra vonatkozó nyilvántartási, adatszolgáltatási és elszámolási kötelezettséget, köteles továbbá tűrni az (5) bekezdés szerinti ellenőrzést, illetve annak lefolytatásában közreműködni.
 
-(4) A vagyonkezelő köteles a vagyont fenyegető veszélyről és a beállott kárról haladéktalanul értesíteni a tulajdonost – ideértve azt az esetet is, ha őt harmadik személy a jogainak gyakorlásában akadályozza –, köteles továbbá tűrni, hogy a tulajdonos a veszély elhárítására, illetőleg a kár következményeinek megszüntetésére a szükséges intézkedéseket megtegye. A vagyonkezelő felelős minden olyan kárért, amely a rendeltetésellenes vagy szerződésellenes használat következménye kivéve, ha bizonyítja, hogy úgy járt el, ahogy adott helyzetben az állami vagyon használójától elvárható.
+(4)[^24] A vagyonkezelő köteles a vagyont fenyegető veszélyről és a beállott kárról haladéktalanul értesíteni a tulajdonost – ideértve azt az esetet is, ha őt harmadik személy a jogainak gyakorlásában akadályozza –, köteles továbbá tűrni, hogy a tulajdonos a veszély elhárítására, illetőleg a kár következményeinek megszüntetésére a szükséges intézkedéseket megtegye. A vagyonkezelő felelős minden olyan kárért, amely a rendeltetésellenes vagy szerződésellenes használat következménye kivéve, ha bizonyítja, hogy úgy járt el, ahogy adott helyzetben az állami vagyon kezelőjétől elvárható.
 
 (5) Az MNV Zrt. ellenőrizheti a használatot, követelheti a rendeltetésellenes vagy szerződésellenes használat megszüntetését, továbbá az ilyen használatból eredő kár megtérítését. Abban az esetben, ha az ilyen használat tovább folyik, vagy ha a kezelt vagyont fenyegető veszély súlyossága miatt a kifogásolt használat megszüntetésének követelése sem vezetne eredményre, az MNV Zrt. a szerződést azonnali hatállyal felmondhatja és kártérítést követelhet.
 
@@ -36,4 +36,6 @@ d) a vagyonkezelési szerződésben meghatározott gyakorisággal az értékcsö
 
 (12) A központi költségvetési szerv vagyonkezelő köteles harminc napon belül írásban jelezni az MNV Zrt. felé, ha a vagyonkezelésében lévő ingatlan kilencven napot meghaladó időtartamban az általa ellátandó állami feladathoz, vagy a közvetlen intézményi elhelyezéséhez szükségtelenné vált. A határidő elmulasztása a szerződés szempontjából a 12. § (4) bekezdésének c) pontjában említett lényeges kötelezettségszegésnek minősül. A kötelezettség nem áll fenn, ha a használat ideiglenes szünetelése az állami feladat időszakos ellátása, vagy a vagyon értékesítésének előkészítése miatt következett be.
 
-[^14]: A 9. § a 348/2010. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^22]: A 9. § a 348/2010. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^23]: A 9. § (2) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^24]: A 9. § (4) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

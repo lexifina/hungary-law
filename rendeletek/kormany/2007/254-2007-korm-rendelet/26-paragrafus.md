@@ -6,8 +6,10 @@
 
 a) az a központi költségvetési szerv, amely az értékesítésre szánt vagyonnak vagyonkezelője,
 
-b) a kizárólagos állami tulajdon vagyonkezelését is ellátó egyéb vagyonkezelő – koncessziós szerződés eltérő rendelkezése hiányában – a vagyonkezelésében lévő olyan vagyontárgyakat, amelyek az országos közúti és vasúti közlekedési hálózathoz kapcsolódnak, de nem minősülnek kizárólagos állami tulajdonnak.
+b)[^62] a kizárólagos állami tulajdon vagyonkezelését is ellátó egyéb vagyonkezelő a vagyonkezelésében lévő olyan vagyontárgyakat, amelyek az országos közúti és vasúti közlekedési hálózathoz kapcsolódnak, de nem minősülnek kizárólagos állami tulajdonnak.
 
 (3) Az MNV Zrt. és az értékesítő a vagyon értékesítésére vonatkozóan külön megállapodást köt, amely tartalmazza az értékesítési eljárás formáját, illetve az értékesítés lebonyolításáról és eredményéről történő beszámolási és adatszolgáltatási kötelezettséget.
 
 (4) Az értékesítést megelőzően az értékesítendő vagyonelemre vonatkozó vagyonkezelési szerződést meg kell szüntetni és a feleknek egymással a V. fejezet szabályai szerint el kell számolniuk.
+
+[^62]: A 26. § (2) bekezdés b) pontja a 356/2011. (XII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.

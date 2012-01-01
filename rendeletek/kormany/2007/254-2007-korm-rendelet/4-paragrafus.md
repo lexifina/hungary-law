@@ -4,7 +4,7 @@ a) az érintett vagyonelem megjelölését,
 
 b) a pályázat elbírálása során a pályázatok rangsorolásakor alkalmazandó értékelési szempontokat,
 
-c)[^5] a megkötendő szerződés típusát, a hasznosításra vonatkozó fontosabb feltételeket, a vagyon használatáért járó ellenérték teljesítésére vonatkozó előírásokat,
+c)[^12] a megkötendő szerződés típusát, a hasznosításra vonatkozó fontosabb feltételeket, a vagyon használatáért járó ellenérték teljesítésére vonatkozó előírásokat,
 
 d) a pályázati ajánlatok benyújtásának helyét, módját és határidejét,
 
@@ -14,4 +14,4 @@ f) a pályázati ajánlat érvényességének feltételeit.
 
 (2) A pályázati ajánlatok elbírálására vonatkozó döntést a kiíró hozza meg. Az eljárásra egyebekben a 34. § (1) bekezdés, a 37. § (1) bekezdés, a 41. § (1) bekezdés és a 42–43. § rendelkezéseit megfelelően alkalmazni kell.
 
-[^5]: A 4. § (1) bekezdés c) pontja a 348/2010. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdés c) pontja a 348/2010. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.

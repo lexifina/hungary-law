@@ -16,23 +16,21 @@
 
 (7)[^2] A rendelet alkalmazásában:
 
-a) állami vagyon használója: az a természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, amely, illetve aki törvény vagy szerződés alapján, bármely jogcímen (pl. bérlet, haszonbérlet, vagyonkezelési szerződés, használat stb.) állami vagyont birtokol, használ, szedi annak hasznait, hasznosít, ide nem értve a c) pont szerinti tulajdonosi jogok gyakorlóját;
+a)[^3] állami vagyon használója: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki, vagy amely törvény vagy szerződés alapján, bármely jogcímen (bérlet, haszonbérlet, használat stb.) állami vagyont birtokol, használ, szedi annak hasznait, hasznosít, ide nem értve a haszonélvezőt, a b) pont szerinti vagyonkezelőt és a c) pont szerinti tulajdonosi jogok gyakorlóját;
 
-b) vagyonkezelő: az a
+b)[^4] vagyonkezelő: az a
 
 ba) központi költségvetési szerv,
 
-bb) központi költségvetési szervnek nem minősülő természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdálkodó szervezet (a továbbiakban együtt: egyéb vagyonkezelő), amellyel, illetve akivel az állami vagyon vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) vagy annak jogelődje szerződést kötött, továbbá amely törvény alapján vagyonkezelőnek minősül,
+bb) nemzeti vagyonról szóló törvényben – a központi költségvetési szerv kivételével – vagyonkezelőként meghatározott azon személy (a továbbiakban: egyéb vagyonkezelő), amellyel az állami vagyon vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) vagy annak jogelődje szerződést kötött, továbbá amely törvény alapján vagyonkezelőnek minősül;
 
-bc) a ba) és bb) pontokban meghatározott vagyonkezelő jogutódja;
-
-c) a tulajdonosi jogok gyakorlója: a Vtv. 3. § (1) bekezdésében meghatározott szervezetek, továbbá akit törvény a tulajdonosi jogok gyakorlására feljogosít, kivéve a Nemzeti Földalapkezelő Szervezetet;
+c) a tulajdonosi jogok gyakorlója:a Vtv. 3. § (1) bekezdésében meghatározott szervezetek, továbbá akit törvény a tulajdonosi jogok gyakorlására feljogosít, kivéve a Nemzeti Földalapkezelő Szervezetet;
 
 d) értékesítés: állami vagyon tulajdonjogának bármely jogcímen történő, visszterhes átruházása;
 
-e) hasznosítás: az állami vagyonnak bármely – a tulajdonjog átruházását nem eredményező – módon, jogcímen történő átadása, átengedése;
+e)[^5] hasznosítás: az állami vagyon bármely – a tulajdonjog átruházását nem eredményező – módon, jogcímen történő átadása, átengedése, ide nem értve a haszonélvezeti jog létesítését, valamint a vagyonkezelésbe adást;
 
-f) ellenérték: az állami vagyon értékesítésére, hasznosítására irányuló szerződésben megállapított, az állami vagyon tulajdonjoga, birtoklása, használata, hasznainak szedése, hasznosítása fejében fizetendő pénzösszeg vagy pénzben kifejezett értékű tevékenység, vagy más ellenszolgáltatás;
+f)[^6] ellenérték: az állami vagyon értékesítésére, hasznosítására, haszonélvezeti jog létesítésére, vagyonkezelésére irányuló szerződésben megállapított, az állami vagyon tulajdonjoga, birtoklása, használata, hasznainak szedése, hasznosítása, haszonélvezete, vagyonkezelése fejében fizetendő pénzösszeg vagy pénzben kifejezett értékű tevékenység, vagy más ellenszolgáltatás;
 
 g) piaci érték: az ügylet tárgyát képező állami vagyon feletti valamely jog – az adott feltételek és körülmények figyelembevételével történő – átengedéséért a szabad piacon, független felek között elérhető reális ellenérték;
 
@@ -46,3 +44,7 @@ k) elszámolási kötelezettséggel kapott külső forrás: az egyéb vagyonkeze
 
 [^1]: Az 1. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (7) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (7) bekezdés a) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (7) bekezdés b) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (7) bekezdés e) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (7) bekezdés f) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
