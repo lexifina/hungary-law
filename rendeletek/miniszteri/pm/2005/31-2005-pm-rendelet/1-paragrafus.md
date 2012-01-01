@@ -1,6 +1,0 @@
-1. §[^2] (1)[^3] E rendelet hatálya kiterjed a Nemzeti Adó- és Vámhivatal adóztatási szerveire (a továbbiakban: állami adóhatóság), a Szociális és Munkaügyi Minisztériumra, az Országos Nyugdíjbiztosítási Főigazgatóságra (a továbbiakban: ONYF), az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP), továbbá a START-kártya, a START PLUSZ kártya, és a START EXTRA kártya (a továbbiakban együttesen: kártya) kiváltására jogosult személyre, a kártyával rendelkező foglalkoztatottra (a továbbiakban: munkavállaló), a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: Pftv.) 1. §-a (1) bekezdésének a) pontja szerinti munkaadóra és a d) pontjában meghatározott foglalkoztatóra.
-
-(2) A kártyát a kiváltására jogosult magánszemély, vagy e személynek az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 7. § (1) bekezdése alapján eljárásra jogosult képviselője igényelheti az illetékes állami adóhatóságtól.
-
-[^2]: Az 1. § a 14/2007. (VI. 29.) PM rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 89. §-a szerint módosított szöveg.
