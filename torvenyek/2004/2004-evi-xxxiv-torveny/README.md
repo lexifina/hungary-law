@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-34-00-00
 | 2010-09-01 | 2010. évi LXXXIV. törvény | 2004-34-00-00.7 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 2004-34-00-00.8 |
 | 2011-03-29 | 2011. évi XXXIII. törvény | 2004-34-00-00.9 |
+| 2012-01-01 | 2011. évi XXXIII. törvény | 2004-34-00-00.10 |
