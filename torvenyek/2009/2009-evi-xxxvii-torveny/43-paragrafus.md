@@ -6,7 +6,7 @@ a) az erdészeti magánút létesítése, bővítése,
 
 b) védelmi és közjóléti elsődleges rendeltetésű erdőben az erdőterv módosítása,
 
-c) védelmi és közjóléti, valamint az állam kizárólagos tulajdonában álló gazdasági elsődleges rendeltetésű erdőben a növedékfokozó gyérítés, a tarvágás, a fokozatos felújítóvágás, az egészségügyi fakitermelés és a szálaló vágás.
+c) védelmi és közjóléti, valamint az állam 100%-os tulajdonában álló gazdasági elsődleges rendeltetésű erdőben a növedékfokozó gyérítés, a tarvágás, a fokozatos felújítóvágás, az egészségügyi fakitermelés és a szálaló vágás.
 
 (2) Az erdészeti hatóság köteles
 

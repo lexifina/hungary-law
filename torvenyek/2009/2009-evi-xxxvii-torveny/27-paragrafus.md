@@ -18,7 +18,7 @@ f) a honvédelemért felelős miniszter,
 
 g) a határrendészetért felelős miniszter,
 
-h) a vízgazdálkodásért felelős miniszter,
+h) a vízügyi igazgatási szervek irányításáért felelős miniszter,
 
 i) a közlekedésért felelős miniszter,
 
