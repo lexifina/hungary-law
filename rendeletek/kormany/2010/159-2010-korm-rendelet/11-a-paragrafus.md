@@ -4,4 +4,4 @@
 
 (2) A légiközlekedési hatóság – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
-[^10]: [A 11/A. §-t a 82/2011. (V. 18.) Korm. rendelet 52. §-a iktatta be.
+[^10]: A 11/A. §-t a 82/2011. (V. 18.) Korm. rendelet 52. §-a iktatta be.
