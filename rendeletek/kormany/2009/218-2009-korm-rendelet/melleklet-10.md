@@ -1,6 +1,6 @@
 10. melléklet a 218/2009. (X. 6.) Korm. rendelethez
 
-## A területfejlesztési koncepciók és programok véleményezésére jogosult szervek
+## A területfejlesztési koncepciók és programok véleményezésére jogosult szervek[^3]
 
 1. Országos Területfejlesztési Tanács;
 
@@ -44,4 +44,10 @@ a) illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelős�
 
 b) működési területével érintett nemzeti park igazgatóság,
 
-c) működési területével érintett környezetvédelmi és vízügyi igazgatóság.
+c)[^4] működési területével érintett vízügyi igazgatóság.
+
+d)[^5] Nemzeti Környezetügyi Intézet működési területtel érintett területi kirendeltsége.
+
+[^3]: A 10. melléklet
+[^4]: A 10. melléklet 15. pont c) alpontja a 300/2011. (XII. 22.) Korm. rendelet 30. § f) pontja szerint módosított szöveg.
+[^5]: A 10. melléklet 15. pont d) alpontját a 300/2011. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
