@@ -28,7 +28,7 @@ a) a nádas környezet-, természet- és vízminőség-védelmi, továbbá gazda
 
 b) a vízmennyiségre és vízminőségre vonatkozó adatokat, valamint a talaj- és üledékviszonyok bemutatását.
 
-(5)[^5] Az (1) bekezdésben meghatározott minősítést, a (2)–(4) bekezdésben foglalt egységes szempontok szerint – a működési területével érintett nemzeti park igazgatóság, valamint a működési területével érintett környezetvédelmi és vízügyi igazgatóság közreműködésével – az illetékes felügyelőség végzi el.
+(5)[^5] Az (1) bekezdésben meghatározott minősítést, a (2)–(4) bekezdésben foglalt egységes szempontok szerint – a működési területével érintett nemzeti park igazgatóság, valamint a működési területével érintett vízügyi igazgatóság közreműködésével – az illetékes felügyelőség végzi el.
 
 [^4]: Az 5. § (1) bekezdése a 376/2010. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 5. § (5) bekezdése a 376/2010. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 5. § (5) bekezdése a 376/2010. (XII. 31.) Korm. rendelet 2. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 30. § l) pontja szerint módosított szöveg.
