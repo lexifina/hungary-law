@@ -4,9 +4,9 @@
 
 a) a hagyatéki eljárásra illetékes közjegyzőnek,
 
-b)[^4] a haláleset anyakönyvezése végett a haláleset helye, ha pedig ez nem állapítható meg vagy külföldön van, a születési hely anyakönyvvezetőjének; ha a születési hely külföldön van vagy ismeretlen, a hazai anyakönyvezést végző anyakönyvvezetőnek,
+b)[^5] a haláleset anyakönyvezése végett a haláleset helye, ha pedig ez nem állapítható meg vagy külföldön van, a születési hely anyakönyvvezetőjének; ha a születési hely külföldön van vagy ismeretlen, a hazai anyakönyvezést végző anyakönyvvezetőnek,
 
-c)[^5] a hagyaték leltározása végett a meghalt személy utolsó belföldi lakóhelye szerint illetékes jegyzőnek.
+c)[^6] a hagyaték leltározása végett a meghalt személy utolsó belföldi lakóhelye szerint illetékes jegyzőnek.
 
 (2) Ha az eltűnés vagy halál háborús eseményekkel kapcsolatban következett be, a bíróság a jogerős végzését hivatalból közli a honvédelmi miniszterrel, valamint a Magyar Vöröskereszt Országos Központjával is.
 
@@ -22,5 +22,5 @@ d) a meghalt szüleinek családi és utóneve;
 
 e) a halál helye és oka.
 
-[^4]: A 21. § (1) bekezdésének b) pontja a 10/2007. (III. 6.) IRM rendelet 25. § (2) bekezdésének h) pontja szerint módosított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
-[^5]: A 21. § (1) bekezdésének c) pontjában említett tanácsi szervet illetően lásd a helyi önkormányzatokról szóló 1990: LXV. törvényt.
+[^5]: A 21. § (1) bekezdésének b) pontja a 10/2007. (III. 6.) IRM rendelet 25. § (2) bekezdésének h) pontja szerint módosított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
+[^6]: A 21. § (1) bekezdésének c) pontjában említett tanácsi szervet illetően lásd a helyi önkormányzatokról szóló 1990: LXV. törvényt.
