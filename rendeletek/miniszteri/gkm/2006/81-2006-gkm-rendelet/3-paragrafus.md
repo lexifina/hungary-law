@@ -8,10 +8,10 @@
 
 (5) A méltatlanná vált személytől a miniszter az Érdemérmet megvonja.
 
-(6)[^1] Az Érdemérem adományozásáról és megvonásáról a miniszter által vezetett minisztérium nyilvántartást vezet. Az Érdemérem adományozását és megvonását a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a miniszter által vezetett minisztérium honlapján közzé kell tenni.
+(6)[^2] Az Érdemérem adományozásáról és megvonásáról a miniszter által vezetett minisztérium nyilvántartást vezet. Az Érdemérem adományozását és megvonását a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
 (7) Az Érdemérem ugyanazon személy részére egy ízben adományozható.
 
 (8) Az Érdemérem díjazással nem jár.
 
-[^1]: A 3. § (6) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 2. pontja szerint módosított szöveg.
+[^2]: A 3. § (6) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 2. pontja szerint módosított szöveg.
