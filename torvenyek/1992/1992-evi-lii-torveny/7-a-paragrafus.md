@@ -1,0 +1,1 @@
+7/A. § Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
