@@ -8,7 +8,7 @@ a) megalkotja, és szükség szerint megújítja középtávú tudomány-, techn
 
 b) a TTI stratégia megvalósításáról kétévente beszámol az Országgyűlésnek;
 
-c) az állami költségvetés előkészítése során – az államháztartás forrásaival és egyéb kötelezettségeivel összhangban – javaslatot tesz a TTI stratégia időarányos céljainak megvalósításához szükséges feltételekre és forrásokra;
+c) a központi költségvetésről szóló törvény előkészítése során – az államháztartás forrásaival és egyéb kötelezettségeivel összhangban – javaslatot tesz a TTI stratégia időarányos céljainak megvalósításához szükséges feltételekre és forrásokra;
 
 d) támogatja az EU programjaiban és más nemzetközi tudományos és technológiai együttműködésekben történő magyar részvételt;
 

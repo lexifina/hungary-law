@@ -10,4 +10,4 @@
 
 (6) A projekt támogatására vonatkozó szerződésben meg kell határozni a projekt értékeléséhez szükséges információk körét és az információ-szolgáltatásnak a projekt befejezésétől számított időpontját, illetve gyakoriságát.
 
-(7) A projektértékelés és a nyilvánossá tétel szempontrendszerét, valamint az ehhez kapcsolódó adatszolgáltatási kötelezettséget – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény szabályainak megfelelően – a pályázati kiírás tartalmazza.
+(7) A projektértékelés és a nyilvánossá tétel szempontrendszerét, valamint az ehhez kapcsolódó adatszolgáltatási kötelezettséget a pályázati kiírás tartalmazza.
