@@ -1,4 +1,4 @@
-6/A. §[^1] (1) A befektetési vállalkozásnak legalább évente nyilvánosságra kell hoznia a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 4. melléklet 2. ponttal érintett személyekre vonatkozóan a javadalmazási politikáját.
+6/A. §[^2] (1) A befektetési vállalkozásnak legalább évente nyilvánosságra kell hoznia a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 4. melléklet 2. ponttal érintett személyekre vonatkozóan a javadalmazási politikáját.
 
 (2) A nyilvánosságra hozatalnak ki kell terjednie
 
@@ -26,4 +26,4 @@ gd) a ki nem fizetett, halasztott javadalmazás összege, megszerzett jogosults�
 
 ge) az üzleti évben odaítélt halasztott javadalmazás kifizetett és teljesítménnyel korrigált összege.
 
-[^1]: A 6/A. §-t a 349/2010. (XII. 28.) Korm. rendelet 54. §-a iktatta be.
+[^2]: A 6/A. §-t a 349/2010. (XII. 28.) Korm. rendelet 54. §-a iktatta be.
