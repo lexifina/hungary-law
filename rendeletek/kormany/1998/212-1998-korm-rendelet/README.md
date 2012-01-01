@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-212-20-
 | --- | --- | --- |
 | 2009-10-01 | 1998-212-20-22.7 | 212/1998. (XII. 24.) Korm. rendelet |
 | 2010-05-29 | 1998-212-20-22.8 | 171/2010. (V. 13.) Korm. rendelet |
+| 2012-01-01 | 1998-212-20-22.9 | 282/2011. (XII. 21.) Korm. rendelet |
