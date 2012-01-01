@@ -10,7 +10,7 @@
 
 a) az Alap kezelő szervének kijelölését, az Alap kezelésének, az Alap működésére fordítható forrás mértékének, a visszatérítendő támogatás és az Alap felhasználásának a részletes szabályait, az ellenőrzés és beszámolás rendjét, valamint a pályázati rendszerre vonatkozó további előírásokat az államháztartásért felelős miniszterrel egyetértésben,
 
-b)
+b) a Civil Információs Portál, a Civil Információs Centrumok hálózata, illetve a támogatások összehangolását szolgáló monitoringrendszer működtetésének és az e törvényben meghatározott adatok honlapon történő közzétételének részletes szabályait,
 
 c) a Tanács és a kollégium létesítésére, működésére, valamint az összeférhetetlenségre és a nyilvánosságra hozatalra vonatkozó részletes eljárási szabályokat,
 

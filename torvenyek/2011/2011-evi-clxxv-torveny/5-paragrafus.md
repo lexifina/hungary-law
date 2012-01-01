@@ -1,0 +1,1 @@
+5. § Nem minősül egyesületnek a természetes személyeknek az egyesülési jog alapján létrehozott olyan közössége, amelynek működése nem rendszeres, vagy nincs nyilvántartott tagsága vagy az egyesületre vonatkozó rendelkezésekben meghatározott szervezete.

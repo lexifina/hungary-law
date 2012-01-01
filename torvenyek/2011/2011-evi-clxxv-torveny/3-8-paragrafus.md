@@ -1,5 +1,0 @@
-## I. Fejezet
-
-## AZ EGYESÜLÉSI JOG ALAPJÁN LÉTREJÖTT SZERVEZETEK
-
-### 3–8. §

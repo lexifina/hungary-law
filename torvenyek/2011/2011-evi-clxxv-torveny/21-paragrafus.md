@@ -1,0 +1,1 @@
+21. § A civil szervezet 19. § (2) bekezdés c) és d) pontja szerinti költségeit, ráfordításait (kiadásait) alapcél szerinti tevékenység és a gazdasági-vállalkozási tevékenység, továbbá közhasznú jogállás esetén a közhasznú tevékenység között az előzőekben felsorolt tevékenységek árbevételének (bevételének) arányában kell évente megosztani.
