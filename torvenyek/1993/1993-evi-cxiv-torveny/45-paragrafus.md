@@ -6,6 +6,6 @@
 
 (3) Az (1), (2) bekezdésben írt forgalmi értéket a tenyésztési hatóság jogosult megállapítani.
 
-(4) Az állattenyésztési bírságot külön jogszabályban meghatározott számlára kell befizetni. A határidőre meg nem fizetett bírságot adók módjára kell behajtani.
+(4) Az állattenyésztési bírságot a miniszter által e törvény felhatalmazása alapján kiadott jogszabályban meghatározott számlára kell befizetni.
 
 (5)

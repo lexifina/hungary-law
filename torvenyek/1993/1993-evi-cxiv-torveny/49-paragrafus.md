@@ -32,7 +32,7 @@ a) rendeletben szabályozza
 
 14. a szakképesítéshez kötött tevékenységeket;
 
-15. az állattenyésztési bírság befizetésének és felhasználásának módját;
+15. az állattenyésztési bírság befizetésének módját;
 
 16. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, az igazgatási szolgáltatási díjfizetés ellenében végzett feladatokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait;
 
