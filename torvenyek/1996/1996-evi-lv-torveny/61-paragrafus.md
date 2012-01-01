@@ -1,4 +1,4 @@
-61. § (1) A vadászjegy a Magyar Köztársaság területén jogosít vadászatra.
+61. § (1) A vadászjegy Magyarország területén jogosít vadászatra.
 
 (2) A vadászjegyet a kamara öt évre állítja ki azzal, hogy azt évente érvényesíteni kell.
 

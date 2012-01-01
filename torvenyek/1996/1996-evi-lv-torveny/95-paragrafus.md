@@ -8,12 +8,10 @@ b) a vadászati hatósági eljárásban fizetett díj;
 
 c)
 
-d) a vadgazdálkodási bírság;
-
-e) a vadvédelmi bírság.
+d)–e)
 
 (2)
 
-(3) A vadgazdálkodási bírságot, a vadvédelmi bírságot elsősorban a vad és élőhelye védelmének támogatására kell fordítani.
+(3)
 
 (4)

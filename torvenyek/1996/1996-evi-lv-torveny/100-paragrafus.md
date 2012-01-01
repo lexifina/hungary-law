@@ -76,6 +76,6 @@ c) rendeletben szabályozza
 
 30. az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
-31. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét és felhasználásának módját.
+31. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét.
 
 (2) Felhatalmazást kap a Kormány arra, hogy a vadászati hatóságot vagy hatóságokat rendeletben jelölje ki.
