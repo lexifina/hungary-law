@@ -8,7 +8,7 @@ b) segítik-e a településfejlesztési koncepcióban megjelenő, a település 
 
 c) megfelelnek-e az Étv. 8. §-ában megfogalmazott követelményeknek,
 
-d) figyelembe veszik-e a területhasználatot befolyásoló jogszabályokat, különösen a terület- és a településrendezésre, a környezetvédelemre, a természet- és tájvédelemre, a termőföldvédelemre, az árvíz- és a belvízvédelemre, a közlekedésre, az infrastruktúra-hálózatok elemeire, az akadálymentes épített környezet követelményeire, a katasztrófavédelemre, valamint az építészeti és kulturális örökség alakítására és védelmére vonatkozó szakmai követelményeket, a Magyar Köztársaság által elfogadott szakmai, nemzetközi egyezményeket és szakmai irányelveket,
+d)[^56] figyelembe veszik-e a területhasználatot befolyásoló jogszabályokat, különösen a terület- és a településrendezésre, a környezetvédelemre, a természet- és tájvédelemre, a termőföldvédelemre, az árvíz- és a belvízvédelemre, a közlekedésre, az infrastruktúra-hálózatok elemeire, az akadálymentes épített környezet követelményeire, a katasztrófavédelemre, valamint az építészeti és kulturális örökség alakítására és védelmére vonatkozó szakmai követelményeket, a Magyarország által elfogadott szakmai, nemzetközi egyezményeket és szakmai irányelveket,
 
 e) tisztázták-e a tervezett területhasználat környezeti, társadalmi és gazdasági hatásait,
 
@@ -20,7 +20,7 @@ a) az építészeti minőség, szakmai igényesség és szakszerűség, ezen bel
 
 aa) a telepítés (a környezetbe illeszkedés, a beépítés),
 
-ab)[^56] a tervezési program szerinti rendeltetés és a használhatóság,
+ab)[^57] a tervezési program szerinti rendeltetés és a használhatóság,
 
 ac) az esztétikus megjelenés (tömegalakítás, színezés, anyaghasználat),
 
@@ -30,4 +30,5 @@ ad) településképi és településszerkezeti hatásai kedvezőek-e, továbbá 
 
 b) a helyi építési szabályzatnak és a szabályozási tervnek, illetve ezek hiányában vagy nem teljes körű szabályozásuk esetén az illeszkedés követelményének.
 
-[^56]: A 15. § (2) bekezdésének ab) alpontja a 207/2008. (VIII. 27.) Korm. rendelet 12. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
+[^56]: A 15. § (1) bekezdés d) pontja a 276/2011. Korm. (XII. 20.) rendelet 9. §-a szerint módosított szöveg.
+[^57]: A 15. § (2) bekezdésének ab) alpontja a 207/2008. (VIII. 27.) Korm. rendelet 12. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 29. § (3) bekezdését.
