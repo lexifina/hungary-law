@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-356-20-
 | 2010-01-01 | 2007-356-20-22.4 | 356/2007. (XII. 23.) Korm. rendelet |
 | 2010-10-01 | 2007-356-20-22.5 | 252/2009. (XI. 16.) Korm. rendelet |
 | 2011-01-01 | 2007-356-20-22.6 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2012-01-01 | 2007-356-20-22.7 | 314/2011. (XII. 23.) Korm. rendelet |

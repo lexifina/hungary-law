@@ -6,7 +6,7 @@
 
 (3) Ha a bejelentő jogi személy vagy jogi személyiség nélküli szervezet, az adatlaphoz, illetve a szerződéshez csatolni kell
 
-a) a keletkezést tanúsító, illetőleg konstituáló bejegyzési határozat eredeti vagy közjegyző által hitelesített példányát vagy a regisztráló hatóság (cégbíróság, megyei bíróság) által vezetett közhiteles nyilvántartás tartalmáról kiállított hiteles másolatot vagy a közjegyzőkről szóló 1991. évi XLI. törvény 136. § (1) bekezdés i) pontjában meghatározottak szerint kiállított, 30 napnál nem régebbi közjegyzői tanúsítványt és
+a)[^8] a keletkezést tanúsító, illetőleg konstituáló bejegyzési határozat eredeti vagy közjegyző által hitelesített példányát vagy a regisztráló hatóság (cégbíróság, törvényszék) által vezetett közhiteles nyilvántartás tartalmáról kiállított hiteles másolatot vagy a közjegyzőkről szóló 1991. évi XLI. törvény 136. § (1) bekezdés i) pontjában meghatározottak szerint kiállított, 30 napnál nem régebbi közjegyzői tanúsítványt és
 
 b) az eredeti vagy közjegyző által hitelesített aláírási címpéldányt, illetve ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírásmintát.
 
@@ -16,3 +16,4 @@ b) az eredeti vagy közjegyző által hitelesített aláírási címpéldányt, 
 
 [^6]: A 6. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 599. § (6) bekezdése iktatta be.
 [^7]: A 6. § a 182/2009. (IX. 10.) Korm. rendelet 599. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 6. § (3) bekezdés a) pontja a 314/2011. (XII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
