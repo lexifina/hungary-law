@@ -1,6 +1,6 @@
 ## Adatvédelem és adatbiztonság
 
-5. § (1) A tudományos kutatás, a közvélemény-kutatás és piackutatás, valamint a közvetlen üzletszerzés céljára történő adatkezelés során — az Avtv.-ben, valamint az e törvényben foglaltaknak megfelelően — biztosítani kell az érintett jogát a személyes adatainak védelméhez. Így különösen:
+5. § (1) A tudományos kutatás, a közvélemény-kutatás és piackutatás, valamint a közvetlen üzletszerzés céljára történő adatkezelés során — az információs önrendelkezési jogról és az információszabadságról szóló törvényben, valamint az e törvényben foglaltaknak megfelelően — biztosítani kell az érintett jogát a személyes adatainak védelméhez. Így különösen:
 
 a) a kapcsolatfelvétellel egyidejűleg az érintettet írásban tájékoztatni kell arról, hogy a megkereső az adatokat milyen forrásból szerezte; az adatfelhasználás céljáról, módjáról, időtartamáról, az adatkezelés során közreműködő (megbízott) igénybevételéről és az esetleges későbbi adatátadási szándékról; az adatkezelésre jogosult szerv vagy személy nevéről és címéről, valamint arról, hogy az adatszolgáltatás önkéntes, és jogában áll adatainak a megjelölt célra vagy annak egy részére történő kezelésének a megszüntetését kérni;
 

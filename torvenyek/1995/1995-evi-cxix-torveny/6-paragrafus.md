@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésben meghatározott intézkedésekről és azok kötelező betartásáról az adatkezelőket és az adatok kezelésében részt vevő személyeket (alkalmazott, megbízott) tájékoztatni kell.
 
-(3) Az adatkezelő az e törvény hatálya alá tartozó adatkezeléseket — kivéve, ha az tudományos kutatás célját szolgálja, és nem hozzák nyilvánosságra [Avtv. 30. § h) pont] — a tevékenység megkezdése előtt az Avtv. 28. §-ának (1) bekezdése alapján köteles az adatvédelmi biztosnak bejelenteni.
+(3) Az adatkezelő az e törvény hatálya alá tartozó adatkezeléseket a tevékenység megkezdése előtt az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint köteles a Nemzeti Adatvédelmi és Információszabadság Hatóságnak bejelenteni.
