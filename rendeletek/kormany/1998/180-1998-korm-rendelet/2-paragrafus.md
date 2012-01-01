@@ -1,9 +1,9 @@
-2. § (1)[^2] A tűzvédelmi bírságot, valamint a Ttv. 44. §-ának (1) bekezdése alapján a biztosítókat terhelő tűzvédelmi hozzájárulást a központi költségvetés Belügyminisztérium fejezetében a fejezeti kezelésű előirányzatoknál vezetett 10032000-01220122-50000005 számú előirányzat-felhasználási keretszámlára kell befizetni.
+2. § (1)[^3] A Ttv. 43. §-ában meghatározott tűzvédelmi bírságot a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) 10023002-00283494-20000002 számú bírság letéti számla javára kell befizetni.
 
-(2)[^3] Ahol az R. alszámlát említ, azon keretszámlát kell érteni.
+(2)[^4] A befizetés során az átutalás közlemény rovatában fel kell tüntetni a „tűzvédelmi bírság” szöveget, a határozat számát és a bírságfizetésre kötelezett nevét.
 
-(3)[^4] Az alszámla felett a fejezeti kezelésű előirányzatok felhasználásáról szóló szabályok szerint a katasztrófák elleni védekezésért felelős miniszter rendelkezik (a továbbiakban: rendelkező).
+(3)[^5] A Ttv. 44. § (1) bekezdése alapján a biztosítókat terhelő tűzvédelmi hozzájárulást a BM OKF (a továbbiakban: rendelkező) 10023002-00283494-00000000 számú előirányzat felhasználási keretszámla (a továbbiakban: alszámla) javára kell befizetni.
 
-[^2]: A 2. § (1) bekezdése a 278/2010. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § új (2) bekezdését a 87/1999. (VI. 11.) Korm. rendelet 1. §-a iktatta a szövegbe, s egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre módosította.
-[^4]: A 2. § (3) bekezdése a 278/2010. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 274/2011. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § új (2) bekezdését a 87/1999. (VI. 11.) Korm. rendelet 1. §-a iktatta a szövegbe, s egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre módosította, szövege a 274/2011. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (3) bekezdése a 274/2011. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
