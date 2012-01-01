@@ -1,0 +1,1 @@
+A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 81. § d) pontjában kapott felhatalmazás alapján, a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § q) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
