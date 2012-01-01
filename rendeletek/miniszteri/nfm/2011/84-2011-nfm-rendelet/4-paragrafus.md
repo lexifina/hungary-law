@@ -1,0 +1,1 @@
+## 3. § Útvonalhasználati díjat – a 7. §-ban foglalt kivétellel – az 1191/2010/EU bizottsági rendelettel módosított 1794/2006/EK bizottsági rendelet 10. cikke szerint, a Budapest Repüléstájékoztató Körzetben az 5. § (1) bekezdésében meghatározott távolság alapján műszer szerinti repülési szabályoknak megfelelően működő repülések után kell fizetni.
