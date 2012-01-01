@@ -1,5 +1,3 @@
-## 24. § Ha az Szt. 38. §-a (1) bekezdésének a) pontja szerinti lakásfenntartási támogatásban részesülő személy lakcíme a támogatás folyósításának időtartama alatt megváltozik, vagy a jogosult meghal, a változás, illetve a haláleset hónapjára járó támogatást a korábban illetékes folyósító szerv teljes összegben folyósítja, de a támogatás további folyósítását meg kell szüntetni.
-
 ## Ápolási díj
 
 25. § (1) Az ápolási díj megállapítása iránti kérelmet a 4. számú melléklet szerinti formanyomtatványon kell benyújtani. A kérelemhez – figyelemmel az 1. § (3) bekezdésében foglaltakra – mellékelni kell

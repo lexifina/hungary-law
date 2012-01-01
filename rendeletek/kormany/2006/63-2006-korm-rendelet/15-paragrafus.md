@@ -10,7 +10,7 @@ ba) ha a tankötelezett korhatárt már betöltötték, a tanulói, hallgatói j
 
 bb)[^44] a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos állapotot igazoló irat.
 
-(2)[^45] Ha az Szt. 33. § (1) bekezdés a) pontjában meghatározott egészségkárosodott személy a kérelméhez a Nemzeti Rehabilitációs és Szociális Hivatalnak (a továbbiakban: szakértői bizottság) a munkaképesség-csökkenés vagy egészségkárosodás minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalását vagy szakvéleményét nem csatolta, a hatóság a munkaképesség legalább 67%-os mértékű csökkenése, illetve a legalább 50%-os mértékű egészségkárosodás fennállása kérdésében – szakhatósági állásfoglalás kiadása céljából – megkeresi a szakértői bizottságot.
+(2)[^45] Ha az Szt. 33. § (1) bekezdés a) pontjában meghatározott egészségkárosodott személy a kérelméhez a Nemzeti Rehabilitációs és Szociális Hivatalnak (a továbbiakban: szakértői bizottság) a munkaképesség-csökkenés, az egészségkárosodás vagy az egészségi állapot minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalását vagy szakvéleményét nem csatolta, a hatóság a munkaképesség legalább 67%-os mértékű csökkenése, a legalább 50%-os mértékű egészségkárosodás fennállása, illetve az egészségi állapot komplex minősítés alapján megállapított mértéke kérdésében – szakhatósági állásfoglalás kiadása céljából – megkeresi a szakértői bizottságot.
 
 (3)[^46] Az Szt. 33. § (1) bekezdés b)–g) pontjában meghatározott személy esetében – az (1) bekezdésben foglaltakon túlmenően – a kérelem elbírálásához szükséges
 
@@ -30,24 +30,25 @@ f) az iskolai végzettséget, szakképzettséget igazoló okirat másolata; az a
 
 (5) Az (1) bekezdés b) pontjának bb) alpontja szerinti
 
-a) tartósan beteg állapot fennállása a magasabb összegű családi pótlék, a rokkantsági járadék, a saját jogú rokkantsági nyugdíj folyósítását igazoló irattal,
+a)[^50] tartósan beteg állapot fennállása a magasabb összegű családi pótlék, a rokkantsági járadék, a rokkantsági ellátás, rehabilitációs ellátás, rehabilitációs járadék, vagy a megváltozott munkaképesség miatt megállapított hozzátartozói nyugellátás folyósítását igazoló irattal,
 
-b)[^50] autista, testi, érzékszervi, értelmi vagy beszédfogyatékos állapot fennállása a magasabb összegű családi pótlék, a vakok személyi járadéka, a fogyatékossági támogatás folyósítását igazoló irattal
+b)[^51] autista, testi, érzékszervi, értelmi vagy beszédfogyatékos állapot fennállása a magasabb összegű családi pótlék, a vakok személyi járadéka, a fogyatékossági támogatás folyósítását igazoló irattal
 
 ## igazolható.
 
-(6)[^51] Ha az egészségkárosodott személy esetében a (2) bekezdés szerinti szakvélemény vagy szakhatósági állásfoglalás időbeli hatálya lejárt és az egészségkárosodott személy az időbeli hatály lejárta előtt újabb szakhatósági állásfoglalást nem nyújtott be, a jegyző – szakhatósági állásfoglalás kiadása céljából – megkeresi a szakértői bizottságot.
+(6)[^52] Ha az egészségkárosodott személy esetében a (2) bekezdés szerinti szakvélemény vagy szakhatósági állásfoglalás időbeli hatálya lejárt és az egészségkárosodott személy az időbeli hatály lejárta előtt újabb szakhatósági állásfoglalást nem nyújtott be, a jegyző – szakhatósági állásfoglalás kiadása céljából – megkeresi a szakértői bizottságot.
 
-(7)[^52]
+(7)[^53]
 
 [^42]: A 15. §-t megelőző alcím a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont ba) alpontjával megállapított szöveg.
 [^43]: A 15. § (1) bekezdés bevezető szövegrésze a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont bb) alpontjával megállapított szöveg.
 [^44]: A 15. § (1) bekezdése b) pontjának bb) alpontja a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ac) alpontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
-[^45]: A 15. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (3) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^45]: A 15. § (2) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^46]: A 15. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^47]: A 15. § (3) bekezdés a) pontja a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 8. pontja szerint módosított szöveg.
 [^48]: A 15. § (3) bekezdés b) pontja a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 9. pontja szerint módosított szöveg.
 [^49]: A 15. § (4) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^50]: A 15. § (5) bekezdésének b) pontja a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ad) alpontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
-[^51]: A 15. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte, újonnan a 140/2010. (IV. 28.) Korm. rendelet 16. §-a iktatta be.
-[^52]: A 15. § (7) bekezdését a 75/2009. (IV. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 15. § a) pontja.
+[^50]: A 15. § (5) bekezdés a) pontja a 331/2011. (XII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^51]: A 15. § (5) bekezdésének b) pontja a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ad) alpontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
+[^52]: A 15. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte, újonnan a 140/2010. (IV. 28.) Korm. rendelet 16. §-a iktatta be.
+[^53]: A 15. § (7) bekezdését a 75/2009. (IV. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 15. § a) pontja.

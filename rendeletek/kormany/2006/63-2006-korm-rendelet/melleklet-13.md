@@ -1,43 +1,31 @@
-13. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^196]
+| Közös képviselő nyilatkozata a természetben nyújtott normatív lakásfenntartási támogatás megállapításához |
 
-A közgyógyellátási igazolvány tartalmi elemei
+| Alulírott ...................................................... (név, megnevezés) ..................................... (cím, székhely), mint közös képviselő, a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 20. §-a (2) bekezdésének c) pontjában foglaltak alapján igazolom, hogy ........................................................................................................................................................... (név) ................................................................................................................................................................................ (lakcím) |
 
-A közgyógyellátási igazolvány:
+| ⬜ közös mérővel rendelkező társasházi lakásban lakó, ………………...szolgáltatást igénybe vevő személy, vagy |
 
-Chip és mágnescsík nélküli, az ISO 7810 szabványnak megfelelő, ID–1 méretű, melegen laminált műanyag kártya
+| ⬜ a ………………...............…szolgáltatás díját a szolgáltató részére díjszétosztás nélkül fizető társasház lakója |
 
-Az igazolvány első oldalán a következők szerepelnek:
+| (a megfelelő négyzetbe X jelet kell tenni), |
 
-KÖZGYÓGYELLÁTÁSI IGAZOLVÁNY (nyomtatott nagy betűkkel)
+| aki a szolgáltatási díj megfizetésére köteles. |
 
-A kiállított igazolvány egyedi adatai:
+| Azonosító adatok a szolgáltatást igénybe vevő személyre tekintettel: |
 
-A közgyógyellátási igazolvány száma (KGYSZ)
+| 1. A szolgáltató megnevezése: ………………………………….....……………………..............................…….... |
 
-A jogosult neve
+| 2. Fogyasztó/ügyfél azonosító: ……………………………………………..…………...............................………. |
 
-Születési idő
+| 3.1) Fogyasztási hely azonosító: ………………………………………………................................……………… |
 
-Társadalombiztosítási Azonosító Jel
+| VAGY |
 
-A jogosultság kezdetének időpontja
+| 3.2) A mérő azonosító száma/hőközpont azonosító száma: ………………..............................…………………… |
 
-A jogosultság lejártának időpontja
+| Kelt: ..........................................., .................................... |
 
-Az igazolvány másik oldalán a következők szerepelnek:
+| ............................................................. aláírás |
 
-A Közgyógyellátásra jogosult személy térítésmentesen jogosult a társadalombiztosítási támogatásba befogadott
+13. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^203]
 
-a) járóbeteg ellátás keretében rendelhető gyógyszerekre,
-
-b) egyes gyógyászati segédeszközökre,
-
-c) az orvosi rehabilitáció céljából igénybe vehető gyógyászati ellátásokra.
-
-Az a) pontban foglalt esetben a jogosult gyógyszerkerete összegéig, a b)–c) pontban foglalt esetben pedig a közfinanszírozás alapjául elfogadott ár erejéig vehető térítésmentesen igénybe a gyógyító ellátás.
-
-A kártya sorszáma
-
-A jogosult aláírása
-
-[^196]: A 13. számú melléklet e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^203]: A 13. számú melléklet e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.

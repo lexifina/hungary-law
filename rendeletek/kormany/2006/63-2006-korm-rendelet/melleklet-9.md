@@ -80,6 +80,6 @@
 
 ## A megfelelő választ X-szel kell jelölni, illetve a hiányzó adatokat kitölteni.
 
-9. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^191]
+9. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^198]
 
-[^191]: A 9. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 452. § (10) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 110. § (4) bekezdése, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés c) pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^198]: A 9. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 452. § (10) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 110. § (4) bekezdése, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés c) pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.

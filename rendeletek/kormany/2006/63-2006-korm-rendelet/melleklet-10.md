@@ -38,7 +38,7 @@
 
 ## ⬜ rokkantsági járadék
 
-## ⬜ I. vagy II. csoportú rokkantsági vagy baleseti rokkantsági nyugellátás
+## ⬜ rokkantsági ellátás
 
 ## ⬜ magasabb összegű családi pótlék (akkor is, ha abban nem a kérelmező részesül, de azt a kérelmezőre tekintettel folyósítják).
 
@@ -54,7 +54,7 @@
 
 ## rokkantsági járadék
 
-## rokkantsági/baleseti rokkantsági nyugdíj
+## rokkantsági ellátás
 
 ## folyósításáról;
 
@@ -182,7 +182,7 @@
 
 ## Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott pénzbeli támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek az öregségi nyugdíj legkisebb összegét meghaladó részét.
+## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott pénzbeli támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
 
 ## A családtagok jövedelmét külön-külön kell feltüntetni. A családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
 
@@ -202,7 +202,7 @@
 
 ## 3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
-## 4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, rokkantsági, baleseti rokkantsági nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; rendszeres szociális járadék, átmeneti járadék, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék.
+## 4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
 ## 5. Önkormányzat és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, a foglalkoztatást helyettesítő támogatás, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
@@ -210,7 +210,7 @@
 
 ## A jövedelemről a jövedelem típusának megfelelő iratot vagy annak másolatát a kérelemhez mellékelni szükséges.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^192]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^199]
 
 ## Háziorvosi igazolás
 
@@ -268,4 +268,4 @@ Figyelem! Ha a közgyógyellátás iránti kérelmet az Szt. 50. § (1) bekezdé
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^192]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^199]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,29 +1,21 @@
-## 19. §[^77]
+## 19. §[^82]
 
 ## Lakásfenntartási támogatás
 
-20. § (1) A lakásfenntartási támogatás iránti kérelemnek az 1. § (1) bekezdésének a) pontjában foglaltakon túl tartalmaznia kell a támogatást kérő nyilatkozatát
+20. § (1)[^83] A lakásfenntartási támogatás megállapítása iránti kérelmet a 12. számú melléklet szerinti formanyomtatványon kell benyújtani.
 
-a) a lakásban tartózkodásának jogcíméről,
+(2)[^84] A lakásfenntartási támogatás megállapításához
 
-b)[^78] a kérelmezővel közös háztartásban élők számáról,
+a) az 1. számú melléklet szerinti vagyonnyilatkozat, valamint a háztartás tagjai jövedelmének hitelt érdemlő igazolása,
 
-c)[^79] annak a lakásnak a nagyságáról, amelyre tekintettel a támogatást igényli, és
+b) a lakás nagyságának hitelt érdemlő igazolása, valamint
 
-d)[^80] arról, hogy háztartásában előrefizetős gáz- vagy áramfogyasztást mérő készülék (a továbbiakban: készülék) került felszerelésre.
-
-(2) A lakásfenntartási támogatás megállapításához
-
-a)[^81] a háztartás tagjainak jövedelmére vonatkozó, az önkormányzat rendeletében meghatározott jövedelemnyilatkozat, jövedelemigazolás, valamint az 1. számú melléklet szerinti vagyonnyilatkozat, továbbá
-
-b) a lakás nagyságának hitelt érdemlő módon történő igazolása
+c) a természetbeni szociális ellátásként nyújtott ellátás esetén az Szt. 18. § l) pontja szerinti adat megállapítására, igazolására szolgáló irat bemutatása vagy másolatának csatolása, továbbá – a 21. § (6) bekezdése szerinti, társasházban lakó jogosult esetében – a közös képviselő 12/A. melléklet szerinti nyilatkozata
 
 ## szükséges.
 
 (3) Az Szt. 38. § (1) bekezdésének b) pontjában szabályozott lakásfenntartási támogatás megállapítása iránt kérelmet nem kell benyújtani.
 
-[^77]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.
-[^78]: A 20. § (1) bekezdés b) pontja a 341/2008. (XII. 30.) Korm. rendelet 21. § (3) bekezdés b) pont bb) alpontja szerint módosított szöveg.
-[^79]: A 20. § (1) bekezdés c) pontja a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont be) alpontja szerint módosított szöveg.
-[^80]: A 20. § (1) bekezdés d) pontját a 341/2008. (XII. 30.) Korm. rendelet 16. §-a iktatta be.
-[^81]: A 20. § (2) bekezdés a) pontja a 358/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^82]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.
+[^83]: A 20 § (1) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^84]: A 20 § (2) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

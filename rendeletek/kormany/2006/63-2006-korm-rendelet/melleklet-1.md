@@ -1,6 +1,6 @@
-## 62. §[^183]
+## 62. §[^190]
 
-1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^184]
+1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^191]
 
 ## Vagyonnyilatkozat
 
@@ -20,7 +20,7 @@ I. A kérelmező személyes adatai
 
 ## Társadalombiztosítási Azonosító Jele:
 
-II. A kérelmező és a vele együttélő közeli hozzátartozójának vagyona
+II. A kérelmező és a vele együttélő közeli hozzátartozójának, lakásfenntartási támogatás esetén a háztartás valamennyi tagjának vagyona
 
 ## A. Ingatlanok
 
@@ -48,13 +48,13 @@ Gépjármű:
 
 a) személygépkocsi: ......................................... típus .................. rendszám
 
-a szerzés ideje: .............................................................
+szerzés ideje, valamint a gyártás éve: .............................................................
 
 Becsült forgalmi érték:** ...................................... Ft
 
-b) tehergépjármű, autóbusz: ................................ típus ..................... rendszám
+b) tehergépjármű, autóbusz, motorkerékpár, vízi- vagy egyéb jármű: ................................ típus ..................... rendszám
 
-a szerzés ideje: .................................................................
+szerzés ideje, valamint a gyártás éve: .................................................................
 
 Becsült forgalmi érték:** ............................................ Ft
 
@@ -68,7 +68,7 @@ aláírás
 
 Megjegyzés:
 
-Ha a kérelmező vagy családtagja bármely vagyontárgyból egynél többel rendelkezik, akkor a vagyonnyilatkozat megfelelő pontját a vagyontárgyak számával egyezően kell kitölteni. Amennyiben a vagyonnyilatkozatban feltüntetett vagyon nem a Magyar Köztársaság területén van, a forgalmi értéket a vagyon helye szerinti állam hivatalos pénznemében is fel kell tüntetni.
+Ha a kérelmező vagy családtagja bármely vagyontárgyból egynél többel rendelkezik, akkor a vagyonnyilatkozat megfelelő pontját a vagyontárgyak számával egyezően kell kitölteni. Amennyiben a vagyonnyilatkozatban feltüntetett vagyon nem a Magyarország területén van, a forgalmi értéket a vagyon helye szerinti állam hivatalos pénznemében is fel kell tüntetni.
 
 __________
 
@@ -76,5 +76,5 @@ __________
 
 ** Becsült forgalmi értékként a jármű kora és állapota szerinti értékét kell feltüntetni.
 
-[^183]: A 62. § – amely e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett volna hatályba – a 83/2006. (IV. 7.) Korm. rendelet 2. §-a alapján nem lép hatályba.
-[^184]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^190]: A 62. § – amely e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett volna hatályba – a 83/2006. (IV. 7.) Korm. rendelet 2. §-a alapján nem lép hatályba.
+[^191]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,4 +1,4 @@
-## 49. §[^168] Az igazolványok előállításának feltételeiről, valamint a háziorvosok 10. számú melléklet szerinti nyomtatvánnyal történő ellátásáról a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve gondoskodik.
+## 49. §[^175] Az igazolványok előállításának feltételeiről, valamint a háziorvosok 10. számú melléklet szerinti nyomtatvánnyal történő ellátásáról a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve gondoskodik.
 
 ## Egészségügyi szolgáltatásra való jogosultság
 
@@ -6,4 +6,4 @@
 
 (2) A kérelem elbírálása során meg kell vizsgálni, hogy a kérelmező az egészségügyi szolgáltatás igénybevételére más jogcímen valóban nem jogosult.
 
-[^168]: A 49. § a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^175]: A 49. § a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.

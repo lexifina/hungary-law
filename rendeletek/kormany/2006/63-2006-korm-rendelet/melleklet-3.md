@@ -98,7 +98,7 @@
 
 ## 2. Jövedelemre vonatkozó adatok
 
-## Nyugdíj vagy nyugdíjszerű ellátásként kell feltüntetni az öregségi nyugdíjat, a rokkantsági nyugdíjat, a mezőgazdasági járadékot, az özvegyi nyugdíjat, a baleseti rokkantsági nyugdíjat, a hozzátartozói baleseti nyugellátást, az átmeneti járadékot, a rendszeres szociális járadékot, a bányászok egészségkárosodási járadékát, a rokkantsági járadékot, a rehabilitációs járadékot, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásait és egyéb hasonló jellegű juttatásokat.
+## Nyugdíj vagy nyugdíjszerű ellátásként kell feltüntetni az öregségi nyugdíjat, az özvegyi nyugdíjat, a hozzátartozói baleseti nyugellátást, a mezőgazdasági járadékot, a korhatár előtti ellátást, a szolgálati járandóságot, a balettművészeti életjáradékot, az átmeneti bányászjáradékot, a rokkantsági ellátást, a rehabilitációs ellátást, a bányászok egészségkárosodási járadékát, a rokkantsági járadékot, a rehabilitációs járadékot, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásait és egyéb hasonló jellegű juttatásokat.
 
 ## Keresőtevékenységből származó jövedelemnek minősül minden olyan bevétel, amely munkavégzésből származik - például: munkabér, megbízási díj, vállalkozásból származó jövedelem.
 
@@ -106,7 +106,7 @@
 
 ## Ha a jövedelemből munkavállalói járulékot, személyi jövedelemadót, egészségbiztosítási és nyugdíjjárulékot, magán-nyugdíjpénztári tagdíjat fizetnek, akkor jövedelemnek e befizetésekkel csökkentett összegét kell a kérelemben szerepeltetni.
 
-## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott pénzbeli támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek az öregségi nyugdíj legkisebb összegét meghaladó részét.
+## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott pénzbeli támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
 
 ## A havi jövedelem kiszámításakor
 
@@ -118,6 +118,6 @@
 
 ## A jövedelemről a jövedelem típusának megfelelő iratot vagy annak másolatát a kérelemhez mellékelni szükséges.
 
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^186]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^193]
 
-[^186]: A 3. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^193]: A 3. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.
