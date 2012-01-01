@@ -16,7 +16,7 @@ akkor hozható forgalomba, illetve használható fel hajón, ha kéntartalma leg
 
 (5) Az (1) bekezdés a) pontjában meghatározott időponttól kezdődően és a MARPOL VI. mellékletének 18. rendelkezésével összhangban a mintavételezésre kijelölt szervezet:
 
-a) nyilvántartást vezet a tengeri hajózásban használatos üzemanyag Magyar Köztársaságban bejegyzett forgalmazójáról,
+a)[^10] nyilvántartást vezet a tengeri hajózásban használatos üzemanyag Magyarországon bejegyzett forgalmazójáról,
 
 b) biztosítja, hogy valamennyi, az a) pontban meghatározott üzemanyag-forgalmazó társaság az általa forgalmazott tengeri hajózásban használatos üzemanyag kéntartalmát a tartálytér szállítójegyével vagy a termék minőségi bizonyítványával dokumentálja, és mellékeljen az üzemanyagot vételező hajó képviselője által aláírt, lepecsételt mintát,
 
@@ -27,3 +27,4 @@ d) azon dokumentumok egyidejű csatolásával, amelyek alapján megállapította
 (6) Az (1) bekezdés a) pontjában említett időponttól kezdődően hajózási gázolaj akkor hozható forgalomba, ha kéntartalma legfeljebb 1,5 m/m %.
 
 [^9]: A 3/A. §-t a 68/2006. (IX. 27.) GKM–KvVM–PM együttes rendelet 4. §-a iktatta be.
+[^10]: A 3/A. § (5) bekezdés a) pontja a 91/2011. (XII. 30.) NFM rendelet 32. §-a szerint módosított szöveg.

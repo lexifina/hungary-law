@@ -10,6 +10,6 @@
 
 3. számú melléklet a 17/2003. (IV. 4.) GKM–KvVM–PM
 
-együttes rendelethez[^39]
+együttes rendelethez[^40]
 
-[^39]: A 3. számú melléklet a 20/2009. (VIII. 14.) NFGM rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 15. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult eljárásokban kell alkalmazni.
+[^40]: A 3. számú melléklet a 20/2009. (VIII. 14.) NFGM rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 15. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult eljárásokban kell alkalmazni.

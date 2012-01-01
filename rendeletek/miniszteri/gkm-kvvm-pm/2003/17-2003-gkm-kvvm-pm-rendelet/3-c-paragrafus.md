@@ -1,4 +1,4 @@
-3/C. §[^13] (1) A hajózási hatóság – más EGT-állam hatóságaival együttműködve – hagyja jóvá magyar lobogó alatt közlekedő hajón a kibocsátás-csökkentési technológiák kísérleti alkalmazását. A kísérleti alkalmazás során nem kötelező a 3/A. § és 3/B. §-ban előírt követelményeknek megfelelő tengeri hajózásban használatos üzemanyagok használata, amennyiben a következő feltételek teljesülnek:
+3/C. §[^14] (1) A hajózási hatóság – más EGT-állam hatóságaival együttműködve – hagyja jóvá magyar lobogó alatt közlekedő hajón a kibocsátás-csökkentési technológiák kísérleti alkalmazását. A kísérleti alkalmazás során nem kötelező a 3/A. § és 3/B. §-ban előírt követelményeknek megfelelő tengeri hajózásban használatos üzemanyagok használata, amennyiben a következő feltételek teljesülnek:
 
 a) a hajózási hatóság legalább 6 hónappal a kísérleti alkalmazás megkezdése előtt írásban értesíti az Európai Bizottságot, és azon EGT-államok illetékes hatóságát, amelyek területén tengeri kikötő található,
 
@@ -34,4 +34,4 @@ b) a kibocsátás mértékét folyamatosan ellenőrző berendezéssel van felsze
 
 c) dokumentálja, hogy zárt kikötőben, horgonyzóhelyen és folyótorkolatban történő tartózkodása folyamán szennyező anyag kibocsátása a kikötő szerint illetékes állam hatósága által az IMO részére közölt határérték alatt marad.
 
-[^13]: A 3/C. §-t a 68/2006. (IX. 27.) GKM–KvVM–PM együttes rendelet 6. §-a iktatta be.
+[^14]: A 3/C. §-t a 68/2006. (IX. 27.) GKM–KvVM–PM együttes rendelet 6. §-a iktatta be.
