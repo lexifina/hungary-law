@@ -1,1 +1,0 @@
-## 10. § A Tpt. 279. § (6) bekezdésében meghatározott index készítőjének függetlennek kell lennie az adott indexet leképező indexkövető befektetési alap kezelőjétől. Az index készítője és az adott indexet leképező befektetési alap kezelője abban az esetben lehet ugyanazon gazdasági csoport része, ha az összeférhetetlenség kezelését belső szabályzatban határozzák meg.
