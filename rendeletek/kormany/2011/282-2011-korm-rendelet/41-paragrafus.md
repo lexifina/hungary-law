@@ -1,0 +1,1 @@
+## 40. § A Vát és Porpác települések közigazgatási területén megvalósuló repülőtér-fejlesztéssel összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 351/2009. (XII. 30.) Korm. rendelet 1. melléklete a 11. melléklet szerint módosul.
