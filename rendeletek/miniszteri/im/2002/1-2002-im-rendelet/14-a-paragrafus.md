@@ -1,6 +1,6 @@
-## A közjegyző által kibocsátott fizetési meghagyás és a fizetési meghagyás alapján kiállított végrehajtási lap továbbítása az önálló bírósági végrehajtó részére[^15]
+## Egyes végrehajtható okiratok elektronikus úton, automatizált eljárással történő továbbítása az önálló bírósági végrehajtó részére[^20]
 
-14/A. §[^16] (1) Az önálló bírósági végrehajtó részére
+14/A. §[^21] (1) Az önálló bírósági végrehajtó részére
 
 a) a közjegyző által kibocsátott, a fizetési meghagyásról szóló 2009. évi L. törvény (a továbbiakban: Fmhtv.) 16. § (3) bekezdése szerint kézbesítendő fizetési meghagyás,
 
@@ -10,7 +10,9 @@ c) a végrehajtási lap visszavonásáról szóló végzés,
 
 d) a végrehajtást és a biztosítási intézkedést megszüntető végzés és
 
-e) a végrehajtást a Polgári perrendtartásról szóló 1952. évi III. törvény 99/A. § (6) bekezdése és az Fmhtv. 32. § (2) bekezdése alapján felfüggesztő végzés
+e) a végrehajtást a Polgári perrendtartásról szóló 1952. évi III. törvény 99/A. § (6) bekezdése és az Fmhtv. 32. § (2) bekezdése alapján felfüggesztő végzés,
+
+f)[^22] a központi hatóságnak a tartásra kötelezett adatainak beszerzésére irányuló megkeresése
 
 a felügyelő szerv által működtetett, a végrehajtási ügyek végrehajtók közötti elosztására, valamint a végrehajtható okiratok és a kézbesítendő okiratok végrehajtók részére történő megküldésére szolgáló informatikai alkalmazás (a továbbiakban: ügyelosztási program) útján kerül továbbításra.
 
@@ -44,5 +46,6 @@ g) biztosítsa az ügyelosztási programmal végzett műveletek naplózását a 
 
 h) biztosítsa az ügyelosztási programban kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg sérülésük vagy megsemmisülésük elleni, továbbá a jogosulatlan adatbevitel elleni védelmet.
 
-[^15]: A 14/A. §-t megelőző alcímet a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be.
-[^16]: A 14/A. §-t a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be.
+[^20]: A 14/A. §-t megelőző alcímet a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be, szövege a 26/2011. (VIII. 31.) KIM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^21]: A 14/A. §-t a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be.
+[^22]: A 14/A. § (1) bekezdés f) pontját a 26/2011. (VIII. 31.) KIM rendelet 7. § (5) bekezdése iktatta be.

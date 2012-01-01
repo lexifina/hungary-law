@@ -1,8 +1,8 @@
 ## A bíróságok jelzőszáma
 
-## 0001 A Magyar Köztársaság Legfelsőbb Bírósága
+## 0001 Kúria
 
-## 2201 Fővárosi Ítélőtábla
+## 2201 Fővárosi Törvényszék
 
 ## 2202 Szegedi Ítélőtábla
 
@@ -28,7 +28,7 @@
 
 ## 0199 Fővárosi Munkaügyi Bíróság
 
-## 0200 Baranya Megyei Bíróság
+## 0200 Pécsi Törvényszék
 
 ## 0201 Pécsi Városi Bíróság
 
@@ -42,7 +42,7 @@
 
 ## 0299 Pécsi Munkaügyi Bíróság
 
-## 0300 Bács-Kiskun Megyei Bíróság
+## 0300 Kecskeméti Törvényszék
 
 ## 0301 Kecskeméti Városi Bíróság
 
@@ -60,7 +60,7 @@
 
 ## 0399 Kecskeméti Munkaügyi Bíróság
 
-## 0400 Békés Megyei Bíróság
+## 0400 Gyulai Törvényszék
 
 ## 0401 Gyulai Városi Bíróság
 
@@ -78,7 +78,7 @@
 
 ## 0499 Gyulai Munkaügyi Bíróság
 
-## 0500 Borsod-Abaúj-Zemplén Megyei Bíróság
+## 0500 Miskolci Törvényszék
 
 ## 0501 Miskolci Városi Bíróság
 
@@ -102,7 +102,7 @@
 
 ## 0599 Miskolci Munkaügyi Bíróság
 
-## 0600 Csongrád Megyei Bíróság
+## 0600 Szegedi Törvényszék
 
 ## 0601 Szegedi Városi Bíróság
 
@@ -116,7 +116,7 @@
 
 ## 0699 Szegedi Munkaügyi Bíróság
 
-## 0700 Fejér Megyei Bíróság
+## 0700 Székesfehérvári Törvényszék
 
 ## 0701 Székesfehérvári Városi Bíróság
 
@@ -128,7 +128,7 @@
 
 ## 0799 Székesfehérvári Munkaügyi Bíróság
 
-## 0800 Győr-Moson-Sopron Megyei Bíróság
+## 0800 Győri Törvényszék
 
 ## 0801 Győri Városi Bíróság
 
@@ -138,7 +138,7 @@
 
 ## 0899 Győri Munkaügyi Bíróság
 
-## 0900 Hajdú-Bihar Megyei Bíróság
+## 0900 Debreceni Törvényszék
 
 ## 0901 Debreceni Városi Bíróság
 
@@ -152,7 +152,7 @@
 
 ## 0999 Debreceni Munkaügyi Bíróság
 
-## 1000 Heves Megyei Bíróság
+## 1000 Egri Törvényszék
 
 ## 1001 Egri Városi Bíróság
 
@@ -166,7 +166,7 @@
 
 ## 1099 Egri Munkaügyi Bíróság
 
-## 1100 Jász-Nagykun-Szolnok Megyei Bíróság
+## 1100 Szolnoki Törvényszék
 
 ## 1101 Szolnoki Városi Bíróság
 
@@ -182,7 +182,7 @@
 
 ## 1199 Szolnoki Munkaügyi Bíróság
 
-## 1200 Komárom-Esztergom Megyei Bíróság
+## 1200 Tatabányai Törvényszék
 
 ## 1201 Tatabányai Városi Bíróság
 
@@ -194,7 +194,7 @@
 
 ## 1299 Tatabányai Munkaügyi Bíróság
 
-## 1300 Nógrád Megyei Bíróság
+## 1300 Balassagyarmati Törvényszék
 
 ## 1301 Balassagyarmati Városi Bíróság
 
@@ -204,7 +204,7 @@
 
 ## 1399 Salgótarjáni Munkaügyi Bíróság
 
-## 1400 Pest Megyei Bíróság
+## 1400 Budapest Környéki Törvényszék
 
 ## 1401 Budakörnyéki Bíróság
 
@@ -232,7 +232,7 @@
 
 ## 1499 Pest Megyei Munkaügyi Bíróság
 
-## 1500 Somogy Megyei Bíróság
+## 1500 Kaposvári Törvényszék
 
 ## 1501 Kaposvári Városi Bíróság
 
@@ -248,7 +248,7 @@
 
 ## 1599 Kaposvári Munkaügyi Bíróság
 
-## 1600 Szabolcs-Szatmár-Bereg Megyei Bíróság
+## 1600 Nyíregyházi Törvényszék
 
 ## 1601 Nyíregyházi Városi Bíróság
 
@@ -264,7 +264,7 @@
 
 ## 1699 Nyíregyházi Munkaügyi Bíróság
 
-## 1700 Tolna Megyei Bíróság
+## 1700 Szekszárdi Törvényszék
 
 ## 1701 Szekszárdi Városi Bíróság
 
@@ -278,7 +278,7 @@
 
 ## 1799 Szekszárdi Munkaügyi Bíróság
 
-## 1800 Vas Megyei Bíróság
+## 1800 Szombathelyi Törvényszék
 
 ## 1801 Szombathelyi Városi Bíróság
 
@@ -290,7 +290,7 @@
 
 ## 1899 Szombathelyi Munkaügyi Bíróság
 
-## 1900 Veszprém Megyei Bíróság
+## 1900 Veszprémi Törvényszék
 
 ## 1901 Veszprémi Városi Bíróság
 
@@ -304,7 +304,7 @@
 
 ## 1999 Veszprémi Munkaügyi Bíróság
 
-## 2000 Zala Megyei Bíróság
+## 2000 Zalaegerszegi Törvényszék
 
 ## 2001 Zalaegerszegi Városi Bíróság
 
@@ -316,7 +316,7 @@
 
 ## 2099 Zalaegerszegi Munkaügyi Bíróság
 
-2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^91]
+2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^117]
 
 A bírósági végrehajtók irattári terve
 
@@ -344,4 +344,4 @@ A bírósági végrehajtók irattári terve
 
 | 11 | Tartásra kötelezett adatainak beszerzésére irányuló ügy | 5 | 0 |
 
-[^91]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése, a 26/2011. (VIII. 31.) KIM rendelet 7. § (12) bekezdése szerint módosított szöveg.
+[^117]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése, a 26/2011. (VIII. 31.) KIM rendelet 7. § (12) bekezdése szerint módosított szöveg.

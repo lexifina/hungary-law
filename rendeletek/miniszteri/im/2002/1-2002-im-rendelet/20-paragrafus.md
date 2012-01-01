@@ -4,7 +4,7 @@ a) a végrehajtási ügy érkezésének napja,
 
 b) a végrehajtási ügyszám,
 
-c)[^22] a végrehajtható okirat száma, a végrehajtást elrendelő bíróság jelzőszáma, a végrehajtható okiratot kiállító közjegyző neve, székhelye,
+c)[^28] a végrehajtható okirat száma, a végrehajtást elrendelő bíróság jelzőszáma, a végrehajtható okiratot kiállító közjegyző neve, székhelye,
 
 d) a végrehajtást kérő hivatkozási száma,
 
@@ -16,7 +16,7 @@ g) a felek jogi képviselőjének neve, címe,
 
 h) a végrehajtás tárgya (a követelés jogcíme, összege, meghatározott cselekmény),
 
-i)[^23] a végrehajtási ügy költségkedvezménye,
+i)[^29] a végrehajtási ügy költségkedvezménye,
 
 j) soron kívüli ügyintézés,
 
@@ -32,15 +32,15 @@ o) az iratok hollétére vonatkozó adatok (iratok bíróságnak történő megk
 
 p) a végrehajtási ügy típusa,
 
-q)[^24] a végrehajtási ügyben tett utolsó érdemi intézkedés időpontja,
+q)[^30] a végrehajtási ügyben tett utolsó érdemi intézkedés időpontja,
 
-r)[^25] irattári tételszám,
+r)[^31] irattári tételszám,
 
-s)[^26] őrzési idő,
+s)[^32] őrzési idő,
 
-t)[^27] megjegyzés.
+t)[^33] megjegyzés.
 
-(2)[^28] A végrehajtási ügy típusaként [(1) bekezdés p) pont] a következő megnevezések egyikét kell feltüntetni a nyilvántartásban:
+(2)[^34] A végrehajtási ügy típusaként [(1) bekezdés p) pont] a következő megnevezések egyikét kell feltüntetni a nyilvántartásban:
 
 a) bírósági végrehajtási ügy, ezen belül megkeresés útján érkezett ügy,
 
@@ -54,15 +54,15 @@ e) végrehajtói kézbesítési ügy,
 
 f) végrehajtási kérelem elkészítése,
 
-g)[^29] tartásra kötelezett adatainak beszerzése.
+g)[^35] tartásra kötelezett adatainak beszerzése.
 
 (3) A megjegyzés rovatban fel kell tüntetni az iratok teljes vagy részleges eltűnését, megsemmisülését, illetve az egyéb szükséges adatokat.
 
-[^22]: A 20. § (1) bekezdés c) pontja a 27/2010. (V. 11.) IRM rendelet 3. §-ával megállapított szöveg.
-[^23]: A 20. § (1) bekezdés i) pontja a 27/2010. (V. 11.) IRM rendelet 3. §-ával megállapított szöveg.
-[^24]: A 20. § (1) bekezdésének új q) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti q) pont jelölését t) pontra változtatva. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^25]: A 20. § (1) bekezdésének r) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^26]: A 20. § (1) bekezdésének s) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^27]: A 20. § (1) bekezdése eredeti q) pontjának jelölését t) pontra változtatta a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése.
-[^28]: A 20. § (2) bekezdése a 28/2008. (XII. 10.) IRM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^29]: A 20. § (2) bekezdés g) pontját a 26/2011. (VIII. 31.) KIM rendelet 7. § (6) bekezdése iktatta be.
+[^28]: A 20. § (1) bekezdés c) pontja a 27/2010. (V. 11.) IRM rendelet 3. §-ával megállapított szöveg.
+[^29]: A 20. § (1) bekezdés i) pontja a 27/2010. (V. 11.) IRM rendelet 3. §-ával megállapított szöveg.
+[^30]: A 20. § (1) bekezdésének új q) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti q) pont jelölését t) pontra változtatva. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^31]: A 20. § (1) bekezdésének r) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^32]: A 20. § (1) bekezdésének s) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^33]: A 20. § (1) bekezdése eredeti q) pontjának jelölését t) pontra változtatta a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése.
+[^34]: A 20. § (2) bekezdése a 28/2008. (XII. 10.) IRM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^35]: A 20. § (2) bekezdés g) pontját a 26/2011. (VIII. 31.) KIM rendelet 7. § (6) bekezdése iktatta be.

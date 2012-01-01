@@ -14,9 +14,9 @@ f) biztosítási intézkedés végrehajtása esetén a végrehajtó a szüksége
 
 g) a meghatározott cselekmény végrehajtása során a végrehajtást kérő a Vht. 172. §-ának (3) bekezdése szerinti közlési kötelezettségének határidőben nem tett eleget,
 
-h)[^56] a végrehajtói kézbesítés szünetel, vagy eredménytelen,
+h)[^62] a végrehajtói kézbesítés szünetel, vagy eredménytelen,
 
-i)[^57] a különleges intézkedés iránti kérelemben közölt adatok nem elegendőek a tartásra kötelezett adatainak a nyilvántartásokból való lekérdezésére.
+i)[^63] a különleges intézkedés iránti kérelemben közölt adatok nem elegendőek a tartásra kötelezett adatainak a nyilvántartásokból való lekérdezésére.
 
-[^56]: A 34. § h) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (10) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^57]: A 34. § i) pontját a 26/2011. (VIII. 31.) KIM rendelet 26. § (11) bekezdése iktatta be.
+[^62]: A 34. § h) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (10) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^63]: A 34. § i) pontját a 26/2011. (VIII. 31.) KIM rendelet 26. § (11) bekezdése iktatta be.
