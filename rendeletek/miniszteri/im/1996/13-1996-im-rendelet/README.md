@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-13-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1996-13-20-06.4 | 13/1996. (XII. 23.) IM rendelet |
+| 2012-01-01 | 1996-13-20-06.5 | 41/2011. (XII. 30.) KIM rendelet |
