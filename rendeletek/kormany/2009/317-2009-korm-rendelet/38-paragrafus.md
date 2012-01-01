@@ -1,4 +1,4 @@
-## 1–37. §[^1]
+## 1–37. §[^2]
 
 ## II. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## SAJÁTOSSÁGAIRÓL SZÓLÓ 240/2003. (XII. 17.) KORM. RENDELET MÓDOSÍTÁSA
 
-[^1]: Az 1–37. §-t a 41. § (2) bekezdése hatályon kívül helyezte.
+[^2]: Az 1–37. §-t a 41. § (2) bekezdése hatályon kívül helyezte.
