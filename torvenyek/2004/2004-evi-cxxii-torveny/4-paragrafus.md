@@ -1,6 +1,6 @@
 4. § (1) A 3. § (1) bekezdés d) pontja szerinti határozott időre szóló foglalkoztatásra irányuló jogviszony nem szüntethető meg felmentéssel a 3. § (1) bekezdés c) pontjában szereplő okból. A foglalkoztatásra irányuló jogviszonyra vonatkozó jogszabályokban foglaltakon túl a jogviszony megszűnik továbbá
 
-a) a programban részt vevő előrehozott öregségi, illetőleg öregségi nyugdíjra való jogosultsága életkori, valamint szolgálati időre vonatkozó feltételeinek megszerzésével, vagy rokkantsági, illetve baleseti rokkantsági nyugdíj részére történő megállapításával, vagy
+a) a programban részt vevő öregségi nyugdíjra való jogosultsága életkori, valamint szolgálati időre vonatkozó feltételeinek megszerzésével, vagy
 
 b) új munkaviszony, közalkalmazotti, közszolgálati jogviszony, állami vezetői szolgálati viszony létesítésével, kivéve a munkáltató jogutód nélküli megszűnése miatti, a megszűnést megelőzően legfeljebb 30 nappal végrehajtott áthelyezés esetét.
 
