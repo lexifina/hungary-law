@@ -1,6 +1,6 @@
 ## Költségvetési szervek hivatali kapuja – Hivatalkapu
 
-28. § (1)[^19] A költségvetési szervek hivatali kapu regisztrációját a központi rendszer működtetője végzi.
+28. § (1)[^21] A költségvetési szervek hivatali kapu regisztrációját a központi rendszer működtetője végzi.
 
 (2) A regisztráció a kormányzati portálról és a www.ekk.gov.hu honlapról elérhető űrlapon történik elektronikus vagy postai úton. Az űrlap adattartalmát és a regisztráció lépéseit az elektronikus közszolgáltatás működtetéséről szóló kormányrendelet határozza meg.
 
@@ -8,4 +8,4 @@
 
 (4) Költségvetési szerv és nonprofit szervezet számára a hivatali kapu létesítése és fenntartása díjmentes.
 
-[^19]: A 28. § (1) bekezdése a 215/2011. (X. 19.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 28. § (1) bekezdése a 215/2011. (X. 19.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.

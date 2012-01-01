@@ -6,17 +6,17 @@ a) költségvetési intézmények számára a Magyar Államkincstár által veze
 
 b) társas vállalkozások és egyéni cégek esetén a Cégbíróságok által vezetett cégnyilvántartásra,
 
-c)[^2] egyéni vállalkozások esetén a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által vezetett egyéni vállalkozói nyilvántartásra,
+c)[^3] egyéni vállalkozások esetén a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által vezetett egyéni vállalkozói nyilvántartásra,
 
-d)[^3] társadalmi szervezetek, alapítványok esetében az Országos Bírósági Hivatal elnöke által vezetett társadalmi szervezetek és alapítványok nyilvántartására,
+d)[^4] társadalmi szervezetek, alapítványok esetében az Országos Bírósági Hivatal elnöke által vezetett társadalmi szervezetek és alapítványok nyilvántartására,
 
-e)[^4] nem költségvetési intézményként működő közoktatási intézmények esetében az Oktatási Hivatal által vezetett KIR nyilvántartásra,
+e)[^5] nem költségvetési intézményként működő közoktatási intézmények esetében az Oktatási Hivatal által vezetett KIR nyilvántartásra,
 
-f)[^5] nem költségvetési intézményként működő felsőoktatási intézmények esetében az Oktatási Hivatal által vezetett FIR nyilvántartásra
+f)[^6] nem költségvetési intézményként működő felsőoktatási intézmények esetében az Oktatási Hivatal által vezetett FIR nyilvántartásra
 
 épülve.
 
-[^2]: A 4. § (2) bekezdés c) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba. A 160/2010. (V. 6.) Korm. rendelet 11. § (3) bekezdése alapján a hatálybalépés időpontja 2010. szeptember 1.
-[^3]: A 4. § (2) bekezdés d) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba. A 4. § (2) bekezdés d) pontja a 314/2011. (XII. 23.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^4]: A 4. § (2) bekezdés e) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.
-[^5]: A 4. § (2) bekezdés f) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.
+[^3]: A 4. § (2) bekezdés c) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba. A 160/2010. (V. 6.) Korm. rendelet 11. § (3) bekezdése alapján a hatálybalépés időpontja 2010. szeptember 1.
+[^4]: A 4. § (2) bekezdés d) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba. A 4. § (2) bekezdés d) pontja a 314/2011. (XII. 23.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés e) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.
+[^6]: A 4. § (2) bekezdés f) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.
