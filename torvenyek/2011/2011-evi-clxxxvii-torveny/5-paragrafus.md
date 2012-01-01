@@ -32,4 +32,4 @@ c) az átvett feladatok tekintetében a felnőttoktatási feladatokat is kötele
 
 (13) A (12) bekezdésben meghatározott fenntartó részt vehet a speciális és a készségfejlesztő speciális szakiskolai feladatellátásban. A (12) bekezdés a) pontja szerinti létszámarányt a köznevelési szerződés megkötésekor kell vizsgálni azzal, hogy az iskola hivatalos októberi statisztikai adatai alapján három tanítási év átlagában a nappali rendszerű iskolai oktatásban részt vevő iskolai tanulóinak létszámát kell figyelembe venni.
 
-(14) Az OKJ-ban meghatározott, agrárágazathoz tartozó szakképesítésben államilag támogatott iskolai rendszerű szakképzés kizárólag a vidékfejlesztésért felelős miniszter által alapított és fenntartott szakképző iskolában, vagy más fenntartó esetén – a vidékfejlesztésért felelős miniszter egyetértésével kötött – a nemzeti köznevelésről szóló törvényben meghatározott köznevelési szerződés és szakképzési megállapodás alapján folyhat.
+(14)

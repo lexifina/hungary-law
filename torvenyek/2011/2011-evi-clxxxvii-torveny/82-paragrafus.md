@@ -1,6 +1,6 @@
 82. § A bizottság
 
-a) kidolgozza az iskolai rendszerű szakképzés fejlesztésének az adott megyére vonatkozó, a szakképzés irányainak és a beiskolázási arányok rövid és középtávú tervét tartalmazó koncepcióját (szakképzés-fejlesztési koncepció), amely a megye hosszú és középtávú területfejlesztési stratégiájának, illetve a fővárosi, megyei fejlesztési terv részét képezi,
+a) kidolgozza az iskolai rendszerű szakképzés fejlesztésének az adott megyére vonatkozó, a szakképzés irányainak és a beiskolázási arányok rövid és középtávú tervét tartalmazó koncepcióját (szakképzés-fejlesztési koncepció), amely a megye, illetve a fővárosi területfejlesztési koncepció és területfejlesztési program részét képezi,
 
 b) javaslatot tesz az adott megyében a szakiskolai tanulmányi ösztöndíjról szóló kormányrendeletben meghatározott ösztöndíjra jogosító szakképesítésre (hiányszakképesítés),
 
@@ -12,6 +12,6 @@ e) részt vesz az iskolai rendszerű szakképzés fejlesztésével összefüggő
 
 f) fenntartói megkeresés esetén állást foglal a szakképzést érintő fenntartói döntések fővárosi, megyei munkaerő-piaci kereslettel összefüggő megalapozottságáról,
 
-g) együttműködik a regionális fejlesztési tanáccsal a szakképzési feladatok és a szakképzésfejlesztés tervezésében,
+g) együttműködik a megyei önkormányzatokkal, a főváros érintettsége esetén Budapest Főváros Önkormányzatával a szakképzési feladatok és a szakképzésfejlesztés tervezésében,
 
-h) közreműködik a pályaorientációs és a pályakövetési feladatok megvalósításában.
+h)

@@ -8,19 +8,19 @@
 
 2. egészségügyi alkalmasság: annak az orvosi szakvéleményre alapozott megállapítása, hogy a szakképzésbe bekapcsolódni szándékozó személy testi adottságai, egészségi és pszichikai állapota alapján képes önmaga és mások veszélyeztetése nélkül a választott szakma szerinti tevékenység, foglalkozás gyakorlására és a szakmai vizsgára való felkészülésre;
 
-3. életpálya-tanácsadás (pályaorientáció): a tanácskérő támogatása az életpálya-tanácsadási szolgáltatás keretében az érdeklődésének, képességének, személyiségének és a munkaerő-piaci igényeknek megfelelő pályaterv kialakításában és megvalósításában, amelynek keretében a tanácskérő a pályaválasztáshoz vagy a pályamódosításhoz kap segítséget;
+3.
 
-4. az életpálya-tanácsadás formája: az egyéni tanácsadás, a csoportos tanácsadás, a távtanácsadás és az elérő program az életpálya-tanácsadási szolgáltatás keretében;
+4.
 
 5. előírt gyakorlat: a szakképesítés megszerzéséhez szükséges, meghatározott munkaterületen, munkakörben korábban megszerzett gyakorlat, amelynek időtartamát a szakképesítés szakmai és vizsgakövetelménye (a továbbiakban: szakmai és vizsgakövetelmény) tartalmazza;
 
-6. első szakképesítés: az iskolai rendszerű szakképzésben elsőként megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít;
+6.
 
 7. eszköz- és felszerelési jegyzék: a szakmai és vizsgakövetelményben szakképesítésenként meghatározott, a képzési feladatok teljesítéséhez szükséges eszközök, gépek, szerszámok, alapanyagok, helyiségek és felszerelések minimuma;
 
 8. feladatprofil: a szakképesítéssel ellátható legjellemzőbb foglalkozás, tevékenység, valamint a munkaterület rövid leírása;
 
-9. foglalkoztatási, munkába állási tanácsadás: a munkavállalással, munkahely-megtartással kapcsolatos problémák feltárása, a problémák megoldásának, a sikeres elhelyezkedés megvalósítási tervének kidolgozása az életpálya-tanácsadási szolgáltatás keretében;
+9.
 
 10. gazdálkodó szervezet: gyakorlati képzést folytató, szakképzési hozzájárulásra kötelezett jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég, egyéni vállalkozó;
 
@@ -38,19 +38,19 @@
 
 17. iskolai tanműhely: olyan szakképző iskolai gyakorlati képzőhely, amely a szakképesítés jellegétől függően lehet műhely, tangazdaság, tanbolt, tankórterem, tankert, tanudvar, tankonyha, laboratórium, taniroda, demonstrációs terem, gyakorló- és szaktanterem stb;
 
-18. iskolai pályaválasztási tanácsadás: a pályaválasztási döntés elősegítése az életpálya-tanácsadási szolgáltatás keretében, a tanulmányok iskolai rendszerű vagy iskolarendszeren kívüli szakképzésben történő folytatása érdekében, olyan tanulási-képzési lehetőség, iskolatípus, szakképesítés kiválasztása, amely a tanácskérő igényeinek és a munkaerő-piaci keresletnek megfelel;
+18.
 
 19. iskolarendszeren kívüli hatósági jellegű képzés: jogszabályban meghatározott és hatóság által szabályozott tartalmú és célú képzés, amelynek eredményeként hatóság által meghatározott tevékenység folytatására feljogosító irat (engedély, bizonyítvány, a képző intézmény által kiállított igazolás stb.) kiadására kerül sor, vagy amely képzés hiányában jogszabályban meghatározott tevékenység nem folytatható;
 
-20. jelenléti óraszám: a kötelező tanórai foglalkozások azon része, amelyeken a részvétel a tanulónak az iskola feladatellátási helyén való személyes megjelenéséhez kötött;
+20.
 
 21. komplex szakmai vizsga: az iskolai rendszerű szakképzésben részt vevő tanuló és az iskolarendszeren kívüli szakképzésben részt vevő felnőtt szakmai elméleti és gyakorlati tudásának, képességeinek, készségeinek, ismereteinek mérése, amely az OKJ-ban meghatározott szakképesítés megszerzéséhez szükséges, a szakképesítéshez tartozó feladatprofil szerinti tevékenységek ellátásához meghatározott ismeretek elsajátítását tanúsító, jogszabályban meghatározott bizonyítvány kiadására irányuló eljárás;
 
-22. költségvetési hozzájárulás: a központi költségvetésből a nem állami köznevelési intézmények működéséhez nyújtott, a nemzeti köznevelésről szóló törvényben meghatározott támogatás;
+22.
 
-23. költségvetési támogatás: a szakképző iskolai feladatok ellátására a központi költségvetés terhére vagy önkormányzati forrásból nyújtott – a költségvetési hozzájárulást is tartalmazó – támogatások összessége;
+23.
 
-24. második és további szakképesítés: az iskolai rendszerű szakképzésben megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít, és már meglévő, államilag elismert szakképesítés birtokában szerzik meg. Második és további szakképesítés költségvetési támogatása szempontjából figyelmen kívül kell hagyni azt az OKJ-ban szereplő, államilag elismert szakképesítést, amelyet iskolarendszeren kívüli szakképzésben szereztek. Nem számít második szakképesítésnek a meglévő szakképesítéssel betölthető munkakör magasabb színvonalon való ellátását biztosító képzésben – szakmai és vizsgakövetelményben meghatározott körben – szerezhető szakképesítés;
+24.
 
 25. mesterképzés: olyan képzési forma, amelynek során meghatározott szakképesítéssel és szakmai gyakorlattal rendelkező szakembereket mestervizsgára készítenek fel a szakmai tevékenység mester szintű gyakorlásához szükséges szakmai elméleti és gyakorlati, a vállalkozás vezetéséhez szükséges gazdasági, jogi és munkaügyi, továbbá a tanulók képzéséhez szükséges alapvető pedagógiai ismeretek elsajátításával;
 
@@ -64,11 +64,11 @@
 
 30. országos gazdasági érdekképviseleti szervezet: a gazdasági kamarákról szóló törvényben meghatározott szervezet;
 
-31. pályaalkalmassági követelmény: a szakképzésbe történő bekapcsolódás – szakmai és vizsgakövetelményben meghatározott – azon feltétele, amely alapján megállapítható, hogy a szakképzésben részt venni szándékozó személy képességei, készségei alapján sikeresen fel tud készülni a választott szakképesítés komplex szakmai vizsgájára és a választott tevékenység, foglalkozás ellátására;
+31.
 
-32. pályainformáció-nyújtás: az életpálya-tanácsadási szolgáltatás keretében a foglalkoztatási, munkavállalási, közgazdasági, pénzügyi, jogi, társadalombiztosítási, migrációs – az információkérőt az adott helyzetben a döntéshozatalhoz segítő – információkat magában foglaló olyan pályainformációs tanácsadás, amely felöleli a teljes egyéni életút támogatását a kisiskoláskortól a munkaerőpiac elhagyásáig, ötvözi a képzések teljes világáról szóló információnyújtást és a munkaerőpiac megismertetését, a képzés és munka világának kapcsolódását;
+32.
 
-33. pályakorrekciós tanácsadás: a nem piacképes szakmai végzettséggel rendelkező tanácskérő támogatása új képzési irány vagy foglalkozás megtalálásában az életpálya-tanácsadási szolgáltatás keretében, amelynek alanya minden olyan szakképesítéssel rendelkező személy, akinek a pályaválasztása nem volt megalapozott, vagy szakképesítése nem piacképes;
+33.
 
 34. sajátos nevelési igényű tanuló, vizsgázó: a nemzeti köznevelésről szóló törvényben meghatározott sajátos nevelési igényű gyermek, tanuló, és az iskolarendszeren kívüli szakképzésben vizsgázó, fogyatékossággal élő felnőtt;
 
@@ -92,7 +92,7 @@
 
 44. szakmai tantárgy: a szakmai és vizsgakövetelmény teljesítéséhez a szakképzési kerettantervben előírt tantárgy;
 
-45. továbbtanulási tanácsadás: a tanuló adottságainak, tanulási képességének, irányultságának szakszerű vizsgálata, és ennek alapján továbbtanulási irány ajánlása az életpálya-tanácsadási szolgáltatás keretében;
+45.
 
 46. vizsgadíj: a vizsga megszervezésével, lebonyolításával kapcsolatban felmerülő, a feladatra elszámolható működési célú kiadások egy vizsgázóra jutó hányada;
 

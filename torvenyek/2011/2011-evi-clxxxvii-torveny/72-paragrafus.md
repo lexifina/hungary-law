@@ -16,7 +16,7 @@ b) létrehozza és működteti a Nemzeti Képesítési Bizottságot,
 
 c) az állami szakképzési és felnőttképzési szerv vezetője útján összeállíttatja a szakképesítésért felelős miniszter ágazatába tartozó szakképesítések modultérképei alapján az országos modultérképet (a továbbiakban: országos modultérkép) és gondoskodik annak nyilvánosságra hozataláról,
 
-d) létrehozza a regionális fejlesztési tanácsokkal együttműködő, a fővárosi, megyei szakképzési feladatellátást koordináló, a szakképzés minőségi fejlesztését segítő – a 81. §-ban meghatározott – fővárosi, megyei fejlesztési és képzési bizottságokat (a továbbiakban: megyei fejlesztési és képzési bizottság), és a gazdasági kamarával együtt gondoskodik működési feltételeiknek biztosításáról,
+d) létrehozza a megyei önkormányzatokkal, a főváros érintettsége esetén Budapest Főváros Önkormányzatával együttműködő, a fővárosi, megyei szakképzési feladatellátást koordináló, a szakképzés minőségi fejlesztését segítő – a 81. §-ban meghatározott – fővárosi, megyei fejlesztési és képzési bizottságokat (a továbbiakban: megyei fejlesztési és képzési bizottság), és a gazdasági kamarával együtt gondoskodik működési feltételeiknek biztosításáról,
 
 e) kidolgoztatja és kiadja
 
@@ -32,7 +32,7 @@ f) kezdeményezi a közismereti tárgyak oktatásához a szakiskolákban, továb
 
 g) közvetlenül – vagy az állami szakképzési és felnőttképzési szerv vezetője útján, a 14. § (2) bekezdésében foglaltak figyelembevételével – valamennyi szakképesítés tekintetében megbízza a szakmai vizsgabizottság elnökét,
 
-h) kidolgoztatja és működteti a 16. § szerinti, a komplex szakmai vizsgák lebonyolításának és az adatszolgáltatásnak az informatikai támogatását és a 9. § szerinti, a komplex szakmai vizsgán kiadott bizonyítványok központi elektronikus nyilvántartását.
+h)
 
 (3) A szakképzésért és felnőttképzésért felelős miniszter az OKJ alapján hatáskörébe utalt szakképesítések tekintetében ellátja a szakképesítésért felelős miniszter 73. §-ban meghatározott feladatait.
 

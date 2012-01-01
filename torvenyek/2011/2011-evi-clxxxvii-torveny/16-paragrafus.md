@@ -1,6 +1,6 @@
 ## 11. A komplex szakmai vizsgát szervező intézmény adatszolgáltatása
 
-16. § (1) A Kormány gondoskodik a komplex szakmai vizsgák lebonyolításának és az adatszolgáltatásnak az informatikai támogatásáról.
+16. § (1)
 
 (2) A komplex szakmai vizsgát szervező intézmény és a 12. § (2) bekezdése alapján vizsgaszervezési engedéllyel rendelkező intézmény köteles a vizsgázóról elektronikus úton a szakmai vizsgaszabályzat alapján
 

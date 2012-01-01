@@ -30,9 +30,9 @@ g) a húsz százalékot, a minimálbér tizenöt százalékának 0,7-szerese.
 
 (3) A tanulmányi kötelezettségének eredményesen eleget tett tanuló pénzbeli juttatásának (2) bekezdés szerinti mértékét a szakképzési évfolyam további féléveiben a tanulószerződésben meghatározott szempontok figyelembevételével emelni kell, a tanuló tanulmányi előmenetelének, a gyakorlati képzés során nyújtott teljesítményének és szorgalmának figyelembevételével.
 
-(4) Ha a tanuló elégtelen tanulmányi eredménye miatt évismétlésre köteles, pénzbeli juttatásának havi mértéke a megismételt szakképzési évfolyam első félévében az előző félévre megállapított pénzbeli juttatás fele. A további félévekben – az újabb tanévismétlés esetét kivéve – a pénzbeli juttatás mértékének megállapítására a (3) bekezdés az irányadó.
+(4)
 
-(5) Ha a tanuló a befejező szakképzési évfolyamon az évfolyamra előírt tanulmányi követelményeket nem teljesíti, a tanítási év utolsó tanítási napját követő naptól a tanulószerződés alapján tanulói juttatásra nem jogosult. Ha a tanuló elégtelen tanulmányi eredménye miatt évismétlésre köteles, a következő tanév első tanítási napjától a (4) bekezdés szerint foglaltakat kell alkalmazni.
+(5)
 
 (6) A 48. §-ban foglaltakon túl a tanulói pénzbeli juttatás kifizetésének módját és legkésőbbi időpontját, a tanulói pénzbeli juttatásból történő terhek levonására vonatkozó tájékoztatás módját és a tanulói pénzbeli juttatással kapcsolatos valamennyi lényeges körülményt a tanulószerződésben kell rögzíteni.
 
