@@ -1,8 +1,8 @@
-A Kormány a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 7. §-ának g) pontja alapján a melléklet szerint elfogadja a Velencei-tó–Vértes Kiemelt Üdülőkörzet Területfejlesztési Programját (a továbbiakban: Program), és felkéri az érintett minisztereket, valamint a Közép-Dunántúli Regionális Fejlesztési Tanács elnökét, hogy a II. Nemzeti Fejlesztési Terv és a Közép-Dunántúli Régió operatív programjának tervezése, illetőleg végrehajtása során – lehetőség szerint – vegyék figyelembe a Programban szereplő fejlesztési prioritásokat és feladatokat.
+A Kormány a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 7. §-ának g) pontja alapján a melléklet szerint elfogadja a Velencei-tó–Vértes Kiemelt Üdülőkörzet Területfejlesztési Programját (a továbbiakban: Program), és felkéri az érintett minisztereket, valamint a Fejér Megyei Önkormányzat és a Komárom-Esztergom Megyei Önkormányzat közgyűléseinek elnökeit, hogy a II. Nemzeti Fejlesztési Terv és a Közép-Dunántúli Régió operatív programjának tervezése, illetőleg végrehajtása során – lehetőség szerint – vegyék figyelembe a Programban szereplő fejlesztési prioritásokat és feladatokat.
 
 Felelős: regionális fejlesztésért és felzárkóztatásért felelős tárca nélküli miniszter, érintett miniszterek
 
-Határidő: folyamatos
+Határidő: folyamatos[^1]
 
 Melléklet az 1117/2005. (XII. 14.) Korm. határozathoz
 
@@ -207,3 +207,5 @@ Feladatok: marketing stratégia elkészítése; tanácsadói hálózat megszerve
 G.4. Az idegenforgalmi célpontok környéke és a belterületi határok menti területek hulladékmentesítésének ellenőrzése:
 
 Feladatok: részletes feltáró vizsgálatok készítése a beavatkozást igénylő területek megjelölésével; hulladékgazdálkodási koncepció készítése; a hulladékgyűjtési eszközök korszerűsítése; a kiskertekben keletkező hulladékok elszállításának megoldása; felvilágosító munka végzése.
+
+[^1]: A határozat az 1493/2011. (XII. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
