@@ -10,7 +10,7 @@ a) körözés: az ismeretlen helyen lévő személy vagy tárgy felkutatása, il
 
 b) körözés elrendelés: személy vagy tárgy felkutatására, illetve személy vagy holttest személyazonosságának megállapítására irányuló határozat, illetőleg személy felkutatását, egyben elfogását és meghatározott hatóság elé állítását elrendelő határozat (elfogatóparancs) meghozatala;
 
-c) nemzetközi körözés: nemzetközi szerződés, valamint viszonossági gyakorlat alapján büntető-, polgári vagy közigazgatási ügyben magyar hatóság kezdeményezésére más állam hatósága által az adott állam területén, illetve külföldi állam hatósága kezdeményezésére magyar hatóság által a Magyar Köztársaság területén végzett körözés, kivéve az európai elfogatóparancs alapján végzett körözést;
+c) nemzetközi körözés: nemzetközi szerződés, valamint viszonossági gyakorlat alapján büntető-, polgári vagy közigazgatási ügyben magyar hatóság kezdeményezésére más állam hatósága által az adott állam területén, illetve külföldi állam hatósága kezdeményezésére magyar hatóság által Magyarország területén végzett körözés, kivéve az európai elfogatóparancs alapján végzett körözést;
 
 d) terepkutatás: köz- vagy magántulajdonban álló ingatlan – kivéve a magánlakást – vagy meghatározott része (ideértve az ingatlanon található járművet is) technikai eszköz igénybevételével vagy anélkül történő átkutatása a körözött személy, illetve tárgy megtalálása érdekében;
 

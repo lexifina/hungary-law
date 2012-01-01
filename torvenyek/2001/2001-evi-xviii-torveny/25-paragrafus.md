@@ -10,7 +10,7 @@ c) az igazságügyért felelős miniszter a kegyelmi ügyek, valamint a jogsegé
 
 d) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv a jogsegélykérelem elintézéséhez, valamint a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítéséhez, külföldi bűnüldöző szerv a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény szerint; valamint a Schengeni Információs Rendszerből a SIRENE Iroda útján adatigénylésre jogosult külföldi hatóság;
 
-e) a Nemzetközi Bűnügyi Együttműködési Központ, illetőleg a Magyar Köztársaságnak nemzetközi szerződésben adattovábbításra feljogosított más szerve a d) pontban felsoroltak részére történő adatszolgáltatáshoz;
+e) a Nemzetközi Bűnügyi Együttműködési Központ, illetve Magyarországnak nemzetközi szerződésben adattovábbításra feljogosított más szerve a d) pontban felsoroltak részére történő adatszolgáltatáshoz;
 
 f) a külpolitikáért felelős miniszter a magyar állampolgárok jogai és érdekei konzuli védelmének ellátásához;
 
