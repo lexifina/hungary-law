@@ -1,5 +1,5 @@
 ## Módosító és hatályon kívül helyező rendelkezések
 
-6–11. §[^2]
+6–11. §[^4]
 
-[^2]: A 6–11. §-t az 5. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 6–11. §-t az 5. § (2) bekezdése hatályon kívül helyezte.

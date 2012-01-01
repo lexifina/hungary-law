@@ -11,3 +11,7 @@
 (6) Az Evtv. 19. § (1) bekezdés a) pontja szerint az egyéni vállalkozói tevékenységre való jogosultság megszűnésének ügyében a KEK KH, valamint az a körzetközponti jegyző jár el, amelyhez a bejelentés beérkezett.
 
 (7) A Kormány az Evtv. 19. § (2)–(3) bekezdése tekintetében a körzetközponti jegyzőt jelöli ki, azzal, hogy az Evtv. 11. § (3) és (6) bekezdése tekintetében az egyéni vállalkozói tevékenység folytatásának megtiltásával kapcsolatos közigazgatási hatósági jogkört a KEK KH látja el.
+
+(8)[^2] A Kormány általános hatáskörű területi államigazgatási szervének másodfokú eljárása során hozott elsőfokú végzése elleni fellebbezés elbírálására a KEK KH jogosult.
+
+[^2]: A 3. § (8) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 38. §-a iktatta be.
