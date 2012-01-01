@@ -16,7 +16,7 @@ d) ellátási terület: az a terület, ahonnan a szociális szolgáltató, inté
 
 e) külső férőhely: rehabilitációs intézményi ellátás esetén az ellátott részére az utógondozás ideje alatt a szociális intézmény által, de a szociális intézmény épületén kívül biztosított lakhatási forma;
 
-f) ellátási kötelezettséget teljesítő állami fenntartó: a helyi önkormányzat, illetve a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §-a, 9. §-a, illetve 16. §-a szerinti intézményi társulás és a települési önkormányzatok többcélú kistérségi társulása az általa fenntartott szociális szolgáltató, intézmény által nyújtott olyan szociális szolgáltatás tekintetében, amelyet a helyi önkormányzat, illetve a társulás valamelyik tagja a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) alapján biztosítani köteles;
+f)[^1] ellátási kötelezettséget teljesítő állami fenntartó: a helyi önkormányzat, a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §-a, 9. §-a, illetve 16. §-a szerinti intézményi társulás és a települési önkormányzatok többcélú kistérségi társulása, illetve a megyei intézményfenntartó központ (a továbbiakban: megyei fenntartó) az általa fenntartott szociális szolgáltató, intézmény által nyújtott olyan szociális szolgáltatás tekintetében, amelyet a helyi önkormányzat, a társulás valamelyik tagja, vagy az állam a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) alapján biztosítani köteles;
 
 g) időszakos férőhely: a külön jogszabályban meghatározott feltételek szerint a téli időszakra vagy annak egy részére
 
@@ -25,3 +25,5 @@ ga) az éjjeli menedékhely, illetve a hajléktalan személyek átmeneti száll�
 gb) a nappali melegedő számára engedélyezett éjjeli menedékhely férőhely;
 
 h) téli időszak: a november 1-je és április 30-a közötti időszak.
+
+[^1]: Az 1. § f) pontja a 258/2011. (XII. 7.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.

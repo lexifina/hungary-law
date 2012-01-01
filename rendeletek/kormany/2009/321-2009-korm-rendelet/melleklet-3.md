@@ -52,6 +52,8 @@
 
 ## 2.7. ha a fenntartó beszerezte, csatolni kell az előzetes szakhatósági hozzájárulást, illetve ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki, a használatbavételi engedély, illetve a fennmaradási engedély másolatát.
 
+## 2.8.[^70] ha a fenntartó befogadást kér, és a Hivatal előzetes szakhatósági hozzájárulását nem csatolja, a nem állami fenntartású házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszáma esetében csatolni kell az Szt. 58/A. § (2b)–(2c) bekezdése szerinti nyilatkozatot, illetve azon szolgáltató, ellátotti szám, férőhelyszám esetében, amellyel az ellátásra köteles helyi önkormányzat, megyei fenntartó feladatellátási kötelezettségének tesz eleget, illetve amelyre nézve a fenntartó európai uniós vagy hazai fejlesztési támogatásban részesül, a jegyző vagy a megyei fenntartó vezetője feladatellátást igazoló nyilatkozatát, illetve a pályázat elnyerését igazoló dokumentumot.
+
 ## 3. Az időszakos férőhelybővítés esetén csatolandó iratok:
 
 ## 3.1. csatolni kell a 2.1. és 2.2. pont szerinti iratokat;
@@ -64,7 +66,7 @@
 
 ## 3.5. csatolni kell a 2.7. pont szerinti iratokat, ha az időszakos férőhelyeket nem a szociális intézmény épületében alakítják ki, vagy a működési engedély módosítása esetén a szakhatóságok bevonása a 7. § (5) bekezdése alapján szükséges.
 
-## 4.[^52]
+## 4.[^71]
 
 ## Kiegészítő szabályok:
 
@@ -74,4 +76,5 @@
 
 3. számú melléklet a 321/2009. (XII. 29.) Korm. rendelethez
 
-[^52]: A 2. számú melléklet 4. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^70]: A 2. számú melléklet 2. pont 2.8. alpontját a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^71]: A 2. számú melléklet 4. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.

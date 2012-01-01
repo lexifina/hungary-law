@@ -10,7 +10,7 @@ d) a b)–c) pontban nem említett esetben a működési engedélyt visszavonja,
 
 e) az a)–b) és d) pontban nem említett jogsértés esetén a jogsértés jellegétől és súlyától függően, az ellátottak érdekeinek figyelembevételével
 
-ea)[^32] legalább tizenöt napos, de legfeljebb négy hónapos határidő megjelölésével szólíthatja fel a fenntartót a hiányosság vagy más jogsértés megszüntetésére, illetve a jogszerű működés helyreállítására,
+ea)[^39] legalább tizenöt napos, de legfeljebb négy hónapos határidő megjelölésével szólíthatja fel a fenntartót a hiányosság vagy más jogsértés megszüntetésére, illetve a jogszerű működés helyreállítására,
 
 eb) az ea) alpont szerinti felszólítással egyidejűleg – ha az ellátottak Szt. szerinti jogainak megóvása érdekében szükséges – legfeljebb a hiányosság vagy más jogsértés megszüntetéséig, illetve a jogszerű működés helyreállításáig megtilthatja újabb ellátottak felvételét,
 
@@ -18,9 +18,9 @@ ec) az ügynek az ellátottak, az ellátási érdek és a fenntartó szempontjá
 
 ed) a működési engedélyt az ellenőrzés során megállapított tényeknek és a jogszabályoknak megfelelően a b) pontban foglaltakon túl hivatalból módosíthatja, ha a fenntartó elmulasztotta kérni a működési engedély módosítását;
 
-f)[^33] az Szt. 92/L. § (1) bekezdésében meghatározott esetben bírságot szabhat ki.
+f)[^40] az Szt. 92/L. § (1) bekezdésében meghatározott esetben bírságot szabhat ki.
 
-(2)[^34] A Ket. 94. § (2) bekezdés b) pontja alkalmazásának van helye
+(2)[^41] A Ket. 94. § (2) bekezdés b) pontja alkalmazásának van helye
 
 a) az (1) bekezdés b)–d) pontjában és e) pont eb) alpontjában foglalt jogkövetkezmények esetén;
 
@@ -54,7 +54,7 @@ i) a működési engedélyt az ellenőrzés során megállapított tényeknek é
 
 j) egyházi és nem állami fenntartású bentlakásos intézmény esetén az Szt. szerint határozhat a normatív állami hozzájárulás visszatartásáról,
 
-k)[^35] az Szt. 92/L. § (1) bekezdésében meghatározott esetben bírságot szabhat ki.
+k)[^42] az Szt. 92/L. § (1) bekezdésében meghatározott esetben bírságot szabhat ki.
 
 (4) A jogsértés jellegének, súlyának megfelelően egyidejűleg több jogkövetkezmény is megállapítható.
 
@@ -70,10 +70,10 @@ k)[^35] az Szt. 92/L. § (1) bekezdésében meghatározott esetben bírságot sz
 
 (10) A működést engedélyező szerv a nappali melegedő, az éjjeli menedékhely és a hajléktalan személyek átmeneti szállása esetén a téli időszakban az (1) bekezdés eb) alpontja, valamint a (3) bekezdés c), e)–f) és h) pontja szerinti jogkövetkezményeket akkor alkalmazhatja, ha az intézmény személyi, tárgyi feltételei vagy működése az ellátottak életét, testi épségét vagy egészségét veszélyezteti, illetve más alapvető jogát sérti.
 
-(11)[^36] Nem állapítható meg jogkövetkezmény, ha a Hivatal ugyanazt a jogsértést a 15. § szerinti hatáskörében már elbírálta, kivéve, ha a jogsértés megszüntetésére, illetve a jogszerű állapot helyreállítására az előírt határidőben, illetve módon nem került sor, és a Hivatal még nem intézkedett.
+(11)[^43] Nem állapítható meg jogkövetkezmény, ha a Hivatal ugyanazt a jogsértést a 15. § szerinti hatáskörében már elbírálta, kivéve, ha a jogsértés megszüntetésére, illetve a jogszerű állapot helyreállítására az előírt határidőben, illetve módon nem került sor, és a Hivatal még nem intézkedett.
 
-[^32]: A 13. § (1) bekezdés e) pont ea) alpontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés n) pontja szerint módosított szöveg.
-[^33]: A 13. § (1) bekezdés f) pontja a 357/2010. (XII. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^34]: A 13. § (2) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
-[^35]: A 13. § (3) bekezdés k) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^36]: A 13. § (11) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^39]: A 13. § (1) bekezdés e) pont ea) alpontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^40]: A 13. § (1) bekezdés f) pontja a 357/2010. (XII. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^41]: A 13. § (2) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^42]: A 13. § (3) bekezdés k) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^43]: A 13. § (11) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.

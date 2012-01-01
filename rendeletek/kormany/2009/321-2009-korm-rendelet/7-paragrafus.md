@@ -16,11 +16,11 @@ ad) az ellátási szerződés adataiban bekövetkező változás miatt,
 
 ae) be nem töltött férőhelyek megszüntetése miatt, valamint házi segítségnyújtás esetén az ellátható személyek számának, jelzőrendszeres házi segítségnyújtás esetén a kihelyezhető jelzőkészülékek számának csökkentése miatt, ha ez intézményi jogviszony megszüntetésével nem jár,
 
-af)[^18] fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye vagy örököse folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szociális szolgáltatót, intézményt az egyéni cég veszi át;
+af)[^23] fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye vagy örököse folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szociális szolgáltatót, intézményt az egyéni cég veszi át;
 
 b) az a) pontban nem említett esetben azt megelőzően kell kérelmezni, hogy a szociális szolgáltatót, intézményt elkezdenék a módosítás iránti kérelemben foglaltaknak megfelelően működtetni.
 
-(3) A működési engedély módosítása fenntartóváltozás miatt – a (2) bekezdés af) alpontjában foglaltak kivételével – naptári évenként egyszer kérelmezhető, a kérelmet a korábbi és az új fenntartónak együttesen kell benyújtania. A működési engedély módosítása a (2) bekezdés a) pontjában nem említett egyéb esetben naptári negyedévenként egyszer kérelmezhető.
+(3)[^24] A működési engedély módosítása fenntartóváltozás miatt – a (2) bekezdés a) pont af) alpontjában foglaltak kivételével – naptári évenként egyszer kérelmezhető. A fenntartóváltozások éves számának meghatározásánál a jogszabály erejénél fogva történő fenntartóváltozást figyelmen kívül kell hagyni. A kérelmet a korábbi és az új fenntartónak együttesen kell benyújtania. A működési engedély módosítása a (2) bekezdés a) pontjában nem említett egyéb esetben naptári negyedévenként egyszer kérelmezhető.
 
 (4) A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy
 
@@ -46,9 +46,11 @@ b) az 5. § (3) bekezdésének b)–d) pontja, továbbá – ha a hatáskörüke
 
 c) az 5. § (3) bekezdésének e) pontja szerinti szakhatóság, ha egyházi vagy nem állami fenntartású, ápolást, gondozást nyújtó intézmény tanköteles korú vagy annál fiatalabb fogyatékos személyeket kíván ellátni,
 
-d)[^19] a kistérségi népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, valamint az elsőfokú tűzvédelmi szakhatóság – a változással összefüggő, az intézményre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében –, ha a szociális intézmény férőhelyeinek száma – ide nem értve a külső férőhelyeket – egy éven belül öt százalékot meghaladó mértékben emelkedik,
+d)[^25] a kistérségi népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, valamint az elsőfokú tűzvédelmi szakhatóság – a változással összefüggő, az intézményre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében –, ha a szociális intézmény férőhelyeinek száma – ide nem értve a külső férőhelyeket – egy éven belül öt százalékot meghaladó mértékben emelkedik,
 
 e) az a szakhatóság, amely a hozzájárulását a korábbiakban határozott időre adta meg, ha a fenntartó az ideiglenes működési engedély határozatlan vagy határozott idejűre történő módosítását, illetve hatályának meghosszabbítását kéri.
+
+f)[^26] az 5. § (3) bekezdésének f) pontja szerinti szakhatóság, ha a működési engedély módosításának célja befogadás, ide nem értve az emelt szintű férőhelyek számának módosítását és a 16. § (3) bekezdés b) pontja szerinti esetet.
 
 (6) Ha a működési engedély módosítása következtében intézményi jogviszony megszüntetésére kerül sor, a működési engedély módosításának
 
@@ -72,5 +74,7 @@ b) a működési engedélynek a módosítást követően hatályos valamennyi ad
 
 (12) Ha a működést engedélyező szerv tudomására jutott tény vagy adat alapján kétséges, hogy a szociális szolgáltató, intézmény a kérelemmel nem érintett, jogszabályokban meghatározott feltételeket teljesíti, a működést engedélyező szerv egyéb működési feltételeket is megvizsgálhat, azokkal kapcsolatban bizonyítási eljárást folytathat le, szükség esetén az 5. § (3) bekezdése szerinti hatóságokat is bevonhatja, továbbá – ha jogsértést állapít meg, a kérelemmel érintett változások és a jogsértés jellegétől függően – erre hivatkozva a kérelmet elutasíthatja, illetve alkalmazhatja a 13. § szerinti jogkövetkezményeket.
 
-[^18]: A 7. § (2) bekezdés af) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés c) pontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (4)–(6) bekezdését.
-[^19]: A 7. § (5) bekezdés d) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^23]: A 7. § (2) bekezdés af) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés c) pontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (4)–(6) bekezdését.
+[^24]: A 7. § (3) bekezdése a 330/2011. (XII. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^25]: A 7. § (5) bekezdés d) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^26]: A 7. § (5) bekezdés f) pontját a 330/2011. (XII. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.
