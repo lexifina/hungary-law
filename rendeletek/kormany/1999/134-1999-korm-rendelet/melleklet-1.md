@@ -1,6 +1,6 @@
-## 9. §[^53]
+## 9. §[^54]
 
-1. számú melléklet a 134/1999. (VIII. 31.) Korm. rendelethez[^54]
+1. számú melléklet a 134/1999. (VIII. 31.) Korm. rendelethez[^55]
 
 ## Finanszírozási előleg igénylő lap
 
@@ -32,5 +32,5 @@ Dátum:
 
 | cégjegyzésre jogosult aláírása | személyi jog jogosultjának aláírása |
 
-[^53]: A 9. §-t a 48/2004. (III. 19.) Korm. rendelet 2. §-a (2) bekezdésének c) pontja iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (3) bekezdése hatályon kívül helyezte.
-[^54]: Az 1. számú mellékletet a 308/2001. (XII. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 347/2009. (XII. 30.) Korm. rendelet 9. §-val megállapított, a 351/2010. (XII. 30.) Korm. rendelet 60. § c) pontja szerint módosított szöveg.
+[^54]: A 9. §-t a 48/2004. (III. 19.) Korm. rendelet 2. §-a (2) bekezdésének c) pontja iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (3) bekezdése hatályon kívül helyezte.
+[^55]: Az 1. számú mellékletet a 308/2001. (XII. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 347/2009. (XII. 30.) Korm. rendelet 9. §-val megállapított, a 351/2010. (XII. 30.) Korm. rendelet 60. § c) pontja szerint módosított szöveg.

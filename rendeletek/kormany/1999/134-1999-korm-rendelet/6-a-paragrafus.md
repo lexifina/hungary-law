@@ -14,7 +14,7 @@ d) a kérelem benyújtásakor nem rendelkezik olyan, az adózás rendjéről sz�
 
 (3)[^31] A gyógyszertár működtetője a (2) bekezdés szerinti előleg folyósítását az 1. számú melléklet szerinti nyomtatványon vagy elektronikus űrlapon az OEP-nél kérelmezheti legkésőbb a tárgyév március 31. napjáig. A kérelemhez nyilatkozatot kell csatolni arról, hogy a kérelmező a támogatás teljes összegét gyógyszerbeszerzésre fordítja, és a személyi jogos gyógyszerésznek arról, hogy a finanszírozási előleg visszafizetését vállalja.
 
-(4)[^32] Amennyiben az (1) bekezdés a) pontjában meghatározott feltétel nem áll fenn, az egészségügyért felelős miniszter ellátási érdekből engedélyezheti a finanszírozási előleg nyújtását.
+(4)[^32]
 
 (5)–(7)[^33]
 
@@ -27,7 +27,7 @@ d) a kérelem benyújtásakor nem rendelkezik olyan, az adózás rendjéről sz�
 [^29]: A 6/A. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^30]: A 6/A. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^31]: A 6/A. § (3) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^32]: A 6/A. § (4) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^32]: A 6/A. § (4) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 32. §-a hatályon kívül helyezte.
 [^33]: A 6/A. § (5)–(7) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
 [^34]: A 6/A. § (8) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^35]: A 6/A. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 173. § (1) bekezdése iktatta be, szövege a 325/2011. (XII. 28.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.

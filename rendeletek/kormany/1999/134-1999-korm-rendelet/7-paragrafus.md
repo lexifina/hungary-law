@@ -1,4 +1,4 @@
-## 6/D. §[^51]
+## 6/D. §[^52]
 
 7. § (1) Ez a rendelet – a (2) bekezdés kivételével – a kihirdetését követő harmadik hónap első napján lép hatályba.
 
@@ -8,7 +8,7 @@
 
 (4) Az 1. §-ban meghatározott – a rendelet hatálybalépése előtt érvényes szerződéseket felváltó, a rendelet kihirdetése és hatálybalépése között megkötendő – új szerződések e rendelet hatálybalépésének napján lépnek hatályba.
 
-(5)[^52]
+(5)[^53]
 
-[^51]: A 6/D. §-t a 120/2003. (VIII. 14.) Korm. rendelet 2. §-a iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (3) bekezdése hatályon kívül helyezte.
-[^52]: A 7. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1223. pontja hatályon kívül helyezte.
+[^52]: A 6/D. §-t a 120/2003. (VIII. 14.) Korm. rendelet 2. §-a iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (3) bekezdése hatályon kívül helyezte.
+[^53]: A 7. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1223. pontja hatályon kívül helyezte.
