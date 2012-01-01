@@ -308,19 +308,21 @@
 
 ## = időskorúak és fogyatékosok gondozóháza, pszichiátriai és szenvedélybetegek átmeneti otthona 16 fő
 
-## = hajléktalanok éjjeli menedékhelye és átmeneti szállása 3 fő
-
 ## – szociális, mentálhigiénés munkatárs (50 férőhelyre vetítve)
 
 ## = időskorúak és fogyatékosok gondozó háza, pszichiátriai és szenvedélybetegek átmeneti otthona 1 fő
 
 ## = hajléktalanok éjjeli menedékhelye és átmeneti szállása 4 fő
 
+## – szociális segítő
+
+## = hajléktalanok éjjeli menedékhelye és átmeneti szállása 3 fő
+
 ## F/1. Időszakos férőhely működtetése átmeneti szállón, éjjeli menedékhelyen
 
 ## a) Intézményen belül működtetett időszakos férőhelyek:
 
-## – szociális gondozó (20 időszakos férőhelyre) 1 fő
+## – szociális segítő (20 időszakos férőhelyre) 1 fő
 
 ## – szociális mentálhigiénés munkatárs
 
@@ -332,59 +334,57 @@
 
 ## – részlegvezető 1 fő
 
-## – szociális gondozó (20 időszakos férőhelyre vetítve) 2 fő
+## – szociális segítő (20 időszakos férőhelyre vetítve) 2 fő
 
 ## – szociális mentálhigiénés munkatárs (25 időszakos férőhelyre) 1 fő.
 
 ## G)
 
-## H) Lakóotthon
+| H) Lakóotthon |  |
 
-## a) Bentlakásos intézményi szervezetben működő lakóotthon
+| a) Bentlakásos intézményi szervezetben működő lakóotthon |  |
 
-## – Rehabilitációs célú lakóotthon
+| – Rehabilitációs célú lakóotthon |  |
 
-## szociális segítő 2 fő
+| szociális segítő | 1 fő |
 
-## – Ápoló, gondozó célú lakóotthon
+| – Ápoló, gondozó célú lakóotthon |  |
 
-## szociális segítő 3 fő
+| szociális segítő | 3 fő |
 
-## ápoló, gondozó 1 fő
+| ápoló, gondozó | 1 fő |
 
-## b) Önálló intézményként működő
+| b) Önálló intézményként működő |  |
 
-## – Fogyatékos személyek
+| – Fogyatékos személyek |  |
 
-## = rehabilitációs célú lakóotthona
+|  | = rehabilitációs célú lakóotthona |  |
 
-## intézményvezető 1 fő
+| intézményvezető (heti 20 óra) | 1 fő |
 
-## szociális segítő 2 fő
+| szociális segítő | 1 fő |
 
-## = ápoló gondozó célú lakóotthona
+|  | = ápoló gondozó célú lakóotthona |  |
 
-## intézményvezető 1 fő
+| intézményvezető (heti 20 óra) | 1 fő |
 
-## szociális segítő 2 fő
+| szociális segítő | 2 fő |
 
-## ápoló, gondozó 2 fő
+| ápoló, gondozó | 2 fő |
 
-## fejlesztő pedagógus 1 fő
+| fejlesztő pedagógus (heti 20 óra) | 1 fő |
 
-## orvos heti 4 óra
+| – Pszichiátriai betegek lakóotthona |  |
 
-## – Pszichiátriai betegek lakóotthona
+| intézményvezető (heti 20 óra) | 1 fő |
 
-## intézményvezető 1 fő
+| szociális segítő | 1 fő rész- munkaidőben foglalkoztatott |
 
-## szociális segítő 2 fő részmunkaidőben foglalkoztatott
+| – Szenvedélybetegek lakóotthona |  |
 
-## – Szenvedélybetegek lakóotthona
+| intézményvezető (heti 20 óra) | 1 fő |
 
-## intézményvezető 1 fő
-
-## szociális segítő 2 fő részmunkaidőben foglalkoztatott
+| szociális segítő | 1 fő rész- munkaidőben foglalkoztatott” |
 
 | I) Részleg |  |
 
@@ -492,6 +492,6 @@
 
 ## 11. Súlyos vagy halmozottan fogyatékos személynek minősül a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvényben ekként meghatározott személy.
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^249]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^253]
 
-[^249]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^253]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a szerint módosított szöveg.

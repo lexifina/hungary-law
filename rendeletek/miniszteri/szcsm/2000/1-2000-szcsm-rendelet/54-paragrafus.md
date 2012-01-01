@@ -4,7 +4,7 @@
 
 a) a személyre szabott bánásmódot,
 
-b)[^167] a konfliktushelyzetek kialakulásának megelőzése érdekében az egyéni, csoportos megbeszélést,
+b)[^168] a konfliktushelyzetek kialakulásának megelőzése érdekében az egyéni, csoportos megbeszélést,
 
 c) a szabadidő kulturált eltöltésének feltételeit,
 
@@ -34,4 +34,4 @@ c) a kulturális tevékenységeket (pl. rendezvények, ünnepségek, névnapok, 
 
 (6) Az intézmény vezetője, ha az ellátást igénybe vevő gondnokság alá helyezése szükséges, intézkedést kezdeményez a lakóhely szerint illetékes gyámhivatalnál.
 
-[^167]: Az 54 § (1) bekezdésének b) pontja a 6/2000. (VII. 6.) SZCSM rendelet 6. §-ával megállapított szöveg.
+[^168]: Az 54 § (1) bekezdésének b) pontja a 6/2000. (VII. 6.) SZCSM rendelet 6. §-ával megállapított szöveg.

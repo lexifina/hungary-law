@@ -682,21 +682,21 @@
 
 |  | alkalmazás minimum feltétele |
 
-| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+| munkakör | felsőfokú képesítés | igény munkatár- sak %-ban | OKJ-S képesítés | igény munkatár- sak %-ban | speciális alkalmazási igény |
 
 | intézményvezető | felsőfokú végzettség | 100 |  |  |  |  |  |
 
 | szociális, mentálhigiénés munkatárs | felsőfokú végzettség | 100 |  |  |  |  |  |
 
-| szociális segítő |  |  | középfokú végzettség |  |  | 100 |  |
+| szociális segítő |  |  | középfokú végzettség |  | 100 |  |
 
-| ápoló-gondozó |  |  | szociális gondozó | szociális gondozó és ápoló |  | 75 |  |
+|  |  | szociális gondozó |  |  |
 
 ## 7.4. Hajléktalanok átmeneti otthona
 
 |  | alkalmazás minimum feltétele |
 
-| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+| munkakör | felsőfokú képesítés | Igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
 
 | intézményvezető | felsőfokú végzettség | 100 |  |  |  |  |  |
 
@@ -704,9 +704,9 @@
 
 | szociális, mentálhigiénés munkatárs | felsőfokú végzettség | 100 |  |  |  |  |  |
 
-| szociális segítő |  |  | középfokú végzettség |  |  | 100 |  |
+| szociális segítő |  |  | középfokú végzettség |  | 100 |  |
 
-| ápoló-gondozó |  |  | szociális gondozó | szociális gondozó és ápoló |  | 75 |  |
+|  |  | szociális gondozó |  |  |
 
 ## 7.5. Hajléktalanok ápoló - gondozó otthona munkaköreinek minimum alkalmazása megegyezik az idősek ápoló – gondozó otthona képesítéseivel
 
@@ -1346,10 +1346,10 @@
 
 ## 5. Szociális szolgáltató vagy intézmény esetében a diakónus, az okleveles teológus, továbbá az okleveles pasztorális tanácsadó szakképzettségek elfogadhatók intézményvezetői, illetve mentálhigiénés munkakörökben.
 
-4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^250]
+4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^254]
 
 Étkeztetésre vonatkozó igénybevételi napló
 
 Dátum: ...... év ...................... hónap
 
-[^250]: A 4. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^254]: A 4. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdésével megállapított szöveg.

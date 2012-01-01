@@ -6,7 +6,7 @@ a) működési engedéllyel,
 
 b) alapító okirattal, ha a szociális szolgáltató költségvetési szerv,
 
-c)[^6] szervezeti és működési szabályzattal, amely az egyszemélyes szolgálat esetén a fenntartó önkormányzat képviselő-testülete hivatalának szervezeti és működési szabályzata is lehet,
+c)[^6] az egyszemélyes szolgálatot kivéve szervezeti és működési szabályzattal,
 
 d) szakmai programmal,
 
@@ -45,7 +45,7 @@ h) az egyéni és a közösségi vallásgyakorlásra vonatkozó szabályokat,
 i) az intézmény alapfeladatát meghaladó programok, szolgáltatások körét és térítési díját.
 
 [^5]: Az 5. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 2. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését. Az (1) bekezdés bevezető szövege a 9/2006. (XII. 27.) SZMM rendelet 10. § (7) bekezdésének a) pontja szerint módosított szöveg.
-[^6]: Az 5. § (1) bekezdés c) pontja a 35/2009. (XII. 30.) SZMM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés c) pontja a 78/2011. (XII. 30.) NEFMI rendelet 3. §-ával megállapított szöveg.
 [^7]: Az 5. § (1) bekezdésének f) pontja a 9/2006. (XII. 27.) SZMM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: Az 5. § (1) bekezdésének g) pontját a 9/2006. (XII. 27.) SZMM rendelet 1. § (2) bekezdése iktatta be.
 [^9]: Az 5. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 2. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.

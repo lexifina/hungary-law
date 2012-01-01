@@ -1,3 +1,3 @@
-## 35–36. §[^102]
+## 35–36. §[^103]
 
-[^102]: A 35–36. §-t és az azokat megelőző alcímeket a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének i) pontja hatályon kívül helyezte.
+[^103]: A 35–36. §-t és az azokat megelőző alcímeket a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének i) pontja hatályon kívül helyezte.
