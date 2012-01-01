@@ -1,6 +1,6 @@
 5. § (1) A pályázatokat, illetve a kijelölési kérelmeket – a pályázati határidő lejártát, illetve a kijelölési kérelem benyújtását követő tizenöt napon belül – döntés-előkészítő bizottság (a továbbiakban: bizottság) véleményezi, és javaslatot tesz a miniszternek a módszertani intézmények kijelölésére.
 
-(2)[^5] A bizottság öt tagból áll,
+(2)[^7] A bizottság öt tagból áll,
 
 a) elnökét és két tagját a miniszter,
 
@@ -28,4 +28,4 @@ d) az a)–c) pont szerinti személy hozzátartozója.
 
 (7) A bizottság a működési rendjét – az e rendeletben meghatározott keretek között – maga alakítja ki.
 
-[^5]: Az 5. § (2) bekezdése a 22/2011. (V. 12.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 5. § (2) bekezdése a 22/2011. (V. 12.) NEFMI rendelet 1. §-ával megállapított szöveg.

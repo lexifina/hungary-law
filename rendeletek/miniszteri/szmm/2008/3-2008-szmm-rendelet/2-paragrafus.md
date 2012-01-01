@@ -1,4 +1,4 @@
-2. § (1)[^2] A miniszter
+2. § (1)[^3] A miniszter
 
 a) hét regionális módszertani intézményt,
 
@@ -14,4 +14,4 @@ b) egyházi módszertani intézményeket [az a)–b) pontban foglalt intézmény
 
 (5) A módszertani intézménynek kijelölt konzorcium gesztor szervezete a kijelölés időtartama alatt nem változhat meg. A gesztor szervezet szervezi és irányítja a tagok módszertani feladatainak ellátását. A módszertani feladatok ellátásáért a gesztor szervezet felelős.
 
-[^2]: A 2. § (1) bekezdés nyitó szövegrésze a 22/2011. (V. 12.) NEFMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés nyitó szövegrésze a 22/2011. (V. 12.) NEFMI rendelet 2. § b) pontja szerint módosított szöveg.
