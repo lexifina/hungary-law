@@ -1,6 +1,6 @@
 ## Az európai szabadalmi bejelentés közzétételével keletkező ideiglenes oltalom
 
-84/E. § (1) Az európai szabadalmi bejelentés közzétételével akkor keletkezik a Magyar Köztársaságban – ideiglenes – szabadalmi oltalom, amikor a Szellemi Tulajdon Nemzeti Hivatala a hivatalos lapjában (56–56/A. §) közölte a hatósági tájékoztatást az igénypontok magyar nyelvű fordításának benyújtásáról.
+84/E. § (1) Az európai szabadalmi bejelentés közzétételével akkor keletkezik Magyarországon – ideiglenes – szabadalmi oltalom, amikor a Szellemi Tulajdon Nemzeti Hivatala a hivatalos lapjában (56–56/A. §) közölte a hatósági tájékoztatást az igénypontok magyar nyelvű fordításának benyújtásáról.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdésben meghatározott hatósági tájékoztatást akkor közli, ha a bejelentő erre irányuló kérelmet nyújtott be. A kérelemhez mellékelni kell a közzétett igénypontok magyar fordítását.
 

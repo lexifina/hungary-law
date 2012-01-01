@@ -10,7 +10,7 @@ b) használja a találmány tárgyát képező eljárást, vagy – ha tud arró
 
 c) előállítja, használja, forgalomba hozza, illetve forgalomba hozatalra ajánlja, vagy ilyen célból raktáron tartja vagy az országba behozza a találmány tárgyát képező eljárással közvetlenül előállított terméket.
 
-(3) A kizárólagos hasznosítási jog alapján a szabadalmas felléphet továbbá azzal szemben is, aki engedélye nélkül a találmány hasznosítására nem jogosult személynek a találmány lényeges elemével kapcsolatos dolgot (eszközt, berendezést) ad át vagy ajánlj fel átadásra a találmány megvalósítása céljából, feltéve, hogy tudja, vagy a körülmények alapán nyilvánvaló, hogy a dolog a találmány megvalósítására alkalmas, illetve arra szolgál.
+(3) A kizárólagos hasznosítási jog alapján a szabadalmas felléphet továbbá azzal szemben is, aki engedélye nélkül a találmány hasznosítására nem jogosult személynek a találmány lényeges elemével kapcsolatos dolgot (eszközt, berendezést) ad át vagy ajánl fel átadásra a találmány megvalósítása céljából, feltéve, hogy tudja, vagy a körülmények alapán nyilvánvaló, hogy a dolog a találmány megvalósítására alkalmas, illetve arra szolgál.
 
 (4) A (3) bekezdésben foglalt rendelkezés nem alkalmazható, ha az átadott vagy felajánlott dolog a kereskedelmi forgalomban kapható szokásos áru, kivéve, ha az ilyen áru átadója, illetve felajánlója szándékosan a (2) bekezdésben meghatározott cselekmények végzésére indítja az átvevőt.
 

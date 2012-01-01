@@ -12,4 +12,6 @@ d) a szellemi tulajdon védelmét szabályozó jogszabályok előkészítésébe
 
 e) a szellemi tulajdon védelmére irányuló kormányzati stratégia kidolgozása és érvényesítése, az ehhez szükséges állami intézkedések kezdeményezése, illetve végrehajtása;
 
-f) a szellemi tulajdon területén folyó nemzetközi, illetve európai együttműködés szakmai feladatainak ellátása.
+f) a szellemi tulajdon területén folyó nemzetközi, illetve európai együttműködés szakmai feladatainak ellátása;
+
+g) a kutatás-fejlesztési tevékenység minősítésével kapcsolatos hatósági és szakértői feladatok ellátása.

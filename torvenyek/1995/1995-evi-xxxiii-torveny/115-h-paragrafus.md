@@ -6,6 +6,8 @@ b) nemzetközi szabadalmi, ipari mintaoltalmi, védjegy- és eredetmegjelölési
 
 (2) A vámhatóság megkeresésére a Hivatal tájékoztatást ad az iparjogvédelmi jogosult személyéről a szellemi tulajdonjogok megsértése miatt indult vámigazgatási eljárásban.
 
+(2a) A Hivatal – külön jogszabály alapján – ellátja a kutatás-fejlesztési tevékenység előzetes minősítésének feladatait, valamint közreműködik olyan szakkérdések eldöntésében, amelyek a tevékenység kutatás-fejlesztésnek való minősítését, valamint egyes költségeknek a kutatás-fejlesztési tevékenységhez való hozzárendelhetőségét érintik.
+
 (3) A Hivatal gondoskodik – külön jogszabály alapján – az Iparjogvédelmi Szakértői Testület működtetéséről.
 
 (4) A Hivatal a szerzői és a szerzői joghoz kapcsolódó jogokkal összefüggésben – külön jogszabályok alapján – különösen a következő feladatokat látja el:

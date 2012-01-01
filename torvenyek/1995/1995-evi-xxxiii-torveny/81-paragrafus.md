@@ -10,6 +10,6 @@
 
 (6) A döntést – kivéve, ha annak kihirdetését a Szellemi Tulajdon Nemzeti Hivatala elhalasztotta – annak meghozatalától számított legkésőbb tizenöt napon belül kell írásba foglalni, és az írásba foglalást követő tizenöt napon belül kézbesíteni kell.
 
-(7) A megsemmisítési eljárás költségeinek viselésére a vesztes felet kell kötelezni. Ha a szabadalmas a megsemmisítési eljárásra okot nem adott, és a szabadalmi oltalomról – legalább az igénypontok érintett része vonatkozásában – a 81. § (1) bekezdése szerinti nyilatkozattételre kitűzött határidő lejárta előtt lemond, az eljárási költséget a kérelmező viseli.
+(7) A megsemmisítési eljárás költségeinek viselésére a vesztes felet kell kötelezni. Ha a szabadalmas a megsemmisítési eljárásra okot nem adott, és a szabadalmi oltalomról – legalább az igénypontok érintett része vonatkozásában – az (1) bekezdés szerinti nyilatkozattételre kitűzött határidő lejárta előtt lemond, az eljárási költséget a kérelmező viseli.
 
 (8) A szabadalom megsemmisítését vagy korlátozását be kell jegyezni a szabadalmi lajstromba (54. §), és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában (56. §).

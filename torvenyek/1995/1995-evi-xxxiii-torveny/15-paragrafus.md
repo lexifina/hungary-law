@@ -4,4 +4,4 @@
 
 (2) A felek a találmányi díjszerződésre vonatkozó – különösen a 13. § (7)–(9) bekezdéseiben foglalt – rendelkezésektől egyező akarattal eltérhetnek. Olyan találmányi díjszerződés is köthető, amelyben meghatározott összegű díjat állapítanak meg a feltaláló jövőben megalkotásra, illetve értékesítésre kerülő találmányaival kapcsolatban (kockázatmegosztásra irányuló találmányi díjszerződés).
 
-(3) A találmányi díjszerződésre az e törvényben nem szabályozott kérdésekben a Polgári Törvénykönyv rendelkezései az irányadók.
+(3)

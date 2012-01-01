@@ -6,7 +6,7 @@ a) általában a szabadalmi bejelentés napja (bejelentési elsőbbség);
 
 b) az ipari tulajdon oltalmára létesült Párizsi Uniós Egyezmény által meghatározott esetben a külföldi bejelentés napja (uniós elsőbbség);
 
-c) a bejelentő azonos tárgykörű korábbi, folyamatban lévő szabadalmi bejelentésének tizenkét hónapnál nem korábbi bejelentési napja, ha azzal kapcsolatban más elsőbbséget nem érvényesítettek (belső elsőbbség).
+c) a bejelentő azonos tárgykörű korábbi, folyamatban lévő, közzé még nem tett szabadalmi bejelentésének tizenkét hónapnál nem korábbi bejelentési napja, ha azzal kapcsolatban más elsőbbséget nem érvényesítettek (belső elsőbbség).
 
 (2) Az uniós elsőbbséget – az erre irányuló nyilatkozat megtételével – a legkorábbi igényelt elsőbbség napjától számított tizenhat hónapon belül kell igényelni. Az elsőbbségi nyilatkozat kijavítása is e határidőn belül kérhető. Ha azonban a kijavítás a legkorábbi igényelt elsőbbséget érinti, a legkorábbi igényelt elsőbbség kijavított napjától kell számítani a kijavításra nyitva álló tizenhat hónapos határidőt, feltéve, hogy ez jár le korábban. Az elsőbbségi nyilatkozat kijavítása bármely esetben kérhető a bejelentés napjától számított négy hónapon belül.
 

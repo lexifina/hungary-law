@@ -7,3 +7,5 @@
 (3) A közigazgatási hatósági eljárás általános szabályairól szóló törvénynek azok a rendelkezései, amelyek az eljárás megindításával és az első kapcsolatfelvétellel összefüggő – hivatalból vagy kérelemre történő – értesítésre és figyelemfelhívásra vonatkoznak, nem alkalmazhatók szabadalmi ügyekben.
 
 (4) Szabadalmi ügyekben nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a jogutódlásra vonatkozó rendelkezései.
+
+(5) Szabadalmi ügyekben nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a közvetítő igénybevételére vonatkozó rendelkezései.
