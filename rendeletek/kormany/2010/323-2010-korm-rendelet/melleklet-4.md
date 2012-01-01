@@ -78,7 +78,7 @@
 
 | 38. | BÉKÉS MEGYE |  |
 
-| 39. | Békéscsabai, Békési, Szeghalomi Kistérségi Népegészségügyi Intézet |  |
+| 39. | Békéscsabai, Békési, Szarvasi Kistérségi Népegészségügyi Intézet |  |
 
 | 40. | Székhely: | Békéscsaba |
 
@@ -86,9 +86,9 @@
 
 | 42. |  | Békési Kistérség |
 
-| 43. |  | Szeghalomi Kistérség |
+| 43. |  | Szarvasi Kistérség |
 
-| 44. | Gyulai, Sarkadi, Mezőkovácsházai Kistérségi Népegészségügyi Intézet |  |
+| 44. | Gyulai, Sarkadi, Szeghalomi Kistérségi Népegészségügyi Intézet |  |
 
 | 45. | Székhely: | Gyula |
 
@@ -96,15 +96,15 @@
 
 | 47. |  | Sarkadi Kistérség |
 
-| 48. |  | Mezőkovácsházai Kistérség |
+| 48. |  | Szeghalomi Kistérség |
 
-| 49. | Orosházai, Szarvasi Kistérségi Népegészségügyi Intézet |  |
+| 49. | Orosházai, Mezőkovácsházai Kistérségi Népegészségügyi Intézet |  |
 
 | 50. | Székhely: | Orosháza |
 
 | 51. | Illetékességi terület: | Orosházai Kistérség |
 
-| 52. |  | Szarvasi Kistérség |
+| 52. |  | Mezőkovácsházai Kistérség |
 
 | 53. | BORSOD-ABAÚJ-ZEMPLÉN MEGYE |  |
 
@@ -160,7 +160,7 @@
 
 | 79. | BUDAPEST |  |
 
-| 80. | Budapest I., II., XII. Kerületi Népegészségügyi Intézet |  |
+| 80. | Budapest I., II., III. Kerületi Népegészségügyi Intézet |  |
 
 | 81. | Székhely: | Budapest |
 
@@ -168,91 +168,73 @@
 
 | 83. |  | II. Kerület |
 
-| 84. |  | XII. Kerület |
+| 84. |  | III. Kerület |
 
-| 85. | Budapest III. Kerületi Népegészségügyi Intézet |  |
+| 85. | Budapest IV., V., XIII. Kerületi Népegészségügyi Intézet |  |
 
 | 86. | Székhely: | Budapest |
 
-| 87. | Illetékességi terület: | III. Kerület |
+| 87. | Illetékességi terület: | IV. Kerület |
 
-| 88. | Budapest IV., XV. Kerületi Népegészségügyi Intézet |  |
+| 88. |  | V. Kerület |
 
-| 89. | Székhely: | Budapest |
+| 89. |  | XIII. Kerület |
 
-| 90. | Illetékességi terület: | IV. Kerület |
+| 90. | Budapest VI., VII., VIII., IX. Kerületi Népegészségügyi Intézet |  |
 
-| 91. |  | XV. Kerület |
+| 91. | Székhely: | Budapest |
 
-| 92. | Budapest V., XIII. Kerületi Népegészségügyi Intézet |  |
+| 92. | Illetékességi terület: | VI. Kerület |
 
-| 93. | Székhely: | Budapest |
+| 93. |  | VII. Kerület |
 
-| 94. | Illetékességi terület: | V. Kerület |
+| 94. |  | VIII. Kerület |
 
-| 95. |  | XIII. Kerület |
+| 95. |  | IX. Kerület |
 
-| 96. | Budapest VI., VII. Kerületi Népegészségügyi Intézet |  |
+| 96. | Budapest X., XVII., XVIII. Kerületi Népegészségügyi Intézet |  |
 
 | 97. | Székhely: | Budapest |
 
-| 98. | Illetékességi terület: | VI. Kerület |
+| 98. | Illetékességi terület: | X. Kerület |
 
-| 99. |  | VII. Kerület |
+| 99. |  | XVII. Kerület |
 
-| 100. | Budapest VIII., IX. Kerületi Népegészségügyi Intézet |  |
+| 100. |  | XVIII. Kerület |
 
-| 101. | Székhely: | Budapest |
+| 101. | Budapest XI., XII., XXII. Kerületi Népegészségügyi Intézet |  |
 
-| 102. | Illetékességi terület: | VIII. Kerület |
+| 102. | Székhely: | Budapest |
 
-| 103. |  | IX. Kerület |
+| 103. | Illetékességi terület: | XI. Kerület |
 
-| 104. | Budapest X., XVII. Kerületi Népegészségügyi Intézet |  |
+| 104. |  | XII. Kerület |
 
-| 105. | Székhely: | Budapest |
+| 105. |  | XXII. Kerület |
 
-| 106. | Illetékességi terület: | X. Kerület |
+| 106. | Budapest XIV., XV, XVI. Kerületi Népegészségügyi Intézet |  |
 
-| 107. |  | XVII. Kerület |
+| 107. | Székhely: | Budapest |
 
-| 108. | Budapest XI., XXII. Kerületi Népegészségügyi Intézet |  |
+| 108. | Illetékességi terület: | XIV. Kerület |
 
-| 109. | Székhely: | Budapest |
+| 109. |  | XV. Kerület |
 
-| 110. | Illetékességi terület: | XI. Kerület |
+| 110. |  | XVI. Kerület |
 
-| 111. |  | XXII. Kerület |
+| 111. | Budapest XIX., XX., XXI., XXIII. Kerületi Népegészségügyi Intézet |  |
 
-| 112. | Budapest XIV., XVI. Kerületi Népegészségügyi Intézet |  |
+| 112. | Székhely: | Budapest |
 
-| 113. | Székhely: | Budapest |
+| 113. | Illetékességi terület: | XIX. Kerület |
 
-| 114. | Illetékességi terület: | XIV. Kerület |
+| 114. |  | XX. Kerület |
 
-| 115. |  | XVI. Kerület |
+| 115. |  | XXI. Kerület |
 
-| 116. | Budapest XVIII., XIX. Kerületi Népegészségügyi Intézet |  |
+| 116. |  | XXIII. Kerület |
 
-| 117. | Székhely: | Budapest |
-
-| 118. | Illetékességi terület: | XVIII. Kerület |
-
-| 119. |  | XIX. Kerület |
-
-| 120. | Budapest XX., XXIII. Kerületi Népegészségügyi Intézet |  |
-
-| 121. | Székhely: | Budapest |
-
-| 122. | Illetékességi terület: | XX. Kerület |
-
-| 123. |  | XXIII. Kerület |
-
-| 124. | Budapest XXI. Kerületi Népegészségügyi Intézet |  |
-
-| 125. | Székhely: | Budapest |
-
-| 126. | Illetékességi terület: | XXI. Kerület |
+| 117–126. |  |  |
 
 | 127. | CSONGRÁD MEGYE |  |
 
@@ -790,72 +772,6 @@
 
 ## g) Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye vonatkozásában: a Hajdú-Bihar Megyei Népegészségügyi Szakigazgatási Szerv.
 
-4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^41]
+4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^72]
 
-A Sugáregészségügyi Decentrum és az Országos Tisztifőorvosi Hivatal atomenergiával kapcsolatos eljárásaiban közreműködő szakhatóságok
-
-I. A radioaktív anyag tárolása, használata, felhasználása, szállítása és átalakítása tekintetében
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 1. | Nyitott sugárforrás esetén. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
-
-| 2. | Nyitott sugárforrás esetén. | Tűzvédelmi követelményeknek való megfelelés. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
-
-| 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
-
-| 4. |  |  |  |  |
-
-II. A radioaktív anyag termelése, előállítása, forgalmazása tekintetében
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 1. | Minden esetben. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |  |
-
-| 2. | Nyitott sugárforrás esetén. | Tűzvédelmi követelményeknek való megfelelés. | Országos Katasztrófavédelmi Főigazgatóság |  |
-
-| 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | Országos Katasztrófavédelmi Főigazgatóság |  |
-
-| 4. |  |  |  |  |
-
-III. A radioaktív anyag termelését, előállítását, tárolását, használatát, felhasználását, átalakítását szolgáló nem nukleáris létesítmény létesítése, üzembe helyezése, üzemeltetése, átalakítása, javítása, megszüntetése tekintetében
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 1. | Minden esetben. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség; ha az OTH jár el első fokon, a szakhatóság az első fokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | ha nem az OTH jár el első fokon: Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
-
-| 2. | Nyitott sugárforrás esetén. | Tűzvédelmi követelményeknek való megfelelés. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
-
-| 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság; ha az OTH jár el első fokon, a szakhatóság az első fokú eljárásban az Országos Katasztrófavédelmi Főigazgatóság | ha nem az OTH jár el első fokon: Országos Katasztrófavédelmi Főigazgatóság |
-
-| 4. |  |  |  |  |
-
-IV. Az ionizáló sugárzást létrehozó berendezés előállítására, átalakítására, üzemeltetésére, üzemeltetésének megszüntetésére, valamint a berendezés előállítását, üzemeltetését szolgáló létesítmény létesítésére, üzemeltetésére, átalakítására, megszüntetésére vonatkozó engedélyezési eljárásban
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 1. | Minden esetben, kivéve a röntgen- berendezéseket. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
-
-| 2. |  |  |  |  |
-
-V. Radioaktív hulladék átmeneti tárolójának és végleges hulladéklerakó létesítése, üzemeltetése, átalakítása, megszüntetése, lezárása, és az aktív, valamint a passzív intézményes ellenőrzésre történő áttérés tekintetében.
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 1. | Minden esetben. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
-
-| 2. | Minden esetben. | Az országos településrendezési és építési követelményeknek, valamint a helyi településrendezési tervnek és a helyi építési szabályzatnak való megfelelés. | építésügyi hatóság | a Kormány általános hatáskörű területi államigazgatási szerve |
-
-| 3. | Minden esetben. | A tárolóban elhelyezendő radiokatív és nukleáris anyagok, nukleáris berendezések, valamint a velük folytatott tevékenységek nyilvántartásával és ellenőrzésével kapcsolatos előírások vizsgálatában, valamint nukleáris balesetelhárítási kérdésekben. | Országos Atomenergia Hivatal |  |
-
-| 4. |  |  |  |  |
-
-| 5. | Nyitott sugárforrás esetén. | Tűzvédelmi követelményeknek való megfelelés. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban Fővárosi Tűzoltó-parancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
-
-| 6. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | Megyei Katasztrófavédelmi Igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
-
-| 7. | Az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett létesítmény megvalósítására irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
-
-| 8. | Minden esetben. | Az építésföldtani megalapozottság és a földtani veszélyeztetettség vizsgálata figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződmény meglétére, a szűkebb környezet felszíni és felszín alatti képződményeire, a felszínmozgásra utaló jellegre, a felszíni vízelvezetési technológiákra. | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
-
-[^41]: A 4. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 37. § b) pontja, a 190/2011. (IX. 19.) Korm. rendelet 44. §-a szerint módosított szöveg.
+[^72]: A 4. melléklet a 282/2011. (XII. 21.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.

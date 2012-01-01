@@ -6,4 +6,7 @@
 
 (4) Az (1) és (3) bekezdés szerinti szervek a hatáskörükbe tartozó feladatokat az ország területére kiterjedő illetékességgel látják el. Az OTH egyes feladatait az alapító okiratban meghatározott területi kihelyezett szervezeti egységei útján látja el.
 
+(5)[^5] Az OTH ügyintézői belső szabályzatban meghatározott ügyekben döntések, iratok vonatkozásában kiadmányozási jogkörrel rendelkezhetnek.
+
 [^4]: A 3. § (2) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^5]: A 3. § (5) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 75. §-a iktatta be.

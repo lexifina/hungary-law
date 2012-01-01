@@ -8,11 +8,11 @@
 
 ## 1.3. a Csongrád Megyei Népegészségügyi Szakigazgatási Szerv Bács-Kiskun, Békés és Csongrád megyére,
 
-## 1.4. a Tolna Megyei Népegészségügyi Szakigazgatási Szerv Baranya, Somogy és Tolna megyére,
+## 1.4.[^67] a Tolna Megyei Népegészségügyi Szakigazgatási Szerv Baranya, Somogy és Tolna megyére, továbbá az Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat (a továbbiakban: ERMAH) környezeti sugár-egészségügyi laboratóriumai feladatokat Fejér megyére,
 
-## 1.5. a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére,
+## 1.5.[^68] a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv – kivéve az ERMAH vonatkozásában a külön jogszabályban meghatározott feladatokat – Fejér, Komárom-Esztergom és Veszprém megyére,
 
-## 1.6. a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv Győr-Moson-Sopron, Vas és Zala megyére
+## 1.6.[^69] a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv Győr-Moson-Sopron, Vas és Zala megyére, továbbá az ERMAH környezeti sugár-egészségügyi laboratóriumai feladatokat Fejér, Komárom, Esztergom és Veszprém megyére
 
 ## kiterjedő illetékességgel látja el.
 
@@ -42,9 +42,12 @@
 
 ## 8. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 23. § (1) bekezdésében foglalt, a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
 
-## 9.[^39] Az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
+## 9.[^70] Az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
 
-3. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^40]
+3. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^71]
 
-[^39]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be.
-[^40]: A 3. melléklet a 73/2011. (IV. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^67]: A 2. melléklet 1.4. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
+[^68]: A 2. melléklet 1.5. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
+[^69]: A 2. melléklet 1.6. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg.
+[^70]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be.
+[^71]: A 3. melléklet a 325/2011. (XII. 28.) Korm. rendelet 85. § (2) bekezdése szerint módosított szöveg.
