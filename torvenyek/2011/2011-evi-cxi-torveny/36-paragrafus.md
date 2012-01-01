@@ -1,0 +1,1 @@
+36. § Ha az alapvető jogok biztosa vizsgálata során a személyes adatok védelméhez, illetve a közérdekű vagy a közérdekből nyilvános adatok megismeréséhez való joggal összefüggő visszásságot észlel, bejelentéssel fordul a Nemzeti Adatvédelmi és Információszabadság Hatósághoz.

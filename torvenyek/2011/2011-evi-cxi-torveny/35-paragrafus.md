@@ -1,0 +1,3 @@
+35. § (1) Ha az alapvető jogok biztosa vizsgálata során bűncselekmény elkövetésének alapos gyanúját észleli, büntetőeljárást kezdeményez az annak megindítására jogosult szervnél. Ha az alapvető jogok biztosa vizsgálata során szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, szabálysértési, illetve fegyelmi eljárást kezdeményez a szabálysértési, illetve a fegyelmi eljárás lefolytatására jogosult szervnél.
+
+(2) Az (1) bekezdésben meghatározott szerv az eljárás megindításával kapcsolatos álláspontjáról – törvény eltérő rendelkezése hiányában – harminc napon belül, az eljárás eredményéről pedig az annak befejezését követő harminc napon belül tájékoztatja az alapvető jogok biztosát.

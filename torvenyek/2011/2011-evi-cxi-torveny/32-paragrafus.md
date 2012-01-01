@@ -1,0 +1,7 @@
+32. § (1) Ha a rendelkezésre álló adatok szerint az alapvető jogokkal kapcsolatos visszásságot a vizsgált hatóság saját hatáskörben meg tudja szüntetni, az alapvető jogok biztosa kezdeményezheti a vizsgált hatóság vezetőjénél a visszásság orvoslását. Az ilyen kezdeményezés rövid úton – távbeszélőn, szóban vagy elektronikus levélben – is történhet, ez esetben a kezdeményezés időpontját, módját és lényegét az ügyiraton kell rögzíteni.
+
+(2) A vizsgált hatóság a kezdeményezés tekintetében kialakított érdemi állásfoglalásáról, illetve a megtett intézkedésről a kezdeményezés kézhezvételétől számított harminc napon belül, környezetet károsító tevékenység esetén haladéktalanul tájékoztatja az alapvető jogok biztosát.
+
+(3) Ha a vizsgált hatóság a kezdeményezéssel nem ért egyet, – a 31. § (4) bekezdésében meghatározott hatóság kivételével – a kezdeményezés kézhezvételétől számított harminc napon belül köteles azt véleményével ellátva felügyeleti szervéhez felterjeszteni. A felügyeleti szerv a felterjesztés kézhezvételétől számított harminc napon belül köteles állásfoglalásáról, illetve a megtett intézkedésről az alapvető jogok biztosát értesíteni.
+
+(4) A felügyeleti szerv, illetve az alapvető jogok biztosa további eljárására a 31. § (1)–(3) bekezdésében foglaltak megfelelően irányadóak azzal, hogy az alapvető jogok biztosa arról értesíti a felügyeleti szervet, hogy a kezdeményezést változatlan vagy módosított formában ajánlásként tartja-e fenn.

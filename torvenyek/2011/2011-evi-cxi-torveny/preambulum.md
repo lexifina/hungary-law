@@ -1,0 +1,1 @@
+Az Országgyűlés az alapvető jogok hatékony, egységes szemléletű és legteljesebb védelmének megteremtése érdekében az Alaptörvény végrehajtására, az Alaptörvény 30. cikk (5) bekezdése alapján a következő törvényt alkotja:

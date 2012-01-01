@@ -1,0 +1,3 @@
+24. § (1) Ha alappal tehető fel, hogy az alapvető jogok biztosa intézkedésének késedelme esetén természetes személyek nagyobb csoportjának alapvető jogai súlyosan sérülnének, az alapvető jogok biztosának a felhatalmazása alapján vizsgálatot végző munkatársa a jogsérelem veszélyét a vizsgált hatóság vezetőjének jelezheti, egyidejűleg az alapvető jogok biztosának az intézkedését kezdeményezi. A jelzést az ügyiraton rögzíteni kell.
+
+(2) Ha az alapvető jogok biztosa vizsgálata során olyan körülményt észlel, amelyből a kényszerintézkedés elrendelésének jogszerűtlenségére lehet következtetni, erről a legfőbb ügyész útján haladéktalanul értesíti az illetékes ügyészt. Ha a kényszerintézkedést az ügyészség rendelte el, az alapvető jogok biztosa a bíróságot is értesíti.

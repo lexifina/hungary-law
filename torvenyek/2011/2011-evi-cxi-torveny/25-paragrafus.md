@@ -1,0 +1,3 @@
+25. § (1) Az alapvető jogok biztosa vizsgálatainak lefolytatása, illetve a vizsgálat megtervezése érdekében a vizsgált hatóság, a vizsgált hatóság vezetője, a vizsgált hatóság felügyeleti szervének vezetője, a kért vizsgálat lefolytatására jogszabály által egyébként feljogosított szerv vezetője, valamint a vizsgált hatóság munkatársa a 21. § (1) bekezdésében meghatározott esetekben az alapvető jogok biztosával együttműködik.
+
+(2) Ha a vizsgált hatóság az együttműködéssel kapcsolatos kötelezettségét megalapozott indok nélkül nem vagy késedelmesen teljesíti, az alapvető jogok biztosa e tényt jelentésében rögzíti, és azt az éves beszámolójában külön kiemeli.
