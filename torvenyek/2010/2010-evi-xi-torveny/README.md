@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-11-00-00
 | 2010-03-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-11-00-00.1 |
 | 2010-03-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-11-00-00.2 |
 | 2010-03-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-11-00-00.3 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2010-11-00-00.4 |
