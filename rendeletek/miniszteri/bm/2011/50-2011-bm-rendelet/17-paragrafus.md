@@ -1,0 +1,5 @@
+17. § (1) A szakvizsgáztató a szakvizsgáztatásra való jogosultságot a tűzvédelmi szakvizsga bizonyítvány másolatának, az illetékes tűzvédelmi hatóságnak 2012. május 1-jéig történő megküldésével köteles adatváltozásként bejelenteni. A tűzvédelmi hatóság a bejelentés alapján új nyilvántartási számon veszi nyilvántartásba a sorszám megtartásával.
+
+(2) Amennyiben a vizsgáztató az (1) bekezdésben előírt adatváltozást az előírt határidőig nem teszi meg, a tűzvédelmi hatóság a vizsgáztatót törli a nyilvántartásából.
+
+(3) A tűzvédelmi szakvizsgával összefüggő oktatásszervezői tevékenységet végző szolgáltatónak a szakvizsga rendelet 1. mellékletében meghatározott 4. foglalkozási ág vonatkozásában 2012. január 1. után tevékenységét adatváltozásként be kell jelentenie, mivel a foglalkozási ág, munkakör megnevezése és tartalma megváltozott. A 2012. január 1. előtt a szakvizsga rendelet 1. melléklet 4. foglalkozási ág szerint nyilvántartásba vett szolgáltatók jogosultságát a tűzvédelmi hatóság 2012. január 1-jével törli a nyilvántartásból.
