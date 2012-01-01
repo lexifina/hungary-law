@@ -4,7 +4,7 @@
 
 a) a helyszínre haladéktalanul kiszállni,
 
-b) az érintett állatot, indokolt esetben a vele együtt tartottakat is – az MgSzH Központ által kiadott útmutató figyelembevételével – klinikailag megvizsgálni,
+b)[^24] az érintett állatot, indokolt esetben a vele együtt tartottakat is – az MgSzH által kiadott útmutató figyelembevételével – klinikailag megvizsgálni,
 
 c) a vizsgálatról jegyzőkönyvet felvenni, amely tartalmazza:
 
@@ -63,3 +63,5 @@ b) az érintett állat levágását megtiltja;
 c) az idegrendszeri tünetet mutató állat vizsgálatáról az (1) bekezdés szerint jegyzőkönyvet vesz fel;
 
 d) alternatív diagnózis felmerülése esetén a kerületi főállatorvos felülvizsgálatát kéri.
+
+[^24]: A 21. § (1) bekezdés b) pontja a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.

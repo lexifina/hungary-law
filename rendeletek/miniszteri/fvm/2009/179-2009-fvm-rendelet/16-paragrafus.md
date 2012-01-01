@@ -28,8 +28,10 @@ b) a fertőzés bekövetkezésének helye szerinti állomány forgalmi korlátoz
 
 (8) Ha a kerületi főállatorvos genotípus meghatározását rendeli el, az állami költségre történik, ha az állami kártalanítást kizáró ok nem áll fenn.
 
-(9) Ha a BSE vagy súrlókór a Magyar Köztársaság területére külföldről behozott állaton kerül megállapításra, és a járványügyi nyomozás azt bizonyítja, hogy behozatala előtt fertőződött meg, akkor a 999/2001/EK rendelet VII. mellékletének 2. pontjában előírt intézkedéseken túl a kerületi főállatorvos elrendelheti a beteg állattal együtt behozott többi állat leölését is, ha azok a beteg állattal azonos tartási helyről származnak.
+(9)[^20] Ha a BSE vagy súrlókór Magyarország területére külföldről behozott állaton kerül megállapításra, és a járványügyi nyomozás azt bizonyítja, hogy behozatala előtt fertőződött meg, akkor a 999/2001/EK rendelet VII. mellékletének 2. pontjában előírt intézkedéseken túl a kerületi főállatorvos elrendelheti a beteg állattal együtt behozott többi állat leölését is, ha azok a beteg állattal azonos tartási helyről származnak.
 
 (10) Ha szarvasmarhától, juhtól vagy kecskétől eltérő más kérődző faj zárt körülmények között élő egyedénél TSE került megállapításra, akkor az állomány összes egyedének klinikai vizsgálatát követően csak a TSE-re gyanús állatokat kell leölni. A vadon élő kérődzők esetén figyelemmel kell lenni a TSE-re gyanút keltő tüneteket mutató egyedek esetleges előfordulására.
 
 (11) Az esetlegesen fertőzött takarmányt és egyéb anyagot, vagy bármely más eszközt, amely a TSE kórokozóját a fertőzött gazdaságba átvihette, vagy továbbterjesztette, ártalmatlanítani kell.
+
+[^20]: A 16. § (9) bekezdése a 142/2011. (XII. 23.) VM rendelet 5. §-a szerint módosított szöveg.
