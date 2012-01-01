@@ -14,7 +14,7 @@ A ................................- KIKÖTŐBE VALÓ ÉRKEZÉS ELŐTT KÖZLENDŐ
 
 1. A hajó neve, hívójele, valamint adott esetben IMO azonosító száma:
 
-2. Lobogó szerinti állam: Magyar Köztársaság
+2. Lobogó szerinti állam: Magyarország
 
 3. Várható érkezési idő (ETA):
 
@@ -163,4 +163,4 @@ Time
 Signature
 
 [^1]: A 8. § a 38/2008. (XII. 20.) KHEM rendelet 1. §-ával megállapított szöveg.
-[^2]: A melléklet a 38/2008. (XII. 20.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^2]: A melléklet a 38/2008. (XII. 20.) KHEM rendelet 2. §-ával megállapított, a 91/2011. (XII. 30.) NFM rendelet 46. §-a szerint módosított szöveg.
