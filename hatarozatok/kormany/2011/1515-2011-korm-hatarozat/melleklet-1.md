@@ -1,0 +1,193 @@
+## 1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 29. § (1) bekezdésében meghatározott kormánybizottságként létrehozza a Katasztrófavédelmi Koordinációs Kormánybizottságot (a továbbiakban: KKB).
+
+## 2. A KKB szervezeti és működési rendjét az 1. melléklet határozza meg.
+
+## 3. A Kormány
+
+## a) felkéri a Magyar Tudományos Akadémia elnökét, hogy tegyen javaslatot a katasztrófák elleni védekezésért felelős miniszter részére a KKB Tudományos Tanácsának elnöke és tagjai személyére;
+
+## b) felhívja a katasztrófák elleni védekezésért felelős minisztert, hogy 2012. január 16-ig hívja össze a KKB alakuló ülését;
+
+## c) felhívja a katasztrófák elleni védekezésért felelős minisztert, hogy a KKB alakuló üléséig, az azon történő elfogadás érdekében dolgozza ki a KKB ügyrendjének tervezetét.
+
+## 4. Ez a határozat 2012. január 1-jén lép hatályba.
+
+1. melléklet az 1515/2011. (XII. 30.) Korm. határozathoz
+
+A Katasztrófavédelmi Koordinációs Kormánybizottság szervezeti és működési rendje
+
+A Katasztrófavédelmi Koordinációs Kormánybizottság (a továbbiakban: KKB) az alábbi szervezeti rendben működik.
+
+I.
+
+A KKB ÖSSZETÉTELE, SZERVEZETE
+
+Összetétele
+
+1. A KKB elnöke a miniszterelnök.
+
+2. A KKB elnök-helyettese a katasztrófák elleni védekezésért felelős miniszter.
+
+3. A KKB tagjai: az agrárpolitikáért, az államháztartásért, a bányászati ügyekért, az egészségügyért, az elektronikus hírközlésért, az energiapolitikáért, az élelmiszerlánc-felügyeletért, a gazdaságpolitikáért, a határrendészetért, a honvédelemért, az idegenrendészetért és menekültügyért, az iparügyekért, a kereskedelemért, a kormányzati tevékenység összehangolásáért, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért, a környezetvédelemért, a közlekedésért, a külpolitikáért, az oktatásért, a polgári nemzetbiztonsági szolgálatok irányításáért, a polgári hírszerzési tevékenység irányításáért, a rendészetért, a településfejlesztésért és településrendezésért, a természetvédelemért, a vízügyi igazgatási szervek irányításáért, valamint a vízgazdálkodásért felelős miniszter.
+
+4. A KKB ülésén állandó jelleggel, tanácskozási joggal részt vesz
+
+a) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) főigazgatója,
+
+b) az országos rendőrfőkapitány,
+
+c) a Honvéd Vezérkar főnöke,
+
+d) a KKB Tudományos Tanácsának elnöke,
+
+e) a KKB Nemzeti Veszélyhelyzet-kezelési Központjának (a továbbiakban: KKB NVK) vezetője,
+
+f) a hivatásos katasztrófavédelmi szerv központi szerve KKB adminisztratív feladatait ellátó szervezeti egységének vezetője.
+
+5. A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt
+
+a) a Bevándorlási és Állampolgársági Hivatal főigazgatója,
+
+b) a büntetés-végrehajtás országos parancsnoka,
+
+c) a polgári nemzetbiztonsági szolgálatok főigazgatói,
+
+d) a KKB NVK-vezető szakmai helyettese,
+
+e) a Nemzeti Közlekedési Hatóság elnöke,
+
+f) az Országos Atomenergia Hivatal (a továbbiakban: OAH) főigazgatója,
+
+g) az országos főállatorvos,
+
+h) az Országos Meteorológiai Szolgálat elnöke,
+
+i) az Országos Mentőszolgálat főigazgatója,
+
+j) az országos tisztifőorvos,
+
+k) a Nemzeti Adó- és Vámhivatal elnöke,
+
+l) az országos vízkár-elhárítási középirányító szerv vezetője,
+
+m) az országos környezetügyi középirányító szerv vezetője,
+
+n) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség főigazgatója,
+
+o) azon megyei, fővárosi védelmi bizottság (a továbbiakban MVB) elnöke, akit a KKB napirendjén szereplő kérdés érint,
+
+p) a KKB elnöke által meghívott más személyek.
+
+6. Az 5. pontban felsoroltak meghívására a napirend által érintett KKB-tag kezdeményezése alapján, a KKB elnöke egyetértésével is sor kerülhet.
+
+7. A KKB tagjait akadályoztatásuk esetén a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti állami vezető, a tanácskozási joggal rendelkező személyeket szervezetszerű helyettesük képviseli, akiket a KKB ülésén a helyettesített személlyel azonos jogok illetnek meg.
+
+A KKB munkaszervei
+
+Tudományos munkaszerv
+
+8. A KKB, tevékenységének tudományos támogatása, a szakmailag megalapozott döntés-előkészítés érdekében Tudományos Tanácsot (a továbbiakban: KKB TT) működtet. Ügyrendjét a BM OKF főigazgatójának javaslatára a KKB hagyja jóvá.
+
+9. A KKB TT tagjai a katasztrófák elleni védekezésért felelős miniszter által felkért személyek.
+
+10. A KKB TT a természeti és civilizációs katasztrófák elleni védekezéssel kapcsolatban tudományos és tudományszervezési tevékenységet folytat. A nukleáris veszélyhelyzetek jelentőségére tekintettel a KKB TT nukleárisbaleset-elhárítási műszaki tudományos szekciót működtet.
+
+Operatív munkaszerv
+
+11. A KKB, operatív tevékenységének támogatása érdekében operatív munkaszerveként KKB NVK-t működtet. A KKB NVK ügyrendjét a BM OKF főigazgatójának javaslatára a KKB hagyja jóvá.
+
+12. A KKB NVK hivatali, illetve elrendelés esetén folyamatos munkarendben működik. A KKB NVK folyamatos működését a KKB elnöke, vagy halaszthatatlan esetben a KKB NVK vezetője a KKB elnökének utólagos tájékoztatásával rendeli el.
+
+13. A KKB NVK a katasztrófák elleni védekezésben részt vevő központi államigazgatási szervek, illetve a BM OKF állományából a KKB elnöke, a KKB tagjai, valamint a BM OKF főigazgatója által kijelölt
+
+a) szakemberekkel,
+
+b) meghívott szakértőkkel
+
+látja el a feladatát.
+
+14. A KKB NVK a katasztrófák elleni védekezésért felelős minisztérium bázisán működik. A KKB NVK vezetőjét a KKB elnöke nevezi ki.
+
+15. A KKB NVK vezetőjének tevékenységét általános és szakmai helyettese támogatja. A KKB NVK vezetőjének általános helyettese a BM OKF állományából kijelölt vezető beosztású személy, aki a helyettesítés során általános helyettesítési jogkörrel jár el.
+
+16. A KKB NVK vezetőjének általános helyettese vezetője annak az általános munkacsoportnak, amelyik a valamennyi katasztrófatípus során egyaránt ellátandó feladatokat az érintett központi államigazgatási szervek állományából a 13. pont alapján kijelölt szakemberekkel látja el.
+
+17. A KKB NVK vezetőjének szakmai helyettese minden esetben annak a központi államigazgatási szervnek az állományába tartozó, a szakmai feladatok ellátásáért felelős vezető beosztású személy, melynek az adott katasztrófatípus kezelése, elhárítása a jogszabályban meghatározott alapvető feladatait, felelősségi körét elsődlegesen érinti. Ennek megfelelően a KKB NVK vezetőjének szakmai helyettese
+
+a) az ár- és belvizek elleni védekezés irányítására, a vízügyi infrastruktúrát ért károk felszámolására a vízügyi igazgatási szervek irányításáért,
+
+b) a rendkívüli időjárási helyzetben történő védekezés irányítására a közlekedésért,
+
+c) a veszélyhelyzeti szintet elérő környezetkárosodás felszámolásának irányítására a környezetvédelemért,
+
+d) a földtani veszélyforrások következményeinek felszámolására a településfejlesztésért és településrendezésért,
+
+e) a nukleárisbaleset-elhárításra a katasztrófák elleni védekezésért,
+
+f) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) 3. § 28. pontja hatálya alá nem tartozó ipari létesítményekben veszélyes anyag tárolása és szállítása közben bekövetkező, veszélyhelyzeti szintet elérő esemény következményei felszámolásának irányítására az iparügyekért,
+
+g) a Kat. 3. § 28. pontja hatálya alá nem tartozó ipari üzemekkel kapcsolatos, szénhidrogén-kitermelés során bekövetkező, veszélyhelyzeti szintet elérő esemény következményei felszámolásának irányítására a bányászati ügyekért,
+
+h) a humán járványok megelőzésének és felszámolásának irányítására az egészségügyért,
+
+i) a veszélyhelyzeti szintű hőhullám időszakára az egészségügyért,
+
+j) az állati eredetű járványok, valamint az élelmiszerbiztonsággal kapcsolatos események megelőzésének és felszámolásának irányítására az élelmiszerlánc-felügyeletért,
+
+k) a veszélyhelyzeti szintet elérő légi, közúti, vasúti, vízi közlekedési balesetek, valamint a katasztrófák kezelése és a nemzetközi segítségnyújtás során szükséges szárazföldi, vízi és légi szállítási feladatok, kapacitások biztosítására és a közlekedési infrastruktúrát ért károk felszámolására a közlekedésért,
+
+l) a kormányzati, közigazgatási és lakosság-ellátási informatikai rendszerek zavarai, leállása vagy összeomlása miatt bekövetkező események kezelésére, valamint következményei felszámolásának irányítására a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért,
+
+m) az elektronikus hírközlési infrastruktúrát ért károk felszámolására az elektronikus hírközlésért,
+
+n) a külföldi állampolgárok tömeges méretű migrációja miatt bekövetkező események kezelésére az idegenrendészetért és menekültügyért
+
+felelős miniszter által kijelölt személy, aki egyben ellátja a 18. pontban meghatározott védekezési munkabizottság vezetői feladatait.
+
+18. Az a központi államigazgatási szerv, melynek az adott katasztrófatípus kezelése, elhárítása a jogszabályban meghatározott alapvető feladatait, felelősségi körét elsődlegesen érinti, a székhelyén – a központi államigazgatási szerv állományából, a szerv vezetőjének irányításával – a 17. pont a)–n) alpontjában meghatározott katasztrófatípus szerinti védekezési munkabizottságot működtet. A védekezési munkabizottság feladatainak ellátására kijelölhető arra alkalmas, már működő olyan munkaszervezet is, amely más jogszabály alapján hasonló tevékenységet végez. A védekezési munkabizottság ügyrendjét az érintett központi államigazgatási szerv vezetője a katasztrófák elleni védekezésért felelős miniszter egyetértésével hagyja jóvá.
+
+19. A nukleáris védekezési munkabizottságon belül az OAH szakértői részleget működtet. A szakértői részleg a tevékenysége során az OAH és a BM OKF által biztosított elemzési eredményeket használja fel.
+
+20. A KKB NVK folyamatos működésének elrendelése esetén a védekezési munkabizottság a KKB NVK részeként működik.
+
+21. A Kat. 3. § 28. pontja szerinti veszélyes anyagokkal foglalkozó üzem működése során keletkezett katasztrófa következményei felszámolása során a szakmai tevékenységet a 16. pontban meghatározott általános munkacsoport látja el.
+
+II.
+
+A KKB ÖSSZEHÍVÁSÁNAK ÉS MŰKÖDÉSÉNEK RENDJE, ELJÁRÁSÁNAK SZABÁLYAI
+
+22. A KKB elnökének feladatait az elnök akadályoztatása esetén – általános helyettesítési jogkörrel – az elnökhelyettes látja el. Az elnökhelyettes a helyettesítési jogkörében végzett tevékenységéről tájékoztatást ad a KKB elnökének.
+
+23. A KKB az ügyrendjét maga határozza meg.
+
+24. A KKB döntéseinek fóruma a rendes és a rendkívüli ülés. A rendes ülés évente legalább két alkalommal kerül összehívásra. Az ülés előkészítéséről és lebonyolításáról a BM OKF gondoskodik minden év március 31-ig, illetve október 31-ig.
+
+25. A KKB elnöke, amennyiben úgy ítéli meg, a fentiektől eltérő rendszerességgel is összehívhatja a KKB ülését. Az ülés összehívását a KKB elnök-helyettese, a KKB tagja, valamint az érintett MVB elnöke írásban kezdeményezheti. A kezdeményezésről a KKB elnöke haladéktalanul dönt.
+
+26. A védekezés irányítása során a KKB üléseit a KKB elnöke a kialakult helyzet által megkövetelt rendben hívja össze. A tevékenység súlypontját a Kormány rendkívüli intézkedéseinek előkészítése, a védekezési feladatok összehangolása, a nemzetközi együttműködési kötelezettségből adódó feladatok végrehajtása, valamint a lakosság gyors és hiteles tájékoztatásának megvalósítása képezi.
+
+27. A KKB a védekezés időszakában ellátja a Kormány részére történő szakmai döntés-előkészítő feladatokat, amelyet a KKB NVK javaslatai alapján végez. A Kormány, a KKB elnöke által jelentős súlyúnak ítélt kérdések tekintetében a védekezés irányítását a KKB-tól magához vonja.
+
+28. A KKB és a KKB munkaszervek tagjai riasztásának megszervezését és elrendelése esetén a riasztást a BM OKF végzi. A riasztás végrehajtása érdekében a KKB NVK tagjait delegáló központi államigazgatási szervek, székhelyükön állandó kapcsolattartási pontot működtetnek.
+
+29. A KKB NVK, folyamatos működésének megkezdését követően, a KKB szakmai döntés-előkészítő, valamint a feladatok végrehajtását koordináló szerveként működik, ennek során
+
+a) végzi a szükséges operatív döntések előkészítését, és javaslatot tesz azok végrehajtásra az érintett miniszterek részére, valamint figyelemmel kíséri a megtett intézkedések végrehajtását,
+
+b) koordinálja a védekezésbe, illetve a katasztrófa következményeinek felszámolásába bevont erők és a közreműködő szervezetek tevékenységét,
+
+c) tájékoztatja a katasztrófák elleni védekezésért felelős minisztert a kialakult helyzetről, a megtett intézkedésekről, a bevont erőkről és eszközökről, valamint a katasztrófa elhárításával, a védekezéssel és a következmények felszámolásával kapcsolatos további javaslatokról,
+
+d) elemzi és értékeli a kialakult helyzetet,
+
+e) gyűjti a központi, területi szintű megelőző intézkedések bevezetésével kapcsolatos információkat,
+
+f) a nukleárisbaleset-elhárítás központi tájékoztatási feladatainak koordinálása érdekében Lakossági Tájékoztatási Munkacsoportot működtet,
+
+g) a nukleáris veszélyhelyzetre való felkészülés érdekében elrendeli az Országos Sugárfigyelő, Jelző és Ellenőrző Rendszer részleges, vagy teljes működésbe lépését,
+
+h) gondoskodik az Országos Nukleárisbaleset-elhárítási Rendszer riasztásáról és a lakosság sugárvédelmét biztosító feladatok végrehajtásának országos koordinálásáról, valamint
+
+i) az élet és anyagi javak védelme, az alapvető szolgáltatások biztosításának folyamatossága érdekében a BM OKF bevonásával megteszi a szükséges intézkedéseket.
+
+30. A KKB NVK a folyamatos működésének elrendelését követően, a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium bázisán erre a célra kialakított és felszerelt, folyamatosan működőképes állapotban tartott létesítményben működik. A KKB NVK félévente gyakorlatot tart a folyamatos működési rendre történő áttérés begyakorlása érdekében, amennyiben a tárgyidőszakban veszélyhelyzet kihirdetésére nem került sor.
