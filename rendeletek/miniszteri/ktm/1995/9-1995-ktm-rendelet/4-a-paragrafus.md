@@ -1,1 +1,0 @@
-## 4. § Az üzemben tartó köteles a gőzvisszavezető és a véggázkezelő berendezéseket folyamatosan üzemképes állapotban tartani és működtetni. Meghibásodás esetén a javítást 5 munkanapon belül el kell végezni. A határidő eredménytelen letelte után a motorbenzin töltést és lefejtést szüneteltetni kell.
