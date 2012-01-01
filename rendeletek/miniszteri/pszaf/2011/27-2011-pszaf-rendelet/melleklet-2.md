@@ -1,0 +1,9 @@
+## ADATSZOLGÁLTATÁSI TÁBLÁK
+
+## 20110G20000027_1
+
+2. melléklet a 27/2011. (XI. 30.) PSZÁF rendelethez
+
+KITÖLTÉSI ÚTMUTATÓ
+
+20110G20000027_2
