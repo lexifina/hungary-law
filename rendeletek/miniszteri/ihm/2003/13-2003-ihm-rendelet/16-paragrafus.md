@@ -8,6 +8,6 @@ b) a tevékenységével összefüggő, jogszabályokban meghatározott köteleze
 
 (3) A kijelölés megszűnését és megszüntetését az IHM hivatalos lapjában és honlapján teszi közzé.
 
-(4)[^10] Bejelentett szervezet kijelölésének megszűnése vagy visszavonása esetén a kijelölő a bejelentést az R. 8/A. §-ában foglaltaknak megfelelően visszavonja, erről a piac felügyeletét ellátó hírközlési hatóságot 3 napon belül tájékoztatja.
+(4)[^12] Bejelentett szervezet kijelölésének megszűnése vagy visszavonása esetén a kijelölő a bejelentést az R. 8/A. §-ában foglaltaknak megfelelően visszavonja, erről a piac felügyeletét ellátó hírközlési hatóságot 3 napon belül tájékoztatja.
 
-[^10]: A 16. § (4) bekezdését a 14/2005. (X. 31.) IHM rendelet 6. §-a iktatta be.
+[^12]: A 16. § (4) bekezdését a 14/2005. (X. 31.) IHM rendelet 6. §-a iktatta be.

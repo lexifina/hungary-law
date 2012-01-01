@@ -14,4 +14,6 @@ c) eljárásokkal a bizalmas ügykezelésre vonatkozóan minden olyan adattal ka
 
 d) a tanúsítási eljárás alapjául szolgáló, a vonatkozó normatív dokumentumok szerinti vizsgálati, illetőleg ellenőrzési jegyzőkönyv formanyomtatványokkal;
 
-e) a tevékenység végzésére vonatkozóan – a Magyar Köztársaságban engedélyezett biztosítónál – kötött érvényes felelősségbiztosítási szerződéssel, kivéve, ha az állam kötelezettséget vállalt érte, vagy az állam közvetlenül felelős.
+e)[^8] a tevékenység végzésére vonatkozóan – Magyarországon engedélyezett biztosítónál – kötött érvényes felelősségbiztosítási szerződéssel, kivéve, ha az állam kötelezettséget vállalt érte, vagy az állam közvetlenül felelős.
+
+[^8]: A 9. § e) pontja a 91/2011. (XII. 30.) NFM rendelet 35. § a) pontja szerint módosított szöveg.
