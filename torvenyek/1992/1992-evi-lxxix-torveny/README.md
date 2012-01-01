@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-79-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2008-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1992-79-00-00.12 |
+| 2012-01-01 | 2011. évi CLXXVI. törvény | 1992-79-00-00.13 |

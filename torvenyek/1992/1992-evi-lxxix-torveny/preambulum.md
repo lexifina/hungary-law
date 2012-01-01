@@ -1,4 +1,4 @@
-A Magyar Köztársaság Országgyűlése annak tudatában, hogy
+Az Országgyűlés annak tudatában, hogy
 
 — a fogantatással induló magzati élet tiszteletet és védelmet érdemel;
 

@@ -1,6 +1,6 @@
 3. § (1) Térítésmentes terhesgondozásra jogosult
 
-a) a Magyar Köztársaság területén lakóhellyel rendelkező magyar állampolgár,
+a) a Magyarország területén lakóhellyel rendelkező magyar állampolgár,
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és a három hónapot meghaladó tartózkodás jogával rendelkező személy, amennyiben a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, valamint
 
