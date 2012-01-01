@@ -1,3 +1,5 @@
+## 2. A rendelkezési jog kedvezményezettje
+
 4. § (1) E törvény alkalmazásában kedvezményezett
 
 a) azon
@@ -28,17 +30,19 @@ d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a k
 
 e) az országos szakmúzeumok;
 
-f) az a könyvtári, levéltári, múzeumi, egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet, amely a rendelkező nyilatkozat évének első napja előtti három év valamelyikében a helyi önkormányzattól, az országos, illetve a helyi kisebbségi önkormányzattól vagy a központi költségvetéstől egyedi támogatásban részesült és nem tartozik az előző kategóriákba;
+f) az a könyvtári, levéltári, múzeumi, egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet, amely a rendelkező nyilatkozat évének első napja előtti három év valamelyikében a helyi önkormányzattól, az országos, illetve a helyi kisebbségi önkormányzattól vagy a központi költségvetésből egyedi támogatásban részesült és nem tartozik az előző kategóriákba;
 
 g) a felsőoktatásról szóló 2005. évi CXXXIX. törvény 1. számú mellékletében meghatározott felsőoktatási intézmény;
 
 h) a Nemzeti Együttműködési Alap.
 
+i) a Magyar Művészeti Akadémia.
+
 (2) Az (1) bekezdés a) pontjában megjelöltek közül kizárólag az a szervezet lehet kedvezményezett, amely
 
 a) belföldi székhelyű, és
 
-b) magyarországi közösség, illetőleg a határon túli magyarság érdekében működik, és
+b) magyarországi közösség, illetve a határon túli magyarság érdekében működik, és
 
 c) alapszabálya, alapító okirata szerint megfelel a Civil tv. 34. § (1) bekezdés d) pontja szerinti feltételnek, és
 
@@ -46,16 +50,12 @@ d) nyilatkozik arról, hogy a rendelkező nyilatkozat évének augusztus 1. napj
 
 e) nyilatkozik arról, hogy az alapszabálya, alapító okirata szerinti közhasznú tevékenységét a rendelkező nyilatkozat évét megelőző év első napja óta megszakítás nélkül ténylegesen folytatja;
 
-f) az (1) bekezdés ac) pontjában meghatározott közhasznú alapítvány, egyesület a szerződés másolatának az adóhatósághoz történő becsatolásával igazolja, hogy tevékenységét állami szervvel vagy önkormányzattal a rendelkező nyilatkozat évének első napja előtt legalább egy évvel kötött szerződés alapján végzi;
+f) az (1) bekezdés a) pont ac) pontjában meghatározott közhasznú alapítvány, egyesület a szerződés másolatának az adóhatósághoz történő becsatolásával igazolja, hogy tevékenységét állami szervvel vagy önkormányzattal a rendelkező nyilatkozat évének első napja előtt legalább egy évvel kötött szerződés alapján végzi;
 
-g) nyilatkozik arról, hogy
+g)
 
-ga) a rendelkező nyilatkozat évét megelőző öt évben nem kötött vagy tartott fenn együttműködési megállapodást párttal,
-
-gb) a rendelkező nyilatkozat évét megelőző öt évben nem állított párttal közös jelöltet országgyűlési, európai parlamenti vagy helyi önkormányzati választáson.
-
-(3) Ha az (1) bekezdés szerinti kedvezményezett a (2) bekezdés d) pontjában meghatározott feltételt, illetve az 5. § (8) bekezdésében megjelölt határidőt nem teljesíti, kivételes méltányosságot érdemlő esetben az állami adóhatóság eltekinthet e feltételek meglététől. Kivételes méltányosságot érdemel különösen, ha a rendelkezett összeg átutalásának meghiúsulása a kedvezményezett alapvető céljának elérését súlyosan veszélyezteti. A kivételes méltányosság gyakorlása esetén a 6. § (1) bekezdése szerinti átutalást – legkésőbb a rendelkező nyilatkozat éve utolsó napját követő egy éven belül – az adóhatóság akkor teljesítheti, ha ezt megelőzően a kedvezményezett a köztartozását rendezi.
+(3) Ha az (1) bekezdés szerinti kedvezményezett a (2) bekezdés d) pontjában meghatározott feltételt, és az (5) bekezdésben megjelölt határidőt nem teljesíti, kivételes méltányosságot érdemlő esetben az adóhatóság eltekinthet e feltételek meglététől. Kivételes méltányosságot érdemel különösen, ha a rendelkezett összeg átutalásának meghiúsulása a kedvezményezett alapvető céljának elérését súlyosan veszélyezteti. A kivételes méltányosság gyakorlása esetén a 6. § (1) bekezdése szerinti átutalást – legkésőbb a rendelkező nyilatkozat éve utolsó napját követő egy éven belül – az adóhatóság akkor teljesítheti, ha ezt megelőzően a kedvezményezett a köztartozását rendezi.
 
 (4) A jogutódlással megszűnt kedvezményezett javára felajánlott adóösszegek – a 4. § (2) bekezdésében előírt követelmények teljesítése esetén – a kedvezményezett jogutódját illetik meg.
 
-(5)
+(5) Az adóhatóság a magánszemélyek saját érdekkörébe tartozóan érvényes rendelkező nyilatkozatai alapján minden év szeptember 1-éig felhívja az (1) bekezdés szerinti kedvezményezettet a (2) bekezdésében meghatározottak 30 napon belüli teljesítésére. A felhívást a kedvezményezett levelezési címére, ennek hiányában székhelyére kell megküldeni. A határidő elmulasztása esetén a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az igazolási kérelemre vonatkozó rendelkezéseit kell alkalmazni.

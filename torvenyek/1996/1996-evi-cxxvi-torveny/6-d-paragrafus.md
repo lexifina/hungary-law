@@ -1,0 +1,3 @@
+6/D. § (1) A 4/A. § (1) bekezdés b) pontjában meghatározott kiemelt előirányzat javára felajánlott összeget a rendelkezést követő évben a felhasználásában érintett – a központi költségvetésről szóló törvényben meghatározott – költségvetési fejezet költségvetése tartalmazza, felhasználása pályázati úton történik.
+
+(2) Az (1) bekezdés szerinti felhasználásról a költségvetési fejezetet irányító szerv vezetője a felhasználás évére vonatkozó, a központi költségvetés végrehajtásáról szóló törvény fejezeti indokolásában részletesen elszámol, megnevezve a pályázaton nyertes szervezeteket, személyeket és a nekik juttatott összegeket. Az elszámolást a fejezetet irányító szerv honlapján a 6/C. § (6) bekezdésének megfelelően közzéteszi.

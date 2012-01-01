@@ -1,0 +1,1 @@
+8/B. § A 4. § (2) bekezdés a Magyarország 2012 . évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel hatályon kívül helyezett g) pontját a hatályvesztését megelőzően tett rendelkező nyilatkozatok tekintetében alkalmazni kell.

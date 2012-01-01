@@ -1,0 +1,23 @@
+## 6. A támogatás felhasználásának szabályai
+
+6/C. § (1) A 4. § (1) bekezdésében meghatározott kedvezményezett az e törvény alapján átutalt összeg felhasználására vonatkozó, a cél szerinti és működési költségeket összegszerűen is tartalmazó adatait – meghatározva a támogatás esetleges tartalékolásának tényét, célját, legfeljebb 3 éves időtartamát és összegét is – a kiutalást követő második év május 31. napjáig az adóhatóság részére elektronikus úton küldi meg (a továbbiakban: beszámolási kötelezettség).
+
+(2) A 4. § (1) bekezdésében meghatározott kedvezményezettet jogutód nélküli megszűnése esetén a megszűnését megelőzően soron kívüli, jogutódlással történő megszűnése esetén a jogutódot a jogelődre vonatkozó tartalmú és határidejű beszámolási kötelezettség terheli. A jogutód nélkül megszűnő kedvezményezett az e törvény alapján fel nem használt összeget a soron kívüli beszámolással egyidejűleg az adóhatóság részére visszautalja. A visszafizetett összeg a központi költségvetés bevétele.
+
+(3) Ha az adóhatóság az (1) bekezdés szerinti határidő lejártát követően megállapítja, hogy a 4. § (1) bekezdésében meghatározott kedvezményezett beszámolási kötelezettségének
+
+a) nem tett eleget,
+
+b) teljesítése során számszakilag hibás adatot közölt, vagy nem az elszámolandó összeget szerepelteti, és az adóhatóság által az adatok javítására kitűzött határidőt elmulasztotta, vagy
+
+c) teljesítése során valótlan adatot közölt,
+
+határozatával kizárja a 4. § (1) bekezdésében meghatározott kedvezményezettet a határozat jogerőre emelkedését követő rendelkező évben tett felajánlásokból történő részesedésből.
+
+(4) Ha az adóhatóság a 4. § (1) bekezdésében meghatározott kedvezményezett beszámolási kötelezettségének teljesítése során megállapítja, hogy a 4. § (1) bekezdésében meghatározott kedvezményezett a 3 éves tartalékolási időt túllépte, erről határozatot hoz, amelyben a 4. § (1) bekezdésében meghatározott kedvezményezettet a közhasznú tevékenység megvalósítására a 3 éves tartalékolási idő lejártáig fel nem használt összeg visszafizetésére kötelezi.
+
+(5) A 4. § (1) bekezdésében meghatározott kedvezményezett beszámolási kötelezettsége során az adóhatóság részére megküldött dokumentumok őrzésére az 5/C. § (4) bekezdését kell alkalmazni.
+
+(6) Az adóhatóság a 4. § (1) bekezdésében meghatározott kedvezményezett beszámolási kötelezettsége során az adóhatóság részére megküldött dokumentumokat és a (3) bekezdés szerinti kizáró határozatokat tartalmazó adatbázist elektronikus adathordozón a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter rendelkezésére bocsátja, aki azokat a felhasználást követő év június 30. napjáig a civil szervezetekkel foglalkozó honlapján közzéteszi azzal, hogy azok e határidőtől számított egy évig, de legalább a következő év ezen adatainak nyilvánosságra hozataláig nem távolíthatók el.
+
+(7) Az a 4. § (1) bekezdésében meghatározott kedvezményezett, amely rendelkezik általa fenntartott vagy a megbízása alapján működtetett olyan internetes felülettel, amelynek tartalmáért a 4. § (1) bekezdésében meghatározott kedvezményezett felel (a továbbiakban: saját honlap), a beszámolási kötelezettség során az adóhatóság részére megküldött dokumentumokat a saját honlapján is közzéteszi a felhasználást követő év május 31. napjáig, és azt e határidőtől számított egy évig nem távolíthatja el.
