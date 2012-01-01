@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-18-00-00
 | 2011-04-15 | 2011. évi XXIX. törvény | 2005-18-00-00.17 |
 | 2011-07-01 | 2011. évi XXIX. törvény | 2005-18-00-00.18 |
 | 2011-10-01 | 2011. évi CXXVI. törvény | 2005-18-00-00.19 |
+| 2012-01-01 | 2011. évi CLXXXII. törvény | 2005-18-00-00.20 |

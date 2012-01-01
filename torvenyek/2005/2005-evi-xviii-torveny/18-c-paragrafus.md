@@ -1,0 +1,3 @@
+18/C. § (1) Az értékesítő, valamint a távhőszolgáltató tárgyévi auditált éves számviteli beszámolójában szereplő, az e törvény hatálya alá tartozó tevékenységéből származó adózás előtti eredménye nem haladhatja meg az ármegállapítás során figyelembe vett könyv szerinti bruttó eszközérték és az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott nyereségtényező szorzatának mértékét (a továbbiakban: nyereségkorlát).
+
+(2) Ha a Hivatal ellenőrzése során megállapítja, hogy az értékesítő, valamint a távhőszolgáltató (1) bekezdés szerinti adózás előtti eredménye meghaladja a nyereségkorlátot, dönt a nyereségkorláton felüli összeg megosztásáról az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározottak szerint.
