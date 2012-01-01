@@ -4,7 +4,7 @@ A magyar nyelv – a magyarság befogadó gondolkodásmódjának megfelelően �
 
 A legutóbbi évtizedekben bekövetkezett technikai fejlődés a távközlés és a tömegtájékoztatás olyan új lehetőségeit bontakoztatta ki, amelyek jelentős hatással vannak minden nemzet nyelvére. Az állandósult és megsokasodott idegen nyelvi hatásokkal a magyar nyelv nehezen képes megbirkózni. A nyelv fejlődése elengedhetetlen társadalmi szükséglet. A nemkívánatos nyelvi hatások ellensúlyozása azonban törvényhozási lépéseket is szükségessé tehet.
 
-Az Alkotmány 61. §-ában biztosított információszabadság tényleges gyakorlásának is elemi feltétele, hogy a Magyar Köztársaság állampolgárainak lehetőségük legyen a hozzájuk címzett, közérdeklődésre számot tartó közlemények magyar nyelven való megismerésére, befogadására.
+Az információszabadság tényleges gyakorlásának is elemi feltétele, hogy Magyarország állampolgárainak lehetőségük legyen a hozzájuk címzett, közérdeklődésre számot tartó közlemények magyar nyelven való megismerésére, befogadására.
 
 A magyar nyelv megóvása közérdek. Védelme megkívánja a társadalom, a közélet, különösen a gazdasági, politikai és kulturális szereplők megkülönböztetett figyelmét.
 
