@@ -2,7 +2,7 @@
 
 8. § (1)[^8] A korlátolt felelősségű társaság, a zártkörűen működő részvénytársaság, valamint a zártkörűen működő európai részvénytársaság esetén, ha a tag (részvényes) szavazati jogának mértéke az 50%-ot meghaladja vagy a tag (részvényes) minősített többségű befolyással rendelkezik [Ctv. 27. § (3) bekezdés a) pont, (4) bekezdés bc) pont, 28. § (2) bekezdés bc) pont] a nyomtatványon fel kell tüntetni a részesedést szerző nevét, (cégnevét) lakóhelyét (székhelyét) és a többségi (minősített többségi) szavazati jog fennállásának tényét. A nyomtatványon e rovatot cégalapítás esetén is ki kell tölteni.
 
-(2)[^9] A cégbíróság a nonprofit gazdasági társaság közhasznú szervezeti jogállását akkor jegyzi be a cégjegyzékbe, ha a nonprofit gazdasági társaság a közhasznú szervezetekről szóló törvényben (a továbbiakban: Kszt.) foglalt követelményeket teljesíti, és a létesítő okirata megfelel a Kszt. 26. § c) pontjában meghatározott közhasznúsági tevékenységi csoportoknak.
+(2)[^9] A cégbíróság a nonprofit gazdasági társaság közhasznú szervezeti jogállását akkor jegyzi be a cégjegyzékbe, ha a nonprofit gazdasági társaság a közhasznú jogállás megszerzésének feltételeit szabályozó jogszabályban foglalt követelményeket teljesíti.
 
 (3) Egyesülés esetén a nyomtatványon fel kell tüntetni a tag tagsági jogviszonya kezdetének és megszűnésének időpontját is.
 
@@ -13,5 +13,5 @@
 (6)[^10] Ha az elismert vállalatcsoport uralkodó tagja a vállalatcsoport létrehozását a cégbíróságnak bejelenti, a cégbíróság az elismert vállalatcsoportként való működés tényét hivatalból jegyzi be a többi érintett cég (ellenőrzött társaságok) cégjegyzékébe.
 
 [^8]: A 8. § (1) bekezdése a 81/2009. (XII. 28.) IRM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^9]: A 8. § (2) bekezdése a 81/2009. (XII. 28.) IRM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 8. § (2) bekezdése a 38/2011. (XII. 29.) KIM rendelet 2. §-ával megállapított szöveg.
 [^10]: A 8. § (6) bekezdését az 1/2006. (VI. 26.) IRM rendelet 15. § (5) bekezdése iktatta be. E módosító rendelet 15. § (1) bekezdése alapján a rendelkezést a 2006. július 1. napját követően indult ügyekben kell alkalmazni.
