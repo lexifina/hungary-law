@@ -24,8 +24,10 @@ köteles alkalmazni.
 
 (3) Az „A2” és „A3” árszabást akkor lehet alkalmazni, ha a villamosenergia-fogyasztás zónaidőnkénti mérése megoldott.
 
-(4) A felhasználó kezdeményezésére, a nem mért közvilágítási célú villamos energia vételezésére, a villamos energia rendszerhasználati díjakról szóló 119/2007. (XII. 29.) GKM rendelet 2. számú melléklet B) fejezet 2.1.5. pont c) alpont második vagy harmadik bekezdése szerinti esetekben az „A2” árszabást kell alkalmazni.
+(4)[^2] A felhasználó kezdeményezésére a nem mért közvilágítási célú villamos energia vételezésének elszámolására a villamos energia rendszerhasználati díjak megállapításának és alkalmazásának szabályairól szóló 64/2011. (XI. 30.) NFM rendelet 1. melléklet 2.3.4. pont b) vagy c) alpontja szerinti esetekben az „A2” árszabást kell alkalmazni.
 
 (5) A felhasználó az „A1”, „A2”, vagy „A3” árszabások mellé „B” és „H” árszabást is választhat.
 
 (6) Az egyes zónaidők időtartamát az 1. melléklet határozza meg.
+
+[^2]: A 4. § (4) bekezdése a 83/2011. (XII. 29.) NFM rendelet 1. §-ával megállapított szöveg.
