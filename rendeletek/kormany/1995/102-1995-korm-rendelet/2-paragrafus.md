@@ -20,7 +20,7 @@ e)[^7] az OEP-pel felülvéleményező tevékenységre szerződött főorvos (a 
 
 (6) Amennyiben a keresőképtelenséget nem a biztosított vagy gyermekének háziorvosa állapítja meg, úgy erről az eljáró orvosnak — a megállapítással egyidejűleg — a biztosított vagy gyermekének háziorvosát írásban haladéktalanul értesítenie kell.
 
-(7)[^11] Az egynapos sebészeti, a kúraszerű ellátás és a járóbetegként igénybe vett komplex fürdőgyógyászati ellátás idejére a háziorvos igazolja a keresőképtelenséget.
+(7)[^11] Az egynapos sebészeti, a kúraszerű ellátás, a járóbeteg-szakellátás keretében végzett nappali ellátás és a járóbetegként igénybe vett komplex fürdőgyógyászati ellátás idejére a háziorvos igazolja a keresőképtelenséget.
 
 [^5]: A 2. § (1) bekezdése a 217/1997. (XII. 1.) Korm. rendelet 51. §-a (3) bekezdésének a) pontja szerint módosított, valamint a Magyar Közlöny 1997. évi 121. számában közzétett helyesbítésnek megfelelő szöveg. A 2. § (1) bekezdésének felvezető mondata a 252/2003. (XII. 23.) Korm. rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdésének d) pontja a 252/2003. (XII. 23.) Korm. rendelet 2. §-ának (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
@@ -28,4 +28,4 @@ e)[^7] az OEP-pel felülvéleményező tevékenységre szerződött főorvos (a 
 [^8]: A 2. § (2) bekezdésének első mondata a 252/2003. (XII. 23.) Korm. rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
 [^9]: A 2. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
 [^10]: A 2. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
-[^11]: A 2. § (7) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 13. §-a iktatta be.
+[^11]: A 2. § (7) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 13. §-a iktatta be, szövege a 325/2011. (XII. 28.) Korm. rendelet 101. §-a szerint módosított szöveg.
