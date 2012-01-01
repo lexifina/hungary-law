@@ -14,5 +14,5 @@
 
 (7) A trolibusz felsővezeték használata nélküli közlekedésre szolgáló belsőégésű motorjára 20. § (2) bekezdés c) pontjában meghatározott erőgépre vonatkozó rendelkezéseket kell alkalmazni.
 
-[^216]: A 20/B. §-t megelőző alcímet a 62/2011. (XI. 29.) NFM rendelet 11. §-a iktatta be.
+[^216]: A 20/A. §-t követő alcímet a 62/2011. (XI. 29.) NFM rendelet 11. §-a iktatta be.
 [^217]: A 20/B. §-t a 62/2011. (XI. 29.) NFM rendelet 11. §-a iktatta be.

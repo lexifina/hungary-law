@@ -18,7 +18,7 @@ kell alkalmazni.
 
 (6)[^255] A rendelet 11. § (3) bekezdés a) pontja alatti rendelkezést trolibuszok időszakos vizsgálatára 2013. január 1-jétől kell alkalmazni.
 
-(7)[^256] A rendelet 20/B. § (1) bekezdés szerinti forgalomba helyezés előtti vizsgálatot nem kell elvégezni a vasúti járművek üzembehelyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló miniszteri rendelet alapján 2011. december 31. napját megelőzően pályaszámmal ellátott trolibuszok esetében.
+(7)[^256] A rendelet 20/B.§ (1) bekezdés szerinti forgalomba helyezés előtti vizsgálatot nem kell elvégezni a vasúti járművek üzembehelyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló miniszteri rendelet alapján 2011. december 31. napját megelőzően pályaszámmal ellátott trolibuszok esetében.
 
 (8)[^257] A (7) bekezdésben meghatározott trolibuszok időszakos vizsgálatát első alkalommal 2012. december 31-ig kell elvégezni.
 

@@ -18,7 +18,7 @@
 
 (7)[^223]
 
-(8)[^224] Az Egyezményhez csatolt és a Magyar Köztársaság által elfogadott előírásokat magyar nyelven hivatalos kiadványként a közlekedési hatóság teszi közzé.
+(8)[^224] Az Egyezményhez csatolt és Magyarország által elfogadott előírásokat magyar nyelven hivatalos kiadványként a közlekedési hatóság teszi közzé.
 
 [^218]: A 21. § (2) bekezdése a 39/2002. (XII. 28.) GKM rendelet 10. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés q) pontja, a 25/2010. (XII. 22.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
 [^219]: A 21. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 19. §-ával megállapított szöveg.
@@ -26,4 +26,4 @@
 [^221]: A 21. § (5) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^222]: A 21. § (6) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 4. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c)–d), g), r) és u) pontja szerint módosított szöveg.
 [^223]: A 21. § (7) bekezdését a 46/1999. (XII. 28.) KHVM rendelet 1.§-ának (6) bekezdése iktatta be, mely egyidejűleg az eredeti (7) bekezdés számozását (8) bekezdésre változtatta. A (7) bekezdést a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés g) pontja hatályon kívül helyezte.
-[^224]: A 21. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^224]: A 21. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés d) pontja, a 62/2011. (XI. 29.) NFM rendelet 16. §-a szerint módosított szöveg.

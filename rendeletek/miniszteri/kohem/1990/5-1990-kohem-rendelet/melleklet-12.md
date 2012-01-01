@@ -1,8 +1,8 @@
 12. melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^286]
 
-A vizsgabiztosok szakmai képzése
+A vizsgabiztosok szakmai képzése[^287]
 
-A vizsgabiztosok képzése alap-, kiegészítő, illetve továbbképző tanfolyam keretében történik. A tanfolyamok témakörét és vizsgakövetelményeit a közlekedési hatóság elnöke állapítja meg. A képzés témakörét és a vizsgakövetelményeket a közlekedési hatóság honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben - tájékoztató formájában - közzéteszi.[^287]
+A vizsgabiztosok képzése alap-, kiegészítő, illetve továbbképző tanfolyam keretében történik. A tanfolyamok témakörét és vizsgakövetelményeit a közlekedési hatóság elnöke állapítja meg. A képzés témakörét és a vizsgakövetelményeket a közlekedési hatóság honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben - tájékoztató formájában - közzéteszi.
 
 Vizsgabiztosi alaptanfolyam
 
@@ -26,25 +26,25 @@ Vizsgabiztosok továbbképzése
 
 A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések[^289]
 
-3.1.[^290] Felsőfokú szakirányú végzettség esetén e rendelet 12/A. §-ának (2) bekezdés b) pontjában meghatározott szakirányú szakmai gyakorlati idő teljesítése alól a közlekedési hatóság - indokolt esetben - felmentést adhat.
+3.1. Felsőfokú szakirányú végzettség esetén e rendelet 12/A. §-ának (2) bekezdés b) pontjában meghatározott szakirányú szakmai gyakorlati idő teljesítése alól a közlekedési hatóság - indokolt esetben - felmentést adhat.
 
-3.2.[^291] Középfokú szakirányú végzettségként elfogadható az autószerelő szakirányú végzettség, vagy a gépjárműfenntartó szervezetek személyi és dologi feltételeiről szóló miniszteri rendeletben e végzettséggel egyenértékűnek minősített végzettség és az általános középiskolai érettségi egyidejű megléte.
+3.2 Középfokú szakirányú végzettségként elfogadható az autószerelő szakirányú végzettség, vagy a gépjárműfenntartó szervezetek személyi és dologi feltételeiről szóló miniszteri rendeletben e végzettséggel egyenértékűnek minősített végzettség és az általános középiskolai érettségi egyidejű megléte.
 
-3.3.[^292] A 2010. január 1-jét megelőzően a vizsgabiztosi névjegyzékbe felvett személynek a rendelet 12/A. § (2) bekezdés c) pontjában meghatározott követelményt 2015. január 1. napjáig kell teljesítenie, amennyiben az általa vizsgált jármű vizsgáló állomáson történő mozgatása biztosított a vizsgált jármű vezetésére jogosító vezetői engedéllyel rendelkező segítő személyzet útján.
+3.3. A 2010. január 1-jét megelőzően a vizsgabiztosi névjegyzékbe felvett személynek a rendelet 12/A. § (2) bekezdés c) pontjában meghatározott követelményt 2015. január 1. napjáig kell teljesítenie, amennyiben az általa vizsgált jármű vizsgáló állomáson történő mozgatása biztosított a vizsgált jármű vezetésére jogosító vezetői engedéllyel rendelkező segítő személyzet útján.
 
-Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok[^293]
+Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok[^290]
 
-4.1.[^294] A 3500 kg megengedett legnagyobb össztömeget meghaladó járművek forgalomba helyezés előtti, illetőleg időszakos vizsgálata, valamint a külön jogszabályok által előírt minősítő vizsgálata során a jármű vizsgálatát csak olyan vizsgabiztos végezheti, aki kiegészítő tanfolyami képzésen részt vett, valamint a tanfolyam anyagából sikeres vizsgát tett.
+4.1. A 3500 kg megengedett legnagyobb össztömeget meghaladó járművek forgalomba helyezés előtti, illetőleg időszakos vizsgálata, valamint a külön jogszabályok által előírt minősítő vizsgálata során a jármű vizsgálatát csak olyan vizsgabiztos végezheti, aki kiegészítő tanfolyami képzésen részt vett, valamint a tanfolyam anyagából sikeres vizsgát tett.
 
-4.2.[^295] Kiegészítő képzésre az jelentkezhet, aki a vizsgabiztosi alaptanfolyamot elvégezte, és legalább „C” járműkategóriára érvényes vezetői engedéllyel rendelkezik.
+4.2. Kiegészítő képzésre az jelentkezhet, aki a vizsgabiztosi alaptanfolyamot elvégezte, és legalább „C” járműkategóriára érvényes vezetői engedéllyel rendelkezik.
 
-4.3.[^296] A 4.2. pontban meghatározott feltétel teljesítése alól 2014. január 1-jéig a közlekedési hatóság - a vizsgabiztos szakmai tevékenységének értékelése alapján - felmentést adhat.
+4.3. A 4.2. pontban meghatározott feltétel teljesítése alól 2014. január 1-jéig a közlekedési hatóság - a vizsgabiztos szakmai tevékenységének értékelése alapján - felmentést adhat.
 
-4.4.[^297] A speciális, kiegészítő képzésre és az azt követő vizsgára az 1.2. - 1.4. pont rendelkezéseit kell megfelelően alkalmazni.
+4.4. A speciális, kiegészítő képzésre és az azt követő vizsgára az 1.2. - 1.4. pont rendelkezéseit kell megfelelően alkalmazni.
 
-A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^298]
+A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^291]
 
-A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^299]
+A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^292]
 
 I. FEJEZET
 
@@ -160,9 +160,9 @@ Ezen függelék és az A/4. mellékletben felsorolt jogi szabályozások alkalma
 
 28. „a gyártó képviselője”: az Európai Gazdasági Térségről szóló Megállapodásban részes államban (a továbbiakban: EGT tagállam) letelepedett természetes vagy jogi személy, akit a gyártó szabályszerűen kinevez, hogy a jóváhagyó hatóság előtt képviselje és az ezen függelék által szabályozott kérdésekben a nevében eljárjon és amennyiben a „gyártó” kifejezésre hivatkozás történik, azt vagy a gyártóra vagy annak képviselőjére való hivatkozásként kell érteni;
 
-29. „jóváhagyó hatóság”: a Magyar Köztársaság tekintetében a Nemzeti Közlekedési Hatóság, amely külön jogszabály alapján hatáskörrel rendelkezik egy jármű, rendszer, alkatrész vagy önálló műszaki egység típusának jóváhagyása vagy egy jármű egyedi jóváhagyása, az engedélyezési eljárás lefolytatása, a jóváhagyó okmányok kiadása vagy adott esetben visszavonása tekintetében és más tagállamok jóváhagyó hatóságai vonatkozásában a kapcsolattartó szerepét tölti be; hatáskörrel rendelkezik továbbá a vizsgáló intézmények kijelölése és annak biztosítása tekintetében, hogy a gyártó a gyártás-megfelelőséggel kapcsolatos kötelezettségeinek eleget tegyen;
+29. „jóváhagyó hatóság”: Magyarország tekintetében a Nemzeti Közlekedési Hatóság, amely külön jogszabály alapján hatáskörrel rendelkezik egy jármű, rendszer, alkatrész vagy önálló műszaki egység típusának jóváhagyása vagy egy jármű egyedi jóváhagyása, az engedélyezési eljárás lefolytatása, a jóváhagyó okmányok kiadása vagy adott esetben visszavonása tekintetében és más tagállamok jóváhagyó hatóságai vonatkozásában a kapcsolattartó szerepét tölti be; hatáskörrel rendelkezik továbbá a vizsgáló intézmények kijelölése és annak biztosítása tekintetében, hogy a gyártó a gyártás-megfelelőséggel kapcsolatos kötelezettségeinek eleget tegyen;
 
-30. „illetékes hatóság”: a Magyar Köztársaság tekintetében a Nemzeti Közlekedési Hatóság.
+30. „illetékes hatóság”: Magyarország tekintetében a Nemzeti Közlekedési Hatóság.
 
 31. „vizsgáló intézmény”: a jóváhagyó hatóság által vizsgáló laboratóriumnak vagy megfelelőség-értékelő szervnek kinevezett szervezet vagy szerv, amelynek feladata a jóváhagyó hatóság nevében vizsgálatok, illetőleg a kezdeti értékelés és egyéb vizsgálatok vagy ellenőrzések elvégzése. E feladatokat maga a jóváhagyó hatóság is elláthatja.
 
@@ -430,17 +430,14 @@ A módosítások kiadása és a módosításokról szóló értesítés
 
 (1) Kiterjesztés esetén a jóváhagyó hatóság naprakésszé teszi az EK-típusbizonyítvány valamennyi vonatkozó rovatát, annak mellékleteit, valamint az információs csomag tartalomjegyzékét. A naprakésszé tett bizonyítványt és annak mellékleteit indokolatlan késedelem nélkül kell kiadni a kérelmezőnek.
 
+(2) Felülvizsgálat esetén a jóváhagyó hatóság a felülvizsgált dokumentumokat vagy az egységes szerkezetbe foglalt, naprakésszé tett változatot – adott esetben az információs csomag felülvizsgált tartalomjegyzékét is beleértve – indokolatlan késedelem nélkül kiadja a kérelmezőnek.
+
+(3) A jóváhagyó hatóság a 8. cikkben említett eljárásoknak megfelelően értesíti a többi tagállam jóváhagyó hatóságait az EK-típusjóváhagyás módosításairól.
+
 [^286]: A 12. mellékletet a 66/2009. (XI. 27.) KHEM rendelet 23. § (4) bekezdése iktatta be.
 [^287]: A 12. melléklet nyitó szövegrésze a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
 [^288]: A 12. melléklet 2.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^289]: A 12. melléklet 3.1 pontját megelőző alcím a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^290]: A 12. melléklet 3.1. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^291]: A 12. melléklet 3.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^292]: A 12. melléklet 3.3. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^293]: A 12. melléklet 4.1. pontját megelőző alcím a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^294]: A 12. melléklet 4.1. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^295]: A 12. melléklet 4.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^296]: A 12. melléklet 4.3. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^297]: A 12. melléklet 4.4. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^298]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja, a 25/2010. (XII. 22.) NFM rendelet 2. § (1) bekezdése és 3. § (1) bekezdése, a 62/2011. (XI. 29.) NFM rendelet 14. § (4) bekezdése szerint módosított szöveg.
-[^299]: Ez a Függelék az Európai Parlament és a Tanács 79/2009/EK és 595/2009/EK rendeletével, továbbá a Bizottság 1060/2008/EK, 385/2009/EK és 371/2010/EU rendeletével, valamint a Bizottság 2010/19/EU irányelvével módosított, az európai parlament és a tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.
+[^289]: A 12. melléklet 3. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^290]: A 12. melléklet 4. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^291]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja, a 25/2010. (XII. 22.) NFM rendelet 2. § (1) bekezdése és 3. § (1) bekezdése, a 62/2011. (XI. 29.) NFM rendelet 14. § (4) bekezdése és 16. §-a szerint módosított szöveg.
+[^292]: Ez a Függelék az Európai Parlament és a Tanács 79/2009/EK és 595/2009/EK rendeletével, továbbá a Bizottság 1060/2008/EK, 385/2009/EK és 371/2010/EU rendeletével, valamint a Bizottság 2010/19/EU irányelvével módosított, az európai parlament és a tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.

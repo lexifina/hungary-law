@@ -142,7 +142,7 @@ c) a mezőgazdasági vagy erdészeti traktorok, azok pótkocsijainak és cserél
 [^24]: A 2. § (8) bekezdésének h) pontját a 39/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdése iktatta be.
 [^25]: Lásd a gépjárműadóról szóló 1991. évi LXXXII. törvény 18. § 14. pontjában foglalt meghatározást.
 [^26]: A 2. § új (9) bekezdését a 39/2002. (XII. 28.) GKM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (9) bekezdés számozását (10) bekezdésre változtatva.
-[^27]: A 2. § (9) bekezdés c) pontja a 62/2011. (XI. 29.) NFM rendelet 2. §-ával megállapított szöveg.
+[^27]: A 2. § (9) bekezdés c) pontja a 62/2011. (XI. 29. )NFM rnedelet 2. §-ával megállapított szöveg.
 [^28]: A 2. § eredeti (9) bekezdésének számozását (10) bekezdésre változtatta a 39/2002. (XII. 28.) GKM rendelet 1. § (3) bekezdése, szövegét a 83/2005. (X. 11.) GKM rendelet 1. § (4) bekezdése állapította meg.
 [^29]: A 2. § (11) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be, szövege a 14/2009. (III. 31.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^30]: A 2. § (12) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
