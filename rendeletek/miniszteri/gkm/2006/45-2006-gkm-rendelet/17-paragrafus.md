@@ -20,18 +20,19 @@ c) az engedélyezett tevékenység szüneteltetésének felülvizsgálata;
 
 d) a működési engedéllyel rendelkező vasúti társaság jogi helyzetének vizsgálata, különös tekintettel a működési engedéllyel rendelkező vasúti társaságban történő többségi befolyásszerzésre, valamint a működési engedéllyel rendelkező vasúti társaság más vasúti társaságban történő többségi befolyásszerzésére;
 
-e) más EGT-államban kiadott engedély alapján a Magyar Köztársaság területén engedélyköteles tevékenységet folytató vasúti társaság Vtv. szerinti tevékenységének vizsgálata;
+e)[^39] más EGT-államban kiadott engedély alapján Magyarország területén engedélyköteles tevékenységet folytató vasúti társaság Vtv. szerinti tevékenységének vizsgálata;
 
 f) a Vtv. 37. §-ában foglalt rendelkezések teljesülésének ellenőrzése.
 
-(6)[^39] A működési engedéllyel rendelkező vasúti társaság az adatszolgáltatási kötelezettségének a vasúti igazgatási szerv által előírt formában és módon, az elrendelt határidőben köteles eleget tenni.
+(6)[^40] A működési engedéllyel rendelkező vasúti társaság az adatszolgáltatási kötelezettségének a vasúti igazgatási szerv által előírt formában és módon, az elrendelt határidőben köteles eleget tenni.
 
-(7)[^40] A működési engedéllyel rendelkező pályavasúti társaság, illetve integrált vasúti társaság – külön jogszabály vagy a vasúti igazgatási szerv által előírt adatszolgáltatási kötelezettség alapján – más vasúti társaság, illetve piaci szereplő részére a fennálló forgalommal és a vasúti pálya aktuális állapotával kapcsolatosan köteles adatokat szolgáltatni, és az előírt adatokat, illetve információkat korlátozás nélkül, térítésmentesen hozzáférhetővé tenni.
+(7)[^41] A működési engedéllyel rendelkező pályavasúti társaság, illetve integrált vasúti társaság – külön jogszabály vagy a vasúti igazgatási szerv által előírt adatszolgáltatási kötelezettség alapján – más vasúti társaság, illetve piaci szereplő részére a fennálló forgalommal és a vasúti pálya aktuális állapotával kapcsolatosan köteles adatokat szolgáltatni, és az előírt adatokat, illetve információkat korlátozás nélkül, térítésmentesen hozzáférhetővé tenni.
 
 [^34]: A 16. §-t a 48/2009. (IX. 30.) KHEM rendelet 48. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^35]: A 17. § (1) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 5. §-a szerint módosított szöveg.
 [^36]: A 17. § (2) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 5. §-a, a 48/2009. (IX. 30.) KHEM rendelet 48. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^37]: A 17. § (3) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
 [^38]: A 17. § (4) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
-[^39]: A 17. § (6) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
-[^40]: A 17. § (7) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^39]: A 17. § (5) bekezdés e) pontja a 91/2011. (XII. 30.) NFM rendelet 50. §-a szerint módosított szöveg.
+[^40]: A 17. § (6) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^41]: A 17. § (7) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
