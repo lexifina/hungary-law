@@ -1,3 +1,9 @@
-5. § (1) A belügyminiszter a bizottság javaslata alapján a kérelmezőt kijelöli, és erről a 2. számú mellékletben feltüntetett kijelölési okiratot kiállítja.
+5. § (1)[^4] A belügyminiszter a bizottság javaslata alapján a kérelmezőt kijelöli, és erről a 2. mellékletben feltüntetett kijelölési okiratot kiállítja.
 
-(2) A kijelölésről szóló okirat eredeti példányát a kérelmezőnek, másolatát – a 6. §-ra tekintettel – a BM OKF-nek tájékoztatás céljából meg kell küldeni.
+(2)[^5] A kijelölésről szóló okirat eredeti példányát és annak másolatát a BM OKF részére meg kell küldeni. A BM OKF az okirat eredeti példányát megküldi a kérelmező részére.
+
+(3)[^6] A kijelölési okirat a kiállítástól számított 5 évig érvényes.
+
+[^4]: Az 5. § (1) bekezdése az 54/2011. (XII. 21.) BM rendelet 12. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (2) bekezdése az 54/2011. (XII. 21.) BM rendelet 3. §-ával megállapított szöveg.
+[^6]: Az 5. § (3) bekezdését az 54/2011. (XII. 21.) 4. §-a iktatta be.
