@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya kiterjed a fővárosi és megyei kormányhivatal munkaügyi központjaira (a továbbiakban: munkaügyi központ), és a Humánerőforrás Fejlesztési Operatív Program 1. 1 intézkedése keretében megvalósításra kerülő központi programban részt vevő természetes személyre, jogi személyre, és jogi személyiség nélküli gazdasági társaságra.
+## 1. §[^2] E rendelet hatálya kiterjed a fővárosi és megyei kormányhivatal munkaügyi központjaira (a továbbiakban: munkaügyi központ), és a Humánerőforrás Fejlesztési Operatív Program 1. 1 intézkedése keretében megvalósításra kerülő központi programban részt vevő természetes személyre, jogi személyre, és jogi személyiség nélküli gazdasági társaságra.
 
 2. § (1) Ha a munkaügyi központ a 2004–2006. évi Humánerőforrás Fejlesztési Operatív Program 1. 1 munkanélküliség megelőzése és kezelése intézkedés keretében, végső kedvezményezettként kapott támogatás felhasználásával központi programot hajt végre, a program keretében a következő támogatások nyújthatók:
 
@@ -50,4 +50,4 @@ c) azok a 30. életévüket betöltött álláskeresők, akik esetében a progra
 
 (6) A munkaadó tájékoztatása alapján a csoportos létszámleépítésben érintett munkavállaló részére az (1) bekezdés aa) pontjában és da)–db) pontjaiban, továbbá a 3. § (2) bekezdés a) pontjában foglalt támogatások nyújthatók, feltéve, hogy a munkaadóval szemben már nem áll fenn a munkavégzési kötelezettsége.
 
-[^1]: Az 1. § a 27/2010. (XII. 31.) NGM rendelet 52. §-a szerint módosított szöveg.
+[^2]: Az 1. § a 27/2010. (XII. 31.) NGM rendelet 52. §-a szerint módosított szöveg.

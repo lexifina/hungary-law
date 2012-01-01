@@ -4,4 +4,6 @@
 
 (2) A munkaügyi központ a támogatás odaítélésekor a MüM r. 27/B. §-ának (1) bekezdésében meghatározott mérlegelési szempontok figyelembevételével jár el.
 
-(3) A megállapodásra, illetve az azzal kapcsolatos eljárásra a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvénynek a szabályait kell alkalmazni.
+(3)[^6] A megállapodásra, illetve az azzal kapcsolatos eljárásra a Polgári Törvénykönyvről szóló 1959. évi IV. törvénynek a szabályait kell alkalmazni.
+
+[^6]: A 7. § (3) bekezdése a 91/2011. (XII. 30.) NFM rendelet 51. §-a szerint módosított szöveg.
