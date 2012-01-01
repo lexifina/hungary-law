@@ -1,0 +1,1 @@
+## 32. § Ha az igénylésre szolgáló felületen rögzített adatokat a közreműködő intézmény hitelesítette, az adatkezelő 15 napon belül továbbítja az oktatásiigazolvány-igénylést az Educatio NKft. közreműködésével a KEK KH-nak.
