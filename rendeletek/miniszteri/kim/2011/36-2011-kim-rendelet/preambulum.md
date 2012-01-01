@@ -1,0 +1,1 @@
+A statisztikáról szóló 1993. évi XLVI. törvény 26. § (4) bekezdés a) és b) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § c) pont szerinti feladatkörömben eljárva a következőket rendelem el:

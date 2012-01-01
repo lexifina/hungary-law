@@ -1,0 +1,3 @@
+3. § (1) Az ÖVTJ-re vonatkozó módosító javaslatok minden év június 30-ig jelenthetők be írásban a Központi Statisztikai Hivatalnál (a továbbiakban: KSH).
+
+(2) A jelen rendelet hatályba lépésének időpontjában nyilvántartásban szereplő önálló vállalkozók főtevékenysége besorolásának módosítását az új vagy módosított jegyzék alapján a KSH végzi el. A módosított adatokat, valamint a régi és az új vagy módosított jegyzék közötti teljes és az egy az egyhez fordítókulcsokat a KSH – a hatályos jogszabályoknak megfelelően – átadja az e rendelet szerinti önálló vállalkozók hivatalos központi nyilvántartását vezető szerveknek.
