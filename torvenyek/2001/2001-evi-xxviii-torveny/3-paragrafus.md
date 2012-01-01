@@ -6,4 +6,4 @@ Nyilatkozat
 
 A Magyar Köztársaság kijelenti, hogy – figyelemmel a magyar jog rendelkezéseire – a kulturális értékű tárgyak visszaszerzésére vonatkozó igények nem évülnek el.
 
-Az Egyezmény 16. Cikke szerinti eljárások közül a Magyar Köztársaság a c) bekezdés alatti eljárást választja, ennek megfelelően az igényeket a diplomáciai vagy konzuli csatornákon keresztül kell megtenni. A Magyar Köztársaságban a Kulturális Örökségvédelmi Hivatal a megbízott illetékes hatóság, amely a tulajdonjogi kérdések rendezésére illetékes Fővárosi Bírósághoz továbbítja az igényeket.''
+Az Egyezmény 16. Cikke szerinti eljárások közül a Magyar Köztársaság a c) bekezdés alatti eljárást választja, ennek megfelelően az igényeket a diplomáciai vagy konzuli csatornákon keresztül kell megtenni. A Magyar Köztársaságban a Kulturális Örökségvédelmi Hivatal a megbízott illetékes hatóság, amely a tulajdonjogi kérdések rendezésére illetékes Fővárosi Törvényszékhez továbbítja az igényeket.''
