@@ -18,7 +18,7 @@ b) a Kormányzati Koordinációs Bizottság (a továbbiakban: KKB) ülésein, il
 
 c) a munkavállalók katasztrófavédelemmel és a veszélyelhárítással összefüggő képzéséről;
 
-d) a fogvatartottak szükség szerinti tájékoztatásának előkészítéséről;
+d)[^6]
 
 e) a megelőző védelmi feladatok meghatározásáról, illetve végrehajtásáról;
 
@@ -42,11 +42,11 @@ l) a meghatározott feladatok végrehajtásának ellenőrzéséről.
 
 (2) A védekezés időszakában az igazságügy-miniszter:
 
-a) együttműködik a 4. § (1) bekezdés b) pontjában meghatározott szervekkel, a minisztérium védekezést irányító, illetve a felügyelete alá tartozó rendvédelmi szerv (büntetés-végrehajtási szervezet) védekezési tevékenységének meghatározásában;
+a)[^7] együttműködik a 4. § (1) bekezdés b) pontjában meghatározott szervekkel, a minisztérium védekezést irányító tevékenységének meghatározásában;
 
 b) a katasztrófaveszélyről kapott tájékoztatást követően intézkedik
 
-ba) a minisztérium és a Büntetés-végrehajtás Országos Parancsnokság vezetői állományából a védekezési bizottság felállítására,
+ba)[^8] a minisztérium vezetői állományából a védekezési bizottság felállítására,
 
 bb) a katasztrófavédelemben részt vevő szervezetek részleges vagy teljes készenlétbe helyezésére;
 
@@ -56,7 +56,7 @@ ca) a védekezési bizottság működésének megkezdését,
 
 cb) a katasztrófavédelemben részt vevő szervezetek szükség szerinti alkalmazását,
 
-cc)[^2] a helyzet függvényében az élet- és vagyonmentés végrehajtását, a büntetés-végrehajtási szerv áttelepítését, az ISZKI, az Igazságügyi Hivatal, valamint az OFFI Rt. és a területi igazgatóságok működésének felfüggesztését,
+cc)[^9] a helyzet függvényében az élet- és vagyonmentés végrehajtását, az ISZKI, az Igazságügyi Hivatal, valamint az OFFI Rt. és a területi igazgatóságok működésének felfüggesztését,
 
 cd) a szükséges mértékű személyzet és eszköz átcsoportosítások végrehajtását;
 
@@ -74,4 +74,7 @@ c) meghatározza a helyreállítás fontossági sorrendjét és ütemét;
 
 d) megteszi a szükséges intézkedéseket a helyreállításhoz szükséges pénzügyi források biztosítására.
 
-[^2]: A 4. § (2) bekezdése c) pontjának cc) alpontja a 12/2006. (III. 23.) IM rendelet 11. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdés d) pontját a 62/2011. (XII. 29.) BM rendelet 73. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^7]: A 4. § (2) bekezdés a) pontja a 62/2011. (XII. 29.) BM rendelet 73. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdés b) pont ba) alpontja a 62/2011. (XII. 29.) BM rendelet 73. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdése c) pontjának cc) alpontja a 12/2006. (III. 23.) IM rendelet 11. §-ával megállapított, a 62/2011. (XII. 29.) BM rendelet 73. § (3) bekezdés g) pontja szerint módosított szöveg.
