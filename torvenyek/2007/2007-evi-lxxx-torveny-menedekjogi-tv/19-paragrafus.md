@@ -2,7 +2,7 @@
 
 ## A MENEDÉKES
 
-19. § A Magyar Köztársaság menedékesként ideiglenes védelemben részesíti azt a külföldit, aki a Magyar Köztársaság területére tömegesen menekülők olyan csoportjába tartozik, amelyet
+19. § Magyarország menedékesként ideiglenes védelemben részesíti azt a külföldit, aki Magyarország területére tömegesen menekülők olyan csoportjába tartozik, amelyet
 
 a) az Európai Unió Tanácsa – a lakóhelyüket elhagyni kényszerült személyek tömeges beáramlása esetén nyújtandó átmeneti védelem minimumkövetelményeiről, valamint a tagállamok e személyek befogadása és a befogadás következményeinek viselése tekintetében tett erőfeszítései közötti egyensúly előmozdítására irányuló intézkedésekről szóló, 2001. július 20-i, 2001/55/EK tanácsi irányelvben (a továbbiakban: 2001/55/EK irányelv) meghatározott eljárás szerint – ideiglenes védelemre jogosultként elismert, vagy
 

@@ -4,7 +4,7 @@
 
 (2) A család egységének biztosítása céljából – a 8. § (1) bekezdésben foglalt kivétellel – kérelmére menekültként kell elismerni az (1) bekezdés alapján menekültként elismert külföldi családtagját is.
 
-(3) Ha a menekültként elismert külföldinek a Magyar Köztársaság területén gyermeke születik, kérelmére a gyermeket menekültként kell elismerni.
+(3) Ha a menekültként elismert külföldinek Magyarország területén gyermeke születik, kérelmére a gyermeket menekültként kell elismerni.
 
 (4) Az idegenrendészetért és menekültügyért felelős miniszter (a továbbiakban: miniszter) a menekültkénti elismerés feltételei fennállásának hiányában kivételes méltányosságból menekültként ismerheti el azt a külföldit, akinek az elismerését humanitárius ok indokolja, feltéve, hogy a külföldi menekültkénti elismerését kizáró ok nem áll fenn.
 

@@ -2,7 +2,7 @@
 
 a) személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban korábban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, vagy
 
-b) jogszerűen tartózkodik a Magyar Köztársaság területén és nem kéri befogadó állomáson történő elhelyezését.
+b) jogszerűen tartózkodik Magyarország területén és nem kéri befogadó állomáson történő elhelyezését.
 
 (1a) A menekültügyi hatóság a kísérő nélküli kiskorú gyermekvédelmi intézményben történő elhelyezéséről intézkedik.
 

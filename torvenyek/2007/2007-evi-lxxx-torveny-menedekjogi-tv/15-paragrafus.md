@@ -10,4 +10,4 @@ ab) olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt m
 
 ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
 
-b) akinek a Magyar Köztársaság területén való tartózkodása a nemzetbiztonságot sérti.
+b) akinek Magyarország területén való tartózkodása a nemzetbiztonságot sérti.

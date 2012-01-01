@@ -6,13 +6,13 @@ a) külföldi: a nem magyar állampolgár és a hontalan;
 
 b) hontalan: akit saját joga szerint egyetlen állam sem ismer el állampolgárának;
 
-c) menedékjog: jogcím a Magyar Köztársaság területén való tartózkodásra, egyidejű védelem a visszaküldés, a kiutasítás és a kiadatás ellen;
+c) menedékjog: jogcím Magyarország területén való tartózkodásra, egyidejű védelem a visszaküldés, a kiutasítás és a kiadatás ellen;
 
 d) kiegészítő védelem: az oltalmazottat megillető jogok és az őt terhelő kötelezettségek összessége;
 
 e) ideiglenes védelem: a menedékest megillető jogok és az őt terhelő kötelezettségek összessége;
 
-f) kísérő nélküli kiskorú: az a tizennyolcadik életévét be nem töltött külföldi, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett a Magyar Köztársaság területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
+f) kísérő nélküli kiskorú: az a tizennyolcadik életévét be nem töltött külföldi, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett Magyarország területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
 
 g) származási ország: az állampolgárság, illetve hontalan személy esetén a szokásos tartózkodási hely szerinti ország vagy országok;
 
@@ -24,7 +24,7 @@ ia) az életét és a szabadságát nem fenyegeti veszély faji, vallási okból
 
 ib) a genfi egyezménnyel összhangban tiszteletben tartják a visszaküldés tilalmának elvét;
 
-ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol halálbüntetésnek, kínzásnak, kegyetlen, embertelen vagy megalázó bánásmódnak vagy büntetésnek lenne kitéve; és
+ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve; és
 
 id) a menekültkénti elismerés kérelmezésének lehetősége biztosított, és a menekültkénti elismerés esetén biztosított a genfi egyezménnyel összhangban álló védelem;
 

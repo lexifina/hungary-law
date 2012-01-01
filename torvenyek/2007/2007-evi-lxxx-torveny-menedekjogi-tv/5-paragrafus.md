@@ -4,7 +4,7 @@
 
 5. § (1) Az elismerését kérő jogosult
 
-a) az e törvényben meghatározott feltételek szerint a Magyar Köztársaság területén való tartózkodásra, valamint a Magyar Köztársaság területén való tartózkodásra jogosító – külön jogszabályban meghatározott – engedélyre;
+a) az e törvényben meghatározott feltételek szerint Magyarország területén való tartózkodásra, valamint Magyarország területén való tartózkodásra jogosító – külön jogszabályban meghatározott – engedélyre;
 
 b) az e törvényben és külön jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra;
 

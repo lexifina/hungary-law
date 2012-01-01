@@ -6,11 +6,11 @@ a) akiről megalapozottan feltételezhető, hogy
 
 aa) nemzetközi dokumentumokban meghatározott béke elleni, háborús vagy emberiesség elleni bűncselekményt követett el;
 
-ab) a menedékeskénti elismerés iránti kérelem benyújtását megelőzően, a Magyar Köztársaság területén kívül súlyos, nem politikai bűncselekményt követett el;
+ab) a menedékeskénti elismerés iránti kérelem benyújtását megelőzően, Magyarország területén kívül súlyos, nem politikai bűncselekményt követett el;
 
 ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
 
-b) akinek a Magyar Köztársaság területén való tartózkodása nemzetbiztonsági érdeket sért;
+b) akinek Magyarország területén való tartózkodása nemzetbiztonsági érdeket sért;
 
 c) akiről jogerős bírói ítélet megállapította, hogy olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
 

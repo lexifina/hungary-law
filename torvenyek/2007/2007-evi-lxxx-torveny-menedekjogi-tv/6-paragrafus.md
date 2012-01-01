@@ -2,7 +2,7 @@
 
 ## A MENEKÜLT
 
-6. § (1) A Magyar Köztársaság menekültként ismeri el azt a külföldit, aki faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, politikai meggyőződése miatti üldöztetése vagy az üldözéstől való megalapozott félelme miatt származási országán kívül tartózkodik, és nem tudja, vagy az üldözéstől való félelmében nem kívánja a származási országa védelmét igénybe venni.
+6. § (1) Magyarország menekültként ismeri el azt a külföldit, akinek az esetében az Alaptörvény XIV. cikk (3) bekezdésében meghatározott feltételek fennállnak.
 
 (2) Az üldözéstől való megalapozott félelem alapulhat olyan eseményeken is, amelyek azt követően következtek be, hogy a külföldi a származási országát elhagyta, vagy a külföldi olyan tevékenységén, amelyet a származási országa elhagyását követően fejtett ki.
 

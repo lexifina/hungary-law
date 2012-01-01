@@ -20,4 +20,4 @@ a) a menekültügyi hatósággal együttműködni;
 
 b) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni;
 
-c) a Magyar Köztársaság jogszabályait megtartani.
+c) Magyarország jogszabályait megtartani.

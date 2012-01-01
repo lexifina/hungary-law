@@ -8,4 +8,4 @@ a) az elismerés iránt közös kérelmet nyújtottak be, vagy
 
 b) a családtag az elismerés iránti kérelmet az oltalmazottként elismert külföldi hozzájárulásával, az őt oltalmazottként elismerő határozat meghozatala előtt nyújtotta be.
 
-(3) Ha az oltalmazottként elismert külföldinek a Magyar Köztársaság területén gyermeke születik, kérelmére a gyermeket oltalmazottként kell elismerni.
+(3) Ha az oltalmazottként elismert külföldinek Magyarország területén gyermeke születik, kérelmére a gyermeket oltalmazottként kell elismerni.
