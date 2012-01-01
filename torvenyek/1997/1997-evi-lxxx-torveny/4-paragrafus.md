@@ -40,7 +40,7 @@ b) Egyéni vállalkozó:
 
 6. a nem végrehajtói iroda tagjaként tevékenykedő önálló bírósági végrehajtó.
 
-ba) Kezdő egyéni vállalkozó: Az egyéni vállalkozó tevékenységet kezdőnek minősül a járulékfizetési kötelezettsége első napjával kezdődően az e napot magában foglaló naptári év utolsó napjáig. Nem minősül tevékenységet kezdőnek az az egyéni vállalkozó, aki a vállalkozói tevékenysége megszűnésének napját követően ismételten egyéni vállalkozóként tevékenykedik, feltéve, hogy vállalkozásának megszűnése és új vállalkozásának megkezdése között egy teljes naptári év nem telt el.
+ba)
 
 c) Társas vállalkozás:
 
@@ -78,7 +78,9 @@ d) Társas vállalkozó:
 
 3. az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, a gépjárművezető-képző munkaközösség, az oktatói munkaközösség tagja,
 
-4. az egyéni cég tagja.
+4. az egyéni cég tagja,
+
+5. a betéti társaság, a közkereseti társaság és a korlátolt felelősségű társaság olyan természetes személy tagja, aki a társaság ügyvezetését nem munkaviszony alapján látja el, kivéve, ha az 1. alpont szerint társas vállalkozónak minősül.
 
 e) Kiegészítő tevékenységet folytató:
 
@@ -86,15 +88,15 @@ az az egyéni, illetve társas vállalkozó, aki vállalkozói tevékenységet s
 
 f) Saját jogú nyugdíjas: az a természetes személy, aki
 
-1. a társadalombiztosítási nyugellátásról szóló törvény, illetve nemzetközi egyezmény alkalmazásával a 14. § (3) bekezdés a) pontjában meghatározott saját jogú öregségi, rokkantsági, baleseti rokkantsági nyugdíjban részesül. A saját jogú nyugdíjjal azonos elbírálás alá esik a korengedményes nyugdíj, az előnyugdíj, a bányásznyugdíj, az egyes művészeti tevékenységet folytatók öregségi nyugdíja, a Magyar Alkotóművészeti Közalapítvány által megállapított öregségi nyugdíj, Magyarországon nyilvántartásba vett egyházi, felekezeti nyugdíj, a szolgálati nyugdíj, a Magyar Alkotóművészeti Közalapítvány által megállapított rendszeres rokkantsági segély, a növelt összegű öregségi, munkaképtelenségi járadék és a rehabilitációs járadék,
+1. a társadalombiztosítási nyugellátásról szóló törvény, illetve nemzetközi egyezmény alkalmazásával a 14. § (3) bekezdés a) és c) pontjában meghatározott saját jogú nyugellátásban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
 
-2. a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, illetve az EGT-állam jogszabályai alkalmazásával saját jogú öregségi, rokkantsági, baleseti rokkantsági nyugdíjban részesül,
+2. a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, illetve az EGT-állam jogszabályai alkalmazásával saját jogú öregségi nyugdíjban részesül,
 
 3. az egyéni vagy társas vállalkozó e) pont szerinti jogállását nem érinti, ha az 1–2. alpontokban említett nyugdíj folyósítása szünetel.
 
-g) Segítő családtag: az egyéni vállalkozónak, az egyéni cég és a jogi személyiséggel nem rendelkező gazdasági társaság tagjának közeli hozzátartozója, aki a vállalkozásban személyesen és díjazás ellenében – nem munkaviszony keretében – munkát végez, kivéve a saját jogú nyugdíjast és az özvegyi nyugdíjban részesülő olyan személyt, aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte.
+g)
 
-h) Megbízási jogviszony, munkaviszony: a magyar jog hatálya alá tartozó megbízási jogviszony és munkaviszony, továbbá a külföldi jog hatálya alá tartozó olyan megbízási jogviszony és munkaviszony, amely alapján a munkát a Magyar Köztársaság területén végzik.
+h) Megbízási jogviszony, munkaviszony: a magyar jog hatálya alá tartozó megbízási jogviszony és munkaviszony, továbbá a külföldi jog hatálya alá tartozó olyan megbízási jogviszony és munkaviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
 
 i) Foglalkoztatott:
 
@@ -108,7 +110,7 @@ k) Járulékalapot képező jövedelem:
 
 2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott személyi alapbér, illetőleg ha a munkát nem munkaviszony, hanem munkavégzésre irányuló egyéb jogviszony keretében végzik, a szerződésben meghatározott díj.
 
-l) Járulék: a nyugdíjjárulék, a magán-nyugdíjpénztári tagdíj, az egészségbiztosítási- és munkaerő-piaci járulék, a társadalombiztosítási járulék, a táppénz-hozzájárulás, az egészségügyi szolgáltatási járulék, valamint a korkedvezmény-biztosítási járulék.
+l) Járulék: az egészségbiztosítási és munkaerő-piaci járulék (a természetbeni egészségbiztosítási járulék, a pénzbeli egészségbiztosítási járulék és a munkaerő-piaci járulék), a nyugdíjjárulék, a táppénz-hozzájárulás, az egészségügyi szolgáltatási járulék, valamint a korkedvezmény-biztosítási járulék.
 
 m) A magánnyugdíjpénztár tagja:
 
@@ -138,9 +140,9 @@ r) Igazgatási szerv:
 
 2. a 34. § (1), (5), (8) bekezdésének, a 35. §-ának, 40. §-ának, a 41. §-ának (2) bekezdése és a 42–43. §-ainak alkalmazásánál a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv és a nyugdíjbiztosítási igazgatási szerv,
 
-3. a 34. § (10) és (12) bekezdésének, a 35. §-ának, 40. §-ának, a 41. §-a (2) és (4)–(5) bekezdésének, a 42–43. §-ainak, alkalmazásánál az egészségbiztosítási szerv.
+3. a 34. § (10) és (12) bekezdésének, a 35. §-ának, 40. §-ának, a 41. §-a (2) és (4)–(5) bekezdésének, a 42–43. §-ainak, alkalmazásánál az egészségbiztosítási szerv,
 
-4.
+4. a 40. §, a 41. § (2) és (3) bekezdése és a 42–43/A. § alkalmazásánál a rehabilitációs hatóság.
 
 s) Minimálbér:
 
@@ -152,9 +154,9 @@ t)
 
 u) Belföldi:
 
-1. a Magyar Köztársaság területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkező magyar állampolgár, a bevándorolt és a letelepedett jogállású, valamint a menekültként elismert személy,
+1. Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkező magyar állampolgár, a bevándorolt és a letelepedett jogállású, valamint a menekültként elismert személy,
 
-2. a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, valamint
+2. a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, valamint
 
 3. a hontalan;
 
@@ -166,6 +168,6 @@ x) Kezdő mezőgazdasági őstermelő: az a személy, aki a tárgyévet megelőz
 
 z) Harmadik állam:
 
-az Európai Gazdasági Térség és a Magyar Köztársaság által kötött kétoldalú szociális biztonságról szóló egyezmény hatálya alá nem tartozó állam.
+az Európai Gazdasági Térség és Magyarország által kötött kétoldalú szociális biztonságról szóló egyezmény hatálya alá nem tartozó állam.
 
 zs)

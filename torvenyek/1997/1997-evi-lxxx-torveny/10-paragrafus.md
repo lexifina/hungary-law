@@ -12,7 +12,7 @@ tart.
 
 a) a gazdasági társaság, az egyesülés, a szabadalmi ügyvivői társaság, a szabadalmi ügyvivői iroda tagja esetében a tényleges személyes közreműködési kötelezettség kezdete napjától annak megszűnése napjáig, egyéni cég tagja esetében az egyéni cég tagjává válás napjától az egyéni cégben fennálló tagság megszűnésének napjáig,
 
-b) egyéb esetben a társas vállalkozásnál létesített tagsági jogviszony létrejötte napjától annak megszűnése napjáig tart.
+b) egyéb esetben a társas vállalkozásnál létesített tagsági jogviszony, illetve vezető tisztségviselői jogviszony létrejötte napjától annak megszűnése napjáig tart.
 
 (3) A mezőgazdasági őstermelő biztosítási kötelezettsége
 

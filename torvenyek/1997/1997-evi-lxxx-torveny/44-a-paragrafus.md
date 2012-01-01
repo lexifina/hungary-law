@@ -8,19 +8,21 @@ a) az egyházi, felekezeti nyugdíjban részesülők esetén az egyházi, feleke
 
 b) a bányászati keresetkiegészítésben részesülők esetén a keresetkiegészítést folyósító szerv,
 
-c) a Magyar Alkotóművészeti Közalapítványtól öregségi nyugdíjban, illetve rendszeres rokkantsági segélyben részesülők esetében a közalapítvány,
+c)
 
 d) a személyes gondoskodást nyújtó bentlakásos szociális intézményben és gyermekotthonban elhelyezettek esetén – az a) pontban és a (4) bekezdésben említett személyek kivételével – az intézmény, illetve a gyermekotthon vezetője, nevelőszülőnél elhelyezettek esetén a nevelőszülői hálózatot működtető, külső férőhelyen elhelyezettek esetén a külső férőhelyet működtető,
 
 e) a 16. § (1) bekezdésének i) pontjában említett tanulók és hallgatók esetén a közoktatási információs rendszer, illetve a felsőoktatási információs rendszer működtetője,
 
-f) fogvatartottak esetén a fogvatartást foganatosító szerv
+f) fogvatartottak esetén a fogvatartást foganatosító szerv,
+
+g) a rehabilitációs ellátásban, rokkantsági ellátásban részesülők esetében az ellátást folyósító szerv
 
 a jogosultság kezdetét és megszűnését követő 10 napon belül köteles teljesíteni az egészségbiztosítási szervnek.
 
-(4) A nyugdíj-biztosítási ellátásban (ideértve a saját jogú és a hozzátartozói nyugellátásban részesülőket), rehabilitációs járadékban, korengedményes nyugdíjban, mezőgazdasági járadékban (öregségi, munkaképtelenségi, özvegyi járadékban, növelt összegű öregségi, munkaképtelenségi, özvegyi járadékban), átmeneti járadékban, rendszeres szociális járadékban, bányászati dolgozók egészségkárosodási járadékában, bányászati keresetkiegészítésben, rokkantsági járadékban, baleseti járadékban, polgármesterek közszolgálati járadékában, házastársi pótlékban, házastársi jövedelempótlékban részesülő személyekről, továbbá nemzeti gondozási díjban, pótlékban részesülők esetén, a hadigondozotti pénzellátás esetén a nyugdíjfolyósító szerv legkésőbb az ellátás folyósításának megkezdését, illetve megszüntetését követő napon bejelentést tesz az egészségbiztosítási szervnek. A nyugdíjfolyósító szerv bejelentési kötelezettségének teljesítésére a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv megállapodást köt az egészségbiztosítási szervvel.
+(4) A nyugdíj-biztosítási ellátásban (ideértve a saját jogú és a hozzátartozói nyugellátásban részesülőket), rehabilitációs járadékban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátásban, mezőgazdasági járadékban (öregségi, munkaképtelenségi, özvegyi járadékban, növelt összegű öregségi, munkaképtelenségi, özvegyi járadékban), , bányászati keresetkiegészítésben, rokkantsági járadékban, baleseti járadékban, polgármesterek közszolgálati járadékában, házastársi pótlékban, házastársi jövedelempótlékban részesülő személyekről, továbbá nemzeti gondozási díjban, pótlékban részesülők esetén, a hadigondozotti pénzellátás esetén a nyugdíjfolyósító szerv legkésőbb az ellátás folyósításának megkezdését, illetve megszüntetését követő napon bejelentést tesz az egészségbiztosítási szervnek. A nyugdíjfolyósító szerv bejelentési kötelezettségének teljesítésére a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv megállapodást köt az egészségbiztosítási szervvel.
 
-(5) A 16. § (1) bekezdésének j) pontjában meghatározott személy az egészségügyi szolgáltatásának biztosítására bejelentést tesz az egészségbiztosítási szervnek, ezzel egyidejűleg az orvosszakértői szerv szakvéleményével igazolja, hogy munkaképessége csökkenésének mértéke az 50 százalékot, illetve az egészségkárosodásának mértéke a 40 százalékot eléri.
+(5) A 16. § (1) bekezdésének j) pontjában meghatározott személy az egészségügyi szolgáltatásának biztosítására bejelentést tesz az egészségbiztosítási szervnek, ezzel egyidejűleg az orvosszakértői szerv, a rehabilitációs szakértői szerv vagy a rehabilitációs hatóság szakvéleményével, szakhatósági állásfoglalásával igazolja, hogy munkaképessége csökkenésének mértéke az 50 százalékot, illetve az egészségkárosodásának mértéke a 40 százalékot eléri.
 
 (6) A 16. § (1) bekezdésének k) és s) pontjában említett személy az egészségügyi szolgáltatásának biztosítására bejelentést tesz az egészségbiztosítási szervnek, ezzel egyidejűleg nyilatkozik arról, hogy a havi jövedelme nem éri el a minimálbér 30 százalékát.
 

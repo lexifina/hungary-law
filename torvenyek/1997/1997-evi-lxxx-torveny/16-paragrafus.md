@@ -6,15 +6,15 @@ a) táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban,
 
 b) a 14. § (3) bekezdése alapján saját jogán nyugdíjban, hozzátartozói nyugellátásban, rehabilitációs járadékban,
 
-c) mezőgazdasági járadékban (öregségi, munkaképtelenségi, özvegyi járadékban, növelt összegű öregségi, munkaképtelenségi, özvegyi járadékban), átmeneti járadékban, rendszeres szociális járadékban, egészségkárosodási járadékban, fogyatékossági támogatásban, rokkantsági járadékban, házastársi pótlékban, házastársi jövedelempótlékban,
+c) mezőgazdasági járadékban (öregségi, munkaképtelenségi, özvegyi járadékban, növelt összegű öregségi, munkaképtelenségi, özvegyi járadékban), megváltozott munkaképességű személyek ellátásában, bányászok egészségkárosodási járadékában, fogyatékossági támogatásban, rokkantsági járadékban, házastársi pótlékban, házastársi jövedelempótlékban,
 
 d) nemzeti gondozási díjban (pótlékban), hadigondozotti ellátásban,
 
-e) bányászati keresetkiegészítésben,
+e) bányászati keresetkiegészítésben vagy átmeneti bányászjáradékban részesül,
 
 f) gyermekgondozási segélyben,
 
-g) Magyarországon nyilvántartásba vett egyháztól, felekezettől nyugdíjban, a Magyar Alkotóművészeti Közalapítványtól öregségi nyugdíjban vagy rendszeres rokkantsági segélyben,
+g) Magyarországon nyilvántartásba vett egyháztól, felekezettől nyugdíjban vagy a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi vagy rokkantsági nyugdíjsegélyben (nyugdíjban) részesül,
 
 h) az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátásban, időskorúak járadékában, ápolási díjban, gyermeknevelési támogatásban
 
@@ -22,11 +22,11 @@ részesül,
 
 i) a közoktatásról szóló törvény hatálya alá tartozó alapfokú, középfokú nevelési-oktatási vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll,
 
-j) megváltozott munkaképességű, illetve egészségkárosodást szenvedett és munkaképesség-változásának mértéke az 50 százalékot, illetve egészségkárosodásának mértéke a 40 százalékot eléri, és az illetékes hatóság erre vonatkozó igazolásával rendelkezik,
+j) megváltozott munkaképességű, illetve egészségkárosodást szenvedett és munkaképesség-változásának mértéke az 50 százalékot, illetve egészségkárosodásának mértéke a 40 százalékot eléri, vagy egészségi állapota 50 százalékos vagy ennél kisebb mértékű, és az illetékes hatóság erre vonatkozó igazolásával rendelkezik,
 
 k) a reá irányadó nyugdíjkorhatárt betöltötte és jövedelme nem éri el a minimálbér 30 százalékát,
 
-l) a Magyar Köztársaság területén lakóhellyel, illetve magyar állampolgár esetén a lakóhellyel vagy tartózkodási hellyel rendelkező kiskorú személy,
+l) kiskorú, magyar állampolgársággal és Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkezik, továbbá az a nem magyar állampolgárságú kiskorú, aki Magyarország területén lakóhellyel rendelkezik,
 
 m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá az illetékes magyar hatóság által ideiglenes hatállyal elhelyezett, otthont nyújtó ellátás keretében átmeneti és tartós nevelésbe vett külföldi kiskorú személy,
 
@@ -40,7 +40,11 @@ r) a 39. § (2) bekezdése szerint egészségügyi szolgáltatási járulék fiz
 
 s) nevelőszülői tevékenységet folytat, és az e tevékenységéből származó tárgyhavi járulékalapot képező jövedelme nem éri el a minimálbér 30 százalékát, naptári napokra annak harmincad részét.
 
-t) hajléktalan.
+t) hajléktalan,
+
+u) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény alapján korhatár előtti ellátásban vagy szolgálati járandóságban részesül,
+
+v) az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott balettművészeti életjáradékban részesül.
 
 (2) A 13. § hatálya alá tartozó külföldi személy az ugyanott hivatkozott külön jogszabály, illetőleg nemzetközi egyezmény szerint jogosult egészségügyi ellátásra.
 

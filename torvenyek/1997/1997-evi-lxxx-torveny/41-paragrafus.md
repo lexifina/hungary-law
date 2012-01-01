@@ -2,9 +2,9 @@ Tbj. 41. § (1) A 40. §-ban említett nyilvántartások tartalmazzák a fogla
 
 (2) Az állami adóhatóság a jogosulatlan társadalombiztosítási ellátások igénybevételének megakadályozása, az ellátások összegének megállapítása érdekében az e törvényben és az Art.-ben meghatározott adatokat a biztosítottak adóazonosító jelének feltüntetésével szolgáltatja. A nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv (a továbbiakban: társadalombiztosítási igazgatási szervek) az átadott nyilvántartás adatait a saját nyilvántartásának adataival az 1996. évi XX. törvény szabályai szerinti kapcsolati kód alkalmazásával veti egybe. A társadalombiztosítási igazgatási szervek a jogosulatlan ellátások igénybevevőiről adóazonosító jel feltüntetésével tájékoztatják az állami adóhatóságot.
 
-(3) A társadalombiztosítási ellátások és a magán-nyugdíjpénztári szolgáltatások megállapítása és jogszerű igénybevételének ellenőrzése érdekében az állami adóhatóság az Art. 52. § (7) bekezdésében foglaltak szerint adatot szolgáltat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv és az egészségbiztosítási szerv, illetőleg a magánnyugdíjpénztár részére.
+(3) A társadalombiztosítási ellátások és a magán-nyugdíjpénztári szolgáltatások megállapítása és jogszerű igénybevételének ellenőrzése érdekében az állami adóhatóság az Art. 52. § (7) bekezdésében foglaltak szerint adatot szolgáltat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a rehabilitációs hatóság és az egészségbiztosítási szerv, illetőleg a magánnyugdíjpénztár részére.
 
-(4) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, a PSZÁF, valamint a magánnyugdíjpénztárak az adatok kezelésével más szervezetet is megbízhatnak, amennyiben az adatvédelem azonos szintjét a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvénynek megfelelően biztosítják.
+(4)
 
 (5)
 

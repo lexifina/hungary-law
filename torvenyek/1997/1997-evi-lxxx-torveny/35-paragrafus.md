@@ -2,7 +2,7 @@ Tbj. 35. § (1) A megállapodásnak tartalmaznia kell a szerződő felek megne
 
 (2) Az egészségügyi szolgáltatásra megállapodás csak a megállapodás megkötését követő hónap első napjától kezdődő hatállyal, az első hónapra esedékes járulék egyidejű befizetése mellett köthető. Ezt követően a járulékot havonta előre, a tárgyhónapot közvetlenül megelőző hónap 12. napjáig kell megfizetni. A befizetési határidő elmulasztása esetén a megállapodás megszűnik a járulék esedékességének napját magában foglaló naptári hónap utolsó napján, kivéve, ha addig a tartozást megfizetik. Az egészségügyi szolgáltatásra való jogosultság a megállapodás megszűnéséig áll fenn.
 
-(3) A 34. § (1) bekezdése és a (8) bekezdés b) pontja szerinti megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre. A tárgyhónap első napját megelőző időre megállapodás nem köthető. Ezt követően a nyugdíjbiztosítási járulékot, nyugdíjjárulékot a tárgyhónapot követő hónap 12. napjáig kell megfizetni. A befizetés elmulasztása a megállapodás megszűnését vonja maga után.
+(3) A 34. § (1) bekezdése és a (8) bekezdés b) pontja szerinti megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre. A tárgyhónap első napját megelőző időre megállapodás nem köthető. Ezt követően a nyugdíjjárulékot a tárgyhónapot követő hónap 12. napjáig kell megfizetni. A befizetés elmulasztása a megállapodás megszűnését vonja maga után.
 
 (4) A megállapodás alapján megszerzett jogosultságra – ha e törvény másként nem rendelkezik – a Tny.tv., illetve az Eb.tv. rendelkezéseit kell alkalmazni.
 

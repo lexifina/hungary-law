@@ -18,7 +18,7 @@ e) a kiegészítő tevékenységet folytatónak nem minősülő egyéni vállalk
 
 f) a kiegészítő tevékenységet folytatónak nem minősülő társas vállalkozó,
 
-g) a díjazás ellenében munkavégzésre irányuló egyéb jogviszony keretében (bedolgozói, megbízási szerződés alapján, egyéni vállalkozónak nem minősülő vállalkozási jogviszonyban, segítő családtagként) személyesen munkát végző személy – a külön törvényben meghatározott közérdekű önkéntes tevékenységet végző személy kivételével –, amennyiben az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, illetőleg naptári napokra annak harmincad részét,
+g) a díjazás ellenében munkavégzésre irányuló egyéb jogviszony keretében (bedolgozói, megbízási szerződés alapján, egyéni vállalkozónak nem minősülő vállalkozási jogviszonyban) személyesen munkát végző személy – a külön törvényben meghatározott közérdekű önkéntes tevékenységet végző személy kivételével –, amennyiben az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, illetőleg naptári napokra annak harmincad részét,
 
 h) az egyházi szolgálatot teljesítő egyházi személy, szerzetesrend tagja (a továbbiakban együtt: egyházi személy), kivéve a saját jogú nyugdíjast,
 
@@ -30,6 +30,6 @@ i) a mezőgazdasági őstermelő, ha a reá irányadó nyugdíjkorhatárig hátr
 
 3. a saját jogú nyugdíjast és az özvegyi nyugdíjban részesülő személyt, aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte.
 
-(2) Az (1) bekezdés g) pontjában foglaltakon túl, munkavégzésre irányuló egyéb jogviszony keretében munkát végző személynek kell tekinteni azt is, aki: alapítvány, egyesület, egyesületek szövetsége, társasház közösség, egyesület, köztestület, kamara, gazdálkodó szervezet választott tisztségviselője; szövetkezet vezető tisztségviselője, továbbá a Munkavállalói Résztulajdonosi Program szervezeteinek, az önkéntes kölcsönös biztosító pénztárak, a magánnyugdíjpénztárak választott tisztségviselője, a helyi (települési) önkormányzat választott képviselője (tisztségviselője), társadalmi megbízatású polgármester, amennyiben járulékalapot képező jövedelemnek minősülő tiszteletdíja (díjazása) eléri az (1) bekezdés g) pontjában említett összeget.
+(2) Az (1) bekezdés g) pontjában foglaltakon túl, munkavégzésre irányuló egyéb jogviszony keretében munkát végző személynek kell tekinteni azt is, aki: alapítvány, egyesület, egyesületek szövetsége, társasház közösség, egyesület, köztestület, kamara, gazdálkodó szervezet választott tisztségviselője, gazdasági társaság társas vállalkozónak nem minősülő vezető tisztségviselője, szövetkezet vezető tisztségviselője, továbbá a Munkavállalói Résztulajdonosi Program szervezeteinek, az önkéntes kölcsönös biztosító pénztárak, a magánnyugdíjpénztárak választott tisztségviselője, a helyi (települési) önkormányzat választott képviselője (tisztségviselője), társadalmi megbízatású polgármester, amennyiben járulékalapot képező jövedelemnek minősülő tiszteletdíja (díjazása) eléri az (1) bekezdés g) pontjában említett összeget.
 
-(3) Biztosított az a természetes személy is, aki a munkát külföldi foglalkoztató számára a Magyar Köztársaság területén kívül végzi, és a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet alapján e törvény hatálya alá tartozik.
+(3) Biztosított az a természetes személy is, aki a munkát külföldi foglalkoztató számára Magyarország területén kívül végzi, és a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet alapján e törvény hatálya alá tartozik.

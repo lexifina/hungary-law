@@ -20,7 +20,13 @@ ca) baleseti egészségügyi szolgáltatás,
 
 cb) baleseti táppénz,
 
-cc) baleseti járadék.
+cc) baleseti járadék;
+
+d) megváltozott munkaképességű személyek ellátásai:
+
+da) rokkantsági ellátás,
+
+db) rehabilitációs ellátás;
 
 (3) A nyugdíjbiztosítási ellátások:
 
@@ -28,9 +34,7 @@ a) társadalombiztosítási saját jogú nyugellátás:
 
 aa) öregségi nyugdíj,
 
-ab) rokkantsági nyugdíj,
-
-ac) baleseti rokkantsági nyugdíj;
+ab)–ac)
 
 b) hozzátartozói nyugellátás:
 

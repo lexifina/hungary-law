@@ -1,6 +1,6 @@
 ## Különös szabályok a járulékkötelezettségek teljesítésére vonatkozóan
 
-Tbj. 56/A. § (1) A magyar jogszabályok szerint bejegyzésre nem kötelezett külföldi foglalkoztató (a továbbiakban: külföldi vállalkozás) javára biztosítási kötelezettséggel járó jogviszony keretében munkát végző foglalkoztatott részére kifizetett járulékalapot képző jövedelem után a külföldi vállalkozás a 19. § (1) bekezdésében meghatározott mértékű társadalombiztosítási járulékot fizet, és a jövedelemből a 19. § (2)–(3) bekezdéseiben meghatározott járulékokat, illetve magán-nyugdíjpénztári tagság esetén a 33. § szerinti magán-nyugdíjpénztári tagdíjat von le.
+Tbj. 56/A. § (1) A magyar jogszabályok szerint bejegyzésre nem kötelezett külföldi foglalkoztató (a továbbiakban: külföldi vállalkozás) javára biztosítási kötelezettséggel járó jogviszony keretében munkát végző foglalkoztatott részére kifizetett járulékalapot képező jövedelem alapulvételével a külföldi vállalkozás a 19. § (2)–(3) bekezdéseiben meghatározott nyugdíjjárulékot, valamint egészségbiztosítási- és munkaerő-piaci járulékot állapít meg és von le.
 
 (2) A külföldi vállalkozás a biztosítási kötelezettséggel járó jogviszonnyal összefüggő bejelentési, járulékfizetési és bevallási kötelezettséget az Art. 8. és 9. §-ában meghatározott képviselő útján, ennek hiányában közvetlenül saját maga teljesíti. Ha a külföldi vállalkozás a járulékkötelezettséget közvetlenül teljesíti, a biztosítás kezdetét megelőzően köteles bejelentkezni az állami adóhatóságnál, és kérelmezni, hogy az állami adóhatóság foglalkoztatói minőségében vegye nyilvántartásba.
 
@@ -24,20 +24,10 @@ b) a foglalkoztatott természetes személyazonosító adatait, nemét, állampol
 
 c) a foglalkoztatott taj-számát, adóazonosító jelét,
 
-d) a járulékfizetési felső határig terjedő és az afölötti járulékalapra, a járulékok összegére, a biztosítási (foglalkoztatási) idő „tól-ig” tartamára és a magán-nyugdíjpénztári tag biztosított magán-nyugdíjpénztárára vonatkozó adatot,
+d) a járulékfizetési felső határig terjedő és az afölötti járulékalapra, a járulékok összegére, a biztosítási (foglalkoztatási) idő „tól-ig” tartamára vonatkozó adatot,
 
 e) annak az időszaknak a megjelölését, amely alatt a biztosított természetes személy járulékalapot képező jövedelemmel nem rendelkezett, és
 
 f) a külföldi vállalkozásnak az illetősége szerinti állam hatósága által megállapított adóazonosító számát, ha a járulékkötelezettséget a (3) bekezdés szerint a foglalkoztatott teljesíti.
 
-(7) Az (1) bekezdés szerinti járulékokat a (2)–(3) bekezdése szerinti kötelezett egy beszedési számlára fizeti meg. A megfizetett járulékból az állami adóhatóság
-
-a) 76,4 százalékot a Nyugdíjbiztosítási Alapnak,
-
-b) 18 százalékot az Egészségbiztosítási Alapnak,
-
-c) 5,6 százalékot a Munkaerőpiaci Alapnak,
-
-d) 0 százalékot a biztosított magánnyugdíjpénztárának
-
-utal át.
+(7) Az állami adóhatóság a (2)–(3) bekezdés szerinti kötelezett által befizetett járulékokból 54,05 százalékot a Nyugdíjbiztosítási Alapnak, 37,84 százalékot az Egészségbiztosítási Alapnak, 8,11 százalékot a Nemzeti Foglalkoztatási Alapnak utal át.

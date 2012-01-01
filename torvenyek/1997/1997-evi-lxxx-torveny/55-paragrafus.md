@@ -4,4 +4,4 @@ a) valótlan adatok közlésével olyan személyt jelentett be, akire a biztosí
 
 b) a járulékokat jogellenesen a tényleges járulékalapot képező jövedelemnél magasabb összeg után állapította meg és vallotta be,
 
-a jogsértés időtartamára – a bejelentés vagy bevallás megalapozatlanságától függetlenül – köteles a társadalombiztosítási járulékot, a b) pont szerinti esetben a magasabb összeg utáni társadalombiztosítási járulékot megfizetni.
+a jogsértés időtartamára – a bejelentés vagy bevallás megalapozatlanságától függetlenül – köteles a járulékot, a b) pont szerinti esetben a magasabb összeg utáni járulékot megfizetni.

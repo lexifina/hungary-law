@@ -2,7 +2,7 @@ Tbj. 43. § (1) A 42. § (1) bekezdés alapján nyilvántartásba vett adatokb
 
 a) állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében az a) pont szerinti adatok, a d) pontból a munkahelyre vonatkozó és az f) pont szerinti jövedelemre vonatkozó adatok,
 
-b) az állami adóhatóság, az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adó-végrehajtási eljárás lefolytatása érdekében az a) pont szerinti adatok, valamint a d) pontból a munkahelyre és a foglalkoztatási jogviszony időtartamára vonatkozó adatok, támogatás megállapítása és ellenőrzése érdekében az e) pontból a rokkantság fokára, az egészségkárosodás mértékére vonatkozó,
+b) az állami adóhatóság, az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adó-végrehajtási eljárás lefolytatása érdekében az a) pont szerinti adatok, valamint a d) pontból a munkahelyre és a foglalkoztatási jogviszony időtartamára vonatkozó adatok, támogatás megállapítása és ellenőrzése érdekében az e) pontból az egészségkárosodás mértékére vonatkozó,
 
 c) a munkaügyi és szociális igazgatás szervei az ellátás megállapítása, folyósítása, munkaügyi ellenőrzés céljából az a)–d) és f)–g) pontjai,
 
@@ -15,6 +15,8 @@ f) a menekültügyi hatóság az ellátások és támogatások megállapítása,
 g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) és g) pontjai
 
 h) a köztartozás behajtására törvény által felhatalmazott szervek e tevékenységük ellátása céljából az a)–d) és f) pontban foglaltak
+
+i) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben a g) pont
 
 szerinti adatok igénylésére jogosultak.
 

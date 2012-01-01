@@ -12,7 +12,7 @@ c) lakóhely (tartózkodási hely),
 
 d) foglalkozás, munkahely, munkakör, tevékenység,
 
-e) a rokkantság fokára, az egészségkárosodás mértékére, a rehabilitálhatóságra, az egészségi állapotra, továbbá az élettársra, az eltartott hozzátartozói minőségre vonatkozó olyan adatok, amelyek a társadalombiztosítási ellátás megállapításához szükségesek,
+e) az egészségkárosodás mértékére, a rehabilitálhatóságra, az egészségi állapotra, továbbá az élettársra, az eltartott hozzátartozói minőségre vonatkozó olyan adatok, amelyek a társadalombiztosítási ellátás megállapításához szükségesek,
 
 f) jövedelemre vonatkozó adatok,
 
