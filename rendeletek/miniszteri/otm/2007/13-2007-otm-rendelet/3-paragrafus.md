@@ -38,7 +38,7 @@ dc) helyszínrajzot (az engedélyező hatóság hitelesítésével),
 
 dd) hossz-szelvény(eke)t, fontosabb műtárgy(ak) dokumentumait,
 
-e) a területileg illetékes környezetvédelmi és vízügyi igazgatóság
+e)[^2] a vízügyi igazgatóság
 
 ea) nyilatkozatát a tervezett beruházások szükségességéről,
 
@@ -53,3 +53,5 @@ f) beruházással kapcsolatos vízjogi létesítési engedélyt.
 (5) Amennyiben az önkormányzat a (4) bekezdés szerinti felhívásnak határidőn belül nem tesz eleget vagy nem megfelelően teljesíti azt, az Igazgatóság a támogatási igényt nem továbbítja az ÖTM-nek, és erről értesíti a pályázót.
 
 (6) Az Igazgatóság a pályázatokat – a (4) bekezdés szerinti eset kivételével – elektronikus úton és papír alapon egy eredeti és egy másolati példányban legkésőbb 2007. június 4-éig továbbítja az ÖTM részére.
+
+[^2]: A 3. § (2) bekezdés e) pontja az 57/2011. (XII. 22.) BM rendelet 1. §-ával megállapított szöveg.
