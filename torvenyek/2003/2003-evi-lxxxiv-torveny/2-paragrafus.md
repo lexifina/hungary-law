@@ -1,6 +1,6 @@
 ## A törvény hatálya
 
-2. § (1) E törvény hatálya a Magyar Köztársaság területén
+2. § (1) E törvény hatálya a Magyarország területén
 
 a) egészségügyi szolgáltatást nyújtó természetes és jogi személyekre, továbbá jogi személyiség nélküli szervezetekre,
 
