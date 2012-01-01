@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2011-06-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-122-00-00.5 |
 | 2011-06-25 | 2011. évi LXIX. törvény | 2010-122-00-00.6 |
 | 2011-11-04 | 2011. évi CXLI. törvény | 2010-122-00-00.7 |
+| 2012-01-01 | 2011. évi CXLI. törvény | 2010-122-00-00.8 |

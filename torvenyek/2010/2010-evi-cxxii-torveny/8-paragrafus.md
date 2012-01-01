@@ -1,4 +1,4 @@
-8. § (1) A bűnügyi főigazgatóságot, az informatikai feladatokat ellátó intézeteket, a humánerőforrás-fejlesztési feladatokat ellátó intézetet az elnök által – az érintett elnökhelyettesek javaslatára – kinevezett főigazgató vezeti.
+8. § (1) A bűnügyi főigazgatóságot, az informatikai feladatokat ellátó intézetet, a humánerőforrás-fejlesztési feladatokat ellátó intézetet az elnök által – az érintett elnökhelyettesek javaslatára – kinevezett főigazgató vezeti.
 
 (2) A középfokú adóztatási szerveket és a középfokú vámszerveket az elnök által kinevezett főigazgató vezeti.
 

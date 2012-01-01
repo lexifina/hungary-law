@@ -10,4 +10,4 @@
 
 5. mintavásárlás: az informátor, a bizalmi személy, a felhatalmazott szervekkel titkosan együttműködő más személy vagy a fedett nyomozó által végrehajtott olyan leplezett ügylet, amelynek célja, hogy a bűncselekmény felderítése érdekében a bűncselekménnyel összefüggésbe hozható anyagok, tárgyak, eszközök vagy ezek mintái, alkatrészei további vizsgálat céljából a felhatalmazott szervek birtokába kerüljenek, illetve a bűncselekmény történeti tényállása megismerhető legyen;
 
-6. súlyos bűncselekmény: az a bűntett, amelyet a törvény ötévi, vagy ennél súlyosabb szabadságvesztéssel fenyeget.
+6. súlyos bűncselekmény: az a NAV nyomozóhatósági hatáskörébe tartozó bűntett, amelyet a törvény ötévi, vagy ennél súlyosabb szabadságvesztéssel fenyeget.

@@ -1,6 +1,6 @@
-## Vegyi eszközök, elektromos sokkoló eszköz, illetve más eszköz alkalmazása
+## Vegyi eszközök, elektromos sokkoló eszköz, rendőrbot, illetve más eszköz alkalmazása
 
-41. § (1) A pénzügyőr a szolgálatban kényszerítő eszközként rendszeresített vegyi vagy elektromos sokkoló eszközt, ezek hiányában más e célra alkalmas eszközt alkalmazhat:
+41. § (1) A pénzügyőr a szolgálatban kényszerítő eszközként rendszeresített vegyi vagy elektromos sokkoló eszközt, rendőrbotot, ezek hiányában más e célra alkalmas eszközt alkalmazhat:
 
 a) a saját testi épségét, illetve az őrzésére bízott vagyon biztonságát közvetlenül veszélyeztető támadás elhárítására,
 

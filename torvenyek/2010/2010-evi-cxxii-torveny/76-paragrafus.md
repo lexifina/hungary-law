@@ -12,13 +12,13 @@ e) a pénzügyi nyomozók,
 
 f) a bűnügyi főigazgatóság és a bűnügyi főigazgatóság középfokú szerveinek bűnüldözési feladatokat irányító vezetői által kijelölt, e szervek állományába tartozó más személy,
 
-g) a NAV vámszerveinek az Európai Unió külső vámhatárán működő, nyomozóhatósági hatáskörrel felruházott kirendeltségei állományába tartozó pénzügyőrök e feladatkörükben eljárva,
+g)
 
 h) a NAV bűnüldözési feladatokat ellátó szerveinek működését ellenőrző szerv tagja,
 
 i) a kijelölt miniszter által irányított minisztériumnak a miniszter által kijelölt kormánytisztviselője, szakmai vezetője,
 
-j) az adatvédelmi biztos és az általa felhatalmazott munkatársa, valamint
+j) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke, elnökhelyettese és köztisztviselője, valamint
 
 k) a törvény által feljogosított más szerv képviselője
 

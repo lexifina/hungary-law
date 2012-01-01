@@ -2,7 +2,7 @@
 
 38. § (1) A pénzügyőr e törvényben meghatározott jogszerű intézkedése elleni tettleges ellenszegülés megtörésére törvényben meghatározott intézkedést tehet, és kényszerítő eszközt alkalmazhat.
 
-(2) A pénzügyőrt intézkedése során az egyenruhája és az azonosító jelvénye vagy a szolgálati igazolványa igazolja. Ha a pénzügyőr nem visel egyenruhát, az intézkedés megkezdése előtt köteles pénzügyőri mivoltát szóban közölni, és – ha az intézkedés eredményét nem veszélyezteti – magát a szolgálati igazolvánnyal igazolni.
+(2)
 
 (3) A kényszerítő eszközök közül azt kell alkalmazni, amely az eredmény biztosítása mellett az érintett személyre a legkisebb személyi korlátozással, sérüléssel vagy károkozással jár.
 

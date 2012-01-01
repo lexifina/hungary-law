@@ -1,3 +1,3 @@
-18. § A NAV kormánytisztviselői tekintetében a Ktv. 34. § (1)–(6) bekezdései és a 47. § (4) bekezdése nem alkalmazhatók. A kormánytisztviselő tekintetében a NAV által bevezetett, a kijelölt miniszter által jóváhagyott teljesítményértékelő rendszert kell alkalmazni.
+## Eltérés a Ktv.-től és a Ktjv.-től
 
-Vezetői munkakörök, beosztások, besorolás, díjazás és egyéb juttatások
+18. § A NAV kormánytisztviselői tekintetében a Ktv. 9. § (1) bekezdése, 10. §-a, 10/B. §-a, 21. §-a, 22. §-a, 24. §-a, 30/A. §-a, 34. § (1)–(6) bekezdései, 41. § (1)–(5) bekezdése, 43. § (3)–(5) bekezdése, 45. § (1) bekezdése, 47. § (4) bekezdése, 48. §-a, és a 2. sz. melléklete, valamint a Ktjv. a 9. § (4) bekezdés második mondata, 14. §-a, 24. § (1) bekezdésében az „59. §-a” szövegrész és az 58/B. §-a nem alkalmazható.

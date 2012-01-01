@@ -18,9 +18,9 @@ b) végzi az adó-, vám- és pénzforgalmi adatoknak, az ellenőrzések megáll
 
 c) feldolgozza az államháztartás működéséhez szükséges és rendelkezésre álló adatokat és az adópolitikáért felelős miniszternek átadja,
 
-d) Központi Hivatala, illetve az informatikai feladatokat ellátó intézetei összegyűjtik és tárolják az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással, valamint a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó hatósági felügyeleti tevékenységgel kapcsolatos igazgatási eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
+d) Központi Hivatala, illetve az informatikai feladatokat ellátó intézete összegyűjti és tárolja az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással, valamint a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó hatósági felügyeleti tevékenységgel kapcsolatos igazgatási eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
 
-e) előterjeszti a hatáskörébe tartozó kötelező befizetésekkel vagy költségvetési támogatással kapcsolatban elkövetett bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igényt,
+e) adóztatási szerve, illetve vámszerve előterjeszti a hatáskörébe tartozó kötelező befizetésekkel vagy költségvetési támogatással kapcsolatban elkövetett bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igényt,
 
 f) lefolytatja az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti központosított ellenőrzést, valamint a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény (a továbbiakban: Vtv.) szerinti központosított utólagos ellenőrzést,
 
@@ -36,7 +36,7 @@ j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és a
 
 a) végzi a közösségi és a külön jogszabályok alapján a feladatkörébe tartozó ügyekben az informatikai rendszerek működtetéséből, alkalmazásából adódó tagállami feladatokat,
 
-b) végzi a közösségi és nemzeti jogszabályokban meghatározott nemzetközi együttműködésből adódó feladatokat, – ideértve a hatóságok közötti kölcsönös adminisztratív segítségnyújtást is – valamint részt vesz további két-, illetve többoldalú megállapodások előkészítésében, jogszabályi felhatalmazás alapján ellátja a Magyar Köztársaság képviseletét a NAV szakterületét érintő ügyekkel foglalkozó uniós és nemzetközi szervezetekben,
+b) végzi a közösségi és nemzeti jogszabályokban meghatározott nemzetközi együttműködésből adódó feladatokat, – ideértve a hatóságok közötti kölcsönös adminisztratív segítségnyújtást is – valamint részt vesz további két-, illetve többoldalú megállapodások előkészítésében, jogszabályi felhatalmazás alapján ellátja Magyarország képviseletét a NAV szakterületét érintő ügyekkel foglalkozó uniós és nemzetközi szervezetekben,
 
 c) végzi a hatáskörébe tartozó uniós, illetve más nemzetközi forrásból finanszírozott projektek szervezését, irányítását, lebonyolítását,
 
@@ -46,7 +46,7 @@ d) végzi az Európai Csalásellenes Hivatallal (OLAF) történő együttműköd
 
 a) eljáró adóztatási szervei – feladataik ellátása során – együttműködnek az illetékességi területükön lévő helyi, illetve helyi kisebbségi önkormányzatokkal,
 
-b) a helyi, illetve helyi kisebbségi önkormányzat költségvetését érintő, szükséges és rendelkezésre álló bevételi adatokról az illetékes adóztatási szerve útján évente tájékoztatást ad az önkormányzat részére; az adatszolgáltatás tartalmát a helyi önkormányzatokért felelős miniszter bevonásával az adópolitikáért felelős miniszter határozza meg,
+b) a helyi, illetve helyi nemzetiségi önkormányzat költségvetését érintő, szükséges és rendelkezésre álló bevételi adatokról az illetékes adóztatási szerve útján évente tájékoztatást ad az önkormányzat részére; az adatszolgáltatás tartalmát a helyi önkormányzatokért felelős miniszter bevonásával az adópolitikáért felelős miniszter határozza meg,
 
 c) ellátja az adók módjára behajtandó köztartozás végrehajtásával kapcsolatos, illetve az egyéb kötelező befizetésekkel kapcsolatos, az állami adó- és vámhatóság hatáskörébe utalt feladatokat,
 
@@ -96,7 +96,7 @@ c) végzi meghatározott körben anyagi javak, értékek őrzését, kísérés�
 
 d) végzi az elfogott, előállított, őrizetbe vett, valamint fogva tartott személyek őrzését, kísérését,
 
-e) jogszabályban meghatározott ellenőrzési kötelezettségeinek és jogosultságainak végrehajtása egyik formájaként mozgó egységekkel végzi a Magyar Köztársaság területén – az EU külső határán működő határátkelőhelyek kivételével – a mélységi ellenőrzési tevékenységet,
+e) jogszabályban meghatározott ellenőrzési kötelezettségeinek és jogosultságainak végrehajtása egyik formájaként mozgó egységekkel végzi Magyarország területén – az EU külső határán működő határátkelőhelyek kivételével – a mélységi ellenőrzési tevékenységet,
 
 f) végzi a közúti határátkelőhelyek üzemeltetését, a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását, az Európai Unió valamely tagállamával közös határszakaszon lévő, a Rendőrségnek üzemeltetésre átadott közúti határátkelőhelyek kivételével,
 

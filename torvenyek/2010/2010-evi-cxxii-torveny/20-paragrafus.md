@@ -1,6 +1,6 @@
 20. § (1) A pályakezdő kormánytisztviselő és pénzügyőr gyakornoki besorolást kap.
 
-(2) A szakirányú felsőfokú iskolai végzettségű kormánytisztviselő és a beosztásának betöltéséhez szükséges szakirányú felsőfokú iskolai végzettséggel rendelkező pénzügyőr
+(2) A munkakör betöltéséhez szükséges szakirányú felsőfokú iskolai végzettségű kormánytisztviselő és pénzügyőr
 
 a) egy év jogviszonyban töltött idő után fogalmazó,
 
@@ -24,6 +24,12 @@ c) harmincegy év jogviszonyban töltött idő után főmunkatárs,
 
 besorolást kap.
 
-(4) A kormánytisztviselő – a jogviszony időtartamától függetlenül – magasabb besorolási fokozatba, fizetési fokozatba sorolható, amennyiben kiválóan alkalmas minősítést kap, és kimagasló munkát végez.
+(4) A kormánytisztviselő és a pénzügyőr – a jogviszony időtartamától függetlenül – magasabb besorolási fokozatba, fizetési fokozatba sorolható, amennyiben kiválóan alkalmas minősítést kap, és kimagasló munkát végez.
 
-(5) A pénzügyőr a Hszt. szerinti előmenetel biztosítása érdekében – a jogviszonya időtartamától függetlenül – magasabb besorolási, illetve fizetési fokozatba sorolható.
+(5) Azt a kormánytisztviselőt, illetve pénzügyőrt, aki állam- és jogtudományi doktori, igazgatásszervezői, okleveles közgazdász képesítést, illetve a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán oklevelet szerzett, a fogalmazó besorolási fokozat 2-es fizetési fokozatába kell sorolni, akkor is, ha a kormánytisztviselői jogviszonyban, illetve a hivatásos szolgálati jogviszonyban töltött ideje az e besorolási fokozathoz előírt időtartamot nem éri el.
+
+(6) Az (1) bekezdéstől eltérően azt a pályakezdő kormánytisztviselőt, illetve pénzügyőrt, aki bizonyítványát, oklevelét kiváló vagy annak megfelelő minősítéssel szerezte meg, a fogalmazó besorolási fokozat 2-es fizetési fokozatába, illetve előadó besorolási fokozat 2-es fizetési fokozatába kell sorolni.
+
+(7) Az (5)–(6) bekezdésben meghatározott besorolás esetén a kormánytisztviselő, illetve pénzügyőr mindaddig nem léphet magasabb besorolási fokozatba, ameddig a kormánytisztviselői jogviszonyban, hivatásos szolgálati jogviszonyban töltött ideje, illetve munkáltatói intézkedés alapján arra jogosultságot nem szerez.
+
+(8) Az alapfokú, illetve a középfokú szaktanfolyamot kiváló eredménnyel elvégzett pénzügyőr – állománycsoportján belül – eggyel magasabb rendfokozatba előléptethető.

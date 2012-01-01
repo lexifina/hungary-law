@@ -9,3 +9,5 @@
 (5) A NAV bűnügyi főigazgatóságánál – a középfokú és alsó fokú szervek kivételével – a főosztályvezető vezetői pótléka az alapilletmény, pénzügyőr esetén a beosztási illetmény 50%-a.
 
 (6) A NAV bűnügyi főigazgatóságánál – a középfokú és alsó fokú szervek kivételével – a főosztályvezető-helyettes vezetői pótléka az alapilletmény, pénzügyőr esetén a beosztási illetmény 35%-a.
+
+(7) A NAV Kormány által rendeletben megjelölt országos illetékességű középfokú és alsó fokú adóztatási szerveinél a vezetői pótlék mértéke a 6. számú mellékletnek a központi szervekre vonatkozó irányadó mértékével azonos.

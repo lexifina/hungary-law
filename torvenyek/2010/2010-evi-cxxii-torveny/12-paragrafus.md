@@ -8,4 +8,4 @@
 
 (4) A bűnügyi főigazgatóság alsó és középfokú szerveinek felettes szerve a bűnügyi főigazgatóság, illetve a bűnügyi főigazgatóság felettes szerve az elnök.
 
-(5) Az informatikai feladatokat ellátó intézetek és a humánerőforrás-fejlesztési feladatokat ellátó intézet a Központi Hivatal irányítása alatt állnak.
+(5) Az informatikai feladatokat ellátó intézet és a humánerőforrás-fejlesztési feladatokat ellátó intézet a Központi Hivatal irányítása alatt áll.
