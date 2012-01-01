@@ -1,0 +1,7 @@
+Az 1. § tekintetében a Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény 5. mellékletének 24. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § p) pontjában meghatározott feladatkörömben eljárva,
+
+a 2. § tekintetében a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 5. mellékletének 27. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § p) pontjában meghatározott feladatkörömben eljárva,
+
+a 3. § tekintetében a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 5. számú melléklet 20. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § p) pontjában meghatározott feladatkörömben eljárva
+
+– az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § m) pontjában meghatározott feladatkörében eljáró vidékfejlesztési miniszter és az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszter véleményének kikérésével – a következőket rendelem el:
