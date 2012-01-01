@@ -4,7 +4,7 @@
 
 ## A törvény hatálya
 
-1. § (1) A Magyar Köztársaságban vagy más EGT-államban honos vállalkozás szolgáltatási tevékenységének megkezdésére és folytatására e törvény rendelkezéseit kell alkalmazni.
+1. § (1) A Magyarországon vagy más EGT-államban honos vállalkozás szolgáltatási tevékenységének megkezdésére és folytatására e törvény rendelkezéseit kell alkalmazni.
 
 (2) Nem kell alkalmazni e törvény rendelkezéseit
 
@@ -12,7 +12,7 @@ a) a következő pénzügyi szolgáltatásokra:
 
 aa) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi szolgáltatás és kiegészítő pénzügyi szolgáltatás,
 
-ab) a tőkepiacról szóló törvény szerinti befektetési alapkezelési tevékenység, ideértve az átruházható értékpapírokba kollektív alapon befektető vállalkozások tevékenységét is, központi értéktári tevékenység, központi szerződő fél tevékenysége, szabályozott piac működtetése,
+ab) a tőkepiacról szóló törvény szerinti központi értéktári tevékenység, központi szerződő fél tevékenysége, szabályozott piac működtetése,
 
 ac) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési szolgáltatási tevékenység és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatás,
 
@@ -22,9 +22,11 @@ ae) a viszontbiztosítókról szóló törvény szerinti viszontbiztosítási te
 
 af) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény szerinti magánnyugdíjpénztári tevékenység,
 
-ag) az önkéntes kölcsönös biztosító pénztárakról szóló törvény szerinti pénztári tevékenység, valamint
+ag) az önkéntes kölcsönös biztosító pénztárakról szóló törvény szerinti pénztári tevékenység,
 
-ah) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltatási tevékenység;
+ah) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltatási tevékenység, valamint,
+
+ai) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvény szerinti befektetési alapkezelési tevékenység;
 
 b) a következő közlekedési szolgáltatásokra:
 

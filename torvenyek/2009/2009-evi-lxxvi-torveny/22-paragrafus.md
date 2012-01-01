@@ -10,7 +10,7 @@ d) az adott szolgáltatási tevékenység megkezdésére és folytatására val�
 
 (2) Ha jogszabály az adott szolgáltatási tevékenység megkezdésére vagy folytatására való jogosultság feltételeként szakmai biztosíték meglétét írja elő, a bejelentés tartalmazza a szolgáltató nyilatkozatát arról, hogy rendelkezik-e megfelelő szakmai biztosítékkal, valamint a szakmai biztosítékot nyújtó szervezet nevéről és a szakmai biztosítékot megalapozó szerződés azonosításhoz szükséges adatokról, a szakmai biztosítékkal fedezett kockázatokról, a szakmai biztosíték területi hatályáról és a szakmai biztosíték összegéről vagy az abban foglalt garancia felső határáról.
 
-(3) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatónak a Magyar Köztársaság területén határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységére vonatkozó bejelentés az (1) bekezdésben meghatározottakon túl tartalmazza
+(3) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatónak a Magyarország területén határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységére vonatkozó bejelentés az (1) bekezdésben meghatározottakon túl tartalmazza
 
 a) a szolgáltató állampolgárságát, más EGT-államban honos, ott nyilvántartásba vett jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén a honossága szerinti EGT-állam nyilvántartásának megnevezését és a szolgáltató nyilvántartási számát,
 

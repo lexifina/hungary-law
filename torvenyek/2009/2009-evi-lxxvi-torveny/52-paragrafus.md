@@ -10,7 +10,7 @@ c) a szolgáltató gazdasági társaságban való részesedésszerzésére vonat
 
 d) egyéb, a szabályozott szakmák tekintetében külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben vagy a valamely kötelező európai uniós jogi aktus végrehajtása céljából más jogszabályban meghatározottakon kívüli bármely olyan követelmény, amely az érintett szolgáltatási tevékenység folytatására való jogosultságot – a tevékenység sajátos természete alapján – bizonyos szolgáltatók számára tartja fenn,
 
-e) a Magyar Köztársaság területén egynél több telephellyel való rendelkezésre vonatkozó tilalom,
+e) a Magyarország területén egynél több telephellyel való rendelkezésre vonatkozó tilalom,
 
 f) a szolgáltató alkalmazottainak minimális számát előíró követelmény,
 

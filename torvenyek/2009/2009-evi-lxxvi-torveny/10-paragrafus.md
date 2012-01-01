@@ -1,6 +1,6 @@
 ## A határon átnyúló szolgáltatásnyújtás eseti korlátozása
 
-10. § (1) Ha a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében a Magyar Köztársaság területén folytatott szolgáltatási tevékenysége során
+10. § (1) Ha a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében Magyarország területén folytatott szolgáltatási tevékenysége során
 
 a) megsérti az adott szolgáltatási tevékenységre vonatkozó, jogszabályban előírt vagy egyéb, jogszabály alapján kötelező követelményeket, és ez a szolgáltatás igénybe vevőjének vagy más személyeknek az életét, testi épségét vagy vagyonát sérti vagy veszélyezteti, vagy
 

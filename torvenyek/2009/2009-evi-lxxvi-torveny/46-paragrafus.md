@@ -1,6 +1,6 @@
 46. § (1) Ha a szolgáltatás felügyeletét ellátó hatóság eljárása során azt állapítja meg, hogy
 
-a) a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a Magyar Köztársaság területén való, határon átnyúló szolgáltatásnyújtása során a 10. § szerinti jogsértést követett el, vagy
+a) a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató Magyarország területén való, határon átnyúló szolgáltatásnyújtása során a 10. § szerinti jogsértést követett el, vagy
 
 b) a szolgáltatási tevékenység folytatása körülményeinek rendkívülisége folytán a szolgáltatás igénybe vevője vagy más személy életének, testi épségének vagy vagyonának sérelme intézkedés hiányában másként nem lenne elhárítható,
 
