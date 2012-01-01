@@ -14,7 +14,7 @@
 
 ## A – Hangsebesség alatti sugárhajtású repülőgépek zajbizonyítványa
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | Légügyi Igazgatóság |  |
 
@@ -54,7 +54,7 @@
 
 | ............................................................ | ............................................................ | ............................................................ |
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | A vizsgált légijármű műszaki adatai: | (hátoldal) |
 
@@ -112,7 +112,7 @@
 
 ## B – 9000 kg-nál nagyobb megengedett maximális felszálló tömegű légcsavaros repülőgépek zajbizonyítványa
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | Légügyi Igazgatóság |  |
 
@@ -152,7 +152,7 @@
 
 | ............................................................ | ............................................................ | ............................................................ |
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | A vizsgált légijármű műszaki adatai: | (hátoldal) |
 
@@ -214,7 +214,7 @@
 
 ## C – 9000 kg és annál kisebb megengedett maximális felszálló tömegű légcsavaros repülőgépek zajbizonyítványa
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | Légügyi Igazgatóság |  |
 
@@ -252,7 +252,7 @@
 
 | ............................................................ | ............................................................ | ............................................................ |
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | A vizsgált légijármű műszaki adatai: | (hátoldal) |
 
@@ -314,7 +314,7 @@
 
 ## D – Helikopterek zajbizonyítványa, tömegkorlátozás nélkül
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | Légügyi Igazgatóság |  |
 
@@ -354,7 +354,7 @@
 
 | ............................................................ | ............................................................ | ............................................................ |
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | A vizsgált légijármű műszaki adatai: | (hátoldal) |
 
@@ -416,7 +416,7 @@
 
 ## E – 2730 kg vagy annál kisebb tömegű helikopterek zajbizonyítványa
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | Légügyi Igazgatóság |  |
 
@@ -454,7 +454,7 @@
 
 | ............................................................ | ............................................................ | ............................................................ |
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | A vizsgált légijármű műszaki adatai: | (hátoldal) |
 
@@ -516,7 +516,7 @@
 
 ## F – Motoros ultrakönnyű légijárművek zajbizonyítványa
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | Légügyi Igazgatóság |  |
 
@@ -554,7 +554,7 @@
 
 | ............................................................ | ............................................................ | ............................................................ |
 
-| MAGYAR KÖZTÁRSASÁG | Zajbizonyítvány |
+| Magyarország | Zajbizonyítvány |
 
 | A vizsgált légijármű műszaki adatai: | (hátoldal) |
 
@@ -602,6 +602,6 @@
 
 | Légi alkalmassági bizonyítvány száma: Dátum: .................................................................................….. | Zajbizonyítvány száma: Aláírás: ..................................................................................….. |
 
-2. számú melléklet a 49/1999. (XII. 29.) KHVM rendelethez[^21]
+2. számú melléklet a 49/1999. (XII. 29.) KHVM rendelethez[^22]
 
-[^21]: A 2. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg. A 2. számú melléklet az 1/2011. (I. 11.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^22]: A 2. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg. A 2. számú melléklet az 1/2011. (I. 11.) NFM rendelet 2. §-a szerint módosított szöveg.

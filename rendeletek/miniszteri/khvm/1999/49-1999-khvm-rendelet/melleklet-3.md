@@ -2656,7 +2656,7 @@
 
 | Zajszint decibelben SEL | 82 | 83,03 + 9,97 log M |
 
-3. számú melléklet a 49/1999. (XII. 29.) KHVM rendelethez[^22]
+3. számú melléklet a 49/1999. (XII. 29.) KHVM rendelethez[^23]
 
 A jelen rendelet 2. mellékletében előírtakkal egyenértékű előírások
 
@@ -2681,4 +2681,4 @@ A jelen rendelet 2. mellékletében előírtakkal egyenértékű előírások
 [^*]: A kiadvány beszerezhetőségi helye: Bureau central de la Commission Électrotechnique internationale, 1 rue de Varambé, Geneva, Switzerland
 [^*]: Beszerezhető: Bureau central de la Commission Électrotechnique Internationale, 1 rue de Varambé, Geneva, Switzerland
 [^*]: 1991. évi XLV. tv., valamint a 127/1991. (X. 9.) Korm. r.
-[^22]: A 3. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg.
+[^23]: A 3. számú melléklet a Közlekedési, Hírközlési és Vízügyi Értesítő 2000. évi 5. számában jelent meg.
