@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-20-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2001-20-20-0A.6 | 20/2001. (X. 11.) BM rendelet |
+| 2012-01-01 | 2001-20-20-0A.7 | 63/2011. (XII. 29.) BM rendelet |

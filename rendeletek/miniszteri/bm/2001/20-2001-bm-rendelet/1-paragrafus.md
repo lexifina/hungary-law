@@ -6,6 +6,6 @@ b) körözést folytató hatóság: az a rendőrkapitányság, illetve rendőr-f
 
 c) megkeresett rendőri szerv: az a rendőri szerv, amely a körözést folytató hatóság megkeresése alapján az ismeretlen helyen lévő személy, illetve tárgy felkutatása, valamint az ismeretlen személy, illetőleg holttest személyazonosságának megállapítása érdekében meghatározott intézkedést hajt végre;
 
-d)[^1] hozzátartozó: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 172. §-ának g) pontjában meghatározott személy.
+d)[^2] hozzátartozó: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 172. §-ának g) pontjában meghatározott személy.
 
-[^1]: Az 1. § d) pontja az 50/2005. (X. 31.) BM rendelet 5. §-ával megállapított szöveg.
+[^2]: Az 1. § d) pontja az 50/2005. (X. 31.) BM rendelet 5. §-ával megállapított szöveg.
