@@ -1,10 +1,12 @@
+## 37/A. §[^145]
+
 ## A pénztárak egyesülése, szétválása
 
 ## Vagyonmérleg, vagyonleltár
 
 38. § (1) A pénztárak egyesülése (összeolvadása, beolvadása), szétválása (különválása, kiválása) (a továbbiakban együtt: átalakulás) során az egyesülő, a szétváló (a továbbiakban: átalakuló) (jogelőd) pénztár(ak) és az átalakulással létrejövő (jogutód) pénztár(ak) vagyonának megállapításához vagyonmérleget kell készíteni. A vagyonmérleget vagyonleltárral kell alátámasztani. A vagyonleltár tételesen tartalmazza a jogelőd, illetve a jogutód pénztár(ak) eszközeit és forrásait.
 
-(2)[^147] Az (1) bekezdés szerinti vagyonmérleget és vagyonleltárt az átalakulás során két alkalommal kell elkészíteni: először az átalakulásról szóló döntés megalapozásához, illetve a tevékenységi engedély iránti kérelem alátámasztására – a pénztár közgyűlése által meghatározott fordulónapra (vagyonmérleg-tervezet és vagyonleltár-tervezet) –, majd az átalakulás (a jogutód pénztár alapszabálya hatálybalépésének időpontja, amelyet az alapszabály elfogadásával egyidejűleg a második közgyűlés határoz meg) napjával (végleges vagyonmérleg és végleges vagyonleltár).
+(2)[^146] Az (1) bekezdés szerinti vagyonmérleget és vagyonleltárt az átalakulás során két alkalommal kell elkészíteni: először az átalakulásról szóló döntés megalapozásához, illetve a tevékenységi engedély iránti kérelem alátámasztására – a pénztár közgyűlése által meghatározott fordulónapra (vagyonmérleg-tervezet és vagyonleltár-tervezet) –, majd az átalakulás (a jogutód pénztár alapszabálya hatálybalépésének időpontja, amelyet az alapszabály elfogadásával egyidejűleg a második közgyűlés határoz meg) napjával (végleges vagyonmérleg és végleges vagyonleltár).
 
 (3) A vagyonmérleget (a vagyonmérleg-tervezetet és a végleges vagyonmérleget), a vagyonleltárt (a vagyonleltár-tervezetet és a végleges vagyonleltárt) az e rendelet szerinti beszámoló mérlegére és az azt alátámasztó leltárra vonatkozó előírások szerint kell elkészíteni a (4)–(12) bekezdésben és a 39–41. §-ban foglaltak figyelembevételével.
 
@@ -38,7 +40,7 @@ a) beolvadás esetében a beolvadó és átvevő pénztár megbontásban és egy
 
 b) összeolvadás esetében az egyesülő pénztárak szerinti megbontásban és együttesen
 
-tartalmazza.
+## tartalmazza.
 
 (7) A (4) bekezdés a) pontja szerinti vagyonmérleget az átalakulással létrejövő pénztárak vagyonmérlegének elkészítéséhez meg kell bontani a pénztár közgyűlése által meghatározott módon
 
@@ -56,4 +58,5 @@ b) kiválás esetében a kiválással létrejövő, valamint a továbbműködő 
 
 (12) A vagyonmérleget (mind a vagyonmérleg-tervezetet, mind a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (mind a vagyonleltár-tervezetet, mind a végleges vagyonleltárt) könyvvizsgálóval ellenőriztetni kell. Az átalakulás számviteli bizonylata a könyvvizsgáló által hitelesített vagyonmérleg.
 
-[^147]: A 38. § (2) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 21. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 199. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^145]: A 37/A. §-t és alcímét a 358/2006. (XII. 27.) Korm. rendelet 10. §-a iktatta be. A 37/A. §-t a 345/2010. (XII. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^146]: A 38. § (2) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 21. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 199. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

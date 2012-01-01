@@ -1,545 +1,521 @@
 ## Az eredménykimutatás előírt tagolása
 
-## Ezer forintban
+## Az eredménykimutatás előírt tagolása
 
-| Megnevezés | Előző évi beszámoló záró adatai | Megállapí- tott eltérések (+, –) | Előző évi felülvizs- gált beszá- moló záró adatai | Tárgyévi beszámoló záró adatai | Megállapí- tott eltérések (+, –) | Tárgyévi felül- vizsgált beszámoló záró adatai |
+| Megnevezés | Előző évi beszámoló záró adatai | Megálla- pított eltéré- sek (+, -) | Előző évi felül- vizsgált beszámoló záró adatai | Tárgyévi beszámoló záró adatai | Megál- lapított eltérések (+, -) | Tárgyévi felül- vizsgált beszámoló záró adatai |
 
-| A) | Pénztár működési tevékenysége |  |  |  |  |  |  |  |
+## A) Pénztár működési tevékenysége
 
-|  | 1. | Tagok által fizetett tagdíj |  |  |  |  |  |  |  |  |
+## 1. Tagok által fizetett tagdíj
 
-|  | 2. | Ideiglenesen munkajövedelemmel nem rendelkező tag részére be- |  |  |  |
+## 2. Ideiglenesen munkajövedelemmel nem rendelkező tag részére befizetett tagdíjcélú támogatás
 
-|  |  | fizetett tagdíjcélú támogatás |  |  |  |  |  |  |  |  |
+## 3. Tagdíj-kiegészítések
 
-|  | 3. | Tagdíj-kiegészítések |  |  |  |  |  |  |  |  |
+## 3.1. Munkáltató által a tag javára történő kiegészítés
 
-|  |  | 3.1. | Munkáltató által a tag javára történő kiegészítés |  |  |  |  |  |  |  |  |
+## 3.2. Tag saját tagdíjának kiegészítése
 
-|  |  | 3.2. | Tag saját tagdíjának kiegészítése |  |  |  |  |  |  |  |  |
+## 4. Meg nem fizetett tagdíjak miatt tartalékképzés (-)
 
-|  | 4. | Meg nem fizetett tagdíjak miatt tartalékképzés (–) |  |  |  |  |  |  |  |
+## 5. Utólag befolyt tagdíjak
 
-|  | 5. | Utólag befolyt tagdíjak |  |  |  |  |  |  |  |
+## 6. Tagdíjbevételek összesen (1+2+3-4+5)
 
-|  | 6. | Tagdíjbevételek összesen (1+2+3–4+5) |  |  |  |  |  |  |  |
+## 7. Működési célra kapott támogatás, adomány
 
-|  | 7. | Működési célra kapott támogatás, adomány |  |  |  |  |  |  |  |
+## 8. Pénztári befizetések összesen (6+7)
 
-|  | 8. | Azonosítatlan tagdíjcélú működési bevétel |  |  |  |  |  |  |  |
+## 9. Egyéb bevételek
 
-|  | 9. | Pénztári befizetések összesen (6+7) |  |  |  |  |  |  |  |
+## 10. Működési célú bevételek összesen (8+9)
 
-|  | 10. | Egyéb bevételek |  |  |  |  |  |  |  |
+## 11. Működéssel kapcsolatos ráfordítások
 
-|  | 11. | Működési célú bevételek összesen (8+9) |  |  |  |  |  |  |  |
+## 11.1. Anyagjellegű ráfordítások
 
-|  | 12. | Működéssel kapcsolatos ráfordítások |  |  |  |  |  |  |  |
+## 11.1.1. Anyagköltség
 
-|  |  | 12.1. | Anyagjellegű ráfordítások |  |  |  |  |  |  |  |  |
+## 11.1.2. Igénybe vett szolgáltatások
 
-|  |  |  | 12.1.1. | Anyagköltség |  |  |  |  |  |  |  |
+## 11.1.2.1. Adminisztrációs és nyilvántartási feladatokat ellátó szervezetnek fizetett díj (számla alapján)
 
-|  |  |  | 12.1.2. | Igénybe vett szolgáltatások |  |  |  |  |  |  |
+## 11.1.2.2. Tagszervezéssel kapcsolatos ügynöki díj (számla alapján)
 
-|  |  |  |  | 12.1.2.1. Adminisztrációs és nyilvántartási feladatokat |  |  |  |  |  |
+## 11.1.2.3. Könyvvizsgálat díja (számla alapján)
 
-|  |  |  |  | ellátó szervezetnek fizetett díj (számla alapján) |  |  |  |  |  |
+## 11.1.2.4. Aktuáriusi díj (számla alapján)
 
-|  |  |  |  | 12.1.2.2. Tagszervezéssel kapcsolatos ügynöki díj (számla |  |  |  |  |  |
+## 11.1.2.5. Szaktanácsadás díja (számla alapján)
 
-|  |  |  |  | alapján) |  |  |  |  |  |
+## 11.1.2.6. Marketing-, hirdetés-, propaganda- és reklámköltség
 
-|  |  |  |  | 12.1.2.3. Könyvvizsgálat díja (számla alapján) |  |  |  |  |  |  |
+## 11.1.3. Egyéb anyagjellegű ráfordítások
 
-|  |  |  |  | 12.1.2.4. Aktuáriusi díj (számla alapján) |  |  |  |  |  |  |
+## 11.1.4.
 
-|  |  |  |  | 12.1.2.5. Szaktanácsadás díja (számla alapján) |  |  |  |  |  |  |
+## 11.1.5.
 
-|  |  |  |  | 12.1.2.6. Marketing-, hirdetés-, propaganda- és reklámköltség |  |  |  |  |  |
+## 11.2. Személyi jellegű ráfordítások
 
-|  |  |  | 12.1.3. | Egyéb anyagjellegű ráfordítások |  |  |  |  |  |  |  |
+## 11.2.1. Bérköltség
 
-|  |  |  | 12.1.4. |  |  |  |  |  |  |  |  |
+## 11.2.1.1. Állományba tartozó pénztári alkalmazottak munkabére
 
-|  |  |  | 12.1.5. |  |  |  |  |  |  |  |
+## 11.2.1.2. Állományba nem tartozók munkadíja
 
-|  |  | 12.2. Személyi jellegű ráfordítások |  |  |  |  |  |  |  |
+## 11.2.1.2.1. Aktuáriusi díj (megbízási díj)
 
-|  |  |  | 12.2.1. | Bérköltség |  |  |  |  |  |  |  |
+## 11.2.1.2.2. Szaktanácsadás díj (megbízási díj)
 
-|  |  |  |  | 12.2.1.1. Állományba tartozó pénztári alkalmazottak munkabére |  |  |  |  |  |
+## 11.2.1.2.3. Tagszervezéssel kapcsolatos ügynöki díj (megbízási díj)
 
-|  |  |  |  | 12.2.1.2. Állományba nem tartozók munkadíja |  |  |  |  |  |  |
+## 11.2.1.2.4. Pénztári tisztségviselők tiszteletdíja
 
-|  |  |  |  |  | 12.2.1.2.1. Aktuáriusi díj (megbízási díj) |  |  |  |  |  |
+## 11.2.1.2.5. Egyéb állományba nem tartozók munkadíja
 
-|  |  |  |  |  | 12.2.1.2.2. Szaktanácsadás díja (megbízási díj) |  |  |  |  |  |
+## 11.2.2. Személyi jellegű egyéb kifizetések
 
-|  |  |  |  |  | 12.2.1.2.3. Tagszervezéssel kapcsolatos ügynöki díj |  |  |  |  |  |
+## 11.2.3. Bérjárulékok
 
-|  |  |  |  |  | (megbízási díj) |  |  |  |  |  |
+## 11.2.3.1.
 
-|  |  |  |  |  | 12.2.1.2.4. Pénztári tisztségviselők tiszteletdíja |  |  |  |  |  |
+## 11.2.3.2.
 
-|  |  |  |  |  | 12.2.1.2.5. Egyéb állományba nem tartozók munkadíja |  |  |  |  |
+## 11.2.3.3.
 
-|  |  |  | 12.2.2. | Személyi jellegű egyéb kifizetések |  |  |  |  |  |
+## 11.3. Értékcsökkenési leírás
 
-|  |  |  | 12.2.3. | Bérjárulékok |  |  |  |  |  |
+## 11.3.1.
 
-|  |  |  |  | 12.2.3.1. |  |  |  |  |  |  |
+## 11.3.2.
 
-|  |  |  |  | 12.2.3.2. |  |  |  |  |  |  |
+## 11.4. Működéssel kapcsolatos egyéb ráfordítások
 
-|  |  |  |  | 12.2.3.3. |  |  |  |  |  |  |
+## 11.4.1. Felügyelettel kapcsolatos ráfordítások
 
-|  |  | 12.3. | Értékcsökkenési leírás |  |  |  |  |  |
+## 11.4.2. Garancia Alappal kapcsolatos ráfordítások
 
-|  |  |  | 12.3.1. |  |  |  |  |  |  |
+## 11.4.3. Működési céltartalékképzés jövőbeni kötelezettségre
 
-|  |  |  | 12.3.2. |  |  |  |  |  |  |
+## 11.4.4. Egyéb ráfordítások
 
-|  |  | 12.4. | Működéssel kapcsolatos egyéb ráfordítások |  |  |  |  |  |
+## 12. Szokásos működési tevékenység eredménye (10-11) (±)
 
-|  |  |  | 12.4.1. | Felügyelettel kapcsolatos ráfordítások |  |  |  |  |  |
+## 13. Nem befektetési célú tulajdoni részesedést jelentő befektetések értékvesztése, visszaírása (±)
 
-|  |  |  | 12.4.2. | Garancia Alappal kapcsolatos ráfordítások |  |  |  |  |  |
+## 14. Kapott (járó) kamatok, kamatjellegű bevételek
 
-|  |  |  | 12.4.3. | Működési céltartalék képzés jövőbeni kötelezettségre |  |  |  |  |  |
+## 14.1. Tartósan adott kölcsönök, lakáscélú kölcsönök után kapott (járó) kamat
 
-|  |  |  | 12.4.4. | Egyéb ráfordítások |  |  |  |  |  |
+## 14.2. Pénzügyileg realizált kamat, kamatjellegű bevétel
 
-|  | 13. | Szokásos működési tevékenység eredménye (10–11) (±) |  |  |  |  |  |
+## 14.3. Hitelviszonyt megtestesítő kamatozó értékpapírok vételárában lévő kamat (-)
 
-|  | 14. | Nem befektetési célú tulajdoni részesedést jelentő befektetések |  |  |  |  |  |
+## 15. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok nyereségjellegű különbözete (árfolyamnyereség)
 
-|  |  | értékvesztése, visszaírása (±) |  |  |  |  |  |
+## 16. Befektetési jegyek realizált hozama
 
-|  | 15. | Kapott (járó) kamatok, kamatjellegű bevételek |  |  |  |  |  |
+## 17. Kapott osztalékok és részesedések
 
-|  |  | 15.1. | Tartósan adott kölcsönök, lakáscélú kölcsönök után kapott |  |  |  |  |
+## 18. Pénzügyi műveletek egyéb realizált bevételei
 
-|  |  |  | (járó) kamat |  |  |  |  |  |
+## 19. Értékelési különbözetben elszámolt várható hozam
 
-|  |  | 15.2. | Pénzügyileg realizált kamat, kamatjellegű bevétel |  |  |  |  |  |
+## 19.1. Időarányosan járó kamat
 
-|  |  | 15.3. | Hitelviszonyt megtestesítő kamatozó értékpapírok vételárában lévő |  |  |  |  |  |
+## 19.2. Járó osztalék
 
-|  |  |  | kamat (–) |  |  |  |  |  |
+## 19.3. Devizaárfolyam-változásból adódó értékkülönbözet
 
-|  | 16. | Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő |  |  |  |  |  |
+## 19.3.1. Nyereségjellegű különbözet (árfolyamnyereség)
 
-|  |  | értékpapírok nyereségjellegű különbözete (árfolyamnyereség) |  |  |  |  |  |
+## 19.3.2. Veszteségjellegű különbözet (árfolyamveszteség) (-)
 
-|  | 17. | Befektetési jegyek realizált hozama |  |  |  |  |  |
+## 19.4. Egyéb piaci értékítéletből adódó értékkülönbözet
 
-|  | 18. | Kapott osztalékok és részesedések |  |  |  |  |  |
+## 19.4.1. Nyereségjellegű különbözet (árfolyamnyereség)
 
-|  | 19. | Pénzügyi műveletek egyéb realizált bevételei |  |  |  |  |  |
+## 19.4.2. Veszteségjellegű különbözet (árfolyamveszteség) (-)
 
-|  | 20. | Értékelési különbözetben elszámolt várható hozam |  |  |  |  |  |
+## 20. Befektetési célú ingatlanok hasznosításából, eladásából származó bevételek
 
-|  |  | 20.1. | Időarányosan járó kamat |  |  |  |  |  |
+## 21. Befektetési tevékenység bevételei összesen (14+...+20)
 
-|  |  | 20.2. | Járó osztalék |  |  |  |  |  |
+## 22. Fizetendő kamatok és kamatjellegű ráfordítások
 
-|  |  | 20.3. | Devizaárfolyam-változásból adódó értékkülönbözet |  |  |  |  |  |
+## 23. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok veszteségjellegű különbözete (árfolyamveszteség)
 
-|  |  |  | 20.3.1. | Nyereségjellegű különbözet (árfolyamnyereség) |  |  |  |  |  |
+## 24. Befektetési jegyek realizált vesztesége
 
-|  |  |  | 20.3.2. | Veszteségjellegű különbözet (árfolyamveszteség) (–) |  |  |  |  |  |
+## 25. Értékelési különbözetből képzett működési céltartalék
 
-|  |  | 20.4. | Egyéb piaci értékítéletből adódó értékkülönbözet |  |  |  |  |  |
+## 25.1. Időarányosan járó kamat
 
-|  |  |  | 20.4.1. | Nyereségjellegű különbözet (árfolyamnyereség) |  |  |  |  |  |
+## 25.2. Járó osztalék
 
-|  |  |  | 20.4.2. | Veszteségjellegű különbözet (árfolyamveszteség) (–) |  |  |  |  |  |
+## 25.3. Devizaárfolyam különbözetek
 
-|  | 21. | Befektetési célú ingatlanok hasznosításából, eladásából származó bevételek |  |  |  |  |  |
+## 25.4. Egyéb piaci értékítéletből adódó értékkülönbözetek
 
-|  | 22. | Befektetési tevékenység bevételei összesen (14+...+20) |  |  |  |  |  |
+## 26. Pénzügyi műveletek egyéb ráfordítása
 
-|  | 23. | Fizetendő kamatok és kamatjellegű ráfordítások |  |  |  |  |  |
+## 27. Befektetési célú ingatlanokkal kapcsolatos ráfordítások
 
-|  | 24. | Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő |  |  |  |  |  |
+## 28. Befektetési tevékenységgel kapcsolatos egyéb ráfordítások
 
-|  |  | értékpapírok veszteségjellegű különbözete (árfolyamveszteség) |  |  |  |  |  |
+## 28.1. Vagyonkezelői díjak
 
-|  | 25. | Befektetési jegyek realizált vesztesége |  |  |  |  |  |
+## 28.2. Letétkezelői díjak
 
-|  | 26. | Értékelési különbözetből képzett működési céltartalék |  |  |  |  |  |
+## 28.3. Befektetési tevékenységgel kapcsolatos különböző egyéb ráfordítások
 
-|  |  | 26.1. | Időarányosan járó kamat |  |  |  |  |  |
+## 29. Befektetési tevékenység ráfordításai összesen (22+...+28)
 
-|  |  | 26.2. | Járó osztalék |  |  |  |  |  |
+## 30. Befektetési tevékenység eredménye (21-29) (±)
 
-|  |  | 26.3. | Devizárfolyam különbözetek |  |  |  |  |  |
+## 31. Rendkívüli bevételek
 
-|  |  | 26.4. | Egyéb piaci értékítéletből adódó értékkülönbözetek |  |  |  |  |  |
+## 32. Rendkívüli ráfordítások
 
-|  | 27. | Pénzügyi műveletek egyéb ráfordítása |  |  |  |  |  |
+## 33. Rendkívüli eredmény (31-32) (±)
 
-|  | 28. | Befektetési célú ingatlanokkal kapcsolatos ráfordítások |  |  |  |  |  |
+## 34. Működés mérleg szerinti eredménye (12±13±30±33) (±)
 
-|  | 29. | Befektetési tevékenységgel kapcsolatos egyéb ráfordítások |  |  |  |  |  |
+## B) Pénztári szolgáltatások fedezete
 
-|  |  | 29.1. | Vagyonkezelői díjak |  |  |  |  |  |
+## 1. Tagok által fizetett tagdíj
 
-|  |  | 29.2. | Letétkezelői díjak |  |  |  |  |  |
+## 2. Ideiglenesen munkajövedelemmel nem rendelkező tag részére befizetett tagdíj célú támogatás
 
-|  |  | 29.3. | Befektetési tevékenységgel kapcsolatos különböző egyéb ráfordítások |  |  |  |  |  |
+## 3. Tagdíj-kiegészítések
 
-|  | 30. | Befektetési tevékenység ráfordításai összesen (22+...+28) |  |  |  |  |  |
+## 3.1. Munkáltató által a tag javára történő kiegészítés
 
-|  | 31. | Befektetési tevékenység eredménye (21–29) (±) |  |  |  |  |  |
+## 3.2. Tag saját tagdíjának kiegészítése
 
-|  | 32. | Rendkívüli bevételek |  |  |  |  |  |
+## 4. Meg nem fizetett tagdíjak miatt tartalékképzés (-)
 
-|  | 33. | Rendkívüli ráfordítások |  |  |  |  |  |
+## 5. Utólag befolyt tagdíjak
 
-|  | 34. | Rendkívüli eredmény (31–32) (±) |  |  |  |  |  |
+## 6. Tagdíjbevételek összesen (1+2+3-4+5)
 
-|  | 35. | Működés mérleg szerinti eredménye (12±13±30±33) (±) |  |  |  |  |  |
+## 7. Szolgáltatási célú egyéb bevételek
 
-| B) | Pénztári szolgáltatások fedezete |  |  |  |  |  |
+## 8. Egyéni számlán jóváírt szolgáltatási célú bevételek összesen (6+7)
 
-|  | 1. | Tagok által fizetett tagdíj |  |  |  |  |  |
+## 9. Egyéni számlán elszámolt szolgáltatási célú egyéb ráfordítások
 
-|  | 2. | Ideiglenesen munkajövedelemmel nem rendelkező tag részére |  |  |  |  |  |
+## 10. Kapott kamatok, kamatjellegű bevételek
 
-|  |  | befizetett tagdíj célú támogatás |  |  |  |  |  |
+## 10.1. Pénzügyileg realizált kamat, kamatjellegű bevétel
 
-|  | 3. | Tagdíj-kiegészítések |  |  |  |  |  |
+## 10.2. Hitelviszonyt megtestesítő kamatozó értékpapír vételárában lévő kamat (-)
 
-|  |  | 3.1. | Munkáltató által a tag javára történő kiegészítés |  |  |  |  |  |
+## 11. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok nyereségjellegű különbözete (árfolyamnyereség)
 
-|  |  | 3.2. | Tag saját tagdíjának kiegészítése |  |  |  |  |  |
+## 12. Befektetési jegyek realizált hozama
 
-|  | 4. | Meg nem fizetett tagdíjak miatt tartalékképzés (–) |  |  |  |  |  |
+## 13. Kapott osztalékok, részesedések,
 
-|  | 5. | Utólag befolyt tagdíjak |  |  |  |  |  |
+## 14. Pénzügyi műveletek egyéb realizált bevételei
 
-|  | 6. | Tagdíjbevételek összesen (1+2+3–4+5) |  |  |  |  |  |
+## 15. Értékelési különbözetben elszámolt várható hozam
 
-|  | 7. | Szolgáltatási célú egyéb bevételek |  |  |  |  |  |
+## 15.1. Időarányosan járó kamat
 
-|  | 8. | Egyéni számlán jóváírt szolgáltatási célú bevételek összesen (6+7) |  |  |  |  |  |
+## 15.2. Járó osztalék
 
-|  | 9. | Egyéni számlán elszámolt szolgáltatási célú egyéb ráfordítások |  |  |  |  |  |
+## 15.3. Devizaárfolyam-változásból adódó értékkülönbözet
 
-|  | 10. | Kapott kamatok, kamatjellegű bevételek |  |  |  |  |  |
+## 15.3.1. Nyereségjellegű különbözet (árfolyamnyereség)
 
-|  |  | 10.1. | Pénzügyileg realizált kamat, kamatjellegű bevétel |  |  |  |  |  |
+## 15.3.2. Veszteségjellegű különbözet (árfolyamveszteség) (-)
 
-|  |  | 10.2. | Hitelviszonyt megtestesítő kamatozó értékpapír vételárában lévő |  |  |  |  |  |
+## 15.4. Egyéb piaci értékítéletből adódó értékkülönbözet
 
-|  |  |  | kamat (–) |  |  |  |  |  |
+## 15.4.1. Nyereségjellegű különbözet (árfolyamnyereség)
 
-|  | 11. | Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok nyereségjellegű különbözete (árfolyamnyereség) |  |  |  |  |  |
+## 15.4.2. Veszteségjellegű különbözet (árfolyamveszteség) (-)
 
-|  | 12. | Befektetési jegyek realizált hozama |  |  |  |  |  |
+## 16. Befektetési célú ingatlanok hasznosításából, eladásából származó bevételek
 
-|  | 13. | Kapott osztalékok, részesedések |  |  |  |  |  |
+## 17. Befektetési tevékenység bevételei összesen (10+....+16)
 
-|  | 14. | Pénzügyi műveletek egyéb realizált bevételei |  |  |  |  |  |
+## 17.1. Egyéni számlákat megillető hozambevételek
 
-|  | 15. | Értékelési különbözetben elszámolt várható hozam |  |  |  |  |  |
+## 17.1.1. Egyéni számlákat megillető realizált hozam
 
-|  |  | 15.1. | Időarányosan járó kamat |  |  |  |  |  |
+## 17.1.2. Egyéni számlákat megillető értékelési különbözet
 
-|  |  | 15.2. | Járó osztalék |  |  |  |  |  |
+## 17.2. Szolgáltatási tartalékot megillető hozambevételek
 
-|  |  | 15.3. | Devizaárfolyam-változásból adódó értékkülönbözet |  |  |  |  |  |
+## 17.2.1. Szolgáltatási tartalékot megillető realizált hozam
 
-|  |  |  | 15.3.1. | Nyereségjellegű különbözet (árfolyamnyereség) |  |  |  |  |  |
+## 17.2.2. Szolgáltatási tartalékot megillető értékelési különbözet
 
-|  |  |  | 15.3.2. | Veszteségjellegű különbözet (árfolyamveszteség) (–) |  |  |  |  |  |
+## 18. Fizetendő kamatok és kamatjellegű ráfordítások
 
-|  |  | 15.4. | Egyéb piaci értékítéletből adódó értékkülönbözet |  |  |  |  |  |
+## 19. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok veszteségjellegű különbözete (árfolyamveszteség)
 
-|  |  |  | 15.4.1. | Nyereségjellegű különbözet (árfolyamnyereség) |  |  |  |  |  |
+## 20. Befektetési jegyek realizált vesztesége
 
-|  |  |  | 15.4.2. | Veszteségjellegű különbözet (árfolyamveszteség) (–) |  |  |  |  |  |
+## 21. Pénzügyi műveletek egyéb ráfordítása
 
-|  | 16. | Befektetési célú ingatlanok hasznosításából, eladásából származó bevételek |  |  |  |  |  |
+## 22. Befektetési célú ingatlanokkal kapcsolatos ráfordítások
 
-|  | 17. | Befektetési tevékenység bevételei összesen (10+....+16) |  |  |  |  |  |
+## 23. Befektetési tevékenységgel kapcsolatos egyéb ráfordítások
 
-|  |  | 17.1. | Egyéni számlákat megillető hozambevételek |  |  |  |  |  |
+## 23.1. Vagyonkezelői díjak
 
-|  |  |  | 17.1.1. | Egyéni számlákat megillető realizált hozam |  |  |  |  |  |
+## 23.2. Letétkezelői díjak
 
-|  |  |  | 17.1.2. | Egyéni számlákat megillető értékelési különbözet |  |  |  |  |  |
+## 23.3. Befektetési tevékenységgel kapcsolatos különböző egyéb ráfordítások
 
-|  |  | 17.2. | Szolgáltatási tartalékot megillető hozambevételek |  |  |  |  |  |
+## 24. Befektetési tevékenység ráfordításai összesen (18+...+23)
 
-|  |  |  | 17.2.1. | Szolgáltatási tartalékot megillető realizált hozam |  |  |  |  |  |
+## 24.1. Egyéni számlákat terhelő befektetéssel kapcsolatos ráfordítások
 
-|  |  |  | 17.2.2. | Szolgáltatási tartalékot megillető értékelési különbözet |  |  |  |  |  |
+## 24.2. Szolgáltatási tartalékot terhelő befektetéssel kapcsolatos ráfordítások
 
-|  | 18. | Fizetendő kamatok és kamatjellegű ráfordítások |  |  |  |  |  |
+## 25. Befektetési tevékenység eredménye (17-24) (±)
 
-|  | 19. | Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő |  |  |  |  |  |
+## 25.1. Egyéni számlákon jóváírható nettó hozam
 
-|  |  | értékpapírok veszteségjellegű különbözete (árfolyamveszteség) |  |  |  |  |  |
+## 25.2. Egyéni számlákon jóváírható értékelési különbözet
 
-|  | 20. | Befektetési jegyek realizált vesztesége |  |  |  |  |  |
+## 25.3. Szolgáltatási tartalékba helyezhető nettó hozam
 
-|  | 21. | Pénzügyi műveletek egyéb ráfordítása |  |  |  |  |  |
+## 25.4. Szolgáltatási tartalékba helyezhető értékelési különbözet
 
-|  | 22. | Befektetési célú ingatlanokkal kapcsolatos ráfordítások |  |  |  |  |  |
+## 26. Fedezeti céltartalékképzés (8-9±25) (-)
 
-|  | 23. | Befektetési tevékenységgel kapcsolatos egyéb ráfordítások |  |  |  |  |  |
+## 26.1. Egyéni számlákon a szolgáltatási célú bevételek és ráfordítások különbözetének összegében
 
-|  |  | 23.1. | Vagyonkezelői díjak |  |  |  |  |  |
+## 26.1.1. A mérlegfordulónapig beérkezett bevallási adatok alapján előírt, mérlegfordulónapig pénzügyileg rendezett fedezeti portfolióban nyilvántartott szolgáltatási célú bevételekből képzett céltartalék
 
-|  |  | 23.2. | Letétkezelői díjak |  |  |  |  |  |
+## 26.1.2. A mérlegkészítés időpontjáig beérkezett bevallási adatok alapján előírt, de a mérlegfordulónapot követően esedékes szolgáltatási célú bevételekből képzett céltartalék
 
-|  |  | 23.3. | Befektetési tevékenységgel kapcsolatos különböző egyéb ráfordítások |  |  |  |  |  |
+## 26.2. Egyéni számlákon jóváírt nettó hozamból
 
-|  | 24. | Befektetési tevékenység ráfordításai összesen (18+...+23) |  |  |  |  |  |
+## 26.3. Egyéni számlákon jóváírt értékelési különbözet
 
-|  |  | 24.1. | Egyéni számlákat terhelő befektetéssel kapcsolatos ráfordítások |  |  |  |  |  |
+## 26.3.1. Időarányosan járó kamat
 
-|  |  | 24.2. | Szolgáltatási tartalékot terhelő befektetéssel kapcsolatos ráfordítások |  |  |  |  |  |
+## 26.3.2. Járó osztalék
 
-|  | 25. | Befektetési tevékenység eredménye (17–24) (±) |  |  |  |  |  |
+## 26.3.3. Devizaárfolyam különbözetekből
 
-|  |  | 25.1. | Egyéni számlákon jóváírható nettó hozam |  |  |  |  |  |
+## 26.3.4. Egyéb piaci értékítéletből adódó értékkülönbözetből
 
-|  |  | 25.2. | Egyéni számlákon jóváírható értékelési különbözet |  |  |  |  |  |
+## 26.4. Szolgáltatási tartalékon jóváírt nettó hozamból
 
-|  |  | 25.3. | Szolgáltatási tartalékba helyezhető nettó hozam |  |  |  |  |  |
+## 26.5. Szolgáltatási tartalékon jóváírt értékelési különbözetből
 
-|  |  | 25.4. | Szolgáltatási tartalékba helyezhető értékelési különbözet |  |  |  |  |  |
+## 26.5.1. Időarányosan járó kamat
 
-|  | 26. | Fedezeti céltartalék képzés (8–9±25) (–) |  |  |  |  |  |
+## 26.5.2. Járó osztalék
 
-|  |  | 26.1. | Egyéni számlákon a szolgáltatási célú bevételek és ráfordítások különbözetének összegében |  |  |  |  |  |
+## 26.5.3. Devizaárfolyam különbözetekből
 
-|  |  |  | 26.1.1. | A mérlegfordulónapig beérkezett bevallási adatok alapján előírt, mérlegfordulónapig pénzügyileg rendezett fedezeti portfolióban nyilvántartott szolgáltatási célú bevételekből képzett céltartalék |  |  |  |  |  |
+## 26.5.4. Egyéb piaci értékítéletből adódó értékkülönbözetből
 
-|  |  |  | 26.1.2. | A mérlegkészítés időpontjáig beérkezett bevallási adatok alapján előírt, pénzügyileg rendezett, a mérlegfordulónapon függő portfolióban nyilvántartott szolgáltatási célú bevételekből képzett céltartalék |  |  |  |  |  |
+## C) Likviditási és kockázati fedezet
 
-|  |  |  | 26.1.3. | A mérlegkészítés időpontjáig beérkezett bevallási adatok alapján előírt, de a mérlegfordulónapot követően esedékes szolgáltatási célú bevételekből képzett céltartalék |  |  |  |  |  |
+## 1. Tagok által fizetett tagdíj
 
-|  |  | 26.2. | Egyéni számlákon jóváírt nettó hozamból |  |  |  |  |  |
+## 2. Ideiglenesen munkajövedelemmel nem rendelkező tag részére befizetett tagdíj célú támogatás
 
-|  |  | 26.3. | Egyéni számlákon jóváírt értékelési különbözet |  |  |  |  |  |
+## 3. Tagdíj-kiegészítések
 
-|  |  |  | 26.3.1. | Időarányosan járó kamat |  |  |  |  |  |
+## 3.1. Munkáltató által a tag javára történő kiegészítés
 
-|  |  |  | 26.3.2. | Járó osztalék |  |  |  |  |  |
+## 3.2. Tag saját tagdíjának kiegészítése
 
-|  |  |  | 26.3.3. | Devizaárfolyam különbözetekből |  |  |  |  |  |
+## 4. Meg nem fizetett tagdíjak miatt tartalékképzés (-)
 
-|  |  |  | 26.3.4. | Egyéb piaci értékítéletből adódó értékkülönbözetből |  |  |  |  |  |
+## 5. Utólag befolyt tagdíjak
 
-|  |  | 26.4. | Szolgáltatási tartalékon jóváírt nettó hozamból |  |  |  |  |  |
+## 6. Tagdíjbevételek összesen (1+2+3-4+5)
 
-|  |  | 26.5. | Szolgáltatási tartalékon jóváírt értékelési különbözetből |  |  |  |  |  |
+## 7. Likviditási és kockázati célú egyéb bevételek
 
-|  |  |  | 26.5.1. | Időarányosan járó kamat |  |  |  |  |  |
+## 8. Likviditási és kockázati célú egyéb ráfordítások
 
-|  |  |  | 26.5.2. | Járó osztalék |  |  |  |  |  |
+## 9. Kapott kamatok, kamatjellegű bevételek
 
-|  |  |  | 26.5.3. | Devizaárfolyam különbözetekből |  |  |  |  |  |
+## 9.1. Pénzügyileg realizált kamat, kamatjellegű bevétel
 
-|  |  |  | 26.5.4. | Egyéb piaci értékítéletből adódó értékkülönbözetből |  |  |  |  |  |
+## 9.2. Hitelviszonyt megtestesítő kamatozó értékpapírok vételárában lévő kamat (-)
 
-| C) | Likviditási és kockázati fedezet |  |  |  |  |  |
+## 10. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok nyereségjellegű különbözete (árfolyamnyereség) (+)
 
-|  | 1. | Tagok által fizetett tagdíj |  |  |  |  |  |
+## 11. Befektetési jegyek realizált hozama
 
-|  | 2. | Ideiglenesen munkajövedelemmel nem rendelkező tag részére befizetett |  |  |  |  |  |
+## 12. Kapott osztalékok, részesedések
 
-|  |  | tagdíj célú támogatás |  |  |  |  |  |
+## 13. Pénzügyi műveletek egyéb realizált bevételei
 
-|  | 3. | Tagdíj-kiegészítések |  |  |  |  |  |
+## 14. Értékelési különbözetben elszámolt várható hozam
 
-|  |  | 3.1. | Munkáltató által a tag javára történő kiegészítés |  |  |  |  |  |
+## 14.1. Időarányosan járó kamat
 
-|  |  | 3.2. | Tag saját tagdíjának kiegészítése |  |  |  |  |  |
+## 14.2. Járó osztalék
 
-|  | 4. | Meg nem fizetett tagdíjak miatt tartalékképzés (–) |  |  |  |  |  |
+## 14.3. Devizaárfolyam-változásból adódó értékkülönbözet
 
-|  | 5. | Utólag befolyt tagdíjak |  |  |  |  |  |
+## 14.3.1. Nyereségjellegű különbözet (árfolyamnyereség)
 
-|  | 6. | Tagdíjbevételek összesen (1+2+3–4+5) |  |  |  |  |  |
+## 14.3.2. Veszteségjellegű különbözet (árfolyamveszteség) (-)
 
-|  | 7. | Likviditási és kockázati célú egyéb bevételek |  |  |  |  |  |
+## 14.4. Egyéb piaci értékítéletből adódó értékkülönbözet
 
-|  | 8. | Likviditási és kockázati célú egyéb ráfordítások |  |  |  |  |  |
+## 14.4.1. Nyereségjellegű különbözet (árfolyamnyereség)
 
-|  | 9. | Kapott kamatok, kamatjellegű bevételek |  |  |  |  |  |
+## 14.4.2. Veszteségjellegű különbözet (árfolyamveszteség) (-)
 
-|  |  | 9.1. | Pénzügyileg realizált kamat, kamatjellegű bevétel |  |  |  |  |  |
+## 15. Befektetési célú ingatlanok hasznosításából, eladásából származó bevételek
 
-|  |  | 9.2. | Hitelviszonyt megtestesítő kamatozó értékpapírok vételárában lévő |  |  |  |  |  |
+## 16. Befektetési tevékenység bevételei összesen (9+...+15)
 
-|  |  |  | kamat (–) |  |  |  |  |  |
+## 16.1. Likviditási és kockázati célú pénzeszközök befektetésével kapcsolatos bevételek
 
-|  | 10. | Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő |  |  |  |  |  |
+## 16.2. Azonosítatlan befizetések befektetésével kapcsolatos bevételek
 
-|  |  | értékpapírok nyereségjellegű különbözete (árfolyamnyereség) (+) |  |  |  |  |  |
+## 17. Fizetendő kamatok és kamatjellegű ráfordítások
 
-|  | 11. | Befektetési jegyek realizált hozama |  |  |  |  |  |
+## 18. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok és veszteségjellegű különbözete (árfolyamveszteség)
 
-|  | 12. | Kapott osztalékok, részesedések |  |  |  |  |  |
+## 19. Befektetési jegyek realizált vesztesége
 
-|  | 13. | Pénzügyi műveletek egyéb realizált bevételei |  |  |  |  |  |
+## 20. Pénzügyi műveletek egyéb ráfordítása
 
-|  | 14. | Értékelési különbözetben elszámolt várható hozam |  |  |  |  |  |
+## 21. Befektetési célú ingatlanokkal kapcsolatos ráfordítások
 
-|  |  | 14.1. | Időarányosan járó kamat |  |  |  |  |  |
+## 22. Befektetési tevékenységgel kapcsolatos egyéb ráfordítások
 
-|  |  | 14.2. | Járó osztalék |  |  |  |  |  |
+## 22.1. Vagyonkezelői díjak
 
-|  |  | 14.3. | Devizaárfolyam-változásból adódó értékkülönbözet |  |  |  |  |  |
+## 22.2. Letétkezelői díjak
 
-|  |  |  | 14.3.1. | Nyereségjellegű különbözet (árfolyamnyereség) |  |  |  |  |  |
+## 22.3. Befektetési tevékenységgel kapcsolatos különböző egyéb ráfordítások
 
-|  |  |  | 14.3.2. | Veszteségjellegű különbözet (árfolyamveszteség) (–) |  |  |  |  |  |
+## 23. Befektetési tevékenység ráfordításai összesen (17+....+22)
 
-|  |  | 14.4. | Egyéb piaci értékítéletből adódó értékkülönbözet |  |  |  |  |  |
+## 23.1. Likviditási és kockázati célú pénzeszközök befektetésével kapcsolatos ráfordítások
 
-|  |  |  | 14.4.1. | Nyereségjellegű különbözet (árfolyamnyereség) |  |  |  |  |  |
+## 23.2. Azonosítatlan befizetések befektetésével kapcsolatos ráfordítások
 
-|  |  |  | 14.4.2. | Veszteségjellegű különbözet (árfolyamveszteség) (–) |  |  |  |  |  |
+## 24. Befektetési tevékenység eredménye (16-23) (±)
 
-|  | 15. | Befektetési célú ingatlanok hasznosításából, eladásából származó bevételek |  |  |  |  |  |
+## 25. Likviditási és kockázati céltartalékképzés (6+7-8±24) (-)
 
-|  | 16. | Befektetési tevékenység bevételei összesen (9+...+15) |  |  |  |  |  |
+## 25.1. Demográfiai kockázatokra
 
-|  |  | 16.1 | Likviditási és kockázati célú pénzeszközök befektetésével kapcsolatos |  |  |  |  |  |
+## 25.2. Saját tevékenységi kockázatokra
 
-|  |  |  | bevételek |  |  |  |  |  |
+## 25.3. Azonosítatlan (függő) befizetések hozama
 
-|  |  | 16.2. | Azonosítatlan befizetések befektetésével kapcsolatos bevételek |  |  |  |  |  |
+## 25.4. Egyéb kockázatokra
 
-|  | 17. | Fizetendő kamatok és kamatjellegű ráfordítások |  |  |  |  |  |
+## 25.5. Értékelési különbözetből képzett likviditási céltartalék
 
-|  | 18. | Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő |  |  |  |  |  |
+## 25.5.1. Időarányosan járó kamat
 
-|  |  | értékpapírok és veszteségjellegű különbözete (árfolyamveszteség) |  |  |  |  |  |
+## 25.5.2. Járó osztalék
 
-|  | 19. | Befektetési jegyek realizált vesztesége |  |  |  |  |  |
+## 25.5.3. Devizaárfolyam különbözet
 
-|  | 20. | Pénzügyi műveletek egyéb ráfordítása |  |  |  |  |  |
-
-|  | 21. | Befektetési célú ingatlanokkal kapcsolatos ráfordítások |  |  |  |  |  |
-
-|  | 22. | Befektetési tevékenységgel kapcsolatos egyéb ráfordítások |  |  |  |  |  |
-
-|  |  | 22.1. | Vagyonkezelői díjak |  |  |  |  |  |
-
-|  |  | 22.2. | Letétkezelői díjak |  |  |  |  |  |
-
-|  |  | 22.3. | Befektetési tevékenységgel kapcsolatos különböző egyéb ráfordítások |  |  |  |  |  |
-
-|  | 23. | Befektetési tevékenység ráfordításai összesen (17+....+22) |  |  |  |  |  |
-
-|  |  | 23.1. | Likviditási és kockázati célú pénzeszközök befektetésével kapcsolatos |  |  |  |  |  |
-
-|  |  |  | ráfordítások |  |  |  |  |  |
-
-|  |  | 23.2. | Azonosítatlan befizetések befektetésével kapcsolatos ráfordítások |  |  |  |  |  |
-
-|  | 24. | Befektetési tevékenység eredménye (16–23) (±) |  |  |  |  |  |
-
-|  | 25. | Likviditási és kockázati céltartalék képzés (6+7–8±24) (–) |  |  |  |  |  |
-
-|  |  | 25.1. | Demográfiai kockázatokra |  |  |  |  |  |
-
-|  |  | 25.2. | Saját tevékenységi kockázatokra |  |  |  |  |  |
-
-|  |  | 25.3. | Egyéb kockázatokra |  |  |  |  |  |
-
-|  |  | 25.4. | Értékelési különbözetből képzett likviditási céltartalék |  |  |  |  |  |
-
-|  |  |  | 25.4.1. | Időarányosan járó kamat |  |  |  |  |  |
-
-|  |  |  | 25.4.2. | Járó osztalék |  |  |  |  |  |
-
-|  |  |  | 25.4.3. | Devizaárfolyam különbözet |  |  |  |  |  |
-
-|  |  |  | 25.4.4. | Egyéb piaci értékítéletből adódó értékkülönbözet |  |  |  |  |  |
-
-| D) | Függő befizetések befektetési hozamának fedezete |  |  |  |  |  |
-
-|  | 1. | Kapott kamatok, kamatjellegű bevételek |  |  |  |  |  |
-
-|  |  | 1.1. | Pénzügyileg realizált kamat, kamatjellegű bevétel |  |  |  |  |  |
-
-|  |  | 1.2. | Hitelviszonyt megtestesítő kamatozó értékpapírok vételárában lévő kamat (–) |  |  |  |  |  |
-
-|  | 2. | Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok nyereségjellegű különbözete (árfolyamnyereség) |  |  |  |  |  |
-
-|  | 3. | Befektetési jegyek realizált hozama |  |  |  |  |  |
-
-|  | 4. | Kapott osztalékok, részesedések |  |  |  |  |  |
-
-|  | 5. | Pénzügyi műveletek egyéb realizált bevételei |  |  |  |  |  |
-
-|  | 6. | Értékelési különbözetben elszámolt várható hozam |  |  |  |  |  |
-
-|  |  | 6.1. | Időarányosan járó kamat |  |  |  |  |  |
-
-|  |  | 6.2. | Járó osztalék |  |  |  |  |  |
-
-|  |  | 6.3. | Devizaárfolyam-változásból adódó értékkülönbözet |  |  |  |  |  |
-
-|  |  |  | 6.3.1. | Nyereségjellegű különbözet (árfolyamnyereség) |  |  |  |  |  |
-
-|  |  |  | 6.3.2. | Veszteségjellegű különbözet (árfolyamveszteség) (–) |  |  |  |  |  |
-
-|  |  | 6.4. | Egyéb piaci értékítéletből adódó értékkülönbözet |  |  |  |  |  |
-
-|  |  |  | 6.4.1. | Nyereségjellegű különbözet (árfolyamnyereség) |  |  |  |  |  |
-
-|  |  |  | 6.4.2. | Veszteségjellegű különbözet (árfolyamveszteség) (–) |  |  |  |  |  |
-
-|  | 7. | Függő befizetések befektetésével kapcsolatos bevételek összesen (1+...+6) |  |  |  |  |  |
-
-|  | 8. | Fizetendő kamatok és kamatjellegű ráfordítások |  |  |  |  |  |
-
-|  | 9. | Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok veszteségjellegű különbözete (árfolyamveszteség) |  |  |  |  |  |
-
-|  | 10. | Befektetési jegyek realizált vesztesége |  |  |  |  |  |
-
-|  | 11. | Pénzügyi műveletek egyéb realizált ráfordítása |  |  |  |  |  |
-
-|  | 12. | Befektetési tevékenységgel kapcsolatos egyéb ráfordítások |  |  |  |  |  |
-
-|  |  | 12.1. | Vagyonkezelői díjak |  |  |  |  |  |
-
-|  |  | 12.2. | Letétkezelői díjak |  |  |  |  |  |
-
-|  |  | 12.3. | Befektetési tevékenységgel kapcsolatos különböző egyéb ráfordítások |  |  |  |  |  |
-
-|  | 13. | Függő befizetések befektetésével kapcsolatos ráfordítások összesen (8+....+12) |  |  |  |  |  |
-
-|  | 14. | Függő befizetések befektetési hozamának fedezete (7–13) |  |  |  |  |  |
-
-|  | 15. | Függő befizetések befektetési hozamára céltartalékképzés (14) (–) |  |  |  |  |  |
-
-|  |  | 15.1. | Bevallási adatokhoz nem rendelhető befizetések befektetési hozamára |  |  |  |  |  |
-
-|  |  | 15.2. | Egyéb azonosítatlan (függő) befizetések befektetési hozamára |  |  |  |  |  |
-
-|  |  | 15.3. | Függő befektetési portfólió értékelési különbözetéből képzett céltartalék |  |  |  |  |  |
-
-|  |  |  | 15.3.1. | Időarányosan járó kamat |  |  |  |  |  |
-
-|  |  |  | 15.3.2. | Járó osztalék |  |  |  |  |  |
-
-|  |  |  | 15.3.3. | Devizaárfolyam-különbözet |  |  |  |  |  |
-
-|  |  |  | 15.3.4. | Egyéb piaci értékítéletből adódó értékkülönbözet |  |  |  |  |  |
+## 25.5.4. Egyéb piaci értékítéletből adódó értékkülönbözet
 
 3. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^224]
 
-Cash-flow kimutatás
+## Cash-flow kimutatás
 
-[^224]: A 3. számú melléklet a 358/2006. (XII. 27.) Korm. rendelet 18. §-a és a 396/2007. (XII. 27.) Korm. rendelet 32. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
+1. Működés mérleg szerinti eredménye (±)
+
+2. Immateriális javak nettó értékében bekövetkezett állományváltozás (±)
+
+3. Immateriális javakra adott előlegek állomány változása (±)
+
+4. Tárgyi eszközök (beruházások és beruházásra, felújításra adott előlegek kivételével) nettó értékében bekövetkezett állományváltozás (±)
+
+5. Beruházások, beruházásra, felújításra adott előlegek állomány változása (±)
+
+6. Befektetett pénzügyi eszközök (hosszú lejáratú bankbetétek kivételével) állomány változása (±)
+
+7. Készletek (készletekre adott előlegek kivételével) értékében bekövetkezett állományváltozás (±)
+
+8. Készletekre adott előlegek állomány változása (±)
+
+9. Követelésállomány változása (±)
+
+10. Tartaléktőke állomány változása (±)
+
+11. Forgóeszközök között kimutatott értékpapírok állomány változása (±)
+
+12. Működési céltartalék állomány változása céltartalékok egymás közötti átcsoportosítása miatt (±)
+
+13. Meg nem fizetett tagdíjak tartaléka állományának változása (±)
+
+14. Hosszú lejáratú kötelezettségek állomány változása (±)
+
+15. Tagokkal szembeni kötelezettségek állomány változása (±)
+
+16. Szállítói kötelezettség állomány változása (±)
+
+17. Hitelfelvétel, kapott kölcsönök (+)
+
+18. Hitel-, kölcsön-visszafizetés (-)
+
+19. Egyéb azonosítatlan (függő) befizetések állományváltozása (±)
+
+20. Egyéb rövid lejáratú kötelezettség állomány változása (±)
+
+21. Hosszú lejáratú bankbetétek elhelyezése (-)
+
+22. Hosszú lejáratú bankbetétek megszüntetése (+)
+
+23. Aktív időbeli elhatárolások állomány változása (±)
+
+24. Passzív időbeli elhatárolások állomány változása (±)
+
+25. Fedezeti céltartalékképzés (+)
+
+26. Fedezeti céltartalékba átcsoportosítás likviditási és kockázati céltartalékból (+)
+
+27. Fedezeti céltartalékba átcsoportosítás tartaléktőkéből (+)
+
+28. Más pénztártól átlépő pénztártagok áthozott tagi követelése (+)
+
+29. Likviditási és kockázati céltartalékba átcsoportosítás fedezeti tartalékból (-)
+
+30. Más pénztárba átlépő pénztártagok átvitt tagi követelése (-)
+
+31. Társadalombiztosítási nyugdíjrendszerbe visszalépő pénztártag miatt fedezeti céltartalék felhasználása (-)
+
+32. Tagoknak, kedvezményezetteknek visszatérítés fedezeti céltartalékból (-)
+
+33. Fedezeti céltartalék felhasználás szolgáltatásnyújtásra (-)
+
+34. Egyéb fedezeti céltartalék állományváltozás (±)
+
+35. Likviditási és kockázati céltartalékképzés (+)
+
+36. Likviditási és kockázati céltartalékba átcsoportosítás fedezeti céltartalékból (+)
+
+37. Likviditási és kockázati céltartalékba átcsoportosítás tartaléktőkéből (+)
+
+38. Likviditási és kockázati céltartalékból átcsoportosítás fedezeti tartalékba (-)
+
+39. Likviditási és kockázati céltartalékból átcsoportosítás tartaléktőkébe (-)
+
+40. Egyéb likviditási és kockázati céltartalék állományváltozás (±)
+
+41. Pénzeszköz változás
+
+41.1. Készpénz állomány változása (forint- és valutapénztár)
+
+41.2. Számlapénz (pénztári elszámolási számla, éven belüli lejáratú forint és deviza betétszámlák, egyéb elkülönített betétszámlák) állomány változása
+
+[^224]: A 3. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
