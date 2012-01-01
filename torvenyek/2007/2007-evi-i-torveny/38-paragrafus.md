@@ -2,11 +2,11 @@
 
 38. § (1) Beutazási és tartózkodási tilalmat kell elrendelni azzal szemben,
 
-a) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítésére a Magyar Köztársaság nemzetközi jogi kötelezettséget vállalt, vagy
+a) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítésére Magyarország nemzetközi jogi kötelezettséget vállalt, vagy
 
 b) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítéséről az Európai Unió Tanácsa döntött.
 
-(2) A beutazási és tartózkodási tilalmat az ismeretlen helyen, illetve nem a Magyar Köztársaság területén tartózkodó személlyel szemben az eljáró hatóság határozattal rendeli el.
+(2) A beutazási és tartózkodási tilalmat az ismeretlen helyen, illetve nem Magyarország területén tartózkodó személlyel szemben az eljáró hatóság határozattal rendeli el.
 
 (3) Az idegenrendészeti kiutasítással együtt elrendelendő beutazási és tartózkodási tilalmat az eljáró hatóság a kiutasításról rendelkező határozatában rendeli el.
 

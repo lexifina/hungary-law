@@ -14,4 +14,4 @@ f) az egyéni vállalkozók nyilvántartásából,
 
 g) az ingatlan-nyilvántartásból.
 
-(2) Az (1) bekezdés d) pontjában meghatározott nyilvántartásból az eljáró hatóság csak akkor igényelhet adatot, ha az EGT-állampolgárt vagy a családtagot a Magyar Köztársaság más elbánásban részesíti, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
+(2) Az (1) bekezdés d) pontjában meghatározott nyilvántartásból az eljáró hatóság csak akkor igényelhet adatot, ha az EGT-állampolgárt vagy a családtagot Magyarország más elbánásban részesíti, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.

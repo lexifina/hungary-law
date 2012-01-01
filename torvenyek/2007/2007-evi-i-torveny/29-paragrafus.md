@@ -4,4 +4,4 @@ a) a vele együtt tartózkodó családtagjának a halálát,
 
 b) a névváltoztatást,
 
-ha a haláleset vagy a névváltoztatást eredményező tény a Magyar Köztársaság területén kívül következett be.
+ha a haláleset vagy a névváltoztatást eredményező tény Magyarország területén kívül következett be.

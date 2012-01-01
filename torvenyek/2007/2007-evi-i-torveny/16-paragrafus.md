@@ -2,13 +2,13 @@
 
 16. § (1) Állandó tartózkodásra jogosult
 
-a) az az EGT-állampolgár, aki öt éven át megszakítás nélkül, jogszerűen a Magyar Köztársaság területén tartózkodott,
+a) az az EGT-állampolgár, aki öt éven át megszakítás nélkül, jogszerűen Magyarország területén tartózkodott,
 
-b) az a családtag, aki öt éven át megszakítás nélkül, jogszerűen a Magyar Köztársaság területén tartózkodott,
+b) az a családtag, aki öt éven át megszakítás nélkül, jogszerűen Magyarország területén tartózkodott,
 
-c) az a személy, aki az EGT-állampolgárra vagy a magyar állampolgárra tekintettel fennmaradó tartózkodási joggal rendelkezik, és öt éven át megszakítás nélkül, jogszerűen a Magyar Köztársaság területén tartózkodott, valamint
+c) az a személy, aki az EGT-állampolgárra vagy a magyar állampolgárra tekintettel fennmaradó tartózkodási joggal rendelkezik, és öt éven át megszakítás nélkül, jogszerűen Magyarország területén tartózkodott, valamint
 
-d) az állandó tartózkodásra jogosult szülőnek a Magyar Köztársaság területén született gyermeke.
+d) az állandó tartózkodásra jogosult szülőnek Magyarország területén született gyermeke.
 
 (2) Állandó tartózkodásra jogosult
 
@@ -16,4 +16,4 @@ a) a magyar állampolgár családtagja – a házastárs kivételével –, ha m
 
 b) a magyar állampolgár házastársa, feltéve, hogy a házasságot a kérelem benyújtását megelőzően legalább két éve megkötötték, és azóta életközösségük folyamatosan fennáll.
 
-(3) Ha az EGT-állampolgár vagy a családtag a Magyar Köztársaság területén tartózkodási jogának gyakorlásával felhagyott, és a Magyar Köztársaság területére három hónapot meghaladó időre visszatér, az állandó tartózkodási jog megszerzéséhez szükséges időtartam újrakezdődik.
+(3) Ha az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, és Magyarország területére három hónapot meghaladó időre visszatér, az állandó tartózkodási jog megszerzéséhez szükséges időtartam újrakezdődik.

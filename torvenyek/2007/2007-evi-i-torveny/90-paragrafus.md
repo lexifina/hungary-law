@@ -1,6 +1,6 @@
 90. § (1) A gyülekezési jogról szóló 1989. évi III. törvény (a továbbiakban: Gytv.) 5. §-a helyébe a következő rendelkezés lép:
 
-5. § „A rendezvény szervezője az lehet, aki
+„5. § „A rendezvény szervezője az lehet, aki
 
 a) magyar állampolgár,
 

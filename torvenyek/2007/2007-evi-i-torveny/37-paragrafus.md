@@ -1,6 +1,6 @@
 37. § (1) Visszairányítás elrendelése esetén a visszairányított személy – a (2) bekezdésben foglaltak kivételével – köteles a tovább- vagy visszainduló járművön tartózkodni vagy a visszaszállítására köteles szállító vállalat egy másik induló járatára átszállni.
 
-(2) A visszairányított személy a visszairányítás végrehajtásáig, de legfeljebb hetvenkét óráig köteles a határforgalmat ellenőrző hatóság rendelkezése szerint a Magyar Köztársaság határterületén kijelölt helyen tartózkodni, ha
+(2) A visszairányított személy a visszairányítás végrehajtásáig, de legfeljebb hetvenkét óráig köteles a határforgalmat ellenőrző hatóság rendelkezése szerint Magyarország határterületén kijelölt helyen tartózkodni, ha
 
 a) a visszairányítás az (1) bekezdés szerint nem hajtható végre, vagy
 

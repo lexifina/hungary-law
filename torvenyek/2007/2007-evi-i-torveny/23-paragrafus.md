@@ -2,4 +2,4 @@
 
 (2) A magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja tartózkodási kártyájának érvényességi ideje öt év.
 
-(3) A tartózkodási kártya érvénytelen, ha birtokosa a Magyar Köztársaság területén a tartózkodási joga gyakorlásával felhagyott, vagy a tartózkodási joga megszűnt.
+(3) A tartózkodási kártya érvénytelen, ha birtokosa Magyarország területén a tartózkodási joga gyakorlásával felhagyott, vagy a tartózkodási joga megszűnt.

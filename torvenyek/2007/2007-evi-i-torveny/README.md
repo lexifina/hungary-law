@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-1-00-00
 | 2011-05-20 | 2010. évi CXXXV. törvény | 2007-1-00-00.12 |
 | 2011-08-01 | 2011. évi CV. törvény | 2007-1-00-00.13 |
 | 2011-10-11 | 2010. évi XL. törvény | 2007-1-00-00.14 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2007-1-00-00.15 |

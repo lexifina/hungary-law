@@ -2,7 +2,7 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1) A Magyar Köztársaság az e törvényben foglaltak szerint biztosítja a szabad mozgás és tartózkodás jogának gyakorlását
+1. § (1) Magyarország az e törvényben foglaltak szerint biztosítja a szabad mozgás és tartózkodás jogának gyakorlását
 
 a) a magyar állampolgár kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam állampolgárának, továbbá az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személynek (a továbbiakban: EGT-állampolgár),
 

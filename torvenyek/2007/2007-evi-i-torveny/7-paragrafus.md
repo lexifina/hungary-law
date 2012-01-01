@@ -2,7 +2,7 @@
 
 (2) A magyar állampolgárnak az a családtagja is jogosult a három hónapot meghaladó tartózkodásra, aki vagy akire nézve a magyar állampolgár
 
-a) elegendő forrással rendelkezik ahhoz, hogy tartózkodása ne jelentsen indokolatlan terhet a Magyar Köztársaság szociális ellátórendszerére, és
+a) elegendő forrással rendelkezik ahhoz, hogy tartózkodása ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére, és
 
 b) külön jogszabályban meghatározottak szerint biztosítási jogviszony keretében jogosult az egészségbiztosítási szolgáltatások igénybevételére, vagy azok fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik.
 
