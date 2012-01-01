@@ -40,7 +40,7 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 1. Hagyatéki ügy 2. Értékpapír- és okirat semmissé nyilvánítási ügy 3. Zálogjogi nyilvántartással összefüggő ügy 4. Szakértői kirendelés 5. Előzetes bizonyítás 6. Bejegyzett élettársi kapcsolat megszüntetése 7. Záradéki tanúsítványok készítése során közreműködés megtagadása 8. Gépjármű zálognyilvántartás 9/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése 9/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése 10. Európai fizetési meghagyásos ügy 11. Összesen
 
-0M32128_2
+1M41338M_2
 
 | Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
@@ -124,7 +124,7 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 | A hónap végén folyamatban maradt ügyek száma |  |  |  |
 
-| Az ügyekből | megyei bírósági | végrehajtónak átadva |  |  |  |
+| Az ügyekből | törvényszéki | végrehajtónak átadva |  |  |  |
 
 | önálló bírósági |  |  |  |
 
@@ -132,10 +132,10 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 | A főkövetelés összege az elrendelt végrehajtási ügyekben (Ft)* |  |
 
-| A főkövetelés összege a megyei bírósági végrehajtónak átadott ügyekben (Ft)* |  |
+| A főkövetelés összege a törvényszéki végrehajtónak átadott ügyekben (Ft)* |  |
 
 | A főkövetelés összege az önálló bírósági végrehajtónak átadott ügyekben (Ft)* |  |
 
 * Azokban az esetekben, amelyeknél egyidejűleg vannak folyamatban az egyetemleges felelős adóstársak elleni végrehajtások, a pénzkövetelést csak egy alkalommal kell feltüntetni.
 
-[^92]: Az 5. számú melléklet a 28/2010. (XII. 31.) KIM rendelet 1. §-ával megállapított szöveg.
+[^92]: Az 5. számú melléklet a 28/2010. KIM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 7. § e) pontja szerint módosított szöveg.
