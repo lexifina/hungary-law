@@ -37,3 +37,7 @@ d) törvényben kihirdetett nemzetközi szerződésben vagy törvényben meghat�
 a) az adó különös szabályok szerinti megállapítása alá tartozó gépjárművel azonos gyártmányú, típusú, változatú és kivitelű gépjármű, amelyet az adó különös szabályok szerinti megállapítása alá tartozó gépjármű forgalomba helyezésének időszakában új állapotban vezettek be a belföldi piacra, vagy
 
 b) azonos gépjármű vagy arra vonatkozó adatok hiányában az adó különös szabályok szerinti megállapítása alá tartozó gépjárműhöz az a) pontban felsorolt ismérveket tekintve hasonló gépjármű.
+
+14. elektronikus eljárás: a vámhatóság által üzemeltetett informatikai rendszeren vagy a központi elektronikus szolgáltató rendszeren (ügyfélkapun) keresztül kezdeményezett, az adó megállapítására irányuló elsőfokú adóigazgatási eljárás.
+
+15. gépjárműflotta-üzemeltető: az az Európai Gazdasági Térségben székhellyel rendelkező, gépjármű-bérbeadással foglalkozó személy, szervezet, amely tárgyév január 1-jén legalább 100 darab, külföldi hatósági jelzéssel ellátott személygépkocsi tulajdonosa, üzembentartója és a bérbeadást megelőző utolsó lezárt üzleti éve árbevételének legalább 75% -a gépjármű bérbeadásból, lízingbeadásból származik.

@@ -11,3 +11,5 @@ b) a gépjármű Közösségen belüli beszerzése,
 c) a gépjármű átalakítása,
 
 feltéve, hogy annak közvetlen következményeként a gépjárművet forgalomba helyezik.
+
+(3) Adókötelezettséget keletkeztet a flotta-üzemeltető személygépkocsijának belföldi illetőségű személy részére történő bérbeadása.

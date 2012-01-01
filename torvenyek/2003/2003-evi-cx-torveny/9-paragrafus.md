@@ -17,3 +17,7 @@ a) a gépjármű rendszáma, alvázszáma, motorszáma;
 b) a forgalomba helyezés időpontja.
 
 (7) Az e törvényben nem szabályozott, az adózással kapcsolatos egyéb eljárásban az Art. rendelkezéseit kell alkalmazni.
+
+(8) Adóigazgatási eljárásban képviselőként vámjogi képviselőként eljáró személy is jogosult eljárni.
+
+(9) Az e törvény hatálya alá tartozó személyek vámazonosító szám megállapításával összefüggő nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. Az említett eljárásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
