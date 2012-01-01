@@ -1,24 +1,31 @@
-40. § (1)[^37]
+## 39. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 44. § (2) bekezdés b) pontja az alábbi be) alponttal egészül ki:
 
-(2)[^38]
+## (A miniszter az egészségügyért való felelőssége körében működteti az egészségügyi ellátórendszert, ennek keretében kidolgozza)
 
-(3)[^39]
+## „be) az egészségügyi beruházások helye kijelölésére, az egészségügyi fejlesztési tervezés rendjére, valamint az egészségügyi beruházások és felújítások rendjére, továbbá az egészségügyi létesítmények tervezésére vonatkozó egységes szabályokat.”
 
-(4)[^40]
+40. § (1)[^12]
 
-(5)[^41]
+(2) Az R11. jelenlegi 11. §-a kiegészül a következő (2) bekezdéssel és a jelenlegi bekezdés megjelölése (1) bekezdésre változik:
 
-(6)[^42]
+## „(2) A megyei kormányhivatal közreműködhet a kormánymegbízottnak a megyei intézményfenntartó központokról, valamint a megyei önkormányzatok konszolidációjával, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egészségügyi intézményeinek átvételével összefüggő egyes kormányrendeletek módosításáról szóló 258/2011. (XII. 7.) Korm. rendeletben meghatározott feladatai ellátásában.”
 
-(7)[^43]
+(3)[^13]
 
-(8)[^44]
+(4)[^14]
 
-[^37]: A 40. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^38]: A 40. § (2) bekezdése a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
-[^39]: A 40. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: A 40. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: A 40. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^42]: A 40. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^43]: A 40. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^44]: A 40. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(5)[^15]
+
+(6)[^16]
+
+(7)[^17]
+
+(8)[^18]
+
+[^12]: A 40. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 40. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 40. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 40. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 40. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 40. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 40. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

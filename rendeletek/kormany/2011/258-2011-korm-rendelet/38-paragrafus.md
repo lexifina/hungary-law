@@ -1,3 +1,3 @@
-38. §[^35]
+## 37. §[^11]
 
-[^35]: A 38. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^11]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,1 @@
-4. §[^4]
-
-[^4]: A 4. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+## 3. § A megyei intézményfenntartó központ szervezeti és működési szabályzatát a közigazgatás-szervezésért felelős miniszter (a továbbiakban: miniszter) a kormánymegbízott javaslata alapján normatív utasításban adja ki.

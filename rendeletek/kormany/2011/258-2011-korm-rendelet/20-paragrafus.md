@@ -1,3 +1,31 @@
-20. §[^19]
+20. § (1) A 19. § szerinti eljárás során a kapacitást és az ahhoz tartozó ellátási területet
 
-[^19]: A 20. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+a) a (4) és (5) bekezdésben meghatározott esetek kivételével a Vhr. 2. mellékletében meghatározott szakmánként,
+
+b) egészségügyi szolgáltatónként,
+
+c) a Törvény 7. § (2) bekezdés a) pontja alapján az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) 4/A. § (3) bekezdésében foglalt szempontok figyelembevételével,
+
+d) a Törvény 7. § (3) bekezdésében meghatározott szempontok figyelembevételével,
+
+e) valamennyi egészségügyi szolgáltató tekintetében egyedi indokolással ellátva,
+
+f) a (2)–(10) bekezdésekben meghatározottaknak megfelelően
+
+kell megállapítani.
+
+(2) A 19. § alapján felosztásra kerülő fekvőbeteg-szakellátási kapacitások mennyisége nem haladhatja meg a 2011. december 31-én finanszírozási szerződéssel lekötött, valamint a finanszírozási szerződéssel még le nem kötött, de már befogadott (ideértve az előzetesen befogadott) fekvőbeteg-szakellátási kapacitások összességét. A döntés során az eljárás megindításakor folyamatban lévő kapacitás-átcsoportosítási és többletkapacitás-befogadási kérelmekben, illetve pályázatokban foglaltakra tekintettel kell lenni. A felosztásra nem kerülő kapacitások az Eftv. szerinti tartalék részét képezik.
+
+(3) A felosztásra kerülő fekvőbeteg-szakellátási kapacitások jelenlegi szakmai összetétele, ellátási formája megváltoztatható, azzal, hogy a felosztás során nem lehet a krónikus fekvőbeteg-szakellátási kapacitást aktív fekvőbeteg-szakellátási kapacitásra változtatni, illetve ellátási forma váltásakor irányadó a Vhr.-ben meghatározott arányszám, annak hiányában az értékarány megtartása kötelező.
+
+(4) Azon ellátások esetében, amelyek a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény alapján csak térségi várólista alapján vehetők igénybe, egy adott térségben valamennyi ilyen ellátást nyújtó egészségügyi szolgáltatónak az adott ellátás tekintetében az egész térséget kell ellátási területként megállapítani.
+
+(5) Az intenzív ellátás, a PIC és a sürgősségi ellátás esetében – a magasabb progresszivitási szint kivételével – a Törvény 7. § (3) bekezdés c) pontja szerinti követelményt nem kell alkalmazni, ezen esetekben az ellátási területnek meg kell egyeznie az adott egészségügyi szolgáltató számára az aktív fekvőbeteg-szakellátásban megállapított legnagyobb területet lefedő ellátási területtel.
+
+(6) A Törvény 7. § (3) bekezdés b) pontja szerinti követelményt nem kell alkalmazni azon esetekben, amelyek tekintetében a Vhr. az ellátási területnek a szakmánkénti megállapítása helyett az ellátásonkénti megállapítását írja elő.
+
+(7) A Törvény 7. § (3) bekezdés c) pontja szerinti követelményt a (4) bekezdésben meghatározott ellátások ellátási területének megállapítása során nem kell alkalmazni.
+
+(8) A Törvény 7. § (3) bekezdés g) pontjának alkalmazása során figyelembe kell venni az adott szakmában rendelkezésre álló összes kapacitás mennyiségét és a szolgáltatók számát, az ellátandó területen élő lakosság arányával összehasonlításban. Egy adott szakmában az összlakosság arányához viszonyítottan országos átlagot kell képezni, majd a szolgáltatók által ellátandó terület nagyságát ezen országos átlag figyelembevételével kell megállapítani.
+
+(9) A Törvény 7. § (3) bekezdés h) pontjának alkalmazása során a kapacitás progresszivitási szintek szerinti megoszlásának megállapításánál az OEP által megadott, a beavatkozásokat és a progresszivitás szerint differenciált betegforgalmi adatokat kell figyelembe venni.

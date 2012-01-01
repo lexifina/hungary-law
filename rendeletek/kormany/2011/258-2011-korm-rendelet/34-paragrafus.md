@@ -1,3 +1,5 @@
-34. §[^31]
+## 33. § A helyi önkormányzatok címzett és céltámogatása felhasználásának részletes szabályairól szóló 19/2005. (II. 11.) Korm. rendelet a következő 29. §-sal egészül ki:
 
-[^31]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## „29. § (1) Ahol e rendelet önkormányzatot, fenntartót, kötelezettet említ, azon a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: Törvény) szerint átvett intézmény tekintetében a jogok és kötelezettségek az állami tulajdonba került intézmények fenntartóját illetik meg, illetve terhelik.
+
+## (2) Amennyiben az önkormányzati egészségügyi intézmény tulajdonjoga – melyhez 2012. január 1-jét megelőző döntésből eredően egészségügyi gép-műszer beszerzéséhez céltámogatásban részesült – a Törvény alapján átadásra kerül az állam részére, az átadást követően a beruházás megvalósítására a fenntartó szerv költségvetésében e célra elkülönített támogatás felhasználására az intézményfenntartó lesz jogosult.”

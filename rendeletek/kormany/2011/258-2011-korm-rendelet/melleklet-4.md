@@ -34,6 +34,6 @@
 
 ## c) a hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekekkel és tanulókkal összefüggő statisztikai adatokat.”
 
-4. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^49]
+4. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^21]
 
-[^49]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

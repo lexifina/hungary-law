@@ -1,3 +1,3 @@
-31. §[^28]
+## 30. §[^8]
 
-[^28]: A 31. § a 14. § (2) bekezdése alapján 2012. január 1-jén lép hatályba.
+[^8]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
