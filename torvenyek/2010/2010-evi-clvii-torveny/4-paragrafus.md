@@ -4,4 +4,4 @@
 
 (3) Az elektronikus adatfeldolgozást végző adatfeldolgozó az elektronikus adatfeldolgozás során bekövetkezett biztonsági eseményekről köteles az érintett adatkezelőt tájékoztatni.
 
-(4) Ha meghatározott, elektronikus adatfeldolgozást végző adatfeldolgozó megbízása a 2. § (2) bekezdése szerint kötelező, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter (a továbbiakban: miniszter) az elektronikus adatfeldolgozási tevékenység ellátásának finanszírozására közszolgáltatási szerződést köt az adatfeldolgozóval. A közszolgáltatási szerződés alapján az elektronikus adatfeldolgozási tevékenység ellenértékét a miniszter viseli. A közszolgáltatási szerződés egyebekben nem érinti az adatkezelőnek és az adatfeldolgozónak az adatfeldolgozással kapcsolatos jogait és kötelezettségeit, valamint az adatfeldolgozással kapcsolatos, a személyes adatok védelmére vonatkozó törvényi szabályok szerinti felelősségét.
+(4)
