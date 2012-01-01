@@ -9,11 +9,3 @@ b) 71. § (2) bekezdésében a „gyámul” szövegrész helyébe a „családb
 c) 75. § b) pontjában és 75/A. § b) pontjában a „gyámjául” szövegrész helyébe a „családbafogadó gyámjául” szöveg
 
 lép.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
