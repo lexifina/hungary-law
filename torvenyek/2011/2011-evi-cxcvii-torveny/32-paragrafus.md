@@ -3,3 +3,5 @@
 (A felszámolás elrendeléséről a bíróság értesíti)
 
 „i) az alapítási, illetve tevékenységi engedélyt kiadó hatóságot, amennyiben az adós alapítási vagy tevékenységi engedélyhez kötött tevékenységet is folytat.”
+
+33 – 60. §

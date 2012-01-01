@@ -1,3 +1,0 @@
-39. § A Cstv. 42. §-a helyébe a következő rendelkezés lép:
-
-„42. § Az egyezségi tárgyalásra a felszámoló jelentést készít, amely összegezi az adós vagyoni helyzetére vonatkozó adatokat, a számviteli jogszabályok szerinti felosztható vagyont, az egyes hitelezői csoportok követeléseit, és külön tájékoztatást ad az 57. § (1) bekezdés a) és c) pontja szerinti eddigi és várható követelésekről, valamint a számviteli törvény szerinti függő követelésekről és kötelezettségekről is.”

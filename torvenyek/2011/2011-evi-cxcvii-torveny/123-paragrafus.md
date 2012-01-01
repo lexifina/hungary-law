@@ -1,3 +1,0 @@
-123. § A Ctv. 74. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Amennyiben egyszerűsített eljárásban bejegyzett cég vonatkozásában azért indul törvényességi felügyeleti eljárás, mert a bejegyzési kérelemben szereplő adat, amelynek bejegyzését az adott cégformára vonatkozóan e törvény előírja, illetve a létesítő okirat, valamint a bejegyzési kérelem alapjául szolgáló, a 3. számú mellékletben felsorolt, kötelezően, illetve szükség szerint csatolandó egyéb okirat nem felelt meg a jogszabályok rendelkezéseinek, a cégbíróság a jogi képviselővel szemben a 34. § (2) bekezdésében foglaltakat alkalmazza.”

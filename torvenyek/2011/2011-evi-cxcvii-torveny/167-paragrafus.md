@@ -7,11 +7,3 @@
 (3) A 6. § (3) bekezdés 2012. július 1-jén lép hatályba.
 
 (4) A 109. § (1) és (4) bekezdése, valamint a 141. § b) és i) pontja 2013. február 1-jén lép hatályba.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

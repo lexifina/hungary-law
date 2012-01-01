@@ -1,3 +1,0 @@
-105. § A Ctv. 18. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A közzétételi költségtérítést külön jogszabályban meghatározott módon kell megfizetni az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára. A közzétételi költségtérítés a központi költségvetés központosított bevételének minősül. A közzétételi költségtérítés befizetését a céginformációs szolgálat ellenőrzi. Ha a közzétételi költségtérítés befizetése nem vagy nem megfelelő összegben történt meg, erről a céginformációs szolgálat 30 napon belül értesíti az állami adóhatóságot. Ebben az esetben a céget úgy kell tekinteni, mint amely a letétbe helyezési és a közzétételi kötelezettségnek nem tett eleget.”
