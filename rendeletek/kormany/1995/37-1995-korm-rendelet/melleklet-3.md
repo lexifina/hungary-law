@@ -1,8 +1,8 @@
 ## Kitöltési útmutató az óvóhelykataszterhez
 
-## Nemzetközi egyezményekben, a Magyar Köztársaság Alkotmányában, honvédelmi alapelveinkben rögzített kötelezettség az elemi csapások, az ipari vagy egyéb szerencsétlenségek (katasztrófák) hatásai következményeinek csökkentése, a veszélyhelyzetek elhárítása, valamint az országot ért fegyveres támadás esetén a lakosság életének, anyagi javainak, a nemzet kulturális értékeinek védelme.
+## Nemzetközi egyezményekben, Magyarország Alaptörvényében, honvédelmi alapelveinkben rögzített kötelezettség az elemi csapások, az ipari vagy egyéb szerencsétlenségek (katasztrófák) hatásai következményeinek csökkentése, a veszélyhelyzetek elhárítása, valamint az országot ért fegyveres támadás esetén a lakosság életének, anyagi javainak, a nemzet kulturális értékeinek védelme.
 
-## Az óvóhelyi védelem tervezése, szervezése érdekében minden meglévő, és az élet, az anyagi javak, kulturális értékek védelme szempontjából figyelembe vehető mélyépítményről egyedi nyilvántartást kell vezetni.
+## Az óvóhelyi védelem tervezése, szervezése érdekében minden meglévő, és az élet, az anyagi javak, kulturális értékek védelme szempontjából figyelembe vehető mélyépítményről egyedi nyilvántartást kell vezetni.[^11]
 
 ## Általános tudnivalók
 
@@ -18,9 +18,9 @@
 
 ## A jövőben várhatóan jelentősen megnő a szerepe a kisközösségi, elsősorban a családi óvóhelyek építésének. A saját célra, magánvállalkozásban megvalósuló létesítmények védelmi tulajdonságairól, a tulajdonos személyétől független, egyszerűsített nyilvántartást kell vezetni (P, I, R jelű adatlapok).
 
-## Az óvóhelykataszter nyilvántartása a Magyar Köztársaság védelmi képességével összefüggő adat, ezért azt mindenkor az adatvédelmi előírásokra figyelemmel, felelősséggel kell vezetni.
+## Az óvóhelykataszter nyilvántartása Magyarország védelmi képességével összefüggő adat, ezért azt mindenkor az adatvédelmi előírásokra figyelemmel, felelősséggel kell vezetni.
 
-## A honvédelmi törvényből eredően, a lakosságvédelem részeként a szükséges védőkapacitás biztosítása, a védelmi létesítmények kezelése, nyilvántartásának vezetése mind béke-, mind minősített időszak idején, személyes vagyoni szolgáltatásos honvédelmi, polgári védelmi kötelezettség.
+## A honvédelmi törvényből eredően, a lakosságvédelem részeként a szükséges védőkapacitás biztosítása, a védelmi létesítmények kezelése, nyilvántartásának vezetése mind béke-, mind minősített időszak idején, személyes vagyoni szolgáltatásos honvédelmi, polgári védelmi kötelezettség.[^12]
 
 ## Az óvóhely dokumentációja
 
@@ -259,3 +259,6 @@
 ## A felsoroltakon túlmenően rajzmellékletként kell kezelni a létesítmény egyéb, gépeivel, berendezéseivel, felszereléseivel kapcsolatos beépítési terveket, üzemeltetésükkel összefüggő vázlatokat, gépkönyveket.
 
 3. számú melléklet a 37/1995. (IV. 5.) Korm. rendelethez
+
+[^11]: A Kitöltési útmutató az óvóhelykataszterhez címet követő szöveg a 276/2011. (XII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^12]: Az Általános tudnivalók alcímet követő szöveg a 276/2011. (XII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.

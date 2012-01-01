@@ -36,7 +36,7 @@ Védőlétesítmények jelölései
 
 (1) A nyilvántartott óvóhelyek bejáratát, a megközelítési útvonalat el kell látni a polgári védelem nemzetközi egyezményes jelével, valamint azonosító táblával.
 
-(2) A bejárathoz helyezendő jelzés:[^12]
+(2) A bejárathoz helyezendő jelzés:[^14]
 
 30 X 30 cm méretű, négyzetes narancsszínű mezőben 20 cm oldalhosszúságú kék háromszög
 
@@ -56,4 +56,4 @@ mezőben kék színű háromszög, telt, iránytmutató nyíllal
 
 (5) A kulturális javak védelmére is szolgáló létesítmények megjelölésénél — a fentieken túlmenően — alkalmazni kell az 1957. évi 14. törvényerejű rendelet előírásait, az UNESCO vonatkozó ajánlásait.
 
-[^12]: Lásd MK 1995. 27. szám 1329. oldal
+[^14]: Lásd MK 1995. 27. szám 1329. oldal

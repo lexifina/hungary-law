@@ -118,6 +118,6 @@
 
 ## Az a pont, ahol az óvóhely közművei (víz, csatorna, elektromos, távközlés stb.) közvetlenül a közüzemi vagy egyéb hálózatra rákötésre kerül.
 
-5. számú melléklet a 37/1995. (IV. 5.) Korm. rendelethez[^11]
+5. számú melléklet a 37/1995. (IV. 5.) Korm. rendelethez[^13]
 
-[^11]: Lásd MK 1995. 27. szám 1326-1328. oldal
+[^13]: Lásd MK 1995. 27. szám 1326-1328. oldal
