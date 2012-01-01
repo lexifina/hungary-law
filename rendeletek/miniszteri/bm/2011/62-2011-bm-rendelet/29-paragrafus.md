@@ -1,0 +1,1 @@
+## 28. § A polgári védelmi szervezetek alkalmazását követően 30 napon belül gondoskodni kell a központi készletből átadott egyéni védőeszközök karbantartásáról és az elhasznált, megsemmisült anyagok, eszközök pótlásáról. A karbantartás és pótlás költségeit a polgári védelmi szervezet alkalmazásának elrendelője viseli.

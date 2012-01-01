@@ -1,0 +1,1 @@
+## 32. § A technikai eszközökre vonatkozóan az igazgatóság és a kirendeltség igénybevételi javaslatot készít. A javaslat készítése során figyelembe veszi a Kat. 71. §-a alapján bekért és a katonai igazgatás területileg illetékes szervével egyeztetett adatokat.

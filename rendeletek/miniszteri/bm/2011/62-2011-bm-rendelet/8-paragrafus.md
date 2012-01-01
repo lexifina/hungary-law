@@ -1,0 +1,1 @@
+## 7. § A bv. szervek személyi és fogvatartotti állományának katasztrófák elleni védekezése során, az egyéni védő- és a védekezéshez szükséges speciális eszközökkel történő ellátása, élelmezése a védelmi bizottságokkal való együttműködésben történik, különleges jogrendben a védelmi bizottság elnöke, valamint a miniszteri biztos rendelkezésének megfelelően.

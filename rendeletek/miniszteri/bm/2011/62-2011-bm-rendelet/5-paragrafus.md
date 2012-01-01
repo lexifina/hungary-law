@@ -1,0 +1,5 @@
+## 4. A büntetés-végrehajtási szervezet katasztrófavédelmi feladatai
+
+5. § (1) A büntetés-végrehajtás országos parancsnoka a büntetés-végrehajtási intézetek, intézmények (a továbbiakban: bv. szervek) parancsnokain, igazgatóin keresztül irányítja és ellenőrzi a katasztrófák elleni védekezésben azon tervezési, szervezési, összehangolási, végrehajtási, irányítási, létesítési, működtetési, tájékoztatási, riasztási, adatközlési és ellenőrzési tevékenységek összességét, amelyek a katasztrófa kialakulásának megelőzését, a közvetlen veszélyek elhárítását, az előidéző okok megszüntetését, károsító hatásuk csökkentését, a személyi állomány, valamint a fogvatartottak életének és testi épségének védelmét, alapvető életfeltételeinek biztosítását, a mentés végrehajtását, továbbá a helyreállítás feltételeinek megteremtését szolgálják.
+
+(2) A BM OKF koordinálásával a büntetés-végrehajtás országos parancsnoka közreműködik a kritikus infrastruktúra védelem horizontális kritériumrendszerének kialakításában, a beazonosítási folyamatban, ezekhez adatot szolgáltat.

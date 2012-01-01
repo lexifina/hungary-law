@@ -1,0 +1,1 @@
+## 33. § A hivatásos katasztrófavédelmi szerv a polgári védelmi feladatok ellátásához szükséges technikai eszközökre vonatkozó adatokat a katonai igazgatás területileg illetékes szervével évente egyezteti.
