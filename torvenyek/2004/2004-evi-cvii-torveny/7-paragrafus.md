@@ -10,7 +10,7 @@ b) a többcélú kistérségi társulási megállapodásban vagy a társulási t
 
 c) a társulás tagjai egynegyedének – napirendet tartalmazó – indítványára, annak kézhezvételétől számított tizenöt napon belül;
 
-d) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kezdeményezésére, annak kézhezvételétől számított tizenöt napon belül.
+d) a fővárosi és megyei kormányhivatal kezdeményezésére, annak kézhezvételétől számított tizenöt napon belül.
 
 (4) A társulási tanács ülése nyilvános.
 
@@ -20,4 +20,4 @@ a) zárt ülést tart választás, kinevezés, felmentés, vezetői megbízatás
 
 b) zárt ülést rendelhet el a vagyonával való rendelkezés és az általa kiírt pályázat tárgyalásakor, ha a nyilvános tárgyalás üzleti érdeket sértene.
 
-(6) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott tag írja alá. A jegyzőkönyvet a társulási tanács elnöke az ülést követő tizenöt napon belül megküldi a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek és a társulás tagjainak.
+(6) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott tag írja alá. A jegyzőkönyvet a társulási tanács elnöke az ülést követő tizenöt napon belül megküldi a fővárosi és megyei kormányhivatalnak és a társulás tagjainak.

@@ -42,7 +42,7 @@ f) a társulási tanács elnökségének feladatait;
 
 g) a lakosság önszerveződő közösségei tájékoztatásának módját, valamint az együttműködés rendjét;
 
-h) a megyei önkormányzattal, a területfejlesztési tanácsokkal való együttműködés, kapcsolattartás rendjét;
+h) a megyei önkormányzattal, a térségi fejlesztési tanácsokkal való együttműködés, kapcsolattartás rendjét;
 
 i) a társulási tanács és a társulás tagjai, valamint más települési önkormányzatok képviselő-testületei közötti kapcsolat rendszerét, a kölcsönös tájékoztatás, a döntés-előkészítés menetét, az egyes képviselő-testületeket megillető kezdeményezési jogot;
 

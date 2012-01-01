@@ -9506,16 +9506,6 @@ Gánt
 
 |
 
-Kajászó
-
-|
-
-|
-
-|
-
-|
-
 Mány
 
 |
@@ -10476,7 +10466,7 @@ Szabadegyháza
 
 |
 
-Ercsi
+Martonvásári
 
 |
 
@@ -10484,7 +10474,7 @@ Baracska
 
 |
 
-Ercsi
+Martonvásár
 
 |
 
@@ -10503,6 +10493,16 @@ Ercsi
 |
 
 Gyúró
+
+|
+
+|
+
+|
+
+|
+
+Kajászó
 
 |
 
@@ -13064,7 +13064,7 @@ Derecske-Létavértesi
 
 |
 
-Létavértes
+Derecske
 
 |
 

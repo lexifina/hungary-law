@@ -2,7 +2,7 @@
 
 (2) A többcélú kistérségi társulás létrehozásához szükséges, hogy
 
-a) a többcélú kistérségi társulási megállapodást a kistérségbe tartozó települések képviselő-testületeinek több mint a fele, de legalább két képviselő-testület, míg a területfejlesztési feladatok vállalása esetén a kistérségbe tartozó települések képviselő-testületeinek mindegyike (a továbbiakban: a társulás tagja) jóváhagyja;
+a) a többcélú kistérségi társulási megállapodást a kistérségbe tartozó települések képviselő-testületeinek több mint a fele, de legalább két képviselő-testület (a továbbiakban: a társulás tagja) jóváhagyja;
 
 b) a többcélú kistérségi társulási megállapodást jóváhagyó települések együttes lakosságszáma meghaladja a kistérség lakosságszámának 60%-át, illetve 50%-át, ha a társulás tagjainak száma eléri a kistérségbe tartozó települések számának 60%-át;
 
