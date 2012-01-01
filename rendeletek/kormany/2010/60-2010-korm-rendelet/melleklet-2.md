@@ -38,11 +38,11 @@
 
 | 18. |  |  | tűzvédelmi berendezés létesítési és használatbavételi ügyeivel kapcsolatos hatósági eljárások | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 19. |  |  | tűzvédelmi hatósági ügyekben eltérési hatósági eljárások | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 19. |  |  | tűzvédelmi hatósági ügyekben eltérési hatósági eljárások | Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 20. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 21. |  |  | azon beépített tűzoltó berendezés létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amely tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 21. |  |  | azon beépített tűzoltó berendezés létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amely tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 22. |  |  | nyomástartó berendezés, veszélyes folyadéktároló engedélyezésével kapcsolatos hatósági eljárások | Fejér Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
