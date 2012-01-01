@@ -1,6 +1,6 @@
 ## SAFA Földi ellenőrzési jelentés
 
-| Nemzeti Közlekedési Hatóság Légiközlekedési Igazgatóság Magyar Köztársaság SAFA Földi ellenőrzési jelentés Szám: _ _ _ _--_ _ _ _--_ _ _ Forrás: RI Dátum: ___-__-___ Hely: __________ Helyi idő: __-__ Üzemeltető: __ AOC-szám: __________ Állam: __ Üzemeltetés típusa: __________ Útvonal:-ból: __________ Járatszám: __________ Útvonal: -ba/be __________ Járatszám: __________ Bérlő üzemeltető*: _____ A bérbevevő állama*: __________ * (értelemszerűen) A légijármű típusa: __________ Lajstromjel: __________ A légijármű konfigurációja: __________ Gyári száma: __________ Repülőszemélyzet: Szakszolgálati engedélyt kibocsátó állam: ____________________________ Szakszolgálati engedélyt kibocsátó második állam*: ____________________________ * (értelemszerűen) Megállapítások: |
+| Nemzeti Közlekedési Hatóság Légiközlekedési Igazgatóság Magyarország SAFA Földi ellenőrzési jelentés Szám: _ _ _ _--_ _ _ _--_ _ _ Forrás: RI Dátum: ___-__-___ Hely: __________ Helyi idő: __-__ Üzemeltető: __ AOC-szám: __________ Állam: __ Üzemeltetés típusa: __________ Útvonal:-ból: __________ Járatszám: __________ Útvonal: -ba/be __________ Járatszám: __________ Bérlő üzemeltető*: _____ A bérbevevő állama*: __________ * (értelemszerűen) A légijármű típusa: __________ Lajstromjel: __________ A légijármű konfigurációja: __________ Gyári száma: __________ Repülőszemélyzet: Szakszolgálati engedélyt kibocsátó állam: ____________________________ Szakszolgálati engedélyt kibocsátó második állam*: ____________________________ * (értelemszerűen) Megállapítások: |
 
 | Kód / | Std / | Hiv. / | Kat. / | Megállapítás | Részletes leírás |
 
@@ -20,7 +20,7 @@
 
 ## Nemzeti Közlekedési Hatóság
 
-## Magyar Köztársaság
+## Magyarország
 
 |  | Tétel | Ellenőrizve | Megjegyzés |
 
