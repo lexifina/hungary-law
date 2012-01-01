@@ -2,7 +2,7 @@
 
 ## A személyi és tárgyi feltételek teljesítésének, valamint rendelkezésre állásának igazolása
 
-## 5. §[^9] A személyi és tárgyi feltételek teljesítésének igazolása érdekében a szolgáltatási engedély iránti kérelemhez csatolni kell:
+## 5. §[^11] A személyi és tárgyi feltételek teljesítésének igazolása érdekében a szolgáltatási engedély iránti kérelemhez csatolni kell:
 
 a) az engedélyt kérő teljesítőképessége tekintetében:
 
@@ -30,4 +30,4 @@ db) felelősségbiztosítás esetén az első biztosítási díj befizetését i
 
 e) a titkos információgyűjtésre, illetve titkos adatszerzésre felhatalmazott szervezetekkel való együttműködés teljesítésére vonatkozó szolgáltatói nyilatkozatot.
 
-[^9]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 336. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 336. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

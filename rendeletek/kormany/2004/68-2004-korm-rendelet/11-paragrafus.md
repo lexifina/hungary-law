@@ -1,4 +1,4 @@
-## 10/A. §[^26] A Kormány a postai szolgáltatások tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a hírközlési hatóságot jelöli ki.
+## 10/A. §[^28] A Kormány a postai szolgáltatások tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a hírközlési hatóságot jelöli ki.
 
 ## Záró rendelkezések
 
@@ -10,4 +10,4 @@ a) az Európai Parlament és a Tanács 97/67/EK irányelve a közösségi postai
 
 b) az Európai Parlament és a Tanács 2002/39/EK irányelve a 97/67/EK irányelvnek a közösségi postai szolgáltatások verseny számára való további megnyitása tekintetében történő módosításáról.
 
-[^26]: A 10/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 336. § (7) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: A 10/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 336. § (7) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -2,7 +2,7 @@
 
 ## tárgyi feltételei
 
-4. § (1)[^8] Az engedélyt kérőnek kérelmében nyilatkoznia kell arról, hogy
+4. § (1)[^10] Az engedélyt kérőnek kérelmében nyilatkoznia kell arról, hogy
 
 a) milyen tárgyi feltételek állnak rendelkezésére, és
 
@@ -26,4 +26,4 @@ d) Budapest és – Pest megye kivételével – legalább két megye után egy�
 
 e) az ország egész területe után 35 millió forint, amennyiben a szolgáltató a 6. § (1) bekezdésének e) pontjában meghatározott közigazgatási területen
 
-[^8]: A 4. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 338. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 4. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 338. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
