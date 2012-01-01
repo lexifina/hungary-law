@@ -4,4 +4,4 @@
 
 (2) Környezeti veszélyeztetés esetén az ügyész is jogosult keresetet indítani a tevékenységtől való eltiltás, illetőleg a környezetveszélyeztető tevékenységgel okozott kár megtérítése iránt.
 
-(3) Az ügyész törvényességi felügyeleti jogkörében eljárva, a rá vonatkozó jogszabályok alapján közreműködik a környezetvédelmi hatóságok eljárásai és döntései törvényességének biztosításában.
+(3) Az ügyészség az irányadó jogszabályok szerint közreműködik a környezetvédelmi hatóságok eljárásai és döntései törvényességének biztosításában.

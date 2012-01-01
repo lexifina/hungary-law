@@ -24,4 +24,4 @@ b) a felszíni és felszín alatti vizek jó állapota a külön jogszabály sze
 
 (6) Ha a vizek egy elkülönített részére több azonos tárgyú környezeti célkitűzést szolgáló követelmény vonatkozik, akkor a legszigorúbbat kell alkalmazni.
 
-(7) A jó állapot eléréséhez szükséges intézkedéseket vízgyűjtő gazdálkodási tervben kell meghatározni.
+(7) A vizek jó állapotának eléréséhez szükséges intézkedéseket – a Kormány nyilvános egyedi határozatával közzétett – vízgyűjtő-gazdálkodási tervben kell meghatározni.

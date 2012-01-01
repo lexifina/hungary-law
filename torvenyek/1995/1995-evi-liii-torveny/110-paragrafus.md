@@ -134,7 +134,7 @@ kapcsolatos részletes szabályokat.
 
 (11) Felhatalmazást kap a miniszter, hogy a vízgazdálkodásért, a földművelésügyért, valamint az egészségügyért felelős miniszterrel egyetértésben – az ivóvizek, ásvány- és gyógyvizek védelmére vonatkozó területek kivételével – a vízvédelmi szempontból kiemelt védelemben részesítendő felszíni vizeket és azok vízgyűjtő területeinek határait rendeletben állapítsa meg.
 
-(12) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterekkel egyetértésben a vízgyűjtő-gazdálkodási tervet rendelettel hirdesse ki.
+(12)
 
 (13) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg:
 

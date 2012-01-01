@@ -6,7 +6,7 @@
 
 (3) A Kormánynak a Program megújítására irányuló előterjesztés benyújtásakor az Országgyűlés előtt be kell számolnia a Program végrehajtásáról és a végrehajtás során szerzett tapasztalatokról.
 
-(4) A Programban foglaltakat az ország társadalmi-gazdasági tervének [Alkotmány 19. § (3) bek. c) pont] meghatározása, a gazdaságpolitikai döntések kialakítása, a terület- és településfejlesztés, a regionális tervezés, továbbá a nemzetgazdaság bármely ágában megvalósuló állami tervezési és végrehajtási tevékenység során érvényre kell juttatni.
+(4) A Programban foglaltakat a gazdaságpolitikai döntések kialakítása, a terület- és településfejlesztés, a regionális tervezés, továbbá a nemzetgazdaság bármely ágában megvalósuló állami tervezési és végrehajtási tevékenység során érvényre kell juttatni.
 
 (5) A Kormány a Program elkészítésekor fennálló feltételek módosulása, illetve a végrehajtás helyzetének alakulásától függően javaslatot tehet a Program felülvizsgálatára. A felülvizsgálat során a Program tervezésére vonatkozó előírásokat kell alkalmazni.
 

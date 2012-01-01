@@ -72,7 +72,7 @@
 
 32. környezetvédelem: olyan tevékenységek és intézkedések összessége, amelyeknek célja a környezet veszélyeztetésének, károsításának, szennyezésének megelőzése, a kialakult károk mérséklése vagy megszüntetése, a károsító tevékenységet megelőző állapot helyreállítása.
 
-33. téradat: elektronikus formában rendelkezésre álló, a Nemzeti Környezeti Térinformatikai Rendszer létrehozásának és működtetésének szabályairól szóló jogszabályban meghatározott tárgykörbe tartozó, különösen a geodéziai, a természet-, a gazdaság-, a település-, illetve a népességföldrajzi adat, amely közvetlenül vagy közvetve vonatkozik a Magyar Köztársaság területén fekvő helyre vagy földrajzi területre;
+33. téradat: elektronikus formában rendelkezésre álló, a Nemzeti Környezeti Térinformatikai Rendszer létrehozásának és működtetésének szabályairól szóló jogszabályban meghatározott tárgykörbe tartozó, különösen a geodéziai, a természet-, a gazdaság-, a település-, illetve a népességföldrajzi adat, amely közvetlenül vagy közvetve vonatkozik Magyarország területén fekvő helyre vagy földrajzi területre;
 
 34. téradatkészlet: téradatok térinformatikai eszköz útján azonosítható gyűjteménye;
 

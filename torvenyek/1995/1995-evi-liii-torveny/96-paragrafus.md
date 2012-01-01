@@ -1,3 +1,1 @@
-96. § (1)
-
-(2)
+96. § A védett természeti területek természetvédelmi kezeléséért felelős szerveknek – a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.

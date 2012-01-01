@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-53-00-00
 | 2011-04-15 | 2011. évi LXXVII. törvény | 1995-53-00-00.43 |
 | 2011-07-22 | 2011. évi XCV. törvény | 1995-53-00-00.44 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1995-53-00-00.45 |
+| 2012-01-01 | 2011. évi CCI. törvény | 1995-53-00-00.46 |
