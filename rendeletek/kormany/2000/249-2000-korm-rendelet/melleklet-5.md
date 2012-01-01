@@ -122,6 +122,6 @@
 
 | K. Vállalkozási tartalékba helyezendő összeg (G–16–17–J) | 57 |  |  |
 
-5. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^437]
+5. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^472]
 
-[^437]: Az 5. számú melléklet a 307/2002. (XII. 27.) Korm. rendelet 22. §-ának (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 42. § (2) bekezdése és 43. § (8) bekezdése szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 40. § (1)–(2) bekezdését.
+[^472]: Az 5. számú melléklet a 307/2002. (XII. 27.) Korm. rendelet 22. §-ának (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 42. § (2) bekezdése és 43. § (8) bekezdése szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 40. § (1)–(2) bekezdését.

@@ -1,6 +1,6 @@
-## Az önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolások[^440]
+## Az önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolások[^475]
 
-## A)[^441] A normatív hozzájárulások és támogatások, a cél- és címzett támogatás, a központosított előirányzatok elszámolása és a mutatószámok, feladatmutatók állományának alakulása
+## A)[^476] A normatív hozzájárulások és támogatások, a cél- és címzett támogatás, a központosított előirányzatok elszámolása és a mutatószámok, feladatmutatók állományának alakulása
 
 ## A) A normatív hozzájárulások és támogatások, a cél- és címzett támogatás, a központosított előirányzatok elszámolása és a mutatószámok, feladatmutatók állományának alakulása
 
@@ -30,7 +30,7 @@
 
 | Összesen | 9 | 9 | 9 | 9 | 9 | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## B)[^442] A céltámogatás elszámolása
+## B)[^477] A céltámogatás elszámolása
 
 ## B) A cél- és címzett támogatás elszámolása
 
@@ -50,9 +50,9 @@
 
 | Címzett támoga- tások összesen: | 9 | 9 | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## C)[^443]
+## C)[^478]
 
-## D)[^444] Központosított előirányzatok és egyéb kötött felhasználású támogatások elszámolása
+## D)[^479] Központosított előirányzatok és egyéb kötött felhasználású támogatások elszámolása
 
 ## D) Központosított előirányzatok és egyéb kötött felhasználású támogatások elszámolása
 
@@ -68,7 +68,7 @@
 
 | Helyi önkormányzatok által fenntartott, illetve támogatott előadó művészeti szervezetek támogatása összesen |  |  |  |  |  |
 
-## E)[^445]
+## E)[^480]
 
 ## E) A normatív, kötött felhasználású támogatások elszámolása és a mutatószámok, feladatmutatók alakulása
 
@@ -98,9 +98,19 @@
 
 | Állami támogatás összesen | 9 | 9 | 9 | 9 | 9 | 9 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## F)[^446]
+## F)[^481] A helyi önkormányzatok vis maior támogatásának elszámolása
 
-## G)[^447]
+|  |  |  |  | Forintban |
+
+| Megnevezés | Sorszám | A központi költségvetésből rendelkezésre bocsátott összeg | A jogszerűen felhasznált összeg | Előírt visszafizetési kötelezettség összege |
+
+| A | B | C | D | E=C–D |
+
+| 8/2010. (I. 28.) Korm. rendelet alapján |  |  |  |  |
+
+| 9/2011. (II. 15.) Korm. rendelet alapján |  |  |  |  |
+
+## G)[^482]
 
 ## G) A települési önkormányzatok … évi jövedelemkülönbség mérsékléssel való teljes körű elszámolása
 
@@ -124,11 +134,11 @@
 
 | Önkormányzat részére fizetendő összeg |  |  |  |  |
 
-## H)[^448]
+## H)[^483]
 
-## I)[^449]
+## I)[^484]
 
-## J)[^450] Az előző évi (…… év) kötelezettségvállalással terhelt normatív, kötött felhasználású támogatások
+## J)[^485] Az előző évi (…… év) kötelezettségvállalással terhelt normatív, kötött felhasználású támogatások
 
 ## előirányzat-maradványainak elszámolása
 
@@ -142,7 +152,7 @@
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |
 
-## K)[^451]
+## K)[^486]
 
 ## K) Az előző évi (..... év) kötelezettségvállalással terhelt központosított előirányzatok és egyéb kötött felhasználású támogatások előirányzat-maradványainak elszámolása
 
@@ -156,7 +166,7 @@
 
 | Helyi önkormányzatok által fenntartott, illetve támogatott előadó művészeti szervezetek támogatása összesen |  |  |  |  |
 
-## L)[^452]
+## L)[^487]
 
 ## L) A többcélú kistérségi társulások támogatásának jogcím elszámolása, valamint a mutatószámok, feladatmutatók alakulása
 
@@ -172,7 +182,7 @@
 
 | Többcélú kistérségi társulások támogatása összesen |  |  |  |  |  |  |  |  |  |
 
-## M)[^453]
+## M)[^488]
 
 ## M) Segédtábla a többcélú kistérségi társulások támogatásának jogcím elszámolásához és a mutatószámok, feladatmutatók alakulásához
 
@@ -208,7 +218,7 @@
 
 | 11. Többcélú kistérségi társulások támogatása összesen: (01+02+03+04+05+06+07+08+ 09+10) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-9. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^454]
+9. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^489]
 
 Számlakeret-tükör
 
@@ -362,9 +372,9 @@ BEFEKTETETT ESZKÖZÖK
 
 1541. Ingatlanok (földterület nélkül) központi beruházás keretében történő vásárlása, létesítése
 
-1542.[^455] Földterület központi beruházás keretében történő vásárlása
+1542.[^490] Földterület központi beruházás keretében történő vásárlása
 
-1543.[^456] Lakásépítés
+1543.[^491] Lakásépítés
 
 155. Gépek, berendezések és felszerelések központi beruházási kiadási előirányzata
 
@@ -398,9 +408,9 @@ BEFEKTETETT ESZKÖZÖK
 
 164. Koncesszióba adott eszközök értékcsökkenése
 
-165. Vagyonkezelésbe vett eszközök állománya[^457]
+165. Vagyonkezelésbe vett eszközök állománya[^492]
 
-166. Vagyonkezelésbe vett eszközök értékcsökkenése[^458]
+166. Vagyonkezelésbe vett eszközök értékcsökkenése[^493]
 
 167. Vagyonkezelésbe adott eszközök állománya
 
@@ -555,6 +565,8 @@ A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vag
 1986. Állam által belföldre nyújtott hosszú lejáratú hitelek értékvesztése és annak visszaírása (nemzetgazdasági elszámolások)
 
 1987. Állam által külföldre nyújtott hosszú lejáratú hitelek értékvesztése és annak visszaírása (nemzetgazdasági elszámolások)
+
+1988. Hosszú lejáratú betétek értékvesztése és annak visszaírása
 
 199. Befektetett eszközök kiadási és bevételi átvezetési számlája
 
@@ -730,23 +742,31 @@ KÉSZLETEK, KÖVETELÉSEK, ÉRTÉKPAPÍROK
 
 282. Vevők
 
-2821. Belföldi vevők
+2821. Államháztartáson belüli belföldi vevőkövetelések
 
-28211. Előző év(ek)i termékértékesítésből és szolgáltatások nyújtásából származó belföldi követelések
+28211. Előző év(ek)i termékértékesítésből és szolgáltatások nyújtásából származó államháztartáson belüli belföldi követelések
 
-28212. Tárgyévi termékértékesítésből és szolgáltatások nyújtásából származó belföldi követelések
+28212. Tárgyévi termékértékesítésből és szolgáltatások nyújtásából származó államháztartáson belüli belföldi követelések
 
-2822. Európai Uniós tagország szerinti (EU-s) külföldi vevőkövetelések
+2822. Államháztartáson kívüli belföldi vevőkövetelések
 
-28221. Előző év(ek)i termékértékesítésből és szolgáltatások nyújtásából származó EU-s külföldi követelések
+28221. Előző év(ek)i termékértékesítésből és szolgáltatások nyújtásából származó államháztartáson kívüli belföldi követelések
 
-28222. Tárgyévi termékértékesítésből és szolgáltatások nyújtásából származó EU-s külföldi követelések
+28222. Tárgyévi termékértékesítésből és szolgáltatások nyújtásából származó államháztartáson kívüli belföldi követelések
 
-2823. Nem Európai Uniós ország szerinti (nem EU-s) külföldi vevőkövetelések
+2823. Külföldi vevőkövetelések
 
-28231. Előző év(ek)i termékértékesítésből és szolgáltatások nyújtásából származó nem EU-s külföldi követelések
+28231. Európai Uniós tagország szerinti (EU-s) külföldi vevőkövetelések
 
-28232. Tárgyévi termékértékesítésből és szolgáltatások nyújtásából származó nem EU-s külföldi követelések
+282311. Előző év(ek)i termékértékesítésből és szolgáltatások nyújtásából származó EU-s külföldi követelések
+
+282312. Tárgyévi termékértékesítésből és szolgáltatások nyújtásából származó EU-s külföldi követelések
+
+28232. Nem Európai Uniós ország szerinti (nem EU-s) külföldi vevőkövetelések
+
+282321. Előző év(ek)i termékértékesítésből és szolgáltatások nyújtásából származó nem EU-s külföldi követelések
+
+282322. Tárgyévi termékértékesítésből és szolgáltatások nyújtásából származó nem EU-s külföldi követelések
 
 283. Államháztartáson belülre továbbszámlázott (közvetített) szolgáltatáshoz kapcsolódó követelések
 
@@ -846,7 +866,7 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 313. Költségvetési betétkönyvek
 
-314. Elektronikus pénzeszközök
+314. Elektronikus pénz
 
 315. Csekk
 
@@ -886,9 +906,11 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 326. Önkormányzati kiskincstári finanszírozás elszámolási számla
 
-328. Deviza(betét)-számla
+327. Deviza(betét)-számla
 
-329. Deviza árfolyamkülönbözetek
+328. Deviza árfolyam-különbözetek
+
+329. Költségvetési pénzforgalmi számla értékvesztése és annak visszaírása
 
 33. BELFÖLDI ELSZÁMOLÁSI SZÁMLÁK
 
@@ -914,9 +936,9 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 33155. Központosított bevételek beszedése célelszámolási számla
 
-33156. ORFK objektív felelősségen alapuló közigazgatási bírság bevétel célelszámolási számla
-
 33157. PSZÁF felügyeleti bírság célelszámolási számla
+
+3316. Pályázati költségvetési lebonyolítási számla
 
 3319. Különféle elkülönített számlák
 
@@ -1146,7 +1168,11 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 3591. Nemzeti agrárkár-enyhítési lebonyolítási számla
 
-3599. Egyéb különféle lebonyolítási számla
+3592. Bírság beszedési lebonyolítási számla (csak központi költségvetési szervek)
+
+3598. Egyéb különféle lebonyolítási számla
+
+3599. Belföldi idegen pénzeszközök értékvesztése és annak visszaírása
 
 36. NEMZETKÖZI TÁMOGATÁSI PROGRAMOK IDEGEN PÉNZESZKÖZEI
 
@@ -1362,136 +1388,22 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 3686. Egyéb Európai Uniós támogatási programok közösségi forrás számlái
 
-36861. Schengeni Alap közösségi forrás számla
-
-36862. Közösségi kezdeményezések közösségi forrás számlái
-
-368621. INTERREG közösségi forrás számla
-
-368622. EQUAL közösségi forrás számla
-
-36863. Belső politikák jogcímen nyújtott támogatások közösségi forrás számla
-
-36864. TEN-T támogatás közösségi forrás számlája
-
-36865. EGT/Norvég Finanszírozási Mechanizmus közösségi forrás számlája
-
-36866. Területi Együttműködés támogatásának közösségi forrás számlái
-
-368661. Európai Területi Együttműködés támogatás közösségi forrás számlái
-
-368662. INTERACT támogatás közösségi forrás számlája
-
-36867. Svájci Alap támogatás közösségi forrás számlája
-
-36868. Szolidaritási programok közösségi forrás számlái
-
-368681. Európai Menekültügyi Alap közösségi forrás számlája
-
-368682. Integrációs Alap közösségi forrás számlája
-
-368683. Visszatérési Alap közösségi forrás számlája
-
-368684. Külső Határok Alap közösségi forrás számlája
-
-368689. Technikai segítségnyújtás közösségi forrás számla
-
-3687. NATO Biztonsági Beruházási program közösségi forrás számlája
-
-3689. Egyéb különféle nemzetközi támogatási program közösségi forrás számlái
-
-36891. EU Kutatási, Technológiafejlesztési és Demonstrációs Tevékenységekre vonatkozó programjának közösségi forrás számlája
-
-36892. Közvetlenül pályázott nemzetközi támogatási program közösségi forrás számlája
-
-36899. Különféle egyéb nemzetközi támogatási program közösségi forrás számla
-
-37. TÁMOGATÁSÉRTÉKŰ KIADÁSOK, TÁMOGATÁSOK FOLYÓSÍTÁSA ÉS FEJEZETI ELSZÁMOLÁSOK
-
-371. Irányítás (felügyelet) alá tartozó költségvetési szervnek folyósított támogatás (csak önkormányzat és tb pénzügyi alapjai)
-
-3711. Irányítás (felügyelet) alá tartozó költségvetési szervnek folyósított támogatás előirányzata
-
-3712. Irányítás (felügyelet) alá tartozó költségvetési szervnek folyósított támogatás előirányzatának teljesítése
-
-372. Előző évi előirányzat-maradvány, pénzmaradvány átadása
-
-3721. Előző évi előirányzat-maradvány, pénzmaradvány átadás előirányzata
-
-37211. Előző évi, működési célú előirányzat-maradvány, pénzmaradvány átadás előirányzata
-
-37212. Előző évi, felhalmozási célú előirányzat-maradvány, pénzmaradvány átadás előirányzata
-
-37213. Előző évi, működési célú jóvá nem hagyott pénzmaradvány átadás előirányzata túlfinanszírozás, elvonás miatt (csak önkormányzati alrendszer)
-
-37214. Előző évi, felhalmozási célú jóvá nem hagyott pénzmaradvány átadás előirányzata túlfinanszírozás, elvonás miatt (csak önkormányzati alrendszer)
-
-3722. Előző évi előirányzat-maradvány, pénzmaradvány átadás előirányzatának teljesítése
-
-37221. Előző évi, működési célú előirányzat-maradvány, pénzmaradvány átadás előirányzatának teljesítése
-
-37222. Előző évi, felhalmozási célú előirányzat-maradvány, pénzmaradvány átadás előirányzatának teljesítése
-
-37223. Előző évi, működési célú jóvá nem hagyott pénzmaradvány átadása túlfinanszírozás, elvonás miatt (csak önkormányzati alrendszer)
-
-37224. Előző évi, felhalmozási célú jóvá nem hagyott pénzmaradvány átadása túlfinanszírozás, elvonás miatt (csak önkormányzati alrendszer)
-
-373. Működési célú támogatásértékű kiadások elszámolása
-
-3731. Működési célú támogatásértékű kiadás előirányzata
-
-3732. Működési célú támogatásértékű kiadás előirányzatának teljesítése
-
-3733. Működési célú, támogatási program előlegére támogatásértékű kiadás előirányzatának teljesítése
-
-374. Felhalmozási célú támogatásértékű kiadások elszámolása
-
-3741. Felhalmozási célú támogatásértékű kiadás előirányzata
-
-3742. Felhalmozási célú támogatásértékű kiadás előirányzatának teljesítése
-
-3743. Felhalmozási célú, támogatási program előlegére támogatásértékű kiadás előirányzatának teljesítése
-
-375. Központi költségvetésből folyósított államháztartáson belüli támogatások (nemzetgazdasági elszámolások)
-
-376. Garancia- és kezességvállalásból származó kifizetések államháztartáson belülre
-
-3761. Garancia- és kezességvállalásból származó kifizetések előirányzata államháztartáson belülre
-
-3762. Garancia- és kezességvállalásból származó kifizetések előirányzatának teljesítése államháztartáson belülre
-
-377. Tb pénzügyi alapok ellátási kiadásainak elszámolása
-
-3773. Ellátási kiadások alapon belüli elszámolása
-
-378. Fejezeti év végi maradványelszámolási számla kiadásainak elszámolása
-
-379. Foglalt
-
-38. ÁLLAMHÁZTARTÁSON KÍVÜLRE VÉGLEGES PÉNZESZKÖZÁTADÁSOK ELSZÁMOLÁSA
-
-381. Működési célú pénzeszközátadás államháztartáson kívülre
-
-3811. Működési célú pénzeszközátadás előirányzata államháztartáson kívülre
-
-3812. Működési célú pénzeszközátadás előirányzatának teljesítése államháztartáson kívülre
-
-[^440]: A 8. számú melléklet címe a 359/2006. (XII. 27.) Korm. rendelet 27. § (4) bekezdésével megállapított szöveg.
-[^441]: A 8. számú melléklet A) pontjának A/1) és A/2) táblázata a 328/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. A 8. számú melléklet A) pontjának A/1) táblázata a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 43. pontja szerint módosított szöveg.
-[^442]: A 8. számú melléklet B) pontja a 328/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést először a 2009. évről készített éves költségvetési beszámolóra kell alkalmazni.
-[^443]: A 8. számú melléklet C) pontját a 328/2008. (XII. 30.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
-[^444]: A 8. számú melléklet D) pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^445]: A 8. számú melléklet E) pontjának E/1) és E/2) táblázata a 328/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. A 8. számú melléklet E) pontjának E/1) táblázata a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 43. pontja szerint módosított szöveg.
-[^446]: A 8. számú melléklet F) pontját a 383/2004. (XII. 29.) Korm. rendelet 26. §-ának (3) bekezdése hatályon kívül helyezte.
-[^447]: A 8. számú melléklet G) pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^448]: A 8. számú melléklet H) pontját a 350/2010. (XII. 28.) Korm. rendelet 27. § (1) bekezdése hatályon kívül helyezte.
-[^449]: A 8. számú melléklet I) pontját a 319/2005. (XII. 26.) Korm. rendelet 23. § (4) bekezdése hatályon kívül helyezte.
-[^450]: A 8. számú melléklet J) pontja a 319/2005. (XII. 26.) Korm. rendelet 19. § (1) bekezdésével megállapított és a 359/2006. (XII. 27.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 26. § (1) bekezdését.
-[^451]: A 8. számú melléklet K) pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^452]: A 8. számú melléklet L) pontját a 317/2009. (XII. 29.) Korm. rendelet 37. § (5) bekezdése iktatta be. E módosító rendelet 40. § (1) bekezdése alapján rendelkezéseit először a 2010. évről készített beszámolókra kell alkalmazni.
-[^453]: A 8. számú melléklet M) pontját a 317/2009. (XII. 29.) Korm. rendelet 37. § (5) bekezdése iktatta be, szövege a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 43. pontja szerint módosított szöveg.
-[^454]: A 9. számú melléklet „Számlakerettükör” része a 141/2001. (VIII. 8.) Korm. rendelet 44. § a) pontja, a 383/2004. (XII. 29.) Korm. rendelet 25. §-ának (8) bekezdése, a 319/2005. (XII. 26.) Korm. rendelet 19. § (2) bekezdése, a 359/2006. (XII. 27.) Korm. rendelet 23. § (4) bekezdése, a 400/2007. (XII. 27.) Korm. rendelet 14. § (2) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 7. § a) pontja, a 328/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 37. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni. A 9. melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (6) bekezdése szerint módosított szöveg.
-[^455]: A Magyar Közlöny 2001. évi 7. számában közzétett helyesbítésnek megfelelő szöveg.
-[^456]: A Magyar Közlöny 2001. évi 7. számában közzétett helyesbítésnek megfelelő szöveg.
-[^457]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.
-[^458]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.
+[^475]: A 8. számú melléklet címe a 359/2006. (XII. 27.) Korm. rendelet 27. § (4) bekezdésével megállapított szöveg.
+[^476]: A 8. számú melléklet A) pontjának A/1) és A/2) táblázata a 328/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. A 8. számú melléklet A) pontjának A/1) táblázata a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 43. pontja szerint módosított szöveg.
+[^477]: A 8. számú melléklet B) pontja a 328/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 11. § (1) bekezdése alapján a rendelkezést először a 2009. évről készített éves költségvetési beszámolóra kell alkalmazni.
+[^478]: A 8. számú melléklet C) pontját a 328/2008. (XII. 30.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^479]: A 8. számú melléklet D) pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^480]: A 8. számú melléklet E) pontjának E/1) és E/2) táblázata a 328/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. A 8. számú melléklet E) pontjának E/1) táblázata a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 43. pontja szerint módosított szöveg.
+[^481]: A 8. számú melléklet F) pontját a 383/2004. (XII. 29.) Korm. rendelet 26. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 369/2011. (XII. 31.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^482]: A 8. számú melléklet G) pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^483]: A 8. számú melléklet H) pontját a 350/2010. (XII. 28.) Korm. rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^484]: A 8. számú melléklet I) pontját a 319/2005. (XII. 26.) Korm. rendelet 23. § (4) bekezdése hatályon kívül helyezte.
+[^485]: A 8. számú melléklet J) pontja a 319/2005. (XII. 26.) Korm. rendelet 19. § (1) bekezdésével megállapított és a 359/2006. (XII. 27.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 26. § (1) bekezdését.
+[^486]: A 8. számú melléklet K) pontja a 350/2010. (XII. 28.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^487]: A 8. számú melléklet L) pontját a 317/2009. (XII. 29.) Korm. rendelet 37. § (5) bekezdése iktatta be. E módosító rendelet 40. § (1) bekezdése alapján rendelkezéseit először a 2010. évről készített beszámolókra kell alkalmazni.
+[^488]: A 8. számú melléklet M) pontját a 317/2009. (XII. 29.) Korm. rendelet 37. § (5) bekezdése iktatta be, szövege a 350/2010. (XII. 28.) Korm. rendelet 26. § (1) bekezdés 43. pontja szerint módosított szöveg.
+[^489]: A 9. számú melléklet „Számlakerettükör” része a 141/2001. (VIII. 8.) Korm. rendelet 44. § a) pontja, a 383/2004. (XII. 29.) Korm. rendelet 25. §-ának (8) bekezdése, a 319/2005. (XII. 26.) Korm. rendelet 19. § (2) bekezdése, a 359/2006. (XII. 27.) Korm. rendelet 23. § (4) bekezdése, a 400/2007. (XII. 27.) Korm. rendelet 14. § (2) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 7. § a) pontja, a 328/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 37. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni. A 9. melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (6) bekezdése, a 369/2011. (XII. 31.) Korm. rendelet 20. § (3) bekezdése szerint módosított szöveg.
+[^490]: A Magyar Közlöny 2001. évi 7. számában közzétett helyesbítésnek megfelelő szöveg.
+[^491]: A Magyar Közlöny 2001. évi 7. számában közzétett helyesbítésnek megfelelő szöveg.
+[^492]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.
+[^493]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.

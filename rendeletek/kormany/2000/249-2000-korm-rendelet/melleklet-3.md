@@ -82,6 +82,6 @@
 
 | – Felhalmozási célú szabad pénzmaradvány | 38 |  |  |
 
-3. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^435]
+3. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^470]
 
-[^435]: A 3. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^470]: A 3. számú melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
