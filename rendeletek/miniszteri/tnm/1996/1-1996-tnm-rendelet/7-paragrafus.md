@@ -12,13 +12,13 @@ A Hivatal, az Iroda, továbbá az NBF köztisztviselői, közalkalmazottai, hiva
 
 Az igazolvány 85 x 54 mm méretű, többrétegű műanyag kártya. Az igazolvány többszínnyomású ofszet technológiával készült, az előoldalon holografikus biztonsági elem található.
 
-2. Az igazolvány adattartalma:
+2.[^8] Az igazolvány adattartalma:
 
 Előoldal:
 
 – számítógépes rajzolatrendszer,
 
-– a Hivatal címere, illetve az Iroda és az NBF munkatársai igazolványa esetén a Magyar Köztársaság címere,
+– a Hivatal címere, illetve az Iroda és az NBF munkatársai igazolványa esetén Magyarország címere,
 
 – a munkáltató megnevezése,
 
@@ -55,3 +55,4 @@ Hátoldal:
 4. A rendelet 5. §-ának (2) bekezdésében szereplő igazolványok első oldalának jobb sarkában kb. 5 mm széles, piros színű körívnyomat található.
 
 [^7]: A melléklet a 10/2002. (VIII. 9.) MeHVM rendelet 3. §-ával megállapított szöveg.
+[^8]: A melléklet 2. pontja a 68/2011. (XII. 30.) BM rendelet 6. § b) pontja szerint módosított szöveg.
