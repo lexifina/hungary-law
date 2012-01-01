@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya a mezőgazdasági vízszolgáltatást ellátó, a koncesszió körébe nem tartozó állami tulajdonú vízi létesítmények üzemeltetésére terjed ki, amelyek tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 109/F. §-ának (1) bekezdése alapján a környezetvédelmi és vízügyi igazgatóság (a továbbiakban: igazgatóság) vagyonkezelői jogot gyakorol.
+## 1. §[^1] A rendelet hatálya a mezőgazdasági vízszolgáltatást ellátó, a koncesszió körébe nem tartozó állami tulajdonú vízi létesítmények üzemeltetésére terjed ki, amelyek tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 109/F. §-ának (1) bekezdése alapján a vízügyi igazgatóság (a továbbiakban: igazgatóság) vagyonkezelői jogot gyakorol.
 
 ## Az üzemeltetésre vonatkozó pályázat
 
@@ -28,4 +28,4 @@ k) a pályázat elbírálásának szempontjait, a döntéshozatal szabályait;
 
 l) az eredménytelen pályázat megismétlésének feltételeit.
 
-[^1]: Az 1. § az 1/2004. (II. 6.) KvVM rendelet 4. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 16. § (1) bekezdésének b) pontja alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^1]: Az 1. § az 1/2004. (II. 6.) KvVM rendelet 4. §-ának (1) bekezdésével megállapított, és a 147/2011. (XII. 23.) VM rendelet 17. § b) pontja szerint módosított szöveg.
