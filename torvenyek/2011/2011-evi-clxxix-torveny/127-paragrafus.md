@@ -1,1 +1,1 @@
-127. §
+127. § Az országos nemzetiségi önkormányzatok által működtetett intézmények – amennyiben a fenntartói jog átadásáról szóló megállapodás eltérően nem rendelkezik – a normatív állami hozzájárulás tekintetében a humán szolgáltatást ellátó egyházi intézményekkel azonos elbírálás alá esnek.

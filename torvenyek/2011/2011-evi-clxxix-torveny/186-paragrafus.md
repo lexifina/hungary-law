@@ -1,0 +1,1 @@
+186. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/B. § (4) 1. f) pontjában az „etnikai kisebbségéhez tartozik” szövegrész helyébe a „nemzetiséghez tartozik” szöveg lép.

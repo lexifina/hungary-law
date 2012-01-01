@@ -1,0 +1,3 @@
+175. § Az Övjt. a következő 11/A. §-sal egészül ki:
+
+„11/A. § Nemzetiségenként külön-külön nemzetiségi kompenzációs listára kell venni valamennyi, az egyéni választókerületben indult nemzetiségi jelöltet, azok kivételével, akiket olyan nemzetiségi szervezet állított, amely a 10. § (1) bekezdése vagy a 11. § (1) bekezdése alapján önálló vagy közös kompenzációs listát állított.”

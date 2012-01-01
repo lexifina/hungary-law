@@ -1,1 +1,1 @@
-30–32. §
+30. § Az olyan településeken, ahol a magyar anyanyelvű lakosság – vagy más nemzetiség – van számszerű kisebbségben, a magyar anyanyelvű, illetve más anyanyelvű gyermekek anyanyelvű vagy anyanyelvi nevelését és oktatását törvényben meghatározottak szerint biztosítani kell.

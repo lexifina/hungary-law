@@ -1,0 +1,1 @@
+47. § A közszolgálati médiaszolgáltatók társadalmi ellenőrzésére hivatott Közszolgáltató Testület munkájába – az Mttv. 1. mellékletében foglaltaknak megfelelően – be kell vonni a nemzetiségek országos önkormányzatait.

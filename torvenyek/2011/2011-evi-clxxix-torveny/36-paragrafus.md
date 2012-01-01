@@ -1,0 +1,1 @@
+36. § A nemzetiségi önkormányzat jogosult – az ágazati törvényben és az államháztartásról szóló jogszabályokban meghatározottak szerint – nemzetiségi kulturális intézmény létesítésére, fenntartására, más által létesített kulturális intézmény fenntartói jogának, illetve kulturális feladat ellátásának átvételére.

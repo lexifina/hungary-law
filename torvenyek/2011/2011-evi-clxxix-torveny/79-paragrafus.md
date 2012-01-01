@@ -1,3 +1,9 @@
 ## A nemzetiségi önkormányzat együttműködése az állami és a helyi önkormányzati szervekkel
 
-79–80. §
+79. § (1) A nemzetiségi önkormányzatok a nemzetiségi közügyek intézése érdekében jogosultak az ügyben hatáskörrel és illetékességgel rendelkező állami és önkormányzati szervek eljárásának kezdeményezésére, azoktól tájékoztatást kérhetnek, részükre javaslatot tehetnek. A kezdeményezés joga magában foglalja az állami, önkormányzati fenntartású (tulajdonban levő) intézmények működésével kapcsolatos, a nemzetiségek jogait sértő gyakorlat megszüntetésének, jogszabály vagy egyedi döntés megváltoztatásának, visszavonásának kezdeményezését is.
+
+(2) A hatáskörrel és illetékességgel rendelkező szerv vezetője az (1) bekezdés szerinti kezdeményezésről a kézhezvételétől számított harminc, testületi szerv esetén hatvan napon belül köteles érdemben határozni, illetve harminc – jogalkotással összefüggő kérdésben negyvenöt – napon belül érdemben nyilatkozni. Ha a megkeresett szerv vezetője a megkeresés tárgyát illetően nem rendelkezik hatáskörrel vagy illetékességgel, köteles a megkeresést három napon belül a hatáskörrel és illetékességgel rendelkező szervhez áttenni.
+
+(3) Ha a megkeresett állami vagy önkormányzati szerv a (2) bekezdésben foglalt kötelezettségének nem tesz eleget, a nemzetiségi önkormányzat jogosult a felettes szerv vagy a fővárosi és megyei kormányhivatal soron kívüli eljárását kezdeményezni. A soron kívüli eljárás eredményéről legkésőbb harminc napon belül tájékoztatni kell a kezdeményezőt.
+
+(4) Ha a nemzetiségi önkormányzat jogainak gyakorlásához a helyi önkormányzatnak vagy szervének döntése szükséges, a nemzetiségi önkormányzat erre irányuló kezdeményezését a döntésre jogosult köteles a következő ülésén napirendre tűzni, valamint a kezdeményezés benyújtásától számított harminc, testületi döntés esetén hatvan napon belül döntést hozni.

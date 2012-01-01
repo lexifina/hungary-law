@@ -1,0 +1,1 @@
+34. § A nemzetiségi önkormányzat – az ágazati törvényben meghatározottak szerint – részt vehet a nemzetiséghez tartozók kulturális ellátásának segítésével összefüggő állami és önkormányzati feladatok végrehajtásában.

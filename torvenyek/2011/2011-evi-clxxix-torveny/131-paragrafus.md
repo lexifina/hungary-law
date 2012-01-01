@@ -1,1 +1,1 @@
-131–134. §
+131. § A nemzetiségi önkormányzatokat – törvényben meghatározott eltérésekkel – megilletik mindazok a jogok, és terhelik mindazok a kötelezettségek, amelyek a tulajdonost megilletik, illetve terhelik.

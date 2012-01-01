@@ -1,0 +1,1 @@
+97. § A települési nemzetiségi önkormányzat testülete évente legalább egyszer, a szervezeti és működési szabályzatban szabályozott rendben közmeghallgatást tart. A közmeghallgatásról jegyzőkönyv készül.

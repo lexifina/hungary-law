@@ -1,1 +1,1 @@
-233. §
+233. § A közbeszerzésekről szóló 2011. évi CVIII. törvény 6.§ (1) bekezdés b) pontja az „országos kisebbségi önkormányzat” szövegrész helyett az „országos nemzetiségi önkormányzat” szöveggel lép hatályba.

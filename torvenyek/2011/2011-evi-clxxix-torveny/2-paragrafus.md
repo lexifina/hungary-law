@@ -2,14 +2,66 @@
 
 2. § E törvény alkalmazásában:
 
-1–3.
+1. nemzetiségi közügy:
+
+a) az e törvényben biztosított egyéni és közösségi jogok érvényesülése, a nemzetiséghez tartozók érdekeinek kifejezésre juttatása – különösen az anyanyelv ápolása, őrzése és gyarapítása, továbbá a nemzetiségek kulturális autonómiájának a nemzetiségi önkormányzatok által történő megvalósítása és megőrzése – érdekében a nemzetiséghez tartozók meghatározott közszolgáltatásokkal való ellátásával, ezen ügyek önálló vitelével és az ehhez szükséges szervezeti, személyi és anyagi feltételek megteremtésével összefüggő ügy;
+
+b) a közhatalmat gyakorló állami és helyi önkormányzati szervekben, továbbá a nemzetiségi önkormányzati szervekben való nemzetiségi képviselethez és mindezek szervezeti, személyi és anyagi feltételeinek biztosításához kapcsolódó ügy;
+
+2. nemzetiségi önkormányzat:
+
+törvényben meghatározott nemzetiségi közszolgáltatási feladatokat ellátó, testületi formában működő, jogi személyiséggel rendelkező, demokratikus választások útján e törvény alapján létrehozott szervezet, amely a nemzetiségi közösséget megillető jogosultságok érvényesítésére, a nemzetiségek érdekeinek védelmére és képviseletére, a feladat- és hatáskörébe tartozó nemzetiségi közügyek települési, területi vagy országos szinten történő önálló intézésére jön létre;
+
+3. nemzetiségi kulturális autonómia:
+
+olyan kollektív nemzetiségi jog, amely az e törvény szerinti intézmény-összességnek és nemzetiségi önszerveződéseknek a nemzetiségi közösség által önigazgatással történő működtetése során megvalósuló önállóságban testesül meg;
 
 4.
 
-5–12.
+5. nemzetiségi kulturális intézmény:
+
+olyan kulturális intézmény, amelynek jogszabályban, alapító okiratban előírt feladata a nemzetiségi identitáshoz kötődő tárgyi és szellemi kultúra, kulturális értékek, javak megőrzése, hozzáférhetővé tétele, hagyományok és a közösségi nyelvhasználat megőrzése, gyakorlása, terjesztése és továbbörökítése;
+
+a) nemzetiségi közművelődési intézmény:
+
+a nemzetiséghez tartozók szellemi, kulturális örökségének, kulturális hagyományainak megőrzését, fenntartását, fejlesztését, bemutatását szolgáló intézmény;
+
+b) nemzetiségi feladatot ellátó közgyűjtemény:
+
+olyan könyvtár, levéltár, muzeális intézmény, kép- illetve hangarchívum, amelynek alapító okiratában szerepel a nemzetiségi feladatellátás, vagy amelynek állományában nemzetiségi nyelvű, vagy nemzetiségre vonatkozó dokumentumok huszonöt százalékot elérő arányban találhatók, függetlenül a fenntartó szervezet típusától;
+
+c) nemzetiségi közösségi színtér:
+
+nemzetiségi lakosság rendszeres vagy alkalmi közművelődési tevékenységének, a lakosság önszerveződő közösségeinek kulturális szolgáltatásokkal való ellátása érdekében közművelődési megállapodás alapján működtetett, erre a célra alkalmassá tett és üzemeltetett, adott településen (településeken) rendszeresen működő intézmény;
+
+6. nemzetiségi feladatot ellátó tudományos intézmény:
+
+alapító okirata, illetve tevékenysége szerint részben vagy egészben egy vagy több nemzetiség anyanyelvén, illetve más nyelveken az adott közösség szellemi, épített és tárgyi emlékeire, hagyományaira, kultúrájára, történelmére, nyelvére, intézményeire, társadalmi viszonyaira vonatkozó adatok gyűjtésével, tudományos értékű feldolgozásával és közzétételével foglakozó intézete, vagy műhelye, tekintet nélkül annak szervezet-típusára;
+
+7. nemzetiség szellemi és vallási öröksége: az adott nemzetiség identitásához kötődő jelen- vagy múltbeli nyelvi, folklór, öntevékeny-, illetve hivatásos előadó-művészeti, hitéleti, egyházi, alkotóművészeti (különösen irodalmi, képző- és iparművészeti) hagyományainak összessége;
+
+8. nemzetiség épített és tárgyi öröksége:
+
+a kulturális örökség védelméről szóló törvény hatálya alá tartozó azon műemléki és kulturális javak, amelyek a nemzetiség kulturális, történeti, vallási hagyományai megőrzésének szempontjából kiemelt jelentőségűek (különösen településrész, közterület, épületegyüttes, épület, temető, temetkezési hely, szobor, emlékmű, emléktábla, tárgyi képi hangrögzített, írásos emlék, művészeti alkotás);
+
+9. nemzetiségi témájú műsor:
+
+a nemzetiségekről szóló, a nemzetiségi közösségek megismerését, kulturális értékeinek bemutatását szolgáló, sokoldalúan és kiegyensúlyozottan tájékoztató magyar nyelvű rádiós vagy audiovizuális program;
+
+10. nemzetiségi közszolgálati műsor:
+
+a nemzetiségi közösség anyanyelvén, elsősorban a közösség médiaműhelyei által készített műsor, illetve sajtótermék, amelynek alapvető célja a nemzetiségi közösség sokoldalú, kiegyensúlyozott anyanyelvű tájékoztatása;
+
+11. az intézmény alapításának joga magában foglalja az intézmény átvételének, átszervezésének és megszüntetésének jogát;
+
+12. hozzátartozó:
+
+az egyenesági rokon és ennek házastársa, a testvér, a házastárs, a bejegyzett élettárs és az élettárs;
 
 13.
 
 14.
 
-15.
+15. nemzetiségi egyesület:
+
+alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó nemzetiségi egyesülettel.

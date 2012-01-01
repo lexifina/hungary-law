@@ -1,0 +1,1 @@
+201. § A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § pont fc) alpontjában a „helyi és kisebbségi önkormányzat” szövegrész helyébe a „helyi és nemzetiségi önkormányzat” szöveg lép.
