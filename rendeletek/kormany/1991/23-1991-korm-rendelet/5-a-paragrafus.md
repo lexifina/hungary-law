@@ -1,6 +1,8 @@
-## Keresetkiegészítés[^12]
+## 5. §[^5]
 
-5/A. §[^13] (1) Keresetkiegészítésre jogosult a legalább 29%-os mértékű egészségkárosodást szenvedett bányász dolgozó, ha föld alatti bányamunkára való alkalmatlanság miatt más munkakörbe, illetve munkahelyre helyezik át és életkortól függően az alábbiakban előírt ideig föld alatti bányamunkát végzett:
+## Keresetkiegészítés[^6]
+
+5/A. §[^7] (1) Keresetkiegészítésre jogosult a legalább 29%-os mértékű egészségkárosodást szenvedett bányász dolgozó, ha föld alatti bányamunkára való alkalmatlanság miatt más munkakörbe, illetve munkahelyre helyezik át és életkortól függően az alábbiakban előírt ideig föld alatti bányamunkát végzett:
 
 | Életkor | Föld alatti munkában töltött idő |
 
@@ -32,5 +34,6 @@
 
 (4) A jogosultat keresetkiegészítésként a korábbi átlagkeresetének 50%-a illeti meg.
 
-[^12]: Az 5/A. §-t megelőző alcímet a 387/2007. (XII. 23.) Korm. rendelet 20. §-a iktatta be.
-[^13]: Az 5/A. §-t a 387/2007. (XII. 23.) Korm. rendelet 20. §-a iktatta be. E módosító rendelet 22. § (3) bekezdése alapján a rendelkezést a 2007. december 31-ét követően benyújtott igénybejelentés esetén kell alkalmazni; lásd még a 22. § további rendelkezéseit.
+[^5]: Az 5. §-t és az azt megelőző alcímet a 333/2011. (XII. 29.) Korm. rendelet 16. § a)–b) pontja hatályon kívül helyezte.
+[^6]: Az 5/A. §-t megelőző alcímet a 387/2007. (XII. 23.) Korm. rendelet 20. §-a iktatta be.
+[^7]: Az 5/A. §-t a 387/2007. (XII. 23.) Korm. rendelet 20. §-a iktatta be. E módosító rendelet 22. § (3) bekezdése alapján a rendelkezést a 2007. december 31-ét követően benyújtott igénybejelentés esetén kell alkalmazni; lásd még a 22. § további rendelkezéseit.
