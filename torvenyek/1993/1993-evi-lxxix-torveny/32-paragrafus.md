@@ -2,7 +2,7 @@
 
 32. § (1) A kollégium feladata megteremteni a feltételeket az iskolai tanulmányok folytatásához azoknak,
 
-a) akiknek a tanuláshoz, a szabad iskolaválasztáshoz való joguk érvényesítéséhez, nemzeti vagy etnikai kisebbségi nyelven, illetve gyógypedagógiai nevelési-oktatási intézményben való tanulásukhoz a lakóhelyükön nincs lehetőségük, illetve
+a) akiknek a tanuláshoz, a szabad iskolaválasztáshoz való joguk érvényesítéséhez, nemzetiségi nyelven, illetve gyógypedagógiai nevelési-oktatási intézményben való tanulásukhoz a lakóhelyükön nincs lehetőségük, illetve
 
 b) akiknek a tanuláshoz megfelelő feltételeket a szülő nem tudja biztosítani.
 

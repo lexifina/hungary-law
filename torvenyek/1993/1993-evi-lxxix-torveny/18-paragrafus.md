@@ -10,7 +10,7 @@ c) legalább öt év – a (6) bekezdésben meghatározott kivétellel – pedag
 
 d) a nevelési-oktatási intézményben pedagógus-munkakörben fennálló, határozatlan időre szóló alkalmazás, illetve a megbízással egyidejűleg pedagógus-munkakörben történő, határozatlan időre szóló alkalmazás.
 
-(2) Ha a nevelési-oktatási intézményben az óvodai nevelés, iskolai nevelés és oktatás kizárólag nemzetiségi, illetve kisebbségi nyelven folyik, vagy a tanulók több mint fele két nyelven – nemzetiségi, illetve kisebbségi nyelven és magyarul – tanul, vezetői megbízást az kaphat, aki – az (1) bekezdésben meghatározottakon túl – rendelkezik az e törvény 17. §-ának (3) bekezdésében meghatározott feltételekkel. Azonos feltételek esetén előnyben kell részesíteni azt, aki a nemzeti vagy etnikai kisebbséghez tartozik.
+(2) Ha a nevelési-oktatási intézményben az óvodai nevelés, iskolai nevelés és oktatás kizárólag nemzetiségi nyelven folyik, vagy a tanulók több mint fele két nyelven – nemzetiségi nyelven és magyarul – tanul, vezetői megbízást az kaphat, aki – az (1) bekezdésben meghatározottakon túl – rendelkezik az e törvény 17. §-ának (3) bekezdésében meghatározott feltételekkel. Azonos feltételek esetén előnyben kell részesíteni azt, aki a nemzetiséghez tartozik.
 
 (3) A kizárólag sajátos nevelési igényű gyermekek, tanulók nevelését, oktatását ellátó nevelési-oktatási intézményben intézményvezetői megbízást az kaphat, aki a gyermekek, tanulók fogyatékosságának típusa szerinti gyógypedagógiai tanári, konduktori, konduktor-tanítói, terapeuta végzettséggel és szakképzettséggel, továbbá pedagógus-szakvizsgával rendelkezik.
 

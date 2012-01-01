@@ -22,7 +22,7 @@ j) az oktatási programok (pedagógiai rendszerek) – így különösen ajánlo
 
 k) a vizsgaelnöki és szakértői tevékenység szakmai feltételeinek megteremtése, fejlesztése;
 
-l) az országos pedagógiai-szakmai szolgáltatás, a nemzeti, etnikai kisebbségi oktatást segítő pedagógiai-szakmai szolgáltatás rendszerének kiépítése, működtetése;
+l) az országos pedagógiai-szakmai szolgáltatás, a nemzetiség oktatást segítő pedagógiai-szakmai szolgáltatás rendszerének kiépítése, működtetése;
 
 m) az új pedagógiai módszerek, megoldások, szervezeti formák – így különösen: óvoda-iskola, egységes iskola, általános művelődési központ, projektoktatás, iskolaotthonos oktatás, hátrányos helyzetű tanulók iskolai sikerességét segítő iskolán kívüli foglalkozása (tanoda), erdei iskola – kidolgoztatása, elterjedésének támogatása;
 
@@ -52,4 +52,4 @@ b)
 
 (9) Az oktatásért felelős miniszter – a vizsgaszabályzatban meghatározottak szerint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben szabályozott eljárás keretében – megvonhatja az iskolától az érettségi vizsga, a szakmai vizsga megszervezésének, lebonyolításának jogát, továbbá megsemmisítheti az érettségi vizsga, a szakmai vizsga eredményét, valamint a kiállított bizonyítványt érvénytelenné nyilváníthatja, ha bebizonyosodik, hogy a vizsgát jogellenesen szervezték meg, bonyolították le, illetve a bizonyítványt jogellenesen állították ki, továbbá, ha az iskola nem rendelkezik a vizsga biztonságos megszervezéséhez szükséges feltételekkel. Az érvénytelenné nyilvánított bizonyítványt be kell vonni és meg kell semmisíteni. Az oktatásért felelős miniszter határozatát – indokolás nélkül – a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi. Az oktatásért felelős miniszter a szakmai vizsgával és a szakképesítést tanúsító bizonyítvánnyal kapcsolatos döntésének meghozatala előtt beszerzi a szakképesítésért felelős miniszter egyetértését.
 
-(10) Az oktatásért felelős miniszter az Alkotmányban, illetve törvényben meghatározott rendkívüli időszak esetén határozatban írja elő a közoktatási intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. A miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
+(10) Az oktatásért felelős miniszter törvényben meghatározott rendkívüli időszak esetén, ha különleges jogrend kihirdetésére nem kerül sor, határozatban írja elő a közoktatási intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. A miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.

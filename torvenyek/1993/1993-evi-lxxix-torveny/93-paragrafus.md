@@ -2,7 +2,7 @@
 
 a) kiadja – az Országos Köznevelési Tanács és a Közoktatás-politikai Tanács véleményének kikérése után – a Két tanítási nyelvű iskolai oktatás irányelvét, a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelvét, a Sajátos nevelési igényű tanulók iskolai oktatásának irányelvét, a Súlyos és halmozottan fogyatékos tanulók fejlesztő oktatása irányelvét, a Kollégiumi nevelés országos alapprogramját, a kerettanterveket, az Alapfokú művészetoktatás követelményeit és tantervi programját, a Nemzeti, etnikai kisebbség óvodai nevelésének irányelvét és a Nemzeti, etnikai kisebbség iskolai oktatásának irányelvét, továbbá ellátja a felülvizsgálatukkal kapcsolatos feladatokat; a kerettanterv és a Kollégiumi nevelés országos alapprogramja nemzeti, etnikai kisebbségi nevelést-oktatást érintő kérdéseiben, továbbá a Nemzeti, etnikai kisebbség óvodai nevelésének irányelve és a Nemzeti, etnikai kisebbség iskolai oktatásának irányelve kiadásához be kell szerezni az Országos Kisebbségi Bizottság véleményét;
 
-b) rendszeresen, de legalább ötévenként – az Országos Köznevelési Tanács és az Országos Kisebbségi Bizottság közreműködésével – értékeli az Óvodai nevelés országos alapprogramja és a Nemzeti alaptanterv bevezetésével és alkalmazásával kapcsolatos tapasztalatokat, szükség esetén – az Országos Köznevelési Tanács, a nemzeti, etnikai kisebbséghez tartozó gyermekeket, tanulókat érintő kérdésekben az Országos Kisebbségi Bizottság, továbbá a Közoktatás-politikai Tanács véleményének kikérésével kezdeményezi a Kormánynál a szükséges módosítást; továbbá gondoskodik – nemzeti, etnikai kisebbség óvodai neveléséhez, iskolai neveléséhez és oktatásához az országos kisebbségi önkormányzat bevonásával – óvodai nevelési programok és iskolai tantervek kidolgoztatásáról;
+b) rendszeresen, de legalább ötévenként – az Országos Köznevelési Tanács és az Országos Kisebbségi Bizottság közreműködésével – értékeli az Óvodai nevelés országos alapprogramja és a Nemzeti alaptanterv bevezetésével és alkalmazásával kapcsolatos tapasztalatokat, szükség esetén – az Országos Köznevelési Tanács, a nemzetiséghez tartozó gyermekeket, tanulókat érintő kérdésekben az Országos Kisebbségi Bizottság, továbbá a Közoktatás-politikai Tanács véleményének kikérésével kezdeményezi a Kormánynál a szükséges módosítást; továbbá gondoskodik – nemzetiség óvodai neveléséhez, iskolai neveléséhez és oktatásához az országos nemzetiségi önkormányzat bevonásával – óvodai nevelési programok és iskolai tantervek kidolgoztatásáról;
 
 c) meghatározza az érettségi vizsga követelményeit, és ellátja az azok felülvizsgálatával kapcsolatos feladatokat;
 
@@ -24,7 +24,7 @@ k) javaslatot tesz statisztikai adatszolgáltatásra;
 
 l) jóváhagyja az iskolák által használt bizonyítványnyomtatványokat és a kiállításuk alapjául szolgáló nyomtatványokat, engedélyezi előállításukat és forgalomba hozatalukat, továbbá jóváhagyja a kötelező tanügyi nyilvántartást felváltó elektronikus adatnyilvántartást;
 
-m) ellátja a Munkaerőpiaci Alap szakképzési alaprészének kezelésével és felhasználásával kapcsolatos – jogszabályban meghatározott – feladatokat;
+m) ellátja a Nemzeti Foglalkoztatási Alap szakképzési alaprészének kezelésével és felhasználásával kapcsolatos – jogszabályban meghatározott – feladatokat;
 
 n) ellátja a területfejlesztéshez kapcsolódó oktatáspolitikai feladatokat.
 
@@ -32,8 +32,8 @@ n) ellátja a területfejlesztéshez kapcsolódó oktatáspolitikai feladatokat.
 
 (3) Az oktatásért felelős miniszter a pedagógus-továbbképzés programjai jóváhagyásával összefüggő döntés-előkészítés céljából Pedagógus-továbbképzési Akkreditációs Testületet hoz létre. A Pedagógus-továbbképzési Akkreditációs Testület létrehozásáról és működéséről jogszabály rendelkezik. A Pedagógus-továbbképzési Akkreditációs Testület évente legalább két alkalommal tájékoztatja működéséről az Országos Pedagógus-továbbképzési Bizottságot.
 
-(4) Az oktatásért felelős miniszter köteles a helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. §-ának c) pontjában meghatározott jogköre alapján kezdeményezni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnél, hogy határidő kitűzésével hívja fel az érintett helyi önkormányzatot a közoktatás feladatainak ellátásával összefüggő törvénysértés megszüntetésére, és amennyiben a felhívás nem vezet eredményre – az ügy jellegétől függően –, indítson eljárást az Állami Számvevőszéknél, az Alkotmánybíróságnál, illetve a bíróságnál.
+(4)
 
-(5) Az oktatásért felelős miniszter, ha megítélése szerint a közoktatási intézmény működése, működtetése jogsértő, tájékoztatja a működést engedélyező szervet, hogy a nem helyi önkormányzatok által fenntartott közoktatási intézmények tekintetében gyakorolni tudja az e törvény 80. §-ában meghatározott jogkörét.
+(5) Az oktatásért felelős miniszter, ha megítélése szerint a közoktatási intézmény működése, működtetése jogsértő, tájékoztatja a Kormány általános hatáskörű területi államigazgatási szervét, hogy a nem helyi önkormányzatok által fenntartott közoktatási intézmények tekintetében gyakorolni tudja az e törvény 80. §-ában meghatározott jogkörét.
 
 (6) A szakképzés irányításával kapcsolatos hatásköröket az oktatásért felelős miniszter és a szakképesítésért felelős miniszterek a szakképzésről szóló törvényben meghatározottak szerint gyakorolják.

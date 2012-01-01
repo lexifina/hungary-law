@@ -8,7 +8,7 @@ b) a tanulók életrendje, tanulása, szabadideje szervezésének pedagógiai el
 
 c) a tanulók fejlődését, tehetséggondozását, felzárkóztatását, pályaválasztását, középiskolai kollégiumok esetén az önálló életkezdést elősegítő tevékenység elveit,
 
-d) nemzeti, etnikai kisebbséghez tartozók kollégiumi nevelése esetén a nemzeti, etnikai kisebbség kulturális és anyanyelvi nevelésének feladatait,
+d) nemzetiséghez tartozók kollégiumi nevelése esetén a nemzetiség kulturális és anyanyelvi nevelésének feladatait,
 
 e) a hátrányos helyzetű tanulóknak szervezett felzárkóztató, tehetséggondozó, társadalmi beilleszkedést segítő foglalkozások tervét,
 

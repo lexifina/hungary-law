@@ -1,4 +1,4 @@
-87. § (1) A megyei önkormányzat, továbbá – ha a (2) bekezdés másképp nem rendelkezik – a fővárosi önkormányzat köteles gondoskodni
+87. § (1) A Kormány általános hatáskörű területi államigazgatási szerve a megyei fenntartó útján, a megyei jogú város saját területén, továbbá – ha a (2) bekezdés másképp nem rendelkezik – a fővárosi önkormányzat köteles gondoskodni
 
 a) az általános iskolát követően azoknak a tanulóknak különbözeti vizsga vagy évfolyamismétlés nélküli iskolaváltásáról, akiknek a lakóhelyén, ennek hiányában tartózkodási helyén, a tankötelezettség végéig nem biztosítottak az iskolai nevelés és oktatás feltételei,
 
@@ -20,4 +20,4 @@ h) az e)–f) pontban meghatározott feladatok, továbbá a gyógytestnevelés f
 
 (3) A fővárosi önkormányzat köteles gondoskodni a fogyatékosság megállapításához szükséges országos szakértői és rehabilitációs tevékenység ellátásáról. Az országos szakértői és rehabilitációs feladatokat jogszabály határozza meg.
 
-(4) A fővárosi, megyei önkormányzat – jogszabályban meghatározottak szerint – gondoskodik a pedagógusok és más speciális végzettségű szakemberek fővárosi, megyei állandó helyettesítési rendszerének működtetéséről.
+(4) A Kormány általános hatáskörű területi államigazgatási szerve, a főváros esetén fővárosi önkormányzat – jogszabályban meghatározottak szerint – gondoskodik a pedagógusok és más speciális végzettségű szakemberek fővárosi, megyei állandó helyettesítési rendszerének működtetéséről.

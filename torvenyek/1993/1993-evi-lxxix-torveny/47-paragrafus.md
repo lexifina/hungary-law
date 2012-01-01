@@ -8,7 +8,7 @@ c) a gyermek- és ifjúságvédelemmel összefüggő pedagógiai tevékenységet
 
 d) a szülő, a gyermek, a pedagógus együttműködésének formáit, továbbfejlesztésének lehetőségeit,
 
-e) nemzeti vagy etnikai kisebbségi óvodai nevelésben részt vevő óvoda esetén a kisebbség kultúrájának és nyelvének ápolásával járó feladatokat,
+e) nemzetiségi óvodai nevelésben részt vevő óvoda esetén a kisebbség kultúrájának és nyelvének ápolásával járó feladatokat,
 
 f)
 

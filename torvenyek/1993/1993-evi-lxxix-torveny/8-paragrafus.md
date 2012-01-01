@@ -40,7 +40,7 @@ szakasz.
 
 (8) Az óvodai nevelés szakaszának alapelveit az Óvodai nevelés országos alapprogramja határozza meg e törvény preambulumában, 4. §-ának (1) bekezdésében, 10. §-ának (1)–(2) bekezdésében és 13. §-ában foglalt elvekkel és jogokkal összhangban.
 
-(9) Az óvodai nevelő munka az Óvodai nevelés országos alapprogramjára épülő óvodai nevelési program alapján folyik. Az Óvodai nevelés országos alapprogramját a Kormány adja ki. Az Óvodai nevelés országos alapprogramjának a Kormány részére történő benyújtása előtt be kell szerezni az Országos Köznevelési Tanács, a Közoktatás-politikai Tanács, valamint a nemzeti, etnikai kisebbségi óvodai nevelést érintő kérdésekben az Országos Kisebbségi Bizottság véleményét.
+(9) Az óvodai nevelő munka az Óvodai nevelés országos alapprogramjára épülő óvodai nevelési program alapján folyik. Az Óvodai nevelés országos alapprogramját a Kormány adja ki. Az Óvodai nevelés országos alapprogramjának a Kormány részére történő benyújtása előtt be kell szerezni az Országos Köznevelési Tanács, a Közoktatás-politikai Tanács, valamint a nemzetiségi óvodai nevelést érintő kérdésekben az Országos Kisebbségi Bizottság véleményét.
 
 (10) Az általános műveltséget megalapozó szakaszban az iskolai nevelés-oktatás tartalmi egységét, az iskolák közötti átjárhatóságot a Nemzeti alaptanterv biztosítja. A Nemzeti alaptanterv kötelező rendelkezéseket állapíthat meg az oktatásszervezés körében, így különösen a tanulók heti és napi terhelésének korlátozására. A Nemzeti alaptantervben kell meghatározni az iskolának az egészségfejlesztéssel, a fogyasztóvédelemmel és a környezetvédelemmel összefüggő feladatait. A Nemzeti alaptantervben foglaltak teljesítését az oktatásért felelős miniszter által kiadott kerettantervek segítik.
 
@@ -48,7 +48,7 @@ szakasz.
 
 (12) A Nemzeti alaptanterv tartalmazza
 
-a) a nemzeti és etnikai kisebbségi iskolai nevelés-oktatás,
+a) a nemzetiségi iskolai nevelés-oktatás,
 
 b) sajátos nevelési igényű tanulók iskolai nevelése-oktatása
 

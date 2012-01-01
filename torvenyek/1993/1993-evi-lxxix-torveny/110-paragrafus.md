@@ -6,11 +6,11 @@ a) menedékjogot kérő, menekült, menedékes,
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogát Magyarországon gyakorolja,
 
-c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és bevándorolt vagy letelepedett jogállású, illetve a Magyar Köztársaság területén való tartózkodásra jogosító engedéllyel rendelkezik.
+c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és bevándorolt vagy letelepedett jogállású, illetve Magyarország területén való tartózkodásra jogosító engedéllyel rendelkezik.
 
 (2) A feltételek meglétét a tanuló nevelési-oktatási intézménybe történő felvételénél igazolni kell.
 
-(3) Ha a Magyar Köztársaság területén való tartózkodás ideje
+(3) Ha Magyarország területén való tartózkodás ideje
 
 a) az egy évet nem haladja meg, a szülő kérésére,
 

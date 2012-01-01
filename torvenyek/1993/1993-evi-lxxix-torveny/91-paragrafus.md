@@ -1,16 +1,12 @@
-91. § (1) A főjegyző
+91. § (1) A Kormány általános hatáskörű területi államigazgatási szervének vezetője az oktatásért felelős miniszter egyidejű értesítésével rendkívüli szünetet rendel el, ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a megye, főváros területén a nevelési-oktatási intézmények működtetése nem lehetséges. A Kormány általános hatáskörű területi államigazgatási szervének vezetője a határozatához – kivéve, ha a késlekedés jelentős veszéllyel vagy helyrehozhatatlan kárral járna – beszerzi az érdekelt önkormányzatok jegyzőinek véleményét.
 
-a)
-
-b) az oktatásért felelős miniszter egyidejű értesítésével rendkívüli szünetet rendel el, ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a megye, főváros területén a nevelési-oktatási intézmények működtetése nem lehetséges. A főjegyző a határozatához – kivéve, ha a késlekedés jelentős veszéllyel vagy helyrehozhatatlan kárral járna – beszerzi az érdekelt önkormányzatok jegyzőinek véleményét. Ha a vélemény beszerzésére nem volt lehetőség, a főjegyző a határozatot haladéktalanul közli az általa választott módon az érdekelt önkormányzatok jegyzőivel.
-
-(2) A működést engedélyező szerv
+(2) A Kormány általános hatáskörű területi államigazgatási szerve
 
 a) közreműködik – az érettségi vizsga vizsgaszabályzatában meghatározottak szerint – az érettségi vizsgák előkészítésében, megtartásában;
 
 b) közreműködik a közoktatási információs rendszer működtetésében.
 
-(3) A működést engedélyező szerv elkészíti és vezeti a nem helyi önkormányzatok által fenntartott közoktatási intézmények jegyzékét, és minden év augusztus 31-éig megküldi az egészségbiztosítási szervnek, továbbá a pedagógiai-szakmai szolgáltatásokat ellátó intézményen keresztül gondoskodik arról, hogy azt az érdekeltek megtekinthessék.
+(3) A Kormány általános hatáskörű területi államigazgatási szerve elkészíti és vezeti a nem helyi önkormányzatok által fenntartott közoktatási intézmények jegyzékét, és minden év augusztus 31-éig megküldi az egészségbiztosítási szervnek, továbbá a pedagógiai-szakmai szolgáltatásokat ellátó intézményen keresztül gondoskodik arról, hogy azt az érdekeltek megtekinthessék.
 
 (4) A közoktatási intézményt fenntartó, önkormányzati társulás esetén a megállapodásban megjelölt önkormányzat jegyzője, főjegyzője
 
@@ -30,9 +26,9 @@ g) közreműködik a közoktatás információs rendszerének működtetésében
 
 h) ellátja mindazokat a feladatokat, amelyeket jogszabály a hatáskörébe, feladatkörébe utal.
 
-(5) A működést engedélyező szerv a nem helyi önkormányzatok által fenntartott óvodák és általános iskolák nyilvántartásba vételével, nyilvántartásból való törlésével, továbbá a működés megkezdésének engedélyezésével, az engedély visszavonásával kapcsolatban hozott jogerős határozatát közli a fenntartó székhelye szerint illetékes működést engedélyező szervvel.
+(5) A működést engedélyező szerv a nem helyi önkormányzatok által fenntartott közoktatási intézmények nyilvántartásba vételével, nyilvántartásból való törlésével, továbbá a működés megkezdésének engedélyezésével, az engedély visszavonásával kapcsolatban hozott jogerős határozatát közli a fenntartó székhelye szerint illetékes működést engedélyező szervvel, valamint a normatív költségvetési hozzájárulást folyósító szervvel.
 
-(6) Az (2) bekezdés a)–b) pontjában meghatározott feladat ellátásához a működést engedélyező szerv, és a (4) bekezdés a) pontjában meghatározott feladat ellátásához a jegyző, főjegyző jogszabályban meghatározottak szerint igénybe veszi, ennek hiányában megállapodás alapján igénybe veheti közoktatási szakértő, illetve a pedagógiai-szakmai szolgáltatást ellátó intézmény közreműködését.
+(6) Az (2) bekezdés a)–b) pontjában meghatározott feladat ellátásához a Kormány általános hatáskörű területi államigazgatási szerve, és a (4) bekezdés a) pontjában meghatározott feladat ellátásához a jegyző, főjegyző jogszabályban meghatározottak szerint igénybe veszi, ennek hiányában megállapodás alapján igénybe veheti közoktatási szakértő, illetve a pedagógiai-szakmai szolgáltatást ellátó intézmény közreműködését.
 
 (7) A gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes
 

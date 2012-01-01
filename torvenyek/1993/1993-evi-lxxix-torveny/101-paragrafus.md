@@ -20,7 +20,7 @@ b) rendelkezik a közoktatási feladatkörében eljáró oktatási hivatal enged
 
 (8) A (6) bekezdés szerinti névjegyzékbe nyilvános pályázat útján lehet felvételt nyerni. A pályázati felhívást az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni. Szakképzés tekintetében a vizsgaelnöki névjegyzék elkészítéséről és kiadásáról a szakképzésről szóló törvény rendelkezik.
 
-(9) A nemzeti, etnikai kisebbségi óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés-oktatás tekintetében közoktatási szakértői feladatot és érettségi vizsgaelnöki feladatot az láthat el, aki az (1) vagy a (6) bekezdésben meghatározott gyakorlatot a nemzeti, etnikai nevelésben-oktatásban szerezte.
+(9) A nemzetiségi óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés-oktatás tekintetében közoktatási szakértői feladatot és érettségi vizsgaelnöki feladatot az láthat el, aki az (1) vagy a (6) bekezdésben meghatározott gyakorlatot a nemzetiségi nevelésben-oktatásban szerezte.
 
 (10) A közoktatási feladatkörében eljáró oktatási hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a közoktatási szakértői tevékenység folytatásától, illetve a vizsgaelnöki feladatok ellátásától és törli az Országos szakértői névjegyzékből, illetve az Országos vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
 

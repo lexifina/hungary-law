@@ -10,7 +10,7 @@ a) fenntartó,
 
 b) nevelőotthon, gyermek- és ifjúságvédő intézet,
 
-c) települési, területi kisebbségi önkormányzat, térségi vagy országos feladatot ellátó iskola esetén az országos kisebbségi önkormányzat, ha nem az iskola fenntartója,
+c) települési, területi nemzetiségi önkormányzat, térségi vagy országos feladatot ellátó iskola esetén az országos nemzetiségi önkormányzat, ha nem az iskola fenntartója,
 
 d) szakiskolában és szakközépiskolában a területi gazdasági kamara.
 

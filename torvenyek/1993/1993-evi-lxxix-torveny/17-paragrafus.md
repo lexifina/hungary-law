@@ -8,7 +8,7 @@ b) az iskolai oktatás első-negyedik évfolyamán
 
 – a testnevelés tantárgyhoz a tantárgynak megfelelő tanári,
 
-– feltéve, hogy e területeken az iskolában a helyi tantervben foglaltak alapján emelt szintű oktatás folyik, a művészetek, az idegen nyelv, a nemzetiségi és etnikai kisebbségi nyelv és irodalom tantárgyakhoz a tantárgynak megfelelő tanári;
+– feltéve, hogy e területeken az iskolában a helyi tantervben foglaltak alapján emelt szintű oktatás folyik, a művészetek, az idegen nyelv, a nemzetiségi nyelv és irodalom tantárgyakhoz a tantárgynak megfelelő tanári;
 
 c) az iskolai oktatás ötödik-hatodik évfolyamán a nem szakrendszerű oktatásban a b) pontban meghatározottak szerinti, a szakrendszerű oktatásban a tantárgynak megfelelő szakos tanári vagy a műveltségi területnek megfelelő képesítést nyújtó tanítói;
 
@@ -36,15 +36,15 @@ végzettség és szakképzettség.
 
 (2) Idegen nyelv oktatására – minden iskolatípusban – alkalmazható, aki nyelvtanári vagy idegen nyelv- és irodalom szakos tanári végzettséggel és szakképzettséggel rendelkezik.
 
-(3) Ha az óvodai nevelés, iskolai nevelés és oktatás, kollégiumi nevelés nyelve a nemzeti vagy etnikai kisebbség nyelve, illetve nem magyar nyelv, az adott nyelven folyó nevelő és oktató munkához pedagógus-munkakörben – a nevelési-oktatási intézmény típusához igazodva – az alkalmazható, aki
+(3) Ha az óvodai nevelés, iskolai nevelés és oktatás, kollégiumi nevelés nyelve a nemzetiség nyelve, illetve nem magyar nyelv, az adott nyelven folyó nevelő és oktató munkához pedagógus-munkakörben – a nevelési-oktatási intézmény típusához igazodva – az alkalmazható, aki
 
 a) nemzetiségi óvodapedagógus, nemzetiségi tanítói oklevéllel rendelkezik,
 
 b) az (1) bekezdésben meghatározott felsőfokú iskolai végzettséggel és szakképzettséggel, valamint az iskolai és kollégiumi nevelés-oktatás nyelvének tanítására jogosító tanítói, tanári, nyelvtanári végzettséggel és szakképzettséggel rendelkezik,
 
-c) az (1) bekezdés d)–e) pontjában meghatározott felsőfokú iskolai végzettséggel és szakképzettséggel rendelkezik, továbbá az alapképzésben vagy a szakirányú továbbképzésben elsajátította az adott tantárgy kisebbségi nyelven történő oktatásához, illetve nem magyar nyelven történő oktatásához szükséges nyelvi ismereteket,
+c) az (1) bekezdés d)–e) pontjában meghatározott felsőfokú iskolai végzettséggel és szakképzettséggel rendelkezik, továbbá az alapképzésben vagy a szakirányú továbbképzésben elsajátította az adott tantárgy nemzetiségi nyelven történő oktatásához, illetve nem magyar nyelven történő oktatásához szükséges nyelvi ismereteket,
 
-d) a Magyar Köztársaságban honosított, az (1) bekezdés szerinti pedagógus-munkakör betöltésére jogosító, a tanítás nyelvének megfelelő oklevéllel rendelkezik.
+d) Magyarországon honosított, az (1) bekezdés szerinti pedagógus-munkakör betöltésére jogosító, a tanítás nyelvének megfelelő oklevéllel rendelkezik.
 
 (4) Iskolapszichológusként az alkalmazható, aki pedagógiai szakpszichológus végzettséggel és szakképzettséggel, vagy pszichológus és pedagógus végzettséggel és szakképzettséggel rendelkezik.
 

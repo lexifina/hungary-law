@@ -14,7 +14,7 @@ d) az országos diákszervezetek,
 
 e) a helyi önkormányzatok érdekképviseleti szervezetei,
 
-f) az országos kisebbségi önkormányzatok,
+f) az országos nemzetiségi önkormányzatok,
 
 g) a nem állami, nem önkormányzati iskolafenntartók,
 

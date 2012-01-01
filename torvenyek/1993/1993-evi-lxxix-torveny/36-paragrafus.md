@@ -24,6 +24,6 @@ g) a tanuló tájékoztató, tanácsadó szolgálat, amelynek feladata a tanuló
 
 (5) Az oktatásért felelős miniszter, szakképzés szakmai tantárgyai tekintetében a szakképzési törvény alapján illetékes miniszter vagy szerv vezetője (a továbbiakban: szakképesítésért felelős miniszter) — azokban az esetekben, amikor az oktatás csak egy vagy néhány iskolában folyik — határozza meg, hogy melyek azok a tantárgyak, szakterületek, amelyekben a pedagógiai-szakmai szolgáltatásokat országosan szervezik meg. Az oktatásért felelős miniszter — a szakképzési törvényben meghatározott hatáskörében foglaltak szerint — a szakképesítésért felelős miniszter kijelöli a szolgáltatást nyújtó intézményt, illetve erre a célra intézményt létesít és tart fenn.
 
-(6) A nemzeti, etnikai kisebbségi óvodai nevelést, iskolai nevelést és oktatást, diákotthoni nevelést segítő pedagógiai-szakmai szolgáltatások országos megszervezéséről – az (5) bekezdésben szabályozott munkamegosztás szerint – gondoskodni kell.
+(6) A nemzetiségi óvodai nevelést, iskolai nevelést és oktatást, diákotthoni nevelést segítő pedagógiai-szakmai szolgáltatások országos megszervezéséről – az (5) bekezdésben szabályozott munkamegosztás szerint – gondoskodni kell.
 
 (7)

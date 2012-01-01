@@ -12,11 +12,11 @@
 
 3. aránytalan teher: ha a gyermek, tanuló az óvodai nevelést, iskolai nevelést és oktatást lényegesen nehezebb körülmények között vagy jelentős költségnövekedés mellett tudja igénybe venni, figyelembe véve a gyermek, tanuló életkorát, sajátos nevelési igényét (pl. a változás miatt a nevelési-oktatási intézmény eléréséhez szükséges időtartam jelentősen megnövekszik; a nevelési-oktatási intézményt csak tömegközlekedési eszközzel, többszöri átszállással lehet megközelíteni);
 
-4. állami szerv: a helyi önkormányzatok és a kisebbségi önkormányzatok kivételével a költségvetési szervek tervezésének, gazdálkodásának, beszámolásának rendje szerint gazdálkodó szerv;
+4. állami szerv: a helyi önkormányzatok és a nemzetiségi önkormányzatok kivételével a költségvetési szervek tervezésének, gazdálkodásának, beszámolásának rendje szerint gazdálkodó szerv;
 
 5. ellenőrzés: a közoktatási intézmény működésének vizsgálata a hatályos jogszabályok és a nevelési, illetve pedagógiai program alapján;
 
-6. első szakképesítés: az iskolai rendszerű oktatás keretében szerzett minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására jogosít;
+6. első szakképesítés: az iskolai rendszerű oktatás keretében szerzett minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására jogosít, beleértve az Országos Képzési Jegyzék hatálybalépése előtt megszerzett szakképesítéseket is;
 
 7. emelt szintű oktatás: meghatározott tantárgy ismeretanyagának a helyi tanterv szerinti magasabb követelményekkel történő oktatása, a Nemzeti alaptantervben meghatározott órakeret felhasználásával;
 
@@ -28,7 +28,7 @@
 
 11. felügyelet a nevelési-oktatási intézményekben: a gyermek, tanuló testi épségének megóvásáról és erkölcsi védelméről történő gondoskodás, a nevelési-oktatási intézménybe történő belépéstől a nevelési-oktatási intézmény jogszerű elhagyásáig terjedő időben, továbbá a nevelési, illetve a pedagógiai program részeként tartott kötelező, a nevelési-oktatási intézményen kívül tartott foglalkozások, programok ideje alatt;
 
-12. fenntartó: az a jogi személy (helyi önkormányzat, állami szerv, egyházi jogi személy, felsőoktatási intézmény, vállalat, szövetkezet, alapítvány, egyesület, kisebbségi érdek–képviseleti szervezet, kisebbségi önkormányzat és más jogi személy), illetőleg természetes személy (mint egyéni vállalkozó), amely, illetve aki a közoktatási szolgáltató tevékenység folytatásához szükséges jogosítvánnyal rendelkezik, és az e törvényben meghatározottaknak megfelelően a közoktatási intézmény működéséhez szükséges feltételekről gondoskodik;
+12. fenntartó: az a jogi személy (helyi önkormányzat, állami szerv, egyházi jogi személy, felsőoktatási intézmény, vállalat, szövetkezet, alapítvány, egyesület, kisebbségi érdek–képviseleti szervezet, nemzetiségi önkormányzat és más jogi személy), illetőleg természetes személy (mint egyéni vállalkozó), amely, illetve aki a közoktatási szolgáltató tevékenység folytatásához szükséges jogosítvánnyal rendelkezik, és az e törvényben meghatározottaknak megfelelően a közoktatási intézmény működéséhez szükséges feltételekről gondoskodik;
 
 13. iskolai évfolyam: a pedagógiai programban meghatározott követelmények oktatásának és elsajátításának szakasza;
 
@@ -48,7 +48,7 @@
 
 21. második és további szakképesítés: minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására jogosít, és már meglévő – államilag elismert – szakképesítés birtokában szerzik meg; figyelmen kívül kell hagyni azt az államilag elismert szakképesítést, amelyet iskolarendszeren kívüli oktatásban szereztek; nem számít második szakképesítésnek a meglévő szakképesítéssel betölthető munkakör magasabb színvonalon való ellátását biztosító képzésben – jogszabályban meghatározott körben – szerezhető szakképesítés.
 
-22. megfelelő színvonalon való további gondoskodás: ha az új feltételek között folyó óvodai nevelés, iskolai oktatás, kollégiumi nevelés személyi és tárgyi feltételei megfelelnek a szabványoknak, a közoktatási törvény 1. és 3. számú mellékletében meghatározott előírásoknak, s továbbra is biztosítottak a meglévő pedagógiai szolgáltatások (pl. a nemzeti vagy etnikai kisebbségi óvodai nevelés, iskolai nevelés és oktatás a nyelvi környezetben; nem szűnik meg tagozatos oktatás, sajátos nevelési igényű gyermekek, tanulók sajátos nevelése és oktatása, tanulási nehézséggel küzdők nevelése, oktatása) igénybevétele;
+22. megfelelő színvonalon való további gondoskodás: ha az új feltételek között folyó óvodai nevelés, iskolai oktatás, kollégiumi nevelés személyi és tárgyi feltételei megfelelnek a szabványoknak, a közoktatási törvény 1. és 3. számú mellékletében meghatározott előírásoknak, s továbbra is biztosítottak a meglévő pedagógiai szolgáltatások (pl. a nemzetiségi óvodai nevelés, iskolai nevelés és oktatás a nyelvi környezetben; nem szűnik meg tagozatos oktatás, sajátos nevelési igényű gyermekek, tanulók sajátos nevelése és oktatása, tanulási nehézséggel küzdők nevelése, oktatása) igénybevétele;
 
 23. minőségirányítás: az a tevékenység, amelynek során a közoktatási intézmény folyamatosan biztosítja a szakmai célkitűzések és az intézmény működésének egymáshoz való közelítését, a tanulók, a szülők, a pedagógusok, valamint a fenntartók, továbbá a munkaerőpiac igényeinek kielégítése céljából;
 
@@ -66,7 +66,7 @@ c) tíz százalékát, levelező oktatás
 
 munkarendje szerint folyó oktatás. Más sajátos munkarend szerint folyik az oktatás, ha a tanulónak tanórai foglalkozáson egyáltalán nem kell részt vennie, illetve, ha a tanórai foglalkozások száma nem éri el a levelező oktatásra meghatározott óraszámot.
 
-27. országos feladat ellátása: országos feladatot lát el a közoktatási intézmény, ha a szolgáltatásait igénybe vevők legalább ötvenegy százaléka – feladatellátási helyenként külön-külön vizsgálva, leszámítva azt a megyét (fővárost), ahol a feladatellátási hely található – legkevesebb öt különböző megyéből (fővárosból) élők közül kerül ki, feltéve, hogy az adott feladatot ellátó, szolgáltatást nyújtó közoktatási intézményből legfeljebb három működik az országban (például nemzeti, etnikai kisebbségi feladatot lát el, vallási, világnézeti tekintetben elkötelezett intézményként működik, gyógypedagógiai feladatot lát el); továbbá az e törvény 81. §-a (10) és (12) bekezdésének alkalmazásában akkor is, ha kisebbségi nevelés, oktatás feladatait látja el, illetve vallási, világnézeti tekintetben elkötelezett nevelést, oktatást folytat és az országban legfeljebb egy ilyen intézmény található, amelyik egy településen, a fővárosban egy kerületben működik.
+27. országos feladat ellátása: országos feladatot lát el a közoktatási intézmény, ha a szolgáltatásait igénybe vevők legalább ötvenegy százaléka – feladatellátási helyenként külön-külön vizsgálva, leszámítva azt a megyét (fővárost), ahol a feladatellátási hely található – legkevesebb öt különböző megyéből (fővárosból) élők közül kerül ki, feltéve, hogy az adott feladatot ellátó, szolgáltatást nyújtó közoktatási intézményből legfeljebb három működik az országban (például nemzetiségi feladatot lát el, vallási, világnézeti tekintetben elkötelezett intézményként működik, gyógypedagógiai feladatot lát el); továbbá az e törvény 81. §-a (10) és (12) bekezdésének alkalmazásában akkor is, ha nemzetiségi nevelés, oktatás feladatait látja el, illetve vallási, világnézeti tekintetben elkötelezett nevelést, oktatást folytat és az országban legfeljebb egy ilyen intézmény található, amelyik egy településen, a fővárosban egy kerületben működik.
 
 28. sajátos nevelési igényű neveléshez és oktatáshoz szükséges feltételek: a gyermek, tanuló külön óvodai neveléséhez, illetve iskolai neveléséhez és oktatásához, a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, konduktor foglalkoztatása, a neveléshez és oktatáshoz szükséges speciális tanterv, tankönyv és más segédletek; magánoktatáshoz, integrált óvodai neveléshez, iskolai neveléshez és oktatáshoz, a fejlesztő felkészítéshez, az illetékes szakértői bizottság által meghatározottak szerinti foglalkozáshoz szükséges szakirányú végzettségű gyógypedagógus foglalkoztatása; a foglalkozásokhoz szükséges speciális tanterv, tankönyv, valamint speciális gyógyászati és technikai eszközök; a gyermek, tanuló részére a szakértői és rehabilitációs bizottság által meghatározott szakmai szolgáltatások biztosítása;
 
@@ -94,7 +94,7 @@ b) az érettségi vizsga, a szakmai vizsga;
 
 36. tagintézmény: a székhelyen kívül – azonos vagy más településen – működő – azonos vagy különböző feladatot ellátó – intézményegység, ha a székhelytől való távolság, a feladatok jellege miatt az irányítási, képviseleti feladatok a székhelyről nem vagy csak részben láthatók el;
 
-37. tagozat: az óvodában, iskolában az alapfeladattal megegyező felnőttoktatásra, sajátos nevelési igényű gyermekek óvodai nevelésére, illetve sajátos nevelési igényű tanulók iskolai oktatására, nemzetiségi és etnikai kisebbséghez tartozók óvodai nevelésére, iskolai oktatására, két tanítási nyelvű iskolai oktatásra létrehozott intézményegység;
+37. tagozat: az óvodában, iskolában az alapfeladattal megegyező felnőttoktatásra, sajátos nevelési igényű gyermekek óvodai nevelésére, illetve sajátos nevelési igényű tanulók iskolai oktatására, nemzetiséghez tartozók óvodai nevelésére, iskolai oktatására, két tanítási nyelvű iskolai oktatásra létrehozott intézményegység;
 
 38. tanév: az iskolában, kollégiumban általában szeptember 1-jétől a következő év augusztus 31-éig tartó időszak;
 
@@ -112,17 +112,21 @@ b) az érettségi vizsga, a szakmai vizsga;
 
 45. térségi feladat ellátása: térségi feladatot lát el a közoktatási intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több megyében, illetve a főváros határain kívül élők veszik igénybe;
 
-46. működést engedélyező szerv: a Kormány általános hatáskörű területi államigazgatási szerve.
+46.
+
+47. megyei fenntartó: a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló törvény szerint kijelölt szerv.
+
+48. önkormányzati feladatellátás: önkormányzati feladatot lát el a helyi önkormányzat, az önkormányzati társulás, a többcélú kistérségi társulás fenntartásában működő nevelési-oktatási intézmény, továbbá az a nem állami, nem helyi önkormányzati fenntartású – ide nem értve az országos kisebbségi önkormányzati fenntartású, a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 47. § (4) bekezdése szerint az országos kisebbségi önkormányzat által átvett nevelési oktatási intézményt az átvétel időtartama alatt – nevelési-oktatási intézmény, amely a 81. § (1) bekezdése e) pontja szerinti közoktatási megállapodás keretében közreműködik a helyi önkormányzat kötelező feladatának ellátásában, illetve a 81. § (11) bekezdésében meghatározott esetben a fenntartó egyoldalú nyilatkozatát a települési önkormányzathoz eljuttatta, vagy az oktatásért felelős miniszterrel közoktatási megállapodást kötött.
 
 (2) Az általános iskolai oktatás a helyi önkormányzatokról szóló 1990. évi LXV. törvény 8. §-a (4) bekezdésének alkalmazásában az alapfokú oktatás.
 
-(3) Tanulói viszony a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény alkalmazásában az óvodai nevelésben való részvétel, a tanulói jogviszony és a tanulószerződéses jogviszony, továbbá a kollégiumi tagsági viszony.
+(3)
 
 (4) A gyermek napközbeni ellátása a gyermekgondozási segély és az anyasági támogatás igénybevételére való jogosultság megállapításánál rehabilitációs célú foglalkoztatásnak minősül, ha az óvodai nevelést, az iskolai napközis foglalkozást, a kollégiumi elhelyezést a szakértői és rehabilitációs bizottság vagy a nevelési tanácsadó szakértői véleménye alapján veszik igénybe.
 
 (5) Közoktatási intézmény tekintetében felügyeleti szerven a fenntartót, felügyeleten a fenntartói irányítást, szakmai és gazdasági felügyeleten a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 
-(6) A nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 6/A. § (1) bekezdés 3. pontjában meghatározott kisebbségi intézmény e törvény alkalmazásában az a közoktatási intézmény, amelynek alapító okirata az e törvény 37. §-ának (5) bekezdésében foglaltak szerint tartalmazza a nemzeti, etnikai kisebbségi feladatok ellátását, feltéve, hogy e feladatokat a közoktatási intézmény ténylegesen ellátja, továbbá óvoda, iskola és kollégium esetében a tanulók legalább huszonöt százaléka részt vett a nemzeti, etnikai kisebbségi óvodai nevelésben, illetve a nemzeti, etnikai kisebbségi iskolai nevelésben-oktatásban. Többcélú intézményben, illetve ha a közoktatási intézménynek tagintézménye van, a nemzeti, etnikai kisebbségi feladatok ellátásában való részvételt intézményegységenként, illetve tagintézményenként kell vizsgálni. Ha az intézményegység, illetve a tagintézmény megfelel a kisebbségi intézményekre e bekezdésben meghatározott feltételeknek, a nemzeti, etnikai kisebbségi feladatok ellátásában részt vevő intézményegység, illetve tagintézmény tekintetében a kisebbségi önkormányzatot megilletik mindazok a jogok, amelyeket e törvény rendelkezései alapján a nemzeti, etnikai kisebbségi feladatok ellátásában közreműködő közoktatási intézmény tekintetében gyakorolhat.
+(6)
 
 (7) Ahol jogszabály valamely kedvezményre, juttatásra való jogosultságot tanulói jogviszony fennállásához köti, tanulói jogviszony alatt a fejlesztő felkészítést is érteni kell.
 
@@ -139,3 +143,19 @@ d) a bekerülési érték legalább hetven százalékában pénzbeli kártalaní
 (9) Ha jogszabály az óvodai nevelésben részt vevő, a tanulói jogviszonyban, kollégiumi tagsági viszonyban álló vagy a képzési kötelezettséget teljesítő fogyatékos gyermek részére kedvezményt, juttatást, jogosultságot, kötelezettséget állapít meg, a fogyatékos gyermek, tanuló fogalom alatt a sajátos nevelési igényű gyermeket, tanulót kell érteni.
 
 (10) A tanulók tankönyvellátását szolgáló központi költségvetési támogatás terhére a készségfejlesztő speciális szakiskolai oktatáshoz és a fejlesztő iskolai oktatáshoz a szakmai munkaközösség és az iskolai szülői szervezet (közösség) egyetértésével a pedagógiai programban foglaltak megvalósítását szolgáló, a tankönyvjegyzékben nem szereplő könyvek, munkafüzetek, feladatlapok, digitális ismerethordozók is beszerezhetők tankönyv helyett, ha az iskolában a nevelő és oktató munkához részben vagy egészben nem alkalmaznak tankönyvet.
+
+(11) Ha a nevelési, oktatási intézmény alapító okiratában, működési engedélyében, nyilvántartásba vételi határozatában az intézmény alaptevékenységei között
+
+a) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra visszavezethető tartós és súlyos rendellenességével küzdő gyermekek, tanulók ellátása szerepel, azon a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos rendellenességével küzdő gyermekek, tanulók ellátását,
+
+b) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra vissza nem vezethető tartós és súlyos rendellenességével küzdő gyermekek, tanulók ellátása szerepel, azon a megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével küzdő gyermekek, tanulók ellátását
+
+is érteni kell.
+
+(12) Ha a sajátos nevelési igényű gyermek, tanuló szakértői véleményében a sajátos nevelési igényt
+
+a) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra visszavezethető tartós és súlyos rendellenessége alapozza meg, azon a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos rendellenességét,
+
+b) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra vissza nem vezethető tartós és súlyos rendellenessége alapozza meg, azon a megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességét
+
+is érteni kell.

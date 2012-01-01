@@ -16,7 +16,7 @@ e) közreműködik az ágazati irányítás keretébe tartozó területfejleszt�
 
 f) közreműködik a közoktatás statisztikai rendszerével összefüggő feladatok ellátásában.
 
-(3) A közoktatási feladatkörében eljáró oktatási hivatal a nemzeti, etnikai kisebbségi óvodai neveléssel, iskolai oktatással, kollégiumi neveléssel kapcsolatos feladatainak ellátásakor együttműködik az Országos Kisebbségi Bizottsággal.
+(3) A közoktatási feladatkörében eljáró oktatási hivatal a nemzetiségi óvodai neveléssel, iskolai oktatással, kollégiumi neveléssel kapcsolatos feladatainak ellátásakor együttműködik az Országos Kisebbségi Bizottsággal.
 
 (4) A közoktatási feladatkörében eljáró oktatási hivatal hatósági ellenőrzés keretében vizsgálja
 
@@ -64,11 +64,11 @@ e) a semmisség megállapítása, illetve a megtámadható döntés érvénytele
 
 (9) A közoktatási feladatkörében eljáró oktatási hivatal a hatósági ellenőrzési feladatait rendszeresen, az oktatásért felelős miniszter által jóváhagyott munkaterv alapján végzi.
 
-(10) A közoktatási feladatkörében eljáró oktatási hivatal a hozzá befolyt bírság hatvan százalékát a Közoktatási Fejlesztési Célelőirányzat számlájára utalja át. A fennmaradó összeg a saját bevétele, amely a hatósági ellenőrzéssel összefüggő személyi kiadásokra is felhasználható.
+(10)
 
 (11)
 
-(12) A közoktatási feladatkörében eljáró oktatási hivatal az országgyűlési biztos megkeresésére – az e törvény 107. §-ában foglaltak megtartásával – vizsgálatot végez.
+(12)
 
 (13)
 

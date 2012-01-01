@@ -2,15 +2,15 @@
 
 107. § (1) A közoktatási intézmény szakmai ellenőrzésében – a (2) bekezdés b) pontjában meghatározott kivétellel – közoktatási szakértő vehet részt.
 
-(2) Ha a szakmai ellenőrzés nemzeti, etnikai kisebbségi feladatot ellátó közoktatási intézményben folyik
+(2) Ha a szakmai ellenőrzés nemzetiségi feladatot ellátó közoktatási intézményben folyik
 
-a) az ellenőrzést a nemzeti, etnikai kisebbség nyelvét beszélő szakértő vezetheti, ha nincs ilyen szakértő, a vizsgálatot nemzeti, etnikai kisebbség nyelvét beszélő pedagógus bevonásával kell végezni;
+a) az ellenőrzést a nemzetiség nyelvét beszélő szakértő vezetheti, ha nincs ilyen szakértő, a vizsgálatot nemzetiség nyelvét beszélő pedagógus bevonásával kell végezni;
 
-b) a szakmai ellenőrzésről értesíteni kell az országos kisebbségi önkormányzatot, amelyik az e törvény 101. §-ának (3) bekezdésében meghatározott feltétellel rendelkező képviselőjével – akkor is, ha az nem közoktatási szakértő – részt vehet a szakmai ellenőrzésben.
+b) a szakmai ellenőrzésről értesíteni kell az országos nemzetiségi önkormányzatot, amelyik az e törvény 101. §-ának (3) bekezdésében meghatározott feltétellel rendelkező képviselőjével – akkor is, ha az nem közoktatási szakértő – részt vehet a szakmai ellenőrzésben.
 
 (3) A szakmai ellenőrzés megkezdése előtt legalább hét nappal az ellenőrzés vezetőjének egyeztetnie kell a közoktatási intézmény vezetőjével és azzal, aki az ellenőrzést kezdeményezte, a szakmai ellenőrzés időtartamát, formáját, módszereit, az ellenőrzés időpontját, továbbá, hogy az érdekeltek milyen módon nyilváníthatnak véleményt az ellenőrzés megállapításairól. A (8) bekezdés a)–b) pontban meghatározott esetben a szakmai ellenőrzés megkezdése előtt legalább hét nappal értesíteni kell a közoktatási intézmény fenntartóját, tájékoztatva arról, hogy a szakmai ellenőrzés lefolytatásánál jelen lehet.
 
-(4) A szakmai ellenőrzés megállapításait megkapja az, akit az ellenőrzés érintett, továbbá az, akinek a kezdeményezésére az ellenőrzés indult, valamint a (8) bekezdés f) pontja kivételével a fenntartó. Ha az ellenőrzés nemzeti, etnikai kisebbségi feladatot ellátó közoktatási intézményben folyik, a szakmai ellenőrzés megállapításait meg kell küldeni a fenntartótól függően az érdekelt települési, vagy területi kisebbségi önkormányzatnak, valamint az országos kisebbségi önkormányzatnak.
+(4) A szakmai ellenőrzés megállapításait megkapja az, akit az ellenőrzés érintett, továbbá az, akinek a kezdeményezésére az ellenőrzés indult, valamint a (8) bekezdés f) pontja kivételével a fenntartó. Ha az ellenőrzés nemzetiségi feladatot ellátó közoktatási intézményben folyik, a szakmai ellenőrzés megállapításait meg kell küldeni a fenntartótól függően az érdekelt települési, vagy területi nemzetiségi önkormányzatnak, valamint az országos nemzetiségi önkormányzatnak.
 
 (5) Az, aki az ellenőrzés megállapításaival nem ért egyet, másik szakmai ellenőrzés keretében kérheti annak felülvizsgálatát.
 
@@ -20,11 +20,11 @@ b) a szakmai ellenőrzésről értesíteni kell az országos kisebbségi önkorm
 
 (8) Szakmai ellenőrzést – a költségek biztosítása mellett – indíthat
 
-a) országos, térségi, megyei, fővárosi szinten az oktatásért felelős miniszter, szakképzés tekintetében a szakképesítésért felelős miniszter az országos oktatáspolitikai célkitűzések előkészítése vagy a célkitűzések megvalósulásának megismerése, továbbá az országos kisebbségi önkormányzat a közoktatás nemzeti, etnikai kisebbségi feladatai végrehajtásának értékelése,
+a) országos, térségi, megyei, fővárosi szinten az oktatásért felelős miniszter, szakképzés tekintetében a szakképesítésért felelős miniszter az országos oktatáspolitikai célkitűzések előkészítése vagy a célkitűzések megvalósulásának megismerése, továbbá az országos nemzetiségi önkormányzat a közoktatás nemzetiségi feladatai végrehajtásának értékelése,
 
-b) megyei, fővárosi szinten a fővárosi, megyei önkormányzat a megyei, fővárosi fejlesztési terv, és az oktatáspolitikai célkitűzések előkészítése, megvalósulásának megismerése,
+b) fővárosi szinten a fővárosi önkormányzat, megyei szinten a Kormány általános hatáskörű területi államigazgatási szerve a megyei, fővárosi fejlesztési terv, és az oktatáspolitikai célkitűzések előkészítése, megvalósulásának megismerése,
 
-c) települési szinten a községi, városi, megyei jogú városi, fővárosi kerületi önkormányzat a helyi oktatáspolitikai célkitűzések előkészítése, megvalósulásuk megismerése, a települési kisebbségi önkormányzat a település nemzeti, etnikai kisebbségi óvodai neveléssel, iskolai neveléssel és oktatással összefüggő feladatok végrehajtásának áttekintése,
+c) települési szinten a községi, városi, megyei jogú városi, fővárosi kerületi önkormányzat a helyi oktatáspolitikai célkitűzések előkészítése, megvalósulásuk megismerése, a települési nemzetiségi önkormányzat a település nemzetiségi óvodai neveléssel, iskolai neveléssel és oktatással összefüggő feladatok végrehajtásának áttekintése,
 
 d) intézményi szinten a fenntartó, a helyi oktatáspolitikai célkitűzések előkészítése, vagy a célkitűzések megvalósulásának megismerése, illetve az egyes intézményekben végzett nevelő és oktató munka színvonalának értékelése,
 

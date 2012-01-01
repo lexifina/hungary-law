@@ -38,9 +38,9 @@ b) az iskola helyi tantervét, ennek keretén belül
 
 – a középszintű érettségi vizsga témaköreit,
 
-– nemzeti, etnikai kisebbségi iskolai nevelés és oktatás esetén a nemzeti, etnikai kisebbség anyanyelvi, történelmi, földrajzi, kultúra- és népismereti tananyagot,
+– nemzetiségi iskolai nevelés és oktatás esetén a nemzeti, etnikai kisebbség anyanyelvi, történelmi, földrajzi, kultúra- és népismereti tananyagot,
 
-– nemzeti, etnikai kisebbségi iskolai nevelésben és oktatásban részt vevő tanulók részére a magyar nyelv és kultúra elsajátítását biztosító tananyagot,
+– nemzetiségi iskolai nevelésben és oktatásban részt vevő tanulók részére a magyar nyelv és kultúra elsajátítását biztosító tananyagot,
 
 – a nemzeti, etnikai kisebbséghez nem tartozó tanulók részére a településen élő nemzeti, etnikai kisebbség kultúrájának megismerését szolgáló tananyagot,
 

@@ -2,7 +2,7 @@
 
 a) kollégiumi, napköziotthoni, tanulószobai ellátásban részesüljön;
 
-b) válasszon a választható tantárgyak, foglalkozások közül; a középiskolában – jogszabályban meghatározottak szerint – az angol nyelv elsajátításához felkészülési lehetőséget kapjon;
+b) válasszon a választható tantárgyak, foglalkozások közül;
 
 c) igénybe vegye az iskolában és kollégiumban rendelkezésre álló eszközöket, az iskola és kollégium létesítményeit (könyvtár, laboratórium, számítástechnikai központ, sport- és szabadidő-létesítmények stb.);
 

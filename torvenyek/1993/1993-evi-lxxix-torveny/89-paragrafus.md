@@ -2,7 +2,7 @@
 
 a) a tankötelezettség teljesítésével kapcsolatos feladatok (iskolahálózat kialakítása, a kilencedik, tizedik évfolyamon folyó oktatás biztosítása, beiratkozás, áthelyezés, a pedagógiai szakszolgálatok működtetése) ellátására;
 
-b) a nemzeti vagy etnikai kisebbséghez tartozó gyermekek, tanulók, továbbá a sajátos nevelési igényű gyermekek, tanulók óvodai, iskolai ellátásának megoldására;
+b) a nemzetiséghez tartozó gyermekek, tanulók, továbbá a sajátos nevelési igényű gyermekek, tanulók óvodai, iskolai ellátásának megoldására;
 
 c) a fejlesztő felkészítéshez szükséges feltételek megteremtésére, az utazó gyógypedagógusi, logopédusi, konduktori hálózat működtetésére;
 
