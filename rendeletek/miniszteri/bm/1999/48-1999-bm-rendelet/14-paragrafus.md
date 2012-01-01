@@ -1,1 +1,0 @@
-## A Rendőrség katasztrófavédelmi feladatai
