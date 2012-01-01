@@ -2,7 +2,7 @@
 
 ## AZ ORSZÁGOS KÖRNYEZETI KÁRMENTESÍTÉSI PROGRAM
 
-20. § (1)[^128] Az Országos Környezeti Kármentesítési Program (a továbbiakban: OKKP) célja:
+20. § (1)[^130] Az Országos Környezeti Kármentesítési Program (a továbbiakban: OKKP) célja:
 
 a) a felszín alatti víz, a földtani közeg veszélyeztetésének, szennyezettségének, károsodásának megismerése, nyilvántartásba vétele, valamint a szennyezettség kockázatának csökkentése, és a szennyezettség csökkentésének vagy megszüntetésének elősegítése;
 
@@ -26,4 +26,4 @@ a) alprogramot dolgoz ki, amelyet szabályozással, saját beruházással, illet
 
 b) belterületi állattartás esetén figyelemmel kíséri a külön jogszabályban meghatározott jó mezőgazdasági gyakorlat szabályainak alkalmazását, és ennek megvalósítását e rendelet hatálybalépését követő egy éven belül helyi állattartási rendelet megalkotásával, meglévő rendeletek esetén három éven belüli felülvizsgálatával is segíti.
 
-[^128]: A 20. § (1) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
+[^130]: A 20. § (1) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.

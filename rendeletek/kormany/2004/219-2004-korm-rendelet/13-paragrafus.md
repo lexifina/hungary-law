@@ -36,11 +36,11 @@ b) a magánszemélyek háztartási igényeit meg nem haladó tevékenységek
 
 (10)[^85] Az engedélyező hatóság az (1) bekezdés szerinti engedélyt, – ha a felügyelőség a 13. § (1) bekezdése szerinti engedélyezési eljárásban szakhatóságként vesz részt – a felügyelőség a szakhatósági állásfoglalását meghatározott időre, de legfeljebb tizenkét évre adja ki, és azt legalább négyévenként felülvizsgálja.
 
-(11) Az (1) bekezdés c) pontja szerinti időszakos vízfolyás szakaszokat az (5) bekezdés szerinti elővizsgálatra támaszkodva a környezetvédelmi és vízügyi igazgatóság véleményének kikérésével a felügyelőség állapítja meg.
+(11)[^86] Az (1) bekezdés c) pontja szerinti időszakos vízfolyás szakaszokat az (5) bekezdés szerinti elővizsgálatra támaszkodva a vízügyi igazgatóság véleményének kikérésével a felügyelőség állapítja meg.
 
 (12) A közvetlen bevezetésre vonatkozó szabályokat kell alkalmazni azokra az esetekre is, ha a szennyező anyag a felszín alatti vízszint emelkedése miatt kerül közvetlenül a telített zónába.
 
-(13)[^86] Az (1) bekezdés szerinti tevékenységek engedélyezése során a 10. § (1) bekezdés szerinti követelmények vizsgálatának ki kell terjednie a diffúz szennyezőforrásokból származó terhelésre is.
+(13)[^87] Az (1) bekezdés szerinti tevékenységek engedélyezése során a 10. § (1) bekezdés szerinti követelmények vizsgálatának ki kell terjednie a diffúz szennyezőforrásokból származó terhelésre is.
 
 [^75]: A 13. § (1) bekezdése szerinti, a 302/2008. (XII. 17.) Korm. rendelet előírásainak meg nem felelő tevékenységek engedélyezésére vonatkozóan lásd a 302/2008. (XII. 17.) Korm. rendelet 18. § (3) bekezdését.
 [^76]: A 13. § (1) bekezdés a) pontja alkalmazására lásd a 302/2008. (XII. 17.) Korm. rendelet – 182/2009. (IX. 10.) Korm. rendelet 653. §-a szerint módosított – 18. § (4) bekezdését. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -53,4 +53,5 @@ b) a magánszemélyek háztartási igényeit meg nem haladó tevékenységek
 [^83]: A 13. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^84]: A 13. § (9) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 359. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^85]: A 13. § (10) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 11. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^86]: A 13. § (13) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^86]: A 13. § (11) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 30. § k) pontja szerint módosított szöveg.
+[^87]: A 13. § (13) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

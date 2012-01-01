@@ -1,4 +1,4 @@
-48. §[^245] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+48. §[^248] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 80/68/EGK irányelve (1979. december 17.) a felszín alatti vizeknek egyes kockázatos anyagok által okozott szennyezésével szembeni védelméről, 1. cikk és 3. cikk, 4. cikk (1) és (3) bekezdés, 5–18. cikk, 21. cikk (1) bekezdés, valamint a melléklet;
 
@@ -14,4 +14,4 @@ f) az Európai Parlament és a Tanács 2006/118/EK (2006. december 12.) irányel
 
 (2) Ez rendelet az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2006. január 18-i 166/2006/EK európai parlamenti és tanácsi rendelet 5. cikke (3) és (5) bekezdésének, valamint 20. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^245]: A 48. § a 302/2008. (XII. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^248]: A 48. § a 302/2008. (XII. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
