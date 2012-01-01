@@ -1,36 +1,39 @@
 ## A díj mértéke
 
-6. § (1) A díj mértéke a gépjármű kategóriájától függ. A díjkategóriák a következők:
+6. § (1)[^25] A díj mértéke a gépjármű kategóriájától függ. A díjkategóriák a következők:
 
-a)[^15] D1 díjkategória: a motorkerékpár, valamint a legfeljebb 3,5 tonna megengedett legnagyobb össztömegű gépjármű és mindezek bármilyen vontatmánnyal is,
+a) D1 díjkategória: motorkerékpár, valamint a legfeljebb 3,5 tonna megengedett legnagyobb össztömegű gépjármű bármilyen vontatmánnyal is,
 
-b) D2 díjkategória: a 3,5 tonnát meghaladó, legfeljebb 7,5 tonna megengedett legnagyobb össztömegű gépjármű, valamint gépjármű és vontatmány együttese (járműszerelvény),
+b) D2 díjkategória: a 3,5 tonnát meghaladó, legfeljebb 7,5 tonna megengedett legnagyobb össztömegű gépjármű, valamint járműszerelvény (gépjármű és vontatmány),
 
-c) D3 díjkategória: a 7,5 tonnát meghaladó, legfeljebb 12,0 tonna megengedett legnagyobb össztömegű gépjármű, valamint gépjármű és vontatmány együttese (járműszerelvény),
+c) D3 díjkategória: a 7,5 tonnát meghaladó, legfeljebb 12,0 tonna megengedett legnagyobb össztömegű gépjármű, valamint járműszerelvény (gépjármű és vontatmány),
 
-d) D4 díjkategória: a D1, D2 vagy D3 díjkategóriába nem sorolható valamennyi gépjármű.
+d) D4 díjkategória: a 12,0 tonnát meghaladó megengedett legnagyobb össztömegű gépjármű, valamint járműszerelvény (gépjármű és vontatmány).
 
-(2)[^16] A motorkerékpár úthasználatért fizetendő 4 napos jogosultság díja a D1 kategória 4 napos jogosultság díjának 50%-a.
+(2)[^26] Nem kell díjat fizetni a mezőgazdasági erőgép és vontatmánya után a díjfizetés ellenében használható utakról szóló jogszabály szerint díjfizetés ellenében használható főutak használatáért.
 
-(3)[^17] A 7,5 tonnát meghaladó össztömegű autóbuszt, ide értve a bármilyen vontatmánnyal ellátottat is, az autóbusz össztömegének megfelelő díjkategóriánál eggyel alacsonyabb díjkategóriába kell besorolni.
+(3)[^27] A 7,5 tonnát meghaladó össztömegű autóbuszt, ide értve a bármilyen vontatmánnyal ellátottat is, az autóbusz össztömegének megfelelő díjkategóriánál eggyel alacsonyabb díjkategóriába kell besorolni.
 
 (4) A gépjármű és a vontatmány megengedett legnagyobb össztömegének értékét a forgalmi engedélyben szereplő hatósági bejegyzés alapján kell meghatározni.
 
-(5)[^18] A jogosultság – áfát is tartalmazó – ára a következő:
+(5)[^28] A jogosultság általános forgalmi adóval terhelt ára a következő:
 
-| Bruttó ár Ft-ban |
+|  |  |  |  | Bruttó ár forintban |
 
-| Díjkategória | 1 napos | 4 napos | Heti | Havi | Éves |
+| Díjkategória | 1 napos | Heti | Havi | Éves |
 
-| D1 |  | 1 650 | 2 750 | 4 500 | 40 000 |
+| D1 |  | 2 975 | 4 780 | 42 980 |
 
-| D2 | 3 000 | – | 7 750 | 13 000 | 115 000 |
+| D2 | 3 375 | 8 255 | 13 970 | 123 975 |
 
-| D3 | 3 000 | – | 11 750 | 19 000 | 172 000 |
+| D3 | 3 375 | 12 600 | 20 370 | 184 985 |
 
-| D4 | 3 000 | – | 14 750 | 24 000 | 215 000 |
+| D4 | 3 375 | 15 875 | 25 785 | 234 950 |
 
-[^15]: A 6. § (1) bekezdésének a) pontja a Magyar Közlöny 2007. évi 48. számában megjelent helyesbítésnek megfelelő szöveg.
-[^16]: A 6. § (2) bekezdése a 108/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^17]: A 6. § (3) bekezdése a 38/2010. (V. 6.) KHEM rendelet 2. §-ával megállapított szöveg.
-[^18]: A 6. § (5) bekezdése a 33/2010. (XII. 28.) NFM rendelet 2. §-ával megállapított szöveg.
+(6)[^29] A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint.
+
+[^25]: A 6. § (1) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^26]: A 6. § (2) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^27]: A 6. § (3) bekezdése a 38/2010. (V. 6.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^28]: A 6. § (5) bekezdése a 95/2011. (XII. 30.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^29]: A 6. § (6) bekezdését a 95/2011. (XII. 30.) NFM rendelet 5. § (3) bekezdése iktatta be.
