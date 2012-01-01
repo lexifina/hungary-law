@@ -1,0 +1,3 @@
+## 34. § A fizetési meghagyásos eljárás során érvényesülő költségkedvezmény előfeltételeiről, engedélyezéséről, megvonásáról és a költségek előlegezéséről, továbbá az előlegezett, valamint a nem előlegezett költségek megfizetéséről és behajtásáról, a költségkedvezmény engedélyezésének alapjául szolgáló körülmények igazolásáról szóló 24/2010. (V. 7.) IRM rendelet 4. § (3) bekezdésében a „megyei bíróság” szövegrész helyébe a „törvényszék” szöveg lép.
+
+## 35. A fizetési meghagyásos eljárás, a fizetési meghagyás végrehajtásának elrendelése során érvényesülő ügyviteli és iratkezelési szabályokról szóló 28/2010. (V. 12.) IRM rendelet módosítása

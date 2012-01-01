@@ -1,0 +1,3 @@
+## 33. § Az egyedi azonosításra kétséget kizáróan alkalmas ingó dolgok zálogjogi nyilvántartásának részletes szabályairól szóló 80/2009. (XII. 28.) IRM rendelet 22. § (4) bekezdésében a „megyei bírósághoz” szövegrész helyébe a „törvényszékhez” szöveg lép.
+
+## 34. A fizetési meghagyásos eljárás során érvényesülő költségkedvezmény előfeltételeiről, engedélyezéséről, megvonásáról és a költségek előlegezéséről, továbbá az előlegezett, valamint a nem előlegezett költségek megfizetéséről és behajtásáról, a költségkedvezmény engedélyezésének alapjául szolgáló körülmények igazolásáról szóló 24/2010. (V. 7.) IRM rendelet módosítása
