@@ -26,7 +26,7 @@ képviselője.
 
 (8) A pályázatokat a benyújtási határidőt követő harminc napon belül kell elbírálni.
 
-(9) A munkakör betöltéséről – a szakmai bizottság véleményét is mérlegelve – a munkáltatói jogkör gyakorlója harminc napon belül, önkormányzati fenntartó esetén a következő képviselő-testületi ülésén dönt. A nemzeti és etnikai kisebbségi előadó-művészeti szervezet esetében a munkáltató – ha nem kisebbségi önkormányzat – az érintett kisebbségi önkormányzat egyetértésével dönt. A döntést a szakmai bizottság véleményével együtt nyilvánosságra kell hozni. A nyilvántartásba vett előadó-művészeti szervezet a sikeres pályázat egy példányát a döntést követő 15 napon belül az előadó-művészeti államigazgatási szerv részére megküldi.
+(9) A munkakör betöltéséről – a szakmai bizottság véleményét is mérlegelve – a munkáltatói jogkör gyakorlója harminc napon belül, önkormányzati fenntartó esetén a következő képviselő-testületi ülésén dönt. A nemzetiségi előadó-művészeti szervezet esetében a munkáltató – ha nem nemzetiségi önkormányzat – az érintett nemzetiségi önkormányzat egyetértésével dönt. A döntést a szakmai bizottság véleményével együtt nyilvánosságra kell hozni. A nyilvántartásba vett előadó-művészeti szervezet a sikeres pályázat egy példányát a döntést követő 15 napon belül az előadó-művészeti államigazgatási szerv részére megküldi.
 
 (10) Ha a pályázat eredménytelen, úgy legkésőbb az eredménytelenségről szóló döntéstől számított harminc napon belül újra ki kell írni a pályázatot.
 

@@ -1,6 +1,6 @@
 1. § (1) E törvény célja, hogy
 
-a) biztosítsa az előadó-művészeti élet szabadságának megvalósulását,
+a) biztosítsa a művészeti alkotás szabadságának megvalósulását,
 
 b) fejlessze a színház, tánc- és zeneművészet művelését és ápolja a magyar anyanyelvi kultúrát,
 
@@ -12,7 +12,7 @@ e) biztosítsa a közpénzek hatékony és átlátható felhasználását,
 
 f) támogassa az előadó-művészeti társulati értékteremtő munkát,
 
-g) elősegítse magyar nyelvű alkotások létrejöttét, ideértve a határon túli magyar alkotók és előadó-művészeti szervezetek értékteremtő tevékenységét is, magyar szerzők műveinek előadását, hazai nemzeti és etnikai kisebbségek nyelvén születő alkotások létrejöttét és bemutatását,
+g) elősegítse magyar nyelvű alkotások létrejöttét, ideértve a határon túli magyar alkotók és előadó-művészeti szervezetek értékteremtő tevékenységét is, magyar szerzők műveinek előadását, hazai nemzetiségek nyelvén születő alkotások létrejöttét és bemutatását,
 
 h) támogassa az előadó-művészeti szervezetek művészeti és gazdasági együttműködését, hazai és külföldi vendégelőadások létrejöttét, színvonalas külföldi alkotások magyarországi bemutatását,
 

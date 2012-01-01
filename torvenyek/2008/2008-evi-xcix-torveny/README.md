@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-99-00-00
 | 2010-09-01 | 2010. évi LXX. törvény | 2008-99-00-00.6 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 2008-99-00-00.7 |
 | 2011-08-18 | 2011. évi LXXXVI. törvény | 2008-99-00-00.8 |
+| 2012-01-01 | 2011. évi CLXVI. törvény | 2008-99-00-00.9 |

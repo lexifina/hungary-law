@@ -1,6 +1,6 @@
-24. § (1) A költségvetési törvény meghatározza az I–VI. kategóriába sorolt színházak, balett- vagy táncegyüttesek, valamint az I–II. kategóriába sorolt zenekarok és énekkarok elosztható támogatásának keretösszegeit.
+24. § (1) A központi költségvetésről szóló törvény meghatározza az I–VI. kategóriába sorolt színházak, balett- vagy táncegyüttesek, valamint az I–II. kategóriába sorolt zenekarok és énekkarok elosztható támogatásának keretösszegeit.
 
-(2) Az előadó-művészetben jelentkező újító törekvések támogatása és a magánszféra versenyképességének erősítése érdekében a VI. kategóriába sorolt színházak pályázati úton elosztható támogatásának aránya az I–VI. kategóriába sorolt színházak, balett- vagy táncegyüttesek központi költségvetési támogatása keretösszegének 8%-a.
+(2) Az előadó-művészetben jelentkező újító törekvések támogatása és a magánszféra versenyképességének erősítése érdekében a VI. kategóriába sorolt színházak pályázati úton elosztható támogatásának aránya az I–V. kategóriába sorolt színházak, balett- vagy táncegyüttesek központi költségvetési támogatása keretösszegének figyelembevételével kerül megállapításra.
 
 (3) A költségvetési tervezés során a tárgyévet megelőző év március 31-ig szolgáltatott adatok szerinti besorolást kell figyelembe venni.
 

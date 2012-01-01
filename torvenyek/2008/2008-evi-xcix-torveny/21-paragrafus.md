@@ -4,7 +4,7 @@ a) gyermek- és ifjúsági előadások bemutatásának támogatására,
 
 b) színházi nevelési programok támogatására,
 
-c) új magyar nyelvű, illetve hazai kisebbségi nyelvű színpadi művek és zeneművek, valamint kortárs magyar, illetve magyarországi drámák új bemutató keretében történő bemutatására,
+c) új magyar nyelvű, illetve hazai nemzetiségi nyelvű színpadi művek és zeneművek, valamint kortárs magyar, illetve magyarországi drámák új bemutató keretében történő bemutatására,
 
 d) a tárgyévet megelőző évadban kiemelkedő művészeti teljesítményt nyújtó és az e törvényben meghatározott célok megvalósítása érdekében többletfeladatokat vállaló előadó-művészeti szervezetek támogatására,
 

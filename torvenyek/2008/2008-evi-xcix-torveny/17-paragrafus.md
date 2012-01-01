@@ -1,1 +1,1 @@
-17. § A III. kategóriába sorolt balett- vagy táncegyüttest, illetve a IV. kategóriába sorolt színházat központi költségvetési támogatásként a tárgyévet megelőző évi fenntartói támogatással arányos támogatás illeti meg, melynek mértékét a költségvetési törvény határozza meg.
+17. § A III. kategóriába sorolt balett- vagy táncegyüttest, illetve a IV. kategóriába sorolt színházat központi költségvetési támogatásként a tárgyévet megelőző évi fenntartói támogatással arányos támogatás illeti meg, melynek mértékét a központi költségvetésről szóló törvény határozza meg.

@@ -20,7 +20,7 @@ i) közreműködik a területét érintő minőségbiztosítási szempontrendsze
 
 j) tevékenységéről évente beszámolót készít.
 
-(2) A felosztási szabályzat tartalmazza
+(2) A felosztási szabályzat a központi költségvetésről szóló törvény tervezésének megalapozásához figyelembe veendő szempontként tartalmazza
 
 a) a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek tevékenységének értékelési rendjét, a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek művészeti támogatásainak a művészeti támogatási keretösszegen belüli, egymáshoz viszonyított arányát,
 

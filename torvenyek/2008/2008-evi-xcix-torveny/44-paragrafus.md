@@ -46,13 +46,13 @@
 
 20. klasszikus operett: legalább 30 fős zenekar, énekkar, táncosok és magánénekesek közreműködését igénylő zenés darab,
 
-21. kortárs magyar, illetve magyarországi dráma: magyar állampolgár vagy önmagát magyarnak valló élő vagy 15 évnél nem régebben elhunyt művész magyarul vagy nemzeti kisebbségi nyelven írt alkotása,
+21. kortárs magyar, illetve magyarországi dráma: magyar állampolgár vagy önmagát magyarnak valló élő vagy 15 évnél nem régebben elhunyt művész magyarul vagy nemzetiségi nyelven írt alkotása,
 
 22. kortárs magyar zenemű: magyar állampolgár vagy önmagát magyarnak valló élő vagy 30 évnél nem régebben elhunyt művész alkotása,
 
 23. közszolgáltatási szerződés: művészeti közszolgáltatás nyújtására irányuló, legalább három évre szóló, e törvény szerinti tartalommal megkötött szerződés,
 
-24. nemzeti és etnikai kisebbségi színház: az országos kisebbségi önkormányzat nyilatkozatával elismert, nemzeti kisebbségi nyelven játszó színház vagy magyar nyelven játszó színház, melynek az adott kisebbséghez kötődő alkotóközösségei által létrehozott előadásai alapvetően e kisebbségi közösség anyanyelvű művelődési igényeinek kielégítését szolgálják és kötődnek a kisebbségi közösség szocio-kulturális hátteréhez, hagyományaihoz,
+24. nemzetiségi színház: az országos nemzetiségi önkormányzat nyilatkozatával elismert, nemzetiségi nyelven játszó színház vagy magyar nyelven játszó színház, melynek az adott nemzetiséghez kötődő alkotóközösségei által létrehozott előadásai alapvetően e nemzetiségi közösség anyanyelvű művelődési igényeinek kielégítését szolgálják és kötődnek a nemzetiségi közösség szocio-kulturális hátteréhez, hagyományaihoz,
 
 25. népi koncertzenekar: népi eredetű (cigányzene, népies műdal) műveket vonós és fúvós összeállításban, cimbalommal vagy más népi hangszerrel kiegészítve előadó zenekar,
 
@@ -70,7 +70,7 @@
 
 32. szimfonikus zenekar: olyan zeneműveket játszó előadó-művészeti szervezet, melynek az előadásonkénti átlagos létszáma legalább 56 fő,
 
-33. színház: prózai, zenés, táncos színpadi művek előadásával foglalkozó előadó-művészeti szervezet, ide értve a bábszínházat, befogadó színházat, produkciós színházat, független színházat, szabadtéri színházat, nemzeti és etnikai kisebbségi színházat,
+33. színház: prózai, zenés, táncos színpadi művek előadásával foglalkozó előadó-művészeti szervezet, ide értve a bábszínházat, befogadó színházat, produkciós színházat, független színházat, szabadtéri színházat, nemzetiségi színházat,
 
 34. színházi nevelési program: legalább három óra időtartamú, maximum 40 főből álló csoportnak tartott program, amelynek résztvevői közoktatásban résztvevő gyerekek és fiatalok életkor tekintetében homogén közösségei, valamint amelyben művészeti értéket képviselő előadás vagy előadás-részletek és drámapedagógiai feldolgozó munka komplex, pedagógiai célokat megvalósító módon épülnek egymásra, továbbá szerkezetében és tartalmában igazodik az adott korcsoport életkori és pszichológiai sajátosságaihoz,
 
@@ -111,3 +111,13 @@ Ha nincs a művészeti munkakörnek megfelelő hazai szakirányú felsőfokú k�
 51. üzemeltetés: az előadó-művészeti szervezet tulajdonában vagy tartós használatában álló, a művészeti alaptevékenységhez kapcsolódó ingatlan és eszközök rendeltetésszerű használatához folyamatosan szükséges szolgáltatások, személyi és tárgyi feltételek biztosítása,
 
 52. vendégelőadás: olyan színházi alkotás, amelynek előadásához szükséges szerzői jogokkal a felhasználási szerződés alapján meghatározott időre vagy előadásszámra a vendégszínház rendelkezik, az előadás a vendégszínház által szerződtetett alkotó- és előadóművészek művészi tevékenységével jön létre, és a fogadó színház szervezésével, a fogadó színház költségvetéséből kerül a nyilvánosság elé.
+
+53. biztosítással járó jogviszony:
+
+a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
+
+b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
+
+c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
+
+54. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.

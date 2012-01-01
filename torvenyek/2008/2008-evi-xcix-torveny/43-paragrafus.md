@@ -1,1 +1,5 @@
 43. § A 39–42. § szabályait alkalmazni kell az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezetek esetén is azzal, hogy a 39. § (6) bekezdésében közalkalmazotti tanácson üzemi tanácsot kell érteni.
+
+3. CÍM
+
+BALETTMŰVÉSZETI ÉLETJÁRADÉK
