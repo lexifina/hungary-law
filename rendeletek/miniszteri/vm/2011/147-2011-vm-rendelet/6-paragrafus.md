@@ -1,0 +1,1 @@
+## 5. § A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 21/1997. (III. 12.) FM–HM együttes rendelet 4. számú melléklet 5. pontjában a „vízügyi igazgatóságok” szövegrész helyébe a „vízügyi igazgatóságok és a Nemzeti Környezetügyi Intézet” szöveg lép.

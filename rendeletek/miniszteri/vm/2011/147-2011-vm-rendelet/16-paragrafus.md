@@ -1,0 +1,1 @@
+## 15. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a vidékfejlesztési miniszter irányítása alá tartozó költségvetési szerveknél történő végrehajtásáról szóló 70/2011. (VII. 26.) VM rendelet (a továbbiakban: 70/2011. VM rendelet) melléklete e rendelet 1. melléklete szerint módosul.

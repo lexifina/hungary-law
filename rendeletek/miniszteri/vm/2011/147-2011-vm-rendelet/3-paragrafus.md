@@ -1,0 +1,1 @@
+## 2. § A Székesfehérvári homokbánya Természetvédelmi Terület létesítéséről és a Hansági Tájvédelmi Körzet bővítéséről, valamint természetvédelmi kezelők kijelöléséről szóló 2/1990. (XI. 21.) KTM rendelet 1. § (3) bekezdésében a „Közép-dunántúli Környezetvédelmi és Vízügyi Igazgatóság” szövegrész helyébe a „Duna-Ipoly Nemzeti Park Igazgatóság” szöveg lép.
