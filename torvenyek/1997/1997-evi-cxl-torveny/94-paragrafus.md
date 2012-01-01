@@ -8,9 +8,9 @@ b) a munkakör betöltéséhez jogszabályban meghatározott végzettséggel és
 
 (3) A szakképesítés alól jogszabályban meghatározott módon felmentés adható.
 
-(4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek hétévente szervezett képzésben vesznek részt. A miniszter rendeletben szabályozza a szervezett képzésnek minősülő képzési formák körét, a képzés alóli mentesítések lehetőségét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a szervezett képzéssel összefüggő igazgatási szolgáltatási díjak körét és azok mértékét.
+(4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben és szervezett képzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek és szervezett képzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben és szervezett képzésben való részvételéhez támogatás nyújtható.
 
-(5) Az e törvény hatálya alá tartozó intézményekben teljes munkaidőben, szakmai munkakörben foglalkoztatott munkavállalót megilleti az a jog, hogy – jogszabályban meghatározottak szerint – évenként, az éves költségvetési törvényben meghatározott összegű hozzájárulást vegyen igénybe dokumentum (nyomtatott, hangzó, elektronikus) vásárlására.
+(5)
 
 (6) Az e törvény hatálya alá tartozó intézményekben, szakmai munkakörökben foglalkoztatott, felsőfokú végzettségű munkavállalót kötelező bérpótlék illeti meg, ha tudományos, illetve kutatói munkakörben foglalkoztatják, továbbá ha tudományos fokozattal rendelkezik. Ennek mértéke a pótlékalap 50%-a.
 

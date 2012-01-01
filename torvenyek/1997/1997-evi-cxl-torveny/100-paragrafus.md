@@ -46,7 +46,7 @@ g) a muzeális intézmények tevékenységével összefüggő szakmai követelm�
 
 h)
 
-i) a muzeális intézmények szakmai normatíváit, a továbbképzés rendszerét és követelményeit,
+i) a muzeális intézmények szakmai normatíváit, a továbbképzés és a szervezett képzés rendszerét és követelményeit,
 
 j) a kulturális örökség közgyűjteményekben őrzött javai sokszorosításának, másolásának, adatrögzítésének és adatfelhasználásának jogát,
 
@@ -54,7 +54,7 @@ k)
 
 l) a muzeális intézményekre, a könyvtárakra és a közművelődési intézményekre vonatkozó szakfelügyelet rendjét,
 
-m) a különböző típusú könyvtárak működését, szakmai követelményeit és normatíváit, a továbbképzés rendszerét,
+m) a különböző típusú könyvtárak működését, szakmai követelményeit és normatíváit, a továbbképzés és a szervezett képzés rendszerét,
 
 n)
 
@@ -74,16 +74,22 @@ u) az önkormányzatok érdekeltségnövelő támogatását,
 
 v) a közművelődési és közgyűjteményi feladatfinanszírozás és a közművelődési és közgyűjteményi telematikai feladatfinanszírozás minisztérium fejezeti kezelésű címe felhasználását,
 
-w) a közép- és felsőfokú közművelődési továbbképzés és a minősített szakmai továbbképzés rendszerét és követelményeit,
+w) a közép- és felsőfokú közművelődési továbbképzés, a minősített szakmai továbbképzés és a szervezett képzés rendszerét és követelményeit,
 
 x) az egyes közművelődési munkakörök betöltéséhez szükséges képesítési feltételeket, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat,
 
 y) a muzeális intézményekben foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat,
 
-z) a továbbképzéssel összefüggő igazgatási szolgáltatási díjak körét és mértékét.
+z)
 
 (4)
 
 (5) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a könyvtári dokumentumok védelmét és nyilvántartását.
 
-(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben szabályozza a szakmai továbbképzési programokkal összefüggő és a népi iparművészeti alkotások és a „Népi Iparművész” minősítésért fizetendő igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.
+(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza
+
+a) a szakmai továbbképzési és szervezett képzési programokkal összefüggő és
+
+b) a népi iparművészeti alkotások és a Népi Iparművész minősítésért fizetendő
+
+igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.

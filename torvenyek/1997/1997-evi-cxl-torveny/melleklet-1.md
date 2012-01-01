@@ -38,7 +38,7 @@ m) Könyvtárközi dokumentumellátás:
 
 n) Könyvtárközi kölcsönzés: valamely dokumentum szolgáltatása egyik könyvtárból a másikba, beleértve az eredeti dokumentum kölcsönzését, a másolatok szolgáltatását, valamint a könyvtárközi dokumentumszolgáltatásra vonatkozó kérések közvetítését is.
 
-o) Közgyűjtemény: az állam, a helyi önkormányzat, valamint az országos kisebbségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívumok.
+o) Közgyűjtemény: az állam, a helyi önkormányzat, valamint az országos nemzetiségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívumok.
 
 p) Közművelődési intézmény: a lakosság közösségi közművelődési tevékenységéhez erre a célra alapított, fenntartott, működtetett, megfelelő szakmai, személyi, infrastrukturális feltételekkel és alapító okirattal rendelkező költségvetési szerv vagy egyéb fenntartású intézmény.
 

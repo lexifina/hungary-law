@@ -8,7 +8,7 @@ c) az országos dokumentumellátási rendszer működtetése,
 
 d) a határon túli magyarok könyvtári ellátásának segítése,
 
-e) a hazai nemzeti és etnikai kisebbségek könyvtári ellátásának segítése,
+e) a hazai nemzetiségek könyvtári ellátásának segítése,
 
 f) a nemzetközi szabványos dokumentumazonosító számok kiadása és nyilvántartása.
 

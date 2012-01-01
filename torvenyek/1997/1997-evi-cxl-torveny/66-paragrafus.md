@@ -4,10 +4,12 @@ a) ellátja a kötelespéldányokkal és a könyvtárközi dokumentumellátássa
 
 b) szervezi a területén működő könyvtárak együttműködését,
 
-c) végzi, illetőleg szervezi a megye nemzeti és etnikai kisebbségéhez tartozó lakosainak könyvtári ellátását,
+c) végzi, illetőleg szervezi a megye nemzetiséghez tartozó lakosainak könyvtári ellátását,
 
 d) a települési könyvtárak tevékenységét segítő szolgáltatásokat nyújt,
 
 e) szervezi a megyében működő nyilvános könyvtárak statisztikai adatszolgáltatását,
 
-f) végzi az iskolán kívüli könyvtári továbbképzést és szakképzést.
+f) végzi az iskolán kívüli könyvtári továbbképzést és szakképzést,
+
+g) könyvtárellátási szolgáltatásokat nyújt a települési nyilvános könyvtári szolgáltatások megszervezéséhez.

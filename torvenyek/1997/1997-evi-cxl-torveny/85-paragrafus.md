@@ -1,12 +1,12 @@
-85. § A megyei (fővárosi) önkormányzat a közművelődési szakmai tanácsadás és szolgáltatás feladatkörében
+85. § Az állam és a fővárosi önkormányzat a közművelődési szakmai tanácsadás és szolgáltatás feladatkörében
 
-a) elősegíti a területén működő települési önkormányzatok, nemzeti és etnikai kisebbségi önkormányzatok és a megye területén működő közművelődési szervezetek művelődési céljainak megvalósulását,
+a) elősegíti a megye közigazgatási területén működő települési önkormányzatok, nemzetiségi önkormányzatai önkormányzatok és a megye közigazgatási területén működő közművelődési szervezetek művelődési céljainak megvalósulását,
 
-b) együttműködik a közművelődési szakmai tanácsadó és szolgáltató szervvel, az országos szakmai érdekképviseleti szervezetekkel,
+b) együttműködik az országos közművelődési szakmai tanácsadást és szolgáltatást biztosító szervvel, az országos szakmai érdek-képviseleti szervezetekkel,
 
 c) közművelődési tevékenységgel összefüggő elemzéseket és fejlesztő programokat készít és hasznosít,
 
-d) részt vesz a térség nemzetközi, országos, megyei közművelődési rendezvényeinek szervezésében, gondozza a kistérségi, megyei, regionális, országos és nemzetközi kulturális kapcsolatokat,
+d) részt vesz a térség nemzetközi, országos, megyei, fővárosi közművelődési rendezvényeinek szervezésében, gondozza a kistérségi, megyei, regionális, országos és nemzetközi kulturális kapcsolatokat,
 
 e) gyűjti és összesíti a közművelődési információkat, megyei (fővárosi) adattárat kezel,
 

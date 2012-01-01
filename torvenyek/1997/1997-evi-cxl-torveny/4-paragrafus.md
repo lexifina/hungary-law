@@ -1,6 +1,6 @@
 4. § Mindenkinek joga, hogy
 
-a) megismerhesse a kulturális örökség javait és ezek jelentőségét a történelem alakulásában, a nemzeti, nemzetiségi és etnikai kisebbségi önismeret formálásában, valamint az ezek védelmével kapcsolatos ismereteket a muzeális intézmények tevékenysége, a könyvtári szolgáltatások, az oktatás, a közművelődés, az ismeretterjesztés, a sajtó és a tömegtájékoztatás útján,
+a) megismerhesse a kulturális örökség javait és ezek jelentőségét a történelem alakulásában, a nemzeti, nemzetiségi önismeret formálásában, valamint az ezek védelmével kapcsolatos ismereteket a muzeális intézmények tevékenysége, a könyvtári szolgáltatások, az oktatás, a közművelődés, az ismeretterjesztés, a sajtó és a tömegtájékoztatás útján,
 
 b) igénybe vegye a nyilvános könyvtári ellátás rendszerét, a muzeális és közművelődési intézmények szolgáltatásait,
 

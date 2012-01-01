@@ -12,7 +12,7 @@ c) kiadja a közép- és felsőfokú szakmai képzés, minősített szakmai tov�
 
 d) rendeletben határozza meg az egyes közművelődési munkakörök betöltéséhez szükséges képesítési feltételeket,
 
-e) véleményezési jogot gyakorol a helyi önkormányzatok közművelődési intézményeinek létesítése, átszervezése, szüneteltetése, megszüntetése esetén,
+e) véleményezési jogot gyakorol a települési önkormányzatok közművelődési intézményeinek létesítése, átszervezése, szüneteltetése, megszüntetése esetén,
 
 f)
 

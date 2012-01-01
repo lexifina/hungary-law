@@ -16,4 +16,4 @@
 
 (8) A működési engedélyben foglaltak betartását a miniszter által megbízott szakfelügyelő ellenőrzi.
 
-(9) Állami költségvetési támogatás a működési engedéllyel rendelkező muzeális intézmény számára adható.
+(9) Központi költségvetési támogatás a működési engedéllyel rendelkező muzeális intézmény számára adható.

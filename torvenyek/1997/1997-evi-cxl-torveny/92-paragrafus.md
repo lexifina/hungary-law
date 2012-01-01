@@ -4,7 +4,7 @@
 
 92. § (1) A közművelődési és közgyűjteményi szakterületek feladatellátásához az állami, önkormányzati felelősségvállalás közérdekű jellegéből fakadóan e törvény és az Ltv. által előírt kötelezettségek teljesítéséhez a központi költségvetés hozzájárul.
 
-(2) A minisztérium költségvetési fejezetén belül támogatást kell előirányozni az e törvényben és Ltv.-ben meghatározott közvetlen állami feladatok ellátására, a közművelődési és a közgyűjteményi feladatfinanszírozásra, a közgyűjtemények és a közművelődési intézmények telematikai, információs feladatainak ellátására, a 94. § (4) bekezdésében meghatározott képzés támogatására, amelyek mértékét az éves költségvetési törvény határozza meg.
+(2) A minisztérium költségvetési fejezetén belül támogatást kell előirányozni az e törvényben és Ltv.-ben meghatározott közvetlen állami feladatok ellátására, a közművelődési és a közgyűjteményi feladatfinanszírozásra, a közgyűjtemények és a közművelődési intézmények telematikai, információs feladatainak ellátására, amelyek mértékét az éves költségvetési törvény határozza meg.
 
 (3)
 

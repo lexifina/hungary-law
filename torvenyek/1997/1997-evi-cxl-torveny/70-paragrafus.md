@@ -6,7 +6,7 @@
 
 (2) A nyilvános könyvtári ellátásból adódó feladatok finanszírozásához a központi költségvetés járul hozzá:
 
-a) a nemzeti könyvtár és az országos szakkönyvtárak esetében a Magyar Köztársaság költségvetéséről szóló törvényben,
+a) a nemzeti könyvtár és az országos szakkönyvtárak esetében a központi költségvetésről szóló törvényben,
 
 b) a helyi önkormányzatok támogatása – a közművelődési és közgyűjteményi normatív hozzájárulás keretében – a helyi önkormányzatokért felelős miniszter által vezetett minisztérium költségvetési fejezetében,
 

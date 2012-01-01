@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-140-00-00
 | 2011-01-01 | 2010. évi CLXXXV. törvény | 1997-140-00-00.23 |
 | 2011-06-11 | 2011. évi LX. törvény | 1997-140-00-00.24 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1997-140-00-00.25 |
+| 2012-01-01 | 2011. évi CLIV. törvény | 1997-140-00-00.26 |
