@@ -1,6 +1,6 @@
 ## A gazdasági ügyek ügyvitele
 
-## 62. §[^77] A gazdasági ügyek ügycsoportjai a következők:
+## 62. §[^90] A gazdasági ügyek ügycsoportjai a következők:
 
 a) felszámolási nemperes ügy,
 
@@ -38,7 +38,7 @@ q) vagyonrendezési nemperes ügy,
 
 r) fellebbezett vagyonrendezési nemperes ügy,
 
-s)[^78] felterjesztett kifogás az eljárás elhúzódása miatt.
+s)[^91] felterjesztett kifogás az eljárás elhúzódása miatt.
 
-[^77]: A 62. § a 22/2004. (V. 18.) IM rendelet 13. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^78]: A 62. § s) pontját a 26/2006. (V. 18.) IM rendelet 14. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^90]: A 62. § a 22/2004. (V. 18.) IM rendelet 13. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^91]: A 62. § s) pontját a 26/2006. (V. 18.) IM rendelet 14. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
