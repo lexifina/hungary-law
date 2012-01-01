@@ -1,6 +1,6 @@
-## Európai Adatbank[^8]
+## Európai Adatbank[^10]
 
-## 37/A. §[^9] Az engedélyező
+## 37/A. §[^11] Az engedélyező
 
 a) a 32. § (2) bekezdése szerinti kérelem esetén a Melléklet 1., 3., 5. pontjában, valamint 9. pont a) pont aa)–ab) alpontjában feltüntetett adatokat;
 
@@ -16,5 +16,5 @@ f) a 37. § (5) bekezdése esetén a vizsgáló döntésének keltét, indokait
 
 továbbítja az Európai Adatbankba.
 
-[^8]: A 37/A. §-t megelőző alcímet a 73/2011. (IV. 29.) Korm. rendelet 11. §-a iktatta be.
-[^9]: A 37/A. §-t a 73/2011. (IV. 29.) Korm. rendelet 11. §-a iktatta be.
+[^10]: A 37/A. §-t megelőző alcímet a 73/2011. (IV. 29.) Korm. rendelet 11. §-a iktatta be.
+[^11]: A 37/A. §-t a 73/2011. (IV. 29.) Korm. rendelet 11. §-a iktatta be.

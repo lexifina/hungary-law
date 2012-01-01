@@ -1,6 +1,6 @@
 33. § (1) Az engedélyező a benyújtott dokumentáció és a szakhatóság állásfoglalása alapján dönt a klinikai vizsgálat engedélyezéséről.
 
-(2)[^5] A klinikai vizsgálat engedélyezéséről az engedélyező a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet szakhatósági állásfoglalásának birtokában dönt, ha a klinikai vizsgálatra szánt eszköz szerves részét képezi olyan anyag, amely önmagában használva – a Gytv. értelmében – gyógyszernek tekinthető, és alkalmas arra, hogy az eszköz hatásához képest kiegészítő jelleggel hasson az emberi szervezetre.
+(2)[^7] A klinikai vizsgálat engedélyezéséről az engedélyező a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet szakhatósági állásfoglalásának birtokában dönt, ha a klinikai vizsgálatra szánt eszköz szerves részét képezi olyan anyag, amely önmagában használva – a Gytv. értelmében – gyógyszernek tekinthető, és alkalmas arra, hogy az eszköz hatásához képest kiegészítő jelleggel hasson az emberi szervezetre.
 
 (3) A vizsgálat elutasításáról az engedélyező értesíti az EGT-megállapodásban részes államok illetékes hatóságait és az Európai Bizottságot.
 
@@ -38,4 +38,4 @@ l) a vizsgálati alanyok személyes adatai kezelésének módja, az azok megisme
 
 (8) A kérelmező az előzetes szakhatósági állásfoglalást a klinikai vizsgálat engedélyezési eljárásában annak kiadásától számított 90 napig használhatja fel. Az előzetes szakhatósági állásfoglalás kiállítása során a szakhatóság állásfoglalásának tartalmára az e címben előírtak az irányadók.
 
-[^5]: A 33. § (2) bekezdése az 59/2011. (IV. 12.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^7]: A 33. § (2) bekezdése az 59/2011. (IV. 12.) Korm. rendelet 18. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 42. §[^14] A 2011. május 1-jét megelőzően rendelkezésre álló 37/A. § szerinti adatokat az Egészségügyi Engedélyezési és Közigazgatási Hivatal legkésőbb 2012. április 30-ig továbbítja az Európai Adatbankba.
+## 42. §[^16] A 2011. május 1-jét megelőzően rendelkezésre álló 37/A. § szerinti adatokat az Egészségügyi Engedélyezési és Közigazgatási Hivatal legkésőbb 2012. április 30-ig továbbítja az Európai Adatbankba.
 
 ## Melléklet a 235/2009. (X. 20.) Korm. rendelethez
 
@@ -146,7 +146,7 @@
 
 ## 19. Multicentrikus vizsgálat esetén – amennyiben van – az EGT-megállapodásban részes állam etikai bizottsága által a vizsgálatról már kiadott vélemény
 
-2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^15]
+2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^17]
 
 |  | A | B |
 
@@ -190,5 +190,5 @@
 
 | 19. | Zala megye | Zala Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
-[^14]: A 42. §-t a 73/2011. (IV. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^15]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be.
+[^16]: A 42. §-t a 73/2011. (IV. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^17]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be.
