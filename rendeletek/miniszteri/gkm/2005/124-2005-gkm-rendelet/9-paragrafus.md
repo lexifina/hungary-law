@@ -8,9 +8,9 @@ a) a kérelmező részéről fennállnak-e a 3821/85/EGK tanácsi rendeletben a 
 
 b) a kérelmező részére adtak-e már ki azonos típusú tachográf kártyát,
 
-c) a gépjárművezetői kártyát kérelmező személy szokásos tartózkodási helye a Magyar Köztársaság területén van-e,
+c)[^42] a gépjárművezetői kártyát kérelmező személy szokásos tartózkodási helye Magyarország területén van-e,
 
-d)[^42] a gépjárművezetői kártyát kérelmező személy végez-e az 561/2006/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó tevékenységet.
+d)[^43] a gépjárművezetői kártyát kérelmező személy végez-e az 561/2006/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó tevékenységet.
 
 (2) Az (1) bekezdésben meghatározott feltételek teljesülése esetén rendelhetőek a tachográf kártyához az elektronikus biztonsági kódok, valamint ezt követően állítható elő a megszemélyesített tachográf kártya.
 
@@ -19,4 +19,5 @@ d)[^42] a gépjárművezetői kártyát kérelmező személy végez-e az 561/200
 (4) A kártyanyilvántartásból adatszolgáltatás – csak a hatósági feladatának ellátásához szükséges adatokra kiterjedően – jogszabályban erre felhatalmazott szervezet számára teljesíthető.
 
 [^41]: A 9. § e rendelet – 35/2006. (VI. 15.) GKM rendelet 4. §-ával megállapított – 15. § (2) bekezdése alapján 2006. június 23. napján lépett hatályba.
-[^42]: A 9. § (1) bekezdésének d) pontja a 42/2007. (IV. 4.) GKM rendelet 4. §-ával megállapított szöveg.
+[^42]: A 9. § (1) bekezdés c) pontja a 91/2011. (XII. 30.) NFM rendelet 49. §-a szerint módosított szöveg.
+[^43]: A 9. § (1) bekezdésének d) pontja a 42/2007. (IV. 4.) GKM rendelet 4. §-ával megállapított szöveg.

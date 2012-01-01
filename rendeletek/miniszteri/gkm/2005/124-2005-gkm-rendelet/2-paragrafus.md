@@ -30,9 +30,9 @@ i) ellenőr: az ellenőrző szerv feladatkörében eljáró hatósági személy;
 
 j) üzemben tartó: a tachográffal ellátott gépjármű üzemben tartója;
 
-k)[^6] jóváhagyó hatóság: a 3821/85/EGK tanácsi rendelet II. fejezetében meghatározott típusjóváhagyási feladatokat ellátó szervezet, amely a Magyar Köztársaság tekintetében a közlekedési hatóság;
+k)[^6] jóváhagyó hatóság: a 3821/85/EGK tanácsi rendelet II. fejezetében meghatározott típusjóváhagyási feladatokat ellátó szervezet, amely Magyarország tekintetében a közlekedési hatóság;
 
-l)[^7] kártyakibocsátó hatóság: a 3821/85/EGK tanácsi rendeletben, valamint e rendeletben a tachográf kártya kibocsátásával kapcsolatos feladatokat ellátó szervezet, amely a Magyar Köztársaság tekintetében a közlekedési hatóság;
+l)[^7] kártyakibocsátó hatóság: a 3821/85/EGK tanácsi rendeletben, valamint e rendeletben a tachográf kártya kibocsátásával kapcsolatos feladatokat ellátó szervezet, amely Magyarország tekintetében a közlekedési hatóság;
 
 m) kártyanyilvántartás: a kártyakibocsátó hatóság által kiadott tachográf kártyák adatait tartalmazó hatósági nyilvántartás;
 
@@ -52,7 +52,7 @@ t)[^9] tevékenységigazoló lap: a közúti szállításra vonatkozó egyes szo
 [^3]: A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
 [^4]: A 2. § h) pontja a 42/2007. (IV. 4.) GKM rendelet 1. §-ával megállapított szöveg.
 [^5]: – A közúti közlekedésről szóló 1988. évi I. törvény 20. §-ának (11) bekezdése, 44. §-ának (2) bekezdése és 44/A. §-ának (2) bekezdése. – A közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének ellenőrzéséről szóló 66/2007. (IV. 4.) Korm. rendelet. – A közúti szállításra vonatkozó egyes szociális jogszabályok alapján végzett közlekedési hatósági ellenőrzés részletes szabályairól szóló 43/2007. (IV. 4.) GKM rendelet.
-[^6]: A 2. § k) pontja a 95/2006. (XII. 27.) GKM rendelet 69. § b) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: A 2. § l) pontja a 95/2006. (XII. 27.) GKM rendelet 69. § c) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 2. § k) pontja a 95/2006. (XII. 27.) GKM rendelet 69. § b) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 49. §-a szerint módosított szöveg.
+[^7]: A 2. § l) pontja a 95/2006. (XII. 27.) GKM rendelet 69. § c) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 49. §-a szerint módosított szöveg.
 [^8]: A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
 [^9]: A 2. § t) pontját a 76/2007. (VIII. 30.) GKM rendelet 2. §-a iktatta be, szövege a 9/2010. (II. 26.) KHEM rendelet 1. §-ával megállapított szöveg.

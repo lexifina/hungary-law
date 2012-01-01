@@ -1,3 +1,3 @@
-1–2. számú melléklet a 124/2005. (XII. 29.) GKM rendelethez[^67]
+1–2. számú melléklet a 124/2005. (XII. 29.) GKM rendelethez[^69]
 
-[^67]: Az 1–2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 74. pontja hatályon kívül helyezte.
+[^69]: Az 1–2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 74. pontja hatályon kívül helyezte.
