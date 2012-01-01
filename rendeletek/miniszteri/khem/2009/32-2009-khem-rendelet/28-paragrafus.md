@@ -1,6 +1,6 @@
 ## A nem JAA tagállam által kiadott repülőgép pilóta szakszolgálati engedély érvényesítése
 
-28. § (1) A nem JAA tagállam, de a Chicagói Egyezmény Szerződő Államának légiközlekedési hatósága által kiadott pilóta szakszolgálati engedély az érvényességi idején belül minden további eljárás nélkül érvényes magáncélú repülésre, látvarepülési szabályok között (VFR) egypilótás légijárművön a Magyar Köztársaság területén és légterében.
+28. § (1)[^6] A nem JAA tagállam, de a Chicagói Egyezmény Szerződő Államának légiközlekedési hatósága által kiadott pilóta szakszolgálati engedély az érvényességi idején belül minden további eljárás nélkül érvényes magáncélú repülésre, látvarepülési szabályok között (VFR) egypilótás légijárművön Magyarország területén és légterében.
 
 (2) Az (1) bekezdésben nem szereplő esetben, a nem JAA tagállam, de a Chicagói Egyezmény Szerződő Államának légiközlekedési hatósága által kiadott repülőgép pilóta szakszolgálati engedélyt – a hivatásos pilóta szakszolgálati engedély kivételével – a légiközlekedési hatóság kérelemre érvényesíti a magyar lajstromban lévő légijármű használatára, ha a kérelmező megfelel a 16. mellékletben meghatározott követelménynek.
 
@@ -13,3 +13,5 @@
 (6) Az (5) bekezdésben meghatározott bérlet esetén a nem JAA tagállambeli üzemben tartó hajózó személyzet szakszolgálati engedélyét a légiközlekedési hatóság érvényesnek minősítheti oly módon, hogy a hajózó személyzet szakszolgálati engedélyének érvényesítése által biztosított előjogokat korlátozza a bérleti időszakra, a megnevezett légijárműre és üzemeltetési feltételekre. Az üzemeltetési feltételek nem tartalmazhatják – sem a légijármű teljes bérlete, vagy más kereskedelmi megállapodás útján – a JAA üzemben tartó közvetett vagy közvetlen jelenlétét.
 
 (7) Ha a pilóta nem JAA tagállamban kiállított szakszolgálati engedéllyel rendelkezik és JAA tagállamban további jogosítás megszerzésére vonatkozó képzésben vesz részt és sikeres vizsgát tesz, a jogosítás megszerzéséhez a képzés és a vizsga teljesítéséről kiállított igazolás szükséges.
+
+[^6]: A 28. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 67. § a) pontja szerint módosított szöveg.
