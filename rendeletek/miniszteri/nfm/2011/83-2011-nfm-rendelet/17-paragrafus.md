@@ -1,0 +1,3 @@
+## 16. § Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 19/2010. (XII. 3.) NFM rendelet (a továbbiakban: R4.) 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A hatósági árszabályozás során az 1. melléklet és a 2. melléklet 1. és 3. pontjában meghatározott földgázárak esetében a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabások megállapításáról szóló 28/2009. (VI. 25.) KHEM rendeletben megállapított Ft/USD árfolyam kerül alkalmazásra.”
