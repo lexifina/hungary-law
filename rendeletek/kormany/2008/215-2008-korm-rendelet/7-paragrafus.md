@@ -1,6 +1,6 @@
 ## 6. § Érvénytelen a jelölésre vonatkozó javaslat, ha nem tartalmazza a 4. § (1) bekezdésében meghatározott nyilatkozatokat, vagy ha abban egyetlen személyt sem jelölnek érvényesen. A javaslat érvénytelenségéről az elnök írásban értesíti az azt benyújtó fogyasztóvédelmi szervezetet.
 
-7. §[^11] (1) Az érintett személy jelölése érvénytelen, ha
+7. §[^12] (1) Az érintett személy jelölése érvénytelen, ha
 
 a) a jelölésre vonatkozó javaslat a jelölt tekintetében nem tartalmazza a 4. § (2) bekezdésében meghatározott dokumentumokat,
 
@@ -14,4 +14,4 @@ e) a hatósági bizonyítvány alapján megállapítható, hogy a jelölttel sze
 
 (2) A jelölés érvénytelenségéről az elnök írásban értesíti a javaslatot tevő fogyasztóvédelmi szervezetet.
 
-[^11]: A 7. § a 131/2010. (IV. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^12]: A 7. § a 131/2010. (IV. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
