@@ -64,12 +64,12 @@ c) olyan elszámolási rendszert működtet, vagy olyan elfogadott elszámolóh�
 
 20. hosszú elszámolási idejű ügylet: a partnerkockázatról szóló kormányrendeletben ilyenként meghatározott fogalom.
 
-21.[^3] értékpapírosítás: az Épkr.-ben meghatározott fogalom;
+21.[^3]
 
-22.[^4] értékpapírosítási pozíció: az Épkr.-ben meghatározott fogalom;
+22.[^4]
 
-23.[^5] ügyletrész-sorozat (tranche): az Épkr.-ben meghatározott fogalom.
+23.[^5]
 
-[^3]: A 3. § 21. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be.
-[^4]: A 3. § 22. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be.
-[^5]: A 3. § 23. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be.
+[^3]: A 3. § 21. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be, hatályon kívül helyezte a 348/2011. (XII. 30.) Korm. rendelet 13. §-a.
+[^4]: A 3. § 22. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be, hatályon kívül helyezte a 348/2011. (XII. 30.) Korm. rendelet 13. §-a.
+[^5]: A 3. § 23. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be, hatályon kívül helyezte a 348/2011. (XII. 30.) Korm. rendelet 13. §-a.

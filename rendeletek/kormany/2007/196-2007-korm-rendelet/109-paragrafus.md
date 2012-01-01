@@ -1,4 +1,4 @@
-## 108/A. §[^32] Elismerhető, előre nem rendelkezésre bocsátott hitelkockázati fedezetet nyújthat biztosító a központi kormány készfizető kezessége mellett külön jogszabályban meghatározott nem piacképes kockázatra.
+## 108/A. §[^36] Elismerhető, előre nem rendelkezésre bocsátott hitelkockázati fedezetet nyújthat biztosító a központi kormány készfizető kezessége mellett külön jogszabályban meghatározott nem piacképes kockázatra.
 
 109. § (1) A 30. § (3) bekezdés szerinti kockázattal súlyozott kitettség érték számítása esetén a 108. §-on kívül elismerhető, előre nem rendelkezésre bocsátott hitelkockázati fedezetet nyújthat hitelintézet, hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás, befektetési vállalkozás, biztosító, viszontbiztosító és export hitel ügynökség, ha
 
@@ -14,4 +14,4 @@ d) olyan belső minősítéssel rendelkezik, amely a sztenderd módszer szerint,
 
 (3) A hitelintézet az (1) bekezdésben meghatározottnak megfelelő hitelkockázati fedezet esetén alkalmazhatja a 30. § (3) bekezdésben meghatározottakat a kockázattal súlyozott kitettség érték kiszámítására.
 
-[^32]: A 108/A. §-t a 380/2007. (XII. 23.) Korm. rendelet 55. § (8) bekezdése iktatta be.
+[^36]: A 108/A. §-t a 380/2007. (XII. 23.) Korm. rendelet 55. § (8) bekezdése iktatta be.

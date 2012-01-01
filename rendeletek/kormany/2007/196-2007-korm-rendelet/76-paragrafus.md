@@ -6,6 +6,6 @@
 
 (4) Lakossággal szembeni kitettségek esetében a nemteljesítéskori veszteségráta becsléseknek legalább öt éves adatokon kell alapulniuk azzal, hogy – a 74. § (1) bekezdésétől eltérően – a hitelintézetnek nem kell a múltbeli adatokat figyelembe vennie, ha a frissebb adatok a veszteségi rátának jobb előrejelzői.
 
-(5)[^26] Belső minősítésen alapuló módszert alkalmazó hitelintézet – a (4) bekezdéstől eltérően – két évet felölelő adatokat alkalmazhat, amely kétéves időszakot minden évben egy évvel meghosszabbít az ötéves időtartam eléréséig.
+(5)[^30] Belső minősítésen alapuló módszert alkalmazó hitelintézet – a (4) bekezdéstől eltérően – két évet felölelő adatokat alkalmazhat, amely kétéves időszakot minden évben egy évvel meghosszabbít az ötéves időtartam eléréséig.
 
-[^26]: A 76. § (5) bekezdése e rendelet 167. §-a alapján 2012. december 31. napján hatályát veszti azzal, hogy rendelkezéseit a 2012. december 31-ig kérelmezett engedélyezési eljárás során a hitelintézet kérelmére alkalmazni lehet.
+[^30]: A 76. § (5) bekezdése e rendelet 167. §-a alapján 2012. december 31. napján hatályát veszti azzal, hogy rendelkezéseit a 2012. december 31-ig kérelmezett engedélyezési eljárás során a hitelintézet kérelmére alkalmazni lehet.

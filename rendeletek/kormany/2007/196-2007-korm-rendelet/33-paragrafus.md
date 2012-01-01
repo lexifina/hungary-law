@@ -1,4 +1,4 @@
-33. §[^18] (1) Ha a kitettség megfelel a 15. § (4) és (8) bekezdésében meghatározottnak, valamint a hitelintézet ismeri a kollektív befektetési forma portfóliójának egészét vagy egy részét, akkor a hitelintézet a portfólióban lévő kitettségeket veszi figyelembe a kockázattal súlyozott kitettség érték és a várható veszteség érték meghatározásakor.
+33. §[^22] (1) Ha a kitettség megfelel a 15. § (4) és (8) bekezdésében meghatározottnak, valamint a hitelintézet ismeri a kollektív befektetési forma portfóliójának egészét vagy egy részét, akkor a hitelintézet a portfólióban lévő kitettségeket veszi figyelembe a kockázattal súlyozott kitettség érték és a várható veszteség érték meghatározásakor.
 
 (2) Ha a kitettség megfelel a 15. § (4) és (8) bekezdésében meghatározottnak, de a hitelintézet nem felel meg a belső minősítésen alapuló módszer alkalmazási feltételeinek, akkor a kockázattal súlyozott kitettség érték és a várható veszteség értékének meghatározásakor
 
@@ -14,4 +14,4 @@ bb) a ba) alpontba nem tartozó kitettség esetében a kockázati súlyt meg kel
 
 (4) A hitelintézet a kollektív befektetési forma portfóliójában lévő kitettség átlagos, kockázattal súlyozott kitettség értékét a (2) bekezdésben foglaltak szerint harmadik fél közreműködését is igénybe véve kiszámíthatja, ha biztosított a számítás és az arról szóló jelentés megfelelősége.
 
-[^18]: A 33. § a 349/2010. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^22]: A 33. § a 349/2010. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.

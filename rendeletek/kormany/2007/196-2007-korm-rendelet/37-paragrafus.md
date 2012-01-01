@@ -4,10 +4,10 @@
 
 Kockázattal súlyozott kitettség érték = 100% * kitettség értéke.
 
-(2)[^20] Az (1) bekezdéstől eltérően, ha a kitettség a lízingszerződésben kikötött maradványérték, a kockázattal súlyozott kitettség értéket a következő képlet szerint kell kiszámítani:
+(2)[^24] Az (1) bekezdéstől eltérően, ha a kitettség a lízingszerződésben kikötött maradványérték, a kockázattal súlyozott kitettség értéket a következő képlet szerint kell kiszámítani:
 
 Kockázattal súlyozott kitettség érték = 1/t * 100% * kitettség értéke,
 
 ahol t a következő értékek közül a magasabb: 1, vagy a lízingszerződésből hátralévő időtartam teljes évekhez legközelebbi értéke.
 
-[^20]: A 37. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^24]: A 37. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.

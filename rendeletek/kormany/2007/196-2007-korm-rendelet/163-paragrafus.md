@@ -1,4 +1,4 @@
-163. § (1)[^50] A 4. § (3) bekezdésétől eltérően 2015. december 31-ig az Európai Unió bármely tagállamának központi kormányával vagy központi bankjával szembeni, bármely tagállam nemzeti pénznemében fennálló (denominált) és finanszírozott kitettséghez nulla százalékos kockázati súlyt kell rendelni.
+163. § (1)[^55] A 4. § (3) bekezdésétől eltérően 2015. december 31-ig az Európai Unió bármely tagállamának központi kormányával vagy központi bankjával szembeni, bármely tagállam nemzeti pénznemében fennálló (denominált) és finanszírozott kitettséghez nulla százalékos kockázati súlyt kell rendelni.
 
 (2) A 45. §-tól eltérően 2010. december 31-ig a fedezett kötvényhez 11,25%-os nemteljesítéskori veszteségrátát lehet rendelni, ha
 
@@ -14,7 +14,7 @@ d) a fedezett kötvény hitelminősítését egy elismert külső hitelminősít
 
 (4) 2010. december 31-ig a 13. § (5) bekezdésétől eltérően, a Hpt. 76/E–76/F. §-a szerint el nem ismerhető, de a Felügyelet által megfelelőnek tekintett hitelezésikockázat-mérséklő tétel is elismerhető hitelkockázati fedezetként, annak nyújtója legalább három éve nyújt hitelkockázati fedezetet.
 
-(5)[^51] Az olyan, lakóingatlanon alapított jelzálogjoggal fedezett lakossággal szembeni kitettségnek a súlyozott átlagos nemteljesítéskori veszteségrátája, amelyhez nem kapcsolódik központi kormány garanciavállalása, 2012. december 31-ig legalább 10%.
+(5)[^56] Az olyan, lakóingatlanon alapított jelzálogjoggal fedezett lakossággal szembeni kitettségnek a súlyozott átlagos nemteljesítéskori veszteségrátája, amelyhez nem kapcsolódik központi kormány garanciavállalása, 2012. december 31-ig legalább 10%.
 
-[^50]: A 163. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^51]: A 163. § (5) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^55]: A 163. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^56]: A 163. § (5) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
