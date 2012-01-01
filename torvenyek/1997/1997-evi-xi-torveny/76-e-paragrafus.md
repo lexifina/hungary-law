@@ -1,6 +1,6 @@
 ## Nemzeti bejelentéssé való átalakítás
 
-76/E. § (1) Közösségi védjegybejelentés vagy közösségi védjegy átalakítására irányuló – a közösségi védjegyrendelet 109. cikkének (3) bekezdése alapján megküldött – kérelem alapján a Szellemi Tulajdon Nemzeti Hivatala a VII–IX. fejezetek rendelkezéseinek megfelelő alkalmazásával – a (2)–(5) bekezdésekben meghatározott feltételekkel – megindítja a védjegy lajstromozására irányuló eljárást.
+76/E. § (1) Közösségi védjegybejelentés vagy közösségi védjegy átalakítására irányuló – a közösségi védjegyrendelet 113. cikkének (3) bekezdése alapján megküldött – kérelem alapján a Szellemi Tulajdon Nemzeti Hivatala a VII–IX. fejezetek rendelkezéseinek megfelelő alkalmazásával – a (2)–(5) bekezdésekben meghatározott feltételekkel – megindítja a védjegy lajstromozására irányuló eljárást.
 
 (2) A bejelentési díjat [50. § (4) bek.] az (1) bekezdés szerinti kérelemnek a Szellemi Tulajdon Nemzeti Hivatalához történő beérkezésétől számított két hónapon belül kell megfizetni.
 
@@ -8,7 +8,7 @@
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdés szerinti kérelem beérkezéséről – az 56. § (4) bekezdésében előírt figyelmeztetés megküldésével egyidejűleg – értesíti a kérelmezőt.
 
-(5) A bejelentési napot, az elsőbbséget és a szenioritást a közösségi védjegyrendelet 108. cikkének (3) bekezdésével összhangban kell megállapítani. Az 50. § (3) bekezdését a közösségi védjegyrendelet 110. cikkének (2) bekezdésében foglaltakra figyelemmel kell alkalmazni.
+(5) A bejelentési napot, az elsőbbséget és a szenioritást a közösségi védjegyrendelet 112. cikkének (3) bekezdésével összhangban kell megállapítani. Az 50. § (3) bekezdését a közösségi védjegyrendelet 114. cikkének (2) bekezdésében foglaltakra figyelemmel kell alkalmazni.
 
 (6) Közösségi védjegy átalakítására irányuló kérelem alapján az (1) bekezdés szerint megindult eljárásban – a bejelentési díj megfizetését és a (3) bekezdésben előírt fordítás benyújtását követően – a Szellemi Tulajdon Nemzeti Hivatala a közösségi védjegyet további vizsgálat nélkül e törvény alapján lajstromozza (64. §).
 

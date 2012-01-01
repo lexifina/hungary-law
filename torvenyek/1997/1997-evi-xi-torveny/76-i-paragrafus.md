@@ -16,7 +16,7 @@ b) Nemzetközi Iroda: a Szellemi Tulajdon Világszervezetének Nemzetközi Irod�
 
 c) nemzetközi lajstrom: a Megállapodás, illetve a Jegyzőkönyv alapján bejelentett védjegyekről a Nemzetközi Iroda által vezetett nyilvántartás;
 
-d) a Magyar Köztársaságot megjelölő bejelentés: az a nemzetközi védjegybejelentés, amelyben az oltalmat a Magyar Köztársaság területére kiterjedően igénylik;
+d) Magyarországot megjelölő bejelentés: az a nemzetközi védjegybejelentés, amelyben az oltalmat Magyarország területére kiterjedően igénylik;
 
 e) származási hivatal: az esetnek megfelelően a Megállapodás 1. cikkének (3) bekezdése szerinti származási ország hivatala, a Jegyzőkönyv 2. cikkének (2) bekezdése szerinti származási ország hivatala, illetőleg mindkettő.
 

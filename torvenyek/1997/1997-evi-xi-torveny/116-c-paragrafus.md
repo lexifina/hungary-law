@@ -4,7 +4,7 @@ a) mezőgazdasági termékek és élelmiszerek esetében az 510/2006/EK rendelet
 
 b) szeszes italok esetében a 110/2008/EK rendelet 22. cikkének (1) bekezdésében említett terméktanúsító szervezetek;
 
-c) szőlészeti és borászati termékek esetében a 479/2008/EK rendelet 48. cikkének (1) bekezdésében említett terméktanúsító szervezetek.
+c) szőlészeti és borászati termékek esetében az 1234/2007/EK rendelet 118p. cikkének (1) bekezdésében említett terméktanúsító szervezetek.
 
 (2) Az (1) bekezdés szerinti külön jogszabály
 

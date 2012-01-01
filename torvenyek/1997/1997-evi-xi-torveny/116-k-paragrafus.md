@@ -4,7 +4,7 @@
 
 (3) Ha a nemzetközi bejelentés nem felel meg a 113. § (5) bekezdésében vizsgált követelményeknek, erről a Megállapodásban meghatározott módon és határidőn belül értesíteni kell a Nemzetközi Irodát (ideiglenes elutasítás).
 
-(4) Ha a bejelentés elutasításának [61. § (4) bek.] vagy visszavontnak tekintésének [61. § (5) bek.] van helye, a Szellemi Tulajdon Nemzeti Hivatala értesíti a Nemzetközi Irodát arról, hogy a megjelölés Magyar Köztársaságra kiterjedő oltalmát elutasítja (végleges elutasítás).
+(4) Ha a bejelentés elutasításának [61. § (4) bek.] vagy visszavontnak tekintésének [61. § (5) bek.] van helye, a Szellemi Tulajdon Nemzeti Hivatala értesíti a Nemzetközi Irodát arról, hogy a megjelölés Magyarországra kiterjedő oltalmát elutasítja (végleges elutasítás).
 
 (5) Ha a Szellemi Tulajdon Nemzeti Hivatala nem ad ki a (3) bekezdés szerinti ideiglenes elutasítást, a lajstromozás napjának az ideiglenes elutasításra nyitva álló határidő elteltét követő napot kell tekinteni.
 

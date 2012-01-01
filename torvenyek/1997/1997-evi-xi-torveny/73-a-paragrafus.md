@@ -1,4 +1,4 @@
-73/A. § (1) A törlési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a védjegy bitorlása miatt pert indítottak és ezt igazolják.
+73/A. § (1) A törlési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a védjegy bitorlása miatt pert indítottak vagy a keresetlevél benyújtását megelőzően ideiglenes intézkedés iránti kérelmet terjesztettek elő, és ezt igazolják.
 
 (2) A gyorsított eljárás iránti kérelemért külön jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
 

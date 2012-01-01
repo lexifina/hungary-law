@@ -10,7 +10,7 @@
 
 76/A. § E törvény alkalmazásában
 
-a) közösségi védjegyrendelet: a Tanács 40/94/EK rendelete a közösségi védjegyről;
+a) közösségi védjegyrendelet: a Tanács 207/2009/EK rendelete a közösségi védjegyről;
 
 b) közösségi védjegy: a közösségi védjegyrendelet 1. cikkének (1) bekezdésében meghatározott védjegy;
 

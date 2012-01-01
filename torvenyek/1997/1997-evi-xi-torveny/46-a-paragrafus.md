@@ -1,6 +1,6 @@
 ## Jogorvoslatok
 
-46/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak.
+46/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívás kibocsátásnak.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatalának a védjegyügyekben hozott döntéseit a bíróság a XI. fejezetben szabályozott nem peres eljárásban vizsgálja felül.
 
@@ -20,9 +20,9 @@ f) a védjegyoltalom megszűnésének megállapítása;
 
 g) a nemzetközi védjegybejelentés, valamint a nemzetközi lajstromozásból eredő oltalom utólagos kiterjesztésére irányuló kérelem továbbítása;
 
-h) a megjelölés Magyar Köztársaságra kiterjedő oltalmának végleges elutasítása;
+h) a megjelölés Magyarországra kiterjedő oltalmának végleges elutasítása;
 
-i) a nemzetközi lajstromozásból eredő, a Magyar Köztársaságra kiterjedő oltalom tekintetében a nemzetközi lajstromba bejegyzett átruházás, illetve használati engedély hatályának elutasítása;
+i) a nemzetközi lajstromozásból eredő, Magyarországra kiterjedő oltalom tekintetében a nemzetközi lajstromba bejegyzett átruházás, illetve használati engedély hatályának elutasítása;
 
 j) a nemzetközi lajstromozás átalakítása nemzeti védjegybejelentéssé.
 
