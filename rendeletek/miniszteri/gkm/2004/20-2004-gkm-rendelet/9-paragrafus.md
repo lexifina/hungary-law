@@ -1,4 +1,4 @@
-## 8. §[^12] Ha az adatszolgáltatásban közreműködő szervezet a kötelezettségét megtagadja, késedelmesen teljesíti vagy valótlan adatokat közöl, az Energia Központ Nonprofit Kft. felszólítja teljesítésre határidő tűzésével. Ennek eredménytelensége esetén az Energia Központ Nonprofit Kft. eljárást kezdeményezhet az illetékes hatóságnál.
+## 8. §[^14]
 
 ## Záró rendelkezések
 
@@ -14,4 +14,4 @@ c) a Tanács az EGK tagállamainak minimális kőolaj és kőolajtermék készle
 
 d) a Bizottság a 77/706/EGK határozat végrehajtásának részletes szabályairól szóló 79/639/EGK határozatával.
 
-[^12]: A 8. § a 48/2009. (IX. 30.) KHEM rendelet 32. §-a szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 8. §-t a 83/2011. (XII. 29.) NFM rendelet 12. §-a hatályon kívül helyezte.

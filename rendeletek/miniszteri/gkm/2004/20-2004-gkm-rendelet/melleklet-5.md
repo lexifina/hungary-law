@@ -66,7 +66,7 @@ Az egyes táblázatokra vonatkozó fogalom-meghatározások
 
 1. Kőolaj és földgáz-kondenzátumok hazai termelése (I. táblázat)
 
-Meg kell adni az ország területén termelt kőolaj és földgáz-kondenzátumok (minden, a gázfeldolgozó üzemekben a gázból nyert folyékony halmazállapotú anyag[^14]) mennyiségét.
+Meg kell adni az ország területén termelt kőolaj és földgáz-kondenzátumok (minden, a gázfeldolgozó üzemekben a gázból nyert folyékony halmazállapotú anyag[^16]) mennyiségét.
 
 2. Kőolaj, földgáz-kondenzátumok és félkész termékek behozatala és kivitele (nem Közösségi tagállamból érkező behozatal, valamint Közösségi tagállamból származó, nem közösségi tagállamba irányuló kivitel) (I., II., IV. táblázat)
 
@@ -78,7 +78,7 @@ A behozatal és kivitel időpontja a tényleges leszállítás dátuma, függetl
 
 – A behozatal és kivitel időpontja a tényleges leszállítás dátuma, függetlenül attól, hogy a szállítmány vámkezelése megtörtént-e. Ugyanakkor az óceáni terminálon szállítás alatt álló, vagy az országhatárt egyéb módon (pl. csővezetéken) átlépő mennyiséget nem kell figyelembe venni (ugyanez érvényes az olajtermékek kivitelére és behozatalára is). Másrészt a behozatalba be kell számítani a vámszabad területekre kezelés és reexport céljából szállított mennyiségeket. A feldolgozás céljából vámszabad területekre behozott olaj reexportját a kivitel adataiban kell szerepeltetni.
 
-– Az érintett olajtermékek a következők: cseppfolyós gáz (LPG), ipari benzinek, motorbenzinek, repülőgép-üzemanyagok, kerozinok, gáz/dízelolaj, lepárlási fűtőolaj maradék, kenőanyagok és bitumen[^15]
+– Az érintett olajtermékek a következők: cseppfolyós gáz (LPG), ipari benzinek, motorbenzinek, repülőgép-üzemanyagok, kerozinok, gáz/dízelolaj, lepárlási fűtőolaj maradék, kenőanyagok és bitumen[^17]
 
 A tengerjáró hajók nehéz fűtőolaját (bunkerben) az I. táblázat 5. sora nem tartalmazza, azt a 9. sorban külön kell feltüntetni.
 
@@ -208,5 +208,5 @@ Tárgyhó:
 
 1 Az olajterméket kőolajra kell átszámítani oly módon, hogy a tonnában kifejezett mennyiséget beszorozzuk 1.065 átváltási tényezővel.
 
-[^14]: Beleértve az etánt is.
-[^15]: A meghatározásokért lásd a Quarterly Bulletin of Energy Statistics 3/1976. számát, kiadja az Európai Közösségek Statisztikai Hivatala.
+[^16]: Beleértve az etánt is.
+[^17]: A meghatározásokért lásd a Quarterly Bulletin of Energy Statistics 3/1976. számát, kiadja az Európai Közösségek Statisztikai Hivatala.
