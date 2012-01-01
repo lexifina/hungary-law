@@ -102,7 +102,7 @@
 
 ## Megfelelő volt-e a továbbképzés szervezettsége?
 
-3. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^83]
+3. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^85]
 
 ## Az igazgatási szolgáltatási díj mértéke
 
@@ -128,4 +128,4 @@ c) ötvenkilencezer-ötszáz forint, amennyiben a foglalkozási órák száma me
 
 d) hatvannégyezer forint, amennyiben a foglalkozási órák száma meghaladja a kilencven órát.
 
-[^83]: A 3. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^85]: A 3. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 11. §-ával megállapított szöveg.

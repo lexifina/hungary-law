@@ -1,4 +1,4 @@
-8. §[^18] (1)[^19] A továbbképzés szervezője a továbbképzés indítása előtt huszonegy nappal az alábbi adatok szolgáltatásával kérheti az alapítási engedéllyel rendelkező továbbképzési program szerinti továbbképzés felvételét a továbbképzési jegyzékbe az Oktatási Hivataltól:
+8. §[^20] (1)[^21] A továbbképzés szervezője a továbbképzés indítása előtt huszonegy nappal az alábbi adatok szolgáltatásával kérheti az alapítási engedéllyel rendelkező továbbképzési program szerinti továbbképzés felvételét a továbbképzési jegyzékbe az Oktatási Hivataltól:
 
 a) a továbbképzés szervezőjének neve, székhelye (jogi személyiségű szervező esetében megnevezése, székhelye), felnőttképzési nyilvántartási száma, a továbbképzésért felelős neve, címe,
 
@@ -30,5 +30,5 @@ c) a szakvizsgára felkészítő képzések listáját is.
 
 (6) A továbbképzési jegyzékről törölni kell mindazokat a továbbképzéseket, amelyek a 7/A. § (2) bekezdése szerint már alapítási engedéllyel nem rendelkező továbbképzési programon alapulnak. A továbbképzés indításáról adatot szolgáltató kérheti a továbbképzésnek a továbbképzési jegyzékből történő időszakos vagy végleges törlését.
 
-[^18]: A 8. § a 3/2010. (I. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^19]: A 8. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^20]: A 8. § a 3/2010. (I. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^21]: A 8. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

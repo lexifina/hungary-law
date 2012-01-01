@@ -1,4 +1,4 @@
-5. §[^12] (1) A hétévenkénti továbbképzés – egy vagy több továbbképzés keretében – legalább százhúsz tanórai foglalkozáson való részvétellel és az előírt tanulmányi követelmények teljesítésével valósul meg. E rendelkezések alkalmazásában a tanórai foglalkozások időtartama negyvenöt perc.
+5. §[^13] (1) A hétévenkénti továbbképzés – egy vagy több továbbképzés keretében – legalább százhúsz tanórai foglalkozáson való részvétellel és az előírt tanulmányi követelmények teljesítésével valósul meg. E rendelkezések alkalmazásában a tanórai foglalkozások időtartama negyvenöt perc.
 
 (2) A hétévenkénti továbbképzés – az (1) bekezdésben meghatározottakon kívül – teljesíthető
 
@@ -60,4 +60,4 @@ e) a közoktatási intézmény felkérésére szervezett szaktanácsadói tevék
 
 (9) Vezetőképzés a pedagógus-szakvizsgára történő felkészítés, pedagógus-szakvizsga megléte esetén másik olyan pedagógus-szakvizsgára történő felkészítés, amelynek során intézményvezetői szakképzettséget lehet szerezni. Vezetőképzés lehet a felsőoktatás keretében folyó, a jogi, a közgazdasági, a pénzügyi szakképzettség megszerzésére irányuló felkészítő képzés, valamint a legalább hatvan órás felkészítést biztosító minden olyan képzés, amely biztosítja a közoktatási intézmények vezetéséhez szükséges tanügy-igazgatási, korszerű pedagógiai szervezési, korszerű pedagógiai taneszköz alkalmazási ismeretek elsajátítását.
 
-[^12]: Az 5. § a 93/2009. (IV. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^13]: Az 5. § a 93/2009. (IV. 24.) Korm. rendelet 3. §-ával megállapított szöveg.

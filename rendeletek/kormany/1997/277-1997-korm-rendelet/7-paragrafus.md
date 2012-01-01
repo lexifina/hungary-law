@@ -1,6 +1,6 @@
-## A pedagógus-továbbképzési program engedélyezése[^14]
+## A pedagógus-továbbképzési program engedélyezése[^16]
 
-7. §[^15] (1) A továbbképzési kötelezettség teljesítése szempontjából az 5. § (1) bekezdése szerinti továbbképzésként olyan továbbképzés vehető figyelembe, és a közoktatási intézmény továbbképzési programja, illetve a beiskolázási terve – az e rendelet 5. §-ának (2)–(3) bekezdésében felsoroltak kivételével – csak olyan továbbképzést tartalmazhat, amelynek programját az e rendeletben meghatározott eljárás keretében az oktatásért felelős miniszter jóváhagyta és a program alkalmazására engedélyt adott (a továbbiakban: alapítási engedély). Az alapítási engedély öt évre szól.
+7. §[^17] (1) A továbbképzési kötelezettség teljesítése szempontjából az 5. § (1) bekezdése szerinti továbbképzésként olyan továbbképzés vehető figyelembe, és a közoktatási intézmény továbbképzési programja, illetve a beiskolázási terve – az e rendelet 5. §-ának (2)–(3) bekezdésében felsoroltak kivételével – csak olyan továbbképzést tartalmazhat, amelynek programját az e rendeletben meghatározott eljárás keretében az oktatásért felelős miniszter jóváhagyta és a program alkalmazására engedélyt adott (a továbbiakban: alapítási engedély). Az alapítási engedély öt évre szól.
 
 (2) Az alapítási engedély kiadása iránti kérelmet a program készítőjének a 2. számú mellékletnek megfelelő adattartalommal kell benyújtani három példányban az Oktatási Hivatalhoz, mint közreműködő hatósághoz. A kérelemhez csatolni kell:
 
@@ -44,8 +44,8 @@ b) a továbbképzési program nem felel meg az e rendelet 1. számú melléklet�
 
 (11) A Pedagógus-továbbképzési Akkreditációs Testület javasolhatja a program kiegészítését, kijavítását. A kiegészített, kijavított programot a kérelmezőnek az Oktatási és Kulturális Minisztériumba kell megküldeni.
 
-(12)[^16] Ha a továbbképzési program szakmai elméleti, szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése céljából készült, a továbbképzési program engedélyezéséről, az alapítási engedély megadásáról az oktatásért felelős miniszter a szakképesítésért felelős miniszter véleményének kikérése után dönt. Az Oktatási Hivatal megkeresi a szakképesítésért felelős minisztert véleményének kikérése érdekében.
+(12)[^18] Ha a továbbképzési program szakmai elméleti, szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése céljából készült, a továbbképzési program engedélyezéséről, az alapítási engedély megadásáról az oktatásért felelős miniszter a szakképesítésért felelős miniszter véleményének kikérése után dönt. Az Oktatási Hivatal megkeresi a szakképesítésért felelős minisztert véleményének kikérése érdekében.
 
-[^14]: A 7. §-t megelőző alcím a 3/2010. (I. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^15]: A 7. § a 3/2010. (I. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^16]: A 7. § (12) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^16]: A 7. §-t megelőző alcím a 3/2010. (I. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^17]: A 7. § a 3/2010. (I. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^18]: A 7. § (12) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

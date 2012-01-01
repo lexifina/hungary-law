@@ -18,12 +18,13 @@ c) aki a szakvizsgába beszámítható továbbképzésre jelentkezik.
 
 (7) A (3)–(6) bekezdésben foglaltak tekintetében munkaügyi vita kezdeményezésének van helye.
 
-(8) A munkáltatónak, ha igénybe kívánja venni a pedagógusok állandó helyettesítési rendszerét – feltéve, hogy azt a külön jogszabályban meghatározottak szerint létrehozták –, a beiskolázási tervet április utolsó munkanapjáig meg kell küldenie a rendszert működtető önkormányzatnak.
+(8)[^14] A munkáltatónak, ha igénybe kívánja venni a pedagógusok állandó helyettesítési rendszerét – feltéve, hogy azt a külön jogszabályban meghatározottak szerint létrehozták –, a beiskolázási tervet április utolsó munkanapjáig meg kell küldenie a rendszert működtető kormányhivatalnak, fővárosi székhelyű munkáltató esetén a fővárosi önkormányzatnak.
 
 (9) Az e §-ban meghatározott eljárási rend mellőzésével, közvetlenül is jelentkezhet a továbbképzésbe az, aki nem tart igényt az e rendelet 16. §-ának (4) bekezdésében és 17. §-ában meghatározott kedvezményekre, juttatásokra.
 
 (10) A továbbképzés szervezője írásban tájékoztatja a továbbképzés feltételeiről a továbbképzésre jelentkezőket.
 
-(11)[^13] A továbbképzés szervezője évente újrakezdődő sorszámmal ellátott tanúsítványt állít ki a továbbképzésben való eredményes részvételről, amely tartalmazza a továbbképzésben részt vevő nevét, születési családi és utónevét, születési helyét és idejét, a továbbképzés megnevezését, a tanórai foglalkozások számát, a továbbképzés szervezőjének hivatalos nevét, székhelyét, felnőttképzési nyilvántartási számát, a továbbképzési program alapítási engedély számát, a továbbképzés idejét és helyszínét, a tanúsítvány kiállításának helyét és keltét, a továbbképzésért felelős aláírását, valamint a tanúsítvány kiadója cégszerű aláírását. A tanúsítványon fel kell tüntetni, hogy az munkakör betöltésére nem, tevékenység folytatására jogszabályban meghatározott egyéb feltételek fennállása esetén jogosít.
+(11)[^15] A továbbképzés szervezője évente újrakezdődő sorszámmal ellátott tanúsítványt állít ki a továbbképzésben való eredményes részvételről, amely tartalmazza a továbbképzésben részt vevő nevét, születési családi és utónevét, születési helyét és idejét, a továbbképzés megnevezését, a tanórai foglalkozások számát, a továbbképzés szervezőjének hivatalos nevét, székhelyét, felnőttképzési nyilvántartási számát, a továbbképzési program alapítási engedély számát, a továbbképzés idejét és helyszínét, a tanúsítvány kiállításának helyét és keltét, a továbbképzésért felelős aláírását, valamint a tanúsítvány kiadója cégszerű aláírását. A tanúsítványon fel kell tüntetni, hogy az munkakör betöltésére nem, tevékenység folytatására jogszabályban meghatározott egyéb feltételek fennállása esetén jogosít.
 
-[^13]: A 6. § (11) bekezdése a 3/2010. (I. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: A 6. § (8) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 44. § (10) bekezdése szerint módosított szöveg.
+[^15]: A 6. § (11) bekezdése a 3/2010. (I. 14.) Korm. rendelet 1. §-ával megállapított szöveg.

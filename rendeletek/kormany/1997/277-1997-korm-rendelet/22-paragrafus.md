@@ -1,10 +1,10 @@
-22. § (1)[^68] A hétévenkénti továbbképzésben azok a pedagógus-munkakörben foglalkoztatottak vesznek részt, akik e rendelet hatálybalépése előtt legalább hét éve megszerezték a pedagógus-munkakör betöltésére jogosító felsőfokú iskolai végzettséget és szakképzettséget.
+22. § (1)[^70] A hétévenkénti továbbképzésben azok a pedagógus-munkakörben foglalkoztatottak vesznek részt, akik e rendelet hatálybalépése előtt legalább hét éve megszerezték a pedagógus-munkakör betöltésére jogosító felsőfokú iskolai végzettséget és szakképzettséget.
 
-(2)[^69]
+(2)[^71]
 
-(3)[^70] A hétévenkénti továbbképzéshez készített beiskolázási terv elkészítésénél előnyben kell részesíteni
+(3)[^72] A hétévenkénti továbbképzéshez készített beiskolázási terv elkészítésénél előnyben kell részesíteni
 
-a)–b)[^71]
+a)–b)[^73]
 
 c) a 2008. szeptember első munkanapján kezdődő második továbbképzési időszakban azokat, akik 2008-ban,
 
@@ -12,10 +12,10 @@ d) a 2013. szeptember első munkanapján kezdődő harmadik továbbképzési id�
 
 ## töltik be a negyvenedik életévüket.
 
-(4)–(6)[^72]
+(4)–(6)[^74]
 
-[^68]: A 22. § (1) bekezdése a 185/1999. (XII. 13.) Korm. rendelet 13. §-a (3) bekezdése szerint módosított szöveg.
-[^69]: A 22. § (2) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
-[^70]: A 22. § (3) bekezdése a 16/2000. (II. 11.) Korm. rendelet 20. § (5) bekezdésének e) pontja szerint módosított szöveg.
-[^71]: A 22. § (3) bekezdés a)–b) pontját a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
-[^72]: A 22. § (4)–(6) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
+[^70]: A 22. § (1) bekezdése a 185/1999. (XII. 13.) Korm. rendelet 13. §-a (3) bekezdése szerint módosított szöveg.
+[^71]: A 22. § (2) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
+[^72]: A 22. § (3) bekezdése a 16/2000. (II. 11.) Korm. rendelet 20. § (5) bekezdésének e) pontja szerint módosított szöveg.
+[^73]: A 22. § (3) bekezdés a)–b) pontját a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
+[^74]: A 22. § (4)–(6) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.

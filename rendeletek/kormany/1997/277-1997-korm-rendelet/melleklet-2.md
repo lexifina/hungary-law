@@ -2,9 +2,9 @@
 
 ## engedélyezési eljárások
 
-## I–III. Rész[^80]
+## I–III. Rész[^82]
 
-## IV. Rész[^81]
+## IV. Rész[^83]
 
 ## A) BÍRÁLATI SZEMPONTOK
 
@@ -740,8 +740,8 @@
 
 ## A programalapító számára a bemutatott eljárás megvalósulása esetén biztosított a visszacsatolás beépítése a programfejlesztésbe, bárki legyen is a program megvalósítója.
 
-2. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^82]
+2. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^84]
 
-[^80]: Az 1. számú melléklet I–III. Részét a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte.
-[^81]: Az 1. számú melléklet IV. Része a 93/2009. (IV. 24.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^82]: A 2. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^82]: Az 1. számú melléklet I–III. Részét a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte.
+[^83]: Az 1. számú melléklet IV. Része a 93/2009. (IV. 24.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^84]: A 2. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 10. §-ával megállapított szöveg.

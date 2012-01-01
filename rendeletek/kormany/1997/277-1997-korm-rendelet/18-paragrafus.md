@@ -1,4 +1,4 @@
-18. §[^57] (1) A 7. §-ban szabályozott engedély kiadásával összefüggő eljárás megindítójának és a 8. § szerinti adatszolgáltatónak minden esetben igazgatási szolgáltatási díjat kell fizetnie. Az igazgatási szolgáltatási díj mértékét e rendelet 3. számú melléklete határozza meg.
+18. §[^59] (1) A 7. §-ban szabályozott engedély kiadásával összefüggő eljárás megindítójának és a 8. § szerinti adatszolgáltatónak minden esetben igazgatási szolgáltatási díjat kell fizetnie. Az igazgatási szolgáltatási díj mértékét e rendelet 3. számú melléklete határozza meg.
 
 (2) Az e rendeletben megállapított igazgatási szolgáltatási díjat az Oktatási Hivatal 10032000-00282637-00000000 számlájára kell befizetni.
 
@@ -8,4 +8,4 @@
 
 (5) Az igazgatási szolgáltatási díj az Oktatási Hivatal és az Oktatási és Kulturális Minisztérium e rendeletben meghatározott engedélyek kiadásával, továbbá az ellenőrzési feladatok ellátásával összefüggő feladatainak ellátására, a személyi és tárgyi kiadások fedezetére, illetve a Pedagógus-továbbképzési Akkreditációs Testületről szóló 46/1999. (XII. 13.) OM rendelet 8. §-ában megfogalmazott feladatokra használható fel.
 
-[^57]: A 18. § a 3/2010. (I. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^59]: A 18. § a 3/2010. (I. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
