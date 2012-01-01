@@ -70,7 +70,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - határrendészet | Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság |
 
-| - tűzvédelem | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
+| - tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -94,7 +94,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Rendészet: |  |  |
 
-| - tűzvédelem | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
+| - tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | - határrendészet | Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság |
 
@@ -146,7 +146,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - határrendészet | Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság |
 
-| Tűzvédelem | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
+| Tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
@@ -160,7 +160,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Egészségügy | Fővárosi Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
+| Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | Műszaki biztonság | Budapest Főváros Kormányhivatalának Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -182,7 +182,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Földtani közeg, ásványi nyersanyag védelme | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| Lakosság életének védelme | Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága | Országos Katasztrófavédelmi Főigazgatóság |
+| Lakosság életének védelme | Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
 | Építési előírásokkal való összhang | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
 
@@ -200,4 +200,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - légiközlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (4) bekezdése, a 282/2011. (XII. 21.) Korm. rendelet 29. §-a szerint módosított szöveg.
