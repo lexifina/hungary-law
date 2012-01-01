@@ -1,0 +1,1 @@
+28. § Hatályát veszti a Vt. 7. § (3) bekezdése, 22. §-a, 26. § (2) bekezdése, 76/P. § (5) bekezdésében az „– az (5e) bekezdésnek megfelelően –” szövegrész és 77. § (1) bekezdés b) pontjában „a bejelentési nyilvántartásba vagy” szövegrész.
