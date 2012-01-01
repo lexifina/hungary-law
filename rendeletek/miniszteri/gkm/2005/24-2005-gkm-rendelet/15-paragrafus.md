@@ -1,6 +1,6 @@
 ## A vizsga felfüggesztése és érvénytelenítése
 
-15. §[^52] (1) Nem tartható meg a vizsga, illetve nem folytatható, ha a vizsgáztatás feltételei nem biztosítottak és emiatt a vizsgázó teljesítménye objektív módon nem értékelhető. Ebben az esetben, vagy a vizsgáztatás szabályainak megsértése esetén a vizsgabiztos köteles a vizsgát felfüggeszteni.
+15. §[^53] (1) Nem tartható meg a vizsga, illetve nem folytatható, ha a vizsgáztatás feltételei nem biztosítottak és emiatt a vizsgázó teljesítménye objektív módon nem értékelhető. Ebben az esetben, vagy a vizsgáztatás szabályainak megsértése esetén a vizsgabiztos köteles a vizsgát felfüggeszteni.
 
 (2) A vizsgabiztos felfüggeszti azon vizsgázó vizsgáját, aki:
 
@@ -22,4 +22,4 @@ d) az objektív értékelést ellehetetleníti, vagy a vizsga eredményét befol
 
 (7) Amennyiben a vizsga a vizsgabiztos mulasztása miatt a vizsgáztatás szabályainak megsértésével zajlott le, a közlekedési hatóság a vizsgabiztost legfeljebb egy évi időtartamra a vizsgáztatástól eltilthatja.
 
-[^52]: A 15. § az 58/2011. (XI. 24.) NFM rendelet 16. §-ával megállapított szöveg.
+[^53]: A 15. § az 58/2011. (XI. 24.) NFM rendelet 16. §-ával megállapított szöveg.

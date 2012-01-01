@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | 2010-07-01 | 2005-24-20-0L.9 | 85/2009. (XII. 30.) KHEM rendelet |
 | 2011-01-01 | 2005-24-20-0L.10 | 85/2009. (XII. 30.) KHEM rendelet |
 | 2011-12-01 | 2005-24-20-0L.11 | 58/2011. (XI. 24.) NFM rendelet |
+| 2012-01-01 | 2005-24-20-0L.12 | 58/2011. (XI. 24.) NFM rendelet |

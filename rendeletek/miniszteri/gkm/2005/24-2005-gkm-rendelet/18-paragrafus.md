@@ -1,4 +1,4 @@
-18. §[^56] (1) A szakoktatók képzését a közlekedési hatóság engedélye alapján szakirányú műszaki felsőoktatási intézmény végzi. A szakoktatói képesítés megszerzéséhez szükséges tantervek oktatási témaköreit és a képzési engedély megszerzéséhez szükséges feltételeket a 11. melléklet tartalmazza.
+18. §[^57] (1) A szakoktatók képzését a közlekedési hatóság engedélye alapján szakirányú műszaki felsőoktatási intézmény végzi. A szakoktatói képesítés megszerzéséhez szükséges tantervek oktatási témaköreit és a képzési engedély megszerzéséhez szükséges feltételeket a 11. melléklet tartalmazza.
 
 (2) Szakoktatói szaktanfolyamra az iskolázható be, aki sikeres szakoktatói felvételi vizsgát tett.
 
@@ -20,4 +20,4 @@ bc) Trolibusz kategóriás kiegészítő képzésre jelentkezés esetén legalá
 
 (5) Szakoktatói szaktanfolyam csak a 3. melléklet 2.1 pontjában említett szakok együttes megszerzésére irányuló alapképzésre vagy a „D”, „E”, „Tr” kategóriás járművezetési gyakorlat szakos kiegészítő képzésekre indíthatók.
 
-[^56]: A 18. § az 58/2011. (XI. 24.) NFM rendelet 19. §-ával megállapított szöveg.
+[^57]: A 18. § az 58/2011. (XI. 24.) NFM rendelet 19. §-ával megállapított szöveg.

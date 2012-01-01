@@ -1,6 +1,6 @@
 ## A szakoktatók
 
-17. §[^55] (1) Közúti járművezető képzést – a (2) bekezdésben meghatározottak figyelembe vételével – csak közúti járművezetői szakoktatói engedéllyel és érvényes közúti járművezetői szakoktatói igazolvánnyal rendelkező, névjegyzékbe vett személy (a továbbiakban: szakoktató) végezhet.
+17. §[^56] (1) Közúti járművezető képzést – a (2) bekezdésben meghatározottak figyelembe vételével – csak közúti járművezetői szakoktatói engedéllyel és érvényes közúti járművezetői szakoktatói igazolvánnyal rendelkező, névjegyzékbe vett személy (a továbbiakban: szakoktató) végezhet.
 
 (2) E-learning képzés esetén az iskolavezetőnek a tanulóval történő esetleges kapcsolattartáshoz – az (1) bekezdés szerinti – szakoktatót kell biztosítania.
 
@@ -26,4 +26,4 @@ e) a közlekedési hatóság a szakoktatói tevékenység végzésére vonatkoz�
 
 (6) A (4) bekezdés b) pontja szerinti jelentkező ideiglenesen engedélyezett szakoktatói tevékenységének időtartama alatt szakoktatói oklevelének bemutatásával külön eljárási díj nélkül kérheti szakoktatói tevékenysége időbeli korlátozásának törlését.
 
-[^55]: A 17. § az 58/2011. (XI. 24.) NFM rendelet 18. §-ával megállapított szöveg.
+[^56]: A 17. § az 58/2011. (XI. 24.) NFM rendelet 18. §-ával megállapított szöveg.

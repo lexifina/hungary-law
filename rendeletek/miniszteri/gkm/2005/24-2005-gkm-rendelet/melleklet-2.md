@@ -1,6 +1,6 @@
 2. melléklet a 24/2005. (IV. 21.) GKM rendelethez
 
-## A képző szerv tájékoztatási kötelezettsége a járművezető és a közlekedési szakember képzésben résztvevők számára[^144]
+## A képző szerv tájékoztatási kötelezettsége a járművezető és a közlekedési szakember képzésben résztvevők számára[^145]
 
 A képző szerv a tanuló részére írásos tájékoztatót állít össze, amely minimálisan az alábbiakat tartalmazza:
 
@@ -16,19 +16,19 @@ A képző szerv a tanuló részére írásos tájékoztatót állít össze, ame
 
 6. a telephely(ek) címét, telefonszámát,
 
-7.[^145] a tanfolyamra vagy szaktanfolyamra való felvétel módját,
+7.[^146] a tanfolyamra vagy szaktanfolyamra való felvétel módját,
 
 8. az előírt egészségi és PÁV alkalmassági vizsgálatokat kategóriánként,
 
 9. a tanfolyamra történő felvétel és a vizsgára bocsátás feltételeit kategóriánként, a vizsgaigazolás kiadásának a feltételeit (elsősegély-nyújtási ismeretek megszerzésére vonatkozó rendelkezéseket),
 
-10.[^146] a tanuló által igényelt tanfolyam vagy szaktanfolyam tantárgyait, a képző szerv által tartott óraszámát, az elméleti tanórák időtartamát, továbbá csak elméleti, illetve csak gyakorlati oktatásra jogosító képzési engedély esetén annak a képző szervnek a megnevezését és elérhetőségeit, amelyikkel a képzési engedély jogosultja szerződéses jogviszonyban áll.
+10.[^147] a tanuló által igényelt tanfolyam vagy szaktanfolyam tantárgyait, a képző szerv által tartott óraszámát, az elméleti tanórák időtartamát, továbbá csak elméleti, illetve csak gyakorlati oktatásra jogosító képzési engedély esetén annak a képző szervnek a megnevezését és elérhetőségeit, amelyikkel a képzési engedély jogosultja szerződéses jogviszonyban áll.
 
 11. a járműhasználatot: a választható típusokat, a tanuló által biztosított jármű esetén a használat feltételeit,
 
 12. a hiányzás pótlásának módját,
 
-13.[^147] a tandíj összegét, tandíj befizetésének módját, azért nyújtott szolgáltatások tételes tartalmának felsorolását, továbbá a megszerezni kívánt kategória vagy szakképesítéshez szükséges egyéb díjakat (vizsgadíjak, elsősegély-nyújtási ismeretek vizsga díját, egyéb költségeket),
+13.[^148] a tandíj összegét, tandíj befizetésének módját, azért nyújtott szolgáltatások tételes tartalmának felsorolását, továbbá a megszerezni kívánt kategória vagy szakképesítéshez szükséges egyéb díjakat (vizsgadíjak, elsősegély-nyújtási ismeretek vizsga díját, egyéb költségeket),
 
 14. az egyes tantárgyak hallgatása és vizsgája alóli mentesítés feltételeit,
 
@@ -36,20 +36,20 @@ A képző szerv a tanuló részére írásos tájékoztatót állít össze, ame
 
 16. oktatási helyszínek címét,
 
-17.[^148] a pótórák igénylésének módját, díjait,
+17.[^149] a pótórák igénylésének módját, díjait,
 
-18.[^149] az engedélyező hatóság megnevezését, címét és telefonszámát,
+18.[^150] az engedélyező hatóság megnevezését, címét és telefonszámát,
 
 19. a vizsgázó jogait és kötelezettségeit,
 
 20. a vizsgadíjakat és azok megfizetésének módját,
 
-21.[^150] a vezetői engedély vagy a szakképesítés kiadásával kapcsolatos, jogszabályban meghatározott fontosabb előírásokat. Nem magyar állampolgárokat érintően különös tekintettel kell lenni a tartózkodási engedélyre vonatkozó előírásokra, továbbá a 10. § (1) bekezdés e) pontja szerinti alapfokú iskolai végzettség külföldön kiállított oklevéllel, bizonyítvánnyal való igazolásának módjára. Az írásos tájékoztatót a képző szerv készíti el és végzi a szükséges módosításokat. Az írásos tájékoztató egy példányát a képző szerv a tanfolyamra történő jelentkezéssel egyidejűleg a jelentkezőnek átadja, és a tanfolyamra jelentkezők kellő tájékoztatása érdekében az ügyfélfogadásra szolgáló helyiségben jól látható helyen ki is függeszti. A képző szervet népszerűsítő felhívásokban közzétett adatoktól az írásos tájékoztató adataiban eltérés nem mutatkozhat.
+21.[^151] a vezetői engedély vagy a szakképesítés kiadásával kapcsolatos, jogszabályban meghatározott fontosabb előírásokat. Nem magyar állampolgárokat érintően különös tekintettel kell lenni a tartózkodási engedélyre vonatkozó előírásokra, továbbá a 10. § (1) bekezdés e) pontja szerinti alapfokú iskolai végzettség külföldön kiállított oklevéllel, bizonyítvánnyal való igazolásának módjára. Az írásos tájékoztatót a képző szerv készíti el és végzi a szükséges módosításokat. Az írásos tájékoztató egy példányát a képző szerv a tanfolyamra történő jelentkezéssel egyidejűleg a jelentkezőnek átadja, és a tanfolyamra jelentkezők kellő tájékoztatása érdekében az ügyfélfogadásra szolgáló helyiségben jól látható helyen ki is függeszti. A képző szervet népszerűsítő felhívásokban közzétett adatoktól az írásos tájékoztató adataiban eltérés nem mutatkozhat.
 
-[^144]: A 2. melléklet címe az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^145]: A 2. melléklet 7. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^146]: A 2. melléklet 10. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^147]: A 2. melléklet 13. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^148]: A 2. melléklet 17. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^149]: A 2. melléklet 18. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^150]: A 2. melléklet 21. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^145]: A 2. melléklet címe az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^146]: A 2. melléklet 7. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^147]: A 2. melléklet 10. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^148]: A 2. melléklet 13. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^149]: A 2. melléklet 17. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^150]: A 2. melléklet 18. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^151]: A 2. melléklet 21. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (2) bekezdésével megállapított szöveg.

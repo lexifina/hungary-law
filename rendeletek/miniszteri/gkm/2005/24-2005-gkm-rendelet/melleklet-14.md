@@ -1,6 +1,6 @@
 ## A továbbképzési képesítés megszerzésére vonatkozó előírások
 
-## 1.[^289] A továbbképzési képesítést – az alapképesítéshez igazodó – kötelező szaktanfolyami részvétel és az azt követő vizsgakötelezettség sikeres teljesítésével lehet megszerezni. A szaktanfolyam, illetve az azt követő vizsgakötelezettség vonatkozhat
+## 1.[^290] A továbbképzési képesítést – az alapképesítéshez igazodó – kötelező szaktanfolyami részvétel és az azt követő vizsgakötelezettség sikeres teljesítésével lehet megszerezni. A szaktanfolyam, illetve az azt követő vizsgakötelezettség vonatkozhat
 
 ## a) az autóbuszvezetői, vagy a tehergépkocsi-vezetői továbbképzési képesítés megszerzésére,
 
@@ -40,7 +40,7 @@
 
 ## 4) A tantárgyak szaktanfolyami kötelező óraszámainak 50%-a alól 2012. szeptember 9-éig mentesül az a gépjárművezető, aki a vezetői engedélyét, vagy a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet 1. melléklete A. részének I. fejezetében meghatározott képesítését öt éven belül szerezte.
 
-## 2.[^290] Elméleti vizsgatárgyak és vizsgaidők:
+## 2.[^291] Elméleti vizsgatárgyak és vizsgaidők:
 
 |  | Biztonsági szabályokon alapuló ésszerű vezetés4), 5) | Előírások alkalmazása4) | Egészségügyi, közúti közlekedési és környezeti biztonság, szerviz, logisztika4), 5) | Autóbuszvezetői kiegészítő ismeretek4) | Tehergépkocsi- vezetői kiegészítő ismeretek4) |
 
@@ -64,9 +64,9 @@
 
 ## 5) A vizsgatárgyak alól 2012. szeptember 9-éig mentesül az a gépjárművezető, aki a vezetői engedélyét, vagy a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet 1. melléklete A. részének I. fejezetében meghatározott képesítését öt éven belül szerezte.
 
-## 3.[^291]
+## 3.[^292]
 
-## 4.[^292] Ismeretkövetelmények az egyes elméleti tan- és vizsgatárgyakhoz
+## 4.[^293] Ismeretkövetelmények az egyes elméleti tan- és vizsgatárgyakhoz
 
 ## 4.1. A biztonsági szabályokon alapuló ésszerű vezetés (C1, C1+E, C és C+E jármű-kategóriákhoz):
 
@@ -134,17 +134,17 @@
 
 ## g) a közúti személyszállítás más személyszállítási módok viszonylatában (vasút, személygépkocsi), közúti személyszállítást magukban foglaló különböző tevékenységek, határátlépés (nemzetközi szállítás), a közúti személyszállítással foglalkozó vállalatok főbb típusainak szervezési módja.
 
-## 5.[^293] Ismeretkövetelmények a gyakorlati tantárgyhoz
+## 5.[^294] Ismeretkövetelmények a gyakorlati tantárgyhoz
 
 ## A jármű különböző útviszonyok közötti kezelése, megváltozott légköri feltételek és napszakoktól vagy éjszakai időszaktól függő vezetői magatartások gyakorlása száraz úton jó látási viszonyok mellett, korlátozott látási viszonyok mellett, nedves és különösen síkos útfelületen:
 
 ## a) vészfékezéssel történő megállás,
 
-## b)[^294] vészfékezéssel történő megállás eltérő tapadású felületen,
+## b)[^295] vészfékezéssel történő megállás eltérő tapadású felületen,
 
-## c)[^295] kanyartechnika,
+## c)[^296] kanyartechnika,
 
-## d)[^296] szűk folyosón való áthaladás,
+## d)[^297] szűk folyosón való áthaladás,
 
 ## e) akadály kikerülése fékezéssel és fékezés nélkül.
 
@@ -152,15 +152,15 @@
 
 ## 6. A szaktanfolyami oktatásra vonatkozó rendelkezések
 
-## 6.1.[^297] A tanfolyami oktatás tantervét, az alkalmazható tansegédleteket, illetőleg a vizsga követelményeit külön jogszabály[^298] alapján a közlekedési hatóság határozza meg.
+## 6.1.[^298] A tanfolyami oktatás tantervét, az alkalmazható tansegédleteket, illetőleg a vizsga követelményeit külön jogszabály[^299] alapján a közlekedési hatóság határozza meg.
 
-## 6.2.[^299] A tantermi oktatás elméleti tantárgyait csak az oktathatja, aki felsőfokú végzettséggel, valamint szakmai ismeretekkel rendelkezik a tantárgy ismeretanyagáról és ismeri azok oktatási módszereit.
+## 6.2.[^300] A tantermi oktatás elméleti tantárgyait csak az oktathatja, aki felsőfokú végzettséggel, valamint szakmai ismeretekkel rendelkezik a tantárgy ismeretanyagáról és ismeri azok oktatási módszereit.
 
 ## 6.3. A gyakorlati tantárgyat csak az oktathatja, aki
 
 ## a) megfelelő szakmai ismeretekkel rendelkezik a gyakorlati oktatás ismeretanyagáról és oktatási módszereiről,
 
-## b)[^300] az adott jármű-kategóriában érvényes vezetői engedéllyel és a 17. §-ban meghatározott a járművezetési gyakorlat oktatására jogosító érvényes szakoktatói engedéllyel
+## b)[^301] az adott jármű-kategóriában érvényes vezetői engedéllyel és a 17. §-ban meghatározott a járművezetési gyakorlat oktatására jogosító érvényes szakoktatói engedéllyel
 
 ## rendelkezik.
 
@@ -168,9 +168,9 @@
 
 ## 6.5. A képző szerveknek garantálnia kell, hogy a 6.2. és 6.3. pontokban meghatározott oktatók alapos ismeretekkel rendelkeznek a legfrissebb szabályozásokról és képzési követelményekről.
 
-## 7.[^301] Az alapképesítési és továbbképzési képesítési szaktanfolyami oktatást végző képző szervre vonatkozó rendelkezések
+## 7.[^302] Az alapképesítési és továbbképzési képesítési szaktanfolyami oktatást végző képző szervre vonatkozó rendelkezések
 
-## 7.1.[^302] Az alapképesítési és továbbképzési képesítési szaktanfolyami oktatás végzését a közlekedési hatóság írásbeli kérelemre engedélyezi.
+## 7.1.[^303] Az alapképesítési és továbbképzési képesítési szaktanfolyami oktatás végzését a közlekedési hatóság írásbeli kérelemre engedélyezi.
 
 ## A kérelemhez a képző szervnek (oktatási központnak) csatolnia kell az alábbi dokumentumokat:
 
@@ -190,47 +190,75 @@
 
 ## h) megfelelő minősítési és képzési program, amely meghatározza az oktatott tantárgyakat és a javasolt végrehajtási tervet, valamint oktatási módszereket.
 
-## 7.2.[^303] Az írásbeli kérelem alapján az alapképesítési és továbbképzési képesítési szaktanfolyami oktatás végzését a közlekedési hatóság jóváhagyás kiadásával akkor engedélyezi, ha a kérelemhez a 7.1. pontban meghatározott valamennyi dokumentumot – az 1–6. pontokban meghatározott feltételek teljesítést igazoló tartalommal – csatolták.
+## 7.2.[^304] Az írásbeli kérelem alapján az alapképesítési és továbbképzési képesítési szaktanfolyami oktatás végzését a közlekedési hatóság jóváhagyás kiadásával akkor engedélyezi, ha a kérelemhez a 7.1. pontban meghatározott valamennyi dokumentumot – az 1–6. pontokban meghatározott feltételek teljesítést igazoló tartalommal – csatolták.
 
-## 7.3.[^304] Az alapképesítési és továbbképzési képesítési szaktanfolyami oktatás végzésére vonatkozó jóváhagyást az engedélyező hatóság visszavonhatja vagy felfüggesztheti, amennyiben a jóváhagyás kiadására vonatkozó feltételeknek a képző szerv nem tesz eleget.
+## 7.3.[^305] Az alapképesítési és továbbképzési képesítési szaktanfolyami oktatás végzésére vonatkozó jóváhagyást az engedélyező hatóság visszavonhatja vagy felfüggesztheti, amennyiben a jóváhagyás kiadására vonatkozó feltételeknek a képző szerv nem tesz eleget.
 
-## 7.4.[^305] A jóváhagyó hatóság jogosult felhatalmazással rendelkező személyeket küldeni, hogy az alapképesítési és továbbképzési képesítési szaktanfolyami oktatás végzésére vonatkozó jóváhagyással rendelkező képző szervek tanfolyamain segédkezzenek, valamint jogosult e képző szervek ellenőrzésére a felhasznált anyagok és eszközök, továbbá a tanfolyamok megfelelő lebonyolítása tekintetében.
+## 7.4.[^306] A jóváhagyó hatóság jogosult felhatalmazással rendelkező személyeket küldeni, hogy az alapképesítési és továbbképzési képesítési szaktanfolyami oktatás végzésére vonatkozó jóváhagyással rendelkező képző szervek tanfolyamain segédkezzenek, valamint jogosult e képző szervek ellenőrzésére a felhasznált anyagok és eszközök, továbbá a tanfolyamok megfelelő lebonyolítása tekintetében.
 
-## 8.[^306] A továbbképzési képesítési szaktanfolyami képzésen történt részvétel és a vizsga igazolása
+## 8.[^307] A továbbképzési képesítési szaktanfolyami képzésen történt részvétel és a vizsga igazolása
 
 ## A szaktanfolyami képzésen részt vett, és a szakmai vizsgabizottság előtt sikeres vizsgát tett gépkocsivezető részére a vizsgajegyzőkönyv alapján a közlekedési hatóság a 14. melléklet szerinti igazolványt ad ki.
 
-14. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^307]
+14. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^308]
 
-## A GÉPJÁRMŰVEZETŐI KÉPESÍTÉSI IGAZOLVÁNY MINTÁJA
+A GÉPJÁRMŰVEZETŐI KÉPESÍTÉSI IGAZOLVÁNY MINTÁJA
 
 Elülső oldal
 
-|  |  | GÉPJÁRMŰVEZETŐI KÉPESÍTÉSI IGAZOLVÁNY DRIVER QUALIFICATION CARD | MAGYAR KÖZTÁRSASÁG REPUBLIC OF HUNGARY |
+|  | GÉPJÁRMŰVEZETŐI KÉPESÍTÉSI | MAGYARORSZÁG |
 
-|  | 6. FÉNYKÉP | 1. 2. 3. 4a. 4c. 5a. 7. 8. 9. | 4b. 4d. 5b. |  |
+| H | IGAZOLVÁNY |  |
+
+|  | DRIVER QUALIFICATION CARD |  |
+
+|  |  |  | HUNGARY |
+
+| 6. FÉNYKÉP | 1. |  |  |
+
+|  | 2. |  |  |
+
+|  | 3. |  |  |
+
+|  | 4a. | 4b. |  |
+
+|  | 4c. | 4d. |  |
+
+|  | 5a. | 5b. |  |
+
+|  | 7. |  |  |
+
+|  | 8. |  |  |
+
+|  | 9. |  |  |
 
 Az igazolvány bal felső sarkába tartalmazza a kiállító EU-tagállam megkülönböztető jelzését.
 
 Hátoldal
 
-|  | 11. |  | 9. | 10. |  |
+| 11. | 9. | 10. |
 
-|  |  |  | C1 |  |  |
+|  | C1 |  |
 
-|  |  |  | C |  |  |
+|  | C |  |
 
-|  | 1. Vezetéknév / Surname 2. Keresztnév / First name 3. Születési idő és hely / Date and place of birth 4a. A kiállítás időpontja / Date of issue 4b. Az érvényesség időpontja / Administrative expiry date 4c. Kiállító hatóság megnevezése / Issued by 5a. A vezetői engedély száma / Licence No 5b. A vezetői engedély sorozatszáma / Serial No 10. Közösségi kód / Community code |  | D1 |  |  |
+| 1. Vezetéknév / Surname | D1 |  |
 
-|  |  | D |  |  |
+| 2. Keresztnév / First name | D |  |
 
-|  |  | C1E |  |  |
+| 3. Születési idő és hely / Date and place of birth | C1E |  |
 
-|  |  | CE |  |  |
+| 4a. A kiállítás időpontja / Date of issue | CE |  |
 
-|  |  | D1E |  |  |
+| 4b. Az érvényesség időpontja / Administrative expiry date | D1E |  |
 
-|  |  | DE |  |  |
+| 4c. Kiállító hatóság megnevezése / Issued by | DE |  |
+
+| 5a. A vezetői engedély száma / Licence No |  |  |
+
+| 5b. Az igazolvány sorozatszáma / Serial No |  |  |
+
+| 10. Közösségi kód / Community code |  |  |
 
 Az igazolvány rovatainak kitöltése:
 
@@ -246,17 +274,17 @@ Az igazolvány rovatainak kitöltése:
 
 4/c a kiállító hatóság megnevezése;
 
-4/d a kiállító hatóság nyilvántartási száma;
+4/d a kiállító hatóság nyilvántartási száma;(nem kell kitölteni)
 
 5/a a vezetői engedély száma;
 
-5/b a vezetői engedély sorozatszáma;
+5/b az igazolvány sorozatszáma;
 
 6. fénykép;
 
 7. aláírása;
 
-8. a lakóhelye vagy tartózkodási hely postai címe;
+8. a lakóhelye vagy tartózkodási hely postai címe (nem kell kitölteni);
 
 9. azon gépjármű-kategória, -alkategória, amelyekre vonatkozóan a gépjárművezető megfelel az alapképesítési vagy szakmai továbbképzési követelménynek;
 
@@ -272,7 +300,7 @@ tarjeta de cualificación del conductor
 
 карта за квалификация на водача
 
-Osvědčení profesní způsobilosti řidiče
+Osvedčení profesní způsobilosti řidiče
 
 Chaufføruddannelsesbevis
 
@@ -280,7 +308,7 @@ Fahrerqualifizierungsnachweis
 
 juhi ametipädevuse kaart
 
-δελτίο επιμόρφωσης οδηγού
+δελτio εττiμoρφωσης οδηyού
 
 driver qualification card
 
@@ -290,7 +318,7 @@ cárta cáilíochta tiomána
 
 carta di qualificazione del conducente
 
-vadītāja kvalifikācijas apliecība
+vadītāja kvalifikācijas aplicība
 
 vairuotojo kvalifikacinė kortelė
 
@@ -300,15 +328,11 @@ kwalificatiekaart bestuurder
 
 karta kwalifikacji kierowcy
 
-carta de qualificação do motorista
-
-preukaz o kvalifikácii vodiča
-
 kartica o usposobljenosti voznika
 
 kuljettajan ammattipätevyyskortti
 
-yrkeskompetensbevis för förare
+yrkeskompetensbevis for förare
 
 Cartela de pregătire profesională
 
@@ -316,7 +340,7 @@ a conducătorului auto
 
 Az igazolvány fizikai jellemzőire vonatkozó követelmények:
 
-a) feleljen meg az ISO 7810 és MSZ ISO 7816–1 szabványoknak;
+a) feleljen meg az ISO 7810 és MSZ ISO 7816-1 szabványoknak;
 
 b) a fizikai jellemzőknek való megfelelést az ISO 10373 szabvány szerint kell ellenőrizni;
 
@@ -330,22 +354,22 @@ db) sárga: Pantone Yellow;
 
 e) az igazolvány vonalkóddal is ellátható, a vonalkód nem tartalmazhat más információt, mint amelyet olvasható formában már rávezettek az igazolványra, vagy amely az igazolvány kiállítási folyamatának szempontjából lényeges.
 
-[^289]: A 13. melléklet 1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^290]: A 13. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^291]: A 13. melléklet 3. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
-[^292]: A 13. melléklet 4. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^293]: A 13. melléklet 5. pont záró szövegrésze az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^294]: A 13. számú melléklet 5. pont b) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
-[^295]: A 13. számú melléklet 5. pont c) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
-[^296]: A 13. számú melléklet 5. pont d) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
-[^297]: A 13. melléklet 6. pont 6.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^298]: A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 70/2005. (IV. 21.) Korm. rendelet 4. §-a (1) bekezdésének b) pontja.
-[^299]: A 13. melléklet 6. pont 6.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^300]: A 13. melléklet 6. pont 6.3. alpont b) alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^301]: A 13. melléklet 7. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^302]: A 13. melléklet 7.1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^303]: A 13. melléklet 7.2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^304]: A 13. melléklet 7.3. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^305]: A 13. melléklet 7.4. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^306]: A 13. melléklet 8. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^307]: A 14. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.
+[^290]: A 13. melléklet 1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^291]: A 13. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^292]: A 13. melléklet 3. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
+[^293]: A 13. melléklet 4. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^294]: A 13. melléklet 5. pont záró szövegrésze az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^295]: A 13. számú melléklet 5. pont b) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^296]: A 13. számú melléklet 5. pont c) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^297]: A 13. számú melléklet 5. pont d) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^298]: A 13. melléklet 6. pont 6.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^299]: A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 70/2005. (IV. 21.) Korm. rendelet 4. §-a (1) bekezdésének b) pontja.
+[^300]: A 13. melléklet 6. pont 6.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^301]: A 13. melléklet 6. pont 6.3. alpont b) alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^302]: A 13. melléklet 7. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^303]: A 13. melléklet 7.1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^304]: A 13. melléklet 7.2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^305]: A 13. melléklet 7.3. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^306]: A 13. melléklet 7.4. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^307]: A 13. melléklet 8. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^308]: A 14. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be, szövege az 58/2011. (XI. 24.) NFM rendelet 39. § (12) bekezdésével megállapított szöveg.
