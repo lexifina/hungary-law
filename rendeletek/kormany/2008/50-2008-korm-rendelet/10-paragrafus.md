@@ -2,9 +2,9 @@
 
 10. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba, rendelkezéseit 2008. január 1-jétől kell alkalmazni.
 
-(2)[^6] E rendeletnek az egyes felsőoktatási tárgyú kormányrendeletek módosításáról szóló 39/2011. (III. 22.) Korm. rendelettel megállapított 3. § (1) bekezdését, 4. § (3) bekezdését, 6. §-át, 9. § (1) bekezdését, továbbá mellékletét 2011. január 1-jétől kell alkalmazni.
+(2)[^7] E rendeletnek az egyes felsőoktatási tárgyú kormányrendeletek módosításáról szóló 39/2011. (III. 22.) Korm. rendelettel megállapított 3. § (1) bekezdését, 4. § (3) bekezdését, 6. §-át, 9. § (1) bekezdését, továbbá mellékletét 2011. január 1-jétől kell alkalmazni.
 
-Melléklet az 50/2008. (III. 14.) Korm. rendelethez[^7]
+Melléklet az 50/2008. (III. 14.) Korm. rendelethez[^8]
 
 Képzési és tudományos célú normatívák (E Ft/fő/év)
 
@@ -62,5 +62,5 @@ Képzési és tudományos célú normatívák (E Ft/fő/év)
 
 * A normatíva elemek a 2010. évi összeghez képest növekedtek a zárójelben feltüntetett összeggel.
 
-[^6]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 7. pontja hatályon kívül helyezte, újonnan a 39/2011. (III. 22.) Korm. rendelet 27. §-a iktatta be.
-[^7]: A melléklet a 39/2011. (III. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^7]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 7. pontja hatályon kívül helyezte, újonnan a 39/2011. (III. 22.) Korm. rendelet 27. §-a iktatta be.
+[^8]: A melléklet a 39/2011. (III. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
