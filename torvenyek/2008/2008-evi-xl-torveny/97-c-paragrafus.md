@@ -1,4 +1,4 @@
-97/C. § (1) Földgázellátási válsághelyzet II. fokozata esetén – annak fennállásáig – a Kormány rendeletben szabályozhatja
+97/C. § (1) Földgázellátási válsághelyzet II. fokozata esetén – annak fennállásáig – a miniszter rendeletben szabályozhatja
 
 a) a felhasználók ellátására vonatkozó szerződések teljesítésének felfüggesztését,
 

@@ -6,6 +6,6 @@ b) a hidraulikai egyensúly biztosítása érdekében, a napi operatív beavatko
 
 c) a szállítóvezetékek forrás és felhasználói oldali kapcsolatainak irányítása és koordinálása,
 
-d) földgázellátási válsághelyzet esetén a Kormány által elrendelt fogyasztást érintő intézkedések végrehajtása.
+d) földgázellátási válsághelyzet esetén a Kormány és a miniszter által elrendelt fogyasztást érintő intézkedések végrehajtása.
 
 (2)

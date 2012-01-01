@@ -48,7 +48,7 @@ d) a kérelmező működési engedélyét a Hivatal az engedély iránti kérele
 
 (10) Az (1) bekezdés a)–h) pontjában meghatározott engedélyköteles tevékenységet csak az a földgázipari vállalkozás végezhet, amely megfelel az e törvényben, és a végrehajtására kiadott jogszabályban meghatározott feltételeknek.
 
-(11) Az (1) bekezdés i) pontjában foglalt tevékenységet külföldi székhelyű vállalkozás is végezhet, ha a külföldi vállalkozás székhely szerinti állama és a Magyar Köztársaság közötti nemzetközi szerződés ezt biztosítja.
+(11) Az (1) bekezdés i) pontjában foglalt tevékenységet külföldi székhelyű vállalkozás is végezhet, ha a külföldi vállalkozás székhely szerinti állama és Magyarország közötti nemzetközi szerződés ezt biztosítja.
 
 (12) A szállítási rendszerüzemeltetési engedély kiadásának feltételei tekintetében a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet az általános szabályoktól eltérően is rendelkezhet azon kérelmező vonatkozásában, amely földgáz szállítóvezeték tulajdonjogával a szállítási rendszerüzemeltetési engedély iránti kérelem benyújtásakor nem rendelkezik.
 

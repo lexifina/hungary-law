@@ -36,7 +36,7 @@ d) a szállítóvezetékre vonatkozó rendelkezések pedig a VET.-ben meghatáro
 
 megfelelően alkalmazandók. Az a)–c) pontokat a vállalkozás felett közvetlen irányítást gyakorló személyre vagy személyekre is alkalmazni kell.
 
-(4) Az (1) bekezdés b), c) és d) pontjában meghatározott feltétel teljesül abban az esetben is, ha egyrészt a szállítási rendszerüzemeltető vagy a szállítóvezeték, másrészt a földgáztermelő vagy a földgázkereskedő felett az irányítást a Magyar Köztársaság nevében önálló, külön törvényben meghatározott gazdálkodó szervezetek vagy más állami szervek gyakorolják.
+(4) Az (1) bekezdés b), c) és d) pontjában meghatározott feltétel teljesül abban az esetben is, ha egyrészt a szállítási rendszerüzemeltető vagy a szállítóvezeték, másrészt a földgáztermelő vagy a földgázkereskedő felett az irányítást Magyarország nevében törvényben meghatározott gazdálkodó szervezetek vagy más állami szervek gyakorolják.
 
 (5) Azokat az üzleti titkokat, amelyekről a korábban vertikálisan integrált földgázipari vállalkozás részét képező szállítási rendszerüzemeltetőnek tudomása volt, a szállítási rendszerüzemeltető nem hozhatja a földgáztermelő vagy földgázkereskedő tudomására, továbbá az ilyen szállítási rendszerüzemeltető által alkalmazott a 121/C. § (6)–(7) bekezdése szerinti személyeket munkaviszonyra irányuló jogviszonyuk alatt és jogviszonyuk megszűnését követő 4 évig, az szállítási rendszerüzemeltetővel munkaviszonyra irányuló jogviszonyban álló egyéb személyeket 1 évig a földgáztermelő vagy földgázkereskedő nem alkalmazhatja.
 

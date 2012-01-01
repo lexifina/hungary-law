@@ -4,7 +4,7 @@
 
 1. Alapvető eszköz: a működési engedélyben felsorolt azon eszközök és vagyoni értékű jogok összessége, amelyek a földgázipari vállalkozás alaptevékenységének folytatását biztosítják.
 
-1a. Bértárolás: a Magyar Köztársaság területére átszállítás céljából behozott földgáznak a tárolására nyújtott, nem belföldi felhasználás céljára igénybevett földgáztárolói szolgáltatás.
+1a. Bértárolás: Magyarország területére átszállítás céljából behozott földgáznak a tárolására nyújtott, nem belföldi felhasználás céljára igénybevett földgáztárolói szolgáltatás.
 
 2. Célvezeték: a földgáztermelőhöz, határon túli földgázrendszerhez, a szállító-, elosztóvezetékhez vagy a tárolóhoz közvetlenül csatlakozó olyan földgázvezeték, amely kizárólag egy felhasználó egy felhasználási helyének ellátására szolgál.
 
@@ -14,7 +14,7 @@
 
 5. Egyablakos kapacitásértékesítő: az a földgázipari vállalkozás, amely a Hivatal által kiadott engedély és az üzemeltetővel kötött jóváhagyott megállapodás alapján az egyablakos kiszolgálású nemzetközi földgázszállító-vezetéken két vagy több szállítási rendszerüzemeltető kapacitását értékesíti.
 
-6. Egyablakos kiszolgálású nemzetközi földgázszállító- vezeték: a Magyar Köztársaság és rajta kívül egy vagy több ország területét érintő – a hazai együttműködő földgázrendszernek részét nem képező – földgázszállító-vezeték, amelynek egy vagy több országot érintő szakaszára vonatkozóan egyetlen ügylettel lehet kapacitást lekötni.
+6. Egyablakos kiszolgálású nemzetközi földgázszállító- vezeték: Magyarország és rajta kívül egy vagy több ország területét érintő – a hazai együttműködő földgázrendszernek részét nem képező – földgázszállító-vezeték, amelynek egy vagy több országot érintő szakaszára vonatkozóan egyetlen ügylettel lehet kapacitást lekötni.
 
 7. Egybefüggő telephely: a gázfelhasználó(k) tulajdonában, kezelésében vagy használatában lévő egybefüggő ingatlan, vagy bérlemény, ahol a gázfelhasználók felhasználói berendezése(i), és a gázfogyasztást szolgáló nyomásszabályozó(k), a gázmérőhely(ek) vagy a fogyasztói főcsap van. Egy telephely több felhasználási helyet is tartalmazhat.
 
@@ -28,7 +28,7 @@
 
 11a. Elosztóhálózat-használati szerződés: a földgázelosztó és a felhasználó között létrejött szerződés, amely alapján a felhasználó az elosztóvezetéket a földgázelosztói csatlakozási szerződésben meghatározott vásárolt kapacitás mértékéig használhatja.
 
-12. Elosztóvezeték: az a csővezeték tartozékaival együtt, amelyen keresztül a földgáz elosztása történik, és amelynek kezdőpontja a Magyar Köztársaság államhatára, a gázátadó állomások kilépő pontja, a földalatti gáztároló vagy a földgáztermelő üzem betáplálási pontja, végpontja pedig a Magyar Köztársaság államhatára vagy a felhasználási hely telekhatára.
+12. Elosztóvezeték: az a csővezeték tartozékaival együtt, amelyen keresztül a földgáz elosztása történik, és amelynek kezdőpontja Magyarország államhatára, a gázátadó állomások kilépő pontja, a földalatti gáztároló vagy a földgáztermelő üzem betáplálási pontja, végpontja pedig a Magyar Köztársaság államhatára vagy a felhasználási hely telekhatára.
 
 13. Előre fizető mérő: olyan fogyasztásmérő berendezés, amely a földgáz ellenértékének előzetes megfizetését követően biztosítja a földgáz vételezését.
 
@@ -78,7 +78,7 @@
 
 32. Földgáztároló: az a besajtoló és kitermelő technológiai létesítménnyel ellátott földalatti természetes földtani szerkezet, mesterségesen kialakított földalatti üreg, vagy a földfelszínen létesített építmény, amely földgáz tárolására alkalmas.
 
-33. Földgáztermelő: az a gazdálkodó szervezet [Ptk. 685. § c) pont], amely a Magyar Köztársaság területén földgázbányászati tevékenységet végez, vagy biogáz és biomasszából származó gázok, valamint egyéb gázfajták előállítását üzletszerűen végzi.
+33. Földgáztermelő: az a gazdálkodó szervezet [Ptk. 685. § c) pont], amely Magyarország területén földgázbányászati tevékenységet végez, vagy biogáz és biomasszából származó gázok, valamint egyéb gázfajták előállítását üzletszerűen végzi.
 
 34. Földgázszállítás: a földgáznak szállítóvezetéken történő továbbítása.
 
@@ -90,7 +90,7 @@
 
 38. Gáznap: az adott nap reggel 06:00-tól a következő nap reggel 06:00-ig tartó időszak.
 
-39. Határkeresztező gázvezeték: azon szállító- vagy elosztóvezeték, amely a Magyar Köztársaság államhatárát keresztezi, és földgáz mérőállomással rendelkezik.
+39. Határkeresztező gázvezeték: azon szállító- vagy elosztóvezeték, amely Magyarország államhatárát keresztezi, és földgáz mérőállomással rendelkezik.
 
 40. Hidraulikai egyensúly: az együttműködő földgázrendszer azon állapota, amikor minden ponton biztosított a működéshez szükséges nyomásérték.
 
@@ -138,7 +138,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 53b. Szállítási rendszerirányító: az együttműködő földgázrendszer működtetését végző szállítási rendszerüzemeltetők közötti irányítási és koordinációs feladatok ellátását végző engedélyes.
 
-54. Szállítóvezeték: az a csővezeték tartozékaival együtt, amelyen keresztül a földgázt továbbítják, és amelynek kezdőpontja a Magyar Köztársaság államhatára, a termelés betáplálási pontjai, a földgáz tároló be- és kitáplálási pontja, végpontja pedig a Magyar Köztársaság államhatára, a gázátadó állomások kilépő pontjai – illetve az engedélyben foglaltak szerint a felhasználó telekhatára –, vagy a földgáz tároló be- és kitáplálási pontja.
+54. Szállítóvezeték: az a csővezeték tartozékaival együtt, amelyen keresztül a földgázt továbbítják, és amelynek kezdőpontja Magyarország államhatára, a termelés betáplálási pontjai, a földgáz tároló be- és kitáplálási pontja, végpontja pedig a Magyar Köztársaság államhatára, a gázátadó állomások kilépő pontjai – illetve az engedélyben foglaltak szerint a felhasználó telekhatára –, vagy a földgáz tároló be- és kitáplálási pontja.
 
 55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben az energiakereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
 
@@ -150,7 +150,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 58. Telephelyi vezeték: az egybefüggő telephelyen belül lévő telephelyi felhasználók földgázellátását szolgáló vezeték.
 
-59. Település: a Központi Statisztikai Hivatal által évente kiadott, „A Magyar Köztársaság Helységnévtára” (a továbbiakban: helységnévtár) kiadványban meghatározott központi belterületi egység az adott településnél nevesített egyéb belterület, és a nevesített külterület kivételével.
+59. Település: a Magyarország Helységnévtárában (a továbbiakban: helységnévtár) meghatározott központi belterületi egység az adott településnél nevesített egyéb belterület, és a nevesített külterület kivételével.
 
 60. Településrész: a helységnévtárban nevesített egyéb belterület és külterület.
 
@@ -170,7 +170,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 68. Védendő fogyasztó: a lakossági fogyasztók azon köre, akik (jogszabályban meghatározott szociális helyzetük, vagy valamely egyéb tulajdonságuk alapján) a földgázellátásban megkülönböztetett feltételek szerint vehetnek részt.
 
-69. Végső menedékes szolgáltatás: ideiglenes földgázellátás, amelyet a Hivatal által kijelölt földgázkereskedő biztosít azon egyetemes szolgáltatásra jogosult felhasználók részére, akiket földgázkereskedőjük valamilyen okból nem képes ellátni.
+69. Végső menedékes szolgáltatás: ideiglenes földgázellátás, amelyet a Hivatal által kijelölt földgázkereskedő biztosít azon egyetemes szolgáltatók vagy egyetemes szolgáltatásra jogosult felhasználók részére, akiket földgázkereskedőjük valamilyen okból nem képes ellátni.
 
 70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére propán-, butángázok és ezek elegyeiből álló gázok csővezetéken keresztül történő elosztása és értékesítése.
 

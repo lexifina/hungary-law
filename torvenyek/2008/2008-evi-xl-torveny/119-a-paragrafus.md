@@ -2,7 +2,7 @@
 
 (2) Ha a földgázipari vállalkozásokban részesedést, befolyást vagy irányítást szerezni kívánó a 123. §-ban meghatározott vagy a Hivatal által előírt kötelezettségét nem vagy nem határidőben teljesíti, vele szemben a Hivatal a 119. § (1) bekezdés b) pontjában foglalt jogkövetkezményt alkalmazhatja.
 
-(3) A Hivatal elrendelheti a szállítási rendszerüzemeltető valamennyi vagy egyes feladatainak átruházását a 128. § (1) bekezdés f) pontja alapján tanúsított és a Hivatal által kijelölt rendszerüzemeltetőre, ha
+(3) A Hivatal elrendelheti a szállítási rendszerüzemeltető valamennyi vagy egyes feladatainak átruházását a 128. § (1) bekezdés e) pontja alapján tanúsított és a Hivatal által kijelölt rendszerüzemeltetőre, ha
 
 a) a szállítási rendszerüzemeltető tartósan nem tesz eleget a 119. § (1) bekezdése szerinti jogszabályokban és uniós jogi aktusokban meghatározott kötelezettségeinek,
 

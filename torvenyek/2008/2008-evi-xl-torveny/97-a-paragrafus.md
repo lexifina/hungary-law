@@ -8,7 +8,7 @@ c) az ügyfélforgalom előtt nyitva álló magánhelyiségek vagy közintézmé
 
 d) a földgázfelhasználás mérséklését szolgáló egyéb intézkedést,
 
-e) a Magyar Köztársaság területén termelt vagy készletezett földgáznak a Magyar Köztársaság területén kívülre történő kiszállítására vonatkozó szerződéskötés feltételeit, a Magyar Köztársaság területén történő átszállítás kivételével.
+e) a Magyarország területén termelt vagy készletezett földgáznak a Magyarország területén kívülre történő kiszállítására vonatkozó szerződéskötés feltételeit, a Magyarország területén történő átszállítás kivételével.
 
 (2) Földgázellátási válsághelyzet esetén a beszerzésre kerülő földgáz-helyettesítő fűtőolajat terhelő jövedéki adó a jövedéki adóról szóló törvény rendelkezései szerint visszaigényelhető.
 
@@ -20,9 +20,9 @@ b) a biztonsági kőolaj- és kőolajtermék készletből földgázt-helyettesí
 
 lehet igénybe venni.
 
-(4) Földgázellátási válsághelyzet esetén a szállítási rendszerirányító elrendelheti a földgáznak a Magyar Köztársaság területén az együttműködő földgázrendszeren keresztül történő átszállítására vonatkozó szerződések szerinti földgázmennyiség arányos csökkentését, amennyiben ezen szerződések szerinti beszállító a belföldi felhasználók ellátására vonatkozó szerződéseiből fakadó kötelezettségeit nem teljesíti, vagy ha az átszállítandó mennyiséget a rendszerhasználó nem, vagy nem teljes egészében táplálja be a rendszerbe. A csökkentést a kieső forrás mértékéig kell végrehajtani.
+(4) Földgázellátási válsághelyzet esetén a szállítási rendszerirányító elrendelheti a földgáznak Magyarország területén az együttműködő földgázrendszeren keresztül történő átszállítására vonatkozó szerződések szerinti földgázmennyiség arányos csökkentését, amennyiben ezen szerződések szerinti beszállító a belföldi felhasználók ellátására vonatkozó szerződéseiből fakadó kötelezettségeit nem teljesíti, vagy ha az átszállítandó mennyiséget a rendszerhasználó nem, vagy nem teljes egészében táplálja be a rendszerbe. A csökkentést a kieső forrás mértékéig kell végrehajtani.
 
-(5) Amennyiben a szállítási rendszerirányító rendelkezésére álló adatok, információk alapján nem állapítható meg egyértelműen, hogy melyik beszállító nem teljesíti szerződéses kötelezettségeit, a szállítási rendszerirányító a Magyar Köztársaság területén keresztül átszállításra kerülő valamennyi szerződés szerinti földgázmennyiséget arányosan csökkenti.
+(5) Amennyiben a szállítási rendszerirányító rendelkezésére álló adatok, információk alapján nem állapítható meg egyértelműen, hogy melyik beszállító nem teljesíti szerződéses kötelezettségeit, a szállítási rendszerirányító a Magyarország területén keresztül átszállításra kerülő valamennyi szerződés szerinti földgázmennyiséget arányosan csökkenti.
 
 (6) Az átszállítások arányos csökkentését a szállítási rendszerirányító a Hivatalnak haladéktalanul bejelenti. Amennyiben a Hivatal az intézkedés megalapozottságának vizsgálata érdekében szükségesnek tartja, hatósági ellenőrzést folytat le.
 
@@ -30,6 +30,6 @@ lehet igénybe venni.
 
 (8) A válsághelyzeti intézkedésekből származó károkért az engedélyeseket – a tőlük elvárható magatartás tanúsítása esetén – kártalanítási kötelezettség nem terheli.
 
-(9) A Kormány a válsághelyzet idején megtett biztonsági intézkedéseiről haladéktalanul tájékoztatja az Európai Bizottságot és a tagállamokat.
+(9) A miniszter a válsághelyzet idején megtett biztonsági intézkedéseiről haladéktalanul tájékoztatja az Európai Bizottságot és a tagállamokat.
 
 (10) A felhasználók tárgyilagos és szakszerű tájékoztatása érdekében a földgázellátási válsághelyzet esetére a Hivatal Válsághelyzeti Információs Irodát hoz létre és működtet.

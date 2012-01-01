@@ -1,0 +1,1 @@
+127/C. § A 994/2010/EU európai parlamenti és tanácsi rendelet 13. cikk (6) bekezdés b) pontja szerinti kötelezettség teljesítéséhez szükséges mértékben a Hivatal adatokat kérhet a földgázipari vállalkozástól.

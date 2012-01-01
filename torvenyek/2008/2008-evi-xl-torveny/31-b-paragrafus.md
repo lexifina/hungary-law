@@ -1,6 +1,6 @@
 31/B. § (1) A földgázkereskedő köteles a felhasználó és – ha a felhasználó megbízásából az új földgázkereskedő jár el – az új földgázkereskedő részére a felmondás kézhezvételtől számított 5 napon belül írásban értesítést küldeni
 
-a) a felmondás visszaigazolásáról a felhasználási hely egyedi azonosító számának és a földgáz-kereskedelmi szerződés megszűnésének időpontja feltüntetésével, és a 71. § (3) bekezdése szerinti igazolásokat átadni, vagy
+a) a felmondás visszaigazolásáról a felhasználási hely egyedi azonosító számának és a földgáz-kereskedelmi szerződés megszűnésének időpontja feltüntetésével, és a 71. § (4) bekezdése szerinti igazolásokat átadni, vagy
 
 b) a felmondás benyújtásakor nem teljesített szerződéses feltételekről.
 

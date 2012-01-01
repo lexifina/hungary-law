@@ -20,4 +20,4 @@
 
 (8) Kereskedőváltás esetén az érintett földgázkereskedők, a külön jogszabályban meghatározottak szerint egyeztetnek a rendszerüzemeltetőkkel a felhasználó lekötött kapacitása földgázkereskedők közötti átadásának részletes feltételeiről. Az engedélyesek kötelesek az egyeztetéseket úgy lefolytatni, hogy a kereskedőváltás az igénybejelentéstől számított legkésőbb 30 napon belül megtörténjen. Az egyeztetések eredménytelensége esetén a felhasználó a Hivatalhoz fordulhat és kezdeményezheti a kapacitásátadásról történő döntést. A Hivatal tizenöt napon belül dönt a kapacitáslekötésekről.
 
-(9) A földgáztermelő jogosult az általa termelt gáz Magyar Köztársaság területéről történő kivitele érdekében – annak mértékéig – kapacitást lekötni, melyre a kapacitáslekötés és hozzáférés szabályait kell megfelelően alkalmazni.
+(9) A földgáztermelő jogosult az általa termelt gáz Magyarország területéről történő kivitele érdekében – annak mértékéig – kapacitást lekötni, melyre a kapacitáslekötés és hozzáférés szabályait kell megfelelően alkalmazni.

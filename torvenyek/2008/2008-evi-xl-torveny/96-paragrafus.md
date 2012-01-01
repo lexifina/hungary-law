@@ -1,5 +1,3 @@
-## Földgázellátási zavar, műszaki üzemzavar, válsághelyzet, korlátozás
-
 96. § (1) Földgázellátási zavarnak minősül minden olyan, a 97. §-ban meghatározott földgázellátási válsághelyzetet el nem érő mértékű, jellemzően területi (regionális) zavar, amely az elosztó- és szállító hálózat, valamint a földgáztároló üzembiztonságát, szabályozhatóságát vagy együttműködő képességét súlyosan veszélyezteti, és amely következtében az együttműködő földgázrendszer egyensúlya csak egyes felhasználók földgázvételezésének korlátozásával biztosítható.
 
 (2) A földgázellátási zavarra vonatkozó rendelkezések szerint kell eljárni a földgázellátási válsághelyzet kihirdetéséig minden olyan esemény esetén, amely legalább az (1) bekezdés szerinti feltételeknek megfelel.
