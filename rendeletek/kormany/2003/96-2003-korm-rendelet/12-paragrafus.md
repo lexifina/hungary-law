@@ -1,37 +1,28 @@
-## Ideiglenes működési engedély
+## Közreműködő részvétele az egészségügyi szolgáltatás nyújtása során[^35]
 
-12. § (1)[^61] A működéshez szükséges egyes tárgyi vagy szakmai környezeti feltételek vagy a szolgáltató folyamatos és biztonságos működését nem veszélyeztető egészségügyi szakdolgozói létszám hiánya esetén – ellátási érdekből – az Országos Tisztifőorvosi Hivatal, illetve a kistérségi népegészségügyi intézet egészségügyi közszolgáltatást nyújtó, már működő egészségügyi szolgáltató részére – a helyszíni szemle során tapasztalt hiányosságok megszüntetésére adott határidő egyidejű kitűzésével – ideiglenes működési engedélyt adhat. Gyógyászati segédeszköz forgalmazására, kölcsönzésére, javítására ideiglenes engedély nem adható.
+12. §[^36] (1) Közreműködő igénybevételére a szervezeti egység működéséhez kapcsolódóan közreműködői szerződés alapján kerülhet sor. Közreműködői szerződést csak olyan szakmára lehet kötni, amelyre a közreműködést igénybe vevő szolgáltató működési engedéllyel rendelkezik. A szerződő felek a személyi és tárgyi feltételeket közösen biztosítják.
 
-(2)[^62] A hiányosságok megszüntetésére kitűzött határidő legfeljebb a (4) bekezdésben meghatározott időpontig terjedhet.
+(2) A közreműködői szerződés határozatlan időtartamra köthető. A közreműködő további közreműködői szerződést nem köthet, kivéve, ha a közreműködő által igénybe vett közreműködő személyesen nyújt szolgáltatást.
 
-(3)[^63]
+(3) A közreműködői szerződés kötelezően tartalmazza:
 
-(4)[^64] Ha az egészségügyi szolgáltatást nyújtó költségvetési szervet a helyi önkormányzat az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 90. § (1) bekezdésének c) pontja szerint megszünteti és a feladat ellátására új szervezetet hoz létre, vagy a költségvetési szervét átszervezi, illetve a miniszter az Áht. 91/A. § szerint az egészségügyi szolgáltatást nyújtó központi költségvetési szervet megszünteti, és a feladatra új szervezetet hoz létre, akkor az új szervezetet az ideiglenes működési engedélyre való jogosultság szempontjából már működő egészségügyi szolgáltatónak kell tekinteni. Az ideiglenes működési engedélyben a hiányosságok megszüntetésére
+a) a közreműködést igénybe vevő és a közreműködő egészségügyi szolgáltató adatait,
 
-a) létszámhiány esetén három hónapig,
+b) a közreműködéssel érintett egészségügyi szakmát,
 
-b) a tárgyi vagy szakmai környezeti feltételek hiánya esetén
+c) a közreműködés keretében végzett tevékenység során felmerülő felelősségvállalásra vonatkozó szabályokat,
 
-ba) alapellátás esetén legfeljebb 6 hónapig,
+d) a közreműködés keretében végzett tevékenység végzéséhez szükséges feltételek biztosítására vonatkozó kötelezettségvállalást,
 
-bb) járóbeteg-szakellátás esetén legfeljebb egy évig,
+e) közfinanszírozott egészségügyi szolgáltatás keretében történő közreműködés esetén a közreműködő szolgáltatás elszámolásának szabályait,
 
-bc) fekvőbeteg-szakellátás esetén legfeljebb három évig
+f) közfinanszírozott egészségügyi szolgáltatás keretében történő közreműködés esetén a közreműködő együttműködési kötelezettségét és annak módját az egészségbiztosítási szerv által végzett ellenőrzések során,
 
-## terjedő határidő adható.
+g) a személyi és tárgyi feltételek teljesítésére kötött közreműködői szerződés esetén a tárgyi feltételek elérhetőségének, biztosításának jellegére vonatkozó rendelkezést, valamint az egészségügyi szolgáltatást végző személy (személyek) nevét, működési nyilvántartásban való azonosítóját, a tevékenység végzésének módját, időtartamát,
 
-(5) A (4) bekezdésben meghatározott határidő egy alkalommal hosszabbítható meg, legfeljebb az ott meghatározott időtartamig.
+h) a szolgáltatás szerződésszegés esetén történő folyamatos biztosítására vonatkozó feltételeket, a szerződés felmondásának szabályait, a felmondás határidejét, figyelemmel a szolgáltatás folyamatos biztosításának kötelezettségére,
 
-(6)[^65]
+i) a vitás kérdések rendezésének eljárási szabályait.
 
-(7)[^66] Ha az egészségügyi szolgáltató pótolta azokat a hiányosságokat, melyek miatt csak ideiglenes működési engedélyt kaphatott, a kistérségi népegészségügyi intézet, illetve az Országos Tisztifőorvosi Hivatal a 14. §-ban foglaltak szerint – az ideiglenes működési engedély visszavonása mellett – kiadja az egészségügyi szolgáltató számára a működési engedélyt.
-
-(8)[^67] Az ideiglenes működési engedélyt ellátási érdekből akkor lehet kiadni, ha az egészségügyi szolgáltató nem felel meg a külön jogszabályban meghatározott minimumfeltételeknek, azonban az egészségügyi közszolgáltatás keretében más módon nem biztosítható az ellátási kötelezettségébe tartozó betegek ellátásának biztonsága és folyamatossága.
-
-[^61]: A 12. § (1) bekezdése a 312/2004. (XI. 17.) Korm. rendelet 7. §-a, a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 105. § d) pontja szerint módosított szöveg.
-[^62]: A 12. § (2) bekezdése a 312/2004. (XI. 17.) Korm. rendelet 10. §-ának (6) bekezdése szerint módosított szöveg.
-[^63]: A 12. § (2) bekezdését a 312/2004. (XI. 17.) Korm. rendelet 10. §-ának (5) bekezdése hatályon kívül helyezte.
-[^64]: A 12. § (4) bekezdése a 312/2004. (XI. 17.) Korm. rendelet 10. §-ának (5) bekezdése szerint módosított szöveg.
-[^65]: A 12. § (6) bekezdését a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének g) pontja hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^66]: A 12. § (7) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 105. § e) pontja szerint módosított szöveg.
-[^67]: A 12. § (8) bekezdése a 25/2004. (II. 26.) Korm. rendelet 15. § (1) bekezdésének j) pontja szerint módosított szöveg.
+[^35]: A 12. §-t megelőző alcím a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^36]: A 12. § a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.

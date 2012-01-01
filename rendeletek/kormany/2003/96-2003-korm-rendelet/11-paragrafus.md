@@ -1,69 +1,69 @@
 ## A működési engedély
 
-11. § (1)[^46] A kistérségi népegészségügyi intézet, illetve az Országos Tisztifőorvosi Hivatal a kérelem és a helyszíni szemle megállapításai alapján, ha a kérelmező
+11. §[^34] (1) Az egészségügyi államigazgatási szerv a működési engedélyt szakmára, illetve a szakmán belül egyes szolgáltatásokra adja ki. A kérelem és a helyszíni szemle megállapításai alapján, ha a kérelmező
 
 a) maradéktalanul megfelel a 9. § szerinti követelményeknek, a működési engedélyt a kérelemben foglaltaknak megfelelően,
 
-b) a kérelemben megjelölt szakmán belül csak egyes szolgáltatások tekintetében felel meg a 9. § szerinti követelményeknek, a működési engedélyt ezekre a szolgáltatásokra
+b) a kérelemben megjelölt szakmán belül csak egyes tevékenységek tekintetében felel meg a 9. § szerinti követelményeknek, a működési engedélyt ezekre a tevékenységekre
 
-## adja meg.
+adja meg.
 
 (2) A működési engedély tartalmazza
 
-a)[^47] az egészségügyi szolgáltató 8. § (1) bekezdés a) pontjában meghatározott adatait és az egészségügyi szolgáltatók nyilvántartásában kapott azonosító számát,
+a) az egészségügyi szolgáltatók nyilvántartásában a szolgáltatónak megállapított egyedi azonosító számot,
 
-b)[^48] az egészségügyi szolgáltató által végezhető szakmákat és ezek egészségügyi szakmakódját, valamint szakmánként az ellátás progresszivitási szintjét és az ellátás formáját,
+b) az egészségügyi szolgáltató azonosítására szolgáló adatokat (név, székhely), telephelyeit,
 
-c) ha az egészségügyi szolgáltató területi (ágazati) ellátási kötelezettséggel működik, az ellátási körzet (ellátotti kör) pontos megjelölését,
+c) az egészségügyi szolgáltató által létrehozott szervezeti egység elnevezését, amelyen belül a szolgáltató az engedélyezett szakmát működteti,
 
-d) az egyes szolgáltatások ellátásának pontos helyszínét,
+d) az egészségügyi szolgáltatóknak az egészségügyi államigazgatási szerv által vezetett nyilvántartása alapján a szervezeti egység részére megállapított egyedi szervezeti egység azonosító számot,
 
-e)[^49]
+e) az egészségügyi szolgáltató által végezhető szakmákat és ezek – külön jogszabályban meghatározott – szakmakódját,
 
-f) a rendelési időt és a rendelkezésre állás idejét,
+f) szakmánként az ellátás progresszivitási szintjét, az adott progresszivitási szintre meghatározott szolgáltatásokra, tevékenységekre vonatkozó korlátozásokat – a közreműködő kivételével –,
 
-g) az ügyeleti, készenléti rendszerben való közreműködés módját,
+g) szakmánként az ellátás formáját, szolgáltatási típusát,
 
-h) az egészségügyi alapellátásban folytatott szakmák esetén a helyettesítés rendjét,
+h) ha az egészségügyi szolgáltató a szakma tekintetében ellátási területtel rendelkezik, ennek tényét szervezeti egységenként, utalva az ellátási területről szóló külön döntésre, jogszabályra,
 
-i)[^50]
+i) fekvőbeteg-szakellátás nyújtása esetén a szervezeti egységben engedélyezett szakmák ágyszámát, szakmánkénti bontásban,
 
-(3)[^51] Az egészségügyi államigazgatási szerv a működési engedélyt közli
+j) járóbeteg-szakellátás keretében engedélyezett szakma heti rendelési idejét (óraszám/hét) napi bontásban,
 
-a)[^52]
+k) alapellátás keretében engedélyezett szakma rendelési idejét, és rendelkezésre állási idejét napi bontásban, védőnői szolgálat esetén a tanácsadás idejét,
 
-b)[^53] az egészségügyi ellátási kötelezettség 8. § (2) bekezdés a) pontja szerinti szerződéses teljesítése esetén az egészségügyi közszolgáltatásért felelős szervvel,
+l) az ügyeleti, készenléti rendszerben való közreműködés tényét,
 
-c)[^54] közszolgáltatást nyújtó egészségügyi szolgáltató esetén az Országos Egészségbiztosítási Pénztárral, illetőleg az egészségügyi közszolgáltatást finanszírozó más állami szervvel,
+m) az egészségügyi alapellátásban folytatott szakmák esetén a helyettesítés helyét, a helyettesítő személyek nevét és orvosi bélyegzője számát vagy működési nyilvántartási számát,
 
-d)[^55] az egészségügyi szolgáltatók és a működési engedélyek nyilvántartását vezető szervvel,
+n) a közreműködő szolgáltató igénybevételének tényét,
 
-e)[^56] egyéni egészségügyi vállalkozó esetén a 8. § (3) bekezdése szerinti működési nyilvántartást vezető szervvel.
+o) az engedélyezett szakma státuszát (határozatlan, átmeneti).
 
-(4)[^57] Az egészségügyi államigazgatási szerv
+(3) Valamennyi engedélyezett szakmát az egészségügyi szolgáltató által létrehozott szervezeti egységen belül, az adott szakmára jellemző (2) bekezdés e)–o) pontja szerinti adatokkal kell feltüntetni.
 
-a)[^58] gazdasági társaság esetén a cégbíróságot,
+(4) A működési engedély (2) bekezdésben meghatározott tartalmi elemeit az egészségügyi államigazgatási szerv által kiadott határozat a 3. melléklet szerint tartalmazza.
+
+(5) Az egészségügyi államigazgatási szerv a működési engedélyről szóló határozatot közli
+
+a) az egészségügyi ellátási kötelezettség 8. § (4) bekezdés a) pontja szerinti szerződéses teljesítése esetén az egészségügyi közszolgáltatásért felelős szervvel,
+
+b) közszolgáltatást nyújtó egészségügyi szolgáltató esetén az Országos Egészségbiztosítási Pénztárral, vagy az egészségügyi közszolgáltatást finanszírozó más állami szervvel.
+
+(6) Az egészségügyi államigazgatási szerv
+
+a) gazdasági társaság esetén a cégbíróságot,
 
 b) egyéb – bírósági vagy más hatósági nyilvántartásban jogszabály előírása alapján nyilvántartott – szervezet esetén a nyilvántartást vezető szervet,
 
-c)[^59] az egyéni vállalkozó székhelye szerinti körzetközponti jegyzőt
+c) az egyéni vállalkozó székhelye szerinti körzetközponti jegyzőt
 
-## a működési engedély számának és hatályossága közlésével tájékoztatja az engedély kiadásáról.
+a működési engedély számának és jogerőre emelkedésének közlésével tájékoztatja az engedély kiadásáról.
 
-(5)[^60] Amennyiben a kérelmező nem felel meg a 9. § szerinti követelményeknek, a működési engedély iránti kérelmet – a 12. § (1) bekezdésében és a 13. §-ban meghatározott esetek kivételével – a kistérségi népegészségügyi intézet vagy az Országos Tisztifőorvosi Hivatal elutasítja. Az elutasító határozatot – a (3) bekezdés d) pontjában foglalt szervet kivéve – közölni kell a (3)–(4) bekezdésben foglalt szervekkel.
+(7) Amennyiben a kérelmező nem felel meg a jogszabályban előírt követelményeknek, a működési engedély iránti kérelmet – a 13. §-ban meghatározott eset kivételével – az egészségügyi államigazgatási szerv elutasítja. Az elutasító határozatot közölni kell az (5) és (6) bekezdésben foglalt szervekkel. Amennyiben a kérelmező a kérelemben megjelölt szakmán belül csak egyes szolgáltatások tekintetében felel meg a jogszabályban előírt követelményeknek, a működési engedélyt ezekre a szolgáltatásokra kell megadni.
 
-[^46]: A 11. § (1) bekezdés nyitó szövegrésze a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 105. § a) pontja szerint módosított szöveg.
-[^47]: A 11. § (2) bekezdésének a) pontja a 25/2004. (II. 26.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg.
-[^48]: A 11. § (2) bekezdésének b) pontja a 25/2004. (II. 26.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg.
-[^49]: A 11. § (2) bekezdésének e) pontját a 185/2008. (VII. 18.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte azzal, hogy az e) pontban foglaltakkal összefüggésben a 96/2003. (VII. 15.) Korm. rendelet 14. § (1) bekezdésében foglaltakat nem kell alkalmazni a 2008. július 23. napját megelőzően kiadott működési engedélyek vonatkozásában.
-[^50]: A 11. § (2) bekezdésének i) pontját a 185/2008. (VII. 18.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte azzal, hogy az i) pontban foglaltakkal összefüggésben a 96/2003. (VII. 15.) Korm. rendelet 14. § (1) bekezdésében foglaltakat nem kell alkalmazni a 2008. július 23. napját megelőzően kiadott működési engedélyek vonatkozásában.
-[^51]: A 11. § (3) bekezdése a 25/2004. (II. 26.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított, bevezető szövegrésze a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^52]: A 11. § (3) bekezdésének a) pontját a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének e) pontja hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^53]: A 11. § (3) bekezdésének b) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^54]: A 11. § (3) bekezdés c) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének e) pontja és (3) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 105. § b) pontja szerint módosított szöveg.
-[^55]: A 11. § (3) bekezdésének d) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^56]: A 11. § (3) bekezdésének e) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^57]: A 11. § (4) bekezdése a 25/2004. (II. 26.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított, valamint a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^58]: A 11. § (4) bekezdésének a) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének f) pontja szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^59]: A 11. § (4) bekezdés c) pontja a 308/2009. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^60]: A 11. § (5) bekezdését a 25/2004. (II. 26.) Korm. rendelet 8. §-ának (2) bekezdése iktatta be, szövege a 215/2009. (IX. 30.) Korm. rendelet 5. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 105. § c) pontja szerint módosított szöveg.
+(8) Amennyiben a kérelem olyan tevékenységre, szolgáltatásra irányul, mely a jogszabály szerinti szerv véleménye szerint nem azonosítható a jogszabályban meghatározott szakmák egyikével sem, illetve a szakma által el nem fogadott, és Magyarországon be nem vezetett eljárások végzésére irányul, a kérelmet az egészségügyi államigazgatási szerv elutasítja.
+
+(9) Közreműködő igénybe vétele esetén az egészségügyi államigazgatási szerv vizsgálja, hogy a közreműködő bevonása nem veszélyezteti-e az egészségügyi szolgáltatás folyamatosságát, biztonságát, színvonalát.
+
+[^34]: A 11. § a 325/2011. (XII. 28.) Korm. rendelet 37. §-ával megállapított szöveg.

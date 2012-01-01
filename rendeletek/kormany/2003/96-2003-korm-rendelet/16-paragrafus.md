@@ -1,22 +1,29 @@
 ## Az egészségügyi szolgáltatás gyakorlásának ellenőrzése
 
-16. § (1)[^81] Az egészségügyi szolgáltató működési engedélyében foglaltak szerinti működését az egészségügyi államigazgatási szerv rendszeresen ellenőrzi.
+16. §[^45] (1) Az egészségügyi államigazgatási szerv – a 9. §-ban és 15. §-ban meghatározott ellenőrzésen kívül – előre meghatározott és közzétett ütemezés szerint végzi az egészségügyi szolgáltatók ellenőrzését, amelynek során vizsgálja a jogszabályban meghatározott személyi, tárgyi, szakmai minimumfeltételek, a szakmai szabályok, protokollok, illetve közegészségügyi előírások teljesítését.
 
-(2) Amennyiben az ellenőrzés megállapítja, hogy
+(2) Az egészségügyi államigazgatási szerv, illetve a szakfelügyelet által tartott – a 9. §-ban és a 15. §-ban meghatározott ellenőrzést is ideértve – helyszíni ellenőrzés megállapításai vagy az egészségügyi szolgáltató képviselője által tett nyilatkozat alapján az engedélyező egészségügyi államigazgatási szerv a jogszabálysértés vagy szakmai szabályszegés jellegének, súlyának, az egészségügyi ellátásra nézve okozott sérelem nagyságának mérlegelésével megteszi a szükséges intézkedéseket, amelynek során az alábbi jogkövetkezményeket alkalmazhatja:
 
-a)[^82] az egészségügyi szolgáltatónál nem állnak rendelkezésre a működési engedély kiadásakor meglévő feltételek, a működési engedélyt kiadó szerv határidő tűzésével kötelezi a szolgáltatót a hiányosságok megszüntetésére,
+a) a szolgáltató figyelmét a közigazgatási hatósági eljárásról szóló törvény alapján felhívja a jogszabály rendelkezéseinek betartására;
 
-b)[^83] az egészségügyi szolgáltató a működési engedélyben megjelölt egészségügyi szolgáltatásokat a működési engedélyben foglaltaktól eltérően látja el, a működési engedélyt kiadó szerv határidő kitűzésével kötelezi az engedélyben foglaltaknak megfelelő működtetésre,
+b) a szolgáltató progresszivitási szintjét visszaminősíti;
 
-c)[^84] a szolgáltatás nem felel meg a közegészségügyi előírásoknak, az intézet megteszi a külön jogszabályban meghatározott intézkedéseket.
+c) az egészségügyi szolgáltatót határidő tűzésével kötelezi az észlelt hiányosságok pótlására;
 
-(3)[^85] Az egészségügyi szolgáltató működését a szolgáltatás helye szerinti kistérségi népegészségügyi intézet akkor is ellenőrizheti, ha a szolgáltatásra jogosító működési engedélyt az Országos Tisztifőorvosi Hivatal adta ki. A kistérségi népegészségügyi intézet az ellenőrzésről készült jegyzőkönyv egy példányát nyolc napon belül megküldi az engedélyt kiadó egészségügyi államigazgatási szerv részére.
+d) ha az egészségügyi szolgáltató a c) pont szerint megadott határidőre a határozatban előírt kötelezettségeknek nem tesz eleget, és nem kérte a teljesítési határidő módosítását, az egészségügyi államigazgatási szerv újabb határidő tűzése mellett külön jogszabályban meghatározott egészségügyi bírságot szab ki;
 
-(4)[^86] Az egészségügyi államigazgatási szerv a tapasztalt közegészségügyi hiányosságok esetén saját hatáskörben intézkedik, és erről értesíti a működési engedélyt kiadó egészségügyi államigazgatási szervet. Egyéb hiányosság esetén intézkedést kezdeményez a működési engedélyt kiadó egészségügyi államigazgatási szervnél.
+e) ha az egészségügyi szolgáltató a d) pont szerinti határidőre sem teljesíti a határozatban előírt kötelezettségeket, és nem kérte a határidő módosítását, az egészségügyi államigazgatási szerv az adott szakmára, szaktevékenységre vonatkozó engedélyét visszavonja;
 
-[^81]: A 16. § (1) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^82]: A 16. § (2) bekezdésének a) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 105. § f) pontja szerint módosított szöveg.
-[^83]: A 16. § (2) bekezdésének b) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 105. § f) pontja szerint módosított szöveg.
-[^84]: A 16. § (2) bekezdésének c) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^85]: A 16. § (3) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (39) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni. A (3) bekezdés a 351/2010. (XII. 30.) Korm. rendelet 105. § g–h)) pontja szerint módosított szöveg.
-[^86]: A 16. § (4) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+f) az egészségügyi szolgáltató szervezeti egysége, szakrendelése, osztálya, összevont osztálya, mátrix osztálya működését felfüggeszti a hiányosságok megszüntetésére megadott határidő meghatározásával;
+
+g) ha az egészségügyi szolgáltató határidőre sem teljesíti az f) pont szerinti határozatban előírt kötelezettségeket, és nem kérte a teljesítési határidő módosítását, az egészségügyi államigazgatási szerv az adott szakmára, szaktevékenységre vonatkozó engedélyét visszavonja;
+
+h) közfinanszírozott egészségügyi szolgáltatónak a működési engedélyétől eltérő működése esetén az egészségbiztosítónál kezdeményezheti a jogszabályban foglalt intézkedések megtételét.
+
+(3) A (2) bekezdés e)–g) pontja szerinti felfüggesztés és a működési engedély visszavonása esetén az egészségügyi államigazgatási szerv az egészségügyi közszolgáltatást végző egészségügyi szolgáltató esetén dönt a betegellátás átmeneti biztosítása érdekében más egészségügyi szolgáltató kijelöléséről.
+
+(4) Az egészségügyi szolgáltató működését a szolgáltatás helye szerinti kistérségi népegészségügyi intézet akkor is ellenőrizheti, ha a szolgáltatásra jogosító működési engedélyt az Országos Tisztifőorvosi Hivatal adta ki. A kistérségi népegészségügyi intézet az ellenőrzésről készült jegyzőkönyv egy példányát haladéktalanul, de legfeljebb nyolc napon belül megküldi az engedélyt kiadó egészségügyi államigazgatási szerv részére.
+
+(5) Az egészségügyi államigazgatási szerv a tapasztalt közegészségügyi hiányosságok esetén saját hatáskörben intézkedik, és erről értesíti a működési engedélyt kiadó egészségügyi államigazgatási szervet. Egyéb hiányosság esetén intézkedést kezdeményez a működési engedélyt kiadó egészségügyi államigazgatási szervnél.
+
+[^45]: A 16. § a 325/2011. (XII. 28.) Korm. rendelet 42. §-ával megállapított szöveg.
