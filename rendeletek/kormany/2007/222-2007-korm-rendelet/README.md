@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-222-20-
 | --- | --- | --- |
 | 2009-10-01 | 2007-222-20-22.3 | 222/2007. (VIII. 29.) Korm. rendelet |
 | 2011-01-01 | 2007-222-20-22.4 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2012-01-01 | 2007-222-20-22.5 | 322/2011. (XII. 27.) Korm. rendelet |
