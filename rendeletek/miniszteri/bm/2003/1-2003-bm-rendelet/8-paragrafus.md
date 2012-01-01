@@ -1,1 +1,0 @@
-## 7. § A Szabályzat rendelkezéseit – az abban foglalt eltérésekkel – azon önkéntes tűzoltó egyesületek is kötelesek végrehajtani, amelyek alapszabályukban vállalták a tűzoltási és a műszaki mentési tevékenységet.
