@@ -440,7 +440,7 @@
 
 ## 2. A „feltételek” rovatba kell bejegyezni az esetleges korlátozásokat, így különösen a parttól való eltávolodás távolságát tengeri mérföldben a tengeri kedvtelési célú képesítés osztályának megfelelően.
 
-7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^223]
+7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^224]
 
 ## VIZSGASZABÁLYZAT
 
@@ -464,9 +464,9 @@ c) A hajónapló vezetésére 2001. január 1-je előtt nem kötelezett úszól�
 
 d) A nem magyar lobogójú úszólétesítményen megszerzett, az illetékes külföldi hajózási hatóság által a külföldi hajós szolgálati könyvben igazolt gyakorlatot a hajózási hatóság elfogadja.
 
-e)[^224] Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozóként, üzemelő úszólétesítményen ellátott tényleges szolgálat alapján igazolható. Minden szolgálati bejegyzésnek tartalmaznia kell azt, hogy az úszólétesítményre előírt mely szolgálatot látta el a jelentkező.
+e)[^225] Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozóként, üzemelő úszólétesítményen ellátott tényleges szolgálat alapján igazolható. Minden szolgálati bejegyzésnek tartalmaznia kell azt, hogy az úszólétesítményre előírt mely szolgálatot látta el a jelentkező.
 
-1.3.2.[^225] Tengeri hajózásban:
+1.3.2.[^226] Tengeri hajózásban:
 
 A tengerész szolgálati könyvben a hajózási hatóság hitelesítéssel igazolja a gyakorlati időt. A gyakorlati idő naptári hónapban (az összegezett töredékidő 30 napos hónapban) számolható. Nem magyar nyelven kiállított szolgálati igazolás csak hivatalos magyar nyelvű fordítással fogadható el, kivéve ha erre nyilvánvalóan nincs szükség.
 
@@ -474,7 +474,7 @@ Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozó
 
 1.4. A „gyakorlatok vizsgakönyve”-ként csak a hajózási hatóság által hitelesített vizsgakönyv fogadható el.
 
-1.5.[^226] Belvízi kedvtelési célú vizsga esetén a vizsgázó a vizsgakövetelményeket elméleti és gyakorlati részre bontva teljesítheti. Erre a lehetőségre a hajózási hatóság adatlapján a vizsgázó figyelmét fel kell hívni valamennyi hatáskörrel rendelkező hajózási hatóság megjelölésével. Ezek közül egynek a megjelölése nélkül a jelentkezési lapot elfogadni nem szabad, továbbá fel kell szólítani a vizsgázót ennek pótlására.
+1.5.[^227] Belvízi kedvtelési célú vizsga esetén a vizsgázó a vizsgakövetelményeket elméleti és gyakorlati részre bontva teljesítheti. Erre a lehetőségre a hajózási hatóság adatlapján a vizsgázó figyelmét fel kell hívni valamennyi hatáskörrel rendelkező hajózási hatóság megjelölésével. Ezek közül egynek a megjelölése nélkül a jelentkezési lapot elfogadni nem szabad, továbbá fel kell szólítani a vizsgázót ennek pótlására.
 
 2. A vizsga megtartásának feltételei, körülményei
 
@@ -808,7 +808,7 @@ A képesítő vizsgára jelentkezőkről és a vizsgát tett személyekről a ha
 
 Sikeres a képesítő vizsgája annak, aki minden tárgyból „Megfelelt” minősítéssel tett vizsgát, illetve az e Szabályzatban előírt pontszámot elérte (illetve felmentése volt). A vizsga eredményét a vizsgázóval a vizsga befejezése után közvetlenül, vizsgatárgyanként ismertetni kell.
 
-Függelék a Vizsgaszabályzathoz[^227]
+Függelék a Vizsgaszabályzathoz[^228]
 
 A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek kijelölése
 
@@ -838,8 +838,8 @@ A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek ki
 
 | – Radarhajós vizsga | – radarhajózásra alkalmas nagyhajó, kishajó vagy komp a képesítés korlátozásának megfelelően (rendelkeznie kell a radarhajózáshoz előírt üzemképes berendezésekkel (URH rádió-készülékkel, fordulásjelzővel, hangjelző berendezés stb.), valamint a hajó vezetésére jogosult radarhajós képesítésű vezetővel; – a hajó kormányállását a vizsga tartamára le kell függönyözni; | – a gyakorlati vizsga elemeiként előírt olyan nyílt folyami vagy tavi vízterület, ahol szűkület és legalább 8 db kitűző jel található, valamint veszteglő úszólétesítmények, továbbá közlekedő hajók várhatók; – legalább egy medencés kikötő, ahová a be- és kihajózás szabad; |
 
-[^223]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be.
-[^224]: A 7. számú melléklet 1.3.1. pontjának e) alpontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
-[^225]: A 7. számú melléklet 1.3.2. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
-[^226]: A 7. számú melléklet 1.5. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
-[^227]: A 7. számú melléklet Függeléke a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
+[^224]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be.
+[^225]: A 7. számú melléklet 1.3.1. pontjának e) alpontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
+[^226]: A 7. számú melléklet 1.3.2. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
+[^227]: A 7. számú melléklet 1.5. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
+[^228]: A 7. számú melléklet Függeléke a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.

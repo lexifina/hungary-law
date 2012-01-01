@@ -2,7 +2,7 @@
 
 ## rendelkezések
 
-13. § (1)[^72] A 2008. július 1. előtt kiadott tengerész, illetve tengeri kedvtelési célú hajózási képesítésre kiadott képesítő okmányok érvényességi idejük lejártáig érvényesek.
+13. § (1)[^73] A 2008. július 1. előtt kiadott tengerész, illetve tengeri kedvtelési célú hajózási képesítésre kiadott képesítő okmányok érvényességi idejük lejártáig érvényesek.
 
 (2) A rendelet hatálybalépése előtt megszerzett tengerész képesítések közül a rendelet hatálybalépését követően
 
@@ -18,7 +18,7 @@ e) a fedélzeti tiszti képesítés navigációs őrszolgálatért felelős fed�
 
 f) az I. osztályú géptiszti képesítés korlátlan főgépteljesítményre szóló gépüzemvezetői képesítésnek,
 
-g)[^73] a II. osztályú géptiszti képesítés korlátozott (750 és 3000 kW között) főgépteljesítményre szóló gépüzemvezetői képesítésnek,
+g)[^74] a II. osztályú géptiszti képesítés korlátozott (750 és 3000 kW között) főgépteljesítményre szóló gépüzemvezetői képesítésnek,
 
 h) a géptéri őrszolgálatért felelős géptiszti képesítés, 3000 kW feletti teljesítményű gépüzemben teljesített 24 havi géptiszti szolgálat igazolása és teljesítménykorlátozás nélküli gépüzem kezelésére jogosító másodgéptiszti képzés elvégzése után, vizsga letételével korlátlan másodgéptiszti képesítésnek,
 
@@ -28,9 +28,9 @@ j) navigációs és géptéri őrszolgálat tagja képesítés a navigációs é
 
 ## felel meg.
 
-(3)[^74] A megszűnő tengerész fedélzeti képesítéseket igazoló okmányok kicserélése során azoknak a tiszteknek a képesítő okmányát, akik nem rendelkeznek ,,automatikus radar-céltárgy értékelő rendszer'' kezelői képesítéssel, a hajózási hatóság erre vonatkozó bejegyzéssel látja el.
+(3)[^75] A megszűnő tengerész fedélzeti képesítéseket igazoló okmányok kicserélése során azoknak a tiszteknek a képesítő okmányát, akik nem rendelkeznek ,,automatikus radar-céltárgy értékelő rendszer'' kezelői képesítéssel, a hajózási hatóság erre vonatkozó bejegyzéssel látja el.
 
-(4)[^75] A hajózási hatóság 2008. július 1. előtt kiadott tengeri kedvtelési célú,
+(4)[^76] A hajózási hatóság 2008. július 1. előtt kiadott tengeri kedvtelési célú,
 
 a) a parttól 5 tengeri mérföldnyi távolságra való eltávolodásra jogosító kishajó-vezetői képesítést IV. osztályú okmányra,
 
@@ -42,10 +42,10 @@ d) a korlátlan tengeri mérföldnyi távolságra való eltávolodásra jogosít
 
 ## cseréli ki.
 
-(5)[^76] A (4) bekezdés szerinti okmánycserék további feltétele a cserére kerülő okmányban érvényes egészségi alkalmassági bejegyzés megléte vagy a Repülési, Hajózási és Tengerészeti Egészségügyi Központ orvosa által kiállított érvényes egészségi alkalmassági igazolás bemutatása.
+(5)[^77] A (4) bekezdés szerinti okmánycserék további feltétele a cserére kerülő okmányban érvényes egészségi alkalmassági bejegyzés megléte vagy a Repülési, Hajózási és Tengerészeti Egészségügyi Központ orvosa által kiállított érvényes egészségi alkalmassági igazolás bemutatása.
 
-[^72]: A 13. § (1) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^73]: A 13. § (2) bekezdésének g) pontja a 3/2008. (VI. 3.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^74]: A 13. § (3) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének a) pontja szerint módosított szöveg.
-[^75]: A 13. § (4) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^76]: A 13. § (5) bekezdését a 3/2008. (VI. 3.) KHEM rendelet 9. § (4) bekezdése iktatta be.
+[^73]: A 13. § (1) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^74]: A 13. § (2) bekezdésének g) pontja a 3/2008. (VI. 3.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^75]: A 13. § (3) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének a) pontja szerint módosított szöveg.
+[^76]: A 13. § (4) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^77]: A 13. § (5) bekezdését a 3/2008. (VI. 3.) KHEM rendelet 9. § (4) bekezdése iktatta be.

@@ -2,7 +2,7 @@
 
 1. § (1) A rendelet hatálya kiterjed
 
-a) a Magyar Köztársaság területén közlekedő úszólétesítményre, valamint
+a)[^1] Magyarország területén közlekedő úszólétesítményre, valamint
 
 b) az ország határain kívül, a magyar hatóság által kiadott hajózási képesítéssel rendelkező személyre.
 
@@ -13,3 +13,5 @@ a) a csónakok, a nem gépi hajtású vízi sporteszközök, valamint a kizáró
 b) a honvédelmi célú hajózási tevékenységet végző úszólétesítmények vezetőire és személyzetére.
 
 (3) Az ország területén nem magyar lobogó alatt, illetve az ország határain kívül magyar lobogó alatt közlekedő úszólétesítmények vezetőire és személyzetére a rendelet hatálya annyiban terjed ki, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 91/2011. (XII. 30.) NFM rendelet 17. § a) pontja szerint módosított szöveg.

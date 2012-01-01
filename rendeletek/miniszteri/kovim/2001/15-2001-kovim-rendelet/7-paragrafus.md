@@ -12,6 +12,6 @@
 
 (6) Ismétlővizsga a sikertelen vizsgát követő legalább három hónap elteltével tehető.
 
-(7)[^35] A hatósági képesítő gyakorlati vizsgára, a vizsgaszabályzatban meghatározott típusú úszólétesítményt a vizsgázó vagy jóváhagyott képzés esetén a képző szerv biztosítja. A hajózási hatóság olyan úszólétesítményt fogad el, amely az adott vízterületen hajózásra alkalmas. A vizsga céljára igénybe vett úszólétesítmény a hajózási hatóság képviselőjének jelenlétében hatósági jelzést visel és az úszólétesítményre a hajózási hatósági hajókra vonatkozó szabályokat kell alkalmazni.
+(7)[^36] A hatósági képesítő gyakorlati vizsgára, a vizsgaszabályzatban meghatározott típusú úszólétesítményt a vizsgázó vagy jóváhagyott képzés esetén a képző szerv biztosítja. A hajózási hatóság olyan úszólétesítményt fogad el, amely az adott vízterületen hajózásra alkalmas. A vizsga céljára igénybe vett úszólétesítmény a hajózási hatóság képviselőjének jelenlétében hatósági jelzést visel és az úszólétesítményre a hajózási hatósági hajókra vonatkozó szabályokat kell alkalmazni.
 
-[^35]: A 7. § (7) bekezdését a 16/2006. (IV. 6.) GKM rendelet 1. § (5) bekezdése iktatta be.
+[^36]: A 7. § (7) bekezdését a 16/2006. (IV. 6.) GKM rendelet 1. § (5) bekezdése iktatta be.

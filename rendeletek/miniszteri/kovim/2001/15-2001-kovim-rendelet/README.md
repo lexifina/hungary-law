@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-15-20-9
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-15 | 2001-15-20-93.14 | 15/2001. (IV. 27.) KöViM rendelet |
+| 2012-01-01 | 2001-15-20-93.15 | 91/2011. (XII. 30.) NFM rendelet |

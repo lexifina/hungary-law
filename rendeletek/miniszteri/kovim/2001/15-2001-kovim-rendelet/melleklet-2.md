@@ -6,7 +6,7 @@
 
 ## 1. A képesítővizsgára felkészítő szervezett képzést a hajózási hatóság abban az esetben hagyja jóvá, ha a képzést biztosító szervezet:
 
-## a)[^80] elkészíti és a hajózási hatóságnak jóváhagyásra megküldi azon oktatási tervet, amely az e rendeletben foglalt szakmai alkalmassági feltételeknek megfelelő rendszert, – tengerész képzés esetében az IMO által ajánlott képzési modellek előírásai szerinti – képzési módszereket tartalmazza, bemutatja az alkalmazott képzési anyagokat (tankönyv stb.), segédeszközöket, és tanúsítja, hogy ezekkel a képzésben részesülő személyek létszámának megfelelően rendelkezik,
+## a)[^81] elkészíti és a hajózási hatóságnak jóváhagyásra megküldi azon oktatási tervet, amely az e rendeletben foglalt szakmai alkalmassági feltételeknek megfelelő rendszert, – tengerész képzés esetében az IMO által ajánlott képzési modellek előírásai szerinti – képzési módszereket tartalmazza, bemutatja az alkalmazott képzési anyagokat (tankönyv stb.), segédeszközöket, és tanúsítja, hogy ezekkel a képzésben részesülő személyek létszámának megfelelően rendelkezik,
 
 ## b) nyilvántartott oktatói az oktatott tantárgynak megfelelően szakirányúan képzettek és tapasztaltak, ismerik a képzési programot és az adott terület sajátos célkitűzéseit, és szimulátor alkalmazásával folytatott képzés esetén ismerik a szimulátor megfelelő alkalmazásához szükséges speciális oktatás követelményeit, valamint gyakorlottak az adott típusú szimulátor használatában,
 
@@ -14,15 +14,15 @@
 
 ## d) folyamatosan ellenőrzi a jóváhagyott oktatási tervben meghatározott követelményrendszeren keresztül a képzést,
 
-## e)[^81] rendszeresen – de legalább 5 évenként – aláveti magát a hajózási hatóság, illetve hivatásos tengerész képzés esetén a minisztérium által megbízott független minőségbiztosítási bizottság kiértékelési eljárásának, amely a képzés és vizsgáztatás szervezeti és végrehajtási ellenőrzésére irányul.
+## e)[^82] rendszeresen – de legalább 5 évenként – aláveti magát a hajózási hatóság, illetve hivatásos tengerész képzés esetén a minisztérium által megbízott független minőségbiztosítási bizottság kiértékelési eljárásának, amely a képzés és vizsgáztatás szervezeti és végrehajtási ellenőrzésére irányul.
 
 ## 2. Amennyiben a hivatásos tengerészek képzése során szimulátort alkalmaznak, annak meg kell felelnie az SCTW Egyezmény A–I/12. Szabályában foglaltaknak.
 
-## 3.[^82] A hajózási hatóság egy vagy több vizsgatárgy elméleti vagy gyakorlati oktatására részképzést is engedélyezhet. Ilyen esetben a vizsgatárgy szintjét a kérelemben és az engedélyben meg kell jelölni.
+## 3.[^83] A hajózási hatóság egy vagy több vizsgatárgy elméleti vagy gyakorlati oktatására részképzést is engedélyezhet. Ilyen esetben a vizsgatárgy szintjét a kérelemben és az engedélyben meg kell jelölni.
 
 ## Képzési igazolás
 
-## 1.[^83] A képzés elvégzéséről, illetve a képzés részeinek teljesítéséről a képző szerv igazolást állít ki, amelynek tartalmaznia kell:
+## 1.[^84] A képzés elvégzéséről, illetve a képzés részeinek teljesítéséről a képző szerv igazolást állít ki, amelynek tartalmaznia kell:
 
 ## a) a hallgató nevét, születési helyét és idejét,
 
@@ -34,25 +34,25 @@
 
 ## e) a képző szerv cégszerű aláírását.
 
-## 2.[^84] A hivatásos tengerész képzés elvégzéséről a képző szerv kétnyelvű (magyar–angol) igazolást állít ki, amely tartalmazza:
+## 2.[^85] A hivatásos tengerész képzés elvégzéséről a képző szerv kétnyelvű (magyar–angol) igazolást állít ki, amely tartalmazza:
 
 ## a) a hallgató nevét, születési helyét és idejét,
 
-## b)[^85] a képzés megnevezését, az STCW Egyezmény vonatkozó szabályának számát, amelyre a képzés irányult,
+## b)[^86] a képzés megnevezését, az STCW Egyezmény vonatkozó szabályának számát, amelyre a képzés irányult,
 
-## c)[^86] a hallgatott tantárgyak megnevezését, az elméleti, illetve a gyakorlati órák számát,
+## c)[^87] a hallgatott tantárgyak megnevezését, az elméleti, illetve a gyakorlati órák számát,
 
 ## d) az igazolás kiállításának keltét, az igazolás sorszámát,
 
 ## e) a képző szerv nevét, valamint annak cégszerű aláírását,
 
-## f)[^87] a képzési igazolás sorszámát.
+## f)[^88] a képzési igazolás sorszámát.
 
-## Képzések és oktatók nyilvántartása[^88]
+## Képzések és oktatók nyilvántartása[^89]
 
 ## A nem iskolarendszerű képzésben történő képzést és az oktatók személyét a hajózási hatóság tartja nyilván.
 
-## II. Fejezet[^89]
+## II. Fejezet[^90]
 
 ## Harmadik állam hatósága által, illetve hatóságának felügyelete alatt kiállított bizonyítvány elismerésének feltételei
 
@@ -70,7 +70,7 @@
 
 ## Képesítő okmányok
 
-## 1.[^90] A sikeresen vizsgázók részére a hajózási hatóság
+## 1.[^91] A sikeresen vizsgázók részére a hajózási hatóság
 
 ## a) a belvízi hivatásos vizsga alapján „Bizonyítvány hajós képesítésről”,
 
@@ -88,7 +88,7 @@
 
 ## megnevezésű okmányt állít ki.
 
-## 2.[^91] A képesítő okmányba a megszerzett képesítés megnevezését, valamint annak korlátozásait be kell jegyezni. A vízterületi korlátozást folyó esetében a folyamkilométer (fkm) megjelölésével kell meghatározni, tó esetében csak a teljes vízterület jelölhető meg.
+## 2.[^92] A képesítő okmányba a megszerzett képesítés megnevezését, valamint annak korlátozásait be kell jegyezni. A vízterületi korlátozást folyó esetében a folyamkilométer (fkm) megjelölésével kell meghatározni, tó esetében csak a teljes vízterület jelölhető meg.
 
 ## 3. A képesítő okmány tartalmazza:
 
@@ -108,7 +108,7 @@
 
 ## a) a nemzetközi egyezmény képesítésre vonatkozó szabályának megjelölését,
 
-## b)[^92] a beosztást, a tevékenységi kört, a szintet, valamint a korlátozásokat (ha vannak ilyenek).
+## b)[^93] a beosztást, a tevékenységi kört, a szintet, valamint a korlátozásokat (ha vannak ilyenek).
 
 ## IV. Fejezet
 
@@ -132,9 +132,9 @@
 
 ## b) gyakorlati vizsga keretében víziközlekedési alapismeretekből nem kell vizsgáznia.
 
-## 4–5.[^93]
+## 4–5.[^94]
 
-## 6.[^94] Fedélzeti tiszti képesítő vizsgán nem kell elméleti vizsgát tennie annak, aki olyan egyetem vagy főiskola hajózási szakán államvizsgázott, amelynek tananyagát a hajózási hatóság jóváhagyta. Az ilyen jóváhagyott oktatási programmal rendelkező intézményeket a hajózási hatóság a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
+## 6.[^95] Fedélzeti tiszti képesítő vizsgán nem kell elméleti vizsgát tennie annak, aki olyan egyetem vagy főiskola hajózási szakán államvizsgázott, amelynek tananyagát a hajózási hatóság jóváhagyta. Az ilyen jóváhagyott oktatási programmal rendelkező intézményeket a hajózási hatóság a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
 
 ## 7. Hajózási szakképzésben szerzett képesítő bizonyítvány alapján a jelölt kérelmére azokból a tantárgyakból kaphat felmentést, amelyekből tanulmányai során a megszerzendő képesítéssel azonos vagy magasabb szinten vizsgát tett. A kérelemhez csatolni kell a képesítő okmányt. Amennyiben a kérelem elbírálásához az okmány nem tartalmaz elegendő információt, a beadványhoz vizsgajegyzőkönyvet, leckekönyvet vagy tantervet is mellékelni kell.
 
@@ -160,7 +160,7 @@
 
 ## a) elkészíti és a hatóságnak jóváhagyásra megküldi azon oktatási tervet, amely az előírt szakmai alkalmasságnak megfelelő oktatási követelményrendszert és képzési módszereket tartalmazza,
 
-## b)[^95] az oktatni kívánt tantárgyból olyan a hajózási hatóság által jóváhagyott oktatási segédlettel (tankönyv, jegyzet, CD-ROM, egyéb) rendelkezik, amelyet a hallgatónak a vizsgára történő felkészüléshez legalább a képesítés megszerzéséig tartó időszakra rendelkezésre tud bocsátani,
+## b)[^96] az oktatni kívánt tantárgyból olyan a hajózási hatóság által jóváhagyott oktatási segédlettel (tankönyv, jegyzet, CD-ROM, egyéb) rendelkezik, amelyet a hallgatónak a vizsgára történő felkészüléshez legalább a képesítés megszerzéséig tartó időszakra rendelkezésre tud bocsátani,
 
 ## c) a hallgató részére a hajózási hatóság által nyilvántartásba vett konzulenst biztosít, legalább heti egy napon történő elérhetőséggel, valamennyi oktatni kívánt tantárgyból,
 
@@ -168,27 +168,27 @@
 
 ## e) a gyakorlati vizsgával záruló képesítővizsgára való felkészítés esetén a hallgató számára biztosítani tudja a gyakorlati vizsga letételéhez szükséges gyakorlást.
 
-## 3.[^96] A távoktatás a jóváhagyott képzéssel azonos értékűnek tekintendő.
+## 3.[^97] A távoktatás a jóváhagyott képzéssel azonos értékűnek tekintendő.
 
 ## 4. Távoktatásban konzulensként az alkalmazható, aki megfelel az e rendeletben a hatósági vizsgabiztosra vonatkozóan megállapított követelményeknek.
 
-2. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^97]
+2. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^98]
 
-[^80]: Az 1. számú melléklet I. fejezet „Képzések és oktatók jóváhagyása” című része 1. pontjának a) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^81]: Az 1. számú melléklet I. fejezet „Képzések és oktatók jóváhagyása” című része 1. pontjának e) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^82]: Az 1. számú melléklet I. fejezet „Képzések és oktatók jóváhagyása” részének 3. pontját a 9/2009. (III. 6.) KHEM rendelet 4. §-a iktatta be.
-[^83]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 1. pontjának bevezető szövegrésze a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^84]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 2. pontjának bevezető szövegrésze a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^85]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 2. pontjának b) pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^86]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 2. pontjának c) pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^87]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 2. pontjának f) pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdése iktatta be.
-[^88]: Az 1. számú melléklet I. fejezet „Képzések és oktatók nyilvántartása” cím alatti szövegrésze a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^89]: Az 1. számú melléklet II. Fejezetét a 76/2003. (XI. 24.) GKM rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 74/2005. (IX. 28.) GKM rendelet 6. §-a iktatta be.
-[^90]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című részének 1. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^91]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című részének 2. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^92]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című része 4. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^93]: Az 1. számú melléklet IV. fejezet „Mentesítések, felmentések” című részének 4–5. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének b) pontja hatályon kívül helyezte.
-[^94]: Az 1. számú melléklet IV. fejezet „Mentesítések, felmentések” című részének 6. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított, valamint a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének a) pontja szerint módosított szöveg.
-[^95]: Az 1. számú melléklet V. fejezet „Távoktatásos képzés” című része 2. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^96]: Az 1. számú melléklet V. fejezet „Távoktatásos képzés” című részének 3. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^97]: A 2. számú mellékletben a ,,veszélyes áru szállítási megbízott'' kifejezés helyébe a 76/2003. (XI. 24.) GKM rendelet 6. §-a értelmében a ,,veszélyes áru szállítási szakértő'' kifejezés lépett.
+[^81]: Az 1. számú melléklet I. fejezet „Képzések és oktatók jóváhagyása” című része 1. pontjának a) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^82]: Az 1. számú melléklet I. fejezet „Képzések és oktatók jóváhagyása” című része 1. pontjának e) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^83]: Az 1. számú melléklet I. fejezet „Képzések és oktatók jóváhagyása” részének 3. pontját a 9/2009. (III. 6.) KHEM rendelet 4. §-a iktatta be.
+[^84]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 1. pontjának bevezető szövegrésze a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^85]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 2. pontjának bevezető szövegrésze a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^86]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 2. pontjának b) pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^87]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 2. pontjának c) pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^88]: Az 1. számú melléklet I. fejezet „Képzési igazolás” című része 2. pontjának f) pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdése iktatta be.
+[^89]: Az 1. számú melléklet I. fejezet „Képzések és oktatók nyilvántartása” cím alatti szövegrésze a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^90]: Az 1. számú melléklet II. Fejezetét a 76/2003. (XI. 24.) GKM rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 74/2005. (IX. 28.) GKM rendelet 6. §-a iktatta be.
+[^91]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című részének 1. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^92]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című részének 2. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^93]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című része 4. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^94]: Az 1. számú melléklet IV. fejezet „Mentesítések, felmentések” című részének 4–5. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének b) pontja hatályon kívül helyezte.
+[^95]: Az 1. számú melléklet IV. fejezet „Mentesítések, felmentések” című részének 6. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított, valamint a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének a) pontja szerint módosított szöveg.
+[^96]: Az 1. számú melléklet V. fejezet „Távoktatásos képzés” című része 2. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^97]: Az 1. számú melléklet V. fejezet „Távoktatásos képzés” című részének 3. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^98]: A 2. számú mellékletben a ,,veszélyes áru szállítási megbízott'' kifejezés helyébe a 76/2003. (XI. 24.) GKM rendelet 6. §-a értelmében a ,,veszélyes áru szállítási szakértő'' kifejezés lépett.
