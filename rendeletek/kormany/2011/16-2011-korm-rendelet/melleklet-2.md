@@ -38,9 +38,9 @@
 
 | 17. |  |  | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
 
-| 18. |  |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 18. |  |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 19. |  |  | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 19. |  |  | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
 | 20. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Győr-Moson- Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 

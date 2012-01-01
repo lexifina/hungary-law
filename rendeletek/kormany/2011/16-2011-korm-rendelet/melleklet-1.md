@@ -4,4 +4,4 @@
 
 [^3]: A 4. §-t a 207/2011. (X. 12.) Korm. rendelet 2. §-a iktatta be.
 [^4]: A hatálybalépés időpontja 2011. október 13.
-[^5]: Az 1. melléklet a 207/2011. (X. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet a 207/2011. (X. 12.) Korm. rendelet 3. §-ával megállapított, a 259/2011. (XII. 7.) Korm. rendelet 25. § (1) bekezdés f) pontja szerint módosított szöveg.
