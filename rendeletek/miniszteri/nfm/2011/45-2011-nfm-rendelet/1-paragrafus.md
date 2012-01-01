@@ -18,4 +18,6 @@ terjed ki.
 
 (2) A rendelet hatálya nem terjed ki a kötelékben továbbított úszólétesítményekre, és a nem szabadon közlekedő kompokra.
 
-(3) A rendeletet a Magyar Köztársaság határain kívül tartózkodó magyar hajólajstromban nyilvántartott és az (1) bekezdésben említett úszólétesítményre is alkalmazni kell, ha az illetékes parti állam jogszabálya eltérően nem rendelkezik.
+(3)[^1] A rendeletet Magyarország határain kívül tartózkodó magyar hajólajstromban nyilvántartott és az (1) bekezdésben említett úszólétesítményre is alkalmazni kell, ha az illetékes parti állam jogszabálya eltérően nem rendelkezik.
+
+[^1]: Az 1. § (3) bekezdése a 91/2011. (XII. 30.) NFM rendelet 75. §-a szerint módosított szöveg.
