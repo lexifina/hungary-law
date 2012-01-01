@@ -4,7 +4,7 @@
 
 ## XXVI. Fejezet
 
-386/A. § (1) Az I–XIV. fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a megyei bíróság hatáskörébe tartozó
+386/A. § (1) Az I–XIV. fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a törvényszék hatáskörébe tartozó
 
 a) a 23. § (1) bekezdés a) pontja szerinti – a 24. § és 25. § rendelkezései szerint számítva 400 millió forintot meghaladó – követelések érvényesítésére indított perekben,
 

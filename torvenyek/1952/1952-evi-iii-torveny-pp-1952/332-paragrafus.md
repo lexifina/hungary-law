@@ -8,7 +8,7 @@ c) írásban közli a közigazgatási szerv nyilatkozatát a felperessel;
 
 d) az alperes kérelmére elrendeli a keresettel megtámadott környezetvédelmi bírság bírói letétbe helyezését.
 
-(2) Ha a keresettel felülvizsgálni kért határozatot a közigazgatási szerv ügyészi óvás folytán hozta, a bíróság a perről az ügyészt értesíti.
+(2) Ha a keresettel felülvizsgálni kért határozatot a közigazgatási szerv ügyészi felhívás folytán hozta, a bíróság a perről az ügyészt értesíti.
 
 (3) Ha a keresetlevél a közigazgatási határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz való érkezését követő nyolc napon belül határoz. A későbbiek során a bíróság a közigazgatási határozat végrehajtásának felfüggesztését – már a tárgyalás kitűzése előtt is – kérelemre bármikor elrendelheti. A végrehajtás felfüggesztéséről szóló végzés meghozatala során a bíróságnak figyelemmel kell lennie arra, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajtás felfüggesztésének elmaradása járna.
 

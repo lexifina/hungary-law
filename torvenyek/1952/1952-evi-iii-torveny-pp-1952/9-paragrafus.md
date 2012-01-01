@@ -8,4 +8,4 @@
 
 (4) Abban a perben, amelynek megindítására külön törvény jogosítja fel az ügyészt, vagy amelyet ellene lehet indítani, az ügyész a fél jogait gyakorolja.
 
-(5) A pert az az ügyész indíthatja meg, illetve a perben az az ügyész léphet fel, aki a perre illetékes bíróság területén működik.
+(5) A bíróság előtt az ügyészségről szóló törvény szabályai szerint illetékes ügyész jár el.

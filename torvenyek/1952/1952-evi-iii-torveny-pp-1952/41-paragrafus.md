@@ -18,7 +18,7 @@ d) nemzetközi kereskedelemben olyan formában, amely megfelel az olyan keresked
 
 (6) Vagyonjogi ügyek tekintetében a felek a felmerült jogvitájukra vagy a meghatározott jogviszonyból eredő jövőbeli jogvitájuk esetére nem köthetik ki
 
-a) a megyei bíróság hatáskörébe tartozó ügyben a Fővárosi Bíróság és a Pest Megyei Bíróság;
+a) a törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék és a Budapest Környéki Törvényszék;
 
 b) a helyi bíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság
 

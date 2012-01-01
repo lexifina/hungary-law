@@ -1,1 +1,1 @@
-262/A. § A jogerős ítélet ellen a Legfelsőbb Bíróság határozata alapján a XXIV. Fejezetben meghatározottak szerint perújításnak van helye, ha az Alkotmánybíróság az alkotmányellenessé nyilvánított jogszabálynak a konkrét esetben történő alkalmazhatósága visszamenőleges kizárásával ad helyt alkotmányjogi panasznak.
+262/A. § A jogerős ítélet ellen a Kúria határozata alapján a XXIV. Fejezetben meghatározottak szerint perújításnak van helye a 361. § a) pontja szerinti esetben.

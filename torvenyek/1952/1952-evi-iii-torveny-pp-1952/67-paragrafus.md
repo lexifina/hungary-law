@@ -18,9 +18,9 @@ ec) a jegyzőnek (főjegyzőnek) az őt e minőségében érintő pereiben: a po
 
 ed) a helyi önkormányzat szerveinek, valamint e szervek vezetőinek az őket e minőségükben érintő pereiben: a szerv alkalmazottja, a jegyző (főjegyző) és a polgármesteri hivatal (főpolgármesteri hivatal, megyei közgyűlés hivatala, kerületi hivatal) alkalmazottja;
 
-ee) a kisebbségi önkormányzatnak, valamint annak vezetőjének az őt e minőségében érintő pereiben: a kisebbségi önkormányzat tagja, a kisebbségi önkormányzat szervének vezetője és alkalmazottja;
+ee) a nemzetiségi önkormányzatnak, valamint annak vezetőjének az őt e minőségében érintő pereiben: a nemzetiségi önkormányzat tagja, a nemzetiségi önkormányzat szervének vezetője és alkalmazottja;
 
-ef) a kisebbségi önkormányzat szerveinek, valamint e szervek vezetőinek az őket e minőségükben érintő pereikben: a kisebbségi önkormányzat tagja, a kisebbségi önkormányzat szervének vezetője és alkalmazottja;
+ef) a nemzetiségi önkormányzat szerveinek, valamint e szervek vezetőinek az őket e minőségükben érintő pereikben: a nemzetiségi önkormányzat tagja, a nemzetiségi önkormányzat szervének vezetője és alkalmazottja;
 
 f) a szakszervezet a saját tagjának perében, valamint a külön jogszabályban meghatározott perekben;
 
@@ -34,6 +34,6 @@ j) akit erre külön jogszabály feljogosít.
 
 (2) A perben a jogi személy és egyéb gazdálkodó szervezet jogtanácsosát (jogi előadóját) az ügyvéd jogállása illeti meg.
 
-(3) Ügyvédjelölt (jogi előadó) az ítélőtábla és a Legfelsőbb Bíróság előtt – a 119. §-ban szabályozott esetet kivéve – nem járhat el.
+(3) Ügyvédjelölt (jogi előadó) az ítélőtábla és a Kúria előtt – a 119. §-ban szabályozott esetet kivéve – nem járhat el.
 
 (4) Ha törvény másként nem rendelkezik, a törvényben szabályozott eljárásokban a jogi képviselet nem kötelező.

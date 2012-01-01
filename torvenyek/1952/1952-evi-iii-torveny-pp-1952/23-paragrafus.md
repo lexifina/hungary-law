@@ -1,4 +1,4 @@
-23. § (1) A megyei bíróság hatáskörébe tartoznak:
+23. § (1) A törvényszék hatáskörébe tartoznak:
 
 a) azok a vagyonjogi perek, amelyek tárgyának értéke a tízmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
 
@@ -22,7 +22,7 @@ ee) a gazdasági társaságban történő befolyásszerzéssel kapcsolatos perek
 
 ef) a társaság tartozásaiért korlátozott felelősséggel tartozó tag (részvényes) felelősségének korlátlanná minősítése iránti perek;
 
-f) a megyei bíróság által nyilvántartásba vett, cégnek nem minősülő szervezetekkel kapcsolatos perek közül:
+f) a törvényszék által nyilvántartásba vett, cégnek nem minősülő szervezetekkel kapcsolatos perek közül:
 
 fa) az ilyen szervezetek ellen a törvényességi felügyeletet gyakorló szerv által indított perek,
 
@@ -44,6 +44,6 @@ m) a 2. § (3) bekezdésében meghatározott kártérítési perek;
 
 n) az egészségügyi szolgáltatókkal kötött finanszírozási szerződésből eredő perek;
 
-o) azok a perek, amelyeket törvény a megyei bíróság hatáskörébe utal.
+o) azok a perek, amelyeket törvény a törvényszék hatáskörébe utal.
 
-(2) Ha valamelyik pertársra a megyei bíróságnak van hatásköre, a per a megyei bíróság hatáskörébe tartozik.
+(2) Ha valamelyik pertársra a törvényszéknek hatásköre, a per a törvényszék hatáskörébe tartozik.

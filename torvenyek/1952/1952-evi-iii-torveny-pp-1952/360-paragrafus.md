@@ -1,5 +1,7 @@
-## XXIV. Fejezet
+360. § Ha az Alkotmánybíróság
 
-## Alkotmányjogi panasz alapján alkotmányellenessé nyilvánított jogszabály konkrét esetben történő alkalmazhatóságának visszamenőleges kizárására irányuló eljárás
+a) alkotmányjogi panasz eljárásban a jogszabályt vagy jogszabályi rendelkezést megsemmisíti, és ezért az – az Alkotmánybíróság eltérő döntése hiányában – az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható, vagy
 
-360. § Ha az Alkotmánybíróság az alkotmányellenessé nyilvánított jogszabálynak a konkrét esetben történő alkalmazhatósága visszamenőleges kizárásával ad helyt alkotmányjogi panasznak, az alkotmányjogi panasz orvoslásának eljárási eszközét – az Alkotmánybíróság határozata alapján és a vonatkozó eljárási szabályok megfelelő alkalmazásával – a Legfelsőbb Bíróság állapítja meg.
+b) megállapítja a bírói döntés alaptörvény-ellenességét és a bírósági határozatot megsemmisíti,
+
+az alkotmányjogi panasz orvoslásának eljárási eszközét – az Alkotmánybíróság határozata alapján és a vonatkozó eljárási szabályok megfelelő alkalmazásával – a Kúria állapítja meg.

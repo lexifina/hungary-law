@@ -12,7 +12,7 @@ b) kötelező jogi képviselet esetén az eredetileg papír alapú okirati bizon
 
 c) kötelező jogi képviselet esetén, ha a fél – bármely okból – nem rendelkezik jogi képviselővel, akkor a bíróság a jogi képviselő képviseleti jogosultságának igazolásáig a félnek papír alapon kézbesíti a hivatalos iratokat;
 
-d) a megyei bíróság elsőfokú hatáskörébe tartozó ügyekben a fél, illetve a jogi képviselő az elektronikus kézbesítést vállalhatja akkor is, ha nem kötelező a jogi képviselet; ha jogi képviselő nélkül eljáró fél vállalta az elektronikus kézbesítést, indokolt kérelmében az eljárás során egy alkalommal kérheti a papír alapú kézbesítésre való áttérést; a fél e jogát nem gyakorolhatja visszaélésszerűen;
+d) a törvényszék elsőfokú hatáskörébe tartozó ügyekben a fél, illetve a jogi képviselő az elektronikus kézbesítést vállalhatja akkor is, ha nem kötelező a jogi képviselet; ha jogi képviselő nélkül eljáró fél vállalta az elektronikus kézbesítést, indokolt kérelmében az eljárás során egy alkalommal kérheti a papír alapú kézbesítésre való áttérést; a fél e jogát nem gyakorolhatja visszaélésszerűen;
 
 e) ha az eljárásban nem kötelező az elektronikus kézbesítés, akkor a fél jogutódjára nem vonatkozik az, hogy a jogelőd az elektronikus kézbesítést vállalta, kivéve, ha a jogi képviselő vállalta az elektronikus kézbesítést, és a jogi képviselő személye nem változott;
 

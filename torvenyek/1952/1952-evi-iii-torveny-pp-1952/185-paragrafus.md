@@ -16,4 +16,4 @@ az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal s�
 
 (4) Az (1) és (2) bekezdés alapján hozott határozat ellen, továbbá az olyan határozat ellen, amely az (1) és (2) bekezdés alapján hozott határozat hatályon kívül helyezése iránt előterjesztett kérelmet elutasítja, a tanú, illetve a szakértő fellebbezéssel élhet.
 
-(5) Ha a Magyar Honvédség vagy a rendvédelmi szervek tagjával szemben kellene pénzbírságot alkalmazni, vagy ilyen személy elővezetését kellene elrendelni, a fegyelmi eljárás lefolytatása végett a bíróság a tanú, illetőleg a szakértő elöljárójához fordul.
+(5) Ha a Magyar Honvédség vagy a rendvédelmi szervek tagjával, illetve a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjával szemben kellene pénzbírságot alkalmazni, vagy ilyen személy elővezetését kellene elrendelni, a fegyelmi eljárás lefolytatása végett a bíróság a tanú, illetőleg a szakértő elöljárójához fordul.

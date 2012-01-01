@@ -8,7 +8,7 @@ c) a jogerős határozatnak csupán a kamatfizetésre, illetve a perköltségre 
 
 d) a jogerős határozatnak csupán a teljesítési határidőre, illetve a részletfizetésre vonatkozó rendelkezései ellen;
 
-e) ha a határozatot a Legfelsőbb Bíróság hozta;
+e) ha a határozatot a Kúria hozta;
 
 f) a házasságot érvénytelenítő vagy felbontó ítélet ellen az érvénytelenítés vagy a felbontás kérdésében;
 

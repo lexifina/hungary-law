@@ -2,9 +2,9 @@
 
 73/A. § (1) A jogi képviselet kötelező:
 
-a) az ítélőtábla előtti eljárásban az ítélet, valamint az ügy érdemében hozott végzések ellen fellebbezést (csatlakozó fellebbezést), továbbá a Legfelsőbb Bíróság előtti eljárásban a 235. § (3) bekezdésében meghatározott fellebbezést (csatlakozó fellebbezést) és a felülvizsgálati kérelmet (csatlakozó felülvizsgálati kérelmet) előterjesztő fél számára,
+a) az ítélőtábla előtti eljárásban az ítélet, valamint az ügy érdemében hozott végzések ellen fellebbezést (csatlakozó fellebbezést), továbbá a Kúria előtti eljárásban a 235. § (3) bekezdésében meghatározott fellebbezést (csatlakozó fellebbezést) és a felülvizsgálati kérelmet (csatlakozó felülvizsgálati kérelmet) előterjesztő fél számára,
 
-b) a megyei bíróság elsőfokú hatáskörébe tartozó perekben, a per minden szakaszában, a jogorvoslati eljárás során is, kivéve
+b) a törvényszék elsőfokú hatáskörébe tartozó perekben, a per minden szakaszában, a jogorvoslati eljárás során is, kivéve
 
 ba) a 23. § (1) bekezdés a) pontjában meghatározott vagyonjogi perek közül azokat, melyekben a per tárgyának értéke a harmincmillió forintot nem haladja meg,
 

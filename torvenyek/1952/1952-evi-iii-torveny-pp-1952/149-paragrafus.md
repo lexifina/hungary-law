@@ -4,6 +4,6 @@
 
 (2) A bíróság együttes tárgyalás és eldöntés végett elrendelheti az előtte folyamatban levő olyan perek egyesítését, amelyeknek tárgya egymással összefügg.
 
-(3) A gazdálkodó szervezetek egymás közötti pereiben az azonos hatáskörű helyi bíróságok előtt folyamatban lévő perek egyesítésének is helye van; a megyei (fővárosi) bíróság az előtte indított perhez a területén működő helyi bíróság előtt folyamatban lévő pert is egyesítheti. Ha az egyesítést több, azonos hatáskörű helyi bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
+(3) A gazdálkodó szervezetek egymás közötti pereiben az azonos hatáskörű helyi bíróságok előtt folyamatban lévő perek egyesítésének is helye van; a törvényszék az előtte indított perhez a területén működő helyi bíróság előtt folyamatban lévő pert is egyesítheti. Ha az egyesítést több, azonos hatáskörű helyi bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
 
 (4) A felek közösen előterjesztett kérelmére a bíróság – ha annak feltételei fennállnak – a pereket egyesíti. A kérelmet elutasító végzés ellen fellebbezésnek van helye. Ha a bíróság a felek kérelmére a pereket egyesítette, utóbb az egyesítést nem mellőzheti.

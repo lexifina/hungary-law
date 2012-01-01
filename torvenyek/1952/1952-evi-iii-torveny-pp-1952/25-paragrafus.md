@@ -4,4 +4,4 @@
 
 (3) Ha egy vagy több felperes ugyanabban a keresetlevélben egy vagy több alperes elleni követeléseit érvényesíti, a pertárgy értékének megállapításánál az összes követeléseket össze kell adni.
 
-(4) A főkövetelés járulékai (kamat, költség stb.) az érték megállapításánál figyelmen kívül maradnak.
+(4) A főkövetelés járulékai (kamat, költség stb.) – kivéve az önállóan érvényesített kamat- és egyéb járulékkövetelést – az érték megállapításánál figyelmen kívül maradnak; a pertárgy értékébe a pénzkövetelés után járó, és azzal együtt érvényesített kamatkövetelés akkor sem számítandó be, ha e kamatköveteléssel egyidejűleg a kamatkövetelés után járó újabb kamatkövetelést is érvényesítenek.

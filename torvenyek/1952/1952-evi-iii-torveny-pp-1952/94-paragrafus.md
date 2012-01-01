@@ -1,4 +1,4 @@
-94. § (1) A keresetet, valamint a per megindítását megelőző kérelmet az ügyvéd által nem képviselt fél bármely helyi bíróságnál vagy a perre illetékes megyei bíróságnál is jegyzőkönyvbe mondhatja. A felet ilyenkor a szükséges útbaigazítással is el kell látni, és az esetleges hiányok pótlására (95. §) nyomban fel kell hívni; ha a fél a hiányok pótlását figyelmeztetés ellenére is elmulasztja, a keresetet, illetőleg a kérelmet jegyzőkönyvbe kell foglalni.
+94. § (1) A keresetet, valamint a per megindítását megelőző kérelmet az ügyvéd által nem képviselt fél bármely helyi bíróságnál vagy a perre illetékes törvényszéknél is jegyzőkönyvbe mondhatja. A felet ilyenkor a szükséges útbaigazítással is el kell látni, és az esetleges hiányok pótlására (95. §) nyomban fel kell hívni; ha a fél a hiányok pótlását figyelmeztetés ellenére is elmulasztja, a keresetet, illetőleg a kérelmet jegyzőkönyvbe kell foglalni.
 
 (2) A jegyzőkönyvre a 93. § megfelelően irányadó.
 
