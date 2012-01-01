@@ -1,6 +1,6 @@
 2. § (1) Ez a rendelet 2003. július 1-jén lép hatályba, egyidejűleg hatályát veszti az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről szóló 20/1984. (XII. 21.) KM rendelet 8. §-a, mellékletének 17.3–17.5. pontjai, 18–22. pontjai és I. függelékének s) pontja.
 
-(2)[^1]
+(2)[^2]
 
 Melléklet a 41/2003. (VI. 20.) GKM rendelethez
 
@@ -50,7 +50,7 @@ a) az összehangolt forgalomirányításba bevont útszakaszon a forgalomirány�
 
 b) az önálló kerékpáros átvezetésnél, ha a kerékpárosok által keresztezett úton a járművek megengedett legnagyobb sebessége 60 km/h, vagy annál nagyobb,
 
-c) a vasúti átjárónál elhelyezett, a vasúti átjárót biztosító berendezéssel függésben levő fényjelző készülékkel, a vasúti átjárótól számított 30 méter távolságon belül (lakott területen kívül, ha a vasúti átjárón átvezető út földút, 21 méter távolságon belül) levő útkereszteződésnél, ha az útkereszteződésben a vasúti átjáró felől érkező járműveknek – a keresztező útról mindegyik irányból érkező járművel szemben – elsőbbségük nincs, a jogszabályban[^2] meghatározott esetek kivételével.
+c) a vasúti átjárónál elhelyezett, a vasúti átjárót biztosító berendezéssel függésben levő fényjelző készülékkel, a vasúti átjárótól számított 30 méter távolságon belül (lakott területen kívül, ha a vasúti átjárón átvezető út földút, 21 méter távolságon belül) levő útkereszteződésnél, ha az útkereszteződésben a vasúti átjáró felől érkező járműveknek – a keresztező útról mindegyik irányból érkező járművel szemben – elsőbbségük nincs, a jogszabályban[^3] meghatározott esetek kivételével.
 
 3.5. Új forgalomirányító fényjelző készülék létesítésekor, valamint régi vezérlőberendezés cseréje esetén csak forgalomtól függő vezérlés megvalósítására is képes vezérlőberendezés telepíthető.
 
@@ -132,7 +132,7 @@ c) a járművek forgalmát irányító jelzők áthívó típusú jelzővel is m
 
 a) védett irányítási módnál az összeférhetetlen forgalmi mozgások egyidejűleg szabad jelzést nem kaphatnak,
 
-b) részlegesen védett irányítási módnál – jogszabályban[^3] meghatározott módon – egyidejűleg szabad jelzést kaphatnak az egymással szemből érkező, de különböző irányokba továbbhaladó járművek, és a velük párhuzamosan érkező és továbbhaladó gyalogosok.
+b) részlegesen védett irányítási módnál – jogszabályban[^4] meghatározott módon – egyidejűleg szabad jelzést kaphatnak az egymással szemből érkező, de különböző irányokba továbbhaladó járművek, és a velük párhuzamosan érkező és továbbhaladó gyalogosok.
 
 6.2.2. Tilos részlegesen védett irányítási módot alkalmazni a kanyarodó főirány esetében, ha az útkereszteződésben a főútvonal vonalvezetése az egyenes iránytól eltér (a főútvonal kanyarodik).
 
@@ -190,7 +190,7 @@ bb) az elsőbbséggel rendelkező és az elsőbbségadásra kötelezett forgalom
 
 7. A nemzeti jelzések és jelzéssorrendek
 
-7.1. A gyalogosjelzőkön, a gyalogos-kerékpáros jelzőkön, a kerékpárosjelzőkön, az autóbuszjelzőkön, az általános járműjelzőkön, a fedező-jelzőkön és az irányváltó jelzőkön a jelzések és a jelzéssorrendek jogszabály[^4] szerintiek legyenek.
+7.1. A gyalogosjelzőkön, a gyalogos-kerékpáros jelzőkön, a kerékpárosjelzőkön, az autóbuszjelzőkön, az általános járműjelzőkön, a fedező-jelzőkön és az irányváltó jelzőkön a jelzések és a jelzéssorrendek jogszabály[^5] szerintiek legyenek.
 
 7.2. A villamosforgalom irányítására szolgáló fényjelző készüléken – amelynek jelzési képein a vízszintesen elrendezett három fénypont a járműjelző tilos, az egy fénypont az átmeneti, a függőlegesen és/vagy ferdén elrendezett több fénypont a megfelelő haladási irányt (irányokat) is jelző szabad jelzési képnek felel meg – a jelzések sorrendje az általános járműjelző jelzési sorrendjének feleljen meg.
 
@@ -246,7 +246,7 @@ cc) gyalogos-átkelőhelyek, kerékpáros átvezetések vagy közös gyalogos-ke
 
 cd) gyalogos-átkelőhelyek, kerékpáros átvezetések vagy közös gyalogos-kerékpáros átkelőhelyek jelzői egymás folytatásába eső, osztott jelzőcsoportú átkelőhelyeknél, ha fennáll annak a veszélye, hogy az átkelő távolabbi része számára szóló szabad jelzést hibásan értelmeznék (pl. a keresztezendő úttest kis szélességénél vagy a középső osztósziget kis méreténél);
 
-d) a jelzőcsoport fényjelző készülékei közül az utolsó[^5] fényjelző készülék piros jelzésének kimaradása, ha vele egyidejűleg összeférhetetlen zöld jelzés jelenik meg [AH1 osztály];
+d) a jelzőcsoport fényjelző készülékei közül az utolsó[^6] fényjelző készülék piros jelzésének kimaradása, ha vele egyidejűleg összeférhetetlen zöld jelzés jelenik meg [AH1 osztály];
 
 e) a piros jelzések egyidejűleg kimaradnak az egymással összeférhetetlen jelzőcsoportok fényjelző készülékein [AJ1 osztály];
 
@@ -422,7 +422,7 @@ c) a megkülönböztető jelzések használatára jogosított gépjárművek ál
 
 13. Fénysorompóval függésben lévő forgalomirányító jelzőlámpa
 
-13.1. Fénysorompóval függésben lévő forgalomirányító jelzőlámpa csak a jogszabályi feltételek[^6] fennállása esetén létesíthető.
+13.1. Fénysorompóval függésben lévő forgalomirányító jelzőlámpa csak a jogszabályi feltételek[^7] fennállása esetén létesíthető.
 
 13.2. Fénysorompóval függésben lévő forgalomirányító jelzőlámpánál a fénysorompó tilos jelzése alatt a közúti forgalomirányító jelzőlámpa a vasúti átjárón áthaladni kívánó forgalomnak szabad jelzést nem adhat.
 
@@ -642,7 +642,7 @@ Fogalommeghatározások
 
 33. Szakember: távközlési, erősáramú és forgalomtechnikai képzettsége – vagy ennek hiányában a munkaterületen szerzett több éves gyakorlata – és tapasztalata, valamint a vonatkozó hatályos előírások ismerete alapján munkáját szakszerűen elvégezni, munkája során a lehetséges veszélyeket (beleértve a forgalomban résztvevők veszélyeztetését is) felismerni, és a veszély elhárításához szükséges intézkedéseket megtenni képes személy.
 
-34. Személysérüléses közúti közlekedési baleset: minden olyan közúton vagy közforgalomra megnyitott magánúton történt baleset, amelyben legalább egy mozgó jármű résztvett, és melynek következtében legalább egy személy meghalt vagy megsérült[^7].
+34. Személysérüléses közúti közlekedési baleset: minden olyan közúton vagy közforgalomra megnyitott magánúton történt baleset, amelyben legalább egy mozgó jármű résztvett, és melynek következtében legalább egy személy meghalt vagy megsérült[^8].
 
 35. Tartószerkezet: olyan szerkezet (pl. oszlop, konzol, portál, tartósodrony stb.), amely a fényjelző készüléknek a megfelelő helyzetben tartására, és az erőhatások felvételére szolgál.
 
@@ -678,10 +678,10 @@ II. feltétel: a 4 óra tartósságú kétirányú járműforgalom és az azt ke
 
 2. ábra
 
-[^1]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 220. pontja hatályon kívül helyezte.
-[^2]: Jelenleg a 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
-[^3]: Jelenleg az 1/1975. (II. 5.) KPM–BM együttes rendelet a közúti közlekedés szabályairól (KRESZ).
-[^4]: Jelenleg az 1/1975 (II. 5.) KPM–BM együttes rendelet a közúti közlekedés szabályairól (KRESZ).
-[^5]: Ebben a vonatkozásban az ,,utolsó'' alatt a jelzőcsoport azonos jelzést adó fényjelző készülékei közül sorozatos meghibásodás esetén az utolsó, még működő fényjelző készüléket kell érteni.
-[^6]: Jelenleg a 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
-[^7]: A Központi Statisztikai Hivatal vonatkozó meghatározása a személysérüléses balesetre.
+[^2]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 220. pontja hatályon kívül helyezte.
+[^3]: Jelenleg a 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
+[^4]: Jelenleg az 1/1975. (II. 5.) KPM–BM együttes rendelet a közúti közlekedés szabályairól (KRESZ).
+[^5]: Jelenleg az 1/1975 (II. 5.) KPM–BM együttes rendelet a közúti közlekedés szabályairól (KRESZ).
+[^6]: Ebben a vonatkozásban az ,,utolsó'' alatt a jelzőcsoport azonos jelzést adó fényjelző készülékei közül sorozatos meghibásodás esetén az utolsó, még működő fényjelző készüléket kell érteni.
+[^7]: Jelenleg a 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
+[^8]: A Központi Statisztikai Hivatal vonatkozó meghatározása a személysérüléses balesetre.
