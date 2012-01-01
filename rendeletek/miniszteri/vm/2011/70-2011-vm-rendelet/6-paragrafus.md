@@ -4,379 +4,199 @@
 
 (2) Hatályát veszti a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény végrehajtásáról az agrárágazatban című 7/2009. (I. 30.) FVM rendelet, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a környezetvédelmi és vízügyi miniszter ágazati irányítása alá tartozó szerveknél történő végrehajtásáról szóló 11/2005. (V. 19.) KvVM rendelet.
 
-Melléklet a 70/2011. (VII. 26.) VM rendelethez
+Melléklet a 70/2011. (VII. 26.) VM rendelethez[^4]
 
 A betölthető munkakörök és beosztások, az azokhoz tartozó fizetési osztályok, a közalkalmazotti munkakörök osztályba sorolása, megnevezése, továbbá a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 61. §-ának (1) bekezdésében foglaltakat meghaladóan szükséges képesítési többletkövetelmények
 
-1. Vízügyi és Környezetvédelmi Központi Igazgatóság
+1. Nemzeti Környezetügyi Intézet
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | 1 | Munkakör és beosztás megnevezése | Fizetési osztály | Képesítés |
+|  | Munkakör és beosztás megnevezése | Fizetési osztály | Képesítés |
 
-|  | 2 | Főigazgató | H, I, J |  |
+| 1. | Főigazgató | H, I, J |  |
 
-|  | 3 | Igazgató | H, I, J |  |
+| 2. | Főosztályvezető/Irodavezető/Kirendeltség-vezető | F, G, H, I, J |  |
 
-|  | 4 | Főosztályvezető/Irodavezető | F, G, H, I, J |  |
+| 3. | Főosztályvezető-helyettes/Kirendeltség-vezető helyettes | F, G, H, I, J |  |
 
-|  | 5 | Főosztályvezető-helyettes | F, G, H, I, J |  |
+| 4. | Osztályvezető | F, G, H, I, J |  |
 
-|  | 6 | Osztályvezető | F, G, H, I, J |  |
+| 5. | Projektvezető | F, G, H, I |  |
 
-|  | 7 | Projektvezető | F, G, H, I |  |
+| 6. | Projektmenedzser | F, G, H, I |  |
 
-|  | 8 | Projektmenedzser | F, G, H, I |  |
+| 7. | Projekt monitoring munkatárs | F, G, H |  |
 
-|  | 9 | Projekt monitoring munkatárs | F, G, H |  |
+| 8. | Projekt asszisztens | D, E, F, G, H |  |
 
-|  | 10 | Projekt asszisztens | D,E,F,G,H |  |
+| 9. | Ügyintéző | D, E |  |
 
-|  | 11 | Ügyintéző | D, E |  |
+| 10. | Referens | F, G |  |
 
-|  | 12 | Referens | F, G |  |
+| 11. | Szakértő | H, I |  |
 
-|  | 13 | Szakértő | H, I |  |
+| 12. | Számítógép-üzemeltető | D, E, F, G, H |  |
 
-|  | 14 | Számítógép-üzemeltető | D, E, F, G, H |  |
+| 13. | Rendszergazda | D, E, F, G, H |  |
 
-|  | 15 | Rendszergazda | D, E, F, G, H |  |
+| 14. | Informatikus | F, G, H, I |  |
 
-|  | 16 | Informatikus | F, G, H , I |  |
+| 15. | Szoftverfejlesztő | F, G, H, I |  |
 
-|  | 17 | Szoftverfejlesztő | F, G, H , I |  |
+| 16. | Számítógéphálózat-üzemeltető | D, E | Szakirányú középfokú képesítés |
 
-|  | 18 | Számítógéphálózat-üzemeltető | D, E | Szakirányú középfokú képesítés |
+| 17. | Adatbázis-felelős | D, E, F |  |
 
-|  | 19 | Adatbázis-felelős | D, E, F |  |
+| 18. | Adatrögzítő-kezelő | C, D |  |
 
-|  | 20 | Adatrögzítő-kezelő | C, D |  |
+| 19. | Adminisztrátor | C, D, E |  |
 
-|  | 21 | Adminisztrátor | C, D, E |  |
+| 20. | Titkárnő | B, C, D, E |  |
 
-|  | 22 | Titkárnő | B, C, D, E |  |
+| 21. | Iratkezelő-kézbesítő | B, C, D, E |  |
 
-|  | 23 | Iratkezelő-kézbesítő | B, C, D, E |  |
+| 22. | Gondnok | B, C, D, E |  |
 
-|  | 24 | Gondnok | B, C, D, E |  |
+| 23. | TB ügyintéző/referens | D, E, F, G |  |
 
-|  | 25 | TB ügyintéző/referens | D, E, F, G |  |
+| 24. | Humánpolitikus | D, E, F, G, H |  |
 
-|  | 26 | Humánpolitikus | D, E, F, G, H |  |
+| 25. | Jogász | H, I |  |
 
-|  | 27 | Jogász | H, I |  |
+| 26. | Könyvelő | D, E, F, G |  |
 
-|  | 28 | Könyvelő | D, E, F, G |  |
+| 27. | Közbeszerzési referens/szakértő | F, G, H, I |  |
 
-|  | 29 | Közbeszerzési referens/szakértő | F, G, H, I |  |
+| 28. | Pénzügyi ügyintéző/referens | D, E, F, G |  |
 
-|  | 30 | Pénzügyi ügyintéző/referens | D, E, F, G |  |
+| 29. | Számviteli ügyintéző/referens | D, E, F, G |  |
 
-|  | 31 | Számviteli ügyintéző/referens | D, E, F, G |  |
+| 30. | Vagyonkezelő | E, F, G, H, I |  |
 
-|  | 32 | Vagyonkezelő | E, F, G, H, I |  |
+| 31. | Nemzetközi koordinátor, nemzetközi ügyintéző | F, G, H, I | Középfokú nyelvvizsga |
 
-|  | 33 | Nemzetközi koordinátor, nemzetközi ügyintéző | F, G, H, I | Középfokú nyelvvizsga |
+| 32. | Kommunikációs ügyintéző | F, G, H, I | Középfokú nyelvvizsga |
 
-|  | 34 | Kommunikációs ügyintéző | F, G, H, I | Középfokú nyelvvizsga |
+| 33. | Közgazdász | F, G, H, I |  |
 
-|  | 35 | Közgazdász | F, G, H, I |  |
+| 34. | Gazdasági ügyintéző/referens | D, E, F, G |  |
 
-|  | 36 | Gazdasági ügyintéző/referens | D, E, F, G |  |
+| 35. | Belső ellenőr | F, G, H, I |  |
 
-|  | 37 | Belső ellenőr | F, G, H, I |  |
+| 36. | Pénzügyi elemző/tervező | F, G, H, I |  |
 
-|  | 38 | Pénzügyi elemző/tervező | F, G, H, I |  |
+| 37. | Adattári rendszerfelelős | E, F, G, H |  |
 
-|  | 39 | Adattári rendszerfelelős | E, F, G, H |  |
+| 38. | Térinformatikus | F, G, H |  |
 
-|  | 40 | Térinformatikus | F, G, H |  |
+| 39. | Laborvezető | F, G, H, I, J |  |
+
+| 40. | Csoportvezető | E, F, G, H, I |  |
+
+| 41. | EU integrációs ügyintéző | E, F, G, H, I |  |
+
+| 42. | Felszín alatti vízgazdálkodási ügyintéző | G, H, I |  |
+
+| 43. | Felszíni vízgazdálkodási ügyintéző | D, F, G, H, I, J |  |
+
+| 44. | Felügyelőségi technikus | D, E, F |  |
+
+| 45. | Geodéta | B, C, D, E, F, G, H |  |
+
+| 46. | Geológus | D, E, F, G, H |  |
+
+| 47. | Hidrobiológus | F, G, H, I, J |  |
+
+| 48. | Hidrogeológus | G, H, I, J |  |
+
+| 49. | Hidrometeorológus | D, F, G, H, I, J |  |
+
+| 50. | Hidrológiai észlelő | A, B, C |  |
+
+| 51. | Hidrológus | F, G, H, I, J |  |
+
+| 52. | Hidrometeorológiai észlelő | B, C, D |  |
+
+| 53. | Hírközlési ügyintéző | D, E, F, G, H |  |
+
+| 54. | Hírközlési szerelő | B, C, D, E, F |  |
+
+| 55. | Hulladékgazdálkodó | F, G, H |  |
+
+| 56. | Informatikai rendszergazda | E, F, G, H |  |
+
+| 57. | Informatikai rendszer-üzemeltető | D, E, F, G, H |  |
+
+| 58. | Informatikai ügyintéző | D, E, F, G, H |  |
+
+| 59. | Ipari vízellátási és csatornázási ügyintéző | D, F, G, H |  |
+
+| 60. | Irányító tervező | H, I |  |
+
+| 61. | Környezetvédelmi megbízott | E, F, G, H |  |
+
+| 62. | Környezetvédelmi ügyintéző | D, E, F, G, H |  |
+
+| 63. | Közműfejlesztési ügyintéző | D, F, G, H, I |  |
+
+| 64. | Kutatóállomás-irányító | G, I |  |
+
+| 65. | Laborvezető-helyettes | F, G, H, I, J |  |
+
+| 66. | Laboráns | D, F, H |  |
+
+| 67. | Mezőgazdasági ügyintéző | D, E, F, G, H, I |  |
+
+| 68. | Műszaki rajzoló | C |  |
+
+| 69. | Műszaki szaktanácsadó | G, I |  |
+
+| 70. | Modellező | B, C, D, E, F, G, H, I |  |
+
+| 71. | Szakági tervező | G, I |  |
+
+| 72. | Szerkesztő-rajzoló | C |  |
+
+| 73. | Társulati ügyintéző | D, F, G, H, I |  |
+
+| 74. | Technikus | B, C, D, E |  |
+
+| 75. | Település vízellátási és csatornázási ügyintéző | D, F, G, H, I |  |
+
+| 76. | Település vízgazdálkodási ügyintéző | D, F, G, H, I |  |
+
+| 77. | Térinformatikus | F, G, H |  |
+
+| 78. | Területrendezési ügyintéző | F, H, I |  |
+
+| 79. | Vízgazdálkodási adattáros | D, E, F, G, H |  |
+
+| 80. | Vegyésztechnikus | D, E |  |
+
+| 81. | Vízföldtani adattáros | B, C, D |  |
+
+| 82. | Vízföldtani ügyintéző | H, I |  |
+
+| 83. | Vízhasznosítási ügyintéző | D, F, G, H, I |  |
+
+| 84. | Víziközmű ügyintéző | D, F, G, H, I |  |
+
+| 85. | Vízkészlet-gazdálkodási ügyintéző | D, F, G, H, I |  |
+
+| 86. | Vízminőségvédelmi ügyintéző | D, E, F, G, H, I |  |
+
+| 87. | Vízrajzi adatfeldolgozó | B, C, D |  |
+
+| 88. | Vízrajzi adatforgalmazó | C, D |  |
+
+| 89. | Vízrajzi mérő (területfelelős technikus) | B, C, D, E |  |
+
+| 90. | Vízrajzi ügyintéző | D, F, G, H, I |  |
+
+| 91. | Vízrendezési ügyintéző | D, F, G, H, I |  |
 
 2. Környezetvédelmi és Vízügyi Igazgatóságok
-
-|  |  | A | B |
-
-|  | 1 | Munkakör és beosztás megnevezése | Fizetési osztály |
-
-|  | 2 | Igazgató | H, I, J |
-
-|  | 3 | Műszaki igazgatóhelyettes főmérnök | G, H, I, J |
-
-|  | 4 | Gazdasági igazgatóhelyettes | F, G, H, I, J |
-
-|  | 5 | Szakaszmérnökség-vezető | F, G, H, I, J |
-
-|  | 6 | Kirendeltségvezető | F, G, H, I, J |
-
-|  | 7 | Laborvezető | F, G, H, I, J |
-
-|  | 8 | Műszaki biztonsági szolgálatvezető | E, F, G, H, I, J |
-
-|  | 9 | Műszaki biztonsági szolgálatvezető helyettes | E, F, G, H, I, |
-
-|  | 10 | Osztályvezető | F, G, H, I, J |
-
-|  | 11 | Szakszolgálat vezető | F, G, H, I, J |
-
-|  | 12 | Üdülő vezető | D, E, F, G, |
-
-|  | 13 | Üzemvezető | F, G, H, I, J |
-
-|  | 14 | Osztályvezető-helyettes | F, G, H, I |
-
-|  | 15 | Szakaszmérnökségvezető-helyettes | F, G, H, I, J |
-
-|  | 16 | Belső ellenőr | F, G, H, I |
-
-|  | 17 | Csoportvezető | E, F, G, H, I |
-
-|  | 18 | Árvízvédelmi ügyintéző | D, F, G, H, I |
-
-|  | 19 | Belvízvédelmi ügyintéző | D, E, F, G, H, I |
-
-|  | 20 | Beruházási ügyintéző | D, E, F, G, H, I |
-
-|  | 21 | Csatornabiztos | B, C, D |
-
-|  | 22 | Csatorna és földműfenntartó gép-kezelő | A, B, C |
-
-|  | 23 | Csatornaőr | B, C, D, E |
-
-|  | 24 | Emelőgép ügyintéző | D, E, F, G |
-
-|  | 25 | Erdészeti ügyintéző | D, E, F, H, I |
-
-|  | 26 | Erdőművelő | A |
-
-|  | 27 | Erdőőr | A, B,C, D |
-
-|  | 28 | Építésvezető | F, G, H, I |
-
-|  | 29 | EU integrációs ügyintéző | E, F, G, H, I |
-
-|  | 30 | Fedélzetmester | C, D |
-
-|  | 31 | Felszínalatti vízgazdálkodási ügyintéző | G, H, I |
-
-|  | 32 | Felszíni vízgazdálkodási ügyintéző | D, F, G, H, I, J |
-
-|  | 33 | Felügyelőségi technikus | D, E, F |
-
-|  | 34 | Fenntartógép-kezelő | B, C |
-
-|  | 35 | Fenntartó munkás | A, B, C |
-
-|  | 36 | Folyamfelvigyázó | B, C, E |
-
-|  | 37 | Folyami felmérő | B,C, D, E, F, G, H |
-
-|  | 38 | Folyamszabályozási ügyintéző | D, F, G, H, I |
-
-|  | 39 | Gát- és mederfelvigyázó | B, C, D |
-
-|  | 40 | Gát és meder segédfelvigyázó | A, B,C |
-
-|  | 41 | Gátbiztos | B, C, D |
-
-|  | 42 | Gátfelügyelő | C, D, E, F, G |
-
-|  | 43 | Gátőr | B, C, D |
-
-|  | 44 | Geodéta | B, C, D, E, F, G, H |
-
-|  | 46 | Geológus | D, E, F, G, H |
-
-|  | 47 | Gépészeti vezető | F, G, H, I |
-
-|  | 48 | Gépkezelő | B, C, D |
-
-|  | 49 | Géptiszt (hajós) | D, E |
-
-|  | 50 | Gépüzemvezető (hajós) | D, E |
-
-|  | 51 | Hajógépkezelő | B, C, D |
-
-|  | 52 | Hajógépmester | D |
-
-|  | 53 | Hajóskapitány | E, F, G, H, I |
-
-|  | 54 | Hajóvezető | F, G, H |
-
-|  | 55 | Hajózási felelős | D, E, F, G, H |
-
-|  | 56 | Hajózsilipgépész | C, D |
-
-|  | 57 | Hidraközpont-kezelő | D |
-
-|  | 58 | Hidrobiológus | F, G, H, I, J |
-
-|  | 59 | Hidrogeológus | G, H, I, J |
-
-|  | 60 | Hidrometeorológus | D, F, G, H, I, J |
-
-|  | 61 | Hidrológiai észlelő | A, B, C |
-
-|  | 62 | Hidrológus | F, G, H, I, J |
-
-|  | 63 | Hidrometeorológiai észlelő | B, C, D |
-
-|  | 64 | Hírközlési ügyintéző | D, E, F, G, H |
-
-|  | 65 | Hírközlési szerelő | B, C, D, E, F |
-
-|  | 66 | Hulladékgazdálkodó | F, G, H |
-
-|  | 67 | Informatikai rendszergazda | E, F, G, H |
-
-|  | 68 | Informatikai rendszer-üzemeltető | D, E, F, G, H |
-
-|  | 69 | Informatikai ügyintéző | D, E, F, G, H |
-
-|  | 70 | Ipari vízellátási és csatornázási ügyintéző | D, F, G, H |
-
-|  | 71 | Irodavezető | E, F, G, H |
-
-|  | 72 | Irányító tervező | H, I |
-
-|  | 73 | Kísérleti mintatelep-vezető | H, I |
-
-|  | 74 | Kishajó-vezető | B, C, D |
-
-|  | 75 | Kitűzőmester | D |
-
-|  | 76 | Könnyűgépkezelő | B |
-
-|  | 77 | Kompresszorkezelő | B |
-
-|  | 78 | Környezetvédelmi megbízott | E, F, G, H |
-
-|  | 79 | Környezetvédelmi ügyintéző | D, E, F, G, H |
-
-|  | 80 | Közműfejlesztési ügyintéző | D, F, G, H, I |
-
-|  | 81 | Kutatóállomás- irányító | G, I |
-
-|  | 82 | Laborvezető-helyettes | F, G, H, I, J |
-
-|  | 83 | Laboráns | D, F, H |
-
-|  | 84 | Magasépítési ügyintéző | D, F, H |
-
-|  | 85 | Matróz | A |
-
-|  | 86 | MBSZ munkatárs | A, B, C, D |
-
-|  | 87 | MBSZ részlegvezető | D, F, G, H, I |
-
-|  | 88 | Mederőr | B, C, D |
-
-|  | 89 | Mezőgazdasági ügyintéző | D, E, F, G, H, I |
-
-|  | 90 | Műszaki rajzoló | C |
-
-|  | 91 | Műszaki szaktanácsadó | G, I |
-
-|  | 92 | Modellező | B, C, D, E, F, G, H, I |
-
-|  | 93 | Művezető | C, D, E |
-
-|  | 94 | Nehézgépkezelő | B, C |
-
-|  | 95 | Szakági tervező | G, I |
-
-|  | 96 | Szerkesztő-rajzoló | C |
-
-|  | 97 | Szivattyúkezelő | B, C, D |
-
-|  | 98 | Szivattyútelep- kezelő | B, C, D |
-
-|  | 99 | Szivattyútelepi gépkarbantartó | B, C, D |
-
-|  | 100 | Szivattyútelepi vezető gépész | D |
-
-|  | 101 | Targoncavezető | B |
-
-|  | 102 | Tározóőr | B, C, D |
-
-|  | 103 | Társulati ügyintéző | D, F, G, H, I |
-
-|  | 104 | Technikus | B, C, D, E |
-
-|  | 105 | Település vízellátási és csatornázási ügyintéző | D, F, G, H, I |
-
-|  | 106 | Település vízgazdálkodási ügyintéző | D, F, G, H, I |
-
-|  | 107 | Térinformatikus | F, G, H |
-
-|  | 108 | Területi felügyelő | E, F, G, H, I |
-
-|  | 109 | Területi ügyintéző | E, F, G, H, I |
-
-|  | 110 | Területrendezési ügyintéző | F, H, I |
-
-|  | 111 | Tószabályozási ügyintéző | D, F, G, H, I |
-
-|  | 112 | Uszálykormányos | B, C, D |
-
-|  | 113 | Vízgazdálkodási adattáros | D, E, F, G, H |
-
-|  | 114 | Úszókotrómester | B, C, D |
-
-|  | 115 | Üdülővezető-helyettes | D |
-
-|  | 116 | Vagyongazdálkodási ügyintéző | D, E, F, G |
-
-|  | 117 | Vadőr, vadász | B, C, D, E |
-
-|  | 118 | Vegyésztechnikus | D, E |
-
-|  | 119 | Vezető gépkezelő | B, C, D |
-
-|  | 120 | Vízépítési műtárgyépítő | A |
-
-|  | 121 | Vízépítő | A, B, C, D |
-
-|  | 122 | Vízföldtani adattáros | B, C, D |
-
-|  | 123 | Vízföldtani ügyintéző | H, I |
-
-|  | 124 | Vízgépészeti ügyintéző | D, E, F, G, H, I |
-
-|  | 125 | Vízgépészeti szerelő | B, C, D, E, F |
-
-|  | 126 | Vízhasznosítási ügyintéző | D, F, G, H, I |
-
-|  | 127 | Vízhozammérő | B, C, D |
-
-|  | 128 | Víziközmű ügyintéző | D, F, G, H, I |
-
-|  | 129 | Vízkárelhárítási szakmunkás | B, C, D |
-
-|  | 130 | Vízkárelhárítási ügyintéző | D, E, F, G, H, I |
-
-|  | 131 | Vízkészlet-gazdálkodási ügyintéző | D, F, G, H, I |
-
-|  | 132 | Vízmérő-karbantartó | B, C, D |
-
-|  | 133 | Vízminőségvédelmi ügyintéző | D, E, F, G, H, I |
-
-|  | 134 | Vízmintavevő | B, C, D |
-
-|  | 135 | Vízrajzi adatfeldolgozó | B, C, D |
-
-|  | 136 | Vízrajzi adatforgalmazó | C, D |
-
-|  | 137 | Vízrajzi mérő (területfelelős technikus) | B, C, D, E |
-
-|  | 138 | Vízrajzi ügyintéző | D, F, G, H, I |
-
-|  | 139 | Vízrendezési ügyintéző | D, F, G, H, I |
-
-|  | 140 | Vonalfelvigyázó hálózatszerelő | B, C, D |
-
-|  | 141 | Zsilipkezelő | B, C, D |
-
-|  | 142 | Zsilipőr | A |
 
 3. Az 1. és 2. pontokban nem nevesített szervezeteknél betölthető ágazat specifikus munkakörök megnevezése és besorolása
 
@@ -683,3 +503,5 @@ A betölthető munkakörök és beosztások, az azokhoz tartozó fizetési oszt�
 |  | 113 | Üzemgazdász | E, F, G |
 
 |  | 114 | Villanyszerelő | B, C, D |
+
+[^4]: A melléklet a 147/2011. (XII. 23.) VM rendelet 15. §-a, és a 17. § h) pont hd) alpontja szerint módosított szöveg.
