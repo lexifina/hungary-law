@@ -22,6 +22,6 @@
 
 ## h) zajkibocsátás vizsgálatáról készített jelentés vagy referencia-vízijármű vizsgálatából nyert adatok, amelyek igazolják az általános követelmények 1. pontjának való megfelelőséget (1. számú melléklet C rész).
 
-14. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^125]
+14. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^126]
 
-[^125]: A 14. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának l) pontja szerint módosított szöveg.
+[^126]: A 14. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának l) pontja szerint módosított szöveg.

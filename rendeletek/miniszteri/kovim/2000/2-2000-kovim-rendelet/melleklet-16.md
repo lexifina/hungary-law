@@ -10,7 +10,7 @@
 
 ## 2. Az írásos megfelelőségi nyilatkozatnak a következő adatokat kell tartalmaznia:
 
-## a) a gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselőjének neve és címe[^128],
+## a) a gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselőjének neve és címe[^129],
 
 ## b) a kedvtelési célú vízijármű, illetve a motoros vízi sporteszköz vagy a részegység leírása,
 
@@ -24,15 +24,15 @@
 
 ## a) beépített hajtó motor és a motorral egybeépített kipufogórendszer nélkül gyártott külső hajtó motor,
 
-## b) a külön jogszabályban[^129] meghatározott II. szint szerinti típusjóváhagyással rendelkező hajtó motor, illetve
+## b) a külön jogszabályban[^130] meghatározott II. szint szerinti típusjóváhagyással rendelkező hajtó motor, illetve
 
-## c) feltéve, ha szükséges a más jogszabályban[^130] meghatározott feltételek szerint típusjóváhagyással rendelkező motor
+## c) feltéve, ha szükséges a más jogszabályban[^131] meghatározott feltételek szerint típusjóváhagyással rendelkező motor
 
 ## megfelel a rendeletben a kipufogógáz-kibocsátásra vonatkozóan meghatározott követelményeknek, továbbá azt, hogy e motor mindaddig nem helyezhető üzembe, amíg az arról kedvtelési célú vízijárműről, illetve motoros vízi sporteszközről, amelybe a motor beépítésre, illetve felszerelésre kerül, nem készült a rendeletben előírt megfelelőségi nyilatkozat.
 
-16. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^131]
+16. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^132]
 
-[^128]: Cégnév és teljes cím; a meghatalmazott képviselőnek meg kell adnia a gyártó cég nevét és címét.
-[^129]: 1/2000. (VII. 21.) KöViM–KöM együttes rendelet a nem közúti mozgó gépekbe építendő belső égésű motorok gáznemű és részecskékből álló szennyezőanyag-kibocsátásának korlátozásáról és az 5/1990. (IV. 12.) KöHÉM rendelet a közúti járművek műszaki megvizsgálásáról.
+[^129]: Cégnév és teljes cím; a meghatalmazott képviselőnek meg kell adnia a gyártó cég nevét és címét.
 [^130]: 1/2000. (VII. 21.) KöViM–KöM együttes rendelet a nem közúti mozgó gépekbe építendő belső égésű motorok gáznemű és részecskékből álló szennyezőanyag-kibocsátásának korlátozásáról és az 5/1990. (IV. 12.) KöHÉM rendelet a közúti járművek műszaki megvizsgálásáról.
-[^131]: A 16. számú melléklet a 96/2004. (VII. 19.) GKM rendelet 17. §-ával megállapított szöveg.
+[^131]: 1/2000. (VII. 21.) KöViM–KöM együttes rendelet a nem közúti mozgó gépekbe építendő belső égésű motorok gáznemű és részecskékből álló szennyezőanyag-kibocsátásának korlátozásáról és az 5/1990. (IV. 12.) KöHÉM rendelet a közúti járművek műszaki megvizsgálásáról.
+[^132]: A 16. számú melléklet a 96/2004. (VII. 19.) GKM rendelet 17. §-ával megállapított szöveg.

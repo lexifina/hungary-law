@@ -1,6 +1,6 @@
-## A gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője, illetve a forgalomba hozatalért felelős személy nyilatkozata[^92]
+## A gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője, illetve a forgalomba hozatalért felelős személy nyilatkozata[^93]
 
-## 1.[^93] Félkész vízijármű esetében a gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője nyilatkozatának a következőket kell tartalmaznia:
+## 1.[^94] Félkész vízijármű esetében a gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője nyilatkozatának a következőket kell tartalmaznia:
 
 ## a) a gyártó neve és címe;
 
@@ -10,7 +10,7 @@
 
 ## d) nyilatkozat arra vonatkozóan, hogy a félkész vízijárművet mások általi befejezésre szánják, és hogy az megfelel az építés e szakaszában alkalmazható alapvető követelményeknek.
 
-## 2.[^94] A 2. számú mellékletben meghatározott részegységek esetében a gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője, illetve a forgalomba hozatalért felelős személy nyilatkozatának a következőket kell tartalmaznia:
+## 2.[^95] A 2. számú mellékletben meghatározott részegységek esetében a gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője, illetve a forgalomba hozatalért felelős személy nyilatkozatának a következőket kell tartalmaznia:
 
 ## a) a gyártó neve és címe;
 
@@ -20,9 +20,9 @@
 
 ## d) nyilatkozat arra vonatkozóan, hogy a részegység megfelel a vonatkozó alapvető követelményeknek.
 
-4. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^95]
+4. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^96]
 
-[^92]: A 3. számú melléklet címe a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
-[^93]: A 3. számú melléklet 1. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
-[^94]: A 3. számú melléklet 2. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
-[^95]: A 4. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának c) pontja szerint módosított szöveg.
+[^93]: A 3. számú melléklet címe a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
+[^94]: A 3. számú melléklet 1. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
+[^95]: A 3. számú melléklet 2. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
+[^96]: A 4. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának c) pontja szerint módosított szöveg.

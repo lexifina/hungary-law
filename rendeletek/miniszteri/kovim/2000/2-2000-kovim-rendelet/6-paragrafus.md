@@ -1,4 +1,4 @@
-6. §[^44] (1) A következő termékek forgalomba hozatalakor azokon fel kell tüntetni a CE megfelelőségi jelölést:
+6. §[^45] (1) A következő termékek forgalomba hozatalakor azokon fel kell tüntetni a CE megfelelőségi jelölést:
 
 a) kedvtelési célú vízijármű, motoros vízi sporteszköz, valamint a 2. számú mellékletben felsorolt részegységek, amennyiben eleget tesznek az 1. számú mellékletben foglalt általános követelményeknek;
 
@@ -16,4 +16,4 @@ c) a motorral egybeépített kipufogórendszerrel rendelkező külmotorok, amenn
 
 (6) E rendelet hatálya alá tartozó vízijárművek, illetve részegységeik forgalomba hozatalát megtiltó vagy korlátozó intézkedést indokolni kell. Az intézkedésről az Európai Bizottságot és a többi tagállamot a Fogyasztóvédelmi Főfelügyelőség tájékoztatja.
 
-[^44]: A 6. § a 96/2004. (VII. 19.) GKM rendelet 6. §-ával megállapított szöveg.
+[^45]: A 6. § a 96/2004. (VII. 19.) GKM rendelet 6. §-ával megállapított szöveg.

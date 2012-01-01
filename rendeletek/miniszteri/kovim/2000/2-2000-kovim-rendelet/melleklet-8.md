@@ -4,7 +4,7 @@
 
 ## 1. Egy kijelölt szervezet meggyőződik arról és tanúsítja a vizsgálandó termelést reprezentáló egy adott minta e rendeletben foglalt követelményeknek való megfelelését.
 
-## 2.[^102] A típusvizsgálat iránti kérelmet a gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője az általa választott kijelölt szervezethez köteles benyújtani. A kérelemnek tartalmaznia kell a következőket:
+## 2.[^103] A típusvizsgálat iránti kérelmet a gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője az általa választott kijelölt szervezethez köteles benyújtani. A kérelemnek tartalmaznia kell a következőket:
 
 ## – a gyártó nevét és címét, valamint – ha a kérelmet a meghatalmazott képviselő nyújtja be – az utóbbi nevét és címét is;
 
@@ -12,7 +12,7 @@
 
 ## – a 3. pontban leírtak szerinti műszaki dokumentációt.
 
-## A kérelmező köteles a kijelölt szervezet rendelkezésére bocsátani egy, a vizsgálandó termelést reprezentáló mintát (a továbbiakban: típus[^103]).
+## A kérelmező köteles a kijelölt szervezet rendelkezésére bocsátani egy, a vizsgálandó termelést reprezentáló mintát (a továbbiakban: típus[^104]).
 
 ## A kijelölt szervezet további mintákat kérhet, ha ilyenekre a vizsgálati program végrehajtásához szükség van.
 
@@ -40,13 +40,13 @@
 
 ## 8. A többi kijelölt szervezet példányokat kaphat a típusvizsgálati tanúsítványokról és/vagy azok kiegészítéseiről. A tanúsítványok mellékleteit a többi kijelölt szervezet rendelkezésére kell bocsátani.
 
-## 9.[^104] A gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője az utolsó termék gyártásától számított legalább 10 éven át köteles a műszaki dokumentációval együtt megőrizni a típusvizsgálati tanúsítványok és azok kiegészítéseinek példányait.
+## 9.[^105] A gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője az utolsó termék gyártásától számított legalább 10 éven át köteles a műszaki dokumentációval együtt megőrizni a típusvizsgálati tanúsítványok és azok kiegészítéseinek példányait.
 
 ## Ha sem a gyártó, sem annak meghatalmazott képviselője nem belföldön működik, a terméket forgalomba hozó személy köteles gondoskodni a műszaki dokumentáció rendelkezésre bocsátásáról.
 
-8. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^105]
+8. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^106]
 
-[^102]: A 7. számú melléklet 2. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
-[^103]: A ,,típus'' a termék több változatát is magában foglalhatja, feltéve, hogy az egyes változatok közötti különbségek nincsenek kihatással a termék biztonsági szintjére és a teljesítményével kapcsolatos egyéb követelményekre.
-[^104]: A 7. számú melléklet 9. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
-[^105]: A 8. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának f) pontjával megállapított szöveg.
+[^103]: A 7. számú melléklet 2. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
+[^104]: A ,,típus'' a termék több változatát is magában foglalhatja, feltéve, hogy az egyes változatok közötti különbségek nincsenek kihatással a termék biztonsági szintjére és a teljesítményével kapcsolatos egyéb követelményekre.
+[^105]: A 7. számú melléklet 9. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
+[^106]: A 8. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának f) pontjával megállapított szöveg.

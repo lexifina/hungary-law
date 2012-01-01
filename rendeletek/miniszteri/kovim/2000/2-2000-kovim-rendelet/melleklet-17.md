@@ -72,7 +72,7 @@
 
 ## 6. Elismert, illetve kijelölt szervezetnek tájékoztatnia kell más elismert, illetve kijelölt szervezeteket a minőségbiztosítási rendszerre vonatkozó jóváhagyás kiadásáról, illetve visszavonásáról.
 
-17. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^132]
+17. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^133]
 
 A gyártás megfelelőségének értékelése
 
@@ -116,4 +116,4 @@ k – az n-től függő statisztikai tényező (lásd a táblázatot).
 
 |  | √ n |
 
-[^132]: A 17. számú mellékletet a 96/2004. (VII. 19.) GKM rendelet 18. §-a iktatta a szövegbe.
+[^133]: A 17. számú mellékletet a 96/2004. (VII. 19.) GKM rendelet 18. §-a iktatta a szövegbe.

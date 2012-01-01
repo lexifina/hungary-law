@@ -28,6 +28,6 @@
 
 ## Amennyiben egy motorcsaládból egynél több motort vizsgálnak, a 17. számú mellékletben meghatározott statisztikai módszert kell alkalmazni a mintamotor megfelelőségének biztosítása érdekében.
 
-7. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^101]
+7. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^102]
 
-[^101]: A 7. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának e) pontja szerint módosított szöveg.
+[^102]: A 7. számú melléklet a 37/2000. (XII. 27.) KöViM rendelet 1. §-ának e) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## (H modul)
 
-## 1.[^122] Ez a modul azt az eljárást írja le, amely révén a 2. bekezdésben leírt kötelezettségeknek eleget tevő gyártó ellenőrzi és tanúsítja, hogy az érintett termék megfelel-e az e rendeletben foglalt követelményeknek. A gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője köteles minden egyes terméken elhelyezni a H jelölést és írásos megfelelőségi nyilatkozatot tenni (15. számú melléklet).
+## 1.[^123] Ez a modul azt az eljárást írja le, amely révén a 2. bekezdésben leírt kötelezettségeknek eleget tevő gyártó ellenőrzi és tanúsítja, hogy az érintett termék megfelel-e az e rendeletben foglalt követelményeknek. A gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője köteles minden egyes terméken elhelyezni a H jelölést és írásos megfelelőségi nyilatkozatot tenni (15. számú melléklet).
 
 ## 2. A gyártó köteles a 3. bekezdésben meghatározott módon egy jóváhagyott minőségbiztosítási rendszert működtetni a tervezés, a gyártás, valamint a végtermék ellenőrzése és vizsgálata terén, és tevékenységét a 4. pontban meghatározott ellenőrzés tárgyává kell tenni.
 
@@ -42,7 +42,7 @@
 
 ## A döntésről a gyártót tájékoztatni kell. Az értesítésnek tartalmaznia kell a vizsgálat megállapításait és az azok alapján hozott, indokokkal alátámasztott döntést.
 
-## 3.4.[^123] A gyártónak vállalnia kell, hogy eleget tesz a jóváhagyott minőségügyi rendszerből adódó követelményeknek, valamint azt, hogy a minőségügyi rendszert megfelelő és hatékony formában működésben tartja.
+## 3.4.[^124] A gyártónak vállalnia kell, hogy eleget tesz a jóváhagyott minőségügyi rendszerből adódó követelményeknek, valamint azt, hogy a minőségügyi rendszert megfelelő és hatékony formában működésben tartja.
 
 ## A gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője köteles a minőségügyi rendszert jóváhagyó kijelölt szervezetet folyamatosan tájékoztatni a minőségügyi rendszer minden tervezett módosításáról.
 
@@ -76,8 +76,8 @@
 
 ## 6. Minden kijelölt szervezet köteles a többi kijelölt szervezet rendelkezésére bocsátani a minőségügyi rendszerre vonatkozóan kiadott és visszavont jóváhagyásokkal kapcsolatos alapvető információkat.
 
-13. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^124]
+13. számú melléklet a 2/2000. (VII. 26.) KöViM rendelethez[^125]
 
-[^122]: A 12. számú melléklet 1. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
-[^123]: A 12. számú melléklet 3.4. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
-[^124]: A 13. számú melléklet a 96/2004. (VII. 19.) GKM rendelet 14. §-ával megállapított szöveg.
+[^123]: A 12. számú melléklet 1. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
+[^124]: A 12. számú melléklet 3.4. pontja a 104/2003. (XII. 29.) GKM rendelet 13. §-ának (5) bekezdése szerint módosított szöveg.
+[^125]: A 13. számú melléklet a 96/2004. (VII. 19.) GKM rendelet 14. §-ával megállapított szöveg.
