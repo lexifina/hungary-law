@@ -3,3 +3,5 @@
 (2) A politikai vezető illetményére, a részére kifizetett jutalomra és célprémiumra, az országgyűlési képviselői megbízatással rendelkező politikai vezető országgyűlési képviselői javadalmazására, illetve a politikai vezető részére e megbízatására tekintettel juttatott egyéb juttatásokra vonatkozó adatokat a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
 (3) A (2) bekezdésben meghatározott adatok változása esetén a megváltozott adatokat – a korábbi adat eltávolítása nélkül – a változástól számított tizenöt napon belül kell közzétenni.
+
+(4) A (2) és (3) bekezdésben meghatározott adatok a politikai vezető megbízatása megszűnését követő egy év elteltével távolítható el.

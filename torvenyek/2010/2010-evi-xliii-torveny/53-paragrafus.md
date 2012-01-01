@@ -1,8 +1,6 @@
-## Az államtitkár megbízatásának megszűnése
+53. § Az államtitkár megbízatása megszűnik
 
-53. § Az államtitkár megbízatása megszűnik:
-
-a) a Kormány megbízatásának megszűnésével,
+a) a miniszterelnök megbízatásának megszűnésével,
 
 b) lemondásával,
 
@@ -10,6 +8,6 @@ c) felmentésével,
 
 d) halálával,
 
-e) választójogának elvesztésével,
+e)
 
-f) összeférhetetlenségének megállapításával.
+f)

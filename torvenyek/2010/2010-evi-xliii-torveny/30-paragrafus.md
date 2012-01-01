@@ -1,3 +1,3 @@
-30. § (1) A Kormány egyéb javaslattevő, véleményező vagy tanácsadói tevékenységet végző testületeket hozhat létre. A testület tagjai tevékenységükért tiszteletdíjban részesülhetnek.
+30. § (1) A Kormány egyéb javaslattevő, véleményező vagy tanácsadói tevékenységet végző testületet hozhat létre. A testület tagjai tevékenységükért tiszteletdíjban részesülhetnek.
 
-(2) Az (1) bekezdésben meghatározott testület tagjait, valamint az annak ülésére állandó jelleggel meghívott személyek körét a testületet létrehozó kormányhatározat jelöli ki.
+(2) Az (1) bekezdésben meghatározott testület tagjait, valamint az annak ülésére állandó jelleggel meghívott személyek körét a testületet létrehozó normatív kormányhatározat jelöli ki.

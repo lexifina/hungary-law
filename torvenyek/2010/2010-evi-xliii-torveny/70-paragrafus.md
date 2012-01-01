@@ -1,10 +1,10 @@
 ## IV. Fejezet
 
-## A KORMÁNYHIVATALOK ÉS A KÖZPONTI HIVATALOK
+## A KORMÁNYHIVATAL ÉS A KÖZPONTI HIVATAL
 
-## A kormányhivatalok
+## A kormányhivatal
 
-70. § (1) A kormányhivatal törvény által létrehozott, a Kormány irányítása alatt működő központi államigazgatási szerv. A kormányhivatal különös típusa az államigazgatási feladatok mellett fegyveres rendvédelmi feladatokat is ellátó kormányhivatal.
+70. § (1) A kormányhivatal törvény által létrehozott, a Kormány irányítása alatt működő központi államigazgatási szerv. A kormányhivatal törvényben meghatározottak szerint fegyveres rendvédelmi feladatokat is elláthat.
 
 (2) A kormányhivatal felügyeletét a miniszterelnök által kijelölt miniszter látja el, aki e hatáskörében – ha törvény eltérően nem rendelkezik – különösen
 

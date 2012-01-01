@@ -1,5 +1,5 @@
-25. § (1) A miniszterelnökkel szemben bizalmatlansági indítvány benyújtását bármely országgyűlési képviselő kezdeményezheti. A kezdeményezést az Országgyűlés elnökének be kell jelenteni.
+25. § (1) A bizalmi szavazásra irányuló indítványt és a miniszterelnökkel szembeni bizalmatlansági indítványt az Országgyűlés elnökéhez kell benyújtani.
 
-(2) A Kormány, illetve a miniszterelnök az (1) bekezdés szerinti bejelentést követően három munkanapig, illetve a bizalmatlansági indítvány benyújtásától az indítvány feletti szavazás lezárultáig nem mondhat le.
+(2) A miniszterelnök az (1) bekezdés szerinti indítvány benyújtásának időpontjától az arról szóló döntés meghozataláig nem mondhat le.
 
-(3) A (2) bekezdésben meghatározott korlátozás időtartama folyamatosan legfeljebb tizenöt nap lehet.
+(3) Az Alaptörvény 21. cikk (4) bekezdése szerinti bizalmi szavazás esetén a Kormány által benyújtott előterjesztésről változatlan tartalommal kell zárószavazást tartani.

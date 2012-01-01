@@ -1,4 +1,4 @@
-## Hatálybalépés
+## Hatályba léptető rendelkezések
 
 76. § (1) Ez a törvény az országgyűlési képviselők 2010. évi általános választását követően megalakult Országgyűlés által választott miniszterelnök megválasztásával egyidejűleg lép hatályba.
 

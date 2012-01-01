@@ -1,4 +1,4 @@
-11. § (1) A miniszterelnök és a miniszter e tevékenységéért az Országgyűlésnek felelősséggel tartozik.
+11. § (1)
 
 (2) Az államtitkár a hatáskörének gyakorlásáért a miniszternek, illetve a miniszterelnöknek felelősséggel tartozik.
 

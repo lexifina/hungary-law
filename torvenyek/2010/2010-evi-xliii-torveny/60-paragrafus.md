@@ -2,7 +2,7 @@
 
 60. § (1) A minisztérium szervezetét e törvény keretei között a minisztérium szervezeti és működési szabályzata határozza meg.
 
-(2) A szervezeti és működési szabályzatot, illetve annak módosítását a miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban adja ki. Az utasítás érvényességének feltétele, hogy azt a Hivatalos Értesítőben az utasítás hatálybalépését megelőzően közzétegyék.
+(2) A szervezeti és működési szabályzatot, illetve annak módosítását a miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban adja ki.
 
 (3) A szervezeti és működési szabályzatot a minisztérium honlapján a módosításokkal egységes szerkezetben közzé kell tenni.
 

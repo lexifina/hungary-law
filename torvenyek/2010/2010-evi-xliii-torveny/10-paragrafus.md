@@ -4,4 +4,4 @@
 
 (3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vonatkozásában a Magyar Nemzeti Bank felügyelő bizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelő bizottságának tagjaira nem kell alkalmazni.
 
-(4) Ha az összeférhetetlenségi eljárás ideje alatt a politikai vezető a vele szemben fennálló összeférhetetlenségi okot megszünteti, az összeférhetetlenség megállapítását mellőzni kell.
+(4) Ha az összeférhetetlenségi eljárás ideje alatt a politikai vezető a vele szemben fennálló összeférhetetlenségi okot megszünteti, a miniszterelnök esetében az összeférhetetlenség nem mondható ki, a miniszter és az államtitkár esetében a felmentést mellőzni kell.

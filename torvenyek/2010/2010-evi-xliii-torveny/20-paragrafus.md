@@ -1,3 +1,3 @@
-## A miniszterelnök megbízatásának keletkezése
+## A miniszterelnök megbízatásának keletkezése és megszűnése
 
-20. § Miniszterelnöknek javasolható, illetve miniszterelnökké megválasztható minden büntetlen előéletű, az országgyűlési képviselők választásán választójoggal rendelkező személy.
+20. § Miniszterelnöknek javasolható, illetve miniszterelnökké megválasztható minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy.

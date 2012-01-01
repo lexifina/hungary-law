@@ -1,4 +1,4 @@
-71. § (1) A kormányhivatal szervezetét a kormányhivatal szervezeti és működési szabályzata határozza meg, amelyet a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki. Az utasítás érvényességének feltétele, hogy azt a Magyar Közlönyben az utasítás hatálybalépését megelőzően közzétegyék.
+71. § (1) A kormányhivatal szervezetét a kormányhivatal szervezeti és működési szabályzata határozza meg, amelyet a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki.
 
 (2) A szervezeti és működési szabályzatot a kormányhivatal honlapján a módosításokkal egységes szerkezetben közzé kell tenni.
 
@@ -6,13 +6,13 @@
 
 (4) A kormányhivatal vezetőjét – ha törvény eltérően nem rendelkezik – a kormányhivatalt felügyelő miniszter javaslatára a miniszterelnök nevezi ki és menti fel.
 
-(5) A miniszter javaslatát a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter útján terjeszti a miniszterelnök elé.
+(5) A kormányhivatalt felügyelő miniszter javaslatát a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter útján terjeszti a miniszterelnök elé.
 
-(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a javaslat megküldésétől számított tizenöt napon belül kifogással élhet, és a javaslatot visszaküldheti a miniszternek, vagy továbbítja azt a miniszterelnöknek.
+(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a javaslat megküldésétől számított tizenöt napon belül kifogással élhet, és a javaslatot visszaküldheti a kormányhivatalt felügyelő miniszternek, vagy továbbítja azt a miniszterelnöknek.
 
 (7) A kormányhivatal vezetőjének helyettesét – ha törvény eltérően nem rendelkezik – a kormányhivatal vezetőjének javaslatára a kormányhivatalt felügyelő miniszter nevezi ki és menti fel.
 
-(8) A kormányhivatal vezetője a vezető-helyettesnek javasolt személyről – a miniszternek tett javaslattétellel egyidejűleg – tájékoztatja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javasolt személlyel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a kormányhivatal vezetője helyettesének.
+(8) A kormányhivatal vezetője a vezető-helyettesnek javasolt személyről – a kormányhivatalt felügyelő miniszternek tett javaslattétellel egyidejűleg – tájékoztatja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javasolt személlyel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a kormányhivatal vezetője helyettesének.
 
 (9) Ha a kormányhivatal felügyeletét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el, a (8) bekezdést nem kell alkalmazni.
 
@@ -22,4 +22,4 @@
 
 (12) Ha a kormányhivatalt testület vezeti, és törvény eltérően nem rendelkezik, a testület elnöke államtitkári illetményre és juttatásokra, a testület tagjai helyettes államtitkári illetményre jogosultak.
 
-(13) A kormányhivatalra – ha törvény eltérően nem rendelkezik – e törvény 63–68. §-ait megfelelően alkalmazni kell.
+(13) A kormányhivatalra – ha törvény eltérően nem rendelkezik – a 63–68. §-t kell alkalmazni.

@@ -2,7 +2,9 @@
 
 (2) A szabadság igénybevételét a kormányzati tevékenység összehangolásáért felelős miniszternek előzetesen be kell jelenteni.
 
-(3) A miniszter és az államtitkár tárgyévet követő év március 31-ig ki nem vett szabadságát pénzben megváltani nem lehet.
+(2a) A miniszterelnököt minden évben negyven munkanap szabadság illeti meg.
+
+(3) A politikai vezető tárgyévet követő év március 31-ig ki nem vett szabadságát pénzben megváltani nem lehet.
 
 (4) A politikai vezetőt rendkívüli munkavégzése után külön szabadidő nem illeti meg.
 

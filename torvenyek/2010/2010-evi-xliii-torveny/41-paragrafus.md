@@ -1,5 +1,5 @@
-41. § (1) A miniszter a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
+41. § (1)
 
-(2) A kinevezett miniszter az Országgyűlés előtt az Országgyűlés előtt esküt tevő, vezető közjogi tisztséget betöltő személyek esküjének megfelelő szöveggel esküt vagy fogadalmat tesz.
+(2) A kinevezett miniszter az Országgyűlés előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
 (3) A miniszter tekintetében törvény eltérő rendelkezése hiányában a munkáltatói jogokat a miniszterelnök gyakorolja.

@@ -14,4 +14,4 @@
 
 (8) A központi hivatal vezetőjének helyettese – ha törvény vagy kormányrendelet eltérően nem rendelkezik – helyettes államtitkári illetményre jogosult.
 
-(9) A központi hivatalra – ha jogszabály eltérően nem rendelkezik – e törvény 63–68. §-ait megfelelően alkalmazni kell.
+(9) A központi hivatalra – ha jogszabály eltérően nem rendelkezik – a 63–68. §-t kell alkalmazni.

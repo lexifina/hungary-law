@@ -4,4 +4,4 @@
 
 (3) A köztársasági elnök a miniszterelnök lemondásáról haladéktalanul tájékoztatja az Országgyűlést.
 
-(4) A Kormány az Alkotmány 39/A. § (5) bekezdésében meghatározott esetben, a miniszterelnök útján, az (1)–(3) bekezdés megfelelő alkalmazásával mond le.
+(4)

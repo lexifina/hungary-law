@@ -1,6 +1,6 @@
 ## A Miniszterelnökség szervezete
 
-69. § (1) A 62–68. § rendelkezéseit a Miniszterelnökségre az e §-ban meghatározott eltérésekkel kell alkalmazni.
+69. § (1) A 62–68. §-t a Miniszterelnökségre az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (2) A Miniszterelnökségen közigazgatási államtitkár nem működik.
 

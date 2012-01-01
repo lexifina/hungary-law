@@ -1,13 +1,25 @@
 ## A miniszter helyettesítése
 
-37. § (1) A minisztert akadályoztatása esetén – a (2)–(4) bekezdésben meghatározott kivételekkel, a minisztérium szervezeti és működési szabályzatában meghatározottak szerint – az államtitkár helyettesíti.
+37. § (1) A (2) és (3) bekezdésben meghatározott kivétellel
 
-(2) A minisztert a köztársasági elnök intézkedésének kezdeményezésében és intézkedésének ellenjegyzésében, valamint az államtitkár akadályoztatása esetén az Országgyűlés ülésén a miniszter részletes feladat- és hatásköréről szóló kormányrendeletben kijelölt másik miniszter helyettesíti.
+a) a minisztert akadályoztatása esetén – az általa vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint – az államtitkár,
 
-(3) Az államtitkár akadályoztatása esetén a minisztert az Országgyűlés bizottsága ülésén az általa vezetett minisztérium állományába tartozó, állásfoglalásra jogosult, vezetői megbízatással rendelkező személy helyettesíti.
+b) a tárca nélküli minisztert akadályoztatása esetén a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumnak a 35. § (4) bekezdésében meghatározott kormányrendeletben kijelölt államtitkára – a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint –
 
-(4) A tárca nélküli minisztert akadályoztatása esetén a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumnak a tárca nélküli miniszter részletes feladat- és hatásköréről szóló kormányrendeletben kijelölt államtitkára, az államtitkár akadályoztatása esetén pedig az Országgyűlés bizottsága ülésén e minisztérium állományába tartozó, a tárca nélküli miniszter tevékenységét segítő helyettes államtitkár vagy vezetői megbízatással rendelkező személy helyettesíti.
+helyettesíti.
 
-(5) A minisztert az Európai Unió Tanácsa miniszteri képviseletet igénylő testületeiben az államtitkár, az Európai Unió kormányzati részvétellel működő egyéb intézményeiben – a miniszter döntése alapján – a miniszter részletes feladat- és hatásköréről szóló kormányrendeletben kijelölt másik miniszter, az államtitkár, a közigazgatási államtitkár vagy a miniszter által kijelölt helyettes államtitkár helyettesíti.
+(2) A minisztert a köztársasági elnök intézkedésének kezdeményezésében és intézkedésének ellenjegyzésében, valamint az (1) bekezdésben meghatározott államtitkár akadályoztatása esetén az Országgyűlés ülésén a 34. § (3) bekezdésében és a 35. § (4) bekezdésben meghatározott kormányrendeletben kijelölt másik miniszter helyettesíti.
 
-(6)
+(3) Az (1) bekezdésben meghatározott államtitkár akadályoztatása esetén az Országgyűlés bizottsága ülésén
+
+a) a minisztert az általa vezetett minisztérium állományába tartozó, állásfoglalásra jogosult, vezetői megbízatással rendelkező személy,
+
+b) a tárca nélküli minisztert a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium állományába tartozó, a tárca nélküli miniszter tevékenységét segítő helyettes államtitkár vagy vezetői megbízatással rendelkező személy helyettesíti.
+
+(4) A minisztert az Európai Unió Tanácsa miniszteri képviseletet igénylő testületeiben az (1) bekezdésben meghatározott államtitkár helyettesíti. Az Európai Unió kormányzati részvétellel működő egyéb intézményeiben
+
+a) a minisztert – döntése alapján – a 34. § (3) bekezdésében meghatározott kormányrendeletben kijelölt másik miniszter, az (1) bekezdés a) pontjában meghatározott államtitkár, a miniszter által vezetett minisztérium közigazgatási államtitkára vagy a miniszter által kijelölt helyettes államtitkár,
+
+b) a tárca nélküli minisztert – döntése alapján – a 35. § (4) bekezdésében meghatározott kormányrendeletben kijelölt másik miniszter, az (1) bekezdés b) pontjában meghatározott államtitkár, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára vagy a tárca nélküli miniszter tevékenységét segítő helyettes államtitkár
+
+helyettesíti.

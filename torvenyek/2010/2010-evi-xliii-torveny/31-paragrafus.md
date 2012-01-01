@@ -1,6 +1,6 @@
 ## A kormánybiztos
 
-31. § (1) A Kormány – határozatával – egy minisztérium, illetve kormányhivatal feladatkörébe sem tartozó vagy kiemelt fontosságú feladat ellátására kormánybiztost nevezhet ki. A kormánybiztos személyére a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot.
+31. § (1) A Kormány – normatív határozatával – miniszter vagy kormányhivatal feladatkörébe nem tartozó vagy kiemelt fontosságú feladat ellátására kormánybiztost nevezhet ki. A kormánybiztos személyére a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot.
 
 (2) Kormánybiztossá
 
@@ -14,12 +14,16 @@ a Kormány feladatkörébe tartozó feladat ellátására nevezhető ki.
 
 (4) A kormánybiztos tevékenységét a miniszterelnök irányítja.
 
-(5) A kormánybiztos megbízatása meghatározott időre, de legfeljebb két évre szól. A kormánybiztos e megbízatása a miniszteri, államtitkári, közigazgatási államtitkári vagy helyettes államtitkári megbízatásának megszűnésével megszűnik.
+(5) A kormánybiztos megbízatása meghatározott időre, de legfeljebb két évre szól. A kormánybiztos e megbízatása a miniszteri, államtitkári, közigazgatási államtitkári vagy helyettes államtitkári megbízatásának megszűnésével megszűnik. A kormánybiztos e megbízatása megszűnik a miniszterelnök megbízatása megszűnésével.
 
-(6) A (2) bekezdés a) pontja alapján kinevezett kormánybiztos e tevékenységére tekintettel külön díjazást kaphat, ha tevékenysége eredeti feladatkörével nem függ össze.
+(6) A (2) bekezdés a) pontja alapján kinevezett kormánybiztos e tevékenységére tekintettel az (1) bekezdés szerinti normatív kormányhatározatban meghatározott, legfeljebb a (7) bekezdés szerinti illetménynek megfelelő összegű díjazást kaphat, ha tevékenysége eredeti feladatkörével nem függ össze. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
-(7) A (2) bekezdés b) pontjában meghatározott kormánybiztos államtitkári illetményre és juttatásokra jogosult.
+(7) A (2) bekezdés b) pontjában meghatározott kormánybiztos államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
-(8) A kormánybiztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segítheti, amelyre megfelelően alkalmazni kell az államtitkár titkárságának szabályait.
+(8) A kormánybiztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
-(9) Az (1) bekezdésben meghatározott kiemelt fontosságú feladat különösen központi államigazgatási szervek egyesítésének előkészítése, amelynek ellátása során az egyesítésre kerülő szervek egyikének vezetője – a (3) bekezdés alapján kiadott kormányrendeletnek megfelelően – kormánybiztosként, e tisztségéből eredő feladatkörében, irányíthatja a másik szerv vezetőjének tevékenységét.
+(9) A Kormány az (1) bekezdés szerinti normatív határozatában
+
+a) a (2) bekezdés b) pontjában meghatározott kormánybiztos díjazását és juttatásait a (7) bekezdésben meghatározottnál alacsonyabb mértékben is megállapíthatja,
+
+b) rendelkezhet úgy, hogy a kormánybiztos tevékenységét a (8) bekezdés szerinti titkárság nem segíti.
