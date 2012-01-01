@@ -1,1 +1,0 @@
-4/C. § A Magyar Köztársasági Érdemrendet, a Magyar Köztársasági Érdemkeresztet, valamint a Nagy Imre Érdemrendet vissza kell vonni attól, aki arra érdemtelenné vált. A visszavonásra az adományozásra és annak előkészítésére vonatkozó hatásköri és eljárási szabályokat kell megfelelően alkalmazni.
