@@ -2,7 +2,7 @@
 
 20. § (1) Az Országgyűlés állapítja meg az Akadémia fejezet költségvetését és fogadja el az Akadémia költségvetési beszámolóját.
 
-(2) Az Akadémia költségvetésében a kiadási és a bevételi előirányzatok főösszegének évközi csökkentésére az Országgyűlés jogosult, kivéve az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 46. §-ában meghatározott intézkedéseket.
+(2) Az Akadémia költségvetésében a kiadási és a bevételi előirányzatok főösszegének évközi csökkentésére az Országgyűlés jogosult, kivéve az államháztartásról szóló 2011. évi CXCV. törvény 40. § (4) bekezdésében meghatározott intézkedéseket.
 
 (3) Az Akadémia fejezet költségvetése külön előirányzaton tartalmazza az Országos Tudományos Kutatási Alapprogramok (továbbiakban: OTKA) és az OTKA Iroda költségvetését is.
 
