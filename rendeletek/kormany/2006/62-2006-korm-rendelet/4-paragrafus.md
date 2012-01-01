@@ -6,7 +6,7 @@
 
 (4)[^25] A helyi önkormányzatokért felelős miniszter által vezetett minisztérium – az (5) bekezdésben foglaltak szerinti eltéréssel – minden hónap 22-éig rendelkezik arról, hogy a Kincstár az 1–5. és a 7. számú melléklet szerint igényelt támogatásokat a települési önkormányzatok részére, továbbá a (2) bekezdés szerinti mellékleteken igényelt támogatásokat a fővárosi önkormányzat részére utalja át.
 
-(5)[^26] A helyi önkormányzatokért felelős miniszter által vezetett minisztérium december 31-éig rendelkezik arról, hogy a Kincstár az 1. § (2a) bekezdése szerinti összegeket a települési önkormányzatok részére a tárgyév második munkanapjáig utalja át.
+(5)[^26] A helyi önkormányzatokért felelős miniszter által vezetett minisztérium december 22-éig rendelkezik arról, hogy a Kincstár az 1. § (2a) bekezdése szerinti összegeket a települési önkormányzatok részére a tárgyév második munkanapjáig utalja át.
 
 (6)–(7)[^27]
 
@@ -14,5 +14,5 @@
 [^23]: A 4. § (2) bekezdése a 75/2009. (IV. 8.) Korm. rendelet 8. § (2) bekezdés b) pontja, a 358/2010. (XII. 30.) Korm. rendelet 6. § (1) bekezdés d) pontja és (2) bekezdése szerint módosított szöveg.
 [^24]: A 4. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 6. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^25]: A 4. § (4) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^26]: A 4. § (5) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés b) pontja, újonnan a 331/2011. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^26]: A 4. § (5) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés b) pontja, újonnan a 331/2011. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege ez utóbbi módosító rendelet 5. § c) pontja szerint módosított szöveg.
 [^27]: A 4. § (6)–(7) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés b) pontja.

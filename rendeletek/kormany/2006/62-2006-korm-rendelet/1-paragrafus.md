@@ -1,4 +1,4 @@
-1. §[^1] (1)[^2] A települési önkormányzatnak a Magyar Államkincstár (a továbbiakban: Kincstár) területileg illetékes szervéhez (a továbbiakban: Igazgatóság) benyújtott igénylése alapján az időskorúak járadékára, a rendszeres szociális segélyre, a foglalkoztatást helyettesítő támogatásra, a lakásfenntartási támogatásra, az ápolási díjra, az adósságkezelési szolgáltatásra, továbbá az Szt. 55/A. § (3) bekezdése szerinti előrefizetős gáz- vagy áramfogyasztást mérő készülék felszerelési költségeire (a továbbiakban: fogyasztásmérő költsége) kifizetett összeg meghatározott arányát a központi költségvetésben meghatározott feltételek szerint a Kincstár az önkormányzat részére megtéríti.
+1. §[^1] (1)[^2] A települési önkormányzatnak a Magyar Államkincstár (a továbbiakban: Kincstár) területileg illetékes szervéhez (a továbbiakban: Igazgatóság) benyújtott igénylése alapján az időskorúak járadékára, a rendszeres szociális segélyre, a foglalkoztatást helyettesítő támogatásra, a lakásfenntartási támogatásra, az ápolási díjra, az adósságkezelési szolgáltatásra, továbbá az Szt. 55/A. § (3) bekezdése szerinti előrefizetős gáz- vagy áramfogyasztást mérő készülék felszerelési költségeire (a továbbiakban: fogyasztásmérő költsége) kifizetett összeg meghatározott arányát a központi költségvetésről szóló törvényben meghatározott feltételek szerint a Kincstár az önkormányzat részére megtéríti.
 
 (2)[^3] Az (1) bekezdés szerinti ellátások kifizetésére az önkormányzatot – a (3) bekezdésben foglalt kivétellel – havonta előleg illeti meg. A tárgyév december hónapjában előleg nem igényelhető.
 
@@ -39,7 +39,7 @@ c)[^11] foglalkoztatást helyettesítő támogatásról a 10. számú melléklet
 szerinti adatlap felhasználásával történik.
 
 [^1]: Az 1. § a 358/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (2) bekezdés a) pontja, a 331/2011. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (2a) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^5]: Az 1. § (2b) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.

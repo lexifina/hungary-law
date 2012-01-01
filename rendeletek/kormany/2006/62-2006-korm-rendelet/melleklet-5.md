@@ -1,149 +1,99 @@
-5. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez
+## Adatlap a kifizetett ápolási díjjal összefüggésben igénybe vehető támogatás igényléséhez
 
-## Adatlap az adósságkezelési szolgáltatással és a fogyasztásmérő költségével összefüggésben igénybe vehető támogatás igényléséhez[^35]
+| Adatlap a kifizetett ápolási díjjal összefüggésben igénybe vehető támogatás igényléséhez |
 
-Adatlap
+| ......... év ........... tárgyhónap |
 
-az adósságkezelési szolgáltatással és a fogyasztásmérő költségével összefüggésben igénybe vehető támogatás igényléséhez
+| 1. Megye megnevezése: ..................................................................................................... |
 
-......... év ........... tárgyhónap
+| 2. Önkormányzat megnevezése: ......................................................................................... |
 
-1. Megye megnevezése: ....................................................................................................
+| 3. KSH kódja: .................................................................................................................... |
 
-2. Önkormányzat megnevezése: .........................................................................................
+| (2 számjegyű megyekód + 5 számjegyű településazonosító) |
 
-3. KSH kódja: ....................................................................................................................
+| 4. A tárgyhónapban támogatásban részesülők száma: |
 
-(2 számjegyű megyekód + 5 számjegyű településazonosító)
+| a) az Szt. 44. § (1) bekezdés a) pont szerinti összegű támogatásban részesülők száma: | ............ fő |
 
-4. A tárgyhónapban adósságcsökkentési támogatásban részesülők száma összesen: ............ fő
+| b) az Szt. 44. § (1) bekezdés b) pont szerinti összegű támogatásban részesülők száma: | ............ fő |
 
-ebből
+| Összesen: | ............ fő |
 
-a) egyösszegű támogatásban részesülők száma: ............ fő
+| ebből az Szt. 3. § (3) bekezdése szerinti jogosulti körbe tartozó személyek száma: | ............ fő |
 
-b) az Szt. 55. § (6) bekezdése szerinti támogatásban részesülők száma: ............ fő
+| 5. A tárgyhónapra kifizetett ápolási díj összege: |
 
-5. A tárgyhónapra adósságcsökkentési támogatásra történt kifizetés: ........... Ft
+| a) az Szt. 44. § (1) bekezdés a) pont szerint kifizetett összeg: | ............ Ft |
 
-ebből
+| b) az Szt. 44. § (1) bekezdés b) pont szerint kifizetett összeg: | ............ Ft |
 
-a) egyösszegű támogatásban részesülőknek kifizetett összeg: ........... Ft
+| [a 4/a) és 4/b) pontokban szereplő személyek részére kifizetett támogatás |
 
-b) az Szt. 55. § (6) bekezdése szerinti támogatásban részesülőknek kifizetett összeg: ............ Ft
+| nyugdíjjárulékkal együttes összege] |
 
-6. A tárgyhavi kifizetés után járó térítés: [az 5. pont összegének 90%-a] ............ Ft
+| Összesen: | ............ Ft |
 
-7. Az adósságcsökkentési támogatásra igényelt előleg összege:
+| 6. A tárgyhónapra kifizetett nyugdíjbiztosítási járulék összege: |
 
-a) a tárgyhónapra járó térítés: [a 6. pont összegével egyezik meg] ............ Ft
+| a) az Szt. 44. § (1) bekezdés a) pont szerint kifizetett összeg után: | ........... Ft |
 
-b) a tárgyhónapra járó térítés és az előző havi előleg különbözete (előjel nélkül): ............ Ft
+| b) az Szt. 44. § (1) bekezdése b) pont szerint kifizetett összeg után: | ........... Ft |
 
-[a január havi igénylés kivételével a 7/a) pontban és az előző havi 7/c) pontban szereplő
+| Összesen: [a 4/a) illetőleg a 4/b) pontokban szereplő személyek ellátása után fizetett nyugdíjbiztosítási járulék összege] ........... Ft |
 
-összegek különbözete, abszolút értékben; januárban a 7/a) pontban szereplő összeget
+| 7. A tárgyhónapra történt kifizetés összesen: [az 5. és 6. pont „összesen”-jének összege] | ............ Ft |
 
-kell beírni]
+| ebből az Szt. 3. § (3) bekezdése szerinti személyekre tekintettel kifizetett összeg: | ............ Ft |
 
-c) az előleg összesen: ............ Ft
+| 8. A tárgyhavi kifizetés után járó térítés: [a 7. pont összegének 75%-a] | ............ Ft |
 
-[a 7/a) és a 7/b) pontok összege az alábbiak szerint:
+| 9. Az igényelt előleg összege: |
 
-– ha a tárgyhónapra járó térítés nagyobb, mint az előző havi előleg összege, akkor a
+| a) a tárgyhónapra járó térítés: [a 8. pont összegével egyezik meg] | ............ Ft |
 
-7/a) pont összegéhez hozzá kell adni a 7/b) pont összegét,
+| b) a tárgyhónapra járó térítés és az előző havi előleg különbözete (előjel nélkül): | ............ Ft |
 
-– ha a tárgyhónapra járó térítés kisebb, mint az előző havi előleg összege, akkor a
+| [a tárgyévi első igénylés kivételével a 9/a) pont és az előző havi 9/c) pontban szereplő összegek különbözete abszolút értékben; tárgyévi első igénylés esetén a 9/a) pont és a megelőző év december hónapjában a 9/a pontban szereplő összeg különbözete; amennyiben tárgyévi első igénylés esetén megelőző év decemberében kifizetésre nem került sor, a 9/a pontban szereplő összeget kell beírni] |
 
-7/a) pont összegéből ki kell vonni a 7/b) pont összegét.
+| c) az előleg összege: | ............ Ft |
 
-Január havi igényléskor a 7/a) pont összegének kétszeresét kell beírni.]
+| [a 9/a) és a 9/b) pontok összege az alábbiak szerint: |
 
-8. Tárgyhónapban adósságcsökkentési támogatásra történt visszafizetés: ......... Ft
+| – | ha a tárgyhónapra járó térítés nagyobb, mint az előző havi előleg összege, akkor |
 
-[a 3. § (1) bekezdése szerint visszafizetett összegnek és az önkormányzat által elismert, a
+| a 9/a) pont összegéhez hozzá kell adni a 9/b) pont összegét, |
 
-tárgyhónapot megelőzően tévesen igényelt térítésnek az együttes összege]
+| – | ha a tárgyhónapra járó térítés kisebb, mint az előző havi előleg összege, akkor |
 
-9. Az adósságcsökkentési támogatásra igényelt előleg nettó összege: ............ Ft
+| a | 9/a) pont összegéből ki kell vonni a 9/b) pont összegét. |
 
-[a 7/c) pont összegét csökkenteni kell a 8. pont összegével]
+| Amennyiben tárgyévi első igénylés esetén megelőző év decemberében nem került sor kifizetésre, igényléskor a 9/a) pont összegének kétszeresét kell beírni.] |
 
-10. A tárgyhónapban az Szt. 38. § (1) bekezdés b) pontja szerint lakásfenntartási támogatásban
+| 10. A tárgyhónapban történt visszafizetés: | ............ Ft |
 
-részesülők száma: ........... fő
+| [a 3. § (1) bekezdése szerint visszafizetett összegnek és az önkormányzat által elismert, a tárgyhónapot megelőzően tévesen igényelt térítésnek az együttes összege] |
 
-11. A tárgyhónapra lakásfenntartási támogatásra történt kifizetés: ........... Ft
+| 11. Az igényelt előleg nettó összege: | ............ Ft |
 
-12. A tárgyhavi kifizetés után járó térítés: [az 11. pont összegének 90%-a]
+| [a 9/c) pont összegét csökkenteni kell a 10. pont összegével] |
 
-13. Lakásfenntartási támogatásra igényelhető előleg összege:
+| 12. Az Szt. 43/A. § (4) bekezdése szerinti, a tárgyhónapot megelőző hónapban kifizetett szakértői |
 
-a) a tárgyhónapra járó térítés: [a 12. pont összegével egyezik meg] ......... Ft
+| díjak összege: [a kifizetett összeg 100%-a visszaigényelhető] | ............ Ft |
 
-b) a tárgyhónapra járó térítés és az előző havi előleg különbözete (előjel nélkül): ......... Ft
+| 13. Az igényelt előleg nettó összege és a kifizetett szakértői díj együttes összege: | ............ Ft |
 
-[a január havi igénylés kivételével a 13/a) pontban és az előző havi 13/c) pontban szereplő
+| [11. és 12. pont összege] |
 
-összegek különbözete, abszolút értékben; januárban a 13/a) pontban szereplő összeget
+| Dátum: ..................... év ....................... hó ...... nap |
 
-kell beírni]
+| P. H. |
 
-c) az előleg összesen: ......... Ft
+|  | ……............… | …....................…… |
 
-[a 13/a) és a 13/b) pontok összege az alábbiak szerint:
+|  | a jegyző aláírása | a polgármester aláírása |
 
-– ha a tárgyhónapra járó térítés nagyobb, mint az előző havi előleg összege, akkor a
+5. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^38]
 
-13/a) pont összegéhez hozzá kell adni a 13/b) pont összegét,
-
-– ha a tárgyhónapra járó térítés kisebb, mint az előző havi előleg összege, akkor a
-
-13/a) pont összegéből ki kell vonni a 13/b) pont összegét.
-
-Január havi igényléskor a 13/a) pont összegének kétszeresét kell beírni.]
-
-14. A tárgyhónapban lakásfenntartási támogatásra történt visszafizetés: ............ Ft
-
-[a 3. § (1) bekezdése szerint visszafizetett összegnek és az önkormányzat által elismert,
-
-a tárgyhónapot megelőzően tévesen igényelt térítésnek az együttes összege]
-
-15. A lakásfenntartási támogatásra igényelt előleg nettó összege: ............ Ft
-
-[a 13/c) pont összegét csökkenteni kell a 14. pont összegével]
-
-16. Az Szt. 55/A. § (3) bekezdése szerint az előrefizetős fogyasztásmérők felszerelésének
-
-a tárgyhónapot megelőző hónapban az önkormányzat által kifizetett költsége: ........... Ft
-
-17. A kifizetés után járó térítés (a 16. pontban szereplő összeg 90%-a): ........... Ft
-
-18. Az Szt. 55/A. § (3) bekezdése szerinti támogatásban részesülők száma, akik esetében
-
-a 16. pont szerint történt a kifizetés: ........... fő
-
-19. A tárgyhónapban történt visszafizetés: ......... Ft
-
-[a 3. § (1) bekezdése szerint visszafizetett összegnek és az önkormányzat által elismert, a
-
-tárgyhónapot megelőzően tévesen igényelt térítésnek az együttes összege]
-
-20. Az előrefizetős fogyasztásmérők felszerelési költségének megtérítése:
-
-[a 17. pont összegét csökkenteni kell a 19. pont összegével] ........... Ft
-
-21. Az igényelt előleg és térítés összesen: (a 9. és a 15., továbbá a 20. pontban
-
-szereplő összegek együttesen) ........... Ft
-
-Dátum: ..................... év ....................... hó ...... nap
-
-P. H.
-
-…...............…… ….................................……
-
-a jegyző aláírása a polgármester aláírása
-
-[^35]: Az 5. számú melléklet címe a 9/2007. (II. 6.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^38]: Az 5. számú melléklet a 331/2011. (XII. 29.) Korm. rendelet 4. § e) pontjával megállapított szöveg.
