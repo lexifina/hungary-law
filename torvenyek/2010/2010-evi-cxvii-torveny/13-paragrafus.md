@@ -28,7 +28,9 @@ l) a 3. § és a 7. § szerinti bírság megállapításával, mérséklésével
 
 m) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
 
-n) a bioüzemanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállításával, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét.
+n) a bioüzemanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállításával, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét,
+
+o) az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátásról szóló nyilvántartás, jelentéstétel és ezek elmulasztása esetén fizetendő bírság kiszabásának és megfizetésének részletes szabályait.
 
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy
 

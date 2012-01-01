@@ -1,6 +1,6 @@
 ## 2. A megújuló energia közlekedési célú felhasználásának növelése
 
-2. § (1) A Magyar Köztársaság területén a megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált részaránya a közlekedési célra felhasznált végső energiafogyasztás legalább 10%-a, amely részarányt 2020-tól kell teljesíteni.
+2. § (1) Magyarország területén a megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált részaránya a közlekedési célra felhasznált végső energiafogyasztás legalább 10%-a, amely részarányt 2020-tól kell teljesíteni.
 
 (2) Az (1) bekezdés szerinti részarányt a közlekedésben felhasznált, megújuló energiaforrásokból előállított energia mennyiségének és a közlekedésben felhasznált energia teljes mennyiségének a hányadosaként kell meghatározni, ahol
 

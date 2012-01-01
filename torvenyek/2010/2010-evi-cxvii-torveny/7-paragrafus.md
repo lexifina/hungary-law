@@ -10,7 +10,7 @@ b) az előírt határidőre nem nyújtotta be, vagy nem a meghatározott tartalo
 
 a) az általa beszerzett bioüzemanyag fenntarthatósági követelményeknek való megfelelésére vonatkozóan számára valótlan igazolást állított ki az, akitől a bioüzemanyagot beszerezte, vagy
 
-b) a fenntarthatósági követelményeknek való megfelelésről szóló igazolás kiállítója az igazolással összefüggő feladatainak nem tett eleget és emiatt az üzemanyag-forgalmazó nem igazolta, hogy a forgalmazott bioüzemanyag előállítása fenntartható módon történt,
+b)
 
 a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti esetben a valótlan tartalmú igazolás miatt az igazolást kiállítóra kiszabható, a Kormány rendeletében meghatározott bírság alapjával vagy a b) pont szerinti esetben kiszabható bírságalap azon részével, mely az igazolás hiánya miatt keletkezett.
 

@@ -4,7 +4,7 @@ a) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illet
 
 b) a 2009/30/EK irányelv 1. cikke 2. pont a) alpont ii) 8. és 9. pontjának,
 
-c) a 2009/30/EK irányelv 1. cikk 5. pont (2) alpontjának,
+c) a 2009/30/EK irányelv 1. cikk 5. pontjának,
 
 d) a 2009/28/EK irányelv 2. cikk i) pontjának,
 
