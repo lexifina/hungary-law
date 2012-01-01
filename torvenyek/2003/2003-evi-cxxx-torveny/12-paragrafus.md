@@ -1,4 +1,4 @@
-12. § (1) A Fővárosi Bíróság elrendeli a keresett személy átadási letartóztatását és átadását (egyszerűsített átadás), ha
+12. § (1) A Fővárosi Törvényszék elrendeli a keresett személy átadási letartóztatását és átadását (egyszerűsített átadás), ha
 
 a) az európai elfogatóparancs végrehajtásának és az átadásnak a feltételei fennállnak, és
 

@@ -14,6 +14,6 @@ b) amelyeket a keresett személy a bűncselekmény elkövetése során vagy azza
 
 (6) A büntetőeljárás befejezését követően haladéktalanul és díjmentesen vissza kell szolgáltatni azokat az átadott tárgyakat, amelyekre az azokat átadó tagállamnak vagy harmadik személynek szerzett joga fennmaradt.
 
-(7) Az európai elfogatóparancs hatálya kiterjed a Magyar Köztársaság területére is.
+(7) Az európai elfogatóparancs hatálya kiterjed Magyarország területére is.
 
 (8) Az európai elfogatóparancsot haladéktalanul vissza kell vonni, ha a kibocsátásának oka megszűnt. Az európai elfogatóparancs visszavonásáról szóló végzést a kibocsátó haladéktalanul megküldi a Nemzetközi Bűnügyi Együttműködési Központnak. Az európai elfogatóparancs visszavonásáról szóló végzést a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye – ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye – szerint illetékes rendőrkapitányságnak is meg kell küldeni.

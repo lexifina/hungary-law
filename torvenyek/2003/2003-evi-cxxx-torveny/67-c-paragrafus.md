@@ -4,7 +4,7 @@ a) a 67/B. § (2)–(3) bekezdésében említett esetben a határozat alapjául 
 
 b) a magyar törvény szerint a határozat alapjául szolgáló bűncselekmény büntethetősége vagy a kiszabott büntetés elévült;
 
-c) a Magyar Köztársaságban, illetőleg egy tagállamban a terhelt ellen a határozat kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján az elkobzást, a vagyonelkobzást, illetve az ennek megfelelő büntetést vagy intézkedést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre;
+c) Magyarországon, illetőleg egy tagállamban a terhelt ellen a határozat kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján az elkobzást, a vagyonelkobzást, illetve az ennek megfelelő büntetést vagy intézkedést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre;
 
 d) a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen elítélték, feltéve, hogy az elkobzást, a vagyonelkobzást, illetve az ennek megfelelő büntetést vagy intézkedést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre, illetőleg a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették;
 

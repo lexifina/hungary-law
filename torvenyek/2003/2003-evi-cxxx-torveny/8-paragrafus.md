@@ -4,4 +4,4 @@
 
 (3) Ha egy európai elfogatóparancs és egy harmadik ország kiadatási kérelme ütközik, az eljárásra a nemzetközi bűnügyi jogsegélyről szóló törvény rendelkezései az irányadóak.
 
-(4) E § nem érinti a Magyar Köztársaságnak a Nemzetközi Büntetőbíróság Statútumából eredő kötelezettségeit.
+(4) E § nem érinti Magyarországnak a Nemzetközi Büntetőbíróság Statútumából eredő kötelezettségeit.

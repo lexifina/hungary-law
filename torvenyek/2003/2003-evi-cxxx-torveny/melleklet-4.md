@@ -1,18 +1,36 @@
 4. számú melléklet a 2003. évi CXXX. törvényhez
 
-E törvény 67/L. §-a (3) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
+E törvény 67/L. § (4) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
 |
 
-A kerethatározatban megjelölt
+|
 
-bűncselekményfajták
+A
 
 |
 
-Az egyes bűncselekményfajtákhoz tartozó
+B
 
-Btk. tényállások
+|
+
+C
+
+|
+
+1.
+
+|
+
+A kerethatározatban megjelölt bűncselekményfajták
+
+|
+
+Az egyes bűncselekményfajtákhoz tartozó Btk. tényállások
+
+|
+
+2.
 
 |
 
@@ -28,11 +46,19 @@ bűnszervezetben részvétel bűntette
 
 |
 
+3.
+
+|
+
 bűnszervezetben elkövetett bűncselekmények
 
 |
 
 137. § 8. pont
+
+|
+
+4.
 
 |
 
@@ -48,6 +74,10 @@ terrorcselekmény bűntette
 
 |
 
+5.
+
+|
+
 emberkereskedelem
 
 |
@@ -60,6 +90,10 @@ emberkereskedelem bűntette
 
 |
 
+6.
+
+|
+
 vagyoni haszonszerzés végett elkövetett embercsempészés bűntette
 
 |
@@ -68,11 +102,19 @@ vagyoni haszonszerzés végett elkövetett embercsempészés bűntette
 
 |
 
+7.
+
+|
+
 üzletszerűen elkövetett embercsempészés bűntette
 
 |
 
 218. § (3) bek. c) pont
+
+|
+
+8.
 
 |
 
@@ -88,11 +130,19 @@ erőszakos közösülés bűntette
 
 |
 
+9.
+
+|
+
 szemérem elleni erőszak bűntette
 
 |
 
 198. §
+
+|
+
+10.
 
 |
 
@@ -104,11 +154,19 @@ megrontás bűntette
 
 |
 
+11.
+
+|
+
 tiltott pornográf felvétellel visszaélés bűntette
 
 |
 
 204. §
+
+|
+
+12.
 
 |
 
@@ -120,11 +178,19 @@ kiskorút foglalkoztató bordélyház fenntartásával elkövetett üzletszerű 
 
 |
 
+13.
+
+|
+
 tizennyolcadik életévét be nem töltött személy üzletszerű kéjelgésre felhívásával elkövetett kerítés bűntette
 
 |
 
 207. § (3) bek. a) pont
+
+|
+
+14.
 
 |
 
@@ -134,17 +200,17 @@ kábítószerek és pszichotróp anyagok tiltott kereskedelme
 
 kábítószerrel visszaélés egyes esetei:
 
-|
+üzletszerűen vagy jelentős mennyiségű kábítószerre elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz vagy az ország területén átvisz)
 
 |
 
-üzletszerűen vagy jelentős mennyiségű kábítószerre elkövetett kábítószerrel visszaélés bűntette
+282. § (2) bek. a) pont,
 
-(országba behoz, onnan kivisz vagy az ország területén átvisz)
+(5) bek. b) pont, (2) bek. b) pont
 
 |
 
-282. § (2) bek, a) pont, (5) bek. b) pont, (2) bek. b) pont
+15.
 
 |
 
@@ -156,6 +222,10 @@ kábítószer előállításához szükséges anyagra elkövetett kábítószerr
 
 |
 
+16.
+
+|
+
 anyagi eszközök szolgáltatásával elkövetett kábítószerrel visszaélés bűntette
 
 |
@@ -164,13 +234,19 @@ anyagi eszközök szolgáltatásával elkövetett kábítószerrel visszaélés 
 
 |
 
-kábítószerrel visszaélés bűntette
+17.
 
-(kínál, átad, forgalomba hoz, kereskedik)
+|
+
+kábítószerrel visszaélés bűntette (kínál, átad, forgalomba hoz, kereskedik)
 
 |
 
 282/A. §
+
+|
+
+18.
 
 |
 
@@ -184,6 +260,10 @@ kiskorú felhasználásával elkövetett kábítószerrel visszaélés bűntette
 
 |
 
+19.
+
+|
+
 kábítószerfüggő személy által elkövetett kábítószerrel visszaélés bűntette
 
 |
@@ -192,13 +272,19 @@ kábítószerfüggő személy által elkövetett kábítószerrel visszaélés b
 
 |
 
-kábítószer előállításához használt anyaggal visszaélés bűntette
+20.
 
-(forgalomba hoz, kereskedik, országba behoz, onnan kivisz vagy az ország területén átvisz, átad)
+|
+
+kábítószer előállításához használt anyaggal visszaélés bűntette (forgalomba hoz, kereskedik, országba behoz, onnan kivisz vagy az ország területén átvisz, átad)
 
 |
 
 283/A. § (1) bek.
+
+|
+
+21.
 
 |
 
@@ -214,11 +300,19 @@ nemzetközi gazdasági tilalom katonai célú felhasználásra szánt termék ke
 
 |
 
+22.
+
+|
+
 robbanóanyaggal vagy robbantószerrel visszaélés bűntette
 
 |
 
 263. §
+
+|
+
+23.
 
 |
 
@@ -230,11 +324,19 @@ lőfegyverrel vagy lőszerrel visszaélés bűntette
 
 |
 
+24.
+
+|
+
 nemzetközi szerződés által tiltott fegyverrel visszaélés bűntette
 
 |
 
 264/C. §
+
+|
+
+25.
 
 |
 
@@ -250,11 +352,19 @@ vesztegetés vétsége és bűntette
 
 |
 
+26.
+
+|
+
 befolyással üzérkedés bűntette
 
 |
 
 256. §
+
+|
+
+27.
 
 |
 
@@ -266,6 +376,10 @@ nemzetközi kapcsolatban elkövetett vesztegetés vétsége és bűntette
 
 |
 
+28.
+
+|
+
 nemzetközi kapcsolatban befolyással üzérkedés bűntette
 
 |
@@ -274,17 +388,29 @@ nemzetközi kapcsolatban befolyással üzérkedés bűntette
 
 |
 
+29.
+
+|
+
 csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalásokat is
 
 |
 
-az Európai Közösségek pénzügyi
+költségvetési csalás bűntette,
 
-érdekeinek megsértése bűntette
+költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása
+
+ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűntettét
 
 |
 
-314. §
+310. § (2)–(7) bek.
+
+310/A. §
+
+|
+
+30.
 
 |
 
@@ -292,11 +418,15 @@ bűncselekményekből származó jövedelmek tisztára mosása
 
 |
 
-bűnpártolás bűntette (amennyiben a bűncselekményből származó előny biztosításában való közreműködéssel követik el)
+bűnpártolás bűntette, amennyiben a bűncselekményből származó előny biztosításában való közreműködéssel követik el
 
 |
 
 244. § (2) bek.
+
+|
+
+31.
 
 |
 
@@ -308,6 +438,10 @@ pénzmosás vétsége és bűntette
 
 |
 
+32.
+
+|
+
 pénzmosással kapcsolatos bejelentési kötelezettség elmulasztásának vétsége
 
 |
@@ -316,11 +450,19 @@ pénzmosással kapcsolatos bejelentési kötelezettség elmulasztásának véts�
 
 |
 
+33.
+
+|
+
 orgazdaság vétsége és bűntette
 
 |
 
 326. § bek.
+
+|
+
+34.
 
 |
 
@@ -336,6 +478,10 @@ pénzhamisítás vétsége és bűntette
 
 |
 
+35.
+
+|
+
 pénzhamisítás elősegítésének vétsége
 
 |
@@ -344,11 +490,19 @@ pénzhamisítás elősegítésének vétsége
 
 |
 
+36.
+
+|
+
 hamis pénz kiadásának vétsége és bűntette
 
 |
 
 306. §
+
+|
+
+37.
 
 |
 
@@ -364,11 +518,19 @@ számítástechnikai rendszer és adatok elleni vétség és bűntett
 
 |
 
+38.
+
+|
+
 számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszásának vétsége
 
 |
 
 300/E. §
+
+|
+
+39.
 
 |
 
@@ -384,6 +546,10 @@ környezetkárosítás vétsége és bűntette
 
 |
 
+40.
+
+|
+
 természetkárosítás vétsége és bűntette
 
 |
@@ -392,11 +558,19 @@ természetkárosítás vétsége és bűntette
 
 |
 
+41.
+
+|
+
 hulladékgazdálkodás rendje megsértésének vétsége és bűntette
 
 |
 
 281/A. §
+
+|
+
+42.
 
 |
 
@@ -412,6 +586,10 @@ embercsempészés vétsége és bűntette
 
 |
 
+43.
+
+|
+
 szándékos emberölés, súlyos testi sértés
 
 |
@@ -424,11 +602,19 @@ emberölés bűntette
 
 |
 
+44.
+
+|
+
 erős felindulásban elkövetett emberölés bűntette
 
 |
 
 167. §
+
+|
+
+45.
 
 |
 
@@ -440,11 +626,19 @@ testi sértés bűntette
 
 |
 
+46.
+
+|
+
 foglalkozás körében elkövetett veszélyeztetés bűntette az (1) bek. szerinti eredményt kivéve
 
 |
 
 171. § (3) bek.
+
+|
+
+47.
 
 |
 
@@ -456,11 +650,19 @@ közlekedés biztonsága elleni bűntett
 
 |
 
+48.
+
+|
+
 vasúti, légi vagy vízi közlekedés veszélyeztetése bűntette
 
 |
 
 185. § (2) bek.
+
+|
+
+49.
 
 |
 
@@ -472,11 +674,19 @@ közúti veszélyeztetés bűntette
 
 |
 
+50.
+
+|
+
 ittas vagy bódult állapotban járművezetés bűntette
 
 |
 
 188. § (2)–(3) bek.
+
+|
+
+51.
 
 |
 
@@ -492,6 +702,10 @@ emberi test tiltott felhasználása vétsége és bűntette
 
 |
 
+52.
+
+|
+
 emberrablás, személyi szabadságtól való jogellenes megfosztás és túszejtés
 
 |
@@ -504,11 +718,19 @@ kényszerítés bűntette
 
 |
 
+53.
+
+|
+
 személyi szabadság megsértése bűntette
 
 |
 
 175. §
+
+|
+
+54.
 
 |
 
@@ -520,6 +742,10 @@ emberrablás bűntette
 
 |
 
+55.
+
+|
+
 jogellenes fogvatartás bűntette
 
 |
@@ -528,15 +754,23 @@ jogellenes fogvatartás bűntette
 
 |
 
+56.
+
+|
+
 rasszizmus és idegengyűlölet
 
 |
 
-lelkiismeret és vallásszabadság megsértésének bűntette
+lelkiismereti és vallásszabadság megsértésének bűntette
 
 |
 
 174/A. §
+
+|
+
+57.
 
 |
 
@@ -548,11 +782,19 @@ nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak bűntette
 
 |
 
+58.
+
+|
+
 közösség elleni izgatás bűntette
 
 |
 
 269. §
+
+|
+
+59.
 
 |
 
@@ -564,9 +806,13 @@ rablás bűntette
 
 |
 
-321. § (3) bek. a) és c) pont
+321. § (3) bek. a) és c) pont és
 
-és (4) bek. b)–c) pont
+(4) bek. b)–c) pont
+
+|
+
+60.
 
 |
 
@@ -575,6 +821,10 @@ kifosztás bűntette
 |
 
 322. § (2) bek. b) pont
+
+|
+
+61.
 
 |
 
@@ -590,11 +840,19 @@ orgazdaság egyes esetei
 
 |
 
+62.
+
+|
+
 kulturális javakkal visszaélés bűntette
 
 |
 
 216/B. §
+
+|
+
+63.
 
 |
 
@@ -610,7 +868,13 @@ csalás vétsége és bűntette
 
 |
 
-adócsalás vétsége és bűntette
+64.
+
+|
+
+költségvetési csalás vétsége és bűntette,
+
+ideértve a 2011. december 31-ig hatályban volt adócsalás vétségét és bűntettét, valamint a munkáltatással összefüggésben elkövetett adócsalás vétségét és bűntettét
 
 |
 
@@ -618,11 +882,19 @@ adócsalás vétsége és bűntette
 
 |
 
-munkáltatással összefüggésben elkövetett adócsalás vétsége és bűntette
+65.
+
+|
+
+költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása
 
 |
 
 310/A. §
+
+|
+
+66.
 
 |
 
@@ -638,11 +910,19 @@ zsarolás bűntette
 
 |
 
+67.
+
+|
+
 kényszerítés bűntette
 
 |
 
 174. §
+
+|
+
+68.
 
 |
 
@@ -658,11 +938,19 @@ bitorlás bűntette
 
 |
 
+69.
+
+|
+
 szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette
 
 |
 
 329/A. §
+
+|
+
+70.
 
 |
 
@@ -674,11 +962,19 @@ szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki
 
 |
 
+71.
+
+|
+
 jogkezelési adat meghamisítása vétsége
 
 |
 
 329/C. §
+
+|
+
+72.
 
 |
 
@@ -690,9 +986,11 @@ iparjogvédelmi jogok megsértésének vétsége és bűntette
 
 |
 
-hivatalos okmányok hamisítása
+73.
 
-és azzal való kereskedés
+|
+
+hivatalos okmányok hamisítása és azzal való kereskedés
 
 |
 
@@ -704,11 +1002,19 @@ közokirat-hamisítás vétsége és bűntette
 
 |
 
+74.
+
+|
+
 hivatalos személy által elkövetett közokirat-hamisítás bűntette
 
 |
 
 275. §
+
+|
+
+75.
 
 |
 
@@ -720,6 +1026,10 @@ visszaélés okirattal vétsége
 
 |
 
+76.
+
+|
+
 egyedi azonosító jel meghamisításának bűntette
 
 |
@@ -728,11 +1038,19 @@ egyedi azonosító jel meghamisításának bűntette
 
 |
 
+77.
+
+|
+
 jövedékkel visszaélés elősegítésének vétsége és bűntette (előállít, forgalomba hoz)
 
 |
 
 311/B. §
+
+|
+
+78.
 
 |
 
@@ -748,11 +1066,19 @@ pénzhamisítás bűntette és vétsége
 
 |
 
+79.
+
+|
+
 készpénz-helyettesítő fizetési eszköz hamisításának vétsége
 
 |
 
 313/B. §
+
+|
+
+80.
 
 |
 
@@ -764,11 +1090,19 @@ készpénz-helyettesítő fizetési eszközzel visszaélés vétsége és bűnte
 
 |
 
+81.
+
+|
+
 hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme
 
 |
 
 |
+
+|
+
+82.
 
 |
 
@@ -784,15 +1118,25 @@ radioaktív anyaggal visszaélés bűntette
 
 |
 
+83.
+
+|
+
 lopott gépjárművek kereskedelme
 
 |
 
-csempészet bűntette
+költségvetési csalás bűntette,
+
+ideértve a 2011. december 31-ig hatályban volt csempészet bűntettét
 
 |
 
-312. § (2)–(4) bek.
+310. § (2)–(7) bek.
+
+|
+
+84.
 
 |
 
@@ -800,7 +1144,11 @@ orgazdaság bűntette
 
 |
 
-326. § a (2) bek. kivételével
+326. § (3)–(6) bek.
+
+|
+
+85.
 
 |
 
@@ -816,11 +1164,19 @@ erőszakos közösülés bűntette
 
 |
 
+86.
+
+|
+
 szemérem elleni erőszak bűntette
 
 |
 
 198. §
+
+|
+
+87.
 
 |
 
@@ -836,11 +1192,19 @@ közveszélyokozás vétsége és bűntette
 
 |
 
+88.
+
+|
+
 robbanóanyag/robbantószer felhasználásával elkövetett rongálás bűntette
 
 |
 
 324. § (4) bek. c) pont
+
+|
+
+89.
 
 |
 
@@ -856,6 +1220,10 @@ a Btk. XI. fejezetében felsorolt bűncselekmények
 
 |
 
+90.
+
+|
+
 légi vagy vízi jármű jogellenes hatalomba kerítése
 
 |
@@ -865,6 +1233,10 @@ légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges árusz
 |
 
 262. §
+
+|
+
+91.
 
 |
 
@@ -880,11 +1252,19 @@ rombolás bűntette
 
 |
 
+92.
+
+|
+
 közveszélyokozás bűntette
 
 |
 
 259. § (1)–(3) bek.
+
+|
+
+93.
 
 |
 
@@ -896,9 +1276,11 @@ közérdekű üzem működése megzavarásának bűntette
 
 |
 
-olyan magatartás, amely sérti a közúti közlekedés szabályait, beleértve a
+94.
 
-vezetési- és pihenőidőre, valamint a veszélyes anyagokra vonatkozó rendelkezések megszegését
+|
+
+olyan magatartás, amely sérti a közúti közlekedés szabályait, beleértve a vezetési- és pihenőidőre, valamint a veszélyes anyagokra vonatkozó rendelkezések megszegését
 
 |
 
@@ -910,15 +1292,25 @@ Btk. XIII. Fejezet
 
 |
 
+95.
+
+|
+
 csempészet
 
 |
 
-csempészet vétsége és bűntette
+költségvetési csalás vétsége és bűntette
+
+ideértve a 2011. december 31-ig hatályban volt csempészet vétségét és bűntettét
 
 |
 
-312. §
+310. §
+
+|
+
+96.
 
 |
 
@@ -934,6 +1326,10 @@ szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűn
 
 |
 
+97.
+
+|
+
 személy elleni erőszakkal fenyegetés és személy elleni erőszakos cselekmények, beleértve a sporteseményeken elkövetett erőszakos cselekményeket
 
 |
@@ -946,9 +1342,17 @@ rendbontás vétsége és bűntette
 
 |
 
+98.
+
+|
+
 szándékos emberölés és súlyos testi sértés sorában az e mellékletben felsorolt bűncselekmények
 
 |
+
+|
+
+99.
 
 |
 
@@ -956,11 +1360,13 @@ bűncselekménnyel okozott kár
 
 |
 
-azon bűncselekmények, amelyek tényállási elemeiben az érték, kár,
-
-vagyoni hátrány, illetőleg a bevétel-csökkenés szerepel
+azon bűncselekmények, amelyek tényállási elemeiben az érték, kár, vagyoni hátrány, illetőleg a bevétel-csökkenés szerepel
 
 |
+
+|
+
+100.
 
 |
 
@@ -976,6 +1382,10 @@ lopás vétsége és bűntette
 
 |
 
+101.
+
+|
+
 az EK-Szerződés alapján vagy az EU-Szerződés VI. címe alapján elfogadott jogi aktusokból eredő kötelezettségek végrehajtása céljából a kibocsátó állam által megállapított bűncselekmények
 
 |
@@ -988,11 +1398,19 @@ jogellenes belföldi tartózkodás elősegítése
 
 |
 
+102.
+
+|
+
 nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény
 
 |
 
 249/B. §
+
+|
+
+103.
 
 |
 
@@ -1004,11 +1422,19 @@ nemzetközi gazdasági tilalom megszegése
 
 |
 
+104.
+
+|
+
 haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés
 
 |
 
 263/B. §
+
+|
+
+105.
 
 |
 
@@ -1020,21 +1446,39 @@ természetkárosítás
 
 |
 
-csempészet
+106.
 
 |
 
-312. §
+költségvetési csalás vétsége és bűntette,
+
+ideértve a 2011. december 31-ig hatályban volt csempészet vétségét és bűntettét
 
 |
 
-az Európai Közösségek pénzügyi
-
-érdekeinek megsértése
+310. §
 
 |
 
-314. §
+107.
+
+|
+
+költségvetési csalás vétsége és bűntette,
+
+költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztásának bűntette,
+
+ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűncselekményét
+
+|
+
+310. §
+
+310/A. §
+
+|
+
+108.
 
 |
 
@@ -1046,11 +1490,19 @@ pénzmosás vétsége és bűntette
 
 |
 
+109.
+
+|
+
 pénzmosással kapcsolatos bejelentési kötelezettség elmulasztásának vétsége
 
 |
 
 303/B. §
+
+|
+
+110.
 
 |
 

@@ -22,7 +22,7 @@ b) a határozata alapján elkobzás alá eső dolog, illetve vagyonelkobzás al�
 
 c) a határozata alapján elkobzás alá eső dolog, illetve vagyonelkobzás alá eső vagyontárgy több meghatározott tagállam egyikében található;
 
-d) a határozata alapján pénzösszegben kifejezett vagyonelkobzás teljes összegének fedezésére a Magyar Köztársaság és bármelyik további tagállam területén található vagyon értéke nem elegendő.
+d) a határozata alapján pénzösszegben kifejezett vagyonelkobzás teljes összegének fedezésére Magyarország és bármelyik további tagállam területén található vagyon értéke nem elegendő.
 
 (8) Ha a bíróság a tanúsítványt több tagállamnak küldi meg, akkor a tanúsítványban ennek okát megjelöli.
 

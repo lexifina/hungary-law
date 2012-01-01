@@ -146,7 +146,7 @@ Név:
 
 Jogi személy formája:
 
-Bejegyzési szám (amennyiben rendelkezésre áll)64:
+Bejegyzési szám (amennyiben rendelkezésre áll)181:
 
 Bejegyzett székhely (amennyiben rendelkezésre áll)1:
 
@@ -168,9 +168,9 @@ A jogi személy jövedelemforrásának (-forrásainak) leírása:
 
 A jogi személy jövedelemforrásának (-forrásainak) fellelhetősége:
 
-* A magyar hatóságok a személyi azonosító szám, társadalombiztosítási azonosító szám külföldre továbbítására a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 5. §-ának (2) bekezdése alapján csak akkor jogosultak, ha az adatkezelés a cél megvalósulásához elengedhetetlen.
+* A magyar hatóságok a személyi azonosító szám, társadalombiztosítási azonosító szám külföldre továbbítására csak akkor jogosultak, ha az adatkezelés a cél megvalósulásához elengedhetetlen.
 
-64 Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert annak a jogi személynek a bejegyzett székhelye, amellyel szemben a határozatot hozták, ebben az államban található, a bejegyzési számot és a bejegyzett székhelyet fel kell tüntetni.
+181 Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert annak a jogi személynek a bejegyzett székhelye, amellyel szemben a határozatot hozták, ebben az államban található, a bejegyzési számot és a bejegyzett székhelyet fel kell tüntetni.
 
 |
 

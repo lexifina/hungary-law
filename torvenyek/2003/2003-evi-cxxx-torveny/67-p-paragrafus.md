@@ -10,4 +10,4 @@
 
 (6) A jogi személlyel szemben alkalmazott pénzbírság esetén a 2001. évi CIV. törvény 6. §-ában meghatározott korlátozás nem alkalmazható.
 
-(7) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a megyei bíróság tanácsülésen bírál el.
+(7) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a törvényszék tanácsülésen bírál el.

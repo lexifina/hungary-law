@@ -6,7 +6,7 @@
 
 (3) A tagállami igazságügyi vagy nyomozó hatóságtól érkező megkeresés akkor teljesíthető, ha a tagállami igazságügyi vagy nyomozó hatóság a saját államának joga szerinti engedéllyel és a titkos adatszerzést végző ügyész vagy nyomozó hatóság a büntetőeljárásról szóló törvényben meghatározott bírói engedéllyel rendelkezik.
 
-(4) A tagállami igazságügyi vagy nyomozó hatóságtól érkezett megkeresés teljesítése során a titkos adatszerzést a Fővárosi Bíróság elnöke által e feladatra kijelölt bíró engedélyezi.
+(4) A tagállami igazságügyi vagy nyomozó hatóságtól érkezett megkeresés teljesítése során a titkos adatszerzést a Fővárosi Törvényszék elnöke által e feladatra kijelölt bíró engedélyezi.
 
 (5) A magyar nyomozó hatóság a titkos adatszerzés lefolytatásáról folyamatosan tájékoztatja az ügyészt, és a titkos adatszerzés végrehajtásáról készített jelentést az ügyésznek megküldi.
 

@@ -2,7 +2,7 @@
 
 a) a 68. § (6) bekezdésében meghatározott esetben, ha a határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 
-b) ha a Magyar Köztársaságban, vagy egy másik tagállamban a határozat alapjául szolgáló cselekmény miatt korábban már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a végleges tulajdonvesztést jelentő szankciót végrehajtották, annak végrehajtása folyamatban van, illetőleg a jogerős határozatot hozó tagállam joga szerint az nem hajtható végre;
+b) ha Magyarországon, vagy egy másik tagállamban a határozat alapjául szolgáló cselekmény miatt korábban már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a végleges tulajdonvesztést jelentő szankciót végrehajtották, annak végrehajtása folyamatban van, illetőleg a jogerős határozatot hozó tagállam joga szerint az nem hajtható végre;
 
 c) ha a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen elítélték, feltéve, hogy a végleges tulajdonvesztést jelentő szankciót már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre, illetőleg a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették;
 
@@ -18,7 +18,7 @@ h) ha a határozat alapjául szolgáló bűncselekmény magyar joghatóság alá
 
 (2) A vagyonelkobzást elrendelő tagállami határozat végrehajtását meg kell tagadni, ha a tagállami bíróság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetőleg a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges. A hiánypótlásra a 67/D. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen kell alkalmazni.
 
-(3) A vagyonelkobzást elrendelő tagállami határozat végrehajtása megtagadható, ha a megkeresés olyan bűncselekményre vonatkozik, amelyet egészben vagy részben a Magyar Köztársaság területén követtek el.
+(3) A vagyonelkobzást elrendelő tagállami határozat végrehajtása megtagadható, ha a megkeresés olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
 
 (4) A vagyonelkobzást elrendelő tagállami határozat végrehajtásának megtagadásáról a bíróság határozatot hoz, amelyet a kibocsátó tagállami bíróság részére megküld. A határozat indokolásában számot kell adni a megtagadás okáról.
 

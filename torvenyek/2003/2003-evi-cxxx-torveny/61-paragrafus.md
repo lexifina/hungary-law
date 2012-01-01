@@ -12,4 +12,4 @@ d) a fedett nyomozó lelepleződése esetén alkalmazandó intézkedést,
 
 e) a fedett nyomozó által működési körében okozott károkért való felelősségének szabályairól szóló tájékoztatást.
 
-(3) Az 58. §-t kell megfelelően alkalmazni, ha a tagállami fedett nyomozó a Magyar Köztársaság területén jár el.
+(3) Az 58. §-t kell megfelelően alkalmazni, ha a tagállami fedett nyomozó Magyarország területén jár el.

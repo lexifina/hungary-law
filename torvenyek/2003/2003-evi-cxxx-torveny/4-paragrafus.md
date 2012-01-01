@@ -10,7 +10,7 @@ d) ha egy tagállamban a keresett személy ellen az európai elfogatóparancs ki
 
 e) ha a keresett személyt egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették, vagy jogerősen elítélték, feltéve, hogy a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre;
 
-f) ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a keresett személy ellen a Magyar Köztársaság területén büntetőeljárás van folyamatban;
+f) ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a keresett személy ellen Magyarország területén büntetőeljárás van folyamatban;
 
 g) ha a magyar igazságügyi hatóság (bíróság, ügyész) vagy nyomozó hatóság az európai elfogatóparancs alapjául szolgáló bűncselekmény miatt a feljelentést elutasította, vagy a nyomozást, illetve az eljárást megszüntette;
 

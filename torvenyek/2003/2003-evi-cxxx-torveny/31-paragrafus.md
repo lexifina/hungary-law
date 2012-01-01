@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés nem alkalmazható az alábbi esetekben:
 
-a) ha a személy a végleges szabadon bocsátását követő negyvenöt napon belül nem hagyja el – bár erre lehetősége lett volna – a Magyar Köztársaság területét, vagy elhagyása után ide visszatér;
+a) ha a személy a végleges szabadon bocsátását követő negyvenöt napon belül nem hagyja el – bár erre lehetősége lett volna – Magyarország területét, vagy elhagyása után ide visszatér;
 
 b) ha a bűncselekmény szabadságvesztés büntetéssel nem büntethető, vagy szabadságelvonással járó intézkedéssel nem fenyegetett;
 

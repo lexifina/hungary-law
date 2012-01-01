@@ -1,10 +1,10 @@
-67/A. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködés során a Magyar Köztársaság igazságügyi hatósága közvetlenül végrehajtja egy tagállami igazságügyi hatóság által
+67/A. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködés során Magyarország igazságügyi hatósága közvetlenül végrehajtja egy tagállami igazságügyi hatóság által
 
 a) a bizonyítási eszközök felderítése, összegyűjtése, biztosítása vagy felhasználása végett, illetőleg
 
 b) az elkobzás, illetőleg a vagyonelkobzás biztosítása érdekében
 
-kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti formanyomtatvány tanúsítvánnyal (a továbbiakban e fejezet alkalmazásában: tanúsítvány) együtt, magyar nyelven a magyar igazságügyi hatóságnak megküldték, és a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon a Magyar Köztársaság területén található.
+kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti formanyomtatvány tanúsítvánnyal (a továbbiakban e fejezet alkalmazásában: tanúsítvány) együtt, magyar nyelven a magyar igazságügyi hatóságnak megküldték, és a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon Magyarország területén található.
 
 (2) A tagállami igazságügyi hatóság által kibocsátott határozatot a magyar jog szerint az ilyen határozatot kibocsátani (kényszerintézkedést elrendelni) és a végrehajtás iránt intézkedni jogosult magyar igazságügyi hatóság hajtja végre.
 

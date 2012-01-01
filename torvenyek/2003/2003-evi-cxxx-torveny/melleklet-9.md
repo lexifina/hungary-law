@@ -212,77 +212,225 @@ csalással kapcsolatos bűncselekmények
 
 |
 
-jogosulatlan gazdasági előny megszerzése bűntette
+2011. december 31-ig hatályban volt jogosulatlan gazdasági előny megszerzése bűntette csődbűncselekmény vétsége és bűntette
 
-csődbűncselekmény vétsége és bűntette
+|
+
+290. § (1)–(4) bekezdés
+
+|
+
+|
+
+|
 
 rossz minőségű termék forgalomba hozatala bűntette
 
+|
+
+292–293. §
+
+|
+
+|
+
+|
+
 minőség hamis tanúsítása bűntette
+
+|
+
+295. §
+
+|
+
+|
+
+|
 
 a fogyasztó megtévesztése vétsége
 
+|
+
+296/A. §
+
+|
+
+|
+
+|
+
 hitelezési csalás bűntette
+
+|
+
+297/A. §
+
+|
+
+|
+
+|
 
 gazdálkodó szervezet vezető állású személyének visszaélése vétsége
 
+|
+
+298/A. §
+
+|
+
+|
+
+|
+
 saját tőke csorbítása bűntette
+
+|
+
+298/B. §
+
+|
+
+|
+
+|
 
 bennfentes kereskedelem bűntette
 
+|
+
+299/A. §
+
+|
+
+|
+
+|
+
 tőkebefektetési csalás bűntette
+
+|
+
+299/B. §
+
+|
+
+|
+
+|
 
 piramisjáték szerezése bűntette
 
-adócsalás vétsége és bűntette
+|
 
-munkáltatással összefüggésben elkövetett adócsalás vétsége és bűntette
+299/C. §
 
-csempészet vétsége és bűntette
+|
 
-az Európai Közösségek pénzügyi érdekeinek megsértése vétsége és bűntette
+|
+
+|
+
+költségvetési csalás
+
+|
+
+310. §
+
+|
+
+|
+
+|
+
+2011. december 31-ig hatályban volt adócsalás vétsége és bűntette
+
+|
+
+|
+
+|
+
+|
+
+2011. december 31-ig hatályban volt munkáltatással összefüggésben
+
+|
+
+|
+
+|
+
+|
+
+elkövetett adócsalás vétsége és bűntette
+
+|
+
+|
+
+|
+
+|
+
+2011. december 31-ig hatályban volt csempészet vétsége és bűntette
+
+|
+
+|
+
+|
+
+|
+
+2011. december 31-ig hatályban volt Európai Közösségek pénzügyi
+
+|
+
+|
+
+|
+
+|
+
+érdekeinek megsértése vétsége és bűntette
+
+|
+
+|
+
+|
+
+|
 
 sikkasztás vétsége és bűntette
 
+|
+
+317. §
+
+|
+
+|
+
+|
+
 csalás vétsége és bűntette
+
+|
+
+318. §
+
+|
+
+|
+
+|
 
 hűtlen kezelés vétsége és bűntette
 
 |
-
-288. §
-
-290. § (1)-(4) bekezdés
-
-292-293. §
-
-295. §
-
-296/A. §
-
-297/A. §
-
-298/A. §
-
-298/B. §
-
-299/A. §
-
-299/B. §
-
-299/C. §
-
-310. § (1)-(5) bekezdés
-
-310/A. § (1)-(5) bekezdés
-
-312. § (1)-(5) bekezdés
-
-314. §
-
-317. §
-
-318. §
 
 319. §
 
@@ -708,17 +856,17 @@ gépjárművekkel kapcsolatos bűncselekmények
 
 a gépjárműre vagy gépjárművekre elkövetett
 
-a) lopás vétsége és bűntette
+a) lopás vétsége és bűntette
 
-b) sikkasztás vétsége és bűntette
+b) sikkasztás vétsége és bűntette
 
-c) csalás vétsége és bűntette
+c) csalás vétsége és bűntette
 
-d) orgazdaság vétsége és bűntette
+d) orgazdaság vétsége és bűntette
 
-e) hitelsértés vétsége
+e) hitelsértés vétsége
 
-f) jármű önkényes elvétele bűntette
+f) jármű önkényes elvétele bűntette
 
 |
 

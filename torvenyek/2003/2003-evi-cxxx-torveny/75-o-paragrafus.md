@@ -1,5 +1,5 @@
-75/O. § A NEBEK e törvényben meghatározott adatkezelési tevékenységét az adatvédelmi biztos ellenőrzi.
+75/O. § A NEBEK e törvényben meghatározott adatkezelési tevékenységét a Nemzeti Adatvédelmi és Információszabadság Hatóság ellenőrzi.
 
 9. CÍM
 
-AZ EUROPOLNAK A MAGYAR KÖZTÁRSASÁG TERÜLETÉN FELADATOT VÉGREHAJTÓ TISZTVISELŐJÉRE VONATKOZÓ RENDELKEZÉSEK
+AZ EUROPOLNAK MAGYARORSZÁG TERÜLETÉN FELADATOT VÉGREHAJTÓ TISZTVISELŐJÉRE VONATKOZÓ RENDELKEZÉSEK

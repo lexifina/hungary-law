@@ -12,7 +12,7 @@
 
 a) az a magyar jog szabályaival ellentétes,
 
-b) az veszélyezteti a Magyar Köztársaság biztonságát, sérti közrendjét,
+b) az veszélyezteti Magyarország biztonságát, sérti közrendjét,
 
 c) az politikai vagy katonai bűncselekményre vonatkozik,
 

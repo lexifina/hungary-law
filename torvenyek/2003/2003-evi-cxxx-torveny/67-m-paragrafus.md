@@ -20,4 +20,4 @@ i) a tagállami határozatban meghatározott összeg vagy annak a határozat jog
 
 (2) A tagállami határozat végrehajtása megtagadható, ha a tagállami igazságügyi hatóság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik. A hiánypótlásra a 67/D. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen kell alkalmazni. A tagállami határozat végrehajtását meg kell tagadni, ha a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetőleg a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges.
 
-(3) A tagállami határozat végrehajtása megtagadható, ha a megkeresés olyan bűncselekményre vonatkozik, amelyet egészben vagy részben a Magyar Köztársaság területén követtek el.
+(3) A tagállami határozat végrehajtása megtagadható, ha a megkeresés olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.

@@ -1,8 +1,8 @@
 72. § (1) A bíróság az eljárást felfüggeszti,
 
-a) ha a vagyonelkobzást elrendelő tagállami határozat meghatározott pénzösszegre vonatkozik, és a tanúsítványból megállapítható, hogy a határozatot egyidejűleg több tagállamnak küldték meg, és a bíróság szerint megalapozottan feltehető, hogy fennáll annak a veszélye, hogy a Magyar Köztársaság és az érintett többi tagállam területén történő végrehajtásból származó teljes összeg meghaladja a vagyonelkobzást elrendelő tagállami határozatban meghatározott pénzösszeget;
+a) ha a vagyonelkobzást elrendelő tagállami határozat meghatározott pénzösszegre vonatkozik, és a tanúsítványból megállapítható, hogy a határozatot egyidejűleg több tagállamnak küldték meg, és a bíróság szerint megalapozottan feltehető, hogy fennáll annak a veszélye, hogy Magyarország és az érintett többi tagállam területén történő végrehajtásból származó teljes összeg meghaladja a vagyonelkobzást elrendelő tagállami határozatban meghatározott pénzösszeget;
 
-b) a büntetőeljárás jogerős befejezéséig, ha a Magyar Köztársaság területén olyan büntetőeljárás van folyamatban, amelynek sikerét a vagyonelkobzást elrendelő tagállami határozat végrehajtása veszélyeztetné;
+b) a büntetőeljárás jogerős befejezéséig, ha Magyarország területén olyan büntetőeljárás van folyamatban, amelynek sikerét a vagyonelkobzást elrendelő tagállami határozat végrehajtása veszélyeztetné;
 
 c) a hiánypótlásra, kijavításra tűzött határidő leteltéig, ha a vagyonelkobzást elrendelő tagállami határozatot kibocsátó tagállami bíróság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik;
 

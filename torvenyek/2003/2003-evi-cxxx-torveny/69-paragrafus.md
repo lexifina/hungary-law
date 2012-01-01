@@ -1,1 +1,1 @@
-69. § A tagállami határozat végrehajtása céljából hozott bírósági határozat végrehajtása vagyonelkobzás esetén a megyei bírósági végrehajtó feladata.
+69. § A tagállami határozat végrehajtása céljából hozott bírósági határozat végrehajtása vagyonelkobzás esetén a törvényszéki végrehajtó feladata.
