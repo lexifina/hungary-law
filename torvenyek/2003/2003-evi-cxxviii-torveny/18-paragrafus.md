@@ -22,7 +22,7 @@ f) az építési engedély kiadása,
 
 g) az út forgalomba helyezése.
 
-(4) A gyorsforgalmi utak esetében – kivéve a magántőke bevonásával megvalósított utakat – az államháztartásról szóló 1992. évi XXXVIII. törvény 22. §-a (1) bekezdésének második és harmadik mondatában, valamint (2) bekezdésében foglaltakat nem kell alkalmazni.
+(4)
 
 (5)
 
