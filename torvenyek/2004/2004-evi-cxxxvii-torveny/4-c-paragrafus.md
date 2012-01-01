@@ -1,0 +1,3 @@
+4/C. § (1) Az Alap a NAVA-t érintő és az e törvényben nem szabályozott feladatok ellátására – ideértve a Magyar Nemzeti Digitális Archívum és Filmintézettel való együttműködésből eredő feladatokat is – a Médiatanács jóváhagyásával megállapodást köthet.
+
+(2) Az e törvényben nem szabályozott feladatellátás kizárólag a Médiatanács által jóváhagyott megállapodás szerint valósulhat meg. A megállapodásban rendelkezni kell más költségvetési szerv szerződő fél esetén a költségtérítésről, egyéb szerződő fél esetén megfelelő szolgáltatási díjról. Az így befolyó bevételeket az Alap köteles a NAVA feladataira fordítani.

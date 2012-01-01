@@ -1,4 +1,4 @@
-13. § A NAVA együttműködést kezdeményez más archívumokkal és – megállapodás vagy viszonosság alapján – más országok archívumaival, különösen az alábbi területeken:
+13. § A NAVA együttműködést kezdeményezhet más archívumokkal és – megállapodás vagy viszonosság alapján – más országok archívumaival, különösen az alábbi területeken:
 
 a) információcsere műsorszámokról;
 

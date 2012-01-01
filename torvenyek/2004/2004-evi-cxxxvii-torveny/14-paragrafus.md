@@ -1,19 +1,17 @@
 ## III. Fejezet
 
-## Az Audiovizuális Örökség Tanácsadó Testület
+## A Médiatanács feladatai
 
-14. § (1) A NAVA-t az e törvényben meghatározott feladatok ellátásában az Audiovizuális Örökség Tanácsadó Testület (a továbbiakban: Testület) segíti.
+14. § (1) A Médiatanács törvényességi és szakmai felügyeletet gyakorol a NAVA működtetése felett.
 
-(2) A Testület feladatai különösen:
+(2) Az Mttv. 136. § (6) bekezdésére tekintettel, ha az Alap nem rendelkezik a NAVA működtetéséhez szükséges megfelelő forrással a Médiatanács határozatában – kizárólag a korlátozásra okot adó körülmény megszűnéséig – ideiglenesen korlátozhatja a NAVA működését a 4/B. § szerint. Az Alap vezérigazgatója jogosult e körben a Médiatanács döntését kezdeményezni, illetve előterjesztést tenni.
 
-a) javaslatot tesz az audiovizuális kulturális örökség megőrzésére, így különösen a műsorszámok védelmét szolgáló szakmai programokra, továbbá – a kötelespéldányok körén kívül – a műsorszámok gyűjtendő körének meghatározására (bővítésére, szűkítésére);
+(3) A Médiatanács
 
-b) javaslatot tesz a 7. § (2) bekezdésében meghatározott műsorszámok archiválására;
+a) dönt az audiovizuális kulturális örökség megőrzését, így különösen a műsorszámok védelmét szolgáló szakmai programokról, továbbá – a kötelespéldányok körén kívül – a műsorszámok gyűjtendő körének meghatározásáról (bővítéséről, szűkítéséről);
 
-c) javaslatot tesz a kiemelkedő jelentőségűnek vagy pótolhatatlannak minősülő műsorszámok körére;
+b) közreműködik az audiovizuális kulturális örökség védelmére irányuló nemzetközi együttműködésben;
 
-d) közreműködik az audiovizuális kulturális örökség védelmére irányuló nemzetközi együttműködésben;
+c) évente jelentést tesz közzé az audiovizuális kulturális örökség védelmének helyzetéről;
 
-e) évente jelentést tesz közzé az audiovizuális kulturális örökség védelmének helyzetéről;
-
-f) véleményt nyilvánít a NAVA gyűjteményének nyilvánosság számára történő hozzáférhetővé tételét érintő kérdésekben.
+d) véleményt nyilvánít a NAVA gyűjteményének nyilvánosság számára történő hozzáférhetővé tételét érintő kérdésben.
