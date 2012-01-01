@@ -1,6 +1,6 @@
 ## M007603.pdf
 
-4. számú melléklet a 215/2000. (XII. 19.) Korm. rendelethez[^49]
+4. számú melléklet a 215/2000. (XII. 19.) Korm. rendelethez[^51]
 
 Cash-flow kimutatás
 
@@ -98,4 +98,4 @@ A Cash-flow kimutatás sorainak tartalma
 
 12. A „19. Kapott hozamok” között a pénzügyileg befolyt kamatok, osztalékok összegét kell figyelembe venni, beleértve az értékpapírok között kimutatott más befektetési alap által kibocsátott befektetési jegyek után kapott hozamokat is.
 
-[^49]: A 4. számú mellékletet a 325/2009. (XII. 29.) Korm. rendelet 42. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^51]: A 4. számú mellékletet a 325/2009. (XII. 29.) Korm. rendelet 42. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.

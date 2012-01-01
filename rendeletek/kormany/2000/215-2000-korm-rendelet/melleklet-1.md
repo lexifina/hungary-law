@@ -1,3 +1,3 @@
-1. számú melléklet a 215/2000. (XII. 11.) Korm. rendelethez[^48]
+1. számú melléklet a 215/2000. (XII. 11.) Korm. rendelethez[^50]
 
-[^48]: Az 1. számú melléklet a 289/2001. (XII. 26.) Korm. rendelet 10. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^50]: Az 1. számú melléklet a 289/2001. (XII. 26.) Korm. rendelet 10. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
