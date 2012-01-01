@@ -16,7 +16,7 @@ g) ha a bíró – az OBH elnökének egyetértésével – nemzetközi szerveze
 
 h) ha a bíró
 
-ha) a rá irányadó öregségi nyugdíjkorhatárt (a továbbiakban: felső korhatár) – a Kúria elnöke kivételével – betöltötte, vagy
+ha)
 
 hb) a felső korhatár betöltése előtt a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással maga kéri nyugállományba helyezését,
 

@@ -8,6 +8,6 @@ c) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyr
 
 d) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
 
-e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelvnek
+e)
 
 való megfelelést szolgálja.
