@@ -1,0 +1,1 @@
+6. § Aki korhatár előtti öregségi nyugdíj mellett 2012. január 1-je előtt a Tny. 22/A. §-a alapján nyugdíjnövelésre jogot szerzett, ezt a jogát korhatár előtti ellátás, illetve szolgálati járandóság esetén is érvényesítheti az öregségi nyugdíjra vonatkozó szabályok megfelelő alkalmazásával.

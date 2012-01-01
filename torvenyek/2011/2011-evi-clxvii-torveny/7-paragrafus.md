@@ -1,0 +1,27 @@
+## 3. A korhatár előtti ellátás megállapítása
+
+7. § (1) A 4. § (1) bekezdésében foglaltakon túl – 2011. december 31-ét követő kezdő naptól – korhatár előtti ellátásra jogosult
+
+a) az, aki 2011. december 31-éig az előrehozott, csökkentett összegű előrehozott öregségi nyugdíj igénybevételéhez a Tny. 2012. január 1-jét megelőzően hatályos szabályai szerint szükséges
+
+aa) életkort betöltötte, és
+
+ab) szolgálati időt megszerezte,
+
+b) az az 1953. évben született nő, aki 59. életévét betöltötte és a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig legalább 37 év szolgálati időt szerzett,
+
+c) az, aki a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig a Tny. 2012. január 1-jét megelőzően hatályos szabályai szerint korkedvezményre jogosultságot szerzett,
+
+d) az, aki 2011. december 31-éig a bányásznyugdíjról szóló 150/1991. (XII. 4.) Korm. rendelet 2012. január 1-jét megelőzően hatályos szabályai szerint a bányásznyugdíjra való jogosultságot megszerezte,
+
+e) az, aki 2011. december 31-éig az egyes művészeti tevékenységeket folytatók öregségi nyugdíjra jogosultságáról szóló 5/1992. (I. 13.) Korm. rendelet 2012. január 1-jét megelőzően hatályos szabályai szerint öregségi nyugdíjra jogosultságot szerzett,
+
+f) az, aki esetében a biztosítással járó jogviszonyának megszüntetéséhez szükséges egyoldalú jognyilatkozatot 2012. január 1-jét megelőzően a másik féllel írásban közölték, vagy a jogviszonyt megszüntető megállapodást 2012. január 1-jét megelőzően írásban megkötötték, feltéve, hogy a biztosítással járó jogviszony megszűnését követő nap 2012. évben van, és a jogosult a biztosítással járó jogviszony megszűnését követő napon a 2011. december 31-én hatályos szabályok szerint az 1. § c) pont ca), cb), cd), ce) vagy cf) alpontja szerinti korhatár előtti nyugellátásra jogosult lett volna,
+
+feltéve, hogy a korhatár előtti ellátás kezdő napjáig az öregségi nyugdíjkorhatárt nem töltötte be, a korhatár előtti ellátás kezdő napján biztosítással járó jogviszonyban nem áll, átmeneti bányászjáradékra vagy balettművészeti életjáradékra nem jogosult, és a korhatár előtti ellátás kezdő napján rendszeres pénzellátásban nem részesül.
+
+(2) Az (1) bekezdés c) pontja szerinti esetben a jogosult a korhatár előtti ellátást az öregségi nyugdíjkorhatár betöltése előtt annyi évvel kérheti, ahány év korkedvezményt a Tny. 2011. december 31-én hatályos szabályai szerint
+
+a) a korhatár előtti ellátás kezdő napját megelőző napig szerzett, ha a korhatár előtti ellátás kezdő napja 2012. évben van,
+
+b) az a) pontban nem említett esetben 2012. december 31-éig szerzett.

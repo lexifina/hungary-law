@@ -1,0 +1,3 @@
+## „(5) A végkielégítésnek a (4) bekezdésben meghatározott mértéke háromhavi átlagkereset összegével emelkedik, ha a munkavállaló munkaviszonya az (1) bekezdésben meghatározott módon az öregségi nyugdíjra való jogosultság [87/A. § (1) bekezdés a) pont] megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a munkavállalót, ha az e bekezdésben foglaltak alapján korábban már emelt összegű végkielégítésben részesült.”
+
+32. § Hatályát veszti a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 65. § (3) bekezdés c) pontjában az „ , illetve a korengedményes nyugdíjazásra” szövegrész.

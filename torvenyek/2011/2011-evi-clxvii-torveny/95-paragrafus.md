@@ -1,0 +1,5 @@
+## „8. § A programban 2012. január 1-jén részt vevő személy munkavégzésre irányuló jogviszonya – a kinevezés-, illetve munkaszerződés-módosításban foglaltaktól eltérően – akkor is az öregségi nyugdíjra való jogosultság megszerzésének időpontjában szűnik meg, ha ez későbbi, mint a programba történő belépés miatt szükségessé vált kinevezés-, illetve munkaszerződés-módosításban szereplő, a munkavégzésre irányuló jogviszony megszűnésére meghatározott időpont. Ez a rendelkezés nem zárja ki, hogy a munkavégzésre irányuló jogviszony ezen időpont előtt valamely, e törvényben szabályozott egyéb okból megszűnjön.”
+
+## 38. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosítása
+
+95. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 13. § (2) bekezdés i) pontjában az „ellátásaival” szövegrész helyébe az „ellátásaival, a korhatár előtti ellátással, a szolgálati járandósággal, a balettművészeti életjáradékkal és az átmeneti bányászjáradékkal” szöveg lép.

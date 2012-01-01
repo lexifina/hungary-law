@@ -1,0 +1,1 @@
+15. § Ameddig a jogosult az újbóli folyósítást nem kéri, szüneteltetni kell a korhatár előtti ellátás és a szolgálati járandóság folyósítását, ha a korhatár előtti öregségi nyugdíj folyósítását 2011. december 31-én a jogosult kérelmére szüneteltették a 12. § (2) bekezdésében foglaltak figyelembevételével.
