@@ -1,4 +1,4 @@
-29. §[^35] Ez a rendelet
+29. §[^39] Ez a rendelet
 
 a) a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és a tanácsi rendeletnek,
 
@@ -8,4 +8,4 @@ c) a léginavigációs szolgálatok ellátására vonatkozó közös követelmé
 
 a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^35]: A Vhr. 29. §-át a 242/2005. (X. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 108/2010. (IV. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^39]: A Vhr. 29. §-át a 242/2005. (X. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 108/2010. (IV. 9.) Korm. rendelet 3. §-ával megállapított szöveg.

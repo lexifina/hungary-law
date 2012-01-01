@@ -1,6 +1,6 @@
 ## (Az Lt. 52. §-ához)
 
-22. §[^21] (1) Légi járművel fel- és leszállni – a (2) bekezdésben foglalt kivétellel – repülőtéren vagy leszállóhelyen szabad.
+22. §[^25] (1) Légi járművel fel- és leszállni – a (2) bekezdésben foglalt kivétellel – repülőtéren vagy leszállóhelyen szabad.
 
 (2) A fel- és leszállás nem repülőtéren vagy leszállóhelyen is történhet a következő esetekben:
 
@@ -14,4 +14,4 @@ d) a leszállás a biztonság érdekében, veszélyhelyzetben szükséges.
 
 (3) A (2) bekezdés szerinti fel- és leszállással okozott kárt meg kell téríteni.
 
-[^21]: A Vhr. 22. §-a a 159/2010. (V. 6.) Korm. rendelet 44. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^25]: A Vhr. 22. §-a a 159/2010. (V. 6.) Korm. rendelet 44. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
