@@ -1,0 +1,119 @@
+## Országos Statisztikai Adatgyűjtési Program
+
+## Adatgyűjtések és Adatátvételek
+
+## Típus: AGY = adatgyűjtés AÁ, adatátvétel
+
+| Adatgyűjtés - Adatátvétel | Az adatszolgáltatás beérkezési határideje | Irányadó uniós jogi aktus |
+
+| nyilván- tartási száma | címe | típusa | gyakorisága | adatszolgáltatóinak meghatározása |
+
+| Nemzeti Fejlesztési Minisztérium |
+
+| 1368 | A légiközlekedési repülőesemények adatai | AGY | Évenként kétszeri | a polgári repülőtevékenységet hatósági engedéllyel folytató vállalkozások | a tárgyidőszakot követő hó 15. | 1321/2007/EK Rendelet 2003/42/EK Irányelv 94/56/EK Irányelv |
+
+| 1382 | A gazdálkodást jellemző fontosabb adatok | AGY | Negyedévenkénti | a szállítás, raktározás ágazatba sorolt, kijelölt vállalkozások, KTI Közlekedés Tudományi Intézet Nonprofit Kft., Magyar Közút Nonprofit Zrt., Állami Autópálya kezelő Zrt., valamint autópályákat kezelő illetve üzemeltető, és egyéb kijelölt vállalkozások | a tárgyidőszakot követő 30. nap |  |
+
+| 1390 | A helyi közutak adatai | AGY | Évenkénti | települési önkormányzatok | a tárgyévet követő augusztus 15. | 1108/70/EGK Rendelet |
+
+| 1392 | A hajózási engedélyesek, közforgalmú kikötők, magán kikötők, motoros kishajók, vitorlás kishajók adatai | AGY | Évenkénti | Nemzeti Közlekedési Hatóság (NKH) | a tárgyévet követő február 28. | 2005/44/EK Irányelv 2006/87/EK Irányelv 91/672/EGK Irányelv 96/50/EK Irányelv |
+
+| 1394 | A polgári repülés statisztikai adatai | AGY | Évenkénti | polgári, légiközlekedési tevékenységet hatósági engedéllyel folytató vállalkozások | a tárgyévet követő április 20. |  |
+
+| 1396 | Jelentés a közúti közlekedéshez kapcsolódó tevékenységekről | AGY | Évenkénti | Nemzeti Közlekedési Hatóság Központi Hivatala | a tárgyévet követő április 15. | 2000/53/EK Irányelv 2003/59/EK Irányelv 2006/126/EK Irányelv 2006/22/EK Irányelv 2007/46/EK Irányelv 2008/65/EK Irányelv 2008/68/EK Irányelv 2009/40/EK Irányelv 2163/2001/EK Rendelet 561/2006/EK Rendelet 70/156/EGK Irányelv 91/439/EGK Irányelv |
+
+| 1397 | Kötélpálya, sikló, távolsági szalagpálya és sífelvonó szállítási és baleseti adatai | AGY | Évenkénti | létesítményt üzemeltető vállalkozások | a tárgyévet követő április 30. |  |
+
+| 1399 | A vízi utak fenntartási munkái és költségei | AGY | Évenkénti | vízi utak fenntartását végző vízügyi igazgatóságok | a tárgyévet követő május 30. |  |
+
+| 1705 | A postai, hírközlési, média és műsorszórási hatósági tevékenység | AÁ | Évenkénti | Nemzeti Média- és Hírközlési Hatóság | a tárgyévet követő április 30. |  |
+
+| 1707 | A távközlési tevékenység évközi adatai | AGY | Negyedévenkénti | távközlési tevékenységet végző kijelölt vállalkozások | a tárgynegyedévet követő hó 30 | 808/2004/EK Rendelet 847/2007/EK Rendelet |
+
+| 1708 | A távközlési tevékenység berendezései és szolgáltatásai | AGY | Évenkénti | távközlési tevékenységet végző vállalkozások | a tárgyévet követő március 10. | 808/2004/EK Rendelet 847/2007/EK Rendelet |
+
+| 1811 | Postai szolgáltatás és futárszolgálat eszközei, a szolgáltatás minőségi mutatói | AGY | Évenkénti | a postai, futárpostai tevékenységet végző kijelölt vállalkozások | a tárgyévet követő március 10. |  |
+
+| 1812 | Vasúti infrasruktúra, közlekedési eszközök, üzemi és szállítási teljesítmények adatai | AGY | Évenkénti | vasúti pályahasználati, illetve pályaműködtetési engedéllyel rendelkező gazdasági szervezetek | a tárgyévet követő április 30. | 91/2003/EK Rendelet |
+
+| 1857 | A kikötői áru- és hajóforgalom | AGY | Havonkénti | Magyarországi kikötők és rakodási engedéllyel rendelkező vállalkozások | a tárgyhót követő hó 10. | 1304/2007/EK Rendelet 1365/2006/EK Rendelet 425/2007/EK Rendelet |
+
+| 1957 | A hírközlési gazdasági szervezetek gazdálkodását jellemző adatok | AGY | Negyedévenkénti | postai, futárpostai, távközlési tevékenységet végző kijelölt vállalkozások | 2011. ápr. 30., júli. 29., okt. 28., 2012. febr. 20. | 808/2004/EK Rendelet 847/2007/EK Rendelet |
+
+| 1994 | Az internet szolgáltatás évközi adatai | AGY | Negyedévenkénti | internet hozzáférési, illetve műsorelosztási szolgáltatást végző kijelölt vállalkozások | a tárgynegyedévet követő hó 30. | 808/2004/EK Rendelet 847/2007/EK Rendelet |
+
+| 1995 | Az internet szolgáltatás berendezései és szolgáltatásai | AGY | Évenkénti | internet hozzáférési, iletve műsorelosztási szolgáltatást végző vállalkozások | a tárgyévet követő március 10. | 808/2004/EK Rendelet 847/2007/EK Rendelet |
+
+| 2145 | A postai szolgáltatás és a futárszolgálat negyedéves adatai | AGY | Negyedévenkénti | a postai, futárpostai tevékenységet végző kijelölt vállalkozások | a tárgynegyedévet követő hó 20. |  |
+
+| 2222 | Az út infrastruktúra adatai | AGY | Évenkénti | az utak fejlesztésével és üzemeltetésével foglalkozó szervezetek | a tárgyévet követő szeptember 30. | 1108/70/EGK Rendelet |
+
+| 2223 | A vasút infrastruktúra adatai | AGY | Évenkénti | a vasutak fejlesztésével és üzemeltetésével foglalkozó szervezetek | a tárgyévet követő szeptember 30. | 1108/70/EGK Rendelet |
+
+| 2224 | A vízi út infrastruktúra datai | AGY | Évenkénti | a vízi utak fejlesztésével és üzemeltetésével foglalkozó szervezetek | a tárgyévet követő szeptember 30. | 1108/70/EGK Rendelet |
+
+| 2225 | A hálózati közlekedési infrastruktúra felügyeleti adatai | AGY | Évenkénti | a hálózati közlekedés (út, vasút, vízi út) felügyeletével megbízott szervezet | a tárgyévet követő szeptember 30. | 1108/70/EGK Rendelet |
+
+| 2226 | A közlekedés rendészet ráfordítás adatai | AGY | Évenkénti | az országos közutakhoz, önkormányzati utakhoz és vízi utakhoz kapcsolódó rendészeti feladatot ellátó szervezet | a tárgyévet követő szeptember 30. | 1108/70/EGK Rendelet |
+
+| 2227 | A közlekedési hálózati infrastruktúra központilag nyilvántartott hitelszolgálati adatai | AGY | Évenkénti | az állam által átvállalt, a vasutakra, az utakra, a vízi utakra vonatkozó, hitelszolgálati adatokat kezelő szervezet | a tárgyévet követő szeptember 30. | 1108/70/EGK Rendelet |
+
+## Országos Statisztikai Adatgyűjtési Program
+
+## Adatkörök
+
+| nyilván- tartási száma | Adatgyűjtés - Adatátvétel |
+
+| cím | adatkör |
+
+| Nemzeti Fejlesztési Minisztérium |  |
+
+| 1368 | A légiközlekedési repülőesemények adatai | (1) Légiközlekedési repülőesemények okának, körülményeinek feltárása: a) üzembentartónként b) eseménykategóriánként c) az eseményt előidéző okok szerint d) típusonként |
+
+| 1382 | A gazdálkodást jellemző fontosabb adatok | (1) Személy- és teherszállítás vasúton, közúton, vízi úton vagy légi úton, függetlenül attól, hogy menetrendszerű vagy nem menetrendszerű (2) Személy- és áruszállítást kiegészítő tevékenység, mint a szállítási infrastruktúra részeinek üzemeltetése, közvetlenül a szállítás előtt és után, vagy a szállítás közbeni árukezelés, az összes létesítmény szállítási üzemeltetése és fenntartása |
+
+| 1390 | A helyi közutak adatai | (1) A helyi közutak útkategóriánkénti hossza, a kiépített utak területe és átlagszélessége (2) A kiépített helyi közutak hossza burkolat-fajtánként (3) A kiépített helyi közutak burkolatának területe (4) A helyi közutak részét képező hidak száma, hossza, területe, a szabad nyílás figyelembevételével (5) A helyi közutakra fordított bruttó kiadások a beszámolási időszakban |
+
+| 1392 | A hajózási engedélyesek, közforgalmú kikötők, magán kikötők, motoros kishajók, vitorlás kishajók adatai | (1) Hajózási engedélyek adatai: a) vízi szállítás b) áruszállítás c) személyszállítás d) rév és komp üzemeltetés (2) Közforgalmú/magán kikötők adatai: a) Duna b) Tisza c) Balaton d) egyéb (3) Magyarországon lajstromozott úszólétesítmények adatai: a) tengeri nagyhajó b) nagyhajó (gépi, vitorlás, gépnélküli) c) kishajó (motoros, vitorlás) d) úszómű e) önjáró úszómunkagép f) nem önjáró úszómunkagép g) önjáró komp h) nem önjáró komp |
+
+| 1394 | A polgári repülés statisztikai adatai | (1) Légi járművek száma, kapacitása, tulajdonságai a) repülőgép típusok (gyártó és modell) b) verzió (személyszállító repülőgép, áru/teher szállító repülőgép, személy- és teherszállító repülőgép, egyéb nem kereskedelmi célra használt repülőgép) c) légi járművek száma, év elején, év végén, beszerzés, selejtezés d) repülőgépek kapacitása e) repülőgép-használat az év folyamán f) rendelkezésre álló összes repülőgép g) tulajdoni formák (2) Légiszállítási teljesítmények: a) menetrendszerinti járatok adatai b) nem menetrendszerinti járatok adatai d) légitaxi járatok adatai (3) Beruházási, felújítási és karbantartási adatok (4) Alkalmazottak (személyzet) száma és bérköltsége (5) A magyar légijárművel történt személysérüléses balesetek (6) Légiközlekedési balesetek jellemzői (belföldön, külföldön) (7) Bekövetkezett repülőesemények jellemzői (belföldön, külföldön) (8) Légiszállítás adatai (menetrendszerinti, nemzetközi) (9) Forgalom a repülés szakasza szerint |
+
+| 1396 | Jelentés a közúti közlekedéshez kapcsolódó tevékenységekről | (1) Komplex ellenőrzések (belföldi, külföldi járművek) a) közúti, telephelyi, közlekedésbiztonsági és környezetvédelmi, ADR b) forgalmi engedélyezés, bejelentés és egyéb hatósági munka c) vezetési és pihenőidő ellenőrzés d) autóbontók tevékenységének ellenőrzése (2) A járművezetők vizsgáztatásának adatai: a) kategóriák b) vizsgatárgyak szerint (3) A gépjárműfenntartó szervezetek adatai: a) műhelyek száma b) tevékenység jellege c) foglalkoztatott létszám d) gépjárműjavító műhelyek tevékenységére vonatkozó adatok (4) Járművizsgálati tevékenység statisztikai adatai, járműfajták szerint a) saját/külső vizsga b) forgalomba helyezés előtti/időszakos vizsga (5) Veszélyes árut szállító járművek jóváhagyási igazolásai (6) Autójavító szolgáltatási panaszügyek (7) Minősítésre kötelezett alkatrész ellenőrzési tevékenység a) gyártónál b) kereskedőnél c) felhasználónál (8) A veszélyes áru szállítására kiadott útvonal-kijelölési határozatok ADR osztályonként (belföldi, külföldi; egyszeri, ismétlődő, országhatáron kilépő) (9) Típusbizonyítvány, általános forgalomba helyezési engedély, sorozatátalakítási engedély, jóváhagyás, minősítés, elektronikus forgalomba helyezés (járműfajtánként) |
+
+| 1397 | Kötélpálya, sikló, távolsági szalagpálya és sífelvonó szállítási és baleseti adatai | (1) Kötélpálya, távolsági szalagpálya és sikló szállítási és baleseti adatai (rendkívüli események és balesetek okai, következményei) (2) Sífelvonó szállítási és baleseti adatai (rendkívüli események és balesetek okai, valamint következményei) |
+
+| 1399 | A vízi utak fenntartási munkái és költségei | (1) Vízi utak fenntartási munkái és költségei a) víziút jellemzői b) víziútak beruházási és fenntartási költsége c) beruházási kiadások d) folyó kiadások e) általános kiadások f) vízi rendőrséggel kapcsolatos kiadások (2) Víziútak jelzései a) úszó jelek b) parti jelek |
+
+| 1705 | A postai, hírközlési, média és műsorszórási hatósági tevékenység | (1) Nyilvántartott szolgáltatűási jogosultságok és bejelentések állománya (2) Tárgyévben kiadott engedélyek és nyilvántartásba vett bejelentések (3) Üzletszabályzat-, ÁSZF-ek (Általános Szerzösédi Feltételek) módosítása (4) Rádióhálózatok engedélyezése (5) Nyomvonal-jellegű elektronikus hírközlési építmények engedélyezése, bejelentése (6) Piacfelügyeleti eljárások (7) Frekvenciakijelölések, rádióengedélyek (8) Média hatósági tevékenység |
+
+| 1707 | A távközlési tevékenység évközi adatai | (1) Helyhez kötött telefon szolgáltatás a) bekapcsolt fővonalak száma b) a tárgyidőszak végén üzemelő, xDSL-re alkalmas fővonalak száma c) a kezdeményezett beszélgetés célú hívások száma d) a kezdeményezett beszélgetés célú hívások időtartama e) közvetítőválasztás f) közvetítőválasztás keretében nyújtott szolgáltatási szerződések száma g) a kezdeményezett hívások száma (KTV telefon és egyéb VoIP fővonalakból kezdeményezett hívásokkal együtt) h) a kezdeményezett hívások időtartama és iránya, percben (KTV telefon és egyéb VoIP fővonalakból kezdeményezett hívásokkal együtt) (2) Mobil rádiótelefon-szolgáltatás a) a mobilinternet szolgáltatás beltéri (lakossági) ellátottsága és kültéri (földrajzi) lefedettsége b) mobil rádiótelefon-szolgáltatás adatai c) virtuális mobilszolgáltatás adatai (MVNO) |
+
+| 1708 | A távközlési tevékenység berendezései és szolgáltatásai | (1) Helyhez kötött telefon szolgáltatás a) bekapcsolt fővonalak száma év végén, településenként b) év végén végén üzemelő, xDSL-re alkalmas fővonalak megbontása településenként c) a kezdeményezett beszédcélú hívások száma településenként d) a kezdeményezett beszédcélú hívások időtartama településenként e) közvetítőválasztás f) közvetítőválasztás keretében nyújtott szolgáltatási szerződések száma g) a kezdeményezett hívások száma (KTV telefon és egyéb VolP fővonalakból kezdeményezett hívásokkal együtt) h) a kezdeményezett hívások időtartama és iránya, percben (KTV telefon és egyéb VolP fővonalakból kezdeményezett hívásokkal együtt) (2) Mobil rádiótelefon-szolgáltatás a) a mobilinternet szolgáltatás beltéri (lakossági) ellátottsága és kültéri (földrajzi) lefedettsége b) mobil rádiótelefon-szolgáltatás adatai c) virtuális mobilszolgáltatás adatai (MVNO) d) a mobil rádiótelefon-hálózat bázisállomásai az év végén e) a mobil rádiótelefon-szolgáltatás nyomvonalas hálózati eszközei, az év végén (a hálózat azon szakaszai, amelyek kizárólag a mobil bázisállomások működtetéséhez kerültek kiépítésre) (3) Távközlési infrastruktúra a) a szolgáltató által ellátott terület előfizetői távbeszélő központjainak és az MSAN elérési hálózati koncentrátorok száma illetve kapacitása településenkénti bontásban, az év végén b) a szolgáltató által ellátott terület DSLAM központjainak száma településenkénti bontásban, az év végén c) a (fix) távközlő hálózat hossza (4) Mikrohullámú, műholdas és rádiós távközlő hálózat a) a mikrohullámú , műholdas és rádiós távközlő-hálózat b) a mikrohullámú pont-pont összeköttetések száma c) a mikrohullámú pont-többpont összeköttetések száma d) a mikrohullámú pont-többpont összeköttetésen keresztül kiszolgált előfizetők száma |
+
+| 1811 | Postai szolgáltatás és futárszolgálat eszközei, a szolgáltatás minőségi mutatói | (1) Postai szolgáltatás és futárszolgálat eszközei, a szolgáltatás minőségi mutatói (2) Állandó postai szolgáltatóhelyek száma területi bontásban, területi igazgatóságonként (3) Állandó postai szolgáltatóhelyek száma település-kategóriák szerint (4) Állandó postai szolgáltatóhellyel, mobilpostával ellátott települések száma, száma területi bontásban, száma területi igazgatóságonként (5) Csomag, postautalvány- és csekk felvételi és kézbesítőhelyek száma (6) Egyéb szolgáltatásokat végző szolgáltatóhelyek száma (7) Géppel feldolgozott levél és postacsomag küldemények száma (8) Közönséges, könyvelt és elsőbbségi küldemények száma (9) Fenntartott postai szolgáltatás körébe tartozó postai küldemények száma (10) Felvett és kézbesített csomagküldemények száma (11) Belföldön felvett küldemények száma, területi bontásban (12) Pénzforgalmi adatok (13) Táviratforgalmi adatok (14) Bélyegkibocsátás jellemzői számai (15) Hírlapforgalomra vonatkozó adatok (16) Postai szolgáltatáshoz használt szállítóeszközök száma (17) A postai szolgáltatás minőségét jellemző adatok (18) A postai szolgáltatás minőségi mutatói (19) Egyetemes postai szolgáltatási körön kívül továbbított küldemények száma (20) Nemzeti postaszolgálaton kívüli futárpostai szolgáltatás forgalmi adatai (21) Nemzeti postaszolgálaton kívüli futárpostai szolgáltatás mutatói (22) A továbbításra kerülő küldemények mennyisége felvételi hely szerint területi bontásban (23) A továbbított küldemények mennyisége teljesítési (átadási) hely szerint, területi bontásban |
+
+| 1812 | Vasúti infrasruktúra, közlekedési eszközök, üzemi és szállítási teljesítmények adatai | (1) Az infrastruktúra állománya, forgalmi és műszaki jellemzők szerinti megoszlásai (2) Közlekedési eszközök forgalmi, energetikai, és műszaki jellemzők szerinti megoszlásai (3) A foglalkoztatottak adatai az üzemi teljesítmények megoszlása szerint (4) Beruházások és ráfordítások az infrastruktúra és közlekedési eszközök főbb csoportjai szerint (5) Vasúti teljesítmények a forgalom szempontjából kiemelt jellemzők alapján |
+
+| 1857 | A kikötői áru- és hajóforgalom | (1) Kikötői áru- és hajóforgalom adatai (2) Kikötő neve, helye (3) Rakodás helye (4) Szállítást végző hajó típusa és a feladó-, vagy a rendeltetési belvízi kikötő adatai (5) Be-, vagy kirakott áru megnevezése és tömege (mennyisége) (6) Be-, vagy kirakott áru (árucsoport) kódszáma |
+
+| 1957 | A hírközlési gazdasági szervezetek gazdálkodását jellemző adatok | (1) Működési adatok a tárgynegyedévben (tárgyidőszak végi adatok) (2) Vezetékes hívások végződtetéséért más távközlési szolgáltatótól kapott árbevétel adatai (3) Mobil hívások végződtetéséért más távközlési szolgáltatótól kapott árbevétel adatai (4) Vezetékes hálózatról indított hívások végződtetéséért más távközlési szolgáltatónak fizetett díj (5) Mobil hálózatról indított hívások végződtetéséért más távközlési szolgáltatónak fizetett díj (6) Távközlési szolgáltató által, internet-szolgáltatóknak átengedett díjak adatai (7) Internet-szolgáltató részére, távközlési szolgáltatóktól kapott díjak adatai (8) Beruházások adatai (9) Munkaügyi adatok (10) Információ az adatszolgáltatásra kijelölt társaságba történt befektetés tulajdonosi struktúrájáról (11) Információ az adatszolgáltatást teljesítő társaság befektetésének tulajdonosi struktúrájáról (csak a „befolyásoló” részesedéssel rendelkező vállalkozásokról) |
+
+| 1994 | Az internet szolgáltatás évközi adatai | (1) Helyhez kötött internet-szolgáltatás a) a keskenysávú internet-szolgáltatás előfizetőinek száma negyedév végén, db b) a szélessávú internet-szolgáltatás előfizetőinek száma c) a szélessávú internet-szolgáltatás előfizetőinek száma, névleges sávszélesség szerinti bontásban (letöltési irányban), kiskereskedelmi bérelt vonali előfizetések nélkül, negyedév végén, db d) bérelt vonali előfizetések száma - kiskereskedelmi forgalomban e) a szélessávú internet-szolgáltatás előfizetőinek száma, a garantált sávszélesség szerinti bontásban (letöltési irányban), az negyedév végén, db f) a szélessávú internet-szolgáltatás előfizetőinek száma negyedév végén, db g) a bérelt vonali szélessávú (144 kb/s-nál nagyobb letöltési irányú) - kiskereskedelmi forgalomban elérhető - szolgáltatás előfizetőinek száma, negyedév végén, db h) a szélessávú internet-szolgáltatás forgalmi adatai hozzáférés szerint, negyedév végén (2) Mobilinternet-szolgáltatás (3) Televízió-szolgálatatás a) a televízió szolgáltatás és előfizetői csomagok év végi adatai b) TV előfizetések száma technológiai bontásban c) TV előfizetések száma vezetékes jelátviteli technológiák esetén d) TV előfizetések száma sugárzott jelátviteli technológiák esetén |
+
+| 1995 | Az internet szolgáltatás berendezései és szolgáltatásai | (1) Helyhez kötött internet-szolgáltatás a) a keskenysávú internet-szolgáltatás előfizetőinek száma év végén, db b) a szélessávú internet-szolgáltatás előfizetőinek száma c) a szélessávú internet-szolgáltatás előfizetőinek száma, névleges sávszélesség szerinti bontásban (letöltési irányban), kiskereskedelmi bérelt vonali előfizetések nélkül, év végén, db d) bérelt vonali előfizetések száma - kiskereskedelmi forgalomban e) a szélessávú internet-szolgáltatás előfizetőinek száma, a garantált sávszélesség szerinti bontásban (letöltési irányban), év végén, db f) a szélessávú internet-szolgáltatás előfizetőinek száma települési bontásban, év végén, db g) a bérelt vonali szélessávú (144 kb/s-nál nagyobb letöltési irányú) - kiskereskedelmi forgalomban elérhető - szolgáltatás előfizetőinek száma területi bontásban, év végén, db h) a szélessávú internet-szolgáltatás forgalmi adatai hozzáférés szerint, év végén (2) Mobilinternet-szolgáltatás (3) Televízió-szolgáltatás a) a televízió szolgáltatás és előfizetői csomagok év végi adatai b) TV előfizetések száma technológiai bontásban c) TV előfizetések száma vezetékes jelátviteli technológiák esetén (4) Az internet szolgáltatás eszközei, a szolgáltató eszközei (5) Az internet-szolgáltatás adatforgalma, a szélessávú internet-szolgáltatás forgalmának megoszlása |
+
+| 2145 | A postai szolgáltatás és a futárszolgálat negyedéves adatai | (1) A postai szolgáltatás és a futárszolgálat negyedéves adatai (2) Posta és futárszolgálat negyedévre vonatkozó forgalmi adatai (3) Utalványforgalom negyedévi adatai (4) Postai szolgáltató által végzett egyéb tevékenység forgalmi adatai (5) Postai szolgáltatás bevételi adatai |
+
+| 2222 | Az út infrastruktúra adatai | (1) Az útra fordított költségek, autópálya (2) Az útra fordított költségek, autóút (3) Az útra fordított költségek, elsőrendű főutak (4) Az útra fordított költségek, másodrendű főutak (5) Az útra fordított költségek, mellékutak (6) Önkormányzati utak ráfordítás és hossz adatai (7) Úthasználati (forgalmi) és hossz adatok a) országos úthálózati kategóriákban b) 7 jármű kategóriában (8) Úthasználati (forgalmi) adatok a) országos úthálózati kategóriákban b) 15 (teher) jármű kategóriában (9) Hitelszolgálati adatok az útpályákról |
+
+| 2223 | A vasút infrastruktúra adatai | (1) A vasúti főhálózatra vonatkozó hossz adatok (2) A vasúti mellékhálózatra vonatkozó hossz adatok (3) A vasútra fordított költségek (működő infrastruktúra költségei) föhálózat (4) A vasútra fordított költségek (működő infrastruktúra költségei) mellék hálózat (5) A vasúti pályák használatára vonatkozó adatok (főhálózat). Vontatási módonként és forgalmi osztályonként. (6) A vasúti pályák használatára vonatkozó adatok (mellék hálózat). Vontatási módonként és forgalmi osztályonként. (7) Hitelszolgálati adatok a vasúti pályákra. Hálózatonként, hitelszolgálati módonként |
+
+| 2224 | A vízi út infrastruktúra datai | (1) Az osztályozott vízi utak hossza osztályonként (2) A vízi útra fordított költségek, vízi út osztályonként (3) A vízi utak használatára vonatkozó adatok a) vízi út osztályonként b) hajókategóriánként c) a Vízügyi és Környezetvédelmi Központi Igazgatóság területéről (4) Hitelszolgálati adatok a vízi utakra a) összevont osztályokban b) hitelszolgálati módonként |
+
+| 2225 | A hálózati közlekedési infrastruktúra felügyeleti adatai | (1) A vasúthálózatra vonatkozó felügyeleti kiadások (főhálózat) (2) A vasúthálózatra vonatkozó felügyeleti kiadások (mellékhálózat) (3) Az országos közutakra vonatkozó felügyeleti kiadások (4) Az önkormányzati utakra vonatkozó felügyeleti kiadások (5) Az osztályozott vízi utakra vonatkozó felügyeleti kiadások (6) Hitelszolgálati adatok a vasúti főhálózatra: hálózatonként, hitelszolgálati módonként (7) Hitelszolgálati adatok a vasúti mellékhálózatra: hálózatonként, hitelszolgálati módonként (8) Hitelszolgálati adatok a közutakra: összevont útkategóriánként, hitelszolgálati módonként (9) Hitelszolgálati adatok a vízi utakra: összevont osztályokban, hitelszolgálati módonként |
+
+| 2226 | A közlekedés rendészet ráfordítás adatai | (1) Az országos közutakra vonatkozó közlekedésrendészeti kiadások, útkategóriánként (2) Az önkormányzati utakra vonatkozó közlekedésrendészeti kiadások, útkategóriánként (3) Az osztályozott vízi utakra vonatkozó közlekedésrendészeti kiadások, útkategóriánként (4) Hitelszolgálati adatok a közutakra: összevont útkategóriánként, hitelszolgálati módonként (5) Hitelszolgálati adatok az osztályozott vízi utakra: összevont osztályokban, hitelszolgálati módonként |
+
+| 2227 | A közlekedési hálózati infrastruktúra központilag nyilvántartott hitelszolgálati adatai | (1) Központilag nyilvántartott hitelszolgálati adatok a vasút infrastruktúrára: fő és mellékvonal hálózatonként, hitelszolgálati módonként (2) Központilag nyilvántartott hitelszolgálati adatok az út infrastruktúrára: összevont útkategóriánként, hitelszolgálati módonként (3) Központilag nyilvántartott hitelszolgálati adatok az osztályozott vízi út infrastruktúrára: összevont osztályokban, hitelszolgálati módonként |
+
+7. melléklet a 243/2011. (XI. 22.) Korm. rendelethez
