@@ -1,9 +1,0 @@
-55. § (1) Az ajánlatokat a lehető legrövidebb időn belül el kell bírálni, az eljárás eredményét vagy eredménytelenségét legkésőbb az ajánlatok felbontásától számított harminc (építési beruházás esetén hatvan) napon belül – az ajánlattételi felhívásban meghatározott eredményhirdetési időpontban – az ajánlattevőkkel írásban közölni kell.
-
-(2) Az ajánlatkérő az eredményhirdetés időpontját – indokolt esetben – egy alkalommal, legfeljebb harminc nappal elhalaszthatja. Az ajánlatkérő az eredeti határidő lejárta előtt köteles a halasztásról és annak indokáról az összes ajánlattevőt egyidejűleg, közvetlenül, írásban tájékoztatni.
-
-(3) A (2) bekezdés szerinti esetben az ajánlatkérőnek fel kell kérnie az ajánlattevőket ajánlataiknak az eredményhirdetés elhalasztott időpontjáig történő fenntartására. Az ajánlattevő ajánlati kötöttsége – eltérő nyilatkozat hiányában – az eredményhirdetés elhalasztott időpontját követő harminc – építési beruházás esetén hatvan – napig tart.
-
-(4) Az ajánlatkérő az ajánlatokat a felhívásban meghatározott értékelési szempont alapján bírálja el. Ha az összességében legelőnyösebb ajánlatot választotta, akkor az ajánlatoknak az elbírálás részszempontjai szerinti tartalmi elemeit a felhívásban meghatározott ponthatárok között értékeli a 48. § (3) bekezdésének d) pontja alapján meghatározott módszerrel, majd az egyes tartalmi elemekre adott értékelési pontszámot megszorozza a súlyszámmal, a szorzatokat pedig ajánlatonként összeadja. Az az ajánlat az összességében legelőnyösebb, amelynek az összpontszáma a legnagyobb.
-
-(5) Ha több ajánlatnak azonos a (4) bekezdés szerint kiszámított összpontszáma, az az ajánlat minősül az összességében legelőnyösebbnek, amely alacsonyabb ellenszolgáltatást tartalmaz; azonos ellenszolgáltatás esetében pedig az az ajánlat, amely a nem egyenlő értékelési pontszámot kapott részszempontok közül a legmagasabb súlyszámú részszempontra nagyobb értékelési pontszámot kapott.

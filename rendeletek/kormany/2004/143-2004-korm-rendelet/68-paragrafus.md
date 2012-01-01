@@ -1,5 +1,0 @@
-68. § (1) Az eljárás a 6. számú melléklet szerinti ajánlattételi felhívás megküldésével indul.
-
-(2) Az ajánlattételi felhívás mellékleteként az 1. és 2. számú melléklet szerinti kérdőívet is meg kell küldeni, melyeknek kitöltött visszaküldése feltétele az eljárásban való részvételnek.
-
-(3) El kell végezni a 31–32. §-okban foglalt ellenőrzéseket. A kitöltött kérdőívek alapján az ellenőrzésre jogosult ajánlatkérő dönt az esetleg szükséges nemzetbiztonsági ellenőrzések lefolytatásáról. Az ellenőrzésre nem jogosult ajánlatkérő az illetékes nemzetbiztonsági szolgálatnál kezdeményezi a szükséges ellenőrzések elvégzését. A nemzetbiztonsági ellenőrzés lefolytatása miatt az eljárást nem lehet felfüggeszteni, eredmény azonban csak az ellenőrzés befejezése után, a nyertesre vonatkozó nemzetbiztonsági szempontból kockázati tényezőt nem tartalmazó szakvélemény esetén hirdethető. Amennyiben a nyertesre vonatkozó nemzetbiztonsági szakvélemény kockázati tényezőt állapít meg, az értékelési rangsorban következő ajánlattevő a nyertes. Ha ennél az ajánlattevőnél is kockázati tényezőt állapít meg a nemzetbiztonsági szakvélemény, az eljárást eredménytelennek kell nyilvánítani.
