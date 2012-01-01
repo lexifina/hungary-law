@@ -1,3 +1,3 @@
-## 11. §[^4]
+## 11. §[^6]
 
-[^4]: A 11. §-t a 10. § (5) bekezdése hatályon kívül helyezte.
+[^6]: A 11. §-t a 10. § (5) bekezdése hatályon kívül helyezte.

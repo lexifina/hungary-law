@@ -1,8 +1,8 @@
-5. § (1) A 100 kV vagy annál nagyobb feszültségszintű távvezetéken a Magyar Köztársaság országhatárán keresztül történő villamosenergia-szállításokat a villamosenergia-kereskedő a Hivatal részére köteles bejelenteni, ha
+5. § (1)[^1] A 100 kV vagy annál nagyobb feszültségszintű távvezetéken Magyarország országhatárán keresztül történő villamosenergia-szállításokat a villamosenergia-kereskedő a Hivatal részére köteles bejelenteni, ha
 
 a) olyan, legalább egyéves időtartamra szóló villamosenergia-szállítási szerződést kötött, amely
 
-aa) a Magyar Köztársaság területén belül történő szállításra vonatkozik, és
+aa)[^2] Magyarország területén belül történő szállításra vonatkozik, és
 
 ab) a szállítás kiinduló pontja vagy rendeltetési helye az Európai Gazdasági Térségről szóló megállapodásban részes valamely állam területén van, és
 
@@ -19,3 +19,6 @@ bb) teljesítését az átviteli rendszerirányító visszautasította.
 (3) A szállítási feltételek hiánya miatt meghiúsult szerződés esetében a szerződés létrejöttét és teljesítését megakadályozó okokat a jelentésben fel kell tüntetni.
 
 (4) A bejelentést a szállítási szerződés megkötését vagy annak meghiúsulását követő naptári hónap végéig kell a Hivatal részére megküldeni.
+
+[^1]: Az 5. § (1) bekezdés nyitó szöveg része a 91/2011. (XII. 30.) NFM rendelet 61. §-a szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdés a) pont aa) alpontja a 91/2011. (XII. 30.) NFM rendelet 61. §-a szerint módosított szöveg.
