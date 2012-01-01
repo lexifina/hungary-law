@@ -1,0 +1,1 @@
+## 2. § A gyakorlati képzési normatíva számításához figyelembe vehető alapnormatíva 2012. évre vonatkozó összege a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvényben (a továbbiakban: Szht.), a 2012. évet követően a mindenkori éves költségvetési törvényben meghatározott összeg.
