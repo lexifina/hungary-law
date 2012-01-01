@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-32-20-8
 | 2010-12-03 | 1999-32-20-82.11 | 31/2010. (XI. 18.) VM rendelet |
 | 2011-01-01 | 1999-32-20-82.12 | 31/2010. (XI. 18.) VM rendelet |
 | 2011-12-31 | 1999-32-20-82.13 | 178/2009. (XII. 29.) FVM rendelet |
+| 2012-01-01 | 1999-32-20-82.14 | 178/2009. (XII. 29.) FVM rendelet |

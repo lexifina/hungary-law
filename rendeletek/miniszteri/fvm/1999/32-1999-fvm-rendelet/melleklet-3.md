@@ -162,7 +162,9 @@ c) a feljavított ketrecekre
 
 megállapított rendelkezéseket kötelesek betartani.
 
-2.[^55] Új vagy felújított fel nem javított ketreces rendszerek üzembe helyezése tilos.
+2. Új vagy felújított fel nem javított ketreces rendszerek üzembe helyezése tilos.
+
+2.1.[^55] Ketreces tojótyúktartás során tilos fel nem javított ketrecet üzemben tartani.
 
 3. E melléklet előírását nem kell alkalmazni
 
@@ -285,7 +287,7 @@ A tojótyúkok feljavított ketreces, valamint alternatív tartási rendszerekbe
 [^52]: A 2. számú melléklet 1.10. pontjának „újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében” szövegrészét a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése hatályon kívül helyezte 2012. december 31. napjával.
 [^53]: A 3. számú melléklet a 20/2002. (III. 14.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^54]: A 3. számú melléklet 1. pont b) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte.
-[^55]: [A 3. számú melléklet 2.1. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdése iktatta be, a 11. § (2) bekezdés b) pontja alapján 2012. január 1-jétől hatályos szövege: „2.1. Ketreces tojótyúktartás során tilos fel nem javított ketrecet üzemben tartani.”.]
+[^55]: A 3. számú melléklet 2.1. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdése iktatta be.
 [^56]: A 3. számú melléklet 3. pont c) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés b) pontja hatályon kívül helyezte.
 [^57]: A 3. számú melléklet 3. pont d) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés b) pontja hatályon kívül helyezte.
 [^58]: A 3. számú melléklet 6.3. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés e) pontja szerint módosított szöveg.
