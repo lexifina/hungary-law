@@ -1,63 +1,35 @@
-## A vágóhíd által kötelezően felveendő adatok
+5. számú melléklet a 14/1998. (IV. 3.) FM rendelethez[^43]
 
-## A vágóhíd által kötelezően felveendő adatok
+A vágóhidakról készítendő összesítő jelentések tartalmi követelményei
 
-## Felvásárolt mennyiség darabszáma összesen.
+1. Felvásárolt mennyiség darabszáma összesen.
 
-## Felvásárolt mennyiség megoszlása élősúlyban (darab és százalék):
+2. Felvásárolt mennyiség megoszlása élősúlyban (darab és százalék):
 
-## – legfeljebb 80 kg vágóborjú, ezen belül bika, üsző
+| 2.1. | legfeljebb 80 kg | vágóborjú, ezen belül bika, üsző |
 
-## – 80–160 kg közötti vágóborjú, ezen belül bika, üsző
+| 2.2. | 80–160 kg közötti | vágóborjú, ezen belül bika, üsző |
 
-## – 160–300 kg közötti vágóüsző,
+| 2.3. | 160–300 kg közötti | vágóüsző, |
 
-## – 160–300 kg közötti vágóbika,
+| 2.4. | 160–300 kg közötti | vágóbika, |
 
-## – 160–300 kg közötti vágótinó,
+| 2.5. | 160–300 kg közötti | vágótinó, |
 
-## – 300 kg feletti vágóüsző,
+| 2.6. | 300 kg feletti | vágóüsző, |
 
-## – 300 kg feletti vágótehén,
+| 2.7. | 300 kg feletti | vágótehén, |
 
-## – 300 kg feletti máshová nem sorolt vegyes ivarú vágómarha, ebből bika ebből tinó és ökör együttesen.
+| 2.8. | 300 kg feletti | máshová nem sorolt vegyes ivarú vágómarha, |
 
-5. számú melléklet a 14/1998. (IV. 3.) FM rendelethez[^40]
+|  |  | ebből bika ebből tinó és ökör együttesen. |
 
-A vágóhidakról készítendő összesítő
+3. Vágás utáni minősített vágómarha darabszám összesen.
 
-jelentések tartalmi követelményei
+4. Minőségi kategóriák szerinti darabszám és százalékos megoszlás (S/EUROP húsossági és faggyússági osztály, valamint V, Z, illetve A, B, C, D, E kategóriák és jelölés szerint).
 
-A vágóhidakról készítendő összesítő
+5. Minőségi kategóriák szerinti darabszám, százalékos megoszlás (S/EUROP, húsossági és faggyússági osztály, valamint V, Z, illetve A, B, C, D, E kategóriák és jelölés szerint) átlagos vágott testsúly és annak összesítése.
 
-jelentések tartalmi követelményei
+6. A nem minősített vágómarhák darabszám és százalékos megoszlása, kor és ivar megjelölése, a nem minősítés oka.
 
-Felvásárolt mennyiség darabszáma összesen.
-
-Felvásárolt mennyiség megoszlása élősúlyban (darab és százalék):
-
-– legfeljebb 80 kg vágóborjú, ezen belül bika, üsző
-
-– 80–160 kg közötti vágóborjú, ezen belül bika, üsző
-
-– 160–300 kg közötti vágóüsző,
-
-– 160–300 kg közötti vágóbika,
-
-– 160–300 kg közötti vágótinó,
-
-– 300 kg feletti vágóüsző,
-
-– 300 kg feletti vágótehén,
-
-– 300 kg feletti máshová nem sorolt vegyes ivarú vágómarha, ebből bika ebből tinó és ökör együttesen
-
-– Vágás utáni minősített vágómarha darabszám összesen.
-
-– Minőségi kategóriák szerinti darabszám és százalékos megoszlás (S/EUROP húsossági és faggyússági osztály, valamint V, Z, illetve A, B, C, D, E kategóriák és jelölés szerint).
-
-– Minőségi kategóriák szerinti darabszám, százalékos megoszlás (S/EUROP, húsossági és faggyússági osztály, valamint V, Z, illetve A, B, C, D, E kategóriák és jelölés szerint) átlagos vágott testsúly és annak összesítése.
-
-– A nem minősített vágómarhák darabszám és százalékos megoszlása, kor és ivar megjelölése, a nem minősítés oka.
-
-[^40]: Az 5. számú mellékletet a 76/2003. (VII. 4.) FVM rendelet 11. §-ának (4) bekezdése iktatta be, szövege a 82/2009. (VII. 15.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^43]: Az 5. számú mellékletet a 76/2003. (VII. 4.) FVM rendelet 11. §-ának (4) bekezdése iktatta be, szövege a 135/2011. (XII. 22.) VM rendelet 4. §-ával megállapított szöveg.
