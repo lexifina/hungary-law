@@ -6,6 +6,6 @@ b) fakultatív népszavazás esetén 30
 
 napon belül kell dönteni.
 
-(2) Az Országgyűlésnek a népszavazás elrendeléséről szóló határozata tartalmazza, hogy a népszavazás ügydöntő vagy véleménynyilvánító, a népszavazásra bocsátott konkrét kérdést, továbbá rendelkezik a népszavazás költségvetéséről.
+(2) Az Országgyűlésnek a népszavazás elrendeléséről szóló határozata tartalmazza a népszavazásra bocsátott konkrét kérdést, továbbá rendelkezik a népszavazás költségvetéséről.
 
 (3) Az Országgyűlés elnöke a népszavazás elrendeléséről három napon belül tájékoztatja a köztársasági elnököt.

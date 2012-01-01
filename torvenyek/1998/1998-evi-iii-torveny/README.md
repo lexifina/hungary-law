@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-3-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2007-12-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 1998-3-00-00.4 |
+| 2012-01-01 | 2011. évi CCI. törvény | 1998-3-00-00.5 |
