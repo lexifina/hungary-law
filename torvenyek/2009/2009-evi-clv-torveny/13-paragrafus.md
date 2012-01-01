@@ -20,15 +20,17 @@ c) az Alkotmánybíróság tagjai,
 
 d) az Országgyűlés elnöke,
 
-e) a Legfelsőbb Bíróság elnöke, az Országos Igazságszolgáltatási Tanács elnöke,
+e) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
 
 f) a legfőbb ügyész,
 
-g) az országgyűlési biztos
+g) az alapvető jogok biztosa
+
+h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke
 
 nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adatra vonatkozó – a 18. § (2) bekezdés a), illetve b) pontjában meghatározott – rendelkezési jogosultságok gyakorlására.
 
-(4) A minősítésre jogosult, – a gazdálkodó szervezet kivételével – a minősített adatot kezelő szerv vezetője és a biztonsági vezető felhasználói engedély nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó – a 18. §-ban meghatározott – rendelkezési jogosultságok gyakorlására.
+(4) A minősített adatot kezelő szerv vezetője, valamint a biztonsági vezető felhasználói engedély nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó – a 18. §-ban meghatározott – rendelkezési jogosultságok gyakorlására.
 
 (5) A bírót – ha törvény másként nem rendelkezik – nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül megilleti az ügyelosztási rend szerint kiosztott ügyek elbírálásához szükséges rendelkezési jogosultságok gyakorlása.
 

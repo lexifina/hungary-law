@@ -4,7 +4,7 @@
 
 9. § (1) Az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), a Nyugat-európai Unió (a továbbiakban: NYEU), valamint az Európai Unió Tanácsa, az Európai Bizottság, az Európai Atomenergia Közösség (a továbbiakban: EURATOM), az Európai Rendőrségi Hivatal (a továbbiakban: EUROPOL), az Európai Igazságügyi Együttműködési Egység (a továbbiakban: EUROJUST) által használt minősítési szinteket és azok nemzeti minősítési szintű megfelelőit a 2. számú melléklet tartalmazza.
 
-(2) A Magyar Köztársaság által kötött nemzetközi szerződésben meghatározott minősítési szintet, illetve annak nemzeti minősítési szintű megfelelőjét a nemzetközi szerződés tartalmazza.
+(2) A Magyarország által kötött nemzetközi szerződésben meghatározott minősítési szintet, illetve annak nemzeti minősítési szintű megfelelőjét a nemzetközi szerződés tartalmazza.
 
 (3) A külföldi minősített adat érvényességi ideje a minősítő rendelkezése szerinti ideig tart, ennek hiányában a minősítőnek az adat felülvizsgálata tárgyában hozott döntéséig minősített adatként kell kezelni.
 

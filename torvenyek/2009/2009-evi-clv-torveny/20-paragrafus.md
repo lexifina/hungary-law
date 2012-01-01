@@ -4,7 +4,7 @@
 
 ## A Nemzeti Biztonsági Felügyelet
 
-20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a nemzeti iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a minősített adatok védelmének szakmai felügyeletéért felelős miniszter irányítása alatt álló, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter által vezetett minisztérium szervezeti keretében önálló feladattal és hatósági jogkörrel rendelkező szervezet. A Nemzeti Biztonsági Felügyelet közigazgatási hatósági ügyekben történő eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a nemzeti iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a minősített adatok védelmének szakmai felügyeletéért felelős miniszter irányítása alatt álló, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter által vezetett minisztérium szervezeti keretében önálló feladattal és hatósági jogkörrel rendelkező szervezet.
 
 (2) A Nemzeti Biztonsági Felügyelet
 
@@ -14,7 +14,7 @@ b) engedélyezi a minősített adatok kezelésére szolgáló elektronikus rends
 
 c) nyilvántartja az a) és b) pontban meghatározott engedéllyel rendelkező minősített adatot kezelő szerveket nevük és székhelyük feltüntetésével,
 
-d) a minősített adatot kezelő elektronikus rendszerekről megfelelőségi igazolások alapján tanúsítványt ad ki,
+d) a minősített adatot kezelő rendszerek elemeire vonatkozóan követelményeket határoz meg, és megfelelőségükről – vizsgálatok, megfelelőségi igazolások alapján – tanúsítványt, illetve ajánlást ad ki,
 
 e) ellátja a rejtjeltevékenység hatósági engedélyezését és felügyeletét,
 
@@ -24,7 +24,7 @@ g) ellenőrzi a minősítők minősítési gyakorlatát, ennek eredményeként e
 
 h) ellátja a minősített adatot kezelő szervnél a minősített adat kezelésének hatósági felügyeletét, ellenőrzi a minősített adat védelmére vonatkozó jogszabályok, valamint a személyi, fizikai, adminisztratív és elektronikus biztonsági szabályok betartását,
 
-i) az arra jogosult gazdálkodó szervezetek részére telephely biztonsági tanúsítványt ad ki, jogosult a telephely biztonsági tanúsítványt módosítására vagy a már kiadott tanúsítvány visszavonására,
+i) az arra jogosult gazdálkodó szervezetek részére telephely biztonsági tanúsítványt ad ki, jogosult a telephely biztonsági tanúsítvány módosítására vagy a már kiadott tanúsítvány visszavonására,
 
 j) kivizsgálja a minősített adatok védelmét érintő bejelentéseket,
 
@@ -42,7 +42,7 @@ p) részt vesz a minősített adatok cseréjével járó két- vagy többoldalú
 
 q) gondoskodik a biztonsági vezetők részére tartandó képzésről és továbbképzésről,
 
-r) együttműködik az adatvédelmi biztossal a közérdekű adatok megismeréséhez fűződő alkotmányos jog tiszteletben tartása és az információszabadság érvényesülése érdekében,
+r) együttműködik a Nemzeti Adatvédelmi és Információszabadság Hatósággal a közérdekű adatok megismeréséhez fűződő alkotmányos jog tiszteletben tartása és az információszabadság érvényesülése érdekében,
 
 s) végzi az elektronikus adatkezelő rendszerek vagy azok elemeinek elektromágneses kompromittáló kisugárzásának méréseit és ezek alapján meghatározza azok zónabesorolását,
 

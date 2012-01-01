@@ -1,6 +1,6 @@
 ## A minősítés
 
-5. § (1) Minősítéssel védhető közérdek a Magyar Köztársaság
+5. § (1) Minősítéssel védhető közérdek Magyarország
 
 a) szuverenitása, területi integritása,
 
@@ -48,7 +48,7 @@ c) „Korlátozott terjesztésű!” minősítési szintű adat esetén legfelje
 
 lehet.
 
-(7) A „Titkos!” vagy annál magasabb minősítési szintű adat minősítésének érvényességi ideje új minősítési eljárás lefolytatásával rendkívül indokolt esetben egy alkalommal, legfeljebb a (6) bekezdés a) pontjában meghatározott időtartammal, illetve a Magyar Köztársaság – magánszemély jogos érdekével szorosan összefüggő – honvédelmi, nemzetbiztonsági, bűnüldözési vagy igazságszolgáltatási érdekére tekintettel két alkalommal, legfeljebb a (6) bekezdés a) pontjában meghatározott időtartammal meghosszabbítható. A „Bizalmas!” vagy „Korlátozott terjesztésű!” minősítési szintű adat minősítésének érvényességi ideje új minősítési eljárás lefolytatásával rendkívül indokolt esetben egy alkalommal, legfeljebb 5 évvel, illetve a Magyar Köztársaság – magánszemély jogos érdekével szorosan összefüggő – honvédelmi, nemzetbiztonsági, bűnüldözési vagy igazságszolgáltatási érdekére tekintettel két alkalommal, legfeljebb a (6) bekezdés b) pontjában meghatározott időtartammal meghosszabbítható. Az új minősítési eljárást az érvényességi idő lejárta előtt le kell folytatni. Az érvényességi idő elteltével az adat minősített jellege megszűnik. A minősítés megszűnése után az adat újból nem minősíthető.
+(7) A „Titkos!” vagy annál magasabb minősítési szintű adat minősítésének érvényességi ideje új minősítési eljárás lefolytatásával rendkívül indokolt esetben egy alkalommal, legfeljebb a (6) bekezdés a) pontjában meghatározott időtartammal, illetve Magyarország – magánszemély jogos érdekével szorosan összefüggő – honvédelmi, nemzetbiztonsági, bűnüldözési vagy igazságszolgáltatási érdekére tekintettel két alkalommal, legfeljebb a (6) bekezdés a) pontjában meghatározott időtartammal meghosszabbítható. A „Bizalmas!” vagy „Korlátozott terjesztésű!” minősítési szintű adat minősítésének érvényességi ideje új minősítési eljárás lefolytatásával rendkívül indokolt esetben egy alkalommal, legfeljebb 5 évvel, illetve Magyarország – magánszemély jogos érdekével szorosan összefüggő – honvédelmi, nemzetbiztonsági, bűnüldözési vagy igazságszolgáltatási érdekére tekintettel két alkalommal, legfeljebb a (6) bekezdés b) pontjában meghatározott időtartammal meghosszabbítható. Az új minősítési eljárást az érvényességi idő lejárta előtt le kell folytatni. Az érvényességi idő elteltével az adat minősített jellege megszűnik. A minősítés megszűnése után az adat újból nem minősíthető.
 
 (8) A minősített adat kezelése során mindig egyértelműen felismerhetőnek kell lennie az adat minősített jellegének. A nemzeti minősített adat hordozóján vagy – ha arra nincs lehetőség – külön kísérőlapon fel kell tüntetni a minősítési szintet, az érvényességi időt, a minősítő nevét és beosztását (a továbbiakban együtt: minősítési jelölés).
 

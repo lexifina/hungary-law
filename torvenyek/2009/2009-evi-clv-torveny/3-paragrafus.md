@@ -30,7 +30,7 @@ b) külföldi minősített adat: az Európai Unió valamennyi intézménye és s
 
 12. elektronikus adatkezelő rendszer: minősített adat elektronikus, elektromagnetikus vagy optikai úton történő kezelésére alkalmas berendezés, módszer és eljárás együttese;
 
-13. rendvédelmi szerv: a rendőrség, a polgári védelem, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vám- és pénzügyőrség, valamint az állami és hivatásos önkormányzati tűzoltóság;
+13. rendvédelmi szerv: a rendőrség, a hivatásos katasztrófavédelmi szerv, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet;
 
 14. gazdálkodó szervezet: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában felsoroltak;
 

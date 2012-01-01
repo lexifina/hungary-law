@@ -12,4 +12,4 @@
 
 (7) A nemzeti minősített adat a minősítő által történő minősítéssel jön létre. A nemzeti minősített adat létrejöttéhez a minősítési jelölés formai követelményeit is be kell tartani.
 
-(8) A minősítő az adatvédelmi biztos megkeresésére írásban köteles részletesen megindokolni az adat minősítését.
+(8) A minősítő a Nemzeti Adatvédelmi és Információszabadság Hatóság megkeresésére írásban köteles részletesen megindokolni az adat minősítését.

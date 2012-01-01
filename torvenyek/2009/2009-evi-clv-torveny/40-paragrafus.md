@@ -2,6 +2,6 @@
 
 (2) A személyi biztonsági tanúsítványt 2011. december 31-ig kell beszerezni azon felhasználók részére, akik az államtitokra és szolgálati titokra vonatkozó jogszabályok alapján e törvény hatálybalépésének időpontjában már betekintési engedéllyel rendelkeztek.
 
-(3) A minősített adatot kezelő szervnek a minősített adat kezelésére vonatkozó engedélyt, továbbá a minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2012. december 31-ig kell beszereznie.
+(3) Az e törvény hatálybalépésének időpontjában nemzeti minősített adatot kezelő szervnek vagy jogutódjának a nemzeti minősített adat kezelésére vonatkozó engedélyt, továbbá a nemzeti minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2014. december 31-éig kell beszereznie.
 
-(4) A minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2011. december 31-ig kell megteremteni.
+(4) A nemzeti minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2014. december 31-ig kell megteremteni.
