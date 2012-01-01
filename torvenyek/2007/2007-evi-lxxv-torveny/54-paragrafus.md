@@ -10,4 +10,4 @@
 
 (5) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem fizethet jutalékot ügyfélszerzésért, és nem kaphat jutalékot azért, hogy harmadik félnek ügyfelet ajánljon.
 
-(6) A kamara a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásáért járó díjak meghatározásának elveire, elsődleges szempontjaira ajánlást adhat ki.
+(6) A kamara a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásáért járó díjak meghatározásának elveire, elsődleges szempontjaira, a díjtételek alsó határaira ajánlást adhat ki.

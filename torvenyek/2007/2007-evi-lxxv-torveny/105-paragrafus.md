@@ -4,7 +4,7 @@
 
 105. § (1) Különbözeti vizsgát az a természetes személy tehet, aki igazolja, hogy külföldön jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására jogosító, érvényes engedéllyel rendelkezik.
 
-(2) A különbözeti vizsga a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységgel összefüggő, a Magyar Köztársaság területén hatályos jogszabályok és egyéb előírások ismeretének ellenőrzésére terjed ki.
+(2) A különbözeti vizsga a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységgel összefüggő, Magyarország területén hatályos jogszabályok és egyéb előírások ismeretének ellenőrzésére terjed ki.
 
 (3) A különbözeti vizsga letételére engedélyt kell kérni. Az engedélyezés tekintetében a kamara oktatási bizottsága jár el. Az engedélyt meg kell adni a természetes személynek, ha az megfelel az (1) bekezdésben foglaltaknak.
 

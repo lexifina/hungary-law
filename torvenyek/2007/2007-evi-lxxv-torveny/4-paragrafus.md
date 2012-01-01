@@ -4,7 +4,7 @@
 
 (2) A kamara országos hatáskörű jogi személy, amely feladatainak ellátására jogi személyiséggel nem rendelkező központi szerveket és területi szervezeteket hoz létre.
 
-(3) A kamara jogosult arra, hogy a Magyar Köztársaság címerét a kamara épületein, helyiségeiben elhelyezze, valamint hivatalos iratain és bélyegzőin feltüntesse.
+(3)
 
 (4) A 2006/43/EK irányelv alkalmazásában a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásának engedélyezése, a kamarai tagok és a könyvvizsgáló cégek nyilvántartásba vétele, a minőségbiztosítás, a fegyelmi eljárások, a harmadik országbeli könyvvizsgálók és harmadik országbeli könyvvizsgáló gazdálkodók jegyzékbe vétele tekintetében a kamara minősül illetékes hatóságnak.
 

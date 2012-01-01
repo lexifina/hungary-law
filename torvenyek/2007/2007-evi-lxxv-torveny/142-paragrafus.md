@@ -1,4 +1,4 @@
-142. § (1) Az OKKT – a kamara oktatási bizottságának egyetértésével – javaslatot tesz a kamara elnökségének a 94. § (1) bekezdése szerinti vizsgabizottság elnökeinek és tagjainak névjegyzékére.
+142. § (1) Az OKKT javaslatot tesz a kamara elnökségének a 94. § (1) bekezdése szerinti vizsgabizottság elnökeinek és tagjainak névjegyzékére.
 
 (2) Vizsgabizottság elnöke és vizsgáztató tagja olyan szakember lehet, aki a vizsga tárgyában megfelelő elméleti tudással és gyakorlati tapasztalatokkal rendelkezik.
 

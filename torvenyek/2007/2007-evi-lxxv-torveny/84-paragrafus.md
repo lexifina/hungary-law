@@ -1,1 +1,1 @@
-84. § A kamara oktatási bizottsága – az OKKT-val együttműködve – jogosult ellenőrizni a szakképző helyen folytatott okleveles könyvvizsgálói képzést.
+84. § Az OKKT jogosult ellenőrizni a szakképző helyen folytatott okleveles könyvvizsgálói képzést.

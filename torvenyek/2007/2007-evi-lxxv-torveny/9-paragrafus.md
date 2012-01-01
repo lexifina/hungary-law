@@ -8,7 +8,9 @@ b) a kamarai tag könyvvizsgáló, könyvvizsgáló cég 49. § szerinti minős�
 
 c) a harmadik országbeli könyvvizsgálók és a harmadik országbeli könyvvizsgáló gazdálkodók jegyzékéből történő törlésért,
 
-d) a könyvvizsgáló jelöltek névjegyzékéből való törlésért
+d) a könyvvizsgáló jelöltek névjegyzékéből való törlésért,
+
+e) a 70 év feletti kamarai tag könyvvizsgálóknak a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység szüneteltetésének engedélyezéséért
 
 indított kamarai hatósági eljárásért.
 

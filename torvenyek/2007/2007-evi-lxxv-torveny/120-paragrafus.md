@@ -2,7 +2,7 @@
 
 (2) A kamarai tag könyvvizsgálónak – a 124. § (2) bekezdésében foglalt kivétellel – egyidejűleg legfeljebb egy kamarai tisztségviselői jogviszonya állhat fenn.
 
-(3) A 119. § a)–f) pontja szerinti tisztségviselővé a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgáló választható.
+(3) A 119. § a)–f) pontja szerinti tisztségviselővé a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető, 70 év alatti kamarai tag könyvvizsgáló választható.
 
 (4) A 119. § e) pontja szerinti tisztségviselővé a területi szervezet illetékességi területéhez tartozó kamarai tag könyvvizsgáló választható. A tisztségviselőt a területi szervezet taggyűlése választja, titkos szavazással.
 

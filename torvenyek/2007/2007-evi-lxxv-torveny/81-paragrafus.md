@@ -1,4 +1,4 @@
-81. § (1) Okleveles könyvvizsgálói képzést a pályázat útján megszerzett engedéllyel arra feljogosított felnőttképzést folytató intézmény (a továbbiakban: szakképző hely) szervezhet és folytathat. Az engedélyezési eljárás tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el.
+81. § (1) Okleveles könyvvizsgálói képzést a pályázat útján megszerzett engedéllyel arra feljogosított felnőttképzést folytató intézmény (a továbbiakban: szakképző hely) szervezhet és folytathat. Az engedélyezési eljárás tekintetében a kamara oktatási bizottsága jár el.
 
 (2) Kérelem alapján engedélyt kell adni okleveles könyvvizsgálói képzés szervezésére és folytatására annak a felnőttképzést folytató intézménynek, amely megfelel az alábbi feltételeknek:
 

@@ -6,6 +6,6 @@ b) a kamara felszólítására nem teljesíti az elfogadott pályázatában vál
 
 c) megszűnt.
 
-(2) Az engedély visszavonása tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el. Az oktatási bizottság – az OKKT egyetértésével – hivatalból megindítja az eljárást, ha az (1) bekezdésben foglaltak a tudomására jutnak.
+(2) Az engedély visszavonása tekintetében a kamara oktatási bizottsága jár el. Az oktatási bizottság hivatalból megindítja az eljárást, ha az (1) bekezdésben foglaltak a tudomására jutnak.
 
 (3) Az engedély visszavonása során a kamara oktatási bizottsága rendelkezik arról, hogy az érintett szakképző helyen tanulók a tanulmányaikat mely szakképző helyen folytathatják tovább.

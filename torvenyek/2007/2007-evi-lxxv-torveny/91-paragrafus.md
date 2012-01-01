@@ -1,10 +1,10 @@
 ## Felvétel az okleveles könyvvizsgálói képzési programba
 
-91. § (1) Az okleveles könyvvizsgálói képzési programban az a természetes személy vehet részt, akit a képzési programba felvettek. A felvételi eljárás tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el.
+91. § (1) Az okleveles könyvvizsgálói képzési programban az a természetes személy vehet részt, akit a képzési programba felvettek. A felvételi eljárás tekintetében a kamara oktatási bizottsága jár el.
 
 (2) Kérelem alapján fel kell venni az okleveles könyvvizsgálói képzési programba azt, aki megfelel az alábbi feltételeknek:
 
-a) a felsőoktatásról szóló törvény szerint a Magyar Köztársaságban államilag elismert felsőoktatási intézményben szerzett oklevéllel rendelkezik,
+a) a felsőoktatásról szóló törvény szerint Magyarországon államilag elismert felsőoktatási intézményben szerzett oklevéllel rendelkezik,
 
 b) mérlegképes könyvelői vagy azzal egyenértékű szakképesítéssel rendelkezik és szakképesítését oklevéllel, bizonyítvánnyal igazolja,
 

@@ -4,7 +4,7 @@
 
 ## Jegyzékbe vétel
 
-68. § (1) Amennyiben a harmadik országbeli illetőséggel rendelkező gazdálkodó (szervezet) átruházható értékpapírjainak kereskedelme engedélyezett a Magyar Köztársaság szabályozott piacán, az éves beszámolójáról és az összevont (konszolidált) éves beszámolójáról kiadott könyvvizsgálói jelentés abban az esetben minősül a Magyar Köztársaságban hatályos jogszabályoknak megfelelő könyvvizsgálói jelentésnek, ha a könyvvizsgálói jelentést kibocsátó harmadik országbeli könyvvizsgáló, harmadik országbeli könyvvizsgáló gazdálkodó szerepel a kamara – e célból vezetett – jegyzékében.
+68. § (1) Amennyiben a harmadik országbeli illetőséggel rendelkező gazdálkodó (szervezet) átruházható értékpapírjainak kereskedelme engedélyezett Magyarország szabályozott piacán, az éves beszámolójáról és az összevont (konszolidált) éves beszámolójáról kiadott könyvvizsgálói jelentés abban az esetben minősül a Magyarországon hatályos jogszabályoknak megfelelő könyvvizsgálói jelentésnek, ha a könyvvizsgálói jelentést kibocsátó harmadik országbeli könyvvizsgáló, harmadik országbeli könyvvizsgáló gazdálkodó szerepel a kamara – e célból vezetett – jegyzékében.
 
 (2) Az (1) bekezdés nem vonatkozik arra a könyvvizsgálói jelentésre, amelyet olyan harmadik országbeli illetőséggel rendelkező gazdálkodó (szervezet) éves beszámolójáról és összevont (konszolidált) éves beszámolójáról adtak ki, amely
 

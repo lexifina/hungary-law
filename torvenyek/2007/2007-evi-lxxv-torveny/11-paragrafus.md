@@ -1,6 +1,6 @@
 11. § (1) A kamarába – kérelem alapján – tagként fel kell venni azt a természetes személyt, aki megfelel a következő feltételeknek:
 
-a) a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet kíván folytatni,
+a) Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet kíván folytatni,
 
 b) rendelkezik az e törvényben meghatározott okleveles könyvvizsgálói szakképesítéssel,
 
@@ -12,7 +12,7 @@ e) vállalja, hogy más kamarai tag könyvvizsgálónál, könyvvizsgáló cégn
 
 f) vállalja, hogy könyvvizsgáló cégen kívül más gazdálkodó szervezetben (szervezetben) személyes közreműködésre tagként, vezető tisztségviselőként a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megkezdésének időpontjától nem lesz kötelezett [ide nem értve a (2) bekezdés szerinti jogviszonyt],
 
-g) a kamara alapszabályában meghatározott mértékű, a Magyar Köztársaság területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
+g) a kamara alapszabályában meghatározott mértékű, Magyarország területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
 
 h) a kamara alapszabályában és a kamara önkormányzati szabályzataiban foglaltakat magára kötelezőnek ismeri el,
 

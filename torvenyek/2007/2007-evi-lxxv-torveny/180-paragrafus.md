@@ -10,7 +10,7 @@
 
 (4) A Könyvvizsgálói Közfelügyeleti Bizottság megtagadja az illetékes hatóságtól érkezett, (2) és (3) bekezdés szerinti megkeresés teljesítését, ha
 
-a) az információ átadása, a vizsgálat lefolytatása hátrányosan érintheti a Magyar Köztársaság szuverenitását, biztonságát, közrendjét vagy sérti a nemzetbiztonsági szabályokat, vagy
+a) az információ átadása, a vizsgálat lefolytatása hátrányosan érintheti Magyarország szuverenitását, biztonságát, közrendjét vagy sérti a nemzetbiztonsági szabályokat, vagy
 
 b) ugyanezen intézkedések tekintetében és ugyanazon kamarai tag könyvvizsgálóval, könyvvizsgáló céggel szemben Magyarországon bírósági eljárást indítottak, vagy
 

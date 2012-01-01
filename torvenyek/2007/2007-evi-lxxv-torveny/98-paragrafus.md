@@ -4,7 +4,7 @@ a) megfelel a 11. § (1) bekezdésének b) pontjában meghatározott feltételek
 
 b) nem esik a 12. §-ban meghatározott kizáró ok alá,
 
-c) vállalja, hogy a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
+c) vállalja, hogy Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
 
 d) magára nézve kötelezőnek ismeri el a kamara vonatkozó szabályzatának rendelkezéseit,
 

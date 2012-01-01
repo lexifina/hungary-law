@@ -4,7 +4,7 @@
 
 (2) Az eskü szövege a következő:
 
-„Én, ....................................... esküszöm, hogy könyvvizsgálói tevékenységemet a Magyar Köztársaság Alkotmánya, a jogszabályok rendelkezései, a szakmai és etikai követelmények szerint lelkiismeretesen, legjobb tudásom szerint végzem és e tevékenységem során tudomásomra jutott minősített adatot, hivatásbeli és üzleti titkot megőrzöm.
+„Én, ....................................... esküszöm, hogy könyvvizsgálói tevékenységemet az Alaptörvény és a jogszabályok rendelkezései, a szakmai és etikai követelmények szerint lelkiismeretesen, legjobb tudásom szerint végzem és e tevékenységem során tudomásomra jutott minősített adatot, hivatásbeli és üzleti titkot megőrzöm.
 
 (Az eskütevő meggyőződése szerint:)
 

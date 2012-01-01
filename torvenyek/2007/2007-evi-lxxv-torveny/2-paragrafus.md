@@ -26,9 +26,9 @@
 
 12. Jogsegélyszolgálat: a kamarai tagok egyéni érdekvédelmét elősegítő kamarai szolgáltatás.
 
-13. Kamarai tag könyvvizsgáló: az a természetes személy, aki a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult a Magyar Köztársaság területén.
+13. Kamarai tag könyvvizsgáló: az a természetes személy, aki a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
 
-14. Könyvvizsgáló cég: jogi formájától függetlenül az a gazdálkodó szervezet (szervezet), amely a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult a Magyar Köztársaság területén.
+14. Könyvvizsgáló cég: jogi formájától függetlenül az a gazdálkodó szervezet (szervezet), amely a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
 
 15. Könyvvizsgáló cég kapcsolt vállalkozása: jogi formájától függetlenül bármely olyan gazdálkodó szervezet (szervezet), amely közös tulajdonlás, ellenőrzés vagy vezetés révén kapcsolatban áll a könyvvizsgáló céggel.
 
@@ -48,7 +48,7 @@ a) az a gazdálkodó, amelynek átruházható értékpapírjait az Európai Gazd
 
 b) minden olyan, az a) pont hatálya alá nem tartozó gazdálkodó, amelyet jogszabály közérdeklődésre számot tartónak minősít.
 
-20. Különbözeti vizsga: olyan vizsga, amelyet magyar nyelven kell teljesíteni, és amely a Magyar Köztársaság területén folytatott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásához szükséges ismeretek ellenőrzésére terjed ki.
+20. Különbözeti vizsga: olyan vizsga, amelyet magyar nyelven kell teljesíteni, és amely a Magyarország területén folytatott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásához szükséges ismeretek ellenőrzésére terjed ki.
 
 21. Mentor: az a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgáló, aki a könyvvizsgáló jelöltet a szakmai tapasztalatok elsajátításában segíti.
 
@@ -61,3 +61,5 @@ b) minden olyan, az a) pont hatálya alá nem tartozó gazdálkodó, amelyet jog
 25. Szakmai szolgáltatás: a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és az egyéb szakmai szolgáltatás.
 
 26. Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
+
+27. Munkaviszony jellegű jogviszony: minden olyan, munkaviszonynak, közalkalmazotti, köztisztviselői jogviszonynak, szolgálati viszonynak nem minősülő jogviszony, melyben a munkaviszonyra jellemző tartalmi elemek meghatározó jelleggel érvényesülnek. Munkaviszonyra jellemző tartalmi elemek különösen: a folyamatos és személyes munkavégzési jelleg, a rendszeres díjazási jogosultság, a rendelkezésre állási kötelezettség, az alá-fölé rendeltségi viszony (betagozódás a szervezeti hierarchiába), az irányítási, utasításadási és ellenőrzési jog (vezetői jellegű jogviszony esetén), a munkavégzés időtartamának, a munkaidő beosztásának meghatározása, a munkavégzés helyének megjelölése, a munkaeszközök és nyersanyagok, valamint a munkavégzés egyéb feltételeinek biztosítása.
