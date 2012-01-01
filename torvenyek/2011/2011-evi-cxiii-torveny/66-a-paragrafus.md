@@ -1,0 +1,1 @@
+66/A. § Az oktatásért felelős miniszter határozatban írhatja elő a közoktatási intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. Az oktatásért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.

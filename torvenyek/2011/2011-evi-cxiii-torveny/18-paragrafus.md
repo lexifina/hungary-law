@@ -16,7 +16,7 @@ f) együttműködnek a helyi védelmi igazgatás szerveivel a honvédelmi felada
 
 (2) A honvédelemi felkészülés egyes feladatainak ellátásában részt vesznek:
 
-a) az önálló szabályozó szervek,
+a)
 
 b) a központi államigazgatási szervek,
 

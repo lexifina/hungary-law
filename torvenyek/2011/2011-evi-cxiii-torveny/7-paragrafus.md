@@ -18,4 +18,4 @@ c) akinek előzetes letartóztatását rendelték el.
 
 (6) Akinek a katonai szolgálatát félbeszakították, azt a szolgálatból el kell bocsátani. A félbeszakítás tartama a katonai szolgálat idejébe nem számít be.
 
-(7) A katonai igazgatás területi szervének vezetője a katonai szolgálat félbeszakítását megszünteti, ha tudomására jut, hogy a félbeszakítás oka már nem áll fenn, vagy, ha a családfenntartói okból adott kedvezmény esetén a hadköteles a családfenntartói kötelezettségét önhibájából nem teljesíti.
+(7) A katonai igazgatásnak a hadköteles lakóhelye szerint illetékes területei szervének vezetője a katonai szolgálat félbeszakítását megszünteti, ha tudomására jut, hogy a félbeszakítás oka már nem áll fenn, vagy, ha a családfenntartói okból adott kedvezmény esetén a hadköteles a családfenntartói kötelezettségét önhibájából nem teljesíti.

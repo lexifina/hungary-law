@@ -2,9 +2,9 @@
 
 5. § (1) A behívásra tervezhető létszámot, a katonai szolgálat időtartamát, a katonai szolgálatra való behívás időpontjait a honvédelemért felelős miniszter rendeletben állapítja meg, a hadköteleseket fogadó katonai szervezeteket pedig a Honvéd Vezérkar főnöke jelöli ki.
 
-(2) A hadkötelesek behívása behívóparanccsal történik, amelyet a katonai igazgatás területi szerve a behívottnak kézbesít.
+(2) A hadkötelesek behívása behívóparanccsal történik, amelyet a katonai igazgatásnak a hadköteles lakóhelye szerint illetékes területi szerve a behívottnak kézbesít.
 
-(3) A behívásra kerülőket a katonai igazgatás területi szerve a Honvédség szervezeteinek igénye alapján választja ki a katonai szolgálatra alkalmas hadkötelesek közül. A fegyver nélküli katonai szolgálat teljesítésére engedélyt kapott hadköteles katonát a jogerős határozatot követő 15 napon belül szolgálatra be kell hívni.
+(3) A behívásra kerülőket a katonai igazgatásnak a hadköteles lakóhelye szerint illetékes területi szerve a Honvédség szervezeteinek igénye alapján választja ki a katonai szolgálatra alkalmas hadkötelesek közül. A fegyver nélküli katonai szolgálat teljesítésére engedélyt kapott hadköteles katonát a jogerős határozatot követő 15 napon belül szolgálatra be kell hívni.
 
 (4) Nem hívható be katonai szolgálatra az a hadköteles,
 
@@ -18,7 +18,7 @@ d) aki a vele közös háztartásban élő állandó ápolásra, vagy gondozásr
 
 e) aki a vele közös háztartásban élő kiskorú gyermekét egyedül tartja el,
 
-f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként, kisebbségi önkormányzati képviselőjelöltként nyilvántartásba vettek vagy megválasztottak, a jelöltsége, vagy mandátuma, megbízatása fennállásáig,
+f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként, nemzetiségi önkormányzati képviselőjelöltként nyilvántartásba vettek vagy megválasztottak, a jelöltsége, vagy mandátuma, megbízatása fennállásáig,
 
 g) aki meghagyásban részesült,
 

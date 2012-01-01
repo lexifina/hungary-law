@@ -12,4 +12,4 @@ c) a rögtönbíráskodás hatálya alá tartozó bűncselekmények büntetési 
 
 (4) A rögtönbíráskodás bevezetését a sajtótermékben, rádióban, televízióban és egyéb, helyben szokásos módon közzé kell tenni.
 
-(5) A rögtönbíráskodás a megyei, fővárosi és a katonai bíróságok hatáskörébe tartozik.
+(5) A rögtönbíráskodás a törvényszék és a katonai bíróság hatáskörébe tartozik.

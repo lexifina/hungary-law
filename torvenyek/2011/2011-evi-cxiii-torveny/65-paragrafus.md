@@ -1,6 +1,6 @@
 ## 43. A honvédelmi igazgatás körében alkalmazható rendkívüli intézkedések
 
-65. § (1) A hadkötelezettségen alapuló katonai szolgálat időtartama megelőző védelmi helyzet idején legfeljebb 12 hónap. Rendkívüli állapot idején az időtartam a katonai szükséghez igazodóan állapítható meg. A fegyveres katonai szolgálatot teljesítő a 40. § (4) bekezdésében szereplő esküt teszi le a szolgálatteljesítés első napján.
+65. § (1) A hadkötelezettségen alapuló katonai szolgálat időtartama megelőző védelmi helyzet idején legfeljebb 12 hónap. Rendkívüli állapot idején az időtartam a katonai szükséghez igazodóan állapítható meg. A fegyveres katonai szolgálatot teljesítő a 40. § (3) bekezdésében szereplő esküt teszi le a szolgálatteljesítés első napján.
 
 (2) A Honvédség tényleges katonai és a rendvédelmi szervek hivatásos állományú tagjainak szolgálati viszonyára vonatkozó szabályok rendeletben – a békeidőszakban irányadó szabályoktól eltérően – állapíthatók meg. Rendelet alapján:
 

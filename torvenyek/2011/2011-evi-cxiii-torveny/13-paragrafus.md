@@ -39,3 +39,9 @@ d) a bejelentések valódisága, a szolgáltatások teljesíthetősége céljáb
 e) a Honvédség, a rendvédelmi szervek és a védelmi igazgatás működéséhez, gyakorlataihoz, kiegészítéséhez szükséges ingatlanok és ingó dolgok ideiglenes igénybevétele.
 
 (4) A szolgáltatás igénybevételének elrendelésekor figyelembe kell venni a közigazgatási, a közszolgáltatási, valamint a közellátási szempontokat, továbbá a szolgáltatásra kötelezett méltányos érdekeit.
+
+(5) Az igénybevevő az ingatlan, szolgáltatás vagy technikai eszköz igénybevételének biztosítása érdekében a tulajdonossal vagy a szolgáltatóval szerződést köthet.
+
+(6) Az igénybevevő a szerződés egy hitelesített másolati példányát a székhelye szerint illetékes katonai igazgatási központ részére a szerződéskötést követő 30 napon belül megküldi. A szerződés megszűnésének tényét az igénybevevő köteles haladéktalanul írásban bejelenteni a székhelye szerint illetékes katonai igazgatási központ részére.
+
+(7) A szerződéssel igénybevételre lekötött ingatlant, szolgáltatást és technikai eszközt az igénybevételi hatóság igénybevételre nem jelölheti ki.

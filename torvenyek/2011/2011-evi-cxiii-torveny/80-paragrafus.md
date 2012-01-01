@@ -22,7 +22,7 @@ e) békefenntartás: a Honvédség nem alkalmazás körébe tartozó, a szemben 
 
 f) honvéd: rendfokozatára tekintet nélkül a Honvédség tényleges állományú tagja,
 
-g) honvédelmi érdek: az ország biztonságát, katonai védelmi képességét meghatározó módon befolyásoló körülmények összessége, ideértve különösen az alkotmányos rend védelméhez, a függetlenség elleni támadó szándékú törekvések, a szuverenitást és területi integritást sértő vagy veszélyeztető törekvések elhárításához a szövetségesi kötelezettségek teljesítéséhez, a szövetségi és honi védelmi infrastruktúra működésének, fejlesztésének biztosításához fűződő érdekeket,
+g) honvédelmi érdek: az ország biztonságát, katonai védelmi képességét meghatározó módon befolyásoló körülmények összessége, ideértve különösen a törvényes rend védelméhez, a függetlenség elleni támadó szándékú törekvések, a szuverenitást és területi integritást sértő vagy veszélyeztető törekvések elhárításához a szövetségesi kötelezettségek teljesítéséhez, a szövetségi és honi védelmi infrastruktúra működésének, fejlesztésének biztosításához fűződő érdekeket,
 
 h) Honvédség rendszeresített fegyverzete: a Honvédségnél rendszeresített valamennyi lőfegyver és minden olyan egyéb harceszköz – tekintet nélkül műszaki jellemzőire és alkalmazási módjára –, amely alkalmas a szemben álló erők és eszközök leküzdésére,
 
@@ -30,7 +30,7 @@ i) humanitárius művelet: a fogadó ország beleegyezésével a Honvédség ér
 
 j) külföldi hadműveleti területen végzett humanitárius tevékenység: a Honvédség részvétele a szemben álló felek fegyveres összeütközése miatt veszélyeztetett területen, a polgári lakosok élete, testi épsége, egészsége, az életfenntartáshoz szükséges alapvető javak biztosítása érdekében,
 
-k) meghagyás: munkakörhöz kapcsolódóan és névre szólóan végrehajtott eljárás, amely során a meghagyásba bevont szerv által kijelölt személyek a meghagyási névjegyzékbe kerülnek, és akiket ez alapján a katonai igazgatási helyi szerve behívásra ideiglenesen nem tervezhető kategóriába sorol,
+k) meghagyás: munkakörhöz kapcsolódóan és névre szólóan végrehajtott eljárás, amely során kormányrendelet vagy hatósági határozat alapján meghagyásba bevont szerv által kijelölt személyek a meghagyási névjegyzékbe kerülnek, és akiket ez alapján a katonai igazgatásnak a kijelölt személyek lakóhelye szerint illetékes területi szerve behívásra ideiglenesen nem tervezhető kategóriába sorol,
 
 l) műveleti terület: az a földrajzi terület és a felette levő légtér, ahol a szemben álló felek konkrét fegyveres cselekményei megvalósulnak, vagy ennek veszélye fennáll, illetve a szemben álló felek fegyveres összeütközése miatt veszélyeztetett terület,
 
@@ -42,7 +42,7 @@ o) NATO Válságreagálási Rendszer: a NATO készültségi és tervezési rendj
 
 p) parancs: meghatározott szolgálati tevékenység vagy feladat végrehajtására irányuló, személyre vagy személyek egyértelműen meghatározott körére vonatkozó, szóban, írásban vagy egyéb más módon kifejezett akaratnyilvánító rendelkezés,
 
-q) potenciális hadköteles: a hadkötelezettség alá tartozó, ki nem képzett tartalékos,
+q) potenciális hadköteles: a hadkötelezettség alá tartozó tartalékos, aki nem tartozik az önkéntes tartalékos és a kiképzett tartalékos állományba,
 
 r) rendvédelmi szerv: a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a Nemzeti Adó- és Vámhivatal, és a polgári nemzetbiztonsági szolgálatok,
 

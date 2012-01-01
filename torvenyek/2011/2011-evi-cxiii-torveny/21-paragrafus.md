@@ -10,7 +10,7 @@ c) összehangolja a katonai műveletek teljesítésével összefüggő kormányz
 
 d) meghatározza a nemzetgazdaság honvédelmi célú felkészítésével kapcsolatos követelményeket, az ország védelmi célú tartalékait, hadiipari kapacitását, valamint az infrastruktúra honvédelmi célú felkészítésének, fejlesztésének és védelmének állami feladatait, dönt a gazdaság mozgósításáról,
 
-e) meghatározza és összehangolja a miniszterek és – az autonóm államigazgatási szervek kivételével – a központi államigazgatási szervek, valamint a honvédelemben közreműködő egyéb szervek honvédelmi feladatait,
+e) meghatározza és összehangolja a miniszterek és – az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével – a központi államigazgatási szervek, valamint a honvédelemben közreműködő egyéb szervek honvédelmi feladatait,
 
 f) gondoskodik a Kormány békétől eltérő, valamint a Honvédelmi Tanács működésének feltételeiről,
 
