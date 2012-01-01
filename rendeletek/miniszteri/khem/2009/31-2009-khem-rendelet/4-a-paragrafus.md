@@ -1,6 +1,6 @@
-## A rendszerhasználati díjak megállapítása[^58]
+## A rendszerhasználati díjak megállapítása[^60]
 
-4/A. §[^59] (1) A rendszerhasználati díjat a Hivatal hivatalból indított közigazgatási hatósági eljárásban az egyes engedélyesek vonatkozásában állapítja meg.
+4/A. §[^61] (1) A rendszerhasználati díjat a Hivatal hivatalból indított közigazgatási hatósági eljárásban az egyes engedélyesek vonatkozásában állapítja meg.
 
 (2) A földgázelosztási díjat a Hivatal
 
@@ -22,5 +22,5 @@ bc) 100 m3/h-nál nagyobb névleges összkapacitású gázmérővel rendelkező 
 
 szerinti értékesítési kategóriánként állapítja meg.
 
-[^58]: A 4/A. §-t megelőző alcímet a 65/2011. (XI. 30.) NFM rendelet 1. § (11) bekezdése iktatta be.
-[^59]: A 4/A. §-t a 65/2011. (XI. 30.) NFM rendelet 1. § (11) bekezdése iktatta be.
+[^60]: A 4/A. §-t megelőző alcímet a 65/2011. (XI. 30.) NFM rendelet 1. § (11) bekezdése iktatta be.
+[^61]: A 4/A. §-t a 65/2011. (XI. 30.) NFM rendelet 1. § (11) bekezdése iktatta be.

@@ -16,6 +16,6 @@
 
 | G-160 | 160 |
 
-6. számú melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^207]
+6. számú melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^209]
 
-[^207]: A 6. számú melléklet a 65/2011. (XI. 30.) NFM rendelet 1. § (21) bekezdésével megállapított szöveg.
+[^209]: A 6. számú melléklet a 65/2011. (XI. 30.) NFM rendelet 1. § (21) bekezdésével megállapított szöveg.
