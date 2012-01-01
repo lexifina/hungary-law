@@ -1,4 +1,4 @@
-3. § (1) Háztartási alkalmazott foglalkoztatása esetén a foglalkoztató az állami adóhatóságnak havonta a munkavégzés megkezdése előtt bejelenti a (3) bekezdés szerinti adatokat. A foglalkoztató bejelentési kötelezettségét – választása szerint –
+3. § (1) Háztartási alkalmazott foglalkoztatása esetén a foglalkoztató az állami adóhatóságnak havonta vagy több hónapra előre a munkavégzés megkezdése előtt bejelenti a (3) bekezdés szerinti adatokat. A foglalkoztató bejelentési kötelezettségét – választása szerint –
 
 a) elektronikus úton, a központi elektronikus szolgáltató rendszeren keresztül (a továbbiakban: ügyfélkapu),
 
