@@ -1,3 +1,3 @@
-## 52. §[^115]
+## 52. §[^116]
 
-[^115]: Az 52. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1210. pontja hatályon kívül helyezte.
+[^116]: Az 52. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1210. pontja hatályon kívül helyezte.
