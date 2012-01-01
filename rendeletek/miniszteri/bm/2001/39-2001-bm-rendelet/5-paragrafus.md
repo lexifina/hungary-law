@@ -4,7 +4,7 @@
 
 (3) A 2. §-ban felsorolt szervek az értesítés vételére jogosult személy, szervezeti egység adataira vonatkozóan a (2) bekezdés rendelkezésein felül, évente egy alkalommal – január 31-ig – a BM Védelmi Hivatallal teljes egyeztetést hajtanak végre.
 
-(4)[^5]
+(4)[^7]
 
 Melléklet a 39/2001. (XII. 22.) BM rendelethez
 
@@ -42,4 +42,4 @@ Adatszolgáltatás időpontja:
 
 Adatokat szolgáltatta (név):
 
-[^5]: Az 5. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 133. pontja hatályon kívül helyezte.
+[^7]: Az 5. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 133. pontja hatályon kívül helyezte.
