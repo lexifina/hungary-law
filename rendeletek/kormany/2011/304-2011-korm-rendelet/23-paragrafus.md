@@ -1,0 +1,1 @@
+## 22. § Az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenység személyi és szakmai feltételeiről szóló 183/2005. (IX. 13.) Korm. rendelet 6. § (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

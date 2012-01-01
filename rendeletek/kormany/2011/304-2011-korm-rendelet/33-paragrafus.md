@@ -1,0 +1,1 @@
+## 32. § A nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet 5. § (2) bekezdés 1. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

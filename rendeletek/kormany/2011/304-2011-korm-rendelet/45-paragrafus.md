@@ -1,0 +1,1 @@
+## 44. § A Nemzeti Információs Infrastruktúra Fejlesztési Programról szóló 5/2011. (II. 3.) Korm. rendelet 6. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

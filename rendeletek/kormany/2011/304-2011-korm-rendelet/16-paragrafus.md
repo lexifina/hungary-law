@@ -1,0 +1,1 @@
+## 15. § Az Európai Uniós előcsatlakozási eszközök és az Átmeneti Támogatás felhasználásának pénzügyi tervezési, lebonyolítási, számviteli és ellenőrzési rendjéről szóló 119/2004. (IV. 29.) Korm. rendelet 2. § 23. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

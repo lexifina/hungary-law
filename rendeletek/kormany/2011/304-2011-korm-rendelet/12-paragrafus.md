@@ -1,0 +1,1 @@
+## 11. § A nemzetközi kombinált árufuvarozást elősegítő kedvezményekről szóló 266/2003. (XII. 24.) Korm. rendelet 1. § (1) bekezdésében és 2. § (1)–(3) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

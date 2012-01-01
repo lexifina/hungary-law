@@ -1,0 +1,1 @@
+## 13. § A postai szolgáltatók piacra lépésének feltételeiről szóló 68/2004. (IV. 15.) Korm. rendelet 1. § (1) bekezdés b) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
