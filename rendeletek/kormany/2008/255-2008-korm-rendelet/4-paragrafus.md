@@ -1,4 +1,4 @@
-## 3. §[^7] A szépkorúak jubileumi juttatásának fedezetét – a XXVI. Szociális és Munkaügyi Minisztérium fejezet Egyéb szociális ellátások és költségtérítések cím terhére –, továbbá a végrehajtási költségeket a központi költségvetés a Nyugdíjbiztosítási Alapnak megtéríti.
+## 3. §[^10] A szépkorúak jubileumi juttatásának fedezetét – a XXVI. Szociális és Munkaügyi Minisztérium fejezet Egyéb szociális ellátások és költségtérítések cím terhére –, továbbá a végrehajtási költségeket a központi költségvetés a Nyugdíjbiztosítási Alapnak megtéríti.
 
 4. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
@@ -34,4 +34,4 @@ c) 100. életévét betöltött személy esetén 100 000 forint.
 
 (5) A (3) bekezdés ab), bb) és cb) alpontjának alkalmazása során a KEKKH az esedékesség évét megelőző év november 1-jéig keresi meg – a 2. § (1) bekezdésében foglaltak megfelelő alkalmazásával – a szépkorú személyt, majd a 2. § (2) bekezdésében foglalt feltételek teljesülése esetén az adatokat az Igazgatóságnak adja át, amely a jubileumi juttatást az adatátvételt követő 15 napon belül, de legkorábban az esedékesség évének januárjában folyósítja.
 
-[^7]: A 3. § a 60/2009. (III. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^10]: A 3. § a 60/2009. (III. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
