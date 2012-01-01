@@ -2,7 +2,7 @@
 
 a) az adóraktár engedélyese, a bejegyzett feladó, a 24. § (1) bekezdés szerinti bejegyzett kereskedő, az adóügyi képviselő,
 
-b) az állami adóhatóság hatáskörébe tartozó adók tekintetében egyébként elektronikus adóbevallásra kötelezett adóalany és adó-visszaigénylő, a 129. § (1) bekezdés a) pontja szerinti adó-visszaigénylési jogosultság esetében a polgári törvénykönyvről szóló törvény szerinti gazdálkodó szervezetnek nem minősülő adó-visszaigénylő kivételével,
+b) az adóhatóság hatáskörébe tartozó adók tekintetében egyébként elektronikus adóbevallásra kötelezett adóalany és adó-visszaigénylő,
 
 c) választása szerint az a)–b) pont alá nem tartozó adóalany, adó-visszaigénylő.
 

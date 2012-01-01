@@ -28,7 +28,7 @@ is rendelkezzen.
 
 (7) Ha a jövedéki engedélyes kereskedő, az exportáló és az importáló ásványolajat és egyéb jövedéki terméket egyaránt forgalmaz, exportál, importál, a (2) bekezdés a) pontjában meghatározott jövedéki biztosítékot 142 millió forint összegben kell teljesíteni.
 
-(8) Nem kell jövedéki biztosítékot nyújtania annak a jövedéki engedélyes kereskedelmi, export- és importtevékenységet folytató gazdálkodó szervezetnek, amely az Áht. alapján a kincstári finanszírozás körébe tartozik.
+(8) Nem kell jövedéki biztosítékot nyújtania annak a jövedéki engedélyes kereskedelmi, export- és importtevékenységet folytató, az Áht. szerint az államháztartás központi alrendszerébe tartozó költségvetési szervnek.
 
 (9) Ha az importáló vagy a közösségi kereskedelmi tevékenység folytatására jogosult jövedéki engedélyes kereskedő kizárólag olyan jövedéki terméket importál vagy hoz be más tagállamból, amelynek adómentes beszerzésére keretengedéllyel is rendelkezik, jövedéki biztosítékot csak a keretengedélyhez kapcsolódóan kell nyújtania. Ha az importáló, illetve a közösségi kereskedelmi tevékenység folytatására jogosult jövedéki engedélyes kereskedő kizárólag egyéb ellenőrzött ásványolajat vagy megfigyelt terméket importál, illetve hoz be más tagállamból, és egyúttal felhasználói engedéllyel is rendelkezik, jövedéki biztosítékot csak a felhasználói engedélyéhez kapcsolódóan kell nyújtania.
 
@@ -36,9 +36,13 @@ is rendelkezzen.
 
 a) kizárólag szőlőborral folytató személynek a jövedéki engedély megszerzéséhez nem kell,
 
-b) kizárólag 5 liter/5 kilogramm vagy annál kisebb kiszerelésű üzemanyag-adalékkal folytató személynek 1 millió Ft összegben kell
+b) kizárólag 5 liter/5 kilogramm vagy annál kisebb kiszerelésű üzemanyag-adalékkal folytató személynek 1 millió Ft összegben kell,
+
+c) kizárólag sörfőzdében előállított sörrel folytató, sörfőzdét működtető személynek 500 ezer forint összegben kell
 
 jövedéki biztosítékot nyújtania.
+
+(10a) Jövedéki engedélyes tevékenységet kizárólag sörfőzdében előállított sörrel folytató személynek a (4) bekezdés c) pontjában előírtaktól eltérően legalább 20 m2 alapterületű, szilárd térelemekkel körülhatárolt raktárhelyiséggel kell rendelkeznie.
 
 (11) Mentesül a (2) bekezdés a) pontja szerinti biztosítéknyújtás és a (4) bekezdés c) pontjában előírt raktárhelyiség feltétele alól
 

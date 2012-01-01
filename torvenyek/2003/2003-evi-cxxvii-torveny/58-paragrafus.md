@@ -12,7 +12,7 @@ d) az 52. § (1) bekezdés g) pontja szerinti vagy egyéb, üzemanyag célra gy�
 
 e) ásványolaj önálló tárolását végző tárolótelepre, ahol a bioetanol benzinbe és a biodízel gázolajba való közvetlen bekeverése is végezhető (a továbbiakban: ásványolaj-tároló);
 
-f) a (2) bekezdésben foglaltak figyelembevételével – az ásványolaj-adóraktárak, illetve az ásványolaj-adóraktár és a jövedéki engedélyes kereskedő telephelye vagy az adómentes felhasználó üzeme, raktára között kiépített, ásványolaj szállítására létesített, összefüggő csővezetékrendszerre, ideértve a Magyar Köztársaság államhatárát átlépő csővezeték esetén annak belföldre eső szakaszát is (a továbbiakban: terméktávvezeték);
+f) a (2) bekezdésben foglaltak figyelembevételével – az ásványolaj-adóraktárak, illetve az ásványolaj-adóraktár és a jövedéki engedélyes kereskedő telephelye vagy az adómentes felhasználó üzeme, raktára között kiépített, ásványolaj szállítására létesített, összefüggő csővezetékrendszerre, ideértve Magyarország államhatárát átlépő csővezeték esetén annak belföldre eső szakaszát is (a továbbiakban: terméktávvezeték);
 
 g) a bioüzemanyagot vagy tiszta növényi olajat előállító üzemre (a továbbiakban: bioüzemanyag-adóraktár),
 
@@ -30,7 +30,7 @@ a) a terméktávvezetéken kívüli ásványolaj-adóraktár (a továbbiakban e 
 
 b) az ásványolaj-adóraktár, a jövedéki engedélyes kereskedő telephelye vagy az adómentes felhasználó üzeme, raktára területére belépő csővezeték az ásványolaj-adóraktáron, a jövedéki engedélyes kereskedő telephelyén, illetve az adómentes felhasználó üzemén, raktárán belüli első hiteles mérési pontig,
 
-c) a Magyar Köztársaság államhatárán belépő csővezeték az első belföldön lévő hiteles mérési ponttól a b) pontban megjelölt mérési pontig, a Magyar Köztársaság államhatárát elhagyó csővezeték az a) pontban megjelölt mérési ponttól az utolsó belföldön lévő hiteles mérési pontig
+c) a Magyarország államhatárán belépő csővezeték az első belföldön lévő hiteles mérési ponttól a b) pontban megjelölt mérési pontig, a Magyarország államhatárát elhagyó csővezeték az a) pontban megjelölt mérési ponttól az utolsó belföldön lévő hiteles mérési pontig
 
 tartozik.
 

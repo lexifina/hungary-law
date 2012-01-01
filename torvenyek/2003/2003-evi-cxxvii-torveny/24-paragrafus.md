@@ -16,7 +16,7 @@ f) – a (6)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosíték
 
 (2) Amennyiben a bejegyzett kereskedő eseti jelleggel hoz be jövedéki terméket más tagállamból közösségi adófelfüggesztési eljárásban, részére a vámhatóság esetenként egy szállítmányra vonatkozóan ad engedélyt a 35. § (1) bekezdés b)–c) pontban meghatározott feltételek teljesítése, valamint a kérelemben megjelölt jövedéki termék beszerzésre kerülő mennyiségére számított adónak – egyéb ellenőrzött ásványolaj esetében az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adónak – megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén (a továbbiakban: eseti bejegyzett kereskedő).
 
-(3) Az (1) bekezdés szerinti bejegyzett kereskedő által egy hónap alatt ténylegesen beszerzett jövedéki termék mennyisége – a (7) bekezdésben foglalt eltéréssel – nem haladhatja meg annak a mennyiségnek a másfélszeresét, amelynek adókockázatára a jövedéki biztosíték fedezetet nyújt, egyébként a jövedéki biztosítékot a teljes összegre ki kell egészíteni.
+(3) Az (1) bekezdés szerinti bejegyzett kereskedő 25. § szerinti, nem teljesített adófizetési kötelezettségének összege – a (7) bekezdésben foglalt eltéréssel – 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot a teljes összegre ki kell egészíteni.
 
 (4) Az e § szerinti jövedéki biztosítékra a 19. § (5) bekezdésének rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a vámhatóság akkor hagyja jóvá, illetve engedi meg a pénzügyi biztosítékban, illetve a készpénzben nyújtott jövedéki biztosíték visszavonását, ha a bejegyzett kereskedő a 25. § szerinti adófizetési kötelezettségét teljesítette.
 

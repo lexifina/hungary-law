@@ -1,6 +1,6 @@
 ## Tárgyi hatály
 
-3. § (1) A törvény rendelkezéseit a jövedéki termékek után fizetendő adóra, a dohánygyártmányok általános forgalmi adójára, a jövedéki termékek előállítására és forgalmazására, továbbá a jövedéki ügyekre kell alkalmazni.
+3. § (1) E törvény rendelkezéseit a jövedéki termékek után fizetendő adóra, a dohánygyártmányok általános forgalmi adójára, a jövedéki termékek előállítására és forgalmazására, továbbá a jövedéki ügyekre kell alkalmazni.
 
 (2) Jövedéki termékek:
 

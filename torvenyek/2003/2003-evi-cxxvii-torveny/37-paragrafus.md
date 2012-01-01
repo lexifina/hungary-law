@@ -22,7 +22,7 @@ j)
 
 (2) Több adóraktárra kért engedély, illetve az engedély módosítása esetében a kérelmező, illetve az engedélyes az (1) bekezdés b) pontjában foglalt adatokat összesítve – az adóraktárak közötti átszállításokból adódó halmozódásokat kiszűrve – adja meg.
 
-(3) Az engedélykérelemhez csatolni kell – a 35. § (1) bekezdés b) és c) pontjában foglaltak kivételével – a 35. és 36. §-ban előírt feltételek teljesítését igazoló eredeti okmányokat, iratokat, nyilatkozatokat, dokumentációkat vagy azok hitelesített másolatát.
+(3)
 
 (4) A vámhatóság az adóraktár működését a kérelemben foglaltaknak megfelelően hatvan napon belül bírálja el. A vámhatóság az adóraktári engedélyt a 38. § szerinti jövedéki biztosíték nyújtásának igazolását követő 15 napon belül adja ki.
 

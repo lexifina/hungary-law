@@ -60,10 +60,10 @@ alapján számított összeg erejéig, de legfeljebb 60 millió forint összegbe
 
 (9) A felhasználói engedéllyel egy hónap alatt beszerzett mennyiség nem haladhatja meg annak a mennyiségnek a háromszorosát, amelynek adókockázatára a jövedéki biztosíték fedezetet nyújt. Ennél nagyobb mennyiségben történő beszerzéshez a jövedéki biztosítékot a felhasználói engedélyben elfogadott jövedéki biztosíték összegének háromszorosára, de legfeljebb a (6) bekezdésben meghatározott mértékig ki kell egészíteni.
 
-(10) A felhasználói engedély megszűnésére, visszavonására a 43. § (5)–(8) bekezdésének rendelkezéseit kell értelemszerűen alkalmazni.
+(10) A felhasználói engedély megszűnésére, visszavonására a 39. § (2) bekezdés e) pontjának és a 43. § (5)–(8) bekezdésének rendelkezéseit kell értelemszerűen alkalmazni.
 
 (11) Ha a felhasználói engedély megszűnik, a jövedéki biztosíték csak az egyéb ellenőrzött ásványolaj és a megfigyelt termék készletének a 60. § (3) bekezdése szerint végzett elszámolását, és – jövedékibírság-fizetési kötelezettség megállapítása esetén – annak teljesítését követően szabadítható fel.
 
 (12) A felhasználás során feleslegessé vált, valamint a felhasználói engedély megszűnésének napján készleten maradt egyéb ellenőrzött ásványolaj és a megfigyelt termék csak adóraktárnak, felhasználói engedélyesnek, exportálónak, közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedőnek adható át, illetve az egyéb ellenőrzött ásványolaj 5 liter/5 kilogramm vagy annál kisebb kiszerelésben jövedéki engedélyes és nem jövedéki engedélyes kereskedőnek is, a vámhatóság előzetes jóváhagyása és felügyelete mellett.
 
-(13) A (6) bekezdésben meghatározott jövedékibiztosíték-nyújtási kötelezettség alól mentesül az Áht. alapján kincstári finanszírozás körébe tartozó gazdálkodó szerv.
+(13) A (6) bekezdésben meghatározott jövedékibiztosíték-nyújtási kötelezettség alól mentesül az Áht. szerint az államháztartás központi alrendszerébe tartozó költségvetési szerv.

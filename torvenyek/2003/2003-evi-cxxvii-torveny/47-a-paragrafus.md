@@ -4,7 +4,7 @@
 
 (3) Az (1) bekezdésben említett hivatalos célra történő beszerzésnek az minősül, amelyet a képviselet számviteli nyilvántartásában, a rendeltetésszerű működéshez szükséges pénzügyi kiadások között mutat ki.
 
-(4) Az adók visszaigénylésére jogosult – az (1) és (3) bekezdésben foglaltak értelemszerű alkalmazása mellett – a Magyar Köztársaság által nemzetközi szervezetként elismert szervezet vagy képviselete (a továbbiakban: nemzetközi szervezet), valamint tisztviselője is, amennyiben a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló és jogszabályban kihirdetett nemzetközi szerződés értelmében az adó tekintetében mentesség illeti meg.
+(4) Az adók visszaigénylésére jogosult – az (1) és (3) bekezdésben foglaltak értelemszerű alkalmazása mellett – Magyarország által nemzetközi szervezetként elismert szervezet vagy képviselete (a továbbiakban: nemzetközi szervezet), valamint tisztviselője is, amennyiben a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló és jogszabályban kihirdetett nemzetközi szerződés értelmében az adó tekintetében mentesség illeti meg.
 
 (5) Nemzetközi szervezet tisztviselőjének az a természetes személy minősül, akit a (4) bekezdésben említett nemzetközi szerződésben meghatározottak szerint az adók alóli mentesség személyében megilleti, feltéve, hogy az illetőt a fogadó állam arra jogosított hatósága ilyen minőségében elismeri.
 

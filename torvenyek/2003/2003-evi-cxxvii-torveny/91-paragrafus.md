@@ -18,7 +18,7 @@ d) a kiszerelt pezsgő önálló tárolását, raktározását végző raktárra
 
 (5) Az üzemi pezsgőraktárba nem saját előállítású pezsgő legfeljebb az egy naptári év alatt előállított palackos kiszerelésű, saját gyártású pezsgő 25%-ának megfelelő mennyiségben tárolható be évente. Az ezt meghaladó mennyiség pezsgő adóraktárban történő tárolásához a 72. § (6) bekezdésében foglalt feltételt, továbbá a pezsgőtároló adóraktár esetében nyújtandó jövedéki biztosítékot is teljesíteni kell.
 
-(6) A pezsgőtároló adóraktárra a 72. § (6) bekezdésének rendelkezéseit is alkalmazni kell.
+(6) A pezsgőtároló adóraktárra a 72. § (6) és (8a) bekezdésének rendelkezéseit is alkalmazni kell.
 
 (7) A pezsgőtároló adóraktárban a pezsgőn kívül adózatlan, a 73. § (9)–(10) bekezdés szerint kiszerelt alkoholtermék, sör, bor és köztes alkoholtermék tárolása is megengedett.
 

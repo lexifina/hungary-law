@@ -2,7 +2,7 @@
 
 (2)
 
-(3) A 24. § (1) bekezdés szerinti bejegyzett kereskedő a szállítási nyilvántartásának adatait havonta lezárja, és megállapítja – szállítónként, jövedéki termékenkénti részletezésben – a tárgyhóban beszerzett jövedéki termékek mennyiségét. A szállítási nyilvántartás havi zárását az adóbevallással egyidejűleg be kell nyújtani a vámhatósághoz, kivéve a 26. § (2) bekezdése szerinti esetet vagy azt az esetet, ha a bejegyzett kereskedő egyben adómentes felhasználó vagy felhasználói engedélyes is.
+(3) A 24. § (1) bekezdés szerinti bejegyzett kereskedő a szállítási nyilvántartásának adatait havonta lezárja, és megállapítja – szállítónként, jövedéki termékenkénti részletezésben – a tárgyhóban beszerzett jövedéki termékek mennyiségét. A szállítási nyilvántartás havi zárását az adóbevallással egyidejűleg be kell nyújtani a vámhatósághoz, kivéve azt az esetet, ha a bejegyzett kereskedő egyben adómentes felhasználó vagy felhasználói engedélyes is.
 
 (4) Az eseti bejegyzett kereskedő – a 48. § (9) bekezdésétől eltérően – az adófizetési kötelezettsége keletkezését követő 5 napon belül tesz adóbevallást és fizeti meg az adót, kivéve, ha az eseti bejegyzett kereskedő egyben adómentes felhasználó is.
 

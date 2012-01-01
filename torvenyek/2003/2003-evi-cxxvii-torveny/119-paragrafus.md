@@ -12,7 +12,7 @@ c) a külön jogszabályban meghatározott eljárástól eltérően előállíto
 
 d) a hamis, hamisított vagy jogtalanul megszerzett zárjegyet, adójegyet, hivatalos zárat (e §, valamint a 120. § alkalmazásában a továbbiakban: zárjegy),
 
-e) a jogosulatlanul előállított, birtokolt, vagy az arra jogosulatlan személy által használt desztillálóberendezést, a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt,
+e) a jogosulatlanul előállított, birtokolt, vagy az arra jogosulatlan személy által használt desztillálóberendezést, sör előállítására alkalmas főzőüstöt és komlóforraló üstöt, valamint a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt,
 
 f) a termékek, a zárjegy előállítására használt eszközt,
 
@@ -38,9 +38,9 @@ a) a termékek mennyisége nem haladja meg a 110. § (5) bekezdésében meghatá
 
 b) a jövedéki törvénysértés elkövetését célzó átalakítást az eszközön nem végeztek, továbbá
 
-c) a jövedéki jogsértésért felelős személy a jogsértést első ízben követte el. A felhasználásra, tárolásra és szállításra használt eszköz lefoglalása mellőzhető abban az esetben is, ha az adózás alól elvont termék mennyisége a Jöt. 110. § (5) bekezdésében meghatározott kereskedelmi mennyiséget meghaladja, de a jövedéki bírság kiszabására, beszedésére és az adózás alól elvont termék elkobzására a 114. § (6) bekezdése szerinti gyorsított eljárásban kerül sor.
+c) a jövedéki jogsértésért felelős személy a jogsértést első ízben követte el. A felhasználásra, tárolásra és szállításra használt eszköz lefoglalása mellőzhető abban az esetben is, ha az adózás alól elvont termék mennyisége a Jöt. 110. § (5) bekezdésében meghatározott kereskedelmi mennyiséget meghaladja, de a jövedéki bírság kiszabására, beszedésére és az adózás alól elvont termék elkobzására a helyszínen, a felderítéssel egyidejűleg kerül sor.
 
-(5) A vámhatóság a lefoglalásról végzésben rendelkezik. A lefoglalást elrendelő végzéssel szemben az ügyfél – jogszabálysértésre hivatkozással – kifogással élhet. A kifogást a végzés közlésétől számított nyolc napon belül kell előterjeszteni a lefoglalást végző vámhatóságnál. A kifogást a vámhatóság másodfokú szerve a benyújtástól számított tizenöt napon belül bírálja el. A kifogásnak a lefoglalás végrehajtására nincs halasztó hatálya.
+(5) A vámhatóság a lefoglalásról végzésben rendelkezik. A lefoglalást elrendelő végzéssel szemben az ügyfél – jogszabálysértésre hivatkozással – kifogással élhet. A 114. § (6) bekezdése szerinti gyorsított eljárásban foganatosított lefoglalás ellen kifogásnak nincs helye. A kifogást a végzés közlésétől számított nyolc napon belül kell előterjeszteni a lefoglalást végző vámhatóságnál. A kifogást a vámhatóság másodfokú szerve a benyújtástól számított tizenöt napon belül bírálja el. A kifogásnak a lefoglalás végrehajtására nincs halasztó hatálya.
 
 (6) A lefoglalást végzéssel meg kell szüntetni
 

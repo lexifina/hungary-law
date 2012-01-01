@@ -22,7 +22,7 @@ i) a 2707 10, a 2707 20, a 2707 30, a 2707 50, a 2710 11 11, a 2710 11 15, a 271
 
 a) – figyelemmel a (3) bekezdés rendelkezésére is – a biodízel esetében az (1) bekezdés d) pont szerinti adómérték,
 
-b) – figyelemmel a (3) bekezdés rendelkezésére is – az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya (a százalékérték századrészében kifejezve) és az (1) bekezdés a) pont szerinti adómérték szorzatának, valamint a termék bioetanol tartalmának térfogatra számított mennyiségi részaránya és 40 000 Ft/ezer liter szorzatának együttes összege,
+b) – figyelemmel a (3) bekezdés rendelkezésére is – az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya (a százalékérték századrészében kifejezve) és az (1) bekezdés a) pont szerinti adómérték szorzatának, valamint a termék bioetanol tartalmának térfogatra számított mennyiségi részaránya és 70 000 Ft/ezer liter szorzatának együttes összege,
 
 c) az a) és b) pontban nem említett bioüzemanyag esetében az üzemanyagkénti felhasználásnak megfelelően az (1) bekezdés a), d), f) vagy g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, illetve a 2207 vámtarifaszám alá tartozó alkoholtermék bioüzemanyag esetében a 64. § (2) bekezdés szerinti alacsonyabb adómérték,
 

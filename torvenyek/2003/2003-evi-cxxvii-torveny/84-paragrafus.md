@@ -28,4 +28,4 @@ adható.
 
 (11) Az üzemi egyéb bor raktárba nem saját előállítású egyéb bor legfeljebb az egy naptári év alatt előállított, saját gyártású egyéb bor 25%-ának megfelelő mennyiségben tárolható be évente. Az ezt meghaladó mennyiség üzemi egyéb bor raktárban való tárolásához a 72. § (6) bekezdésében foglalt feltételt – az alapterület vonatkozásában a (12) bekezdésben foglalt eltéréssel –, továbbá az egyéb bor tároló adóraktár esetében nyújtandó jövedéki biztosítékot is teljesíteni kell.
 
-(12) Az egyéb bor tároló adóraktárra a 72. § (6) bekezdésének a rendelkezését is alkalmazni kell azzal az eltéréssel, hogy a kizárólag egyéb bort tároló raktár alapterületének legalább 100 m2 nagyságúnak kell lennie.
+(12) Az egyébbor-tároló adóraktárra a 72. § (6) és (8a) bekezdésének a rendelkezését is alkalmazni kell azzal az eltéréssel, hogy a kizárólag egyéb bort tároló raktár alapterületének legalább 100 m2 nagyságúnak kell lennie.

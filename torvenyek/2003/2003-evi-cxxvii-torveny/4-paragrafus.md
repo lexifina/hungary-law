@@ -1,6 +1,6 @@
 ## Személyi hatály
 
-4. § A törvény rendelkezéseit
+4. § E törvény rendelkezéseit
 
 a) a jövedéki terméket és az annak előállítására alkalmas, e törvényben meghatározott terméket előállító, raktározó, tároló, szállító, forgalmazó, külföldről beszerző (beszállító), külföldre értékesítő, illetve egyéb módon birtokoló jogi személyre, jogi személyiség nélküli egyéb szervezetre és természetes személyre (a továbbiakban együtt: személy), valamint
 

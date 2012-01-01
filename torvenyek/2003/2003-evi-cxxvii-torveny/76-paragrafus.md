@@ -1,15 +1,21 @@
 ## Adóalap, adómérték
 
-76. § (1) Az adó alapja a sör mennyisége, hektoliterben és Balling- (Plató-) fokban, illetve – a 2206 vámtarifaszámú, 2,8 térfogatszázalékot meg nem haladó alkoholtartalmú sör esetében – alkoholfokban mérve.
+76. § (1) Az adó alapja a sör mennyisége, hektoliterben és alkoholfokban mérve.
 
-(2) Az (1) bekezdés alkalmazásában
+(2) E fejezet alkalmazásában alkoholfok a sörszabvány szerinti, 20 °C-on mért alkoholtartalom térfogatszázalékban kifejezve.
 
-a) Balling- (Plató-) fok: a sör eredeti szárazanyagtartalma, a végtermék sör alkohol- és szárazanyag-tartalmából a vonatkozó hatályos magyar szabványban (a továbbiakban: sörszabvány) meghatározott Balling-képlettel számítva,
+(3) Az adó hektoliterre vetítve alkoholfokonként 1470 forint, illetve a 78. § (1) bekezdés a) pontjában írt feltételeknek megfelelő üzemben előállított sörre alkoholfokonként 735 forint.
 
-b) alkoholfok: a sörszabvány szerinti, 20 °C-on mért alkoholtartalom térfogatszázalékban kifejezve.
+(4) Adómentes a természetes személy által előállított és az előállító, annak családtagjai vagy vendégei által elfogyasztott, naptári évenként és háztartásonként 1000 litert meg nem haladó mennyiségű sör, feltéve hogy értékesítésre nem kerül sor.
 
-(3) Az adó hektoliterre vetítve
+(5) A (4) bekezdés szerint előállított sörről előállításonként, az előállítás tervezett megkezdési időpontjának megjelölésével, az azt megelőző harmadik napig bejelentést kell tenni a vámhatósághoz, megadva:
 
-a) Balling-(Plató-) fokonként 665 forint,
+a) az előállító nevét,
 
-b) alkoholfokonként 1470 forint.
+b) az előállító lakcímét,
+
+c) az előállítás címét, ha az a lakcímtől eltér, és
+
+d) az előállítani kívánt sör mennyiségét.
+
+(6) A (3) bekezdés szerinti alacsonyabb adómérték érvényesítése az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.

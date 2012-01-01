@@ -14,7 +14,7 @@ d) a 2710 19 63, a 2710 19 65 és a 2710 19 69 vámtarifaszámú fűtőolaj felh
 
 (3) Az (1) bekezdés a) pontja szerinti adómentes felhasználás esetében
 
-a) az Áht. alapján kincstári finanszírozás körébe tartozó gazdálkodó szerv mentesül a jövedéki biztosítéknyújtás követelménye alól,
+a) az Áht. szerint az államháztartás központi alrendszerébe tartozó költségvetési szerv mentesül a jövedéki biztosítéknyújtás követelménye alól,
 
 b) keretengedélyre az az a) pont alá tartozó gazdálkodó szerv jogosult, aki az (1) bekezdés a) pontjában megjelölt üzemanyag beszerzését az alapító okiratában meghatározott feladatként végzi;
 

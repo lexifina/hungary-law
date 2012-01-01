@@ -8,6 +8,6 @@ b) a vevő (címzett) nevét, székhelye (telephelye) címét, adóazonosító s
 
 c) a vásárlás és a teljesítés (kitárolás) időpontját.
 
-(3) Az adóraktár engedélyese a vevőnyilvántartás adatait számítógépes adathordozón köteles tárolni, melyeket – kérésre – köteles elektronikus úton, ügyfélkapun keresztül a vámhatóság rendelkezésére bocsátani.
+(3) Az adóraktár engedélyese – a sörfőzde adóraktár engedélyese kivételével – a vevőnyilvántartás adatait számítógépes adathordozón köteles tárolni, amelyeket – kérésre – köteles elektronikus úton, ügyfélkapun keresztül a vámhatóság rendelkezésére bocsátani.
 
 (4) Az adóraktár engedélyese a jövedéki termék értékesítéséről kiállított számlán köteles a jövedéki termék vámtarifaszámát is feltüntetni.

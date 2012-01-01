@@ -20,7 +20,7 @@ c) a szállítás célját (áttárolás, értékesítés, terítőjárat);
 
 d) a szállítás rendeltetési helyét (címét, címzettjét, a terítőjárat értékesítési körzetét).
 
-Szállítólevélként elfogadható a (4) bekezdés a) pontja szerinti számla is, amennyiben az tartalmazza az e bekezdésben meghatározott adatokat.
+Szállítólevélként elfogadható a (4) bekezdés a) pontja szerinti számla, illetve egyéb számviteli bizonylat is, amennyiben az tartalmazza az e bekezdésben meghatározott adatokat.
 
 (6) A jövedéki engedélyes kereskedő a raktárhelyiségét, illetve tárolótartálya telephelyét nem jövedéki engedélyes kereskedelmi elárusítóhelyként akkor használhatja, ha
 

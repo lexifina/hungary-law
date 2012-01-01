@@ -1,6 +1,6 @@
-99. § (1) Az adójegyet a dohánygyártmányok egyedi fogyasztói csomagolási egységére oly módon kell felragasztani, hogy sérülésmentesen ne legyen eltávolítható és a csomagolás kinyitásakor eltépődjön.
+99. § (1) Az adójegyet a dohánygyártmányok fogyasztói csomagolási egységére oly módon kell felragasztani, hogy sérülésmentesen ne legyen eltávolítható és a csomagolás kinyitásakor eltépődjön.
 
-(2) Egyedi fogyasztói csomagolás alatt
+(2) Fogyasztói csomagolás alatt
 
 a) a cigaretta esetében a legalább 19, de legfeljebb 50 darab cigarettát tartalmazó fogyasztói csomagot (zsebcsomag),
 
@@ -22,7 +22,7 @@ c) a fogyasztói csomag kiskereskedelmi eladási árát,
 
 d) az adójegy sorszámát, valamint
 
-e) annak – külön jogszabályban foglalt módon való – jelölését, hogy az adójegy által képviselt fizetési kötelezettség milyen időpontban hatályba lépett (lépő) adómérték alapján került meghatározásra.
+e) annak – külön jogszabályban foglalt módon való – jelölését, hogy az adójegy által képviselt fizetési kötelezettség milyen időpontban hatályba lépett (lépő) adó- és általánosforgalmiadó-mérték alapján került meghatározásra.
 
 (4) Az adójegyet a Magyar Állam állíttatja elő, és a vámhatóság bocsátja – elektronikus úton, az ügyfélkapun keresztül benyújtott megrendelés alapján és elszámolási kötelezettség mellett – a 98. § (3) bekezdésében megjelöltek rendelkezésére.
 
@@ -36,4 +36,18 @@ a 98. § (6) bekezdése szerint halasztott fizetési kötelezettség csökkenthe
 
 (6) A halasztott fizetési kötelezettség csökken azon dohánygyártmányra felragasztott adójegy adó és általános forgalmi adó értékével, amely utáni felfüggesztett adófizetési kötelezettség alól a 13. § (3) bekezdés b)–f) pontja, valamint (9)–(10) bekezdése alapján az adóraktár engedélyese véglegesen mentesül.
 
-(7) A dohánygyártmány adóraktár engedélyese, a bejegyzett kereskedő és az importáló a szabadforgalomból visszaszállított (visszáru) dohánygyártmány adóját visszaigényelheti (levonhatja), amennyiben a dohánygyártmányt a dohánygyártmány-adóraktár engedélyese az adóraktárában újrafeldolgozza vagy megsemmisíti, illetve a bejegyzett kereskedő és az importáló megsemmisítteti. Az adólevonás joga megsemmisítés esetén az adójegy és a dohánygyártmány megsemmisítéséről felvett jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes. Újrafeldolgozás esetén az adólevonás joga az adójegy megsemmisítéséről felvett jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes, továbbá a 47. § (5) bekezdés a) pontjának, illetve (9) bekezdés a) pontjának rendelkezését is alkalmazni kell.
+(7) A dohánygyártmány-adóraktár engedélyese, a bejegyzett kereskedő és az importáló a szabadforgalomból visszaszállított (visszáru) dohánygyártmány adóját és általános forgalmi adóját visszaigényelheti (levonhatja), amennyiben
+
+a) a dohánygyártmányt a dohánygyártmány-adóraktár engedélyese az adóraktárában újrafeldolgozza vagy megsemmisíti, illetve a bejegyzett kereskedő és az importáló megsemmisítteti, vagy
+
+b) a cigarettán kívüli dohánygyártmányok esetében a dohánygyártmány-adóraktár engedélyese, a bejegyzett kereskedő és az importáló az adójegyet eltávolítja, valamint a bejegyzett kereskedő és az importáló egyúttal új adójegyet helyez fel.
+
+(8) A dohánygyártmány-adóraktár engedélyese, a bejegyzett kereskedő és az importáló a (7) bekezdés b) pontja szerint eltávolított és megsemmisített adójegyek után darabonként 6 Ft átalány-költségtérítést köteles fizetni a vámhatóság által megjelölt bankszámlára.
+
+(9) Az adó- és általánosforgalmiadó-visszaigénylés (levonás) joga
+
+a) megsemmisítés esetén az adójegy és a dohánygyártmány megsemmisítéséről felvett jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes,
+
+b) újrafeldolgozás esetén az adójegy megsemmisítéséről felvett jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes, továbbá a 47. § (5) bekezdés a) pontjának, illetve (9) bekezdés a) pontjának rendelkezését is alkalmazni kell,
+
+c) adójegy eltávolítás esetén az adójegy-eltávolításról és megsemmisítésről, továbbá a bejegyzett kereskedő és az importáló esetében az új adójegy felhelyezéséről felvett jegyzőkönyv birtokában érvényesíthető és az adójegy eltávolításának, a bejegyzett kereskedő és az importáló esetében pedig az új adójegy felhelyezésének napjától esedékes.

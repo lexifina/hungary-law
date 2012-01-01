@@ -16,7 +16,7 @@ a) a kérelmező nevét, gazdálkodási formáját, hegyközségi kódszámát, 
 
 b) a kérelmező címét, székhelyét;
 
-c) a megművelt szőlőterület(ek) helyét, helyrajzi számát, nagyságát (m2), használati jogcímét (saját tulajdon, haszonbérlet, egyéb), telepítésének évét;
+c)
 
 d) a kérelmező telephelyét vagy telephelyeit, az ott folytatott tevékenységek megjelölését, a felelős üzemvezető(k) nevét, címét;
 

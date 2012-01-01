@@ -46,6 +46,8 @@ b) a raktárban számítógépes raktárgazdálkodási rendszert működtetnek.
 
 (8) A jövedéki biztosítékot a kizárólag bérfőzést végző szeszfőzdére 500 ezer forint, az etanolüzemre legalább 1 millió forint, a szeszfőzdére és az egyéb alkoholtermék-adóraktárra legalább 10 millió forint értékben kell nyújtani. Amennyiben a szeszüzem éves etilalkohol-gyártó kapacitása nem haladja meg az évi 50 ezer hektolitert, és a szeszüzemben kizárólag legalább 80, legfeljebb 92 térfogatszázalék alkoholtartalmú, finomítatlan, élelmiszeripari alapanyagkénti felhasználásra alkalmatlan etilalkoholt állítanak elő egy desztillációs lépésben, a jövedéki biztosítékot legfeljebb 25 millió forint értékben kell nyújtani.
 
+(8a) Az alkoholtároló adóraktár-engedélyes nem teljesített adófizetési kötelezettségének összege 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot a teljes összegre ki kell egészíteni.
+
 (9) A kizárólag bérfőzést végző szeszfőzde esetében a 35. § (1) bekezdés f)–g) pontjának rendelkezését nem kell alkalmazni.
 
 (10) Az adóraktár engedélyese a minőségi kifogás vagy lejárt szavatosság miatt szabadforgalomból visszaszállított (visszáru) alkoholtermék általa megfizetett adóját visszaigényelheti (levonhatja), amennyiben az alkoholterméket megsemmisíti. Az adólevonás joga a megsemmisítési jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes.

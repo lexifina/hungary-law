@@ -24,7 +24,7 @@ d) azokat a termékeket, amelyek értékesítése valamely szellemi tulajdonjogo
 
 (8) Az elkobzott ásványolajtermékek
 
-a) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény szerinti katasztrófa esetén a területileg illetékes védelmi bizottság elnökének, illetve I–III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzata polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók;
+a) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti katasztrófa esetén a területileg illetékes védelmi bizottság elnökének, I–III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzata polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók;
 
 b) közül az értékesítésre vagy az a) pont szerinti átadásra nem került ásványolajtermékeket a vámhatóság – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – üzemanyagként, vagy fűtési, tüzelési célra felhasználhatja;
 

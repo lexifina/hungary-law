@@ -36,7 +36,9 @@ aa) másik jövedéki termék előállítására,
 
 ab) az 53. § (1) bekezdés b) és c) pont, illetve a 68. § (1) bekezdés b) pont szerinti adómentes felhasználási célra,
 
-ac) – amennyiben az ásványolajtermék – az ásványolaj-adóraktárban az ásványolajtermék előállításához kapcsolódó célra
+ac) – amennyiben az ásványolajtermék – az ásványolaj-adóraktárban az ásványolajtermék előállításához kapcsolódó célra,
+
+ad) ETBE előállítás céljára
 
 használnak fel;
 

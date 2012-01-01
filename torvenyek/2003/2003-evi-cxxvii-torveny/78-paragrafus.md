@@ -2,9 +2,9 @@
 
 78. § (1) Adóraktári engedély
 
-a) a sör előállítását végző, a 20 ezer hektoliter éves termelőkapacitást el nem érő sörgyártó üzemre (a továbbiakban: sörfőzde),
+a) a sör előállítását végző, más sörgyártó üzemtől jogilag és gazdaságilag független, más sörgyártó üzemtől elkülönült telephelyet használó, nem licencia alapján működő, a 8 ezer hektoliter éves termelőkapacitást el nem érő sörgyártó üzemre (a továbbiakban: sörfőzde),
 
-b) a sör előállítását az a) pontban megjelöltnél nagyobb termelőkapacitással végző sörgyártó üzemre (a továbbiakban: sörgyár),
+b) a sör előállítását végző, az a) pontban megjelölt feltételeknek meg nem felelő sörgyártó üzemre (a továbbiakban: sörgyár),
 
 c) a sör önálló palackozását végző palackozóüzemre (a továbbiakban: sörpalackozó),
 
@@ -20,11 +20,11 @@ adható.
 
 (4) Az (1) bekezdésben foglalt eseteken kívül a sör adó megfizetése nélküli tárolására adóraktári engedély tranzitadóraktárra is adható, a 72. § (2)–(3) bekezdése szerint.
 
-(5) A sörtároló adóraktárra a 72. § (6) bekezdésének rendelkezéseit is alkalmazni kell.
+(5) A sörtároló adóraktárra a 72. § (6) és (8a) bekezdésének rendelkezéseit is alkalmazni kell.
 
 (6) A jövedéki biztosítékot adóraktáranként,
 
-a) a sörfőzde esetében legalább 1 millió forint,
+a) a sörfőzde esetében legalább 500 ezer forint,
 
 b) egyéb söradóraktár esetében – nem értve ide a (4) bekezdés szerinti adóraktárat – legalább 40 millió forint,
 
@@ -32,6 +32,6 @@ de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes es
 
 (7) A söradóraktár engedélyese a minőségi kifogás vagy lejárt szavatosság miatt szabadforgalomból visszaszállított (visszáru) sör általa megfizetett adóját visszaigényelheti (levonhatja), amennyiben a sört az adóraktárában megsemmisítik. Az adólevonás joga a megsemmisítési jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes.
 
-(8) Sör előállítására alkalmas főzőüstöt és komlóforraló üstöt kizárólag a vámhatóság engedélyével szabad előállítani, birtokolni és értékesíteni.
+(8) Sör előállítására alkalmas főzőüstöt és komlóforraló üstöt kizárólag a vámhatóság engedélyével szabad előállítani, értékesíteni, valamint – a 76. § (4) bekezdésben meghatározott tevékenységhez használt berendezés kivételével – birtokolni.
 
-(9) A sörfőzde esetében a 35. § (1) bekezdés f)–g) pontjának rendelkezését nem kell alkalmazni.
+(9) A sörfőzde esetében a 35. § (1) bekezdés e)–g) pontjának rendelkezését nem kell alkalmazni.
