@@ -1,4 +1,4 @@
-1. § (1) A felszámoló, a vagyonfelügyelő, az ideiglenes vagyonfelügyelő (a továbbiakban együtt: felszámoló) felszámolók névjegyzékéből történő kijelölése az erre a célra kifejlesztett és az Országos Igazságszolgáltatási Tanács Hivatala (a továbbiakban: Hivatal) által jóváhagyott számítógépes program felhasználásával történik. A számítógépes programot a Hivatal üzemelteti.
+1. § (1)[^1] A felszámoló, a vagyonfelügyelő, az ideiglenes vagyonfelügyelő (a továbbiakban együtt: felszámoló) felszámolók névjegyzékéből történő kijelölése az erre a célra kifejlesztett és az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke által jóváhagyott számítógépes program felhasználásával történik. A számítógépes programot az OBH elnöke üzemelteti.
 
 (2) Az (1) bekezdés szerinti számítógépes program által kezelt adatbázisba a felszámolók névjegyzékébe bejegyzett valamennyi felszámolót fel kell venni. Az adatbázisban a felszámolókat nevük és cégjegyzék számuk azonosítja.
 
@@ -7,3 +7,5 @@
 (4) A felszámolóknál folyamatban lévő ügyek számát a felszámoló kijelöléséről és felmentéséről szóló, valamint a csődeljárás vagy felszámolási eljárás befejezését vagy megszüntetését közzétevő jogerős bírósági végzések összesített adatai alapján kell az adatbázisba felvenni, és azt hetente, a hét második munkanapján kell aktualizálni.
 
 (5) A (2)–(4) bekezdés szerinti feladatokat, továbbá az adatbázis adatainak aktualizálását a számítógépes program üzemeltetője végzi. Az üzemeltető biztosítja a számítógépes program biztonságos működését, a jogosulatlan hozzáférés és adatmódosítás elleni védelmét.
+
+[^1]: Az 1. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 36. §-a szerint módosított szöveg.
