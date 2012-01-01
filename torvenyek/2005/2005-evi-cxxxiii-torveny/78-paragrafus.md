@@ -6,10 +6,10 @@ b) – az adópolitikáért felelős miniszterrel egyetértésben – e törvén
 
 c) a felelősségbiztosítási szerződésre,
 
-d) az e törvény hatálya alá eső tevékenységet folytatók rendőrhatósági ellenőrzésére, a jogsértés esetén alkalmazható intézkedésekre,
+d) az e törvény hatálya alá eső tevékenységet folytatók rendőrségi ellenőrzésére, a jogsértés esetén alkalmazható intézkedésekre,
 
 e) a 31. § (7) bekezdésében meghatározott jegyzőkönyvre,
 
-f) a pályaalkalmassági vizsgálatra
+f) az e törvényben meghatározott tevékenységek végzéséhez szükséges szakképesítésekre
 
 vonatkozó részletes szabályokról rendeletet alkosson.

@@ -1,4 +1,4 @@
-32. § (1) Elektronikus beléptető rendszer az erre vonatkozó megbízási szerződés alapján akkor alkalmazható, ha a védett területre jogszabály vagy a terület használatára jogosult rendelkezése szerint csak arra jogosultak léphetnek be, illetőleg tartózkodhatnak ott. Az elektronikus beléptető rendszer működtetéséhez felhasznált személyes adatok kezelése során biztosítani kell az Avtv. szerinti adatvédelmi jogok érvényesülését, valamint tájékoztatást kell elhelyezni az adatkezelő személyéről és az adatok kezelésének módjáról.
+32. § (1) Elektronikus beléptető rendszer az erre vonatkozó megbízási szerződés alapján akkor alkalmazható, ha a védett területre jogszabály vagy a terület használatára jogosult rendelkezése szerint csak arra jogosultak léphetnek be, illetőleg tartózkodhatnak ott. Az elektronikus beléptető rendszer működtetéséhez felhasznált személyes adatok kezelése során biztosítani kell az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmi jogok érvényesülését, valamint tájékoztatást kell elhelyezni az adatkezelő személyéről és az adatok kezelésének módjáról.
 
 (2) A belépésre jogosultaknak az elektronikus beléptető rendszer működtetéséhez kezelt azonosító adatait (nevét és lakcímét)
 
@@ -18,4 +18,4 @@ meg kell semmisíteni.
 
 (4) A belépési adatbázis adatai csak a megbízó részére, illetőleg bűncselekmény vagy szabálysértés gyanújának észlelése esetén, illetőleg megkeresés alapján a nyomozó hatóságnak, illetőleg a szabálysértési hatóságnak adhatók át.
 
-(5) A távfelügyeleti rendszer és az adat- és informatikai védelemre irányuló biztonságtechnikai rendszer működése körében rögzített adatok felhasználása és kezelése során a 30. § (1) bekezdésében, valamint a 31. § (2) bekezdésében foglaltak szerint kell eljárni.
+(5) A távfelügyeleti rendszer és az adat- és informatikai védelemre irányuló elektronikai vagyonvédelmi rendszer működése körében rögzített adatok felhasználása és kezelése során a 30. § (1) bekezdésében, valamint a 31. § (2) bekezdésében foglaltak szerint kell eljárni.

@@ -2,7 +2,7 @@
 
 61. § (1) A kamara felett a rendészetért felelős miniszter törvényességi felügyeletet gyakorol.
 
-(2) Az e törvény alapján gyakorolt törvényességi felügyelet nem terjed ki olyan ügyre, amelyben egyébként bírósági vagy államigazgatási eljárásnak van helye.
+(2) Az e törvény alapján gyakorolt törvényességi felügyelet nem terjed ki olyan ügyre, amelyben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
 
 (3) A rendészetért felelős miniszter törvényességi felügyeleti jogkörében ellenőrzi, hogy
 

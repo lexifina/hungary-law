@@ -10,4 +10,4 @@ b) 3–13. §-ai, 17. §-a, 33. §-a, 37–72. §-ai és 77. §-ának (1) bekezd
 
 lépnek hatályba.
 
-(3) Az e törvény hatálybalépését megelőzően kiadott működési engedélyek és igazolványok 2006. december 31-ig érvényesek.
+(3)

@@ -4,7 +4,7 @@ a) a kamara tagja meghal;
 
 b) a rendőrség a kamara tagjának valamennyi igazolványát visszavonja;
 
-c) a kamara tagja valamennyi igazolványának visszaadása mellett a kamarai tagságáról lemond;
+c) a kamara tagja a kamarai tagságáról lemond;
 
 d) a kamara a tagját etikai eljárás lefolytatása során kizárja;
 

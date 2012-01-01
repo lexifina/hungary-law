@@ -2,19 +2,19 @@
 
 38. § (1) A kamara
 
-a) a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységgel összefüggő ügyekben képviseli és védi a személy- és vagyonvédelmi, valamint a magánnyomozói szakma tekintélyét, testületeinek és tagjainak általános szakmai érdekeit, illetve a hivatásukból eredő, e törvényben biztosított jogaikat, továbbá elősegíti, hogy a tevékenység végzése a hatályos jogszabályok, valamint a kamara által megalkotott etikai szabályok alapján történjen;
+a) az e törvény hatálya alá tartozó tevékenységgel összefüggő ügyekben képviseli és védi a személy- és vagyonvédelmi, a tervező-szerelő, valamint a magánnyomozói szakma tekintélyét, a kamara testületeinek és tagjainak általános szakmai érdekeit;
 
-b) megalkotja a kamara alapszabályát, kidolgozza a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység gyakorlásának szakmai irányelveit, ajánlásokat dolgoz ki a szolgáltatások teljesítésének szakmai követelményeire;
+b) megalkotja a kamara alapszabályát, közreműködik az e törvény hatálya alá tartozó tevékenységek gyakorlásának szakmai irányelvei, továbbá a szolgáltatások teljesítésének szakmai követelményeire vonatkozó ajánlások kidolgozásában;
 
-c) véleményt nyilvánít a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységet érintő jogszabályokról, kezdeményezi jogszabályok kiadását;
+c) véleményt nyilvánít az e törvény hatálya alá tartozó tevékenységeket érintő jogszabályokról, kezdeményezi jogszabályok kiadását;
 
-d) kidolgozza a szakképzés és a szakmai továbbképzés követelményszintjeit, a szakmai minősítő rendszert, közreműködik a szakképzésben és a vizsgáztatásban;
+d) az e törvény hatálya alá tartozó tevékenység végzésére jogosító, külön jogszabályban meghatározott szakképesítések tekintetében a rendészetért felelős miniszterrel kötött megállapodás alapján kidolgozza és gondozza a szakmai és vizsgakövetelményt, a szakmai minősítő rendszert, közreműködik a szakképzésben és a vizsgáztatásban, valamint javaslatot tesz az állam által elismert szakképesítésre, a szakmai vizsgaszabályzatra, a szakmai vizsga szervezését engedélyező, valamint a vizsgaszervezési tevékenységek ellenőrzése során szakértőként kirendelhető személyekre;
 
-e) megalkotja a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység etikai szabályait;
+e) megalkotja a kamara etikai szabályait;
 
 f) etikai eljárást folytat le az etikai szabályokat megszegő tagokkal szemben;
 
-g) a kamara természetes személy tagjairól névjegyzéket, a vállalkozásokról nyilvántartást vezet, és ezekről statisztikai adatokat szolgáltat;
+g) az információs önrendelkezési jogról és az információszabadságról szóló törvénynek adatvédelmi szabályai megtartásával a természetes személy tagjairól névjegyzéket, a vállalkozásokról nyilvántartást vezet a kamarai tagság vagy nyilvántartási kötelezettség megszűnéséig vagy megszüntetéséig, és ezekről – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat;
 
 h) tagjai, valamint az általa nyilvántartott vállalkozások tevékenységéhez kapcsolódó konferenciákat, kiállításokat, vásárokat és más rendezvényeket szervez, önkormányzati szabályzatának megfelelően minősíti és felügyeli tagjai vásári, kiállítási megjelenését, tevékenységét;
 
@@ -24,14 +24,14 @@ j) kapcsolatot tart az illetékes gazdasági kamarákkal, továbbá a hasonló j
 
 k) kezdeményezi szabványok kiadását;
 
-l) kiadja a vagyonvédelmi biztonságtechnikai tervezői engedélyt, évenként közzéteszi a tervezői névjegyzéket, ellenőrzi az általa kiadott tervezői engedélyekben foglaltak és a szakmai előírások betartását;
+l)
 
 m) tagjai támogatására – a kamara önkormányzati szabályzataiban meghatározott szabályok szerint – segélyalapot hoz létre és használ fel;
 
-n) választott bíróságot működtet, mediációs szolgáltatást nyújt;
+n)
 
-o) meghatározza a vagyonvédelmi biztonságtechnikai és mechanikai rendszer telepítése során szükséges, ahhoz kapcsolódó segédmunka és más, kisegítő jellegű tevékenység azon formáit, amelyek működési engedély és kamarai tagság hiányában is végezhetők.
+o)
 
-(2) Az (1) bekezdés g) pontja szerinti névjegyzékben fel kell tüntetni a kamarai tag nevét, születési helyét és idejét, anyja nevét, személyazonosító igazolványa számát, lakcímét, levelezési címét, ideiglenes lakcímét, kamarai nyilvántartási számát, kamarai tagságának keltét, a rendőrség által kiállított igazolvány számát, a kiadás időpontját és a kiállító rendőrkapitányságot.
+(2) Az (1) bekezdés g) pontja szerinti névjegyzékből és nyilvántartásból adattovábbításra irányuló kérelmet teljesíteni nem lehet.
 
-(3) Az (1) bekezdés g) pontja szerinti nyilvántartásban fel kell tüntetni a vállalkozást képviselő természetes személy nevét, születési helyét és idejét, anyja nevét, lakcímét, levelezési címét, személyazonosító igazolványa számát, a vállalkozás nevét, rövidített nevét, székhelyét, ennek hiányában a telephelyét, kamarai nyilvántartási számát, a vállalkozás működési engedélyének számát, az engedély kiadásának időpontját és az engedélyt kiállító rendőrkapitányságot.
+(3) Ha a kamara a 38. § (1) bekezdés d) pontjában meghatározott feladatát nem tudja ellátni, a rendészetért felelős miniszter intézkedik a feladat visszavételéről.

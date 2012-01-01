@@ -1,1 +1,3 @@
-12. § Az engedély, illetve az igazolvány visszavonása, illetve bevonása esetén, illetve, ha a jogosult az engedélyt, illetve az igazolványt a rendőrségnek visszaadja, a személy- és vagyonvédelmi, illetve a magánnyomozói tevékenység nem gyakorolható.
+12. § (1) Ha a személy- és vagyonvédelmi tevékenységet személyesen folytató személyt kétévi vagy ennél hosszabb tartamú szabadságvesztéssel büntetendő szándékos bűncselekmény elkövetésén tetten érik, a rendőr az igazolványt a helyszínen átvételi elismervény ellenében elveszi.
+
+(2) Az (1) bekezdés alapján elvett igazolványt a rendőr haladéktalanul megküldi – az elvétel okának megjelölésével – az igazolványt kiállító hatóságnak.

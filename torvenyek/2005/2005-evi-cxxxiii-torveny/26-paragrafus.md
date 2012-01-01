@@ -1,4 +1,4 @@
-26. § (1) A vagyonőrzési feladatokat ellátó személy- és vagyonőr a megbízó közterületnek nem minősülő létesítményének őrzése során jogosult:
+26. § (1) A vagyonőr a megbízó közterületnek nem minősülő létesítményének őrzése során jogosult:
 
 a) a területre belépő vagy az ott tartózkodó személyt kiléte igazolására, a belépés, illetőleg a tartózkodás céljának közlésére, jogosultságának igazolására felhívni, ennek megtagadása vagy a közölt adatok nyilvánvaló valótlansága esetén – a megbízó eltérő rendelkezésének hiányában – az érintett belépését, ott-tartózkodását megtiltani, és távozásra felszólítani;
 
@@ -8,13 +8,13 @@ c) a területen tartózkodó vagy onnan kilépő személyt – a 28. § rendelke
 
 d) a jogsértő személyt magatartása abbahagyására felhívni;
 
-e) vagyonvédelmi biztonságtechnikai rendszert alkalmazni;
+e) elektronikai vagyonvédelmi rendszert alkalmazni;
 
 f) a területre belépők ellenőrzésére fegyver-, illetve robbanóanyag-kutató műszert alkalmazni és a közbiztonságra különösen veszélyes eszközök bevitelét megtiltani.
 
 (2) A vagyonőr a szerződésben megjelölt ingóságot – a szerződés keretei között – az őrzött területen (létesítményen) kívül is védheti, ennek során az (1) bekezdésben meghatározott jogok illetik meg, kivéve, hogy elektronikus megfigyelőrendszert közterületen ilyenkor sem alkalmazhat.
 
-(3) A rendezvény biztosítását végző személy- és vagyonőr az (1) bekezdésben meghatározottakon túl jogosult:
+(3) Az 1. § (2) bekezdés d) pontja szerinti, rendezvénybiztosítási feladatokat ellátó személy az (1) bekezdésben meghatározottakon túl jogosult:
 
 a) zárt területen vagy helyen tartott rendezvényre belépő személyt – a rendőrség, illetve a rendezésért felelős személy intézkedése alapján, ha a szerződésből fakadó kötelezettségeit érvényesíteni más módon nem tudja – különösen a testi sérülés okozására alkalmas tárgyak bevitelének megakadályozása érdekében csomagja tartalmának bemutatására felszólítani, rajta és csomagján kizárólag fémtárgyak kimutatására alkalmas eszközt alkalmazni, ennek visszautasítása esetén a rendezvényen való részvételét megtiltani;
 
@@ -22,4 +22,4 @@ b) a rendezvény megtartását akadályozó vagy zavaró, annak biztonságát ve
 
 c) a sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvényeken rendezői feladata során a sportról szóló törvényben meghatározottak szerint, a sportrendezvényről eltávolítandó személyt visszatartani, ha az személyazonosságát felhívásra nem igazolja.
 
-(4) Pénz- és értékőrzést, értékszállítást, szállítmány kísérését, valamint szállítást végző személy- és vagyonőr jogosult a szállítást jogtalanul akadályozó, illetve az őrzött vagy szállított érték biztonságát veszélyeztető személyt kilétének igazolására, a tevékenységét akadályozó, veszélyeztető magatartásának abbahagyására felhívni.
+(4) Az 1. § (2) bekezdés b) és c) pontja szerinti, pénz- és értékőrzési, értékszállítási, szállítmánykísérési, valamint szállítási feladatokat ellátó személy jogosult a szállítást jogtalanul akadályozó, illetve az őrzött vagy szállított érték biztonságát veszélyeztető személyt kilétének igazolására, a tevékenységét akadályozó, veszélyeztető magatartásának abbahagyására felhívni.

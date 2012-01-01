@@ -1,8 +1,8 @@
-6. § (1) Személy- és vagyonvédelmi, valamint magánnyomozói tevékenység (ideértve a magánnyomozói tevékenység szervezését és irányítását is) – ha e törvény kivételt nem tesz – személyre szóló, a rendőrség által kiadott hatósági igazolvány (a továbbiakban: igazolvány) birtokában végezhető.
+6. § (1) Az e törvény hatálya alá tartozó tevékenységek (ideértve a magánnyomozói tevékenység szervezését és irányítását is) személyes végzéséhez – ha e törvény kivételt nem tesz – a rendőrség által kiadott igazolvány szükséges.
 
-(2) Igazolványt – kérelmére – az a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy kaphat, aki nagykorú, cselekvőképes, külön jogszabályban meghatározott vagy azzal egyenértékű szakképesítéssel, továbbá a magánnyomozó tevékenység végzéséhez legalább középiskolai végzettséggel rendelkezik. Az igazolvány kiadását meg kell tagadni, ha a kérelmező a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll. A tevékenység gyakorlásának feltételeit, továbbá azt, hogy a kérelmező nem áll-e az e törvény hatálya alá tartozó tevékenység vagy fegyveres szerv hivatásos állományú tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt, az igazolvány kiadására és meghosszabbítására irányuló eljárásban a kérelmező igazolja.
+(2) Igazolványt – kérelmére – az a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy kaphat, aki nagykorú, cselekvőképes, külön jogszabályban meghatározott vagy azzal egyenértékű szakképesítéssel, továbbá a magánnyomozói tevékenység végzéséhez legalább középiskolai végzettséggel rendelkezik. Az igazolvány kiadását meg kell tagadni, ha a kérelmező a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll. A tevékenység gyakorlásának feltételeit, továbbá azt, hogy a kérelmező nem áll-e az e törvény hatálya alá tartozó tevékenység vagy fegyveres szerv hivatásos állományú tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt, az igazolvány kiadására és meghosszabbítására irányuló eljárásban a kérelmező igazolja.
 
-(3) Személy- és vagyonvédelmi, valamint magánnyomozói tevékenységet nem végezhet:
+(3) Az e törvény hatálya alá tartozó tevékenységet nem végezhet:
 
 a) aki büntetett előéletű,
 
@@ -10,7 +10,7 @@ b) akit a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a tov�
 
 c) aki ellen kétévi vagy ennél hosszabb tartamú szabadságvesztéssel fenyegetett szándékos bűncselekmény elkövetésének gyanúja miatt büntetőeljárás folyik, a büntetőeljárás jogerős befejezéséig.
 
-(4) Személy- és vagyonvédelmi, valamint magánnyomozói tevékenységet nem végezhet, akivel szemben a (3) bekezdés b) pontjában meghatározott
+(4) Az e törvény hatálya alá tartozó tevékenységet nem végezhet, akivel szemben a (3) bekezdés b) pontjában meghatározott
 
 a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
 
@@ -22,6 +22,8 @@ b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést 
 
 c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett
 
-ca) szabadságvesztést szabtak ki, a mentesítés beálltától számított nyolc évig,
+ca) szabadságvesztést szabtak ki, a mentesítés beálltától számított nyolc évig.
 
-cb) pénzbüntetést szabtak ki, a mentesítés beálltától számított három évig.
+cb)
+
+(5) Nem szükséges igazolvány az elektronikai vagyonvédelmi rendszer telepítésére, szerelésére irányuló hálózatépítéssel összefüggő segédmunkához, amennyiben a hálózatépítés helyén jelen van a munkát irányító, igazolvánnyal rendelkező személy.

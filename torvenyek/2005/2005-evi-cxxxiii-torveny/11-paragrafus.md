@@ -1,29 +1,21 @@
-## A működési engedély és az igazolvány visszavonása, bevonása, elvétele
+## A működési engedély visszavonása és felfüggesztése, valamint az igazolvány visszavonása, bevonása és elvétele
 
-11. § (1) A rendőrség a működési engedélyt haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül határozattal visszavonja, ha
+11. § (1) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül a működési engedélyt
 
-a) kiadásának feltételei megszűntek;
+a) visszavonja, ha kiadásának bármely feltétele megszűnt,
 
-b) a vállalkozást a kamarai nyilvántartásból törölték.
+b) hat hónapra felfüggeszti, ha a vállalkozás e törvény szabályait – a 65. §-ban foglaltak szerint – súlyosan megsértette.
 
-(2) A rendőrség a működési engedélyt haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül határozattal bevonja, ha a vállalkozás e törvény szabályait ismételten vagy súlyosan megszegte.
+(2) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül az igazolványt
 
-(3) Az igazolványt a rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül határozattal visszavonja, ha
+a) visszavonja, ha kiadásának a 6. § (2) bekezdése, vagy a 6. § (3) bekezdés a) vagy b) pontja szerinti feltétele már nem áll fenn,
 
-a) kiadásának valamely jogszabályi feltétele már nem áll fenn;
+b) hat hónapra bevonja, ha az igazolvány jogosultja e törvény szabályait – a 65. §-ban foglaltak szerint – súlyosan megsértette,
 
-b) az igazolvány tulajdonosának kamarai tagsága megszűnt.
+c) a büntetőeljárás jogerős befejezéséig bevonja, ha kiadásának a 6. § (3) bekezdés c) pontja szerinti feltétele már nem áll fenn.
 
-(4) Az igazolványt a rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül határozattal bevonja, ha
+(3) A (2) bekezdés b) pontjában meghatározott idő elteltével a rendőrség az igazolványt a jogosultnak visszaadja, kivéve, ha az igazolvány visszavonásának vagy bevonásának más oka áll fenn.
 
-a) az igazolvány tulajdonosának kamarai tagságát felfüggesztették;
+(4) A (2) bekezdés c) pontjában foglalt esetben a büntetőeljárás jogerős befejezését követően a rendőrség az igazolványt a jogosultnak visszaadja, ha az igazolvány kiadásának a 6. § (2) bekezdése, vagy a 6. § (3) bekezdés a) vagy b) pontja szerinti feltétele fennáll.
 
-b) az igazolvány tulajdonosa e törvény szabályait ismételten vagy súlyosan megszegte;
-
-c) az igazolvány birtokosa ellen kétévi vagy ennél hosszabb tartamú szabadságvesztéssel fenyegetett szándékos bűncselekmény elkövetése miatt indult büntetőeljárás.
-
-(5) Ha a (4) bekezdés c) pontjában foglalt esetben az eljárás az igazolvány tulajdonosának büntetőjogi felelőssége megállapítása nélkül zárul, a rendőrség az igazolványt tulajdonosának visszaadja.
-
-(6) E törvény szabályainak ismételt vagy súlyos megszegése esetén az engedély, illetve az igazolvány meghatározott időre, de legfeljebb két évre vonható be. A meghatározott idő elteltével a rendőrség az engedélyt, illetve az igazolványt tulajdonosának visszaadja.
-
-(7) A kamarai tagság felfüggesztéséről szóló határozatban meghatározott idő elteltével a rendőrség az igazolványt tulajdonosának visszaadja.
+(5) A rendőrség a működési engedélyt vagy az igazolványt nyolc napon belül visszavonja, ha a jogosult a működési engedély alapjául szolgáló tevékenység folytatását befejezi, és ezt a rendőrségnek bejelenti.

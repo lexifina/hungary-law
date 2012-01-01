@@ -1,7 +1,19 @@
-70. § (1) Az a szabad mozgás és tartózkodás jogával rendelkező személy, aki más EGT-tagállamban kiadott, az e törvény hatálya alá tartozó tevékenység végzésére jogosító okirattal rendelkezik, a Magyar Köztársaság területén az e törvény hatálya alá tartozó tevékenységet a rendőrség igazolvány kiadására illetékes szervének a (2) bekezdésben foglaltak szerint hozott határozata alapján kezdheti meg és gyakorolhatja. A tevékenység végzésének további feltétele annak igazolása, hogy a kérelmező a kamara tagja.
+70. § (1) Az a szabad mozgás és tartózkodás jogával rendelkező személy, aki más EGT-államban kiadott, személy- és vagyonvédelmi tevékenység végzésére jogosító okirattal rendelkezik, Magyarország területén az e törvény hatálya alá tartozó tevékenységet letelepedés keretében a rendőrség (2) bekezdés szerinti engedélye alapján kezdheti meg és gyakorolhatja.
 
-(2) A rendőrség a szabad mozgás és tartózkodás jogával rendelkező személy kérelmére magyarországi tevékenységét akkor engedélyezi, ha a kérelmező által szolgáltatott, hitelesen lefordított okiratokat megvizsgálva meggyőződik arról, hogy a kérelmezőt e törvény hatálya alá tartozó tevékenység végzésére feljogosító, a más EGT-tagállamban kiadott okirat valódi és érvényes.
+(2) A rendőrség a szabad mozgás és tartózkodás jogával rendelkező személy Magyarország területén letelepedés keretében végzett személy- és vagyonvédelmi tevékenységét kérelmére akkor engedélyezi, ha a kérelmező által szolgáltatott, a magyar nyelvre lefordított okiratokat megvizsgálva meggyőződik arról, hogy a kérelmezőt e törvény hatálya alá tartozó tevékenység személyes végzésére jogosító, más EGT-államban kiadott okirat érvényes és hatályos.
 
-(3) Más EGT-tagállamban kiadott okirat alapján a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi tevékenységét a rendőrség határozatlan időre, de legfeljebb a (2) bekezdés szerinti határozat meghozatalának alapjául szolgáló okirat érvényességének idejéig engedélyezi.
+(3) A rendőrség a (2) bekezdés szerinti engedéllyel rendelkezőkről – a tevékenység ellenőrzésének céljából – nyilvántartást vezet, amely tartalmazza:
 
-(4) A rendőrség nyilvántartást vezet azokról a szabad mozgás és tartózkodás jogával rendelkező személyekről, akik számára a magyarországi tevékenységet a (2) bekezdés szerint engedélyezte, a (2) bekezdés szerinti határozat meghozatalának alapjául szolgáló okirat kiadásának időpontjáról és érvényességének idejéről, a határozat visszavonásáról és a magyarországi tevékenység határozott időre való megtiltásáról. A nyilvántartott adatot törölni kell, ha nyilvántartása a továbbiakban a tevékenység ellenőrzésének céljából nem szükséges.
+a) a szabad mozgás és tartózkodás jogával rendelkező személy nevét, lakó- vagy tartózkodási helyét;
+
+b) az engedélyezett tevékenység megnevezését;
+
+c) az engedély számát;
+
+d) az EGT-vállalkozás magyarországi tevékenységének 68. § (2) bekezdése szerinti megtiltása esetén az erről szóló határozatot;
+
+e) az engedély kiállításának alapjául szolgáló okirat kiadásának időpontját, érvényességének és hatályosságának idejét.
+
+(4) A rendőrség a (3) bekezdés szerinti nyilvántartásban szereplő adatokat az engedély visszavonásáig tartja nyilván.
+
+(5) A (3) bekezdés szerinti nyilvántartás a személy- és vagyonvédelmi tevékenység folytatásának hatósági ellenőrzését és a szolgáltatást igénybe vevők tájékoztatását szolgálja. A (3) bekezdés a)–d) pontjában foglalt adatok közérdekből nyilvánosak.

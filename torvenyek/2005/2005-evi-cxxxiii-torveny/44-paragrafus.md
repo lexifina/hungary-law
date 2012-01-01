@@ -18,6 +18,6 @@ a) megtartsa a kamara alapszabályában foglalt rendelkezéseket;
 
 b) megfizesse a kamarai tagdíjat;
 
-c) az előírt továbbképzéseken részt vegyen, a szükséges vizsgákat letegye;
+c)
 
 d) tevékenysége során a szakmai irányelveknek, valamint az etikai szabályoknak megfelelően járjon el.

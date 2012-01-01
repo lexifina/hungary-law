@@ -1,19 +1,19 @@
-## A működési engedély és az igazolvány
+## A személy- és vagyonvédelmi, a tervező-szerelő és a magánnyomozói tevékenység megkezdése és folytatása
 
-5. § (1) Vállalkozás keretében személy- és vagyonvédelmi, valamint magánnyomozói tevékenység – ha e törvény kivételt nem tesz – a rendőrség által a vállalkozás részére kiadott működési engedély és a kamarai nyilvántartásba vételről szóló igazolás birtokában végezhető.
+5. § (1) Vállalkozás keretében személy- és vagyonvédelmi tevékenység – ha e törvény kivételt nem tesz – a rendőrség által a vállalkozás kérelmére kiadott működési engedély birtokában végezhető, ha
 
-(2) Az (1) bekezdésben említett hatósági engedély nélkül személy- és vagyonvédelmi, valamint magánnyomozói tevékenységre egyéni vállalkozói igazolványt kiadni, társasvállalkozást a cégnyilvántartásba bejegyezni, továbbá e tevékenységeket folytatni nem lehet.
+a) a kérelmező személy- és vagyonvédelmi tevékenység végzésében személyesen közreműködő tagja, munkavállalója vagy egyéni vállalkozás, illetve egyéni cég esetében, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő természetes személy – ideértve a tevékenységet szakmailag szervező vagy irányító személyt is – rendelkezik a tevékenység személyes végzésére jogosító, a rendőrség által kiadott hatósági igazolvánnyal (a továbbiakban: igazolvány),
 
-(3) A rendőrség – a vállalkozás kérelmére – akkor ad ki engedélyt, ha a kérelmező igazolja, hogy
+b) a kérelmező – ha e törvény kivételt nem tesz – rendelkezik az általa végezni kívánt tevékenységre vonatkozó, a szerződésen belül és az azon kívül okozott károk megtérítését szolgáló, külön jogszabályban meghatározott kötelező tartalommal bíró felelősségbiztosítási szerződéssel (a továbbiakban: felelősségbiztosítási szerződés).
 
-a) a személy- és vagyonvédelmi, illetve a magánnyomozói tevékenység végzésében személyesen közreműködő vagy közreműködni kívánó tagja, munkavállalója vagy – egyéni vállalkozás esetében – a segítő családtag, illetve a vállalkozással kötött tartós polgári jogi szerződés alapján a vállalkozás javára tevékenykedő személy – ideértve a tevékenységet szakmailag szervező vagy irányító személyt is – rendelkezik a tevékenység személyes végzésére jogosító igazolvánnyal;
+(2) A felelősségbiztosítási szerződéssel egyenértékű a más EGT-államban kötött, az (1) bekezdés b) pontjában meghatározott feltételeknek megfelelő felelősségbiztosítási szerződés.
 
-b) – ha e törvény kivételt nem tesz – rendelkezik az általa végezni kívánt tevékenységre vonatkozó, a szerződésen belül és az azon kívül okozott károk megtérítését szolgáló, külön jogszabályban meghatározott kötelező tartalommal bíró felelősségbiztosítási szerződéssel (a továbbiakban: felelősségbiztosítási szerződés);
+(3) Az (1) bekezdés b) pontjában meghatározott adatot a kérelmező igazolja. Az (1) bekezdés a) pontjában meghatározott adatokat a kérelmező is igazolhatja a kérelem benyújtásakor. Ha az adatokat a kérelmező a kérelem benyújtásakor nem igazolja, a rendőrség az igazolvány kiadása iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az (1) bekezdés a) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
 
-c) jogerősen megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
+(4) Vállalkozás keretében személy- és vagyonvédelmi tevékenységet nem gyakorolhat az
 
-(4) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
+a) az egyéni vállalkozó, aki, vagy az az egyéni cég, illetve gazdasági társaság, amelynek tagja, tulajdonosa, vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
 
-(5) A (3) bekezdés c) pontja szerint nyilvántartott adatokat törölni kell, ha a kérelmező kérelmét visszavonja.
+b) az egyéni vállalkozó, akivel, vagy az az egyéni cég, illetve gazdasági társaság, amelynek tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
 
-(6) Vállalkozás keretében személy- és vagyonvédelmi, valamint magánnyomozói tevékenységet nem gyakorolhat az az egyéni vállalkozó, aki vagy az a vállalkozás, amelynek vezető tisztségviselője büntetett előéletű vagy az e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll, továbbá az a jogi személy vállalkozás, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi, illetve magánnyomozói tevékenység gyakorlásától eltiltott.
+c) a jogi személyiséggel rendelkező gazdasági társaság, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.
