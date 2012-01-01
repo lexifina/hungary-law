@@ -408,7 +408,7 @@
 
 | 203. | Vatikán | EUR | 83 | 69 | 62 |
 
-2. Melléklet a 4/1997. (II. 28.) TNM rendelethez[^63]
+2. Melléklet a 4/1997. (II. 28.) TNM rendelethez[^71]
 
 A ruházati utánpótlási ellátmány terhére számla ellenében elszámolható
 
@@ -436,4 +436,4 @@ polgári ruházati termékek listája
 
 | 10. | Női sapka, sál, kesztyű, kendő, öv |
 
-[^63]: A 2. mellékletet a 3/2010. (IV. 28.) PTNM rendelet 6. §-a iktatta be.
+[^71]: A 2. mellékletet a 3/2010. (IV. 28.) PTNM rendelet 6. §-a iktatta be.

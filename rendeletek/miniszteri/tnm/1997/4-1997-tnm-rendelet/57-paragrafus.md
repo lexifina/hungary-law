@@ -1,6 +1,6 @@
-## A ruházati utánpótlási ellátmány folyósításának szabályai[^49]
+## A ruházati utánpótlási ellátmány folyósításának szabályai[^57]
 
-57. §[^50] (1) A ruházati utánpótlási ellátmány pénzbeli megváltását, számítását és kifizetését a Hivatal gazdasági szerve hivatalból végzi. A ruházati utánpótlási ellátmány a költségvetési lehetőségek függvényében, de legkésőbb április 30-áig, az április 1-jét követően keletkezett jogosultság esetén az időarányos ruházati utánpótlási ellátmány a jogosultság keletkezését követő 30 napon belül kerül kifizetésre.
+57. §[^58] (1) A ruházati utánpótlási ellátmány pénzbeli megváltását, számítását és kifizetését a Hivatal gazdasági szerve hivatalból végzi. A ruházati utánpótlási ellátmány a költségvetési lehetőségek függvényében, de legkésőbb április 30-áig, az április 1-jét követően keletkezett jogosultság esetén az időarányos ruházati utánpótlási ellátmány a jogosultság keletkezését követő 30 napon belül kerül kifizetésre.
 
 (2) A ruházati utánpótlási ellátmány jogszerű felhasználását a munkavállaló nevére kiállított számlával kell igazolni. A ruházati utánpótlási ellátmány felhasználását igazoló ruházati termékről szóló számla eredeti példányát tárgyév október 15-éig kell a Hivatal gazdasági szervéhez benyújtani.
 
@@ -12,5 +12,5 @@
 
 (6) A ruházati utánpótlási ellátmány nem számolható el tisztításra, mosatásra, valamint méretre igazításra.
 
-[^49]: Az 57. §-t megelőző alcím a 3/2010. (IV. 28.) PTNM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^50]: Az 57. § a 3/2010. (IV. 28.) PTNM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^57]: Az 57. §-t megelőző alcím a 3/2010. (IV. 28.) PTNM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 57. § a 3/2010. (IV. 28.) PTNM rendelet 4. § (1) bekezdésével megállapított szöveg.

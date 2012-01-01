@@ -1,3 +1,5 @@
+## 23. §[^31]
+
 ## Jubileumi jutalom
 
 24. § (1)[^32] A jubileumi jutalmat a jogosultság megszerzésekor a Hivatal gazdasági szerve hivatalból folyósítja.
@@ -6,4 +8,5 @@
 
 (3) A jubileumi jutalom a Hszt. 110. § (1) bekezdésében meghatározott szolgálati viszonyban töltött idő elérésének napján esedékes. Nyugállományba helyezéskor a kifizetés az utolsó munkában töltött munkanapon történik.
 
+[^31]: A 23. §-t a 66/2011. (XII. 30.) BM rendelet 41. § (3) bekezdése hatályon kívül helyezte.
 [^32]: A 24. § (1) bekezdése a 7/2001. (XI. 23.) TNM rendelet 7. §-ának (1) bekezdése szerint módosított szöveg.
