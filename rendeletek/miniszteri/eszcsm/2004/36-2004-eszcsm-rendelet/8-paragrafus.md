@@ -1,4 +1,4 @@
-8. § (1)[^5] A különleges táplálkozási célú élelmiszerek hatékony hatósági ellenőrzése érdekében az 1. számú melléklet I. A. 1. pontjában szereplő anyatej-helyettesítő tápszerek, valamint I. A. 2. pontjába, továbbá I. B. 3. pontjába tartozó élelmiszerek esetében:
+8. § (1)[^5] A különleges táplálkozási célú élelmiszerek hatékony hatósági ellenőrzése érdekében az 1. számú melléklet I. A. 1. pontjában szereplő anyatej-helyettesítő tápszerek, valamint I. A. 2. és 5. pontjába, továbbá I. B. 3. pontjába tartozó élelmiszerek esetében:
 
 a) a termék első magyarországi forgalomba hozatalakor a gyártó vagy az importőr legkésőbb a termék forgalomba hozatalával egyidejűleg köteles bejelenteni a különleges élelmiszert az OÉTI-nél a 4. számú melléklet szerinti adatok közlésével és a termék címkéjének megküldésével,
 
@@ -14,5 +14,5 @@ a) címke alatt a termék magyar nyelvű grafikája, import esetén a termék er
 
 b) első forgalomba hozatalnak minősül az is, ha a már bejelentett és forgalmazott termék összetételében, az összetevők arányában, vagy a jelölés bármely elemében változás történik.
 
-[^5]: A 8. § (1) bekezdés bevezető szövegrésze a 41/2009. (XI. 23.) EüM rendelet 4. §-ával megállapított szöveg. A 8. § (1) bekezdés bevezető szövegrészében az „I. A. 2. pontjába” szövegrész helyébe a 41/2009. (XI. 23.) EüM rendelet 7. § (6) bekezdése alapján „I. A. 2. és 5. pontjába” szövegrész lép. [E módosító rendelet 7. § (2) bekezdés b) pontja alapján a rendelkezés 2012. január 1. napján lép hatályba.]
+[^5]: A 8. § (1) bekezdés bevezető szövegrésze a 41/2009. (XI. 23.) EüM rendelet 4. §-ával megállapított, a 41/2009. (XI. 23.) EüM rendelet 7. § (6) bekezdése szerint módosíottt szöveg.
 [^6]: A 8. § (4) bekezdését a 23/2008. (V. 30.) EüM rendelet 2. § (2) bekezdése iktatta be.
