@@ -1,5 +1,5 @@
-## 18. §[^31]
+## 18. §[^38]
 
 ## Mentesség és halasztás
 
-[^31]: A 18. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+[^38]: A 18. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
