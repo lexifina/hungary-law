@@ -1,6 +1,6 @@
 ## A felhasználás engedélyezése ismeretlen vagy ismeretlen helyen tartózkodó szerző alkotása (árva mű) esetén
 
-57/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala – a felhasználás módjához és mértékéhez igazodó díj megállapítása mellett – felhasználási engedélyt ad kérelemre annak, aki a felhasználási szerződés megkötése érdekében a szerző felkutatására az érintett műtípus és a felhasználási mód figyelembevételével megtette az adott helyzetben általában elvárható intézkedéseket, és a szerző felkutatása nem járt eredménnyel. A felhasználási engedély legfeljebb öt évre szól, a Magyar Köztársaság területére terjed ki, nem kizárólagos, át nem ruházható, további felhasználási engedély adására és a mű átdolgozására (29. §) nem jogosít.
+57/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal) – a felhasználás módjához és mértékéhez igazodó díj megállapítása mellett – felhasználási engedélyt ad kérelemre annak, aki a felhasználási szerződés megkötése érdekében a szerző felkutatására az érintett műtípus és a felhasználási mód figyelembevételével megtette az adott helyzetben általában elvárható intézkedéseket, és a szerző felkutatása nem járt eredménnyel. A felhasználási engedély legfeljebb öt évre szól, Magyarország területére terjed ki, nem kizárólagos, át nem ruházható, további felhasználási engedély adására és a mű átdolgozására (29. §) nem jogosít.
 
 (2) Az (1) bekezdésben említett díjat a szerző személyének vagy tartózkodási helyének ismertté válását követően kell megfizetni, ha a felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja; ha a felhasználás közvetve vagy közvetlenül jövedelemszerzés vagy jövedelemfokozás célját szolgálja, a díjat a Szellemi Tulajdon Nemzeti Hivatalánál letétbe kell helyezni. A díj letétbe helyezése a felhasználás megkezdésének feltétele.
 
@@ -13,3 +13,5 @@
 (6) Ha a szerző a (3)–(5) bekezdések alapján a díj mértékét vitatja, ennek elbírálása – a szerzői jogi perekre irányadó szabályok szerint – bírósági útra tartozik.
 
 (7) Az (1)–(6) bekezdések nem alkalmazhatók, ha a felhasználás jogosítása közös jogkezelésbe tartozik.
+
+(8) Az (1)–(7) bekezdésekben foglaltakat alkalmazni kell az ismeretlen vagy az ismeretlen helyen tartózkodó előadóművész teljesítményére is.

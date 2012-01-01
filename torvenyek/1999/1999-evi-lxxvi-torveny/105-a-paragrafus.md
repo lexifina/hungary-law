@@ -14,6 +14,6 @@
 
 (8) A (6) és a (7) bekezdésben meghatározott perindítás joga – az ott megjelölt határidőn belül – a kedvezményezettek érdek-képviseleti szervezeteit is megilleti azzal, hogy a jogerős érdemi határozat hatálya e szervezeteknek az e törvény értelmében kedvezményezett tagjaira terjed ki.
 
-(9) Az e § alapján indított perekre a Fővárosi Bíróság kizárólagosan illetékes.
+(9) Az e § alapján indított perekre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (10) Az e § alapján létrejött megállapodás vagy jogerős határozat alapján végrehajtandó műszaki intézkedésre a 95. §-t megfelelően alkalmazni kell, feltéve, hogy a műszaki intézkedés kielégíti a 95. § (3) bekezdésében foglalt feltételeket.

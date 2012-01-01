@@ -1,25 +1,31 @@
-## A közös jogkezelés általános szabályai
+## Nyilvántartás a közös jogkezelő szervezetekről
 
-90. § (1) A szerzői és a szomszédos jogok közös kezelését végző szervezet abban a körben, amelyben a nyilvántartás szerint jogkezelésre jogosult, rendszeres időközönként megállapítja és az e § szerinti jóváhagyási eljárás lefolytatása céljából megküldi a Szellemi Tulajdon Nemzeti Hivatalának az egyes felhasználási módok tekintetében a – felhasználókra indokolatlan megkülönböztetés nélkül vonatkozó – jogdíjakat és a felhasználás egyéb – az egyenlő bánásmód követelményének megfelelő – feltételeit (a továbbiakban együtt: díjszabás). A tervezett alkalmazás időpontja nem lehet korábbi, mint a megküldéstől számított három hónap.
+90. § (1) A szerzői jogra és a szerzői joghoz kapcsolódó jogokra vonatkozó jogszabályoknak megfelelő közös jogkezelő szervezetekről a Hivatal nyilvántartást vezet.
 
-(2) A díjszabást az igazságügyért felelős miniszter hagyja jóvá a Szellemi Tulajdon Nemzeti Hivatalának javaslatára a (3)–(12) bekezdés szerint lefolytatott eljárást követően. A jóváhagyás a díjszabás alkalmazásának és a Hivatalos Értesítőben való nyilvánosságra hozatalának feltétele nem zárja ki, illetve nem érinti azonban az egyéb jogszabályok érvényesülését a díjszabás tekintetében.
+(2) A közös jogkezelő szervezetek nyilvántartása tartalmazza:
 
-(3) A díj mértékének megállapításakor figyelembe kell venni az érintett felhasználás valamennyi lényeges körülményét. A díjszabáshoz indokolást, és az azt alátámasztó iratokat kell csatolni.
+a) a közös jogkezelő szervezet nevét és címét, valamint képviselőjének nevét és címét,
 
-(4) A Szellemi Tulajdon Nemzeti Hivatala a díjszabásról annak kézhezvételét követően haladéktalanul véleményt kér a jelentős felhasználóktól és a felhasználók érdekképviseleti szervezeteitől, valamint ezt követően a kultúráért felelős minisztertől. A véleményezési eljárást a díjszabásnak a Szellemi Tulajdon Nemzeti Hivatalához történő benyújtásától számított hatvan napon belül kell lefolytatni. A 20–21. §-ban meghatározott díj vonatkozásában a fizetésre kötelezettek és azok érdekképviseleti szervezetei minősülnek felhasználónak, illetve felhasználói érdekképviseleti szervezeteknek.
+b) a közös jogkezelő szervezet által végzett közös jogkezelési tevékenység meghatározását, feltüntetve az érintett vagyoni jogokat és a jogkezelési tevékenység típusát,
 
-(5) A Szellemi Tulajdon Nemzeti Hivatala attól a jelentős felhasználótól, illetve felhasználói érdekképviselettől köteles véleményt kérni, aki véleményezési szándékát a Szellemi Tulajdon Nemzeti Hivatalának az adott évben a Szellemi Tulajdon Nemzeti Hivatala honlapján a díjszabás benyújtását követően haladéktalanul e célból közzétett felhívása alapján, a felhívás közzétételétől számított tizenöt napon belül írásban bejelenti, és egyidejűleg benyújtja a (6) vagy a (7) bekezdés szerinti nyilatkozatot.
+c) a közös jogkezeléssel érintett jogosulti csoport meghatározását,
 
-(6) Jelentős felhasználó az a személy, aki az érintett közös jogkezelést végző szervezethez intézett megkeresés alapján kiadott nyilatkozattal igazolja, hogy a bejelentés évét megelőző naptári évben az általa fizetett jogdíj elérte az érintett díjszabás alapján megfizetett összes jogdíj 10%-át.
+d) a közös jogkezelő szervezetek nyilvántartásának részletes szabályairól szóló kormányrendeletben meghatározott egyéb – a közös jogkezelés céljainak megvalósításához szükséges – adatokat.
 
-(7) Felhasználói érdek-képviseleti szervezet az a nyilvántartott tagsággal rendelkező jogi személy, amely létesítő okirata szerinti tevékenységét országosan fejti ki, és tevékenysége kiterjed az érintett felhasználók érdekeinek a díjszabások véleményezése során történő képviseletére, továbbá a közös jogkezelést végző szervezet által az érdek-képviseleti szervezet megkeresésére kiadott nyilatkozattal igazolja, hogy az érdek-képviseleti szervezet tagja az adott díjszabással érintett felhasználók olyan köre, amely a bejelentés évét megelőző naptári évben az adott díjszabás alapján megfizetett összes jogdíj legalább 25%-át megfizette.
+(3) A közös jogkezelő szervezetek nyilvántartása a bejegyzett jogok, tények és adatok fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a nyilvántartásba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A nyilvántartásban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
-(8) A közös jogkezelést végző szervezet a (6) és a (7) bekezdésben foglaltak szerint a felhasználó vagy a felhasználói érdek-képviseleti szervezet megkeresésének beérkezését követően haladéktalanul nyilatkozik, és a nyilatkozatot a megkereső felhasználónak, illetve érdek-képviseleti szervezetnek, továbbá a Szellemi Tulajdon Nemzeti Hivatalának megküldi. A Szellemi Tulajdon Nemzeti Hivatala a felügyelet körében ellenőrzi, hogy a közös jogkezelő szervezet nyilatkozata a valóságnak megfelel-e.
+(4) A közös jogkezelő szervezetek nyilvántartását bárki megtekintheti, ahhoz a Hivatal a honlapján elektronikus hozzáférést biztosít. A nyilvántartásban szereplő vagy az onnan törölt adatok nyilvánosak. Ezekről az adatokról bárki feljegyzést készíthet vagy – díj ellenében – hitelesített kivonatot kérhet.
 
-(9) Az igazságügyért felelős miniszter a díjszabást akkor hagyja jóvá, ha az a szerzői jogi szabályokkal összhangban áll. Az igazságügyért felelős miniszter a jóváhagyásról a (4) bekezdésben meghatározott határidő lejártát követő harminc napon belül határozattal dönt. A határozat ellen fellebbezésnek helye nincs, az a közléssel emelkedik jogerőre.
+(5) A közös jogkezelő szervezetek nyilvántartásának részeként a Hivatal hozzáférést biztosít a közös jogkezelő szervezet
 
-(10) A díjszabást a közös jogkezelést végző szervezet a jóváhagyást követően a Hivatalos Értesítőben a saját nevében nyilvánosságra hozza. Ennek megtörténtéig az előző időszakra megállapított és jóváhagyott – a Hivatalos Értesítőben korábban nyilvánosságra hozott – díjszabást kell alkalmazni akkor is, ha az az időtartam, amelyre ez utóbbi díjszabást megállapították, időközben lejárt. A közös jogkezelő szervezet az előző időszakra megállapított és jóváhagyott díjszabásban tételesen meghatározott díjakat érvényesítheti a Központi Statisztikai Hivatal által az arra az időszakra megállapított fogyasztói árindexszel megemelt mértékben is. E szabályokat megfelelően alkalmazni kell abban az esetben is, ha a bíróság a 90/A. § alapján az igazságügyért felelős miniszter jóváhagyó határozatát jogerős határozattal hatályon kívül helyezi.
+a) alapszabályához,
 
-(11) A díjszabás alkalmazása során az egyenlő bánásmód követelményét meg kell tartani.
+b) szervezeti és működési szabályzatához,
 
-(12) Az (1)–(12) bekezdések szerinti eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény nem alkalmazható.
+c) tagsági szabályzatához,
+
+d) által alkalmazott díjszabáshoz (92/H. §),
+
+e) felosztási szabályzatához,
+
+f) éves beszámolójához.

@@ -16,4 +16,4 @@
 
 (6) Jogosulatlan a felhasználás különösen akkor, ha arra törvény vagy az arra jogosult szerződéssel engedélyt nem ad, vagy ha a felhasználó jogosultságának határait túllépve használja fel a művet.
 
-(7) Ha e törvény eltérően nem rendelkezik, a felhasználó köteles a szerzőt vagy jogutódját, illetve a közös jogkezelő szervezetet (85–93. §) a felhasználás módjáról és mértékéről tájékoztatni.
+(7) Ha e törvény eltérően nem rendelkezik, a felhasználó köteles a szerzőt vagy jogutódját, illetve a közös jogkezelő szervezetet a felhasználás módjáról és mértékéről tájékoztatni.

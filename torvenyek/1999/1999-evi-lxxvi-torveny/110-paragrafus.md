@@ -1,1 +1,3 @@
-110. §
+110. § (1) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2011. évi CLXXIII. törvénnyel megállapított 89. § (13) bekezdésében foglaltakat első alkalommal a 2012. évre vonatkozó beszámolóra kell alkalmazni.
+
+(2) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2011. évi CLXXIII. törvénnyel megállapított 92. § (1) bekezdésében foglalt feltételek teljesítéséről a közös jogkezelő egyesület 2012. május 1-jéig köteles tájékoztatni a Hivatalt az alapszabály módosításának tudomásulvételéről szóló bírósági jogerős végzés, valamint az alapszabály megküldésével.

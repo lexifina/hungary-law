@@ -1,0 +1,1 @@
+92/C. § A közös jogkezelő szervezetek nyilvántartásába való felvételre és a jogkezelési tevékenységre vonatkozó bejegyzés módosítására irányuló kérelemért miniszteri rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetni, amely a Hivatal bevétele.

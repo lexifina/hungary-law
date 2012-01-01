@@ -4,10 +4,8 @@
 
 ## XII. Fejezet
 
-## A SZERZŐI ÉS A SZOMSZÉDOS JOGOK KÖZÖS KEZELÉSE
+## A SZERZŐI JOGOK ÉS A SZERZŐI JOGHOZ KAPCSOLÓDÓ JOGOK KÖZÖS KEZELÉSE
 
 ## Közös jogkezelés
 
-85. § (1) Közös jogkezelésnek minősül a szerzői művekhez, az előadóművészi teljesítményekhez, a hangfelvételekhez, a sugárzott vagy vezetéken átvitt műsorokhoz, valamint a filmelőállítói és az adatbázis-előállítói teljesítményekhez kapcsolódó és a felhasználás jellege, illetve körülményei miatt egyedileg nem gyakorolható szerzői és szomszédos, illetve adatbázis-előállítói jogok érvényesítése a jogosultak által erre létrehozott szervezet útján, függetlenül attól, hogy azt a törvény írja elő vagy az a jogosultak elhatározásán alapul.
-
-(2) Ahol e törvény vagy más jogszabály a szomszédos jogok közös kezelését említi, azon az adatbázis-előállítói jogok közös kezelését is érteni kell.
+85. § Közös jogkezelés a felhasználás jellege, illetve körülményei miatt egyedileg nem gyakorolható szerzői jogok és a szerzői joghoz kapcsolódó ilyen jogok érvényesítése a jogosultak által erre létrehozott szervezet útján, függetlenül attól, hogy azt a törvény írja elő vagy az a jogosultak elhatározásán alapul. A közös jogkezelés körében e szervezet a felhasználás engedélyezése vagy a díjigény [16. § (5) bek.] érvényesítése érdekében megállapítja a jogdíjakat és a felhasználás egyéb feltételeit, figyelemmel kíséri a művek és a kapcsolódó jogi teljesítmények felhasználását, beszedi és felosztja vagy felosztás céljára másik közös jogkezelő szervezetnek átadja a jogdíjakat, valamint fellép a szerzői jog vagy a kapcsolódó jog megsértésével szemben.

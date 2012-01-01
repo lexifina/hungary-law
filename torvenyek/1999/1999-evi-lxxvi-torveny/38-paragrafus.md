@@ -14,7 +14,7 @@ f) magánhasználatra, valamint alkalomszerűen tartott zártkörű összejövet
 
 (2) Jövedelemfokozás célját szolgálja a felhasználás, ha alkalmas arra, hogy a felhasználó (pl. üzlet, szórakozóhely) vevőkörét vagy látogatottságát növelje, vagy pedig, ha az üzlethelyiséget látogató vendégek vagy más fogyasztók szórakoztatását szolgálja. Jövedelemszerzésnek minősül különösen a belépődíj szedése, akkor is, ha egyéb elnevezés alatt történik. Díjazásnak minősül a fellépéssel kapcsolatban ténylegesen felmerült és indokolt költségeket meghaladó térítés is.
 
-(3) Nem minősül iskolai oktatási célú előadásnak az iskolai táncmulatság.
+(3)
 
 (4) Zártkörű a gazdálkodó szervezetek, továbbá a gazdálkodó szervezetnek nem minősülő jogi személyek által kizárólag tagjaik, tisztségviselőik, munkavállalóik részére rendezett összejövetel is.
 

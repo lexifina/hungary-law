@@ -1,19 +1,5 @@
-## Nyilvántartás a közös jogkezelő szervezetekről
+## A közös jogkezelés általános szabályai
 
-86. § (1) A szerzői és a szomszédos jogokra vonatkozó jogszabályoknak megfelelő közös jogkezelő szervezetekről a Szellemi Tulajdon Nemzeti Hivatala nyilvántartást vezet.
+86. § (1) A közös jogkezelés nyilvántartásba vételhez kötött tevékenység.
 
-(2) A nyilvántartásba közös jogkezelő szervezetként csak egyesület (Ptk. 61–64. §) vehető fel. Országosan csak egy-egy egyesület vehető nyilvántartásba különösen a következő művekkel, illetve teljesítményekkel kapcsolatos szerzői, illetve szomszédos jogok kezelésére:
-
-a) irodalmi, illetve zenei művek,
-
-b) egyéb alkotóművészeti alkotások,
-
-c) filmalkotások,
-
-d) előadóművészi teljesítmények,
-
-e) hangfelvételek,
-
-f) filmelőállítói teljesítmények.
-
-(3) A jogosultak önrendelkezési jogának érvényesítése és a jogkezelés hatékonyságának fokozása érdekében a (2) bekezdésben említett csoportosítástól el lehet térni, illetve a (2) bekezdésben említetteken kívüli jogok közös kezelésére alakult egyesület is nyilvántartásba vehető, de ugyanazon jogosulti csoport ugyanolyan jogosultságának a kezelésére csak egy egyesület vehető nyilvántartásba.
+(2) A nyilvántartásban fel kell tüntetni a közös jogkezelő szervezet által végzett jogkezelési tevékenységet. Más személynek vagy szervezetnek történő díjfizetés, illetve más személlyel vagy szervezettel történő megállapodás az érintett jogkezelési tevékenység tekintetében nyilvántartásba vett szervezet és az általa képviselt jogosultak irányában nem hatályos, és nem mentesít a szerzői jog megsértésének jogkövetkezményei alól.

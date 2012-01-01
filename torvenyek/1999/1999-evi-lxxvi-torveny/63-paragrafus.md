@@ -8,4 +8,4 @@
 
 (3) E művekre a közös jogkezelés nem terjed ki.
 
-(4) Előzetesen meglévő műnek reklámozás céljára történő felhasználása esetén a szerző és a felhasználó megállapodhatnak abban, hogy a művet – kizárólag az (1)–(3) bekezdésben foglaltak alkalmazása és a reklámozásban történő felhasználás szempontjából – reklámozás céljára megrendelt műnek tekintik. E megállapodás a közös jogkezelő szervezettel (85–93. §) szemben csak akkor válik hatályossá, ha arról a szerző a szervezetet írásban értesíti.
+(4) Előzetesen meglévő műnek reklámozás céljára történő felhasználása esetén a szerző és a felhasználó megállapodhatnak abban, hogy a művet – kizárólag az (1)–(3) bekezdésben foglaltak alkalmazása és a reklámozásban történő felhasználás szempontjából – reklámozás céljára megrendelt műnek tekintik. E megállapodás a közös jogkezelő szervezettel szemben csak akkor válik hatályossá, ha arról a szerző a szervezetet írásban értesíti.

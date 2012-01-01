@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésben foglalt rendelkezés alkalmazásakor a hangfelvételt kereskedelmi célból kiadottnak kell tekinteni, ha azt a 73. § (1) bekezdésének e) pontjában és a 76. § (1) bekezdésének c) pontjában szabályozott módon teszik hozzáférhetővé a nyilvánosság számára. Az (1) bekezdésben és a 73. § (1) bekezdésének b) pontjában foglalt rendelkezés alkalmazásában nyilvánossághoz való közvetítésnek kell tekinteni a 28. § (2) bekezdésében szabályozott felhasználást is. Az (1) bekezdésben foglalt rendelkezés alkalmazásában továbbá nyilvánossághoz való közvetítésnek kell tekinteni a hangfelvétel jelenlévők számára történő hozzáférhetővé tételét [24. § (2) bek. b) pont] is.
 
-(3) A jogosultak díjigényüket közös jogkezelő szervezeteik (85–93. §) útján érvényesíthetik, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le.
+(3) A jogosultak díjigényüket közös jogkezelő szervezeteik útján érvényesíthetik, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le.

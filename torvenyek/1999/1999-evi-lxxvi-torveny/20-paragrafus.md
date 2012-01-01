@@ -14,4 +14,4 @@ b) a kizárólag olyan készülékhez (pl. stúdióberendezéshez, diktafonhoz) 
 
 (6) Az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezet a díjaknak azt a részét, amely az általa a felosztást illetően nem képviselt szerzőknek és szerzői jogi jogosultaknak, az előadóművészeknek és a hangfelvétel-előállítóknak jár, a jogosultak közös jogkezelő szervezeteinek utalja át.
 
-(7) A jogosultak díjigényüket csak közös jogkezelő szervezeteik (85–93. §) útján érvényesíthetik, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le.
+(7) A jogosultak díjigényüket csak közös jogkezelő szervezeteik útján érvényesíthetik, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le.

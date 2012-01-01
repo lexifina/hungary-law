@@ -24,7 +24,7 @@ a) a birtokában lévő okirat és egyéb tárgyi bizonyíték bemutatására, v
 
 b) kereskedelmi mértékű [94. § (5) bek.] jogsértés esetén banki, pénzügyi és kereskedelmi adatok közlésére, illetve a birtokában lévő ilyen iratok bemutatására.
 
-(9) Előzetes bizonyításnak a per megindítása előtt helye van akkor is, ha a szerző a jogsértés tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Ha a per még nem indult meg, az előzetes bizonyítást a szerző lakóhelye szerint illetékes megyei bíróságnál vagy annál a megyei bíróságnál lehet kérni, amelynek területén a bizonyítás a legcélszerűbben folytatható le. Az előzetes bizonyítás elrendelésének kérdésében hozott határozat ellen fellebbezésnek van helye.
+(9) Előzetes bizonyításnak a per megindítása előtt helye van akkor is, ha a szerző a jogsértés tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Ha a per még nem indult meg, az előzetes bizonyítást a szerző lakóhelye szerint illetékes megyei bíróságnál vagy annál a törvényszéknél lehet kérni, amelynek területén a bizonyítás a legcélszerűbben folytatható le. Az előzetes bizonyítás elrendelésének kérdésében hozott határozat ellen fellebbezésnek van helye.
 
 (10) A bíróság az előzetes bizonyítást elrendelő határozatot az ellenfél kérelmére hatályon kívül helyezi, ha a szerző a pert a szerzői jog megsértése miatt nem indította meg az előzetes bizonyítást elrendelő határozat közlésétől számított tizenöt napon belül. A bíróság az előzetes bizonyítás hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül határoz.
 

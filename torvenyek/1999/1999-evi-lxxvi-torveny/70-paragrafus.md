@@ -6,9 +6,9 @@
 
 (3) E § alkalmazásában műkereskedőnek minősül a műalkotásokat forgalmazó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság.
 
-(4) A szerzői díj mértéke a műalkotás – adót és más köztartozást (pl. kulturális járulékot) nem tartalmazó – pénzben kifejezett vagy kifejezhető ellenértékének (a továbbiakban: vételárának)
+(4) A szerzői díj mértéke a műalkotás – adót és más köztartozást nem tartalmazó – pénzben kifejezett vagy kifejezhető ellenértékének (a továbbiakban: vételárának)
 
-a) 5 százaléka a vételárnak az 50 000 eurónak megfelelő forintösszeget meg nem haladó részében;
+a) 4 százaléka a vételárnak az 50 000 eurónak megfelelő forintösszeget meg nem haladó részében;
 
 b) 3 százaléka a vételárnak az 50 000,01 és 200 000 eurónak megfelelő forintösszeg közötti részében;
 
@@ -38,6 +38,6 @@ a) arra a szerzőre, illetve jogutódjára, aki az Európai Gazdasági Térség 
 
 b) az Európai Gazdasági Térségen kívüli országok állampolgáraira is, feltéve, hogy a szerző, illetve jogutódja állampolgársága szerinti ország jogszabályai biztosítják a követő jogot az illető országban az Európai Gazdasági Térség tagállamaiból származó szerzők és jogutódjaik számára, vagy
 
-c) arra a szerzőre, illetve jogutódjára, aki nem állampolgára az Európai Gazdasági Térség egyik tagállamának sem, de szokásos tartózkodási helye a Magyar Köztársaság területén van.
+c) arra a szerzőre, illetve jogutódjára, aki nem állampolgára az Európai Gazdasági Térség egyik tagállamának sem, de szokásos tartózkodási helye Magyarország területén van.
 
 (13) A (12) bekezdés b) pontja tekintetében az igazságügyért felelős miniszter nyilatkozata irányadó. Az eredeti műalkotás szerzőjét megillető követő jogról szóló 2001. szeptember 27-i 2001/84/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó műalkotás esetében az igazságügyért felelős miniszter az Európai Bizottság által közzétett lista figyelembevételével adja ki a nyilatkozatot.

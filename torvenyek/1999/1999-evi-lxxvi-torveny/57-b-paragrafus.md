@@ -6,11 +6,11 @@ b) a Szellemi Tulajdon Nemzeti Hivatala a tényeket a kérelem keretei között,
 
 c) nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a határozat közzétételére, az ügygondnokra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései;
 
-d) a Szellemi Tulajdon Nemzeti Hivatala döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak; a Szellemi Tulajdon Nemzeti Hivatala döntéseit a Fővárosi Bíróság – az 57/C. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül;
+d) a Szellemi Tulajdon Nemzeti Hivatala döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti felhívás kibocsátásnak; a Szellemi Tulajdon Nemzeti Hivatala döntéseit a Fővárosi Törvényszék – az 57/C. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül;
 
 e) nincs helye közmeghallgatásnak;
 
-f) az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartásnak, elektronikus úton írásban csak az 57/C. §-ban meghatározott esetekben van helye kapcsolattartásnak.
+f) az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartásnak, elektronikus úton írásban csak az 57/D. §-ban meghatározott esetekben van helye kapcsolattartásnak.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala által hozott döntés felülvizsgálatát az ügyész is kérheti; az eljárás megindítására a Fővárosi Főügyészség rendelkezik kizárólagos illetékességgel. A Szellemi Tulajdon Nemzeti Hivatala a döntését a Fővárosi Főügyészséggel is közli.
 

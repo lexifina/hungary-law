@@ -6,7 +6,7 @@
 
 101. § (1) Szerzői jogi jogvitás ügyben felmerülő szakkérdésekben a bíróságok és más hatóságok szakvéleményt kérhetnek a Szellemi Tulajdon Nemzeti Hivatala mellett működő szakértő testülettől. A testület tagjait az igazságügyért felelős miniszter a kultúráért felelős miniszterrel egyetértésben ötéves időtartamra nevezi ki.
 
-(2) A testület szakvéleményét három- vagy öttagú tanácsban, szótöbbséggel alakítja ki.
+(2)
 
 (3) A szerzői jogi szakértő testület felkérésre peren kívül is adhat szakvéleményt a felhasználási jog gyakorlásával kapcsolatos kérdésekben.
 

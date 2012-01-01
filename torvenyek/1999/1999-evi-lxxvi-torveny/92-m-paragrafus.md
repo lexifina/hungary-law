@@ -1,0 +1,3 @@
+92/M. § (1) A Hivatal által a közös jogkezelés felett gyakorolt felügyelettel összefüggésben felmerült költségek fedezése érdekében a közös jogkezelő egyesületek a Hivatala javára évente felügyeleti díjat kötelesek fizetni.
+
+(2) A felügyeleti díj mértéke a közös jogkezelő egyesület előző évi nettó bevételének 0,3%-a. A felügyeleti díjat a második naptári negyedév utolsó napjáig kell megfizetni. Új közös jogkezelő egyesület nyilvántartásba vétele esetén a nyilvántartásba vétel évében a felügyeleti díj mértéke a tervezett nettó bevétel 0,3%-a. Ebben az esetben a felügyeleti díjat a tárgyévet követő második naptári negyedév utolsó napjáig kell megfizetni.

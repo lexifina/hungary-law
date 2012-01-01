@@ -10,6 +10,6 @@
 
 (5) Ha a műpéldányt a jogosult vagy az ő kifejezett hozzájárulásával másvalaki adásvétellel vagy a tulajdonjog más módon történő átruházásával az Európai Gazdasági Térségben forgalomba hozta, a terjesztés joga az így forgalomba hozott műpéldány tekintetében – a bérbeadás, a haszonkölcsönbe adás és a behozatal joga kivételével – a továbbiakban nem gyakorolható.
 
-(6) Ha a szerző a filmalkotásra vagy a hangfelvételben foglalt műre vonatkozó bérbeadási jogát a film vagy a hangfelvétel előállítójára ruházta, vagy egyébként engedélyezte számára e jog gyakorlását, a mű bérbeadással történő terjesztése ellenében továbbra is megfelelő díjazást követelhet a film vagy a hangfelvétel előállítójától. E díjról a szerző nem mondhat le, díjigényét azonban csak közös jogkezelő szervezet (85–93. §) útján érvényesítheti.
+(6) Ha a szerző a filmalkotásra vagy a hangfelvételben foglalt műre vonatkozó bérbeadási jogát a film vagy a hangfelvétel előállítójára ruházta, vagy egyébként engedélyezte számára e jog gyakorlását, a mű bérbeadással történő terjesztése ellenében továbbra is megfelelő díjazást követelhet a film vagy a hangfelvétel előállítójától. E díjról a szerző nem mondhat le, díjigényét azonban csak közös jogkezelő szervezet útján érvényesítheti.
 
 (7)

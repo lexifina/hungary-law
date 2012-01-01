@@ -1,3 +1,21 @@
-91. § (1) Ha a közös jogkezelést végző – a 86–89. §-ok alapján nyilvántartásba vett – egyesület valamely felhasználónak engedélyt ad a felhasználásra, illetve a felhasználóval szemben díjigényt érvényesít, a felhasználó jogosult az egyesület által végzett jogkezelés szempontjából érintett valamennyi jogosult – e törvény előírása vagy a jogosultak elhatározása alapján közös jogkezelés alá tartozó – azonos műfajú műveinek vagy szomszédos jogi teljesítményeinek felhasználására is, az ezekre a művekre vagy szomszédos jogi teljesítményekre vonatkozó jogdíjak azonos feltételek alapján történő megfizetése mellett.
+## A közös jogkezelő szervezetek nyilvántartásába való felvétel feltételei
 
-(2) Az (1) bekezdésben foglaltak nem alkalmazhatók, ha a közös jogkezelést végző egyesület által végzett jogkezelés szempontjából érintett jogosult az egyesülethez intézett írásbeli nyilatkozatában előzetesen tiltakozik művei vagy szomszédos jogi teljesítményei felhasználásának közös jogkezelés körében történő engedélyezése ellen. A jogkezelő szervezet köteles a nyilatkozat szerint eljárni, ha azt több mint három hónappal a naptári év vége előtt, a következő év első napjánál nem korábbi hatállyal teszik meg. A jogosult azonban nem tiltakozhat a felhasználás ilyen módon történő engedélyezése ellen, ha a közös jogkezelést e törvény írja elő [19. § (1) bek., 20. § (7) bek., 21. § (7) bek., 23. § (6) bek., 27. § (1) bek., 28. § (3) bek., 70. § (5) bek., 73. § (3) bek., 77. § (3) bek., 78. § (2) bek.].
+91. § (1) A nyilvántartásba közös jogkezelő szervezetként csak egyesület vehető fel.
+
+(2) Közös jogkezelő egyesület különösen a következő művekkel, illetve teljesítményekkel kapcsolatos jogok kezelésére vehető nyilvántartásba:
+
+a) irodalmi és zenei művek,
+
+b) egyéb alkotóművészeti alkotások,
+
+c) filmalkotások,
+
+d) előadóművészi teljesítmények,
+
+e) hangfelvételek,
+
+f) filmelőállítói teljesítmények.
+
+(3) A jogosultak önrendelkezési jogának érvényesítése és a jogkezelés hatékonyságának fokozása érdekében a (2) bekezdésben említett csoportosítástól el lehet térni, illetve a (2) bekezdésben említetteken kívüli jogok közös kezelésére alakult egyesület is nyilvántartásba vehető.
+
+(4) A nyilvántartásba vett egyesület által végzett jogkezelési tevékenységre vonatkozó adatokat a Hivatal a nyilvántartásba vett egyesületek közötti megállapodás alapján módosítja, ha a nyilvántartásba vétel feltételei valamennyi érintett egyesületnél megvalósulnak az általuk végzett jogkezelési tevékenységnek a megállapodás szerinti módosítását követően is.
