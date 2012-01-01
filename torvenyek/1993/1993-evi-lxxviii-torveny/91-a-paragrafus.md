@@ -175,3 +175,5 @@ f) a rádió- és televízióadók vételének biztosítása.
 21. Elővásárlásra jogosult: az e törvény 49. §-ának (1) bekezdésében, az 58. §-ának (1) bekezdésében, továbbá az 59. §-ában meghatározott személy.
 
 22. Önkormányzati helyi támogatás: kamatmentes kölcsön, illetőleg részben vagy egészben vissza nem térítendő támogatás nyújtása rászoruló családok részére lakótelek, új vagy használt lakás megszerzéséhez, lakás bővítéséhez, korszerűsítéséhez, felújításához, fenntartásához, lakáscélú kölcsön törlesztőrészleteinek, lakás lakbérének megfizetéséhez és más, a lakással kapcsolatos költségeik viseléséhez, valamint társasházi közös tulajdonú és lakásszövetkezeti tulajdonú épületrészek és épületberendezések felújításához, korszerűsítéséhez.
+
+23. nyugdíjszerű ellátás: a korhatár előtti ellátás, a szolgálati járandóság, az átmeneti bányászjáradék és mindaz az ellátás, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik, vagy amely ellátást a nyugdíjemelésre vonatkozó rendelkezések szerint kell emelni.

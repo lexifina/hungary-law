@@ -1,1 +1,1 @@
-50. § Annak a bérlőnek a lakását, aki nyugdíjas vagy a külön jogszabályokban meghatározott nyugdíjszerű rendszeres szociális ellátásban részesül, és az elővásárlási jogával nem él, a szerződésének fennállásáig harmadik személy részére csak a bérlő írásbeli hozzájárulásával lehet elidegeníteni.
+50. § Annak a bérlőnek a lakását, aki nyugdíjas vagy nyugdíjszerű ellátásban részesül, és az elővásárlási jogával nem él, a szerződésének fennállásáig harmadik személy részére csak a bérlő írásbeli hozzájárulásával lehet elidegeníteni.

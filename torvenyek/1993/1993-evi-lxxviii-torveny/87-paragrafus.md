@@ -1,10 +1,10 @@
 ## Állami szervekre vonatkozó külön rendelkezések
 
-87. § (1) Felhatalmazást kap a Kormány, hogy a központi költségvetési szervekkel szolgálati, köztisztviselői, közalkalmazotti és egyéb munkaviszonyban, valamint más címen foglalkoztatási jogviszonyban álló személyek elhelyezéséhez szükséges lakásokra, illetőleg helyiségekre (ideértve a bérlőkijelölési vagy bérlő-kiválasztási jog gyakorlását is), – e törvény keretei között – rendeletben határozza meg:
+87. § (1) Felhatalmazást kap a Kormány tagja, hogy az általa vezetett minisztériummal, a felügyelete vagy irányítása alá tartozó központi költségvetési szervekkel közszolgálati jogviszonyban vagy foglalkoztatásra irányuló más jogviszonyban álló személyek elhelyezéséhez szükséges állami lakásokra és helyiségekre, továbbá a bérlőkijelölési és a bérlőkiválasztási jog gyakorlására – e törvény keretei között – rendeletben határozza meg
 
-a) a bérlők körét és a bérbeadás feltételeit;
+a) a bérlők körét és a bérbeadás feltételeit, ideértve az életvitelszerű bentlakás szabályait és a lakás rendeltetésszerű használatának ellenőrzését is;
 
-b) az állami lakásra (helyiségre) a szerződés megkötésekor a Ptk. rendelkezéseinek megfelelő óvadék kikötésének lehetőségét és feltételeit;
+b) az állami lakásra és helyiségre a szerződés megkötésekor a Ptk. rendelkezéseinek megfelelő óvadék kikötésének lehetőségét és feltételeit;
 
 c) a bérlőtársi jogviszony létesítésének feltételeit;
 
@@ -14,19 +14,17 @@ e) a bérlő által befogadható személyek körét és a befogadás feltételei
 
 f) a tartási szerződéshez való hozzájárulás feltételeit;
 
-g) a lakáscseréhez (a helyiség bérleti jogának cseréjéhez, átruházásához) történő hozzájárulás feltételeit;
+g) a lakás és helyiség bérleti jogának cseréjéhez és a helyiség bérleti jogának átruházásához történő hozzájárulás feltételeit;
 
 h) a lakásban visszamaradó személy elhelyezésére történő kötelezettségvállalás feltételeit;
 
-i) a bérlő halála esetén a bérlőkijelölési joggal érintett lakás, továbbá az állami lakás bérleti jogának folytatására jogosultak körét és feltételeit;
+i) a bérlő halála esetén a lakásra és helyiségre (ideértve a bérlőkijelölési joggal érintett lakást is) vonatkozó bérleti jog folytatásának lehetőségét, továbbá a jogfolytatásra jogosultak körét és a joggyakorlás feltételeit;
 
-j) az albérletbe adáshoz való hozzájárulás feltételeit;
+j) a lakás és helyiség albérletbe adásához való hozzájárulás feltételeit;
 
-k) az állami lakás bérének mértékét, illetőleg a lakbér megállapításának feltételeit;
+k) a lakás és helyiség lakbérének mértékét és a lakbér megállapításának feltételeit;
 
-l) az állami lakás (helyiség) elidegenítésének szabályait;
-
-m) a lakás (a bérlőkijelölési joggal érintett helyiség) elidegenítéséhez való hozzájárulás feltételeit.
+l) a lakás és helyiség (ideértve a bérlőkijelölési joggal érintett helyiség) elidegenítéséhez való hozzájárulás feltételeit.
 
 (2) Az (1) bekezdés a), g), h) és m) pontjában foglaltakat a fennálló bérlőkiválasztási jog esetén megfelelően alkalmazni kell.
 

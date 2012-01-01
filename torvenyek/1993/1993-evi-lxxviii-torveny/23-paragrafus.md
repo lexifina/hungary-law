@@ -14,7 +14,7 @@ d) a bérlő meghal és nincs a lakásbérleti jog folytatására jogosult szem�
 
 e) a bérlő a lakást elcseréli;
 
-f) a bérlőt a Magyar Köztársaság területéről kiutasították;
+f) a bérlőt Magyarország területéről kiutasították;
 
 g) a bérlő lakásbérleti jogviszonyát a bíróság megszünteti;
 
