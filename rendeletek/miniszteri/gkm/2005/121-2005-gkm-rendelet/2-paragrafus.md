@@ -12,10 +12,10 @@ c) STCW egyezmény: 119/1997. (VII. 15.) Korm. rendelet a tengerészek képzés�
 
 d) hajó: gazdasági célból üzemben tartott, magyar vagy idegen lobogó alatt közlekedő, állami vagy magántulajdonú tengeri, illetve folyam-tengeri hajó, amelyre az a) pontban felsorolt nemzetközi egyezmények rendelkezéseit alkalmazni kell, a halászhajók kivételével,
 
-e)[^1]
+e)[^2]
 
 f) ellenőr: ellenőrzést végző hajózási hatósági személy,
 
 g) panasz: a személyzet tagja, szakmai testület vagy szövetség, illetve más érdekképviseleti szervezet, továbbá bármely olyan személy által benyújtott információ vagy bejelentés, akinek a hajó biztonságához – beleértve a személyzetet érintő biztonsági és egészségügyi kockázatokat is – valamilyen érdeke fűződik.
 
-[^1]: A 2. § e) pontját a 48/2009. (IX. 30.) KHEM rendelet 41. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 2. § e) pontját a 48/2009. (IX. 30.) KHEM rendelet 41. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
