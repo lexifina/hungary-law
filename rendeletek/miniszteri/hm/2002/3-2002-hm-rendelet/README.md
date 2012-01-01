@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-3-20-15
 | 2010-05-12 | 2002-3-20-15.37 | 9/2010. (V. 4.) HM rendelet |
 | 2011-06-15 | 2002-3-20-15.38 | 4/2011. (VI. 7.) HM rendelet |
 | 2011-11-05 | 2002-3-20-15.39 | 14/2011. (X. 28.) HM rendelet |
+| 2012-01-01 | 2002-3-20-15.40 | 19/2011. (XII. 29.) HM rendelet |

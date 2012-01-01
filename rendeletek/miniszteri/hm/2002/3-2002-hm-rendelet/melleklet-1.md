@@ -1,5 +1,5 @@
 ## 113. §
 
-1. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^141]
+1. számú melléklet a 3/2002. (I. 25.) HM rendelethez[^143]
 
-[^141]: Az 1. számú melléklet a 35/2003. (XII. 31.) HM rendelet 21. §-ával megállapított szöveg, e módosító rendelet 22. §-ának (1) bekezdése alapján az e § szerinti pótlékokat 2003. július 1-jétől kell folyósítani.
+[^143]: Az 1. számú mellékletet a 19/2011. (XII. 29.) HM rendelet 2. §-a hatályon kívül helyezte.

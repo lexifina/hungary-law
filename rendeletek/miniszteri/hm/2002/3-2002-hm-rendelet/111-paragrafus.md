@@ -1,3 +1,3 @@
-## 110. §[^137]
+## 110. §[^138]
 
-[^137]: A 110. §-t a 6/2009. (VI. 4.) HM rendelet 19. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^138]: A 110. §-t a 6/2009. (VI. 4.) HM rendelet 19. § (1) bekezdés a) pontja hatályon kívül helyezte.
