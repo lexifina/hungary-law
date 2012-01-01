@@ -1,1 +1,0 @@
-## A céltámogatások elszámolási szabályai
