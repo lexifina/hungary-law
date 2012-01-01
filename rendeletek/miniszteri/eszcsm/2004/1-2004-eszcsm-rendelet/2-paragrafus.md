@@ -1,6 +1,6 @@
 ## kell érteni.
 
-2. § (1) A képviselői feladatok ellátására a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítvány (a továbbiakban: Közalapítvány) pályázatot ír ki. A pályázati felhívásnak tartalmaznia kell
+2. § (1)[^2] A képviselői feladatok ellátására a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: Hivatal) pályázatot ír ki. A pályázati felhívásnak tartalmaznia kell
 
 a) az ellátandó feladatok ismertetését,
 
@@ -14,6 +14,7 @@ e) a pályázati eljárásra, a pályázat elbírálásának módjára és hatá
 
 f) a pályázathoz csatolandó dokumentumok felsorolását.
 
-(2)[^1] A Közalapítvány a pályázati felhívást az egészségügyi, valamint a szociális ágazati feladatokat ellátó minisztérium hivatalos lapjában közzéteszi.
+(2)[^3] A Hivatal a pályázati felhívást az egészségügyi, valamint a szociális ágazati feladatokat ellátó minisztérium hivatalos lapjában közzéteszi.
 
-[^1]: A 2. § (2) bekezdése a 4/2006. (VI. 8.) ICSSZEM–EüM együttes rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 18. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 18. § b) pontja szerint módosított szöveg.

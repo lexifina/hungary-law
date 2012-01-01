@@ -38,7 +38,7 @@ I. Általános ismeretek
 
 – Családjogi ismeretek
 
-– Országgyűlési biztosokra vonatkozó szabályozás
+–[^22] Alapvető jogok biztosára vonatkozó szabályozás
 
 – Adatkezelésre vonatkozó jogszabályok, közvetítői tevékenység
 
@@ -46,7 +46,7 @@ I. Általános ismeretek
 
 – Az emberi jogok európai védelme
 
-–[^19] Az egyenlő bánásmódra vonatkozó szabályozás
+–[^23] Az egyenlő bánásmódra vonatkozó szabályozás
 
 2. Pszichológiai ismeretek
 
@@ -136,4 +136,5 @@ II. Speciális ismeretek szakterületenként
 
 – Esetfeldolgozások, a gyermekek jogsérelmeinek kezelése
 
-[^19]: A melléklet I. pont 1. alpontjának nyolcadik francia bekezdését a 4/2006. (VI. 8.) ICSSZEM–EüM együttes rendelet 6. §-a iktatta be.
+[^22]: A melléklet I. pont 1. alpont 4. francia bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 18. § f) pontja szerint módosított szöveg.
+[^23]: A melléklet I. pont 1. alpontjának nyolcadik francia bekezdését a 4/2006. (VI. 8.) ICSSZEM–EüM együttes rendelet 6. §-a iktatta be.

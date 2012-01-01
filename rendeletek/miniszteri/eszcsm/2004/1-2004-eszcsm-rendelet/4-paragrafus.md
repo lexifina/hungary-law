@@ -20,7 +20,7 @@ c) olyan gazdasági társaságra, amelyben a képviselő tag, vagy személyes k�
 
 a) amelyben ő vagy közeli hozzátartozója érdekelt vagy ellenérdekű fél,
 
-b)[^5] amely azt a szolgáltatót érinti, amellyel
+b)[^7] amely azt a szolgáltatót érinti, amellyel
 
 ba) munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, vagy
 
@@ -28,6 +28,7 @@ bb) a képviselői tevékenységét megelőző 2 éven belül munkaviszonyban va
 
 c) amelyben tőle egyéb ok miatt elfogulatlan eljárás nem várható.
 
-(5) A (3)–(4) bekezdésben meghatározott kizáró okok bármelyikének fennállásáról a képviselő haladéktalanul tájékoztatja a Közalapítványt. A Közalapítvány kijelöli az ügyben helyette eljáró személyt.
+(5)[^8] A (3)–(4) bekezdésben meghatározott kizáró okok bármelyikének fennállásáról a képviselő haladéktalanul tájékoztatja a Hivatalt. A Hivatal kijelöli az ügyben helyette eljáró személyt.
 
-[^5]: A 4. § (4) bekezdésének b) pontja a 4/2006. (VI. 8.) ICSSZEM–EüM együttes rendelet 2. §-ával megállapított szöveg.
+[^7]: A 4. § (4) bekezdésének b) pontja a 4/2006. (VI. 8.) ICSSZEM–EüM együttes rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. § (5) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 18. § b) és d) pontja szerint módosított szöveg.
