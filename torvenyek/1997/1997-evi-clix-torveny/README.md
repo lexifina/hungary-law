@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2011-01-01 | 2010. évi CLII. törvény | 1997-159-00-00.14 |
 | 2011-08-03 | 2011. évi LXXXVII. törvény | 1997-159-00-00.15 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1997-159-00-00.16 |
+| 2012-01-01 | 2011. évi CLXXIV. törvény | 1997-159-00-00.17 |

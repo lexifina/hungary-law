@@ -10,4 +10,4 @@
 
 (5) Ha a rendőrség a természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat illetékességi területét érintő fokozott ellenőrzést hajt végre, a fokozott ellenőrzés ideje alatt – a rendőrség kérésére – a természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat a feladatainak végrehajtását egyezteti a rendőrséggel.
 
-(6) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
+(6) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.

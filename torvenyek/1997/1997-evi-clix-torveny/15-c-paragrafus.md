@@ -1,4 +1,4 @@
-15/C. § (1) A természetvédelemért felelős miniszter a természetvédelmi őrökről és az önkormányzati természetvédelmi őrökről – a hatósági szolgálati igazolványuk hitelességének és a tevékenységüknek az ellenőrzése céljából – nyilvántartást vezet.
+15/C. § (1) A természetvédelmi hatóság a természetvédelmi őrökről és az önkormányzati természetvédelmi őrökről – a hatósági szolgálati igazolványuk hitelességének és a tevékenységüknek az ellenőrzése céljából – nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
@@ -20,6 +20,6 @@ d) a természetvédelmi őr szolgálati maroklőfegyverének a lőfegyverekről 
 
 (3) A nyilvántartásból adattovábbításra irányuló kérelmet teljesíteni nem lehet.
 
-(4) A természetvédelemért felelős miniszter a nyilvántartásban szereplő adatokat a hatósági szolgálati igazolvány visszavonásáig kezeli a nyilvántartásban.
+(4) A természetvédelmi hatóság a nyilvántartásban szereplő adatokat a hatósági szolgálati igazolvány visszavonásáig kezeli a nyilvántartásban.
 
 (5) A természetvédelmi őr és az önkormányzati természetvédelmi őr neve, a munkáltató szerv megnevezése és címe közérdekből nyilvános adat, amelyet a természetvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
