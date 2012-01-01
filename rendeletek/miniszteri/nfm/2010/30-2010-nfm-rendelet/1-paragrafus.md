@@ -4,7 +4,7 @@
 
 ## 1. A rendelet hatálya
 
-1. § (1) E rendelet hatálya a Magyar Köztársaság területén folytatott
+1. § (1)[^1] E rendelet hatálya Magyarország területén folytatott
 
 a) vasúti közlekedési tevékenységet ellátó,
 
@@ -73,3 +73,5 @@ d) szigorúan helyi, történelmi vagy turisztikai célra használt pályaháló
 (9) Az előrehaladott fejlesztési stádiumban lévő, vagy folyamatban lévő teljesítés alá tartozó projektekre az e rendelet nyilvántartásra vonatkozó rendelkezéseit kell alkalmazni.
 
 (10) E rendeletet a (2)–(6) bekezdésben felsorolt rendszerelemek és járművek, a vasúti rendszer részeinek tervezésére, kivitelezésére, hitelesítésére, üzembe helyezésére, korszerűsítésére, felújítására, üzemeltetésére és karbantartására, valamint az üzemeltetésben és karbantartásban részt vevő személyzet képesítésére, egészségügyi és biztonsági körülményeire vonatkozó feltételekre is alkalmazni kell.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 91/2011. (XII. 30.) NFM rendelet 72. §-a szerint módosított szöveg.
