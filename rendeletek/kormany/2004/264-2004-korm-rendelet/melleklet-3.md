@@ -36,7 +36,7 @@
 
 ## B: a tárgyévben az adott berendezés-kategóriából minimálisan begyűjtendő hulladékká vált elektromos berendezés mennyisége, tonna
 
-## F: a gyártó által az előző évben a Magyar Köztársaságban forgalmazott, az adott kategóriába tartozó elektromos berendezés mennyisége, tonna
+## F: a gyártó által az előző évben a Magyarországon forgalmazott, az adott kategóriába tartozó elektromos berendezés mennyisége, tonna
 
 ## K: a táblázatban az adott kategóriához, berendezés-kategóriánként meghatározott, tárgyévre vonatkozó minimális begyűjtési arány mértéke, százalék.
 

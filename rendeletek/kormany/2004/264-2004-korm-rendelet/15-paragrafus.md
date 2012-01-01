@@ -2,7 +2,7 @@
 
 ## és ártalmatlanítási kötelezettségek ellátásával kapcsolatos költségek
 
-15. §[^47] (1) A gyártó viseli
+15. §[^51] (1) A gyártó viseli
 
 a) az általa gyártott elektromos berendezésből származó hulladék,
 
@@ -14,4 +14,4 @@ c) az új, azonos vagy azonos funkciójú termékkel helyettesített nem háztar
 
 (2) A nem háztartási berendezésből származó történelmi hulladék birtokosa, amennyiben a hulladékká váló elektromos berendezést nem helyettesíti új, azonos vagy azonos funkciójú berendezéssel köteles a hulladékká váló berendezést a megfelelő begyűjtőhelyen elhelyezni és annak hasznosítási, illetve ártalmatlanítási költségeit megfizetni.
 
-[^47]: A 15. § e rendelet 19. §-a (2) bekezdésének a) pontja alapján 2005. augusztus 13-án lép hatályba.
+[^51]: A 15. § e rendelet 19. §-a (2) bekezdésének a) pontja alapján 2005. augusztus 13-án lép hatályba.

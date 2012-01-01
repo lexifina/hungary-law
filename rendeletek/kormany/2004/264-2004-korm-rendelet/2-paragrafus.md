@@ -8,17 +8,17 @@ b) háztartási elektromos berendezés: e rendelet 1. számú mellékletének B)
 
 c) történelmi hulladék: a 2005. augusztus 13. napját megelőzően gyártott elektromos berendezésből származó hulladék;
 
-d)[^2] import: az elektromos berendezés kereskedelmi célú beszállítása az Európai Gazdasági Térségen kívülről a Magyar Köztársaság területére;
+d)[^3] import: az elektromos berendezés kereskedelmi célú beszállítása az Európai Gazdasági Térségen kívülről Magyarország területére;
 
-e)[^3] export: az elektromos berendezés kereskedelmi vagy egyéb célú kiszállítása az Európai Gazdasági Térségen kívülre;
+e)[^4] export: az elektromos berendezés kereskedelmi vagy egyéb célú kiszállítása az Európai Gazdasági Térségen kívülre;
 
-f)[^4] gyártó: a Hgt. 3. §-ának e) pontjában meghatározott gyártó, valamint az elektromos berendezés olyan forgalmazója, aki a más gyártó által előállított elektromos berendezést saját márkaneve alatt továbbforgalmazza, kivéve, ha az elektromos berendezésen az eredeti gyártó márkaneve is feltüntetésre kerül;
+f)[^5] gyártó: a Hgt. 3. §-ának e) pontjában meghatározott gyártó, valamint az elektromos berendezés olyan forgalmazója, aki a más gyártó által előállított elektromos berendezést saját márkaneve alatt továbbforgalmazza, kivéve, ha az elektromos berendezésen az eredeti gyártó márkaneve is feltüntetésre kerül;
 
-g)[^5] kereskedő: az elektromos berendezést felhasználónak értékesítő forgalmazó;
+g)[^6] kereskedő: az elektromos berendezést felhasználónak értékesítő forgalmazó;
 
 h) részben történő újrahasználat: az elektromos berendezésből származó hulladék valamely alkotórészének eredeti célra történő ismételt felhasználása.
 
-[^2]: A 2. § d) pontja a 182/2009. (IX. 10.) Korm. rendelet 369. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: A 2. § e) pontja a 182/2009. (IX. 10.) Korm. rendelet 369. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 2. § f) pontja a 99/2006. (IV. 25.) Korm. rendelet 1. §-ával megállapított, a 217/2008. (VIII. 29.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^5]: A 2. § g) pontja a 217/2008. (VIII. 29.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § d) pontja a 182/2009. (IX. 10.) Korm. rendelet 369. §-a, a 322/2011. (XII. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § e) pontja a 182/2009. (IX. 10.) Korm. rendelet 369. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 2. § f) pontja a 99/2006. (IV. 25.) Korm. rendelet 1. §-ával megállapított, a 217/2008. (VIII. 29.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 2. § g) pontja a 217/2008. (VIII. 29.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
