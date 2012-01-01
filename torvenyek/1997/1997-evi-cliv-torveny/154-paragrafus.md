@@ -4,4 +4,4 @@
 
 a) a szükséges kapacitás megfelelő időben történő lekötését, valamint
 
-b) a teljesített és ellenőrzött szolgáltatás finanszírozását.
+b) a teljesített szolgáltatás finanszírozását és ellenőrzését.

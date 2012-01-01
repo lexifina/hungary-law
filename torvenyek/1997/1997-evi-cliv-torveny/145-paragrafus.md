@@ -1,6 +1,6 @@
 ## Az Országgyűlés feladatai
 
-145. § A Magyar Köztársaság Országgyűlése az egészségüggyel kapcsolatosan:
+145. § Az Országgyűlés az egészségüggyel kapcsolatosan:
 
 a) tevékenysége során figyelembe veszi és érvényesíti a lakosság egészségének védelméhez, a betegségek megelőzéséhez és az egészség fejlesztéséhez fűződő érdekeket és az ehhez rendelt egészségpolitikai célokat,
 

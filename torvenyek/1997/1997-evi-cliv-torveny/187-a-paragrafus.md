@@ -8,7 +8,7 @@ hozzájárulása szükséges.
 
 (2) A gyámhatóság a hozzájárulás megadása előtt vizsgálja, hogy a korlátozottan cselekvőképes személy kérelme akaratával egyező-e, így különösen azt, hogy a korlátozottan cselekvőképes személy és törvényes képviselője között fennáll-e érdekellentét, továbbá azt, hogy a korlátozottan cselekvőképes személy tisztában van-e a döntése következményeivel.
 
-(3) Ha a korlátozottan cselekvőképes személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Bíróságnál keresetet indíthat a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
+(3) Ha a korlátozottan cselekvőképes személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Törvényszéknél keresetet indíthat a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
 
 (4) A bíróság a kérelemről nemperes eljárásban, a kérelmező és a törvényes képviselő, illetve a gyámhatóság meghallgatását követően, harminc napon belül határoz. A bíróság a jognyilatkozatot abban az esetben pótolja, ha a művi meddővé tétel elvégzése a kérelmező érdekét – figyelembe véve különösen a kérelmező egészségügyi, személyi és családi körülményeit – nem sérti.
 

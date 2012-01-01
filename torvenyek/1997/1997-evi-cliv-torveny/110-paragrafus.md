@@ -1,6 +1,6 @@
 110. § (1) Egészségügyi tevékenység – folytatásának formájától és módjától függetlenül – e törvény és külön törvény rendelkezéseire figyelemmel önállóan vagy felügyelet mellett végezhető.
 
-(2) Egészségügyi tevékenységet önállóan – külön törvényben foglaltakra is figyelemmel – az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező és az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesített vagy a továbbképzési kötelezettség teljesítése alól e törvény szerint mentesült, a működési nyilvántartásba bejegyzett személy végezhet. Az önállóan végzett egészségügyi tevékenység – a (4) és (10) bekezdésben foglalt kivételekkel – az arra feljogosító szakképesítésnek a működési nyilvántartásba történő bejegyzésétől kezdhető meg.
+(2) Egészségügyi tevékenységet önállóan – külön törvényben foglaltakra is figyelemmel – az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező és az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesített vagy a továbbképzési kötelezettség teljesítése alól e törvény szerint mentesült, a működési nyilvántartásba bejegyzett személy végezhet. Az önállóan végzett egészségügyi tevékenység – a (4), (10) és (10a) bekezdésben foglalt kivételekkel – az arra feljogosító szakképesítésnek a működési nyilvántartásba történő bejegyzésétől kezdhető meg.
 
 (3) A (2) bekezdés szerinti feltételekkel rendelkező személy felügyelete mellett – a (25) bekezdésben foglalt eltéréssel – végezhet egészségügyi tevékenységet az a személy,
 
@@ -8,7 +8,7 @@ a) aki a szakképesítése megszerzéséhez szükséges képzésben vesz részt,
 
 b) akit a működési nyilvántartásból a 113/A. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig,
 
-c) aki a 113/A. § (2) bekezdés szerinti kiegészítő gyakorlati képzésben vesz részt, vagy
+c) aki működési nyilvántartását e törvényben és jogszabályokban foglalt módon határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították.
 
 d) aki külön törvény szerint, megfelelő szakképesítés nélkül az egészségügyi tevékenység végzésében közreműködik.
 
@@ -36,15 +36,17 @@ okozta.
 
 a) az a szabad mozgás és tartózkodás jogával rendelkező személy, aki Magyarországon elismerhető egészségügyi szakképesítéssel rendelkezik, továbbá
 
-b) az a szabad mozgás és tartózkodás jogával rendelkező személy, akinek egészségügyi szakképesítést igazoló okirata a Magyar Köztársaság területén megszerezhető szakképesítéssel egyenértékűként nem ismerhető el, de hitelt érdemlő módon igazolja, hogy a bejelentést megelőző öt éven belül legalább három éven keresztül rendszeresen végezte a bejelentéssel érintett egészségügyi tevékenységet valamely EGT-állam területén,
+b) az a szabad mozgás és tartózkodás jogával rendelkező személy, akinek egészségügyi szakképesítést igazoló okirata a Magyarország területén megszerezhető szakképesítéssel egyenértékűként nem ismerhető el, de hitelt érdemlő módon igazolja, hogy a bejelentést megelőző öt éven belül legalább három éven keresztül rendszeresen végezte a bejelentéssel érintett egészségügyi tevékenységet valamely EGT-állam területén,
 
 ha nem gazdasági célú letelepedés mellett kíván e törvény hatálya alá tartozó egészségügyi tevékenységet végezni, és valamely EGT-államban letelepedettként már szolgáltatást nyújt, ezt a szándékát a kormányrendeletben meghatározott eljárás keretében bejelenti a kormányrendeletben meghatározott hatóság részére. A bejelentési eljárás során a valamely nem EGT-állam területén végzett egészségügyi tevékenység figyelembevételének lehetőségét is meg kell vizsgálni.
+
+(10a) Az állami vérellátó szolgálat által megkötött egyezmény vagy megállapodás teljesítése körében felmerülő egészségügyi tevékenységet a Magyarországon egészségügyi tevékenység végzésére a (2), (4) vagy a (10) bekezdés alapján nem jogosult személy abban az esetben végezhet, ha az adott egészségügyi tevékenység végzésére a letelepedése szerinti államban korlátozás nélkül jogosult, és az egészségügyi tevékenység végzését kormányrendeletben meghatározott eljárás keretében nyilvántartásba vétel céljából bejelenti az egészségügyi államigazgatási szervnek. A bejelentési eljárással összefüggésben és az e bekezdés alapján egészségügyi tevékenységet végző személyek nyilvántartása keretében az egészségügyi államigazgatási szerv és a nyilvántartást vezető szerv a bejelentéstől számított 5 évig kezeli a bejelentő természetes személyazonosító adatait, lakcímét, személyazonosításra alkalmas igazolványának számát, valamint annak a külföldi intézménynek, szolgáltatónak a nevére és címére vonatkozó adatát, amelynek nevében a bejelentő egészségügyi tevékenység végzésére jogosult.
 
 (11) A kormányrendeletben meghatározott hatóság nyilvántartást vezet
 
 a) a (4) bekezdés alapján kiadott engedélyekről, és
 
-b) a (10) bekezdés alapján regisztrált bejelentésekről, továbbá
+b) a (10) és (10a) bekezdés alapján regisztrált bejelentésekről, továbbá
 
 c) az ezekhez kapcsolódó adatokról, illetve
 

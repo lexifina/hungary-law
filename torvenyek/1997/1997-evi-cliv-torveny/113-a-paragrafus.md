@@ -1,6 +1,6 @@
 113/A. § (1) A működési nyilvántartásból a nyilvántartást vezető szerv – a (2) bekezdésben foglalt eltéréssel – törli azt a személyt
 
-a) aki nyilvántartását e törvényben és jogszabályban foglalt módon és határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították,
+a)
 
 b) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll,
 
@@ -18,6 +18,10 @@ h) aki a törlését kéri,
 
 i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő – kamarai tagsága megszűnt.
 
-(2) Ha az egészségügyi dolgozó működési nyilvántartását azért nem újította meg, mert az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti gyakorlati továbbképzési kötelezettségét nem tudta teljesíteni, nem törölhető a működési nyilvántartásból, amennyiben legkésőbb a törlés időpontjáig a nyilvántartást vezető szervnek igazolja, hogy a nyilvántartásból való törlés elkerülése érdekében az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti kiegészítő gyakorlati továbbképzésben részt vesz. A kiegészítő gyakorlati képzést az igazolás beérkezését követő naptól számított egy éven belül kell teljesíteni.
+(1a) Az (1) bekezdés b)–d) pontjai alapján a működési nyilvántartásból törölt egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
+
+(2)
 
 (3) A működési nyilvántartást vezető szerv minden év április 1-jéig a megelőző évben bekövetkezett adatváltozások egyeztetése céljából a 112. § (4) bekezdés a) pontjában, valamint a 113/A. § (1) bekezdés g) pontjában szereplő adatok tekintetében a személyiadat- és lakcímnyilvántartást vezető hatóságot megkeresi. A megkeresett hatóság az adategyeztetés során köteles együttműködni és a szükséges adatokat a működési nyilvántartást vezető szerv rendelkezésére bocsátani.
+
+(4) Az egészségügyi dolgozó egy évet meghaladó végrehajtandó szabadságvesztéséről, valamint az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltásáról szóló jogerős határozatáról a bíróság – jogszabályban meghatározottak szerint – haladéktalanul értesíti a működési nyilvántartást vezető szervet, és az illetékes egészségügyi szakmai kamarát.

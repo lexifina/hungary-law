@@ -1,6 +1,6 @@
 187/B. § (1) Cselekvőképtelen személy művi meddővé tételére irányuló beavatkozás kizárólag jogerős bírósági határozat alapján, a fogamzóképesség elérését követően végezhető el.
 
-(2) A cselekvőképtelen személy művi meddővé tételének engedélyezése iránt az érintett személy törvényes képviselője – tizennyolcadik életévét be nem töltött cselekvőképtelen személy esetében a gyámhatósággal együttesen – indíthat keresetet a Fővárosi Bíróságnál.
+(2) A cselekvőképtelen személy művi meddővé tételének engedélyezése iránt az érintett személy törvényes képviselője – tizennyolcadik életévét be nem töltött cselekvőképtelen személy esetében a gyámhatósággal együttesen – indíthat keresetet a Fővárosi Törvényszéknél.
 
 (3) A bíróság a kérelemről nemperes eljárásban a cselekvőképtelen személy, a törvényes képviselő, valamint a gyámhatóság meghallgatását követően, harminc napon belül határoz.
 

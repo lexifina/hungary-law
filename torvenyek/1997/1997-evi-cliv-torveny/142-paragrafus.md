@@ -1,6 +1,6 @@
 142. § (1) Az állam a (2)–(5) bekezdésben foglaltak figyelembevételével – az éves költségvetési törvényben meghatározott módon – a központi költségvetésben és az Egészségbiztosítási Alap költségvetésében biztosítja a megfelelő szintű és minőségű egészségügyi ellátások működésének fedezetét.
 
-(2) Az igénybevétel alapjául szolgáló jogviszony előzetes igazolása nélkül, az e törvényben és a külön jogszabályban foglaltak figyelembevételével – az alapcsomag részeként – kell biztosítani a Magyar Köztársaság területén tartózkodó személy részére
+(2) Az igénybevétel alapjául szolgáló jogviszony előzetes igazolása nélkül, az e törvényben és a külön jogszabályban foglaltak figyelembevételével – az alapcsomag részeként – kell biztosítani a Magyarország területén tartózkodó személy részére
 
 a) a járványügyi ellátások közül
 
@@ -34,7 +34,7 @@ cc) a szülésre, szoptatásra és csecsemőgondozásra való felkészítés,
 
 d) az (5) bekezdésben meghatározott személy részére az állami érdekből végzett orvosbiológiai kutatások keretén belüli gyógyító célú eljárások alkalmazásával kapcsolatos ellátások,
 
-e) a Magyar Köztársaság területén tartózkodó személy elhalálozását követően a halottvizsgálat, illetve a halottakkal kapcsolatos orvosi eljárásokkal összefüggő ellátások,
+e) a Magyarország területén tartózkodó személy elhalálozását követően a halottvizsgálat, illetve a halottakkal kapcsolatos orvosi eljárásokkal összefüggő ellátások,
 
 f) a vérellátás megszervezése, valamint a vér rendelkezésre állása,
 

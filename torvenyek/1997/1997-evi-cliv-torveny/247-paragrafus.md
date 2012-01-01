@@ -4,11 +4,11 @@ a) az ellátás visszautasítására vonatkozó részletes szabályokat megálla
 
 b) az egészségügyi szolgáltatás megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra vonatkozó szabályokat,
 
-c)
+c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevékenységre jogosító engedély kérelmezésének és kiadásának szabályait, valamint a bejelentés alapján végezhető egészségügyi tevékenységekre vonatkozó bejelentés megtételére, valamint – személyes adatokat nem tartalmazó – kötelező adattartalmára, továbbá a bejelentett személyek nyilvántartásba vételére vonatkozó rendelkezéseket
 
 d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
 
-e) a katasztrófa-egészségügyi ellátásra vonatkozó részletes szabályokat,
+e) a katasztrófa-egészségügyi ellátásra vonatkozó részletes szabályokat, a Kormány 232/B. § szerinti feladat- és hatásköreit, az egészségügyi védelmi bizottság összetételére, feladat- és hatáskörére, illetékességére vonatkozó szabályokat,
 
 f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
 
@@ -20,7 +20,7 @@ i) az állami mentőszolgálat vagy mentőszolgálatok kijelölését és az ál
 
 j) az állami vérellátó szolgálat vagy szolgálatok kijelölését és az állami vérellátó szolgálat működésére vonatkozó részletes szabályokat,
 
-k)
+k) a betegjogi képviselőt foglalkoztató, az egészségügyi dokumentációt kezelő és a betegjogok érvényesülését elősegítő szervet kijelölje, valamint jogállását, feladat- és hatáskörét,
 
 l) a külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt kiadó szervet,
 
@@ -114,9 +114,9 @@ if) az egészségügyi szakirányú szakmai továbbképzés részletes szabálya
 
 j) az Egészségügyi Szakképzési és Továbbképzési Tanács szervezetére, működésére, feladat- és hatáskörére vonatkozó részletes szabályokat,
 
-k) az orvostechnikai eszközökkel összefüggésben
+k) az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel összefüggésben
 
-ka) az orvostechnikai eszközök minőségi követelményeire,
+ka) az orvostechnikai eszközök alapvető követelményeire,
 
 kb) az orvostechnikai eszközökkel kapcsolatos minőségi rendszer szakmai tartalmára,
 
@@ -130,19 +130,19 @@ kf) a forgalomba hozatalra,
 
 kg) a kijelölt szervezetekre és azok eljárására,
 
-kh) a klinikai vizsgálatra,
+kh) a klinikai vizsgálatra, valamint az in vitro diagnosztika orvostechnikai eszközök esetén a teljesítőképesség értékelésére,
 
 ki) a nyilvántartásba vételre,
 
 kj) az eszközkészletekre és a több eszközből álló rendszerekre vonatkozó eljárásra és sterilizálási eljárásra,
 
-kk) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére,
+kk) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére, balesetfelelős kijelölésére,
 
-kl) a hatósági ellenőrző eljárásokra, a közegészségügyi előírások betartása érdekében szükséges intézkedésekre,
+kl) a piacfelügyeleti eljárásokra, a közegészségügyi előírások betartása érdekében szükséges intézkedésekre,
 
-km) a gyártással, forgalomba hozatallal, alkalmazással, klinikai vizsgálatokkal kapcsolatos eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
+km) a gyártási, forgalomba hozatali, alkalmazási, klinikai vizsgálati, nyilvántartásba vételi, időszakos felülvizsgálati eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
 
-kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, az időszakos felülvizsgálatra, az adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
+kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
 
 l)
 
@@ -211,39 +211,3 @@ ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapc
 cb) az egészségügyi szolgáltatók működési engedélyezésével kapcsolatosan,
 
 cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
-
-cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
-
-ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
-
-cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
-
-cg) az egészségfejlesztési programok akkreditációjáért,
-
-ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
-
-ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
-
-cj)
-
-ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
-
-fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
-
-d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a közoktatási intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat
-
-rendeletben állapítsa meg.
-
-(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
-
-b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
-
-c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
-
-d)–i)
-
-j) a Tanács 1996. május 13-i 96/29/EURATOM irányelve a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról,
-
-k) az Európai Parlament és a Tanács 2004/38/EK irányelve az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.

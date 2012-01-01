@@ -41,3 +41,5 @@ b) az egészségügyi adat más módon való megismerése, illetve az arra való
 (11) A beteg halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról – saját költségére – másolatot kapni.
 
 (12) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezelésének és védelmének részletes szabályait külön törvény állapítja meg.
+
+(13) Az egészségügyi dokumentációt nyilvántartó szervet a Kormány rendeletben jelöli ki.

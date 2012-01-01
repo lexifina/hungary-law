@@ -1,9 +1,13 @@
 ## Orvostechnikai eszközellátás
 
-101. § (1) Orvostechnikai eszköz – ideértve a gyógyászati segédeszközt is – akkor hozható forgalomba, illetve az egészségügyi ellátás során akkor használható, ha
+101. § (1) Orvostechnikai eszköz akkor hozható forgalomba, illetve az egészségügyi ellátás során akkor használható, ha
 
-a) kielégíti a külön jogszabály szerinti minőségi követelményeket és erre vonatkozóan rendelkezik az ott meghatározott tanúsítványokkal és jelöléssel, valamint
+a) az egészségügyért felelős miniszter rendeletében meghatározott
 
-b) a külön jogszabályban meghatározott szerv nyilvántartásba vette.
+aa) megfelelőségi követelményeket kielégíti, és
+
+ab) tanúsítványokkal és jelöléssel rendelkezik, vagy
+
+b) az egészségügyért felelős miniszter rendeletében meghatározott szerv nyilvántartásba vette.
 
 (2)

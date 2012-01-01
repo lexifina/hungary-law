@@ -1,4 +1,4 @@
-159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál a következő feltételek együttes fennállása esetén végezhető:
+159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése, valamint az orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál, a következő feltételek együttes fennállása esetén végezhető:
 
 a) a kutatási tervet engedélyezték,
 
@@ -44,7 +44,7 @@ a) a kutatás célja az, hogy a kutatás alanyának állapotához, betegségéhe
 
 b) a kutatás a kutatás alanyára nézve a minimálist jelentősen meg nem haladó kockázattal és enyhe igénybevétellel jár;
 
-c) a kutatásra – az ETT-nek az a) és b) pontban foglalt feltételek fennállása kérdésében kiadott szakhatósági állásfoglalása alapján – a miniszter engedélyt ad.
+c) a kutatásra – az ETT-nek az a) és b) pontban foglalt feltételek fennállása kérdésében kiadott szakhatósági állásfoglalása alapján – az egészségügyi államigazgatási szerv engedélyt ad.
 
 (6) A kutatást
 
@@ -52,6 +52,6 @@ a) az elsőfokú eljárásban az ETT – orvosokból, az orvostudományi kutatá
 
 b) a jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – független bizottság szakértői véleményének kikérésével
 
-az egészségügyi államigazgatási szerv, valamint az ott meghatározott esetben a (7) bekezdés szerinti szerv engedélyezi.
+az egészségügyi államigazgatási szerv engedélyezi.
 
-(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő naptól számított hatvan napon belül a vizsgálatot nem tiltja meg.
+(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő naptól számított hatvan napon belül a vizsgálatot nem tiltja meg.

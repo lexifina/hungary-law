@@ -1,4 +1,4 @@
-4. § (1) E törvény hatálya kiterjed a Magyar Köztársaság területén
+4. § (1) E törvény hatálya kiterjed a Magyarország területén
 
 a) tartózkodó természetes személyekre,
 

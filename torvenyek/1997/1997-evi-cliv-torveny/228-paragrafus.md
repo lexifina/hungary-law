@@ -2,12 +2,20 @@
 
 ## KATASZTRÓFA-EGÉSZSÉGÜGYI ELLÁTÁS
 
-228. § (1) Katasztrófa idején a betegek ellátása a katasztrófa-egészségügyi ellátás keretében történik.
+228. § (1) Egészségügyi válsághelyzet idején a betegek ellátása a katasztrófa-egészségügyi ellátás keretében történik.
 
-(2) E törvény alkalmazásában katasztrófának minősül
+(2) E törvény alkalmazásában egészségügyi válsághelyzetnek minősül
 
-a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét, illetve az egészségügyi szolgáltatók működését veszélyezteti, illetve károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, függetlenül attól, hogy erre minősített időszak (rendkívüli állapot, szükségállapot, veszélyhelyzet) idején vagy azon kívül kerül sor,
+a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, függetlenül attól, hogy erre különleges jogrend idején vagy azon kívül kerül sor,
 
 b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
 
-(3) Minősített időszakon kívül valamely eseményt – annak függvényében, hogy az egy megyét (a fővárost) vagy több megyét érint – az egészségügyi államigazgatási szerv vagy az egészségügyi államigazgatási szerv felügyeleti szerve minősítheti katasztrófának.
+(3) Különleges jogrend bevezetésekor a katasztrófa-egészségügyi ellátásra vonatkozó rendelkezéseket kell alkalmazni, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
+
+(4) Különleges jogrenden kívül valamely eseményt
+
+a) – ha az egy megye területét érinti – a megyei vagy fővárosi tisztifőorvos javaslatára az egészségügyi védelmi bizottság,
+
+b) – ha az több megye vagy az ország teljes területét érinti – az országos tisztifőorvos javaslatára a Kormány
+
+minősítheti egészségügyi válsághelyzetnek.

@@ -12,6 +12,6 @@ d) gondoskodik az egészségügyet érintő nemzetközi szerződésekben foglalt
 
 e) gondoskodik az e törvény szerint az államot terhelő kártalanítási és megtérítési kötelezettségek teljesítéséről,
 
-f) katasztrófa [225. § (2) bekezdés] esetén gondoskodik a veszély elhárításához szükséges feltételek biztosításáról, továbbá ellátja az annak elhárítását célzó tevékenységek általános irányítását.
+f) egészségügyi válsághelyzet [228. § (2) bekezdés] esetén gondoskodik a veszély elhárításához szükséges feltételek biztosításáról, továbbá ellátja az annak elhárítását célzó tevékenységek általános irányítását.
 
 (2) A Kormány a külön törvényben foglaltaknak megfelelően törvényességi felügyeletet gyakorol az egészségbiztosítási szervek tevékenysége felett.

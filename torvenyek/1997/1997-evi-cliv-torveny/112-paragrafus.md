@@ -30,7 +30,7 @@ ib) szakirányú szakképesítéshez kötött tevékenységet – ha jogszabály
 
 a törléstől számított egy évig,
 
-j) akit a működési nyilvántartásból korábban azért törtöltek, mert a működési nyilvántartását e törvényben és jogszabályban foglalt módon és határidőben nem újította meg, vagy a működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították, e törvény szerinti továbbképzési kötelezettség teljesítésének igazolásáig,
+j)
 
 k) aki – feltéve, hogy a törvény kötelező kamarai tagságot ír elő – nem tagja a szakképesítése szerint illetékes szakmai kamarának.
 

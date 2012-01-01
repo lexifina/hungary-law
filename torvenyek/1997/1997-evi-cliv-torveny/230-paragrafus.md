@@ -14,17 +14,17 @@ d) a jogi és igazgatási szabályozás kidolgozására,
 
 e) az egészségügyi készletek tartalékolására,
 
-f) a speciális képzési feladatok ellátására, valamint
+f) a speciális képzési feladatok ellátására, és
 
 g) a katasztrófa-egészségügyi ellátási gyakorlatok végrehajtására.
 
 (4) A katasztrófa-egészségügyi ellátás tényleges működése kiterjed
 
-a) a kizárólag a katasztrófa idején hatályos jogszabályok bevezetésére,
+a) a kizárólag az egészségügyi válsághelyzet idején hatályos jogszabályok bevezetésére,
 
 b) az egészségügyi ellátó rendszer szervezetének és működésének szükséges mértékű átalakítására,
 
-c) a katasztrófa-helyzet felszámolásához szükséges irányítási és vezetési rend bevezetésére,
+c) az egészségügyi válsághelyzet felszámolásához szükséges irányítási és vezetési rend bevezetésére,
 
 d) a betegek egészségügyi ellátására,
 
@@ -32,6 +32,6 @@ e) időszakosan működő gyógyintézetek működtetésére,
 
 f) pótlólagos kapacitások és készletek bevonására,
 
-h) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére.
+g) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére.
 
 (5) A katasztrófa-egészségügyi ellátásban részt vevő egészségügyi szolgáltatóknak az egészségbiztosítás által fedezett összegen felül felmerülő költségeit a központi költségvetés téríti meg.

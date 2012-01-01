@@ -4,7 +4,7 @@
 
 (2) A beteg azonnali egészségügyi ellátásra szorul
 
-a) személyi sérüléssel járó baleset, tömeges baleset, katasztrófa esetén,
+a) személyi sérüléssel járó baleset, tömeges baleset, egészségügyi válsághelyzet esetén,
 
 b) ha életveszély vagy annak gyanúja áll fenn,
 

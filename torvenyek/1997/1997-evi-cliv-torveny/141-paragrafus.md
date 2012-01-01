@@ -33,3 +33,5 @@ i) az egyéni és a társadalmi érdekek összehangolása a ritka, a kiemelkedő
 j) a katasztrófa-egészségügyi ellátás, a nemzeti vérkészlettel való gazdálkodás,
 
 k) a népegészségügyi és az egészségügyi igazgatási tevékenység feltételeinek biztosítása.
+
+l) a fekvőbeteg-szakellátás, valamint a járóbeteg-szakellátás feltételrendszerének meghatározása és biztosítása.

@@ -2,24 +2,26 @@
 
 ## SZERV- ÉS SZÖVETÁTÜLTETÉS
 
-202. § E fejezet alkalmazásában
+202. § (1) E fejezet alkalmazásában
 
-a) szövet: az emberi test bármely része, ide nem értve
+a) sejt: különálló emberi sejt vagy kötőszövet által össze nem kapcsolt emberi sejtek egy csoportja;
 
-aa) a spermiumot és a petesejtet,
+b) szövet: az emberi test sejtekből álló valamennyi alkotórésze, ide nem értve
 
-ab) az embriót és a magzatot,
+ba) az embriót és a magzatot,
 
-ac) a vért és a véralkotórészt;
+bb) a vért és a véralkotórészt;
 
-b) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezetű egysége, és amelyet – egészben történő eltávolítása esetén – a szervezet nem képes regenerálni;
+c) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezetű egysége, és amely megtartja szerkezetét, erezettségét és azt a képességét, hogy jelentős önállósággal élettani funkciókat tartson fenn, valamint a szerv egy része, amennyiben működése az emberi szervezetben ugyanazt a célt szolgálja, mint az egész szerv, ideértve a szerkezet és erezettség követelményét is;
 
-c) szerv- és szövetátültetés: szerv és szövet eltávolítása emberi testből, valamint annak más élő személy testébe történő beültetése;
+d) szerv- és szövetátültetés: szerv és szövet eltávolítása emberi testből, valamint annak más élő személy testébe történő beültetése az emberi test bizonyos funkcióinak helyreállítása céljából;
 
-d) donor: az a személy, aki szervet, szövetet adományoz más személybe való átültetés céljából, illetve akinek testéből halála után szervet vagy szövetet távolítanak el más személy testébe történő átültetés céljából;
+e) donor: az a személy, aki szervet, szövetet adományoz más személybe való átültetés céljából, illetve akinek testéből halála után szervet vagy szövetet távolítanak el más személy testébe történő átültetés céljából;
 
-e) recipiens: az a személy, akinek testébe más személyből eltávolított szervet, illetve szövetet ültetnek át gyógykezelés céljából;
+f) recipiens: az a személy, akinek testébe más személyből eltávolított szervet, illetve szövetet ültetnek át gyógykezelés céljából;
 
-f) agyhalál: az agy – beleértve az agytörzset is – működésének teljes és visszafordíthatatlan megszűnése;
+g) agyhalál: az agy – beleértve az agytörzset is – működésének teljes és visszafordíthatatlan megszűnése;
 
-g) halál: amikor a légzés, a keringés és az agyműködés teljes megszűnése miatt a szervezet visszafordíthatatlan felbomlása megindul.
+h) halál: amikor a légzés, a keringés és az agyműködés teljes megszűnése miatt a szervezet visszafordíthatatlan felbomlása megindul.
+
+(2) E fejezetnek a szövetre vonatkozó rendelkezéseit – a spermium és a petesejt kivételével – a sejtre is alkalmazni kell.
