@@ -1,22 +1,22 @@
-7. § (1) A 4. § (1) bekezdésben meghatározott nyilvántartásokban foglalt adatok – a (2) bekezdésben foglaltak kivételével – a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők és azok állománya, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok nemzetbiztonsági védelmének, valamint a Magyar Köztársaság honvédelmi érdekeinek biztosítása, továbbá a nemzetközi katonai parancsnokságok felállításában érintett nemzetközi szervezetekkel történő kapcsolattartásra tekintettel nem hozhatók nyilvánosságra.
+7. § (1) A 4. § (1) bekezdésben meghatározott nyilvántartásokban foglalt adatok – a (2) bekezdésben foglaltak kivételével – a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők és azok állománya, valamint a Magyarország területén felállított nemzetközi katonai parancsnokságok nemzetbiztonsági védelmének, valamint Magyarország honvédelmi érdekeinek biztosítása, továbbá a nemzetközi katonai parancsnokságok felállításában érintett nemzetközi szervezetekkel történő kapcsolattartásra tekintettel nem hozhatók nyilvánosságra.
 
 (2) Az (1) bekezdés alapján nem korlátozható a következő adatok nyilvánossága, amennyiben azok nem képeznek minősített adatot:
 
-a) a Magyar Köztársaság területén tervezetten legalább három hónapig szolgálati céllal tartózkodó külföldi fegyveres erők összesített létszáma a küldő államok szerinti bontásban;
+a) a Magyarország területén tervezetten legalább három hónapig szolgálati céllal tartózkodó külföldi fegyveres erők összesített létszáma a küldő államok szerinti bontásban;
 
-b) a Magyar Köztársaság területén tervezetten legalább három hónapig szolgálati céllal tartózkodó egyes külföldi fegyveres erők tartózkodásának szolgálati célja;
+b) a Magyarország területén tervezetten legalább három hónapig szolgálati céllal tartózkodó egyes külföldi fegyveres erők tartózkodásának szolgálati célja;
 
-c) a Magyar Köztársaság területén felállított, és a Magyar Köztársaság által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok megnevezése;
+c) a Magyarország területén felállított, és Magyarország által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok megnevezése;
 
-d) a Magyar Köztársaság területén felállított, és a Magyar Köztársaság által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok Magyar Köztársaság területén lévő szervezetének teljes létszáma.
+d) a Magyarország területén felállított, és Magyarország által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok Magyarország területén lévő szervezetének teljes létszáma.
 
 (3) A Magyar Honvédség központi adatfeldolgozó szerve – erre vonatkozó írásbeli kérelmére – adatot szolgáltat
 
-a) a 4. § (3) bekezdés a), c), d), e) és f) pontjában és a 4. § (4) bekezdés a), c) és d) pontjában foglalt adatokról a Magyar Köztársaság honvédelmi és nemzetbiztonsági politikájára vonatkozó, az Országgyűlés hatáskörébe tartozó döntések előkészítése érdekében az Országgyűlés nemzetbiztonsági és honvédelmi ügyekkel foglalkozó bizottsága,
+a) a 4. § (3) bekezdés a), c), d), e) és f) pontjában és a 4. § (4) bekezdés a), c) és d) pontjában foglalt adatokról Magyarország honvédelmi és nemzetbiztonsági politikájára vonatkozó, az Országgyűlés hatáskörébe tartozó döntések előkészítése érdekében az Országgyűlés nemzetbiztonsági és honvédelmi ügyekkel foglalkozó bizottsága,
 
-b) a 4. § (3) bekezdés a), c), d), e) és f) pontjában és a 4. § (4) bekezdés a), c) és d) pontjaiban foglalt adatokról a Magyar Köztársaság honvédelmi politikájára és az országvédelemre, valamint a Magyar Köztársaság nemzetközi kötelezettségvállalásaira vonatkozó, a honvédelemért felelős miniszter feladat- és hatáskörébe tartozó döntések meghozatalának elősegítése érdekében a honvédelemért felelős miniszter,
+b) a 4. § (3) bekezdés a), c), d), e) és f) pontjában és a 4. § (4) bekezdés a), c) és d) pontjaiban foglalt adatokról Magyarország honvédelmi politikájára és az országvédelemre, valamint Magyarország nemzetközi kötelezettségvállalásaira vonatkozó, a honvédelemért felelős miniszter feladat- és hatáskörébe tartozó döntések meghozatalának elősegítése érdekében a honvédelemért felelős miniszter,
 
-c) a 4. § (3) bekezdés a)–f) pontjaiban és a 4. § (4) bekezdés a)–d) pontjaiban foglalt adatokról a Magyar Köztársaság országvédelmi tervének elkészítéséhez és a befogadó nemzeti támogatás katonai feladatainak tervezéséhez a honvédelemért felelős miniszter által vezetett minisztérium hadműveleti és országvédelmi tervezésért és a befogadó nemzeti támogatás katonai tervezőrendszerének működtetéséért felelős szerve,
+c) a 4. § (3) bekezdés a)–f) pontjaiban és a 4. § (4) bekezdés a)–d) pontjaiban foglalt adatokról Magyarország országvédelmi tervének elkészítéséhez és a befogadó nemzeti támogatás katonai feladatainak tervezéséhez a honvédelemért felelős miniszter által vezetett minisztérium hadműveleti és országvédelmi tervezésért és a befogadó nemzeti támogatás katonai tervezőrendszerének működtetéséért felelős szerve,
 
 d) a 4. § (2) bekezdés a), b), c), e), f) és g) pontjában és a 4. § (5) bekezdésben foglalt adatokról az érintett személyt vagy annak jogos érdekét érintő eljárás lefolytatása érdekében
 
@@ -42,7 +42,7 @@ ha) az adóhatóság,
 
 hb) a vámhatóság,
 
-i) a 4. § (2) bekezdés a), c) és g) pontjában és a 4. § (5) bekezdés a), d) és f) pontjában foglalt adatokról az érintett állomány családjogi helyzetének a Magyar Köztársaság területén történő olyan megváltozása esetén, amely az érintett személy vagy hozzátartozója nemzetközi szerződésben vagy e törvényben foglalt jogállását, illetve egyes jogait érinti, az anyakönyvezést végző hatóság,
+i) a 4. § (2) bekezdés a), c) és g) pontjában és a 4. § (5) bekezdés a), d) és f) pontjában foglalt adatokról az érintett állomány családjogi helyzetének Magyarország területén történő olyan megváltozása esetén, amely az érintett személy vagy hozzátartozója nemzetközi szerződésben vagy e törvényben foglalt jogállását, illetve egyes jogait érinti, az anyakönyvezést végző hatóság,
 
 j) a 4. § (2) bekezdés a), b), c), e) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról a közlekedési igazgatási eljárás lefolytatása érdekében a közlekedési igazgatási hatóság,
 
@@ -68,7 +68,7 @@ a) az adatkezelés jogszerűségének ellenőrzése céljából a Magyar Honvéd
 
 b) a törvényességi felügyelet gyakorlása során az adatkezelés jogszerűségének ellenőrzése céljából a legfőbb ügyész,
 
-c) az adatvédelmi biztos,
+c) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 
 d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
 
