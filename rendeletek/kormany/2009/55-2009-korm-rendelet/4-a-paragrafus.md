@@ -1,4 +1,4 @@
-4/A. §[^23] (1) A fenntartónak a bevásárlóközpont üzemeltetésre irányuló bejelentése – a Szolgtv.-ben meghatározottakon túl – tartalmazza:
+4/A. §[^29] (1) A fenntartónak a bevásárlóközpont üzemeltetésre irányuló bejelentése – a Szolgtv.-ben meghatározottakon túl – tartalmazza:
 
 a) a fenntartó nevét, címét, székhelyét, elektronikus levelezési címét, amennyiben azzal rendelkezik,
 
@@ -16,9 +16,9 @@ g) a bevásárlóközpont nyitvatartási, üzemeltetési idejét, továbbá
 
 h) az üzletek, más árusítóhelyek számát.
 
-(2) A jegyző a bevásárlóközpontot nyilvántartásba veszi.
+(2)[^30] A kistérségi jegyző a bevásárlóközpontot nyilvántartásba veszi.
 
-(3) A jegyző által a bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
+(3)[^31] A kistérségi jegyző által a bejelentés alapján vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
 
 a) a fenntartó által a bejelentésben az (1) bekezdés a)–c) pontja alapján megadott adatokat,
 
@@ -30,18 +30,23 @@ d) a bevásárlóközpont nyitvatartási, üzemeltetési idejét,
 
 e) az üzletek, illetve más árusítóhelyek számát.
 
-(4) A jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt megküldi
+(4)[^32] A kistérségi jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt megküldi
 
-a)[^24] a fogyasztóvédelmi hatóságnak,
+a)[^33] a fogyasztóvédelmi hatóságnak,
 
-b)[^25] a területileg illetékes fővárosi és megyei kormányhivatal munkaügyi felügyelőségének,
+b)[^34] a területileg illetékes fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szervének,
 
 c) az illetékes rendőrkapitányságnak.
 
-(5) A bevásárlóközpont fenntartója a bejelentés (1) bekezdés szerinti adataiban bekövetkezett változást haladéktalanul köteles bejelenteni a jegyzőnek.
+(5)[^35] A bevásárlóközpont fenntartója a bejelentés (1) bekezdés szerinti adataiban bekövetkezett változást haladéktalanul köteles bejelenteni a kistérségi jegyzőnek.
 
-(6) A jegyző a bejelentett adatok változásának a nyilvántartásba történő bejegyzéséről haladéktalanul tájékoztatja a (4) bekezdésben megjelölteket.
+(6)[^36] A jegyző a bejelentett adatok változásának a nyilvántartásba történő bejegyzéséről haladéktalanul tájékoztatja a (4) bekezdésben megjelölteket.
 
-[^23]: A 4/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^24]: A 4/A. § (4) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése szerint módosított szöveg.
-[^25]: A 4/A. § (4) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (3) bekezdésével megállapított szöveg.
+[^29]: A 4/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^30]: A 4/A. § (2) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^31]: A 4/A. § (3) bekezdés nyitó szövegrésze a 260/2011. (XII. 7.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 4/A. § (4) bekezdés nyitó szövegrésze a 260/2011. (XII. 7.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^33]: A 4/A. § (4) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése szerint módosított szöveg.
+[^34]: A 4/A. § (4) bekezdés b) pontja a 324/2011. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^35]: A 4/A. § (5) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 4/A. § (6) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.

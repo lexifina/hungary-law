@@ -4,6 +4,6 @@
 
 (3) E rendelet rendelkezéseit a rendelet hatálybalépésekor folyamatban lévő eljárásokban is kell alkalmazni.
 
-(4)[^34]
+(4)[^51]
 
-[^34]: A 10. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^51]: A 10. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
