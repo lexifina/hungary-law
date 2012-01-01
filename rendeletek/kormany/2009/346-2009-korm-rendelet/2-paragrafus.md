@@ -8,7 +8,7 @@
 
 (4) Az államháztartás vitele szempontjából központi gazdálkodás és ellátás keretében valósul meg a HM költségvetési fejezetnél
 
-a)[^1] az MH katonai szervezetei, továbbá az önállóan működő és a kijelölt önállóan működő és gazdálkodó honvédelmi szervezet pénzügyi és számviteli ellátása, amely magában foglalja a 9. és 10. § szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, a könyvvezetést, az érvényesítést és az ellenjegyzést;
+a)[^2] az MH katonai szervezetei, továbbá az önállóan működő és a kijelölt önállóan működő és gazdálkodó honvédelmi szervezet pénzügyi és számviteli ellátása, amely magában foglalja a 9. és 10. § szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, a könyvvezetést, az érvényesítést és az ellenjegyzést;
 
 b) a létszámgazdálkodás, ideértve a foglalkoztatottak létszámösszetételének és – a honvédelmi szervezet parancsnoka (vezetője) által meghatározott munkaidő keret kivételével – munkaidő-alapjának meghatározását is;
 
@@ -26,7 +26,7 @@ h) a nemzetközi feladatok költségvetési javaslatának és éves költségvet
 
 i) az állami vagyonnal történő gazdálkodás;
 
-j)[^2] az MH katonai szervezetei, továbbá az önállóan működő, a kijelölt önállóan működő és gazdálkodó honvédelmi szervezetek kincstári előirányzat-felhasználási keret forgalmának kezelése, bonyolítása.
+j)[^3] az MH katonai szervezetei, továbbá az önállóan működő, a kijelölt önállóan működő és gazdálkodó honvédelmi szervezetek kincstári előirányzat-felhasználási keret forgalmának kezelése, bonyolítása.
 
-[^1]: A 2. § (4) bekezdés a) pontja a 282/2010. (XII. 15.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (4) bekezdés j) pontját a 159/2011. (VIII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 2. § (4) bekezdés a) pontja a 282/2010. (XII. 15.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdés j) pontját a 159/2011. (VIII. 11.) Korm. rendelet 1. §-a iktatta be.
