@@ -8,7 +8,7 @@ c)[^5] a tulajdonos, az üzembentartó, valamint az új üzembentartó természe
 
 d) a járműhöz tartozó forgalmi engedély sorszáma, az okmány új üzembentartó részére történő átadásának-átvételének ténye, időpontja;
 
-e)[^6] a járműnek üzembentartó birtokába kerülési időpontja;
+e)[^6] a járműnek az üzemben tartó birtokába kerülési időpontja, valamint a birtokba vételkor a kilométerszámláló műszer által jelzett érték (km-óra állás);
 
 f) a jogügylet hatálybalépésének napja;
 
@@ -17,4 +17,4 @@ g) a jármű tulajdonosának nyilatkozata, mely szerint a külön jogszabályban
 h) a felek nyilatkozata, melyben kijelentik, hogy ismerik a bejelentés alapján a nyilvántartásba történő bejegyzéséhez fűződő joghatásokat, valamint a bejelentés elmaradásának, illetve bejelentési kötelezettség késedelmes teljesítésének jogkövetkezményeit.
 
 [^5]: A 4. § c) pontja a 138/2011. (VII. 19.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^6]: [A 4. § e) pontjának a 138/2011. (VII. 19.) Korm. rendelet 9. §-ával megállapított, a 10. § (3) bekezdése alapján 2012. január 1-jétől hatályos szövege: „e) a járműnek az üzemben tartó birtokába kerülési időpontja, valamint a birtokba vételkor a kilométerszámláló műszer által jelzett érték (km-óra állás);”.]
+[^6]: A 4. § e) pontja a 138/2011. (VII. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
