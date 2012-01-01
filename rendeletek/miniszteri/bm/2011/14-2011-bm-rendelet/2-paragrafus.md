@@ -30,7 +30,7 @@ n) projekt: a támogatások végső kedvezményezettjei által egy intézkedés 
 
 o) részletes projekt adatlap: zárt kétfordulós kiválasztási eljárás esetén a pályázó által tervezett projekt megvalósításával összefüggő minden releváns információra kiterjedő dokumentum;
 
-p) szabálytalanság: az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. december 18-i 2988/95/EK EURATOM rendelet 1. cikk (2) bekezdésében foglaltak, továbbá a jogszabályok előírásainak, a támogatási szerződésben és a közvetlen támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen a Magyar Köztársaság pénzügyi érdekei sérülnek vagy sérülhetnek;
+p)[^2] szabálytalanság: az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. december 18-i 2988/95/EK EURATOM rendelet 1. cikk (2) bekezdésében foglaltak, továbbá a jogszabályok előírásainak, a támogatási szerződésben és a közvetlen támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek;
 
 q) szabálytalansági elektronikus nyilvántartó rendszer: a „Szolidaritás és a migrációs áramlások igazgatása” általános program keretében végrehajtott projekteket érintő szabálytalanságokkal kapcsolatos adatokat tartalmazó informatikai alapú nyilvántartó rendszer;
 
@@ -43,3 +43,5 @@ t) többéves program: a 2007/573/EK európai parlamenti és tanácsi határozat
 u) végső kedvezményezett: a projekt megvalósításáért felelős szervezet;
 
 v) Visszatérési Alap: a 2007/575/EK európai parlamenti és tanácsi határozattal létrehozott alap.
+
+[^2]: A 2. § p) pontja a 68/2011. (XII. 30.) BM rendelet 34. §-a szerint módosított szöveg.
