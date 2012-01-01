@@ -6,7 +6,7 @@
 
 (4) A Testület tagjait az Országgyűlés elnöke kéri és menti fel. A megbízatás a felkérés elfogadásával keletkezik, és három évre szól. A tagok egy alkalommal ismételten felkérhetők.
 
-(5) A Testület tagjává olyan, büntetlen előéletű, a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választójoggal rendelkező, felsőfokú végzettségű személy kérhető fel, aki az adott testület feladatköre által érintett biztosítási ág tekintetében kiemelkedő szakismerettel rendelkezik és széles körű szakmai tapasztalatokat szerzett.
+(5) A Testület tagjává olyan, büntetlen előéletű, a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választható, felsőfokú végzettségű személy kérhető fel, aki az adott testület feladatköre által érintett biztosítási ág tekintetében kiemelkedő szakismerettel rendelkezik és széles körű szakmai tapasztalatokat szerzett.
 
 (6) Nem kérhető fel a Testület tagjává az, aki
 
