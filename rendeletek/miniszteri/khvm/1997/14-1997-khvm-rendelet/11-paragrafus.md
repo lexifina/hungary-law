@@ -1,6 +1,6 @@
 11. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^15]
+(2)[^17]
 
 Melléklet a 14/1997. (IX. 3.) KHVM rendelethez
 
@@ -32,4 +32,4 @@ c) az írásbeli utasítás mintáját (ha jogszabály előírja),
 
 d) a gépkocsivezető sugárvédelmi és speciális ADR képzettségét igazoló dokumentumok másolatait (ha jogszabály előírja).
 
-[^15]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 22. §-ának 25. pontja hatályon kívül helyezte.
+[^17]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 22. §-ának 25. pontja hatályon kívül helyezte.
