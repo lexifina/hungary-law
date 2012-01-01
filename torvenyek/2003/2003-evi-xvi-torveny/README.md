@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-16-00-00
 | 2011-07-22 | 2011. évi XCV. törvény | 2003-16-00-00.12 |
 | 2011-08-29 | 2011. évi XCV. törvény | 2003-16-00-00.13 |
 | 2011-12-22 | 2011. évi CLXXIV. törvény | 2003-16-00-00.14 |
+| 2012-01-01 | 2011. évi CLXVI. törvény | 2003-16-00-00.15 |
