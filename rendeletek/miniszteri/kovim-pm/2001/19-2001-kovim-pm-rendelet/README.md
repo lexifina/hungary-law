@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-19-20-9
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2001-19-20-93.5 | 19/2001. (V. 25.) KöViM–PM együttes rendelet |
+| 2012-01-01 | 2001-19-20-93.6 | 58/2009. (X. 22.) KHEM–PM együttes rendelet |
