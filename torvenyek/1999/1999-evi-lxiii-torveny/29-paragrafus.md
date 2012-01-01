@@ -10,7 +10,7 @@ bb) a felügyelői intézkedések, továbbá a testi erő, a könnygázszóró p
 
 bc) az egyenruhára vonatkozó szabályokat;
 
-bd) a hatósági szolgálati igazolvány kiállítására, a felügyelői jelvénnyel és a felügyelőkkel kapcsolatos nyilvántartás vezetésének eljárási szabályait;
+bd) a szolgálati igazolvány kiállítására, a felügyelői jelvénnyel és a felügyelőkkel kapcsolatos nyilvántartás vezetésének eljárási szabályait;
 
 be) a felügyelők szakmai és vizsgáztatási követelményrendszerét;
 

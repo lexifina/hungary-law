@@ -24,7 +24,7 @@ f) közreműködés a köztisztaságra vonatkozó jogszabályok végrehajtásán
 
 g) közreműködés állategészségügyi és ebrendészeti feladatok ellátásában.
 
-(5) A feladatkörében eljáró felügyelő hivatalos személy. A felügyelő az e törvényben meghatározott feladatkörében eljárva jogosult és köteles a közterületen ellenőrizni a jogszabályban előírt kötelezettségek megtartását, jogszabálysértés esetén eljárást kezdeményezni vagy az e törvényben meghatározott intézkedést megtenni. A felügyelőnek az e törvényben meghatározott tevékenység folytatására, valamint intézkedésére való jogosultságát a közterület-felügyelet szabályozásáért felelős miniszter (a továbbiakban: miniszter) által kiadott hatósági szolgálati igazolvány igazolja.
+(5) A feladatkörében eljáró felügyelő hivatalos személy. A felügyelő az e törvényben meghatározott feladatkörében eljárva jogosult és köteles a közterületen ellenőrizni a jogszabályban előírt kötelezettségek megtartását, jogszabálysértés esetén eljárást kezdeményezni vagy az e törvényben meghatározott intézkedést megtenni. A felügyelőnek az e törvényben meghatározott tevékenység folytatására, valamint intézkedésére való jogosultságát a közterület-felügyelet szabályozásáért felelős miniszter (a továbbiakban: miniszter) által kiadott szolgálati igazolvány igazolja.
 
 (6) A felügyeletnek, illetőleg a felügyelet részéről eljáró felügyelőnek feladatot – a (4) bekezdés keretei között – törvény, kormányrendelet, az önkormányzat rendelete állapíthat meg. Az önkormányzat rendelete olyan feladatot állapíthat meg, melyet törvény vagy kormányrendelet nem utal más szerv hatáskörébe.
 
