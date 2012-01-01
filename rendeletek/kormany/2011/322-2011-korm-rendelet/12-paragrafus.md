@@ -1,0 +1,1 @@
+## 11. § Az elemek és az akkumulátorok hulladékainak visszavételéről szóló 181/2008. (VII. 8.) Korm. rendelet 3. melléklet 1.6. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

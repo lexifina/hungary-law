@@ -1,0 +1,1 @@
+## 3. § A kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 10. § (4) bekezdés c) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

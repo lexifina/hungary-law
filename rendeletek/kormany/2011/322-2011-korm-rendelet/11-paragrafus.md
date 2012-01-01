@@ -1,0 +1,1 @@
+## 10. § A cirkuszi menazséria létesítése és működtetése engedélyezésének, valamint fenntartásának részletes szabályairól szóló 222/2007. (VIII. 29.) Korm. rendelet 4. § (8) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
