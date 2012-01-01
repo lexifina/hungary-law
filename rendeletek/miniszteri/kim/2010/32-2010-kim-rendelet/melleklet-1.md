@@ -4,13 +4,13 @@
 
 1. A Magyar Közlöny fősorozatának címrendje a következő:
 
-a) I. Az Alkotmány és annak módosításai,
+a)[^12] I. Az Alaptörvény és annak módosításai,
 
 b) II. Törvények,
 
 c) III. Kormányrendeletek,
 
-d)[^3] IV. A Magyar Nemzeti Bank, a Pénzügyi Szervezetek Állami Felügyelete és a Nemzeti Média- és Hírközlési Hatóság elnökének rendeletei,
+d)[^13] IV. A Magyar Nemzeti Bank elnökének rendeletei, valamint az önálló szabályozó szerv vezetőjének rendeletei,
 
 e) V. A Kormány tagjainak rendeletei,
 
@@ -36,4 +36,5 @@ e) V. Közlemények,
 
 f) VI. Hirdetmények.
 
-[^3]: A 1. melléklet 1. pont d) alpontja a 13/2011. (IV. 22.) KIM rendelet 3. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet 1. pont a) alpontja a 44/2011. (XII. 31.) KIM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^13]: A 1. melléklet 1. pont d) alpontja a 13/2011. (IV. 22.) KIM rendelet 3. §-ával megállapított, a 44/2011. (XII. 31.) KIM rendelet 5. § (4) bekezdése szerint módosított szöveg.

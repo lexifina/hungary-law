@@ -1,8 +1,6 @@
-## 1/A. [^1] Az alaptörvény és az alaptörvényhez kapcsolódó átmeneti rendelkezések megjelölése
+## 1/A. [^6] Az Alaptörvény módosításának megjelölése a kihirdetés során
 
-## a kihirdetés során
-
-## 8/A. § Az alaptörvény és az alaptörvényhez kapcsolódó átmeneti rendelkezések megjelölése annak kihirdetése során – az alábbi sorrendben –
+## 8/A. § Az Alaptörvény módosításának megjelölése annak kihirdetése során – az alábbi sorrendben –
 
 a) a címet, valamint sortöréssel elválasztva
 
@@ -14,4 +12,4 @@ bb) hónapját betűvel kiírva és
 
 bc) napját arab számmal
 
-[^1]: Az 1/A. alcímet (8/A. §) a 13/2011. (IV. 22.) KIM rendelet 1. §-a iktatta be.
+[^6]: Az 1/A. alcímet (8/A. §) a 13/2011. (IV. 22.) KIM rendelet 1. §-a iktatta be, szövege a 44/2011. (XII. 31.) KIM rendelet 2. §-ával megállapított szöveg.
