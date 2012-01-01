@@ -12,17 +12,19 @@ b)[^4]
 
 c) a nagykereskedői árrés,
 
-d) a külön rendelet szerinti rendszerhasználati díjak közül a szállítás és a tárolás díja,
+d)[^5] a rendszerhasználati díjak közül a szállítás és a tárolás díja,
 
 e) a mobilgáz-finanszírozási költség,
 
-f) a külön rendelet szerinti értékesítési kategóriákra osztott rendszerhasználati díjak közül az elosztás díja,
+f)[^6] az értékesítési kategóriákra osztott rendszerhasználati díjak közül az elosztás díja,
 
-g)[^5]
+g)[^7]
 
 h) egyetemes szolgáltatói árrés.
 
 (2) Az egyes árelemek meghatározásának modell leírását a Magyar Energia Hivatal (a továbbiakban: Hivatal) honlapján közzéteszi.
 
 [^4]: A 3. § (1) bekezdés b) pontját a 18/2010. (XII. 3.) NFM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
-[^5]: A 3. § (1) bekezdés g) pontját a 72/2009. (XII. 7.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 3. § (1) bekezdés d) pontja a 83/2011. (XII. 29.) NFM rendelet 15. §-a szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés f) pontja a 83/2011. (XII. 29.) NFM rendelet 15. §-a szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés g) pontját a 72/2009. (XII. 7.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.

@@ -42,10 +42,10 @@
 
 ## A korrigált mennyiségi adatok megállapítása során a fogyasztást befolyásoló más tényezők – mint pl. világgazdasági reálfolyamatok, illetve a fogyasztói szokások változásának – hatását a Hivatal indokolt esetben figyelembe veszi.
 
-3. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^35]
+3. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^38]
 
 |  | <20 m3/h | ≥20 m3/h |
 
 | Egyetemes szolgáltatói árrés (Ft/GJ) | 173,7 | 42,4 |
 
-[^35]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^38]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
