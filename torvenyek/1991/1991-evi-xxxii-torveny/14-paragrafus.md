@@ -6,4 +6,4 @@
 
 (3) Ha az ingatlantulajdonos helyi önkormányzat, az ingatlan kezelője és a használó a használat megszüntetésében nem tudott megállapodni, a tulajdonos, a kezelő az ingatlan használatára fennálló jogviszonyt felmondhatja. A felmondásra a lakások és a helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 26. §-át, továbbá a 43. § (1) bekezdését kell megfelelően alkalmazni.
 
-(4) E § szerint történő ingatlanátadáshoz szükséges kártalanításról az átadó szerv vagy az alapító szerve gondoskodik. E célra a Kormány az Országgyűlés döntése alapján az állami költségvetésből pénzügyi fedezetet biztosít. Az erre irányuló kérelmet a miniszterhez kell benyújtani, csatolva a megállapodás tervezetét.
+(4) E § szerint történő ingatlanátadáshoz szükséges kártalanításról az átadó szerv vagy az alapító szerve gondoskodik. E célra a Kormány az Országgyűlés döntése alapján a központi költségvetésből pénzügyi fedezetet biztosít. Az erre irányuló kérelmet a miniszterhez kell benyújtani, csatolva a megállapodás tervezetét.
