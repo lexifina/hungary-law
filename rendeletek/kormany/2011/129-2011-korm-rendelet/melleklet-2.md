@@ -30,7 +30,7 @@
 
 | Központi Nukleáris Pénzügyi Alap | 31 329,9 | 29 480,9 | 30 007,0 |
 
-| Munkaerőpiaci Alap | 337 238,1 | 287 853,9 | 322 725,1 |
+| Nemzeti Foglalkoztatási Alap | 337 238,1 | 287 853,9 | 322 725,1 |
 
 | Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap | 19,4 | 21,0 | 22,8 |
 
@@ -86,7 +86,7 @@
 
 | Központi Nukleáris Pénzügyi Alap | 16 728,5 | 14 483,6 | 15 058,4 |
 
-| Munkaerőpiaci Alap | 337 238,1 | 282 853,9 | 317 725,1 |
+| Nemzeti Foglalkoztatási Alap | 337 238,1 | 282 853,9 | 317 725,1 |
 
 | Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap | 19,4 | 21,0 | 22,8 |
 
