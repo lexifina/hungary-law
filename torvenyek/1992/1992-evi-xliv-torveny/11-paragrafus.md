@@ -1,1 +1,1 @@
-11. § A szervezet felett az ügyészség a reá irányadó szabályok szerint törvényességi felügyeletet gyakorol. Ha a működés törvényessége másként nem biztosítható az ügyész a bírósághoz fordulhat.
+11. § A szervezet működésének törvényességét az ügyészség az irányadó jogszabályok szerint ellenőrzi. Ha a működés törvényessége másként nem biztosítható az ügyészség a bírósághoz fordulhat.
