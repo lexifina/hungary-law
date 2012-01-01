@@ -24,10 +24,10 @@ a) közoktatási intézmény tanulója, felsőoktatási intézmény első okleve
 
 b) vakok személyi járadékában vagy fogyatékossági támogatásban részesül,
 
-c) rokkantsági nyugdíjas, baleseti rokkantsági nyugdíjas, illetve rehabilitációs járadékban részesül, és nyugdíjának vagy járadékának összege nem haladja meg a rokkantsági csoportonként megállapított legkisebb rokkantsági nyugdíj összegét, illetve a rehabilitációs járadék legkisebb összegét, és egyéb jövedelme nincs,
+c) megváltozott munkaképességű személyek ellátásában részesül és egyéb jövedelme nincs,
 
-d) nyugellátásban – ide nem értve a c) pont szerinti nyugellátásokat –, átmeneti járadékban részesül, feltéve, ha nyugdíjának, járadékénak összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét, és egyéb jövedelme nincs,
+d) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül, feltéve, ha nyugdíjának, ellátásának összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét, és egyéb jövedelme nincs,
 
-e) időskorúak járadékában, rendszeres szociális járadékban, rokkantsági járadékban, hadigondozási járadékban részesül, és egyéb jövedelme nincs, illetve az aktív korúak ellátására való jogosultságát megállapították,
+e) időskorúak járadékában, rokkantsági járadékban, hadigondozási járadékban részesül, és egyéb jövedelme nincs, illetve az aktív korúak ellátására való jogosultságát megállapították,
 
 f) a reá irányadó öregségi nyugdíjkorhatárt betöltötte, és jövedelme nincs.

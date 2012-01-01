@@ -1,1 +1,1 @@
-Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségtől vezérelve az Alkotmányban, továbbá a nemzetközi egyezményekben rögzített szociális jogok érvényre juttatása érdekében a következő törvényt alkotja:
+Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségtől vezérelve az Alaptörvényben, továbbá a nemzetközi egyezményekben rögzített szociális jogok érvényre juttatása érdekében a következő törvényt alkotja:

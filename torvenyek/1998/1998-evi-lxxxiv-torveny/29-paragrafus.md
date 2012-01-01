@@ -12,4 +12,4 @@ c) a gyám, ha a gyermek a születését követően hat hónapon belül – joge
 
 (2) Az anyasági támogatás az (1) bekezdés a) pontja szerinti jogosultat akkor is megilleti, ha a gyermek halva született.
 
-(3) E fejezet hatálya a 2. §-ban meghatározottakon túl kiterjed arra az anyasági támogatás igénylésének időpontjában a Magyar Köztársaság területén jogszerűen tartózkodó nőre, aki a terhessége alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – a Magyar Köztársaság területén terhesgondozáson vett részt.
+(3) E fejezet hatálya a 2. §-ban meghatározottakon túl kiterjed arra az anyasági támogatás igénylésének időpontjában a Magyarország területén jogszerűen tartózkodó nőre, aki a terhessége alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – Magyarország területén terhesgondozáson vett részt.

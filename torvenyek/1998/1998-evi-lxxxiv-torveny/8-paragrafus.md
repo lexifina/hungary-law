@@ -8,7 +8,7 @@ aa) a tanköteles gyermekre tekintettel a gyermek tankötelessé válása évén
 
 ab) a tankötelezettsége megszűnését követően közoktatási intézményben tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti; továbbá
 
-b) a vagyonkezelői joggal felruházott gyám, illetőleg a vagyonkezelő eseti gondnok a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő gyermekvédelmi gondoskodás alatt álló, tanköteles gyermekre tekintettel a tankötelezettség teljes időtartamára.
+b) a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet parancsnoka a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló, tanköteles gyermekre tekintettel a tankötelezettség teljes időtartamára.
 
 (2) A súlyos és halmozottan fogyatékos tanuló [a közoktatásról szóló 1993. évi LXXIX. törvény 30/A. §] szülője a tankötelezettség teljesítésének formájától függetlenül a tankötelezettség teljesítésének végéig jogosult iskoláztatási támogatásra.
 

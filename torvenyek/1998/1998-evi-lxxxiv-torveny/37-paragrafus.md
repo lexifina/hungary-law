@@ -11,3 +11,5 @@
 (6) A családi pótlékot az elrendelést, illetve a megszüntetést követő második hónaptól kell természetben biztosítani, illetve pénzbeli formában folyósítani.
 
 (7) A felfüggesztett iskoláztatási támogatást a felfüggesztés elrendelését, illetve megszüntetését követő második hónaptól kell a családtámogatási folyószámlára, illetve a jogosult számára folyósítani.
+
+(8) A 15. § (1) bekezdés b) pont bb) alpontja szerinti esetben az iskoláztatási támogatás szüneteltetését a gyámhatóságként eljáró jegyző jelzésének beérkezését követő második hónap első napjától kell elrendelni.

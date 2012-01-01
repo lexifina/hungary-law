@@ -8,7 +8,7 @@ b)
 
 c) tanköteles: a közoktatásról szóló 1993. évi LXXIX. törvény rendelkezése értelmében az a gyermek, akit az iskola igazgatója tankötelesnek nyilvánított;
 
-d) kereső tevékenység: munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység, továbbá szövetkezet tagjaként, vagy egyéni vállalkozóként, illetőleg társas vállalkozás vagy egyéni cég tagjaként folytatott – személyes közreműködést igénylő – tevékenység;
+d) kereső tevékenység: munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység, továbbá szövetkezet tagjaként vagy egyéni vállalkozóként, illetőleg társas vállalkozás vagy egyéni cég tagjaként folytatott – személyes közreműködést igénylő – tevékenység;
 
 e) szociális intézmény: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben (a továbbiakban: Szt.) szabályozott ápolást-gondozást, rehabilitációt, valamint átmeneti elhelyezést nyújtó bentlakásos intézmény;
 
