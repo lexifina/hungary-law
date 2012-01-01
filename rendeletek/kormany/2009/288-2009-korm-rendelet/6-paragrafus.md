@@ -1,6 +1,6 @@
-6. § (1)[^6]
+6. § (1)[^8]
 
-(2)[^7]
+(2)[^9]
 
-[^6]: A 6. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
-[^7]: A 6. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^8]: A 6. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^9]: A 6. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
