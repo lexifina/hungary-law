@@ -8,7 +8,7 @@
 
 4. § (1) A rendelet hatálya alá tartozó nukleáris anyagokról, valamint a nukleáris üzemanyagciklussal kapcsolatos tevékenységekről, telephelyekről központi nyilvántartást kell vezetni.
 
-(2) A központi nyilvántartás célja a Magyar Köztársaság által a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben vállalt, illetve a Magyar Köztársaság részére az Euratom Szerződésben és az Euratom rendeletben előírt kötelezettségek teljesítése.
+(2)[^5] A központi nyilvántartás célja Magyarország által a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben vállalt, illetve a Magyar Köztársaság részére az Euratom Szerződésben és az Euratom rendeletben előírt kötelezettségek teljesítése.
 
 (3) A központi nyilvántartás rendszerének kialakítása és a nyilvántartás vezetése, valamint a (2) bekezdés szerinti kötelezettségek teljesítésének biztosítása a nukleáris és radioaktív anyagok hatósága feladata.
 
@@ -31,3 +31,5 @@ b) az összes nukleáris anyaggal rendelkező szervezet rendelkezése alá tarto
 c) a nukleáris anyagoknak a nukleáris anyaggal rendelkező szervezetek közötti forgalma;
 
 d) a nemzetközi jelentésekben és adatszolgáltatásokban szereplő adatközlések helyessége.
+
+[^5]: A 4. § (2) bekezdése a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.

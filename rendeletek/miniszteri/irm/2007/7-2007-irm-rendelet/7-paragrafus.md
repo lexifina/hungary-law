@@ -16,6 +16,6 @@ b) az 5. § (8) bekezdése szerinti jelentési kötelezettségének az a) pont s
 
 c) a 6. § (2) bekezdésének f) pontja szerinti üzemeltetési programot nem köteles elkészíteni.
 
-(3)[^6] Amennyiben a nukleáris és radioaktív anyagok hatósága az 5. § (8) bekezdése szerinti jelentéseket a központi nyilvántartás adatai alapján hibásnak minősíti, a hiba okát tisztázni kell. Amennyiben a jelentéstételre kötelezett szervezet észleli, hogy a közölt adatok nem felelnek meg a valóságnak, kiigazítási, illetőleg helyesbítési jelentést készít 5 napon belül.
+(3)[^10] Amennyiben a nukleáris és radioaktív anyagok hatósága az 5. § (8) bekezdése szerinti jelentéseket a központi nyilvántartás adatai alapján hibásnak minősíti, a hiba okát tisztázni kell. Amennyiben a jelentéstételre kötelezett szervezet észleli, hogy a közölt adatok nem felelnek meg a valóságnak, kiigazítási, illetőleg helyesbítési jelentést készít 5 napon belül.
 
-[^6]: A 7. § (3) bekezdése a 40/2010. (XII. 31.) NFM rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^10]: A 7. § (3) bekezdése a 40/2010. (XII. 31.) NFM rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

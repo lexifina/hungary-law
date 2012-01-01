@@ -46,7 +46,7 @@
 
 ## Keltezés:
 
-## Értesítjük, hogy biztosítékok alá tartozó nukleáris anyag nemzetközi kiszállítását tervezzük a Magyar Köztársaságból, az alábbiak szerint:
+## Értesítjük, hogy biztosítékok alá tartozó nukleáris anyag nemzetközi kiszállítását tervezzük Magyarországról, az alábbiak szerint:
 
 ## a) Mennyiség g/kg az elem összsúlyban:
 
@@ -88,11 +88,11 @@
 
 ## 5. sz. adatlap
 
-## Előzetes értesítés nukleáris anyagnak várható beszállításáról a Magyar Köztársaságba
+## Előzetes értesítés nukleáris anyagnak várható beszállításáról Magyarországra
 
 ## Keltezés:
 
-## Értesítjük, hogy biztosítékok alá tartozó nukleáris anyagnak nemzetközi beszállítása várható a Magyar Köztársaságba, az alábbiak szerint:
+## Értesítjük, hogy biztosítékok alá tartozó nukleáris anyagnak nemzetközi beszállítása várható Magyarországra, az alábbiak szerint:
 
 ## a) Mennyiség g/kg összsúlyban (elemből),
 
@@ -112,9 +112,9 @@
 
 ## f) A szállítás eszköze:
 
-## g) A felelősségnek a Magyar Köztársaság által történő átvállalásának helye és ideje:
+## g) A felelősségnek Magyarország által történő átvállalásának helye és ideje:
 
-## h) A Magyar Köztársaságba való megérkezés várható időpontja:
+## h) Magyarországra való megérkezés várható időpontja:
 
 ## i) Az anyagmérleg-körzet és helyszín, ahol az anyagot ki fogják csomagolni, és ahol mennyiségét és összetételét azonosítani lehet:
 
