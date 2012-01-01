@@ -1,0 +1,3 @@
+## 25. § Az Eszkr. 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A közhasznú szervezetként működő felsőoktatási intézménynek, a Magyar Felsőoktatási Akkreditációs Bizottságnak, a Felsőoktatási és Tudományos Tanácsnak, a Magyar Rektori Konferenciának, valamint a közhasznú szervezetként működő európai területi együttműködési csoportosulásnak a beszámolókészítési és könyvvezetési kötelezettsége megállapításánál a Tv., valamint az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény vonatkozó előírásait kell alkalmaznia.”
