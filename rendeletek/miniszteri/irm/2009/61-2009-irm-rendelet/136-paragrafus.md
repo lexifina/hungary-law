@@ -1,4 +1,4 @@
-## 136. § A módosító jogszabály tervezete kizárólag a következő logikai egységeket tartalmazhatja:
+## 136. §[^96] A módosító jogszabály tervezete kizárólag a következő logikai egységeket tartalmazhatja:
 
 a) a bevezető részt,
 
@@ -14,4 +14,8 @@ ea) a hatályba léptető rendelkezéseket,
 
 eb) az átmeneti rendelkezéseket,
 
-ec) az európai uniós követelményekre utaló rendelkezéseket.
+ec) törvény tervezete esetében a törvény vagy törvényi rendelkezés sarkalatosságára utaló rendelkezéseket,
+
+ed) az európai uniós követelményekre utaló rendelkezéseket.
+
+[^96]: A 136. § a 43/2011. (XII. 31.) KIM rendelet 11. §-ával megállapított szöveg.

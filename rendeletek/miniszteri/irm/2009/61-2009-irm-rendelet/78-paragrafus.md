@@ -12,6 +12,6 @@ b) a szakasz további bekezdéseiben kell rendelkezni a jogszabály hatálybalé
 
 (2) A jogszabály hatálybalépésének időpontjától eltérő időpontban hatályba lépő szerkezeti egységek hatálybalépéséről a hatálybalépésük sorrendjében önálló bekezdésben kell rendelkezni.
 
-(3)[^48]
+(3)[^58]
 
-[^48]: A 78. § (3) bekezdését a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^58]: A 78. § (3) bekezdését a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.

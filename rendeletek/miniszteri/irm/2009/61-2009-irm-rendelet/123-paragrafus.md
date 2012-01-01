@@ -1,6 +1,6 @@
 123. § (1) A különböző időpontban hatályba lépő hatályon kívül helyező rendelkezéseket a hatálybalépés időpontjának növekvő sorrendjében kell szabályozni.
 
-(2)[^75] A hatályon kívül helyező rendelkezések között a törvényre vonatkozó hatályon kívül helyező rendelkezések megelőzik a Magyar Nemzeti Bank elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a kormányrendeletre vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Kormány tagja rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Pénzügyi Szervezetek Állami Felügyelete elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Nemzeti Média- és Hírközlési Hatóság elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket.
+(2)[^91] A hatályon kívül helyező rendelkezések között a törvényre vonatkozó hatályon kívül helyező rendelkezések megelőzik a Magyar Nemzeti Bank elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a kormányrendeletre vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Kormány tagja rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Pénzügyi Szervezetek Állami Felügyelete elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Nemzeti Média- és Hírközlési Hatóság elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket.
 
 (3) Egy bekezdésen belül a hatályon kívül helyező rendelkezést tartalmazó pontok sorrendjét úgy kell meghatározni, hogy
 
@@ -10,4 +10,4 @@ b) az azonos évben kihirdetett jogszabályok megalkotójának rövidítése –
 
 c) az azonos évben azonos jogalkotó által megalkotott jogszabályok esetén a jogszabály sorszámának növekvő sorrendjét kell alkalmazni.
 
-[^75]: A 123. § (2) bekezdése a 13/2011. (IV. 22.) KIM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^91]: A 123. § (2) bekezdése a 13/2011. (IV. 22.) KIM rendelet 4. § (4) bekezdésével megállapított szöveg.

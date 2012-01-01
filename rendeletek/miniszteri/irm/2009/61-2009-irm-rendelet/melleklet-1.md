@@ -1,4 +1,4 @@
-1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^81]
+1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^99]
 
 A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szövegezési minták
 
@@ -154,9 +154,15 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | [A (VAGY) a (VAGY) Az (VAGY) az] {a jogszabály címe} [szóló (VAGY) című] |
 
-4.1.2. Az Alkotmányra vonatkozó merev hivatkozás
+4.1.2. Az Alaptörvényre és az Alaptörvény Átmeneti Rendelkezéseire vonatkozó merev hivatkozás
 
-| [Az (VAGY) az] Alkotmány |
+4.1.2.1. Az Alaptörvényre vonatkozó merev hivatkozás
+
+| [Az (VAGY) az] Alaptörvény |
+
+4.1.2.2. Az Alaptörvény Átmeneti Rendelkezéseire vonatkozó merev hivatkozás
+
+| [Az (VAGY) az] Alaptörvény Átmeneti Rendelkezései |
 
 4.1.3. A törvényre vagy törvényerejű rendeletre vonatkozó merev hivatkozás
 
@@ -510,9 +516,21 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a hivatkozott alpontot vagy alpontokat tartalmazó uniós jogi aktusra vonatkozó merev hivatkozás} {az alpontot vagy alpontokat tartalmazó cikk sorszámára vonatkozó hivatkozás} cikk {az alpontot vagy alpontokat tartalmazó pont megjelölésére vonatkozó hivatkozás} pont {az alpont vagy alpontok megjelölésére vonatkozó hivatkozás} alpontja |
 
-6. Az alkotmánymódosítás preambuluma
+6. Az Alaptörvény módosításának és az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma
 
-| Az Országgyűlés mint alkotmányozó hatalom az Alkotmány 19. § (3) bekezdés a) pontjában meghatározott hatáskörében eljárva az Alkotmányt a következők szerint módosítja: |
+6.1. Az Alaptörvény módosításának preambuluma
+
+| Az Országgyűlés mint alkotmányozó hatalom az Alaptörvény 1. cikk (2) bekezdés a) pontjában meghatározott hatáskörében eljárva az Alaptörvényt a következők szerint módosítja: |
+
+6.2. Az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma
+
+6.2.1. Az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma a szabályozás indokára, céljára vonatkozó utalással
+
+| Az Országgyűlés annak érdekében, hogy {a szabályozás indokára, céljára vonatkozó utalás} az Alaptörvény végrehajtására, {az Alaptörvényre vonatkozó merev hivatkozás} {a törvényhozási tárgykört tartalmazó szerkezeti egységre vonatkozó merev hivatkozás a birtokos személyjellel} alapján a következő törvényt alkotja: |
+
+6.2.2. Az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma a szabályozás indokára, céljára vonatkozó utalás nélkül
+
+| Az Országgyűlés az Alaptörvény végrehajtására, {az Alaptörvényre vonatkozó merev hivatkozás} {a törvényhozási tárgykört tartalmazó szerkezeti egységre vonatkozó merev hivatkozás a birtokos személyjellel} alapján a következő törvényt alkotja: |
 
 7. A bevezető rész felépítése
 
@@ -552,7 +570,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a feladatkör vagy feladatkörök megjelölése} meghatározott feladatkörében eljáró {az első egyetértő teljes megjelölése} {a „-val” vagy a „-vel” rag megfelelő változata}, {a feladatkör vagy feladatkörök megjelölése} meghatározott feladatkörében eljáró {a második egyetértő teljes megjelölése}{a „-val” vagy a „-vel” rag megfelelő változata} [...] és {a feladatkör vagy feladatkörök megjelölése} meghatározott feladatkörében eljáró {az utolsó egyetértő teljes megjelölése}{a „-val” vagy a „-vel” rag megfelelő változata} egyetértésben |
 
-7.3. A véleményezésre vonatkozó hivatkozás felépítése
+7.3. A véleményezésre, a hozzájárulásra és a társult képviselő-testület döntésére vonatkozó hivatkozás felépítése
 
 7.3.1. Egyetlen véleményező véleményére vonatkozó hivatkozás felépítése
 
@@ -574,19 +592,27 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a feladatkör vagy feladatkörök megjelölése} meghatározott feladatkörében eljáró {az első véleményező teljes megjelölése}, {a feladatkör vagy feladatkörök megjelölése} meghatározott feladatkörében eljáró {a második véleményező teljes megjelölése}, {a véleményezési jogkört biztosító rendelkezést tartalmazó jogszabályra vonatkozó merev hivatkozás} {a véleményezési jogkört biztosító rendelkezést tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] biztosított véleményezési jogkörében eljáró {a harmadik véleményező teljes megjelölése} […] és [a (VAGY) az] {az utolsó véleményező teljes megjelölése} véleményének kikérésével |
 
+7.3.3. A hozzájárulásra vonatkozó hivatkozás felépítése
+
+| {a társulásban résztvevő helyi önkormányzat teljes megjelölése} [képviselő-testületének (VAGY) közgyűlésének] hozzájárulásával |
+
+7.3.4. A társult képviselő-testület döntésére vonatkozó hivatkozás felépítése
+
+| {a társulásban résztvevő helyi önkormányzatok teljes megjelölése} társult képviselő-testülete döntésének megfelelően |
+
 7.4. Az eredeti jogalkotói hatáskörben kiadott jogszabályok tervezete bevezető részének a felépítése
 
 7.4.1. Az eredeti jogalkotói hatáskörben kiadott kormányrendelet tervezete bevezető részének a felépítése
 
-| A Kormány az Alkotmány 35. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány {az Alkotmány feladatkört megállapító szerkezeti egységére vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] meghatározott feladatkörében eljárva a következőket rendeli el: |
+| A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény {az Alaptörvény feladatkört megállapító szerkezeti egységére vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] meghatározott feladatkörében eljárva a következőket rendeli el: |
 
 7.4.2. Az eredeti jogalkotói hatáskörben kiadott miniszterelnöki rendelet tervezete bevezető részének a felépítése
 
-| Az Alkotmány 33. § (2) bekezdésében meghatározott eredeti jogalkotó hatáskörömben eljárva a következőket rendelem el: |
+| Az Alaptörvény 16. cikk (2) bekezdésében meghatározott eredeti jogalkotó hatáskörömben eljárva a következőket rendelem el: |
 
 7.4.3. Az eredeti jogalkotói hatáskörben kiadott önkormányzati rendelet tervezete bevezető részének a felépítése
 
-| {a rendelet megalkotójának teljes megjelölése} az Alkotmány 44/A. § (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, [az Alkotmány (VAGY) {a helyi önkormányzatokról szóló törvényre vonatkozó merev hivatkozás}]{[az Alkotmány (VAGY) a helyi önkormányzatokról szóló törvény] feladatkört megállapító szerkezeti egységére vagy egységeire vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] meghatározott feladatkörében eljárva a következőket rendeli el: |
+| {a rendelet megalkotójának teljes megjelölése} az Alaptörvény 32. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, [az Alaptörvény (VAGY) {a helyi önkormányzatokról szóló törvényre vonatkozó merev hivatkozás}] {[az Alaptörvény (VAGY) a helyi önkormányzatokról szóló törvény] feladatkört megállapító szerkezeti egységére vagy egységeire vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] meghatározott feladatkörében eljárva a következőket rendeli el: |
 
 7.5. A felhatalmazás alapján kiadott jogszabályok tervezetének a bevezető része
 
@@ -686,9 +712,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | Felhatalmazást kapnak {a többes számú felhatalmazó rendelkezés jogosultjai}, hogy {a felhatalmazás tárgya}-t – {az egy vagy több véleményezőre vonatkozó hivatkozás} – rendeletben [állapítsák meg (VAGY) szabályozzák]. |
 
-8.6.3. Vélemény kikérésével megalkotható együttes rendelet alkotására vonatkozó felhatalmazó rendelkezés
-
-| Felhatalmazást kap {az együttes rendelet megalkotására vonatkozó felhatalmazó rendelkezés jogosultjai}, hogy {a felhatalmazás tárgya}-t – {az egy vagy több véleményezőre vonatkozó hivatkozás} – együttes rendeletben [állapítsa meg (VAGY) szabályozza]. |
+8.6.3.
 
 8.7. Egyetértéssel és vélemény kikérésével megalkotható rendelet alkotására vonatkozó felhatalmazó rendelkezés
 
@@ -706,11 +730,11 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 8.8.1. Meghatározott határnapig megalkotható rendelet alkotására szóló felhatalmazó rendelkezés időbeli korlátjának megjelölése a rendeletalkotás aktusára utaló kifejezéshez kapcsolódóan
 
-| […] {a rendelet megalkotására nyitva álló határnap}-ig [rendeletben (VAGY) együttes rendeletben] [állapítsa meg (VAGY) állapítsák meg (VAGY) szabályozza (VAGY) szabályozzák]. |
+| [...] {a rendelet megalkotására nyitva álló határnap}-ig rendeletben [állapítsa meg (VAGY) állapítsák meg (VAGY) szabályozza (VAGY) szabályozzák]. |
 
 8.8.2. Határozott időre szóló felhatalmazó rendelkezés megjelölése a rendeletalkotás aktusára utaló kifejezéshez kapcsolódóan
 
-| […] legkésőbb {a rendelet megalkotására nyitva álló határnap}-ig hatályos [rendeletben (VAGY) együttes rendeletben] [állapítsa meg (VAGY) állapítsák meg (VAGY) szabályozza (VAGY) szabályozzák]. |
+| [...] legkésőbb {a rendelet megalkotására nyitva álló határnap}-ig hatályos rendeletben [állapítsa meg (VAGY) állapítsák meg (VAGY) szabályozza (VAGY) szabályozzák]. |
 
 9. A hatályba léptető rendelkezés
 
@@ -746,7 +770,15 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a hatályba léptető rendelkezést tartalmazó szakasz száma}. § (1) Ez a {a jogszabály típusnak megjelölése} – {a jogszabály egészének hatálybalépésétől eltérő időpontban történő hatálybalépésről rendelkező bekezdésre vagy bekezdésekre vonatkozó merev hivatkozás}-ben foglalt kivétellel – {a hatálybalépés időpontja} lép hatályba. (2) {a jogszabály hatálybalépésének időpontjánál későbbi, de e rendelkezések közül a legkorábbi időpontban hatályba lépő szerkezeti egységre vagy annak szövegrészére vonatkozó merev hivatkozás vagy hivatkozások} {a későbbi hatálybalépés időpontja} lép hatályba. […[ ({az utolsó bekezdés száma}) {a legkésőbb hatályba lépő szerkezeti egységre vagy annak szövegrészére vonatkozó merev hivatkozás vagy hivatkozások} {a legkésőbbi hatálybalépés időpontja} lép hatályba |
 
-10.
+10. A sarkalatossági záradék felépítése
+
+10.1. A sarkalatossági záradék felépítése, ha a sarkalatossági záradék kivételével az egész törvény sarkalatosnak minősül
+
+| {a szakasz száma}. § E {a sarkalatossági záradékot tartalmazó szerkezeti egységre vonatkozó merev hivatkozás} kivételével ez a törvény {az Alaptörvény azon rendelkezésére vonatkozó merev hivatkozás, amely alapján a törvény sarkalatosnak minősül}{a birtokos személyjel} alapján sarkalatosnak minősül. |
+
+10.2. A sarkalatossági záradék felépítése, ha a törvénynek csak egy része minősül sarkalatosnak
+
+| {a szakasz száma}. § {a sarkalatosnak minősülő szerkezeti egységére vonatkozó merev hivatkozás}{az Alaptörvény azon rendelkezésére vonatkozó merev hivatkozás, amely alapján a törvény vonatkozó rendelkezései sarkalatosnak minősülnek}{a birtokos személyjel} alapján sarkalatosnak minősül. |
 
 11. A jogharmonizációs záradék formája és megszövegezése
 
@@ -1540,4 +1572,4 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 19.
 
-[^81]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése szerint módosított szöveg.
+[^99]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése, a 43/2011. (XII. 31.) KIM rendelet 13. §-a, 14. § (10) bekezdése, 15. §-a szerint módosított szöveg.

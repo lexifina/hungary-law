@@ -1,5 +1,5 @@
-## 5.[^11]
+## 5.[^13]
 
 15. §
 
-[^11]: Az 5. alcímet (15. §) a 19/2010. (XII. 21.) KIM rendelet 19. § (1) bekezdése hatályon kívül helyezte.
+[^13]: Az 5. alcímet (15. §) a 19/2010. (XII. 21.) KIM rendelet 19. § (1) bekezdése hatályon kívül helyezte.

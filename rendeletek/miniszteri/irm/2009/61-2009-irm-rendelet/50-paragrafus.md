@@ -6,34 +6,30 @@
 
 50. § (1) A jogszabály tervezetének az elején fel kell tüntetni a jogszabály megjelölését.
 
-(2) A jogszabály tervezete az e rendeletben meghatározott esetekben, az alábbi sorrendben a következő logikai egységeket tartalmazhatja:
+(2)[^36] A jogszabály tervezete az e rendeletben meghatározott esetekben, az alábbi sorrendben a következő logikai egységeket tartalmazhatja:
 
-a)[^30] preambulum vagy bevezető rész,
+a) preambulum vagy bevezető rész,
 
-b)[^31]
+b) általános rendelkezések,
 
-c) általános rendelkezések,
+c) részletes rendelkezések,
 
-d) részletes rendelkezések,
+d) záró rendelkezések, ezen belül
 
-e) záró rendelkezések, ezen belül
+da) törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet tervezete esetében felhatalmazó rendelkezések,
 
-ea) törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet tervezete esetében felhatalmazó rendelkezések,
+db) hatályba léptető rendelkezések,
 
-eb) hatályba léptető rendelkezések,
+dc) átmeneti rendelkezések,
 
-ec)[^32]
+de) törvény tervezete esetében a törvény vagy törvényi rendelkezés sarkalatosságára utaló rendelkezések,
 
-ed) átmeneti rendelkezések,
+df) a jogalkotásra vonatkozó európai uniós követelményekre utaló rendelkezések,
 
-ee) a jogalkotásra vonatkozó európai uniós követelményekre utaló rendelkezések,
+dg) módosító rendelkezések,
 
-ef) módosító rendelkezések,
+dh) hatályon kívül helyező rendelkezések,
 
-eg) hatályon kívül helyező rendelkezések,
+di) a hatályba nem lépésről szóló rendelkezések.
 
-eh) a hatályba nem lépésről szóló rendelkezések.
-
-[^30]: Az 50. § (2) bekezdés a) pontja a 19/2010. (XII. 21.) KIM rendelet 6. §-ával megállapított szöveg.
-[^31]: Az 50. § (2) bekezdés b) pontját a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
-[^32]: Az 50. § (2) bekezdés e) pont ec) alpontját a 11/2010. (X. 25.) KIM rendelet 1. § (1) bekezdés 8. pontja hatályon kívül helyezte.
+[^36]: Az 50. § (2) bekezdése a 43/2011. (XII. 31.) KIM rendelet 4. §-ával megállapított szöveg.

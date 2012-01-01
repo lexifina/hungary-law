@@ -10,7 +10,7 @@ c) a hivatkozást tartalmazó jogszabály felhatalmazása alapján megalkotandó
 
 általános hivatkozással kell hivatkozni.
 
-(2)[^18] Az általános hivatkozásban
+(2)[^24] Az általános hivatkozásban
 
 a) törvényre a „törvény” megjelöléssel,
 
@@ -38,4 +38,4 @@ kell hivatkozni.
 
 (4) A jogszabály tervezete nem tartalmazhat olyan rendelkezést, amely kizárólag általános hivatkozást tartalmaz.
 
-[^18]: A 22. § (2) bekezdése a 13/2011. (IV. 22.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^24]: A 22. § (2) bekezdése a 13/2011. (IV. 22.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
