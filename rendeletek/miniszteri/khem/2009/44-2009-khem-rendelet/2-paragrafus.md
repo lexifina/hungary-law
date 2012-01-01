@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya a Magyar Köztársaság Állami Légijármű Lajstromába felvett, nem gazdasági célú légiközlekedési tevékenység céljából üzemeltetett légijármű fedélzetén munkavállalóként vagy munkavégzésre irányuló egyéb jogviszony alapján – a légiutas-kísérő kivételével – hajózó szakszolgálatot teljesítőkre (a továbbiakan: hajózó) terjed ki.
+## 1. §[^1] E rendelet hatálya Magyarország Állami Légijármű Lajstromába felvett, nem gazdasági célú légiközlekedési tevékenység céljából üzemeltetett légijármű fedélzetén munkavállalóként vagy munkavégzésre irányuló egyéb jogviszony alapján – a légiutas-kísérő kivételével – hajózó szakszolgálatot teljesítőkre (a továbbiakan: hajózó) terjed ki.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -15,3 +15,5 @@ e) helyi idő: annak az időzónának a helyi ideje, ahol a hajózó utoljára a
 f) hosszú távú repülés: olyan repülés, ahol az indulási repülőtér és a célrepülőtér közötti távolság az 5000 kilométert meghaladja,
 
 g) időzónaváltás: a légijárművel folytatott munkavégzés befejezésének helyén a helyi idő több mint három órával eltér a hajózó helyi idejétől.
+
+[^1]: Az 1. § a 91/2011. (XII. 30.) NFM rendelet 68. §-a szerint módosított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-44-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-09-13 | 2009-44-20-2M.2 | 44/2009. (IX. 4.) KHEM rendelet |
+| 2012-01-01 | 2009-44-20-2M.3 | 91/2011. (XII. 30.) NFM rendelet |
