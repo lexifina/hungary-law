@@ -7,3 +7,5 @@
 (4) A Felügyelet látja el a 924/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.
 
 (5) Az 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése szerinti illetékes hatóságként a Felügyelet látja el az 1060/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.
+
+(6) A Felügyelet látja el a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvényben meghatározott feladatkörében az 583/2010/EU bizottsági rendelet, valamint az 584/2010/EU bizottsági rendelet végrehajtását.

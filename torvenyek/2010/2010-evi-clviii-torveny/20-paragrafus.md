@@ -13,3 +13,5 @@ b) nem létesíthet rendszeres gazdasági kapcsolatot vállalkozás vezető tisz
 c) nyilvánosan működő részvénytársaság kivételével nem szerezhet részesedést olyan vállalkozásban,
 
 amelynek jogát vagy jogos érdekét a Felügyelet döntése a megbízatás megszűnését megelőző három évben érintette.
+
+(5) A (4) bekezdésben foglaltakra figyelemmel a (2)–(3) bekezdés szerinti juttatás kizárólag társadalombiztosítási járulék, egészségbiztosítási hozzájárulás, valamint egészségbiztosítási és nyugdíjjárulék alapjául szolgáló jövedelem.

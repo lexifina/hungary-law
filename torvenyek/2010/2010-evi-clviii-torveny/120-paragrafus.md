@@ -18,4 +18,12 @@ g) az Európai Parlament és a Tanács 2006/48/EK irányelve (2006. június 14.)
 
 h) az Európai Parlament és a Tanács 2006/49/EK irányelve (2006. június 14.) a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg), 37. cikk [a 9. § (1) bek. e), f) és g) pontja és a 9. § (2)–(3) bek.],
 
-i) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/111/EK irányelve a 2006/48/EK, a 2006/49/EK és a 2007/64/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke-elemek, nagykockázat-vállalások, felügyeleti szabályok és válságkezelés tekintetében történő módosításáról, 1. cikk [a 12. §].
+i) az Európai Parlament és Tanács 2009/11/EK irányelve (2009. szeptember 16.) a 2006/48/EK, a 2006/49/EK és a 2006/74/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke elemek, nagykockázat-vállalások, felügyeletei szabályok és válságkezelés tekintetében történő módosításáról, 1. cikk [a 12. §],
+
+j) az Európai Parlament és Tanács 2009/65/EK irányelve (2010. július 13.) az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról (átdolgozás),
+
+k) a Bizottság 2010/43/EK irányelve (2010. július 1.) a 2009/65/EK európai parlamenti és tanácsi irányelvnek a szervezeti követelmények, az összeférhetetlenség, az üzletvitel, a kockázatkezelés, valamint a letétkezelő és az alapkezelő társaság közötti megállapodás tartalma tekintetében történő végrehajtásáról,
+
+l) a Bizottság 2010/44/EK irányelve (2010. július 1.) a 2009/65/EK európai parlamenti és tanácsi irányelvnek az alapok egyesülésére, a master-feeder struktúrákra és a bejelentési eljárásokra vonatkozó különös rendelkezései tekintetében történő végrehajtásáról,
+
+m) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.

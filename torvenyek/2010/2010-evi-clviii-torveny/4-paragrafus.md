@@ -34,6 +34,8 @@ p) a 7. § p) pontjában meghatározottak szerint a kötelező gépjármű-felel
 
 q)
 
+r) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvény
+
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
 (2) A Felügyelet látja el a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény hatálya alá tartozó tevékenysége tekintetében.

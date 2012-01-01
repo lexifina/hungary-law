@@ -4,7 +4,7 @@
 
 ## A Pénzügyi Szervezetek Állami Felügyeletének jogállása
 
-1. § (1) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) a Magyar Köztársaság pénzügyi közvetítő rendszerét felügyelő, ellenőrző hatósági feladatokat ellátó és szabályozó, országos hatáskörű közigazgatási szerv, amely csak a törvénynek van alárendelve.
+1. § (1) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) Magyarország pénzügyi közvetítő rendszerét felügyelő, ellenőrző hatósági feladatokat ellátó önálló szabályozó szerv, amely csak a törvénynek van alárendelve.
 
 (2) A Felügyelet székhelye Budapest.
 

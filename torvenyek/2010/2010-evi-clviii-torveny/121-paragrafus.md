@@ -12,7 +12,11 @@ c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a t
 
 d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
 
-e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése
+e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése,
+
+f) (6) bekezdése a 2009/65/EK európai parlamenti és tanácsi irányelvnek a bejelentő levél és az ÁÉKBV-igazolás formája és tartalma, a bejelentés céljára az illetékes hatóságok közötti elektronikus kommunikáció használata, valamint a helyszíni ellenőrzésekre és vizsgálatokra és az illetékes hatóságok közötti információcserére vonatkozó eljárások tekintetében történő végrehajtásáról szóló, 2010. július 1-i 584/2010/EU bizottsági rendelet, valamint
+
+g) a Bizottság 2010. július 1-i, 2009/65/EK európai parlamenti és tanácsi irányelvnek a kiemelt befektetői információk tekintetében, valamint a papírtól eltérő tartós adathordozón vagy weboldalon rendelkezésre bocsátott kiemelt befektetői információk vagy tájékoztató esetében teljesítendő különleges feltételek tekintetében történő végrehajtásáról szóló 583/2010/EU rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet feladatkörében és eljárásában.
 

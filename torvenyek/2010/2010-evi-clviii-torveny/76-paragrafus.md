@@ -1,4 +1,4 @@
-76. § (1) A Felügyelet az engedély nélkül végzett tevékenység, bennfentes kereskedelem, illetve piacbefolyásolás megállapítására irányuló piacfelügyeleti eljárása során jogosult feladatának ellátása érdekében az eljárása alá vont ügyfélre vonatkozó,
+76. § (1) A Felügyelet az engedély nélkül végzett tevékenység, bennfentes kereskedelem, illetve piacbefolyásolás megállapítására, valamint a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzésére irányuló piacfelügyeleti eljárása során jogosult feladatának ellátása érdekében az eljárása alá vont ügyfélre vonatkozó,
 
 a) az értékpapír-, ügyfél- és fizetési számla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával, valamint
 

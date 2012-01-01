@@ -14,7 +14,7 @@ c) az Európai Pénzügyi Felügyeleti Rendszerben történő részvételhez kap
 
 (2) A felügyeleti együttműködés keretében nyújtott, illetve szerzett egyedi adatok harmadik fél részére – ha az adattovábbítás egyéb feltételei fennállnak – az adatszolgáltató hatóság előzetes írásos hozzájárulása alapján továbbíthatóak.
 
-(3) A Felügyelet által kezelt adatok csak akkor adhatók ki külföldi pénzügyi felügyeleti hatóságnak, ha az megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet képes garantálni a részére nyújtott adatok kezeléséhez. Az Európai Gazdasági Térség államaiban pénzügyi felügyeleti feladatokat ellátó hatóságoknak történő adattovábbítást automatikusan úgy kell tekinteni, mintha a Magyar Köztársaság területén belüli és azzal egyenértékű jogi védelmet biztosító adattovábbításra kerülne sor.
+(3) A Felügyelet által kezelt adatok csak akkor adhatók ki külföldi pénzügyi felügyeleti hatóságnak, ha az megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet képes garantálni a részére nyújtott adatok kezeléséhez. Az Európai Gazdasági Térség államaiban pénzügyi felügyeleti feladatokat ellátó hatóságoknak történő adattovábbítást automatikusan úgy kell tekinteni, mintha Magyarország területén belüli és azzal egyenértékű jogi védelmet biztosító adattovábbításra kerülne sor.
 
 (4) A Felügyelet az e törvény, illetve a 4. § szerinti törvények alapján birtokába került személyes adatokat az adott személy utolsó, – a 4. § szerinti törvényekben meghatározott – engedélyezési, nyilvántartásba vételi kötelezettség alá eső jogviszonyának megszűnésétől számított legfeljebb öt évig kezelheti.
 

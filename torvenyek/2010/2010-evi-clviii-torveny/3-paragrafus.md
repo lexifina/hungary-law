@@ -14,4 +14,4 @@
 
 (7) A Felügyelet feladatai végrehajtása során mérlegeli döntéseinek a többi érintett tagállam pénzügyi rendszerének stabilitására gyakorolt hatását.
 
-(8) A Felügyelet a kormányzati ellenőrzési szerv rendelkezésére bocsátja mindazon adatokat, amelyek kezelésére a kormányzati ellenőrzési szerv az államháztartásról szóló 1992. évi XXXVIII. törvény 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott feladatai ellátásához törvény alapján jogosult.
+(8) A Felügyelet a kormányzati ellenőrzési szerv rendelkezésére bocsátja mindazon adatokat, amelyek kezelésére a kormányzati ellenőrzési szerv az államháztartásról szóló 2011. évi CXCV. törvény 63. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott feladatai ellátásához törvény alapján jogosult.

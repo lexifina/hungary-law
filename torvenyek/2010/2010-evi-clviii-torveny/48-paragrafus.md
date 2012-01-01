@@ -16,7 +16,9 @@ bb) a 4. § c) pontjában foglalt törvényben meghatározott hitelintézetnél 
 
 bc) a 4. § f) pontjában foglalt törvényben meghatározott pénztárnál,
 
-bd) a 4. § h) pontjában foglalt törvényben meghatározott befektetési alapkezelőnél, a kockázati tőkealap-kezelőnél, a tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi értéktárnál,
+bd) a 4. § h) és r) pontjában foglalt törvényben meghatározott befektetési alapkezelőnél, a kockázati tőkealap-kezelőnél, a tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi értéktárnál,
+
+szerzett vezetői gyakorlattal rendelkezik.
 
 be) a 4. § i) pontjában foglalt törvényben meghatározott biztosítónál,
 

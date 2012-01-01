@@ -12,6 +12,6 @@ e) felmentésével.
 
 (2) A Felügyelet elnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetén a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
 
-(3) A Felügyelet alelnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetén Felügyelet elnökének előterjesztésére a miniszterelnök állapítja meg.
+(3) A Felügyelet alelnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetén a Felügyelet elnöke állapítja meg.
 
 (4) A Pénzügyi Békéltető Testület elnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetén a Felügyelet elnöke állapítja meg.
