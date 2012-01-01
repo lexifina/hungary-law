@@ -1,6 +1,6 @@
 ## 3. Az Alap pénzügyi forrásai
 
-4. § (1) Az Alappal – e törvényben foglaltak figyelembevételével – háromtagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára, valamint a nemzetpolitikáért felelős miniszter irányítása alatt álló helyettes államtitkár.
+4. § (1) Az Alappal – e törvényben foglaltak figyelembevételével – háromtagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt személy, valamint a nemzetpolitikáért felelős miniszter irányítása alatt álló helyettes államtitkár.
 
 (2) Az Alap bevételei:
 

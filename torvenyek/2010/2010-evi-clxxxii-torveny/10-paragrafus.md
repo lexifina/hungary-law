@@ -1,6 +1,6 @@
 ## 5. Az Alap működése
 
-10. § (1) A támogatások nyilvános pályázat vagy egyedi kérelem benyújtása keretében nyerhetők el. A Bizottság, figyelembevéve a MÁÉRT által az Alappal kapcsolatban meghozott elvi iránymutatásokat, a Magyar Köztársaság költségvetéséről szóló törvény elfogadását követő két hónapon belül szakmai irányelvek szerint meghatározza a pályázati keretek között nyújtandó összeget. A fennmaradó támogatásrész a Bizottság egységes elvek alapján meghatározott támogatási döntései alapján nyerhető el.
+10. § (1) A támogatások nyilvános pályázat vagy egyedi kérelem benyújtása keretében nyerhetők el. A Bizottság, figyelembe véve a MÁÉRT által az Alappal kapcsolatban meghozott elvi iránymutatásokat, a központi költségvetésről szóló törvény elfogadását követő két hónapon belül szakmai irányelvek szerint meghatározza a pályázati keretek között nyújtandó összeget. A fennmaradó támogatásrész a Bizottság egységes elvek alapján meghatározott támogatási döntései alapján nyerhető el.
 
 (2) A pályázati felhívásokat a 11. § (2) bekezdése szerinti internetes honlapon és egy országos napilapban közzé kell tenni.
 

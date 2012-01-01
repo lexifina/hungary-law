@@ -4,9 +4,11 @@
 
 (1a) Az Alap fedezetet nyújt a Magyarország határain belül és kívül élő magyar közösségek kölcsönös megismerése, valamint a nemzeti teljesítmény legfontosabb példáinak bemutatása, továbbá a magyarságismereti és nemzetpolitikai kutatások elősegítése érdekében létrehozott Magyarság Háza működéséhez.
 
+(1b) Az Alap célja a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok ellátásának összehangolása.
+
 (2) A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:
 
-a) a Magyar Köztársaság területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
+a) Magyarország területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
 
 b) társadalmi szervezet, alapítvány, jogi személyiséggel rendelkező önkormányzat, valamint az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
 
