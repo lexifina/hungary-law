@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-74-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 1991-74-20-22.3 | 74/1991. (VI. 10.) Korm. rendelet |
+| 2012-01-01 | 1991-74-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
