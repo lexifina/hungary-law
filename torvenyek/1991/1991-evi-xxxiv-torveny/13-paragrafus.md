@@ -6,15 +6,15 @@ b) a szerencsejáték lebonyolításának tisztaságát veszélyezteti,
 
 c) az állammal szembeni kötelezettségét nem teljesíti,
 
-d) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget, vagy hamis adatot tüntet fel,
+d) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget, vagy hamis adatot tüntet fel.
 
-e)
+e) az állami adóhatóság felhívása, illetve hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg,
 
 f) nem teljesíti a játékadó bevallásával vagy megfizetésével kapcsolatos kötelezettségét.
 
 (2) Az állami adóhatóság a szerencsejáték-szervezőt, annak vezetőit vagy vezető tisztségviselőit a szerencsejáték-szervező tevékenységtől legfeljebb 5 éves időtartamra, meghatározott feltétel bekövetkezéséig vagy akár véglegesen is eltilthatja, ha
 
-a) a szerencsejáték-szervező az állami adóhatóság hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg,
+a) a szerencsejáték-szervező az állami adóhatóság ismételt felhívása, illetve hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg,
 
 b) a szerencsejáték-szervező súlyos jogszabálysértést követ el, amellyel a játék tisztaságát sérti,
 
@@ -33,3 +33,5 @@ Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén megh
 (5) Abban a kérdésben, hogy valamely játék szerencsejátéknak tekinthető-e vita esetén az állami adóhatóság dönt. Az állami adóhatóság véleménye az irányadó a szerencsejátékok fajtájának (14. §) meghatározására vonatkozóan is.
 
 (6) Ha az ügyfél a hivatalból indított eljárásban az állami adóhatóság felhívása ellenére nem közli az érdemi döntéshez szükséges adatot vagy valótlan adatot közöl, vele szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti eljárási bírság szabható ki vagy az engedély visszavonható. A bírság ismételt alkalommal is kiszabható.
+
+(7) Ha a szerencsejáték-szervező a személyi megfelelőség meghosszabbítása iránti kötelezettségének jogszabályban meghatározott határidőben nem tesz eleget, vagy személyi megfelelősége nem áll fenn, az állami adóhatóság a szerencsejáték-szervező részére kiállított engedélyek érvénytelenségét és a szerencsejáték-szervezői tevékenység megszűnését megállapítja. Az állami adóhatóság a szerencsejáték-szervezői tevékenység megszűnéséig benyújtott engedély iránti kérelmek alapján indult eljárásokat megszünteti. A személyi megfelelőség hivatalból indult vizsgálata esetében a 2. § (4) bekezdésének d) pontjában és a 2. § (5) bekezdésében meghatározott időtartamokat az eljárás hivatalból történő megindításától kell számítani.

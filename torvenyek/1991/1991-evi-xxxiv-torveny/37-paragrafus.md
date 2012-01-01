@@ -55,3 +55,9 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
 
 22. Kártyajáték: kizárólag a jelenlévők részvételével szervezett, kártyával lebonyolított szerencsejáték.
+
+23. Távszerencsejáték: a lóversenyfogadás és a kártyajáték, ha azt hírközlő eszköz és rendszer útján szervezik.
+
+24. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
+
+25. Biztosíték: EGT-állam területén székhellyel rendelkező hitelintézetnél vagy befektetési szolgáltatónál elhelyezett pénz vagy állampapír, EGT-állam területén székhellyel rendelkező hitelintézet által nyújtott bankgarancia és a biztosítási szerződés alapján kiállított kötelezvény.

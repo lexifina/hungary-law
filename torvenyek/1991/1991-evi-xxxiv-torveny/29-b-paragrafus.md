@@ -2,7 +2,7 @@
 
 29/B. § (1) Kártyajátékot játékkaszinóban és kártyateremben lehet szervezni.
 
-(2) Kártyateremben kizárólag totalizatőri, készpénzes és/vagy verseny rendszerben lebonyolított, póker típusú kártyajáték szervezhető, továbbá a játékosok számára vendéglátás nyújtható. Készpénzes lebonyolítás esetén a kezdő tét az 500, illetve az 1000 forintot, az egy játékos által egyidejűleg beváltható összeg a 100 ezer forintot, verseny rendszerű lebonyolítás esetén pedig a nevezési díj (tét) mértéke az 50 ezer forintot nem haladhatja meg. A nevezési díjat a játékos több részletben is teljesítheti. Kártyajáték hírközlő eszköz és rendszer útján nem szervezhető.
+(2) Kártyateremben kizárólag totalizatőri, készpénzes és/vagy verseny rendszerben lebonyolított, póker típusú kártyajáték szervezhető, továbbá a játékosok számára vendéglátás nyújtható. Készpénzes lebonyolítás esetén a kezdő tét az 500, illetve az 1000 forintot, az egy játékos által egyidejűleg beváltható összeg a 100 ezer forintot, verseny rendszerű lebonyolítás esetén pedig a nevezési díj (tét) mértéke az 50 ezer forintot nem haladhatja meg. A nevezési díjat a játékos több részletben is teljesítheti.
 
 (3) Kártyateremben kártyajátékot a kizárólag e célból alapított gazdasági társaság szervezhet. Egy kártyateremben kizárólag egy gazdasági társaság szervezhet kártyajátékot.
 

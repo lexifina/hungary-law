@@ -1,4 +1,4 @@
-10. § (1) Az állami adóhatóság az engedélyben a szerencsejátékból származó nyeremények fedezetének biztosítása céljából hitelintézetnél vagy befektetési szolgáltatónál pénz vagy magyar állampapír formájában biztosítékot, illetve bankgaranciát (a továbbiakban együtt: biztosítékot) írhat elő. A biztosíték letételének vagy a (2) bekezdésben foglaltak elmulasztása az engedély visszavonásával jár.
+10. § (1) Az állami adóhatóság a szerencsejátékból származó nyeremények, játékosokat megillető egyéb kifizetések, illetve szerencsejáték ügyben kiszabott bírság fedezetének biztosítása céljából biztosítékot írhat elő. A biztosíték letételének, vagy a (2) bekezdésben foglaltak elmulasztása az engedély visszavonásával jár.
 
 (2) A biztosíték igénybevétele esetén a szerencsejáték szervező köteles annak pótlásáról 8 napon belül gondoskodni.
 

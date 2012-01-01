@@ -2,7 +2,7 @@
 
 (1a) Helyhez kötött szerver alapú pénznyerő automatának minősül az a műszaki egység (terminál, konzol), amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a hozzácsatlakoztatott műszaki egység (terminál, konzol) pedig játékteremben, játékkaszinóban található.
 
-(1b) Nem helyhez kötött szerver alapú pénznyerő rendszernek minősül az a szerencsejáték szervező által üzemeltett rendszer, amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a játékosok – a nem helyhez kötött pénznyerő rendszerhez – szintén az internet mint távközlési rendszer útján kapcsolódnak..
+(1b) Nem helyhez kötött szerver alapú pénznyerő rendszernek minősül az a szerencsejáték szervező által üzemeltett rendszer, amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a játékosok – a nem helyhez kötött pénznyerő rendszerhez – szintén az internet mint távközlési rendszer útján kapcsolódnak.
 
 (2) Az állami adóhatóság az engedélyben a pénznyerő automatát I. vagy II. kategóriába sorolja:
 
@@ -86,11 +86,11 @@ d) nem felel meg jogszabályban meghatározott egyéb követelményeknek.
 
 (17) Az üzembe helyezett pénznyerő automata és a játékterem jogszerű birtoklásának igazolását az állami adóhatóság a szerencsejáték-szervezőtől a pénznyerő automata és a játékterem működtetésének engedélyezett időtartama alatt bármikor kérheti. Ha a szerencsejáték-szervező e kötelezettségének nem tesz eleget, az állami adóhatóság az engedélyt visszavonhatja.
 
-(18) A szerencsejáték-szervező a 2. § (4) bekezdésének b) és d) pontjaiban és az (5) bekezdésben meghatározott személyi megfelelőségének folyamatosan fenn kell állnia, az állami adóhatóság pedig a személyi megfelelőség meglétét köteles ellenőrizni. A személyi megfelelőség meghosszabbítására irányuló kérelmet a személyi megfelelőség érvényességéig kell benyújtani az állami adóhatósághoz, a határidőben benyújtott kérelem esetén annak jogerős elbírálásáig az állami adóhatóság vélelmezi a személyi megfelelőség fennállását. Ha a szerencsejáték-szervező e kötelezettségének nem tesz eleget, vagy személyi megfelelősége nem áll fenn, akkor az állami adóhatóság megállapítja a szerencsejáték-szervező részére kiállított engedélyek érvénytelenségét és a szerencsejáték-szervezői tevékenység megszűnését. Az állami adóhatóság a szerencsejáték-szervezői tevékenység megszűnéséig benyújtott engedély iránti kérelmek alapján indult eljárásokat megszünteti.
+(18)
 
 (19) A pénznyerő automata a gyártásának időpontjától számított 5 éven túl – illetve annak letelte előtt, ha a szervező a pénznyerő automata üzemeltetésének végleges megszüntetéséről dönt – teljes egészében a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény és annak végrehajtási rendeletei szerint meghatározott elektronikus berendezés hulladékának minősül.
 
-(20) A játékteremben és a nem helyhez kötött szerver alapú pénznyerő rendszerben jackpot rendszer üzemeltethető. Játékterem esetén jackpot rendszerbe kizárólag ugyanabban a játékteremben üzemelő I. kategóriába sorolt pénznyerő automaták és helyhez kötött szerver alapú pénznyerő automaták köthetők..
+(20) A játékteremben és a nem helyhez kötött szerver alapú pénznyerő rendszerben jackpot rendszer üzemeltethető. Játékterem esetén jackpot rendszerbe kizárólag ugyanabban a játékteremben üzemelő I. kategóriába sorolt pénznyerő automaták és helyhez kötött szerver alapú pénznyerő automaták köthetők.
 
 (21) A szerencsejáték-szervező negyedévenként pénznyerő automata kategóriánként elkülönített időszaki elszámolást készít az állami adóhatóság részére, amelyet a negyedévet követő hónap tizenötödik és utolsó napja között köteles gépi adathordozón benyújtani.
 

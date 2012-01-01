@@ -16,11 +16,9 @@ b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (6) bekezdésébe,
 
 c) 200 ezer forinttól 3 millió forintig terjedhet a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 26. § (15) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
 
-d) 500 ezer forinttól 10 millió forintig terjedhet az 1. § (4) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe és a 30. § (3) bekezdésébe
+d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C. § (1)–(7), (9) bekezdésébe és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
 
-ütköző tevékenység vagy mulasztás esetén.
-
-(4) A bírság összegének legalább 50%-át a szerencsejátékok ellenőrzésével kapcsolatos feladatok ellátására kell fordítani.
+(4)
 
 (5) Nem lehet bírságot kiszabni a mulasztásnak vagy a kötelezettségszegésnek az állami adóhatóság tudomására jutásától számított hat hónapon, illetve az elkövetéstől számított két éven túl.
 
