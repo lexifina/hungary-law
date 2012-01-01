@@ -36,4 +36,6 @@ h) szükség esetén a feladat- és hatáskörrel rendelkező miniszter, illetve
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-7. Hatályát veszti a magyar–orosz gazdasági kapcsolatokért és a magyar–kínai kétoldalú kapcsolatok összehangolásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1269/2010. (XII. 3.) Korm. határozat.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
