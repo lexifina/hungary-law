@@ -1,6 +1,6 @@
-## A közoktatási intézmények fenntartásával kapcsolatos pénzügyi adatok[^75]
+## A közoktatási intézmények fenntartásával kapcsolatos pénzügyi adatok[^83]
 
-12/F. §[^76] (1) A közoktatási intézményfenntartó minden év február 1. és május 31. között a KIR-en keresztül intézményenként köteles az adatszolgáltatás évét megelőző naptári évről statisztikai célra – közérdekű adatokat közölni.
+12/F. §[^84] (1) A közoktatási intézményfenntartó minden év február 1. és május 31. között a KIR-en keresztül intézményenként köteles az adatszolgáltatás évét megelőző naptári évről statisztikai célra – közérdekű adatokat közölni.
 
 (2) Az adatszolgáltatás évét megelőző naptári évről a közoktatási intézményfenntartó intézményenként rögzíti a február 1-jei és október 1-jei állapot szerinti engedélyezett álláshelyek számát, a szeptemberi tanévkezdéskor számított folyó kiadások alapján az egy tanulóra jutó térítési díj és tandíj összegét, intézményenkénti bontásban a fenntartási kifizetések (kiadások, költségek és ráfordítások) összegét és bevételeit, a gazdasági feladatok ellátásának módját, továbbá az egy gyermekre, tanulóra jutó állami támogatás összegét és azt, hogy az egyes intézmények feladatainak ellátásához igénybe vett normatív hozzájárulás és támogatás intézményegységenként a teljes intézményi költségvetés hány százalékát fedezi.
 
@@ -14,7 +14,7 @@ ab) a normatív kötött felhasználású támogatás,
 
 ac) a központosított előirányzatból származó támogatás,
 
-ad) a közoktatási megállapodás keretében nyújtott támogatás (helyi önkormányzattal vagy miniszterrel kötött megállapodás),
+ad)[^85] a közoktatási megállapodás keretében nyújtott támogatás,
 
 ae) a kiegészítő támogatás,
 
@@ -58,5 +58,6 @@ d) az étkezésre, könyvtári állomány gyarapítására (ezen belül tanköny
 
 (5) Az (1) bekezdés szerinti adatok gyűjtését szolgáló elektronikus felületet oly módon kell kialakítani, hogy az alkalmas legyen a korábban gyűjtött adatok tárolására, összehasonlító elemzések készítésére.
 
-[^75]: A 12/F. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 8. §-a iktatta be.
-[^76]: A 12/F. §-t a 310/2004. (XI. 13.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 349/2007. (XII. 21.) Korm. rendelet 22. § (4) bekezdésének f) pontja, újonnan a 213/2011. (X. 14.) Korm. rendelet 8. §-a iktatta be.
+[^83]: A 12/F. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 8. §-a iktatta be.
+[^84]: A 12/F. §-t a 310/2004. (XI. 13.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 349/2007. (XII. 21.) Korm. rendelet 22. § (4) bekezdésének f) pontja, újonnan a 213/2011. (X. 14.) Korm. rendelet 8. §-a iktatta be.
+[^85]: A 12/F. § (3) bekezdés a) pont ad) alpontja a 258/2011. (XII. 7.) Korm. rendelet 27. § (13) bekezdésével megállapított szöveg.

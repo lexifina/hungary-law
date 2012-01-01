@@ -40,6 +40,6 @@
 
 ## – Szakértői, vizsgáztatói és egyéb névjegyzékek, valamint ezekkel összefüggésbe hozható adatok.
 
-5. számú melléklet a 20/1997. (II. 13.) Korm. rendelethez[^143]
+5. számú melléklet a 20/1997. (II. 13.) Korm. rendelethez[^160]
 
-[^143]: Az 5. számú mellékletet a 310/2004. (XI. 13.) Korm. rendelet 10. §-a iktatta be, szövege a 80/2005. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^160]: Az 5. számú mellékletet a 310/2004. (XI. 13.) Korm. rendelet 10. §-a iktatta be, szövege a 80/2005. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
