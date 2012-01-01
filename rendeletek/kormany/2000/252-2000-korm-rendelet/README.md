@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-252-20-
 | 2010-01-01 | 2000-252-20-22.17 | 252/2000. (XII. 24.) Korm. rendelet |
 | 2011-01-01 | 2000-252-20-22.18 | 273/2010. (XII. 9.) Korm. rendelet |
 | 2011-05-31 | 2000-252-20-22.19 | 358/2006. (XII. 27.) Korm. rendelet |
+| 2012-01-01 | 2000-252-20-22.20 | 345/2010. (XII. 28.) Korm. rendelet |
