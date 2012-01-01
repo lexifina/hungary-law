@@ -106,9 +106,9 @@
 
 ## olvasható aláírás
 
-2. melléklet a 16/2006. (IV. 6.) BM rendelethez
+2. melléklet a 16/2006. (IV. 6.) BM rendelethez[^3]
 
-Magyar Köztársaság
+Magyarország
 
 Belügyminisztérium
 
@@ -143,3 +143,5 @@ Budapest, 200 ..... év .......................... hó ..... nap.
 ……........................…
 
 belügyminiszter
+
+[^3]: A 2. melléklet a 68/2011. (XII. 30.) BM rendelet 22. § b) pontja szerint módosított szöveg.

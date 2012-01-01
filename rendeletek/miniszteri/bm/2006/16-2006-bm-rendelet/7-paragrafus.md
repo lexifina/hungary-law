@@ -4,8 +4,10 @@ a) olyan alkalmazottakkal, akik rendelkeznek közigazgatási és informatikai k�
 
 b) eljárási szabályzattal minden olyan védett titok kezelésével kapcsolatban, amely a tanúsító szerv tudomására jut a hatályos jogszabályok szerinti feladatainak végzése során;
 
-c) a tevékenység végzésére vonatkozóan – a Magyar Köztársaságban engedélyezett biztosítónál – kötött érvényes felelősségbiztosítási szerződéssel;
+c)[^2] a tevékenység végzésére vonatkozóan – a Magyarországon engedélyezett biztosítónál – kötött érvényes felelősségbiztosítási szerződéssel;
 
 d) a tanúsító szerv által a megfelelőnek ítélt szoftverek számára kiadott tanúsítási jelölés formájának, jelentésének, a jelöléshasználat engedélyezésének és visszavonásának, valamint a jelöléssel való visszaélések esetén követendő eljárásoknak a leírásával.
 
 (2) Amennyiben a kérelmező az e rendeletben szabályozott tanúsítási tevékenységen kívül más tevékenységet is végez, biztosítania kell a tanúsítási tevékenységnek a kérelmező szervezetén, működési rendjén belüli kellő elkülönülését.
+
+[^2]: A 7. § (1) bekezdés c) pontja a 68/2011. (XII. 30.) BM rendelet 22. § a) pontja szerint módosított szöveg.
