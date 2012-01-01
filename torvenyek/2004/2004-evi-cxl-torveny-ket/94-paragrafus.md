@@ -8,7 +8,7 @@ c) ha az a) és a b) pont azért nem alkalmazható, mert a hatóság az adott jo
 
 (2) Nem alkalmazható az (1) bekezdés a) pontja a 13. § (2) bekezdés b) pontja hatálya alá tartozó jogszabályi rendelkezés vagy az adatszolgáltatási vagy bejelentési kötelezettséget előíró jogszabályi rendelkezésnek a 13. § (2) bekezdés d) vagy e) pontja szerinti eljárásban megállapított megsértése esetén, valamint ha
 
-a) az ügyben autonóm államigazgatási szerv vagy a Pénzügyi Szervezetek Állami Felügyelete jár el,
+a) az autonóm államigazgatási szerv vagy önálló szabályozó szerv jár el,
 
 b) azt jogszabály – a jogszabálysértés és a jogkövetkezmény alkalmazását megalapozó jogszabályi rendelkezés tételes megjelölésével – azért zárja ki, mert a jogszabálysértés, a hatósági határozat megsértése vagy az (1) bekezdés a) pontja szerinti határidő biztosítása az életet, a testi épséget, a nemzetbiztonságot, a vagyonbiztonságot, a közlekedés biztonságát, a környezet vagy a természet állapotának fenntarthatóságát, közteherviselési kötelezettség teljesítését vagy harmadik személy alapvető jogát közvetlenül veszélyezteti vagy veszélyeztetné,
 

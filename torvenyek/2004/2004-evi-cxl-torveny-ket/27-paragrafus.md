@@ -1,6 +1,6 @@
 ## Nemzetközi jogsegély
 
-27. § (1) Ha a Magyar Köztársaságnak valamely állammal közigazgatási jogsegélyegyezménye van, vagy annak hiányában az államok között viszonossági gyakorlat áll fenn, vagy többoldalú nemzetközi szerződés ezt lehetővé teszi, a hatóság a 26. § (1) bekezdésében meghatározott jogsegély érdekében külföldi hatósághoz fordulhat, illetve köteles teljesíteni a külföldről érkező jogsegélykérelmet.
+27. § (1) Ha Magyarországnak valamely állammal közigazgatási jogsegélyegyezménye van, vagy annak hiányában az államok között viszonossági gyakorlat áll fenn, vagy többoldalú nemzetközi szerződés ezt lehetővé teszi, a hatóság a 26. § (1) bekezdésében meghatározott jogsegély érdekében külföldi hatósághoz fordulhat, illetve köteles teljesíteni a külföldről érkező jogsegélykérelmet.
 
 (2) A viszonosság fennállása tekintetében a külpolitikáért felelős miniszter állásfoglalása az irányadó, amelyet az ügyfajta tekintetében feladatkörrel rendelkező miniszterrel egyetértésben alakít ki.
 

@@ -16,15 +16,21 @@ d) a termékek és a szolgáltatások forgalmazására, illetve értékesítés�
 
 e) a pénz- és tőkepiaci, a biztosítási, az önkéntes kölcsönös biztosító pénztári és a magán-nyugdíjpénztári tevékenység felügyeletével kapcsolatos eljárásban, valamint a versenyfelügyeleti és bejelentési eljárásban,
 
-f) a közbeszerzésekkel kapcsolatos jogorvoslati eljárásban,
+f)
 
 g) az atomenergia alkalmazási körébe tartozó ügyekben,
 
-g) az audiovizuális médiaszolgáltatás nyújtására és a sajtótermék kiadására irányuló tevékenység felügyeletével, a média- és hírközlési igazgatással, az elektronikus hírközlési szolgáltatások, tevékenységek, az audiovizuális médiaszolgáltatások és a sajtótermékek piaci felügyeletével, piacszabályozásával, ellenőrzésével kapcsolatos eljárásban,
+ga) az audiovizuális médiaszolgáltatás nyújtására és a sajtótermék kiadására irányuló tevékenység felügyeletével, a média- és hírközlési igazgatással, az elektronikus hírközlési szolgáltatások, tevékenységek, az audiovizuális médiaszolgáltatások és a sajtótermékek piaci felügyeletével, piacszabályozásával, ellenőrzésével, valamint a mozgóképszakmai igazgatással kapcsolatos eljárásban,
 
 h) a veszélyes létesítményekkel kapcsolatos eljárásban, valamint
 
-i) a társadalombiztosítás ellátásaival kapcsolatos eljárásban
+i) a társadalombiztosítás ellátásaival, a korhatár előtti ellátással, a szolgálati járandósággal, a balettművészeti életjáradékkal és az átmeneti bányászjáradékkal kapcsolatos eljárásban,
+
+j) az adatvédelmi és titokfelügyeleti hatósági eljárásban,
+
+k) a kutatás-fejlesztési tevékenység minősítésével kapcsolatos hatósági és szakértői eljárásokban,
+
+l) a jegybanki ellenőrzés során, a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti eljárásokban, valamint a forgalomban lévő magyar törvényes fizetőeszközről utánzat készítésével kapcsolatos eljárásokban
 
 csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg.
 

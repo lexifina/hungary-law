@@ -6,9 +6,9 @@ a) a fellebbezési eljárás,
 
 b) a bírósági felülvizsgálat,
 
-c) az újrafelvételi eljárás.
+c) az újrafelvételi eljárás,
 
-d)
+d) az Alkotmánybíróság határozata alapján indítható eljárás.
 
 (3) Hivatalból kerül sor a közigazgatási döntés felülvizsgálatára
 
@@ -16,9 +16,7 @@ a) a döntést hozó hatóság saját hatáskörében indított eljárás keret�
 
 b) a felügyeleti eljárás keretében,
 
-c) az Alkotmánybíróság határozata alapján,
-
-d) ügyészi intézkedés nyomán.
+c) az ügyészi felhívás nyomán.
 
 (4)
 

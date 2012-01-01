@@ -1,3 +1,3 @@
-## Ügyészi intézkedés
+## Ügyészi fellépés
 
 118–119. §

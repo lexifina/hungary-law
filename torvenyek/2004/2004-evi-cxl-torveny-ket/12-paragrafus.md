@@ -14,7 +14,7 @@ a) államigazgatási szerv,
 
 b) helyi önkormányzat képviselő-testülete, ideértve a megyei önkormányzat közgyűlését is, valamint a 19. § (2) bekezdése szerint átruházott hatáskörben annak szervei és társulása,
 
-c) a polgármester, főpolgármester, megyei közgyűlés elnöke, a megyei jogú város kerületi hivatalának vezetője (a továbbiakban együtt: polgármester),
+c) a polgármester, főpolgármester, megyei közgyűlés elnöke (a továbbiakban együtt: polgármester),
 
 d) főjegyző, jegyző, körjegyző, a képviselő-testület hivatalának ügyintézője, a hatósági igazgatási társulás,
 

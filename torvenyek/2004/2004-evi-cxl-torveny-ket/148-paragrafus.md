@@ -10,7 +10,7 @@ b) a kézbesítési vélelem megdöntésére irányuló kérelmet terjesztettek 
 
 c) a kötelezett meghalt vagy megszűnt, a jogutódlás tárgyában hozott végzés jogerőre emelkedéséig,
 
-d) azt az ügyész a végrehajtható döntés elleni óvásban indítványozza,
+d) azt az ügyész a végrehajtható döntés elleni ügyészi felhívásban indítványozza,
 
 e) a végrehajtás folytatása életveszéllyel vagy helyrehozhatatlan kárral járna, vagy az közegészségügyi vagy közbiztonsági okból szükséges,
 

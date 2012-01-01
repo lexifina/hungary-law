@@ -1,4 +1,12 @@
-14. § (1)
+14. § (1) Törvény vagy kormányrendelet e törvény rendelkezéseitől eltérő szabályokat állapíthat meg
+
+a) a közbeszerzéssel kapcsolatos jogorvoslati,
+
+b) a honvédelmi és katonai célú építmények, ingatlanok építésügyi hatósági engedélyezésére, illetve működési és védőterületeik kijelölésére vonatkozó, valamint
+
+c) az egészségügyről szóló törvény szerinti rendkívüli halállal kapcsolatos
+
+eljárásban.
 
 (2) Törvény vagy kormányrendelet e törvény rendelkezéseitől eltérő vagy kizáró szabályokat állapíthat meg a haditechnikai eszközök és szolgáltatások, illetve a kettős rendeltetésű termékek és technológiák külkereskedelmének engedélyezésére irányuló eljárásban
 

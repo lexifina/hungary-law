@@ -6,8 +6,10 @@ b) az ügyfelek részéről az egyezségüket jóváhagyó határozat ellen,
 
 c) jogszabály eltérő rendelkezése hiányában valamely adatnak, ténynek vagy jogosultságnak a hatósági nyilvántartásba hivatalbóli, mérlegelés nélküli bejegyzésével szemben,
 
-d) ha az elsőfokú döntést miniszter, a Pénzügyi Szervezetek Állami Felügyeletének elnöke, autonóm államigazgatási szerv vagy kormányhivatal vezetője hozta,
+d) ha az elsőfokú döntést miniszter, autonóm államigazgatási szerv, önálló szabályozó szerv vagy kormányhivatal vezetője hozta,
 
-e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az első fokú döntést központi államigazgatási szerv vezetője hozta.
+e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az első fokú döntést központi államigazgatási szerv vezetője hozta,
 
-(2) Az (1) bekezdés a), c)–e) pontjában meghatározott esetekben az első fokú döntés bírósági felülvizsgálatának van helye.
+f) a képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen.
+
+(2) Az (1) bekezdés a), c)–f) pontjában meghatározott esetben az első fokú döntés bírósági felülvizsgálatának van helye.

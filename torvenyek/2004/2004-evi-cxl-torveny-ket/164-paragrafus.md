@@ -1,8 +1,8 @@
 ## Elektronikus tájékoztatás
 
-164. § (1) A hatóság és a 38/A. § szerinti közreműködő hatóság az elektronikus információszabadságról szóló törvényben meghatározott közérdekű adatokat – a (2) és (3) bekezdésben foglaltakkal – az ott meghatározottak szerint teszi közzé elektronikusan.
+164. § (1) A hatóság és a 38/A. § szerinti közreműködő hatóság az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott közérdekű adatokat – a (2) és (3) bekezdésben foglaltakkal – az ott meghatározottak szerint teszi közzé elektronikusan.
 
-(2) A hatóság és a 38/A. § szerinti közreműködő hatóság által nyújtott elektronikus tájékoztatás – az elektronikus információszabadságról szóló törvényben meghatározott adatokon túl – tartalmazza
+(2) A hatóság és a 38/A. § szerinti közreműködő hatóság által nyújtott elektronikus tájékoztatás –az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adatokon túl – tartalmazza
 
 a) az egyes hatósági ügyek intézésére a szervezeten belül illetékes ügyintézők nevét, hivatali elérhetőségét vagy az ezzel kapcsolatban felvilágosítást adó ügyfélszolgálat elérhetőségét,
 
@@ -22,4 +22,4 @@ g) az elektronikus kapcsolattartás technikai szabályairól és az üzemzavarr�
 
 (4) A hatóság és a 38/A. § szerinti közreműködő hatóság köteles arról gondoskodni, hogy a közzétett információk hitelesek, pontosak, naprakészek és az interneten keresztül folyamatosan hozzáférhetők legyenek.
 
-(5) A polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter az adatvédelmi biztos véleményének előzetes kikérésével e törvénytől eltérően szabályozhatja.
+(5) A polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter a Nemzeti Adatvédelmi és Információszabadság Hatóság véleményének előzetes kikérésével e törvénytől eltérően szabályozhatja.

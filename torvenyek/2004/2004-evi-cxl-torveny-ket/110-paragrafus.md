@@ -8,4 +8,6 @@ a) a polgári védelmi szolgálat ellátásával kapcsolatos kötelezettséget �
 
 b) jogerős bírósági döntés végrehajtását szolgálja,
 
-c) a honvédelmi kötelezettségek részét képező gazdasági és anyagi szolgáltatással kapcsolatos kötelezettséget állapít meg.
+c) a honvédelmi kötelezettségek részét képező gazdasági és anyagi szolgáltatással kapcsolatos kötelezettséget állapít meg,
+
+d) egészségügyi szolgáltató számára közfinanszírozott ellátások biztosításához szakellátási kapacitást vagy ahhoz kapcsolódó ellátási területet állapít meg.

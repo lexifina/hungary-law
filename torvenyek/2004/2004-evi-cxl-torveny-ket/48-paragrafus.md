@@ -4,7 +4,7 @@
 
 (3) Ha az idézett személy ismételt idézésre sem jelenik meg, és távolmaradását nem menti ki, a rendőrség útján elővezettethető. Az elővezetés foganatosításához – ha törvény másként nem rendelkezik – az ügyésznek a hatóság vezetője által kért jóváhagyása szükséges.
 
-(4) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség vagy a rendvédelmi szervek hivatásos állományú tagja, az elővezetés céljából az állományilletékes parancsnokot kell megkeresni.
+(4) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, az elővezetés céljából az állományilletékes parancsnokot kell megkeresni.
 
 (5) Ha az idézett személy igazolja a távolmaradásának vagy eltávozásának menthető indokát, vissza kell vonni az eljárási bírságot megállapító és az elővezetést elrendelő végzést.
 
