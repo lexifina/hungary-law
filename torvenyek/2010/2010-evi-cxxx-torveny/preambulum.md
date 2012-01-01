@@ -1,6 +1,6 @@
 Az Országgyűlés
 
-az Alkotmány 7/A. § (4) bekezdésében foglaltak végrehajtására,
+az Alaptörvény T) cikkében foglaltak végrehajtására,
 
 a jogállamiság követelményeinek a jogalkotás során történő magas szintű érvényesítése érdekében,
 

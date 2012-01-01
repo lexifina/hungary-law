@@ -6,13 +6,13 @@ b) ha a módosítandó jogszabályi rendelkezést tételesen megjelölő, annak 
 
 c) a 12. § (2) bekezdésében meghatározottak szerint, vagy
 
-d) ha azt az Alkotmánybíróság megsemmisíti.
+d) ha azt az Alkotmánybíróság vagy a bíróság megsemmisíti.
 
 (2) A hatályos jogszabályt vagy jogszabályi rendelkezést az (1) bekezdés a) pontja szerint – a (3) bekezdésben meghatározott kivétellel – a hatályon kívül helyezni kívánt jogszabály vagy jogszabályi rendelkezés megalkotására hatáskörrel rendelkező szerv helyezheti hatályon kívül.
 
 (3) Hatályon kívül helyezhető
 
-a) törvényben kormányrendelet, a Kormány tagjának rendelete a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével és a Pénzügyi Szervezetek Állami Felügyelete elnökének rendelete,
+a) törvényben kormányrendelet, a Kormány tagjának rendelete a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével és az önálló szabályozó szerv vezetőjének rendelete a rendelet kiadásában való helyettesítésére jogosult helyettesét kijelölő rendelete kivételével,
 
 b) kormányrendeletben – ha kormányrendelet adott felhatalmazást, vagy ha a törvényben adott felhatalmazás hatályát vesztette és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak – a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével a Kormány tagjának rendelete.
 
@@ -24,4 +24,4 @@ b) kormányrendeletben – ha kormányrendelet adott felhatalmazást, vagy ha a 
 
 (7) A hatályvesztés napjának meghatározása esetén a jogszabály vagy jogszabályi rendelkezés – jogszabály eltérő rendelkezése hiányában – a nap kezdetén veszti hatályát.
 
-(8) Az Alkotmánybíróság által megsemmisített jogszabály vagy jogszabályi rendelkezés – ha az Alkotmánybíróság a határozatában eltérően nem rendelkezik – a nap kezdetén veszti hatályát.
+(8) Az Alkotmánybíróság által megsemmisített jogszabály vagy jogszabályi rendelkezés – ha az Alkotmánybíróság a határozatában eltérően nem rendelkezik – a nap kezdetén veszti hatályát. A bíróság által megsemmisített jogszabály vagy jogszabályi rendelkezés a nap kezdetén veszti hatályát.

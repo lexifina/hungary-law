@@ -4,14 +4,14 @@
 
 ## 1. A jogszabály területi és személyi hatálya
 
-6. § (1) A jogszabály területi hatálya a Magyar Köztársaság területére, az önkormányzati rendelet területi hatálya a helyi önkormányzat közigazgatási területére terjed ki.
+6. § (1) A jogszabály területi hatálya Magyarország területére, az önkormányzati rendelet területi hatálya a helyi önkormányzat közigazgatási területére terjed ki. Az önkormányzati rendelet területi hatálya az 5. § (1a) bekezdés szerinti esetben a társulásban részt vevő helyi önkormányzatok, az 5. § (1b) bekezdés szerinti esetben a társult képviselő-testületben részt vevő települési önkormányzatok közigazgatási területére terjed ki.
 
 (2) A jogszabály személyi hatálya
 
-a) a Magyar Köztársaság területén a természetes és jogi személyekre, a jogi személyiséggel nem rendelkező szervezetekre, valamint a Magyar Köztársaság területén kívül a magyar állampolgárokra,
+a) Magyarország területén a természetes személyekre, jogi személyekre és jogi személyiséggel nem rendelkező szervezetekre, valamint Magyarország területén kívül a magyar állampolgárokra,
 
-b) önkormányzati rendelet esetében az önkormányzat közigazgatási területén a természetes és jogi személyekre, valamint a jogi személyiséggel nem rendelkező szervezetekre
+b) önkormányzati rendelet esetében a helyi önkormányzat közigazgatási területén a természetes személyekre, jogi személyekre és jogi személyiséggel nem rendelkező szervezetekre, az 5. § (1a) bekezdés szerinti esetben a társulásban részt vevő helyi önkormányzatok, az 5. § (1b) bekezdés szerinti esetben a társult képviselő-testületben részt vevő települési önkormányzatok közigazgatási területén a természetes személyekre, jogi személyekre és jogi személyiséggel nem rendelkező szervezetekre
 
 terjed ki.
 
-(3) A jogszabály területi, illetve személyi hatályát a jogszabályban akkor kell kifejezetten meghatározni, ha az az (1)–(2) bekezdéstől eltérő területre, illetve személyi körre terjed ki.
+(3) A jogszabály területi, illetve személyi hatályát a jogszabályban az 5. § (1a) és (1b) bekezdés szerinti esetben, valamint akkor kell kifejezetten meghatározni, ha az az (1) és (2) bekezdéstől eltérő területre, illetve személyi körre terjed ki.

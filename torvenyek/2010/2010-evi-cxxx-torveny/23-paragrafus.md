@@ -2,6 +2,58 @@
 
 ## KÖZJOGI SZERVEZETSZABÁLYOZÓ ESZKÖZÖK
 
-23. § (1) Az Országgyűlés, a Kormány, a helyi önkormányzat képviselő-testülete, a testületi központi államigazgatási szerv és az Alkotmányban megjelölt más testületi szerv normatív határozatban szabályozza az általa irányított szervek, valamint saját tevékenységét, működését és szervezetét, továbbá saját cselekvési programját.
+23. § (1) Normatív határozatban szabályozhatja
 
-(2) A miniszterelnök, a központi államigazgatási szerv vezetője, a nemzetbiztonsági szolgálat vezetője és az Alkotmányban megjelölt egyszemélyi vagy egyszemélyi vezetés alatt álló szerv vezetője a vezetése, irányítása vagy a felügyelete alá tartozó szervek tevékenységét, működését és szervezetét szabályozó, a szerv állományába tartozó személyekre nézve kötelező normatív utasítást adhat ki.
+a) az Országgyűlés,
+
+b) a Kormány és más testületi központi államigazgatási szerv,
+
+c) az Alkotmánybíróság,
+
+d) a Költségvetési Tanács
+
+szervezetét és működését, tevékenységét, valamint cselekvési programját.
+
+(2) Normatív határozatban szabályozhatja a helyi önkormányzat képviselő-testülete a saját és az általa irányított szervek tevékenységét és cselekvési programját, valamint az általa irányított szervek szervezetét és működését.
+
+(3) Normatív határozatban szabályozhatja a nemzetiségi önkormányzat képviselő-testülete a saját és az általa irányított szervek szervezetét és működését, tevékenységét, valamint cselekvési programját.
+
+(4) Normatív utasításban szabályozhatja
+
+a) a köztársasági elnök,
+
+b) a miniszterelnök,
+
+c) az (1) bekezdés b) pontja szerinti központi államigazgatási szerv kivételével a központi államigazgatási szerv vezetője,
+
+d) az Országos Bírósági Hivatal elnöke,
+
+e) a legfőbb ügyész,
+
+f) az alapvető jogok biztosa,
+
+g) a Magyar Nemzeti Bank elnöke,
+
+h) az Állami Számvevőszék elnöke,
+
+i) a fővárosi és megyei kormányhivatal vezetője, valamint
+
+j) a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
+
+a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szervezetét és működését, valamint tevékenységét.
+
+(5) Törvényben meghatározott tárgykörben normatív utasítást adhat ki
+
+a) az Országgyűlés,
+
+b) a köztársasági elnök,
+
+c) az Alkotmánybíróság,
+
+d) az alapvető jogok biztosa,
+
+e) az önálló szabályozó szerv, valamint
+
+f) a Miniszterelnökség és a minisztérium
+
+hivatali szervezetének vezetője, amely a szerv állományába tartozó személyekre kötelező.

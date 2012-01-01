@@ -8,6 +8,6 @@
 
 (4) Ha a Magyar Nemzeti Bank elnöke rendelete tervezetét előzetes bejelentésre meg kell küldeni az Európai Központi Banknak, a megküldésről a Magyar Nemzeti Bank elnöke gondoskodik.
 
-(5) Ha a Pénzügyi Szervezetek Állami Felügyelete elnökének rendelete tervezetét meg kell küldeni előzetes bejelentésre, a megküldésről a Pénzügyi Szervezetek Állami Felügyeletének elnöke gondoskodik.
+(5) Ha az önálló szabályozó szerv vezetője rendeletének tervezetét meg kell küldeni előzetes bejelentésre, a megküldésről az önálló szabályozó szerv vezetője gondoskodik.
 
 (6) Az előzetes bejelentési kötelezettség alá tartozó jogszabály az előzetes bejelentési eljárás befejezését követően alkotható meg.

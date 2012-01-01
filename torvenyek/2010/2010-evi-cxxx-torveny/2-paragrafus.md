@@ -10,7 +10,7 @@
 
 (4) A jogszabályok megalkotásakor biztosítani kell, hogy a jogszabály
 
-a) megfeleljen az Alkotmányból eredő tartalmi és formai követelményeknek,
+a) megfeleljen az Alaptörvényből eredő tartalmi és formai követelményeknek,
 
 b) illeszkedjen a jogrendszer egységébe,
 

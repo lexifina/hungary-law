@@ -10,7 +10,9 @@ a) az előzetes bejelentési eljárás rendjét,
 
 b) az Európai Unió jogának való megfelelés érdekében szükséges jogszabály-előkészítési feladatok teljesítésének részletes szabályait, valamint
 
-c) a jogszabály és közjogi szervezetszabályozó eszköz Nemzeti Jogszabálytárban való közzétételének és a Nemzeti Jogszabálytár működtetésének részletes szabályait.
+c) a Nemzeti Jogszabálytárban közzéteendő jogszabályok és közjogi szervezetszabályozó eszközök körét, valamint a Nemzeti Jogszabálytár működtetésének részletes szabályait,
+
+d) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésére jogosult szervet.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a jogszabályszerkesztés részletes szabályait.
 
@@ -23,3 +25,11 @@ a) a jogszabály kihirdetés során történő és a közjogi szervezetszabályo
 b) a Magyar Közlöny kiadásának
 
 részletes szabályait.
+
+(5) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben határozza meg
+
+a) az előfizetők 28/C. § (4) bekezdése szerinti számát,
+
+b) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésének igazgatási szolgáltatási díját, és
+
+c) a 28/B. § (1) bekezdés b) és c) pontja szerinti közlemények és hirdetmények közzétételéért fizetendő közzétételi díj mértékét.
