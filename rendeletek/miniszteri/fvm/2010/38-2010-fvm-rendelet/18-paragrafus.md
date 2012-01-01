@@ -28,7 +28,7 @@ c) a támogatás igényléséhez szükséges nyilatkozatok,
 
 d) a kérelmezett induló állatállomány létszáma,
 
-e) a kérelmezett állatállomány-szaporulat létszáma,
+e)[^28] a kérelmezett állatállomány-szaporulat létszáma évenkénti bontásban,
 
 f) az ügyfél aláírása.
 
@@ -36,3 +36,4 @@ f) az ügyfél aláírása.
 [^25]: A 18. § (3) bekezdése a 74/2011. (VII. 29.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^26]: A 18. § (5) bekezdését a 74/2011. (VII. 29.) VM rendelet 6. § (3) bekezdése iktatta be.
 [^27]: A 18. § (6) bekezdését a 74/2011. (VII. 29.) VM rendelet 6. § (4) bekezdése iktatta be.
+[^28]: A 18. § (6) bekezdés e) pontja a 112/2011. (XI. 24.) VM rendelet 7. §-ával megállapított szöveg.
