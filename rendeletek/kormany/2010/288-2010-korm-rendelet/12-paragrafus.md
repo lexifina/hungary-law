@@ -1,8 +1,6 @@
-## 11. §[^14] A fővárosi és megyei kormányhivatal a jogszabályoknak és a Kormány döntéseinek megfelelően részt vesz a kormányzati célkitűzések területi megvalósításában. Ennek keretében a törzshivatal koordinációs, ellenőrzési, informatikai tevékenységet, valamint képzést, továbbképzést szervező, összehangoló feladatokat lát el, a törzshivatal és a szakigazgatási szervek működtetésével összefüggő funkcionális feladatokat lát el.
-
 ## 7. Koordináció
 
-## 12. §[^15] A fővárosi és megyei kormányhivatal a Khtv. 16. § (3) bekezdésében meghatározott koordinációs jogkörében ellátott koordinációs feladat- és hatáskörében különösen
+## 12. §[^17] A fővárosi és megyei kormányhivatal a Khtv. 16. § (3) bekezdésében meghatározott koordinációs jogkörében ellátott koordinációs feladat- és hatáskörében különösen
 
 a) gondoskodik a több ágazatot érintő kormányzati döntések végrehajtásának területi összehangolásáról,
 
@@ -14,5 +12,4 @@ d) kezdeményezi a központi államigazgatási szervek területi szervei ügyfé
 
 e) gondoskodik a területi elektronikus ügyfél-tájékoztatási rendszer koordinálásáról, ennek keretében elősegíti annak naprakész működését.
 
-[^14]: A 11. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
-[^15]: A 12. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^17]: A 12. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

@@ -1,6 +1,6 @@
 ## 12. Képzés, továbbképzés
 
-20. §[^23] (1) A fővárosi és megyei kormányhivatal a kormánytisztviselők és köztisztviselők képzése, továbbképzése körében
+20. §[^25] (1) A fővárosi és megyei kormányhivatal a kormánytisztviselők és köztisztviselők képzése, továbbképzése körében
 
 a) éves terv alapján szervezi a fővárosban, megyében az államigazgatási feladatokat ellátó helyi önkormányzati szervek köztisztviselőinek képzését, továbbképzését, továbbá részt vesz a területi államigazgatási szervek kormánytisztviselőinek képzése, továbbképzése szervezésében,
 
@@ -20,4 +20,4 @@ h) összehangolja, és az erre biztosított költségvetési kereteknek megfelel
 
 (2) A fővárosi és megyei kormányhivatal összehangolja a közigazgatási szervek által az ügyfelek számára nyújtott elektronikus ügyintézést támogató képzéseket, továbbképzéseket, biztosítja azok megfelelő nyilvánosságát, terjeszti az elektronikus ügyintézés módszereit.
 
-[^23]: A 20. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^25]: A 20. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
