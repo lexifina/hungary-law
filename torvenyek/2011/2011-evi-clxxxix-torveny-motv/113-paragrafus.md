@@ -1,1 +1,0 @@
-113. § A helyi önkormányzat költségvetési, a költségvetés teljesítési és szakmai tevékenységének bemutatására, értékelésére vonatkozó adatainak jogszabályban meghatározott körét a jegyző legalább évente a helyben szokásos módon közzéteszi.

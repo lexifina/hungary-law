@@ -1,3 +1,0 @@
-70. § (1) A polgármester sorozatos törvénysértő tevékenysége, mulasztása miatt a képviselő-testület – minősített többséggel hozott határozata alapján – keresetet nyújthat be a polgármester ellen a helyi önkormányzat székhelye szerint illetékes törvényszékhez a polgármester tisztségének megszüntetése érdekében. Egyidejűleg kérheti a polgármesternek e tisztségéből történő felfüggesztését is. A döntéshozatalban a polgármester nem vesz részt, de a határozathozatalnál a határozatképesség szempontjából jelenlévőnek kell tekinteni. A bíróság a keresetet soron kívül bírálja el.
-
-(2) A bírósági eljárás során a polgári perrendtartásról szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.

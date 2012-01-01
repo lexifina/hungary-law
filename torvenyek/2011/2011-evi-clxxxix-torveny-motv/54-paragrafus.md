@@ -1,1 +1,0 @@
-54. § A képviselő-testület évente legalább egyszer előre meghirdetett közmeghallgatást tart, amelyen a helyi lakosság és a helyben érdekelt szervezetek képviselői a helyi közügyeket érintő kérdéseket és javaslatot tehetnek. Az elhangzott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni.

@@ -1,1 +1,0 @@
-24. § A fővárosi közgyűlés a főváros egységes településpolitikájának biztosítása érdekében – a Kormány, valamint a kerületi képviselő-testületek véleményének kikérésével – a megalakulását követő egy éven belül minősített többséggel dönt a fővárosnak legalább az adott ciklusra szóló településfejlesztési stratégiájáról.

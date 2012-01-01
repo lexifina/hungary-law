@@ -10,7 +10,7 @@ a) a perre az a bíróság illetékes, amelynek területén a kötelezettséget 
 
 b) a keresetlevelet az illetékességgel rendelkező bíróságnál kell benyújtani,
 
-c) a keresetlevélnek a 121. §-ban meghatározottakon túl a helyi önkormányzatokról szóló törvényben foglaltakat kell tartalmaznia,
+c) a keresetlevélnek a 121. §-ban meghatározottakon túl a Magyarország helyi önkormányzatairól szóló törvényben foglaltakat kell tartalmaznia,
 
 d) a bíróság a keresetlevelet 30 napos határidő tűzésével megküldi a helyi önkormányzatnak a keresetlevélben foglaltakra vonatkozó nyilatkozata beszerzése céljából,
 

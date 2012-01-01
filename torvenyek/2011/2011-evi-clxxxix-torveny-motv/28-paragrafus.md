@@ -2,6 +2,4 @@
 
 ## A megbízatás keletkezése és megszűnése
 
-28. § (1) A helyi önkormányzati képviselő (a továbbiakban: önkormányzati képviselő) megbízatása, jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
-
-(2) Az önkormányzati képviselő a képviselő-testület alakuló ülésén, időközi választás esetén a megválasztását követő ülésen a képviselő-testület előtt az 1. melléklet szerinti szöveggel esküt tesz és erről okmányt ír alá.
+28–31. §

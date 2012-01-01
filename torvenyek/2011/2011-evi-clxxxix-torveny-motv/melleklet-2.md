@@ -28,9 +28,7 @@ VAGYONI NYILATKOZAT
 
 I. Ingatlanok
 
-1.
-
-a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+1. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
 b) Az ingatlan területnagysága:
 
@@ -46,9 +44,7 @@ g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
 h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-2.
-
-a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+2. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
 b) Az ingatlan területnagysága:
 
@@ -64,9 +60,7 @@ g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
 h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-3.
-
-a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+3. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
 b) Az ingatlan területnagysága:
 
@@ -82,9 +76,7 @@ g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
 h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-4.
-
-a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+4. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
 b) Az ingatlan területnagysága:
 
