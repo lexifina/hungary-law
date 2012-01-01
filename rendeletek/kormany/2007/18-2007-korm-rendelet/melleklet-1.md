@@ -48,9 +48,9 @@
 
 1.2. Minimumkövetelmények
 
-1.2.1.[^23] Legalább a következő pontok szerinti biztonsági intézkedéseket végre kell hajtani annak érdekében, hogy a rendelet hatálya alá tartozó valamennyi alagútban a biztonsági szint a minimumkövetelményeknek megfelelően biztosítva legyen.
+1.2.1.[^26] Legalább a következő pontok szerinti biztonsági intézkedéseket végre kell hajtani annak érdekében, hogy a rendelet hatálya alá tartozó valamennyi alagútban a biztonsági szint a minimumkövetelményeknek megfelelően biztosítva legyen.
 
-1.2.2.[^24]
+1.2.2.[^27]
 
 1.3. A forgalom nagysága
 
@@ -336,5 +336,5 @@ A hazai és a nemzetközi szervezetek összehangolt munkája figyelembevételév
 
 Az alagutakat használók számára megfelelő helyen tájékoztatást kell elhelyezni a rendelkezésre álló biztonsági berendezésekről és az út használói által az alagutakban tanúsítandó megfelelő viselkedésről (például az alagutak előtti pihenőhelyeken, az alagutak bejáratánál, amikor a forgalmat megállítják vagy az Interneten).
 
-[^23]: Az 1. melléklet 1.2. pont 1.2.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 526. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^24]: Az 1. melléklet 1.2. pont 1.2.2. alpontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: Az 1. melléklet 1.2. pont 1.2.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 526. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: Az 1. melléklet 1.2. pont 1.2.2. alpontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
