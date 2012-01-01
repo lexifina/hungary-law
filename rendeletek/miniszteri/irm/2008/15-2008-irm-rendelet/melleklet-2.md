@@ -2030,7 +2030,7 @@ D A jogtudat, a jogkövetés és a jogi felelősség
 
 D A jogviszony alanyai, a jogi tények és csoportosításuk
 
-C Az Alkotmány, az alkotmányosság és a jogállam, valamint kapcsolódásaik
+C Az Alaptörvény, az alkotmányosság és a jogállam, valamint kapcsolódásaik
 
 C Az alkotmányos alapjogok
 
@@ -2218,7 +2218,7 @@ D A jogtudat, a jogkövetés és a jogi felelősség
 
 D A jogviszony alanyai, a jogi tények és csoportosításuk
 
-C Az Alkotmány, az alkotmányosság és a jogállam, valamint kapcsolódásaik
+C Az Alaptörvény, az alkotmányosság és a jogállam, valamint kapcsolódásaik
 
 C Az alkotmányos alapjogok
 
@@ -7688,7 +7688,7 @@ C A szolgálati jogviszonyra vonatkozó szabályok, jogosultságok, kötelezetts
 
 D Szolgálati kötelmek és jogok, a szolgálati érintkezés szabályai, a szolgálati feladatok ellátásának rendje
 
-D Alkotmányjogi alapismeretek, a Magyar Köztársaság Alkotmánya
+D Alkotmányjogi alapismeretek, Magyarország Alaptörvénye
 
 D A közigazgatás alapfogalmai, rendszere
 
@@ -7902,4 +7902,4 @@ Megakadályozza a fogvatartás rendjét és a biztonságot veszélyeztető csele
 
 Végrehajtja az előírt biztonsági intézkedéseket
 
-[^4]: A 2. számú melléklet a 34/2010. (V. 12.) IRM rendelet 1. § (2) bekezdése, a 2/2011. (II. 22.) BM rendelet 3. §-a valamint a 4. § (2) bekezdés a)–g) pontja és (5) bekezdése szerint módosított szöveg.
+[^4]: A 2. számú melléklet a 34/2010. (V. 12.) IRM rendelet 1. § (2) bekezdése, a 2/2011. (II. 22.) BM rendelet 3. §-a, a 4. § (2) bekezdés a)–g) pontja és (5) bekezdése, a 68/2011. (XII. 30.) BM rendelet 30. §-a szerint módosított szöveg.
