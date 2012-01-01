@@ -14,6 +14,6 @@
 
 ## A havi átlagárat a Platts által publikált „Gasoil 0.1 FOB Med” napi „low” és „high” értékeiből külön-külön meghatározott (2 tizedes értékre kerekített) havi átlagok számtani középértéke adja. Ha a havi tény értékek nem állnak rendelkezésre, akkor a megfelelő (az aktuális negyedévet megelőző negyedév második hónapjának 15-e és a hónap vége közötti időszak banki napjain jegyzett) Platts Forward jegyzésárakat kell alkalmazni. A havi átlagár a napi legmagasabb, illetve legalacsonyabb jegyzésekből külön-külön meghatározott havi átlagok számtani középértéke.
 
-2. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^22]
+2. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^23]
 
-[^22]: A 2. melléklet az 52/2011. (X. 7.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^23]: A 2. melléklet a 83/2011. (XII. 29.) NFM rendelet 17. §-ával megállapított szöveg.
