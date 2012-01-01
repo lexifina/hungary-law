@@ -1,1 +1,0 @@
-## felsorolt területi, települési polgári védelmi szervezetek szakalegységeinek szakmai tevékenységét irányítja. A szakszolgálat parancsnoka a polgári védelmi szervezet alkalmazásának elrendelését követően a megyei (fővárosi) védelmi bizottság operatív törzse tagjaként végzi feladatait.
