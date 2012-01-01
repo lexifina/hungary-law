@@ -10,6 +10,4 @@
 
 „c) számvitel rendjének megsértése (Btk. 289. §), csődbűncselekmény (Btk. 290. §), visszaélés társadalombiztosítási, szociális vagy más jóléti juttatással (Btk. 309. §), költségvetési csalás (Btk. 310. §), költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása (Btk. 310/A. §), az orgazdaság, ha vámellenőrzés alól elvont nem közösségi árura vagy jövedéki adózás alól elvont termékre követik el (Btk. 326. §), pénzmosás (Btk. 303. §, Btk. 303/A. §), a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 303/B. §),”
 
-(3) A Be. 96. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bíróság, az ügyész, illetve a nyomozó hatóság hivatalból elrendelheti, illetve a tanú, vagy az érdekében eljáró ügyvéd kérelmére elrendeli, hogy a tanú személyi adatait [85. § (2) bekezdés] az iratok között elkülönítve, zártan kezeljék. Ezekben az esetekben a tanú zártan kezelt adatait csak az ügyben eljáró bíróság, az ügyész, illetve a nyomozó hatóság tekintheti meg. Ha az e törvényben meghatározott feladata másként nem teljesíthető, a bíróság, az ügyész, valamint a nyomozó hatóság a tanú egyes, a feladat ellátásához szükséges személyi adata zárt kezelését mellőzi.”
+(3)

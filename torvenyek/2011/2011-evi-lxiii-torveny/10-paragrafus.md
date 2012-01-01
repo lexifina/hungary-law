@@ -35,11 +35,3 @@ b) a Be. 36. § (2) bekezdés a) pontjában a „visszaélés jövedékkel (Btk.
 c) a 2002. évi LIV. törvény 3. melléklet 22–24. pontja,
 
 d) a Btké. 26. §-a és 28. § (1) bekezdés c) pontja.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
