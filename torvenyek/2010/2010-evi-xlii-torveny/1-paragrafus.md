@@ -1,4 +1,4 @@
-1. § A Magyar Köztársaság minisztériumai a következők:
+1. § Magyarország minisztériumai a következők:
 
 a) Belügyminisztérium,
 
