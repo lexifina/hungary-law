@@ -2,15 +2,15 @@
 
 ## Záró rendelkezések
 
-17. § (1)[^4] Ez a rendelet 2003. április 1-jén lép hatályba.
+17. § (1)[^8] Ez a rendelet 2003. április 1-jén lép hatályba.
 
-a)[^5]
+a)[^9]
 
-b)[^6]
+b)[^10]
 
-(2)[^7]
+(2)[^11]
 
-[^4]: A 17. § (1) bekezdés bevezető szövegrésze a 118/2008. (V. 8.) Korm. rendelet 1. § 873. pontja szerint módosított szöveg.
-[^5]: A 17. § (1) bekezdés a) pontját a 118/2008. (V. 8.) Korm. rendelet 1. § 873. pontja hatályon kívül helyezte.
-[^6]: A 17. § (1) bekezdésének b) pontját a 70/2004. (IV. 15.) Korm. rendelet 15. § (3) bekezdésének c) pontja hatályon kívül helyezte.
-[^7]: A 17. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 873. pontja hatályon kívül helyezte.
+[^8]: A 17. § (1) bekezdés bevezető szövegrésze a 118/2008. (V. 8.) Korm. rendelet 1. § 873. pontja szerint módosított szöveg.
+[^9]: A 17. § (1) bekezdés a) pontját a 118/2008. (V. 8.) Korm. rendelet 1. § 873. pontja hatályon kívül helyezte.
+[^10]: A 17. § (1) bekezdésének b) pontját a 70/2004. (IV. 15.) Korm. rendelet 15. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^11]: A 17. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 873. pontja hatályon kívül helyezte.
