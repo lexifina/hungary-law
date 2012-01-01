@@ -1,6 +1,6 @@
 17/C. § (1) A testület három tagjának felkérésére a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, három további tagjának felkérésére az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter tesz javaslatot a miniszterelnöknek. A felkérni javasolt személyekről a javaslatot tevő miniszterek az egyenlő bánásmód követelménye érvényesítésében részt vevő szervekkel és szervezetekkel előzetes közös egyeztetést folytatnak.
 
-(2) A megbízatás ellátására a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választójoggal rendelkező olyan személy kérhető fel, aki az emberi jogok védelme és az egyenlő bánásmód követelményének érvényesítése területén kiemelkedő tapasztalatokkal rendelkezik.
+(2) A megbízatás ellátására a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választható olyan személy kérhető fel, aki az emberi jogok védelme és az egyenlő bánásmód követelményének érvényesítése területén kiemelkedő tapasztalatokkal rendelkezik.
 
 (3) Nem kérhető fel a testület tagjává az, aki
 

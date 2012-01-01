@@ -6,6 +6,6 @@ azon szándékától vezérelve, hogy hatékony jogvédelmet biztosítson a hát
 
 kinyilvánítva azt, hogy az esélyegyenlőség előmozdítása elsősorban állami kötelezettség,
 
-tekintettel az Alkotmány 54. § (1) bekezdésére, 70/A. §-ára, valamint a Köztársaság nemzetközi kötelezettségeire és az európai közösségi jog vívmányaira
+tekintettel az Alaptörvény II. és XV. cikkére, valamint a Köztársaság nemzetközi kötelezettségeire és az európai közösségi jog vívmányaira
 
 a következő törvényt alkotja:

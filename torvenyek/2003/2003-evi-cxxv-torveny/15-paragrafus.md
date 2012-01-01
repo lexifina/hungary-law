@@ -22,7 +22,7 @@ b) más személy ellen elkövetett törvénysértés esetén megindult eljárás
 
 (5) A hatóság hivatalból is eljár az egyenlő bánásmód követelményének a 4. § a)–d) pontjaiban meghatározott szervek általi megsértésével kapcsolatban, ha az adott ügyben más közigazgatási szerv előtt nincs folyamatban eljárás.
 
-(6) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, az országgyűlési biztos, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
+(6) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, az alapvető jogok biztosa, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
 
 (7) A hatóság a más közigazgatási szerv által az egyenlő bánásmód követelményével kapcsolatban hozott közigazgatási határozat bírósági felülvizsgálata során a perben beavatkozóként részt vehet.
 

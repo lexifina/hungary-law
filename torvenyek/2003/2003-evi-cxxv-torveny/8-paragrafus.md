@@ -10,7 +10,7 @@ c) bőrszíne,
 
 d) nemzetisége,
 
-e) nemzeti vagy etnikai kisebbséghez való tartozása,
+e) nemzetiséghez való tartozása,
 
 f) anyanyelve,
 
