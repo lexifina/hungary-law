@@ -4,7 +4,7 @@
 
 a) az út, úttartozék vagy közmű építésére, ellenőrzésére, fenntartására (javítására), illetőleg tisztítására szolgáló járműre,
 
-b)[^10] a települési (kommunális) hulladék, ide értve a szelektíven gyűjtött hulladék szállítását végző járműre,
+b)[^15] a települési (kommunális) hulladék, ide értve a szelektíven gyűjtött hulladék szállítását végző járműre,
 
 c) a jogszabályban előírt hosszúsági vagy szélességi méretet meghaladó méretű járműre, és járműszerelvényre,
 
@@ -14,16 +14,19 @@ e) a radioaktív anyagot hatósági engedély birtokában szállító járműre,
 
 f) a külön jogszabályban megengedett hosszúsági vagy szélességi méretet a rakománya miatt meghaladó járműre, amennyiben annak használatát az útvonalengedély előírja,
 
-g)[^11] a közlekedési hatóság jogszabályban meghatározott ellenőrzési feladatát végző járművére,
+g)[^16] a közlekedési hatóság jogszabályban meghatározott ellenőrzési feladatát végző járművére,
 
-h)[^12] a külön jogszabályban előírt hosszúsági vagy szélességi méretet meghaladó járművet esetenként kísérő járműre,
+h)[^17] a külön jogszabályban előírt hosszúsági vagy szélességi méretet meghaladó járművet esetenként kísérő járműre,
 
-i)[^13] a mezőgazdasági vontatóból vagy lassú járműből és mezőgazdasági vontatmányból álló járműszerelvényre, ha az a külön jogszabályban előírt hosszúsági vagy szélességi méretet meghaladja.
+i)[^18] a mezőgazdasági vontatóból vagy lassú járműből és mezőgazdasági vontatmányból álló járműszerelvényre, ha az a külön jogszabályban előírt hosszúsági vagy szélességi méretet meghaladja.
 
-(2)[^14] Az (1) bekezdés e)–f), h) és i) pontja esetében csak mozgatható üzemmódú (mobil) figyelmeztető jelzést adó készüléket szabad használni, amelyet az adott szállítási feladat végrehajtásához szükséges időtartamra lehet a járműre felszerelni.
+j)[^19] a polgárőri szolgálat ellátása során használt járműre.
 
-[^10]: A 9. § (1) bekezdés b) pontja a 4/2010. (II. 23.) IRM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^11]: A 9. § (1) bekezdés g) pontját a 4/2010. (II. 23.) IRM rendelet 17. § (2) bekezdése iktatta be.
-[^12]: A 9. § (1) bekezdés h) pontját a 22/2011. (VII. 19.) BM rendelet 2. §-a iktatta be.
-[^13]: A 9. § (1) bekezdés i) pontját a 22/2011. (VII. 19.) BM rendelet 2. §-a iktatta be.
-[^14]: A 9. § (2) bekezdése a 22/2011. (VII. 19.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+(2)[^20] Az (1) bekezdés e)–f) és h)–j) pontja esetében csak mozgatható üzemmódú (mobil) figyelmeztető jelzést adó készüléket szabad használni, amelyet az adott szállítási feladat végrehajtásához szükséges időtartamra lehet a járműre felszerelni.
+
+[^15]: A 9. § (1) bekezdés b) pontja a 4/2010. (II. 23.) IRM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^16]: A 9. § (1) bekezdés g) pontját a 4/2010. (II. 23.) IRM rendelet 17. § (2) bekezdése iktatta be.
+[^17]: A 9. § (1) bekezdés h) pontját a 22/2011. (VII. 19.) BM rendelet 2. §-a iktatta be.
+[^18]: A 9. § (1) bekezdés i) pontját a 22/2011. (VII. 19.) BM rendelet 2. §-a iktatta be.
+[^19]: A 9. § (1) bekezdés j) pontját a 62/2011. (XII. 29.) BM rendelet 72. § (5) bekezdése iktatta be.
+[^20]: A 9. § (2) bekezdése a 62/2011. (XII. 29.) BM rendelet 72. § (7) bekezdés d) pontja szerint módosított szöveg.

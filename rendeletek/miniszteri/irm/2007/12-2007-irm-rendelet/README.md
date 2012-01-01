@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-12-20-1
 | 2009-10-01 | 2007-12-20-1U.5 | 12/2007. (III. 13.) IRM rendelet |
 | 2010-03-03 | 2007-12-20-1U.6 | 4/2010. (II. 23.) IRM rendelet |
 | 2011-07-22 | 2007-12-20-1U.7 | 22/2011. (VII. 19.) BM rendelet |
+| 2012-01-01 | 2007-12-20-1U.8 | 62/2011. (XII. 29.) BM rendelet |
