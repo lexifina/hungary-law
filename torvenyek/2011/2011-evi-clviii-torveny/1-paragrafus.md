@@ -1,0 +1,3 @@
+1. § Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény (a továbbiakban: Ávt.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) E törvénynek az állat kíméletére, az állatkínzás és az állatkárosítás tilalmára, valamint a jó gazda gondosságára vonatkozó rendelkezéseit a vadon élő állatokra is alkalmazni kell. A halászható, horgászható halfajokra és a természetvédelmi oltalom alatt álló, illetőleg nemzetközi természetvédelmi egyezmény hatálya alá tartozó állatokra jogszabály eltérő rendelkezéseket is megállapíthat. E törvény rendelkezéseit a vadászható állatfajok tekintetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben szereplő eltérésekkel kell alkalmazni.”

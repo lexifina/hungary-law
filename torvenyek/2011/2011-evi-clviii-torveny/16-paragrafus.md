@@ -1,0 +1,1 @@
+16. § E törvény a macska- és kutyaprém, valamint az ilyen prémet tartalmazó termékek forgalomba hozatalának, a Közösségbe történő behozatalának, illetve onnan történő kivitelének tilalmáról szóló, 2007. december 11-i 1523/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
