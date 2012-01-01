@@ -1,4 +1,4 @@
-6. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^39]
+6. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^43]
 
 ## Egyedi termék vizsgálata
 
@@ -72,4 +72,4 @@ Ha a bejelentett szervezet megtagadja a megfelelőségi tanúsítvány kiadásá
 
 | Dátum: |  |
 
-[^39]: A 6. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^43]: A 6. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.

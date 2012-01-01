@@ -1,8 +1,8 @@
-5. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^38]
+5. számú melléklet a 140/2001. (VIII. 8.) Korm. rendelethez[^40]
 
 ## Belső gyártásközi ellenőrzés a műszaki dokumentáció értékelésével és időszakos ellenőrzéssel
 
-1. A gyártó vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője, aki a 2., az 5. és a 6. pontokban meghatározott felelősségeket viseli, biztosítja és igazolja, hogy az érintett berendezés megfelel e rendelet követelményeinek. A gyártónak vagy a Magyar Köztársaságban letelepedett meghatalmazott képviselőjének – e rendelet 3. §-a szerint – a berendezés minden darabján el kell helyeznie a CE-jelölést és a garantált zajszint jelzését, valamint e rendelet 5. §-a szerint ki kell állítania az írásos EK megfelelőségi nyilatkozatot.
+1.[^41] A gyártó vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője, aki a 2., az 5. és a 6. pontokban meghatározott felelősségeket viseli, biztosítja és igazolja, hogy az érintett berendezés megfelel e rendelet követelményeinek. A gyártónak vagy Magyarországon letelepedett meghatalmazott képviselőjének – e rendelet 3. §-a szerint – a berendezés minden darabján el kell helyeznie a CE-jelölést és a garantált zajszint jelzését, valamint e rendelet 5. §-a szerint ki kell állítania az írásos EK megfelelőségi nyilatkozatot.
 
 2. A gyártónak vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselőjének el kell készítenie a 3. pont szerinti műszaki dokumentációt és ezt meg kell őriznie az utolsó olyan termék gyártása után 10 évig, amelyet az illetékes hatóság rendelkezésére bocsátott ellenőrzés céljára. A gyártó vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője megbízhat egy másik személyt is a műszaki dokumentáció őrzésével. Ebben az esetben ennek a személynek a nevét és címét meg kell adni az EK megfelelőségi nyilatkozatban.
 
@@ -56,8 +56,10 @@
 
 7. A bejelentett szervezet az előző értékelés eredményei szerint mindkét eljárásnál kijelöli az ellenőrzések gyakoriságát, a javítást célzó módosítások követésének szükségességét és az ellenőrzések gyakoriságára vonatkozó további útmutatást, amelyeket az éves termelés és a gyártó megbízhatósága határozhat meg arra vonatkozóan, hogy fenntartsa a garantált értékeket. Az ellenőrzést háromévenként legalább egyszer el kell végezni.
 
-8. Ha a műszaki dokumentáció elfogadhatósága vagy a dokumentumokban megadott előírások gyártás során való betarthatósága kétséges, akkor a bejelentett szervezet erről a megfelelő módon tájékoztatja a gyártót vagy annak a Magyar Köztársaságban letelepedett meghatalmazott képviselőjét.
+8.[^42] Ha a műszaki dokumentáció elfogadhatósága vagy a dokumentumokban megadott előírások gyártás során való betarthatósága kétséges, akkor a bejelentett szervezet erről a megfelelő módon tájékoztatja a gyártót vagy annak Magyarországon letelepedett meghatalmazott képviselőjét.
 
 9. Ha az ellenőrzött berendezés nem felel meg e rendelet követelményeinek, akkor a bejelentett szervezetnek tájékoztatnia kell az őt kijelölő hatóságot.
 
-[^38]: Az 5. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^40]: Az 5. számú melléklet a 163/2010. (V. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^41]: Az 5. számú melléklet 1. pontja a 322/2011. (XII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^42]: Az 5. számú melléklet 8. pontja a 322/2011. (XII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
