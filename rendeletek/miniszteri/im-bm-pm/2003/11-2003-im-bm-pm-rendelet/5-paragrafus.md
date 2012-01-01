@@ -12,11 +12,12 @@
 
 (5) A helyi (kerületi) ügyészségen és a megyei (fővárosi) főügyészségen a szerv vezetője jelöli ki a bűnjelkezelőt.
 
-(6)[^12] A helyi (kerületi) bíróságon az elnök, a megyei (fővárosi) bíróságon, a megyei (fővárosi) bíróság gazdasági hivatalánál és katonai tanácsainál a megyei (fővárosi) bíróság elnöke jelöli ki a bűnjelkezelőt.
+(6)[^12] A helyi (kerületi) bíróságon az elnök, a törvényszéken, a törvényszék gazdasági hivatalánál és katonai tanácsainál a törvényszék elnöke jelöli ki a bűnjelkezelőt.
 
-(7) A Fellebbviteli Főügyészségen, a Legfőbb Ügyészségen, az ítélőtáblán és a Legfelsőbb Bíróságon nem működik bűnjelkezelő. Ha az említett szervek lefoglalásról határoznak, gondoskodnak a bűnjelnek az illetékes bűnjelkezelőhöz történő beszállításáról, ha pedig az általuk folytatott eljárás indokolja, a bűnjel bekéréséről.
+(7)[^13] A Fellebbviteli Főügyészségen, a Legfőbb Ügyészségen, az ítélőtáblán és a Kúrián nem működik bűnjelkezelő. Ha az említett szervek lefoglalásról határoznak, gondoskodnak a bűnjelnek az illetékes bűnjelkezelőhöz történő beszállításáról, ha pedig az általuk folytatott eljárás indokolja, a bűnjel bekéréséről.
 
 [^9]: A 4. § a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^10]: Az 5. § (2) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 3. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^11]: Az 5. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 3. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^12]: Az 5. § (6) bekezdése a 18/2011. (VI. 24.) KIM rendelet 9. §-a szerint módosított szöveg.
+[^12]: Az 5. § (6) bekezdése a 18/2011. (VI. 24.) KIM rendelet 9. §-a, a 40/2011. (XII. 30.) KIM rendelet 23. § b) pontja szerint módosított szöveg.
+[^13]: A 5. § (7) bekezdése a 40/2011. (XII. 30.) KIM rendelet 23. § c) pontja szerint módosított szöveg.
