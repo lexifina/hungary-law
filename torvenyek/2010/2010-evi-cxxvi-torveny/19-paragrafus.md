@@ -4,6 +4,6 @@
 
 (3) A fővárosi és megyei kormányhivatal a (2) bekezdésben foglalt intézkedések eredménytelensége esetén az érintett döntést hozó szerv felügyeleti szerve és a feladatkörrel rendelkező miniszter egyidejű tájékoztatása mellett kezdeményezi a közigazgatás-szervezésért felelős miniszternél a (4) bekezdésben foglalt intézkedés megtételét.
 
-(4) Ha a törvénysértés másként nem orvosolható, a közigazgatás-szervezésért felelős miniszter javaslata alapján a Kormány az Alkotmány 35. § (4) bekezdése szerint jár el.
+(4)
 
 (5) A fővárosi és megyei kormányhivatal az általa megismerhető iratokban foglalt, valamint a részére nyújtott tájékoztatás alapján tudomására jutott személyes adatok kezelésére az (1)–(4) bekezdésben meghatározott eljárás lefolytatása céljából addig az időpontig jogosult, amíg az feladata ellátásához szükséges.

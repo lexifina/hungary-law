@@ -1,6 +1,6 @@
 ## 8. A munkáltatói jogok gyakorlása
 
-15. § (1) A törzshivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat a kormánymegbízott gyakorolja.
+15. § (1) A törzshivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A törzshivatalnál szolgálatot teljesítő katonák, fegyveres szervek hivatásos állományú tagjai, illetve a Honvédelmi Minisztérium és a Belügyminisztérium állományába tartozó, de a törzshivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.
 
 (2) A szakigazgatási szerv kormánytisztviselői és munkavállalói felett a munkáltatói jogokat a szakigazgatási szerv vezetője gyakorolja.
 
