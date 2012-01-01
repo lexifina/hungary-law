@@ -14,7 +14,7 @@ d) az eljárás lehetséges szereplőinek körét, azok jogi státuszát,
 
 e) meghatározott tevékenységi körökhöz kapcsolódó eljárások esetében azon szolgáltatási tevékenységek jogszabály szerinti leírását, amelyek megkezdésének vagy folytatásának az eljárás előfeltétele,
 
-f) meghatározott tevékenységi körökhöz kapcsolódó eljárások esetében azon TEÁOR, illetve szakmakód szerinti tevékenységi körök felsorolását, amelyekbe az eljárást szabályozó jogszabályban meghatározott, eljárás hatókörébe tartozó szolgáltatási tevékenységek besorolhatóak,
+f)[^2] meghatározott tevékenységi körökhöz kapcsolódó eljárások esetében azon, a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet szerinti mindenkor hatályos TEÁOR, vagy a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kódoknak megfelelő tevékenységi körök felsorolását, amelyekbe az eljárást szabályozó jogszabályban meghatározott, eljárás hatókörébe tartozó szolgáltatási tevékenységek besorolhatóak,
 
 g) a 6. § (5) bekezdés b) pont szerint közzétett élethelyzetek közül azok meghatározását, amelyek esetében az ügyfél az eljárást igénybe veszi,
 
@@ -51,3 +51,5 @@ d) ha a szabályozott szolgáltatási tevékenység szabályozott szakma, azokna
 e) ha a szabályozott szolgáltatási tevékenység szakmai biztosítékhoz kötött tevékenység, a tevékenységvégzéshez szükséges szakmai biztosítékot, illetve az azzal szemben támasztott követelményeket, és
 
 f) a szolgáltatási tevékenységet szabályozó jogszabályok felsorolását.
+
+[^2]: A 7. § (1) bekezdés f) pontja a 266/2011. (XII. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
