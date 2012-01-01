@@ -6,10 +6,13 @@
 
 (2) A TnyR. e rendelettel megállapított szabályait – a (3)–(5) bekezdésben, valamint e rendelet 4. § (3) bekezdésében foglaltak kivételével – a 2008. december 31-ét követő időponttól megállapított ellátásokra, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.
 
-(3) Ha az igénylő az előrehozott öregségi nyugdíj, illetve csökkentett összegű előrehozott öregségi nyugdíj igénybevételéhez szükséges életkort és szolgálati időt e rendelet hatálybalépését megelőzően betöltötte, illetve megszerezte, a jogosultság megállapítására és a nyugdíjcsökkentésre a TnyR.-nek a jogszerzés időpontjában hatályos szabályait kell alkalmazni.
+(3)[^2]
 
 (4) A TnyR. 24. § (2) bekezdésének, valamint 85. § (5) bekezdésének – e rendelettel megállapított – szabályait a 2009. január 1-jét megelőzően megállapított ellátások megszüntetése esetén is alkalmazni kell.
 
 (5) A TnyR. 76/A. § – e rendelettel megállapított – (3) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
 
-(6) Az egyes művészeti tevékenységeket folytatók öregségi nyugdíjra jogosultságáról szóló 5/1992. (I. 13.) Korm. rendelet 2. § (1) bekezdésének, valamint a nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló 173/1995. (XII. 27.) Korm. rendelet 8. § (7) bekezdésének – e rendelettel megállapított – rendelkezéseit a 2008. december 31-ét követő időponttól megállapított ellátásokra kell alkalmazni.
+(6)[^3]
+
+[^2]: A 14. § (3) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 40. § (1) bekezdés g) pontja hatályon kívül helyezte.
+[^3]: A 14. § (6) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 40. § (1) bekezdés g) pontja hatályon kívül helyezte.
