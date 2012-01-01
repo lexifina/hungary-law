@@ -6,15 +6,17 @@
 
 a) tagdíjakból;
 
-b) a kamara szolgáltatásaiért fizetett díjakból;
+b) kamarai hozzájárulásból;
 
-c) a kamarák által alapított társaságok tevékenységéből származó bevételből;
+c) a kamara szolgáltatásaiért fizetett díjakból;
 
-d) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulásokat is;
+d) a kamarák által alapított társaságok tevékenységéből származó bevételből;
 
-e) a költségvetési törvényben megállapított támogatásból.
+e) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulásokat is;
 
-(2) Az (1) bekezdés e) pontjában megállapított, a gazdasági kamarák közfeladatainak ellátásához kapcsolódó költségvetési támogatást azon költségvetési fejezetekben kell megtervezni, amelyekben feltüntetett költségvetési szervek feladatköréhez kapcsolódóan végzik a gazdasági kamarák közfeladataikat.
+f) a költségvetési törvényben megállapított támogatásból.
+
+(2) Az (1) bekezdés f) pontjában megállapított, a gazdasági kamarák közfeladatainak ellátásához kapcsolódó költségvetési támogatás felhasználásáról a Magyar Kereskedelmi és Iparkamara Küldöttgyűlése dönt, amelynek célját, módját és ellenőrzését a gazdaságpolitikáért felelős miniszter és a Magyar Kereskedelmi és Iparkamara által kötött szerződés határozza meg.
 
 (3) A költségvetési támogatás felhasználásáról a gazdásági kamarák évente beszámolnak a fejezetet irányító szervnek, amely a költségvetési támogatás felhasználását és hatékonyságát évente köteles ellenőrizni.
 

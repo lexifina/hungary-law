@@ -8,7 +8,17 @@ a) küldöttnek, testületi szerv tagjának, illetve a kamara elnökének (aleln
 
 b) a kamarában tisztséget viseljen;
 
-c) küldöttként részt vegyen az országos gazdasági kamara küldöttgyűlésén és a képviseletében eljáró természetes személy a kamarai tagok közül megválassza az országos gazdasági kamara testületi szerveit, elnökét és tisztségviselőit.
+c) küldöttként részt vegyen az országos gazdasági kamara küldöttgyűlésén és a képviseletében eljáró természetes személy a kamarai tagok közül megválassza az országos gazdasági kamara testületi szerveit, elnökét és tisztségviselőit,
+
+d) igénybe vegye a területi kereskedelmi és iparkamara e törvényben és az országos kereskedelmi és iparkamara alapszabályában rögzített térítésmentes és egyéb szolgáltatásait.
+
+(2a) A kamarai nyilvántartásba bejegyzett gazdálkodó szervezet részére kötelezően nyújtandó térítésmentes kamarai alapszolgáltatások a következők:
+
+a) tanácsadás gazdasági, pénzügyi, adózási, hitelhez jutási kérdésekben;
+
+b) üzleti partnerkeresés;
+
+c) pályázatfigyelés.
 
 (3) A gazdasági kamara tagjának kötelezettsége, hogy
 
