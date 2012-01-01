@@ -1,12 +1,10 @@
 ## Lakásfenntartási támogatás
 
-38. § (1) A lakásfenntartási támogatás a szociálisan rászorult személyeknek, családoknak az általuk lakott lakás vagy nem lakás céljára szolgáló helyiség fenntartásával kapcsolatos rendszeres kiadásaik viseléséhez nyújtott hozzájárulás. A települési önkormányzat lakásfenntartási támogatást nyújt
+38. § (1) A lakásfenntartási támogatás a szociálisan rászoruló háztartások részére a háztartás tagjai által lakott lakás, vagy nem lakás céljára szolgáló helyiség fenntartásával kapcsolatos rendszeres kiadásaik viseléséhez nyújtott hozzájárulás. A jegyző a villanyáram-, a víz- és a gázfogyasztás, a távhő-szolgáltatás, a csatornahasználat és a szemétszállítás díjához, a lakbérhez vagy az albérleti díjhoz, a lakáscélú pénzintézeti kölcsön törlesztőrészletéhez, a közös költséghez, illetve a tüzelőanyag költségeihez lakásfenntartási támogatást nyújt
 
-a) az e törvényben meghatározott feltételek szerinti jogosultnak (a továbbiakban: normatív lakásfenntartási támogatás),
+a) az e törvényben meghatározott feltételek szerinti jogosultnak (a továbbiakban: normatív lakásfenntartási támogatás), vagy
 
-b) az adósságkezelési szolgáltatásban részesülő személynek,
-
-c) az önkormányzat rendeletében meghatározott feltételek szerinti jogosultnak (a továbbiakban: helyi lakásfenntartási támogatás).
+b) az adósságkezelési szolgáltatásban részesülő személynek.
 
 (1a) A lakásfenntartási támogatást elsősorban természetbeni szociális ellátás formájában, és a lakásfenntartással összefüggő azon rendszeres kiadásokhoz kell nyújtani, amelyek megfizetésének elmaradása a kérelmező lakhatását a legnagyobb mértékben veszélyezteti.
 
@@ -84,18 +82,10 @@ ahol a J a jogosult háztartásában egy fogyasztási egységre jutó havi jöve
 
 (8) A normatív lakásfenntartási támogatást egy évre kell megállapítani.
 
-(9) A települési önkormányzat rendeletében határozza meg a helyi lakásfenntartási támogatás jogosultsági feltételeit, eljárási szabályait és a támogatás összegét. A helyi lakásfenntartási támogatást a települési önkormányzat a normatív, illetve az (5) bekezdésben meghatározott lakásfenntartási támogatás kiegészítéseként vagy önálló ellátásként nyújtja. Az önálló ellátásként nyújtott helyi lakásfenntartási támogatás esetében
+(9) A települési önkormányzat rendeletében a normatív lakásfenntartási támogatásra való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a jegyzőnek – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania. Amennyiben a kérelmező vagy a jogosult a feltételeknek felszólítás ellenére sem tesz eleget, a kérelmet el kell utasítani, vagy a megállapított támogatást meg kell szüntetni.
 
-a) a lakásfenntartási támogatásra való jogosultságnak a háztartásban az egy fogyasztási egységre számított havi jövedelmi határát úgy kell szabályozni, hogy az önkormányzat rendelete az öregségi nyugdíj mindenkori legkisebb összegének 250%-ánál alacsonyabb jövedelmet jogosultsági feltételként nem írhat elő;
+(10) Amennyiben a lakásfenntartási támogatás iránti kérelmet a jegyző a (9) bekezdés szerinti okból elutasítja, vagy a megállapított lakásfenntartási támogatást megszünteti, ugyanazon lakásra vonatkozóan
 
-b) a támogatás összegét úgy kell szabályozni, hogy annak az egy hónapra jutó, 100 forintra kerekített összege nem lehet kevesebb 2500 forintnál;
+a) a döntés jogerőre emelkedésétől számított három hónapon belül a háztartás egy tagja sem nyújthat be normatív lakásfenntartási támogatás iránti kérelmet, valamint
 
-c) az igénylés menetét úgy kell szabályozni, hogy a kérelem évente legalább két alkalommal benyújtható legyen;
-
-d) a lakásfenntartási támogatás megállapításánál figyelembe vett költséget úgy kell szabályozni, hogy az önkormányzat
-
-da) az egy négyzetméterre jutó helyben elismert havi költség összegét határozza meg a (10) bekezdésben szereplő – a településen jellemző – költségek figyelembevételével, vagy
-
-db) tételesen határozza meg a költség típusait, melynek során legalább a (10) bekezdésben szereplő költségeket figyelembe kell venni.
-
-(10) Költségeken a helyi lakásfenntartási támogatás esetében lakbért vagy albérleti díjat, a lakáscélú pénzintézeti kölcsön törlesztő részletét, a távhő-szolgáltatási díjat, a közös költséget, a csatorna használati díjat, a szemétszállítás költségeit, valamint a villanyáram, a víz- és gázfogyasztás, valamint a tüzelőanyag költségeit kell érteni.
+b) a döntés jogerőre emelkedésétől számított egy éven belül benyújtott kérelem esetén a normatív lakásfenntartási támogatás kizárólag természetbeni szociális ellátás formájában nyújtható.

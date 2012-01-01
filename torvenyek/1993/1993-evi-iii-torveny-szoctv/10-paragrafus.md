@@ -16,7 +16,7 @@ a) a kérelem benyújtását megelőzően megszűnt havi rendszeres jövedelmet,
 
 b) a vállalkozásból származó jövedelmet, feltéve, hogy a vállalkozási tevékenység megszűnt,
 
-c) a közfoglalkoztatásból származó havi jövedelemnek az öregségi nyugdíj legkisebb összegét meghaladó részét.
+c) a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
 
 (5) A vállalkozási tevékenység akkor tekinthető megszűntnek, ha az egyéni vállalkozói tevékenység az egyéni vállalkozóról szóló törvényben meghatározottak szerint megszűnt, az őstermelői igazolványt visszaadták vagy visszavonták, illetőleg a társas vállalkozást vagy az egyéni céget törölték a cégjegyzékből.
 

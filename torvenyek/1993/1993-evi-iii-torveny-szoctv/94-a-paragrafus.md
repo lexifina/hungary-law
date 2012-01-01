@@ -2,11 +2,13 @@
 
 a) a települési önkormányzat által fenntartott szociális szolgáltató, nappali és átmeneti elhelyezést nyújtó intézmény esetében az intézményvezető,
 
-b) a megyei, fővárosi önkormányzat által fenntartott tartós bentlakásos intézmény esetében, ha a fenntartó önkormányzat képviselő-testülete eltérően nem rendelkezik, az intézményvezető,
+b) a fővárosi önkormányzat által fenntartott tartós bentlakásos intézmény esetében, ha a fenntartó önkormányzat képviselő-testülete eltérően nem rendelkezik, az intézményvezető,
 
 c) a települési önkormányzat – ide nem értve a fővárosi önkormányzat – által fenntartott tartós bentlakásos intézmény esetében, ha a fenntartó önkormányzat képviselő-testülete eltérően nem rendelkezik, az intézményvezető,
 
-d) a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium által fenntartott szociális intézmény esetén az intézményvezető
+d) a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium által fenntartott szociális intézmény esetén az intézményvezető,
+
+e) a megyei fenntartó által fenntartott szociális intézmény esetén az intézményvezető
 
 dönt.
 

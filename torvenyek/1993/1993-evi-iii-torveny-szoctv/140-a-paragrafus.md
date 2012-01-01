@@ -10,6 +10,8 @@ b) a bérpótló juttatásra való jogosultság 25. § (4) bekezdés b) pontja s
 
 kell elvégezni.
 
+(3a) A foglalkoztatást helyettesítő támogatásra való jogosultság (3) bekezdés b) pontja szerinti felülvizsgálata során a 36. § (2) bekezdés e) pontjában foglalt követelmény teljesítése szempontjából figyelembe kell venni a rendelkezésre állási támogatásra jogosult személy által 2010. december 31-ét követően, de a bérpótló juttatásra való jogosultsága megállapítását megelőzően, továbbá a bérpótló juttatásra való jogosultsága megállapítását követően teljesített, a 36. § (2) bekezdés e) pontja szerinti tevékenységek együttes időtartamát.
+
 (4) 2011. január 1-jét követően közcélú foglalkoztatásra irányuló munkaszerződést meghosszabbítani nem lehet.
 
 (5) A 2010. december 31-én hatályos 37/C. § (4) bekezdése alapján megkötött hatósági szerződések 2011. január 1-jén megszűnnek, azzal, hogy az aktív korúak ellátására való jogosultság fennállása esetén a 2010. december 31-én hatályos 37/C. § (4) bekezdése szerinti személy részére 2011. január 1-jétől rendszeres szociális segélyt kell folyósítani.

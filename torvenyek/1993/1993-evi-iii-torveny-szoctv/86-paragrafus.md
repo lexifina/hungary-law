@@ -18,9 +18,7 @@ b) háromezer főnél több állandó lakos él, az a) pont szerinti alapszolgá
 
 c) tízezer főnél több állandó lakos él, az a)–b) pont szerinti alapszolgáltatásokat és a b) pontban nem említett nappali ellátást,
 
-d) harmincezer főnél több állandó lakos él, az a)–c) pont szerinti szociális szolgáltatásokat és átmeneti elhelyezést nyújtó ellátást,
-
-e) ötvenezer főnél több állandó lakos él, az a)–d) pont szerinti szociális szolgáltatásokat és utcai szociális munkát
+d) harmincezer főnél több állandó lakos él, az a)–c) pont szerinti szociális szolgáltatásokat és átmeneti elhelyezést nyújtó ellátást
 
 köteles biztosítani.
 

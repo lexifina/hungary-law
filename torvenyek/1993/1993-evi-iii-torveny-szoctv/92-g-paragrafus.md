@@ -2,10 +2,8 @@
 
 a) elhunyt,
 
-b) foglalkozása gyakorlásától eltiltó jogerős bírósági határozat hatálya alatt áll.
+b) foglalkozása gyakorlásától eltiltó jogerős bírósági határozat hatálya alatt áll,
 
-(2) Az (1) bekezdésben foglaltakon túl törölni kell
+c) már nem áll munkaviszonyban, közalkalmazotti jogviszonyban az intézménnyel.
 
-a) a szociális nyilvántartásból annak a személynek az adatait, akinek már nem áll fenn munkaviszonya, közalkalmazotti jogviszonya szociális intézménnyel;
-
-b) a gyermekjóléti nyilvántartásból annak a személynek az adatait, akinek már nem áll fenn munkaviszonya, közalkalmazotti jogviszonya gyermekjóléti, gyermekvédelmi intézménnyel.
+(2)

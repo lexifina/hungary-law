@@ -2,7 +2,7 @@
 
 33. § (1) Az aktív korúak ellátása a hátrányos munkaerő-piaci helyzetű aktív korú személyek és családjuk részére nyújtott ellátás. A jegyző aktív korúak ellátására való jogosultságot állapít meg annak az aktív korú személynek,
 
-a) aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, vagy
+a) aki munkaképességét legalább 67%-ban elvesztette, aki legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket, vagy
 
 b) aki vakok személyi járadékában részesül, vagy
 
@@ -14,7 +14,7 @@ e) akinek esetében az álláskeresési támogatás folyósítását keresőtev�
 
 f) aki az aktív korúak ellátása iránti kérelem benyújtását megelőző két évben az állami foglalkoztatási szervvel legalább egy év időtartamig együttműködött, vagy
 
-g) akinek esetében az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, a rendszeres szociális járadék, a bányász dolgozók egészségkárosodási járadéka, az átmeneti járadék, a rehabilitációs járadék, a rokkantsági nyugdíj, a baleseti rokkantsági nyugdíj, az ideiglenes özvegyi nyugdíj folyósítása megszűnt, illetve az özvegyi nyugdíj folyósítása a Tny. 52. §-ának (3) bekezdése szerinti okból szűnt meg, és közvetlenül a kérelem benyújtását megelőzően az állami foglalkoztatási szervvel legalább három hónapig együttműködött,
+g) akinek esetében az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, a rendszeres szociális járadék, a bányász dolgozók egészségkárosodási járadéka, az átmeneti járadék, a rehabilitációs járadék, a rokkantsági nyugdíj, a baleseti rokkantsági nyugdíj, a megváltozott munkaképességű személyek ellátása, az ideiglenes özvegyi nyugdíj folyósítása megszűnt, illetve az özvegyi nyugdíj folyósítása a Tny. 52. §-ának (3) bekezdése szerinti okból szűnt meg, és közvetlenül a kérelem benyújtását megelőzően az állami foglalkoztatási szervvel legalább három hónapig együttműködött,
 
 feltéve, hogy saját maga és családjának megélhetése más módon nem biztosított, és keresőtevékenységet – ide nem értve a közfoglalkoztatást, az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát – nem folytat.
 
@@ -47,3 +47,5 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 (5) Aktív korúak ellátására egy családban egyidejűleg – a (6) bekezdésben meghatározott kivétellel – csak egy személy jogosult.
 
 (6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a foglalkoztatást helyettesítő támogatás, míg a másik személy a rendszeres szociális segély feltételeinek felel meg.
+
+(7) A települési önkormányzat rendeletében az aktív korúak ellátására való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a jegyzőnek – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania.

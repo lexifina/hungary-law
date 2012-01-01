@@ -13,3 +13,7 @@ d) a finanszírozás, támogatás költségvetési törvény szerinti jogcímét
 (3) Nappali melegedő, éjjeli menedékhely esetén az (1) bekezdés a) pontja szerinti adatok közül csak a 20. § (2) bekezdés a) pontja és a 20. § (4) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni.
 
 (4) Nappali melegedő, éjjeli menedékhely és családsegítés esetén, amennyiben az ellátásban részesülő személy Társadalombiztosítási Azonosító Jellel nem rendelkezik, ennek tényét kell a nyilvántartásban rögzíteni.
+
+(5) Az (1) bekezdés szerinti nyilvántartás adatait a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából elektronikus úton továbbítani kell a kincstárnak.
+
+(6) Az (1) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a működési engedélyezésre és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.

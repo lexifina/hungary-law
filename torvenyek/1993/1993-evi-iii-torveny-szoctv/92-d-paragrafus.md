@@ -1,6 +1,6 @@
 92/D. § (1) A személyes gondoskodást nyújtó szociális, gyermekjóléti és gyermekvédelmi tevékenységet végző, valamint a javítóintézetben szakmai munkakörben dolgozó és a képesítési előírásoknak megfelelő szakképesítéssel rendelkező személy (a továbbiakban: személyes gondoskodást végző személy) a külön jogszabályban meghatározottak szerint szakmai továbbképzésben vesz részt.
 
-(2) A továbbképzést sikeresen befejező, személyes gondoskodást végző személyt anyagi elismerésben kell részesíteni. Az anyagi elismerés legkisebb összege a továbbképzésen részt vett személy egyhavi illetményével megegyező összeg. Az anyagi elismerést a továbbképzési kötelezettség teljesítését igazoló dokumentumok bemutatását követő év első negyedévében kell kifizetni.
+(2)
 
 (3) Azt a személyes gondoskodást végző személyt, aki szociális szakvizsgát tett, az ezt igazoló oklevél bemutatását követő harmadik hónap első napjától kezdődően a szakvizsga figyelembevételével kell besorolni.
 

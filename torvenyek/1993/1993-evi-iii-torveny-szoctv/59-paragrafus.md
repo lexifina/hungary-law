@@ -1,4 +1,4 @@
-59. § (1) Az alapszolgáltatások megszervezésével a települési önkormányzat segítséget nyújt a szociálisan rászorulók részére saját otthonukban és lakókörnyezetükben önálló életvitelük fenntartásában, valamint egészségi állapotukból, mentális állapotukból vagy más okból származó problémáik megoldásában.
+59. § (1) Az alapszolgáltatások megszervezésével az állam és a települési önkormányzat segítséget nyújt a szociálisan rászorulók részére saját otthonukban és lakókörnyezetükben önálló életvitelük fenntartásában, valamint egészségi állapotukból, mentális állapotukból vagy más okból származó problémáik megoldásában.
 
 (2) A szociális szolgáltató, illetve intézmény együttműködik az ellátási területén működő szociális, gyermekjóléti-gyermekvédelmi, egészségügyi, oktatási és munkaügyi szolgáltatókkal, intézményekkel, így különösen
 

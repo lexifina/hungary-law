@@ -12,7 +12,7 @@ e) a központi szociális segélyben részesülő;
 
 f) a rokkantsági járadékos;
 
-g) az, aki I., II. csoportú rokkantsága alapján részesül nyugellátásban, baleseti nyugellátásban;
+g) az, aki rokkantsági ellátásban;
 
 h) az aki, vagy aki után szülője vagy eltartója magasabb összegű családi pótlékban részesül.
 

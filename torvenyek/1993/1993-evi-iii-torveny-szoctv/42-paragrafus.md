@@ -8,7 +8,7 @@ ab) az óvoda, a nappali ellátást nyújtó szociális intézmény igénybevét
 
 ac) az óvoda, a közoktatási, illetőleg a felsőoktatási intézmény látogatása, vagy a nappali ellátást nyújtó szociális intézmény igénybevétele csak az ápolást végző személy rendszeres közreműködésével valósítható meg;
 
-b) rendszeres pénzellátásban részesül, és annak összege meghaladja az ápolási díj összegét, ide nem értve a (4) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak,
+b) rendszeres pénzellátásban – ide nem értve az e) pont szerinti ellátást – részesül, és annak összege meghaladja az ápolási díj összegét, ide nem értve a (4) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak,
 
 c) szakiskola, középiskola, illetve felsőoktatási intézmény nappali tagozatos tanulója, hallgatója;
 
@@ -30,4 +30,20 @@ e) az (1) bekezdésben megjelölt jogosultságot kizáró körülmény következ
 
 (3) Az ápolt személy halála esetén az ápolási díj folyósítását a halál időpontját követő második hónap utolsó napjával kell megszüntetni.
 
-(4) Az ápolási díjra való, 41. § (1) bekezdésének a) pontja szerinti jogosultság továbbra is fennáll, ha az ápolási díjban részesülő személy számára a Tny. szerint saját jogú nyugdíjnak minősülő ellátást állapítanak meg, feltéve, hogy az ápolási díjat a nyugdíj megállapításának időpontjában több mint tíz éve folyósítják.
+(4) A 41. § (1) bekezdésének a) pontja szerinti ápolási díjra való jogosultság továbbra is fennáll, ha az ápolási díjban részesülő személy
+
+a) a Tny. szerint saját jogú nyugdíjnak minősülő ellátásban,
+
+b) korhatár előtti ellátásban,
+
+c) szolgálati járandóságban,
+
+d) balettművészeti életjáradékban,
+
+e) átmeneti bányászjáradékban,
+
+f) rokkantsági ellátásban vagy
+
+g) a megváltozott munkaképességű személyek ellátásairól és egyéb törvények módosításáról szóló 2011. évi CXCI. törvény 33. § (1) bekezdése alapján, a törvény erejénél fogva rehabilitációs ellátásban
+
+részesül, továbbá az ápolási díjat az a)–g) pont szerinti ellátásra való jogosultság keletkezésének időpontjában több mint tíz éve folyósítják.

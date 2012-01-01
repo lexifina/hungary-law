@@ -4,7 +4,7 @@
 
 47. § (1) Egyes szociális rászorultságtól függő pénzbeli ellátások egészben vagy részben természetbeni szociális ellátás formájában is nyújthatók. Természetbeni szociális ellátásként nyújtható
 
-a) a rendszeres szociális segély, a (2) bekezdésben meghatározott mértékben és feltételek fennállása esetén,
+a) a rendszeres szociális segély és a foglalkoztatást helyettesítő támogatás a (2) bekezdésben meghatározott mértékben és feltételek fennállása esetén,
 
 b) a lakásfenntartási támogatás,
 
@@ -12,7 +12,7 @@ c) az átmeneti segély,
 
 d) a temetési segély.
 
-(2) Rendszeres szociális segély természetbeni szociális ellátás formájában akkor nyújtható, ha a családban a Gyvt. 68. §-a szerint védelembe vett gyermek él. A rendszeres szociális segély természetbeni szociális ellátás formájában történő nyújtásának eljárási szabályait, a természetbeni juttatás formáit a települési önkormányzat rendeletben szabályozza, azzal, hogy védelembe vett gyermekenként a rendszeres szociális segély megállapított összegének 20%-a, de összesen legfeljebb 60%-a nyújtható természetben.
+(2) A rendszeres szociális segély és a foglalkoztatást helyettesítő támogatás természetbeni szociális ellátás formájában akkor nyújtható, ha a családban a Gyvt. 68. §-a szerint védelembe vett gyermek él. Ha a települési önkormányzat képviselő-testülete a rendszeres szociális segély és a foglalkoztatást helyettesítő támogatás természetbeni szociális ellátás formájában történő nyújtásáról dönt, úgy ennek eljárási szabályait és a természetbeni juttatás formáit rendeletében szabályozza, azzal, hogy védelembe vett gyermekenként az ellátás megállapított összegének 20%-a, de összesen legfeljebb 60%-a nyújtható természetben.
 
 (3) Természetbeni ellátás különösen az élelmiszer, a tankönyv, a tüzelő segély, a közüzemi díjak, illetve a gyermekintézmények térítési díjának kifizetése, valamint a családi szükségletek kielégítését szolgáló, gazdálkodást segítő támogatás.
 

@@ -4,7 +4,7 @@
 
 a) a házi segítségnyújtást végző szolgáltató, illetve intézmény, vagy
 
-b) a megyei önkormányzat, a többcélú kistérségi társulás és a 86. § (2) bekezdésének c) pontja szerinti önkormányzat, úgy, hogy a házi segítségnyújtást a 90. § (4) bekezdése szerinti megállapodás útján biztosítja.
+b) a megyei fenntartó, a többcélú kistérségi társulás és a 86. § (2) bekezdésének c) pontja szerinti önkormányzat, úgy, hogy a házi segítségnyújtást a 90. § (4) bekezdése szerinti megállapodás útján biztosítja.
 
 (2) A jelzőrendszeres házi segítségnyújtás keretében biztosítani kell
 

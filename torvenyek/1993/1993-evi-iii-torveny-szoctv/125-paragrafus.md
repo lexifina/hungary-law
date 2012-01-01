@@ -8,6 +8,6 @@ c) a lakásfenntartási támogatáshoz [38. § (2) és (5) bek.] és az adóssá
 
 d)
 
-e) a szociális továbbképzéssel és szakvizsgával kapcsolatos kiadásokhoz kötött felhasználású támogatással
+e)
 
 járul hozzá.

@@ -46,7 +46,9 @@ u) az egyházi kiegészítő támogatás megtérítésének részletes szabálya
 
 v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét;
 
-w) az új szolgáltatóknak, intézményeknek, ellátotti létszámnak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat.
+w) az új szolgáltatóknak, intézményeknek, ellátotti létszámnak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat;
+
+x) a megyei fenntartó kijelölését;
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
@@ -76,6 +78,8 @@ n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan
 
 o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.
 
+(2a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani intézményeknek fizetendő szakértői díj mértékét.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
 a) a szakmai szabályok szerint elsőként választandó, legalacsonyabb napi terápiás költséggel alkalmazott készítmények kiválasztásának szabályait,
@@ -84,10 +88,14 @@ b)
 
 (4) Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza
 
-a) a bérpótló juttatásra jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,
+a) az aktív korúak ellátására jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,
 
 b) a rendszeres szociális segélyre való jogosultságnak a 37. § (1) bekezdés a)–c) pontjában foglaltakon túli, az aktív korúak ellátására jogosult személy családi körülményeire, egészségi vagy mentális állapotára vonatkozó feltételeit, valamint a feltételek fennállásának igazolási szabályait,
 
-c) a rendszeres szociális segélyben részesülő személyek együttműködésének eljárási szabályait, a beilleszkedést segítő programok típusait és az együttműködés megszegésének eseteit, és
+c) a rendszeres szociális segélyben részesülő személyek együttműködésének eljárási szabályait, a beilleszkedést segítő programok típusait és az együttműködés megszegésének eseteit
 
-d) az étkeztetés jogosultsági feltételeinek részletes szabályait.
+d) az étkeztetés jogosultsági feltételeinek részletes szabályait,
+
+e) a normatív lakásfenntartási támogatásra jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,
+
+f) a rendszeres szociális segély és a foglalkoztatást helyettesítő támogatás természetbeni szociális ellátás formájában történő nyújtásának eljárási szabályait és a természetbeni juttatás formáit.

@@ -14,11 +14,13 @@ f) katonai szolgálatot teljesít,
 
 g) közoktatási, illetőleg felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat folytat, vagy
 
-h) az Flt. szerint képzési támogatásként keresetpótló juttatásban részesül.
+h) az Flt. szerint képzési támogatásként keresetpótló juttatásban részesül,
+
+i) a megváltozott munkaképességű személyek ellátásában részesül.
 
 (2) Meg kell szüntetni az aktív korúak ellátására való jogosultságát annak a személynek,
 
-a) akire vonatkozóan az (1) bekezdés a)–g) pontja szerinti körülmények valamelyike bekövetkezett,
+a) akire vonatkozóan az (1) bekezdés a)–g), valamint i) pontja szerinti körülmények valamelyike bekövetkezett,
 
 b) aki az aktív korúak ellátására való jogosultság feltételeinek vagy az annak keretében megállapított pénzbeli ellátás összegének felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza,
 

@@ -2,4 +2,4 @@
 
 (2) A működési nyilvántartás célja a személyes gondoskodást végző személy szakvizsgáztatásának, továbbképzésének megszervezése, valamint a képzési követelmények teljesítésének ellenőrzése.
 
-(3) A szociális személyes gondoskodást végző személy esetében a működési nyilvántartást (a továbbiakban: szociális nyilvántartás), valamint a gyermekjóléti, gyermekvédelmi személyes gondoskodást végző személy esetében a működési nyilvántartást (a továbbiakban: gyermekjóléti nyilvántartás) a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt szerv vezeti.
+(3) A szociális személyes gondoskodást, valamint a gyermekjóléti, gyermekvédelmi személyes gondoskodást végző személy esetében a működési nyilvántartást a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt szerv vezeti.

@@ -12,11 +12,13 @@ ab) foglalkoztatást helyettesítő támogatást,
 
 ac) rendszeres szociális segélyt,
 
-ad) a 41. § (1) bekezdésében és a 43/A. § (1) bekezdésében foglalt ápolási díjat;
+ad) lakásfenntartási támogatást
+
+ae) a 41. § (1) bekezdésében és a 43/A. § (1) bekezdésében foglalt ápolási díjat;
 
 b) a települési önkormányzat képviselő-testülete az e törvényben, illetve az önkormányzat rendeletében meghatározott feltételek szerint
 
-ba) a 38. § (1) bekezdésében foglalt lakásfenntartási támogatást,
+ba)
 
 bb) a 43/B. § (1) bekezdésében foglalt ápolási díjat,
 
@@ -41,6 +43,8 @@ a) emelkedett, akkor az új összeget az öregségi nyugdíj legkisebb összege 
 b) csökkent, akkor az új összeget az öregségi nyugdíj legkisebb összege emelkedésének időpontját követő harmadik hónap első napjától
 
 kell folyósítani.
+
+(5a) Az (5) bekezdésben foglaltakat az ápolási díj alapösszegének változása esetén megfelelően alkalmazni kell.
 
 (6) A havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultság jövedelmi feltételének fennállását felül kell vizsgálni, ha az ellátás megállapításának alapjául szolgáló jövedelemben tartós változás történt, vagy az ellátás megállapításánál figyelembe vett, egy háztartásban élő családtagok létszáma megváltozott.
 

@@ -1,4 +1,4 @@
-68. § (1) Az idősek otthonában a 68/A. § (3) bekezdésében meghatározott gondozási szükséglettel rendelkező, de rendszeres fekvőbeteg-gyógyintézeti kezelést nem igénylő, a rá irányadó öregségi nyugdíjkorhatárt betöltött személy látható el.
+68. § (1) Az idősek otthonában – a 68/B. § szerinti kivétellel – a 68/A. § (3) bekezdésében meghatározott gondozási szükséglettel rendelkező, de rendszeres fekvőbeteg-gyógyintézeti kezelést nem igénylő, a rá irányadó öregségi nyugdíjkorhatárt betöltött személy látható el.
 
 (2) Az idősek otthonában a 18. életévét betöltött, betegsége vagy fogyatékossága miatt önmagáról gondoskodni nem képes, a 68/A. § (3) bekezdése szerinti gondozási szükséglettel rendelkező személy is ellátható, ha ellátása más típusú, ápolást-gondozást nyújtó intézményben nem biztosítható.
 

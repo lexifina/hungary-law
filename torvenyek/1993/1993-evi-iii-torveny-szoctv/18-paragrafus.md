@@ -16,10 +16,20 @@ f) a szociális ellátás megállapítására, megváltoztatására és megszün
 
 g) a jogosultság és a térítési díj megállapításához szükséges jövedelmi adatokat;
 
-h) a jogosult Társadalombiztosítási Azonosító Jelét (TAJ szám);
+h) a jogosult Társadalombiztosítási Azonosító Jelét;
 
 i) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot;
 
 j) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó, külön törvényben foglalt adatokat;
 
-k) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettségét és szakképzettségét.
+k) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettségét és szakképzettségét;
+
+l) a lakásfenntartási támogatás természetbeni szociális ellátás formájában történő nyújtása esetén
+
+la) a támogatott szolgáltatást szolgáltatási vagy közüzemi szerződés alapján szerződőként igénybe vevő fogyasztónak és a fogyasztási helynek a szolgáltató általi azonosításához szükséges adatot,
+
+lb) a lakáscélú kölcsönszerződés adósának és adóstársának a kölcsönt nyújtó pénzintézet általi azonosításához szükséges adatot,
+
+lc) a lakásbérlet vagy albérlet igénybevételére irányuló szerződést bérbevevő félként megkötő személy természetes személyazonosító adatait,
+
+ld) a közös költség megfizetésére kötelezett személy természetes személyazonosító adatait.
