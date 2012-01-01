@@ -4,7 +4,7 @@ A Kiosztási Terv elkészítésének alapelvei
 
 1. Az adott kereskedési időszakra kiosztható kibocsátási egységek teljes mennyiségének összhangban kell lennie:
 
-a) a Magyar Köztársaságnak a Kiotói Jegyzőkönyv szerinti kibocsátáscsökkentési kötelezettségével, figyelembe véve egyfelől azt, hogy a nem e törvény hatálya alá tartozó forrásokból származó kibocsátásokhoz képest a kibocsátási egységek a teljes kibocsátás mekkora hányadát képviselik, másfelől pedig a nemzeti energiapolitikát;
+a) Magyarországnak a Kiotói Jegyzőkönyv szerinti kibocsátáscsökkentési kötelezettségével, figyelembe véve egyfelől azt, hogy a nem e törvény hatálya alá tartozó forrásokból származó kibocsátásokhoz képest a kibocsátási egységek a teljes kibocsátás mekkora hányadát képviselik, másfelől pedig a nemzeti energiapolitikát;
 
 b) a nemzeti éghajlat-változási programmal.
 

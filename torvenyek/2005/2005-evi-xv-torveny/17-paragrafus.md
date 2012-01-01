@@ -12,4 +12,4 @@
 
 (6) Amennyiben a légijármű üzemben tartó nem tesz eleget az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt követelményeknek, és az e törvényben meghatározott egyéb jogkövetkezmény alkalmazása sem vezet eredményre, a miniszter kérelemmel fordul a Bizottsághoz, hogy az érintett légijármű üzemben tartóra vonatkozóan működési tilalmat állapítson meg.
 
-(7) Az (1) és (2) bekezdés szerinti bírság a környezetvédelmi hatóság bevétele.
+(7)

@@ -6,4 +6,4 @@ Vhr. 20. § (1) A miniszter az üvegházhatást okozó gázok kibocsátási eg
 
 (3) A (2) bekezdés szerinti jelentéstételhez a miniszter a 2/B. §-ban meghatározott, ellenőrzött adatok alapján a 2011/278/EU határozatban foglaltaknak megfelelően összeállítja a Nemzeti Végrehajtási Intézkedést, amit jóváhagyás céljából megküld az Európai Bizottságnak.
 
-[Üht. 18. §] (2) A 14. § (1) bekezdésben megjelölt projekttevékenységeknek a Magyar Köztársaság területén történő megvalósításával kapcsolatos nemzetközi jelentéstételi kötelezettség teljesítése a miniszter feladata.
+[Üht. 18. §] (2) A 14. § (1) bekezdésben megjelölt projekttevékenységeknek Magyarország területén történő megvalósításával kapcsolatos nemzetközi jelentéstételi kötelezettség teljesítése a miniszter feladata.
