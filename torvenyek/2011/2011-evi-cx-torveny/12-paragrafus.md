@@ -1,0 +1,1 @@
+12. § A köztársasági elnök jogosult a Kormány központi üdülőjének használatára. Az üdülőt a köztársasági elnökkel együtt üdülő házastársa, élettársa, gyermeke, gyermekének házastársa, valamint szülője és unokája is – térítési díj ellenében – igénybe veheti. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.

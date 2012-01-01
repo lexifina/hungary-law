@@ -1,0 +1,1 @@
+3. § A köztársasági elnök feladatkörei ellátását kilencven napon túl lehetetlenné tevő állapotának, illetve a megválasztásához szükséges feltételek hiányának megállapítását bármely országgyűlési képviselő indítványozhatja.

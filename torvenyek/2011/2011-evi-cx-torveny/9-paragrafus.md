@@ -1,0 +1,1 @@
+9. § A köztársasági elnök annyi időre maradhat távol az államügyek folyamatos intézésétől, amennyire azt az ügyek természete és kellő időben történő elintézése megengedi; ez az idő évi negyven munkanapnál nem lehet több.

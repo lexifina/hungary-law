@@ -1,0 +1,1 @@
+5. § A 3. § és a 4. § szerinti indítványról való szavazásra legkorábban az indítvány benyújtásától számított nyolcadik napon, legkésőbb az indítvány benyújtásától számított tizenötödik napon kerülhet sor. A szavazás titkos.

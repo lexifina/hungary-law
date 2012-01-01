@@ -1,0 +1,5 @@
+## 2. A köztársasági elnök jogállása
+
+2. § (1) A köztársasági elnök az Országgyűléshez intézett írásbeli nyilatkozatával lemondhat megbízatásáról. A lemondás érvényességéhez az Országgyűlés elfogadó nyilatkozata szükséges. Az Országgyűlés tizenöt napon belül kérheti a köztársasági elnököt, hogy elhatározását újból fontolja meg. Ha a köztársasági elnök az elhatározását írásbeli nyilatkozatával fenntartja, az Országgyűlés a lemondás tudomásulvételét nem tagadhatja meg.
+
+(2) A köztársasági elnök megbízatása a lemondó nyilatkozatban megjelölt, a tizenötödik napnál nem korábbi időpontban, ennek hiányában az Országgyűlés elfogadó nyilatkozata meghozatalának napján, elfogadó nyilatkozat hiányában az annak meghozatalára nyitva álló határidő eredménytelen elteltével szűnik meg. Ha az Országgyűlés a köztársasági elnököt a lemondás megfontolására kéri, a köztársasági elnök megbízatása az elhatározását fenntartó nyilatkozatban megjelölt időpontban, ennek hiányában a fenntartó nyilatkozat benyújtásával szűnik meg.
