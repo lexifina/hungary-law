@@ -4,4 +4,4 @@
 
 (2) A földvédelmi eljárásban igénybe vehető valamennyi jogorvoslatért 15 000 forint díjat kell fizetni.
 
-(3) A földvédelmi eljárásért fizetett díj az ingatlanügyi hatóság saját bevételét képezi, amely a külön jogszabályban meghatározott számlaszámra fizetendő meg. A díjbevétel 25%-át a földügyért felelős miniszter jogosult központosítani, amely kizárólag a földügyi szakigazgatáson belül használható fel.
+(3) A földvédelmi eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely a földügyért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. A földvédelmi eljárásáért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.

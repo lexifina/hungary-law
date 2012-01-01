@@ -20,4 +20,10 @@ f) a gyümölcsültetvények telepítése esetében az ökológiai alkalmasság 
 
 g) a talajvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
 
-(3) Felhatalmazást kap a földügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a talajvédelmi hatósági eljárások igazgatási szolgáltatási díjainak mértékét és a fizetésre vonatkozó egyéb szabályokat.
+(3) Felhatalmazást kap a földügyért felelős miniszter, hogy
+
+a) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben, valamint
+
+b) a földvédelmi hatósági eljárás és a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
+
+kiadott rendeletben határozza meg.
