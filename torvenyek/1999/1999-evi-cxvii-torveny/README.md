@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-117-00-00
 | --- | --- | --- |
 | 2009-06-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 1999-117-00-00.6 |
 | 2011-01-01 | 2010. évi CXXX. törvény | 1999-117-00-00.7 |
+| 2012-01-01 | 2011. évi CCI. törvény | 1999-117-00-00.8 |
