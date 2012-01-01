@@ -26,7 +26,7 @@ b)
 
 c)
 
-d) a földhasználati nyilvántartásból való adatszolgáltatásra vonatkozó igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben,
+d) a földhasználati nyilvántartásból való adatszolgáltatás igazgatási szolgáltatási díjainak mértékét, valamint a földhasználati eljárás és a földhasználati nyilvántartásból való adatszolgáltatás igazgatási szolgáltatási díjainak befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben;
 
 e) a vételi (haszonbérleti) ajánlat hirdetményi úton történő közlésével összefüggő igazgatási jellegű szolgáltatás igazgatási szolgáltatási díjának mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben
 

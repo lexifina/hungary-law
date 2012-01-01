@@ -16,4 +16,4 @@ felhívja a tulajdonos figyelmét a jogszabálysértésre, és határidő megál
 
 (5)
 
-(6) Amíg a bírságolásra okot adó körülmény fennáll, de legkésőbb a Magyar Köztársaságnak az Európai Unióhoz való csatlakozása tárgyában kötött nemzetközi szerződésben meghatározott mentességi idő végéig a tulajdonosra a tagállami állampolgárnak nem minősülő külföldi magánszemélyre irányadó rendelkezéseket kell alkalmazni.
+(6) Amíg a bírságolásra okot adó körülmény fennáll, de legkésőbb a 2003. évi uniós csatlakozási szerződésben meghatározott mentességi idő végéig a tulajdonosra a tagállami állampolgárnak nem minősülő külföldi magánszemélyre irányadó rendelkezéseket kell alkalmazni.

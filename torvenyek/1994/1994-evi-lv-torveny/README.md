@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-55-00-00
 | 2010-12-23 | 2010. évi CLVII. törvény | 1994-55-00-00.36 |
 | 2011-01-01 | 2010. évi CXXVI. törvény | 1994-55-00-00.37 |
 | 2011-08-01 | 2011. évi CI. törvény | 1994-55-00-00.38 |
+| 2012-01-01 | 2011. évi CCI. törvény | 1994-55-00-00.39 |

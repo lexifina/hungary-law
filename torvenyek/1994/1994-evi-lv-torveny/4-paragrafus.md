@@ -10,4 +10,4 @@ a) a csere tárgyát képező egyik földrészlet az azt megszerző cserepartner
 
 b) a cserepartnerek egyikének bejelentett lakóhelye azon a településen van, amely település közigazgatási területén fekszik a csere címén általa megszerzendő földrészlet.
 
-(3) Termőföld tulajdonjogát ajándékozás jogcímén csak közeli hozzátartozók [Ptk. 685. § b) pont], közalapítvány, önkormányzat, egyházi jogi személy és a Magyar Állam javára, valamint a mezőgazdasági termelők gazdaságátadási támogatása feltételeként lehet átruházni.
+(3) Termőföld tulajdonjogát ajándékozás jogcímén csak közeli hozzátartozók [Ptk. 685. § b) pont], közalapítvány, önkormányzat, egyház, belső egyházi jogi személy és a Magyar Állam javára, valamint a mezőgazdasági termelők gazdaságátadási támogatása feltételeként lehet átruházni.
