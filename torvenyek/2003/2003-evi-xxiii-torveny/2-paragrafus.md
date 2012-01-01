@@ -8,7 +8,17 @@ b) elszámoló fél: az a résztvevő, amely az intézmények, az esetleges köz
 
 c) biztosíték: a rendszerrel kapcsolatban felmerülő jogok gyakorlásának és kötelezettségek teljesítésének biztosítására szolgáló jogügyletek, így különösen a Polgári Törvénykönyvről szóló törvény szerinti óvadék – ideértve az Európai Parlament és Tanács 2002/47/EK irányelv 1. cikk (4) bekezdés a) pontját átültető EGT-állam jogszabályai szerinti pénzügyi biztosítékot is –, valamint az EGT-állam központi bankja, illetve az Európai Központi Bank által biztosítékként elfogadott eszközök;
 
-d) fizetést korlátozó eljárás: a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szerinti csődeljárás és felszámolási eljárás, illetve ideiglenes vagyonfelügyelő kirendelése, valamint a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 157. § (1) bekezdés b) pontja szerinti kivételes intézkedés, illetve a Hpt. 176/B. § (5) bekezdése, a Hpt. 181. § (2) bekezdése, 153. § (2) bekezdés c) pont 6. alpontja, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 135. § (1) bekezdése szerinti kifizetési tilalom, továbbá a Bszt. 128. § (1) bekezdése, 164. § (1) bekezdés h) és n) pontja szerinti, és a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 400. § (1) bekezdés h), j) és r) pontja, valamint (4) bekezdése szerinti felügyeleti intézkedések;
+d) fizetést korlátozó eljárás:
+
+da) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szerinti csődeljárás és felszámolási eljárás, illetve ideiglenes vagyonfelügyelő kirendelése,
+
+db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 153. § (2) bekezdés c) pont 6. alpontja, a Hpt. 176/B. § (5) bekezdése, a Hpt. 181. § (2) bekezdése szerinti felügyeleti intézkedés,
+
+dc) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 128. § (1) bekezdése, a Bszt. 164. § (1) bekezdés h) és n) pontjai szerinti felügyeleti intézkedés, a Bszt. 135. § (1) bekezdése szerinti kifizetési tilalom,
+
+dd) a tőkepiacról szóló 2001. évi CXX. törvény 400. § (1) bekezdés h) és j) pontjai, valamint a (4) bekezdése szerinti felügyeleti intézkedés,
+
+amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bekezdése szerint fizetést korlátozó eljárásként jelöli meg;
 
 e) harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 
@@ -32,7 +42,7 @@ i) rendszer: az – a rendszerkapcsolatnak nem minősülő – írásbeli megál
 
 ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetőleg a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre,
 
-ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Bizottságot;
+ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Értékpapír-piaci Hatóságot;
 
 j) résztvevő: az intézmény, a központi szerződő fél, a teljesítő fél, az elszámoló fél, valamint a rendszerüzemeltető;
 

@@ -20,6 +20,6 @@ d) magyarországi bejegyzett cég esetében három hónapnál nem régebbi cégk
 
 (7) A kijelölés visszavonható, ha a rendszer nem e törvény és a kijelölés alapjául szolgáló megállapodásban foglaltak szerint működik.
 
-(8) A kijelölő hatóság a rendszer és a rendszerüzemeltető kijelöléséről vagy a kijelölés visszavonásáról haladéktalanul értesíti a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőt és az Európai Bizottságot.
+(8) A kijelölő hatóság a rendszer és a rendszerüzemeltető kijelöléséről vagy a kijelölés visszavonásáról haladéktalanul értesíti a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőt és az Európai Értékpapír-piaci Hatóságot.
 
 (9) A kijelölő hatóság eljárása illetékmentes.
