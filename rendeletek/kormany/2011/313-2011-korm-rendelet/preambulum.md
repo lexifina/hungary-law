@@ -1,0 +1,1 @@
+A Kormány az önálló orvosi tevékenységről szóló 2000. évi II. törvény 3. § (9) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

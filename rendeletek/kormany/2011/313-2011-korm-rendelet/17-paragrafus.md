@@ -1,0 +1,1 @@
+17. § Hatályát veszti a háziorvosi működtetési jog megszerzéséről és visszavonásáról, valamint a háziorvosi tevékenységhez szükséges ingó, ingatlan vagyon és működtetési jog megszerzésének hitelfeltételeiről szóló 18/2000. (II. 25.) Korm. rendelet.
