@@ -1,3 +1,3 @@
-1. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^67]
+1. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^64]
 
-[^67]: Az 1. számú mellékletet a 16/2004. (IV. 21.) PM rendelet 12. §-ának (2) bekezdése hatályon kívül helyezte.
+[^64]: Az 1. számú mellékletet a 16/2004. (IV. 21.) PM rendelet 12. §-ának (2) bekezdése hatályon kívül helyezte.

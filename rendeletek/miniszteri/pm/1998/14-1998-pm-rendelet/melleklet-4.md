@@ -2,144 +2,86 @@
 
 ## 1. Cigaretta-adójegy
 
-## Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a cigaretta darabszámát, kiskereskedelmi eladási árát, az adómérték kódját, valamint a „Cigaretta-adójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
+## 1.1. Leírása: Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a cigaretta darabszámát, kiskereskedelmi eladási árát, az adómérték kódját, valamint a „Cigaretta-adójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
 
-## Mérete:
+## 1.2. Mérete: 44 x 20 mm.
 
-## 44 x 20 mm.
+## 1.3. Anyaga: Speciális, kizárólag erre a célra gyártott papír.
 
-## Anyaga:
+## 1.4. Sorszám: Egyszer háromkarakteres és egyszer kétkarakteres betűjelből és nyolc számból álló sorszám (XXX0000000XX0).
 
-## Speciális, kizárólag erre a célra gyártott papír.
+## 1.5. Kiszerelési egység: A méretre vágott adójegyek 500-anként szalagozott kötegekben.
 
-## Sorszám:
-
-## Egyszer háromkarakteres és egyszer kétkarakteres betűjelből és nyolc számból álló sorszám (XXX0000000XX0).
-
-## Kiszerelési egység:
-
-## A méretre vágott adójegyek 500-anként szalagozott kötegekben.
-
-## Csomagolási egység:
-
-## Az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelmében kitöltsék.
+## 1.6. Csomagolási egység: Az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelmében kitöltsék.
 
 ## 2. Egyéb fogyasztásidohány-adójegy
 
-## Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a fogyasztási dohány grammban feltüntetett mennyiségét, kiskereskedelmi eladási árát, az adómérték kódját, valamint az „Egyéb fogyasztásidohány-adójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
+## 2.1. Leírása: Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a fogyasztási dohány grammban feltüntetett mennyiségét, kiskereskedelmi eladási árát, az adómérték kódját, valamint az „Egyéb fogyasztásidohány-adójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
 
-## Mérete:
+## 2.2. Mérete: 44 x 20 mm.
 
-## 44 x 20 mm.
+## 2.3. Anyaga: Speciális, kizárólag erre a célra gyártott papír.
 
-## Anyaga:
+## 2.4. Sorszám: Háromszor egykarakteres betűjelből és kilenc számból álló sorszám (X0X0000000X0).
 
-## Speciális, kizárólag erre a célra gyártott papír.
+## 2.5. Kiszerelési egység: A méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
 
-## Sorszám:
-
-## Háromszor egykarakteres betűjelből és kilenc számból álló sorszám (X0X0000000X0).
-
-## Kiszerelési egység:
-
-## A méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
-
-## Csomagolási egység:
-
-## A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelmében kitöltsék.
+## 2.6. Csomagolási egység: A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelmében kitöltsék.
 
 ## 3. Szivaradójegy (a nem darabonként csomagolt szivarra)
 
-## Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a szivar kiskereskedelmi eladási árát, az adómérték kódját, valamint a „Szivaradójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
+## 3.1. Leírása: Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a szivar darabszámát, a szivar kiskereskedelmi eladási árát, az adómérték kódját, valamint a „Szivaradójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
 
-## Mérete:
+## 3.2. Mérete: 44 x 20 mm.
 
-## 44 x 20 mm.
+## 3.3. Anyaga: Speciális, kizárólag erre a célra gyártott papír.
 
-## Anyaga:
+## 3.4. Sorszám: Egyszer kétkarakteres betűjelből és egyszer egykarakteres betűjelből, valamint kilenc számból álló sorszám (0XX0000000X0).
 
-## Speciális, kizárólag erre a célra gyártott papír.
+## 3.5. Kiszerelési egység: A méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
 
-## Sorszám:
-
-## Egyszer kétkarakteres betűjelből és egyszer egykarakteres betűjelből, valamint kilenc számból álló sorszám (0XX0000000X0).
-
-## Kiszerelési egység:
-
-## A méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
-
-## Csomagolási egység:
-
-## A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelemben kitöltsék.
+## 3.6. Csomagolási egység: A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelemben kitöltsék.
 
 ## 4. Szivaradójegy (a darabonként csomagolt szivarra)
 
-## Az adójegy két téglalap alakú füllel ellátott, fekvő ellipszis alakú öntapadós, kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia. Az adójegyen a „Szivaradójegy” szöveg az ellipszis felső vonalán, az adómérték kódja az ellipszis alsó vonalán, míg az ellipszis közepén a sorszám és a kiskereskedelmi eladási ár található.
+## 4.1. Leírása: Az adójegy két téglalap alakú füllel ellátott, fekvő ellipszis alakú öntapadós, kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia. Az adójegyen a „Szivaradójegy” szöveg az ellipszis felső vonalán, az adómérték kódja az ellipszis alsó vonalán, míg az ellipszis közepén a sorszám és a kiskereskedelmi eladási ár található.
 
-## Mérete:
+## 4.2. Mérete: Az adójegy teljes hossza 72 mm, az ellipszis hossza 42 mm, legnagyobb szélessége 18 mm, a fül szélessége 11 mm.
 
-## Az adójegy teljes hossza 72 mm, az ellipszis hossza 42 mm, legnagyobb szélessége 18 mm, a fül szélessége 11 mm.
+## 4.3. Anyaga: Speciális, kizárólag erre a célra gyártott öntapadós hologramfólia.
 
-## Anyaga:
+## 4.4. Sorszám: Egyszer kétkarakteres betűjelből és egyszer egykarakteres betűjelből, valamint kilenc számból álló sorszám (XX00000000X0).
 
-## Speciális, kizárólag erre a célra gyártott öntapadós hologramfólia.
-
-## Sorszám:
-
-## Egyszer kétkarakteres betűjelből és egyszer egykarakteres betűjelből, valamint kilenc számból álló sorszám (XX00000000X0).
-
-## Csomagolási egység:
-
-## 50 darab ív, ívenként 30 darab adójegy, dobozba rakva.
+## 4.5. Csomagolási egység: 50 darab ív, ívenként 30 darab adójegy, dobozba rakva.
 
 ## 5. Szivarka adójegy
 
-## Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a szivarka kiskereskedelmi eladási árát, az adómérték kódját, valamint a „Szivarka adójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
+## 5.1. Leírása: Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a szivarka darabszámát, a szivarka kiskereskedelmi eladási árát, az adómérték kódját, valamint a „Szivarka adójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
 
-## Mérete:
+## 5.2. Mérete: 44 x 20 mm.
 
-## 44 x 20 mm.
+## 5.3. Anyaga: Speciális, kizárólag erre a célra gyártott papír.
 
-## Anyaga:
+## 5.4. Sorszám: Kétszer egykarakteres betűjelből, valamint tíz számból álló sorszám (00X0000000X0).
 
-## Speciális, kizárólag erre a célra gyártott papír.
+## 5.5. Kiszerelési egység: A méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
 
-## Sorszám:
-
-## Kétszer egykarakteres betűjelből, valamint tíz számból álló sorszám (00X0000000X0).
-
-## Kiszerelési egység:
-
-## A méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
-
-## Csomagolási egység:
-
-## A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelemben kitöltsék.
+## 5.6. Csomagolási egység: A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelemben kitöltsék.
 
 ## 6. Finomra vágott fogyasztásidohány-adójegy
 
-## Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a grammban feltüntetett mennyiséget, a kiskereskedelmi eladási árat, az adómérték kódját, valamint a „Finomra vágott fogyasztásidohány-adójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
+## 6.1. Leírása: Az adójegy fekvő téglalap alakú. Az adójegy jobb oldalán Merkur embléma látható. Az adójegy egy sorszámot, a grammban feltüntetett mennyiséget, a kiskereskedelmi eladási árat, az adómérték kódját, valamint a „Finomra vágott fogyasztásidohány-adójegy” szöveget tartalmazza. Az adójegy bal oldali szélén kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia van elhelyezve.
 
-## Mérete:
+## 6.2. Mérete: 44 x 20 mm.
 
-## 44 x 20 mm.
+## 6.3. Anyaga: Speciális, kizárólag erre a célra gyártott papír.
 
-## Anyaga:
+## 6.4. Sorszám: Kétszer egykarakteres betűjelből és tíz számból álló sorszám (X000000000X0).
 
-## Speciális, kizárólag erre a célra gyártott papír.
+## 6.5. Kiszerelési egység: A méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
 
-## Sorszám:
+## 6.6. Csomagolási egység: A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelmében kitöltsék.
 
-## Kétszer egykarakteres betűjelből és tíz számból álló sorszám (X000000000X0).
+4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^68]
 
-## Kiszerelési egység:
-
-## A méretre vágott adójegyek 100-anként vagy 500-anként szalagozott kötegekben.
-
-## Csomagolási egység:
-
-## A 100-as kötegek 5000 darabonként, az 500-as kötegek 25 000 darabonként dobozba rakva oly módon, hogy az adójegyek a dobozt teljes terjedelmében kitöltsék.
-
-4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^71]
-
-[^71]: A 4. számú melléklet a 37/1998. ( XII. 21.) PM rendelet 4. §-ával, 2. számú mellékletével, valamint a 42/2002. (XII. 20.) PM rendelet 3. §-ának (2) bekezdésével módosított szöveg.
+[^68]: A 4. számú melléklet a 37/1998. ( XII. 21.) PM rendelet 4. §-ával, 2. számú mellékletével, valamint a 42/2002. (XII. 20.) PM rendelet 3. §-ának (2) bekezdésével módosított szöveg.

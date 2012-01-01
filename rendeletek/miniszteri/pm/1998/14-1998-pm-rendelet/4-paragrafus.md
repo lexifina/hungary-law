@@ -1,6 +1,6 @@
 ## A dohánygyártmányok adójegyei
 
-4. § (1)[^22] Az adójegyek fajtái:
+4. § (1)[^23] Az adójegyek fajtái:
 
 a) cigaretta adójegy;
 
@@ -18,10 +18,10 @@ f) szivarka adójegy.
 
 (3) Az adójegyeket hamisítás elleni védelemmel kell ellátni. A védelem kialakításánál a Nemzetbiztonsági Szakszolgálat szakvéleményét is figyelembe kell venni.
 
-(4)[^23] A dohánygyártmányok adójegyén az adómérték változást az adómérték hatálybalépésének időpontját jelölő hat numerikus karakterből álló kódszámmal kell jelölni. A hat numerikus karakterből álló kódszám az adómérték hatálybalépése évének utolsó két számjelét, a hatálybalépés hónapjának két számjelét, valamint a hatálybalépés napjának két számjelét tartalmazza (a továbbiakban: adómérték kód).
+(4)[^24] A dohánygyártmányok adójegyén a jövedéki adó vagy az általános forgalmi adó mértékének változását az adómérték hatálybalépésének időpontját jelölő hat numerikus karakterből álló kódszámmal kell jelölni. A hat numerikus karakterből álló kódszám a jövedékiadó- vagy az általánosforgalmiadó-mérték hatálybalépése évének utolsó két számjelét, a hatálybalépés hónapjának két számjelét, valamint a hatálybalépés napjának két számjelét tartalmazza (a továbbiakban: adómérték kód).
 
-(5)[^24] Szivar adójegy a Jöt. 96. § (1) bekezdésének b)–c) pontjában meghatározott dohánygyártmányra, szivarka adójegy a Jöt. 96. § (1) bekezdésének d)–e) pontjában meghatározott dohánygyártmányra helyezhető fel.
+(5)[^25] Szivar adójegy a Jöt. 96. § (1) bekezdésének b)–c) pontjában meghatározott dohánygyártmányra, szivarka adójegy a Jöt. 96. § (1) bekezdésének d)–e) pontjában meghatározott dohánygyártmányra helyezhető fel.
 
-[^22]: A 4. § (1) bekezdése a 30/1999. (XII. 20.) PM rendelet 3. §-ával megállapított szöveg.
-[^23]: A 4. § (4) bekezdését a 16/2004. (IV. 21.) PM rendelet 12. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 29/2007. (XII. 20.) PM rendelet 2. §-a iktatta be.
-[^24]: A 4. § (5) bekezdését a 42/2002. (XII. 20.) PM rendelet 1. §-a iktatta be, szövege a 16/2004. (IV. 21.) PM rendelet 4. §-ával megállapított szöveg.
+[^23]: A 4. § (1) bekezdése a 30/1999. (XII. 20.) PM rendelet 3. §-ával megállapított szöveg.
+[^24]: A 4. § (4) bekezdését a 16/2004. (IV. 21.) PM rendelet 12. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 29/2007. (XII. 20.) PM rendelet 2. §-a iktatta be, szövege az 54/2011. (XII. 29.) NGM rendelet 13. § 3–4. pontja szerint módosított szöveg.
+[^25]: A 4. § (5) bekezdését a 42/2002. (XII. 20.) PM rendelet 1. §-a iktatta be, szövege a 16/2004. (IV. 21.) PM rendelet 4. §-ával megállapított szöveg.

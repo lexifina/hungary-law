@@ -2,94 +2,44 @@
 
 ## 1. Megrendelő adatai
 
-## Adószáma:
+## 1.1. VPID száma:
 
-## VPID száma:
+## 1.2. Adószáma:
 
-## Az adóraktári/bejegyzett/nem bejegyzett kereskedői/jövedéki engedély száma:
+## 1.3. Neve:
 
-## Adóraktári/kereskedői/importőr adójegy-felhasználó megnevezése (neve):
+## 1.4. Székhelye (pontos cím):
 
-## Székhelye (pontos cím):
+## 1.5. Az adóraktári/bejegyzett kereskedői/jövedéki engedély száma:
 
-## Pénzforgalmi jelzőszáma:
+## 1.6. Tevékenységének minősége:
 
-## Telefon- és telefaxszáma:
+## 1.7. Adójegyet felhasználó telephely címe:
 
-## A megrendelt, átvételre kerülő adójegyek tárolásának helye:
+## 1.8. Telefon- és telefaxszáma:
+
+## 1.9. Pénzforgalmi jelzőszáma:
+
+## 1.10. Pénzintézet neve:
+
+## 1.11. Adójegy átvétel kért időpontja
+
+## 1.12. Fizetési mód (átvételt megelőző / halasztott):
 
 ## 2. Adójegy-megrendelés részletezése
 
-## 2.1. Cigaretta-adójegyek
+## 2.1. A dohánygyártmány forgalomba hozatalkori adómérték-kódja;
 
-## kiskereskedelmi eladási ár, darabszám/egyedi fogyasztói csomag, méret szerinti részletezésben:
+## 2.2. A dohánygyártmány adó fajtakódja;
 
-## a) a megrendelt adójegy mennyisége,
+## 2.3. A dohánygyártmány kiskereskedelmi eladási ára;
 
-## b) a megrendelt adójegyeken feltüntetett összes cigarettamennyiség (ezer darabban),
+## 2.4. A dohánygyártmány csomagolási egység;
 
-## c) a megrendelt adójegyeken feltüntetett összes kiskereskedelmi eladási ár (forintban),
+## 2.5. Adójegy fajtája;
 
-## d) a megrendelt adójegyek jövedéki adó értéke a b), c) pont alapján számítva (forintban),
+## 2.6. Adójegy mennyisége;
 
-## e) a megrendelt adójegyek jövedéki adó értéke a Jöt. szerinti legkisebb adómértékkel számítva (forintban),
+3. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^67]
 
-## f) a megrendelt adójegyek általános forgalmi adó értéke (forintban),
-
-## g) a megrendelt adójegyek adóértéke összesen [a d) és e) pont szerinti összegből a nagyobb értéket figyelembe véve] (forintban),
-
-## h) adómérték kód.
-
-## 2.2. Finomra vágott fogyasztásidohány-/Egyéb fogyasztásidohány-adójegyek
-
-## kiskereskedelmi eladási ár/egyedi fogyasztói csomag, gramm/egyedi fogyasztói csomag, méret részletezésben:
-
-## a) megrendelt adójegy mennyisége,
-
-## b) a megrendelt adójegyeken feltüntetett összes kiskereskedelmi eladási ár (forintban),
-
-## c) a megrendelt adójegyeken feltüntetett összes finomra vágott fogyasztásidohány-/egyéb fogyasztásidohány-mennyiség (kilogrammban),
-
-## d) a megrendelt adójegyek jövedéki adó értéke a b) pont alapján számítva (forintban),
-
-## e) a megrendelt adójegyek jövedéki adó értéke a Jöt. szerinti legkisebb adómértékkel számítva (forintban),
-
-## f) a megrendelt adójegyek általános forgalmi adó értéke (forintban),
-
-## g) a megrendelt adójegyek adóértéke összesen [a d) és e) pont szerinti összegből a nagyobb értéket figyelembe véve] (forintban),
-
-## h) adómérték kód.
-
-## 2.3. Egyéb dohánygyártmányok adójegye
-
-## szivarka adójegy, darabonként csomagolt szivaradójegy és nem darabonként csomagolt szivaradójegy szerinti bontásban, ezen belül kiskereskedelmi eladási ár/egyedi fogyasztói csomag, méret részletezésben:
-
-## a) a megrendelt adójegy mennyisége,
-
-## b) a megrendelt adójegyeken feltüntetett összes kiskereskedelmi eladási ár (forintban),
-
-## c) a megrendelt adójegyek jövedéki adó értéke (forintban),
-
-## d) a megrendelt adójegyek általános forgalmi adó értéke (forintban),
-
-## e) a megrendelt adójegyek adóértéke összesen (forintban),
-
-## f) adómérték kód.
-
-## 3. A megrendelt adójegyeket
-
-## a) azok adóértékének előzetes megfizetése mellett,
-
-## b) azok adóértékének megfizetésére adható fizetési halasztás igénybevételével kérem.
-
-## 4. Az adójegyek átvételére kért időpont: (év, hó, nap)
-
-## Dátum:
-
-## ............................................................................................
-
-## kérelmező (adójegy-felhasználó) aláírása
-
-3. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^70]
-
-[^70]: A 3. számú melléklet a 29/2007. (XII. 20.) PM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^67]: A 3. számú melléklet az 54/2011. (XII. 29.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.
