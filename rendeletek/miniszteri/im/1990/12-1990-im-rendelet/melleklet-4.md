@@ -316,40 +316,6 @@
 
 ## II/.../...
 
-4. számú melléklet a 12/1990. (VI. 13.) IM rendelethez[^12]
+4. számú melléklet a 12/1990. (VI. 13.) IM rendelethez[^8]
 
-...................... Megyei (Fővárosi) Bíróság
-
-PK .....................................
-
-KIVONAT
-
-alapítvány bírósági nyilvántartási adatairól
-
-Az alapítvány nyilvántartási száma:
-
-Az alapítvány neve:
-
-Az alapítvány székhelye:
-
-Az alapítvány célja, valamint célja szerinti besorolása:
-
-Az alapítvány közhasznúsági fokozata:
-
-Az alapítvány képviselőjének neve, lakóhelye:
-
-Az alapítvány jogi személyiséggel rendelkező szerve:
-
-Az alapítvány nyilvántartásba vételéről rendelkező jogerős bírósági határozat száma, kelte:
-
-Az alapítvány működésének felfüggesztését/megszűnését elrendelő jogerős bírósági határozat száma, kelte:
-
-Az állami alapító által alapított alapítvány (közalapítvány), illetve állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány (közalapítvány) esetén a kezelő szervezetbe az állami alapító részéről jelölt tag, vagy tagok neve:
-
-A kivonat a fent meghatározott alapítvány 20...... év ............... hó ............. napján hatályos adatairól készült.
-
-Kelt ........., 20..... év ................. hó ............. napján.
-
-Aláírás, bélyegző
-
-[^12]: A 4. számú mellékletet a 35/2004. (XI. 22.) IM rendelet 6. §-ának (1) bekezdése iktatta be, szövege az 1/2011. (I. 14.) KIM rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 5. § (3) bekezdését.
+[^8]: A 4. számú mellékletet a 35/2004. (XI. 22.) IM rendelet 6. §-ának (1) bekezdése iktatta be, hatályon kívül helyezte a 40/2011. (XII. 30.) KIM rendelet 39. § (3) bekezdése.
