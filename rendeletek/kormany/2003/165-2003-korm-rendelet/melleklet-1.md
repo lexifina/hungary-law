@@ -12,7 +12,7 @@
 
 4. A kidolgozott stratégia hatáskör szerint osztja fel a tájékoztatás területét az érintett szervek és szervezetek között országos, ágazati, megyei és létesítményi szinten.
 
-5.[^8] A fentiek mellett a KKB Operatív Törzs Lakossági Tájékoztatási Munkacsoport által irányított és ellenőrzött szervek tájékoztató anyagát ellenőrizni kell az ellentmondások kiszűrése érdekében.
+5.[^8] A fentiek mellett a kormányzati koordinációs szerv munkaszerve Lakossági Tájékoztatási Munkacsoportja által irányított és ellenőrzött szervek tájékoztató anyagát ellenőrizni kell az ellentmondások kiszűrése érdekében.
 
 6. A tájékoztatásnak egyértelmű különbséget kell tennie a közvetlenül, illetve közvetve érintett lakosság között. A nukleáris létesítmény közelében élő lakosság számára nyújtott információknak részletesebbnek kell lennie, az egyértelmű és hatékony tevékenység végrehajtása érdekében.
 
@@ -24,4 +24,4 @@
 
 10. Minden tájékoztatást végző szerv vagy szervezet felelős az általa kiadott tájékoztatás vagy információ hitelességéért.
 
-[^8]: Az 1. számú melléklet 5. pontja a 165/2010. (V. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^8]: A 1. számú melléklet 5. pontja a 234/2011. (XI. 10.) Korm. rendelet 105. § (6) bekezdésével megállapított szöveg.
