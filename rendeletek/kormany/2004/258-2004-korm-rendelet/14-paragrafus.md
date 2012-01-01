@@ -1,8 +1,8 @@
 ## A megyei kistérségi fórum működése
 
-14. § (1)[^21] A megyei kistérségi fórumot a Kormány általános hatáskörű területi államigazgatási szerve a megye területén a megalakítani szükséges, legutolsóként megalakult kistérségi fejlesztési tanács megalakulásától számított 30 napon belül írásban összehívja.
+14. § (1)[^23] A megyei kistérségi fórumot a Kormány általános hatáskörű területi államigazgatási szerve a megye területén a megalakítani szükséges, legutolsóként megalakult kistérségi fejlesztési tanács megalakulásától számított 30 napon belül írásban összehívja.
 
-(2)[^22] A Kormány általános hatáskörű területi államigazgatási szerve a megye területén megalakult kistérségi fejlesztési tanácsok elnökeit és a Tftv. 10/G. §-a szerinti többcélú kistérségi társulások elnökeit az ülésre meghívja. A meghívók elküldése és az alakuló ülés napja között legalább 8 napnak kell lennie.
+(2)[^24] A Kormány általános hatáskörű területi államigazgatási szerve a megye területén megalakult kistérségi fejlesztési tanácsok elnökeit és a Tftv. 10/G. §-a szerinti többcélú kistérségi társulások elnökeit az ülésre meghívja. A meghívók elküldése és az alakuló ülés napja között legalább 8 napnak kell lennie.
 
 (3) A megyei kistérségi fórum a Tftv. 17. §-a (10) bekezdése szerint megválasztja
 
@@ -18,5 +18,5 @@ c) a megyei területfejlesztési tanácsokba a kistérségek képviseletét ell�
 
 (6) A megyei kistérségi fórum tagja a megyei kistérségi fórum (3) bekezdés szerinti döntése ellen a Tftv. 16. §-a (11) bekezdésének b) pontja alapján törvényességi felügyeleti eljárást kezdeményezhet az ülés megtartásától számított 15 napon belül.
 
-[^21]: A 14. § (1) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.
-[^22]: A 14. § (2) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^23]: A 14. § (1) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^24]: A 14. § (2) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.

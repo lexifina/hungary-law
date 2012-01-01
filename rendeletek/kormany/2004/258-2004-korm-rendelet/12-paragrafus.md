@@ -1,6 +1,6 @@
 ## Az egyeztető fórum létrejöttének és működésének szabályai
 
-12. § (1)[^20] E rendelet hatálybalépésétől számított 30 napon belül bejelentkezett és a bejelentkezést követően visszaigazolt szervezeteket az egyeztető fórum megalakítására, valamint
+12. § (1)[^22] E rendelet hatálybalépésétől számított 30 napon belül bejelentkezett és a bejelentkezést követően visszaigazolt szervezeteket az egyeztető fórum megalakítására, valamint
 
 a) az Országos Területfejlesztési Tanács Tftv. 8. §-a (2) bekezdésének ba) és bb) pontjában foglalt szervezetek képviselőinek,
 
@@ -16,4 +16,4 @@ b) a kistérségi fejlesztési tanács Tftv. 10/D. §-a (1) bekezdésének be) p
 
 (5) Az egyeztető fórumok jegyzőkönyveit és kapcsolódó dokumentumokat az adott szintű fejlesztési tanácsok munkaszervezeteinél, míg az országos civil szervezetek esetében a Hivatalnál elkülönítetten kell kezelni és megőrizni.
 
-[^20]: A 12. § (1) bekezdés záró szövegrésze a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^22]: A 12. § (1) bekezdés záró szövegrésze a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.

@@ -46,14 +46,14 @@
 
 ## 2. A szervezet bírósági nyilvántartásba vételéről szóló jogerős bírósági végzésnek az egyszerű másolatát, a szervezet képviselőjének arra irányuló nyilatkozatával (rávezetett záradékával) együtt, hogy a másolati irat az eredetivel mindenben megegyezik.
 
-## 3. A szervezet székhelye szerinti megyei (fővárosi) bíróság által a szervezet hatályos adatairól kiállított 30 napnál nem régebbi kivonatot.
+## 3. A szervezet székhelye szerinti törvényszék által a szervezet hatályos adatairól kiállított 30 napnál nem régebbi kivonatot.
 
 ## A hiányosan, ellentmondásosan kitöltött, avagy mellékletek nélkül megküldött nyilatkozat érvényes bejelentkezésként nem fogadható el.
 
-2. számú melléklet a 258/2004. (IX. 16.) Korm. rendelethez[^27]
+2. számú melléklet a 258/2004. (IX. 16.) Korm. rendelethez[^29]
 
 A Budapesti Agglomerációs Fejlesztési Tanács működési területe által érintett kistérségek
 
 Budaörsi kistérség, Érdi kistérség, Dunakeszi kistérség, Gödöllői kistérség, Gyáli kistérség, Monori kistérség, Pilisvörösvári kistérség, Ráckevei kistérség, Szentendrei kistérség, Váci kistérség, Veresegyházi kistérség.
 
-[^27]: A 2. számú melléklet a 370/2010. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^29]: A 2. számú melléklet a 370/2010. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.

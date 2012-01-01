@@ -4,9 +4,9 @@
 
 (3) Amennyiben a szervezet bejelentkezése hiánypótlást követően a 7–8. §-ban foglalt feltételeknek megfelel, az (1) bekezdésben foglaltak alkalmazandók.
 
-(4)[^16] A fejlesztési tanács elnöke elutasító döntésével szemben a szervezet a Kormány általános hatáskörű területi államigazgatási szervénél a kézhezvételtől számított 8 napon belül kifogást terjeszthet elő törvényességi felügyeleti eljárás lefolytatására.
+(4)[^18] A fejlesztési tanács elnöke elutasító döntésével szemben a szervezet a Kormány általános hatáskörű területi államigazgatási szervénél a kézhezvételtől számított 8 napon belül kifogást terjeszthet elő törvényességi felügyeleti eljárás lefolytatására.
 
-(5)[^17] A Kormány általános hatáskörű területi államigazgatási szervének és a Hivatalnak a (2) bekezdés szerinti elutasító döntésével szemben a szervezet a kézhezvételtől számított 8 napon belül fellebbezést terjeszthet elő, amelyet a Hivatal elnöke bírál el.
+(5)[^19] A Kormány általános hatáskörű területi államigazgatási szervének és a Hivatalnak a (2) bekezdés szerinti elutasító döntésével szemben a szervezet a kézhezvételtől számított 8 napon belül fellebbezést terjeszthet elő, amelyet a Hivatal elnöke bírál el.
 
-[^16]: A 9. § (4) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.
-[^17]: A 9. § (5) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^18]: A 9. § (4) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^19]: A 9. § (5) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 32. pontja szerint módosított szöveg.
