@@ -40,7 +40,11 @@ s) a koncessziós pályázatra kijelölhető ásványi nyersanyag, geotermikus e
 
 t) a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére és hatósági felügyeletére,
 
-u) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatására, tárolásra történő kialakítására, a tárolás engedélyezésére, az üzemeltetésre, az ellenőrzésre, a bezárásra és az azt követő időszak hatósági felügyeletére, a szállítóvezetékekhez és a tárolókhoz való hozzáférésre, valamint a szén-dioxid szállítására és tárolására alkalmas létesítményekkel kapcsolatos, nemzetközi kötelezettségvállaláson alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre
+u) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatására, tárolásra történő kialakítására, a tárolás engedélyezésére, az üzemeltetésre, az ellenőrzésre, a bezárásra és az azt követő időszak hatósági felügyeletére, a szállítóvezetékekhez és a tárolókhoz való hozzáférésre, valamint a szén-dioxid szállítására és tárolására alkalmas létesítményekkel kapcsolatos, nemzetközi kötelezettségvállaláson alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre,
+
+v) az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének eljárására
+
+v) a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljáráshoz kötött építési tevékenységek körére és az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 

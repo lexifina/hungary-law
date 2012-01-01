@@ -12,7 +12,7 @@
 
 4. „Bányászat (bányászati tevékenység)”: ásványi nyersanyagok kutatása, feltárása és kitermelése, az e tevékenységek során keletkező hulladékok kezelése, valamint az ásványvagyon-gazdálkodás. Bányászati tevékenységnek minősül:
 
-a) a kitermelt ásványi nyersanyag helyben végzett előkészítése, osztályozása, a szénhidrogén-bányászatban elsődleges feldolgozása,
+a) a kitermelt ásványi nyersanyag helyben végzett feldolgozása, a szénhidrogén-bányászatban az ásványi nyersanyag továbbfeldolgozásra vagy továbbfelhasználásra való alkalmassá tétele, különösen a propán-bután kinyerés, a gazolin feldolgozás vagy brikettgyártás,
 
 b) a haszonanyagok helyben végzett készletezése,
 
@@ -38,11 +38,11 @@ c) 2. §-ának, 21. § (1) bekezdésének, 28. § (1) bekezdésének, 31–34. �
 
 jogosult személy is.
 
-6. „Előkészítés” a kitermelést közvetlenül követő tevékenység – ideértve az ehhez tartozó zagytározó létesítését, használatát és megszüntetését –, amely magában foglalja az ásványi nyersanyagok üzemi gyűjtését, szállítását, fizikai elválasztását, felaprózását, osztályozását, kioldását és mechanikai fizikai, biológiai, termikus vagy kémiai módszerekkel történő dúsítását, a kőolaj, földgáz tisztítását, szétválasztását, de nem ideértve az olvasztást, a termikus gyártási folyamatokat és a kohászati eljárásokat.
+6. „Feldolgozás”: az ásványi nyersanyagokon – beleértve a külfejtéses bányák működése során – végrehajtott mechanikai, fizikai, biológiai, termikus vagy kémiai eljárás, vagy eljárások összessége, beleértve a méret megváltoztatását, szétválasztását és a kioldást, továbbá az előzőleg elhagyott bányászati hulladék újrafeldolgozását, de nem beleértve az olvasztást, a mészkőégetéstől eltérő termikus gyártási folyamatokat és kohászati eljárásokat.
 
 7. ,,Előkutatás'' az ásványi nyersanyag lelőhely meglétének kimutatására, valamint az ásványi nyersanyag megközelítő elterjedésének, mennyiségének meghatározására irányuló kutatás.
 
-8. ,,Elsődleges feldolgozás'' az előkészítést közvetlenül követően a bányavállalkozó által végzett az a tevékenység, amellyel az előkészített ásványi nyersanyagot továbbfeldolgozásra vagy továbbfelhasználásra alkalmassá teszi (propán-bután kinyerés, gazolin feldolgozás; brikettgyártás stb.).
+8. „Ásványinyersanyag-kitermelő ipar”: minden bányászati tevékenységet és ásványi nyersanyag feldolgozást folytató vállalkozás, vagy ahhoz kapcsolódó létesítmény.
 
 9. ,,Feltárás'' az ásványi nyersanyag kitermelésének megkezdésére irányuló bányászati tevékenység.
 
@@ -136,7 +136,7 @@ A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a száll
 
 38. Nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén”: az olyan szénhidrogén, amelyet a szénhidrogén-képződés feltételeit biztosító üledékes anyakőzet pórusaiban létrejött szénhidrogén felhalmozódásból, rendkívül gyenge áteresztőképességű tároló rétegekből, valamely egyedi eljárással, többnyire rétegserkentési vagy a szilárdásvány-bányászatban alkalmazott bányászati technológia alkalmazásával lehet csak kitermelni.
 
-39. Egyéb gázok és termékei vezetéke”: tartozékaival és alkotórészeivel együtt az a szállító-, elosztó csővezeték, amely a földgázon kívüli egyéb gázt, fluidumot vagy ezek termékeit a termelés (előkészítés, gyártás, tárolás) kiadó pontjától (előkészítő üzem, feldolgozóüzem), indító állomásától, illetve az országhatár átlépésétől a felhasználás (lakótelepülés, ipari létesítmény), feldolgozás átadó állomásáig, illetve az országhatárig szállítja.
+39. „Egyéb gázok és gáztermékek vezetéke”: tartozékaival és alkotórészeivel együtt az a csővezeték, amely a földgázon kívüli egyéb gázt, fluidumot vagy gázterméket a termelés (előkészítés, gyártás, tárolás) kiadó pontjától (előkészítő üzem, feldolgozóüzem), indító állomásától, vagy az országhatár átlépésétől a felhasználás (lakótelepülés, ipari létesítmény), feldolgozás átadó állomásáig, az együttműködő földgáz rendszerhez történő csatlakozási pontig, vagy az országhatárig szállítja.
 
 A vezetékek alkotórészei:
 
@@ -152,8 +152,20 @@ A vezetékek alkotórészei:
 
 42. „Geotermikus energia hasznosítása”: azon tevékenység, amely során a kinyert geotermikus energia felhasználásra kerül.
 
-43. „Bányászati hulladék”: a bányászati tevékenység során keletkező hulladék, valamint a bauxit feldolgozása során keletkező vörösiszap.
+43. „Bányászati hulladék”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék, a nem közvetlenül ezen tevékenységekből származó hulladékok kivételével.
 
 44. „Gázüzemi tevékenység”: a földgázszállító-, elosztó vezeték és föld alatti földgáztároló engedélyes által végzett tervezése, építése, üzembe helyezése, üzemeltetése (ellenőrzés, karbantartás, üzemzavar elhárítás, javítás), felhagyása és elbontása, valamint a tervezés, létesítés, üzemeltetés felügyelete.
 
 45. „energetikai és ipari eredetű szén-dioxid föld alatti tárolóhely”: egy földtani szerkezetnek az energetikai és ipari eredetű szén-dioxid föld alatti tárolására használt, meghatározott kiterjedésű térrésze, az ehhez kapcsolódó felszíni és besajtoló berendezésekkel együtt.
+
+46. Biztosítással járó jogviszony:
+
+a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
+
+b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
+
+c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony.
+
+46. „Bányászati hulladékkezelés”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék – kivéve a nem közvetlenül ezen tevékenységekből származó hulladék – hulladékkezelő létesítményben történő gyűjtése és tárolása, valamint a hulladék keletkezési helyétől a hulladékkezelő létesítményig történő szállítása.
+
+47. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.

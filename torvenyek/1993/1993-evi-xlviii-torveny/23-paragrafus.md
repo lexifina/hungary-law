@@ -4,6 +4,6 @@
 
 (2) Az ásványi nyersanyag feltárását és kitermelését, valamint a meddőhányó hasznosítását a bányafelügyelet a műszaki üzemi terv (27. §) jóváhagyásával engedélyezi. A meddőhányóból történő ásványi nyersanyag kitermelésre a külfejtéssel történő kitermelés szabályait kell alkalmazni.
 
-(3) A bányavállalkozó a koncessziós szerződésben vagy a bányászatra kiadott hatósági engedélyben meghatározott területen és feltételek szerint kizárólag jogosult az ásványvagyon feltárására, kitermelésére, előkészítésére, elsődleges feldolgozására, felhasználására, értékesítésére és e tevékenységekhez szükséges létesítmények elhelyezésére, továbbá a szerződésben vagy a hatósági engedélyben meghatározott létesítmények használatára.
+(3) A bányavállalkozó a koncessziós szerződésben vagy a bányászatra kiadott hatósági engedélyben meghatározott területen és feltételek szerint kizárólag jogosult a bányászati tevékenység végzésére és a haszonanyag értékesítésére és e tevékenységekhez szükséges létesítmények elhelyezésére, továbbá a szerződésben vagy a hatósági engedélyben meghatározott létesítmények használatára.
 
 (4)

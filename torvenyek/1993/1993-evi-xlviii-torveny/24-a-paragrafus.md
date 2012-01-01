@@ -8,4 +8,4 @@
 
 (5) A (3) bekezdés szerinti esetben, ha a szerződéssel le nem kötött, és a szerződéssel lekötött, de fel nem használt kapacitásokat meghaladó igények merülnek fel, a kapacitásokat – a (3) bekezdésben foglaltakra figyelemmel – az igényelt mennyiségek arányában kell értékesíteni.
 
-(6) Jogszabállyal kihirdetett nemzetközi szerződés rendelkezése esetén a (3)–(5) bekezdés szerint kell eljárni a részes fél területén bekövetkező, a szerződésben meghatározott kőolaj- és kőolajtermék-ellátási válsághelyzetben, a válsághelyzet beálltáról szóló szerződés szerinti értesítést követően.
+(6) Jogszabállyal kihirdetett nemzetközi szerződés rendelkezése esetén a (3)–(5) bekezdés szerint kell eljárni a részes fél területén bekövetkező, a szerződésben meghatározott kőolaj- és kőolajtermék-ellátási válsághelyzetben, a válsághelyzet beálltáról szóló szerződés szerinti értesítést követően azzal, hogy a szerződéssel lekötött, de fel nem használt kapacitásokat a tényleges szállítást igénylők részére kell felajánlani kivéve, ha a kőolaj- és kőolajtermék-ellátási válsághelyzet Magyarország területén is bekövetkezik.

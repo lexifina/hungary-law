@@ -36,6 +36,6 @@ gyakorolja.
 
 (7) A bányavállalkozó bányászati tevékenységből eredő kötelezettségei teljesítésének pénzügyi fedezetére a miniszter a koncessziós szerződésben, a bányafelügyelet az engedélyben a bányavállalkozó ajánlata figyelembevételével biztosítási szerződés megkötését vagy biztosíték adását írja elő. E pénzügyi fedezetnek ki kell terjednie a bányakárok megtérítésére, valamint a tájrendezési kötelezettség teljesítésére – ideértve a hulladékkezelő létesítmények környezeti kárait és rehabilitációs munkálatait – is. Ha a bányavállalkozó a megadott határidőre e kötelezettségének nem tesz eleget, a bányafelügyelet – a kötelezettség teljesítéséig – a bányászati tevékenység megkezdését vagy folytatását felfüggesztheti.
 
-(8) A meg nem fizetett bányajáradékot, bírságot és felügyeleti díjat, valamint ezek késedelmi kamatait adók módjára kell behajtani.
+(8) A meg nem fizetett bányajáradékot és felügyeleti díjat, valamint ezek késedelmi kamatait adók módjára kell behajtani.
 
 (9) Amennyiben a (4)–(5) bekezdésben foglalt eljárások során a bányafelügyelet megállapítja, hogy az ügy más hatóság hatáskörébe is tartozik, haladéktalanul köteles tájékoztatni a hatáskörrel rendelkező hatóságot.

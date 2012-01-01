@@ -8,7 +8,7 @@
 
 (4) A földgázszállító-, -elosztóvezetékhez és a föld alatti gáztárolókhoz való szabad hozzáférésre külön törvény rendelkezései az irányadók.
 
-(5) A kőolaj- és földgáztermelésben, előkészítésben és feldolgozásban használt mezők közötti technológiai csővezetékek, a kapcsolódó gázüzemi és tároló létesítmények valamint a kőolaj szállítóvezetékek és tárolók szabad kapacitásának belföldi kitermelésű szénhidrogének szállítása, illetve tárolása céljára történő rendelkezésre bocsátása külön jogszabályban előírható. A hozzáférés akkor adható meg, ha
+(5) A kőolaj- és földgázbányászatban használt mezők közötti technológiai csővezetékek, a kapcsolódó gázüzemi és tároló létesítmények valamint a kőolaj szállítóvezetékek és tárolók szabad kapacitásának belföldi kitermelésű szénhidrogének szállítása, illetve tárolása céljára történő rendelkezésre bocsátása külön jogszabályban előírható. A hozzáférés akkor adható meg, ha
 
 a) az igény kielégítésére alkalmas szabad kapacitás rendelkezésre áll, és
 

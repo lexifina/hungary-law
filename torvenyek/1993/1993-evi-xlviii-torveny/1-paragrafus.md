@@ -16,7 +16,7 @@ d) a megszűnt föld alatti bányák nyitvamaradó térségeinek fenntartása, h
 
 e) más törvény hatálya alá nem tartozó, nem bányászati célt szolgáló, bányászati módszerekkel végzett föld alatti tevékenységek (aknamélyítés, mélyfúrás, alagút- és vágathajtás),
 
-f) a szénhidrogén-termelésben, -előkészítésben és az elsődleges feldolgozásban használt technológiai létesítmény, csővezeték, a szénhidrogén szállító-, a földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékei vezetékeinek létesítése, használatba vétele, műszaki üzemeltetése, felhagyása, elbontása,
+f) a szénhidrogén-bányászatban használt technológiai létesítmény, a csővezeték, a szénhidrogén szállító-, a földgázelosztó- és célvezeték, valamint az egyéb gázok és gáztermékek vezetékeinek létesítése, használatba vétele, műszaki üzemeltetése, felhagyása, elbontása;
 
 g) szénhidrogének tárolására alkalmas földtani szerkezetek kiképezése és tárolásra történő hasznosítása;
 
