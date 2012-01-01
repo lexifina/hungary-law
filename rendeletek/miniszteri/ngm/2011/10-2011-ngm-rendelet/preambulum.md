@@ -1,1 +1,0 @@
-A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 342. §-ának (2) bekezdésének 15. pontjában kapott felhatalmazás alapján, a kormányhivatalokat felügyelő miniszterek kijelöléséről szóló 5/2010. (XII. 23.) ME rendelet 1. § e) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
