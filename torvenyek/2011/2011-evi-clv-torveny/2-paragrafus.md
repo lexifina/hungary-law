@@ -26,10 +26,10 @@ g) egyéni cég.
 
 a) a büntetés-végrehajtásnál a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezet,
 
-b) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eü. tv.) 3. § f) pontjában meghatározott egészségügyi szolgáltató – feltéve, hogy az egészségbiztosítási szervvel szerződést kötött és nem költségvetési szervként működik – az egészségügyi közszolgáltatás ellátásával összefüggésben őt terhelő egészségbiztosítási- és munkaerő-piaci járulékalap után,
+b) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eü. tv.) 3. § f) pontjában meghatározott egészségügyi szolgáltató – feltéve, hogy az egészségbiztosítási szervvel szerződést kötött és nem költségvetési szervként működik – az egészségügyi közszolgáltatás ellátásával összefüggésben őt terhelő szociális hozzájárulási adóalap után,
 
-c) az egyéni vállalkozó az egészségbiztosítási- és munkaerő-piaci járulékalapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő egészségbiztosítási- és munkaerő-piaci járulék alapját,
+c) az egyéni vállalkozó a szociális hozzájárulási adóalapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő szociális hozzájárulási adó alapját,
 
-d) az egyéni cég, végrehajtó iroda, szabadalmi ügyvivő iroda, ügyvédi iroda, közjegyzői iroda tevékenységében a személyesen közreműködő tag az egészségbiztosítási- és munkaerő-piaci járulékalapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő egészségbiztosítási- és munkaerő-piaci járulék alapját, valamint
+d) az egyéni cég, végrehajtó iroda, szabadalmi ügyvivő iroda, ügyvédi iroda, közjegyzői iroda tevékenységében a személyesen közreműködő tag a szociális hozzájárulási adóalapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő szociális hozzájárulási adó alapját, valamint
 
-e) a közhasznú nonprofit gazdasági társaság a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenység ellátásával összefüggésben a társaságot terhelő egészségbiztosítási- és munkaerő-piaci járulék alapja után.
+e) a közhasznú nonprofit gazdasági társaság a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenység ellátásával összefüggésben a társaságot terhelő szociális hozzájárulási adó alapja után.

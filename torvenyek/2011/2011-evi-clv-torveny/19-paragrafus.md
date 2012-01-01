@@ -4,7 +4,7 @@
 
 a) a térségi integrált szakképző központ iskolai rendszerű szakképzést folytató intézményeiben,
 
-b) a szakképzésért és felnőttképzésért felelős miniszterrel szakképzési feladatellátásra megállapodással rendelkező szakképzést folytató intézményben,
+b) a szakképzésről szóló törvényben meghatározott szakképzési megállapodással rendelkező szakképzést folytató intézményben,
 
 c) a speciális szakiskolában és készségfejlesztő speciális szakiskolában,
 

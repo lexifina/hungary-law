@@ -1,4 +1,4 @@
-22. § (1) A hozzájárulásra kötelezett az alaprészből a 19. § (1) bekezdése alapján pályázat útján kapott beruházási célú támogatást a tőketartalékba helyezi, majd azt lekötött tartalékként mutatja ki. A lekötött tartalékba helyezés időtartamáról a támogatási szerződésben kell rendelkezni.
+22. § (1) A hozzájárulásra kötelezett az alaprészből a 14. § b) és c) pontja szerint a Kormány egyedi döntésén alapuló támogatást, valamint a 19. § (1)–(3) bekezdése alapján pályázat útján kapott beruházási célú támogatást a tőketartalékba helyezi, majd azt lekötött tartalékként mutatja ki. A lekötött tartalékba helyezés időtartamáról a támogatási szerződésben kell rendelkezni.
 
 (2) Az alaprészből kapott beruházási célú támogatásból vásárolt és a támogatással létrehozott ingatlanra legalább tízéves időtartamra jelzálogjogot, valamint elidegenítési és terhelési tilalmat kell bejegyezni a támogatást nyújtó szerv javára a támogatás mértékéig. A jelzálogjog megszűnésének feltételeiről a támogatási szerződésben kell rendelkezni.
 
