@@ -1,4 +1,4 @@
-29. § (1) E törvény hatálybalépését követően a hatálya alá tartozó tevékenységet folytatni kívánó természetes vagy jogi személy – a (3)–(4) bekezdésben foglalt kivételekkel – a tevékenység megkezdésével egyidejűleg ezt köteles bejelenteni az egészségügyi államigazgatási szervnek.
+29. § (1) Az e törvény hatálya alá tartozó tevékenységet folytatni kívánó természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező szervezet – a (3) és (4) bekezdésben foglalt kivételekkel – a tevékenység megkezdésével egyidejűleg ezt köteles bejelenteni az egészségügyi államigazgatási szervnek. A bejelentést az egészségügyért felelős miniszter rendeletében meghatározottak szerint, elektronikus úton kell megtenni a telephely, illetve ennek hiánya esetén a székhely szerint illetékes egészségügyi államigazgatási szervnek.
 
 (2) A bejelentést meg kell ismételni a bejelentő, illetőleg a bejelentett tevékenység azonosításához szükséges bármely adat megváltozása esetén.
 

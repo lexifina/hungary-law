@@ -10,7 +10,9 @@ b) a kémiai terhelési bírság alkalmazásának
 
 c) a veszélyes anyagokkal és készítményekkel kapcsolatos egyes tevékenységek gyakorlásához, valamint a veszélyes anyagokkal és készítményekkel folytatott tevékenységekkel kapcsolatos kockázat-becslés végzéséhez szükséges feltételek, ideértve a képesítési feltételeket is,
 
-d) a mosó- és tisztítószerekről szóló 648/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának
+d) a mosó- és tisztítószerekről szóló 648/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának,
+
+e) a veszélyes anyagok és a veszélyes keverékek környezetkárosító és -szennyező hatásai megelőzésének
 
 részletes szabályait rendeletben meghatározza.
 
@@ -56,7 +58,7 @@ i) az egészségügyért felelős miniszter, hogy az adópolitikáért felelős 
 
 j) a környezetvédelemért felelős miniszter, hogy
 
-ja) a veszélyes anyagok, illetve a veszélyes keverékek, valamint a veszélyes anyagot tartalmazó hulladékok környezetkárosító és -szennyező hatásainak megelőzését,
+ja)
 
 jb) a környezetbe kerülő, szennyezést okozó veszélyes anyagok nyilvántartásának rendjét,
 
