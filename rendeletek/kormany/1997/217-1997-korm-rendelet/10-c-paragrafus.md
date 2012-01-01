@@ -1,4 +1,4 @@
-10/C. §[^129] (1) Az OEP a honlapján folyamatosan közzéteszi a támogatott gyógyszerek, gyógyászati segédeszközök és gyógyászati ellátások tárgyában megkötött, és hatályos támogatásvolumen-szerződések következő tartalmi elemeit:
+10/C. §[^127] (1) Az OEP a honlapján folyamatosan közzéteszi a támogatott gyógyszerek, gyógyászati segédeszközök és gyógyászati ellátások tárgyában megkötött, és hatályos támogatásvolumen-szerződések következő tartalmi elemeit:
 
 a) a szerződő felek megnevezése, a szerződés tárgyát képező termékek neve,
 
@@ -8,11 +8,12 @@ c) gyógyszer esetén a szerződés által érintett indikációs pont (Eü. pon
 
 d) a szerződésben megjelölt befizetés megállapításának a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 26. § (5) bekezdése szerinti módja,
 
-e)[^130]
+e)[^128]
 
 (2) A közzétételi kötelezettség a szerződés időbeli hatályának lejártát követő második hónap utolsó napjáig áll fenn.
 
-(3) A Gyftv. 26. § (5) bekezdés c) pontja szerinti esetben – a szerződő felek eltérő megállapodása hiányában – a terápiaeredményességi mutatók számításához, illetve teljesülésük nyomon követéséhez az OEP adattárházában szereplő finanszírozási adatokat kell alapul venni.
+(3)[^129] A Gyftv. 26. § (5) bekezdés c) pontja szerinti esetben – a szerződő felek eltérő megállapodása hiányában – a terápiaeredményességi és beteg-együttműködési mutatók számításához, illetve teljesülésük nyomon követéséhez az OEP adattárházában és a Betegségregiszterben szereplő finanszírozási adatokat kell alapul venni.
 
-[^129]: A Vhr. 10/C. §-át a 295/2002. (XII. 27.) Korm. rendelet 11. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^130]: A Vhr. 10/C. § (1) bekezdés e) pontját a 151/2010. (IV. 30.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^127]: A Vhr. 10/C. §-át a 295/2002. (XII. 27.) Korm. rendelet 11. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^128]: A Vhr. 10/C. § (1) bekezdés e) pontját a 151/2010. (IV. 30.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^129]: A Vhr. 10/C. § (3) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

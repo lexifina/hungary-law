@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-1. § (1)[^1] E rendelet hatálya kiterjed a biztosítottakra, az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP), a fővárosi és megyei kormányhivatalok egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szerveire (a továbbiakban: egészségbiztosítási szakigazgatási szerv), továbbá a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra, gyógyszert és gyógyászati segédeszközt forgalmazó, illetve kiszolgáltató, gyógyászati ellátást nyújtó szolgáltatókra, valamint a biztosított foglalkoztatójára, és annak kifizetőhelyére.
+1. § (1)[^1] E rendelet hatálya kiterjed a biztosítottakra, az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP), a fővárosi és megyei kormányhivatalok egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szerveire (a továbbiakban: egészségbiztosítási szakigazgatási szerv), továbbá a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra, gyógyszert és gyógyászati segédeszközt forgalmazó, illetve kiszolgáltató, gyógyászati ellátást nyújtó egészségügyi szolgáltatókra, a gyógyászati segédeszközt egyedi méretvétel alapján gyártó – egészségügyi szolgáltatónak nem minősülő – személyekre, továbbá a biztosított foglalkoztatójára, és annak kifizetőhelyére.
 
 (2)[^2] E rendelet alkalmazásában
 
@@ -48,7 +48,7 @@ l)[^13] kombinált kiszerelés: olyan gyógyászati segédeszköz, amely úgy j�
 
 (10)[^21]
 
-[^1]: A Vhr. 1. § (1) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: A Vhr. 1. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A Vhr. 1. §-ának (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A Vhr. 1. § (2) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^4]: A Vhr. 1. § (2) bekezdésének c) pontját a 360/2008. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.

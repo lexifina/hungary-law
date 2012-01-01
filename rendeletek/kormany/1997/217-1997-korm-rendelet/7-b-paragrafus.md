@@ -1,4 +1,4 @@
-7/B. §[^104] (1) Azokban a támogatási csoportokban, amelyekben az OEP a 7/A. § (3) bekezdés a) vagy b) pontja szerinti támogatási technikákat alkalmazza, a következő támogatási mértékek alkalmazhatók:
+7/B. §[^100] (1)[^101] Azokban a támogatási csoportokban, amelyekben az OEP a 7/A. § (3) bekezdés a) vagy b) pontja szerinti támogatási technikákat alkalmazza, a következő támogatási mértékek alkalmazhatók:
 
 a) 98%-os támogatási mérték,
 
@@ -8,9 +8,13 @@ c) 80%-os támogatási mérték,
 
 d) 70%-os támogatási mérték,
 
-e) 50%-os támogatási mérték vagy
+e) 60%-os támogatási mérték,
 
-f) 0%-os támogatási mérték.
+f) 50%-os támogatási mérték,
+
+g) 45%-os támogatási mérték, vagy
+
+h) 0%-os támogatási mérték.
 
 (2) Az eszköz árához nyújtott támogatás összege a 7/A. § (3) bekezdés a) pontja szerinti, százalékos mértékű támogatásban részesített támogatási csoportban az eszköz közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
 
@@ -38,7 +42,8 @@ b) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinansz
 
 c) azon eszköz esetében, amelynek az OEP határozatában szereplő közfinanszírozás alapjául elfogadott kölcsönzési napidíja a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
 
-(6)[^105] A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök külön-külön vett támogatási összegeinek számtani összegét nem haladhatja meg.
+(6)[^102] A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök külön-külön vett támogatási összegeinek számtani összegét nem haladhatja meg.
 
-[^104]: A Vhr. 7/B. §-át a 111/2000. (VI. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^105]: A Vhr. 7/B. § (6) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^100]: A Vhr. 7/B. §-át a 111/2000. (VI. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^101]: A Vhr. 7/B. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^102]: A Vhr. 7/B. § (6) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.

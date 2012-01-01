@@ -1,4 +1,3 @@
-10/D. §[^131] A gyógyszerek és gyógyászati segédeszközök közbeszerzésének részletes és sajátos szabályairól szóló kormányrendelet[^132] alapján beszerzésre kerülő gyógyszerek esetében a közfinanszírozás alapjául elfogadott ár a közbeszerzési eljárás során kerül meghatározásra.
+10/D. §[^130] A gyógyszerek és gyógyászati segédeszközök közbeszerzésének részletes és sajátos szabályairól szóló kormányrendelet alapján beszerzésre kerülő gyógyszerek és gyógyászati segédeszközök esetében a közfinanszírozás alapjául elfogadott ár a közbeszerzési eljárás során kerül meghatározásra.
 
-[^131]: A Vhr. 10/D. §-át a 91/2004. (IV. 26.) Korm. rendelet 8. §-a iktatta be, szövegét újonnan a 67/2005. (IV. 13.) Korm. rendelet 3. § (2) bekezdésének a) pontja állapította meg.
-[^132]: Lásd a 130/2004. (IV. 29.) Korm. rendeletet.
+[^130]: A Vhr. 10/D. §-át a 91/2004. (IV. 26.) Korm. rendelet 8. §-a iktatta be, szövege a 325/2011. (XII. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
