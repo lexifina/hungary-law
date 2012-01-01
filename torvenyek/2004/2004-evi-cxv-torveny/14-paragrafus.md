@@ -5,3 +5,5 @@
 (3) A lakásszövetkezet házirendje tartalmazza az épület közös használatra szolgáló területei és helyiségei használatára vonatkozó részletes szabályokat is.
 
 (4) A házirend szabályait – a használat jogcímétől függetlenül – a lakás és a nem lakás céljára szolgáló helyiség mindenkori használója köteles betartani.
+
+(5) A házirend – az összes lakásszövetkezeti tag szavazatának legalább négyötödös többségével megállapított – eltérő rendelkezése hiányában tilos dohányozni a lakásszövetkezeti lakóépület közös használatra szolgáló, zárt légterű épületrészeiben, területein, illetve helyiségeiben.

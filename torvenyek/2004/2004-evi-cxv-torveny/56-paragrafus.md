@@ -40,4 +40,6 @@
 
 8. Beszámoló: a számviteli szabályok szerint elkészített beszámoló.
 
+9. nyugdíjszerű ellátás: a korhatár előtti ellátás, a szolgálati járandóság és az átmeneti bányászjáradék, továbbá mindaz az ellátás, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik, vagy amely ellátást a nyugdíjemelésre vonatkozó rendelkezések szerint kell emelni.
+
 (2) A számvitelről szóló törvény alkalmazása során a lakásszövetkezet küldöttgyűlésének döntését a közgyűlés döntésével azonos módon kell figyelembe venni.
