@@ -8,7 +8,7 @@ b) koordinálja a postai ágazattal kapcsolatos polgári, kormányzati, nemzetbi
 
 c) kijelöli a védelmi feladatok ellátásában részt vevő postai szolgáltatót, meghatározza a veszélyeztetettségi és minősített időszaki helyzetekre történő felkészüléssel kapcsolatos feladatokat;
 
-d) irányítja a postaszolgálattal összefüggő nemzetközi feladatok ellátását, előkészíti a Kormány postai ágazattal kapcsolatos nemzetközi tevékenységét, gondoskodik a nemzetközi kötelezettségek végrehajtásáról, ellátja a Magyar Köztársaság képviseletét a postai ágazattal kapcsolatos nemzetközi szervezetekben, továbbá olyan nemzetközi együttműködési megállapodásokat köt, amelyek nem tartoznak az Országgyűlés vagy a Kormány hatáskörébe;
+d) irányítja a postaszolgálattal összefüggő nemzetközi feladatok ellátását, előkészíti a Kormány postai ágazattal kapcsolatos nemzetközi tevékenységét, gondoskodik a nemzetközi kötelezettségek végrehajtásáról, ellátja Magyarország képviseletét a postai ágazattal kapcsolatos nemzetközi szervezetekben, továbbá olyan nemzetközi együttműködési megállapodásokat köt, amelyek nem tartoznak az Országgyűlés vagy a Kormány hatáskörébe;
 
 e) részt vesz – külön jogszabályok alapján – a postai ágazat nemzetbiztonsági és védelmi jellegű feladatainak végrehajtásában;
 

@@ -10,7 +10,7 @@ oly módon kell ellátnia, hogy az – a jogszabályban meghatározott kivétele
 
 a) az egyetemes postai szolgáltatást végző működési körén kívül eső elháríthatatlan ok (vis maior) esetén,
 
-b) a Magyar Köztársaság honvédelmi, nemzetbiztonsági, közegészségügyi és közbiztonsági érdekeinek védelmében,
+b) Magyarország honvédelmi, nemzetbiztonsági, közegészségügyi és közbiztonsági érdekeinek védelmében,
 
 a jogszabályok által előírt módon.
 

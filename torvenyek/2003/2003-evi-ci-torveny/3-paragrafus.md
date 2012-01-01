@@ -34,7 +34,7 @@
 
 14. Könyvelt küldemény: olyan postai küldemény, amelynek felvételét a postai szolgáltató írásban elismeri és kézbesítését a címzett, illetve az egyéb jogosult átvevő aláírásával vagy más módon okirattal kimutatja.
 
-15. Minősített időszak: az az időszak, amely az Alkotmány alapján rendkívüli állapotnak, szükségállapotnak vagy veszélyhelyzetnek minősül.
+15. Minősített időszak: az az időszak, amely az Alaptörvény alapján rendkívüli állapotnak, szükségállapotnak vagy veszélyhelyzetnek minősül.
 
 16. Postabélyeg: az egyetemes postai szolgáltató által kibocsátott, a postai küldemények bérmentesítési díjának lerovására használható postai értékcikk, amely tartalmazza a ,,Magyarország'' vagy ,,Magyar Posta'' –, illetve ezek idegen nyelvű fordításának megfelelő – feliratot, és utal a bérmentesítés díjára.
 
@@ -100,7 +100,7 @@ b) címzett részére érkezett postai küldeményeket a címzettől kapott megh
 
 36. Vakok írását tartalmazó küldemény: kizárólag a vakok használatára szolgáló, dombornyomású írásokat, véseteket, hangfelvételeket, különleges papírokat vagy mágneslemezeket és egyéb információhordozókat tartalmazó postai küldemény, amelynek feladója vagy címzettje vak személy, illetőleg a vakok hivatalosan elismert intézete.
 
-37. Veszélyeztetettségi időszak: a minősített időszak kihirdetését közvetlenül megelőző – annak várható bekövetkezését feltételező – állapot (helyzet), amely a kialakult veszélyeztetettségi körülmények alapján hátrányos hatást gyakorol az ország biztonságára, stabilitására, alkotmányos rendjére, a rend- és közbiztonságra, a lakosság élet- és vagyonbiztonságára, a természetes és épített környezetre, és ami miatt rendkívüli kormányzati intézkedések megtétele, gazdasági, pénzügyi erőforrások tervszerű megteremtése szükséges.
+37. Veszélyeztetettségi időszak: a minősített időszak kihirdetését közvetlenül megelőző – annak várható bekövetkezését feltételező – állapot (helyzet), amely a kialakult veszélyeztetettségi körülmények alapján hátrányos hatást gyakorol az ország biztonságára, stabilitására, törvényes rendjére, a rend- és közbiztonságra, a lakosság élet- és vagyonbiztonságára, a természetes és épített környezetre, és ami miatt rendkívüli kormányzati intézkedések megtétele, gazdasági, pénzügyi erőforrások tervszerű megteremtése szükséges.
 
 38. Posta Elszámoló Központ: egyetemes postai szolgáltató által lebonyolított pénzforgalmi szolgáltatások feldolgozását, pénzforgalmi szolgáltatókkal történő elszámolását, valamint fizetési rendszeren keresztüli pénzügyi rendezését végző a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) szerinti fizetési rendszer működtetőjének nem minősülő szervezet.
 

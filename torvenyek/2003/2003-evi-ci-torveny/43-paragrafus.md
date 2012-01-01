@@ -4,7 +4,7 @@
 
 a) kialakítja a nemzeti postapolitikát, a postai tevékenységek és a szolgáltatások alapvető elveit és feltételeit, valamint a postai infrastruktúra fejlesztésére irányuló állami programokat;
 
-b) megköti a postaszolgálattal összefüggő nemzetközi szerződéseket, gondoskodik a Magyar Köztársaság képviseletéről a postaszolgálattal kapcsolatos különböző nemzetközi szervezetekben;
+b) megköti a postaszolgálattal összefüggő nemzetközi szerződéseket, gondoskodik Magyarország képviseletéről a postaszolgálattal kapcsolatos különböző nemzetközi szervezetekben;
 
 c) gondoskodik – a fogyasztóvédelemért felelős miniszteren keresztül – a fogyasztói érdekek érvényre juttatásáról;
 

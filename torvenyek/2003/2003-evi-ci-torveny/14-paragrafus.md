@@ -1,6 +1,6 @@
 ## A postai szolgáltatási szerződés
 
-14. § (1) A postai szolgáltatási szerződésre a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) szerződésekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+14. § (1) A postai szolgáltatási szerződésre a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) szerződésekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
 
 (2) E törvényben foglaltaktól a postai szolgáltató az általános szerződési feltételeiben (a továbbiakban: üzletszabályzat) csak akkor térhet el, ha e törvény az eltérést megengedi. Ez a rendelkezés nem zárja ki azt, hogy a postai szolgáltató az üzletszabályzatában olyan szolgáltatásokat és különszolgáltatásokat is meghirdessen, amelyeket e törvény nem szabályoz.
 

@@ -1,6 +1,6 @@
 ## Személyes adatok védelme, titokvédelmi kötelezettség
 
-30. § (1) A postai szolgáltató a postai szolgáltatás teljesítésével kapcsolatos, illetve a szolgáltatás teljesítése során tudomására jutott adatokat – a (2)–(6) bekezdésben foglalt eltérésekkel – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben foglaltak figyelembevételével kezelheti, dolgozhatja fel és továbbíthatja.
+30. § (1) A postai szolgáltató a postai szolgáltatás teljesítésével kapcsolatos, illetve a szolgáltatás teljesítése során tudomására jutott adatokat – a (2)–(6) bekezdésben foglalt eltérésekkel – az információs önrendelkezési jogról és az információszabadságról szóló törvényben foglaltak figyelembevételével kezelheti, dolgozhatja fel és továbbíthatja.
 
 (2) A postai szolgáltató az általa továbbított küldemény tartalmát csak a szolgáltatás teljesítéséhez szükséges mértékben ismerheti meg.
 
