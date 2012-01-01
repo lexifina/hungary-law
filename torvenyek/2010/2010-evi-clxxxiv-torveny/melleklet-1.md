@@ -1,8 +1,8 @@
 1. melléklet a 2010. évi CLXXXIV. törvényhez
 
-A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illetékességi területe
+A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetékességi területe
 
-1. FŐVÁROSI BÍRÓSÁG (székhelye: Budapest)
+1.  Fővárosi Törvényszék (székhelye: Budapest)
 
 1/1. Pesti Központi Kerületi Bíróság
 
@@ -132,7 +132,7 @@ Főváros területe
 
 |
 
-2. BARANYA MEGYEI BÍRÓSÁG (székhelye: Pécs)
+2.  Pécsi Törvényszék (székhelye: Pécs)
 
 2/1. Pécsi Városi Bíróság
 
@@ -1368,7 +1368,7 @@ Baranya megye
 
 |
 
-3. BÁCS-KISKUN MEGYEI BÍRÓSÁG (székhelye: Kecskemét)
+3.  Kecskeméti Törvényszék (székhelye: Kecskemét)
 
 3/1. Kecskeméti Városi Bíróság
 
@@ -1878,7 +1878,7 @@ Bács-Kiskun megye
 
 |
 
-4. BÉKÉS MEGYEI BÍRÓSÁG (székhelye: Gyula)
+4.  Gyulai Törvényszék (székhelye: Gyula)
 
 4/1. Gyulai Városi Bíróság
 
@@ -2216,7 +2216,7 @@ Békés megye
 
 |
 
-5. BORSOD-ABAÚJ-ZEMPLÉN MEGYEI BÍRÓSÁG (székhelye: Miskolc)
+5.  Miskolci Törvényszék (székhelye: Miskolc)
 
 5/1. Miskolci Városi Bíróság
 
@@ -3694,7 +3694,7 @@ Borsod-Abaúj-Zemplén megye
 
 |
 
-6. CSONGRÁD MEGYEI BÍRÓSÁG (székhelye: Szeged)
+6.  Szegedi Törvényszék (székhelye: Szeged)
 
 6/1. Szegedi Városi Bíróság
 
@@ -3968,7 +3968,7 @@ Csongrád megye
 
 |
 
-7. FEJÉR MEGYEI BÍRÓSÁG (székhelye: Székesfehérvár)
+7.  Székesfehérvári Törvényszék (székhelye: Székesfehérvár)
 
 7/1. Székesfehérvári Városi Bíróság
 
@@ -4432,7 +4432,7 @@ Fejér megye
 
 |
 
-8. GYŐR-MOSON-SOPRON MEGYEI BÍRÓSÁG (székhelye: Győr)
+8.  Győri Törvényszék (székhelye: Győr)
 
 8/1. Győri Városi Bíróság
 
@@ -5188,7 +5188,7 @@ Győr-Moson-Sopron megye
 
 |
 
-9. HAJDÚ-BIHAR MEGYEI BÍRÓSÁG (székhelye: Debrecen)
+9.  Debreceni Törvényszék (székhelye: Debrecen)
 
 9/1. Debreceni Városi Bíróság
 
@@ -5548,7 +5548,7 @@ Hajdú-Bihar megye
 
 |
 
-10. HEVES MEGYEI BÍRÓSÁG (székhelye: Eger)
+10.  Egri Törvényszék (székhelye: Eger)
 
 10/1. Egri Városi Bíróság
 
@@ -6070,7 +6070,7 @@ Heves megye
 
 |
 
-11. JÁSZ-NAGYKUN-SZOLNOK MEGYEI BÍRÓSÁG (székhelye: Szolnok)
+11.  Szolnoki Törvényszék (székhelye: Szolnok)
 
 11/1. Szolnoki Városi Bíróság
 
@@ -6412,7 +6412,7 @@ Jász-Nagykun-Szolnok megye
 
 |
 
-12. KOMÁROM-ESZTERGOM MEGYEI BÍRÓSÁG (székhelye: Tatabánya)
+12.  Tatabányai Törvényszék (székhelye: Tatabánya)
 
 12/1. Tatabányai Városi Bíróság
 
@@ -6746,7 +6746,7 @@ Komárom-Esztergom megye
 
 |
 
-13. NÓGRÁD MEGYEI BÍRÓSÁG (székhelye: Balassagyarmat)
+13.  Balassagyarmati Törvényszék (székhelye: Balassagyarmat)
 
 13/1. Balassagyarmati Városi Bíróság
 
@@ -7296,7 +7296,7 @@ Nógrád megye
 
 |
 
-14. PEST MEGYEI BÍRÓSÁG (székhelye: Budapest)
+14.  Budapest Környéki Törvényszék (székhelye: Budapest)
 
 14/1. Budakörnyéki Bíróság (székhelye: Budapest)
 
@@ -8092,7 +8092,7 @@ Törökbálint
 
 |
 
-14/13. Pest Megyei Munkaügyi Bíróság
+14/13. Budapest Környéki Munkaügyi Bíróság
 
 |
 
@@ -8102,7 +8102,7 @@ Pest megye
 
 |
 
-15. SOMOGY MEGYEI BÍRÓSÁG (székhelye: Kaposvár)
+15.  Kaposvári Törvényszék (székhelye: Kaposvár)
 
 15/1. Kaposvári Városi Bíróság
 
@@ -9112,7 +9112,7 @@ Somogy megye
 
 |
 
-16. SZABOLCS-SZATMÁR-BEREG MEGYEI BÍRÓSÁG (székhelye: Nyíregyháza)
+16. Nyíregyházi Törvényszék (székhelye: Nyíregyháza)
 
 16/1. Nyíregyházi Városi Bíróság
 
@@ -10062,7 +10062,7 @@ Szabolcs-Szatmár-Bereg megye
 
 |
 
-17. TOLNA MEGYEI BÍRÓSÁG (székhelye: Szekszárd)
+17.  Szekszárdi Törvényszék (székhelye: Szekszárd)
 
 17/1. Szekszárdi Városi Bíróság
 
@@ -10536,7 +10536,7 @@ Tolna megye
 
 |
 
-18. VAS MEGYEI BÍRÓSÁG (székhelye: Szombathely)
+18. Szombathelyi Törvényszék (székhelye: Szombathely)
 
 18/1. Szombathelyi Városi Bíróság
 
@@ -11432,7 +11432,7 @@ Vas megye
 
 |
 
-19. VESZPRÉM MEGYEI BÍRÓSÁG (székhelye: Veszprém)
+19. Veszprémi Törvényszék (székhelye: Veszprém)
 
 19/1. Veszprémi Városi Bíróság
 
@@ -12332,7 +12332,7 @@ Veszprém megye
 
 |
 
-20. ZALA MEGYEI BÍRÓSÁG (székhelye: Zalaegerszeg)
+20. Zalaegerszegi Törvényszék (székhelye: Zalaegerszeg)
 
 20/1. Zalaegerszegi Városi Bíróság
 

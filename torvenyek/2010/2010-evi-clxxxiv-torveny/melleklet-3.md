@@ -1,8 +1,8 @@
 3. melléklet a 2010. évi CLXXXIV. törvényhez
 
-A megyei bíróságok katonai tanácsai és illetékességi területük
+A törvényszékek katonai tanácsai és illetékességi területük
 
-1. FŐVÁROSI BÍRÓSÁG KATONAI TANÁCSA
+1. FŐVÁROSI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 |
 
@@ -36,7 +36,7 @@ Pest megye
 
 |
 
-2. CSONGRÁD MEGYEI BÍRÓSÁG KATONAI TANÁCSA
+2. SZEGEDI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 |
 
@@ -50,7 +50,7 @@ Békés megye
 
 Csongrád megye
 
-3. GYŐR-MOSON-SOPRON MEGYEI BÍRÓSÁG KATONAI TANÁCSA
+3. GYŐRI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 |
 
@@ -64,7 +64,7 @@ Vas megye
 
 Veszprém megye
 
-4. HAJDÚ-BIHAR MEGYEI BÍRÓSÁG KATONAI TANÁCSA
+4. DEBRECENI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 |
 
@@ -78,7 +78,7 @@ Hajdú-Bihar megye
 
 Szabolcs-Szatmár-Bereg megye
 
-5. SOMOGY MEGYEI BÍRÓSÁG KATONAI TANÁCSA
+5. KAPOSVÁRI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 |
 

@@ -2,8 +2,8 @@
 
 (2) A kerületi bíróságok székhelye Budapest.
 
-(3) A megyei bíróságok székhelyét az 1. melléklet tartalmazza.
+(3) A törvényszékek székhelyét az 1. melléklet tartalmazza.
 
 (4) Az ítélőtáblák székhelye az elnevezésükben megjelölt település, a Fővárosi Ítélőtábla esetében pedig Budapest.
 
-(5) A Legfelsőbb Bíróság székhelye Budapest.
+(5) A Kúria székhelye Budapest.
