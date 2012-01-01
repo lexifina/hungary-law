@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-295-20-
 | 2011-01-01 | 2004-295-20-22.20 | 19/2007. (II. 20.) Korm. rendelet |
 | 2011-05-01 | 2004-295-20-22.21 | 19/2007. (II. 20.) Korm. rendelet |
 | 2011-08-01 | 2004-295-20-22.22 | 139/2011. (VII. 21.) Korm. rendelet |
+| 2012-01-01 | 2004-295-20-22.23 | 182/2009. (IX. 10.) Korm. rendelet |

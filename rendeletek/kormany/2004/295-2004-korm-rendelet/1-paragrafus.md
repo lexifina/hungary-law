@@ -8,7 +8,28 @@ b) jóváhagyja a Hivatal belső szabályzatait, munkatervét, költségvetésé
 
 c) beszámoltatja a Hivatal vezetőjét.
 
-(3)[^2] Az orvostechnikai eszköznek való minősítés, az orvostechnikai eszköz osztályba sorolása, nyilvántartásba vétele, forgalmazásának és használatának korlátozása és megtiltása iránt indult, orvostechnikai eszközök klinikai vizsgálatának engedélyezésével és nyilvántartásba vételével kapcsolatos eljárások, az orvostechnikai eszközök időszakos felülvizsgálatára való kijelöléssel kapcsolatos eljárások, az egyszer használatos eszközök újrafelhasználhatóvá tételével kapcsolatos eljárások, valamint az egyedi méretvétel alapján készült orvostechnikai eszközök társadalombiztosítási támogatásához szükséges ellenőrzésre irányuló eljárások kivételével a Hivatal eljárásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(3)[^2] A Hivatal eljárásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható, kivéve
+
+a) az orvostechnikai eszköznek való minősítés esetében,
+
+b) az orvostechnikai eszköz osztályba sorolása, nyilvántartásával kapcsolatos döntések esetében,
+
+c) az orvostechnikai eszköz forgalmazásának és használatának korlátozása és megtiltása iránt indult eljárásokban,
+
+d) az orvostechnikai eszközök klinikai vizsgálatának engedélyezésével és nyilvántartásba vételével kapcsolatos eljárásokban,
+
+e) az orvostechnikai eszközök időszakos felülvizsgálatára való kijelöléssel kapcsolatos eljárásokban,
+
+f) az egyedi méretvétel alapján készült orvostechnikai eszközök társadalombiztosítási támogatásához szükséges ellenőrzésre irányuló eljárásokban,
+
+g) az orvostechnikai eszközökkel kapcsolatos piacfelügyeleti hatósági eljárásokban,
+
+h) azon eljárásokban, amelyek során a Hivatal másodfokon hoz első fokú végzést, és
+
+i) az orvostechnikai eszközök eseti használatbavételével kapcsolatos döntések esetében.
+
+(4)[^3] A Hivatal látja el az orvostechnikai eszközök megfelelőségértékelésére jogosult szervek kijelölésével kapcsolatos kijelölő hatósági feladatokat.
 
 [^1]: Az 1. § (1) bekezdése a 337/2009. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 382. § (1) bekezdése iktatta be, szövege a 337/2009. (XII. 29.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 382. § (1) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (4) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
