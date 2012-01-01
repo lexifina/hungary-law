@@ -1,1 +1,0 @@
-A Kormány a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. §-a (1) bekezdésének e) pontjában kapott felhatalmazás alapján a következőket rendeli el:

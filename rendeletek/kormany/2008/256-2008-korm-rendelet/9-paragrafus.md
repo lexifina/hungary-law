@@ -1,3 +1,0 @@
-9. § (1) A készenléti szolgálatot ellátó önkéntes tűzoltónak a polgári védelmi kötelezettség teljesítése alóli mentesítését a lakóhelye szerinti polgármesternél – a tűzoltó szolgálatba lépését követően – az önkéntes tűzoltóság parancsnoka kezdeményezi. Amennyiben a készenléti szolgálat ellátása már nem áll fenn, erről az önkéntes tűzoltóság parancsnoka a lakóhely szerinti polgármestert tájékoztatja.
-
-(2) A készenléti szolgálatot ellátó önkéntes tűzoltónak a helyi adó megfizetése alóli mentesítését a lakóhelye szerint illetékes jegyzőnél – minden év február 28-ig – az önkéntes tűzoltóság parancsnoka kezdeményezi. Amennyiben a készenléti szolgálat ellátása már nem áll fenn, erről az önkéntes tűzoltóság parancsnoka a lakóhely szerint illetékes jegyzőt tájékoztatja.
