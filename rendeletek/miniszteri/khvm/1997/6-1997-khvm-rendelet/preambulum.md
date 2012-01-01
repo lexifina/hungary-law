@@ -1,1 +1,0 @@
-A frekvenciagazdálkodásról szóló 1993. évi LXII. törvény (a továbbiakban: Ftv.) 14. §-ának (1) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
