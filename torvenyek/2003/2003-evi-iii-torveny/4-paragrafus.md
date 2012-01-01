@@ -1,4 +1,4 @@
-4. § (1) A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2)–(3) bekezdésben foglalt korlátok között megismerheti, és a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 32. §-a szerint felhasználhatja.
+4. § (1) A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2)–(3) bekezdésben foglalt korlátok között megismerheti, és az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint felhasználhatja.
 
 (2) A tudományos kutató az egészségi állapotra, kóros szenvedélyre és szexuális életre vonatkozó adatokat az érintett halálozási évét követő harminc év után ismerheti meg. Ha a halálozás éve nem ismert, a védelmi idő az érintett születésétől számított kilencven év, ha pedig a születés és a halálozás időpontja sem ismert, a levéltári anyag keletkezésétől számított hatvan év.
 
