@@ -20,4 +20,6 @@ g) a jogosult Társadalombiztosítási Azonosító Jelét (TAJ szám).
 
 (3) A nyilvántartásból a fogyatékossági támogatásra való jogosultság megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat.
 
-(4) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat személyes azonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak. Az e törvény alapján elrendelt adatkezelésre és az adatok védelmére egyebekben a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, valamint az egészségügyi adatkezelésre vonatkozó törvény rendelkezései az irányadók.
+(4) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat személyes azonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
+
+(5) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a kincstár által e törvény szerint kezelt személyes és különleges adatokat.
