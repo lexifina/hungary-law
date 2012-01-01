@@ -16,6 +16,6 @@ g) arról a 6. § (3) bekezdésében meghatározott tárgyról, amelynek köröz
 
 h) arról az okmányról, illetve annak a gépjárműnek a hatósági jelzéséről, amelynek elvesztését, eltulajdonítását, megsemmisülését az okmányra vonatkozó központi hatósági nyilvántartásba bejegyezték.
 
-(2) A SIRENE Iroda – ha ezt a SIS lehetővé teszi – a figyelmeztető jelzéshez megjelölés csatolását kezdeményezi, ha észleli, hogy a SIS-t alkalmazó külföldi állam figyelmeztető jelzése alapján elrendelt intézkedés a magyar joggal, a Magyar Köztársaság nemzetközi kötelezettségeivel vagy alapvető nemzeti érdekeivel nem egyeztethető össze, és emiatt az nem hajtható végre.
+(2) A SIRENE Iroda – ha ezt a SIS lehetővé teszi – a figyelmeztető jelzéshez megjelölés csatolását kezdeményezi, ha észleli, hogy a SIS-t alkalmazó külföldi állam figyelmeztető jelzése alapján elrendelt intézkedés a magyar joggal, Magyarország nemzetközi kötelezettségeivel vagy alapvető nemzeti érdekeivel nem egyeztethető össze, és emiatt az nem hajtható végre.
 
 (3) A megjelölés SIS-be történő felvétele érdekében a SIRENE Iroda a SIS-t alkalmazó külföldi állam SIRENE Irodáját keresi meg.

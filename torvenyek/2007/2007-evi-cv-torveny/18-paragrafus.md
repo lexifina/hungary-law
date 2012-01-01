@@ -26,6 +26,6 @@ e) az adattovábbítás időpontját.
 
 (5) A (3) bekezdés szerinti adattovábbítási nyilvántartás alapján – ha törvény eltérően nem rendelkezik – az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e.
 
-(6) A (2) és (3) bekezdés szerinti nyilvántartásba csak a figyelmeztető jelzés elhelyezése céljából adatot továbbító szerv az általa továbbított adat tekintetében, továbbá a SIRENE Iroda és az adatvédelmi biztos tekinthet be.
+(6) A (2) és (3) bekezdés szerinti nyilvántartásba csak a figyelmeztető jelzés elhelyezése céljából adatot továbbító szerv az általa továbbított adat tekintetében, továbbá a SIRENE Iroda és a Nemzeti Adatvédelmi és Információszabadság Hatóság tekinthet be.
 
 (7) A (2) és (3) bekezdés szerinti nyilvántartás adatait három évig meg kell őrizni.

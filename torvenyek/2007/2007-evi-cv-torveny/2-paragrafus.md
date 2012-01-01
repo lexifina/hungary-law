@@ -2,7 +2,7 @@
 
 a) Schengeni Információs Rendszer (SIS): a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról Schengenben 1990. június 19-én aláírt egyezmény (a továbbiakban: Schengeni Végrehajtási Egyezmény) IV. címe szerinti információs rendszer,
 
-b) a SIS nemzeti része (N.SIS): olyan információs rendszer, amelynek adattartalma megegyezik a Központi SIS, valamint a SIS-ben részt vevő valamennyi állam adatállományával, amely a Magyar Köztársaság területén történő lekérdezés céljára szolgál,
+b) a SIS nemzeti része (N.SIS): olyan információs rendszer, amelynek adattartalma megegyezik a Központi SIS, valamint a SIS-ben részt vevő valamennyi állam adatállományával, amely Magyarország területén történő lekérdezés céljára szolgál,
 
 c) figyelmeztető jelzés: az a SIS-ben elhelyezett adat, amely lehetővé teszi, hogy az elrendelt intézkedés céljából valamely személy vagy tárgy azonosítható legyen,
 

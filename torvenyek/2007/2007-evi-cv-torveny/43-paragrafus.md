@@ -2,7 +2,7 @@
 
 (2) E törvény 3. §-ának c) pontjából az „és ezzel egyidejűleg megküldi azokat a Központi SIS-nek,” szövegrész, 13–14. §-a, 15. §-ának a)–b), e)–j) pontja, 17. §-ának a) és b), valamint d) pontja és 44. §-a (1) bekezdésének d) pontja az Európai Unió Tanácsának a Schengeni Információs Rendszer alkalmazását a Magyar Köztársaság számára lehetővé tevő határozatában meghatározott napon lép hatályba.
 
-(3) E törvény 5. §-a (1) bekezdésének e) pontja, 10. §-a, 11. §-ának d) pontja, 15. §-ának c) és d) pontja, valamint 17. §-ának c) pontja azon a napon lép hatályba, amelytől kezdve az Európai Unió Tanácsának határozata a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására feljogosítja.
+(3) E törvény 5. §-a (1) bekezdésének e) pontja, 10. §-a, 11. §-ának d) pontja, 15. §-ának c) és d) pontja, valamint 17. §-ának c) pontja azon a napon lép hatályba, amelytől kezdve az Európai Unió Tanácsának határozata Magyarországot a schengeni vívmányok teljes körű alkalmazására feljogosítja.
 
 (4) E törvény hatálybalépésével egyidejűleg
 
