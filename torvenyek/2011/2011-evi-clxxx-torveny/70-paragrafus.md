@@ -2,9 +2,7 @@
 
 „(1) A kamara közgyűlése a végrehajtók közül 4 évre a Budapest Környéki és a Győri Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 7-7, a Debreceni Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 6 végrehajtót vizsgálóbiztosnak választ meg.”
 
-(2) A Vht. 271. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kamara közgyűlése a végrehajtók közül 4 évre az elsőfokú fegyelmi bírósághoz 20, a másodfokú fegyelmi bírósághoz 3 végrehajtót vizsgálóbiztosnak választ meg.”
+(2)
 
 (3) A Vht. 271. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
 
