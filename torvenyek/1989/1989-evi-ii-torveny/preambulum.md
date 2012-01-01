@@ -1,1 +1,0 @@
-Az Országgyűlés az egyesülési szabadság érvényesülése érdekében — összhangban az Alkotmány, valamint a Polgári és Politikai Jogok Nemzetközi Egyezségokmányának rendelkezéseivel —, a következő törvényt alkotja:

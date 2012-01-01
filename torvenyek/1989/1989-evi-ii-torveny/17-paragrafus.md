@@ -1,1 +1,0 @@
-17. § Ha a társadalmi szervezet olyan tevékenységet végez, amelyet jogszabály feltételhez köt vagy egyébként szabályoz, e tevékenység felett a tevékenység szerint hatáskörrel rendelkező állami szerv a hatósági ellenőrzésre vonatkozó szabályok alkalmazásával felügyeletet gyakorol.

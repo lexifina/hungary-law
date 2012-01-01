@@ -1,1 +1,0 @@
-5. § Nem minősül társadalmi szervezetnek a magánszemélyeknek az egyesülési jog alapján létrehozott olyan közössége, amelynek működése nem rendszeres, vagy nincs nyilvántartott tagsága vagy e törvényben meghatározott szervezete.

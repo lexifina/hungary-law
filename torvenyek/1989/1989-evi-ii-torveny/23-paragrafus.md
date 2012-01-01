@@ -1,1 +1,0 @@
-23. § Az e törvény hatálybalépése előtt külön jogszabály alapján létesített, illetőleg működő társadalmi szervezetek tevékenységére, szervezetére és felügyeletére e jogszabályok módosításáig vagy hatályon kívül helyezéséig a korábbi, rájuk vonatkozó jogszabályok rendelkezései az irányadóak.
