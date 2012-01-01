@@ -6,26 +6,28 @@ b) kötelezi a foglalkoztatót a szabálytalanság meghatározott időn belül t
 
 c) kötelezi a harmadik országbeli állampolgárt érvényes munkavállalási engedély vagy EU Kék Kártya nélkül foglalkoztatót a központi költségvetésbe történő befizetésre a 7/A. §-ban foglaltak szerint,
 
-d) ha az ellenőrzés során tudomására jut, hogy az álláskereső részére nyújtott támogatások igénybevétele jogalap nélküli, azt jelzi a hatáskörrel rendelkező állami foglalkoztatási szervnek,
+d)
 
 e) a 7. § (1) bekezdésében meghatározott esetben javaslatot tehet munkaügyi bírság kiszabására,
 
-f) szabálysértési eljárást folytat le,
+f)
 
 g) az 1. § (5) bekezdése alapján eljárva megállapítja a foglalkoztatásra irányuló jogviszonynak a munkába lépés napjától történő fennállását és kötelezi a foglalkoztatót a foglalkoztatásra irányuló jogviszonyra vonatkozó szabályok betartására,
 
 h) eltiltja a foglalkoztatót tevékenysége folytatásától, ha foglalkoztatásra vonatkozó jogszabályban előírt engedéllyel, nyilvántartásba vétellel nem rendelkezik, vagy
 
-i) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó jogsértés megállapítása esetén a gyermek veszélyeztetettsége miatt jelzéssel él a gyermekjóléti szolgálatnál.
+i) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó jogsértés megállapítása esetén a gyermek veszélyeztetettsége miatt jelzéssel él a gyermekjóléti szolgálatnál,
 
-(2) A felügyelő az (1) bekezdés c) pontjában foglalt határozatának munkaügyi okból fellebbezésre tekintet nélküli végrehajtását is elrendelheti.
+j) a további jogsértés megelőzésének érdekében – a b) pont alkalmazhatóságának hiányában – megállapítja a munkáltató jogsértését.
+
+(2) A felügyelő az (1) bekezdés a) pontjában foglalt határozatának munkaügyi okból fellebbezésre tekintet nélküli végrehajtását is elrendelheti.
 
 (3) A felügyelő a foglalkoztató és a részére munkát végző személy közötti jogviszony tartalmát érintő intézkedést nem hozhat, amennyiben az ellenőrzést megelőzően a felek között munkaügyi vita indult.
 
-(4) A munkaügyi hatóság – amennyiben tudomására jut, hogy a jogsértésre társadalombiztosítási nyugellátással vagy rehabilitációs járadékban részesülő személy foglalkoztatásával összefüggésben került sor –
+(4) A munkaügyi hatóság, amennyiben tudomására jut, hogy a jogsértésre
 
-a) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 36/D. § (2) bekezdése, valamint 36/G. § (2) bekezdése szerinti, továbbá
+a) társadalombiztosítási nyugellátásban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a nyugdíj-megállapító szervvel,
 
-b) a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény 11. § (2) bekezdése, valamint 13. § (1) bekezdése szerinti
+b) megváltozott munkaképességű személyek ellátásaiban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a rehabilitációs hatósággal.
 
-jogsértést megállapító jogerős határozatát közli a nyugdíjbiztosítási igazgatási szervvel.
+(5) Ha a jogsértést korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában történő foglalkoztatásával követik el, a munkaügyi hatóság a jogsértést megállapító jogerős határozatát közli a korhatár előtti ellátást, illetve a szolgálati járandóságot megállapító szervvel.

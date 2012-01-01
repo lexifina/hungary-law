@@ -1,8 +1,8 @@
 7. § (1) Munkaügyi bírság akkor szabható ki, ha a foglalkoztató
 
-a) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó, valamint a b), c) d), f), i), k), l), m) és n) pontjában foglalt rendelkezéseket egy,
+a) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó, valamint b), c), f), i) és k) pontjában foglalt rendelkezéseket egy,
 
-b) a foglalkoztató a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeinek meglétére vonatkozó, valamint az e), g), h) j), o), p), q) és r) pontjában foglalt rendelkezések bármelyikét több
+b) a foglalkoztató a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeinek meglétére vonatkozó, valamint az e), g), h), o), p), q) és r) pontjában foglalt rendelkezések bármelyikét több
 
 munkavállaló vonatkozásában megsérti.
 
@@ -18,7 +18,7 @@ ac) – amennyiben a megállapított egy jogsértés több munkavállalót érin
 
 ad) – amennyiben a megállapított több jogsértés több munkavállalót érint – harmincezer forinttól tízmillió forintig;
 
-b) a 3. § (1) bekezdésének c), d), l), m), n) pontjában foglalt rendelkezések megsértése esetén
+b) a 3. § (1) bekezdés c) pontjában foglalt rendelkezés megsértése esetén
 
 ba) – amennyiben a megállapított egy jogsértés egy munkavállalót érint – harmincezer forinttól kétmillió forintig,
 
@@ -28,7 +28,7 @@ bc) – amennyiben a megállapított egy jogsértés több munkavállalót érin
 
 bd) – amennyiben a megállapított több jogsértés több munkavállalót érint – harmincezer forinttól nyolcmillió forintig;
 
-c) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeire vonatkozó, valamint e), g), h), j), o), p), q) és r) pontjában foglalt rendelkezések megsértése esetén
+c) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeire vonatkozó, valamint e), g), h), o), p), q) és r) pontjában foglalt rendelkezések megsértése esetén
 
 ca) – amennyiben a megállapított egy jogsértés több munkavállalót érint – harmincezer forinttól ötmillió forintig,
 
@@ -46,14 +46,10 @@ terjedhet.
 
 (7) A munkaügyi bírság összegének megállapításánál figyelembe kell venni különösen a jogszabály megsértésével okozott jogellenes állapot időtartamát, az okozott hátrány nagyságát, a megsértett jogszabályi előírások számát és hatását, valamint az érintett munkavállalók számát.
 
-(8) A 6. § (1) bekezdésében meghatározott egyéb jogkövetkezmények – a 6. § (1) bekezdés f) pontját kivéve – alkalmazása, valamint a munkaügyi bírság egyidejű kiszabása esetén egy határozatot kell hozni.
+(8) A 6. § (1) bekezdésében meghatározott egyéb jogkövetkezmények alkalmazása, valamint a munkaügyi bírság egyidejű kiszabása esetén egy határozatot kell hozni.
 
-(9) Ha egy ellenőrzés során megállapított szabálytalanság a jelen törvényben meghatározott jogszabály és egyéb rendelkezés, illetve a szabálysértési jogszabály előírásait is megsérti, a munkaügyi felügyelő
+(9)
 
-a) az illetékes területi felügyelőség vezetőjének a munkáltatót terhelő munkaügyi bírság kiszabására tehet javaslatot, és
+(10)
 
-b) emellett a munkáltató részéről eljáró természetes személy ellen szabálysértési eljárást folytat le.
-
-(10) Ha a foglalkoztató magánszemély vagy egyéni vállalkozó, kizárólag a (9) bekezdés a) pontjában meghatározott jogkövetkezmény alkalmazására kerülhet sor.
-
-(11)
+(11) A kiszabott munkaügyi bírságot a központi költségvetés javára kell befizetni.

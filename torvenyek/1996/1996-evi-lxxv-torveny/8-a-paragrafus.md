@@ -26,4 +26,4 @@ c) felügyeleti eljárás keretében a kötelezettséget megállapító döntés
 
 (6) A munkaügyi hatóság a pénzfizetésre kötelezett természetes személy vagy a polgári jog szerint helyébe lépő örököse kérelmére a tartozást mérsékelheti, illetőleg elengedheti, feltéve hogy a kötelezett, illetve örököse vagy a vele közös háztartásban élő közeli hozzátartozója egészségi állapotában, illetve a kötelezett, illetve örököse vagyoni helyzetében a határozat jogerőre emelkedése után olyan változás következett be, amely jelentősen megnehezíti a kötelezettség teljesítését. A méltányossági kérelem tárgyában hozott határozat ellen fellebbezésnek nincs helye. A méltányossági jogkörben hozott határozat bírósági felülvizsgálatát kizárólag semmisségére hivatkozva lehet kérni.
 
-(8) A munkaügyi eljárásokban kiszabott bírság, megállapított befizetési kötelezettség adók módjára behajtandó köztartozásnak minősül.
+(8) A munkaügyi eljárásokban megállapított befizetési kötelezettség adók módjára behajtandó köztartozásnak minősül.

@@ -15,3 +15,9 @@ is érteni kell.
 (4) E törvény alkalmazásában a központi költségvetésbe történő befizetéskor a kötelező legkisebb munkabéren a jogszabályban meghatározott kötelező legkisebb munkabér havi mértékét kell érteni.
 
 (5) Felhatalmazást kap a Kormány, hogy a munkaügyi hatóságot vagy hatóságokat rendeletben jelölje ki, valamint a hatóság vagy hatóságok eljárására vonatkozó részletes szabályokat rendeletben határozza meg.
+
+(6) Felhatalmazást kap
+
+a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a Magyar Honvédségnél, valamint azon gazdasági társaságoknál, amelyeknél az állam nevében a tulajdonosi jogokat a honvédelemért felelős miniszter gyakorolja, valamint a Katonai Nemzetbiztonsági Szolgálatnál,
+
+b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél.
