@@ -1,1 +1,1 @@
-162. § A miniszter hatáskörében hozott, továbbá a másodfokú határozat ellen az állomány fenyített tagja vagy képviselője – a kézbesítésétől számított 30 napon belül – a bírósághoz keresettel fordulhat.
+162. § A miniszter hatáskörében hozott, továbbá a másodfokú határozat ellen az állomány fenyített tagja vagy képviselője – a kézbesítésétől számított 30 napos jogvesztő határidőn belül – a bírósághoz keresettel fordulhat.

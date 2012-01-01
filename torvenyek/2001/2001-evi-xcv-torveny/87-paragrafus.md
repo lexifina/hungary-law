@@ -1,6 +1,6 @@
-87. § (1) A hivatásos állomány legalább századosi vagy zászlósi rendfokozatot elért tagját, aki az adott rendfokozatban a maximális várakozási időt letöltötte, de szolgálati nyugdíjra való jogosultságot nem szerzett, annak megszerzéséig – beleegyezésével – beosztásában kell tartani. A hivatásos állomány speciális beosztást betöltő tagja – beleegyezésével – a hivatásos szolgálat felső határáig tartható beosztásában.
+87. § (1)
 
-(2) Az állomány tagját az (1) bekezdés esetén, ha parancsnoki beosztást tölt be más beosztásba kell helyezni.
+(2)
 
 (3) Eggyel magasabb rendfokozatba kell előléptetni, kinevezni a hősi halottá nyilvánított tisztet. A hősi halottá nyilvánított – tisztinél alacsonyabb rendfokozatú – katonát hadnagyi rendfokozatba kell kinevezni.
 

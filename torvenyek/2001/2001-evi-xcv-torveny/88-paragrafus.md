@@ -28,4 +28,4 @@
 
 (8) A személyi javaslat, a vezetői értékelés és a teljesítményértékelés tartalmi és formai elemeit a miniszter rendeletben határozza meg.
 
-(9) Az e törvény szerinti minősítést, teljesítményértékelést és vezetői értékelést nem kell elkészíteni a Tábori Lelkészi Szolgálat, a katonai ügyészségek szakállományáról, valamint a 46. § (3) bekezdés a) és az f)–l) pontjában meghatározott szervezeteknél szolgálatot teljesítőkről. Az állomány e körbe tartozó tagjairól a személyi értékelést a rájuk vonatkozó, külön jogszabályban meghatározott módon kell végrehajtani.
+(9) Az e törvény szerinti minősítést, teljesítményértékelést és vezetői értékelést nem kell elkészíteni a Tábori Lelkészi Szolgálat, valamint a 46. § (3) bekezdés a) és az f)–l) pontjában meghatározott szervezeteknél szolgálatot teljesítőkről. Az állomány e körbe tartozó tagjairól a személyi értékelést a rájuk vonatkozó, külön jogszabályban meghatározott módon kell végrehajtani.

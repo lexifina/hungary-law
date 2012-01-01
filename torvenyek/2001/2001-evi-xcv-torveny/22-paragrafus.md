@@ -4,7 +4,7 @@
 
 (2) Nem engedélyezhető rendezvény a szolgálati helyen, ha az
 
-a) pártpolitikai célt szolgál;
+a) politikai célt szolgál;
 
 b) a szolgálati feladat, a szolgálati rend és fegyelem ellen irányul, vagy azt bírálja;
 

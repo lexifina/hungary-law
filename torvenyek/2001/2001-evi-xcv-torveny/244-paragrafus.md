@@ -1,9 +1,7 @@
-## Az alapvető jogok korlátozása
+## Az érdek-képviseleti szervek és az érdekvédelem
 
-244. § (1) A Szolgálatok tagja:
+244. § (1) A KNBSZ állományának tagjai szolgálati, szociális és életkörülményeikkel kapcsolatos érdekeik védelmére érdek-képviseleti szervet hozhatnak létre, ha az állomány egyharmada alapító tagként az érdek-képviseleti szerv megalapítását kimondja.
 
-a) a gyülekezési jog alapján szervezett rendezvényen történő megjelenési szándékát köteles a főigazgatónak bejelenteni, aki a részvételt megtilthatja;
+(2) Az érdek-képviseleti szerv nemzetközi és hazai érdek-képviseleti szövetséghez nem csatlakozhat. Az érdek-képviseleti szerv a KNBSZ állományát a KNBSZ-el szemben bíróság vagy más hatóság előtt nem képviselheti. Az érdek-képviseleti szerv tevékenysége nem irányulhat a KNBSZ rendeltetésszerű feladatainak, valamint az elöljárói jogkör gyakorlása ellen.
 
-b) a külföldre utazásának tervezett időpontját, útvonalát, hazatérésének várható időpontját – az utazás megkezdését megelőzően legalább 10 nappal – szolgálati elöljárójának köteles bejelenteni. A főigazgató a külföldre utazást szolgálati vagy nemzetbiztonsági érdekből megtilthatja, illetve korlátozhatja. Rendkívül indokolt esetben a 10 napos határidőtől el lehet térni.
-
-(2) A Szolgálatok tagja – az elöljáró parancsnok által elrendelt időszakban – köteles bejelenteni a szolgálaton kívüli tartózkodási helyét.
+(3) Az (1) bekezdés alapján létrejövő érdek-képviseleti szerven kívül más érdek-képviseleti szerv a KNBSZ-nél nem működhet, azokhoz a KNBSZ állományának tagja nem csatlakozhat.

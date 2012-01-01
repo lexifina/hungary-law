@@ -1,10 +1,10 @@
 89. § (1) Az előmeneteli rendszer tervszerű és szakszerű működésének biztosítása érdekében előmeneteli bizottságokat kell létrehozni
 
-a) a miniszter által vezetett minisztériumban és a katonai nemzetbiztonsági szolgálatoknál a tiszti állomány,
+a) a miniszter által vezetett minisztériumban és a KNBSZ-nél a tiszti állomány,
 
 b) haderőnemenként, illetve jogszabályban meghatározott vezető szervezetenként a zászlósi állomány,
 
-c) önálló állománytáblával rendelkező katonai szervezeteknél a tiszthelyettesi és a szerződéses legénységi állomány
+c) önálló állománytáblával rendelkező katonai szervezeteknél az altiszti és a szerződéses legénységi állomány
 
 előmenetelének tervezésére.
 

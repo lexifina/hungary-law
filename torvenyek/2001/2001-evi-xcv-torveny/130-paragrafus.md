@@ -19,3 +19,5 @@ f) szolgálati jel,
 g) kitüntetés.
 
 (2) Az (1) bekezdésben említett pénzjutalom – kivéve a miniszter által alapított díjjal együtt járó jutalom – összege, amennyiben a költségvetésről szóló törvény eltérően nem rendelkezik, évente nem haladhatja meg az érintett 6 havi illetményének összegét.
+
+(3) A kormányzati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a kormányzati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a katonák is részt vesznek, és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosultak.

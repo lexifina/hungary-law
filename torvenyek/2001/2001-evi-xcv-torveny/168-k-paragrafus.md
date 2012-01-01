@@ -1,0 +1,5 @@
+168/K. § (1) A tiszti és az altiszti állomány tagja esetén a méltatlansági bizottság az ülését követő 5 napon belül zárt ülésen, többségi döntéssel javaslatot tesz a parancsnoknak a méltatlanság vagy hiányának megállapítására. A javaslatot a 168/J. § (2) bekezdés szerint jegyzőkönyvbe kell foglalni. A jegyzőkönyv kézhezvételétől számított 5 napon belül a parancsnok határozat meghozatalával dönt a méltatlansági eljárás vagy a szolgálati viszony megszüntetéséről. A parancsnok nincs kötve a méltatlansági bizottság javaslatához.
+
+(2) Tábornok esetén az (1) bekezdés rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a miniszter a méltatlanság megállapítása esetén az 56/B. §-nak megfelelően jár el.
+
+(3) Az (1) bekezdés rendelkezéseit kell alkalmazni abban az esetben is, ha a Honvéd Vezérkar főnöke vagy a miniszter az eljárást magához vonta. A méltatlanság megállapítása esetén a munkáltatói jogkör gyakorlója a döntés kézhezvételét követő 5 napon belül a szolgálati viszonyt határozattal megszünteti.

@@ -6,4 +6,4 @@
 
 (3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vérszerinti vagy örökbefogadó apát kell érteni.
 
-(4) A munkaidő-kedvezmény tartamára járó távolléti díj kifizetése – az állami költségvetés terhére – kormányrendelet alapján történik.
+(4) A munkaidő-kedvezmény tartamára járó távolléti díj kifizetése – a központi költségvetés terhére – kormányrendelet alapján történik.

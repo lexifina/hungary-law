@@ -24,13 +24,13 @@ távolléti díjnak megfelelő összeg.
 
 (4) A szerződéses állományból hivatásos állományba átvett személy szerződéses állományban eltöltött szolgálati idejét a végkielégítés szempontjából hivatásos szolgálatban eltöltött időként kell figyelembe venni.
 
-(5) A végkielégítés összegének felére jogosult az állomány tagja, ha az 59. § (2) bekezdésének d) pontja alapján mentették fel, vagy az 59. § (5) bekezdése szerinti áthelyezéshez nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal tagadta meg.
+(5) A végkielégítés összegének felére jogosult az állomány tagja, ha az 59. § (5) bekezdése szerinti áthelyezéshez nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal tagadta meg.
 
 (6) A szolgálati viszony felmentéssel járó megszüntetése esetén a végkielégítést a felmentési idő utolsó napján kell kifizetni.
 
 (7) Végkielégítésre nem jogosult a hivatásos állomány tagja, ha
 
-a) nyugellátásra szerzett jogosultságot,
+a) a Munka Törvénykönyvéről szóló törvény megfelelő alkalmazásával nyugdíjasnak minősül, szolgálati járandóságra jogosult, vagy az 59. § (2a) bekezdése alapján a felmentését maga kérte
 
 b) alkalmatlansága miatt mentették fel, kivéve az egészségi, pszichikai alkalmatlanságot,
 

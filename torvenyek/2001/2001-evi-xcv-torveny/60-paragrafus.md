@@ -4,4 +4,4 @@
 
 (3) A szakmailag alkalmatlan minősítést kapott személy szolgálati viszonyát 30 napos felmentési idővel, a szolgálatra méltatlanná vagy nemzetbiztonsági szempontból neki felróható okból alkalmatlanná vált személy szolgálati viszonyát felmentési idő nélkül – azon a napon, amelyen a munkáltatói jogkört gyakorló elöljáró a felmentésre okot adó tényt megállapítja – kell megszüntetni.
 
-(4) Ha az állomány tagja a szolgálat felső korhatárát még nem érte el és szolgálati nyugdíjra jogosult, a felmentésével egyidejűleg nyugállományba kell helyezni. Ebben az esetben a hivatásos szolgálat a felmentési idő elteltével szűnik meg. A nyugdíj folyósítására a 203. §-ban foglaltakat kell alkalmazni.
+(4)

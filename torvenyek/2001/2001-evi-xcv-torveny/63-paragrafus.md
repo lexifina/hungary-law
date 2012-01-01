@@ -4,4 +4,4 @@
 
 (2) Az állomány áthelyezett tagjának szolgálati viszonya az áthelyezéssel egyidejűleg megszűnik, a közszolgálati jogviszonyt azonban folyamatosnak kell tekinteni.
 
-(3) Az állomány áthelyezett tagjának, amennyiben szolgálati nyugdíjra jogosultságot szerzett – áthelyezésével egyidejűleg – nyugdíját a 203. § (4) bekezdés szerint kell megállapítani.
+(3)

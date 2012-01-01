@@ -40,9 +40,9 @@
 
 (2) Speciális beosztást betöltők várakozási ideje az adott rendfokozatokban:
 
-– őrvezetői rendfokozatban 2 év,
+– őrvezetői rendfokozatban 3 év,
 
-– tizedesi rendfokozatban 2 év,
+– tizedesi rendfokozatban 3 év,
 
 – szakaszvezetői rendfokozatban –,
 

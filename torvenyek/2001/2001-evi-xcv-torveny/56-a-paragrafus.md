@@ -16,7 +16,11 @@ g) az önkéntes tartalékos szolgálatra való alkalmatlanság megállapítás�
 
 h) az önkéntes tartalékos katona a szolgálatra az 59. § (6) bekezdése alapján méltatlanná válásának megállapításával,
 
-i) a törvény erejénél fogva a 41/A. § (1) bekezdés b) pontjában foglalt igazolási kötelezettség ismételt szabályszerű felhívást követő elmulasztása esetén, ha az önkéntes tartalékos nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye.
+i) a törvény erejénél fogva a 41/A. § (1) bekezdés b) pontjában foglalt igazolási kötelezettség ismételt szabályszerű felhívást követő elmulasztása esetén, ha az önkéntes tartalékos nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye,
+
+j) az önkéntes tartalékos szolgálatteljesítésre vonatkozó felső korhatár elérésével, vagy
+
+k) az önkéntes tartalékos meghagyásban részesülő munkakörbe kerülésével.
 
 (2) Az önkéntes tartalékos szolgálati jogviszony megszűnésének napján az önkéntes tartalékos járandóságai időarányosan elszámolásra kerülnek.
 

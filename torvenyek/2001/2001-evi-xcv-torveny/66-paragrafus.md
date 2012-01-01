@@ -1,11 +1,5 @@
 ## Megtérítési kötelezettség
 
-66. § (1) Ha a szolgálati viszony az 56. § b), e) és f) pontja, a 59. § (2) bekezdés c) pontja vagy a 62. § (1) bekezdésének b), d)–g), i) és k) pontja alapján az oktatási intézményben kötelező tanulmányi időnél rövidebb idő alatt szűnt meg, a tanulmányokhoz nyújtott támogatások közül az állomány volt tagja köteles megtéríteni a részére kifizetett juttatásokat, a természetbeni élelmezés értékét, valamint a megállapított, de meg nem fizetett tandíjnak, képzési költségnek azt a hányadát, amelyet a felsőoktatási intézményben a szociális és tanulmányi kedvezmények mellett is meg kellett volna fizetni.
+66. § (1) Az állomány tagjának rendeletben meghatározott megtérítési kötelezettsége keletkezik, ha szolgálati viszonya a kötelezően szolgálati viszonyban töltendő idő előtt az 56. § b), e) és f) pontja, az egészségi és a pszichikai alkalmatlanság kivételével 59. § (2) bekezdés a) pontja, c) pontja, 62. § (1) bekezdésének b), d)–g), i) és k) pontja, vagy a 247. § (6) bekezdés a) pontja alapján szűnik meg.
 
-(2) Amennyiben az állomány tagja a tanulmányi szerződésben meghatározott kötelező szolgálati időtartamnak egy részét nem töltötte szolgálati viszonyban, megtérítési kötelezettsége ezzel arányos.
-
-(3) Az állomány tagja köteles teljes mértékben megtéríteni a 81. § szerint megkötött tanulmányi szerződés alapján részére kifizetett tanulmányi támogatás összegét, ha a szolgálati viszonya a szerződésben meghatározott idő előtt az (1) bekezdésben felsorolt okból szűnt meg.
-
-(4) Ha a szolgálati viszony az 56. § b), e) és f) pontja, az 59. § (2) bekezdés c) pontja vagy a 62. § (1) bekezdésének b), d)–g), i) és k) pontja alapján szűnt meg, az állomány tagja a ruházati illetmény időarányos részét meghaladó összeget megtéríteni köteles.
-
-(5) Nem kell megtéríteni azt az összeget, amely a tanulmányi időnek a sorkatonai szolgálati időként beszámított tartamára esik.
+(2) Megtérítési kötelezettsége keletkezik az állomány tagjának akkor is, ha a szolgálati viszony fennállása alatt önhibájából nem tesz eleget a 81. § szerinti, a vezénylésben, illetve a tanulmányi szerződésben foglalt kötelezettségének.

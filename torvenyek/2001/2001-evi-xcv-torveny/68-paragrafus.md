@@ -36,7 +36,7 @@ a) akit szolgálatának megszakítása nélkül hivatásos állományba vettek,
 
 b) akinek a szolgálati viszonya az 56. § b), d)–f) pontja, az 59. § (6) bekezdése, a 62. § (1) bekezdés k) pontja, a 71. § (2) bekezdése alapján szűnt meg,
 
-c) akinek a szolgálati viszonya rokkantsági nyugdíjra való jogosultság megszerzése miatt szűnt meg,
+c) akinek a szolgálati viszonya rokkantsági nyugdíjra, vagy a megváltozott munkaképességű személyek ellátására való jogosultság megszerzése miatt szűnt meg,
 
 d) akinek szolgálati viszonya három évnél rövidebb szolgálati idő alatt szűnik meg, kivéve, ha szolgálati viszonyának megszüntetésére az 59. § (1) bekezdés a) és b) pontjában foglaltak alapján került sor.
 
@@ -58,7 +58,7 @@ b) a felmentési időből hátralévő idő tekintetében távolléti díjra nem
 
 c) leszerelési segélyre nem jogosult, azonban új jogviszony létesítése esetén a végkielégítési (leszerelési) összeg megállapításánál a megszüntetett jogviszony alapján leszerelési segélyre jogosító idejét is számításba kell venni.
 
-(10) A leszerelési segély összegének felére jogosult a szerződéses katona, ha az 59. § (2) bekezdésének d) pontja alapján mentették fel, vagy az 59. § (5) bekezdés b) pontja szerinti áthelyezéshez nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal tagadta meg.
+(10) A leszerelési segély összegének felére jogosult a szerződéses katona, ha az 59. § (5) bekezdés b) pontja szerinti áthelyezéshez nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal tagadta meg.
 
 (11) A szerződéses katona a vállalt szolgálati idejének letöltésekor, ha annak a meghosszabbítását kéri – az (1) bekezdés szerint felszámított leszerelési segély terhére – szerződés-hosszabbítási díjra jogosult, melynek összege
 
@@ -84,4 +84,4 @@ távolléti díjjal azonos, amit azonban a korábban kifizetett szerződés-hoss
 
 (12) A szerződés-hosszabbítási díjat a szerződéses katona kérelmére kell kifizetni, melyről az állomány tagját a szerződés-hosszabbítás aláírását megelőzően írásban tájékoztatni kell.
 
-(13) Attól a szerződéses katonától, aki a (3) bekezdés alapján nem, vagy a (10) bekezdés alapján csak csökkentett összegű leszerelési segélyre jogosult, a szolgálati viszony megszüntetéséig felvett szerződés-hosszabbítási díjat nem lehet visszakövetelni, amennyiben annak a mértéke meghaladja a kifizetendő leszerelési segély összegét.
+(13)

@@ -4,7 +4,9 @@
 
 (2) A más helységbe való vezénylések együttes időtartama 3 évenként a 6 hónapot nem haladhatja meg. A vezénylés időtartamának befejezésétől számított 6 hónapon belül újabb vezénylésre nem kerülhet sor. Méltánylást érdemlő személyi vagy családi érdekből azonban kérelemre e korlátoktól kivételesen el lehet tekinteni.
 
-(3) Az állomány szolgálati beosztást betöltő tagja Honvédségen belüli képzése az oktatás időtartamára vezényléssel történik. A képzésre történő vezénylés időtartama nem számít be a (2) bekezdésben meghatározott időtartamba.
+(3) A 81. § szerinti képzésre történő vezénylés időtartama nem számít be a (2) bekezdésben meghatározott időtartamba.
+
+(3a) Az állomány tagja honvédtiszti mesterképzésen, és doktori képzésen a Honvéd Vezérkar főnökének jóváhagyásával vehet részt.
 
 (4) Az állomány tagját az ezzel járó sajátos szolgálati kötelezettségeknek, ezek teljesítése feltételeinek és körülményeinek ismertetése után az egy évet meghaladó, a 2. § (32) bekezdés b) és f)–g) pontok szerinti esetekben külföldi szolgálatra a miniszter, ettől eltérő külföldi szolgálatra, illetve rövidebb időtartamra a jogszabályban meghatározott elöljáró vezényelheti. Külföldi szolgálat esetén a vezényeltet megillető juttatások és terhelő kötelezettségek mellett egyéb pénzbeli és természetbeni ellátások, illetve a hazainál kedvezőtlenebb szolgálati körülmények között érvényesülő kötelezettségek is megállapíthatók. A külföldre vezénylés a külföldi szolgálati kötelezettség teljesítésének időtartamára szól.
 

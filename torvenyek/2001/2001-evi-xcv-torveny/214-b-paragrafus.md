@@ -1,1 +1,1 @@
-214/B. § A hivatásos állomány tagja a tényleges nyugállományba helyezéskor választhat a 203. § (9) bekezdése, a 214. §, illetőleg a 214/A. § szerint rögzített, valamint a tényleges nyugállományba helyezéskor megállapított nyugdíjak között azzal, hogy ha a rögzítést követően szolgálati időt szerez, akkor a rögzített nyugdíjat az évenkénti emelésekkel növelve kell figyelembe venni.
+214/B. §

@@ -1,5 +1,5 @@
 ## XIX. Fejezet
 
-## A KATONAI NEMZETBIZTONSÁGI SZOLGÁLATOK ÁLLOMÁNYÁRA VONATKOZÓ KÜLÖN SZABÁLYOK
+## A KNBSZ ÁLLOMÁNYÁRA VONATKOZÓ KÜLÖN SZABÁLYOK
 
-240. § A Katonai Nemzetbiztonsági Szolgálatok (a továbbiakban: Szolgálatok) állományára e törvény rendelkezéseit, az e fejezetben foglalt eltérésekkel, valamint a rájuk vonatkozó külön törvény előírásaival együtt kell alkalmazni.
+240. § A KNBSZ állományára e törvény rendelkezéseit, az e Fejezetben foglalt eltérésekkel, valamint a rájuk vonatkozó külön törvény előírásaival együtt kell alkalmazni.

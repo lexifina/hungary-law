@@ -32,7 +32,7 @@ i) szolgálati érdekű kinevezés, áthelyezés, továbbá más szervhez határ
 
 a) a katonai szolgálat felső korhatárának elérése előtt öt évvel, vagy
 
-b) csak a szolgálati (rokkantsági, baleseti rokkantsági) nyugállományba helyezésről szóló parancs (határozat) közlését követően
+b) csak a nyugállományba helyezésről szóló parancs (határozat) közlését követően
 
 lehet vissza nem térítendő juttatást nyújtani.
 
@@ -40,13 +40,13 @@ lehet vissza nem térítendő juttatást nyújtani.
 
 (4) A szerződéses állomány
 
-a) tiszti és tiszthelyettesi rendfokozatú tagja az (1) bekezdés f) pontja szerinti támogatásokra,
+a) tiszti és altiszti rendfokozatú tagja az (1) bekezdés f) pontja szerinti támogatásokra,
 
-b) honvéd és tisztesi rendfokozatú tagja térítésmentes laktanyai elhelyezésre, továbbá az (1) bekezdés f) pont fa) alpontja szerinti támogatásra
+b) közkatona és tisztesi rendfokozatú tagja térítésmentes laktanyai elhelyezésre, továbbá az (1) bekezdés f) pont fa) alpontja szerinti támogatásra
 
 jogosult.
 
-(5) A szerződéses állomány tiszti és tiszthelyettesi rendfokozatú, 5 évet már szolgálatban eltöltött és összesen legalább 10 év szerződéses szolgálatot vállalt tagjának külön jogszabály alapján nyújtható az (1) bekezdés a)–e) pontja szerinti támogatás. A letöltött szolgálati időbe be kell számítani a Honvédségnél más közszolgálati (köztisztviselői, közalkalmazotti) jogviszonyban folyamatosan eltöltött időt is.
+(5) A szerződéses állomány tiszti és altiszti rendfokozatú, 5 évet már szolgálatban eltöltött és összesen legalább 10 év szerződéses szolgálatot vállalt tagjának külön jogszabály alapján nyújtható az (1) bekezdés a)–e) pontja szerinti támogatás. A letöltött szolgálati időbe be kell számítani a Honvédségnél más közszolgálati (köztisztviselői, közalkalmazotti) jogviszonyban folyamatosan eltöltött időt is.
 
 (6) A lakhatási támogatások nyújtása során a családi körülményekre, rendfokozatra, szolgálati beosztásra és a jogviszony jellegére tekintettel kell érvényesíteni az egyenlő elbírálás elvét.
 

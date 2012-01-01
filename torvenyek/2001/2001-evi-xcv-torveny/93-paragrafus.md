@@ -1,4 +1,4 @@
-93. § (1) Az állomány nő tagját terhessége megállapításától a gyermekének 1 éves koráig éjszakai szolgálatteljesítésre nem lehet beosztani.
+93. § (1) Az állomány nő tagját várandóssága megállapításától a gyermekének 1 éves koráig éjszakai szolgálatteljesítésre nem lehet beosztani.
 
 (2) Az állomány tagját 12 órát elérő vagy azt meghaladó szolgálatra nem lehet beosztani, ha gyermekét egyedül neveli és annak felügyeletét 6 éves koráig önerőből nem tudja biztosítani.
 

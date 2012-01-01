@@ -4,7 +4,7 @@
 
 ## A szolgálati idő számítása
 
-259. § (1) A felmentési idő, a végkielégítés, a pótszabadság mértéke, a jubileumi jutalom, a nyugdíjjogosultság és a nyugdíj mértéke szempontjából e törvény hatálybalépése előtt a fegyveres szervek állományában szolgálati viszonyban eltöltött és a korábbi szabályok szerint beszámítható szolgálati időt a szolgálati viszonyban ténylegesen eltöltött időnek kell elismerni.
+259. § (1) A felmentési idő, a végkielégítés, a pótszabadság mértéke és a jubileumi jutalom szempontjából e törvény hatálybalépése előtt a fegyveres szervek állományában szolgálati viszonyban eltöltött és a korábbi szabályok szerint beszámítható szolgálati időt a szolgálati viszonyban ténylegesen eltöltött időnek kell elismerni.
 
 (2) Az 1996. szeptember hó 1-je után létesített szolgálati viszony esetén a szolgálati viszonyban eltöltött időként csak a sor-, a tartalékos-, a póttartalékos, a továbbszolgáló és a szerződéses katonai, a fegyveres szervnél hivatásos és szerződéses szolgálati viszonyban eltöltött, továbbá a katonai és rendvédelmi felsőoktatási intézménynél 1996. szeptember 1-jét megelőzően hallgatói, növendéki, illetve a tiszthelyettesképző szakközépiskolában hallgatói jogviszonyban eltöltött idő vehető figyelembe.
 

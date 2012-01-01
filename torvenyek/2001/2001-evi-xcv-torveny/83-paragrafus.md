@@ -12,13 +12,13 @@
 
 (6) A speciális beosztásokat jogszabályban kijelölt szakmai testület javaslatára a miniszter határozza meg.
 
-(7) A parancsnoki (vezetői) beosztásra meghatározott rendfokozatnál eggyel alacsonyabb rendfokozatot kell meghatározni a helyettesi beosztásokra, tábornoki rendfokozattal rendszeresített beosztások esetén ez kettővel alacsonyabb lehet.
+(7)
 
 (8) A magasabb rendfokozattal rendszeresített beosztásba való kinevezéshez és az előléptetéshez az illetékes Előmeneteli Bizottság javaslata szükséges.
 
 (9) A miniszter egy alkalommal az állomány általános előmenetelű beosztást betöltő tagját a minimális várakozási idő letelte előtt, speciális előmenetelű beosztást betöltő tagját a várakozási idő letelte előtt a következő rendfokozatba előléptetheti, illetve kinevezheti, amennyiben az állomány tagja az előléptetéshez szükséges valamennyi egyéb feltétellel rendelkezik.
 
-(10) A miniszter, a Honvéd Vezérkar főnöke javaslatára az állomány általános előmenetelű beosztást betöltő tagja viselt rendfokozata szerinti maximális várakozási idejét annak leteltekor egy alkalommal, legfeljebb a viselt rendfokozathoz rendelt maximális várakozási idővel megegyező időtartammal meghosszabbíthatja, amennyiben a meghosszabbításhoz szolgálati érdek fűződik.
+(10) A miniszter, a Honvéd Vezérkar főnöke javaslatára az állomány általános előmenetelű beosztást betöltő tagja viselt rendfokozata szerinti maximális várakozási idejét annak leteltekor legfeljebb a viselt rendfokozathoz rendelt maximális várakozási idővel megegyező időtartammal meghosszabbíthatja, amennyiben a meghosszabbításhoz szolgálati érdek fűződik.
 
 (11) A meghosszabbítás időtartama alatt az állomány tagja további teljesítmény-értékelése alapján előmenetelre évente tervezhető.
 

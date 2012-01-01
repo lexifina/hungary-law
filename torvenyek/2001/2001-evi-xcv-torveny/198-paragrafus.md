@@ -4,4 +4,4 @@
 
 (3) A miniszter a fellebbezést 30 napon belül indokolt határozattal bírálja el.
 
-(4) A károsult a miniszteri határozat ellen, annak kézhezvételétől számított 30 napon belül keresettel fordulhat a bírósághoz. E határozat keresettel nem érintett részei jogerőre emelkednek.
+(4) A károsult a miniszteri határozat ellen, annak kézhezvételétől számított 30 napos jogvesztő határidőn belül keresettel fordulhat a bírósághoz. E határozat keresettel nem érintett részei jogerőre emelkednek.

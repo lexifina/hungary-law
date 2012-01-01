@@ -1,17 +1,25 @@
 1. számú melléklet a 2001. évi XCV. törvényhez
 
-Az állomány tagjának esküje
+A tiszti és az altiszti állomány tagjának esküje
 
 Az eskü szövege:
 
-,,
-
-Én ...................... esküszöm, hogy a Magyar Köztársaság hűséges honvédje (honvéd tisztje, tiszthelyettese, tisztese) leszek.
-
-A Magyar Köztársaság függetlenségét, az állampolgárok jogait bátran, az Alkotmány és más törvények betartásával és betartatásával, a rám bízott katonák és fegyverek erejével, életem árán is megvédem. A katonai ismereteket elsajátítom, alárendeltjeimet a honvédelem feladatainak ellátására felkészítem.
-
-Elöljáróim parancsainak engedelmeskedem, alárendeltjeimet jogaik tiszteletben tartásával vezetem, róluk emberséggel és felelősséggel gondoskodom.''
+„Én ........................................ tiszt/altiszt esküszöm, hogy Magyarországot híven szolgálom, hűséges honvédje leszek. Magyarország függetlenségét, az állampolgárok jogait és szabadságát bátran, a törvények betartásával és betartatásával, a rám bízott honvédek és fegyverek erejével, életem árán is megvédem. Elöljáróim parancsainak engedelmeskedem, alárendeltjeimet jogaik tiszteletben tartásával vezetem, róluk emberséggel és felelősséggel gondoskodom.”
 
 (Az esküt tevő meggyőződése szerint:)
 
-,,Isten engem úgy segéljen!''
+„Isten engem úgy segéljen!”
+
+A Honvéd Koronaőrség tagjának esküje
+
+Az eskü szövege:
+
+„Én ........................................ ünnepélyesen esküszöm, hogy a Magyarország alkotmányos folytonosságát megtestesítő Szent Koronát minden körülmények között, minden veszélytől megóvom és állhatatosan őrzöm, illetéktelen kézre jutását életem árán is megakadályozom.
+
+A különleges szolgálat által megkívánt magas követelmények érdekében tudásomat, testi erőnlétemet a legjobb állapotban tartom, egész életemben erkölcsi feddhetetlenségre törekszem.
+
+A Honvéd Koronaőrség bajtársi szellemétől áthatva, példamutató módon mindenkor becsülettel, magyar honvédhez méltón, harcban vitéz módon küzdve élek és halok.
+
+(Az esküt tevő meggyőződése szerint:)
+
+„Isten engem úgy segéljen!”

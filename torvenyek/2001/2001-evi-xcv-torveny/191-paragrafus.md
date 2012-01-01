@@ -6,10 +6,10 @@ b) az állami egészségügyi és a társadalombiztosítás keretében járó el
 
 c) azt a pénzösszeget,
 
-ca) amelyet az állomány tagja munkaereje hasznosításával megkeresett, vagy az adott helyzetben elvárhatóan megkereshetett volna,
+ca) amelyet a károsult a munkaereje hasznosításával megkeresett, vagy az adott helyzetben elvárhatóan megkereshetett volna,
 
-cb) amelyhez az állomány tagja (illetve annak hozzátartozója) a megrongálódott dolog hasznosításával hozzájutott,
+cb) amelyhez a károsult a megrongálódott dolog hasznosításával hozzájutott,
 
-cc) amelyhez a jogosult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá,
+cc) amelyhez a károsult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá, és
 
-cd) amelyhez az állomány tagja a Honvédség által, a javára megkötött biztosítás révén jut.
+cd) amelyhez a károsult a Honvédség által, a javára megkötött biztosítás révén jut.

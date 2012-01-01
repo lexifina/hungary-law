@@ -1,9 +1,15 @@
-35. § (1) A szervezeti egységnél képviselettel rendelkező szakszervezet – a műveleti területen szolgálatot teljesítő állomány kivételével – jogosult az állomány tagjait, illetve a szervezetét közvetlenül érintő jogellenes intézkedés, mulasztás (a továbbiakban együtt: intézkedés) ellen kifogást benyújtani.
+## Szakszervezeti érdekegyeztetés
 
-(2) A kifogást az állományilletékes parancsnokhoz kell benyújtani a jogellenes intézkedésről való tudomásszerzéstől számított 5 munkanapon belül. A kifogást az intézkedés megtételétől számított 1 hónapon túl nem lehet benyújtani.
+35. § (1) A Honvédségnél a szolgálati viszonnyal összefüggő érdekegyeztetésben a Honvédség kijelölt képviselője és a szakszervezet választott tisztségviselője vesz részt. A konzultáció során a vitás kérdések egyeztetésébe szakértők is bevonhatók.
 
-(3) Nincs helye kifogásnak, ha az intézkedéssel szemben az állomány tagja jogvitát kezdeményezhet.
+(2) A miniszter köteles kikérni az állomány tagjainak legalább 10 százalékát képviselő szakszervezet véleményét az állomány tagjainak szolgálatteljesítésére, szolgálatteljesítési és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a hatáskörébe utalt szabályozásról.
 
-(4) Ha az állományilletékes parancsnok a kifogással nem ért egyet, egyeztetésnek van helye. Az egyeztető tárgyalást a kifogás benyújtásától számított 3 munkanapon belül meg kell kezdeni. Ha az egyeztetés 7 napon belül nem vezetett eredményre, az eredménytelenség megállapításától számított 5 napon belül a szakszervezet a bírósághoz fordulhat. A bíróság nem peres eljárásban, 15 napon belül dönt.
+(3) A (2) bekezdésen túl az állomány tagjainak legalább 10 százalékát képviselő szakszervezet jogosult az állomány tagjainak legalább 10 százalékát érintő munkáltatói intézkedéssel vagy annak tervezetével kapcsolatos véleményét a Honvédséggel közölni, ezzel összefüggésben konzultációt kezdeményezni.
 
-(5) A kifogásolt intézkedést az egyeztető eljárás eredményes befejezéséig vagy a jogerős bírósági döntésig végrehajtani nem lehet, illetőleg a végrehajtását fel kell függeszteni.
+(4) Az állomány tagjainak legalább 10 százalékát képviselő szakszervezet tájékoztatást kérhet a Honvédségtől az állomány tagjainak szolgálati viszonyával összefüggő gazdasági és szociális érdekeivel kapcsolatban, így különösen a szolgálati viszonyra vonatkozó jogszabályok végrehajtásáról, és a Honvédséggel kötött megállapodások betartásáról. A tájékoztatást 15 napon belül meg kell adni.
+
+(5) A szakszervezet javaslatot tehet a Honvédség részére az állomány tagját érintő intézkedésekre, valamint a szolgálati viszonyt érintő intézkedés egységes értelmezésére.
+
+(6) A szakszervezet jogosult az állomány tagjait az érdekegyeztetéssel és a szolgálati viszonnyal összefüggő kérdésekben tájékoztatni. A Honvédség – a szakszervezettel egyeztetve – biztosítja annak lehetőségét, hogy a szakszervezet a tevékenységével kapcsolatos tájékoztatást a Honvédségnél a szolgálati helyen szokásos vagy más megfelelő módon közzétegye.
+
+(7) A szakszervezet jogosult tagjait a Honvédséggel szemben anyagi, szociális, valamint élet- és munkakörülményeiket érintő jogaikkal és kötelezettségeikkel kapcsolatban, meghatalmazás alapján gazdasági- és szociális érdekeinek védelme céljából bíróság, hatóság és egyéb szervek előtt képviselni.

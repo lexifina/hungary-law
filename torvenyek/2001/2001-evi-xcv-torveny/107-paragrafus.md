@@ -1,4 +1,4 @@
-107. § (1) Az alapilletmény szempontjából az állomány tiszti rendfokozatú tagjait az I., a legénységi állományba tartozó és tiszthelyettesi rendfokozatú tagjait a II. besorolási osztályba kell besorolni.
+107. § (1) Az alapilletmény szempontjából az állomány tiszti rendfokozatú tagjait az I., a legénységi állományba tartozó és altiszti rendfokozatú tagjait a II. besorolási osztályba kell besorolni.
 
 (2) Az I. és a II. besorolási osztály 10-10 besorolási kategóriából áll. Minden besorolási kategóriához egy-egy besorolási, illetőleg minden rendfokozathoz egy-egy honvédelmi szorzószám kapcsolódik.
 

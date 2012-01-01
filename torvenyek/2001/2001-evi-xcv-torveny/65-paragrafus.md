@@ -12,7 +12,7 @@ c) az illetményéből határozat vagy jogszabály alapján levonandó tartozás
 
 d) a szolgálati viszony megszűnésének évében járó alap- és pótszabadság mértékét, az igénybe vett szabadság időtartamát, valamint a szabadság megváltásaként kifizetett összeget;
 
-e) a szolgálati nyugellátásra való jogosultság megszerzésére és folyósítására vonatkozó rendelkezést;
+e) a nyugellátásra való jogosultság megszerzésére és folyósítására vonatkozó rendelkezést;
 
 f) a figyelembe vett szolgálati évei számát, a kifizetésre került végkielégítés, illetve leszerelési segély, valamint a kifizetésre került vagy kerülő jubileumi jutalom összegét és az azok alapjául szolgáló időtartamot.
 

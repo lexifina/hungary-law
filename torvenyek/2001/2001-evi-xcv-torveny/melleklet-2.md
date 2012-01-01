@@ -12,9 +12,9 @@ szerinti sorrendben
 
 – szakaszvezető,
 
-2. tiszthelyettesek:
+2. altisztek:
 
-a) tiszthelyettesek:
+a) altisztek:
 
 – őrmester,
 

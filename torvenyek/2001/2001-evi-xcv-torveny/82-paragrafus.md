@@ -6,7 +6,7 @@
 
 (3) Az állomány tagja köteles magát az ellenőrzéseknek alávetni.
 
-(4) Ha az állomány tagja az előírt követelményeknek nem felel meg, határidő kitűzésével az ellenőrzést meg kell ismételni.
+(4) Ha az állomány tagja az előírt követelményeknek nem felel meg, határidő kitűzésével az ellenőrzést meg kell ismételni. Az állomány – a 77/A. § (1) bekezdése szerinti feltételeknek megfelelő – tagjának a fizikai követelményeknek való megfelelését a megismételt ellenőrzésen kérelemre – ha van más, általa könnyített szolgálat formájában betölthető beosztás – a könnyített szolgálat követelményrendszere szerint kell megállapítani.
 
 (5) Ha az állomány tagja a megismételt ellenőrzésen sem felelt meg az egészségügyi, pszichikai követelményeknek, az 59. § (2) bekezdés a) pontja szerint kell eljárni.
 

@@ -1,5 +1,7 @@
-38. § (1) A 34–37. §-ban biztosított jogok a szervezeti egységnél reprezentatívnak minősülő szakszervezetet, illetőleg tisztségviselőjét illetik meg. E jogok megilletik az előbbiek hiányában az országosan reprezentatívnak minősülő szakszervezetet is, ha a szervezeti egységnél legalább egy tagja van.
+## Az érdekegyeztetés fórumai
 
-(2) Az (1) bekezdés alkalmazásában reprezentatívnak azt a szakszervezetet kell tekinteni, amelynek taglétszáma eléri a szervezeti egység, országosan pedig az állomány létszámának 10%-át. Ha a szervezeti egységnél csak egy szakszervezet működik, azt taglétszámától függetlenül reprezentatívnak kell tekinteni.
+38. § (1) A szolgálati viszonyt érintő ágazati jelentőségű kérdésekben a miniszter az ágazati érdekvédelmi tanáccsal egyeztet. A miniszter az ágazati érdekvédelmi tanácsban – a (2) bekezdésben meghatározott – érdekképviseleti szervek képviselőivel egyeztet. Az ágazati érdekvédelmi tanácsot félévente egy alkalommal kell összehívni.
 
-(3) A reprezentatívnak nem minősülő szakszervezetet is megilleti a 35. § szerinti kifogás joga, ha a munkáltatói jogkört gyakorló elöljáró intézkedése jogszabályban foglalt rendelkezést sért.
+(2) Az ágazati érdekvédelmi tanács szervezetének és működésének szabályait, az egyeztetés célját és tárgyköreit, valamint a szociális partnereket megillető jogosítványokat e törvény keretei között a miniszter és az érdekegyeztetésben részt vevő felek közötti megállapodás tartalmazza. Az ágazati érdekvédelmi tanács titkársági feladatait a miniszter által vezetett minisztérium látja el.
+
+(3) Az ágazati érdekvédelmi tanács véleménynyilvánításra, tájékoztatás-kérésre és javaslattételre jogosult az állomány tagjainak élet- és munkakörülményeivel, foglalkoztatási feltételeivel kapcsolatban.

@@ -16,8 +16,12 @@ g) szolgálaton kívül is a Honvédség tagjához és beosztásához méltó ma
 
 h) a rendelkezésére bocsátott fegyverzetet, felszerelést, ruházatot, egyéb eszközöket és anyagokat rendeltetésszerűen használni és gondozni;
 
-i) fertőző megbetegedés veszélye esetén, valamint ha a munkakörhöz, illetve egyes szolgálati feladatokhoz kapcsolódóan a személyi állomány tagjának vagy egyes csoportjainak egészségét és biztonságát veszélyeztető biológiai kóroki tényező kockázata mutatható ki, az 52/A. § (3) bekezdés szerinti egészségügyi intézkedések tűrésére.
+i) fertőző megbetegedés veszélye esetén, valamint ha a munkakörhöz, illetve egyes szolgálati feladatokhoz kapcsolódóan a személyi állomány tagjának vagy egyes csoportjainak egészségét és biztonságát veszélyeztető biológiai kóroki tényező kockázata mutatható ki, az 52/A. § (3) bekezdés szerinti egészségügyi intézkedések tűrésére;
+
+j) szolgálati feladatként közreműködni a honvédelmi nevelés programjának megvalósításában, a honvéd tisztképzésben és altisztképzésben.
 
 (2) Az állomány tagja köteles megtartani a minősített adatot, valamint az adatok védelmére vonatkozó szabályokat.
 
 (3) Az állomány tagja a szolgálati feladathoz kapcsolódó nyilvános szerepléséért tiszteletdíjat nem fogadhat el.
+
+(4) Az (1) bekezdés szerinti szolgálati feladatokban az önkéntes tartalékos katona a szerződése szerinti korlátozásokkal köteles részt venni.

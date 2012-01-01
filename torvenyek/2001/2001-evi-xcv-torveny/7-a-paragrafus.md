@@ -1,0 +1,7 @@
+7/A. § (1) A munkáltatói jogkör gyakorlója a hatáskörébe tartozó döntéseket – a teljesítményértékelés, a minősítés, a vezetői értékelés, a méltatlansági határozat, a 222. § szerint fellebbezéssel megtámadható határozatok kivételével – döntési lap formájában is meghozhatja. A döntési lap a munkáltatói jogkör gyakorlójának döntéseit összesíti. A döntési lapon történő munkáltatói jogkörgyakorlás rendjét miniszteri rendelet határozza meg.
+
+(2) A döntési lapon meghozott munkáltatói döntést a miniszteri rendeletben meghatározott személyügyi szerv foglalja határozatba, és azt a személyügyi szerv vezetője kiadmányozza. Az így elkészített határozatot a 7. § (4) bekezdésnek megfelelően indokolni kell, és azt a 7. § (3) bekezdésének megfelelően az állomány tagjával közölni kell. A határozattal szemben az állomány tagja e törvény rendelkezéseinek megfelelően szolgálati panaszt terjeszthet elő, illetve bírósághoz fordulhat.
+
+(3) A (2) bekezdés szerinti határozat közlésétől számított 8 napon belül az állomány tagja írásban kérheti a személyügyi szervtől a döntési lap rá vonatkozó részének (a továbbiakban: kivonat) közlését. A személyügyi szerv a kivonatot a kérelem beérkezésétől számított 8 napon belül közli az állomány tagjával.
+
+(4) A munkáltatói jogkör gyakorlójának döntési lapon rögzített döntése nélkül e § alapján a személyügyi szerv határozatot nem hozhat. Döntési lapon hozott munkáltatói döntéstől eltérő határozat érvénytelenségére a 8–11. § rendelkezéseit kell alkalmazni.

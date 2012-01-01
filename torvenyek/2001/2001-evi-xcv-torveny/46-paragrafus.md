@@ -1,6 +1,6 @@
 ## A szolgálatteljesítés
 
-46. § (1) Az állomány tagja szolgálatát a külön jogszabályban meghatározott beosztásokban, az e törvény 2. §-ának (10) bekezdésében meghatározott szervezeti egységben, továbbá az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) parancsnokságain és hivatalainál, valamint az Európai Unió (a továbbiakban: EU) katonai szerveiben és az EU által indított műveletekben, továbbá a NATO vagy az EU érdekében feladatokat végrehajtó, Magyarországra települő többnemzeti katonai szervezeteknél a Magyar Köztársaság részére biztosított beosztásokban teljesíti.
+46. § (1) Az állomány tagja szolgálatát a külön jogszabályban meghatározott beosztásokban, az e törvény 2. §-ának (10) bekezdésében meghatározott szervezeti egységben, továbbá az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) parancsnokságain és hivatalainál, valamint az Európai Unió (a továbbiakban: EU) katonai szerveiben és az EU által indított műveletekben, továbbá a NATO vagy az EU érdekében feladatokat végrehajtó, Magyarországra települő többnemzeti katonai szervezeteknél Magyarország részére biztosított beosztásokban teljesíti.
 
 (2) Az állomány tagja – beleegyezésével – a miniszter és az érintett szerv vezetőjének megállapodása alapján határozott vagy határozatlan időtartamra történő vezényléssel más szervnél is teljesíthet szolgálatot. A határozott időre szóló vezénylés a vezényelt beleegyezésével meghosszabbítható. A szerződéses állomány tagja esetében ehhez a szerződés módosítása is szükséges.
 
@@ -12,21 +12,21 @@ b) a szövetséges fegyveres erőknél, valamint az EU katonai és védelmi kér
 
 c) nemzetközi szervezetekben,
 
-d) a katonai nemzetbiztonsági szolgálatoknál,
+d) a KNBSZ-nél,
 
 e)
 
-f) a védelmi igazgatás rendszerében,
+f)
 
-g) a központi és a helyi közigazgatási szerveknél (a szerződéses állomány kivételével),
+g) a központi és a helyi közigazgatási szerveknél,
 
-h) a nem katonai felsőoktatási intézményeknél,
+h) katonai képzést nem folytató felsőoktatási intézményeknél,
 
 i) a tudományos (kutató) és kulturális intézményeknél,
 
 j) a honvédelmi vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervezetnél, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetnél, illetve egyesületnél,
 
-k) a bíróságoknál és az Országos Igazságszolgáltatási Tanács Hivatalában,
+k) a bíróságoknál, a bíróságok igazgatási feladatait ellátó szervezeténél, az ügyészi szervezetnél,
 
 l) az egészségügyi intézményeknél
 
@@ -34,11 +34,11 @@ l) az egészségügyi intézményeknél
 
 (4) Ha az állomány tagját állami vezetővé nevezik ki, rendfokozatát nem használhatja és az állami vezetőkre vonatkozó illetményrendszer szerinti illetményre jogosult. Az állomány kinevezett tagjának szolgálati viszonyát folyamatosnak kell tekinteni. Ha állami vezetői beosztásából felmentik, akkor a 69. § (2) bekezdésben leírtakat kell alkalmazni.
 
-(5)
+(5) A miniszter a szervezeti egységnél rendszeresített szolgálati beosztást kormánytisztviselői vagy közalkalmazotti (a továbbiakban együtt: nem katonai) munkakörré, a nem katonai munkakört szolgálati beosztássá átminősítheti. Az átminősítés e törvény alkalmazásában átszervezésnek minősül.
 
 (6) Katonai bíró és katonai ügyész a (3) bekezdés g) pontja alapján csak az igazságügyért felelős miniszter által vezetett minisztériumban teljesíthet szolgálatot.
 
-(7)
+(7) A szerződéses legénységi állományba felvett, rendfokozattal nem rendelkező katona egy évig közkatonaként teljesít szolgálatot.
 
 (8) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, katonai feladat végrehajtása közben meghatározott egészségügyi tevékenységet a harctéri egészségügyi katonán túl harctéri életmentő katona is végezhet
 

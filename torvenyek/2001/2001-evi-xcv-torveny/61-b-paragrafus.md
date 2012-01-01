@@ -4,7 +4,7 @@ a) az illetmény nélküli szabadság igénybevételére jogosító gyermeke har
 
 b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
 
-(2) Rész-szolgálatteljesítési idő a miniszter által vezetett minisztériumban, valamint hivatalainál, ügynökségeinél és háttérintézményeinél rendszeresített beosztást betöltőknek engedélyezhető a hivatásos és szerződéses katonai beosztások megállapításáról szóló miniszteri rendeletben meghatározott beosztást, illetve a parancsnoki (vezetői) beosztást betöltők kivételével.
+(2) Rész-szolgálatteljesítési idő nem engedélyezhető a miniszteri rendeletben meghatározott vezetői beosztást betöltők esetén.
 
 (3) Az állomány tagjának kérelméről a munkáltatói jogkör gyakorlója a kérelem benyújtását követő 30 napon belül írásban dönt. A kérelem elbírálása során a munkáltatói jogkör gyakorlója a szolgálat érdekében a rész-szolgálatteljesítés lehetőségét vizsgálja a beosztáshoz tartozó munkaköri feladatok jellegének és a szolgálatteljesítés körülményeinek mérlegelésével. A kérelem elutasítását a munkáltatói jogkör gyakorlója írásban köteles megindokolni.
 
@@ -25,3 +25,5 @@ kezdődik. A b) pontban foglaltak alkalmazása esetén – a felek eltérő meg�
 (8) A (7) bekezdés szerinti időponttól a szolgálati viszony alapján nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a szolgálatteljesítési idő mértékével összefügg. A rész-szolgálatteljesítés esetén az 52–53. §-ok és a 94–95. §-ok nem alkalmazhatók.
 
 (9) Az illetmény nélküli szabadság igénybevételére jogosító gyermek harmadik életéve betöltetése napjától az állomány tagját eredeti beosztásában a 91. § (1) bekezdése szerinti szolgálatteljesítési időben kell továbbfoglalkoztatni, és az illetményét újra meg kell állapítani.
+
+(10) E § rendelkezéseit megfelelően alkalmazni kell akkor is, ha a rész-szolgálatteljesítés engedélyezése iránti kérelem benyújtásakor az állomány tagja a 103. § (1) bekezdés a) pontja szerinti illetmény nélküli szabadságot nem vesz igénybe. Az (1) bekezdésen túl az állomány tagja köteles tájékoztatni a munkáltatói jogkör gyakorlóját arról is, hogy a rész-szolgálatteljesítés kérelmezésére jogosító gyermeke után a másik szülő illetménynélküli szabadságot, vagy rész-szolgálatteljesítést nem vesz igénybe. A munkáltatói jogkör gyakorlója az állomány tagjának kérelmére heti 20 óránál hosszabb rész-szolgálatteljesítési időt is engedélyezhet. A rész-szolgálatteljesítés a kérelem engedélyezését követő hónap első napján kezdődik.

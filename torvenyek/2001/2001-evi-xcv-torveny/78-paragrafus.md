@@ -2,7 +2,7 @@
 
 78. § (1) Az előmenetel a szigorú alá- és fölérendeltségi viszonyon alapuló szervezeti hierarchiában történő emelkedés útján valósul meg.
 
-(2) Az állomány tagjának az (1) bekezdésben meghatározott pályán, belátható, tervszerű előmeneteli lehetőséget kell biztosítani a magasabb beosztás és a hozzá kapcsolódó rendfokozat eléréséhez, illetve az azokhoz szükséges feltételek megszerzéséhez. Ez a hivatásos állománynál legalább a szolgálati nyugdíjjogosultság eléréséig terjedő életpályát, előmenetelt, a szerződéses állománynál pedig kiszámítható előmenetelt jelent.
+(2) Az állomány tagjának az (1) bekezdésben meghatározott pályán, belátható, tervszerű előmeneteli lehetőséget kell biztosítani a magasabb beosztás és a hozzá kapcsolódó rendfokozat eléréséhez, illetve az azokhoz szükséges feltételek megszerzéséhez. Ez a hivatásos állománynál életpályát, előmenetelt, a szerződéses állománynál pedig kiszámítható előmenetelt jelent.
 
 (3) Az előmenetelt a magasabb beosztásba és az ahhoz tartozó magasabb rendfokozatba történő kinevezés és előléptetés jelenti.
 
@@ -27,3 +27,5 @@ f) ezredesi rendfokozattal rendszeresített beosztás esetén parancsnoki (vezet
 (7) A kérelemre alacsonyabb beosztást betöltők előmenetelét az általuk ténylegesen betöltött beosztáshoz rendszeresített rendfokozatot viselők előmenetele szerint kell elbírálni.
 
 (8) A 44. §-ban foglaltakat az állomány tagjának magasabb rendfokozati állománycsoportba történő kinevezésekor is megfelelően alkalmazni kell.
+
+(9) Az önkéntes tartalékos állomány előmenetelére e § rendelkezései nem alkalmazhatók. Előmenetelükre – egyéb feltételek fennállása esetén – szerződésükben foglaltaknak megfelelően kerülhet sor.

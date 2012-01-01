@@ -8,7 +8,7 @@
 
 (3) A lakóhely szerint illetékes katonai igazgatás területi szervénél érdekvédelmi nyilvántartást és a miniszter által kijelölt központi szervnél központi nyilvántartást kell vezetni:
 
-a) a nyugállományba helyezettekről,
+a) a nyugállományba helyezettekről és a szolgálati járandóságban részesülőkről,
 
 b) a hivatásos, szerződéses és önkéntes tartalékos szolgálatteljesítés alapján ellátásra jogosultakról, illetve ellátásra jogosult hozzátartozóikról.
 

@@ -12,7 +12,7 @@ d) illetményelőleg;
 
 e) tanulmányi ösztöndíj, képzési, továbbképzési, átképzési támogatás.
 
-(2) Az állomány tagjai étkezési hozzájárulásra jogosultak, kivéve azokat, akik 30 napnál hosszabb illetménynélküli szabadságon, illetve a 263. § szerinti esetekben a szolgálattól 30 napot meghaladóan távol vannak, valamint akik jogszabály alapján térítésmentes étkezésben részesülnek.
+(2) Az állomány tagjai étkezési hozzájárulásra jogosultak, kivéve azokat, akik 30 napnál hosszabb illetménynélküli szabadságon vannak, valamint akik jogszabály alapján térítésmentes étkezésben részesülnek. Étkezési hozzájárulásra nem jogosultak azok sem, akiknek a 117. § (1) bekezdése szerinti visszatartott távolléti díj jár. A 117. § (2) bekezdését az étkezési hozzájárulásra is alkalmazni kell.
 
 (3) Az állomány tagját a belföldi menetrend szerinti távolsági közlekedési eszközök igénybevételénél jogszabályban meghatározott utazási kedvezmény illeti meg.
 

@@ -1,9 +1,7 @@
-34. § (1) A szervezeti egység szakszervezeti szervével, illetve a reprezentatív szakszervezettel való együttműködés keretében az állományilletékes parancsnok köteles:
+34. § (1) A Honvédség nem követelheti meg, hogy az állomány tagja szakszervezethez való tartozásáról nyilatkozzék.
 
-a) a szükséges tájékoztatás megadásával a szakszervezet érdekképviseleti tevékenységét elősegíteni;
+(2) A szolgálati viszony létesítését, vagy fenntartását nem lehet attól függővé tenni, hogy a jelentkező vagy az állomány tagja valamely szakszervezetnek tagja-e, vagy megszünteti-e korábbi szakszervezeti tagságát, vagy vállalja-e a Honvédség által megjelölt szakszervezetbe történő belépést. Szakszervezethez való tartozása vagy szakszervezeti tevékenysége miatt tilos az állomány tagjának szolgálati viszonyát megszüntetni vagy vele szemben bármilyen megkülönböztetést alkalmazni.
 
-b) a szakszervezet által tett észrevételekre, javaslatokra vonatkozó álláspontját és ennek indokait közölni;
+(3) Nem lehet jogosultságot vagy juttatást valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni.
 
-c) a szolgálati viszonnyal összefüggő anyagi, szociális és kulturális érdekeket érintő intézkedésének megtétele előtt – ha az az állomány legalább 25%-át vagy több mint 50 főt közvetlenül érint – a szervezeti egységen belül működő szakszervezet képviselőjét tájékoztatni.
-
-(2) Az (1) bekezdésben meghatározottak irányadók – irányítása körébe tartozóan – az elöljáró szervek parancsnokaira (vezetőire) is.
+(4) A Honvédség szakszervezeti tagdíj levonásáért és a szakszervezet részére történő átutalásáért ellenértéket nem követelhet.

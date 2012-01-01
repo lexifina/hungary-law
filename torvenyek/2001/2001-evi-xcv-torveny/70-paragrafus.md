@@ -4,7 +4,7 @@
 
 a) amelyben közeli hozzátartozójával közvetlen szolgálati elöljárói-alárendelti viszonyba kerül,
 
-b) amelynek révén olyan gazdálkodó szervezettel kerül gazdasági tevékenységnek minősülő [az általános forgalmi adóról szóló 1992. évi LXXIV. törvény 5. § (1) bekezdés] kapcsolatba, amelyben közeli hozzátartozójának tulajdonrésze van, vagy a hozzátartozó a gazdasági tevékenységre befolyással bíró tisztséget (munkakört) lát el,
+b) amelynek révén olyan gazdálkodó szervezettel kerül gazdasági tevékenységnek minősülő [az általános forgalmi adóról szóló törvény] kapcsolatba, amelyben közeli hozzátartozójának tulajdonrésze van, vagy a hozzátartozó a gazdasági tevékenységre befolyással bíró tisztséget (munkakört) lát el,
 
 c) az a) és b) pontban foglaltak alól az érintettek kérelmére és az állományilletékes parancsnok (vezető) javaslatára rendkívül indokolt esetben a miniszter felmentést adhat.
 

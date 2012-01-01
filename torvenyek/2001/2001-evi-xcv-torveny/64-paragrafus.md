@@ -6,4 +6,4 @@
 
 (3) A katonai ügyésznek és más katonai ügyészségi alkalmazottnak a Honvédséggel fennálló szolgálati viszonya – a lemondása kivételével – akkor szüntethető meg, illetőleg az a törvény erejénél fogva a hivatásos szolgálat felső korhatárának elérése miatt csak akkor szűnik meg, ha ügyészségi szolgálati viszonya megszűnik.
 
-(4) A (3) bekezdésben említett eseten kívül a Honvédséggel fennálló szolgálati viszony akkor is megszüntethető, ha a katonai ügyész és más katonai ügyészségi alkalmazott áthelyezését kéri a Magyar Köztársaság ügyészsége nem katonai ügyészségi szervezeti egységéhez, és az áthelyezéséhez a legfőbb ügyész hozzájárul.
+(4)

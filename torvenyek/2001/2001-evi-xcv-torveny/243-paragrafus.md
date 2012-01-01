@@ -1,7 +1,21 @@
-243. § (1) A Szolgálatok állományának tagja nemzetbiztonsági feladatait külső munkaviszonyt létesítve is elláthatja (kihelyezett állomány).
+## Az alapvető jogok korlátozása
 
-(2) A Szolgálatok főigazgatói a szolgálat tagját polgári fedőbeosztásba helyezhetik. A szolgálat polgári fedőbeosztást ellátó tagjának szolgálati viszonyát folyamatosnak kell tekinteni, előmenetelére a speciális beosztást betöltőkre vonatkozó rendfokozati előmeneteli szabályok az irányadók.
+243. § (1) A KNBSZ állományának tagja
 
-(3) A szolgálatok fedőintézményben végzett feladataikat befejező tagjaira – amennyiben számukra rendfokozatuknak megfelelő más beosztás nem biztosítható – a 48. § (1) bekezdés b) pontjában foglaltak alkalmazhatók.
+a) a gyülekezési jog alapján szervezett rendezvényen történő megjelenési szándékát köteles a főigazgatónak írásban bejelenteni, aki a részvételt megtilthatja;
 
-(4) A katonai nemzetbiztonsági szolgálatok fedőbeosztásban lévő tagjai szolgálati nyugdíjának a 214. § és 214/A. § szerinti megállapítását (rögzítését) a Magyar Honvédség nyugdíj-megállapításra jogosult szerve – a katonai nemzetbiztonsági szolgálatok főigazgatóival együttműködve – a fedőbeosztásban lévő személyek adatai védelmére vonatkozó speciális szabályok figyelembevételével végzi.
+b) a külföldre utazásának tervezett időpontját, útvonalát, az utazás célját, útitársait, külföldi tartózkodási helyét, hazatérésének várható időpontját – az utazás megkezdését megelőzően legalább 10 nappal – szolgálati elöljárójának köteles írásban bejelenteni. A NATO és az EU tagállamaiba utazást ettől eltérően, legkésőbb az utazás megkezdését megelőző napon kell szolgálati elöljárójának írásban bejelenteni. A főigazgató a külföldre utazást szolgálati vagy nemzetbiztonsági érdekből megtilthatja, illetve korlátozhatja. Rendkívül indokolt esetben a fenti határidőktől el lehet térni;
+
+c) köteles a főigazgatónak írásban bejelenteni
+
+ca) külföldi állampolgárral vagy külföldi állampolgársággal is rendelkező személlyel létesített, fenntartott kapcsolatát,
+
+cb) a vele egy lakó-, illetve tartózkodási helyen együtt élő személyek tekintetében beállott változást,
+
+cc) valamennyi hazai, vagy külföldi pénzintézetnél vezetett számláját,
+
+cd) egy millió forintot meghaladó forgalmi értékű ingatlan, vagy ingóság megszerzését, és
+
+ce) a biztonsági helyzetét befolyásoló egyéb körülményeket, azok megváltozását.
+
+(2) A KNBSZ állományának tagja – az elöljáró parancsnok által elrendelt időszakban – köteles bejelenteni a szolgálaton kívüli tartózkodási helyét.

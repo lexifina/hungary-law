@@ -6,7 +6,7 @@ a) az Országgyűlés vagy a Kormány döntése alapján a Honvédségnél léts
 
 b) átszervezés következtében szolgálati beosztása megszűnt;
 
-c) szolgálati nyugellátásra szerzett jogosultságot és az eredeti beosztásában szolgálati érdekből tovább nem foglalkoztatható, a számára felajánlott legalább azonos szintű beosztást – figyelemmel az 51. § (4) bekezdésére is – pedig nem fogadta el;
+c) az eredeti beosztásában szolgálati érdekből tovább nem foglalkoztatható, a számára felajánlott legalább azonos szintű beosztást – figyelemmel az 51. § (4) bekezdésére is – pedig nem fogadta el;
 
 d) a 48. § (1) bekezdése alapján rendelkezési állományban nem tartható.
 
@@ -18,19 +18,21 @@ b) az általános előmeneteli rendbe tartozó beosztás betöltése esetén a r
 
 c) a szolgálatra méltatlanná vált;
 
-d) az 51. § szerinti kinevezést, beosztásba, illetve állományba helyezést alapos indok nélkül elutasítja.
+d)
 
-(3)
+(2a) A hivatásos állomány nő tagjának szolgálati viszonyát kérelmére felmentéssel meg kell szüntetni, ha rendelkezik a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny. tv.) 18. § (2a)–(2d) bekezdése szerinti jogosultsági idővel.
 
-(4) Az (1) bekezdés c) pontja alapján nyugellátásra jogosult az állomány tagja, ha rendelkezik a 203. § (1) bekezdésében meghatározott feltétellel.
+(3) Nem alkalmazható a (2) bekezdés a) és b) pontja, ha a hivatásos állomány arra jogosult tagja a 48. § (1) bekezdés r) vagy s) pontja alapján rendelkezési állományba kerül.
 
-(5) Ha a (2) bekezdés a) pontjában meghatározott alkalmatlanság egészségi, pszichikai ok következménye, az állomány tagja akkor menthető fel, ha
+(4)
+
+(5) Ha a (2) bekezdés a) pontjában meghatározott alkalmatlanság egészségi, pszichikai ok következménye, az állomány tagja akkor menthető fel, ha rendelkezési állományban nem tartható és
 
 a) állapotának megfelelő más betölthető beosztás a Honvédségnél számára nem biztosítható,
 
 b) a felajánlott másik, állapotának megfelelő beosztást a hivatásos állomány tagja visszautasítja, vagy
 
-c) rokkantsági, baleseti rokkantsági nyugellátásra jogosultságot szerzett.
+c) rokkantsági, baleseti rokkantsági nyugellátásra vagy a megváltozott munkaképességű személyek ellátására jogosultságot szerzett.
 
 (6) A szolgálatra méltatlan az,
 

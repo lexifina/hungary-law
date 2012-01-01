@@ -1,5 +1,3 @@
-## A nyugellátás és a baleseti járadék megállapítása
-
-212. § (1) Az e törvény alapján járó nyugellátások és baleseti járadék megállapításáról első fokon a miniszter által kijelölt szerv indokolt határozatban dönt.
+212. § (1) A baleseti járadék, – a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény szerinti, e törvény 2011. december 31-én hatályos szabályai alapján kiszámításra kerülő – rögzített nyugdíj, valamint kormányrendeletben meghatározott esetben a szolgálati járandóság megállapításáról első fokon a miniszter által kijelölt szerv indokolt határozatban dönt.
 
 (2) A határozat ellen a kézbesítéstől számított 15 napon belül a miniszterhez fellebbezés nyújtható be. A miniszter határozata ellen a kézbesítésétől számított 30 napon belül keresettel a bírósághoz lehet fordulni.

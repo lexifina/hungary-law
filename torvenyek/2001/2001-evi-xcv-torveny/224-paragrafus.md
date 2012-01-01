@@ -10,7 +10,7 @@
 
 (6) Ha a felmentés azért jogellenes, mert e törvényben előírtnál rövidebb felmentési időt állapítottak meg, ez a felmentést nem teszi érvénytelenné, de ilyen esetben a szolgálati viszony – a (7) bekezdésben foglalt kivétellel – a szabályos felmentés utolsó napjáig tart.
 
-(7) Ha a szolgálati viszony megszüntetésekor a hivatásos állomány tagját nyugállományba helyezik és a bíróság a szolgálati viszonynak felmentéssel történő megszüntetéssel hozott határozatot hatályon kívül helyezi, a szolgálati viszony a nyugállományba helyezéssel szűnik meg, de a jogellenességet megállapító határozat jogerőre emelkedésének napjáig a hivatásos állomány tagja részére meg kell téríteni a nyugellátás és az elmaradt illetménye közötti különbözetet, valamint elmaradt egyéb járandóságát és a felmerült kárát.
+(7) Ha a szolgálati viszony megszüntetésekor a hivatásos állomány tagját nyugállományba helyezték és a bíróság a szolgálati viszonynak felmentéssel történő megszüntetéssel hozott határozatot hatályon kívül helyezi, a szolgálati viszony a nyugállományba helyezéssel szűnik meg, de a jogellenességet megállapító határozat jogerőre emelkedésének napjáig a hivatásos állomány tagja részére meg kell téríteni a nyugellátás és az elmaradt illetménye közötti különbözetet, valamint elmaradt egyéb járandóságát és a felmerült kárát.
 
 (8) Az állomány tagját, ha szolgálati viszonya nem felmentéssel szűnt meg – a (3) bekezdésben foglaltakon kívül –, megilleti a munkavégzés alóli felmentés idejére járó távolléti díj és a felmentés esetére járó végkielégítés is.
 

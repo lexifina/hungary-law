@@ -1,5 +1,1 @@
-59/B. § (1) A miniszter az állomány tábornoki rendfokozatú tagja szolgálati viszonyának megszüntetésére a köztársasági elnökhöz tesz előterjesztést.
-
-(2) Tábornok esetén a Hjt. 59. § (6) bekezdés c) pontja szerinti méltatlansági eljárás megindítására és lefolytatására a miniszter jogosult a köztársasági elnök egyidejű értesítése mellett. A méltatlansági eljárás szabályait azzal az eltéréssel kell alkalmazni, hogy a miniszter a szolgálati jogviszony megszüntetésére a jegyzőkönyv kézhezvételét követő 5 napon belül elkészíti az (1) bekezdés szerinti előterjesztést.
-
-(3) A miniszter (1) bekezdés szerinti előterjesztési javaslatát az állomány tábornoki rendfokozatú tagja részére kézbesíteni kell. Az előterjesztési javaslatnak tartalmaznia kell a szolgálati viszony megszüntetésére irányadó tartalmi elemeket. Az állomány tagja a javaslattal szemben a kézbesítéstől számított 15 napon belül bírósághoz fordulhat, melyet egyidejűleg a miniszternek jelenteni köteles. Az állomány tábornoki rendfokozatú tagját a jogorvoslat lehetőségéről tájékoztatni kell. A kereset jogerős elbírálásáig a javaslat nem terjeszthető a köztársasági elnök elé. A kereset benyújtásától annak jogerős elbírálásáig az állomány tábornoki rendfokozatú tagját rendelkezési állományba kell helyezni.
+59/B. §

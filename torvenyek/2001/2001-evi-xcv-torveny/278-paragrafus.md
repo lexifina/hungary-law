@@ -1,0 +1,1 @@
+278. § E törvénynek a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény és más törvények szolgálati viszonnyal kapcsolatos módosításáról szóló 2011. évi CXCII. törvénnyel módosított 114. § (1) bekezdés u) pontját a Honvéd Koronaőrség tagját megillető díszelgési pótlék tekintetében 2011. május 30-tól kell alkalmazni.

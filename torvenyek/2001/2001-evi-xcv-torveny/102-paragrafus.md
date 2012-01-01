@@ -1,6 +1,6 @@
 ## Szülési szabadság
 
-102. § (1) Az állomány terhes, illetve szülő nő tagját a Munka Törvénykönyve szerinti mértékű szülési szabadság illeti meg. Ezt úgy kell kiadni, hogy 4 hét lehetőleg a szülés várható időpontja elé essen.
+102. § (1) Az állomány várandós, illetve szülő nő tagját a Munka Törvénykönyve szerinti mértékű szülési szabadság illeti meg. Ezt úgy kell kiadni, hogy 4 hét lehetőleg a szülés várható időpontja elé essen.
 
 (2) A szülési szabadság megszűnik, ha
 

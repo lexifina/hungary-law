@@ -1,6 +1,6 @@
 ## A bírósági út
 
-223. § (1) Az állomány tagja – az 59/B. § és a 162/A. § szerinti esetek kivételével – a szolgálati viszonyból származó jogvita esetén 30 napon belül keresettel fordulhat a bírósághoz, ha
+223. § (1) Az állomány tagja – ha e törvény eltérően nem rendelkezik – a szolgálati viszonyból származó jogvita esetén 30 napon belül keresettel fordulhat a bírósághoz, ha
 
 a) a szolgálati panaszát elutasították vagy jogszabályban előírt határidőn belül nem bírálták el, illetőleg az első fokú határozat elleni fellebbezését elutasították;
 

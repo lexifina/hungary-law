@@ -116,7 +116,7 @@ szolgálatra)
 
 időtartamú esetekben
 
-– tiszt, tiszthelyettes, tisztes
+– tiszt, altiszt, tisztes
 
 5.4. A Hjt. 2. § (32) bekezdés h) pontja szerinti esetekben (90 naptól)
 
@@ -168,26 +168,6 @@ időtartamú esetekben
 
 – tábornok
 
-6.11. Szolgálati idő módosítása
-
-– tábornok
-
 6.12. Megbízás, hazai vezénylés, vezénylés megszüntetés
-
-– tábornok
-
-6.13. Kinevezés, áthelyezés
-
-– ÁEK katonai főigazgató-helyettes
-
-|
-
-7. Beiskolázásra vonatkozó
-
-döntések (90 naptól)
-
-|
-
-7. Hazai képzés
 
 – tábornok

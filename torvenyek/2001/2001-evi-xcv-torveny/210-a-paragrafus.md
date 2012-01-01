@@ -1,1 +1,1 @@
-210/A. § Az állomány olyan tagja, vagy a hivatásos állományból nyugállományba helyezett olyan személy elhalálozása esetén, akinek a szolgálati nyugdíját a felső korhatár elérése előtt nem, vagy csökkentett mértékben folyósították, a 209. § (1) bekezdésében meghatározott közeli hozzátartozói a teljes szolgálati nyugdíj alapján jogosultak a hozzátartozói nyugellátásra.
+210/A. §

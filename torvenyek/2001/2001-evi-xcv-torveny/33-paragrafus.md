@@ -1,23 +1,19 @@
-33. § (1) E törvény alkalmazásában szakszervezeten – elnevezésétől függetlenül – az állomány tagjainak minden olyan érdekképviseleti szervét érteni kell, amelynek célja az állomány tagjai szolgálati viszonyával kapcsolatos érdekeinek képviselete és megvédése.
+33. § (1) E Fejezet alkalmazásában
 
-(2) A szakszervezet jogosult, hogy
+a) tájékoztatás: a szolgálati viszonnyal összefüggő információ átadása, ennek megismerését, megvizsgálását és az ezzel kapcsolatos vélemény kialakítását és képviseletét lehetővé tévő módon,
 
-a) a Honvédségen belül működjön, és tagjait tevékenységébe bevonja;
+b) konzultáció: a Honvédség és a szakszervezet közötti véleménycsere, párbeszéd.
 
-b) az állomány tagjait az anyagi, szociális és kulturális, valamint az élet- és szolgálati körülményeiket érintő jogaikról és kötelezettségeikről tájékoztassa;
+(2) A konzultációt a megállapodás érdekében, a kezdeményezésben megjelölt célnak megfelelően oly módon kell lefolytatni, hogy biztosított legyen
 
-c) tagjait a szolgálati viszonyt érintő körben a szervezeti egységgel szemben, illetőleg az állami szervek előtt, meghatalmazás alapján pedig az élet- és szolgálati körülményeiket érintő kérdésekben bíróság, más hatóság és egyéb szervek előtt képviselje.
+a) a felek megfelelő képviselete,
 
-(3) A szervezeti egység szakszervezeti szerve, illetve a reprezentatív szakszervezet a szervezeti egységgel kapcsolatban az alábbi jogokat gyakorolhatja:
+b) a közvetlen, személyes egyeztetés, és
 
-a) minden olyan kérdésben tájékoztatást kérhet, amely az állomány tagjainak a szolgálati viszonnyal összefüggő anyagi, szociális és kulturális érdekeivel kapcsolatos;
+c) az érdemi tárgyalás.
 
-b) az a) pontba tartozó kérdésben a parancsnoki (vezetői) intézkedéssel (döntéssel) kapcsolatos álláspontját, véleményét az állományilletékes parancsnokkal közölheti, és ezzel összefüggésben konzultációt kezdeményezhet;
+(3) A Honvédség nem köteles tájékoztatást adni vagy konzultációt folytatni, ha ez olyan tény, információ, megoldás vagy adat nyilvánosságra kerülésével járhat, amely honvédelmi érdekeket, a Honvédség jogos érdekeit vagy működését veszélyeztetné.
 
-c) a szolgálati és munkakörülményekre vonatkozó szabályok megtartását ellenőrizheti, azok végrehajtásáról tájékoztatást, adatot kérhet, melyet részére meg kell adni.
+(4) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott, közérdekű adatnak nem minősülő tényt, információkat, megoldást vagy adatot a személyhez fűződő jogok megsértése, valamint a honvédelmi és nemzetbiztonsági érdek veszélyeztetése nélkül hozhatja nyilvánosságra.
 
-(4) A szakszervezet az ellenőrzés során észlelt hibákra és mulasztásokra a végrehajtásért felelős szerv vezetőjének a figyelmét felhívhatja. Ha az a szükséges intézkedést kellő időben nem tette meg, a megfelelő eljárást kezdeményezheti. Ennek eredményéről az eljárást lefolytató szerv a szakszervezetet tájékoztatni köteles.
-
-(5) A (3) és (4) bekezdésben meghatározott jogok az elöljáró szervek irányítása körébe tartozóan az adott szervezeten belüli reprezentatív szakszervezeti szervet illetik meg.
-
-(6) A külföldi szolgálatot ellátó állomány esetében a 21. § (5) bekezdésében, a 32. § (1) bekezdés a) pontjában, a 33. § (3) bekezdés c) pontjában, valamint a (4) bekezdésében foglalt jogokat a szakszervezet az adott külföldi szolgálat ellátásának veszélyeztetése nélkül gyakorolhatja.
+(5) Az e törvényben a szakszervezet számára biztosított jogok a Honvédségnél képviselettel rendelkező szakszervezetet illetik meg.

@@ -1,0 +1,3 @@
+168/G. § (1) A méltatlansági bizottság elnöke a vizsgáló jelentésének, valamint a vizsgálati iratoknak a kézhezvételét követő 8 napon belüli időpontra a vizsgáló jelentésének megküldésével összehívja a méltatlansági bizottság ülését. Az ülést az elnök vezeti, a méltatlansági bizottság eljárásáról és tanácskozásáról jegyzőkönyvet kell felvenni. Ha az ügy érdeméről az ülésen a méltatlansági bizottság dönteni nem tud, 8 napon belül ismételten ülést tart.
+
+(2) A méltatlansági bizottság ülésén a vizsgáló részvétele kötelező. A méltatlansági bizottság ülésén a tagoknak és vizsgálónak együttesen kell jelen lenniük. A méltatlansági bizottság üléséről az eljárás alá vont személyt és képviselőjét, valamint a vizsgálót az ülés előtt legalább 3 munkanappal értesíteni kell.

@@ -10,6 +10,6 @@
 
 (3) Az állomány tagja a szolgálati elöljárótól
 
-a) a Hvt. 70. §-a (1) bekezdésének a), c) és f) pontjában meghatározott feladatok végrehajtására kapott parancsot önfeláldozásig terjedő bátorsággal köteles végrehajtani;
+a) a Hvt. 36. § (1) bekezdés a), b) és f) pontjában meghatározott feladatok végrehajtására kapott parancsot önfeláldozásig terjedő bátorsággal köteles végrehajtani;
 
-b) a Hvt. 70. §-a (1) bekezdésének b), d) és g)–h) pontjában, valamint a Hvt. 121. §-ának (2) bekezdésében meghatározott feladatok végrehajtására kapott parancsot akkor is köteles teljesíteni, ha az az életét vagy testi épségét közvetlenül vagy súlyosan veszélyezteti.
+b) a Hvt. 36. § (1) bekezdés c)–e) és g) pontjában és a (2) bekezdés a) pontjában, valamint a Hvt. 56. § (3) bekezdésében meghatározott feladatok végrehajtására kapott parancsot akkor is köteles teljesíteni, ha az az életét vagy testi épségét közvetlenül vagy súlyosan veszélyezteti.

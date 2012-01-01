@@ -1,6 +1,8 @@
 47/A. § (1) Önkéntes tartalékos szolgálat a 2. § (10) bekezdésében meghatározott szervezeti egységben, vagy ezen szervezeti egységek állományából összeállított ideiglenes kötelékben belföldön, illetve annak kizárása hiányában külföldön teljesíthető.
 
-(2) Az önkéntes műveleti tartalékos szolgálatot teljesítő személy – beleegyezésével – hazai és külföldi egyéni beosztásba is kinevezhető.
+(1a) Az önkéntes tartalékos a tényleges szolgálatteljesítés ideje alatt a szerződésében meghatározott rendfokozatot viseli.
+
+(2) Az önkéntes tartalékos szolgálatot teljesítő személy – beleegyezésével – hazai és külföldi egyéni beosztásba is kinevezhető.
 
 (3) Az önkéntes tartalékos beosztására történő felkészítésre – katonai előképzettsége szerint differenciáltan – első alkalommal legfeljebb 25 napra, ezt követően a szerződésben foglalt időtartamig évente legfeljebb 15 napra hívható be.
 

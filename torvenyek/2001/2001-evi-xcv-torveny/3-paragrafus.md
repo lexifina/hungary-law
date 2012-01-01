@@ -4,4 +4,4 @@
 
 (2) Az állomány tagja a szolgálati viszonyból fakadó kötelmeit – a Honvédség rendeltetés szerinti feladatainak megvalósítása érdekében – önkéntes vállalás alapján, szigorú függelmi rendben, életének és testi épségének kockáztatásával, egyes alapjogai korlátozásának elfogadásával teljesíti.
 
-(3) A katonai beosztás köztisztviselői vagy közalkalmazotti munkakörré átminősítése az azt betöltő hivatásos (szerződéses) katonának a szolgálati jogviszonyát nem érinti.
+(3)

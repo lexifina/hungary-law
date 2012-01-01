@@ -1,4 +1,4 @@
-184. § (1) Az állomány tagjának kell bizonyítania, hogy a kár a szolgálati viszonnyal okozati összefüggésben keletkezett.
+184. § (1) A károsultnak kell bizonyítania, hogy a kár a szolgálati viszonnyal okozati összefüggésben keletkezett.
 
 (2) A szolgálati viszony körébe esnek különösen a Honvédség feladatainak ellátásával összefüggő magatartásból, a használt anyag, felszerelés, berendezés és energia tulajdonságából, állapotából, mozgásából és működéséből eredő okok.
 

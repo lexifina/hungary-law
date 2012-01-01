@@ -218,7 +218,7 @@ I.
 
 |
 
-Honvéd*
+Közkatona*
 
 |
 
@@ -374,4 +374,4 @@ Főtörzszászlós
 
 _____________
 
-* A ,,honvéd” rendfokozatnak kizárólag e melléklet szempontjából minősül.
+* A ,,közkatona” rendfokozatnak kizárólag e melléklet szempontjából minősül.
