@@ -2,7 +2,7 @@
 
 a) nemzetközi szerződésben meghatározott esetekben, vagy
 
-b) ha a külföldi vállalkozás székhelye szerinti állam és a Magyar Köztársaság között erre vonatkozóan viszonosság áll fenn.
+b) ha a külföldi vállalkozás székhelye szerinti állam és Magyarország között erre vonatkozóan viszonosság áll fenn.
 
 (2) Az (1) bekezdés szerinti nemzetközi szerződés, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter tájékoztatót tesz közzé.
 

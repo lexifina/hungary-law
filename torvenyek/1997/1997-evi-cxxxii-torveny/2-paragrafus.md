@@ -1,6 +1,6 @@
 2. § E törvény alkalmazásában:
 
-a) külföldi vállalkozás: a Magyar Köztársaság államterületén kívül székhellyel rendelkező, főtevékenységként vállalkozási tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező szervezet, a III. fejezet vonatkozásában, továbbá más olyan vállalkozó is, aki külföldön céggel rendelkezik, illetve gazdasági nyilvántartásban szerepel;
+a) külföldi vállalkozás: Magyarország területén kívül székhellyel rendelkező, főtevékenységként vállalkozási tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező szervezet, a III. fejezet vonatkozásában, továbbá más olyan vállalkozó is, aki külföldön céggel rendelkezik, illetve gazdasági nyilvántartásban szerepel;
 
 b) fióktelep: a külföldi vállalkozás jogi személyiséggel nem rendelkező, gazdálkodási önállósággal felruházott olyan szervezeti egysége, amelyet önálló cégformaként a belföldi cégnyilvántartásban a külföldi vállalkozás fióktelepeként bejegyeztek;
 

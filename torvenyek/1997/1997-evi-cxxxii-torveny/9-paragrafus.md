@@ -2,7 +2,7 @@
 
 9. § (1) Ha e törvény másképp nem rendelkezik, a külföldi vállalkozás a fióktelepének létesítése és működtetése során a belföldi székhelyű gazdálkodó szervezetekkel azonos elbánásban részesül.
 
-(2) A Magyar Köztársaság nemzetközi kötelezettségvállalásaival összhangban törvény a fióktelepre
+(2) Magyarország nemzetközi kötelezettségvállalásaival összhangban törvény a fióktelepre
 
 a) a közrend, a közbiztonság, a közegészségügy, a pénzügyi rendszer stabilitása, valamint a hitelezők, betétesek, befektetők és biztosítottak másképpen nem érvényesíthető, jogos érdekei védelmében, valamint
 
