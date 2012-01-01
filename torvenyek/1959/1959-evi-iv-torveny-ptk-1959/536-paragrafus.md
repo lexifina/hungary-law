@@ -12,4 +12,4 @@ a) a szerződésben megállapított károsító esemény;
 
 b) halál bekövetkezése, meghatározott életkor elérése;
 
-c) testi sérülést, rokkantságot vagy halált okozó baleset.
+c) testi sérülést, rokkantságot, egészségkárosodást vagy halált okozó baleset.

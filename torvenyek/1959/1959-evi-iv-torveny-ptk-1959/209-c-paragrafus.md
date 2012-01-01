@@ -12,7 +12,7 @@ d) a gazdasági, szakmai kamara, érdekképviseleti szervezet,
 
 e) fogyasztói érdekek képviseletét ellátó társadalmi szervezet, valamint
 
-f) az Európai Gazdasági Térség bármely tagállamának joga alapján létrejött azon minősített szervezet – az általa védett fogyasztói érdekek védelme körében –, amely a fogyasztók védelme céljából a jogsértéstől eltiltó határozatokról szóló 98/27/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepel, feltéve, hogy az általános szerződési feltétel alkalmazója, nyilvánosságra hozója, illetve alkalmazásra ajánlója a Magyar Köztársaság területén fejti ki tevékenységét.
+f) az Európai Gazdasági Térség bármely tagállamának joga alapján létrejött azon minősített szervezet – az általa védett fogyasztói érdekek védelme körében –, amely a fogyasztók védelme céljából a jogsértéstől eltiltó határozatokról szóló 98/27/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepel, feltéve, hogy az általános szerződési feltétel alkalmazója, nyilvánosságra hozója, illetve alkalmazásra ajánlója Magyarország területén fejti ki tevékenységét.
 
 Tvr.12. § A sérelmet szenvedett fél a szerződést e címen csak akkor támadhatja meg, ha annak megkötése a törvény hatálybalépése után történt.
 

@@ -1,4 +1,4 @@
-Ptk.74/E. § (1) A bíróság az alapítványt a nyilvántartásból törli, ha az alapító okiratban meghatározott
+Ptk.74/E. § (1) A bíróság az alapítványt – törvényben meghatározott eljárást követően – a nyilvántartásból törli, ha az alapító okiratban meghatározott
 
 a) cél megvalósult;
 
@@ -6,7 +6,7 @@ b) idő eltelt;
 
 c) feltétel bekövetkezett.
 
-(2) Az alapítványt akkor is törölni kell a nyilvántartásból, ha a bíróság az alapítványt megszünteti vagy más alapítvánnyal való egyesítését rendeli el.
+(2) Az alapítványt az (1) bekezdésben foglaltaknak megfelelően akkor is törölni kell a nyilvántartásból, ha a bíróság az alapítványt megszünteti vagy más alapítvánnyal való egyesítését rendeli el.
 
 (3) A bíróság az ügyész keresete alapján az alapítványt megszünteti, ha céljának megvalósítása lehetetlenné vált, illetőleg ha jogszabály-változás folytán a bejegyzést meg kellene tagadnia. A bíróság az alapító kérelme alapján az alapítványt megszünteti, ha az alapítvány céljainak megvalósítása lehetetlenné vált.
 

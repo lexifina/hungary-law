@@ -6,7 +6,7 @@ Ptk.74/A. § (1) Magánszemély, jogi személy és jogi személyiséggel nem r
 
 (3) A nyilvántartásba vétel után az alapító az alapítványt nem vonhatja vissza.
 
-(4) Az alapítványt annak székhelye szerint illetékes megyei bíróság, illetőleg a Fővárosi Bíróság (a továbbiakban együtt: bíróság) veszi nyilvántartásba. A nyilvántartásba vételre irányuló kérelmet a bírósághoz az alapító nyújtja be. A kérelemhez csatolni kell az igazságügyért felelős miniszter rendeletében meghatározott okiratokat.
+(4) Az alapítványt annak székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) veszi nyilvántartásba. A nyilvántartásba vételre irányuló kérelmet a bírósághoz az alapító nyújtja be. A kérelemhez csatolni kell az igazságügyért felelős miniszter rendeletében meghatározott okiratokat.
 
 (5) A bíróság a nyilvántartásba vételről nemperes eljárásban határoz. A bíróság a nyilvántartásba vételről szóló határozatát az ügyészségnek is kézbesíti.
 

@@ -6,7 +6,7 @@
 
 Ptk.1. § (1) Ez a törvény az állampolgárok, valamint az állami, önkormányzati, gazdasági és civil szervezetek, továbbá más személyek vagyoni és egyes személyi viszonyait szabályozza. Az e viszonyokat szabályozó más jogszabályokat — ha eltérően nem rendelkeznek — e törvénnyel összhangban, e törvény rendelkezéseire figyelemmel kell értelmezni.
 
-(2) A törvény rendelkezéseit a Magyar Köztársaság gazdasági és társadalmi rendjével összhangban kell értelmezni.
+(2) E törvény rendelkezéseit Magyarország gazdasági és társadalmi rendjével összhangban kell értelmezni.
 
 ## A Ptk. értelmezése
 
