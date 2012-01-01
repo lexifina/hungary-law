@@ -2,7 +2,7 @@
 
 4. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^1]
+(2)[^2]
 
 Melléklet a 308/2004. (XI. 13.) Korm. rendelethez
 
@@ -14,4 +14,4 @@ A mező színe Pantone Reflex Blue szín, RGB skála esetén 0/0/153 elnevezés�
 
 A csillagok színe Pantone Yellow szín, RGB skála esetén 255/204/0 elnevezésű színárnyalat, hexadecimál FFCC00.
 
-[^1]: A 4. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 618. pontja hatályon kívül helyezte.
+[^2]: A 4. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 618. pontja hatályon kívül helyezte.

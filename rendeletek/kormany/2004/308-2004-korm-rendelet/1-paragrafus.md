@@ -10,6 +10,8 @@ b) az azzal járó kiadások a középület fenntartásáért felelős költség
 
 (4) Az európai zászlót rendszeresen – legalább háromhavonta – tisztítani, elhasználódása esetén pedig cserélni kell.
 
-(5) Szélsőséges időjárási viszonyok között – azok időtartamára – a szerv vezetője elrendelheti a zászló bevonását. Ez a rendelkezés az Alkotmánybíróság és a Legfelsőbb Bíróság épületére, valamint a köztársasági elnök és a miniszterelnök hivatali épületére, továbbá nemzeti ünnepek idején nem alkalmazható.
+(5)[^1] Szélsőséges időjárási viszonyok között – azok időtartamára – a szerv vezetője elrendelheti a zászló bevonását. Ez a rendelkezés az Alkotmánybíróság és a Kúria épületére, valamint a köztársasági elnök és a miniszterelnök hivatali épületére, továbbá nemzeti ünnepek idején nem alkalmazható.
 
 (6) Az európai zászló kitűzésére irányadó jogszabályi rendelkezések betartásának ellenőrzéséről a közterületfelügyelet, ahol pedig közterület-felügyelet nem működik, a jegyző gondoskodik.
+
+[^1]: Az 1. § (5) bekezdése a 314/2011. (XII. 23.) Korm. rendelet 10. §-a szerint módosított szöveg.
