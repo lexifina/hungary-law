@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya kiterjed:
+## 1. §[^2] A rendelet hatálya kiterjed:
 
 a) a Belügyminisztériummal, a Belügyminisztérium hivatali szerveivel, a minisztérium hivatali tevékenységét segítő szervezeteivel, valamint a belügyminiszter irányítása alá tartozó önálló szervekkel foglalkoztatási jogviszonyban állók,
 
@@ -8,4 +8,4 @@ c) az a) és b) pont szerinti szervek munkáját támogató magyar és külföld
 
 tevékenységének e rendeletben alapított érdemjel kitüntető címmel történő elismerésére.
 
-[^1]: Az 1. § a 6/2011. (III. 4.) BM rendelet 1. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^2]: Az 1. § a 6/2011. (III. 4.) BM rendelet 1. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
