@@ -2,4 +2,4 @@
 
 ## 46. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény módosítása
 
-92. § A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 17. § (1) bekezdése helyébe a következő rendelkezés lép:
+### 92. §

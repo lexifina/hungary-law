@@ -20,7 +20,7 @@ h) egyetértési jogot gyakorol a területi polgári védelmi szervezetek felép
 
 i) a katasztrófák elleni védekezésért felelős miniszter részére felterjeszti az illetékességi területén lévő települések polgármestereinek a települések katasztrófavédelmi besorolására vonatkozó javaslatait,
 
-j) szervezi a közigazgatási szervek, a Magyar Honvédség és a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a társadalmi szervezetek, valamint a polgári védelmi szervezetek együttműködését,
+j) szervezi a közigazgatási szervek, a Magyar Honvédség és a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a civil szervezetek, valamint a polgári védelmi szervezetek együttműködését,
 
 k) felelős a polgári védelmi kötelezettségen alapuló területi polgári védelmi szervezetek megalakításáért, valamint a megyei (fővárosi) veszélyelhárítási terv elkészítéséért,
 

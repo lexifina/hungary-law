@@ -13,11 +13,3 @@
 (6) Hatályát veszti az önkéntes tűzoltó egyesületekről szóló 2008. évi XXXIII. törvény.
 
 (7) Hatályát veszti az egyes törvényeknek a naptári napban való határidő-számítással összefüggésben történő módosításáról szóló 2010. évi CLII. törvény 2. § (43) bekezdése.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

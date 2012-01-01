@@ -48,7 +48,7 @@ mg) a gazdasági-anyagi szolgáltatások teljesítése és a kártalanítással 
 
 mh) a katasztrófa károsító hatása által érintett területre, valamint a helyreállításra és újjáépítésre vonatkozó szabályokat,
 
-n) az autonóm államigazgatási szervek kivételével a központi államigazgatási szervek katasztrófavédelmi feladatait,
+n) az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével a központi államigazgatási szervek katasztrófavédelmi feladatait,
 
 o) a veszélyes anyagokkal foglalkozó üzemekre vonatkozó hatósági koordináció szabályait,
 

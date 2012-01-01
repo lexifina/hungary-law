@@ -24,4 +24,4 @@ h) meghatározza a nemzeti kockázatelemzési, -értékelési és feltérképez�
 
 i) a katasztrófák elleni védekezésért felelős miniszternek a honvédelemért felelős miniszter véleményének kikérését követően kialakított javaslatára meghatározza a polgári védelmi szervezetek összlétszámát,
 
-j) közvetlenül vagy a katasztrófák elleni védekezésért felelős miniszter útján irányítja a megyei védelmi bizottságok katasztrófavédelmi feladatainak végrehajtását.
+j) a katasztrófák elleni védekezésért felelős miniszter útján irányítja a megyei védelmi bizottságok katasztrófavédelmi feladatainak végrehajtását.
