@@ -1,0 +1,1 @@
+53. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdés d) pontjában a „honvédelmi igazgatás szerve” szövegrész helyébe a „Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve” szöveg lép.
