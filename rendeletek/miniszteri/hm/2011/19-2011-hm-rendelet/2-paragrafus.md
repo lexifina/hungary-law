@@ -1,0 +1,1 @@
+## 1. § A Magyar Honvédség külföldi szolgálatot teljesítő és külföldi tanulmányokat folytató személyi állománya devizaellátmányáról és egyes ellátmányon kívüli pénzbeli járandóságairól szóló 26/2007. (VI. 20.) HM rendelet módosításáról szóló 1/2011. (III. 8.) HM rendelet 27. § (7) bekezdésében a „2014. december 31-én” szövegrész helyébe a „2012. január 15-én” szöveg lép.
