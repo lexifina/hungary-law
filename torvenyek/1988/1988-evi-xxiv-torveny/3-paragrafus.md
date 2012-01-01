@@ -1,4 +1,4 @@
-3. § (1) Külföldi a Magyar Köztársaság területén önálló, üzletszerű – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – gazdasági tevékenységet – a (2) bekezdésben foglaltak kivételével – gazdasági célú letelepedés keretében a következő letelepedési formák keretében végezhet:
+3. § (1) Külföldi Magyarország területén önálló, üzletszerű – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – gazdasági tevékenységet – a (2) bekezdésben foglaltak kivételével – gazdasági célú letelepedés keretében a következő letelepedési formák keretében végezhet:
 
 a) önálló vállalkozóként a külön törvényben meghatározott egyéni vállalkozás, illetve az általa bejegyzett egyéni cég vagy önfoglalkoztatás formájában,
 
