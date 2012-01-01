@@ -110,7 +110,7 @@
 
 | .......................................... ................................................. polgármester jegyző |
 
-10. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^72]
+10. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^73]
 
 Kiegészítő információk a céltámogatással megvalósuló folyamatban lévő beruházásokról
 
@@ -260,4 +260,4 @@ Megjegyzés:
 
 A válasznak megfelelő téglalapba X-et vagy dátumot kell írni.
 
-[^72]: A 10. mellékletet a 36/2010. (II. 26.) Korm. rendelet 16. § (7) bekezdése iktatta be.
+[^73]: A 10. mellékletet a 36/2010. (II. 26.) Korm. rendelet 16. § (7) bekezdése iktatta be.

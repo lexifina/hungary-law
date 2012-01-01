@@ -2,7 +2,7 @@
 
 ## címzett támogatásról, céltámogatásról
 
-## LEMONDÓ ÉS VISSZAFIZETÉSI NYILATKOZAT[^65]
+## LEMONDÓ ÉS VISSZAFIZETÉSI NYILATKOZAT[^66]
 
 ## címzett támogatásról, céltámogatásról
 
@@ -16,7 +16,7 @@
 
 ## a képviselő-testület az ..................…... évi ..... törvény ..... számú mellékletének ............. sorszámán
 
-## .............. év(ek)re[^66] jóváhagyott címzett támogatásról (céltámogatásról) az alábbiak szerint lemond:
+## .............. év(ek)re[^67] jóváhagyott címzett támogatásról (céltámogatásról) az alábbiak szerint lemond:
 
 | No. | Megnevezés | Összes támogatás (Ft) | Ebből: lemondás és visszafizetés |
 
@@ -82,7 +82,7 @@
 
 ## * A 8–9. sor szerinti összegeket az „Önkormányzatok címzett céltámogatása” megnevezésű
 
-## 10032000-01720268 számú lebonyolítási számlájára kell visszafizetni.[^67]
+## 10032000-01720268 számú lebonyolítási számlájára kell visszafizetni.[^68]
 
 ## ** A 8–9. sor szerinti összegeket az „Önkormányzatok címzett céltámogatása” megnevezésű
 
@@ -106,7 +106,7 @@
 
 ## polgármester
 
-## Hitelintézet (címzett támogatás esetén a Magyar Államkincstár) záradéka[^68]:
+## Hitelintézet (címzett támogatás esetén a Magyar Államkincstár) záradéka[^69]:
 
 ## 1. A címzett támogatás/céltámogatás folyósításának lezárása a kezelési költségek levonása után
 
@@ -114,7 +114,7 @@
 
 ## (A megfelelő szöveg aláhúzandó.)
 
-## 2. Finanszírozási szerződés kötése, támogatási keret nyitása nem történt.[^69]
+## 2. Finanszírozási szerződés kötése, támogatási keret nyitása nem történt.[^70]
 
 ## Kelt: ........................., 200..... év .......................... hó ..... nap
 
@@ -124,11 +124,11 @@
 
 ## aláírás
 
-8. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^70]
+8. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^71]
 
-[^65]: Csak az Igazgatóságon keresztül küldött lemondó nyilatkozatot fogadja el az MTRFH. Ezer forintnál kisebb összegű lemondás esetén nem szükséges képviselő-testületi határozato(ka)t mellékelni.
-[^66]: A képviselő-testületi határozatban foglalt, egy adott beruházáshoz kapcsolódó lemondással érintett támogatási éve(ke)t feltüntetni, megegyezően a 6., 7., 8. és 9. rovatokban megjelölt évekkel.
-[^67]: A visszafizetést igazoló dokumentum (terhelési értesítést) másolatát mellékelni kell. A feltüntetett számlaszám megegyezik e rendelet 20. §-ának (2) bekezdésében megjelölt számlaszámmal, amelyre a visszafizetést utalni kell.
-[^68]: Az Állami Számvevőszék által elrendelt visszafizetési kötelezettség teljesítésekor pénzügyileg lezárt beruházás esetén a pénzintézeti záradékolás nem szükséges, de csatolni kell az ÁSZ-határozat teljesített határozatát.
-[^69]: Meg sem kezdett beruházás esetén húzandó alá.
-[^70]: A 8. mellékletet a 36/2010. (II. 26.) Korm. rendelet 16. § (5) bekezdése iktatta be.
+[^66]: Csak az Igazgatóságon keresztül küldött lemondó nyilatkozatot fogadja el az MTRFH. Ezer forintnál kisebb összegű lemondás esetén nem szükséges képviselő-testületi határozato(ka)t mellékelni.
+[^67]: A képviselő-testületi határozatban foglalt, egy adott beruházáshoz kapcsolódó lemondással érintett támogatási éve(ke)t feltüntetni, megegyezően a 6., 7., 8. és 9. rovatokban megjelölt évekkel.
+[^68]: A visszafizetést igazoló dokumentum (terhelési értesítést) másolatát mellékelni kell. A feltüntetett számlaszám megegyezik e rendelet 20. §-ának (2) bekezdésében megjelölt számlaszámmal, amelyre a visszafizetést utalni kell.
+[^69]: Az Állami Számvevőszék által elrendelt visszafizetési kötelezettség teljesítésekor pénzügyileg lezárt beruházás esetén a pénzintézeti záradékolás nem szükséges, de csatolni kell az ÁSZ-határozat teljesített határozatát.
+[^70]: Meg sem kezdett beruházás esetén húzandó alá.
+[^71]: A 8. mellékletet a 36/2010. (II. 26.) Korm. rendelet 16. § (5) bekezdése iktatta be.

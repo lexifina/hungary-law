@@ -150,6 +150,6 @@
 
 | .......................................... ................................................. polgármester jegyző |
 
-9. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^71]
+9. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^72]
 
-[^71]: A 9. mellékletet a 36/2010. (II. 26.) Korm. rendelet 16. § (6) bekezdése iktatta be.
+[^72]: A 9. mellékletet a 36/2010. (II. 26.) Korm. rendelet 16. § (6) bekezdése iktatta be.

@@ -404,6 +404,6 @@
 
 | .......................................... polgármester |
 
-5/A. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^61]
+5/A. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^62]
 
-[^61]: Az 5/A. melléklet a 36/2010. (II. 26.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^62]: Az 5/A. melléklet a 36/2010. (II. 26.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.

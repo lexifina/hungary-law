@@ -26,6 +26,6 @@
 
 ## 12. Az Egészségügyi Minisztérium értesítése a megvalósuló többletkapacitás külön jogszabály szerinti előzetes befogadásáról.
 
-4. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^60]
+4. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^61]
 
-[^60]: A 4. melléklet a 36/2010. (II. 26.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^61]: A 4. melléklet a 36/2010. (II. 26.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-19-20-2
 | --- | --- | --- |
 | 2010-01-01 | 2005-19-20-22.11 | 19/2005. (II. 11.) Korm. rendelet |
 | 2010-02-27 | 2005-19-20-22.12 | 36/2010. (II. 26.) Korm. rendelet |
+| 2012-01-01 | 2005-19-20-22.13 | 258/2011. (XII. 7.) Korm. rendelet |
