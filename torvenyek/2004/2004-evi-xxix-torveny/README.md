@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-29-00-00
 | 2010-11-20 | 2010. évi CV. törvény | 2004-29-00-00.12 |
 | 2010-12-05 | 2010. évi CXVII. törvény | 2004-29-00-00.13 |
 | 2010-12-28 | 2010. évi CV. törvény | 2004-29-00-00.14 |
+| 2012-01-01 | 2011. évi CCI. törvény | 2004-29-00-00.15 |
