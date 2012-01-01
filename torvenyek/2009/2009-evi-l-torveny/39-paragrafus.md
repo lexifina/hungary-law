@@ -4,10 +4,10 @@
 
 (2) Ha a fellebbezéshez a fél mellékletet csatol, azt kizárólag papír alapon az ügyben eljáró közjegyzőnél nyújthatja be.
 
-(3) Ha e törvény másként nem rendelkezik, a fellebbezést a közjegyző székhelye szerint illetékes megyei bíróság a Pp. végzések elleni fellebbezésre vonatkozó szabályai szerint nemperes eljárásban bírálja el.
+(3) Ha e törvény másként nem rendelkezik, a fellebbezést a közjegyző székhelye szerint illetékes törvényszék a Pp. végzések elleni fellebbezésre vonatkozó szabályai szerint nemperes eljárásban bírálja el.
 
 (4) A közjegyző az iratok felterjesztése helyett aktanyomatot küldhet a bíróságnak a fellebbezés elbírálása szempontjából szükséges iratokról. Az aktanyomatra 38. § (4) bekezdésének a rendelkezéseit kell megfelelően alkalmazni.
 
-(5) A másodfokú határozatot a megyei bíróság kézbesíti a feleknek, az iratokat pedig határozat egy példányával együtt megküldi a közjegyzőnek vagy a MOKK rendszerének elektronikusan.
+(5) A másodfokú határozatot a törvényszék kézbesíti a feleknek, az iratokat pedig határozat egy példányával együtt megküldi a közjegyzőnek vagy a MOKK rendszerének elektronikusan.
 
 (6) A fizetési meghagyás ellen fellebbezésnek nincs helye.
