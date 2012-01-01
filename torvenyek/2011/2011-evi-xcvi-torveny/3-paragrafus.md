@@ -1,3 +1,3 @@
 ## 2. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény módosítása
 
-3–4. §
+3–5. §
