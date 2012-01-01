@@ -1,6 +1,6 @@
 ## Sorszám:
 
-## Magyar Köztársaság címere
+## Magyarország címere
 
 ## BIZONYÍTVÁNY
 
