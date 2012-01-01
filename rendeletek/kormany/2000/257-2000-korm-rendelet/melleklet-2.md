@@ -1,6 +1,6 @@
 2. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez
 
-## I.[^52]
+## I.[^53]
 
 Ágazatspecifikus munkakörök a szociális területen
 
@@ -104,7 +104,7 @@
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-II.[^53]
+II.[^54]
 
 Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi területen
 
@@ -190,7 +190,7 @@ II.[^53]
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-III.[^54]
+III.[^55]
 
 Nem ágazatspecifikus munkakörök
 
@@ -250,7 +250,7 @@ Nem ágazatspecifikus munkakörök
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-IV.[^55]
+IV.[^56]
 
 Munkakörök a Nemzeti Család- és Szociálpolitikai Intézetben
 
@@ -446,7 +446,7 @@ Ezen belül
 
 – ,,J'' fizetési osztályba: az egyetemi végzettséget igazoló oklevélhez és tudományos fokozathoz kötött munkakör tartozik pl. pedagógus, szociális munkás stb.
 
-2.[^56] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
+2.[^57] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
 
 – ,,A'' fizetési osztályba kell sorolni: a legfeljebb alapfokú iskolai végzettséghez kötött munkaköröket, valamint az alapfokú iskolai végzettséget nem igénylő szakképesítéshez kötött munkaköröket pl. falugondnok;
 
@@ -466,8 +466,8 @@ Megjegyzés:
 
 Azon munkakörök esetén, amelyek főiskolai, egyetemi, illetve középfokú végzettséggel egyaránt betölthetők a szakképzettségi szintnek megfelelő közalkalmazotti besorolást kell alkalmazni.
 
-[^52]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
-[^53]: A 2. számú melléklet II. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
-[^54]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
-[^55]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^56]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^53]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^54]: A 2. számú melléklet II. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^55]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^56]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^57]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja szerint módosított szöveg.
