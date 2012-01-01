@@ -4,11 +4,15 @@
 
 (3)
 
-(4) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az egészségügyi államigazgatási szervet vagy szerveket.
+(4) Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket,
+
+b) jelölje ki a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket.
 
 (5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-(6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
+(6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
 (7) Felhatalmazás kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a menekülteket befogadó állomásokra, valamint a Rendőrség átmeneti szállásaira vonatkozó közegészségügyi követelményeket, a közegészségügyi ellenőrzés, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
@@ -18,7 +22,9 @@
 
 a) a munkavállalók fizikai tényezők (mesterséges optikai sugárzás) hatásának való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket,
 
-b) a munkavállalók fizikai tényezők (elektromágneses terek) hatásából keletkező kockázatoknak való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket
+b) a munkavállalók fizikai tényezők (elektromágneses terek) hatásából keletkező kockázatoknak való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket,
+
+c) a kórházakban és más egészségügyi szolgáltatóknál az éles vagy hegyes eszközök által okozott sérülések megelőzésére, az éles vagy hegyes eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményeket
 
 rendeletben állapítsa meg.
 
