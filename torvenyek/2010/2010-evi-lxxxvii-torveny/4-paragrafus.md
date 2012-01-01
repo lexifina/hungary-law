@@ -6,7 +6,7 @@
 
 (3) Az NFA elnöke és elnökhelyettese magyar állampolgár lehet. Az NFA elnöke, és elnökhelyettese nem lehet
 
-a) országgyűlési, európai parlamenti vagy helyi, kisebbségi önkormányzati képviselő, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 
 b) a Nemzeti Földalap Ellenőrző Bizottságának (a továbbiakban: ellenőrző bizottság) tagja;
 

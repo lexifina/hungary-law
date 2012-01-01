@@ -18,7 +18,7 @@ e) a Magyar Agrárkamara
 
 (3) Az ellenőrző bizottság tagja magyar állampolgár lehet. Az ellenőrző bizottság tagja nem lehet:
 
-a) országgyűlési, európai parlamenti vagy helyi, kisebbségi önkormányzati képviselő, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 
 b) az NFA elnöke, elnökhelyettese, alkalmazottja;
 
