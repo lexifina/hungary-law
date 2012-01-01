@@ -20,7 +20,7 @@ c) az egyszerűsített foglalkoztatás 1. § (1) bekezdése szerinti jellege,
 
 d) a munkaviszony napjainak száma.
 
-(4) Amennyiben a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyar Köztársaság által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetőleg egyezményben részes másik államban biztosított és ezt a munkáltató előtt igazolta, az egyszerűsített foglalkoztatásra irányuló jogviszony létesítésekor ezen körülményt az illetékes állami adóhatóságnak a munkáltató az egyszerűsített foglalkoztatás bejelentésével egyidejűleg bejelenteni köteles.
+(4) Amennyiben a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított és ezt a munkáltató előtt igazolta, az egyszerűsített foglalkoztatásra irányuló jogviszony létesítésekor ezen körülményt az illetékes állami adóhatóságnak a munkáltató az egyszerűsített foglalkoztatás bejelentésével egyidejűleg bejelenteni köteles.
 
 (5) A munkáltató az (1) bekezdés a)–b) pontjaiban meghatározott esetekben a tárgyhót követő hó 12-éig az egyszerűsítetten foglalkoztatott munkavállaló foglalkoztatásával járó közteher-fizetési kötelezettségének tesz eleget. Bevallási kötelezettségét ezen időpontig az ügyfélkapun történő bevallás benyújtásával teljesíti.
 

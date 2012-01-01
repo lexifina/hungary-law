@@ -12,7 +12,7 @@ b) a munkavállalót nyugdíjjárulék (tagdíj), egészségbiztosítási és mu
 
 (5) Az (1) bekezdésben foglaltaktól eltérően, ha
 
-a) a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyar Köztársaság által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetőleg egyezményben részes másik államban biztosított és
+a) a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított és
 
 b) a 11. § (4) bekezdés szerinti igazolással, vagy az egyezmény alapján kiállított, az egyezményben részes másik államban fennálló biztosítást tanúsító igazolással rendelkezik,
 
