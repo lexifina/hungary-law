@@ -2,6 +2,4 @@
 
 17. § (1) A vizsgáló szervezet kijelölés iránti kérelmet nyújt be a kijelölő hatósághoz.
 
-(2)[^1]
-
-[^1]: A 17. § (2) bekezdése a 21. § (3) bekezdése alapján 2012. január 1-jén lép hatályba.
+(2) A kérelemhez mellékelni kell a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló kormányrendeletben meghatározottakon túl azon szállítható nyomástartó berendezések leírását, amelyekre vonatkozóan a szervezet a kijelölését kérelmezi.
