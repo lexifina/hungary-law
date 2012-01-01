@@ -1,0 +1,9 @@
+# 92/2011. (XII. 30.) NFM rendelet
+
+a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-92-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-01-01 | 2011-92-20-2W.1 | 92/2011. (XII. 30.) NFM rendelet |

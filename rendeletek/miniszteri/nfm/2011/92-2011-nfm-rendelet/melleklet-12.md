@@ -1,0 +1,279 @@
+## Az éves statisztikai összegezés
+
+## STATISZTIKAI ÖSSZEGEZÉS AZ ÉVES KÖZBESZERZÉSEKRŐL A KLASSZIKUS AJÁNLATKÉRŐK VONATKOZÁSÁBAN
+
+## I. SZAKASZ: AJÁNLATKÉRŐ
+
+## I.1) Az ajánlatkérő neve és címe
+
+| Hivatalos név: |
+
+| Postai cím: |
+
+| Város/Község: | Postai irányítószám: | Ország: |
+
+| Kapcsolattartási pont(ok): Címzett: | Telefon: |
+
+| E-mail: | Fax: |
+
+| Internetcím(ek) (adott esetben) Az ajánlatkérő általános címe (URL): A felhasználói oldal címe (URL): |
+
+## I.2) Az ajánlatkérő típusa
+
+| Központi szintű |  | ⬜ | Közjogi szervezet ⬜ |
+
+| Regionális/helyi szintű |  | ⬜ | Támogatott szervezet [Kbt. 6. § (1) bekezdés g) pont] ⬜ |
+
+| Egyéb | ⬜ |  |
+
+## II. SZAKASZ: AZ AJÁNLATKÉRŐ KÖZBESZERZÉSEIRE VONATKOZÓ ÁLTALÁNOS ADATOK
+
+| II.1) Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzések (a Kbt. XII.-XIII. fejezete) (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számmal kell kifejezni) Száma: ⬜ ⬜ ⬜ Érték: ______________________________ |
+
+| II.2) A nemzeti értékhatárokat elérő vagy meghaladó értékű közbeszerzések (a Kbt. Harmadik része) (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számmal kell kifejezni) Száma: ⬜ ⬜ ⬜ Értéke: ______________________________ |
+
+## III. SZAKASZ: AZ AJÁNLATKÉRŐ KÖZBESZERZÉSEIRE VONATKOZÓ RÉSZLETES ADATOK
+
+| III.1) A közbeszerzések összesítése, kivéve a IV.1)-IV.2). és IV.4). pontokban írt közbeszerzéseket (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számmal kell kifejezni) |
+
+| III.1.1) Árubeszerzés |
+
+| III.1.1.1) Eljárás típusa |
+
+| Uniós eljárásrend (Kbt. Második Része) (az alábbi blokkban csak egy eljárástípust jelöljön meg) |
+
+| ⬜ meghívásos ⬜ gyorsított meghívásos ⬜ hirdetmény közzétételével induló tárgyalásos | ⬜ hirdetmény nélküli tárgyalásos ⬜ gyorsított tárgyalásos ⬜ keretmegállapodásos ⬜ versenypárbeszéd | ⬜ ⬜ ⬜ (száma) ___________ (értéke) |
+
+| ---------------(E részből az egyes eljárástípusok szerint lefolytatott közbeszerzésektől függően több használandó)-------------- |
+
+| Összes árubeszerzés az uniós eljárásrendben: ⬜ ⬜ ⬜ (száma) _______________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) (az alábbi blokkban csak egy eljárástípust jelöljön meg) |
+
+| ⬜ A Kbt. 123. §-a szerinti, szabadon kialakított eljárás ⬜ A Kbt. Második Részében meghatározott szabályok szerinti eljárás az alábbiak szerint: ⬜ Nyílt ⬜ Meghívásos ⬜ Gyorsított meghívásos ⬜ Versenypárbeszéd ⬜ Hirdetmény közzétételével induló tárgyalásos ⬜ Gyorsított tárgyalásos ⬜ Hirdetmény nélküli tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében nyílt ⬜ Keretmegállapodásos, az eljárás első részében meghívásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetménnyel induló tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetmény nélküli tárgyalásos | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ---------------(E részből az egyes eljárástípusok szerint lefolytatott közbeszerzésektől függően több használandó)-------------- |
+
+| Összes árubeszerzés a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| III.1.1.2) A közbeszerzés CPV kódja szerinti bontás |
+
+| Uniós eljárásrend (Kbt. Második Része) |
+
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ (CPV kód, főtárgy szerint) ⬜ ⬜ ⬜ (száma) ____________________ (értéke) ----------------------------(E részből a CPV főtárgyak számának megfelelően több sor használandó)------------------------------- Összes árubeszerzés az uniós eljárásrendben: ⬜ ⬜ ⬜ (száma) _________________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) |
+
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ (CPV kód, főtárgy szerint) ⬜ ⬜ ⬜ (száma) ______________ (értéke) ----------------------------(E részből a CPV főtárgyak számának megfelelően több sor használandó)------------------------------- Összes árubeszerzés a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) ____________________ (értéke) |
+
+| III.1.2) Építési beruházás |
+
+| III.1.2.1) Eljárás típusa |
+
+| Uniós eljárásrend (Kbt. Második Része) (az alábbi blokkban csak egy eljárástípust jelöljön meg) |
+
+| ⬜ nyílt ⬜ meghívásos ⬜ gyorsított meghívásos ⬜ hirdetmény közzétételével induló tárgyalásos | ⬜ hirdetmény nélküli tárgyalásos ⬜ gyorsított tárgyalásos ⬜ keretmegállapodásos ⬜ versenypárbeszéd | ⬜ ⬜ ⬜ (száma) ___________ (értéke) |
+
+| ---------------(E részből az egyes eljárástípusok szerint lefolytatott közbeszerzésektől függően több használandó)-------------- |
+
+| Összes építési beruházás az uniós eljárásrendben: ⬜ ⬜ ⬜ (száma) ___________________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) (az alábbi blokkban csak egy eljárástípust jelöljön meg) |
+
+| ⬜ A Kbt. 123. §-a szerinti, szabadon kialakított eljárás ⬜ A Kbt. Második Részében meghatározott szabályok szerinti eljárás az alábbiak szerint: ⬜ Nyílt ⬜ Meghívásos ⬜ Gyorsított meghívásos ⬜ Versenypárbeszéd ⬜ Hirdetmény közzétételével induló tárgyalásos ⬜ Gyorsított tárgyalásos ⬜ Hirdetmény nélküli tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében nyílt ⬜ Keretmegállapodásos, az eljárás első részében meghívásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetménnyel induló tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetmény nélküli tárgyalásos | ⬜ ⬜ ⬜ (száma) ________________ (értéke) |
+
+| ---------------(E részből az egyeseljárás-típusok szerint lefolytatott közbeszerzésektől függően több használandó)-------------- |
+
+| Összes építési beruházás a nemzeti eljárásrendben:⬜ ⬜ ⬜ (száma) _________________ (értéke) |
+
+| III.1.2.2) A közbeszerzés CPV kódja szerinti bontás |
+
+| Uniós eljárásrend (Kbt. Második Része) |
+
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ (CPV kód, főtárgy szerint) ⬜ ⬜ ⬜ (száma) _______________ (értéke) ----------------------------(E részből a CPV főtárgyak számának megfelelően több sor használandó)------------------------------- Összes építési beruházás az uniós eljárásrendben: ⬜ ⬜ ⬜ (száma) _______________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) |
+
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ (CPV kód, főtárgy szerint) ⬜ ⬜ ⬜ (száma) _______________ (értéke) ----------------------------(E részből a CPV főtárgyak számának megfelelően több sor használandó)------------------------------- Összes építési beruházás a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) _______________ (értéke) |
+
+| III.1.3) Építési koncesszió |
+
+| III.1.3.1) Eljárás típusa |
+
+| Uniós eljárásrend (Kbt. XIII. fejezete) (az alábbi blokkban csak egy eljárástípust jelöljön meg) |
+
+| ⬜ nyílt ⬜ meghívásos ⬜ hirdetmény közzétételével induló tárgyalásos | ⬜ hirdetmény nélküli tárgyalásos ⬜ keretmegállapodásos ⬜ versenypárbeszéd | ⬜ ⬜ ⬜ (száma) ________________ (értéke) |
+
+| ---------------(E részből az egyes eljárástípusok szerint lefolytatott közbeszerzésektől függően több használandó)-------------- |
+
+| Összes építési koncesszió az uniós eljárásrendben:⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) (az alábbi blokkban csak egy eljárástípust jelöljön meg) |
+
+| ⬜ A Kbt. 123. §-a szerinti, szabadon kialakított eljárás ⬜ A Kbt. Második Részében meghatározott szabályok szerinti eljárás az alábbiak szerint: ⬜ Nyílt ⬜ Meghívásos ⬜ Versenypárbeszéd ⬜ Hirdetmény közzétételével induló tárgyalásos ⬜ Hirdetmény nélküli tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében nyílt ⬜ Keretmegállapodásos, az eljárás első részében meghívásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetménnyel induló tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetmény nélküli tárgyalásos | ⬜ ⬜ ⬜ (száma) _____________(értéke) |
+
+| ---------------(E részből az egyes eljárástípusok szerint lefolytatott közbeszerzésektől függően több használandó)-------------- |
+
+| Összes építési koncesszió a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| III.1.3.2) A közbeszerzés CPV kódja szerinti bontás |
+
+| Uniós eljárásrend (Kbt. XII. fejezete) |
+
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ (CPV kód, főtárgy szerint) ⬜ ⬜ ⬜ (száma) _____________ (értéke) --------------------------(E részből a CPV főtárgyak számának megfelelően több sor használandó)------------------------- Összes építési koncesszió az uniós eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) |
+
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ (CPV kód, főtárgy szerint) ⬜ ⬜ ⬜ (száma) _____________ (értéke) ----------------------------(E részből a CPV főtárgyak számának megfelelően több sor használandó)------------------------------- Összes építési koncesszió a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| III.1.4) Szolgáltatás megrendelés |
+
+| III.1.4.1) Eljárás típusa |
+
+| Uniós eljárásrend (Kbt. Második Része) (az alábbi blokkban csak egy eljárástípust jelöljön meg) |
+
+| ⬜ nyílt ⬜ meghívásos ⬜ gyorsított meghívásos ⬜ hirdetmény közzétételével induló tárgyalásos ⬜ hirdetmény nélküli tárgyalásos | ⬜ gyorsított tárgyalásos ⬜ keretmegállapodásos ⬜ versenypárbeszéd ⬜ tervpályázat ⬜ a Kbt. 19. § (3) bekezdése alapján közbeszerzési eljárás nélkül megkötött szerződés | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ---------------(E részből az egyes eljárástípusok szerint lefolytatott közbeszerzésektől függően több használandó)-------------- |
+
+| Összes szolgáltatás megrendelés az uniós eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) (az alábbi blokkban csak egy eljárástípust jelöljön meg) |
+
+| ⬜ A Kbt. 123. §-a szerinti, szabadon kialakított eljárás ⬜ A Kbt. Második Részében meghatározott szabályok szerinti eljárás az alábbiak szerint: ⬜ Nyílt ⬜ Meghívásos ⬜ Gyorsított meghívásos ⬜ Versenypárbeszéd ⬜ Hirdetmény közzétételével induló tárgyalásos ⬜ Gyorsított tárgyalásos ⬜ Hirdetmény nélküli tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében nyílt ⬜ Keretmegállapodásos, az eljárás első részében meghívásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetménnyel induló tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetmény nélküli tárgyalásos ⬜ Tervpályázati eljárás | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ---------------(E részből az egyes eljárástípusok szerint lefolytatott közbeszerzésektől függően több használandó)-------------- |
+
+| Összes szolgáltatás megrendelés a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| III.1.4.2) A közbeszerzés CPV kódja szerinti bontás |
+
+| Uniós eljárásrend (Kbt. XII. fejezete) |
+
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ (CPV kód, főtárgy szerint) ⬜ ⬜ ⬜ (száma) _____________ (értéke) ----------------------------(E részből a CPV főtárgyak számának megfelelően több sor használandó)------------------------------- Összes szolgáltatás megrendelés az uniós eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) |
+
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ (CPV kód, főtárgy szerint) ⬜ ⬜ ⬜ (száma) _____________ (értéke) ----------------------------(E részből a CPV főtárgyak számának megfelelően több sor használandó)------------------------------- Összes szolgáltatás megrendelés a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| III.1.5) Szolgáltatási koncesszió |
+
+| III.1.5.1) Eljárás típusa |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) (az alábbi blokkban csak egy eljárástípust jelöljön meg) |
+
+| ⬜ A Kbt. 123. §-a szerinti, szabadon kialakított eljárás ⬜ A Kbt. Második Részében meghatározott szabályok szerinti eljárás az alábbiak szerint: ⬜ Nyílt ⬜ Meghívásos ⬜ Gyorsított meghívásos ⬜ Versenypárbeszéd ⬜ Hirdetmény közzétételével induló tárgyalásos ⬜ Gyorsított tárgyalásos ⬜ Hirdetmény nélküli tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében nyílt ⬜ Keretmegállapodásos, az eljárás első részében meghívásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetménnyel induló tárgyalásos ⬜ Keretmegállapodásos, az eljárás első részében hirdetmény nélküli tárgyalásos | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ---------------(E részből az egyes eljárástípusok szerint lefolytatott közbeszerzésektől függően több használandó)-------------- |
+
+| Összes szolgáltatási koncesszió a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| III.1.5.2) A közbeszerzés CPV kódja szerinti bontás |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) |
+
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ (CPV kód, főtárgy szerint) ⬜ ⬜ ⬜ (száma) _____________ (értéke) ----------------------------(E részből a CPV főtárgyak számának megfelelően több sor használandó)------------------------------- Összes szolgáltatási koncesszió a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| III.2 A tárgyalásos eljárások alapján megvalósított közbeszerzések összesítése (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számmal kell kifejezni) |
+
+| III.2.1) Árubeszerzés |
+
+| Uniós eljárásrend (Kbt. Második Része) |
+
+| ⬜ 89. § (2) a) ⬜ 89. § (2) b) ⬜ 94. § (2) a) | ⬜ 94. § (2) b) ⬜ 94. § (2) c) ⬜ 94. § (2) d) | ⬜ 94. § (4) a) ⬜ 94. § (4) b) ⬜ 94. § (4) c) | ⬜ 94. § (4) d) | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ----------------------------- (E részből a tárgyalásos eljárások típusainak megfelelően több használandó, -------------------------- minden egyes típusnál csak egy hivatkozást jelöljön meg) |
+
+| Összes tárgyalásos árubeszerzés az uniós eljárásrendben: | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) |
+
+| ⬜ 89. § (2) a) ⬜ 89. § (2) b) ⬜ 94. § (2) a) | ⬜ 94. § (2) b) ⬜ 94. § (2) c) ⬜ 94. § (2) d) | ⬜ 94. § (4) a) ⬜ 94. § (4) b) ⬜ 94. § (4) c) | ⬜ 94. § (4) d) ⬜ 123. § | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ----------------------------- (E részből a tárgyalásos eljárások típusainak megfelelően több használandó, -------------------------- minden egyes típusnál csak egy hivatkozást jelöljön meg) |
+
+| Összes tárgyalásos árubeszerzés a nemzeti eljárásrendben: | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| III.2.2) Építési beruházás/építési koncesszió |
+
+| Uniós eljárásrend (Kbt. Második Része) |
+
+| ⬜ 89. § (2) a) ⬜ 89. § (2) b) ⬜ 89. § (2) c) ⬜ 94. § (2) a) | ⬜ 94. § (2) b) ⬜ 94. § (2) c) ⬜ 94. § (2) d) ⬜ 94. § (3) a) | ⬜ 94. § (3) b) ⬜ 111. § (3) |  | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ----------------------------- (E részből a tárgyalásos eljárások típusainak megfelelően több használandó, -------------------------- minden egyes típusnál csak egy hivatkozást jelöljön meg) |
+
+| Összes tárgyalásos építési beruházás/építési koncesszió az uniós eljárásrendben: ⬜ ⬜ ⬜ (száma) __________________________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) |
+
+| ⬜ 89. § (2) a) ⬜ 89. § (2) b) ⬜ 89. § (2) c) ⬜ 94. § (2) a) | ⬜ 94. § (2) b) ⬜ 94. § (2) c) ⬜ 94. § (2) d) ⬜ 94. § (3) a) | ⬜ 94. § (3) b) ⬜ 111. § (3) ⬜ 123. § |  | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ----------------------------- (E részből a tárgyalásos eljárások típusainak megfelelően több használandó, -------------------------- minden egyes típusnál csak egy hivatkozást jelöljön meg) |
+
+| Összes tárgyalásos építési beruházás/építési koncesszió az egyszerű eljárásban: ⬜ ⬜ ⬜ (száma) __________________________ (értéke) |
+
+| III.2.3) Szolgáltatás/szolgáltatási koncesszió |
+
+| Uniós eljárásrend (Kbt. Második Része) |
+
+| ⬜ 89. § (2) a) ⬜ 89. § (2) b) ⬜ 89. § (2) d) ⬜ 94. § (2) a) | ⬜ 94. § (2) b) ⬜ 94. § (2) c) ⬜ 94. § (2) d) ⬜ 94. § (3) a) | ⬜ 94. § (3) b) ⬜ 94. § (5) |  | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ----------------------------- (E részből a tárgyalásos eljárások típusainak megfelelően több használandó, -------------------------- minden egyes típusnál csak egy hivatkozást jelöljön meg) |
+
+| Összes tárgyalásos szolgáltatás/szolgáltatási koncesszió az uniós eljárásrendben: ⬜ ⬜ ⬜ (száma) __________________________ (értéke) |
+
+| Nemzeti eljárásrend (Kbt. Harmadik része) |
+
+| ⬜ 89. § (2) a) ⬜ 89. § (2) b) ⬜ 89. § (2) d) ⬜ 94. § (2) a) | ⬜ 94. § (2) b) ⬜ 94. § (2) c) ⬜ 94. § (2) d) ⬜ 94. § (3) a) | ⬜ 94. § (3) b) ⬜ 94. § (5) ⬜ 123. § |  | ⬜ ⬜ ⬜ (száma) _____________ (értéke) |
+
+| ----------------------------- (E részből a tárgyalásos eljárások típusainak megfelelően több használandó, -------------------------- minden egyes típusnál csak egy hivatkozást jelöljön meg) |
+
+| Összes tárgyalásos szolgáltatás/szolgáltatási koncesszió a nemzeti eljárásrendben: ⬜ ⬜ ⬜ (száma) _________________________ (értéke) |
+
+## IV. SZAKASZ: TOVÁBBI INFORMÁCIÓK
+
+| IV.1) A WTO Közbeszerzési Megállapodás (GPA) hatálya alá nem tartozó, az uniós értékhatárokat elérő vagy azt meghaladó értékű közbeszerzések (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban,, arab számokkal kell kifejezni) közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.2) A központosított közbeszerzési eljárásban beszerzett áruk/szolgáltatások szerződések értéke (arab számokkal, Ft-ban kifejezve): _____________________________________ |
+
+| IV.3) Elektronikus árlejtés alkalmazása (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számokkal kell kifejezni) közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.4) Dinamikus beszerzési rendszer alkalmazása (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számokkal kell kifejezni) közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.5) Környezetvédelmi szempontok (zöld közbeszerzés) (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számokkal kell kifejezni) |
+
+| IV.5.1) Az eljárásban környezetvédelmi szempontok kerültek meghatározásra szerződéses feltételként közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.5.2) Az eljárásban környezetvédelmi szempontok kerültek meghatározásra bírálati részszempontként/alszempontként közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.5.3) Az eljárásban környezetvédelmi szempontok kerültek meghatározásra a műszaki leírás részeként közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.5.4) Az eljárásban környezetvédelmi szempontok kerültek meghatározásra az alkalmassági feltételek körében környezetvédelmi intézkedések alkalmazásának előírásával (építési beruházás és szolgáltatás megrendelés esetén) közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.5.5) Az eljárásban környezetvédelmi szempontok kerültek meghatározásra az alkalmassági feltételek körében környezetvédelmi vezetési rendszereknek való megfelelés igazolásával közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.5.6) Zöld közbeszerzések [IV.5.1)–IV.5.5) pontok] összesen közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.6) Szociális szempontok figyelembe vétele (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számokkal kell kifejezni) |
+
+| IV.6.1) Az eljárásban szociális szempontok kerültek meghatározásra szerződéses feltételként közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.6.2) Az eljárásban szociális szempontok kerültek meghatározásra bírálati részszempontként/alszempontként közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.6.3) Az eljárásban szociális szempontok kerültek meghatározásra a műszaki leírás részeként közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.6.4) Az eljárásban szociális szempontok kerültek meghatározásra alkalmassági feltételként közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.6.5) Az eljárásban szociális szempontok kerültek meghatározásra védett foglalkoztatók számára fenntartott közbeszerzés útján közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.6.6) Szociális szempontok figyelembevételével megvalósított eljárások [IV.6.1)–IV.6.5) pontok] összesen közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.7) EU alapokból finanszírozott/EU-s projektekkel kapcsolatos közbeszerzések (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számokkal kell kifejezni) közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.8) A mikro-, kis- és középvállalkozások által megnyert közbeszerzések a Kbt. 60. § (5) bekezdésével összefüggésben (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számokkal kell kifejezni) közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.9) A mikro-, kis- és középvállalkozások számára fenntartott közbeszerzések [Kbt. 122. § (9) bekezdése] (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számokkal kell kifejezni) közbeszerzések száma: ⬜ ⬜ ⬜ közbeszerzések értéke: _____________________________________ |
+
+| IV.10) Az összegezés feladásának idopontja: ⬜ ⬜ ⬜ ⬜ /⬜ ⬜ /⬜ ⬜ (év/hó/nap) |
+
+12. melléklet a 92/2011. (XII. 30.) NFM rendelethez

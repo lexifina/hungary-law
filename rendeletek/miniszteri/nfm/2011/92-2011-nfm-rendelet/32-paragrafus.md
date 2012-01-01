@@ -1,0 +1,1 @@
+## 31. § A Kbt. 127. § (2) bekezdés a) pontja szerinti, szerződéskötési szándékra vonatkozó hirdetmény (önkéntes előzetes átláthatósági hirdetmény) mintáját az uniós hirdetményminta rendelet XIV. melléklete tartalmazza.
