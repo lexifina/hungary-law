@@ -1,1 +1,0 @@
-## 5. § A veszélyelhárítási alaptervek felhasználásával veszélyelhárítási összesített tervet készít a katasztrófavédelem megyei, fővárosi és körzeti hivatásos szerve az illetékességi területén jelentkező veszélyelhárítási feladatok összehangolására.
