@@ -1,1 +1,0 @@
-A Kormány a honvédelemről szóló 1993. évi CX. törvény 8. §-a (1) bekezdésének c) pontja alapján a számos ember életét vagy egészségét, a lakosság jelentős dologi értékeit, alapvető ellátását veszélyeztető vagy károsító hatások elleni védekezésre történő felkészítés érdekében az alábbiakat rendeli el:
