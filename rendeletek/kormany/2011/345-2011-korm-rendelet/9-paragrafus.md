@@ -1,0 +1,3 @@
+9. § (1) A 8. § (1) bekezdésének a) pontjában megállapítottal szemben 20 százalékos korlát alkalmazandó abban az esetben, ha az ÁÉKBV befektetési politikájának célja olyan részvény-, vagy kötvényindex összetételének leképezése, ahol az index összetétele kellő mértékben diverzifikált, megfelelő viszonyítási eszközt jelent azon a piacon, amelyre vonatkozik, és az értékének alakulását a nyilvánosság számára is követhető módon közzéteszik.
+
+(2) Az (1) bekezdésben megállapított korlát helyett 35 százalékos korlát alkalmazható egy kibocsátó tekintetében, amennyiben az erőteljesen meghatározó az érintett szabályozott piacok és indexek esetében.
