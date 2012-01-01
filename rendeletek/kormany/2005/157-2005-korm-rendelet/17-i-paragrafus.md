@@ -1,6 +1,10 @@
-## A távhőszolgáltatók által üzemeltetett honlap és a Távhőszolgáltatási Közüzemi Szabályzat[^29]
+## A távhőszolgáltatók által üzemeltetett honlap és a Távhőszolgáltatási Közüzemi Szabályzat[^30]
 
-17/I. §[^30] Az általános közüzemi szerződés alapján 1000 vagy annál több díjfizetőt ellátó távhőszolgáltató elektronikus információs rendszert (a továbbiakban: honlapot) működtet. Az egy adott évre vonatkozó információkat a távhőszolgáltató legalább az adott évet követő második év végéig köteles honlapján hozzáférhető módon megőrizni. A távhőszolgáltató ügyfélszolgálatán hozzáférhetővé kell tenni az általa működtetett honlapon található információkat.
+17/I. §[^31] (1) A távhőszolgáltató a honlapján minden év március 31. napjáig közzéteszi – a Tszt. 57/C. §-ában és a 3. melléklet 26.3. pontjában foglalt adatokon túl – a 4. melléklet I-XI. pontjában foglalt táblázatok adattartalmát is.
 
-[^29]: A Vhr. 17/I. §-át megelőző alcímet a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
-[^30]: A Vhr. 17/I. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+(2) A távhőszolgáltató a 4. melléklet VII-XI. pontjában foglalt táblázatok adattartalmának honlapján való közzététele során biztosítja a hőközpontonkénti egyedi lekérdezés lehetőségét is.
+
+(3) A távhőszolgáltató két évig nem törölheti honlapjáról a közzétett adatokat.
+
+[^30]: A Vhr. 17/I. §-át megelőző alcímet a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^31]: A Vhr. 17/I. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 378/2011. (XII. 31.) Korm. rendelet 81. § (2) bekezdésével megállapított szöveg.
