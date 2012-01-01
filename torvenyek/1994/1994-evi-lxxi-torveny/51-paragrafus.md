@@ -4,4 +4,4 @@
 
 ## Hatáskör, illetékesség
 
-51. § A választottbírósági eljárással kapcsolatos ügyek — a 37. §-ban szabályozott kivételekkel — a megyei bíróság hatáskörébe tartoznak.
+51. § A választottbírósági eljárással kapcsolatos ügyek — a 37. §-ban szabályozott kivételekkel — a törvényszék hatáskörébe tartoznak.
