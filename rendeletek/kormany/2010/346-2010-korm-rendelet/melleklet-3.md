@@ -52,9 +52,9 @@
 
 20. a Nemzeti Adó- és Vámhivatal;
 
-21. a Vízügyi és Környezetvédelmi Központi Igazgatóságot, a környezetvédelmi és vízügyi igazgatóságokat, valamint a nemzeti park igazgatóságokat irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységének vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
+21.[^29] az Országos Vízügyi Főigazgatóságot, a vízügyi igazgatóságokat, valamint a nemzeti park igazgatóságokat irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységének vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
 
-22. a Vízügyi és Környezetvédelmi Központi Igazgatóság, a környezetvédelmi és vízügyi igazgatóságok, valamint a nemzeti park igazgatóságok;
+22.[^30] az Országos Vízügyi Főigazgatóság, a vízügyi igazgatóságok, valamint a nemzeti park igazgatóságok;
 
 23. az Országos Mentőszolgálatot irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységeinek vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
 
@@ -71,3 +71,6 @@
 29. az EDR-közreműködő;
 
 30. a fenti szervek körébe nem tartozó, a 17. § szerint a miniszter jóváhagyásával az EDR-hálózathoz külön megállapodás alapján kapcsolódó, jellemzően készenléti feladatokat ellátó szervezetek, amelyek a közigazgatási szervezetek szolgáltatását kiegészítő feladatokat, illetve közszolgáltatásokat látnak el, vagy kritikus fontosságú infrastruktúrát üzemeltetnek.
+
+[^29]: A 3. melléklet 21. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^30]: A 3. melléklet 22. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
