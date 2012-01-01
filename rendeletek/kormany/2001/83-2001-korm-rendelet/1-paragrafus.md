@@ -8,8 +8,8 @@ b) kizárólag az igénybe vevő külföldi fegyveres erő saját nemzeti kikép
 
 c)[^2] az igénybevételben történő esetleges magyar közreműködés a részt vevő személyi állomány tekintetében 30%, a technikai eszközök tekintetében 20% alatti, vagy kizárólagosan biztosító, kiszolgáló, illetve nem katonai feladatot jelentő tevékenységgel valósul meg, kivéve, ha az adott igénybevétel a Magyar Honvédség számára – az igénybevételi megállapodás kifejezett rendelkezése szerint – új kiképzési eszköz vagy módszer megismerését teszi lehetővé, illetve más honvédelmi szakmai okból indokolt.
 
-(3)[^3] Állomásozást [a honvédelemről szóló 1993. évi CX. törvény 259/A. § c) pont], illetve nemzetközi kötelezettségvállalás alapján külföldi fegyveres erő hazai jelenlétét engedélyező más országgyűlési döntés és hatályos nemzetközi szerződés keretében történő térítéses igénybevételek esetében e rendelet csak akkor alkalmazható, ha az említett jogi dokumentumok e tekintetben eltérően nem rendelkeznek.
+(3)[^3] Állomásozást, illetve nemzetközi kötelezettségvállalás alapján külföldi fegyveres erő hazai jelenlétét engedélyező más országgyűlési döntés és hatályos nemzetközi szerződés keretében történő térítéses igénybevételek esetében e rendelet csak akkor alkalmazható, ha az említett jogi dokumentumok e tekintetben eltérően nem rendelkeznek.
 
 [^1]: Az 1. § új (2) bekezdését a 41/2002. (III. 21.) Korm. rendelet 5. §-a iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva.
 [^2]: Az 1. § (2) bekezdésének c) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 36. pontja szerint módosíttot szöveg.
-[^3]: Az 1. § eredeti (2) bekezdésének számozását a 41/2002. (III. 21.) Korm. rendelet 5. §-a (3) bekezdésre változtatta.
+[^3]: Az 1. § eredeti (2) bekezdésének számozását a 41/2002. (III. 21.) Korm. rendelet 5. §-a (3) bekezdésre változtatta. Az 1. § (3) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 86. § (3) bekezdés d) pontja szerint módosított szöveg.
