@@ -48,7 +48,7 @@
 
 ## l) kutatási alaptevékenység tudományterületei és fajtái, és annak helyszínei;
 
-## m)[^114] az intézmény szervezeti tagolása;
+## m)[^115] az intézmény szervezeti tagolása;
 
 ## n) használt ingatlanvagyon (az ingatlan címe, helyrajzi szám, a rendelkezés módja és mértéke);
 
@@ -64,7 +64,7 @@
 
 ## d) a működési engedélyben engedélyezett maximális hallgatói létszám;
 
-## e)[^115] a képzési és kutatási tevékenységhez kapcsolódó nemzetközi mobilitási megállapodásokról az együttműködő szervezet típusa, hivatalos neve, székelyének címe, a megállapodás célja, kelte, kezdetem tervezett vége, esetleges nemzetközi kerete és a negyedévenkénti megvalósulása (beutazó és kiutazó létszám, annak jellege és tudományága);
+## e)[^116] a képzési és kutatási tevékenységhez kapcsolódó nemzetközi mobilitási megállapodásokról az együttműködő szervezet típusa, hivatalos neve, székelyének címe, a megállapodás célja, kelte, kezdetem tervezett vége, esetleges nemzetközi kerete és a negyedévenkénti megvalósulása (beutazó és kiutazó létszám, annak jellege és tudományága);
 
 ## 3. az intézmény által bejelentett képzések (felsőfokú szakképzések, alapszakok, mesterszakok, doktori iskolák, szakirányú továbbképzések, egyetemi és főiskolai szintű szakok) adatai:
 
@@ -90,7 +90,7 @@
 
 ## k) a képzés végén az oklevelet (bizonyítványt) kiállító intézmény adatai;
 
-## l)[^116] a képzés nyelve.
+## l)[^117] a képzés nyelve.
 
 ## 4. a közhasznúsági nyilvántartás keretében kezelt adatok:
 
@@ -172,6 +172,6 @@
 
 8. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez
 
-[^114]: A 7. számú melléklet III. A. rész 1. m) alpontja a 198/2008. (VIII. 4.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^115]: A 7. számú melléklet III. A. rész 2. e) alpontját a 198/2008. (VIII. 4.) Korm. rendelet 16. § (4) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^116]: A 7. számú melléklet III. A. rész 3. l) alpontját a 198/2008. (VIII. 4.) Korm. rendelet 16. § (5) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^115]: A 7. számú melléklet III. A. rész 1. m) alpontja a 198/2008. (VIII. 4.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^116]: A 7. számú melléklet III. A. rész 2. e) alpontját a 198/2008. (VIII. 4.) Korm. rendelet 16. § (4) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^117]: A 7. számú melléklet III. A. rész 3. l) alpontját a 198/2008. (VIII. 4.) Korm. rendelet 16. § (5) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

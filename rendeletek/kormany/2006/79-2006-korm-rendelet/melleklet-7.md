@@ -60,7 +60,7 @@
 
 | 55 345 03 0000 | közösségi-civil szervező | társadalomtudományok, gazdaságtudományok |
 
-| 55 346 01 0000 | jogi asszisztens | jogi- és igazgatási |
+| 55 346 01 0000 | jogi asszisztens | jogi |
 
 | 55 346 02 0010 55 01 | gazdasági idegen nyelvű menedzser | bölcsészettudományok, gazdaságtudományok |
 
@@ -160,6 +160,6 @@
 
 | 55 812 01 0010 55 02 | vendéglátó szakmenedzser | gazdaságtudományok |
 
-7. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^113]
+7. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^114]
 
-[^113]: A 7. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^114]: A 7. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.

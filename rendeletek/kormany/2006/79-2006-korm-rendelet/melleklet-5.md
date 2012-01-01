@@ -58,7 +58,7 @@
 
 ## o) a felsőoktatási intézmény nem tudja igazolni, hogy legfeljebb 3 éven belül a kialakított tanulótereken az elérhető hálózati végpontok (vezeték nélküli kapcsolódási lehetőségek) száma eléri a maximális hallgatói létszám táblázat szerinti arányának kétszeresét.
 
-## 6. Közös képzés esetében a hallgatókat minden intézményben teljes mértékben figyelembe kell venni, azonban a tanórák közül csak az adott intézmény által oktatott tanórákat kell megfelelő számban biztosítani.
+## 6.[^110] Közös képzés esetében a hallgatókat minden intézményben teljes mértékben figyelembe kell venni, azonban a tanórák közül csak az adott intézmény által oktatott tanórákat kell megfelelő számban biztosítani.
 
 | Képzési terület | 5. b) pont szerinti arány | 5. c) pont szerinti arány |
 
@@ -72,9 +72,9 @@
 
 | informatika | 10% | 2% |
 
-| jogi- és igazgatási | 3% | 4% |
+| jogi | 3% | 4% |
 
-| nemzetvédelmi és katonai | 5% | 2% |
+| közigazgatási, rendészeti és katonai | 3% | 2% |
 
 | gazdaságtudományok | 5% | 4% |
 
@@ -92,8 +92,9 @@
 
 | művészetközvetítés | 5% | 2% |
 
-5. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^110]
+5. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^111]
 
 [^108]: A 4. számú melléklet 5. pont b) alpontja a 39/2011. (III. 22.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^109]: A 4. számú melléklet 5. pont j) alpontja a 39/2011. (III. 22.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^110]: Az 5. számú melléklet e rendelet 35. § (2) bekezdése alapján 2006. július 1. napján lép hatályba.
+[^110]: A 4. számú melléklet 6. pontja a 363/2011. (XII. 30.) Korm. rendelet 23. § a)–c) pontja szerint módosított szöveg.
+[^111]: Az 5. számú melléklet e rendelet 35. § (2) bekezdése alapján 2006. július 1. napján lép hatályba.
