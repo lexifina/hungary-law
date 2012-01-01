@@ -1,4 +1,4 @@
-55. § (1) Az árvaellátás – a jogosultsági feltételek megléte esetén – legkorábban az 54. §-ban említett személy halála napjától kezdődően a gyermek 16. életévének betöltése napjáig jár. Ha a gyermek oktatási intézmény nappali tagozatán tanul, az árvaellátás a tanulmányok tartamára, de legfeljebb a huszonötödik életév betöltéséig jár. Ha a jogosultság megszűnése előtt a gyermek megrokkant, ennek tartamára az árvaellátás életkorra tekintet nélkül megilleti.
+55. § (1) Az árvaellátás – a jogosultsági feltételek megléte esetén – legkorábban az 54. §-ban említett személy halála napjától kezdődően a gyermek 16. életévének betöltése napjáig jár. Ha a gyermek oktatási intézmény nappali tagozatán tanul, az árvaellátás a tanulmányok tartamára, de legfeljebb a huszonötödik életév betöltéséig jár. Ha a jogosultság megszűnése előtt a gyermek megváltozott munkaképességűvé válik, ennek tartamára az árvaellátás életkorra tekintet nélkül megilleti.
 
 (2) Nem érinti az árvaellátásra jogosultságot, ha a gyermek vagy életben maradt szülője házasságot köt, vagy örökbe fogadják.
 

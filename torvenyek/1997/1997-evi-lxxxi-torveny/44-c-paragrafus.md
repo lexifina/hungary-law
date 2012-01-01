@@ -3,7 +3,3 @@
 (2) Ha a jogszerzőnek a magánnyugdíjpénztárban az egyéni számláján lévő összegét saját döntése, illetőleg ennek hiányában a jogszerző felhalmozási időszakban bekövetkezett halála esetén a hozzátartozó döntése [Mpt. 29. § (9) bekezdés b) pontja] alapján nem utalták át a Nyugdíjbiztosítási Alap részére, a hozzátartozói nyugellátások összegét a 12. § (7) bekezdés alapján kell meghatározni.
 
 (3) Ha a jogszerző vagy annak halála esetén a hozzátartozója az egyéni számlán levő összegnek a Nyugdíjbiztosítási Alaphoz történő átutalását kérte, és az igény érvényesítésekor ez a tény bizonyított, a hozzátartozói nyugellátást a 12. § (6) bekezdés megfelelő alkalmazásával kell megállapítani
-
-1. CÍM
-
-Az özvegyi nyugdíj

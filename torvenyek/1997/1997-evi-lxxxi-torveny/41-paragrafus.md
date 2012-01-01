@@ -4,9 +4,7 @@
 
 a) az öregségi nyugdíjra jogosultság szempontjából az 1998. január 1-je előtt,
 
-b) a rokkantsági nyugdíjra jogosultság szempontjából az időpontra tekintet nélkül
-
-a felsőfokú oktatási intézmény nappali tagozatán folytatott – legfeljebb azonban a képesítés megszerzéséhez a tanulmányok folytatása idején szükséges – tanulmányok idejét.
+b)
 
 (2) A felsőfokú oktatási intézmény nappali tagozatán folytatott tanulmányok címén a tanulmányi időszak (tanulmányi év, tanulmányi félév) kezdetét magában foglaló hónap első napjától a végét magában foglaló hónap utolsó napjáig eltelt idő számít szolgálati időnek.
 

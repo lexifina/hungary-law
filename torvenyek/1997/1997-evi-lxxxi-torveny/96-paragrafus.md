@@ -22,7 +22,7 @@ c) lakóhely (tartózkodási hely),
 
 d) foglalkozás, munkahely, munkakör, tevékenység,
 
-e) a rokkantság fokára, az egészségkárosodás mértékére, a szakmai munkaképességre, a rehabilitálhatóságra, továbbá az egészségi állapotra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása az egészségi állapot figyelembevételével történik,
+e) a rokkantság fokára, az egészségkárosodás, egészségi állapot mértékére, a szakmai munkaképességre, a rehabilitálhatóságra, továbbá az egészségi állapotra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása az egészségi állapot figyelembevételével történik,
 
 f) a keresetre, jövedelemre, valamint a levont és befizetett járulékokra vonatkozó adatok,
 
@@ -61,3 +61,5 @@ szerinti adatok igénylésére jogosultak.
 (8) A nyugdíjbiztosítási igazgatási szerv a biztosított (volt biztosított) kérelmére igazolást állít ki a biztosítási kötelezettséggel járó jogviszonyokra és a keresetekre, jövedelmekre vonatkozóan a nyilvántartásba bejelentett adatokról.
 
 (9) A biztosított (volt biztosított) kérheti a bejelentésre kötelezett szerv vagy személy rá vonatkozó adatszolgáltatásának hatósági ellenőrzését, és a rendelkezésére álló bizonyítékok figyelembevételével a nyilvántartás adatainak kiegészítését, javítását.
+
+(10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyugdíjbiztosítási igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.

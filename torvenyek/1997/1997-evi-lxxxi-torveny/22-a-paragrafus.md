@@ -3,11 +3,3 @@
 (2) A saját jogú nyugellátásban részesülő személy kérelmére a nyugellátását az (1) bekezdés szerint kell növelni akkor is, ha arra a jogosultságot korábban, azóta megszűnt rokkantsági, baleseti rokkantsági nyugdíj vagy rehabilitációs járadék mellett szerezte. A saját jogú nyugellátás mellett folytatott kereső tevékenység időtartama szolgálati időként nem vehető figyelembe.
 
 (3) A növelésre irányuló kérelmet évente egy alkalommal, legkorábban a kereset, jövedelem megszerzését követő naptári évben lehet benyújtani. Ha a növelés iránti kérelem több naptári évben megszerzett keresetre, jövedelemre vonatkozik, a növelés összegét naptári évenként kell meghatározni.
-
-## III. Fejezet
-
-## A ROKKANTSÁGI ÉS A BALESETI ROKKANTSÁGI NYUGDÍJ
-
-1. CÍM
-
-A rokkantsági nyugdíj

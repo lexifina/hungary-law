@@ -1,3 +1,0 @@
-## A baleseti rokkantsági nyugdíj összegének meghatározása
-
-36/F. § A baleseti rokkantsági nyugdíj alapját képező havi átlagkereset megállapítására, valamint a baleseti rokkantsági nyugdíj összegének meghatározására a 34. §-ban foglaltakat kell alkalmazni azzal, hogy a baleseti rokkantsági nyugdíj mértékét a 36/A. § (1) bekezdésének aa) alpontja szerinti esetben – attól függően, hogy a jogosult mások gondozására szorul-e – az I. vagy II. rokkantsági csoportnak, az ab) alpontja, valamint a 36/E. § (3) bekezdése szerinti esetekben pedig a III. rokkantsági csoportnak megfelelően kell meghatározni.

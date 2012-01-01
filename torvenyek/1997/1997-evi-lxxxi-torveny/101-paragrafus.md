@@ -14,7 +14,7 @@ d) a nyugdíjprémium megállapítására és a végrehajtásra vonatkozó rész
 
 e) a 2013. január 1-je előtti nyugellátás összegének megállapításánál a személyi jövedelemadó képzett összegét,
 
-f) a nyugellátás emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji rokkantsági nyugdíj, baleseti rokkantsági nyugdíj és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
+f) a nyugellátás emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
 
 g) az öregségi nyugdíj és a 6. § (4) bekezdése szerinti ellátások szüneteltetésének részletes eljárási szabályait,
 
@@ -46,13 +46,13 @@ rendeletben határozza meg.
 
 (4) Annak a személynek, akinek az öregségi nyugdíjkorhatár emeléséről és az ezzel összefüggő törvénymódosításokról szóló 1996. évi LIX. törvény 21. § (7) bekezdése alapján megállapított átmeneti járadékot, előnyugdíjat vagy korengedményes nyugdíjat folyósítanak vagy folyósítottak, az öregségi, illetőleg az özvegyi nyugdíja megállapításánál a jogosultra irányadó öregségi nyugdíjkorhatár alatt – a Tny. rendelkezéseitől eltérően – az ott meghatározott életkor(oka)t kell érteni.
 
-(5) Ha a bruttó hazai termék változatlan áron számított növekedésének a tárgyévben várható mértéke a 3,5 százalékot meghaladja, és az államháztartás – költségvetési törvényben meghatározott – tárgyévi egyenlegcélja várhatóan teljesül, a tárgyév novemberében nyugdíjprémiumot kell fizetni annak a személynek, aki a tárgyévet megelőző év legalább egy napján, valamint a tárgyév novemberében a társadalombiztosítási nyugdíjrendszer keretében járó vagy azzal a 6. § (4) bekezdése alapján egy tekintet alá eső
+(5) Ha a bruttó hazai termék változatlan áron számított növekedésének a tárgyévben várható mértéke a 3,5 százalékot meghaladja, és az államháztartás – a központi költségvetésről szóló törvényben meghatározott – tárgyévi egyenlegcélja várhatóan teljesül, a tárgyév novemberében nyugdíjprémiumot kell fizetni annak a személynek, aki a tárgyévet megelőző év legalább egy napján, valamint a tárgyév novemberében a társadalombiztosítási nyugdíjrendszer keretében járó vagy azzal a 6. § (4) bekezdése alapján egy tekintet alá eső
 
-a) rokkantsági nyugdíjban vagy baleseti rokkantsági nyugdíjban részesül, vagy
+a)
 
 b) hozzátartozói nyugellátásban – ide nem értve az ideiglenes özvegyi nyugdíjat – részesül, vagy
 
-c) az a)–b) pontban nem említett nyugellátásban – ide nem értve a rehabilitációs járadékot – részesül, és a 18. § (1) bekezdése szerinti életkort a tárgyévet megelőzően betöltötte.
+c) a b) pontban nem említett nyugellátásban – ide nem értve a rehabilitációs járadékot – részesül, és a 18. § (1) bekezdése szerinti életkort a tárgyévet megelőzően betöltötte.
 
 (6) A nyugdíjprémium összege a következő két szám szorzata:
 
@@ -60,6 +60,6 @@ a) a bruttó hazai termék változatlan áron számított növekedése – tárg
 
 b) a nyugellátás november havi összegének 25 százaléka, de legfeljebb 20 000 forint.
 
-(7) Ha a bruttó hazai termék változatlan áron számított növekedésének – a Magyar Köztársaság tárgyévi költségvetési törvényében – tárgyévre tervezett mértéke a 3,5 százalékot meghaladja, a nyugdíjprémium kiadásainak fedezetére a Nyugdíjbiztosítási Alap költségvetésében céltartalékot kell képezni.
+(7) Ha a bruttó hazai termék változatlan áron számított növekedésének – a központi költségvetésről szóló törvényben – tárgyévre tervezett mértéke a 3,5 százalékot meghaladja, a nyugdíjprémium kiadásainak fedezetére a Nyugdíjbiztosítási Alap költségvetésében céltartalékot kell képezni.
 
 (8) A nyugdíjprémiumot a nyugdíjfolyósító szerv hivatalból, a november havi nyugellátással együtt folyósítja. A nyugdíjprémium megállapításáról határozatot nem kell hozni.

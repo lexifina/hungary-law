@@ -1,4 +1,4 @@
-## A nyugellátások és a baleseti nyugellátások folyósítása
+## A nyugellátások folyósítása
 
 79. § (1) A saját jogú és a hozzátartozói nyugellátást, továbbá a nyugdíjbiztosítási igazgatási szervek hatáskörébe utalt nem társadalombiztosítási ellátást a nyugdíjfolyósító szerv a nyugdíjfolyósítási törzsszám mint azonosító szám alatt folyósítja. A nyugdíjfolyósító szerv az ellátás folyósításának kezdetekor a nyugdíjfolyósítási törzsszám igazolására – az e célra rendszeresített nyomtatványon – az érintett személy részére díjmentesen igazolást ad ki.
 
@@ -18,4 +18,4 @@ A nyugellátást havonta kell folyósítani, legkorábban attól a naptól kezdv
 
 (4)
 
-(5) Ha a korengedményes nyugdíjban részesülő a reá irányadó öregségi nyugdíjkorhatárt eléri, ettől a naptól kezdődően a megállapított korengedményes nyugdíjat részére öregségi nyugdíj címén kell folyósítani.
+(5)

@@ -1,6 +1,6 @@
 ## Az ellátásra jogosultság
 
-54. § (1) Árvaellátásra az a gyermek jogosult – ideértve a házasságban vagy az élettársi közösségben együtt élők egy háztartásban közösen nevelt gyermeket is –, akinek szülője haláláig az öregségi, illetve rokkantsági nyugdíjhoz szükséges szolgálati időt megszerezte, vagy öregségi, illetve rokkantsági nyugdíjasként halt meg.
+54. § (1) Árvaellátásra az a gyermek jogosult – ideértve a házasságban vagy az élettársi közösségben együtt élők egy háztartásban közösen nevelt gyermeket is –, akinek szülője megfelel a 46. §-ban az elhunyt házastársra meghatározott feltételeknek.
 
 (2) Az örökbefogadott gyermeknek vér szerinti szülője jogán árvaellátás nem jár, kivéve, ha a gyermeket a vér szerinti szülő házastársa fogadta örökbe.
 

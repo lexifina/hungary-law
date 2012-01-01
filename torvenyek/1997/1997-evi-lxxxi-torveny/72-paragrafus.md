@@ -1,1 +1,1 @@
-72. § Az egészségkárosodáson alapuló nyugellátás iránti igény elbírálásához és az ellátásra való jogosultság felülvizsgálatához a rehabilitációs szakértői szerv komplex minősítést végez, és annak eredményéről szakhatósági állásfoglalást ad ki.
+72. § Az egészségi állapottól függő nyugellátás iránti igény elbírálásához és az ellátásra való jogosultság felülvizsgálatához a rehabilitációs szakértői szerv megvizsgálja az egészségi állapotot, és annak eredményéről szakhatósági állásfoglalást ad ki.

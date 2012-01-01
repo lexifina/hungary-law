@@ -6,9 +6,7 @@ a) saját jogú nyugellátás és a hozzátartozói nyugellátás: olyan kereset
 
 b) öregségi nyugdíj: meghatározott életkor elérése és meghatározott szolgálati idő megszerzése esetén járó nyugellátás;
 
-c) rokkantsági nyugdíj: megrokkanás mellett meghatározott szolgálati idő megszerzése esetén járó nyugellátás;
-
-d) baleseti rokkantsági nyugdíj: üzemi baleset (foglalkozási betegség) következtében történő megrokkanás esetén szolgálati időtől függetlenül járó nyugellátás;
+c)–d)
 
 e) özvegyi nyugdíj: az elhunyt nyugdíjas, illetve nyugdíjban nem részesülő, de nyugdíjjogosultságot szerzett elhunyt személy házastársának, meghatározott feltételek mellett élettársának, valamint elvált házastársának járó nyugellátás;
 
@@ -20,6 +18,8 @@ h) szolgálati idő: az az időszak, amely alatt a biztosított nyugdíjjárulé
 
 i) nyugdíj alapjául szolgáló havi átlagkereset: a biztosított nyugdíjjárulék-fizetési kötelezettségének külön törvényben meghatározott alapját képező keresetnek, jövedelemnek az e törvény rendelkezései szerint számított átlaga;
 
-j) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+j) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
+
+k) megváltozott munkaképességű: az a személy, akinek a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvényben foglaltak szerint az egészségi állapota legfeljebb 50 százalékos.
 
 (2) A biztosítottak és foglalkoztatók körével, továbbá a járulékfizetéssel összefüggő fogalommeghatározásokra a Tbj. rendelkezései az irányadók.

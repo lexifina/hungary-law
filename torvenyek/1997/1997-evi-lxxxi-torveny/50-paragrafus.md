@@ -1,12 +1,12 @@
-50. § (1) Megözvegyülés esetén az ideiglenes özvegyi nyugdíj hatvan százaléka annak az öregségi, rokkantsági vagy baleseti rokkantsági nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
+50. § (1) Megözvegyülés esetén az ideiglenes özvegyi nyugdíj hatvan százaléka annak az öregségi nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
 
 (2) Az özvegyi nyugdíj mértéke
 
-a) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező, de saját jogú nyugellátásban nem részesülő özvegy esetében hatvan százaléka,
+a) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező, de rokkantsági ellátásban, rehabilitációs ellátásban, saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban és átmeneti bányászjáradékban nem részesülő özvegy esetében hatvan százaléka,
 
-b) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező és egyidejűleg saját jogú nyugellátásban részesülő, továbbá a 47. § (2) bekezdés c) pont szerinti feltétellel rendelkező özvegy esetében harminc százaléka
+b) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező és egyidejűleg rokkantsági ellátásban, rehabilitációs ellátásban, saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő, továbbá a 47. § (2) bekezdés c) pont szerinti feltétellel rendelkező özvegy esetében harminc százaléka
 
-annak az öregségi, rokkantsági vagy baleseti rokkantsági nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
+annak az öregségi nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
 
 (3) A (2) bekezdés a) pontja szerint hatvanszázalékos mértékben megállapított özvegyi nyugdíj helyett harminc százalékos mértékű özvegyi nyugdíjat kell megállapítani attól az időponttól, amelytől az özvegy saját jogú nyugellátásban részesül. A (2) bekezdés b) pontja szerint megállapított özvegyi nyugdíj az özvegy saját jogú nyugdíjának összegére tekintet nélkül jár.
 

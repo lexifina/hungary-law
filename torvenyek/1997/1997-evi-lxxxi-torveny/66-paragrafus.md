@@ -1,8 +1,8 @@
 66. § (1) Különös méltánylást érdemlő körülmények fennállása esetén a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv vezetője
 
-a) az öregségi nyugdíjkorhatárt elérő személy, a rokkant vagy az árva részére kivételes nyugellátást, a rehabilitációs járadékra való jogosultság megállapításához szükséges feltételeknek – az előírt szolgálati idő kivételével – megfelelő személy részére kivételes rehabilitációs járadékot (a továbbiakban együtt: kivételes nyugellátás) állapíthat meg,
+a) az öregségi nyugdíjkorhatárt elérő személy, a megváltozott munkaképességű özvegy és az árva részére kivételes nyugellátást (a továbbiakban együtt: kivételes nyugellátás) állapíthat meg,
 
-b) az a) pontban meghatározott személyek, illetőleg a 47. § (2) bekezdésének c) pontja szerinti feltétellel rendelkező özvegy részére kivételes nyugellátás-emelést, illetőleg a 6. § szerinti nyugellátásban részesülő személyek részére egyszeri segélyt engedélyezhet.
+b) az a) pontban meghatározott személyek, a rehabilitációs járadékban részesülő személy, illetőleg a 47. § (2) bekezdésének c) pontja szerinti feltétellel rendelkező özvegy részére kivételes nyugellátás-emelést, illetőleg a 6. § szerinti nyugellátásban részesülő személyek részére egyszeri segélyt engedélyezhet.
 
 (2) A kivételes nyugellátás összegét a kérelmező magán-nyugdíjpénztári tagságára tekintet nélkül kell megállapítani.
 

@@ -14,7 +14,7 @@ a) ideiglenes özvegyi nyugdíj egyhavi összegének tizenkétszeresét,
 
 b) az árvaellátás egyhavi összegének az árva 25. életéve betöltéséig terjedő időtartamra számított összegét,
 
-c) rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, özvegyi nyugdíj, szülői nyugdíj, illetve baleseti hozzátartozói nyugellátás egyhavi összegének az ellátásban részesülő személyre irányadó öregségi nyugdíjkorhatár betöltéséig terjedő időtartamra, de legalább négy évre számított összegét, az irányadó öregségi nyugdíjkorhatárt betöltött, ellátásban részesülő személy esetén négy évre számított összegét
+c) özvegyi nyugdíj, szülői nyugdíj, illetve baleseti hozzátartozói nyugellátás egyhavi összegének az ellátásban részesülő személyre irányadó öregségi nyugdíjkorhatár betöltéséig terjedő időtartamra, de legalább négy évre számított összegét, az irányadó öregségi nyugdíjkorhatárt betöltött, ellátásban részesülő személy esetén négy évre számított összegét
 
 kell megtéríteni.
 
@@ -36,6 +36,6 @@ b) a (3) bekezdés b) pontja szerinti esetben a felszámolást, illetőleg a vé
 
 (10) A (2)–(9) bekezdés
 
-a) baleseti rokkantsági nyugdíjra vonatkozó rendelkezéseit a baleseti járadék megtérítésére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál az Eb. 58. §-a (1) bekezdésének a) pontjában említett baleseti járadék esetében az Eb. 57. §-ának (2) bekezdése szerinti kétévi időtartamot kell alapul venni,
+a) baleseti hozzátartozói nyugellátásra vonatkozó rendelkezéseit a baleseti járadék megtérítésére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál az Eb. 58. §-a (1) bekezdésének a) pontjában említett baleseti járadék esetében az Eb. 57. §-ának (2) bekezdése szerinti kétévi időtartamot kell alapul venni,
 
 b) rendelkezéseit a rehabilitációs járadékra azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál azt az időtartamot kell alapul venni, amelyre a rehabilitációs járadékot megállapították.

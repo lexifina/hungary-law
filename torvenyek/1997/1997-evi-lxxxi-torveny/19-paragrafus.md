@@ -1,3 +1,1 @@
-19. § (1) Aki a szervezet fokozott igénybevételével járó, továbbá egészségre különösen ártalmas munkát végzett, korkedvezményre a 8–8/C. §-ban foglaltak megfelelő alkalmazásával jogosult.
-
-(2) A korkedvezményt szerzett személynek az öregségi nyugdíjkorhatárhoz képest az előrehozott öregségi nyugdíj annyi évvel alacsonyabb életkorban jár, ahány évvel korábban őt a korkedvezményre jogosultság nélkül az előrehozott öregségi nyugdíj megilletné. Az előrehozott öregségi nyugdíjra jogosultság meghatározásánál a megszerzett szolgálati időt, a nyugdíjcsökkenés mértékének meghatározásánál pedig a megszerzett szolgálati időt, illetve az elért életkort a korkedvezmény időtartamával növelve kell figyelembe venni.
+19. §

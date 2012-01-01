@@ -4,7 +4,7 @@
 
 a) a reá irányadó öregségi nyugdíjra jogosító korhatárt betöltötte, vagy
 
-b) rokkant, vagy
+b) megváltozott munkaképességű, vagy
 
 c) házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg, vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodik.
 

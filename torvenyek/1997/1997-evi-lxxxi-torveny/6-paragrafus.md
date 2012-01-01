@@ -4,9 +4,7 @@
 
 a) az öregségi nyugdíj,
 
-b) a rokkantsági nyugdíj,
-
-c) a baleseti rokkantsági nyugdíj,
+b)–c)
 
 d) a külön jogszabály alapján járó rehabilitációs járadék.
 
@@ -28,6 +26,8 @@ a) több saját jogú nyugellátásra, vagy
 
 b) több hozzátartozói nyugellátásra
 
-is jogosult – ha törvény másként nem rendelkezik – mind a saját jogú, mind a hozzátartozói nyugellátások közül a számára kedvezőbbet választhatja azzal, hogy a jogosultra kedvezőtlenebb nyugellátás folyósítása szüneteltetésre kerül. Ugyanazon üzemi baleset, foglalkozási megbetegedés alapján baleseti rokkantsági nyugdíj és baleseti járadék egyidejűleg nem jár.
+is jogosult – ha törvény másként nem rendelkezik – mind a saját jogú, mind a hozzátartozói nyugellátások közül a számára kedvezőbbet választhatja azzal, hogy a jogosultra kedvezőtlenebb nyugellátás folyósítása szüneteltetésre kerül.
 
-(4) Ha jogszabály kivételt nem tesz, a bányásznyugdíjra, a korengedményes nyugdíjra, az egyes művészeti tevékenységet folytatók öregségi nyugdíjára, a szolgálati nyugdíjra, az előnyugdíjra, a mezőgazdasági szövetkezeti járadékra, a mezőgazdasági szakszövetkezeti járadékra és a mezőgazdasági szakszövetkezeti tagok növelt összegű járadékára a társadalombiztosítási nyugdíjrendszer keretében járó nyugellátásokra vonatkozó szabályokat kell alkalmazni. A rehabilitációs járadékra a társadalombiztosítási nyugdíjrendszer keretében járó nyugellátásokra vonatkozó szabályokat a külön jogszabályban meghatározottak szerint kell alkalmazni.
+(4) Ha jogszabály kivételt nem tesz, a mezőgazdasági szövetkezeti járadékra, a mezőgazdasági szakszövetkezeti járadékra és a mezőgazdasági szakszövetkezeti tagok növelt összegű járadékára a társadalombiztosítási nyugdíjrendszer keretében járó nyugellátásokra vonatkozó szabályokat kell alkalmazni.
+
+(5) Az Európai Közösségek tisztviselőinek személyzeti szabályzatáról és egyéb alkalmazottainak alkalmazási feltételeiről szóló, 1968. február 29-i 259/68/EGK, Euratom, ESZAK tanácsi rendelet (a továbbiakban: SR.) VIII. melléklet 11. cikk (1) bekezdése alapján erre jogosult személy kérheti a szerzett nyugdíjjogosultság biztosításmatematikai egyenértékének a Nyugdíjbiztosítási Alapnak történő átadását. Az SR. VIII. melléklet 11. cikk (1) és (2) bekezdésének végrehajtásához szükséges egyéb szabályokról külön törvény rendelkezik.

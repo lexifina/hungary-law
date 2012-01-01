@@ -8,10 +8,8 @@
 
 (6)
 
-(7) A kincstár, illetve a központosított illetmény-számfejtési szervek, az egészségbiztosítási szerv a biztosítás megszűnését követően folyósított ellátásokkal kapcsolatos adatokról havonként az adóhatóság, a tárgyévet követő év április 30-áig a nyugdíjbiztosítási igazgatási szerv részére kötelesek adatszolgáltatást teljesíteni.
-
-(8) A kincstár az ápolási díjban, az általa folyósított gyermekgondozási segélyben, gyermeknevelési támogatásban részesülő személyről havonként az adóhatóság, a tárgyévet követő év április 30-áig a nyugdíjbiztosítási igazgatási szerv részére adatszolgáltatást teljesít.
+(7)–(8)
 
 (9) A Tbj. 34. §-ában foglaltak alapján nyugdíj-biztosítási szolgáltatásra irányuló megállapodást kötő igazgatási szerv adatszolgáltatási kötelezettsége nem tartozik az Art. hatálya alá.
 
-(10) A rehabilitációs járadékban részesülő személyekre vonatkozó tárgyévi nyugdíjbiztosítási adatszolgáltatást az előírt határidőig a nyugdíjfolyósító szerv teljesíti.
+(10) A rehabilitációs ellátásban vagy rehabilitációs járadékban részesülő személyekre vonatkozó tárgyévi nyugdíjbiztosítási adatszolgáltatást az előírt határidőig a nyugdíjfolyósító szerv teljesíti.

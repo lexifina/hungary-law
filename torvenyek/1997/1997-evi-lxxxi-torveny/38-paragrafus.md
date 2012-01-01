@@ -2,13 +2,13 @@
 
 a) a Tbj.-ben meghatározott, nyugellátás szerzése céljából megállapodást kötött személy esetében azt az időszakot, amelyre az előírt nyugdíjjárulékot megfizették,
 
-b) az egyházi szervek által kiállított igazolás alapján az egyházi szolgálatot teljesítő egyházi személyként és szerzetesrendi tagként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre az előírt nyugdíjbiztosítási és nyugdíjjárulékot az egyházi szervek megfizették,
+b) az egyházi szervek által kiállított igazolás alapján az egyházi szolgálatot teljesítő egyházi személyként és szerzetesrendi tagként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi szervek megfizették,
 
 c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
 
 d) a katonai (polgári) szolgálatban eltöltött időt,
 
-e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
+e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj, továbbá a rehabilitációs ellátás folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
 
 f) a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 
@@ -20,11 +20,13 @@ i) az Rjtv. szerinti rehabilitációs járadék folyósításának időtartamát
 
 (2) Szolgálati időként nem lehet figyelembe venni
 
-a) az egyéni vállalkozó biztosítási kötelezettség alá tartozó jogviszonyának azt az időtartamát, amelyre vonatkozóan az egyéni vállalkozónak nyugdíjbiztosítási járulék vagy nyugdíjjárulék tartozása van,
+a) az egyéni vállalkozó biztosítási kötelezettség alá tartozó jogviszonyának azt az időtartamát, amelyre vonatkozóan az egyéni vállalkozónak 2011. december 31-éig fennálló időszakra nyugdíjbiztosítási járulék vagy nyugdíjjárulék, 2012. január 1-jétől nyugdíjjárulék tartozása van,
 
-b) a társas vállalkozás tagja esetében az adott társas vállalkozás tagjaként fennállt biztosítási kötelezettség alá tartozó jogviszonyának azt az időtartamát, amelyre vonatkozóan a társas vállalkozásnak a biztosítottnak minősülő akkori tagjai után nyugdíjbiztosítási járulék vagy nyugdíjjárulék tartozása van,
+b) a társas vállalkozás tagja esetében az adott társas vállalkozás tagjaként fennállt biztosítási kötelezettség alá tartozó jogviszonyának azt az időtartamát, amelyre vonatkozóan a társas vállalkozásnak a biztosítottnak minősülő akkori tagjai után 2011. december 31-éig fennálló időszakra nyugdíjbiztosítási járulék vagy nyugdíjjárulék, 2012. január 1-jétől nyugdíjjárulék tartozása van,
 
-c) az egyéni vállalkozó vagy jogi személyiséggel nem rendelkező társas vállalkozás tagja, segítő családtagjának az e jogcímen fennállt biztosítási idejének azt az időtartamát, amelyre vonatkozóan az egyéni vállalkozónak, illetőleg a jogi személyiséggel nem rendelkező társas vállalkozásnak e segítő családtag után nyugdíjbiztosítási járulék vagy nyugdíjjárulék tartozása van.
+c) az egyéni vállalkozó vagy jogi személyiséggel nem rendelkező társas vállalkozás tagja, segítő családtagjának az e jogcímen fennállt biztosítási idejének azt az időtartamát, amelyre vonatkozóan az egyéni vállalkozónak, illetőleg a jogi személyiséggel nem rendelkező társas vállalkozásnak e segítő családtag után 2011. december 31-éig fennálló időszakra nyugdíjbiztosítási járulék vagy nyugdíjjárulék, 2012. január 1-jétől nyugdíjjárulék tartozása van,
+
+d) a mezőgazdasági őstermelő biztosítási idejének azt az időtartamát, amelyre vonatkozóan nyugdíjjárulék tartozása van.
 
 A tartozás utólag történő – a nyugdíj megállapítása utáni – megfizetése esetén az így meghosszabbodott szolgálati időt legkorábban a befizetés napját magában foglaló naptári hónap első napjától lehet figyelembe venni. Az a)–c) pontokban említett biztosítottak szolgálati idejének figyelembevételénél a nyugdíjbiztosítási járulék és nyugdíjjárulék megfizetése tényének megállapítása, bizonyítása, illetőleg vélelmezése tekintetében a 37. § (3) bekezdésének rendelkezéseit megfelelően alkalmazni kell.
 
