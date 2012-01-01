@@ -1,3 +1,3 @@
 ## 18. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
-30. §
+30. § Hatályát veszti a közterület-felügyeletről szóló 1999. évi LXIII. törvény 1. § (5) bekezdésében a „hatósági” szövegrész, 5. §-ában a „hatósági” szövegrészek, 13. § (1) bekezdésében a „hatósági” szövegrész, 13. § (2) bekezdésében a „hatósági” szövegrész, 13. § (3) bekezdésében a „hatósági” szövegrészek, 13/A. § (1) bekezdésében a „hatósági” szövegrészek, 13/A. § (2) bekezdés c) pontjában a „hatósági” szövegrész, 13/A. § (4) bekezdésében a „hatósági” szövegrész, 29. § b) pont bd) alpontjában a „hatósági” szövegrész.

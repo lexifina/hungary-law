@@ -1,1 +1,1 @@
-4. §
+4. § A polgári perrendtartásról szóló 1952. évi III. törvény 332. § (2) bekezdésében az „óvás” szövegrész helyébe a „felhívás” szöveg, 337. § (1) bekezdésében az „óvást nyújtott be” szövegrész helyébe a „felhívással élt” szöveg, az „óvás elbírálásáig, illetőleg” szövegrész helyébe az „ügyészi felhívás elbírálásáig, illetve” szöveg, 337. § (2) bekezdésében az „óvás” szövegrész helyébe az „ügyészi felhívás” szöveg, 337. § (3) bekezdésében az „óvás” szövegrész helyébe az „ügyészi felhívás” szöveg lép.
