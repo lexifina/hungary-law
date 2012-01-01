@@ -1,6 +1,6 @@
 ## 3. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-## Melléklet az 56/2005. (VII. 7.) GKM rendelethez[^5]
+## Melléklet az 56/2005. (VII. 7.) GKM rendelethez[^6]
 
 ## Útmutató a CEMT multilaterális engedélyek használatához
 
@@ -56,31 +56,31 @@
 
 ## A CEMT tagországok közötti nemzetközi fuvarozás fejlődésének elősegítése és a járművek jobb kihasználása érdekében az alábbi fuvarozási kategóriák mentesülnek a multilaterális és bilaterális fuvarozási engedélykövetelmények alól (lásd TRANS/SC1/2002/4/Rev4., 16. old.):
 
-## 1. Olyan gépjárművel történő árufuvarozások, amelyek esetében a megengedett legnagyobb össztömeg, beleértve a pótkocsikat is, nem haladja meg a 6 tonnát, illetve ha az engedélyezett terhelés, beleértve a pótkocsikat is, nem haladja meg a 3,5 tonnát[^6].
+## 1. Olyan gépjárművel történő árufuvarozások, amelyek esetében a megengedett legnagyobb össztömeg, beleértve a pótkocsikat is, nem haladja meg a 6 tonnát, illetve ha az engedélyezett terhelés, beleértve a pótkocsikat is, nem haladja meg a 3,5 tonnát[^7].
 
-## 2. Repülőterekről induló, illetve oda irányuló, eseti alapon történő áruszállítás, légijáratok átirányítása esetén[^7].
+## 2. Repülőterekről induló, illetve oda irányuló, eseti alapon történő áruszállítás, légijáratok átirányítása esetén[^8].
 
 ## 3. Sérült, illetve üzemképtelen járművek szállítása és az üzemzavar-elhárító járművek mozgása.
 
 ## 4. Másik országban üzemképtelenné vált jármű helyettesítése céljából elküldött üres jármű közlekedése, valamint a javítást követően az üzemképtelenné vált jármű visszaútja.
 
-## 5. Élőállat szállítása erre a célra épített, illetve erre a célra véglegesen átalakított, és a tagországok érintett hatóságai által ilyen járműként elismert járművön[^8].
+## 5. Élőállat szállítása erre a célra épített, illetve erre a célra véglegesen átalakított, és a tagországok érintett hatóságai által ilyen járműként elismert járművön[^9].
 
-## 6. Alkatrészek és élelmiszerek szállítása óceánjáró hajók és repülőgépek részére[^9].
+## 6. Alkatrészek és élelmiszerek szállítása óceánjáró hajók és repülőgépek részére[^10].
 
 ## 7. Vészhelyzetekben, különösen természeti katasztrófák esetén és humanitárius célból szükséges orvosi eszközök és berendezések szállítása.
 
-## 8. Művészeti alkotások és munkák nem kereskedelmi célból történő szállítása bemutatókra és kiállításokra[^10].
+## 8. Művészeti alkotások és munkák nem kereskedelmi célból történő szállítása bemutatókra és kiállításokra[^11].
 
-## 9. Különböző eszközök, tartozékok és állatok nem kereskedelmi célból történő szállítása színházi, zenés, filmes cirkuszi előadásokhoz, kiállításokhoz, illetve ünnepségekhez, valamint rádió-, film-, illetve televízió-felvételek készítéséhez[^11].
+## 9. Különböző eszközök, tartozékok és állatok nem kereskedelmi célból történő szállítása színházi, zenés, filmes cirkuszi előadásokhoz, kiállításokhoz, illetve ünnepségekhez, valamint rádió-, film-, illetve televízió-felvételek készítéséhez[^12].
 
-## 10. Saját számlás áruszállítás[^12].
+## 10. Saját számlás áruszállítás[^13].
 
 ## 11. Temetkezési szállítások.
 
-## 12. Közszolgáltatásként teljesített postai szállítás[^13].
+## 12. Közszolgáltatásként teljesített postai szállítás[^14].
 
-## 13. Újonnan beszerzett járművek rakomány nélküli szállítása végső rendeltetési helyükre[^14].
+## 13. Újonnan beszerzett járművek rakomány nélküli szállítása végső rendeltetési helyükre[^15].
 
 ## Különleges esetek
 
@@ -226,7 +226,7 @@
 
 ## 6.6. A CEMT engedélyek használatára vonatkozó előírások vagy a szociális és forgalmi szabályok súlyos, illetve ismétlődő megsértése esetén, továbbá nem megfelelő használat, illetve ismétlődő fuvarozási műveletekhez történő felhasználás esetén az engedélyt a kiállító hatóság visszavonhatja.
 
-## 6.7. Kizárólag akkor vonható vissza azonnali hatállyal, bizonyítékként a nemzeti eljáráshoz az engedély vagy az igazolás, ha ellopott vagy elvesztett, vagy más vállalkozás nevére szóló CEMT engedélyt használnak, mint akinek az engedélyt kibocsátották, vagy hamisított vagy lejárt az engedély vagy hamisított az igazolás. Egy másolatot – vagy ha nem szükséges a nemzeti eljárásokhoz – az eredeti engedélyt vagy eredeti igazolást a megfelelő tájékoztatással haladéktalanul át kell adni a vállalkozás székhelye szerinti tagállam illetékes hatóságának (30 napon belül).[^15]
+## 6.7. Kizárólag akkor vonható vissza azonnali hatállyal, bizonyítékként a nemzeti eljáráshoz az engedély vagy az igazolás, ha ellopott vagy elvesztett, vagy más vállalkozás nevére szóló CEMT engedélyt használnak, mint akinek az engedélyt kibocsátották, vagy hamisított vagy lejárt az engedély vagy hamisított az igazolás. Egy másolatot – vagy ha nem szükséges a nemzeti eljárásokhoz – az eredeti engedélyt vagy eredeti igazolást a megfelelő tájékoztatással haladéktalanul át kell adni a vállalkozás székhelye szerinti tagállam illetékes hatóságának (30 napon belül).[^16]
 
 ## 6.8. Abban az esetben, ha a CEMT multilaterális engedéllyel rendelkező fuvarozó ismétlődő jelleggel szabálysértést követett el vagy a CEMT engedély használatához kapcsolódó okmányok bármelyikét meghamisította, a CEMT engedélyek birtoklásától legalább két évig el kell tiltani.
 
@@ -266,7 +266,7 @@
 
 ## Dízelmotorok kipufogógáz-emissziója
 
-## (ESC és ELR teszt-ciklusok szerint mérve az ENSZ-EGB 49.03. sz. előírás A-sorában vagy a 2001/27/EK irányelv A-sorával módosított 88/77/EGK irányelvben vagy a 2005/55/EK irányelv A-sorában meghatározottak szerint)[^16]
+## (ESC és ELR teszt-ciklusok szerint mérve az ENSZ-EGB 49.03. sz. előírás A-sorában vagy a 2001/27/EK irányelv A-sorával módosított 88/77/EGK irányelvben vagy a 2005/55/EK irányelv A-sorában meghatározottak szerint)[^17]
 
 ## CO: 2,1 g/kWh
 
@@ -274,21 +274,21 @@
 
 ## NO: 5,0 g/kWh
 
-## Részecske: 0,10 [0,13[^17]] g/kWh
+## Részecske: 0,10 [0,13[^18]] g/kWh
 
 ## Füst: 0,8 m-1
 
-## (ETC teszt-ciklus szerint mérve az ENSZ-EGB 49.03 sz. előírás A-sorában vagy a 2001/27/EK irányelv A-sorával módosított 88/77/EGK irányelvben vagy a 2005/55/EK irányelv A-sorában foglaltaknak megfelelően)[^18]
+## (ETC teszt-ciklus szerint mérve az ENSZ-EGB 49.03 sz. előírás A-sorában vagy a 2001/27/EK irányelv A-sorával módosított 88/77/EGK irányelvben vagy a 2005/55/EK irányelv A-sorában foglaltaknak megfelelően)[^19]
 
 ## CO: 5,45 g/kWh
 
 ## NMHC: 0,78 g/kWh
 
-## CH4[^19]: 1,6 g/kWh
+## CH4[^20]: 1,6 g/kWh
 
 ## NOx: 5,0 g/kWh
 
-## Részecske: 0,16 [0,21[^20]] g/kWh
+## Részecske: 0,16 [0,21[^21]] g/kWh
 
 ## Minimális műszaki és biztonsági követelmények
 
@@ -312,7 +312,7 @@
 
 ## 10. A járműveknek és pótkocsiknak az ENSZ-EGB 79.01 sz. előírásban vagy későbbi módosításában, illetve az 1999/7/EK irányelvvel módosított 70/311/EGK irányelvben vagy későbbi módosításában meghatározott kormányművel kell rendelkezniük.
 
-## 11. A járműveknek és pótkocsiknak meg kell felelniük a 2003/27/EK irányelvvel módosított 96/96/EK irányelvben vagy későbbi módosításában, a közúti járművek időszakos vizsgálata egységes feltételeinek elfogadásáról és ezen vizsgálat kölcsönös elismeréséről szóló 2001. november 13-i Egyezménnyel módosított 1997. november 13-i Egyezményben, az R.E.1 ENSZ-EGB konszolidált határozatban (TRANS/SC.1/249/Rev.5) és 2001. évi módosításában (TRANS/WP.1/2001/25) vagy későbbi módosításában meghatározott közlekedésbiztonsági követelményeknek. A fenti irányelvekben foglaltak értelmében a közlekedésbiztonsági ellenőrzést minden évben el kell végezni, tehát a megfelelőségi igazolás nem lehet 12 hónapnál régebbi[^21].
+## 11. A járműveknek és pótkocsiknak meg kell felelniük a 2003/27/EK irányelvvel módosított 96/96/EK irányelvben vagy későbbi módosításában, a közúti járművek időszakos vizsgálata egységes feltételeinek elfogadásáról és ezen vizsgálat kölcsönös elismeréséről szóló 2001. november 13-i Egyezménnyel módosított 1997. november 13-i Egyezményben, az R.E.1 ENSZ-EGB konszolidált határozatban (TRANS/SC.1/249/Rev.5) és 2001. évi módosításában (TRANS/WP.1/2001/25) vagy későbbi módosításában meghatározott közlekedésbiztonsági követelményeknek. A fenti irányelvekben foglaltak értelmében a közlekedésbiztonsági ellenőrzést minden évben el kell végezni, tehát a megfelelőségi igazolás nem lehet 12 hónapnál régebbi[^22].
 
 ## Ezen túlmenően az EURO III biztonságos tehergépkocsikra kiadott CEMT engedélyeket csak olyan járművekre lehet felhasználni, amelyek megfelelnek a fentebb felvázolt műszaki előírásoknak és az engedélyek csak akkor érvényesek, ha megfelelően kiállított igazolások/tanúsítványok állnak rendelkezésre arról, hogy a jármű megfelel a fentebb felsorolt műszaki és biztonsági előírásoknak.
 
@@ -336,7 +336,7 @@
 
 ## Újonnan gyártott járművekhez, a pótkocsi biztonsági követelményekre vonatkozó igazolását (lásd 5. Melléklet) a következő szerveknek kell kitölteniük a megfelelő mellékletben meghatározott rendelkezések szerint:
 
-## – a nyilvántartási ország erre illetékes hatósága[^22],
+## – a nyilvántartási ország erre illetékes hatósága[^23],
 
 ## – a jármű gyártója, illetve a gyártó nyilvántartási országban működő, erre felhatalmazott képviselője, vagy
 
@@ -366,7 +366,7 @@
 
 ## Dízelmotorok kipufogógáz-emissziója
 
-## (ESC és ELR tesztciklusok alatt mérve az ENSZ-EGB 49.03 sz. előírás B1-sorában, illetve annak későbbi módosításában, vagy a 2001/27/EK irányelv B1-sorával módosított 88/77/EGK irányelvben, vagy a 2005/78/EK irányelv B1-sorával, illetve a későbbiekben módosított 2005/55/EK irányelvben meghatározottak szerint)[^23]
+## (ESC és ELR tesztciklusok alatt mérve az ENSZ-EGB 49.03 sz. előírás B1-sorában, illetve annak későbbi módosításában, vagy a 2001/27/EK irányelv B1-sorával módosított 88/77/EGK irányelvben, vagy a 2005/78/EK irányelv B1-sorával, illetve a későbbiekben módosított 2005/55/EK irányelvben meghatározottak szerint)[^24]
 
 ## CO: 1,5 g/kWh
 
@@ -378,17 +378,17 @@
 
 ## Füst: 0,5 m–1
 
-## (ETC tesztciklus alatt mérve az ENSZ-EGB 49.03 sz. előírás B1-sorában, illetve annak későbbi módosításában, vagy a 2001/27/EK irányelv B1-sorával módosított 88/77/EGK irányelvben, vagy a 2005/78/EK B1-sorával, illetve a későbbiekben módosított 2005/55/EK irányelvben meghatározottak szerint)[^24]
+## (ETC tesztciklus alatt mérve az ENSZ-EGB 49.03 sz. előírás B1-sorában, illetve annak későbbi módosításában, vagy a 2001/27/EK irányelv B1-sorával módosított 88/77/EGK irányelvben, vagy a 2005/78/EK B1-sorával, illetve a későbbiekben módosított 2005/55/EK irányelvben meghatározottak szerint)[^25]
 
 ## CO: 4,0 g/kWh
 
 ## NMHC: 0,55 g/kWh
 
-## CH4[^25]: 1,1 g/kWh
+## CH4[^26]: 1,1 g/kWh
 
 ## NOx: 3,5 g/kWh
 
-## Részecske[^26]: 0,03 g/kWh
+## Részecske[^27]: 0,03 g/kWh
 
 ## Minimális műszaki és biztonsági követelmények
 
@@ -412,7 +412,7 @@
 
 ## 10. A járműveknek és pótkocsiknak az ENSZ-EGB 79.01 sz. előírásban vagy későbbi módosításában, illetve az 1999/7/EK irányelvvel módosított 70/311/EGK irányelvben vagy későbbi módosításában meghatározott kormányművel kell rendelkezniük.
 
-## 11. A járműveknek és pótkocsiknak meg kell felelniük a 2003/27/EK irányelvvel módosított 96/96/EK irányelvben vagy későbbi módosításában, a közúti járművek időszakos vizsgálata egységes feltételeinek elfogadásáról és ezen vizsgálat kölcsönös elismeréséről szóló 2001. november 13-i Egyezménnyel módosított 1997. november 13-i Egyezményben, az R.E.1 ENSZ-EGB konszolidált határozatban (TRANS/SC.1/249/Rev.5) és 2001. évi módosításában (TRANS/WP.1/2001/25) vagy későbbi módosításában meghatározott közlekedésbiztonsági követelményeknek. A fenti irányelvekben foglaltak értelmében a közlekedésbiztonsági ellenőrzést minden évben el kell végezni, tehát a megfelelőségi igazolás nem lehet 12 hónapnál régebbi[^27].
+## 11. A járműveknek és pótkocsiknak meg kell felelniük a 2003/27/EK irányelvvel módosított 96/96/EK irányelvben vagy későbbi módosításában, a közúti járművek időszakos vizsgálata egységes feltételeinek elfogadásáról és ezen vizsgálat kölcsönös elismeréséről szóló 2001. november 13-i Egyezménnyel módosított 1997. november 13-i Egyezményben, az R.E.1 ENSZ-EGB konszolidált határozatban (TRANS/SC.1/249/Rev.5) és 2001. évi módosításában (TRANS/WP.1/2001/25) vagy későbbi módosításában meghatározott közlekedésbiztonsági követelményeknek. A fenti irányelvekben foglaltak értelmében a közlekedésbiztonsági ellenőrzést minden évben el kell végezni, tehát a megfelelőségi igazolás nem lehet 12 hónapnál régebbi[^28].
 
 ## Ezen túlmenően az EURO IV biztonságos tehergépkocsikra kiadott CEMT engedélyeket csak olyan járművekre lehet felhasználni, amelyek megfelelnek a fentebb felvázolt műszaki előírásoknak és az engedélyek csak akkor érvényesek, ha megfelelően kiállított igazolások/tanúsítványok állnak rendelkezésre arról, hogy a jármű megfelel a fentebb felsorolt műszaki és biztonsági előírásoknak.
 
@@ -436,7 +436,7 @@
 
 ## Újonnan gyártott járművekhez, a pótkocsi biztonsági követelményekre vonatkozó igazolását (lásd 5. Melléklet) a következő szerveknek kell kitölteniük a megfelelő mellékletben meghatározott rendelkezések szerint:
 
-## – a nyilvántartási ország erre illetékes hatósága[^28],
+## – a nyilvántartási ország erre illetékes hatósága[^29],
 
 ## – a jármű gyártója, illetve a gyártó nyilvántartási országban működő, erre felhatalmazott képviselője, vagy
 
@@ -466,7 +466,7 @@
 
 ## Dízelmotorok kipufogógáz-emissziója
 
-## (ESC és ELR tesztciklusok alatt mérve az ENSZ-EGB 49.04 sz. előírás B2-sorában, illetve annak későbbi módosításában, vagy a 2001/27/EK irányelv B2-sorával módosított 88/77/EGK irányelvben, vagy a 2005/78/EK irányelv B2-sorával, illetve a későbbiekben módosított 2005/55/EK irányelvben meghatározottak szerint)[^29]
+## (ESC és ELR tesztciklusok alatt mérve az ENSZ-EGB 49.04 sz. előírás B2-sorában, illetve annak későbbi módosításában, vagy a 2001/27/EK irányelv B2-sorával módosított 88/77/EGK irányelvben, vagy a 2005/78/EK irányelv B2-sorával, illetve a későbbiekben módosított 2005/55/EK irányelvben meghatározottak szerint)[^30]
 
 ## CO: 1,5 g/kWh
 
@@ -478,17 +478,17 @@
 
 ## Füst: 0,5 m–1
 
-## (ETC tesztciklus alatt mérve az ENSZ-EGB 49.04 sz. előírás B2-sorában, illetve annak későbbi módosításában, vagy a 2001/27/EK irányelv B2-sorával módosított 88/77/EGK irányelvben, vagy a 2005/78/EK B2-sorával, illetve a későbbiekben módosított 2005/55/EK irányelvben meghatározottak szerint)[^30]
+## (ETC tesztciklus alatt mérve az ENSZ-EGB 49.04 sz. előírás B2-sorában, illetve annak későbbi módosításában, vagy a 2001/27/EK irányelv B2-sorával módosított 88/77/EGK irányelvben, vagy a 2005/78/EK B2-sorával, illetve a későbbiekben módosított 2005/55/EK irányelvben meghatározottak szerint)[^31]
 
 ## CO: 4,0 g/kWh
 
 ## NMHC: 0,55 g/kWh
 
-## CH4[^31]: 1,1 g/kWh
+## CH4[^32]: 1,1 g/kWh
 
 ## NOx: 2,0 g/kWh
 
-## Részecske[^32]: 0,03 g/kWh
+## Részecske[^33]: 0,03 g/kWh
 
 ## Minimális műszaki és biztonsági követelmények
 
@@ -500,7 +500,7 @@
 
 ## 4. A járműveknek visszapillantó tükörrel kell rendelkezniük az ENSZ-EGB 46.01 sz. előírása, illetve annak későbbi módosítása, vagy a 88/321/EGK irányelvvel módosított 71/127/EGK irányelv, vagy a 2003/97/EK irányelv, illetve annak későbbi módosítása szerint.
 
-## 5. A járműveknek[^33] rendelkezniük kell az ENSZ-EGB 48.02 sz. előírásban, illetve annak későbbi módosításában, vagy a 97/28/EK irányelvvel módosított, illetve a későbbiekben módosított 76/756/EGK irányelvben meghatározott világító és fényjelző eszközökkel.
+## 5. A járműveknek[^34] rendelkezniük kell az ENSZ-EGB 48.02 sz. előírásban, illetve annak későbbi módosításában, vagy a 97/28/EK irányelvvel módosított, illetve a későbbiekben módosított 76/756/EGK irányelvben meghatározott világító és fényjelző eszközökkel.
 
 ## 6. A járműveknek tachográfot kell használniuk a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodásban (AETR), illetve annak módosításaiban, vagy a 2135/98/EK rendelettel, illetve a későbbiekben módosított 3821/85/EGK rendeletben foglaltak szerint, továbbá az 1360/2002/EK és 432/2004/EK bizottsági rendeletek, illetve azok későbbi módosítása szerint.
 
@@ -512,7 +512,7 @@
 
 ## 10. A járműveknek és pótkocsiknak az ENSZ-EGB 79.01 sz. előírásban vagy későbbi módosításában, illetve az 1999/7/EK irányelvvel módosított 70/311/EGK irányelvben vagy későbbi módosításában meghatározott kormányművel kell rendelkezniük.
 
-## 11. A járműveknek és pótkocsiknak meg kell felelniük a 2003/27/EK irányelvvel módosított 96/96/EK irányelvben vagy későbbi módosításában, a közúti járművek időszakos vizsgálata egységes feltételeinek elfogadásáról és ezen vizsgálat kölcsönös elismeréséről szóló 2001. november 13-i Egyezménnyel módosított 1997. november 13-i Egyezményben, az R.E.1 ENSZ-EGB konszolidált határozatban (TRANS/SC.1/249/Rev.5) és 2001. évi módosításában (TRANS/WP.1/2001/25) vagy későbbi módosításában meghatározott közlekedésbiztonsági követelményeknek. A fenti irányelvekben foglaltak értelmében a közlekedésbiztonsági ellenőrzést minden évben el kell végezni, tehát a megfelelőségi igazolás nem lehet 12 hónapnál régebbi[^34].
+## 11. A járműveknek és pótkocsiknak meg kell felelniük a 2003/27/EK irányelvvel módosított 96/96/EK irányelvben vagy későbbi módosításában, a közúti járművek időszakos vizsgálata egységes feltételeinek elfogadásáról és ezen vizsgálat kölcsönös elismeréséről szóló 2001. november 13-i Egyezménnyel módosított 1997. november 13-i Egyezményben, az R.E.1 ENSZ-EGB konszolidált határozatban (TRANS/SC.1/249/Rev.5) és 2001. évi módosításában (TRANS/WP.1/2001/25) vagy későbbi módosításában meghatározott közlekedésbiztonsági követelményeknek. A fenti irányelvekben foglaltak értelmében a közlekedésbiztonsági ellenőrzést minden évben el kell végezni, tehát a megfelelőségi igazolás nem lehet 12 hónapnál régebbi[^35].
 
 ## Ezen túlmenően az EURO V biztonságos tehergépkocsikra kiadott CEMT engedélyeket csak olyan járművekre lehet felhasználni, amelyek megfelelnek a fentebb felvázolt műszaki előírásoknak és az engedélyek csak akkor érvényesek, ha megfelelően kiállított igazolások/tanúsítványok állnak rendelkezésre arról, hogy a jármű megfelel a fentebb felsorolt műszaki és biztonsági előírásoknak.
 
@@ -536,7 +536,7 @@
 
 ## Újonnan gyártott járművekhez, a pótkocsi biztonsági követelményekre vonatkozó igazolását (lásd 5. Melléklet) a következő szerveknek kell kitölteniük a megfelelő mellékletben meghatározott rendelkezések szerint:
 
-## – a nyilvántartási ország erre illetékes hatósága[^35],
+## – a nyilvántartási ország erre illetékes hatósága[^36],
 
 ## – a jármű gyártója, illetve a gyártó nyilvántartási országban működő, erre felhatalmazott képviselője, vagy
 
@@ -552,34 +552,34 @@
 
 1. Melléklet
 
-[^5]: A melléklet a 76/2009. (XII. 15.) KHEM rendelet 1. §-ával megállapított szöveg.
-[^6]: Ausztria, Bulgária, Finnország és Olaszország fenntartást nyújtott be az 1. pontra vonatkozóan.
-[^7]: Németország és az Orosz Föderáció fenntartást nyújtott be a 2. pontra vonatkozóan.
-[^8]: Ausztria, Bulgária, Csehország, Észtország, Franciaország, Németország, Magyarország, Olaszország, Lengyelország, az Orosz Föderáció és Svájc fenntartást nyújtott be az 5. pontra vonatkozóan.
-[^9]: Csehország, Németország és az Orosz Föderáció fenntartást nyújtott be a 6. pontra vonatkozóan.
-[^10]: Németország fenntartást nyújtott be a 8. pontra vonatkozóan.
-[^11]: Németország fenntartást nyújtott be a 9. pontra vonatkozóan.
-[^12]: Ausztria, Belorusszia, Bulgária, Csehország, Észtország, Finnország, Franciaország, Magyarország, Olaszország, Litvánia, Lengyelország, Portugália, az Orosz Föderáció, Svédország és Törökország fenntartást nyújtott be a 10. pontra vonatkozóan.
-[^13]: Ausztria és Olaszország fenntartást nyújtott be a 12. pontra vonatkozóan.
-[^14]: Finnország fenntartást nyújtott be a 13. pontra vonatkozóan.
-[^15]: Olaszország fenntartást nyújtott be a 30 napos határidőre vonatkozóan.
-[^16]: A jóváhagyási számban 'A' karakter van.
-[^17]: Olyan motoroknál, amelynek minden egyes hengere 0,75 dm3-nél kisebb és névleges fordulatszáma 3000 min–1 fölött van.
-[^18]: A jóváhagyási számban 'A' karakter van.
-[^19]: Csak földgáz üzemű motoroknál és az ETC tesztekre vonatkozó rendelkezéseknek megfelelően.
-[^20]: Olyan motoroknál, amelynek minden egyes hengere 0,75 dm3-nél kisebb és névleges fordulatszáma 3000 min–1 fölött van.
-[^21]: Lásd 6. melléklet.
-[^22]: Olyan országokban, ahol a gyártók képviselői nincsenek felhatalmazva.
-[^23]: A jóváhagyási számban a B1 vagy B vagy C karakter szerepel.
+[^6]: A melléklet a 76/2009. (XII. 15.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^7]: Ausztria, Bulgária, Finnország és Olaszország fenntartást nyújtott be az 1. pontra vonatkozóan.
+[^8]: Németország és az Orosz Föderáció fenntartást nyújtott be a 2. pontra vonatkozóan.
+[^9]: Ausztria, Bulgária, Csehország, Észtország, Franciaország, Németország, Magyarország, Olaszország, Lengyelország, az Orosz Föderáció és Svájc fenntartást nyújtott be az 5. pontra vonatkozóan.
+[^10]: Csehország, Németország és az Orosz Föderáció fenntartást nyújtott be a 6. pontra vonatkozóan.
+[^11]: Németország fenntartást nyújtott be a 8. pontra vonatkozóan.
+[^12]: Németország fenntartást nyújtott be a 9. pontra vonatkozóan.
+[^13]: Ausztria, Belorusszia, Bulgária, Csehország, Észtország, Finnország, Franciaország, Magyarország, Olaszország, Litvánia, Lengyelország, Portugália, az Orosz Föderáció, Svédország és Törökország fenntartást nyújtott be a 10. pontra vonatkozóan.
+[^14]: Ausztria és Olaszország fenntartást nyújtott be a 12. pontra vonatkozóan.
+[^15]: Finnország fenntartást nyújtott be a 13. pontra vonatkozóan.
+[^16]: Olaszország fenntartást nyújtott be a 30 napos határidőre vonatkozóan.
+[^17]: A jóváhagyási számban 'A' karakter van.
+[^18]: Olyan motoroknál, amelynek minden egyes hengere 0,75 dm3-nél kisebb és névleges fordulatszáma 3000 min–1 fölött van.
+[^19]: A jóváhagyási számban 'A' karakter van.
+[^20]: Csak földgáz üzemű motoroknál és az ETC tesztekre vonatkozó rendelkezéseknek megfelelően.
+[^21]: Olyan motoroknál, amelynek minden egyes hengere 0,75 dm3-nél kisebb és névleges fordulatszáma 3000 min–1 fölött van.
+[^22]: Lásd 6. melléklet.
+[^23]: Olyan országokban, ahol a gyártók képviselői nincsenek felhatalmazva.
 [^24]: A jóváhagyási számban a B1 vagy B vagy C karakter szerepel.
-[^25]: Csak földgázüzemű motorok esetén.
-[^26]: Nem vonatkozik gáz motorokra, A és B1 lépés.
-[^27]: Lásd 6. melléklet.
-[^28]: Olyan országokban, ahol a gyártók képviselői nincsenek felhatalmazva.
-[^29]: A jóváhagyási számban a B2 vagy D, E, F vagy G karakter szerepel.
+[^25]: A jóváhagyási számban a B1 vagy B vagy C karakter szerepel.
+[^26]: Csak földgázüzemű motorok esetén.
+[^27]: Nem vonatkozik gáz motorokra, A és B1 lépés.
+[^28]: Lásd 6. melléklet.
+[^29]: Olyan országokban, ahol a gyártók képviselői nincsenek felhatalmazva.
 [^30]: A jóváhagyási számban a B2 vagy D, E, F vagy G karakter szerepel.
-[^31]: Csak földgázüzemű motorok esetén.
-[^32]: Nem vonatkozik gáz motorokra, A és B1 lépés.
-[^33]: A pótkocsiknak rendelkezniük kell az ENSZ-EGB 48. sz. előírásban, ill. annak későbbi módosításában meghatározott világító és fényjelző eszközökkel.
-[^34]: Lásd 6. melléklet.
-[^35]: Olyan országokban, ahol a gyártók képviselői nincsenek felhatalmazva.
+[^31]: A jóváhagyási számban a B2 vagy D, E, F vagy G karakter szerepel.
+[^32]: Csak földgázüzemű motorok esetén.
+[^33]: Nem vonatkozik gáz motorokra, A és B1 lépés.
+[^34]: A pótkocsiknak rendelkezniük kell az ENSZ-EGB 48. sz. előírásban, ill. annak későbbi módosításában meghatározott világító és fényjelző eszközökkel.
+[^35]: Lásd 6. melléklet.
+[^36]: Olyan országokban, ahol a gyártók képviselői nincsenek felhatalmazva.
