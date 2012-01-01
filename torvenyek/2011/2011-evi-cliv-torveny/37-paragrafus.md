@@ -1,1 +1,3 @@
-### 37. §
+## „(1) A Kormány általános hatáskörű területi államigazgatási szervének vezetője az oktatásért felelős miniszter egyidejű értesítésével rendkívüli szünetet rendel el, ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a megye, főváros területén a nevelési-oktatási intézmények működtetése nem lehetséges. A Kormány általános hatáskörű területi államigazgatási szervének vezetője a határozatához – kivéve, ha a késlekedés jelentős veszéllyel vagy helyrehozhatatlan kárral járna – beszerzi az érdekelt önkormányzatok jegyzőinek véleményét.”
+
+37. § A Kt. 102. § (1) bekezdése helyébe a következő rendelkezés lép:

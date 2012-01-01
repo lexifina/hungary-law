@@ -1,1 +1,3 @@
-### 26. §
+## „90/A. § A szociális hatóság az e törvényben meghatározott ellátási kötelezettségek teljesítését folyamatosan figyelemmel kíséri, és amennyiben az önkormányzat, illetve a megyei fenntartó az ellátási kötelezettségéből adódó feladatainak, különösen fenntartói feladatának, illetve az önkormányzat a szolgáltatástervezési koncepció elkészítésének nem tesz eleget, megfelelő határidő tűzésével felszólítja a feladat teljesítésére.”
+
+26. § Az Szt. 91. §-a a következő (2)–(5) bekezdéssel egészül ki, egyidejűleg a § jelenlegi szövegének a jelölése (1) bekezdésre változik:
