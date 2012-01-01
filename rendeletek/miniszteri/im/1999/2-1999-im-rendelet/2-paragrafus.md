@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya kiterjed a büntetés-végrehajtási szervezeten (a továbbiakban: bv. szervezet) belül minden büntetés-végrehajtási szervre (a továbbiakban: bv. szerv) és minden ott folyó szervezett munkavégzésre, szervezett tevékenységre.
+## 1. §[^1] E rendeletet kell alkalmazni a büntetés-végrehajtási szervezeten (a továbbiakban: bv. szervezet) belül működő minden büntetés-végrehajtási szervnél (a továbbiakban: bv. szerv) foglalkoztatott fogvatartott szervezett munkavégzésére és szervezett tevékenységére.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -20,8 +20,10 @@ c) a fogvatartott balesete (nem munkabaleset):
 
 d) szervezett tevékenység: szervezett munkavégzésnek nem minősülő, a kötelezettségek teljesítésével és a jogok gyakorlásával összefüggésben végzett tevékenység;
 
-e) dolgozó: a bv. szervek állományába tartozó munkavállaló;
+e)[^2]
 
-f)[^1]
+f)[^3]
 
-[^1]: A 2. § f) pontját a 230/2008. (IX. 12.) Korm. rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^1]: Az 1. § a 41/2011. (XII. 30.) KIM rendelet 20. §-ával megállapított szöveg.
+[^2]: A 2. § e) pontját a 41/2011. (XII. 30.) KIM rendelet 24. §-a hatályon kívül helyezte.
+[^3]: A 2. § f) pontját a 230/2008. (IX. 12.) Korm. rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
