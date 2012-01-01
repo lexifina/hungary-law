@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-122-00-00
 | 2010-08-21 | 2010. évi XC. törvény | 2009-122-00-00.3 |
 | 2011-01-01 | 2010. évi CLX. törvény | 2009-122-00-00.4 |
 | 2011-07-15 | 2011. évi XCVI. törvény | 2009-122-00-00.5 |
+| 2012-01-01 | 2011. évi CLXXIX. törvény | 2009-122-00-00.6 |
