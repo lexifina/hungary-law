@@ -4432,7 +4432,7 @@ annak igazolásául, hogy az alábbiakban megnevezett hajó megfelel a Tanácsna
 
 and confirming compliance of the vessel named hereafter with the provisions of Council Directive 97/70/EC setting up harmonised safety regime for fishing vessels of 24 metres in length and over
 
-a MAGYAR KÖZTÁRSASÁG kormányának felhatalmazása alapján
+MAGYARORSZÁG kormányának felhatalmazása alapján
 
 under the authorization of the Government of the REPUBLIC OF HUNGARY
 
@@ -4750,7 +4750,7 @@ annak igazolásául, hogy az alábbiakban megnevezett hajó megfelel a Tanácsna
 
 and confirming compliance of the vessel named hereafter with the provisions of Council Directive 97/70/EC setting up harmonised safety regime for fishing vessels of 24 metres in length and over
 
-a MAGYAR KÖZTÁRSASÁG kormányának felhatalmazása alapján
+MAGYARORSZÁG kormányának felhatalmazása alapján
 
 under the authorization of the Government of the REPUBLIC OF HUNGARY
 
@@ -5261,4 +5261,4 @@ Signature of official issuing the record and/or seal or stamp of the issuing aut
 [^88]: Az 1. számú melléklet VII. fejezet 23. szabálya (1) bekezdésének c) pontja a 43/2003. (VII. 2.) GKM rendelet 3. §-ával megállapított szöveg.
 [^89]: Az ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') mellékleteinek kihirdetéséről szóló 35/2001. (X. 12.) KöViM rendelet.
 [^90]: Az 1. számú melléklet IX. fejezet 3. szabály (3) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 25. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^91]: A 2. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 25. § (1) bekezdése, az 55/2009. (X. 14.) KHEM rendelet 4. §-a szerint módosított szöveg.
+[^91]: A 2. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 25. § (1) bekezdése, az 55/2009. (X. 14.) KHEM rendelet 4. §-a, a 91/2011. (XII. 30.) NFM rendelet 27. §-a szerint módosított szöveg.

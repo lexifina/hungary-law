@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-22-20-9
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-15 | 2002-22-20-93.4 | 22/2002. (IV. 27.) KöViM rendelet |
+| 2012-01-01 | 2002-22-20-93.5 | 48/2009. (IX. 30.) KHEM rendelet |
