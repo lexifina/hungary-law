@@ -12,7 +12,7 @@
 
 (6) A Kuratórium elnökét és egy további tagját a Médiatanács delegálja kilenc évre.
 
-(7) A Kuratórium akkor tekintendő megalakultnak, amikor tagjait megválasztják és az elnökét, valamint egy további tagját a Médiatanács delegálja. A Kuratórium tagja hivatalba lépése alkalmával az Országgyűlés elnöke előtt a 2. számú melléklet szerinti esküt tesz.
+(7) A Kuratórium akkor tekintendő megalakultnak, amikor tagjait megválasztják és az elnökét, valamint egy további tagját a Médiatanács delegálja. A Kuratórium Országgyűlés által választott tagja az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerint, elnöke és delegált tagja hivatalba lépése alkalmával az Országgyűlés elnöke előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
 (8) Nem akadálya a Kuratórium megalakulásának, ha akár a kormánypárti, akár az ellenzéki oldal nem állít jelöltet, vagy ha nem minden jelölt, illetve az (5) bekezdés alkalmazása során az új jelölt nem kapja meg a szükséges többséget. Ebben az esetben legalább három tag megválasztásával a Kuratórium megalakul.
 

@@ -8,11 +8,11 @@
 
 (4) A közönségarány meghatározásánál figyelembe kell venni, illetve a közönségarányhoz hozzá kell számítani
 
-a) a médiaszolgáltató által szolgáltatott valamennyi, a Magyar Köztársaság területén terjesztett lineáris médiaszolgáltatásnak,
+a) a médiaszolgáltató által szolgáltatott valamennyi, Magyarország területén terjesztett lineáris médiaszolgáltatásnak,
 
-b) az érintett médiaszolgáltató befolyásoló részesedése mellett működő médiaszolgáltatók Magyar Köztársaság területén terjesztett lineáris médiaszolgáltatásainak, és
+b) az érintett médiaszolgáltató befolyásoló részesedése mellett működő médiaszolgáltatók Magyarország területén terjesztett lineáris médiaszolgáltatásainak, és
 
-c) az érintett médiaszolgáltató bármely tulajdonosának, vagy tulajdonosa tulajdonosának befolyásoló részesedése mellett működő médiaszolgáltató Magyar Köztársaság területén terjesztett lineáris médiaszolgáltatásainak
+c) az érintett médiaszolgáltató bármely tulajdonosának, vagy tulajdonosa tulajdonosának befolyásoló részesedése mellett működő médiaszolgáltató Magyarország területén terjesztett lineáris médiaszolgáltatásainak
 
 közönségarányát.
 

@@ -1,6 +1,6 @@
 ## A médiaszolgáltatások továbbításának kötelezettsége
 
-73. § (1) A magyar, a nemzeti, illetve etnikai kisebbségi és az európai kultúra megőrzése, védelme, valamint továbbfejlesztése, a nemzeti, illetve etnikai kisebbségi nyelv ápolása, az állampolgárok tájékozódási igényeinek kielégítése és a demokratikus közéletben való részvételük elősegítése, továbbá a vélemények sokszínűségének megőrzése érdekében a (2)–(3) bekezdésben meghatározott műsorterjesztőt a 74–75. §-ban meghatározott kötelezettségek terhelik (a továbbiakban: továbbítási kötelezettség).
+73. § (1) A magyar, a nemzetiségi és az európai kultúra megőrzése, védelme, valamint továbbfejlesztése, a nemzetiségi nyelv ápolása, az állampolgárok tájékozódási igényeinek kielégítése és a demokratikus közéletben való részvételük elősegítése, továbbá a vélemények sokszínűségének megőrzése érdekében a (2)–(3) bekezdésben meghatározott műsorterjesztőt a 74–75. §-ban meghatározott kötelezettségek terhelik (a továbbiakban: továbbítási kötelezettség).
 
 (2) Továbbítási kötelezettség terheli a nyilvánosság számára rádiós és audiovizuális médiaszolgáltatás közvetítését végző átviteli rendszeren, hálózaton műsorterjesztési szolgáltatást nyújtó műsorterjesztőt.
 
@@ -16,8 +16,8 @@
 
 a) műsorterjesztői szolgáltatása előfizetőinek száma – műsorterjesztő platformtól, hálózattól függetlenül – meghaladja a százezer főt, vagy
 
-b) nyilvánosan elérhető, előfizetői díj fizetése nélkül hozzáférhető műsorterjesztési szolgáltatás esetén a műsorterjesztő vételkörzete a Magyar Köztársaság lakosságának több mint egyharmadára kiterjed,
+b) nyilvánosan elérhető, előfizetői díj fizetése nélkül hozzáférhető műsorterjesztési szolgáltatás esetén a műsorterjesztő vételkörzete Magyarország lakosságának több mint egyharmadára kiterjed,
 
-és a műsorterjesztő, vagy benne, illetve tulajdonosában befolyásoló részesedéssel rendelkező vállalkozás, valamint a műsorterjesztő, illetve tulajdonosa befolyásoló részesedése mellett működő más vállalkozás a Magyar Köztársaság területén végzett műsorterjesztésből vagy ahhoz kapcsolódó szolgáltatásból származó árbevétele – az analóg műsorszórás kivételével – meghaladja az évi egymilliárd forintot.
+és a műsorterjesztő, vagy benne, illetve tulajdonosában befolyásoló részesedéssel rendelkező vállalkozás, valamint a műsorterjesztő, illetve tulajdonosa befolyásoló részesedése mellett működő más vállalkozás Magyarország területén végzett műsorterjesztésből vagy ahhoz kapcsolódó szolgáltatásból származó árbevétele – az analóg műsorszórás kivételével – meghaladja az évi egymilliárd forintot.
 
 (8) Kétség esetén a meghatározó műsorterjesztő köteles bizonyítani, hogy esetében a (7) bekezdés szerinti feltételek nem állnak fenn.

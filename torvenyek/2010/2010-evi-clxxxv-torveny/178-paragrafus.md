@@ -1,4 +1,4 @@
-178. § (1) Amennyiben más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatása vagy sajtóterméke a Magyar Köztársaság területére irányul, illetve terjesztése vagy közzététele a Magyar Köztársaság területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés c) pont szerinti jogkövetkezményt alkalmazhatja, amennyiben a következő feltételek fennállnak:
+178. § (1) Amennyiben más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatása vagy sajtóterméke Magyarország területére irányul, illetve terjesztése vagy közzététele Magyarország területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés c) pont szerinti jogkövetkezményt alkalmazhatja, amennyiben a következő feltételek fennállnak:
 
 a) az intézkedés a közrend védelme, bűncselekmények megelőzése, felderítése és üldözése, a közösségek elleni gyűlöletkeltés tilalmának megsértése, vagy a kiskorúak, a közegészség, a közbiztonság, a nemzetbiztonság és a fogyasztók, befektetők védelme miatt szükséges,
 

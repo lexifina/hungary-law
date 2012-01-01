@@ -26,4 +26,6 @@ a) dohánytermék, cigaretta vagy más, olyan vállalkozástól származó term�
 
 b) e törvény, illetve más jogszabályok alapján nem reklámozható termék,
 
-c) olyan gyógyszerkészítmény, illetve gyógyászati termék, eljárás, amely kizárólag orvosi rendelvényre vehető igénybe.
+c) olyan gyógyszerkészítmény, illetve gyógyászati termék, eljárás, amely kizárólag orvosi rendelvényre vehető igénybe,
+
+d) az állami adóhatóság engedélye nélkül nyújtott szerencsejáték-szolgáltatás.

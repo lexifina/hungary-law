@@ -1,8 +1,8 @@
-2. § (1) A törvény hatálya a törvényben szabályozott esetekben kiterjed a Magyar Köztársaság területén nyújtott, vagy a Magyar Köztársaság területén nyújtott műsorterjesztési szolgáltatáshoz kapcsolódó kiegészítő médiaszolgáltatásra és szolgáltatójára.
+2. § (1) A törvény hatálya a törvényben szabályozott esetekben kiterjed a Magyarország területén nyújtott, vagy a Magyarország területén nyújtott műsorterjesztési szolgáltatáshoz kapcsolódó kiegészítő médiaszolgáltatásra és szolgáltatójára.
 
 (2) A törvény hatálya a törvényben szabályozott esetekben kiterjed
 
-a) a részben vagy egészben a Magyar Köztársaság területén telepített vagy a Magyar Köztársaság területére irányuló elektronikus hírközlő berendezéssel végzett műsorterjesztésre,
+a) a részben vagy egészben Magyarország területén telepített vagy Magyarország területére irányuló elektronikus hírközlő berendezéssel végzett műsorterjesztésre,
 
 b) a médiaszolgáltató a) pontban foglalt műsorterjesztéssel összefüggő műszaki tevékenységére,
 

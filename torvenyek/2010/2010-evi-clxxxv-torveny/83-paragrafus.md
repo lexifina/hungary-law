@@ -8,9 +8,9 @@ b) a nemzeti, a közösségi, az európai identitás, a kultúra és a magyar ny
 
 c) a nemzeti összetartozás és a társadalmi integráció elősegítése, illetve megerősítése, valamint a házasság intézményének és a család értékének tiszteletben tartása,
 
-d) az alkotmányos jogoknak, az alkotmányos rend alapértékeinek és a demokratikus társadalmi rend szabályainak megismertetése, támogatása,
+d) az alkotmányos jogoknak, a törvényes rend alapértékeinek és a demokratikus társadalmi rend szabályainak megismertetése, támogatása,
 
-e) nemzeti és etnikai kisebbségek, vallási közösségek valamint egyéb közösségek médiával szemben támasztott igényeinek kielégítése, kultúrájának bemutatása, a nemzeti és etnikai kisebbségek anyanyelvének ápolása,
+e) nemzetiségek, vallási közösségek valamint egyéb közösségek médiával szemben támasztott igényeinek kielégítése, kultúrájának bemutatása, a nemzetiségek anyanyelvének ápolása,
 
 f) az életkoruk, testi, szellemi vagy lelki állapotuk, társadalmi körülményeik következtében súlyosan hátrányos helyzetben lévő csoportoknak, valamint a fogyatékkal élőknek a médiaszolgáltatásokkal szemben támasztott sajátos igényeinek kielégítése,
 
@@ -24,7 +24,7 @@ j) az egészséges életmódot, a környezetvédelmet, a természet- és tájvé
 
 k) Magyarország, illetve a Kárpát-medence különböző területeinek társadalmi, gazdasági, kulturális életét megjelenítő műsorszámok bemutatása,
 
-l) Magyarország és a magyar kultúra, illetve a Magyarországon élő nemzeti és etnikai kisebbségek kultúrájának bemutatása Európa és a világ számára,
+l) Magyarország és a magyar kultúra, illetve a Magyarországon élő nemzetiségek kultúrájának bemutatása Európa és a világ számára,
 
 m) kiegyensúlyozott, pontos, alapos, tárgyilagos és felelős hírszolgáltatás, valamint tájékoztatás,
 

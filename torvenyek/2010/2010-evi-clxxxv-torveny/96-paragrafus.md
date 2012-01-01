@@ -8,7 +8,7 @@ c) a hírek, időszerű politikai műsorok sokoldalúságának, tárgyilagosság
 
 d) az anyanyelvi kultúra ápolásának szempontjait,
 
-e) a magyarországi nemzeti és etnikai kisebbségek kultúrája, élete bemutatása rendjének elveit,
+e) a magyarországi nemzetiségek kultúrája, élete bemutatása rendjének elveit,
 
 f) a kulturális, tudományos, világnézeti és vallási sokszínűség bemutatásának elveit,
 

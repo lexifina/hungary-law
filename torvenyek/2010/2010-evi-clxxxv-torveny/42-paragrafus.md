@@ -40,7 +40,7 @@ cj) a közszolgálati műsorszámok, illetve a helyi közélettel foglalkozó, a
 
 ck) a napi rendszeres híradásra szánt minimális műsoridőt,
 
-cl) a nemzeti és etnikai vagy más kisebbségek igényeinek szolgálatára tervezett napi minimális műsoridőt,
+cl) a nemzetiségek igényeinek szolgálatára tervezett napi minimális műsoridőt,
 
 cm) a tervezett kiegészítő médiaszolgáltatást,
 
@@ -50,7 +50,7 @@ co) vételkörzet-bővítés, illetve hálózatba kapcsolódás esetén ennek t�
 
 d) műholdas médiaszolgáltatás esetén a bejelentő által használni tervezett műholdkapacitás szolgáltatójának a csatorna bérbeadására vonatkozó, annak frekvenciáját, műszaki feltételeit és díját is rögzítő szándéknyilatkozatát,
 
-e) az arra vonatkozó adatokat, hogy a bejelentőnek, illetve a bejelentő vállalkozásban befolyásoló részesedéssel rendelkezőnek milyen nagyságú közvetlen vagy közvetett tulajdoni részesedése van bármely, a Magyar Köztársaság területén médiaszolgáltatást végző, vagy médiaszolgáltatási jogosultságot igénylő vállalkozásban,
+e) az arra vonatkozó adatokat, hogy a bejelentőnek, illetve a bejelentő vállalkozásban befolyásoló részesedéssel rendelkezőnek milyen nagyságú közvetlen vagy közvetett tulajdoni részesedése van bármely, Magyarország területén médiaszolgáltatást végző, vagy médiaszolgáltatási jogosultságot igénylő vállalkozásban,
 
 f) a médiaszolgáltatás megkezdésének tervezett időpontját.
 
@@ -60,7 +60,7 @@ f) a médiaszolgáltatás megkezdésének tervezett időpontját.
 
 (4) Ha a bejelentést követően a nyilvántartásba vételről a Hivatal negyvenöt napon belül nem döntött, a bejelentést nyilvántartásba vettnek kell tekinteni azzal, hogy a nyilvántartásba kerülés tényét és a médiaszolgáltatási díj mértékét ezt követően tizenöt napon belül a jogosulttal határozatban közölni kell.
 
-(5) A Hivatalnak a nyilvántartásba vételre irányuló eljárás során vizsgálnia kell azt, hogy a bejelentett médiaszolgáltatással kapcsolatban megállapítható-e e törvény alapján a Magyar Köztársaság joghatósága.
+(5) A Hivatalnak a nyilvántartásba vételre irányuló eljárás során vizsgálnia kell azt, hogy a bejelentett médiaszolgáltatással kapcsolatban megállapítható-e e törvény alapján Magyarország joghatósága.
 
 (6) A Hivatal megtagadja a lineáris médiaszolgáltatás nyilvántartásba vételét, ha
 

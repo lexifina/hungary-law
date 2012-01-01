@@ -4,9 +4,9 @@
 
 ## Általános rendelkezések
 
-41. § (1) Az e törvény hatálya alá tartozó, a Magyar Köztársaságban letelepedett médiaszolgáltató által nyújtott lineáris médiaszolgáltatás bejelentés és a Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) általi hatósági nyilvántartásba vétel után végezhető, kivéve azon állami tulajdonban lévő korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatásokat, amelyek a Médiatanács által kiírt és lebonyolított pályázaton való nyertessé nyilvánítás és szerződéskötés alapján végezhetők.
+41. § (1) Az e törvény hatálya alá tartozó, Magyarországon letelepedett médiaszolgáltató által nyújtott lineáris médiaszolgáltatás bejelentés és a Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) általi hatósági nyilvántartásba vétel után végezhető, kivéve azon állami tulajdonban lévő korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatásokat, amelyek a Médiatanács által kiírt és lebonyolított pályázaton való nyertessé nyilvánítás és szerződéskötés alapján végezhetők.
 
-(2) Az e törvény hatálya alá tartozó, a Magyar Köztársaság területén letelepedett médiaszolgáltató által nyújtott lekérhető médiaszolgáltatást, kiegészítő médiaszolgáltatást és a Magyar Köztársaság területén letelepedett kiadó által kiadott sajtóterméket – a szolgáltatás, illetve a tevékenység megkezdését követő hatvan napon belül – nyilvántartásba vétel céljából be kell jelenteni a Hivatalhoz. A nyilvántartásba vétel nem feltétele e szolgáltatás, illetve tevékenység megkezdésének.
+(2) Az e törvény hatálya alá tartozó, Magyarország területén letelepedett médiaszolgáltató által nyújtott lekérhető médiaszolgáltatást, kiegészítő médiaszolgáltatást és a Magyarország területén letelepedett kiadó által kiadott sajtóterméket – a szolgáltatás, illetve a tevékenység megkezdését követő hatvan napon belül – nyilvántartásba vétel céljából be kell jelenteni a Hivatalhoz. A nyilvántartásba vétel nem feltétele e szolgáltatás, illetve tevékenység megkezdésének.
 
 (3) A nyilvántartásba vételt kezdeményező bejelentő – e törvény keretei között – bármely természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet lehet.
 

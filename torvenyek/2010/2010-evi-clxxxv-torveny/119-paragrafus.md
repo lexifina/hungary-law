@@ -1,6 +1,6 @@
-## A Nemzeti Média- és Hírközlési Hatóság beszámolója
+## A Nemzeti Média- és Hírközlési Hatóság elnökének beszámolója
 
-119. § (1) A Hatóság minden év május 31-ig beszámolót terjeszt az Országgyűlés elé az előző évi tevékenységéről. A beszámolóban:
+119. § (1) A Hatóság elnöke minden év május 31-ig beszámolót terjeszt az Országgyűlés elé a Hatóság előző évi tevékenységéről. A beszámolóban:
 
 a) értékeli az elektronikus hírközlési piac működését és fejlődését,
 

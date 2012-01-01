@@ -14,6 +14,6 @@ a) az államtól és a gazdasági szereplőktől függetlenül működik, a köz
 
 b) rendszere biztosítja az elszámoltathatóságot és a társadalmi felügyelet megvalósulását,
 
-c) működésének biztosítása elsősorban a Magyar Köztársaságban élők közös áldozatvállalásával, állami finanszírozás mellett történik,
+c) működésének biztosítása elsősorban a Magyarországon élők közös áldozatvállalásával, állami finanszírozás mellett történik,
 
 d) tevékenysége nem irányulhat elsősorban nyereségszerzésre.

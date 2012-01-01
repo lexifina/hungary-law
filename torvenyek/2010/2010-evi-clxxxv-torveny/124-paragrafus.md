@@ -2,7 +2,7 @@
 
 124. § (1) A Médiatanács elnökét és négy tagját az Országgyűlés – a jelenlévő országgyűlési képviselők kétharmadának szavazatával – kilenc évre választja egyidejű, listás szavazással.
 
-(2) A Médiatanács elnöke és tagja olyan személy lehet, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
+(2) A Médiatanács elnöke és tagja olyan személy lehet, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
 
 (3) A Médiatanács tagjaira
 

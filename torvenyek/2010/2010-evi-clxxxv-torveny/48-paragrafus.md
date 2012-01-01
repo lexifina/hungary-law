@@ -12,7 +12,7 @@
 
 (4) A Médiatanács meghatározott időszakra, de legfeljebb három évre közfeladat ellátása érdekében pályázati eljárás nélkül is feljogosíthat valamely vállalkozást médiaszolgáltatás végzésére. E médiaszolgáltatási jogosultságra a Médiatanács hatósági határozatában a jogosultság iránti kérelmet elsőként benyújtó médiaszolgáltatót jogosítja fel, amennyiben a médiaszolgáltató a közfeladat ellátásához szükséges feltételeknek megfelel. E bekezdés alkalmazásában közfeladatnak az alábbiak minősülnek:
 
-a) az Alkotmánynak megfelelően kihirdetett szükségállapot, az ország jelentős területét érintő elemi csapás, vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos médiaszolgáltatás, vagy
+a) a szükségállapot, az ország jelentős területét érintő elemi csapás, vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos médiaszolgáltatás, vagy
 
 b) a valamely közösség speciális oktatási, kulturális, tájékoztatási, vagy az adott közösséget érintő meghatározott eseményhez kapcsolódó igényeinek szolgálata.
 

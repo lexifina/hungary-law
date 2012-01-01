@@ -38,7 +38,7 @@ b) a 83. §-ban foglalt közszolgálati célokat szolgáló műsorszámok meghat
 
 c) a helyi közélettel foglalkozó, a helyi mindennapi életet segítő műsorszámok arányát,
 
-d) a nemzeti és etnikai kisebbségi, illetőleg más kisebbségi igények meghatározott mértékű szolgálatát,
+d) nemzetiségi, illetőleg más kisebbségi igények meghatározott mértékű szolgálatát,
 
 e) a hírszolgáltatás kötelezettségét,
 

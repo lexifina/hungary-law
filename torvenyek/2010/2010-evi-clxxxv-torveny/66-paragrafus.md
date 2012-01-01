@@ -4,7 +4,7 @@
 
 66. § (1) A lineáris közösségi médiaszolgáltatás
 
-a) egy meghatározott társadalmi, nemzeti és etnikai kisebbség, kulturális vagy vallási közösség, csoport, vagy
+a) egy meghatározott társadalmi, nemzetiségi, kulturális vagy vallási közösség, csoport, vagy
 
 b) egy adott településen, régióban vagy vételkörzetben élők tájékoztatásra, kulturális műsorszámok elérésére irányuló különleges igényeit szolgálja ki, vagy
 

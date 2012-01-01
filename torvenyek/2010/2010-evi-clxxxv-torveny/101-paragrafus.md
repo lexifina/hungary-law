@@ -12,9 +12,9 @@ d) rendszeres és tényszerű tájékoztatást nyújt az Országgyűlésben kép
 
 e) rendszeres és tényszerű tájékoztatást nyújt külföldre a legfontosabb magyarországi eseményekről és az ország életének főbb folyamatairól,
 
-f) rendszeresen és tényszerűen tájékoztat a Magyar Köztársaság határain kívül élő magyarság életéről, illetve számára hírszolgáltatást nyújt,
+f) rendszeresen és tényszerűen tájékoztat a Magyarország határain kívül élő magyarság életéről, illetve számára hírszolgáltatást nyújt,
 
-g) rendszeres és tényszerű tájékoztatást nyújt a hazai nemzeti és etnikai kisebbségek életéről,
+g) rendszeres és tényszerű tájékoztatást nyújt a hazai nemzetiségek életéről,
 
 h) választási időszakban külön törvényben meghatározottak szerint gondoskodik a tájékoztatásról,
 

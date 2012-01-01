@@ -16,7 +16,7 @@ ae) vezető tisztségviselőjének, képviselőjének a nevét és elérhetősé
 
 b) a pályázó hatályos létesítő okiratát,
 
-c) a pályázó nyilatkozatát arról, hogy neki vagy a benne tulajdoni részesedéssel rendelkező más vállalkozásnak milyen nagyságú közvetlen vagy közvetett tulajdoni részesedése van a Magyar Köztársaság területén médiaszolgáltatást végző, illetőleg magyarországi médiaszolgáltatási jogosultságot igénylő vállalkozásban,
+c) a pályázó nyilatkozatát arról, hogy neki vagy a benne tulajdoni részesedéssel rendelkező más vállalkozásnak milyen nagyságú közvetlen vagy közvetett tulajdoni részesedése van a Magyarország területén médiaszolgáltatást végző, vagy magyarországi médiaszolgáltatási jogosultságot igénylő vállalkozásban,
 
 d) a tervezett médiaszolgáltatás alapvető adatait:
 
@@ -42,7 +42,7 @@ dk) a 83. §-ban foglalt közszolgálati célokat szolgáló műsorszámok, ille
 
 dl) a napi rendszeres híradásra szánt minimális műsoridőt,
 
-dm) a nemzeti és etnikai vagy más kisebbségek igényeinek szolgálatára szánt napi minimális műsoridőt,
+dm) a nemzetiségi vagy más kisebbségek igényeinek szolgálatára szánt napi minimális műsoridőt,
 
 e) közösségi médiaszolgáltatás kivételével a médiaszolgáltatási díj mértékére vonatkozó ajánlatot,
 

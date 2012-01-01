@@ -4,7 +4,7 @@
 
 (2) Az Alap eszközei kizárólag a törvényben meghatározott célokra használhatók fel.
 
-(3) Az Alap pénzügyi forrásai: a médiaszolgáltatási díj, a pályázati díj, a műsorszolgáltatási szerződésszegési kötbér és kártérítés, a bírság, a közszolgálati hozzájárulás, a frekvencia díjakból a Hatóság által a 134. § (5) bekezdés alapján az Alaphoz utalt összeg, a lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltatók által a (8) bekezdés alapján befizetett támogatás, a központi költségvetési céltámogatások, a vagyonhasznosításból, illetve a vállalkozási tevékenységből származó bevételek, a kamatbevételek, továbbá az önkéntes befizetések.
+(3) Az Alap bevételei különösen: a médiaszolgáltatási díj, a pályázati díj, a műsorszolgáltatási szerződésszegési kötbér és kártérítés, a bírság, a közszolgálati hozzájárulás, a frekvencia díjakból a Hatóság által a 134. § (5) bekezdés alapján az Alaphoz utalt összeg, a lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltatók által a (8) bekezdés alapján befizetett támogatás, a központi költségvetési céltámogatások,a vagyonhasznosításból, illetve a vállalkozási tevékenységből származó bevételek, a kamatbevételek, továbbá az önkéntes befizetések.
 
 (4) A Magyar Állam évente közszolgálati hozzájárulást fizet a lineáris audiovizuális médiaszolgáltatások vételére alkalmas készüléket használó háztartások számát alapul véve. A közszolgálati hozzájárulás mértékét e törvény 4. számú melléklete határozza meg. Az Állam a közszolgálati hozzájárulást tizenkét egyenlő részletben előre, minden hónap harmadik napjáig fizeti meg az Alap pénzforgalmi számlájára. Az Alap a Médiatanács hozzájárulásával jogosult a közszolgálati hozzájárulásból származó bevételeinek engedményezésére.
 
@@ -12,7 +12,7 @@
 
 (6) Az Alap jogi személy, gazdálkodó szervezet, kezelője a Médiatanács. Az Alap a Műsorszolgáltatási Alap, valamint a Műsorszolgáltatás Támogató és Vagyonkezelő Alap jogutódja.
 
-(7) Az Alap köteles a Kincstárban pénzforgalmi számlát vezetni.
+(7) Az Alap köteles a Kincstárban fizetési számlát vezetni, a Kincstárban vezetett fizetési számlája mellett szabadon vezethet hitelintézetnél is fizetési számlát.
 
 (8) A lineáris audiovizuális médiaszolgáltatást nyújtó, jelentős befolyásoló erejű médiaszolgáltató éves reklámbevételének két és fél százalékát új, magyar filmalkotás támogatására köteles fordítani. E kötelezettség az Alap részére befizetett pénzösszeggel, vagy az Alap és a médiaszolgáltató közötti megállapodásban meghatározott új filmalkotás pénzbeli támogatásával teljesítendő. A médiaszolgáltató az így befizetett, illetve támogatásra fordított pénzösszeget társasági adóalapjából levonhatja.
 

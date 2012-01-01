@@ -20,11 +20,11 @@ g) Magyar Rektori Konferencia
 
 h) Magyar Kereskedelmi és Iparkamara
 
-i) a Magyar Köztársaság települési önkormányzatainak szövetségei, illetve szervezetei
+i) Magyarország települési önkormányzatainak szövetségei, illetve szervezetei
 
-j) a magyarországi nemzeti és etnikai kisebbségek országos önkormányzatai
+j) a magyarországi nemzetiségek országos önkormányzatai
 
-k) a Magyar Köztársasággal szomszédos államokban bejegyzett, száz főnél nagyobb taglétszámú magyar kulturális szervezetek
+k) Magyarországgal szomszédos államokban bejegyzett, száz főnél nagyobb taglétszámú magyar kulturális szervezetek
 
 l) a családok érdekeit védő és képviselő, Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó érdekvédelmi szervezetek, amelyek alapszabályából a működési kör országos jellege megállapítható
 

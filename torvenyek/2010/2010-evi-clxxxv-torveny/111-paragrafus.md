@@ -50,7 +50,7 @@ o) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a KFGH i
 
 (3) Az Elnököt a miniszterelnök nevezi ki kilenc évre.
 
-(4) Elnöknek olyan személy nevezhető ki, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
+(4) Elnöknek olyan személy nevezhető ki, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
 
 (5) Az Elnök a (3) bekezdésben meghatározott időtartam lejárta után újból kinevezhető.
 

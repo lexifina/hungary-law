@@ -88,7 +88,7 @@ f) zenemű (nyomtatott zenemű, zenemű elektronikus formában, letölthető zen
 
 27. Közérdekű közlemény: ellenszolgáltatás nélkül közzétételre kerülő, állami vagy önkormányzati feladatot ellátó szervezettől, illetve személytől származó tájékoztatás, amely valamely konkrét közérdekű információt közvetít a nézők vagy hallgatók figyelmének felkeltése céljából, és nem minősül politikai reklámnak.
 
-28. Közönségarány: egy adott időszakban a vizsgált lineáris audiovizuális médiaszolgáltatás műsorszámainak nézésére, illetve lineáris rádiós médiaszolgáltatás műsorszámainak hallgatására fordított összes időtartam százalékosan kifejezett aránya valamennyi lineáris audiovizuális médiaszolgáltatás nézésére, illetve valamennyi lineáris rádiós médiaszolgáltatás hallgatására fordított összes időtartamhoz viszonyítva. A közönségarány meghatározásánál a lineáris audiovizuális, és a lineáris rádiós médiaszolgáltatás piacát a Magyar Köztársaság területén, külön-külön kell vizsgálni.
+28. Közönségarány: egy adott időszakban a vizsgált lineáris audiovizuális médiaszolgáltatás műsorszámainak nézésére, illetve lineáris rádiós médiaszolgáltatás műsorszámainak hallgatására fordított összes időtartam százalékosan kifejezett aránya valamennyi lineáris audiovizuális médiaszolgáltatás nézésére, illetve valamennyi lineáris rádiós médiaszolgáltatás hallgatására fordított összes időtartamhoz viszonyítva. A közönségarány meghatározásánál a lineáris audiovizuális, és a lineáris rádiós médiaszolgáltatás piacát Magyarország területén, külön-külön kell vizsgálni.
 
 29. Közvetett tulajdon: a vállalkozásban tulajdoni részesedéssel, illetve szavazatokkal rendelkező másik vállalkozás (a továbbiakban: köztes vállalkozás) tulajdonosait megillető tulajdoni, illetve szavazati jog. Ha a tulajdoni arány és a szavazati arány eltér, a nagyobb arányt kell figyelembe venni. A közvetett tulajdon arányának megállapításához a köztes vállalkozásban fennálló tulajdoni vagy szavazati hányadot meg kell szorozni a köztes vállalkozásnak az eredeti vállalkozásban fennálló tulajdoni vagy szavazati hányadával. Ha a köztes vállalkozásban a vállalkozásnak többségi tulajdona van, ezt egy egészként kell figyelembe venni. Természetes személyek esetében a közeli hozzátartozók által birtokolt, illetve gyakorolt tulajdoni vagy szavazati hányadokat egybe kell számítani.
 
@@ -120,13 +120,13 @@ a) amely eredetileg teljes egészében magyar nyelven készült,
 
 b) amely eredetileg több nyelven készült, de időtartamát tekintve eredeti magyar nyelvű része hosszabb, mint bármelyik másik nyelven készült része,
 
-c) amely eredetileg valamely, a Magyar Köztársaság által elismert nemzeti vagy etnikai kisebbség nyelvén készült, ha tárgya az adott kisebbség magyarországi életével, kultúrájával van összefüggésben,
+c) amely eredetileg valamely, Magyarország által elismert nemzetiség nyelvén készült, ha tárgya az adott nemzetiség magyarországi életével, kultúrájával van összefüggésben,
 
 d) amely alapjául magyar irodalmi mű, zenemű szolgált,
 
-e) amely olyan zenei műsorszám, amely magyar nyelven kerül előadásra, vagy amely a Magyar Köztársaság által elismert valamely nemzeti vagy etnikai kisebbség nyelvén kerül előadásra, ha az adott kisebbség Magyarországhoz kapcsolódó kultúrájával van összefüggésben,
+e) amely olyan zenei műsorszám, amely magyar nyelven kerül előadásra, vagy amely Magyarország által elismert valamely nemzetiség nyelvén kerül előadásra, ha az adott nemzetiség Magyarországhoz kapcsolódó kultúrájával van összefüggésben,
 
-f) amely olyan instrumentális zenei műsorszám, amely – elsősorban szerzője révén – a magyar vagy a Magyar Köztársaság által elismert valamely nemzeti vagy etnikai kisebbség Magyarországhoz kapcsolódó kultúrájának részét képezi,
+f) amely olyan instrumentális zenei műsorszám, amely – elsősorban szerzője révén – a magyar vagy Magyarország által elismert valamely nemzetiség Magyarországhoz kapcsolódó kultúrájának részét képezi,
 
 g) amely olyan zenei mű, amelynek legalább egy szerzője magyar,
 
@@ -162,7 +162,7 @@ i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelméb
 
 51. Műsorterjesztő: a műsorterjesztési szolgáltatást nyújtó, ideértve a digitális műsorszóró hálózat üzemeltetőjét is, ha a műsorterjesztést saját maga végzi. Amennyiben az átviteli hálózatot nem a műsorterjesztő üzemelteti, az előfizetőnek, vagy felhasználónak nyújtott szolgáltatás feltételeit meghatározó, illetve az előfizetővel szerződést kötő szolgáltató minősül műsorterjesztőnek.
 
-52. Országos médiaszolgáltatás: az a médiaszolgáltatás, amelynek vételkörzetében a Magyar Köztársaság lakosságának legalább ötven százaléka él.
+52. Országos médiaszolgáltatás: az a médiaszolgáltatás, amelynek vételkörzetében Magyarország lakosságának legalább ötven százaléka él.
 
 53. Osztott képernyős reklám: audiovizuális médiaszolgáltatásban, kereskedelmi közleménynek nem minősülő műsorszám közzététele alatt közzétett, a képernyő meghatározott részét betöltő reklám.
 
