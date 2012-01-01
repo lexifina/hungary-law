@@ -1,1 +1,1 @@
-3. § A nemzetközi szerződésekkel kapcsolatos eljárások során nemzetközi síkon a Magyar Köztársaságot – az Alkotmány, valamint e törvény rendelkezései szerint – a köztársasági elnök vagy a Kormány képviseli.
+3. §

@@ -1,0 +1,3 @@
+12/A. § (1) Ha a kormányrendeletben kihirdetett nemzetközi szerződést módosító nemzetközi szerződés az Országgyűlés feladat- és hatáskörébe tartozik, a nemzetközi szerződés módosításának törvényben történő kihirdetése mellett a nemzetközi szerződést is törvényben újra ki kell hirdetni, és rendelkezni kell a kihirdető kormányrendelet hatályon kívül helyezéséről.
+
+(2) Ha a nemzetközi szerződés módosítását kihirdető jogszabály rendelkezik a nemzetközi szerződés módosításokkal egységes szerkezetben történő közzétételéről, a miniszter által – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – elkészített egységes szerkezetű szöveget közzé kell tenni a Nemzeti Jogszabálytárban.

@@ -1,3 +1,3 @@
-## A nemzetközi szerződés módosítása, megszüntetése, felmondása és az abból való kilépés
+## A nemzetközi szerződés módosítása, felfüggesztése, megszüntetése, felmondása, az abból való kilépés, valamint a nemzetközi szerződés által létrehozott szerv döntése
 
-12. § A 4–10. § rendelkezéseit a nemzetközi szerződés módosítására, megszüntetésére, felmondására vagy az abból való kilépésre megfelelően kell alkalmazni.
+12. § A 4–10. § rendelkezéseit a nemzetközi szerződés módosítására, felfüggesztésére, megszüntetésére, felmondására, az abból való kilépésre, valamint az Alaptörvény E) cikk (2) bekezdése szerinti nemzetközi szerződésben foglaltak sérelme nélkül a nemzetközi szerződés által létrehozott szerv – Magyarország számára nemzetközi jogi jogokat és kötelezettségeket létesítő, módosító vagy megszüntető, a szerződés felhatalmazása alapján hozott – döntéseire megfelelően kell alkalmazni.
