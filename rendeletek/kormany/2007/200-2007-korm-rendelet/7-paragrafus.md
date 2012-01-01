@@ -1,6 +1,6 @@
 ## Fejlett mérési módszer
 
-7. § (1) A hitelintézet részére a Felügyelet akkor engedélyezi a fejlett mérési módszer alkalmazását, ha a hitelintézet megfelel a Hpt. 13/C. § szerinti irányítási és kockázatkezelési követelményeknek, az e §-ban és a 8–10. §-ban meghatározott feltételeknek.
+7. § (1)[^10] A hitelintézet részére a Felügyelet akkor engedélyezi a fejlett mérési módszer alkalmazását, ha a hitelintézet megfelel a Hpt. 13/D. § szerinti irányítási és kockázatkezelési követelményeknek, az e §-ban és a 8–10. §-ban meghatározott feltételeknek.
 
 (2) A hitelintézetnek a működési kockázat értékelésére és mérésére szolgáló rendszerének teljes mértékben integráltnak kell lennie a napi kockázatkezelési folyamatba. A működési kockázat értékeléséért és méréséért, valamint ezen kockázat kezeléséért felelős részlegnek funkcionálisan függetlennek kell lennie a hitelintézet többi részlegétől.
 
@@ -29,3 +29,5 @@ b) a kockázatkezelési rendszer átlátható és ellenőrizhető, valamint adat
 (10) A hitelintézet számára a Felügyelet engedélyezi a veszteség adatok közötti korrelációs feltételezések alkalmazását, ha a hitelintézetnek a korreláció mérésére alkalmazott rendszerei megbízhatóak – azaz mennyiségi és minőségi módszerekkel alá vannak támasztva –, a kockázatkezelési rendszerben azokat integráltan alkalmazzák, figyelembe veszik a korrelációs becslés ismert hiányosságaiból fakadó potenciális hibákat, illetve a szokásos piaci folyamatoktól eltérő (stressz) helyzetek jellemzőit.
 
 (11) A hitelintézet működési kockázatra vonatkozó kockázatmérési rendszerének következetesnek kell lennie, valamint biztosítania kell a tőkemegfelelési számításokhoz kapcsolódó minőségi értékelés és a kockázatmérséklő módszerek többszörös figyelembevételének elkerülését.
+
+[^10]: A 7. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 14. §-a szerint módosított szöveg.
