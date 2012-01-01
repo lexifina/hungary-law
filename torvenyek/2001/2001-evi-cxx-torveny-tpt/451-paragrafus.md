@@ -32,7 +32,7 @@ a)
 
 b)
 
-c) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmát, módját és gyakoriságát;
+c)
 
 d) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
 
@@ -42,7 +42,7 @@ f) a tőkemegfelelési és tőkeszükségleti követelményeknek konszolidált m
 
 g)
 
-h) a befektetési alap befektetési szabályaira vonatkozó előírásokat;
+h)
 
 i)
 
@@ -74,4 +74,10 @@ u)
 
 a) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
 
-b) az ISIN azonosítóra vonatkozó részletes szabályokat.
+b) az ISIN azonosítóra vonatkozó részletes szabályokat;
+
+c) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmára, módjára és gyakoriságára vonatkozó részletszabályokat;
+
+d) a 388. § (1) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletszabályokat;
+
+e) az információterjesztésre, az információtárolási rendszerre, továbbá a Felügyelet felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat.

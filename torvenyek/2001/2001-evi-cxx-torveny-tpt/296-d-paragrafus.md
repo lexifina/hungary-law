@@ -16,11 +16,13 @@ g) könyvvizsgálója nevét és engedélyének számát;
 
 h) a könyvvizsgáló igazolását arra vonatkozóan, hogy a kérelmező informatikai rendszere, számviteli politikája és számviteli rendje mindenkori pénzügyi helyzetének megállapítására alkalmas;
 
-i) a vezető állású személy esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt és a kockázati tőkealap-kezelési tevékenységet vezető személy felsőfokú végzettségét igazoló dokumentumot;
+i) a kockázati tőkealap-kezelési tevékenységet vezető személy felsőfokú végzettségét igazoló dokumentumot;
 
 j) az üzleti tervét; és
 
 k) az e törvényben foglalt előírásoknak való megfelelést tanúsító egyéb okiratokat.
+
+(1a) A vezető állású személy és a kockázati tőkealap-kezelési tevékenységet vezető személy a kockázati tőkealap-kezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a kockázati tőkealap-kezelő felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 
 (2) A Felügyelet a tevékenységi engedély megadását csak akkor tagadhatja meg, ha a kérelmező
 

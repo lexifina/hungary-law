@@ -1,3 +1,0 @@
-285/B. § (1) Az európai befektetési alap – a (2) bekezdésben foglalt eltéréssel – saját tőkéjének legfeljebb húsz százalékát fektetheti be egy kibocsátó által kibocsátott részvénybe, illetőleg hitelviszonyt megtestesítő értékpapírba, ha az alapot indexkövető alapként hozták létre a 279. §-ban meghatározott feltételekkel.
-
-(2) Amennyiben az indexkövető európai befektetési alap olyan index leképezésére jött létre, amelyben egy kibocsátó által kibocsátott részvény, illetőleg hitelviszonyt megtestesítő értékpapír súlya meghaladja a húsz százalékot, az alapkezelő döntése alapján egy értékpapír esetén az (1) bekezdésben meghatározott korlát harmincöt százalékra emelhető.

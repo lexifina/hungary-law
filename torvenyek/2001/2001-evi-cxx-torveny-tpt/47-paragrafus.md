@@ -1,6 +1,6 @@
 ## A forgalomba hozatal módja és általános szabályai
 
-47. § (1) A feltételhez kötött forgalomba hozatal semmis. A forgalomba hozatal során a befektető értékpapír megszerzésére vonatkozó nyilatkozata csak írásban, nyomtatott vagy minősített elektronikus aláírással ellátott elektronikus okirat formájában, illetőleg a Felügyelet által engedélyezett kereskedési rendszeren keresztül érvényes. A nyilatkozatban fel kell tüntetni azt, hogy a befektető a nyilatkozatát a tájékoztatóban (alaptájékoztatóban, ismertetőben) foglaltak ismeretében tette meg.
+47. § (1) A feltételhez kötött forgalomba hozatal semmis. A forgalomba hozatal során a befektető értékpapír megszerzésére vonatkozó nyilatkozatában fel kell tüntetni azt, hogy a befektető a nyilatkozatát a tájékoztatóban (alaptájékoztatóban, ismertetőben) foglaltak ismeretében tette meg.
 
 (2) Dematerializált értékpapír forgalomba hozatala esetén nyilatkozat csak olyan személytől fogadható el, aki értékpapír számlavezetésre szerződést kötött és az értékpapír megszerzésére vonatkozó nyilatkozatában az értékpapír-számlavezető azonosító adatait és értékpapírszámlája számát feltüntette. Valótlan adatok feltüntetése esetén az értékpapír megszerzésére vonatkozó nyilatkozat semmis.
 

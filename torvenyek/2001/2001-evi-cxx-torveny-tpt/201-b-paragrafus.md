@@ -14,9 +14,9 @@ ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, a
 
 (2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell a bejelentésre kötelezett személy nevét, a bejelentési kötelezettség indokát, az érintett kibocsátó nevét, az ügyletben szereplő pénzügyi eszköz megnevezését, mennyiségét, árfolyamát, az ügylet jellegét (például vétel vagy eladás), az ügyletkötés időpontját és helyét, illetve az ügyletet lebonyolító befektetési vállalkozás, hitelintézet megnevezését.
 
-(3) A 201. § (2) bekezdésének a) pontja szerinti bennfentes személy a Felügyeletnek tett bejelentésben foglalt információkat a bejelentés megtételét követően köteles haladéktalanul az 56. § szerint közzétenni.
+(3) A 201. § (2) bekezdésének a) pontja szerinti bennfentes személy haladéktalanul, de legkésőbb két naptári napon belül tájékoztatja a kibocsátót az (1) bekezdés a) pontja szerinti ügyletkötésről, amennyiben az a (4) bekezdésben meghatározott ügyletkötési összértéket meghaladja.
 
-(4) A 201. § (2) bekezdés a) pontjában említett bennfentes személy nem köteles az ügyletkötést nyilvánosságra hozni, ha az adott naptári évben az ügyletkötések összértéke nem haladja meg az egymillió forintot. Az ügyletkötések összértékének számításánál figyelembe kell venni:
+(4) A 201. § (2) bekezdés a) pontjában említett bennfentes személy nem köteles az ügyletkötésről a kibocsátót tájékoztatni, ha az adott naptári évben az ügyletkötések összértéke nem haladja meg az egymillió forintot. Az ügyletkötések összértékének számításánál figyelembe kell venni:
 
 a) a bennfentes személy, és
 

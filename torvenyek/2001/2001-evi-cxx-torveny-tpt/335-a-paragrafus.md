@@ -16,7 +16,7 @@ f) hitelintézetnek, ideértve a külföldi hitelintézetet;
 
 g) árutőzsdei szolgáltatónak, ideértve a külföldi árutőzsdei szolgáltatót;
 
-h) befektetési alapkezelőnek, ideértve a külföldi befektetési alapkezelőt, kizárólag az általa kezelt befektetési jegy vonatkozásában;
+h) befektetési alapkezelőnek, kizárólag az általa kezelt befektetési jegy vonatkozásában;
 
 i) törvény által meghatározott szervezett piac szereplőjének;
 

@@ -8,11 +8,7 @@ c) lakóhelye (tartózkodási helye) vagy székhelye szerinti ország hatósága
 
 (2) Az (1) bekezdés b) pontjában meghatározott esetben a személyre szóló bírságot csak akkor kell kizáró okként figyelembe venni, ha erre az elbírálást megelőző öt év alatt legalább három esetben került sor.
 
-(3) Ha az (1) bekezdésben meghatározott rendelkezésekkel érintett személy ellen a Btk. XV. Fejezetének VII. és VIII. Címében, illetve a XVII. és a XVIII. Fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, illetőleg külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárás befejezéséig
-
-a) a büntetőeljárás alá vont személy befektetési alapkezelőnél, szabályozott piacnál, tőzsdénél, elszámolóházi tevékenységet végző szervezetnél a 11. számú melléklet 1–4. pontjában meghatározott tisztségéhez, munkaköréhez tartozó feladatokat nem láthat el, tőzsdénél, illetőleg elszámolóházi tevékenységet végző szervezetnél vezető állású személy nem lehet;
-
-b) a Felügyelet a 307. § (2) bekezdésében, illetőleg a 343. § (2) bekezdésében meghatározott engedélyt – az egyéb feltételek megléte esetén – a tulajdonos szavazati jogának felfüggesztésével adja meg.
+(3)
 
 (4) Az (1)–(3) bekezdésben meghatározott kizáró okokat a kérelmező külföldi tevékenysége tekintetében is vizsgálni kell.
 

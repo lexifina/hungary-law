@@ -8,19 +8,15 @@
 
 1. § Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed
 
-a) a sorozatban kibocsátott értékpapír Magyar Köztársaság területén, valamint magyar kibocsátó által külföldön történő forgalomba hozatalára, a sorozatban kibocsátott értékpapír Magyar Köztársaság területén működő tőzsdére történő bevezetésére,
+a) a sorozatban kibocsátott értékpapír Magyarország területén történő forgalomba hozatalára, valamint magyar kibocsátó által – ide nem értve a magyar államot – az Európai Unió területén történő nyilvános forgalomba hozatalára, a sorozatban kibocsátott értékpapír Magyarország területén működő tőzsdére történő bevezetésére,
 
-b) a Magyar Köztársaság területén székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaságban történő befolyásszerzésre,
+b) a Magyarország területén székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaságban történő befolyásszerzésre,
 
-c) a Magyar Köztársaság területén székhellyel rendelkező befektetési alapkezelő külföldön alapított fióktelepe által végzett befektetési alapkezelési tevékenységére,
+c)–e)
 
-d) a Magyar Köztársaság területén végzett befektetési alapkezelési tevékenységre,
+f) a Magyarország területén székhellyel rendelkező tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységére,
 
-e) a Magyar Köztársaság területén székhellyel rendelkező befektetési alapkezelő határon át történő szolgáltatás nyújtására,
-
-f) a Magyar Köztársaság területén székhellyel rendelkező tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységére,
-
-g) a Magyar Köztársaság területén székhellyel rendelkező szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységet végző szervezet által végzett határon átnyúló szolgáltatásra,
+g) a Magyarország területén székhellyel rendelkező szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységet végző szervezet által végzett határon átnyúló szolgáltatásra,
 
 h) a Befektető-védelmi Alapra, illetőleg az Alap által nyújtott biztosításra,
 
@@ -32,12 +28,12 @@ k) befektetési vállalkozásnak nem minősülő, az összevont alapú felügyel
 
 l) befektetési vállalkozásnak nem minősülő, a kiegészítő felügyelet hatálya alá tartozó befektetési vállalkozással, illetőleg vegyes pénzügyi holding társasággal szoros kapcsolatban álló vállalkozásra, vegyes pénzügyi holding társaságra,
 
-m) a Magyar Köztársaság területén lakóhellyel vagy székhellyel rendelkező személy vagy szervezet által készített, illetve terjesztett befektetési ajánlásra,
+m) a Magyarország területén lakóhellyel vagy székhellyel rendelkező személy vagy szervezet által készített, illetve terjesztett befektetési ajánlásra,
 
-n) a Magyar Köztársaság területén végzett, e törvényben meghatározott kockázati tőkealap-kezelési tevékenységre, valamint a Magyar Köztársaság területén székhellyel rendelkező, e törvény szerinti kockázati tőkealapok, illetve kockázati tőkealap-kezelők alapítására, létrehozatalára, működésére és felügyeletére,
+n) a Magyarország területén végzett, e törvényben meghatározott kockázati tőkealap-kezelési tevékenységre, valamint a Magyarország területén székhellyel rendelkező, e törvény szerinti kockázati tőkealapok, illetve kockázati tőkealap-kezelők alapítására, létrehozatalára, működésére és felügyeletére,
 
-o) a Magyar Köztársaság területén székhellyel rendelkező kockázati tőkealap-kezelő külföldön alapított fióktelepe által végzett kockázati tőkealap-kezelési tevékenységre,
+o) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő külföldön alapított fióktelepe által végzett kockázati tőkealap-kezelési tevékenységre,
 
-p) a Magyar Köztársaság területén székhellyel rendelkező kockázati tőkealap-kezelő határon át történő szolgáltatás nyújtására,
+p) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő határon át történő szolgáltatás nyújtására,
 
-q) a Magyar Köztársaság területén a befektetési vállalkozás, a befektetési alapkezelő, a befektetési alap, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott értékpapír-kölcsönzésre.
+q) Magyarország területén a befektetési vállalkozás, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott értékpapír-kölcsönzésre.

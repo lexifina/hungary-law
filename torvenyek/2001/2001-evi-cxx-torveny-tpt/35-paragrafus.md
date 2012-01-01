@@ -6,6 +6,6 @@
 
 (4) A (3) bekezdés szerinti reklámban meg kell jelölni, hogy az értékpapír nyilvános forgalomba hozatalával kapcsolatosan tájékoztató közzétételére került vagy kerül sor, és hogy a tájékoztató hol hozzáférhető.
 
-(5) A forgalomba hozatali eljárás lezárásáig, illetőleg a szabályozott piacon a kereskedés megkezdéséig a kereskedelmi kommunikáció tervezetét a Felügyelethez a nyilvánosságra hozatala előtt legalább öt munkanappal be kell nyújtani. A Felügyelet a kereskedelmi kommunikáció nyilvánosságra hozatalát megtiltja, ha annak tartalma ellentétes vagy félrevezető információt tartalmaz a benyújtott, illetve közzétételre engedélyezett tájékoztatóban foglaltakhoz képest, vagy egyébként a tisztességtelen kereskedelmi gyakorlat Fttv.-ben meghatározott tilalmába ütközik.
+(5) A forgalomba hozatali eljárás lezárásáig, illetőleg a szabályozott piacon a kereskedés megkezdéséig a kereskedelmi kommunikáció tervezetét a Felügyelethez a nyilvánosságra hozatalával egyidejűleg be kell nyújtani. A Felügyelet a kereskedelmi kommunikáció nyilvánosságra hozatalát megtiltja, ha annak tartalma ellentétes vagy félrevezető információt tartalmaz a benyújtott, illetve közzétételre engedélyezett tájékoztatóban foglaltakhoz képest, vagy egyébként a tisztességtelen kereskedelmi gyakorlat Fttv.-ben meghatározott tilalmába ütközik.
 
-(6) Ha a Felügyelet a kereskedelmi kommunikáció tervezetének benyújtását követő öt munkanapon belül nem nyilatkozik, úgy kell tekinteni, hogy annak nyilvánosságra hozatalát a Felügyelet – a feladat- és hatáskörébe tartozó jogszabályi előírások szempontjából – jóváhagyta.
+(6)

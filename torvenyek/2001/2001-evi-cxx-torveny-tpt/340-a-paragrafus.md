@@ -4,7 +4,7 @@
 
 340/A. § (1) A központi értéktári tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. A Felügyelet az engedélyt a 336. § (1) bekezdésében foglalt tevékenységek teljes körére adja meg.
 
-(2) Központi értéktári tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyar Köztáraság területén székhellyel rendelkező, legalább egymilliárd forint jegyzett tőkével rendelkező részvénytársaságnak vagy központi szerződő fél tevékenységet nem végző elszámolóháznak adja meg, amely rendelkezik
+(2) Központi értéktári tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyarország területén székhellyel rendelkező, legalább egymilliárd forint jegyzett tőkével rendelkező részvénytársaságnak vagy központi szerződő fél tevékenységet nem végző elszámolóháznak adja meg, amely rendelkezik
 
 a) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással,
 

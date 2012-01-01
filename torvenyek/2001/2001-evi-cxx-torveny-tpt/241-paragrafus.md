@@ -1,3 +1,1 @@
-241. § (1) A befektetési alap nevében eljáró befektetési alapkezelő a tőke megóvására, illetve a hozamra vonatkozóan garanciát vállalhat (tőke-, illetve hozamgarancia). A hozamra vonatkozó garancia magában foglalja a tőke megóvására vonatkozó garanciát is. A tőkére, illetve a hozamra vonatkozó garanciát a befektetési alapkezelő köteles bankgaranciával biztosítani.
-
-(2) A befektetési alap nevében eljáró befektetési alapkezelő a tőke megóvására, illetve a hozamra vonatkozóan ígéretet tehet (tőke-, illetve hozamvédelem). A hozamra vonatkozó ígéret magában foglalja a tőke megóvására vonatkozó ígéretet is. A tőkére, illetve a hozamra vonatkozó ígéretet a befektetési alapkezelő köteles a tőke megóvását, illetve a hozamot biztosító pénzügyi eszközökre, tőzsdei termékekre vonatkozó befektetési politikával alátámasztani a befektető részletes tájékoztatása mellett.
+241. §

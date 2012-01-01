@@ -1,6 +1,6 @@
 225. § (1) Az Alap igazgatósága szabályzatban határozza meg:
 
-a) a tagok által fizetendő díjakra vonatkozó szabályokat, így különösen a díjalap és a díjmérték megállapítását, valamint a díjfizetés megállapításának és befizetésének eljárását, továbbá a befizetés ütemezését;
+a) a tagok által fizetendő díjakra vonatkozó szabályokat, így különösen a díjalap és a díjmérték megállapítását, a tag tevékenységében rejlő kockázat meghatározásának és a díjalap arányában számított díj módosításának módját, valamint a díjfizetés megállapításának és befizetésének eljárását, továbbá a befizetés ütemezését;
 
 b) az Alap kezelésének szabályait;
 

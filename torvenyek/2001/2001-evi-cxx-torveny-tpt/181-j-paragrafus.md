@@ -36,7 +36,7 @@ b) szükség esetén az illetékes központi bankok bevonásával a válsághely
 
 2. az összevont felügyelet alá tartozó befektetési vállalkozástól származó információk gyűjtésére és ellenőrzésére vonatkozó eljárásokat tartalmazza,
 
-3. olyan az összevont felügyelet alá tartozó hitelintézetet, befektetési vállalkozást, pénzügyi vállalkozást, befektetési alapkezelő társaságot vagy járulékos vállalkozást érintő válsághelyzetre utal, amely súlyosan érinti a befektetési vállalkozást,
+3. olyan, az összevont felügyelet alá tartozó hitelintézetet, befektetési vállalkozást, pénzügyi vállalkozást, befektetési alapkezelőt vagy járulékos vállalkozást érintő válsághelyzetre utal, amely súlyosan érinti a befektetési vállalkozást,
 
 4. a felügyeleti felülvizsgálat keretében előírt többlet-tőkekövetelményre, valamint a működési kockázat tőkekövetelményének fejlett mérési módszerrel történő számításának korlátozására vonatkozik, és
 
@@ -48,8 +48,8 @@ b) szükség esetén az illetékes központi bankok bevonásával a válsághely
 
 (15) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó befektetési vállalkozás felügyeletét, és olyan válsághelyzet áll elő – ideértve a pénzügyi piacokon zajló kedvezőtlen folyamatokat is –, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon tagállamok bármelyikében, amelyben
 
-a) az ezen befektetési vállalkozás ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, vagy
+a) az ezen befektetési vállalkozás ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelőnek és pénzügyi vállalkozásnak, vagy
 
-b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik,
+b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelőnek és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik,
 
 a székhelye van, vagy amely tagállamban olyan befektetési vállalkozás létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, hatáskörrel rendelkező felügyeleti hatóságát, valamint központi bankját.

@@ -26,19 +26,17 @@ b) a XIX/A. és XIX/B. Fejezet alkalmazásában minden olyan vállalkozás, amel
 
 9. befektetési ajánlás: pénzügyi eszközre, tőzsdei termékre vagy annak kibocsátójára vonatkozó olyan elemzés, javaslat vagy más információ, amelynek nyilvánosságra hozatala vagy mások számára oly módon történő hozzáférhetővé tétele, amely alapján az nyilvánosságra kerülhet, befolyásolhatja, hogy a befektető saját vagy más pénzét, egyéb vagyontárgyát részben vagy egészben a tőkepiac hatásaitól tegye függővé,
 
-10. befektetési alap: befektetési jegyek nyilvános vagy zártkörű kibocsátásával létrehozott és működtetett, jogi személyiséggel rendelkező vagyontömeg, amelyet a befektetési alapkezelő a befektetők általános megbízása alapján, azok érdekében kezel,
+10. befektetési alap: Batv.-ben meghatározott fogalom,
 
-11. befektetési alapkezelési tevékenység: a befektetési alapkezelő által, a meghirdetett befektetési elveknek megfelelő befektetési alap kialakítása és a befektetési alap portfóliójában lévő egyes eszközelemeknek (pénzügyi eszköz vagy ingatlan) a befektetési alapkezelő döntése alapján, a befektetési alap meghirdetett befektetési elveihez igazodó adásvétele,
+11.
 
-12. befektetési alapkezelő: befektetési alapkezelési tevékenység végzésére vonatkozó engedéllyel rendelkező részvénytársaság vagy fióktelep,
+12. befektetési alapkezelő: Batv.-ben meghatározott fogalom,
 
-13. befektetési alap saját tőkéje: a befektetési alap saját tőkéje induláskor a befektetési jegyek névértékének és darabszámának szorzatával egyezik meg, működése során a saját tőke a befektetési alap összesített nettó eszközértékével azonos,
+13–14.
 
-14. befektetési hitel nyújtása: a Bszt.-ben meghatározott szolgáltatás,
+15. befektetési jegy: Batv.-ben meghatározott fogalom,
 
-15. befektetési jegy: befektetési alap nevében (javára és terhére) – e törvényben meghatározott módon és alakszerűséggel – sorozatban kibocsátott, vagyoni és egyéb jogokat biztosító, átruházható értékpapír,
-
-16. befektetési jegy folyamatos forgalmazása: a nyílt végű befektetési alapra kibocsátott befektetési jegyeknek a befektetési alap nevében történő folyamatos forgalomba hozatala és visszaváltása,
+16.
 
 17. befektetési szolgáltatási ágazat: befektetési vállalkozás,
 
@@ -126,11 +124,11 @@ c) az a) és b) pontokban megjelölt felügyeleti hatóságok által kijelölt �
 
 46. értékpapírszámla: a dematerializált értékpapírról és a hozzá kapcsolódó jogokról az értékpapír-tulajdonos javára vezetett nyilvántartás,
 
-47. felosztott hozam: a tőkenövekmény azon része, amelyet a befektetési alapkezelő a kezelési szabályzat szerint a befektetési alapkezelés eredményeképpen a befektetési jegyek után köteles kifizetni,
+47.
 
 48. felügyeleti hatóság: a külföldi befektetési vállalkozás, árutőzsdei szolgáltató, pénzügyi intézmény, befektetési alapkezelő, szabályozott piac, tőzsde, központi értéktár, elszámolóházi tevékenységet végző szervezet, központi szerződő fél tevékenységi felügyeletét ellátó külföldi szervezet,
 
-49. folyamatos kibocsátás: a hitelviszonyt megtestesítő értékpapír, valamint a nyílt végű befektetési alap befektetési jegyének olyan forgalomba hozatala, amikor az értékesítés hatvan napot meghaladó időszak alatt történik úgy, hogy az egyes értékpapírok futamideje értékesítésük időpontjától kezdődik,
+49.
 
 50. forgalomba hozatal: az értékpapír tulajdonjogának első ízben történő keletkeztetésére irányuló eljárás,
 
@@ -150,11 +148,11 @@ c) az a) és b) pontokban megjelölt felügyeleti hatóságok által kijelölt �
 
 58. hosszú pozíció: minden olyan pozíció, amely esetében az érdekeltség az alapul szolgáló eszköz árváltozását tekintve, áremelkedés hatására értéknövekedésben nyilvánul meg,
 
-59. indexkövető befektetési alap: olyan befektetési alap, amely befektetési politikájában valamely szabályozott piac által meghirdetett index, illetve valamely, a lehetséges befektetők részére előre meghirdetett, a Felügyelet által jóváhagyott egyéb index leképezésére vállalkozott,
+59.
 
 60. intézményi befektető:
 
-a) a hitelintézet, a pénzügyi vállalkozás, a befektetési vállalkozás, a befektetési alap, a befektetési alapkezelő, a kockázati tőkealap, a kockázati tőkealap-kezelő, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egészségbiztosítási szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
+a) a hitelintézet, a pénzügyi vállalkozás, befektetési vállalkozás, a kollektív befektetési forma, befektetési alapkezelő, a kockázati tőkealap, a kockázati tőkealap-kezelő, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egészségbiztosítási szerv és a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
 
 b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 
@@ -194,13 +192,9 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 75. konszolidált beszámoló: az Szmt. szerint meghatározott beszámoló,
 
-76. kollektív befektetési értékpapír:
+76. kollektív befektetési értékpapír: a Batv.-ben meghatározott fogalom,
 
-a) a befektetési jegy, továbbá
-
-b) az olyan külföldi intézményben való részvételt tanúsító – bemutatóra vagy névre szóló – okirat, amely intézmény alapító okiratában meghatározott célja – az egyes befektetésekkel járó kockázatviselést megosztva – az értékpapírokba vagy más eszközökbe történő befektetés,
-
-77. kollektív befektetési forma: a Bszt.-ben meghatározott fogalom,
+77. kollektív befektetési forma: a Batv.-ben meghatározott fogalom,
 
 78. közeli hozzátartozó: a Ptk.-ban meghatározott személy és az élettárs,
 
@@ -232,7 +226,7 @@ b) az olyan külföldi intézményben való részvételt tanúsító – bemutat
 
 92. minősített befektető:
 
-a) a pénzügyi piacokon működő, a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által engedélyezett vagy szabályozott jogi személy, ideértve a hitelintézetet, a pénzügyi vállalkozást, befektetési vállalkozást, biztosítót, befektetési alapot, befektetési alapkezelőt, önkéntes kölcsönös biztosító pénztárat, magánnyugdíjpénztárat, árutőzsdei szolgáltatót, valamint minden olyan jogi személyt, amelynek kizárólagos tevékenysége értékpapírokba vagy egyéb pénzügyi eszközökbe történő befektetés,
+a) a pénzügyi piacokon működő, a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által engedélyezett vagy szabályozott jogi személy, ideértve a hitelintézetet, a pénzügyi vállalkozást, befektetési vállalkozást, biztosítót, kollektív befektetési formát, befektetési alapkezelőt, önkéntes kölcsönös biztosító pénztárat, magánnyugdíjpénztárat, árutőzsdei szolgáltatót, valamint minden olyan jogi személyt, amelynek kizárólagos tevékenysége értékpapírokba vagy egyéb pénzügyi eszközökbe történő befektetés,
 
 b) nemzeti és regionális kormányok, központi bankok, nemzetközi és nemzetek feletti pénzügyi szervezetek,
 
@@ -242,7 +236,7 @@ d) olyan természetes személy, akit a Felügyelet, illetőleg a lakóhelye szer
 
 e) olyan kis- és középvállalkozás, amelyet a Felügyelet, illetőleg a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága saját kérésére annak minősített, feltéve, hogy szerepel a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által vezetett nyilvántartásban,
 
-93. nettó eszközérték: a befektetési alap portfóliójában szereplő eszközök – ideértve a kölcsönbe adásból származó követeléseket is – értéke, csökkentve a portfóliót terhelő összes kötelezettséggel, beleértve a passzív időbeli elhatárolásokat is,
+93.
 
 94. nyilvános ajánlattétel: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
 
@@ -254,7 +248,7 @@ e) olyan kis- és középvállalkozás, amelyet a Felügyelet, illetőleg a szé
 
 98. nyitva szállítás: olyan átruházható értékpapírral kapcsolatos ügylet, amelynek során az értékpapír és az ellenérték szolgáltatása (átutalása) nem azonos időpontban történik,
 
-99. nyílt végű befektetési alap: az olyan befektetési alap, amelynél visszaváltható befektetési jegyek kerülnek folyamatos forgalmazásra,
+99. nyílt végű befektetési alap: a Batv. szerinti befektetési alap,
 
 100. összehangoltan eljáró személyek: olyan természetes személyek, jogi személyek, illetőleg jogi személyiség nélküli egyéb szervezetek, akik/amelyek a céltársaságban történő befolyásszerzésre, a céltársaság irányításának megszerzésére vagy vételi ajánlat meghiúsítására irányuló megállapodás alapján működnek együtt,
 
@@ -274,7 +268,7 @@ e) olyan kis- és középvállalkozás, amelyet a Felügyelet, illetőleg a szé
 
 108. referenciaadat: a Hpt.-ben meghatározott fogalom,
 
-109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetőleg értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
+109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
 
 110. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, illetve viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
 
@@ -326,7 +320,7 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 
 129. ügyfélcsoport: a Hpt.-ben meghatározott fogalom,
 
-130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, befektetési vállalkozás, hitelintézet, árutőzsdei szolgáltató által vezetett számla,
+130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, befektetési vállalkozás, hitelintézet, árutőzsdei szolgáltató, befektetési alapkezelő által vezetett számla,
 
 131. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 
@@ -342,7 +336,7 @@ b) a fióktelep esetén a fióktelep vezetésére a külföldi vállalkozás ál
 
 c) minden olyan személy, akit a vállalkozás alapszabálya, alapító okirata, társasági szerződése, szervezeti és működési szabályzata ilyenként határoz meg,
 
-135. zárt végű befektetési alap: az olyan befektetési alap, amelyre a futamidő lejáratának kivételével vissza nem váltható befektetési jegyek kerülnek kibocsátásra és forgalomba hozatalra,
+135.
 
 136. ellenőrzött vállalkozás: olyan vállalkozás,
 

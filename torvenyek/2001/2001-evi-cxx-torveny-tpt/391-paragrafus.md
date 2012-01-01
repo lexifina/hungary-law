@@ -2,27 +2,27 @@
 
 391. § (1) A Felügyelet nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:
 
-a) a befektetési alapkezelő, a befektetési alap, a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár neve, székhelye;
+a) a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár neve, székhelye;
 
-b) a befektetési alapkezelő, a befektetési alap, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár alapításának időpontja;
+b) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár alapításának időpontja;
 
-c) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár tevékenységi köre;
+c) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tevékenységi köre;
 
-d) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár jegyzett tőkéjének mértéke;
+d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár jegyzett tőkéjének mértéke;
 
-e) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
+e) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
 
-f) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár vezető állású személyei;
+f) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár vezető állású személyei;
 
 g)
 
-h) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár tevékenysége megkezdésének időpontja;
+h) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tevékenysége megkezdésének időpontja;
 
-i) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
+i) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
 
-j) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár fióktelepe létesítésének időpontja és helye;
+j) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár fióktelepe létesítésének időpontja és helye;
 
-k) a befektetési alapkezelő, a kockázati tőkealap-kezelő ügynökének neve, székhelye, fióktelepe;
+k) a kockázati tőkealap-kezelő ügynökének neve, székhelye, fióktelepe;
 
 l) a kibocsátó neve, székhelye;
 
@@ -34,7 +34,7 @@ o) a kibocsátó vezető állású személyeinek neve, a kibocsátóban fennáll
 
 p) a kibocsátó tulajdonosainak neve (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
 
-q) a forgalomba hozatal adatai, befektetési alap esetében befektetésijegy-sorozatonként;
+q) a forgalomba hozatal adatai;
 
 r) a bennfentes személyek azonosító adatai;
 

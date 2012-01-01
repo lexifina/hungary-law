@@ -6,6 +6,6 @@
 
 (3) A kibocsátó köteles megküldeni a szabályozott információt a hivatalosan kijelölt információtárolási rendszer számára, amely megfelel a biztonsággal, az információforrás bizonyosságával, az időpont rögzítésével és a végfelhasználók általi egyszerű hozzáféréssel kapcsolatos minimális minőségi előírásoknak, és azok összhangban vannak az elektronikus irattározási eljárással.
 
-(4) A kibocsátó rendszeres és rendkívüli tájékoztatást egyidejűleg a Felügyeletnél is köteles elektronikus úton bejelenteni, amelyet a Felügyelet közzétesz az általa üzemeltetett honlapon.
+(4) A kibocsátó a szabályozott információt egyidejűleg a Felügyeletnél is köteles elektronikus úton bejelenteni. A rendszeres és rendkívüli tájékoztatás körébe tartozó információkat a Felügyelet közzéteszi a hivatalosan kijelölt információtárolási rendszeren.
 
 (5) Az információterjesztésre, az információtárolási rendszerre, továbbá a Felügyelet felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat a miniszter rendeletben állapítja meg.

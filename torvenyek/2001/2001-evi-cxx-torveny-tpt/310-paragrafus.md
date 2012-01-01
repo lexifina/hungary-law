@@ -12,7 +12,7 @@ b) nem bizonyítható a részesedésszerzéshez felhasznált pénzeszközök ere
 
 c) természetes személy esetén a 357. § (1) bekezdésben foglalt kizáró ok áll fenn.
 
-(3) Ha az engedély megtagadására okot adó körülmény nem áll fenn, de a jogi személy kérelmező minősített befolyással rendelkező természetes személy tulajdonosa, vezető tisztségviselője ellen, vagy a természetes személy kérelmező ellen a 357. § (3) bekezdésében meghatározott büntetőeljárás van folyamatban, a Felügyelet az engedélyezési eljárást felfüggeszti a büntetőeljárás befejezéséig. A Felügyelet az eljárást a büntetőeljárás jogerős lezárását követően folytatja.
+(3) Ha az engedély megtagadására okot adó körülmény nem áll fenn, de a jogi személy kérelmező minősített befolyással rendelkező természetes személy tulajdonosa, vezető tisztségviselője ellen vagy a természetes személy kérelmező ellen a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetőeljárás van folyamatban, a Felügyelet az engedélyezési eljárást felfüggeszti a büntetőeljárás befejezéséig. A Felügyelet az eljárást a büntetőeljárás jogerős lezárását követően folytatja.
 
 (4) Az (1)–(2) bekezdésben meghatározott tény, illetőleg körülmény ellenőrzése érdekében a Felügyelet az (1)–(2) bekezdésben felsorolt személyektől törvény felhatalmazása alapján kezelhető adatot, illetve tájékoztatást kérhet.
 

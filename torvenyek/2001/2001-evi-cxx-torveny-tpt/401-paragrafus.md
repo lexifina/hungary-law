@@ -1,6 +1,6 @@
 ## A felügyeleti biztos
 
-401. § (1) A Felügyelet egy vagy több felügyeleti biztost rendelhet ki, különösen akkor, ha a befektetési alapkezelő, a kockázati tőkealap-kezelő, elszámolóházi tevékenységet végző szervezet, illetőleg központi értéktár
+401. § (1) A Felügyelet egy vagy több felügyeleti biztost rendelhet ki, különösen akkor, ha a kockázati tőkealap-kezelő, elszámolóházi tevékenységet végző szervezet, illetve központi értéktár
 
 a) olyan helyzetbe kerül, amelyben fennáll annak a veszélye, hogy kötelezettségeinek nem tud eleget tenni;
 
@@ -10,7 +10,7 @@ c) számvitelében, belső ellenőrzési rendszerében feltárt hiányosságok o
 
 (2) Az (1) bekezdés b) pontjában meghatározott helyzet különösen akkor áll fenn, ha
 
-a) a tulajdonosok vagy a fióktelep alapítója a befektetési alapkezelő, a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár saját tőkéjét az előírt szintre nem emelik fel;
+a) a tulajdonosok vagy a fióktelep alapítója a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár saját tőkéjét az előírt szintre nem emelik fel;
 
 b) az igazgatóság a közgyűlést felügyeleti intézkedés ellenére nem hívja össze.
 

@@ -38,7 +38,7 @@ b) befektetési vállalkozás, hitelintézet szavazati jogát, ha a befektetési
 
 a részvényes, a részvényes másik ellenőrzött vállalkozásának közvetlen, közvetett vagy bármely más módon adott utasítása alapján gyakorolhatja.
 
-(7) Az (1) bekezdés szerinti arány meghatározásakor nem kell figyelembe venni a részvényes ellenőrzött vállalkozásaként működő befektetési alapkezelő, ÁÉKBV-t kezelő vállalkozás, befektetési vállalkozás, hitelintézet szavazati jogát, ha a befektetési alapkezelő, az ÁÉKBV-t kezelő vállalkozás, a befektetési vállalkozás, a hitelintézet rendelkezik portfóliókezelési tevékenység végzésére jogosító engedéllyel, és
+(7) Az (1) bekezdés szerinti arány meghatározásakor nem kell figyelembe venni a részvényes ellenőrzött vállalkozásaként működő kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, befektetési vállalkozás, hitelintézet szavazati jogát, ha a kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, a befektetési vállalkozás, a hitelintézet rendelkezik portfóliókezelési tevékenység végzésére jogosító engedéllyel, és
 
 a) papír alapú vagy elektronikus eszköz útján adott konkrét utasítása alapján,
 
@@ -48,13 +48,13 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 (8) A (7) bekezdésben foglaltak alkalmazásának további feltétele, hogy
 
-a) a részvényes megküldi a Felügyeletnek az ellenőrzött vállalkozásaként működő befektetési alapkezelő, ÁÉKBV-t kezelő vállalkozás, befektetési vállalkozás, hitelintézet és a felügyeletüket ellátó, hatáskörrel rendelkező felügyeleti hatóság megnevezését,
+a) a részvényes megküldi a Felügyeletnek az ellenőrzött vállalkozásaként működő kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, befektetési vállalkozás, hitelintézet és a felügyeletüket ellátó, hatáskörrel rendelkező felügyeleti hatóság megnevezését,
 
 b) a részvényes megküldi a Felügyeletnek arra vonatkozó nyilatkozatát, hogy
 
-ba) az ellenőrzött vállalkozásaként működő befektetési alapkezelő, ÁÉKBV-t kezelő, befektetési vállalkozás, hitelintézet a részvényestől függetlenül gyakorolhatja az által kezelt portfólióhoz kapcsolódó szavazati jogokat, és
+ba) az ellenőrzött vállalkozásaként működő kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, befektetési vállalkozás, hitelintézet a részvényestől függetlenül gyakorolhatja az által kezelt portfólióhoz kapcsolódó szavazati jogokat, és
 
-bb) az ellenőrzött vállalkozásaként működő befektetési alapkezelőt, ÁÉKBV-t kezelő vállalkozást, befektetési vállalkozást, hitelintézetet megillető szavazati jog gyakorlásába közvetlen, közvetett utasítással vagy bármely más módon nem avatkozik be,
+bb) az ellenőrzött vállalkozásaként működő kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozást, befektetési vállalkozást, hitelintézetet megillető szavazati jog gyakorlásába közvetlen, közvetett utasítással vagy bármely más módon nem avatkozik be,
 
 c) a részvényes és az ellenőrzött vállalkozásai írásbeli eljárásrendet fogadnak el és tartanak be a szavazati jog gyakorlásával kapcsolatos egymás közötti információáramlás megakadályozása érdekében.
 

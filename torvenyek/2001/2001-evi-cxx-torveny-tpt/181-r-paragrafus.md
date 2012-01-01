@@ -8,7 +8,9 @@ a) a pénzügyi konglomerátumra vonatkozó kockázatkezelési elvek és straté
 
 b) azon tőkemegfelelési elveket, amelyek biztosítják az üzleti stratégia kockázatra és tőkemegfelelésre gyakorolt hatásának figyelembevételét,
 
-c) a kockázatellenőrző rendszerek szervezethez történő igazodását, amely rendszerek összehangoltan működnek annak érdekében, hogy mérni és ellenőrizni lehessen a pénzügyi konglomerátum szintjén a kockázatokat.
+c) a kockázatellenőrző rendszerek szervezethez történő igazodását, amely rendszerek összehangoltan működnek annak érdekében, hogy mérni és ellenőrizni lehessen a pénzügyi konglomerátum szintjén a kockázatokat,
+
+d) azokat a legalább évente felülvizsgált szabályokat, amelyek célja a megfelelő helyreállítási és szanálási intézkedések és tervek kidolgozása.
 
 (3) A belső kontroll rendszer magában foglalja:
 

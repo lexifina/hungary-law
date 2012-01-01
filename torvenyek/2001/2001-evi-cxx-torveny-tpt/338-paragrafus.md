@@ -6,7 +6,7 @@
 
 (4) Elszámolóház legalább kettőmilliárd forint induló tőkével alapítható.
 
-(5) Elszámolóházi tevékenység folytatására jogosító engedélyt az a Magyar Köztársaság területén székhellyel rendelkező kérelmező kaphat, amely megfelel a következő feltételeknek:
+(5) Elszámolóházi tevékenység folytatására jogosító engedélyt az a Magyarország területén székhellyel rendelkező kérelmező kaphat, amely megfelel a következő feltételeknek:
 
 a) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással rendelkezik;
 

@@ -10,7 +10,7 @@ b) a 334. § a) pontjában meghatározott tevékenység.
 
 (2) A központi szerződő félként történő tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza.
 
-(3) A központi szerződő félként történő tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyar Köztársaság területén székhellyel rendelkező jogi személyiséggel rendelkező gazdasági társaságnak adja meg, amely rendelkezik
+(3) A központi szerződő félként történő tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyarország területén székhellyel rendelkező jogi személyiséggel rendelkező gazdasági társaságnak adja meg, amely rendelkezik
 
 a) legalább 20 millió forint alaptőkével,
 

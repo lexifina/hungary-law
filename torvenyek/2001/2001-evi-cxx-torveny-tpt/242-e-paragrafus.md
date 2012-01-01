@@ -1,1 +1,0 @@
-242/E. § Az európai befektetési alapot kezelő alapkezelő az általa kezelt egyéni portfolióba nem vásárolhat az általa kezelt befektetési alap befektetési jegyéből, kivéve, ha a megbízó előzetesen ahhoz hozzájárul.

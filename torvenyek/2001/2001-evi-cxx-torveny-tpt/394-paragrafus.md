@@ -1,10 +1,10 @@
 394. § (1) A Felügyelet feladata ellátása érdekében kezelheti
 
-a) a befektetési alapkezelő, a kockázati tőkealap-kezelő vezető állású személyének és alkalmazottjának, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
+a) a kockázati tőkealap-kezelő vezető állású személyének és alkalmazottjának, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
 
 b) a tőzsdében történő tulajdonszerzés engedélyezése iránti kérelmet benyújtó személy, illetve a tőzsde tulajdonosának a 308. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
 
-c) az általa folytatott eljárás keretében a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár ügyfelének adatait;
+c) az általa folytatott eljárás keretében a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár ügyfelének adatait;
 
 d) a bejelentésre kötelezett bennfentes személy adatait;
 
@@ -22,9 +22,9 @@ f) az összeférhetetlenségi szabályok betartásának ellenőrzése érdekébe
 
 6. az ügynök,
 
-7. a befektetési alapkezelési, a kockázati tőkealap-kezelési tevékenységet végző szervezet vezető állású személye és alkalmazottja,
+7. a kockázati tőkealap-kezelési tevékenységet végző szervezet vezető állású személye és alkalmazottja,
 
-8. a befektetési alapkezelési tevékenységet végző szervezet tevékenységéhez közvetlenül kapcsolódó letétkezelő, ingatlanértékelő, ingatlanforgalmazó vezető tisztségviselője, vezető állású személye és a befektetési alapkezeléshez kapcsolódó területen tevékenykedő alkalmazottja
+8.
 
 adatait;
 

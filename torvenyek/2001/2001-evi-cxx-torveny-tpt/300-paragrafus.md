@@ -20,9 +20,9 @@ a) a cég alapító okiratát;
 
 b) a cég három hónapnál nem régebbi cégkivonatát, külföldi cég esetében az eredeti cégkivonatot és annak hiteles magyar nyelvű fordítását vagy igazolást arról, hogy a céget a vállalati (gazdasági) nyilvántartásba bejegyezték;
 
-c) a minősített befolyással rendelkező személy azonosítására alkalmas adatokat, természetes személy esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt, vagy a személyes joga szerinti ennek megfelelő okiratot;
+c) a minősített befolyással rendelkező személy azonosítására alkalmas adatokat;
 
-d) természetes személy esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt, vagy a személyes joga szerinti ennek megfelelő okiratot;
+d)
 
 e) harminc napnál nem régebbi igazolást arra vonatkozóan, hogy az alapításban részt vevő személynek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs;
 
@@ -35,6 +35,8 @@ h) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jöv�
 i) az alapító tulajdonosi szerkezetének, valamint azon körülményeknek a részletes leírását, amelyek miatt az alapító kapcsolatban álló személyek csoportjához tartozónak minősül, továbbá az irányító vállalat előző évre vonatkozó konszolidált éves beszámolóját, ha az irányító vállalat konszolidált beszámoló készítésére kötelezett;
 
 j) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+
+(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (3) Ha az alapítók között minősített befolyást szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosító, befektetési vállalkozás van, az (1) és (2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez be kell nyújtani a székhely szerinti ország hatáskörrel rendelkező felügyeleti hatóságának igazolását vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
 
