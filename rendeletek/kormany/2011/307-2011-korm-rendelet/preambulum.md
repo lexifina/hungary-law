@@ -1,0 +1,1 @@
+A Kormány a szerzői jogról szóló 1999. évi LXXVI. törvény 112. § (4a) bekezdésében foglalt felhatalmazás alapján, az Alaptörvény 15. cikkének (3) bekezdésében megállapított feladatkörében eljárva a következőket rendeli el:

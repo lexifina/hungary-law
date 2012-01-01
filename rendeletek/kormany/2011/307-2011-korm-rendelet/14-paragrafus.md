@@ -1,0 +1,7 @@
+## 13. § Ha a közös jogkezelő szervezet a 12. § (2) bekezdésének a) pontja szerinti felhívásban foglaltakat határidőben nem teljesíti, a Hivatal – 8 napos határidő tűzésével – hiánypótlásra hívja fel, azzal a figyelmeztetéssel, hogy a felhívásban foglalt kötelezettségének elmulasztása vagy késedelmes teljesítése esetén a Hivatal az Szjt. 92/K. § (6) bekezdésében meghatározott intézkedések megtételéről a rendelkezésre álló adatok alapján dönt.
+
+14. § (1) Ha a Hivatal az éves felügyeleti eljárás eredményeként megállapítja, hogy a közös jogkezelő szervezet a jogszabályokban foglalt előírásokat nem sértette meg és nyilvántartásba vételének feltételei az ellenőrzött időszak alatt folyamatosan megvalósultak, erről a közös jogkezelő szervezetet értesíti.
+
+(2) Ha a Hivatal a szükség esetén indított felügyeleti eljárás eredményeként megállapítja, hogy a közös jogkezelő szervezet a jogszabályokban foglalt előírásokat nem sértette meg, és nyilvántartásba vételének feltételei az ellenőrzött időszak alatt a szervezetnél folyamatosan megvalósultak, az eljárást a Hivatal megszünteti.
+
+(3) Ha a Hivatal egy adott naptári évben szükség esetén indított felügyeleti eljárást folytatott le, az ezt követően legfeljebb hat hónappal indított, az Szjt. 92/K. § (1) bekezdése szerint évente lefolytatásra kerülő felügyeleti eljárás során nem köteles ellenőrizni azon körülményeket, amelyekre a szükség szerint lefolytatott felügyeleti eljárás kiterjedt.
