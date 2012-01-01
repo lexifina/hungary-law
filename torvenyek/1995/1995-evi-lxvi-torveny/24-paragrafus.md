@@ -10,7 +10,7 @@ c) a kutatásra tudományos célból van szükség — feltéve, hogy a 22. §-a
 
 (3) A közlevéltár a (2) bekezdés c) pontja szerinti tudományos célú kutatást akkor köteles engedélyezni, ha a kutató csatolja a tudományos kutatást rendeltetésszerűen végző, közfeladatot ellátó szervnek — a kutató részletes kutatási terve alapján megadott — támogató állásfoglalását.
 
-(4) A kutatónak írásos nyilatkozatban vállalnia kell, hogy a megismert és kigyűjtött személyes adatokat az Avtv. 32. §-ában meghatározott módon kezeli és használja fel, továbbá az írásos nyilatkozatban meg kell jelölnie az adatkezelés helyét.
+(4) A kutatónak írásos nyilatkozatban vállalnia kell, hogy a megismert és kigyűjtött személyes adatokat az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint meghatározott módon kezeli és használja fel, továbbá az írásos nyilatkozatban meg kell jelölnie az adatkezelés helyét.
 
 (5) A (2) bekezdés b) pontjában meghatározott hozzájárulás megadásakor írásban nyilatkozni kell a kutató által megismert személyes adat – kutatás célja szerinti – felhasználásának elfogadásáról, valamint a személyes adatot tartalmazó iratok másolhatóságáról.
 

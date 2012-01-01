@@ -22,4 +22,4 @@
 
 (10) Felhatalmazást kap a szakmai irányítást ellátó miniszter, hogy az állami és helyi önkormányzati intézmények meghatározott csoportja részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben egységes iratkezelési szabályzatot, vagy egyedi iratkezelési szabályzatuk mellékletét képező egységes irattári tervet adjon ki.
 
-(11)
+(11) A külföldi magyar levéltári kirendeltségek működtetésének és szervezetének, a levéltári kiküldöttek kiválasztásának, szakmai irányításának és feladatának részletes szabályait a kultúráért felelős miniszter a közigazgatás-szervezésért felelős miniszterrel egyetértésben rendeletben határozza meg.

@@ -4,7 +4,7 @@
 
 a) a közfeladatot ellátó szerv – e törvényben foglalt kivételekkel – az illetékes közlevéltárral egyetértésben,
 
-b) a központi államigazgatási szerv, valamint a Pénzügyi Szervezetek Állami Felügyelete a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
+b) a központi államigazgatási szerv a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
 
 c) az önkormányzati hivatal számára a jegyző (főjegyző) az illetékes közlevéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
 
@@ -12,7 +12,7 @@ c) az önkormányzati hivatal számára a jegyző (főjegyző) az illetékes kö
 
 a) a szakmai irányítást ellátó miniszter vagy a központi államigazgatási szerv vezetője a területi és helyi államigazgatási szervek, a Magyar Honvédség, valamint a rendvédelmi szervek – kivéve a polgári nemzetbiztonsági szolgálatok – részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral egyetértésben,
 
-b) az Országos Igazságszolgáltatási Tanács a bíróságok, a legfőbb ügyész az ügyészségek részére a Magyar Országos Levéltárral egyetértésben,
+b) az Országos Bírósági Hivatal elnöke a bíróságok, a legfőbb ügyész az ügyészségek részére a Magyar Országos Levéltárral egyetértésben,
 
 c) az igazságügyért felelős miniszter a közjegyzők és bírósági végrehajtók, valamint ezek kamarái, továbbá az igazságügyi szakértői tevékenység végzésére feljogosított természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hatósági tolmácsok, hiteles szakfordítók és büntető ügyekben közvetítői tevékenységet végző ügyvédek tekintetében a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben.
 
@@ -26,7 +26,7 @@ c) az igazságügyért felelős miniszter a közjegyzők és bírósági végreh
 
 (7) A Magyar Országos Levéltár, az illetékes közlevéltár és a kultúráért felelős miniszter egyetértési joga az irattári tételek kialakításával és a nem selejtezhető irattári tételek kijelölésével, továbbá a nem selejtezhető iratok levéltári használatát befolyásoló előírásokkal összefüggő kérdésekre terjed ki.
 
-(8) A Magyar Országos Levéltár az önkormányzati levéltárak véleményének előzetes kikérésével gyakorolja a bíróságok, ügyészségek, a központi államigazgatási szervek területi és helyi szervei, a rendvédelmi szervek szervezeti egységei részére készült iratkezelési szabályzatok kiadásával kapcsolatos egyetértési jogát.
+(8) A Magyar Országos Levéltár a megyei levéltárak vagy a főváros önkormányzatának levéltára véleményének előzetes kikérésével gyakorolja a bíróságok, ügyészségek, a központi államigazgatási szervek területi és helyi szervei, a rendvédelmi szervek szervezeti egységei részére készült iratkezelési szabályzatok kiadásával kapcsolatos egyetértési jogát.
 
 (9) Az irattári terv az iratkezelési szabályzat szerves részét képezi, annak kötelező mellékleteként. Elfogadási rendje – kivéve az önkormányzati hivatalok, az állami és helyi önkormányzati intézmények meghatározott csoportja részére kiadott egységes irattári terveket – nem válik el az iratkezelési szabályzattól.
 

@@ -4,7 +4,7 @@
 
 (2) A szaklevéltár illetékességi köre – az Állambiztonsági Szolgálatok Történeti Levéltára kivételével –
 
-a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek és a katonai nemzetbiztonsági szolgálatok,
+a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek és a Katonai Nemzetbiztonsági Szolgálat,
 
 b)
 
@@ -18,6 +18,6 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (4) Az Állambiztonsági Szolgálatok Történeti Levéltára működésének speciális szabályait, valamint az e törvényben meghatározottakon túlmenően ellátandó feladatait a (3) bekezdésben említett törvény határozza meg.
 
-(5) A (2) bekezdés d) pontjában meghatározott szaklevéltár létesítését és megszüntetését – a szerv felügyeletét vagy irányítását ellátó miniszter vagy az autonóm államigazgatási szerv vezetője véleményének előzetes kikérésével – a kultúráért felelős miniszter engedélyezi.
+(5) A (2) bekezdés d) pontjában meghatározott szaklevéltár létesítését és megszüntetését – a szerv felügyeletét vagy irányítását ellátó miniszter, az autonóm államigazgatási szerv vagy az önálló szabályozó szerv vezetője véleményének előzetes kikérésével – a kultúráért felelős miniszter engedélyezi.
 
 (6) Megszűnő szaklevéltár anyagának elhelyezéséről a kultúráért felelős miniszter gondoskodik.
