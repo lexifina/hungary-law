@@ -24,7 +24,7 @@ fc) az elemzések, értékelések, ajánlások elkészítésére, a károk csök
 
 fd) a figyelem felkeltésére az információs rendszerekkel kapcsolatos várható rendkívüli eseményekre és a rendszerek sebezhető pontjaira vonatkozóan;
 
-g)[^22] megelőző válaszintézkedéseket tesz a nyílt információrendszerek és az informatikai szolgáltatások hálózatbiztonsági védelmének ellátásával kapcsolatban:
+g)[^23] megelőző válaszintézkedéseket tesz a nyílt információrendszerek és az informatikai szolgáltatások hálózatbiztonsági védelmének ellátásával kapcsolatban:
 
 ga) 24 órás elérhetőség biztosítására,
 
@@ -34,24 +34,24 @@ gc) az elemzések, értékelések, ajánlások elkészítésére, a károk csök
 
 gd) a figyelem felkeltésére a várható rendkívüli eseményekre és a nyílt információrendszerek és informatikai szolgáltatások sebezhető pontjaira vonatkozóan;
 
-h)[^23] munkaidőn kívül kiértesíti a Minisztérium, valamint a miniszter által közvetlenül irányított szervezetek (közhasznú társaságok) meghatározott személyi állományát;
+h)[^24] munkaidőn kívül kiértesíti a Minisztérium, valamint a miniszter által közvetlenül irányított szervezetek (közhasznú társaságok) meghatározott személyi állományát;
 
-i)[^24] veszi és továbbítja a készenlét fenntartásának fokozására vonatkozó értesítési feladatokat;
+i)[^25] veszi és továbbítja a készenlét fenntartásának fokozására vonatkozó értesítési feladatokat;
 
-j)[^25] veszi és továbbítja az együttműködő minisztériumoktól, országos hatáskörű szervektől érkező tájékoztatásokat, értesítési feladatokat;
+j)[^26] veszi és továbbítja az együttműködő minisztériumoktól, országos hatáskörű szervektől érkező tájékoztatásokat, értesítési feladatokat;
 
-k)[^26] nukleáris veszélyhelyzetben – a Minisztérium Ágazati Nukleáris-balesetelhárítási Szervezetével együttműködve – ellátja az informatikai, elektronikus hírközlési és postai ágazat Ágazati Információs Központ feladatait;
+k)[^27] nukleáris veszélyhelyzetben – a Minisztérium Ágazati Nukleáris-balesetelhárítási Szervezetével együttműködve – ellátja az informatikai, elektronikus hírközlési és postai ágazat Ágazati Információs Központ feladatait;
 
-l)[^27] katasztrófahelyzetben és minősített időszakban, valamint az ezeket közvetlenül megelőző felkészülési időszakban végrehajtja a külön jogszabályokban a Főügyelet részére meghatározott feladatokat.
+l)[^28] katasztrófahelyzetben és minősített időszakban, valamint az ezeket közvetlenül megelőző felkészülési időszakban végrehajtja a külön jogszabályokban a Főügyelet részére meghatározott feladatokat.
 
 (3) A Főügyelet tevékenységéről, a bejelentett események vizsgálatáról negyedéves, féléves és éves elemzéseket készít.
 
-(4)[^28] A Főügyelet az informatikai és hírközlési ügyeleti feladatainak ellátásához közreműködőket vehet igénybe.
+(4)[^29] A Főügyelet az informatikai és hírközlési ügyeleti feladatainak ellátásához közreműködőket vehet igénybe.
 
-[^22]: A 10. § (2) bekezdésének új g) pontját a 19/2005. (XII. 27.) IHM rendelet 4. §-a iktatta be, egyidejűleg az eredeti g)–k) pont jelölését h)–l) pontra változtatva.
-[^23]: A 10. § (2) bekezdése eredeti g) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a h) pontra változtatta.
-[^24]: A 10. § (2) bekezdése eredeti h) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a i) pontra változtatta.
-[^25]: A 10. § (2) bekezdése eredeti i) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a j) pontra változtatta.
-[^26]: A 10. § (2) bekezdése eredeti j) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a k) pontra változtatta.
-[^27]: A 10. § (2) bekezdése eredeti k) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a l) pontra változtatta.
-[^28]: A 10. § (4) bekezdését a 19/2005. (XII. 27.) IHM rendelet 5. §-a iktatta be.
+[^23]: A 10. § (2) bekezdésének új g) pontját a 19/2005. (XII. 27.) IHM rendelet 4. §-a iktatta be, egyidejűleg az eredeti g)–k) pont jelölését h)–l) pontra változtatva.
+[^24]: A 10. § (2) bekezdése eredeti g) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a h) pontra változtatta.
+[^25]: A 10. § (2) bekezdése eredeti h) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a i) pontra változtatta.
+[^26]: A 10. § (2) bekezdése eredeti i) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a j) pontra változtatta.
+[^27]: A 10. § (2) bekezdése eredeti j) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a k) pontra változtatta.
+[^28]: A 10. § (2) bekezdése eredeti k) pontjának jelölését a 19/2005. (XII. 27.) IHM rendelet 4. §-a l) pontra változtatta.
+[^29]: A 10. § (4) bekezdését a 19/2005. (XII. 27.) IHM rendelet 5. §-a iktatta be.

@@ -1,8 +1,8 @@
-## 6. § A szolgáltatók bevonása az ágazat ügyeleti rendszerébe, illetve a bevonás megszüntetése külön jogszabály[^19] alapján történik.
+## 6. § A szolgáltatók bevonása az ágazat ügyeleti rendszerébe, illetve a bevonás megszüntetése külön jogszabály[^20] alapján történik.
 
 ## A Minisztérium
 
-7. § (1)[^20] Az ágazati ügyeleti rendszer működését a Minisztérium illetékes szervezeti egysége szakmailag felügyeli. Ennek keretében:
+7. § (1)[^21] Az ágazati ügyeleti rendszer működését a Minisztérium illetékes szervezeti egysége szakmailag felügyeli. Ennek keretében:
 
 a) folyamatosan figyelemmel kíséri annak működését, és az NHH-val együttműködve végzi annak fejlesztését, korszerűsítését,
 
@@ -32,5 +32,5 @@ b) gyűjti az adatokat, információkat, elemzéseket, javaslatokat készít a f
 
 c) rendszeres kapcsolatot tart a Főügyelettel, továbbítja részükre a szükséges információkat, tájékoztatásokat.
 
-[^19]: Az ügyeleti rendszerbe bevont szolgáltatók kijelölése a védelmi feladatokban résztvevő elektronikus hírközlési, illetve postai szolgáltatók kijelöléséről és felkészülési feladataik meghatározásáról szóló IHM rendeletben történik.
-[^20]: A 7. § (1) bekezdésének felvezető szövege a 19/2005. (XII. 27.) IHM rendelet 2. §-ával megállapított szöveg.
+[^20]: Az ügyeleti rendszerbe bevont szolgáltatók kijelölése a védelmi feladatokban résztvevő elektronikus hírközlési, illetve postai szolgáltatók kijelöléséről és felkészülési feladataik meghatározásáról szóló IHM rendeletben történik.
+[^21]: A 7. § (1) bekezdésének felvezető szövege a 19/2005. (XII. 27.) IHM rendelet 2. §-ával megállapított szöveg.
