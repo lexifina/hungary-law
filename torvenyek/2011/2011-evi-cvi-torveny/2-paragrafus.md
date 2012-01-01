@@ -6,7 +6,7 @@
 
 (4) A közfoglalkoztatottat megillető munkabér összege megegyezik a teljesítményhez kötött tevékenységek kivételével a közfoglalkoztatási bérrel, a legalább középfokú iskolai végzettséget, szakképesítést igénylő munkakör betöltése esetén a közfoglalkoztatási garantált bérrel, azzal, hogy
 
-a) a közfoglalkoztatási garantált bér el kell, hogy érje a közfoglalkoztatott számára a közfoglalkoztatást közvetlenül megelőzően folyósított álláskeresési járadék, illetve a foglalkoztatást helyettesítő támogatás havi összegét, és
+a) a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér el kell, hogy érje a közfoglalkoztatott számára a közfoglalkoztatást közvetlenül megelőzően folyósított álláskeresési járadék, rehabilitációs ellátás, illetve a foglalkoztatást helyettesítő támogatás havi összegét, és
 
 b) a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér összegét a közfoglalkoztatottat megillető munkabér csak többletteljesítés esetében haladhatja meg.
 
@@ -28,7 +28,7 @@ g) az Mt. munkáltatói jogállásváltozásra vonatkozó 86. § d) pontja nem a
 
 h) az Mt.-nek a működési bizonyítványra vonatkozó 99. §-a nem alkalmazható,
 
-i) az Mt. 101. §-át azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztatott nem kérheti a jogviszonyba történő visszahelyezését,
+i) az Mt. 100. §-át azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztatott nem kérheti a jogviszonyba történő visszahelyezését,
 
 j) az Mt.-nek a külföldi munkáltató munkavállalójára vonatkozó 106/A–106/B. §-a nem alkalmazható,
 
