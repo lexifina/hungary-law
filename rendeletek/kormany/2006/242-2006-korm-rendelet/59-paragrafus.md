@@ -1,4 +1,4 @@
-## 5. Fejezet[^79]
+## 5. Fejezet[^83]
 
 ## A KÖLTSÉGVETÉSI TERVEZÉS RENDJE
 
@@ -6,4 +6,4 @@
 
 (2) A nem központi költségvetési szerv projektgazdák esetén kizárólag a finanszírozási mechanizmusokból származó támogatásokat kell a költségvetésben megjeleníteni.
 
-[^79]: A Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg.
+[^83]: A Magyar Közlöny 2006. évi 152. számában megjelent helyesbítésnek megfelelő szöveg.

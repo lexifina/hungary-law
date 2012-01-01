@@ -1,4 +1,4 @@
-77. §[^107] (1) A Nemzeti Kapcsolattartó, a Végrehajtó Ügynökség és pályázati alap esetén a támogatásközvetítő szervezet gondoskodik annak ellenőrzéséről, hogy a szükséges önerő rendelkezésre áll, továbbá, hogy a pályáztatás, közbeszerzés és a pénzügyi lebonyolítás megfelel
+77. §[^111] (1) A Nemzeti Kapcsolattartó, a Végrehajtó Ügynökség és pályázati alap esetén a támogatásközvetítő szervezet gondoskodik annak ellenőrzéséről, hogy a szükséges önerő rendelkezésre áll, továbbá, hogy a pályáztatás, közbeszerzés és a pénzügyi lebonyolítás megfelel
 
 a) a versenypolitikai szabályoknak,
 
@@ -10,4 +10,4 @@ c) a támogathatósági követelményeknek.
 
 (3) A Nemzeti Kapcsolattartó, a Végrehajtó Ügynökség és pályázati alap esetén a támogatásközvetítő közötti megállapodások rögzítik a folyamatba épített ellenőrzések végrehajtásának kötelezettségét a delegált feladatok vonatkozásában.
 
-[^107]: A 77. § a 155/2010. (V. 4.) Korm. rendelet 33. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^111]: A 77. § a 155/2010. (V. 4.) Korm. rendelet 33. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

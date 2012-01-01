@@ -1,4 +1,4 @@
-## 74. §[^103] Annak érdekében, hogy a Kifizető Hatóság a pénzügyi lebonyolítás megfelelőségét meg tudja ítélni az elszámolási dokumentáció FMI-hez történő benyújtását megelőzően, a Nemzeti Kapcsolattartó
+## 74. §[^107] Annak érdekében, hogy a Kifizető Hatóság a pénzügyi lebonyolítás megfelelőségét meg tudja ítélni az elszámolási dokumentáció FMI-hez történő benyújtását megelőzően, a Nemzeti Kapcsolattartó
 
 a) továbbítja a Kifizető Hatóság részére a saját és a Végrehajtó Ügynökség ellenőrzési rendszerében elkészült, vagy egyéb, ellenőrzésre jogosult szervezetek által elkészített ellenőri jelentéseket, a jelentés kézhezvételét követő 5 munkanapon belül,
 
@@ -10,4 +10,4 @@ d) rendszeresen tájékoztatja a kifizető hatóságot a felmerült szabálytala
 
 e) haladéktalanul írásban tájékoztatja a Kifizető Hatóságot az FMI által javasolt kiigazító intézkedések tartalmáról, valamint azok megvalósítása érdekében megtett lépésekről.
 
-[^103]: A 74. § a 155/2010. (V. 4.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^107]: A 74. § a 155/2010. (V. 4.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

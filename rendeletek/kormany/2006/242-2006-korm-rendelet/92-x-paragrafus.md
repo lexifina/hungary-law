@@ -2,7 +2,7 @@
 
 92/X. § (1) Képzési támogatást általános és speciális képzéshez lehet nyújtani.
 
-(2)[^158] E rendelet alapján képzési támogatás a projektgazdával, illetőleg a végső kedvezményezettel munkaviszonyban álló munkavállalók képzéséhez nyújtható.
+(2)[^162] E rendelet alapján képzési támogatás a projektgazdával, illetőleg a végső kedvezményezettel munkaviszonyban álló munkavállalók képzéséhez nyújtható.
 
 (3) Elszámolható költségek:
 
@@ -36,4 +36,4 @@ b) 10 százalékponttal, ha a támogatást középvállalkozásoknak, és 20 sz�
 
 (8) Ha valamely támogatási projektben mind szakosított, mind általános képzési összetevők szerepelnek, amelyek a képzés támogatási intenzitásának a kiszámítása céljából egymástól nem választhatók el, vagy ha a támogatási projektben szereplő képzés szakosított, illetve általános jellege nem állapítható meg, a (6) bekezdés b) pontja szerinti speciális képzésre vonatkozó támogatási intenzitásokat kell alkalmazni.
 
-[^158]: A 92/X. § (2) bekezdése a 155/2010. (V. 4.) Korm. rendelet 52. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^162]: A 92/X. § (2) bekezdése a 155/2010. (V. 4.) Korm. rendelet 52. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.

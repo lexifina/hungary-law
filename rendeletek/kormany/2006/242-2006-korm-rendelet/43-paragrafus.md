@@ -1,4 +1,4 @@
-43. § (1)[^64] A projektgazda a projekttevékenység befejezését követően projektzáró jelentést készít. A projektzáró jelentés benyújtása előfeltétele a záró kifizetés teljesítésének. A projektzáró jelentés benyújtásának határideje legkésőbb a projekttevékenység befejezését követő 60. nap.
+43. § (1)[^68] A projektgazda a projekttevékenység befejezését követően projektzáró jelentést készít. A projektzáró jelentés benyújtása előfeltétele a záró kifizetés teljesítésének. A projektzáró jelentés benyújtásának határideje legkésőbb a projekttevékenység befejezését követő 60. nap.
 
 (2) A projektzáró jelentés tartalmazza
 
@@ -14,4 +14,4 @@ e) a végrehajtás során szerzett és a jövőben hasznosítható tapasztalatok
 
 f) a projekt utánkövetésére vonatkozó javaslatokat.
 
-[^64]: A 43. § (1) bekezdése a 265/2007. (X. 10.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^68]: A 43. § (1) bekezdése a 265/2007. (X. 10.) Korm. rendelet 12. §-ával megállapított szöveg.
