@@ -2,7 +2,7 @@
 
 3. § (1) Ez a rendelet 2001. május 1. napján lép hatályba.
 
-(2)[^2]
+(2)[^3]
 
 Melléklet a 3/2001. (I. 31.) KöViM rendelethez
 
@@ -20,9 +20,9 @@ Ennek megfelelően a közúti munkahelyet el kell határolni (általában elkorl
 
 1.2. A közúton végzett munkák miatt elhelyezett közúti jelzések a forgalmat csak a szükséges legkisebb mértékben korlátozhatják. Ezeket a jelzéseket a munkák megszűnésével, ideiglenes szüneteltetésével haladéktalanul el kell távolítani, vagy érvényteleníteni kell, a munkák térbeni, illetve időbeni előrehaladásával át kell helyezni, illetve a szükséges mértékben módosítani kell.
 
-1.3. A közúti útelzárás elkorlátozás és forgalomterelés elemei feleljenek meg a vonatkozó útügyi műszaki előírásokban[^3] foglalt követelményeknek.
+1.3. A közúti útelzárás elkorlátozás és forgalomterelés elemei feleljenek meg a vonatkozó útügyi műszaki előírásokban[^4] foglalt követelményeknek.
 
-1.4. Az elkorlátozó elemeket, közúti jelzőtáblákat és jelzéseket kihelyezéskor úgy kell rögzíteni, hogy azok a vonatkozó jogszabály[^4] szerinti szélterhelés esetén ne csússzanak el, ne dőljenek fel, és ne forduljanak el.
+1.4. Az elkorlátozó elemeket, közúti jelzőtáblákat és jelzéseket kihelyezéskor úgy kell rögzíteni, hogy azok a vonatkozó jogszabály[^5] szerinti szélterhelés esetén ne csússzanak el, ne dőljenek fel, és ne forduljanak el.
 
 1.5. A közúti munkahely maximális hossza (elkorlátozás kezdetétől a végéig):
 
@@ -76,7 +76,7 @@ jobban nem közelítheti meg.
 
 1.11.5. Különösen indokolt esetben a gyalogosok a (közúti) munkahellyel ellentétes oldali járdára való átvezetésének biztosítása érdekében új ideiglenes gyalogosátkelőhelyet kell kijelölni.
 
-1.11.6. Gyalogosátkelőhely kijelölése, illetve megszüntetése esetén végre kell hajtani a külön jogszabályban[^5] meghatározott további intézkedéseket.
+1.11.6. Gyalogosátkelőhely kijelölése, illetve megszüntetése esetén végre kell hajtani a külön jogszabályban[^6] meghatározott további intézkedéseket.
 
 1.12. A munkahelyek előjelzése, jelzése és elkorlátozása végrehajtásának időbeli sorrendje:
 
@@ -250,7 +250,7 @@ Teljes útlezárásnál a lámpát (lámpákat) a lezárt forgalmi sáv(ok) teng
 
 Átmenettel (vagy hajlással) kialakított elkorlátozásnál a forgalmi sáv(ok) szélén és azok tengelyében kell lámpát elhelyezni.
 
-Autópályán, autóúton és lakott területen kívüli, irányonként több forgalmi sávos úton csak sárga villogó fényt adó lámpák alkalmazhatók, melyeknek azonos fázisban vagy futófényes üzemmódban kell működniük. A lámpáknak meg kell felelniük a külön előírásban[^6] meghatározott feltételeknek.
+Autópályán, autóúton és lakott területen kívüli, irányonként több forgalmi sávos úton csak sárga villogó fényt adó lámpák alkalmazhatók, melyeknek azonos fázisban vagy futófényes üzemmódban kell működniük. A lámpáknak meg kell felelniük a külön előírásban[^7] meghatározott feltételeknek.
 
 4.1.2. Mozgó munkahelyek jelzésére sárga villogó lámpa éjszaka és korlátozott látási viszonyok esetén mindenkor, nappal akkor kötelező, ha a munkahelyet előjelzésekkel nem tették felismerhetővé. A folyamatosan mozgó munkahelyet sárga villogó lámpával minden esetben jelezni kell.
 
@@ -268,17 +268,17 @@ Az elkorlátozás végénél szükséges továbbá az ,,Egyirányú forgalmú ú
 
 4.2.3. Teljes útlezárásnál ,,Mindkét irányból behajtani tilos'' jelzőtáblát kell elhelyezni az úttest jobb oldalán. A jelzőtábla a korlátelemeken, vagy azok fölött, vagy az úttest bal oldalán megismételhető.
 
-A tábla alatt a külön előírásban[^7] meghatározott kiegészítő tábla jelezheti azoknak az úthasználóknak körét, akik a lezárt útszakaszt (célforgalmi jelleggel) igénybe vehetik.
+A tábla alatt a külön előírásban[^8] meghatározott kiegészítő tábla jelezheti azoknak az úthasználóknak körét, akik a lezárt útszakaszt (célforgalmi jelleggel) igénybe vehetik.
 
 Terelőút kijelölése esetén a ,,Terelőút'' jelzőtáblát közvetlenül a korlátelemek fölött vagy a behajtási tilalmat jelző tábla oszlopán meg kell ismételni.
 
-4.2.4. A külön előírásban[^8] meghatározott ,,Építést jelző táblát'' – a közúton végzett munka jellegének megfelelő felirattal – az elkorlátozás kezdeténél kell elhelyezni úgy, hogy egyéb jelzést ne takarjon.
+4.2.4. A külön előírásban[^9] meghatározott ,,Építést jelző táblát'' – a közúton végzett munka jellegének megfelelő felirattal – az elkorlátozás kezdeténél kell elhelyezni úgy, hogy egyéb jelzést ne takarjon.
 
 4.3. Minden – ideiglenesen, az úttesten, illetve az útpadkán lévő – akadályt (munkagép, magasépítési munkaterület, konténer stb.) jelezni kell.
 
 5. A munkahelyek előjelzése
 
-5.1. A közúti munkahelyek előjelzésére alkalmazott veszélyt jelző táblát az elkorlátozás kezdete előtt autópályán, lakott területen kívüli egyéb úton és lakott területen el kell helyezni a vonatkozó jogszabályban[^9] meghatározott távolságokra. Ha ezeknél rövidebb, illetve hosszabb elhelyezési távolság indokolt (pl. közeli útkereszteződés esetében), a tábla alá – az elkorlátozás kezdetének távolságát feltüntető (autópályán és autóúton 50 m-re, egyéb utakon 10 m-re kerekített) – kiegészítő táblát kell elhelyezni.
+5.1. A közúti munkahelyek előjelzésére alkalmazott veszélyt jelző táblát az elkorlátozás kezdete előtt autópályán, lakott területen kívüli egyéb úton és lakott területen el kell helyezni a vonatkozó jogszabályban[^10] meghatározott távolságokra. Ha ezeknél rövidebb, illetve hosszabb elhelyezési távolság indokolt (pl. közeli útkereszteződés esetében), a tábla alá – az elkorlátozás kezdetének távolságát feltüntető (autópályán és autóúton 50 m-re, egyéb utakon 10 m-re kerekített) – kiegészítő táblát kell elhelyezni.
 
 5.2. Szilárd burkolatú úton, ha a jelzés helye és az elkorlátozás kezdete között útkereszteződés van, a keresztező úton (földút esetét kivéve) el kell helyezni a veszély jellegére utaló – KRESZ 139. ábra szerinti – ,,Útirány-előjelző'' táblát.
 
@@ -312,7 +312,7 @@ Az ,,Útszűkület'' jelzőtáblán kívül sárga alapszínű ,,Terelés forgal
 
 Tartós (1 km-nél hosszabb útszakaszra vonatkozó) előzési tilalom csak ott alkalmazható, ahol mezőgazdasági vontatók, állati erővel vont járművek és lassú járművek közlekedését megtiltották.
 
-5.10.[^10] A sebességkorlátozás mértékének megválasztásánál a közúti munkahely környezetét, az útburkolat állapotát, a rendelkezésre álló látótávolságot (az elkorlátozás kezdetének észlelhetőségét) és az ívviszonyokat kell figyelembe venni. A sebességkorlátozás legalacsonyabb értékét külön rendelet[^11] határozza meg, amelynek betartása céljából felvezető gépkocsi alkalmazható.
+5.10.[^11] A sebességkorlátozás mértékének megválasztásánál a közúti munkahely környezetét, az útburkolat állapotát, a rendelkezésre álló látótávolságot (az elkorlátozás kezdetének észlelhetőségét) és az ívviszonyokat kell figyelembe venni. A sebességkorlátozás legalacsonyabb értékét külön rendelet[^12] határozza meg, amelynek betartása céljából felvezető gépkocsi alkalmazható.
 
 5.11. ,,Szembejövő forgalom elsőbbsége'' és ,,Elsőbbség a szembejövő forgalommal szemben'' jelzések alkalmazásánál a forgalomnagyságot, az útszűkület mértékét és hosszát, valamint átláthatóságát és az elsőbbségi viszonyok egyértelműségét, továbbá a jogszabályi előírásokat kell figyelembe venni.
 
@@ -330,7 +330,7 @@ Ilyen esetben magasságkorlátozás nélkül járható útvonalat (terelőutat) 
 
 5.14. Ha a közúton végzett munkák miatt forgalomirányító fényjelző készüléket helyeznek el, azt mindkét forgalmi irányból ,,Forgalomirányító fényjelző készülék'' veszélyt jelző táblával elő kell jelezni.
 
-5.15. Közúton folyó munkák miatt a külön előírásban[^12] szereplő ,,Terelőút'' jelzőtáblát el kell helyezni
+5.15. Közúton folyó munkák miatt a külön előírásban[^13] szereplő ,,Terelőút'' jelzőtáblát el kell helyezni
 
 – annál az útkereszteződésnél, ahol az út (vagy egyik forgalmi irány) forgalmát terelőútra kívánják vezetni,
 
@@ -402,9 +402,9 @@ A jelzőőröknek nappal jelzőtárcsával, éjszaka és korlátozott látási v
 
 10. Forgalomirányítás fényjelző készülékkel
 
-10.1. Ha a munkavégzés jellege, időtartama, más forgalomirányító készülékhez kapcsolódása vagy egyéb körülmény megköveteli, a járműforgalom irányítására külön előírásban[^13] meghatározottak szerinti forgalomirányító fényjelző készüléket (forgalomirányító jelzőlámpát) kell alkalmazni.
+10.1. Ha a munkavégzés jellege, időtartama, más forgalomirányító készülékhez kapcsolódása vagy egyéb körülmény megköveteli, a járműforgalom irányítására külön előírásban[^14] meghatározottak szerinti forgalomirányító fényjelző készüléket (forgalomirányító jelzőlámpát) kell alkalmazni.
 
-10.2. A forgalomirányító jelzőlámpa programját a forgalom nagysága, a forgalom összetétele, a járművek sebessége, valamint a közúti munkahely hossza és az út magassági vonalvezetése alapján a külön jogszabályban[^14] meghatározottak szerint kell megtervezni. A tervek elkészítéséhez az F2. Függelék tartalmaz útmutatást.
+10.2. A forgalomirányító jelzőlámpa programját a forgalom nagysága, a forgalom összetétele, a járművek sebessége, valamint a közúti munkahely hossza és az út magassági vonalvezetése alapján a külön jogszabályban[^15] meghatározottak szerint kell megtervezni. A tervek elkészítéséhez az F2. Függelék tartalmaz útmutatást.
 
 10.3. A forgalmat több program vagy forgalomtól függő berendezés alkalmazásával kell irányítani.
 
@@ -478,7 +478,7 @@ F1.5. Egyesített jelzőtábla: egyetlen táblán több, de legfeljebb 3 közút
 
 F1.6. Elkorlátozás kezdete: a közúti munkahely kezdetének (úttesten általában a forgalom irányát eltérítő) elhatárolása.
 
-F1.7. Elkorlátozó elemek: a közúton folyó vagy azt érintő munkák, illetőleg a közúti munkahely határának jelzésére, a közlekedők figyelmének a felhívására szolgáló eszközök, berendezések, amelyek fogalommeghatározását külön rendelet[^15] tartalmazza.
+F1.7. Elkorlátozó elemek: a közúton folyó vagy azt érintő munkák, illetőleg a közúti munkahely határának jelzésére, a közlekedők figyelmének a felhívására szolgáló eszközök, berendezések, amelyek fogalommeghatározását külön rendelet[^16] tartalmazza.
 
 F1.8. Elkorlátozás vége: a közúti munkahely végének elhatárolása.
 
@@ -544,7 +544,7 @@ F1.34. Részleges útlezárás: a közút egy részének olyan mértékű elkorl
 
 F1.35. Sáveltérítés: a forgalmi sáv(ok)ban haladó járművek – kétpályás úttest esetén ugyanazon az útpályán –, a munkaterület miatt új helyen vagy új kiosztásban kialakított forgalmi sáv(ok)ba terelése.
 
-F1.36. Sávozott terelőtábla: külön előírásban[^16] meghatározott a munkaterület jelzésére, az útterület szakaszos elhatárolására, ideiglenes forgalmi sávok kijelölésére szolgáló forgalomterelő, illetve valamilyen veszélyre (burkolathibára, burkolatmarásra, útburkolat szennyezettségére, úttartozék hiányára, rongálódására) figyelmeztető piros-fehér színű sávozott tábla.
+F1.36. Sávozott terelőtábla: külön előírásban[^17] meghatározott a munkaterület jelzésére, az útterület szakaszos elhatárolására, ideiglenes forgalmi sávok kijelölésére szolgáló forgalomterelő, illetve valamilyen veszélyre (burkolathibára, burkolatmarásra, útburkolat szennyezettségére, úttartozék hiányára, rongálódására) figyelmeztető piros-fehér színű sávozott tábla.
 
 F1.37. Sávozott kettős terelőtábla: az elkorlátozás mindkét oldali kikerülésének lehetősége esetén az útterület szakaszos lezárásakor a kitérítő szakasz első táblájaként alkalmazott sávozott terelőtábla.
 
@@ -556,7 +556,7 @@ F1.40. Tartóoszlop: az útelzáró, az útelkorlátozó és a forgalomterelő e
 
 F1.41. Terelőkúp: útterület rövid idejű szakaszos elhatárolását biztosító forgalomterelő eszköz.
 
-F1.42. Terelő útvonal: a jogszabályban[^17] meghatározott ,,Terelőút'' jelzőtáblával jelzett útvonal.
+F1.42. Terelő útvonal: a jogszabályban[^18] meghatározott ,,Terelőút'' jelzőtáblával jelzett útvonal.
 
 F1.43. Útburkolati jel: az úttest (útpálya) felületén, annak síkjában fekvő, és festék, plasztikus anyagok, útépítési és egyéb anyagok felhasználásával készített forgalomszabályozó létesítmény (úttartozék).
 
@@ -568,7 +568,7 @@ F1.46. Útelzáró és veszélyt jelző lámpák: akkumulátorról vagy elektrom
 
 F1.47. Útelzáró lánc, terelőfüzér és jelzőszalag: forgalomterelő, útelzáró, útkorlátozó elemek, amelyek az elzárt terület folyamatos elhatárolását biztosítják.
 
-F1.48. Ütközési energiaelnyelő szerkezet: közutakon emberek, gépek, úttartozékok és egyéb szilárd tárgyak (pl. hídpillér) védelme érdekében alkalmazott, külön műszaki utasításokban[^18] meghatározott szerkezet.
+F1.48. Ütközési energiaelnyelő szerkezet: közutakon emberek, gépek, úttartozékok és egyéb szilárd tárgyak (pl. hídpillér) védelme érdekében alkalmazott, külön műszaki utasításokban[^19] meghatározott szerkezet.
 
 F1.49. Zöldidő: a szabad jelzés idejének hossza
 
@@ -746,20 +746,20 @@ F8.2. Elkerített munkaterület a gyalogos forgalom átterelésével (példa)
 
 9. ábra
 
-[^2]: A 3. § (2) bekezdését a 7/2004. (I. 30.) GKM–IHM–KvVM együttes rendelet 1. §-ának c) pontja hatályon kívül helyezte.
-[^3]: Jelenleg az ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei című útügyi műszaki előírás.
-[^4]: ÚT 1–1.123 Közúti jelzőtáblák. Méretek és műszaki követelmények című útügyi műszaki előírás (előkészületben).
-[^5]: 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
-[^6]: Jelenleg az ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei című útügyi műszaki előírás.
+[^3]: A 3. § (2) bekezdését a 7/2004. (I. 30.) GKM–IHM–KvVM együttes rendelet 1. §-ának c) pontja hatályon kívül helyezte.
+[^4]: Jelenleg az ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei című útügyi műszaki előírás.
+[^5]: ÚT 1–1.123 Közúti jelzőtáblák. Méretek és műszaki követelmények című útügyi műszaki előírás (előkészületben).
+[^6]: 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
 [^7]: Jelenleg az ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei című útügyi műszaki előírás.
 [^8]: Jelenleg az ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei című útügyi műszaki előírás.
-[^9]: 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
-[^10]: A melléklet 5.10. pontjának második mondatát a 18/2003. (IV. 9.) GKM rendelet 24. § (1) bekezdésének b) pontja hatályon kívül helyezte.
-[^11]: 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
-[^12]: Jelenleg az ÚT 2–1.131 Közúti jelzőtáblák. Útbaigazító jelzőtáblák című útügyi műszaki előírás (előkészületben).
-[^13]: ÚT 2–1.120 Közúti forgalomirányító berendezések. Fényjelző készülékek című útügyi műszaki előírás (előkészületben).
-[^14]: ÚT 1–1.204 A jelzőlámpás forgalomirányítás szabályzata (FISZ) című útügyi műszaki szabályzat (előkészületben).
-[^15]: Jelenleg az ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei című útügyi műszaki előírás.
-[^16]: ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei útügyi műszaki előírás.
-[^17]: 1/1975. (II. 5.) KPM–BM együttes rendelet a közúti közlekedés szabályairól (KRESZ).
-[^18]: Jelenleg az MSZ EN 1317–1 Közúti védőberendezések. Terminológia és a vizsgálati módszerek általános kritériumai és az MSZ EN 1317–2 Közúti védőberendezések. Védőkorlátok.
+[^9]: Jelenleg az ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei című útügyi műszaki előírás.
+[^10]: 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
+[^11]: A melléklet 5.10. pontjának második mondatát a 18/2003. (IV. 9.) GKM rendelet 24. § (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^12]: 20/1984. (XII. 21.) KM rendelet az utak forgalomszabályozásáról és a közúti jelzések elhelyezéséről.
+[^13]: Jelenleg az ÚT 2–1.131 Közúti jelzőtáblák. Útbaigazító jelzőtáblák című útügyi műszaki előírás (előkészületben).
+[^14]: ÚT 2–1.120 Közúti forgalomirányító berendezések. Fényjelző készülékek című útügyi műszaki előírás (előkészületben).
+[^15]: ÚT 1–1.204 A jelzőlámpás forgalomirányítás szabályzata (FISZ) című útügyi műszaki szabályzat (előkészületben).
+[^16]: Jelenleg az ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei című útügyi műszaki előírás.
+[^17]: ÚT 2–1.152 A közúti útelzárás, elkorlátozás és forgalomterelés elemei útügyi műszaki előírás.
+[^18]: 1/1975. (II. 5.) KPM–BM együttes rendelet a közúti közlekedés szabályairól (KRESZ).
+[^19]: Jelenleg az MSZ EN 1317–1 Közúti védőberendezések. Terminológia és a vizsgálati módszerek általános kritériumai és az MSZ EN 1317–2 Közúti védőberendezések. Védőkorlátok.
