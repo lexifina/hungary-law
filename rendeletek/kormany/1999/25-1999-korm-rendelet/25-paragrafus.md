@@ -1,4 +1,4 @@
-## 23–24. §[^4]
+## 23–24. §[^6]
 
 ## A légi személyszállítási szerződés megszűnése
 
@@ -20,4 +20,4 @@ g) megtagadja, illetve nem hajlandó alávetni magát és kézipoggyászát a bi
 
 (2) A légi személyszállítási szerződéstől az (1) bekezdés szerinti elállás esetén a légitársaság az üzletszabályzatban rendelkezik a visszatérítendő összegből levonandó – gazdaságossági szempontból indokolt, ésszerű mértékű – kezelési és egyéb költség megfizetéséről is.
 
-[^4]: A 23–24. §-t a 33/2005. (II. 18.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^6]: A 23–24. §-t a 33/2005. (II. 18.) Korm. rendelet 3. §-a hatályon kívül helyezte.
