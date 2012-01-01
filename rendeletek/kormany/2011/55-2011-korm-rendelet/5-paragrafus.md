@@ -1,31 +1,45 @@
-5. § (1) A szolgáltató – a kártyával azonosított elektronikus utalvány elfogadás esetén – kizárólag a szolgáltató tevékenységi körébe tartozó, a kártya elektronikus utalvány funkciója szerinti felhasználásnak jogszerűen megfelelő, és az alábbi felsorolásban szereplő belföldi szolgáltatást nyújthat a munkavállaló és társkártyával rendelkező közeli hozzátartozója részére:
+5. §[^8] (1) A szolgáltató – a kártyával azonosított elektronikus utalvány elfogadás esetén – kizárólag a szolgáltató tevékenységi körébe tartozó, a kártya elektronikus utalvány funkciója szerinti felhasználásnak jogszerűen megfelelő, és az alábbi felsorolásban szereplő belföldi szolgáltatást nyújthat a munkavállaló és társkártyával rendelkező közeli hozzátartozója részére:
 
-a) szálláshely-szolgáltatás (TEÁOR 55.10., 55.20., 55.30., 55.90.),
+a) az SZJA törvény 71. § (1) bekezdés c) pont ca) alpontja szerinti szálláshely alszámla terhére
 
-b) éttermi és mozgó vendéglátás (TEÁOR 56.10.),
+aa) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90.),
 
-c) belföldi utazásszervezés (TEÁOR 79.12.-ből belföldi előre összeállított utazási csomagok értékesítése),
+ab) belföldi utazásszervezés (TEÁOR'08 79.12.-ből belföldi előre összeállított utazási csomagok értékesítése),
 
-d) egyéb humán-egészségügyi ellátás (TEÁOR 86.90.),
+b) az SZJA törvény 71. § (1) bekezdés c) pont cb) alpontja szerinti vendéglátás alszámla terhére
 
-e) előadó-művészet (TEÁOR 90.01.),
+ba) éttermi és mozgó vendéglátás (TEÁOR'08 56.10.),
 
-f) múzeumi tevékenység (TEÁOR 91.02.),
+bb) egyéb vendéglátás (TEÁOR'08 56.29.)
 
-g) növény-, állatkert és természetvédelmi terület működtetése (TEÁOR 91.04.),
+bc) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90.),
 
-h) vidámparki, szórakoztatóparki tevékenység (TEÁOR 93.21.),
+c) az SZJA törvény 71. § (1) bekezdés c) pont cc) alpontja szerinti szabadidő alszámla terhére
 
-i) máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR 93.29.),
+ca) egyéb humán-egészségügyi ellátás (TEÁOR'08 86.90.),
 
-j) fizikai közérzetet javító szolgáltatás (TEÁOR 96.04.),
+cb) előadó-művészet (TEÁOR'08 90.01.),
 
-k) testedzési szolgáltatás (TEÁOR 93.13),
+cc) múzeumi tevékenység (TEÁOR'08 91.02.),
 
-l) egyéb sporttevékenység (TEÁOR 93.19-ből verseny- és lovaglóistállók tevékenysége).
+cd) növény-, állatkert és természetvédelmi terület működtetése (TEÁOR'08 91.04.),
 
-(2)[^1] Az (1) bekezdés b)–l) pontjában meghatározott szolgáltatások (a továbbiakban: kapcsolódó szolgáltatás) csak az (1) bekezdés a) pontja szerinti szolgáltatással együttesen vehetők igénybe a kártyával, a személyes elektronikus utalvány nyilvántartás szerint rendelkezésre álló elektronikus utalványok terhére.
+ce) vidámparki, szórakoztatóparki tevékenység (TEÁOR'08 93.21.),
 
-(3) A szolgáltató a kártyán a munkavállaló és társkártyával rendelkező közeli hozzátartozója rendelkezésére álló elektronikus utalványt készpénzre, vagy készpénz-helyettesítő eszközre nem válthatja át.
+cf) máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR'08 93.29.),
 
-[^1]: Az 5. § (2) bekezdése a 92/2011. (VI. 15.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+cg) fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04.),
+
+ch) testedzési szolgáltatás (TEÁOR'08 93.13),
+
+ci) egyéb sporttevékenység (TEÁOR'08 93.19-ből verseny- és lovaglóistállók tevékenysége),
+
+cj) belvízi személyszállítás (TEÁOR'08 50.30.)
+
+ck) egyéb foglalás (TEÁOR'08 79.90-ből-ből az idegenvezetés)
+
+cl) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90.).
+
+(2) A szolgáltató a kártyán a munkavállaló és társkártyával rendelkező közeli hozzátartozója rendelkezésére álló elektronikus utalványt készpénzre, vagy készpénz-helyettesítő eszközre nem válthatja át.
+
+[^8]: Az 5. § a 317/2011. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
