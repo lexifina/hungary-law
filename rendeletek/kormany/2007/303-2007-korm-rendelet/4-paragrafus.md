@@ -1,8 +1,8 @@
 ## A Földrajzinév-bizottság feladatai
 
-4. § (1)[^6] A Bizottság – az (1a) bekezdésben meghatározott kivétellel – megállapítja a 2. § (3) bekezdés a)–e) pontjában foglalt hivatalos földrajzi neveket.
+4. § (1)[^8] A Bizottság – az (1a) bekezdésben meghatározott kivétellel – megállapítja a 2. § (3) bekezdés a)–e) pontjában foglalt hivatalos földrajzi neveket.
 
-(1a)[^7] A 2. § (3) bekezdés a)–e) pontjában foglalt hivatalos földrajzi neveket – ha ahhoz kiemelt közérdek fűződik – a Kormány egyedi határozatban állapítja meg. A Kormány döntésére az 5. § (1) és (3) bekezdését nem kell alkalmazni.
+(1a)[^9] A 2. § (3) bekezdés a)–e) pontjában foglalt hivatalos földrajzi neveket – ha ahhoz kiemelt közérdek fűződik – a Kormány egyedi határozatban állapítja meg. A Kormány döntésére az 5. § (1) és (3) bekezdését nem kell alkalmazni.
 
 (2) A Bizottság
 
@@ -16,7 +16,7 @@ a) a 2. § (4) bekezdésében meghatározott hivatalos földrajzi nevek helyess�
 
 b) a hozzá forduló szervezet vagy magánszemély kérésére a hivatalos földrajzi nevek megállapításának és használatának jogszabályban nem szabályozott kérdéseiről és a külföldi földrajzi nevek magyar megfelelője hazai használatáról.
 
-(4)[^8] A Bizottság hatáskörébe tartozó hivatalos földrajzi nevek megállapítására, a megállapított hivatalos földrajzi nevek megváltoztatására javaslatot tehet:
+(4)[^10] A Bizottság hatáskörébe tartozó hivatalos földrajzi nevek megállapítására, a megállapított hivatalos földrajzi nevek megváltoztatására javaslatot tehet:
 
 a) a 2. § (3) bekezdés a) pontjában meghatározott hivatalos földrajzi nevek esetében a miniszter;
 
@@ -34,6 +34,6 @@ d) a 2. § (3) bekezdés e) pontjában meghatározott hivatalos földrajzi nevek
 
 (8) A Bizottság vezetője évente beszámol a miniszternek a Bizottság munkájáról.
 
-[^6]: A 4. § (1) bekezdése a 36/2011. (III. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^7]: A 4. § (1a) bekezdését a 36/2011. (III. 21.) Korm. rendelet 5. §-a iktatta be.
-[^8]: A 4. § (4) bekezdése a 36/2011. (III. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^8]: A 4. § (1) bekezdése a 36/2011. (III. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^9]: A 4. § (1a) bekezdését a 36/2011. (III. 21.) Korm. rendelet 5. §-a iktatta be.
+[^10]: A 4. § (4) bekezdése a 36/2011. (III. 21.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -18,7 +18,7 @@ d) víznév: a vízgazdálkodást érintő minden név, így a természetes vize
 
 e) országos jelentőségű közlekedési és hírközlési név: a vasúti közlekedéssel és szállítással kapcsolatos létesítmények (pályaudvar, állomás stb.), a távolsági autóbusz-közlekedéssel, hajózással, légi közlekedéssel kapcsolatos létesítmények (megállóhely, kikötő, repülőtér stb.), a 10 m-nél nagyobb nyílású hidak, valamint a hírközlési létesítmények (postahivatal stb.) neve;
 
-f) országnév: az államformát jelölő, különírt utótagot tartalmazó államnév (Magyar Köztársaság) és az államformát nem jelölő, egytagú (rövid) államnév (Magyarország);
+f)[^1] országnév: az ország Alaptörvényben meghatározott neve (Magyarország);
 
 g) igazgatásiterület-név: az ország közigazgatási, illetve statisztikai, tervezési és területfejlesztési célokra kialakított területi egységeinek (megye, régió, kistérség stb.) neve;
 
@@ -38,6 +38,7 @@ Szentpéterfa = Petrovo Selo, Óbánya = Altglashütte, Alcsevica, Gropcsica).
 
 (pl. Одеса/Odesza = Odessza, Shanghai = Sanghaj).
 
-(6)[^1] Földrajzi megjelölés: a földfelszín mesterséges részleteinek azonosítására szolgáló, kisebb vagy nagyobb közösségek által használt, intézményeket (pl. Madách Színház), intézményszerű mesterséges létesítményeket (pl. Erdészeti arborétum) jelölő tulajdonnév vagy tulajdonnévnek nem tekinthető megjelölés (pl. főapátság).
+(6)[^2] Földrajzi megjelölés: a földfelszín mesterséges részleteinek azonosítására szolgáló, kisebb vagy nagyobb közösségek által használt, intézményeket (pl. Madách Színház), intézményszerű mesterséges létesítményeket (pl. Erdészeti arborétum) jelölő tulajdonnév vagy tulajdonnévnek nem tekinthető megjelölés (pl. főapátság).
 
-[^1]: A 2. § (6) bekezdése a 36/2011. (III. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^1]: A 2. § (3) bekezdés f) pontja a 322/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (6) bekezdése a 36/2011. (III. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.
