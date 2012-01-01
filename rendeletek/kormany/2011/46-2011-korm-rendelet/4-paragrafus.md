@@ -1,6 +1,6 @@
 ## 3. § Az 1. § (1) bekezdésben meghatározott személyek vagy szervek a közbeszerzéseik megkezdését megelőzően, a jelen rendelet 4. §-aiban foglaltak szerint a nemzeti fejlesztési miniszter hozzájárulását kötelesek kérni.
 
-4. § (1) A közbeszerzést megvalósítani kívánó szervezet (a továbbiakban: érintett szervezet) az általa szükségesnek tartott közbeszerzési eljárás lefolytatása érdekében a megindítást megelőzően legalább 15 munkanappal az 1. számú melléklet szerinti előterjesztést köteles az NFM-nek benyújtani, melyhez mellékelni kell az előkészített, a Kbt. és a hirdetmény-minták szerinti minden elemet tartalmazó, következő közbeszerzési dokumentumokat:
+4. § (1)[^4] A közbeszerzést megvalósítani kívánó szervezet (a továbbiakban: érintett szervezet) az általa szükségesnek tartott közbeszerzési eljárás lefolytatása érdekében a megindítást megelőzően legalább 15 munkanappal az 1. számú melléklet szerinti előterjesztést köteles az NFM-nek benyújtani, melyhez mellékelni kell az előkészített, a közbeszerzési törvény és a hirdetmény-minták szerinti minden elemet tartalmazó, következő közbeszerzési dokumentumokat:
 
 a) ajánlat(tétel)i/részvételi felhívás és dokumentáció, két szakaszból álló eljárásban mindkét szakasz tekintetében,
 
@@ -29,3 +29,5 @@ b) jóváhagyás hiányában meghatározza azokat a feltételeket, illetve megje
 c) az eljárás megindításához nem járul hozzá.
 
 (6) A nemzeti fejlesztési miniszter hozzájárulása hiányában a közbeszerzési eljárás nem kezdhető meg.
+
+[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 287/2011. (XII. 22.) Korm. rendelet 19. §-ával megállapított szöveg. E módosító rendelet 30. §-a alapján a 2012. január 1-je után megkezdett közbeszerzésekre kell alkalmazni.

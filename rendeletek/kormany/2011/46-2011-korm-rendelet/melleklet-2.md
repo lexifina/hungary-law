@@ -26,7 +26,7 @@
 
 | nyílt eljárás | meghívásos eljárás (ideértve a részvételi felhívást tartalmazó hirdetménnyel induló meghívásos eljárást is) | tárgyalásos eljárás |
 
-| versenypárbeszéd | keretmegállapodásos eljárás második része (Kbt. 7/A. címe) | időszakos előzetes tájékoztatót tartalmazó hirdetménnyel meghirdetett meghívásos eljárás |
+| versenypárbeszéd | keretmegállapodásos eljárás második része | időszakos előzetes tájékoztatót tartalmazó hirdetménnyel meghirdetett meghívásos eljárás |
 
 | időszakos előzetes tájékoztatót tartalmazó hirdetménnyel meghirdetett tárgyalásos eljárás | előminősítési hirdetménnyel meghirdetett meghívásos eljárás | előminősítési hirdetménnyel meghirdetett tárgyalásos eljárás |
 
@@ -54,7 +54,7 @@
 
 ## 9. Nyilatkozat:
 
-## A kiíró a közbeszerzést az államtitkot vagy szolgálati titkot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő, vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 143/2004. (IV. 29.) Korm. rendelet alapján tervezi kiírni. (A megfelelő válasz aláhúzandó.)
+## A kiíró a közbeszerzést a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet alapján tervezi kiírni. (A megfelelő válasz aláhúzandó.)
 
 ## IGEN NEM
 

@@ -6,6 +6,6 @@
 
 (2) A rendeletet a hatálybalépést követően megkezdett közbeszerzési eljárásokra, szerződésekre, valamint szerződés-módosításokra kell alkalmazni.
 
-(3)[^1]
+(3)[^11]
 
-[^1]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
