@@ -30,4 +30,62 @@
 
 ## (9) A világörökségről szóló 2011. évi LXXVII. törvény 15. § (3) bekezdése nem lép hatályba.”
 
-### 79–88. §
+79. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 21/J. § (6) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül)
+
+## „a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,”
+
+(2) A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 29. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+(Az adatkezelő szerv a nyilvántartott adatokról és iratokról (a továbbiakban: adatok) teljes körű tájékoztatást ad)
+
+## „f) a Nemzeti Adatvédelmi és Információszabadság Hatóság”
+
+(részére.)
+
+(3) A kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről szóló 1995. évi CXIX. törvény 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az adatkezelő az e törvény hatálya alá tartozó adatkezeléseket a tevékenység megkezdése előtt az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint köteles a Nemzeti Adatvédelmi és Információszabadság Hatóságnak bejelenteni.”
+
+(4) A szabálysértésekről szóló 1999. évi LXIX. törvény 27/H. § (6) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül)
+
+## „a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,”
+
+(5)
+
+(6) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 13. § (2) bekezdése a következő j) ponttal egészül ki:
+
+(E törvény rendelkezéseit)
+
+## „j) az adatvédelmi és titokfelügyeleti hatósági eljárásban”
+
+(csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg.)
+
+(7) A viszontbiztosítókról szóló 2007. évi CLIX. törvény 95. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+
+(A 94. §-ban előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró)
+
+## „h) Nemzeti Adatvédelmi és Információszabadság Hatósággal”
+
+(szemben.)
+
+(8) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 91. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Az adattovábbítási nyilvántartásból adatokat igényelhet:)
+
+## „c) a Nemzeti Adatvédelmi és Információszabadság Hatóság,”
+
+(9) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (3) bekezdése a következő d) ponttal egészül ki:
+
+## „d) Nemzeti Adatvédelmi és Információszabadság Hatóság”.”
+
+(10) A gondnokoltak nyilvántartásáról szóló 2010. évi XVIII. törvény 17. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok csak az érintettnek a kérelme alapján történő tájékoztatása, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóság által végzett adatvédelmi ellenőrzés céljából használhatók fel.”
+
+(11) A Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény 7. § (6) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Az (5) bekezdésben foglalt adattovábbítási nyilvántartásból adatokat igényelhet:)
