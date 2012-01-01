@@ -1,1 +1,1 @@
-31. §
+31. § A 4. § (1) bekezdés b) pontja szerinti hatóság kérelemre igazolást ad ki a Magyarországon köztermesztés céljára engedélyezett géntechnológiával módosított növényfajtákról, illetve ezek hiányában ennek tényéről. E hatósági igazolás nem alkalmas egy adott szaporítóanyagnak, takarmánynak vagy élelmiszernek szánt árutétel genetikailag módosított fajtától való mentességének igazolására. Ennek tényét a hatósági igazolás szövegszerűen is tartalmazza.

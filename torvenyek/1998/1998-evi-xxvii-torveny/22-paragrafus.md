@@ -12,7 +12,7 @@ c) az engedélyezett tevékenység kockázatának növekedésére vonatkozóan b
 
 (2) Az ellenőrzésre jogosult hatóság géntechnológiai bírság megfizetését írhatja elő, ha a géntechnológiai tevékenység ellenőrzése során az (1) bekezdés a) vagy b) pontjában foglaltakat észleli.
 
-(3) A bírság az azt kiszabó hatóság bevétele, amelyet az e törvényben és annak végrehajtására kiadott rendeletekben meghatározott feladataival kapcsolatban felmerülő költségei fedezésére használhat fel.
+(3)
 
 (4) Az ellenőrzésre jogosult hatóság az elvégzett ellenőrzésről, valamint az annak során alkalmazott intézkedéséről a géntechnológiai hatóságot az ellenőrzési jegyzőkönyvnek az ellenőrzéstől számított 3 napon belüli megküldésével értesíti, és javaslatot tesz a géntechnológiai tevékenységre vonatkozó, nemzeti hatáskörben megadott engedély módosítására vagy visszavonására, közösségi hatáskörbe tartozó engedély esetén pedig az engedély módosításának vagy visszavonásának kezdeményezésére.
 
