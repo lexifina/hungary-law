@@ -1,7 +1,11 @@
-29. § (1) A mozgóképszakmai hatóság nyilvántartásba vesz minden olyan filmalkotást, amelynek előkészítéséhez vagy gyártásához állami támogatást vesznek igénybe. A nyilvántartásba vételkor a mozgóképszakmai hatóság megvizsgálja a 13. §-ban meghatározott támogatási arányok betartását, és azok túllépése esetén értesíti a filmelőállítót, és az érintett támogató szervezeteket.
+29. § (1) A mozgóképszakmai szervezetek és természetes személyek nyilvántartásában valamennyi támogatást igénylő esetében szerepelnie kell:
 
-(2) Az (1) bekezdés szerinti nyilvántartásban szerepelnie kell az előkészítés vagy gyártás alatt álló filmalkotás tervezett címének, a filmalkotás előállítója nevének, a 31. § szerinti eljárásban megállapított minősítés eredményének, valamint a külön jogszabályban meghatározott, a törvényben meghatározott célok teljesüléséhez szükséges egyéb adatoknak. A nyilvántartásba vett adatokban bekövetkezett változást a külön jogszabályban meghatározott módon a támogatást igénylő jelenti be a mozgóképszakmai hatóságnak.
+a) a 28. §-ban meghatározott adatoknak,
 
-(3) Az (1) bekezdésben foglaltakon túl a mozgóképszakmai hatóság – a 20. § (2) bekezdése szerinti filmalkotások kivételével – minden terjesztésre kerülő filmalkotást nyilvántartásba vesz.
+b) az igénylő által igénybe vett közvetlen állami támogatás összegének, megjelölve a támogatott tevékenységet, illetve filmalkotást,
 
-(4) A (3) bekezdés szerinti nyilvántartásban szerepelnie kell a terjesztésre kerülő filmalkotás címének, a filmalkotás előállítója és terjesztője nevének, a 20. § és a 25. § szerinti besorolási eljárások alapján adott minősítésnek, valamint a külön jogszabályban meghatározott, a törvényben meghatározott célok teljesüléséhez szükséges egyéb adatoknak. Ezeket az adatokat külön jogszabályban meghatározott módon a filmterjesztő jelenti be a mozgóképszakmai hatóságnak.
+c) annak a ténynek, hogy az igénylő az általa igénybe vett közvetlen állami támogatás rendeltetésszerű felhasználásáról a támogató által meghatározott határidőben és feltételek szerint elszámolt-e, ennek hiányában a támogatóval fennálló fizetési kötelezettsége mértékének,
+
+d) az e törvényben és a külön jogszabályban meghatározott, a jelen törvény céljainak megvalósításához szükséges adatoknak.
+
+(2) Az (1) bekezdésben felsorolt adatokat, valamint az azokban bekövetkező változásokat a támogatott és az állami támogatást nyújtó szervezet az adat tudomására jutását, illetve a változást követő 15 napon belül köteles bejelenteni a Hivatalnak.

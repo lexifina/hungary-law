@@ -2,4 +2,4 @@
 
 2. CÍM
 
-Magyar Mozgókép Közalapítvány
+Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság

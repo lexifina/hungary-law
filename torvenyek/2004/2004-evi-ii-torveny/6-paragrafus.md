@@ -6,7 +6,7 @@ b) a filmelőállításnak, a filmalkotások finanszírozásának tervezhetőbb�
 
 c) a filmalkotások elkészülésének, valamint azok közönséghez való eljutásának biztosítása,
 
-d) a normatív és szelektív támogatási elemek megfelelő arányának megteremtése,
+d)
 
 e) az iparágban fellelhető saját források mozgósítása, illetve a mozgóképipari befektetések ösztönzése,
 

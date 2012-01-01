@@ -1,0 +1,3 @@
+26/C. § (1) A magyar részvételi arányok szerinti besorolás alapjául szolgáló adatokban bekövetkező változást azok ismertté válását követő 15 napon belül a filmelőállító köteles bejelenteni a Hivatalnak. A bejelentés alapján, vagy az adatváltozásnak a Hivatal tudomására jutását követően a Hivatal hivatalból eljárást indít, amennyiben feltételezhető, hogy a változás a határozatban megállapított besorolási kategória megváltozását eredményezi.
+
+(2) Az (1) bekezdésben foglalt bejelentési kötelezettség elmulasztása esetén a Hivatal a filmelőállítót a 19/H. § (8) bekezdés c) pontja szerinti bírság megfizetésére kötelezheti.

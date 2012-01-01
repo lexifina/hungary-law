@@ -4,7 +4,7 @@
 
 (3) Az e törvényben meghatározott állami támogatási rendszer működtetése során törekedni kell a közpénzek hatékony és eredményes felhasználására, továbbá úgy kell eljárni, hogy az állami támogatások felhasználása átlátható és ellenőrizhető legyen.
 
-(4) E törvény alkalmazása, illetve a törvényben meghatározott állami támogatási rendszer működtetése során úgy kell eljárni, hogy az segítse a különböző társadalmi kisebbségekhez tartozó, valamint a fogyatékkal élő emberek társadalmon belüli esélyegyenlőségének megteremtését.
+(4) E törvény alkalmazása, illetve a törvényben meghatározott állami támogatási rendszer működtetése során úgy kell eljárni, hogy az segítse a különböző társadalmi nemzetiségekhez tartozó, valamint a fogyatékkal élő emberek társadalmon belüli esélyegyenlőségének megteremtését.
 
 ## II. Fejezet
 

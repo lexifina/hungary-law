@@ -1,16 +1,16 @@
 13. § (1) Ha e törvény másként nem rendelkezik, a közvetlen és közvetett támogatás mértéke bármely filmalkotás esetén a filmalkotás gyártási költségvetésének, koprodukciós filmalkotás esetén a magyar hozzájárulás arányának az 50%-áig terjedhet.
 
-(2) A közvetlen és közvetett támogatás mértéke a mozibemutatásra készült – játékfilm, egész estét betöltő dokumentumfilm, népszerű tudományos és animációs film műfajba tartozó – magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, magyar részvételű koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 90%-áig terjedhet, ha a filmalkotás gyártási költségvetése nem haladja meg magyar filmalkotás esetén a 237 millió forintot, magyar részvételű koprodukciós filmalkotás esetén a 467 millió forintot.
+(2) A közvetlen és közvetett támogatás mértéke a mozibemutatásra készült – játékfilm, egész estét betöltő dokumentumfilm, népszerű tudományos és animációs film műfajba tartozó – magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 90%-áig terjedhet, ha a filmalkotás gyártási költségvetése nem haladja meg magyar filmalkotás esetén a 237 millió forintot, nemzetközi koprodukciós filmalkotás esetén a 467 millió forintot.
 
-(3) A közvetlen és közvetett támogatás mértéke magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, magyar részvételű koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 90%-áig terjedhet, ha a filmalkotást eredetileg magyar nyelven gyártják, továbbá valószínűsíthető, hogy a filmalkotás gyártási költségvetése a terjesztés valamennyi formájából származó összes bevétel révén sem térül meg. Ha a filmalkotás gyártási költségvetése a terjesztés során megtérül, a gyártási költségvetést meghaladó összeget a közvetlen támogatást nyújtó szervezetnek – több támogató esetén a támogatás arányában – vissza kell fizetni.
+(3) A közvetlen és közvetett támogatás mértéke magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 90%-áig terjedhet, ha a filmalkotást eredetileg magyar nyelven gyártják, továbbá valószínűsíthető, hogy a filmalkotás gyártási költségvetése a terjesztés valamennyi formájából származó összes bevétel révén sem térül meg. Ha a filmalkotás gyártási költségvetése a terjesztés során megtérül, a gyártási költségvetést meghaladó összeget a közvetlen támogatást nyújtó szervezetnek – több támogató esetén a támogatás arányában – vissza kell fizetni.
 
-(4) A közvetlen és közvetett támogatás mértéke dokumentumfilm, animációs film, tudományos ismeretterjesztő film, kísérleti film vagy rövidfilm műfajba tartozó magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, magyar részvételű koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 100%-áig terjedhet, ha a kulturális sokszínűséghez hozzájáruló filmalkotás elkészítéséhez szükséges forrás más módon nem biztosítható. Ez a szabály a mozibemutatásra készült játékfilmek esetén nem alkalmazható.
+(4) A közvetlen és közvetett támogatás mértéke dokumentumfilm, animációs film, tudományos ismeretterjesztő film, kísérleti film vagy rövidfilm műfajba tartozó magyar filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának a 100%-áig terjedhet, ha a kulturális sokszínűséghez hozzájáruló filmalkotás elkészítéséhez szükséges forrás más módon nem biztosítható. Ez a szabály a mozibemutatásra készült játékfilmek esetén nem alkalmazható.
 
 (5) A (2) bekezdésben meghatározott értékhatár évente
 
 a) magyar filmalkotás esetén a Központi Statisztikai Hivatal által az előző naptári évre közzétett fogyasztói árindex mértékével,
 
-b) magyar részvételű koprodukciós filmalkotás esetén – figyelemmel a magyar és a nem magyar közreműködés arányára – az a) pontban meghatározott árindex és az eurozóna inflációjának mértékével
+b) nemzetközi koprodukciós filmalkotás esetén – figyelemmel a magyar és a nem magyar közreműködés arányára – az a) pontban meghatározott árindex és az eurozóna inflációjának mértékével
 
 növekszik. A módosított értékhatárokat a költségvetési törvény állapítja meg.
 
@@ -22,6 +22,8 @@ b) közvetett állami támogatás esetén a támogatás igénybevételére vonat
 
 az időpontja.
 
-(7)
+(7) A filmgyártás céljára nyújtott közvetlen támogatás legalább 60%-át a támogatott közvetlen magyar filmgyártási költségekre köteles fordítani. A támogató szervezet ennél magasabb arányt is előírhat, de az nem haladhatja meg a nyújtott támogatás 80%-át. Ha a filmalkotás forgatókönyve az eredeti helyszíneken való forgatást teszi szükségessé, a támogató szervezet hozzájárulhat ahhoz, hogy a nyújtott támogatás legfeljebb 60%-át a támogatott nem közvetlen magyar filmgyártási költségekre fordítsa.
 
-(8) Ha jogszabály másként nem rendelkezik, a magyar részvételű koprodukciós filmalkotás magyar filmelőállítóját a magyar filmalkotás előállítójával megegyező jogok és kötelezettségek illetik meg, illetve terhelik.
+(8) Ha jogszabály másként nem rendelkezik, e törvény alkalmazásában a magyar részvételű filmalkotás és a nemzetközi koprodukciós filmalkotás magyar filmelőállítóját a magyar filmalkotás előállítójával megegyező jogok és kötelezettségek illetik meg, illetve terhelik.
+
+(9) E törvény szerinti közvetlen támogatásban a magyar filmalkotás és a magyar részvételű filmalkotás részesíthető.

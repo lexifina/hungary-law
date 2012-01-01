@@ -1,4 +1,4 @@
-3. § (1) A játékfilmalkotásokat az alábbi táblázat alapján elért pontszámoknak megfelelően kell besorolni a magyar filmalkotás, a magyar részvételű koprodukciós filmalkotás, az egyéb magyar részvételű filmalkotás, és az egyéb filmalkotás elnevezésű kategóriák valamelyikébe:
+3. § (1) A játékfilmalkotásokat az alábbi táblázat alapján elért pontszámoknak megfelelően kell besorolni a magyar filmalkotás, a magyar részvételű filmalkotás, az egyéb magyar részvételű filmalkotás, és az egyéb filmalkotás elnevezésű kategóriák valamelyikébe:
 
 |
 
@@ -282,7 +282,7 @@ d) Laboratóriumi munkák és elektronikus képi utómunka
 
 16
 
-(2) Az animációs filmalkotásokat az alábbi táblázat alapján elért pontszámoknak megfelelően kell besorolni a magyar filmalkotás, a magyar részvételű koprodukciós filmalkotás, az egyéb magyar részvételű filmalkotás, és az egyéb filmalkotás elnevezésű kategóriák valamelyikébe:
+(2) Az animációs filmalkotásokat az alábbi táblázat alapján elért pontszámoknak megfelelően kell besorolni a magyar filmalkotás, a magyar részvételű filmalkotás, az egyéb magyar részvételű filmalkotás, és az egyéb filmalkotás elnevezésű kategóriák valamelyikébe:
 
 |
 
@@ -478,7 +478,7 @@ Hangmérnök
 
 8
 
-(3) A dokumentumfilm-alkotásokat és a tudományos ismeretterjesztő filmalkotásokat az alábbi táblázat alapján elért pontszámoknak megfelelően kell besorolni a magyar filmalkotás, a magyar részvételű koprodukciós filmalkotás, az egyéb magyar részvételű filmalkotás, és az egyéb filmalkotás elnevezésű kategóriák valamelyikébe:
+(3) A dokumentumfilm-alkotásokat és a tudományos ismeretterjesztő filmalkotásokat az alábbi táblázat alapján elért pontszámoknak megfelelően kell besorolni a magyar filmalkotás, a magyar részvételű filmalkotás, az egyéb magyar részvételű filmalkotás, és az egyéb filmalkotás elnevezésű kategóriák valamelyikébe:
 
 |
 
@@ -660,4 +660,4 @@ d) Laboratóriumi munkák (trükk, fényelés) és elektronikus képi utómunka
 
 (4) A kísérleti filmek és az e törvényben nem szabályozott egyéb műfajok esetében a (3) bekezdés szerinti táblázat az alábbi eltéréssel alkalmazandó: amennyiben a besorolandó filmalkotás által – a táblázat alapján értékelhető tényleges alkotói részvétel, illetve feltételek alapján – elérhető legmagasabb pontszám 100 pontnál kevesebb, akkor az elérhető pontszámot 100%-nak tekintve, a 2. § 7. pontja szerinti kategóriák valamelyikébe való besorolás feltétele, hogy az adott filmalkotás elérje a 2. § 7. pontjában meghatározott pontszámoknak megfelelő százalékot.
 
-(5) Az e § szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához, a filmelőállító cég esetében a filmalkotás költségvetéséből a magyar filmelőállítóra jutó hozzájáruláshoz, vagy – ha ez a magasabb – a Magyarországon felmerülő közvetlen filmgyártási költségnek a filmalkotás költségvetésén belüli arányához kell igazítani. Ha a filmalkotás a filmelőállítón kívül legalább három magyar elem tekintetében pontot ér el, a filmelőállítónak az elérhető legmagasabb pontszámot kell adni.
+(5) Az e § szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához, a filmelőállító cég esetében a filmalkotás költségvetéséből a magyar filmelőállítóra jutó hozzájáruláshoz, vagy – ha ez a magasabb – a Magyarországon felmerülő közvetlen filmgyártási költségnek a filmalkotás költségvetésén belüli arányához kell igazítani.
