@@ -32,6 +32,6 @@
 
 (5) A forgalomszabályozást a szükséges legkevesebb közúti jelzéssel kell megvalósítani.
 
-(6)[^19]
+(6)[^20]
 
-[^19]: A 4. § (6) bekezdését a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^20]: A 4. § (6) bekezdését a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.

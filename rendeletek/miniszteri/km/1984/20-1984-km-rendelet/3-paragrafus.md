@@ -1,4 +1,4 @@
-3. §[^18] (1) A közlekedési hatóság engedélye szükséges
+3. §[^19] (1) A közlekedési hatóság engedélye szükséges
 
 a) új gyalogos-átkelőhely kijelöléséhez és a meglévő megszüntetéséhez,
 
@@ -34,4 +34,4 @@ b) előírásainak a 2. § (8) bekezdés a)–d) pontjaiban megjelölt szervezet
 
 (5) Amennyiben a vasúti pályahálózat működtetője a vasútvonal csökkentett szolgáltatási szintű üzemeltetését bejelenti a területi közlekedési hatóságnak, a vasútvonalon lévő vasúti átjárók és vasúti gyalogos-átkelőhelyek esetében a melléklet 26.2. pontja szerinti biztosítási módok alkalmazhatók.
 
-[^18]: A 3. § az 55/2011. (X. 24.) NFM rendelet 2. §-ával megállapított szöveg.
+[^19]: A 3. § az 55/2011. (X. 24.) NFM rendelet 2. §-ával megállapított szöveg.
