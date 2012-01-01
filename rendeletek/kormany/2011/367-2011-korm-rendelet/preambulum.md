@@ -1,0 +1,1 @@
+A Kormány az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1a) bekezdés b) és c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
