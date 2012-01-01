@@ -34,6 +34,6 @@ főállomás (különvonalú állomás) 90 000 Ft
 
 ikerállomás 75 000 Ft
 
-2–3.[^20]
+2–3.[^22]
 
-[^20]: A 2. számú melléklet 2–3. pontját a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.
+[^22]: A 2. számú melléklet 2–3. pontját a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.

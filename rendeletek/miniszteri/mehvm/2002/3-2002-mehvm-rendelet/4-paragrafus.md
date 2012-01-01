@@ -1,4 +1,4 @@
-## 3. §[^2]
+## 3. §[^4]
 
 ## A nyilvános távbeszélő állomásokról kezdeményezett hívások díjazása
 
@@ -14,4 +14,4 @@
 
 (6) Ha a hívás időtartama két különböző díjazási időszakba esik, a díjazást a tényleges díjazási időszakoknak megfelelően kell alkalmazni.
 
-[^2]: A 3. §-t a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.
+[^4]: A 3. §-t a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.

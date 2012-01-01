@@ -1,4 +1,4 @@
-## 12. §[^12]
+## 12. §[^14]
 
 ## Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A távbeszélő szolgáltatás igénybevételéről kiállított számlán a soronkénti tételek és az ezekhez tartozó nettó (áfa nélküli) részösszegek külön-külön nem kerekíthetőek.
 
-[^12]: A 12. §-t a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.
+[^14]: A 12. §-t a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.

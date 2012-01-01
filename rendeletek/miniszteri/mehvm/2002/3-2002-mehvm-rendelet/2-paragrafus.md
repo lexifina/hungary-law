@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya kiterjed az egyetemes távközlési szolgáltató (a továbbiakban: szolgáltató) által nyújtott egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban: egyetemes szolgáltatás) díjaira.
+## 1. §[^2] A rendelet hatálya kiterjed az egyetemes távközlési szolgáltató (a továbbiakban: szolgáltató) által nyújtott egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban: egyetemes szolgáltatás) díjaira.
 
 ## Fogalmak
 
@@ -28,10 +28,11 @@ k) hívásdíj: a sikeresen felépült távbeszélő hívásért fizetendő díj
 
 l) nemzetközi hívás: olyan hívás, amelyben a hívott előfizető vagy szolgáltatás eléréséhez nemzetközi előtétet kell tárcsázni,
 
-m) település: a Magyar Köztársaság Alkotmányának 41. § (1) bekezdése alapján a község, a város és a főváros,
+m)[^3] település: Magyarország Alaptörvénye F) cikke alapján a község, a város és a főváros,
 
 n) üzleti előfizető: a gazdálkodó szervezet, a költségvetési szerv, a helyi önkormányzat, az egyesület, a köztestület, illetőleg az alapítvány [Ptk. 685. § c) pont],
 
 o) tényleges fogyasztói árszintemelkedés: a Központi Statisztikai Hivatal által a tárgyévet megelőző naptári évre megadott éves átlagos fogyasztói árszintemelkedés.
 
-[^1]: Az 1. § a 4/2004. (III. 24.) IHM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § a 4/2004. (III. 24.) IHM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés m) pontja a 91/2011. (XII. 30.) NFM rendelet 20. §-a szerint módosított szöveg.

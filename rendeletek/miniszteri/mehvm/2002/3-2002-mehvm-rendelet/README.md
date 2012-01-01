@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-3-20-84
 | --- | --- | --- |
 | 2008-05-16 | 2002-3-20-84.8 | 3/2002. (I. 21.) MeHVM rendelet |
 | 2010-04-22 | 2002-3-20-84.9 | 8/2010. (IV. 21.) MeHVM rendelet |
+| 2012-01-01 | 2002-3-20-84.10 | 53/2013. (IX. 25.) NFM rendelet |

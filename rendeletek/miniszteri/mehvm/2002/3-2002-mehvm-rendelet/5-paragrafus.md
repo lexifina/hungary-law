@@ -6,10 +6,10 @@
 
 (3) A hívásfelépítési díj a hívó és a hívott előfizetői hozzáférési pont közötti távközlési összeköttetés felépítéséért sikeres hívásonként számítható fel.
 
-(4)[^3]
+(4)[^5]
 
 (5) Ha a hívás időtartama két különböző díjazási időszakra esik, a díjazást a tényleges díjazási időszakoknak megfelelően kell alkalmazni.
 
 (6) Az e § szerinti díjakat szolgáltató a mérést követően az előfizetőnek utólag számítja fel.
 
-[^3]: Az 5. § (4) bekezdését a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.
+[^5]: Az 5. § (4) bekezdését a 8/2010. (IV. 21.) MeHVM rendelet 8. §-a hatályon kívül helyezte.
