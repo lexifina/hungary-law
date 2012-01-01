@@ -1,1 +1,0 @@
-A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: Pftv.) 17. § (2) bekezdésében foglalt felhatalmazás alapján a következőket rendeljük el:
