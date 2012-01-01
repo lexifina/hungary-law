@@ -4,7 +4,7 @@
 
 (2) A jogszerű tartózkodás megszakítása esetén a tartózkodási idő számítása újra kezdődik.
 
-(3) A Tv. 38. §-a alkalmazásában jogszerű tartózkodásnak minősül
+(3)[^167] A Tv. 38. §-a alkalmazásában jogszerű tartózkodásnak minősül
 
 a) a három hónapot meghaladó tartózkodásra jogosító vízummal,
 
@@ -16,6 +16,7 @@ d) a bevándorlási engedéllyel, letelepedési engedéllyel vagy nemzeti letele
 
 e) a Tv. 30. § (1) bekezdés a) pontja alapján kiállított ideiglenes tartózkodásra jogosító igazolással,
 
-f)[^131] a külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával
+f)[^168] a külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával
 
-[^131]: A 107. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^167]: A 107. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^168]: A 107. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 57. §-ával megállapított szöveg.

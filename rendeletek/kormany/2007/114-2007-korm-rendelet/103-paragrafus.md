@@ -6,7 +6,7 @@
 
 (2) A jogszerű tartózkodás megszakítása esetén a tartózkodási idő számítása újra kezdődik.
 
-(3) A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
+(3)[^162] A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
 
 a) a három hónapot meghaladó tartózkodásra jogosító vízummal,
 
@@ -18,7 +18,7 @@ d) a Tv. 30. § (1) bekezdés a) pontja alapján kiállított ideiglenes tartóz
 
 e) a külön törvény szerinti tartózkodási kártyával
 
-## a Magyar Köztársaság területén történő tartózkodás.
+## Magyarország területén történő tartózkodás.
 
 (4) A Tv. 35. § (1) bekezdés b) pontjában foglalt családi életközösség akkor valósul meg, ha a kérelmező harmadik országbeli állampolgár a bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgárral életvitelszerűen közös háztartásban él.
 
@@ -27,3 +27,5 @@ e) a külön törvény szerinti tartózkodási kártyával
 a) külföldi intézményben történő gyógykezelésről szóló igazolással;
 
 b) a gyakori külföldi kiküldetéssel járó munkakör betöltéséről szóló igazolással, illetve a kiküldetések – a munkáltatói jogkör gyakorlója által hitelesített – listájával.
+
+[^162]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

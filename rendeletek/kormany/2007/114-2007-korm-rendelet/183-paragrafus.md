@@ -22,9 +22,9 @@ i) a Tanács 2005/71/EK irányelve (2005. október 12.) a harmadik országbeli �
 
 j) a Tanács 1994. november 30-i határozata a Tanács által az Európai Unióról szóló Egyezmény K. 3. (2) Cikke alapján elfogadott közös intézkedésről a valamely tagállamban lakó harmadik országbeli iskolai tanulók utazási lehetőségéről;
 
-k)[^228] a 47. § (8) bekezdése, az 51. § (3) bekezdése, a 72/A. §-a, 72/B. §-a, 89. §-a, a 118. §-a, a 158/A. §-a valamint a II. számú melléklet 2. pontja a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2009. május 25.-i 2009/50/EK tanácsi irányelve,
+k)[^278] a 47. § (8) bekezdése, az 51. § (3) bekezdése, a 72/A. §-a, 72/B. §-a, 89. §-a, a 118. §-a, a 158/A. §-a valamint a II. számú melléklet 2. pontja a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2009. május 25.-i 2009/50/EK tanácsi irányelve,
 
-l)[^229] a 70. § (1) és (3) bekezdése, a 151. §-a és a 152. §-a az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló 2009.június 18-i 2009/52/EK európai parlamenti és tanácsi irányelve,
+l)[^279] a 70. § (1) és (3) bekezdése, a 151. §-a és a 152. §-a az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló 2009.június 18-i 2009/52/EK európai parlamenti és tanácsi irányelve,
 
 (2) E rendelet
 
@@ -34,29 +34,29 @@ b) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az
 
 c) az érintett tagállam által el nem ismert útiokmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról szóló, 2002. február 18-i, 333/2002/EK tanácsi rendelet,
 
-d)[^230] a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i, 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet,
+d)[^280] a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i, 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet,
 
 e) a vízumok, köztük az átutazó tengerészek számára kibocsátandó vízumok határon történő kiadásáról szóló, 2003. február 27-i, 415/2003/EK tanácsi rendelet,
 
 f) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i, 562/2006/EK európai parlamenti és tanácsi rendelet,
 
-g)[^231] a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet,
+g)[^281] a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet,
 
-h)[^232] a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet;
+h)[^282] a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet;
 
-i)[^233] a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet
+i)[^283] a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-I. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^234]
+I. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^284]
 
-II. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^235]
+II. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^285]
 
 Vízum
 
 1. Vízumokmány: a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi rendeletben, a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2002. február 18-i 334/2002/EK tanácsi rendeletben, és a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2008. július 24-i 856/2008/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
 
-2.[^236] A harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben meghatározott formátumú és adattartalmú okmányként kerül kiállításra:
+2.[^286] A harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben meghatározott formátumú és adattartalmú okmányként kerül kiállításra:
 
 – a kishatárforgalmi engedély/local border traffic permit
 
@@ -88,7 +88,7 @@ III. melléklet a 114/2007. (V. 24.) Korm. rendelethez
 
 Tartózkodási engedély okmányok
 
-1–2.[^237]
+1–2.[^287]
 
 3. Humanitárius tartózkodási engedély okmány menedékjogot kérő számára
 
@@ -122,7 +122,7 @@ Az okmány adattartalma a következő:
 
 12. egyéb megjegyzések
 
-IV. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^238]
+IV. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^288]
 
 V. melléklet a 114/2007. (V. 24.) Korm. rendelethez
 
@@ -326,14 +326,14 @@ Az okmány adattartalma:
 
 8. kiállító szerv
 
-[^228]: A 183. § (1) bekezdés k) pontját a 168/2011. (VIII. 24.) Korm. rendelet 18. §-a iktatta be.
-[^229]: A 183. § (1) bekezdés l) pontját a 168/2011. (VIII. 24.) Korm. rendelet 18. §-a iktatta be.
-[^230]: A 183. § (2) bekezdés d) pontja a 290/2010. (XII. 21.) Korm. rendelet 76. §-ával megállapított szöveg.
-[^231]: A 183. § (2) bekezdésének g) pontját a 327/2007. (XII. 11.) Korm. rendelet 6. §-a iktatta be.
-[^232]: A 183. § (2) bekezdés h) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
-[^233]: A 183. § (2) bekezdés i) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
-[^234]: Az I. mellékletet a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^235]: A II. melléklet a 96/2010. (III. 31.) Korm. rendelet 23. §-ával megállapított, a 168/2011. (VIII. 24.) Korm. rendelet 22. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^236]: A II. melléklet 2. pontja a 168/2011. (VIII. 24.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^237]: A III. melléklet 1–2. pontját a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.
-[^238]: A IV. mellékletet a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.
+[^278]: A 183. § (1) bekezdés k) pontját a 168/2011. (VIII. 24.) Korm. rendelet 18. §-a iktatta be.
+[^279]: A 183. § (1) bekezdés l) pontját a 168/2011. (VIII. 24.) Korm. rendelet 18. §-a iktatta be.
+[^280]: A 183. § (2) bekezdés d) pontja a 290/2010. (XII. 21.) Korm. rendelet 76. §-ával megállapított szöveg.
+[^281]: A 183. § (2) bekezdésének g) pontját a 327/2007. (XII. 11.) Korm. rendelet 6. §-a iktatta be.
+[^282]: A 183. § (2) bekezdés h) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
+[^283]: A 183. § (2) bekezdés i) pontját a 96/2010. (III. 31.) Korm. rendelet 22. §-a iktatta be.
+[^284]: Az I. mellékletet a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^285]: A II. melléklet a 96/2010. (III. 31.) Korm. rendelet 23. §-ával megállapított, a 168/2011. (VIII. 24.) Korm. rendelet 22. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^286]: A II. melléklet 2. pontja a 168/2011. (VIII. 24.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^287]: A III. melléklet 1–2. pontját a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.
+[^288]: A IV. mellékletet a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.

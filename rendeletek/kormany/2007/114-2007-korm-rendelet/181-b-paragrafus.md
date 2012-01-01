@@ -1,8 +1,8 @@
-## A biometrikus adatkezelés szabályai[^225]
+## A biometrikus adatkezelés szabályai[^274]
 
-181/B. §[^226] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 96/A. §-ában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
+181/B. §[^275] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 96/A. §-ában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
 
-(2) A tartózkodási engedély iránti kérelem benyújtása során a Tv. 96. § (1) bekezdés j) pontjában meghatározott biometrikus azonosítókat külképviseleten történő kérelmezés esetén a konzuli tisztviselő, a Magyar Köztársaság területén történő kérelmezés esetén a regionális igazgatóság rögzíti.
+(2)[^276] A tartózkodási engedély iránti kérelem benyújtása során a Tv. 96. § (1) bekezdés j) pontjában meghatározott biometrikus azonosítókat külképviseleten történő kérelmezés esetén a konzuli tisztviselő, Magyarország területén történő kérelmezés esetén a regionális igazgatóság rögzíti.
 
 (3) A Kormány a nemzeti dokumentum-aláíró hatósági és az országos aláíró hitelesítő hatósági feladatok, az országos ellenőrző-hitelesítő hatósági, valamint a nemzeti dokumentumellenőrző-hitelesítő hatósági feladatok ellátására a Hivatalt jelöli ki.
 
@@ -36,5 +36,6 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 
 (10) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély, illetve a bevándorlási vagy letelepedési engedély okmánnyal rendelkező harmadik országbeli állampolgár a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.
 
-[^225]: A 181/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
-[^226]: A 181/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
+[^274]: A 181/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
+[^275]: A 181/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
+[^276]: A 181/B. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

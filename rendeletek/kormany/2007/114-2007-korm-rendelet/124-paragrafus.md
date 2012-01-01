@@ -2,7 +2,7 @@
 
 ## illetve végrehajtására vonatkozó tilalom vizsgálata
 
-124. §[^159] (1) Amennyiben a harmadik országbeli állampolgár a Tv. 52. § (3) bekezdése szerinti kérelmével közvetlenül a büntetés-végrehajtási bíróhoz fordult, a bíróság, illetve az ügyész megkeresi a menekültügyi hatóságot, amely soron kívül véleményt nyilvánít a non-refoulement tilalom fennállása tekintetében.
+124. §[^200] (1) Amennyiben a harmadik országbeli állampolgár a Tv. 52. § (3) bekezdése szerinti kérelmével közvetlenül a büntetés-végrehajtási bíróhoz fordult, a bíróság, illetve az ügyész megkeresi a menekültügyi hatóságot, amely soron kívül véleményt nyilvánít a non-refoulement tilalom fennállása tekintetében.
 
 (2) Ha a visszairányítás elrendelése vagy végrehajtása során a non-refoulement tilalom fennállása tekintetében kétség merül fel, az eljáró idegenrendészeti hatóság a menekültügyi hatóságtól véleményt kér, amely a megkeresést soron kívül teljesíti.
 
@@ -14,4 +14,4 @@
 
 (6) Ha a harmadik országbeli állampolgár a befogadott státusz felülvizsgálatára irányuló eljárás során a hatóság felhívására nem jelenik meg, a humanitárius tartózkodási engedély meghosszabbítására irányuló felülvizsgálati eljárást végzéssel fel kell függeszteni. Amennyiben a harmadik országbeli állampolgár a felfüggesztéstől számított három hónapon belül megjelenik az eljáró hatóság előtt, a státusz felülvizsgálatára irányuló eljárást folytatni kell.
 
-[^159]: A 124. § a 290/2010. (XII. 21.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^200]: A 124. § a 290/2010. (XII. 21.) Korm. rendelet 65. §-ával megállapított szöveg.

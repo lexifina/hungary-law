@@ -1,6 +1,6 @@
 ## A kijelölt helyen való tartózkodás elrendelése
 
-130. § (1)[^173] A idegenrendészeti hatóság a harmadik országbeli állampolgár számára – a (4)–(5) bekezdésben foglalt kivétellel – kötelező tartózkodási helyként
+130. § (1)[^214] A idegenrendészeti hatóság a harmadik országbeli állampolgár számára – a (4)–(5) bekezdésben foglalt kivétellel – kötelező tartózkodási helyként
 
 a) a harmadik országbeli állampolgár bejelentett szálláshelyét,
 
@@ -10,7 +10,7 @@ c) a harmadik országbeli állampolgár eltartására kötelezhető hozzátartoz
 
 d) a karitatív szervezetek által rendelkezésre bocsátott szálláshelyet,
 
-e)[^174] heveny egészségkárosodás elhárítása időtartamára – az egészségügyi államigazgatási szerv véleményének kikérésével – az indokolt gyógykezelés végzése céljából fekvőbeteg-ellátást nyújtó egészségügyi intézményt, valamint
+e)[^215] heveny egészségkárosodás elhárítása időtartamára – az egészségügyi államigazgatási szerv véleményének kikérésével – az indokolt gyógykezelés végzése céljából fekvőbeteg-ellátást nyújtó egészségügyi intézményt, valamint
 
 f) az igénybevétel egyéb jogszabályi feltételeinek megfelelő harmadik országbeli állampolgár esetén személyes gondoskodást nyújtó szociális intézményt
 
@@ -32,5 +32,5 @@ b) kiskorú harmadik országbeli állampolgár és a felügyeletét gyakorló sz
 
 (6) Ha a harmadik országbeli állampolgár kiskorú, az ő, valamint a felügyeletét gyakorló szülőnek a Tv. 63. § (2) bekezdése szerinti kérelmét minden esetben megalapozottnak kell tekinteni.
 
-[^173]: A 130. § (1) bekezdés nyitó szövegrésze a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
-[^174]: A 130. § (1) bekezdés e) pontja a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^214]: A 130. § (1) bekezdés nyitó szövegrésze a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^215]: A 130. § (1) bekezdés e) pontja a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

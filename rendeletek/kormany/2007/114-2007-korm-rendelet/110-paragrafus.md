@@ -1,4 +1,4 @@
-## 109. § Amennyiben az Európai Unió tagállamának kijelölt hatósága értesítést küld arról, hogy a Magyar Köztársaságban EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgárnak a 2003/109/EK irányelv alapján huzamos tartózkodói jogállást igazoló EK tartózkodási engedélyt állított ki, az illetékes regionális igazgatóság a harmadik országbeli állampolgár EK letelepedési engedélyét visszavonó határozat jogerőssé válását követően a visszavonás tényéről értesíti az érintett tagállam kijelölt hatóságát.
+## 109. §[^171] Amennyiben az Európai Unió tagállamának kijelölt hatósága értesítést küld arról, hogy a Magyarországon EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgárnak a 2003/109/EK irányelv alapján huzamos tartózkodói jogállást igazoló EK tartózkodási engedélyt állított ki, az illetékes regionális igazgatóság a harmadik országbeli állampolgár EK letelepedési engedélyét visszavonó határozat jogerőssé válását követően a visszavonás tényéről értesíti az érintett tagállam kijelölt hatóságát.
 
 ## 110. § Az EK letelepedési engedély okmány érvénytelen, ha
 
@@ -15,3 +15,5 @@ e) hamis adatot tartalmaz, vagy meghamisították;
 f) a jogosultja a szabad mozgás és tartózkodás jogát igazoló okmányt kapott, vagy magyar állampolgárságot szerzett;
 
 g) jogosultja meghalt.
+
+[^171]: A 109. § a 276/2011. (XII. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.

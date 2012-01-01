@@ -10,13 +10,13 @@ c) a Tv. 29. § (1) bekezdés d) pontjában foglalt esetben – a gyámhatóság
 
 d) a Tv. 29. § (1) bekezdés e) pontjában foglalt esetben a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság
 
-e)[^102] a Tv. 29. § (1) bekezdés f) pontjában foglalt esetben – a bíróság kezdeményezésére – a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság
+e)[^128] a Tv. 29. § (1) bekezdés f) pontjában foglalt esetben – a bíróság kezdeményezésére – a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság
 
 ## hivatalból állítja ki, illetve hosszabbítja meg.
 
 (2) A menekültkénti elismerését kérő, továbbá a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kérő harmadik országbeli állampolgár részére a tartózkodási engedélyt a kérelme benyújtásától számított három napon belül ki kell állítani.
 
-(3)[^103] A Tv. 29. § (1) bekezdés a)–f) pontjának hatálya alá tartozó harmadik országbeli állampolgárnak a tartózkodási engedély kiadásához, illetve meghosszabbításához ki kell töltenie a külön jogszabály szerinti adatlapot, továbbá az adatlaphoz mellékelnie kell egy darab arcfényképet.
+(3)[^129] A Tv. 29. § (1) bekezdés a)–f) pontjának hatálya alá tartozó harmadik országbeli állampolgárnak a tartózkodási engedély kiadásához, illetve meghosszabbításához ki kell töltenie a külön jogszabály szerinti adatlapot, továbbá az adatlaphoz mellékelnie kell egy darab arcfényképet.
 
-[^102]: A 70. § (1) bekezdés e) pontját a 168/2011. (VIII. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^103]: A 70. § (3) bekezdése a 168/2011. (VIII. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^128]: A 70. § (1) bekezdés e) pontját a 168/2011. (VIII. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^129]: A 70. § (3) bekezdése a 168/2011. (VIII. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
