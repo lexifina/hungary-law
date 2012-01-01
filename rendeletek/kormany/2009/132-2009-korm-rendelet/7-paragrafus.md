@@ -1,4 +1,4 @@
-7. § (1)[^11] A munkaadó, valamint az általa foglalkoztatott személy részére – tömegközlekedési eszköz igénybevétele esetén – az 5–6. § szerint támogatott foglalkoztatás teljes időtartama alatt megtéríthető a munkába járással kapcsolatos helyi és helyközi utazási költségnek a munkába járással kapcsolatos utazási költségtérítésről szóló Korm. rendelet[^12] (a továbbiakban: Korm. rendelet) alapján őt terhelő része. A munkaadó részére megtéríthető továbbá a Korm. rendelet alapján kifizetett, a saját gépjárművel történő munkába járás költségtérítése címen elszámolható összeggel azonos költségtérítés.
+7. § (1)[^17] A munkaadó, valamint az általa foglalkoztatott személy részére – tömegközlekedési eszköz igénybevétele esetén – az 5–6. § szerint támogatott foglalkoztatás teljes időtartama alatt megtéríthető a munkába járással kapcsolatos helyi és helyközi utazási költségnek a munkába járással kapcsolatos utazási költségtérítésről szóló Korm. rendelet[^18] (a továbbiakban: Korm. rendelet) alapján őt terhelő része. A munkaadó részére megtéríthető továbbá a Korm. rendelet alapján kifizetett, a saját gépjárművel történő munkába járás költségtérítése címen elszámolható összeggel azonos költségtérítés.
 
 (2) Az 5–6. § szerint támogatott foglalkoztatás teljes időtartama alatt támogatás nyújtható annak a munkaadónak, aki munkavállalóinak a lakóhelye (tartózkodási helye) és a munkahelye között történő oda-vissza utazását csoportos személyszállítás útján oldja meg.
 
@@ -6,5 +6,5 @@
 
 (4) A Program célcsoportjába tartozó, a 4. §-ban meghatározott támogatott képzésben résztvevő álláskeresők, a képzés időtartama alatt a lakóhelyük (tartózkodási helyük) és a képzés helye közötti utazásra – a területileg illetékes munkaügyi központ által kiadott igazolás alapján – a közforgalmi személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet 5. §-a szerint meghatározott utazási kedvezmény igénybevételére jogosultak.
 
-[^11]: A 7. § (1) bekezdése a 39/2010. (II. 26.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^12]: Lásd a 39/2010. (II. 26.) Korm. rendeletet.
+[^17]: A 7. § (1) bekezdése a 39/2010. (II. 26.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^18]: Lásd a 39/2010. (II. 26.) Korm. rendeletet.

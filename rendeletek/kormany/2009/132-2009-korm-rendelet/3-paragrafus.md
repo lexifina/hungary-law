@@ -12,11 +12,11 @@ ad) hozzájárulás a képzés időtartama alatt igénybe vett gyermekfelügyele
 
 ae) hozzájárulás a képzés időtartama alatt a hozzátartozó ápolásával, gondozásával felmerült költségekhez;
 
-b) elhelyezkedést segítő támogatások:
+b)[^10] elhelyezkedést segítő támogatások:
 
 ba) a bértámogatás,
 
-bb)[^9] a munkatapasztalat-szerzés céljából nyújtható bérköltség-támogatás,
+bb)[^11] a munkakipróbálás, munkatapasztalat-szerzés és munkagyakorlat-szerzés (a továbbiakban együtt: munkatapasztalat-szerzés) céljából nyújtható bérköltség-támogatás,
 
 bc) a munkába járáshoz, munkatapasztalat-szerzéshez kapcsolódó utazási költségekhez nyújtott támogatás,
 
@@ -40,4 +40,5 @@ e) a foglalkozás-egészségügyi vizsgálatok költségének megtérítése;
 
 f) a képzéssel kapcsolatos alkalmassági vizsgálat költségének megtérítése.
 
-[^9]: A 3. § bb) alpontja a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 3. § b) pontja a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 3. § b) pont bb) alpontja a 324/2011. (Xii. 28.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.

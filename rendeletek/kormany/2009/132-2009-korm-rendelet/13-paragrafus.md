@@ -1,6 +1,6 @@
 ## A munkahelyi segítő személy foglalkoztatásához nyújtott támogatás
 
-13. § (1)[^21] Ha a megváltozott munkaképességű munkavállalók egészségkárosodása vagy fogyatékossága miatt, a munkavégzésükhöz segítő személy közreműködése szükséges, a munkáltató részére támogatás nyújtható olyan, vele munkaviszonyban álló munkavállaló vagy megváltozott munkaképességű munkavállaló foglalkoztatásával összefüggésben felmerülő költségekhez, akinek tevékenysége a megváltozott munkaképességű munkavállaló munkaköri feladatainak ellátásához, az egyes munkafázisokhoz, munkafolyamatokhoz közvetlenül kapcsolódik. A támogatás nyújtására a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásról szóló 177/2005. (IX. 2.) Korm. rendelet (a továbbiakban: R.) szabályait kell alkalmazni a (2)–(6) bekezdésben foglaltak figyelembevételével
+13. § (1)[^27] Ha a megváltozott munkaképességű munkavállalók egészségkárosodása vagy fogyatékossága miatt, a munkavégzésükhöz segítő személy közreműködése szükséges, a munkáltató részére támogatás nyújtható olyan, vele munkaviszonyban álló munkavállaló vagy megváltozott munkaképességű munkavállaló foglalkoztatásával összefüggésben felmerülő költségekhez, akinek tevékenysége a megváltozott munkaképességű munkavállaló munkaköri feladatainak ellátásához, az egyes munkafázisokhoz, munkafolyamatokhoz közvetlenül kapcsolódik. A támogatás nyújtására a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásról szóló 177/2005. (IX. 2.) Korm. rendelet (a továbbiakban: R.) szabályait kell alkalmazni a (2)–(6) bekezdésben foglaltak figyelembevételével
 
 (2) Az (1) bekezdésben meghatározott támogatás keretében a munkáltató részére megtéríthető a segítő tevékenység időtartamára járó munkabér és járulékainak együttes összege. A támogatás havonta nem haladhatja meg a tárgyévet megelőző második évre vonatkozó – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó átlagkereset egy tizenketted részének 80 százalékát.
 
@@ -22,10 +22,10 @@ a) a segített megváltozott munkaképességű személy(ek) nevét,
 
 b) az elvégzett feladatok megnevezését, a segítő tevékenységre fordított időtartamot.
 
-(6)[^22] A támogatás nyújtására az R. szabályait azzal az eltéréssel kell alkalmazni, hogy a támogatás nyújtásának nem feltétele az akkreditációs tanúsítvány megléte.
+(6)[^28] A támogatás nyújtására az R. szabályait azzal az eltéréssel kell alkalmazni, hogy a támogatás nyújtásának nem feltétele az akkreditációs tanúsítvány megléte.
 
-(7)[^23] A támogatás akkor nyújtható, ha a munkaadó által munkaviszony keretében foglalkoztatott megváltozott munkaképességű munkavállaló foglalkoztatására a munkavállaló meglévő képességeinek megfelelő, a munkaképesség változás mértékét figyelembe vevő munkakörben kerül sor.
+(7)[^29] A támogatás akkor nyújtható, ha a munkaadó által munkaviszony keretében foglalkoztatott megváltozott munkaképességű munkavállaló foglalkoztatására a munkavállaló meglévő képességeinek megfelelő, a munkaképesség változás mértékét figyelembe vevő munkakörben kerül sor.
 
-[^21]: A 13. § (1) bekezdése a 359/2009. (XII. 30.) Korm. rendelet 9. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^22]: A 13. § (6) bekezdését a 359/2009. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
-[^23]: A 13. § (7) bekezdését a 359/2009. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
+[^27]: A 13. § (1) bekezdése a 359/2009. (XII. 30.) Korm. rendelet 9. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 13. § (6) bekezdését a 359/2009. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
+[^29]: A 13. § (7) bekezdését a 359/2009. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
