@@ -1,0 +1,3 @@
+## 8. § Az R. 9. § helyébe a következő rendelkezés lép:
+
+## „9. § A működési engedéllyel rendelkező és a bejelentési kötelezettség alapján működő vállalkozó a tevékenységét csak az SzVMt. 8. § (5) bekezdésében meghatározott napló általános rendőri feladatok ellátására létrehozott szerv általi hitelesítését követően kezdheti meg. Ha a napló betelik, eltűnik, megsemmisül vagy ellopják, a vállalkozás – nyilvántartásra vonatkozó kötelezettségének folyamatos teljesítése mellett – köteles új napló hitelesíttetéséről gondoskodni. A betelt naplót az általános rendőri feladatok ellátására létrehozott szerv általi záradékkal történő ellátást követő öt évig – állaga megóvásával – a vállalkozó köteles megőrizni.”
