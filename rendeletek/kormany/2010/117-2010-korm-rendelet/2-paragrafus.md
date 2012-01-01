@@ -1,0 +1,1 @@
+## „(4) A (3) bekezdés c)–e) pontjai alapján adható többletpontok összege legfeljebb 100 pont lehet. A jelentkező abban az esetben is csak 100 pontra jogosult, ha a különböző jogcímek alapján elért többletpontjainak az összege ezt meghaladná.”
