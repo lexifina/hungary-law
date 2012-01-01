@@ -1,0 +1,7 @@
+7. § (1) Támogatásra az 1. § b) pontjában meghatározott egyházi fenntartású intézmény az egyházon és az egyházi fenntartón keresztül jogosult. A támogatás folyósítása és elszámolása tekintetében a Nemzeti Erőforrás Minisztérium támogatási szerződést köt az egyházak közcélú tevékenységet ellátó intézményeit fenntartó egyházakkal. A támogatási összeget a Nemzeti Erőforrás Minisztérium a nyilvántartott egyházak által benyújtott igények arányában osztja fel.
+
+(2) Az 1. § b) pontjában meghatározott egyházak részére a 2012. évi bérkompenzáció összegéből előzetes hozzájárulásként 4000,0 millió Ft kerül átadásra, a Közigazgatási és Igazságügyi Minisztérium által februárban felmért és elfogadott igények alapján, amely összeget a Nemzeti Erőforrás Minisztérium a nyilvántartott egyházak között oszt fel.
+
+(3) Az e rendelet alapján járó 2012. évi kompenzáció és annak járulékai kifizetéséhez a Nemzeti Erőforrás Minisztérium – előzetes hozzájárulásként – 4000,0 millió Ft támogatást nyújt a kompenzáció kifizetésében érintett egyházak részére. A támogatás nyújtásának feltétele az egyházi fenntartású közfeladatot ellátó egészségügyi, oktatási, szociális, valamint közgyűjteményi és közművelődési szolgáltatást nyújtó intézményeknél foglalkoztatottak 2011. évi kompenzációjáról szóló 164/2011. (VIII. 24.) Korm. rendelet alapján kapott támogatással történő elszámolás és annak elfogadása.
+
+(4) A támogatásnak a Nemzeti Erőforrás Minisztérium rendelkezésére bocsátásáról a Kormány határozatban intézkedik.
