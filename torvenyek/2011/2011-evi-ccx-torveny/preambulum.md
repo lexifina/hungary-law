@@ -1,0 +1,1 @@
+Az Országgyűlés megerősítve nemzetközi jogi elkötelezettségét, miszerint a nemzetközi jogban legsúlyosabban minősülő bűncselekményeket elévülhetetlennek tekinti, valamint a kommunista diktatúrában elkövetett és üldözetlenül maradt egyes bűncselekmények büntethetősége érdekében, a következő törvényt alkotja:

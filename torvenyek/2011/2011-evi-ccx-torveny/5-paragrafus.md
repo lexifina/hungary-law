@@ -1,0 +1,1 @@
+5. § Az elkövetéskor hatályos magyar büntető törvény elévülésre vonatkozó rendelkezéseire és a 4. §-ban foglaltakra tekintet nélkül nem évül el annak a kommunista diktatúrában elkövetett bűncselekménynek a büntethetősége, amely a nemzetközi jog szerint el nem évülő bűncselekmény.
