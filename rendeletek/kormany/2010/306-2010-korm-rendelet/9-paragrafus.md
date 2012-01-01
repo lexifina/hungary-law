@@ -2,9 +2,9 @@
 
 ## 6. A levegőterheltségi szint vizsgálata
 
-9. § (1) A Magyar Köztársaság területén a levegőterheltségi szintet és a légszennyezettségi határértékek betartását az Országos Légszennyezettségi Mérőhálózat (a továbbiakban: OLM) vizsgálja.
+9. § (1)[^3] Magyarország területén a levegőterheltségi szintet és a légszennyezettségi határértékek betartását az Országos Légszennyezettségi Mérőhálózat (a továbbiakban: OLM) vizsgálja.
 
-(2) A Magyar Köztársaság területén
+(2)[^4] Magyarország területén
 
 a) az OLM mérési rendszereinek (módszerek, berendezések, hálózatok) jóváhagyását,
 
@@ -25,3 +25,6 @@ a Levegőtisztaság-védelmi Referenciaközpont látja el.
 (5) A levegőterheltségi szintet átlagértékek mutatják be. A tájékoztatás szennyezőanyagonként a határértékeket, a célértékeket, a tájékoztatási és riasztási küszöbértékeket, és a túllépéseket, továbbá az egyes légszennyező anyagok emberi egészségre, illetve a természetes környezetre gyakorolt hatásait tartalmazza.
 
 (6) A kén-dioxid, a nitrogén-dioxid, a PM10, PM2,5, az ózon és a szén-monoxid által okozott levegőterheltségi szint adatait legalább napi, az ólom és a benzol által okozott levegőterheltségi szint – 12 hónap átlagértékeinek formájában megadott – adatai legalább háromhavi frissítéssel kerülnek közzétételre.
+
+[^3]: A 9. § (1) bekezdése a 322/2011. (XII. 27.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^4]: A 9. § (2) bekezdés nyitó szövegrésze a 322/2011. (XII. 27.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

@@ -50,7 +50,7 @@ b) a terhelhetőség 20%-ánál nagyobb;
 
 20. légszennyezettségi határérték: az emberi egészségre, illetve az ökológiai rendszerre gyakorolt káros hatások elkerülése, megelőzése vagy csökkentése céljából, a tudományos ismeretek alapján meghatározott levegőterheltségi szint, amelyet jogszabályban vagy hatósági határozatban előírt időtartamon belül el kell érni, és elérése után nem szabad túllépni;
 
-21. légszennyezettségi zóna: a levegőminőség vizsgálatának és kezelésének céljából a Magyar Köztársaság területének jogszabály által lehatárolt része;
+21.[^1] légszennyezettségi zóna: a levegőminőség vizsgálatának és kezelésének céljából Magyarország területének jogszabály által lehatárolt része;
 
 22. légszennyező anyag: a levegőben lévő és az emberi egészségre vagy a környezet egészére valószínűsíthetően káros hatást gyakorló anyag;
 
@@ -70,7 +70,7 @@ b) a terhelhetőség 20%-ánál nagyobb;
 
 30. mozgó légszennyező forrás: a levegőterhelést okozó közúti, vasúti, vízi és légi jármű, továbbá a nem közúti mozgó gép;
 
-31. nemzeti expozíciócsökkentési cél: a Magyar Köztársaság lakossága átlagos expozíciócsökkentésének százalékos értéke, amelyet a referenciaévre vonatkoztatva az emberi egészségre gyakorolt káros hatások csökkentésének céljából kerül meghatározásra, és amelyet – amennyiben lehetséges – adott időtartamon belül kell teljesíteni;
+31.[^2] nemzeti expozíciócsökkentési cél: Magyarország lakossága átlagos expozíciócsökkentésének százalékos értéke, amelyet a referenciaévre vonatkoztatva az emberi egészségre gyakorolt káros hatások csökkentésének céljából kerül meghatározásra, és amelyet – amennyiben lehetséges – adott időtartamon belül kell teljesíteni;
 
 32. nitrogén-oxidok: a nitrogén-monoxid és nitrogén-dioxid térfogati keverési arányának (ppbv) a nitrogén-dioxid tömegkoncentrációjának egységeiben kifejezett (μg/m3) összege;
 
@@ -99,3 +99,6 @@ b) a terhelhetőség 20%-ánál nagyobb;
 44. vizsgálat: a levegőterheltségi szint mérésére, számítására, modellezésére, előrejelzésére vagy becslésére használt módszerek alkalmazása;
 
 45. vonalforrás: a nyomvonalas közlekedési létesítmény (közút, vasút) vagy annak vizsgált szakasza, amelynél az elhaladó járművek jellemzői határozzák meg az egységnyi szakaszból származó légszennyező anyag kibocsátott mennyiségét.
+
+[^1]: A 2. § 21. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 31. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
