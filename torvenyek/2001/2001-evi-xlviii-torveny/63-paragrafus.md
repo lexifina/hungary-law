@@ -8,4 +8,4 @@
 
 (2) A mintaoltalmi perekre a szabadalmi perek szabályait kell megfelelően alkalmazni.
 
-(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a megyei bíróság (Fővárosi Bíróság) a szabadalmi jogvitákra irányadó szabályok megfelelő alkalmazásával jár el.
+(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a törvényszék a szabadalmi jogvitákra irányadó szabályok megfelelő alkalmazásával jár el.

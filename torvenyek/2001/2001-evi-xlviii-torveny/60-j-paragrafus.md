@@ -1,5 +1,5 @@
 ## A Szellemi Tulajdon Nemzeti Hivatala útján benyújtott nemzetközi ipari mintaoltalmi bejelentések
 
-60/J. § (1) A Szellemi Tulajdon Nemzeti Hivatala azokkal a nemzetközi ipari mintaoltalmi bejelentésekkel kapcsolatban jár el a Megállapodás szerinti továbbítás érdekében, amelyekben a bejelentő szerződő államaként a Magyar Köztársaságot tüntették fel.
+60/J. § (1) A Szellemi Tulajdon Nemzeti Hivatala azokkal a nemzetközi ipari mintaoltalmi bejelentésekkel kapcsolatban jár el a Megállapodás szerinti továbbítás érdekében, amelyekben a bejelentő szerződő államaként Magyarországot tüntették fel.
 
 (2) A nemzetközi ipari mintaoltalmi bejelentés továbbításáért a Szellemi Tulajdon Nemzeti Hivatalához külön jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi ipari mintaoltalmi bejelentéssel kapcsolatban a Megállapodásban meghatározott díjat kell fizetni a Megállapodásban előírt határidőn belül és az ott megszabott módon.
