@@ -14,7 +14,7 @@
 
 (7) Az Itv. e törvény 36. §-ával, továbbá az Szja tv. e törvény 37. §-ával megállapított rendelkezéseit az otthonvédelemmel összefüggő egyes törvények módosításáról szóló törvény hatálybalépésének napjától kell alkalmazni.
 
-(8) Hatályát veszti a Szülőföld Alapról szóló 2005. évi II. törvény módosításáról szóló 2006. évi CXXXIV. törvény.
+(8)
 
 (9)
 
