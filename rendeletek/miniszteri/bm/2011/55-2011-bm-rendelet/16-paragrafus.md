@@ -1,1 +1,3 @@
-## 15. § Hatályát veszti a vállalkozás keretében végzett személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól, a Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamaráról szóló törvény végrehajtásáról szóló 24/1998. (VI. 9.) BM rendelet.
+## 1–15. §[^2]
+
+[^2]: Az 1–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
