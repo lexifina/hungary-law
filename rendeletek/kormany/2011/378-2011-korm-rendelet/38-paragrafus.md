@@ -1,1 +1,0 @@
-## „(9) A földgázelosztó kizárólag a neki felróható okból történő jogellenes kikapcsolásból eredő károkért felel, köteles a földgázelosztó üzletszabályzatában meghatározott kötbért a felhasználónak megfizetni.”

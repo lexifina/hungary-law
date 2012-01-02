@@ -1,3 +1,0 @@
-## 58. § A Get. Vhr. 73/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A felhasználási hely tulajdonosa a felhasználási helyet bérlőnek vagy egyéb jogcímen használónak a kapacitás lekötés jogát átadhatja, amennyiben nincs lejárt számlatartozása a kereskedő vagy a rendszerüzemeltető felé. Az átadásról írásban nyilatkoznia kell a kereskedő vagy GET 71. § (4) bekezdése szerinti nyilvántartást vezető rendszerüzemeltető felé. Írásbeli nyilatkozat hiányában a felhasználási hely új használójának ellátására kereskedelmi szerződés nem köthető, a kapacitás lekötés jogával csak a felhasználási hely tulajdonosa rendelkezhet.”

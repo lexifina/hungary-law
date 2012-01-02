@@ -1,1 +1,0 @@
-## „(4) A szerződéses biztosíték összegének fedezetet kell nyújtania a leghidegebb téli hónap tervezett szállításának, illetve elosztásának megfelelő forgalmi díjra és az éves kapacitásdíj 1/12-ed részére. A rendszerüzemeltető köteles a szerződéses biztosíték összegének módosítását elfogadni, ha a szerződés módosítására kereskedőváltás miatt kerül sor.”

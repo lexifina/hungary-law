@@ -1,1 +1,0 @@
-## „11. próbaüzem: az üzembe helyezés utolsó szakasza, amelynek célja annak igazolása, hogy az erőműegység a jogszabályokban, a hatósági határozatokban és a villamosenergia-ellátási szabályzatokban foglalt, folyamatos és rendeltetésszerű üzemeltetésre vonatkozó követelményeknek üzemelés közben megfelel;”

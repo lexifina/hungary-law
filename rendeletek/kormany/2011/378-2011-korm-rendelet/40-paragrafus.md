@@ -1,3 +1,3 @@
-## 39. §[^1]
+## 39. §[^3]
 
-[^1]: A 39. § a 85. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.
+[^3]: A 39. § az 53/2012. (III. 28.) Korm. rendelet 49. §-a alapján nem lép hatályba.
