@@ -1,1 +1,0 @@
-## 9. § Az R2. 3. § (1) bekezdésében az „a Kt. 43/A. §-ában foglaltak értelmében az energiapolitikáért felelős miniszter kijelölése alapján az Energia Központ Nonprofit Kft.” szövegrész helyébe a „Hivatal” szöveg lép.
