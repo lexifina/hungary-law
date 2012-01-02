@@ -1,7 +1,0 @@
-40. § A NAV tv. a következő 98/B. §-sal egészül ki:
-
-„98/B. § (1) A NAV személyi állományába tartozó azon kormánytisztviselőket és pénzügyőröket, akiknek az illetménye a 94. § alapján került megállapításra, a munkáltatói jogkör gyakorlója 2012. január 1-jei hatállyal 2012. január 31-ig besorolja az e törvénynek a NAV Mód. tv. 15. § és 16. §-ával módosított, illetve megállapított 20–20/A. §-a alapján. Az így besorolt kormánytisztviselő és pénzügyőr illetményét a besorolással egyidejűleg a munkáltatói jogkör gyakorlója állapítja meg e törvény 2012. január 1-jén hatályos rendelkezései alapján azzal, hogy az így megállapított – pótlékok nélkül számított – illetmény nem lehet kevesebb, mint a kormánytisztviselő, illetve a pénzügyőr 2011. december 31-én hatályos szabályok alapján megállapított – pótlékok nélkül számított – illetménye.
-
-(2) A NAV-nál 2012. január 1-jén vezető munkakört/beosztást betöltők illetményét – ide nem értve az elnököt, elnökhelyetteseket és szakfőigazgatókat – a kinevezésre jogosult e törvénynek a NAV Mód. tv. 17. §-ával megállapított 22. §-a alapján 2012. január 31-ig állapítja meg 2012. január 1-jei hatállyal azzal, hogy az így megállapított illetmény nem lehet kevesebb, mint a vezető 2011. december 31-én hatályos szabályok alapján megállapított illetménye.
-
-(3) Az (2) bekezdésben foglaltakat megfelelően alkalmazni kell azokra a nem vezető munkakört/beosztást betöltőkre, akiknek az illetményét részben a vezetőkre vonatkozó rendelkezések alapján kell megállapítani.”

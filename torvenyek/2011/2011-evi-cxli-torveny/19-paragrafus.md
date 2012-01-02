@@ -1,7 +1,0 @@
-19. § A NAV tv. 25. §-a helyébe a következő rendelkezés lép:
-
-„25. § (1) A NAV elnökének előzetes jóváhagyásával a munkáltatói jogkör gyakorlója át nem ruházható hatáskörében, a megállapított személyi juttatások előirányzatán belül a tárgyévet megelőző év szakmai munkája alapján – ide nem értve, ha a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő kinevezése év közben történik, vagy áthelyezésére kerül sor – a tárgyévre vonatkozóan a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő besorolása szerinti alapilletményét, illetve beosztási illetményét december 31-éig terjedő időszakra legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a munkáltatói jogkör gyakorlója minden év január 31-éig dönt.
-
-(2) Az (1) bekezdés szerint megállapított eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő, pénzügyőr, ügykezelő vezetői kinevezést kap vagy azt tőle visszavonják, illetve címadományozásra vagy annak visszavonására, vagy a kormánytisztviselő Ktv. 26. § (2) bekezdés szerinti átsorolására kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint az e törvény alapján az eltérítés nélkül meghatározott összeg.
-
-(3) Az (1) bekezdés alapján megállapított havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.”

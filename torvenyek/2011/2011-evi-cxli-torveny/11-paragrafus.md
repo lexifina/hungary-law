@@ -1,3 +1,0 @@
-11. § A NAV tv. a következő 17/G. §-sal egészül ki:
-
-„17/G. § Nincs helye szolgálati panasznak a szolgálati viszony megszüntetésére vonatkozó, az összeférhetetlenség megállapításával kapcsolatos, valamint a szolgálati viszony egyoldalú módosításáról szóló munkáltatói intézkedéssel szemben. A sérelmezett munkáltatói döntést a pénzügyőr a döntés közlésétől számított 30 napon belül bíróság előtt keresettel támadhatja meg.”
