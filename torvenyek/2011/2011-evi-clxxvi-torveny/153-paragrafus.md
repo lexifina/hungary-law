@@ -2,14 +2,10 @@
 
 a)
 
-b) 2/C. § (2) bekezdésében az „a pályázathoz” szövegrész,
-
-c) 4/A. § (2) bekezdése,
-
-d) 5. § (3) bekezdésében az „egészségügyi szolgáltató székhelye szerint illetékes” szövegrész,
+b)–d)
 
 e)
 
-f) 14. § (1) bekezdése,
+f)
 
-g) 4. számú melléklete.”
+g)

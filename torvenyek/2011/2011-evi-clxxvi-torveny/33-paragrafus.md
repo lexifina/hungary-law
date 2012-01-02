@@ -1,3 +1,0 @@
-33. § Az Ebtv. a következő 81/A. §-sal egészül ki:
-
-„81/A. § Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcsere körébe tartozó, az egészségbiztosító által e törvény szerint kezelt személyes és különleges adatokat.”
