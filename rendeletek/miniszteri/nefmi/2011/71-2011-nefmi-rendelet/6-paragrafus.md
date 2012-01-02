@@ -1,3 +1,5 @@
-## 5. § Az R. 12. számú melléklete helyébe a 2. melléklet lép.
+## 4–5. §[^1]
 
 ## 5. Záró rendelkezések
+
+[^1]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
