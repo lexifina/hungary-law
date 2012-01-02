@@ -1,3 +1,0 @@
-## 12. § A közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének ellenőrzéséről szóló 66/2007. (IV. 4.) Korm. rendelet 3. § (1) bekezdés b) pontjában az „az Országos Munkavédelmi és Munkaügyi Főfelügyelőség területi munkaügyi felügyelősége (a továbbiakban: munkaügyi hatóság)” szövegrész helyébe az „a munkaügyi hatóság” szöveg lép.
-
-## 13. A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet módosítása

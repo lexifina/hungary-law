@@ -1,3 +1,0 @@
-## 31. § A költségvetési bevételek és kiadások 2012–2013. évi tervezett összegéről, valamint a Kormány irányítási és felügyeleti jogkörébe tartozó költségvetési fejezetek 2012–2014. évekre vonatkozó kötelezettségvállalási korlátairól szóló 129/2011. (VII. 18.) Korm. rendelet 1. mellékletében a „Munkaerőpiaci Alap” szövegrész helyébe a „Nemzeti Foglalkoztatási Alap” szöveg lép.
-
-## 32. A megyei (fővárosi) kormányhivatal munkaügyi központjának az EU Kék Kártya kiadásával kapcsolatos szakhatósági állásfoglalása kialakításának szabályairól, valamint egyes migrációs tárgyú és egyéb kormányrendeletek módosításáról szóló 168/2011. (VIII. 24.) Korm. rendelet módosítása
