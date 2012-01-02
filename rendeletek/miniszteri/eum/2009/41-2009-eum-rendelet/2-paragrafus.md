@@ -1,3 +1,0 @@
-## 1. § Az anyatej-helyettesítő és anyatej-kiegészítő tápszerről szóló 20/2008. (V. 14.) EüM rendelet (a továbbiakban: R.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) E rendelet alkalmazása során az élelmiszerekkel kapcsolatos, tápanyag-összetételre és egészségre vonatkozó állításokról szóló, 2006. december 20-i 1924/2006/EK európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdésének 1., 4., 5. és 6. pontjában előírt „állítás”, „tápanyag-összetételre vonatkozó állítás”, „egészségre vonatkozó állítás” és „betegségek kockázatának csökkentésével kapcsolatos állítás” fogalommeghatározásokat kell alkalmazni.”
