@@ -1,1 +1,0 @@
-## „g) az iktatási, nyilvántartási fegyelmet, az iktatókönyvek hitelességét, a küldemények útjának pontos nyomon követhetőségét, a hivatali bélyegzők és a hivatalos célra felhasználható elektronikus aláírások nyilvántartásának és használatának rendjét, az irategység elvének érvényesülését;”
