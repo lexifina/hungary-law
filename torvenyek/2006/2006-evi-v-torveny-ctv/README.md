@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2011-07-27 | 2011. évi CII. törvény | 2006-5-00-00.30 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2006-5-00-00.31 |
 | 2012-01-01 | 2011. évi CLVI. törvény | 2006-5-00-00.32 |
+| 2012-01-02 | 2011. évi CXCVII. törvény | 2006-5-00-00.33 |
