@@ -1,3 +1,1 @@
-1. § A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) E törvény I. fejezetét és II. fejezetének 1., 2. és 4. címét kell alkalmazni a mozgóképszakmai célok megvalósulását szolgáló támogatásokra, ha azok forrása a központi költségvetésben, helyi vagy kisebbségi önkormányzat költségvetésében meghatározott előirányzat, vagy ha a támogatást a Kormány, a helyi vagy kisebbségi önkormányzat által alapított alapítvány vagy közalapítvány nyújtja, valamint a Nemzeti Kulturális Alap által nyújtott mozgóképszakmai támogatásokra.”
+1–8. §
