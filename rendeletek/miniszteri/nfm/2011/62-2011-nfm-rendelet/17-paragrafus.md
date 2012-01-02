@@ -1,3 +1,3 @@
-## 16. § Az ER. 1. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az ER. 21. § (8) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az ER. A. Függelék 3. cikk 29. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az ER. A. Függelék 3. cikk 30. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az ER. A. Függelék 20. cikk (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+## 16. §[^3]
 
-## az ER. C. Függelék 2. Cikk r) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az ER. C. Függelék 2. Cikk s) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az ER. C. Függelék 6. Cikk (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg, az ER. C. Függelék 19. Cikk (2) bekezdésében az „a Magyar Köztársaságot” szövegrész helyébe a „Magyarországot” szöveg lép.
+[^3]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

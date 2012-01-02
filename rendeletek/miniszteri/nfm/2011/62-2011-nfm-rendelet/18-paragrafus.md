@@ -1,4 +1,4 @@
-## 17. §[^2]
+## 17. §[^4]
 
 18. § (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -24,4 +24,4 @@ g) a Bizottság 109/2011/EU rendelete (2011. január 27.) a 661/2009/EK európai
 
 h) az Európai Parlament és a Tanács 510/2011/EU rendelete ( 2011. május 11. ) az új könnyű haszongépjárművekre vonatkozó kibocsátási követelményeknek a könnyű haszongépjárművek CO2-kibocsátásának csökkentésére irányuló uniós integrált megközelítés keretében történő meghatározásáról.
 
-[^2]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
