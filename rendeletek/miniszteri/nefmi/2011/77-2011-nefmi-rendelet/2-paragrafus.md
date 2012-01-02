@@ -1,3 +1,3 @@
-## 1. § A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet (a továbbiakban: NMr.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-## „(3) A (2) bekezdésben felsorolt személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézményekben magasabb vezetői, vezetői beosztást betöltő személy a megbízást követő két éven belül köteles a szociális szakvizsgát letenni. E határidőt követően szociális szakvizsgával nem rendelkező személy magasabb vezetői, vezetői beosztásban nem foglalkoztatható.”
+[^3]: Az 1–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 4. § Az NMr. 40. §-a a következő (8) bekezdéssel egészül ki:
+5. §[^6]
 
-## „(8) A bölcsődei csoportszoba hasznos alapterülete gyermekenként legalább 3 négyzetméter.”
+[^6]: Az 1–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

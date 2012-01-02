@@ -1,9 +1,3 @@
-## 6. § Az NMr. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-## „(1) Az állandó segítő közreműködik a családi napközi szolgáltatást nyújtó személy irányítása alapján a naponta rendszeresen előforduló tevékenységekben. Ha a családi napközi nyitvatartási ideje a napi 5 órát
-
-## a) meghaladja, legalább heti 30 órában,
-
-## b) nem haladja meg, legalább heti 15 órában
-
-## kell az állandó segítőnek rendelkezésre állnia.”
+[^8]: Az 1–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

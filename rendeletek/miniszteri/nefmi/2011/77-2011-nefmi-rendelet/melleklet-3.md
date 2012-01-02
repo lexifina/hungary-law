@@ -1,7 +1,3 @@
-## Az NMr 2. számú melléklet II. Rész „I. Alapellátások" címe a következő 4/a. ponttal egészül ki:
+3. melléklet a 77/2011. (XII. 30.) NEFMI rendelethez[^22]
 
-| (Ellátási forma | Intézményi munkakör | Képesítés) |
-
-| „4/a. Alternatív napközbeni ellátás |  | felsőfokú szociális alapvégzettség, pszichológus, pszichopedagógus, gyógypedagógus, pedagógus vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: óvodapedagógus, csecsemő- és kisgyermeknevelő (BA), tanító, tanár, nevelőtanár, pedagógia szakos nevelő, pedagógiai előadó, pedagógia alapszakos bölcsész, viselkedéselemző, gyógypedagógus, védőnő, teológus, hittanár, hittantanár, hittanár-nevelő vagy gyermekotthoni asszisztens (OKJ), gyermek- és ifjúsági felügyelő I. (OKJ), gyógypedagógiai asszisztens (OKJ), mentálhigiénés asszisztens (OKJ), pedagógiai asszisztens (OKJ), szociális asszisztens (OKJ) vagy gyermek- és ifjúsági felügyelő II. (OKJ), dajka (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ), óvodai dajka (OKJ) vagy bölcsődei szakgondozó (OKJ), csecsemő- és kisgyermekgondozó (OKJ), csecsemő- és kisgyermeknevelő-gondozó (OKJ) csecsemő- és gyermeknevelő-gondozó (OKJ), kisgyermekgondozó, -nevelő (OKJ) vagy csecsemő- és gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő II. (OKJ), pedagógiai asszisztens (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ) vagy szociális asszisztens (OKJ), pedagógiai asszisztens (OKJ), gyógypedagógus asszisztens (OKJ), mentálhigiénés asszisztens (OKJ), szociális, gyermek- és ifjúságvédelmi ügyintéző (OKJ) vagy népművelő-művelődésszervező” |
-
-3. melléklet a 77/2011. (XII. 30.) NEFMI rendelethez
+[^22]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

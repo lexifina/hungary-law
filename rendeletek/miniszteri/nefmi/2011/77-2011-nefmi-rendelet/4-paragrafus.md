@@ -1,3 +1,3 @@
-## 3. § Az NMr. 4/A. §-a a következő (2a) bekezdéssel egészül ki:
+4. §[^5]
 
-## „(2a) A nem hálózatban működtetett családi napközi és családi gyermekfelügyelet, valamint egyszemélyes gyermekjóléti szolgáltatás és alternatív napközbeni ellátás esetén nem kötelező szervezeti és működési szabályzatot készíteni.”
+[^5]: Az 1–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
