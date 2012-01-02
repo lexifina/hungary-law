@@ -1,3 +1,0 @@
-4. § Az Üsztv. 95. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Ahol jelen törvény a „nyugdíjas”, „nyugdíjasnak minősül”, „öregségi nyugdíjra jogosult”, „öregségi nyugdíjra való jogosultság”, „rokkantsági (baleseti rokkantsági) nyugdíjban részesül” kifejezést használja, e fogalmak tekintetében a Munka Törvénykönyve 87/A. §-át kell alkalmazni azzal, hogy a legfőbb ügyész helyettes és az ügyész esetében e fogalmakat a felső korhatárt be nem töltött személyre kell alkalmazni. Nyugdíjasnak minősül az ügyészségi titkár, fogalmazó, nyomozó, továbbá a tisztviselő, írnok és fizikai alkalmazott, valamint a felső korhatárt be nem töltött legfőbb ügyész helyettes és ügyész abban az esetben is, ha felmentését a Tny. 18. § (2a) bekezdésére hivatkozással maga kéri.”
