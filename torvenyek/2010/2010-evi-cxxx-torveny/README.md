@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-130-00-00
 | 2011-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-130-00-00.2 |
 | 2011-04-16 | 2011. évi XXXVIII. törvény | 2010-130-00-00.3 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2010-130-00-00.4 |
+| 2012-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-130-00-00.5 |
