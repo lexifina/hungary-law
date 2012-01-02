@@ -35,31 +35,3 @@
 | 1523 | Vádképviseleti Informatikai Rendszer | (1) Az eljáró nyomozó hatóság, ügyészség(ek), bíróság(ok) megnevezése (2) Az eljárás jellemző időpontjai (3) A vádlott előélete, cselekményei (4) A vádemelés módja (5) A tárgyalás előkészítése során hozott döntések (6) Kényszerintézkedések az eljárás egyes meghatározó időpontjaiban (7) Bírósági döntések és az alkalmazott büntetések, intézkedések fajtái (8) Ügyészi nyilatkozatok, ezek tartalma és alakulása |
 
 9. melléklet a 243/2011. (XI. 22.) Korm. rendelethez
-
-Országos Statisztikai Adatgyűjtési Program
-
-Adatgyűjtések és Adatátvételek
-
-Típus: AGY = adatgyűjtés AÁ, adatátvétel
-
-| Adatgyűjtés - Adatátvétel | Az adatszolgáltatás beérkezési határideje | Irányadó uniós jogi aktus |
-
-| nyilván- tartási száma | címe | típusa | gyakorisága | adatszolgáltatóinak meghatározása |
-
-| Magyar Nemzeti Bank |  |  |  |  |  |
-
-| 2183 | Áruforgalom havi adatszolgáltatása (R32) | AÁ | Havonkénti | Központi Statisztikai Hivatal | az adatok közzétételének napja | 184/2005/EK Rendelet |
-
-| 2184 | Idegenforgalmi adatok negyedéves adatszolgáltatása (R33) | AÁ | Negyedévenkénti | Központi Statisztikai Hivatal | a tárgyidőszakot követő 60. nap | 184/2005/EK Rendelet |
-
-| 2185 | Szolgáltatások negyedéves adatszolgáltatása (R34) | AÁ | Negyedévenkénti | Központi Statisztikai Hivatal | a tárgyidőszakot követő 60. nap | 184/2005/EK Rendelet |
-
-| 2186 | A nemzeti számlákban elszámolt EU-transzferek havi alakulásáról (R35) | AÁ | Havonkénti | Központi Statisztikai Hivatal | a tárgyidőszakot követő 38. nap | 184/2005/EK Rendelet |
-
-| 2187 | Viszonzatlan folyó- és tőkeátutalások, munkavállalói jövedelmek negyedéves adatszolgáltatása (R36) | AÁ | Negyedévenkénti | Központi Statisztikai Hivatal | a tárgyidőszakot követő 60. nap | 184/2005/EK Rendelet |
-
-| 2188 | Külföldiek közvetlen tőkebefektetései Magyarországon „csak TÁSA” rész adatszolgáltatása (R37) | AÁ | Évenkénti | Központi Statisztikai Hivatal | a tárgyévet követő augusztus 31. | 184/2005/EK Rendelet |
-
-Országos Statisztikai Adatgyűjtési Program
-
-Adatkörök
