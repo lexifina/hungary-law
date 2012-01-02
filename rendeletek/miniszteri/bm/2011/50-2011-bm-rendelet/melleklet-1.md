@@ -1,6 +1,4 @@
-## 19. § Az Országos Tűzvédelmi Szabályzatról szóló 28/2011. (IX. 6.) BM rendelet 288. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „288. § (1) Az építmények építészeti-műszaki tervezése során a tűzvédelmi műszaki kialakítást jogszabályban meghatározott esetben tűzvédelmi műszaki leírásba, tűzvédelmi dokumentációba kell foglalni. A tűzvédelmi tervfejezet készítése szaktevékenység, így megfelelő szakmai ismeretek birtokában végezhető.”
+## 19. §[^2]
 
 1. melléklet az 50/2011. (XII. 20.) BM rendelethez
 
@@ -79,3 +77,5 @@ zz A tűzvédelmi hatóságok számozása
 20 Zala Megyei Katasztrófavédelmi Igazgatóság
 
 21 BM Országos Katasztrófavédelmi Főigazgatóság
+
+[^2]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
