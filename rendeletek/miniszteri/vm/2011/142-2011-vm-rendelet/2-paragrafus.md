@@ -1,3 +1,0 @@
-## 1. § A fertőző szivacsos agyvelőbántalmak megelőzéséről, az ellenük való védekezésről, illetve leküzdésükről szóló 179/2009. (XII. 29.) FVM rendelet (a továbbiakban: R.) 4. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az MgSzH a 999/2001/EK rendelet 6. cikkének (1) bekezdése és III. számú melléklete alapján a rendes vágással levágott szarvasmarhák esetén a 2009/719/EK bizottsági határozat figyelembevételével az állatokban előforduló TSE fertőzések felderítésére monitoring rendszert működtet. Az ennek végrehajtásához szükséges részletes szabályokat az 1. számú melléklet tartalmazza.”
