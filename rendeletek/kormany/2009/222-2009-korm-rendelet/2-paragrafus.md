@@ -12,7 +12,7 @@ d) illesztő felület: két vagy több informatikai rendszer, alrendszer olyan k
 
 e) KR boríték: a központi rendszerben továbbított üzenetek címzésének és védelmének eszköze, amely biztosítja a tartalom megismerhetetlenségét és lehetővé teszi a címzéshez, eljuttatáshoz szükséges adatok kezelését, feldolgozását;
 
-f)[^1] második szintű domain: a j) pont szerinti URL szerkezetben az első szint a pontokkal elválasztott utolsó elem, ettől balra található a második szint, jelen esetben a gov.hu tartomány, amelyben az üzemeltető regisztrál címeket (azaz a harmadik szinten);
+f)[^2] második szintű domain: a j) pont szerinti URL szerkezetben az első szint a pontokkal elválasztott utolsó elem, ettől balra található a második szint, jelen esetben a gov.hu tartomány, amelyben az üzemeltető regisztrál címeket (azaz a harmadik szinten);
 
 g) metaadat: az adatok leírását, tulajdonságaik rögzítését szolgáló adat, információ;
 
@@ -30,7 +30,7 @@ jc) a hálózati port számát, amin az igényelt szolgáltatás elérhető a c�
 
 jd) a fájlhoz vezető elérési utat a célgépen belül;
 
-k)[^2] üzemeltető: e rendeletben kijelölt, a központi rendszer elemeinek létrehozását, fejlesztését és üzemeltetését a működtető irányításával – szükség esetén más szervezetek bevonásával – ellátó szervezet.
+k)[^3] üzemeltető: e rendeletben kijelölt, a központi rendszer elemeinek létrehozását, fejlesztését és üzemeltetését a működtető irányításával – szükség esetén más szervezetek bevonásával – ellátó szervezet.
 
-[^1]: A 2. § f) pontja a 215/2011. (X. 19.) Korm. rendelet 16. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^2]: A 2. § k) pontja a 215/2011. (X. 19.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § f) pontja a 215/2011. (X. 19.) Korm. rendelet 16. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § k) pontja a 215/2011. (X. 19.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.

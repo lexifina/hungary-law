@@ -1,4 +1,4 @@
-5. §[^5] (1) A központi rendszer üzemeltetését az elektronikus fizetési szolgáltatást biztosító alrendszer kivételével a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: üzemeltető) a működtetővel kötött közszolgáltatási szerződés keretében látja el.
+5. §[^6] (1) A központi rendszer üzemeltetését az elektronikus fizetési szolgáltatást biztosító alrendszer kivételével a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: üzemeltető) a működtetővel kötött közszolgáltatási szerződés keretében látja el.
 
 (2) Az üzemeltető a központi rendszer elemeinek fejlesztését és üzemeltetését a működtető irányításával látja el, a miniszter előzetes hozzájárulásával, a feladat jellegének megfelelően költségvetési szervek, illetve megfelelő beszerzési eljárásban kiválasztott vállalkozók közreműködését igénybe veheti.
 
@@ -12,4 +12,4 @@
 
 (7) Az elektronikus fizetési szolgáltatást biztosító alrendszer üzemeltetője a Magyar Államkincstár. Az elektronikus fizetési szolgáltatást biztosító alrendszer üzemeltetője a (2) bekezdés rendelkezései szerint más költségvetési szervek és vállalkozók közreműködését igénybe veheti. Ha jogszabály az üzemeltetőre vonatkozó kötelezettséget állapít meg, úgy az az elektronikus fizetési szolgáltatást biztosító alrendszer e bekezdés szerinti üzemeltetőjére csak akkor irányadó, ha a jogszabály kifejezetten így rendelkezik.
 
-[^5]: Az 5. § a 215/2011. (X. 19.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 5. § a 215/2011. (X. 19.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.

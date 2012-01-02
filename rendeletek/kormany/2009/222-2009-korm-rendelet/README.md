@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-222-20-
 | 2011-01-27 | 2009-222-20-22.5 | 346/2010. (XII. 28.) Korm. rendelet |
 | 2011-10-20 | 2009-222-20-22.6 | 215/2011. (X. 19.) Korm. rendelet |
 | 2012-01-01 | 2009-222-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-01-02 | 2009-222-20-22.8 | 85/2012. (IV. 21.) Korm. rendelet |

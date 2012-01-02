@@ -1,4 +1,4 @@
-## 27. §[^12]
+## 27. §[^13]
 
 ## VI. Fejezet
 
@@ -16,4 +16,4 @@
 
 (6) A 31–32. § 2012. január 2-án hatályát veszti.
 
-[^12]: A 27. §-t a 28. § (4) bekezdése hatályon kívül helyezte.
+[^13]: A 27. §-t a 28. § (4) bekezdése hatályon kívül helyezte.

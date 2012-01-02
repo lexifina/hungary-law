@@ -8,7 +8,7 @@
 
 21. § (1) A központi rendszer részét képező elektronikus kormányzati gerinchálózat (a továbbiakban: EKG), illetőleg az informatikai közháló (a továbbiakban: IKH) alapszolgáltatásként biztosítja a hálózatokhoz csatlakozottak számára az internet-hozzáférést, illetve az elektronikus közszolgáltatást az EKG-n keresztül nyújtók számára a szolgáltatásuk EKG-n keresztüli nyújtásának lehetőségét, elérhetőségét.
 
-(2)[^9] Az üzemeltető
+(2)[^10] Az üzemeltető
 
 a) felügyeli a gov.hu második szintű domaint, amelyben minden kormányzati, közigazgatási szerv külön díjazás nélkül domain-név használati lehetőséget kaphat;
 
@@ -22,4 +22,4 @@ e) az EKG és IKH felhasználóinak a biztonságos működés támogatására fo
 
 (3) Az e szakaszban leírt szolgáltatások külön díjazás nélkül vehetők igénybe.
 
-[^9]: A 21. § (2) bekezdése a 215/2011. (X. 19.) Korm. rendelet 16. § (5) bekezdés c) pontjával megállapított szöveg.
+[^10]: A 21. § (2) bekezdése a 215/2011. (X. 19.) Korm. rendelet 16. § (5) bekezdés c) pontjával megállapított szöveg.
