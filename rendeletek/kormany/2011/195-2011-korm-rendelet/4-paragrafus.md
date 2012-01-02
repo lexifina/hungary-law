@@ -1,3 +1,0 @@
-## 3. § Az R. 4/A. §-a a következő (9) bekezdéssel egészül ki:
-
-## „(9) A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a felszín alatti vizek mennyiségi és minőségi védelmével kapcsolatos szakkérdésében, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.”
