@@ -1,1 +1,3 @@
-## „(1) A Hivatal az általa kiadott engedélyt közli a belügyminiszterrel, a honvédelmi miniszterrel, a Katonai Biztonsági Hivatal és az Alkotmányvédelmi Hivatal főigazgatójával. Az 1. melléklet XXVI. fejezete szerinti titkosszolgálati eszközöket érintő engedélyek esetén a Hivatal az általa kiadott engedélyt közli a Nemzetbiztonsági Szakszolgálat főigazgatójával.”
+## 1–7. §[^1]
+
+[^1]: Az 1–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
