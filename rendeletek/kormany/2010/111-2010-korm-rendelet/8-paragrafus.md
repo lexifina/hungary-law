@@ -16,4 +16,4 @@
 [^18]: A 8. § (2) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^19]: A 8. § (3) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^20]: A 8. § (4) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^21]: A 8. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^21]: A 8. § (5) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 13. § b) pontja, a 324/2011. (XII. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
