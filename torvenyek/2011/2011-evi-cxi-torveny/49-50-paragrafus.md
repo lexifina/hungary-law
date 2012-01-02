@@ -1,0 +1,3 @@
+## 18. Hatályon kívül helyező rendelkezések
+
+### 49–50. §
