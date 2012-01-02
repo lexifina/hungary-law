@@ -1,1 +1,0 @@
-## „(9) A felfüggesztés miatt nem folyósított működési támogatást – ha a szerződést a Hivatal időközben nem mondta fel, vagy a felfüggesztett működési támogatást a folyósító igazgatóság köztartozás fejében nem utalta át az adóhatóságnak – a felfüggesztés okának megszűnését követő harminc napon belül kell folyósítani.”

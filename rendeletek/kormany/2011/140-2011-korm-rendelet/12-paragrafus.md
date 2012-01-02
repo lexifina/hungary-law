@@ -1,1 +1,0 @@
-## „b) a pályázatban vagy az ahhoz csatolt, illetve a finanszírozási szerződés megkötéséhez benyújtott iratokban szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a pályázat nem került volna támogatásra, illetve a finanszírozási szerződés nem került volna megkötésre.”

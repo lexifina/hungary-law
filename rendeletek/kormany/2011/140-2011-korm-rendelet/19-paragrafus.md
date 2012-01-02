@@ -1,3 +1,0 @@
-## 18. § A Gyer. 170. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a külföldön lakó vagy tartózkodó személy által Magyarországon lakó vagy tartózkodó személy ellen tartásdíjigény érvényesítése iránti eljárás indul, és a külföldön lakó vagy tartózkodó személy olyan államnak a polgára, illetve lakóhelye vagy tartózkodási helye olyan államban van, amellyel a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény kerül alkalmazásra, a kérelmet a miniszterhez, mint kijelölt átvevő hatósághoz (a továbbiakban: átvevő hatóság) kell benyújtani.”

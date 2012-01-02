@@ -1,3 +1,0 @@
-## 21. § A gyermekjóléti és gyermekvédelmi szolgáltatótevékenység engedélyezéséről, valamint a gyermekjóléti és gyermekvédelmi vállalkozói engedélyről szóló 259/2002. (XII. 18.) Korm. rendelet (a továbbiakban: Gymr.) 4. §-a a következő (11) bekezdéssel egészül ki:
-
-## „(11) A szakmai programot a módszertani intézmény – a kirendeléstől számított harminc napon belül – valamennyi szolgáltató tevékenység engedélyezése esetén szakértőként véleményezi. A működést engedélyező szerv a határidőt – a módszertani intézménynek a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.”
