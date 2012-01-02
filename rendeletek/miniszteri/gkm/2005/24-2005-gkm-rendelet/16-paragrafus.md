@@ -1,6 +1,6 @@
-## A közlekedési hatóság eljárása és az általa végzett tevékenység[^54]
+## A közlekedési hatóság eljárása és az általa végzett tevékenység[^55]
 
-## 16. §[^55] A közlekedési hatóság
+## 16. §[^56] A közlekedési hatóság
 
 a) meghatározza:
 
@@ -40,5 +40,5 @@ ea) az engedélyezett tevékenységének végzése közben tanúsított magatart
 
 eb) olyan magatartást tanúsít, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartások ellenőrizhetőségét befolyásolja vagy a 13. § (5) bekezdése szerinti eljárása során a vizsga rendjét megzavarta.
 
-[^54]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
-[^55]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^55]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^56]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
