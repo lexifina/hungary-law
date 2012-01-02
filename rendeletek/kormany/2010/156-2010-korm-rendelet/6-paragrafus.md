@@ -1,5 +1,6 @@
-6. §[^7] (1) A szerződés 10. cikkében meghatározott időpontot követő napon hatályát veszti az 5. §.
+## 5. §[^5]
 
-(2) E § a szerződés 10. cikkében meghatározott időpontot követő második napon hatályát veszti.
+6. §[^6]
 
-[^7]: A 6. § a (2) bekezdés alapján hatályát vesztette a szerződés 10. cikkében meghatározott időpontot követő második nappal.
+[^5]: Az 5. §-t a 6. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 6. § a (2) bekezdés alapján hatályát vesztette.
