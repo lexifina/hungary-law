@@ -1,7 +1,3 @@
-10. melléklet a 70/2011. (XII. 23.) NEFMI rendelethez
+10. melléklet a 70/2011. (XII. 23.) NEFMI rendelethez[^25]
 
-Az R. 15. számú mellékletének „Tüdőgondozás keretében:” címe a „98457” megjelölésű sorát követően a következő sorokkal egészül ki:
-
-| „98458 | Tbc-s beteg gyógyszeres kezelése kettős kombinációban | 3000 |
-
-| 98459 | Tbc-s beteg gyógyszeres kezelése kettőnél több gyógyszer kombinációjával | 6000” |
+[^25]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
