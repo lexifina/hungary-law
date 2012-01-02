@@ -1,5 +1,0 @@
-## „(3) Európai szabadalmi bejelentés vagy európai szabadalom esetében a kijavításközzétételi díj 23 500 forint, amely a kijavított igénypontok vagy az európai szabadalom szövege kijavított fordításának hatodik oldalától oldalanként 3500 forinttal emelkedik.
-
-## (4) Nukleotid- vagy aminosav-szekvenciák feltárását tartalmazó bejelentésre adott európai szabadalom esetében az európai szabadalom szövegének vagy kijavított szövegének részét képező szekvencialista, illetve táblázat után fizetendő fordításmeghirdetési díj, illetve a kijavítás-közzétételi díj a szekvencialista, illetve táblázat vagy azok fordításának oldalszámától függetlenül 117 700 forint, feltéve, hogy ez a díj a bejelentő, illetve a szabadalmas számára kedvezőbb mint a (2) vagy a (3) bekezdés szerint számított díj, továbbá, hogy a leírás részét képező szekvencialista, illetve táblázat kizárólag számítógép által olvasható formában, elektronikus adathordozón jelenik meg.
-
-## (5) Az európai szabadalom hatályossá válásához szükséges fordítás pótdíj megfizetése mellett történő benyújtása esetén a pótdíj 58 700 forint, amelyet a fordítás-meghirdetési díjon felül kell megfizetni.”
