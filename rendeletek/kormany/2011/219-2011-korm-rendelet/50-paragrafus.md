@@ -1,5 +1,3 @@
-## 49. § Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 3. számú melléklete a következő 18. ponttal egészül ki:
+50. §[^2]
 
-## (A településrendezési tervek és a helyi építési szabályzat véleményezési eljárásában érdekelt államigazgatási szervek)
-
-## „18. a hivatásos katasztrófavédelmi szerv központi szerve veszélyességi övezet”
+[^2]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
