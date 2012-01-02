@@ -1,1 +1,0 @@
-## „b) végzi a NAV saját hatáskörében lefoglalt dolgok élő erős őrzésével, kísérésével összefüggő feladatokat, valamint végzi anyagi javak őrzését, kísérését és szállítását, továbbá a NAV más szervének felkérése alapján végzi a lefoglalt dolgok megsemmisítése során a helyszín biztosítását,”
