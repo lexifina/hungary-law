@@ -4,7 +4,7 @@
 
 (2)[^7]
 
-(3)[^8] Az e rendelet hatálybalépése előtt kiadott betekintési engedély – amennyiben visszavonására nem kerül sor –, valamint a titoktartási nyilatkozat legkésőbb 2011. december 31-ig hatályos. A minősített adatot kezelő szervek vezetői legkésőbb 2012. január 1-ig intézkednek a felhasználói engedélyek kiadására mindazon felhasználók részére, akik az államtitokra és szolgálati titokra vonatkozó jogszabályok alapján e rendelet hatálybalépésének időpontjában betekintési engedéllyel rendelkeznek.
+(3)[^8]
 
 (4)[^9]
 
