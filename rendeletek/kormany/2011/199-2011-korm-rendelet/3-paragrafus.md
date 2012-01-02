@@ -1,3 +1,0 @@
-## 2. § Az R. 4. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A nemzeti szakértőként történő foglalkoztatás meghosszabbítására az (1) bekezdésben foglaltak az irányadók azzal, hogy a kirendelés kezdeti időtartama hat hónapnál nem lehet rövidebb, és nem haladhatja meg a két évet. A kirendelés ezt követően több ízben, indokolt esetben meghosszabbítható, összesen négy évet meg nem haladó időtartamra. Kivételesen, ha a szolgálati érdek megkívánja, a kirendelés – egy vagy több alkalommal – a négy éves időszak leteltét követően is engedélyezhető, legfeljebb összesen további két évre.”
