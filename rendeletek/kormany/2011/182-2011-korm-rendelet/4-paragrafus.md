@@ -1,5 +1,0 @@
-## 3. § Az R. 3. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(2) A testület illetékességi területén működő fogyasztóvédelmi szervezeteket legalább egy megyei (fővárosi) napilapban közzétett hirdetményben kell jelölésre felhívni, megjelölve egyúttal a testületbe általuk kijelölendő összes tagok, valamint azon belül a jogász szakképzettséggel rendelkező tagok minimális számát. A hirdetményt a békéltető testületek honlapján, valamint a fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján is közzé kell tenni.
-
-## (3) A testület illetékességi területén működő kamarákat közvetlenül írásban kell felhívni a testületi tagok kijelölésére, megjelölve egyúttal a testületbe az adott kamara által kijelölendő összes tagok, valamint azon belül a jogász szakképzettséggel rendelkező tagok minimális számát. Az egyes kamarák által kijelölendő tagok arányát a testület megbízási ideje alatt a testülethez benyújtott kérelmek jellege alapján kell meghatározni.”
