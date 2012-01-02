@@ -1,4 +1,4 @@
-## 11. § Hatályát veszti a motorbenzinek tárolásakor, töltésekor, szállításakor és áttöltésekor keletkező szénhidrogén-emisszió korlátozásáról szóló 9/1995. (VIII. 31.) KTM rendelet.
+## 11. §[^1]
 
 1. melléklet a 118/2011. (XII. 15.) VM rendelethez
 
@@ -20,6 +20,7 @@
 
 8. A tárolóberendezést az üzemeltetőnek az üzembehelyezéssel egyidőben be kell jelenteni az éghető folyadékok és olvadékok tárolótartályairól szóló rendelet melléklete szerinti bejelentőlapnak a felügyelőség részére történő megküldésével.
 
-9.[^1]
+9.[^2]
 
-[^1]: Az 1. melléklet 9. pontja a 9. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet 9. pontja a 9. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
