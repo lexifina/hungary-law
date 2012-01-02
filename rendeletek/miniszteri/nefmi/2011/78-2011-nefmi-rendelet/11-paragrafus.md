@@ -1,3 +1,5 @@
-## 10. § A gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 3. számú mellékletében a „0–5” szövegrész helyébe a „0–10” szöveg, a „6–20” szövegrész helyébe a „11–20” szöveg lép.
+## 10. §[^3]
 
 ## 4. A szociális módszertani intézmények kijelöléséről és feladatairól, valamint a szociális szolgáltatók, intézmények engedélyezési eljárásának szakértői díjáról szóló 3/2008. (IV. 15.) SZMM rendelet módosítása
+
+[^3]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
