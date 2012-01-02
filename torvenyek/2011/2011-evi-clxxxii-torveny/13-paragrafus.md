@@ -1,3 +1,0 @@
-13. § A Get. 139. § (4c) bekezdése az alábbiak szerint módosul:
-
-„(4c) A szerződéseket az érintett engedélyes az üzletszabályzatban meghatározott módon eljuttatja minden, írásba foglalt szerződéssel nem rendelkező felhasználó részére, és ezzel egyidejűleg tájékoztatja a felhasználót az írásba foglalás elmaradásának jogkövetkezményeiről. Az e és a (4) bekezdésben foglalt előírások betartását a Hivatal a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott módon és gyakorisággal ellenőrzi, és nem teljesítés esetén a 119. § alapján bírságot szabhat ki.”

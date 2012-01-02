@@ -1,3 +1,0 @@
-14. § A Get. 159. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.”

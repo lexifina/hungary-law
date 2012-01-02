@@ -1,1 +1,0 @@
-35. § Hatályát veszti a Tszt 60. § (2) bekezdés b) pontjában az „a nyereség korlátozására és megosztására vonatkozó szabályokat, továbbá” és a „ , valamint a nyereség korlátozására és megosztására vonatkozó szabályokat” szövegrész.
