@@ -1,3 +1,0 @@
-69. § Az Euüt. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az európai üzemi tanács létesítésére, a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakítására irányuló megállapodással, valamint az európai üzemi tanácsra, a különleges tárgyaló testület, európai üzemi tanács és tagjainak e törvényben szabályozott jogaira és kötelezettségeire vonatkozó törvényi rendelkezésekkel kapcsolatos, az 1. § (3) bekezdésében felsoroltak és az európai üzemi tanács, annak az európai üzemi tanács tagjai, a munkavállalók, az üzemi tanács, valamint a szakszervezet közötti jogvitában a bíróság tizenöt napon belül nemperes eljárásban határoz.”
