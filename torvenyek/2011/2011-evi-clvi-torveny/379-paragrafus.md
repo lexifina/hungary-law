@@ -1,1 +1,0 @@
-379. § Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 6. § (1) bekezdés c) pontjában a „szakmakód” szövegrész helyébe „a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kód” szöveg lép.

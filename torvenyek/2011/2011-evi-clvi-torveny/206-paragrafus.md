@@ -1,3 +1,0 @@
-206. § A Tbj. 29. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A biztosított egyéni vállalkozó a 19. § (2) bekezdése szerinti nyugdíjjárulékot, valamint a 19. § (3) bekezdése szerinti egészségbiztosítási- és munkaerő-piaci járulékot vállalkozói jövedelem szerinti adózás esetén a vállalkozói kivét, átalányadózás esetén az átalányban megállapított jövedelem után fizeti meg. A nyugdíjjárulék alapja havonta legalább a minimálbér, az egészségbiztosítási- és munkaerő-piaci járulék alapja havonta legalább a minimálbér másfélszerese. Az egyéni vállalkozó nyugdíjjárulékot legfeljebb a járulékfizetési felső határig fizet.”

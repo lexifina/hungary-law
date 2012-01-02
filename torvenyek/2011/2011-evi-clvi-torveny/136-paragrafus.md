@@ -1,3 +1,0 @@
-136. § A Vtv. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásba vételre vonatkozó részletes szabályokat az adózás rendjéről szóló törvény (a továbbiakban: Art.) tartalmazza. Az Art. adózóra vonatkozó rendelkezéseit a VPID szám megállapításával összefüggő nyilvántartásba vétellel és nyilvántartással kapcsolatban az e törvény hatálya alá tartozó ügyfélre is alkalmazni kell. A vámjogszabályok hatálya alá tartozó tevékenységgel kapcsolatban a VPID számra történő hivatkozást EORI-számra történő hivatkozásként kell értelmezni.”

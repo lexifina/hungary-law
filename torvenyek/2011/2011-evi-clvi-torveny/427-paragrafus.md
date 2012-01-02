@@ -1,3 +1,1 @@
-427. § A Ktdt. 16. §-ának (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) Az egyéni hulladékkezelést teljesítő és a 19. § szerinti szervezet – e törvény végrehajtására kiadott jogszabályban meghatározott feltételek szerinti – hulladékkezelési teljesítményének meghatározása során – a hasznosításának helyétől függetlenül – kizárólag azt a Magyarország területén gyűjtött hulladékot veheti figyelembe, amelynek hasznosításra történő átvételét az átvevő hasznosító a tárgyévben folyamatosan, a teljesítéssel egyidejűleg kiállított és átadott átvételi elismervénnyel igazol és a tényleges hulladékhasznosítás megtörténtét a tárgyévet követő év február 20-ig a kötelezett számára leigazol. Amennyiben az egyéni hulladékkezelést teljesítő saját maga hasznosít, az erre vonatkozó adatokat a saját nyilvántartása tartalmazza.”
+427–428. §

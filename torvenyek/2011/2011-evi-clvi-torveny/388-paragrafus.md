@@ -1,1 +1,0 @@
-388. § Hatályát veszti a KTIA tv. 3. § (2) bekezdésében a „3. § (2)–(3) bekezdése” szövegrész, 4. § (2) bekezdésében a „bruttó” szövegrész, 4. § (3) bekezdése, 5. § (7) bekezdésében a „nettó” szövegrész, 5. § (8) bekezdésében a „nettó” szövegrész, 14. § (1) bekezdésében a „bruttó” szövegrész.
