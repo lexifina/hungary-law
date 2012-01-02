@@ -1,1 +1,0 @@
-## „(2) A miniszter a minisztérium honlapján közzéteszi a szakdolgozatok tartalmi és formai követelményeit és azoknak a témaköröknek a felsorolását, amelyek tárgyában szakdolgozat nyújtható be a szakvizsgára.”
