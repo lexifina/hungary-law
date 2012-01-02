@@ -36,8 +36,8 @@ e) törvényben meghatározott szervekkel vagy személyekkel együttműködve k�
 
 f) megszervezi a belső adatvédelmi felelősök konferenciáját;
 
-g)
+g) meghatározza az adatvédelmi auditálás szakmai szempontjait;
 
-h)
+h) az adatkezelő kérelmére adatvédelmi auditot folytathat le.
 
 (5) A Hatóság független, csak a törvénynek van alárendelve, feladatkörében nem utasítható, a feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el. A Hatóság számára feladatot csak törvény állapíthat meg.

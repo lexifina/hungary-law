@@ -1,7 +1,0 @@
-89. § (1) A nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló 2010. évi CLVII. törvény (a továbbiakban: Adatvagyontv.) 2. § (5) bekezdése helyébe a következő rendelkezés lép, és az Adatvagyontv. 2. §-a a következő új (6) bekezdéssel egészül ki:
-
-## „(5) Törvény lehetővé teheti, hogy amennyiben az (1), illetve (2) bekezdésben foglaltakon alapuló korlátozás valamely adatkezelő esetében a jogszabályban előírt feladatok határidőben történő teljesítését, vagy a rendelkezésre álló erőforrások szűkössége miatt a jogszabályban előírt feladatok teljesítéséhez szükséges fejlesztések határidőben történő megvalósítását veszélyezteti, az adatkezelő szakmai irányítására vagy felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a korlátozás alól egyedi felmentést adjon.
-
-## (6) Az (5) bekezdésben meghatározott egyedi felmentés megadható az időszakosan jelentkező adatfeldolgozási feladatok hatékony ellátásának biztosítása érdekében is, ha azok határidőben való ellátása a rendelkezésre álló erőforrások mellett más módon nem lehetséges. Az egyedi felmentés határozott időre adható meg. Az egyedi felmentés megadását megelőzően a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a tervezett egyedi felmentés indokáról, tartalmáról és időtartamáról a Kormányt tájékoztatja.”
-
-(2) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény 224/A. § (3) bekezdése helyébe a következő rendelkezés lép:
