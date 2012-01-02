@@ -1,1 +1,0 @@
-A Kormány a külföldre utazásról szóló 1998. évi XII. törvény 41. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
