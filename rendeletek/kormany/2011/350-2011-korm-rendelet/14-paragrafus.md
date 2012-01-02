@@ -1,8 +1,4 @@
-## 14. § Hatályát veszti
-
-a) a társadalmi szervezetek gazdálkodó tevékenységéről szóló 114/1992. (VII. 23.) Korm. rendelet,
-
-b) az alapítványok gazdálkodási rendjéről szóló 115/1992. (VII. 23.) Korm. rendelet.
+14. §[^2]
 
 Melléklet a 350/2011. (XII. 30.) Korm. rendelethez
 
@@ -89,3 +85,5 @@ Közhasznúsági melléklet – minta –
 | Ectv. 32. § (5) b) [(J1+J2)/(H1+H2)≥0,5] | Igen | Igen |
 
 | Ectv. 32. § (5) c) [(L1+L2)/2≥10 fő] | Igen | Igen |
+
+[^2]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
