@@ -1,1 +1,0 @@
-## 9. § A jogosult állatorvos hatásköréről és a működésével kapcsolatos részletes szabályokról szóló 113/2006. (V. 12.) Korm. rendelet 4. § (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

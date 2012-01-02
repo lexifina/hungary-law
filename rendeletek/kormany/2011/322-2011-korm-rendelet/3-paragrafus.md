@@ -1,1 +1,0 @@
-## 2. § Egyes kültéri berendezések zajkibocsátási követelményeiről és megfelelőségük tanúsításáról szóló 140/2001. (VIII. 8.) Korm. rendelet 4. melléklet 2–3. pontjában és 5. melléklet 1. és 8. pontjában az „a Magyar Köztársaságban” szövegrész helyébe a „Magyarországon” szöveg lép.
