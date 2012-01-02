@@ -1,11 +1,7 @@
 58. § (1)
 
-(2) Hatályát veszti az Szt.
+(2)
 
-a) 18. § h) pontjában a „(TAJ szám)” szövegrész,
-
-b) 26/A. §-a,
-
-c) 35. § (2) bekezdése,
+a)–c)
 
 d)
