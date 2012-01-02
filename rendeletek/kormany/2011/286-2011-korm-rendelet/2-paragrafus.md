@@ -1,1 +1,0 @@
-## „(2a) A Kedvezményezett a hulladékgazdálkodás tevékenységi körbe tartozó szolgáltatásnak a Központi Ellátó Szerv útján történő igénybevételére az ellátási kötelezettség minimális értékére tekintet nélkül kötelezett.”
