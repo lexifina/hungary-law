@@ -8,4 +8,4 @@
 
 (5) A 90. § (2) bekezdése 2014. január 1-jén lép hatályba.
 
-(6) 2012. január 1-jén hatályát veszti a foglalkoztatás bővítése és rugalmasabbá tétele érdekében szükséges intézkedésekről szóló 2005. évi CLXXX. törvény.
+(6)
