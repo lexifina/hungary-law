@@ -1,1 +1,0 @@
-## 39. § A központi elektronikus szolgáltató rendszer igénybevevőinek azonosításáról és az azonosítási szolgáltatásról szóló 224/2009. (X. 14.) Korm. rendelet 14. § (1) bekezdésében az „A Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

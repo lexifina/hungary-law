@@ -1,1 +1,0 @@
-## 40. § A földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint a földgázellátási válsághelyzet esetén szükséges egyéb intézkedésekről szóló 265/2009. (XII. 1.) Korm. rendelet 7. § (5) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,1 +1,0 @@
-## 43. § A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 2. § (1) bekezdés 24. pontjában és 15. § (1) bekezdés f) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

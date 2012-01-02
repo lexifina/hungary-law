@@ -1,1 +1,0 @@
-## 34. § A Svájci–Magyar Együttműködési Program végrehajtási rendjéről szóló 237/2008. (IX. 26.) Korm. rendelet 5. § (1) bekezdésében, 18. § (2) és (3) bekezdésében, 19. § (1) és (4) bekezdésében, valamint 80. §-ában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,1 +1,0 @@
-## 21. § A transzeurópai közlekedési hálózat projektjeihez juttatott TEN-T támogatás felhasználásáról szóló 150/2005. (VII. 29.) Korm. rendelet 2. § 12. pontjában és 4. § e) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

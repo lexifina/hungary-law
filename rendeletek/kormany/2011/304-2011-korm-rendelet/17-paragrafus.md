@@ -1,1 +1,0 @@
-## 16. § A gyógyszerek és gyógyászati segédeszközök közbeszerzésének részletes és sajátos szabályairól szóló 130/2004. (IV. 29.) Korm. rendelet 1. § (2) bekezdésben az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
