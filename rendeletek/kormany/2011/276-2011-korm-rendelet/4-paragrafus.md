@@ -1,1 +1,0 @@
-## 3. § A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklet III. pont 1.46. alpontjában az „a Magyar Köztársaság Ügyészsége” szövegrész helyébe az „az ügyészség” szöveg lép.

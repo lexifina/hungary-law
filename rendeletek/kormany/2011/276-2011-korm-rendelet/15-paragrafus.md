@@ -1,1 +1,0 @@
-## 14. § A harmadik országbeli állampolgárok részére kiállított, magyarországi beutazás céljából elismert okmányok meghatározásáról szóló 328/2007. (XII. 11.) Korm. rendelet 1. §-ában, valamint az 1. és 2. mellékletet követő címben az „A Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

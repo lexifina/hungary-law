@@ -1,1 +1,0 @@
-## 4. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 8/C. § (5) bekezdés a) pontjában, 8/E. § (1) bekezdés b) pontjában és 8/E. § (2) bekezdésében az „a Magyar Köztársaság területén” szövegrész helyébe a „Magyarországon” szöveg lép.

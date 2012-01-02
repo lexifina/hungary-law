@@ -1,1 +1,0 @@
-## 15. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 7. § (2) bekezdés b) pontjában, valamint 14/A. § (4) bekezdésében a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
