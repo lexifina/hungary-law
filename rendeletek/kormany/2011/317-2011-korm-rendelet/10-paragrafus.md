@@ -1,5 +1,0 @@
-## 9. § Az R. 13. § b) pontja helyébe a következő rendelkezés lép:
-
-## (A kártya kibocsátására olyan, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 2. § (2) bekezdés d) pontja szerinti szolgáltató – kivéve a természetes személyt és a szolgáltatóval szerződött szolgáltatót – jogosult, amelyet határozatlan időre vagy a kártyakibocsátás megkezdésétől számított még legalább 5 év határozott időtartamra alapítottak, és amely a vele a gazdasági társaságokról szóló 2006. évi IV. törvény szerinti ugyanazon elismert vagy tényleges vállalatcsoportként működő gazdasági társasággal, illetve a vele legalább 5 éve szerződéses jogviszonyban – kivéve a letétkezelői tevékenység folytatását és a befektetési üzletmenet kihelyezését – álló Öpt. 2. § (2) bekezdés a) pontja szerinti önkéntes kölcsönös biztosító pénztárral együttesen megfelel az alábbi feltételek mindegyikének:)
-
-## „b) pénzforgalmi szolgáltatása keretében az utolsó lezárt üzleti évben legalább 100 000 darab saját kibocsátású készpénz-helyettesítő fizetési eszközzel rendelkezik,”
