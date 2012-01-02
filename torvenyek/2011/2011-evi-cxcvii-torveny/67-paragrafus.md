@@ -1,5 +1,3 @@
 67. § (1)
 
-(2) A Cstv. a következő 83/D. §-sal egészül ki:
-
-„83/D. § A Módtv-vel módosított 65–70. §-t (ide nem értve a Módtv-vel módosított 66. § (5) bekezdést) a 2012. január 1-jét követően kezdeményezett eljárásokban kell alkalmazni, a Módtv-vel módosított 66. § (5) bekezdést pedig a 2012. január 1-jén már folyamatban lévő eljárásokban is alkalmazni kell.”
+(2)

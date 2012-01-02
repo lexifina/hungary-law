@@ -20,4 +20,4 @@ i)
 
 j)
 
-k) 10. számú mellékletének 5.3. pontja.
+k)
