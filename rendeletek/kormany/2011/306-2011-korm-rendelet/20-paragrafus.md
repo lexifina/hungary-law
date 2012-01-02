@@ -1,1 +1,3 @@
-## 19. § Hatályát veszti az építési beruházások közbeszerzési eljárás során készítendő dokumentációjának tartalmáról szóló 215/2010. (VII.9.) Korm. rendelet.
+## 19. §[^1]
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
