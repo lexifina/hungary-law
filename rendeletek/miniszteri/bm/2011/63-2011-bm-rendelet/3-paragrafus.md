@@ -1,1 +1,0 @@
-## 2. § A különleges eszközök és módszerek engedélyezéséről és igénybevételéről szóló 26/1999. (VIII. 13.) BM rendelet 3. § (1) bekezdésében a „megyei (fővárosi) bíróság” szövegrész helyébe „törvényszék” szöveg lép.
