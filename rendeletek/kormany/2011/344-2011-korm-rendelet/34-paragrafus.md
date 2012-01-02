@@ -1,7 +1,6 @@
-## „(4) A befektetési jegyek jegyzéskori ellenértékének a befektetők által, az ingatlan, illetve értékpapírcsomag formájában történő teljesítését induló tőkeként kell elszámolni a beszámítási értéken az eszközök könyvekbe történő felvételekor. Az értékpapírcsomag részét képező értékpapírok értékét egyedileg kell meghatározni a beszámítási érték alapján és azokat egyedileg kell felvenni a nyilvántartásokba azzal, hogy az azonos jogokat megtestesítő értékpapírok csoportosan is nyilvántarthatók.”
+## 33. §[^1]
 
-34. § Az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 327/2009. (XII. 29.) Korm. rendelet 1. § d) pontja helyébe a következő rendelkezés lép:
+34. §[^2]
 
-(E rendelet hatálya kiterjed)
-
-„d) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény (a továbbiakban: Batv.) hatálya alá tartozó befektetési alapkezelőre.”
+[^1]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
