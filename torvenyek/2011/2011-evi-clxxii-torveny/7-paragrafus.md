@@ -1,9 +1,0 @@
-7. § Az Stv. 7. §-a helyébe a következő rendelkezés lép:
-
-„7. § (1) Ha az amatőr sportoló sportszerződés alapján sportol, e szerződés fennállásának időtartama alatt csak a sportszervezete, sportiskolája vagy utánpótlás-nevelést végző alapítványa (jelen § alkalmazásában a továbbiakban: átadó sportszervezet) előzetes írásbeli hozzájárulásával igazolhat át ideiglenesen vagy véglegesen másik sportszervezethez, sportiskolához vagy utánpótlás-nevelést végző alapítványhoz (jelen § alkalmazásában a továbbiakban: átvevő sportszervezet). Az ideiglenes átigazolással (jelen § alkalmazásában a továbbiakban: kölcsönadás) vagy a végleges átigazolással az amatőr sportoló játékjogának használatát az átvevő sportszervezet szerzi meg. Az átadó sportszervezet – amennyiben azt a sportszövetség, szabályzatában foglaltak szerint lehetővé teszi – a hozzájárulás megadását költségtérítés fizetéséhez kötheti. A költségtérítés az amatőr sportoló kinevelésének ellenértéke, amely az adózás szempontjából szolgáltatásnyújtásnak minősül.
-
-(2) A költségtérítés mértékét és fizetésének feltételeit a sportszövetség szabályzatban határozhatja meg, ennek hiányában a költségtérítés mértékére és fizetésének feltételeire az átadó és az átvevő sportszervezet egymás közötti megállapodása az irányadó.
-
-(3) Ha az amatőr sportoló tagsági viszony alapján sportol, e jogviszony fennállásának időtartama alatt a sportszervezete előzetes írásbeli hozzájárulása nélkül átigazolhat másik sportszervezethez, az átadó sportszervezet azonban – amennyiben azt a sportszövetség, szabályzatában foglaltak szerint lehetővé teszi – a játékjog használati jogának átruházásáért az (1) bekezdés szerinti költségtérítésre tarthat igényt.
-
-(4) Az amatőr sportoló csak előzetes írásbeli hozzájárulásával igazolható át –ideiglenesen vagy véglegesen – más sportszervezethez. A sportoló a hozzájárulás megadását ellenérték fizetéséhez nem kötheti.”

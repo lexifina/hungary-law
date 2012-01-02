@@ -1,5 +1,0 @@
-4. § Az Stv. 4. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A versenyző tartózkodni köteles – a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott és a nemzeti doppingellenes szervezet által honlapján, hatóanyag szerinti alfabetikus rendben, a hozzá tartozó magyarországi forgalomban levő gyógyszerek neveivel, magyar és angol nyelven, valamint gyógyszernév szerinti alfabetikus rendben közzétett – tiltott teljesítményfokozó szerekre és módszerekre vonatkozó, doppingvétséget vagy büntetőeljárást megalapozó magatartások vagy azok kísérletének elkövetésétől.
-
-(2) A versenyző köteles alávetni magát a doppingtilalom betartásának ellenőrzésére irányuló vizsgálatnak (a továbbiakban: doppingvizsgálat). A doppingvizsgálat eredményeként megállapított pozitív vizsgálati eredményt vagy a doppingvétséget megalapozó egyéb magatartás tanúsítását, valamint a doppingeljárás eredményeként meghozott jogerős doppingbüntetést a versenyző nevének és sportágának megjelölésével a doppingeljárás befejezésétől számított 3 munkanapon belül a jogerős döntést meghozó doppingbizottság nyilvánosságra hozza.”
