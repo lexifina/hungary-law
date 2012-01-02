@@ -1,7 +1,0 @@
-## 8. § Az ivóvízkivételre használt vagy ivóvízbázisnak kijelölt felszíni víz, valamint a halak életfeltételeinek biztosítására kijelölt felszíni vizek szennyezettségi határértékeiről és azok ellenőrzéséről szóló 6/2002. (XI. 5.) KvVM rendelet (a továbbiakban: 6/2002. KvVM rendelet) 7. § (4) bekezdésében a „Vízügyi és Környezetvédelmi Központi Igazgatóságnak” szövegrész helyébe a „Nemzeti Környezetügyi Intézetnek” szöveg lép.
-
-9. § (1) A víziközművek üzemeltetéséről szóló 21/2002. (IV. 25.) KöViM rendelet (a továbbiakban: 21/2002. KöViM rendelet) 6. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Az üzemeltető köteles a (3) bekezdésben megjelölt vízkivételi műnél legalább 6 évenként – a (6) bekezdés figyelembevételével – alapállapot-vizsgálatot, továbbá évente rendszeres alapvizsgálatot, a (7) bekezdés szerinti gyakorisággal ellenőrző vizsgálatot, a (8) bekezdés szerinti gyakorisággal sűrítő bakteriológiai vizsgálatot végezni, és a vizsgálati eredményeket minden tárgyévet követő március 31-ig az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséghez eljuttatni. A felügyelőség a vizsgálati eredményeket április 30-ig továbbítja a Nemzeti Környezetügyi Intézet területi kirendeltségének.”
-
-(2) A 21/2002. KöViM rendelet 6. § (17) bekezdésében az „az illetékes környezetvédelmi és vízügyi igazgatósághoz” szövegrész helyébe az „a Nemzeti Környezetügyi Intézet működési terület szerinti kirendeltségéhez” szöveg lép.
