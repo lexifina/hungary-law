@@ -1,5 +1,3 @@
 ## 65. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény módosítása
 
-103. § A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Magyar Országos Levéltár központi általános levéltár. Illetékességi körébe tartozik a köztársasági elnöknek és hivatalának, az Országgyűlésnek és hivatalának, továbbá az Alapvető Jogok Biztosa Hivatalának, az Alkotmánybíróságnak, a miniszterelnöknek, a 19. § (2) bekezdésében meghatározott kivétellel a központi államigazgatási szerveknek, valamint – a központi államigazgatási szervek területi szervei, a rendőrség, a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet kivételével – a központi államigazgatási szervek közvetlen felügyelete és irányítása alatt működő egyéb állami szerveknek, a Kúriának, a Legfőbb Ügyészségnek, az Állami Számvevőszéknek, a Magyar Nemzeti Banknak, valamint mindezen szervek jogelődeinek levéltári anyaga, továbbá minden, levéltárral nem rendelkező országos köztestület és közalapítvány levéltári anyaga.”
+103–105. §

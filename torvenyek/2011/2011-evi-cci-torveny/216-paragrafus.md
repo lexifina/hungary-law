@@ -1,1 +1,0 @@
-216. § Hatályát veszti a gazdasági reklámok és az üzletfeliratok, továbbá egyes közérdekű közlemények magyar nyelvű közzétételéről szóló 2001. évi XCVI. törvény preambulumában az „Alkotmány 61. §-ában biztosított” szövegrész.

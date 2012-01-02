@@ -1,1 +1,1 @@
-76. § Hatályát veszti a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 3. § (2) bekezdésében az „– az állam tulajdonában lévő lakás (a továbbiakban: állami lakás) esetén a Kormány rendelete –” szövegrész.
+76. §
