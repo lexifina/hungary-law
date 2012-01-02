@@ -1,9 +1,5 @@
-## lép.
+## 26–29. §[^2]
 
 ## 15. Hatályát vesztő rendelkezések
 
-## 30. § Hatályát veszti
-
-a) a komplex rehabilitációról szóló 321/2007. (XII. 5.) Korm. rendelet és
-
-b) az egészségkárosodott személyek szociális járadékairól szóló 387/2007. (XII. 23.) Korm. rendelet módosításáról szóló 309/2009. (XII. 28.) Korm. rendelet.
+[^2]: A 26–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
