@@ -1,3 +1,0 @@
-## 11. § A TnyR. 80. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) A megállapított nyugellátás visszamenőlegesen járó összegét csökkenteni kell annak az ellátásnak az összegével, amely ugyanarra az időszakra került folyósításra, feltéve, hogy a jogosultat a két ellátás egyidejűleg nem illethette volna meg. A beszámítást a nyugdíjfolyósító szerv határozattal rendeli el. Ha a visszamenőlegesen járó ellátás összege alacsonyabb, mint a beszámított összeg, a jogalap nélkül felvett különbözet visszafizetését a Tny. 84. §-ában meghatározott feltételek fennállása esetén el kell rendelni.”

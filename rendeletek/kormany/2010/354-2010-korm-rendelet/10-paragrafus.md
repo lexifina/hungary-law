@@ -1,3 +1,0 @@
-## „(8a) Az ONYF főigazgatója a kivételes nyugellátást megállapító határozatát közli a nyugellátás ügyében egyébként illetékes nyugdíj-megállapító szervvel, amely a kivételes nyugellátás megállapítását követően ellátja a nyugdíj-megállapító szerv hatáskörébe tartozó feladatokat.
-
-## (8b) A kivételes nyugellátást kérelemre meg kell szüntetni. A kivételes saját jogú nyugellátás mellett szerzett, a Tny. 22/A. §-a szerinti növelés a kivételes nyugellátás megszüntetését követően is érvényesíthető, illetve azt a 68. § szerint folyósítani kell, ha a jogosultnak később saját jogú nyugellátást – ide értve a kivételes nyugellátást is – állapítanak meg.”
