@@ -1,3 +1,3 @@
-1. melléklet a 376/2011. (XII. 31.) Korm. rendelethez[^3]
+1. melléklet a 376/2011. (XII. 31.) Korm. rendelethez[^9]
 
-[^3]: A 1. melléklet 4–7. pontja a 16. § (2) bekezdése alapján 2012. január 2-án lép hatályba.
+[^9]: Az 1. melléklet 1–3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
