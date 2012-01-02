@@ -1,6 +1,6 @@
 ## 44. §[^27]
 
-45. § (1) E rendelet hatálybalépésével egyidejűleg hatályát veszti a diákigazolványról szóló 17/2005. (II. 8.) Korm. rendelet.
+45. § (1)[^28]
 
 (2) 2012. április 1. napján hatályát veszti a közforgalmú személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet 3. § (1) bekezdésében a „doktorjelölti”, 3. § (1) bd) pontjában a „doktorjelöltje”, 1. számú melléklet „Tanulói és hallgatói, doktorjelölti jogviszony alapján igénybe vehető utazási kedvezmények” alcímében a „doktorjelölti”, 1. számú melléklet 15. pontjában a „doktorjelölt” szöveg.
 
@@ -71,3 +71,4 @@ megbízott személynek az aláírása
 6 Az igazolás érvényességi ideje a 4. a) pont esetén 60 nap. A 4. b) pont esetén a kiadott igazolás érvényességi ideje a jogviszony első félév végén történő megszűnése esetén a megszűnést követő március 31. napja, a jogviszony második félév végén történő megszűnése esetén a megszűnést követő október 31. napja.
 
 [^27]: A 44. § a 41. § (4) bekezdése alapján 2014. március 31-én lép hatályba.
+[^28]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
