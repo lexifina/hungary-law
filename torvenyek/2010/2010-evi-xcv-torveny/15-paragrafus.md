@@ -1,3 +1,0 @@
-15. § A Hjt. 81. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A tanulmányi szerződésben meg kell határozni az állomány tagját megillető támogatás formáját és mértékét, a tanulmányok befejezése után a Honvédségnél kötelezően szolgálati viszonyban eltöltendő idő tartamát, továbbá a tanulmányi támogatás pénzben kiszámított összegére vonatkozó megtérítési kötelezettségét, ha az állomány tagja a tanulmányait nem fejezi be, vagy a szerződésben vállalt szolgálati időt önhibából nem tölti le. A kötelezően szolgálati viszonyban eltöltendő idő megegyezik a képzési idővel, de öt évnél hosszabb nem lehet. A nagy értékű képzések esetén a kötelezően szolgálati viszonyban eltöltendő idő a képzési időnél hosszabb is lehet, de ez esetben sem haladhatja meg az öt évet.”

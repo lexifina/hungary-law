@@ -1,3 +1,0 @@
-18. § A Hjt. 91. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A különleges műveleti kiképzések alkalmával – a kiképzésen résztvevők vonatkozásában – a szolgálatteljesítési idő e törvény rendelkezéseitől eltérően is megállapítható, de nem haladhatja meg a heti legfeljebb 96 kiképzési órát. Minden 24 órás vagy azt meghaladó folyamatos kiképzési foglalkozás során az állomány felkészítésben résztvevő tagja 24 óránként egészségügyi szakszemélyzet által végrehajtott ellenőrzésen vesz részt. Minden 48 órát meghaladó kiképzési foglalkozást követően az állomány tagja számára összevontan kell biztosítani a napi 8 óra pihenőidőt kiegészítve további egyszeri 8 óra regenerációs idővel.”
