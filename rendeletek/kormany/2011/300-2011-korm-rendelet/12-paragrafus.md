@@ -1,7 +1,0 @@
-## 11. § Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm. rendelet 6. melléklet „Országos Statisztikai Adatgyűjtési Program Adatkörök” című táblázat 2224 sora (3) bekezdés c) pontjában az „a Vízügyi és Környezetvédelmi Központi Igazgatóság” szövegrész helyébe az „az Országos Vízügyi Főigazgatóság” szöveg, 7. melléklet „Országos Statisztikai Adatgyűjtési Program Adatgyűjtések – Adatátvételek” című táblázat 1375 sorában a „KÖVÍZIG-ek” szövegrész helyébe, továbbá 1373 és 1694 sorában a „környezetvédelmi és vízügyi igazgatóságok” szövegrész helyébe a „Nemzeti Környezetügyi Intézet területi kirendeltsége” szöveg lép.
-
-12. § (1) A kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési tervek készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek köréről és az eljárás részletes szabályairól szóló 282/2009. (XII. 11.) Korm. rendelet (a továbbiakban: 282/2009. Korm. rendelet) 1. melléklete e rendelet 2. melléklete szerint módosul.
-
-(2) A 282/2009. Korm. rendelet 2. melléklet 3. pont d) alpontjában a „Vízügyi és Környezetvédelmi Központi Igazgatóság” szövegrész helyébe az „Országos Vízügyi Főigazgatóság” szöveg lép.
-
-(3) A 282/2009. Korm. rendelet 3. melléklet 1. pont b) és c) alpontjában a „Vízügyi és Környezetvédelmi Központi Igazgatóság” szövegrész helyébe a „Nemzeti Környezetügyi Intézet” szöveg lép.

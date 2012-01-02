@@ -1,3 +1,3 @@
-## A 282/2009. Korm. rendelet 1. melléklet 2. pontjának f) és g) sora helyébe a következő rendelkezés lép:
+3. melléklet a 300/2011. (XII. 22.) Korm. rendelethez[^8]
 
-3. melléklet a 300/2011. (XII. 22.) Korm. rendelethez
+[^8]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
