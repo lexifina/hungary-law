@@ -1,3 +1,0 @@
-28. § A Hszt. 343. §-a helyébe a következő rendelkezés lép:
-
-„343. § A 91. §, a 95/A. § és 96. § (1) bekezdés a) pontja a BUSINESSEUROPE, az UEAPME, CEEP és ESZSZ által a szülői szabadságról kötött, felülvizsgált keret-megállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010/18/EU tanácsi irányelvnek (2010. március 8.) való megfelelést szolgálja.”
