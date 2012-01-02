@@ -1,1 +1,0 @@
-## „(5) Az engedélyezési eljárás ügyintézési határideje tizenöt nap. A jegyző az engedély megadásával egyidejűleg a vásárt, a piacot és annak fenntartóját nyilvántartásba veszi. A nyilvántartás nyilvános. A jegyző a nyilvántartást az önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik – közzéteszi.”
