@@ -1,5 +1,0 @@
-4. § Az Ávt. 11. §-a helyébe a következő rendelkezés lép:
-
-„11. § (1) Az állat életét elfogadható ok vagy körülmény nélkül kioltani nem szabad. Elfogadható oknak, körülménynek minősül különösen az élelmezési cél vágóállat esetében, a prém termelése, az állományszabályozás, a gyógyíthatatlan betegség, illetve sérülés, a fertőző betegségek felszámolása, valamint az azok ellen való védekezés, a kártevők irtása, a másként el nem hárítható támadás megakadályozása, a tudományos kutatás, valamint közegészségügyi veszély elhárítása. Eb és macska tekintetében az élelmezési cél, illetve a prém termelése nem minősül elfogadható oknak, körülménynek, továbbá tilos e fajok élelmiszerként és prémként történő felhasználása.
-
-(2) Tilos macska vagy eb prémjét, valamint az ilyen prémet tartalmazó terméket forgalomba hozni, értékesítés céljából tartani, értékesítésre felajánlani vagy terjeszteni, vagy azt az ország területére behozni, illetve onnan kivinni, kivéve, ha az valamely közösségi jogi aktus alapján oktatási vagy preparálási célból engedélyezett.”
