@@ -1,6 +1,6 @@
-## 57. §[^121]
+## 57. §[^118]
 
-1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^122]
+1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^119]
 
 Táblázat és magyarázat a betegségek és fogyatékosságok alapján
 
@@ -1546,5 +1546,37 @@ Szükséges vizsgálatok: digitalis és rectoscopos vizsgálattal tisztázni kel
 
 Ht. állományba vételt, valamint rendészeti oktatási intézménybe felvételt megelőzően csak „AN” minősítés adható.
 
-[^121]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte.
-[^122]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja szerint módosított szöveg.
+| 093 | Alacsony vérnyomás (hypotonia) | I. | II. | III. | IV. | S | K | BNO |
+
+| A | B | A | B | A | B | A | B | A | B |
+
+| 1. | enyhe formák | E | E | E | E | AS | AS | AS | AS | E | E | E | I 95 |
+
+| 2. | kifejezett formák | AN | E | AN | E | E | E | E | E | AN | AN | AN |
+
+Hypotonia orthostatica, hypotonia chronica, collapsus (elhúzódó is), syncope.
+
+Szükséges vizsgálatok: We, teljes vérkép és vizelet, a vérnyomás különböző testhelyzetben végzett mérése, EKG fekvő és álló helyzetben, echo-cg, Holter vizsgálat a hypotonia aetiológiai tisztázása szükséges.
+
+A normálisnál alacsonyabb vérnyomás önmagában nem indokolja az alkalmasság korlátozását. Az átlagosnál alacsonyabb értékek gyakran előfordulnak nagy fizikai teljesítőképességgel rendelkező emberek között is. A minősítés klinikai tünetek esetén (fejfájás, szédülés, fáradékonyság, collapsus hajlam), ha azok az anamnézisben bizonyítottan szerepelnek (alapellátó orvosi jellemzés!), „E”. Ht. állományba vételt megelőzően az I. kategóriában a minősítés „AN”.
+
+A légzőszervek betegségei (094–105)
+
+| 094 | Orrnyálkahártya jóindulatú daganata (orrpolyp) | I. | II. | III. | IV. | S | K | BNO |
+
+| A | B | A | B | A | B | A | B | A | B |
+
+| 1. | egyik vagy mindkét orrfél érintettsége esetén műtét után tünet és panaszmentes recidiva nélkül | AS | AS | AS | AS | AS | AS | AS | AS | AS | AS | AS | J 33 |
+
+| 2. | mindkét orrfél nehezített légzése, vagy teljes elzártsága esetén | AN | AN | AN | AN | E | E | E | E | AN | AN | AN |
+
+| 3. | gyakran recidiváló, sokszor operált esetek | AN | AN | AN | AN | E | E | E | E | AN | AN | AN |
+
+Polypus cavi nasi, conchae, nasopharyngis, polypus-sinus ethmoidalis, frontalis, maxillaris, sphenoidalis.
+
+Szükséges vizsgálatok: Rhinoscopia anterior, posterior, orrmelléküreg-rtg., sz.sz. arckoponya CT, szükség szerint orr- és melléküregek endoscopos vizsgálata, allergológiai vizsgálat.
+
+Amennyiben a recidiv orrpolyp allergiás eredetű, a minősítés 095.1. alszakasz szerint történik.
+
+[^118]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte.
+[^119]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja szerint módosított szöveg.

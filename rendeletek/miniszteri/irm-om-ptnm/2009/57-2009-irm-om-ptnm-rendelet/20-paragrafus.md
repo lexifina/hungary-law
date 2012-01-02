@@ -17,6 +17,6 @@
 [^39]: A 20. § (2) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § j) pontja szerint módosított szöveg.
 [^40]: A 20. § (3) bekezdését a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (3) bekezdése hatályon kívül helyezte.
 [^41]: A 20. § (4) bekezdése a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^42]: A 20. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § m) és a 24. § k) pontja szerint módosított szöveg.
+[^42]: A 20. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § m) és k) pontja szerint módosított szöveg.
 [^43]: A 20. § (6) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § l) pontja szerint módosított szöveg.
 [^44]: A 20. § (7) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § m) pontja szerint módosított szöveg.
