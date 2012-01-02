@@ -1,51 +1,67 @@
-72. § (1) A megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 12/2007. (III. 13.) IRM rendelet (a továbbiakban: R.) 1. § c) pontja helyébe a következő rendelkezés lép:
+72–73. §[^1]
 
-[E rendelet alkalmazásában]
+Melléklet a 62/2011. (XII. 29.) BM rendelethez
 
-## „c) közérdekű feladat:
+A polgári védelmi szervezetek tagjai igazolványának leírása
 
-## ca) az emberi életet, a testi épséget, az egészséget, a vagyoni javakat, az emberi környezetet közvetlenül fenyegető veszély elhárítása, nemzetközi szerződésben vállalt kötelezettség teljesítése, kármentés, a honvédelem, a nemzetbiztonság és a közbiztonság védelme, továbbá
+1. A polgári védelmi szervezetek tagjai igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése:
 
-## cb) a kiemelt államérdekből ellátandó feladatok végrehajtása.”
+Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többrétegű műanyag kártyaigazolvány.
 
-(2) Az R. 4. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+2. Az igazolvány első oldalának adattartalma:
 
-(Megkülönböztető jelzést adó készülék felszereléséhez szükséges hatósági engedély)
+| – katasztrófavédelem címer, – a „KATASZTRÓFAVÉDELEM” felirat, – a „KATASZTRÓFAVÉDELEM” felirat alatt a „polgári védelmi szolgálatot ellátó tagja” felirat – a fénykép alatt „DISASTER MANAGEMENT” felirat, – fénykép, – családi- és utónév, – születési családi- és utónév, – születési hely, idő |
 
-## „g) a hivatásos katasztrófavédelmi szervek 3. § (1) bekezdés b) pontja alá nem tartozó, a létesítményi tűzoltóság, az önkéntes tűzoltó egyesület,”
+3. Az igazolvány hátoldalának adattartalma:
 
-(3) Az R. 10. § (1) bekezdése a következő d) ponttal egészül ki:
+| – a „VISSZAVONÁSIG ÉRVÉNYES” felirat, – sorszám, – a „Saját kezű aláírás:” felirat, és alatta a saját kezű aláírás minta digitalizált képe, – a „vércsoport” felirat, alatta a vércsoport megjelölése, – a megalakítási hely – 4. pont szerinti – kódszáma, – a megalakítási hely kódszáma alatt a polgári védelmi szervezet típusának megnevezése, a beosztás megjelölése, – a „Kitöltés dátuma:” felirat, alatta a megszemélyesítés dátuma, – az igazolvány alsó harmadán elhelyezkedő gépi kód. |
 
-(Figyelmeztető jelzést adó készülék felszerelésére hatósági engedély)
+4. A megalakítási hely szerinti kódszámok jegyzéke
 
-## „d) a pénz- és értékszállítást – személy- és vagyonvédelmi tevékenység keretében vagy pénzügyi szolgáltatást végző szervezet által üzemeltetett – rendszeresen végző,”
+| Sorsz | A/ Az igazolvány első oldalára kerülő szerv megnevezése | B/ Az igazolvány hátoldalára kerülő kódszám | C/ Szerv megnevezése |
 
-## (járműre adható, ha a jármű üzemeltetési célja azt indokolja.)
+| 1. | KATASZTRÓFAVÉDELEM | 5000. | BM Országos Katasztrófavédelmi Főigazgatóság |
 
-(4) Az R. 3. § (1) bekezdése a következő g) ponttal egészül ki:
+| 2. | KATASZTRÓFAVÉDELEM | 5050. | Fővárosi Katasztrófavédelmi Igazgatóság |
 
-(Nem kell hatósági engedély a megkülönböztető jelzést adó készülék felszereléséhez)
+| 3. | KATASZTRÓFAVÉDELEM | 5100. | Baranya Megyei Katasztrófavédelmi Igazgatóság |
 
-## „g) a Közbeszerzési és Ellátási Főigazgatóság, a Honvédelmi Minisztérium és a Külügyminisztérium 1. § cb) alpontjában meghatározott közérdekű feladatok ellátására rendszeresített gépjárműveire”
+| 4. | KATASZTRÓFAVÉDELEM | 5110. | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság |
 
-(5) Az R. 9. § (1) bekezdése a következő j) ponttal egészül ki:
+| 5. | KATASZTRÓFAVÉDELEM | 5120. | Békés Megyei Katasztrófavédelmi Igazgatóság |
 
-(Nem kell hatósági engedély a figyelmeztető jelzést adó készülék felszereléséhez)
+| 6. | KATASZTRÓFAVÉDELEM | 5130. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság |
 
-## „j) a polgárőri szolgálat ellátása során használt járműre.”
+| 7. | KATASZTRÓFAVÉDELEM | 5140. | Csongrád Megyei Katasztrófavédelmi Igazgatóság |
 
-(6) Az R. 11. §-a a következő (4) bekezdéssel egészül ki:
+| 8. | KATASZTRÓFAVÉDELEM | 5150. | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
-## „(4) A 9. § (1) bekezdés j) pontja alapján a figyelmeztető jelzést adó készülék azon a járművön használható, amelyet a polgárőr szervezet a figyelmezetőt jelzést adó készülékhez rendszeresített indítási naplóban meghatározott.”
+| 9. | KATASZTRÓFAVÉDELEM | 5160. | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság |
 
-(7) Az R.
+| 10. | KATASZTRÓFAVÉDELEM | 5170. | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság |
 
-a) 3. § (1) bekezdésének b) pontjában a „hivatásos önkormányzati, az önkéntes” szövegrész helyébe a „hivatásos katasztrófavédelmi szervek, az önkormányzati”,
+| 11. | KATASZTRÓFAVÉDELEM | 5180. | Heves Megyei Katasztrófavédelmi Igazgatóság |
 
-b) 4. § (1) bekezdés h) pontjában az „a Magyar Honvédség” szövegrész helyébe az „az 1. § cb) alpontja alá nem tartozó, a Magyar Honvédség”,
+| 12. | KATASZTRÓFAVÉDELEM | 5190. | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság |
 
-c) 6. § (3) bekezdésében a „d)–e) pontjában” szövegrész helyébe a „d)–e) és g) pontjában”,
+| 13. | KATASZTRÓFAVÉDELEM | 5200. | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság |
 
-d) 9. § (2) bekezdésében az „e)–f), h) és i) pontja” szövegrész helyébe az „e)–f) és h)–j) pontja”
+| 14. | KATASZTRÓFAVÉDELEM | 5210. | Nógrád Megyei Katasztrófavédelmi Igazgatóság |
 
-szöveg lép.
+| 15. | KATASZTRÓFAVÉDELEM | 5220. | Pest Megyei Katasztrófavédelmi Igazgatóság |
+
+| 16. | KATASZTRÓFAVÉDELEM | 5230. | Somogy Megyei Katasztrófavédelmi Igazgatóság |
+
+| 17. | KATASZTRÓFAVÉDELEM | 5240. | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság |
+
+| 18. | KATASZTRÓFAVÉDELEM | 5250. | Tolna Megyei Katasztrófavédelmi Igazgatóság |
+
+| 19. | KATASZTRÓFAVÉDELEM | 5260. | Vas Megyei Katasztrófavédelmi Igazgatóság |
+
+| 20. | KATASZTRÓFAVÉDELEM | 5270. | Veszprém Megyei Katasztrófavédelmi Igazgatóság |
+
+| 21. | KATASZTRÓFAVÉDELEM | 5280. | Zala Megyei Katasztrófavédelmi Igazgatóság |
+
+5. Az igazolvány színe: kék
+
+[^1]: A 72–73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
