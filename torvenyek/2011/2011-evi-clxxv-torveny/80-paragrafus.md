@@ -2,7 +2,7 @@
 
 a)–d)
 
-e)
+e) 256/A. § (2) bekezdés a)–b) pontjában a „társadalmi szervezet” szövegrész helyébe az „egyesület” szöveg,
 
 f)
 
