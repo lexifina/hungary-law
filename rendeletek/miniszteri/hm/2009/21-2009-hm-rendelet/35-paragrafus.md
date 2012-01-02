@@ -1,1 +1,0 @@
-## „d) az általános köznapi öltözetet, illetve a légierő által viselt köznapi öltözetet viselő önkéntes tartalékos és szerződéses legénységi állományú tiszthelyettes, tisztes a köznapi- és a sötétkék köznapi zubbonyon, illetve a katonanő a női és a sötétkék női köpenyen, a női és a sötétkék női köznapi zubbonyon, valamint a női és a sötétkék női mellényen.”

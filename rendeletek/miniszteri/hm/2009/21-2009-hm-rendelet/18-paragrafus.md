@@ -1,3 +1,0 @@
-## 17. § Az R. melléklete az 52. pontot követően a következő 52/A. ponttal egészül ki:
-
-## „52/A. A hosszú ujjú szabadidő felső és a hosszú szárú szabadidő alsó helyett sportkabát, kétrészes sportruha, melegítő, tréningruha, jogging, szabadidőruha viselhető. Az edzőpóló és a sporttrikó helyett sporting, sportpóló, az edzőnadrág helyett sportnadrág, a sportcipő helyett az adott sportág gyakorlásához, űzéséhez szükséges speciális edzőcipő, futócipő, futballcipő, kosárcipő, szabadidőcipő hordható, továbbá egyéni védőfelszerelés, különösen boka-, térd-, combvédő gumi alkalmazható. A sportöltözet kialakítása, színe, mintája, esetleges felirata nem veszélyeztetheti, illetve nem sértheti a Honvédség szolgálati érdekeit.”
