@@ -34,7 +34,7 @@
 
 | 16. | hajózási engedélyek, kikötő engedélyezése | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 311/2011. (XII. 23.) Korm. rendelethez[^3]
+2. melléklet a 311/2011. (XII. 23.) Korm. rendelethez[^4]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -80,4 +80,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 20. | bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-[^3]: A 2. melléklet a 6. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 6. § (2) bekezdése szerint módosított szöveg.
