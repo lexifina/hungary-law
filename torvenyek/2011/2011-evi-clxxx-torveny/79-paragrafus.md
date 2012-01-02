@@ -1,8 +1,8 @@
 79. § Hatályát veszti a Vht.
 
-a) 10. § c) pontjában a „valamint a közjegyző letiltó és átutalási végzése,” szövegrész,
+a)
 
-b) 31/F. §-a,
+b)
 
 c)
 
@@ -22,7 +22,7 @@ j)
 
 k)
 
-l) 202. § (1) bekezdésében a „hatóság, illetőleg” szövegrész,
+l)
 
 m)
 
