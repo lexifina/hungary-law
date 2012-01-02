@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-161-00-00
 | 2011-12-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-161-00-00.1 |
 | 2011-12-04 | 2010. évi CXXX. törvény | 2011-161-00-00.2 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2011-161-00-00.3 |
+| 2012-01-02 | 2010. évi CXXX. törvény | 2011-161-00-00.4 |
