@@ -1,3 +1,0 @@
-180. § Az Övjt. 24. §-a helyébe a következő rendelkezés lép:
-
-„24. § E törvénynek a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvénnyel (a továbbiakban: Mód. tv.) megállapított rendelkezéseit a helyi önkormányzati képviselők és polgármesterek Mód. tv. hatályba lépését követően kitűzött általános választásán kell először alkalmazni.”

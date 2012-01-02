@@ -1,1 +1,0 @@
-217. § A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 7. § (1) bekezdésében a „kisebbségi önkormányzat” szövegrész helyébe a „nemzetiségi önkormányzat” szöveg, a „kisebbségi önkormányzati” szövegrészek helyébe a „nemzetiségi önkormányzati” szöveg lép.

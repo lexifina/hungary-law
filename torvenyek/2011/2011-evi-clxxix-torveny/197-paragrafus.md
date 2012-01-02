@@ -1,1 +1,0 @@
-197. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § g) pontjában a „kisebbségi önkormányzati” szövegrészek helyébe a „nemzetiségi önkormányzati” szöveg lép.
