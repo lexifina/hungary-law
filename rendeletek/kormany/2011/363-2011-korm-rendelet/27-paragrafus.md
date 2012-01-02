@@ -1,5 +1,0 @@
-## 26. § Az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételéről, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjéről szóló 175/2007. (VI. 30.) Korm. rendelet 1. § f) pontja helyébe a következő rendelkezés lép:
-
-## [E rendelet alkalmazásában:]
-
-## „f) a rendvédelmi szervek személyi állománya: a rendvédelmi szerveket felügyelő minisztériumok, valamint a rendészetért felelős miniszter irányítása alá tartozó szerveknél foglalkoztatott hivatásos állomány, az itt foglalkoztatott kormánytisztviselők, köztisztviselők, közalkalmazottak és a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény hatálya alá tartozó munkavállalói, a Nemzeti Adó- és Vámhivatal személyi állományából a hivatásos állományú tagok, valamint Nemzeti Adó- és Vámhivatal személyi állományából azok, akik 2010. december 31-én a Vám- és Pénzügyőrség közalkalmazotti állományába tartoztak, továbbá a BM oktatási intézményeinek (rendészeti szakközépiskolák) tanulói és a Nemzeti Közszolgálati Egyetem rendészeti képzést folytató karának és katasztrófavédelmi intézetének hallgatói;”
