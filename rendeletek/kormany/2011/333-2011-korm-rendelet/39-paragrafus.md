@@ -1,1 +1,0 @@
-## 38. § A Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló 52/2011. (III. 31.) Korm. rendelet 1. § (2) bekezdésében az „a 2. § (5) bekezdése és a 3. § szerinti esetekben” szövegrész helyébe az „a 3. § szerinti esetben” szöveg lép.
