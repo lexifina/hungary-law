@@ -26,7 +26,7 @@ g) a HM dokumentumvédelmi feladatokat ellátó szervének valamennyi munkaköre
 
 h) az elektronikus adatkezelő rendszerek rendszer- szintű hozzáférési jogosultsággal rendelkező biztonsági felelőse, valamint rendszer adminisztrátora;
 
-i) a HM HVKF és helyettese tevékenységét közvetlenül segítő személy;
+i)[^2] a HVKF és helyettese tevékenységét közvetlenül segítő személy;
 
 j) a HM hadműveleti és fegyvernemi irányítási, tervezési feladatokat ellátó szervének valamennyi munkaköre;
 
@@ -36,11 +36,11 @@ l) a HM felderítő és elektronikai hadviselési támogatás irányítási és 
 
 m) a védelmi tervezési rendszer keretein belül stratégiai tervek, valamint nemzeti tervek kidolgozásában részt vevő személy munkaköre;
 
-n)[^2] a biztonsági megbízott és a biztonsági vezető;
+n)[^3] a biztonsági megbízott és a biztonsági vezető;
 
 o) azon munkakör, amely a munkaköri jegyzék alapján az Nbtv. 2. számú mellékletének 2., 3., 9. pontjaiban megjelölt vezetők közvetlen alárendeltségébe tartozik;
 
-p)[^3] a HM igazgatási és ügyfélszolgálati, valamint törvényességi felügyeleti szakellenőrzési feladatokat ellátó osztályvezetője.
+p)[^4] a HM igazgatási és ügyfélszolgálati, valamint törvényességi felügyeleti szakellenőrzési feladatokat ellátó osztályvezetője.
 
 I. 2. „B” típusú nemzetbiztonsági ellenőrzésre kötelezettek az alábbi munkaköröket betöltő, illetve az arra jelölt személyek:
 
@@ -54,7 +54,7 @@ d) a HM tervezési és koordinációs feladatokat ellátó szervének valamennyi
 
 e) a HM katonai tervezési feladatokat ellátó szervének valamennyi munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
-f)[^4] a HM kiképzési feladatokat irányító szervének Titkos! minősítésű feladatokat ellátó munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
+f)[^5] a HM kiképzési feladatokat irányító szervének Titkos! minősítésű feladatokat ellátó munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
 g) a HM védelempolitikai feladatokat ellátó szervének valamennyi munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
@@ -78,7 +78,7 @@ d) a védett létesítmények szakmai felügyeletét ellátó szervezet vezetőj
 
 e) különleges műveleti tevékenységet végző katonai szervezet parancsnoka és helyettese;
 
-f)[^5] a középszintű irányító-vezető szervezet főnöke és azzal azonos jogállású vezető munkaköre, helyettese, főreferensi, valamint a különleges műveleti jogi tanácsadást végzők munkaköre, a NATO értékelés és minősítés koordinálását végző személy, továbbá a titokvédelmi, ügyviteli, a biztonsági vezető, valamint biztonsági megbízott munkaköre;
+f)[^6] a középszintű irányító-vezető szervezet főnöke és azzal azonos jogállású vezető munkaköre, helyettese, főreferensi, valamint a különleges műveleti jogi tanácsadást végzők munkaköre, a NATO értékelés és minősítés koordinálását végző személy, továbbá a titokvédelmi, ügyviteli, a biztonsági vezető, valamint biztonsági megbízott munkaköre;
 
 g) a központi személyügyi nyilvántartást kezelő szervezet vezetője, helyettese, valamint osztályvezetője;
 
@@ -94,13 +94,13 @@ l) a hadfelszerelési fejlesztést és a logisztikai tervezést, irányítást �
 
 m) a rejtjelfelügyeletek valamennyi munkaköre, a rejtjelfelügyelő;
 
-n)[^6] a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpont szerinti minősítési jelölésű információt kezelő elektronikus rendszerek, valamint az MH szintű elektronikus hitelesítés szolgáltatás biztonsági felelőse, rendszer-adminisztrátora, fejlesztője és programozója, operátora, továbbá a kiterjedt, több helyszínen települő rendszer rendszer-felügyeletet ellátó ügyeletese, minden helyszín biztonsági felelőse és rendszeradminisztrátora, fejlesztője és programozója;
+n)[^7] a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpont szerinti minősítési jelölésű információt kezelő elektronikus rendszerek, valamint az MH szintű elektronikus hitelesítés szolgáltatás biztonsági felelőse, rendszer-adminisztrátora, fejlesztője és programozója, operátora, továbbá a kiterjedt, több helyszínen települő rendszer rendszer-felügyeletet ellátó ügyeletese, minden helyszín biztonsági felelőse és rendszeradminisztrátora, fejlesztője és programozója;
 
 o) a nemzetközi kötelezettségvállalás alapján rejtjeltevékenységet ellátók munkaköre;
 
 p) az állandó személyi védelemben részesülő állami vezetők állami légijárművel történő szállításában részt vevő gépszemélyzet valamennyi munkaköre;
 
-r)[^7] a koronaőr, illetve a palotaőr szolgálati beosztást ellátó hivatásos és szerződéses állományú katonák.
+r)[^8] a koronaőr, illetve a palotaőr szolgálati beosztást ellátó hivatásos és szerződéses állományú katonák.
 
 II. 2. „B” típusú nemzetbiztonsági ellenőrzésre kötelezettek az alábbi munkaköröket betöltő, illetve az arra jelölt személyek:
 
@@ -126,7 +126,7 @@ j) a hadfelszerelési fejlesztést és a logisztikai tervezést, irányítást �
 
 k) a rejtjelzett kapcsolatokat fenntartó rejtjelző szervek valamennyi munkaköre, a rejtjelzéssel megbízott és a rejtjelző szakkiképzést végrehajtó személy, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
-l)[^8] a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpont szerinti minősítési jelölésű információt kezelő elektronikus rendszerek biztonsági felelőse, rendszeradminisztrátora, továbbá az MH szintű elektronikus hitelesítési szolgáltatás, valamint a központi katasztrófa adattároló csoport valamennyi munkaköre, és az MH híradó és informatikai rendszerének rendszer-felügyeletét ellátó munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
+l)[^9] a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpont szerinti minősítési jelölésű információt kezelő elektronikus rendszerek biztonsági felelőse, rendszeradminisztrátora, továbbá az MH szintű elektronikus hitelesítési szolgáltatás, valamint a központi katasztrófa adattároló csoport valamennyi munkaköre, és az MH híradó és informatikai rendszerének rendszer-felügyeletét ellátó munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
 m) a nemzetközi katonai megfigyelői és szaktanácsadói tevékenységet ellátó személy;
 
@@ -134,11 +134,13 @@ n) az ügyviteli munkakör, a biztonsági megbízott, valamint a hadműveleti bi
 
 o) a NATO, EU műveletek, valamint a katonai nemzetbiztonsági szolgálat költségvetésének tervezésében, elszámoltatásában, járandóságai megállapításában, ellenőrzésében és az előbbiekben felsoroltak informatikai támogatásában részt vevő személy, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
-p) válságreagáló és béketámogató műveletben részt vevő, illetve részvételre felajánlott ideiglenes katonai szervezet, valamint a NATO felajánlásra kerülő katonai szervezet parancsnoka, helyettese, hadműveleti, felderítő, jogi, civil-katonai együttműködési, lélektani műveleti feladatait ellátó munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik.
+p) válságreagáló és béketámogató műveletben részt vevő, illetve részvételre felajánlott ideiglenes katonai szervezet, valamint a NATO felajánlásra kerülő katonai szervezet parancsnoka, helyettese, hadműveleti, felderítő, jogi, civil-katonai együttműködési, lélektani műveleti feladatait ellátó munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
+
+r)[^10] a honvéd tisztjelöltek.
 
 II. 3. „A” típusú nemzetbiztonsági ellenőrzésre kötelezettek az alábbi munkaköröket betöltő, illetve az arra jelölt személyek:
 
-a) a tárca központi személyügyi nyilvántartását kezelő szervezet valamennyi tiszthelyettesi munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
+a)[^11] a tárca központi személyügyi nyilvántartását kezelő szervezet valamennyi altiszti munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
 b) a miniszter alárendeltségébe tartozó szervezet osztályvezetője és osztályvezető-helyettese, illetve az ezekkel azonos jogállású vezető, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
@@ -148,13 +150,19 @@ d) a honvédelmi szervezetek részére kommunikáció technikai feltételeket bi
 
 e) a kommunikációs és adatfeldolgozó rendszerekben „különleges technika” besorolású rejtjelző eszközt, rejtjelző szoftvert kezelői szinten működtető személy, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
 
-f) válságreagáló és béketámogató műveletben részt vevő, illetve részvételre felajánlott ideiglenes katonai szervezet, valamint a NATO felajánlásra kerülő katonai szervezet valamennyi munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik.
+f) válságreagáló és béketámogató műveletben részt vevő, illetve részvételre felajánlott ideiglenes katonai szervezet, valamint a NATO felajánlásra kerülő katonai szervezet valamennyi munkaköre, amennyiben magasabb szintű ellenőrzés hatálya alá nem tartozik;
+
+g)[^12] a honvéd altiszt-jelöltek.
 
 [^1]: A melléklet I. 1. pont e) alpontja a 11/2010. (V. 12.) HM rendelet 5. § a) pontja szerint módosított szöveg.
-[^2]: A melléklet I. 1. pont n) alpontja a 11/2010. (V. 12.) HM rendelet 5. § b) pontja szerint módosított szöveg.
-[^3]: A melléklet I.1. pontjának p) alpontját a 17/2009. (XII. 3.) HM rendelet 10. § (3) bekezdése iktatta be.
-[^4]: A melléklet I. 2. pont f) alpontja a 11/2010. (V. 12.) HM rendelet 5. § c) pontja szerint módosított szöveg.
-[^5]: A melléklet II. 1. pont f) alpontja a 11/2010. (V. 12.) HM rendelet 5. § d) pontja szerint módosított szöveg.
-[^6]: A melléklet II. 1. pont n) alpontja a 11/2010. (V. 12.) HM rendelet 5. § e) pontja szerint módosított szöveg.
-[^7]: A melléklet II. 1. pont r) alpontját a 3/2011. (V. 12.) HM rendelet 2. §-a iktatta be.
-[^8]: A melléklet II. 2. pont l) alpontja a 11/2010. (V. 12.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^2]: A melléklet I. 1. pont i) alpontja a 20/2011. (XII. 30.) HM rendelet 1. §-a szerint módosított szöveg.
+[^3]: A melléklet I. 1. pont n) alpontja a 11/2010. (V. 12.) HM rendelet 5. § b) pontja szerint módosított szöveg.
+[^4]: A melléklet I.1. pontjának p) alpontját a 17/2009. (XII. 3.) HM rendelet 10. § (3) bekezdése iktatta be.
+[^5]: A melléklet I. 2. pont f) alpontja a 11/2010. (V. 12.) HM rendelet 5. § c) pontja szerint módosított szöveg.
+[^6]: A melléklet II. 1. pont f) alpontja a 11/2010. (V. 12.) HM rendelet 5. § d) pontja szerint módosított szöveg.
+[^7]: A melléklet II. 1. pont n) alpontja a 11/2010. (V. 12.) HM rendelet 5. § e) pontja szerint módosított szöveg.
+[^8]: A melléklet II. 1. pont r) alpontját a 3/2011. (V. 12.) HM rendelet 2. §-a iktatta be.
+[^9]: A melléklet II. 2. pont l) alpontja a 11/2010. (V. 12.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^10]: A melléklet II. 2. pont r) alpontját a 20/2011. (XII. 30.) HM rendelet 1. §-a iktatta be.
+[^11]: A melléklet II. 3. pont a) alpontja a 20/2011. (XII. 30.) HM rendelet 1. §-a szerint módosított szöveg.
+[^12]: A melléklet II. 3. pont g) alpontját a 20/2011. (XII. 30.) HM rendelet 1. §-a iktatta be.
