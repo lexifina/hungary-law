@@ -1,3 +1,0 @@
-## 1. § Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet (a továbbiakban: R.1.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az orvos – a 2/A. §-ban, az (5)–(8) bekezdésben, a 4. §-ban, valamint a 6. § (3) bekezdésében foglaltak kivételével – Magyarországon, illetve az Európai Unió Bizottsága által forgalomba hozatalra engedélyezett gyógyszert, valamint magisztrális gyógyszert rendelhet. Az orvos magisztrális gyógyszer alkotórészeként a GYEMSZI közleményében közzétett gyógyszeranyagokat rendelheti, ennek hiányában kerülhet sor forgalomba hozatalra engedélyezett gyógyszer magisztrális alkotórészként történő rendelésére.”
