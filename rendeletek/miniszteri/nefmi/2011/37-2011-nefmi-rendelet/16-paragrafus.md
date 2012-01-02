@@ -1,3 +1,3 @@
-## 15. § Az R2. 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^6]
 
-## „(4) Az Országos Mentőszolgálat (a továbbiakban: OMSZ) országosan irányítja az Országos Egészségbiztosítási Pénztárral (a továbbiakban: OEP) kötött finanszírozási szerződéssel rendelkező betegszállító szervezetek tevékenységét. Ennek keretében végzi a betegszállítási feladatok 6. § (2) bekezdése szerinti felvételét, az illetékes betegszállító szervezet felé való továbbítását, a feladat teljesítésének folyamatos követését. A finanszírozási szerződéssel rendelkező betegszállító szervezetek a rendelkezésükre álló kapacitásokat az OMSZ által megadott időszakonként jelentik.”
+[^6]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,10 +1,9 @@
-## 16. §[^6]
+## 16. §[^7]
 
-17. § (1)[^7]
+17. § (1)[^8]
 
-(2) Hatályát veszti az R2. 3. § (5) bekezdése.
+(2)–(3)[^9]
 
-(3) Hatályát veszti az R2. 1. számú melléklet II. Tárgyi feltételek II/B. pont 1. és 2. alpontjában az „és globális helymeghatározó rendszerrel, amely alkalmas a gépjárművek napi futásteljesítményének jelentésére” szövegrész.
-
-[^6]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 17. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
