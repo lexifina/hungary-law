@@ -1,9 +1,5 @@
-## lép.
+## 5. §[^6]
 
 ## 6. A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet módosítása
 
-## 6. § A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet
-
-a) 10. § a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
-
-b) 30. § (2) bekezdésében a „Magyarországon honos nemzeti és etnikai kisebbséghez” szövegrész helyébe a „nemzetiséghez” szöveg
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
