@@ -1,3 +1,0 @@
-## 10. § A fogvatartottakkal kapcsolatos kártérítési eljárás szabályairól szóló 13/1996. (XII. 23.) IM rendelet [a továbbiakban:13/1996. (XII. 23.) IM rendelet] 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ez a rendelet a fogvatartott által a büntetés-végrehajtási szervnek (a továbbiakban: bv. szerv), valamint a bv. szervvel kötött szerződés alapján a fogvatartotti munkáltatást végző más gazdálkodó szervnek (a továbbiakban: más gazdálkodó szerv), illetve a bv. szerv, továbbá a más gazdálkodó szerv által a fogvatartottnak okozott kár megtérítésére vonatkozó eljárást szabályozza.”
