@@ -1,5 +1,3 @@
-## „22/B. § (1) A megyei önkormányzatok által 2011. december 31-én fenntartott intézmények működési engedélyének hivatalból történő módosítására irányuló eljárás során a megyei fenntartó 2012. január 15-éig bejelenti a nevét, székhelyét és adószámát, valamint bejelentheti a szolgáltató (intézmény, működtető) nevének és adószámának megváltozását. A szolgáltató (intézmény, működtető) alapító okiratának másolatát a szolgáltató nevének módosítása esetén nem kell benyújtani, és azt a működést engedélyező szervnek sem kell az eljárás során beszereznie.
+## 35. §[^19]
 
-## (2) A működést engedélyező szerv a megyei önkormányzatok által 2011. december 31-én fenntartott intézmények működési engedélyének hivatalból történő módosítására irányuló eljárás során kizárólag a fenntartó adatait és a fenntartó erre irányuló bejelentése esetén a szolgáltató (intézmény, működtető) nevét és adószámát módosíthatja. A 7. § (12) bekezdése ebben az esetben nem alkalmazható.
-
-## (3) Az ellátási szerződés megyei fenntartóra való átszállása miatt az egyházi, nem állami fenntartású intézmény működési engedélyét nem kell módosítani, a változás átvezetésére a működési engedély egyéb okból történő soron következő módosítása vagy a soron következő ellenőrzés alkalmával kerül sor.”
+[^19]: A 35. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
