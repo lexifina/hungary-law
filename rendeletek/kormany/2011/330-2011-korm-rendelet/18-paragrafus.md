@@ -1,1 +1,0 @@
-## „f) az 5. § (3) bekezdésének f) pontja szerinti szakhatóság, ha a működési engedély módosításának célja befogadás, ide nem értve az emelt szintű férőhelyek számának módosítását és a 16. § (3) bekezdés b) pontja szerinti esetet.”
