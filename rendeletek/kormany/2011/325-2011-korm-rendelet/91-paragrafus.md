@@ -1,3 +1,0 @@
-## 90. § Az Ör. 5. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az orvosok gyógyszerrendelési tevékenységének értékelése során kapott országos átlag valamennyi orvos által felírt és a betegek által az adott hónapban kiváltott, a miniszteri rendeletben meghatározott ATC csoportokba tartozó értékelt hatóanyagokat tartalmazó közfinanszírozott gyógyszerek a normatív fixcsoport referencia készítményének vagy készítménycsoportjának egy napi terápiára jutó társadalombiztosítási támogatása, vagy referencia készítmény vagy készítménycsoport hiányában az egy napi terápiára jutó társadalombiztosítási támogatás ATC csoportra forintban kifejezve, és az adott ATC csoportba tartozó hatóanyagok rendelési aránya százalékban kifejezve.”

@@ -1,1 +1,0 @@
-## „(5) A tárgyalásokon döntési joggal kizárólag az OEP kormánytisztviselői, tanácskozási joggal az OEP főigazgatója által felkért szakértők vehetnek részt. Az ártárgyaláson közreműködő személyekkel szemben a közbeszerzési eljárásnál alkalmazandó összeférhetetlenségi szabályokat megfelelően alkalmazni kell.”

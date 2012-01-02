@@ -1,1 +1,0 @@
-## „(4a) A (2) bekezdés szerinti TVK megállapításának alapját az Eftv. szerinti, fejlesztéssel összefüggő többletkapacitás-befogadás alapján finanszírozásba lépett szakellátási szolgáltatások esetében minimálisan a mindenkori országos átlagteljesítmény képezi, amennyiben a (3) bekezdés szerinti TVK nem állapítható meg, vagy attól volumenében elmarad.”
