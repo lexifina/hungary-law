@@ -35,4 +35,4 @@ i)[^20]
 (3) A (2) bekezdésben meghatározott illetmény, juttatások és térítések, valamint ezek közterhei – eltérő megállapodás hiányában – a polgári szervet terhelik.
 
 [^19]: A 10. § (1) bekezdés f) pontja a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^20]: A 10. § (2) bekezdés i) pontját a 376/2011. (XII. 31.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^20]: A 10. § (2) bekezdés i) pontját a 376/2011. (XII. 31.) 9. § b) pontja hatályon kívül helyezte.

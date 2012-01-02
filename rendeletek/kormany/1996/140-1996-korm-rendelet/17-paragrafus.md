@@ -6,4 +6,4 @@
 
 [^31]: A 17. § (1) bekezdése a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^32]: A 17. § (2) bekezdése a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^33]: A 17. § (3) bekezdése a 376/2011. (XII. 31.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^33]: A 17. § (3) bekezdése a 376/2011. (XII. 31.) 9. § c) pontja szerint módosított szöveg.

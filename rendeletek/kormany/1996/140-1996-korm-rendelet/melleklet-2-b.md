@@ -226,7 +226,7 @@
 
 | 7. | főosztályvezetői illetményre jogosult | országos iparbiztonsági főfelügyelő | tábornok | egyetem | szakirányú felsőfokú |
 
-| 8. | főosztály- vezetői illetményre jogosult | hivatalvezető | tábornok | egyetem | szakirányú felsőfokú |
+| 8. | főosztály- vezetői illetményre jogosult | hivatalvezető | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
 | 9. | főosztály- vezetői illetményre jogosult | szolgálatvezető | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
@@ -242,11 +242,11 @@
 
 | 15. | osztályvezetői illetményre jogosult | osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| 16. | Területi | főosztály- vezetői illetményre jogosult | igazgató (főváros) | tábornok | egyetem | szakirányú felsőfokú |
+| 16. | Területi | főosztály- vezetői illetményre jogosult | igazgató | tábornok | egyetem | szakirányú felsőfokú |
 
 | 17. | főosztály- vezetői illetményre jogosult | igazgató- helyettes (főváros), | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
-| 18. | főosztály- vezetői illetményre jogosult | igazgató | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
+| 18. | főosztály- vezetői illetményre jogosult | igazgató (KOK) | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 
 | 19. | főosztály- vezető- helyettesi illetményre jogosult | igazgató- helyettes | ezredes | egyetem vagy főiskola | szakirányú felsőfokú |
 

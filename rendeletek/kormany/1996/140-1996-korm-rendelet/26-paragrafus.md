@@ -8,6 +8,6 @@
 
 (2)[^42] A fegyveres szervek – ide nem értve a Nemzeti Adó- és Vámhivatalt – alapbeosztásainak kategóriába sorolását a 2. számú melléklet tartalmazza.
 
-[^40]: A 25/A. §-t a 99/2003. (VII. 15.) Korm. rendelet 4. §-a iktatta be, szövege a 376/2011. (XII. 31.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^40]: A 25/A. §-t a 99/2003. (VII. 15.) Korm. rendelet 4. §-a iktatta a szövegbe.
 [^41]: Az alcím a 115/2001. (VI. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^42]: A 26. § (2) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 81. § (3) bekezdésével megállapított szöveg.
