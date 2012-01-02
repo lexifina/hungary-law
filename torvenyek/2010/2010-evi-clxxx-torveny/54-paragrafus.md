@@ -1,3 +1,0 @@
-54. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 16. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A személy- és vagyonvédelmi, illetve a magánnyomozói tevékenységet folytató a Magyar Honvédségre, rendvédelmi szervre, más hatóságra utaló elnevezést, formaruhát, illetve hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rangjelzést nem használhat. E rendelkezés nem alkalmazható a Magyar Honvédség objektumai őrzésével kapcsolatos, önkéntes tartalékos által ellátott személy- és vagyonvédelmi tevékenységre.”

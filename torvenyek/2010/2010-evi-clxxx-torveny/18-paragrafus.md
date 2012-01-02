@@ -1,3 +1,0 @@
-18. § A Hvt. a következő 83/A. §-sal egészül ki:
-
-„83/A. § Az önkéntes védelmi tartalékos Honvédséggel kötött szerződésében rögzíteni kell a rendelkezésre állás tartalmát, az alapfeladatokat, a díjazásra és az egyenruha viselésére vonatkozó szabályokat, az esetleges teljes körű önkéntesség tényét, az alkalmazása, igénybevétele feltételeit, a kiértesítésének és behívásának módját, az adatszolgáltatási kötelezettségeinek körét és rendjét, a kártérítésre, az utasítási jogra és a szerződés megszűnésére vonatkozó rendelkezéseket, továbbá a feladat ellátásra vonatkozó egyéb kérdéseket.”

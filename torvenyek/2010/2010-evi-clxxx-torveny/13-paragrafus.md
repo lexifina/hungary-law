@@ -1,3 +1,0 @@
-13. § A Hvt. a következő 76/A. §-sal egészül ki:
-
-„76/A. § A szövetségi és nemzetközi szerződésekből eredő katonai kötelezettségeket teljesítő honvédségi szervezet válságkezelő és béketámogató műveletekben résztvevő szervezeti egysége egyes munkáltatói, költségvetési előirányzat-keretek feletti rendelkezési és kötelezettségvállalási jogkörök gyakorlása szempontjából – a honvédségi szervezet alapító okiratában – jogi személyiséggel ruházható fel.”
