@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-77-00-00
 | --- | --- | --- |
 | 2012-01-01 | 2011. évi LXXVII. törvény | 2011-77-00-00.0 (közlönyállapot) |
 | 2012-01-01 | 2011. évi CLXXV. törvény | 2011-77-00-00.1 |
+| 2012-01-02 | 2010. évi CXXX. törvény | 2011-77-00-00.2 |
