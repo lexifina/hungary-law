@@ -1,1 +1,0 @@
-## „(10) Behajthatatlan követelést a könyvviteli mérlegben nem lehet kimutatni, azt hitelezési veszteségként a saját tőkével szemben le kell írni, kivéve a behajthatatlanná vált hitelintézetekkel szembeni számlapénz követeléseket, illetve költségvetési aktív elszámolásokat, melyeket leíráskor a dologi kiadások között kell elszámolni.”

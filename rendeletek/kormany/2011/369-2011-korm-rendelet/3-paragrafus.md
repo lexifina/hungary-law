@@ -1,1 +1,0 @@
-## „(10) Az országos nemzetiségi önkormányzatok a zárszámadásukhoz az országos nemzetiségi önkormányzat és az intézményei adatait összevontan tartalmazó, a 11. § (4) bekezdése szerinti egyszerűsített éves költségvetési beszámolót is kötelesek készíteni.”
