@@ -1,3 +1,5 @@
-## 6. § Hatályát veszti a Pénzügyi Szervezetek Állami Felügyelete részére a hitelintézetek által forgalmazott, egyes betéti és megtakarítási termékekre vonatkozó adatszolgáltatási kötelezettségről szóló 3/2011. (II. 28.) PSZÁF rendelet.
+## 6. §[^1]
 
 1. melléklet a 26/2011. (XI. 24.) PSZÁF rendelethez
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
