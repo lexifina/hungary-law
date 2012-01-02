@@ -1,3 +1,0 @@
-## 7. § A Kkr. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A kockázatmérési rendszernek minden releváns kockázati tényező változását modelleznie kell az intézmény piaci tevékenysége mértékének megfelelően. Ha az intézmény árképzési modelljébe beépül egy kockázati tényező, de a kockázatmérési modellbe nem, az intézménynek megfelelően indokolnia kell a Felügyelet részére a kockázati tényező figyelmen kívül hagyását. Emellett a kockázatértékelési modell méri az opciók és egyéb termékek nem lineáris viselkedését, valamint a korrelációs és a báziskockázatot. A kockázati tényezőkre vonatkozó becsült értékek használata esetén, a becsléseknek jól kell követnie a ténylegesen tartott pozíciókat.”

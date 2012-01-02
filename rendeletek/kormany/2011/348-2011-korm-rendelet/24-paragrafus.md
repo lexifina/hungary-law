@@ -1,1 +1,0 @@
-## „24. termékcsoportok közötti nettósítás: különböző termékcsoportokra vonatkozó ügyletek – az e rendeletben meghatározott, termékcsoportok közötti nettósítási szabályokkal összhangban – azonos nettósítási halmazba történő bevonása;”

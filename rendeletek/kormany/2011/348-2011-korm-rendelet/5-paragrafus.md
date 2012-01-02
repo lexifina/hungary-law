@@ -1,1 +1,0 @@
-## „(8) Ha az n-edik nemteljesítéskor lehívható hitelderivatíva kosár elismert külső hitelminősítő szervezet minősítésével rendelkezik, akkor a kockázat átvevőjének a származtatott eszköz minősítése alapján kell kiszámítania az egyedi kockázatra vonatkozó tőkekövetelményt, és alkalmaznia kell a megfelelő értékpapírosítási kockázati súlyokat.”
