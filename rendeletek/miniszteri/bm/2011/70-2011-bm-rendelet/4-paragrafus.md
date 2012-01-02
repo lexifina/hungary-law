@@ -1,0 +1,25 @@
+4. § (1) A BM munkavédelmi főfelügyelője szervezi és koordinálja a rendvédelmi szerv munkavédelmi tevékenységét, ellátja a munkavédelmi főfelügyelők szakmai irányítását és szakmai felügyeletét.
+
+(2) A BM munkavédelmi főfelügyelője – a belügyminiszter által irányított polgári nemzetbiztonsági szolgálatok műveleti tevékenységével kapcsolatos adatok kivételével – bekéri a szakirányítási feladatai ellátásához szükséges munkavédelmi tárgyú dokumentumokat, így különösen:
+
+a) a szolgálati és munkabalesetek dokumentumait,
+
+b) a munkavédelmi tevékenységgel kapcsolatos jegyzőkönyvek és intézkedések iratait,
+
+c) a munkavédelmi helyzet éves értékeléséről készített dokumentumot,
+
+d) az egészséget nem veszélyeztető és biztonságos szolgálat ellátás, munkavégzés személyi és tárgyi feltételeivel kapcsolatos jelentéseket,
+
+e) egyéb statisztikai, vagy a szakmai feladatok ellátásához szükséges bármely iratot vagy adatot az adatvédelmi szabályok betartása mellett,
+
+f) a szakterületével összefüggő rendkívüli eseményekről meghatározott egyéb jelentéseket,
+
+g) a kockázatértékeléssel kapcsolatban keletkezett valamennyi dokumentumot, valamint
+
+h) egyéb, a feladatok ellátásához szükséges iratot és dokumentumot.
+
+(3) A munkavédelmi főfelügyelők és a munkavédelmi felügyelők a szakmai felügyeletük alá tartozó szervek vonatkozásában bekérhetik a (2) bekezdésben megjelölt, a feladatuk ellátásához szükséges dokumentumokat.
+
+(4) A BM munkavédelmi feladatokért felelős szervezeti egység vezetője – a vonatkozó jogszabályi előírásoknak megfelelően – munkavédelmi feladatokat határozhat meg a rendvédelmi szervek részére.
+
+(5) A munkavédelmi főfelügyelők szakmai feladatuk ellátása során közvetlen kapcsolatot tartanak a BM munkavédelmi főfelügyelőjével.

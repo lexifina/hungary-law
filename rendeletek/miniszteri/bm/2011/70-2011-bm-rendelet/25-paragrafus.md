@@ -1,0 +1,3 @@
+25. § (1) Az éves baleseti statisztikával kapcsolatos adatszolgáltatási kötelezettséget az állományilletékes parancsnok határozza meg. A baleseteknek az éves jelentés részét képező statisztikai összesítését a munkavédelmi főfelügyelő készíti el, és a tárgyévet követő március 1-ig a szolgálati út betartásával terjeszti fel a BM munkavédelmi feladatokért felelős szervezeti egység vezetője részére.
+
+(2) Az éves baleseti statisztikában állománycsoportonként kell értékelni a balesetek és a felmentési napok számát, összesített formában a balesetek okait, a keletkezett sérüléseket és a baleset bekövetkezésekor a sérült tevékenységét, valamint a baleset bekövetkezésében szerepet játszó eszközöket, anyagokat.

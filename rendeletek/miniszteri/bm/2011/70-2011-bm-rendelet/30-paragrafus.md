@@ -1,0 +1,9 @@
+30. § (1) A munkavédelmi hatósági hatáskört gyakorló személy a munkavédelemről szóló törvényben meghatározottakon túl jogosult
+
+a) a munkáltatót a feltárt hiányosságok meghatározott határidőn belül történő megszüntetésére kötelezni, valamint
+
+b) a személyi állomány életét, egészségét fenyegető veszély esetén annak megszüntetéséig elrendelni a veszélyes tevékenység végzésének, különösen a szolgálati hely, fogda, őrzött szállások, műhely, műhelyrész, munkaeszköz, rendvédelmi célú egyéni védőeszköz használatának felfüggesztését.
+
+(2) A munkavédelmi hatósági hatáskört gyakorló személy a hatáskörébe nem tartozó hiányosság, szabálytalanság észlelése esetén értesíti a hatáskörrel rendelkező szervet és felkérés esetén más hatósággal együttműködik.
+
+(3) Az ellenőrzött szerv állományilletékes parancsnoka biztosítja az ellenőrzés feltételeit.
