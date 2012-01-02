@@ -1,1 +1,0 @@
-## 2. § Hatályát veszti a katonák illetményéről és illetményjellegű juttatásairól, valamint a közalkalmazottak jutalmazásáról szóló 3/2002. (I. 25.) HM rendelet 4. § (1) és (3) bekezdése, 112/A. § (2) és (3) bekezdése és 1. számú melléklete.
