@@ -1,3 +1,1 @@
-## „(12) A közoktatási intézményfenntartó többcélú kistérségi társulás, a felsőoktatási intézmény, a nem állami, nem önkormányzati intézményfenntartó, valamint a megyei fenntartó megállapodhat a szakképzés-szervezési társulással a feladatok közös megszervezésében. A megállapodás előfeltétele, hogy a többcélú kistérségi társulás, a felsőoktatási intézmény, a nem állami, nem önkormányzati intézményfenntartó, a megyei fenntartó az (5) bekezdés a) pontjában meghatározottak szerint vállalja a szakképzésnek a regionális fejlesztési és képzési bizottság döntésének megfelelő megszervezését.”
-
-35. § A Kt. 90. § (2) bekezdése helyébe a következő rendelkezés lép:
+### 35. §
