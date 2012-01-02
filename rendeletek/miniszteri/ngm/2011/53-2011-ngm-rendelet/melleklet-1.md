@@ -1,3 +1,5 @@
+## 6. §[^2]
+
 1. melléklet az 53/2011. (XII. 29.) NGM rendelethez
 
 |  | A | B | C |
@@ -33,3 +35,5 @@
 | 15. | pénzügyi nyomozó I. | I. | jogász szakképzettség; egyetemi vagy főiskolai szintű közgazdasági, pénzügyi, számviteli, államigazgatási, katonai vagy rendvédelmi felsőoktatási intézményben (jogelőd intézményben) gazdálkodási, vámnyomozói, vámigazgatási szakon, vám- és jövedéki szakirányon, pénzügyi nyomozói szakirányon szerzett szakképzettség |
 
 | 16. | vezetőzenész | I. | egyetemi vagy főiskolai szintű zeneművészeti szakképzettség |
+
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
