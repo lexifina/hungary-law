@@ -1,4 +1,4 @@
-## 39–43. §[^2]
+## 39–43. §[^4]
 
 ## V. Fejezet
 
@@ -12,4 +12,4 @@
 
 (4) E rendelet 47. § (2) és (3) bekezdése és 48. § (3) bekezdése 2015. április 1-jén lép hatályba.
 
-[^2]: A 39–43. § a 44. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.
+[^4]: A 39–43. § a 44. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.

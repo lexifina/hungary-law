@@ -54,7 +54,7 @@ a) magyar jelnyelv,
 
 b) a Jtv. mellékletében foglalt valamely speciális kommunikációs rendszer;
 
-14. tolmácsszolgálat: a Magyar Köztársaság területén állami támogatással működő jelnyelvi tolmácsszolgálat;
+14.[^1] tolmácsszolgálat: a Magyarország területén állami támogatással működő jelnyelvi tolmácsszolgálat;
 
 15. tolmácsszolgáltatási fajta: az alábbi tolmácsszolgáltatások valamelyike:
 
@@ -69,3 +69,5 @@ d) a Jtv. 10. § (4) bekezdése szerinti, oktatás, képzés kapcsán szervezett
 e) a Jtv.-ben nem szabályozott, térítésköteles jelnyelvi tolmácsszolgáltatás.
 
 (2) Ha a fenntartó helyi önkormányzatok valamely intézményi társulása, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában az intézményi társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
+
+[^1]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja szerint módosított szöveg.
