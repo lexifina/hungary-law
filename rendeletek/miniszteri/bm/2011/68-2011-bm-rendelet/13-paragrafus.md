@@ -1,1 +1,0 @@
-## 12. § A belügyi szervek szociális és kegyeleti gondoskodással kapcsolatos egyes feladatairól 39/1997. (VII. 18.) BM rendelet 19. § (1) bekezdés a) pontjában „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

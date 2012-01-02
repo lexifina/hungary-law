@@ -1,1 +1,0 @@
-## 1. § A Repülőtéri Biztonsági Főigazgatóság létesítéséről, feladatáról és hatásköréről szóló 24/1990. (IX. 5.) BM rendelet 2. § (1) bekezdés c) pontjában a „Magyar Köztársaság területére” szövegrész helyébe a „Magyarországra” szöveg lép.

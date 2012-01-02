@@ -1,1 +1,0 @@
-## 11. § Az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények köréről szóló 24/1997. (III. 26.) BM rendelet 1. § i) pontjában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

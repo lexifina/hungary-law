@@ -1,1 +1,0 @@
-## 9. § A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 20/1997. (III. 19.) BM rendelet 2. számú mellékletének II. pont 1. alpontjában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

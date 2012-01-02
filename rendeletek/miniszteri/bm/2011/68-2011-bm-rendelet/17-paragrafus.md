@@ -1,1 +1,0 @@
-## 16. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 37/1998. (VIII. 18.) BM rendelet 2. §-át megelőző címben „A Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
