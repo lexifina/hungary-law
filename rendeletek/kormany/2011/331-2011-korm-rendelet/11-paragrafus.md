@@ -1,1 +1,0 @@
-## „(3) Abban az esetben, ha a rendszeres szociális segélyre jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, a rendszeres szociális segély Szt. 37. § (4) bekezdése szerinti legmagasabb összege 19 526 Ft.”

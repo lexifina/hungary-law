@@ -1,4 +1,4 @@
-## 19–21. §[^2]
+## 19–21. §[^5]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3–18. § 2012. január 1-jén lép hatályba.
 
-[^2]: A 19–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 19–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

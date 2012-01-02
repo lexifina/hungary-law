@@ -1,3 +1,0 @@
-## 8. § A Pr. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ha az Szt. 33. § (1) bekezdés a) pontjában meghatározott egészségkárosodott személy a kérelméhez a Nemzeti Rehabilitációs és Szociális Hivatalnak (a továbbiakban: szakértői bizottság) a munkaképesség-csökkenés, az egészségkárosodás vagy az egészségi állapot minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalását vagy szakvéleményét nem csatolta, a hatóság a munkaképesség legalább 67%-os mértékű csökkenése, a legalább 50%-os mértékű egészségkárosodás fennállása, illetve az egészségi állapot komplex minősítés alapján megállapított mértéke kérdésében – szakhatósági állásfoglalás kiadása céljából – megkeresi a szakértői bizottságot.”
