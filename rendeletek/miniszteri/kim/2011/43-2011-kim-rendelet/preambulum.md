@@ -1,1 +1,0 @@
-A jogalkotásról szóló 2010. évi CXXX. törvény 30. § (2) bekezdésében foglalt felhatalmazás alapján – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
