@@ -1,11 +1,9 @@
-## „r) ellátja az (1) bekezdés szerinti közhasznú megállapodásban meghatározott egyéb feladatokat.”
+## 35. §[^5]
 
-36. § (1) Hatályát veszti
+36. § (1)[^6]
 
-a) a doppingellenes tevékenység szabályairól szóló 55/2004. (III. 31.) Korm. rendelet,
+(2)[^7]
 
-b) a doppingellenes tevékenység szabályairól szóló 55/2004. (III. 31.) Korm. rendelet módosításáról szóló 88/2007. (IV. 26.) Korm. rendelet,
-
-c) a doppingellenes tevékenység szabályairól szóló 55/2004. (III. 31.) Korm. rendelet, valamint a kormányzati szerkezetátalakításból eredő egyes gazdálkodási feladatok változásával kapcsolatos kormányrendeletek módosításáról szóló 343/2008. (XII. 30.) Korm. rendelet.
-
-(2) Hatályát veszti a 34. §.
+[^5]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 36. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 36. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
