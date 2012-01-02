@@ -1,1 +1,0 @@
-## 33. § A kötélvontatású személyszállító vasutakról és az Országos Vasúti Szabályzat III. kötetének kiadásáról szóló 26/2003. (IV. 28.) GKM rendelet 1. §-ában és 10. számú melléklet 1. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,1 +1,0 @@
-## 14. § A hajózásbiztonsági ellenőri munkakörre vonatkozó szakmai feltételekről és az ellenőrök azonosító okmányáról szóló 10/2001. (III. 2.) KöViM rendelet 1. § (1) bekezdésében az „A Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,1 +1,0 @@
-## 32. § Egyes folyékony tüzelő- és fűtőanyagok kéntartalmának csökkentéséről szóló 17/2003. (IV. 4.) GKM–KvVM–PM együttes rendelet 3/A. § (5) bekezdés a) pontjában a „Magyar Köztársaságban” szövegrész helyébe a „Magyarországon” szöveg lép.

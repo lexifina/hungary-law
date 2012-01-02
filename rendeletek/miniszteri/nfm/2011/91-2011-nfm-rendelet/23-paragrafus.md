@@ -1,1 +1,0 @@
-## 22. § A légijárművel végzett gazdasági célú légiközlekedési tevékenység engedélyezésének rendjéről szóló 10/2002. (II. 6.) KöViM rendelet 9. § (3) bekezdésében a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

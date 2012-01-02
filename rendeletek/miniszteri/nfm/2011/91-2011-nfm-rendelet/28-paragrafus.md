@@ -1,1 +1,0 @@
-## 27. § A 24 méter és annál nagyobb hosszúságú tengeri halászhajókra vonatkozó biztonsági követelményekről szóló 22/2002. (IV. 27.) KöViM rendelet 2. számú melléklet MEGFELELÉSI BIZONYÍTVÁNY és MENTESÍTÉSI BIZONYÍTVÁNY részében az „a MAGYAR KÖZTÁRSASÁG” szövegrész helyébe a „MAGYARORSZÁG” szöveg lép.

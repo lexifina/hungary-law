@@ -1,1 +1,0 @@
-## 42. § A közúti jelzőtáblák megtervezésének, alkalmazásának és elhelyezésének követelményeiről szóló 83/2004. (VI. 4.) GKM rendelet 1. § (2) bekezdés a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

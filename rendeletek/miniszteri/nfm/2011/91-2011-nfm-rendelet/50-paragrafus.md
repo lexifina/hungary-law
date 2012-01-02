@@ -1,1 +1,0 @@
-## 49. § A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendelet 2. § k) és l) pontjában, 9. § (1) bekezdés c) pontjában és 11. § (2) bekezdés d) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

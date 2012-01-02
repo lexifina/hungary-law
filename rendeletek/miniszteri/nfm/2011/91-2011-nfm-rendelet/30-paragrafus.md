@@ -1,1 +1,0 @@
-## 29. § A hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESZCSM együttes rendelet 4. és 5. számú mellékletében a „MAGYAR KÖZTÁRSASÁG” szövegrész helyébe a „MAGYARORSZÁG” szöveg lép.

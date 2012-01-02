@@ -1,1 +1,0 @@
-## 53. § A légiforgalmi irányító szolgálatot ellátó és a légiforgalmi szakszemélyzet képzését végző szervezetről szóló 83/2006. (XII. 13.) GKM rendelet 1. § (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

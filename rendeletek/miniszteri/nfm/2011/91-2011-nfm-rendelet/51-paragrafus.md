@@ -1,1 +1,0 @@
-## 50. § A vasúti társaságok működésének engedélyezéséről szóló 45/2006. (VII. 11.) GKM rendelet 10. §-ában és 17. § (5) bekezdés e) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

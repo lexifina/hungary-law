@@ -1,1 +1,0 @@
-## 58. § A Gazdasági és Közlekedési Minisztérium egyes fejezeti kezelésű előirányzataiból finanszírozott, állami támogatásnak minősülő felhasználások általános szabályairól szóló 6/2008. (III. 7.) GKM rendelet 4. § (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

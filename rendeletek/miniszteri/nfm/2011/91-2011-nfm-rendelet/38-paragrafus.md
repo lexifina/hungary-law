@@ -1,1 +1,0 @@
-## 37. § A kőolaj és kőolajtermékekre vonatkozó nemzetközi adatszolgáltatásról szóló 20/2004. (II. 27.) GKM rendelet 2. § b) pontjában és 7. § e) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
