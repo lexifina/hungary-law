@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló 27/2009. (X. 29.) ÖM rendelet.
+## 12. §[^2]
 
 1. melléklet a 45/2011. (XII. 7.) BM rendelethez
 
@@ -29,3 +29,5 @@
 12. Tűzállóságot növelő bevonati rendszerek alkalmazását, karbantartását végzők.
 
 13. Beépített hő- és füstelvezető rendszerek telepítését, javítását, karbantartását végzők.
+
+[^2]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
