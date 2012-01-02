@@ -6,9 +6,7 @@
 
 (3)
 
-(4) Az Éltv. 64. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A bírság összegét az azt kiszabó szerv számlájára kell befizetni.”
+(4)
 
 (5)
 
