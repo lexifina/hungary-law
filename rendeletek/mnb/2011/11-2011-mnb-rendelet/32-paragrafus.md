@@ -2,7 +2,7 @@
 
 32. § (1)[^6]
 
-(2) A 25. és 27. § 2012. január 1-jén hatályát veszti.
+(2)[^7]
 
 (3) A 26. § 2012. február 1-jén hatályát veszti.
 
@@ -13,3 +13,4 @@
 (6) Az (5) bekezdésben meghatározott feltétel bekövetkezésének napját – annak ismertté válását követően haladéktalanul – az MNB elnöke a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
 
 [^6]: A 32. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 32. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
