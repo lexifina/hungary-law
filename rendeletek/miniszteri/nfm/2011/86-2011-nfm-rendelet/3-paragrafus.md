@@ -1,1 +1,0 @@
-## „(5) Amennyiben azon a vasútállomáson, ahol az utas a vonatra felszáll, nincs pénztár vagy a menetjegykiadás szünetel, a szolgáltató köteles a vonaton pótdíj felszámítása nélkül egy utazásra érvényes menetjegyet kiszolgáltatni. Bérletjegy vagy csoportos utazásra menetjegy járművön (vonaton vagy autóbuszon) való kiszolgáltatását a szolgáltató az üzletszabályzatában kizárhatja.”
