@@ -1,3 +1,3 @@
-22. § (1) A Pesti Vigadó épületének rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 142/2011. (VII. 21.) Korm. rendelet 1. melléklet D oszlop 7., 8., 9. és 11. sorában, továbbá a 2. melléklet B oszlop 3. sorában az „Országos Katasztrófavédelmi Főigazgatóság” szövegrész helyébe a „Fővárosi Katasztrófavédelmi Igazgatóság” szöveg lép.
+22. §[^6]
 
-(2) A Pesti Vigadó épületének rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 142/2011. (VII. 21.) Korm. rendelet 1. melléklet E oszlop 7., 8., 9. és 11. sorában, továbbá a 2. melléklet C oszlop 3. sorában a „katasztrófák elleni védekezésért felelős miniszter” szövegrész helyébe a „hivatásos katasztrófavédelmi szerv központi szerve” szöveg lép.
+[^6]: A 17–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

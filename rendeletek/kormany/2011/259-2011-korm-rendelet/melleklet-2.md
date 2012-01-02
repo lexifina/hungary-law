@@ -90,12 +90,6 @@
 
 | 40. | Egyéb tűzvédelmi jogszabályban vagy a tűzvédelmi szabályzatokban foglalt előírások, továbbá a tűzvédelmi szabványok előírásainak megszegése esetén | 20 000 | 60 000 |
 
-2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez
+2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^10]
 
-A 282/2007. (X. 26.) Korm. rendelet 4. számú mellékletének 2. sorának felvezető szövege, valamint a) és b) pontja helyébe a következő mezők lépnek:
-
-(Szakvélemény adására feljogosított szervek)
-
-|  | A szakterület és az ahhoz kapcsolódó szakkérdés (vizsgálat) megjelölése | A szakvélemény adására feljogosított szervezet |
-
-| 2. | „Tűzvédelemmel kapcsolatos szakkérdés | Országos Katasztrófavédelmi Főigazgatóság és Katasztrófavédelmi Igazgatóságok” |
+[^10]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
