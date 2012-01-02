@@ -1,1 +1,0 @@
-## „c) az ajánlattevő jogi helyzetében a korábbi, a közbeszerzési törvény 63. § (4) bekezdése szerint értékelt érvényes ajánlata megtételétől az elektronikus árlejtés megkezdéséig terjedő időszakban semmilyen olyan körülmény nem állt be, mely az ajánlattevőnek a közbeszerzési eljárásból a közbeszerzési törvény szerinti kizárását eredményezheti.”

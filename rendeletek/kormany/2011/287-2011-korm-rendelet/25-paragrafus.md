@@ -1,7 +1,0 @@
-## 24. § Az R2. 11. §-a helyébe a következő rendelkezés lép:
-
-## „11. § Az e rendelet hatálya alá tartozó közbeszerzési szerződések módosításának engedélyezésére, valamint a közbeszerzési eljárások utóellenőrzésére, és az eljárások eredményeként megkötött szerződések teljesítése ellenőrzésére az NFM jogosult. Ez az ellenőrzés kiterjed a szerződések módosításának, valamint a szerződés teljesítésébe más szervezet alvállalkozóként (közreműködőként) történő bevonása közbeszerzési törvényben meghatározott feltételei fennállásának vizsgálatára egyaránt. A 12. § szerint kell eljárni az e rendelet hatálya alá tartozó közbeszerzési eljárások eredményeként megkötött szerződések módosítása, valamint a korábban közbeszerzési eljárás útján megkötött szerződések e rendelet hatálybalépését követő módosítása esetén.”
-
-25. § (1) Az R2. 1. számú melléklet 4. pont a) alpontjában hatályát veszti a „(Kbt. 7/A. címe)” szövegrész.
-
-(2) Az R2. 1. számú melléklet 9. pontjában az „az államtitkot vagy szolgálati titkot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő, vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 143/2004. (IV. 29.) Korm. rendelet” szövegrész helyébe az „a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet” szöveg lép.

@@ -1,1 +1,0 @@
-## „(5) Az elektronikusan beadott ajánlatban a közbeszerzési törvény 60. § (6) bekezdése szerinti felolvasólap adatait az ajánlattevőnek az ajánlatkérő által rendelkezésre bocsátott elektronikus űrlapba kell beírni, vagy – ha ilyen nem áll rendelkezésre – a felolvasólapot önálló elektronikus dokumentumba kell foglalni.”
