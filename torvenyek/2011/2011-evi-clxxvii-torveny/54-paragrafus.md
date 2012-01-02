@@ -1,1 +1,1 @@
-54. § A magyar állampolgárságról szóló 1993. évi LV. törvény 19. § (2) bekezdésében a „a Magyar Honvédség központi adatfeldolgozó szervét” szövegrész helyébe a „Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve” szöveg lép.
+54. §
