@@ -1,10 +1,10 @@
 ## 3. § Az 1. §-t, valamint a mellékletet a folyamatban lévő ügyekben is alkalmazni kell.
 
-4. §[^3]
+4. §[^5]
 
 Melléklet a 42/2011. (XII. 2.) NGM rendelethez
 
-1/a.[^4]
+1/a.[^6]
 
 1/b. Budapest Főváros Kormányhivatala Munkaügyi Központ
 
@@ -6846,5 +6846,5 @@ Várfölde
 
 Zajk
 
-[^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A melléklet 1/a. pontját a 2. § (4) bekezdése hatályon kívül helyezte.
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A melléklet 1/a. pontját a 2. § (4) bekezdése hatályon kívül helyezte.
