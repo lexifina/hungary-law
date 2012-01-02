@@ -34,7 +34,7 @@ j)[^11] a közúti biztonsági auditori képzés és továbbképzés engedélyez
 
 k)[^12] az országos közúthálózatba tartozó autópályák, autóutak és a közúti határátkelőhelyek hídjai, valamint a harminc méter szabadnyílást meghaladó hidak kiviteli tervének jóváhagyása
 
-l)[^13] a forgalmazási követelmények szabályozása tekintetében a közlekedésért felelős miniszter szabályozási feladatkörébe tartozó vasúti és közúti termékek megfelelőségértékelését végző megfelelőségértékelő szervezetek kijelölése, ellenőrzése, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyelete”
+l)[^13] a forgalmazási követelmények szabályozása tekintetében a közlekedésért felelős miniszter szabályozási feladatkörébe tartozó vasúti és közúti termékek megfelelőségértékelését végző megfelelőségértékelő szervezetek kijelölése, ellenőrzése, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyelete
 
 ## során.
 

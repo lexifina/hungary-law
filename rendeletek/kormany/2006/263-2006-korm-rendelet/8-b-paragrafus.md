@@ -84,6 +84,6 @@ b) – annak elbírálása kérdésében, hogy a tevékenység a természet véd
 [^127]: A 8/B. § (2) bekezdés i) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés k) pontja szerint módosított szöveg.
 [^128]: A 8/B. § (5) bekezdés a) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (2) bekezdés f) és h) pontja szerint módosított szöveg.
 [^129]: A 8/B. § (6) bekezdés a) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^130]: A 8/B. § (7) bekezdését újonnan a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be, szövege a 158/2011. (VIII. 11.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^130]: A 8/B. § (7) bekezdését újonnan a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be, szövege a 304/2011. (XII. 23.) Korm. rendelet a) pontja szerint módosított szöveg.
 [^131]: A 8/B. § (8) bekezdését a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 43. §-át.
 [^132]: A 8/B. § (8) bekezdés a) pontja a 259/2011. (XII. 7.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.

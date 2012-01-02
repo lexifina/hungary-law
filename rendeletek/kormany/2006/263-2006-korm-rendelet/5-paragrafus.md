@@ -180,7 +180,7 @@ belül kell kiadni.
 
 [^29]: Az 5. § (2) bekezdése a 326/2010. (XII. 27.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^30]: Az 5. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^31]: Az 5. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. Az 5. § (4) bekezdés nyitó szövegrésze a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^31]: Az 5. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, szövege a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^32]: Az 5. § (4) bekezdés c) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
 [^33]: Az 5. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^34]: Az 5. § (5) bekezdés 1. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.

@@ -126,5 +126,5 @@ c) a Vkt.-ben előírt képesítési követelményekkel összefüggő képzési 
 
 [^97]: A 6/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^98]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^99]: A 7. § (1) bekezdés b) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^99]: A 7. § (1) bekezdés b. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^100]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
