@@ -1,3 +1,3 @@
-## 26. § A PM6. rendelet 73. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 16–26. §[^15]
 
-## „(1) A szőlőbor, a sűrített must, a töményített must és a tartósított must előállításáról, kiszereléséről, a szőlőbor előállítása során keletkezett melléktermékekről, a szőlőbor előállításához felhasznált anyagokról, a szőlőbor, a must és a melléktermékek értékesítéséről, valamint a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló miniszteri rendeletben meghatározott további jövedéki termékek előállításáról, kiszereléséről és az előállításukhoz felhasznált anyagokról pincekönyvet kell vezetni.”
+[^15]: A 16–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
