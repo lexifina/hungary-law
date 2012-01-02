@@ -1,3 +1,0 @@
-## 7. § Az egyházi jogi személyek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 218/2000. (XII. 11.) Korm. rendelet (a továbbiakban: Ekr.) bevezető része helyébe a következő szöveg lép:
-
-## „A Kormány a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Tv.) 178. § (1) bekezdés c) pontjában kapott felhatalmazás alapján az egyházak – a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvényben (a továbbiakban: Etv.) biztosított – autonómiáját figyelembe véve a következőket rendeli el:”

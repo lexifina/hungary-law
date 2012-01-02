@@ -1,3 +1,5 @@
-## 6. § Hatályát veszti a Biztkr. 19. §-ának „Az Európai Unió jogának való megfelelés” alcíme.
+## 1–6. §[^1]
 
 ## 2. Az egyházi jogi személyek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 218/2000. (XII. 11.) Korm. rendelet módosítása
+
+[^1]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

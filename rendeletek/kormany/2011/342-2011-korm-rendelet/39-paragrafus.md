@@ -1,33 +1,14 @@
-39. § (1) Az Eszkr.
+## 24–38. §[^7]
 
-1. 3. § (7) bekezdésében a „társadalmi szervezetek” szövegrész helyébe a „civil szervezetek”,
+39. § (1)[^8]
 
-2. 5. §-ában az „egyéb szervezet, közhasznú egyéb szervezet,” szövegrész helyébe az „egyéb szervezet”,
+(2)
 
-3. 8. § (1) bekezdésében, 9. § (1) bekezdésében, 19. § (3) bekezdésében az „egyéb szervezet, a közhasznú egyéb szervezet” szövegrész helyébe az „egyéb szervezet”,
+1.[^9]
 
-4. 8. § (6), (7), (10) bekezdésében, 10. §-ában, 15. § (4) bekezdésében, 16. § (5) bekezdésében, 17. § (8) bekezdésében, a 17/A. § előtti alcímben és a 17/A. § (1)–(7) bekezdésében, 17/B. § (1)–(2) bekezdésében, 18. § (2) bekezdésében, 19. § (4) bekezdésében az „egyéb szervezet, közhasznú egyéb szervezet” szövegrész helyébe az „egyéb szervezet”,
+2.[^10]
 
-5. 8. § (9) bekezdésében, 17/B. § (1) bekezdésében az „egyéb szervezetnek, közhasznú egyéb szervezetnek” szövegrész helyébe az „egyéb szervezetnek”,
-
-6. 15. § (5), (6) bekezdésében az „eredménykimutatásban, illetve a közhasznú eredménylevezetésben, a közhasznú eredménykimutatásban” szövegrész helyébe az „eredménykimutatásban”,
-
-7. 16. § (6) bekezdésében, 19. § (2), (3) bekezdésében az „egyéb szervezetnél, közhasznú egyéb szervezetnél” szövegrész helyébe az „egyéb szervezetnél”,
-
-8. 17. § (3) bekezdésében a „társadalmi szervezetnek” szövegrész helyébe a „civil szervezetnek”,
-
-9. 17. § (4) bekezdésében a „társadalmi szervezetnek” szövegrész helyébe a „civil szervezetnek, közalapítványnak”,
-
-10. 17/B. § (3) bekezdésében az „egyéb szervezet(ek), közhasznú egyéb szervezet(ek)” szövegrész helyébe az „egyéb szervezet(ek)”
-
-szöveg lép.
-
-(2) Az Eszkr.
-
-1.[^2]
-
-2. 20/B. § (9) bekezdésében „a Magyar Köztársaság” szövegrész helyébe „a Magyarország”
-
-szöveg lép.
-
-[^2]: A 39. § (2) bekezdés 1. pontja az 52. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^7]: A 24–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 39. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 39. § (2) bekezdés 1. pontja az 52. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^10]: A 39. § (2) bekezdés 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,0 @@
-## „(7) Az egyszerűsített beszámolót készítő egyéb szervezetnek az eredménylevezetésben a bevételeit, valamint a ráfordításait (költségeit), kiadásait meg kell bontani aszerint is, hogy azokat a tényleges pénzügyi teljesítés alapján vagy pénzmozgás nélküli ügylet kapcsán számolták el.”

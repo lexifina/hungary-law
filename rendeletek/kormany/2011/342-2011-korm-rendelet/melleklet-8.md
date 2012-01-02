@@ -1,5 +1,3 @@
-## Az Eszkr. 1. számú mellékletének címe helyébe a következő cím lép:
+8. melléklet a 342/2011. (XII. 29.) Korm. rendelethez[^23]
 
-## „Az egyszerűsített beszámoló mérlegének előrt tagolása az egyéb szervezetnél”
-
-8. melléklet a 342/2011. (XII. 29.) Korm. rendelethez
+[^23]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## Az Eszkr. 4. számú mellékletének címe helyébe a következő cím lép:
+10. melléklet a 342/2011. (XII. 29.) Korm. rendelethez[^25]
 
-## „Az egyszerűsített éves beszámoló mérlegének előrt tagolása az egyéb szervezetnél”
-
-10. melléklet a 342/2011. (XII. 29.) Korm. rendelethez
+[^25]: Az 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
