@@ -1,1 +1,0 @@
-## „(2) A határátkelőhelyen előterjesztett három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelmet a Rendőrség köteles haladéktalanul – elektronikus úton – döntésre felterjeszteni az Igazgatósághoz.”
