@@ -6,8 +6,6 @@
 
 ## – öttagú tanács esetén 285 000 Ft.”
 
-## 28. § Hatályát veszti:
+28. §[^2]
 
-a) a szerzői és szomszédos jogok közös kezelését végző egyesületek felügyeleti díjára vonatkozó részletes szabályokról szóló 25/2010. (XII. 28.) KIM rendelet,
-
-b) a szerzői és a szomszédos jogok közös kezelését végző egyesületek nyilvántartásának szabályairól szóló 24/2010. (XII. 28.) KIM rendelet.
+[^2]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
