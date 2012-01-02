@@ -1,4 +1,4 @@
-## 18. § Hatályát veszti az egészségügyi szakdolgozók továbbképzésének szabályairól szóló 28/1998. (VI. 17.) NM rendelet.
+## 18. §[^1]
 
 1. melléklet a 63/2011. (XI. 29.) NEFMI rendelethez
 
@@ -683,3 +683,5 @@
 17.9. Kineziológiai módszerek
 
 17.10. Szemtréning eljárások
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
