@@ -1,3 +1,5 @@
-## „5. A fentiek mellett a kormányzati koordinációs szerv munkaszerve Lakossági Tájékoztatási Munkacsoportja által irányított és ellenőrzött szervek tájékoztató anyagát ellenőrizni kell az ellentmondások kiszűrése érdekében.”
+## 105. §[^3]
 
 1. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
+
+[^3]: A 105. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
