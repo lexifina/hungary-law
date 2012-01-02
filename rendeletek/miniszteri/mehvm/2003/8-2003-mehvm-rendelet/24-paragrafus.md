@@ -2,8 +2,8 @@
 
 24. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)–(3)[^5]
+(2) A munkavédelmi tevékenység ellátásának e rendelet szerinti feltételeit a szolgálatoknál 2004. december 31-ig fokozatosan kell kialakítani.
+
+(3) A szolgálatok a rendelet hatálybalépésétől számított 180 napon belül kötelesek az MvSz-t kiadni.
 
 (4) Ahol jogszabály munkabiztonsági és munkaügyi felügyelőséget említ, azon az e rendelet szerinti munkabiztonsági hatóságot kell érteni.
-
-[^5]: A 24. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 33. §-ának 31. pontja hatályon kívül helyezte.

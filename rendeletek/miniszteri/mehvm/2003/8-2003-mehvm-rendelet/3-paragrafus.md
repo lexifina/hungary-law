@@ -4,6 +4,4 @@
 
 (2) A munkabiztonsági főfelügyelő ellenőrzi a szolgálatok munkabiztonsági tevékenységét, és ellátja a szolgálatok munkabiztonsági felügyelőinek szakmai irányítását.
 
-(3)[^2]
-
-[^2]: A 3. § (3) bekezdését a 230/2008. (IX. 12.) Korm. rendelet 6. § (2) bekezdés d) pontja hatályon kívül helyezte.
+(3) A munkabiztonsági főfelügyelő jogosult – a szabálysértési eljárást kivéve – az Mvt. 84. §-ának (1) bekezdésében meghatározott intézkedések megtételére.

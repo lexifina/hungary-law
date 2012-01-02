@@ -6,7 +6,7 @@ b) állományilletékes parancsnok: a polgári nemzetbiztonsági szolgálatok hi
 
 c) szolgálati elöljáró: a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 2. §-ának d) pontjában meghatározott személy;
 
-d)[^1]
+d) munkabiztonsági hatóság: a polgári nemzetbiztonsági szolgálatokat irányító miniszter (a továbbiakban: miniszter), a főigazgató, a munkabiztonsági főfelügyelő és a munkabiztonsági felügyelő;
 
 e) szervezett tevékenység: az Mvt. 87. §-ának 9. pontja szerinti szervezett munkavégzés és szolgálati feladat ellátása;
 
@@ -19,5 +19,3 @@ g) kötött szolgálatteljesítési (munka) hely: az a meghatározott méretű (
 h) veszélyes haditechnikai eszköz: a haditechnikai eszközök beszerzésére vonatkozó eljárási szabályokról szóló 152/1999. (X. 22.) Korm. rendelet mellékletében felsorolt olyan haditechnikai eszköz, amely használatakor az alkalmazott egészsége, testi épsége – megfelelő védelem hiányában – súlyos károsító hatásnak lehet kitéve;
 
 i) veszélyes speciális munkaeszköz: a szolgálatteljesítés vagy munkavégzés során használt saját gyártású olyan technikai eszköz, amely használatakor az alkalmazott egészsége, testi épsége – megfelelő védelem hiányában – súlyos károsító hatásnak lehet kitéve.
-
-[^1]: A 2. § d) pontját a 230/2008. (IX. 12.) Korm. rendelet 6. § (2) bekezdés d) pontja hatályon kívül helyezte.
