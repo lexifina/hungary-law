@@ -387,3 +387,27 @@
 ## 11. KOMÁROM-ESZTERGOM MEGYE
 
 ## | 146. | BAJNA Május 1. tér | Sándor-Metternich-kastélyegyüttes és parkja: kastély park, út uradalmi istálló | 147. | DÖMÖS Felsőfalu dűlő | prépostsági romok | 148. | ESZTERGOM Szent István tér 1. | vár, a királyi, majd érseki palota maradványainak együttese | 149. | ESZTERGOM Pilisszentlélek | pálos kolostorrom | 150. | KISBÉR Szabadság park 6. | volt Magyar Királyi Lovarda | 151. | KOMÁROM, Erődrendszer műemléki együttese | | | Igmándi erőd | | | Monostori erőd | | | Csillagerőd | 152. | OROSZLÁNY, Majk-puszta: kamalduli remeteség műemléki együttese | | | kastély | | | toronyrom | | | remeteházak | | | központi udvar | | | jégverem, erdő | | | gazdasági épület | | | kápolna és erdő | | | gyep | | | erdő | | | étterem (gyep) | | | gyep | | | tó, mocsár | | | udvar | 153. | OROSZLÁNY, Vértesszentkereszt | Bencés templom- és kolostorrom | 154. | TATA Hősök tere 7., 8., 9/A | Esterházy-kastély és melléképületei, park | 155. | TATA Hattyúliget u. 40. Néppark | Esterházy kerti lak, műrom és mecset | 156. | TATA Váralja u. 1-3. | a vár együttese
+
+## 12. NÓGRÁD MEGYE
+
+## | 157. | BALASSAGYARMAT Madách u. 2. | megyei börtön | 158. | DRÉGELYPALÁNK | várrom | 159. | HOLLÓKŐ Kossuth u. 82. | Palóc Múzeum | 160. | HOLLÓKŐ | várrom | 161. | MÁTRAVEREBÉLY Szentkút (Meszes tető) | remetebarlang | 162. | SALGÓTARJÁN | Salgó várrom | 163. | SZÉCSÉNY Ady E. u. 7. | Forgách-kastély, park és várkert
+
+## 13. PEST MEGYE
+
+## | 164. | ABONY Tószegi u. 51. | Vigyázó-kúria | 165. | ACSA Petőfi u. | Prónay-kastély és parkja | 166. | ASZÓD Szabadság tér 7. | újabb Podmaniczky-kastély és parkja | 167. | DABAS-GYÓN Kossuth u. 7. | Halász Móric-kúria és parkja | 168. | ÉRD Mecset u. | minaret | 169. | FÓT Vörösmarty tér 2. | Károlyi-kastély együttese és parkja | 170. | GÖDÖLLŐ Szabadság tér 1. | Grassalkovich-kastély együttese és parkja | 171. | GÖDÖLLŐ | vasútállomás királyi váróterme | 172. | GÖDÖLLŐ Babatipuszta | istállókastély | 173. | GYÖMRŐ Teleki u. 118. | Teleki-kastély és parkja | 174. | NAGYKŐRÖS Kecskeméti u. 27/B | Halász-Tanárky-kúria | 175. | PÉCEL Kálvin tér 1. | Ráday-kastély és parkja, márványistálló | 176. | PILIS Kossuth u. 31. | Beleznay-Nyáry-kastély és parkja | 177. | PILISSZENTKERESZT Romterület | ciszterci apátság romjai | 178. | POMÁZ Templom tér 3. | Teleki-kastély | 179. | RÁCKEVE Kossuth u. 95. | Savoyai-kastély és parkja | 180. | VÁC Köztársaság u. | diadalív | 181. | VÁCHARTYÁN Veres Pálné u. 5. | Rudnay-kastély | 182. | VISEGRÁD Fő u. 25-35. | a királyi palota teljes romterülete | 183. | VISEGRÁD Fő u. 37-41. | ferences kolostor romjai és a kapcsolódó épületek | 184. | VISEGRÁD Fő utca Salamon-torony u. Várhegy | erődrendszer, vízibástya, kapu és várfalak, Alsóvár (Salamon-torony) Fellegvár és a csatlakozó várfalak | 185. | VISEGRÁD Sibrik-domb | római castrum és X-XI. századi várispánság romjai | 186. | VISEGRÁD Sibrik-domb | esperesi templom romjai | 187. | ZSÁMBÉK Régi templom u. | premontrei prépostság romjai
+
+## 14. SOMOGY MEGYE
+
+## | 188. | BALATONSZENTGYÖRGY Csillagvár u. 68. | tájház | 189. | BALATONSZENTGYÖRGY Irtási dűlő | csillagvár | 190. | ISTVÁNDI Kossuth u. 59. | tájház | 191. | SOMOGYVÁR Várhegy | Szent Egyed bazilika és bencés apátság romjai | 192. | SZENNA Árpád u. 38. | tájház | 193. | ZAMÁRDI Szántódpuszta | majorsági épületegyüttes | 194. | ZAMÁRDI Fő u. 83. | tájház
+
+## 15. SZABOLCS-SZATMÁR-BEREG MEGYE
+
+## | 195. | NYÍRBÁTOR, a Báthori-várkastély területe | | Édesanyák útja | | | Vár u. 1. | Báthori-várkastély, magtár | 196. | SZABOLCS Földvár u. | földvár | 197. | TARPA Árpád u. | szárazmalom | 198. | TUZSÉR Ady E. u. 2. | Lónyay-kastély és parkja | 199. | TÚRISTVÁNDI Zrínyi M. u. | vízimalom | 200. | VAJA Damjanich u. 79. | Vay-kastély és parkja
+
+## 16. TOLNA MEGYE
+
+## | 201. | LENGYEL | Apponyi-kastély és parkja | 202. | OZORA | Ozorai Pipo vára | 203. | DUNAFÖLDVÁR Rátkay köz 2. | török torony | 204. | SIMONTORNYA Vár tér 10. | vár | 205. | KÖLESD-FELSŐHÍDVÉGPUSZTA | Hiemer-Jeszenszky-kastély
+
+## 17. VAS MEGYE
+
+## | 206. | BOZSOK Rákóczi u. 1. | Sibrik-kastélyegyüttes és parkja | 207. | BOZSOK Rákóczi u. 101. | Batthyány-várkastély romja és kertje | 208. | CÁK Gesztenyés 3., 4., 5., 6., 28, 29., 30., 31., 32. | gesztenyés pincesor | 209. | CSÁKÁNYDOROSZLÓ Fő u. 9-13. | Batthyány-kastélyegyüttes és parkja | 210. | HEGYHÁTSZENTPÉTER Béke u. 86. és 88. | tájház | 211. | JÁNOSHÁZA Vár u. 50-54. | Erdődy-Choron-várkastély és parkja | 212. | KÖRMEND Gr. Batthyány L. u. 1. | Batthyány-Strattmann-várkastély teljes együttese: főépület, melléképületek, kastélypark és építményei | 213. | KŐSZEG Rajnis J. u. 9. | Jurisics-vár teljes együttese | 214. | SÁRVÁR Várkerület 1. | Nádasdy-várkastély és kertje | 215. | SZALAFŐ Pityerszer 1., 2., 3. és 9/A. | népi műemléki együttes | 216. | VASSURÁNY Vasút u. 2. | Schilson-kastély és parkja | 217. | VASSZÉCSENY Munkás u. 3. | Ó-Ebergényi-kastély és parkja
