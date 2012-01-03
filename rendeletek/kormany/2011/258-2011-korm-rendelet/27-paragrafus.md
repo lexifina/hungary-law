@@ -1,3 +1,3 @@
-## 26. §[^10]
+## 26. §[^11]
 
-[^10]: A 26. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^11]: A 26. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

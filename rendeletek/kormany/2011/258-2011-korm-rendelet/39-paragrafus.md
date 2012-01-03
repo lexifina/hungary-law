@@ -1,3 +1,3 @@
-## 38. §[^22]
+## 38. §[^23]
 
-[^22]: A 38. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^23]: A 38. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

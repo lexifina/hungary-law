@@ -12,8 +12,10 @@ b) az R4. 1. § (3) bekezdése,
 
 c) az R8. 41. § (2a) bekezdése.
 
-(4) 2012. január 2-án hatályát veszti a rendelet 24–44. §-a.
+(4)[^4]
 
 (5) 2012. július 1-jén hatályát veszti a rendelet 17–20. §-a.
 
 (6) 2012. szeptember 1-jén hatályát veszti az R. 22. §-a és az azt megelőző alcím.
+
+[^4]: A 14. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
