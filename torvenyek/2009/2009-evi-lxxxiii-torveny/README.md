@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-83-00-00
 | 2010-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-83-00-00.3 |
 | 2010-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-83-00-00.4 |
 | 2012-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-83-00-00.5 |
+| 2012-01-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-83-00-00.6 |
