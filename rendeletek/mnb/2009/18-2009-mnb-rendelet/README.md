@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-18-20-2
 | 2011-09-01 | 2009-18-20-2C.4 | 8/2011. (VII. 13.) MNB rendelet |
 | 2012-01-01 | 2009-18-20-2C.5 | 15/2010. (X. 12.) MNB rendelet |
 | 2012-01-02 | 2009-18-20-2C.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-01-03 | 2009-18-20-2C.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
