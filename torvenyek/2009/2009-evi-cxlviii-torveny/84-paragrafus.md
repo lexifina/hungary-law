@@ -10,4 +10,4 @@
 
 (7)
 
-(8) A (3) bekezdés 2012. január 2-án hatályát veszti. Ez a bekezdés 2012. január 3-án hatályát veszti.
+(8)
