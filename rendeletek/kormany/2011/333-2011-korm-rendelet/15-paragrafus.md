@@ -6,4 +6,6 @@
 
 (2) A 40. § (2) bekezdése 2013. január 1-jén lép hatályba.
 
-(3) A 7–15. alcím 2012. január 2-án hatályát veszti. A 16. alcím 2013. január 2-án hatályát veszti.
+(3)[^1] A 16. alcím 2013. január 2-án hatályát veszti.
+
+[^1]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
