@@ -6,9 +6,10 @@
 
 (3) A 25. § (3) bekezdéssel megállapított R. 27. § (3) bekezdése 2013. január 19-én lép hatályba.
 
-(4) A (2) bekezdésben említett rendelkezések, továbbá az R. 14. § (2) bekezdése és az R. 8. mellékletének 9. pontja 2012. január 2-án hatályukat vesztik.
+(4)[^5]
 
-(5)[^5]
+(5)[^6]
 
 [^4]: Az 16–40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 41. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 41. § (4) beekzdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 41. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

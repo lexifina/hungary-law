@@ -1,4 +1,4 @@
-## 42. §[^6]
+## 42. §[^7]
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -8,4 +8,4 @@ a) az Európai Parlament és a Tanács 2006/126/EK irányelve (2006. december 20
 
 b) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról.
 
-[^6]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
