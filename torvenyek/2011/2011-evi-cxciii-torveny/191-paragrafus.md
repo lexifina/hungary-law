@@ -2,7 +2,7 @@
 
 191. § (1)
 
-(2) E törvény 13–18. mellékletei 2012. január 2-án hatályukat vesztik.
+(2)
 
 (3)
 
