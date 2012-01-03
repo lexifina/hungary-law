@@ -2788,6 +2788,8 @@
 
 ## 1371. Phytonadion (INCI), Phytomenadion (INN) (CAS-szám 84-80-0/81818-54-4; EK-szám 201- 564-2)
 
+## 1372.[^94] 2-Amino-fenol (o-Aminophenol; CI 76520) és sói (CAS-szám 95-55-6/67845-79-8/51-19-4; EK-szám: 202-431-1/267-335-4)
+
 ## _______
 
 ## (1) Az egyes összetevőket lásd a 364. hivatkozási szám alatt.
@@ -2798,7 +2800,8 @@
 
 ## * Ebben a mellékletben a csillaggal jelzett nevek közlésre kerültek a Gyógyszeripari Termékek Nemzetközi Nem Védjegyzett Nevek (INN), Javasolt Nemzetközi Nem Védjegyzett Nevek 1–33 listán, WHO, Genf, 1975. augusztus.
 
-3. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^94]
+3. számú melléklet a 40/2001. (XI. 23.) EüM rendelethez[^95]
 
 [^93]: OJ L 159, 29.6.1996, p.1.
-[^94]: A 3. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (3) bekezdésével megállapított, valamint a 14. § (9) bekezdése szerint módosított szöveg. A 3. számú melléklet a 3/2004. (XI. 17.) EüM rendelet 4. § (2) bekezdése és 5. § (3)–(4) bekezdése, a 61/2005. (XII. 20.) EüM rendelet 2. § (1)–(2) bekezdése, a 17/2006. (IV. 19.) EüM rendelet 4. § (2) bekezdése és (3) bekezdésének b)–c) pontja, a 48/2006. (XII. 28.) EüM rendelet 6. § (1) bekezdése, a 47/2007. (X. 31.) EüM rendelet 4. § (1) bekezdése, a 3/2008. (I. 11.) EüM rendelet 3. §-a, 4. § (6)–(7) bekezdése, a 37/2008. (IX. 26.) EüM rendelet 4. §-a, a 16/2009. (V. 11.) EüM rendelet 6. § (7) bekezdés a)–b) pontja, a 27/2009. (VIII. 5.) EüM rendelet 2. § (2) bekezdése, a 14/2010. (IV. 7.) EüM rendelet 6. § (1) bekezdése, a 7/2010. (IX. 2.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^94]: Az 2. melléklet 1372. pontját a 75/2011. (XII. 29.) NEFMI rendelet 3. § (1) bekezdése iktatta be.
+[^95]: A 3. számú melléklet az 5/2004. (II. 10.) ESZCSM rendelet 13. § (3) bekezdésével megállapított, valamint a 14. § (9) bekezdése szerint módosított szöveg. A 3. számú melléklet a 3/2004. (XI. 17.) EüM rendelet 4. § (2) bekezdése és 5. § (3)–(4) bekezdése, a 61/2005. (XII. 20.) EüM rendelet 2. § (1)–(2) bekezdése, a 17/2006. (IV. 19.) EüM rendelet 4. § (2) bekezdése és (3) bekezdésének b)–c) pontja, a 48/2006. (XII. 28.) EüM rendelet 6. § (1) bekezdése, a 47/2007. (X. 31.) EüM rendelet 4. § (1) bekezdése, a 3/2008. (I. 11.) EüM rendelet 3. §-a, 4. § (6)–(7) bekezdése, a 37/2008. (IX. 26.) EüM rendelet 4. §-a, a 16/2009. (V. 11.) EüM rendelet 6. § (7) bekezdés a)–b) pontja, a 27/2009. (VIII. 5.) EüM rendelet 2. § (2) bekezdése, a 14/2010. (IV. 7.) EüM rendelet 6. § (1) bekezdése, a 7/2010. (IX. 2.) NEFMI rendelet 2. § (2) bekezdése, a 75/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdése szerint módosított szöveg.

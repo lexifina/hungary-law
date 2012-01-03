@@ -1,4 +1,4 @@
-2. § (1)[^7] A Magyar Köztársaság területén kozmetikai terméket csak olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság gyárthat, amely gyártási tevékenységét a 3. § (1) bekezdése szerint bejelenti.
+2. § (1)[^7] A Magyarországon kozmetikai terméket csak olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság gyárthat, amely gyártási tevékenységét a 3. § (1) bekezdése szerint bejelenti.
 
 (2)[^8] Kozmetikai termék gyártását olyan személy irányíthatja, aki gyógyszerészi, orvosi, felsőfokú vegyészi, illetve vegyészmérnöki végzettséggel, valamint a szakterületen 3 éves szakmai gyakorlattal rendelkezik (a továbbiakban: felelős személy).
 
@@ -14,7 +14,7 @@
 
 (8)[^14] 2013. március 11. napjától tilos olyan kozmetikai terméket (ideértve a mintapéldányt is) forgalomba hozni, amelynek végső összetételére, illetve egyes összetevőire vagy összetevő-kombinációira vonatkozóan az ismételt dózis toxicitással, a reproduktív toxicitással és a toxikokinetikával kapcsolatos vizsgálatokat az e rendelet követelményeinek való megfelelés érdekében alternatív módszer európai közösségi szintű hivatalos elfogadását követően az alternatív módszertől eltérően állatkísérlet felhasználásával igazolták.
 
-[^7]: A 2. § (1) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 2. § (1) bekezdésével megállapított, és a 75/2011. (XII. 29.) NEFMI rendelet 2. § c) pontja szerint módosított szöveg.
 [^8]: A 2. § (2) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 14. § (7) bekezdésének c) pontja szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 14. § (6) bekezdésének c) pontja szerint módosított szöveg.
 [^10]: A 2. § (4) bekezdése a 14/2010. (IV. 7.) EüM rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.

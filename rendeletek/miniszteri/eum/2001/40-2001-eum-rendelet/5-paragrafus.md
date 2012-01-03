@@ -20,7 +20,7 @@ h)[^20] a termék, illetve összetevői kifejlesztésére vagy biztonságosság�
 
 (3) Az OÉTI a (2) bekezdés szerinti információ rendelkezésre állásának helyéről a 13. § (1) bekezdés b) pontja szerinti hatóság megkeresésére 3 munkanapon belül tájékoztatja az ellenőrző hatóságot.
 
-(4)[^22] Amennyiben a kozmetikai termék az Európai Gazdasági Térség területén kívülről származik és az első import helye a Magyar Köztársaság területe, úgy a forgalmazó a forgalomba hozatal előtt tájékoztatja az OÉTI-t az (1) bekezdésben meghatározott adatok rendelkezésre állásának helyéről.
+(4)[^22] Amennyiben a kozmetikai termék az Európai Gazdasági Térség területén kívülről származik és az első import helye a Magyarország, úgy a forgalmazó a forgalomba hozatal előtt tájékoztatja az OÉTI-t az (1) bekezdésben meghatározott adatok rendelkezésre állásának helyéről.
 
 (5)[^23] Az (1) bekezdésben meghatározott, Magyarországon elhelyezett termékinformációs dokumentációnak magyar vagy angol nyelven kell rendelkezésre állnia.
 
@@ -39,7 +39,7 @@ d) az 5.1. veszélyességi osztály.
 [^19]: Az 5. § (1) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 33/2011. (VI. 21.) NEFMI rendelet 2. § a) pontja szerint módosított szöveg.
 [^20]: Az 5. § (1) bekezdésének h) pontja a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése, a 33/2011. (VI. 21.) NEFMI rendelet 2. § b) pontja szerint módosított szöveg.
 [^21]: Az 5. § (2) bekezdése a 34/2004. (IV. 26.) ESZCSM rendelet 10. §-ának (5) bekezdése, a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése, a 3/2008. (I. 11.) EüM rendelet 4. § (8) bekezdésének a) pontja szerint módosított szöveg.
-[^22]: Az 5. § (4) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 5. § (2) bekezdésével megállapított és a 3/2004. (XI. 17.) EüM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^22]: Az 5. § (4) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 5. § (2) bekezdésével megállapított, és a 75/2011. (XII. 29.) NEFMI rendelet d) pontja szerint módosított szöveg.
 [^23]: Az 5. § (5) bekezdését az 5/2004. (II. 10.) ESZCSM rendelet 5. § (3) bekezdése iktatta be.
 [^24]: Az 5. § (6) bekezdését az 5/2004. (II. 10.) ESZCSM rendelet 5. § (3) bekezdése iktatta be, szövege a 16/2009. (V. 11.) EüM rendelet 6. § (6) és (8) bekezdése szerint módosított szöveg.
 [^25]: Az 5. § (7) bekezdését a 16/2009. (V. 11.) EüM rendelet 2. §-a iktatta be.
