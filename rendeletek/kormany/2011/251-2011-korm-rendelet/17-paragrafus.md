@@ -1,1 +1,0 @@
-## „(12) Ha a biztonsági övezeten belül más nyomvonalas létesítmény üzemzavarának elhárítása szükséges, az üzemzavarral érintett nyomvonalas létesítmény üzemeltetője köteles az üzemzavar-elhárítás megkezdése előtt a biztonsági övezettel védett létesítmény, szállítóvezeték vagy elosztóvezeték üzemeltetőjével a tervezett munkálatokról és azok helyéről egyeztetni.”
