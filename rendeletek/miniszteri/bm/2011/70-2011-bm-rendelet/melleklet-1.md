@@ -1,3 +1,5 @@
+## 35–36. §[^1]
+
 1. melléklet a 70/2011. (XII. 30.) BM rendelethez
 
 ## A munkavédelmi szakképesítésű személyek és a munkavédelmi felügyeletet ellátó
@@ -75,3 +77,5 @@ Ahol felsőfokú munkavédelmi szakképesítésű személy alkalmazása kötelez
 4. Az 1. pontban foglalt táblázat 3-5. sorában meghatározott szervek esetében indokolt, hogy a főfelügyelők – a munkavédelmi szakképzettség mellett – az adott rendvédelmi szervnek megfelelő felsőfokú szakmai végzettséggel is rendelkezzenek.
 
 * A 3. pontban meghatározottak szerint, a kötelezően foglalkoztatandó szakember mellett munkavállalói létszámhoz igazítandó azzal, hogy minden megyében és megyei jogállású szervnél kötelező felsőfokú végzettségű munkavédelmi szakember foglalkoztatása.
+
+[^1]: A 35–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
