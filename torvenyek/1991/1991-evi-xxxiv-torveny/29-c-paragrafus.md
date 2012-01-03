@@ -14,7 +14,7 @@
 
 (7) A szervezőnek biztosítani kell a tárolt és hozzáférhetővé tett adatok biztonságát, az adatokat az adómegállapításhoz való jog elévüléséig meg kell őriznie.
 
-(8) Az állami adóhatóság jóváhagyhatja, hogy az (5) bekezdésben meghatározott adattárolására szolgáló eszköz ne kerüljön Magyarország területén elhelyezésre, ha az adatfeldolgozására és tárolására szolgáló eszköz (szerver) elhelyezése szerinti EGT-állam valamely állami adóhatóság felügyeli a szervező szerencsejáték szervezői tevékenységét és ezen felügyelő hatóság megállapodással rendelkezik az állami adóhatósággal a szervező ezen országban végzett szerencsejáték szervezői tevékenységének felügyeletére vonatkozóan.
+(8) Az állami adóhatóság jóváhagyhatja, hogy az (5) bekezdésben meghatározott adattárolására szolgáló eszköz ne kerüljön Magyarország területén elhelyezésre, ha az adatfeldolgozásra és –tárolásra szolgáló eszköz (szerver) elhelyezése szerinti EGT-állam hatósága felügyeli a szervező szerencsejáték szervezői tevékenységét és ezen felügyelő hatóság megállapodással rendelkezik az állami adóhatósággal a szervező által Magyarország területén nyújtott szerencsejáték szolgáltatás felügyeletére vonatkozóan.
 
 (9) A szervező köteles a szerencsejáték-szervezői tevékenységéről havonta, a tárgyhónapot követő hónap 20. napjáig elszámolást, jelentést készíteni és azt elektronikus úton az állami adóhatóság részére benyújtani.
 

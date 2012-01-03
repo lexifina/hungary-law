@@ -12,7 +12,7 @@ c) a játéktervvel,
 
 d) a sorsolásos játékokkal és a fogadásokkal,
 
-e) a pénznyerő automaták, helyhez kötött szerver alapú pénznyerő automaták, nem helyhez kötött pénznyerő rendszerek, játékautomaták, játéktermek, kártyatermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
+e) a pénznyerő automaták, helyhez kötött szerver alapú pénznyerő automaták, nem helyhez kötött szerver alapú pénznyerő rendszerek, játékautomaták, játéktermek, kártyatermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
 
 f) a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének személyi, pénzügyi műszaki és informatikai feltételeivel, valamint a központi szerver működtetőjét megillető szolgáltatási díjjal,;
 

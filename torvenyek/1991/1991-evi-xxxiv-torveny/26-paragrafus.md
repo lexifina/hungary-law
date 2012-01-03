@@ -2,7 +2,9 @@
 
 (1a) Helyhez kötött szerver alapú pénznyerő automatának minősül az a műszaki egység (terminál, konzol), amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a hozzácsatlakoztatott műszaki egység (terminál, konzol) pedig játékteremben, játékkaszinóban található.
 
-(1b) Nem helyhez kötött szerver alapú pénznyerő rendszernek minősül az a szerencsejáték szervező által üzemeltett rendszer, amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a játékosok – a nem helyhez kötött pénznyerő rendszerhez – szintén az internet mint távközlési rendszer útján kapcsolódnak.
+(1b) Nem helyhez kötött szerver alapú pénznyerő rendszernek minősül az a szerencsejáték szervező által üzemeltett rendszer, amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a játékosok – a nem helyhez kötött szerver alapú pénznyerő rendszerhez – szintén az internet mint távközlési rendszer útján kapcsolódnak.
+
+(1c) A helyhez kötött szerver alapú pénznyerő automatára és a nem helyhez kötött szerver alapú pénznyerő rendszerre e törvénynek a pénznyerő automatákra vonatkozó előírásait megfelelően alkalmazni kell.
 
 (2) Az állami adóhatóság az engedélyben a pénznyerő automatát I. vagy II. kategóriába sorolja:
 
@@ -94,10 +96,18 @@ d) nem felel meg jogszabályban meghatározott egyéb követelményeknek.
 
 (21) A szerencsejáték-szervező negyedévenként pénznyerő automata kategóriánként elkülönített időszaki elszámolást készít az állami adóhatóság részére, amelyet a negyedévet követő hónap tizenötödik és utolsó napja között köteles gépi adathordozón benyújtani.
 
-(22) Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben kizárólag szerver alapú pénznyerő automata üzemeltethető.
+(22) Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben kizárólag helyhez kötött szerver alapú pénznyerő automata üzemeltethető.
 
 (23) Az elektronikus kaszinóban szerver alapú pénznyerő automata is üzemeltethető. Az elektronikus kaszinóban üzemeltetett pénznyerő automata ellenőrző készülékét abban az esetben is online kapcsolati módon a szerver alapú pénznyerő automatákat üzemeltető szerverhez kell csatlakoztatni, ha a pénznyerő automata nem minősül szerver alapú pénznyerő automatának.
 
-(24) Helyhez kötött szerver alapú pénznyerő automatákat és nem helyhez kötött szerver alapú pénznyerő rendszert üzemeltető központi szerver működtetésére, engedély annak a Magyarországon bejegyzett székhellyel, legalább 50 millió forint jegyzett tőkével, magyar állampolgár vezető tisztségviselővel rendelkező gazdasági társaságnak adható, amely a központi szerver üzemeltetését kizárólagos tevékenységként végzi, és amelynek a szavazatok legalább 51%-ával rendelkező tagja (részvényese) a kérelem benyújtását megelőzően legalább 10 éven át Magyarországon szerencsejáték szervezésével foglalkozott. A központi szerver működtetésére vonatkozó engedély érvényességi ideje alatt a társaság tagjai, részvényesei, illetve vezető tisztségviselői, valamint azok Ptk. 685. § b) pont szerinti közeli hozzátartozói, nem lehetnek tagjai, vagy vezető tisztségviselői szerencsejáték szervező, vagy pénznyerő automata gyártó gazdálkodó szervezetnek.
+(24)
 
-(25) Nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetésére engedély annak a Magyarországon bejegyzett székhellyel rendelkező gazdasági társaságnak adható, amely jegyzett tőkéje eléri az 50 millió forintot, rendelkezik legalább egy magyar állampolgárságú vezető tisztségviselővel, és amely tagja(i) (részvényese(i)), a kérelem benyújtását megelőzően – a benyújtás időpontjától számítva – legalább 10 éven át folyamatosan, Magyarországon szerencsejáték szervezésével foglalkozott.
+(25) Nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetésére engedély annak a Magyarországon bejegyzett székhellyel rendelkező gazdasági társaságnak adható, amely
+
+a) jegyzett tőkéje eléri az 50 millió forintot,
+
+b) rendelkezik legalább egy magyar állampolgárságú vezető tisztségviselővel,
+
+c) valamennyi tagja (részvényese), a kérelem benyújtását megelőzően – a benyújtás időpontjától számítva – legalább 10 éven át folyamatosan, Magyarországon szerencsejáték szervezésével foglalkozó gazdasági társaságnak volt tagja (részvényese) vagy vezető tisztségviselője;
+
+d) többségi tulajdonosa az engedély benyújtását megelőzően – a benyújtás időpontjától számítva – legalább 10 éven át folyamatosan olyan Magyarországon engedélyezett szerencsejáték szervezésére irányuló tevékenységet folytatott, ahol a játékosok személyazonossága kétséget kizáró módon ellenőrzésre került és adataik nyilvántartása és kezelése a jogszabályi előírásoknak megfelelően történt.

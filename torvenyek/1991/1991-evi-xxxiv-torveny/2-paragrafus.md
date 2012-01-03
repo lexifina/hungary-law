@@ -16,7 +16,7 @@ c) a szolgáltatás Magyarország területén lévő igénybe vevők felé irán
 
 a) a folytatni kívánt tevékenység sértené a jóérzést, közbiztonságot, a közszemérmet, illetőleg gyermek vagy ifjúságpolitikai érdekeket,
 
-b) a kérelmező, illetőleg vezető tisztségviselője, vagy a szavazatok legalább 25%-ával rendelkező tagja a székhelye vagy lakóhelye szerinti állam joga alapján büntetett előéletű, illetőleg jogerős bírósági ítéletben megállapított, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerinti tevékenység korlátozása alatt áll,
+b) a kérelmező, illetőleg vezető tisztségviselője, vagy a szavazatok legalább 25%-ával rendelkező tagja a székhelye, vagy lakóhelye szerinti állam joga vagy a magyar jog alapján büntetett előéletű, a kérelem benyújtását megelőző 3 éven belül jogerős bírósági ítéletben megállapított közélet tisztasága elleni (Btk. XV. Fejezet VIII. cím), közbizalom elleni (Btk. XVI. Fejezet III. cím), gazdasági (Btk. XVII. Fejezet), vagyon elleni (Btk. XVIII. fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét, illetve a kérelem benyújtását megelőző 2 éven belül tulajdon elleni vagy pénzügyi szabálysértést, a játék és pénznyerő automata üzemeltetésére vonatkozó szabályok megszegése vagy tiltott szerencsejáték szabálysértését követte el, illetőleg jogerős bírósági ítéletben megállapított, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerinti tevékenység korlátozása alatt áll,
 
 c)
 
@@ -30,7 +30,7 @@ h) a kérelmező a jogszabályban meghatározott feltételeket nem vállalja,
 
 i)
 
-(5) Az állami adóhatóság az engedély iránti kérelmet elutasítja, ha a kérelmezővel, illetve vezető tisztségviselőjével, vagy a szavazatok legalább 25%-ával rendelkező tagjával szemben a székhelye, vagy lakóhelye szerinti állam adóhatósága a kérelem benyújtását megelőző 5 éven belül jogerősen 2 millió forintot meghaladó adóbírságot vagy mulasztási bírságot szabott ki, vagy a kérelem benyújtását megelőző 1 éven belül a kérelmezőnek, illetve vezető tisztségviselőjének vagy a szavazatok legalább 25%-ával rendelkező tagjának a székhelye, vagy lakóhelye szerinti államban 2 millió forintot meghaladó 30 napon túli köztartozása vagy adótartozása volt.
+(5) Az állami adóhatóság az engedély iránti kérelmet elutasítja, ha a kérelmezővel, illetve vezető tisztségviselőjével, vagy a szavazatok legalább 25%-ával rendelkező tagjával szemben a székhelye, vagy lakóhelye szerinti állam adóhatósága a kérelem benyújtását megelőző 5 éven belül jogerősen 2 millió forintot meghaladó adóbírságot vagy mulasztási bírságot szabott ki, vagy ha a kérelmezőnek, illetve vezető tisztségviselőjének, vagy a szavazatok legalább 25%-ával rendelkező tagjának a székhelye, vagy lakóhelye szerinti államban 2 millió forintot meghaladó 30 napon túli köztartozása vagy adótartozása van.
 
 (6) A hírközlő eszköz és rendszer által történő szerencsejáték szervezési tevékenység engedélyezéséhez a (3)–(5) bekezdésekben foglalt feltételek teljesítésén túl a szervezőnek igazolnia kell, hogy
 
@@ -42,4 +42,4 @@ c) a véletlen elemeket az elektronikus játékrendszerek auditálása alapján 
 
 (7) Nem folytatható belföldön vagy külföldön szervezett szerencsejátékban történő részvételre Magyarországon értékesítési, szervező, közvetítő tevékenység, ha a szerencsejáték szervezésére az állami adóhatóság nem adott engedélyt.
 
-(8) A szerencsejáték-szervező a (4) bekezdés b) és d) pontjaiban és az (5) bekezdésben meghatározott személyi megfelelőségének folyamatosan fenn kell állnia, ennek érdekében azt a szervező évente igazolni köteles, az állami adóhatóság pedig a személyi megfelelőség meglétét köteles ellenőrizni.
+(8) A szerencsejáték-szervező a (4) bekezdés b) és d) pontjaiban és az (5) bekezdésben meghatározott személyi megfelelőségének folyamatosan fenn kell állnia, ennek érdekében azt a szervező évente igazolni köteles, az állami adóhatóság pedig a személyi megfelelőség meglétét köteles ellenőrizni. A személyi megfelelőség meghosszabbítására irányuló kérelmet a személyi megfelelőség érvényességéig kell benyújtani az állami adóhatósághoz, a határidőben benyújtott kérelem esetén annak jogerős elbírálásáig az állami adóhatóság vélelmezi a személyi megfelelőség fennállását.
