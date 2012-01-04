@@ -1,4 +1,4 @@
-12. §[^4] (1) Az egészségügyi ellátással összefüggő fertőzések megelőzése megyei és országos stratégiájának kidolgozása érdekében megyei és országos szinten Infekciókontroll és Antibiotikum Bizottság működik.
+12. §[^5] (1) Az egészségügyi ellátással összefüggő fertőzések megelőzése megyei és országos stratégiájának kidolgozása érdekében megyei és országos szinten Infekciókontroll és Antibiotikum Bizottság működik.
 
 (2) A MIAB-ot a megyei tisztifőorvos működteti.
 
@@ -8,4 +8,4 @@
 
 (5) A MIAB tevékenységét az Országos Infekciókontroll és Antibiotikum Bizottság (a továbbiakban: OIAB) szakmai irányításával végzi.
 
-[^4]: A 12. § a 10/2011. (III. 30.) NEFMI rendelet 68. § (3) bekezdésével megállapított szöveg.
+[^5]: A 12. § a 10/2011. (III. 30.) NEFMI rendelet 68. § (3) bekezdésével megállapított szöveg.
