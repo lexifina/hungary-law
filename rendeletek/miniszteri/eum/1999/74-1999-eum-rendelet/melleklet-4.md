@@ -8,7 +8,7 @@
 
 ## Az engedélyesnek gondoskodnia kell arról, hogy a gyógyiszapot az elnevezési engedélyében és a kitermelésre, illetőleg csomagolásra vonatkozó engedélyben foglaltak szerint állítsák elő.
 
-## 3.1.[^59] Ha a gyógyiszap kitermelése a vizek természetes viszonyaiba való beavatkozással jár, a környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek az előírásait is be kell tartani.
+## 3.1.[^60] Ha a gyógyiszap kitermelése a vizek természetes viszonyaiba való beavatkozással jár, a környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek az előírásait is be kell tartani.
 
 ## 3.2. A csomagolás csak a kitermelő helyen vagy annak közvetlen közelében történhet.
 
@@ -16,7 +16,7 @@
 
 ## A gyógyiszapnak iszap-kompressz vagy más hasonló – közvetlenül a fogyasztónak szánt – végső felhasználásra alkalmas formában való feldolgozására a gyógyászati segédeszközökre vonatkozó előírásokat kell alkalmazni.
 
-## 3.3.[^60] A kitermelés és a csomagolás csak e tevékenységek engedélyezése során jóváhagyott részletes technológiai leírás szerint történhet. Ettől eltérni csak az engedély módosításával lehet. A technológiai leírásnak tartalmaznia kell a technológiai folyamathoz igazodóan a közegészségügyi követelmények, valamint a gyógyiszap eredeti minősége megőrzéséhez szükséges technikai és/vagy szervezési feltételek biztosítását.
+## 3.3.[^61] A kitermelés és a csomagolás csak e tevékenységek engedélyezése során jóváhagyott részletes technológiai leírás szerint történhet. Ettől eltérni csak az engedély módosításával lehet. A technológiai leírásnak tartalmaznia kell a technológiai folyamathoz igazodóan a közegészségügyi követelmények, valamint a gyógyiszap eredeti minősége megőrzéséhez szükséges technikai és/vagy szervezési feltételek biztosítását.
 
 ## 3.4. A gyógyiszap kitermelő, illetőleg csomagoló helyen ki kell jelölni egy megfelelő szakképesítéssel rendelkező felelős személyt, akinek az irányítása alatt e tevékenységet végzik. A kitermelésben, illetve a csomagolásban részt vevő személyek feladatait és egymással való munkakapcsolatukat munkaköri leírásban pontosan rögzíteni kell.
 
@@ -74,9 +74,9 @@ c) eredeti összetételének minden megváltoztatása nélkül, az előfordulás
 
 2. Az 1. a)–c) pontokban foglaltak igazolására az engedély iránti kérelemhez csatolni kell
 
-a)[^61] egy akkreditált laboratórium egy évnél nem régebbi helyszíni akkreditált mintavételen alapuló elemzését és értékelő szakvéleményét az 1. a)–b) pontban foglaltakra vonatkozóan,
+a)[^62] egy akkreditált laboratórium egy évnél nem régebbi helyszíni akkreditált mintavételen alapuló elemzését és értékelő szakvéleményét az 1. a)–b) pontban foglaltakra vonatkozóan,
 
-b)[^62]
+b)[^63]
 
 c) a gyógyhatást igazoló orvosi megfigyelések eredményének értékelését (ami kiterjed az ártalmatlanság igazolására, a javallatok és ellenjavallatok meghatározására, valamint a rendeltetésszerű gyógyászati felhasználás feltételeinek részletes leírására).
 
@@ -90,13 +90,13 @@ b) az éghajlat mint gyógyhelyi környezeti adottság, amely más természetes 
 
 a) az Országos Meteorológiai Szolgálat (OMSZ) éghajlati szakvéleménye a helyszínen működő vagy a leendő hasznosító költségére telepített klímaállomás mérési eredményei alapján,
 
-b)[^63]
+b)[^64]
 
 c) orvosi szakvélemény a gyógyhatást bizonyító megfigyelések eredményeiről,
 
 5. Az éghajlat mint környezeti adottság [3. b) pont] egy terület gyógyhellyé nyilvánítása szempontjából bír jelentőséggel és az OMSZ szakvéleménye alapján bírálható el.
 
-6.[^64] Időszakos ellenőrző vizsgálat
+6.[^65] Időszakos ellenőrző vizsgálat
 
 Az éghajlat mint természetes gyógytényező jellemzőit a helyszíni klímaállomások által az OMSZ utasításai és felügyelete mellett folyamatosan ellenőrizni kell.
 
@@ -132,9 +132,9 @@ A törzsadatlap tartalma
 
 7. A kitermelés felelős vezetőjének szakképesítése.
 
-[^59]: A 3. számú melléklet 3. pont 3.1. alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 77. pontja, a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^60]: A 3. számú melléklet 3. pont 3.3. alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 77. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmzani.
-[^61]: A 4. számú melléklet 2. pont a) alpontja a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^62]: A 4. számú melléklet 2. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^63]: A 4. számú melléklet 4. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^64]: A 4. számú melléklet 6. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának aa) alpontja, a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^60]: A 3. számú melléklet 3. pont 3.1. alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 77. pontja, a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^61]: A 3. számú melléklet 3. pont 3.3. alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 77. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmzani.
+[^62]: A 4. számú melléklet 2. pont a) alpontja a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^63]: A 4. számú melléklet 2. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^64]: A 4. számú melléklet 4. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^65]: A 4. számú melléklet 6. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának aa) alpontja, a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
