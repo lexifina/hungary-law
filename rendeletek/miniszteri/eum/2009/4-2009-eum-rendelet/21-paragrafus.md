@@ -2,7 +2,7 @@
 
 ## balesetek bejelentése
 
-21. §[^23] (1) A gyártó vagy a meghatalmazott képviselő, valamint a forgalmazó és a balesetfelelős útján az egészségügyi szolgáltatást nyújtó a forgalomba hozatalt követően az I., II.a, II.b és III. osztályba tartozó eszközzel összefüggésben bekövetkezett váratlan eseményt, balesetet, amennyiben a váratlan esemény vagy baleset
+21. §[^25] (1) A gyártó vagy a meghatalmazott képviselő, valamint a forgalmazó és a balesetfelelős útján az egészségügyi szolgáltatást nyújtó a forgalomba hozatalt követően az I., II.a, II.b és III. osztályba tartozó eszközzel összefüggésben bekövetkezett váratlan eseményt, balesetet, amennyiben a váratlan esemény vagy baleset
 
 a) súlyos közegészségügyi kockázattal jár, azonnal, de legkésőbb 2 napon belül,
 
@@ -28,4 +28,4 @@ c) a felhasználó a 12. melléklet A) részében foglalt nyomtatványon teheti 
 
 (6) A gyártó köteles ellenőrizni a helyszíni biztonsági korrekciós intézkedés előírásszerű elvégzését és erről a Hivatalt tájékoztatni.
 
-[^23]: A 21. § a 29/2011. (VI. 7.) NEFMI rendelet 16. §-ával megállapított szöveg.
+[^25]: A 21. § a 29/2011. (VI. 7.) NEFMI rendelet 16. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@
 
 (4) Az emlőimplantátumokat, illetve a csípő-, térd- és vállprotéziseket a III. osztályba kell besorolni azzal, hogy a 9. melléklet szabályait nem kell alkalmazni.
 
-(5)[^13] A Hivatal megkereséssel fordulhat a Bizottsághoz, amennyiben:
+(5)[^14] A Hivatal megkereséssel fordulhat a Bizottsághoz, amennyiben:
 
 a) egy adott eszköz vagy eszközkategória besorolására vonatkozóan a 9. mellékletben foglalt osztályzási szabályok alkalmazásához a Bizottság határozata szükséges;
 
@@ -20,4 +20,4 @@ d) a 9. melléklet szerinti osztályozási szabályok módosításra szorulnak.
 
 (6) Az (5) bekezdés alkalmazása esetén a Hivatal a Bizottság által megtett intézkedésnek megfelelően jár el.
 
-[^13]: A 12. § (5) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 11. §-ával megállapított szöveg.
+[^14]: A 12. § (5) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 11. §-ával megállapított szöveg.

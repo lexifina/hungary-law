@@ -34,6 +34,6 @@
 
 ## Cégszerű aláírás, cégbélyegző, dátum:
 
-15. melléklet a 4/2009. (III. 17.) EüM rendelethez[^48]
+15. melléklet a 4/2009. (III. 17.) EüM rendelethez[^50]
 
-[^48]: A 15. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 31. § h) pontja hatályon kívül helyezte.
+[^50]: A 15. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 31. § h) pontja hatályon kívül helyezte.
