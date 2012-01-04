@@ -16,6 +16,6 @@ b) II. ellátási szint, a progresszív ellátás középszintje, amelyet a lega
 
 c) III. ellátási szint, a progresszív ellátás felső szintje, amelyet az adott ellátást regionális vagy országos szinten végző egészségügyi szolgáltatónál biztosítani kell.
 
-(4)[^18] A sebészeti osztály I. ellátási szintjére engedéllyel rendelkező egészségügyi szolgáltató a traumatológiai ellátás I. ellátási szintjébe tartozó szolgáltatást is nyújthat, amennyiben az arra előírt feltételeknek megfelel.
+(4)[^19] A sebészeti osztály I. ellátási szintjére engedéllyel rendelkező egészségügyi szolgáltató a traumatológiai ellátás I. ellátási szintjébe tartozó szolgáltatást is nyújthat, amennyiben az arra előírt feltételeknek megfelel.
 
-[^18]: A 9. § (4) bekezdését a 14/2005. (V. 2.) EüM rendelet 1. §-a iktatta a szövegbe.
+[^19]: A 9. § (4) bekezdését a 14/2005. (V. 2.) EüM rendelet 1. §-a iktatta a szövegbe.

@@ -518,7 +518,7 @@
 
 ## 2. Hangjelzés vagy a behelyezés tényére az egészségügyi szolgáltatót figyelmeztető más jelzőrendszer működtetése.
 
-2. számú melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^27]
+2. számú melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^28]
 
 Tartalomjegyzék
 
@@ -6200,4 +6200,4 @@ Az ellátás végzéséhez szükséges minimális műtéti szám évenként: 5/�
 
 58113 arthrodesis fixateure externe
 
-[^27]: A 2. számú melléklet a 16/2004. (III. 23.) ESZCSM rendelet 1. §-a, 6. §-a, 7. § (3) bekezdés c) pontja, az 54/2004. (VI. 9.) ESZCSM rendelet 3. § (1)–(2) bekezdése, 4. § (2) bekezdése, 6. §-a, a 14/2005. (V. 2.) EüM rendelet 5. § (3) bekezdése, a 26/2008. (VII. 11.) EüM rendelet 1. §-a, a 29/2010. (XII. 30.) NEFMI rendelet 9. §-a szerint módosított szöveg.
+[^28]: A 2. számú melléklet a 16/2004. (III. 23.) ESZCSM rendelet 1. §-a, 6. §-a, 7. § (3) bekezdés c) pontja, az 54/2004. (VI. 9.) ESZCSM rendelet 3. § (1)–(2) bekezdése, 4. § (2) bekezdése, 6. §-a, a 14/2005. (V. 2.) EüM rendelet 5. § (3) bekezdése, a 26/2008. (VII. 11.) EüM rendelet 1. §-a, a 29/2010. (XII. 30.) NEFMI rendelet 9. §-a szerint módosított szöveg.

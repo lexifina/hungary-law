@@ -2,7 +2,7 @@
 
 (2) E rendeletben foglalt előírásokat a hatálybalépését követően benyújtott működési engedély iránti kérelmek elbírálásánál kell alkalmazni.
 
-(3)[^24] A rendelet hatálybalépésével egyidejűleg az egészségügyi szolgáltatást nyújtó egyes intézmények szakmai minimumfeltételeiről szóló 21/1998. (VI. 3.) NM rendelet és az azt módosító
+(3)[^25] A rendelet hatálybalépésével egyidejűleg az egészségügyi szolgáltatást nyújtó egyes intézmények szakmai minimumfeltételeiről szóló 21/1998. (VI. 3.) NM rendelet és az azt módosító
 
 a) 17/1998. (XII. 27.) EüM rendelet,
 
@@ -26,4 +26,4 @@ h) 6/2002. (IX. 26.) ESZCSM rendelet
 
 (5) A (3) bekezdés szerinti külön jogszabályról, továbbá az egészségügyi közszolgáltatók ellátási szintek szerinti besorolásáról a miniszter tájékoztatót tesz közzé.
 
-[^24]: A 25/2004. (II. 26.) Korm. rendelet 13. § (1) bekezdése alapján a már működő egészségügyi szolgáltatók működési engedélyének felülvizsgálatát és az e rendeletben foglalt új szakmai minimumfeltételekhez igazodó módosítását a 25/2004. (II. 26.) Korm. rendelet 13. §-ának (2)–(6) bekezdésében foglalt határidők és feltételek szerint kell elvégezni.
+[^25]: A 25/2004. (II. 26.) Korm. rendelet 13. § (1) bekezdése alapján a már működő egészségügyi szolgáltatók működési engedélyének felülvizsgálatát és az e rendeletben foglalt új szakmai minimumfeltételekhez igazodó módosítását a 25/2004. (II. 26.) Korm. rendelet 13. §-ának (2)–(6) bekezdésében foglalt határidők és feltételek szerint kell elvégezni.

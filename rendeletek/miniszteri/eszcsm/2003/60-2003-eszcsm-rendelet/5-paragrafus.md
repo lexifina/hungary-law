@@ -12,9 +12,9 @@ b) a járóbeteg-szakellátás körében
 
 ba) egy egészségügyi szakmához tartozó és a diagnosztikai hátteret más egészségügyi szolgáltató közreműködésével biztosító egészségügyi szolgáltatás nyújtása esetén a rendelő,
 
-bb)[^12] egy vagy több szakterülethez tartozó és – a klinikai laboratóriumi háttér tekintetében legalább a J0 szintnek megfelelő – diagnosztikai háttér helyszíni biztosításával működő, de a bc) pontban foglalt feltételeknek nem megfelelő egészségügyi szolgáltatás nyújtása esetén a szakrendelő/szakrendelés,
+bb)[^13] egy vagy több szakterülethez tartozó és – a klinikai laboratóriumi háttér tekintetében legalább a J0 szintnek megfelelő – diagnosztikai háttér helyszíni biztosításával működő, de a bc) pontban foglalt feltételeknek nem megfelelő egészségügyi szolgáltatás nyújtása esetén a szakrendelő/szakrendelés,
 
-bc)[^13] legalább 4 szakterületen az adott területhez tartozó valamennyi egészségügyi szolgáltatást nyújtó és a helyszínen radiológiai és legalább a J0 szintnek megfelelő klinikai laboratóriumi diagnosztika, valamint a 10. § (4) bekezdésére figyelemmel, a feladatok ellátásához indokolt magasabb szintű klinikai laboratóriumi diagnosztikai ellátás biztosítása esetén a rendelőintézeti szakrendelő/rendelőintézeti szakrendelés,
+bc)[^14] legalább 4 szakterületen az adott területhez tartozó valamennyi egészségügyi szolgáltatást nyújtó és a helyszínen radiológiai és legalább a J0 szintnek megfelelő klinikai laboratóriumi diagnosztika, valamint a 10. § (4) bekezdésére figyelemmel, a feladatok ellátásához indokolt magasabb szintű klinikai laboratóriumi diagnosztikai ellátás biztosítása esetén a rendelőintézeti szakrendelő/rendelőintézeti szakrendelés,
 
 bd) a ba) pontban foglalt esetben, amennyiben szolgáltatás nyújtására változó helyszínen, illetve e célra kialakított járművel kerül sor, a mobil egészségügyi szolgálat,
 
@@ -38,7 +38,7 @@ ca) folyamatos orvosi felügyeletet nem igénylő ápolási, szakápolási szolg
 
 cb) hosszú ápolási idejű megbetegedésekre szakosodott intézmény esetén – ideértve az ápoltak aktív ellátására is szakosodott egészségügyi szolgáltatókat is – a krónikus kórház,
 
-cc)[^14] belgyógyászati, sebészeti és még legalább egy szakma tekintetében a progresszív ellátás 1. szintjéhez tartozó valamennyi egészségügyi szolgáltatás nyújtása, és ezen túlmenően a helyszínen ultrahang, elektrokardiográfiai, radiológiai és klinikai laboratóriumi diagnosztikai ellátás biztosítása esetén a kórház, illetve e mellett egyes szolgáltatások ce) pont szerinti feltételekkel történő nyújtása esetén a kórház és szakkórház,
+cc)[^15] belgyógyászati, sebészeti és még legalább egy szakma tekintetében a progresszív ellátás 1. szintjéhez tartozó valamennyi egészségügyi szolgáltatás nyújtása, és ezen túlmenően a helyszínen ultrahang, elektrokardiográfiai, radiológiai és klinikai laboratóriumi diagnosztikai ellátás biztosítása esetén a kórház, illetve e mellett egyes szolgáltatások ce) pont szerinti feltételekkel történő nyújtása esetén a kórház és szakkórház,
 
 cd) amennyiben a cc) pontban foglaltak ellátását nem osztályszerkezet szerint, hanem az egyes szakterületeket összevontan látja el, a mátrix kórház,
 
@@ -56,9 +56,9 @@ d) amennyiben egy szakterületen a járóbeteg-ellátás körébe tartozó egés
 
 (3) Az Eütv. 3. § ga) pontja szerinti egészségügyi szolgáltató a b) és c) pont szerinti elnevezése mellett a gyógyintézet elnevezés használatára is jogosult.
 
-(4)[^15] Az (1) bekezdés d) pontja tekintetében nappali ellátás keretében egyes – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott – kúraszerű, illetve rehabilitációs ellátások is nyújthatók. A 4. § (1) bekezdés f)–g) pontja szerinti étkezés biztosítása az elvégzett beavatkozás időtartamának függvényében, illetve a beteg állapotának figyelembevételével szükséges.
+(4)[^16] Az (1) bekezdés d) pontja tekintetében nappali ellátás keretében egyes – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott – kúraszerű, illetve rehabilitációs ellátások is nyújthatók. A 4. § (1) bekezdés f)–g) pontja szerinti étkezés biztosítása az elvégzett beavatkozás időtartamának függvényében, illetve a beteg állapotának figyelembevételével szükséges.
 
-[^12]: Az 5. § (1) bekezdésének bb) pontja a 15/2004. (III. 8.) ESZCSM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2004. március 23-át követően benyújtott működési engedély iránti kérelmek elbírálásánál kell alkalmazni.
-[^13]: Az 5. § (1) bekezdésének bc) ponjta a 15/2004. (III. 8.) ESZCSM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2004. március 23-át követően benyújtott működési engedély iránti kérelmek elbírálásánál kell alkalmazni.
-[^14]: Az 5. § (1) bekezdésének cc) alpontja az 54/2004. (VI. 9.) ESZCSM rendelet 1. §-ával megállapított szöveg.
-[^15]: Az 5. § (4) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^13]: Az 5. § (1) bekezdésének bb) pontja a 15/2004. (III. 8.) ESZCSM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2004. március 23-át követően benyújtott működési engedély iránti kérelmek elbírálásánál kell alkalmazni.
+[^14]: Az 5. § (1) bekezdésének bc) ponjta a 15/2004. (III. 8.) ESZCSM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2004. március 23-át követően benyújtott működési engedély iránti kérelmek elbírálásánál kell alkalmazni.
+[^15]: Az 5. § (1) bekezdésének cc) alpontja az 54/2004. (VI. 9.) ESZCSM rendelet 1. §-ával megállapított szöveg.
+[^16]: Az 5. § (4) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
