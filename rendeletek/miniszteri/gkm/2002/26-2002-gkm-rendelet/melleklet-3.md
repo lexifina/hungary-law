@@ -1,14 +1,12 @@
-## Tengerész szolgálati könyv[^21]
+## Tengerész szolgálati könyv
 
 ## a) borító és címoldal
 
 ## MAGYARORSZÁG
 
-## REPUBLIC of HUNGARY
+## HUNGARY
 
-## TENGERÉSZ SZOLGÁLATI
-
-## KÖNYV
+## TENGERÉSZ SZOLGÁLATI KÖNYV
 
 ## SEAMAN’S BOOK
 
@@ -70,9 +68,9 @@
 
 ## (Place and date of issue)
 
-## Nemzeti Közlekedési Hatóság Polgári Légiközlekedési Igazgatósága
+## hajózási hatóság
 
-## (Central Office of the National Transport Authority)
+## (National Transport Authority)
 
 ## P. H.
 
@@ -118,9 +116,9 @@
 
 ## Certificate of embarkment/discharge
 
-| Behajózás helye, ideje (Place and date of embarkment) | Aláírás, bélyegző (Signature, seal) | Kihajózás helye, ideje (Place and date of discharge) | Aláírás, bélyegző (Signature, seal) | Hajózási hatóság v. konzul pecsétje, aláírás (Signature/seal of Shipping Authority or Consul) |
+| Behajózás helye, ideje (Place and date of embarkment) | Aláírás, bélyegző (Signature, seal) | Kihajózás helye, ideje (Place and date of discharge) | Aláírás, bélyegző (Signature, seal) | Hajózási hatóság v. konzul pecsétje, aláírás (Signature/seal of National Transport Authority or Consul) |
 
-## j) 52–62. oldal
+## j) 52–62. Oldal
 
 ## V. HIVATALOS BEJEGYZÉSEK
 
@@ -132,43 +130,43 @@
 
 ## 1. A hitelesített tengerész szolgálati könyv a tulajdonos személyi adatainak, egészségi szolgálati alkalmasságának, a szolgálatban eltöltött hajózási idejének, valamint képesítéseinek igazolására szolgál.
 
-## 2.[^22] A szolgálati könyvet Magyarország Nemzeti Közlekedési Hatóságának Központi Hivatala mint hajózási hatóság állítja ki.
+## 2. A szolgálati könyvet a hajózási hatóság állítja ki.
 
-## 3. A tengerész szolgálati könyvnek mindenkor a tényleges adatokat kell tartalmaznia, ezért a bejegyzett személyi, szolgálati, képesítési és egészségi alkalmassági adatok változását be kell jegyeztetni, így:
+## 3. A tengerész szolgálati könyvnek mindenkor a tényleges adatokat kell tartalmaznia, ezért a személyi, szolgálati, képesítési és egészségi alkalmassági adatok változását be kell jegyeztetni, így:
 
-## –[^23] a személyi adatok, a tengerész képesítések változásait az NKH Központi Hivatala,
+## - a személyi adatok, a tengerész képesítések változásait a hajózási hatóság vezeti át,
 
-## – az egészségi alkalmasság igazolását a vizsgáló egészségügyi szerv,
+## - az egészségi alkalmasság igazolását a vizsgáló egészségügyi szerv jegyzi be,
 
-## – a be- és kihajózást a hajó parancsnoka jegyzi be és a hajózási hatóság tartja nyilván.
+## - a be- és kihajózást a hajó parancsnoka jegyzi be és a hajózási hatóság tartja nyilván.
 
 ## 4. A szolgálati könyv tulajdonosa azt behajózása során köteles magánál tartani, és hatósági felhívásra felmutatni.
 
-## 5.[^24] Az elveszett vagy megsemmisült szolgálati könyvet az NKH Központi Hivatalának vagy külföldön a területileg illetékes konzulnak be kell jelenteni. Ha az megrongálódott, vagy elveszett, újat kell kiállítani.
+## 5. Amennyiben a tengerész szolgálati könyv elveszett vagy megsemmisült, azt a hajózási hatóságnak vagy külföldön a területileg illetékes konzulnak be kell jelenteni és kérelmezni kell új szolgálati könyv kiállítását. Szolgálati könyv beteltével a hajózási hatóság kérelemre új szolgálati könyvet állít ki.
 
 ## 6. Tilos a szolgálati könyvet zálogba adni vagy zálogként venni, valamint másra átruházni. A szolgálati könyvvel elkövetett visszaélés eljárást von maga után.
 
 ## l) 64. oldal
 
-## Remarks concerning the seaman's book
+## Remarks concerning the seaman’s book
 
-## 1. The duly attested seaman's book serves for certifying the personal data, the medical fitness for service, the duration of service acceded on board furthermore the qualifications of the holder.
+## 1. The duly attested seaman’s book serves for certifying the personal data, the medical fitness for service, the duration of service acceded on board furthermore the qualifications of the holder.
 
-## 2. The seaman's book is issued by the General Inspectorate of Transport of the Republic Hungary.
+## 2. The seaman’s book is issued by the National Transport Authority of Hungary.
 
-## 3. The seaman's book has to contain actual data therefore the changes – if any – must be registered by the proper authority i.e.:
+## 3. The seaman’s book has to contain actual data therefore the changes - if any - must be registered by the proper authority i.e.:
 
-## – the personal data and the qualifications are entered by the Hungarian General Inspectorate of Transport or by the Hungarian Consulate,
+## - the personal data and the qualifications are entered by the National Transport Authority of Hungary or by the Hungarian Consulate,
 
-## – the medical fitness for service by the sanitary authority responsible for the medical examination,
+## - the medical fitness for service by the sanitary authority responsible for the medical examination,
 
-## – the data of embarkment and debarkation should be registered by the master.
+## - the data of embarkation and debarkation should be enrolled by the master and registered by the National Transport Authority of Hungary.
 
-## 4. The holder is bound to keep the seaman's book during service and bring forward at the request of authorities.
+## 4. The holder is bound to keep the seaman’s book during service and bring forward at the request of authorities.
 
-## 5. Loss or invalidation of seaman's book shall be reported to the General Inspectorate of Transport or to the competent Hungarian Consulate. Should all pages of the book filled up or become unserviceable – a new seaman's book is to be issued.
+## 5. Loss or invalidation of seaman’s book shall be reported to the National Transport Authority of Hungary or the competent Hungarian Consulate. Should all pages of the book filled up or become unserviceable - a new seaman’s book is to be issued.
 
-## 6. Pawning of the seaman's book or accepting it as a pawn or transferring the seaman's book is prohibited. Any abuse of seaman's book, shall be penalised.
+## 6. Pawning of the seaman’s book or accepting it as a pawn or transferring the seaman’s book is prohibited. Any abuse of seaman’s book, shall be penalised.
 
 ## Ez a könyv 64 számozott oldalt tartalmaz.
 
@@ -185,8 +183,3 @@ FÜR INHABER EINES SCHIFFERPATENTES FÜR VERGNÜGUNGSZWECKE
 DLÁ YODITELÁ PROGULOXNOGO CUDNA
 
 FOR BOATMASTER OF PLEASURE CRAFT
-
-[^21]: A 2. számú melléklet „Tengerész szolgálati könyv” címének c) pontja a 95/2006. (XII. 27.) GKM rendelet 40. §-ának f)–g) pontja szerint módosított szöveg.
-[^22]: A 2. számú melléklet „A szolgálati könyvre vonatkozó megjegyzések” cím k) pontjának 2. alpontja a 95/2006. (XII. 27.) GKM rendelet 40. §-ának h) pontja szerint módosított szöveg.
-[^23]: A 2. számú melléklet „A szolgálati könyvre vonatkozó megjegyzések” cím k) pontja 3. alpontjának első francia bekezdése a 95/2006. (XII. 27.) GKM rendelet 40. §-ának b) pontja szerint módosított szöveg.
-[^24]: A 2. számú melléklet „A szolgálati könyvre vonatkozó megjegyzések” cím k) pontja 5. alpontjának első mondata a 95/2006. (XII. 27.) GKM rendelet 40. §-ának i) pontja szerint módosított szöveg.

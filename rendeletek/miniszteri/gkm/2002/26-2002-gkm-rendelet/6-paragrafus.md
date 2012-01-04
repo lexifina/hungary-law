@@ -4,8 +4,9 @@
 
 ## kezelése
 
-6. § (1) A szolgálati könyvbe a (2) bekezdésben és külön jogszabályban[^5] foglalt kivételtől eltekintve bejegyzéseket a hajózási hatóság, az egészségi alkalmasságot vizsgáló orvos vagy hajózási hatósági jogkörében eljárva a konzuli tisztviselő tehet.
+6. § (1)[^13] A szolgálati könyvbe – amennyiben nemzetközi szerződés vagy nemzetközi igazgatási megállapodás eltérően nem rendelkezik – a (2) bekezdésben foglalt kivételtől eltekintve bejegyzéseket a hajózási hatóság vagy hajózási hatósági jogkörben eljárva a konzuli tisztviselő tehet. Tengerész szolgálati könyvbe az egészségi alkalmasság igazolását a vizsgáló orvos jegyzi be.
 
-(2) A be-, illetve kihajózások adatait, továbbá a szolgálati időt és megtett utakat a szolgálati könyvbe az úszólétesítmény vezetője jegyzi be.
+(2)[^14] A be-, és kihajózások adatait, továbbá a szolgálati időt és megtett utakat a szolgálati könyvbe az úszólétesítmény vezetője jegyzi be.
 
-[^5]: 13/2001. (IV. 10) KöViM rendelet a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról.
+[^13]: A 6. § (1) bekezdése a 94/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított szöveg.
+[^14]: A 6. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 10. § (1) bekezdése szerint módosított szöveg.
