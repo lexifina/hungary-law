@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-44-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-12-31 | 2005-44-20-0B.3 | 44/2005. (X. 19.) EüM rendelet |
+| 2012-01-04 | 2005-44-20-0B.4 | 2/2012. (I. 3.) NEFMI rendelet |

@@ -8,9 +8,9 @@ b) az Európai Parlament és a Tanács 2004/27/EK irányelve (2004. március 31.
 
 c) a Bizottság 2003/94/EK (2003. október 8.) irányelve az emberi felhasználásra szánt gyógyszerek és az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások megállapításáról;
 
-d)[^2] a Bizottság 2005/28/EK irányelve (2005. április 8.) a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében.
+d)[^5] a Bizottság 2005/28/EK irányelve (2005. április 8.) a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében.
 
-(3)[^3] Ez a rendelet a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004. EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(3)[^6] Ez a rendelet a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004. EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^2]: A 6. § (2) bekezdésének d) pontját a 31/2006. (VIII. 23.) EüM rendelet 2. §-a iktatta be.
-[^3]: A 6. § (3) bekezdését az 53/2008. (XII. 31.) EüM rendelet 3. § (2) bekezdése iktatta be.
+[^5]: A 6. § (2) bekezdésének d) pontját a 31/2006. (VIII. 23.) EüM rendelet 2. §-a iktatta be.
+[^6]: A 6. § (3) bekezdését az 53/2008. (XII. 31.) EüM rendelet 3. § (2) bekezdése iktatta be.
