@@ -1,4 +1,4 @@
-9. §[^18] (1) A mentőellátással kapcsolatosan a mentőegység vezetője a (2) bekezdés szerinti tartalommal esetlapot köteles kitölteni.
+9. §[^20] (1) A mentőellátással kapcsolatosan a mentőegység vezetője a (2) bekezdés szerinti tartalommal esetlapot köteles kitölteni.
 
 (2) Az (1) bekezdés szerinti esetlap tartalmazza:
 
@@ -42,4 +42,4 @@ j) a továbbszállítás okát.
 
 (5) A (2) bekezdés szerinti esetlap és a (4) bekezdés szerinti mentési adatlap és menetlevél az egészségügyi dokumentáció részét képezi.
 
-[^18]: A 9. § a 37/2011. (VI. 28.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^20]: A 9. § a 37/2011. (VI. 28.) NEFMI rendelet 6. §-ával megállapított szöveg.

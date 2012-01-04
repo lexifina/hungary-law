@@ -1,4 +1,4 @@
-11. §[^22] (1) Rendezvénybiztosítást az ÁNTSZ OTH által kiadott működési engedéllyel rendelkező szervezet láthat el.
+11. §[^24] (1) Rendezvénybiztosítást az ÁNTSZ OTH által kiadott működési engedéllyel rendelkező szervezet láthat el.
 
 (2) Rendezvény egészségügyi biztosítását végző mentőszervezet ezen tevékenysége megkezdése előtt legalább 3 munkanappal korábban írásban értesíti a tevékenység végzési helye szerint illetékes egészségügyi államigazgatási szervet és az OMSZ illetékes mentőszervezetét, megjelölve a rendezvény biztosítását ellátó egység vagy egységek rendezvény alatti elérhetőségét. Amennyiben a rendezvény egészségügyi biztosításában jogszabály mentőhelikopter készenlétét is kötelezővé teszi, a rendezvény egészségügyi biztosítását végző szervezet a Magyar Légimentő Nonprofit Kft.-t is köteles értesíteni és a rendezvény alatti elérhetőségéről tájékoztatni.
 
@@ -10,4 +10,4 @@
 
 (6) A rendezvénybiztosítás részletes feltételeit a 2. melléklet tartalmazza.
 
-[^22]: A 11. § a 37/2011. (VI. 28.) NEFMI rendelet 8. §-ával megállapított szöveg.
+[^24]: A 11. § a 37/2011. (VI. 28.) NEFMI rendelet 8. §-ával megállapított szöveg.

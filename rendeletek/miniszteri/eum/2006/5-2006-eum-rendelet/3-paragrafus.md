@@ -1,4 +1,4 @@
-3. § (1)[^9] A mentés a sürgősség igénye szerint lehet
+3. § (1)[^10] A mentés a sürgősség igénye szerint lehet
 
 a) azonnali,
 
@@ -8,7 +8,7 @@ c) a mentési készenlétet igénylő őrzött szállítás esetén 2 órán tú
 
 ## mentési feladat.
 
-(2)[^10] A mentés az alkalmazott mentőegység típusa szerint lehet
+(2)[^11] A mentés az alkalmazott mentőegység típusa szerint lehet
 
 a) mentőgépkocsival,
 
@@ -52,22 +52,22 @@ b) koraszülött mentés és koraszülött szállítás,
 
 c) mozgóőrség,
 
-d)[^11] mentési készenlétet igénylő őrzött betegszállítás,
+d)[^12] mentési készenlétet igénylő őrzött betegszállítás,
 
-e)[^12] mentőszállítás,
+e)[^13] mentőszállítás,
 
-f)[^13] rendezvény egészségügyi biztosítása,
+f)[^14] rendezvény egészségügyi biztosítása,
 
-g)[^14] szervátültetéssel kapcsolatos mentési feladat.
+g)[^15] szervátültetéssel kapcsolatos mentési feladat.
 
 (4) Neonatológiai mentés vagy betegszállítás során intenzív szállító inkubátorban történő szállítást igényel minden koraszülött, újszülött, valamint az egészségügyi dolgozó által megállapított életveszélyben lévő 6 kg-ot, illetve 60 cm-t meg nem haladó csecsemő.
 
-(5)[^15] A mentőjármű általános mentést, koraszülött mentést és koraszülött szállítást, mentési készenlétet igénylő őrzött betegszállítást, mozgóőrségi, rendezvénybiztosítási, továbbá transzplantációhoz kapcsolódó tevékenységet végző közúti mentőjármű, amely lehet a mentést végző szervezet tulajdonában vagy – erre irányuló külön megállapodás alapján – annak használatában. A mentőjárműre vonatkozó részletes feltételeket az 1. melléklet határozza meg.
+(5)[^16] A mentőjármű általános mentést, koraszülött mentést és koraszülött szállítást, mentési készenlétet igénylő őrzött betegszállítást, mozgóőrségi, rendezvénybiztosítási, továbbá transzplantációhoz kapcsolódó tevékenységet végző közúti mentőjármű, amely lehet a mentést végző szervezet tulajdonában vagy – erre irányuló külön megállapodás alapján – annak használatában. A mentőjárműre vonatkozó részletes feltételeket az 1. melléklet határozza meg.
 
-[^9]: A 3. § (1) bekezdése a 61/2007. (XII. 29.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^10]: A 3. § (2) bekezdése a 37/2011. (VI. 28.) NEFMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^11]: A 3. § (3) bekezdés d) pontja a 37/2011. (VI. 28.) NEFMI rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^12]: A 3. § (3) bekezdésének e) pontját a 61/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be.
-[^13]: A 3. § (3) bekezdésének f) pontját a 61/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be.
-[^14]: A 3. § (3) bekezdés g) pontját a 37/2011. (VI. 28.) NEFMI rendelet 3. § (3) bekezdése iktatta be.
-[^15]: A 3. § (5) bekezdését a 37/2011. (VI. 28.) NEFMI rendelet 3. § (4) bekezdése iktatta be.
+[^10]: A 3. § (1) bekezdése a 61/2007. (XII. 29.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (2) bekezdése a 37/2011. (VI. 28.) NEFMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (3) bekezdés d) pontja a 37/2011. (VI. 28.) NEFMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^13]: A 3. § (3) bekezdésének e) pontját a 61/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^14]: A 3. § (3) bekezdésének f) pontját a 61/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^15]: A 3. § (3) bekezdés g) pontját a 37/2011. (VI. 28.) NEFMI rendelet 3. § (3) bekezdése iktatta be.
+[^16]: A 3. § (5) bekezdését a 37/2011. (VI. 28.) NEFMI rendelet 3. § (4) bekezdése iktatta be.
