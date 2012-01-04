@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-33-20-0
 | 2010-03-22 | 2009-33-20-0B.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-03-23 | 2009-33-20-0B.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-06-12 | 2009-33-20-0B.5 | 29/2011. (VI. 7.) NEFMI rendelet |
+| 2012-01-04 | 2009-33-20-0B.6 | 3/2012. (I. 3.) NEFMI rendelet |

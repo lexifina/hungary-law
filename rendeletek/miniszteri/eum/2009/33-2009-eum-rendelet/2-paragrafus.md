@@ -30,7 +30,7 @@ n) toborzás: a vizsgálatot végző egészségügyi szolgáltatónak e rendelet
 
 o) váratlan esemény, baleset: az eszközzel összefüggésben bekövetkezett olyan esemény, amely során az eszköz bármilyen hibás működése, jellemzőiben, illetve teljesítőképességben bekövetkező működési hibája vagy romlása, valamint a címke vagy a használati útmutató bármely hiányossága vagy elégtelensége a vizsgálati alany, a vizsgáló, illetve más személy halálához vagy egészségi állapotának súlyos romlásához vezetett vagy vezethetett volna;
 
-p)[^1] az egészségi állapot súlyos romlása:
+p)[^2] az egészségi állapot súlyos romlása:
 
 pa) életet veszélyeztető megbetegedés,
 
@@ -52,4 +52,4 @@ t) nemkívánatos esemény: a váratlan esemény és baleset, a mellékhatás é
 
 (2) Az (1) bekezdésben nem szabályozottak tekintetében e rendelet alkalmazásában az Eütv.-ben, az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló külön jogszabályban és az orvostechnikai eszközökről szóló külön jogszabályban foglalt fogalommeghatározásokat és előírásokat kell figyelembe venni.
 
-[^1]: A 2. § (1) bekezdés p) pontja a 29/2011. (VI. 7.) NEFMI rendelet 24. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés p) pontja a 29/2011. (VI. 7.) NEFMI rendelet 24. §-ával megállapított szöveg.
