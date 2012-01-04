@@ -8,7 +8,7 @@ b) a közegészségügyi-járványügyi feladatok ellátása az 5. §-ban foglal
 
 c) az egészségnevelésben és az egészségügyi felvilágosításban való részvétel,
 
-d)[^5] külön jogszabályban foglaltak szerint az életkorhoz kötött szűrővizsgálatok elvégzése és az egyes népegészségügyi célú, célzott szűrővizsgálatokban való közreműködés, valamint együttműködés az ellátási területén ilyen szűrővizsgálatot végző egészségügyi szolgáltatóval és a végrehajtásért felelős szervvel,
+d)[^6] külön jogszabályban foglaltak szerint az életkorhoz kötött szűrővizsgálatok elvégzése és az egyes népegészségügyi célú, célzott szűrővizsgálatokban való közreműködés, valamint együttműködés az ellátási területén ilyen szűrővizsgálatot végző egészségügyi szolgáltatóval és a végrehajtásért felelős szervvel,
 
 e) az önkormányzattal kötött szerződésben rögzítettek szerint az ügyeleti szolgálatban való részvétel,
 
@@ -24,13 +24,13 @@ h) külön jogszabályban foglaltak szerinti halottvizsgálat
 
 a) a csecsemők és gyermekek gyógyító-megelőző alapellátása, beleértve a tanácsadást is,
 
-b)[^6] az újszülöttek, a veszélyeztetett csecsemők és gyermekek szükség szerinti preventív látogatása, ezen túlmenően intézeten kívüli szülés esetén az újszülöttnek a szülés megtörténtétől számított 4–7 napon belül történő meglátogatása,
+b)[^7] az újszülöttek, a veszélyeztetett csecsemők és gyermekek szükség szerinti preventív látogatása, ezen túlmenően intézeten kívüli szülés esetén az újszülöttnek a szülés megtörténtétől számított 4–7 napon belül történő meglátogatása,
 
 c) a gyermekintézményekbe történő felvétel előtti orvosi vizsgálat,
 
 d) gyermekápolás címén a jogosult keresőképtelen állományba vétele,
 
-e)[^7] a gyermekről ötéves életkorában a külön jogszabály szerinti „fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére” megnevezésű orvosi adatlap kiállítása.
+e)[^8] a gyermekről ötéves életkorában a külön jogszabály szerinti „fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére” megnevezésű orvosi adatlap kiállítása.
 
 (4) A fogorvosi alapellátás keretében a fogorvos feladatai:
 
@@ -50,6 +50,6 @@ e) a sürgősségi ellátás.
 
 (7) Feladatait a háziorvos és a fogorvos a rendelőjében, indokolt esetben a beteg otthonában látja el.
 
-[^5]: A 4. § (2) bekezdésének d) pontja a 40/2003. (VII. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
-[^6]: A 4. § (3) bekezdés b) pontja a 8/2011. (III. 21.) NEFMI rendelet 2. §-ával megállapított szöveg.
-[^7]: A 4. § (3) bekezdésének e) pontját a 12/2004. (XII. 25.) EüM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe.
+[^6]: A 4. § (2) bekezdésének d) pontja a 40/2003. (VII. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 4. § (3) bekezdés b) pontja a 8/2011. (III. 21.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. § (3) bekezdésének e) pontját a 12/2004. (XII. 25.) EüM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe.

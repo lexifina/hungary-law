@@ -10,6 +10,6 @@ c) kórokozó-hordozókkal kapcsolatos tennivalókat,
 
 d) ételmérgezések esetén szükséges teendőket.
 
-(3)[^8] A háziorvos az észlelt közegészségügyi-járványügyi és egészségügyi hiányosságokról és az általa megtett intézkedésről értesíti a fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézetét (a továbbiakban: kistérségi népegészségügyi intézet).
+(3)[^9] A háziorvos az észlelt közegészségügyi-járványügyi és egészségügyi hiányosságokról és az általa megtett intézkedésről értesíti a fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézetét (a továbbiakban: kistérségi népegészségügyi intézet).
 
-[^8]: Az 5. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 14. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 14. § (1) bekezdés b) pontja szerint módosított szöveg.
