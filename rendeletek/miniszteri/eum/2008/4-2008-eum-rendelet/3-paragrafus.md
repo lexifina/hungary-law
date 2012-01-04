@@ -1,4 +1,4 @@
-## 3. §[^1] Ez a rendelet a következő uniós jogi aktusnak való megfelelést szolgálja:
+## 3. §[^2] Ez a rendelet a következő uniós jogi aktusnak való megfelelést szolgálja:
 
 a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 21. cikk (1)–(3) bekezdése, 23. cikke, 27. cikk (1) és (2) bekezdése, 33. cikke, 37. cikke, 43. cikke, 45. cikk (3) bekezdése, V. melléklet 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.3.3., 5.5.2., 5.6.2. pontja, valamint az irányelvnek az azt módosító, a személyek szabad mozgása területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozása tekintetében történő kiigazításáról szóló, 2006. november 20-i 2006/100/EK tanácsi irányelv melléklete V. fejezetének
 
@@ -42,4 +42,4 @@ e) az irányelv II. melléklete és V. melléklet 5.1.3. pontja a szakmai képes
 
 f) a 2003. évi uniós csatlakozási okmány II. melléklet 2. C. pontja.
 
-[^1]: A 3. § az 50/2011. (VIII. 18.) NEFMI rendelet 3. §-ával megállapított szöveg.
+[^2]: A 3. § az 50/2011. (VIII. 18.) NEFMI rendelet 3. §-ával megállapított szöveg.

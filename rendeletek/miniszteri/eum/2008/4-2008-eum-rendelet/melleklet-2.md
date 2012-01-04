@@ -3290,6 +3290,6 @@
 
 ## A fenti igazolást ugyanolyan hatályúnak kell tekinteni, mint a külön jogszabályban meghatározott, a háziorvosi szakképzettség megszerzését tanúsító okiratot.
 
-2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^3]
+2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^4]
 
-[^3]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja szerint módosított szöveg.
+[^4]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja szerint módosított szöveg.

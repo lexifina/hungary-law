@@ -190,6 +190,6 @@
 
 ## m) Az a)–l) pont szerinti tevékenységhez a betegápolás tervezésével, megszervezésével és elvégzésével kapcsolatos teljes felelősségnek kell kapcsolódnia.
 
-3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^4]
+3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^5]
 
-[^4]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § c) pontja szerint módosított szöveg.
+[^5]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § c) pontja szerint módosított szöveg.
