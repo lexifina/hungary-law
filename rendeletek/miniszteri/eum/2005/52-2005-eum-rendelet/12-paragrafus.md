@@ -6,6 +6,6 @@ a) az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottsága k�
 
 b) a növényi gyógyszer az Állandó Bizottság által kiadott nevesített jegyzéken szereplő növényi anyagokból, növényi készítményekből vagy ezek kombinációjából áll.
 
-(2)[^32] A GYEMSZI a hagyományos növényi gyógyszerek forgalomba hozatali eljárásában figyelembe veszi a más tagállam által kiadott forgalomba hozatali engedélyeket, az (1) bekezdés a) pontja szerinti gyógynövény monográfiákat, illetve az egyéb megfelelő monográfiákat, publikációkat vagy adatokat.
+(2)[^35] A GYEMSZI a hagyományos növényi gyógyszerek forgalomba hozatali eljárásában figyelembe veszi a más tagállam által kiadott forgalomba hozatali engedélyeket, az (1) bekezdés a) pontja szerinti gyógynövény monográfiákat, illetve az egyéb megfelelő monográfiákat, publikációkat vagy adatokat.
 
-[^32]: A 12. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^35]: A 12. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.

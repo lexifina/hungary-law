@@ -44,15 +44,17 @@ q) igazolást arról, hogy a kérelmezőnek folyamatosan rendelkezésére áll l
 
 r) a 15. § (2) bekezdése szerinti dokumentumot;
 
-s) ha a gyógyszer a Magyar Köztársaságon kívül már rendelkezik forgalomba hozatali engedéllyel, mellékelni kell az ott kiadott forgalomba hozatali engedély másolatát, a jóváhagyott alkalmazási előírást és a betegtájékoztató másolatát;
+s)[^13] ha a gyógyszer Magyarországon kívül már rendelkezik forgalomba hozatali engedéllyel, mellékelni kell az ott kiadott forgalomba hozatali engedély másolatát, a jóváhagyott alkalmazási előírást és a betegtájékoztató másolatát;
 
-t) amennyiben a gyógyszerrel kapcsolatosan a Magyar Köztársaságon kívül forgalomba hozatali eljárás iránti kérelmet utasítottak el, az elutasító határozatot.
+t)[^14] amennyiben a gyógyszerrel kapcsolatosan Magyarországon kívül forgalomba hozatali eljárás iránti kérelmet utasítottak el, az elutasító határozatot.
 
 (3) A k) pont szerinti gyógyszerészeti, preklinikai és klinikai vizsgálatok eredményeivel kapcsolatos dokumentumokhoz és információkhoz az 1. számú melléklettel összhangban részletes szakértői összefoglalót kell csatolni. A szakértői összefoglalókat megfelelő szakmai képzettséggel rendelkező szakértőnek kell összeállítani. Az összefoglalóhoz csatolni kell a szakértő rövid szakmai önéletrajzát is. A szakértőnek meg kell indokolnia a tudományos irodalom felhasználását az 1. számú melléklettel összhangban.
 
-(4)[^13] A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli a GYEMSZI-vel.
+(4)[^15] A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli a GYEMSZI-vel.
 
 (5) A (2) bekezdés b) pontja szerinti gyógyszernév nem lehet azonos más, már forgalomba hozatalra engedélyezett készítmény nevével, és nem hasonlíthat más, már forgalomba hozatalra engedélyezett készítmény nevéhez oly mértékben, hogy azzal összetéveszthető legyen.
 
 [^12]: Az 5. § (2) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^13]: Az 5. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^13]: Az 5. § (2) bekezdés s) pontja a 2/2012. (I. 3.) NEFMI rendelet 25. § a) pontja szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdés t) pontja a 2/2012. (I. 3.) NEFMI rendelet 25. § a) pontja szerint módosított szöveg.
+[^15]: Az 5. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés c) pontja szerint módosított szöveg.

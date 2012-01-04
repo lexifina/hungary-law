@@ -1,16 +1,16 @@
 11. § (1) A 10. § (1) bekezdés szerinti kérelemnek az 5. § (2) bekezdésétől eltérően a következőket kell tartalmaznia:
 
-a)[^26] az 5. § (2) bekezdés a)–j), továbbá ka) és r) pontjában foglaltakat;
+a)[^28] az 5. § (2) bekezdés a)–j), továbbá ka) és r) pontjában foglaltakat;
 
 b) a gyógyszer külső csomagolásának, közvetlen csomagolásának, valamint betegtájékoztatójának mintáját az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló rendeletnek megfelelően, továbbá a 2. számú mellékletnek megfelelően az alkalmazási előírás tervezetét az 5. pont kivételével;
 
-c)[^27] a biztonságosságra vonatkozó adatok irodalmi áttekintését szakértői összefoglalóval együtt, valamint ha a GYEMSZI azt előírja, kiegészítésként a gyógyszer biztonságosságának értékeléséhez szükséges adatokat;
+c)[^29] a biztonságosságra vonatkozó adatok irodalmi áttekintését szakértői összefoglalóval együtt, valamint ha a GYEMSZI azt előírja, kiegészítésként a gyógyszer biztonságosságának értékeléséhez szükséges adatokat;
 
-d) amennyiben a gyógyszerre vonatkozóan a Magyar Köztársaságon kívül forgalomba hozatali engedélyt adtak ki, vagy ez iránti kérelmet utasítottak el, az erről szóló határozat másolatát;
+d)[^30] amennyiben a gyógyszerre vonatkozóan Magyarországon kívül forgalomba hozatali engedélyt adtak ki, vagy ez iránti kérelmet utasítottak el, az erről szóló határozat másolatát;
 
-e)[^28] több növényi anyagot, növényi készítményt tartalmazó kombináció esetében a 10. § (1) bekezdés e) pontjában meghatározottakat a kombinációra magára vonatkozóan. Amennyiben a hatóanyagok nem ismertek, a GYEMSZI kiegészítést kérhet az egyes hatóanyagokra vonatkozóan;
+e)[^31] több növényi anyagot, növényi készítményt tartalmazó kombináció esetében a 10. § (1) bekezdés e) pontjában meghatározottakat a kombinációra magára vonatkozóan. Amennyiben a hatóanyagok nem ismertek, a GYEMSZI kiegészítést kérhet az egyes hatóanyagokra vonatkozóan;
 
-f)[^29] irodalmi adatokat vagy szakértői jelentéseket a (3) bekezdésre vonatkozóan. A GYEMSZI az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottságát felkérheti arra, hogy adjon véleményt a gyógyszer vagy a termék régóta fennálló használatára vonatkozó bizonyítékok helytállóságáról.
+f)[^32] irodalmi adatokat vagy szakértői jelentéseket a (3) bekezdésre vonatkozóan. A GYEMSZI az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottságát felkérheti arra, hogy adjon véleményt a gyógyszer vagy a termék régóta fennálló használatára vonatkozó bizonyítékok helytállóságáról.
 
 (2) Az (1) bekezdés a), b) és e) pontjai tekintetében az 1. számú mellékletben meghatározottakat értelemszerűen kell alkalmazni.
 
@@ -20,19 +20,20 @@ f)[^29] irodalmi adatokat vagy szakértői jelentéseket a (3) bekezdésre vonat
 
 (5) Az (1) bekezdés f) pontjában meghatározott 30 éven keresztül tartó gyógyászati felhasználás igazolására vonatkozó követelmény akkor is teljesül, ha a termék forgalmazása nem engedélyen alapult. Ehhez hasonlóan akkor is teljesül, ha a gyógyszer összetevőinek száma vagy mennyisége ezen időszak alatt csökkent.
 
-(6)[^30] A GYEMSZI eltekint az (1) bekezdés f) pontjában meghatározott 15 éves EGT-n belül történő alkalmazásra vonatkozó időkövetelmény alkalmazásától, ha a növényi gyógyszer tekintetében megadható lenne az egyszerűsített forgalomba hozatali engedély, és – megfelelő dokumentációval alátámasztott kérésre – az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottsága megállapítja a gyógyszer vagy az ennek megfelelő termék esetében az egyéb feltételek teljesülését, vagy erről ilyen értelmű monográfiát adott ki.
+(6)[^33] A GYEMSZI eltekint az (1) bekezdés f) pontjában meghatározott 15 éves EGT-n belül történő alkalmazásra vonatkozó időkövetelmény alkalmazásától, ha a növényi gyógyszer tekintetében megadható lenne az egyszerűsített forgalomba hozatali engedély, és – megfelelő dokumentációval alátámasztott kérésre – az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottsága megállapítja a gyógyszer vagy az ennek megfelelő termék esetében az egyéb feltételek teljesülését, vagy erről ilyen értelmű monográfiát adott ki.
 
 (7) A kérelemben bizonyítani kell a 10. § (1) bekezdés e) pontjában foglaltakat.
 
-(8)[^31] A GYEMSZI az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottsága által kiadott
+(8)[^34] A GYEMSZI az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottsága által kiadott
 
 a) új monográfiát negyedévente,
 
 b) összes érvényes monográfiát évente egyszer
 
-[^26]: A 11. § (1) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § b) pontja szerint módosított szöveg.
-[^27]: A 11. § (1) bekezdés c) pontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^28]: A 11. § (1) bekezdés e) pontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^29]: A 11. § (1) bekezdés f) pontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^30]: A 11. § (6) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^31]: A 11. § (8) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 11. § (1) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § b) pontja szerint módosított szöveg.
+[^29]: A 11. § (1) bekezdés c) pontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^30]: A 11. § (1) bekezdés d) pontja a 2/2012. (I. 3.) NEFMI rendelet 25. § a) pontja szerint módosított szöveg.
+[^31]: A 11. § (1) bekezdés e) pontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^32]: A 11. § (1) bekezdés f) pontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^33]: A 11. § (6) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 11. § (8) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
