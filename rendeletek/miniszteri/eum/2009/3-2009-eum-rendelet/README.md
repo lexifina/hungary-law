@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-3-20-0B
 | 2010-09-16 | 2009-3-20-0B.5 | 38/2009. (XI. 6.) EüM rendelet |
 | 2011-01-01 | 2009-3-20-0B.6 | 38/2009. (XI. 6.) EüM rendelet |
 | 2011-12-28 | 2009-3-20-0B.7 | 67/2011. (XII. 13.) NEFMI rendelet |
+| 2012-01-04 | 2009-3-20-0B.8 | 2/2012. (I. 3.) NEFMI rendelet |
