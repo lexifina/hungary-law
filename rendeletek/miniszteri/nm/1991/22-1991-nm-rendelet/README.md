@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-22-20-3
 | --- | --- | --- |
 | 1999-04-05 | 1991-22-20-3D.7 | 22/1991. (XI. 15.) NM rendelet |
 | 2010-04-02 | 1991-22-20-3D.8 | 9/2010. (III. 18.) EüM rendelet |
+| 2012-01-04 | 1991-22-20-3D.9 | 3/2012. (I. 3.) NEFMI rendelet |

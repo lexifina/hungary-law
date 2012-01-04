@@ -1,3 +1,3 @@
-## 15/A. §[^30]
+## 15/A. §[^33]
 
-[^30]: A 15/A. §-t a 14/1992. (VI. 26.) NM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 9/2010. (III. 18.) EüM rendelet 16. § e) pontja.
+[^33]: A 15/A. §-t a 14/1992. (VI. 26.) NM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 9/2010. (III. 18.) EüM rendelet 16. § e) pontja.
