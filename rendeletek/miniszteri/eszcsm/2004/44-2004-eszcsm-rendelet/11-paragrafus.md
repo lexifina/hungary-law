@@ -2,7 +2,7 @@
 
 11. §[^65] (1) Az orvosnak a rendelt gyógyszer mennyiségét úgy kell meghatároznia, hogy a beteg szakszerű gyógykezeléséhez szükséges legközelebbi orvosi vizsgálatig elegendő legyen.
 
-(2) Az orvos egy vényen, egyszeri kiváltásra 30 napra elegendő gyógyszermennyiséget rendelhet.
+(2)[^66] Az orvos egy vényen, egyszeri kiváltásra legfeljebb 30 napra elegendő gyógyszermennyiséget rendelhet. Amennyiben a legkisebb eredeti csomagolás ezt meghaladja, a 30 napra elegendő mennyiséghez legközelebbi gyógyszermennyiséget tartalmazó legkisebb eredeti csomagolási egységnek megfelelő mennyiség rendelhető.
 
 (3) Krónikus betegség vagy állapot kezelése során
 
@@ -28,3 +28,4 @@ c) a gyógyszer tartós alkalmazásától az adott beteg esetében az előzetes 
 
 [^64]: A 10. § a 47/2005. (XI. 4.) EüM rendelet 19. § (3) bekezdésének c) pontja szerint módosított szöveg.
 [^65]: A 11. § a 9/2007. (II. 15.) EüM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2007. február 15. napját követően kiállított vények esetén kell alkalmazni.
+[^66]: A 11. § (2) bekezdése a 2/2012. (I. 3.) NEFMI rendelet 10. §-ával megállapított szöveg.
