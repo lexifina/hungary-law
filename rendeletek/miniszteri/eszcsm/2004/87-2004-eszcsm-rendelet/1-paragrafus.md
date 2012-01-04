@@ -1,6 +1,6 @@
 1. § (1) E rendelet hatálya kiterjed
 
-a) a Magyar Köztársaság területén tartózkodó azon személyekre, akik az Ebtv. 10–17. §-ában, továbbá a 18. §-a (5) bekezdésének a)–b) és e)–f) pontjában, valamint a (6) bekezdésében meghatározott egészségügyi szolgáltatást – a (2) bekezdésben foglalt kivétellel – vesznek igénybe, és nem jogosultak
+a)[^2] a Magyarország területén tartózkodó azon személyekre, akik az Ebtv. 10–17. §-ában, továbbá a 18. §-a (5) bekezdésének a)–b) és e)–f) pontjában, valamint a (6) bekezdésében meghatározott egészségügyi szolgáltatást – a (2) bekezdésben foglalt kivétellel – vesznek igénybe, és nem jogosultak
 
 aa) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény alapján egészségügyi szolgáltatás igénybevételére, valamint
 
@@ -12,4 +12,7 @@ b) az a) pontban meghatározott egészségügyi szolgáltatást nyújtó az egé
 
 a) a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet 2. számú mellékletében meghatározott egészségügyi szolgáltatásokra; valamint
 
-b) külön jogszabály alapján állampolgárságra és biztosítási jogviszonyra tekintet nélkül a Magyar Köztársaság területén tartózkodó személyek számára térítésmentesen járó egészségügyi szolgáltatásokra.
+b)[^3] külön jogszabály alapján állampolgárságra és biztosítási jogviszonyra tekintet nélkül Magyarország területén tartózkodó személyek számára térítésmentesen járó egészségügyi szolgáltatásokra.
+
+[^2]: Az 1. § (1) bekezdés a) pontja a 3/2012. (I. 3.) NEFMI rendelet 8. § (7) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pontja a 3/2012. (I. 3.) NEFMI rendelet 8. § (7) bekezdése szerint módosított szöveg.
