@@ -28,6 +28,6 @@
 
 ## 2.7. Gottsegen György Országos Kardiológiai Intézet (gyermekszív).
 
-6. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^52]
+6. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^53]
 
-[^52]: A 6. számú melléklet az 55/2007. (XII. 19.) EüM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^53]: A 6. számú melléklet az 55/2007. (XII. 19.) EüM rendelet 5. § (1) bekezdésével megállapított szöveg.

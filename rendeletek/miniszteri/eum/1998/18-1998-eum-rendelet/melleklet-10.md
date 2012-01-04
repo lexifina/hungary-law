@@ -1,4 +1,4 @@
-10. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^66]
+10. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^67]
 
 I. Súlyos szövődmények bejelentése
 
@@ -50,4 +50,4 @@ II. Súlyos káros események bejelentése
 
 A. Súlyos káros események gyanújának bejelentése
 
-[^66]: A 10. számú mellékletet az 55/2007. (XII. 19.) EüM rendelet 5. § (3) bekezdése iktatta be.
+[^67]: A 10. számú mellékletet az 55/2007. (XII. 19.) EüM rendelet 5. § (3) bekezdése iktatta be.

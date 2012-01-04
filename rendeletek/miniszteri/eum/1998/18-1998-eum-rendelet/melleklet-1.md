@@ -28,7 +28,7 @@ Anyja neve: .......................
 
 TAJ száma: ........................
 
-Alulírottak, azzal a kérelemmel fordulunk a kórházi etikai bizottsághoz, hogy az alábbi beavatkozásokhoz járuljon hozzá.[^47]
+Alulírottak, azzal a kérelemmel fordulunk a kórházi etikai bizottsághoz, hogy az alábbi beavatkozásokhoz járuljon hozzá.[^48]
 
 ...................................
 
@@ -58,4 +58,4 @@ a beavatkozást végző orvos
 
 (orvoscsoport vezetőjének) aláírása
 
-[^47]: A szerv, szövet átültetését végző orvos is kitöltheti.
+[^48]: A szerv, szövet átültetését végző orvos is kitöltheti.

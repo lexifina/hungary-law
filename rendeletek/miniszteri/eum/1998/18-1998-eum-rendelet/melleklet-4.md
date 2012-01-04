@@ -126,6 +126,6 @@
 
 ## Pecsét
 
-4. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^48]
+4. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^49]
 
-[^48]: A 4. számú melléklet a 38/1999. (VIII. 26.) EüM rendelet 5. §-ával, illetve mellékletével megállapított szöveg.
+[^49]: A 4. számú melléklet a 38/1999. (VIII. 26.) EüM rendelet 5. §-ával, illetve mellékletével megállapított szöveg.

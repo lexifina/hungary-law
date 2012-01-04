@@ -6,5 +6,8 @@
 
 (3) Az (1)–(2) bekezdés szerinti esetben az egészségügyi szolgáltatónak meg kell felelnie a külön jogszabályban1 meghatározott személyi és tárgyi feltételeknek.
 
+(4)[^23] A (2) bekezdésben foglaltakon túl az adott szerv tekintetében szervnek halottból átültetés céljára történő kivételére jogosultak az állami vérellátó szolgálat által megkötött egyezmény vagy megállapodás alapján másik állam transzplantációs centrumából érkező azon személyek is, akik megfelelnek az Eütv. 110. § (2), (4), (10) vagy (10a) bekezdésében foglalt feltételeknek. A szervkivétel a (2) bekezdésben foglaltak szerinti egészségügyi szolgáltatónál történik.
+
 [^21]: A 13. § (1) bekezdése a 3/2003. (II. 1.) ESZCSM rendelet 1. §-ának (1) bekezdésével megállapított, a 26/2010. (V. 12.) EüM rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^22]: A 13. § (2) bekezdése a 3/2003. (II. 1.) ESZCSM rendelet 1. §-ának (2) bekezdésével megállapított, a 26/2010. (V. 12.) EüM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 13. § (4) bekezdését a 3/2012. (I. 3.) NEFMI rendelet 4. §-a iktatta be.
