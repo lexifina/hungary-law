@@ -1,0 +1,3 @@
+## 13. § Az R2. a következő 23/A. §-sal egészül ki:
+
+## „23/A. § Az egyes egészségügyi és gyógyszerészeti tárgyú miniszteri rendeletek módosításáról szóló 2/2012. (I. 3.) NEFMI rendelet 10. § (1) bekezdésével megállapított 11. § (2) bekezdésben, 10. § (2) bekezdésével megállapított 11. § (3a) bekezdésben, 11. § (1) bekezdésével megállapított 14. § (1) bekezdésben és 11. § (2) bekezdésével megállapított 14. § (1a) bekezdésben foglaltakat azzal kell alkalmazni, hogy az egyes egészségügyi és gyógyszerészeti tárgyú miniszteri rendeletek módosításáról szóló 2/2012. (I. 3.) NEFMI rendelet hatálybalépését megelőzően felírt vényekre a gyógyszerek a hatálybalépést megelőzően hatályos szabályok alapján kiválthatók.”
