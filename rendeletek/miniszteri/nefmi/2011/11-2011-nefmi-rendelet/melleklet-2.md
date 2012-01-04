@@ -692,7 +692,7 @@
 
 ## 6.6. Pontszám: 2,5
 
-2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez
+2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^2]
 
 I.
 
@@ -726,7 +726,7 @@ II.
 
 1.1.8. esomeprazol
 
-1.2. CÉLÉRTÉK: 51,0 Ft
+1.2. CÉLÉRTÉK: 34,27 Ft
 
 1.3. DOT korlát: 2000/negyedév
 
@@ -742,7 +742,7 @@ II.
 
 2.1.4. glimepirid
 
-2.2. CÉLÉRTÉK: 16,0 Ft
+2.2. CÉLÉRTÉK: 16,35 Ft
 
 2.3. DOT korlát: 2000/negyedév
 
@@ -810,7 +810,9 @@ II.
 
 3.1.30. valsartan és amlodipin
 
-3.2. CÉLÉRTÉK: 24,5 Ft
+3.1.31. telmisartan és amlodipin
+
+3.2. CÉLÉRTÉK: 23,45 Ft
 
 3.3. DOT korlát: 2000/negyedév
 
@@ -838,6 +840,8 @@ II.
 
 4.1.10. atorvastatin és amlodipin
 
-4.2. CÉLÉRTÉK: 80,8 Ft
+4.2. CÉLÉRTÉK: 67,87 Ft
 
 4.3. DOT korlát: 2000/negyedév
+
+[^2]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a szerint módosított szöveg.
