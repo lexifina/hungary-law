@@ -1,5 +1,3 @@
-## állít ki.
-
 8. § (1) A vizsgálatot végző orvos a 7. § (3) és (5) bekezdésében foglaltakon kívül ,,Egészségügyi törzslap''-ot (6. számú melléklet) állít ki.
 
 (2) A belvízi, illetve tengeri hajózási szolgálatot végző személy egészségügyi törzslapját a szolgálatra való alkalmasságot első fokon vizsgáló orvos őrzi meg.

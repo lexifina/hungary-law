@@ -2,7 +2,7 @@
 
 ## vizsgálata és igazolása
 
-## A vizsgált személy belvízi hajózási szolgálatra akkor minősíthető egészségi szempontból alkalmasnak, ha megfelel a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabályban[^8] foglaltaknak és az alább felsorolt követelményeknek. Amennyiben a vizsgáló orvos olyan megbetegedést vagy rendellenességet észlel, amely veszélyeztetheti a vizsgált személyt, a hajón tartózkodó más személyeket, illetve a hajó és a hajózás biztonságát, a szolgálatra alkalmasságot az Országos Közegészségügyi Központ (a továbbiakban: OKK) keretében működő Repülési, Hajózási és Tengerészeti Egészségügyi Központ orvosa minősíti, és ad beosztást, hajótípust érintő vagy időbeli korlátozást.
+## A vizsgált személy belvízi hajózási szolgálatra akkor minősíthető egészségi szempontból alkalmasnak, ha megfelel a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabályban[^14] foglaltaknak és az alább felsorolt követelményeknek. Amennyiben a vizsgáló orvos olyan megbetegedést vagy rendellenességet észlel, amely veszélyeztetheti a vizsgált személyt, a hajón tartózkodó más személyeket, illetve a hajó és a hajózás biztonságát, a szolgálatra alkalmasságot az Országos Közegészségügyi Központ (a továbbiakban: OKK) keretében működő Repülési, Hajózási és Tengerészeti Egészségügyi Központ orvosa minősíti, és ad beosztást, hajótípust érintő vagy időbeli korlátozást.
 
 ## I. Látási követelmények:
 
@@ -62,17 +62,17 @@
 
 ## – Hirtelen cselekvőképtelenséget okozó betegségek.
 
-## VI. Az alkalmasság igazolása szolgálati könyvvel, illetve képesítő okmánnyal nem rendelkező személyek részére:
-
-## – A szolgálati könyvvel, illetve képesítő okmánnyal nem rendelkező személyek alkalmasságát a vizsgálatot végző orvos a következő orvosi igazolásban tanúsítja:
+## VI. Az alkalmasság igazolása azok számára, akik belvízi nagyhajó vezetésére való orvosi bizonyítvánnyal nem rendelkeznek
 
 ## ORVOSI IGAZOLÁS
 
 ## belvízi hajós egészségi alkalmasságának minősítéséről
 
-| Név/Leánykori név: |
+| ……………………….sz. |
 
-| Születési hely, idő: | Útlevélszám: |
+| Név/Leánykori név: | Anyja neve: |
+
+| Születési hely, idő: | Személyazonosító okmány száma: |
 
 | I. | Látási követelmények | jobb szem | bal szem |
 
@@ -94,42 +94,46 @@
 
 | II. | Hallás: A halláskárosodás meghaladja a 30 dB-t 500, 1000 és 2000 Hz frekvenciánál: |
 
-|  | jobb fül | ! igen | ! nem |
+|  | jobb fül | _ igen | _ nem |
 
-|  | bal fül | ! igen | ! nem |
+|  | bal fül | _ igen | _ nem |
 
-|  | Hallókészülék szükséges | ! igen | ! nem |
+|  | Hallókészülék szükséges: | _ igen | _ nem |
 
-|  | A vizsgálat eredménye | ! megfelelő | ! nem megfelelő |
+|  | A vizsgálat eredménye | _ megfelelő | _ nem megfelelő |
 
-| III. | 20 kg súly felemelésének képessége: | ! igen | ! nem |
+| III. | 20 kg súly felemelésének képessége: | _ igen | _ nem |
 
 | IV. | A részletes vizsgálatok eredményei: |
 
-| V. | Betegségek vagy testi fogyatékosságok, amelyek a hajós munkavégző képességét korlátozzák: Felülvizsgálat a Repülési, Hajózási és Tengerészeti Egészségügyi Központban szükséges: |
+| V. | Betegségek vagy testi fogyatékosságok, amelyek a hajós munkavégző képességét korlátozzák: |
 
-|  |  | ! igen | ! nem |
+|  | Felülvizsgálat a Repülési, Hajózási és Tengerészeti Egészségügyi Központban szükséges: |
 
-| A belvízi hajós egészségi alkalmasságának orvosi minősítése |
+|  |  | _ igen | _ nem |
 
-| Fedélzeti szolgálatra | ! alkalmas | ! nem alkalmas |
+| A belvízi hajós egészségi alkalmasságának orvosi minősítése |  |
 
-| Gépüzemi szolgálatra | ! alkalmas | ! nem alkalmas |
+| Fedélzeti szolgálatra | _ alkalmas | _ nem alkalmas |
 
-| Segédszolgálatra | ! alkalmas | ! nem alkalmas |
+| Gépüzemi szolgálatra | _ alkalmas | _ nem alkalmas |
 
-## ......................................... ............................................
+| Segédszolgálatra | _ alkalmas | _ nem alkalmas |
 
-## hely, dátum foglalkozás-egészségügyi
+| A belvízi hajós egészségi alkalmasságának orvosi minősítése érvényes….-ig |
 
-## alapszolgáltatás nyújtására jogosult,
+| ........................................................... | ............................................................................... |
 
-## a Közlekedési Értesítőben közzétett
+| hely, dátum | foglalkozás-egészségügy |
 
-## orvos aláírása, pecsétje
+|  | alapszolgáltatás nyújtására jogosult, |
+
+|  | a hajózási hatóság honlapján közzétett |
+
+|  | orvos aláírása, pecsétje |
 
 2. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM
 
 együttes rendelethez
 
-[^8]: A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 12. §-a alapján.
+[^14]: A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 12. §-a alapján.

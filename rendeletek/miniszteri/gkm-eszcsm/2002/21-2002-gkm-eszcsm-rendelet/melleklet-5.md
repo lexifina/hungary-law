@@ -1,69 +1,81 @@
+| ........................... sz. | MAGYARORSZÁG Ungarn | N° ....................... |
+
 ## ORVOSI BIZONYÍTVÁNY
 
-| .....................sz. | MAGYARORSZÁG Republik Ungarn | No..................... |
+## belvízi nagyhajó vezetésére való alkalmasságról
 
-| ORVOSI BIZONYÍTVÁNY belvízi nagyhajó vezetésére való alkalmasságról |
+## Ärtzliches Zeugnis
 
-| Ärtzliches Zeugnis |
+## über die Untersuchnung der Tauglichtkeit als Schiffsführer
 
-| über die Untersuchnung der Tauglichtkeit als Schiffsführer |
+|  | A megfelelőt kereszttel megjelölni _ Zutreffendes ankreuzen |
 
-|  | A megfelelőt kereszttel megjelölni ! Zutreffendes ankreuzen |
+| Vezeték- és utónév: Familienname, Vorname: |  |
 
-| Vezeték- és utónév: Familienname, Vorname: |
-
-| Születési hely, idő: Geburtsort, -tag: |
+| Születési hely, idő: Geburtsort, -tag: |  |
 
 | I. | Látóképesség Sehvermögen |
 
-| 1. Nappali látásélesség: Tagessehchärfe: ! látásjavító eszköz nélkül ohne Sehhilfe | Bal Links | Jobb Rechts | ! látásjavító eszközzel mit Sehhilfe | Bal Links | Jobb Rechts |
+|  | 1. Nappali látásélesség: Tagessehchärfe: _ látásjavító eszköz nélkül ohne Sehhilfe | Bal Links | Jobb Rechts | _ látásjavító eszközzel mit Sehhilfe | Bal Links | Jobb Rechts |
 
-| 2. Szürkületi látásélesség* Kontraszt 1:2: Dämmerungssehschärfe Kontrast 1:2: | ! megfelelő ja | ! nem nein |
+|  | 2. Szürkületi látásélesség Kontraszt 1:2: Dämmerungssehschärfe Kontrast 1:2: | _ megfelelő ja | _ nem nein |
 
-| 3. Sötétséghez alkalmazkodás: Dunkeladaption: | ! igen ja | ! nem megfelelő nein |
+|  | 3. Sötétséghez alkalmazkodás: Dunkeladaption: | _ igen ja | _ nem megfelelő nein |
 
-| 4. Látótér: periméteres vizsgálat eredménye: Gesichtsfeld ohne Abweichungen: Perimetrische Untersuchung: | ! igen ja | ! eltéréssel nein |
+|  | 4. Látótér: periméteres vizsgálat eredménye: Gesichtsfeld ohne Abweichungen: Perimetrische Untersuchung: | _ igen ja | _ eltéréssel nein |
 
-| 5. Színmegkülönböztetés megfelelő: Anomaloszkópos vizsgálat eredménye: Farbunterscheidungsvermögen ausreichend: Prüfung mit Anomaloskop: | ! igen ja | ! nem nein |
+|  | 5. Színmegkülönböztetés megfelelő: Anomaloszkópos vizsgálat eredménye: Farbunterscheidungsvermögen ausreichend: Prüfung mit Anomaloskop: | _ igen ja | _ nem nein |
 
-| 6. Szemmozgások szabadok: Motilität vorhanden: | ! igen ja | ! nem nein |
+|  | 6. Szemmozgások szabadok: Motilität vorhanden: | _ igen ja | _ nem nein |
 
-| Vizsgálati eredmény: Untersuchungsergebnis: | ! megfelelő ausreichend | ! nem megfelelő nicht ausreichend |
+|  | Vizsgálati eredmény: Untersuchungsergebnis: | _ megfelelő ausreichend | _ nem megfelelő nicht ausreichend |
 
-## ________________
+| II. | Hallóképesség Hörvermögen |
 
-## * Csak kétség esetén vizsgálandó.
+|  | Hallókészülék Hörgerät | _ nem nein | _ igen ja |
 
-## Nur im Zweifelfälle.
+|  | A halláscsökkenés értéke túllépi a 30 dB értéket az 500, 1000 és 2000 Hz frekvencián Hörverluste überstreiten 30 dB in den Frequenzen 500, 1000 und 2000 Hz | Bal Links | _ nem nein | _ igen ja |
 
-| II. | HallóképességHörvermögen |
+|  | Vizsgálati eredmény: Untersuchungsergebnis | _ megfelelő ausreichend | _ nem nicht ausreichend |
 
-| Hallókészülék Hörgerät A halláscsökkenés értéke túllépi a Bal 30 dB értéket az 500, 1000 Linksés 2000 Hz frekvencián Hörverluste überstreiten 30 dB in den Frequenzen 500, 1000 und 2000 Hz | ! nem nein ! nem nein | !igen ja !igen ja |
+| III. | 20 kg tömegű terhet képes egyedül felemelni: Fähigkeit, eine Last von 20 kg hochzuheben | igen ja | nem nein |
 
-| Vizsgálati eredmény:Untersuchungsergebnis | !megfelelő ausreichend | !nem nicht ausreichend |
+| IV. | Betegség vagy testi fogyatékosság Krankheiten oder körperliche Mangel Megbetegedés vagy testi fogyatékosság, amely a hajóvezető alkalmasságát korlátozza vagy kizárja Anzeichen für sonstige Krankheiten oder körperliche Mangel, die Tauglichkeit als Schiffsführer ausschliessen oder einschranken |
 
-| III. | 20 kg tömegű terhet képes egyedül felemelni:Fähigkeit, eine Last von 20 kg hochzuheben | !igen ja | ! nem nein |
+|  |  | _ nem áll fenn liegen nicht vor | _ fennáll liegen vor |
 
-| IV. | Betegség vagy testi fogyatékosságKrankheiten oder körperliche MängelMegbetegedés vagy testi fogyatékosság, amely a hajóvezető alkalmasságát korlátozza vagy kizárja Anzeichen für sonstige Krankheiten oder körperliche Mangel, die Tauglichkeit als Schiffsführer ausschlieáen oder einschranken |
+|  | Észrevételek Bemerkungen |  |  |
 
-|  | !nem áll fenn liegen nicht vor | !fennál liegen nicht vor |
+## Megjegyzések a IV. szakaszhoz - betegség vagy testi fogyatékosság
 
-|  | ÉszrevételekBemerkungen |
+## Bemerkungen zu Abschnitt IV-Krankheiten oder körperliche Mängel
 
-## Megjegyzések a IV. szakaszhoz – betegség vagy testi fogyatékosság
+## ................................................................................................................................................................
 
-## Bemerkungen zu Abschnitt IV – Krankheiten oder körperliche Mängel
+## ................................................................................................................................................................
 
-|  | Vizsgálati végeredmény |  |
+## ................................................................................................................................................................
 
-|  | Gesamturteil |  |
+## ................................................................................................................................................................
 
-| Hajó vezetésére Als Schiffsführer | !alkalmas tauglich | !alkalmatlan untauglich |
+## ................................................................................................................................................................
 
-| Hely, dátum Ort, Datum | Aláírás/pecsét/bélyegzőUnterschrift/Siegel/Stempel |
+## ................................................................................................................................................................
+
+## ................................................................................................................................................................
+
+## ................................................................................................................................................................
+
+## ................................................................................................................................................................
+
+| Vizsgálati végeredmény Gesamturteil |
+
+| Hajó vezetésére Als Schiffsführer | _ alkalmas tauglich | _ alkalmatlan untauglich |
+
+| Az egészségi alkalmasság orvosi minősítése érvényes……-ig Befristung: |
+
+| Hely, dátum / Ort, Datum | Aláírás/pecsét/bélyegző / Unterschrift/Siegel/Stempel |
 
 5. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM
 
-együttes rendelethez[^10]
-
-[^10]: Az 5. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 29. §-a szerint módosított szöveg.
+együttes rendelethez

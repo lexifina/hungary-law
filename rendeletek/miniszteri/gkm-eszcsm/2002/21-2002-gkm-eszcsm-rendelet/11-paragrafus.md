@@ -1,4 +1,4 @@
-## 10. § A vizsgálatért a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjára vonatkozó jogszabályban[^6] megállapított térítési díjat kell fizetni.
+## 10. § A vizsgálatért a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjára vonatkozó jogszabályban[^11] megállapított térítési díjat kell fizetni.
 
 ## Záró és átmeneti rendelkezések
 
@@ -14,4 +14,4 @@ d) az egyes közlekedési, hírközlési és vízügyi miniszteri rendeletek mó
 
 (2) Az e rendelet hatálybalépését megelőzően kiállított egészségi alkalmassági igazolások az igazolásban megállapított időpontig érvényesek.
 
-[^6]: Lásd a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet 2. számú mellékletét.
+[^11]: Lásd a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet 2. számú mellékletét.

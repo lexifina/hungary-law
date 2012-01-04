@@ -8,17 +8,19 @@ c) a hajózási szolgálat ellátására vonatkozó első munkaviszony – vagy 
 
 d) hajózási oktatási intézménybe való felvétel előtt.
 
-(2) A kedvtelési célú vízijármű-vezetők egészségi alkalmasságát:
+(2)[^2] A kedvtelési célú vízijármű-vezetők egészségi alkalmasságát:
 
 a) a vízijármű vezetésére jogosító képesítő okmány (a továbbiakban: képesítés) kiadása előtt,
 
-b) a képesítés kiadását követően
+b) a képesítés kiadását követően ha
 
-ba) ha negyvenötödik életévét nem töltötte be, ötévenként,
+ba) 40. életévét még nem töltötte be, 10 évenként,
 
-ab) ha negyvenötödik életévét betöltötte, de a hatvanadik életévét nem töltötte be, háromévenként,
+bb) 40. életévét betöltötte, de a 60. életévét még nem töltötte be, 5 évenként,
 
-bc) ha hatvanadik életévét betöltötte, kétévenként
+bc) 60. életévét betöltötte, de a 70. életévét még nem töltötte be, 3 évenként,
+
+bd) 70. életévét betöltötte, 2 évenként
 
 ## kell vizsgálni.
 
@@ -50,6 +52,7 @@ b) hatvanadik életévének betöltése után évenként
 
 (9) A hajózási hatóság, a hajózási szolgálatot teljesítő, illetve a kedvtelési célú vízijárművet vezető személyt a hajózás biztonságát veszélyeztető egészségi állapot észlelésének esetében határidő tűzésével soron kívüli vizsgálatra hívhatja fel, és az alkalmasság újbóli megállapításáig a hajózási szolgálat ellátásától, illetve a kedvtelési célú vízijármű vezetésétől – a szolgálati könyvbe való bejegyzéssel, illetve a kedvtelési célú vízijárművezetői bizonyítvány bevonásával – ideiglenesen eltilthatja.
 
-(10) Az élelmezéssel kapcsolatos munkakörben foglalkoztatott hajózási dolgozót az e rendeletben meghatározott vizsgálatok nem mentesítik az ilyen munkakörben foglalkoztatott dolgozókra külön jogszabályban[^2] előírt orvosi vizsgálat alól.
+(10) Az élelmezéssel kapcsolatos munkakörben foglalkoztatott hajózási dolgozót az e rendeletben meghatározott vizsgálatok nem mentesítik az ilyen munkakörben foglalkoztatott dolgozókra külön jogszabályban[^3] előírt orvosi vizsgálat alól.
 
-[^2]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletet.
+[^2]: A 4. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 11. §-ával megállapított szöveg.
+[^3]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletet.
