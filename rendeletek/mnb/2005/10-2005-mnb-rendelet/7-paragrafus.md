@@ -14,7 +14,7 @@
 
 ## j = a teljesítési tárgyidőszak j. napja,
 
-## kj = az MNB által megállapított és közzétett büntető kamatláb a teljesítési tárgyidőszak j. napján.
+## kj = a mindenkori jegybanki alapkamat mértékének megfelelő büntető kamatláb a teljesítési tárgyidőszak j. napján.
 
 (4)–(5) [^16]
 
@@ -27,7 +27,7 @@
 [^12]: A 7. § a 25/2005. (XII. 12.) MNB rendelet 3. §-ával megállapított szöveg.
 [^13]: A 7. § (1) bekezdése a 12/2007. (XI. 13.) MNB rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^14]: A 7. § (2) bekezdését a 12/2007. (XI. 13.) MNB rendelet 5. § (2) bekezdése hatályon kívül helyezte.
-[^15]: A 7. § (3) bekezdése a 12/2007. (XI. 13.) MNB rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 7. § (3) bekezdése a 12/2007. (XI. 13.) MNB rendelet 4. § (2) bekezdésével megállapított, az 1/2012. (I. 3.) MNB rendelet 3. §-a szerint módosított szöveg.
 [^16]: A 7. § (4)–(5) bekezdését a 12/2007. (XI. 13.) MNB rendelet 5. § (2) bekezdése hatályon kívül helyezte.
 [^17]: A 7. § (6) bekezdésének első mondata a 12/2007. (XI. 13.) MNB rendelet 4. § (3) bekezdése szerint módosított szöveg.
 [^18]: A 7. § (8) bekezdése a 16/2009. (VI. 11.) MNB rendelet 3. §-a szerint módosított szöveg.

@@ -12,9 +12,9 @@
 
 ## j = a teljesítési tárgyidőszak j. napja,
 
-## ij = a kötelező tartalékok után fizetett, az MNB által megállapított és közzétett kamatláb a teljesítési tárgyidőszak j. napján.
+## ij = a kötelező tartalékok után fizetett, a kötelező jegybanki tartalék után fizetendő kamat mértékéről szóló MNB rendeletben megállapított kamatláb a teljesítési tárgyidőszak j. napján.
 
 (2) Az MNB a kötelező tartalék után fizetendő kamatot a teljesítési tárgyidőszakot követő hónap 2. MNB munkanapján fizeti meg a tartalékköteles hitelintézetnek.
 
 [^10]: A 6. § a 25/2005. (XII. 12.) MNB rendelet 2. §-ával megállapított szöveg.
-[^11]: A 6. § (1) bekezdése a 12/2007. (XI. 13.) MNB rendelet 3. §-a szerint módosított szöveg.
+[^11]: A 6. § (1) bekezdése a 12/2007. (XI. 13.) MNB rendelet 3. §-a, az 1/2012. (I. 3.) MNB rendelet 3. §-a szerint módosított szöveg.
