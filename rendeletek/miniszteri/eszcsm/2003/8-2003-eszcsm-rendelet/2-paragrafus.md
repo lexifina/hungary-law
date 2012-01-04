@@ -18,7 +18,7 @@ ba) az invazív mintavevő, valamint
 
 bb) az emberi szervezethez mintavétel céljából csatlakoztatott orvostechnikai eszköz;
 
-c)[^1] orvostechnikai eszköz: az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendeletben (a továbbiakban: R.) meghatározott eszköz;
+c)[^2] orvostechnikai eszköz: az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendeletben (a továbbiakban: R.) meghatározott eszköz;
 
 d) kalibráló és kontrol anyagok: azok az anyagok vagy termékek, amelyeknek a gyártó meghatározása szerinti célja
 
@@ -30,7 +30,7 @@ e) önellenőrzésre szolgáló eszköz: minden olyan eszköz, amely célja a gy
 
 f) teljesítőképesség értékelésére szánt eszköz: minden olyan eszköz, amelynek az a gyártó meghatározása szerinti célja, hogy egy vagy több teljesítményértékelő vizsgálatot végezzenek rajta orvosi analitikai laboratóriumban, vagy egyéb, a gyártó telephelyén kívül eső alkalmas környezetben;
 
-g) gyártó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, amely
+g)[^3] gyártó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, amely
 
 ga) eszközt saját felelősségével tervez, gyárt, csomagol és címkéz azt megelőzően, hogy a saját neve alatt forgalomba kerül, függetlenül attól, hogy ezeket a műveleteket saját maga vagy megbízásából más végzi,
 
@@ -50,13 +50,13 @@ l) vonatkozó nemzeti szabvány: az 1. számú melléklet szerinti valamely alap
 
 m) minták befogadására szolgáló tartály: az olyan vákuum típusú vagy egyéb eszköz, amelyet a gyártó speciálisan arra szánt, hogy az emberi szervezetből származó mintákat közvetlenül a levételt követően befogadja, és in vitro diagnosztikai vizsgálat céljára tárolja;
 
-n)[^2] közös műszaki előírások: az Európai Unió Hivatalos Lapjában közzétett műszaki előírások, amelyek tartalmazzák a megfelelő teljesítőképesség értékelési, újraértékelési és egy adott gyártási sorozat kibocsáthatóságára vonatkozó feltételeket, referenciamódszereket és referenciaanyagokat. E rendelet alkalmazásában, ahol harmonizált szabványra történik hivatkozás, az egyben közös műszaki előírásokra tett hivatkozásnak is értendő;
+n)[^4] közös műszaki előírások: az Európai Unió Hivatalos Lapjában közzétett műszaki előírások, amelyek tartalmazzák a megfelelő teljesítőképesség értékelési, újraértékelési és egy adott gyártási sorozat kibocsáthatóságára vonatkozó feltételeket, referenciamódszereket és referenciaanyagokat. E rendelet alkalmazásában, ahol harmonizált szabványra történik hivatkozás, az egyben közös műszaki előírásokra tett hivatkozásnak is értendő;
 
-o)[^3] balesetfelelős: az egészségügyi szolgáltató orvosigazgatója, vagy ennek hiányában a megfelelő szakmai vezető, aki a váratlan esemény, baleset jelentésével, kivizsgálásával kapcsolatos teendőket ellátja;
+o)[^5] balesetfelelős: az egészségügyi szolgáltató orvosigazgatója, vagy ennek hiányában a megfelelő szakmai vezető, aki a váratlan esemény, baleset jelentésével, kivizsgálásával kapcsolatos teendőket ellátja;
 
-p)[^4] váratlan esemény, baleset: az eszközzel összefüggésben bekövetkezett olyan esemény, amely során az eszköz bármilyen hibás működése, jellemzőiben, vagy teljesítőképességében bekövetkező működési hibája vagy romlása, valamint a címke vagy a használati útmutató bármely hiányossága vagy elégtelensége a beteg, az eszköz kezelője, vagy más személy halálához vagy egészségi állapotának súlyos romlásához vezetett vagy vezethetett volna;
+p)[^6] váratlan esemény, baleset: az eszközzel összefüggésben bekövetkezett olyan esemény, amely során az eszköz bármilyen hibás működése, jellemzőiben, vagy teljesítőképességében bekövetkező működési hibája vagy romlása, valamint a címke vagy a használati útmutató bármely hiányossága vagy elégtelensége a beteg, az eszköz kezelője, vagy más személy halálához vagy egészségi állapotának súlyos romlásához vezetett vagy vezethetett volna;
 
-q)[^5] az egészségi állapot súlyos romlása:
+q)[^7] az egészségi állapot súlyos romlása:
 
 qa) életet veszélyeztető megbetegedés,
 
@@ -68,7 +68,7 @@ qd) a gyártó használati útmutatójának megfelelően használt diagnosztikai
 
 qe) magzati károsodás, magzati halál vagy veleszületett vagy a szüléssel összefüggésbe hozható rendellenesség;
 
-r)[^6] súlyos közegészségügyi kockázat: minden olyan váratlan esemény vagy baleset következtében kialakult veszély, amely több ember esetében halálhoz vagy az egészségi állapot súlyos romlásához vezethet.
+r)[^8] súlyos közegészségügyi kockázat: minden olyan váratlan esemény vagy baleset következtében kialakult veszély, amely több ember esetében halálhoz vagy az egészségi állapot súlyos romlásához vezethet.
 
 (2) E rendelet előírásait az (1) bekezdés b) pontja szerinti tartozékra, mint önálló eszközre kell alkalmazni.
 
@@ -86,9 +86,10 @@ b) külső minőségértékelési programnál alkalmazott anyag.
 
 (5) Az emberi eredetű szövet, sejt és anyag vételére, gyűjtésére és felhasználására vonatkozó követelményeket külön jogszabály tartalmazza.
 
-[^1]: A 2. § (1) bekezdés c) pontja a 29/2011. (VI. 7.) NEFMI rendelet 30. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdésének n) pontját az 51/2004. (V. 21.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
-[^3]: A 2. § (1) bekezdés o) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
-[^4]: A 2. § (1) bekezdés p) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
-[^5]: A 2. § (1) bekezdés q) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
-[^6]: A 2. § (1) bekezdés r) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés c) pontja a 29/2011. (VI. 7.) NEFMI rendelet 30. § a) pontja szerint módosított szöveg.
+[^3]: [A 2. § (1) bekezdés g) pontjának a 3/2012. (I. 3.) NEFMI rendelet 8. § (5) bekezdésével elrendelt módosítása, amely szerint a „Magyar Köztársaságban” szövegrész helyébe a „Magyarországon” szöveg lép, nem vezethető át.]
+[^4]: A 2. § (1) bekezdésének n) pontját az 51/2004. (V. 21.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^5]: A 2. § (1) bekezdés o) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
+[^6]: A 2. § (1) bekezdés p) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
+[^7]: A 2. § (1) bekezdés q) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
+[^8]: A 2. § (1) bekezdés r) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
