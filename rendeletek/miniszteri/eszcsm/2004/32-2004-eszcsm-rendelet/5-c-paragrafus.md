@@ -1,8 +1,8 @@
-5/C. §[^37] (1) Az OEP az 5/B. § a) pontja szerinti hivatalbóli eljárást köteles megindítani azon terápiás területek közfinanszírozásban részesülő gyógyszereire, melyek a 13/2009. (IV. 22.) EüM rendelet szerinti, a finanszírozási eljárásrendre vonatkozó munkatervben közzétételre kerültek.
+5/C. §[^38] (1) Az OEP az 5/B. § a) pontja szerinti hivatalbóli eljárást köteles megindítani azon terápiás területek közfinanszírozásban részesülő gyógyszereire, melyek a 13/2009. (IV. 22.) EüM rendelet szerinti, a finanszírozási eljárásrendre vonatkozó munkatervben közzétételre kerültek.
 
 (2) Az OEP az (1) bekezdés szerinti eljárás megindítását megelőzően, a 13/2009. (IV. 22.) EüM rendelet szerint a terápiás területeket tartalmazó munkaterv közzétételét követő 10 napon belül közzéteszi a honlapján a felülvizsgálat tárgyát képező terápiás területeket és az ezekhez tartozó készítményeket, valamint a felülvizsgálat megindításának időpontját.
 
-(3)[^38] Az OEP a közfinanszírozás alapjául elfogadott elvárt ár kialakítása során az eljárás megindítását megelőzően kikéri a GYEMSZI és az egészségügyi szakmai kollégium véleményét, és a (2) bekezdés szerinti időponttól számított 90 napon belül meghatározza a közfinanszírozás alapjául elfogadott elvárt árakat.
+(3)[^39] Az OEP a közfinanszírozás alapjául elfogadott elvárt ár kialakítása során az eljárás megindítását megelőzően kikéri a GYEMSZI és az egészségügyi szakmai kollégium véleményét, és a (2) bekezdés szerinti időponttól számított 90 napon belül meghatározza a közfinanszírozás alapjául elfogadott elvárt árakat.
 
 (4) Az OEP a honlapján is értesíti a felülvizsgált gyógyszerek forgalomba hozatali engedélyének jogosultjait arról, hogy hivatalból eljárást indított a Gyftv. 23. § (7) bekezdés a) pontja alapján az adott készítmények támogatásának felülvizsgálata érdekében.
 
@@ -12,7 +12,7 @@ a) a felülvizsgálatra kerülő terápiás területek megjelölését,
 
 b) az a) pont szerinti csoportokba tartozó gyógyszereket, azok TTT kódját, az eljárás kezdőnapján érvényes közfinanszírozás alapjául elfogadott árát, napi terápiás költségét,
 
-c)[^39] azon költséghatékonyságra vonatkozó feltételeket, szempontokat, melyek alapján az OEP – a GYEMSZI és az egészségügyi szakmai kollégium bevonásával – meghatározta a felülvizsgálati eljárás során a b) pont szerinti gyógyszerekre vonatkozó közfinanszírozás alapjául elfogadott elvárt árakat, és az azokhoz kapcsolódó finanszírozási feltételeket,
+c)[^40] azon költséghatékonyságra vonatkozó feltételeket, szempontokat, melyek alapján az OEP – a GYEMSZI és az Országos Gyógyszerterápiás Tanács (a továbbiakban: OGYTT) bevonásával – meghatározta a felülvizsgálati eljárás során a b) pont szerinti gyógyszerekre vonatkozó közfinanszírozás alapjául elfogadott elvárt árakat, és az azokhoz kapcsolódó finanszírozási feltételeket,
 
 d) a gyógyszerekre vonatkozó közfinanszírozás alapjául elfogadott elvárt árakat,
 
@@ -36,6 +36,6 @@ c) megjelöli a tervezett finanszírozási kezdőnapot.
 
 (11) Az 5/B. § b) pontja szerinti esetben a (2)–(10) bekezdés szerinti eljárást kell alkalmazni.
 
-[^37]: Az 5/C. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be, szövege a 30/2010. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.
-[^38]: Az 5/C. § (3) bekezdése a 47/2011. (VII. 27.) NEFMI rendelet 13. § d) pontja szerint módosított szöveg.
-[^39]: Az 5/C. § (5) bekezdés c) pontja a 47/2011. (VII. 27.) NEFMI rendelet 13. § d) pontja szerint módosított szöveg.
+[^38]: Az 5/C. §-t a 36/2010. (V. 14.) EüM rendelet 1. §-a iktatta be, szövege a 30/2010. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^39]: Az 5/C. § (3) bekezdése a 47/2011. (VII. 27.) NEFMI rendelet 13. § d) pontja szerint módosított szöveg.
+[^40]: Az 5/C. § (5) bekezdés c) pontja a 2/2012. (I. 3.) NEFMI rendelet 2. §-ával megállapított szöveg.
