@@ -1,13 +1,21 @@
 ## Szemlék
 
-10. §[^19] (1) A személyhajó biztonsági bizonyítvány kiadására irányuló eljárásában a hajózási hatóság szemlét kell folytat le, ha új személyhajó, vagy meglévő személyhajó esetében akkor, mielőtt a hajót a fogadó állam hazai forgalmában használatba veszik.
+10. §[^24] (1) Az e rendelet 1. számú mellékletében foglalt biztonsági követelmények teljesítését a hajózási hatóság
 
-(2) Új személyhajó, illetve meglévő személyhajó esetében évente egyszer a hajózási hatóság hatósági ellenőrzés keretében szemlét (a továbbiakban: szemle) folytat le.
+a) új hajó esetén az üzembe helyezés előtt,
 
-(3) A hajózási hatóság indokolt esetben szemlét folytat le.
+b) meglévő hajó esetén
 
-(4) Gyorsjáratú személyszállító vízi járművet, amelynek a 8. § (6) bekezdése szerint meg kell felelnie a HSC Szabályzat követelményeinek, a Szabályzatban előírt szemlének kell alávetni. A szemlét a hajózási hatóság folytatja le.
+ba) mielőtt a hajó belép a hazai forgalomba,
 
-(5) A személyhajó biztonsági bizonyítványának kiállításakor a SOLAS 1974/1978 egyezmény mellékletének A részében foglaltak szerint kell eljárni.
+bb) 12 havonta, vagy
 
-[^19]: A 10. § a 48/2009. (IX. 30.) KHEM rendelet 22. § (1) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+bc) minden olyan baleset, sérülés, átalakítás és felújítás után, amely érinti a vízijármű biztonsági állapotát
+
+## a szemle során ellenőrzi.
+
+(2) A hajózási hatóságnak a szemle során a SOLAS 1974/1978 egyezmény mellékletének A részében foglaltak szerint kell eljárni.
+
+(3) A gyorsjáratú személyszállító vízijárművek szemléit a HSC Szabályzat szerint kell lefolytatni.
+
+[^24]: A 10. § a 69/2011. (XII. 5.) NFM rendelet 5. §-ával megállapított szöveg.

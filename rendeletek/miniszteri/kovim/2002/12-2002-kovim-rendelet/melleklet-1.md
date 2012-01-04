@@ -1,8 +1,4 @@
-## 14. §[^23] Ez a rendelet a következő uniós jogi aktusnak való megfelelést szolgálja:
-
-## az Európai Parlament és a Tanács 2009/45/EK irányelve (2009. május 6.) a személyhajókra vonatkozó biztonsági szabályokról és követelményekről.
-
-1. számú melléklet a 12/2002. (II. 7.) KöViM rendelethez[^24]
+1. számú melléklet a 12/2002. (II. 7.) KöViM rendelethez[^29]
 
 A TENGERI SZEMÉLYHAJÓKRA VONATKOZÓ BIZTONSÁGI KÖVETELMÉNYEK
 
@@ -10,31 +6,31 @@ I. FEJEZET
 
 ÁLTALÁNOS RENDELKEZÉSEK
 
-A nem nemzetközi útvonalon közlekedő A., B., C. és D. kategóriájú tengeri személyhajókra e melléklet rendelkezéseit kell alkalmazni.
+1. A 24 méternél rövidebb B., C. és D. kategóriájú új hajóknak meg kell felelniük e melléklet II-1. fejezete B részének 2., 8. és 10. pontjában meghatározott követelményeinek.
 
-A 24 méternél rövidebb B., C. és D. kategóriájú új hajóknak meg kell felelniük e melléklet II-1. fejezete B részének 2., 8. és 10. pontjában meghatározott követelményeinek.
+2. Ahol e melléklet a Nemzetközi Tengerészeti Szervezet valamely határozatának alkalmazását rendeli el, a nevezett határozat elfogadását követő két éven belül épült hajóknak a határozatban meghatározott határidőig kell megfelelniük az abban foglalt követelményeknek.
 
-Ahol e melléklet a Nemzetközi Tengerészeti Szervezet valamely határozatának alkalmazását rendeli el, a nevezett határozat elfogadását követő két éven belül épült hajóknak a határozatban meghatározott határidőig kell megfelelniük az abban foglalt követelményeknek.
+3. Jelentős mértékű a javítás, ha az átalakítás és a módosítás alatt
 
-„Jelentős mértékű” javítás, átalakítás és módosítás alatt például a következő értendő:
+a) a hajó méreteinek jelentős megváltoztatása (pl. hosszabbítás új középrész betoldásával),
 
-– a hajó méreteinek jelentős megváltoztatása,
+b) a hajó befogadóképességének jelentős megváltoztatása (pl.a járműfedélzet átalakítása utastérré), vagy
 
-mint például hosszabbítás új középrész betoldásával,
+c) a hajó élettartamának jelentős meghosszabbítása (pl. az utastér felújítása egy teljes fedélzeten)
 
-– a hajó befogadóképességének jelentős megváltoztatása,
+történik.
 
-mint például a járműfedélzet átalakítása utastérré,
+4. A mellékletben szereplő egyes címek melletti (R…) jelzés a SOLAS 1974/1978 azon szabályaira utal, amelyeken e mellékletben foglalt rendelkezések alapulnak.
 
-– a hajó élettartamának jelentős meghosszabbítása,
+5. Függetlenül az e rendelet 5. §-ának rendelkezéseitől, azoknak a D. osztályú hajóknak, amelyek nem közlekednek az SOLAS 1974/1978 IV/2.12. szabályában meghatározott A 1 tengerszakaszon kívül, nem kell megfelelniük az SOLAS 1974/1978 IV. fejezetében foglalt felszerelési kötelezettségeknek, viszont meg kell felelniük legalább az e melléklet IV. fejezetében foglalt rendelkezéseknek.
 
-mint például az utastér felújítása egy teljes fedélzeten.
+6. A SOLAS 1974/1978 V/22. szabálya szerint a parancsnoki hídra vonatkozó láthatósági előírások – a kivitelezhetőség és ésszerűség határain belül – a SOLAS 1974/1978 V/2. szabályának értelmében 55 méternél rövidebb hajókra is vonatkoznak.
 
-A mellékletben szereplő egyes címek melletti (R…) jelzés a SOLAS 1974/1978 azon szabályaira utal, amelyeken e mellékletben foglalt rendelkezések alapulnak.
+7. Ahol e melléklet a meglévő hajók tekintetében egy IMO-határozat alkalmazását írja elő, az IMO-határozat elfogadását követő két éven belül épült hajóknak nem kell megfelelniük e határozatoknak, amennyiben megfelelnek a korábbi még érvényes határozat(ok)nak.
 
 II-1. FEJEZET
 
-A HAJÓ SZERKEZETI FELÉPÍTÉSE — TÉRBEOSZTÁS ÉS STABILITÁS, GÉPI ÉS VILLAMOS BERENDEZÉSEK
+A HAJÓ SZERKEZETI FELÉPÍTÉSE - TÉRBEOSZTÁS ÉS STABILITÁS, GÉPI ÉS VILLAMOS BERENDEZÉSEK
 
 A. RÉSZ
 
@@ -44,7 +40,7 @@ A. RÉSZ
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.1 .1 A térfelosztási merülésvonal: a hajó térfelosztásának meghatározásához használt vízvonal.
+.1.1 A térfelosztási merülésvonal: a hajó térfelosztásának meghatározásához használt vízvonal.
 
 .2 A legmagasabb térfelosztási merülésvonal: az a vízvonal, amely az alkalmazott térfelosztási követelmények által megengedett legnagyobb merülésnek felel meg.
 
@@ -68,7 +64,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .11 Utastér: az utasok szálláshelyéül vagy tartózkodási helyéül szolgáló tér, kivéve a poggyász, a felszerelések, a készletek elhelyezésére és a postai műveletekre szolgáló helyiségeket.
 
-.12 Vízmentes: az a szerkezet, amely mind az ép, mind a sérült állapotban várható vízszint alatt egyaránt képes megakadályozni a víz bármely irányú átjutását a szerkezeten.
+.12. Vízmentes: az a szerkezet, amely mind az ép, mind a sérült állapotban várható vízszint alatt egyaránt képes megakadályozni a víz bármely irányú átjutását a szerkezeten.
 
 .13 Időjárásálló: az szerkezet, amelyen keresztül a víz semmilyen tengeri viszonyok között sem hatol be a hajóba.
 
@@ -78,7 +74,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.1 .1 Kormányvezérlő rendszer: továbbítja a parancsnoki híd utasításait a kormányberendezés hajtóegységeihez. A kormányberendezés vezérlő rendszerei adó- és vevőberendezéseket, hidraulikus szivattyúkat és a hozzájuk kapcsolódó motorokat, motorvezérlőket, csőhálózatot és kábeleket foglalnak magukba.
+.1.1 Kormányvezérlő rendszer: továbbítja a parancsnoki híd utasításait a kormányberendezés hajtóegységeihez. A kormányberendezés vezérlő rendszerei adó- és vevőberendezéseket, hidraulikus szivattyúkat és a hozzájuk kapcsolódó motorokat, motorvezérlőket, csőhálózatot és kábeleket foglalnak magukba.
 
 .2 Fő kormányberendezés: gépek, kormányvezérlők, a kormányberendezés hajtóegysége, amennyiben van ilyen, és a járulékos berendezések, valamint a forgatónyomaték kormányszárra történő átvitelének eszközei (például kormányrúd vagy kormánynegyed), amelyekkel szokványos üzemi körülmények mellett a hajó irányítása céljából a kormány kihajtható.
 
@@ -90,7 +86,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .3 egyéb hidraulikus kormányberendezés esetén hajtómotor és a csatlakozó szivattyúval.
 
-.3 A szükség-kormányberendezés: nem a fő kormányberendezés része, s a hajó irányításához abban az esetben szükséges, ha a fő kormányberendezés – a kormányrúd, a kormánynegyed vagy más azonos célt szolgáló alkatrész kivételével –, nem működik.
+.3 A szükség-kormányberendezés: nem a fő kormányberendezés része, s a hajó irányításához abban az esetben szükséges, ha a fő kormányberendezés - a kormányrúd, a kormánynegyed vagy más azonos célt szolgáló alkatrész kivételével -, nem működik.
 
 .4 Szokványos üzemi és lakhatási feltételek: állapot, amelyben a hajó egésze, a gépüzem, a szolgálatok, a fő- és segédpropulzió, a kormányképesség, a biztonságos hajóvezetés, a tűz- és lékesedési biztonság, a belső és külső hírközlés és jelzések, a menekülés eszközei, és a vészhelyzeti csónakcsörlők, valamint a lakályosságot biztosító berendezések üzemképes állapotban vannak, és rendesen működnek.
 
@@ -126,21 +122,67 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .16 Vezérlőállás: a hajó rádióberendezése, fő navigációs berendezései, vészüzemi áramforrása kerül elhelyezésre, továbbá ahol a tűzérzékelő és tűzoltó berendezések központja van.
 
+A-1. RÉSZ
+
+HAJÓSZERKEZETEK
+
+1. Azbeszttartalmú anyagok újonnani beépítése (R 3-5)
+
+MINDEN HAJÓKATEGÓRIA
+
+1. E rendelet minden olyan anyagra vonatkozik, amely bármely, az ezen melléklet szabályainak hatálya alá tartozó szerkezetben, gépezetben, elektromos berendezésben és készülékben felhasználásra kerül.
+
+2. Minden hajó esetében tilos olyan anyagok újonnani beépítése, amelyek azbesztet tartalmaznak.
+
+2. Tervrajzok tárolása a fedélzeten és a szárazföldön (R 3-7)
+
+2012. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK
+
+1. A 2012. január 1-jén vagy azt követően épített hajók fedélzetén mind a hajó építésekor fennálló állapotát tükröző tervrajzokból, mind a későbbi szerkezeti változtatásokat ábrázoló tervrajzokból tartani kell egy-egy példányt.
+
+2. Az üzembentartónak a szárazföldön is tartania kell a tervrajzokból egy-egy további példányt a SOLAS 1974/1978 IX/1.2. szabályában meghatározott módon.
+
+3. Figyelembe kell venni az IMO MSC1135. körlevél tartalmát is, a tervrajzok fedélzeten és szárazföldön való tárolását illetően.
+
+3. Vontatáshoz és kikötéshez használt berendezések (R 3-8)
+
+2012. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT 24 MÉTERES VAGY ANNÁL HOSSZABB B. C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
+
+1. A hajókat olyan teherbírású kialakítással, felszereltséggel és berendezésekkel kell ellátni, amelyek megfelelően biztosítják a hajó rendes üzemeltetéséhez tartozó vontatási és kikötési manőverek biztonságos végrehajtását.
+
+2. Az 1. bekezdésnek megfelelő kialakításnak, felszereltségnek és berendezéseknek meg kell felelniük egy elismert szervezet osztályozási szabványainak, az azzal egyenértékű megoldásnak vagy a jogszabályoknak.
+
+3. Figyelembe kell venni az IMO MSC 1175. körlevél tartalmát is, a vontatáshoz és kikötéshez használt hajófedélzeti berendezéseket illető iránymutatások vonatkozásában.
+
+4. Minden egyes, az ezen rendelet alapján beépített berendezésen vagy készüléken láthatóan fel kell tüntetni bármely, a biztonságos üzemeltetésére vonatkozó korlátozást, figyelembe véve a berendezésnek a hajó szerkezetéhez való rögzítettségének mértékét is.
+
 B. RÉSZ
 
 SÉRÜLÉS NÉLKÜLI STABILITÁS, TÉRFELOSZTÁS ÉS HAVARIASTABILITÁS
 
-1. Sérülés nélküli stabilitás A.749(18) határozat
+B-1. RÉSZ
 
-24 MÉTERES VAGY ANNÁL HOSSZABB A., B. C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+2009. január 1-jén vagy azt követően épített hajók – az MSC 216 (82) határozat alkalmazásának lehetősége
 
-A 24 méteres vagy annál hosszabb új hajónak meg kell felelnie a sérülés nélküli stabilitásra vonatkozó szabályzat vonatkozó rendelkezéseinek.
+Azon B., C. és D. osztályú hajóknak, amelyek hajógerincét 2009. január 1-jén vagy azt követően fektették le, vagy amelyek az említett időpontban hasonló építési szakaszban voltak, meg kell felelniük vagy a B-2. rész követelményeinek, vagy pedig a SOLAS 1974/1978 II-I. fejezete B. részének vonatkozó előírásainak, az MSC 216(82) rendelet 2. mellékletében meghatározott módon.
+
+B-2. RÉSZ
+
+2009. január 1-je előtt épített hajók
+
+1. Sérülés nélküli stabilitás, az MSC.75(69) határozat által módosított A.749(18) határozat
+
+24 MÉTERES VAGY ANNÁL HOSSZABB A., B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+
+A 24 méteres vagy annál hosszabb új hajónak meg kell felelnie a sérülés nélküli stabilitásra vonatkozó szabályzat vonatkozó rendelkezéseinek: (a Nemzetközi Tengerészeti Szervezet Közgyűlése 18. ülésszakán 1993. november 4-én az A.749 (18) határozatával elfogadott, a sérülés nélküli hajók stabilitásról szóló szabályzat személyhajókra vonatkozó rendelkezéseinek. Amennyiben valamely tagállam megítélése szerint a módosított A.749 (18) IMO határozatában előírt erős szél- és dőléskritérium nem alkalmazható, akkor egy kielégítő stabilitást biztosító helyettesítő megoldás is alkalmazható. Ezt egy olyan bizonyítékkal kell alátámasztani a Bizottság előtt, amely igazolja az egyenértékű biztonsági szintet.)
 
 24 MÉTERES VAGY ANNÁL HOSSZABB A. ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 A. és B. kategóriájú hajónak a tartályok szabad folyadékfelszínének hatását figyelembe vevő korrekcióval, különféle terhelési állapotban ki kell elégítenie a következő stabilitási kritériumokat:
 
-a) A stabilizáló kar görbéje ( görbe) alatti terület nem lehet kisebb mint:
+a) A stabilizáló kar görbéje (
+
+görbe) alatti terület nem lehet kisebb mint:
 
 i. 0.055 méter-radián 30° dőlésszögig;
 
@@ -148,9 +190,11 @@ ii. 0,09 méter-radián 40° dőlésszögig vagy az elárasztási szögig, ami a
 
 iii. 0,03 méter-radián 30° és 40° dőlésszög között, illetve 30° és az elárasztási dőlésszög között, amennyiben ez utóbbi 40°-nál kisebb;
 
-b) A stabilizáló kar legalább 0,20 méter legyen 30° vagy annál nagyobb dőlésszög esetén.
+b) A
 
-c) A legnagyobb stabilizáló kar olyan dőlésszögnél legyen, amely lehetőleg meghaladja a 30o-ot, de 25o-nál nem kisebb.
+stabilizáló kar legalább 0,20 méter legyen 30° vagy annál nagyobb dőlésszög esetén.
+
+c) A legnagyobb stabilizáló kar olyan dőlésszögnél legyen, amely lehetőleg meghaladja a 30°-ot, de 25°-nál nem kisebb.
 
 d) A keresztirányú kezdeti metacentrikus magasság legalább 0,15 méter legyen.
 
@@ -163,6 +207,8 @@ Meglévő A. és B. kategóriájú 24 méteres vagy annál hosszabb hajónak meg
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 A hajót a válaszfalfedélzetig terjedő vízmentes válaszfalakkal vízmentes terekre kell osztani. A vízmentes terek legnagyobb hossza az alábbiakban megadott követelmények alapján kerül kiszámításra.
+
+E követelmények helyett a Személyhajók térfelosztási és stabilitási szabályzatát, mint az IMO által az A.265 (VIII) határozattal az Életbiztonság a tengeren tárgyú 1960. évi Nemzetközi Egyezmény II. fejezetének B. részével egyenértékűt, lehet használni, amennyiben azt teljes egészében alkalmazzák.
 
 A hajó térfelosztásának hatékonyságára hatással lévő belső szerkezeti résznek vízmentes kivitelűnek kell lennie.
 
@@ -194,23 +240,23 @@ Az elárasztható hossz meghatározásához a peremvonal alatti terek feltétele
 
 A térfelosztási tényező:
 
-B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ
+B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ RO-RO SZEMÉLYHAJÓK ESETÉBEN:
 
-RO-RO SZEMÉLYHAJÓK ESETÉBEN:
+1,0 - amennyiben a hajón szállítható személyek engedélyezett száma kevesebb, mint 400,
 
-1,0 – amennyiben a hajón szállítható személyek engedélyezett száma kevesebb, mint 400, és
+1,0, amennyiben a hajón szállítható személyek engedélyezett száma 400 vagy több, és a hajó rövidebb mint 55 méter, és
 
-0,5 – amennyiben a hajón szállítható személyek engedélyezett száma több, mint 400.
+0,5 - amennyiben a hajón szállítható személyek engedélyezett száma több, mint 400.
 
-Meglévő B. kategóriájú Ro-Ro személyhajónak legkésőbb a II-1 fejezet B része 8-2. pontja .2 alpontjában meghatározott időpontig meg kell felelnie e követelménynek.
+Meglévő B. kategóriájú Ro-Ro személyhajónak legkésőbb a II-1. fejezet B része 82. pontja .2 alpontjában meghatározott időpontig meg kell felelnie e követelménynek.
 
-B. KATEGÓRIÁJÚ MEGLÉVŐ NEM RO-RO SZEMÉLYHAJÓK ESETÉBEN: 1,0
+A térfelosztási tényező B. KATEGÓRIÁJÚ MEGLÉVŐ NEM RO-RO SZEMÉLYHAJÓK ESETÉBEN: 1,0
 
 7. A hajó térfelosztására vonatkozó különleges követelmények (R 7)
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.1 Ha a hajó egy vagy több részében a vízmentes válaszfalak a válaszfalfedélzetnél magasabban lévő fedélzethez csatlakoznak, és a válaszfalak magasabb kiterjedéséből adódó többletet az elárasztható hossz kiszámításánál figyelembe kívánják venni, külön peremvonalak vehetők figyelembe a hajó eltérő részéire, azzal a feltétellel, hogy:
+.1 Ha a hajó egy vagy több részében a vízmentes válaszfalak a válaszfalfedélzetnél magasabban lévő fedélzethez csatlakoznak, és a válaszfalak magasabb kiterjedéséből adódó többletet az elárasztható hossz kiszámításánál figyelembe kívánják venni, külön peremvonalak vehetők figyelembe a hajó eltérő részeire, azzal a feltétellel, hogy:
 
 .1 a hajó oldala a hajó teljes hossza mentén a felső peremvonalnak megfelelő fedélzetig terjed és a héjlemezelésen e fedélzet alatt lévő minden nyílást úgy tekintenek, mint ami a 15. pont alkalmazásában a peremvonal alatt van; és
 
@@ -222,7 +268,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .4 Amennyiben a fő keresztirányú válaszfal homorítva vagy lépcsőzve van, a térfelosztás meghatározásához arányosan elhelyezett, sík felületű válaszfalat kell alapul venni.
 
-.5 Amennyiben vízmentes válaszfalakkal határolt tér helyi térfelosztást foglal magában, és kielégítően bizonyítható, hogy ez a tér egy olyan feltételezett oldalsérülés esetén, amelynek hosszúsága nem nagyobb, mint a hajó hosszúságának 3%-a és 3 méter, illetve 11 méter vagy a hajó hosszúságának 10%-a, attól függően, hogy melyik a kevesebb, nem árasztódik el, akkor arányos engedmény adható e terek tekintetében az egyébként megkövetelt megengedett hosszúsághoz viszonyítottan. Ilyen esetben a sértetlen oldalon feltételezett tényleges felhajtóerő nem lehet nagyobb, mint a sérült oldalon feltételezett felhajtóerő. Az itt meghatározott eljárás csak akkor alkalmazható, ha nem hiusítja meg a 8. pont betartását.
+.5 Amennyiben vízmentes válaszfalakkal határolt tér helyi térfelosztást foglal magában, és kielégítően bizonyítható, hogy ez a tér egy olyan feltételezett oldalsérülés esetén, amelynek hosszúsága nem nagyobb, mint a hajó hosszúságának 3%-a és 3 méter, illetve 11 méter vagy a hajó hosszúságának 10%-a, attól függően, hogy melyik a kevesebb, nem árasztódik el, akkor arányos engedmény adható e terek tekintetében az egyébként megkövetelt megengedett hosszúsághoz viszonyítottan. Ilyen esetben a sértetlen oldalon feltételezett tényleges felhajtóerő nem lehet nagyobb, mint a sérült oldalon feltételezett felhajtóerő. Az itt meghatározott eljárás csak akkor alkalmazható, ha nem hiúsítja meg a 8. pont betartását.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
@@ -230,7 +276,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .1 a lépcsőzött kialakítású válaszfallal elválasztott két tér együttes hossza nem haladja meg az elárasztható hossz 90%-át, illetve a megengedett hossz kétszeresét, valamint a két tér együttes hossza nem haladhatja meg a megengedett hosszúságot olyan hajók esetében, amelyek térfelosztási tényezője 1;
 
-.2 lépcsőzött válaszfal esetén további térfelosztást kell alkalmazni, hogy ugyanazt a biztonságot érvényesüljön, mint a síkfelületű válaszfal esetében;
+.2 lépcsőzött válaszfal esetén további térfelosztást kell alkalmazni, hogy ugyanaz a biztonság érvényesüljön, mint a síkfelületű válaszfal esetében;
 
 .3 az a tér, amely fölött a lépcsőzet húzódik, nem haladja meg a lépcső alatt 76 mm-rel húzódó peremvonal szerinti megengedett hosszúságot.
 
@@ -254,11 +300,9 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .2.2 Amennyiben az elárasztás sebességének jelentős korlátozása érdekében egymáshoz megfelelő közelségben lévő fedélzetek, belső válaszfalak vagy hosszirányú válaszfalak beépítésének szüksége merül fel, akkor a számítások során kellő figyelmet kell fordítani e korlátozásokra.
 
-ÚJ B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK, MEGLÉVŐ B. KATEGÓRIÁJÚ RO-RO SZEMÉLYHAJÓK ÉS 1990. ÁPRILIS 29-ÉT KÖVETŐEN ÉPÍTETT
+ÚJ B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK, MEGLÉVŐ B. KATEGÓRIÁJÚ RO-RO SZEMÉLYHAJÓK ÉS 1990. ÁPRILIS 29-ÉT KÖVETŐEN ÉPÍTETT B. KATEGÓRIÁJÚ SZEMÉLYHAJÓK A RO-RO SZEMÉLYHAJÓK KIVÉTELÉVEL:
 
-B. KATEGÓRIÁJÚ SZEMÉLYHAJÓK A RO-RO SZEMÉLYHAJÓK KIVÉTELÉVEL:
-
-.2.3 Az elárasztás végső szakaszában és — amennyiben előírt — az egyensúlyi helyzet beállta után a szükséges stabilitást a következőképpen határozzák meg:
+.2.3 Az elárasztás végső szakaszában és - amennyiben előírt - az egyensúlyi helyzet beállta után a szükséges stabilitást a következőképpen határozzák meg:
 
 .2.3.1 A pozitív maradó stabilitási kar görbéjének legalább 15° tartománya van az egyensúlyi helyzet szögén túl. Ezt a tartományt legalább 10°-kal csökkenteni lehet abban az esetben, ha a stabilitási kar görbéje alatti terület egyenlő a .2.3.3. bekezdésben meghatározott terület szorozva a 15/tartomány hányadossal, ahol a tartományt fokban fejezik ki.
 
@@ -304,7 +348,7 @@ mindazonáltal a stabilitási kar nem lehet kisebb 0,10 méternél.
 
 .3 A szélnyomás okozta nyomaték:
 
-.3.1 B kategóriájú hajói esetében: 120 N/m2 szélnyomást kell feltételezni.;
+.3.1 B kategóriájú hajói esetében: 120 N/m2 szélnyomást kell feltételezni;
 
 C. és D. kategóriájú hajói esetében: 80 N/m2 szélnyomást kell feltételezni;
 
@@ -344,9 +388,9 @@ Nagyobb elárasztási tényező vehető alapul azokkal a terekkel kapcsolatban, 
 
 .3 függőleges kiterjedés: az alapvonaltól felfelé korlátozás nélkül;
 
-.4 ha a .4.1, .4.2. és .4.3. alpontban jelzettnél kisebb kiterjedésű sérülés a dőléssel vagy a metacentrikus magasság csökkenésével kapcsolatban súlyosabb következményekkel járna, akkor azt a sérülést kell figyelembe venni a számítások során.
+.4 ha a .4.1, .4.2 és .4.3 alpontban jelzettnél kisebb kiterjedésű sérülés a dőléssel vagy a metacentrikus magasság csökkenésével kapcsolatban súlyosabb következményekkel járna, akkor azt a sérülést kell figyelembe venni a számítások során.
 
-.5 Az aszimmetrikus elárasztás lehetőségét megfelelő intézkedésekkel a minimumra kell csökkenteni. Ahol nagy dőlésszöget kell korrigálni, az alkalmazott módszernek, amennyiben lehetséges, önműködőnek kell lennie, abban az esetben viszont, ha keresztáramoltatással működő rendszert használnak, annak a válaszfalfedélzetről kell működtethetőnek lennie. A, B, C. és D. kategóriájú új hajók esetében az elárasztást követően, de a felegyenesedést megelőzően, a legnagyobb dőlésszög nem haladhatja meg a 15°-ot. Ahol keresztáramoltatással működő rendszert írnak elő, a felegyenesedési idő nem haladhatja meg a 15 percet. A hajó parancsnoka számára az ilyen berendezések kezelésére vonatkozó információkat át kell adni.
+.5 Az aszimmetrikus elárasztás lehetőségét megfelelő intézkedésekkel a minimumra kell csökkenteni. Ahol nagy dőlésszöget kell korrigálni, az alkalmazott módszernek, amennyiben lehetséges, önműködőnek kell lennie, abban az esetben viszont, ha keresztáramoltatással működő rendszert használnak, annak a válaszfalfedélzetről kell működtethetőnek lennie. A., B., C. és D. kategóriájú új hajók esetében az elárasztást követően, de a felegyenesedést megelőzően, a legnagyobb dőlésszög nem haladhatja meg a 15°-ot. Ahol keresztáramoltatással működő rendszert írnak elő, a felegyenesedési idő nem haladhatja meg a 15 percet. A hajó parancsnoka számára az ilyen berendezések kezelésére vonatkozó információkat át kell adni.
 
 .6 A hajó állapotának a sérülést követően, valamint aszimmetrikus elárasztás esetében a kiegyenlítést szolgáló intézkedések meghozatala után a következőnek kell lennie:
 
@@ -362,7 +406,11 @@ Két szomszédos tér egyidejű elárasztása esetén 12°-os dőlés engedhető
 
 .7 A hajó parancsnokának át kell adni azokat az adatokat, amelyek szükségesek a hajó sérülés nélküli stabilitásának fenntartásához mindenféle üzemi körülmény esetén annak érdekében, hogy a hajó a legkedvezőtlenebb sérülésnek is ellen tudjon állni. Abban az esetben, ha keresztáramlási rendszerrel felszerelt hajóról van szó, a hajó parancsnokát tájékoztatni kell azokról a stabilitási feltételekről, amelyeken a dőlési számítások alapulnak, és figyelmeztetni kell arra, hogy a hajó által kevésbé kedvező helyzetben elszenvedett sérülésekor túlzott mértékű dőlés következhet be.
 
-.8 A .7. alpontban említett adatok, amelyek alapján a parancsnok biztosítani tudja a sérülés nélküli kielégítő stabilitás fenntartását, olyan információkat tartalmazzanak, amelyek megadják a hajó gerincvonal feletti súlypontjának () legnagyobb megengedett magasságát, illetve a legkisebb megengedett metacentrikus magasságot () olyan merülés vagy vízkiszorítás mellett, amely bármely üzemi körülmény esetén kielégítő. Az információnak az üzemeltetési korlátozások figyelembevételével tartalmaznia kell a különböző úszáshelyzeteket.
+.8 A .7. alpontban említett adatok, amelyek alapján a parancsnok biztosítani tudja a sérülés nélküli kielégítő stabilitás fenntartását, olyan információkat tartalmazzanak, amelyek megadják a hajó gerincvonal feletti súlypontjának
+
+legnagyobb megengedett magasságát, illetve a legkisebb megengedett metacentrikus magasságot
+
+olyan merülés vagy vízkiszorítás mellett, amely bármely üzemi körülmény esetén kielégítő. Az információnak az üzemeltetési korlátozások figyelembevételével tartalmaznia kell a különböző úszáshelyzeteket.
 
 .9 Minden hajónak jól látható merülési mércékkel kell rendelkeznie a hajó orrán és farán. Amennyiben a merülési mércék nehezen leolvasható helyen vannak elhelyezve, illetve bizonyos járatok üzemeltetési korlátjai miatt a merülési mércéket nehéz leolvasni, akkor a hajót megbízható merülés-jelző rendszerrel kell ellátni, amellyel meghatározható az orr és a far merülése.
 
@@ -376,7 +424,7 @@ Két szomszédos tér egyidejű elárasztása esetén 12°-os dőlés engedhető
 
 B. KATEGÓRIÁJÚ MEGLÉVŐ RO-RO SZEMÉLYHAJÓK:
 
-.1 A B. kategóriájú meglévő Ro-Ro személyhajóknak legkésőbb az alábbiakban megadott megfelelőségi határidőt követő első időszakos szemléig során meg kell felelniük a 8. pontnak annak az A/Amax értéknek az alapján, amelyet a meglévő Ro-Ro személyhajók fennmaradási képességének az A.265 (VIII) határozaton alapuló egyszerűsített módszer felhasználásával történő értékelésére szolgáló számítási eljárás mellékletében határoztak meg, s amelyet a Tengerészeti Biztonsági Bizottság dolgozott ki az 1991. júniusi 59. ülésszakán (MSC/ 574. körlevél):
+.1 A B. kategóriájú meglévő Ro-Ro személyhajóknak legkésőbb az alábbiakban megadott megfelelőségi határidőt követő első időszakos szemléi során meg kell felelniük a 8. pontnak annak az A/Amax értéknek az alapján, amelyet a meglévő Ro-Ro személyhajók fennmaradási képességének az MSC 574. körlevél „az A.265 (VIII) határozaton alapuló egyszerűsített módszer felhasználásával történő értékelésére szolgáló számítási eljárás” mellékletében határoztak meg.
 
 | Az A/Amax értéke | Megfelelési határidő |
 
@@ -394,9 +442,9 @@ B. KATEGÓRIÁJÚ MEGLÉVŐ RO-RO SZEMÉLYHAJÓK:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ RO-RO SZEMÉLYHAJÓK:
 
-A II-1 fejezet B részének 8. és 1. pontjában foglaltakat nem érintve a következők érvényesek:
+A II-1. fejezet B részének 8. és 1. pontjában foglaltakat nem érintve a következők érvényesek:
 
-.1 a 400 vagy több személy szállítására engedélyezett új Ro-Ro személyhajóknak meg kell felelnie a II-1. fejezet B része 8. pontjának .2.3 alpontjában foglalt rendelkezéseknek, feltételezve a hajó L hosszúságán belül bárhol bekövetkezett sérülést, és
+.1 a 400 vagy több személy szállítására engedélyezett új Ro-Ro személyhajóknak meg kell felelnie a II-1. fejezet B része 8. pontjának .2.3 alpontjában foglalt rendelkezéseknek, feltételezve a hajó α hosszúságán belül bárhol bekövetkezett sérülést, és
 
 .2 a 400 vagy több személy szállítására engedélyezett meglévő Ro-Ro személyhajóknak meg kell felelnie az .1 bekezdés követelményeinek legkésőbb a .2.1, .2.2 vagy .2.3 alpontban leírt megfelelési határidőt követő első időszakos szemle időpontjáig, attól függően, melyik következik be később:
 
@@ -404,25 +452,25 @@ A II-1 fejezet B részének 8. és 1. pontjában foglaltakat nem érintve a köv
 
 |  | Megfelelési határidő |
 
-|  | kevesebb mint 85% | 1998. október 1. |
+| kevesebb mint 85% | 1998. október 1. |
 
-|  | legalább 85%, de kevesebb mint 90% | 2000. október 1. |
+| legalább 85%, de kevesebb mint 90% | 2000. október 1. |
 
-|  | legalább 90%, de kevesebb mint 95% | 2002. október 1. |
+| legalább 90%, de kevesebb mint 95% | 2002. október 1. |
 
-|  | legalább 95%, de kevesebb mint 97,5% | 2004. október 1. |
+| legalább 95%, de kevesebb mint 97,5% | 2004. október 1. |
 
-|  | 97,5% vagy több | 2010. október 1. |
+| 97,5% vagy több | 2010. október 1. |
 
 .2.2 A szállítható személyek engedélyezett legnagyobb száma:
 
-|  | 1500 vagy több | 2002. október 1. |
+| 1500 vagy több | 2002. október 1. |
 
-|  | 1000 vagy több, de kevesebb mint 1500 | 2006. október 1. |
+| 1000 vagy több, de kevesebb mint 1500 | 2006. október 1. |
 
-|  | 600 vagy több, de kevesebb mint 1000 | 2008. október 1. |
+| 600 vagy több, de kevesebb mint 1000 | 2008. október 1. |
 
-|  | 400 vagy több, de kevesebb mint 600 | 2010. október 1. |
+| 400 vagy több, de kevesebb mint 600 | 2010. október 1. |
 
 .2.3 Hajó kora 20 év vagy annál több:
 
@@ -430,11 +478,9 @@ ahol a hajó korát a gerincfektetésétől vagy attól az időponttól számít
 
 8-3 A 400 vagy több személyt szállító személyhajókra, a Ro-Ro személyhajók kivételével, vonatkozó különleges követelmények
 
-2003. JANUÁR 1-JÉT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ,
+2003. JANUÁR 1-JÉT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ, A RO-RO SZEMÉLYHAJÓKTÓL ELTÉRŐ HAJÓK:
 
-A RO-RO SZEMÉLYHAJÓKTÓL ELTÉRŐ HAJÓK:
-
-A II-1 fejezet B részének 8. pontban foglaltaknak eleget téve, a több mint 400 személy szállítására engedélyezett, nem Ro-Ro személyhajóknak meg kell felel-niük a II-1. fejezet B része 8. pontja 2.3 és 2.6alpontjának, a hajó L hosszúságán belül bárhol bekövetkezett sérülést feltételezve.
+A II-1. fejezet B részének 8. pontban foglaltaknak eleget téve, a több mint 400 személy szállítására engedélyezett, nem Ro-Ro személyhajóknak meg kell felelniük a II-1. fejezet B része 8. pontja 2.3 és 2.6 alpontjának, a hajó α hosszúságán belül bárhol bekövetkezett sérülést feltételezve.
 
 9. Orr- és fartéri és géptéri vízmentes válaszfalak (R 10)
 
@@ -462,33 +508,29 @@ A B. kategóriájú meglévő hajókra a következők érvényesek:
 
 .5 Azok a rámpák, amelyek nem felelnek meg a fent említett követelményeknek, nem minősülnek a kollíziós válaszfal túlnyúló részének.
 
-.6 A B. kategóriájú meglévő hajókon a .3 és .4 alpont követelményeit legkésőbb e rendelet 10. §-ának (2) bekezdésében foglalt időpontot követő első időszakos szemlétől kell alkalmazni.
+.6 A válaszfalfedélzetig vízmentes fartéri válaszfalat és a gépteret a rakterektől és az utasterektől elöl és hátul elválasztó válaszfalakat kell építeni. A fartér válaszfala azonban a válaszfalfedélzet alatt is végződhet, amennyiben ez nem csökkenti a hajó térfelosztásból eredő biztonságát.
 
-.7 A válaszfalfedélzetig vízmentes fartéri válaszfalat és a gépteret a rakterektől és az utasterektől elöl és hátul elválasztó válaszfalakat kell építeni. A fartér válaszfala azonban a válaszfalfedélzet alatt is végződhet, amennyiben ez nem csökkenti a hajó térfelosztásból eredő biztonságát.
-
-.8 A tönkcsöveket minden esetben vízmentes térben kell elhelyezni. A tönkcső tömszelencéje vízmentes tengelyalagútban, vagy a tönkcső terétől elkülönített olyan térfogatú vízmentes térben helyezkedjen el, amelynek a tömszelence sérülése következtében történő elárasztódása esetén, a peremvonal nem kerülhet víz alá.
+.7 A tönkcsöveket minden esetben vízmentes térben kell elhelyezni. A tönkcső tömszelencéje vízmentes tengelyalagútban, vagy a tönkcső terétől elkülönített olyan térfogatú vízmentes térben helyezkedjen el, amelynek a tömszelence sérülése következtében történő elárasztódása esetén, a peremvonal nem kerülhet víz alá.
 
 10. Kettősfenék (R 12)
 
-LEGALÁBB 24 MÉTER HOSSZÚ, B., C. ÉS D. KATEGÓRIÁJÚ ÚJ,
+B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK
 
-B. KATEGÓRIÁJÚ MEGLÉVŐ ÉS 2003. JANUÁR 1-JE UTÁN ÉPÍTETT ÚJ HAJÓK:
+.1 Az 50 méternél kisebb hosszúságú hajókat kettősfenékkel kell ellátni, amely az orrtér válaszfalától a fartéri válaszfalig terjed, amennyiben az kivitelezhető és összeegyeztethető a hajó szerkezeti felépítésével és rendeltetésszerű használatával.
 
-.1 Legalább 24 méter hosszú, B., C. és D. kategóriájú új, B. kategóriájú meglévő és 2003. január 1-je után épített új hajókat kettősfenékkel kell ellátni, amely az orrtér válaszfalától a fartéri válaszfalig terjed, amennyiben az kivitelezhető és összeegyeztethető a hajó szerkezeti felépítésével és rendeltetésszerű használatával.
+.2 A legalább 50 méternél hosszabb, de 61 méternél rövidebb hajók esetében a géptértől az orrtéri válaszfalig nyúló, illetve a kivitelezhetőség szerint az orrtéri válaszfalhoz lehető legközelebb végződő kettősfeneket kell beépíteni.
 
-.1 A legalább 50 méternél hosszabb, de 61 méternél rövidebb hajók esetében a géptértől az orrtéri válaszfalig nyúló, illetve a kivitelezhetőség szerint az orrtéri válaszfalhoz lehető legközelebb végződő kettősfeneket kell beépíteni.
+.3 A legalább 61 méter hosszúságú, de 76 méternél kisebb hosszúságú hajók esetében az orrtéri válaszfaltól a géptérig és a géptértől a fartéri válaszfalig nyúló, illetve a kivitelezhetőség szerint az orrtéri és a fartéri válaszfalhoz lehető legközelebb végződő kettősfeneket kell beépíteni.
 
-.2 A legalább 61 méter hosszúságú, de 76 méternél rövidebb hajók esetében a az orrtéri válaszfaltól a géptérig és a géptértől a fartéri válaszfalig nyúló, illetve a kivitelezhetőség szerint az orrtéri és a fartéri válaszfalhoz lehető legközelebb végződő kettősfeneket kell beépíteni.
+.4 A 76 méteres és annál hosszabb hajók esetében a hajó közepétől az orrtéri és a fartéri válaszfalig terjedő, illetve a kivitelezhetőség szerint az orrtéri és a fartéri válaszfalhoz lehető legközelebb végződő folytonos kettősfeneket kell beépíteni.
 
-.3 A 76 méteres és annál hosszabb hajók esetében a hajó közepétől az orrtéri és a fartéri válaszfalig terjedő, illetve a kivitelezhetőség szerint az orrtéri és a fartéri válaszfalhoz lehető legközelebb végződő folytonos kettősfeneket kell beépíteni.
+.5 Amennyiben kettősfenék beépítése követelményként kerül meghatározásra, a kettősfenék alapvonaltól számított magasságának elismert tanúsító szervezet által meghatározott magasságúnak kell lennie, a belső feneket pedig a hajó oldaláig kell vezetni úgy, hogy a medersor lekerekítéséig védje a hajófeneket. E védelem akkor kielégítő, ha a koporsólemez külső élének és a medersornak a metszésvonala sehol nem alacsonyabb, mint az a vízszintes sík, amelynek metszéspontját a főbordán egy olyan sugár segítségével lehet meghatározni, amely a vízszintes síkkal 25°-os szöget zár be, és azt egy olyan ponton metszi, ami a hajó középvonalától számított félszélességnél van.
 
-.2 Amennyiben kettősfenék beépítése követelményként kerül meghatározásra, a kettősfenék alapvonaltól számított magasságának elismert tanúsító szervezet által meghatározott magasságúnak kell lennie, a belső feneket pedig a hajó oldaláig kell vezetni úgy, hogy a medersor lekerekítéséig védje a hajófeneket. E védelem akkor kielégítő, ha a koporsólemez külső élének és a medersornak a metszésvonala sehol nem alacsonyabb, mint az a vízszintes sík, amelynek metszéspontját a főbordán egy olyan sugár segítségével lehet meghatározni, amely a vízszintes síkkal 25°-os szöget zár be, és azt egy olyan ponton metszi, ami a hajó középvonalától számított félszélességnél van.
+.6 A rakterek stb. fenékvízszívó berendezéseihez a kettős fenékbe épített kisméretű gyűjtőkutak mélysége nem lehet nagyobb szükségesnél. A kút mélysége sosem lehet nagyobb, mint a kettős fenék középvonalon mért és 460 mm-el csökkentett magassága, valamint a .2 alpontban említett vízszintes sík alá sem nyúlhat. A tengelyalagút vége mögött azonban engedélyezett, hogy a kút a külső fenékig nyúljon. Más gyűjtőkút esetében (pl. a főmotor alatt, a kenőolaj számára készített akna) a hajózási hatóság jóváhagyásával lehet eltérni e követelménytől, amennyiben az elrendezés ugyanazt a védelmet biztosítja, mint az e pontnak megfelelő kettős fenék.
 
-.3 A rakterek stb. fenékvízszívó berendezéseihez a kettős fenékbe épített kisméretű gyűjtőkutak mélysége nem lehet nagyobb szükségesnél. A kút mélysége sosem lehet nagyobb, mint a kettős fenék középvonalon mért és 460 mm-el csökkentett magassága, valamint a .2 alpontban említett vízszintes sík alá sem nyúlhat. A tengelyalagút vége mögött azonban engedélyezett, hogy a kút a külső fenékig nyúljon. Más gyűjtőkút esetében (pl. a főmotor alatt, a kenőolaj számára készített akna) a hajózási hatóság jóváhagyásával lehet eltérni e követelménytől, amennyiben az elrendezés ugyanazt a védelmet biztosítja, mint az e pontnak megfelelő kettős fenék.
+.7 A kettős feneket nem szükséges kisebb méretű, kizárólag folyadék szállítására szolgáló vízmentes terekre felosztani, amennyiben az építést felügyelő elismert tanúsító szervezet minősítése szerint ezáltal nem csökken a hajó biztonsága a fenék vagy az oldalak sérülése esetén.
 
-.4 A kettős feneket nem szükséges kisebb méretű, kizárólag folyadék szállítására szolgáló vízmentes terekre felosztani, amennyiben az építést felügyelő elismert tanúsító szervezet[^25] minősítése szerint ezáltal nem csökken a hajó biztonsága a fenék vagy az oldalak sérülése esetén.
-
-.5 A 10. pont .1 alpontjában foglaltakat nem érintve a hajózási hatóság engedélyezheti, hogy eltekintsenek a kettősfenéktől a hajónak azon a részén, amelynek térfelosztási tényezője nem haladja meg a 0,5-et, amennyiben az adott részen a kettősfenék kialakítása nem összeegyeztethető a hajó szerkezeti felépítésével és a hajó rendeltetésszerű üzemeltetéséhez fűződő kívánalmakkal.
+.8 A 10. pont .1 alpontjában foglaltakat nem érintve a hajózási hatóság engedélyezheti, hogy eltekintsenek a kettősfenéktől a hajónak azon a részén, amelynek térfelosztási tényezője nem haladja meg a 0,5-et, amennyiben az adott részen a kettősfenék kialakítása nem összeegyeztethető a hajó szerkezeti felépítésével és a hajó rendeltetésszerű üzemeltetéséhez fűződő kívánalmakkal.
 
 11. A térfelosztási merülésvonal kijelölése, megjelölése és rögzítése (R 13)
 
@@ -498,9 +540,9 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .2 Meghatározott és kellően megjelölt térfelosztási merülésvonalat be kell jegyezni a személyhajó biztonsági bizonyítványába. Amennyiben pedig, csak egy térfelosztási merülésvonal került megjelölésre, azt C.1 jelöléssel kell ellátni.
 
-Amennyiben egynél több térfelosztási merülésvonal meghatározására kerül sor, az alternatív merülésvonalakat a C.2, C.3, C.4, stb. jelöléssel kell ellátni[^26].
+Amennyiben egynél több térfelosztási merülésvonal meghatározására kerül sor, az alternatív merülésvonalakat a C.2, C.3, C.4, stb. jelöléssel kell ellátni.
 
-.3 A merülésvonalaknak megfelelő szabadoldalakat ugyanazon a helyen és ugyanattól a fedélzetvonaltól kell mérni, mint a jogszabály[^27] rendelkezéseinek megfelelően meghatározott szabadoldalakat.
+.3 A merülésvonalaknak megfelelő szabadoldalakat ugyanazon a helyen és ugyanattól a fedélzetvonaltól kell mérni, mint a jogszabály rendelkezéseinek megfelelően meghatározott szabadoldalakat.
 
 .4 A személyhajó biztonsági bizonyítványában egyértelműen jelezni kell a jóváhagyott térfelosztási merülésvonalaknak megfelelő szabadoldalt és azokat az üzemi körülményeket, amelyek alapján azt jóváhagyták.
 
@@ -510,7 +552,7 @@ Amennyiben egynél több térfelosztási merülésvonal meghatározására kerü
 
 .7 A hajó nem terhelhető meg annyira, hogy az adott útnak és üzemi körülménynek megfelelő térfelosztási merülésvonal a víz alá kerüljön.
 
-12. A vízmentes válaszfalak építése és első próbája, stb. (R 14)
+12. A vízmentes válaszfalak építése és első próbája stb. (R 14)
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
@@ -524,7 +566,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .4 Az orrteret, a kettősfeneket (ideértve a szekrényes tartóként kivitelezett gerincet is), a belső burkolatokat az .1 alpont követelményeinek megfelelő vízoszlop-nyomással kell ellenőrizni.
 
-.5 A hajó térfelosztásának részét képező, folyadékok tárolására szolgáló tartályok vízmentességét olyan víznyomással kell ellenőrizni, amely a legnagyobb térfelosztási merülésvonalig érő vagy a gerincsor felső éle és a peremvonal közötti távolság kétharmadáig érő vízoszlopnak felel meg, attól függően, hogy melyik a nagyobb, miközben a próba vízszintje mindig legalább 0,9 méterrel a tartály fedele fölött húzódik; amennyiben a vízpróba kivitelezhetetlen, a sűrített levegővel végzett szivárgási próba is elfogadható, amelynek során a tartályokat a környezeti légnyomást legfeljebb 0,14 barral meghaladó légnyomás alá helyezik.
+.5 A hajó térfelosztásának részét képező, folyadékok tárolására szolgáló tartályok vízmentességét olyan víznyomással kell ellenőrizni, amely a legnagyobb térfelosztási merülésvonalig érő vagy a gerincsor felső éle és a peremvonal közötti távolság kétharmadáig érő vízoszlopnak felel meg, attól függően, hogy melyik a nagyobb, miközben a próba vízszintje mindig legalább 0,9 méterrel a tartály fedele fölött húzódik, amennyiben a vízpróba kivitelezhetetlen, a sűrített levegővel végzett szivárgási próba is elfogadható, amelynek során a tartályokat a környezeti légnyomást legfeljebb 0,14 barral meghaladó légnyomás alá helyezik.
 
 .6 A .4 és .5 alpontban említett próbák révén biztosítani kell, hogy a térfelosztás szerkezeti részei vízmentesek legyenek. Ugyanakkor az előírt próbák nem annak ellenőrzésére szolgálnak, hogy a terek alkalmasak-e folyékony tüzelőanyag tárolására vagy egyéb olyan különleges célokra, amelyek esetében magasabb szintű ellenőrzés követelhető meg attól függően, hogy a folyadék milyen magasságig jut fel a kérdéses tartályban vagy annak csővezetékeiben.
 
@@ -544,9 +586,9 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .1 a peremvonal alatti kollíziós válaszfalban;
 
-.2 a rakteret a szomszédos raktértől elválasztó vízmentes keresztirányú válaszfalban, kivéve a .10.1 alpontbanban és a 14. pontban meghatározott esetet.
+.2 a rakteret a szomszédos raktértől elválasztó vízmentes keresztirányú válaszfalban, kivéve a .10.1 alpontban és a 14. pontban meghatározott esetet.
 
-.3.2 Amennyiben a .3.3 alpont eltérően nem rendelkezik, a kollíziós válaszfalon a peremvonal alatt legfeljebb az orrtartályban lévő folyadékot szállító csövet lehet átvezetni, amennyiben a cső a válaszfalfedélzetről működtethető zárószeleppel van felszerelve és a szelepszekrény pedig az orrtéren belül a kollíziós válaszfalhoz van erősítve. A szelep felszerelhető a kollíziós válaszfal hátulsó oldalára is, amennyiben a szelep minden üzemi körülmény mellett jól hozzáférhető, az a tér pedig, ahol fel van szerelve, nem tartozik raktérhez.
+.3.2 Amennyiben a .3.3 alpont eltérően nem rendelkezik, a kollíziós válaszfalon a peremvonal alatt legfeljebb az orrtartályban lévő folyadékot szállító csövet lehet átvezetni, amennyiben a cső a válaszfalfedélzetről működtethető zárószeleppel van felszerelve és a szelepszekrény pedig az orrtéren belül a kollíziós válaszfalhoz van erősítve. A szelep felszerelhető a kollóziós válaszfal hátulsó oldalára is, amennyiben a szelep minden üzemi körülmény mellett jól hozzáférhető, az a tér pedig, ahol fel van szerelve, nem tartozik raktérhez.
 
 .3.3 Amennyiben az orrtér két különböző folyadék tárolása céljából két részre van osztva, a kollíziós válaszfalon a peremvonal alatt két csövet is át lehet vezetni, amelyek mindegyikét a .3.1 alpontban meghatározott módon szerelik fel, feltéve, hogy a második cső beépítése más lehetőséggel nem pótolható és az orrtér a további felosztása ellenére a hajó biztonsága nem csorbul.
 
@@ -558,15 +600,15 @@ A vízmentes ajtóként tolóajtó vagy oldalpántos ajtó, illetve ezeknek megf
 
 24 MÉTERES VAGY ANNÁL HOSSZABB B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-A vízmentes ajtónak, amennyiben .10.1 bekezdés vagy a 14. pont másképp nem rendelkezik, olyan gépi vezérlésű tolóajtónak kell lennie, amely megfelelnek a 7. alpontban foglalt követelményeknek, azaz a hajó felegyenesedett úszáshelyzete esetén a parancsnoki híd központi vezérlőpultjáról vezérelve 60 másodpercnél rövidebb idő alatt kell bezáródnia, illetve több ilyen ajtó esetén, egyidejűleg bezáródniuk.
+A vízmentes ajtónak, amennyiben .10.1 bekezdés vagy a 14. pont másképp nem rendelkezik, olyan gépi vezérlésű tolóajtónak kell lennie, amely megfelel a 7. alpontban foglalt követelményeknek, azaz a hajó felegyenesedett úszáshelyzete esetén a parancsnoki híd központi vezérlőpultjáról vezérelve 60 másodpercnél rövidebb idő alatt kell bezáródnia, illetve több ilyen ajtó esetén, egyidejűleg bezáródniuk.
 
 5.2 24 MÉTERNÉL RÖVIDEBB B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK ÉS B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 A tolóajtók lehetnek:
 
-— kizárólag kézi vezérlésűek, vagy
+- kizárólag kézi vezérlésűek, vagy
 
-— gépi és kézi vezérlésűek.
+- gépi és kézi vezérlésűek.
 
 24 MÉTERES VAGY ANNÁL HOSSZABB B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
@@ -578,17 +620,15 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 24 MÉTERES VAGY ANNÁL HOSSZABB B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.5.4 A vízmentes ajtók vezérlőberendezéseit, beleértve a hidraulikus csővezetékeket és a villamos kábeleket, a lehetőségekhez képest a lehető legközelebb kell elhelyezni ahhoz a válaszfalhoz, amelybe az ajtókat beépítették, annak érdekében, hogy minimális legyen annak a veszélye, hogy a hajó esetleges sérülése esetén ezekben is kár keletkezik. A vízmentes ajtókat és azok vezérlőberendezéseit úgy kell elhelyezni, hogy a hajó sérülésmentes részén a vízmentes ajtók továbbra is zavartalanul működhessenek, ha a hajó a szélességének egyötödén belül – e távolságot a legmagasabb térfelosztási merülésvonal szintjén a hajóközép síkjára merőlegesen kell mérni – megsérül.
+.5.4 A vízmentes ajtók vezérlőberendezéseit, beleértve a hidraulikus csővezetékeket és a villamos kábeleket, a lehetőségekhez képest a lehető legközelebb kell elhelyezni ahhoz a válaszfalhoz, amelybe az ajtókat beépítették, annak érdekében, hogy minimális legyen annak a veszélye, hogy a hajó esetleges sérülése esetén ezekben is kár keletkezik. A vízmentes ajtókat és azok vezérlőberendezéseit úgy kell elhelyezni, hogy a hajó sérülésmentes részén a vízmentes ajtók továbbra is zavartalanul működhessenek, ha a hajó a szélességének egyötödén belül - e távolságot a legmagasabb térfelosztási merülésvonal szintjén a hajóközép síkjára merőlegesen kell mérni - megsérül.
 
 .5.5 Minden gépi és kézi vezérlésű vízmentes ajtót olyan jelzőberendezéssel kell felszerelni, amely minden távvezérlési helyen jelzi, hogy az ajtók nyitva vagy zárva vannak. Távvezérlési hely a .7.1.5 bekezdés előírásainak megfelelően csak a parancsnoki hídon, illetve azon helyen lehet elhelyezve, ahol a .7.1.4 bekezdés a válaszfalfedélzet felett kézi vezérlést ír elő.
 
 24 MÉTERNÉL RÖVIDEBB B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK ÉS B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.5.6 Azokat a vízmentes ajtókat, amelyek nem felelnek meg az .5.1–.5.5 bekezdésnek, a hajó indulása előtt be kell zárni, az út során zárva kell tartani, a hajónaplóba pedig be kell jegyezni azt az időpont, amikor a kikötőben kinyitják, illetve a kikötő elhagyása előtt bezárják ezen ajtókat.
+.5.6 Azokat a vízmentes ajtókat, amelyek nem felelnek meg az .5.1-.5.5 bekezdésnek, a hajó indulása előtt be kell zárni, az út során zárva kell tartani, a hajónaplóba pedig be kell jegyezni azt az időpontot, amikor a kikötőben kinyitják, illetve a kikötő elhagyása előtt bezárják ezen ajtókat.
 
-24 MÉTERNÉL RÖVIDEBB B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK ÉS B., C.
-
-ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+24 MÉTERNÉL RÖVIDEBB B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK ÉS B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .6.1 A kézi vezérlésű tolóajtók vízszintesen és függőlegesen is mozoghatnak. Szükséges, hogy a szerkezetet közvetlenül az ajtó mindkét oldaláról és egy a válaszfalfedélzet felett található, hozzáférhető helyről egy kar körbeforgatásával vagy más jóváhagyott, ugyanolyan biztonságos berendezéssel működtetni tudják. Az ajtó teljes bezárásához szükséges idő nem haladhatja meg a 90 másodpercet.
 
@@ -602,13 +642,13 @@ B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .1 függőleges vagy vízszintes irányban mozog
 
-.2 az .11 bekezdésre is figyelemmel a szabad szélessége szokásos esetben legfeljebb 1,2 méter. A hajózási hatóság engedélyezhet szélesebb ajtókat, de csak a hajó hatékony működéséhez szükséges mértékben, amennyiben figyelembe veszik a következő biztonsági intézkedéseket:
+.2 a .11 bekezdésre is figyelemmel a szabad szélessége szokásos esetben legfeljebb 1,2 méter. A hajózási hatóság engedélyezhet szélesebb ajtókat, de csak a hajó hatékony működéséhez szükséges mértékben, amennyiben figyelembe veszik a következő biztonsági intézkedéseket:
 
 .2.1 a szivárgás elkerülése érdekében különösen az ajtók szilárdságára és a zárószerkezetekre kell figyelni;
 
 .2.2 az ajtót a B/5 kárzónán kívül kell elhelyezni;
 
-.2.3 az ajtót zárva kell tartani, amikor a hajó a tengeren van, kivéve azt a korlátozott időszakokat, amikor a kinyitása a lobogó szerinti állam hajózási hatóságának meghatározása alapján feltétlenül szükséges.
+.2.3 az ajtót zárva kell tartani, amikor a hajó a tengeren van;
 
 .3 fel van szerelve azokkal a szükséges berendezésekkel, amelyek villamos és hidraulikus energia vagy más, a hajózási hatóság által jóváhagyott energia felhasználásával nyitják és zárják azokat;
 
@@ -624,7 +664,7 @@ B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .7.3 A gépi vezérlésű vízmentes tolóajtókat vagy:
 
-.1 egy központi hidraulikus rendszerrel kell felszerelni, amely két független áramforrással rendelkezik, amelyek mindegyike egy motorból és egy szivattyúból áll, és képes egyidejűleg bezárni az összes ajtót. Továbbá az egész berendezést megfelelő teljesítményű hidraulikus akkumulátorokkal kell kiegészíteni, amelyek legalább háromszor képesek működtetni minden ajtót, azaz nyitni-zárni-nyitni, 15°-os kedvezőtlen dőlés esetén. E működési folyamat akkor is elvégezhető kell hogy legyen, amikor az akkumulátor a szivattyúk kapcsolónyomásán van. Az alkalmazott folyadékot úgy kell megválasztani, hogy figyelembe vegyék azt a hőmérsékletet, amely a berendezés működése közben felléphet. A gépi vezérlőrendszert úgy kell megtervezni, hogy a lehető legkisebb legyen a valószínűsége annak, hogy a hidraulikus csőhálózat egynél több ajtó működését gátolva meghibásodjon. A hidraulikus rendszert fel kell szerelni a gépi vezérlésű rendszert kiszolgáló hidraulikus olajtartályok alacsony folyadékszintjét jelző riasztóberendezéssel és az alacsony gáznyomást jelző riasztóberendezéssel, illetve egyéb hatékony eszközzel, amely ellenőrzi a hidraulikus akkumulátorok áramveszteségét. E a riasztóberendezéseknek hallható és látható jelzéseket kell adniuk, és a parancsnoki hídon lévő központi vezérlőpulton kell elhelyezni azokat; vagy
+.1 egy központi hidraulikus rendszerrel kell felszerelni, amely két független áramforrással rendelkezik, amelyek mindegyike egy motorból és egy szivattyúból áll, és képes egyidejűleg bezárni az összes ajtót. Továbbá az egész berendezést megfelelő teljesítményű hidraulikus akkumulátorokkal kell kiegészíteni, amelyek legalább háromszor képesek működtetni minden ajtót, azaz nyitni-zárni-nyitni, 15°-os kedvezőtlen dőlés esetén. E működési folyamat akkor is elvégezhető kell hogy legyen, amikor az akkumulátor a szivattyúk kapcsolónyomásán van. Az alkalmazott folyadékot úgy kell megválasztani, hogy figyelembe vegyék azt a hőmérsékletet, amely a berendezés működése közben felléphet. A gépi vezérlőrendszert úgy kell megtervezni, hogy a lehető legkisebb legyen a valószínűsége annak, hogy a hidraulikus csőhálózat egynél több ajtó működését gátolva meghibásodjon. A hidraulikus rendszert fel kell szerelni a gépi vezérlésű rendszert kiszolgáló hidraulikus olajtartályok alacsony folyadékszintjét jelző riasztóberendezéssel és az alacsony gáznyomást jelző riasztóberendezéssel, illetve egyéb hatékony eszközzel, amely ellenőrzi a hidraulikus akkumulátorok áramveszteségét. E riasztóberendezéseknek hallható és látható jelzéseket kell adniuk, és a parancsnoki hídon lévő központi vezérlőpulton kell elhelyezni azokat; vagy
 
 .2 minden ajtóhoz független hidraulikus rendszereket kell felszerelni, amelyek mindegyike egy motorból és egy szivattyúból áll, és képesek kinyitni és bezárni az ajtót. Továbbá egy megfelelő teljesítményű hidraulikus akkumulátort kell felszerelni, amely legalább háromszor képes működtetni az ajtót, azaz nyitni-zárni-nyitni, 15°-os kedvezőtlen dőlés esetén. E működési folyamatnak akkor is elvégezhetőnek kell lennie, amikor az akkumulátor a szivattyúk kapcsolónyomásán van. Az alkalmazott folyadékot úgy kell megválasztani, hogy figyelembe vegyék azt a hőmérsékletet, amely a berendezés működése közben felléphet. Az alacsony gáznyomást jelző riasztóberendezést, illetve a hidraulikus akkumulátorok áramveszteségének ellenőrzésére szolgáló egyéb hatékony eszközt kell felszerelni a parancsnoki hídon lévő központi vezérlőpultra. Az áramveszteség jelzését minden helyi vezérlőállásban meg kell oldani; vagy
 
@@ -636,9 +676,7 @@ A gépi vezérlésű vízmentes tolóajtók áramellátását el kell választan
 
 .7.4 A vezérlőkarokat a válaszfal mindkét oldalán legalább 1,6 méterre a padló felett úgy kell felszerelni, hogy az ajtón áthaladó személy egyszerre mindkét kart nyitott állapotban tudja tartani anélkül, hogy a zárószerkezetet véletlenül működésbe hozná. Az ajtókat nyitó és záró karok mozgásának iránya az ajtó mozgásának irányába esik, a mozgatás irányát pedig egyértelműen jelezni kell. A lakóterekben lévő vízmentes ajtók hidraulikus vezérlőkarjait, amennyiben az ajtó bezárásának elindításához csak egyetlen mozdulat szükséges, úgy kell elhelyezni, hogy gyermekek ne hozhassák azokat működésbe, pl. panelajtók mögött, legalább 170 cm-rel a fedélzet szintje fölött elhelyezett záró rúddal.
 
-24 MÉTERES VAGY ANNÁL HOSSZABB B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK
-
-ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
+24 MÉTERES VAGY ANNÁL HOSSZABB B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 Az ajtók mindkét oldalán egy táblát kell elhelyezni, amely útmutatást ad arról, hogyan kell az ajtórendszert működtetni. Az ajtók mindkét oldalán el kell helyezni egy-egy olyan táblát is, amely szöveggel és képekkel hívja fel a figyelmet arra a veszélyre, ha valaki az ajtó bezáródásakor az ajtónyílásban marad. E táblákat tartós anyagból kell elkészíteni és megfelelően rögzíteni kell azokat. Az útmutatás vagy a figyelmeztetés szövege azt is tartalmazza, hogy az adott ajtó mennyi idő alatt záródik be.
 
@@ -672,7 +710,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .10.2 Ezen ajtókat a hajó indulása előtt be kell zárni, és a hajó útja folyamán zárva kell tartani; a hajónaplóba be kell jegyezni azt az időpontot, amikor az ajtókat a kikötőben kinyitják, illetve a kikötő elhagyása előtt bezárják. Amennyiben a hajó útja során valamelyik ajtó hozzáférhetővé válik, olyan szerkezettel kell felszerelni, amely megakadályozza a jogosulatlan kinyitást. Amennyiben ezen ajtók beépítése szükséges, a hajózási hatóság ellenőrzi különösen az ajtók számát és felszerelését.
 
-.11 A géptér kivételével sehol nem engedélyezett leszerelhető lemezek alkalmazása a válaszfalakon. E lemezeknek mindig a helyükre kell kerülniük, mielőtt a hajó elhagyja a kikötőt, a hajó útja során pedig nem szabad eltávolítani azokat a helyükről, csak sürgős szükséghelyzetben a hajóparancsnok belátása szerint. A hajózási hatóság fő keresztirányú válaszfalanként csak egy, a .7.10.2 alpontban meghatározottnál nagyobb gépi vezérlésű vízmentes tolóajtó beépítését engedélyezheti a leszerelhető lemezek helyettesítésére, amennyiben ezen ajtókat bezárják, mielőtt a hajó elhagyná a kikötőt, a hajó útja során pedig — sürgős szükséghelyzet kivételével, a hajóparancsnok belátása szerint — zárva tarják. Ezen ajtóknak nem kell megfelelniük a 7.1.4 bekezdés követelményeinek, amelyek előírják, hogy az ajtó a kézi vezérléssel 90 másodperc alatt teljesen bezárható legyen. Az ajtók kinyitásának és bezárásának időpontját, akár a tengeren van a hajó, akár a kikötőben, be kell jegyezni a hajónaplóba.
+.11 A géptér kivételével sehol nem engedélyezett leszerelhető lemezek alkalmazása a válaszfalakon. E lemezeknek mindig a helyükre kell kerülniük, mielőtt a hajó elhagyja a kikötőt, a hajó útja során pedig nem szabad eltávolítani azokat a helyükről, csak sürgős szükséghelyzetben a hajóparancsnok belátása szerint. A hajózási hatóság fő keresztirányú válaszfalanként csak egy, a .7.10.2 alpontban meghatározottnál nagyobb gépi vezérlésű vízmentes tolóajtó beépítését engedélyezheti a leszerelhető lemezek helyettesítésére, amennyiben ezen ajtókat bezárják, mielőtt a hajó elhagyná a kikötőt, a hajó útja során pedig - sürgős szükséghelyzet kivételével, a hajóparancsnok belátása szerint - zárva tarják. Ezen ajtóknak nem kell megfelelniük a 7.1.4 bekezdés követelményeinek, amelyek előírják, hogy az ajtó a kézi vezérléssel 90 másodperc alatt teljesen bezárható legyen. Az ajtók kinyitásának és bezárásának időpontját, akár a tengeren van a hajó, akár a kikötőben, be kell jegyezni a hajónaplóba.
 
 14. A tehergépjárműveket és kísérő személyzetüket szállító hajók (R 16)
 
@@ -692,7 +730,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .2.1 Szükséges, hogy a héjlemezelésen lévő nyílások záró berendezéseinek felszerelése és hatékonysága megfeleljen annak az alkalmazásnak és elhelyezésnek, ahol felszerelik azokat.
 
-.2.2 A merülésvonalakról szóló hatályos nemzetközi egyezmény követelményeire is figyelemmel oldalablakok nem szerelhetők fel olyan helyre, ahol az ablak alsó párkánya a hajó oldalán a válaszfalfedélzettel párhuzamosan meghúzott vonal alá esik, s amelynek legalacsonyabb pontja a hajó szélességének 2,5%-ára,vagy 500 mm-re van a legmagasabb térfelosztási merülésvonal felett, attól függően, hogy melyik érték a nagyobb.
+.2.2 A merülésvonalakról szóló hatályos nemzetközi egyezmény követelményeire is figyelemmel oldalablakok nem szerelhetők fel olyan helyre, ahol az ablak alsó párkánya a hajó oldalán a válaszfalfedélzettel párhuzamosan meghúzott vonal alá esik, s amelynek legalacsonyabb pontja a hajó szélességének 2,5%-ára, vagy 500 mm-re van a legmagasabb térfelosztási merülésvonal felett, attól függően, hogy melyik érték a nagyobb.
 
 .2.3 Minden oldalablakot, amelynek párkánya a peremvonal alá esik, szerkezetileg úgy kell kialakítani, hogy hatékonyan megakadályozza, hogy azt a hajóparancsnok hozzájárulása nélkül bárki kinyithassa.
 
@@ -704,7 +742,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .4 A héjlemezelésben lévő minden bemenő és kiömlő nyílást hatékony és hozzáférhető berendezésekkel kell ellátni, hogy megakadályozzák a víz esetleges bejutását a hajóba.
 
-.4.1 Az LL Egyezmény követelményeire is figyelemmel — az .5 alpontban foglaltakat nem érintve— minden olyan kiömlő nyílást, amely a peremvonal alatti terekből a héjlemezelésen keresztül vezet, vagy egy a válaszfalfedélzetről működtetett, biztos zárást nyújtó szerkezettel felszerelt önműködő visszacsapó szeleppel látják el, vagy pedig két önműködő, zárószerkezet nélküli visszacsapó szeleppel, amennyiben a hajótesten belüli szelepet a legmagasabb térfelosztási merülésvonal felett helyezték el, és az üzemeltetés során is hozzáférhető vizsgálat céljából.
+.4.1 Az LL Egyezmény követelményeire is figyelemmel - az .5 alpontban foglaltakat nem érintve - minden olyan kiömlő nyílást, amely a peremvonal alatti terekből a héjlemezelésen keresztül vezet, vagy egy a válaszfalfedélzetről működtetett, biztos zárást nyújtó szerkezettel felszerelt önműködő visszacsapó szeleppel látják el, vagy pedig két önműködő, zárószerkezet nélküli visszacsapó szeleppel, amennyiben a hajótesten belüli szelepet a legmagasabb térfelosztási merülésvonal felett helyezték el, és az üzemeltetés során is hozzáférhető vizsgálat céljából.
 
 Ahol a szelepet zárószerkezettel látják el, a válaszfalfedélzet feletti vezérlőhelynek mindig hozzáférhetőnek kell lennie, a szerkezetet pedig egy olyan berendezéssel kell felszerelni, amely jelzi a szelep nyitott vagy zárt állapotát.
 
@@ -744,7 +782,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .4 Az oldalablakok, a bejáró- és rakodónyílások ajtói és más, a nyílások bezárására szolgáló, a peremvonal felett a héjlemezelésben lévő berendezések tervezésének és kivitelezésének hatékonynak, és megfelelően szilárdnak kell lennie, tekintettel azokra a terekre, ahol felszerelik azokat, továbbá a legmagasabb térfelosztási merülésvonalhoz viszonyított helyzetükre.
 
-.5 Minden, a válaszfalfedélzet feletti első fedélzet alatti térben elhelyezett oldalablakot olyan belső ablak-fedéllel kell ellátni, amely könnyen és hatékonyan zárható, és biztosítja a vízmentességet.
+.5 Minden, a válaszfalfedélzet feletti első fedélzet alatti térben elhelyezett oldalablakot olyan belső ablakfedéllel kell ellátni, amely könnyen és hatékonyan zárható, és biztosítja a vízmentességet.
 
 17. A rakomány berakodó kapuinak zárása (R 20-1)
 
@@ -758,7 +796,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .3 a kollíziós válaszfalakon elhelyezett rakodókapukat;
 
-.4 azokat az időjárásálló rámpákat, amelyek az .1.1–.1.3 alpontban meghatározott nyílásoknak megfelelő záró berendezést alkotnak. Amennyiben egy ajtót sem kinyitni sem bezárni nem lehet, amíg a hajó a kikötőhelyen tartózkodik, akkor ezt az ajtót ki lehet nyitni és nyitva lehet hagyni, miközben a hajó a kikötőhely felé közeledik, vagy elhagyja azt, de csak az ahhoz szükséges mértékben, hogy az ajtó azonnal működtethető legyen. A belső mellső kaput minden esetben zárva kell tartani.
+.4 azokat az időjárásálló rámpákat, amelyek az .1.1-.1.3 alpontban meghatározott nyílásoknak megfelelő záró berendezést alkotnak. Amennyiben egy ajtót sem kinyitni sem bezárni nem lehet, amíg a hajó a kikötőhelyen tartózkodik, akkor ezt az ajtót ki lehet nyitni és nyitva lehet hagyni, miközben a hajó a kikötőhely felé közeledik, vagy elhagyja azt, de csak az ahhoz szükséges mértékben, hogy az ajtó azonnal működtethető legyen. A belső mellső kaput minden esetben zárva kell tartani.
 
 .2 Az .1.1 és .1.4 bekezdés sérelme nélkül a hajózási hatóság felhatalmazhatja a parancsnokot, hogy belátása szerint egyes ajtókat ki lehessen nyitni, amennyiben ez a hajó üzemeltetése, az utasok fedélzetre szállása vagy kiszállása szempontjából szükséges, feltéve, hogy a hajó biztonságosan horgonyozik, és az ajtók kinyitása a hajó biztonságát nem veszélyezteti.
 
@@ -780,9 +818,9 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ RO-RO SZEMÉLYHAJÓK:
 
 .1.5 a parancsnoknak biztosítania kell, hogy egy olyan hatékony rendszert hoztak létre, amely az .1.2 és .1.3 alpontban meghatározott nyílások zárását és nyitását ellenőrzi és jelzi;
 
-.1.6 mielőtt a hajó kifutna, a parancsnoknak biztosítania kell, hogy a II-1 fejezet B részének 22. pontjában foglaltak szerint bejegyezzék a hajónaplóba az .1.2 és .1.3 alpontban meghatározott nyílások utolsó bezárásának időpontját.
+.1.6 mielőtt a hajó kifutna, a parancsnoknak biztosítania kell, hogy a II-1. fejezet B részének 22. pontjában foglaltak szerint bejegyezzék a hajónaplóba az .1.2 és .1.3 alpontban meghatározott nyílások utolsó bezárásának időpontját.
 
-.1.7 a 40 méternél rövidebb C. kategóriájú új Ro-Ro személyhajók és a D. kategóriájú új Ro-Ro személyhajók az .1.1–.1.6 bekezdés helyett a .2.1–.2.4 bekezdés követelményeit is teljesíthetik, amennyiben a nyíláskereteik és küszöbeik magassága a nyitott Ro-Ro rakományfedélzeteken legalább 600 mm, a zárt Ro-Ro rakományfedélzeteken pedig legalább 380 mm.
+.1.7 a 40 méternél rövidebb C. kategóriájú új Ro-Ro személyhajók és a D. kategóriájú új Ro-Ro személyhajók az .1.1-.1.6 bekezdés helyett a .2.1-.2.4 bekezdés követelményeit is teljesíthetik, amennyiben a nyíláskereteik és küszöbeik magassága a nyitott Ro-Ro rakományfedélzeteken legalább 600 mm, a zárt Ro-Ro rakományfedélzeteken pedig legalább 380 mm.
 
 B. KATEGÓRIÁJÚ MEGLÉVŐ RO-RO SZEMÉLYHAJÓK:
 
@@ -790,9 +828,7 @@ B. KATEGÓRIÁJÚ MEGLÉVŐ RO-RO SZEMÉLYHAJÓK:
 
 .2.2 a nyílásokat be kell zárni, mielőtt a hajó bármilyen célból elhagyja a kikötőhelyet, és zárva kell tartani, amíg a hajó el nem éri a következő kikötőhelyet;
 
-.2.3 a .2.2. bekezdés rendelkezéseinek sérelme nélkül a hajózási hatóság engedélyezheti, hogy az út során egyes járatokat kinyissák, de csak annyi időre, amely az átjutáshoz, illetve szükség esetén a hajó alapvető üzemeltetéséhez szükséges;
-
-.2.4 a .2.1 bekezdés követelményeit csak az ezen irányelv 14. cikke (1) bekezdésében meghatározott időpont utáni első időszakos szemléig kell alkalmazni.
+.2.3 a .2.2. bekezdés rendelkezéseinek sérelme nélkül a hajózási hatóság engedélyezheti, hogy az út során egyes járatokat kinyissák, de csak annyi időre, amely az átjutáshoz, vagy szükség esetén a hajó alapvető üzemeltetéséhez szükséges;
 
 17-2 A Ro-Ro fedélzetekre vezető nyílások (R 20-3)
 
@@ -820,6 +856,8 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .4 A hajózási hatóság engedélyezheti, hogy eltekintsenek egyes hajók döntéspróbájától, amennyiben rendelkezésre állnak egy testvérhajó döntéspróbájának alapvető stabilitási adatai, a hajózási hatóság pedig megbizonyosodik arról, hogy ezekből az alapadatokból egyértelműen megállapíthatóak a mentességet élvező hajó stabilitási adatai.
 
+5. Amennyiben egy pontos döntéspróba elvégzése nem kivitelezhető, a hajó üres vízkiszorítását és súlypontját a hajó saját tömegének ellenőrzésével, pontos számítások útján kell meghatározni. Figyelembe kell venni a nagysebességű vízi járművekre vonatkozó 2000. évi szabályzat 2.7. szakaszában található információkat.
+
 19. Havariaterv (R 23)
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
@@ -827,8 +865,6 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 A hajóért felelős tiszt tájékoztatására állandóan kifüggesztett tervrajzokat kell elhelyezni, amelyek minden fedélzetre és raktérre vonatkozóan egyértelműen jelzik a vízmentes terek határait az azokban található nyílásokat a zárószerkezetekkel együtt, a vezérlőberendezéseik elhelyezkedését, valamint a vízbeáramlás következtében bekövetkező dőlés kiegyenlítéséhez szükséges rendelkezéseket. A hajó tisztjeit pedig el kell látni az előbb említett információkat tartalmazó útmutatóval.
 
 20. A hajótest és a fedélzet feletti építmények sértetlensége, kármegelőzés és ellenőrzés (R 23-2)
-
-Ez a pont minden Ro-Ro személyhajóra vonatkozik, azzal a kivétellel, hogy a meglévő hajókra a .2 bekezdést kell alkalmazni legkésőbb az ezen irányelv 14.Cikke (1) bekezdésében említett időpont utáni első időszakos szemlétől.
 
 .1 A parancsnoki hídon az összes héjlemezelésen lévő ajtó, rakodókapu és olyan zárószerkezet számára jelzőberendezést kell elhelyezni, amelyek nyitva maradása vagy nem megfelelő rögzítése esetén a különleges kategóriájú terek vagy a Ro-Ro raktér elárasztódhat. A jelzőrendszert üzembiztosan kell megtervezni, és látható vészjelzést kell adnia, ha az ajtó nem záródott be teljesen, vagy a rögzítő berendezések egyike nincs a helyén és nincs bezárva teljesen, továbbá hangjelzést kell adnia akkor, ha az ajtó vagy valamelyik zárószerkezet kinyílik, illetve a biztosító berendezés kioldódott. A parancsnoki hídon lévő jelzőtáblán egy „kikötő/tengeri út” üzemmódválasztó kapcsolót kell elhelyezni, amely hangjelzést ad a parancsnoki hídon, ha a hajó úgy hagyja el a kikötőt, hogy a mellső kapuk vagy belső kapuk, a far-rámpa vagy egyéb, a külhéjon lévő ajtó nincs bezárva, illetve valamelyik zárószerkezet nincs a megfelelő helyzetben. A jelzőrendszer áramellátásának függetlennek kell lennie az ajtók vezérlését és rögzítését ellátó áramforrástól. A meglévő hajóknak a hajózási hatóság által jóváhagyott jelzőrendszereit nem kell megváltoztatni.
 
@@ -860,7 +896,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 23. Emelhető gépjárműfedélzetek és rámpák
 
-A., B. C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
+A., B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 Azokon a hajókon, amelyek személyszállító gépjárművek szállítására alkalmas függesztett fedélzettel vannak felszerelve, a szerkezet, a belső szerkezet kialakítása és az üzemeltetés a hajózási hatóság által megszabott intézkedéseknek megfelelően történik. A szerkezet tekintetében elismert tanúsító szervezet erre vonatkozó előírásait kell alkalmazni.
 
@@ -902,7 +938,7 @@ A., B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJ�
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.1 A 200 mm-es hengerátmérőjű vagy 0,6 m³ vagy annál nagyobb forgattyúház-térfogatú belső égésű motorok forgattyúházát megfelelő típusú és teljesítményű túlnyomáscsökkentő szeleppel kell felszerelni. A túlnyomáscsökkentő szelepeket úgy kell elhelyezni és olyan berendezésekkel kell felszerelni, hogy olyan irányba bocsássák ki a kipufogógázokat, hogy a személyzet megsérülésének veszélye a lehető legkisebb legyen.
+.1 A 200 mm-es hengerátmérőjű vagy 0,6 m3 vagy annál nagyobb forgattyúház-térfogatú belső égésű motorok forgattyúházát megfelelő típusú és teljesítményű túlnyomáscsökkentő szeleppel kell felszerelni. A túlnyomáscsökkentő szelepeket úgy kell elhelyezni és olyan berendezésekkel kell felszerelni, hogy olyan irányba bocsássák ki a kipufogógázokat, hogy a személyzet megsérülésének veszélye a lehető legkisebb legyen.
 
 3. Fenékvízszivattyú rendszer (R 21)
 
@@ -912,9 +948,9 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .1.2 Amennyiben megfelelően csatlakoznak a fenékvíz-szivattyúzó rendszerhez, az egészségügyi, ballaszt- és általános rendeltetésű szivattyúk is megfelelnek független hajtású gépi fenékvíz-szivattyúnak.
 
-.1.3 A tüzelőanyag-tartályokban vagy azok alatt, illetve a kazántérben vagy a géptérben — ideértve azokat a tereket is, ahol az olajülepítő tartályok vagy a tüzelőanyag-szivattyúzó egységek találhatók — az alkalmazott fenékvíz-csővezetéket acélból vagy más alkalmas anyagból kell elkészíteni.
+.1.3 A tüzelőanyag-tartályokban vagy azok alatt, illetve a kazántérben vagy a géptérben - ideértve azokat a tereket is, ahol az olajülepítő tartályok vagy a tüzelőanyag-szivattyúzó egységek találhatók - az alkalmazott fenékvíz-csővezetéket acélból vagy más alkalmas anyagból kell elkészíteni.
 
-.1.4 A fenékvíz- és ballasztvíz-szivattyúzó rendszereket úgy kell kialakítani, hogy megakadályozzák, hogy a tengerből és a ballasztvíz-tartályokból a víz a rakomány- vagy géptérbe, illetve egyik térből a másikba jusson. Meg kell akadályozni, hogy a fenékvíz és ballasztvíz csatlakozással ellátott magastartályt véletlenül tengervíz árassza el, illetve hogy a fenékvíz-szivattyú kiürítse, amikor vízballasztot tartalmaz.
+.1.4 A fenékvíz- és ballasztvíz-szivattyúzó rendszereket úgy kell kialakítani, hogy megakadályozzák, hogy a tengerből és a ballasztvíz-tartályokból a víz a rakomány- vagy géptérbe, illetve egyik térből a másikba jusson. Meg kell akadályozni, hogy a fenékvíz és ballasztvíz csatlakozással ellátott magastartályt véletlenül tengervíz árassza el, illetve hogy a fenékvízszivattyú kiürítse, amikor vízballasztot tartalmaz.
 
 .1.5 Az összes, a fenékvíz-szivattyúzó rendszerrel kapcsolatban álló elosztószekrényt és kézi vezérlésű szelepet úgy kell elhelyezni, hogy azok rendes körülmények között hozzáférhetőek legyenek.
 
@@ -934,7 +970,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .4 ott, ahol a zárt rakománytereket szén-dioxiddal működő tűzoltórendszer védi, a fedélzeti vízlefolyó kivágásokat olyan berendezésekkel szerelik fel, amelyek megakadályozzák az oltóanyag elszivárgását.
 
-A.,B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+A., B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .1.6.3 A Ro-Ro fedélzetek és a gépjárműfedélzetek vízelvezetésének olyannak kell lennie, hogy a fedélzeti vízlefolyó kivágások a hajó jobb és bal oldalán be tudják fogadni a vízfüggöny készülékekből, és a tűzoltó szivattyúktól származó vizet, figyelembe véve a hajó dőlését és úszáshelyzetét.
 
@@ -948,7 +984,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .2.3 A kizárólag az orr- és fartereket ellátó kiegészítő szivattyúk kivételével, minden fenékvízszivattyút úgy kell kialakítani, hogy az összes olyan térből el tudja távolítani a vizet, amelyet az .1.1 bekezdés alapján vízmentesíteni kell.
 
-.2.4 Minden gépi vezérlésű fenékvízszivattyút úgy kell kialakítani, hogy legalább 2 m/s sebességgel szivattyúzza ki a vizet a fő fenékvízcsövön keresztül. A géptérben elhelyezett különálló gépi vezérlésű fenékvízszivattyúknak közvetlenül kell kiszivattyúznia a vizet ezekből a terekből, de egy térben kettőnél több szívócsőre nincs szükség. Ahol kettő vagy annál több szívócsövet szerelnek be, a hajó mindkét oldalán kell lennie legalább egy szívócsőnek. A közvetlen szívócsöveket a rendeltetésüknek megfelelően kell elhelyezni, a géptérben lévők szívócsövek átmérője pedig legalább akkora legyen, mint a fő fenékvízcső átmérője.
+.2.4 Minden gépi vezérlésű fenékvízszivattyút úgy kell kialakítani, hogy legalább 2 m/s sebességgel szivattyúzza ki a vizet a fő fenékvízcsövön keresztül. A géptérben elhelyezett különálló gépi vezérlésű fenékvízszivattyúknak közvetlenül kell kiszivattyúznia a vizet ezekből a terekből, de egy térben kettőnél több szívócsőre nincs szükség. Ahol kettő vagy annál több szívócsövet szerelnek be, a hajó mindkét oldalán kell lennie legalább egy szívócsőnek. A közvetlen szívócsöveket a rendeltetésüknek megfelelően kell elhelyezni, a géptérben lévő szívócsövek átmérője pedig legalább akkora legyen, mint a fő fenékvízcső átmérője.
 
 .2.5 A .2.4 alpontban előírt közvetlen fenékvíz szívócsövek mellett egy vészhelyzetben működő, visszacsapó szeleppel ellátott fenékvíz szívócsövet is fel kell szerelni, amely a legnagyobb független gépi hajtású szivattyútól a géptér vízelvezető szintjéig vezet; a szívócső átmérője megegyezik az alkalmazott szivattyú fő bemenetének átmérőjével.
 
@@ -962,13 +998,13 @@ elágazó fenékvíz szívóvezetékek a gyűjtőtartályok és a szívócsövek
 
 ahol:
 
-|  | d | a fenékvíz fővezeték belső átmérője (milliméterben), |
+d a fenékvíz fővezeték belső átmérője (milliméterben),
 
-|  | L és B | a hajó hossza és szélessége (méterben), |
+L és B a hajó hossza és szélessége (méterben),
 
-|  | L1 | a tér hossza, és |
+L1 a tér hossza, és
 
-|  | D | a hajó oldalmagassága a válaszfalfedélzetig (méterben), amennyiben olyan hajó esetében, amely a válaszfalfedélzetén a hajó teljes hosszán zárt raktérrel és az 1.6.2. bekezdés követelményeinek megfelelően belső vízelvezetéssel rendelkezik, a D értéket a válaszfalfedélzet fölötti következő fedélzetig mérik. Ahol a zárt rakterek kisebb hosszúságúak, a D a hajó válaszfalfedélzetig tartó oldalmagassága plusz lh/L, ahol az l és a h a zárt rakterek összesített hossza, illetve szélessége. |
+D a hajó oldalmagassága a válaszfalfedélzetig (méterben), amennyiben olyan hajó esetében, amely a válaszfalfedélzetén a hajó teljes hosszán zárt raktérrel és az 1.6.2. bekezdés követelményeinek megfelelően belső vízelvezetéssel rendelkezik, a D értéket a válaszfalfedélzet fölötti következő fedélzetig mérik. Ahol a zárt rakterek kisebb hosszúságúak, a D a hajó válaszfalfedélzetig tartó oldalmagassága plusz lh/L, ahol az I és a h a zárt rakterek összesített hossza, illetve szélessége.
 
 .2.9 Meg kell akadályozni, hogy a tereket elárassza a víz a fenékvízcső által, amennyiben a cső valamely másik térben tönkremegy, illetve más módon, összeütközés következtében vagy zátonyrafutás miatt megsérül. Ezért ha a cső egy részének a hajó oldalától mért távolsága a hajó szélességének egyötödénél közelebb (a legmagasabb térfelosztási merülésvonal szintjén lévő középvonaltól derékszögben mérve), illetve az egy alagútgerincben van elhelyezve, visszacsapó szelepet kell felszerelni abban a térben, ahol a fenékvízcső található.
 
@@ -980,9 +1016,9 @@ ahol:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-| 250 utasig: | egy főgépről hajtott szivattyú és egy, a géptéren kívül elhelyezett és működtetett, független gépi hajtású szivattyú |
+250 utasig: egy főgépről hajtott szivattyú és egy, a géptéren kívül elhelyezett és működtetett, független gépi hajtású szivattyú
 
-| 250 utas fölött: | egy főgépről hajtott szivattyú és két független gépi hajtású szivattyú, amelyek közül az egyiket a géptéren kívül kell elhelyezni és működtetni. |
+250 utas fölött: egy főgépről hajtott szivattyú és két független gépi hajtású szivattyú, amelyek közül az egyiket a géptéren kívül kell elhelyezni és működtetni.
 
 A főgépről hajtott szivattyú egy független gépi szivattyúval helyettesíthető.
 
@@ -1008,7 +1044,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .2.1 megfelelő szilárdságú és képes a hajót a legnagyobb előremeneti sebességben irányítani, továbbá olyan tervezésű, hogy a legnagyobb hátrameneti sebességnél sem károsodik;
 
-.2.2 alkalmas arra, hogy a legnagyobb üzemi merülés mellett kihajtsa kormánylapátot az egyik oldalról 35°-ról a másik oldalra 35°-ra, miközben a hajó legnagyobb előremeneti sebességgel halad, továbbá ugyanilyen körülmények között bármelyik oldalról 35°-ról a másik oldalra 30°-ig legfeljebb 28 másodperc alatt;
+.2.2 alkalmas arra, hogy a legnagyobb üzemi merülés mellett kihajtsa a kormánylapátot az egyik oldalról 35°-ról a másik oldalra 35°-ra, miközben a hajó legnagyobb előremeneti sebességgel halad, továbbá ugyanilyen körülmények között bármelyik oldalról 35°-ról a másik oldalra 30°-ig legfeljebb 28 másodperc alatt;
 
 .2.3 gépi hajtású, hogy szükség esetén megfeleljen a .2.2.2 bekezdés követelményeinek; továbbá gépi hajtású minden olyan esetben, amikor a .2.2.1 bekezdés követelményeinek betartása érdekében a kormányrúd csatlakozásánál 120 mm-nél nagyobb átmérőjű kormányszár szükséges, kivéve a jégben való hajózáshoz megerősített kormányt.
 
@@ -1034,7 +1070,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .1 a főüzemi kormányberendezés képes a .2.2 bekezdés követelményeinek megfelelően működtetni a kormányt, ha a hajtó egységek valamelyike nem működik;
 
-.2 a főüzemi kormányberendezés kialakítása olyan, hogy a csőrendszerében vagy az egyik hajtó egységében bekövetkező hiba elkülöníthető, s így a kormányozhatóság fenntartható vagy gyorsan helyre állítható.
+.2 a főüzemi kormányberendezés kialakítása olyan, hogy a csőrendszerében vagy az egyik hajtó egységében bekövetkező hiba elkülöníthető, s így a kormányozhatóság fenntartható vagy gyorsan helyreállítható.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
@@ -1132,15 +1168,15 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .1 A hajó hajtása és biztonsága szempontjából alapvető fontosságú fő- és segédgépeket a működésükhöz és vezérlésükhöz szükséges hatékony berendezésekkel kell felszerelni.
 
-.2 Amennyiben a a hajót hajtó gépek a parancsnoki hídról távvezérelhetők, a géptérben pedig kezelőszemélyzet igénybevételét tervezik, a következőket kell alkalmazni:
+.2 Amennyiben a hajót hajtó gépek a parancsnoki hídról távvezérelhetők, a géptérben pedig kezelőszemélyzet igénybevételét tervezik, a következőket kell alkalmazni:
 
 .1 a hajócsavar fordulatszáma, tolóerejének iránya, és amennyiben alkalmazható, a csavarszárny emelkedése minden hajózási körülmény között (a manőverezést is beleértve) teljes mértékben vezérelhető a parancsnoki hídról;
 
-.2 minden egyes független hajócsavar távvezérlő berendezését úgy kell megtervezni és megépíteni, hogy működése ne igényelje a gépek működési módjának külön megfigyelését. Amennyiben több hajócsavart egyidejű működésre terveztek, azok egy vezérlőberendezéssel is irányíthatók
+.2 minden egyes független hajócsavar távvezérlő berendezését úgy kell megtervezni és megépíteni, hogy működése ne igényelje a gépek működési módjának külön megfigyelését. Amennyiben több hajócsavart egyidejű működésre terveztek, azok egy vezérlőberendezéssel is irányíthatók;
 
-.3 a főgépet el kell látni egy a parancsnoki hídon elhelyezett vészleállító berendezéssel, amely független a parancsnoki híd távvezérlő-rendszerétől;
+.3 a főgépet el kell látni egy a parancsnoki hídon elhelyezett vészleállító berendezéssel, amely független a parancsnoki híd távvezérlőrendszerétől;
 
-.4 a parancsnoki híd hajtóművekre vonatkozó utasításait jelezni kell a hajtóművek vezérlőtermében vagy — annak megfelelően, hogy melyik a célszerűbb — a vezérlőállásban;
+.4 a parancsnoki híd hajtóművekre vonatkozó utasításait jelezni kell a hajtóművek vezérlőtermében vagy - annak megfelelően, hogy melyik a célszerűbb - a vezérlőállásban;
 
 .5 a hajót hajtó gépek távvezérlésére egy időben csak egy helyről legyen mód; ezeken helyeken megengedettek az egymással összekapcsolt vezérlőállások. Minden helyen fel kell szerelni egy jelzőberendezést, amelyik megmutatja, hogy melyik vezérlőállás vezérli a hajót hajtó gépet. A parancsnoki híd és a gépterek közötti vezérlés átkapcsolása csak a főgéptérben vagy a főgépek vezérlőhelyén lehetséges. Ezt a rendszert olyan berendezéssel is el kell látni, amely meggátolja, hogy a hajócsavar tolóereje lényegesen megváltozzon, amikor a vezérlést átkapcsolják;
 
@@ -1152,43 +1188,53 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .1 nem állítható szárnyú hajócsavar esetén mutatják a hajócsavar sebességét és forgásirányát;
 
-.2 állítható szárnyú hajócsavar esetén mutatják a hajócsavar sebességét és a szárnyakemelkedését;
+.2 állítható szárnyú hajócsavar esetén mutatják a hajócsavar sebességét és a szárnyak emelkedését;
 
 .9 riasztóberendezést kell elhelyezni a parancsnoki hídon és a géptérben, ami jelzi az indító levegő alacsony nyomását, amelyet úgy kell beállítani, hogy lehetőség legyen további motorok beindítására. Ha a hajtó gépek távvezérlő rendszerét önindításúra tervezték, az egymást követő eredménytelen indítási próbálkozások számát korlátozni kell, hogy elegendő indító levegő maradjon a helyi indítás számára.
 
-.3 Amennyiben a főgépek és a kapcsolódó gépi berendezések, beleértve a központi áramforrást is, különböző szintű automatizált és távvezérlő rendszerrel vannak ellátva, és azokat a vezérlőteremből állandóan személyzet felügyeli, a berendezéseket és vezérlőszerveket úgy kell meg-tervezni, felszerelni és elhelyezni, hogy a gépek működése olyan biztonságos és hatékony legyen, mintha közvetlen felügyelet alatt állna; e célból a II-1/E/1–II-1/E/5. szabályt kell alkalmazni. Különös figyelmet kell fordítani e terek tűz és elárasztás elleni védelmére.
+.3 Amennyiben a főgépek és a kapcsolódó gépi berendezések, beleértve a központi áramforrást is, különböző szintű automatizált és távvezérlő rendszerrel vannak ellátva, és azokat a vezérlőteremből állandóan személyzet felügyeli, a berendezéseket és vezérlőszerveket úgy kell megtervezni, felszerelni és elhelyezni, hogy a gépek működése olyan biztonságos és hatékony legyen, mintha közvetlen felügyelet alatt állna; e célból a II-1/E/1-II-1/E/5. szabályt kell alkalmazni. Különös figyelmet kell fordítani e terek tűz és elárasztás elleni védelmére.
 
 .4 Az önindítót, a működtető és vezérlő rendszereket általában úgy kell kialakítani, hogy az automatikus vezérlést át lehessen kapcsolni kézi irányításra. A rendszer egy részének meghibásodása nem akadályozhatja meg a kézi vezérlésre való átkapcsolást.
 
 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
-.5 A hajók megfelelnek a következőképpen módosított .1–.4 bekezdés követelményeinek:
+.5 A hajó hajtása, vezérlése és biztonsága szempontjából alapvető fontosságú fő- és segédgépeket a működésükhöz és vezérlésükhöz szükséges hatékony berendezésekkel kell felszerelni. A hajó hajtása, vezérlése és biztonsága szempontjából alapvető fontosságú vezérlőrendszerek függetlenek, illetve olyan kialakításúak, hogy az egyik rendszer meghibásodása nem befolyásolja a többi rendszer teljesítményét.
 
-.1 az .1 bekezdés helyébe a következő szöveg lép:
+.6 Amennyiben a hajtóművet a parancsnoki hídró távvezérléssel iránytják, a következő feltételeknek kell megfelelni:
 
-„.1 A hajó hajtása, vezérlése és biztonsága szempontjából alapvető fontosságú fő- és segéd gépeket a működésükhöz és vezérlésükhöz szükséges hatékony berendezésekkel kell felszerelni. A hajó hajtása, vezérlése és biztonsága szempontjából alapvető fontosságú vezérlőrendszerek függetlenek, illetve olyan kialakításúak, hogy az egyik rendszer meghibásodása nem befolyásolja a többi rendszer teljesítményét.”
+1. a hajócsavar fordulatszáma, tolóerejének iránya, és amennyiben alkalmazható, a csavarszárny emelkedése minden hajózási körülmény között (a manőverezést is beleértve) teljes mértékben vezérelhető a parancsnoki hídról;
 
-.2 a .2 bekezdés első és második sorában az „a géptérben pedig kezelőszemélyzet igénybevételét tervezik” szavakat el kell hagyni.
+2. a vezérlést egyetlen vezérlőkészülék végzi minden egyes független hajócsavar esetében, az ezzel összefüggő folyamatok pedig – szükség esetén a hajtómű túlterhelését meggátló berendezést is beleértve – automatikusan működnek. Amennyiben több hajócsavart egyidejű működésre terveztek, azok egy vezérlőberendezéssel is irányíthatók;
 
-.3 a 2.2 alpontban az első mondat helyébe a következő szöveg lép:
+3. a főgépet el kell látni egy, a parancsnoki hídon elhelyezett vészleállító berendezéssel, amely független a parancsnoki híd távvezérlő rendszerétől;
 
-„.2 a vezérlést egyetlen vezérlőkészülék végzi minden egyes független hajócsavar esetében, az ezzel összefüggő folyamatok pedig — szükség esetén a hajtómű túlterhelését meggátló berendezést is beleértve — automatikusan működnek.”
+4. a parancsnoki hídnak a hajtóműre vonatkozó utasításait jelezni kell a hajtóművek vezérlőtermében és a vezérlőállásban;
 
-.4 a 2.4 bekezdés helyébe a következő szöveg lép:
+5. a hajót hajtó gépek távvezérlésére egy időben csak egy helyről legyen mód; ezeken a helyeken megengedettek az egymással összekapcsolt vezérlőállások. Minden helyen fel kell szerelni egy jelzőberendezést, amelyik megmutatja, hogy melyik vezérlőállás vezérli a hajót hajtó gépet. A parancsnoki híd és a gépterek közötti vezérlés átkapcsolása csak a főgéptérben vagy a főgépek vezérlőhelyén lehetséges. Ezt a rendszert olyan berendezéssel is el kell látni, amely meggátolja, hogy a hajócsavar tolóereje lényegesen megváltozzon, amikor a vezérlést átkapcsolják;
 
-„.4 a parancsnoki hídnak a hajtóműre vonatkozó utasításait jelezni kell a hajtóművek vezérlőtermében és a vezérlő állásban;”
+6. lehetővé kell tenni, hogy a hajót hajtó gépet a helyszínen is vezérelni tudják még akkor is, ha a távvezérlő rendszer valamelyik része meghibásodik;
 
-.5 a 2.6 bekezdés a következő mondattal egészül ki:
+A hajó hajtása és biztonsága érdekében szükséges, hogy a segédgépeket az adott gép mellől vagy annak közeléből is vezérelni tudják;
 
-„A hajó hajtása és biztonsága érdekében szükséges, hogy a segéd gépeket az adott gép mellől vagy annak közeléből is vezérelni tudják”;
+7. a távvezérlő rendszert úgy kell megtervezni, hogy az meghibásodása esetén figyelmeztető jelet adjon. A hajócsavarok tolóerejének előre beállított forgásiránya és sebessége nem változhat addig, amíg a helyi vezérlés működésbe lép;
 
-.6 a 2.8, 2.8.1 és 2.8.2 bekezdés helyébe a következő szöveg lép:
+8. jelzőberendezést kell felszerelni a parancsnoki hídon, a hajtóművek vezérlőterében és a vezérlőállásban, hogy:
 
-„.8 jelzőberendezést kell felszerelni a parancsnoki hídon, a hajtóművek vezérlőterében és a vezérlő állásban, hogy:
+1. nem állítható szárnyú hajócsavar esetén jelezze a hajócsavar sebességét és forgásirányát; és
 
-8.1 nem állítható szárnyú hajócsavar esetén jelezze a hajócsavar sebességét és forgásirányát és
+2. állítható szárnyú hajócsavar esetén jelezze a hajócsavar sebességét és a szárnyak emelkedését;
 
-8.2 állítható szárnyú hajócsavar esetén jelezze a hajócsavar sebességét és a szárnyak emelkedését.”
+és
+
+9. riasztóberendezést kell elhelyezni a parancsnoki hídon és a géptérben, ami jelzi az indítólevegő alacsony nyomását, amelyet úgy kell beállítani, hogy lehetőség legyen további motorok beindítására. Ha a hajtógépek távvezérlő rendszerét önindításúra tervezték, az egymást követő eredménytelen indítási próbálkozások számát korlátozni kell, hogy elegendő indítólevegő maradjon a helyi indítás számára.
+
+.7 Amennyiben a főgépek és a kapcsolódó gépi berendezések, beleértve a központi áramforrást is, különböző szintű automatizált és távvezérlő rendszerrel vannak ellátva, és azokat a vezérlőteremből állandóan személyzet felügyeli, a berendezéseket és vezérlőszerveket úgy kell megtervezni, felszerelni és elhelyezni, hogy a gépek működése olyan biztonságos és hatékony legyen, mintha közvetlen felügyelet alatt állna; e célból a II-1/E/1-II-1/E/5. Szabályt kell alkalmazni. Különös figyelmet kell fordítani e terek tűz és elárasztás elleni védelmére.
+
+.8 Az önindítót, a működtető- és vezérlőrendszereket úgy kell kialakítani, hogy az automatikus vezérlést át lehessen kapcsolni kézi irányításra. A rendszer egy részének meghibásodása nem akadályozhatja meg a kézi vezérlésre való átkapcsolást.
+
+2012. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT 24 MÉTERES VAGY ANNÁL HOSSZABB B., C. ÉS D KATEGÓRIÁJÚ HAJÓK:
+
+.9 A 2012. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajók automatizált rendszereinek tervezésekor biztosítani kell, hogy a navigációs őrszolgálatot teljesítő tiszt megfelelő időben riasztást kapjon a hajtómű teljesítménycsökkenésének vagy leállásának közelgő vagy közvetlen bekövetkeztéről, annak érdekében, hogy vészhelyzet esetén felmérhesse a navigációs körülményeket. A rendszereknek különösen a hajtóművek működését kell felügyelniük, ellenőrizniük azt, jelenteni róla, figyelmeztetni rá és megtenni a lassításhoz vagy megálláshoz szükséges biztonsági intézkedéseket, lehetővé téve a navigációs őrszolgálatot teljesítő tisztnek, hogy manuálisan közbelépjen, azon esetek kivételével, amikor a manuális közbelépés rövid időn belül a hajtómű, illetve a meghajtó berendezések teljes körű meghibásodásához vezetnének, így például sebességtúllépés esetén.
 
 13. Gőzvezetékrendszerek (R 33)
 
@@ -1210,9 +1256,9 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .3 Az indító levegő kompresszorainak kivezető csöveit közvetlenül az indító légtartályokba kell bekötni, és a légtartályok indító kivezető csöveit pedig, amelyek a fő- és segéd motorokhoz vezetnek, teljesen el kell különíteni a kompresszor kivezető csőrendszerétől.
 
-.4 A lehető legkisebbre kell csökkenteni az olaj bejutásának esélyét a sürített levegő rendszerekbe, a vízmentesítésüket pedig meg kell oldani.
+.4 A lehető legkisebbre kell csökkenteni az olaj bejutásának esélyét a sűrített levegő rendszerekbe, a vízmentesítésüket pedig meg kell oldani.
 
-15. Zaj elleni védelem (R 36)[^28]
+15. Zaj elleni védelem (R 36)
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
@@ -1246,7 +1292,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .3 biztosítani kell az utasok, a személyzet és a hajó biztonságát villamos veszély esetén.
 
-.2 A hajózási hatóság meghozza a szükséges lépéseket annak érdekében, hogy biztosítsa a villamos berendezésekre vonatkozó rész rendelkezéseinek egységes megvalósítását és alkalmazását[^29].
+.2 A hajózási hatóság meghozza a szükséges lépéseket annak érdekében, hogy biztosítsa a villamos berendezésekre vonatkozó rész rendelkezéseinek egységes megvalósítását és alkalmazását.
 
 2. A villamos áram és a világítás forrása (R 41)
 
@@ -1262,7 +1308,11 @@ A 24 méternél rövidebb C. és D. kategóriájú új hajóknál az egyik áram
 
 .2.3 A vészvilágítási rendszert úgy kell kialakítani, hogy a vészüzemi áramforrást, adott esetben a hozzá kapcsolódó transzformáló berendezéseket, a vészüzemi kapcsolótáblát és a vészvilágítási kapcsolótáblát magában foglaló terekben keletkezett tűz vagy más baleset esetén az ebben a pontban előírt fő villamos világítási rendszert ne tegye működésképtelenné.
 
-.3 A főkapcsolótáblát az egyik fő áramfejlesztő gépcsoporttól olyan távolságra kell elhelyezni, hogy — amennyire kivitelezhető — a szokásos villamos energiaellátást csak az a tűz vagy sérülés akadályozhassa, amely az áramfejlesztő gépcsoportot és a kapcsolótáblát magában foglaló terekben alakult ki.
+.3 A főkapcsolótáblát az egyik fő áramfejlesztő gépcsoporttól olyan távolságra kell elhelyezni, hogy - amennyire kivitelezhető - a szokásos villamos energiaellátást csak az a tűz vagy sérülés akadályozhassa, amely az áramfejlesztő gépcsoportot és a kapcsolótáblát magában foglaló terekben alakult ki.
+
+2012. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK
+
+4. A 2012. január 1-jén vagy azt követően épített B., C. és D. kategóriájú hajókon kiegészítő megvilágítást kell kialakítani minden helységben, amely egyértelműen mutatja a kijáratot, lehetővé téve az utasok számára az ajtók megtalálását. Amennyiben a kabin rendes világításának áramellátása megszűnik, a kiegészítő világításnak automatikusan be kell kapcsolnia és legalább 30 percig üzemelnie kell, akár vészüzemi, akár saját áramforrásból.
 
 3. Vészüzemi áramforrás (R 42)
 
@@ -1270,11 +1320,13 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .1 Minden hajót fel kell szerelni egy vészüzemi áramforrással és vészüzemi kapcsolótáblával, amely egy olyan jól hozzáférhető helyen van elhelyezve a válaszfalfedélzet felett, amely nem határos A. kategóriájú géptérrel vagy azokkal a terekkel, amelyekben a főüzemi áramforrást vagy a főkapcsolótáblát helyezték el.
 
-.2 A vészüzemi áramforrás lehet egy akkumulátor, amely újratöltés vagy túlzott mértékű feszültségveszteség nélkül megfelel az .5 bekezdés követelményeinek, vagy pedig egy generátor, amely megfelel az .5 bekezdés követelményeinek, és amelyet egy független, legalább 43 °C lobbanáspontú tüzelőanyaggal hajtott belsőégésű motor működtet, amelyet az új hajók esetében automatikus indítószerkezettel, a meglévő hajók esetében pedig jóváhagyott indítószerkezettel, továbbá a .6 bekezdésnek megfelelően átmeneti (puffer) vészüzemi áramforrással láttak el, amennyiben — a 24 méternél rövidebb C. és D. kategóriájú új hajók esetében — az említett pontokban előírt időtartamig nem biztosítanak egy megfelelően elhelyezett független akkumulátor berendezést e fogyasztó számára.
+.1 Az 1. bekezdés követelményeinek nem kell megfelelni, amennyiben a hajót két teljesen különálló, legalább egy vízmentes, tűzálló részleggel és két válaszfallal vagy olyan alternatív építménnyel elkülönített géptérrel tervezték, amely azonos szintű biztonságot garantál, és amennyiben valamennyi géptér saját generátorral és hozzátartozó kapcsolótáblával rendelkezik.
+
+.2 A vészüzemi áramforrás lehet egy akkumulátor, amely újratöltés vagy túlzott mértékű feszültségveszteség nélkül megfelel az .5 bekezdés követelményeinek, vagy pedig egy generátor, amely megfelel az .5 bekezdés követelményeinek, és amelyet egy független, legalább 43 °C lobbanáspontú tüzelőanyaggal hajtott belsőégésű motor működtet, amelyet az új hajók esetében automatikus indítószerkezettel, a meglévő hajók esetében pedig jóváhagyott indítószerkezettel, továbbá a .6 bekezdésnek megfelelően átmeneti (puffer) vészüzemi áramforrással láttak el, amennyiben - a 24 méternél rövidebb C. és D. kategóriájú új hajók esetében - az említett pontokban előírt időtartamig nem biztosítanak egy megfelelően elhelyezett független akkumulátor berendezést e fogyasztó számára.
 
 .3 A vészüzemi áramforrást úgy kell kialakítani, hogy hatékonyan működjön akkor is, ha a hajó dőlésszöge 22,5°, vagy ha a hajó trimmje az egyenes úszáshelyzethez viszonyítva 10°. A vészüzemi áramfejlesztő gépcsoport(ok) beindítható(k) legyen(ek) bármilyen hideg körülmények között, ami a hajó üzemeltetése során előfordulhat, új hajók esetén pedig automatikusan is beindítható(k) legyen(ek).
 
-.4 A vészüzemi kapcsolótáblát úgy kell elhelyezni, hogy a lehető legközelebb legyen az vészüzemi áramforráshoz.
+.4 A vészüzemi kapcsolótáblát úgy kell elhelyezni, hogy a lehető legközelebb legyen a vészüzemi áramforráshoz.
 
 .5 Az .1 alpontban előírt vészüzemi áramforrás:
 
@@ -1286,13 +1338,13 @@ C. kategóriájú (új) hajók esetében 6 órán át
 
 D. kategóriájú (új) hajók esetében 3 órán át
 
-.2 különösen alkalmas arra, hogy egyidejűleg ellássa a következő szolgáltatások fogyasztóit a hajókategóriájonként fent megadott időtartamoknak megfelelően:
+.2 különösen alkalmas arra, hogy egyidejűleg ellássa a következő szolgáltatások fogyasztóit a hajókategóriánként fent megadott időtartamoknak megfelelően:
 
-a) a hajó vészüzemi fenékvízszivattyúját és az egyik tűzoltó szivattyút;
+a) egy önálló, gépi vezérlésű fenékszivattyút és az egyik tűzoltó szivattyút;
 
 b) a vészvilágítást:
 
-1. minden gyülekezési- vagy beszállóhelyen, és a hajóoldalak mentén;
+1. minden gyülekezési- vagy beszállóhelyen, és a hajóoldalak mentén, a III/5.3. szabály előírásai szerint;
 
 2. a gyülekezési- vagy beszállóhelyekhez vezető folyosóknál, lépcsőknél vagy kijáratoknál;
 
@@ -1304,7 +1356,7 @@ b) a vészvilágítást:
 
 6. a tűzvédelmi felszerelések tárolóhelyein;
 
-7. az a) pontban meghatározott vészüzemi fenékvíz-szivattyúnál és az egyik tűzoltó szivattyúnál, valamint motorjainak indító helyén;
+7. az a) pontban meghatározott vészüzemi fenékvízszivattyúnál és az egyik tűzoltó szivattyúnál, valamint motorjainak indító helyén;
 
 c) a hajó navigációs lámpáit;
 
@@ -1324,7 +1376,7 @@ f) a hajó nappali jelző fényeit, amennyiben azokat a hajó központi áramfor
 
 .6 A .2 alpontban előírt átmeneti vészüzemi áramforrás egy akkumulátorból áll, amely a vészhelyzetben való felhasználásra alkalmas helyen van elhelyezve, és újratöltés vagy mértékű feszültségveszteség nélkül fél órán át működtetni tudja a következőket:
 
-a) az e pont.2(b)1 bekezdésében előírt világítás;
+a) az e pont 2(b)1 bekezdésében előírt világítás;
 
 b) a II-1. fejezet B része 13. pontja .7.2 és .7.3 alpontjában előírt vízmentes ajtók, de nem szükségszerűen egyidejűleg, hacsak nem áll rendelkezésre egy különálló ideiglenesen tárolt áramforrás; és
 
@@ -1332,15 +1384,15 @@ c) a II-1. B része 13. pontja .7.2 alpontjában előírt vezérlő, jelző és 
 
 .7 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
-Amennyiben villamos energia szükséges a hajtás helyreállításához, annak teljesítményének elegendőnek kell lennie ahhoz, hogy mozgásképtelen állapotból az áramforrás kiesését követő 30 percen belül — adott esetben egyéb gépekkel együtt — helyreállítsa a hajó hajtását.
+Amennyiben villamos energia szükséges a hajtás helyreállításához, annak teljesítményének elegendőnek kell lennie ahhoz, hogy mozgásképtelen állapotból az áramforrás kiesését követő 30 percen belül - adott esetben egyéb gépekkel együtt - helyreállítsa a hajó hajtását.
 
 4. Kiegészítő vészvilágítás a Ro-Ro hajók számára (R 42-1)
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-A II-1 fejezet D része 3.5.2.b) pontjában előírt vészvilágítás mellett minden Ro-Ro raktérrel vagy speciális kategóriájú terekkel rendelkező hajón:
+A II-1. fejezet D része 3.5.2.b) pontjában előírt vészvilágítás mellett minden Ro-Ro raktérrel vagy speciális kategóriájú terekkel rendelkező hajón:
 
-.1 minden utasteret és folyosót el kell látni olyan kiegészítő villanyvilágítással, amely legalább három órán át működik, a hajó bármely dőlésszöge esetén akkor, ha minden más áramforrás meghibásodik. A megvilágítást úgy kell felszerelni, hogy a menekülési útvonalak jól láthatók legyenek. A kiegészítő világítás áramforrásául olyan akkumulátornak kell szolgálnia, amelyek a világítóegységekben vannak elhelyezve, és — amennyiben kivitelezhető — folyamatosan töltődnek a vészkapcsolótábláról. A hajózási hatóság más, legalább ennyire hatékony megvilágítási rendszert is elfogadhat. A kiegészítő megvilágítást úgy kell kialakítani, hogy a lámpa meghibásodása azonnal látható legyen. Az akkumulátorokat bizonyos időközönként ki kell cserélni, figyelembe véve az üzemi környezet által meghatározott élettartamukat; és
+.1 minden utasteret és folyosót el kell látni olyan kiegészítő villanyvilágítással, amely legalább három órán át működik, a hajó bármely dőlésszöge esetén akkor, ha minden más áramforrás meghibásodik. A megvilágítást úgy kell felszerelni, hogy a menekülési útvonalak jól láthatók legyenek. A kiegészítő világítás áramforrásául olyan akkumulátornak kell szolgálnia, amelyek a világítóegységekben vannak elhelyezve, és - amennyiben kivitelezhető - folyamatosan töltődnek a vészkapcsolótábláról. A hajózási hatóság más, legalább ennyire hatékony megvilágítási rendszert is elfogadhat. A kiegészítő megvilágítást úgy kell kialakítani, hogy a lámpa meghibásodása azonnal látható legyen. Az akkumulátorokat bizonyos időközönként ki kell cserélni, figyelembe véve az üzemi környezet által meghatározott élettartamukat; és
 
 .2 a személyzeti lakótér minden folyosóját, pihenőtereit és minden használatban lévő munkaterületet egy hordozható, újratölthető akkumulátorral működő lámpával kell felszerelni, kivéve ha az .1 alpontban előírt kiegészítő vészvilágítás fel van szerelve.
 
@@ -1368,7 +1420,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.5.3 A főüzemi, illetve. a vészüzemi áramellátást, a világítást, a belső kapcsolattartást vagy jelzéseket ellátó kábeleket és vezetékeket, amennyire kivitelezhető, a konyhán, mosodákon, A. kategóriájú géptereken és azok aknáin, vagy más rendkívül tűzveszélyes területen kívül kell elvezetni. Az új és a meglévő Ro-Ro személyhajókra ezen irányelv 14. cikke (1) bekezdésében meghatározott időpontban vagy azt követően felszerelt vészjelzőket és hangosbeszélő rendszereket a hajózási hatóság hagyja jóvá, tekintettel a Nemzetközi Tengerészeti Szervezet ajánlásaira. A tűzoltó szivattyúkat a vészüzemi kapcsolótáblával összekötő kábeleket úgy kell kialakítani, hogy tűzállóak legyenek, amennyiben azok fokozottan tűzveszélyes tereken haladnak keresztül. Ahol kivitelezhető, ezeket a kábeleket úgy kell fektetni, hogy ne váljanak üzemképtelenné, ha a válaszfalak a szomszédos térben keletkezett tűz miatt felhevülnek.
+.5.3 A főüzemi, illetve a vészüzemi áramellátást, a világítást, a belső kapcsolattartást vagy jelzéseket ellátó kábeleket és vezetékeket, amennyire kivitelezhető, a konyhán, mosodákon, A. kategóriájú géptereken és azok aknáin, vagy más rendkívül tűzveszélyes területen kívül kell elvezetni. Az új és a meglévő Ro-Ro személyhajókra 1998. július 1-je vagy azt követően felszerelt vészjelzőket és hangosbeszélő rendszereket a hajózási hatóság hagyja jóvá, tekintettel a Nemzetközi Tengerészeti Szervezet ajánlásaira. A tűzoltó szivattyúkat a vészüzemi kapcsolótáblával összekötő kábeleket úgy kell kialakítani, hogy tűzállóak legyenek, amennyiben azok fokozottan tűzveszélyes tereken haladnak keresztül. Ahol kivitelezhető, ezeket a kábeleket úgy kell fektetni, hogy ne váljanak üzemképtelenné, ha a válaszfalak a szomszédos térben keletkezett tűz miatt felhevülnek.
 
 .6 A kábeleket és vezetékeket úgy kell felszerelni és rögzíteni, hogy elkerüljék a súrlódási vagy egyéb károsodást. A vezetők végződéseit és csatlakozásait úgy kell kivitelezni, hogy az eredeti villamos, mechanikai, lángkésleltetési, és ahol szükséges, tűzálló tulajdonságaik megmaradjanak.
 
@@ -1386,15 +1438,27 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .9 Az áramelosztó-rendszert úgy kell kialakítani, hogy az egyik függőleges főzónában keletkező tűz az A. rész II-2. fejezete 2.9. pontjában meghatározottak szerint ne akadályozza a másik függőleges zónában a fontos berendezések biztonságát. Ezen előírás akkor teljesül, ha az ezeken a zónákon áthaladó fő- és vészüzemi villamos vezetékeket mind vízszintesen, mind függőlegesen a lehető legtávolabb vezetik egymástól.
 
+2012. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+
+.10 Nem szabad elektromos készülékeket olyan terekben elhelyezni, ahol gyúlékony keverékek felgyülemlésére lehet számítani, így az elsődlegesen az akkumulátorok elhelyezésére használt részlegekben, a festék-, illetve acetilén-tárolókban és hasonló rendeltetésű helységekben, azon esetek kivételével, amikor a hatóságok meggyőződtek arról, hogy a készülékek:
+
+1. alapvető fontossággal bírnak az üzemeltetés szempontjából;
+
+2. jellegükből kifolyólag nem lobbantják be a kérdéses keverékeket;
+
+3. megfelelnek a helység adottságainak; és
+
+4. megfelelő tanúsítvánnyal rendelkeznek a környezetükben várhatóan jelen lévő poros, gőzös és gázos közegben való biztonságos működésről.
+
 E. RÉSZ
 
-AZ IDŐSZAKOSAN FELÜGYELET NÉLKÜL HAGYOTT GÉPTEREKRE VONATKOZÓ KIEGÉSZÍTŐ KÖVETELMÉNYEK
+IDŐSZAKOSAN FELÜGYELET NÉLKÜL HAGYOTT GÉPTÉRREL RENDELKEZŐ HAJÓRA VONATKOZÓ KIEGÉSZÍTŐ KÖVETELMÉNYEK
 
 Különleges megfontolások (R 54)
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-A lobogó szerinti állam hajózási hatóságának meg kell vizsgálnia, hogy a B., C. és D. kategóriájú új és B. kategóriájú meglévő hajók gépterei időszakosan felügyelet nélkül hagyhatók-e vagy sem, és amennyiben igen, szükség van-e az e pontban megállapítottakon kívül kiegészítő követelményekre annak érdekében, hogy a szokásos módon felügyelt terek számára megfelelő biztonságot érjenek el.
+A hajózási hatóságnak vizsgálnia kell, hogy a B., C. és D. kategóriájú új és B. kategóriájú meglévő hajók gépterei időszakosan felügyelet nélkül hagyhatók-e vagy sem, és amennyiben igen, szükség van-e az e pontban megállapítottakon kívül kiegészítő követelményekre annak érdekében, hogy a szokásos módon felügyelt terek számára megfelelő biztonságot érjenek el.
 
 1. Általános előírások (R 46)
 
@@ -1422,7 +1486,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.1 Az időszakosan felügyelet nélkül hagyott gépterekben a fenékvízkutakat úgy kell elhelyezni és figyelni, hogy a szokásos úszáshelyzet és dőlési szög mellett a folyadékok felgyülemlése jól érzékelhető legyen, a fenékvízkutak pedig kellően nagyok, hogy könnyen befogadják az felügyelet nélküli időszakokban átlagos körülmények között összegyűlt mennyiséget.
+.1 Az időszakosan felügyelet nélkül hagyott gépterekben a fenékvízkutakat úgy kell elhelyezni és figyelni, hogy a szokásos úszáshelyzet és dőlési szög mellett a folyadékok felgyülemlése jól érzékelhető legyen, a fenékvízkutak pedig kellően nagyok, hogy könnyen befogadják a felügyelet nélküli időszakokban átlagos körülmények között összegyűlt mennyiséget.
 
 .2 Ahol a fenékvízszivattyúk automatikusan beindíthatók, megfelelő berendezéssel jelezni kell, ha a folyadék beáramlása nagyobb mint a szivattyú kapacitása, vagy ha a szivattyú gyakrabban üzemel, mint az általában várható. Ezekben az esetekben kisebb fenékvízkutak alkalmazását kell engedélyezni a kritikus időszakok áthidalására. Ahol automatikusan vezérelt fenékvízszivattyúk működnek, különös figyelmet kell fordítani az olajszennyeződés megelőzését szolgáló követelményekre.
 
@@ -1434,9 +1498,9 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .1 A hajócsavar tolóereje irányának, sebességének és amennyiben alkalmazható, a hajócsavarszárnyak állásának minden hajózási körülmény között teljes mértékben vezérelhetőnek kell lennie a parancsnoki hídról, beleértve a manőverezést is.
 
-.1 A független hajócsavarok távvezérlését és minden ezzel összefüggő folyamatot egy külön vezérlő berendezés végzi valamennyi kiszolgáló berendezés automatikus működtetésével — beleértve adott esetben a hajtóművek túlterhelésének megakadályozását is.
+.1 A független hajócsavarok távvezérlését és minden ezzel összefüggő folyamatot egy külön vezérlő berendezés végzi valamennyi kiszolgáló berendezés automatikus működtetésével - beleértve adott esetben a hajtóművek túlterhelésének megakadályozását is.
 
-.2 a főgépeket a parancsnoki hídon elhelyezett vészleállító berendezéssel kell ellátni, amely független a parancsnoki híd távvezérlő-rendszerétől.
+.2 a főgépeket a parancsnoki hídon elhelyezett vészleállító berendezéssel kell ellátni, amely független a parancsnoki híd távvezérlőrendszerétől.
 
 .2 A parancsnoki hídról a hajót hajtó gépeknek adott utasításokat jelezni kell a főgépek vezérlőtermében vagy a gép vezérlőállásában.
 
@@ -1540,7 +1604,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .5 megfelelő és könnyen elérhető menekülési útvonalak biztosítása az utasok és a személyzet számára.
 
-.2 Az .1 alpontban felsorolt tűzbiztonsági célkitűzések elérése érdekében az e fejezet szabályaira a következő alapelvek a mérvadóak, és — figyelembe véve a hajók típusát és a lehetséges tűzveszélyeket — ezek valósulnak meg a szabályokban:
+.2 Az .1 alpontban felsorolt tűzbiztonsági célkitűzések elérése érdekében az e fejezet szabályaira a következő alapelvek a mérvadóak, és - figyelembe véve a hajók típusát és a lehetséges tűzveszélyeket - ezek valósulnak meg a szabályokban:
 
 .1 a hajó felosztása függőleges főzónákra hőszigetelő- és szerkezeti határvonalakkal;
 
@@ -1582,25 +1646,25 @@ B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.1 Nem éghető anyagnak minősül az az anyag, amely kb. 750 °C hőmérsékletre melegítve nem gyullad meg, vagy nem bocsát ki olyan mennyiségű tűzveszélyes gőzt, amely öngyulladáshoz vezetne; ez egy olyan tűzállósági vizsgálattal állapítható meg, amelyet a Nemzetközi Tengerészeti Szervezet A.799(19) határozatában közzétett, „Átdolgozott ajánlás a tengerhajózási építő anyagok nem éghető anyaggá minősítésének vizsgálati módszereiről” ajánlásnak megfelelően végeznek el. Minden más anyag éghető anyagnak minősül.
+.1 Nem éghető anyagnak minősül az az anyag, amely kb. 750 °C hőmérsékletre melegítve nem gyullad meg, vagy nem bocsát ki olyan mennyiségű tűzveszélyes gőzt, amely öngyulladáshoz vezetne; ez egy olyan tűzállósági vizsgálattal állapítható meg, amelyet a Nemzetközi Tengerészeti Szervezet A.799 (19) határozatában közzétett, „Átdolgozott ajánlás a tengerhajózási építő anyagok nem éghető anyaggá minősítésének vizsgálati módszereiről” ajánlásnak megfelelően végeznek el. Minden más anyag éghető anyagnak minősül.
 
 .1.a 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ESETÉBEN:
 
 Nem éghető anyag azt az anyagot jelenti, amely körülbelül 750 °C hőmérsékletre melegítve nem gyullad meg, vagy nem bocsát ki olyan mennyiségű tűzveszélyes gőzt, amely öngyulladáshoz vezetne; ennek megállapítása a Tűzvizsgálati próbaeljárások szabályzatának megfelelően történik. Minden más anyag éghető anyagnak minősül.
 
-.2 A szabványos tűzállósági vizsgálat során az érintett válaszfalak vagy fedélzetek mintáit egy vizsgálati kemencében olyan hőmérsékletnek teszik ki, amely megközelíti a szabványos idő-hőmérséklet diagrammot. A minta felülete legalább 4,65 m², magassága (vagy a fedélzet hossza) pedig legalább 2,44 méter, ami a leginkább hasonlít a tényleges szerkezeti felépítésre, s lehetőség szerint legalább egy csomópontot tartalmaz. A szabványos idő-hőmérséklet diagrammot a következő, a kemence belső hőmérsékletének pontjain át húzott folytonos görbe határozza meg:
+.2 A szabványos tűzállósági vizsgálat során az érintett válaszfalak vagy fedélzetek mintáit egy vizsgálati kemencében olyan hőmérsékletnek teszik ki, amely megközelíti a szabványos idő-hőmérséklet diagrammot. A minta felülete legalább 4,65 m2, magassága (vagy a fedélzet hossza) pedig legalább 2,44 méter, ami a leginkább hasonlít a tényleges szerkezeti felépítésre, s lehetőség szerint legalább egy csomópontot tartalmaz. A szabványos idő-hőmérséklet diagrammot a következő, a kemence belső hőmérsékletének pontjain át húzott folytonos görbe határozza meg:
 
-|  | a kemence kezdeti belső hőmérséklete: | 20 °C |
+| a kemence kezdeti belső hőmérséklete: | 20 °C |
 
-|  | az első 5 perc elteltével: | 576 °C |
+| az első 5 perc elteltével: | 576 °C |
 
-|  | 10 perc elteltével: | 679 °C |
+| 10 perc elteltével: | 679 °C |
 
-|  | 15 perc elteltével: | 738 °C |
+| 15 perc elteltével: | 738 °C |
 
-|  | 30 perc elteltével: | 841 °C |
+| 30 perc elteltével: | 841 °C |
 
-|  | 60 perc elteltével: | 945 °C |
+| 60 perc elteltével: | 945 °C |
 
 .2a 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
@@ -1614,35 +1678,35 @@ A szabványos tűzállósági vizsgálat során az érintett válaszfalak és fe
 
 .3 úgy vannak megépítve, hogy az egyórás szabványos tűzállósági vizsgálat végéig ellenálljanak a füst és láng áthatolásának;
 
-.4 engedélyezett nem éghető anyagokkal szigetelik úgy, hogy a védett oldal átlaghőmérséklete nem emelkedik 140°C-kal a kezdeti hőmérséklet fölé, a hőmérséklet pedig egyetlen ponton sem, így a csomópontnál sem, emelkedik 180°C-kal az eredeti hőmérséklet fölé az alábbiakban felsorolt időtartamok alatt:
+.4 engedélyezett nem éghető anyagokkal szigetelik úgy, hogy a védett oldal átlaghőmérséklete nem emelkedik 140 °C-kal a kezdeti hőmérséklet fölé, a hőmérséklet pedig egyetlen ponton sem, így a csomópontnál sem, emelkedik 180 °C-kal az eredeti hőmérséklet fölé az alábbiakban felsorolt időtartamok alatt:
 
-|  | „A-60” kategória: | 60 perc |
+| „A-60” kategória: | 60 perc |
 
-|  | „A-30” kategória: | 30 perc |
+| „A-30” kategória: | 30 perc |
 
-|  | „A-15” kategória: | 15 perc |
+| „A-15” kategória: | 15 perc |
 
-|  | „A-0” kategória: | 0 perc |
+| „A-0” kategória: | 0 perc |
 
-.5 A hajózási hatóság előírja a válaszfal vagy a fedélzet mintájának vizsgálatát annak biztosítása érdekében, hogy az megfeleljen az ellenálló képességre és a hőmérséklet-emelkedésre vonatkozó fent előírt követelményeknek a Nemzetközi Tengerészeti Szervezet A.754(18) határozatának megfelelően.
+.5 A hajózási hatóság előírja a válaszfal vagy a fedélzet mintájának vizsgálatát annak biztosítása érdekében, hogy az megfeleljen az ellenálló képességre és a hőmérséklet-emelkedésre vonatkozó fent előírt követelményeknek a Nemzetközi Tengerészeti Szervezet A.754 (18) határozatának megfelelően.
 
-A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú hajók esetében „a Nemzetközi Tengerészeti Szervezet A.754(18) határozata” szöveg helyébe a „Tűzvizsgálati próbaeljárások szabályzata” szöveg lép.
+A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú hajók esetében „a Nemzetközi Tengerészeti Szervezet A.754 (18) határozata” szöveg helyébe a „Tűzvizsgálati próbaeljárások szabályzata” szöveg lép.
 
 .4 A „B” kategóriájú térelválasztók azok a válaszfalak, fedélzetek, mennyezetek vagy burkolatok, amelyek megfelelnek a következő követelményeknek:
 
 .1 úgy vannak megépítve, hogy a szabványos tűzállósági vizsgálat első félórájának végéig ellenálljanak a füst és láng áthatolásának;
 
-.2 úgy vannak szigetelve, hogy a védett oldal átlaghőmérséklete nem emelkedik 140°C-kal a kezdeti hőmérséklet fölé, a hőmérséklet pedig egyetlen ponton sem, így a csomópontnál sem, emelkedik 225°C-kal az eredeti hőmérséklet fölé az alábbiakban felsorolt időtartamok alatt:
+.2 úgy vannak szigetelve, hogy a védett oldal átlaghőmérséklete nem emelkedik 140 °C-kal a kezdeti hőmérséklet fölé, a hőmérséklet pedig egyetlen ponton sem, így a csomópontnál sem, emelkedik 225 °C-kal az eredeti hőmérséklet fölé az alábbiakban felsorolt időtartamok alatt:
 
-|  | „B-15”kategória: | 15 perc |
+| „B-15” kategória: | 15 perc |
 
-|  | „B-0” kategória: | 0 perc |
+| „B-0” kategória: | 0 perc |
 
 .3 engedélyezett nem éghető anyagokból készülnek, a „B” kategóriájú térelválasztó megszerkesztése és összeszerelése során felhasznált összes anyag pedig nem éghető összetevőkből készül, kivéve azokat az éghető furnérokat, amelyek abban az esetben engedélyezettek, ha megfelelnek az e fejezet egyéb követelményeinek;
 
-.4 a hajózási hatóság előírja a térelválasztó mintájának vizsgálatát annak biztosítása érdekében, hogy az megfeleljen az ellenálló képességre és a hőmérséklet-emelkedésre vonatkozó fent előírt követelményeknek a Nemzetközi Tengerészeti Szervezet A.754(18) határozatának megfelelően.
+.4 a hajózási hatóság előírja a térelválasztó mintájának vizsgálatát annak biztosítása érdekében, hogy az megfeleljen az ellenálló képességre és a hőmérséklet-emelkedésre vonatkozó fent előírt követelményeknek a Nemzetközi Tengerészeti Szervezet A.754 (18) határozatának megfelelően.
 
-A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú hajók esetében az „a Nemzetközi Tengerészeti Szervezet 754(18) határozata” szöveg helyébe a „Tűzvizsgálati próbaeljárások szabályzata” lép.
+A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú hajók esetében az „a Nemzetközi Tengerészeti Szervezet 754 (18) határozata” szöveg helyébe a „Tűzvizsgálati próbaeljárások szabályzata” lép.
 
 .5 A „C” kategóriájú térelválasztó az engedélyezett nem éghető anyagokból készült térelválasztót jelenti. Ezeknek nem kell megfelelniük sem a füst- és lángáteresztésre, sem pedig a hőmérséklet-emelkedésre vonatkozó követelményeknek. Az éghető furnérok alkalmazása megengedett, amennyiben az megfelel az e fejezet egyéb követelményeinek.
 
@@ -1650,11 +1714,11 @@ A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriáj�
 
 .7 Acél vagy egyéb egyenértékű anyag. Az „acél vagy egyéb egyenértékű anyag” megfogalmazásban az „egyenértékű anyag” azt a nem éghető anyagot jelenti, amely önmagában vagy a szigetelésének köszönhetően olyan szerkezeti és ellenállási tulajdonságokkal rendelkezik, amelyek a szabványos tűzállósági vizsgálat során megegyeznek az acél tulajdonságaival (pl. alumíniumötvözet megfelelő szigeteléssel).
 
-.8 Az alacsony lángterjedés azt jelenti, hogy az ilyen megjelölésű felület megfelelően korlátozza a láng terjedését; ezt a Nemzetközi Tengerészeti Szervezet A.653(16) határozatának megfelelően a válaszfal, a mennyezet és a fedélzet burkolóanyagain végrehajtott tűzvizsgálat határozza meg.
+.8 Az alacsony lángterjedés azt jelenti, hogy az ilyen megjelölésű felület megfelelően korlátozza a láng terjedését; ezt a Nemzetközi Tengerészeti Szervezet A.653 (16) határozatának megfelelően a válaszfal, a mennyezet és a fedélzet burkolóanyagain végrehajtott tűzvizsgálat határozza meg.
 
 .8.a 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
-A alacsony lángterjedés azt jelenti, hogy az ilyen megjelölésű felület megfelelően korlátozza a lángok terjedését; ennek megállapítása a Tűzvizsgálati próbaeljárások szabályzata alapján történik.
+Az alacsony lángterjedés azt jelenti, hogy az ilyen megjelölésű felület megfelelően korlátozza a lángok terjedését; ennek megállapítása a Tűzvizsgálati próbaeljárások szabályzata alapján történik.
 
 .9 Függőleges főzónák azok a szakaszok, amelyek a hajótestet, a felépítményeket és a fedélzeti házakat az „A” kategóriájú térelosztókkal részekre osztják, átlagos hosszúságuk és szélességük pedig általában nem haladja meg a 40 métert.
 
@@ -1680,7 +1744,7 @@ A alacsony lángterjedés azt jelenti, hogy az ilyen megjelölésű felület meg
 
 .17 Az időjárás fedélzet az a fedélzet, amely felülről és legalább két oldalról teljesen ki van téve az időjárásnak.
 
-.18 A speciális kategóriájú terek azok a zárt járműterek a válaszfal fedélzet alatt vagy felett, amelyekbe vagy amelyekből a járművek be- illetve kihajthatnak, s ahová az utasok is beléphetnek. A speciális kategóriájú terek egynél több fedélzeten is elhelyezkedhetnek, amennyiben a járművek számára szolgáló teljes szabad belmagasság nem haladja meg a 10 métert.
+.18 A speciális kategóriájú terek azok a zárt járműterek a válaszfal fedélzet alatt vagy felett, amelyekbe vagy amelyekből a járművek be-, illetve kihajthatnak, s ahová az utasok is beléphetnek. A speciális kategóriájú terek egynél több fedélzeten is elhelyezkedhetnek, amennyiben a járművek számára szolgáló teljes szabad belmagasság nem haladja meg a 10 métert.
 
 .19.1 Az A kategóriájú gépterek azok a terek és a hozzájuk tartozó aknák, amelyek magukban foglalják a következőket:
 
@@ -1726,9 +1790,9 @@ A alacsony lángterjedés azt jelenti, hogy az ilyen megjelölésű felület meg
 
 .2 minden szabadon álló bútor, mint például a székek, szófák, asztalok vázszerkezete nem gyúlékony anyagból készül;
 
-.3 a Nemzetközi Tengerészeti Szervezet A.471 (XII) határozatának és az A.563 (14) határozattal elfogadott módosításoknak megfelelően minden függöny vagy más függesztett textilanyag olyan minőségű, amely ellenáll a tűz terjedésének, és minősége nem rosszabb, mint a 0,8 kg/m² tömegű gyapjúszövet minősége;
+.3 a Nemzetközi Tengerészeti Szervezet A.471 (XII) határozatának megfelelően minden függöny vagy más függesztett textilanyag olyan minőségű, amely ellenáll a tűz terjedésének, és minősége nem rosszabb, mint a 0,8 kg/m2 tömegű gyapjúszövet minősége;
 
-A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú hajók esetében „a Nemzetközi Tengerészeti Szervezet A.471(XII) határozata és annak az A.563 (14) határozattal elfogadott módosításai” helyett a „Tűzvizsgálati próbaeljárások szabályzatát” kell alkalmazni;
+A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú hajók esetében „a Nemzetközi Tengerészeti Szervezet A.471 (XII) határozata” helyett a „Tűzvizsgálati próbaeljárások szabályzatát” kell alkalmazni;
 
 .4 a padlóburkolatok minősége olyan, hogy ellenállnak a tűz terjedésének, és ez a minőség nem rosszabb, mint az azonos célra alkalmazott egyenértékű gyapjúanyagé.
 
@@ -1738,9 +1802,9 @@ a padlóburkolatok alacsony lángterjedési jellemzőkkel rendelkeznek;
 
 .5 a válaszfalak, burkolatok és mennyezetek szabad felületei alacsony lángterjedési jellemzőkkel rendelkeznek; és
 
-.6 a Nemzetközi Tengerészeti Szervezet A.652(16) határozatának, „A kárpitozott bútorok tűzvizsgálati eljárásainak,” megfelelően a kárpitozott bútorok nem gyúlékonyak és ellenállnak a tűz terjedésének.
+.6 a Nemzetközi Tengerészeti Szervezet A.652 (16) határozatának, „A kárpitozott bútorok tűzvizsgálati eljárásainak,” megfelelően a kárpitozott bútorok nem gyúlékonyak és ellenállnak a tűz terjedésének.
 
-A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú hajók esetében az „a Nemzetközi Tengerészeti Szervezet A.652(16) határozat” szöveg helyébe a „Tűzvizsgálati próbaeljárások szabályzata” szöveg lép.
+A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú hajók esetében az „a Nemzetközi Tengerészeti Szervezet A.652 (16) határozat” szöveg helyébe a „Tűzvizsgálati próbaeljárások szabályzata” szöveg lép.
 
 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK ESETÉBEN:
 
@@ -1748,11 +1812,11 @@ A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriáj�
 
 .23 A Ro-Ro személyhajó olyan személyhajó, amely az e pontban meghatározott Ro-Ro rakterekkel vagy speciális kategóriájú terekkel rendelkezik.
 
-.24 A tűzvizsgálati próbaeljárások szabályzata a Nemzetközi Tengerészeti Szervezet Tengerészeti Biztonsági Bizottsága által az MSC.61 (67) határozattal elfogadott és a Nemzetközi Tengerészeti Szervezet által módosított Tűzállósági vizsgálatok alkalmazásának nemzetközi szabályzatát jelenti.
+.24 A tűzvizsgálati próbaeljárások szabályzata a Nemzetközi Tengerészeti Szervezet Tengerészeti Biztonsági Bizottsága által az MSC.61 (67) határozattal elfogadott és a Tűzállósági vizsgálatok alkalmazásának nemzetközi szabályzatát jelenti.
 
-.25 A Tűzbiztonsági rendszerek szabályzata a Nemzetközi Tengerészeti Szervezet Tengerészeti Biztonsági Bizottsága által az MSC.98 (73) határozattal elfogadott és a Nemzetközi Tengerészeti Szervezet által módosított változatát jelenti, amennyiben a módosításokat a jelenlegi SOLAS 1974/1978 VIII. cikkének, az I. fejezet kivételével, a mellékletre vonatkozó módosított eljárással kapcsolatos rendelkezéseinek megfelelően fogadják el és léptetik hatályba.
+.25 A Tűzbiztonsági rendszerek szabályzata a Nemzetközi Tengerészeti Szervezet Tengerészeti Biztonsági Bizottsága által az MSC.98 (73) határozattal elfogadott és módosított változatát jelenti.
 
-.26 A lobbanáspont az a Celsius-fokban kifejezett és jóváhagyott lobbanáspont-mérővel (zárttéri lobbanáspont-meghatározás) meghatározott hőmérséklet, amelyen a termék elegendő éghető gőzt bocsát ki ahhoz, hogy meggyulladjon.
+.26 A lobbanáspont az a Celsius-fokban kifejezett és jóváhagyott lobbanáspontmérővel (zárttéri lobbanáspont-meghatározás) meghatározott hőmérséklet, amelyen a termék elegendő éghető gőzt bocsát ki ahhoz, hogy meggyulladjon.
 
 .27 Az eredeti követelmények az e fejezetben meghatározott szerkezeti jellemzőket, határméreteket vagy tűzbiztonsági rendszereket jelentik.
 
@@ -1776,9 +1840,9 @@ A LEGALÁBB 24 MÉTER HOSSZÚ B. KATEGÓRIÁJÚ ÚJ ÉS MEGLÉVŐ HAJÓK, ILLETV
 
 .1 Az előírt tűzoltó szivattyúkat úgy kell kialakítani, hogy a .4.2 alpontban meghatározott víznyomás esetében a fenékvíz kiszivattyúzásakor a fenékvízszivattyúk által szállított vízmennyiség legalább kétharmadának megfelelő vízmennyiséget tudjanak szállítani tűzoltás céljából.
 
-.2 Minden olyan hajón, amelyet e pont előírása szerint egynél több független tűzoltó szivattyúval szerelnek fel, a jóváhagyott tűzoltó szivattyú teljesítménye legalább a teljes előírt kapacitás és az előírt tűzoltó szivattyúk minimális száma hányadosának 80%-át teszi ki, de legalább 25 m³/h, valamint egyidejűleg legalább a két előírt vízsugarat táplálni tudja. E tűzoltó szivattyúknak alkalmasnak kell lenniük a tűzoltóvezeték-rendszer ellátására az előírt feltételek mellett.
+.2 Minden olyan hajón, amelyet e pont előírása szerint egynél több független tűzoltó szivattyúval szerelnek fel, a jóváhagyott tűzoltó szivattyú teljesítménye legalább a teljes előírt kapacitás és az előírt tűzoltó szivattyúk minimális száma hányadosának 80%-át teszi ki, de legalább 25 m3/h, valamint egyidejűleg legalább a két előírt vízsugarat táplálni tudja. E tűzoltó szivattyúknak alkalmasnak kell lenniük a tűzoltóvezeték-rendszer ellátására az előírt feltételek mellett.
 
-.3 A 2003. január 1-jén vagy azt követően épített hajókon, ahol az előírt minimumnál több szivattyút szerelnek fel, a kiegészítő szivattyúk teljesítménye legalább 25 m³/h, továbbá el tudja látni az e pont .5 bekezdésében előírt legalább két vízsugarat.
+.3 A 2003. január 1-jén vagy azt követően épített hajókon, ahol az előírt minimumnál több szivattyút szerelnek fel, a kiegészítő szivattyúk teljesítménye legalább 25 m3/h, továbbá el tudja látni az e pont .5 bekezdésében előírt legalább két vízsugarat.
 
 .3 A tűzoltó szivattyúk, tűzoltóvezetékek és a vízellátás gyors elérhetősége
 
@@ -1808,9 +1872,9 @@ Amennyiben a legfeljebb 250 utas szállítására engedélyezett B. kategóriáj
 
 |  | B. típusú hajóknál a szállítható utasok száma: | Új | Meglévő |
 
-|  | 500-nál több | 0,4 N/mm² | 0,3 N/mm² |
+|  | 500-nál több | 0,4 N/mm2 | 0,3 N/mm2 |
 
-|  | Legfeljebb 500 | 0,3 N/mm² | 0,2 N/mm² |
+|  | Legfeljebb 500 | 0,3 N/mm2 | 0,2 N/mm2 |
 
 .3 A tűzcsapoknál mért legnagyobb nyomás nem haladhatja meg azt a mértéket, amelyen a tűzoltótömlők hatékony irányítása még biztosítható.
 
@@ -1818,7 +1882,7 @@ Amennyiben a legfeljebb 250 utas szállítására engedélyezett B. kategóriáj
 
 .1 A tűzcsapok száma és elhelyezése olyan, hogy legalább két, különböző tűzcsapból származó vízsugár, amelyből az egyik egy egyszeres hosszúságú tömlőből származik, a hajónak az utasok vagy a személyzet számára általában megközelíthető bármelyik részét elérje, miközben a hajó halad, továbbá elérje az üres raktér bármelyik részét, bármelyik Ro-Ro rakodóteret vagy speciális kategóriájú teret; ez utóbbi esetben a két egyszerű hosszúságú tömlőből származó vízsugárnak el kell érnie a terek bármelyik részét. Ezenkívül e tűzcsapokat a védett terek közelében kell elhelyezni.
 
-.2 A lakóterekben, kiszolgáló helyiségekben és gépterekben a tűz-csapok számának és elhelyezésének meg kell felelnie az .5.1 bekezdés követelményeinek, amennyiben az összes vízmentes ajtó és a függőleges főzóna válaszfalaiban lévő ajtók zárva vannak.
+.2 A lakóterekben, kiszolgáló helyiségekben és gépterekben a tűzcsapok számának és elhelyezésének meg kell felelnie az .5.1 bekezdés követelményeinek, amennyiben az összes vízmentes ajtó és a függőleges főzóna válaszfalaiban lévő ajtók zárva vannak.
 
 .3 Amennyiben a szomszédos tengelyalagútból a géptérhez alacsony szinten lehet bejutni, akkor kívülről, de a géptér bejáratához közel eső helyen két tűzcsapot kell elhelyezni. Amennyiben a bejutás más helyről biztosított, az egyik ilyen helyen, a géptér bejáratához közel két tűzcsapot kell elhelyezni. Erre a lépésre nincs szükség, ha az alagút vagy a szomszédos helyiségek nem esnek bele a menekülési útvonalba.
 
@@ -1828,7 +1892,7 @@ Amennyiben a legfeljebb 250 utas szállítására engedélyezett B. kategóriáj
 
 .2 Az összes tűzoltótömlőt szeleppel kell ellátni annak érdekében, hogy a tűzoltó szivattyúk működése közben bármelyik tömlőt el lehessen távolítani.
 
-.3 A 2003. január 1-jén vagy azt követően épített hajókon leválasztó szelepeket kell felszerelni a szabad fedélzeten lévő tűzoltóvezeték nem tűzoltási célra használt leágazásaira.
+.3 A 2003. január 1-jén vagy azt követően épített hajókon leválasztó szelepeket kell felszerelni a nyitott fedélzeten lévő tűzoltóvezeték nem tűzoltási célra használt leágazásaira.
 
 .7 Tűzoltótömlők
 
@@ -1838,9 +1902,9 @@ Amennyiben a legfeljebb 250 utas szállítására engedélyezett B. kategóriáj
 
 8. Sugárcsövek
 
-.1.1 E fejezet alkalmazásában a szabvány sugárcső keresztmetszete 12 mm, 16 mm és 19 mm, illetve az ezekez legközelebb eső méretek. Amennyiben egyéb rendszereket használnak — például vízpermettel oltó berendezés — eltérő átmérőjű sugárcsövek használhatók.
+.1.1 E fejezet alkalmazásában a szabvány sugárcső keresztmetszete 12 mm, 16 mm és 19 mm, illetve az ezekhez legközelebb eső méretek. Amennyiben egyéb rendszereket használnak - például vízpermettel oltó berendezés - eltérő átmérőjű sugárcsövek használhatók.
 
-.1.2 Minden egyes sugárcsővet jóváhagyott kettős rendeltetésű (azaz vízpermet és vízsugár), és elzáró szerkezettel kell felszerelni.
+.1.2 Minden egyes sugárcsövet jóváhagyott kettős rendeltetésű (azaz vízpermet és vízsugár), és elzáró szerkezettel kell felszerelni.
 
 .2 A lakóterek és kiszolgáló helyiségek esetében a 12 mm-es átmérőjű sugárcső használata megfelelő.
 
@@ -1852,7 +1916,7 @@ Amennyiben a legfeljebb 250 utas szállítására engedélyezett B. kategóriáj
 
 .1 Egy külön tűzoltó szivattyút kell biztosítani, amely tűzoltás céljából az alábbiakban meghatározott nyomáson az egyik tűzcsapból legalább egy vízsugarat el tud látni. A tűzoltó szivattyú által szállított víz mennyiségének meg kell felelnie a fenékvíz kiszivattyúzásakor a fenékvízszivattyúk által továbbított vízmennyiség legalább kétharmadának. E tűzoltó szivattyúknak, amennyiben 12, 16 vagy 19 mm-es sugárcsövekkel ellátott tűzcsapokon keresztül a fent említett maximális mennyiséget bocsátják ki, a tűzcsapokban fenn kell tartaniuk a B. kategóriájú hajókra előírt legkisebb nyomást.
 
-.2 250 főt, illetve 250 főnél több személyt szállító hajót fel kell szerelni egy további tűzoltó szivattyúval, amely állandóan rá van kapcsolva a tűzoltóvezetékre. E szivattyúnak gépi hajtásúnak kell lennie. Ez a szivattyú és az áramforrása nem helyezhető el ugyanabban a helyiségben, mint a .9.1 alpontban előírt szivattyú; olyan állandó tengervízvételezővel kell ellátni, amely a géptéren kívül helyezkedik el. Ez a szivattyú a hajón felszerelt bármelyik tűzcsapból legalább egy vízsugarat el tud látni és legalább 0,3 N/mm² nyomást tud tartani.
+.2 250 főt, illetve 250 főnél több személyt szállító hajót fel kell szerelni egy további tűzoltó szivattyúval, amely állandóan rá van kapcsolva a tűzoltóvezetékre. E szivattyúnak gépi hajtásúnak kell lennie. Ez a szivattyú és az áramforrása nem helyezhető el ugyanabban a helyiségben, mint a .9.1 alpontban előírt szivattyú; olyan állandó tengervíz-vételezővel kell ellátni, amely a géptéren kívül helyezkedik el. Ez a szivattyú a hajón felszerelt bármelyik tűzcsapból legalább egy vízsugarat el tud látni és legalább 0,3 N/mm2 nyomást tud tartani.
 
 .3 Az egészségügyi (szaniter), ballaszt-, fenékvíz- vagy általános rendeltetésű szivattyúk tűzoltó szivattyúként elfogadhatók.
 
@@ -1890,7 +1954,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS B. KAT
 
 .10 A tűzoltóanyagok tárolására szolgáló tartályokat és a hozzájuk kapcsolódó nyomás alatti alkatrészeket a megfelelő előírások szerint kell megtervezni, figyelembe véve az elhelyezésüket és a működés során várható legnagyobb környezeti hőmérsékletet.
 
-.11 A tűzoltóanyagot a védett téren kívül olyan helyen kell tárolni, amely jól hozzáférhető és hatékonyan szellőztethető. E tároló helyiség bejárata lehetőleg a szabad fedélzetről nyíljon, és független legyen a védett helyiségtől.
+.11 A tűzoltóanyagot a védett téren kívül olyan helyen kell tárolni, amely jól hozzáférhető és hatékonyan szellőztethető. E tároló helyiség bejárata lehetőleg a nyitott fedélzetről nyíljon, és független legyen a védett helyiségtől.
 
 A bejárati ajtóknak kifelé kell nyílniuk, azoknak a válaszfalaknak és fedélzeteknek pedig, amelyek az ajtókat és a nyílások bezárására szolgáló egyéb eszközöket foglalják magukban, és elválasztják a fenti helyiségeket a szomszédos zárt terektől, gázbiztosnak kell lenniük. A II-2/B/4. vagy II-2/B/5. pontban található a válaszfal és fedélzet tűzbiztonságát mutató táblázatok alkalmazásakor e tároló helyiségeket vezérlőállásként kell kezelni.
 
@@ -1902,9 +1966,9 @@ A bejárati ajtóknak kifelé kell nyílniuk, azoknak a válaszfalaknak és fed�
 
 .14 A védett terek összes olyan nyílásának, amelyen levegő juthat be, illetve gáz juthat ki, kívülről zárhatónak kell lennie.
 
-.15 Ha a tűzoltóanyagot a védett téren kívül tárolják, akkor azt olyan helyiségben kell elhelyezni, amely a mellső kollíziós válaszfal mögött van, és csak erre a célra szolgál. A tároló helyiség bejáratának lehetőleg a szabad fedélzetről kell nyílnia, és függetlennek kell lennie a védett helyiségtől. Ha a tároló helyiség a fedélzet alatt található, akkor a szabad fedélzet alatt legfeljebb egy fedélzetre kell elhelyezni, a szabad fedélzetről pedig lépcsőn vagy létrán közvetlenül elérhető kell hogy legyen.
+.15 Ha a tűzoltóanyagot a védett téren kívül tárolják, akkor azt olyan helyiségben kell elhelyezni, amely a mellső kollíziós válaszfal mögött van, és csak erre a célra szolgál. A tároló helyiség bejáratának lehetőleg a nyitott fedélzetről kell nyílnia, és függetlennek kell lennie a védett helyiségtől. Ha a tároló helyiség a fedélzet alatt található, akkor a nyitott fedélzet alatt legfeljebb egy fedélzetre kell elhelyezni, a nyitott fedélzetről pedig lépcsőn vagy létrán közvetlenül elérhető kell hogy legyen.
 
-Azokat a tereket, amelyek a fedélzet alatt találhatók, vagy amelyek elérése a szabad fedélzetről nem biztosított, gépi szellőzőrendszerrel kell felszerelni, amelyet úgy terveztek, hogy a tér aljáról elszívja az elhasznált levegőt, és óránként legalább hatszori levegőcserét tesz lehetővé. A bejárati ajtóknak kifelé kell nyílnia, azoknak a válaszfalaknak és fedélzeteknek pedig, amelyek az ajtókat és a nyílások bezárására szolgáló egyéb eszközöket foglalják magukban, és elválasztják a fenti helyiségeket a szomszédos zárt terektől, gázbiztosnak kell lenniük. A 4.1, 4.2, 5.1 és 5.2 táblázat alkalmazásában e tároló helyiségeket vezérlőállásnak kell tekinteni.
+Azokat a tereket, amelyek a fedélzet alatt találhatók, vagy amelyek elérése a nyitott fedélzetről nem biztosított, gépi szellőzőrendszerrel kell felszerelni, amelyet úgy terveztek, hogy a tér aljáról elszívja az elhasznált levegőt, és óránként legalább hatszori levegőcserét tesz lehetővé. A bejárati ajtóknak kifelé kell nyílnia, azoknak a válaszfalaknak és fedélzeteknek pedig, amelyek az ajtókat és a nyílások bezárására szolgáló egyéb eszközöket foglalják magukban, és elválasztják a fenti helyiségeket a szomszédos zárt terektől, gázbiztosnak kell lenniük. A 4.1, 4.2, 5.1 és 5.2 táblázat alkalmazásában e tároló helyiségeket vezérlőállásnak kell tekinteni.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
@@ -1918,7 +1982,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .20 A nem kötelező tűzoltó berendezéseknek, amelyeket adott esetben a raktárhelyiségekben helyezték el, kialakításuk és méretük tekintetében meg kell felelniük e pontnak a szóban forgó berendezés típusára vonatkozó követelményeinek.
 
-.21 Szén-dioxid/halon berendezéssel védett ajtón, a következő figyelmeztetést kell elhelyezni: „Ezt a teret szén-dioxid/halon berendezés védi és el kell hagyni, amikor a riasztóberendezés működésbe lép”.
+.21 Szén-dioxid berendezéssel védett ajtón, a következő figyelmeztetést kell elhelyezni: „Ezt a teret szén-dioxid berendezés védi és el kell hagyni, amikor a riasztóberendezés működésbe lép”.
 
 .2 Szén-dioxidos rendszerek (R 5.2)
 
@@ -1934,7 +1998,7 @@ Amennyiben a szellőzőcsatornákon keresztül kettő vagy több raktér kapcsol
 
 .2 A legnagyobb védett géptér bruttó térfogatának 35%-a, a gépaknát is beleértve; amennyiben két vagy több géptér nincs teljesen elválasztva egymástól, azokat egy térnek kell tekinteni.
 
-.2 E pont alkalmazásában a szabad szén-dioxid térfogatát 0,56 m³/kg-mal kell számítani.
+.2 E pont alkalmazásában a szabad szén-dioxid térfogatát 0,56 m3/kg-mal kell számítani.
 
 .3 A beépített csővezetékrendszernek lehetővé kell tennie, hogy a gáz 85%-a két perc alatt a térbe jusson.
 
@@ -1944,13 +2008,13 @@ Amennyiben a szellőzőcsatornákon keresztül kettő vagy több raktér kapcsol
 
 .2 A két vezérlőberendezést egy közös kapcsoló szekrényben kell elhelyezni, s az adott térre utaló jelzéssel kell ellátni. Amennyiben a vezérlő berendezést tartalmazó szekrényt be kell zárni, a szekrény kulcsát egy betörhető üvegű tárolóba kell helyezni, amely a szekrény mellett jól látható helyen található.
 
-.5 A lobogó szerinti állam hajózási hatóságának biztosítania kell, hogy azok a terek, amelyekben a szén-dioxid palackok vannak elhelyezve, hozzáférhetőségük, szellőzésük és a kapcsolattartási berendezéseik szempontjából megfelelő kialakításúak legyenek. Meghozzák a szükséges biztonsági intézkedéseket a szén-dioxid palackok, csövek és szerelvényeik gyártása, beszerelése, jelölése, töltése és próbája tekintetében, valamint e berendezéseknek a kezelésével és riasztóberendezéseivel kapcsolatban.
+.5 Biztosítani kell, hogy azok a terek, amelyekben a szén-dioxid palackok vannak elhelyezve, hozzáférhetőségük, szellőzésük és a kapcsolattartási berendezéseik szempontjából megfelelő kialakításúak legyenek. Meghozzák a szükséges biztonsági intézkedéseket a szén-dioxid palackok, csövek és szerelvényeik gyártása, beszerelése, jelölése, töltése és próbája tekintetében, valamint e berendezéseknek a kezelésével és riasztóberendezéseivel kapcsolatban.
 
-2003. JANUÁR 1-JÉT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+2003. JANUÁR 1-JÉT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
 .6 A szén-dioxidos rendszereknek meg kell felelnie a Tűzbiztonsági rendszerek szabályzata rendelkezéseinek.
 
-.7 A lobogó szerinti állam hajózási hatóságának biztosítania kell, hogy azok a terek, amelyekben a szén-dioxid palackok el vannak helyezve, hozzáférhetőségük, szellőzésük és a kapcsolattartási berendezések szempontjából megfelelő kialakításúak. Meghozzák a szükséges biztonsági intézkedéseket a széndioxid palackok, csövek és szerelvényeik gyártása, beszerelése, jelölése, töltése és próbája tekintetében, valamint e berendezések kezelésével és riasztóberendezéseivel kapcsolatban.
+.7 Biztosítani kell, hogy azok a terek, amelyekben a szén-dioxid palackok el vannak helyezve, hozzáférhetőségük, szellőzésük és a kapcsolattartási berendezések szempontjából megfelelő kialakításúak legyenek. Meghozzák a szükséges biztonsági intézkedéseket a szén-dioxid palackok, csövek és szerelvényeik gyártása, beszerelése, jelölése, töltése és próbája tekintetében, valamint e berendezések kezelésével és riasztóberendezéseivel kapcsolatban.
 
 .3 Nehézhabbal oltó beépített tűzoltó rendszerek a gépterekben (R 8)
 
@@ -1976,7 +2040,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS B. KAT
 
 .4 A habgenerátort, annak áramforrásait, a habképző folyadékot és a rendszer vezérlését és szabályozását végző berendezéseket jól hozzáférhető helyen kell elhelyezni, kezelésüknek pedig egyszerűnek kell lennie, továbbá egymáshoz lehető legközelebb eső helyeken kell csoportosítani azokat úgy, hogy minél kisebb legyen a valószínűsége, hogy a védett térben keletkező tűz elszigeteli azokat.
 
-2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
 .5 A könnyűhabbal oltó beépített tűzoltó rendszernek meg kell felelnie a Tűzbiztonsági rendszerek szabályzata rendelkezéseinek.
 
@@ -1986,7 +2050,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS B. KAT
 
 .1 A gépterekben való alkalmazásra előírt nyomás alatt álló vízpermettel oltó tűzoltórendszert jóváhagyott típusú porlasztófejekkel kell felszerelni.
 
-.2 A porlasztófejek száma és elrendezése olyan, hogy a védett terekben percenként legalább 5 l/m² átlagos vízelosztást biztosít. Szükség esetén a különösen tűzveszélyes területeken megfontolható az ennél nagyobb mennyiség alkalmazása. A porlasztófejeket a medersori árok, a tartályfedelek és egyéb olyan terek fölött kell felszerelni, ahol tüzelőanyag folyhat szét, továbbá a géptereknek abban a részében, amelyek különösen tűzveszélyesek.
+.2 A porlasztófejek száma és elrendezése olyan, hogy a védett terekben percenként legalább 5 l/m2 átlagos vízelosztást biztosít. Szükség esetén a különösen tűzveszélyes területeken megfontolható az ennél nagyobb mennyiség alkalmazása. A porlasztófejeket a medersori árok, a tartályfedelek és egyéb olyan terek fölött kell felszerelni, ahol tüzelőanyag folyhat szét, továbbá a géptereknek abban a részében, amelyek különösen tűzveszélyesek.
 
 .3 A rendszer szakaszokra osztható, amelyek elosztó szelepeit egy a védett téren kívüli, könnyen hozzáférhető helyen kell elhelyezni, ahol a védett térben bekövetkező tűz nem szigeteli el azokat.
 
@@ -1998,19 +2062,15 @@ B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS B. KAT
 
 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.7 A szivattyút egy külön belsőégésű erőgép is hajthatja, azonban — amennyiben a II-1 fejezet D. része rendelkezéseinek megfelelően a vészüzemi generátor által szolgáltatott áram látja el — a generátort úgy kell kialakítani, hogy a motor meghibásodása esetén automatikusan beinduljon, az .5 alpontban előírt szivattyú számára szükséges áram pedig azonnal rendelkezésre álljon. Amennyiben a szivattyút egy külön belső égésű erőgép hajtja meg, azt úgy kell elhelyezni, hogy a védett térben keletkezett tűz ne akadályozza a gép levegőellátását.
+.7 A szivattyút egy külön belsőégésű erőgép is hajthatja, azonban - amennyiben a II-1 fejezet D. része rendelkezéseinek megfelelően a vészüzemi generátor által szolgáltatott áram látja el - a generátort úgy kell kialakítani, hogy a motor meghibásodása esetén automatikusan beinduljon, az .5 alpontban előírt szivattyú számára szükséges áram pedig azonnal rendelkezésre álljon. Amennyiben a szivattyút egy külön belső égésű erőgép hajtja meg, azt úgy kell elhelyezni, hogy a védett térben keletkezett tűz ne akadályozza a gép levegőellátását.
 
-2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C.
-
-ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
 .8 A nyomás alatt álló vízpermettel oltó beépített tűzoltó rendszernek meg kell felelnie a Tűzbiztonsági rendszerek szabályzata rendelkezéseinek.
 
 5. Hordozható tűzoltókészülékek (R 6)
 
-B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ
-
-ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
+B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .1 Kizárólag jóváhagyott típusú tűzoltókészülékek szerelhetők fel.
 
@@ -2018,11 +2078,9 @@ B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ
 
 .3 A hajón lévő tűzoltó készülékek minden típusához, a típusonkénti mennyiség 50%-ára elegendő tartalék töltetet kell készenlétben tartani. Egy azonos típusú másik tűzoltó készülék a tartalék töltete lehet annak a tűzoltó készüléknek, amelyet nem lehet a fedélzeten újratölteni.
 
-.4 Hordozható, szén-dioxiddal működő tűzoltó készülékek általában nem helyezhetők el a lakóterekben. Amennyiben ilyen tűzoltó készülékeket helyeznek el a rádiós helyiségekben, a kapcsolótábláknál vagy más hasonló helyeken, az egy vagy több tűzoltó készülékkel rendelkező terek térfogata akkora legyen, hogy e pont alkalmazásában a szivárgás következtében keletkező gáz koncentrációja a helyiség nettó térfogatának 5%-a alatt legyen. A széndioxid térfogatát 0,56 m³/kg-mal kell számításba venni.
+.4 Hordozható, szén-dioxiddal működő tűzoltó készülékek általában nem helyezhetők el a lakóterekben. Amennyiben ilyen tűzoltó készülékeket helyeznek el a rádiós helyiségekben, a kapcsolótábláknál vagy más hasonló helyeken, az egy vagy több tűzoltó készülékkel rendelkező terek térfogata akkora legyen, hogy e pont alkalmazásában a szivárgás következtében keletkező gáz koncentrációja a helyiség nettó térfogatának 5%-a alatt legyen. A széndioxid térfogatát 0,56 m3/kg-mal kell számításba venni.
 
-2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C.
-
-ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
 .5 A hordozható tűzoltó készülékeknek meg kell felelnie a Tűzbiztonsági rendszerek szabályzata rendelkezéseinek.
 
@@ -2054,7 +2112,7 @@ a tűzoltó készülékeket úgy kell elhelyezni, hogy azok a helyiség egyetlen
 
 .4 tűzoltó készülékeket kell elhelyezni a festékraktárak és olyan raktárak közelében, amelyek gyúlékony termékeket tartalmaznak.
 
-.5 legalább egy tűzoltó készüléket kell elhelyezni a parancsnoki hídon és minden vezérlő állomásnál.
+.5 legalább egy tűzoltó készüléket kell elhelyezni a parancsnoki hídon és minden vezérlőállomásnál.
 
 .14 A lakóterekben és kiszolgáló helyiségekben elhelyezett hordozható tűzoltó készülékek működési módja, amennyiben kivitelezhető, egységes legyen.
 
@@ -2070,37 +2128,35 @@ Az A. kategóriájú géptereket fel kell szerelni:
 
 .1 a következő beépített tűzoltó rendszerek egyikével:
 
-.1 a 4. pont .1 és .2 bekezdésének megfelelő gázzal oltó tűzoltó rendszerrel, illetve az azzal egyenértékű, a halon rendszereket helyettesítő, vízzel működő rendszerrel, amely — a hajó építésének időpontját is figyelembe véve — megfelel az 1994. december 30-i MSC/668. körlevél és az 1996. júniusi MSC/ 728. körlevél rendelkezéseinek;
+.1 a 4. pont .1 és .2 bekezdésének megfelelő gázzal oltó tűzoltó rendszerrel, illetve az azzal egyenértékű, a halon rendszereket helyettesítő, vízzel működő rendszerrel, amely - a hajó építésének időpontját is figyelembe véve - megfelel az IMO MSC 1165. körlevele hatályos rendelkezéseinek;
 
 .2 egy könnyű habbal oltó rendszerrel, amely a hajó építésének időpontját is figyelembe véve megfelel a 4. szabály .4 bekezdésének;
 
 .3 egy nyomás alatt álló, vízpermettel oltó tűzoltó rendszerrel, amely a hajó építésének időpontját is figyelembe véve megfelel a 4. Pont .5 bekezdésének;
 
-.2 legalább egy hordozható léghab készülékkel, amely egy olyan induktoros léghab szórófejből áll, amely tűzoltótömlőn keresztül kapcsolható a tűzoltóvezetékhez, továbbá egy hordozható tartályból áll, amely legalább 20 liter habképző folyadékot és egy tartalék tartályt tartalmaz. A szórófejnek legalább 1,5 m³/perc teljesítménnyel kell olajtüzek eloltására alkalmas habot előállítania.
+.2 legalább egy hordozható léghab készülékkel, amely egy olyan induktoros léghab szórófejből áll, amely tűzoltótömlőn keresztül kapcsolható a tűzoltóvezetékhez, továbbá egy hordozható tartályból áll, amely legalább 20 liter habképző folyadékot és egy tartalék tartályt tartalmaz. A szórófejnek legalább 1,5 m3/perc teljesítménnyel kell olajtüzek eloltására alkalmas habot előállítania.
 
 .3 Minden olyan térbe, ahol tüzelőanyag ülepítő tartály vagy tüzelőanyag egység található jóváhagyott típusú, legalább 45 liter térfogatú haboltókat, illetve ezekkel egyenértékű megfelelő számú berendezést kell felszerelni annak érdekében, hogy a habot vagy az azzal egyenértékű oltóanyagot a nyomás alatt álló tüzelőanyag- és kenőolajrendszerre, a hajtóművekre és egyéb tűzveszélyes helyekre irányíthassák. Emellett megfelelő számú hordozható haboltót vagy azzal egyenértékű tűzoltó készüléket kell elhelyezni úgy, hogy azok a helyiség egyetlen pontjától se legyenek 10 méternél messzebbre, továbbá hogy legalább két ilyen tűzoltó készülék legyen e helyiségekben.
 
-A 24 MÉTERNÉL RÖVIDEBB B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓKAT
+A 24 MÉTERNÉL RÖVIDEBB B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓKAT ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓKAT:
 
-ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓKAT:
+.4 a fenti .1 alpontban meghatározott beépített tűzoltó rendszerek egyikével, továbbá egy legalább 45 liter térfogatú haboltó berendezéssel vagy olyan egyenértékű és megfelelő számú berendezéssel kell felszerelni a belső égésű motorokat, tüzelőanyag ülepítő tartályt vagy tüzelőanyag egységet magában foglaló tereket, amely berendezések lehetővé teszik, hogy az oltóhabot vagy egyenértékű oltóanyagot közvetlenül a nyomás alatt álló üzemanyag- és kenőolajrendszerre, a hajtóművekre és egyéb tűzveszélyes helyekre irányíthassák; és
 
-.4 a fenti .1 alpontban meghatározott beépített tűzoltó rendszerek egyikével, továbbá egy legalább 45 liter térfogatú haboltó berendezéssel vagy egy legalább 16 kg-os, szén-dioxiddal működő tűzoltó berendezéssel kell felszerelni a belső égésű motorokat, tüzelőanyag ülepítő tartályt vagy tüzelőanyag egységet magában foglaló tereket, és
-
-.5 a gépi berendezés mellé, a teljesítményével arányosan, 736 kW-onként legalább egy-egy, olajtüzek eloltására alkalmas hordozható tűzoltó készüléket kell felszerelni, de a gépi berendezés elhelyezésére szolgáló terenként legfeljebb hatot.
+.5 a gépi berendezés mellé, a teljesítményével arányosan, 746 kW-onként legalább egy-egy, olajtüzek eloltására alkalmas hordozható tűzoltó készüléket kell felszerelni, de a gépi berendezés elhelyezésére szolgáló terenként legfeljebb hatot.
 
 Az e pontban előírt hat hordozható tűzoltó készülékek egy része helyett, megengedett a nehéz habbal oltó beépített tűzoltó rendszer használata.
 
-A TÖBB MINT 36 SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓKON ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓKON:
+A 24 MÉTER HOSSZÚ VAGY HOSSZABB B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓKON ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓKON:
 
-.6 Minden gépteret két megfelelő vízpermettel oltó berendezéssel kell fel szerelni, amelyek egy olyan L alakú fémcsőből állnak, amelynek hosszú ága mintegy két méter hosszú, és egy tűzoltótömlőhöz csatlakoztatható, a rövid ága pedig mintegy 250 mm hosszú, és egy rögzített vízköd porlasztófejjel van felszerelve, illetve vízsugaras szórófejjel is felszerelhető.
+.6 Minden gépteret két megfelelő vízpermettel oltó berendezéssel kell fel szerelni, amelyek állhatnak egy olyan α alaku fémcsőből, amelynek hosszú ága mintegy két méter hosszú, és egy tűzoltótömlőhöz csatlakoztatható, a rövid ága pedig mintegy 250 mm hosszú, és egy rögzített vízköd porlasztófejjel van felszerelve, illetve vízsugaras szórófejjel is felszerelhető.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓKON:
 
 .7 Amennyiben fűtőanyagként előmelegített olajat alkalmaznak, kiegészítésképpen az is előírható, hogy a kazánházakat állandó vagy hordozható berendezésekkel szereljék fel, amelyek tűzoltási célból nyomás alatti vízsugarat permeteznek, illetve a padló alatt és felett habot bocsátanak ki.
 
-24 MÉTERES VAGY ANNÁL HOSSZABB, 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT, A., B. C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓKON:
+24 MÉTERES VAGY ANNÁL HOSSZABB, 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT, A., B. C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓKON, A TÖBB MINT 400 UTAS SZÁLLÍTÁSÁRA ENGEDÉLYEZETT, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓKON ÉS A TÖBB MINT 400 UTAS SZÁLLÍTÁSÁRA ENGEDÉLYEZETT B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓKON
 
-.8. .1 Az 500 m³ térfogat feletti A. kategóriájú géptereket az e pontban előírt beépített tűzoltó rendszer mellett jóváhagyott típusú beépített, vízzel oltó rendszerrel vagy azzal egyenértékű helyi alkalmazású tűzoltó rendszerrel is védeni kell a Nemzetközi Tengerészeti Szervezet által kidolgozott útmutatások alapján, lásd az MSC/913. körlevelet: „Útmutató az A. kategóriájú gépterekben alkalmazandó beépített, vízzel oltó helyi alkalmazású tűzoltó rendszerek jóváhagyásához”.
+.8. .1 Az 500 m3 térfogat feletti A. kategóriájú géptereket az e pontban előírt beépített tűzoltó rendszer mellett jóváhagyott típusú beépített, vízzel oltó rendszerrel vagy azzal egyenértékű helyi alkalmazású tűzoltó rendszerrel is védeni kell a Nemzetközi Tengerészeti Szervezet által kidolgozott útmutatások alapján, lásd az MSC/913. körlevelet: „Útmutató az A. kategóriájú gépterekben alkalmazandó beépített, vízzel oltó helyi alkalmazású tűzoltó rendszerek jóváhagyásához”.
 
 Az időszakosan felügyelet nélkül hagyott gépterek esetében a tűzoltó rendszer automatikusan és kézi vezérléssel is működtethető. A folyamatosan felügyelt gépterek esetében a tűzoltó rendszer kézi vezérlésű lehet.
 
@@ -2115,12 +2171,6 @@ Az időszakosan felügyelet nélkül hagyott gépterek esetében a tűzoltó ren
 .4 a felhevített tüzelőanyag szeparátora.
 
 .3 A helyi alkalmazású rendszerek beindulását jól megkülönböztethető fény- és hangjelzésnek kell jeleznie a védett térben és a folyamatosan felügyelt megfigyelőhelyeken. A riasztásnak jeleznie kell, hogy melyik rendszer indult be. Az ebben az alpontban leírt rendszer és a riasztási követelmények kiegészítik, de nem helyettesítik az e fejezetben más helyen előírt tűzjelző és riasztási rendszereket.
-
-B., C. ÉS D. KATEGÓRIÁJÚ ÚJ 2003 JANUÁR 1-JE ELŐTT ÉPÍTETT HAJÓKON ÉS B. KATEGÓRIÁJÚ 24 MÉTERNÉL HOSSZABB MEGLÉVŐ HAJÓKON
-
-ÉS A TÖBB MINT 400 UTAS SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT HAJÓN:
-
-.9 A helyi alkalmazású beépített tűzoltó rendszereket az e pont .8 bekezdésének megfelelően legkésőbb 2005. október 1-jéig kell felszerelni.
 
 7. Különleges berendezések a gépterekben (R 11)
 
@@ -2150,15 +2200,13 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .5 a nyomó és szívó szellőzők, az tüzelőanyag-átszivattyúzó szivattyúk, a tüzelőanyag-szivattyúk és egyéb hasonló szivattyúk leállítása. A 2003. január 1-jén vagy azt követően épített hajók esetében az egyéb hasonló szivattyúk a kenőolaj üzemi szivattyúit, a meleg olajat keringtető szivattyúkat és az olajszeparátorokat jelentik. E pont .6 bekezdését azonban nem kell az olajos fenékvíz szeparátorokra alkalmazni.
 
-.6 Az .5 alpontban és a II-2 fejezet A részének 10.2.5 pontjában előírt berendezéseket az érintett tereken kívül kell elhelyezni olyan helyen, ahol nem válnak üzemképtelenné, ha az általuk kiszolgált térben tűz keletkezik. E berendezéseket, illetve bármelyik előírt tűzoltórendszer vezérlőberendezéseit egy helyre kell telepíteni, vagy a lehető legkevesebb helyre kell csoportosítani. E helyeket úgy kell kialakítani, hogy a szabad fedélzetről biztonságosan megközelíthetők legyenek.
+.6 Az .5 alpontban és a II-2. fejezet A részének 10.2.5 pontjában előírt berendezéseket az érintett tereken kívül kell elhelyezni olyan helyen, ahol nem válnak üzemképtelenné, ha az általuk kiszolgált térben tűz keletkezik. E berendezéseket, illetve bármelyik előírt tűzoltórendszer vezérlőberendezéseit egy helyre kell telepíteni, vagy a lehető legkevesebb helyre kell csoportosítani. E helyeket úgy kell kialakítani, hogy a nyitott fedélzetről biztonságosan megközelíthetők legyenek.
 
 .7 Amennyiben egy szomszédos tengelyalagúttól az A. kategóriájú géptérbe alacsony szinten lehet bejutni, a tengelyalagútban a vízmentes ajtó közelében egy könnyű, acélból készült, mindkét oldalról működtethető tűzbiztos ajtót kell elhelyezni.
 
 8. Automatikus vízpermetező, tűzérzékelő és tűzjelző rendszerek (R 12)
 
-B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS
-
-B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
+B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .1 Automatikus vízpermetező, tűzérzékelő és tűzjelző rendszert úgy kell kialakítani, hogy az bármikor azonnal, a személyzet közreműködése nélkül működésbe lépjen. A csővezetéket vízzel feltöltött állapotban kell tartani, azonban egyes kisebb, szabadon lévő szakaszai üresen maradhatnak, amennyiben ez elővigyázatossági szempontból szükséges. A rendszer azon részeit, amelyek a működés során fagypont alatti hőmérsékletnek lehetnek kitéve, a megfelelő fagyvédelemmel kell ellátni. A rendszert megfelelő nyomás alatt kell tartani, valamint biztosítani kell az e pontban előírt folyamatos vízellátást.
 
@@ -2170,11 +2218,11 @@ B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .5 Minden szakaszzáró szelepnél és a központi állomáson el kell helyezni egy olyan mérőműszert, amely a rendszer nyomását mutatja.
 
-.6 A vízpermettel oltó berendezéseknek tengeri körülmények között korrózióállónak kell lennie. A lakóterekben és a kiszolgáló helyiségekben a vízpermettel oltó berendezések 68–79 °C-on lépnek működésbe, kivéve azokat a helyeket, például a szárító helyiségek, ahol magas környezeti hőmérséklet várható, s ahol ez a hőmérséklet nem emelkedhet 30 °C-kal az érintett helyiség mennyezetének legmagasabb hőmérséklete fölé.
+.6 A vízpermettel oltó berendezéseknek tengeri körülmények között korrózióállónak kell lennie. A lakóterekben és a kiszolgáló helyiségekben a vízpermettel oltó berendezések 68-79 °C-on lépnek működésbe, kivéve azokat a helyeket, például a szárító helyiségek, ahol magas környezeti hőmérséklet várható, s ahol ez a hőmérséklet nem emelkedhet 30 °C-kal az érintett helyiség mennyezetének legmagasabb hőmérséklete fölé.
 
-7. Minden jelzőegységnél jegyzéket vagy tervet kell elhelyezni, amely az egyes szakaszokra vonatkozóan mutatja a berendezés hatókörébe eső tereket és a zóna elhelyezkedését. Az ellenőrzésre és a karbantartásra vonatkozóan megfelelő utasításoknak kell rendelkezésre állniuk.
+.7. Minden jelzőegységnél jegyzéket vagy tervet kell elhelyezni, amely az egyes szakaszokra vonatkozóan mutatja a berendezés hatókörébe eső tereket és a zóna elhelyezkedését. Az ellenőrzésre és a karbantartásra vonatkozóan megfelelő utasításoknak kell rendelkezésre állniuk.
 
-.8 A permetezőfejeket a mennyezeten, megfelelő távolságra egymástól úgy kell elhelyezni, hogy az általuk lefedett terület felett percenként legalább 5 liter/m²-t tudjanak permetezni.
+.8 A permetezőfejeket a mennyezeten, megfelelő távolságra egymástól úgy kell elhelyezni, hogy az általuk lefedett terület felett percenként legalább 5 liter/m2-t tudjanak permetezni.
 
 A permetezőfejeket úgy kell elhelyezni, hogy a fedélzeti gerendák vagy egyéb tárgyak ne akadályozzák a víz útját, és az adott térben lévő éghető anyagokra kellő mennyiségű víz jusson.
 
@@ -2184,7 +2232,7 @@ A permetezőfejeket úgy kell elhelyezni, hogy a fedélzeti gerendák vagy egyé
 
 .11 Egy független gépi hajtású szivattyút kell felszerelni, amely önműködően folyamatosan biztosítja a víz kiáramlását a permetezőfejekből. A rendszerben jelentkező nyomásesés hatására a szivattyú automatikusan működésbe lép, mielőtt a nyomás alatt álló tartályban az édesvíz tartaléktöltet teljesen elfogyna.
 
-.12 A szivattyú és a vezetékrendszer alkalmas arra, hogy fenntartsa a szükséges nyomást a legmagasabban elhelyezkedő permetezőfej szintjén, s arra hogy folyamatos vízmennyiséget biztosítson, amely elegendő a .8 alpontban meghatározott érték mellett egy legalább 280 m2-es terület egyidejű oltására. A 40 méternél rövidebb C. és D. kategóriájú hajók esetében, amelyek teljes védett területe kisebb mint 280 m², a hajózási hatóság meghatározhatja azt a területet, amely megfelel a szivattyúk és az alternatív ellátó részegységek méretezésének.
+.12 A szivattyú és a vezetékrendszer alkalmas arra, hogy fenntartsa a szükséges nyomást a legmagasabban elhelyezkedő permetezőfej szintjén, s arra hogy folyamatos vízmennyiséget biztosítson, amely elegendő a .8 alpontban meghatározott érték mellett egy legalább 280 m2-es terület egyidejű oltására. A 40 méternél rövidebb C. és D. kategóriájú hajók esetében, amelyek teljes védett területe kisebb mint 280 m2, a hajózási hatóság meghatározhatja azt a területet, amely megfelel a szivattyúk és az alternatív ellátó részegységek méretezésének.
 
 .13 A szivattyú leadási oldalán fel kell szerelni egy próbaszelepet egy rövid, nyitott végű kifolyócsővel. A szelep és a cső hasznos keresztmetszetének elegendőnek kell lennie ahhoz, hogy a .9 alpontban meghatározott nyomás fenntartása mellett le tudja adni az előírt vízmennyiséget.
 
@@ -2192,7 +2240,7 @@ A permetezőfejeket úgy kell elhelyezni, hogy a fedélzeti gerendák vagy egyé
 
 .15 A vízpermettel oltó berendezés szivattyúját és tartályát úgy kell elhelyezni, hogy a lehető legtávolabb legyen a géptértől, ezenkívül nem lehet olyan térben, amelyet a vízpermettel oltó berendezés véd.
 
-.16 A személyhajókon tengervízszivattyú és az automatikus tűzjelző- és érzékelőrendszer legalább két áramforrással rendelkezik. Amennyiben a szivattyúnak villamos áramforrása van, akkor ennek egy fő generátorból és egy vészüzemi áramforrásból kell állnia. A szivattyú áramellátásának egyik része a főkapcsolótábláról, a másik a vészüzemi kapcsolótábláról a külön erre a célra lefektetett vezetéken keresztül történik. A vezetékeket úgy kell elvezetni, hogy ne haladjanak át a konyhákon, géptereken és más, rendkívül tűzveszélyes zárt területen, amennyiben ez nem feltétlenül szükséges ahhoz, hogy elérjék a megfelelő kapcsolótáblákat, továbbá hogy egy automatikus váltókapcsolóban végződjenek, amely a szivattyú mellett helyezkedik el. A kapcsolónak — amíg az áramellátás lehetséges — fenn kell tartania főkapcsolótáblán keresztül történő áramellátást, ezenkívül úgy kell kialakítani, hogy az áramellátás zavara esetén automatikusan átváltson a vészüzemi kapcsolótáblán keresztül történő áramellátásra. A főkapcsolótábla és a vészüzemi kapcsolótábla kapcsolóit egyértelműen feliratozni kell, és általában bekapcsolt állapotban kell lenniük. Az érintett vezetékeken nem lehet más kapcsoló. A jelző- és érzékelőrendszer egyik áramforrása vészüzemi áramforrás legyen. Amennyiben a szivattyú egyik áramforrása egy belső égésű motor, annak meg kell felelnie a .15 bekezdés rendelkezéseinek, ezenkívül úgy kell elhelyezni, hogy a védett térben keletkezett tűz ne akadályozza a gép levegőellátását.
+.16 A személyhajókon tengervízszivattyú és az automatikus tűzjelző- és érzékelőrendszer legalább két áramforrással rendelkezik. Amennyiben a szivattyúnak villamos áramforrása van, akkor ennek egy fő generátorból és egy vészüzemi áramforrásból kell állnia. A szivattyú áramellátásának egyik része a főkapcsolótábláról, a másik a vészüzemi kapcsolótábláról a külön erre a célra lefektetett vezetéken keresztül történik. A vezetékeket úgy kell elvezetni, hogy ne haladjanak át a konyhákon, géptereken és más, rendkívül tűzveszélyes zárt területen, amennyiben ez nem feltétlenül szükséges ahhoz, hogy elérjék a megfelelő kapcsolótáblákat, továbbá hogy egy automatikus váltókapcsolóban végződjenek, amely a szivattyú mellett helyezkedik el. A kapcsolónak - amíg az áramellátás lehetséges - fenn kell tartania főkapcsolótáblán keresztül történő áramellátást, ezenkívül úgy kell kialakítani, hogy az áramellátás zavara esetén automatikusan átváltson a vészüzemi kapcsolótáblán keresztül történő áramellátásra. A főkapcsolótábla és a vészüzemi kapcsolótábla kapcsolóit egyértelműen feliratozni kell, és általában bekapcsolt állapotban kell lenniük. Az érintett vezetékeken nem lehet más kapcsoló. A jelző- és érzékelőrendszer egyik áramforrása vészüzemi áramforrás legyen. Amennyiben a szivattyú egyik áramforrása egy belső égésű motor, annak meg kell felelnie a .15 bekezdés rendelkezéseinek, ezenkívül úgy kell elhelyezni, hogy a védett térben keletkezett tűz ne akadályozza a gép levegőellátását.
 
 .17 A vízpermettel oltó berendezésnek egy visszacsapó elzárószelepen keresztül csatlakoznia kell a hajó tűzoltóvezetékéhez, amely megakadályozza a nem szándékolt nyitást és a visszafolyást a vízpermettel oltó berendezésből a tűzoltóvezetékbe.
 
@@ -2208,7 +2256,7 @@ A permetezőfejeket úgy kell elhelyezni, hogy a fedélzeti gerendák vagy egyé
 
 .22 Az automatikus vízpermettel oltó berendezés, tűzérzékelő és tűzriasztó rendszer jóváhagyott típusú, és megfelel a Tűzbiztonsági rendszerek szabályzata rendelkezéseinek.
 
-.23 A 40 méternél rövidebb C. és D. kategóriájú hajók esetében, amelyek teljes védett területe kisebb mint 280 m², a hajózási hatóság meghatározhatja a szivattyúk és a helyettesítő részegységek méretezésének megfelelő területet.
+.23 A 40 méternél rövidebb C. és D. kategóriájú hajók esetében, amelyek teljes védett területe kisebb mint 280 m2, a hajózási hatóság meghatározhatja a szivattyúk és a helyettesítő részegységek méretezésének megfelelő területet.
 
 9. Beépített tűzérzékelő és tűzjelző rendszerek (R 13)
 
@@ -2230,7 +2278,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS B. KAT
 
 .7 A jelzőegységeken vagy azok környezetében egyértelmű tájékoztatást kell adni a szakaszok elhelyezkedéséről és az általuk felügyelt területről.
 
-.8 Ahol a tűzérzékelő rendszer nem foglal magában olyan berendezéseket, amelyekkel távolról azonosítható minden egyes érzékelő, a lakóterekben, kiszolgáló helyiségekben és vezérlőállásokon belül az egyes szakaszok csak egy fedélzetet szolgálhatnak ki, kivéve a zárt lépcsőházakra kiterjedő szakaszokat. Annak érdekében, hogy minél előbb azonosítható legyen a tűzfészek, a hajózási hatóság meghatározásának megfelelően korlátozni kell az egyes szakaszokban a zárt terek számát. Egy szakaszban semmi esetre nem lehet ötvennél több zárt tér. Amennyiben az érzékelő rendszer távolról és egyenként azonosítható tűzérzékelőkkel van felszerelve, a szakaszok több fedélzetre is kiterjedhetnek, és bármennyi zárt teret felügyelhetnek.
+.8 Ahol a tűzérzékelő rendszer nem foglal magában olyan berendezéseket, amelyekkel távolról azonosítható minden egyes érzékelő, a lakóterekben, kiszolgáló helyiségekben és vezérlőállomásokon belül az egyes szakaszok csak egy fedélzetet szolgálhatnak ki, kivéve a zárt lépcsőházakra kiterjedő szakaszokat. Annak érdekében, hogy minél előbb azonosítható legyen a tűzfészek, a hajózási hatóság meghatározásának megfelelően korlátozni kell az egyes szakaszokban a zárt terek számát. Egy szakaszban semmi esetre nem lehet ötvennél több zárt tér. Amennyiben az érzékelő rendszer távolról és egyenként azonosítható tűzérzékelőkkel van felszerelve, a szakaszok több fedélzetre is kiterjedhetnek, és bármennyi zárt teret felügyelhetnek.
 
 .9 Amennyiben nincs olyan tűzérzékelő rendszer, amely távolról és egyenként azonosítaná az egyes érzékelőket, az érzékelők szakaszai nem terjedhetnek ki a hajó két oldalán lévő terekre, nem felügyelhetnek egynél több fedélzetet, és nem helyezkedhetnek el egynél több függőleges főzónában, azonban ha a hajózási hatóság úgy találja, hogy a hajó tűz elleni védelmét ez nem csökkenti, engedélyezheti, hogy az érzékelők szakaszai a hajó mindkét oldalára és egynél több fedélzetre kiterjedjenek. Az egyenként azonosítható tűzérzékelőkkel felszerelt személyhajókon a szakaszok a hajó mindkét oldalán található terekre és több fedélzetre kiterjedhetnek, de egynél több függőleges főzónában nem helyezkedhetnek el.
 
@@ -2240,7 +2288,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS B. KAT
 
 .12 Megfelelő utasításoknak és alkatrészeknek kell rendelkezésre állniuk az ellenőrzéshez és a karbantartáshoz.
 
-.13 A lobogó szerinti állam hajózási hatóságának igénye szerint az tűzjelző rendszer működését időszakos ellenőrzésnek kell alávetni olyan berendezésekkel, amelyek a megfelelő hőmérsékleten forró levegőt, füstöt, megfelelő sűrűségű vagy méretű aeroszolrészecskéket vagy egyéb, a kezdődő stádiumban lévő tűzhöz kapcsolódó olyan jelenséget állítanak elő, amelyre az érzékelőnek működésbe kell lépnie.
+.13 A lobogó szerinti állam hajózási hatóságának igénye szerint a tűzjelző rendszer működését időszakos ellenőrzésnek kell alávetni olyan berendezésekkel, amelyek a megfelelő hőmérsékleten forró levegőt, füstöt, megfelelő sűrűségű vagy méretű aeroszolrészecskéket vagy egyéb, a kezdődő stádiumban lévő tűzhöz kapcsolódó olyan jelenséget állítanak elő, amelyre az érzékelőnek működésbe kell lépnie.
 
 Automatikus tűzjelzőnek olyan kialakításúnak kell lennie, hogy helyes működésének ellenőrzését követően és a szokásos felügyeletre való visszaállításkor ne kelljen kicserélni az alkatrészeit.
 
@@ -2248,13 +2296,13 @@ Automatikus tűzjelzőnek olyan kialakításúnak kell lennie, hogy helyes műk�
 
 .15 A zónaazonosítási képességgel rendelkező tűzérzékelő rendszereket úgy kell kialakítani, hogy:
 
-— egy áramkör csak egy ponton sérülhet meg a tűzben;
+- egy áramkör csak egy ponton sérülhet meg a tűzben;
 
-— a megfelelő eszközökkel biztosítják, hogy az áramkör hibája (pl. áramkimaradás, rövidzárlat, földelés) ne tegye működésképtelenné az egész áramkört,
+- a megfelelő eszközökkel biztosítják, hogy az áramkör hibája (pl. áramkimaradás, rövidzárlat, földelés) ne tegye működésképtelenné az egész áramkört,
 
-— a meghibásodás (villamos, elektronikus, informatikai) esetén a rendszer eredeti beállításait vissza lehessen állítani,
+- a meghibásodás (villamos, elektronikus, informatikai) esetén a rendszer eredeti beállításait vissza lehessen állítani,
 
-— az első beindult riasztás ne akadályozza meg, hogy bármelyik másik tűzjelző további tűzriasztást adjon.
+- az első beindult riasztás ne akadályozza meg, hogy bármelyik másik tűzjelző további tűzriasztást adjon.
 
 .2 Felszerelési követelmények
 
@@ -2268,11 +2316,11 @@ Automatikus tűzjelzőnek olyan kialakításúnak kell lennie, hogy helyes műk�
 
 .5 A tűzjelzők egymástól való legnagyobb távolságának a következő táblázatnak kell megfelelnie:
 
-|  | A tűzjelző típusa | A tűzjelzőnkénti legnagyobb alapterület (m²) | A középpontok közötti legnagyobb távolság (m) | A válaszfalaktól mért legnagyobb távolság (m) |
+| A tűzjelző típusa | A tűzjelzőnkénti legnagyobb alapterület (m2) | A középpontok közötti legnagyobb távolság (m) | A válaszfalaktól mért legnagyobb távolság (m) |
 
-|  | Hő | 37 | 9 | 4,5 |
+| Hő | 37 | 9 | 4,5 |
 
-|  | Füst | 74 | 11 | 5,5 |
+| Füst | 74 | 11 | 5,5 |
 
 A hajózási hatóság a tűzjelzők tulajdonságait vizsgáló kísérletek adatai alapján ezektől eltérő távolságot is előírhat vagy engedélyezhet.
 
@@ -2282,11 +2330,11 @@ A hajózási hatóság a tűzjelzők tulajdonságait vizsgáló kísérletek ada
 
 .1 A rendszert és a tartozékait úgy kell megtervezni, hogy ellenálljanak az áramellátás feszültségingadozásainak és átmeneti folyamatainak, a környezet hőmérsékleti változásainak, a rezgésnek, a páratartalomnak, a rázkódásoknak, az ütéseknek, az egy hajón általában tapasztalható hatásoknak és a korróziónak.
 
-.2 A .2.2 alpontban előírt, a lakótéren belüli lépcsőházakban, folyosókon és menekülési útvonalakon felszerelt hitelesített füstérzékelők akkor lépnek működésbe, amikor a füst sűrűsége 2–12,5%-os elhomályosítás között van.
+.2 A .2.2 alpontban előírt, a lakótéren belüli lépcsőházakban, folyosókon és menekülési útvonalakon felszerelt hitelesített füstérzékelők akkor lépnek működésbe, amikor a füst sűrűsége 2-12,5%-os elhomályosítás között van.
 
 A többi térben felszerelt füstérzékelőknek a hajózási hatóság által elfogadott érzékenységi határok között kell működniük, miközben el kell kerülni, hogy az érzékelők túl alacsony, illetve túl magas határértékre legyenek beállítva.
 
-.3 A hőérzékelőknek hitelesítettnek kell lenniük és úgy kell beállítani azokat, hogy 78 °C elérését követően jelezzenek, ill. akkor ha a hőmérséklet elérte a 54 °C-t, és emelkedésének sebessége eközben kisebb mint 1°C /perc. A hőmérséklet gyorsabb emelkedése esetén a hőérzékelőnek a hajózási hatóság által elfogadott hőmérsékleti határok között kell működnie, miközben el kell kerülni azt, hogy az érzékelők túl alacsony, illetve túl magas határértékre legyenek beállítva.
+.3 A hőérzékelőknek hitelesítettnek kell lenniük és úgy kell beállítani azokat, hogy 78 °C elérését követően jelezzenek, ill. akkor ha a hőmérséklet elérte a 54 °C-t, és emelkedésének sebessége eközben kisebb mint 1 °C/perc. A hőmérséklet gyorsabb emelkedése esetén a hőérzékelőnek a hajózási hatóság által elfogadott hőmérsékleti határok között kell működnie, miközben el kell kerülni azt, hogy az érzékelők túl alacsony, illetve túl magas határértékre legyenek beállítva.
 
 .4 Az a hőmérséklet, amelynél hőérzékelőknek működésbe kell lépnie, a szárító helyiségekben vagy a hasonló, általában magas környezeti hőmérsékletű terekben mért legmagasabb hőmérséklet fölé emelhető 30 °C-kal.
 
@@ -2312,9 +2360,9 @@ Az olaj tüzelőanyagként történő felhasználására a következő korlátoz
 
 .2 A vészüzemi generátorokban 43 °C-nál alacsonyabb lobbanáspontú tüzelőanyag nem használható fel.
 
-.3 E kiegészítő óvintézkedésekre is figyelemmel és azzal a feltétellel, hogy annak a térnek a hőmérséklete, ahol a tüzelőanyagot tartják vagy felhasználják, legalább 10°C-al alacsonyabb a tüzelőanyag lobbanáspontjánál, a hajózási hatóság szükséges esetben engedélyezheti a 60°C-nál alacsonyabb, de 43°C-nál magasabb lobbanáspontú tüzelőanyag általános használatát.
+.3 E kiegészítő óvintézkedésekre is figyelemmel és azzal a feltétellel, hogy annak a térnek a hőmérséklete, ahol a tüzelőanyagot tartják vagy felhasználják, legalább 10 °C-al alacsonyabb a tüzelőanyag lobbanáspontjánál, a hajózási hatóság szükséges esetben engedélyezheti a 60 °C-nál alacsonyabb, de 43 °C-nál magasabb lobbanáspontú tüzelőanyag általános használatát.
 
-A 2003. január 1-jén vagy azt követően épített hajók esetében a 60°C-nál alacsonyabb, de 43°C-nál magasabb lobbanáspontú tüzelőanyag a következő feltételekkel engedélyezhető:
+A 2003. január 1-jén vagy azt követően épített hajók esetében a 60 °C-nál alacsonyabb, de 43 °C-nál magasabb lobbanáspontú tüzelőanyag a következő feltételekkel engedélyezhető:
 
 .3.1 a kettős fenék rekeszeiben elhelyezett tartályok kivételével a tüzelőanyag-tartályokat az A. kategóriájú géptereken kívül helyezik el;
 
@@ -2330,19 +2378,23 @@ A tüzelőanyag lobbanáspontját egy jóváhagyott, zártcsészés próbával k
 
 A folyékony tüzelőanyagot felhasználó hajókban annak tárolására, elosztására és felhasználására vonatkozó intézkedésekkel biztosítani kell a hajó és a hajón tartózkodó személyek biztonságát. A következő előírásoknak kell teljesülniük:
 
-.1.1 Amennyiben kivitelezhető, a 0,18 N/mm²-nél nagyobb nyomás alatt lévő előmelegített tüzelőanyagot tartalmazó tüzelőanyag-rendszer részeit olyan helyen kell kialakítani, ahol a hibák vagy a szivárgás könnyen észlelhető. Az tüzelőanyag-rendszernek e részeit magukban foglaló géptereket a megfelelő módon meg kell világítani.
+.1.1 Amennyiben kivitelezhető, a 0,18 N/mm2-nél nagyobb nyomás alatt lévő előmelegített tüzelőanyagot tartalmazó tüzelőanyag-rendszer részeit olyan helyen kell kialakítani, ahol a hibák vagy a szivárgás könnyen észlelhető. Az tüzelőanyag-rendszernek e részeit magukban foglaló géptereket a megfelelő módon meg kell világítani.
 
 .1.2 Az előmelegített tüzelőanyag azt az olajat jelenti, amelynek hőmérséklete előmelegítés után magasabb mint 60 °C, illetve meghaladja az olaj tényleges lobbanáspontját, amennyiben ez utóbbi 60 °C-nál alacsonyabb.
 
 .2 A gépterek szellőzésének alkalmasnak kell lennie arra, hogy szokásos üzemi körülmények között megakadályozza a tüzelőanyag gőzeinek felgyülemlését.
 
-.3 Amennyiben kivitelezhető, a tüzelőanyag-tartályok a hajó szerkezetének részét képezik, és a géptereken kívül helyezkednek el. Amennyiben a tüzelőanyag-tartályok, a kettős fenék tartályok kivételével, szükségszerűen a gépterekkel szomszédos helyiségekben vagy a gépterekben vannak elhelyezve, legalább az egyik függőleges oldaluknak határosnak kell lennie a géptér válaszfalaival, lehetőleg közös határfelülete legyen a kettős fenék tartályaival, a géptér és a tartály közös határfelülete pedig a lehető legkisebb legyen. Amennyiben e tartályok a gépterek határain belül találhatók, a bennük tárolt tüzelőanyag lobbanáspontjának 60°C-nál alacsonyabbnak kell lennie. A szabadon álló tüzelőanyag-tartályok használata kerülendő és tilos a gépterekben.
+.3 Amennyiben kivitelezhető, a tüzelőanyag-tartályok a hajó szerkezetének részét képezik, és a géptereken kívül helyezkednek el. Amennyiben a tüzelőanyag-tartályok, a kettős fenék tartályok kivételével, szükségszerűen a gépterekkel szomszédos helyiségekben vagy a gépterekben vannak elhelyezve, legalább az egyik függőleges oldaluknak határosnak kell lennie a géptér válaszfalaival, lehetőleg közös határfelülete legyen a kettős fenék tartályaival, a géptér és a tartály közös határfelülete pedig a lehető legkisebb legyen. Amennyiben e tartályok a gépterek határain belül találhatók, a bennük tárolt tüzelőanyag lobbanáspontjának 60 °C-nál alacsonyabbnak kell lennie. A szabadon álló tüzelőanyag-tartályok használata kerülendő és tilos a gépterekben.
 
 .4 A tüzelőanyag-tartályokat nem szabad olyan területen elhelyezni, ahol fennáll annak veszélye hogy a tartályból kifolyó vagy kiszivárgó olaj a felforrósodott felületre kerül. Óvintézkedésekkel kell megakadályozni, hogy az szivattyúkból, szűrőkből vagy előmelegítőkből nyomás alatt kiszökő olaj kapcsolatba kerüljön a felforrósodott felületekkel.
 
 .5 500 liter vagy annál nagyobb űrtartalmú tároló, ülepítő vagy napi üzemi tartályhoz kapcsolódó tüzelőanyag vezetéket, amelynek sérülése esetén tüzelőanyag szökhet ki a kettős fenék feletti térbe, a tartály elhelyezésére szolgáló helyiségben keletkező tűz esetén való használatra, a helyiségen kívüli biztos helyről lezárható, közvetlenül a tartályra szerelt záró szeleppel kell felszerelni. A tengely- vagy csőalagútban, illetve hasonló helyen található mélytartályok különleges esetében a szelepeket a tartályra kell szerelni, azonban az alagúton vagy hasonló helyen kívül lévő helyre egy kiegészítő szelepet kell felszerelni, hogy tűz esetén a vezetéket vagy vezetékeket le lehessen zárni. Amennyiben ilyen kiegészítő szelepeket helyeznek el a géptérben, azt a géptéren kívüli helyről kell kezelni.
 
-A 2003. január 1-jén vagy azt követően épített hajókon a vészüzemi áramfejlesztő tüzelőanyag-tartályának szelepét távműködtető kezelőszerveket a gépterekben lévő egyéb szelepeket távműködtető kezelőszervektől elkülönítve kell elhelyezni.
+.1 A 2003. január 1-jén vagy azt követően épített hajókon a vészüzemi áramfejlesztő tüzelőanyag-tartályának szelepét távműködtető kezelőszerveket a gépterekben lévő egyéb szelepeket távműködtető kezelőszervektől elkülönítve kell elhelyezni.
+
+2. A 2012. január 1-jén vagy azt követően épített, 500 tonnánál kisebb bruttó űrtartalmú hajókon a kettős fenék felett elhelyezett tüzelőanyag-tartályokat csappal vagy szeleppel kell ellátni.
+
+3. A 2012. január 1-je előtt épített, 500 tonnánál kisebb bruttó űrtartalmú hajókon a kettős fenék felett található, 500 liternél kisebb űrtartalmú tüzelőanyag-tartályokat is el kell látni az első bekezdésben említett csappal vagy szeleppel, legkésőbb a 2012. január 1-jén vagy azt kövezően esedékes első időszakos szemléig.
 
 .6 Biztonságos és hatékony berendezéseket kell alkalmazni annak megállapítása érdekében, hogy mennyi tüzelőanyag található a tartályokban.
 
@@ -2366,15 +2418,15 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .8 A tüzelőanyag-csöveket, azok szelepeit és szerelvényeit acélból vagy egyéb engedélyezett anyagból kell készíteni, kivéve azokat az eseteket, amikor engedélyezett a hajlékony csövek korlátozott használata is. E hajlékony csöveket és csatlakozásaikat jóváhagyott, megfelelő szilárdságú tűzálló anyagokból kell készíteni.
 
-Az acél vagy gömbgrafitos öntöttvas elfogadható olyan, tüzelőanyag-tartályokra szerelt szelepek esetében, amelyek statikus nyomás alatt vannak. Szürke öntvény szelepek használhatók azonban azokban a csőrendszerekben, ahol az üzemi nyomás 7 bar, az üzemi hőmérséklet pedig 60°C alatt van.
+Az acél vagy gömbgrafitos öntöttvas elfogadható olyan, tüzelőanyag-tartályokra szerelt szelepek esetében, amelyek statikus nyomás alatt vannak. Szürke öntvény szelepek használhatók azonban azokban a csőrendszerekben, ahol az üzemi nyomás 7 bar, az üzemi hőmérséklet pedig 60 °C alatt van.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .9 A nagynyomású tüzelőanyag-szivattyúk és tüzelőanyag-injektorok közötti külső nagynyomású tüzelőanyag szállító vezetékeket egy kettősfalú csőrendszernek kell védenie, amely a nagynyomású vezeték hibája esetén befogadja a kifolyó olajat. A kettősfalú cső egy külső csövet foglal magába, amelybe a nagynyomású tüzelőanyagcsövet helyezik, és ezzel állandó összeszerelés jön létre. A kettősfalú csőrendszert fel kell szerelni egy a szivárgó olaj összegyűjtésére szolgáló berendezéssel, és olyan berendezéssel kell ellátni, amely riasztással jelzi a tüzelőanyag-vezeték hibáját.
 
-.10 A 220°C-nál magasabb hőmérsékletű felületeket, amelyekre a tüzelőanyag-rendszer hibája miatt tüzelőanyag kerülhet, megfelelő szigeteléssel kell ellátni.
+.10 A 220 °C-nál magasabb hőmérsékletű felületeket, amelyekre a tüzelőanyag-rendszer hibája miatt tüzelőanyag kerülhet, megfelelő szigeteléssel kell ellátni.
 
-.11 A tüzelőanyag-vezetékeket árnyékolni kell, illetve más megfelelő módon védeni kell annak érdekében, hogy — amennyire kivitelezhető — elkerüljék az olajpermet vagy a szivárgó olaj kijutását a forró felületekre, a gépek szívónyílásaiba vagy egyéb tűzveszélyes helyekre. E csőrendszerek illesztéseinek számát a lehető legkevesebbre kell korlátozni.
+.11 A tüzelőanyag-vezetékeket árnyékolni kell, illetve más megfelelő módon védeni kell annak érdekében, hogy - amennyire kivitelezhető - elkerüljék az olajpermet vagy a szivárgó olaj kijutását a forró felületekre, a gépek szívónyílásaiba vagy egyéb tűzveszélyes helyekre. E csőrendszerek illesztéseinek számát a lehető legkevesebbre kell korlátozni.
 
 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
@@ -2386,7 +2438,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .15 Amennyiben a hajózási hatóság engedélyezi az olaj és egyéb éghető folyadékok lakó- és kiszolgáló tereken keresztül történő szállítását, az olajat vagy az éghető folyadékot szállító csöveket a hajózási hatóság által a tűzveszély figyelembevételével jóváhagyott anyagból kell készíteni.
 
-.16 A B. kategóriájú meglévő hajóknak legkésőbb 2003. július 1-ig meg kell felelniük a .2.9–.2.11 bekezdés követelményeinek, kivéve azokat az eseteket, amikor a 375 kW vagy annál kisebb teljesítményű motoroknál, amelyek tüzelőanyag adagoló szivattyúja egynél több injektort lát el, a .2.9 alpontban meghatározott kettősfalú csőrendszer helyett egy megfelelő burkolat alkalmazható.
+.16 A B. kategóriájú meglévő hajóknak legkésőbb 2003. július 1-ig meg kell felelniük a .2.9-.2.11 bekezdés követelményeinek, kivéve azokat az eseteket, amikor a 375 kW vagy annál kisebb teljesítményű motoroknál, amelyek tüzelőanyag adagoló szivattyúja egynél több injektort lát el, a .2.9 alpontban meghatározott kettősfalú csőrendszer helyett egy megfelelő burkolat alkalmazható.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
@@ -2402,13 +2454,13 @@ A 2003. január 1-jén vagy azt követően épített hajók esetében a 10.2.5 b
 
 .4 Az egyéb éghető olajokkal kapcsolatos berendezések
 
-Az erőátviteli rendszerekben, vezérlő- és kioldó rendszerekben és a fűtőrendszerben valamint az egyéb nyomás alatt álló, az éghető olajok tárolására, elosztására és felhasználására szolgáló berendezéseket úgy kell kialakítani, hogy biztosítsák a hajó és a fedélzeten tartózkodó személyek biztonságát. A gyulladásveszélyes helyeken e berendezéseknek meg kell felelniük legalább a .2.4, .2.6, .2.10 és .2.11 bekezdés rendelkezéseinek, a szilárdság és szerkezeti felépítés tekintetében pedig a .2.7 és .2.8 bekezdés rendelkezéseinek.
+Az erőátviteli rendszerekben, vezérlő- és kioldó rendszerekben és a fűtőrendszerben, valamint az egyéb nyomás alatt álló, az éghető olajok tárolására, elosztására és felhasználására szolgáló berendezéseket úgy kell kialakítani, hogy biztosítsák a hajó és a fedélzeten tartózkodó személyek biztonságát. A gyulladásveszélyes helyeken e berendezéseknek meg kell felelniük legalább a .2.4, .2.6, .2.10 és .2.11 bekezdés rendelkezéseinek, a szilárdság és szerkezeti felépítés tekintetében pedig a .2.7 és .2.8 bekezdés rendelkezéseinek.
 
 .5 Időszakosan felügyelet nélkül hagyott gépterek
 
-Az 1–4. rendelkezés követelményei mellett a tüzelőanyag- és kenőolaj-rendszer megfelel a következő feltételeknek:
+Az 1-4. rendelkezés követelményei mellett a tüzelőanyag- és kenőolajrendszer megfelel a következő feltételeknek:
 
-.1 amennyiben azokat a tüzelőanyag-tartályokat, amelyek a napi szükségletet elégítik ki, önműködően vagy távvezérléssel töltik fel, a túlfolyás megelőzésére megfelelő berendezéseket kell alkalmazni. Az éghető folyadékokat automatikusan kezelő egyéb berendezéseket, mint például a tüzelőanyag-szeparátorokat illetve szűrőket, amelyeket lehetőség szerint a szeparátorok illetve szűrők és előmelegítőik számára fenntartott külön térben kell elhelyezni, a túlfolyást megakadályozó berendezésekkel kell felszerelni.
+.1 amennyiben azokat a tüzelőanyag-tartályokat, amelyek a napi szükségletet elégítik ki, önműködően vagy távvezérléssel töltik fel, a túlfolyás megelőzésére megfelelő berendezéseket kell alkalmazni. Az éghető folyadékokat automatikusan kezelő egyéb berendezéseket, mint például a tüzelőanyag-szeparátorokat, illetve szűrőket, amelyeket lehetőség szerint a szeparátorok, illetve szűrők és előmelegítőik számára fenntartott külön térben kell elhelyezni, a túlfolyást megakadályozó berendezésekkel kell felszerelni.
 
 .2 Amennyiben a napi szükségletet kielégítő tüzelőanyag-tartályok vagy ülepítő tartályok fűtőberendezéssel vannak felszerelve, egy olyan berendezést kell beépíteni, amely a magas hőmérsékletet jelzi riasztással akkor, ha a hőmérséklet meghaladja a tüzelőanyag lobbanáspontját.
 
@@ -2416,11 +2468,11 @@ Az 1–4. rendelkezés követelményei mellett a tüzelőanyag- és kenőolaj-re
 
 Folyékony tüzelőanyagot, kenőolajat és egyéb éghető olajat nem szabad az orrtéri tartályokban szállítani.
 
-11. Tűzoltófelszerelések (R 17)
+11. Tűzoltó-felszerelések (R 17)
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.1 A tűzoltófelszerelés a következőkből áll:
+.1 A tűzoltó-felszerelés a következőkből áll:
 
 .1.1 személyi felszerelésből, ami magában foglalja a következőket:
 
@@ -2438,7 +2490,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 i. a hajón öt vagy annál több SCBA-val van felszerelve, akkor a tárolt atmoszférikus nyomású levegő teljes űrtartalma nem kell hogy meghaladja a 9600 litert; vagy
 
-ii. a hajót olyan berendezéssel szerelik fel, amellyel teljes nyomáson, szennyeződéstől mentes levegővel lehet feltölteni a levegőtartályokat, és az SCBA-k teljesen feltöltött tartalék tartályai legalább 1200 liter atmoszférikus levegőt tartalmaznak, akkor a hajón tárolt atmoszférikus levegő teljes térfogata nem kell hogy meghaladja a 4800 litert.
+ii. a hajót olyan berendezéssel szerelik fel, amellyel teljes nyomáson, szennyeződéstől mentes levegővel lehet feltölteni a levegőtartályokat, és az SCBA-k teljesen feltöltött tartalék tartályai legalább 1200 liter atmoszférikus levegőt tartalmaznak, akkor a hajón tárolt atmoszférikus levegő teljes térfogata nem kell, hogy meghaladja a 4800 litert.
 
 Az SCBA-k légtartálynak cserélhetőnek kell lennie.
 
@@ -2458,11 +2510,13 @@ A 36 főnél több személyt szállító hajón függőleges főzónánként ké
 
 .5 A tűzoltó felszerelést vagy a személyi felszerelést úgy kell tárolni, hogy könnyen hozzáférhető és üzemképes legyen, továbbá ahol egynél több tűzoltó felszerelés vagy egynél több személyi felszerelés található, azokat egymástól jól elkülönített helyen kell tartani. E helyeken legalább egy tűzoltó felszerelésnek és egy személyi felszerelésnek kell lennie.
 
+.6. Amennyiben a lobogó szerinti állam hatósága úgy ítéli, hogy az ebben a szabályban foglalt szállítási előírások indokolatlanok, illetve technikailag kivitelezhetetlenek egyes hajók fedélzetén, e hajók mentesülhetnek e szabály egy vagy több követelménye alól.
+
 12. Vegyes rendelkezések (R 18)
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.1 Ahol az „A” kategóriájú térhatárolókon villamos kábeleket, csöveket, aknákat, alagutakat, stb. vezetnek át, illetve merevítők, fedélzeti gerendák és egyéb szerkezeti elemek miatt azokat megbontják, ügyelni kell arra, hogy — amennyire ez ésszerű és kivitelezhető — e munkálatok ne csökkentsék a tűzállóságot.
+.1 Ahol az „A” kategóriájú térhatárolókon villamos kábeleket, csöveket, aknákat, alagutakat, stb. vezetnek át, illetve merevítők, fedélzeti gerendák és egyéb szerkezeti elemek miatt azokat megbontják, ügyelni kell arra, hogy - amennyire ez ésszerű és kivitelezhető - e munkálatok ne csökkentsék a tűzállóságot.
 
 A 2003. január 1-jén vagy azt követően épített hajók esetében, amennyiben az „A” kategóriájú térhatárolót megbontják, akkor e megbontást a Tűzvizsgálati eljárások szabályzatának megfelelően vizsgálatnak kell alávetni annak biztosítása érdekében, hogy a térhatárolók tűzállósága ne csökkenjen.
 
@@ -2472,19 +2526,19 @@ Amennyiben az átvezetett cső 3 mm-es vagy nagyobb vastagságú, illetve legal�
 
 Ezeket az átvezetéseket a térhatároló szigetelésének meghosszabbításával azonos szigetelési értékkel kell szigetelni.
 
-.2 Ahol a „B” kategóriájú térhatárolón villamos kábeleket, csöveket, aknákat, alagutakat, stb. vezetnek át, illetve a szellőzőcsatornák lezárásai, lámpatestek és hasonló készülékek felszerelése miatt megbontják azokat, ügyelni kell arra, hogy — amennyire ez ésszerű és kivitelezhető — e munkálatok ne károsítsák a tűzállóságot. A 2003. január 1-jén vagy azt követően épített hajókon az ilyen átvezetett szerkezetek elkészítésekor biztosítani kell, hogy a térhatárolók tűzállóképessége ne csökkenjen.
+.2 Ahol a „B” kategóriájú térhatárolón villamos kábeleket, csöveket, aknákat, alagutakat, stb. vezetnek át, illetve a szellőzőcsatornák lezárásai, lámpatestek és hasonló készülékek felszerelése miatt megbontják azokat, ügyelni kell arra, hogy - amennyire ez ésszerű és kivitelezhető - e munkálatok ne károsítsák a tűzállóságot. A 2003. január 1-jén vagy azt követően épített hajókon az ilyen átvezetett szerkezetek elkészítésekor biztosítani kell, hogy a térhatárolók tűzállóképessége ne csökkenjen.
 
 A „B” kategóriájú térhatárolókat áttörő, nem acélból vagy rézből készült csövek védelméről a következőkképpen kell gondoskodni:
 
 .1 az áttört térhatároló tűzállóságának és a felhasznált cső típusának megfelelő, tűzvédelmileg vizsgált átvezető szerkezettel; vagy
 
-.2 legalább 1,8 mm vastag és a legalább 150 mm átmérőjű csövek esetében legalább 900 mm, a legfeljebb 150 mm átmérőjű csövek esetében pedig legalább 600 mm hosszú acélköpennyel (lehetőleg egyenletesen elosztva a válaszfal két oldalán).
+.2 legalább 1,8 mm vastag és a legalább 150 mm átmérőjű csövek esetében legalább 900 mm, a legfeljebb 150 mm átmérőjű csövek esetében pedig legalább 600 mm hosszú acélköpennyel (lehetőleg egyenletesen elosztva a válaszfal két oldalán);
 
 a csövet peremekkel vagy csőkötésekkel kell csatlakoztatni a köpenyek végeihez, a köpeny és a csővezeték közötti hézag pedig nem haladhatja meg a 2,5 mm-t, illetve a csővezeték és a köpeny közötti hézagot éghetetlen vagy egyéb alkalmas anyaggal kell eltömíteni.
 
 .3 Az „A” és „B” kategóriájú térhatárolókon átvezetett csöveket jóváhagyott anyagból kell készíteni, figyelembe véve azt a hőmérsékletet, amelyet e térhatárolónak ki kell állnia.
 
-A 2003. január 1-jén vagy azt követően épített hajókon az „A” vagy „B” kategóriájú térhatárolókat megbontó, nem szigetelt fémcsöveket olyan anyagból kell készíteni, amelyek olvadáspontja az „A-0” esetében 950°C és a „B-0” térhatárolók esetében 850 °C fölött van.
+A 2003. január 1-jén vagy azt követően épített hajókon az „A” vagy „B” kategóriájú térhatárolókat megbontó, nem szigetelt fémcsöveket olyan anyagból kell készíteni, amelyek olvadáspontja az „A-0” esetében 950 °C és a „B-0” térhatárolók esetében 850 °C fölött van.
 
 .4 A lakóterekben, a kiszolgáló helyiségekben vagy a vezérlőállásokban az olaj vagy egyéb éghető folyadék szállítására szolgáló csöveknek a tűzveszélynek megfelelő anyagból kell készülniük, és kivitelezésüknek is ehhez kell alkalmazkodni.
 
@@ -2498,19 +2552,19 @@ A 2003. január 1-jén vagy azt követően épített hajókon az „A” vagy �
 
 A., B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-Azokban a terekben, ahol fennáll az olajfolt vagy az olajgőz kialakulásának a veszélye, például az A. kategóriájú gépterekben, a szigetelő anyag nem eresztheti át az olajat vagy az olajgőzt. Ahol a burkolat, mint a legkülső fedő felület perforálatlan acéllemezekből vagy egyéb nem éghető anyagból (nem alumínium) készült, akkor ez a burkolat varrattal, szegecseléssel, stb. rögzíthető.
+Azokban a terekben, ahol fennáll az olajfolt vagy az olajgőz kialakulásának a veszélye, például az A. kategóriájú gépterekben, a szigetelő anyag nem eresztheti át az olajat vagy az olajgőzt. Ahol a burkolat, mint a legkülső fedő felület perforálatlan acéllemezekből vagy egyéb nem éghető anyagból (nem alumínium) készült, akkor ez a burkolatvarrattal, szegecseléssel, stb. rögzíthető.
 
 .9 A festékraktárakat és az éghető folyadékokat tartalmazó raktárakat jóváhagyott tűzoltó berendezéssel kell védeni, amely lehetővé teszi a személyzet számára, hogy eloltsa a tüzet anélkül, hogy a helyiségbe lépne.
 
 A 2003. január 1-jén vagy azt követően épített hajókon:
 
-.1 A festékraktárakat a következő eszközökkel kell védeni:
+.1 A festékraktárakat a következő eszközök egyikével kell védeni:
 
-.1.1 szén-dioxidos tűzoltó rendszerrel, amelyet úgy terveztek, hogy a szabad gáz mennyisége legalább a védett tér bruttó térfogatának 40%-a.
+.1.1 szén-dioxidos tűzoltó rendszerrel, amelyet úgy terveztek, hogy a szabad gáz mennyisége legalább a védett tér bruttó térfogatának 40%-a,
 
 .1.2 szárazporos tűzoltó rendszerrel, amely legalább 0,50 kg/m3 oltóport tartalmaz;
 
-.1.3 vízpermettel vagy vízsugárral oltó rendszerrel, amelyet legalább 5 liter/m² mennyiségre terveztek. A vízsugárral oltó rendszereket a hajó tűzoltóvezetékéhez lehessen csatlakoztatni; vagy
+.1.3 vízpermettel vagy vízsugárral oltó rendszerrel, amelyet legalább 5 liter/m2 mennyiségre terveztek. A vízsugárral oltó rendszereket a hajó tűzoltóvezetékéhez lehessen csatlakoztatni; vagy
 
 .1.4 a hajózási hatóság által meghatározott, egyenértékű védelmet biztosító rendszerrel.
 
@@ -2518,7 +2572,7 @@ A rendszernek bármikor működtethetőnek kell lennie a védett téren kívülr
 
 .2 Az éghető folyadékok tárolására szolgáló helyiségeket a hajózási hatóság által jóváhagyott, megfelelő tűzoltó berendezéssel kell védeni.
 
-.3 A 4 m²-nél kisebb alapterületű, a lakóterekkel kapcsolatban nem álló raktárak esetében a beépített rendszer helyett elfogadható a legalább a tér bruttó térfogatának 40%-ával megegyező mennyiségű atmoszférikus nyomású gázt biztosító hordozható, szén-dioxidos tűzoltó készülék.
+.3 A 4 m2-nél kisebb alapterületű, a lakóterekkel kapcsolatban nem álló raktárak esetében a beépített rendszer helyett elfogadható a legalább a tér bruttó térfogatának 40%-ával megegyező mennyiségű atmoszférikus nyomású gázt biztosító hordozható, szén-dioxidos tűzoltó készülék.
 
 A raktárban egy kiömlőnyílást kell biztosítani, amely lehetővé teszi a tűzoltó anyag kiürítését anélkül, hogy be kelljen lépni a védett térbe. A szükséges hordozható tűzoltó készüléket a nyílás mellett kell tárolni. Emellett egy beömlőnyílást vagy egy tömlőcsatlakozást is lehet biztosítani, amely lehetővé teszi a tűzoltóvezetékben lévő víz használatát.
 
@@ -2530,7 +2584,7 @@ Ahol a fő konyhán kívüli terekben olajsütőket, főző és sütő berendez�
 
 A 2003. január 1-jén vagy azt követően épített hajókon az olajsütőket a következőkkel kell felszerelni:
 
-.1 automatikus vagy kézi működtetésű tűzoltórendszer, amelyet a konyhai olajsütő berendezések védelmét szolgáló tűzoltórendszerekről szóló ISO 15371:2000 szabványnak megfelelő nemzetközi szabvány alapján ellenőriztek;
+.1 automatikus vagy kézi működtetésű tűzoltórendszer, amelyet a konyhai olajsütő berendezések védelmét szolgáló tűzoltórendszerekről szóló ISO 15371:2000 szabványnak vagy azzal egyenértékű szabálynak megfelelően ellenőriztek;
 
 .2 két egymástól független riasztóberendezéssel ellátott termosztát, amely bármelyik termosztát meghibásodása esetén riasztja a kezelőt;
 
@@ -2554,7 +2608,7 @@ A., B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJ�
 
 .12 Túlnyomásos gáztartályok:
 
-Az összes, nyomás alatt sűrített, cseppfolyósított vagy lebomlott gázt tartalmazó hordozható tartályt, amely táplálhat egy esetleges tüzet, használat után azonnal egy a válaszfalfedélzet fölötti megfelelő helyre kell vinni, ahonnan közvetlen kijárat nyílik a szabad fedélzetre.
+Az összes, nyomás alatt sűrített, cseppfolyósított vagy lebomlott gázt tartalmazó hordozható tartályt, amely táplálhat egy esetleges tüzet, használat után azonnal egy a válaszfalfedélzet fölötti megfelelő helyre kell vinni, ahonnan közvetlen kijárat nyílik a nyitott fedélzetre.
 
 13. Tűzvédelmi tervek és tűzvédelmi riadógyakorlatok (R 20)
 
@@ -2596,13 +2650,13 @@ A tűzoltórendszereket és berendezéseket működőképes és azonnal bevethet
 
 .1.2 Karbantartás, próbák és ellenőrzés
 
-A karbantartást, a próbákat és ellenőrzést a Nemzetközi Tengerészeti Szervezet által kidolgozott irányelvek alapján kell elvégezni olyan módon, hogy megfelelő figyelmet fordítanak a tűzoltórendszerek és berendezések megbízhatóságára.
+A karbantartást, a próbákat és ellenőrzést a Nemzetközi Tengerészeti Szervezet MSC 850. körlevelében foglalt irányelvek alapján kell elvégezni olyan módon, hogy megfelelő figyelmet fordítanak a tűzoltórendszerek és berendezések megbízhatóságára.
 
 A karbantartási tervet a hajón kell tartani, amelynek bármikor ellenőrizhetőnek kell lennie, amikor azt a hajózási hatóság megköveteli.
 
 A karbantartási terv legalább a következő tűzvédelmi rendszereket, valamint tűzoltórendszereket és -berendezéseket tartalmazza, amennyiben felszerelték azokat:
 
-.1 tűzoltó vezetékek, tűzoltó szivattyúk és tűzcsapok, beleértve a tömlőket és a sugárcsöveket;
+.1 tűzoltóvezetékek, tűzoltószivattyúk és tűzcsapok, beleértve a tömlőket és a sugárcsöveket;
 
 .2 beépített tűzérzékelő és tűzjelző rendszerek;
 
@@ -2632,7 +2686,7 @@ A 2003. január 1-jén vagy azt követően épített, 36-nál több személy sz�
 
 15. Utasítások, fedélzeti kiképzés és gyakorlatok
 
-B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS MEGLÉVŐ HAJÓK:
+B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS MEGLÉVŐ B. KATEGÓRIÁJÚ HAJÓK:
 
 .1 Utasítások, feladatok és szervezés
 
@@ -2696,9 +2750,7 @@ TŰZBIZTONSÁGI INTÉZKEDÉSEK
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.1 A hajótestet, a felépítményeket, a szerkezeti válaszfalakat, a fedélzeteket és a fedélzeti házakat acélból vagy egyéb egyenértékű anyagból kell készíteni. A II-2/A/2.7 pontban megadott acél és egyéb egyenértékű anyagok meghatározásának alkalmazása céljából az „alkalmazandó tűzbehatás” időtartamának meg kell felelnie a 4. és 5. szabály táblázataiban megadott sértetlenségi és szigetelési normáknak. Amennyiben például a fedélzeteknek vagy a fedélzeti ház oldalainak és végződéseinek tűzállósága
-
-„B-0” kategóriájú, az „alkalmazandó tűzbehatás” fél óra.
+.1 A hajótestet, a felépítményeket, a szerkezeti válaszfalakat, a fedélzeteket és a fedélzeti házakat acélból vagy egyéb egyenértékű anyagból kell készíteni. A II-2/A/2.7 pontban megadott acél és egyéb egyenértékű anyagok meghatározásának alkalmazása céljából az „alkalmazandó tűzbehatás” időtartamának meg kell felelnie a 4. és 5. szabály táblázataiban megadott sértetlenségi és szigetelési normáknak. Amennyiben például a fedélzeteknek vagy a fedélzeti ház oldalainak és végződéseinek tűzállósága „B-0” kategóriájú, az „alkalmazandó tűzbehatás” fél óra.
 
 .2 A könnyű fémből készült szerkezeti elemekre a következő előírásokat kell alkalmazni:
 
@@ -2710,7 +2762,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .2 hogy az e „B” kategóriájú térelválasztókat alátámasztó szerkezeti elemekre a .2.1 alpontban meghatározott hőmérsékletemelkedési korlátozást fél óra elteltéig alkalmazzák.
 
-.3 A gépterek tetőszerkezeteinek és a gépaknáinak is megfelelően szigetelt acélból kell készülniük, a bennük lévő nyílásokat pedig, ha vannak ilyenek, úgy kell elhelyezni és védeni, hogy megakadályozza a tűz terjedését.
+.3 Az A kategóriájú gépterek tetőszerkezeteinek és a gépaknáinak is megfelelően szigetelt acélból kell készülniük, a bennük lévő nyílásokat pedig, ha vannak ilyenek, úgy kell elhelyezni és védeni, hogy megakadályozza a tűz terjedését.
 
 2. Függőleges és vízszintes főzónák (R 24)
 
@@ -2720,7 +2772,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 A lépcsők és bemélyedések számát a lehető legkevesebbre kell csökkenteni, amennyiben viszont szükségesek, akkor A-60 kategóriájú térelválasztókból kell készíteni azokat.
 
-Amennyiben a térhatároló egyik oldalán olyan szabad fedélzeti tér, egészségügyi vagy hasonló helyiségek, tartályok, ideértve a tüzelőanyag-tartályt is, üres terek vagy segédüzemi gépterek vannak, ahol kicsi, vagy egyáltalán nincs tűzveszély, illetve ahol a térhatároló mindkét oldalán tüzelőanyag-tartályok vannak, a norma A-0-ra csökkenthető.
+Amennyiben a térhatároló egyik oldalán olyan nyitott fedélzeti tér, egészségügyi vagy hasonló helyiségek, tartályok, ideértve a tüzelőanyag-tartályt is, üres terek vagy segédüzemi gépterek vannak, ahol kicsi, vagy egyáltalán nincs tűzveszély, illetve ahol a térhatároló mindkét oldalán tüzelőanyag-tartályok vannak, a norma A-0-ra csökkenthető.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
@@ -2728,7 +2780,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.2 Amennyire kivitelezhető, a válaszfalfedélzet feletti függőleges főzónák határvonalát alkotó válaszfalaknak egy síkban kell lenniük a közvetlenül a válaszfalfedélzet alatt lévő vízmentes válaszfalakkal. A függőleges főzónák hosszát és szélességét maximum 48 méterig lehet megnövelni, azért hogy a függőleges főzónák végei egybeessenek a vízmentes válaszfalakkal, illetve hogy egy nagy közös térnek adjanak helyet, amely a függőleges főzóna teljes hosszára kiterjed, amennyiben a függőleges főzóna teljes területe egyetlen fedélzeten sem haladja meg az 1600 m2-t. A függőleges főzóna hossza vagy szélessége a zónát határoló válaszfalak legtávolabbi pontjai között mért legnagyobb távolság.
+.2 Amennyire kivitelezhető, a válaszfalfedélzet feletti függőleges főzónák határvonalát alkotó válaszfalaknak egy síkban kell lenniük a közvetlenül a válaszfalfedélzet alatt lévő vízmentes válaszfalakkal. A függőleges főzónák hosszát és szélességét maximum 48 méterig lehet megnövelni, azért, hogy a függőleges főzónák végei egybeessenek a vízmentes válaszfalakkal, illetve, hogy egy nagy közös térnek adjanak helyet, amely a függőleges főzóna teljes hosszára kiterjed, amennyiben a függőleges főzóna teljes területe egyetlen fedélzeten sem haladja meg az 1600 m2-t. A függőleges főzóna hossza vagy szélessége a zónát határoló válaszfalak legtávolabbi pontjai között mért legnagyobb távolság.
 
 A TÖBB MINT 36 SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
@@ -2736,7 +2788,7 @@ A TÖBB MINT 36 SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C. ÉS 
 
 .4 Amennyiben a függőleges főzónákat „A” kategóriájú vízszintes térelválasztók tagolják vízszintes zónákra annak érdekében, hogy a hajón a vízpermettel oltással védett és a nem védett zónák között megfelelő határt hozzanak létre, akkor a válaszfalak a szomszédos függőleges főzóna válaszfalai közé esnek, és a külhéjig vagy a hajó külső határvonaláig terjednek, ezenkívül a több mint 36 személy szállítására alkalmasnak nyilvánított új hajókra vonatkozó 4.2 táblázatban és a 36 vagy annál kevesebb személy szállítására alkalmasnak nyilvánított új hajókra és a több mint 36 személy szállítására alkalmasnak nyilvánított B. kategóriájú meglévő hajókra vonatkozó 5.2 táblázatban megadott szigetelési és tűzállósági értékeknek megfelelően kell szigetelni azokat.
 
-.5 .1 Azokon a hajókon, amelyeket különleges célokra terveztek, mint például a gépjárműszállító vagy vasúti komphajók, amelyeken a függőleges főzóna válaszfalainak kialakítása veszélyeztetné a hajó alapfunkcióját, a terek vízszintes zónákra osztásával kell megfelelő védelmet biztosítani.
+.5.1 Azokon a hajókon, amelyeket különleges célokra terveztek, mint például a gépjárműszállító vagy vasúti komphajók, amelyeken a függőleges főzóna válaszfalainak kialakítása veszélyeztetné a hajó alapfunkcióját, a terek vízszintes zónákra osztásával kell megfelelő védelmet biztosítani.
 
 .2 A speciális kategóriájú terekkel rendelkező hajókon azonban e tereknek meg kell felelniük a II-2/B/14. pont vonatkozó rendelkezéseinek, amennyiben pedig ez összeegyeztethetetlen lenne e rész más követelményeivel, akkor a II-2/B/14. pont követelményei élveznek elsőbbséget.
 
@@ -2746,21 +2798,21 @@ A TÖBB MINT 36 SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C. ÉS 
 
 .1.1 A több mint 36 személy szállítására alkalmasnak nyilvánított B., C. és D. kategóriájú új hajókon azok a válaszfalak, amelyeknek az előírás szerint nem kell „A” kategóriájú térelválasztóknak lenniük, a 4. pont táblázatában leírtaknak megfelelően legalább „B” vagy „C” kategóriájú térelválasztók legyenek. E térelválasztók a 11. pont rendelkezéseinek megfelelően éghető anyagokkal is burkolhatók.
 
-A 36-NÁL KEVESEBB SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., D., ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS A TÖBB MINT 36 SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
+A 36-NÁL KEVESEBB SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C., ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS A TÖBB MINT 36 SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .1.2 A 36-nál kevesebb személy szállítására alkalmasnak nyilvánított új hajókon és a több mint 36 személy szállítására alkalmasnak nyilvánított B. kategóriájú meglévő hajókon a lakóterekben és a kiszolgáló helyiségekben lévő összes válaszfal, amelynek az előírás szerint nem kell „A” kategóriájú térelválasztónak lennie, az 5. pont táblázatában leírtak szerint legalább „B” vagy „C” kategóriájú térelválasztó legyen.
 
-E térelválasztók a 11. pont rendelkezéseinek megfelelően éghető anyagokkal is burkolhatók.
+Minden térelválasztó a 11. pont rendelkezéseinek megfelelően éghető anyagokkal is burkolható.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .2 A 36-nál kevesebb személy szállítására alkalmasnak nyilvánított B. C. és D. kategóriájú új hajókon és a több mint 36 személy szállítására alkalmasnak nyilvánított B. kategóriájú meglévő hajókon a folyosók válaszfalainak, amelyeknek az előírás szerint nem kell „A” kategóriájú térelválasztónak lenniük, „B” kategóriájú térelválasztók legyenek, amelyek egyik fedélzettől a másik fedélzetig terjednek, kivéve a következő eseteket:
 
-.1 ha a folyamatos válaszfal mindkét oldalán „B” kategóriájú mennyezetet vagy burkolatot szerelnek fel, a folyamatos mennyezetnek vagy a burkolat válaszfal mögötti részének olyan anyagból kell készülnie, amely vastagság és összetétel szempontjából elfogadható a „B” kategóriájú térelválasztás kialakításakor, viszont csak az ésszerűség és kivitelezhetőség határain belül kell megfelelnie a „B” kategóriáj sértetlenséggel kapcsolatos normáinak.
+.1 ha a folyamatos válaszfal mindkét oldalán „B” kategóriájú mennyezetet vagy burkolatot szerelnek fel, a folyamatos mennyezetnek vagy a burkolat válaszfal mögötti részének olyan anyagból kell készülnie, amely vastagság és összetétel szempontjából elfogadható a „B” kategóriájú térelválasztás kialakításakor, viszont csak az ésszerűség és kivitelezhetőség határain belül kell megfelelnie a „B” kategóriájú sértetlenséggel kapcsolatos normáinak.
 
 .2 abban az esetben, ha a hajót a II-2/A/8 pont rendelkezéseinek megfelelő automatikus vízpermettel oltó berendezés védi, a „B” kategóriájú anyagokból készült folyosó válaszfalak a folyosó mennyezeténél végződhetnek, amennyiben a mennyezet olyan anyagból készült, amely vastagság és összetétel szempontjából a „B” kategóriájú térelválasztó szerkezeti felépítésének megfelel.
 
-A 4. és 5. pont követelményeinek sérelme nélkül e válaszfalaknak és mennyezeteknek csak az ésszerűség és kivitelezhetőség határain belül kell megfelelniük a „B” kategóriáj sértetlenségi normáinak. Az ezen válaszfalakban található ajtókat és ajtótokokat nem éghető anyagból kell készíteni, és úgy kell kialakítani és beszerelni azokat, hogy megfelelő tűzállósággal rendelkezzenek.
+A 4. és 5. pont követelményeinek sérelme nélkül e válaszfalaknak és mennyezeteknek csak az ésszerűség és kivitelezhetőség határain belül kell megfelelniük a „B” kategóriájú sértetlenségi normáinak. Az ezen válaszfalakban található ajtókat és ajtótokokat nem éghető anyagból kell készíteni, és úgy kell kialakítani és beszerelni azokat, hogy megfelelő tűzállósággal rendelkezzenek.
 
 .3 Minden olyan válaszfalnak, amelynek a .2 alpontban leírt folyosó válaszfalak kivételével „B” kategóriájú térelválasztónak kell lennie, fedélzettől fedélzetig és a külhéjig vagy a hajó külső határvonaláig kell terjednie, amennyiben a válaszfalak két oldalán kialakított „B” kategóriájú folyamatos mennyezetek és burkolatok nem legalább a válaszfallal megegyező tűzálló anyagból készültek, amely esetben a válaszfal a folyamatos mennyezetben vagy burkolatban is végződhet.
 
@@ -2772,179 +2824,177 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .2 A táblázatokat a következőképpen kell alkalmazni:
 
-.1 A 4.1 táblázatot olyan válaszfalakra kell alkalmazni, amelyek nem határosak sem a függőleges főzónákkal, sem a vízszintes zónákkal.
+.1 A 4.1 táblázatot olyan válaszfalakra kell alkalmazni, amelyek nem határosak sem a függőleges főzónákkal, sem a vízszintes zónákkal. A 4.2 táblázatot olyan fedélzetekre kell alkalmazni, amelyek nem képeznek lépcsőket a függőleges főzónákban, a vízszintes zónákkal pedig nem határosak.
 
-A 4.2 táblázatot olyan fedélzetekre kell alkalmazni, amelyek nem képeznek lépcsőket a függőleges főzónákban, a vízszintes zónákkal pedig nem határosak.
-
-.2 A szomszédos terek közötti határoló falakra alkalmazandó megfelelő tűzállósági értékek meghatározása érdekében e tereket tűzveszélyességük alapján az (1)–(14) kategóriának megfelelően kategóriájozzák. Amennyiben egy tér berendezése és rendeltetése olyan, hogy az e pontnak megfelelő kategóriába sorolása kétséges, akkor a legszigorúbb határoló követelményeket támasztó kategória alá tartozónak kell tekinteni. Az egyes kategóriák elnevezése inkább besoroló, mint korlátozó jellegű. A kategóriák előtt megadott, zárójelben lévő számok a táblázat alkalmazandó oszlopára vagy sorára utalnak.
+.2 A szomszédos terek közötti határoló falakra alkalmazandó megfelelő tűzállósági értékek meghatározása érdekében e tereket tűzveszélyességük alapján az (1)-(14) kategóriának megfelelően kategóriázzák. Amennyiben egy tér berendezése és rendeltetése olyan, hogy az e pontnak megfelelő kategóriába sorolása kétséges, akkor a legszigorúbb határoló követelményeket támasztó kategória alá tartozónak kell tekinteni. Az egyes kategóriák elnevezése inkább besoroló, mint korlátozó jellegű. A kategóriák előtt megadott, zárójelben lévő számok a táblázat alkalmazandó oszlopára vagy sorára utalnak.
 
 (1) Vezérlőállások:
 
-— a vészüzemi áramforrást és a világítást magukban foglaló terek,
+- a vészüzemi áramforrást és a világítást magukban foglaló terek,
 
-— kormányállás és térképszoba,
+- kormányállás és térképszoba,
 
-— a hajó rádióberendezéseit magukban foglaló terek,
+- a hajó rádióberendezéseit magukban foglaló terek,
 
-— tűzoltó felszerelést tároló terek, tűzoltást vezérlő helyiségek és tűzjelző állomások,
+- tűzoltó felszerelést tároló terek, tűzoltást vezérlő helyiségek és tűzjelző állomások,
 
-— a hajtómű vezérlőállása, amennyiben az a főgéptéren kívül helyezkedik el,
+- a hajtómű vezérlőállása, amennyiben az a főgéptéren kívül helyezkedik el,
 
-— a központi tűzjelző berendezéseket magukban foglaló terek,
+- a központi tűzjelző berendezéseket magukban foglaló terek,
 
-— a központi vészhelyzeti hangosbeszélő rendszert és berendezéseket magukban foglaló terek.
+- a központi vészhelyzeti hangosbeszélő rendszert és berendezéseket magukban foglaló terek.
 
 (2) Lépcsőházak:
 
-— az utasok és a személyzet által használt belső lépcső-házak, felvonók és mozgólépcsők (kivéve azokat, amelyek a géptérben találhatók), továbbá a kapcsolódó aknák,
+- az utasok és a személyzet által használt belső lépcsőházak, felvonók és mozgólépcsők (kivéve azokat, amelyek a géptérben találhatók), továbbá a kapcsolódó aknák,
 
-— ebben az összefüggésben az a lépcsőház, amely csak egy szinten zárt, annak a térnek a része, amelytől nem választja el tűzálló ajtó.
+- ebben az összefüggésben az a lépcsőház, amely csak egy szinten zárt, annak a térnek a része, amelytől nem választja el tűzálló ajtó.
 
 (3) Folyosók:
 
-— utas- és személyzeti folyosók.
+- utas- és személyzeti folyosók.
 
 (4) Evakuálási állomások és külső menekülési útvonalak:
 
-— a túlélési járművek tároló helyei,
+- a túlélési járművek tároló helyei,
 
-— nyitott fedélzeti területek, valamint a mentőcsónakok és mentőtutajok beszálló és vízrebocsátó állásait magukban foglaló zárt sétafedélzetek,
+- nyitott fedélzeti területek, valamint a mentőcsónakok és mentőtutajok beszálló és vízrebocsátó állásait magukban foglaló zárt sétafedélzetek,
 
-— belső és külső gyülekezési helyek,
+- belső és külső gyülekezési helyek,
 
-— menekülési útvonalként használt külső lépcsők és nyitott fedélzetek,
+- menekülési útvonalként használt külső lépcsők és nyitott fedélzetek,
 
-— a hajó oldala a legkisebb tengeri merülésvonalig, a mentőtutajok és a mentőcsúszdák beszálló állomásai alatt vagy azok mellett lévő felépítmények és fedélzeti házak.
+- a hajó oldala a legkisebb tengeri merülésvonalig, a mentőtutajok és a mentőcsúszdák beszálló állomásai alatt vagy azok mellett lévő felépítmények és fedélzeti házak.
 
 (5) Nyitott fedélzeti terek:
 
-— nyitott fedélzeti terek és zárt sétafedélzetek a mentőcsónakok és a mentőtutajok beszálló és vízrebocsátó állásain kívül,
+- nyitott fedélzeti terek és zárt sétafedélzetek a mentőcsónakok és a mentőtutajok beszálló és vízrebocsátó állásain kívül,
 
-— szabad terek (a felépítmények és fedélzeti házakon kívüli terek).
+- szabad terek (a felépítmények és fedélzeti házakon kívüli terek).
 
 (6) Korlátozottan tűzveszélyes lakóterek:
 
-— korlátozottan tűzveszélyes bútorokat és berendezési tárgyakat magukban foglaló kabinok,
+- korlátozottan tűzveszélyes bútorokat és berendezési tárgyakat magukban foglaló kabinok,
 
-— korlátozottan tűzveszélyes bútorokat és berendezési tárgyakat magukban foglaló irodák és orvosi szobák,
+- korlátozottan tűzveszélyes bútorokat és berendezési tárgyakat magukban foglaló irodák és orvosi szobák,
 
-— korlátozottan tűzveszélyes bútorokat és berendezési tárgyakat magukban foglaló közös terek, amelyek fedélzeti területe kevesebb mint 50 m².
+- korlátozottan tűzveszélyes bútorokat és berendezési tárgyakat magukban foglaló közös terek, amelyek fedélzeti területe kevesebb mint 50 m2.
 
 (7) Mérsékelten tűzveszélyes lakóterek:
 
-— a korlátozottan tűzveszélyes bútoroktól és berendezési tárgyaktól eltérő bútorokat és berendezési tárgyakat magukban foglaló, a fent említett (6) kategóriába tartozó terek,
+- a korlátozottan tűzveszélyes bútoroktól és berendezési tárgyaktól eltérő bútorokat és berendezési tárgyakat magukban foglaló, a fent említett (6) kategóriába tartozó terek,
 
-— korlátozottan tűzveszélyes bútorokat és berendezési tárgyakat magukban foglaló közös terek, amelyek fedélzeti területe 50m2, vagy annál több,
+- korlátozottan tűzveszélyes bútorokat és berendezési tárgyakat magukban foglaló közös terek, amelyek fedélzeti területe 50 m2, vagy annál több,
 
-— raktárak és kisebb tároló helyiségek a lakóterekben, amelyek területe 4 m2-nél kisebb (és amelyekben nem tárolnak éghető folyadékokat),
+- raktárak és kisebb tároló helyiségek a lakóterekben, amelyek területe 4 m2-nél kisebb (és amelyekben nem tárolnak éghető folyadékokat),
 
-— üzlethelyiségek,
+- üzlethelyiségek,
 
-— vetítőtermek és filmraktárak,
+- vetítőtermek és filmraktárak,
 
-— diétás konyhák (nyílt láng nélkül)
+- diétás konyhák (nyílt láng nélkül)
 
-— tisztító felszerelést tároló raktárok (amelyekben nem tárolnak éghető folyadékokat),
+- tisztító felszerelést tároló raktárok (amelyekben nem tárolnak éghető folyadékokat),
 
-— laboratóriumok (amelyekben nem tárolnak éghető folyadékokat),
+- laboratóriumok (amelyekben nem tárolnak éghető folyadékokat),
 
-— gyógyszertárak,
+- gyógyszertárak,
 
-— kis szárító helyiségek (amelyek fedélzeti területe 4 m2vagy annál kevesebb),
+- kis szárító helyiségek (amelyek fedélzeti területe 4 m2 vagy annál kevesebb),
 
-— pénztárak,
+- pénztárak,
 
-— műtők.
+- műtők.
 
 (8) Fokozottan tűzveszélyes lakóterek:
 
-— a korlátozottan tűzveszélyes bútoroktól és berendezési tárgyaktól eltérő bútorokat és berendezési tárgyakat magukban foglaló terek, amelyek fedélzeti területe 50m2, vagy több
+- a korlátozottan tűzveszélyes bútoroktól és berendezési tárgyaktól eltérő bútorokat és berendezési tárgyakat magukban foglaló terek, amelyek fedélzeti területe 50 m2, vagy több
 
-— fodrászüzletek és szépségszalonok.
+- fodrászüzletek és szépségszalonok.
 
 (9) egészségügyi (szaniter) és hasonló helyiségek:
 
-— közös egészségügyi létesítmények, zuhanyzók, fürdőszobák, illemhelyek stb.,
+- közös egészségügyi létesítmények, zuhanyzók, fürdőszobák, illemhelyek stb.,
 
-— kisebb mosodák,
+- kisebb mosodák,
 
-— fedett uszodai terület és fedett uszodák,
+- fedett uszodai terület és fedett uszodák,
 
-— elkülönített éléskamrák a lakóterekben, amelyek nem tartalmaznak főző berendezéseket,
+- elkülönített éléskamrák a lakóterekben, amelyek nem tartalmaznak főző berendezéseket,
 
-— a külön egészségügyi létesítmények annak a térnek a részét képezik, amelyben ki vannak alakítva.
+- a külön egészségügyi létesítmények annak a térnek a részét képezik, amelyben ki vannak alakítva.
 
 (10) Kevésbé vagy egyáltalán nem tűzveszélyes tartályok, üres terek és segédüzemi gépterek:
 
-— a hajó szerkezeti részét képező víztartályok;
+- a hajó szerkezeti részét képező víztartályok;
 
-— üres terek és vízgátak;
+- üres terek és vízgátak;
 
-— segédgépterek, amelyek nem tartalmaznak nyomás alatt lévő kenőolaj-rendszert, és ahol tilos az éghető anyagok tárolása, úgy mint:
+- segédgépterek, amelyek nem tartalmaznak nyomás alatt lévő kenőolaj-rendszert, és ahol tilos az éghető anyagok tárolása, úgy mint:
 
-— szellőző és légkondicionáló termek; a horgonycsörlő helyisége; a kormányberendezés helyisége, a stabilizáló berendezés tere; a villamos meghajtású motor tere; a szakaszok kapcsolótábláit és az olajtöltésű villamos transzformátoroktól (több mint 10 kVA) különböző, tisztán villamos berendezéseket magukban foglaló terek; a tengely- és csőalagutak; szivattyúkat és hűtőberendezéseket magukban foglaló terek (ahol nem szállítanak és alkalmaznak éghető folyadékokat),
+- szellőző és légkondicionáló termek; a horgonycsörlő helyisége; a kormányberendezés helyisége, a stabilizáló berendezés tere; a villamos meghajtású motor tere; a szakaszok kapcsolótábláit és az olajtöltésű villamos transzformátoroktól (több mint 10 kVA) különböző, tisztán villamos berendezéseket magukban foglaló terek; a tengely- és csőalagutak; szivattyúkat és hűtőberendezéseket magukban foglaló terek (ahol nem szállítanak és alkalmaznak éghető folyadékokat),
 
-— a fent felsorolt terekhez vezető aknák,
+- a fent felsorolt terekhez vezető aknák,
 
-— egyéb zárt aknák, mint például a cső- és kábelaknák.
+- egyéb zárt aknák, mint például a cső- és kábelaknák.
 
 (11) Segédgépterek, rakodóterek, a rakomány- és egyéb olajtartályok, továbbá hasonló, mérsékelten tűzveszélyes terek:
 
-— rakományolaj-tartályok,
+- rakományolaj-tartályok,
 
-— rakományterek, aknák, nyílások,
+- rakományterek, aknák, nyílások,
 
-— hűtőkamrák,
+- hűtőkamrák,
 
-— tüzelőanyag-tartályok (amennyiben olyan különálló térben helyezik el, ahol nincsenek gépek),
+- tüzelőanyag-tartályok (amennyiben olyan különálló térben helyezik el, ahol nincsenek gépek),
 
-— éghető anyagok tárolására is felhasználható tengely- és csőalagutak,
+- éghető anyagok tárolására is felhasználható tengely- és csőalagutak,
 
-— a (10) kategóriába tartozó segédüzemi gépterek, amelyek nyomás alatt lévő kenőolaj-rendszerekkel felszerelt gépeket foglalnak magukban, vagy ahol a tüzelőanyagok tárolása engedélyezett,
+- a (10) kategóriába tartozó segédüzemi gépterek, amelyek nyomás alatt lévő kenőolaj-rendszerekkel felszerelt gépeket foglalnak magukban, vagy ahol a tüzelőanyagok tárolása engedélyezett,
 
-— tüzelőanyag töltőállomások,
+- tüzelőanyag töltőállomások,
 
-— olajtöltésű villamos transzformátorokat (több mint 10 kVA) magukban foglaló terek,
+- olajtöltésű villamos transzformátorokat (több mint 10 kVA) magukban foglaló terek,
 
-— generátorokat, vízpermettel oltó tűzoltó berendezéseket vagy tűzoltó szivattyúkat, fenékvíz-szivattyúkat, stb. meghajtó, legfeljebb 110 kW teljesítményű kis belső égésű motorokat magukban foglaló terek,
+- generátorokat, vízpermettel oltó tűzoltó berendezéseket vagy tűzoltó szivattyúkat, fenékvíz-szivattyúkat, stb. meghajtó, legfeljebb 110 kW teljesítményű kis belső égésű motorokat magukban foglaló terek,
 
-— a fent felsorolt terekhez vezető zárt aknák.
+- a fent felsorolt terekhez vezető zárt aknák.
 
 (12) Gépterek és fő konyhák:
 
-— főgépterek (a villamos meghajtású motorok helyiségén kívül) és kazánházak,
+- főgépterek (a villamos meghajtású motorok helyiségén kívül) és kazánházak,
 
-— a (10) és (11) kategóriába tartozóktól különböző segédüzemi gépterek, amelyek belső égésű motorokat vagy egyéb olajtüzelésű-, olajmelegítő- vagy szivattyúzó egységeket foglalnak magukban,
+- a (10) és (11) kategóriába tartozóktól különböző segédüzemi gépterek, amelyek belső égésű motorokat vagy egyéb olajtüzelésű-, olajmelegítő- vagy szivattyúzó egységeket foglalnak magukban,
 
-— fő konyhák és kiszolgáló tereik,
+- fő konyhák és kiszolgáló tereik,
 
-— a fent felsorolt terekhez tartozó aknák.
+- a fent felsorolt terekhez tartozó aknák.
 
 (13) Raktárhelyiségek, műhelyek, éléskamrák stb.:
 
-— a konyhákhoz nem kapcsolódó fő éléskamrák,
+- a konyhákhoz nem kapcsolódó fő éléskamrák,
 
-— fő mosoda,
+- fő mosoda,
 
-— nagy szárítóhelyiségek (alapterületük meghaladja a 4m2-t ),
+- nagy szárítóhelyiségek (alapterületük meghaladja a 4 m2-t),
 
-— különböző tárolók,
+- különböző tárolók,
 
-— posta- és poggyásztárolók,
+- posta- és poggyásztárolók,
 
-— szeméttárolók,
+- szeméttárolók,
 
-— műhelyek (amelyek nem képezik részét géptereknek, konyháknak stb.),
+- műhelyek (amelyek nem képezik részét géptereknek, konyháknak stb.),
 
-— a több mint 4 m2 alapterületű raktárak és tárolók, kivéve az éghető folyadékok tárolására szolgáló tereket és berendezéseket.
+- a több mint 4 m2 alapterületű raktárak és tárolók, kivéve az éghető folyadékok tárolására szolgáló tereket és berendezéseket.
 
 (14) Egyéb terek, ahol éghető folyadékokat tárolnak:
 
-— festékraktárak,
+- festékraktárak,
 
-— éghető folyadékokat tartalmazó tároló helyiségek (ideértve festékeket, gyógyszereket stb.),
+- éghető folyadékokat tartalmazó tároló helyiségek (ideértve festékeket, gyógyszereket stb.),
 
-— laboratóriumok (amelyekben éghető folyadékokat tárolnak).
+- laboratóriumok (amelyekben éghető folyadékokat tárolnak).
 
 .3 Amennyiben a két tér elválasztásának tűzállóságára vonatkozóan csak egy érték szerepel, akkor minden esetben azt kell alkalmazni.
 
@@ -2962,33 +3012,33 @@ Függőleges főzónával és vízszintes zónával sem határos válaszfalak
 
 | Terek | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) | (13) | (14) |
 
-| Vezérlőállások | (1) | B- 0a | A-0 | A-0 | A-0 | A-0 | A- 60 | A- 60 | A- 60 | A-0 | A-0 | A- 60 | A- 60 | A- 60 | A- 60 |
+| Vezérlőállások (1) | B-0a | A-0 | A-0 | A-0 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-60 | A-60 | A-60 | A-60 |
 
-| Lépcsőházak | (2) |  | A- 0a | A-0 | A-0 | A-0 | A-0 | A- 15 | A- 15 | A- 0c | A-0 | A- 15 | A- 30 | A- 15 | A- 30 |
+| Lépcsőházak (2) |  | A-0a | A-0 | A-0 | A-0 | A-0 | A-15 | A-15 | A-0c | A-0 | A-15 | A-30 | A-15 | A-30 |
 
-| Folyosók | (3) |  |  | B- 15 | A- 60 | A-0 | B- 15 | B- 15 | B- 15 | B- 15 | A-0 | A- 15 | A- 30 | A-0 | A- 30 |
+| Folyosók (3) |  |  | B-15 | A-60 | A-0 | B-15 | B-15 | B-15 | B-15 | A-0 | A-15 | A-30 | A-0 | A-30 |
 
-| Evakuálási állomások és külső menekülési út- vonalak (4) |  |  |  |  | A-0 | Ad- 60b | Ad- 60b | Ad- 60b | A- 0d | A-0 | A- 60b | A- 60b | A- 60b | A- 60b |
+| Evakuálási állomások és külső menekülési útvonalak (4) |  |  |  |  | A-0 | Ad-60b | Ad-60b | Ad-60b | A-0d | A-0 | A-60b | A-60b | A-60b | A-60b |
 
-| Szabad fedélzeti terek | (5) |  |  |  |  | — | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
+| Nyitott fedélzeti terek (5) |  |  |  |  | - | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
-| Kevésbé tűzveszélyes lakóterek | (6) |  |  |  |  |  | B-0 | B-0 | B-0 | C | A-0 | A-0 | A- 30 | A-0 | A- 30 |
+| Kevésbé tűzveszélyes lakóterek (6) |  |  |  |  |  | B-0 | B-0 | B-0 | C | A-0 | A-0 | A-30 | A-0 | A-30 |
 
-| Mérsékelten tűzveszélyes lakóterek | (7) |  |  |  |  |  |  | B-0 | B-0 | C | A-0 | A- 15 | A- 60 | A- 15 | A- 60 |
+| Mérsékelten tűzveszélyes lakóterek (7) |  |  |  |  |  |  | B-0 | B-0 | C | A-0 | A-15 | A-60 | A-15 | A-60 |
 
-| Fokozottan tűzveszélyes lakóterek | (8) |  |  |  |  |  |  |  | B-0 | C | A-0 | A- 30 | A- 60 | A- 15 | A- 60 |
+| Fokozottan tűzveszélyes lakóterek (8) |  |  |  |  |  |  |  | B-0 | C | A-0 | A-30 | A-60 | A-15 | A-60 |
 
-| Szaniter és hasonló helyiségek | (9) |  |  |  |  |  |  |  |  | C | A-0 | A-0 | A-0 | A-0 | A-0 |
+| Szaniter és hasonló helyiségek (9) |  |  |  |  |  |  |  |  | C | A-0 | A-0 | A-0 | A-0 | A-0 |
 
-| Kevésbé vagy egyáltalán nem tűzveszélyes tartályok, üres terek és segédüzemi gépterek | (10) |  |  |  |  |  |  |  |  |  | A- 0a | A-0 | A-0 | A-0 | A-0 |
+| Kevésbé vagy egyáltalán nem tűzveszélyes tartályok, üres terek és segédüzemi gépterek (10) |  |  |  |  |  |  |  |  |  | A-0a | A-0 | A-0 | A-0 | A-0 |
 
-| Segédüzemi gépterek, rakodóterek, a rakomány és egyéb olajtartályok, továbbá hasonló mérsékelten tűzveszélyes terek | (11) |  |  |  |  |  |  |  |  |  |  | A- 0a | A-0 | A-0 | A- 15 |
+| Segédüzemi gépterek, rakodóterek, a rakomány és egyéb olajtartályok, továbbá hasonló mérsékelten tűzveszélyes terek |  |  |  |  |  |  |  |  |  |  | A-0a | A-0 | A-0 | A-15 |
 
-| Gépterek és fő konyhák (12) |  |  |  |  |  |  |  |  |  |  |  | A- 0a | A-0 | A- 60 |
+| Gépterek és fő konyhák (12) |  |  |  |  |  |  |  |  |  |  |  | A-0a | A-0 | A-60 |
 
-| Raktárhelyiségek, műhelyek, éléskamrák, stb. (13) |  |  |  |  |  |  |  |  |  |  |  |  | A- 0a | A-0 |
+| Raktárhelyiségek, műhelyek, éléskamrák, stb. (13) |  |  |  |  |  |  |  |  |  |  |  |  | A-0a | A-0 |
 
-| Egyéb terek, ahol éghető folyadékokat tárolnak | (14) |  |  |  |  |  |  |  |  |  |  |  |  |  | A- 30 |
+| Egyéb terek, ahol éghető folyadékokat tárolnak (14) |  |  |  |  |  |  |  |  |  |  |  |  |  | A-30 |
 
 4.2 táblázat
 
@@ -2996,33 +3046,33 @@ A függőleges főzónákban sem a lépcsőkkel, sem a vízszintes zónákkal ne
 
 | Terek | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) | (12) | (13) | (14) |
 
-| Vezérlőállások (1) | A- 30 | A- 30 | A- 15 | A-0 | A-0 | A-0 | A- 15 | A- 30 | A-0 | A-0 | A-0 | A- 60 | A-0 | A- 60 |
+| Vezérlőállások (1) | A-30 | A-30 | A-15 | A-0 | A-0 | A-0 | A-15 | A-30 | A-0 | A-0 | A-0 | A-60 | A-0 | A-60 |
 
-| Lépcsőházak (2) | A-0 | A-0 | — | A-0 | A-0 | A-0 | A-0 | A-0 | A- 0c | A-0 | A-0 | A- 30 | A-0 | A- 30 |
+| Lépcsőházak (2) | A-0 | A-0 | - | A-0 | A-0 | A-0 | A-0 | A-0 | A-0c | A-0 | A-0 | A-30 | A-0 | A-30 |
 
-| Folyosók (3) | A- 15 | A-0 | A- 0a | A- 60 | A-0 | A-0 | A- 15 | A- 15 | A-0 | A-0 | A-0 | A- 30 | A-0 | A- 30 |
+| Folyosók (3) | A-15 | A-0 | A-0a | A-60 | A-0 | A-0 | A-15 | A-15 | A-0 | A-0 | A-0 | A-30 | A-0 | A-30 |
 
-| Evakuálási állomások és külső menekülési útvonalak (4) | A-0 | A-0 | A-0 | A-0 | — | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
+| Evakuálási állomások és külső menekülési útvonalak (4) | A-0 | A-0 | A-0 | A-0 | - | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
-| Szabad fedélzeti terek (5) | A-0 | A-0 | A-0 | A-0 | — | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
+| Nyitott fedélzeti terek (5) | A-0 | A-0 | A-0 | A-0 | - | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
-| Kevésbé tűzveszélyes Lakóterek (6) | A- 60 | A- 15 | A-0 | A- 60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
+| Kevésbé tűzveszélyes Lakóterek (6) | A-60 | A-15 | A-0 | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
-| Mérsékelten tűzveszélyes lakóterek (7) | A- 60 | A- 15 | A- 15 | A- 60 | A-0 | A-0 | A- 15 | A- 15 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
+| Mérsékelten tűzveszélyes lakóterek (7) | A-60 | A-15 | A-15 | A-60 | A-0 | A-0 | A-15 | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
-| Fokozottan tűzveszélyes lakóterek (8) | A- 60 | A- 15 | A- 15 | A- 60 | A-0 | A- 15 | A- 15 | A- 30 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
+| Fokozottan tűzveszélyes lakóterek (8) | A-60 | A-15 | A-15 | A-60 | A-0 | A-15 | A-15 | A-30 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
 | Szaniter és hasonló helyiségek (9) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
-| Kevésbé vagy egyáltalán nem tűzveszélyes tartályok, üres terek és segédüzemi gépterek (10) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A- 0a | A-0 | A-0 | A-0 | A-0 |
+| Kevésbé vagy egyáltalán nem tűzveszélyes tartályok, üres terek és segédüzemi gépterek (10) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0a | A-0 | A-0 | A-0 | A-0 |
 
-| Segédgépterek, rakodóterek, rakomány és egyéb olajtartályok, továbbá hasonló mérsékelten tűzveszélyes terek (11) | A- 60 | A- 60 | A- 60 | A- 60 | A-0 | A-0 | A- 15 | A- 30 | A-0 | A-0 | A- 0a | A-0 | A-0 | A- 30 |
+| Segédgépterek, rakodóterek, rakomány és egyéb olajtartályok, továbbá hasonló mérsékelten tűzveszélyes terek (11) | A-60 | A-60 | A-60 | A-60 | A-0 | A-0 | A-15 | A-30 | A-0 | A-0 | A-0a | A-0 | A-0 | A-30 |
 
-| Gépterek és fő konyhák (12) | A- 60 | A- 60 | A- 60 | A- 60 | A-0 | A- 60 | A- 60 | A- 60 | A-0 | A-0 | A- 30 | A- 30 | A-0 | A- 60 |
+| Gépterek és fő konyhák (12) | A-60 | A-60 | A-60 | A-60 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-30 | A-30a | A-0 | A-60 |
 
-| Raktárhelyiségek, műhelyek, éléskamrák, stb. (13) | A- 60 | A- 30 | A- 15 | A-60 | A-0 | A- 15 | A- 30 | A- 30 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
+| Raktárhelyiségek, műhelyek, éléskamrák, stb. (13) | A-60 | A-30 | A-15 | A-60 | A-0 | A-15 | A-30 | A-30 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
-| Egyéb terek, ahol éghető folyadékokat tárolnak (14) | A- 60 | A- 60 | A- 60 | A- 60 | A-0 | A- 30 | A- 60 | A- 60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
+| Egyéb terek, ahol éghető folyadékokat tárolnak (14) | A-60 | A-60 | A-60 | A-60 | A-0 | A-30 | A-60 | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
 A 4.1 és 4.2 táblázatra vonatkozó megjegyzések:
 
@@ -3036,11 +3086,7 @@ d Amennyiben a (6.), (7.), (8.) és (9.) kategóriájú terek teljes egészében
 
 5. A 36-nál kevesebb személy szállítására alkalmasnak nyilvánított új hajók és a több mint 36 személy szállítására alkalmasnak nyilvánított B. kategóriájú meglévő hajók válaszfalainak és fedélzeteinek tűzállósága (R 27)
 
-A 36-NÁL KEVESEBB SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C., ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS A TÖBB MINT
-
-36 SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT
-
-B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
+A 36-NÁL KEVESEBB SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C., ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ÉS A TÖBB MINT 36 SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .1 A válaszfalak és fedélzetek tűzállóságának nemcsak az e részben egyéb helyeken előírt különleges rendelkezéseknek kell megfelelnie, hanem az 5.1 és 5.2 táblázatban foglaltaknak is.
 
@@ -3050,65 +3096,65 @@ Az új hajók tűzvédelmével kapcsolatos szerkezeti óvintézkedések jóváha
 
 .1 Az 5.1 és 5.2 táblázatot olyan válaszfalakra és fedélzetekre kell alkalmazni, amelyek szomszédos tereket választanak el egymástól.
 
-.2 A szomszédos terek közötti térelválasztókra alkalmazott megfelelő tűzállósági értékek meghatározására tűzveszélyességüknek megfelelően sorolják be az e tereket, amelyet az alábbi (1)–(11) kategória mutat. A kategóriák elnevezése inkább besoroló, mint korlátozó jellegű. A kategóriák előtt megadott, zárójelben lévő számok a táblázat megfelelő oszlopára vagy sorára utalnak.
+.2 A szomszédos terek közötti térelválasztókra alkalmazott megfelelő tűzállósági értékek meghatározására tűzveszélyességüknek megfelelően sorolják be az e tereket, amelyet az alábbi (1)-(11) kategória mutat. A kategóriák elnevezése inkább besoroló, mint korlátozó jellegű. A kategóriák előtt megadott, zárójelben lévő számok a táblázat megfelelő oszlopára vagy sorára utalnak.
 
 (1) Vezérlőállások:
 
-— a vészüzemi áramforrást és a világítást magukban foglaló terek
+- a vészüzemi áramforrást és a világítást magukban foglaló terek
 
-— kormányállás és térképszoba,
+- kormányállás és térképszoba,
 
-— a hajó rádió berendezéseit magukban foglaló terek,
+- a hajó rádió berendezéseit magukban foglaló terek,
 
-— tűzoltó felszerelést tároló terek, tűzoltást vezérlő helység és tűzjelző állomások,
+- tűzoltó felszerelést tároló terek, tűzoltást vezérlő helység és tűzjelző állomások,
 
-— a hajtómű vezérlőhelyisége, amennyiben az a főgéptéren kívül helyezkedik el,
+- a hajtómű vezérlőhelyisége, amennyiben az a főgéptéren kívül helyezkedik el,
 
-— a központi tűzjelző berendezést magukban foglaló terek.
+- a központi tűzjelző berendezést magukban foglaló terek.
 
 (2) Folyosók:
 
-— utas- és személyzeti folyosók és előterek.
+- utas- és személyzeti folyosók és előterek.
 
 (3) Lakóterek:
 
-— a II-2/A/2.10 pontban meghatározottak szerint, kivéve a folyosókat.
+- a II-2/A/2.10 pontban meghatározottak szerint, kivéve a folyosókat.
 
 (4) Lépcsőházak:
 
-— az utasok és a személyzet által használt belső lépcsőházak, felvonók és mozgólépcsők (kivéve azokat, amelyek a géptérben találhatók), továbbá a kapcsolódó aknák,
+- az utasok és a személyzet által használt belső lépcsőházak, felvonók és mozgólépcsők (kivéve azokat, amelyek a géptérben találhatók), továbbá a kapcsolódó aknák,
 
-— ebben az összefüggésben az a lépcsőház, amely csak egy szinten zárt, annak a térnek a része, amelytől nem választja el tűzbiztos ajtó.
+- ebben az összefüggésben az a lépcsőház, amely csak egy szinten zárt, annak a térnek a része, amelytől nem választja el tűzbiztos ajtó.
 
 (5) Kiszolgáló helyiségek (kisfokú tűzveszélyesség):
 
-— a 4 m2-nél kisebb alapterületű raktárak és tárolók, amelyeket nem éghető folyadékok tárolására használnak, szárító helyiségek és mosodák.
+- a 4 m2-nél kisebb alapterületű raktárak és tárolók, amelyeket nem éghető folyadékok tárolására használnak, szárító helyiségek és mosodák.
 
 (6) A. kategóriájú gépterek:
 
-— a II-2/A/2.19.1 pontban meghatározott terek.
+- a II-2/A/2.19.1 pontban meghatározott terek.
 
 (7) Egyéb gépterek:
 
-— a II-2/A/2.19.2 pontban meghatározott terek, kivéve az A. kategóriájú géptereket.
+- a II-2/A/2.19.2 pontban meghatározott terek, kivéve az A. kategóriájú géptereket.
 
 (8) Rakterek:
 
-— a különleges kategóriájú terek kivételével, a rakomány tárolásra használt terek (ideértve a rakományként szállított olaj tartályait is), valamint az e terekhez vezető aknák és nyílások.
+- a különleges kategóriájú terek kivételével, a rakomány tárolásra használt terek (ideértve a rakományként szállított olaj tartályait is), valamint az e terekhez vezető aknák és nyílások.
 
 (9) Kiszolgáló helyiségek (fokozott tűzveszélyesség):
 
-— konyhák, főzőberendezéseket magukban foglaló tálalók, festék- és lámparaktárak, raktárak és 4 m2-es vagy annál nagyobb alapterületű tároló helyiségek, éghető folyadékok tárolására szolgáló terek, és a gépterek részét nem képező műhelyek.
+- konyhák, főzőberendezéseket magukban foglaló tálalók, festék- és lámparaktárak, raktárak és 4 m2-es vagy annál nagyobb alapterületű tároló helyiségek, éghető folyadékok tárolására szolgáló terek, és a gépterek részét nem képező műhelyek.
 
-(10) Szabad fedélzetek:
+(10) Nyitott fedélzetek:
 
-— szabad fedélzeti terek és zárt sétafedélzetek, amelyek nem tűzveszélyesek.
+- nyitott fedélzeti terek és zárt sétafedélzetek, amelyek nem tűzveszélyesek.
 
-— szabad terek (a felépítményeken és fedélzeti házakon kívüli tér).
+- nyitott terek (a felépítményeken és fedélzeti házakon kívüli tér).
 
 (11) Speciális kategóriájú terek:
 
-— a II-2/A/2.18 pont fogalom-meghatározása szerinti terek.
+- a II-2/A/2.18 pont fogalom-meghatározása szerinti terek.
 
 .3 Az alkalmazandó tűzállósági értékek meghatározásánál a II-2/A/8 pontnak megfelelő automatikus vízpermettel oltó berendezéssel nem védett függőleges főzónában vagy vízszintes zónában lévő két tér között, vagy két olyan zóna között, ahol ilyen védelemmel egyik sem rendelkezik, a térelválasztókra a táblázatban megadott két adat közül a nagyobbat kell alkalmazni.
 
@@ -3116,7 +3162,7 @@ Az új hajók tűzvédelmével kapcsolatos szerkezeti óvintézkedések jóváha
 
 .3 A megfelelő fedélzetekkel vagy válaszfalakkal kapcsolatban lévő folytonos „B” kategóriájú mennyezetek vagy burkolatok elfogadhatók az előírt szigetelésnek és sértetlenségnek részben vagy teljesen megfelelő térelválasztóként.
 
-.4 Az 1.1 bekezdés előírása szerint acélból vagy egyéb egyenértékű anyagból készült külső határoló falak szögletes vagy körablakok beillesztése céljából kivághatók, amennyiben e részben máshol nem követelmény, hogy a határoló falak „A” kategóriájú tűzállósággal rendelkezzenek. Ehhez hasonlóan az olyan határoló falakban, amelyeknek nem kell „A” kategóriájú tűzállósággal rendelkezniük, az ajtók hajózási hatóság által elfogadott anyagból készülhetnek.
+.4 Az 1.1 bekezdés előírása szerint acélból vagy egyéb egyenértékű anyagból készült külső határoló falak szögletes vagy körablakok beillesztése céljából kivághatók, amennyiben e részben máshol nem követelmény, hogy a határoló falak „A” kategóriájú tűzállósággal rendelkezzenek. Ehhez hasonlóan az olyan határoló falakban, amelyeknek nem kell „A” kategóriájú tűzállósággal rendelkezniük az ajtók hajózási hatóság által elfogadott anyagból készülhetnek.
 
 5.1 táblázat
 
@@ -3124,9 +3170,9 @@ A szomszédos tereket elválasztó válaszfalak tűzállósága
 
 | Terek | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) | (11) |
 
-| Vezérlőállások (1) | A-0c | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | — | A-60 |
+| Vezérlőállások (1) | A-0c | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | - | A-60 |
 
-| Folyosók (2) | Ce | B-0e | A-0 a | B-0e | B-0e | A-60 | A-0 | A-0 | A-15 A-0d | * | A-15 |
+| Folyosók (2) | Ce | B-0e | A-0a | B-0e | B-0e | A-60 | A-0 | A-0 | A-15 A-0d | * | A-15 |
 
 | Lakóterek (3) |  |  | Ce | A-0a B-0e | B-0e | A-60 | A-0 | A-0 | A-15 A-0d | * | A-30 A-0d |
 
@@ -3142,7 +3188,7 @@ A szomszédos tereket elválasztó válaszfalak tűzállósága
 
 | Kiszolgáló helyiségek (fokozott tűzveszélyesség) (9) |  |  |  |  |  |  |  |  | A-0b | * | A-30 |
 
-| Szabad fedélzeti terek (10) |  |  |  |  |  |  |  |  |  |  | A-0 |
+| Nyitott fedélzeti terek (10) |  |  |  |  |  |  |  |  |  |  | A-0 |
 
 | Speciális kategóriájú terek (11) |  |  |  |  |  |  |  |  |  |  | A-0 |
 
@@ -3160,7 +3206,7 @@ A szomszédos tereket elválasztó fedélzetek tűzállósága
 
 | Lépcsőházak (4) | A-0 | A-0 | A-0 | * | A-0 | A-60 | A-0 | A-0 | A-0 | * | A-0 |
 
-| Kiszolgáló helyiségek (korláto- zott tűzveszélyesség) (5) | A-15 | A-0 | A-0 | A-0 | * | A-60 | A-0 | A-0 | A-0 | * | A-0 |
+| Kiszolgáló helyiségek (korlátozott tűzveszélyesség) (5) | A-15 | A-0 | A-0 | A-0 | * | A-60 | A-0 | A-0 | A-0 | * | A-0 |
 
 | A. kategóriájú gépterek (6) | A-60 | A-60 | A-60 | A-60 | A-60 | * | A-60f | A-30 | A-60 | * | A-60 |
 
@@ -3170,7 +3216,7 @@ A szomszédos tereket elválasztó fedélzetek tűzállósága
 
 | Kiszolgáló helyiségek (fokozott tűzveszélyesség) (9) | A-60 | A-30 A-0d | A-30 A-0d | A-30 A-0d | A-0 | A-60 | A-0 | A-0 | A-0 | * | A-30 |
 
-| Szabad fedélzeti terek (10) | * | * | * | * | * | * | * | * | * | — | A-0 |
+| Nyitott fedélzeti terek (10) | * | * | * | * | * | * | * | * | * | - | A-0 |
 
 | Speciális kategóriájú terek (11) | A-60 | A-15 | A-30 A-0d | A-15 | A-0 | A-30 | A-0 | A-0 | A-30 | A-0 | A-0 |
 
@@ -3190,7 +3236,7 @@ f Nincs szükség tűzszigetelésre, amennyiben a (7) kategóriában a géptérb
 
 * Ahol a táblázatban csillag szerepel, a térelválasztónak acélból vagy egyéb egyenértékű anyagból kell készülnie, de nem kell „A” kategóriájúnak lennie.
 
-A 2003. január 1-jén vagy azt követően épített hajók esetében azonban, amennyiben a fedélzetet — a (10) kategóriájú terek kivételével — villamos kábelek, csővezetékek és szellőzőcsatornák átvezetése miatt megbontják, a megbontás jól záró legyen, hogy megakadályozza a tűz vagy a füst terjedését. A vezérlőállások (vészüzemi áramfejlesztők) és a szabad fedélzetek közötti térelválasztók bemeneti nyílásain nem szükséges zárószerkezetnek lennie, kivéve, ha rögzített, gázzal oltó rendszert szerelnek fel.
+A 2003. január 1-jén vagy azt követően épített hajók esetében azonban, amennyiben a fedélzetet - a (10) kategóriájú terek kivételével - villamos kábelek, csővezetékek és szellőzőcsatornák átvezetése miatt megbontják, a megbontás jól záró legyen, hogy megakadályozza a tűz vagy a füst terjedését. A vezérlőállások (vészüzemi áramfejlesztők) és a nyitott fedélzetek közötti térelválasztók bemeneti nyílásain nem szükséges zárószerkezetnek lennie, kivéve, ha rögzített, gázzal oltó rendszert szerelnek fel.
 
 A 2.1.2 pont alkalmazásában az 5.1 táblázatban szereplő csillag helyett a (8) és (10) kategóriák kivételével „A-0” besorolást kell alkalmazni.
 
@@ -3206,9 +3252,15 @@ A 2003. január 1-jén vagy azt követően épített hajók esetében az egy men
 
 .2 Függőleges főzónából vagy a függőleges főzónához hasonlóan zárt térből vagy terek csoportjából a válaszfalfedélzet felett legalább két menekülési útvonalat kell kialakítani, amelyek közül az egyik egy függőleges menekülési útvonalat biztosító lépcsőházhoz vezet.
 
-.3 Amennyiben a rádiótávíró állomásról nem lehet közvetlenül a szabad fedélzetre jutni, erről az állomásról legalább két menekülési útvonalat kell biztosítani, amelyek közül az egyik egy megfelelő méretű szögletes vagy kerek hajóablak, illetve más szerkezet lehet.
+.3 Amennyiben a rádiótávíró állomásról nem lehet közvetlenül a nyitott fedélzetre jutni, erről az állomásról legalább két menekülési útvonalat kell biztosítani, amelyek közül az egyik egy megfelelő méretű szögletes vagy kerek hajóablak, illetve más szerkezet lehet.
 
-.4 B. kategóriájú meglévő hajókon a folyosó, vagy a folyosó azon részének hosszúsága, ahonnan csak egy menekülési útvonal áll rendelkezésre, nem haladhatja meg az öt métert.
+.4 B. kategóriájú meglévő hajókon a folyosó, vagy a folyosó azon részének hosszúsága, ahonnan csak egy menekülési útvonal áll rendelkezésre, nem haladhatja meg
+
+1. az öt métert, az 1994. október 1-jén vagy azt követően épített hajók esetében,
+
+2. a 13 métert, az 1994. október 1-je előtt épített, 36-nál több utast szállító hajók esetében, és
+
+3. a 7 métert, az 1994. október 1-je előtt épített, 36 vagy kevesebb utast szállító hajók esetében.
 
 A 24 méteres vagy annál hosszabb, A., B., C. és D. kategóriájú új hajókon tilos olyan folyosót, előteret vagy folyosórészt kialakítani, ahonnan csak egy menekülés útvonal áll rendelkezésre.
 
@@ -3216,13 +3268,13 @@ A hajó használhatóságához szükséges kiszolgáló terekben, például a t�
 
 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT 24 MÉTERES VAGY ANNÁL HOSSZABB B. C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.5 Az .1.1 és .1.2 alpontban előírt menekülési útvonalak közül legalább az egyiknek egy könnyen hozzáférhető zárt lépcsőháznak kell lennie, amely folyamatos fedezéket biztosít a tűz ellen a lépcső kiindulási pontjától a megfelelő mentőcsónak és mentőtutaj beszálló fedélzetig vagy — amennyiben a beszálló fedélzet nem terjed ki az érintett függőleges főzónáig — a legfelső szabad fedélzetig.
+.5 Az .1.1 és .1.2 alpontban előírt menekülési útvonalak közül legalább az egyiknek egy könnyen hozzáférhető zárt lépcsőháznak kell lennie, amely folyamatos fedezéket biztosít a tűz ellen a lépcső kiindulási pontjától a megfelelő mentőcsónak és mentőtutaj beszálló fedélzetig vagy - amennyiben a beszálló fedélzet nem terjed ki az érintett függőleges főzónáig - a legfelső nyitott fedélzetig.
 
 Az utóbbi esetben külső nyílt lépcsőkkel és átjárókkal kell biztosítani a beszálló fedélzet közvetlen megközelítést, amelyeket a III/5.3 pontnak megfelelően vészvilágítással, valamint csúszásmentes burkolattal kell ellátni. A menekülési útvonal részét képező külső nyílt lépcsőket és átjárókat határoló falak védelmét úgy kell kialakítani, hogy tűz esetén a határoló falak mögött található zárt tér ne gátolja a beszálló állomás megközelítését.
 
 A menekülési útvonalak szélessége, száma és folytonossága megfelel a következő követelményeknek:
 
-.1 A lépcsők szabad szélessége legalább 900 mm legyen, de nem lehet kevesebb, mint 600 mm. A lépcsőket mindkét oldalon korláttal kell ellátni. A lépcsők legkisebb szabad szélességét személyenként 10 mm-rel kell megnövelni, amennyiben a személyek száma meghaladja a 90 főt. Amennyiben a lépcső szélesebb 900 mm-nél, a korlátok közötti legnagyobb szabad szélességnek legfeljebb 1800 mm-nek kell lennie. Az evakuálás során a lépcsőt igénybe vevő személyek számának meghatározásánál a lépcsőhöz tartozó terület személyzetének kétharmadát és az összes ott tartózkodó utast kell figyelembe venni. A lépcső szélességének meg kell felelnie legalább a Nemzetközi Tengerészeti Szervezet A.757(18) határozatában foglalt normának.
+.1 A lépcsők szabad szélessége legalább 900 mm legyen, de nem lehet kevesebb, mint 600 mm. A lépcsőket mindkét oldalon korláttal kell ellátni. A lépcsők legkisebb szabad szélességét személyenként 10 mm-rel kell megnövelni, amennyiben a személyek száma meghaladja a 90 főt. Amennyiben a lépcső szélesebb 900 mm-nél, a korlátok közötti legnagyobb szabad szélességnek legfeljebb 1800 mm-nek kell lennie. Az evakuálás során a lépcsőt igénybe vevő személyek számának meghatározásánál a lépcsőhöz tartozó terület személyzetének kétharmadát és az összes ott tartózkodó utast kell figyelembe venni. A lépcső szélességének meg kell felelnie legalább a Nemzetközi Tengerészeti Szervezet A.757 (18) határozatában foglalt normának.
 
 .2 A több mint 90 személyre méretezett lépcsőket a hajó hosszirányában kell kialakítani.
 
@@ -3230,13 +3282,13 @@ A menekülési útvonalak szélessége, száma és folytonossága megfelel a kö
 
 .4 A lépcsők függőleges mérete a közbeeső pihenők nélkül nem haladhatja meg a 3,5 métert, lejtésszöge pedig nem lehet nagyobb 45°-nál.
 
-.5 A lépcsőpihenők alapterülete az egyes fedélzetszinteken nem lehet kisebb 2 m2–nél, amennyiben pedig a személyek száma meghaladja a 20 főt, minden 10 főre 1 m2-rel kell növelni azt, azonban nem szükséges meghaladnia a 16 m2-t, kivéve azokat a pihenőket, amelyek a zárt lépcsőházhoz közvetlen kijárattal rendelkező közös tereket szolgálják ki.
+.5 A lépcsőpihenők alapterülete az egyes fedélzetszinteken nem lehet kisebb 2 m2-nél, amennyiben pedig a személyek száma meghaladja a 20 főt, minden 10 főre 1 m2-rel kell növelni azt, azonban nem szükséges meghaladnia a 16 m2-t, kivéve azokat a pihenőket, amelyek a zárt lépcsőházhoz közvetlen kijárattal rendelkező közös tereket szolgálják ki.
 
-2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT 24 MÉTERES VAGY ANNÁL HOSSZABB B. C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT 24 MÉTERES VAGY ANNÁL HOSSZABB B. C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
 .5a Az .1.1 és .1.2 alpontban előírt menekülési útvonalak közül legalább az egyiknek könnyen hozzáférhető zárt lépcsőháznak kell lennie, amely folyamatos fedezéket biztosít a tűz ellen a lépcső kiindulási pontjától a megfelelő mentőcsónak és mentőtutaj beszálló fedélzetig, vagy a legfelső nyitott fedélzetig, amennyiben a beszálló fedélzet nem ér el az érintett függőleges főzónáig.
 
-Az utóbbi esetben külső nyitott lépcsőkkel és átjárókkal kell biztosítani a beszálló fedélzet közvetlen megközelítését, amelyeket a III/5.3 pontnak megfelelően vészvilágítással, valamint csúszásmentes burkolattal kell ellátni. Ha valamelyik határoló fal határos a menekülési útvonal részét képező külső nyitott lépcsőkkel és folyosókkal, illetve úgy helyezkedik el, hogy a tűz esetén történő meghibásodása akadályozza a beszálló fedélzetre való menekülést, akkor tűzállóságának és sértetlenségi értékeinek meg kell felelnie a 4.1–5.2 táblázat megfelelő értékeinek.
+Az utóbbi esetben külső nyitott lépcsőkkel és átjárókkal kell biztosítani a beszálló fedélzet közvetlen megközelítését, amelyeket a III/5.3 pontnak megfelelően vészvilágítással, valamint csúszásmentes burkolattal kell ellátni. Ha valamelyik határoló fal határos a menekülési útvonal részét képező külső nyitott lépcsőkkel és folyosókkal, illetve úgy helyezkedik el, hogy a tűz esetén történő meghibásodása akadályozza a beszálló fedélzetre való menekülést, akkor tűzállóságának és sértetlenségi értékeinek meg kell felelnie a 4.1-5.2 táblázat megfelelő értékeinek.
 
 A menekülési útvonalak szélességének, számának és folytonosságának meg kell felelnie a Tűzbiztonsági rendszerek szabályzata követelményeinek.
 
@@ -3246,13 +3298,13 @@ A menekülési útvonalak szélességének, számának és folytonosságának me
 
 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.6a Biztosítani kell a zárt lépcsőháztól a mentőcsónakok és a mentőtutaj beszálló területhez vezető útvonalak védelmét vagy közvetlenül, vagy pedig védett belső útvonalakkal, amelyek tűzállósági és sértetlenségi értékei megfelelnek a 4.1.–5.2 táblázatban a zárt lépcsőházakra meghatározott megfelelő értékeknek.
+.6a Biztosítani kell a zárt lépcsőháztól a mentőcsónakok és a mentőtutaj beszálló területhez vezető útvonalak védelmét vagy közvetlenül, vagy pedig védett belső útvonalakkal, amelyek tűzállósági és sértetlenségi értékei megfelelnek a 4.1.-5.2 táblázatban a zárt lépcsőházakra meghatározott megfelelő értékeknek.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.7 A II-1/D/3. és a III/5.3 pontban előírt vészvilágítás mellett a lépcsőket és a kijáratokat magában foglaló menekülési útvonalakat villamos árammal táplált vagy fotolumineszkáló anyagból készült, fedélzet szintje felett legfeljebb 0,3 méter magasságban felvitt jelzőcsíkokkal kell kijelölni, ideértve a menekülési útvonalak oldalai mentén, továbbá a sarkoknál és a kereszteződéseknél történő jelfelvitelt. A jelzésnek lehetővé kell tennie az utasok számára, hogy könnyen azonosítsák a menekülési útvonalakat és kijáratokat. Amennyiben villamos jelzéseket alkalmaznak, azt a vészüzemi áramforrásról kell táplálni, és úgy kell kialakítani, hogy az egyik világítótest hibája vagy a világító csík megszakadása ne tegye működésképtelenné a jelzőrendszert. Emellett az összes menekülési útvonaljelzésnek, valamint a tűzoltó berendezés helyét mutató jelölésnek fotolumineszkáló anyagból kell készülnie, vagy meg kell világítani azokat. A hajózási hatóság biztosítja, hogy a világítást vagy a fotolumineszkáló berendezést a Nemzetközi Tengerészeti Szervezet A.752(18) határozatában megadott útmutatásnak megfelelően értékelték, próbának vetették alá, és alkalmazzák.
+.7 A II-1/D/3. és a III/5.3 pontban előírt vészvilágítás mellett a lépcsőket és a kijáratokat magában foglaló menekülési útvonalakat villamos árammal táplált vagy fotolumineszkáló anyagból készült, fedélzet szintje felett legfeljebb 0,3 méter magasságban felvitt jelzőcsíkokkal kell kijelölni, ideértve a menekülési útvonalak oldalai mentén, továbbá a sarkoknál és a kereszteződéseknél történő jelfelvitelt. A jelzésnek lehetővé kell tennie az utasok számára, hogy könnyen azonosítsák a menekülési útvonalakat és kijáratokat. Amennyiben villamos jelzéseket alkalmaznak, azt a vészüzemi áramforrásról kell táplálni, és úgy kell kialakítani, hogy az egyik világítótest hibája vagy a világító csík megszakadása ne tegye működésképtelenné a jelzőrendszert. Emellett az összes menekülési útvonaljelzésnek, valamint a tűzoltó berendezés helyét mutató jelölésnek fotolumineszkáló anyagból kell készülnie, vagy meg kell világítani azokat. A hajózási hatóság biztosítja, hogy a világítást vagy a fotolumineszkáló berendezést a Nemzetközi Tengerészeti Szervezet A.752 (18) határozatában megadott útmutatásnak megfelelően értékelték, próbának vetették alá, és alkalmazzák.
 
-A 2003. január 1-jén vagy azt követően épített B., C. és D. kategó-riájú új hajók esetében viszont a hajózási hatóság biztosítja, hogy a világítást és a fotolumineszkáló berendezéseket a Tűzbiztonsági rendszerek szabályzatának megfelelően értékelték, próbának vetették alá, és alkalmazzák.
+A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajók esetében viszont a hajózási hatóság biztosítja, hogy a világítást és a fotolumineszkáló berendezéseket a Tűzbiztonsági rendszerek szabályzatának megfelelően értékelték, próbának vetették alá, és alkalmazzák.
 
 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
@@ -3266,7 +3318,7 @@ A tervezett menekülési útvonalon nem lehet egyetlen olyan ajtó sem, amelynek
 
 .2 A rendszerint bezárt, közös terekből kivezető vészkijáratokat gyorskioldó zárral kell felszerelni. E szerkezet egy ajtóreteszelő mechanizmusból és egy olyan beépített szerkezetből áll, ami kioldja a reteszt, amint erőhatás éri a menekülés irányából. A gyorskioldó szerkezetet a lobogó szerinti állam hajózási hatóságának előírásai szerint kell megtervezni és felszerelni, az alábbiaknak megfelelően:
 
-.2.1 rudakból vagy lapokból áll, amelyek működtető része az ajtószárny szélességének legalább felét teszi ki, a fedélzet fölött pedig 760–1120 mm-re van;
+.2.1 rudakból vagy lapokból áll, amelyek működtető része az ajtószárny szélességének legalább felét teszi ki, a fedélzet fölött pedig 760-1120 mm-re van;
 
 .2.2 legfeljebb 67 N erő alkalmazására kinyitja az ajtó reteszét; és
 
@@ -3274,9 +3326,9 @@ A tervezett menekülési útvonalon nem lehet egyetlen olyan ajtó sem, amelynek
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.2 .1 A speciális kategóriájú terekben a válaszfalfedélzet felett és alatt elhelyezkedő menekülési útvonalak számának és elrendezésének meg kell felelnie a hajózási hatóság által meghatározottaknak, a beszálló fedélzethez vezető útvonalak biztonságának pedig általában meg kell felelnie legalább az .1.1, .1.2, .1.5 és .1.6 alpontban előírt követelményeknek.
+.2.1 A speciális kategóriájú terekben a válaszfalfedélzet felett és alatt elhelyezkedő menekülési útvonalak számának és elrendezésének meg kell felelnie a hajózási hatóság által meghatározottaknak, a beszálló fedélzethez vezető útvonalak biztonságának pedig általában meg kell felelnie legalább az .1.1, .1.2, .1.5 és .1.6 alpontban előírt követelményeknek.
 
-A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon e tereket a menekülési útvonalhoz vezető megjelölt utakkal kell ellátni, amelyek szélessége legalább 600 mm; ezeket a hosszirányú utakat pedig — amennyiben megvalósítható és ésszerű — legalább 150 mm-rel a fedélzet szintje fölé kell emelni. A parkoló járműveket úgy kell elhelyezni, hogy ezen utak mindig szabadon maradjanak.
+A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon e tereket a menekülési útvonalhoz vezető megjelölt utakkal kell ellátni, amelyek szélessége legalább 600 mm; ezeket a hosszirányú utakat pedig - amennyiben megvalósítható és ésszerű - legalább 150 mm-rel a fedélzet szintje fölé kell emelni. A parkoló járműveket úgy kell elhelyezni, hogy ezen utak mindig szabadon maradjanak.
 
 .2 Azokból a gépterekből induló menekülési útvonalak egyikének, ahol általában a személyzet dolgozik, nem lehet közvetlen bejárata a speciális kategóriájú térbe.
 
@@ -3286,7 +3338,7 @@ A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriáj�
 
 .1 Amennyiben a tér a válaszfalfedélzet alatt helyezkedik el, a két menekülési útvonal a következők elemekből áll:
 
-.1 vagy két acél létra, amelyek egymástól a lehető legmesszebb helyezkednek el, a tér felső részének egymástól lehető legmesszebb elhelyezkedő ajtóihoz vezetnek, ahonnan megközelíthető a mentőcsónakok és mentőtutajok beszálló fedélzete. Az új hajókon a létrák egyikét, a tér alsó részétől egészen az ezen a téren kívül lévő biztonságos helyig állandó tűz elleni védelemmel kell ellátni. A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon ezt a létrát a II-2/B/4. pont (2) kategóriájának illetve a II-2/B/5. pont (4) kategóriájának megfelelő védett aknán belül kell elhelyezni, és a tér aljából a téren kívüli biztonságos helyre kell vezetnie. Az aknában azonos tűzállósági jellemzőkkel rendelkező önzáródó tűzbiztos ajtókat kell felszerelni. A létrát úgy kell rögzíteni, hogy a nem szigetelt rögzítési pontokon keresztül az aknafalak ne forrósodjanak át. A védett akna legkisebb belső mérete legalább 800 mm × 800 mm, és vészvilágítással kell felszerelni; vagy
+.1 vagy két acél létra, amelyek egymástól a lehető legmesszebb helyezkednek el, a tér felső részének egymástól lehető legmesszebb elhelyezkedő ajtóihoz vezetnek, ahonnan megközelíthető a mentőcsónakok és mentőtutajok beszálló fedélzete. Az új hajókon a létrák egyikét, a tér alsó részétől egészen az ezen a téren kívül lévő biztonságos helyig állandó tűz elleni védelemmel kell ellátni. A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon ezt a létrát a II-2/B/4. pont (2) kategóriájának illetve a II-2/B/5. pont (4) kategóriájának megfelelő védett aknán belül kell elhelyezni, és a tér aljából a téren kívüli biztonságos helyre kell vezetnie. Az aknában azonos tűzállósági jellemzőkkel rendelkező önzáródó tűzbiztos ajtókat kell felszerelni. A létrát úgy kell rögzíteni, hogy a nem szigetelt rögzítési pontokon keresztül az aknafalak ne forrósodjanak át. A védett akna legkisebb belső mérete legalább 800 mm x 800 mm, és vészvilágítással kell felszerelni; vagy
 
 .2 egy acél létra, amely a beszálló fedélzetre nyíló ajtóhoz vezet; a védett, a tér alsó részétől a beszálló fedélzetig biztos menekülési útvonalat biztosító térben elhelyezett létra alsó végének megközelítése céljára, a létrától kellő távolságban egy mindkét oldaláról működtethető acél ajtót kell felszerelni.
 
@@ -3302,7 +3354,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .3.2 A 24 méternél rövidebb hajókon a hajózási hatóság eltekinthet a géptér egyik menekülési útvonalától, kellő figyelmet fordítva a tér felső részének szélességére és kialakítására.
 
-A 24 méternél hosszabb hajókon, kellő figyelmet fordítva az adott tér a tér jellemzőire és elhelyezkedésére, valamint az ott rendszeresen tartózkodó személyek számára, hajózási hatóság eltekinthet e terek egyik menekülési útvonalától, amennyiben egy ajtón át megközelíthető acél létra biztonságos menekülési útvonalat biztosít a beszálló fedélzetre. A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon második menekülési útvonalat kell biztosítani a kormánygép teréből, amennyiben a vészüzemi kormányvezérlés ugyanabban a térben található, kivéve, ha a szabad fedélzettel való közvetlen összeköttetés biztosított.
+A 24 méternél hosszabb hajókon, kellő figyelmet fordítva az adott tér a tér jellemzőire és elhelyezkedésére, valamint az ott rendszeresen tartózkodó személyek számára, hajózási hatóság eltekinthet e terek egyik menekülési útvonalától, amennyiben egy ajtón át megközelíthető acél létra biztonságos menekülési útvonalat biztosít a beszálló fedélzetre. A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon második menekülési útvonalat kell biztosítani a kormánygép teréből, amennyiben a vészüzemi kormányvezérlés ugyanabban a térben található, kivéve, ha a nyitott fedélzettel való közvetlen összeköttetés biztosított.
 
 .3.3 A géptérben található gépvezérlőteremből két menekülési útvonalnak kell rendelkezésre állnia, amelyek közül legalább az egyiknek folyamatos tűzvédelmet kell biztosítania a géptéren kívül elhelyezkedő biztonságos helyig.
 
@@ -3328,15 +3380,15 @@ A 24 méternél hosszabb hajókon, kellő figyelmet fordítva az adott tér a t�
 
 .1 A B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ RO-RO SZEMÉLYHAJÓKRA ALKALMAZANDÓ KÖVETELMÉNYEK
 
-.1.1 E pontot a B., C. és D. kategóriájú új és a B. kategóriájú meglévő hajókra kell alkalmazni. A meglévő hajókra e pont követelményeit legkésőbb a II-2/B/16. pont .1 bekezdésében meghatározott határidő utáni első időszakos szemlétől kell alkalmazni.
+.1.1 E pontot a B., C. és D. kategóriájú új és a B. kategóriájú Ro-Ro személyhajókra kell alkalmazni.
 
 .1.2 A menekülési útvonal teljes hosszában az összes folyosót el kell látni korlátokkal vagy egyéb kapaszkodóval annak érdekében, hogy lehetőleg a gyülekezési és beszálló állomásokra vezető útvonalon folyamatosan biztosított legyen a kapaszkodó. Az 1,8 méternél szélesebb hosszirányú folyosók és az egy méternél szélesebb keresztirányú folyosók mindkét oldalán ilyen korlátot kell elhelyezni. Különös figyelmet kell fordítani arra, hogy a menekülési útvonal mentén az előtereken, társalgókon és egyéb nagyméretű nyílt helyeken át lehessen haladni. A korlátok és egyéb kapaszkodók olyan szilárdságúak legyenek, hogy ellenálljanak a folyosó vagy az adott tér közepe felé ható 750 N/m megoszló vízszintes terhelésnek és a lefelé ható 750 N/m megoszló függőleges terhelésnek. A két terhelést nem szükséges egyidejűleg alkalmazni.
 
 .1.3 A menekülési útvonalakat nem zárhatja el bútor vagy egyéb akadály. Az asztalok és székek kivételével, amelyeket a szabad hely biztosítása érdekében félre lehet állítani, a szekrényeket és egyéb, a közös terekben és a menekülési útvonalon található nehéz berendezései tárgyakat rögzíteni kell a helyükön, hogy a hajó hánykolódása vagy dőlése esetén ne mozduljanak el a helyükről. A padlóburkolatot is rögzíteni kell. Amikor a hajó úton van, a menekülési útvonalakat mentesíteni kell az olyan akadályoktól, mint a tisztító kocsik, az ágynemű, poggyászok és rakományládák.
 
-.1.4 A hajó összes rendszeresen használt teréből menekülési útvonalakat kell biztosítani egy gyülekezési hely felé. E menekülési útvonalakat úgy kell kialakítani, hogy a legközvetlenebb útvonalat biztosítsák gyülekezési hely felé, az útvonalakat a Nemzetközi Tengerészeti Szervezet A.760(18) határozatával elfogadott, az életmentő felszerelésekre és berendezésekre utaló jelekkel kell megjelölni.
+.1.4 A hajó összes rendszeresen használt teréből menekülési útvonalakat kell biztosítani egy gyülekezési hely felé. E menekülési útvonalakat úgy kell kialakítani, hogy a legközvetlenebb útvonalat biztosítsák gyülekezési hely felé, az útvonalakat a Nemzetközi Tengerészeti Szervezet A.760 (18) határozatával elfogadott, az életmentő felszerelésekre és berendezésekre utaló jelekkel kell megjelölni.
 
-.1.5 Ahol a zárt terek szabad fedélzettel szomszédosak, a zárt terek és a szabad fedélzet közötti nyílásokat, ahol kivitelezhető, vészkijáratként is alkalmazni kell.
+.1.5 Ahol a zárt terek nyitott fedélzettel szomszédosak, a zárt terek és a nyitott fedélzet közötti nyílásokat, ahol kivitelezhető, vészkijáratként is alkalmazni kell.
 
 .1.6 A fedélzeteket a duplafenék-tartály tetejétől vagy a legalsó fedélzettől kezdődően folyamatosan sorszámozni kell, a kezdő sorszám az „1”. E számokat jól láthatóan ki kell írni a lépcsők pihenőinél és a felvonók előterében. A fedélzeteket el is nevezhetik, a fedélzet számát azonban a név mellett mindig fel kell tüntetni.
 
@@ -3346,17 +3398,17 @@ A 24 méternél hosszabb hajókon, kellő figyelmet fordítva az adott tér a t�
 
 .2 A B., C. ÉS D. KATEGÓRIÁJÚ ÚJ RO-RO SZEMÉLYHAJÓKRA ALKALMAZANDÓ KÖVETELMÉNYEK
 
-.2.1 A válaszfalak alsó, 0,5 méteres szakasza és a menekülési útvonal mentén a függőleges térelválasztást képező egyéb határoló elemeknek 750 N/m² terhelést kell kiállnia, amely lehetővé teszi, hogy a menekülési útvonal oldalát járófelületként használhassák, ha a hajó erősen megdől.
+.2.1 A válaszfalak alsó, 0,5 méteres szakasza és a menekülési útvonal mentén a függőleges térelválasztást képező egyéb határoló elemeknek 750 N/m2 terhelést kell kiállnia, amely lehetővé teszi, hogy a menekülési útvonal oldalát járófelületként használhassák, ha a hajó erősen megdől.
 
-.2.2 A kabinokból a zárt lépcsőházakig a menekülési útvonalnak a lehető legrövidebbnek, az irányváltások számának pedig minimálisnak kell lennie. A menekülési útvonal eléréséhez ne kelljen átmenni a hajó egyik oldaláról a másikra. Az sem megengedhető, hogy az utastérből kettőnél több fedélzeten át kelljen felfelé vagy lefelé menni egy gyülekezési hely vagy egy szabad fedélzet elérése érdekében.
+.2.2 A kabinokból a zárt lépcsőházakig a menekülési útvonalnak a lehető legrövidebbnek, az irányváltások számának pedig minimálisnak kell lennie. A menekülési útvonal eléréséhez ne kelljen átmenni a hajó egyik oldaláról a másikra. Az sem megengedhető, hogy az utastérből kettőnél több fedélzeten át kelljen felfelé vagy lefelé menni egy gyülekezési hely vagy egy nyitott fedélzet elérése érdekében.
 
-.2.3 A 2.2 alpontban említett szabad fedélzetről külső útvonalakat kell biztosítani a mentőcsónak beszálló állomásig.
+.2.3 A 2.2 alpontban említett nyitott fedélzetről külső útvonalakat kell biztosítani a mentőcsónak beszálló állomásig.
 
 .3 AZ 1999. JÚLIUS 1-JÉN VAGY AZ UTÁN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ RO-RO SZEMÉLYHAJÓKRA ALKALMAZANDÓ KÖVETELMÉNYEK:
 
 Az 1999. július 1-jén vagy azt követően épített B., C. és D. kategóriájú új Ro-Ro személyhajók menekülési útvonalait még a tervezési szakaszban egy evakuálási elemzéssel kell kiértékelni. Amennyire kivitelezhető, az elemzéssel azonosítani kell, és ki kell küszöbölni azt a torlódást, amely a menekülési útvonalon az utasok és a személyzet szokásos mozgása következtében kialakulhat, ideértve annak a lehetőségét is, hogy ezen az útvonalon esetleg a személyzetnek az utasokkal ellentétes irányban kell haladnia. Emellett az elemzést annak bemutatására is fel kell használni, hogy a menekülési intézkedések elég rugalmasan kezelik azt a helyzetet is, ha károsodás következtében egyes menekülési útvonalak, gyülekezési helyek, beszálló állomások vagy túlélési járművek nem hozzáférhetők.
 
-7. Áttörések és nyílások az „A” és „B” kategóriájú térelválasztókban (R 30,31)
+7. Áttörések és nyílások az „A” és „B” kategóriájú térelválasztókban (R 30, 31)
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
@@ -3390,7 +3442,7 @@ A .4 bekezdés helyébe a következő .4a bekezdés lép:
 
 .1 önzáródók és még 3,5°-os dőlés esetén is bezáródnak;
 
-.2 az oldalpántos tűzálló ajtók záródási ideje a hajó függőleges helyzetében megközelítőleg 10–40 másodperc a mozgás elkezdésétől számítva. A tolóajtók esetében a záródás sebessége a hajó függőleges helyzetében nem lehet több mint 0,2 m/s és nem lehet kevesebb 0,1 m/s-nál;
+.2 az oldalpántos tűzálló ajtók záródási ideje a hajó függőleges helyzetében megközelítőleg 10-40 másodperc a mozgás elkezdésétől számítva. A tolóajtók esetében a záródás sebessége a hajó függőleges helyzetében nem lehet több mint 0,2 m/s és nem lehet kevesebb 0,1 m/s-nál;
 
 .3 a folyamatosan felügyelt központi vezérlőállásról vagy egyidejűleg, vagy csoportosan távvezérléssel is kioldhatók, ezenkívül az ajtó mindkét oldaláról egyenként is. A működtető gomboknak ki- és bekapcsoló funkcióval kell rendelkeznie a rendszer automatikus visszakapcsolásának elkerülésére;
 
@@ -3416,7 +3468,7 @@ A .4 bekezdés helyébe a következő .4a bekezdés lép:
 
 .14 a helyi vezérlőrendszer alkatrészeit a karbantartás és beállítás céljából hozzáférhető helyen kell elhelyezni; és
 
-.15 a gépi vezérlésű ajtókat olyan jóváhagyott típusú vezérlőrendszerrel kell ellátni, amely tűz esetén is működik, és amely megfelel a Tűzvizsgálati eljárások szabályzatának. E rendszernek meg kell felelnie a következő követelményeknek:
+.15 a gépi vezérlésű ajtókat olyan jóváhagyott típusú vezérlőrendszerrel kell ellátni, amely tűz esetén is működik, és amely megfelel a tűzvizsgálati eljárások szabályzatának. E rendszernek meg kell felelnie a következő követelményeknek:
 
 .15.1 a vezérlőrendszer legalább 200 °C hőmérsékleten legalább 60 percig működtetni tudja az ajtót saját áramellátásával;
 
@@ -3438,11 +3490,11 @@ A hajó külső határainak „A” kategóriájú sértetlenségi követelmény
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.6 A vízmentes, időjárásálló (fröccsenő vizet álló) ajtók kivételével, a szabad fedélzetre nyíló ajtókat, továbbá azokat amelyeknek elegendően gázbiztosnak kell lenniük, valamint a menekülési útvonalak mentén lévő lépcsőházakban, közös terekben és függőleges főzónák válaszfalaiban lévő összes „A” kategóriájú ajtót olyan önműködően záródó tömlőcsatlakozóval kell felszerelni, amely anyaga, szerkezete és tűzállósága megfelel azon ajtóénak, amelybe beszerelték, és zárt ajtó mellett egy az alsó szélébe ágyazott 150 mm-es négyszögletes nyílást képez és az oldalpántos ajtóknál az ajtópántokkal ellentétes alsó szélében, vagy tolóajtók esetében a nyíláshoz legközelebbi oldalon helyezkedik el.
+.6 A vízmentes, időjárásálló (fröccsenő vizet álló) ajtók kivételével, a nyitott fedélzetre nyíló ajtókat, továbbá azokat amelyeknek elegendően gázbiztosnak kell lenniük, valamint a menekülési útvonalak mentén lévő lépcsőházakban, közös terekben és függőleges főzónák válaszfalaiban lévő összes „A” kategóriájú ajtót olyan önműködően záródó tömlőcsatlakozóval kell felszerelni, amely anyaga, szerkezete és tűzállósága megfelel azon ajtóénak, amelybe beszerelték, és zárt ajtó mellett egy az alsó szélébe ágyazott 150 mm-es négyszögletes nyílást képez és az oldalpántos ajtóknál az ajtópántokkal ellentétes alsó szélében, vagy tolóajtók esetében a nyíláshoz legközelebbi oldalon helyezkedik el.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.7 A „B” kategóriájú térelválasztóhoz tartozó ajtókat és ajtótokokat, valamint zárószerkezeteiket olyan záró rendszerrel kell ellátni, amely tűzállósága megegyezik a térelválasztó tűzállóságával, azonban szellőző nyílásokat lehet elhelyezni az ajtók alsó részén. Amennyiben e nyílások az ajtóban vagy az alatt találhatók, annak teljes keresztmetszete nem haladhatja meg a 0,05 m2-t. Helyettesítő megoldásként megengedett a kabin és a folyosó között elvezetett és a vizesblokk alatt elhelyezett éghetetlen légkiegyenlítő csatorna, amennyiben a csatorna keresztmetszete nem haladja meg a 0,05 m²-t. Szellőzőnyílást éghetetlen anyagból készült védőráccsal kell felszerelni. Az ajtóknak nem éghető anyagból kell készülniük.
+.7 A „B” kategóriájú térelválasztóhoz tartozó ajtókat és ajtótokokat, valamint zárószerkezeteiket olyan záró rendszerrel kell ellátni, amely tűzállósága megegyezik a térelválasztó tűzállóságával, azonban szellőző nyílásokat lehet elhelyezni az ajtók alsó részén. Amennyiben e nyílások az ajtóban vagy az alatt találhatók, annak teljes keresztmetszete nem haladhatja meg a 0,05 m2-t. Helyettesítő megoldásként megengedett a kabin és a folyosó között elvezetett és a vizesblokk alatt elhelyezett éghetetlen légkiegyenlítő csatorna, amennyiben a csatorna keresztmetszete nem haladja meg a 0,05 m2-t. Szellőzőnyílást éghetetlen anyagból készült védőráccsal kell felszerelni. Az ajtóknak nem éghető anyagból kell készülniük.
 
 .7.1 A zajcsökkentés érdekében a hajózási hatóság egyenértékű megoldásként olyan ajtókat engedélyezhet, amelyek beépített zajcsökkentő szellőzéssel rendelkeznek, amelyek nyílása az ajtó egyik oldalán alul, a másikon felül található, amennyiben megfelelnek a következő rendelkezéseknek:
 
@@ -3450,7 +3502,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 .2 az alsó nyílást nem éghető anyagból készült ráccsal szerelik fel.
 
-.3 az ajtókat az A.754(18) határozatban foglalt rendelkezéseknek megfelelően vizsgálják.
+.3 az ajtókat az A.754 (18) határozatban foglalt rendelkezéseknek megfelelően vizsgálják.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
@@ -3464,7 +3516,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.1 Az összes lépcsőnek acélvázas szerkezetűnek kell lennie és „A” kategóriájú térelválasztókból kialakított téren belül kell elhelyezkednie, továbbá az összes nyílást hatékony zárószerkezettel kell felszerelni, a következő kivételek megengedettek:
+.1 Az összes lépcsőnek acélvázas szerkezetűnek kell lennie – kivéve amennyiben a hatóság engedélyezi más, egyenértékű anyag használatát – és „A” kategóriájú térelválasztókból kialakított téren belül kell elhelyezkednie, továbbá az összes nyílást hatékony zárószerkezettel kell felszerelni, a következő kivételek megengedettek:
 
 .1 azt a lépcsőt, amely csak két fedélzetet köt össze, nem kell bezárni, amennyiben a fedélzet sértetlenséget megfelelő válaszfalak vagy az egyik fedélközi térben lévő ajtók biztosítják. Amennyiben a lépcső az egyik fedélközi térben zárt, a zárt lépcsőházat a 4. és 5. pont fedélzetekre vonatkozó táblázatainak megfelelő védelemmel kell ellátni;
 
@@ -3472,7 +3524,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.2 A zárt lépcsőháznak közvetlen kapcsolata legyen a folyosókkal, területe és a keresztmetszete elég nagy legyen ahhoz, hogy — figyelembe véve azon személyek számát, akik várhatóan használni fogják — a torlódás elkerülhető legyen.
+.2 A zárt lépcsőháznak közvetlen kapcsolata legyen a folyosókkal, területe és a keresztmetszete elég nagy legyen ahhoz, hogy - figyelembe véve azon személyek számát, akik várhatóan használni fogják - a torlódás elkerülhető legyen.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK: Az ilyen zárt lépcsőházak határain belül csak nyilvános illemhelyek és nem éghető anyagból készült, a biztonsági felszerelések tárolására szolgáló raktárak, valamint nyitott információs pultok helyezhetők el.
 
@@ -3488,7 +3540,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-.1 A szellőzőrendszernek az e pont .1 bekezdésén kívül meg kell felelnie az e pont .2.2–.2.6 és .2.8–.2.9 bekezdésének is.
+.1. A szellőzőrendszernek a SOLAS 1974/1978 1998. március 17-én hatályba lépett II/32. szabálya 1. bekezdésén kívül meg kell felelnie e pont 2.2.–2.6. és 2.8–2.9. bekezdéseinek is.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
@@ -3514,7 +3566,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
-az .1 bekezdés helyébe a következő .1a bekezdés lép:
+az .1 bekezdés helyébe a következő .1 a bekezdés lép:
 
 .1a a csatornának lassú lángterjedési tulajdonságokkal rendelkező anyagból kell készülnie.
 
@@ -3556,19 +3608,19 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
-az .1 bekezdés helyébe a következő .1a bekezdés lép:
+az .1 bekezdés helyébe a következő .1 a bekezdés lép:
 
-.1a e csatornáknak alacsony lángterjedési jellemzőkkel rendelkező anyagból kell készülniük.
+.1 a e csatornáknak alacsony lángterjedési jellemzőkkel rendelkező anyagból kell készülniük.
 
-.2a Amennyiben egy 0,02 m2–t meghaladó szabad keresztmetszetű szellőzőcsatorna halad át „A” kategóriájú térelválasztókon vagy fedélzeteken, a nyílásokat acéllemez hüvellyel kell ellátni, kivéve azokat az eseteket, amikor a fedélzet vagy válaszfal megbontásának szomszédságában a válaszfalakon vagy fedélzeteken áthaladó csatornák acélból készültek, a csatornák és acélhüvelyek pedig megfelelnek a következőknek:
+.2a Amennyiben egy 0,02 m2-t meghaladó szabad keresztmetszetű szellőzőcsatorna halad át „A” kategóriájú térelválasztókon vagy fedélzeteken, a nyílásokat acéllemez hüvellyel kell ellátni, kivéve azokat az eseteket, amikor a fedélzet vagy válaszfal megbontásának szomszédságában a válaszfalakon vagy fedélzeteken áthaladó csatornák acélból készültek, a csatornák és acélhüvelyek pedig megfelelnek a következőknek:
 
 .1 A hüvelyek lemezvastagsága legalább 3 mm, hosszúsága legalább 900 mm. Amikor válaszfalon haladnak át, ez a hosszúság lehetőleg a válaszfal mindkét oldalán 450 mm legyen. E csatornák vagy az e csatornákat körülvevő hüvelyek tűzszigetelést kapnak. A szigetelésnek legalább annyira tűzállónak kell lennie, mint az a válaszfal vagy fedélzet, amelyen a csatorna áthalad.
 
 .2 A 0,075 m2-nél nagyobb szabad keresztmetszetű csatornákat a fenti .9.2.2.1 bekezdés előírásain kívül még tűzvédelmi csappantyúval is fel kell szerelni. A tűzvédelmi csappantyú automatikusan működik, de a válaszfal vagy a fedélzet mindkét oldaláról kézzel is zárható. A csappantyút egy olyan jelzőberendezéssel kell felszerelni, amely mutatja, hogy a csappantyú nyitva van-e vagy zárva. A tűzvédelmi csappantyú alkalmazása nem szükséges ott, ahol a csatornák „A” kategóriájú térelválasztóval körülvett tereken haladnak át, de nem e tereket látják el, feltéve, hogy a csatornák tűzállósága megegyezik a megbontott térelválasztókéval. A tűzvédelmi csappantyúkat könnyen hozzáférhetően kell elhelyezni. Amennyiben a 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon a tűzvédelmi csappantyúkat a mennyezeti vagy falburkolatok mögé helyezik, ezeket a mennyezeti vagy falburkolatokat ellenőrző nyílással kell ellátni, amelyre felszerelik a tűzvédelmi csappantyú azonosító számát megadó táblát. A tűzvédelmi csappantyú azonosító számát az előírt távvezérlőkön is fel kell tüntetni.
 
-.2b Amennyiben a 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon egy 0,02 m² vagy annál kisebb keresztmetszetű vékonyan lemezelt csatorna bontja meg az „A” kategóriájú válaszfalakat vagy fedélzeteket, a nyílást legalább 3 mm vastag és legalább 200 mm hosszú acélhüvellyel kell bélelni, lehetőleg 100-100 mm elosztással a válaszfal mindkét oldalán, illetve a fedélzet esetében teljesen megbontott fedélzet alsó oldalán.
+.2b Amennyiben a 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon egy 0,02 m2 vagy annál kisebb keresztmetszetű vékonyan lemezelt csatorna bontja meg az „A” kategóriájú válaszfalakat vagy fedélzeteket, a nyílást legalább 3 mm vastag és legalább 200 mm hosszú acélhüvellyel kell bélelni, lehetőleg 100-100 mm elosztással a válaszfal mindkét oldalán, illetve a fedélzet esetében teljesen megbontott fedélzet alsó oldalán.
 
-.3 A gépterek, konyhák, gépjármű-fedélzetek, Ro-Ro rakterek vagy speciális kategóriájú terek szellőzőcsatornái nem haladhatnak át lakótereken, kiszolgáló helyiségeken vagy vezérlőállásokon, amennyiben nem felelnek meg a .9.2.3.1.1–.9.2.3.1.4 vagy .9.2.3.2.1 és .9.2.3.2.2 bekezdés feltételeinek:
+.3 A gépterek, konyhák, gépjármű-fedélzetek, Ro-Ro rakterek vagy speciális kategóriájú terek szellőzőcsatornái nem haladhatnak át lakótereken, kiszolgáló helyiségeken vagy vezérlőállásokon, amennyiben nem felelnek meg a .9.2.3.1.1-.9.2.3.1.4 vagy .9.2.3.2.1 és .9.2.3.2.2 bekezdés feltételeinek:
 
 .1.1 a csatornáknak acélból kell készülniük, amely vastagsága 300 mm vagy annál kevesebb, illetve a 760 mm vagy annál nagyobb szélességű vagy átmérőjű csatornák esetében 3 mm, illetve 5 mm. Az olyan csatornák esetében, amelyek szélessége vagy átmérője 300 mm és 760 mm közé esik, a vastagságot interpolálással kell meghatározni;
 
@@ -3588,7 +3640,7 @@ kivéve azokat az eseteket, amikor a függőleges főzóna megbontása is megfel
 
 A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon az A. kategóriájú gépterek, a járműterek, Ro-Ro terek, konyhák, speciális kategóriájú terek és rakterek szellőzőrendszereit általában el kell különíteni egymástól és az egyéb tereket ellátó szellőzőrendszerektől. A 36-nál kevesebb személy szállítására alkalmasnak nyilvánított személyhajókon a konyhai szellőzőrendszereket nem szükséges teljesen elkülöníteni egymástól, hanem külön csatornákon keresztül más tereket ellátó szellőzőberendezés is kiszolgálhatja azokat. A szellőztető berendezés közelében automatikus tűzvédelmi csappantyút kell felszerelni a konyhai szellőzőcsatornában.
 
-.4 A lakóterek, kiszolgáló helyiségek vagy vezérlőállások szellőzését szolgáló csatornák nem haladhatnak át géptereken, konyhákon, gépjármű-fedélzeteken, Ro-Ro raktereken vagy speciális kategóriájú tereken, kivéve ha megfelelnek a .9.2.4.1.1–.9.2.4.1.3 vagy .9.2.4.2.1 és .9.2.4.2.2. alpontban meghatározott feltételeknek:
+.4 A lakóterek, kiszolgáló helyiségek vagy vezérlőállások szellőzését szolgáló csatornák nem haladhatnak át géptereken, konyhákon, gépjármű-fedélzeteken, Ro-Ro raktereken vagy speciális kategóriájú tereken, kivéve ha megfelelnek a .9.2.4.1.1-.9.2.4.1.3 vagy .9.2.4.2.1 és .9.2.4.2.2. alpontban meghatározott feltételeknek:
 
 .1.1 a csatornáknak a .9.2.3.1.1 és 9.2.3.1.2 bekezdésnek megfelelően acélból kell készülniük, amennyiben géptereken, konyhákon, gépjármű-fedélzeteken, Ro-Ro raktereken vagy speciális kategóriájú tereken haladnak át;
 
@@ -3604,9 +3656,9 @@ vagy
 
 a függőleges főzóna áttöréseinek is meg kell felelnie a .9.2.8 bekezdés követelményeinek.
 
-.5 A „B” kategóriájú válaszfalakon áthaladó, 0,02 m2- t meghaladó szabad keresztmetszetű szellőzőcsatornát acéllemez hüvellyel kell kibélelni, amely 900 mm hosszú, és lehetőleg a válaszfalak mindkét oldalára 450 mm-re nyúlik át, amennyiben a csatorna az e hosszúságban nem acélból készült.
+.5 A „B” kategóriájú válaszfalakon áthaladó, 0,02 m2-t meghaladó szabad keresztmetszetű szellőzőcsatornát acéllemez hüvellyel kell kibélelni, amely 900 mm hosszú, és lehetőleg a válaszfalak mindkét oldalára 450 mm-re nyúlik át, amennyiben a csatorna az e hosszúságban nem acélból készült.
 
-.6 Amennyire kivitelezhető, minden intézkedést meg kell tenni a géptereken kívül elhelyezkedő vezérlőállásoknál annak érdekében, hogy fenntartható legyen a szellőzés, a láthatóság és a füstmentesség, s így a helyiségben lévő gépek és berendezések tűz esetén felügyelhetők legyenek és továbbra is hatékonyan működjenek. A levegőellátásnak két tetszés szerint működtethető egymástól független módját is biztosítani kell; a levegőellátás két forrásának bemeneti nyílását úgy kell elhelyezni, hogy a lehető legkisebb legyen annak a veszélye, hogy mindkét bemeneti nyílás füstöt szívjon. E követelményeket nem kell azokra a vezérlőállásokra alkalmazni, amelyek szabad fedélzeten helyezkednek el, vagy oda nyílnak, illetve ahol a helyi záró berendezések elég hatékonyak.
+.6 Amennyire kivitelezhető, minden intézkedést meg kell tenni a géptereken kívül elhelyezkedő vezérlőállásoknál annak érdekében, hogy fenntartható legyen a szellőzés, a láthatóság és a füstmentesség, s így a helyiségben lévő gépek és berendezések tűz esetén felügyelhetők legyenek és továbbra is hatékonyan működjenek. A levegőellátásnak két tetszés szerint működtethető egymástól független módját is biztosítani kell; a levegőellátás két forrásának bemeneti nyílását úgy kell elhelyezni, hogy a lehető legkisebb legyen annak a veszélye, hogy mindkét bemeneti nyílás füstöt szívjon. E követelményeket nem kell azokra a vezérlőállásokra alkalmazni, amelyek nyitott fedélzeten helyezkednek el, vagy oda nyílnak, illetve ahol a helyi záró berendezések elég hatékonyak.
 
 .7 A konyhai tűzhelyek elszívó csatornáit „A” kategóriájú térelválasztóból kell készíteni, amennyiben lakótereken vagy éghető anyagokat magukban foglaló tereken haladnak át. Minden elszívó csatornát fel kell szerelni a következőkkel:
 
@@ -3618,7 +3670,7 @@ a függőleges főzóna áttöréseinek is meg kell felelnie a .9.2.8 bekezdés 
 
 .4 a csatornán belüli tűz eloltására szolgáló beépített tűzoltó készülék.
 
-.8 Ahol szükség van arra, hogy egy szellőzőcsatorna függőleges főzónán haladjon keresztül, a térelválasztó mellett üzembiztos automatikusan záródó tűzvédelmi csappantyút kell felszerelni. A csappantyúnak a térelválasztó mindkét oldaláról kézzel is zárhatónak kell lennie. A működtető hely könnyen megközelíthető legyen, és piros, fényvisszaverő színnel kell megjelölni. A térelválasztó és a csappantyú közötti csatornát acélból vagy egyéb egyenértékű anyagból kell készíteni, szükség esetén pedig úgy kell szigetelni, hogy megfeleljen a II2/A/12.1 bekezdés követelményeinek. A csappantyút legalább a térhatároló egyik oldalán jól látható jelzőkészülékkel kell felszerelni, amely mutatja, hogy a csappantyú nyitott állásban van-e.
+.8 Ahol szükség van arra, hogy egy szellőzőcsatorna függőleges főzónán haladjon keresztül, a térelválasztó mellett üzembiztos automatikusan záródó tűzvédelmi csappantyút kell felszerelni. A csappantyúnak a térelválasztó mindkét oldaláról kézzel is zárhatónak kell lennie. A működtető hely könnyen megközelíthető legyen, és piros, fényvisszaverő színnel kell megjelölni. A térelválasztó és a csappantyú közötti csatornát acélból vagy egyéb egyenértékű anyagból kell készíteni, szükség esetén pedig úgy kell szigetelni, hogy megfeleljen a 112/A/12.1 bekezdés követelményeinek. A csappantyút legalább a térhatároló egyik oldalán jól látható jelzőkészülékkel kell felszerelni, amely mutatja, hogy a csappantyú nyitott állásban van-e.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
@@ -3646,23 +3698,21 @@ A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriáj�
 
 .2 A 4. és 5. pontban található táblázatok sérelme nélkül a lakóterek, kiszolgáló helyiségek és vezérlőállások időjárástól védő válaszfalaiba épített ablakoknak és körablakoknak acélkerettel kell készülniük vagy egyéb megfelelő anyagból kell építeni azokat. Az üveget fémből készült ágyazatba vagy szögidomba kell ágyazni.
 
-A TÖBB MINT 36 FŐ SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C.
+A TÖBB MINT 36 FŐ SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
-ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
-
-.3 Az életmentő felszerelésekre, beszálló és gyülekezési helyekre, menekülési útvonalként használt külső lépcsőkre és szabad fedélzetekre néző ablakok, valamint a mentőtutaj és mentőcsúszda beszálló területek alatt elhelyezkedő ablakok tűzállóságának meg kell felelnie a 4. pont táblázatának. Amennyiben az ablakokat automatikus irányítású szórófejekkel szerelik fel, az „A-0” ablakok is elfogadhatók.
+.3 Az életmentő felszerelésekre, beszálló és gyülekezési helyekre, menekülési útvonalként használt külső lépcsőkre és nyitott fedélzetekre néző ablakok, valamint a mentőtutaj és mentőcsúszda beszálló területek alatt elhelyezkedő ablakok tűzállóságának meg kell felelnie a 4. pont táblázatának. Amennyiben az ablakokat automatikus irányítású szórófejekkel szerelik fel, az „A-0” ablakok is elfogadhatók.
 
 A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon az automatikus irányítású szórófejeknek a következők egyikének kell lenniük:
 
 .1 az ablakok fölött elhelyezett és a hagyományos mennyezeti szórófejek mellett felszerelt irányított szórófejek; vagy
 
-.2 hagyományos mennyezeti szórófejek úgy elrendezve, hogy az ablakot átlagosan legalább percenkénti 5 liter/m² vízmennyiség védje, az ablakok területét pedig bele kell számítani a permetezett területbe.
+.2 hagyományos mennyezeti szórófejek úgy elrendezve, hogy az ablakot átlagosan legalább percenkénti 5 liter/m2 vízmennyiség védje, az ablakok területét pedig bele kell számítani a permetezett területbe.
 
 A hajó oldalán a mentőcsónak beszálló terület alatt elhelyezkedő ablakok tűzállóságának legalább „A-0”-nak kell lennie”.
 
 B., C. ÉS D. KATEGÓRIÁJÚ, 36 VAGY ANNÁL KEVESEBB FŐ SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT ÚJ HAJÓK ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-.4 A II-2/B/5. pont táblázatait nem érintve különös figyelmet kell fordítani a nyílt vagy zárt mentőcsónak és mentőtutaj beszálló területekre nyíló ablakok, és az e területek alatt elhelyezett ablakok tűzállóságára, amelyek roncsolódása tűz esetén megakadályozná a mentőcsónakok vagy mentőtutajok vízre bocsátását illetve a behajózását.
+.4 A II-2/B/5. pont táblázatait nem érintve különös figyelmet kell fordítani a nyílt vagy zárt mentőcsónak és mentőtutaj beszálló területekre nyíló ablakok, és az e területek alatt elhelyezett ablakok tűzállóságára, amelyek roncsolódása tűz esetén megakadályozná a mentőcsónakok vagy mentőtutajok vízre bocsátását, illetve a behajózását.
 
 11. Éghető anyagok korlátozott használata (R 34)
 
@@ -3674,13 +3724,13 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
-A .2 bekezdés helyébe a következő .2a bekezdéslép:
+A .2 bekezdés helyébe a következő .2a bekezdés lép:
 
 .2a A szigeteléssel együtt felhasznált párazáró rétegeket és ragasztóanyagokat, valamint a hideg üzemű csőszerelvények szigetelését nem kell nem éghetetlen anyagból készíteni, azonban a lehető legkisebb mennyiségben kell felhasználni, szabadon lévő felületeiknek pedig lassú lángterjedési tulajdonságokkal kell rendelkezniük.
 
 .3 A következő felületeknek kell lassú lángterjedési tulajdonságokkal rendelkeznie:
 
-.1 szabad felületek folyosókon és a zárt lépcsőházakban, a válaszfalaknál, a fal- és mennyezetburkolatok szabad felületei a lakóterekben, kiszolgáló helyiségekben és vezérlőállásokon;
+.1 szabad felületek folyosókon és a zárt lépcsőházakban, a válaszfalaknál, a fal- és mennyezetburkolatok szabad felületet a lakóterekben, kiszolgáló helyiségekben és vezérlőállásokon;
 
 .2 rejtett vagy megközelíthetetlen terek a lakóterekben, kiszolgáló helyiségekben és vezérlőállásokban.
 
@@ -3688,7 +3738,7 @@ A .2 bekezdés helyébe a következő .2a bekezdéslép:
 
 A II-2/A/8 pontnak megfelelő automatikus vízpermettel oltó berendezéssel felszerelt hajók esetében a fent említett térfogat tartalmazhat bizonyos mennyiségű, a „C” kategóriájú térelválasztók felállításához használt éghető anyagot.
 
-.5 A felületek kialakításához használt furnér és burkolatok, amelyeket a .3 bekezdés hatály alá tartozó felületek és burkolatok kialakításánál alkalmaznak, égéshője az alkalmazott anyagvastagság mellett nem haladhatja meg a 45 MJ/m² értéket.
+.5 A felületek kialakításához használt furnér és burkolatok, amelyeket a .3 bekezdés hatály alá tartozó felületek és burkolatok kialakításánál alkalmaznak, égéshője az alkalmazott anyagvastagság mellett nem haladhatja meg a 45 MJ/m2 értéket.
 
 .6 A zárt lépcsőházakban csak ülőbútorokat szabad elhelyezni. Az üléseket rögzíteni kell, számuk a fedélzetek lépcsőházaiban legfeljebb hat lehet, korlátozottan tűzveszélyes anyagból kell készíteni azokat, ezenkívül nem akadályozhatják az utasok menekülési útvonalát. A hajózási hatóság további üléseket engedélyezhet a zárt lépcsőházon belül lévő fő fogadó térben, amennyiben azok rögzítettek, nem éghetők és nem akadályozzák az utasok menekülési útvonalát. A kabinok körzetében, a menekülési útvonalként használható utas és személyzeti folyosókon nem helyezhetnek el bútorokat. Azonban nem éghető anyagból készült tároló helyiségek is engedélyezhetők, amelyekben az e pontban előírt biztonsági felszereléseket tárolják. Az ivóvízcsapok és jégkocka gyártó gépek engedélyezhetők a folyosókon, amennyiben rögzítik azokat, és nem szűkítik a menekülési útvonalakat. Ez vonatkozik a folyosókon és lépcsőházakban elhelyezett, díszítési célokat szolgáló virágokra vagy növényekre, szobrokra és egyéb művészeti tárgyakra, például képekre és faliszőnyegekre is.
 
@@ -3700,7 +3750,7 @@ A .7. bekezdés helyébe a következő .7a bekezdés lép:
 
 .7a A szabad belső felületeken felhasznált festékből, lakkból és egyéb hasonló anyagból nem szabadulhat fel a Nemzetközi Tengerészeti Szervezet Tűzvizsgálati eljárások szabályzata meghatározásának megfelelő jelentős mennyiségű füst és mérgező anyag.
 
-.8 Amennyiben a lakóterekben, kiszolgáló helyiségekben és vezérlőállásokon elsődleges fedélzetburkolatot alkalmaznak, annak jóváhagyott anyagból kell készülnie, amely a Nemzetközi Tengerészeti Szervezet A.687(17) határozatában foglalt tűzvizsgálati eljárásának megfelelően nehezen gyúlékony, megnövekedett hőmérséklet mellet pedig nem vezet mérgezéshez vagy robbanásveszélyhez.
+.8 Amennyiben a lakóterekben, kiszolgáló helyiségekben és vezérlőállásokon elsődleges fedélzetburkolatot alkalmaznak, annak jóváhagyott anyagból kell készülnie, amely a Nemzetközi Tengerészeti Szervezet A.687 (17) határozatában foglalt tűzvizsgálati eljárásának megfelelően nehezen gyúlékony, megnövekedett hőmérséklet mellet pedig nem vezet mérgezéshez vagy robbanásveszélyhez.
 
 2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
@@ -3726,15 +3776,15 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .1 egy jóváhagyott típusú, a II-2/A/9 pont követelményeinek megfelelő beépített tűzérzékelő és tűzjelző rendszert, amely elrendezése és kivitelezése olyan, hogy észleli a tüzet ezekben a terekben; a 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajók esetében azonban füstérzékelőt is fel kell szerelni a lakótereken belüli folyosókon, lépcsőházakban és menekülési útvonalakon, vagy
 
-.2 egy jóváhagyott típusú, a II-2/A/8 pont követelményeinek vagy egy egyenértékű, a Nemzetközi Tengerészeti Szervezet A.800(19) határozatában foglalt követelmények szerinti, vízpermettel oltó berendezésre vonatkozó útmutatónak megfelelő, jóváhagyott típusú automatikus vízpermettel oltó berendezést, tűzérzékelő és tűzjelző rendszert, amelyeket úgy szerelnek fel és alakítanak ki, hogy védjék e tereket, továbbá egy jóváhagyott típusú, a II-2/A/9 pont követelményeinek megfelelő beépített tűzérzékelő és tűzjelző rendszert, amelyet úgy szerelnek fel és alakítanak ki, hogy a lakóterek folyosóin, lépcsőházaiban és menekülési útvonalain érzékeljék a füstöt.
+.2 egy jóváhagyott típusú, a II-2/A/8 pont követelményeinek vagy egy egyenértékű, a Nemzetközi Tengerészeti Szervezet A.800 (19) határozatában foglalt követelmények szerinti, vízpermettel oltó berendezésre vonatkozó útmutatónak megfelelő, jóváhagyott típusú automatikus vízpermettel oltó berendezést, tűzérzékelő és tűzjelző rendszert, amelyeket úgy szerelnek fel és alakítanak ki, hogy védjék e tereket, továbbá egy jóváhagyott típusú, a II-2/A/9 pont követelményeinek megfelelő beépített tűzérzékelő és tűzjelző rendszert, amelyet úgy szerelnek fel és alakítanak ki, hogy a lakóterek folyosóin, lépcsőházaiban és menekülési útvonalain érzékeljék a füstöt.
 
-.2 A 36-nál több személy szállítására alkalmasnak nyilvánított hajókat — a 24 méternél rövidebb hajók kivételével — fel kell szerelni:
+.2 A 36-nál több személy szállítására alkalmasnak nyilvánított hajókat - a 24 méternél rövidebb hajók kivételével - fel kell szerelni:
 
-minden kiszolgáló helyiségben, vezérlőállásban és folyosókat és lépcsőházakat magában foglaló lakótérben jóváhagyott típusú, a II-2/A/8 pont követelményeit kielégítő vagy egy ezzel egyenértékű, a Nemzetközi Tengerészeti Szervezet A.800(19) határozatában foglaltak szerinti, vízpermettel oltó berendezésre vonatkozó irányelvnek megfelelő, jóváhagyott típusú automatikus vízpermettel oltó berendezéssel, tűzérzékelő és tűzjelző rendszerrel.
+minden kiszolgáló helyiségben, vezérlőállásban és folyosókat és lépcsőházakat magában foglaló lakótérben jóváhagyott típusú, a II-2/A/8 pont követelményeit kielégítő vagy egy ezzel egyenértékű, a Nemzetközi Tengerészeti Szervezet A.800 (19) határozatában foglaltak szerinti, vízpermettel oltó berendezésre vonatkozó irányelvnek megfelelő, jóváhagyott típusú automatikus vízpermettel oltó berendezéssel, tűzérzékelő és tűzjelző rendszerrel;
 
-azokat a vezérlőállásokat, ahol a víz kárt okozhat a fontos berendezésekben, egy másik jóváhagyott típusú beépített tűzoltó rendszerrel kell felszerelni.
+azokat a vezérlőállásokat, ahol a víz kárt okozhat a fontos berendezésekben, egy másik jóváhagyott típusú beépített tűzoltó rendszerrel kell felszerelni;
 
-egy jóváhagyott típusú, a II-2/A/9 pont követelményeinek megfelelő beépített tűzérzékelő és tűzjelző rendszert kell kialakítani, amelynek olyan a felszerelése és kialakítása, hogy érzékeli a füstöt a kiszolgáló helyiségekben, a vezérlőállásokon, valamint a folyosókat és lépcsőházakat magukban foglaló lakóterekben. Nem kell elhelyezni füstérzékelőket a személyes használatú fürdőszobákban és konyhákban.
+egy jóváhagyott típusú, a II-2/A/9 pont követelményeinek megfelelő beépített tűzérzékelő és tűzjelző rendszert kell kialakítani, amelynek olyan a felszerelése és kialakítása, hogy érzékeli a füstöt a kiszolgáló helyiségekben, a vezérlőállásokon, valamint a folyosókat és lépcsőházakat magukban foglaló lakóterekben. Nem kell elhelyezni füstérzékelőket a személyes használatú fürdőszobákban és konyhákban;
 
 azokat a tereket, ahol a tűzveszély kis fokú vagy egyáltalán nem áll fenn, mint például az üres terek, nyilvános illemhelyek, szén-dioxid állomások és hasonló terek, nem kell felszerelni automatikus vízpermettel oltó berendezéssel vagy beépített tűzérzékelő és tűzjelző rendszerrel.
 
@@ -3760,13 +3810,11 @@ A TÖBB MINT 36 SZEMÉLY SZÁLLÍTÁSÁRA ALKALMASNAK NYILVÁNÍTOTT B., C. ÉS 
 
 .2 Szerkezeti védelem
 
-.1 A több mint 36 személy szállítására alkalmasnak nyilvánított új hajókon a különleges kategóriájú tereket határoló válaszfalak és fedélzetek szigetelésének az „A-60” kategóriájú normának kell megfelelnie. Azonban ott, ahol a térhatároló egyik oldalán szabad fedélzet (a 4.2.2.5 pont meghatározása szerint), egészségügyi vagy hasonló helyiség (a 4.2.2 9 pont meghatározása szerint) vagy tartály, üres tér vagy segédgéptér található, amely kevésbé vagy egyáltalán nem tűzveszélyes
-
-(a 4.2.2.10 pont meghatározása szerint), a norma „A-0”-ra csökkenthető.
+.1 A több mint 36 személy szállítására alkalmasnak nyilvánított új hajókon a különleges kategóriájú tereket határoló válaszfalak és fedélzetek szigetelésének az „A-60” kategóriájú normának kell megfelelnie. Azonban ott, ahol a térhatároló egyik oldalán nyitott fedélzet (a 4.2.2.5 pont meghatározása szerint), egészségügyi vagy hasonló helyiség (a 4.2.2.9 pont meghatározása szerint) vagy tartály, üres tér vagy segédgéptér található, amely kevésbé vagy egyáltalán nem tűzveszélyes (a 4.2.2.10 pont meghatározása szerint), a norma „A-0„-ra csökkenthető.
 
 Amennyiben a tüzelőanyag-tartályok különleges kategóriájú terek alatt találhatók, e terek közötti fedélzet sértetlensége az „A-0” normára csökkenthető.
 
-.2 A 36-nál kevesebb személy szállítására alkalmasnak nyílvánított B., C. és D. kategóriájú új hajókon és a több mint 36 személy szállítására alkalmasnak nyilvánított B. kategóriájú meglévő hajókon a különleges kategóriájú tereket határoló válaszfalakat az 5. pont 5.1 táblázata (11) kategóriájában előírt szigeteléssel, a vízszintes térhatárolókat pedig az 5. pont 5.2 táblázata (11) kategóriájában előírt szigeteléssel kell ellátni.
+.2 A 36-nál kevesebb személy szállítására alkalmasnak nyilvánított B., C. és D. kategóriájú új hajókon és a több mint 36 személy szállítására alkalmasnak nyilvánított B. kategóriájú meglévő hajókon a különleges kategóriájú tereket határoló válaszfalakat az 5. pont 5.1 táblázata (11) kategóriájában előírt szigeteléssel, a vízszintes térhatárolókat pedig az 5. pont 5.2 táblázata (11) kategóriájában előírt szigeteléssel kell ellátni.
 
 .3 A parancsnoki hídon elhelyezett jelzőberendezéseknek jelezniük kell, hogy a különleges kategóriájú terekbe vezető vagy az azokból kivezető tűzbiztos ajtók zárva vannak-e.
 
@@ -3786,7 +3834,7 @@ A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriáj�
 
 .4 elegendő számú víztelenítő szelep.
 
-A hajózási hatóság engedélyezheti az olyan más beépített tűzoltórendszer használatát, amelyről a különleges kategóriájú térben égő, benzintüzet szimuláló körülmények között elvégzett teljes körű vizsgálattal kimutatták, hogy ugyanolyan hatékony az e terekben esetlegesen előforduló tüzek megfékezésében. E beépített, állandó nyomású vízpermetező rendszernek vagy egyéb egyenértékű tűzoltórendszernek meg kell felelnie a Nemzetközi Tengerészeti Szervezet A.123(V) határozat rendelkezéseinek, és figyelembe kell venni a Nemzetközi Tengerészeti Szervezet MSC 914. körlevélében található „Irányelvek az alternatív tűzoltórendszerek jóváhagyásához a különleges kategóriájú helyiségekben való használatra” rendelkezéseit.
+A hajózási hatóság engedélyezheti az olyan más beépített tűzoltórendszer használatát, amelyről a különleges kategóriájú térben égő, benzintüzet szimuláló körülmények között elvégzett teljes körű vizsgálattal kimutatták, hogy ugyanolyan hatékony az e terekben esetlegesen előforduló tüzek megfékezésében. E beépített, állandó nyomású vízpermetező rendszernek vagy egyéb egyenértékű tűzoltórendszernek meg kell felelnie a Nemzetközi Tengerészeti Szervezet A.123(V) határozat rendelkezéseinek, és figyelembe kell venni a Nemzetközi Tengerészeti Szervezet MSC 1272. körlevélében található „Irányelvek az alternatív tűzoltórendszerek jóváhagyásához a különleges kategóriájú helyiségekben való használatra” rendelkezéseit.
 
 .4 Őrjáratok és a tűz észlelése
 
@@ -3810,7 +3858,7 @@ B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ HAJÓK ÉS
 
 .3 legalább egy hordozható tűzoltó készülék, amely e terek bejáratánál található.
 
-2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
 5b. Az összes olyan raktérben vagy részlegben, ahol járműveket szállítanak, hordozható tűzoltó készülékeket kell elhelyezni a tér mindkét oldalán egymástól legfeljebb 20 méter távolságra, minden fedélzeti szinten. Az ilyen terek bejáratánál legalább egy hordozható tűzoltó készüléket kell elhelyezni.
 
@@ -3894,13 +3942,13 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
 .3 A személyzet összehívása érdekében a parancsnoki hídról vagy a tűzvédelmi vezérlőállásról működtetett különleges riasztót kell felszerelni. Ez a riasztó részét képezheti a hajó általános riasztóberendezésének, de az utasterek riasztójától függetlenül is működtethetőnek kell lennie.
 
-.4 A hangosbeszélő rendszernek vagy egyéb megfelelő hírközlő berendezésnek kell rendelkezésre állnia a lakóterekben, kiszolgáló helyiségekben, vezérlőállásokban és a szabad fedélzeteken.
+.4 A hangosbeszélő rendszernek vagy egyéb megfelelő hírközlő berendezésnek kell rendelkezésre állnia a lakóterekben, kiszolgáló helyiségekben, vezérlőállásokban és a nyitott fedélzeteken.
 
-A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon e hangosbeszélő rendszernek meg kell felelnie a III/6.5 pont követelményeinek.
+A 2003. január 1-jén vagy azt követően épített B., C. és D. kategóriájú új hajókon e hangosbeszélő rendszernek meg kell felelnie a SOLAS 1974/1978 III/6.5 pont követelményeinek.
 
 .5 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS B. KATEGÓRIÁJÚ MEGLÉVŐ HAJÓK:
 
-A több mint 36 személy szállítására alkalmasnak nyilvánított hajókon tűzvédelmi őrjáratot kell tartani, amellyel azonnal észlelhető a kialakuló tűz. A tűzvédelmi őrjárat minden tagjának kiképzést kell kapnia, hogy jól ismerje a hajót, valamint azoknak a berendezéseknek a helyét és működését, amelyeket használnia kell. A tűzvédelmi őrjárat minden tagját hordozható adó-vevő rádiótelefonnal kell felszerelni.
+A több mint 36 személy szállítására alkalmasnak nyilvánított hajókon tűzvédelmi őrjáratot kell tartani, amellyel azonnal észlelhető a kialakuló tűz. A tűzvédelmi őrjárat minden tagjának kiképzést kell kapnia, hogy jól ismerje a hajót, valamint azoknak a berendezéseknek a helyét és működését, amelyeket használnia kell. A tűzvédelmi őrjárat minden tagját hordozható adóvevő rádiótelefonnal kell felszerelni.
 
 B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 
@@ -3911,8 +3959,6 @@ B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
 16. A több mint 36 személy szállítására alkalmasnak nyilvánított B. kategóriájú meglévő hajók felújítása (R 41-1)
 
 Az e fejezetben meghatározott követelmények kiegészítéseként a több mint 36 személy szállítására alkalmasnak nyilvánított B. kategóriájú meglévő hajókra a következő követelményeket is alkalmazni kell:
-
-1 legkésőbb 2000. október 1-jéig:
 
 .1 Minden lakóteret, kiszolgáló helyiséget, zárt lépcsőházat és folyosót fel kell felszerelni egy jóváhagyott típusú, a II-2/A/9 pont követelményeinek megfelelő füstérzékelő és riasztóberendezéssel. A külön fürdőszobákban és azokban a terekben, ahol a tűz veszélye korlátozott, vagy egyáltalán nincs tűzveszély (például üres vagy ahhoz hasonló terekben), e rendszereket nem kell felszerelni. A konyhákban nem füst-, hanem hőérzékelőket kell alkalmazni.
 
@@ -3940,19 +3986,19 @@ Az e fejezetben meghatározott követelmények kiegészítéseként a több mint
 
 .2 az 5. pontnak megfelelően „A” kategóriájú térelválasztóval kell elkülöníteni a zárt lépcsőházaktól. E terekből közvetlen bejárás létesíthető a lépcsőházakba, amennyiben azok az 5. pontnak megfelelően „A” kategóriájú ajtókkal vannak felszerelve, a tereket pedig vízpermettel oltó berendezéssel látják el. Kabinok azonban nem nyílhatnak közvetlenül a zárt lépcsőházakba.
 
-.3.5 A közös terektől, folyosóktól, nyilvános illemhelyektől, különleges kategóriájú terektől különböző terek, a többi, a 6.1.5 alpontban előírt lépcső, a szabad fedélzeti terek és a fenti .3.4.2 alpontban említett terek nem nyílhatnak közvetlenül a zárt lépcsőházakba.
+.3.5 A közös terektől, folyosóktól, nyilvános illemhelyektől, különleges kategóriájú terektől különböző terek, a többi, a 6.1.5 alpontban előírt lépcső, a nyitott fedélzeti terek és a fenti .3.4.2 alpontban említett terek nem nyílhatnak közvetlenül a zárt lépcsőházakba.
 
 .3.6 A II-2/B/4 pontban leírt (10) kategóriájú meglévő gépterek és a közvetlenül a zárt lépcsőházakba nyíló információs pult mögötti irodák megtarthatók, amennyiben füstérzékelőkkel szerelik fel azokat, az információs pult mögötti irodák pedig csak korlátozottan tűzveszélyes bútorokkal vannak berendezve.
 
-.3.7 A II-1/D/3 és a III/5.3 pontban előírt vészvilágítás mellett a lépcsőket és kijáratokat magában foglaló menekülési útvonalakat legfeljebb 0,3 m-rel a fedélzet felett elhelyezett világítással vagy fotolumineszkáló jelző csíkkal kell megjelölni a menekülési útvonal teljes hosszában, ideértve a sarkokat és kereszteződéseket is. A jelzésnek lehetővé kell tennie az utasok számára, hogy könnyen azonosítsák a menekülési útvonalakat és kijáratokat. Amennyiben villamos jelzéseket alkalmaznak, azt a vészüzemi áramforrásról kell táplálni, és úgy kell kialakítani, hogy az egyik világítótest hibája vagy a világító csík megszakadása ne tegye működésképtelenné a jelzőrendszert. Emellett az összes menekülési útvonaljelzésnek, valamint a tűzoltó berendezés helyét mutató jelölésnek fotolumineszkáló anyagból kell készülnie. A hajózási hatóság biztosítja, hogy a világítást vagy a fotolumineszkáló berendezést a Nemzetközi Tengerészeti Szervezet A.752(18) határozatában vagy az ISO 15371-2001 szabványban foglalt útmutatásoknak megfelelően értékelték, próbának vetették alá, és alkalmazzák.
+.3.7 A II-1/D/3 és a III/5.3 pontban előírt vészvilágítás mellett a lépcsőket és kijáratokat magában foglaló menekülési útvonalakat legfeljebb 0,3 m-rel a fedélzet felett elhelyezett világítással vagy fotolumineszkáló jelző csíkkal kell megjelölni a menekülési útvonal teljes hosszában, ideértve a sarkokat és kereszteződéseket is. A jelzésnek lehetővé kell tennie az utasok számára, hogy könnyen azonosítsák a menekülési útvonalakat és kijáratokat. Amennyiben villamos jelzéseket alkalmaznak, azt a vészüzemi áramforrásról kell táplálni, és úgy kell kialakítani, hogy az egyik világítótest hibája vagy a világító csík megszakadása ne tegye működésképtelenné a jelzőrendszert. Emellett az összes menekülési útvonaljelzésnek, valamint a tűzoltó berendezés helyét mutató jelölésnek fotolumineszkáló anyagból kell készülnie. A hajózási hatóság biztosítja, hogy a világítást vagy a fotolumineszkáló berendezést a Nemzetközi Tengerészeti Szervezet A.752 (18) határozatának, a konyhai olajsütő berendezések védelmét szolgáló tűzoltórendszerekről szóló ISO 15371:2000 szabványnak vagy azzal egyenértékű szabálynak megfelelően értékelték, próbának vetették alá, és alkalmazzák.
 
-.3.8 Általános riasztórendszert kell felszerelni vészhelyzet esetére. A riasztásnak hallhatónak kell lennie a lakótérben és azon terekben, ahol a személyzet rendszeresen tartózkodik, valamint a szabad fedélzeteken. A rendszer hangnyomásszintjének meg kell felelnie a Nemzetközi Tengerészeti Szervezet A.686 (17) határozatával elfogadott Riasztók és jelzőberendezések szabályzata normáinak.
+.3.8 Általános riasztórendszert kell felszerelni vészhelyzet esetére. A riasztásnak hallhatónak kell lennie a lakótérben és azon terekben, ahol a személyzet rendszeresen tartózkodik, valamint a nyitott fedélzeteken. A rendszer hangnyomásszintjének meg kell felelnie a Nemzetközi Tengerészeti Szervezet A.686 (17) határozatával elfogadott Riasztók és jelzőberendezések szabályzata normáinak.
 
-.3.9 A hangosbeszélő rendszernek vagy a többi hírközlő berendezésnek rendelkezésre kell állnia a lakóterekben, kiszolgáló és közös helyiségekben, vezérlőállásokban és a szabad fedélzeteken.
+.3.9 A hangosbeszélő rendszernek vagy a többi hírközlő berendezésnek rendelkezésre kell állnia a lakóterekben, kiszolgáló és közös helyiségekben, vezérlőállásokban és a nyitott fedélzeteken.
 
 .3.10 A zárt lépcsőházakban csak ülőbútorokat szabad elhelyezni. Az üléseket rögzíteni kell, számuk a fedélzetek lépcsőházaiban legfeljebb hat lehet, korlátozottan tűzveszélyes anyagból kell készíteni azokat, ezenkívül nem akadályozhatják az utasok menekülési útvonalát. A hajózási hatóság további üléseket engedélyezhet a zárt lépcsőházon belül lévő fő fogadó térben, amennyiben azok rögzített, beépítettek, nem éghetők és nem akadályozzák az utasok menekülési útvonalát. A kabinok körzetében, a menekülési útvonalként használható utas és személyzeti folyosókon nem helyezhetnek el bútorokat. Azonban nem gyúlékony anyagból készült tároló helyiségek is engedélyezhetők, amelyekben az e pontban előírt biztonsági felszereléseket tárolják.
 
-2 legkésőbb 2003. október 1-jéig:
+.2 A fentieken kívül:
 
 .1 Az összes, a lakóterekben és kiszolgáló helyiségekben található lépcsőnek acélvázas szerkezetűnek kell lennie, kivéve azokat az eseteket, ha a hajózási hatóság egyéb egyenértékű anyag használatát hagyja jóvá; az „A” kategóriájú térelválasztókkal körülzárt térben kell elhelyezkedniük, ahol minden nyílás hatékony zárószerkezettel van felszerelve; a következő kivételek megengedettek:
 
@@ -3972,7 +4018,7 @@ Az e fejezetben meghatározott követelmények kiegészítéseként a több mint
 
 .3 Legkésőbb 2005. október 1-jéig vagy 15 évvel a hajó építése után, attól függően, melyik van később:
 
-.1 A lakóterekben, kiszolgáló helyiségekben, a zárt lépcsőházakban és folyosókon a II-2/A/8 pont követelményeinek vagy a Nemzetközi Tengerészeti Szervezet A.800(19) határozatában megállapított útmutatásoknak megfelelő automatikus vízpermettel oltó berendezést, tűzérzékelő és tűzjelző rendszert kell felszerelni.
+.1 A lakóterekben, kiszolgáló helyiségekben, a zárt lépcsőházakban és folyosókon a II-2/A/8 pont követelményeinek vagy a Nemzetközi Tengerészeti Szervezet A.800 (19) határozatában megállapított útmutatásoknak megfelelő automatikus vízpermettel oltó berendezést, tűzérzékelő és tűzjelző rendszert kell felszerelni.
 
 17. Veszélyes árut szállító hajókra vonatkozó különleges követelmények (R 41)
 
@@ -3980,17 +4026,13 @@ B., C. ÉS D. KATEGÓRIÁJÚ, 2003. JANUÁR 1-JE ELŐTT ÉPÍTETT ÚJ ÉS B. KAT
 
 A SOLAS 1974/1978 II-2/54 szabályában foglalt követelményeket adott esetben a veszélyes árukat szállító személyhajókra is alkalmazni kell.
 
-2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C.
-
-ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
 A SOLAS 1974/1978 G. része II-2 fejezete 19. szabályának 2003. január 1-jén hatályos vonatkozó követelményeit adott esetben a veszélyes árukat szállító személyhajókra is alkalmazni kell.
 
 18. Helikopterek leszállóhelyeire vonatkozó különleges követelmények
 
-2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C.
-
-ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ HAJÓK:
 
 A helikopterfedélzetekkel rendelkező hajóknak meg kell felelniük a SOLAS 1974/1978 G. része II-2 fejezete 19. szabályának 2003. január 1-jén hatályos követelményeinek.
 
@@ -3998,34 +4040,172 @@ III. FEJEZET
 
 MENTŐESZKÖZÖK
 
-5-1 Ro-Ro személyhajókra vonatkozó követelmények (R 26)
+1. Fogalommeghatározások (R 3)
 
-2003. JANUÁR 1. ELŐTT ÉPÍTETT, B., C. ÉS D. TŰZVESZÉLYESSÉGI KATEGÓRIÁBA SOROLT RO-RO HAJÓK:
+B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS MEGLÉVŐ HAJÓK:
 
-.1 A 2003. január 1. előtt épített Ro-Ro személyhajónak legkésőbb a 2006. január 1-jét követő első időszakos szemle napjától meg meg kell felelnie a .6.2, .6.3, .6.4, .7, .8 és .9 alpontban foglalt követelményeknek.
+.1. Eltérő rendelkezés hiányában e fejezet alkalmazásában a SOLAS 1974/1978 III/3. Szabályának módosított rendelkezéseit kell alkalmazni.
 
-A 2006. január 1-jét megelőző időszakban a .2, .3, .4 és .5 alpontban foglaltakat kell alkalmazni a 2003. január 1-je előtt épített Ro-Ro hajóra.
+.2. "LSA szabályzat": az IMO módosított MSC.48(66) határozatában foglalt, az életmentő felszerelések ("LSA") nemzetközi szabályzata.
 
-Amennyiben a 2006. január 1-jéig terjedő átmeneti időszakban a 2003. Január 1-je előtt épített Ro-Ro hajón az életmentő felszerelések vagy berendezések cseréjére kerül sor, vagy a hajó úgy esik át jelentős javításon, változtatáson vagy módosításon, hogy a meglévő életmentő felszerelések vagy berendezések cseréjére vagy kiegészítésére kerül sor, akkor a hajó életmentő felszereléseinek és berendezéseinek a .6, .7, .8 és .9 alpontban foglalt követelményeknek kell megfelelniük.
+2. Hírközlés, túlélési járművek és készenléti mentőcsónakok, személyi életmentő felszerelések (R 6 + 7 + 18 + 22 + 21)
 
-.2 Mentőtutajok
+B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS MEGLÉVŐ HAJÓK:
 
-.1 A Ro-Ro személyhajók mentőtutajait a SOLAS 1974/1978 1998. Március 17-től hatályos III/48.5 szabályának megfelelő tengeri evakuálási rendszerrel, vagy a SOLAS 1974/1978 1998. március 17-től hatályos III/48.6 szabályának megfelelő vízre bocsátó berendezéssel kell felszerelni, a hajó mindkét oldalán egyenletesen elosztva.
+1. Minden hajónak az osztályának megfelelően rendelkeznie kell az alábbi táblázatban és az ahhoz kapcsolódó megjegyzésekben meghatározott rádiós életmentő felszerelésekkel, radar-válaszjeladóval, egyéni mentőeszközökkel, túlélési járművekkel és készenléti mentőcsónakokkal, vészjelző fáklyákkal, kötélkilövő készülékekkel.
 
-Biztosítani kell a beszálló állás és a fedélzet közötti kommunikációt.
+2. Amennyiben a következő bekezdések erről másként nem rendelkeznek, a fenti eszközöknek, ideértve adott esetben az indítóberendezéseiket is, meg kell felelniük a módosított LSA szabályzatban, valamint a SOLAS 1974/1978 mellékletének III. fejezetében foglalt szabályoknak. Ellenkező értelmű rendelkezés hiányában a meglévő berendezéseknek legalább a beszerelésük idején hatályos előírásoknak meg kell felelniük.
 
-.2 Ro-Ro személyhajó mentőtutaját a SOLAS 1974/1978 1998. március 17-től hatályos III/23 szabálya szerint, a szabad felúszást elősegítő tároló szerelvénnyel fel kell szerelni.
+3. Ezenkívül minden hajón rendelkezésre kell állnia mentőcsónakonként legalább három vízbemerülési ruházatnak, valamint további kihűlés elleni védőeszközöknek azoknak a mentőcsónakokban elhelyezendő személyeknek a részére, akiknek a részére nem biztosítottak vízbemerülési ruházatot. Nem szükséges ilyen vízbemerülési ruházat, illetve kihűlés elleni védőeszközök biztosítása:
 
-.3 Ro-Ro személyhajó mentőtutaját a SOLAS 1974/1978 1998. március 17-től hatályos III/39.4.1 vagy III/40.4.1 szabályában meghatározott követelményeknek megfelelő beszállórámpával kell felszerelni.
+1. a teljesen zártterű mentőcsónakokban elhelyezendő személyek részére; vagy
 
-.4 Ro-Ro személyhajóra felszerelt valamennyi mentőtutajnak önfelegyenesedő, illetve fedett, a felfordított helyzetében is biztonságosan tengerálló, azaz ún. reverzibilis típusúnak (a továbbiakban: reverzibilis mentőtutaj) kell lennie. Nyitott reverzibilis mentőtutaj alkalmazása jóváhagyható, ha a vízi út védettsége, a hajó működési területének tengeri és éghajlati viszonyai ezt lehetővé teszik, továbbá a nyitott reverzibilis mentőtutaj megfelel a gyorsjáratú vízijárművekre vonatkozó szabályzat 10. mellékletében meghatározott követelményeket.
+2. amennyiben a hajó állandóan a meleg égövben közlekedik, ahol a hatóságok szerint ezek szükségtelenek, tekintettel az IMO MSC 1046. körlevélben megfogalmazott ajánlásokra.
 
-Alternatív megoldásként a mentőtutajok előírt állományán túl a hajó felszerelhető önfelegyenesedő vagy fedett reverzibilis mentőtutajokkal, olyan összesített befogadóképességgel, amely a mentőcsónakokban már el nem helyezhető személyek legalább 50%-ának helyet biztosít. E kiegészítő mentőtutaj kapacitást a hajón tartózkodó személyek száma és a mentőcsónakokban elhelyezhető személyek száma közötti különbség alapján határozzák meg. Ezen mentőtutajok jóváhagyására a hajózási hatóság illetékes, a Nemzetközi Tengerészeti Szervezet 809. MSC körlevelében közreadott ajánlások figyelembe vételével.
+4. Amennyiben 1986. július 1-je előtt épített hajókon találhatóak, a 3.1. bekezdés rendelkezései azokra a részlegesen vagy teljesen zártterű mentőcsónakokra is vonatkoznak, amelyek nem felelnek meg az LSA szabályzat 4.5., illetve 4.6. szakaszában foglalt követelményeknek.
 
-[^23]: A 14. § az 1/2010. (I. 8.) KHEM rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^24]: Az 1. számú melléklet az 55/2004. (IV. 22.) GKM rendelet 4. §-ával megállapított szöveg.
-[^25]: 2/2004. (I.5.) GKM rendelet az úszólétesítmények megfelelősségét vizsgáló ellenőrző és tanúsító szervezetek elismeréséről, kijeloléséről és felhatalmazásáról
-[^26]: A térfelosztási merülésvonal jelöléseiben a „C” betű után álló arab számokat római számokkal vagy betűkkel is lehet helyettesíteni, amennyiben az így megjelölt merülésvonalat a hajózási hatóság eképpen kívánja megkülönböztetni a térfelosztási merülésvonal nemzetközi jelöléseitől.
-[^27]: 2003. évi LXV. törvény a merülésvonalakról szóló 1966. évi nemzetközi egyezmény és az egyezményre vonatkozó 1988. évi Jegyzőkönyv egységes szerkezetbe foglalt szövegének kihirdetéséről
-[^28]: Lásd a Nemzetközi Tengerészeti Szervezet Közgyűlés A.468 (XII) határozatával elfogadott Hajók fedélzeti zajszintjének szabályzatát.
-[^29]: Lásd a Nemzetközi Elektrotechnikai Bizottság ajánlásait, különös tekintettel a „Villamos berendezések hajókon” („Electrical Installations in Ships”) című 92. kiadványt .
+5. Minden olyan személy részére, akik személyzeti készenléti mentőcsónakokhoz vagy a tengeri evakuálási csapathoz kerülnek beosztásra, megfelelő méretű, az LSA szabályzat 2.3. szakaszának megfelelő vízbemerülési ruházatot, illetve az LSA szabályzat 2.4. szakaszának megfelelő, az időjárási viszontagságok ellen védelmet nyújtó ruházatot kell rendelkezésre bocsátani. Nem kell kihűlés elleni védőeszközöket biztosítani, amennyiben a hajó állandóan a meleg égövben közlekedik, ahol a hatóságok szerint ezek szükségtelenek, tekintettel az IMO MSC 1046. körlevélben megfogalmazott ajánlásokra.
+
+6. A sem mentőcsónakkal, sem készenléti mentőcsónakkal nem rendelkező hajókon legalább egy vízbemerülési ruházatot kell biztosítani mentési célokra. Amennyiben a hajó állandóan meleg égövben közlekedik, ahol a hatóságok szerint szükségtelen a kihűlés elleni védőeszközök használata, a hajón ilyen védőruhát nem kell tartani, tekintettel az IMO MSC 1046. körlevélben megfogalmazott ajánlásokra.
+
+| Hajókategória | B | C | D |
+
+| Személyek száma (N) Utasok száma (P) Túlélési jármű befogadóképessége (1) (2) (3) (4): — meglévő hajók — új hajók Készenléti mentőcsónakok (4) (5) Mentőgyűrűk (6) Mentőmellények (8) (9) (12) (13) | > 250 1,10 N 1,25 N 1 8 | ≤ 250 1,10 N 1,25 N 1 8 | > 250 1,10 N 1,25 N 1 8 | ≤ 250 1,10 N 1,25 N 1 4 | > 250 1,10 N 1,25 N 1 8 | ≤ 250 1,10 N 1,25 N 1 4 |
+
+(1) A túlélési jármű lehet mentőcsónak, mentőtutaj, vagy ezek ötvözete, a III/2.2. szabálynak megfelelően.
+
+Amennyiben azt az utak védett természete és/vagy a működési terület kedvező klimatikus feltételei indokolják, tekintettel az IMO MSC 1046. körlevélben megfogalmazott ajánlásokra, és azt a fogadó tagállam nem utasítja vissza, a lobogó szerinti állam hatóságai elfogadhatják:
+
+a) az LSA szabályzat 4.2. vagy 4.3. szakaszának meg nem felelő nyitott, megfordítható, felfújható mentőtutajokat, amennyiben a mentőtutajok teljes mértékben megfelelnek a nagy sebességű utasszállító vízi járművekre vonatkozó 1994. évi szabályzat 10. melléklete, a 2012. január 1-jén vagy azt követően épített hajók esetében pedig a nagy sebességű utasszállító vízi járművekre vonatkozó 2000. évi szabályzat 11. melléklete követelményeinek;
+
+b) azokat a mentőtutajokat, amelyek nem felelnek meg az LSA szabályzat 4.2.2.2.1. és 4.2.2.2.2. bekezdésének a mentőtutajok fenekének hideg elleni szigetelésére vonatkozó követelményeinek.
+
+B., C. és D. osztályú meglévő hajók túlélési járművei megfelelnek a 1998. március 17-én módosított SOLAS 1974/1978 vonatkozó szabályainak. A ro-ro személyszállító hajóknak a III/5-1. szabály vonatkozó követelményeinek kell megfelelniük.
+
+A táblázatban előírt mentőtutaj-kapacitást egyenes arányban ki lehet pótolni az LSA szabályzatnak megfelelő tengeri evakuálási rendszer vagy rendszerek használatával, beleértve ezek esetleges vízre bocsátó berendezéseit is.
+
+(2) Amennyire megvalósítható, a túlélési járművek elosztása egyenletes a hajó mindkét oldalán.
+
+(3) A túlélési járművek – a kiegészítő mentőtutajokat is tartalmazó – összesített számának meg kell felelnie a fenti táblázatban említett követelményeknek, így például a hajóbizonyítvány szerint szállítható személyek számának (N) 1.10N = 110 % és 1.25 = 125 %. A hajón megfelelő számú túlélési járműnek kell lennie, hogy abban az esetben, ha egy túlélési jármű elvész vagy üzemképtelenné válik, a fennmaradó túlélési járművekben helyet foglalhasson az összes személy, akiknek szállítására a hajót hitelesítették. További mentőtutajokat is előírhatnak, amennyiben a III/7.5. szabály mentőtutajok tárolására vonatkozó követelményei nem teljesülnek.
+
+(4) A mentőcsónakok és/vagy a készenléti mentőcsónakok számának elegendőnek kell lennie ahhoz, hogy amikor a hajó jóváhagyott befogadóképességének megfelelő
+
+számú utas elhagyja a hajót, minden mentőcsónak vagy készenléti mentőcsónak legfeljebb kilenc mentőtutajt irányítson. (5) A készenléti mentőcsónakok vízre bocsátó berendezéseinek meg kell felelniük a III/10. szabály követelményeinek.
+
+Amennyiben egy készenléti mentőcsónak megfelel az LSA szabályzat 4.5. és 4.6. szakasza követelményeinek, akkor beleszámítható a fenti táblázatban meghatározott
+
+mentőjárművek befogadóképességébe.
+
+Egy mentőcsónak elfogadható készenléti mentőcsónaknak, amennyiben mind a mentőcsónak, mind annak vízrebocsátási és visszahelyezési berendezései megfelelnek a készenléti mentőcsónakokra vonatkozó követelményeknek.
+
+Amennyiben kötelező készenléti mentőcsónakot szállítaniuk, a ro-ro személyhajókon lévő készenléti mentőcsónakok közül legalább egy olyan gyors mentőjármű
+
+legyen, amely megfelel a III/5-1. szabály rendelkezéseinek.
+
+Amennyiben a lobogó szerinti állam hatóságai úgy vélik, hogy fizikailag lehetetlen egy készenléti mentőcsónak vagy egy gyors mentőjármű felszerelése a hajó fedélzetén, a hajót mentesíthetik e kötelezettség alól, amennyiben megfelel a következő követelményeknek:
+
+a) hajót úgy alakítják ki, hogy egy magatehetetlen személyt kimenthessenek a vízből;
+
+b) magatehetetlen személy mentését a parancsnoki hídról figyelemmel lehet kísérni; és
+
+c) hajó a lehető legrosszabb körülmények között is kielégítően irányítható a személy megközelítése és kimentése során.
+
+(6) Minden oldalon legalább egy mentőgyűrűt kell elhelyezni, amelyet egy úszóképes életmentő kötéllel kell felszerelni, amelynek hossza legalább kétszer akkora, mint az a legkisebb tengeri merülésnek megfelelő merülésvonal fölötti magasság, amelyen azt felszerelték, vagy legalább 30 méter, attól függően, melyik a hosszabb.
+
+Két mentőgyűrűt kell felszerelni automatikusan beinduló füstjelzővel és jelzőfénnyel; ezeknek a parancsnoki hídról gyorsan kioldhatónak kell lenniük. A többi
+
+mentőgyűrűt öngyulladó fényekkel kell felszerelni az LSA szabályzat 2.1.2. bekezdése rendelkezéseinek megfelelően.
+
+(7) A parancsnoki hídon vagy a kormányállásban az LSA szabályzat 3.1. szakasza követelményeinek megfelelő vészjelző fáklyákat kell elhelyezni.
+
+(8) Felfújható mentőmellényt kell biztosítani minden olyan személy számára, akinek a fedélzet szabad részein kell munkát végeznie. E felfújható mentőmellények beleszámíthatók az e rendeletben előírt előírt felfújható mentőmellények teljes számába.
+
+(9) Gyermekeknek való mentőmellényt kell biztosítani a fedélzeti utaslétszám legalább 10 %-ának megfelelő számban, illetve – ha szükséges – ennél nagyobb számban is
+
+annak érdekében, hogy minden gyermeknek jusson mentőmellény.
+
+(10) Csecsemőknek való mentőmellényt kell biztosítani a fedélzeti utaslétszám legalább 2,5 %-ának megfelelő számban, illetve – ha szükséges – ennél nagyobb számban is annak érdekében, hogy minden csecsemőnek jusson mentőmellény.
+
+(11) Minden hajónak megfelelő mennyiségű mentőmellényt kell biztosítania az őrszolgálatot teljesítő, illetve a nehezen megközelíthető túlélési járművekhez beosztott
+
+személyek részére. Az őrszolgálatot teljesítő személyek részére fenntartott mentőmellényeket a hídon, a géptér vezérlőtermében és a többi felügyelt őrhelyen kell elhelyezni.
+
+Legkésőbb a 2012. január 1-je után esedékes első időszakos szemléig minden személyszállító hajónak meg kell felelnie a 12. és 13. lábjegyzet rendelkezéseinek. (12) Ha a rendelkezésre álló, felnőtt méretű mentőmellények nem alkalmasak 140 kg-ig terjedő testsúlyú és 1 750 cm-ig terjedő mellkasi kerületű személyek általi
+
+használatra, megfelelő számú olyan kiegészítőket kell a fedélzeten tartani, amelyek lehetővé teszik a mentőmellények ilyen személyekhez történő rögzítését.
+
+(13) Minden személyhajón minden egyes mentőmellényt fel kell szerelni az LSA szabályzat 2.2.3. bekezdése követelményeinek megfelelő fényforrással. Minden ro-ro személyhajónak meg kell felelnie a III/5.5.2. szabály rendelkezéseinek.
+
+3. Vészriasztás, használati utasítások, oktatási kézikönyv, gyülekezési lista és utasítások vészhelyzet esetére (R 6 + 8 + 9 + 19 + 20)
+
+B., C. ÉS D. KATEGÓRIÁJÚ ÚJ ÉS MEGLÉVŐ HAJÓK:
+
+Minden hajót el kell látni:
+
+1. Általános vészjelző rendszerrel (R 6.4.2)
+
+amely megfelel az LSA szabályzat 7.2.1.1. bekezdésében megállapított követelményeknek, és alkalmas arra, hogy az utasokat és a személyzetet összehívja a gyülekezési helyeken, valamint arra, hogy elindítsa a gyülekezési listában előírt tevékenységeket.
+
+A több mint 36 utast szállító hajókon a vészriasztó rendszert ki kell egészíteni egy hangosbeszélő rendszerrel, amelyet a parancsnoki hídról lehet üzemeltetni. A rendszer kialakításának és elhelyezésének olyannak kell lennie, hogy a beolvasott üzenetek az egészséges hallású személyek számára a főgépek működése mellett jól hallhatóak legyenek minden olyan helyen, ahol feltételezhető, hogy személyek tartózkodnak.
+
+2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ESETÉBEN:
+
+Az általános vészriasztó rendszernek az összes hálókabinban, a személyzet szolgálati helységeiben és minden nyitott fedélzeten hallhatónak kell lennie, a vészriasztás minimális hangnyomásszintjének pedig meg kell felelnie az LSA szabályzat 7.2.1.2. és 7.2.1.3. bekezdésének.
+
+2. Hangosbeszélő rendszerrel (R 6.5)
+
+2.1. A II-2/B/15.4. Szabály és az 1. bekezdés követelményei mellett a több mint 36 utast szállító személyhajókat fel kell szerelni hangosbeszélő rendszerrel.
+
+2.2. A hangosbeszélő rendszer olyan rendszer, amely lehetővé teszi az üzenetek közvetítését minden olyan térbe, ahol általában a személyzet vagy az utasok tartózkodnak, valamint a gyülekezési helyekre is. A hangosbeszélő rendszer alkalmas arra, hogy a parancsnoki hídról vagy a lobogó szerinti állam közigazgatása által szükségesnek tartott egyéb helyekről közvetítse az üzeneteket. Úgy kell elhelyezni, hogy figyelembe vegyék az összes akusztikai körülményt, és ne legyen szükség a megszólítottak közreműködésére.
+
+2.3. A hangosbeszélő rendszert az illetéktelen használat ellen védeni kell és minden, a 2.2. bekezdésben leírt helyről a környezeti zajok mellett is jól hallhatónak kell lennie, a rendszert pedig el kell látni egy, a parancsnoki hídról és a lobogó szerinti állam közigazgatása által szükségesnek ítélt helyről működtethető átváltó funkcióval, hogy minden vészjelzés közvetíthető legyen, amennyiben az érintett terekben a hangosbeszélőt kikapcsolták, lehalkították, vagy a hangosbeszélő rendszert egyéb célokra használják.
+
+2003. JANUÁR 1-JÉN VAGY AZT KÖVETŐEN ÉPÍTETT B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK ESETÉBEN:
+
+A vészhelyzeti közlemények kihirdetése minimális hangnyomása értékének meg kell felelnie az LSA szabályzat 7.2.2.2. bekezdésének.
+
+2.4. B., C. ÉS D. KATEGÓRIÁJÚ ÚJ HAJÓK:
+
+1. A hangosbeszélő rendszernek legalább két, egymástól teljes hosszukban elkülönített vezetékkel kell rendelkeznie, valamint két különálló és független erősítővel; és
+
+2. a hangosbeszélő rendszert és annak teljesítményi normáit a lobogó szerinti állam közigazgatása hagyja jóvá, figyelembe véve az IMO MSC 808. körlevelében megfogalmazott ajánlásokat.
+
+2.5. A hangosbeszélő rendszert a vészüzemi áramforrás látja el.
+
+2.6. A meglévő hajóknak nem kell megváltoztatniuk ezt a rendszerüket, amennyiben már fel vannak szerelve a lobogó szerinti állam közigazgatása által jóváhagyott olyan hangosbeszélő rendszerrel, amely teljes mértékben megfelel a 2.2., 2.3. és 2.5. bekezdésben előírt követelményeknek.
+
+3. Gyülekezési lista és vészhelyzet esetére vonatkozó utasítások (R 8)
+
+A SOLAS 1974/1978 III/8. szabályának megfelelően a fedélzeten tartózkodó személyeket a vészhelyzetekkel kapcsolatos egyértelmű utasításokkal kell ellátni.
+
+A SOLAS 1974/1978 III/37. Szabályának megfelelő gyülekezési listákat és a vészhelyzetre vonatkozó utasításokat a hajó egész területén feltűnő helyen kell elhelyezni, ideértve a parancsnoki hidat, a gépteret és a személyzet lakótereit is.
+
+Az utasok tájékoztatása érdekében megfelelő nyelveken rajzokat és utasításokat kell kifüggeszteni az utasok kabinjaiban, a gyülekezési helyeken és egyéb utasterekben, amelyek magukban foglalják a következőket:
+
+i. az utasok gyülekezési helye;
+
+ii. azok a fontos teendők, amelyeket vészhelyzet esetében meg kell tenniük;
+
+iii. a mentőmellény használatának módja.
+
+3a. Rádió-hírközlési személyzet
+
+B., C., ÉS D. KATEGÓRIÁJÚ ÚJ ÉS MEGLÉVŐ HAJÓK:
+
+1. A SOLAS 1974/1978 IV/16. szabályával összhangban, minden hajónak rendelkeznie kell olyan személyzettel, akik a hatóságok előírásai szerint megfelelő vészhelyzeti és biztonsági rádió-hírközlési képesítéssel rendelkeznek. A rádiószabályzatban meghatározott megfelelő bizonyítványokkal rendelkező személyzet közül ki kell jelölni a vészhelyzetek esetén a rádiós kommunikációért felelős személyt; ezt rögzíteni kell a vészhelyzet esetére szóló utasításokban.
+
+B. ÉS C. KATEGÓRIÁJÚ ÚJ ÉS MEGLÉVŐ HAJÓK:
+
+2. A B. és C. osztályú hajókon legalább egy személyt ki kell jelölni arra, hogy az 1. bekezdésnek megfelelően kizárólag rádió-hírközlési feladatokat lásson el; ezt rögzíteni kell a vészhelyzet esetére szóló utasításokban is.
+
+4. Használati utasítások (R 9)
+
+A túlélési járműveken vagy azok közelében, valamint a vízrebocsátási vezérlőállásokban plakátokat vagy szemléltető ábrákat kell elhelyezni, amelyek:
+
+i. bemutatják a vezérlőkészülékek rendeltetését és a berendezés működtetésének módját, valamint megfelelő utasításokat, figyelmeztetéseket tartalmaznak;
+
+ii. a vészvilágítás mellett is jól láthatók;
+
+iii. olyan szimbólumokat alkalmaznak, amelyek megfelelnek az IMO MSC.82(70) határozat által módosított A.760 (18) határozatának.
+
+[^29]: Az 1. melléklet a 69/2011. (XII. 5.) NFM rendelet 7. §-ával megállapított szöveg.
