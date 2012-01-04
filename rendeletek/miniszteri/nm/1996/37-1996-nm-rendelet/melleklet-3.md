@@ -196,7 +196,7 @@
 
 ## V. A közfürdő terhelése
 
-## 1.[^41] A közfürdő üzemeltetőjének ki kell számolnia, írásban rögzítenie, az illetékes vízügyi igazgatósággal és a kistérségi népegészségügyi intézettel jóváhagyatni a megengedett egyidejű legnagyobb terhelést és a megengedhető napi terhelést.
+## 1.[^41] A közfürdő üzemeltetőjének ki kell számolnia, írásban rögzítenie, az illetékes vízügyi hatósággal és a kistérségi népegészségügyi intézettel jóváhagyatni a megengedett egyidejű legnagyobb terhelést és a megengedhető napi terhelést.
 
 ## 2. A közfürdő egyidejű legnagyobb terhelése egyenlő a közfürdő területén fürdés céljából egyidejűleg tartózkodó személyek legnagyobb számával. A közfürdő napi terhelése egyenlő a közfürdő területére egy nap alatt – nyitástól zárásig – fürdés céljából belépő személyek számával.
 
@@ -315,5 +315,5 @@
 [^38]: Az 1. számú melléklet IV. pontjának eredeti 9. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 11. alpontra változtatta.
 [^39]: Az 1. számú melléklet IV. pontjának eredeti 10. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 12. alpontra változtatta.
 [^40]: Az 1. számú melléklet IV. pontjának eredeti 11. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 13. alpontra változtatta.
-[^41]: Az 1. számú melléklet V. pont 1. alpontja a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^41]: Az 1. számú melléklet V. pont 1. alpontja a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése, a 3/2012. (I. 3.) NEFMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
 [^42]: Az 1. számú melléklet VI. pontjának 1. alpontja a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bi) pontja szerint módosított szöveg.
