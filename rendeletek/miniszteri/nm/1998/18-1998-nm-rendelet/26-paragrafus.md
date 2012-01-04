@@ -1,6 +1,6 @@
 ## Járványügyi vizsgálat
 
-26. § (1)[^94] A kistérségi népegészségügyi intézet a fertőző beteg bejelentése alapján vagy más módon tudomására jutott minden esetben köteles járványügyi vizsgálatot végezni, ha
+26. § (1)[^97] A kistérségi népegészségügyi intézet a fertőző beteg bejelentése alapján vagy más módon tudomására jutott minden esetben köteles járványügyi vizsgálatot végezni, ha
 
 a) sürgősséggel jelentendő betegségről vagy annak gyanújáról,
 
@@ -14,7 +14,7 @@ e) ismeretlen kórokú, de feltehetően fertőző jellegű megbetegedésekről
 
 ## szerez tudomást.
 
-(2)[^95] Az (1) bekezdésben foglalt feladatokat a megyei népegészségügyi szakigazgatási szerv magához vonhatja.
+(2)[^98] Az (1) bekezdésben foglalt feladatokat a megyei népegészségügyi szakigazgatási szerv magához vonhatja.
 
-[^94]: A 26. § (1) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 7. §-ával megállapított, nyitó szövegrésze a 10/2011. (III. 30.) NEFMI rendelet 7. § (1) bekezdés m) pont ma) alpontja szerint módosított szöveg.
-[^95]: A 26. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 7. § (1) bekezdés m) pont mb) alpontja szerint módosított szöveg.
+[^97]: A 26. § (1) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 7. §-ával megállapított, nyitó szövegrésze a 10/2011. (III. 30.) NEFMI rendelet 7. § (1) bekezdés m) pont ma) alpontja szerint módosított szöveg.
+[^98]: A 26. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 7. § (1) bekezdés m) pont mb) alpontja szerint módosított szöveg.

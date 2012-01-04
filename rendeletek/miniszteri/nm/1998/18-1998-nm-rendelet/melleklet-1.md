@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^144]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^147]
 
 Be- és kijelentésre kötelezett betegségek felsorolása
 
@@ -4202,54 +4202,4 @@ d) Fertőtlenítés: A kötszereket el kell égetni. Elsősorban a kéz és a be
 
 B) Teendők a beteg környezetében:
 
-A beteggel érintkezett személyt szülőintézetből 7 napra ki kell tiltani. Nosocomialis előfordulás esetén fertőzőforrás kutatást kell végezni.
-
-8. Megelőzés: Az általános és kórházhigiénés rendszabályok betartása.
-
-Erysipeloid Rosenbachi
-
-(Sertésorbánc)
-
-BNO10: A26
-
-1. Kórokozó: Erysipelothrix rhusiopathiae.
-
-2. Fertőzés forrása: Beteg vagy kórokozó-hordozó állat, elsősorban sertés.
-
-3. Terjedési mód: Beteg sertések vagy azok húsának kezelése, tárgyak útján.
-
-4. Lappangási idő: 1–3 nap, ritkán több.
-
-5. Fontosabb tünetek: Kékvörös duzzanat a fertőzésnek kaput nyitó sérülés környékén. A bőrelváltozás gennyedés és láz nélkül, lassan, esetleg hetek alatt alakul ki. A környéki nyirokcsomók gyakran duzzadtak.
-
-6. Fertőzőképesség tartama: Amíg a klinikai gyógyulás bekövetkezik.
-
-7. Teendők a betegség előfordulásakor:
-
-a) Jelentés: Nem bejelentendő.
-
-b) Elkülönítés: Nem szükséges, de a beteg az élelmiszerek kezelésétől tartózkodjon.
-
-c) Járványügyi laboratóriumi vizsgálat: Igénybe vehető. Előzetes megbeszélés alapján intracután befecskendezett és visszaszívott folyadékot kell beküldeni az ÁNTSZ területileg illetékes laboratóriumába vagy az OEK bakteriológiai osztályára.
-
-8. Megelőzés: Állat-egészségügyi rendszabályok, beteg állatokkal foglalkozóknál munka-egészségügyi óvórendszabályok betartása, védőruházat, gumikesztyű használata, kézmosás, kézfertőtlenítés, sérülés esetén sebellátás.
-
-Herpes simplex
-
-(Herpes labialis)
-
-BNO10: B00.1
-
-1. Kórokozó: A H. hominis (herpesvírus, HSV) két típusa: a HSV1 és a HSV2.
-
-2. Fertőzés forrása: A beteg vagy tünetmentes vírusürítő.
-
-3. Terjedési mód: A HSV1 nyállal, a HSV2 nemi érintkezés útján terjed. Az újszülött HSV2 fertőzését szülés közben az anya hüvelyváladéka közvetíti.
-
-4. Lappangási idő: 2–12 nap.
-
-5. Fontosabb tünetek: A primer HSV1 fertőzés többnyire már gyermekkorban megtörténik, enyhe stomatitis és ínygyulladás formájában, de az esetek 90%-ában tünetek nélkül (HSV1). Gyógyulás után a vírus a szervezetben latens formában megmarad, és különböző okokból ismételten is reaktiválódhat (láz, túlzott napozás, gastritis, immunszupresszív állapot stb.). Az ilyen „herpes recurrens” az ajkakon és a száj körül (herpes labilis), a szemen (keratitis, iritis, conjunctivitis) típusos hólyagos kiütések formájában jelentkezik. A HSV2 fertőzésre a pubertás kor után kerülhet sor, ilyenkor a méhnyakon, a férfi nemi szerveken apró hólyagok keletkeznek. A hólyagok pörkösödéssel gyógyulnak. Súlyos, az újszülötteknél csaknem mindig halálos szövődmény a virémiás úton keletkezett meningoencephalitis herpetica.
-
-6. Teendők a betegség előfordulásakor:
-
-[^144]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a, a 10/2011. (III. 30.) NEFMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^147]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a, a 10/2011. (III. 30.) NEFMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
