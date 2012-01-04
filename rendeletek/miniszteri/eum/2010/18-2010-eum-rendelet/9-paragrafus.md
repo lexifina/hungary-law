@@ -1,5 +1,5 @@
-## 8. §[^6] Az R. 15. § b) pontja szerinti megkeresést és 22. §-ában meghatározott feladatokat a Hivatal látja el.
+## 8. §[^8]
 
 ## 9. Záró rendelkezések
 
-[^6]: A 8. § a 67/2011. (XII. 13.) NEFMI rendelet 19. §-ával megállapított szöveg.
+[^8]: A 8. §-t a 2/2012. (I. 3.) NEFMI rendelet 23. § b) pontja hatályon kívül helyezte.

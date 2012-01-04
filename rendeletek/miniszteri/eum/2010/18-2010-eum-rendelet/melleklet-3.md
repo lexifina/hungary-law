@@ -1,4 +1,4 @@
-3. melléklet a 18/2010. (IV. 20.) EüM rendelethez[^12]
+3. melléklet a 18/2010. (IV. 20.) EüM rendelethez[^14]
 
 ## A kijelölési szakterületek meghatározása
 
@@ -220,4 +220,4 @@
 
 | 6 | MDS 7210 | Emberi eredetű anyagot alkalmazó IVD eszközök |
 
-[^12]: A 3. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 3. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (2) bekezdése szerint módosított szöveg.

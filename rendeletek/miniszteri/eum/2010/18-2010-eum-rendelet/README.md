@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-18-20-0
 | 2010-06-02 | 2010-18-20-0B.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-06-03 | 2010-18-20-0B.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-12-28 | 2010-18-20-0B.6 | 67/2011. (XII. 13.) NEFMI rendelet |
+| 2012-01-04 | 2010-18-20-0B.7 | 2/2012. (I. 3.) NEFMI rendelet |
