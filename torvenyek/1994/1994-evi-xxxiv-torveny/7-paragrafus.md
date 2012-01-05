@@ -6,15 +6,19 @@
 
 7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
 
-a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelentkezőnél, valamint a hivatásos állomány tagjánál a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
+a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelentkezőknél, valamint a hivatásos állomány tagjánál a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 
 b) elvégzi
 
-ba) a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai,
+ba) a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) vezényelt tagjai,
 
-bb) a ba) pontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró, Kormány által kijelölt szerv a Szervezett Bűnözés Elleni Koordinációs Központ kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai, valamint
+bb) a ba) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró, a Kormány által kijelölt szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai,
 
-bc) a ba) és bb) pontban meghatározott szervek irányítását ellátó minisztériumok a ba) és bb) pontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá a ba) és bb) pontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai (a továbbiakban: védett állomány) megbízhatósági vizsgálatát,
+bc) az NBF kivételével a ba) és bb) alpontban meghatározott szervek irányítását ellátó minisztériumok a ba) és bb) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a ba) és bb) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, továbbá
+
+bd) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek
+
+(a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 
 c) felderíti a b) pontban megjelölt szerveknél a jogszabályban meghatározott bűncselekményeket.
 

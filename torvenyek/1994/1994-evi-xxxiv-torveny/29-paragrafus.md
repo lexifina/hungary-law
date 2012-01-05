@@ -4,11 +4,15 @@
 
 ## Igazoltatás
 
-29. § (1) A rendőr a feladata ellátása során igazoltathatja azt, akinek a személyazonosságát a közrend, a közbiztonság védelme érdekében, bűnmegelőzési vagy bűnüldözési célból, a tartózkodása jogszerűségének megállapítása céljából, közlekedésrendészeti ellenőrzés során, továbbá az igazoltatott vagy más természetes, illetve jogi személy és egyéb szervezet jogainak védelme érdekében kell megállapítani.
+29. § (1) A rendőr a feladata ellátása során
+
+a) igazoltathatja azt, akinek a személyazonosságát a közrend, a közbiztonság védelme érdekében, bűnmegelőzési vagy bűnüldözési célból, a tartózkodása jogszerűségének megállapítása céljából, közlekedésrendészeti ellenőrzés során, továbbá az igazoltatott vagy más természetes, illetve jogi személy és egyéb szervezet jogainak védelme érdekében kell megállapítani, valamint
+
+b) az igazoltatott személyt – annak választása szerint – lakcímének, tartózkodási helyének a lakcímet igazoló hatósági igazolvánnyal vagy más alkalmas dokumentummal történő igazolására, vagy a lakcímre, tartózkodási helyre vonatkozó nyilatkozattételre kérheti fel.
 
 (2) Az igazoltatott köteles a személyazonosító adatait hitelt érdemlően igazolni. A személyazonosságot – a személyazonosító igazolványon túl – minden olyan hatósági igazolvány igazolja, amely tartalmazza a személyazonosításhoz szükséges adatokat. Az igazoltatott kizárólag ezen okmányok egyikének bemutatására kötelezhető. A rendőr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
 
-(3) Az igazoltatás során rögzíteni kell – ha további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják – az igazoltatott személyazonosító adatait, az igazolvány sorozatát és számát, valamint az igazoltatás helyét, idejét és okát.
+(3) Ha további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják, az igazoltatás során rögzíteni kell az igazoltatott személyazonosító adatait, az igazolvány sorozatát és számát, az igazoltatás helyét, idejét és okát, valamint – az (1) bekezdés b) pontjában meghatározott felkérés teljesítése esetén – az igazoltatott személy lakóhelyét, tartózkodási helyét.
 
 (4) A személyazonosság igazolásának megtagadása esetén az igazoltatott a személyazonosság megállapítása céljából feltartóztatható, a személyazonosság megállapításának sikertelensége esetén előállítható, ha a személyazonosítás megállapítása más módon nem biztosítható, a személyazonosság megállapítása céljából az igazoltatottól ujjnyomat vehető, az igazoltatottról fényképfelvétel készíthető, továbbá a külső testi jegyek észlelés és mérés alapján rögzíthetők.
 

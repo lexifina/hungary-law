@@ -1,10 +1,10 @@
 93/A. § (1) A Testület a vizsgálata során a rendőrségtől felvilágosítást kérhet. A Testület az összes olyan iratba betekinthet, illetve iratról másolatot kérhet, adatot, körülményt, tényt, eljárást megismerhet, ami a vizsgált intézkedéssel összefügghet.
 
-(2) A Testület az (1) bekezdés szerinti tevékenysége során a minősített adatnak nem minősülő adatokat a külön törvényben meghatározott titokra, valamint a személyes adatok védelmére való tekintet nélkül megismerheti.
+(2) A Testület (1) bekezdés szerinti tevékenységére az alapvető jogok biztosáról szóló 2011. évi CXI. törvény (a továbbiakban: Ajbtv.) 27. § (1) bekezdését kell alkalmazni.
 
-(3) A Testület az (1) bekezdés szerinti tevékenysége során a minősített adatnak minősülő adatokat az állampolgári jogok országgyűlési biztosáról szóló 1993. évi LIX. törvény (a továbbiakban: Obtv.) 18. §-a (5), (7) és (8) bekezdésének megfelelő alkalmazásával ismerheti meg.
+(3) A Testület az (1) bekezdés szerinti tevékenysége során a minősített adatnak minősülő adatokat az Ajbtv. 23. § (3) bekezdésének, a 27. § (2) bekezdésének, valamint a 28. § (3) bekezdésének megfelelő alkalmazásával ismerheti meg.
 
-(4) A Testület tagjának a rendőrség helyiségeibe történő belépésére az Obtv. 18. §-ának (1) bekezdését kell alkalmazni.
+(4) A Testület tagjának a rendőrség helyiségeibe történő belépésére az Ajbtv. 22. § (2) és (3) bekezdését kell alkalmazni.
 
 (5) A Testület felhatalmazása alapján a Testület tagja a Testület nevében az (1)–(4) bekezdésben meghatározott vizsgálati cselekményeket elvégezheti.
 

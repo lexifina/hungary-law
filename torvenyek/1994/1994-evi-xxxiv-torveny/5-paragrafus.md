@@ -8,7 +8,7 @@ c) törvényességi, szakszerűségi, pénzügyi és hatékonysági szempontból
 
 d) az általános rendőrségi feladatok ellátására létrehozott szerv vezetője, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, valamint a terrorizmust elhárító szerv vezetője javaslatára jóváhagyja az általuk vezetett szervek szervezeti és működési szabályzatát,
 
-e) előterjesztést készít a miniszterelnök részére az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjének, valamint a terrorizmust elhárító szerv vezetőjének kinevezésére és felmentésére, az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjére vonatkozóan az előterjesztéshez csatolja az Országgyűlés feladatkörrel rendelkező bizottságának állásfoglalását,
+e) előterjesztést készít a miniszterelnök részére az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjének, valamint a terrorizmust elhárító szerv vezetőjének kinevezésére és felmentésére, az előterjesztéshez csatolja az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjére, valamint a terrorizmust elhárító szerv vezetőjére vonatkozóan az Országgyűlés feladatkörrel rendelkező bizottságának állásfoglalását
 
 f) gyakorolja az általános rendőrségi feladatok ellátására létrehozott szerv, valamint a terrorizmust elhárító szerv vezetője felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat,
 

@@ -10,7 +10,7 @@ b) az ügyészség,
 
 c) a nemzetbiztonsági szolgálatok,
 
-d) a vám- és pénzügyőrség bűnüldöző szerve,
+d) a Nemzeti Adó- és Vámhivatal nyomozó hatósága,
 
 e) a honvédelmi igazgatás szervei,
 

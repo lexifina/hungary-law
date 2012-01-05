@@ -2,6 +2,22 @@
 
 (2) A megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja a következők szerint végezheti:
 
-a) polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértést [a szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) 140. §], valótlan bejelentés szabálysértést (Sztv. 153. §), vámszabálysértést (Sztv. 158. §), vámszabálysértés elkövetőjének segítése szabálysértést (Sztv. 160. §), vámorgazdaság szabálysértést (Sztv. 161. §), tűzvédelmi szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti jelzéssel kapcsolatos szabálytalanság szabálysértést, érvényes gépjármű-felelősségbiztosítási szerződés nélküli vezetés szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, valamint olyan közlekedési szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
+a) polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértést [a szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) 140. §], valótlan bejelentés szabálysértést [Sztv. 153. §], vámszabálysértést [Sztv. 158. §], vámszabálysértés elkövetőjének segítése szabálysértést [Sztv. 160. §], vámorgazdaság szabálysértést [Sztv. 161. §], tűzvédelmi szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti jelzéssel kapcsolatos szabálytalanság szabálysértést, érvényes gépjármű-felelősségbiztosítási szerződés nélküli vezetés szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, hajózási szabályok megszegése szabálysértést, valamint olyan közlekedési szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
 
-b) nem követhet el a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés (Btk. 176. §) kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés (Btk. 225. §), a hamis vád (Btk. 233. §), a hatóság félrevezetése (Btk. 237. §) és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – a III. címben foglaltak kivételével –, a XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 329/A. §) kivételével –, XIX. fejezetében és XX. fejezetében felsorolt bűncselekményeket.
+b) nem követhet el a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés [Btk. 176. §] kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés [Btk. 225. §], a hamis vád [Btk. 233. §], a hatóság félrevezetése [Btk. 237. §], valamint a III. címben és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – az áru hamis megjelölése [Btk. 296. §], valamint a III. címben foglaltak kivételével –, XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 329/A. §] kivételével –, XIX. fejezetében és XX. fejezetében felsorolt bűncselekményeket,
+
+c) elkövetheti a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 114. §-ában jövedéki bírság kiszabásával szankcionált cselekményt.
+
+(3) A belső bűnmegelőzési és bűnfelderítési szerv megbízhatósági vizsgálatot végző tagja technikai eszközök segítségével titokban rögzítheti
+
+a) az ügyész által jóváhagyott végrehajtási tervben szereplő mesterségesen létrehozott helyszínen, valamint a védett szervek hivatali helyiségeiben, gépjárműveiben történteket, továbbá
+
+b) a 7/A. § (1) bekezdésében meghatározott célból létrehozott mesterséges élethelyzetben résztvevő, valamint a megbízhatósági vizsgálat alá vont személy vagy személyek tevékenységét, magatartását, előadását.
+
+(4) A rögzítést haladéktalanul meg kell szüntetni, ha
+
+a) a célját elérte, vagy
+
+b) az ügyész által jóváhagyott végrehajtási tervben a mesterséges élethelyzet végrehajtására meghatározott határidő lejárt.
+
+(5) A megbízhatósági vizsgálat célja szempontjából érdektelen adatot, valamint az ügyben nem érintett személy adatait a rögzítést követő 3 napon belül törölni kell.

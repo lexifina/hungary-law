@@ -28,6 +28,16 @@ f) a nemzetközi kötelezettségvállalás alapján mindazon személyek, cselekm
 
 g) a szervezett bűnözésre utaló cselekményekben érintett, illetőleg a bűnözői csoportban résztvevő vagy azzal együttműködő személyek, valamint kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozóan keletkezett utolsó adatot követő húsz évig;
 
-h) az egyes bűncselekmények nyomozása során a felderítés és a bizonyítás kapcsán keletkező iratokban szereplő személyekről, azok kapcsolatairól, eljárási helyzetéről, a hozzá fűződő nyomozási adatokról az ügyben hozott jogerős ítéletig vagy a nyomozás megszüntetése esetén a bűncselekmény büntethetőségének elévüléséig.
+h) az egyes bűncselekmények nyomozása során a felderítés és a bizonyítás kapcsán keletkező iratokban szereplő személyekről, azok kapcsolatairól, eljárási helyzetéről, a hozzá fűződő nyomozási adatokról az ügyben hozott jogerős ítéletig vagy a nyomozás megszüntetése esetén a bűncselekmény büntethetőségének elévüléséig;
+
+i) a 73. § (3) bekezdése alá tartozók kivételével a titkos információgyűjtés alkalmazásával érintett személyek adatait és az alkalmazás eredményeként keletkezett adatokat,
+
+ia) ha büntetőeljárás nem indul, a titkos információgyűjtés lezárását követő legfeljebb két évig,
+
+ib) büntetőeljárás lefolytatása esetén a büntethetőség elévüléséig,
+
+ic) elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig, de legfeljebb húsz évig,
+
+j) a rendőrséggel titkosan együttműködő személyek, valamint a fedett nyomozók személyes adatait és az alkalmazás eredményét az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig.
 
 (2) Az (1) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel köthető megbízási szerződés.

@@ -32,4 +32,4 @@ felderítése során.
 
 (6) Az (1) bekezdés c) pontjában foglaltak teljesítéséhez a távközlési, illetőleg postai szervezet köteles a feladatkörébe tartozó esetben a segítséget megadni.
 
-(7) Az (1) bekezdés a)—b) pontjának alkalmazása során magánlakásnak minősül — a 97. § (1) bekezdés c) pontján túl — a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület is.
+(7) Az (1) bekezdés a)—b) pontjának alkalmazása során magánlakásnak minősül — a 97. § (1) bekezdés c) pontján túl — a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület is. Az (1) bekezdés b) pontjának a 7/A. § (1) bekezdésében meghatározott megbízhatósági vizsgálat keretében történő alkalmazása során nem minősül magánlakásnak a védett állomány tagját foglalkoztató szerv hivatali helyisége, gépjárműve, továbbá a megbízhatósági vizsgálat végrehajtása során létrehozott mesterséges helyszín.

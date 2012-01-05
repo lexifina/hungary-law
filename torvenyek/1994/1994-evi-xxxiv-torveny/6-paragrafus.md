@@ -32,7 +32,7 @@ e) irányítja a közvetlen alárendeltségébe tartozó vezetők tevékenység�
 
 f) a kinevezés és a felmentés kivételével gyakorolja a közvetlen alárendeltségébe tartozó vezetői felett a munkáltatói jogokat.
 
-(3) Az országos rendőrfőkapitányt és a terrorizmust elhárító szerv főigazgatóját a miniszter javaslatára a miniszterelnök nevezi ki és menti fel. Az országos rendőrfőkapitány-jelöltet a kinevezést megelőzően az Országgyűlés feladatkörrel rendelkező bizottsága meghallgatja, és alkalmasságáról állást foglal.
+(3) Az országos rendőrfőkapitányt és a terrorizmust elhárító szerv főigazgatóját a miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A kinevezést megelőzően az országos rendőrfőkapitány-jelöltet, illetve a terrorizmust elhárító szerv főigazgatói tisztségére jelölt személyt az Országgyűlés feladatkörrel rendelkező bizottsága meghallgatja és állást foglal az alkalmasságáról.
 
 (4) Az országos rendőrfőkapitány és a terrorizmust elhárító szerv főigazgatója együttesen – az államhatár rendjének fenntartása érdekében – jóváhagyásra a miniszter elé terjeszti a konfliktushelyzet és a tömeges méretű migráció kezelésére vonatkozó terveket.
 

@@ -24,4 +24,4 @@ k) a saját élete, testi épsége, személyes szabadsága ellen intézett táma
 
 (2) Nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján más állam területén szolgálatot ellátó rendőr a nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott esetekben és módon használhat lőfegyvert.
 
-(3) Rendőrségi vagy határrendészeti feladatokat ellátó külföldi szerv tagja a Magyar Köztársaság területén e törvényben, a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusa alapján meghatározott esetben és módon használhat lőfegyvert.
+(3) Rendőrségi vagy határrendészeti feladatokat ellátó külföldi szerv tagja Magyarország területén e törvényben, a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusa alapján meghatározott esetben és módon használhat lőfegyvert.

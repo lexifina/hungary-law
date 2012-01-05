@@ -14,7 +14,7 @@ e) a bűncselekmény elkövetőjének leleplezésére vagy a bizonyítás érdek
 
 f) mintavásárlás végzése érdekében informátort, bizalmi személyt, a rendőrséggel titkosan együttműködő más személyt vagy fedett nyomozót, továbbá – az ügyész engedélyével – álvásárlás, bizalmi vásárlás, bűnszervezetbe való beépülés, illetve – a 2. § (4) bekezdésére is figyelemmel – ellenőrzött szállítás folytatása érdekében fedett nyomozót alkalmazhat;
 
-g) ha a bűncselekmény megelőzésére, felderítésére, az elkövető elfogására, kilétének megállapítására nincs más lehetőség, a sértettet szerepkörében – életének, testi épségének megóvása érdekében – rendőr igénybevételével helyettesítheti;
+g) ha a bűncselekmény megelőzésére, magakadályozására, felderítésére, az elkövető elfogására, kilétének megállapítására nincs más lehetőség, a sértettet szerepkörében – életének, testi épségének megóvása érdekében – rendőr igénybevételével helyettesítheti;
 
 h) hírközlési rendszerekből és egyéb adattároló eszközökből információt gyűjthet.
 
@@ -22,7 +22,7 @@ h) hírközlési rendszerekből és egyéb adattároló eszközökből informác
 
 (3) Az e törvényben meghatározott feladatok ellátása érdekében a rendőrség – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet a (2) bekezdés hatálya alá tartozó szervezeteknél.
 
-(4) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Országgyűlési Biztosok Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
+(4) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
 
 (5) A foglalkoztatás rendőri jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a rendőrség és az érintett szervezet külön megállapodása tartalmazza.
 

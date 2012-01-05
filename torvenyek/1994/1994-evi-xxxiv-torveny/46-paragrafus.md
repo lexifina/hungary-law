@@ -10,7 +10,7 @@ c) magánlakásba — külön írásos utasítás birtokában — ellenőrzés, 
 
 d) területet lezárhat, és megakadályozhatja, hogy oda bárki belépjen vagy onnan távozzék, illetőleg az ott tartózkodókat távozásra kötelezheti.
 
-(2) A védett személyeket – a nemzetközi jogi kötelezettségek és a viszonossági gyakorlat figyelembevételével – a Kormány rendeletben jelöli ki. Az ideiglenes védelemben részesülő személyeket – a Kormány döntéséig, legfeljebb harminc napig – a miniszter jelöli ki.
+(2) A védett személyeket – a nemzetközi jogi kötelezettségek és a viszonossági gyakorlat figyelembevételével – a Kormány rendeletben jelöli ki. A Kormány rendeletében ki nem jelölt személy ideiglenes védelmét a miniszter rendeli el. Az ideiglenes védelem tartama a 12 hónapot nem haladhatja meg.
 
 (3) A rendőrség a védett középületek és az abban tartózkodók biztonsága érdekében az (1) bekezdés a) és d) pontjában meghatározottakon túl a be- és kilépésre az ott elhelyezett szerv vezetőjével egyetértésben szabályokat állapíthat meg.
 
@@ -18,4 +18,4 @@ d) területet lezárhat, és megakadályozhatja, hogy oda bárki belépjen vagy 
 
 (5) Az (1) bekezdés a) és d) pontja szerinti intézkedést az elrendelő rendőri szerv vezetője – függetlenül az előzetesen meghatározott időtartamtól – ötnaponként felülvizsgálja, és annak eredményéről a (3) bekezdésben meghatározott vezetőt tájékoztatja. Ha az (1) bekezdés a) és d) pontja szerinti intézkedés időtartama a tizenöt napot meghaladja, az intézkedést az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója felülvizsgálja. Ha az (1) bekezdés a) és d) pontja szerinti intézkedés időtartama a harminc napot meghaladja, az intézkedést az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója legalább harminc naponként felülvizsgálja. Az intézkedés indokoltságáról, tartalmának jogszerűségéről az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója három munkanapon belül határozattal dönt. A határozatot a központi szerv, valamint a terrorizmust elhárító szerv honlapján közzé kell tenni.
 
-(6) Ideiglenes védelemben részesíthető az a személy, akit a külön törvény szerinti közéleti tevékenysége miatt személye vagy közvetlen környezete ellen irányuló erőszakos bűncselekménnyel fenyegettek meg, illetve egyéb alapos okból védelme szükséges.
+(6) Ideiglenes védelemben részesíthető az a személy, akit közéleti tevékenysége miatt személye vagy közvetlen környezete ellen irányuló erőszakos bűncselekménnyel fenyegettek meg, illetve egyéb alapos okból védelme szükséges.
