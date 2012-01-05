@@ -4,4 +4,4 @@
 
 (3) Ugyanazon jogszabálysértésért a közlekedési hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
 
-(4) A 81/A. § alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
+(4) A 81/A. § alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi. A bírságot a befizetés elmulasztása esetén adók módjára kell behajtani.
