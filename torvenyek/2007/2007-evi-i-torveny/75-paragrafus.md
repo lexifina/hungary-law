@@ -20,4 +20,4 @@ g) a három hónapot meg nem haladó tartózkodásra jogosító vízummal rendel
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
 
-(3) Ha az EGT-állampolgár vagy családtagja megszerezte a magyar állampolgárságot, a rá vonatkozó adatokat haladéktalanul törölni kell az EGT-állampolgárok és a családtagok adatairól vezetett résznyilvántartásokból.
+(3)
