@@ -1,4 +1,4 @@
-## 28. § Hatályát veszti az emberi felhasználásra kerülő gyógyszer, illetve gyógyászati segédeszköz ismertetésére, az ismertetői tevékenységet végző személyek nyilvántartására, és a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokról szóló 3/2009. (II. 25.) EüM rendelet 5. §-a.
+## 25–28. §[^23]
 
 ## 10. Záró rendelkezések
 
@@ -11,3 +11,5 @@
 (4) A 9. §, a 14. §, a 18. § (1) bekezdése és a 6. melléklet 2012. április 1-jén lép hatályba.
 
 (5) Ez a rendelet 2012. április 2-án hatályát veszti.
+
+[^23]: A 25–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

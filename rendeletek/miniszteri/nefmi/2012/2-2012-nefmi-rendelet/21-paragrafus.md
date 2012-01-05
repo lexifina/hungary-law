@@ -1,3 +1,0 @@
-## 20. § Az egészségügyért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésének, valamint a kijelölt szervezetek tevékenységének különös szabályairól szóló 18/2010. (IV. 20.) EüM rendelet (a továbbiakban: R5.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az orvostechnikai eszközökkel kapcsolatos megfelelőségértékelő szervezetként történő kijelölés iránti kérelmet (a továbbiakban: kérelem) az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: kijelölő hatóság) által e célra rendszeresített, és honlapján közzétett, az 1. melléklet szerinti adatokat tartalmazó nyomtatványon vagy elektronikus űrlapon kell benyújtani.”

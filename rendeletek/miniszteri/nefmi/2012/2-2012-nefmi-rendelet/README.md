@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-2-20-2V
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-01-04 | 2012-2-20-2V.1 | 2/2012. (I. 3.) NEFMI rendelet |
+| 2012-01-05 | 2012-2-20-2V.2 | 2010: CXXX. törvény |

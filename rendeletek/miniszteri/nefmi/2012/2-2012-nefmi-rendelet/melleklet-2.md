@@ -2944,6 +2944,6 @@
 
 | ” |
 
-2. melléklet a 2/2012. (I. 3.) NEFMI rendelethez[^11]
+2. melléklet a 2/2012. (I. 3.) NEFMI rendelethez[^25]
 
-[^11]: A 2. melléklet a 29. § (2) bekezdése alapján 2012. február 1-jén lép hatályba.
+[^25]: A 2. melléklet a 29. § (2) bekezdése alapján 2012. február 1-jén lép hatályba.
