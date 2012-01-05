@@ -20,7 +20,7 @@ b) az ügyészt, valamint a megkeresés célja szerint indokolt adatok tekintet�
 
 c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés céljából,
 
-d)
+d) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervet a törvényben meghatározott feladatai ellátása érdekében, az abban kapott felhatalmazás körében,
 
 e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, továbbá az Európai Csalásellenes Hivatalt (OLAF), az általuk végzett ellenőrzés céljából,
 

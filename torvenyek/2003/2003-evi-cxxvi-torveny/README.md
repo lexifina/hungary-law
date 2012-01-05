@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-126-00-00
 | 2011-04-13 | 2011. évi XXXVII. törvény | 2003-126-00-00.25 |
 | 2011-04-15 | 2011. évi LXIII. törvény | 2003-126-00-00.26 |
 | 2012-01-01 | 2011. évi CLVI. törvény | 2003-126-00-00.27 |
+| 2012-01-05 | 2011. évi CCVII. törvény | 2003-126-00-00.28 |
