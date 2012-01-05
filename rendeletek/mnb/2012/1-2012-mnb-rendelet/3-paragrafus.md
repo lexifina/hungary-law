@@ -1,3 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-3. § A kötelező jegybanki tartalék kiszámításáról, illetve képzésének és elhelyezésének módjáról szóló 10/2005. (VI. 11.) MNB rendelet 6. § (1) bekezdésében az „az MNB által megállapított és közzétett kamatláb” szövegrész helyébe az „a kötelező jegybanki tartalék után fizetendő kamat mértékéről szóló MNB rendeletben megállapított kamatláb” szöveg, a 7. § (3) bekezdésében az „az MNB által megállapított és közzétett büntető kamatláb” szövegrész helyébe az „a mindenkori jegybanki alapkamat mértékének megfelelő büntető kamatláb” szöveg lép.
+3. §[^2]
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
