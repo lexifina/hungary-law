@@ -30,14 +30,37 @@ i) feladatkörében eljárva közreműködik az Európai Unió különleges inte
 
 j)[^3] ellátja a kormányügyeleti rendszer működési rendjéből fakadó feladatokat, valamint a Belügyminisztérium ügyeleti tevékenységét,
 
-(2) A TEK az Rtv. 7/E. § (1) bekezdés b) pontja alapján végzi a nyomozó hatóságok, az ügyészség, továbbá a rendvédelmi szervek felkérésére
+(2)[^4] A TEK az Rtv. 7/E. § (1) bekezdés b) pontja alapján a rendvédelmi szervek részére kizárólagos hatáskörrel, míg a Nemzeti Adó- és Vámhivatal, valamint az ügyészség tekintetében felkérésre végzi
 
-a) a bűncselekmény elkövetésével gyanúsítható fegyveres vagy felfegyverkezett személyek elfogását,
+a) a szándékos bűncselekmény elkövetésén tetten ért személyek elfogását és előállítását, amennyiben a rendelkezésre álló információk alapján az elkövetésre fegyveresen kerül sor,
 
-b) a személy elleni erőszakos bűncselekmények megszakítását, valamint
+b) a bűncselekmény elkövetésével gyanúsítható fegyveres személyek elfogását, és
 
-c) az ön- vagy közveszélyes állapotban lévő személyek elfogását.
+c) az ön- vagy közveszélyes állapotban lévő személy megfékezését, amennyiben a személy a vele szemben foganatosított intézkedés során fegyveresen vagy felfegyverkezve áll ellen.
+
+(3)[^5] A TEK a nyomozó hatóságok, a rendvédelmi szervek, továbbá az ügyészség felkérésére végrehajthatja különösen
+
+a) a (2) bekezdés b) pontjába nem sorolható, személy elleni erőszakos bűncselekmények megszakítását, az elkövetők elfogását,
+
+b) a bűncselekmény elkövetésével gyanúsítható felfegyverkezett személyek elfogását,
+
+c) a (2) bekezdés c) pontjában meghatározott eseteken kívül az ön- vagy közveszélyes állapotban lévő személyek elfogását,
+
+d) a fogvatartott személy kísérését, ha a kísért személy veszélyessége, vagy a kísérés körülményei azt indokolják, és
+
+e) a hatósági eljárás során lefoglalt, a közbiztonságra különösen veszélyes anyagok, valamint különösen nagy vagy különösen jelentős értékű kábítószer szállítását.
+
+(4)[^6] Amennyiben a rendelkezésre álló információk alapján kétséges, hogy a kizárólagos hatáskör az adott esetben fennáll-e, ha a késedelem veszéllyel nem jár, az érintett szerv előzetesen egyeztetni köteles a TEK-kel.
+
+(5)[^7] Halaszthatatlan intézkedésként, ha a késedelem az életet, testi épséget vagy a vagyonbiztonságot közvetlenül veszélyeztetné, vagy helyrehozhatatlan kárral járna, továbbá ha a késedelem nyilvánvalóan sértené a bűnüldözés eredményességéhez fűződő érdeket, az érintett rendvédelmi szerv a (2) bekezdésben megjelölt feladatot a TEK igénybevétele nélkül végrehajtja, a feladat felmerülésekor azonban a TEK-et haladéktalanul értesíteni köteles.
+
+(6)[^8] A TEK az Rtv. szerinti rendőrségi feladatok ellátása során közreműködhet a harmadik országbeli állampolgárok hatósági kísérettel történő kiutasításának végrehajtásában.
 
 [^1]: A 3. § (1) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^2]: A 3. § (1) bekezdés d) pont db) alpontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés j) pontja a 376/2011. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (2) bekezdése a 374/2011. (XII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^6]: A 3. § (4) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^7]: A 3. § (5) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^8]: A 3. § (6) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
