@@ -52,4 +52,4 @@ f) az egyéni vállalkozók nyilvántartásából és
 
 g) a közegészségügyi hatóságtól.
 
-(5) Ha a harmadik országbeli állampolgár megszerezte a magyar állampolgárságot, a rá vonatkozó adatokat haladéktalanul törölni kell az idegenrendészeti résznyilvántartásokból.
+(5)
