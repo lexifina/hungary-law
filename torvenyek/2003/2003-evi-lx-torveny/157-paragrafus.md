@@ -26,7 +26,7 @@ l) az e törvényben szabályozott adattovábbítások során átadott adatok te
 
 m) az állományátruházás keretében átadásra kerülő biztosítási szerződési állomány tekintetében az átvevő biztosítóval,
 
-n) a kárrendezéshez és a megtérítési igény érvényesítéséhez szükséges adatok tekintetében, továbbá ezek egymásközti átadásával kapcsolatban a Kártalanítási Számlát, illetve a Kártalanítási Alapot kezelő szervezettel, a Nemzeti Irodával, a levelezővel, az Információs Központtal, a Kártalanítási Szervezettel, kárrendezési megbízottal és a kárképviselővel, illetve a károkozóval, amennyiben az önrendelkezési jogával élve a közúti közlekedési balesetével kapcsolatos kárrendezés kárfelvételi jegyzőkönyvéből a balesetben érintett másik jármű javítási adataihoz kíván hozzáférni,
+n) a kárrendezéshez és a megtérítési igény érvényesítéséhez szükséges adatok tekintetében, továbbá ezek egymásközti átadásával kapcsolatban a Kártalanítási Számlát, illetve a Kártalanítási Alapot kezelő szervezettel, a Nemzeti Irodával, a levelezővel, az Információs Központtal, a Kártalanítási Szervezettel, a kárrendezési megbízottal és a kárképviselővel, illetve a károkozóval, amennyiben az önrendelkezési jogával élve a közúti közlekedési balesetével kapcsolatos kárrendezés kárfelvételi jegyzőkönyvéből a balesetben érintett másik jármű javítási adataihoz kíván hozzáférni,
 
 o) a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 
@@ -34,13 +34,11 @@ p) fióktelep esetében – ha a magyar jogszabályok által támasztott követe
 
 q) a feladatkörében eljáró alapvető jogok biztosával,
 
-r) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
+r) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 
 s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval
 
-t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel
-
-szemben, ha az a)–j), n), és s) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k), l), m), p), q) és r) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
+szemben, ha az a)–j), n), s) és t) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k)–m) és p)–r) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, illetve, ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
