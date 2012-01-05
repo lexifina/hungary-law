@@ -46,4 +46,4 @@ c) viszonosság alapján védett személynek tekintendő külföldi.
 [^9]: A 3. § (4) bekezdése a 63/2010. (III. 18.) Korm. rendelet 12. § d) pontja, a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
 [^10]: A 3. § (5) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^11]: A 3. § (6) bekezdését a 144/2001. (VIII. 8.) Korm. rendelet 1. §-a iktatta a szövegbe.
-[^12]: A 3. § (7) bekezdését a 144/2001. (VIII. 8.) Korm. rendelet 1. §-a iktattabe, hatályon kívül helyezte a 63/2010. (III. 18.) Korm. rendelet.
+[^12]: A 3. § (7) bekezdését a 144/2001. (VIII. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 63/2010. (III. 18.) Korm. rendelet.

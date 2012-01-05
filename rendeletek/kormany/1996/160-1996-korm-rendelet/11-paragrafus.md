@@ -1,6 +1,6 @@
 ## A létesítmények védelme
 
-11. §[^57] (1) A kijelölt létesítmények folyamatos őrzését és védelmét a Köztársasági Őrezred végzi.
+11. §[^55] (1) A kijelölt létesítmények folyamatos őrzését és védelmét a Köztársasági Őrezred végzi.
 
 (2) A kijelölt létesítmény védelme
 
@@ -22,4 +22,4 @@ a) a létesítmény technikai biztosítása kizárólag a külső biztosításra
 
 b) a biztonságtechnikai eszközök és berendezések alkalmasságának elbírálását, azok felszerelését, üzemeltetését, karbantartását, javítását és szükség esetén cseréjét az Információs Hivatal végzi.
 
-[^57]: A 11. § a 63/2010. (III. 18.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^55]: A 11. § a 63/2010. (III. 18.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

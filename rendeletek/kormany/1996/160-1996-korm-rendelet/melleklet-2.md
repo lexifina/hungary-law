@@ -8,9 +8,9 @@
 
 ## 4. Az Alkotmánybíróság elnöke
 
-## 5.[^71] A Kúria elnöke
+## 5.[^69] A Kúria elnöke
 
-## 6.[^72] A legfőbb ügyész
+## 6.[^70] A legfőbb ügyész
 
 ## 2. Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
 
@@ -22,25 +22,25 @@
 
 ## 4. Az Alkotmánybíróság épülete
 
-## 5.[^73] A Kúria épülete
+## 5.[^71] A Kúria épülete
 
 ## 6. A Legfőbb Ügyészség épülete
 
-## 7.[^74] A Közigazgatási és Igazságügyi Minisztérium központi épülete
+## 7.[^72] A Közigazgatási és Igazságügyi Minisztérium központi épülete
 
 ## 8. A Külügyminisztérium központi épületei
 
-## 9.[^75] A Belügyminisztérium
+## 9.[^73] A Belügyminisztérium
 
 ## 10. Az Állami Számvevőszék központi épületei
 
 ## 11. Az Információs Hivatal központi objektuma
 
-## 12.[^76] A Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvény 2. § (1) bekezdés b) pontjában meghatározott koronázási palást
+## 12.[^74] A Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvény 2. § (1) bekezdés b) pontjában meghatározott koronázási palást
 
-## 13.[^77]
+## 13.[^75]
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^78]
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^76]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -174,11 +174,11 @@
 
 65. Zalaegerszeg, Zala Megyei Kórház
 
-[^71]: Az 1. melléklet 1. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^72]: Az 1. melléklet 1. pont 6. alpontját a 376/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^73]: Az 1. melléklet 2. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^74]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^75]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^76]: Az 1. melléklet 2. pont 12. alpontja a 78/2011. (V. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^77]: Az 1. melléklet 2. pont 13. alpontját a 276/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^78]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^69]: Az 1. melléklet 1. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^70]: Az 1. melléklet 1. pont 6. alpontját a 376/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^71]: Az 1. melléklet 2. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^72]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^73]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^74]: Az 1. melléklet 2. pont 12. alpontja a 78/2011. (V. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^75]: Az 1. melléklet 2. pont 13. alpontját a 276/2010. (XII. 15.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^76]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
