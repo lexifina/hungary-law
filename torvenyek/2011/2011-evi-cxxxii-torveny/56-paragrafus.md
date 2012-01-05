@@ -1,6 +1,6 @@
 ## 7. Hatályon kívül helyező rendelkezések
 
-56. §
+56. § (1)
 
 (2)
 

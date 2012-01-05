@@ -19,3 +19,5 @@ a) a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás 
 b) az Egyetemre történő felvétel különös feltételeit, valamint
 
 c) a külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait.
+
+(3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Egyetemen rendészeti képzésben résztvevő hallgatók ruházati ellátási normáit és az ellátás rendjét rendeletben határozza meg.
