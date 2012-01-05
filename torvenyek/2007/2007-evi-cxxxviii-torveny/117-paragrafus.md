@@ -30,7 +30,7 @@ g) a központi költségvetési pénzeszközök felhasználásának szabályszer
 
 h) nemzetbiztonsági szolgálattal,
 
-i)
+i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel
 
 szemben.
 

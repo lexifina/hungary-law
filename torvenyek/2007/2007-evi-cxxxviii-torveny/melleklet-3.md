@@ -23,5 +23,3 @@ A portfóliókezelési tevékenységet végző által a kezelt portfólión elé
 10. Az időszakok hozamait mértani láncba kell állítani.
 
 11. Egy évnél rövidebb időszakok teljesítményét nem lehet évesíteni.
-
-12. Mindig meg kell jelölni, hogy mely időszakra vonatkozik a hozamadat.
