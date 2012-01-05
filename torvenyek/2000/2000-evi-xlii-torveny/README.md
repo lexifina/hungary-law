@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2011-07-13 | 2011. évi XCI. törvény | 2000-42-00-00.21 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2000-42-00-00.22 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2000-42-00-00.23 |
+| 2012-01-05 | 2011. évi CCVII. törvény | 2000-42-00-00.24 |
