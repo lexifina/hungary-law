@@ -1,12 +1,8 @@
-21. § (1) Minden építészeti-műszaki tervdokumentáció része a tűzvédelmi dokumentáció, amely tartalmazza törvény és annak végrehajtási rendeletében előírt tűzvédelmi követelményeknek való megfelelés dokumentálását tervekkel és műszaki leírásokkal.
+21. § (1) Jogszabályban meghatározott esetben az építészeti-műszaki tervdokumentáció része a tűzvédelmi dokumentáció, amely tartalmazza törvény és annak végrehajtási rendeletében előírt tűzvédelmi követelményeknek való megfelelés dokumentálását tervekkel és műszaki leírásokkal.
 
-(2) Az építészeti-műszaki dokumentáció részét képező tűzvédelmi dokumentációt csak az a természetes személy készíthet, aki rendelkezik a névjegyzéket vezető szerv engedélyével (tűzvédelmi tervezői jogosultság). A névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
+(2) Az (1) bekezdésben meghatározott tűzvédelmi dokumentációt csak az a természetes személy készítheti, aki tűzvédelmi szakértő, vagy tűzvédelmi tervezői jogosultsággal rendelkezik.
 
-(3) A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki
-
-a) büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja, vagy
-
-b) a szakterületnek megfelelő tűzvédelmi szakértő (építmények tűzvédelme, vagy építész-, vagy elektromos-, vagy gépész-, vagy vegyipari-, vagy olajipari-, vagy gázipari tűzvédelmi szakértő) jogosultsággal rendelkezik.
+(3) A tűzvédelmi tervezői jogosultság a tűzvédelmi tervezői névjegyzéket vezető szerv engedélyével gyakorolható. A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja. A tűzvédelmi tervezői névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
 
 (4) A tűzvédelmi tervezői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a tűzvédelmi tervezői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 

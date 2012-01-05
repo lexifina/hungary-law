@@ -6,7 +6,7 @@ a) tűzoltó készülékek karbantartása és felülvizsgálata,
 
 b) tűzoltó technika felülvizsgálata, javítása, ha a szolgáltatás végzése a hivatásos katasztrófavédelmi szerv központi szerve, területi szervei, hivatásos tűzoltóságai, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technikára vonatkozó,
 
-c) beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése, kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
+c) beépített tűzjelző berendezés vagy tűzoltó berendezés kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
 
 d) tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok, valamint tűzjelző és tűzoltó központok távfelügyelete,
 

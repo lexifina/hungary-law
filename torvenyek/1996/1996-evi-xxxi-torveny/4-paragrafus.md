@@ -37,3 +37,5 @@ p) önkormányzati tűzoltóság: tűzoltási és műszaki mentési feladatok el
 q) létesítményi tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére, gazdálkodó szervezet által létrehozott, önálló működési területtel nem rendelkező tűzoltóság;
 
 r) önkéntes tűzoltó egyesület: a székhelye szerinti településen tűzoltási műszaki mentési feladatokban közreműködő egyesület.
+
+s) tűzvédelmi tervezői tevékenység: a 21. § (1) bekezdésében meghatározott tűzvédelmi dokumentáció elkészítése, a beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése.

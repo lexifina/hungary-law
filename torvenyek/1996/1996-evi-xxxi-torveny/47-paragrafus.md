@@ -82,4 +82,6 @@ c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért f
 
 d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatás szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel
 
+e) a tűzvédelmi tervezői tevékenység engedélyezési eljárásáért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel
+
 egyetértésben rendeletben állapítsa meg.
