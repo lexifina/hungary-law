@@ -42,7 +42,7 @@ b) a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítá
 
 c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
 
-d) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerveket e szervek vezetője által engedélyezett megkeresés alapján, ha a tájékoztatást a rendőrségi törvényben meghatározott feladata ellátása érdekében szükséges;
+d) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervet a törvényben meghatározott feladatai ellátása érdekében, az abban kapott felhatalmazás körében;
 
 e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalásellenes Hivatalt (OLAF), ha a tájékoztatás az ellenőrzéshez szükséges;
 
