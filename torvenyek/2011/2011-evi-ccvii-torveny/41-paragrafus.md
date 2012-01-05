@@ -1,0 +1,3 @@
+41. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 155. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A nyomozó hatóságok és a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok a törvényben foglaltak szerint, továbbá a frekvenciagazdálkodó hatóságok – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.”

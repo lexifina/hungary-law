@@ -1,0 +1,3 @@
+24. § Az Nbtv. 69. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A nemzetbiztonsági szolgálatok főigazgatói a nemzetbiztonsági szolgálatok munkatársai tekintetében, a rendőrség terrorizmust elhárító szervének főigazgatója a terrorizmust elhárító szerv munkatársai tekintetében, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének főigazgatója a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének munkatársai tekintetében, valamint a Nemzeti Adó- és Vámhivatal elnöke a Nemzeti Adó- és Vámhivatal bűnügyi főigazgatóság és a bűnügyi főigazgatóság középfokú szerveinek munkatársai tekintetében kezdeményezi az ellenőrzést.”
