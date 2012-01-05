@@ -10,7 +10,9 @@ d) ellátja a biztonsági okmányok védelmével összefüggő hatósági felüg
 
 e) szakértői, illetve – külön jogszabály rendelkezései szerint – igazságügyi szakértői tevékenységet végez,
 
-f) elvégzi a hatáskörébe tartozó, valamint a 68. § (4) bekezdésének f) pontjában meghatározott személyek nemzetbiztonsági ellenőrzését, illetve ellátja az objektumai műveleti védelmét.
+f) elvégzi a hatáskörébe tartozó, valamint a 68. § (4) bekezdésének f) pontjában meghatározott személyek nemzetbiztonsági ellenőrzését, illetve ellátja az objektumai műveleti védelmét,
+
+g) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést.
 
 (2) A Nemzetbiztonsági Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
 
@@ -22,4 +24,4 @@ f) elvégzi a hatáskörébe tartozó, valamint a 68. § (4) bekezdésének f) p
 
 (6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 
-(7) A nemzetbiztonsági Szakszolgálat a megkeresések teljesítésekor – a nemzetközi bűnügyi együttműködés keretében végzett határon átnyúló megfigyelés kivételével – kizárólag a Magyar Köztársaság területén tevékenykedhet.
+(7) A Nemzetbiztonsági Szakszolgálat a megkeresések teljesítésekor – a nemzetközi bűnügyi együttműködés keretében végzett határon átnyúló megfigyelés kivételével – kizárólag Magyarország területén tevékenykedhet.

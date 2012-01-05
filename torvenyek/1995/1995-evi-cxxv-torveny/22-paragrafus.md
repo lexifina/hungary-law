@@ -4,7 +4,7 @@ a) fontos és bizalmas munkakört betöltő személynek minősül;
 
 b) állampolgári jogait az e törvényben és a szolgálati jogviszonyra vonatkozó külön törvényben meghatározott korlátok között gyakorolhatja;
 
-c) pártnak nem lehet tagja, politikai tevékenységet nem folytathat;
+c)
 
 d) civil szervezetbe történő belépési szándékát köteles előzetesen a főigazgatónak bejelenteni, a főigazgató a tagsági viszonyt megtilthatja, ha az a hivatással vagy a szolgálati beosztással nem egyeztethető össze, illetőleg a szolgálat érdekeit sérti vagy veszélyezteti (összeférhetetlenség);
 
@@ -20,4 +20,4 @@ b) a szolgálati beosztásában meghatározott feladatait a törvényes előír�
 
 c) elöljárója utasításának a 27. §-ban foglaltak figyelembevételével engedelmeskedni,
 
-d) a Magyar Köztársaság nemzetbiztonsági érdekeit minden törvényes eszközzel érvényesíteni és – ha kell, élete árán is – megvédeni.
+d) Magyarország nemzetbiztonsági érdekeit minden törvényes eszközzel érvényesíteni és – ha kell, élete árán is – megvédeni.

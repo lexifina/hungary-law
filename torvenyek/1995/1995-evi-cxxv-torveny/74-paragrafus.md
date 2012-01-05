@@ -2,21 +2,21 @@
 
 74. § E törvény alkalmazásában
 
-a) nemzetbiztonsági érdek: a Magyar Köztársaság szuverenitásának biztosítása és alkotmányos rendjének védelme, ennek keretén belül
+a) nemzetbiztonsági érdek: Magyarország függetlenségének biztosítása és törvényes rendjének védelme, ennek keretén belül
 
-– az ország függetlensége és területi épsége elleni támadó szándékú törekvések felderítése,
+aa) az ország függetlensége és területi épsége elleni támadó szándékú törekvések felderítése,
 
-– az ország politikai, gazdasági, honvédelmi érdekeit sértő vagy veszélyeztető leplezett törekvések felfedése és elhárítása,
+ab) az ország politikai, gazdasági, honvédelmi érdekeit sértő vagy veszélyeztető leplezett törekvések felfedése és elhárítása,
 
-– a kormányzati döntésekhez szükséges, a külföldre vonatkozó, illetőleg külföldi eredetű információk megszerzése,
+ac) a kormányzati döntésekhez szükséges, külföldre vonatkozó, illetve külföldi eredetű információk megszerzése,
 
-– az ország az alapvető emberi jogok gyakorlását biztosító alkotmányos rendjének, a többpárti rendszeren alapuló képviseleti demokráciának és az alkotmányos intézmények működésének törvénytelen eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvések felderítése és elhárítása,
+ad) az ország az alapvető emberi jogok gyakorlását biztosító törvényes rendjének, a többpárti rendszeren alapuló képviseleti demokráciának és a törvényes intézmények működésének jogellenes eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvések felderítése és elhárítása, valamint
 
-– a terrorcselekmények, az illegális fegyver- és kábítószer-kereskedelem, valamint a nemzetközileg ellenőrzött termékek és technológiák illegális forgalmának felderítése és megakadályozása;
+ae) a terrorcselekmények, az illegális fegyver- és kábítószer-kereskedelem, valamint a nemzetközileg ellenőrzött termékek és technológiák illegális forgalmának felderítése és megakadályozása;
 
-b) állami szerv: a minisztériumok, a központi államigazgatási szervek, az ügyészség, a Magyar Honvédség, a Pénzügyi Szervezetek Állami Felügyelete, valamint a rendvédelmi szervek;
+b) állami szerv: a minisztériumok, a központi államigazgatási szervek, az ügyészség, a Magyar Honvédség, valamint a rendvédelmi szervek;
 
-c) rendvédelmi szerv: a polgári nemzetbiztonsági szolgálatok, a rendőrség, a hivatásos katasztrófavédelmi szerv, valamint a büntetés-végrehajtási szervezet;
+c)
 
 d) lakás: a nyilvános vagy a közönség részére nyitva álló helyen kívüli minden egyéb helyiség vagy terület;
 

@@ -70,9 +70,9 @@ tekintetében.
 
 (8) A rendvédelmi szervek országos parancsnokai kezdeményezik az ellenőrzést a rendvédelmi szerveken belül az illetékes miniszter által meghatározott munkakört betöltő személyek tekintetében.
 
-(9) A nemzetbiztonsági szolgálatok főigazgatói kezdeményezik az ellenőrzést a nemzetbiztonsági szolgálatok munkatársai tekintetében.
+(9) A nemzetbiztonsági szolgálatok főigazgatói a nemzetbiztonsági szolgálatok munkatársai tekintetében, a rendőrség terrorizmust elhárító szervének főigazgatója a terrorizmust elhárító szerv munkatársai tekintetében, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének főigazgatója a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének munkatársai tekintetében, valamint a Nemzeti Adó- és Vámhivatal elnöke a Nemzeti Adó- és Vámhivatal bűnügyi főigazgatóság és a bűnügyi főigazgatóság középfokú szerveinek munkatársai tekintetében kezdeményezi az ellenőrzést.
 
-(10) A Fővárosi Bíróság elnöke kezdeményezi az ellenőrzést a titkos információgyűjtést engedélyező bíró, valamint a minősített adat védelméről szóló törvényben meghatározott peres eljárásban eljáró bíró tekintetében.
+(10) A Fővárosi Törvényszék elnöke kezdeményezi az ellenőrzést a titkos információgyűjtést engedélyező bíró, valamint a minősített adat védelméről szóló törvényben meghatározott peres eljárásban eljáró bíró tekintetében.
 
 (11) Az országgyűlési bizottság elnöke kezdeményezi az ellenőrzést a bizottság eljárásában közreműködő szakértő tekintetében, amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia.
 
@@ -80,8 +80,8 @@ tekintetében.
 
 (13) A minősített adatot kezelő szerv vezetője kezdeményezi az ellenőrzést a 68. § (4) bekezdésének f) és g) pontjában, valamint a 2. számú melléklet 19. pontjában meghatározott személyek tekintetében.
 
-(14) A Pénzügyi Szervezetek Állami Felügyeletének elnöke kezdeményezi az ellenőrzést az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek tekintetében.
+(14) Az autonóm államigazgatási szerv vezetője, illetve az önálló szabályozó szerv vezetője kezdeményezi az ellenőrzést az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek tekintetében.
 
 (15) Az (1)–(14) bekezdésben meghatározott kezdeményezésre jogosult kezdeményezi az ellenőrzést az általa olyan munkakörbe kinevezett személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, amennyiben a kezdeményezésre jogosult az (1)–(14) bekezdés alapján nem állapítható meg.
 
-(16) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, ha az (1)–(13) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.
+(16) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, ha az (1)–(15) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.

@@ -8,7 +8,7 @@ Fontos és bizalmas munkakört betöltő személyek:
 
 3. a helyettes államtitkárok és az azonos jogállású állami vezetők,
 
-4. az autonóm államigazgatási szervek és a kormányhivatalok vezetői, helyettesei és a vezetőkkel azonos jogállású más közszolgálati vezetők,
+4. az autonóm államigazgatási szervek, az önálló szabályozó szervek és a kormányhivatalok vezetői, helyettesei és a vezetőkkel azonos jogállású más közszolgálati vezetők,
 
 5. központi hivatalok vezetői, valamit a velük azonos jogállású más közszolgálati vezetők,
 
@@ -20,7 +20,7 @@ Fontos és bizalmas munkakört betöltő személyek:
 
 9. a Magyar Honvédség parancsnoka, a vezérkari főnök,
 
-10. a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei,
+10.
 
 11. a rendvédelmi szervek országos parancsnokai és helyettesei,
 
@@ -36,7 +36,7 @@ Fontos és bizalmas munkakört betöltő személyek:
 
 17. a nemzetbiztonsági szolgálatok munkatársai,
 
-18. a minisztériumokon, az autonóm államigazgatási szerveken, a kormányhivatalokon, a központi hivatalokon, a Magyar Honvédségen, a rendvédelmi szerveken belül a feladatkörrel rendelkező miniszter által, a Pénzügyi Szervezetek Állami Felügyeletén belül a Felügyelet elnöke által meghatározott további olyan munkakört betöltő személyek, akiknek feladataik ellátásához „Bizalmas!” vagy annál magasabb minősítési szintű minősített adatot szükséges felhasználniuk,
+18. a minisztériumokon, a kormányhivatalokon, a központi hivatalokon, a Magyar Honvédségen, a rendvédelmi szerveken belül a feladatkörrel rendelkező miniszter által, az autonóm államigazgatási szerveken, az önálló szabályozó szerveken belül e szervek vezetője által meghatározott további olyan munkakört betöltő személyek, akiknek feladataik ellátásához „Bizalmas!” vagy annál magasabb minősítési szintű minősített adatot szükséges felhasználniuk,
 
 18/A. a minősített adat védelméről szóló törvény szerinti „Bizalmas!” vagy annál magasabb minősítési szintű adatot kezelő szerv vezetője,
 

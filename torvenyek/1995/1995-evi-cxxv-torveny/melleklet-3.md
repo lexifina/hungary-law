@@ -324,7 +324,7 @@ kapcsolat jellege, rövid jellemzése:
 
 35. Ismert-e Ön előtt olyan körülmény (kockázati tényező), melynek jelzését a biztonsági ellenőrzés szempontjából szükségesnek tartja (pl. káros szenvedélyek, személyének kompromittálására, zsarolására alapot adó információk stb.):
 
-36. Van-e kapcsolata a demokratikus jogállam alkotmányos alapelveit tagadó, vagy ilyen jellegű tevékenységet kifejtő szervezettel, mozgalommal, csoporttal stb.? (Ha igen, akkor fejtse ki részletesen.)
+36. Van-e kapcsolata a demokratikus jogállam törvényes alapelveit tagadó, vagy ilyen jellegű tevékenységet kifejtő szervezettel, mozgalommal, csoporttal stb.? (Ha igen, akkor fejtse ki részletesen.)
 
 „B” típusú
 
@@ -624,7 +624,7 @@ volt-e alkoholelvonó kúrán:
 
 42. Van-e házasságon vagy élettársi közösségen kívüli partnerkapcsolata (homoszexuális is):
 
-43. Áll, illetőleg állt-e kapcsolatban a demokratikus jogállam alkotmányos alapelveit tagadó vagy ilyen jellegű tevékenységet kifejtő szervezettel, mozgalommal, csoporttal stb. (ha igen, akkor fejtse ki részletesen):
+43. Áll, illetőleg állt-e kapcsolatban a demokratikus jogállam törvényes alapelveit tagadó vagy ilyen jellegű tevékenységet kifejtő szervezettel, mozgalommal, csoporttal stb. (ha igen, akkor fejtse ki részletesen):
 
 44. A fentieken kívül ismert-e Ön előtt olyan körülmény (kockázati tényező), melynek jelzését a biztonsági ellenőrzés szempontjából szükségesnek tartja (pl. kompromittálásra, zsarolásra alapot adó információk):
 

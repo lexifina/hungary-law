@@ -1,6 +1,6 @@
 ## A nemzetbiztonsági szolgálatok személyi állománya
 
-20. § (1) A nemzetbiztonsági szolgálatok személyi állománya hivatásos állományú személyekből és közalkalmazottakból áll. A hivatásos szolgálati jogviszony, valamint a közalkalmazotti jogviszony részletes szabályait külön törvények állapítják meg.
+20. § (1) A nemzetbiztonsági szolgálatok személyi állománya kormánytisztviselőkből,hivatásos szolgálati viszonyban álló személyekből és közalkalmazottakból áll.
 
 (2) A Katonai Nemzetbiztonsági Szolgálat hivatásos állományú tagjai a Magyar Honvédség állományába tartoznak. Szolgálati viszonyukra a hivatásos katonák szolgálati viszonyára vonatkozó jogszabályokat kell alkalmazni.
 

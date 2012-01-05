@@ -10,7 +10,7 @@ c) a titkos információgyűjtés feltételeinek biztosítása érdekében a tit
 
 (2) Felhatalmazást kap a Kormány, hogy határozatban megállapítsa:
 
-a) a nemzetbiztonsági szolgálatok illetékességének, valamint egymással és más szervekkel történő együttműködésének szabályait;
+a) a nemzetbiztonsági szolgálatok illetékességének, valamint egymással és más szervekkel történő együttműködésének e törvénnyel nem érintett szabályait;
 
 b) a nemzetbiztonsági szolgálatok tevékenységének fő irányait;
 
@@ -18,4 +18,4 @@ c) a nemzetbiztonsági szolgálatok és egyéb állami szerv tájékoztató tev�
 
 d) a nemzetbiztonsági védelem alá eső szervek és létesítmények körét.
 
-(3) A Kormány a törvény hatálybalépését követő hat hónapon belül biztosítsa a katonai nemzetbiztonsági szolgálatok és szervezeteik e törvény 2. §-ának (1) bekezdése szerinti működését.
+(3)

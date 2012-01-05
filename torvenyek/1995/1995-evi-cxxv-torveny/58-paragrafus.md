@@ -1,4 +1,4 @@
-58. § (1) Az 5. § b), d), h)–j), valamint a 6. § d), i), l)–n) pontjaiban meghatározott nemzetbiztonsági feladatok ellátása során az 56. §-ban felsorolt titkos információgyűjtést a Fővárosi Bíróság elnöke által e feladatra kijelölt bíró engedélyezi.
+58. § (1) Az 5. § b), d), h)–j), valamint a 6. § d), i), l)–n) pontjaiban meghatározott nemzetbiztonsági feladatok ellátása során az 56. §-ban felsorolt titkos információgyűjtést a Fővárosi Törvényszék elnöke által e feladatra kijelölt bíró engedélyezi.
 
 (2) Az (1) bekezdés hatálya alá nem tartozó nemzetbiztonsági feladatok ellátása során az 56. §-ban felsorolt titkos információgyűjtést az igazságügyért felelős miniszter engedélyezi.
 

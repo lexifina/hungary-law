@@ -2,7 +2,7 @@
 
 a) előkészíti a nemzetbiztonsági szolgálatok működésével, feladataival és hatásköreivel kapcsolatos jogszabályok, valamint egyéb kormányzati döntések tervezeteit, illetőleg részt vesz azok előkészítésében;
 
-b) biztosítja a Magyar Köztársaság érdekeinek érvényesítésével és védelmével kapcsolatos nemzetbiztonsági feladatok végrehajtását;
+b) biztosítja a Magyarország érdekeinek érvényesítésével és védelmével kapcsolatos nemzetbiztonsági feladatok végrehajtását;
 
 c) rendeletek és normatív utasítások által szabályozza a nemzetbiztonsági szolgálatok tevékenységét és működését;
 
