@@ -1,1 +1,0 @@
-## 3. A vízi közlekedés irányítására és a hajóút kitűzésére szolgáló jelekről, valamint e jelek létesítéséről, üzemeltetéséről, módosításáról és megszüntetéséről szóló 27/2002. (XII. 5.) GKM rendelet módosítása
