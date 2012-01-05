@@ -1,1 +1,0 @@
-## „ac) nem acélból vagy azzal egyenértékű anyagból készült vagy nem az e rendeletben alkalmazni rendelt nemzetközi egyezmények szerinti, nemzetközi forgalomban közlekedő, gyorsjáratú hajó vagy nemzetközi forgalomban közlekedő dinamikus felhajtóerejű hajó,”
