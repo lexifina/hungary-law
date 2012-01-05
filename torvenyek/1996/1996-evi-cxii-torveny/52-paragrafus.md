@@ -18,4 +18,6 @@ h) piacbefolyásolással
 
 van összefüggésben.
 
+(1a) Az (1) bekezdésben foglalt rendelkezést a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörükbe tartozó bűncselekményekkel összefüggő adatok tekintetében kell alkalmazni.
+
 (2) A pénzügyi intézmény a megkeresések teljesítése során köteles az államtitok és a szolgálati titok védelméről szóló jogszabályban foglalt feltételeknek megfelelő védelmi intézkedéseket megtenni.

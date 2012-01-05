@@ -22,9 +22,11 @@ e) Állami Számvevőszékkel,
 
 f) Gazdasági Versenyhivatallal,
 
-g) az államháztartásról szóló 2011. évi CXCV. törvény 63. §-ában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel,
+g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző Kormány által kijelölt belső ellenőrzési szervvel,
 
 h) vagyonellenőrrel
+
+i) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel
 
 szemben.
 
@@ -32,9 +34,11 @@ szemben.
 
 a) nyomozó hatósággal, ügyészséggel szemben a folyamatban lévő büntetőeljárás, valamint a feljelentés kiegészítése keretében,
 
-b) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal szemben.
+b) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal szemben,
 
-(5) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
+c) a törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel szemben.
+
+(5) A pénzügyi intézmény és a pénzforgalmi intézmény a nyomozó hatóságot, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a „halaszthatatlan intézkedés” jelzéssel ellátott, önálló jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
 
 (6) Nem jelenti az üzleti titok sérelmét a Felügyelet vagy az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
 

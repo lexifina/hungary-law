@@ -23,13 +23,3 @@ I. Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolg�
 9. Az Európai Parlament és a Tanács 2002. december 16-án kelt 2002/87/EK irányelve a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról.
 
 10. Az Európai Parlament és a Tanács 2009. április 23-i 2009/22/EK irányelve a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról, a 2. cikk (1) bekezdés a) pontja [a 153. § (1) bekezdés f) pontja – a Felügyelet eljárásában].
-
-11. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
-
-12. Az Európai Parlament és a Tanács 2009. március 11-i 2009/14/EK irányelve a betétbiztosítási rendszerekről szóló 94/19/EK irányelvnek a fedezeti szint és a kifizetési határidő tekintetében történő módosításáról.
-
-13. Az Európai Parlament és a Tanács 2007. november 13-án kelt 2007/64/EK irányelve a belső piaci pénzforgalmi szolgáltatásokról és a 92/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről.
-
-14. Az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/111/EK irányelve a 2006/48/EK, a 2006/49/EK és a 2007/64/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke-elemek, nagykockázat-vállalások, felügyeleti szabályok és válságkezelés tekintetében történő módosításáról.
-
-15. Az Európai Parlament és a Tanács 2010. november 24-i 2010/76/EU irányelve a 2006/48/EK és a 2006/49/EK irányelvnek a kereskedési könyvre és az újraértékpapírosításra vonatkozó tőkekövetelmények, továbbá a javadalmazási politikák felügyeleti felülvizsgálata tekintetében történő módosításáról.
