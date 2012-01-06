@@ -1,3 +1,0 @@
-25. § Az Nbtv. 71. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha az „A” vagy „B” típusú kérdőívhez kötődő ellenőrzés során kockázati tényező meglétére utaló adat keletkezik, az ellenőrzést végző nemzetbiztonsági szolgálat javaslatára a kezdeményező az érintett személlyel – 30 napon belül – a kockázati tényezőt feltáró eredménytől függően „B” vagy „C” típusú kérdőívet töltet ki. Erről a szolgálat vezetője tájékoztatja az elrendelőt. A kitöltött kérdőív elrendelőhöz történő érkezését követően a folyamatban lévő ellenőrzést a 71/C. § (2) bekezdése szerint meg kell szüntetni, az új ellenőrzést el kell rendelni.”

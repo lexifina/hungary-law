@@ -1,5 +1,0 @@
-9. § Az Rtv. 7/F. § (2) bekezdése helyébe a következő rendelkezés lép, ezzel egyidejűleg a § a következő (3) bekezdéssel egészül ki:
-
-„(2) Ha az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv feladatellátása során hatáskörébe nem tartozó bűncselekményre utaló információ birtokába jut, azt haladéktalanul köteles átadni a hatáskörrel rendelkező szervnek. A terrorizmust elhárító szerv nem köteles az információt átadni, ha azzal veszélyeztetné a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátását.
-
-(3) A terrorizmust elhárító szerv részére a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátásával összefüggésben a külföldi titkosszolgálatok által továbbított adatok, információk kizárólag azon külföldi titkosszolgálat előzetes hozzájárulásával továbbíthatók más adatkezelő részére, amelytől az információ származik.”
