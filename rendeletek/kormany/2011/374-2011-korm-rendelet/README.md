@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-374-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-01-05 | 2011-374-20-22.1 | 374/2011. (XII. 31.) Korm. rendelet |
+| 2012-01-06 | 2011-374-20-22.2 | 2010: CXXX. törvény |
