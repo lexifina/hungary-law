@@ -8,6 +8,8 @@
 
 (5) A Kuratórium döntéseit – az (1) bekezdésben foglalt kivétellel – egyszerű szavazattöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
 
-(6) A testület munkájában tanácskozási joggal részt vesznek az NKÖM-nek a miniszter által megbízott képviselői, az OSZK és az Intézet vezetője.
+(6)[^8] A testület munkájában tanácskozási joggal részt vesznek a miniszter által megbízott képviselők, az OSZK és az Intézet vezetője.
 
 (7) A Kuratórium elnöke a Kuratórium üléseire – állandó vagy eseti jelleggel, tanácskozási joggal – más szakembereket is meghívhat.
+
+[^8]: A 6. § (6) bekezdése a 339/2011. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

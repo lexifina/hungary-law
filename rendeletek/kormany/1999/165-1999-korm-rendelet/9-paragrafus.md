@@ -1,3 +1,5 @@
-9. § (1) A Kuratórium tagjai tiszteletdíjra és a testületben végzett munkájukkal kapcsolatos igazolt költségeik megtérítésére jogosultak.
+9. §[^9] (1) A Kuratórium tagjai a testületben végzett munkájukkal kapcsolatos igazolt költségeik megtérítésére jogosultak.
 
-(2) A Kuratórium működési költségeinek fedezetét a NKÖM költségvetésében kell biztosítani.
+(2) A Kuratórium működési költségeinek fedezetét a minisztérium költségvetésében kell biztosítani.
+
+[^9]: A 9. § a 339/2011. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
