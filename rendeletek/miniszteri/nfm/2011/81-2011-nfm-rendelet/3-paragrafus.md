@@ -1,0 +1,1 @@
+3. § Ez a rendelet a nagysebességű transzeurópai vasúti rendszer járművek alrendszerére vonatkozó átjárhatósági műszaki előírásokról szóló, 2008. február 21-i 2008/232/EK bizottsági határozat végrehajtását szolgálja.
