@@ -1948,7 +1948,7 @@ III. Egyéb tartósítószerek
 
 | E szám | Név | Élelmiszer | Maximális szint |
 
-| E 234 | nizin(1) | Búzadara- és tápióka-pudingok és hasonló termékek | 3 mg/kg |
+| E 234 | nizin (1) | Búzadara- és tápióka-pudingok és hasonló termékek | 3 mg/kg |
 
 |  |  | Érlelt sajtok és ömlesztett sajtok | 12,5 mg/kg |
 
@@ -1956,19 +1956,15 @@ III. Egyéb tartósítószerek
 
 |  |  | Mascarpone | 10 mg/kg |
 
-|  |  | Pasztőrözött folyékony tojás (tojás-fehérje, tojássárgája vagy egész tojás) | 6,25 mg/l |
+|  |  | Pasztőrözött folyékony tojás (tojásfehérje, tojássárgája vagy egész tojás) | 6,25 mg/l |
 
-| E 242 | dimetil-dikarbonát | Alkoholmentes ízesített italok | 250 mg/l beadagolt mennyiség, maradék nem mutatható ki |
+| E 235 | natamicin | Kemény, félkemény és fél-lágy sajtok, valamint szárított, füstölt kolbászok felületkezelésére | 1 mg/dm2 felület (5 mm-es mélységben nem lehet jelen) |
 
-|  |  | Alkoholmentes bor |  |
+| E 239 | hexametilén-tetramin | Provolone sajt | 25 mg/kg maradék mennyiség formaldehidben kifejezve |
 
-|  |  | Folyékony teakoncentrátum |  |
+| E 242 | dimetil-dikarbonát | Alkoholmentes ízesített italok Alkoholmentes bor Folyékony tea- koncentrátum, | 250 mg/l beadagolt mennyiség, maradék nem mutatható ki |
 
-|  |  | Almabor, körtebor és gyümölcsborok | 250 mg/l beadagolt mennyiség, maradék nem mutatható ki |
-
-|  |  | Csökkentett alkoholtartalmú bor |  |
-
-|  |  | Boralapú italok és az 1601/91/EGK rendeletben meghatározott termékek |  |
+| Almabor, körtebor és gyümölcsborok Csökkentett alkoholtartalmú bor Boralapú italok és az 1601/91/EGK rendeletben meghatározott termékek | 250 mg/l beadagolt mennyiség, maradék nem mutatható ki |
 
 | E 284 | bórsav | Kaviár | 4 g/kg, bórsavban kifejezve |
 
@@ -1978,9 +1974,9 @@ III. Egyéb tartósítószerek
 
 | E szám | Név | Élelmiszer | Az előállítás során hozzáadható legnagyobb mennyiség (NaNO2-ben kifejezve) | Legmagasabb maradékszint (NaNO2-ben kifejezve) |
 
-| E 249 | kálium-nitrit(x) | Húskészítmények | 150 mg/kg |  |
+| E 249 | kálium-nitrit (x) | Húskészítmények | 150 mg/kg |  |
 
-| E 250 | nátrium-nitrit(x) | Sterilezett húskészítmények (Fo > 3.00)(y) | 100 mg/kg |  |
+| E 250 | nátrium-nitrit(x) | Sterilezett húskészítmények (Fo > 3.00) ( y) | 100 mg/kg |  |
 
 |  |  | Hagyományos sós lében pácolt húskészítmények (1.): |  |  |
 
@@ -2018,15 +2014,13 @@ III. Egyéb tartósítószerek
 
 |  |  | Selský salám Turistický trvanlivý salám Poličan Herkules Lovecký salám Dunajská klobása Paprikáš (3.5.); és hasonló termékek |  |  |
 
-|  |  | Rohschinken, trocken- |  | 50 mg/kg |
+|  |  | Rohschinken, trocken-/ nassgepökelt (3.1.); és hasonló termékek Jellied veal and brisket (3.2.) |  | 50 mg/kg |
 
-|  |  | /nassgepökelt (3.1.); és hasonló termékek Jellied veal and brisket (3.2.) |  |  |
+| E szám | Név | Élelmiszer | Az előállítás során hozzáadható legnagyobb mennyiség (NaNO3-ban kifejezve) | Legmagasabb maradékszint (NaNO3-ban kifejezve) |
 
-| E szám | Név | Élelmiszer | Az előállítás során hozzáadható legnagyobb mennyiség (NaNO3-ben kifejezve) | Legmagasabb maradékszint (NaNO3-ben kifejezve) |
+| E 251 E 252 | nátrium-nitrát (z) kálium-nitrát(z) | Nem hőkezelt, száraz húskészítmények | 150 mg/kg |  |
 
-| E 251 E 252 | nátrium-nitrát(z) kálium-nitrát(z) | Nem hőkezelt, száraz húskészítmények | 150 mg/kg |  |
-
-| Hagyományos sós lében pácolt húskészítmények (1.): |  |  |
+|  |  | Hagyományos sós lében pácolt húskészítmények (1.): |  |  |
 
 |  |  | Kylmäsavustettu poronliha; | 300 mg/kg |  |
 
@@ -2044,13 +2038,13 @@ III. Egyéb tartósítószerek
 
 |  |  | Hagyományos szárazon pácolt húskészítmények (2.): |  |  |
 
-|  |  | Dry cured bacon és Dry cured ham (2.1.); |  | 250 mg/kg |
+|  |  | Dry cured bacon és Dry cured |  | 250 mg/kg |
 
-|  |  | Jamón curado, paleta curada, lomo embuchado y cecina (2.2.); Presunto, presunto da pá és paio do lombo (2.3.); Rohschinken, trockengepökelt (2.5.); és hasonló termékek |  |  |
+|  |  | ham (2.1.); Jamón curado, paleta curada, lomo embuchado y cecina (2.2.); Presunto, presunto da pá és paio do lombo (2.3.); Rohschinken, trockengepökelt (2.5.); és hasonló termékek |  |  |
 
 |  |  | Jambon sec, jambon sel sec et autres pičces maturées séchées similaires (2.4.) |  | 250 mg/kg hozzáadott E 249 vagy E 250 nélkül |
 
-|  |  | Egyéb hagyományosan pácolt húskészítmények (3.): |  |  |
+| Egyéb hagyományosan pácolt húskészítmények (3.): |  |  |
 
 |  |  | Rohwürste (Salami és Kantwurst) (3.3.); | 300 mg/kg (hozzáadott E 249 vagy E 250 nélkül) |  |
 
@@ -2060,17 +2054,17 @@ III. Egyéb tartósítószerek
 
 |  |  | Salchichón y chorizo tradicionales de larga curación (3.4.); Saucissons secs (3.6.); és hasonló termékek | 250 mg/kg (hozzáadott E 249 vagy E 250 nélkül) |  |
 
-|  |  | Jellied veal and brisket (3.2.); |  | 10 mg/kg |
+|  |  | Jellied veal and brisket (3.2.) ; |  | 10 mg/kg |
 
 |  |  | Kemény, félkemény és féllágy sajtok | 150 mg/kg a sajttejben vagy ennek megfelelő szint, amennyiben a hozzáadás a savó eltávolítását és a víz hozzáadását követően történik |  |
 
-|  |  | Tejalapú sajtanalógok |  |
+| Tejalapú sajtanalógok |
 
 |  |  | Pácolt hering és ruszli | 500 mg/kg |  |
 
 (x) Amennyiben »élelmiszerhez történő felhasználásra« címkével van ellátva, a nitrit csak sóval vagy egy sóhelyettesítővel összekeverve értékesíthető.
 
-(y) A 3-as Fo-érték 3 percig 121 °C-on történő hőkezelésnek felel meg (az 1000 konzervdobozban lévő egy milliárdnyi baktériumspóra-mennyiség 1 spóra szintre csökkentése).
+(y) A 3-as Fo-érték 3 percig 121 oC-on történő hőkezelésnek felel meg (az 1 000 konzervdobozban lévő egy milliárdnyi baktériumspóra-mennyiség 1 spóra szintre csökkentése).
 
 (z) Néhány hőkezelt húskészítmény tartalmazhat nitrátokat, a nitriteknek alacsony savtartalmú környezetben nitráttá történő természetes átalakulásából származóan.
 
@@ -2078,13 +2072,13 @@ III. Egyéb tartósítószerek
 
 1.1. A húsba páclevet fecskendeznek, ezt követően pedig 3–10 napon keresztül páclében pácolják. A pácsólé mikrobiológiai starterkultúrákat is tartalmaz.
 
-1.2. Sós lében történő pácolás 3–5 napon keresztül. A terméket nem hőkezelik és a terméknek magas a vízaktivitása.
+1.2. Sós lében történő pácolás 3–5 napon keresztül. A terméket nem hőkezelik, és a terméknek magas a vízaktivitása.
 
 1.3. Sós lében történő pácolás legalább 4 napon keresztül és előfőzés.
 
 1.4. A húsba páclevet fecskendeznek, ezt követően pedig páclében pácolják. A pácolás időtartama 14–21 nap, amelyet 4–5 hétig tartó hideg füstön való érlelés követ.
 
-1.5. Sós lében történő pácolás 4–5 napon keresztül 5–7 °C hőmérsékleten, jellemzően 24–40 órán keresztül tartó, 22 °C hőmérsékleten végzett érlelés, esetleg 24 órán keresztül 20–25 °C hőmérsékleten történő füstölés és 3–6 hétig 12–14 °C hőmérsékleten történő tárolás.
+1.5. Sós lében történő pácolás 4–5 napon keresztül 5–7 oC hőmérsékleten, jellemzően 24–40 órán keresztül tartó, 22 oC hőmérsékleten végzett érlelés, esetleg 24 órán keresztül 20–25 oC hőmérsékleten történő füstölés, és 3–6 hétig 12–14 oC hőmérsékleten történő tárolás.
 
 1.6. A húsdarabok formájától és súlyától függő pácolási idő kb. 2 nap/kg, ezt követően stabilizálás/érlelés.
 
@@ -2100,7 +2094,7 @@ III. Egyéb tartósítószerek
 
 2.5. A húsdarabok formájától és súlyától függő pácolási idő kb. 10–14 nap/kg, ezt követően stabilizálás/érlelés.
 
-3. Nedves és száraz pácolási eljárás együttes alkalmazása vagy nitrit és/vagy nitrát jelenléte valamilyen vegyületben vagy főzés előtt a páclé befecskendezése a termékbe. A terméket további kezelésnek, pl. füstölésnek is alávethetik.
+3. Nedves és száraz pácolási eljárás együttes alkalmazása, vagy nitrit és/vagy nitrát jelenléte valamilyen vegyületben, vagy főzés előtt a páclé befecskendezése a termékbe. A terméket további kezelésnek, pl. füstölésnek is alávethetik.
 
 3.1. Száraz és nedves pácolás együttes alkalmazása a páclé befecskendezése nélkül. A húsdarabok formájától és súlyától függő pácolási idő kb. 14–35 nap, ezt követően stabilizálás/érlelés.
 
@@ -2110,25 +2104,25 @@ III. Egyéb tartósítószerek
 
 3.4. Legalább 30 napos érlelési időtartam.
 
-3.5. Szárított termék: a 70 °C hőmérsékletre történő hevítést 8–12 napos szárítási és füstölési eljárás követi. Fermentált termék: 14–30 napig tartó, háromszakaszos fermentálási eljárás, ezt követően füstölés.
+3.5. Szárított termék: a 70 oC hőmérsékletre történő hevítést 8–12 napos szárítási és füstölési eljárás követi. Fermentált termék: 14–30 napig tartó, háromszakaszos fermentálási eljárás, ezt követően füstölés.
 
-3.6. Nyersen fermentált, szárított kolbász, hozzáadott nitrit nélkül. A terméket 18–22 °C vagy ennél alacsonyabb (10–12 °C) hőmérsékleten fermentálják, majd legalább 3 hétig érlelik. A termékben a víz/fehérje arány kisebb, mint 1,7.
+3.6. Nyersen fermentált, szárított kolbász, hozzáadott nitrit nélkül. A terméket 18–22 oC vagy ennél alacsonyabb (10 – 12 oC) hőmérsékleten fermentálják, majd legalább 3 hétig érlelik. A termékben a víz/fehérje arány kisebb, mint 1,7.
 
 | E szám | Név | Élelmiszer | Maximális szint |
 
-| E 280 E 281 | propionsav(1)nátrium-propionát(1) | Előcsomagolt, szeletelt kenyér | 3000 mg/kg propionsavban kifejezve |
+| E 280 E 281 | propionsav(1) nátrium-propionát(1) | Előcsomagolt, szeletelt kenyér | 3 000 mg/kg propionsavban kifejezve |
 
-| E 282 E 283 | kalcium-propionát(1)kálium-propionát(1) | Csökkentett energiatartalmú kenyér | 2000 mg/kg |
+| E 282 E 283 | kalcium-propionát(1) kálium-propionát(1) | Csökkentett energiatartalmú kenyér |  |
 
-|  |  | Elősütött, előcsomagolt kenyér | propionsavban kifejezve |
+|  |  | Elősütött, előcsomagolt kenyér | 2 000 mg/kg |
 
-|  |  | Előcsomagolt finom pékáruk, sütemények, tartós lisztes készítmények, 0,65-nél nagyobb vízaktivitással |  |
+|  |  | Előcsomagolt finom pékáruk, sütemények, tartós lisztes készítmények, 0,65-nél nagyobb vízaktivitással | propionsavban kifejezve |
 
 |  |  | Előcsomagolt zsemle, kalács és pitta |  |
 
-|  |  | Előcsomagolt přlsebrřd, boller és dansk flutes |  |
+|  |  | Előcsomagolt přlsebrřd , boller és dansk flutes |  |
 
-|  |  | Christmas pudding | 1000 mg/kg |
+|  |  | Christmas pudding | 1 000 mg/kg |
 
 |  |  | Előcsomagolt kenyér | propionsavban kifejezve |
 
@@ -2174,9 +2168,41 @@ A táblázatban található * jel az arányossági szabályra utal: a gallátok,
 
 | E 315 | D-eritroaszkorbinsav | Pácolt húskészítmények és tartós húskészítmények | 500 eritroaszkorbinsavban kifejezve |
 
-| E 316 | nátrium-D- eritroaszkorbát | Tartós és féltartós halkészítmények Fagyasztott és gyorsfagyasztott vörösbőrű halak | 1500 eritroaszkorbinsavban kifejezve |
+| E 316 | nátrium-D-eritroaszkorbát | Tartós és féltartós halkészítmények Fagyasztott és gyorsfagyasztott vörösbőrű halak | 1500 eritroaszkorbinsavban kifejezve |
 
-| E 586 | 4-hexil-rezorcin | Friss, fagyasztott és gyorsfagyasztott rákok | 2 mg/kg maradékmennyiségként a rákhúsban |
+| E 392 | rozmaringkivonatok | Nem hőkezelt élelmiszerekhez használt növényi olajok (szűz olajok és olívaolajok kivételével) valamint zsírok, ha többszörösen telítetlen zsírsav tartalmuk a teljes zsírsav tartalom 15 tömegszázalékánál nagyobb | 30 mg/kg (a karnoszol és karnoszolsav együttes mennyisége) Zsírtartalomra számítva |
+
+|  |  | Halolajok és alga-olajok | 50 mg/kg (a karnoszol és karnoszolsav együttes mennyisége) Zsírtartalomra számítva |
+
+|  |  | Sertészsír, marha-, baromfi-, birka-, sertészsiradékok Zsírok és olajok hőkezelt élelmiszerek ipari előállításához Sütőolaj és sütőzsír, az olívaolaj és az olívapogácsaolaj kivételével Gabona-, burgonya- vagy keményítő alapú snackek |  |
+
+|  |  | Mártások | 100 mg/kg (a karnoszol és karnoszolsav együttes mennyisége) Zsírtartalomra számítva |
+
+|  |  | Finom pékáruk | 200 mg/kg (a karnoszol és karnoszolsav együttes mennyisége) Zsírtartalomra számítva |
+
+|  |  | A 37/2004. (IV. 26.) ESZCSM rendeletben meghatározott étrendkiegészítők | 400 mg/kg (a karnoszol és karnoszolsav együttes mennyiségében kifejezve) |
+
+|  |  | Szárított burgonya | 200 mg/kg (a karnoszol és karnoszolsav együttes mennyiségében kifejezve) |
+
+|  |  | Tojástermékek |  |
+
+|  |  | Rágógumi |  |
+
+|  |  | Tejpor italautomatához Fűszerek és ételízesítők Feldolgozott diófélék | 200 mg/kg (a karnoszol és karnoszolsav együttes mennyisége) Zsírtartalomra számítva |
+
+|  |  | Leves- és erőlevesporok | 50 mg/kg (a karnoszol és karnoszolsav együttes mennyiségében kifejezve) |
+
+|  |  | Szárított hús | 150 mg/kg (a karnoszol és karnoszolsav együttes mennyiségében kifejezve) |
+
+|  |  | Hús- és haltermékek a szárított hús és szárított kolbász kivételével | 150 mg/kg (a karnoszol és karnoszolsav együttes mennyisége) Zsírtartalomra számítva |
+
+|  |  | Szárított kolbász | 100 mg/kg (a karnoszol és karnoszolsav együttes mennyiségében kifejezve) |
+
+|  |  | Aromák | 1000 mg/kg (a karnoszol és karnoszolsav együttes mennyiségében kifejezve) |
+
+|  |  | Tejpor fagylalt készítéséhez | 30 mg/kg (a karnoszol és karnoszolsav együttes mennyiségében kifejezve) |
+
+| E 586 | 4-hexil-rezorcin | Friss, fagyasztott és gyorsfagyasztott rákok | 2 mg/kg maradék-mennyiségként a rákhúsban |
 
 E rész
 
@@ -3222,50 +3248,4 @@ Megjegyzés:
 
 3. Ha az E 407, E 410 és E 412 anyagokból egynél többet használnak fel egy tápszerhez, akkor mindegyik megengedett szintje csökken a másik anyag (anyagok) felhasználásának arányában.
 
-| E szám | Név | Maximális szint |
-
-| E 270 | tejsav(1) | quantum satis |
-
-| E 330 | citromsav | quantum satis |
-
-| E 306 | tokoferolban dús extraktum |  |
-
-| E 307 | alfa-tokoferol | 10 mg/l |
-
-| E 308 | gamma-tokoferol | egyedileg vagy keverten |
-
-| E 309 | delta-tokoferol |  |
-
-| E 338 | foszforsav | Az anyatej-helyettesítő és az anyatej-kiegészítő tápszerekről szóló 20/2008. (V. 14.) EüM rendelet 2. számú mellékletében meghatározottakkal összhangban. |
-
-| E 440 | pektinek | 5 g/l, csak a savanyított tápszerekben |
-
-| E 322 | lecitinek | 1 g/l |
-
-| E 471 | zsírsavak mono- és digliceridjei | 4 g/l |
-
-| E 407 | karragén | 0,3 g/l |
-
-| E 410 | szentjánoskenyérliszt | 1 g/l |
-
-| E 412 | guar gumi (gyanta) | 1 g/l |
-
-| E 304 | L-aszkorbil palmitát | 10 mg/l |
-
-| E 331 | nátrium-citrát | 2 g/l |
-
-| E 332 | kálium-citrát | Egyedileg vagy keverten a 20/2008. (V. 14.) EüM rendelet 2. számú mellékletében meghatározottakkal összhangban. |
-
-| E 339 | nátrium-foszfát | 1 g/l P2O5-ben kifejezve |
-
-| E 340 | kálium-foszfát | Egyedileg vagy keverten a 20/2008. (V. 14.) EüM rendelet 2. számú mellékletében meghatározottakkal összhangban. |
-
-| E 472c | zsírsavak mono- és digliceridjeinek citromsav észterei | 7,5 g/l poralakú élelmiszerekben 9 g/l olyan folyékony élelmiszerekben, melyek részlegesen hidrolizált fehérjéket, peptideket vagy aminosavakat tartalmaznak és megfelelnek a 20/2008. (V. 14.) EüM rendelet 4. számú mellékletében meghatározott feltételeknek. |
-
-| E 473 | zsírsavak szacharóz észterei | 120 mg/l a hidrolizált fehérjéket, peptideket vagy aminosavakat tartalmazó élelmiszerekben. |
-
-(1) Csak L (+) forma.
-
-III. Az egészséges csecsemők és kisgyermekek számára készült feldolgozott gabonaalapú élelmiszerekben és bébiételekben engedélyezett adalékanyagok
-
-[^37]: Az 5. melléklet a 37/2010. (IV. 13.) FVM rendelet 5. § (2) bekezdése, a 77/2011. (VIII. 3.) VM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^37]: Az 5. melléklet a 37/2010. (IV. 13.) FVM rendelet 5. § (2) bekezdése, a 77/2011. (VIII. 3.) VM rendelet 2. § (1) bekezdése, a 141/2011. (XII. 23.) VM rendelet 7. §-a szerint módosított szöveg.
