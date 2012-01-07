@@ -2,7 +2,7 @@
 
 ## Általános rendelkezések
 
-## 1.[^48] A Tszt. 52. § (1) bekezdésében meghatározott Távhőszolgáltatási Közüzemi Szabályzat (a továbbiakban: TKSz) tartalmazza a távhőszolgáltató, a felhasználó és a díjfizető, továbbá a felhasználó képviselője és a díjfizető közötti közüzemi jogviszony általános szabályait.
+## 1.[^50] A Tszt. 52. § (1) bekezdésében meghatározott Távhőszolgáltatási Közüzemi Szabályzat (a továbbiakban: TKSz) tartalmazza a távhőszolgáltató, a felhasználó és a díjfizető, továbbá a felhasználó képviselője és a díjfizető közötti közüzemi jogviszony általános szabályait.
 
 ## 2.1. E szabályzat alkalmazásában:
 
@@ -34,7 +34,7 @@
 
 ## 2.1.4.2. épületrészenkénti mérés szerinti távhőszolgáltatás esetén a felhasználói vezeték-hálózaton elhelyezett hiteles hőmennyiségmérő felhasználó felőli oldala;
 
-## 2.1.5–2.1.6.[^49]
+## 2.1.5–2.1.6.[^51]
 
 ## 2.1.7. fűtési időszak: az év szeptember 15. napja és a következő év május 15. napja közötti időszak;
 
@@ -222,19 +222,19 @@
 
 ## 18.6. A 18.1–18.3. és 18.5. pontokban foglalt kötelezettség akkor terheli a távhőszolgáltatót, ha a felhasználó tulajdonában lévő felhasználói berendezés ezt lehetővé teszi, vagy a felhasználó a tulajdonában lévő felhasználói berendezés szükséges műszaki átalakítását biztosítja.
 
-## 18.7.[^50] A távhőszolgáltató köteles világos, közérthető módon a rendszeresen kibocsátott számlán vagy ahhoz csatoltan feltüntetni:
+## 18.7.[^52] A távhőszolgáltató köteles világos, közérthető módon a rendszeresen kibocsátott számlán vagy ahhoz csatoltan feltüntetni:
 
 ## 18.7.1. a távhő tényleges, aktuális értékesítési árát és az elszámolási időszakra vonatkozó nyitó és záró fogyasztásmérő-állásokkal együtt a tényleges energiafogyasztást,
 
 ## 18.7.2. a fogyasztó aktuális energiafogyasztásának és az előző év ugyanezen időszakában mért fogyasztásának az összehasonlítását.
 
-## 18.8.[^51] Ha a felhasználó, illetve a díjfizető a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől számított második naptól alkalmazhatók.
+## 18.8.[^53] Ha a felhasználó, illetve a díjfizető a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől számított második naptól alkalmazhatók.
 
 ## 19.1. Hőközponti mérés esetén a távhőszolgáltató a szolgáltatás díját a közüzemi szerződés rendelkezéseinek megfelelően a felhasználó vagy a díjfizetők részére számlázza.
 
-## 19.2.[^52] Abban az esetben, ha a felhasználó épületrészenkénti díjmegosztást igényel [Tszt. 44. § (1) bekezdés], a távhőszolgáltató köteles azt a felhasználó által az e rendelet 17/A–17/H. §-a alapján meghatározott, és a távhőszolgáltató részére megadott díjmegosztási arányoknak megfelelően végrehajtani.
+## 19.2.[^54] Abban az esetben, ha a felhasználó épületrészenkénti díjmegosztást igényel [Tszt. 44. § (1) bekezdés], a távhőszolgáltató köteles azt a felhasználó által az e rendelet 17/A–17/H. §-a alapján meghatározott, és a távhőszolgáltató részére megadott díjmegosztási arányoknak megfelelően végrehajtani.
 
-## 19.3–19.6.[^53]
+## 19.3–19.6.[^55]
 
 ## 20.1. Épületrészenkénti mérés esetén a távhőszolgáltató az épületrész távhőellátásának díját az egyes felhasználóknak, valamint a díjfizetőknek számlázza.
 
@@ -264,7 +264,7 @@
 
 ## 26.2. A Tszt. 11. §-ában, valamint az e szabályzatban meghatározott tájékoztatási kötelezettséget, valamint a számlázással kapcsolatos felvilágosítást a távhőszolgáltató az ügyfélszolgálati tevékenység keretében vagy – ahol a feltételek rendelkezésre állnak – elektronikus úton teljesíti. A távhőszolgáltató az ügyfélszolgálat munkarendjét úgy köteles meghatározni, hogy az a felhasználók és díjfizetők részére legalább heti egy alkalommal a szokásos munkaidőn túl is elérhető legyen.
 
-## 26.3.[^54] A távhőszolgáltató a 17/I. § szerinti honlapon, valamint a helyben szokásos módon köteles közzétenni:
+## 26.3.[^56] A távhőszolgáltató a 17/I. § szerinti honlapon, valamint a helyben szokásos módon köteles közzétenni:
 
 ## 26.3.1. az üzletszabályzatot;
 
@@ -280,7 +280,7 @@
 
 ## 26.3.7. jelen rendelet 4. mellékletében meghatározott információkat, (az egyes táblázatokat a 4. mellékletben meghatározott módon).
 
-## 26.3.8.[^55] a működési területén az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 9. §-a szerinti, az épületek energetikai jellemzőinek tanúsítását végzők, továbbá az energiaauditot, energetikai szolgáltatást végző, külön jogszabály alapján kijelölt vagy akkreditált szervezetek nyilvántartásának elérhetőségét, továbbá az energiahatékonyságot javító intézkedések, programok hozzáférhetőségét.
+## 26.3.8.[^57] a működési területén az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 9. §-a szerinti, az épületek energetikai jellemzőinek tanúsítását végzők, továbbá az energiaauditot, energetikai szolgáltatást végző, külön jogszabály alapján kijelölt vagy akkreditált szervezetek nyilvántartásának elérhetőségét, továbbá az energiahatékonyságot javító intézkedések, programok hozzáférhetőségét.
 
 ## 26.4. A felhasználók, illetve díjfizetők részére kiállított számlán fel kell tüntetni a távhőszolgáltató honlapjának elérhetőségi adatait, továbbá annak a hőközpontnak a honlapon szereplő azonosító adatait, melynél lehetőség van a felhasználó által igényelt távhő teljesítmény befolyásolására.
 
@@ -294,14 +294,14 @@
 
 4. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez
 
-Gazdálkodásra vonatkozó gazdasági és műszaki információk[^56]
+Gazdálkodásra vonatkozó gazdasági és műszaki információk[^58]
 
-[^48]: A Vhr. 3. számú melléklet 1. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^49]: A Vhr. 3. számú melléklet 2.1.5.–2.1.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^50]: A Vhr. 3. számú melléklet 18.7. pontját a 64/2009. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^51]: A Vhr. 3. melléklet 18.8. pontját a 116/2010. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
-[^52]: A Vhr. 3. számú melléklet 19.2. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^53]: A Vhr. 3. számú melléklet 19.3.–19.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^54]: A Vhr. 3. melléklet 26.3. pontja a 378/2011. (XII. 31.) Korm. rendelet 82. §-a szerint módosított szöveg.
-[^55]: A Vhr. 3. számú melléklet 26.3. pont 26.3.8. alpontját a 64/2009. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 414. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^56]: Megjegyzés: az I-XI. jelű táblázatok honlapon történő közzététele kötelező, a VII-XI. jelű táblázatok esetében oly módon, hogy biztosítani kell a hőközpontonkénti egyedi lekérdezés lehetőságét.
+[^50]: A Vhr. 3. számú melléklet 1. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^51]: A Vhr. 3. számú melléklet 2.1.5.–2.1.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^52]: A Vhr. 3. számú melléklet 18.7. pontját a 64/2009. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^53]: A Vhr. 3. melléklet 18.8. pontját a 116/2010. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
+[^54]: A Vhr. 3. számú melléklet 19.2. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^55]: A Vhr. 3. számú melléklet 19.3.–19.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^56]: A Vhr. 3. melléklet 26.3. pontja a 378/2011. (XII. 31.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^57]: A Vhr. 3. számú melléklet 26.3. pont 26.3.8. alpontját a 64/2009. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 414. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^58]: Megjegyzés: az I-XI. jelű táblázatok honlapon történő közzététele kötelező, a VII-XI. jelű táblázatok esetében oly módon, hogy biztosítani kell a hőközpontonkénti egyedi lekérdezés lehetőságét.

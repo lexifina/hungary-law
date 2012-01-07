@@ -1,5 +1,5 @@
-1. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^45]
+1. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^47]
 
 A hőtermelő létesítmények létesítési és a vezetékjog engedélyezési eljárásban kijelölt szakhatóságok
 
-[^45]: A Vhr. 1. melléklete a 351/2010. (XII. 30.) Korm. rendelet 137. §-ával megállapított szöveg.
+[^47]: A Vhr. 1. melléklete a 351/2010. (XII. 30.) Korm. rendelet 137. §-ával megállapított, és a 308/2011. (XII. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
