@@ -1,0 +1,1 @@
+3. § Ez a rendelet a nagysebességű transzeurópai vasúti rendszer energiaellátás alrendszerére vonatkozó kölcsönös átjárhatósági műszaki előírásokról szóló, 2008. március 6-i 2008/284/EK bizottsági határozat végrehajtását szolgálja.
