@@ -22,6 +22,6 @@
 
 ## 1 A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének feladatait a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel látja el.
 
-13. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^134]
+13. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^137]
 
-[^134]: A 13. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 23. §-a iktatta be.
+[^137]: A 13. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 23. §-a iktatta be.

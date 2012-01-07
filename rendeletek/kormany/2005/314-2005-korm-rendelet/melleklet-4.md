@@ -312,13 +312,13 @@
 
 | c) 500 m3 össztároló-kapacitástól védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
-| 97. | Szén, lignit önálló felszíni tárolója | a) 100 000 t össztároló-kapacitástól |
+| 97. | Szén, lignit önálló felszíni tárolója | a) | 100 000 t össztároló-kapacitástól |
 
-| b) külterületen lévő védett természeti területen méretmegkötés nélkül |
+| b) külterületen lévő védett természeti területen, Natura 2000 területen, barlang védőövezetén, vízbázis védőövezetén (amennyiben a tevékenység megkezdését vagy a létesítmény megvalósítását a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló Korm. rendelet nem tiltja) méretmegkötés nélkül |
 
-| 98. | Kőolaj-, kőolajtermék-tároló telep (amennyiben nem tartozik az 1. számú mellékletbe) | a) 100 000 t össztároló-kapacitástól |
+| 98. | Kőolaj-, kőolajtermék-tároló telep (amennyiben nem tartozik az 1. számú mellékletbe) | a) | 100 000 t össztároló-kapacitástól |
 
-| b) külterületen lévő védett természeti területen méretmegkötés nélkül |
+| b) külterületen lévő védett természeti területen, Natura 2000 területen, barlang védőövezetén, vízbázis védőövezetén (amennyiben a tevékenység megkezdését vagy a létesítmény megvalósítását a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló Korm. rendelet nem tiltja) méretmegkötés nélkül |
 
 | 99. | Vegyi termék tárolása (amennyiben nem tartozik az 1. számú mellékletbe) | a) 30 000 m3 össztároló-kapacitástól |
 

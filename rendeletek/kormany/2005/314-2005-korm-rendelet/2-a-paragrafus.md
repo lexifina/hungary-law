@@ -4,6 +4,8 @@
 
 (2) Jelentős környezeti hatás feltételezése esetén a felügyelőség szakhatósági állásfoglalásában, vagy a felügyelőség saját hatáskörébe tartozó engedélyezési eljárás során hozott, az eljárás felfüggesztéséről szóló végzésben – a 6. számú melléklet figyelembevételével – megállapítja a környezeti hatástanulmány tartalmi követelményeit.
 
+(2a)[^17] A környezeti hatástanulmányt az eljárás felfüggesztéséről szóló végzés jogerőre emelkedését követő három éven belül kell benyújtani.
+
 (3) Az (1) bekezdésben foglalt eljárást megelőző, előzetes szakhatósági állásfoglalás kérése esetén az ügyfél a 13. számú melléklet szerinti adatlapon túl – a (4) bekezdésben foglalt kivétellel – az engedélyezési eljáráshoz szükséges teljes engedélyezési tervdokumentációt vagy építészeti-műszaki dokumentációt és mellékleteket nyújtja be a felügyelőségnek.
 
 (4) A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet (a továbbiakban: Nkr.)
@@ -16,3 +18,4 @@ c) 8/E. §-ának (1a) bekezdése szerinti esetben
 
 [^15]: A 2/A. §-t megelőző alcímet a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be.
 [^16]: A 2/A. §-t a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be.
+[^17]: A 2/A. § (2a) bekezdését a 308/2011. (XII. 23.) Korm. rendelet 6. §-a iktatta be.

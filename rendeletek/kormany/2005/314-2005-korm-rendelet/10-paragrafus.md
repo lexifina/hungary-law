@@ -1,4 +1,4 @@
-10. § (1)[^51] A felügyelőség az érintett nyilvánosságtól, valamint a 12–15. §-ok szerint kapott, a környezeti hatás szempontjából lényeges észrevételeket a szakhatóságok bevonásával érdemben megvizsgálja. A felügyelőség határozatának indoklása tartalmazza az észrevételek értékelését és a nyilvánosság bevonásának folyamatáról szóló információt. Az észrevételek értékelése magában foglalja az észrevételek ténybeli megítélését, szakterületi elemzését és a jogi következtetéseket.
+10. § (1)[^52] A felügyelőség az érintett nyilvánosságtól, valamint a 12–15. §-ok szerint kapott, a környezeti hatás szempontjából lényeges észrevételeket a szakhatóságok bevonásával érdemben megvizsgálja. A felügyelőség határozatának indoklása tartalmazza az észrevételek értékelését és a nyilvánosság bevonásának folyamatáról szóló információt. Az észrevételek értékelése magában foglalja az észrevételek ténybeli megítélését, szakterületi elemzését és a jogi következtetéseket.
 
 (2) A felügyelőség az ügyben rendelkezésre álló összes adat alapján dönt, és határozattal
 
@@ -34,9 +34,9 @@ a) a Nemzeti Környezetvédelmi Programban [Kvt. 40. §] meghatározott környez
 
 vagy
 
-b)[^52] Magyarország nemzetközi szerződésben vállalt környezet- vagy természetvédelmi kötelezettségeinek teljesítését.
+b)[^53] Magyarország nemzetközi szerződésben vállalt környezet- vagy természetvédelmi kötelezettségeinek teljesítését.
 
 (8) A felügyelőség a környezetvédelmi engedélyt – hivatalból vagy kérelemre – módosíthatja, ha az engedélyezéskor fennálló feltételek megváltozása a korábban kiadott engedély visszavonását nem teszi szükségessé.
 
-[^51]: A 10. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^52]: A 10. § (7) bekezdés b) pontja a 322/2011. (XII. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^52]: A 10. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^53]: A 10. § (7) bekezdés b) pontja a 322/2011. (XII. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
