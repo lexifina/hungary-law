@@ -1,6 +1,6 @@
-## 8/A. §[^37] E rendeletnek a Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet módosításáról szóló 195/2011. (IX. 22.) Korm. rendelet (a továbbiakban: Korm. rendelet) 7. § (1) bekezdésével megállapított 1. mellékletének illetékességi területre vonatkozó rendelkezését a Korm. rendelet hatálybalépését[^38] követően indult vagy megismételt ügyekben kell alkalmazni.
+## 8/B. §[^39] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 308/2011. (XII. 23.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) megállapított rendelkezéseit a Mód. Kr2. hatálybalépését[^40] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-## 9. §[^39] Ez a rendelet
+## 9. §[^41] Ez a rendelet
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének,
 
@@ -8,6 +8,6 @@ b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgá
 
 c) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 3. cikkének
 
-[^37]: A 8/A. §-t a 195/2011. (IX. 22.) Korm. rendelet 5. §-a iktatta be.
-[^38]: A hatálybalépés időpontja 2011. október 7.
-[^39]: A 9. §-t a 82/2011. (V. 18.) Korm. rendelet 37. §-a iktatta be.
+[^39]: A 8/B. §-t a 308/2011. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^40]: A hatálybalépés időpontja 2012. január 7.
+[^41]: A 9. §-t a 82/2011. (V. 18.) Korm. rendelet 37. §-a iktatta be.

@@ -46,7 +46,15 @@
 
 | 8. | Az eljárás – a bányák föld alatti létesítményei kivételével – honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett létesítmény megvalósítására irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 9. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, továbbá, hogy biztosítható-e a felszíni és felszín alatti vizek védelmének, hasznosítási lehetőségei megőrzése, valamint a földtani közeg védelme. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 9. | 1. Ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. 2. Ha a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 1. § (3) bekezdésében foglalt vizsgálatra az eljárást megelőzően más hatósági eljárásban nem került sor, az alábbi létesítmények esetében: | 1. Minden esetben annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e; továbbá, hogy biztosítható-e a felszíni és felszín alatti vizek védelmének, hasznosítási lehetőségei megőrzése, valamint a földtani közeg védelme; valamint, hogy a keletkező hulladék elhelyezése, előkezelése, hasznosítása, ártalmatlanítása megfelel-e a hulladékgazdálkodási előírásoknak, merülnek-e fel olyan, a hulladékgazdálkodásból eredő környezeti kockázatok, amelyek mellett a hozzájárulást nem, vagy csak feltételekkel lehet megadni. 2. A 2. számú bevonási és közreműködési feltétel esetén annak elbírálása kérdésében, hogy a Khvr. 5. számú mellékletében foglalt követelmények alapján a tervezett létesítmény kapcsán jelentős környezeti hatások feltételezhetők-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+
+|  | a) geotermikus energiát kinyerő, hasznosító létesítmény nem ásvány-, gyógy- és ivóvízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen 20 MW villamos teljesítmény alatt, kivéve az egy ingatlant ellátó létesítményeket; |  |  |  |
+
+|  | b) külterületi földgáz elosztóvezeték 40 barra tervezett üzemi nyomás alatt; |  |  |  |
+
+|  | c) földgáz felszíni és felszín alatti tárolója és egyéb égethető gázok felszín alatti tárolója védett természeti területen, Natura 2000 területen 50–500 m3 össztároló-kapacitás között; nem védett természeti területen, nem Natura 2000 területen, egyéb éghető gázok (nem földgáz) esetén 50–10 000 m3 össztároló-kapacitás között; nem védett természeti területen, nem Natura 2000 területen, földgáz esetén 50–20 000 m3 össztároló-kapacitás között; |  |  |  |
+
+|  | d) mélyfúrás kiépített fúrólétesítménnyel nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen és nem barlang védőövezetén. |  |  |  |
 
 | 10. | Helyi jelentőségű védett természeti területen vagy arra közvetlen hatást gyakorló módon megvalósuló létesítmény esetében, és a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a létesítmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, a fővárosban a főjegyző | fővárosi, megyei kormányhivatal |
 
@@ -54,7 +62,7 @@
 
 | 12. | Az államhatártól számított 100 méteren belül épülő létesítmény esetében. | Annak elbírálása kérdésében, hogy a létesítmény a kérelemben foglaltak szerinti vagy további feltételek melletti megvalósítása esetén az államhatár rendje biztosított-e, a határrendsértések és határesemények megelőzhetők-e. | megyei, fővárosi rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^43]
+3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^45]
 
 |  | A | B | C | D | E | F | G | H | I | J |
 
@@ -120,4 +128,4 @@
 
 | 13. | Ha az eljárás régészeti lelőhelyet, régészeti védőövezet területét, műemléki területet vagy külön jogszabályban meghatározott esetekben műemléket érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély, vagy egységes környezet- használati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a kérelem a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi, megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal | IGEN | IGEN | NEM | IGEN | NEM | IGEN |
 
-[^43]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^45]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
