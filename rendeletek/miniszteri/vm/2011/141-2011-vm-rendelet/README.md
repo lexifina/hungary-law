@@ -1,0 +1,9 @@
+# 141/2011. (XII. 23.) VM rendelet
+
+a bizonyos nem állati eredetű élelmiszerek és takarmányok behozataláról és fokozott hatósági ellenőrzéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-141-20-2Y
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-01-07 | 2011-141-20-2Y.1 | 141/2011. (XII. 23.) VM rendelet |
