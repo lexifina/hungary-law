@@ -22,11 +22,11 @@ c) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a ny
 
 (6)[^102] Az engedély nélkül vagy attól eltérően megvalósított vízilétesítményekkel, vízimunkákkal kapcsolatos, a 15. § (5) bekezdésében meghatározott bírságra vonatkozó rendelkezések csak a rendelet hatálybalépését követően megvalósított létesítmények esetén alkalmazhatóak.
 
-(7)[^103]
+(7)[^103] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 308/2011. (XII. 23.) Korm. rendelettel (a továbbiakban: Mód Kr.2.) megállapított rendelkezéseit a Mód Kr.2. hatálybalépését[^104] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-(8)[^104] E rendelet 3. § (12) bekezdésében foglaltakat a hatálybalépését követően indult eljárásokban kell alkalmazni. A folyamatban levő első és másodfokú eljárásokban a jegyző, illetve a felettes szerv jár el.
+(8)[^105] E rendelet 3. § (12) bekezdésében foglaltakat a hatálybalépését követően indult eljárásokban kell alkalmazni. A folyamatban levő első és másodfokú eljárásokban a jegyző, illetve a felettes szerv jár el.
 
-(9)[^105]
+(9)[^106]
 
 [^96]: A 26. §-t és az azt megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^97]: A 27. § (1) bekezdése a 228/2005. (X. 13.) Korm. rendelet 7. §-ával megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 73. pontja, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (10) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
@@ -35,6 +35,7 @@ c) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a ny
 [^100]: A 27. § (4) bekezdését újonnan a 82/2011. (V. 18.) Korm. rendelet 5. §-a iktatta be.
 [^101]: A 27. § (5) bekezdését újonnan a 82/2011. (V. 18.) Korm. rendelet 5. §-a iktatta be.
 [^102]: A 27. § eredeti (5) bekezdésének számozását a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja (6) bekezdésre változtatta.
-[^103]: A 27. § eredeti (6) bekezdésének számozását a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja (7) bekezdésre változtatta, hatályon kívül helyezte a 377/2007. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének b) pontja.
-[^104]: A 27. § (8) bekezdését a 205/2001. (X. 26.) Korm. rendelet 13. §-a iktatta a szövegbe.
-[^105]: A 27. § (9) bekezdését a 205/2001. (X. 26.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 1385. pontja.
+[^103]: A 27. § eredeti (6) bekezdésének számozását a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének g) pontja (7) bekezdésre változtatta, újonnan a 308/2011. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^104]: A hatálybalépés időpontja 2012. január 7.
+[^105]: A 27. § (8) bekezdését a 205/2001. (X. 26.) Korm. rendelet 13. §-a iktatta a szövegbe.
+[^106]: A 27. § (9) bekezdését a 205/2001. (X. 26.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 1385. pontja.

@@ -40,11 +40,11 @@
 
 ## – az előbbi kategóriákba be nem sorolható vízilétesítmények és vízhasználatok.
 
-2. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^107]
+2. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^108]
 
 ## A környezeti hatások jelentősége szempontjából vizsgálandó tevékenységek, létesítmények
 
-1. Mezőgazdasági és egyéb, a TEÁOR alapján nem a mezőgazdasági vízrendezés alá tartozó, nem belterületen megvalósított vízrendezés
+1.[^109] Mezőgazdasági és egyéb, a TEÁOR alapján nem a mezőgazdasági vízrendezés alá tartozó, külterületen megvalósított vízrendezés
 
 2. Öntözőtelep
 
@@ -72,4 +72,5 @@
 
 14. Vízfolyásrendezés, kivéve az eredeti vízelvezető-képesség helyreállítására irányuló, fenntartási célú iszapeltávolítást és rézsűrendezést
 
-[^107]: A 2. mellékletet a 82/2011. (V. 18.) Korm. rendelet 6. §-a iktatta be, egyidejűleg az eredeti Melléklet megjelölését 1. mellékletre változtatta.
+[^108]: A 2. mellékletet a 82/2011. (V. 18.) Korm. rendelet 6. §-a iktatta be, egyidejűleg az eredeti Melléklet megjelölését 1. mellékletre változtatta.
+[^109]: A 2. melléklet 1. pontja a 308/2011. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.

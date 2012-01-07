@@ -6,7 +6,7 @@
 
 (3)[^15] Nem szükséges a (2) bekezdés szerinti személy hozzájárulása, ha a közcélú vízilétesítmény elhelyezéséhez a vízügyi hatóság külön jogszabály, valamint e rendelet 6. § (1) bekezdése szerint vízvezetési szolgalmat alapított.
 
-(4)[^16] A kérelem elbírálása során vizsgálni kell azt, hogy a tervezett vízimunka, a vízilétesítmény – tekintettel az annak gyakorlásával, illetve elhelyezésével érintett és vízgazdálkodási szempontból összefüggő térségre – mennyiben felel meg a vízjogi engedély megadására vonatkozó feltételeknek, valamint ha a vízimunka, a vízilétesítmény a 2. mellékletben szerepel, akkor azt is, hogy a tevékenység alapján jelentős környezeti hatások feltételezhetők-e.
+(4)[^16] A kérelem elbírálása során vizsgálni kell azt, hogy a tervezett vízimunka, a vízilétesítmény – tekintettel az annak gyakorlásával, illetve elhelyezésével érintett és vízgazdálkodási szempontból összefüggő térségre – mennyiben felel meg a vízjogi engedély megadására vonatkozó feltételeknek, valamint ha a környezeti hatások jelentőségének vizsgálatára az elvi vízjogi engedélyezési eljárás során nem került sor és a vízimunka, a vízilétesítmény a 2. mellékletben szerepel, akkor azt is, hogy a tevékenység alapján jelentős környezeti hatások feltételezhetők-e.
 
 (5)[^17] Vízkészlet hasznosítására vízjogi létesítési engedély csak akkor adható, ha ezzel egyidejűleg a hasznosítással összefüggésben keletkezett szennyvíz, továbbá a csapadékvíz összegyűjtéséről, elvezetéséről, kezeléséről és a környezetvédelmi előírásoknak megfelelő elhelyezéséről is gondoskodtak, illetve az erre vonatkozó műszaki megoldás a kérelem és a kiadott létesítési engedély részét képezi, továbbá, ha a kérelemben foglaltak kielégítik a külön jogszabály szerinti igénybevételi, kibocsátási és szennyezettségi határértékekre vonatkozó előírásokat.[^18]
 
@@ -36,7 +36,7 @@ c) az a) és b) pontban meghatározott létesítményeken túl minden olyan egy�
 [^13]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^14]: 1959. évi IV. törvény (Ptk.) 97. §.
 [^15]: A 3. § új (3) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (3)–(6) bekezdés számozását (4)–(7) bekezdésre változtatva. A 3. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^16]: A 3. § eredeti (3) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (4) bekezdésre változtatta. A 3. § (4) bekezdése a 82/2011. (V. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^16]: A 3. § eredeti (3) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (4) bekezdésre változtatta. A 3. § (4) bekezdése a 308/2011. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^17]: A 3. § eredeti (4) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (5) bekezdésre változtatta.
 [^18]: 1995. évi LVII. törvény 14. § (4) bek.
 [^19]: A 3. § eredeti (5) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (6) bekezdésre változtatta.
