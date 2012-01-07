@@ -32,123 +32,129 @@
 
 | 8.8. | Ha az építési tevékenység, illetve az építményben folytatott tevékenység nem környezeti hatásvizsgálat, vagy nem egységes környezethasználati engedély köteles, és az építmény a kistérségi székhely település jegyzőjének hatáskörében nem tartozó légszennyező anyag kibocsátással üzemel. | Jogszabályban foglalt követelmények alapján annak elbírálása, hogy az építménybe tervezett tevékenység megfelel-e az elérhető legjobb technika alapján meghatározott levegővédelmi követelményeknek és előírásoknak, valamint a védelmi övezet kijelölési szabályainak. | a) elvi építési engedély, b) építési engedély, c) összevont építésügyi hatósági engedély, d) bontási engedély, e) használatbavételi engedély, f) fennmaradási engedély | környezet- védelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezet- védelmi, Természet- védelmi és Vízügyi Főfelügyelőség |
 
-| 8.9. | A következő építmények építése, bővítése, átalakítása esetén, amennyiben a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvkr.) 1. § (3) bekezdésében foglalt vizsgálatra az eljárást megelőzően más hatósági eljárásban nem került sor: | A Khvkr. 5. számú mellékletében foglalt követelmények alapján annak elbírálása, hogy az építési tevékenység és az építményben folytatott tevékenység alapján jelentős környezeti hatások feltételezhetők-e | a) elvi építési engedély, b) építési engedély, c) összevont építésügyi hatósági engedély | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezet- védelmi, Természet- védelmi és Vízügyi Főfelügyelőség |
+| 8.9. | A következő építmények építése, bővítése, átalakítása esetén, amennyiben a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvkr.) 1. § (3) bekezdésében foglalt vizsgálatra az eljárást megelőzően más hatósági eljárásban nem került sor: 1. intenzív állattartó telep vízbázis védőövezetén, védett természeti területen, Natura 2000 területen, barlang védőövezetén baromfi esetén 10 számosállat alatt, egyéb állat esetén 50 számosállat alatt; | Annak elbírálása kérdésében, hogy a Khvkr. 5. számú mellékletében foglalt követelmények alapján az építési tevékenység és az építményben folytatott tevékenység alapján jelentős környezeti hatások feltételezhetők-e. | a) elvi építési engedély, b) építési engedély, c) összevont építésügyi hatósági engedély | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezet- védelmi, Természet- védelmi és Vízügyi Főfelügyelőség |
 
-| 1. Intenzív állattartó telep |
+|  | nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén: |  |  |  |  |
 
-| vízbázis védőövezetén, védett természeti területen, Natura 2000 területen, barlang védőövezetén baromfi esetén 10 számosállat alatt, egyéb állat esetén 50 számosállat alatt; |
+|  | a) broilerek számára 100 számosállat alatt, |  |  |  |  |
 
-| nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén: |
+|  | b) tojók számára 200 számosállat alatt, |  |  |  |  |
 
-| – broilerek számára 100 számosállat alatt, |
+|  | c) sertéshízók számára 500 számosállat alatt, |  |  |  |  |
 
-| – tojók számára 200 számosállat alatt, |
+|  | d) sertéskocák számára 150 számosállat alatt, |  |  |  |  |
 
-| – sertéshízók számára 500 számosállat alatt, |
+|  | e) egyéb állatok számára hígtrágyás technológia alkalmazása esetén 200 számosállat alatt; |  |  |  |  |
 
-| – sertéskocák számára 150 számosállat alatt, |
+|  | 2. húsfeldolgozó üzem 10 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| – egyéb állatok számára hígtrágyás technológia alkalmazása esetén 200 számosállat alatt; |
+|  | 3. önállóan létesített vágóhíd 25 t/nap vágottsúly-kapacitás alatt; |  |  |  |  |
 
-| 2. Húsfeldolgozó üzem 10 ezer t/év késztermék előállítása alatt; |
+|  | 4. halfeldolgozó üzem 10 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 3. Önállóan létesített vágóhíd 25 t/nap vágottsúly-kapacitás alatt; |
+|  | 5. gyümölcs-, zöldségfeldolgozó üzem 40 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 4. Halfeldolgozó üzem 10 ezer t/év késztermék előállítása alatt; |
+|  | 6. növényi-, állatiolaj-gyártó üzem 40 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 5. Gyümölcs-, zöldségfeldolgozó üzem 40 ezer t/év késztermék előállítása alatt; |
+|  | 7. tejtermék-gyártó üzem 200 t/nap beérkezett tejmennyiség alatt; |  |  |  |  |
 
-| 6. Növényi-, állatiolaj-gyártó üzem 40 ezer t/év késztermék előállítása alatt; |
+|  | 8. keményítőgyártó üzem 100 t/nap késztermék előállítása alatt; |  |  |  |  |
 
-| 7. Tejtermék gyártó üzem 200 t/nap beérkezett tejmennyiség alatt; |
+|  | 9. cukorgyár 5 ezer t/nap répafeldolgozó-kapacitás alatt; |  |  |  |  |
 
-| 8. Keményítőgyártó üzem 100 t/nap késztermék előállítása alatt; |
+|  | 10. édességgyártó üzem 10 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 9. Cukorgyár 5 ezer t/nap répafeldolgozó-kapacitás alatt; |
+|  | 11. sörgyár 30 millió l/év kapacitás alatt; |  |  |  |  |
 
-| 10. Édességgyártó üzem 10 ezer t/év késztermék előállítása alatt; |
+|  | 12. malátagyártó üzem 25 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 11. Sörgyár 30 millió l/év kapacitás alatt; |
+|  | 13. egyéb élelmiszergyártó üzem 40 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 12. Malátagyártó üzem 25 ezer t/év késztermék előállítása alatt; |
+|  | 14. textilkikészítő üzem (előkezelés, festés, nyomás, vegyi kezelés) 10 t/nap textil kikészítése alatt; |  |  |  |  |
 
-| 13. Egyéb élelmiszergyártó üzem 40 ezer t/év késztermék előállítása alatt; |
+|  | 15. nyersbőrcserző üzem 12 t/nap kikészített bőr előállítása alatt; |  |  |  |  |
 
-| 14. Textilkikészítő üzem (előkezelés, festés, nyomás, vegyi kezelés) 10 t/nap textil kikészítése alatt; |
+|  | 16. papír- és kartongyártó üzem 20 t/nap késztermék gyártása alatt; |  |  |  |  |
 
-| 15. Nyersbőrcserző üzem 12 t/nap kikészített bőr előállítása alatt; |
+|  | 17. kőolajból kenőanyagot előállító üzem 15 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 16. Papír- és kartongyártó üzem 20 t/nap késztermék gyártása alatt; |
+|  | 18. vegyi anyagot (kivéve a peroxidokat) előállító üzem 20 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 17. Kőolajból kenőanyagot előállító üzem 15 ezer t/év késztermék előállítása alatt; |
+|  | 19. peroxidokat gyártó üzem 1000 t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 18. Vegyi anyagot (kivéve a peroxidokat) előállító üzem 20 ezer t/év késztermék előállítása alatt; |
+|  | 20. műtrágyagyártó üzem 20 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 19. Peroxidokat gyártó üzem 1000 t/év késztermék előállítása alatt; |
+|  | 21. peszticidet és más növényvédő- és gyomirtószereket gyártó, formáló és kiszerelő üzem 20 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 20. Műtrágyagyártó üzem 20 ezer t/év késztermék előállítása alatt; |
+|  | 22. lakk- és festékgyártó üzem 20 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 21. Peszticidet és más növényvédő- és gyomirtószereket gyártó, formáló és kiszerelő üzem 20 ezer t/év késztermék előállítása alatt; |
+|  | 23. gyógyszerkészítmény- gyártó üzem 20 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 22. Lakk- és festékgyártó üzem 20 ezer t/év késztermék előállítása alatt; |
+|  | 24. mosó- és tisztítószergyártó üzem 20 ezer t/év késztermék előállítása alatt; |  |  |  |  |
 
-| 23. Gyógyszerkészítmény-gyártó üzem 20 ezer t/év késztermék előállítása alatt; |
+|  | 25. szénszálgyártó üzem 20 t/nap késztermék előállítása alatt; |  |  |  |  |
 
-| 24. Mosó- és tisztítószergyártó üzem 20 ezer t/év késztermék előállítása alatt; |
+|  | 26. 10%-nál több oldószert tartalmazó gumioldatot készítő és felhasználó üzem 5 ezer t/év gumioldat alatt; |  |  |  |  |
 
-| 25. Szénszálgyártó üzem 20 t/nap késztermék előállítása alatt; |
+|  | 27. gumikeverék-gyártó vagy -feldolgozó üzem 20 ezer t/év gumikeverék előállítása vagy feldolgozása alatt; |  |  |  |  |
 
-| 26. 10%-nál több oldószert tartalmazó gumioldatot készítő és felhasználó üzem 5 ezer t/év gumioldat alatt; |
+|  | 28. üveg- és üvegszálgyártó üzem 20 t/nap olvasztókapacitás alatt; |  |  |  |  |
 
-| 27. Gumikeverék-gyártó vagy -feldolgozó üzem 20 ezer t/év gumikeverék előállítása vagy feldolgozása alatt; |
+|  | 29. kerámiatermék, kerámiacsempe és -lap-, égetettagyagépítőanyag- gyártó üzem 75 t/nap gyártási kapacitás alatt, illetve ahol a kemence térfogata a 4 m3-t, és abban az árusűrűség a 300 kg/m3-t nem haladja meg; |  |  |  |  |
 
-| 28. Üveg- és üvegszálgyártó üzem 20 t/nap olvasztókapacitás alatt; |
+|  | 30. ásványi anyagokat olvasztó üzem, beleértve az ásványi szál gyártását is 20 t/nap olvasztó-kapacitás alatt; |  |  |  |  |
 
-| 29. Kerámiatermék, kerámiacsempe és -lap-, égetettagyagépítőanyag-gyártó üzem 75 t/nap gyártási kapacitás alatt, illetve ahol a kemence térfogata a 4 m3-t, és abban az árusűrűség a 300 kg/m3-t nem haladja meg; |
+|  | 31. vas és acél (elsődleges vagy másodlagos) olvasztására szolgáló üzem, beleértve a folyamatos öntést 2,5 t/óra kapacitás alatt; |  |  |  |  |
 
-| 30. Ásványi anyagokat olvasztó üzem, beleértve az ásványi szál gyártását is 20 t/nap olvasztókapacitás alatt; |
+|  | 32. meleghengermű – 20 t/óra nyersacél feldolgozás alatt – üzemeltetésére szolgáló építmény; |  |  |  |  |
 
-| 31. Vas és acél (elsődleges vagy másodlagos) olvasztására szolgáló üzem, beleértve a folyamatos öntést 2,5 tonna/óra kapacitás alatt; |
+|  | 33. kovácsoló üzem 50 kJ/kalapács energiafogyasztás alatt vagy 20 MW hőteljesítmény-felvétel alatt; |  |  |  |  |
 
-| 32. Bevonatolt termékeket gyártó üzem 2 t/óra nyersacélfeldolgozó-kapacitás alatt; |
+|  | 34. nemvas fémeket olvasztó, ötvöző, visszanyerő, finomító üzem 2 t/nap kapacitás alatt; |  |  |  |  |
 
-| 33. Fémeket és műanyagokat elektrolitikus vagy kémiai folyamatokkal felületkezelő üzem 20 ezer m2/év felület kezelése alatt, vagy ahol az összes kezelőkád térfogata a 30 m3 alatt van; |
+|  | 35. vas- és acélöntöde 20 t/nap termelési kapacitás alatt; |  |  |  |  |
 
-| 34. Közútigépjármű-gyártó (gyártás, összeszerelés, motorgyártás) üzem 5000 db/év késztermék előállítása alatt; |
+|  | 36. bevonatolt termékeket gyártó üzem 2 t/óra nyersacélfeldolgozó- kapacitás alatt; |  |  |  |  |
 
-| 35. Közútigépjármű-javító telep 5–20 db egy időben javítható gépjárműszám között; |
+|  | 37. fémeket és műanyagokat elektrolitikus vagy kémiai folyamatokkal felületkezelő üzem 20 ezer m2/év felület kezelése alatt, vagy ahol az összes kezelőkád térfogata a 30 m3 alatt van; |  |  |  |  |
 
-| 36. Bevásárlóközpont a parkoló területe nélkül számított 3000 m2–10 000 m2 nettó összterület szint között vagy 100–300 parkolóhelyig; |
+|  | 38. közútigépjármű-gyártó (gyártás, összeszerelés, motorgyártás) üzem 5000 db/év késztermék előállítása alatt; |  |  |  |  |
 
-| 37. Mező-, erdő-, vízgazdálkodási célra használt területen szálláshely-szolgáltató épület vagy épületegyüttes (a kapcsolódó létesítményekkel együtt) település külterületén lévő védett természeti területen, Natura 2000 területen, barlang védőövezetén 50 szálláshely alatt vagy 0,5 ha területfoglalás alatt; nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 500 szálláshely alatt vagy 3 ha terület felhasználása alatt; |
+|  | 39. közútigépjármű-javító telep 5–20 db egy időben javítható gépjármű szám között; |  |  |  |  |
 
-| 38. Kemping megvalósítását szolgáló építmény védett természeti területen, Natura 2000 területen vagy barlang védőövezetén 50 sátor-, illetve lakókocsi, lakóautó hely alatt; |
+|  | 40. bevásárlóközpont a parkoló területe nélkül számított 3000–10 000 m2 nettó összterület szint között vagy 100–300 parkolóhely között; |  |  |  |  |
 
-| 39. Autóbusz-pályaudvar vagy -garázs önálló kialakításnál 20 (induló és érkező) gépkocsiállás alatt; |
+|  | 41. mező-, erdő-, vízgazdálkodási célra használt területen szálláshely-szolgáltató épület vagy épületegyüttes (a kapcsolódó létesítményekkel együtt) település külterületén lévő védett természeti területen, Natura 2000 területen, barlang védőövezetén 50 szálláshely alatt vagy 0,5 ha területfoglalás alatt; nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 500 szálláshely alatt vagy 3 ha terület felhasználása alatt; |  |  |  |  |
 
-| 40. Szén, lignit önálló felszíni tárolását szolgáló építmény nem védett természeti területen 1000–100 000 t össztároló-kapacitás között; |
+|  | 42. kemping megvalósítását szolgáló építmény védett természeti területen, Natura 2000 területen vagy barlang védőövezetén 50 sátor-, illetve lakókocsi, lakóautó hely alatt; |  |  |  |  |
 
-| 41. Nemveszélyeshulladék-lerakó építmény nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén napi 10 t hulladéklerakás alatt vagy 25 000 t teljes befogadókapacitás alatt; |
+|  | 43. autóbusz-pályaudvar vagy -garázs önálló kialakításnál 20 (induló és érkező) gépkocsiállás alatt; |  |  |  |  |
 
-| 42. Nem veszélyes hulladékot égetéssel, kémiai kezeléssel, biológiai kezeléssel ártalmatlanító építmény nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 10 t/nap kapacitás alatt; |
+|  | 44. szén, lignit önálló felszíni tárolását szolgáló építmény nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén és nem vízbázis védőövezetén 1000–100 000 t össztároló-kapacitás között; |  |  |  |  |
 
-| 43. Nemveszélyeshulladék-hasznosító építmény nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 10 t/nap kapacitás alatt; |
+|  | 45. vegyitermék tárolását szolgáló építmény nem védett természeti területen 300–30 000 m3 össztároló-kapacitás között; |  |  |  |  |
 
-| 44. Fémhulladék-gyűjtő, -feldolgozó és – újrahasznosító telep (beleértve az autóroncs telepeket) nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 5 t/nap kapacitás alatt; |
+|  | 46. nemveszélyeshulladék- lerakó építmény nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén napi 10 t hulladéklerakás alatt vagy 25 000 t teljes befogadó-kapacitás alatt; |  |  |  |  |
 
-| 45. Veszélyeshulladék-tároló és/vagy -hasznosító építmény nem önálló telepként (listán nem szereplő, más tevékenység részeként) 2 ezer t/év kapacitás alatt; |
+|  | 47. nem veszélyes hulladékot égetéssel, kémiai kezeléssel, biológiai kezeléssel ártalmatlanító építmény nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 10 t/nap kapacitás alatt; |  |  |  |  |
 
-| 46. Stadion, sportcsarnok vízbázis védőövezetén, védett természeti területen, Natura 2000 területen, barlang védőövezetén 500 fő befogadóképesség alatt, 0,5 ha területfoglalástól; nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 1500 fő befogadó képesség alatt, 0,5 ha területfoglalástól; |
+|  | 48. nemveszélyeshulladék- hasznosító építmény nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 10 t/nap kapacitás alatt; |  |  |  |  |
 
-| 47. Szabadidő eltöltésére szolgáló állandó szabadtéri építmények védett természeti területen, Natura 2000 területen, barlang védőövezetén 1 ha alatt; nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 5000 fő egyidejű befogadóképesség alatt, vagy 3 ha területfoglalás alatt vagy 300 db parkolóhely alatt; |
+|  | 49. fémhulladék-gyűjtő, -feldolgozó és -újrahasznosító telep (beleértve az autóroncs telepeket) nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 5 t/nap kapacitás alatt; |  |  |  |  |
 
-| 48. Golfpálya nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 18-nál kevesebb lyukú pálya esetén; |
+|  | 50. veszélyeshulladék- tároló vagy -hasznosító építmény nem önálló telepként (listán nem szereplő, más tevékenység részeként) 2 ezer t/év kapacitás alatt; |  |  |  |  |
 
-| 49. Szabadtéri építmény motorok, turbinák és reaktív motorok próbapadon történő vizsgálatához 500 kN tolóerő alatt vagy 10 MW egyidejű kapacitás alatt, legalább 300 kW motorteljesítménytől; |
+|  | 51. stadion, sportcsarnok vízbázis védőövezetén, védett természeti területen, Natura 2000 területen, barlang védőövezetén 500 fő befogadóképesség alatt, 0,5 ha területfoglalástól; nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 1500 fő befogadó képesség alatt, 0,5 ha területfoglalástól; |  |  |  |  |
 
-| 50. Más célra használt területen ipari, raktározási célú építmények elhelyezésére szolgáló terület kialakítása (műszaki infrastruktúrával való ellátása) védetttermészeti területen, vízbázis védőövezetén, Natura 2000 területen, barlang védőövezetén 0,5 ha alatt; nem természeti területen, nem vízbázis védőövezetén, nem Natura 2000 területen, nem barlang védőövezetén 0,5–3 ha között; |
+|  | 52. szabadidő eltöltésére szolgáló állandó szabadtéri építmények védett természeti területen, Natura 2000 területen, barlang védőövezetén 1 ha alatt; nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 5000 fő egyidejű befogadó-képesség alatt, vagy 3 ha területfoglalás alatt vagy 300 db parkolóhely alatt; |  |  |  |  |
 
-| 51. Egyéb építmény, amely a Khvkr. 3. számú mellékletében meghatározott tevékenység megkezdését vagy folytatását szolgálja. |
+|  | 53. golfpálya nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 18-nál kevesebb lyukú pálya esetén; |  |  |  |  |
+
+|  | 54. szabadtéri építmény motorok, turbinák és reaktív motorok próbapadon történő vizsgálatához 500 kN tolóerő alatt vagy 10 MW egyidejű kapacitás alatt, legalább 300 kW motorteljesítménytől; |  |  |  |  |
+
+|  | 55. más célra használt területen ipari, raktározási célú építmények elhelyezésére szolgáló terület kialakítása (műszaki infrastruktúrával való ellátása) védett természeti területen, vízbázis védőövezetén, Natura 2000 területen, barlang védőövezetén 0,5 ha alatt; nem természeti területen, nem vízbázis védőövezetén, nem Natura 2000 területen, nem barlang védőövezetén 0,5–3 ha között; |  |  |  |  |
+
+|  | 56. egyéb építmény, amely a Khvkr. 3. számú mellékletében meghatározott tevékenység megkezdését vagy folytatását szolgálja, védett természeti területen, Natura 2000 területen, barlang védőövezetén 0,5 ha és 1 ha területfoglalás között, vagy 10 és 50 parkolóhely között; nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 0,5 ha és 3 ha területfoglalás között, vagy 100 és 300 parkolóhely között. |  |  |  |  |
 
 | 9. | Ha az építési tevékenység a) külterületi ingatlanon elhelyezkedő bányászati vagy gázipari létesítmény biztonsági övezetében, vagy bányászati tevékenységgel érintett területen valósul meg; b) felszínmozgás- veszélyes területen valósul meg; c) 300 m2-nél nagyobb alapterületű, bányászati módszerekkel kialakított föld alatti térségekkel rendelkező területet érint; d) belterületen gázipari tevékenységgel kapcsolatos létesítmény biztonsági övezetében valósul meg, és az építtető a gázipari létesítmény üzemeltetőjének a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet 19/A. § (10) bekezdése szerinti nyilatkozatában foglalt feltételeket vagy az egyetértés megtagadását sérelmesnek tartja. | Az a)–c) pontok esetében annak elbírálása, hogy az építés a kérelemben foglaltak szerint vagy további feltételek mellett műszaki biztonsági és építésföldtani szempontból engedélyezhető-e. A d) pont esetében annak elbírálása, hogy a gázipari tevékenységgel kapcsolatos létesítmény üzemeltetőjének nyilatkozata vagy az egyetértés megtagadása jogszabályi rendelkezéseknek megfelel-e. | a) elvi építési engedély, b) építési engedély, c) összevont építésügyi hatósági engedély, d) használatbavételi engedély, e) fennmaradási engedély. | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -198,6 +204,6 @@
 
 ## * Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
 
-6. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^80]
+6. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^82]
 
-[^80]: A 6. mellékletet a 46. § (2) bekezdése hatályon kívül helyezte.
+[^82]: A 6. mellékletet a 46. § (2) bekezdése hatályon kívül helyezte.

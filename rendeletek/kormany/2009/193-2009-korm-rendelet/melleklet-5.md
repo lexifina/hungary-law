@@ -26,6 +26,6 @@
 
 ## A fenti esetekben a közútkezelő hozzájárulását is csatolni szükséges.
 
-5. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^79]
+5. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^81]
 
-[^79]: Az 5. melléklet a 351/2010. (XII. 30.) Korm. rendelet 253. §-ával megállapított és a 23/2011. (III. 8.) Korm. rendelet 19. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 25. §-a, a 82/2011. (V. 18.) Korm. rendelet 49. §-a, a 251/2011. (XII. 1.) Korm. rendelet 24. §-a szerint módosított szöveg. [A 175/2011. (VIII. 31.) Korm. rendelet 16. § (3) bekezdésével elrendelt módosítás, amely szerint az 5. melléklet 13. pont a) alpontjában a „Nemzeti Közlekedési Hatóság Központja Útügyi, Vasúti és Hajózási Hivatala” szövegrész helyébe a „Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala” szöveg, a „Nemzeti Közlekedési Hatóság” szövegrész helyébe a „Nemzeti Közlekedési Hatóság Központja” szöveg lép, nem vezethető át.]
+[^81]: Az 5. melléklet a 351/2010. (XII. 30.) Korm. rendelet 253. §-ával megállapított és a 23/2011. (III. 8.) Korm. rendelet 19. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 25. §-a, a 82/2011. (V. 18.) Korm. rendelet 49. §-a, a 251/2011. (XII. 1.) Korm. rendelet 24. §-a, a 308/2011. (XII. 23.) Korm. rendelet 12. §–a szerint módosított szöveg. [A 175/2011. (VIII. 31.) Korm. rendelet 16. § (3) bekezdésével elrendelt módosítás, amely szerint az 5. melléklet 13. pont a) alpontjában a „Nemzeti Közlekedési Hatóság Központja Útügyi, Vasúti és Hajózási Hivatala” szövegrész helyébe a „Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala” szöveg, a „Nemzeti Közlekedési Hatóság” szövegrész helyébe a „Nemzeti Közlekedési Hatóság Központja” szöveg lép, nem vezethető át.]
