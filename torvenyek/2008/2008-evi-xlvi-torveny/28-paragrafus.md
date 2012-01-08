@@ -20,4 +20,6 @@ h) gondoskodik az Állat-egészségügyi és Állatvédelmi Kódex összeállít
 
 i) gondoskodik a Növényvédelmi Módszertani Gyűjtemény összeállításáról és közzétételéről;
 
-j) meghatározza a nemzetközi kötelezettségekkel, valamint az ország agrárgazdaságának céljaival összhangban az élelmiszerlánc-ellenőrzés feladatait.
+j) meghatározza a nemzetközi kötelezettségekkel, valamint az ország agrárgazdaságának céljaival összhangban az élelmiszerlánc-ellenőrzés feladatait;
+
+k) kinevezi, illetve felmenti a közvetlen irányítása alá tartozó országos főállatorvost és annak helyettesét.

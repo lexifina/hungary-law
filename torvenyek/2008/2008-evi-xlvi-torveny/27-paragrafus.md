@@ -6,7 +6,9 @@ b) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző laborató
 
 c) az élelmiszerlánc-biztonsági tudományos szerv,
 
-d) az élelmiszerlánc-felügyeleti szerv.
+d) az élelmiszerlánc-felügyeleti szerv,
+
+e) az országos főállatorvos.
 
 (2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak elvégzésére kormányrendelet feljogosíthatja a magánállatorvost.
 

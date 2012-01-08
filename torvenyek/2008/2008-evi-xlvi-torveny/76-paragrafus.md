@@ -100,7 +100,9 @@ g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásána
 
 41. az élelmiszerlánc területén alkalmazott iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait;
 
-42. az élelmiszerek ionizáló energiával való kezelésének feltételeit és szabályait.
+42. az élelmiszerek ionizáló energiával való kezelésének feltételeit és szabályait;
+
+43. a felügyeleti díj bevallásának és megfizetésének részletes szabályait.
 
 (3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
