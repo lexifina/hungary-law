@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2007-86-00-00.25 |
 | 2011-12-28 | 2011. évi CLXXXV. törvény | 2007-86-00-00.26 |
 | 2012-01-01 | 2011. évi CLXXXII. törvény | 2007-86-00-00.27 |
+| 2012-01-08 | 2011. évi CLXVI. törvény | 2007-86-00-00.28 |
