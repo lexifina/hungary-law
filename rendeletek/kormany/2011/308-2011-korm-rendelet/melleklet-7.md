@@ -1,21 +1,3 @@
-## Az Mkekr. 5. melléklet 5. pont 3. sora helyébe a következő rendelkezés lép:
+7. melléklet a 308/2011. (XII. 23.) Korm. rendelethez[^14]
 
-|  | [Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban | Elvi építési engedélyezési eljárás, építési engedélyezési eljárás (saját és idegen ingatlanon) | Üzemeltetési engedélyezési eljárás, használatba-vételi engedélyezési eljárás | Fennmaradási engedélyezési eljárás | Megszüntetési eljárás | Egyszerűsített eljárás] |
-
-|  | „1. Ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, erőmű engedélyezési eljárásban, valamint önállóan vagy vezetékjogi engedélyezési eljárás részeként belterületen vagy annak határától számított 100 méteren belül létesülő átalakító berendezés engedélyezési eljárásban. 2. Ha a tevékenység megkezdéséhez környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 1. § (3) bekezdésében foglalt vizsgálatra az eljárást megelőzően más hatósági eljárásban nem került sor az alábbi létesítmények esetében: | 1. Az erőművek vonatkozásában annak elbírálása kérdésében, hogy a) a tevékenység az elérhető legjobb technika alapján meghatározott levegővédelmi követelményeknek és a védelmi övezetekre vonatkozó előírásoknak a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e; b) az engedélyezési tervdokumentáció, illetve a létesítmény zajkibocsátása megfelel-e a környezeti zaj- és rezgés elleni védelem követelményeinek. |  |  |  |  |  |  |  |
-
-|  | a) Szélerőmű, szélerőműpark védett természeti területen, Natura 2000 területen, barlang védőövezetén 200 kW teljesítmény alatt; nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén 600 kW teljesítmény alatt; b) Föld alatti villamosvezeték védett természeti területen, Natura 2000 területen, barlang védőövezetén. | 2. Az átalakító berendezések vonatkozásában annak elbírálása kérdésében, hogy az engedélyezési tervdokumentáció, illetve a létesítmény zajkibocsátása megfelel-e a környezeti zaj- és rezgés elleni védelem követelményeinek. |  |  |  |  |  |  |  |
-
-|  |  | 3. Szélerőmű, szélerőműpark és villamos vezeték vonatkozásában annak elbírálása kérdésében, hogy a Khvr. 5. számú mellékletében foglalt követelmények alapján a tervezett létesítmény kapcsán jelentős környezeti hatások feltételezhetők-e. |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  | ” |
-
-7. melléklet a 308/2011. (XII. 23.) Korm. rendelethez
-
-Az Mkekr. 7. melléklet 6. pontja helyébe a következő rendelkezés lép:
-
-|  | (Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban) |
-
-| „6. | 1. Tárolótartály létesítése, használatba vétele átalakítása és megszüntetése esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. 2. Ha a tevékenység megkezdéséhez környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 1. § (3) bekezdésében foglalt vizsgálatra az eljárást megelőzően más hatósági eljárásban nem került sor: 1000–100 000 t össztároló-kapacitás között, kivéve védett természeti területen, Natura 2000 területen, barlang védőövezetén és vízbázis védőövezetén. | 1. Minden esetben annak elbírálása kérdésében, hogy a tervezett tárolótartály a levegőtisztaság-védelmi előírásoknak és határértékeknek, levegővédelmi szempontból az elérhető legjobb technika, valamint a felszíni vizek, a felszín alatti vizek és ivóvízbázisok védelme követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. 2. Barlang védőövezetében létesítendő tárolótartály esetében, annak elbírálása kérdésében, hogy a tervezett tárolótartály a barlang védelmére vonatkozó jogszabályi követelményeknek a kérelem szerint vagy további feltételek mellett megfelel-e. 3. A 2. számú bevonási és közreműködési feltétel esetén annak elbírálása kérdésében, hogy a Khvr. 5. számú mellékletében foglalt követelmények alapján a tervezett tárolótartály esetén jelentős környezeti hatások feltételezhetők-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
-
-|  |  |  |  | ” |
+[^14]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

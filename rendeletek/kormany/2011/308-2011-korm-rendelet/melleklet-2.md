@@ -1,5 +1,3 @@
-## A Vkr. 2. melléklet 1. pontja helyébe a következő rendelkezés lép:
+2. melléklet a 308/2011. (XII. 23.) Korm. rendelethez[^9]
 
-## „1. Mezőgazdasági és egyéb, a TEÁOR alapján nem a mezőgazdasági vízrendezés alá tartozó, külterületen megvalósított vízrendezés”
-
-2. melléklet a 308/2011. (XII. 23.) Korm. rendelethez
+[^9]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
