@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-109-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2005-109-00-00.6 |
 | 2011-01-01 | 2010. évi CLII. törvény | 2005-109-00-00.7 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 2005-109-00-00.8 |
+| 2012-01-08 | 2011. évi CLXVI. törvény | 2005-109-00-00.9 |
