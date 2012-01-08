@@ -4,7 +4,7 @@
 
 (2) A felügyeleti díj éves mértéke:
 
-a) üzemelő atomerőmű és kutatóreaktor esetén a névleges hőteljesítmény (MWth) és a számítási alap szorzata, a számítási alap 246 350 Ft/MWth;
+a) üzemelő atomerőmű és kutatóreaktor esetén a névleges hőteljesítmény (MWth) és a számítási alap szorzata, a számítási alap 302 450 Ft/MWth;
 
 b) létesítési engedéllyel rendelkező atomerőmű és kutatóreaktor esetén a tervezett névleges hőteljesítmény (MWth) és a számítási alap szorzata, a számítási alap 82 100 Ft/MWth;
 

@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-116-00-00
 | 2011-03-30 | 2011. évi XXIX. törvény | 1996-116-00-00.26 |
 | 2011-08-03 | 2011. évi LXXXVII. törvény | 1996-116-00-00.27 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1996-116-00-00.28 |
+| 2012-01-08 | 2011. évi CLXVI. törvény | 1996-116-00-00.29 |
