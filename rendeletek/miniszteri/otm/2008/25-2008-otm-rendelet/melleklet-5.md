@@ -754,6 +754,6 @@
 
 | Telekommunikációs eszközök | X | X |
 
-5. melléklet a 25/2007. (IV. 29.) ÖTM rendelethez[^8]
+5. melléklet a 25/2007. (IV. 29.) ÖTM rendelethez[^11]
 
-[^8]: Az 5. mellékletet a 3/2009. (I. 27.) NFGM rendelet 2. § (5) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (2) bekezdése alapján a 2009. február 1. napján folyamatban lévő képzéseket a megkezdésükkor hatályos jogszabályokban foglalt szakmai és vizsgakövetelmények alapján kell befejezni. Javító-, pótlóvizsgák letételére a képzéskor hatályos jogszabályi követelmények szerint a képzés befejezését követő 1 évig, de legkésőbb 2013. augusztus 31-ig van lehetőség.
+[^11]: Az 5. mellékletet a 3/2009. (I. 27.) NFGM rendelet 2. § (5) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (2) bekezdése alapján a 2009. február 1. napján folyamatban lévő képzéseket a megkezdésükkor hatályos jogszabályokban foglalt szakmai és vizsgakövetelmények alapján kell befejezni. Javító-, pótlóvizsgák letételére a képzéskor hatályos jogszabályi követelmények szerint a képzés befejezését követő 1 évig, de legkésőbb 2013. augusztus 31-ig van lehetőség.

@@ -1262,6 +1262,6 @@
 
 ## A vizsgabizottság egy tagját az Önkormányzati és Területfejlesztési Minisztérium Sport Szakállamtitkársága delegálja. A vizsgaszervező intézmény kéri fel az illetékes szervezetet a vizsgabizottsági tag kijelölésére.
 
-9. melléklet a 25/2008. (IV. 29.) ÖTM rendelethez[^10]
+9. melléklet a 25/2008. (IV. 29.) ÖTM rendelethez[^13]
 
-[^10]: A 9. melléklet a 16/2010. (V. 12.) ÖM rendelet 3. §-a szerint módosított szöveg.
+[^13]: A 9. melléklet a 16/2010. (V. 12.) ÖM rendelet 3. §-a szerint módosított szöveg.

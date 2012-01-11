@@ -1,3 +1,3 @@
-6. melléklet a 25/2008. (IV. 29.) ÖTM rendelethez[^9]
+6. melléklet a 25/2008. (IV. 29.) ÖTM rendelethez[^12]
 
-[^9]: A 6. melléklet a 20/2009. (VI. 25.) ÖM rendelet 1. §-a szerint módosított szöveg.
+[^12]: A 6. melléklet az 1/2012. (I. 3.) BM rendelet 3. § (3) bekezdésével megállapított szöveg.

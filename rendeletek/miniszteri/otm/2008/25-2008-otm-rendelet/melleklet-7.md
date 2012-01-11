@@ -1,234 +1,288 @@
-## POLGÁRI VÉDELMI ELŐADÓ
+## POLGÁRI VÉDELMI ELŐADÓ SZAKKÉPESÍTÉS
 
-## SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI
+## SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI
 
 ## I.
 
-## Az Országos Képzési Jegyzékben szereplő adatok
+## AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
 
-## 1. A szakképesítés azonosító száma: 52 861 05 0000 00 00
+## 1. A szakképesítés azonosító száma: 52 861 05 0000 00 00
 
-## 2. A szakképesítés megnevezése: Polgári védelmi előadó
+## 2. A szakképesítés megnevezése: Polgári védelmi előadó
 
-## 3. Szakképesítések köre:
+## 3. Szakképesítések köre:
 
-## 3.1. Részszakképesítés: Nincs
+| 3.1 | Részszakképesítés | Nincs |  |
 
-## 3.2. Elágazások: Nincsenek
+| 3.2 | Szakképesítés- elágazások | Nincsenek |  |
 
-## 3.3. Ráépülés
+| 3.3. | Szakképesítés- ráépülés |  |  |
 
-## Azonosítószám: 52 861 05 0001 54 01
+|  |  | Azonosítószám | 52 861 05 0001 54 01 |
 
-## Megnevezés: Katasztrófavédelmi és polgári védelmi főelőadó
+|  |  | Megnevezés | Polgári védelmi főelőadó |
 
-## 4. Hozzárendelt FEOR szám: 3524
+## 4. Hozzárendelt FEOR szám: 3524
 
-## 5. Képzés maximális időtartama:
+## 5. Képzés maximális időtartama:
 
-| Szakképesítés/Ráépülés megnevezése | Szakképzési évfolyamok száma | Óraszám |
+| Szakképesítés/ Szakképesítés-ráépülés megnevezése | Szakképzési évfolyamok száma | Óraszám |
 
-| Polgári védelmi előadó | – | 350 |
+| Polgári védelmi előadó | - | 350 |
 
-| Katasztrófavédelmi és polgári védelmi főelőadó | – | 250 |
+| Polgári védelmi főelőadó | - | 250 |
 
 ## II.
 
-## Egyéb adatok
+## EGYÉB ADATOK
 
-## Szakképesítés megnevezése: Polgári védelmi előadó
+## SZAKKÉPESÍTÉS MEGNEVEZÉSE: Polgári védelmi előadó
 
-## 1. A képzés megkezdésének szükséges feltételei:
+## 1. A képzés megkezdésének szükséges feltételei:
 
-## Bemeneti kompetenciák: –
+## Bemeneti kompetenciák: -
 
 ## Iskolai előképzettség: érettségi vizsga
 
-## Szakmai előképzettség: –
+## Szakmai előképzettség: -
 
-## Előírt gyakorlat: –
+## Előírt gyakorlat: -
 
-## Elérhető kreditek mennyisége: –
+## Elérhető kreditek mennyisége: -
 
 ## Pályaalkalmassági követelmények: nem szükségesek
 
 ## Szakmai alkalmassági követelmények: nem szükségesek
 
-## 2. Elmélet aránya: 70%
+## 2. Elmélet aránya: 60%
 
-## 3. Gyakorlat aránya: 30%
+## 3. Gyakorlat aránya: 40%
 
-## 4. Szakmai alapképzés (iskolai rendszerben): –
+## 4. Szakmai alapképzés (iskolai rendszerben): -
 
-## Időtartama (évben vagy félévben): –
+## Időtartama (évben vagy félévben): -
 
-## 5. Szintvizsga (iskolai rendszerben): nem szervezhető
+## 5. Szintvizsga (iskolai rendszerben): nem szervezhető
 
-## Ha szervezhető, mikor: –
+## Ha szervezhető, mikor: -
 
-## 6. Egészségügyi alkalmassági vizsgálat: –
+## 6. Egészségügyi alkalmassági vizsgálat: nem szükséges
 
-## Ráépülés megnevezése: Katasztrófavédelmi és polgári védelmi főelőadó
+## SZAKKÉPESÍTÉS- RÁÉPÜLÉS MEGNEVEZÉSE: Polgári védelmi főelőadó
 
-## 1. A képzés megkezdésének szükséges feltételei:
+## 1. A képzés megkezdésének szükséges feltételei:
 
 ## Szakmai előképzettség: 52 861 05 0000 00 00 Polgári védelmi előadó
 
-## Előírt gyakorlat: –
+## Előírt gyakorlat: -
 
-## Elérhető kreditek mennyisége: –
+## Elérhető kreditek mennyisége: -
 
 ## Pályaalkalmassági követelmények: nem szükségesek
 
 ## Szakmai alkalmassági követelmények: nem szükségesek
 
-## 2. Elmélet aránya: 70%
+## 2. Elmélet aránya: 60%
 
-## 3. Gyakorlat aránya: 30%
+## 3. Gyakorlat aránya: 40%
 
-## 4. Egészségügyi alkalmassági vizsgálat: –
+## 4. Egészségügyi alkalmassági vizsgálat: nem szükséges
 
 ## III.
 
-## Munkaterület
+## MUNKATERÜLET
 
-## 1. A szakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás:
+## 1. A szakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás:
 
 | A munkakör, foglalkozás |
 
 | FEOR száma | FEOR megnevezése |
 
-| 3524 | Polgári védelmi foglalkozású |
+| 3524 | Egyéb személy- és vagyonvédelmi foglalkozású |
 
-## 2. A szakképesítés munkaterületének rövid, jellemző leírása:
+## 2. A szakképesítés munkaterületének rövid, jellemző leírása:
 
 ## Informálódik és kommunikál
 
-## Veszélyeztetettséget határoz meg
+## Veszélyazonosítást és veszélyelemzést végez
 
 ## Terveket készít
 
-## Döntéselőkészítést végez
+## Szervezeteket hoz létre és működtet
 
-## Részt vesz a szabályozásban
+## Döntés előkészítést végez
+
+## Részt vesz szakmai területének szabályozásában
 
 ## Védelemszervezői tevékenységet végez
 
-## Részt vesz polgári védelmi szervezetek létrehozásában, megalakításában
+## Veszélykezelésben vesz részt
+
+## Kapcsolatot tart és együttműködik
+
+## Részt vesz a készletképzésben és a készletgazdálkodásban
+
+## Életvédelmi létesítményeket kezel
 
 ## Oktat, felkészít
 
-## Kapcsolatot tart, kommunikál
+## Szakmailag továbbképzi magát
 
-## Ellenőrzést végez
+## Adatkezelést és adminisztrációs feladatokat végez
 
-## Adatokat kezel
+## Ellenőrzést végez.
 
-## Adminisztrációs feladatokat végez
-
-## Készleteket kezel
-
-## Védőlétesítményt kezel
-
-## Rendkívüli esemény kezelésében vesz részt
-
-## Továbbképzi magát
-
-## Katasztrófavédelmi megelőző tevékenységet végez
-
-## Védekezésben vesz részt
-
-## Helyreállítási feladatokat végez
-
-## Részt vesz a veszélyes áru szállítás ellenőrzésében
-
-## Veszélyes anyagok okozta súlyos baleset elhárításában vesz részt
-
-## Ágazati katasztrófa elhárítási feladatokat szervez
-
-## 3. A szakképesítéssel rokon szakképesítések:
+## 3. A szakképesítéssel rokon szakképesítések:
 
 | A szakképesítéssel rokon szakképesítések |
 
 | azonosító száma | megnevezése |
 
-| – | – |
+| 52 861 05 1000 00 00 | Polgári védelmi szakelőadó |
 
 ## IV.
 
-## Szakmai követelmények
-
-## A szakmai követelménymodulok felsorolása:
+## SZAKMAI KÖVETELMÉNYEK
 
 ## A szakmai követelménymodul azonosítója és megnevezése:
 
-## 0770–06 A polgári védelmi tevékenység megszervezése
+## 3751-11 A polgári védelmi tevékenység megszervezése és működtetése
 
 ## A szakmai követelménymodul tartalma:
 
 ## Feladatprofil:
 
-## Információt gyűjt a szabályozókról
+## Információt gyűjt a szakterületet érintő szabályozókról
+
+## Információt gyűjt a veszélyforrásokról, a veszélyeztetés mértékéről, a rendelkezésre álló erőforrásokról
+
+## Információt gyűjt a lakosságról és az anyagi javakról
 
 ## Információkat szolgáltat a szakterületét érintően
 
-## Információt gyűjt a veszélyforrásokról
-
-## Információt gyűjt a veszélyeztetés mértékéről
-
-## Információt gyűjt a rendelkezésre álló erőforrásokról
-
-## Információt gyűjt a védendő materiális és immateriális, valamint kultúrális javakról
-
 ## Veszélyek (katasztrófa- és fegyveres események) azonosítását végzi
 
-## Részt vesz hatásvizsgálatban
+## Részt vesz hatásvizsgálatban, kockázatelemzésben
 
-## Részt vesz kockázatelemzésben
+## Gondoskodik a tervek naprakészen tartásáról
 
-## Készenlét fokozását szolgáló terveket készít
-
-## Általános polgári védelmi terveket és veszély-elhárítási terveket készít
-
-## Részt vesz a lakosság katasztrófa- és polgári védelmi felkészítésében
-
-## Naprakészen tartja a terveket
-
-## Munkatervet készít
-
-## Normál körülmények közötti és attól eltérő működésre vonatkozó döntéseket készít elő
-
-## Előkészíti a beosztási és kijelölő határozatokat
-
-## Segítségnyújtási, együttműködési megállapodásokat készít elő
-
-## Szervezi a riasztást és tájékoztatást
-
-## Javaslatot tesz a polgári védelmi szervezet létrehozására és megalakítására
+## Térképet készít elő, vezet és alkalmaz
 
 ## Előkészíti a polgári védelmi szervezetek alkalmazását
 
-## Gondoskodik a polgári védelmi szervezetek alkalmazhatóságának fenntartásáról
+## Gondoskodik a szervezetek alkalmazhatóságának fenntartásáról
 
-## Végzi a munkavállalók katasztrófa- és polgári védelmi felkészítését
+## Normál (béke) körülmények közötti működésre vonatkozó döntéseket készít elő
 
-## Végzi a polgári védelmi szervezetek felkészítését
+## Minősített időszaki, helyzeti működésre vonatkozó döntéseket készít elő
 
-## Részt vesz a lakosság katasztrófa- és polgári védelmi felkészítésében
+## Közreműködik az esemény katasztrófává, a terület katasztrófa sújtotta területté nyilvánításának előkészítésében
 
-## Gyakorlatokat, gyakorlásokat szervez
+## Közreműködik hatósági döntések, szakhatósági állásfoglalások előkészítésében
 
-## Személyes és közérdekű adatokat kezel
+## Előkészíti a kijelölő és beosztási határozatokat
 
-## Polgári védelmi szervezetek működésére vonatkozó adatokat kezel
+## Segítségnyújtási, együttműködési megállapodásokat készít elő
 
-## Elektronikus adatfeldolgozást végez
+## Végzi a jogszabályok követését
 
-## Ügyiratkezelést végez
+## Végzi a kapcsolódó jogi szabályozó eszközök véleményezését
 
-## Elkészíti a szakmai tárgyú leveleket
+## Közreműködik a helyi szabályozók előkészítésében
 
-## Kezeli a polgári védelmi szervezetekkel kapcsolatos dokumentációt
+## Előkészíti a vezető katasztrófavédelmi és polgári védelmi utasításait, intézkedéseit
+
+## Előkészíti a minősített időszaki szervezeti és működési szabályozókat
+
+## Elkészíti a rendkívüli intézkedések helyi bevezetésére vonatkozó szabályozókat
+
+## Szervezi a riasztást és tájékoztatást, az egyéni védelmet, a helyi védelmet
+
+## Szervezi a távolsági védelmet (kimenekítés, kitelepítés, kiürítés, befogadás-elhelyezés, visszatelepítés
+
+## Közreműködik a folyamatos ellátás szervezésében, az anyagi javak védelmének szervezésében
+
+## Közreműködik a logisztikai támogatás szervezésében, a továbbtermelő üzemek biztosításának megszervezésében
+
+## Közreműködik a kritikus infrastruktúra védelmének szervezésében
+
+## Az esemény jellegének megfelelő helyzetelemzést, pontosítást végez
+
+## Veszélykezelési alternatívákat készít elő
+
+## Közreműködik az operatív irányításban
+
+## Koordinálja a veszélykezelésben résztvevő szervek, szervezetek tevékenységét
+
+## Szervezi a mindenoldalú biztosítást
+
+## Közreműködik a következmények felszámolásában
+
+## Részt vesz a kárfelmérésben és a helyreállításban
+
+## Jelentést, tájékoztatást készít az elöljáró szervek számára
+
+## Tájékoztatja az alárendelteket, szervezeti egységeket
+
+## Kapcsolatot tart és együttműködik az önkormányzati szervekkel, a védelmi igazgatási szervekkel, a rendvédelmi, rendészeti szervekkel
+
+## Kapcsolatot tart és együttműködik a Magyar Honvédség kijelölt szerveivel, a közszolgáltatást, közellátást végző szervekkel
+
+## Kapcsolatot tart és együttműködik a közszolgálati média szervekkel, a karitatív szervekkel, önkéntesekkel
+
+## Megbízás esetén kapcsolatot tart és együttműködik nemzetközi szervekkel, szervezetekkel
+
+## Közreműködik a béke és minősített időszaki készletek kialakításában, a készletek előírás szerinti tárolási feltételeinek biztosításában
+
+## Közreműködik a tárolt készletek frissítésében, alkalmazhatóságának biztosításában, a lejárt készletek használatból történő kivonásában, hasznosításában
+
+## Nyilvántartásba veszi a védőlétesítményeket
+
+## Javaslatot tesz a védőlétesítmény minősítésére
+
+## Szervezi a védőlétesítmények fenntartását, karbantartását, hasznosítását
+
+## Közreműködik helyi életvédelmi létesítmény kijelölésében
+
+## Szervezi a védőlétesítmény készenlétbe helyezését, üzemeltetését
+
+## Szervezi a szükség életvédelmi létesítmény kialakítását
+
+## Javaslatot készít elő az életvédelmi létesítmény megszüntetésére
+
+## Közreműködik a polgári védelmi szervezetek felkészítésében
+
+## Közreműködik gyakorlatok végrehajtásában
+
+## Szakmai tanfolyamon, továbbképzésen, rendezvényen vesz részt
+
+## Fizikai állóképességét fejleszti, karbantartja
+
+## Adatokat kér, adatokat szolgáltat
+
+## Személyes, közérdekű és különleges adatokat kezel
+
+## Ügyintézést, ügyiratkezelést folytat
+
+## Minősített ügyintézést, iratkezelést végez
+
+## Elkészíti a szakmai tárgyú leveleket, ügyiratokat
+
+## Kezeli a szervezetekkel kapcsolatos dokumentációkat
+
+## Kezeli a terveket
+
+## Nyilvántartásokat, kimutatásokat, statisztikát készít
+
+## Elektronikus adatfeldolgozást, iratkezelést és ügyintézést végez
+
+## Közreműködik hatósági és szakhatósági eljárásban, ellenőrzésben
+
+## Végzi a szakterületi helyi szabályozók megvalósulásának ellenőrzését
+
+## Végzi a hatósági döntések érvényesülésének ellenőrzését
+
+## Részt vesz a veszélyes áru szállítás ellenőrzésében.
 
 ## Tulajdonságprofil:
 
@@ -236,9 +290,7 @@
 
 ## A típus megjelölésével a szakmai ismeretek:
 
-## E Alapismeretek az államról és a jogról
-
-## C Közigazgatás
+## C Közigazgatási, védelmi igazgatás ismeretek
 
 ## E Büntetőjogi és szabálysértési jogi alapfogalmak
 
@@ -246,19 +298,11 @@
 
 ## E Nemzetközi jogi alapelvek
 
-## C Ügyvitel
-
-## C Adatvédelem
-
-## C Titokvédelem
-
-## C A védelmi igazgatás normarendszere
-
-## C A minősített időszakok rendszere, sajátosságai
-
 ## E A hadviselés alapvető nemzetközi szabályai
 
 ## C Válságok, konfliktusok, háborúk
+
+## C Békeműveletek
 
 ## C Terrorcselekmény, terrorfenyegetettség
 
@@ -266,9 +310,15 @@
 
 ## C A kulturális javak védelmének nemzetközi szabályai
 
+## C A minősített időszakok rendszere, sajátosságai
+
+## C Minősített időszakokban bevezethető rendkívüli intézkedések
+
+## C Befogadó nemzeti támogatás polgári védelmi feladatai
+
 ## C A védelmi igazgatás szervezete és működése
 
-## C A polgári védelem fogalma és jogi szabályozása
+## C A polgári védelem lényege és jogi szabályozása
 
 ## C A magánszemélyek (állampolgárok) polgári védelmi kötelezettségei
 
@@ -290,6 +340,10 @@
 
 ## C A polgári védelmi tervezés rendszere és folyamata
 
+## C A katasztrófavédelmi tervezés rendszere és folyamata
+
+## C Minősített időszaki tervezés rendszere
+
 ## C A tervek naprakészen tartása
 
 ## C A lakosság felkészítése
@@ -298,27 +352,19 @@
 
 ## C A munkavállalók felkészítése
 
-## C Oktatás módszertana és gyakorlatszervezése
+## D Polgári védelmi hatósági jogkörök és gyakorlásuk
 
-## E Polgári védelmi hatósági jogkörök és gyakorlásuk
-
-## E A polgári védelmi szakhatóság jogkör
+## D A polgári védelmi szakhatóság jogkör
 
 ## C A védelmi felkészítés alanyai, időszakai, feladatai
 
-## C Az országmozgósítás elvei, lényege, rendszere
-
-## C Az országmozgósítás szervei és eszközrendszere
+## D Az ország mozgósítás rendszere, szervei, eszközrendszere
 
 ## C A gazdaságmozgósítás felkészülési feladatai
 
 ## C A gazdasági és anyagi szolgáltatási kötelezettségek
 
 ## C A védelmi célú tartalékok
-
-## C A fegyveres összeütközést megelőző időszakok
-
-## C A fegyveres összeütközés időszakában végzendő lakosságvédelmi, humanitárius és logisztikai feladatokra vonatkozó jogrendszer
 
 ## C A riasztás, értesítés fogalma, alapelvei, eszközei, módszerei
 
@@ -328,129 +374,19 @@
 
 ## C A lakosság riasztása, tájékoztatása
 
-## A szint megjelölésével a szakmai készségek:
+## C A katasztrófák elleni védekezés elvei, szervei, feladatai
 
-## 1 Elemi szintű számítógéphasználat
+## D Katasztrófa elleni védekezés központi és területi szervei, feladataik,
 
-## 3 Köznyelvi szöveg fogalmazása írásban
+## E A parancsnoki és törzsmunka alapjai, tartalma
 
-## 3 Köznyelvi beszédkészség
+## E A korszerű vezetési ismeretek alkalmazása a parancsnoki munkában
 
-## 5 Olvasott szakmai szöveg megértése
+## C Vezetési és munkaokmányok
 
-## 4 Szakmai nyelvezetű íráskészség, fogalmazás írásban
+## C Tereptan, térképismeret
 
-## 3 Szakmai nyelvű beszédkészség
-
-## 4 Oktatástechnikai eszközök használata
-
-## Személyes kompetenciák:
-
-## Érzelmi stabilitás, kiegyensúlyozottság
-
-## Elhivatottság, elkötelezettség
-
-## Felelősségtudat
-
-## Szervezőkészség
-
-## Társas kompetenciák:
-
-## Kapcsolatteremtő készség
-
-## Határozottság
-
-## Módszerkompetenciák: –
-
-## A szakmai követelménymodul azonosítója és megnevezése:
-
-## 0771–06 Polgári védelmi tevékenység működtetése
-
-## A szakmai követelménymodul tartalma:
-
-## Feladatprofil:
-
-## Polgári védelmi szakmai követelményeket érvényesít
-
-## Helyzetnyilvántartó okmányokat vezet
-
-## Figyelemmel kíséri a jogszabályi változásokat
-
-## Részt vesz a helyi szabályozók előkészítésében
-
-## Előkészíti a polgári védelmi vezető katasztrófavédelmi és polgári védelmi utasításait
-
-## Véleményezi a kapcsolódó szabályozó eszközöket
-
-## Előkészíti a minősített időszaki szervezeti- és működési szabályozókat
-
-## Tervezi és szervezi az egyéni védelmet
-
-## Tervezi és szervezi a mentést, a helyi és távolsági védelmet
-
-## Tervezi és szervezi az anyagi javak védelmét
-
-## Tervezi és szervezi a logisztikai támogatást
-
-## Kapcsolatot tart a rendvédelmi és társszervekkel
-
-## Kapcsolatot tart az önkormányzati szervekkel
-
-## Kapcsolatot tart a védelmi igazgatási szervekkel
-
-## Kapcsolatot tart a közszolgáltatást, közellátást végzőkkel
-
-## Kapcsolatot tart az önkéntes karitatív szervezetekkel
-
-## Katasztrófavédelmi, polgári védelmi ellenőrzést tart
-
-## Közreműködik hatósági és szakhatósági ellenőrzésekben
-
-## Szervezi a polgári védelmi szervezetek alkalmazhatóságának ellenőrzését
-
-## Anyaggazdálkodási nyilvántartásokat vezet
-
-## Készletekkel gazdálkodik
-
-## Biztosítja a készletek alkalmazhatóságát
-
-## Javaslatot tesz életvédelmi létesítmény minősítésére
-
-## Tervezi és szervezi az életvédelmi létesítmények fenntartását, üzemeltetését, karbantartását
-
-## Tervezi és szervezi szükségvédő létesítmények kialakítását
-
-## Az esemény jellegének megfelelő pontosításokat végez
-
-## Szervezi a veszélyhelyzeti kommunikációt
-
-## Szervezi a mentesítési, fertőtlenítési feladatokat
-
-## Szervezi a kritikus infrastruktúra védelmét, helyreállítását
-
-## Lakosságfelkészítési feladatokat végez
-
-## Helyreállítási feladatokban részt vesz
-
-## Gondoskodik az esemény dokumentálásáról
-
-## Szakmai tanfolyamon, továbbképzésen vesz részt
-
-## Konferencián vesz részt
-
-## Tanulmányozza a szakirodalmat és a jogszabályokat
-
-## Tulajdonságprofil:
-
-## Szakmai kompetenciák:
-
-## A típus megjelölésével a szakmai ismeretek:
-
-## D A parancsnoki munka fogalmai és rendje
-
-## D A korszerű vezetési ismeretek alkalmazása a parancsnoki munkában
-
-## C A katasztrófavédelmi irányítás alapvető okmányai
+## C Térképvezetés
 
 ## C Az írott és grafikus, valamint az elektronikus okmányok fajtái, készítésük rendje
 
@@ -460,29 +396,17 @@
 
 ## C A katasztrófavédelem ügyeleti rendszere
 
-## C Tereptan
-
-## C Térképvezetés
-
 ## E A katasztrófavédelmi munka sajátos pénzügyi-gazdálkodási előírásai
-
-## D A rendkívüli időszaki működés pénzügyi gazdasági sajátosságai
 
 ## D A helyreállítás- újjáépítés során alkalmazandó pénzügyi előírások
 
-## D Munkavédelem
+## C A lakosság és az anyagi javak védelmének alapjai
 
-## D Tűzvédelem
+## B Az egyéni védelem
 
-## D Környezetvédelem
+## B A helyi védelem
 
-## D Vagyonvédelem
-
-## B Az egyéni védelem módszerei
-
-## B A kollektív védelem módszerei
-
-## B A távolsági védelem megszervezése
+## B A távolsági védelem
 
 ## D Egészségügyi ellátás, járványvédelem, állat és növényvédelem
 
@@ -518,7 +442,7 @@
 
 ## B A romok alóli mentés elvei, feladatai
 
-## D Lakosságfelkészítési feladatok
+## C A mentéshez szükséges feltételek és szükségeszközök
 
 ## C A kommunikáció elvei, területei, szerepe
 
@@ -530,19 +454,15 @@
 
 ## C A veszélyhelyzeti segítségnyújtás közreműködői
 
-## C A mentéshez szükséges feltételek és szükségeszközök
-
 ## E A rendkívüli időszak logisztikai biztosításának rendje
 
-## C A vegyi és sugármentesítés elvei, feladatai, módszerei
-
-## C A fertőtlenítés elvei, feladatai, módszerei
+## C A vegyi és sugármentesítés és fertőtlenítés elvei, feladatai, módszerei
 
 ## D Katasztrófa fogalmának értelmezése, a csoportosítás lehetőségei
 
-## C A Magyar Köztársaság katasztrófa-veszélyeztetettsége
+## C Magyarország katasztrófa-veszélyeztetettsége
 
-## C A katasztrófa-elhárítás szervezeti és irányítási rendszere
+## C A katasztrófa elleni védelem szervezeti és irányítási rendszere
 
 ## C A katasztrófavédelemben együttműködő szervek
 
@@ -554,75 +474,77 @@
 
 ## C A kémiai biztonság követelményei
 
-## C A veszélyes anyagok jelölései
+## C A veszélyes anyagok azonosítása
 
-## C A veszélyes anyagok szállítási biztonsága
+## C A veszélyes anyagok szállítása
+
+## C A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés rendszere
 
 ## C Az adatbázisok használata
 
+## C Az elméleti és gyakorlati oktatás módszertana
+
+## D Gyakorlatok szervezésének elvei, módszerei
+
 ## A szint megjelölésével a szakmai készségek:
-
-## 4 Információforrások kezelése
-
-## 3 A katasztrófavédelmi tervezés során használt egyezményes jelek értelmezése
 
 ## 3 Információs és adatrögzítő eszközök használata
 
-## 4 Hírközlési eszközök használata
-
 ## 5 Védőruhák használata
-
-## 5 Légzésvédelmi eszközök használata
-
-## 4 Térképek használata
 
 ## 4 Mérőműszerek használata
 
 ## 3 Kéziszerszámok használata
 
-## 3 Mentesítő eszközök használata
+## 1 Elemi szintű számítógép-használat
+
+## 5 Olvasott szakmai szöveg megértése
+
+## 3 Szakmai nyelvű beszédkészség
+
+## 3 Felderítő és mentesítő eszközök használata
 
 ## Személyes kompetenciák:
+
+## Elhivatottság, elkötelezettség
+
+## Felelősségtudat
+
+## Szervezőkészség
 
 ## Megbízhatóság
 
 ## Pontosság
 
-## Tájékozódás
-
 ## Társas kompetenciák:
 
-## Kezdeményezőkészség
+## Kapcsolatteremtő képesség
+
+## Határozottság
 
 ## Meggyőzőkészség
-
-## Fogalmazó készség
-
-## Prezentációs készség
 
 ## Együttműködési készség
 
 ## Módszerkompetenciák:
 
-## Problémaelemzés, -feltárás
-
-## Problémamegoldás, hibaelhárítás
-
 ## Helyzetfelismerés
 
 ## Gyakorlatias feladatértelmezés
 
-## Körültekintés, elővigyázatosság
+## Körültekintés
+
+## Elővigyázatosság
 
 ## A szakmai követelménymodul azonosítója és megnevezése:
 
-## 0772–06 A katasztrófa- és polgári védelmi főelőadói tevékenység
+## 3752-11 Polgári védelmi főelőadói tevékenység
 
 ## A szakmai követelménymodul tartalma:
 
 ## Feladatprofil:
 
-## Veszélyelhárítási terveket és általános polgári védelmi terveket készít
+## Veszély elhárítási terveket és általános polgári védelmi terveket készít
 
 ## Helyreállítási feladatokban vesz részt
 
@@ -630,29 +552,27 @@
 
 ## Katasztrófavédelmi felkészítési tevékenységet végez
 
-## Közreműködik a káresemény felszámolásának szervezésében
+## Közreműködik a káresemények felszámolásának szervezésében
 
-## Koordinálja a megerősítők és együttműködők tevékenységét
-
-## Megbízás esetén kárhely parancsnoki feladatot lát el
-
-## Válság, konfliktushelyzet felszámolásában vesz részt
+## Koordinálja a megerősítők és együttműködök tevékenységét
 
 ## Részt vesz a katasztrófa következményeinek felmérésében és felszámolásában
 
+## Megbízás esetén kárhely parancsnoki feladatokat lát el
+
+## Válság, konfliktushelyzet felszámolásában vesz részt
+
 ## Közreműködik a kárenyhítésben
 
-## Közreműködik a helyreállítás szervezésében
-
 ## Részt vesz a veszélyes anyagok ártalmatlanításában és a környezet rekreációjában
-
-## Közreműködik a veszély – és kockázatelemzésben
 
 ## Részt vesz a biztonsági elemzés és biztonsági jelentés elkészítésében
 
 ## Részt vesz a belső és külső védelmi tervek elkészítésében
 
-## Közreműködik a (polgári) védelmi szervezet működtetésében
+## Közreműködik a polgári védelmi szervezet működtetésében
+
+## Részt vesz az életvédelmi létesítmények engedélyezésében
 
 ## Közreműködik a lakossággal való párbeszédben
 
@@ -676,47 +596,63 @@
 
 ## Rendkívüli időjárásból eredő katasztrófa elhárítási feladatokat tervez, szervez
 
-## Egyéb (pl. terrorcselekmény, légijármű baleset stb.) katasztrófa elhárítási feladatokat tervez, szervez
+## Egyéb (pl. terrorcselekmény, légi jármű baleset, stb.) katasztrófa elhárítási feladatokat tervez, szervez
 
 ## Tulajdonságprofil:
 
 ## Szakmai kompetenciák:
 
-## A típus megjelölésével a szakmai ismeretek:
+## A típus megjelölésével a szakmai ismeretek
 
 ## C Katasztrófavédelmi tervezés
 
 ## C Katasztrófavédelmi felkészítés
 
-## C A kritikus infrastruktúra elemzése
+## C Kritikus infrastruktúra elemzése
 
-## C Nemzetközi környezetvédelmi és munkavédelmi szabványok (ISO 14.000, EMAS)
+## E Hazai és nemzetközi előírások, szerződések előírásainak alkalmazása a káresemények felszámolása során
 
-## C A katasztrófává minősítés rendje és folyamata
+## E Katasztrófává minősítési eljárásban részvétel
 
-## C Katasztrófa elhárítási koordináció
+## C Logisztikai feladatok tervezése, szervezése, irányítása
 
-## C Kárhely parancsnok jogai és kötelességei
+## E Karbantartások, felújítások szervezése, tervezése
 
-## C Az ideiglenes helyreállítás elvei
+## B Polgári védelmi szervezetek létrehozása, felkészítése
+
+## C Lakosság riasztása, tájékoztatásának szervezése, tájékoztatók készítése
+
+## C Katasztrófavédelmi koordináció
+
+## C Kárhely parancsnoki feladatok végrehajtása
+
+## C Meteorológiai helyzet, időjárás elemzése, értékelése
+
+## E Veszélyazonosítás, veszélyelemezés, hatásvizsgálat
+
+## C Az esemény katasztrófává minősítésének, kinyilvánításában való részvétel
+
+## C Egyéni és társadalmi kockázatok értékelése
+
+## C Veszélyes anyagok előállításával, tárolásával, szállításával kapcsolatos ellenőrzési, hatósági, szakhatósági feladatok
 
 ## C A katasztrófák következményeinek felmérése és felszámolása
 
-## D Alapfokú veszélyazonosítás, veszélyelemzés, hatásvizsgálat
+## E Veszélyazonosítás, veszélyelemzés, hatásvizsgálatában való közreműködés
 
-## D Biztonsági jelentés és elemzés tartalma
+## E Biztonsági elemzés és jelentés
 
-## D Egyéni és társadalmi kockázatok értékelése
+## E Védekezésbe bevonható eszközök, gépek, berendezések és azok alkalmazása
 
-## D Belső és külső védelmi tervek
+## E Belső és külső védelmi tervek készítése, felülvizsgálata
 
-## D Tájékoztatási eszközök és módszerek
+## C Tájékoztatási eszközök és módszerek ismerete
 
-## D Ipari baleset határokon átterjedő hatásai elleni védekezés elvei
+## E Ipari baleset határokon átterjedő hatásai elleni védekezés elveinek alkalmazása
 
 ## C Az árvizek, belvizek, vízszennyezés elleni védekezés szervezése
 
-## C A földrengések elleni védekezés szervezése
+## C A földrengések elleni védekezés szervezése, tervezése
 
 ## C Rendkívüli időjárási katasztrófák elleni védekezés szervezése
 
@@ -732,13 +668,35 @@
 
 ## C A terrorcselekmények elleni védekezés szervezése
 
-## C Helyreállítási feladatok
+## C Helyreállítási és újjáépítési feladatok
 
 ## A szint megjelölésével a szakmai készségek:
 
 ## 3 A katasztrófavédelmi tervezés során használt egyezményes jelek alkalmazása
 
-## Személyes kompetenciák: –
+## 3 Információforrások kezelése
+
+## 3 Helyszínrajzok olvasása, értelmezése
+
+## 4 Olvasott szakmai szöveg megértése
+
+## 4 Szakmai nyelvű hallott szöveg megértése
+
+## 4 Szakmai nyelvű beszédkészség
+
+## Személyes kompetenciák:
+
+## Terhelhetőség
+
+## Szervezőkészség
+
+## Pontosság
+
+## Döntésképesség
+
+## Monotónia-tűrés
+
+## Önállóság
 
 ## Társas kompetenciák:
 
@@ -758,145 +716,153 @@
 
 ## Ismeretek helyén való alkalmazása
 
-## Rendszerben való gondolkodás
+## Rendszerben való gondolkodás.
 
-| Az 52 861 05 0000 00 00 azonosító számú, Polgári védelmi előadó megnevezésű szakképesítés szakmai követelménymoduljainak |
-
-| azonosítója | megnevezése |
-
-| 0770–06 | A polgári védelmi tevékenység megszervezése |
-
-| 0771–06 | Polgári védelmi tevékenység működtetése |
-
-| Az 52 861 05 0001 54 01 azonosító számú, Katasztrófavédelmi és polgári védelmi főelőadó megnevezésű ráépülés szakmai követelménymoduljainak |
+| Az 52 861 05 0000 00 00 azonosító számú Polgári védelmi előadó megnevezésű szakképesítés szakmai követelménymoduljainak |
 
 | azonosítója | megnevezése |
 
-| 0772–06 | A katasztrófa- és polgári védelmi főelőadói tevékenység |
+| 3751-11 | A polgári védelmi tevékenység megszervezése és működtetése |
+
+| Az 54 861 05 0001 54 01 azonosító számú, Polgári védelmi főelőadó megnevezésű szakképesítés-ráépülés szakmai követelménymoduljának |
+
+| azonosítója | megnevezése |
+
+| 3752-11 | Polgári védelmi főelőadói tevékenység |
 
 ## V.
 
-## Vizsgáztatási követelmények
+## VIZSGÁZTATÁSI KÖVETELMÉNYEK
 
-## 1. A szakmai vizsgára bocsátás feltételei:
+## 1. A szakmai vizsgára bocsátás feltételei:
 
 ## Modulzáró vizsga eredményes letétele.
 
-## A képzési programban előírt tanórákon való részvétel – az elfogadott tudásfelmérés kivételével – kötelező. Az igazolt távollét felső határa a képzési programban meghatározott óraszám 15%-a.
+## A hiányzási óraszám nem haladhatja meg a Képzési Programban rögzített összóraszám 15%-át.
 
-## 2. A szakmai vizsga részei:
+## 2. A szakmai vizsga részei:
 
-## 1. vizsgarész
-
-## A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
-
-## 0770–06 A polgári védelmi tevékenység megszervezése
-
-## A hozzárendelt 1. vizsgafeladat:
-
-## A településen jelentkező polgári védelmi feladatok
-
-## A hozzárendelt jellemző vizsgatevékenység: írásbeli
-
-## Időtartama: 45 perc
-
-## A hozzárendelt 2. vizsgafeladat:
-
-## Védelmi igazgatási ismeretek
-
-## A hozzárendelt jellemző vizsgatevékenység: szóbeli
-
-## Időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-## A vizsgarészben az egyes feladatok aránya:
-
-## 1. feladat: 40%
-
-## 2. feladat: 60%
-
-## 2. vizsgarész
+## 1. vizsgarész
 
 ## A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
 
-## 0771–06 Polgári védelmi tevékenység működtetése
+## 3751-11 A polgári védelmi tevékenység megszervezése és működtetése
 
-## A hozzárendelt 1. vizsgafeladat:
+## A hozzárendelt 1. vizsgafeladat:
 
-## A katasztrófavédelemnél-, polgári védelemnél alkalmazott eszközök, műszerek használata
+## Védelmi igazgatási, polgári védelmi ismeretek
 
-## A hozzárendelt jellemző vizsgatevékenység: gyakorlati
+## A hozzárendelt jellemző vizsgatevékenység:
 
-## Időtartama: 30 perc
+## írásbeli
 
-## A hozzárendelt 2. vizsgafeladat:
+## Időtartama: 60 perc
+
+## A hozzárendelt 2. vizsgafeladat:
 
 ## Lakosság és anyagi javak védelme
 
-## A hozzárendelt jellemző vizsgatevékenység: szóbeli
+## A hozzárendelt jellemző vizsgatevékenység:
 
-## Időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
+## gyakorlati
+
+## Időtartama: 180 perc
+
+## A hozzárendelt 3. vizsgafeladat:
+
+## Polgári védelmi szervezetek megalakítása, felkészítése, alkalmazása
+
+## A hozzárendelt jellemző vizsgatevékenység:
+
+## szóbeli
+
+## Időtartama: 25 perc (felkészülési idő 15 perc, válaszadási idő 10 perc)
 
 ## A vizsgarészben az egyes feladatok aránya:
 
-## 1. feladat: 50%
+## 1. feladat: 30%
 
-## 2. feladat: 50%
+## 2. feladat: 50%
 
-## 3. vizsgarész
+## 3. feladat: 20 %
 
-## A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+## 2. vizsgarész
 
-## 0772–06 A katasztrófa- és polgári védelmi főelőadói tevékenység
+## A hozzárendelt ráépülés szakmai követelménymodul azonosítója és megnevezése:
 
-## A hozzárendelt 1. vizsgafeladat:
+## 3752-11 Polgári védelmi főelőadói tevékenység
 
-## A katasztrófa elleni védekezés megszervezése
+## A hozzárendelt 1. vizsgafeladat:
 
-## A hozzárendelt jellemző vizsgatevékenység: írásbeli
+## A katasztrófa elleni védekezés megszervezése I.
 
-## Időtartama: 90 perc
+## A hozzárendelt jellemző vizsgatevékenység:
 
-## A hozzárendelt 2. vizsgafeladat:
+## írásbeli
+
+## Időtartama: 45 perc
+
+## A hozzárendelt 2. vizsgafeladat:
+
+## A katasztrófák elleni védekezés megszervezése II.
+
+## A hozzárendelt jellemző vizsgatevékenység:
+
+## írásbeli
+
+## Időtartama: 45 perc
+
+## A hozzárendelt 3. vizsgafeladat:
 
 ## Ágazati katasztrófa- és polgári védelmi ismeretek
 
-## A hozzárendelt jellemző vizsgatevékenység: szóbeli
+## A hozzárendelt jellemző vizsgatevékenység:
 
-## Időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
+## szóbeli
+
+## Időtartama: 45 perc (felkészülési idő 15 perc, válaszadási idő 30 perc)
 
 ## A vizsgarészben az egyes feladatok aránya:
 
-## 1. feladat: 40%
+## 1. feladat: 20%
 
-## 2. feladat: 60%
+## 2. feladat: 20%
 
-## 3. A szakmai vizsga értékelése %-osan:
+## 3. feladat: 60 %
 
-## Az 52 861 05 0000 00 00 azonosító számú, Polgári védelmi előadó megnevezésű szakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
+## 3. A szakmai vizsga értékelése %-osan:
 
-## 1. vizsgarész: 50
+## Az 52 861 05 0000 00 00 azonosító számú Polgári védelmi előadó megnevezésű szakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
 
-## 2. vizsgarész: 50
+## 1. vizsgarész: 100
 
-## Az 52 861 05 0001 54 01 azonosító számú, Katasztrófavédelmi és polgári védelmi főelőadó megnevezésű ráépülshez rendelt vizsgarészek és ezek súlya a vizsga egészében
+## Az 52 861 05 0001 54 01 azonosító számú Polgári védelmi főelőadó megnevezésű szakképesítés-ráépüléshez rendelt vizsgarészek és ezek súlya a vizsga egészében
 
-## 3. vizsgarész: 100
+## 2. vizsgarész: 100
 
-## 4. A szakmai vizsgarészek alóli felmentés feltételei:
+## 4. A szakmai vizsgarészek alóli felmentés feltételei:
 
-## A szakképesítéshez rendelt vizsgarészek valamelyikének korábbi teljesítése
+## A szakképesítéshez rendelt vizsgarészek valamelyikének korábbi teljesítése.
 
-## 5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
+## A tanulmányi pontok beszámítása a továbbtanulás és a teljesítményértékelés során vehető figyelembe.
 
-## a) Ha a szakmai vizsgáztatás általános szabályairól és eljárási rendjéről szóló 20/2007. (V. 21.) SZMM rendelet 20. §-ának (1) bekezdése alapján a vizsgabizottság a gyakorlati vizsgafeladatok, illetve ezek értékelési útmutatóinak jóváhagyását megelőzően azokat módosította, vagy a vizsgaszervezővel módosíttatta, illetve átdolgoztatta, akkor e tényt a vizsgajegyzőkönyvben rögzíteni kell.
+## 5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
 
-## b) A kijavított és értékelt írásbeli vizsgadolgozatokat és az eredeti írásbeli vizsgafeladat egy példányát az értékelést végző szakértő a %-os értékelési javaslatával legkésőbb az utolsó vizsgafeladat (vizsgatevékenység) megkezdése előtt adja át a vizsgabizottság elnökének.
+## a) Ha a szakmai vizsgáztatás általános szabályairól és eljárási rendjéről szóló 20/2007.
+
+## (V. 21.) SZMM rendelet 20. §-ának (1) bekezdése alapján a vizsgabizottság a gyakorlati vizsgafeladatok, illetve ezek értékelési útmutatóinak jóváhagyását megelőzően azokat módosította, vagy a vizsgaszervezővel módosíttatta, illetve átdolgoztatta, akkor e tényt a vizsgajegyzőkönyvben rögzíteni kell.
+
+## b) Az 1. vizsgarész 1. számú, a 2. vizsgarész 1. számú írásbeli vizsgafeladatánál a kijavított és értékelt írásbeli vizsgadolgozatokat és az eredeti írásbeli vizsgafeladat egy példányát az értékelést végző szakértő a %-os értékelési javaslatával legkésőbb az utolsó vizsgatevékenység megkezdése előtt adja át a vizsgabizottság elnökének.
+
+## c) Az 1. vizsgarész akkor tekinthető eredményesnek, ha a vizsgázó a vizsgarész 1., 2. és 3. számú gyakorlati vizsgafeladatát külön-külön 60%-ot meghaladó eredménnyel teljesítette és a vizsgarész %-os eredménye is meghaladja az 50%-ot.)
+
+## d) A 2. vizsgarész akkor tekinthető eredményesnek, ha a vizsgázó a vizsgarész 1. számú gyakorlati vizsgafeladatát 60%-ot meghaladó eredménnyel teljesítette és a vizsgarész %-os eredménye is meghaladja az 50%-ot.
 
 ## VI.
 
-## Eszköz- és felszerelési jegyzék
+## ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
-| A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimuma | Polgári védelmi előadó | Katasztrófavédelmi és polgári védelmi főelőadó |
+| A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimuma | Polgári védelmi előadó | Polgári védelmi főelőadó |
 
 | Informatikai eszközök | X | X |
 
@@ -908,13 +874,13 @@
 
 | Szűrő, szigetelő bőrvédők | X |  |
 
-| Egyéni sugáradagmérők | X |  |
+| Egyéni sugáradag mérők | X |  |
 
 | Sugárfelderítő műszerek | X |  |
 
 | Vegyi felderítő műszerek | X |  |
 
-| Biológiai mintavevők | X |  |
+| Mintavevő felszerelés | X |  |
 
 | Meteorológiai felderítő eszközök | X |  |
 
@@ -923,6 +889,10 @@
 | Oxigén koncentráció mérők | X |  |
 
 | Építmény és gépészeti makettek | X |  |
+
+| Műszaki mentő gépek, eszközök | X | X |
+
+| Vegyi mentő gépek, eszközök | X | X |
 
 | Szállítóeszközök | X | X |
 
@@ -934,10 +904,22 @@
 
 ## VII.
 
-## Egyebek
+## EGYEBEK
 
-## A vizsgabizottság egy tagját az Önkormányzati és Területfejlesztési Minisztérium Országos Katasztrófavédelmi Főigazgatóság delegálja.
+## 1. A szakmai szervezet szakmai vizsgabizottságban betöltött feladatait a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság látja el.
 
-## A vizsgaszervező intézmény kéri fel az illetékes szervezetet a vizsgabizottsági tag kijelölésére.
+## 2. A képzésben résztvevők részére az egyéni védőfelszereléseket a beiskolázó biztosítja.
+
+## 3.
+
+| Korábbi eredményes szakmai követelménymodulok | Jelen szakmai és vizsgakövetelmények szerint megfeleltetett szakmai követelménymodulok |
+
+| 0770-06 és 0771-06 modulok együttes megléte | A polgári védelmi tevékenység megszervezése és Polgári védelmi tevékenység működtetése | 3751-11 | A polgári védelmi tevékenység megszervezése és működtetése |
+
+| 0772-06 | A katasztrófavédelmi- és polgári védelmi főelőadói tevékenység | 3752-11 | Polgári védelmi főelőadói tevékenység |
+
+## Aki a 2006-ban kiadott, e táblázatban meghatározott követelménymodulokat eredményesen teljesítette, az mentesül a 2011-ben kiadott e táblázat szerinti megfelelő szakmai követelménymodulok teljesítése alól.
+
+## Aki a 2006-ban kiadott, e táblázatban meghatározott követelménymodulokból sikeres szakmai vizsgát tett, az a jelen szakmai és vizsgakövetelmény szerinti szakmai képzéseket folytathatja.
 
 7. melléklet a 25/2008. (IV. 29.) ÖTM rendelethez
