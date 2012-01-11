@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-15-20-1
 | 2011-03-02 | 2008-15-20-1U.6 | 34/2010. (V. 12.) IRM rendelet |
 | 2011-10-08 | 2008-15-20-1U.7 | 34/2010. (V. 12.) IRM rendelet |
 | 2012-01-01 | 2008-15-20-1U.8 | 34/2010. (V. 12.) IRM rendelet |
+| 2012-01-11 | 2008-15-20-1U.9 | 1/2012. (I. 3.) BM rendelet |

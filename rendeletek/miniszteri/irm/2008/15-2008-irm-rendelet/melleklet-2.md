@@ -48,59 +48,67 @@
 
 | 23 |  |  | 31 | 861 | 02 | 0100 | 31 | 02 | Részszakképesítés: Mechanikus vagyonvédelmi rendszerszerelő |  |
 
-| 24 | 7. | 351. | 52 | 861 | 01 | 0000 | 00 | 00 | Büntetés-végrehajtási felügyelő I. | Egyéb szolgáltatások |
+| 24 | 7. | 351. | 52 | 861 | 01 | 0000 | 00 | 00 | Büntetés-végrehajtási felügyelő | Egyéb szolgáltatások |
 
-| 25 |  |  | 52 | 861 | 01 | 0100 | 31 | 01 | Részszakképesítés: Büntetés-végrehajtási felügyelő II. |  |
+| 25 |  |  | 52 | 861 | 01 | 0100 | 31 | 02 | Részszakképesítés: Büntetés-végrehajtási őr |  |
 
-| 26 |  |  | 52 | 861 | 01 | 0001 | 52 | 01 | Ráépülés: Büntetés-végrehajtási főfelügyelő |  |
+| 26 |  |  | 52 | 861 | 01 | 0100 | 31 | 03 | Részszakképesítés: Büntetés-végrehajtási segédfelügyelő |  |
 
-| 27 | 8. | 363. | 52 | 861 | 03 | 0000 | 00 | 00 | Közterületfelügyelő | Egyéb szolgáltatások |
+| 27 |  |  | 52 | 861 | 01 | 0001 | 52 | 02 | Szakképesítés-ráépülés: Büntetés-végrehajtási egészségügyi főfelügyelő |  |
 
-| 28 | 9. | 365. | 52 | 861 | 04 | 0000 | 00 | 00 | Magánnyomozó | Egyéb szolgáltatások |
+| 28 |  |  | 52 | 861 | 01 | 0001 | 52 | 01 | Szakképesítés-ráépülés: Büntetés-végrehajtási főfelügyelő |  |
 
-| 29 | 10. | 370. | 31 | 861 | 03 | 0000 | 00 | 00 | Parkolóőr | Egyéb szolgáltatások |
+| 29 |  |  | 52 | 861 | 01 | 0001 | 52 | 03 | Szakképesítés-ráépülés: Büntetés-végrehajtási gazdálkodási főfelügyelő |  |
 
-| 30 |  |  | 31 | 861 | 03 | 0100 | 31 | 01 | Részszakképesítés: Díjbeszedő – leolvasó |  |
+| 30 |  |  | 52 | 861 | 01 | 0001 | 52 | 04 | Szakképesítés-ráépülés: Büntetés-végrehajtási igazgatási főfelügyelő |  |
 
-| 31 | 11. | 372. | 61 | 861 | 01 |  |  |  | Rendészeti szervező | Egyéb szolgáltatások |
+| 31 | 8. | 363. | 52 | 861 | 03 | 0000 | 00 | 00 | Közterületfelügyelő | Egyéb szolgáltatások |
 
-| 32 |  |  | 61 | 861 | 01 | 0010 | 61 | 01 | Elágazás: Határrendész-szervező |  |
+| 32 | 9. | 365. | 52 | 861 | 04 | 0000 | 00 | 00 | Magánnyomozó | Egyéb szolgáltatások |
 
-| 33 |  |  | 61 | 861 | 01 | 0010 | 61 | 02 | Elágazás: Katasztrófavédelmi – polgári védelmi szervező |  |
+| 33 | 10. | 370. | 31 | 861 | 03 | 0000 | 00 | 00 | Parkolóőr | Egyéb szolgáltatások |
 
-| 34 |  |  | 61 | 861 | 01 | 0010 | 61 | 03 | Elágazás: Rendőrszervező |  |
+| 34 |  |  | 31 | 861 | 03 | 0100 | 31 | 01 | Részszakképesítés: Díjbeszedő - leolvasó |  |
 
-| 35 |  |  | 61 | 861 | 01 | 0010 | 61 | 04 | Elágazás: Tűzoltószervező |  |
+| 35 | 11. | 372. | 61 | 861 | 01 |  |  |  | Rendészeti szervező | Egyéb szolgáltatások |
 
-| 36 | 12. | 373. | 52 | 861 | 06 |  |  |  | Rendőr | Egyéb szolgáltatások |
+| 36 |  |  | 61 | 861 | 01 | 0010 | 61 | 01 | Szakképesítés-elágazás: Határrendész-szervező |  |
 
-| 37 |  |  | 52 | 861 | 06 | 0100 | 52 | 03 | Részszakképesítés: Csapatszolgálati járőrtárs |  |
+| 37 |  |  | 61 | 861 | 01 | 0010 | 61 | 02 | Szakképesítés-elágazás: Katasztrófavédelmi – és polgári védelmi szervező |  |
 
-| 38 |  |  | 52 | 861 | 06 | 0100 | 52 | 04 | Részszakképesítés: Járőr |  |
+| 38 |  |  | 61 | 861 | 01 | 0010 | 61 | 03 | Szakképesítés-elágazás: Rendőrszervező |  |
 
-| 39 |  |  | 52 | 861 | 06 | 0100 | 52 | 05 | Részszakképesítés: Őr-járőrtárs |  |
+| 39 |  |  | 61 | 861 | 01 | 0010 | 61 | 04 | Szakképesítés-elágazás: Tűzoltószervező |  |
 
-| 40 |  |  | 52 | 861 | 06 | 0010 | 52 | 03 | Szakképesítés-elágazás: Bűnügyi-rendőr |  |
+| 40 | 12. | 373. | 52 | 861 | 06 |  |  |  | Rendőr | Egyéb szolgáltatások |
 
-| 41 |  |  | 52 | 861 | 06 | 0010 | 52 | 01 | Szakképesítés-elágazás: Határrendészeti-rendőr |  |
+| 41 |  |  | 52 | 861 | 06 | 0100 | 52 | 03 | Részszakképesítés: Csapatszolgálati járőrtárs |  |
 
-| 42 |  |  | 52 | 861 | 06 | 0010 | 52 | 04 | Szakképesítés-elágazás: Közlekedési-rendőr |  |
+| 42 |  |  | 52 | 861 | 06 | 0100 | 52 | 04 | Részszakképesítés: Járőr |  |
 
-| 43 |  |  | 52 | 861 | 06 | 0010 | 52 | 02 | Szakképesítés-elágazás: Közrendvédelmi-rendőr |  |
+| 43 |  |  | 52 | 861 | 06 | 0100 | 52 | 05 | Részszakképesítés: Őr-járőrtárs |  |
 
-| 44 |  |  | 52 | 861 | 06 | 0001 | 52 | 02 | Szakképesítés-ráépülés: Baleseti helyszínelő |  |
+| 44 |  |  | 52 | 861 | 06 | 0010 | 52 | 03 | Szakképesítés-elágazás: Bűnügyi-rendőr |  |
 
-| 45 |  |  | 52 | 861 | 06 | 0001 | 52 | 03 | Szakképesítés-ráépülés: Bűnügyi helyszínelő |  |
+| 45 |  |  | 52 | 861 | 06 | 0010 | 52 | 01 | Szakképesítés-elágazás: Határrendészeti-rendőr |  |
 
-| 46 |  |  | 52 | 861 | 06 | 0001 | 52 | 04 | Szakképesítés-ráépülés: Fő határrendész |  |
+| 46 |  |  | 52 | 861 | 06 | 0010 | 52 | 04 | Szakképesítés-elágazás: Közlekedési-rendőr |  |
 
-| 47 |  |  | 52 | 861 | 06 | 0001 | 52 | 05 | Szakképesítés-ráépülés: Körzeti megbízott |  |
+| 47 |  |  | 52 | 861 | 06 | 0010 | 52 | 02 | Szakképesítés-elágazás: Közrendvédelmi-rendőr |  |
 
-| 48 |  |  | 52 | 861 | 06 | 0001 | 52 | 06 | Szakképesítés-ráépülés: Okmányvizsgáló |  |
+| 48 |  |  | 52 | 861 | 06 | 0001 | 52 | 02 | Szakképesítés-ráépülés: Baleseti helyszínelő |  |
 
-| 49 |  |  | 52 | 861 | 06 | 0001 | 52 | 07 | Szakképesítés-ráépülés: Rendőr „zászlós” |  |
+| 49 |  |  | 52 | 861 | 06 | 0001 | 52 | 03 | Szakképesítés-ráépülés: Bűnügyi helyszínelő |  |
 
-2. számú melléklet a 15/2008. (VII. 28.) IRM rendelethez[^4]
+| 50 |  |  | 52 | 861 | 06 | 0001 | 52 | 04 | Szakképesítés-ráépülés: Fő határrendész |  |
+
+| 51 |  |  | 52 | 861 | 06 | 0001 | 52 | 05 | Szakképesítés-ráépülés: Körzeti megbízott |  |
+
+| 52 |  |  | 52 | 861 | 06 | 0001 | 52 | 06 | Szakképesítés-ráépülés: Okmányvizsgáló |  |
+
+| 53 |  |  | 52 | 861 | 06 | 0001 | 52 | 07 | Szakképesítés-ráépülés: Rendőr "zászlós" |  |
+
+2. számú melléklet a 15/2008. (VII. 28.) IRM rendelethez[^6]
 
 KÖZBESZERZÉSI REFERENS SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI
 
@@ -7472,83 +7480,99 @@ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
 
 1. A szakképesítés azonosító száma: 52 861 01 0000 00 00
 
-2. A szakképesítés megnevezése: Büntetés-végrehajtási felügyelő I.
+2. A szakképesítés megnevezése: Büntetés-végrehajtási felügyelő
 
 3. Szakképesítések köre:
 
 | 3.1 | Részszakképesítés |  |  |
 
-|  |  | Azonosítószám: | 52 861 01 0100 31 01 |
+|  |  | Azonosítószám: | 52 861 01 0100 31 02 |
 
-|  |  | Megnevezés: | Büntetés-végrehajtási felügyelő II. |
+|  |  | Megnevezés: | Büntetés-végrehajtási őr |
 
-| 3.2 | Elágazások | Nincsenek |  |
+|  |  | Azonosítószám: | 52 861 01 0100 31 03 |
 
-| 3.3 | Ráépülés |  |  |
+|  |  | Megnevezés: | Büntetés-végrehajtási segédfelügyelő |
+
+| 3.2 | Szakképesítés-elágazások | Nincsenek |  |
+
+| 3.3 | Szakképesítés-ráépülés |  |  |
+
+|  |  | Azonosítószám: | 52 861 01 0001 52 02 |
+
+|  |  | Megnevezés: | Büntetés-végrehajtási egészségügyi főfelügyelő |
 
 |  |  | Azonosítószám: | 52 861 01 0001 52 01 |
 
 |  |  | Megnevezés: | Büntetés-végrehajtási főfelügyelő |
 
+|  |  | Azonosítószám: | 52 861 01 0001 52 03 |
+
+|  |  | Megnevezés: | Büntetés-végrehajtási gazdálkodási főfelügyelő |
+
+|  |  | Azonosítószám: | 52 861 01 0001 52 04 |
+
+|  |  | Megnevezés: | Büntetés-végrehajtási igazgatási főfelügyelő |
+
 4. Hozzárendelt FEOR szám: 5363
 
 5. Képzés maximális időtartama:
 
-| Szakképesítés/Ráépülés megnevezése | Szakképzési évfolyamok száma | Óraszám |
+| Szakképesítés/Szakképesítés-ráépülés megnevezése | Szakképzési évfolyamok száma | Óraszám |
 
-| Büntetés-végrehajtási felügyelő I. | - | 1130 |
+| Büntetés-végrehajtási felügyelő | - | 1215 |
+
+| Büntetés-végrehajtási egészségügyi főfelügyelő | - | 600 |
 
 | Büntetés-végrehajtási főfelügyelő | - | 850 |
+
+| Büntetés-végrehajtási gazdálkodási főfelügyelő | - | 600 |
+
+| Büntetés-végrehajtási igazgatási főfelügyelő | - | 600 |
 
 II.
 
 EGYÉB ADATOK
 
-SZAKKÉPESÍTÉS MEGNEVEZÉSE: Büntetés-végrehajtási felügyelő I.
+SZAKKÉPESÍTÉS MEGNEVEZÉSE: Büntetés-végrehajtási felügyelő
 
 1. A képzés megkezdésének szükséges feltételei:
 
-Bemeneti kompetenciák: –
+Bemeneti kompetenciák: -
 
 Iskolai előképzettség: érettségi vizsga
 
-Szakmai előképzettség: –
+Szakmai előképzettség: -
 
-Előírt gyakorlat: –
-
-Elérhető kreditek mennyisége: –
+Előírt gyakorlat: 1 év büntetés-végrehajtási hivatásos szolgálati jogviszony
 
 Pályaalkalmassági követelmények: szükségesek
 
 Szakmai alkalmassági követelmények: szükségesek
 
-2. Elmélet aránya: 45%
+2. Elmélet aránya: 60 %
 
-3. Gyakorlat aránya: 55%
+3. Gyakorlat aránya: 40 %
 
-4. Szakmai alapképzés (iskolai rendszerben): –
+4. Szakmai alapképzés (iskolai rendszerben) -
 
-Időtartama (évben vagy félévben): –
+Időtartama (évben vagy félévben): -
 
-5. Szintvizsga (iskolai rendszerben): nem szervezhető
+5. Egészségügyi alkalmassági vizsgálat: szükséges
 
-Ha szervezhető, mikor: –
-
-6. Egészségügyi alkalmassági vizsgálat: szükséges
-
-RÉSZSZAKKÉPESÍTÉS MEGNEVEZÉSE: Büntetés-végrehajtási felügyelő II.
+RÉSZSZAKKÉPESÍTÉS MEGNEVEZÉSE: Büntetés-végrehajtási őr
 
 1. A képzés megkezdésének szükséges feltételei:
 
-Bemeneti kompetenciák: –
+Bemeneti kompetenciák: -
 
 Iskolai előképzettség: nyolcadik évfolyam elvégzését tanúsító alapfokú iskolai végzettség
 
-Szakmai előképzettség: OKJ-s szakképesítés
+Szakmai előképzettség: -
 
-Előírt gyakorlat: –
+Előírt gyakorlat: -
 
-Elérhető kreditek mennyisége: –
+Elérhető tanulmányi pontok száma: 30 pont
 
 Pályaalkalmassági követelmények: szükségesek
 
@@ -7556,37 +7580,117 @@ Szakmai alkalmassági követelmények: szükségesek
 
 2. A képzés maximális időtartama:
 
-Szakképzési évfolyamok száma: –
+Szakképzési évfolyamok száma: -
 
-Óraszám: 1130
+Óraszám: 645
 
-3. Elmélet aránya: 45%
+3. Elmélet aránya: 60 %
 
-4. Gyakorlat aránya: 55%
+4. Gyakorlat aránya: 40 %
 
-5. Szakmai alapképzés időtartama (fogyatékkal élők esetében, iskolai rendszerben): –
+5. Szakmai alapképzés időtartama: -
 
 6. Egészségügyi alkalmassági vizsgálat: szükséges
 
-RÁÉPÜLÉS MEGNEVEZÉSE: Büntetés-végrehajtási főfelügyelő
+RÉSZSZAKKÉPESÍTÉS MEGNEVEZÉSE: Büntetés-végrehajtási segédfelügyelő
 
 1. A képzés megkezdésének szükséges feltételei:
 
-Szakmai előképzettség: 52 861 01 0000 00 00 Büntetés-végrehajtási felügyelő I.
+Bemeneti kompetenciák: -
 
-Előírt gyakorlat: 1 év büntetés-végrehajtási jogviszony
+Iskolai előképzettség: nyolcadik évfolyam elvégzését tanúsító alapfokú iskolai végzettség
 
-Elérhető kreditek mennyisége: –
+Szakmai előképzettség: - eredményes modulzáró vizsga az 52 861 01 0100 31 02 Büntetés-végrehajtási őr részszakképesítésben, amennyiben megszakítás nélkül folytatja tovább a tanulmányokat a büntetés-végrehajtási segédfelügyelő képzésben
+
+- eredményes szakmai vizsga az 52 861 01 0100 31 02 Büntetés-végrehajtási őr részszakképesítésben
+
+Előírt gyakorlat: -
+
+2. A képzés maximális időtartama:
+
+Szakképzési évfolyamok száma: -
+
+Óraszám: 250
+
+3. Elmélet aránya: 60 %
+
+4. Gyakorlat aránya: 40 %
+
+5. Szakmai alapképzés időtartama: -
+
+6. Egészségügyi alkalmassági vizsgálat: -
+
+SZAKKÉPESÍTÉS-RÁÉPÜLÉS MEGNEVEZÉSE: Büntetés-végrehajtási egészségügyi főfelügyelő
+
+1. A képzés megkezdésének szükséges feltételei:
+
+Szakmai előképzettség: 52 861 01 0000 00 00 Büntetés-végrehajtási felügyelő
+
+Előírt gyakorlat: -
 
 Pályaalkalmassági követelmények: szükségesek
 
 Szakmai alkalmassági követelmények: szükségesek
 
-2. Elmélet aránya: 25%
+2. Elmélet aránya: 25 %
 
-3. Gyakorlat aránya: 75%
+3. Gyakorlat aránya: 75 %
 
-4. Egészségügyi alkalmassági vizsgálat: szükséges
+4. Egészségügyi alkalmassági vizsgálat: -
+
+SZAKKÉPESÍTÉS-RÁÉPÜLÉS MEGNEVEZÉSE: Büntetés-végrehajtási főfelügyelő
+
+1. A képzés megkezdésének szükséges feltételei:
+
+Szakmai előképzettség: 52 861 01 0000 00 00 Büntetés-végrehajtási felügyelő
+
+Előírt gyakorlat: -
+
+Pályaalkalmassági követelmények: szükségesek
+
+Szakmai alkalmassági követelmények: szükségesek
+
+2. Elmélet aránya: 25 %
+
+3. Gyakorlat aránya: 75 %
+
+4. Egészségügyi alkalmassági vizsgálat: -
+
+SZAKKÉPESÍTÉS-RÁÉPÜLÉS MEGNEVEZÉSE: Büntetés-végrehajtási gazdálkodási főfelügyelő
+
+1. A képzés megkezdésének szükséges feltételei:
+
+Szakmai előképzettség: 52 861 01 0000 00 00 Büntetés-végrehajtási felügyelő
+
+Előírt gyakorlat:
+
+Pályaalkalmassági követelmények: szükségesek
+
+Szakmai alkalmassági követelmények: szükségesek
+
+2. Elmélet aránya: 25 %
+
+3. Gyakorlat aránya: 75 %
+
+4. Egészségügyi alkalmassági vizsgálat: -
+
+SZAKKÉPESÍTÉS-RÁÉPÜLÉS MEGNEVEZÉSE: Büntetés-végrehajtási igazgatási főfelügyelő
+
+1. A képzés megkezdésének szükséges feltételei:
+
+Szakmai előképzettség: 52 861 01 0000 00 00 Büntetés-végrehajtási felügyelő
+
+Előírt gyakorlat: -
+
+Pályaalkalmassági követelmények: szükségesek
+
+Szakmai alkalmassági követelmények: szükségesek
+
+2. Elmélet aránya: 25 %
+
+3. Gyakorlat aránya: 75 %
+
+4. Egészségügyi alkalmassági vizsgálat: -
 
 III.
 
@@ -7598,21 +7702,31 @@ MUNKATERÜLET
 
 | FEOR száma | FEOR megnevezése |
 
-| 5363 | Büntetés-végrehajtási felügyelő |
+| 5363 | Büntetés- végrehajtási felügyelő |
 
 2. A szakképesítés munkaterületének rövid, jellemző leírása:
 
-Biztonsági feladatot lát el
+Ellátja a fogvatartottak őrzését, felügyeletét, ellenőrzését
 
-Irányítja a fogvatartott tevékenységét
+Végrehajtja a fogvatartottak intézeten kívüli előállítását
 
-Munkáltatási feladatot lát el
+Végrehajtja a fogvatartottak intézeten belüli mozgatását
 
-Adminisztratív és működésbiztonsági feladatokat lát el
+Részt vesz a fogvatartottak napirendben meghatározott feladatainak megszervezésében, valamint azok végrehajtásában
 
-Általános szolgálati feladatokat lát el
+Megköveteli a fogvatartottaktól a viselkedési és magatartási szabályokat, szükség esetén azok betartását kikényszeríti
 
-Részt vesz a biztonsági, fogvatartási és munkáltatási feladatok szervezésében
+Megszervezi és végrehajtatja a fogvatartottak díjazás nélküli munkavégzését
+
+Végrehajtja a fogvatartottak elkülönítését, motozását, szükség esetén mozgáskorlátozó eszközt alkalmaz
+
+Végrehajtja a biztonsági ellenőrzéseket, részt vesz a biztonsági vizsgálatban-, valamint szemlén
+
+Megakadályozza a rendkívüli események bekövetkezését, megteszi a szükséges intézkedéseket a már bekövetkezett rendkívüli események megszakítására, felszámolására
+
+Szükség esetén kényszerítő eszközt alkalmaz
+
+Szolgálat ellátása során végrehajtja a szükséges adminisztrációs feladatokat
 
 3. A szakképesítéssel rokon szakképesítések:
 
@@ -7622,284 +7736,58 @@ Részt vesz a biztonsági, fogvatartási és munkáltatási feladatok szervezés
 
 | 52 861 06 | Rendőr |
 
+| 52 861 08 0000 00 00 | Tűzoltó I. |
+
+| 52 861 05 1000 00 00 | Polgári védelmi szakelőadó |
+
+| 61 861 01 | Rendészeti szervező |
+
 IV.
 
 SZAKMAI KÖVETELMÉNYEK
 
 A szakmai követelménymodulok felsorolása:
 
-A szakmai követelménymodul azonosítója és megnevezése:
-
-0725-06 Rendészeti alapfeladatok
+3690-11 A rendvédelmi szervek általános feladatai és szabályzói
 
 A szakmai követelménymodul tartalma:
 
 Feladatprofil:
 
-Alkalmazza a tevékenységére vonatkozó jogszabályokat és tűzvédelmi, munkavédelmi, környezetvédelmi szabályokat, valamint a speciális szakmai, továbbá az etikai szabályokat
+Betartja az alaki, öltözködési és az általános megjelenési szabályokat
 
-Folyamatosan szinten tartja, fejleszti szakmai ismereteit, részt vesz a kötelező továbbképzéseken
+Egyéni felszerelését, fegyverzetét, ruházatát ellenőrzi, rendszeresen karbantartja, kezeli
 
-Folyamatosan fejleszti fizikai állóképességét, önvédelmi alapismereteit, végrehajtja az éves fizikai felméréseket és egészségügyi szűréseket
+Alkalmazza a fegyveres-, rendvédelmi szervekre egységes, valamint a saját szervezetére vonatkozó tűz-, munka-, baleset-, egészség-, és környezetvédelmi rendszabályokat
 
-Egyéni felszerelését, fegyverzetét egyen vagy polgári ruházatát ellenőrzi, karbantartja, kezeli
+Következetesen betartja a fegyveres-, rendvédelmi szervekre egységesen vonatkozó általános adatvédelmi-, ügyviteli-, titoktartási szabályokat
 
-Tevékenységét, megállapításait dokumentálja, rögzíti
+Alkalmazza és betartja a fegyveres-, rendvédelmi szervekre általánosan vonatkozó jogszabályokat, közjogi szervezetszabályozó eszközöket, valamint a rá vonatkozó egyéb előírásokat
 
-Adatokat kezel, rögzít, nyilvántartásokat vezet
+Végrehajtja az elöljárójától kapott parancsokat, utasításokat
 
-Vezeti a szolgálati okmányokat
+Betartja a rendészeti szervek tevékenységére vonatkozó egységes közszolgálati etikai szabályokat
 
-Pontosan, kipihenten jelentkezik szolgálatra
+Folyamatosan fejleszti fizikai állóképességét, teljesíti a kötelező fizikai-erőnléti felméréseket, részt vesz az előírt egészségügyi szűréseken
 
-Felkészül, felszerel, felveszi a kényszerítőeszközöket és a lőfegyvert
+Elsősegélyt nyújt, szükség esetén orvosi ellátást kezdeményez
 
-Eligazításon vesz részt
+Felismeri a káresemény helyszínén lévő veszélyeket, ismeri és alkalmazza azok elhárításának alapvető szabályait, továbbá szükség szerint közreműködik elhárításukban
 
-Átveszi/átadja a szolgálatot, szolgálatba lép
+Felvilágosítást, tájékoztatást kér/ad, továbbá jelentést, feljegyzést készít
 
-Bevonul szolgálatból
+Eligazításon vesz részt, átveszi/átadja a szolgálatot és szolgálatba lép
 
-Jelentést tesz elöljárójának
+Elvégzi az objektum külső és belső biztosítását, őrzését
 
-Tisztán tartja a szolgálati és pihenőkörletét
+Bevonul szolgálatból, feladat teljesítésből és jelentést tesz elöljárójának
 
-Ellátja a személyek, gépjárművek be- és kiléptetésével összefüggő feladatokat
+Tisztán és rendben tartja a szolgálati-, pihenő körletét, valamint annak környezetét
 
-Ellátja a küldemények átvételével kapcsolatos feladatokat
+A fegyveres-, és rendvédelmi szerveknél egységesen rendszerben lévő fegyverzettechnikai, számítástechnikai- (hardver, szoftver), híradástechnikai-, biztonsági-berendezéseket kezel, felügyel, használ, alkalmaz
 
-Rendészettechnikai eszközöket kezel, alkalmaz
+Kényszerítő eszközt felismer, megkülönböztet
 
-Tulajdonságprofil:
+Együttműködik más fegyveres és rendvédelmi szervek képviselőivel
 
-Szakmai kompetenciák:
-
-A típus megjelölésével a szakmai ismeretek:
-
-D Munka-, baleset-, tűz- és környezetvédelmi, valamint egészségügyi rendszabályok
-
-B Alaki, öltözködési szabályok
-
-B A szolgálati formákra, szolgálattervezésre, a szolgálatteljesítésre vonatkozó alapvető ismeretek
-
-C Magatartás szolgálatban, szolgálaton kívül, etikai szabályok
-
-C A szolgálati jogviszonyra vonatkozó szabályok, jogosultságok, kötelezettségek
-
-D Szolgálati kötelmek és jogok, a szolgálati érintkezés szabályai, a szolgálati feladatok ellátásának rendje
-
-D Alkotmányjogi alapismeretek, Magyarország Alaptörvénye
-
-D A közigazgatás alapfogalmai, rendszere
-
-D Emberi-, állampolgári és kisebbségjogi alapismeretek
-
-C Objektum-, személy-, vagyonvédelmi és őrzési szabályok
-
-B Járőr-, ügyeleti, készenléti és készültségi szolgálat jellemzői
-
-C Fegyverzeti, ballisztikai és lőelméleti ismeretek
-
-D Adat-, ügykezelésre, titokvédelemre vonatkozó előírások
-
-C Minősített időszaki feladatok általános előírásai
-
-B A vezetékes és vezeték nélküli adattovábbításra, hírközlésre vonatkozó ismeretek
-
-C Pszichológiai, intézkedés-lélektani és kommunikációs alapismeretek
-
-D Rendvédelem-történet, szakma történet
-
-B Fizikai állóképességre vonatkozó előírások és önvédelemi alapismeretek
-
-D Terepen történő tájékozódás
-
-A szint megjelölésével a szakmai készségek:
-
-3 Információforrások kezelése, egyéni tanulási technikák
-
-3 Helyszínrajzok olvasása, értelmezése
-
-4 Híradástechnikai berendezések, eszközök használata
-
-5 Kényszerítő eszközök alkalmazása, használata
-
-3 Olvasott köznyelvi szöveg megértése
-
-3 Köznyelvi szöveg hallás utáni megértése
-
-4 Köznyelvi beszédkészség
-
-3 Olvasott szakmai szöveg megértése
-
-3 Szakmai nyelvű hallott szöveg megértése
-
-4 Szakmai nyelvű beszédkészség
-
-4 Rendszeretet
-
-3 Önismeret készsége
-
-4 Személyre szabott tanulási készség
-
-Személyes kompetenciák:
-
-Döntésképesség
-
-Elhivatottság, elkötelezettség
-
-Érzelmi stabilitás, kiegyensúlyozottság
-
-Fejlődőképesség, önfejlesztés, önképzés
-
-Felelősségvállalás
-
-Kitartás
-
-Megbízhatóság
-
-Minőségre törekvés
-
-Monotónia-tűrés
-
-Önállóság
-
-Önfegyelem
-
-Stressztűrő képesség
-
-Szabálytudat
-
-Társas kompetenciák:
-
-Alkalmazkodó képesség
-
-Együttműködés
-
-Empatikus készség
-
-Határozottság
-
-Irányíthatóság
-
-Kommunikációs készség
-
-Konfliktusmegoldó készség
-
-Közérthetőség
-
-Módszerkompetenciák:
-
-Emlékezőképesség (ismeretmegőrzés)
-
-Figyelemmegosztás
-
-Helyzetfelismerő készség
-
-Ismeretek helyén való alkalmazása
-
-Körültekintés, elővigyázatosság
-
-Problémamegoldó készség
-
-A szakmai követelménymodul azonosítója és megnevezése:
-
-0726-06 Büntetés-végrehajtási feladatok
-
-A szakmai követelménymodul tartalma:
-
-Feladatprofil:
-
-Jelentést tesz a szolgálat átadásról, átvételről
-
-Az átadás-átvétel megtörténtét dokumentálja
-
-Tájékoztatást ad a folyamatban lévő ügyekről
-
-Őrzési feladatot lát el
-
-Ellátja a büntetőeljárásban résztvevő személyek védelmét
-
-Őrzi a fogvatartottat, megóvja az életét, testi épségét
-
-Őrzési-védelmi feladatot lát el lőfegyverrel, technikai eszközökkel vagy szolgálati kutyával
-
-Ügyeleti szolgálatot lát el
-
-Készenléti szolgálatot lát el
-
-Ellenőrzési feladatot lát el
-
-A fogvatartott meghatározott helyen való tartózkodását, tevékenységét időszakosan figyelemmel kíséri
-
-Járőrszolgálatot lát el
-
-Meghatározott területen őrutasítás vagy eligazítás szerint figyeléssel lát el biztonsági feladatot
-
-Előállítást hajt végre
-
-Szállítási feladatot lát el
-
-Kísérési feladatot lát el
-
-Fegyveres biztosítási feladatot lát el
-
-Fegyverrel őrzi a büntetés-végrehajtás objektumait, javait és a fogvatartottat
-
-Részt vesz rendkívüli események megszakításában és a következmények felszámolásában
-
-Kényszerítő eszközt alkalmaz
-
-Ellátja a személyek, gépjárművek be- és kiléptetésével összefüggő feladatokat
-
-Ellátja a küldemények átvételével kapcsolatos feladatokat
-
-Felkér személyazonosság igazolására, belépési jogosultságot ellenőriz
-
-Felszólítja az intézet területére belépő személyt a be nem vihető tárgyak leadására, fémtárgyak levételére
-
-Technikai eszköz, illetve szolgálati kutya alkalmazásával átvizsgálja a belépő személy csomagját és ruházatát, illetve a gépjárművet
-
-Átveszi az intézet területére be nem vihető tárgyakat vagy felszólítja a belépőt azok elzárására, elvégzi a belépő fémkeresővel való megvizsgálását, csomagjainak ellenőrzését
-
-Ellenőrzi a járműrakodást
-
-Megakadályozza a járművel, járművön történő szökést, a jogtalan szállítást
-
-Részt vesz a biztonsági vizsgálat végrehajtásában
-
-Ellátja a polgári egészségügyi intézetben elhelyezett fogvatartott őrzését
-
-A törvényben meghatározott esetekben és módon lőfegyvert használ parancsra
-
-A törvényben meghatározott esetekben és módon lőfegyvert használ saját elhatározásból
-
-Átadja, illetve átveszi létszám szerint a fogvatartottakat, ellenőrzi a biztonsági berendezéseket, technikai eszközök működőképességét, a kiadott kényszerítő eszközök és okmányok meglétét
-
-A fogvatartottat zárkába, lakóhelyiségbe helyezi
-
-Végrehajtja a személyi motozást
-
-Számítógépen rögzíti az áthelyezés tényét
-
-Betartatja a fogvatartottra vonatkozó jogszabályi és egyéb előírásokat
-
-Közreműködik a fogvatartott nevelésében
-
-A fogvatartottal kapcsolatos ügyekben folyamatos kapcsolatot tart a nevelővel
-
-Létszámellenőrzést tart
-
-Kiadja a fogvatartottat a körletből, végrehajtja az ilyenkor kötelezően előírt feladatokat
-
-Befogadja a fogvatartottat a körletbe, végrehajtja az ilyenkor kötelezően előírt feladatokat
-
-Biztonsági ellenőrzést hajt végre
-
-Részt vesz a fogvatartotti körletre kiterjedő biztonsági vizsgálatban
-
-Megakadályozza a fogvatartás rendjét és a biztonságot veszélyeztető cselekményeket
-
-Végrehajtja az előírt biztonsági intézkedéseket
-
-[^4]: A 2. számú melléklet a 34/2010. (V. 12.) IRM rendelet 1. § (2) bekezdése, a 2/2011. (II. 22.) BM rendelet 3. §-a, a 4. § (2) bekezdés a)–g) pontja és (5) bekezdése, a 68/2011. (XII. 30.) BM rendelet 30. §-a szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 34/2010. (V. 12.) IRM rendelet 1. § (2) bekezdése, a 2/2011. (II. 22.) BM rendelet 3. §-a, a 4. § (2) bekezdés a)–g) pontja és (5) bekezdése, a 68/2011. (XII. 30.) BM rendelet 30. §-a, az 1/2012. (I. 3.) BM rendelet 1. § (3) bekezdése szerint módosított szöveg.
