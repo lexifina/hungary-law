@@ -1,6 +1,6 @@
 ## A központi műhelyek
 
-39/L. §[^248] (1) A központi műhely alapfeladata a nevelési-oktatási intézmények részére a természettudományos megismeréshez szükséges tárgyi feltételek biztosítása. A központi műhely önálló közoktatási intézményként, vagy többcélú közoktatási intézmény intézményegységeként láthatja el feladatát. A központi műhely a nevelési-oktatási intézmények igénye szerint
+39/L. §[^249] (1) A központi műhely alapfeladata a nevelési-oktatási intézmények részére a természettudományos megismeréshez szükséges tárgyi feltételek biztosítása. A központi műhely önálló közoktatási intézményként, vagy többcélú közoktatási intézmény intézményegységeként láthatja el feladatát. A központi műhely a nevelési-oktatási intézmények igénye szerint
 
 a) gondoskodik a szükséges anyagok, eszközök, szerszámok (a továbbiakban együtt: anyagok) beszerzéséről, tárolásáról, előkészítéséről és szállításáról,
 
@@ -30,4 +30,4 @@ d) a külső kapcsolatok rendszerét, formáját és módját,
 
 e) mindazokat a kérdéseket, amelyeket jogszabály ír elő.
 
-[^248]: A 39/K. §-t és az azt megelőző alcímet a 41/2007. (XII. 22.) OKM rendelet 5. §-a iktatta be. A 39/K. § számozását 39/L. §-ra változtatta a 16/2008. (IV. 30.) OKM rendelet 6. §-a.
+[^249]: A 39/K. §-t és az azt megelőző alcímet a 41/2007. (XII. 22.) OKM rendelet 5. §-a iktatta be. A 39/K. § számozását 39/L. §-ra változtatta a 16/2008. (IV. 30.) OKM rendelet 6. §-a.

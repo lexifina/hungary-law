@@ -10,10 +10,13 @@
 
 (6) Fel kell venni az óvodába, illetve a kollégiumba azt, akinek felvételét a gyámhatóság kezdeményezte, illetőleg, ha az intézeti elhelyezett tanuló felvételét a törvényes képviselője kezdeményezte.
 
-(7) Az externátusi elhelyezés keretében — a lakhatási feltételek kivételével — a tanuló jogai és kötelességei azonosak a kollégiumba felvett tanuló jogaival és kötelességeivel. A lakhatási feltételekről a tanulónak kell gondoskodnia. A költségeket az iskola, kollégium részben vagy egészben átvállalhatja.
+(7) Az externátusi elhelyezés keretében — a lakhatási feltételek kivételével — a tanuló jogai és kötelességei azonosak a kollégiumba felvett tanuló jogaiva és kötelességeivel.[^77]
 
-(8)[^77] A középfokú iskolákba történő jelentkezés rendjét és a felvételi eljárás szabályait e rendelet 8. számú melléklete tartalmazza.
+A lakhatási feltételekről a tanulónak kell gondoskodnia. A költségeket az iskola, kollégium részben vagy egészben átvállalhatja.
+
+(8)[^78] A középfokú iskolákba történő jelentkezés rendjét és a felvételi eljárás szabályait e rendelet 8. számú melléklete tartalmazza.
 
 [^75]: A 17. § (4) bekezdése a 21/2005. (VII. 25.) OM rendelet 3. §-ával megállapított szöveg.
 [^76]: A 17. § (5) bekezdése a 30/2004. (X. 28.) OM rendelet 8. §-ával megállapított szöveg.
 [^77]: A 17. § (8) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 13/2003. (V. 23.) OM rendelet 1. §-a iktatta a szövegbe.
+[^78]: A 17. § (8) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 13/2003. (V. 23.) OM rendelet 1. §-a iktatta a szövegbe.

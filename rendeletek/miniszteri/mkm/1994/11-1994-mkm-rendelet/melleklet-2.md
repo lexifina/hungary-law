@@ -18,6 +18,6 @@
 
 ## 8. Abban az esetben, ha a szükséges feltételek rendelkezésre állnak, a tanulók részére heti egy tanórai foglalkozás keretében úszás órát kell szervezni.
 
-2. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^287]
+2. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^288]
 
-[^287]: Az új 2. számú mellékletet a 16/1998. (IV. 8.) MKM rendelet 28. §-ának (1) bekezdése, valamint 1. számú melléklete iktatta a szövegbe.
+[^288]: Az új 2. számú mellékletet a 16/1998. (IV. 8.) MKM rendelet 28. §-ának (1) bekezdése, valamint 1. számú melléklete iktatta a szövegbe.

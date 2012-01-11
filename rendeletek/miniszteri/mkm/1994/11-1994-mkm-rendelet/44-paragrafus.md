@@ -1,3 +1,3 @@
-## 43. §[^253]
+## 43. §[^254]
 
-[^253]: A 43. §-t a 118/2008. (V. 8.) Korm. rendelet 35. §-ának 19. pontja hatályon kívül helyezte.
+[^254]: A 43. §-t a 118/2008. (V. 8.) Korm. rendelet 35. §-ának 19. pontja hatályon kívül helyezte.

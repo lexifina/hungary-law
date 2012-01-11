@@ -1,6 +1,6 @@
-## A fejlesztő iskolai oktatás[^154]
+## A fejlesztő iskolai oktatás[^155]
 
-33/C. §[^155] (1) A tankötelezettség teljesítését a fejlesztő iskolai oktatásban
+33/C. §[^156] (1) A tankötelezettség teljesítését a fejlesztő iskolai oktatásban
 
 a) az a gyermek kezdheti meg, aki május 31. napjáig,
 
@@ -20,5 +20,5 @@ b) a szülő kérelmére az a gyermek kezdheti meg, aki december 31. napjáig
 
 (7) A fejlesztő iskolai oktatásra a 9–10. §-ban és a 21–27. §-ban foglaltak nem alkalmazhatók.
 
-[^154]: A 33/C. §-t megelőző alcímet a 4/2010. (I. 19.) OKM rendelet 38. § (2) bekezdése iktatta be.
-[^155]: A 33/C. §-t a 4/2010. (I. 19.) OKM rendelet 38. § (2) bekezdése iktatta be; alkalmazására lásd e módosító rendelet 36. §-át.
+[^155]: A 33/C. §-t megelőző alcímet a 4/2010. (I. 19.) OKM rendelet 38. § (2) bekezdése iktatta be.
+[^156]: A 33/C. §-t a 4/2010. (I. 19.) OKM rendelet 38. § (2) bekezdése iktatta be; alkalmazására lásd e módosító rendelet 36. §-át.

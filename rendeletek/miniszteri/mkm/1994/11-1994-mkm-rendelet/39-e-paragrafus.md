@@ -1,10 +1,10 @@
-39/E. §[^206] (1) Integrációs felkészítésben vesznek részt azok a képesség-kibontakoztató felkészítésben részt vevő tanulók, akik egy osztályba, osztálybontás esetén egy csoportba járnak azokkal a tanulókkal, akik nem vesznek részt a képesség-kibontakoztató felkészítésben. Az integrációs felkészítés megszervezése nem járhat együtt a halmozottan hátrányos helyzetű tanulók elkülönítésével. E rendelkezések alkalmazásában a tanulók elkülönítését jelenti, ha az integrációs felkészítést nem a 39/D. § (9) bekezdésének a)–c) pontjaiban foglaltaknak megfelelően szervezik meg.
+39/E. §[^207] (1) Integrációs felkészítésben vesznek részt azok a képesség-kibontakoztató felkészítésben részt vevő tanulók, akik egy osztályba, osztálybontás esetén egy csoportba járnak azokkal a tanulókkal, akik nem vesznek részt a képesség-kibontakoztató felkészítésben. Az integrációs felkészítés megszervezése nem járhat együtt a halmozottan hátrányos helyzetű tanulók elkülönítésével. E rendelkezések alkalmazásában a tanulók elkülönítését jelenti, ha az integrációs felkészítést nem a 39/D. § (9) bekezdésének a)–c) pontjaiban foglaltaknak megfelelően szervezik meg.
 
 (2) Az integrációs felkészítésre egyebekben a 39/D. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(3)[^207] Ha az áthelyezés indokoltsága a képzési kötelezettségről és a pedagógiai szakszolgálatokról szóló 4/2010. (I. 19.) OKM rendelet 19. § (4) bekezdésében foglaltak szerint megszűnt, a kötelező felvételt biztosító vagy a választott általános iskolába visszahelyezett tanuló nevelése és oktatása tekintetében a 39/D. § (4) bekezdésében foglalt pedagógiai programot kell alapul venni.
+(3)[^208] Ha az áthelyezés indokoltsága a képzési kötelezettségről és a pedagógiai szakszolgálatokról szóló 4/2010. (I. 19.) OKM rendelet 19. § (4) bekezdésében foglaltak szerint megszűnt, a kötelező felvételt biztosító vagy a választott általános iskolába visszahelyezett tanuló nevelése és oktatása tekintetében a 39/D. § (4) bekezdésében foglalt pedagógiai programot kell alapul venni.
 
-(4)[^208] Az óvoda a halmozottan hátrányos helyzetű gyermekek számára az oktatásért felelős miniszter által kiadott személyiségfejlesztő, tehetséggondozó, felzárkóztató program szerint óvodai fejlesztő programot szervez. Az óvodai fejlesztő programban az a gyermek vehet részt, aki a közoktatási törvény 121. § (1) bekezdésének 14. pontja alapján halmozottan hátrányos helyzetűnek minősül.
+(4)[^209] Az óvoda a halmozottan hátrányos helyzetű gyermekek számára az oktatásért felelős miniszter által kiadott személyiségfejlesztő, tehetséggondozó, felzárkóztató program szerint óvodai fejlesztő programot szervez. Az óvodai fejlesztő programban az a gyermek vehet részt, aki a közoktatási törvény 121. § (1) bekezdésének 14. pontja alapján halmozottan hátrányos helyzetűnek minősül.
 
 (5) Az óvodai fejlesztő program keretében – a gyermek igényéhez igazodva – oldja meg az óvoda
 
@@ -20,6 +20,6 @@ c) az együttműködések kialakítását azokkal a szolgálatokkal, melyek a gy
 
 (8) Az óvodai fejlesztő programot az intézmény az Országos Oktatási Integrációs Hálózattal kötött együttműködési megállapodás alapján, a Hálózat szakmai támogatásával szervezi meg, mely szakmai szolgáltatás kiterjed a fenntartó számára nyújtott, a közoktatási törvény 105. §-a szerinti önkormányzati intézkedési terv közoktatási esélyegyenlőségi intézkedési terve elkészítésének támogatására is.
 
-[^206]: A 39/E. §-t az 57/2002. (XI. 18.) OM rendelet 1. §-a iktatta be, szövege a 21/2009. (IV. 16.) OKM rendelet 2. §-ával megállapított szöveg.
-[^207]: A 39/E. § (3) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 6. §-ával megállapított szöveg.
-[^208]: A 39/E. § (4) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^207]: A 39/E. §-t az 57/2002. (XI. 18.) OM rendelet 1. §-a iktatta be, szövege a 21/2009. (IV. 16.) OKM rendelet 2. §-ával megállapított szöveg.
+[^208]: A 39/E. § (3) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^209]: A 39/E. § (4) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 8. § a) pontja szerint módosított szöveg.

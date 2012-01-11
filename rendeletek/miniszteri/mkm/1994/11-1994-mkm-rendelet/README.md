@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-11-20-6
 | 2011-07-01 | 1994-11-20-67.46 | 34/2011. (VI. 24.) NEFMI rendelet |
 | 2011-07-02 | 1994-11-20-67.47 | 34/2011. (VI. 24.) NEFMI rendelet |
 | 2011-09-01 | 1994-11-20-67.48 | 34/2011. (VI. 24.) NEFMI rendelet |
+| 2012-01-11 | 1994-11-20-67.49 | 34/2011. (VI. 24.) NEFMI rendelet |

@@ -6,9 +6,9 @@
 
 (3) A határozatot meg kell indokolni. A határozatnak a jogorvoslati joggal kapcsolatos tájékoztatást is tartalmaznia kell.
 
-(4) A jogorvoslati eljárásban a tanulót szülője, továbbá meghatalmazottja (Ptk.[^170] 222—223. §) képviselheti.
+(4) A jogorvoslati eljárásban a tanulót szülője, továbbá meghatalmazottja (Ptk.[^171] 222—223. §) képviselheti.
 
-(5)–(6)[^171]
+(5)–(6)[^172]
 
-[^170]: Lásd az 1959: IV. törvényt.
-[^171]: A 36. § (5)–(6) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
+[^171]: Lásd az 1959: IV. törvényt.
+[^172]: A 36. § (5)–(6) bekezdését a 16/1998. (IV. 8.) MKM rendelet 31. §-a (5) bekezdésének a) pontja hatályon kívül helyezte.
