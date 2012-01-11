@@ -1,0 +1,1 @@
+## hatályát veszti.

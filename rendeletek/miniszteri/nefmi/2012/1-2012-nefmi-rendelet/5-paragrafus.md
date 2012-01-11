@@ -1,0 +1,1 @@
+## „(10) A fenntartó legkésőbb a nevelési-oktatási intézmény tervezett indítása évének május utolsó munkanapjáig, a közoktatási törvény 102. § (11) bekezdésében meghatározott egyéb átszervezés esetében július utolsó munkanapjáig nyújthatja be a kormányhivatalhoz az intézmény működésének megkezdéséhez szükséges engedély, illetve az engedély módosítása iránti kérelmet.”
