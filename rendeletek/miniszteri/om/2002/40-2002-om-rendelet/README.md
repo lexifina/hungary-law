@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-40-20-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2002-40-20-45.9 | 40/2002. (V. 24.) OM rendelet |
+| 2012-01-11 | 2002-40-20-45.10 | Nemzeti Jogszabálytár (egységes szerkezet) |
