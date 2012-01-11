@@ -1,3 +1,5 @@
+## 12/A. §[^72] Az 5. § (4) bekezdésében és a 12. § (3) bekezdésében foglaltakat – az 1223/2009/EK európai parlamenti és tanácsi rendelet 39. cikk második albekezdésére figyelemmel – nem kell alkalmazni, ha a kozmetikai termék forgalomba hozatalát az 1223/2009/EK európai parlamenti és tanácsi rendelet 13. cikke alapján bejelentették.
+
 13. § (1)[^73] Az e rendeletben foglalt szabályok betartásának hatósági ellenőrzését hatáskörében
 
 a) a kistérségi népegészségügyi intézet,
@@ -24,6 +26,7 @@ b) a hiba okozója, ha a hiba a kereskedelmi forgalom során keletkezett.
 
 (7)[^77]
 
+[^72]: A 12/A. §-t a 33/2011. (VI. 21.) NEFMI rendelet 1. § (3) bekezdése iktatta be.
 [^73]: A 13. § (1) bekezdése a 33/2011. (VI. 21.) NEFMI rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^74]: A 13. § (4) bekezdése az 5/2004. (II. 10.) ESZCSM rendelet 10. § (1) bekezdésével megállapított, és a 75/2011. (XII. 29.) NEFMI rendelet 2. § e) pontja szerint módosított szöveg.
 [^75]: A 13. § (5) bekezdése a 14/2010. (IV. 7.) EüM rendelet 4. §-ával megállapított szöveg.
