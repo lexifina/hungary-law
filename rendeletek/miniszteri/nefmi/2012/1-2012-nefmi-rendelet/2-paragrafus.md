@@ -1,1 +1,3 @@
-## 1. § Az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet (a továbbiakban: R.) Melléklete az 1. melléklet szerint módosul.
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
