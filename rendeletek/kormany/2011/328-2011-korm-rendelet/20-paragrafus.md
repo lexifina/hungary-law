@@ -1,0 +1,1 @@
+## 19. § Hatályát veszti a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 133/1997. (VII. 29.) Korm. rendelet.

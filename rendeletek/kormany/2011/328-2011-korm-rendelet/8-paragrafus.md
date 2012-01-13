@@ -1,0 +1,3 @@
+8. § (1) A Gyvt. 148. § (1) bekezdése szerinti intézményvezető az ellátást igénybe vevő személy térítésidíj-fizetési kötelezettségét – a gyermekétkeztetés és a Gyvt. 148. § (10) bekezdése szerinti eset kivételével – az 1. melléklet szerint dokumentálja.
+
+(2) A bölcsőde, a családi napközi, a családi gyermekfelügyelet, a gyermekek átmeneti gondozása és az utógondozói ellátás esetében az ellátási napokon az ellátást igénybe vevők jelen- vagy távollétét az intézményvezető a 2. melléklet szerint dokumentálja. Az igénybe vevő azon az ellátási napon minősül távollévőnek, amelyen nem tartózkodik az intézményben, illetve nem veszi igénybe a szolgáltatást (ellátást).
