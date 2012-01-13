@@ -12,10 +12,12 @@ c) típusjogosítású légijárműnél új típus bevezetése esetén a légik�
 
 (3) A légiközlekedési hatóság a felhatalmazást írásban adja meg, ha a kérelmező teljesítette a rendeletben a vizsgáztatóra meghatározott követelményeket és írásban nyilatkozott arról, hogy hozzájárul a 17. §-ban meghatározott adatainak kezeléséhez. A felhatalmazásban meghatározza a felhatalmazás célját és a vizsgáztatási eljárás során ellátandó feladatokat.
 
-(4) Oktatói jogosítás esetén a jártassági vizsgát és a készség-ellenőrzést, valamint a vizsgáztató esetében a felhatalmazáshoz előírt vizsgát és a készség-ellenőrzést az (1) bekezdés a) pontjában meghatározott személy végzi.
+(4)[^2] Oktatói jogosítás esetén (a repülőgép kategória kivételével) a jártassági vizsgát és a készség-ellenőrzést, a vizsgáztató esetében a felhatalmazáshoz előírt vizsgát és a készség-ellenőrzést, valamint a többpilótás repülőgép szakszolgálati engedély és a légitársasági repülőgép pilóta szakszolgálati engedély esetén a jártassági vizsgát az (1) bekezdés a) pontjában meghatározott személy végzi.
 
 (5) A vizsgáztató jogosult annak eldöntésére, hogy a vizsgázó megfelelő szinten elsajátította a szakszolgálati tevékenységhez szükséges ismeretet és gyakorlatot.
 
 (6) A légiközlekedési hatóság repülési felügyelője vizsgáztatói feladatának ellátása során szakszolgálati tevékenységet – az (1) bekezdés figyelembevételével – e rendeletben meghatározott szakszolgálati engedéllyel, jogosítással és a vizsgáztatóra vonatkozó követelmények teljesítésével végezhet.
 
 (7) A vizsgáztató nem vizsgáztathatja azt a kérelmezőt, akinek maga tartotta a szakszolgálati engedélyhez vagy jogosításhoz szükséges képzést, kivéve, ha a légiközlekedési hatóság erre írásban felhatalmazza.
+
+[^2]: A 14. § (4) bekezdése a 88/2011. (XII. 29.) NFM rendelet 1. §-ával megállapított szöveg.

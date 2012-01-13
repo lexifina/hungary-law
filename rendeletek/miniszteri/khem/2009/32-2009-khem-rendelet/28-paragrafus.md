@@ -1,6 +1,6 @@
 ## A nem JAA tagállam által kiadott repülőgép pilóta szakszolgálati engedély érvényesítése
 
-28. § (1)[^6] A nem JAA tagállam, de a Chicagói Egyezmény Szerződő Államának légiközlekedési hatósága által kiadott pilóta szakszolgálati engedély az érvényességi idején belül minden további eljárás nélkül érvényes magáncélú repülésre, látvarepülési szabályok között (VFR) egypilótás légijárművön Magyarország területén és légterében.
+28. § (1)[^8] A nem JAA tagállam, de a Chicagói Egyezmény Szerződő Államának légiközlekedési hatósága által kiadott pilóta szakszolgálati engedély az érvényességi idején belül minden további eljárás nélkül érvényes magáncélú repülésre, látvarepülési szabályok között (VFR) egypilótás légijárművön Magyarország területén és légterében.
 
 (2) Az (1) bekezdésben nem szereplő esetben, a nem JAA tagállam, de a Chicagói Egyezmény Szerződő Államának légiközlekedési hatósága által kiadott repülőgép pilóta szakszolgálati engedélyt – a hivatásos pilóta szakszolgálati engedély kivételével – a légiközlekedési hatóság kérelemre érvényesíti a magyar lajstromban lévő légijármű használatára, ha a kérelmező megfelel a 16. mellékletben meghatározott követelménynek.
 
@@ -14,4 +14,4 @@
 
 (7) Ha a pilóta nem JAA tagállamban kiállított szakszolgálati engedéllyel rendelkezik és JAA tagállamban további jogosítás megszerzésére vonatkozó képzésben vesz részt és sikeres vizsgát tesz, a jogosítás megszerzéséhez a képzés és a vizsga teljesítéséről kiállított igazolás szükséges.
 
-[^6]: A 28. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 67. § a) pontja szerint módosított szöveg.
+[^8]: A 28. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 67. § a) pontja szerint módosított szöveg.

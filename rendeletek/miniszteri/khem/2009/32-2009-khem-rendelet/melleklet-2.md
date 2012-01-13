@@ -2123,11 +2123,3 @@ meghosszabbítás kérelem
 | 2. | KÉRELEM Application |
 
 | Milyen léghajó pilóta jogosítás meghosszabbítását kéri? What kind of airship pilot rating’s revalidation apply for? Típusjogosítás ⬜, műszerjogosítás (IR(AS) ⬜, repülés-oktatói jogosítás (FI(AS)) ⬜, type rating instrument rating Flight instructor rating |
-
-| 3. | REPÜLÉSI KÖVETELMÉNYEK Flight requirements |
-
-| A Típusjogosítás Type rating | Fel és leszállások száma az adott típussal a megelőző 12 hónapban Number of T/O and LND on the type in the previous 12 months |  |
-
-| B Műszerjogosítás (IR(AS) Instrument rating | IFR szerint repült idő a megelőző 12 hónapban IFR flight time in the previous 12 months |  |
-
-| C Repülés-oktatói jogosítás (FI(AS)) Flight Instructor rating | Repülés oktatási idő a megelőző 36 hónapban 12 hónaponként Flight time as instructor in the previous 36 months 12 monthly | / / |
