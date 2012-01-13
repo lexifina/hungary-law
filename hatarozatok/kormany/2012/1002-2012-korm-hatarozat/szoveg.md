@@ -14,4 +14,6 @@ Határidő: 2012. május 31.
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5. A Kormány visszavonja az önkormányzati feladatok elősegítése céljából egyes Nemzeti Földalapba tartozó termőföldek önkormányzatok részére történő átadásáról szóló 2063/2006. (IV. 3.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
