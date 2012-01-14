@@ -1,1 +1,0 @@
-## 4. § Az R. 7. § (6) bekezdésében az „illetve kúraszerű ellátásokat” szövegrész helyébe az „illetve kúraszerű ellátásokat – kivéve a (6a) bekezdés szerinti rehabilitációs ellátási program szerinti nappali ellátásokat –” szöveg lép.
