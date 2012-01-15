@@ -1,0 +1,9 @@
+# 12/2011. (XII. 16.) NMHH rendelet
+
+a nem polgári célú frekvenciagazdálkodás rendjéről, valamint a nem polgári célú frekvenciagazdálkodás körébe tartozó szervezetekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-12-20-3H
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-01-15 | 2011-12-20-3H.1 | 12/2011. (XII. 16.) NMHH rendelet |
