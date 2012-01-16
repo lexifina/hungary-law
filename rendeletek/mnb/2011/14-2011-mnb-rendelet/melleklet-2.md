@@ -124,7 +124,7 @@
 
 | 59 | AL1 | Napi jelentés az egyes követelések és kötelezettségek könyv szerinti bruttó állományáról | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, napi | elektronikus úton (EBEAD) | elrendelést követő első alkalommal a tárgynapot követő 1. munkanap 12:00 óra; az elrendelést követő második naptól a tárgynapot követő 1. munkanap 11:00 óra | MNB Statisztika |
 
-| 60 | AL2 | Napi jelentés a cash- flow adatokról | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, napi | elektronikus úton (EBEAD) | tárgynap 12:00 óra | MNB Statisztika |
+| 60 | AL2 | Napi jelentés a cash- flow adatokról | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, napi | elektronikus úton (EBEAD) | tárgynapot követő munkanap 12:00 óra | MNB Statisztika |
 
 | 61 | L01 | Nemzetközi tartalékok és devizalikviditás | MÁK, ÁKK Zrt. | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 15. nap. | MNB Statisztika |
 
@@ -268,7 +268,7 @@
 
 | 3 | Z03 | A fogyasztói árindex számításához felhasznált bolti szintű, anonimizált áradatok | KSH | megállapodás szerint | elektronikus úton | megállapodás szerint | MNB Kutatás |
 
-2. melléklet a 14/2011. (XI. 13.) MNB rendelethez
+2. melléklet a 14/2011. (XI. 13.) MNB rendelethez[^7]
 
 I. AZ INFORMÁCIÓK SZOLGÁLTATÁSÁRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -2580,4 +2580,5 @@ e) A kódlista szerint kell kitölteni.
 
 | nnn |  |  |  |  |  |  |
 
+[^7]: A 2. melléklet a 3/2012. (I. 12.) MNB rendelet 4. §-a szerint módosított szöveg.
 [^1:]: Az egyes intézmények két alszektor szerinti besorolásához segítséget ad az Európai Központi Bank honlapján elhelyezett ún. MFI lista, amelynek pontos elérési útvonala a 3. melléklet 1. pontja szerinti listákat tartalmazó, az MNB honlapján közzétett technikai segédletben található.
