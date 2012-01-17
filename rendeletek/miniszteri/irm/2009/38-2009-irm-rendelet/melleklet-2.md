@@ -98,7 +98,7 @@
 
 ## A követeléseket a vagyonfelügyelő az adós bevonásával veszi nyilvántartásba és sorolja be, melynek eredményéről a hitelezőket értesíti. Erre az eljárásra a Cstv. 12. és 14. §-a irányadó.
 
-## VI. Kormányrendeletben nemzetgazdaságilag kiemeltként minősített vállalkozásokra a Cstv. IV. fejezete sajátos szabályokat tartalmaz.
+## VI. Kormányrendeletben stratégiailag kiemeltként minősített vállalkozásokra a Cstv. IV. fejezete sajátos szabályokat tartalmaz.
 
 ## Invitation to Lodge a Claim in Bankruptcy Proceedings
 
@@ -200,7 +200,7 @@
 
 ## The Bankruptcy Trustee shall register and classify the claims with the Debtor’s involvement and shall notify the Creditors about the outcome thereof. Art’s 12 and 14 of the Bankruptcy Act apply to these proceedings.
 
-## VI. The Chapter IV of the of the Bankruptcy Act foresees specific rules regarding the «priority enterprises for the national economy» under the terms of a Government Decree.
+## VI. The Chapter IV of the of the Bankruptcy Act foresees specific rules regarding «enterprises qualified as having strategic priority» under the terms of a Government Decree.
 
 ## Invitation à produire des créances dans le cadre de la procédure de faillite
 
@@ -302,7 +302,7 @@
 
 ## Les créances sont enregistrées par l’administrateur judiciaire avec la participation du débiteur, dont les créanciers seront tenus informés. Les articles 12 et 14 du Cstv. sont ceux relatifs à cette procédure.
 
-## VI . Le chapitre IV. du Cstv. prévoit des règles spécifiques au regard des «entreprises prioritaires pour l’économie nationale» aux termes d’un décret gouvernemental.
+## VI. Le chapitre IV. du Cstv. prévoit des règles spécifiques au regard des «entreprises qualifiées prioritaires stratégiquement» aux termes d’un décret gouvernemental.
 
 ## Aufforderung zur Anmeldung einer Forderung im Konkursverfahren
 
@@ -404,7 +404,7 @@
 
 ## Die Forderungen werden vom Ausgleichsverwalter unter Einbeziehung des Schuldners registriert und eingestuft, über deren Ergebnis auch die Gläubiger von ihm verständigt werden. Für dieses Verfahren sind §§ 12. und 14. Cstv. maßgebend.
 
-## VI. Die für in Regierungsverordnung als nationalwirtschaftlich hervorgehobenen bestimmten Unternehmen geltenden besonderen Vorschriften befinden sich in dem IV. Abschnitt des Gesetzes über das Konkursverfahren und Liquidationsverfahren.
+## VI. Für laut Verordnung der Regierung als «Unternehmen strategischer Priorität» bestimmte Firmen gelten die besondere Vorschriften des IV. Abschnittes des Gesetzes über das Konkursverfahren und Liquidationsverfahren.
 
 2. számú melléklet a 38/2009. (VIII. 31.) IRM rendelethez[^3]
 
@@ -514,7 +514,7 @@ A Cstv. 46. §-ának (6) bekezdése szerint a felszámoló a határidőben bejel
 
 Az elmulasztott határidő utolsó napjától számított 15 napon belül a hitelező – a polgári perrendtartásról szóló 1952. évi III. törvény 107. §-a alapján – igazolási kérelmet terjeszthet elő felszámolási eljárást elrendelő bírósághoz. Ha azonban a mulasztás csak később jutott a félnek vagy képviselőjének tudomására, vagy az akadály csak később szűnt meg, az igazolási kérelem határideje a tudomásszerzéssel, illetőleg az akadály megszűnésével veszi kezdetét. A mulasztástól számított három hónap eltelte után igazolási kérelmet előterjeszteni nem lehet. Az igazolási kérelemben elő kell adni a mulasztás okát és azokat a körülményeket, amelyek a mulasztás vétlenségét valószínűvé teszik. Az igazolási kérelem előterjesztésével együtt pótolni kell az elmulasztott cselekményt (a hitelezői igény bejelentését) is.
 
-VI. Kormányrendeletben nemzetgazdaságilag kiemeltként minősített vállalkozásokra a Cstv. IV. fejezete sajátos szabályokat tartalmaz.
+VI. Kormányrendeletben stratégiailag kiemeltként minősített vállalkozásokra a Cstv. IV. fejezete sajátos szabályokat tartalmaz.
 
 Invitation to Lodge a Claim in Liquidation Proceedings
 
@@ -620,7 +620,7 @@ In purview of Section (6) of Art. 46 of the Bankruptcy Act the Liquidator shall 
 
 The Creditor may, in pursuance of Art. 107 of Act III of 1952 on the Code of Civil Procedure, submit an application for certification to the Court which has ordered the liquidation proceedings within 15 days of the last day of the missed deadline. But if the party or his representative only became aware of the failure later or if the obstacle was only prevented later, the deadline of the application for certification shall commence by the time of receiving information or the prevention of obstacles, respectively. No application for certification shall be submitted after 3 months of the failure. The application for certification shall stipulate the reason for failure and the circumstances that support the probability of being innocent in failure. The failed action (submission of Creditor’s claim) shall be taken simultaneous with submitting the application for certification.
 
-VI. The Chapter IV of the of the Bankruptcy Act foresees specific rules regarding the «priority enterprises for the national economy» under the terms of a Government Decree.
+VI. The Chapter IV of the of the Bankruptcy Act foresees specific rules regarding «enterprises qualified as having strategic priority» under the terms of a Government Decree.
 
 Invitation à produire une créance dans le cadre de la procédure de liquidation
 
@@ -728,7 +728,7 @@ Au sens de l’article 46, paragraphe 6 l’administrateur judiciaire doit véri
 
 Dans 15 jours à compter du jour dernier du délai non réspecté le créancier peut introduire une demande de justification devant la cour décrétant la procédure de liquidation - au sens de l’article 107 de la loi n° III de 1952 relative à la code de procédure civile. Si la partie concernée ou son représentant est mis au courant de l’omission tardivement, ou l’obstacle a été levé plus tard, le délai pour introduire la demande de justification ne commence qu’ à partir du jour de la mise au courant et/ou la levée de l’obstacle. Une demande de justification ne peut être introduite que dans un délai de trois mois à compter de l’omission du délai. Le créancier doit justifier dans la demande de justification le motif de l’omission du délai et les conditions qui rendent probable l’accidentalité de l’omission. Au moment de l’introduction de la demande de justification, l’action manquée (production de la créance) doit être également complétée.
 
-VI. Le chapitre IV. du Cstv. prévoit des règles spécifiques au regard des «entreprises prioritaires pour l’économie nationale» aux termes d’un décret gouvernemental.
+VI. Le chapitre IV. du Cstv. prévoit des règles spécifiques au regard des «entreprises qualifiées prioritaires stratégiquement» aux termes d’un décret gouvernemental.
 
 Aufforderung zur Anmeldung einer Forderung im Liquidationsverfahren
 
@@ -834,6 +834,6 @@ Gemäß § 46 Abs. (6) ist der Liquidator verpflichtet, die fristgerecht angemel
 
 Der Gläubiger kann innerhalb von 15 Tagen ab dem letzten Tag der versäumten Frist - gemäß § 107 des Gesetzes Nr. III/1952 über die Zivilprozessordnung - einen Bestätigungsantrag beim das Liquidationsverfahren anordnenden Gericht einreichen. Gelang jedoch das Versäumnis erst später der Partei oder deren Vertreter zur Kenntnis, oder wurde das Hindernis erst später beseitigt, so beginnt die Frist mit der Kenntnisnahme bzw. der Beseitigung des Hindernisses zu laufen. Nach Ablauf von drei Monaten ab dem Versäumnis kann kein Bestätigungsanspruch eingereicht werden. Im Bestätigungsantrag sollen die Gründe des Versäumnisses und die Umstände vorgetragen werden, die ein unverschuldetes Versäumnis wahrscheinlich machen. Gleichzeitig mit der Einreichung des Bestätigungsantrages ist auch die versäumte Handlung (die Anmeldung des Gläubigeranspruches) nachzuholen.
 
-VI. Die für in Regierungsverordnung als nationalwirtschaftlich hervorgehobenen bestimmten Unternehmen geltenden besonderen Vorschriften befinden sich in dem IV. Abschnitt des Gesetzes über das Konkursverfahren und Liquidationsverfahren.
+VI. Für laut Verordnung der Regierung als «Unternehmen strategischer Priorität» bestimmte Firmen gelten die besondere Vorschriften des IV. Abschnittes des Gesetzes über das Konkursverfahren und Liquidationsverfahren.
 
-[^3]: A 2. melléklet a 30/2011. (X. 20.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. melléklet a 30/2011. (X. 20.) KIM rendelet 1. § (2) bekezdésével megállapított, a 2/2012. (I. 16.) KIM rendelet 1. § (2) bekezdése szerint módosított szöveg.
