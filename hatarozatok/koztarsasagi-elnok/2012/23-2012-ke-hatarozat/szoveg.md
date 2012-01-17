@@ -16,6 +16,8 @@ A Magyarország címerének és zászlajának használatáról, valamint állami
 
 6. Az Érdemérem és a Díszoklevél Éremmel kitüntetés adományozásának tárgyi feltételeiről, az Érdemérem és a Díszoklevél Éremmel kitüntetés tulajdonosainak nyilvántartásáról, továbbá az adományozás közzétételéről a Köztársasági Elnöki Hivatal gondoskodik.
 
-7. Jelen határozat a kihirdetésének napján lép hatályba. Ezzel egyidejűleg hatályát veszti a Köztársaság Elnökének Érdemérme és a Köztársaság Elnökének Díszoklevele Éremmel kitüntetések alapításáról szóló 223/2010. (IX. 2.) KE határozat.
+7.[^2] Jelen határozat a kihirdetésének napján lép hatályba.
 
 KEH ügyszám: VIII-5/00240/2012.
+
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
