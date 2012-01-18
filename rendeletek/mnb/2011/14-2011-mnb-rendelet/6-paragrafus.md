@@ -4,7 +4,7 @@
 
 (3)[^1]
 
-(4)[^2] Az AL2 azonosító kódú adatszolgáltatást e rendeletnek a jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 14/2011. (X. 13.) MNB rendelet módosításáról szóló 3/2012. (I. 12.) MNB rendelet 3. és 4. §-ával megállapított rendelkezései szerint első alkalommal 2012. január 17-én kell teljesíteni.
+(4)[^2]
 
 [^1]: A 6. § (3) bekezdését a 3/2012. (I. 12.) MNB rendelet 1. §-a iktatta be, hatályon kívül helyezte a 7. § (1a) bekezdése.
-[^2]: A 6. § (4) bekezdését a 3/2012. (I. 12.) MNB rendelet 1. §-a iktatta be.
+[^2]: A 6. § (4) bekezdését a 3/2012. (I. 12.) MNB rendelet 1. §-a iktatta be, hatályon kívül helyezte a 7. § (1b) bekezdése.
