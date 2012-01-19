@@ -1,0 +1,1 @@
+## „(3) Az egészségkárosító kockázati tényezők fennállását – a helyszíni vizsgálat alapján, az országos szakmai gyakorlatot figyelembe véve – az MH Közegészségügyi és Járványügyi Szolgálata állapítja meg. Az egészségkárosító kockázati tényezők megállapításánál a honvédelemért felelős miniszter által kiadott külön jogszabály az irányadó.”
