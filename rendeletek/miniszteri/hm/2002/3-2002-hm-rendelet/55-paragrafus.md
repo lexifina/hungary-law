@@ -1,6 +1,6 @@
 ## Az illetménypótlékok minősítése
 
-## 55. §[^68] A Hjt. 123. §-ában meghatározott rendszeres illetménypótlékoknál fel nem sorolt pótlékokat eseti pótlékként kell kezelni. Így eseti illetménypótlék:
+## 55. §[^70] A Hjt. 123. §-ában meghatározott rendszeres illetménypótlékoknál fel nem sorolt pótlékokat eseti pótlékként kell kezelni. Így eseti illetménypótlék:
 
 a) a repülőgép berepülési pótlék,
 
@@ -24,18 +24,18 @@ j) orvosi ügyeleti díj,
 
 k) a terepfelmérői pótlék,
 
-l)[^69] az egészségkárosító veszélynek kitett beosztásban szolgálatot teljesítők eseti pótléka,
+l)[^71] az egészségkárosító veszélynek kitett beosztásban szolgálatot teljesítők eseti pótléka,
 
 m) a Hjt. 252. §-ának (1) bekezdése szerinti akciószolgálati pótlék,
 
-n)[^70] délutáni és éjszakai pótlék,
+n)[^72] délutáni és éjszakai pótlék,
 
-o)[^71] a gépjárművezetői pótlék, valamint
+o)[^73] a gépjárművezetői pótlék, valamint
 
-p)[^72] az eseti díszelgési pótlék.
+p)[^74] az eseti díszelgési pótlék.
 
-[^68]: Az 55. § a 22/2004. (VIII. 21.) HM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
-[^69]: Az 55. § l) pontja a 22/2009. (XII. 29.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^70]: Az 55. § n) pontja a 22/2009. (XII. 29.) HM rendelet 21. § (1) bekezdése szerint módosított szöveg.
-[^71]: Az 55. § o) pontja a 22/2009. (XII. 29.) HM rendelet 21. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^72]: A 55. § p) pontját a 22/2009. (XII. 29.) HM rendelet 3. § (2) bekezdése iktatta be.
+[^70]: Az 55. § a 22/2004. (VIII. 21.) HM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
+[^71]: Az 55. § l) pontja a 22/2009. (XII. 29.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^72]: Az 55. § n) pontja a 22/2009. (XII. 29.) HM rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^73]: Az 55. § o) pontja a 22/2009. (XII. 29.) HM rendelet 21. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^74]: A 55. § p) pontját a 22/2009. (XII. 29.) HM rendelet 3. § (2) bekezdése iktatta be.

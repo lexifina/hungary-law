@@ -1,12 +1,12 @@
-## 85–92. §[^114]
+## 85–92. §[^116]
 
 ## VI. Fejezet
 
-## A HONVÉD TISZTJELÖLTEK ÖSZTÖNDÍJA[^115]
+## A HONVÉD TISZTJELÖLTEK ÖSZTÖNDÍJA[^117]
 
 ## (A Hft. 38. §-ához)
 
-93. §[^116] (1) A Hft. 41/A. § (10) bekezdés a) pontja szerinti repülési pótlék mértéke az illetményalap százalékában meghatározva:
+93. §[^118] (1) A Hft. 41/A. § (10) bekezdés a) pontja szerinti repülési pótlék mértéke az illetményalap százalékában meghatározva:
 
 a) a II. szemeszterben 25%,
 
@@ -28,6 +28,6 @@ c) 76. ugrástól az illetményalap 5%-a.
 
 (4) Az állományilletékes parancsnok által kijelölt személy a Hvt. 70. § (1) bekezdésének h) pontjában meghatározott feladatok végrehajtásáról részletes nyilvántartást vezet. A pótlék elszámolás során minden megkezdett naptári nap teljes napnak minősül.
 
-[^114]: A 85–92. §-t és a 85. § előtti V. Fejezet megjelölést, a címet és az alcímet hatályon kívül helyezte a 7/2005. (III. 23.) HM rendelet 10. § (6) bekezdésének f) pontja.
-[^115]: A 93. §-t megelőző alcím a 14/2011. (X. 28.) HM rendelet 3. §-ával megállapított szöveg.
-[^116]: A 93. § a 14/2011. (X. 28.) HM rendelet 3. §-ával megállapított szöveg.
+[^116]: A 85–92. §-t és a 85. § előtti V. Fejezet megjelölést, a címet és az alcímet hatályon kívül helyezte a 7/2005. (III. 23.) HM rendelet 10. § (6) bekezdésének f) pontja.
+[^117]: A 93. §-t megelőző alcím a 14/2011. (X. 28.) HM rendelet 3. §-ával megállapított szöveg.
+[^118]: A 93. § a 14/2011. (X. 28.) HM rendelet 3. §-ával megállapított szöveg.

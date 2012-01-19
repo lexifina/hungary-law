@@ -12,6 +12,6 @@
 
 (2) A 8. § hatálybalépésének időpontja 2003. január 1.
 
-(3)[^139]
+(3)[^141]
 
-[^139]: A 112. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 106. pontja hatályon kívül helyezte.
+[^141]: A 112. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 106. pontja hatályon kívül helyezte.
