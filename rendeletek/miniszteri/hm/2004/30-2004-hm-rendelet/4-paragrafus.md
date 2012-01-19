@@ -10,12 +10,13 @@ c) az ergometriai és ergonómiai vizsgálatokat;
 
 d) a munkaegészségügyi tevékenység körébe tartozó expozíciós méréseket;
 
-e)[^7] a vizsgálati eredmények alapján (a mérési jegyzőkönyvek csatolásával) az adott munkakör betöltőjét érő egészségi ártalmak fennállásának rögzítését;
+e)[^8] a vizsgálati eredmények alapján (a mérési jegyzőkönyvek csatolásával) az adott munkakör betöltőjét érő egészségi ártalmak fennállásának rögzítését;
 
 f) a radioaktív anyagokkal és az ionizáló sugárzást kibocsátó berendezésekkel, valamint elektromos és mágneses erőterekkel kapcsolatos közegészségügyi feladatokat;
 
 g) a szolgálati, illetve foglalkozási megbetegedések és fokozott expozíciós esetek megelőzése érdekében a munkavégzésből származó megterhelésekkel, munkakörnyezeti kóroki tényezőkkel kapcsolatos határértékek és a megelőzésre vonatkozó előírások betartásának az ellenőrzését, és gondoskodik ezen előírásoknak a személyi állománnyal való megismertetéséről, oktatásáról.
 
-(3) A Szolgálat az (1)–(2) bekezdés szerinti feladatai ellátása során együttműködik a honvédelmi ágazat munkavédelmi felügyeletét ellátó Hivatallal.
+(3)[^9]
 
-[^7]: A 4. § (2) bekezdés e) pontja az 5/2010. (III. 9.) HM rendelet 6. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 4. § (2) bekezdés e) pontja az 5/2010. (III. 9.) HM rendelet 6. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 4. § (3) bekezdését az 1/2012. (I. 11.) HM rendelet 6. §-a hatályon kívül helyezte.
