@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-23-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-03-21 | 2004-23-20-15.3 | 23/2004. (IX. 3.) HM rendelet |
+| 2012-01-19 | 2004-23-20-15.4 | 1/2012. (I. 11.) HM rendelet |
