@@ -26,7 +26,7 @@
 
 |  | 3001-től | 2 | 2 |
 
-|  | Elöljáró parancsnokság |  | 2 |  |
+|  | Elöljáró parancsnokság |  | 3 |  |
 
 |  | Missziós tevékenység vonatkozásában | z. szintig |  | 12 |
 
@@ -36,6 +36,6 @@
 
 ## 2 A tevékenység ellátása nem igényel önálló munkakört.
 
-5. melléklet az 1/2009. (I. 30.) HM rendelethez[^9]
+5. melléklet az 1/2009. (I. 30.) HM rendelethez[^11]
 
-[^9]: Az 5. mellékletet az 5/2010. (III. 9.) HM rendelet 7. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
+[^11]: Az 5. mellékletet az 5/2010. (III. 9.) HM rendelet 7. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.
