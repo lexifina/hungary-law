@@ -2902,15 +2902,15 @@
 
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
-| A | általános | a | pk., főigazgató, igazgató, intézetvezető, hiv. vez. |
+| A | általános | a | pk., főigazgató, igazgató, intézetvezető, hiv. vez., honvéd-tiszti főorvos |
 
-| B | belgyógyászat | b | az „a” pontban szereplők helyettesei |
+| B | belgyógyászat | b | az „a” pontban szereplők helyettesei, honvéd-tisztiorvos |
 
-| C | kardiológia | c | MH főszakorvos, MH főpszichológus, MH főállatorvos |
+| C | kardiológia | c | MH főszakorvos, MH főpszichológus, MH főállatorvos, honvéd-tisztiorvos |
 
 | D | hematológia, angiológia | d | főnök, rendelővezető, ov., alov., rlg. vez., vezető közegészségügyi felügyelő |
 
-| E | infektológia | e | kiem. főti., főti., ti., tts. |
+| E | infektológia | e | kiem. főti., főti., ti., alti. |
 
 | F | reumatológia | f | főorvos, adjunktus, szakorvos, orvos, alorvos, szakpszichológus |
 
@@ -2918,9 +2918,9 @@
 
 | H | repülőorvos | h | a „d” pontban szereplők helyettesei |
 
-| I | toxikológia | i | felcser, eü. tiszthelyettes |
+| I | toxikológia | i | felcser, eü. altiszt |
 
-| J | tüdőgyógyászat | j | légi eü. ti., tts. |
+| J | tüdőgyógyászat | j | légi eü. ti., alti. |
 
 | K | ideg- és elmegyógyászat | k | beosztott |
 
@@ -2928,7 +2928,7 @@
 
 | M | gastroenterológia | m | műszerész |
 
-| N | közegészségügy – járványügy | n | vezető-, szakápoló, ápoló, okl. ápoló, dipl. ápoló |
+| N | közegészségügy - járványügy | n | vezető-, szakápoló, ápoló, okl. ápoló, dipl. ápoló |
 
 | O | foglalkozás egészségügy | o | kötöző |
 
@@ -2948,7 +2948,7 @@
 
 | W | vérellátó | w | kisegítő, eü. kisegítő, beteghordó, műtőssegéd, eü. katona |
 
-| X | egészségügyi anyagellátó | x | vezénylő tiszthelyettes |
+| X | egészségügyi anyagellátó | x | vezénylő altiszt |
 
 | Y | diabetológia, endokrinológia | y | masszőr, gyógymasszőr, sterilizáló |
 
@@ -3016,6 +3016,8 @@
 
 | 75 | ELLENŐRZÉSI ÉS HATÓSÁGI |
 
+| 75 | ELLENŐRZÉSI ÉS HATÓSÁGI |
+
 | Fegyvernemi (szakági) alcsoport | Munkakör |
 
 | A | államháztartási belső ellenőrzési | a | főigazgató, igazgató, parancsnok |
@@ -3026,19 +3028,19 @@
 
 | D |  | d | főnök, ov., alov., rlg. vez. |
 
-| E | egészségügyi | e | kiem. főti., főti., ti., tts. |
+| E |  |  |  |
 
-| F |  | f |  |
+| F | építésfelügyeleti | f |  |
 
 | G | építésügyi | g |  |
 
-| H | építésfelügyeleti | h | a „d” pontban szereplők helyettesei |
+| H | honvédelmi szakhatósági | h | a „d” pontban szereplők helyettesei |
 
 | I |  | i |  |
 
 | J | járművizsgálati | j |  |
 
-| K |  | k |  |
+| K | katasztrófavédelmi | k |  |
 
 | L | környezetvédelmi | l | kiemelt főellenőr, főellenőr, ellenőr |
 
@@ -3052,11 +3054,11 @@
 
 | Q |  | q |  |
 
-| R | erdészeti | r |  |
+| R |  | r |  |
 
-| S |  | s |  |
+| S | szabályozott anyagokkal kapcsolatos | s |  |
 
-| T | tűzvédelmi | t |  |
+| T | tűzvédelmi | t | szaktechnikus |
 
 | U |  | u |  |
 
