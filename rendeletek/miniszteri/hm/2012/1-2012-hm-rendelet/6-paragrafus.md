@@ -1,1 +1,0 @@
-## „(1) A katonai szervezetek egészségkárosító hatás kockázatának kitett beosztásaiban és munkaköreiben az egyéni védőeszközök állandó vagy tartós használatát a kollektív szerződés, vagy az állományilletékes parancsnok (vezető) határozza meg, tekintettel az egészségkárosító veszély (kockázat) mértékére. Az egyes beosztások meghatározásánál a Szolgálat véleményét ki kell kérni.”
