@@ -6,7 +6,7 @@ b) a fajta nemesítője vagy fenntartója, valamint
 
 c) az anyamag jogszerű használója.
 
-(2)[^47] A minősítési eljárás megindítására irányuló kérelemben az MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága részére meg kell adni, illetve ahhoz csatolni kell
+(2)[^48] A minősítési eljárás megindítására irányuló kérelemben az MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága részére meg kell adni, illetve ahhoz csatolni kell
 
 a) a kérelmező vagy a vetőmag-előállító nevét és címét, adószámát, illetve adóazonosító jelét,
 
@@ -24,4 +24,4 @@ g) nyilatkozatot arról, hogy a fajta valamely tagállamban vagy szerződött or
 
 h) nyilatkozatot az anyamag jogszerű használatáról.
 
-[^47]: A 17. § (2) bekezdés nyitó szövegrésze a 14/2011. (II. 24.) VM rendelet 17. § e) pontja szerint módosított szöveg.
+[^48]: A 17. § (2) bekezdés nyitó szövegrésze a 14/2011. (II. 24.) VM rendelet 17. § e) pontja szerint módosított szöveg.

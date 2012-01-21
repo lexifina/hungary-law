@@ -1040,6 +1040,6 @@
 
 | ***** | Az anyasorokban legalább 5% bibe megjelenés után a virágport hullató címer egy-egy ellenőrzésen legfeljebb 0,5% lehet. |
 
-6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^180]
+6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^183]
 
-[^180]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg.
+[^183]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg.

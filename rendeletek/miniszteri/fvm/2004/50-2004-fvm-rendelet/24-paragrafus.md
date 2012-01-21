@@ -1,6 +1,6 @@
 ## A zöldségvetőmagvak utóellenőrzése és kisparcellás fajtaazonosító vizsgálata
 
-24. §[^113] (1) A forgalomban lévő vetőmagtétel faj- és fajtaazonosságának, valamint fajtatisztaságának megállapítására kisparcellás fajtaazonosító vizsgálatot kell végezni. A kisparcellás fajtaazonosító vizsgálatot e rendelet előírásai, továbbá az MgSzH kisparcellás fajtaazonosító vizsgálatra vonatkozó módszertani szabályzata szerint kell elvégezni. Az MgSzH köteles a kisparcellás fajtaazonosító vizsgálatra vonatkozó módszertant nyilvánosan hozzáférhetővé tenni.
+24. §[^114] (1) A forgalomban lévő vetőmagtétel faj- és fajtaazonosságának, valamint fajtatisztaságának megállapítására kisparcellás fajtaazonosító vizsgálatot kell végezni. A kisparcellás fajtaazonosító vizsgálatot e rendelet előírásai, továbbá az MgSzH kisparcellás fajtaazonosító vizsgálatra vonatkozó módszertani szabályzata szerint kell elvégezni. Az MgSzH köteles a kisparcellás fajtaazonosító vizsgálatra vonatkozó módszertant nyilvánosan hozzáférhetővé tenni.
 
 (2) Az utóellenőrzés az MgSzH feladata. Az utóellenőrzés az MgSzH-hoz beküldött – az MgSzH által előírt nagyságú – hatósági vagy hivatalos mintából történik. Utóellenőrzést kell végezni a Magyar Köztársaságban első alkalommal minősített
 
@@ -36,4 +36,4 @@ b) az elitnél alacsonyabb szaporítású fokú vetőmag esetében a határért�
 
 (9) Abban az esetben, ha a kisparcellás fajtaazonosító vizsgálat az MgSzH hibájából vagy elemi kár következtében nem értékelhető, a beküldőt ebből származóan joghátrány nem érheti. Sikertelen vizsgálat esetén vagy vitás esetben a mintát valamely más tagállam illetékes hatóságához is el lehet küldeni utóellenőrzésre.
 
-[^113]: A 24. § a 14/2011. (II. 24.) VM rendelet 13. §-ával megállapított szöveg.
+[^114]: A 24. § a 14/2011. (II. 24.) VM rendelet 13. §-ával megállapított szöveg.
