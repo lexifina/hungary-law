@@ -388,6 +388,6 @@
 
 | (Solanum tuberosum L.) |  |  | vetőgumó |  |  |  |
 
-6. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^90]
+6. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^92]
 
-[^90]: A 6. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.
+[^92]: A 6. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.
