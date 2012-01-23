@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapjának szélén, felső köriratban a „MAGYARORSZÁG” felirat, valamint az „5000” értékjelzés és a „FORINT” felirat olvasható, egymástól pontszerű körmotívummal elválasztva. A középmezőben egy téglalap alakú, levágott sarkú plakett ábrázolása látható, Reményi József Danaidák című alkotásának középső – fél térdre ereszkedett, korsót tartó – nőalakjával. A plakett ábrázolása alatti vízszintes sorban a „BP.” verdejel és a „2012” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben Reményi József időskori portréja látható. Az emlékérme szélén, felső köriratban a „REMÉNYI JÓZSEF” és az „1887–1977” felirat olvasható, egymástól pontszerű körmotívummal elválasztva. A portrétól jobbra lent, egymás alatt Fritz Mihály tervezőművész mesterjegye és az „EUROPA” nemzetközi emlékérme-sorozat közös emblémája, az ún. „Euro-Star” jel látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
