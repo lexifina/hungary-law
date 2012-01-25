@@ -134,6 +134,8 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: 2012. december 31.
 
-4. Hatályát veszti a III. középtávú fogyasztóvédelmi politika megvalósítására irányuló, 2007–2010 közötti időszakra szóló cselekvési program végrehajtásához szükséges kormányzati intézkedésekről szóló 1033/2007. (V. 23.) Korm. határozat.
+4.[^2]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
