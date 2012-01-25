@@ -8,4 +8,6 @@ A Kormány
 
 4. elfogadja a Megállapodás kihirdetéséről szóló törvénytervezetet, és elrendeli a Megállapodás végleges szövegének megállapítását követően annak az Országgyűléshez történő benyújtását; a törvényjavaslat előadójának a Kormány a belügyminisztert jelöli ki;
 
-5. visszavonja a Magyar Köztársaság Kormánya és a Szerb Köztársaság Kormánya között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Megállapodás szövegének végleges megállapítására adott felhatalmazásról szóló 1386/2011. (XI. 17.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
