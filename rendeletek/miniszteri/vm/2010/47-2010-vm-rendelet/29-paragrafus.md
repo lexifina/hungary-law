@@ -10,7 +10,7 @@ b) a méhészeti termékek termelésének és forgalmazásának általános felt
 
 c) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló 2007. október 22-i 1234/2007/EK tanácsi rendelet 105. cikkének megfelelően Magyarország által benyújtott, méhészeti termékek termelésének és forgalmazásának javítására irányuló program jóváhagyásáról szóló Európai Közösségek Bizottsága C(2010) 6082. számú határozata.
 
-Melléklet a 47/2010. (XII. 31.) VM rendelethez
+Melléklet a 47/2010. (XII. 31.) VM rendelethez[^71]
 
 A MAGYAR MÉHÉSZETI NEMZETI PROGRAM
 
@@ -386,7 +386,7 @@ A támogatás összege: 20 000 euró/év
 
 2.1. Varroa destructor elleni gyógyszeres védekezés
 
-Ez a Nemzeti Program legnagyobb keretösszegű jogcíme. A Varroa atka elleni gyógyszeres védekezés keretében az atkaölő készítmények mellett a kezelések hatékonyságát növelő répacukor- és takarmánykiegészítő-szer költségek támogathatók. Ezen jogcím – amellett, hogy a rendelkezésre álló keretösszeg a Nemzeti Program teljes költségvetésének több mint 50%-a – a legnagyobb kérelemszámú, évről-évre 5 000 feletti az igénylések száma.
+Ez a Nemzeti Program legnagyobb keretösszegű jogcíme. A Varroa atka elleni gyógyszeres védekezés keretében az atkaölő készítmények mellett a kezelések hatékonyságát növelő cukor- és takarmánykiegészítő-szer költségek támogathatók. Ezen jogcím – amellett, hogy a rendelkezésre álló keretösszeg a Nemzeti Program teljes költségvetésének több mint 50%-a – a legnagyobb kérelemszámú, évről-évre 5 000 feletti az igénylések száma.
 
 A Varroa atka elleni gyógyszeres védekezés támogatása elősegíti, hogy a méhészek által korábban gyakran használt, ellenőrizetlen és kevéssé hatékony szerek helyett engedélyezett gyógyszerkészítményeket használjanak a Varroa atka elleni védekezésben. A támogatás alapja az engedélyezett készítmények és a kezelés kiegészítéséhez adható cukor beszerzése, felhasználása. A Varroa által legyengített méhek természetes ellenálló-képességét igyekszik visszaállítani az e jogcímből mértékkel és feltételekkel támogatható méhtakarmány-kiegészítők alkalmazása. A fertőzöttségtől való teljes mentesség ugyan nem érhető el, de a támogatás jelentős mértékben elősegíti a méhegészségügyi helyzet javulását.
 
@@ -707,3 +707,5 @@ Az értékelés szempontjai:
 –  javaslatok.
 
 A Nemzeti Programot érintő tájékoztatással és nyilvánossággal kapcsolatos teendők célja a potenciális és tényleges kedvezményezettek tájékoztatása a Nemzeti Program működéséről, a felajánlott pénzügyi és intézkedési lehetőségekről, a pályázati eljárásokról, a támogatások átláthatóságának biztosítása érdekében. Az érintett szervezetek honlapjukon, illetve a szaksajtóban adnak tájékoztatást.
+
+[^71]: A melléklet a 2/2012. (I. 23.) VM rendelet 17. § q) pontja szerint módosított szöveg.

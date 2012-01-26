@@ -8,6 +8,8 @@
 
 (4) A támogatás igénylője köteles a program dátumát, kezdési időpontját és várható időtartamát, helyszínét, illetve a program típusát (elméleti ismeretterjesztés, regionális rendezvény, nemzetközi rendezvény), továbbá az előadó(k) nevét és az előadás(ok) témáját az MVH-nak előzetesen bejelenteni. A bejelentést az MVH által rendszeresített és az MVH honlapján közleményben közzétett nyomtatványon személyesen vagy faxon kell benyújtani legkésőbb a program, vagy a képzés kezdő időpontját megelőző ötödik munkanapig beérkezően. A bejelentés elmulasztása vagy határidőn túl történő benyújtása esetén, vagy ha a bejelentés nem tartalmazza legalább a program dátumát, kezdési időpontját, várható időtartamát, helyszínét, az érintett program(ok) költségei nem számolhatók el.
 
-(5) Amennyiben az előadó(k) személyében vagy az előadás(ok) címében változás következik be, úgy a kérelmezőnek legkésőbb a programot követő első munkanapon a (4) bekezdés szerinti nyomtatvány benyújtásával jeleznie kell azt az MVH részére.
+(5)[^14]
 
 (6) Előadói díj szaktanácsadó esetében csak akkor számolható el, ha az OMME-val szaktanácsadói tevékenységre kötött vállalkozói szerződésben nevesített megyén és tevékenységi körön kívüli témában tart előadást.
+
+[^14]: A 10. § (5) bekezdését a 2/2012. (I. 23.) VM rendelet 18. § b) pontja hatályon kívül helyezte.

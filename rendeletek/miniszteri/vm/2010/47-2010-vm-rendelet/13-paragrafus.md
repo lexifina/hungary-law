@@ -1,16 +1,16 @@
 13. § (1) Nemzetközi rendezvényen való részvétel és kiállítás szervezésének támogatása esetében kizárólag a következő költségek támogathatóak:
 
-a) legfeljebb harminc fő utazási költsége legfeljebb 300 000 forint/fő összegig:
+a)[^20] legfeljebb harminc fő utazási költsége legfeljebb 300 000 forint/fő összegig:
 
-aa) saját személygépkocsi használatakor a kormányrendelet 1. melléklete szerinti alapnorma, az 1. mellékletben fel nem tüntetett típusú személygépkocsi esetén a kormányrendelet 4. § (1) bekezdése szerinti üzemanyag-fogyasztási alapnorma-átalány, valamint a NAV által közzétett mindenkori üzemanyagár, továbbá 9 forint/km általános személygépkocsi normaköltség figyelembevételével útnyilvántartás alapján meghatározott összeg;
+aa) saját személygépkocsi használata;
 
-ab) saját tehergépkocsi használatakor a kormányrendelet 1. melléklete szerinti alapnorma, az 1. mellékletben fel nem tüntetett típusú tehergépkocsi esetén az üzemmódtól és a motor hengerűrtartalmától függően a kormányrendelet 4. § (2) vagy (3) bekezdése szerinti üzemanyag-fogyasztási alapnorma-átalány, valamint a NAV által közzétett mindenkori üzemanyagár figyelembevételével útnyilvántartás alapján meghatározott összeg;
+ab) saját tehergépkocsi használata;
 
-ac) helyközi tömegközlekedéssel történő utazás költsége esetében az utazás igénybevételét igazoló menetjeggyel történő elszámolás ellenében;
+ac) helyközi tömegközlekedéssel történő utazás költsége;
 
-ad) bérelt busszal történő utazás költsége az utazás igénybevételét igazoló menetlevéllel történő elszámolás ellenében;
+ad) bérelt busszal történő utazás költsége;
 
-ae) repülővel történő utazás költsége az utazás igénybevételét igazoló beszállókártyával történő elszámolás ellenében;
+ae) repülővel történő utazás költsége;
 
 b) legfeljebb harminc fő szállásköltsége legfeljebb 30 000 forint/fő/nap összeg erejéig;
 
@@ -28,9 +28,9 @@ b) résztvevők utazási költsége esetében:
 
 ba) gépjárművel történő utazás esetén az útnyilvántartást, valamint az ez alapján történő kifizetés megtörténtét igazoló bizonylat másolati példányát;
 
-bb) tömegközlekedés esetén a vonatjegy vagy buszjegy másolati példányát, és a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat másolati példányát, továbbá az útiköltség elszámolást a tömegközlekedéssel történő utazáshoz;
+bb)[^21] helyközi tömegközlekedés esetén a vonatjegy vagy buszjegy másolati példányát, és a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat másolati példányát, továbbá az útiköltség elszámolást a helyközi tömegközlekedéssel történő utazáshoz;
 
-bc) bérelt busszal történő utazás esetén – a nemzetközi rendezvény helyszínére utazó és onnan hazautazók pontos létszámát feltüntető – menetlevéllel alátámasztott útnyilvántartást, és a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat másolati példányát;
+bc)[^22] bérelt busszal történő utazás esetén – a nemzetközi rendezvény helyszínére utazó és onnan hazautazók pontos létszámát feltüntető – menetlevelet, és a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat másolati példányát;
 
 bd) repülőgéppel történő utazás esetében a turistaosztályra szóló beszállókártya másolati példányát, és a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat másolati példányát;
 
@@ -42,7 +42,7 @@ e) napidíj elszámolás esetében a bérkifizetési listát, valamint a kiutaz�
 
 f) a rendezvény meghívóját vagy a programleírást, idegen nyelven kiállított meghívó és programleírás magyar nyelvű fordítását;
 
-g) részletes leírást a nemzetközi rendezvényről, a részvétel költségeiről és a részvétel eredményeiről;
+g)[^23] szakmai beszámolót a nemzetközi rendezvényről;
 
 h) a résztvevő(k) OMME tagságáról szóló igazolás(oka)t vagy az OMME-val kötött megbízási szerződését;
 
@@ -51,3 +51,8 @@ i) három vagy több fő csoportos utazása esetén a jelenléti ívet, amelynek
 (3) Amennyiben a tényállás tisztázása szükségessé teszi, az MVH az OMME-t a (2) bekezdés a) pontja szerinti, idegen nyelven kiállított számla, bizonylat hiteles magyar fordításának benyújtására hívhatja fel.
 
 (4) Az (1) bekezdés d) pontjában megjelölt napidíj esetében a forintra történő átszámítást a külföldi kiküldetés első napján érvényes, az Európai Központi Bank által jegyzett forint/deviza átváltási árfolyam alapján kell elvégezni.
+
+[^20]: A 13. § (1) bekezdés a) pontja a 2/2012. (I. 23.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^21]: A 13. § (2) bekezdés b) pont bb) alpontja a 2/2012. (I. 23.) VM rendelet 17. § d) pontja szerint módosított szöveg.
+[^22]: A 13. § (2) bekezdés b) pont bc) alpontja a 2/2012. (I. 23.) VM rendelet 17. § e) pontja szerint módosított szöveg.
+[^23]: A 13. § (2) bekezdés g) pontja a 2/2012. (I. 23.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.

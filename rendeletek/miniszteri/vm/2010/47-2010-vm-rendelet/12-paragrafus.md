@@ -4,13 +4,13 @@ a) előadói díjak legfeljebb 35 000 forint/alkalom, megbízási szerződés es
 
 b) előadók elszállásolási költsége legfeljebb 10 000 forint/nap/fő, kizárólag az előadás napján felmerült étkezési költségeik, valamint az OMME tagszervezet elnökének vagy megbízottjának étkezési költsége legfeljebb 3000 forint/nap/fő;
 
-c) előadók utazási költsége:
+c)[^17] előadók utazási költsége:
 
-ca) saját személygépkocsi használatakor a kormányrendelet 1. melléklete szerinti alapnorma, az 1. mellékletben fel nem tüntetett típusú személygépkocsi esetén a kormányrendelet 4. § (1) bekezdése szerinti üzemanyag-fogyasztási alapnorma-átalány, valamint a NAV által közzétett mindenkori üzemanyagár, továbbá 9 forint/km általános személygépkocsi normaköltség figyelembevételével útnyilvántartás alapján meghatározott összeg;
+ca) saját személygépkocsi használata;
 
-cb) saját tehergépkocsi használatakor a kormányrendelet 1. melléklete szerinti alapnorma, az 1. mellékletben fel nem tüntetett típusú tehergépkocsi esetén az üzemmódtól és a motor hengerűrtartalmától függően a kormányrendelet 4. § (2) vagy (3) bekezdése szerinti üzemanyag-fogyasztási alapnorma-átalány, valamint a NAV által közzétett mindenkori üzemanyagár figyelembevételével útnyilvántartás alapján meghatározott összeg;
+cb) saját tehergépkocsi használata;
 
-cc) helyközi tömegközlekedéssel történő utazás költsége az utazás igénybevételét igazoló menetjeggyel történő elszámolás ellenében;
+cc) helyközi tömegközlekedéssel történő utazás költsége;
 
 d) meghívók készítésének és fénymásolásának, valamint postázásának költségei legfeljebb 50 000 forint/rendezvény;
 
@@ -32,11 +32,11 @@ c) előadók utazási költsége esetében:
 
 ca) gépjárművel történő utazás esetén az útnyilvántartást, valamint az ez alapján történő kifizetés megtörténtét igazoló bizonylat másolati példányát;
 
-cb) tömegközlekedés esetén a vonatjegy vagy buszjegy másolati példányát, és a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat másolati példányát, továbbá az útiköltség elszámolást a tömegközlekedéssel történő utazáshoz;
+cb)[^18] tömegközlekedés esetén a vonatjegy vagy buszjegy másolati példányát, és a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat másolati példányát, továbbá az útiköltség elszámolást a helyközi tömegközlekedéssel történő utazáshoz;
 
 d) az elméleti ismeretterjesztés szervezésével kapcsolatos bármely szolgáltatás igénybevétele esetében a szerződés(ek) másolati példányát, amennyiben e szolgáltatásokat a kérelmező szerződés alapján vette igénybe (épülethelyiség bérlés esetén szerződés csak a 20 000 forint/alkalom feletti bérleti díjhoz szükséges);
 
-e) meghívók készítése, fénymásolása, valamint a postaköltség elszámolásakor a kiküldött meghívó eredeti példányát, amelynek tartalmaznia kell legalább az elméleti ismeretterjesztés dátumát, időpontját és helyszínét, az előadó(k) nevét és az előadás(ok) témáját, (amennyiben az adott meghívón több elméleti ismeretterjesztés időpontja is szerepel, a kérelmezőnek csatolnia kell egy nyilatkozatot arról, hogy a meghívó készítésével, fénymásolásával, valamint postázásával kapcsolatban felmerült költségeket milyen arányban osztja meg az egyes elméleti ismeretterjesztések között);
+e)[^19] meghívók készítése, fénymásolása, valamint a postaköltség elszámolásakor a kiküldött meghívó egy példányát, amelynek tartalmaznia kell legalább az elméleti ismeretterjesztés dátumát, időpontját és helyszínét, az előadó(k) nevét és az előadás(ok) témáját, (amennyiben az adott meghívón több elméleti ismeretterjesztés időpontja is szerepel, a kérelmezőnek csatolnia kell egy nyilatkozatot arról, hogy a meghívó készítésével, fénymásolásával, valamint postázásával kapcsolatban felmerült költségeket milyen arányban osztja meg az egyes elméleti ismeretterjesztések között);
 
 f) az elméleti ismeretterjesztés alkalmával elhangzott valamennyi előadás tematikáját, amelyen fel kell tüntetni az előadó nevét és az előadás témáját;
 
@@ -53,3 +53,7 @@ k) a szervező nyilatkozatát arról, hogy a méhészek nem fizettek részvétel
 l) az OMME nyilatkozatát a rendezvény Méhészeti Programba illeszkedéséről;
 
 m) az OMME tagsági igazolását, amennyiben a kérelmet tagszervezet nyújtja be.
+
+[^17]: A 12. § (1) bekezdés c) pontja a 2/2012. (I. 23.) VM rendelet 5. §-ával megállapított szöveg.
+[^18]: A 12. § (2) bekezdés c) pont cb) alpontja a 2/2012. (I. 23.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^19]: A 12. § (2) bekezdés e) pontja a 2/2012. (I. 23.) VM rendelet 17. § c) pontja szerint módosított szöveg.
