@@ -1,1 +1,0 @@
-## „j) a munkavégzéshez szükséges számítástechnikai és irodagépek, valamint az egyéb műszaki eszközök (antibiotikum gyorsteszt-szett, refraktométer, fényképezőgép, kamera, fényképezőgéphez akkumulátor, akkumulátortöltő, UPS, GPS, diktafon, headset, fénymásoló, projektor) javítása és karbantartására, szükség szerinti pótlására legfeljebb 1 500 000 forint/év;”
