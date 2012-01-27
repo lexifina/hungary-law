@@ -2,7 +2,7 @@ A Kormány
 
 1. az Új Széchenyi Terv közlekedésfejlesztési céljainak megvalósítása érdekében, valamint a közlekedésfejlesztés elősegítése céljából megállapítja a Közlekedés Operatív Program 2011–13. évi időszakra szóló akciótervét a melléklet szerint,
 
-2. a Közlekedés Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1011/2011. (I. 19.) Korm. határozatot visszavonja.
+2.[^2]
 
 Melléklet az 1015/2012. (I. 26.) Korm. határozathoz
 
@@ -451,3 +451,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 |  | Függőben lévő összeg*: |  | 3,00 |  |
 
 | *Az OP módosítás EU Bizottságtól beérkező hivatalos jóváhagyásáig akciótervben meglévő függő tétel: - 3 Mrd Ft átadásra került a KEOP részére, mely a 1421/2011 (XII. 6.) Kormányhatározattal jóváhagyásra került |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
