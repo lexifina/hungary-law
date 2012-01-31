@@ -1,0 +1,9 @@
+# 26/2012. (I. 31.) KE határozat
+
+kitüntetés adományozásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-26-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-01-31 | 2012-26-30-76.1 | 26/2012. (I. 31.) KE határozat |
