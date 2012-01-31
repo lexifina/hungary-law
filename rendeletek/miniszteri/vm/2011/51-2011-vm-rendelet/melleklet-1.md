@@ -1,5 +1,3 @@
-## 21. §[^2]
+## 21. § Hatályát veszti az iskolagyümölcs-program 2010/2011. tanévi végrehajtásáról szóló 58/2010. (V. 7.) FVM rendelet.
 
 1. melléklet az 51/2011. (VI. 6.) VM rendelethez
-
-[^2]: A 21. § a 18. § (2) bekezdése alapján 2012. január 31-én lép hatályba.
