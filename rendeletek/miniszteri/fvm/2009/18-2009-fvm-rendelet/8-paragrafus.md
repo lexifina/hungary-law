@@ -6,1090 +6,774 @@ b) a Bizottság 1974/2006/EK rendelete (2006. december 15.) az Európai Mezőgaz
 
 c) a Bizottság 1320/2006/EK rendelete (2006. szeptember 5.) az 1698/2005/EK tanácsi rendeletben előírt vidékfejlesztési támogatásra történő átmenet részletes szabályainak megállapításáról.
 
-Melléklet a 18/2009. (III. 6.) FVM rendelethez[^7]
+Melléklet a 18/2009. (III. 6.) FVM rendelethez[^15]
 
 1. Az Európai Mezőgazdasági Vidékfejlesztési Alapból közbeszerzési eljárás keretében kötött szerződés alapján a komplex tájékoztatási tevékenység, a gazdálkodói információs szolgálat fenntartására igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-a) egyedi irodai, illetve kihelyezett tanácsadás időtartamára és az igénybevevőkre (nem, kor) vonatkozó adatok,
+– tanácsadást igénybevevőkre (nem, kor) vonatkozó adatok,
 
-b) csoportos tanácsadás időtartamára és az igénybevevőkre (nem, kor) vonatkozó adatok,
+– a tanácsadás időtartamára vonatkozó adatok,
 
-c) a támogatás pénzügyi adatai (igényelt, illetve jóváhagyott támogatási összeg).
+– a tevékenység tartalmára vonatkozó adatok,
+
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg).
 
 2. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-a) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a gazdaság mérete (Európai Méretegység szerint),
 
-b) a művelt mezőgazdasági terület kapcsolódása a Gazdaságátadás intézkedéshez,
+– a művelt mezőgazdasági terület kapcsolódása a Gazdaságátadás intézkedéshez,
 
-c) az intézkedés keretében átvett mezőgazdasági terület legjellemzőbb ágazat, illetve alágazat szerinti besorolása,
+– az intézkedés keretében átvett mezőgazdasági terület legjellemzőbb ágazat, illetve alágazat szerinti besorolása,
 
-d) a támogatási jogcím keretében átvett mezőgazdasági területen folytatott termelési mód besorolása (hagyományos, ökológiai),
+– a támogatási jogcím keretében átvett mezőgazdasági területen folytatott termelési mód besorolása (hagyományos, ökológiai),
 
-e) a támogatott gazdaság pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel),
+– a projekt összes kiadása és megbontása a megvalósított beruházás típusa szerint,
 
-f) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-g) a gazdaság mérete (Európai Méretegység szerint),
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg).
 
-h) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+3. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-i) a projekt összes kiadásának megbontása a megvalósított beruházás típusa szerint.
+– a gazdaság mérete (Európai Méretegység szerint),
 
-3. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termelők gazdaságátadásához nyújtandó támogatás részletes feltételeiről szóló 83/2007. (VIII. 10.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a művelt mezőgazdasági terület kapcsolódása a Gazdaságátadás intézkedéshez,
 
-a) a támogatásban részesülő ügyfél jogi státusza (mezőgazdasági munkavállaló, illetve gazdálkodó),
+– az intézkedés keretében átvett mezőgazdasági terület legjellemzőbb ágazat, illetve alágazat szerinti besorolása,
 
-b) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatási jogcím keretében átvett mezőgazdasági területen folytatott termelési mód besorolása (hagyományos, ökológiai),
 
-c) a támogatásban részesülő ügyfél átadott gazdaságára vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a projekt összes kiadása és megbontása a megvalósított beruházás típusa szerint,
 
-d) a támogatott gazdaság gazdálkodási pénzügyi adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-e) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg).
 
-f) a támogatási jogcím keretében átadott terület nagysága,
+4. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termelők gazdaságátadásához nyújtandó támogatás részletes feltételeiről szóló 83/2007. (VIII. 10.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-g) a támogatásban részesülő ügyfél jogi státusza (őstermelő, egyéni vállalkozó),
+– a támogatásban részesülő ügyfél jogi státusza (mezőgazdasági munkavállaló, illetve gazdálkodó),
 
-h) az átadandó, illetve az átadott gazdaság méretére, típusára, az átadandó állatokra vonatkozó adatok,
+– a támogatási jogcím keretében átadandó/átadott terület nagysága,
 
-i) az átvevő adatai (életkor, nem, végzettség).
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-4. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a szaktanácsadási szolgáltatások igénybevételéhez nyújtandó támogatások részletes feltételeiről szóló 52/2007. (VI. 28.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg).
 
-a) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+5. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a szaktanácsadási szolgáltatások igénybevételéhez nyújtandó támogatások részletes feltételeiről szóló 52/2007. (VI. 28.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-b) a támogatásban részesülő ügyfél tevékenységi ágazata (mezőgazdaság-kertészet, erdészet),
+– a támogatásban részesülő ügyfél tevékenységi ágazata (mezőgazdaság, kertészet, erdészet),
 
-c) az igénybe vett tanácsadás típusa mezőgazdasági-kertészeti, valamint erdészeti szak-témakörönkénti bontásban,
+– az igénybe vett tanácsadás típusa mezőgazdasági, kertészeti, valamint erdészeti szak-témakörönkénti bontásban,
 
-d) a támogatásban részesülő ügyfél évenként kapott közvetlen kifizetései összegének nagyságrendi besorolása,
+– a támogatásban részesülő ügyfél évenként kapott közvetlen kifizetései összegének nagyságrendi besorolása,
 
-e) a támogatásban részesülő gazdaság pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg).
 
-f) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg).
+6. Az Európai Mezőgazdasági Vidékfejlesztési Alapból önálló, építéssel nem járó gépek, technológiai berendezések beszerzéséhez nyújtandó támogatások részletes feltételeiről szóló 26/2007. (IV. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-5. Az Európai Mezőgazdasági Vidékfejlesztési Alapból önálló, építéssel nem járó gépek, technológiai berendezések beszerzéséhez nyújtandó támogatások részletes feltételeiről szóló 26/2007. (IV. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-b) a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-c) a támogatásban részesülő termelői csoport (a továbbiakban: TCS),
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint [kedvezőtlen adottságú terület (a továbbiakban: KAT), Natura 2000 terület, a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2000/60/EK európai parlamenti és tanácsi irányelv) hatálya alá tartozó terület],
 
-d) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-e) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
 
-f) a támogatás alapján létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatott gazdaság, illetve vállalkozás üzemmérete,
 
-g) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-h) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– a támogatási jogcím keretében megvalósított művelet beruházás-típus szerinti besorolása,
 
-i) a támogatási jogcím keretében megvalósított művelet beruházás-típus szerinti besorolása,
+– a támogatott gépek felsorolása.
 
-j) a GAZDANET programban való részvételi szándékra vonatkozó adat,
+7. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a növénytermesztés létesítményeinek korszerűsítéséhez nyújtott támogatás igénybevételének részletes feltételeiről szóló 35/2008. (III. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-k) a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-l) a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
+– a támogatott mezőgazdasági gazdaság, illetve vállalkozás ágazati típusa (hagyományos, illetve ökológiai),
 
-m) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-n) a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint [kedvezőtlen adottságú terület (a továbbiakban: KAT), Natura 2000 terület, a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2000/60/EK európai parlamenti és tanácsi irányelv) hatálya alá tartozó terület],
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület besorolása (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület, egyéb terület),
 
-o) a támogatás alapján létrehozásra kerülő új technológia bevezetéséhez kapcsolódó pénzügyi adatok (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatott beruházás technikai adatai (teljesítmény, fajlagos energiafelhasználás),
 
-p) a támogatott gazdaság, illetve vállalkozás üzemmérete,
+– új, felújított kapacitásra vonatkozó adatok,
 
-q) a támogatott beruházás megvalósítási helyére vonatkozó adatok (település, helyrajzi szám),
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy vagy TCS),
 
-r) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-s) a támogatott gazdaság, illetve vállalkozás meglévő, illetve új összes gépkapacitása,
+– a támogatási jogcím keretében megvalósított műveletnek a beruházás típusa szerinti besorolása (gép, épület, technológia),
 
-t) a támogatott beszerzés környezetvédelmi minősítésére vonatkozó adat,
+– a támogatott beruházás pénzügyi adatai (összes, kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg).
 
-u) a megújuló energiaforrások alkalmazása a szárítási folyamat során,
+8. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az öntözés, a melioráció és a területi vízgazdálkodás mezőgazdasági üzemi és közösségi létesítményeinek fejlesztéséhez nyújtandó támogatások részletes feltételeiről szóló 34/2008. (III. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-v) állattenyésztésre gyakorolt hatás.
+8.1. Üzemi létesítmény fejlesztése esetén:
 
-6. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a növénytermesztés létesítményeinek korszerűsítéséhez nyújtott támogatás igénybevételének részletes feltételeiről szóló 35/2008. (III. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozás méret kategóriákba,
+– termelési terület nagysága termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-b) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy vagy TCS),
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (a beruházás megvalósításának helye: KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-d) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-e) a támogatás alapján létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatásban részesülő ügyfél jogi státusza, illetve tevékenységi formája [pl. önkormányzat, vízgazdálkodási társulat, TCS, termelő és értékesítő szervezet (a továbbiakban: TÉSZ)],
 
-f) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-g) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– öntözött terület nagysága (terület-típus és alkalmazott technológia szerint),
 
-h) a támogatott gazdaság, illetve vállalkozás jellege (mezőgazdasági, erdészeti üzem, élelmiszeripari vállalkozás),
+– a beruházás típusa (gépbeszerzés, épület, technológia).
 
-i) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi szektor szerinti besorolása,
+8.2. Közösségi létesítmény fejlesztése esetén:
 
-j) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a támogatás alapjául szolgáló földterület típusa (mezőgazdasági gazdálkodást szolgáló terület, erdőterület szerinti bontásban),
 
-k) a támogatott mezőgazdasági gazdaság, illetve vállalkozás ágazati típusa (hagyományos, illetve ökológiai),
+– belvízcsatornák hossza,
 
-l) a támogatási jogcím keretében megvalósított műveletnek a beruházás típusa szerinti besorolása (gép, épület, technológia),
+– belvíztől mentesített terület nagysága,
 
-m) a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület besorolása (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület, egyéb terület),
+– víztározók száma, területe,
 
-n) GAZDANET programban való részvételi szándékra vonatkozó adat,
+– meliorált út hossza,
 
-o) a támogatott beruházás pénzügyi adatai (összes, illetve elszámolható kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– tereprendezéssel érintett terület nagysága,
 
-p) a támogatott beruházás megvalósítási helyére vonatkozó adatok (település, helyrajzi szám),
+– öntözött terület nagysága,
 
-q) a támogatott gazdaság, illetve vállalkozás üzemmérete,
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-r) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+– a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása.
 
-s) a támogatott beruházás technikai adatai (típus, teljesítmény, fajlagos energiafelhasználás),
+9. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági energiafelhasználás megújuló energiaforrásokból történő előállításhoz nyújtandó támogatások részletes feltételeiről szóló 78/2007. (VII. 30.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-t) beruházás típusa (felújított, új, fejlesztéssel nem érintett),
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-u) új, felújított kapacitásra vonatkozó adatok,
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-v) fejlesztéssel elért költségmegtakarítás,
+– GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-w) bérmunka igénylésre vonatkozó adatok.
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (a beruházás megvalósításának helye: KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-7. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az öntözés, a melioráció és a területi vízgazdálkodás mezőgazdasági üzemi és közösségi létesítményeinek fejlesztéséhez nyújtandó támogatások részletes feltételeiről szóló 34/2008. (III. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– az előállított megújuló energia mennyisége,
 
-7.1. Üzemi létesítmény fejlesztése esetén:
+– biomassza felhasználására vonatkozó adatok,
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
+– a támogatott intézkedés keretében beépített összteljesítmény,
 
-b) a támogatásban részesülő ügyfél jogi státusza, illetve tevékenységi formája [pl. önkormányzat, vízgazdálkodási társulat, TCS, termelő és értékesítő szervezet (a továbbiakban: TÉSZ)],
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-d) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-e) a támogatás alapján létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatási jogcím keretében megvalósított műveletnek a beruházás típusa szerinti besorolása,
 
-f) a támogatott gazdaság pénzügyi adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatott gazdaság legjellemzőbb tevékenységi szektor szerinti besorolása,
 
-g) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– a támogatott beruházás pénzügyi adatai tevékenységi szektor szerinti bontásban.
 
-h) a GAZDANET programban való részvételi szándékra vonatkozó adat,
+10. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészeti gépek, technológiai berendezések beszerzéséhez nyújtandó támogatások részletes feltételeiről szóló 26/2008. (III. 7.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-i) a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a támogatott gazdaság, illetve vállalkozás üzemmérete,
 
-j) a támogatott gazdaság jellege és legjellemzőbb tevékenységi szektor szerinti besorolása (ágazati bontás szerint),
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-k) termelési terület nagysága termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-l) a beruházás típusa (gépbeszerzés, épület, technológia),
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-m) a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-n) a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (a beruházás megvalósításának helye: KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület).
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-7.2. Közösségi létesítmény fejlesztése esetén:
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozás méret kategóriákba,
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-b) a támogatásban részesülő ügyfél jogi státusza, illetve tevékenységi formája (pl. önkormányzat, vízgazdálkodási társulat, TCS, TÉSZ),
+– a támogatott gépek felsorolása,
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatási jogcím keretében megvalósított művelet beruházás-típus szerinti besorolása.
 
-d) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+11. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészet korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 25/2008. (III. 7.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-e) a támogatás alapján létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-f) a támogatott gazdaság pénzügyi adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatott mezőgazdasági ágazat típusa szerinti besorolás (ökológiai, illetve hagyományos),
 
-g) a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-h) a támogatott gazdaság jellege és szektora legjellemzőbb tevékenységi szektor szerinti besorolása (ágazati bontás szerint),
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-i) a támogatás alapjául szolgáló földterület nagysága (gazdálkodást szolgáló terület erdőterület szerinti bontásban),
+– az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
 
-j) a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-k) a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
 
-l) a támogatásnak köszönhetően megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (a beruházás megvalósításának helye: KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület).
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-7.3. Üzemi és közösségi létesítmény fejlesztése esetén:
+– a támogatási jogcím keretében megvalósított beruházásnak a beruházás típusa szerinti besorolása.
 
-a) a támogatott gazdaság, illetve vállalkozás üzemmérete,
+12. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-b) a támogatott beruházás megvalósítási helyére vonatkozó adatok (település, helyrajzi szám),
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-c) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-d) a támogatott beszerzés környezetvédelmi minősítésére vonatkozó adat.
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-7.4. Öntözést érintő indikátorok:
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-a) a támogatott beruházással érintett gazdaságok száma,
+– meglévő és új biogáztelep kapacitása,
 
-b) a támogatásnak köszönhetően öntözővízzel ellátott terület nagysága, az öntözésre szolgáltatott vízmennyiség,
+– keletkező trágyamennyiség szilárd- és hígfázis,
 
-c) a beruházás által érintett víztározók száma, területe, befogadóképessége,
+– keletkező szilárd- és hígfázis elhelyezésére szolgáló tárolókapacitás,
 
-d) az öntözés technológiájára vonatkozó adatok,
+– az állattartó telep átlagos állatlétszáma, kapacitása a támogatott beruházás, megvalósítása előtt, illetve után,
 
-e) öntözött kultúrák besorolása.
+– saját és egyéb jogon használt területből nitrátérzékeny területrészre vonatkozó adat,
 
-7.5. Meliorációt érintő indikátorok:
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-a) technikai paraméterek (új, illetve felújított csatornák hossza, meliorált út hossza, tereprendezés, talajcsövezés, víztározók adatai, teraszépítés).
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy vagy TCS),
 
-7.6. Területi vízgazdálkodást érintő indikátorok:
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-a) technikai paraméterek (új, illetve felújított bel- és öntözővíz-csatornák hossza, víztározók adatai, belvíztől mentesített terület nagysága, új, illetve felújított szivattyútelepek száma).
+– a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása.
 
-8. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági energiafelhasználás megújuló energiaforrásokból történő előállításhoz nyújtandó támogatások részletes feltételeiről szóló 78/2007. (VII. 30.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+13. Az Európai Mezőgazdasági Vidékfejlesztési Alapból ültetvények korszerűsítéséhez, telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 75/2007. (VII. 27.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból kertészeti ültetvények korszerűsítéséhez, korszerű ültetvények létesítéséhez nyújtandó támogatások részletes feltételeiről szóló 35/2010. (IV. 9.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-b) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatott gazdaság, illetve vállalkozás mezőgazdasági ágazat típus szerinti besorolása (hagyományos, illetve ökológiai),
 
-c) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
+– GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-d) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatásnak köszönhetően megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-e) a támogatásnak köszönhetően létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
 
-f) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
 
-g) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-h) a támogatott gazdaság legjellemzőbb tevékenységi szektor szerinti besorolása,
+– a támogatott ültetvény telepítésre, korszerűsítésre vonatkozó pénzügyi adatok (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-i) a támogatott beruházás pénzügyi adatai tevékenységi szektor szerinti bontásban,
+– ültetvény mérete fafaj szerinti bontásban,
 
-j) a támogatási jogcím keretében megvalósított műveletnek a beruházás típusa szerinti besorolása,
+– a támogatási jogcím keretében megvalósított művelet beruházás-típus szerinti besorolása,
 
-k) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi szektor szerinti besorolása.
 
-l) a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
+14. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a rövid vágásfordulójú fás szárú energiaültetvények telepítéséhez nyújtott támogatás igénybevételének részletes feltételeiről szóló 72/2007. (VII. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-m) a támogatott beruházás keretében a biomasszakazán pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-n) a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (a beruházás megvalósításának helye: KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-o) a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-p) GAZDANET programban való részvételi szándékra vonatkozó adat,
+– a támogatásnak köszönhetően megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (a beruházás megvalósításának helye: KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-q) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+– az előállított biomassza mennyiségére és felhasználási módjára vonatkozó adatok fajonkénti bontásban,
 
-r) az előállított megújuló energia mennyisége,
+– a támogatásban részesülő ügyfél jogi státusza (állami, természetes személy, jogi személy),
 
-s) energiafelhasználás célterülete ágazatonként,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-t) biomassza felhasználására vonatkozó adatok,
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-u) a támogatott intézkedés keretében beépített összteljesítmény.
+– az ültetvény mérete fajonkénti bontásban,
 
-9. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészeti gépek, technológiai berendezések beszerzéséhez nyújtandó támogatások részletes feltételeiről szóló 26/2008. (III. 7.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatott gazdaság jellege és szektora legjellemzőbb tevékenységi szektor szerinti besorolása,
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozás méret kategóriákba,
+– a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása,
 
-b) a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
+– a támogatott ügyfél birtok jellegére vonatkozó adat.
 
-c) a támogatásban részesülő TCS, illetve TÉSZ szerinti besorolása,
+15. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az évelő, lágy szárú energiaültetvények telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 71/2007. (VII. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-d) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-e) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-f) a támogatásnak köszönhetően létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-g) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel),
+– a támogatásnak köszönhetően megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (a beruházás megvalósításának helye: KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-h) a támogatásnak köszönhetően bevezetett új termékre, új technológiára vonatkozó adatok,
+– az előállított biomassza mennyiségére és felhasználási módjára vonatkozó adatok fajonkénti bontásban,
 
-i) a támogatásnak köszönhetően létrehozásra kerülő új technológia bevezetéséhez kapcsolódó pénzügyi adatok (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatásban részesülő ügyfél jogi státusza (állami, természetes személy, jogi személy),
 
-j) a támogatási jogcím keretében megvalósított művelet beruházás-típus szerinti besorolása,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-k) a GAZDANET programban való részvételi szándékra vonatkozó adat,
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-l) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi szektor szerinti besorolása,
+– a támogatott gazdaság jellege és szektora legjellemzőbb tevékenységi szektor szerinti besorolása,
 
-m) a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása,
 
-n) a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
+– a támogatott ügyfél birtok jellegére vonatkozó adat.
 
-o) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+16. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termékek értéknöveléséhez nyújtandó támogatások részletes feltételeiről szóló 47/2008. (IV. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-p) a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
+16.1. Adatszolgáltatási kötelezettség azokra vonatkozóan, akiknek az üzemeltetési kötelezettség lejáratáig terjedő időszakban az értékesítésből származó árbevételük legalább 50%-a származik nem-feldolgozott mezőgazdasági termékek értékesítéséből és a támogatást mezőgazdasági termelő ügyfélként vagy TCS-ként igénylik:
 
-q) a támogatott gazdaság, illetve vállalkozás üzemmérete,
+– a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-r) a támogatott beruházás megvalósítási helyére vonatkozó adatok (település, helyrajzi szám),
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-s) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-t) a támogatott gazdaság, illetve vállalkozás meglévő, illetve új összes gépkapacitása,
+– a támogatásnak köszönhetően megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (a beruházás megvalósításának helye: KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-u) a támogatott beszerzés környezetvédelmi minősítésére vonatkozó adat.
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy),
 
-10. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészet korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 25/2008. (III. 7.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg) beruházás ágazata, tevékenység típus, illetve célterület szerinti bontásban,
 
-b) a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
+– a támogatott kérelem tevékenységi besorolása,
 
-c) a támogatásban részesülő TCS, illetve TÉSZ, valamint annak leányvállalata szerinti besorolása,
+– támogatott célterületek,
 
-d) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása.
 
-e) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+16.2. Adatszolgáltatási kötelezettség azokra vonatkozóan, akiknek az üzemeltetési kötelezettség lejáratáig terjedő időszakban az értékesítésből származó árbevételük kevesebb, mint 50%-a származik nem-feldolgozott mezőgazdasági termékek értékesítéséből és a támogatást feldolgozó ügyfélként igénylik:
 
-f) a támogatásnak köszönhetően létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-g) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel),
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-h) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a támogatott tevékenység jellemző típusa (termelés, feldolgozás, értékesítés, fejlesztés),
 
-i) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi szektor szerinti besorolása,
+– a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriába,
 
-j) a támogatott mezőgazdasági ágazat típusa szerinti besorolás (ökológiai, illetve hagyományos),
+– a támogatott kérelem tevékenységi besorolása,
 
-k) a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg) beruházás ágazata, tevékenység típus, illetve célterület szerinti bontásban,
 
-l) a támogatási jogcím keretében megvalósított beruházásnak a beruházás típusa szerinti besorolása,
+– támogatott célterületek,
 
-m) a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása.
 
-n) a támogatás alapján létrehozásra kerülő új technológia bevezetéséhez kapcsolódó pénzügyi adatok (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+17. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a termelői csoportok létrehozásához és működéséhez nyújtandó támogatások részletes feltételeiről szóló 59/2007. (VII. 10.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-o) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– a támogatott TCS elismerésének éve,
 
-p) az új, felújított, illetve kibővített tároló-létesítményekre, valamint az új, felújított, illetve kibővített egyéb létesítmények létrehozásához kapcsolódó pénzügyi adatok (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatott TCS összes forgalma,
 
-q) a GAZDANET programban való részvételi szándékra vonatkozó adat,
+– a támogatott TCS legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-r) a támogatott gazdaság, illetve vállalkozás üzemmérete,
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-s) a támogatott beruházás megvalósítási helyére vonatkozó adatok (település, helyrajzi szám),
+– tagok száma.
 
-t) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+18. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-u) az ügyfél által a kérelemmel érintett létesítmény üzemeltetéséhez megújuló energiaforrás használata.
+– a támogatásban részesülő ügyfél gazdálkodási tevékenysége (mezőgazdaság, élelmiszeripar, erdőgazdálkodás),
 
-11. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
+– a képzés típusa (kötelező vagy választható, szakképesítés nélküli, OKJ-s vagy hatósági képzés),
 
-b) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy vagy TCS),
+– a tanfolyamok száma (kötelező vagy választható, szakképesítés nélküli, OKJ-s vagy hatósági képzés),
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a képzésben részesülő ügyfél személyes adatai (neme, kora korcsoportonként, esélyegyenlőségi szempontok szerinti besorolása),
 
-d) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a képzés tevékenységi köre,
 
-e) a támogatás alapján létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a képzés tartama (óra/nap).
 
-f) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+19. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdészeti célra használt géppark fejlesztéséhez és korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 144/2008. (XI. 7.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-g) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-h) a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása,
+– meglévő erőgépek összteljesítménye,
 
-i) a GAZDANET programban való részvételi szándékra vonatkozó adat,
+– terület típusa,
 
-j) a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-k) a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
+– tulajdonos típusa,
 
-l) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– támogatott gépek felsorolása, új összes gépkapacitás.
 
-m) a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
+20. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nem élelmiszeripari célú kiskapacitású, növényi alapú nyersszesz, nyersolaj előállító üzemek létesítéséhez nyújtandó támogatások részletes feltételeiről szóló 44/2009. (IV. 11.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-n) az állattartó telepre, biogáz telepre, trágyatárolásra, felújított állatférőhelyre, új állatférőhelyre, állatjóléti higiéniai beruházásra fordított összes kiadás, igényelt, illetve jóváhagyott támogatási összeg,
+20.1. Adatszolgáltatási kötelezettség azokra vonatkozóan, akiknek az üzemeltetési kötelezettség lejáratáig terjedő időszakban az értékesítésből származó árbevételük legalább 50%-a származik nem mezőgazdasági termékek értékesítéséből és a támogatást mezőgazdasági termelő ügyfélként vagy TCS-ként igénylik:
 
-o) a támogatott gazdaság, illetve vállalkozás üzemmérete,
+– a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-p) a támogatott beruházás megvalósítási helyére vonatkozó adatok (település, helyrajzi szám, fizikai blokkazonosító),
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-q) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-r) az állattartó telep átlagos állatlétszáma, kapacitása a támogatott beruházás, megvalósítása előtt, illetve után,
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-s) saját és egyéb jogon használt területből nitrátérzékeny területrészre vonatkozó adat,
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy),
 
-t) a támogatott beruházás környezetvédelmi minősítésére vonatkozó adat.
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-12. Az Európai Mezőgazdasági Vidékfejlesztési Alapból ültetvények korszerűsítéséhez, telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 75/2007. (VII. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozás méret kategóriákba,
+– a támogatási jogcím keretében megvalósított beruházásnak a beruházás típusa szerinti besorolása.
 
-b) a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
+20.2. Adatszolgáltatási kötelezettség azokra vonatkozóan, akiknek az üzemeltetési kötelezettség lejáratáig terjedő időszakban az értékesítésből származó árbevételük kevesebb mint 50%-a származik nem feldolgozott mezőgazdasági termékek értékesítéséből és a támogatást feldolgozó ügyfélként igénylik:
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatott vállalkozás legjellemzőbb ágazata és a termelés típusa (ökológiai és hagyományos),
 
-d) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-e) a támogatásnak köszönhetően létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-f) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel),
+– a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriába,
 
-g) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-h) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi szektor szerinti besorolása,
+– a támogatási jogcím keretében megvalósított beruházásnak a beruházás típusa szerinti besorolása,
 
-i) a támogatási jogcím keretében megvalósított művelet beruházás-típus szerinti besorolása,
+– a támogatási jogcím keretében megvalósított beruházásnak a tevékenység típusa szerinti besorolása.
 
-j) a támogatott gazdaság, illetve vállalkozás mezőgazdasági ágazat típus szerinti besorolása (hagyományos, illetve ökológiai),
+21. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági utak fejlesztéséhez nyújtandó támogatások részletes feltételeiről szóló 125/2009. (IX. 29.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-k) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
 
-l) a támogatott ültetvény telepítésre, korszerűsítésre vonatkozó pénzügyi adatok (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a beruházással érintett mezőgazdasági terület nagysága,
 
-m) a támogatásnak köszönhetően megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
+– a támogatási jogcím keretében megvalósított beruházásnak a tevékenység típusa szerinti besorolása.
 
-n) GAZDANET programban való részvételi szándékra vonatkozó adat,
+22. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kedvezőtlen adottságú területeken történő gazdálkodáshoz nyújtandó kompenzációs támogatások részletes szabályairól szóló 25/2007. (IV. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-o) ültetvény mérete faj szerinti bontásban,
+– a gazdaság állatállománya (állategység szerint),
 
-p) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban.
+– a támogatásra jogosult terület nagyságára vonatkozó adatok [az Európai Mezőgazdasági Orientációs és Garanciaalapból (EMOGA) nyújtandó vidékfejlesztési támogatásról, valamint egyes rendeletek módosításáról, illetve hatályon kívül helyezéséről szóló, 1999. május 17-i 1257/1999/EK tanácsi rendelet (a továbbiakban: 1257/1999/EK tanácsi rendelet) 19. cikke szerinti egyéb kedvezőtlen helyzetű térségek, az 1257/1999/EK tanácsi rendelet 20. cikke szerinti egyedi hátrányok által érintett térségek],
 
-13. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a rövid vágásfordulójú fás szárú energiaültetvények telepítéséhez nyújtott támogatás igénybevételének részletes feltételeiről szóló 72/2007. (VII. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a kedvezőtlen adottságú terület nagysága (1257/1999/EK tanácsi rendelet 19. és 20. cikke szerinti terület, Natura 2000 terület, egyéb területbontásokban),
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg) az 1257/1999/EK tanácsi rendelet 19. és 20. cikke szerinti bontásban,
 
-b) a támogatásban részesülő ügyfél jogi státusza (állami, természetes személy, jogi személy),
+– a KAT terület hasznosítása (az 1257/1999/EK tanácsi rendelet 19. és 20. cikkei szerinti szántó-gyep).
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+23. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a Natura 2000 gyepterületeken történő gazdálkodáshoz nyújtandó kompenzációs támogatás részletes szabályairól szóló 128/2007. (X. 31.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-d) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatott hasznosított mezőgazdasági terület nagysága Natura 2000 területen,
 
-e) a támogatásnak köszönhetően létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-f) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– adatok arra vonatkozóan, hogy a terület részesül-e egyéb ÚMVP támogatásban (AKG, KAT).
 
-g) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+24. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-h) a támogatott ügyfél birtok jellegére vonatkozó adat,
+– az erdősített terület tulajdonosának jogi státusza,
 
-i) a támogatott gazdaság jellege és szektora legjellemzőbb tevékenységi szektor szerinti besorolása,
+– a telepített erdőterület nagysága (fafaj szerinti bontásban),
 
-j) a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-k) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– az erdősített terület nagysága (KAT, Natura 2000 terület vagy egyéb besorolás szerint),
 
-l) a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása,
+– az erdősítésre vonatkozó technikai adatok (elegyesség, őshonosság, célállomány besorolása, a terület eredeti rendeltetése, speciális besorolása, lejtés),
 
-m) a támogatott gazdaság, illetve vállalkozás mezőgazdasági ágazat típusa (ökológiai, illetve egyéb),
+– a támogatás környezetvédelmi hatására vonatkozó adatok,
 
-n) a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
+– a terület típusára vonatkozó adatok.
 
-o) a GAZDANET programban való részvételi szándékra vonatkozó adat,
+25. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdészeti potenciál helyreállítására nyújtandó támogatások igénybevételének részletes szabályairól szóló 32/2008. (III. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-p) a támogatásnak köszönhetően megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (a beruházás megvalósításának helye: KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
+– a támogatott erdőterület tulajdonosának jogi státusza,
 
-q) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+– a helyreállított erdőterület nagysága (kár szerinti bontásban),
 
-r) az előállított biomassza mennyiségére és felhasználási módjára vonatkozó adatok fajonkénti bontásban,
+– a támogatott erdőterület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
 
-s) az ültetvény mérete fajonkénti bontásban.
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-14. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az évelő, lágy szárú energiaültetvények telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 71/2007. (VII. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a beavatkozás típusára vonatkozó adatok (beavatkozások száma, érintett terület nagysága, támogatási összeg),
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozás méret kategóriákba,
+– erdőkár típusa,
 
-b) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy),
+– felújításkor alkalmazott állomány nagysága faj szerinti bontásban,
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a károsodott állomány nagysága (faj, elegyesség szerinti bontásban),
 
-d) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a kár által érintett erdészeti tájra vonatkozó adat.
 
-e) a támogatásnak köszönhetően létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+26. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások körében a kistérségi közlekedési szolgáltatások fejlesztésére igénybe vehető támogatások részletes feltételeiről szóló 9/2008. (I. 24.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-f) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a beruházás technikai adatai (futásteljesítmény, akadálymentesítés, férőhely, saját vagy kiszervezett működtetés),
 
-g) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– a fejlesztéssel érintett települések száma (különös tekintettel a hátrányos helyzetű területekre),
 
-h) a támogatott gazdaság, illetve vállalkozás jellege (mezőgazdasági, erdészeti üzem, élelmiszeripari vállalkozás),
+– az ellátandó területen belül tanyás térségben élők száma,
 
-i) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi szektor szerinti besorolása,
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-j) a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a támogatott tevékenység típusa.
 
-k) a beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+27. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 59. cikke szerinti készségek elsajátítására, ösztönzésére és végrehajtására igénybe vehető támogatás részletes feltételeiről szóló 79/2007. (VII. 30.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás kiegészítése a helyi akciócsoportok adatszolgáltatási kötelezettségére vonatkozóan:
 
-l) a támogatási jogcím keretében megvalósított művelet beruházás-típus szerinti besorolása,
+– a támogatott köz- és magánszféra partneri kapcsolatok és az abban résztvevők száma, a felhasznált támogatási összeg,
 
-m) a támogatott gazdaság, illetve vállalkozás mezőgazdasági ágazat típusa szerinti besorolása (ökológiai, illetve hagyományos),
+– a helyi akciócsoportok 3. tengelyből finanszírozott működési költségeiből végrehajtott tevékenységek száma és felhasznált támogatási összege tevékenységtípusonkénti bontásban,
 
-n) a támogatásnak köszönhetően megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
+– a támogatott tevékenységtípusokban résztvevők száma nem és kor szerinti bontásban,
 
-o) GAZDANET programban való részvételi szándékra vonatkozó adat,
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg).
 
-p) a beruházás típusa (ültetvénytelepítés, kerítés, térburkolat, ápolás),
+28. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a falumegújításra és -fejlesztésre igénybe vehető támogatások részletes feltételeiről szóló 135/2008. (X. 18.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-q) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+– a fejlesztés típusa,
 
-r) az előállított biomassza mennyisége, illetve felhasználási módjára vonatkozó adatok fajonkénti bontásban,
+– azon települések száma, ahol a projekt megvalósul,
 
-s) az ültetvény mérete fajonkénti bontásban.
+– a projekt keretében a végrehajtott tevékenység típusa szerinti bontásban (fizikai, társadalmi, gazdasági élénkítés),
 
-15. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termékek értéknöveléséhez nyújtandó támogatások részletes feltételeiről szóló 47/2008. (IV. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– támogatott ügyfél jogi státusza (önkormányzat, kisebbségi önkormányzat, önkormányzati társulás, nonprofit szervezet, egyházi jogi személy),
 
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy).
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-15.1. Adatszolgáltatási kötelezettség azokra vonatkozóan, akiknek az üzemeltetési kötelezettség lejáratáig terjedő időszakban az értékesítésből származó árbevételük legalább 50%-a származik nem mezőgazdasági termékek értékesítéséből és a támogatást mezőgazdasági termelő ügyfélként vagy TCS-ként igénylik:
+– a projektek megvalósulási helyének lélekszáma,
 
-a) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a projektek megvalósulási helyszínei közül a hátrányos helyzetű települések száma.
 
-b) a támogatott vállalkozás legjellemzőbb ágazata és a termelés típusa (ökológiai és hagyományos),
+29. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mikrovállalkozások létrehozására és fejlesztésére nyújtandó támogatások részletes feltételeiről szóló 136/2008. (X. 18.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a mikrovállalkozások létrehozásáraés fejlesztésére 2011-től nyújtandó támogatások részletes feltételeiről szóló 33/2011. (VI. 28.) VM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-c) a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg) beruházás ágazata, beruházás-típusok, illetve területtípusok szerinti bontásban,
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
 
-d) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-e) a támogatásnak alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– a támogatás típusa,
 
-f) az egyes célterületeken igénybe vett támogatás összege,
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg) a támogatás típusa szerinti bontásban,
 
-g) támogatott termékek célterületenkénti bontásban.
+– a támogatásban részesülő mikrovállalkozás típusa (meglévő, újonnan létrehozott),
 
-15.2. Adatszolgáltatási kötelezettség azokra vonatkozóan, akiknek az üzemeltetési kötelezettség lejáratáig terjedő időszakban az értékesítésből származó árbevételük kevesebb, mint 50%-a származik nem-feldolgozott mezőgazdasági termékek értékesítéséből és a támogatást feldolgozó ügyfélként igénylik:
+– a projektek megvalósulási helyének lélekszáma,
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriába,
+– a projektek megvalósulási helyszínei közül a hátrányos helyzetű települések száma,
 
-b) a támogatott vállalkozás legjellemzőbb ágazata és a termelés típusa (ökológiai és hagyományos),
+– a támogatás alapján létrehozott új illetve megtartott munkahelyek száma.
 
-c) a támogatott kérelem tevékenységi besorolása,
+30. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez nyújtandó támogatások részletes feltételeiről szóló 137/2008. (X. 18.) FVM rendelet, az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez nyújtandó támogatások részletes feltételeiről szóló 160/2009. (XI. 19.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez 2011-től nyújtandó támogatások részletes feltételeiről szóló 44/2011. (V. 26.) VM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-d) a támogatott tevékenység jellemző típusa (feldolgozás, értékesítés, fejlesztés),
+– a támogatott célterületek száma,
 
-e) a támogatott beruházás pénzügyi adatai (összes kiadás, támogatási összeg) a beruházás ágazata szerinti bontásban,
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg) célterület szerinti bontásban,
 
-f) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
 
-g) a támogatásnak köszönhetően bevezetett új termékre, új technológiára vonatkozó adatok,
+– a projektek megvalósulási helyének lélekszáma,
 
-h) az egyes célterületeken igénybe vett támogatás összege,
+– a projektek megvalósulási helyszínei közül a hátrányos helyzetű települések száma,
 
-i) támogatott termékek célterületenkénti bontásban.
+– a támogatás alapján létrehozott új illetve megtartott munkahelyek száma.
 
-16. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a termelői csoportok létrehozásához és működéséhez nyújtandó támogatások részletes feltételeiről szóló 59/2007. (VII. 10.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+31. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki örökség megőrzéséhez igénybe vehető támogatások részletes feltételeiről szóló 138/2008. (X. 18.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-a) a támogatott TCS elismerésének éve,
+– a fejlesztés típusa,
 
-b) a támogatott TCS tevékenységi köre, összes forgalma legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása (TF 8, a mezőgazdasági üzemek közösségi tipológiájának kialakításáról szóló 85/377/EGK határozat módosításáról szóló, 2003. május 16-i 2003/369/EK bizottsági határozat alapján ágazati bontásban),
+– az identitásfejlesztő akciók megvalósítása,
 
-c) a támogatás pénzügyi adatai (igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatott műemléki és természeti helyszínek száma,
 
-d) a támogatott TCS pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatott célterületek száma,
 
-e) tagok száma és a támogatás alapján piacra lépett gazdaságok száma a TCS-ben,
+– a támogatott tevékenységtípusok pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-f) a támogatásban részesülő TCS gazdaságára vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a projektek megvalósulási helyének lélekszáma,
 
-g) a támogatásnak köszönhetően létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban.
+– a projektek megvalósulási helyszínei közül a hátrányos helyzetű települések száma,
 
-17. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a tevékenység típusa.
 
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
+32. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások körében az integrált közösségi és szolgáltató tér kialakítására és működtetésére igénybe vehető támogatások részletes feltételeiről szóló 112/2009. (VIII. 29.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-b) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– multifunkcionális terek száma,
 
-c) a támogatásban részesülő ügyfél gazdálkodási tevékenysége (mezőgazdaság, élelmiszeripar, erdőgazdálkodás),
+– a támogatott tevékenységtípusok pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-d) a képzés tevékenységi köre,
+– a projektek megvalósulási helyének lélekszáma,
 
-e) a képzés tartama (óra/nap),
+– a projektek megvalósulási helyei között a hátrányos helyzetű települések száma,
 
-f) a képzés elvégzését tanúsító okirat típusa (tanúsítvány, bizonyítvány),
+– a tevékenység típusa,
 
-g) a képzésre kifizetett támogatási összeg nagysága,
+– támogatott ügyfél jogi státusza (önkormányzat, önkormányzati társulás, nonprofit szervezet, egyházi jogi személy),
 
-h) a képzés típusa (kötelező vagy választható képzés).
+– megvalósuló szolgáltatástípusok száma,
 
-18. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdészeti célra használt géppark fejlesztéséhez és korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 144/2008. (XI. 7.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– kötelezően és önként vállalt szolgáltatások száma.
 
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy, erdőgazdálkodói társulás),
+33. A Helyi Vidékfejlesztési Közösségek és a LEADER helyi akciócsoportok részére az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet keretében nyújtott támogatás részletes feltételeiről szóló 141/2008. (X. 30.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-b) a támogatásban részesülő ügyfél vállalkozására vonatkozó foglalkoztatási adatok – a (teljes és részmunkaidős) foglalkoztatottak száma, az általuk ledolgozott munkaórák száma – nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
+– a helyi akciócsoportok működési költségeiből végrehajtott tevékenységek száma és felhasznált támogatási összege tevékenységtípusonkénti bontásban,
 
-c) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+– a támogatott tevékenységtípusok pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-d) a támogatásnak köszönhetően bevezetett új termékre, új technológiára vonatkozó adatok,
+– a helyi akciócsoport területe és népessége.
 
-e) a GazdaNet programban való részvételi szándékra vonatkozó adat,
+34. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a nem termelő mezőgazdasági beruházásokhoz nyújtandó támogatások részletes feltételeiről szóló 33/2008. (III. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-f) a támogatott beruházás pénzügyi adatai területtípus szerinti bontásban,
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-g) a vállalkozás jellege (mezőgazdaság, élelmiszeripar, erdőgazdálkodás, egyéb),
+– a támogatott mezőgazdasági terület nagysága AKG, KAT, Natura 2000, nitrát-érzékeny és egyéb terület szerinti bontásban,
 
-h) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
+– a támogatás környezetvédelmi hatására vonatkozó adatok,
 
-i) a támogatásban részesülő erdőterületen az őshonos fafajú erdőterület nagysága,
+– a támogatott földhasználat típusára vonatkozó adatok,
 
-j) a támogatott beruházás megvalósulási helyére vonatkozó adatok (település),
+– a támogatott eszközbeszerzés típusára vonatkozó adatok,
 
-k) meglévő és új összes gépkapacitás,
+– a támogatott gyeptelepítés típusára vonatkozó adatok,
 
-l) a támogatott gép, illetve berendezés környezetvédelmi minősítése.
+– a támogatott madárvédelmi berendezés típusára vonatkozó adatok,
 
-19. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nem élelmiszeripari célú kiskapacitású, növényi alapú nyersszesz, nyersolaj előállító üzemek létesítéséhez nyújtandó támogatások részletes feltételeiről szóló 44/2009. (IV. 11.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a beruházás típusára vonatkozó adatok.
 
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy).
+35. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdőszerkezet átalakításához nyújtandó támogatások részletes feltételeiről szóló 139/2009. (X. 22.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-19.1. Adatszolgáltatási kötelezettség azokra vonatkozóan, akiknek az üzemeltetési kötelezettség lejáratáig terjedő időszakban az értékesítésből származó árbevételük legalább 50%-a származik nem mezőgazdasági termékek értékesítéséből és a támogatást mezőgazdasági termelő ügyfélként vagy TCS-ként igénylik:
+– a támogatás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-a) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a tevékenység típusára vonatkozó adatok,
 
-b) a támogatott vállalkozás legjellemzőbb ágazata és a termelés típusa (ökológiai és hagyományos), a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg) beruházási típusok, illetve területtípusok szerinti bontásban,
+– a beruházás típusa.
 
-c) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+36. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-d) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– a telepítési sűrűség telepített fafaj típus szerinti bontásban,
 
-e) az előállított nyersolaj és nyersszesz mennyisége és energiatartalma,
+– a támogatott terület nagysága a földhasználat típusa és telepített fafaj szerinti bontásban,
 
-f) a gyártás során felhasznált energiamennyiség,
+– a támogatott mezőgazdasági terület nagysága KAT, Natura 2000 terület szerinti bontásban,
 
-g) előállított takarmánymennyiség és becsült takarmányozási érték,
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-h) a felhasznált alapanyag mennyisége alapanyag szerinti bontásban,
+– az új agrár-erdészeti rendszer megvalósítására használt terület nagysága tevékenység típus szerinti bontásban,
 
-i) teljes input fosszilis energiamennyiség,
+– az új agrár-erdészeti rendszer kiterjedése földhasználat szerint.
 
-j) alapanyag begyűjtéssel, termesztéssel érintett földterület nagysága.
+37. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdő-környezetvédelmi intézkedésekhez nyújtandó támogatások részletes feltételeiről szóló 124/2009. (IX. 24.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-19.2. Adatszolgáltatási kötelezettség azokra vonatkozóan, akiknek az üzemeltetési kötelezettség lejáratáig terjedő időszakban az értékesítésből származó árbevételük kevesebb mint 50%-a származik nem feldolgozott mezőgazdasági termékek értékesítéséből és a támogatást feldolgozó ügyfélként igénylik:
+– a támogatott terület nagysága célprogramok szerinti, illetve Natura 2000 terület szerinti bontásban,
 
-a) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriába,
+– a támogatott terület nagysága a támogatás típusa szerinti bontásban,
 
-b) a támogatott vállalkozás legjellemzőbb ágazata és a termelés típusa (ökológiai és hagyományos),
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg) a támogatás típusa szerinti bontásban,
 
-c) a támogatott kérelem tevékenységi besorolása (élelmiszeripar, vegyes),
+– a támogatott terület nagysága a sikeres földhasználat alatt álló területek hozzájárulásának típusa szerinti bontásban.
 
-d) a támogatott vállalkozás pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel) tevékenységi ágazatonkénti bontásban,
+38. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-e) a támogatás alapján bevezetett új termékre, új technológiára vonatkozó adatok,
+– az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
 
-f) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a támogatásban részesülő ügyfél fő tevékenysége (mezőgazdasági termelő, egyéb földhasználó),
 
-g) az előállított nyersolaj és nyersszesz mennyisége és energiatartalma,
+– az AKG támogatásban is részesülő terület nagysága (1257/1999/EK tanácsi rendelet 19. és 20. cikke szerinti KAT terület, Natura 2000 terület, nitrát-érzékeny és egyéb területbontásokban),
 
-h) a gyártás során felhasznált energiamennyiség,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-i) előállított takarmánymennyiség és becsült takarmányozási érték,
+– a támogatott terület nagysága a támogatás típusa és célprogram szerinti bontásban,
 
-j) a felhasznált alapanyag mennyisége alapanyag szerinti bontásban,
+– a támogatott földterület összes nagysága,
 
-k) teljes input fosszilis energiamennyiség,
+– a támogatott ügyfél jogi státusza (jogi személy, állami, nonprofit szervezet, természetes személy),
 
-l) alapanyag-begyűjtéssel, -termesztéssel érintett földterület nagysága.
+– a támogatásban részesülő vállalkozás besorolása vállalkozás méret kategóriákba,
 
-20. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági utak fejlesztéséhez nyújtandó támogatások részletes feltételeiről szóló 125/2009. (IX. 29.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg).
 
-a) a támogatott ügyfél jogi státusza (természetes személy, jogi személy),
+39. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások részletes feltételeiről szóló 38/2010. (IV. 15.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-b) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg).
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+40. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 122/2009. (IX. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-d) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-e) a támogatott gazdaság pénzügyi adatai (fedezeti összeg, nettó árbevétel),
+– a helyi akciócsoport területe és népessége,
 
-f) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
+– a helyi akciócsoportok által finanszírozott tevékenységek száma és felhasznált támogatási összege tevékenységtípusonkénti bontásban,
 
-g) a beruházással érintett mezőgazdasági terület nagysága,
+– a támogatásban részesülők személyes adatai (neme, kora korcsoportonként).
 
-h) a tanyához csatlakozó utak száma és hossza,
+41. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a baromfi telepek korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 78/2011. (VIII. 3.) VM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-i) a borvidékekhez csatlakozó utak száma és hossza.
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-21. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kedvezőtlen adottságú területeken történő gazdálkodáshoz nyújtandó kompenzációs támogatások részletes szabályairól szóló 25/2007. (IV. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatott gazdaság, illetve vállalkozás termelési mód szerinti besorolása (hagyományos, illetve ökológiai),
 
-a) a támogatott ügyfél jogi státusza (természetes személy, jogi személy),
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-b) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– tojóketrecek száma, felülete,
 
-d) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-e) a támogatásra jogosult terület nagyságára vonatkozó adatok [az Európai Mezőgazdasági Orientációs és Garanciaalapból (EMOGA) nyújtandó vidékfejlesztési támogatásról, valamint egyes rendeletek módosításáról, illetve hatályon kívül helyezéséről szóló, 1999. május 17-i 1257/1999/EK tanácsi rendelet (a továbbiakban: 1257/1999/EK tanácsi rendelet) 19. cikke szerinti egyéb kedvezőtlen helyzetű térségek, az 1257/1999/EK tanácsi rendelet 20. cikke szerinti egyedi hátrányok által érintett térségek],
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy vagy TCS),
 
-f) a kedvezőtlen adottságú terület nagysága (1257/1999/EK tanácsi rendelet 19. és 20. cikke szerinti terület, Natura 2000 terület, egyéb területbontásokban),
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-g) a KAT területen érintett állatállomány átlagos nagysága (állategység szerint),
+– a támogatási jogcím keretében megvalósított beruházás beruházás-típus szerinti besorolása.
 
-h) a kompenzációs kifizetések alá bevont hasznosított mezőgazdasági terület hozzájárulása a művelés felhagyásának elkerüléséhez,
+42. Az Európai Mezőgazdasági Vidékfejlesztési Alapból ültetvények korszerűsítéséhez, telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 35/2010 (IV. 9.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-i) a támogatás pénzügyi adatai (jóváhagyott támogatási összeg) az 1257/1999/EK tanácsi rendelet 19. és 20. cikke szerinti bontásban,
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
 
-j) nitrogénfelhasználás által érintett terület nagyság,
+– a támogatott mezőgazdasági ágazat típusa szerinti besorolás (ökológiai, illetve hagyományos),
 
-k) a KAT terület hasznosítása (az 1257/1999/EK tanácsi rendelet 19. és 20. cikkei szerinti szántó-gyep),
+– a GAZDANET programban való részvételi szándékra vonatkozó adat,
 
-l) az agrár-környezetgazdálkodási (a továbbiakban: AKG) támogatásban is részesülő terület nagysága,
+– a támogatás alapján megvalósított projekt megvalósítási helyének besorolása beavatkozási terület szerint (KAT, Natura 2000 terület, 2000/60/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó terület),
 
-m) a KAT terület hasznosításának módja (kaszált, illetve legeltetett),
+– az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
 
-n) a degresszivitás számításának alapjául szolgáló terület nagyságának, nagyságrendi besorolása,
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-o) a KAT területen belüli nitrát-érzékeny és nem nitrát-érzékeny terület nagysága,
+– a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
 
-p) a támogatott gazdaság teljes területe,
+– a támogatott beruházás pénzügyi adatai (összes kiadás, igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-q) egységes területalapú támogatás – (SAPS) keretében támogatás igénybevétele.
+– a támogatott ültetvény mérete telepített faj szerinti bontásban,
 
-22. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a Natura 2000 gyepterületeken történő gazdálkodáshoz nyújtandó kompenzációs támogatás részletes szabályairól szóló 128/2007. (X. 31.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatási jogcím keretében megvalósított beruházásnak a beruházás típusa szerinti besorolása,
 
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy),
+– a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi szektor szerinti besorolása.
 
-b) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
+43. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a genetikai erőforrások megőrzése intézkedés keretében a növényi genetikai erőforrások és mikroorganizmusok ex situ megőrzéséhez nyújtandó támogatások igénybevételének részletes feltételeiről szóló 53/2011. (VI. 10.) VM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
+– a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
 
-d) a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
+– a támogatott beruházás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-e) a támogatott hasznosított mezőgazdasági terület nagysága Natura 2000 területen,
+– a támogatásban részesülő ügyfél fő tevékenysége (mezőgazdasági termelő, egyéb földhasználó),
 
-f) az effektív mezőgazdasági hozzájárulás típus szerinti besorolása,
+– a támogatás típusa.
 
-g) a támogatás pénzügyi adatai (jóváhagyott támogatási összeg),
+44. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a tejágazat szerkezetátalakítását kísérő állatjóléti támogatás részletes feltételeiről szóló 18/2011. (III. 9.) VM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-h) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti, illetve Natura 2000 és egyéb terület szerinti bontásban,
+– a támogatás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg),
 
-i) a támogatott terület hasznosítására és művelésére vonatkozó adatok (hasznosítás: kaszálás vagy legeltetés, a kaszálások és legeltetés technikai adatai, a legeltetett állatok fajára vonatkozó adatok, belvízi elöntésre vonatkozó adatok, nádirtásra vonatkozó adatok, területen található védett madárfészkek, illetve idős fák száma, a területre vonatkozó EK irányelv megjelölése, védekezésre vonatkozó adatok),
+– a támogatásban részesülő ügyfél fő tevékenysége (mezőgazdasági termelő, egyéb földhasználó),
 
-j) szaktanácsadás igénybevételére vonatkozó adatok,
+– a támogatott állatállomány típusa.
 
-k) adatok arra vonatkozóan, hogy részesül-e egyéb ÚMVP támogatásban (AKG, KAT).
+45. Az Európai Mezőgazdasági és Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2011-től nyújtandó támogatások részletes feltételeiről szóló 76/2011. (VII. 29.) VM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
-23. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
+– a támogatott beruházás pénzügyi adatai (igényelt, jóváhagyott, kifizetett támogatási összeg).
 
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy),
-
-b) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
-
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
-
-d) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
-
-e) a támogatásnak köszönhetően beültetett erdőterület nagysága (tulajdonos, illetve faj, illetve előző programozási időszakról áthúzódó és új támogatás szerinti bontásban),
-
-f) a támogatás környezetvédelmi hatására vonatkozó adatok,
-
-g) támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg) a következő bontás szerint: tulajdonos, hátrány, tevékenység típusa,
-
-h) a tervezett, illetve sikeresen erdősített terület nagysága faj szerinti bontásban,
-
-i) az erdősített terület nagysága (KAT, Natura 2000 terület vagy egyéb besorolás szerint, illetve fajonként),
-
-j) az erdősítésre vonatkozó technikai adatok (elegyesség, őshonosság, célállomány besorolása, a terület eredeti rendeltetése, speciális besorolása, lejtés),
-
-k) a telepítés megkezdésének időpontjára vonatkozó adatok,
-
-l) az ügyfél erdőterületére vonatkozó adatok (erdőterülettel rendelkező vagy új erdőgazdálkodó, illetve korábbi AKG támogatásra vonatkozó adatok),
-
-m) részesül-e az ügyfél kiemelt jövedelempótló, illetve jövedelempótló támogatásban,
-
-n) a megvalósított létesítményekre vonatkozó adatok (bakhát, padka, villanypásztor, kerítés),
-
-o) az erdősítés során használt géppark tulajdonosa (saját vagy egyéb jogon használt),
-
-p) a telepítés időszaka.
-
-24. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdészeti potenciál helyreállítására nyújtandó támogatások igénybevételének részletes szabályairól szóló 32/2008. (III. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatott ügyfél jogi státusza (állami, természetes személy, jogi személy),
-
-b) a támogatásban részesülő vállalkozás besorolása vállalkozás méret kategóriákba,
-
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
-
-d) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
-
-e) a helyreállított erdőterület nagysága (kár szerinti, illetve tulajdonosi bontásban: magán- vagy köztulajdon),
-
-f) az újratelepített erdőterület nagysága (tulajdonosi bontásban),
-
-g) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg) helyreállítás (kártípus és tulajdonos szerinti bontásban), illetve újratelepítés (tulajdonos szerinti bontásban) szerinti bontásban,
-
-h) a támogatott erdőterület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
-
-i) a károsodott állomány nagysága (faj, elegyesség szerinti bontásban),
-
-j) erdőkár típusa,
-
-k) az összes károsodott terület nagysága, illetve a legnagyobb egybefüggő károsodott terület nagysága,
-
-l) a kár által érintett erdészeti tájra vonatkozó adat,
-
-m) felújítás technikai adatai [felújítás módja, alkalmazott állomány jellemzői (faj, elegyesség), terület rendeltetése],
-
-n) károsodott terület elsődleges rendeltetésére vonatkozó adatok,
-
-o) károsodott terület besorolása (Natura 2000 terület, védett terület),
-
-p) a károsodott terület egyéb támogatásban történő részvételére vonatkozó adat.
-
-25. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások körében a kistérségi közlekedési szolgáltatások fejlesztésére igénybe vehető támogatások részletes feltételeiről szóló 9/2008. (I. 24.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatásban részesülő szervezeti besorolása (önkormányzat, önkormányzati társulás, illetve nonprofit szervezet),
-
-b) a támogatott tevékenységek számára vonatkozó adat,
-
-c) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
-
-d) a támogatás alapján létrehozott új munkahelyek nettó száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
-
-e) a támogatott szolgáltatást hasznosító, illetve a szolgáltatással érintett lakosság száma,
-
-f) a beruházás technikai adatai (futásteljesítmény, akadálymentesítés, férőhely, saját vagy kiszervezett működtetés),
-
-g) a fejlesztéssel érintett települések száma (különös tekintettel a hátrányos helyzetű területekre),
-
-h) a feladat saját, illetve átadással történő megvalósítására vonatkozó adat,
-
-i) az ellátandó területen belül tanyás térségben élők száma.
-
-26. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 59. cikke szerinti készségek elsajátítására, ösztönzésére és végrehajtására igénybe vehető támogatás részletes feltételeiről szóló 79/2007. (VII. 30.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás kiegészítése a helyi akciócsoportok adatszolgáltatási kötelezettségére vonatkozóan:
-
-a) a támogatás alapján megtartott, illetve létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
-
-b) a helyi akciócsoportok 3. tengelyből finanszírozott működési költségeiből végrehajtott tevékenységek száma és felhasznált támogatási összege tevékenységtípusonkénti bontásban,
-
-c) a támogatott tevékenységtípusokban résztvevők száma nem és kor szerinti bontásban,
-
-d) a támogatott köz- és magánszféra partneri kapcsolatok száma.
-
-27. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a falumegújításra és -fejlesztésre igénybe vehető támogatások részletes feltételeiről szóló 135/2008. (X. 18.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) támogatott ügyfél jogi státusza (önkormányzat, önkormányzati társulás, nonprofit szervezet, egyházi jogi személy),
-
-b) a támogatás pénzügyi adatai (összes kiadás, támogatási összeg) a projekt keretében végrehajtott tevékenység típusa szerinti bontásban (fizikai, társadalmi, gazdasági élénkítés),
-
-c) azon települések száma, ahol a projekt megvalósul,
-
-d) a támogatott, fejlettebb szolgáltatásokat hasznosító, vidéki területeken élők száma,
-
-e) a támogatás alapján létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban,
-
-f) a projektek megvalósulási helyének lélekszáma,
-
-g) a projektek megvalósulási helyszínei közül a hátrányos helyzetű települések száma,
-
-h) a fejlesztés típusa.
-
-28. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mikrovállalkozások létrehozására és fejlesztésére nyújtandó támogatások részletes feltételeiről szóló 136/2008. (X. 18.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatásban részesülő mikrovállalkozás típusa (meglévő, újonnan létrehozott),
-
-b) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
-
-c) a támogatásban részesülő ügyfél pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel),
-
-d) a támogatás alapján létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma tevékenység, nem, illetve kor szerinti bontásban,
-
-e) a projektek megvalósulási helyének lélekszáma,
-
-f) a projektek megvalósulási helyszínei közül a hátrányos helyzetű települések száma.
-
-29. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez nyújtandó támogatások részletes feltételeiről szóló 137/2008. (X. 18.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy vagy jogi személy),
-
-b) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg) idegenforgalmi tevékenység-típus szerinti bontásban,
-
-c) a támogatásban részesülő ügyfél pénzügyi gazdálkodási adatai (fedezeti összeg, nettó árbevétel),
-
-d) a támogatás által generált turisztikai látogatások száma (szálláshelyek esetében vendégéjszakák, egyéb turisztikai szolgáltatások esetében látogatók),
-
-e) a támogatás alapján létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma tevékenység, nem, illetve kor szerinti bontásban,
-
-f) a projektek megvalósulási helyének lélekszáma,
-
-g) a projektek megvalósulási helyszínei közül a hátrányos helyzetű települések száma.
-
-30. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki örökség megőrzéséhez igénybe vehető támogatások részletes feltételeiről szóló 138/2008. (X. 18.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) támogatott ügyfél jogi státusza (önkormányzat, önkormányzati társulás, nonprofit szervezet, egyházi jogi személy),
-
-b) a támogatás pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
-
-c) a támogatott, fejlettebb szolgáltatásokat hasznosító, vidéki területeken élők száma,
-
-d) a támogatott műemléki, veszélyeztetett műemléki és természeti helyszínek száma,
-
-e) a projektek megvalósulási helyének lélekszáma,
-
-f) a projektek megvalósulási helyszínei közül a hátrányos helyzetű települések száma.
-
-31. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások körében az integrált közösségi és szolgáltató tér kialakítására és működtetésére igénybe vehető támogatások részletes feltételeiről szóló 112/2009. (VIII. 29.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatott ügyfél jogi státusza (önkormányzat, önkormányzati társulás, nonprofit szervezet, egyházi jogi személy),
-
-b) a támogatott tevékenységtípusok pénzügyi adatai (összes kiadás, igényelt, illetve jóváhagyott támogatási összeg),
-
-c) a támogatás pénzügyi adatai,
-
-d) a fejlettebb szolgáltatásokat hasznosító vidéki területeken élők száma,
-
-e) internet-ellátottság növekedése a vidéki térségben (fő),
-
-f) főfoglalkozásnak megfelelő, újonnan létrehozott munkahelyek száma,
-
-g) a projektek megvalósulási helyének lélekszáma,
-
-h) a projektek megvalósulási helyei között a hátrányos helyzetű települések száma,
-
-i) megvalósuló szolgáltatástípusok száma összesen,
-
-j) multifunkcionális terek száma.
-
-32. A Helyi Vidékfejlesztési Közösségek és a LEADER helyi akciócsoportok részére az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet keretében nyújtott támogatás részletes feltételeiről szóló 141/2008. (X. 30.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a helyi akciócsoport területe és népessége,
-
-b) a helyi akciócsoportok működési költségeiből végrehajtott tevékenységek száma és felhasznált támogatási összege tevékenységtípusonkénti bontásban.
-
-33. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a nem termelő mezőgazdasági beruházásokhoz nyújtandó támogatások részletes feltételeiről szóló 33/2008. (III. 27.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy),
-
-b) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
-
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
-
-d) a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
-
-e) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
-
-f) a támogatott mezőgazdasági terület nagysága AKG, KAT, Natura 2000, nitrát-érzékeny és egyéb terület szerinti bontásban,
-
-g) a támogatás pénzügyi adatai (jóváhagyott támogatási összeg),
-
-h) a beruházás típusára vonatkozó adatok,
-
-i) a támogatás környezetvédelmi hatására vonatkozó adatok,
-
-j) a támogatott földhasználat típusára vonatkozó adatok,
-
-k) a támogatott eszközbeszerzés típusára vonatkozó adatok,
-
-l) a gyeptelepítés során alkalmazott fajokra vonatkozó adatok,
-
-m) a támogatott madárvédelmi berendezés típusára vonatkozó adatok.
-
-34. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdőszerkezet átalakításához nyújtandó támogatások részletes feltételeiről szóló139/2009. (X. 22.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy),
-
-b) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
-
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
-
-d) a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
-
-e) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
-
-f) a támogatott mezőgazdasági terület nagysága AKG, KAT, Natura 2000, nitrát-érzékeny és egyéb terület szerinti bontásban,
-
-g) a támogatás pénzügyi adatai (jóváhagyott támogatási összeg),
-
-h) a tevékenység típusára vonatkozó adatok,
-
-i) a támogatás környezetvédelmi hatására vonatkozó adatok.
-
-35. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy),
-
-b) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
-
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
-
-d) a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
-
-e) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
-
-f) a támogatott terület nagysága a földhasználat típusa és telepített fafaj szerinti bontásban,
-
-g) a telepítési sűrűség telepített fafaj típus szerinti bontásban,
-
-h) a támogatás pénzügyi adatai telepített fafaj szerinti bontásban.
-
-36. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdő-környezetvédelmi intézkedésekhez nyújtandó támogatások részletes feltételeiről szóló 124/2009. (IX. 24.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatásban részesülő ügyfél jogi státusza (természetes személy, jogi személy),
-
-b) a támogatásban részesülő vállalkozás besorolása vállalkozásméret kategóriákba,
-
-c) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
-
-d) a támogatott gazdaság legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
-
-e) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
-
-f) a támogatott terület nagysága a támogatás típusa szerinti bontásban,
-
-g) a támogatott terület nagysága a sikeres földhasználat alatt álló területek hozzájárulásának típusa szerinti bontásban,
-
-h) a támogatott terület nagysága célprogramok szerinti, illetve Natura 2000, védett vagy fokozottan védett és MTÉT területbontásban,
-
-i) a támogatás pénzügyi adatai a támogatás típusa szerinti bontásban,
-
-j) a támogatás környezetvédelmi hatására vonatkozó adatok.
-
-37. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatott ügyfél jogi státusza (jogi személy, állami, civil szervezet, természetes személy),
-
-b) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
-
-c) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
-
-d) az AKG támogatásban is részesülő terület nagysága (1257/1999/EK tanácsi rendelet 19. és 20. cikke szerinti KAT terület, Natura 2000 terület, nitrát-érzékeny és egyéb területbontásokban),
-
-e) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti bontásban,
-
-g) a támogatott terület nagysága a támogatás típusa szerinti bontásban,
-
-h) a támogatás pénzügyi adatai a támogatás típusa szerinti bontásban,
-
-i) a támogatás környezetvédelmi hatására vonatkozó adatok.
-
-38. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások részletes feltételeiről szóló 38/2010. (IV. 15.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatott ügyfél jogi státusza (jogi személy, állami, civil szervezet, természetes személy),
-
-b) a támogatásban részesülő ügyfél személyes adatai (neme, kora korcsoportonként),
-
-c) a támogatott gazdaság, illetve vállalkozás legjellemzőbb tevékenységi ágazat, illetve alágazat szerinti besorolása,
-
-d) az AKG támogatásban is részesülő terület nagysága (1257/1999/EK tanácsi rendelet 19. és 20. cikke szerinti KAT terület, Natura 2000 terület, nitrát-érzékeny és egyéb területbontásokban),
-
-e) az ügyfél által hasznosított terület mérete saját, illetve egyéb jogon használt terület szerinti, illetve Natura 2000 és egyéb terület szerinti bontásban,
-
-f) a támogatott terület nagysága a területhasznosítás módja szerinti bontásban,
-
-g) a támogatás pénzügyi adatai a támogatás típusa szerinti bontásban,
-
-h) a támogatás környezetvédelmi hatására vonatkozó adatok,
-
-i) a helyi veszélyeztetett állatfajták fenntartására és a genetikai forrásokra vonatkozó adatok.
-
-39. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 122/2009. (IX. 17.) FVM rendelet keretében igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
-
-a) a támogatásnak köszönhetően megtartott munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban;
-
-b) a támogatás alapján létrehozott új munkahelyek száma, az ezen munkahelyeken a foglalkoztatottak által ledolgozott munkaórák száma nem, kor, illetve esélyegyenlőségi szempontok (roma, megváltozott munkaképességű) szerinti bontásban.
-
-[^7]: A Melléklet a 8/2011. (I. 31.) VM rendelet 4. §-ával megállapított szöveg.
+[^15]: A melléklet a 3/2012. (I. 31.) VM rendelet 6. §-ával megállapított szöveg.
