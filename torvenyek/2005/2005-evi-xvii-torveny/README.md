@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-17-00-00
 | --- | --- | --- |
 | 2009-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2005-17-00-00.7 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2005-17-00-00.8 |
+| 2012-02-01 | 2011. évi CLXXIV. törvény | 2005-17-00-00.9 |
