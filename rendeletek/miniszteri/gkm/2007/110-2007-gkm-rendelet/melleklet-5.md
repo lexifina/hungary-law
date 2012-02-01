@@ -40,7 +40,7 @@
 
 ## * A közölt hatásfok-referenciaértékeket abban az esetben kell alkalmazni, ha a füstgázhőmérséklet 250 °C vagy annál magasabb.
 
-5. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^19]
+5. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^21]
 
 1. A teljes kapcsolt energiatermelő üzemmódra tervezett villamos energia hőenergiához viszonyított arányát a fejlesztés alatt álló vagy működésük első évében lévő kapcsolt energiatermelő erőműegységek esetében – ha a mért adatok nem állapíthatók meg – a következő képlet alapján kell meghatározni:
 
@@ -50,4 +50,4 @@ Ekog = Qkog x σtervezett
 
 Ekog = Qkog x σmegállapított
 
-[^19]: Az 5. számú mellékletet a 17/2011. (V. 6.) NFM rendelet 6. §-a iktatta be. E módosító rendelet 7. § (1) bekezdése alapján az e rendelet hatálya alá tartozó, a Magyar Energia Hivatal előtt folyamatban lévő eljárásokban is alkalmazni kell.
+[^21]: Az 5. számú mellékletet a 17/2011. (V. 6.) NFM rendelet 6. §-a iktatta be. E módosító rendelet 7. § (1) bekezdése alapján az e rendelet hatálya alá tartozó, a Magyar Energia Hivatal előtt folyamatban lévő eljárásokban is alkalmazni kell.

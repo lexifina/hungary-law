@@ -26,4 +26,6 @@
 
 ## Ekog a kapcsolt energiatermelésből származó nagy hatásfokú villamos energia éves mennyisége, MWh.
 
-3. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez
+3. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^20]
+
+[^20]: Az 3. számú melléklet a 2/2012. (I. 31.) NFM rendelet 2. §-a szerint módosított szöveg.
