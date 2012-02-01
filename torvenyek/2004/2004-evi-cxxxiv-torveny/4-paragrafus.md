@@ -44,7 +44,7 @@ d) kutató, fejlesztő: az a természetes személy, aki új ismeret, szellemi al
 
 b) hasznosító vállalkozás: költségvetési kutatóhelyen – a 20. § alkalmazásában non-profit kutatóhelyen is – létrejött szellemi alkotások üzleti hasznosítása céljából az ilyen kutatóhely által alapított, illetve részvételével vagy részesedésével működő gazdasági társaság;
 
-7. közfinanszírozású támogatás: az államháztartás alrendszereiből nyújtott támogatás az Európai Unióból (a továbbiakban: EU) származó forrásokat is, továbbá a megyei (fővárosi) önkormányzat és a térségi fejlesztési tanácsok rendelkezési jogkörébe utalt támogatás és az állami, illetve önkormányzati részvétellel létrejött nemzetközi szerződések alapján kapott külföldi támogatás;
+7. közfinanszírozású támogatás: az államháztartás alrendszereiből nyújtott támogatás az Európai Unióból (a továbbiakban: EU) származó forrásokat is, továbbá a a megyei (fővárosi) önkormányzat és a térségi fejlesztési tanácsok rendelkezési jogkörébe utalt támogatás és az állami, illetve önkormányzati részvétellel létrejött nemzetközi szerződések alapján kapott külföldi támogatás;
 
 8. a) kutatás-fejlesztési és technológiai innovációs program: közfinanszírozású támogatási forrás kezelője által meghatározott cél elérését szolgáló, vagy meghatározott témakörbe csoportosítható kutatás-fejlesztési vagy technológiai innovációs projektek megvalósításának támogatására kiírt pályázat, illetve pályázatok időben megismételt sorozata (a továbbiakban: program);
 
