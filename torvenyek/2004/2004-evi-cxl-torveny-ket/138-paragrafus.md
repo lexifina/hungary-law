@@ -1,17 +1,9 @@
-## Késedelmi pótlék
+138. § (1) A külföldi határozat végrehajtására irányuló megkeresést a kormányrendeletben kijelölt hatósághoz (a továbbiakban e §-ban: kijelölt hatóság) kell megküldeni.
 
-138. § (1) A kötelezett késedelmi pótlékot köteles fizetni, ha
+(2) A kijelölt hatóság megvizsgálja, hogy a megkeresés megfelel-e az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusában, a nemzetközi szerződésben megállapított feltételeknek vagy a viszonossági gyakorlatnak, illetve mindezek hiányában a 137. §-ban foglalt feltételeknek. A viszonosság kérdésében a külpolitikáért felelős miniszter állásfoglalása az irányadó, amelyet az ügyfajta tekintetében feladatkörrel rendelkező miniszterrel egyetértésben alakít ki. Ha a megkeresés hiányos vagy e törvény alapján nem hajtható végre, a kijelölt hatóság a megkeresést az ok közlésével visszaküldi a külföldi hatóságnak.
 
-a) pénzfizetési kötelezettségének határidőben nem tett eleget, kivéve, ha törvény másként rendelkezik,
+(3) Ha a megkeresés a magyar jog szerint bírósági hatáskörbe tartozó kötelezettség végrehajtására irányul, a megkeresést a hatáskörrel rendelkező illetékes bírósághoz kell megküldeni.
 
-b) a hatósági szerződés alapján igénybe vett támogatást vagy kedvezményt vissza kell térítenie,
+(4) Ha a külföldi határozat végrehajtható, a megkeresést a végrehajtás foganatosítása céljából meg kell küldeni a végrehajtás foganatosítására hatáskörrel rendelkező illetékes szervhez.
 
-c) azt a törvény elrendeli.
-
-(2)
-
-(3) A késedelmi pótlék mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A késedelmesen megfizetett késedelmi pótlék után nem számítható fel késedelmi pótlék.
-
-(4) A késedelmi pótlékot pénzfizetési kötelezettség esetén a teljesítési határidő utolsó napját követő naptól, a hatósági szerződés alapján igénybe vett támogatás vagy kedvezmény visszatérítése esetén az igénybevétel első napjától a teljesítés vagy a visszatérítés napjáig terjedő időszakra, részleges teljesítés esetén a hátralékra kell felszámítani.
-
-(5)
+(5) Ha a magyar jog szerint hatáskörrel rendelkező hatóság nincs, és a bíróság hatásköre sem állapítható meg, a kijelölt hatóság a közigazgatás-szervezésért felelős miniszter állásfoglalását kéri. A közigazgatás-szervezésért felelős miniszter az érintett miniszterrel vagy központi államigazgatási szerv vezetőjével egyeztetett állásfoglalását tizenöt napon belül megküldi a kijelölt hatósághoz. A külpolitikáért felelős miniszter az ügyfajta tekintetében feladatkörrel rendelkező miniszterrel egyetértésben tizenöt napon belül nyilatkozik a viszonosságról. A kijelölt hatóság a megkeresést átteszi az állásfoglalásban meghatározott hatósághoz.

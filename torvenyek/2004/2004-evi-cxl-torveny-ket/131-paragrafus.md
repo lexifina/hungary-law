@@ -1,9 +1,9 @@
-## A végrehajtás foganatosítása
+131. § (1) Ha a végrehajtás nem vezetett vagy aránytalanul hosszú idő múlva vezetne eredményre, a kötelezett bármely lefoglalható vagyontárgya végrehajtás alá vonható. Elsősorban az a vagyontárgy vonható végrehajtás alá, amelyre biztosítási intézkedést rendeltek el.
 
-131. § (1) Kormányrendelet eltérő rendelkezése hiányában a végrehajtást az elsőfokú hatóság foganatosítja.
+(2) Ingatlan-végrehajtásnak akkor van helye, ha a követelés összege az ötszázezer forintot meghaladja, illetve ennél kisebb összeg esetén, ha a tartozás a végrehajtás alá vont ingatlan értékével arányban áll.
 
-(2) A végrehajtást foganatosító szerv a végrehajtásra önálló bírósági végrehajtóval szerződést köthet, a végrehajtás során azonban csak a végrehajtást elrendelő hatóság jogosult végzést hozni.
+(3) A jogszabályban meghatározott lakásigény mértékének felső határát meg nem haladó nagyságú, a kötelezett és a vele együtt élő közeli hozzátartozók lakhatását közvetlenül szolgáló lakástulajdon a végrehajtás során csak akkor értékesíthető, ha a végrehajtás más formái nem vezettek eredményre.
 
-(3) Törvény vagy kormányrendelet elrendelheti, hogy ha nem az elsőfokú hatóság foganatosítja a végrehajtást, akkor a döntés végrehajtását a végrehajtást foganatosító szerv az elsőfokú hatóság bevonásával foganatosítsa, ha ehhez olyan szakmai ismeretek vagy egyéb feltételek szükségesek, amelyekkel a végrehajtást foganatosító szerv nem rendelkezik.
+(4) Ha az ingatlan-végrehajtás megindításának nincs helye, és a kötelezett egyéb vagyonára vezetett végrehajtás is eredménytelen volt, a végrehajtást foganatosító szerv a kötelezett ingatlanát – a jogosult javára a behajthatatlan pénzkövetelés összege és járulékai összegéig – jelzálogjoggal terheli meg.
 
-(4)–(5)
+(5) Az ingatlanügyi hatóság – a végrehajtást foganatosító szerv megkeresésére – a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi.

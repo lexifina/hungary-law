@@ -2,7 +2,7 @@
 
 (2) A közigazgatási hatóság:
 
-a) a kizárólag kérelemre indítható eljárások kivételével hivatalból eljárást indíthat, illetve a kérelemre indult eljárást jogszabályban meghatározott feltételek fennállása esetén folytathatja, és ilyen esetben a végrehajtást is hivatalból rendeli el,
+a) a kizárólag kérelemre indítható eljárások kivételével hivatalból eljárást indíthat, illetve a kérelemre indult eljárást jogszabályban meghatározott feltételek fennállása esetén folytathatja, és ilyen esetben a végrehajtást is hivatalból indítja meg,
 
 b) hivatalból állapítja meg a tényállást, határozza meg a bizonyítás módját és terjedelmét, ennek során nincs kötve az ügyfelek bizonyítási indítványaihoz, ugyanakkor a tényállás tisztázása során minden, az ügy szempontjából fontos körülményt figyelembe kell vennie,
 

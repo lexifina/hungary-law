@@ -22,4 +22,6 @@ c) az ügyfél tájékoztatására,
 
 d) a hatáskörre, az illetékességre,
 
-e) a szakhatóság közreműködésére.
+e) a szakhatóság közreműködésére,
+
+f) a fellebbezésre tekintet nélkül végrehajthatóvá nyilvánításra.

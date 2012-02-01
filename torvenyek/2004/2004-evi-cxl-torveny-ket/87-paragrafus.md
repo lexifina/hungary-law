@@ -2,4 +2,6 @@
 
 ## HATÓSÁGI ELLENŐRZÉS
 
-87. § A törvény rendelkezéseit a hatósági ellenőrzésre az e fejezetben szabályozott eltérésekkel kell alkalmazni.
+## A hatósági ellenőrzés általános szabályai
+
+87. § E törvény rendelkezéseit a hatósági ellenőrzésre az e fejezetben szabályozott eltérésekkel kell alkalmazni.

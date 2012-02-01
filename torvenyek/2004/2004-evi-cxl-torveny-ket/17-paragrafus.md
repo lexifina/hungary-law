@@ -27,3 +27,7 @@ kezelésére.
 (5) A hatóság az eljárás során a személyes adatot és a védett adatot – az ugyanazon ügyben folyó, e törvényben szabályozott eljárások kivételével – csak akkor továbbíthatja más szervhez, ha azt törvény megengedi, vagy ha az érintett ehhez hozzájárult.
 
 (6) Az adat védelmére vonatkozó szabályok megtartása nem vezethet a jogorvoslathoz való jog korlátozásához.
+
+(7) A hatóság eljárásának jogerős befejezését követően az eljárása során megismert és kezelt személyes adatokat zárolja. A hatóság a zárolt személyes adatokat az eljárás tárgyát képező ügy iratainak selejtezéséig vagy levéltári őrizetbe adásáig tárolja, azokat kizárólag a jogerős döntésének végrehajtása, a jogerős döntésében foglaltak ellenőrzése vagy a jogerős döntésével összefüggő jogorvoslat vagy döntés-felülvizsgálat céljából kezelheti, és kizárólag e személyes adatok kezelésére jogosult más szerv vagy személy részére továbbíthatja.
+
+(8) Törvény a (7) bekezdésben meghatározottnál rövidebb adatkezelési időtartamot is megállapíthat.

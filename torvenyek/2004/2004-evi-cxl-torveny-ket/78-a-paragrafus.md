@@ -1,7 +1,7 @@
-78/A. § Az ügyfelet kérelmére a hatóság – a döntés közléséről való gondoskodással egyidejűleg – elektronikus levélben tájékoztatja
+78/A. § Az ügyfelet kérelmére a hatóság – az iratok megküldéséről, közzétételéről való gondoskodással egyidejűleg – elektronikus levélben tájékoztatja
 
 a) – a 39/A. § alapján hozott végzés kivételével – a vele nem közlendő végzések, valamint
 
-b) a vele postai vagy hirdetményi úton közlendő döntések
+b) a neki postai úton megküldendő, illetve hirdetményi úton közzéteendő iratok
 
 szövegéről.

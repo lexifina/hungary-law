@@ -1,12 +1,10 @@
 ## IX. Fejezet
 
-## Az eljárási költség és az eljárási költség viselése
+## ELJÁRÁSI KÖLTSÉG, AZ ELJÁRÁSI KÖLTSÉG ELŐLEGEZÉSE ÉS VISELÉSE
 
-## Az eljárási költség
+## Az eljárási költségek
 
-153. § (1)
-
-(2) Eljárási költségek:
+153. § Eljárási költségek:
 
 1. az eljárási illeték,
 
@@ -36,6 +34,4 @@
 
 14. a helyszíni szemlével, valamint a szakértői tevékenységgel jogszerűen okozott kárért járó kártalanítás összege,
 
-15. a törvényben vagy kormányrendeletben meghatározott egyéb eljárási költség.
-
-(3)
+15. jogszabályban meghatározott, az 1–14. pont alá nem tartozó eljárási költség.

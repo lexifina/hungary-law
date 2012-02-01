@@ -1,6 +1,6 @@
-77. § (1) Az ügy szempontjából jelentős új tény felmerülése, továbbá a szerződéskötéskor fennálló körülmények lényeges megváltozása esetén a szerződés módosítását bármelyik fél kezdeményezheti. Ha a módosításhoz a másik fél nem járul hozzá, vagy a felek között vita van a módosítás törvényi feltételei tekintetében, akkor a közigazgatási ügyekben eljáró bíróságtól kérhető a szerződés módosítása vagy megszüntetése.
+77. § (1) Az ügy szempontjából jelentős új tény felmerülése, továbbá a szerződéskötéskor fennálló körülmények lényeges megváltozása esetén a szerződés módosítását bármelyik fél kezdeményezheti.
 
-(2) Ha az ügyfél a szerződésben foglaltakat megszegi, törvény eltérő rendelkezése hiányában a szerződés jogerős és végrehajtható határozatnak minősül, és a hatóság – az addigi teljesítések figyelembevételével – hivatalból intézkedik a végrehajtás elrendeléséről.
+(2) Ha az ügyfél a szerződésben foglaltakat megszegi, a hatóság a hatósági ellenőrzés során feltárt tények, a szerződésszegés súlya, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok jellege, valamint a szerződés alapját képező közérdek hatékony érvényesülése szempontjából, továbbá az addigi teljesítések figyelembevételével mérlegeli, hogy hivatalból megindítja eljárását, intézkedik a végrehajtás megindítása iránt, vagy a hatósági szerződés módosítását kezdeményezi.
 
 (3) Ha a hatósági szerződésben foglaltakat a hatóság nem teljesíti, az ügyfél a teljesítésre irányuló felhívás eredménytelensége esetén – a szerződésszegés tudomására jutásától számított harminc napon belül – a közigazgatási ügyekben eljáró bírósághoz fordulhat.
 

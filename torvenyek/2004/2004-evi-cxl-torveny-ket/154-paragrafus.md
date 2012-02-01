@@ -1,9 +1,9 @@
-## Az eljárási költség viselése
+## Az eljárási költségre vonatkozó általános szabályok
 
-154. § (1) Ha az ellenérdekű ügyfelek részvételével folyó eljárás amiatt indult, mert a kérelmező a másik ügyfél jogellenes magatartását sérelmezte, a hatóság – ha egyes költségek tekintetében törvény másként nem rendelkezik – a 153. § (2) bekezdésében meghatározott eljárási költségek viselésére kötelezi
+154. § (1) A 153. § 3–15. pontjában felsorolt költségek (a továbbiakban: egyéb eljárási költség) vonatkozásában
 
-a) a kérelem elutasítása esetén a kérelmező ügyfelet,
+a) a hatóság az eljárás során köteles költségkímélő módon és a célszerűség figyelembevételével eljárni,
 
-b) a kérelemnek megfelelő döntés esetén az ellenérdekű ügyfelet.
+b) az ügyfél, valamint az eljárás egyéb résztvevői kötelesek eljárási cselekményeiket a célszerűség figyelembevételével teljesíteni.
 
-(2) Ha az ügy érdemében hozott határozat a kérelemnek részben ad helyt, a hatóság az eljárási költség általa megállapított arányban való viselésére kötelezi a kérelmezőt, illetve az ellenérdekű ügyfelet.
+(2) Az (1) bekezdésben foglaltak megsértésével okozott költséget az azt okozó hatóság, ügyfél vagy az eljárás egyéb résztvevője viseli.

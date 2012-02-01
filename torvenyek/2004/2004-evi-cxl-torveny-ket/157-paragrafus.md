@@ -1,11 +1,13 @@
-157. § (1) A végrehajtási eljárás során felmerülő költséget az viseli, aki a végrehajtás elrendelésére és foganatosítására okot adott.
+157. § (1) A kérelemre indult eljárásban az egyéb eljárási költséget – ha jogszabály másként nem rendelkezik – a kérelmező ügyfél viseli. Több azonos érdekű ügyfél esetén az ügyfelek – eltérő megállapodásuk hiányában – egyetemlegesen felelősek az eljárási költség viseléséért.
 
-(2) Ellenérdekű ügyfelek részvételével folyó eljárásban a költség viselésére a 154. §-ban foglaltak megfelelően irányadók.
+(2) Az ellenérdekű ügyfelek részvételével folyó eljárásban a hatóság – ha egyes költségek tekintetében jogszabály másként nem rendelkezik – a 153. §-ban meghatározott eljárási költségek viselésére kötelezi
 
-(3) Ha a hatáskörrel rendelkező illetékes hatóság mulasztása miatt a felügyeleti szerv más hatóságot jelöl ki az eljárás lefolytatására, a hatáskörrel rendelkező illetékes hatóság megtéríti a kijelölt hatóságnak az e törvény alapján az utóbbit terhelő egyéb eljárási költséget.
+a) a kérelem elutasítása esetén a kérelmező ügyfelet,
 
-(4) A belföldi jogsegély keretében a megkeresett hatóság vagy más szerv eljárása során felmerült egyéb eljárási költséget a megkereső hatóság vagy más szerv megtéríti.
+b) a kérelemnek megfelelő döntés esetén az ellenérdekű ügyfelet,
 
-(5) Az iratbetekintést kérő viseli az iratbetekintési jog gyakorlásával okozott költséget.
+c) az eljárás megszüntetése esetén azt az ügyfelet, akinek eljárási cselekménye folytán az eljárási költség felmerült.
 
-(6) A szakhatóság viseli a szakhatósági állásfoglalás módosításával okozott többletköltségeket, kivéve, ha a szakhatósági állásfoglalás módosítását jogszabályváltozás tette szükségessé.
+(3) Ha a határozat a kérelemnek részben ad helyt, a hatóság az eljárási költség általa megállapított arányban való viselésére kötelezi a kérelmező ügyfelet, illetve az ellenérdekű ügyfelet.
+
+(4) Ha a hatóság az ügyfél részére kötelezettséget állapít meg, a kötelezettség alapjául szolgáló jogszabálysértés bizonyításával összefüggésben felmerült költség viselésére – ha jogszabály másként nem rendelkezik – az ügyfelet kötelezi. Ha a hatóság több ügyfél részére állapít meg kötelezettséget, a költségek ügyfelek közötti megosztásáról is rendelkezik.

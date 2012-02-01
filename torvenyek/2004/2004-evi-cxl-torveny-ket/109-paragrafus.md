@@ -1,9 +1,13 @@
 ## Bírósági felülvizsgálat
 
-109. § (1) Az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője a hatóság jogerős határozatának felülvizsgálatát a határozat közlésétől számított harminc napon belül jogszabálysértésre hivatkozással kérheti a közigazgatási ügyekben eljáró bíróságtól a határozatot hozó hatóság, képviselő-testület által hozott határozat esetében a helyi önkormányzat elleni kereset indításával. A keresetindítás határidejét törvény eltérően is meghatározhatja.
+109. § (1) Az önállóan nem fellebbezhető végzések kivételével a döntés bírósági felülvizsgálata kezdeményezhető
 
-(2) Ha törvény alapján a végzés ellen önálló fellebbezésnek van helye, az ügyfél, továbbá a kifejezetten rá vonatkozó végzés esetében az eljárás egyéb résztvevője jogszabálysértésre hivatkozással kezdeményezheti a jogerős végzés bírósági felülvizsgálatát a végzés közlésétől számított harminc napon belül. Az elsőfokú végzés a közlésétől számított harminc napon belül közvetlenül a közigazgatási ügyekben eljáró bíróság előtt támadható meg, ha a végzést miniszter, autonóm államigazgatási szerv, önálló szabályozó szerv, kormányhivatal vezetője vagy – törvény vagy kormányrendelet eltérő rendelkezése hiányában – ha központi államigazgatási szerv vezetője hozta, vagy ha törvény az ügyben az első fokú határozattal szemben is kizárja a fellebbezést, és a határozat bírósági felülvizsgálatát teszi lehetővé. A közigazgatási ügyekben eljáró bíróság a végzést nemperes eljárásban vizsgálja felül.
+a) a 100. § (2) bekezdésében meghatározott esetekben, vagy
 
-(3) A bírósági felülvizsgálatra csak akkor kerülhet sor, ha a hatósági eljárásban a fellebbezésre jogosultak valamelyike a fellebbezési jogát kimerítette, vagy a fellebbezés törvény rendelkezései szerint kizárt.
+b) ha a hatósági eljárásban a fellebbezésre jogosultak valamelyike a fellebbezési jogát kimerítette.
 
-(4) Bírósági felülvizsgálat kezdeményezése esetén az első fokú döntést hozó hatóság erről az ügy iratainak felterjesztésével, illetve a bíróságra történő továbbításával egyidejűleg értesíti azokat, akiknek jogát vagy jogos érdekét a felülvizsgálat érinti. Ha a kezdeményező a döntés végrehajtásának felfüggesztését is kéri, akkor erről a hatóság a végrehajtást foganatosító szervet is értesíti.
+(2) Bírósági felülvizsgálat kezdeményezése esetén az első fokú döntést hozó hatóság erről az ügy iratainak felterjesztésével, illetve a bíróságra történő továbbításával egyidejűleg értesíti azokat, akiknek jogát vagy jogos érdekét a felülvizsgálat érinti. Ha a kezdeményező a döntés végrehajtásának felfüggesztését is kéri, akkor erről a hatóság a végrehajtást foganatosító szervet is értesíti, kivéve, ha a másodfokú döntést a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánította.
+
+(3) Ha a közigazgatási ügyekben eljáró bíróság az ügy érdemében határozott, a hatóságnál ugyanabban az ügyben azonos tényállás mellett – a közigazgatási ügyekben eljáró bíróság által elrendelt új eljárás kivételével – nincs helye új eljárásnak.
+
+(4) A hatóságot a közigazgatási ügyekben eljáró bíróság határozatának rendelkező része és indokolása köti, a megismételt eljárás és a döntéshozatal során annak megfelelően jár el.

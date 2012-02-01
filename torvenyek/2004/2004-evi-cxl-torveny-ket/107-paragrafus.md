@@ -2,4 +2,4 @@
 
 (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, a Kormány általános hatáskörű területi államigazgatási szerve jogosult a fellebbezés elbírálására, ha első fokon az (1) bekezdés hatálya alá nem tartozó hatósági ügyekben a polgármester vagy a 12. § (3) bekezdés d) pontjában meghatározott hatóság járt el.
 
-(3) A köztestület hatáskörébe utalt ügyben a fellebbezést törvényben meghatározott köztestületi szerv bírálja el, ilyen szerv hiányában az első fokú döntést hozó köztestület döntésével szemben a 109. §-ban foglaltaknak megfelelően bírósági felülvizsgálatnak van helye.
+(3) A köztestület hatáskörébe utalt ügyben a fellebbezést törvényben meghatározott köztestületi szerv bírálja el, ilyen szerv hiányában az első fokú döntést hozó köztestület döntésével szemben bírósági felülvizsgálatnak van helye.

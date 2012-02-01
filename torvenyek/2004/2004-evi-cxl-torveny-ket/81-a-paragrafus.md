@@ -1,6 +1,6 @@
 ## A döntés kijavítása és kiegészítése
 
-81/A. § (1) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a hatóság a hibát – szükség esetén az ügyfél meghallgatása után – kérelemre vagy hivatalból kijavítja, ha az nem hat ki az ügy érdemére, az eljárási költség mértékére vagy a költségviselési kötelezettségre.
+81/A. § (1) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a hatóság a hibát – szükség esetén az ügyfél meghallgatása után – kijavítja, ha az nem hat ki az ügy érdemére, az eljárási költség mértékére vagy a költségviselési kötelezettségre.
 
 (2) A kijavítást a hatóság
 

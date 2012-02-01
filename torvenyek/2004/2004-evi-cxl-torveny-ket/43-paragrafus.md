@@ -10,7 +10,9 @@
 
 (5) Ha a kizárási ok a hatáskör gyakorlójával vagy a hatósággal szemben merül fel, az ügyben – jogszabály eltérő rendelkezése hiányában – a felügyeleti szerv vezetője által kijelölt másik azonos hatáskörű hatóság jár el.
 
-(6) Ha nincs kijelölhető másik, azonos hatáskörű hatóság, az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn, azzal, hogy határozatát és önálló jogorvoslattal megtámadható végzését a felügyeleti szerv vezetőjével is közli.
+(6) Ha nincs kijelölhető másik, azonos hatáskörű hatóság, az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn. Ebben az esetben a hatóság az ügyfelet haladéktalanul, de legkésőbb a kizárási ok felmerülésétől számított nyolc napon belül értesíti a kizárás fennállásáról, és tájékoztatja az irányadó eljárási rendről.
+
+(6a) A (6) bekezdés szerinti esetben a hatóság határozatát és önálló jogorvoslattal megtámadható végzését a felügyeleti szerv vezetőjével is közli.
 
 (7) A hatósági ügyben eljáró testület tagjával és vezetőjével, továbbá az eljáró hatóság kiadmányozási jogkörrel rendelkező vezetőjével szemben megfelelően alkalmazni kell a kizárás szabályait azzal, hogy ha a hatóságnál nincs másik kiadmányozási jogkörrel rendelkező vagy azzal felruházható személy, a hatáskör gyakorlója jár el.
 

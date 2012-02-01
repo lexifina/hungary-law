@@ -2,4 +2,4 @@
 
 (2)
 
-(3) Az eljárások egyesítése esetén a hatóság az egyes eljárásokra irányadó legkorábban lejáró ügyintézési határidőn belül jár el.
+(3) Az eljárások egyesítése esetén a hatóság a legkorábban indult ügy ügyintézési határidején belül jár el.

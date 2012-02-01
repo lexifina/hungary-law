@@ -14,4 +14,4 @@
 
 (7) A határidőt kétség esetén megtartottnak kell tekinteni.
 
-(8) Törvény vagy kormányrendelet eltérő rendelkezése hiányában az üzemzavar időtartamát a határidők számítása szempontjából figyelmen kívül kell hagyni.
+(8) Jogszabály eltérő rendelkezése hiányában az üzemzavar időtartamát a határidők számítása szempontjából figyelmen kívül kell hagyni.

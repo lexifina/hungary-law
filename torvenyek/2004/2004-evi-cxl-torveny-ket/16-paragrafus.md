@@ -2,7 +2,7 @@
 
 16. § (1) Ha jogszabály másként nem rendelkezik, vagy ha a hatósági ügy személyes jellege vagy a kötelezettség tartalma nem zárja ki, a polgári jog szerinti jogutódja lép
 
-a) hivatalból indított vagy folytatott eljárásban a kieső ügyfél vagy
+a) hivatalból indított eljárásban a kieső ügyfél vagy
 
 b) kérelemre indult eljárásban – az eljárás megindítására irányuló kérelmet benyújtó ügyfelet kivéve – a kieső ügyfél
 

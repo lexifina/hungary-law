@@ -1,6 +1,14 @@
 ## Az eljárás akadályozásának következményei
 
-61. § (1) Az e törvényben meghatározott esetekben a kötelezettség felróható módon történő megszegése esetén eljárási bírság kiszabásának van helye. Ha az ügyfél vagy az eljárás egyéb résztvevője egyébként rosszhiszeműen jár el, a hatóság eljárási bírsággal sújthatja és az okozott többletköltségek megtérítésére kötelezi.
+61. § (1) Az e törvényben meghatározott esetekben a kötelezettség felróható módon történő megszegése esetén eljárási bírság kiszabásának van helye. Ha az ügyfél vagy az eljárás egyéb résztvevője egyébként rosszhiszeműen jár el, a hatóság eljárási bírsággal sújthatja.
+
+(1a) A hatóság az ügyfelet vagy az eljárás egyéb résztvevőjét az okozott többletköltségek megfizetésére kötelezi, ha
+
+a) eljárási bírságot szab ki,
+
+b) az ügyfél vagy az eljárás egyéb résztvevője jogellenes magatartása folytán vált szükségessé valamely eljárási cselekmény megismétlése, vagy
+
+c) a többletköltség azért keletkezett, mert az ügyfél vagy az eljárás egyéb résztvevője valamely eljárási cselekményét nem a célszerűség figyelembevételével teljesítette.
 
 (2) Az eljárási bírság legkisebb összege esetenként ötezer forint, legmagasabb összege – a 141. § (1) bekezdésében foglalt eltéréssel – természetes személy esetén ötszázezer forint, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén pedig egymillió forint.
 

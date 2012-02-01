@@ -4,7 +4,7 @@
 
 ## Közös szabályok
 
-82. § (1) E törvény rendelkezéseit a hatósági bizonyítvánnyal, igazolvánnyal és nyilvántartással kapcsolatos eljárásokban az e fejezetben szabályozott eltérésekkel kell alkalmazni. A hatósági nyilvántartással kapcsolatos eljárásokban e törvényt akkor kell alkalmazni, ha törvény, kormányrendelet vagy önkormányzati hatósági ügyben önkormányzati rendelet eltérően nem rendelkezik.
+82. § (1) E törvény rendelkezéseit a hatósági bizonyítvánnyal, igazolvánnyal és nyilvántartással kapcsolatos eljárásokban az e fejezetben szabályozott eltérésekkel kell alkalmazni. A hatósági nyilvántartással kapcsolatos eljárásokban e törvényt akkor kell alkalmazni, ha jogszabály eltérően nem rendelkezik.
 
 (2) A hatóság által valamely tény, adat, jogosultság vagy állapot igazolására kiállított okiratot, mindezek más hasonló módon történő igazolását, valamint a hatósági nyilvántartásba történt bejegyzést határozatnak kell tekinteni.
 

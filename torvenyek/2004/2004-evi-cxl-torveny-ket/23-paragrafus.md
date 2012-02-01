@@ -8,7 +8,7 @@ b) több hatóság állapította meg hatáskörének és illetékességének hi�
 
 c) több illetékes hatóság előtt indult az eljárás, és a megelőzés alapján nem lehet eldönteni, hogy melyik hatóság jogosult az eljárásra,
 
-az érdekelt hatóságok kötelesek egymás között hivatalból vagy kérelemre megkísérelni a vita eldöntését.
+az érdekelt hatóságok kötelesek egymás között megkísérelni a vita eldöntését.
 
 (2) Az egyeztetést annak a hatóságnak kell kezdeményeznie, amelyiknél az eljárás később indult meg, amelyik hatáskörének és illetékességének hiányát később állapította meg, vagy amelyik hatóságnál az ügyfél az egyeztetés lefolytatása iránti kérelmét benyújtotta.
 

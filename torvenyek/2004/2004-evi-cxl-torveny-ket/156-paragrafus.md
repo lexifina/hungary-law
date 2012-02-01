@@ -1,11 +1,3 @@
-156. § (1) A kérelemre indult eljárásban az egyéb eljárási költséget – ha törvény másként nem rendelkezik – a kérelmező ügyfél előlegezi meg, illetve viseli. Több azonos érdekű ügyfél esetén az egyéb eljárási költséget az ügyfelek – eltérő megállapodásuk hiányában – egymás között egyenlő arányban előlegezik meg, illetve viselik. Az ügyfél az előleg összegét letétbe helyezi a hatóságnál.
+## Az eljárási költség viselése
 
-(2) Hivatalból indított eljárásban az egyéb eljárási költséget a hatóság előlegezi. A rendőrség igénybevételével kapcsolatos költséget az igénybevételt kérő hatóság megelőlegezi. Ha a határozat az ügyfél részére kötelezettséget állapít meg, a kötelezettség alapjául szolgáló jogszabálysértés bizonyításával összefüggésben felmerült költség viselésére az ügyfelet kell kötelezni. Ha a határozat több ügyfél részére állapít meg kötelezettséget, a hatóság köteles a költségek ügyfelek közötti megosztásáról is rendelkezni. A hatóság által megelőlegezett költséget a hatóság számlájára kell visszafizetni.
-
-(3) Ha valamely bizonyítási eszköz igénybevételét kérelemre indult eljárásban a hatóság, illetve hivatalból indított eljárásban az ügyfél indítványozza, az ezzel összefüggő költség megelőlegezése az indítványozó szervet vagy személyt terheli. Ilyen esetben a költségviselés attól függ, hogy a határozat az indítványnak megfelelő bizonyítási eszközön alapul-e. Ez a rendelkezés az irányadó a kérelemre indult eljárásban az ügyfél indítványa nyomán alkalmazott bizonyítási eszközzel kapcsolatos költség viselésére is.
-
-(4) A hatóság a jogerősen megállapított összeg letéttel fedezett részét – ha törvény eltérően nem rendelkezik – a szakértő által benyújtott számla alapján tíz napon belül kiutalja. Ha a letét nem fedezi a szakértői díjat, kérelemre indult eljárás esetén a hatóság kötelezi az ügyfelet a szakértői díj viselésére és a még szükséges összeg letétbe helyezésére.
-
-(5) Ha az ügyfélnek vagy az eljárás egyéb résztvevőjének jogellenes magatartása miatt vált szükségessé valamely eljárási cselekmény megismétlése, a hatóság az ezzel kapcsolatos többletköltség megfizetésére kötelezi a jogellenes magatartást tanúsító személyt.
-
-(6) Az ügyfél nem kötelezhető olyan eljárási költség előlegezésére és viselésére, amelyet a díj tartalmaz.
+156. § Ha a hatóság az ügyfelet vagy az eljárás egyéb résztvevőjét marasztalja el valamely eljárási cselekmény költségében, azonnal kötelezi a költségek megfizetésére. Ugyanígy járhat el a hatóság akkor is, ha valamely eljárási cselekmény költségének összege és a viselésére kötelezett személy az ügy eldöntésére tekintet nélkül megállapítható.

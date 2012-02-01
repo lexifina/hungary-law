@@ -10,9 +10,9 @@ c) a határozatot a szakhatóság megkeresése nélkül vagy a szakhatóság jog
 
 d) a közigazgatási döntés tartalmát bűncselekmény befolyásolta, feltéve hogy a bűncselekmény elkövetését jogerős ítélet megállapította vagy ilyen ítélet meghozatalát nem a bizonyítottság hiánya zárja ki,
 
-e) a döntést hozó testületi szerv nem volt határozatképes, vagy nem volt meg a döntéshez szükséges szavazati arány,
+e) a döntést hozó testületi szerv nem volt jogszabályszerűen megalakítva, nem volt határozatképes, vagy nem volt meg a döntéshez szükséges szavazati arány,
 
-f) a döntés tartalma a 111. § (2) bekezdésében foglalt rendelkezésekkel ellentétes.
+f) a döntés tartalma a 109. § (3) és (4) bekezdésében foglalt rendelkezésekkel ellentétes.
 
 (2) Törvény valamely meghatározott forma mellőzését, illetve valamely súlyos eljárási jogszabálysértést is semmisségi okká minősíthet.
 

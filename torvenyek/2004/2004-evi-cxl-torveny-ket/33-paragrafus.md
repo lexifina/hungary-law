@@ -4,7 +4,7 @@
 
 (2) Kiskorú ügyfél érdekeinek veszélyeztetettsége esetében, továbbá ha életveszéllyel vagy súlyos kárral fenyegető helyzet elhárítása indokolja, vagy ha a hatóság ideiglenes biztosítási intézkedést rendelt el, vagy ha a közbiztonság érdekében egyébként szükséges, az ügyet soron kívül kell elintézni.
 
-(3) Az ügyintézési határidőbe nem számít be:
+(3) Ha jogszabály ezt nem zárja ki, az ügyintézési határidőbe nem számít be:
 
 a) a hatásköri vagy illetékességi vita egyeztetésének, valamint az eljáró hatóság kijelölésének időtartama,
 
@@ -30,12 +30,12 @@ k) a hatósági megkeresés vagy a döntés postára adásának napjától annak
 
 (4) Ha a hatóság testületi szerv, a hatáskörébe tartozó ügyben az (1) bekezdésben meghatározott határidőn belül, vagy ha ez nem lehetséges, a határidő letelte utáni első testületi ülésen, legkésőbb azonban két hónapon belül határoz.
 
-(5) Az ügyintézési határidő a kérelemnek az eljárásra hatáskörrel és illetékességgel rendelkező hatósághoz történő megérkezését követő napon, illetve az eljárás hivatalból történő megindításának napján kezdődik. Ezt a szabályt kell alkalmazni azokban az esetekben is, amikor a magyar hatóság eljárásának megindításához szükséges kérelmet nem magyar hatóságnál lehet benyújtani.
+(5) Az ügyintézési határidő a kérelemnek az eljárásra hatáskörrel és illetékességgel rendelkező hatósághoz történő megérkezését követő napon, hivatalbóli eljárás esetén az első eljárási cselekmény elvégzésének napján kezdődik. Ezt a szabályt kell alkalmazni azokban az esetekben is, amikor a magyar hatóság eljárásának megindításához szükséges kérelmet nem magyar hatóságnál lehet benyújtani.
 
 (6) A fellebbezés elbírálására jogosult hatóság és a felügyeleti szerv eljárása esetén, valamint a megismételt eljárásban az ügyintézési határidő az ügy összes iratának az eljárásra jogosult hatósághoz érkezését követő napon kezdődik. A hatóság a felügyeleti szerv erre irányuló felhívására köteles az iratokat felterjeszteni.
 
-(7) Az eljáró hatóság vezetője – ha azt törvény vagy kormányrendelet nem zárja ki – az ügyintézési határidőt annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc, a (2) bekezdésben meghatározott esetekben legfeljebb tizenöt nappal meghosszabbíthatja.
+(7) Az eljáró hatóság vezetője – ha azt jogszabály nem zárja ki – az ügyintézési határidőt annak letelte előtt kivételesen indokolt esetben egy alkalommal, legfeljebb harminc, a (2) bekezdésben meghatározott esetekben legfeljebb tizenöt nappal meghosszabbíthatja. A végzésben a határidő-hosszabbítás indokait kifejezetten meg kell jelölni.
 
-(8) A szakhatóság eljárására irányadó ügyintézési határidő – ha törvény vagy kormányrendelet másként nem rendelkezik – tizenöt nap. Indokolt esetben a szakhatóság vezetője a szakhatósági eljárásra irányadó határidőt egy alkalommal tizenöt nappal meghosszabbíthatja, és erről az ügyfelet és a megkereső hatóságot értesíti.
+(8) A szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap. Indokolt esetben a szakhatóság vezetője a szakhatósági eljárásra irányadó határidőt egy alkalommal tizenöt nappal meghosszabbíthatja, és erről az ügyfelet és a megkereső hatóságot értesíti.
 
 (9) A (7) és (8) bekezdésben meghatározott határidőnél rövidebb határidőt bármely jogszabály, hosszabbat pedig törvény vagy kormányrendelet állapíthat meg.

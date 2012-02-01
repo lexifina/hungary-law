@@ -4,6 +4,6 @@
 
 (3) Egy okiratba foglalható a határozat és a végzés, illetve több határozat vagy végzés. Az egy okiratba foglalt döntések rendelkező részét és indokolását döntésenként önállóan kell megszövegezni. Az egybefoglalás az egyes döntések meghozatalára vonatkozó határidőket és a jogorvoslati szabályok alkalmazását nem érinti. Ha a jogorvoslatra jogosult az egybefoglalt határozat és végzés ellen jogorvoslattal él, a határozat elleni jogorvoslat szabályait kell alkalmazni.
 
-(4) A jegyzőkönyvbe foglalt vagy az ügyiratra feljegyzett döntésben nem kell feltüntetni a 72. § (1) bekezdése a) és f) pontjában foglalt adatokat, ha azok az iratból kitűnnek.
+(4) A jegyzőkönyvbe foglalt vagy az ügyiratra feljegyzett döntésben a 72. § (1) bekezdés b) és c) pontjában, d) pont da), dc)–dg) alpontjában és g) pontjában foglalt adatokat, ezeken kívül azokat a 72. § (1) bekezdés szerinti adatokat kell szerepeltetni, amelyek az iratból nem tűnnek ki.
 
 (5) Jogszabály elrendelheti, hogy a hatóság a döntését az erre a célra rendszeresített formátumban, a jogszabályban meghatározott adattartalommal adja ki.

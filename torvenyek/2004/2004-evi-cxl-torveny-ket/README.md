@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-140-00-00
 | 2011-03-09 | 2011. évi XIV. törvény | 2004-140-00-00.22 |
 | 2011-08-03 | 2011. évi CXII. törvény | 2004-140-00-00.23 |
 | 2012-01-01 | 2011. évi CLXXIV. törvény | 2004-140-00-00.24 |
+| 2012-02-01 | 2011. évi CLXXIV. törvény | 2004-140-00-00.25 |

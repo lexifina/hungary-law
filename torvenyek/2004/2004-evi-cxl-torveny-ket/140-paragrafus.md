@@ -1,15 +1,27 @@
-## Meghatározott cselekmény végrehajtása
+## A végrehajtás felfüggesztése
 
-140. § (1) Ha a végrehajtás meghatározott cselekmény elvégzésére vagy meghatározott magatartásra (a továbbiakban együtt: meghatározott cselekmény) irányul, a teljesítés elmaradása esetén a végrehajtást foganatosító szerv
+140. § (1) A végrehajtást megindító hatóság, a fellebbezés elbírálására jogosult hatóság, a felügyeleti szerv vagy a bíróság függesztheti fel a végrehajtást. A végrehajtási eljárásban az eljárás felfüggesztésére vonatkozó rendelkezéseket a (2)–(6) bekezdésekben foglalt eltérésekkel kell alkalmazni.
 
-a) a meghatározott cselekményt a kötelezett költségére és veszélyére elvégeztetheti,
+(2) A végrehajtást fel kell függeszteni, ha
 
-b) feljogosíthatja a jogosultat, hogy a meghatározott cselekményt a kötelezett költségére és veszélyére elvégezze vagy mással elvégeztesse,
+a) a végrehajtás alá vont vagyontárggyal kapcsolatos igényper van folyamatban, vagy a vagyontárgyat a bírósági végrehajtó más követelés végrehajtása érdekében korábban lefoglalta, feltéve, hogy más lefoglalható vagyontárgy nincs,
 
-c) a jogosult kérelmére a kötelezettet a szolgáltatás pénzegyenértékének megfizetésére kötelezheti,
+b) a kézbesítési vélelem megdöntésére irányuló kérelmet terjesztettek elő, és a kérelemben előadott tények és körülmények a kérelem elfogadását valószínűsítik,
 
-d) ha a teljesítés elmaradása a kötelezettnek felróható, a kötelezettel szemben vagyoni helyzete és jövedelmi viszonyai vizsgálata nélkül eljárási bírságot szabhat ki.
+c) a kötelezett meghalt vagy megszűnt, a jogutódlás tárgyában hozott végzés jogerőre emelkedéséig,
 
-e) a rendőrség közreműködésével kényszerítheti ki a meghatározott cselekményt.
+d) azt az ügyész a végrehajtható döntés elleni ügyészi felhívásban indítványozza,
 
-(2)
+e) a végrehajtás folytatása életveszéllyel vagy helyrehozhatatlan kárral járna, vagy az közegészségügyi vagy közbiztonsági okból szükséges,
+
+f) a kötelezett fizetési kedvezmény iránt kérelmet terjeszt elő, kivéve, ha az ügyfél korábbi, ilyen tárgyú kérelmét jogerősen már elbírálta, vagy a fizetési kedvezmény engedélyezését jogszabály kizárja, valamint
+
+g) azt jogszabály elrendeli.
+
+(3) A végrehajtást megindító hatóság a kötelezett kérelmére kivételesen akkor függesztheti fel a végrehajtást, ha a kötelezett a felfüggesztésre okot adó, méltányolható körülményt igazolta, és a kötelezettet a végrehajtási eljárás során korábban nem sújtották eljárási bírsággal.
+
+(4) A felfüggesztés alatt a végrehajtható döntésben foglaltak végrehajtása szünetel, a felfüggesztésig foganatosított végrehajtási cselekmények azonban hatályosak maradnak.
+
+(5) A végrehajtást foganatosító szerv a tudomására jutott felfüggesztési okokról és a felfüggesztés megszüntetésének lehetőségéről a végrehajtást megindító hatóságot értesíti.
+
+(6) A végrehajtást megindító hatóság dönt a végrehajtás folytatásáról, ha a felfüggesztésre okot adó körülmény megszűnt.

@@ -4,7 +4,7 @@
 
 a) megteszi a szükséges intézkedést a jogszabálysértő mulasztás felszámolására,
 
-b) gyakorolja – ha törvény másként nem rendelkezik – a (2) bekezdésben szabályozott felügyeleti jogkört.
+b) gyakorolja – ha törvény vagy kormányrendelet másként nem rendelkezik – a (2) bekezdésben szabályozott felügyeleti jogkört.
 
 (2) Ha a hatóság döntése jogszabályt sért, a felügyeleti szerv azt megváltoztatja vagy megsemmisíti. Szükség esetén a felügyeleti szerv a jogszabálysértő döntést végzésben megsemmisíti, és új eljárásra utasítja az ügyben eljárt hatóságot. A döntést közölni kell azzal, akivel a jogszabálysértő döntést közölték.
 

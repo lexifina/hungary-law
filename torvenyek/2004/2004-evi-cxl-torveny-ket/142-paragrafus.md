@@ -1,3 +1,9 @@
-142. § (1) A végrehajtás módjáról a végrehajtást foganatosító szerv – szükség esetén a jogosult, illetve a kötelezett meghallgatása után – dönt. A végrehajtást foganatosító szervnek azt az intézkedést kell megtennie, amely – az eset összes körülményét mérlegelve – a leghatékonyabban biztosítja a kötelezettség teljesítését.
+## A végrehajtáshoz való jog elévülése
 
-(2) A végrehajtást foganatosító szerv a fizetési kedvezmény szabályainak megfelelő alkalmazásával a kötelezettnek részletekben történő teljesítést engedélyezhet vagy halasztást engedélyezhet a teljesítésre.
+142. § (1) A végrehajtáshoz való jog a kötelezettséget megállapító döntés jogerőre emelkedésétől, vagy ha a döntés teljesítési határidőt vagy határnapot állapított meg, annak utolsó napjától, illetve a határnapot követő naptól számított öt év elteltével évül el. Jogszabály ennél rövidebb elévülési határidőt is megállapíthat.
+
+(2) Nyugszik az elévülés a végrehajtás felfüggesztése, a végrehajtási eljárásban engedélyezett fizetési kedvezmény, továbbá a pénzfizetési kötelezettség folyamatos végrehajtásának időtartama alatt.
+
+(3) A végrehajtás elévülését bármely végrehajtási cselekmény megszakítja. Az elévülés megszakadásával az elévülési idő újra kezdődik. Az (1) bekezdésben meghatározott időponttól számított tíz év elteltével azonban a határozat nem hajtható végre.
+
+(4) Ha a határozat elévülés miatt nem hajtható végre, a behajthatatlan pénztartozást törölni kell.

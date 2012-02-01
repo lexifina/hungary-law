@@ -1,8 +1,8 @@
 ## A tényállás tisztázása
 
-50. § (1) A hatóság köteles a döntéshozatalhoz szükséges tényállást tisztázni. Ha ehhez nem elegendőek a rendelkezésre álló adatok, hivatalból vagy kérelemre bizonyítási eljárást folytat le.
+50. § (1) A hatóság köteles a döntéshozatalhoz szükséges tényállást tisztázni. Ha ehhez nem elegendőek a rendelkezésre álló adatok, bizonyítási eljárást folytat le.
 
-(2) Törvény vagy kormányrendelet együttműködésre kötelezheti az azonos hatáskörű, a hatásterületen illetékességgel rendelkező hatóságokat a tényállás tisztázása érdekében.
+(2) Törvény vagy kormányrendelet a tényállás tisztázása és az ügyfél jogának, jogos érdekének védelme és előmozdítása érdekében az eljárás és a hatósági ellenőrzés során együttműködési kötelezettséget írhat elő a feladat- és hatáskörükben érintett hatóságok részére. Az együttműködés formája lehet különösen a hatóságok közötti egyeztetés, valamint az ellenőrzési tevékenység összehangolása. A hatóság eljárási kötelezettségét nem érinti, ha a törvény vagy kormányrendelet alapján együttműködésre kötelezett másik hatóság e kötelezettségét elmulasztja, a hatóság azonban köteles a mulasztó hatóság felügyeleti szervét, ennek hiányában vezetőjét a mulasztásról tájékoztatni.
 
 (3) A hatóság által hivatalosan ismert és a köztudomású tényeket nem kell bizonyítani.
 

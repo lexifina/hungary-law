@@ -6,7 +6,7 @@ b) közérdekű keresetindítással meg lehet támadni,
 
 c) olyan ügyben hozott, amelyben jogszabály alapján a hatásterületen lévő ingatlan tulajdonosa és az ingatlan-nyilvántartásba bejegyzett használati jogosultja ügyfélnek minősült,
 
-d) amelyben több mint ötven ügyfél vagy ötnél több, a 15. § (5) bekezdése alapján ügyfélnek minősülő szervezet vesz részt,
+d) amelyben több mint ötven ügyfél vagy ötnél több, a 15. § (5) bekezdésében meghatározott szervezet vesz részt,
 
 e) korlátozottan rendelkezésre álló természeti erőforrás elosztásáról, illetve felhasználásáról hozott,
 

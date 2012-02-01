@@ -1,5 +1,25 @@
-141. § (1) Ha a meghatározott cselekmény elvégzéséhez szükséges költségek egy százaléka az eljárási bírság felső határánál nagyobb összeg, a végrehajtási eljárásban kiszabható eljárási bírság felső határa a teljesítési költség egy százalékáig terjedhet.
+## A végrehajtás megszüntetése
 
-(2) Az eljárási bírság ismételten kiszabható, ha a kötelezett a meghatározott cselekményt a bírságot kiszabó végzésben megállapított végrehajtási határidő alatt nem teljesítette, továbbá ha a meghatározott magatartásra vonatkozó rendelkezést ismételten megszegi.
+141. § (1) A végrehajtást megindító hatóság a végrehajtást megszünteti, ha
 
-(3)
+a) a végrehajtható döntést visszavonták, megsemmisítették vagy hatályon kívül helyezték,
+
+b) jogutód hiányában a végrehajtás nem folytatható,
+
+c) a végrehajtáshoz való jog elévült,
+
+d) a jogosult a végrehajtás megszüntetését kéri,
+
+e) a további végrehajtási eljárási cselekményektől eredmény nem várható,
+
+f) a végrehajtást foganatosító szerv a pénzkövetelést a pénzforgalmi szolgáltatóra vagy a munkáltatóra vonatkozó felelősségi szabály alapján vagy a kötelezett tartozásaiért jogszabály alapján helytállásra kötelezettel szemben érvényesítette,
+
+g) a hatóság a jogutódlásra tekintettel a teljesítési határidőt a végrehajtás megindítását követően meghosszabbította,
+
+h) a végrehajtást foganatosító szerv a kötelezettel szemben felszámolási eljárást kezdeményezett, illetve a kötelezett ellen felszámolási eljárás indult, vagy
+
+i) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
+
+(2) A végrehajtást foganatosító szerv a tudomására jutott megszüntetési okokról és a végrehajtás befejezéséről a végrehajtást megindító hatóságot értesíti.
+
+(3) A végrehajtást megszüntető végzést haladéktalanul közölni kell a jogosulttal és a kötelezettel, továbbá meg kell küldeni a végrehajtást foganatosító szervnek.

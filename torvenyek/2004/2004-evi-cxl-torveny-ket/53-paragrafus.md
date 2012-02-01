@@ -16,7 +16,13 @@ a) a tanú az ügyfelek valamelyikének hozzátartozója, vagy
 
 b) a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
 
-(5) Nem használható fel bizonyítékként a (3) bekezdésben foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
+(4a) Cselekvőképtelen személyt csak akkor lehet tanúként meghallgatni, ha a vallomásától várható bizonyíték mással nem pótolható. Meghallgatása esetén a hamis tanúzás következményeire való figyelmeztetést a hatóság mellőzi. A meghallgatást csak a tanú törvényes képviselőjének jelenlétében lehet lefolytatni.
+
+(4b) Aki korlátozottan cselekvőképes, vagy szellemi, valamint egyéb állapota miatt korlátozottan képes megítélni a tanúvallomás megtagadásának jelentőségét, tanúként csak akkor hallgatható meg, ha vallomást kíván tenni, és a törvényes képviselője ehhez hozzájárul. Meghallgatásánál a tanú törvényes képviselője jelen van.
+
+(4c) Ha a tanú és a törvényes képviselő között érdekellentét van, a (4a) és a (4b) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja.
+
+(5) Nem használható fel bizonyítékként a (3), valamint a (4a)–(4c) bekezdésben, továbbá az 54. § (5)–(6) bekezdésében foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
 
 (6) Törvényben meghatározott esetek kivételével a diplomáciai mentességben részesülő személy nem köteles tanúvallomást tenni.
 

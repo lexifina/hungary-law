@@ -8,10 +8,12 @@
 
 (4) Az ügyfél jogai megilletik az ügy elbírálásában hatóságként vagy szakhatóságként részt nem vevő szervet is, amelynek feladatkörét az ügy érinti.
 
-(5) Meghatározott ügyekben törvény az ügyfél jogaival ruházhatja fel az érdekvédelmi szervezeteket és azokat a társadalmi szervezeteket, amelyeknek a nyilvántartásba vett tevékenysége valamely alapvető jog védelmére vagy valamilyen közérdek érvényre juttatására irányul.
+(5) Meghatározott ügyekben jogszabály ügyféli jogosultságokat, illetve ügyféli jogállást biztosíthat azoknak a civil szervezeteknek, amelyeknek a nyilvántartásba vett tevékenysége valamely alapvető jog védelmére vagy valamilyen közérdek érvényre juttatására irányul.
+
+(5a) A hatósági eljárásban azokat a civil szervezeteket, amelyeknek a nyilvántartásba vett tevékenysége valamely alapvető jog védelmére vagy valamilyen közérdek érvényre juttatására irányul, az eljárás során megilleti a nyilatkozattételi jog. A nyilatkozat az eljáró hatóságot nem köti.
 
 (6) Az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogainak gyakorlását törvény ahhoz a feltételhez kötheti, hogy az ügyfél az első fokú eljárásban nyilatkozatot tesz vagy kérelmet nyújt be.
 
-(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha a polgári jog szabályai szerint cselekvőképességgel rendelkezik. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Az eljáró hatóság hivatalból vizsgálja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve ügygondnok kirendelését kéri.
+(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha a polgári jog szabályai szerint cselekvőképességgel rendelkezik. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Ha eziránt kétség merül fel, az eljáró hatóság hivatalból vizsgálja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve ügygondnok kirendelését kéri.
 
 (8) Az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzés ellen önálló fellebbezésnek van helye.

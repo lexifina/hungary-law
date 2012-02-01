@@ -4,6 +4,20 @@
 
 (2) Hatósági szerződés csak írásban köthető. Törvény, kormányrendelet és önkormányzati rendelet a szerződés megkötéséhez további feltételeket is meghatározhat.
 
+(2a) A hatósági szerződés tartalmazza
+
+a) a szerződő felek személyét azonosító és a szerződés teljesítéséhez szükséges adatokat,
+
+b) a szerződés tárgyát,
+
+c) a felek közötti kapcsolattartás módját,
+
+d) a felmondási okokat,
+
+e) a szerződésszegésnek minősülő magatartásokat és azok jogkövetkezményeit, valamint
+
+f) ha a szerződés tárgya ezt indokolttá teszi, a tevékenység ellenőrzésének gyakoriságát és rendjét.
+
 (3) Ha az ügyfél olyan kötelezettséget vállal, amelynek teljesítésére hatósági határozattal egyébként nem lenne kötelezhető, szerződéskötésre csak akkor kerülhet sor, ha az ügyfél a saját szerződésszegése esetére a többletkötelezettség tekintetében a hatósági szerződésben aláveti magát a szerződésszegés 77. § (2) bekezdésében megállapított jogkövetkezményének.
 
 (4) Ha a hatósági ügyben szakhatósági állásfoglalást kell beszerezni, a szerződés csak a szakhatóság hozzájárulása esetén és a szakhatósági állásfoglalásban meghatározott előírásoknak és feltételeknek a szerződésbe történő foglalásával köthető meg.

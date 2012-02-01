@@ -1,9 +1,13 @@
-155. § (1) A 153. § (2) bekezdésének 3–15. pontjában felsorolt költségek (a továbbiakban: egyéb eljárási költség) vonatkozásában
+## Az eljárási költség előlegezése
 
-a) a hatóság az eljárás során köteles költségkímélő módon és a célszerűség figyelembevételével eljárni,
+155. § (1) Kérelemre indult eljárásban az egyéb eljárási költséget – ha jogszabály másként nem rendelkezik – a kérelmező ügyfél előlegezi meg. Több azonos érdekű ügyfél esetén az ügyfelek – eltérő megállapodásuk hiányában – egyetemlegesen felelősek az egyéb eljárási költség előlegezéséért. Az ügyfél az előleg összegét letétbe helyezi a hatóságnál.
 
-b) az ügyfél, valamint az eljárás egyéb résztvevői kötelesek eljárási cselekményeiket a célszerűség figyelembevételével teljesíteni.
+(2) Hivatalból indult vagy folytatott eljárásban az egyéb eljárási költséget a 153. § 3., 6., 10. és 11. pontjában meghatározott, az ügyfél részéről felmerült költség kivételével a hatóság előlegezi.
 
-(2) Az (1) bekezdésben foglaltak megsértésével okozott költséget – az e törvényben megállapított költségviselési szabályoktól eltérően – az azt okozó hatóság, ügyfél vagy az eljárás egyéb résztvevője viseli.
+(3) Az előlegezésről a hatóság a költségek felmerülésekor dönt, ha azonban már előre valószínűnek mutatkozik, hogy a felmerülő költségek jelentősebb összeget érnek el, vagy más körülmények ezt indokolttá teszik, a hatóság azt is elrendelheti, hogy az ügyfél a költségek fedezésére előreláthatóan szükséges összeget a hatóságnál előzetesen helyezze letétbe.
 
-(3) Az egyéb eljárási költség összegét általában az érintett által bemutatott bizonyíték alapján kell megállapítani.
+(4) Az ügyfél nem kötelezhető olyan eljárási költség előlegezésére, amelyet a díj tartalmaz.
+
+(5) A bizonyítási eljárással járó költségeket a bizonyítást indítványozó fél előlegezi.
+
+(6) A rendőrség igénybevételével kapcsolatos költséget az igénybevételt kérő hatóság előlegezi.

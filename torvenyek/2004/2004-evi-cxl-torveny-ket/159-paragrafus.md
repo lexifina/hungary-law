@@ -10,6 +10,8 @@
 
 (5) A költségmentességet engedélyező, a költségmentesség módosításáról és visszavonásáról szóló végzést a hatóság közli az eljárásban részt vevő azon hatóságokkal, amelyek eljárása illeték- vagy díjfizetési kötelezettség alá esik.
 
-(6) Törvény költségmentességet gazdálkodó szervezet, jogi személy és jogi személyiséggel nem rendelkező szervezet részére is megállapíthat.
+(6) Az illeték vagy díj tekintetében nem részesíthető költségmentességben az egyetemleges fizetési kötelezettség alapján fizetésre kötelezett ügyfél, kivéve, ha egyébként költségmentességben részesült.
 
-(7) Az illeték vagy díj tekintetében nem részesíthető költségmentességben az egyetemleges fizetési kötelezettség alapján fizetésre kötelezett ügyfél, kivéve, ha egyébként költségmentességben részesült.
+(7) Törvény költségmentességet jogi személy és jogi személyiséggel nem rendelkező szervezet részére is megállapíthat.
+
+(8) Törvény vagy kormányrendelet meghatározhat olyan ügyet, amelyben az ügyfelet költségmentesség illeti meg. Ilyen esetben – törvény vagy kormányrendelet eltérő rendelkezése hiányában – az egyéb eljárási költségeket az állam előlegezi és viseli.

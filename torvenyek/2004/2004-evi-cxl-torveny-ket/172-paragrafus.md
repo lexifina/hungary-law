@@ -10,7 +10,7 @@ c) az eljárás egyéb résztvevői: a tanú, a hatósági tanú, a szakértő, 
 
 d) életveszéllyel vagy súlyos kárral fenyegető helyzet: egy vagy több embert az élet elvesztésével, illetve a testi épség vagy az egészség súlyos károsításával, továbbá a természeti vagy az épített környezet, valamint az anyagi javak jelentős vagy helyrehozhatatlan károsodásával közvetlenül fenyegető rendkívüli helyzet, állapot vagy esemény, amelynek megelőzése vagy káros hatásainak elhárítása hatósági intézkedést igényel;
 
-e) hatásterület: az a Magyarország területén fekvő, jogszabályban meghatározott módon megállapított földrajzi terület, amelyre a tervezett létesítmény vagy tevékenység számottevő mértékű hatást gyakorol;
+e)
 
 f) hivatás gyakorlásához kötött titok: különösen az orvosi, ügyvédi, közjegyzői, lelkészi-egyházi személyi hivatás gyakorlásához kötött titok;
 

@@ -1,0 +1,5 @@
+91. § (1) A hatóság ellenőrzési tervet készít, amely tartalmazza legalább az előre ütemezett ellenőrzések tárgyát, az ellenőrzési időszakot, az ellenőrzések ütemezését, eszközét, valamint a hatóság vezetője által meghatározott egyéb adatokat. Az ellenőrzési tervben nem kell megjeleníteni a folyamatos ellenőrzési feladatot.
+
+(2) A hatóság az ellenőrzési tervben foglaltak, valamint az ellenőrzési tervben nem szereplő, de az ellenőrzési időszakban lefolytatott hatósági ellenőrzések végrehajtásáról, a levont következtetésekről a következő ellenőrzési időszak lezárása előtt ellenőrzési jelentést készít, amely tartalmazza legalább az ellenőrzések számát, az ellenőrzések eredményét, a megállapított jogsértések típusait, továbbá a hatóság vezetője által meghatározott egyéb statisztikai adatokat.
+
+(3) Az ellenőrzési tervet és jelentést a hatóság a honlapján és ügyfélfogadásra nyitva álló helyiségében közzéteszi. Az ellenőrzési tervet úgy, illetve azon részeit kell közzétenni, hogy az ne veszélyeztesse az ellenőrzések célját.
