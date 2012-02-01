@@ -1,0 +1,1 @@
+## 3. § A kérelmező vagy képviselője a 2. § (1) bekezdése szerinti kérelmet elektronikus úton a Kormány által biztosított azonosítási szolgáltatás igénybevételével történő bejelentkezést követően nyújthatja be.

@@ -1,0 +1,1 @@
+A Kormány a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 34. § h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
