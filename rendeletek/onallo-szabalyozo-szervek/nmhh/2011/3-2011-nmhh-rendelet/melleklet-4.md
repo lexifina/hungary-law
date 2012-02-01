@@ -14,17 +14,11 @@
 
 ## Az adatátviteli nemzetközi szám felépítése:
 
-## DCC + NN
+|  |  | DCC + NN |
 
-## ahol: DCC (Data Country Code) adatátviteli országhívó szám, amelynek hossza három számjegy, egy
+| ahol: | DCC | (Data Country Code) adatátviteli országhívó szám, amelynek hossza három számjegy, egy országot határoz meg az adathálózati számozási tervben. A DCC-ben alkalmazható számjegyeket az ITU-T X.121 Ajánlás adja meg. Az adatátviteli országhívó számot az ITU jelöli ki. Magyarország adatátviteli országhívó száma: 216. |
 
-## országot határoz meg az adathálózati számozási tervben. A DCC-ben alkalmazható
-
-## számjegyeket az ITU-T X.121 Ajánlás adja meg. Az adatátviteli országhívó számot az ITU jelöli ki.
-
-## Magyarország adatátviteli országhívó száma: 216.
-
-## NN (National Number) adatátviteli belföldi szám, amely legfeljebb tizenegy számjegyből áll.
+|  | NN | (National Number) adatátviteli belföldi szám, amely legfeljebb tizenegy számjegyből áll. |
 
 ## 2. Adathálózati azonosító kód
 
@@ -36,13 +30,11 @@
 
 ## Az adathálózati azonosító kód felépítése:
 
-## DNIC = DCC + ND
+|  |  | DNIC = DCC + ND |
 
-## ahol: DNIC (Data Network Identification Code) adathálózati azonosító kód
+| ahol: | DNIC | (Data Network Identification Code) adathálózati azonosító kód |
 
-## ND (Network Digit) adatátviteli hálózatkijelölő szám, amely az országon belül egy
-
-## adathálózatot határoz meg, és amely egyetlen számjegyből áll.
+|  | ND | (Network Digit) adatátviteli hálózatkijelölő szám, amely az országon belül egy adathálózatot határoz meg, és amely egyetlen számjegyből áll. |
 
 ## Az adathálózati azonosító kód maximális hossza négy számjegy lehet.
 
@@ -56,15 +48,11 @@
 
 ## Az adatátviteli belföldi szám, NN (National Number) felépítése:
 
-## NN = ND + NTN
+|  |  | NN = ND + NTN |
 
-## ahol: NTN (Network Terminal Number) adatátviteli előfizetői szám, amely legfeljebb tíz számjegyből
+| ahol: | NTN | (Network Terminal Number) adatátviteli előfizetői szám, amely legfeljebb tíz számjegyből áll, és az adott hálózatban lévő előfizetők (adat-végberendezések, illetőleg adatáramköri végberendezések) azonosítására szolgál. |
 
-## áll, és az adott hálózatban lévő előfizetők (adat-végberendezések, illetőleg adatáramköri
-
-## végberendezések) azonosítására szolgál.
-
-4. melléklet a 3/2011. (IX. 26.) NMHH rendelethez
+4. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^13]
 
 Jelzéspont kódok felosztási terve
 
@@ -88,19 +76,11 @@ A nemzetközi jelzéspont kód a nemzetközi jelzéshálózat jelzéspontjainak 
 
 A nemzetközi jelzéspont kód (ISPC, International Signalling Point Code) szerkezete:
 
-ISPC (14 bit) = SANC (3+8 bit) + SPI (3 bit)
+|  |  | ISPC (14 bit) = SANC (3+8 bit) + SPI (3 bit) |
 
-ahol: SANC (Signalling Area/Network Code) jelzéspont tartomány/hálózat kód, melynek első, 3 bites
+| ahol: | SANC | (Signalling Area/Network Code) jelzéspont tartomány/hálózat kód, melynek első, 3 bites része földrajzi zónát, a második, 8 bites része területet/országot határoz meg. A kódot az ITU jelöli ki. A rendelet hatálybalépésének időpontjáig Magyarország részére kijelölt jelzéspont tartomány/hálózat kódok: 2+032, 2+212, 4+243 és 6+251. |
 
-része földrajzi zónát, a második, 8 bites része területet/országot határoz meg.
-
-A kódot az ITU jelöli ki.
-
-A rendelet hatálybalépésének időpontjáig Magyarország részére kijelölt jelzéspont
-
-tartomány/hálózat kódok: 2+032, 2+212, 4+243 és 6+251.
-
-SPI (Signalling Point Identification) jelzéspont azonosító.
+|  | SPI | (Signalling Point Identification) jelzéspont azonosító. |
 
 2. Nemzeti összekötő jelzéshálózati jelzéspont kód
 
@@ -116,13 +96,9 @@ Magyarországon egyetlen NISN van.
 
 A nemzeti összekötő jelzéshálózati jelzéspont kód, a NISPC (National Interconnecting Signalling Point Code) szerkezete:
 
-NISPC (14 bit) = NIAA (5 bit) + NIBB (4 bit) + NICC (5 bit)
+|  |  | NISPC (14 bit) = NIAA (5 bit) + NIBB (4 bit) + NICC (5 bit) |
 
-ahol: NIAA + a nemzeti jelzéshálózatot kijelölő kód,
-
-NIBB
-
-NICC a kapu jelzéspont kijelölő szám egy nemzeti jelzéshálózaton belül.
+| ahol: | NIAA + NIBB NICC | a nemzeti jelzéshálózatot kijelölő kód, a kapu jelzéspont kijelölő szám egy nemzeti jelzéshálózaton belül. |
 
 3. Nemzeti jelzéshálózati jelzéspont kód
 
@@ -138,4 +114,6 @@ Magyarországon több, egymástól független nemzeti jelzéshálózat van.
 
 A nemzeti jelzéshálózati jelzéspont kód, az NSPC (National Signalling Point Code) szerkezete:
 
-NSPC (14 bit) = tetszőleges
+| NSPC (14 bit) = tetszőleges. |
+
+[^13]: A 4. melléklet az 1/2012. (I. 3.) NMHH rendelet 8. § (5) bekezdésével megállapított szöveg.

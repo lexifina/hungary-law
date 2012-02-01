@@ -1,6 +1,6 @@
 3. § (1) Az 1. § d) pontjában meghatározott – az Eht. 188. §-ának 3. pontja szerint az azonosító gazdálkodás körébe eső – azonosítókat a hatóság köti le, illetőleg jelöli ki külön jogszabályban meghatározott eljárás szerint.
 
-(2) A hatóság jogosult arra, hogy amennyiben nemzetközi kötelezettségek teljesítése érdekében számcsere válik szükségessé, vagy a piaci igények új szolgáltatás- vagy hálózatkijelölő szám (SHS), vagy új rövid kód bevezetését indokolják, az érdekeltekkel történő előzetes egyeztetést követően – az azonosítókkal való gazdálkodásra vonatkozó, az Eht. 55/A. §-ának (1) és (3) bekezdéseiben foglalt elvek megsértése nélkül – ideiglenesen, legfeljebb 6 hónap időtartamra e rendelet mellékleteiben foglaltaktól eltérő azonosítókat jelöljön ki.
+(2)[^6]
 
 (3) Az azonosítók kijelölési engedély nélkül, valamint a kijelölési engedélyben meghatározottaktól eltérő módon nem használhatók.
 
@@ -11,3 +11,5 @@
 (6) Az adattovábbításra használt, számozási terv alapján irányított elektronikus hírközlő hálózatok (a továbbiakban: adathálózatok) számozási tervét e rendelet 3. melléklete tartalmazza.
 
 (7) Az elektronikus hírközlő hálózatokban alkalmazott jelzéspont kódok felosztási tervét e rendelet 4. melléklete tartalmazza.
+
+[^6]: A 3. § (2) bekezdését az 1/2012. (I. 3.) NMHH rendelet 10. §-a hatályon kívül helyezte.
