@@ -10,9 +10,9 @@
 
 ## a) sterilizálás legalább F0 3 érték mellett;
 
-## b) UHT[^1] kezelés;
+## b) UHT[^2] kezelés;
 
-## c) két alkalommal végzett HTST[^2] kezelés, amennyiben a tej kémhatása pH 7,0 vagy annál magasabb;
+## c) két alkalommal végzett HTST[^3] kezelés, amennyiben a tej kémhatása pH 7,0 vagy annál magasabb;
 
 ## d) HTST kezelés, amennyiben a tej kémhatása pH 7,0 vagy az alatti;
 
@@ -104,5 +104,5 @@ Abban az esetben, ha az állomás a forgalom teljes szüneteltetését alkalmazz
 
 2.2.4.3. a szállítóeszközöket és a látogatók lábbelijét érkezéskor és a telep elhagyását megelőzően tisztítani és fertőtleníteni kell.
 
-[^1]: UHT = ultrapasztőrözés; 132 °C-on legalább egy másodpercig végzett hőkezelés.
-[^2]: HTST = magas hőmérsékleten végzett, gyors pasztőrözés; 72 °C-on legalább 15 másodperces hőntartással végzett hőkezelés vagy ezzel egyenértékű pasztőrözési eljárás, melynek hatására a kezelt tejen végzett foszfatáz-próba negatív.
+[^2]: UHT = ultrapasztőrözés; 132 °C-on legalább egy másodpercig végzett hőkezelés.
+[^3]: HTST = magas hőmérsékleten végzett, gyors pasztőrözés; 72 °C-on legalább 15 másodperces hőntartással végzett hőkezelés vagy ezzel egyenértékű pasztőrözési eljárás, melynek hatására a kezelt tejen végzett foszfatáz-próba negatív.
