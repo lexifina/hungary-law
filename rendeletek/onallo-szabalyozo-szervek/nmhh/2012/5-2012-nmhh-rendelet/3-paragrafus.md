@@ -1,0 +1,3 @@
+3. § (1) A számmezők lekötéséért, illetve a lekötés meghosszabbításáért fizetendő egyszeri díj – ezres előfizetői számmezőnként – 22 000 Ft.
+
+(2) Az azonosítók lekötéséért fizetendő díjat a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: hatóság) a lekötési engedélyről, illetve a lekötés meghosszabbításáról szóló hatósági határozattal állapítja meg. A határozat meghozatala során e rendelet díjtételeit kell alkalmazni. A díjat a határozat jogerőre emelkedésétől számított 30 napon belül, a hatóság által kiállított számla alapján kell megfizetni. Késedelmes díjfizetés esetén a hatóság kamatot számít fel, amelynek mértéke megegyezik a jegybanki alapkamat mértékével.
