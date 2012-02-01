@@ -1,0 +1,1 @@
+## 9. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a falumegújításra és -fejlesztésre igénybe vehető támogatások részletes feltételeiről szóló 135/2008. (X. 18.) FVM rendelet 6. § (1) bekezdésében a „február 1. és február 28.” szövegrész helyébe a „szeptember 1. és szeptember 30.” szöveg lép.

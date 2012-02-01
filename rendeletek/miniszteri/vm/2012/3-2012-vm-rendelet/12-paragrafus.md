@@ -1,0 +1,3 @@
+## 11. § A cukorrépa-termelők 2011. évi nemzeti kiegészítő támogatásáról szóló 40/2011. (V. 26.) VM rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A támogatás forrása a Folyó kiadások és jövedelemtámogatások 10032000-01220191-51200002 számú, Vidékfejlesztési Minisztérium fejezeti kezelésű előirányzat-felhasználási keretszámla. E jogcím finanszírozására a 2011. és a 2012. évben összesen legfeljebb 1980 millió forint használható fel, a 2012-ben rendelkezésre álló keret pontos összegét 2012. február 15-éig a miniszter közleményben határozza meg. A keret túligénylése esetén a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) arányos visszaosztást alkalmaz.”
