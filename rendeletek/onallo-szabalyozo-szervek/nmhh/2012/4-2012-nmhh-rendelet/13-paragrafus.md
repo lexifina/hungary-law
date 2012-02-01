@@ -1,0 +1,1 @@
+## 12. § A 9. § és a 10. § (1) bekezdése alkalmazásában az azonosító kijelzésének tekintendő az is, ha az azonosító a szolgáltató felügyelete alá tartozó berendezés gépi hangbemondása által jut a felhasználó tudomására.
