@@ -10,7 +10,7 @@
 
 ## 2.1. A törzskönyvnek minden bejegyzett ebre legalább az alábbi adatokat kell tartalmaznia:
 
-## 2.1.1.[^21]
+## 2.1.1.[^29]
 
 ## 2.1.2. az eb születésének időpontját;
 
@@ -130,4 +130,4 @@ A teljesítményvizsgálati szabályzatnak tartalmaznia kell legalább a követk
 
 – az importált egyedek származási országban szerzett teljesítményeredményeinek figyelembevételi szabályait.
 
-[^21]: Az 1. számú melléklet I. részének 2.1.1. pontját az Alkotmánybíróság a 47/2008. (IV. 17.) AB határozat 1. pontjával megsemmisítette 2008. április 17. napjával.
+[^29]: Az 1. számú melléklet I. részének 2.1.1. pontját az Alkotmánybíróság a 47/2008. (IV. 17.) AB határozat 1. pontjával megsemmisítette 2008. április 17. napjával.

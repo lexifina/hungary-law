@@ -2,6 +2,6 @@
 
 (2) A törzskönyv nem selejtezhető.
 
-(3)[^13] Tenyésztési dokumentum kiadás alapjául nem szolgálhat olyan tenyésztési nyilvántartás, amelyet nem az Átv. szerint meghatározott feltételeknek megfelelően vezetnek.
+(3)[^18] Tenyésztési dokumentum kiadás alapjául nem szolgálhat olyan tenyésztési nyilvántartás, amelyet nem az Átv. szerint meghatározott feltételeknek megfelelően vezetnek.
 
-[^13]: A 8. § (3) bekezdését a 135/2004. (IX. 18.) FVM rendelet 5. §-a iktatta a szövegbe.
+[^18]: A 8. § (3) bekezdését a 135/2004. (IX. 18.) FVM rendelet 5. §-a iktatta a szövegbe.

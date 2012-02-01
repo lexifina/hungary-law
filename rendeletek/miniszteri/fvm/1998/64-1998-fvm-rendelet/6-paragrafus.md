@@ -1,4 +1,4 @@
-6. § (1) A tenyésztő szervezetként történő elismerés iránti kérelmet a minisztériumhoz kell benyújtani.
+6. § (1)[^15] A tenyésztő szervezetként történő elismerés iránti kérelmet a tenyésztési hatósághoz kell benyújtani.
 
 (2) A kérelemben meg kell jelölni
 
@@ -33,3 +33,5 @@ i) az ebek jelölésének módját;
 j) az alomellenőrzés és a származás ellenőrzés módját és dokumentálásának rendjét.
 
 (4) A kérelemhez csatolni kell az aláírással és pecséttel ellátott származási igazolás mintát, az elfogadott alapszabály hiteles másolatát, a taglétszám kimutatást és a bírósági bejegyzés hiteles másolatát.
+
+[^15]: A 6. § (1) bekezdése a 148/2011. (XII. 29.) VM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
