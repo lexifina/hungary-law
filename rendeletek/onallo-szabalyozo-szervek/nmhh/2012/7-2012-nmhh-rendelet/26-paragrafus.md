@@ -1,0 +1,1 @@
+## 25. § A rádióforgalmazás során be kell tartani a Nemzetközi Rádiószabályzat előírásait, valamint a magyar távközlési igazgatást érintő nemzetközi megállapodásban meghatározott további forgalmazási előírásokat.
