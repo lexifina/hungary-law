@@ -1,1 +1,0 @@
-5. § A polgárőr a tevékenysége során birtokába jutott személyes adatok megismerése és adatkezelése tekintetében az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint köteles eljárni.
