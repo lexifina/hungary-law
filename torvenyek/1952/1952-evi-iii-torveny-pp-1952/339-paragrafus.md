@@ -1,6 +1,6 @@
 ## Határozat
 
-339. § (1) Ha törvény ettől eltérően nem rendelkezik, a bíróság a jogszabálysértő közigazgatási határozatot hatályon kívül helyezi és – szükség esetén – a közigazgatási határozatot hozó szervet új eljárásra kötelezi.
+339. § (1) Ha törvény ettől eltérően nem rendelkezik, a bíróság – az ügy érdemére ki nem ható eljárási szabály megsértésének kivételével – a jogszabálysértő közigazgatási határozatot hatályon kívül helyezi, és szükség esetén a közigazgatási határozatot hozó szervet új eljárásra kötelezi.
 
 (2) A bíróság a közigazgatási határozatot megváltoztathatja:
 
