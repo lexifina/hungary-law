@@ -1,0 +1,3 @@
+## 2. § Az R. 3. számú melléklete az 1. melléklet szerint módosul.
+
+## 2. A távhőszolgáltatónak értékesített távhő árának, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díjának megállapításáról szóló 50/2011. (IX. 30.) NFM rendelet módosítása
