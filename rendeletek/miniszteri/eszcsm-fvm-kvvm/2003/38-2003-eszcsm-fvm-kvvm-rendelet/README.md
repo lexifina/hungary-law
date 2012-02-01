@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-38-20-0
 | 2011-07-01 | 2003-38-20-0M.17 | 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet |
 | 2011-09-01 | 2003-38-20-0M.18 | 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet |
 | 2011-10-01 | 2003-38-20-0M.19 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-02-01 | 2003-38-20-0M.20 | 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet |
