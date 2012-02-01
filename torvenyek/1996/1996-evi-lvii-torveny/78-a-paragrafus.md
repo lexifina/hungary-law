@@ -6,7 +6,7 @@ a) amely a Gazdasági Versenyhivatalnak alapot szolgáltat arra, hogy a jogsért
 
 b) amellyel a jogsértés elkövetése bizonyítható, feltéve, hogy a kérelem benyújtásának időpontjában a Gazdasági Versenyhivatal még nem rendelkezett elegendő bizonyítékkal ahhoz, hogy a jogsértést bizonyítsa, és egyetlen vállalkozás sem felel meg az a) pontnak.
 
-(3) Kérelem alapján a bírság csökkentésének van helye, ha a vállalkozással szemben a bírság kiszabása nem mellőzhető és a vállalkozás olyan, a jogsértésre vonatkozó bizonyítékot ad át a Gazdasági Versenyhivatalnak, amely jelentős többletértéket képvisel a kérelem benyújtásának időpontjában a Gazdasági Versenyhivatal rendelkezésére álló bizonyítékokhoz képest. A kérelem előterjesztésére legkésőbb az előzetes álláspont kézbesítését, illetve az iratbetekintés bármelyik ügyfélre nézve irányadó kezdő napját megelőző nap közül a korábban bekövetkező napon kerülhet sor.
+(3) Kérelem alapján a bírság csökkentésének van helye, ha a vállalkozással szemben a bírság kiszabása nem mellőzhető és a vállalkozás olyan, a jogsértésre vonatkozó bizonyítékot ad át a Gazdasági Versenyhivatalnak, amely jelentős többletértéket képvisel a kérelem benyújtásának időpontjában a Gazdasági Versenyhivatal rendelkezésére álló bizonyítékokhoz képest. A kérelem előterjesztésére legkésőbb az előzetes álláspont közlését, illetve az iratbetekintés bármelyik ügyfélre nézve irányadó kezdő napját megelőző nap közül a korábban bekövetkező napon kerülhet sor.
 
 (4) A bírság csökkentésének mértéke a (3) bekezdés szerinti feltételnek
 

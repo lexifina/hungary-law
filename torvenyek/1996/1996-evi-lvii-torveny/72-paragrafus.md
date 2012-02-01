@@ -2,11 +2,11 @@
 
 72. § (1) Az eljáró versenytanács a vizsgáló jelentésének kézhezvételét követően
 
-a) az eljárást megszünteti akkor is, ha a vizsgálat során beszerzett bizonyítékok alapján nem állapítható meg törvénysértés, és az eljárás folytatásától sem várható eredmény; az eljárást megszüntető végzéssel szemben külön jogorvoslatnak van helye (82. §);
+a)
 
 b) az iratokat a vizsgálónak visszaadhatja, ha megállapítja, hogy a tényállás tisztázásához további vizsgálatra van szükség, illetve az eljárás kiterjesztése, vagy új ügyfél eljárásba vonása indokolt;
 
-c) végzésében ideiglenes intézkedéssel megtilthatja a törvény rendelkezéseibe ütköző magatartás további folytatását, illetve elrendelheti a törvénybe ütköző állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme, valamint a gazdasági verseny kialakulásának, fenntartásának vagy fejlesztésének veszélyeztetése miatt – halaszthatatlanul szükség van.
+c) végzésében ideiglenes intézkedéssel megtilthatja a valószínűsíthetően a törvény rendelkezéseibe ütköző magatartás további folytatását, illetve elrendelheti a valószínűsíthetően a törvénybe ütköző állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelméhez, valamint a gazdasági verseny kialakulásának, fenntartásának vagy fejlesztésének veszélyeztetése miatt – halaszthatatlanul szükség van.
 
 (2) Ha az ideiglenes intézkedés elrendelését az ügyfél kérte, az eljáró versenytanács annak feltételéül biztosítékadást írhat elő. Az ideiglenes intézkedés elrendeléséről az eljáró versenytanács soron kívül határoz.
 
@@ -14,4 +14,4 @@ c) végzésében ideiglenes intézkedéssel megtilthatja a törvény rendelkezé
 
 (4) Az eljáró versenytanács a vizsgálónak a vizsgálat lefolytatásának módja, iránya tekintetében javaslatot tehet a vizsgálat lezárását megelőzően is.
 
-(5) Az (1) bekezdés a) pontja szerinti végzést a bejelentővel is közölni kell.
+(5)

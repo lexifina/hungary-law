@@ -1,3 +1,7 @@
-91. § (1) Az, akinek a jogát vagy jogos érdekét a végrehajtás elrendelése, illetve a végrehajtási bírság kiszabása sérti, a sérelemről szerzett értesüléstől számított három nap alatt végrehajtási kifogást terjeszthet elő a Versenytanács elnökénél.
+91. § (1) A végrehajtás foganatosítása során hozott törvénysértő döntés vagy intézkedés miatt végrehajtási kifogás a kifogásolt döntésről, illetve intézkedésről való tudomásszerzést vagy az akadály megszűnését követő három napon belül, de legkésőbb a döntés közlésétől, illetve az intézkedéstől számított egy hónapon belül terjeszthető elő.
 
-(2) A Versenytanács elnöke a végrehajtási kifogásról nyolc napon belül dönt. A végzéssel szemben jogorvoslatnak helye nincs.
+(2) A vizsgáló döntésével vagy intézkedésével szembeni végrehajtási kifogást, valamint a vizsgálónak a Ket. 143. § (1) bekezdése alapján megfellebbezhető végzésével szembeni fellebbezést az eljáró versenytanács nyolc napon belül bírálja el.
+
+(3) Az eljáró versenytanácsnak a végrehajtási eljárásban hozott döntésével szembeni bírósági felülvizsgálat iránti kérelemről a bíróság soron kívül határoz.
+
+(4) A végrehajtási kifogásra az e §-ban foglalt eltérésekkel megfelelően alkalmazni kell a 82. § rendelkezéseit.

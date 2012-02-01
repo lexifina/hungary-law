@@ -1,3 +1,3 @@
 ## Az eljárás felfüggesztése
 
-60. § Kérelemre indult eljárásban az eljárás felfüggesztése esetén a vizsgáló, illetve az eljáró versenytanács végzése ellen külön jogorvoslatnak (82. §) van helye.
+60. § Az eljárás felfüggesztése tárgyában hozott végzéssel szemben a 67. § (2) bekezdése szerint kérelemre indult eljárásban van helye külön jogorvoslatnak (82. §).

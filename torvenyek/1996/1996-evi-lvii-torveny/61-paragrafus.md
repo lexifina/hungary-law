@@ -4,4 +4,8 @@
 
 (2)
 
-(3) Az eljárási bírság legkisebb összege ötvenezer forint, legmagasabb összege vállalkozás esetében az előző üzleti évben elért nettó árbevételének egy százaléka, a vállalkozásnak nem minősülő természetes személy esetében ötszázezer forint. Eljárási kötelezettség teljesítésére megadott határidő túllépése esetén az eljárási bírság napi összege vállalkozás esetében legfeljebb az előző üzleti évben elért nettó árbevétel egy napra jutó összegének egy százaléka, a vállalkozásnak nem minősülő természetes személy esetében legfeljebb napi ötvenezer forint. Az eljárási bírságot kiszabó végzés ellen külön jogorvoslatnak van helye (82. §). A kérelemnek a végzés végrehajtására halasztó hatálya van. Eljárási bírságot kiszabó végzését a vizsgáló, illetve az eljáró versenytanács maga is megváltoztathatja.
+(3) Az eljárási bírság legkisebb összege ötvenezer forint, legmagasabb összege vállalkozás esetében az előző üzleti évben elért nettó árbevételének egy százaléka, vállalkozásnak nem minősülő természetes személy esetében ötszázezer forint.
+
+(4) Eljárási kötelezettség teljesítésére megadott határidő túllépése esetén az eljárási bírság napi összege vállalkozás esetében legfeljebb az előző üzleti évben elért nettó árbevétel egy napra jutó összegének egy százaléka, a vállalkozásnak nem minősülő természetes személy esetében legfeljebb napi ötvenezer forint.
+
+(5) Az eljárási bírságot kiszabó végzését a kötelezett javára a vizsgáló, illetve az eljáró versenytanács hivatalból jogszabálysértés hiányában is módosíthatja.

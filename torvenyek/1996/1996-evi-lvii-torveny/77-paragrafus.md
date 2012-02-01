@@ -18,9 +18,9 @@ g) a törvénybe ütközés megállapítása esetén kötelezettséget írhat el
 
 h) elrendelheti a jogsértő tájékoztatással kapcsolatban helyreigazító nyilatkozat közzétételét,
 
-i) megállapíthatja, hogy a magatartás nem ütközik a törvénybe,
+i) megállapíthatja, hogy a magatartás nem ütközik a törvénybe.
 
-j) korábbi határozatát visszavonhatja vagy megváltoztathatja.
+j)
 
 (2) Az összefonódást engedélyező határozatban előzetes vagy utólagos feltétel, illetve kötelezettség írható elő.
 

@@ -14,7 +14,7 @@ kell meghozni.
 
 (3) Vállalkozások összefonódásának ellenőrzése során az eljárást befejező döntést a hiánytalan kérelem, illetve a hiánypótlás beérkezését követő naptól számított
 
-a) negyvenöt napon belül kell meghozni, amennyiben
+a) negyvenöt napon belül kell meghozni a 25. § alapján benyújtott kérelem esetében, továbbá amennyiben
 
 aa) a 23. § és 25. § értelmében nem jön létre összefonódás, vagy
 
@@ -44,7 +44,7 @@ g) a versenytanács tag kizárásának elintézéséig,
 
 h) a 65/A. §-ban és a 65/B. §-ban meghatározott nemperes eljárások megindításától a bíróság határozatának meghozataláig,
 
-i) ha a 82. § (3) bekezdése szerinti jogorvoslati kérelemről való döntés hiánya a döntés meghozatalának akadályát képezi, a jogorvoslati kérelem elbírálásáig
+i) ha az eljáró versenytanács végzésének bírósági felülvizsgálata iránti kérelemről való döntés hiánya a döntés meghozatalának akadályát képezi, a bírósági felülvizsgálati eljárásban a jogerős döntés meghozataláig
 
 eltelt időt.
 

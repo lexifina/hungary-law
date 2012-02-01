@@ -1,1 +1,1 @@
-84. § Az eljáró Versenytanács határozata ellen benyújtott kereset alapján indult bírósági eljárás során – a 83. §-ban meghatározott eltérésekkel – a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezete az irányadó.
+84. § Az eljáró Versenytanács határozata ellen benyújtott kereset alapján indult bírósági eljárás során – a 83. §-ban meghatározott eltérésekkel – a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó szabályait kell alkalmazni.
