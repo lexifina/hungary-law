@@ -10,4 +10,6 @@ b) a kijelölni kért azonosítók megjelölését, használatának földrajzi k
 
 c) határozott időtartamra szóló kijelölési kérelem esetén az azonosító használat megszűnésének időpontját.
 
-(3) Pihentetett állapotú azonosítókra vonatkozó kijelölési kérelem esetén a hatóság az engedélyt abban az esetben adja meg, amennyiben a kérelmező írásban nyilatkozik annak tudomásul vételéről, hogy az azonosító pihentetett állapotából eredően a számhasználatban zavarok merülhetnek fel, ami számhasználói panaszokra adhat okot. Pihentetettnek kell tekinteni a kérelmező számára lekötött pihentetett állapotú számmezőt is a pihentetési határidőig.
+(3)[^27] Pihentetett állapotú azonosítókra vonatkozó kijelölési kérelem esetén a hatóság az engedélyt abban az esetben adja meg, amennyiben a kérelmező írásban nyilatkozik annak tudomásul vételéről, hogy az azonosító korábbi használatából eredően a számhasználatban zavarok merülhetnek fel. Pihentetettnek kell tekinteni a kérelmező számára lekötött pihentetett állapotú számmezőt is a pihentetési határidőig.
+
+[^27]: A 9. § (3) bekezdése az 1/2012. (I. 3.) NMHH rendelet 5. § (1) bekezdése szerint módosított szöveg.

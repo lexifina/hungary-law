@@ -1,5 +1,3 @@
-## terjed ki.
-
 ## 2. § E rendelet alkalmazásában:
 
 1. Azonosító: az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához, illetőleg az elektronikus hírközlő hálózatok és szolgáltatások együttműködéséhez szükséges, az információ, illetőleg a jelzés célba juttatására szolgáló, annak címzettjét egyértelműen meghatározó, betűkből, számokból, illetve jelekből álló karaktersorozat, kivéve a domain nevet, az e-mail és IP címet;
@@ -34,10 +32,23 @@ d) kijelölésre kért: a kijelölési kérelem hatósághoz történő beérkez
 
 e) kijelölt: a jogerős kijelölési engedély érvényessége alatt;
 
-f) pihentetett: a kijelölést visszavonó határozat jogerőre emelkedésétől a határozatban meghatározott időpontig, de legfeljebb 6 hónapig;
+f)[^2] számmező átadásra kért: a számmezőt átadó szolgáltató megnevezésével az átadás jogerőre emelkedésétől a végrehajtásra meghatározott számátadási időablak időpontjáig;
 
-g) zárolt: a gazdálkodás köréből kivont azonosító, melynek kijelölhetőségét a hatóság hirdetményben teszi közzé;
+g)[^3] számmező átvételre kért: a számmezőt átvevő szolgáltató megnevezésével az átadás jogerőre emelkedésétől a végrehajtásra meghatározott számátadási időablak időpontjáig;
+
+h)[^4] pihentetett: a kijelölést visszavonó határozat jogerőre emelkedésétől a határozatban meghatározott időpontig, de legfeljebb 6 hónapig;
+
+i)[^5] zárolt: a gazdálkodás köréből kivont azonosító, melynek kijelölhetőségét a hatóság hirdetményben teszi közzé;
 
 4. Kijelölési engedély jogosultja: az azonosítót használó elektronikus hírközlési szolgáltató, amely számára a hatóság a számmezőt, illetve egyedi azonosítót kijelölte.
 
-5. Számhasználó: az azonosítót használó természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező egyéb szervezet, amelyet az azonosító használatára – a számhasználó azonosítása, illetve szolgáltatás igénybevétele céljából – a kijelölési engedély jogosultja a közöttük fennálló előfizetői jogviszony alapján feljogosított.
+5.[^6] Számhasználó: az azonosítót használó természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező egyéb szervezet, amelyet az azonosító használatára a kijelölési engedély jogosultja a közöttük fennálló számhasználati jogviszony alapján feljogosított.
+
+6.[^7] Számhasználati jogviszony: A kijelölési engedély jogosultja és a számhasználó közötti számhasználati szerződés alapján, a szerződésben megjelölt azonosító használatára létrejött jogviszony, amelynek célja, hogy a számhasználó a számhasználati szerződésben meghatározott azonosítón a jelen rendelet 1. mellékletének 1.3, 2.4, 2.7 vagy 2.8 pontja szerinti szolgáltatást nyújtson.
+
+[^2]: A 2. § 3. pont f) alpontja az 1/2012. (I. 3.) NMHH rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § 3. pont g) alpontja az 1/2012. (I. 3.) NMHH rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^4]: A 2. § 3. pont h) alpontját az 1/2012. (I. 3.) NMHH rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 2. § 3. pont i) alpontját az 1/2012. (I. 3.) NMHH rendelet 1. § (1) bekezdése iktatta be.
+[^6]: A 2. § 5. pontja az 1/2012. (I. 3.) NMHH rendelet 5. § (1) bekezdése és 6. §-a szerint módosított szöveg.
+[^7]: A 2. § 6. pontját az 1/2012. (I. 3.) NMHH rendelet 1. § (2) bekezdése iktatta be.
