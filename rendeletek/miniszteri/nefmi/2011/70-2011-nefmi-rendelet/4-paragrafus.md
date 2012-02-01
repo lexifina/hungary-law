@@ -1,33 +1,29 @@
-## 3. §[^2]
+## 3. § Az R. a következő 17. §-sal egészül ki:
 
-4. § (1)[^3]
+## „17. § Az egészségügyi szolgáltatók 2012. március 1-jéig a 3/A. számú melléklet szerint is jelenthetnek.”
 
-(2)[^4]
+4. § (1) Az R. 1/A. számú melléklete helyébe az 1. melléklet lép.
 
-(3)[^5]
+(2)[^2]
 
-(4)[^6]
+(3)[^3]
 
-(5)[^7]
+(4) Az R. 3. számú melléklete a 4. melléklet szerint módosul.
 
-(6)[^8]
+(5) Az R. az 5. melléklet szerinti 3/A. számú melléklettel egészül ki.
 
-(7)[^9]
+(6)[^4]
 
-(8)[^10]
+(7) Az R. 4. számú melléklete a 7. melléklet szerint módosul.
 
-(9)[^11]
+(8)[^5]
 
-(10)[^12]
+(9) Az R. 9. számú melléklete a 9. melléklet szerint módosul.
 
-[^2]: A 3. § a 6. § (2) bekezdése alapján 2012. február 1-jén lép hatályba.
-[^3]: A 4. § (1) bekezdése a 6. § (2) bekezdése alapján 2012. február 1-jén lép hatályba.
-[^4]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 4. § (4) bekezdése a 6. § (2) bekezdése alapján 2012. február 1-jén lép hatályba.
-[^7]: A 4. § (5) bekezdése a 6. § (2) bekezdése alapján 2012. február 1-jén lép hatályba.
-[^8]: A 4. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 4. § (7) bekezdése a 6. § (2) bekezdése alapján 2012. február 1-jén lép hatályba.
-[^10]: A 4. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 4. § (9) bekezdése a 6. § (2) bekezdése alapján 2012. február 1-jén lép hatályba.
-[^12]: A 4. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(10)[^6]
+
+[^2]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
