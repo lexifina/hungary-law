@@ -10,4 +10,4 @@ c) a társadalmi és érdek-képviseleti szervezet,
 
 ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti.
 
-(2) A társadalmi és érdek-képviseleti szervezet a hatóság előtt az (1) bekezdésben meghatározott feltételek teljesülése esetén eljárást indíthat.
+(2) A hatóság haladéktalanul törli azokat a személyes és különleges adatokat, amelyek kezelése az (1) bekezdés szerinti hatásköre gyakorlásához nem elengedhetetlenül szükséges.

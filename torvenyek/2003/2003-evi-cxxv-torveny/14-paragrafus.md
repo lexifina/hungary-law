@@ -1,6 +1,6 @@
 14. § (1) Az Egyenlő Bánásmód Hatóság (a továbbiakban: hatóság)
 
-a) kérelem alapján, illetve az e törvényben meghatározott esetekben hivatalból vizsgálatot folytat annak megállapítására, hogy megsértették-e az egyenlő bánásmód követelményét, valamint kérelem alapján vizsgálatot folytat, hogy az arra kötelezett munkáltatók elfogadtak-e esélyegyenlőségi tervet, a vizsgálat alapján határozatot hoz;
+a)
 
 b) a közérdekű igényérvényesítés joga alapján pert indíthat a jogaikban sértett személyek és csoportok jogainak védelmében;
 
