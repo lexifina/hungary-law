@@ -228,19 +228,13 @@
 
 | állatgondozó | * |  |  |  |  |  |  |  |  |  |
 
-2. számú melléklet a 22/2008. (XII. 31.) SZMM rendelethez[^11]
+2. számú melléklet a 22/2008. (XII. 31.) SZMM rendelethez[^14]
 
 A vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 | Beosztás megnevezése | Vezetői pótlék mértéke (az illetményalap %-ában) |
 
 | A Regionális Képző Központoknál: |  |
-
-| szektorvezető | 150 |
-
-| osztályvezető | 150 |
-
-| irodavezető | 100 |
 
 | A Szociálpolitikai és Munkaügyi Intézetnél: |  |
 
@@ -256,4 +250,4 @@ A vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 | csoportvezető | 100 |
 
-[^11]: A 2. számú melléklet a 24/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja, a 12/2011. (III. 22.) NGM rendelet 24. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. § (2) bekezdését.
+[^14]: A 2. számú melléklet a 24/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja, a 12/2011. (III. 22.) NGM rendelet 24. § (1) bekezdése, az 1/2012. (I. 12.) KIM rendelet (2) bekezdés a) pontja szerint módosított szöveg.

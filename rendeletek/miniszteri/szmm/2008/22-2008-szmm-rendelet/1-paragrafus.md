@@ -1,10 +1,8 @@
 ## 1. § E rendelet hatálya
 
-a)–b)[^1]
+a)–b)[^2]
 
-c) a Regionális Képző Központoknál (a továbbiakban: RKK), valamint
+c)[^3]
 
-d)[^2] a Nemzeti Család- és Szociálpolitikai Intézetnél (a továbbiakban: NCSSZI)
-
-[^1]: Az 1. § a)–b) pontját a 12/2011. (III. 22.) NGM rendelet 24. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^2]: Az 1. § d) pontja a 24/2010. (XII. 30.) NEFMI rendelet 11. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § a)–b) pontját a 12/2011. (III. 22.) NGM rendelet 24. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § c) pontját az 1/2012. (I. 12.) KIM rendelet 13. § (2) bekezdés a) pontja hatályon kívül helyezte.
