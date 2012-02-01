@@ -1,13 +1,14 @@
-## 11–14. §[^3]
+## 11–14. §[^4]
 
 ## 4. A terrorizmust elhárító szerv kijelöléséről és feladatai ellátásának részletes szabályairól szóló
 
 ## 295/2010. (XII. 22.) Korm. rendelet módosítása
 
-15. § (1)[^4]
+15. § (1)[^5]
 
-(2)[^5]
+(2) A Rendelet4. 3. § (1) bekezdése a következő k) ponttal egészül ki:
 
-[^3]: A 11–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 15. § (2) bekezdése a 16. § (3) bekezdése alapján 2012. február 1-jén lép hatályba.
+[A TEK az Rtv. 7/E. § (1) bekezdés a) és c) pontjában, valamint (2)–(4) bekezdésében meghatározott feladatok ellátása érdekében]
+
+[^4]: A 11–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
