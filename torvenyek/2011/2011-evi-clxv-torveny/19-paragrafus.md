@@ -1,0 +1,3 @@
+19. § (1) A közterületi járőrszolgálat során a közterületen és nyilvános helyen a bűncselekmények, a szabálysértések, valamint a közrendet és a közbiztonságot sértő cselekmények észlelése és megakadályozása céljából a polgárőr meghatározott körzetben, területen vagy útvonalon bűnmegelőzési tevékenységet folytat, megelőzi az egyéb jogellenes cselekményeket, valamint végzi a jogsértések 18. § szerinti megszakítását és a tetten ért személyek visszatartását.
+
+(2) A figyelőszolgálatra beosztottak feladata, hogy a megfigyeléssel érintett területen a közrendet, közbiztonságot veszélyeztető cselekményeket megelőzzék és megszakítsák, továbbá a rend fenntartása érdekében segítséget nyújtsanak a közösségi rendezvények rendezőinek.

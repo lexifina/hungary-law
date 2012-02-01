@@ -1,0 +1,3 @@
+18. § (1) A polgárőr a polgárőri szolgálat ellátása során jogosult a szabálysértés, bűncselekmény elkövetésén tetten ért személyt a cselekmény abbahagyására felszólítani, a cselekmény folytatását megakadályozni és a bűncselekmény, valamint a tulajdon elleni szabálysértés elkövetésén tetten ért személyt visszatartani.
+
+(2) A polgárőr köteles a visszatartott személyt haladéktalanul a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény vagy a büntetőeljárásról szóló törvény szerint eljárni jogosult hatóságnak átadni, ha erre nincs módja, e szervet nyomban értesíteni.

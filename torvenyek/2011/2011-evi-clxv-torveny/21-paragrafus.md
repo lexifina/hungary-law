@@ -1,0 +1,3 @@
+21. § (1) A polgárőr – az együttműködési megállapodásban rögzítettek alapján – közreműködhet körözött személyek, gépjárművek és más tárgyak felkutatásában, azonosításában, valamint holttestek személyazonosságának megállapításában. Ha a polgárőr olyan személyről, gépjárműről vagy más tárgyról szerez tudomást, akivel vagy amellyel kapcsolatban körözést rendeltek el, köteles erről az általános rendőrségi feladatok ellátására létrehozott szervet haladéktalanul értesíteni.
+
+(2) Az általános rendőrségi feladatok ellátására létrehozott szerv az adatot igénylő polgárőr egyesület részére az Országos Polgárőr Szövetségen keresztül biztosítja a körözött személyek, gépjárművek vagy egyéb tárgyak, valamint az azonosítandó holttestek aktuális listájának elektronikus elérhetőségét.

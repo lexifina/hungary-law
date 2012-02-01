@@ -1,0 +1,7 @@
+# 2011. évi CLXV. törvény a polgárőrségről és a polgárőri tevékenység szabályairól
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-165-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2012-02-01 | 2011. évi CLXV. törvény | 2011-165-00-00.0 (közlönyállapot) |
