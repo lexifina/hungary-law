@@ -60,7 +60,7 @@ c) a tervezett gyártáshoz vagy a szolgáltatás nyújtásához közvetlenül k
 
 d) a külön jogszabályban előírt termékekről nyilvántartást vezet, illetve arról adatot szolgáltat.
 
-[^4]: A 3/A. §-t a 292/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: a 3/A. §-t a 292/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^5]: A 4. § (1) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 439. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A 4. § (1) bekezdés b) pontja a 292/2011. (XII. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 4. § (1) bekezdés d) pontja a 182/2009. (IX. 10.) Korm. rendelet 440. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
