@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-32-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-01 | 1994-32-20-11.3 | 32/1994. (VI. 28.) FM rendelet |
+| 2012-02-01 | 1994-32-20-11.4 | 148/2011. (XII. 29.) VM rendelet |

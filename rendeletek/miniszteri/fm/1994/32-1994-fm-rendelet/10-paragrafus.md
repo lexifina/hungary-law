@@ -2,7 +2,7 @@
 
 Ez a rendelet 1994. július 1. napján lép hatályba.
 
-Melléklet a 32/1994. (VI. 28.) FM rendelethez
+Melléklet a 32/1994. (VI. 28.) FM rendelethez[^22]
 
 A vizsgálatok elfogadott módszerei
 
@@ -28,7 +28,7 @@ A vizsgálatok elfogadott módszerei
 
 2.1.5 Tenyésztő és árutermelő telepek adatai alapján végzett vizsgálatok.
 
-2.2 A vizsgálatok feltétele, hogy az OMMI ellenőrzésén alapuljanak, és megfeleljenek a vonatkozó nemzetközi előírásoknak, valamint hogy a vizsgálatok lezárása után a tenyészérték az állattenyésztés elismert szabályai szerint kiszámítható legyen.
+2.2 A vizsgálatok feltétele, hogy a tenyésztési hatóság ellenőrzésén alapuljanak, és megfeleljenek a vonatkozó nemzetközi előírásoknak, valamint hogy a vizsgálatok lezárása után a tenyészérték az állattenyésztés elismert szabályai szerint kiszámítható legyen.
 
 3. Azonosított utódok vágóhídi adatai alapján végzett vizsgálatok. A vizsgálatok feltétele, hogy az egyedek megbízható megjelöléssel rendelkezzenek, és a vizsgálat alapján a tenyészérték az állattenyésztés általánosan elismert szakmai szabályai szerint kiértékelhető legyen.
 
@@ -71,3 +71,5 @@ A vizsgálatok elfogadott módszerei
 4.4.2 a közzétett anyag tartalmát,
 
 4.4.3 a közzététel formáját.
+
+[^22]: A melléklet a 148/2011. (XII. 29.) VM rendelet 1. § (3) bekezdés a) pontja szerint módosított szöveg.
