@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-25-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2002-04-20 | 2002-25-20-82.1 | 25/2002. (IV. 12.) FVM rendelet |
+| 2012-02-01 | 2002-25-20-82.2 | 148/2011. (XII. 29.) VM rendelet |
