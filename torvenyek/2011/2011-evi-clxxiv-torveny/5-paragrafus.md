@@ -1,1 +1,1 @@
-5. §
+5. § A polgári perrendtartásról szóló 1952. évi III. törvény 330. § (2) bekezdésében a „keresetlevelet az elsőfokú” szövegrész helyébe a „keresetlevelet jogszabálysértésre hivatkozással az elsőfokú” szöveg lép.
