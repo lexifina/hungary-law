@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-89-00-00
 | --- | --- | --- |
 | 2007-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2003-89-00-00.4 |
 | 2011-01-27 | 2010. évi CLIII. törvény | 2003-89-00-00.5 |
+| 2012-02-01 | 2011. évi CCI. törvény | 2003-89-00-00.6 |
