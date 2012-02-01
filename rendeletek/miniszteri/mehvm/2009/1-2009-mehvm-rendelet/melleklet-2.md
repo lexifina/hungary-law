@@ -142,6 +142,6 @@
 
 | 54. üzemeltetésvezető (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
 
-2. számú melléklet az 1/2009. (I. 30.) MeHVM rendelethez[^13]
+2. számú melléklet az 1/2009. (I. 30.) MeHVM rendelethez[^20]
 
-[^13]: A 2. számú melléklet az 1/2010. (II. 11.) MeHVM rendelet 3. § b) pontjával megállapított szöveg.
+[^20]: A 2. mellékletet az 1/2012. (I. 12.) KIM rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.

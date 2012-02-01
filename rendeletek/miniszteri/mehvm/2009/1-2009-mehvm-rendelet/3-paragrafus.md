@@ -20,7 +20,7 @@ h) a raktáros,
 
 i) a referens,
 
-j)–k)[^5]
+j)–k)[^8]
 
 l) a szakértő,
 
@@ -36,29 +36,12 @@ q) a technikus
 
 ## munkakör.
 
-(2) A gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatosan a KSZK alaptevékenységének ellátásával összefüggő munkakörnek minősül:
-
-a) a referens,
-
-b) a szakreferens,
-
-c) a kiemelt szakreferens,
-
-d) a szakkontroller,
-
-e) a kiemelt szakkontroller,
-
-f) az operátor,
-
-g) a szakoperátor,
-
-h) a menedzser
-
-## munkakör.
+(2)[^9]
 
 (3) A gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatosan a NIIF Intézet alaptevékenységének ellátásával összefüggő munkakörnek minősül az informatikus munkakör.
 
-(4)[^6]
+(4)[^10]
 
-[^5]: A 3. § (1) bekezdés j)–k) pontjait az 1/2010. (II. 11.) MeHVM rendelet 4. § b) pontja hatályon kívül helyezte.
-[^6]: A 3. § (4) bekezdését az 1/2010. (II. 9.) TM rendelet 10. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^8]: A 3. § (1) bekezdés j)–k) pontjait az 1/2010. (II. 11.) MeHVM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^9]: A 3. § (2) bekezdését az 1/2012. (I. 12.) KIM rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^10]: A 3. § (4) bekezdését az 1/2010. (II. 9.) TM rendelet 10. § (3) bekezdés c) pontja hatályon kívül helyezte.
