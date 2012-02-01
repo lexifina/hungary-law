@@ -1,4 +1,4 @@
-## 12/G. §[^86] A közoktatási célú normatív állami hozzájárulás és támogatás igénylésének feltétele az azonosító számok intézményi szintű nyilvántartása, valamint a külön jogszabályban meghatározott tanügyi okiratokon való feltüntetése.
+## 12/G. §[^86]
 
 ## A hátrányos helyzetű és a halmozottan hátrányos helyzetű gyermekek, tanulók létszámával összefüggő adatszolgáltatási kötelezettség[^87]
 
@@ -18,7 +18,7 @@ b) az óvoda és az általános iskola felvételi körzetében élő hátrányos
 
 (6)[^89] A jegyző a szülő írásbeli hozzájárulása esetén a nyilatkozatot másolatban nyolc napon belül megküldi a nevelési-oktatási intézménynek. Az intézményvezető – a szülő hozzájárulása esetén – a felvételi naplóban, a törzslapon feltünteti, hogy a gyermek, tanuló hátrányos helyzetű vagy halmozottan hátrányos helyzetű. A nevelési-oktatási intézmény a nyilatkozatot a tanulói jogviszony megszűnését követő öt évig jogosult kezelni.
 
-[^86]: A 12/G. §-t a 310/2005. (XII. 25.) Korm. rendelet 8. §-a iktatta be, szövege a 349/2007. (XII. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^86]: A 12/G. §-t a 310/2005. (XII. 25.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 213/2011. (X. 14.) Korm. rendelet 26. § (2) bekezdése.
 [^87]: A 12/H. §-t megelőző címet a 119/2006. (V. 15.) Korm. rendelet 2. §-a iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^88]: A 12/H. §-t a 119/2006. (V. 15.) Korm. rendelet 2. §-a iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^89]: A 12/H. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

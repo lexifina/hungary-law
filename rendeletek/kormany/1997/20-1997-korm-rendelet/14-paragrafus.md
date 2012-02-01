@@ -1,35 +1,37 @@
-## 13/A. §[^104] Nem lehet a normatív hozzájárulás és támogatás igénylésénél, valamint az elszámolásnál figyelembe venni azt a felnőttoktatásban részt vevő tanulót, akinek a tanulói jogviszonya félévkor megszűnt, vagy a tanulói jogviszony megszűnését – jogszabály alapján – meg kellett volna állapítani. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha a felnőttoktatásban részt vevő tanuló a mulasztások miatt félévkor nem volt osztályozható, és az osztályozó vizsgán nem jelent meg, távolmaradását öt napon belül nem igazolta; ezáltal tíz tanítási óránál igazolatlanul többet mulasztott.
+## 13/A. §[^93] Nem lehet a normatív hozzájárulás és támogatás igénylésénél figyelembe venni azt a nem tanköteles tanulót, akinek a tanulói jogviszonya félévkor megszűnt, vagy a tanulói jogviszony megszűnését – jogszabály alapján – meg kellett volna állapítani. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha a nem tanköteles tanuló a mulasztások miatt félévkor nem volt osztályozható, és az osztályozó vizsgán nem jelent meg, távolmaradását öt napon belül nem igazolta; ezáltal igazolatlanul tíz tanítási óránál többet mulasztott.
 
-14. §[^105] (1) Az Igazgatóság – az igénylési lap és a rendelkezésre álló okiratok alapján, az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényben (a továbbiakban: Áe.) szabályozott eljárás keretében –
+14. §[^94] (1) Az Igazgatóság – az igénylési lap és a rendelkezésre álló okiratok alapján, az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényben (a továbbiakban: Áe.) szabályozott eljárás keretében –
 
-a)[^106] a szeptemberi igénylés alapján a szeptember–december hónapokra,
+a)[^95] az októberi igénylés alapján a szeptember–december hónapokra,
 
-b)[^107] az elszámolásban közölt szeptember 15-ei ténylétszám, valamint – szükség esetén – az új jogcímekre vonatkozó kiegészítő felmérés adatai alapján január hónapra,
+b)[^96] az elszámolásban közölt szeptember 15-ei ténylétszám, valamint – szükség esetén – az új jogcímekre vonatkozó kiegészítő felmérés adatai alapján január hónapra,
 
-c)[^108] a márciusi igénylés alapján február–augusztus hónapokra
+c)[^97] a márciusi igénylés alapján február–augusztus hónapokra
 
 ## határozatban állapítja meg, hogy a fenntartó milyen feladat ellátásáért, milyen jogcímen, hány gyermek, tanuló után és milyen összegben veheti igénybe az éves költségvetésről szóló törvényben meghatározott normatív hozzájárulást és támogatást.
 
-(2)[^109] Az Igazgatóság a határozatában a gyermekek, tanulók számát úgy állapítja meg, hogy az telephelyenként, intézményenként nem haladhatja meg a működési engedélyben szereplő létszámot. Az Igazgatóságnak a normatív hozzájárulás és támogatás megállapításával kapcsolatos eljárásában az oktatási miniszter a felettes szerve.
+(2)[^98] Az Igazgatóság a határozatában a gyermekek, tanulók számát úgy állapítja meg, hogy az feladatellátási helyenként, intézményenként nem haladhatja meg a működési engedélyben szereplő létszámot. Az Igazgatóság normatív hozzájárulás és támogatás megállapításával kapcsolatos döntései ellen benyújtott fellebbezések elbírálására az oktatásért felelős miniszter jogosult. Az Igazgatóság a fellebbezésről kialakított saját álláspontja mellett a Magyar Államkincstár véleményét is felterjeszti az oktatásért felelős miniszternek.
 
-(3)[^110] Az Igazgatóság a szeptember 15-ei tényleges létszámadatokról november 5-éig, a február 1-jei tényleges létszámadatokról május 5-éig tájékoztatja az oktatási és kulturális minisztert. Az adatszolgáltatást intézményfenntartó típusonként, egyházi intézmények esetében egyházanként is összesítve, fővárosi, megyei összesítésben, jogcím szerinti részletezéssel kell elkészíteni. Az Igazgatóság biztosítja az oktatási és kulturális miniszter részére az adatbázis adataihoz való hozzáférést, a statisztikai célú adatok lekérdezésének lehetőségét, továbbá havonta jelentést küld a köztartozással kapcsolatos adatokról.
+(3)[^99] A Magyar Államkincstár az október 1-jei tényleges létszámadatokról december 15-ig, a február 1-jei tényleges létszámadatokról május 5-ig tájékoztatja az oktatásért felelős minisztert. Az adatszolgáltatást fenntartónként, intézményfenntartó típusonként, egyházi intézmények esetében egyházanként is összesítve, fővárosi, megyei összesítésben, jogcím szerinti részletezéssel kell elkészíteni. A Magyar Államkincstár biztosítja az oktatásért felelős miniszter, valamint az iskolai rendszerű szakképzést folytató intézmények adatai tekintetében a szakképzésért felelős miniszter részére is az adatbázis adataihoz való hozzáférést, a statisztikai célú adatok lekérdezésének lehetőségét, továbbá havonta jelentést küld a köztartozással kapcsolatos adatokról.
 
-(4)[^111] Ha év közben a tényleges létszám az egyes feladatellátási helyek (székhely, telephely) szintjén – bármely okból, támogatási jogcímenként – 10%-ot meghaladó mértékben csökken, erről a hozzájárulást és támogatást folyósító illetékes Igazgatóságot nyolc napon belül értesíteni kell. Az Igazgatóság az értesítés alapján módosítja az érintett fenntartók pénzellátását, melyről határozatban értesíti a fenntartót. Ebben az esetben az elszámolás a hó végi létszámadatok éves átlaga alapján történik.
+(4)[^100] Ha év közben az igénylési létszám az egyes feladatellátási helyek (székhely, telephely) szintjén 10%-ot meghaladó mértékben lecsökken, a fenntartónak erről az illetékes Igazgatóságot nyolc napon belül értesítenie kell. Az e bekezdés szerinti 10%-os szabályt augusztus 31-ét követő naptól kell alkalmazni azoknál a tanulóknál, akiknek általános iskolában vagy középfokú iskolában az adott iskolatípus utolsó évfolyamának elvégzéséről szóló bizonyítvány kiállításával a tanulói jogviszonya a szorgalmi időszak utolsó napján – kivéve a keresztféléves oktatásban részt vevő tanulókat – szűnik meg. Az Igazgatóság az értesítés alapján módosítja az érintett fenntartók pénzellátását, melyről határozatban értesíti a fenntartót.
 
-(5) A fenntartó nyolc napon belül változásjelentést küld az Igazgatóság részére abban az esetben is, ha az általa fenntartott intézmény feladataiban vagy más nyilvántartott adataiban változás következett be.
+(5)[^101] A fenntartó nyolc napon belül változásjelentést küld az Igazgatóság részére abban az esetben is, ha az általa fenntartott intézmény feladataiban vagy más nyilvántartott adataiban változás következett be. Ha az Igazgatóság a nyilvántartásában tárolt adatokban az igénylést érintő változtatást tapasztal, adategyeztetést kezdeményez a fenntartóval és az Oktatási Hivatallal. Ha a változtatás mértéke e rendelet szerinti jogosulatlan igénybevételhez vezethet, az igénylés módosítására hívja fel a fenntartót.
 
-(6) A változásjelentéshez mellékelni kell az alapító okirat módosításának hiteles másolatát, illetőleg szükség szerint a működési engedély módosítása tárgyában hozott határozat jogerősítő záradékkal ellátott példányának hiteles másolatát.
+(6)[^102] A változásjelentéshez mellékelni kell az alapító okirat módosításának hiteles másolatát, és szükség szerint a működési engedély módosítása tárgyában hozott határozat jogerősítő záradékkal ellátott példányának hiteles másolatát. Ha az Igazgatóság olyan okiratot kap, amelyet a KIR-ben is tárolni kell, eltérés esetén az eltérés okának megadásával tájékoztatja az Oktatási Hivatalt.
 
 (7) Ha a fenntartó székhelye év közben megváltozik, akkor a régi székhely szerint illetékes Igazgatóság folyósítja a normatív hozzájárulást és támogatást december 31-éig, és a fenntartó a régi székhely szerint illetékes Igazgatósághoz nyújtja be – a 16. § (1) bekezdésbe foglaltaknak megfelelően – az elszámolását. Az új székhely szerint illetékes Igazgatóság a következő költségvetési év január 1-jétől kezdi meg a normatív hozzájárulás és támogatás folyósítását a régi székhely szerint illetékes Igazgatóság a 14. § (1) bekezdés a) pontja szerint hozott határozata alapján.
 
-(8)[^112]
+(8)[^103]
 
-[^104]: A 13/A. §-t a 70/2006. (III. 28.) Korm. rendelet 6. §-a iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^105]: A 14. § a 232/2004. (VIII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^106]: A 14. § (1) bekezdésének a) pontja a 70/2006. (III. 28.) Korm. rendelet 10. § (4) bekezdésének d) pontja szerint módosított szöveg.
-[^107]: A 14. § (1) bekezdésének új b) pontját a 70/2006. (III. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be, egyidejűleg az eredeti b) pontjának jelölését c) pontra változtatta.
-[^108]: A 14. § (1) bekezdésének eredeti b) pontjának jelölését c) pontra változtatta a 70/2006. (III. 28.) Korm. rendelet 7. § (1) bekezdése, szövege a 10. § (4) bekezdésének d) pontja szerint módosított szöveg.
-[^109]: A 14. § (2) bekezdése a 229/2005. (X. 13.) Korm. rendelet 11. §-a szerint módosított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
-[^110]: A 14. § (3) bekezdése a 349/2007. (XII. 21.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^111]: A 14. § (4) bekezdésének első mondata a 70/2006. (III. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^112]: A 14. § (8) bekezdését a 70/2006. (III. 28.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^93]: A 13/A. §-t a 70/2006. (III. 28.) Korm. rendelet 6. §-a iktatta be, szövege a 213/2011. (X. 14.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^94]: A 14. § a 232/2004. (VIII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^95]: A 14. § (1) bekezdés a) pontja a 70/2006. (III. 28.) Korm. rendelet 10. § (4) bekezdésének d) pontja, a 213/2011. (X. 14.) Korm. rendelet 25. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^96]: A 14. § (1) bekezdésének új b) pontját a 70/2006. (III. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be, egyidejűleg az eredeti b) pontjának jelölését c) pontra változtatta. [A 14. § (1) bekezdés b) pontjában a 213/2011. (X. 14.) Korm. rendelet 25. § (2) bekezdés b) pontja alapján „a szeptember 15-ei” szövegrész helyébe az „az október 1-jei” szöveg lép, ez azonban nem vezethető át.]
+[^97]: A 14. § (1) bekezdésének eredeti b) pontjának jelölését c) pontra változtatta a 70/2006. (III. 28.) Korm. rendelet 7. § (1) bekezdése, szövege a 10. § (4) bekezdésének d) pontja szerint módosított szöveg.
+[^98]: A 14. § (2) bekezdése a 213/2011. (X. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^99]: A 14. § (3) bekezdése a 213/2011. (X. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^100]: A 14. § (4) bekezdése a 213/2011. (X. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^101]: A 14. § (5) bekezdése a 213/2011. (X. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^102]: A 14. § (6) bekezdése a 213/2011. (X. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^103]: A 14. § (8) bekezdését a 70/2006. (III. 28.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.

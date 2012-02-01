@@ -1,6 +1,6 @@
-## A közoktatási feladatot ellátó intézményt fenntartó országos kisebbségi önkormányzat kiegészítő támogatása igénylésének, elszámolásának és ellenőrzésének rendje[^144]
+## A közoktatási feladatot ellátó intézményt fenntartó országos kisebbségi önkormányzat kiegészítő támogatása igénylésének, elszámolásának és ellenőrzésének rendje[^129]
 
-17/G. §[^145] (1) A közoktatási intézményt fenntartó országos kisebbségi önkormányzat számára az éves költségvetési törvényben meghatározott kiegészítő támogatás megállapítását az országos kisebbségi önkormányzati intézményfenntartó részére megállapított normatív hozzájárulás és támogatás igénylése és elszámolása alapján – külön igénylés nélkül – a kijelölt Igazgatóság végzi.
+17/G. §[^130] (1) A közoktatási intézményt fenntartó országos kisebbségi önkormányzat számára az éves költségvetési törvényben meghatározott kiegészítő támogatás megállapítását az országos kisebbségi önkormányzati intézményfenntartó részére megállapított normatív hozzájárulás és támogatás igénylése és elszámolása alapján – külön igénylés nélkül – a kijelölt Igazgatóság végzi.
 
 (2) A kijelölt Igazgatóság az országos kisebbségi önkormányzatok székhelye szerinti illetékes Igazgatóságok adatszolgáltatása alapján figyelembe vehető gyermek-, tanulólétszám alapján a Ket.-ben szabályozott eljárás keretében
 
@@ -20,5 +20,5 @@ határozatban – feladatonkénti bontásban – állapítja meg az országos ki
 
 (5) Az e §-ban nem szabályozott kérdésekben a 13–17. §-ban foglaltakat kell megfelelően alkalmazni.
 
-[^144]: A 17/G. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
-[^145]: A 17/G. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^129]: A 17/G. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^130]: A 17/G. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.

@@ -1,6 +1,6 @@
-## A nem állami térségi integrált szakképző központok központi képzőhelyei[^140]
+## A nem állami térségi integrált szakképző központok központi képzőhelyei[^125]
 
-17/E. §[^141] (1) A térségi integrált szakképző központ keretei között működő központi képzőhely nem állami fenntartója – feltéve, hogy a központi képzőhely olyan jogi személy részeként jött létre, amely gazdasági tevékenységét nyereség- és vagyonszerzési cél nélkül, közhasznú tevékenységének elősegítése érdekében folytatja – a (2) bekezdésben meghatározott feltételek esetén és a 13. § (1) bekezdés szerinti fenntartóval kötött megállapodás alapján jogosult a szakmai gyakorlati képzéshez nyújtott normatív hozzájárulásra és támogatásra (a továbbiakban: szakképzési támogatás).
+17/E. §[^126] (1) A térségi integrált szakképző központ keretei között működő központi képzőhely nem állami fenntartója – feltéve, hogy a központi képzőhely olyan jogi személy részeként jött létre, amely gazdasági tevékenységét nyereség- és vagyonszerzési cél nélkül, közhasznú tevékenységének elősegítése érdekében folytatja – a (2) bekezdésben meghatározott feltételek esetén és a 13. § (1) bekezdés szerinti fenntartóval kötött megállapodás alapján jogosult a szakmai gyakorlati képzéshez nyújtott normatív hozzájárulásra és támogatásra (a továbbiakban: szakképzési támogatás).
 
 (2) A szakképzési támogatást a megállapodásban meghatározott, 13. § (1) bekezdése szerinti fenntartó az Igazgatóság útján igényelheti azzal, hogy a szakképzési támogatást átadja a központi képzőhely nem állami fenntartójának. A megállapodásban kell rögzíteni a szakképzési támogatás átadásának idejét, módját, a nyilvántartással, a szakmai ellenőrzéssel, adatszolgáltatással és a felhasználással kapcsolatos szabályokat. A szakképzési támogatással az igénylést benyújtó, 13. § (1) bekezdése szerinti fenntartó számol el azzal, hogy az elszámolást megalapozó nyilvántartást mindkét fenntartónál ellenőrizheti az Igazgatóság.
 
@@ -26,5 +26,5 @@ d) a helyi önkormányzat által kiállított hatósági igazolást arról, hogy
 
 (5) Az e §-ban nem szabályozott kérdésekben a 13–17. §-ban foglaltakat kell megfelelően alkalmazni.
 
-[^140]: A 17/E. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
-[^141]: A 17/E. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^125]: A 17/E. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^126]: A 17/E. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.

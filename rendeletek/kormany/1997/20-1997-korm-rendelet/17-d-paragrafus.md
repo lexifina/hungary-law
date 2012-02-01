@@ -1,6 +1,6 @@
-## A kormányhivatal illetékessége a közoktatási intézmény engedélyezési eljárásával kapcsolatos feladatok ellátásában[^134]
+## A kormányhivatal illetékessége a közoktatási intézmény engedélyezési eljárásával kapcsolatos feladatok ellátásában[^119]
 
-17/D. §[^135] (1)[^136] A nem a megyei intézményfenntartó központ, a nem állami és a nem települési önkormányzat által fenntartott intézmény esetében az intézményfenntartó a közoktatási intézményének székhelye szerint illetékes kormányhivatalhoz nyújtja be – a külön jogszabályban meghatározott módon és formában – a nyilvántartásba vétel, a működési engedély iránti kérelmét.
+17/D. §[^120] (1)[^121] A nem a megyei intézményfenntartó központ, a nem állami és a nem települési önkormányzat által fenntartott intézmény esetében az intézményfenntartó a közoktatási intézményének székhelye szerint illetékes kormányhivatalhoz nyújtja be – a külön jogszabályban meghatározott módon és formában – a nyilvántartásba vétel, a működési engedély iránti kérelmét.
 
 (2) Ha a közoktatási intézmény legalább kettő megyében működik, az (1) bekezdés szerinti kormányhivatal – a telephelyekre kiadott működési engedélyekkel – egységes szerkezetben adja ki a közoktatási intézmény működési engedélyét. A telephelyet engedélyező kormányhivatal az eljárása során együttműködik a közoktatási intézmény székhelye szerinti kormányhivatallal.
 
@@ -8,15 +8,15 @@
 
 (4) Ha a fenntartó a közoktatási intézmény alapító okiratát módosítja, de a változtatás nem igényli a működési engedély módosítását, az egységes szerkezetű alapító okiratot az (1) bekezdés szerinti kormányhivatal számára az intézményi nyilvántartás módosítása céljából öt napon belül megküldi.
 
-(5)[^137] A nem költségvetési szervként működő közoktatási intézményekről jegyzéket vezető, az (1) bekezdés szerinti kormányhivatal a nyilvántartását elektronikusan köteles vezetni. A kormányhivatal a 12/A. § (1) bekezdésben és a 12/B. § (5) bekezdésben nevesített adatokat, okiratokat az Oktatási Hivatal által meghatározott módon küldi meg a KIR részére.
+(5)[^122] A nem költségvetési szervként működő közoktatási intézményekről jegyzéket vezető, az (1) bekezdés szerinti kormányhivatal a nyilvántartását elektronikusan köteles vezetni. A kormányhivatal a 12/A. § (1) bekezdésben és a 12/B. § (5) bekezdésben nevesített adatokat, okiratokat az Oktatási Hivatal által meghatározott módon küldi meg a KIR részére.
 
-(6)[^138] A központi költségvetési szerv által fenntartott közoktatási intézmény működési engedélyéről nyilvántartást vezető kormányhivatal az (5) bekezdés szerint adatot szolgáltat az Oktatási Hivatal számára.
+(6)[^123] A központi költségvetési szerv által fenntartott közoktatási intézmény működési engedélyéről nyilvántartást vezető kormányhivatal az (5) bekezdés szerint adatot szolgáltat az Oktatási Hivatal számára.
 
-(7)[^139]
+(7)[^124]
 
-[^134]: A 17/D. §-t megelőző alcímet a 229/2007. (VIII. 31.) Korm. rendelet 7. §-a iktatta be, szövege a 258/2011. (XII. 7.) Korm. rendelet 27. § (14) bekezdésével megállapított szöveg.
-[^135]: A 17/D. §-t a 229/2007. (VIII. 31.) Korm. rendelet 7. §-a iktatta be, szövege a 111/2011. (VII. 4.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^136]: A 17/D. § (1) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 27. § (14) bekezdésével megállapított szöveg.
-[^137]: A 17/D. § (5) bekezdése a 213/2011. (X. 14.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^138]: A 17/D. § (6) bekezdése a 213/2011. (X. 14.) Korm. rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^139]: A 17/D. § (7) bekezdését a 258/2011. (XII. 7.) Korm. rendelet 14. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^119]: A 17/D. §-t megelőző alcímet a 229/2007. (VIII. 31.) Korm. rendelet 7. §-a iktatta be, szövege a 258/2011. (XII. 7.) Korm. rendelet 27. § (14) bekezdésével megállapított szöveg.
+[^120]: A 17/D. §-t a 229/2007. (VIII. 31.) Korm. rendelet 7. §-a iktatta be, szövege a 111/2011. (VII. 4.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^121]: A 17/D. § (1) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 27. § (14) bekezdésével megállapított szöveg.
+[^122]: A 17/D. § (5) bekezdése a 213/2011. (X. 14.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^123]: A 17/D. § (6) bekezdése a 213/2011. (X. 14.) Korm. rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^124]: A 17/D. § (7) bekezdését a 258/2011. (XII. 7.) Korm. rendelet 14. § (3) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## I.[^157]
+## I.[^142]
 
 ## Tájékoztató adatok a közoktatási intézményekről
 
@@ -136,7 +136,7 @@
 
 ## – központi műhely
 
-3. számú melléklet a 20/1997. (II. 13.) Korm. rendelethez[^158]
+3. számú melléklet a 20/1997. (II. 13.) Korm. rendelethez[^143]
 
-[^157]: A 2. számú melléklet I. része a 70/2006. (III. 28.) Korm. rendelet 9. § (2) bekezdése és 10. § (4) bekezdésének e) pontja, a 349/2007. (XII. 21.) Korm. rendelet 22. § (3) bekezdésének o)–p) pontja szerint módosított szöveg.
-[^158]: A 3. számú mellékletet a 273/2000. (XII. 27.) Korm. rendelet 2. §-ának (12) bekezdése iktatta a szövegbe, s egyidejűleg a melléklet eredeti szövegét 1. számú mellékletre változtatta. A 3. számú mellékletet a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^142]: A 2. számú melléklet I. része a 70/2006. (III. 28.) Korm. rendelet 9. § (2) bekezdése és 10. § (4) bekezdésének e) pontja, a 349/2007. (XII. 21.) Korm. rendelet 22. § (3) bekezdésének o)–p) pontja szerint módosított szöveg.
+[^143]: A 3. számú mellékletet a 273/2000. (XII. 27.) Korm. rendelet 2. §-ának (12) bekezdése iktatta a szövegbe, s egyidejűleg a melléklet eredeti szövegét 1. számú mellékletre változtatta. A 3. számú mellékletet a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés f) pontja hatályon kívül helyezte.

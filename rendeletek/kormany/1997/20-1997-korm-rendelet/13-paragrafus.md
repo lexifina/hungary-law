@@ -1,64 +1,57 @@
 ## 12/I. §[^90]
 
-## A nem állami, nem helyi önkormányzati intézményfenntartók normatív állami hozzájárulásának és támogatásának igénylése, folyósítása, elszámolása és ellenőrzése
+## A nem állami, nem helyi önkormányzati intézményfenntartók normatív állami hozzájárulásának és támogatásának igénylése, folyósítása, elszámolása és ellenőrzése[^91]
 
-13. §[^91] (1)[^92] A nem állami, nem helyi önkormányzati intézményfenntartó (a továbbiakban: fenntartó) a közoktatásról szóló törvény 118. §-ának (3) bekezdése alapján a mindenkori költségvetési törvényben meghatározott normatív állami hozzájárulások, továbbá normatív, kötött felhasználású támogatások (a továbbiakban: normatív hozzájárulás és támogatás) iránti igényét a székhelye szerint illetékes Magyar Államkincstár Területi Igazgatóságánál (a továbbiakban: Igazgatóság) jelentheti be.
+13. §[^92] (1) A nem állami, nem helyi önkormányzati intézményfenntartó (a továbbiakban: fenntartó) a közoktatásról szóló törvény 118. § (3) bekezdése alapján a mindenkori költségvetési törvényben meghatározott normatív állami hozzájárulások, továbbá normatív, kötött felhasználású támogatások (a továbbiakban: normatív hozzájárulás és támogatás) iránti igényét a Magyar Államkincstár – fenntartó székhelye szerint – illetékes megyei igazgatóságnál (a továbbiakban: Igazgatóság) jelentheti be.
 
-(2) Normatív hozzájárulás és támogatás az után a gyermek, tanuló után vehető igénybe,
+(2) Normatív hozzájárulás és támogatás – a külön jogszabályban meghatározott feltételek figyelembevételével – az után a gyermek, tanuló után vehető igénybe,
 
-– akit beírattak az óvodába, iskolába, kollégiumba, és
+a) aki szerepel a felvételi és mulasztási vagy beírási naplóban,
 
-– akiről kiállították a törzslapot, továbbá
+b) akiről kiállították a törzslapot, kollégiumban a törzskönyvet,
 
-– akinek jelenlétéről, távolmaradásáról külön jogszabályban meghatározott
+c) akinek jelenlétéről, távolmaradásáról külön jogszabályban meghatározott nyilvántartást vezetnek,
 
-nyilvántartást vezetnek, a költségvetési törvényben meghatározott feltételek figyelembevételével.
+d) aki rendelkezik az e jogszabály szerinti azonosító számmal.
 
-(3) A fenntartó, intézmény székhelyenkénti és telephelyenkénti, valamint összesített – az Igazgatóság által hivatalból megküldött – igénylési lapon nyújtja be a normatív állami hozzájárulás és támogatás iránti igényét.
+(3) Normatív hozzájárulás és támogatás – a külön jogszabályban meghatározott feltételek figyelembevételével – az után az alkalmazott után vehető igénybe,
 
-(4)[^93] Az aktuális igénylési lapot az oktatási és kulturális miniszter február 15-éig, illetőleg augusztus 31-éig küldi meg az Igazgatóság részére, az Igazgatóság pedig február 25-éig, illetőleg szeptember 15-éig küldi meg a fenntartónak.
+a) akit a képesítésének megfelelő munkakörben, munkaviszonyban foglalkoztatnak,
 
-(5)[^94] A kitöltött igénylési lapot valamennyi fenntartó
+b) aki rendelkezik az e jogszabály szerinti azonosító számmal.
 
-– szeptember 30-áig – a tárgyév szeptember 15-ei tényleges létszám alapján –, illetve
+(4) A normatív hozzájárulás és támogatás igénybevételének további feltétele, hogy a létesített tanulói és alkalmazotti jogviszony – az e jogszabályban meghatározottak szerint – szerepeljen a KIR adatbázisában.
 
-– március 12-éig – a február 1-jei tényleges létszám alapján –
+(5) A fenntartó ügyviteli feladatot ellátó intézményi feladatellátási helyenként és fenntartói szinten összesített formában nyújtja be a normatív hozzájárulás és támogatás iránti igényét.
 
-kitöltve küldi vissza az Igazgatóságnak. Az igénylési határidő elmulasztása jogvesztő.
+(6) A tárgyévi igénylési adatlapot, amelynek formáját a Magyar Államkincstár a Minisztériummal közösen határozza meg, az Igazgatóság a nyilvántartásában szereplő fenntartónak a márciusi igényléshez február 25-ig, az októberi igényléshez október 5-ig küldi meg.
 
-(6)[^95] A nem havi rendszerességgel folyósított támogatásokat a márciusban benyújtott igénylési lapon kell igényelni.
+(7) A kitöltött igénylési lapot valamennyi fenntartó
 
-(7)[^96] Új fenntartó esetén az igénylési lapot az (5) bekezdésben meghatározott határidőt megelőző 30 napon belül a fenntartó székhelye szerint illetékes Igazgatóság – a fenntartó írásos kérelmére – küldi meg a kérelem beérkezését követő naptól számított tizenöt napon belül. E rendelkezések alkalmazásában új fenntartó az a fenntartó, amely első alkalommal nyújt be normatív hozzájárulás és támogatás iránti igényt. Az új fenntartó az igénylési laphoz köteles csatolni:
+– október 20-ig – a tárgyév október 1-jei tényleges létszám alapján –, és
 
-a)[^97] közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-mintáját, adószámát, a 12/A. § (4) bekezdés b) pontja szerinti okiratot, valamennyi pénzforgalmi számlaszerződésének hiteles másolatát,
+– március 12-ig – a tárgyév február 1-jei tényleges létszám alapján –
 
-b)[^98] az intézmény nyilvántartásba vételéről rendelkező határozatát, a jogerős működési engedélyét, alapító okiratát, pénzforgalmi számlájának számát, adószámát,
+megküldi az Igazgatóságnak. Az igénylési határidő elmulasztása jogvesztő.
 
-c)[^99] az e bekezdés szerinti valamennyi pénzforgalmi számlára vonatkozó felhatalmazó levelét beszedési megbízás benyújtására,
+(8) A nem havi rendszerességgel folyósított támogatásokat a márciusban benyújtott igénylési lapon kell igényelni.
 
-d) nyilatkozatát arról, hogy sem neki, sem az intézményének harminc napon túli köztartozása nincs,
+(9) Az új fenntartó, amely első alkalommal nyújt be normatív hozzájárulás és támogatás iránti igényt, az igénylési laphoz köteles csatolni:
 
-e) a közoktatásról szóló törvény 82. §-a (6) bekezdésében meghatározott feladat ellátásában való közreműködés tényéről szóló nyilatkozatát.
+a) közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírásmintáját, adószámát, valamennyi pénzforgalmi számlaszerződésének hiteles másolatát,
 
-(8)[^100] A (7) bekezdésben felsorolt okiratok másolatát a közjegyző vagy – az eredeti okiratok alapján – az Igazgatóság hitelesíti. Az OM azonosítót az Igazgatóság a KIR adatbázisában ellenőrzi.
+b) az intézmény nyilvántartásba vételéről rendelkező jogerős határozatot, a jogerős működési engedélyét, alapító okiratát, pénzforgalmi számlájának számát, adószámát,
 
-(9)[^101] Ha a fenntartó a (7) bekezdés e) pontja szerinti feladatellátásának nem vagy részben tesz eleget, nyilatkozatában köteles azt indokolni. A nyilatkozatot az illetékes önkormányzat jegyzője hitelesíti.
+c) az e bekezdés szerinti valamennyi pénzforgalmi számlára vonatkozó felhatalmazó levelét beszedési megbízás benyújtására,
 
-(10)[^102] Ha a fenntartó új intézményt, új telephelyet létesít, új feladattal bővíti az intézmény feladatát, az igénylési laphoz csatolni kell a (7) bekezdésben meghatározott okiratok közül azokat, amelyeket a változás érintett. Új intézmény, új telephely, új feladat, az az intézmény, az a telephely, az a feladat, amelyre vonatkozóan a fenntartó első alkalommal nyújt be igénylést normatív hozzájárulásra és támogatásra.
+d) nyilatkozatát arról, hogy sem neki, sem az intézménynek harminc napon túli köztartozása nincs.
 
-(11)[^103] A fenntartó a támogatási igénylés benyújtásakor csatolja az intézmény székhelye és telephelye szerinti helyi önkormányzat által kiállított hatóság igazolást arról, hogy sem neki, sem az intézményének nincsen – a szeptember 15-i, illetve február 1-jei állapotot figyelembe véve – az önkormányzatnál lejárt köztartozása, valamint nyilatkozatával hozzájárul ahhoz, hogy az Igazgatóság az adó-, járulék-, illeték- vagy vámtartozással kapcsolatban adatot kérjen az illetékes hatóságoktól.
+(10) A (9) bekezdésben felsorolt okiratok másolatát közjegyző vagy – az eredeti okiratok alapján – az Igazgatóság hitelesíti. Ha a fenntartó több pénzforgalmi számlával rendelkezik, meg kell jelölnie azt a számlát, amelyre a támogatás folyósítását kéri. Az OM azonosítót az Igazgatóság a KIR adatbázisában ellenőrzi, továbbá az igénylésekkel összefüggő új és módosított adatokat a KIR-ből átveszi. Ha a fenntartó a KIR-ben tárolt okiratokat nem küldi meg, azt az Igazgatóság hivatalból a KIR működtetőjétől megkéri, és az adatok bekéréséig az eljárást felfüggeszti.
+
+(11) Ha a fenntartó új intézményt, új feladatellátási helyet létesít, új alaptevékenységgel bővíti az intézmény feladatát, az igénylési laphoz csatolnia kell a (9) bekezdésben meghatározott okiratok közül azokat, amelyeket a változás érintett. Új intézmény, új feladatellátási hely, új alaptevékenység az az intézmény, az a feladatellátási hely, az az alaptevékenység, amelyre vonatkozóan a fenntartó első alkalommal nyújt be igénylést normatív hozzájárulásra és támogatásra.
+
+(12) A fenntartó a támogatási igénylés benyújtásakor csatolja az intézmény székhelye és telephelye szerint illetékes önkormányzat által kiállított hatósági igazolást arról, hogy sem neki, sem az intézményének nincsen – az október 1-jei, illetve február 1-jei állapotot figyelembe véve – az önkormányzatnál lejárt köztartozása, valamint nyilatkozatával hozzájárul ahhoz, hogy az Igazgatóság az adó-, járulék-, illeték- vagy vámtartozással kapcsolatban adatot kérjen az illetékes hatóságoktól.
 
 [^90]: A 12/I. §-t a 229/2007. (VIII. 31.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés d) pontja.
-[^91]: A 13. § és az előtte lévő alcím a 232/2004. (VIII. 6.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a normatív állami hozzájárulás és támogatás 2004. szeptember 15-i igénylésekor minden fenntartó köteles csatolni az inkasszó benyújtásához szükséges nyilatkozatot, továbbá az aláírási címpéldányt.
-[^92]: A 13. § (1) bekezdése a 80/2005. (IV. 28.) Korm. rendelet 1. §-ával megállapított, valamint a 349/2007. (XII. 21.) Korm. rendelet 22. § (3) bekezdésének i) pontja szerint módosított szöveg. [A 113/2011. (VII. 7.) Korm. rendelet 5. §-ával elrendelt módosítás, amely szerint a „a Magyar Államkincstár Területi Igazgatóságánál (a továbbiakban: Igazgatóság)” szövegrész helyébe az „Igazgatóságnál” szöveg lép, nem vezethető át.]
-[^93]: A 13. § (4) bekezdése a 70/2006. (III. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított, valamint a 349/2007. (XII. 21.) Korm. rendelet 22. § (3) bekezdésének j) pontja szerint módosított szöveg.
-[^94]: A 13. § (5) bekezdése a 70/2006. (III. 28.) Korm. rendelet 10. § (4) bekezdésének d) pontja szerint módosított szöveg.
-[^95]: A 13. § (6) bekezdése a 70/2006. (III. 28.) Korm. rendelet 10. § (4) bekezdésének d) pontja szerint módosított szöveg.
-[^96]: A 13. § (7) bekezdése a 349/2007. (XII. 21.) Korm. rendelet 13. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^97]: A 13. § (7) bekezdés a) pontja a 163/2009. (VIII. 6.) Korm. rendelet 40. § (1) bekezdése, a 314/2009. (XII. 28.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^98]: A 13. § (7) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^99]: A 13. § (7) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^100]: A 13. § (8) bekezdése a 349/2007. (XII. 21.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^101]: A 13. § (9) bekezdése a 349/2007. (XII. 21.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^102]: A 13. § (10) bekezdése a 349/2007. (XII. 21.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^103]: A 13. § (11) bekezdését a 349/2007. (XII. 21.) Korm. rendelet 13. §-a iktatta be.
+[^91]: A 13. §-t megelőző alcím a 232/2004. (VIII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^92]: A 13. § a 213/2011. (X. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
