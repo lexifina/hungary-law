@@ -1,0 +1,9 @@
+# 1/2012. (I. 12.) KIM rendelet
+
+a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a közigazgatási és igazságügyi miniszter irányítása alá tartozó költségvetési szerveknél történő végrehajtásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1-20-2T
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-02-01 | 2012-1-20-2T.1 | 1/2012. (I. 12.) KIM rendelet |
