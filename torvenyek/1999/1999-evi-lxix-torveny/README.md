@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-69-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1999-69-00-00.43 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1999-69-00-00.44 |
 | 2012-01-05 | 2011. évi CCVII. törvény | 1999-69-00-00.45 |
+| 2012-02-01 | 2011. évi CXCI. törvény | 1999-69-00-00.46 |
