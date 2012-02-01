@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-33-20-6
 | --- | --- | --- |
 | 2000-12-22 | 1997-33-20-6D.2 | 33/1997. (XI. 20.) KTM rendelet |
 | 2010-05-06 | 1997-33-20-6D.3 | 10/2010. (IV. 28.) KvVM rendelet |
+| 2012-02-01 | 1997-33-20-6D.4 | 148/2011. (XII. 29.) VM rendelet |
