@@ -1,7 +1,5 @@
 ## 1. § E rendelet hatálya az oktatási és kulturális miniszter irányítása alatt álló költségvetési szervek közül a(z):
 
-## Közgyűjteményi Ellátó Szervezetre, (KESZ)
-
 ## Kulturális Örökségvédelmi Szakszolgálatra, (KÖSZ)
 
 ## Műemlékek Nemzeti Gondnokságára, (MNG)

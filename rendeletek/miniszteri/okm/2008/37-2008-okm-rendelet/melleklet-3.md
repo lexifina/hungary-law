@@ -46,14 +46,6 @@
 
 | szaktájékoztató |  |  |  | * | * | * | * | * | * | * |  |
 
-| Közgyűjteményi Ellátó Szervezet |  |
-
-| szakreferens (szakterülettel) |  |  |  |  |  | * | * | * | * | * |  |
-
-| referens (szakterülettel) |  |  | * | * | * | * |  |  |  |  |  |
-
-| vagyonkezelési ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
-
 | Műemlékek Nemzeti Gondnoksága |  |
 
 | építész |  |  |  |  |  |  |  | * | * |  |  |
