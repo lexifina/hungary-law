@@ -1,8 +1,8 @@
 ## 31. § E rendelet tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés első, második és harmadik francia bekezdése szerinti előzetes bejelentése megtörtént.
 
-32. § (1)[^6]
+32. § (1)[^7]
 
-(2)[^7]
+(2)[^8]
 
 (3) A 26. § 2012. február 1-jén hatályát veszti.
 
@@ -12,5 +12,5 @@
 
 (6) Az (5) bekezdésben meghatározott feltétel bekövetkezésének napját – annak ismertté válását követően haladéktalanul – az MNB elnöke a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
 
-[^6]: A 32. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 32. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 32. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 32. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

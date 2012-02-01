@@ -1,1 +1,3 @@
-## 26. § A bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 2/2009. (I. 23.) MNB rendelet 18. § (6) bekezdése szerinti tájékoztatási kötelezettséget a pénzforgalmazónak utolsó alkalommal a 2011. július 1. és 2011. december 31. közötti időszakra vonatkozóan, 2012. január 31-éig kell teljesítenie.
+## 26. §[^5]
+
+[^5]: A 26. §-t a 32. § (3) bekezdése hatályon kívül helyezte.
