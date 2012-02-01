@@ -8,4 +8,4 @@ b) a közbiztonság, közrend fenntartásának látszatát keltő tevékenysége
 
 vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Az (1) bekezdés szerint büntetendő az is, aki a helyi polgárőr szervezet tagjának a polgárőrségről szóló törvényben meghatározott feladatai ellátását úgy szervezi meg, hogy a helyi polgárőr szervezet a polgárőrségről szóló törvényben meghatározott együttműködési kötelezettségét nem teljesíti.
+(2)

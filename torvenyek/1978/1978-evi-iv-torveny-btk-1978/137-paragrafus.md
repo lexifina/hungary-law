@@ -48,7 +48,7 @@ g) a közoktatásról szóló törvényben meghatározott esetben a pedagógus, 
 
 h) az állami, önkormányzati, önkéntes és létesítményi tűzoltóság, valamint a tűzoltó egyesület tűzoltói feladatot ellátó tagja,
 
-i) a polgárőr a polgárőrségről szóló törvényben meghatározott feladatok ellátásával kapcsolatban,
+i) a polgárőr a polgárőrségről és a polgárőri tevékenység szabályairól szóló törvényben meghatározott feladatok ellátásával kapcsolatban,
 
 j) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett egyház lelkésze,
 

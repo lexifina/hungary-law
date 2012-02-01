@@ -5,5 +5,3 @@
 (2) A büntetés bűntett miatt öt évig, háború idején két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény a szolgálatra vagy a fegyelemre jelentős hátránnyal jár.
 
 (3) Aki a (2) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt – az ott tett megkülönböztetés szerint – egy évig, illetve három évig terjedő szabadságvesztéssel büntetendő.
-
-## Elöljárói intézkedés elmulasztása
