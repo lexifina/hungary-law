@@ -20,6 +20,9 @@ e) esetlegesen megváltozott adagolását.
 
 (6) Ha a gyógyszerész a gyógyszer elkészítése, illetőleg kiadása során a vény előírásaitól eltér, az eltérést a vényen feltűnteti és kézjegyével ellátja.
 
+(7)[^81] Amennyiben a beteg nem ért egyet az (1) bekezdésben meghatározott helyettesítéssel, és a referenciagyógyszer vagy a preferált referencia ársávba tartozó gyógyszer helyett más gyógyszer kiadását választotta, a gyógyszerek térítési díját tartalmazó nyugta kiadásával együtt nyomtatott formában tájékoztatni kell a gyógyszert kiváltó személyt a kiváltott gyógyszer napi terápiás egységével megegyező mennyiségű ki nem váltott referencia gyógyszer térítési díjáról is.
+
 [^78]: A 15. § (1) bekezdése a 9/2007. (II. 15.) EüM rendelet 2. §-ával megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^79]: A 15. § (3) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^80]: A 15. § (4) bekezdése a 47/2005. (XI. 4.) EüM rendelet 11. §-ával megállapított szöveg.
+[^81]: A 15. § (7) bekezdését a 2/2012. (I. 3.) NEFMI rendelet iktatta be.
