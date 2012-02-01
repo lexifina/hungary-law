@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^12] A támogatási kérelmet 2012-től évente február 1. és március 31. között kell benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és az MVH honlapján közzétett formanyomtatványon. A formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresítenie:
+6. § (1)[^12] A támogatási kérelmet 2013-tól évente február 1. és március 31. között kell benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és az MVH honlapján közzétett formanyomtatványon. A formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresítenie:
 
 a) áfa-visszaigénylésre vonatkozó adatok,
 
@@ -42,6 +42,6 @@ c) az e rendelet alapján beszerzett gépjárművel a szolgáltatást ingyenesen
 
 (6) E rendelet alapján benyújtott támogatási kérelemhez – az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet 27. §-ának e) pontjában foglaltaktól eltérően – pénzügyi tervet nem kell csatolni.
 
-[^12]: A 6. § (1) bekezdése az 5/2010. (I. 28.) FVM rendelet 4. §-ával megállapított szöveg. A 6. § (1) bekezdés nyitó szövegrésze a 8/2011. (I. 31.) VM rendelet 5. §-a szerint módosított szöveg.
+[^12]: A 6. § (1) bekezdése az 5/2010. (I. 28.) FVM rendelet 4. §-ával megállapított szöveg. A 6. § (1) bekezdés nyitó szövegrésze a 3/2012. (I. 31.) VM rendelet 8. §-a szerint módosított szöveg.
 [^13]: A 6. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 21. § (3) bekezdésével megállapított szöveg.
 [^14]: A 6. § (4) bekezdésének a) pontja az 54/2008. (IV. 24.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
