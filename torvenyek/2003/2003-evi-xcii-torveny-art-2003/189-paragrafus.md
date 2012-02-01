@@ -33,3 +33,5 @@ b) jogcím (kölcsön/támogatás)
 c) kölcsön, vissza nem térítendő támogatás összege.
 
 (14) E törvénynek a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvénnyel megállapított 2. számú melléklet I./Határidők/6.4. pontját 2012. január 1-től és első alkalommal a 2012. január–március tárgynegyedévre kell alkalmazni.
+
+(14) E törvénynek a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvénnyel módosított 37. § (4) bekezdését és megállapított 37. § (4a) bekezdését 2012. február 1. napján vagy azt követően benyújtott adó-visszaigénylés esetében kell alkalmazni.
