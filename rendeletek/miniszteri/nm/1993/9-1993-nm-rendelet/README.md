@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2012-01-01 | 1993-9-20-3D.77 | 62/2007. (XII. 29.) EüM rendelet |
 | 2012-01-04 | 1993-9-20-3D.78 | 70/2011. (XII. 23.) NEFMI rendelet |
 | 2012-01-13 | 1993-9-20-3D.79 | 4/2012. (I. 12.) NEFMI rendelet |
+| 2012-02-01 | 1993-9-20-3D.80 | 70/2011. (XII. 23.) NEFMI rendelet |
