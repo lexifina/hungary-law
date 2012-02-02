@@ -1,1 +1,0 @@
-A Kormány a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (2) bekezdés g) pontjában, valamint a közoktatásról szóló 1993. évi LXXIX. törvény 94. § (3) bekezdés h)–j) és l) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:

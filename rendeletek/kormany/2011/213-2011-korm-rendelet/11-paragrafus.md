@@ -1,3 +1,0 @@
-## 10. § Az R. 13/A. §-a helyébe a következő rendelkezés lép:
-
-## „13/A. § Nem lehet a normatív hozzájárulás és támogatás igénylésénél figyelembe venni azt a nem tanköteles tanulót, akinek a tanulói jogviszonya félévkor megszűnt, vagy a tanulói jogviszony megszűnését – jogszabály alapján – meg kellett volna állapítani. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha a nem tanköteles tanuló a mulasztások miatt félévkor nem volt osztályozható, és az osztályozó vizsgán nem jelent meg, távolmaradását öt napon belül nem igazolta; ezáltal igazolatlanul tíz tanítási óránál többet mulasztott.”
