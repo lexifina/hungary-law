@@ -1,0 +1,9 @@
+# 1019/2012. (II. 1.) Korm. határozat
+
+az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Alapítvány megszüntetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1019-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-02-02 | 2012-1019-30-22.1 | 1019/2012. (II. 1.) Korm. határozat |
