@@ -30,7 +30,7 @@ b) 62 év felett,
 
 c) amennyiben legalább két, 18 év alatti személyt kísér, és azok – Ptk. 685. § b) pontja szerinti – közeli hozzátartozója (legfeljebb 2 fő), a (2) bekezdés b) pontjában foglalt eset kivételével.
 
-(4)[^6] A Magyar Köztársaság állami ünnepéről szóló 1991. évi VIII. törvény 1. §-ában meghatározott nemzeti ünnepeken, állampolgárságra való tekintet nélkül a muzeális intézmények kiállításai díjtalanul látogathatók.
+(4)[^6] Az Alaptörvény J) cikk (1) bekezdésében meghatározott nemzeti ünnepeken, állampolgárságra való tekintet nélkül a muzeális intézmények kiállításai díjtalanul látogathatók.
 
 (5) A miniszter – a muzeális intézmény kérésére – az államháztartásról szóló 1992. évi XXXVIII. törvény 33/B. §-a szerinti kiállítási garanciával megvalósuló, legfeljebb egy évig tartó időszaki kiállítások esetében a kedvezmények, illetve kedvezményezettek körét az (1)–(4) bekezdésben foglaltaknál szűkebb körben állapíthatja meg.
 
@@ -41,5 +41,5 @@ c) amennyiben legalább két, 18 év alatti személyt kísér, és azok – Ptk.
 [^3]: A 2. § (1) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (2) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^5]: A 2. § (3) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: A 2. § (4) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 2. § (4) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított, a 6/2012. (II. 1.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^7]: A 2. § (6) bekezdése a 132/2011. (VII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
