@@ -4,7 +4,7 @@
 
 (2)[^8]
 
-(3) A 26. § 2012. február 1-jén hatályát veszti.
+(3)[^9]
 
 (4) A 28. és 29. § 2017. január 1-jén hatályát veszti.
 
@@ -14,3 +14,4 @@
 
 [^7]: A 32. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^8]: A 32. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 32. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
