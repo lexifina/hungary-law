@@ -1,4 +1,4 @@
-## 25–28. §[^21]
+## 25–28. §[^23]
 
 ## 10. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) Ez a rendelet 2012. április 2-án hatályát veszti.
 
-[^21]: A 25–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 25–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
