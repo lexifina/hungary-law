@@ -51,3 +51,7 @@ b) négy vagy több gyermek után jogosult és a tárgyhónap első napján érv
 (13) Nem jogosult kompenzációra a foglalkoztatott a fizetés nélküli szabadság, valamint az egész napos igazolatlan távollét időtartamára. A kompenzáció emiatt kieső összegét a tárgyhónapban kieső munkanapok számának a foglalkoztatott munkarendje szerinti, a tárgyhónap egészére megállapított munkanapok számához viszonyított arányában, 100 forintra kerekítve kell megállapítani. A munkanapok számába be kell számítani a fizetett munkaszüneti napokat is.
 
 (14) Az a foglalkoztatott, akinek az 1. § szerinti jogviszonya 2012. évben keletkezett és 2012. január 1-je és e jogviszony létrejötte között kizárólag e rendelet hatálya alá tartozó munkáltatóval állt munkavégzésre irányuló jogviszonyban, a (2)–(13) bekezdés alkalmazásával jogosult a kompenzációra.
+
+(15)[^1] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény alapján terhességi-gyermekágyi segélyben részesülők kompenzációjára vonatkozó előírásokat a terhességi-gyermekágyi segélyben és gyermekgondozási díjban részesülők számára nyújtott jövedelempótlékról szóló kormányrendelet tartalmazza.
+
+[^1]: A 2. § (15) bekezdését a 6/2012. (II. 1.) Korm. rendelet 14. §-a iktatta be.
