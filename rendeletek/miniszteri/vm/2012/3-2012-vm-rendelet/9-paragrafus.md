@@ -1,1 +1,0 @@
-## 8. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások körében a kistérségi közlekedési szolgáltatások fejlesztésére igénybe vehető támogatások részletes feltételeiről szóló 9/2008. (I. 24.) FVM rendelet 6. § (1) bekezdésében a „2012-től” szövegrész helyébe a „2013-tól” szöveg lép.

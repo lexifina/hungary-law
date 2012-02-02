@@ -1,1 +1,0 @@
-## 10. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki örökség megőrzéséhez igénybe vehető támogatások részletes feltételeiről szóló 138/2008. (X. 18.) FVM rendelet 6. § (1) bekezdésében a „február 1. és február 28.” szövegrész helyébe a „szeptember 1. és szeptember 30.” szöveg lép.
