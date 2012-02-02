@@ -1,1 +1,0 @@
-## „(5) Amennyiben a megrendelt állandó diákigazolvány az adatkezelőnek, az adatfeldolgozónak vagy a kiadó intézménynek felróható okból nem kerül határidőben kiadásra, a kiadó intézmény az ideiglenes diákigazolvány érvényességét meghosszabbítja.”
