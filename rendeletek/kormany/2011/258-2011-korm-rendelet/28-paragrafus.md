@@ -1,3 +1,3 @@
-## 27. §[^12]
+## 27. §[^14]
 
-[^12]: A 27. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^14]: A 27. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

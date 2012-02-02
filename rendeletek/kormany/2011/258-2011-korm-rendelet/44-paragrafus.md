@@ -1,3 +1,3 @@
-## 43. §[^35]
+## 43. §[^37]
 
-[^35]: A 43. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^37]: A 43. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
