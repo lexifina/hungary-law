@@ -28,22 +28,9 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: az Alapítvány bírósági törlését követően azonnal
 
-5. A Kormány által alapított közalapítványokkal és alapítványokkal kapcsolatos időszerű intézkedésekről szóló 1159/2010. (VII. 30.) Korm. határozat által előírt felülvizsgálati eljárás megállapításai alapján szükséges intézkedésekről szóló 1316/2010. (XII. 27.) Korm. határozat (a továbbiakban: Korm. hat.) 4. pontja a következő 4.8. alponttal egészül ki:
+5–7.[^1]
 
-(A Kormány megbízza az állami vagyon felügyeletéért felelős minisztert és a kormányzati tevékenység összehangolásáért felelős minisztert, hogy a közalapítványok és alapítványok által ellátott feladatok felett szakmai felügyeletet gyakorló miniszter bevonásával tegyék meg a szükséges intézkedéseket az alábbi közalapítványok és alapítványok megszüntetése érdekében azzal, hogy az érintett alapítványok, közalapítványok céljainak megvalósítása, feladatának további ellátása központi költségvetési szerv, illetve egyéb közfeladatot ellátó szervezet által történik. Az átalakítás során a megszüntetésre kerülő alapítvány vagy közalapítvány által ellátott feladatok tekintetében a szakmai szempontú döntéshozatali mechanizmus megerősítése érdekében tanácsadó testület hozható létre a megszüntetésre kerülő alapítvány vagy közalapítvány kuratóriumának bázisán.)
+8.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
-„4.8. Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Alapítvány,”
-
-6. A Korm. hat. 4. pontjában a „Határidő: 2011. június 15.; a 4.22. pont tekintetében 2011. december 31.” szövegrész helyébe a „Határidő: 2011. június 15., a 4.22. pont tekintetében 2011. december 31., valamint a 4.8. pont tekintetében az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Alapítvány megszüntetéséről szóló 1019/2012. (II. 1.) Korm. határozat hatálybalépését követően azonnal” szöveg lép.
-
-7. A Korm. hat. 5. pontja a következő 5.4. alponttal és 5.4.1. ponttal egészül ki:
-
-(A 4. pont szerint megszüntetésre kerülő alapítvány vagy közalapítvány működése felett szakmai felügyelet gyakorlásával a Kormány megbízza)
-
-„5.4. a nemzeti fejlesztési minisztert
-
-5.4.1. az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Alapítvány”
-
-(tekintetében.)
-
-8. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a Korm. hat. 1.3. és 3.3.1. pontja, valamint az Épület- és Lakásgazdálkodási Fenntartási Innovációs K+F Alapítvány közhasznú nonprofit gazdasági társasággá történő átalakításáról szóló 1120/2011. (IV. 28.) Korm. határozat.
+[^1]: Az 5–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
