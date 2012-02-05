@@ -4,8 +4,9 @@
 
 (2) A rendelet 40. § (2) bekezdése, illetve 41. §-a 2004. november 1-jével lép hatályba.
 
-(3)[^6]
+(3)[^16]
 
-(4) Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban a Tanácsnak a munkavállalók által a munkájuk során használt munkaeszközök biztonsági és egészségvédelmi minimumkövetelményeiről szóló 89/655 EGK irányelvével, valamint az ezt módosító 95/63/EK és a 2001/45/EK irányelvével összeegyeztethető szabályozást tartalmaz.
+(4)[^17]
 
-[^6]: A 60. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 8. §-ának 36. pontja hatályon kívül helyezte.
+[^16]: A 60. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 8. §-ának 36. pontja hatályon kívül helyezte.
+[^17]: A 60. § (4) bekezdését az 50/2011. (XII. 22.) NGM rendelet 15. §-a hatályon kívül helyezte.
