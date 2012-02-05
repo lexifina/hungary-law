@@ -1,0 +1,3 @@
+## 7. § Az R2. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A veszélyesnek nem minősülő munkaeszköz esetében – ha annak biztonsága függhet a szerelés körülményeitől – a szerelést követően és az üzemeltetés megkezdését megelőzően, valamint – ha a munkaeszközön az új munkahelyen történő felállítását megelőzően végeztek szerelési munkát – a használatba vétel előtt a megbízott személy ellenőrző felülvizsgálat keretében meggyőződik a biztonságos szerelésről, az egészséget nem veszélyeztető és biztonságos működés feltételeiről és körülményeiről a károsodások észlelésének és időben történő orvoslásának biztosítása érdekében.”

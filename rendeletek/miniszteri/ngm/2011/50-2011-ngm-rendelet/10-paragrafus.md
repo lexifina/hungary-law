@@ -1,0 +1,3 @@
+## 9. § Az R2. 19. § (2) bekezdésének helyébe a következő rendelkezés lép:
+
+## „(2) A munkaeszköz kezelője a fő kezelőhelyről egyértelműen meggyőződik arról, hogy senki sem tartózkodik a veszélyes térben. Ha ez nem lehetséges, automatikusan működő biztonsági jelzést – hangjelzés vagy világító jelzés formájában – ad a munkaeszköz elindítása előtt. A vezérlőberendezésnek, amely a munkaeszköz kezelője részére biztosítja a szükséges jelzést, biztonságosnak kell lennie, meghibásodása vagy megrongálódása nem idézhet elő veszélyes helyzetet. A vezérlőberendezésnek biztonságosnak kell lenniük és kiválasztásukkor kellően figyelembe kell venni azokat a meghibásodásokat, zavarokat és korlátokat, amelyekre a tervezett használat során számítani lehet.”

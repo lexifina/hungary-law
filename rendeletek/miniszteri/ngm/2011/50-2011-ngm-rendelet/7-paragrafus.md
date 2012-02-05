@@ -1,0 +1,1 @@
+## „e) munkaeszköz használata: a munkaeszközzel végzett tevékenység, úgymint az elindítás, leállítás, alkalmazás, szállítás, javítás, átalakítás, karbantartás, szervizelés, beleértve a tisztítást is;”
