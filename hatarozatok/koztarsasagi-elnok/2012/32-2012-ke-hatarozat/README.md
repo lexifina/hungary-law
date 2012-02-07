@@ -1,0 +1,9 @@
+# 32/2012. (II. 7.) KE határozat
+
+államtitkári kinevezésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-32-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-02-07 | 2012-32-30-76.1 | 32/2012. (II. 7.) KE határozat |
