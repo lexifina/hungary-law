@@ -1,0 +1,3 @@
+## 5. § A 29/2010. (III. 30.) FVM rendelet 8. §-a helyébe a következő rendelkezés lép:
+
+## „8. § Az egységes területalapú támogatás (SAPS) igénybevételét szolgáló 2010. évi egységes kérelem, a programba újonnan belépő zöldség-, gyümölcstermelők esetében a 2012. évi egységes kérelem benyújtása, valamint a 3. § (1) és (2) bekezdése szerinti nyilatkozat egyben az 1122/2009/EK bizottsági rendelet 2. cikk (14) pontja, valamint a rendeletben foglaltak szerinti különleges támogatás igénybevételére való jogosultság megállapítására, valamint e jogosultság alapján történő kifizetésre vonatkozó kérelemnek minősül.”
