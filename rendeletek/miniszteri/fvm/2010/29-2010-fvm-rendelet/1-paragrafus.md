@@ -10,21 +10,21 @@
 
 4.[^1] elismert élőmunka ráfordítás: természetes személy közteher fizetés melletti önfoglalkoztatása, valamint olyan munkavállaló alkalmazása, amely után a közterheket a termelő, munkaerő kölcsönzés vagy egyes munkafolyamatok vállalkozási szerződés keretében történő elvégzése esetében a termelővel kötött megállapodás alapján harmadik személy fizeti meg;
 
-5. elismert tevékenység: a termelő által saját nevében és saját kockázatára folytatott
+5.[^2] elismert tevékenység: a termelő által saját nevében, saját gazdaságában és saját kockázatára folytatott
 
-5. a) bármely mezőgazdasági, erdészeti, halászati, valamint
+a) bármely mezőgazdasági, erdészeti, halászati, valamint
 
-5. b) a jogosult településen folytatott és az Új Magyarország Vidékfejlesztési Program III. tengelye keretében meghatározott vidékfejlesztési tevékenység végzése;
+b) a jogosult településen folytatott és az Új Magyarország Vidékfejlesztési Program III. tengelye keretében meghatározott vidékfejlesztési tevékenység végzése;
 
 6. gyümölcs szerkezetátalakítási támogatási jogosultság: a gyümölcs referencia terület alapján megállapított, a zöldség, gyümölcs és dohány szerkezetátalakítási nemzeti program szerint az EMGA-ból finanszírozott különleges támogatás igénybevételére jogosító mezőgazdasági vagyoni értékű jog;
 
-7. gyümölcs referenciaterület: az a hektárban megállapított terület,
+7.[^3] gyümölcs referenciaterület: az a hektárban megállapított terület,
 
-7. a) amelynek alapján a gyümölcstermelő részére az 1. melléklet szerinti hasznosítási kódok szerint megjelölt és minimális hektáronkénti tőszámú gyümölcs ültetvény terület után az R. szerinti támogatás megállapításra került, és
+a) amelynek alapján a gyümölcstermelő részére az 1. melléklet szerinti hasznosítási kódok szerint megjelölt és minimális hektáronkénti tőszámú gyümölcs ültetvény terület után az R. szerinti támogatás megállapításra került,
 
-7. b) a 7.a) alpont szerint megjelölt egyes ültetvények esetében a gyümölcsfák hektáronkénti tőszáma minden megjelölt parcella esetében 2009. december 31-én elérte vagy meghaladta az 1. melléklet szerinti mértéket, és
+b) az a) alpont szerint megjelölt egyes ültetvények esetében a gyümölcsfák hektáronkénti tőszáma minden megjelölt parcella esetében 2009. december 31-én elérte vagy meghaladta az 1. melléklet szerinti mértéket, és
 
-7. c) a 7.b) alpont szerint megjelölt egyes ültetvények életkora 2009. december 31-én a telepítéstől számított 15 évnél nem idősebb;
+c) a b) alpont szerint megjelölt egyes ültetvények életkora 2009. december 31-én a telepítéstől számított 15 évnél nem idősebb;
 
 8. gyümölcstermelő: az az ügyfél, aki az R. II. fejezetében foglaltak alapján cseresznye, sárgabarack, meggy, körte, őszibarack, alma, szilva termelésére szolgáló terület után támogatást vett igénybe;
 
@@ -34,7 +34,7 @@
 
 11. referencia terület: a 2., a 7., a 17., és a 20. pontok szerinti referencia terület együtt;
 
-12.[^2] támogatási időszak: a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program 2010–2013. közötti teljes időtartama;
+12.[^4] támogatási időszak: a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program 2010–2013. közötti teljes időtartama;
 
 13. támogatási jogosultság: a 3., a 6., a 18. és a 19. pontok szerinti támogatási jogosultságok együtt;
 
@@ -55,4 +55,6 @@
 21. zöldségtermelő: az az ügyfél, aki, vagy amely az R. II. fejezetében foglaltak alapján spárga, dinnye, torma, fűszerpaprika termelésére szolgáló terület után támogatást vett igénybe.
 
 [^1]: Az 1. § 4. pontja a 48/2010. (XII. 31.) VM rendelet 5. §-ával megállapított szöveg.
-[^2]: Az 1. § 12. pontja az 56/2011. (VI. 17.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § 5. pontja a 4/2012. (II. 7.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 7. pontja a 4/2012. (II. 7.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 12. pontja az 56/2011. (VI. 17.) VM rendelet 1. §-ával megállapított szöveg.

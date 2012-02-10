@@ -26,7 +26,7 @@
 
 | 11. | szilva | ULT06 | 400 |
 
-2. melléklet a 29/2010. (III. 30.) FVM rendelethez[^32]
+2. melléklet a 29/2010. (III. 30.) FVM rendelethez[^30]
 
 ## A gyümölcs és a Virginia dohány szerkezetátalakítási támogatási jogosultság egységértékének kiszámítása
 
@@ -36,18 +36,18 @@ ahol:
 
 TÁMgy: a gyümölcs szerkezetátalakítási támogatási jogosultság egységértéke
 
-TERz: 2010-ben a zöldség szerkezetátalakítási támogatási jogosultságok aktiválásához megállapított összes terület
+TERz: a zöldség szerkezetátalakítási támogatási jogosultságok a 10. § (2) bekezdése alapján megállapított összes területe
 
-TERgy: 2010-ben a gyümölcs szerkezetátalakítási támogatási jogosultságok aktiválásához megállapított összes terület
+TERgy: a gyümölcs szerkezetátalakítási támogatási jogosultságok a 10. § (2) bekezdése alapján megállapított összes területe
 
-2. TÁMv = 22,126,200 Euró/(TERb × 0,897 + TERv)
+2. TÁMv = 24,200,000 Euró/(TERb × 0,897 + TERv)
 
 ahol:
 
 TÁMv: a Virginia dohány szerkezetátalakítási támogatási jogosultság egységértéke
 
-TERb: a 2010-ben a Burley dohány szerkezetátalakítási támogatási jogosultságok aktiválásához megállapított összes terület
+TERb: a Burley dohány szerkezetátalakítási támogatási jogosultságok a 10. § (4) bekezdése alapján megállapított összes területe
 
-TERv: 2010-ben a Virginia dohány szerkezetátalakítási támogatási jogosultságok aktiválásához megállapított összes terület
+TERv: a Virginia dohány szerkezetátalakítási támogatási jogosultságok a 10. § (4) bekezdése alapján megállapított összes területe
 
-[^32]: A 2. melléklet az 56/2011. (VI. 17.) VM rendelet 9. §-ával megállapított szöveg.
+[^30]: A 2. melléklet a 4/2012. (II. 7.) VM rendelet 12. §-ával megállapított szöveg.

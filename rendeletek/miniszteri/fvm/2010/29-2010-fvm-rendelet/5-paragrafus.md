@@ -1,3 +1,5 @@
-5. § (1) Elismert élőmunka ráfordításnak, elismert tevékenységnek – a (2) bekezdésben foglaltakra is figyelemmel – csak az a 3. § (2) bekezdésében megjelölt településen végzett elismert tevékenység vehető figyelembe, amelyről a termelő nyilatkozik. A termelő az ellenőrzés alkalmával köteles igazolni, hogy e feltétel teljesítését milyen módon teljesítette.
+5. § (1)[^7] Elismert élőmunka ráfordításnak, elismert tevékenységnek – a (2) bekezdésben foglaltakra is figyelemmel – csak az a 3. § (2) bekezdésében megjelölt településen végzett elismert tevékenység vehető figyelembe, amelyről a termelő nyilatkozik. A termelő az ellenőrzés alkalmával köteles a vonatkozó jogszabályokban foglaltaknak megfelelően igazolni, hogy e feltétel teljesítését milyen módon teljesítette.
 
 (2) Ha a termelő az elismert élő munka ráfordítást az Új Magyarország Vidékfejlesztési Program III. tengelye keretében meghatározott vidékfejlesztési tevékenység keretében történő foglalkoztatással kívánja teljesíteni, akkor ebben az esetben az általa 2009. december 31-e után újonnan foglalkoztatott munkavállalók foglalkoztatását lehet figyelembe venni. A rendelkezés alkalmazásában újonnan történő foglalkoztatásnak minősül, ha a munkavállalót a termelő 2009-ben nem alkalmazta.
+
+[^7]: Az 5. § (1) bekezdése a 4/2012. (II. 7.) VM rendelet 13. § (1) bekezdése szerint módosított szöveg.

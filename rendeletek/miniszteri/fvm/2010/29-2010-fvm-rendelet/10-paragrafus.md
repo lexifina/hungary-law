@@ -1,11 +1,17 @@
-10. § (1) A támogatási jogosultság egységértékét – a (2)–(4) bekezdésben foglaltakra is figyelemmel – a 2010-ben összes termelő részére jóváhagyott zöldség, gyümölcs, Virginia, valamint Burley dohány referencia terület, és az EMGA-ból a rendeletben meghatározott zöldség, gyümölcs, Virginia, valamint Burley dohány szerkezetátalakítására elkülönített összeg hányadosaként jogszabály egyes termékenként külön-külön euróban állapítja meg.
+10. §[^16] (1) A zöldség, gyümölcs támogatási jogosultságok egységértékét a (5) és (7) bekezdésben foglaltakra figyelemmel külön zöldségre és gyümölcsre, euróban, termelőnként kell megállapítani.
 
-(2) Az (1) bekezdés alkalmazásakor a zöldség szerkezetátalakítási támogatási jogosultság egységértékének megállapításához a gyümölcs szerkezetátalakítási támogatási jogosultság egységértékét 0,636-del kell szorozni.
+(2) Az (1) bekezdésben foglalt egységértékhez kapcsolódó zöldség és gyümölcs terület megállapításához figyelembe veendő egyrészről a 2010-ben bejelentkezett termelő vonatkozásában a 2012. június 9. napján tulajdonában lévő jogosultságok számával megegyező hektár számú földterület, vagy a 2012. évi megállapított SAPS területei közül az alacsonyabb, továbbá a 2012. évben újonnan bejelentkezett termelő esetében a jogosult referenciaterülete és a 2012. évben megállapított SAPS területe közül az alacsonyabb.
 
-(3) Az (1) bekezdés alkalmazásakor a Burley dohány szerkezetátalakítási támogatási jogosultság egységértékének megállapításához a Virginia dohány szerkezetátalakítási támogatási jogosultság egységértékét 0,897-del kel szorozni.
+(3) A Virginia és Burley támogatási jogosultságok egységértékét a (6) és (7) bekezdésben foglaltakra figyelemmel külön-külön, euróban, termelőnként a 12. §-ban szereplő keretösszeg és a (4) bekezdésben foglalt terület hányadosaként kell megállapítani.
 
-(4)[^13] A gyümölcs és Virginia dohány szerkezetátalakítási támogatási jogosultság egységértékét a 2. melléklet szerinti képlet alapján kell meghatározni.
+(4) A (3) bekezdésben foglalt egységértékhez kapcsolódó Burley és Virginia dohány terület megállapításához figyelembe veendő a 2010-ben bejelentkezett termelő vonatkozásában a 2012. június 9. napján tulajdonában lévő jogosultságok számával megegyező hektár számú földterület, vagy a 2012. évi megállapított SAPS területei közül az alacsonyabb.
 
-(5) A támogatási jogosultság egységértéke a közösségi jogi aktusban meghatározott esetben és jogszabályban meghatározottak szerint csökkenthető.
+(5) Az (1) és (2) bekezdés alkalmazásakor a zöldség szerkezetátalakítási támogatási jogosultság egységértékének megállapításához a gyümölcs szerkezetátalakítási támogatási jogosultság egységértékét 0,636-del kell szorozni.
 
-[^13]: A 10. § (4) bekezdése az 56/2011. (VI. 17.) VM rendelet 10. § d) pontja szerint módosított szöveg.
+(6) A (3) és (4) bekezdés alkalmazásakor a Burley dohány szerkezetátalakítási támogatási jogosultság egységértékének megállapításához a Virginia dohány szerkezetátalakítási támogatási jogosultság egységértékét 0,897-del kell szorozni.
+
+(7) A gyümölcs és Virginia dohány szerkezetátalakítási támogatási jogosultság egységértékét a 2. melléklet szerinti képlet alapján kell meghatározni.
+
+(8) A támogatási jogosultság egységértéke utáni kifizetés a közösségi jogi aktusban meghatározott esetben és jogszabályban meghatározottak szerint csökkenthető.
+
+[^16]: A 10. § a 4/2012. (II. 7.) VM rendelet 7. §-ával megállapított szöveg.
