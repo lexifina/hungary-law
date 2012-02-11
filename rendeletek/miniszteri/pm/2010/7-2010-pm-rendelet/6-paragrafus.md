@@ -1,6 +1,6 @@
-## 5. §[^1]
+## 5. §[^3]
 
-6. §[^2]
+6. §[^4]
 
-[^1]: Az 5. §-t a 6. § (1) bekezdése hatályon kívül helyezte.
-[^2]: A 6. § a (2) bekezdés alapján hatályát vesztette.
+[^3]: Az 5. §-t a 6. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 6. § a (2) bekezdés alapján hatályát vesztette.
