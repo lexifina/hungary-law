@@ -1,6 +1,6 @@
 | Földmérési és Távérzékelési Intézet 1149 Budapest Bosnyák tér 5. |  |  |  |
 
-| Munkaszám: | TERÜLETKIMUTATÁS a Magyar Köztársaság és a Szlovák Köztársaság államhatárának változásáról | Tésa külterület | község, város |
+| Munkaszám: | TERÜLETKIMUTATÁS Magyarország és a Szlovák Köztársaság államhatárának változásáról | Tésa külterület | község, város |
 
 | V Á L T O Z Á S E L Ő T T | V Á L T O Z Á S U T Á N |
 
