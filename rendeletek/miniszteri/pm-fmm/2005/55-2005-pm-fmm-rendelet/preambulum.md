@@ -1,1 +1,0 @@
-A foglalkoztatás bővítése és rugalmasabbá tétele érdekében szükséges intézkedésekről szóló 2005. évi CLXXX. törvény (a továbbiakban. Fbtv.) 17. §-ában kapott felhatalmazás alapján a következőket rendeljük el.
