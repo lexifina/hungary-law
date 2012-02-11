@@ -1,6 +1,6 @@
 ## 12. Központi és bázis törzsültetvény létesítése, üzemeltetése
 
-21. §[^19] (1) Központi (prebázis) törzsültetvény létesítésére szűrő faiskolában előállított, az MgSzH által fémzárolt és károsítóktól mentesnek minősített, hatóságilag ellenőrzött, vagy a károsítóktól mentes, és minőségi származási igazolvánnyal ellátott ültetési anyag használható fel. Külföldről behozott gyümölcs szaporítóanyag csak a vírustesztelések után használható fel, kivéve, ha annak növényegészségügyi alkalmasságát az MgSzH a bemutatott bizonylatok alapján igazolja.
+21. §[^20] (1) Központi (prebázis) törzsültetvény létesítésére szűrő faiskolában előállított, az MgSzH által fémzárolt és károsítóktól mentesnek minősített, hatóságilag ellenőrzött, vagy a károsítóktól mentes, és minőségi származási igazolvánnyal ellátott ültetési anyag használható fel. Külföldről behozott gyümölcs szaporítóanyag csak a vírustesztelések után használható fel, kivéve, ha annak növényegészségügyi alkalmasságát az MgSzH a bemutatott bizonylatok alapján igazolja.
 
 (2) A szűrő faiskolából kikerülő ültetési anyagot – az alany fajták kivételével – gyümölcs szaporítóanyagot termő központi törzsültetvénybe és egyidejűleg ugyanazon tételből törzsgyümölcsösbe kell kihelyezni.
 
@@ -12,4 +12,4 @@
 
 (6) A központi törzsültetvény növényállományát a saját állományból történő megújítás lehetőségének hiányában a törzsgyümölcsösből vagy a fajtafenntartó által megjelölt törzsfáról származó gyümölcs szaporítóanyag felhasználásával, szűrő faiskolában előállított ültetési anyaggal kell leváltani.
 
-[^19]: A 21. § a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
+[^20]: A 21. § a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.

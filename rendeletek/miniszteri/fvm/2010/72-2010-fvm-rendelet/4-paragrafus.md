@@ -1,8 +1,8 @@
 ## 3. A gyümölcs szaporítóanyagok előállításának és forgalomba hozatalának általános követelményei
 
-4. § (1)[^11] Gyümölcs szaporítóanyagot kizárólag az MgSzH által engedélyezett faiskolában, illetve szaporítás céljára engedélyezett ültetvényben szabad forgalomba hozatal céljára előállítani. Forgalomba hozatal céljából szaporítani – a kísérleti, nemesítési és génmegőrzési célból végzett szaporítások, valamint a céltermeltetés kivételével – csak azokat a fajtákat, klónokat szabad, amelyek a Nemzeti Fajtajegyzékben, a Szállítói Fajtajegyzékben szerepelnek, más tagállamban elismertek, növényfajta-oltalommal védettek vagy egyedi szaporítási engedéllyel rendelkeznek. Más tagállamokban elismert, hivatalos (DUS) leírással nem rendelkező gyümölcsfajták csak a Szállítói Fajtajegyzékre vételt követően szaporíthatók.
+4. § (1)[^12] Gyümölcs szaporítóanyagot kizárólag az MgSzH által engedélyezett faiskolában, illetve szaporítás céljára engedélyezett ültetvényben szabad forgalomba hozatal céljára előállítani. Forgalomba hozatal céljából szaporítani – a kísérleti, nemesítési és génmegőrzési célból végzett szaporítások, valamint a céltermeltetés kivételével – csak azokat a fajtákat, klónokat szabad, amelyek a Nemzeti Fajtajegyzékben, a Szállítói Fajtajegyzékben szerepelnek, más tagállamban elismertek, növényfajta-oltalommal védettek vagy egyedi szaporítási engedéllyel rendelkeznek. Más tagállamokban elismert, hivatalos (DUS) leírással nem rendelkező gyümölcsfajták csak a Szállítói Fajtajegyzékre vételt követően szaporíthatók.
 
-(2)[^12] Gyümölcs szaporítóanyagot kizárólag az MgSzH által engedélyezett faiskolában, illetve szaporítás céljára engedélyezett ültetvényben szabad forgalomba hozatal céljára előállítani. Forgalomba hozatal céljából szaporítani – a kísérleti, nemesítési és génmegőrzési célból végzett szaporítások, valamint a céltermeltetés kivételével – csak azokat a fajtákat, klónokat szabad, amelyek a Nemzeti Fajtajegyzékben szerepelnek, más tagállamban elismertek, növényfajtaoltalommal védettek, növényfajta-oltalom vagy állami elismerés iránt bejelentettek.
+(2)[^13] Gyümölcs szaporítóanyagot kizárólag az MgSzH által engedélyezett faiskolában, illetve szaporítás céljára engedélyezett ültetvényben szabad forgalomba hozatal céljára előállítani. Forgalomba hozatal céljából szaporítani – a kísérleti, nemesítési és génmegőrzési célból végzett szaporítások, valamint a céltermeltetés kivételével – csak azokat a fajtákat, klónokat szabad, amelyek a Nemzeti Fajtajegyzékben szerepelnek, más tagállamban elismertek, növényfajtaoltalommal védettek, növényfajta-oltalom vagy állami elismerés iránt bejelentettek.
 
 (3) A certifikációs rendszer keretében nem szaporíthatóak a Szállítói fajtajegyzéken szereplő fajták.
 
@@ -18,5 +18,5 @@ b) a C.A.C. szaporító alapanyag előállító ültetvények üzemeltetésérő
 
 c) az előállított szaporítóanyag kategóriájáról.
 
-[^11]: A 4. § (1) bekezdése a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
-[^12]: A 4. § (2) bekezdése a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
+[^12]: A 4. § (1) bekezdése a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
+[^13]: A 4. § (2) bekezdése a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.

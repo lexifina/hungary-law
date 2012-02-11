@@ -68,7 +68,7 @@ bd) amely a hivatalos vizsgálatok alkalmával megfelelt az ba)–bd) pontban sz
 
 12. Fajtatiszta szaporítóanyag: a tétel vagy csomagolási egység megjelölésétől eltérő fajtájú, alanyú egyedet nem tartalmazó szaporítóanyag.
 
-13. Harmadik ország: bármely ország a Magyar Köztársaság és az Európai Unió tagállamain (a továbbiakban: tagállam) kívül.
+13.[^5] Harmadik ország: bármely ország Magyarország és az Európai Unió tagállamain (a továbbiakban: tagállam) kívül.
 
 14. Házi faiskola: ültetési anyagot kizárólag saját felhasználás céljára előállító, szaporítóanyag forgalomba hozatalára nem jogosult faiskola.
 
@@ -82,7 +82,7 @@ bd) amely a hivatalos vizsgálatok alkalmával megfelelt az ba)–bd) pontban sz
 
 19. Magtermő törzsültetvény: generatív szaporítású alanyfajták vegetatív úton előállított ültetési anyagával telepített, magot termő ültetvény.
 
-20.[^5] Prebázis szaporítóanyag: a központi (prebázis) törzsültetvény létesítésére szolgáló növényanyag, amely
+20.[^6] Prebázis szaporítóanyag: a központi (prebázis) törzsültetvény létesítésére szolgáló növényanyag, amely
 
 a) előállítása során fajtatulajdonságait megőrizte,
 
@@ -92,7 +92,7 @@ c) hivatalos ellenőrzések eredményeképpen minősítést kapott, valamint
 
 d) továbbszaporítása során bázis szaporítóanyag előállítására szolgál.
 
-21.[^6] Prebázis szaporítóanyag: olyan szaporítóanyag,
+21.[^7] Prebázis szaporítóanyag: olyan szaporítóanyag,
 
 a) amelyet általánosan elfogadott módszerek alapján állítottak elő, melyek biztosítják a fajta azonosságának, fontos pomológiai jellemzőinek és növényegészségügyi állapotának megőrzését;
 
@@ -120,13 +120,13 @@ d) amely a hivatalos vizsgálatok alkalmával megfelel az a)–c) pontban szerep
 
 30. Törzskönyvi előjegyzés: törzskönyvezés céljára telepített vagy kijelölt, de a fajtaazonosság elbírálására még nem alkalmas, illetve államilag még nem elismert fajtájú növényállomány hivatalos nyilvántartásba vétele.
 
-31.[^7] Üzemi (bázis) törzsültetvény: bázis szaporítóanyagból létesített, certifikált fokozatú szaporítóanyag előállítására szolgáló, az MgSzH által törzsültetvénnyé minősített növényállomány.
+31.[^8] Üzemi (bázis) törzsültetvény: bázis szaporítóanyagból létesített, certifikált fokozatú szaporítóanyag előállítására szolgáló, az MgSzH által törzsültetvénnyé minősített növényállomány.
 
-32.[^8] Üzemi (certifikált) törzsültetvény: perbázis vagy bázis szaporítóanyagból létesített, certifikált fokozatú szaporítóanyag előállítására szolgáló, az MgSzH által törzsültetvénnyé minősített növényállomány.
+32.[^9] Üzemi (certifikált) törzsültetvény: perbázis vagy bázis szaporítóanyagból létesített, certifikált fokozatú szaporítóanyag előállítására szolgáló, az MgSzH által törzsültetvénnyé minősített növényállomány.
 
-33.[^9] Üzemi (bázis) törzsültetvény jelölt: bázis szaporítóanyagból létesített, certifikált szaporítóanyag előállítására szolgáló, de az MgSzH által törzsültetvénnyé még nem minősített növényállomány.
+33.[^10] Üzemi (bázis) törzsültetvény jelölt: bázis szaporítóanyagból létesített, certifikált szaporítóanyag előállítására szolgáló, de az MgSzH által törzsültetvénnyé még nem minősített növényállomány.
 
-34.[^10] Üzemi (certifikált) törzsültetvény jelölt: perbázis vagy bázis szaporítóanyagból létesített, certifikált szaporítóanyag előállítására szolgáló, de az MgSzH által törzsültetvénnyé még nem minősített növényállomány.
+34.[^11] Üzemi (certifikált) törzsültetvény jelölt: perbázis vagy bázis szaporítóanyagból létesített, certifikált szaporítóanyag előállítására szolgáló, de az MgSzH által törzsültetvénnyé még nem minősített növényállomány.
 
 35. Vegetatív szaporító alapanyagot termő törzsültetvény: szemzőhajtás, oltóvessző, dugvány, bujtvány, sarj, palánta előállítására létesített ültetvény.
 
@@ -148,9 +148,10 @@ c) Vírustesztelt (VT) szaporítóanyag: olyan anyanövényekről, illetve azok 
 [^2]: A 3. § 2. pontja a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
 [^3]: A 3. § 5. pontja a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
 [^4]: A 3. § 6. pontja a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
-[^5]: A 3. § 20. pontja a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
-[^6]: A 3. § 21. pontja a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
-[^7]: A 3. § 31. pontja a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
-[^8]: A 3. § 32. pontja a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
-[^9]: A 3. § 33. pontja a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
-[^10]: A 3. § 34. pontja a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
+[^5]: A 3. § 13. pontja az 5/2012. (II. 10.) VM rendelet 53. §-a szerint módosított szöveg.
+[^6]: A 3. § 20. pontja a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
+[^7]: A 3. § 21. pontja a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
+[^8]: A 3. § 31. pontja a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
+[^9]: A 3. § 32. pontja a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
+[^10]: A 3. § 33. pontja a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
+[^11]: A 3. § 34. pontja a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
