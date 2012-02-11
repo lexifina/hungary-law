@@ -2,13 +2,13 @@
 
 ## 6. § E rendelet a következő rendeletek tagállami végrehajtását igénylő rendelkezéseket tartalmazza:
 
-a)[^2] a cukorágazat piacának közös szervezéséről szóló 318/2006/EK tanácsi rendelet;
+a)[^4] a cukorágazat piacának közös szervezéséről szóló 318/2006/EK tanácsi rendelet;
 
-b)[^3] a cukor intervenciós hivatalok által történő felvásárlása és értékesítése tekintetében az 1260/2001/EK tanácsi rendelet végrehajtása részletes szabályainak megállapításáról szóló 1262/2001/EK rendelet módosításáról szóló 218/2006/EK bizottsági rendelet;
+b)[^5] a cukor intervenciós hivatalok által történő felvásárlása és értékesítése tekintetében az 1260/2001/EK tanácsi rendelet végrehajtása részletes szabályainak megállapításáról szóló 1262/2001/EK rendelet módosításáról szóló 218/2006/EK bizottsági rendelet;
 
-c)[^4] a cukor belső piaca és a kvótarendszer irányítása tekintetében a 318/2006/EK tanácsi rendelet alkalmazásának részletes szabályairól szóló 952/2006/EK rendelete.
+c)[^6] a cukor belső piaca és a kvótarendszer irányítása tekintetében a 318/2006/EK tanácsi rendelet alkalmazásának részletes szabályairól szóló 952/2006/EK rendelete.
 
-Melléklet a 33/2005. (IV. 12.) FVM rendelethez[^5]
+Melléklet a 33/2005. (IV. 12.) FVM rendelethez[^7]
 
 Az intervenciós cukorraktárakkal szembeni követelmények
 
@@ -70,7 +70,7 @@ Az intervenciós cukorraktárakkal szembeni követelmények
 
 | 28. Intervenciós készlet elkülönített tárolása biztosított | igen | igen |
 
-[^2]: A 6. § a) pontja a 3/2007. (I. 16.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005/2006-os gazdasági évben termelt cukorkészlet, illetve a 2006. február 10. előtt intervencióra befogadott cukorkészlet tekintetében nem kell alkalmazni.
-[^3]: A 6. § b) pontja a 3/2007. (I. 16.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005/2006-os gazdasági évben termelt cukorkészlet, illetve a 2006. február 10. előtt intervencióra befogadott cukorkészlet tekintetében nem kell alkalmazni.
-[^4]: A 6. § c) pontját a 3/2007. (I. 16.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005/2006-os gazdasági évben termelt cukorkészlet, illetve a 2006. február 10. előtt intervencióra befogadott cukorkészlet tekintetében nem kell alkalmazni.
-[^5]: A melléklet a 3/2007. (I. 16.) FVM rendelet 3. §-a szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján rendelkezéseit a 2005/2006-os gazdasági évben termelt cukorkészlet, illetve a 2006. február 10. előtt intervencióra befogadott cukorkészlet tekintetében nem kell alkalmazni.
+[^4]: A 6. § a) pontja a 3/2007. (I. 16.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005/2006-os gazdasági évben termelt cukorkészlet, illetve a 2006. február 10. előtt intervencióra befogadott cukorkészlet tekintetében nem kell alkalmazni.
+[^5]: A 6. § b) pontja a 3/2007. (I. 16.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005/2006-os gazdasági évben termelt cukorkészlet, illetve a 2006. február 10. előtt intervencióra befogadott cukorkészlet tekintetében nem kell alkalmazni.
+[^6]: A 6. § c) pontját a 3/2007. (I. 16.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005/2006-os gazdasági évben termelt cukorkészlet, illetve a 2006. február 10. előtt intervencióra befogadott cukorkészlet tekintetében nem kell alkalmazni.
+[^7]: A melléklet a 3/2007. (I. 16.) FVM rendelet 3. §-a szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján rendelkezéseit a 2005/2006-os gazdasági évben termelt cukorkészlet, illetve a 2006. február 10. előtt intervencióra befogadott cukorkészlet tekintetében nem kell alkalmazni.
