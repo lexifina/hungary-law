@@ -298,7 +298,7 @@
 
 | D17 | A munkavégzéssel vagy a munkakörnyezettel kapcsolatos egyéb betegségek |
 
-3. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^17]
+3. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^28]
 
 ## A foglalkozási betegségek és fokozott expozíciós esetek jelentési és nyilvántartási rendje
 
@@ -330,8 +330,10 @@ II. Az esetek nyilvántartása
 
 - kiváltó ok, munkakörülmény, rendelkezésre álló higiénés adat.
 
-2. A munkavédelmi felügyelőség a bejelentett foglalkozási betegségekkel, fokozott expozíciós esetekkel kapcsolatos, az 1. pont szerinti csoportosításban nyilvántartott adatokat folyamatosan megküldi az OMFI-nak. Az OMFI az 5. § (8) bekezdésében leírtak szerint vizsgálja a bejelentés szakmai megalapozottságát, a vizsgálat teljeskörűségét.
+2.[^29] A munkavédelmi felügyelőség a bejelentett foglalkozási betegségekkel, fokozott expozíciós esetekkel kapcsolatos, az 1. pont szerinti csoportosításban nyilvántartott adatokat folyamatosan megküldi a munkavédelmi és munkaügyi igazgatóságnak. A munkavédelmi és munkaügyi igazgatóság az 5. § (8) bekezdésében leírtak szerint vizsgálja a bejelentés szakmai megalapozottságát, a vizsgálat teljeskörűségét.
 
-3. Az OMFI az Országos Statisztikai Adatszolgáltatási Program (OSAP) által előírt jelentési rendnek megfelelően évenként országos összesítő jelentést készít.
+3.[^30] A munkavédelmi és munkaügyi igazgatóság az Országos Statisztikai Adatszolgáltatási Program (OSAP) által előírt jelentési rendnek megfelelően évenként országos összesítő jelentést készít.
 
-[^17]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 22. § (2) bekezdése alapján a 3. számú melléklet szerint nyilvántartásba vett adatokat az ÁNTSZ munkáltató székhelye szerint illetékes városi (fővárosi kerületi) intézete a 2007. május 13. napját követő 30 napon belül átadja az Országos Munkavédelmi és Munkaügyi Felügyelőség munkáltató székhelye szerint illetékes területi munkavédelmi felügyelőségének.
+[^28]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 22. § (2) bekezdése alapján a 3. számú melléklet szerint nyilvántartásba vett adatokat az ÁNTSZ munkáltató székhelye szerint illetékes városi (fővárosi kerületi) intézete a 2007. május 13. napját követő 30 napon belül átadja az Országos Munkavédelmi és Munkaügyi Felügyelőség munkáltató székhelye szerint illetékes területi munkavédelmi felügyelőségének.
+[^29]: A 3. számú melléklet II. alcím 2. pontja a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^30]: A 3. számú melléklet II. alcím 3. pontja a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés i) pontja szerint módosított szöveg.

@@ -18,7 +18,7 @@
 
 | 2 – Foglalkozás-egészségügyi szakellátó hely orvosa |
 
-| 3 – OMFI |
+| 3 – Nemzeti Munkaügyi Hivatal munkavédelmi és munkaügyi igazgatósága |
 
 | 4 – egyéb orvos |
 
@@ -450,6 +450,6 @@
 
 | FEOR kód: (KSH) | Foglalkozások Egységes Osztályozási Rendszere (Korszerűsített jegyzék) FEOR-93 |
 
-5. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^19]
+5. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^32]
 
-[^19]: Az 5. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 5. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg.

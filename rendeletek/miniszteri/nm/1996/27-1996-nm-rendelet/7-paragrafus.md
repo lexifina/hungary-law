@@ -1,4 +1,4 @@
-## 6. §[^11] A munkaegészségügyi szabálytalanságok megszüntetésére, a hasonló esetek előfordulásának megelőzésére a munkavédelmi felügyelőség szükség esetén intézkedik. Közegészségügyi-járványügyi szabálytalanság észlelése esetén a munkavédelmi felügyelőség értesíti a kistérségi népegészségügyi intézetet.
+## 6. §[^22] A munkaegészségügyi szabálytalanságok megszüntetésére, a hasonló esetek előfordulásának megelőzésére a munkavédelmi felügyelőség szükség esetén intézkedik. Közegészségügyi-járványügyi szabálytalanság észlelése esetén a munkavédelmi felügyelőség értesíti a kistérségi népegészségügyi intézetet.
 
 ## A helyi feladatok meghatározása
 
@@ -8,7 +8,7 @@ a) a munkavállaló megbetegedésével, fokozott expozíciós esetével összef�
 
 b) a kivizsgálást elősegíteni, a kórisme felállításához szükséges orvosi és higiénés vizsgálatok elvégeztetéséről, a 6. §-ban említett intézkedések végrehajtásáról gondoskodni;
 
-c)[^12] halálos, tömeges foglalkozási betegség, tömeges fokozott expozíció, illetve ugyanazon kóroki tényezőre visszavezethető, ugyanazon tevékenységgel kapcsolatosan ismételten előforduló fokozott expozíciók esetén az Mvt. 23. §-ának (2) bekezdése szerinti soron kívüli ellenőrzést lefolytatni, és az 54. §-ának (3) bekezdése szerinti soron kívüli kockázatértékelést elvégezni.
+c)[^23] halálos, tömeges foglalkozási betegség, tömeges fokozott expozíció, illetve ugyanazon kóroki tényezőre visszavezethető, ugyanazon tevékenységgel kapcsolatosan ismételten előforduló fokozott expozíciók esetén az Mvt. 23. §-ának (2) bekezdése szerinti soron kívüli ellenőrzést lefolytatni, és az 54. §-ának (3) bekezdése szerinti soron kívüli kockázatértékelést elvégezni.
 
-[^11]: A 6. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^12]: A 7. § c) pontját a 18/2007. (V. 10.) SZMM rendelet 5. § (8) bekezdése iktatta be.
+[^22]: A 6. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^23]: A 7. § c) pontját a 18/2007. (V. 10.) SZMM rendelet 5. § (8) bekezdése iktatta be.
