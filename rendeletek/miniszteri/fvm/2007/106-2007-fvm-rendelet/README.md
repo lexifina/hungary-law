@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-106-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2007-106-20-82.9 | 106/2007. (IX. 24.) FVM rendelet |
+| 2012-02-11 | 2007-106-20-82.10 | 5/2012. (II. 10.) VM rendelet |

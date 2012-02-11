@@ -26,7 +26,7 @@ i) átírás: átruházás, ideiglenes átengedés, öröklés, jogutódlás, le
 
 j)[^4] teljes gazdaság:
 
-ja) a mezőgazdasági termelő által hasznosított, a Magyar Köztársaság területén fekvő, és az R. 6. §-a alapján bejelentett mezőgazdasági területek összessége,
+ja)[^5] a mezőgazdasági termelő által hasznosított, Magyarország területén fekvő, és az R. 6. §-a alapján bejelentett mezőgazdasági területek összessége,
 
 jb) a mezőgazdasági termelő rendelkezésére álló egyéni támogatási jogosultság és kvóta összessége, valamint
 
@@ -38,3 +38,4 @@ k) ENAR nyilvántartás: a szarvasmarha-fajok egyedeinek jelöléséről, valami
 [^2]: Az 1. § b) pontja a 37/2009. (IV. 3.) FVM rendelet 54. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § c) pontja a 37/2009. (IV. 3.) FVM rendelet 54. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § j) pontja a 37/2009. (IV. 3.) FVM rendelet 54. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § j) pont ja)alpontja az 5/2012. (II. 10.) VM rendelet 32. §-a szerint módosított szöveg.
