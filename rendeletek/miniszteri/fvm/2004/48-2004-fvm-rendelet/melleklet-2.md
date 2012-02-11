@@ -802,9 +802,9 @@
 
 | 2,2 mm | őszi búza; kétsoros árpa |
 
-## 3. A Magyar Köztársaságban minősítésre kerülő I. szaporítási fokú kukorica vetőmagnak osztályozottnak kell lennie. Az osztályozási méreteket az okmányokon és a csomagolási egységeken fel kell tüntetni. A mérethűségnek a megadott méretenként legalább 95%-osnak kell lennie.
+## 3. Magyarországon minősítésre kerülő I. szaporítási fokú kukorica vetőmagnak osztályozottnak kell lennie. Az osztályozási méreteket az okmányokon és a csomagolási egységeken fel kell tüntetni. A mérethűségnek a megadott méretenként legalább 95%-osnak kell lennie.
 
-## 4. A Magyar Köztársaságban előállított csupasz zab és csupasz típusú árpa vetőmagtételek első fémzárolásánál és vizsgálatánál a pelyvás szemtartalom legfeljebb 5% lehet.
+## 4. Magyarországon előállított csupasz zab és csupasz típusú árpa vetőmagtételek első fémzárolásánál és vizsgálatánál a pelyvás szemtartalom legfeljebb 5% lehet.
 
 ## D. rész
 
@@ -1082,7 +1082,7 @@
 
 |  | □ és II. szaporítási fok | 4,0% |
 
-2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^129]
+2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^144]
 
 ## A répafélék vetőmagvainak forgalomba hozatali feltételei
 
@@ -1250,4 +1250,4 @@ b) a tömeg feltüntetésénél – ha bármilyen szemcsés növényvédőszer, 
 
 c) monogerm vetőmag esetében a „monogerm”, precíziós vetőmag esetében pedig a „precíziós” megjelölés.
 
-[^129]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése szerint módosított szöveg.
+[^144]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése szerint módosított szöveg.

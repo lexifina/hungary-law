@@ -1,10 +1,10 @@
-## 12. §[^30]
+## 12. §[^32]
 
 ## A szántóföldi vetőmag-szaporítások ellenőrzésének általános követelményei
 
 13. § (1) A szántóföldi vetőmag-szaporítás ellenőrzésének célja annak igazolása, hogy az előállított fajta igazolt vetőmagja egy vagy több generáción keresztül a fajta hiteles alapanyagából, vetőmagjából származik és annak tulajdonságait a felszaporítás során megtartotta.
 
-(2)[^31] Az 1–5. számú melléklet A. részeiben foglalt növényfajok fajtáinak az Európai Unión belüli forgalmazási célú, valamint export célú vetőmag-szaporításait hivatalos szántóföldi ellenőrzésben kell részesíteni. Az 1., 3. és 4. számú melléklet D. részeiben foglalt növényfajok hivatalos szántóföldi ellenőrzésben részesíthetők a vetőmag-előállító szándéka szerint. A hivatalos szántóföldi ellenőrzést az MgSzH végzi.
+(2)[^33] Az 1–5. számú melléklet A. részeiben foglalt növényfajok fajtáinak az Európai Unión belüli forgalmazási célú, valamint export célú vetőmag-szaporításait hivatalos szántóföldi ellenőrzésben kell részesíteni. Az 1., 3. és 4. számú melléklet D. részeiben foglalt növényfajok hivatalos szántóföldi ellenőrzésben részesíthetők a vetőmag-előállító szándéka szerint. A hivatalos szántóföldi ellenőrzést az MgSzH végzi.
 
 (3) Az Európai Unió határain belül felhasználásra kerülő, elit szaporítási foknál alacsonyabb szaporítási fokú vetőmag-előállításnak a 12. §-ban foglaltak szerint végzett szántóföldi ellenőrzése és minősítése hivatalos szántóföldi ellenőrzésnek minősül.
 
@@ -12,5 +12,5 @@
 
 (5) Az ellenőrzést végző személynek szakmailag megfelelően képzettnek kell lennie ahhoz, hogy azonosítani tudja a szemlélt növényállomány fajtáját és önálló döntést tudjon hozni a minősítésről.
 
-[^30]: A 12. §-t a 16/2011. (III. 2.) VM rendelet 34. § (2) bekezdése hatályon kívül helyezte.
-[^31]: A 13. § (2) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^32]: A 12. §-t a 16/2011. (III. 2.) VM rendelet 34. § (2) bekezdése hatályon kívül helyezte.
+[^33]: A 13. § (2) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.

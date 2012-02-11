@@ -1,4 +1,4 @@
-44. § (1) A Magyar Köztársaságban hivatalos címkével forgalomba hozott szuperelit szaporítási fokú vetőmagtétel címkéjének tartalmazni kell
+44. § (1)[^90] Magyarországon hivatalos címkével forgalomba hozott szuperelit szaporítási fokú vetőmagtétel címkéjének tartalmazni kell
 
 a) az illetékes minősítő hatóság és tagállam megnevezését, vagy ennek rövidítését,
 
@@ -12,7 +12,7 @@ e) a fajta latin betűkkel való megnevezését,
 
 f) szaporítási fokként a ,,Szuperelit'' feliratot.
 
-(2) A Magyar Köztársaságban forgalomba hozott elit és alacsonyabb szaporítási fokú vetőmagtétel címkéjének tartalmaznia kell
+(2)[^91] Magyarországon forgalomba hozott elit és alacsonyabb szaporítási fokú vetőmagtétel címkéjének tartalmaznia kell
 
 a) ,,Az Európai Unió előírásainak megfelel'' feliratot,
 
@@ -42,7 +42,7 @@ m) monogerm répavetőmag esetén a ,,Monogerm'' feliratot,
 
 n) precíziós répavetőmag esetén a ,,Precíziós'' feliratot.
 
-(3) A Magyar Köztársaságban forgalomba hozott kereskedelmi vetőmagtétel címkéjének tartalmaznia kell
+(3)[^92] Magyarországon forgalomba hozott kereskedelmi vetőmagtétel címkéjének tartalmaznia kell
 
 a) ,,Az Európai Unió előírásainak megfelel'' feliratot,
 
@@ -61,3 +61,7 @@ g) a nettó vagy bruttó tömeg vagy egyéb mennyiség megjelölését,
 h) a tömeg feltüntetése esetén, amennyiben szemcsés növényvédő szer, inkrusztálás granulálás vagy egyéb más szilárd adalékanyag használatára került sor, az adalékanyag jellegét és a vetőmag teljes tömegének arányát,
 
 i) amennyiben elvégezték legalább a vetőmagtétel csírázóképességének újbóli vizsgálatát, abban az esetben ezt a tényt a címkén is lehet jelölni; a jelölés ,,Ismételten ellenőrizve .... (év, hónap)'' felirattal történik, amely öntapadós hatósági matrica felragasztásával is végrehajtható.
+
+[^90]: A 44. § (1) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 9. § c) pontja szerint módosított szöveg.
+[^91]: A 44. § (2) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 9. § c) pontja szerint módosított szöveg.
+[^92]: A 44. § (3) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 9. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^130]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^145]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -1570,4 +1570,4 @@ Megjegyzés: Melilotus spp. megengedett mennyisége SE-E: 0 db/minta; I–II. fo
 
 Megjegyzés: Az anyarozs szklerócium, üszögcsomó, illetve üszögös mag mennyiségét a teljes mintából kell meghatározni. Minden fajnál: Avena spp. (Vadzab); Cuscuta spp. (Aranka fajok): 0 db/minta.
 
-[^130]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^145]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított szöveg.

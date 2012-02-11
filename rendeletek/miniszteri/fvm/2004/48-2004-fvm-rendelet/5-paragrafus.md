@@ -12,7 +12,7 @@
 
 (6)[^20] Az 1–4. számú mellékletek C. részeinek II. pontjaiban a minimális csírázásra vonatkozóan megállapított követelményeknek meg nem felelő I. és II. szaporítási fokú, valamint kereskedelmi vetőmag átmeneti forgalomba hozatala iránti kérelmet az MgSzH – egyetértése esetén – az Európai Bizottságnak továbbítja, a többi tagállam egyidejű értesítésével. A kérelem tartalmi elemeit a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet (a továbbiakban: 217/2006/EK rendelet) 3. cikke határozza meg.
 
-(7)[^21] A 217/2006/EK rendelet 2. cikkének (1) bekezdése szerinti kapcsolattartó pont a Magyar Köztársaság tekintetében az MgSzH.
+(7)[^21] A 217/2006/EK rendelet 2. cikkének (1) bekezdése szerinti kapcsolattartó pont Magyarország tekintetében az MgSzH.
 
 [^15]: Az 5. § (1) bekezdése a 16/2011. (III. 2.) VM rendelet 4. §-ával megállapított szöveg.
 [^16]: Az 5. § (2) bekezdése a 45/2008. (IV. 11.) FVM rendelet 14. § (2) bekezdése szerint módosított szöveg.
@@ -20,4 +20,4 @@
 [^18]: Az 5. § (4) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
 [^19]: Az 5. § (5) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
 [^20]: Az 5. § (6) bekezdését a 70/2006. (IX. 27.) FVM rendelet 4. § (3) bekezdése iktatta be, szövege a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja, a 16/2011. (III. 2.) VM rendelet 32. § f) pontja szerint módosított szöveg.
-[^21]: Az 5. § (7) bekezdését a 70/2006. (IX. 27.) FVM rendelet 4. § (3) bekezdése iktatta be, szövege a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^21]: Az 5. § (7) bekezdését a 70/2006. (IX. 27.) FVM rendelet 4. § (3) bekezdése iktatta be, szövege a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja, az 5/2012. (II. 10.) VM rendelet 9. § a) pontja szerint módosított szöveg.
