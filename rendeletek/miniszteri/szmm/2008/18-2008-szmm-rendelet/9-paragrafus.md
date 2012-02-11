@@ -6,8 +6,11 @@
 
 (4) Az EK-típustanúsítvány kiadásával egyidejűleg a tanúsító szervezet hozzájárul az EK-jelölés, illetve a jelkép védőeszközön való elhelyezéséhez.
 
-(5) Az EK-típustanúsítvány kiállításáról a tanúsító szervezet egy magyar nyelvű másolati példány megküldésével tájékoztatja az Országos Munkavédelmi és Munkaügyi Főfelügyelőséget (a továbbiakban: OMMF).
+(5)[^1] Az EK-típustanúsítvány kiállításáról a tanúsító szervezet egy magyar nyelvű másolati példány megküldésével tájékoztatja a Nemzeti Munkaügyi Hivatal munkavédelmi és munkaügyi igazgatóságát (a továbbiakban: munkavédelmi és munkaügyi igazgatóság).
 
-(6) Az EK-típustanúsítvány visszavonásáról a tanúsító szervezet – az OMMF egyidejű tájékoztatása mellett – az Európai Bizottság tájékoztatása érdekében értesíti a Nemzeti Fogyasztóvédelmi Hatóságot (a továbbiakban: NFH) a Központi Piacfelügyeleti Információs Rendszeren keresztül.
+(6)[^2] Az EK-típustanúsítvány visszavonásáról a tanúsító szervezet – a munkavédelmi és munkaügyi igazgatóság egyidejű tájékoztatása mellett – az Európai Bizottság tájékoztatása érdekében értesíti a Nemzeti Fogyasztóvédelmi Hatóságot (a továbbiakban: NFH) a Központi Piacfelügyeleti Információs Rendszeren keresztül.
 
 (7) Az EK-típustanúsítvány kiadásának elutasításáról a kérelmezőt és az egyéni védőeszközök megfelelőségét tanúsító, ellenőrző szervezetek kijelölésének és bejelentésének részletes szabályairól szóló jogszabályban meghatározott kijelölőt (a továbbiakban: kijelölő), az EK-típustanúsítvány visszavonásáról a tanúsíttatót és a kijelölőt a tanúsító szervezet haladéktalanul értesíti, megjelölve a döntés indokait és a döntés elleni jogorvoslati lehetőségeket.
+
+[^1]: A 9. § (5) bekezdése a 3/2012. (II. 10.) NGM rendelet 17. § a) pontja szerint módosított szöveg.
+[^2]: A 9. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 17. § b) pontja szerint módosított szöveg.
