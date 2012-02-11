@@ -4,8 +4,8 @@ a) az Fktv.-ben meghatározott intézmény- és programakkreditációs eljárás
 
 b) a valamely akkreditációs eljárást kérelmező felnőttképzést folytató intézményre (a továbbiakban: kérelmező),
 
-c)[^1] a Nemzeti Szakképzési és Felnőttképzési Intézetre (a továbbiakban: NSZFI), továbbá
+c)[^2] Nemzeti Munkaügyi Hivatalra (a továbbiakban: NMH), továbbá
 
 d) a Felnőttképzési Akkreditáló Testület (a továbbiakban: FAT) tagjaira, szakértőire
 
-[^1]: Az 1. § c) pontja az 5/2007. (II. 12.) SZMM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § c) pontja a 3/2012. (II. 10.) NGM rendelet 8. § a) pontjával megállapított szöveg.

@@ -1,8 +1,8 @@
 7. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-(2)[^20]
+(2)[^21]
 
-Melléklet a 7/2002. (XII. 6.) FMM rendelethez[^21]
+Melléklet a 7/2002. (XII. 6.) FMM rendelethez[^22]
 
 I. Az intézmény-akkreditációs eljárási díj
 
@@ -46,5 +46,5 @@ A FAT által már akkreditált képzési program más felnőttképzést folytat�
 
 | 2. | 200–1001 összóraszámú képzési program esetén | 45 000 |
 
-[^20]: A 7. § (2) bekezdését a 23/2004. (VI. 22.) FMM rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
-[^21]: A melléklet az 5/2007. (II. 12.) SZMM rendelet 4. §-ával megállapított szöveg.
+[^21]: A 7. § (2) bekezdését a 23/2004. (VI. 22.) FMM rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
+[^22]: A melléklet az 5/2007. (II. 12.) SZMM rendelet 4. §-ával megállapított szöveg.
