@@ -1,4 +1,4 @@
-22. § (1)[^5] Ha az e rendelet által előírt ellenőrzésekből arra lehet következtetni, hogy a vonatkozó jogszabályokat súlyosan és ismételten megszegték,
+22. § (1)[^10] Ha az e rendelet által előírt ellenőrzésekből arra lehet következtetni, hogy a vonatkozó jogszabályokat súlyosan és ismételten megszegték,
 
 a) a minisztérium az ilyen felhasználásban érintett termékkel vagy annak származási helyével kapcsolatosan
 
@@ -14,4 +14,4 @@ b) a hatósági állatorvos a 17. § szerint rendelkezik az érintett szállítm
 
 (3) Amennyiben az Európai Bizottság arra a következtetésre jut, hogy az Európai Unióval ekvivalencia megállapodást kötött harmadik ország, vagy olyan harmadik ország, amelynek szállítmányait ritkábban ellenőrzik, nem teljesítette kötelezettségeit és az egyes élő állatokban és állati termékekben lévő anyagok és azok maradványainak ellenőrzésére szolgáló intézkedésekről, valamint a 85/358/EGK és 86/469/EGK irányelvek, továbbá a 89/187/EGK és 91/664/EGK határozatok hatályon kívül helyezéséről szóló, a Tanács 96/23/EK irányelve által előírt garanciákat, és felfüggeszti a kérdéses termék csökkentett ellenőrzésének kedvezményét, ameddig az érintett harmadik ország nem pótolja a hiányosságokat, az állategészségügyi hatóság az Európai Bizottság döntésének megfelelően jár el.
 
-[^5]: A 22. § (1) bekezdése a 2/2007. (I. 10.) FVM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 22. § (1) bekezdése a 2/2007. (I. 10.) FVM rendelet 3. §-ával megállapított szöveg.

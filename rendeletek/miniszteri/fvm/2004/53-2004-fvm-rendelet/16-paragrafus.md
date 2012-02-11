@@ -16,6 +16,8 @@ e) amelyet – kereskedelmi forgalomba hozatal célja nélkül – kereskedelmi 
 
 f) amelyet különleges kutatáshoz vagy elemzéshez szándékoznak felhasználni, amennyiben hivatalos vizsgálattal megállapítható, hogy a terméket nem emberi fogyasztásra szánták, valamint az e) pont szerinti kiállítás végeztével vagy a különleges kutatás, illetve elemzés befejezése után a terméket – az elemzéshez felhasznált mennyiségek kivételével – megsemmisítik vagy a hatósági állatorvos által meghatározott feltételek mellett visszaszállítják.
 
-(2) Az (1) bekezdés e) és f) pontja szerinti esetben a hatósági állatorvos gondoskodik arról, hogy az érintett terméket csak arra a célra használják fel, amelyre tekintettel a Magyar Köztársaság területére behozták.
+(2)[^8] Az (1) bekezdés e) és f) pontja szerinti esetben a hatósági állatorvos gondoskodik arról, hogy az érintett terméket csak arra a célra használják fel, amelyre tekintettel Magyarország területére behozták.
 
 (3) Az (1) bekezdésben foglaltakat a szarvasmarhafélék, a sertések és a friss hús harmadik országból történő behozatalára vonatkozó egészségügyi és állategészségügyi vizsgálatok problémáiról szóló, a Tanács 72/462/EGK irányelve 1. cikke (2) bekezdésének friss húsra és húskészítményekre vonatkozó előírásainak figyelembevételével kell alkalmazni.
+
+[^8]: A 16. § (2) bekezdése az 5/2012. (II. 10.) VM rendelet 12. § a) pontja szerint módosított szöveg.
