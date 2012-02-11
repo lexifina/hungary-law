@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2011-01-14 | 2004-79-20-82.10 | 7/2010. (II. 2.) FVM rendelet |
 | 2011-05-05 | 2004-79-20-82.11 | 30/2011. (IV. 27.) VM rendelet |
 | 2011-07-28 | 2004-79-20-82.12 | 67/2011. (VII. 13.) VM rendelet |
+| 2012-02-11 | 2004-79-20-82.13 | 5/2012. (II. 10.) VM rendelet |
