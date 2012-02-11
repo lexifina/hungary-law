@@ -294,6 +294,6 @@
 
 | 2.3.5.11. | Munkáltatói kölcsön |
 
-2–5. számú melléklet a 2/2004. (I. 15.) FMM rendelethez[^6]
+2–5. számú melléklet a 2/2004. (I. 15.) FMM rendelethez[^13]
 
-[^6]: A 2–5. számú mellékletet a 9/2010. (IV. 13.) SZMM rendelet 3. §-a hatályon kívül helyezte.
+[^13]: A 2–5. számú mellékletet a 9/2010. (IV. 13.) SZMM rendelet 3. §-a hatályon kívül helyezte.
