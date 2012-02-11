@@ -2,7 +2,7 @@
 
 5. § (1) A hatósági állatorvos – a mintavételre is kiterjedően – megkülönböztetés és részrehajlás nélkül (nem diszkriminatív módon) az áru rendeltetési helyén állategészségügyi szempontból ellenőrizheti a 3. § szerinti követelmények betartását.
 
-(2) Ha az állategészségügyi hatóságnak jogszabálysértésre utaló adat vagy tény jut tudomására valamely olyan szállítmánnyal kapcsolatban, amelynek rendeltetési helye a Magyar Köztársaság területén van, vagy azon keresztül átszállítják, az állategészségügyi hatóság szállítás közben is végezhet ellenőrzést. Az ellenőrzés a szállítóeszköz alkalmasságának vizsgálatára is kiterjed.
+(2)[^7] Ha az állategészségügyi hatóságnak jogszabálysértésre utaló adat vagy tény jut tudomására valamely olyan szállítmánnyal kapcsolatban, amelynek rendeltetési helye Magyarország területén van, vagy azon keresztül átszállítják, az állategészségügyi hatóság szállítás közben is végezhet ellenőrzést. Az ellenőrzés a szállítóeszköz alkalmasságának vizsgálatára is kiterjed.
 
 (3) Amennyiben a valamely más tagállamból származó termék rendeltetési helye a hatósági állatorvos állandó ellenőrzése alatt álló létesítmény, a hatósági állatorvosnak meg kell bizonyosodnia arról, hogy a létesítmény a terméket csak akkor veszi át, ha az az árumegjelölés és a kísérőokiratok tekintetében a 3. § (1)–(5) bekezdése szerinti rendelkezéseknek megfelel, illetve azt a 2. számú mellékletben megnevezett termékek esetében a külön jogszabály által meghatározott okirattal ellátták.
 
@@ -25,3 +25,5 @@ d) az állomás által megállapított időtartamig, de legalább egy évig meg 
 (8) Amennyiben valamely másik tagállamból olyan terméket hoznak be, amely termék kereskedelmének állategészségügyi szabályait nem határozták meg közösségi szinten, illetve a 11. § szerinti eset áll fenn, a minisztérium a 4. §-ban foglaltak figyelembevételével – a Szerződés általános rendelkezéseinek betartása mellett – megkövetelheti, hogy a származási létesítmény a külön jogszabályban meghatározott előírásokat alkalmazza. A származási tagállamnak biztosítania kell, hogy az érintett termékek megfelelnek ezeknek a követelményeknek.
 
 (9) Az e §-ban foglaltakkal kapcsolatos részletes szabályokat külön jogszabály állapítja meg.
+
+[^7]: Az 5. § (2) bekezdése az 5/2012. (II. 10.) VM rendelet 11. § a) pontja szerint módosított szöveg.

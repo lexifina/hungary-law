@@ -2,13 +2,13 @@
 
 a) haladéktalanul felveszi a kapcsolatot a feladás helye szerinti állam illetékes hatóságával,
 
-b) ha a termék a Magyar Köztársaságból származik, megteszi az e rendelet, továbbá a külön jogszabály által meghatározott intézkedéseket, és közli a rendeltetési tagállam illetékes hatóságával az elvégzett vizsgálat fajtáját, a meghozott döntéseket és azok indokait,
+b)[^10] ha a termék Magyarországról származik, megteszi az e rendelet, továbbá a külön jogszabály által meghatározott intézkedéseket, és közli a rendeltetési tagállam illetékes hatóságával az elvégzett vizsgálat fajtáját, a meghozott döntéseket és azok indokait,
 
 c) amennyiben úgy ítéli meg, hogy a feladás helye szerinti tagállam intézkedései nem kielégítőek, akkor a tagállam illetékes hatóságával együtt megkeresi az eszközöket és módokat, hogy segítséget nyújtson, akár helyszíni szemle útján is,
 
 d) ismételt jogszabálysértés megállapítása esetén ezt közli az Európai Bizottsággal és a tagállamok központi állategészségügyi hatóságával.
 
-(2) Ha a 7. § (1) és (5) bekezdése szerinti esetben a termék a Magyar Köztársaságból származik és az Európai Bizottság a rendeltetési tagállam illetékes hatóságának kérésére vagy hivatalból, a megállapított jogszabálysértés jellegének figyelembevételével
+(2)[^11] Ha a 7. § (1) és (5) bekezdése szerinti esetben a termék Magyarországról származik és az Európai Bizottság a rendeltetési tagállam illetékes hatóságának kérésére vagy hivatalból, a megállapított jogszabálysértés jellegének figyelembevételével
 
 a) ellenőröket küld az érintett létesítménybe,
 
@@ -18,7 +18,7 @@ c) felszólítja a minisztériumot, hogy az érintett létesítmény termékeib�
 
 ## akkor a felsorolt intézkedések végrehajtásával kapcsolatban az érintett létesítmény köteles együttműködni.
 
-(3) Ha a 7. § (1) és (5) bekezdése szerinti esetben a termék a Magyar Köztársaságból származik, az Európai Bizottság végső állásfoglalásáig a rendeltetési tagállam indítványára a minisztérium az érintett létesítményből származó termékek ellenőrzését megszigorítja, és ha súlyos, az állategészségügyet vagy közegészségügyet érintő okok állnak fenn, a létesítmény működési engedélyét felfüggeszti.
+(3)[^12] Ha a 7. § (1) és (5) bekezdése szerinti esetben a termék Magyarországról származik, az Európai Bizottság végső állásfoglalásáig a rendeltetési tagállam indítványára a minisztérium az érintett létesítményből származó termékek ellenőrzését megszigorítja, és ha súlyos, az állategészségügyet vagy közegészségügyet érintő okok állnak fenn, a létesítmény működési engedélyét felfüggeszti.
 
 (4) A 7. § (1) és (5) bekezdése szerinti esetben a minisztérium az érintett létesítményből származó termékek ellenőrzését megszigoríthatja.
 
@@ -31,3 +31,7 @@ c) felszólítja a minisztériumot, hogy az érintett létesítmény termékeib�
 (8) A minisztérium, ha erre vonatkozóan az érintett tagállam illetékes hatóságával megegyezik, egy hónapon belül benyújthatja a vitás esetet elbírálásra egy olyan szakértőnek, aki az Európai Bizottság által összeállított, az Európai Unió szakértőit tartalmazó szakértői jegyzékben szerepel, azzal hogy a szakértői vélemény költségeit az Európai Unió állja. A minisztérium a közösségi állategészségügyi előírások betartása mellett aláveti magát a szakértő által 72 órán belül elkészített szakvéleménynek.
 
 (9) Az áru visszaküldésének, tárolásának, más célra történő felhasználásának vagy megsemmisítésének költségei a címzettet terhelik.
+
+[^10]: A 8. § (1) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 11. § d) pontja szerint módosított szöveg.
+[^11]: A 8. § (2) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 11. § d) pontja szerint módosított szöveg.
+[^12]: A 8. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 11. § d) pontja szerint módosított szöveg.

@@ -14,8 +14,12 @@
 
 (7) Ha a terméket valamely harmadik országba exportálják, a szállítmánynak vámhatósági felügyelet alatt kell maradnia addig, amíg el nem hagyja az Európai Unió területét.
 
-(8) Amennyiben a Magyar Köztársaság területére harmadik országból olyan terméket hoznak be, amely országgal kapcsolatban az adott termék kereskedelmének állategészségügyi szabályait nem határozták meg közösségi szinten, a minisztérium értesíti az Európai Bizottságot és a többi tagállamot.
+(8)[^3] Amennyiben Magyarország területére harmadik országból olyan terméket hoznak be, amely országgal kapcsolatban az adott termék kereskedelmének állategészségügyi szabályait nem határozták meg közösségi szinten, a minisztérium értesíti az Európai Bizottságot és a többi tagállamot.
 
-(9) Ha a Magyar Köztársaság területén keresztül hoznak be az Európai Unió területére olyan, a (8) bekezdés szerinti terméket, amelyet egy másik tagállam valamely harmadik országból importált, a származási és rendeltetési helyre vonatkozó okiratok ellenőrzését a 6. § (1) bekezdésnek megfelelően a Magyar Köztársaság államhatárán kell elvégezni.
+(9)[^4] Ha Magyarország területén keresztül hoznak be az Európai Unió területére olyan, a (8) bekezdés szerinti terméket, amelyet egy másik tagállam valamely harmadik országból importált, a származási és rendeltetési helyre vonatkozó okiratok ellenőrzését a 6. § (1) bekezdésnek megfelelően Magyarország államhatárán kell elvégezni.
 
-(10) Amennyiben a (8) bekezdés szerinti szállítmány rendeltetési helye a Magyar Köztársaság területe, a minisztérium megtiltja az érintett termék más tagállamba történő kivitelét a Magyar Köztársaság területéről, ha a termék kivitele nem olyan tagállamba irányul, amely az adott termék behozatalával kapcsolatban azonos feltételeket támaszt.
+(10)[^5] Amennyiben a (8) bekezdés szerinti szállítmány rendeltetési helye Magyarország területe, a minisztérium megtiltja az érintett termék más tagállamba történő kivitelét Magyarország területéről, ha a termék kivitele nem olyan tagállamba irányul, amely az adott termék behozatalával kapcsolatban azonos feltételeket támaszt.
+
+[^3]: A 3. § (8) bekezdése az 5/2012. (II. 10.) VM rendelet 11. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (9) bekezdése az 5/2012. (II. 10.) VM rendelet 11. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (10) bekezdése az 5/2012. (II. 10.) VM rendelet 11. § a) pontja szerint módosított szöveg.
