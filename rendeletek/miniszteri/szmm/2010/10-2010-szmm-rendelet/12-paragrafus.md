@@ -18,4 +18,6 @@ f) „nyitott képzés, távoktatás” terület az e rendelet szerinti „feln�
 
 felel meg.
 
-(3) A miniszter a hatósági ellenőrzés során nem vizsgálja az e rendeletben előírt végzettségre és szakmai gyakorlatra vonatkozó feltételek fennállását annak a szakértőnek a vonatkozásában, aki 2009. október 1-jén a felnőttképzési szakértői tevékenység folytatására engedéllyel rendelkezett.
+(3)[^8] Az NMH a hatósági ellenőrzés során nem vizsgálja az e rendeletben előírt végzettségre és szakmai gyakorlatra vonatkozó feltételek fennállását annak a szakértőnek a vonatkozásában, aki 2009. október 1-jén a felnőttképzési szakértői tevékenység folytatására engedéllyel rendelkezett.
+
+[^8]: A 12. § (3) bekezdése a 3/2012. (II. 10.) NGM rendelet 22. § f) pontja szerint módosított szöveg.

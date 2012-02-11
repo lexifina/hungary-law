@@ -1,4 +1,4 @@
-8. § (1) A szakértő a továbbképzési kötelezettsége teljesítését legkésőbb a továbbképzési időszak utolsó napjáig köteles bejelenteni a miniszternek. A bejelentés tartalmazza
+8. § (1)[^5] A szakértő a továbbképzési kötelezettsége teljesítését legkésőbb a továbbképzési időszak utolsó napjáig köteles bejelenteni az NMH-nak. A bejelentés tartalmazza
 
 a) a bejelentő nevét, születési nevét,
 
@@ -12,4 +12,7 @@ e) az önképzés formájának megnevezését, az önképzést tanúsító dokum
 
 f) a szakértő által számolt kreditpontok értékét, továbbképzési formánként.
 
-(2) A továbbképzés teljesítéséről szóló bejelentést a miniszter által vezetett minisztérium honlapján közzétett adattartalommal kell benyújtani. A bejelentéshez mellékelni kell a továbbképzés teljesítését tanúsító okiratok, igazolások másolatát.
+(2)[^6] A továbbképzés teljesítéséről szóló bejelentést az NMH honlapján közzétett adattartalommal kell benyújtani. A bejelentéshez mellékelni kell a továbbképzés teljesítését tanúsító okiratok, igazolások másolatát.
+
+[^5]: A 8. § (1) bekezdés nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 22. § d) pontja szerint módosított szöveg.
+[^6]: A 8. § (2) bekezdése a 3/2012. (II. 10.) NGM rendelet 22. § b) pontja szerint módosított szöveg.
