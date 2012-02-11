@@ -1,4 +1,4 @@
-6. § (1)[^10] A munkavállalási engedély iránti kérelmet el kell utasítani, ha
+6. § (1)[^13] A munkavállalási engedély iránti kérelmet el kell utasítani, ha
 
 a) nem állnak fenn a 4. § (1) bekezdés a)–c) pontjában meghatározott feltételek,
 
@@ -26,9 +26,9 @@ b) a feltételeknek megfelelő kiközvetíthető munkaerő foglalkoztatásától
 
 c) a kérelem benyújtását megelőzően érvényes munkaerőigénnyel rendelkezett, de közvetítést nem kért.
 
-(3)[^11] Az (1) bekezdés h) pontjában meghatározott körülmény fennállásáról a munkaügyi központokat a nemzetgazdasági miniszter tájékoztatja.
+(3)[^14] Az (1) bekezdés h) pontjában meghatározott körülmény fennállásáról a munkaügyi központokat a nemzetgazdasági miniszter tájékoztatja.
 
 (4) Az (1) bekezdés i) pontjában meghatározott feltétel szempontjából a harmadik országbeli állampolgár által ellátandó tevékenységért megjelölt személyi alapbér – ideértve illetmény, díjazás – az erre a tevékenységre vonatkozó országos személyi alapbérnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak nyolcvan százalékát.
 
-[^10]: A 6. § (1) bekezdés nyitó szövegrésze a 44/2011. (XII. 16.) NGM rendelet 8. § (10) bekezdés d) pontja szerint módosított szöveg.
-[^11]: A 6. § (3) bekezdése a 27/2010. (XII. 31.) NGM rendelet 72. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 6. § (1) bekezdés nyitó szövegrésze a 44/2011. (XII. 16.) NGM rendelet 8. § (10) bekezdés d) pontja szerint módosított szöveg.
+[^14]: A 6. § (3) bekezdése a 27/2010. (XII. 31.) NGM rendelet 72. § (1) bekezdése szerint módosított szöveg.

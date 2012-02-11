@@ -1,6 +1,6 @@
 ## 1. Általános rendelkezések
 
-1. § (1) A rendelet hatálya kiterjed a magyar jog hatálya alá tartozó foglalkoztatásra irányuló jogviszonyt létesítő, valamint a Magyar Köztársaság területén foglalkoztatásra irányuló jogviszony keretében munkát végző, Magyarországon engedéllyel foglalkoztatható harmadik országbeli állampolgárra, továbbá az őt foglalkoztatóra.
+1. § (1)[^2] A rendelet hatálya kiterjed a magyar jog hatálya alá tartozó foglalkoztatásra irányuló jogviszonyt létesítő, valamint a Magyarország területén foglalkoztatásra irányuló jogviszony keretében munkát végző, Magyarországon engedéllyel foglalkoztatható harmadik országbeli állampolgárra, továbbá az őt foglalkoztatóra.
 
 (2) A rendelet hatálya nem terjed ki az Európai Gazdasági Térség (a továbbiakban: EGT) államban letelepedett munkáltató által, szolgáltatásnyújtás keretében, kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében, magyarországi foglalkoztatóhoz kiküldött Magyarországon munkát végző harmadik országbeli állampolgárra, továbbá az őt foglalkoztatóra.
 
@@ -14,7 +14,7 @@ a) meghatározott munka elvégzéséhez szükséges begyakorlottság megszerzés
 
 b) a belföldi foglalkoztatóval kötött megállapodás teljesítése érdekében a külföldi munkáltatóval fennálló jogviszonya alapján kerül sor;
 
-3. foglalkoztató: az, aki részére a harmadik országbeli állampolgár foglalkoztatásra irányuló jogviszony alapján munkát végez, vagy a külföldi munkáltatóval kötött megállapodást, és a megállapodás teljesítése érdekében a harmadik országbeli állampolgárt foglalkoztatja, továbbá akivel kötött megállapodás teljesítése érdekében végez a harmadik országbeli állampolgár a Magyar Köztársaság területén munkát, a 2. pontban meghatározott betanító képzést folytatja;
+3.[^3] foglalkoztató: az, aki részére a harmadik országbeli állampolgár foglalkoztatásra irányuló jogviszony alapján munkát végez, vagy a külföldi munkáltatóval kötött megállapodást, és a megállapodás teljesítése érdekében a harmadik országbeli állampolgárt foglalkoztatja, továbbá akivel kötött megállapodás teljesítése érdekében végez a harmadik országbeli állampolgár a Magyarország területén munkát, a 2. pontban meghatározott betanító képzést folytatja;
 
 4. harmadik országban honos vállalkozás: az EGT-megállapodásban részes államok területén kívüli székhellyel rendelkező, vállalkozási tevékenységet folytató jogi személy, vagy jogi személyiséggel nem rendelkező egyéb jogalany;
 
@@ -22,7 +22,7 @@ b) a belföldi foglalkoztatóval kötött megállapodás teljesítése érdekéb
 
 6. kiközvetíthető munkaerő: az a magyar állampolgár vagy a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 2. § (2) bekezdése alapján a magyar állampolgárral azonos jogokkal, kötelezettségekkel rendelkező személy, akinek az Flt. 25. § (2) bekezdés b)–d) pontjában felsorolt szempontokat figyelembe véve megfelel az a munkahely, ahol a foglalkoztató a harmadik országbeli állampolgárt foglalkoztatni kívánja;
 
-7.[^2] családtag: A Harmtv. 2. § d) pontjában meghatározott személy,
+7.[^4] családtag: A Harmtv. 2. § d) pontjában meghatározott személy,
 
 8. kulcsszemélyzet: a Magyarország területén alapított külföldi érdekeltségű vállalkozás által foglalkoztatott olyan természetes személy, aki nem minősül a gazdasági társaságokról szóló törvényben meghatározott vezető tisztségviselőnek, és
 
@@ -38,14 +38,17 @@ b) a külföldi vállalkozás magyarországi fióktelepe, képviselete,
 
 c) a külföldi állampolgár által, Magyarországon alapított – az egyéni vállalkozóról és az egyéni cégről szóló törvény hatálya alá tartozó – egyéni vállalkozás, egyéni cég;
 
-10. külföldi munkáltató: a Magyar Köztársaság területén kívüli székhellyel rendelkező olyan foglalkoztató, aki a harmadik országbeli állampolgárt munkaviszonyban vagy olyan jogviszonyban foglalkoztatja, amelyre tekintettel az adott ország jogszabályai szerint a harmadik országbeli állampolgár alkalmazásban állónak minősül,
+10.[^5] külföldi munkáltató: a Magyarország területén kívüli székhellyel rendelkező olyan foglalkoztató, aki a harmadik országbeli állampolgárt munkaviszonyban vagy olyan jogviszonyban foglalkoztatja, amelyre tekintettel az adott ország jogszabályai szerint a harmadik országbeli állampolgár alkalmazásban állónak minősül,
 
-11.[^3] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszerében megfelelő foglalkozás gyakorlása során elért személyi alapbér – a Foglalkoztatási Hivatal által meghatározott – országos átlaga,
+11.[^6] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszerében megfelelő foglalkozás gyakorlása során elért személyi alapbér – a Nemzeti Munkaügyi Hivatal által meghatározott – országos átlaga,
 
 12. mezőgazdaság: a növénytermesztési, erdőgazdálkodási, állattenyésztési, és halászati ágazat,
 
-13.[^4] EU Kék Kártya: A Harmtv. 2. § r) pontjában meghatározott engedély.
+13.[^7] EU Kék Kártya: A Harmtv. 2. § r) pontjában meghatározott engedély.
 
-[^2]: Az 1. § (3) bekezdés 7. pontja a 44/2011. (XII. 16.) NGM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdés 11. pontja a 27/2010. (XII. 31.) NGM rendelet 72. § (3) bekezdése szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdés 13. pontját a 44/2011. (XII. 16.) NGM rendelet 8. § (2) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 24. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdés 3. pontja a 3/2012. (II. 10.) NGM rendelet 24. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdés 7. pontja a 44/2011. (XII. 16.) NGM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (3) bekezdés 10. pontja a 3/2012. (II. 10.) NGM rendelet 24. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (3) bekezdés 11. pontja a 27/2010. (XII. 31.) NGM rendelet 72. § (3) bekezdése, a 3/2012. (II. 10.) NGM rendelet 24. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. § (3) bekezdés 13. pontját a 44/2011. (XII. 16.) NGM rendelet 8. § (2) bekezdése iktatta be.

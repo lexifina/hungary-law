@@ -1,4 +1,4 @@
-19. § (1)[^29] A kérelemhez – a keretengedély, valamint a munkavállalási engedély meghosszabbítása iránti kérelem kivételével – csatolni kell:
+19. § (1)[^33] A kérelemhez – a keretengedély, valamint a munkavállalási engedély meghosszabbítása iránti kérelem kivételével – csatolni kell:
 
 a) a harmadik országbeli állampolgárnak a tevékenység ellátásához szükséges szakképzettségét igazoló okirat hiteles másolatát,
 
@@ -10,11 +10,11 @@ c) a 10. §-ban meghatározott esetben a jogosultság feltételeinek fennállás
 
 (3) A szezonális foglalkoztatás engedélyezése iránti kérelemhez nem kell csatolni az (1) bekezdés b) pontja szerinti igazolást.
 
-(4)[^30] A munkaügyi központ a munkavállalási engedély iránti kérelem elbírálása érdekében adatszolgáltatási kérelemmel fordul – az a) pont szerinti esetben a munkavállaló előzetes írásbeli hozzájárulása alapján – a szükséges adatokról nyilvántartást vezető hatósághoz, ha foglalkoztató nem csatolja
+(4)[^34] A munkaügyi központ a munkavállalási engedély iránti kérelem elbírálása érdekében adatszolgáltatási kérelemmel fordul – az a) pont szerinti esetben a munkavállaló előzetes írásbeli hozzájárulása alapján – a szükséges adatokról nyilvántartást vezető hatósághoz, ha foglalkoztató nem csatolja
 
 a) a 12. § (1) bekezdése szerinti engedély másolatát,
 
 b) a 14. § (4) bekezdése szerinti igazolást.
 
-[^29]: A 19. § (1) bekezdés nyitó szövegrésze a 44/2011. (XII. 16.) NGM rendelet 8. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^30]: A 19. § (4) bekezdés nyitó szövegrésze a 44/2011. (XII. 16.) NGM rendelet 8. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^33]: A 19. § (1) bekezdés nyitó szövegrésze a 44/2011. (XII. 16.) NGM rendelet 8. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 19. § (4) bekezdés nyitó szövegrésze a 44/2011. (XII. 16.) NGM rendelet 8. § (10) bekezdés b) pontja szerint módosított szöveg.
