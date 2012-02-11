@@ -16,6 +16,6 @@
 
 ## b) 1 fő egyéb lakás-, kommunális szolgáltatási foglalkozások (településihulladék-kezelő); FEOR: 5359; szakképesítés azonosító: 33 7898 03.
 
-3. számú melléklet a 15/2004. (X. 8.) KvVM rendelethez[^12]
+3. számú melléklet a 15/2004. (X. 8.) KvVM rendelethez[^15]
 
-[^12]: A 3. számú melléklet a 28/2008. (XII. 10.) KvVM rendelet 3. § (1)–(4) bekezdése szerint módosított szöveg.
+[^15]: A 3. számú melléklet a 28/2008. (XII. 10.) KvVM rendelet 3. § (1)–(4) bekezdése szerint módosított szöveg.

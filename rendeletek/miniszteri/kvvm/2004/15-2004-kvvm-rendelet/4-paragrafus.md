@@ -2,13 +2,13 @@
 
 ## A gyártó adatszolgáltatási kötelezettsége
 
-4. § (1)[^4] A gyártó – a külön jogszabályban foglaltakon túl – az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) számára adatot szolgáltat:
+4. § (1)[^5] A gyártó – a külön jogszabályban foglaltakon túl – az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) számára adatot szolgáltat:
 
-a) a tárgyév január 31. napjáig az előző évben a Magyar Köztársaságban forgalomba hozott elektromos berendezés mennyiségéről, a tárgyévben várható mennyiségéről tömeg és darabszám tekintetében, berendezéskategóriánként,
+a)[^6] a tárgyév január 31. napjáig az előző évben Magyarországon forgalomba hozott elektromos berendezés mennyiségéről, a tárgyévben várható mennyiségéről tömeg és darabszám tekintetében, berendezéskategóriánként,
 
 b) legkésőbb a tárgyév január 31. napjáig a tárgyévi visszavételi, begyűjtési, hasznosítási és ártalmatlanítási kötelezettségei ellátásának módjáról,
 
-c) tárgyév február 20. napjáig az előző évben begyűjtött, visszavett, hasznosított és ártalmatlanított elektromos berendezésből származó hulladék tömegéről elektromos berendezés-kategóriánként, hasznosítónként és ártalmatlanítónként is megbontva, valamint a Magyar Köztársaság területén és azon kívül kezelt (hasznosított és ártalmatlanított) hulladék tömegéről, ezek várható tárgyévi tömegéről, továbbá
+c)[^7] tárgyév február 20. napjáig az előző évben begyűjtött, visszavett, hasznosított és ártalmatlanított elektromos berendezésből származó hulladék tömegéről elektromos berendezés-kategóriánként, hasznosítónként és ártalmatlanítónként is megbontva, valamint Magyarország területén és azon kívül kezelt (hasznosított és ártalmatlanított) hulladék tömegéről, ezek várható tárgyévi tömegéről, továbbá
 
 d) tárgyév február 20. napjáig a visszavételi, begyűjtési, hasznosítási és ártalmatlanítási kötelezettségei ellátásának biztosítására képzett tárgyévi biztosíték összegéről és típusáról.
 
@@ -24,4 +24,6 @@ b) tárgyév február 20. napjáig arról, hogy mely gyártókkal, milyen mennyi
 
 (5) Az adatszolgáltatás során közölt adatok teljeskörűségéért, az adatszolgáltatásra kötelezettre vonatkozó számviteli szabályokkal, statisztikai rendszerrel, valamint egyéb nyilvántartási rendszereivel, mérési megfigyelési adataival való egyezésért az adatszolgáltatásra kötelezett felel.
 
-[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés h) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 4. § (1) bekezdés nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés h) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 4. § (1) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 7. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdés c) pontja az 5/2012. (II. 10.) VM rendelet 7. § b) pontja szerint módosított szöveg.
