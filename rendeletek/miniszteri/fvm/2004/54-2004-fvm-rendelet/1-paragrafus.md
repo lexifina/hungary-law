@@ -6,8 +6,10 @@
 
 a) a nem az állategészségügyi vagy tenyésztési hatóság által megkülönböztetés és részrehajlás nélkül (nem diszkriminatív módon) elvégzett ellenőrzésre,
 
-b) az olyan kedvtelésből tartott állatnak a Magyar Köztársaság és az Európai Unió más tagállama (a továbbiakban: tagállam) közötti, nem kereskedelmi célú szállításának állategészségügyi ellenőrzésére, ahol az állatot érte felelős természetes személy kíséri.
+b)[^1] az olyan kedvtelésből tartott állatnak Magyarország és az Európai Unió más tagállama (a továbbiakban: tagállam) közötti, nem kereskedelmi célú szállításának állategészségügyi ellenőrzésére, ahol az állatot érte felelős természetes személy kíséri.
 
 (3) Az e rendeletben foglalt állategészségügyi ellenőrzéseket az állategészségügyről szóló 1995. évi XCI. törvény 23. §-ának (2) bekezdése szerinti állategészségügyi hatóság, az állattenyésztési ellenőrzéseket az állattenyésztésről szóló 1993. évi CXIV. törvény 3. §-ának 20. pontjában meghatározott tenyésztési hatóság vagy egyes feladatokat végrehajtó elismert tenyésztői szervezet hajtja végre.
 
 (4) A tagállamok ellenőrző hivatalaival a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) működik együtt.
+
+[^1]: Az 1. § (2) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 13. § a) pontja szerint módosított szöveg.

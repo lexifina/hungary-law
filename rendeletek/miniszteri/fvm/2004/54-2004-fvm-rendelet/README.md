@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-54-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2004-54-20-82.2 | 54/2004. (IV. 24.) FVM rendelet |
+| 2012-02-11 | 2004-54-20-82.3 | 5/2012. (II. 10.) VM rendelet |

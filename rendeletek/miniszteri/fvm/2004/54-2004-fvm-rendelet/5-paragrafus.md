@@ -1,8 +1,8 @@
 ## Ellenőrzés a rendeltetési helyen
 
-5. § (1) Ha a Magyar Köztársaság a rendeltetési hely szerinti tagállam,
+5. § (1)[^9] Ha Magyarország a rendeltetési hely szerinti tagállam,
 
-a) a hatósági állatorvos az állat, illetve termék rendeltetési helyén megkülönböztetés és részrehajlás nélkül (nem diszkriminatív módon) helyszíni állategészségügyi ellenőrzést végezhet annak megállapítására, hogy a 3. §-ban foglalt előírások teljesülnek-e, amivel egyidejűleg mintavételt is végezhet; az ezzel kapcsolatos részletes előírásokat külön jogszabály állapítja meg; az állategészségügyi hatóság ellenőrzést végezhet az állat, illetve termék Magyar Köztársaság – mint rendeltetési hely szerinti tagállam vagy tranzit tagállam – területén történő szállítása közben is, ha jogszabálysértést valószínűsít,
+a)[^10] a hatósági állatorvos az állat, illetve termék rendeltetési helyén megkülönböztetés és részrehajlás nélkül (nem diszkriminatív módon) helyszíni állategészségügyi ellenőrzést végezhet annak megállapítására, hogy a 3. §-ban foglalt előírások teljesülnek-e, amivel egyidejűleg mintavételt is végezhet; az ezzel kapcsolatos részletes előírásokat külön jogszabály állapítja meg; az állategészségügyi hatóság ellenőrzést végezhet az állat, illetve termék Magyarország – mint rendeltetési hely szerinti tagállam vagy tranzit tagállam – területén történő szállítása közben is, ha jogszabálysértést valószínűsít,
 
 b) ha az 1. § (1) bekezdésében meghatározott, más tagállamból származó állatot
 
@@ -22,6 +22,10 @@ d) a b) pont 3. és 4. alpontjában meghatározott címzett által kötelezően 
 
 (3) A 3. § (1) bekezdésének d) pontja szerinti bizonyítványban, illetve okiratban feltüntetett valamennyi címzett:
 
-a) köteles – ha a rendeltetési hely szerinti tagállam a Magyar Köztársaság – az illetékes állomás felszólítására az (1) bekezdésben foglalt vizsgálatok végrehajtásához szükséges mértékben, előzetesen, de legkésőbb az érkezés előtti napon – kivéve, ha kivételes körülmények miatt az illetékes állomás két nappal korábbi bejelentésre szólít fel – jelenteni az állat, illetve termék egy másik tagállamból történő érkezését, különös tekintettel a szállítmány jellegére és az érkezés várható időpontjára; a lófélék Közösségen belüli kereskedelmét szabályozó tenyésztéstechnikai és származástani feltételekről szóló, a Tanács 90/427/EGK irányelvében meghatározott azonosító okirattal rendelkező, nyilvántartásba vett ló esetében nem kell előzetes bejelentést tenni,
+a)[^11] köteles – ha a rendeltetési hely szerinti tagállam Magyarország – az illetékes állomás felszólítására az (1) bekezdésben foglalt vizsgálatok végrehajtásához szükséges mértékben, előzetesen, de legkésőbb az érkezés előtti napon – kivéve, ha kivételes körülmények miatt az illetékes állomás két nappal korábbi bejelentésre szólít fel – jelenteni az állat, illetve termék egy másik tagállamból történő érkezését, különös tekintettel a szállítmány jellegére és az érkezés várható időpontjára; a lófélék Közösségen belüli kereskedelmét szabályozó tenyésztéstechnikai és származástani feltételekről szóló, a Tanács 90/427/EGK irányelvében meghatározott azonosító okirattal rendelkező, nyilvántartásba vett ló esetében nem kell előzetes bejelentést tenni,
 
 b) köteles a 3. § szerinti bizonyítványt, illetve okiratot egy évig megőrizni és az állategészségügyi hatóság felszólítására bemutatni.
+
+[^9]: Az 5. § (1) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 13. § a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 13. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (3) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 13. § a) pontja szerint módosított szöveg.
