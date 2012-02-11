@@ -1,3 +1,3 @@
-1. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^178]
+1. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^185]
 
-[^178]: Az 1. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^185]: Az 1. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.
