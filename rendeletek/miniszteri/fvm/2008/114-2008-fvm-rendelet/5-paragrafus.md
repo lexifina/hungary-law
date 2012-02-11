@@ -4,9 +4,9 @@ a) igazolja, hogy:
 
 aa) őstermelő, egyéni vállalkozó, valamint a jogi személy vagy jogi személyiség nélküli gazdasági társaság tulajdonosa vagy alkalmazottja és rendelkezik legalább középfokú „mezőgazdasági vállalkozó” (OKJ 32 6201 02), „ezüstkalászos gazda” (OKJ 21 6201 01) vagy „aranykalászos gazda” (OKJ 32 6201 01) szakképesítéssel;
 
-ab)[^4] belföldi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság, fő tevékenységi köre az 1. § a) pontjában meghatározott tevékenység,
+ab)[^5] belföldi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság, fő tevékenységi köre az 1. § a) pontjában meghatározott tevékenység,
 
-ac)[^5]
+ac)[^6]
 
 ad) beruházási célú hiteligénylés esetén rendelkezik a fejlesztés megvalósításához szükséges, áfát nem tartalmazó költségeinek a pénzügyi intézmény belső szabályzatának megfelelő mértékű saját erővel,
 
@@ -14,7 +14,7 @@ ae) a beruházással érintett üzem – mezőgazdasági termelő esetén – az
 
 af) rendelkezik az általa működtetett, korszerűsítésre kerülő állattartó telep szakhatósági igazolásával, vagy az állattartás helye szerinti illetékes megyei Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság által kiállított hatósági bizonyítvánnyal, amely szerint az adott állattartó telep egy önálló állategészségügyi egységként szerepel az állategészségügyi hatóság nyilvántartásában, valamint a nevezett címen tartott állomány hatóság, valamint kezelő állatorvosi felügyelete biztosított;
 
-b)[^6] nyilatkozik, hogy:
+b)[^7] nyilatkozik, hogy:
 
 ba) a 2. § (1) bekezdés b) és c) pontja szerinti beruházást a hitelszerződés kötést követő 12 hónapon belül befejezi,
 
@@ -30,9 +30,9 @@ bf) köztartozása nem áll fenn,
 
 bg) az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában szabályozott rendezett munkaügyi kapcsolatok feltételeinek megfelel.
 
-(2)[^7]
+(2)[^8]
 
-[^4]: Az 5. § (1) bekezdés a) pontj ab) alpontja a 171/2009. (XII. 22.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (1) bekezdés a) pont ac) alpontját a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^6]: Az 5. § (1) bekezdés b) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^7]: Az 5. § (2) bekezdését a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^5]: Az 5. § (1) bekezdés a) pontj ab) alpontja a 171/2009. (XII. 22.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés a) pont ac) alpontját a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^7]: Az 5. § (1) bekezdés b) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (2) bekezdését a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
