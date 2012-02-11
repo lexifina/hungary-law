@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-2-20-0N
 | --- | --- | --- |
 | 2007-01-26 | 2007-2-20-0N.1 | 2/2007. (I. 18.) KvVM rendelet |
 | 2012-01-01 | 2007-2-20-0N.2 | 147/2011. (XII. 23.) VM rendelet |
+| 2012-02-11 | 2007-2-20-0N.3 | 58/2012. (VI. 25.) VM rendelet |
