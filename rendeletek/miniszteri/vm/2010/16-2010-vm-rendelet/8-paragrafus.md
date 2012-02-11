@@ -32,7 +32,7 @@ ci) a számlatételének darabszámát, és
 
 d) a gazdasági aktáját vezető hegybíró nevét és elérhetőségét.
 
-(2)[^1]
+(2)[^3]
 
 (3) Az agrárpolitikáért felelős miniszter a forráskimerülésről közleményt ad ki.
 
@@ -52,4 +52,4 @@ e) ha a gép használatba vétele nem saját tulajdonú, vagy más személy jog�
 
 f) idegen nyelven kiállított bármilyen dokumentum esetében a szakfordítói vagy tolmácsigazolvánnyal rendelkező személy által készített magyar nyelvű fordítást.
 
-[^1]: A 8. § (2) bekezdését a 83/2011. (VIII. 31.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^3]: A 8. § (2) bekezdését a 83/2011. (VIII. 31.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
