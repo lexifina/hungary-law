@@ -1,8 +1,8 @@
 8. § (1) Az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló miniszteri rendelet 1. számú mellékletében felsorolt jogszabályokban meg nem határozott állat behozatalának állategészségügyi ellenőrzését az alábbiaknak megfelelően kell végezni:
 
-a) ha az állatot a Magyar Köztársaság valamely állategészségügyi határállomásán keresztül kívánják beléptetni és az állat rendeltetési helye a Magyar Köztársaság területén fekszik, az állaton az állategészségügyi határállomáson el kell végezni a 4. §-ban foglalt valamennyi ellenőrzést;
+a)[^4] ha az állatot Magyarország valamely állategészségügyi határállomásán keresztül kívánják beléptetni és az állat rendeltetési helye Magyarország területén fekszik, az állaton az állategészségügyi határállomáson el kell végezni a 4. §-ban foglalt valamennyi ellenőrzést;
 
-b) ha az állatot a Magyar Köztársaság valamely állategészségügyi határállomásán keresztül kívánják beléptetni és az állat rendeltetési helye egy másik tagállam területén fekszik, az állategészségügyi hatóság:
+b)[^5] ha az állatot Magyarország valamely állategészségügyi határállomásán keresztül kívánják beléptetni és az állat rendeltetési helye egy másik tagállam területén fekszik, az állategészségügyi hatóság:
 
 1. elvégzi a rendeltetési hely szerinti tagállam nevében – az azzal történt előzetes megegyezés figyelembevételével – a 4. §-ban foglalt valamennyi ellenőrzést az állategészségügyi határállomáson annak megállapítása érdekében, hogy az adott tagállam állategészségügyi követelményei teljesülnek-e, vagy
 
@@ -38,6 +38,11 @@ e) miután az állatszállítmány áthaladt az állategészségügyi határáll
 
 (3) Ha az (1) és (2) bekezdés szerinti ellenőrzés megállapítja, hogy az állat vagy az állatszállítmány nem felel meg a jogszabályi követelményeknek, akkor nem hagyhatja el az állategészségügyi határállomást vagy karanténközpontot. Ebben az esetben a 12. §-ban foglaltakat kell alkalmazni.
 
-(4) Ha az (1) bekezdés szerinti állatot nem a Magyar Köztársaság területén kívánják forgalomba hozni, akkor – különös tekintettel a bizonyítvány kiállítására vonatkozó előírásokra – a 7. §-ban foglaltakat kell alkalmazni.
+(4)[^6] Ha az (1) bekezdés szerinti állatot nem Magyarország területén kívánják forgalomba hozni, akkor – különös tekintettel a bizonyítvány kiállítására vonatkozó előírásokra – a 7. §-ban foglaltakat kell alkalmazni.
 
-(5) Ha a tenyésztésre vagy továbbtartásra szánt állat rendeltetési helye a Magyar Köztársaság területén található, akkor az állatnak az illetékes megyei (fővárosi) állategészségügyi és élelmiszer-ellenőrző állomás hatósági felügyelete alatt kell maradnia. A külön jogszabály által megállapított megfigyelési időtartam eltelte után az állat Európai Unión belüli kereskedelmi forgalomba hozatalára az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló miniszteri rendelet előírásait kell alkalmazni. Ha a levágásra szánt állat rendeltetési helye a Magyar Köztársaság területén található vágóhíd, az állat levágása során az adott állatfajra vonatkozó külön jogszabályokban meghatározott előírásokat kell alkalmazni.
+(5)[^7] Ha a tenyésztésre vagy továbbtartásra szánt állat rendeltetési helye Magyarország területén található, akkor az állatnak az illetékes megyei (fővárosi) állategészségügyi és élelmiszer-ellenőrző állomás hatósági felügyelete alatt kell maradnia. A külön jogszabály által megállapított megfigyelési időtartam eltelte után az állat Európai Unión belüli kereskedelmi forgalomba hozatalára az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló miniszteri rendelet előírásait kell alkalmazni. Ha a levágásra szánt állat rendeltetési helye Magyarország területén található vágóhíd, az állat levágása során az adott állatfajra vonatkozó külön jogszabályokban meghatározott előírásokat kell alkalmazni.
+
+[^4]: A 8. § (1) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 14. § a) pontja szerint módosított szöveg.
+[^5]: A 8. § (1) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 14. § a) pontja szerint módosított szöveg.
+[^6]: A 8. § (4) bekezdése az 5/2012. (II. 10.) VM rendelet 14. § a) pontja szerint módosított szöveg.
+[^7]: A 8. § (5) bekezdése az 5/2012. (II. 10.) VM rendelet 14. § a) pontja szerint módosított szöveg.

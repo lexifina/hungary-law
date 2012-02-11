@@ -10,6 +10,8 @@ d) a határállomási állatorvos az egyes élő állatok és termékek Európai
 
 e) a harmadik országokból az Európai Unió területére behozni kívánt termékek állategészségügyi ellenőrzésének szabályairól szóló miniszteri rendelet 1. számú mellékletében meghatározott területen történő átszállítást a közösségi tranziteljárás (külső tranzit), vagy a külön jogszabályban meghatározott vámeljárás szerint végzik.
 
-(2) Az átszállítás során az állattal kapcsolatba kerülni csak a Magyar Köztársaság területére való belépés vagy onnan való kilépés helyén, vagy az állatok jólléte érdekében szabad.
+(2)[^8] Az átszállítás során az állattal kapcsolatba kerülni csak Magyarország területére való belépés vagy onnan való kilépés helyén, vagy az állatok jólléte érdekében szabad.
 
 (3) Az (1)–(2) bekezdésben foglaltak végrehajtása során felmerült minden költség – állami visszatérítés nélkül – a feladót vagy a címzettet vagy annak képviselőjét terheli.
+
+[^8]: A 9. § (2) bekezdése az 5/2012. (II. 10.) VM rendelet 14. § a) pontja szerint módosított szöveg.

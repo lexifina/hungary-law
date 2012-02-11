@@ -2,7 +2,7 @@
 
 a) a minisztérium haladéktalanul kapcsolatba lép az adott tagállam illetékes hatóságával,
 
-b) ha az a) pontban foglaltak teljesülése után a minisztérium a feladó tagállam illetékes hatóságától értesítést kap a végrehajtott ellenőrzés jellegéről, a döntésről és annak okáról, és valószínűsíti, hogy az adott intézkedés nem megfelelő, akkor a két tagállam illetékes hatóságai – a Magyar Köztársaság részéről a minisztérium – közösen keresnek megoldást a helyzetre, amely kiterjedhet az érintett tagállamban lefolytatott egyeztető megbeszélésre is,
+b)[^11] ha az a) pontban foglaltak teljesülése után a minisztérium a feladó tagállam illetékes hatóságától értesítést kap a végrehajtott ellenőrzés jellegéről, a döntésről és annak okáról, és valószínűsíti, hogy az adott intézkedés nem megfelelő, akkor a két tagállam illetékes hatóságai – Magyarország részéről a minisztérium – közösen keresnek megoldást a helyzetre, amely kiterjedhet az érintett tagállamban lefolytatott egyeztető megbeszélésre is,
 
 c) ha az állat forgalomba hozatalának helye szerint illetékes állategészségügyi hatóság által elvégzett ellenőrzés azt mutatja, hogy az e rendelet előírásainak ismétlődően nem tesznek eleget, akkor a minisztérium tájékoztatja a többi tagállam illetékes hatóságát és az Európai Bizottságot,
 
@@ -16,4 +16,7 @@ g) a minisztérium kezdeményezheti az Európai Bizottságnál a megfelelő int�
 
 (2) Ha a forgalomba hozatal szerint illetékes tagállam az elvégzett ellenőrzés alapján úgy ítéli meg, hogy az e rendelet előírásainak valamely magyar állategészségügyi határállomáson nem tesznek eleget és felveszi a kapcsolatot a minisztériummal, a minisztérium minden szükséges intézkedést megtesz, valamint tájékoztatja az illetékes tagállamot a végrehajtott ellenőrzés jellegéről, a döntésről és annak okáról.
 
-(3) Ha a forgalomba hozatal szerint illetékes tagállam a (2) bekezdés szerinti tájékoztatás alapján azt valószínűsíti, hogy az adott intézkedés nem megfelelő, a két tagállam illetékes hatóságai – a Magyar Köztársaság részéről a minisztérium – közösen keresnek megoldást a helyzetre, amely kiterjedhet a Magyar Köztársaságban lefolytatott egyeztető megbeszélésre is. Ilyen esetben az Európai Bizottság által küldött ellenőrző csoport a minisztériummal együttműködve ellenőrzést végezhet az érintett helyszínen. Az Európai Bizottság vizsgálatának eredményéig az állategészségügyi hatóság a forgalomba hozatal szerint illetékes tagállam kérésére köteles fokozni az adott állategészségügyi határállomáson vagy karanténközpontban az ellenőrzést.
+(3)[^12] Ha a forgalomba hozatal szerint illetékes tagállam a (2) bekezdés szerinti tájékoztatás alapján azt valószínűsíti, hogy az adott intézkedés nem megfelelő, a két tagállam illetékes hatóságai – Magyarország részéről a minisztérium – közösen keresnek megoldást a helyzetre, amely kiterjedhet Magyarországon lefolytatott egyeztető megbeszélésre is. Ilyen esetben az Európai Bizottság által küldött ellenőrző csoport a minisztériummal együttműködve ellenőrzést végezhet az érintett helyszínen. Az Európai Bizottság vizsgálatának eredményéig az állategészségügyi hatóság a forgalomba hozatal szerint illetékes tagállam kérésére köteles fokozni az adott állategészségügyi határállomáson vagy karanténközpontban az ellenőrzést.
+
+[^11]: A 19. § (1) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 14. § a) pontja szerint módosított szöveg.
+[^12]: A 19. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 14. § a) és c) pontja szerint módosított szöveg.
