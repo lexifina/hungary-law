@@ -8,6 +8,6 @@
 
 (5) Az Európai Unió felé történő tájékoztatási, adatszolgáltatási és jelentéstételi kötelezettség teljesítése az MVH feladata.
 
-(6)[^10] A miniszter gondoskodik az Európai Bizottság értesítéséről a mezőgazdasági termékek belső piacon és harmadik országokban történő megismertetésével és promóciójával kapcsolatos intézkedésekről szóló 3/2008/EK tanácsi rendelet alkalmazására vonatkozó részletes szabályok megállapításáról szóló 2008. június 5-i 501/2008/EK bizottsági rendelet 2. cikkében foglaltak szerint.
+(6)[^11] A miniszter gondoskodik az Európai Bizottság értesítéséről a mezőgazdasági termékek belső piacon és harmadik országokban történő megismertetésével és promóciójával kapcsolatos intézkedésekről szóló 3/2008/EK tanácsi rendelet alkalmazására vonatkozó részletes szabályok megállapításáról szóló 2008. június 5-i 501/2008/EK bizottsági rendelet 2. cikkében foglaltak szerint.
 
-[^10]: Az 5. § (6) bekezdését a 108/2008. (VIII. 27.) FVM rendelet 4. §-a iktatta be.
+[^11]: Az 5. § (6) bekezdését a 108/2008. (VIII. 27.) FVM rendelet 4. §-a iktatta be.
