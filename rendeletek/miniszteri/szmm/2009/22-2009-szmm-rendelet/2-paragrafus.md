@@ -6,6 +6,8 @@ b) az Ágazati Részvételt Megállapító Bizottságra (a továbbiakban: ÁRMB)
 
 c) a társadalmi párbeszédért felelős miniszterre (a továbbiakban: miniszter)
 
+d)[^1] a Nemzeti Munkaügyi Hivatalra (a továbbiakban: Hivatal)
+
 kell alkalmazni.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően e rendelet hatálya
@@ -21,3 +23,5 @@ tekintetében kiterjed az ágazatban működő munkáltatói és munkavállalói
 (4) E rendelet hatálya a kollektív szerződés ágazatra való kiterjesztésével kapcsolatos eljárással összefüggésben kiterjed az annak az ágazatnak az irányításáért felelős miniszterre, melyre a kollektív szerződés kiterjesztését kérték (a továbbiakban: ágazati miniszter), illetve az Országos Érdekegyeztető Tanács kollektív megállapodásokkal kapcsolatos feladatot ellátó bizottságára is.
 
 (5) Ahol e rendelet ÁPB-t említ, azon RPB-t is érteni kell.
+
+[^1]: A 2. § (1) bekezdés d) pontját a 3/2012. (II. 10.) NGM rendelet 18. § (1) bekezdése iktatta be.
