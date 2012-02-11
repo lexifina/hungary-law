@@ -46,6 +46,6 @@
 
 | 21. | Farm menedzsment, ökonómia | – |
 
-5. számú melléklet a 90/2009. (VII. 24.) FVM rendelethez[^7]
+5. számú melléklet a 90/2009. (VII. 24.) FVM rendelethez[^8]
 
-[^7]: Az 5. számú mellékletet a 23/2010. (III. 16.) FVM rendelet 19. § (4) bekezdése hatályon kívül helyezte.
+[^8]: Az 5. számú mellékletet a 23/2010. (III. 16.) FVM rendelet 19. § (4) bekezdése hatályon kívül helyezte.

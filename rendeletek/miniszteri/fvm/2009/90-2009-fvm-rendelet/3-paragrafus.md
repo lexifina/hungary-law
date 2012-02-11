@@ -1,4 +1,4 @@
-3. § (1)[^1] A szaktanácsadói engedély – beleértve a szaktanácsadó asszisztens és az erdészeti technikus szaktanácsadó tevékenységének engedélyezését is – iránti kérelmet az FVM VKSZI által az 1. számú melléklet szerinti adattartalommal rendszeresített, az FVM VKSZI honlapján közzétett formanyomtatványon, postai vagy elektronikus úton, egy példányban kell benyújtani az FVM VKSZI-hez.
+3. § (1)[^2] A szaktanácsadói engedély – beleértve a szaktanácsadó asszisztens és az erdészeti technikus szaktanácsadó tevékenységének engedélyezését is – iránti kérelmet az FVM VKSZI által az 1. számú melléklet szerinti adattartalommal rendszeresített, az FVM VKSZI honlapján közzétett formanyomtatványon, postai vagy elektronikus úton, egy példányban kell benyújtani az FVM VKSZI-hez.
 
 (2) A szaktanácsadói engedély iránti kérelmet az FVM VKSZI-nek címezve egy példányban kell benyújtani.
 
@@ -40,4 +40,4 @@ h) 22. támogatási programokhoz kapcsolódó tanácsadás szakterületen belül
 
 (6) A 6. számú mellékletben nem szereplő felsőfokú végzettség elfogadásáról a képzés szakmai tartalmának vizsgálata alapján az FVM VKSZI dönt.
 
-[^1]: A 3. § (1) bekezdése a 23/2010. (III. 16.) FVM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (1) bekezdése a 23/2010. (III. 16.) FVM rendelet 19. § (1) bekezdésével megállapított szöveg.
