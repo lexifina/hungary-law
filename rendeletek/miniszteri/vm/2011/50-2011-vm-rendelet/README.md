@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-50-20-2
 | 2011-06-09 | 2011-50-20-2Y.1 | 50/2011. (VI. 6.) VM rendelet |
 | 2011-06-10 | 2011-50-20-2Y.2 | 2010: CXXX. törvény |
 | 2011-09-02 | 2011-50-20-2Y.3 | 86/2011. (IX. 1.) VM rendelet |
+| 2012-02-11 | 2011-50-20-2Y.4 | 5/2012. (II. 10.) VM rendelet |
