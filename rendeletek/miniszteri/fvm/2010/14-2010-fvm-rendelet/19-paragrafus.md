@@ -1,4 +1,4 @@
-## 18. §[^7]
+## 18. §[^9]
 
 19. § (1) E rendelet hatálybalépésével egyidejűleg hatályát veszti a tehéntej termékpálya szabályozásában alkalmazott kvótarendszerről szóló 43/2008. (IV. 4.) FVM rendelet, azzal hogy rendelkezéseit a folyamatban lévő ügyekben alkalmazni kell.
 
@@ -6,4 +6,4 @@
 
 (3) A 18. §-ban foglalt rendelkezéseket a folyamatban lévő ügyekben is alkalmazni kell.
 
-[^7]: A 18. §-t a 20. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 18. §-t a 20. § (1) bekezdése hatályon kívül helyezte.
