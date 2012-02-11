@@ -1,4 +1,4 @@
-## 3. §[^5] Az e rendeletben foglaltak munkaegészségügyi vonatkozású előírásai végrehajtásának ellenőrzésére, hiányosságok észlelése esetén pedig a szükséges intézkedések megtételére a fővárosi és megyei kormányhivatal munkavédelmi felügyelősége jogosult.
+## 3. §[^5] Az e rendeletben foglaltak munkaegészségügyi vonatkozású előírásai végrehajtásának ellenőrzésére, hiányosságok észlelése esetén pedig a szükséges intézkedések megtételére a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve felügyelősége jogosult.
 
 4. §[^6] Ez a rendelet 1987. július 1. napján lép hatályba.
 
@@ -12,7 +12,7 @@ Szabályzat a keszonmunkákra
 
 1.2. A munka végrehajtására a munkáltatónak részletes technológiai, műveleti, kezelési, karbantartási utasításokat kell készíteni.
 
-1.3.[^7] A túlnyomásos légtérben végzett tevékenységet, annak megkezdése előtt 15 nappal, a munkáltató bejelenti az Országos Munkavédelmi és Munkaügyi Főfelügyelőség területileg illetékes munkavédelmi felügyelőségének (a továbbiakban: munkavédelmi felügyelőség), megjelölve:
+1.3.[^7] A túlnyomásos légtérben végzett tevékenységet, annak megkezdése előtt 15 nappal, a munkáltató bejelenti a területileg illetékes fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szervének munkavédelmi felügyelősége felé, megjelölve:
 
 a) a tevékenység megkezdésének helyét és időpontját;
 
@@ -368,9 +368,9 @@ b) gyógyzsilipelés végrehajtásakor a zsilipben a hőmérsékletnek lehetőle
 
 | 321–340 |  |  |  |  | 5 | 10 | 25 | 40 | 85 | 80 |
 
-[^5]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 2. §-ával megállapított, a 3/2012. (II. 10.) NGM rendelet 1. § a) pontja szerint módosított szöveg.
 [^6]: A 4. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 211. pontja hatályon kívül helyezte.
-[^7]: A melléklet 1.3. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^7]: A melléklet 1.3. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (2) bekezdésével megállapított, nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 1. § b) pontja szerint módosított szöveg.
 [^8]: A melléklet 8.1. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (3) bekezdésével megállapított szöveg.
 [^9]: A munkahelyek kémiai biztonságáról szóló 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
 [^10]: A melléklet 8.2. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (4) bekezdésével megállapított szöveg. [E módosító rendelet a melléklet 8.3. pontjáról rendelkezett, azonban a módosítás tartalmilag a 8.2. pontnak felelt meg.]
