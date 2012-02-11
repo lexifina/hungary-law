@@ -46,7 +46,7 @@ c) az új gép vásárlásához kapcsolódó számla másolatán fel kell tünte
 
 d) a kérelmezőnek rendelkeznie kell az új gép vásárlásához kapcsolódó számla teljesítésének időpontjában kezdődő termékfelelősségi, jótállási és szavatossági jogainak érvényesítéséhez szükséges okiratokkal;
 
-e) az új gép üzemeltetésének helye a Magyar Köztársaság területe.
+e)[^2] az új gép üzemeltetésének helye Magyarország területe.
 
 (3) A gépcsere bejelentőlaphoz csatolni kell
 
@@ -81,3 +81,5 @@ d) amortizáció esetén a készletnyilvántartásból történő kivezetést ig
 e) az eredeti gép ellopása esetén a rendőrségi jegyzőkönyv másolatát,
 
 f) működésképtelenné vagy használhatatlanná válás esetén szakértői véleményt igazoló dokumentum vagy selejtezési jegyzőkönyv másolatát.
+
+[^2]: A 11. § (2) bekezdés e) pontja az 5/2012. (II. 10.) VM rendelet 60. §-a szerint módosított szöveg.
