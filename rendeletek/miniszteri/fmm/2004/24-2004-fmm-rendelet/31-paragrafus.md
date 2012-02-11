@@ -8,11 +8,11 @@ b) a FAT által már akkreditált program esetén a 15. § (3) bekezdésében fo
 
 ## vizsgálja.
 
-(3)[^86]
+(3)[^88]
 
 (4) A FAT a kérelemnek, illetve bejelentésnek helyt adó határozat meghozatalával egyidejűleg a 10. számú mellékletben meghatározott tartalmú program-akkreditációs tanúsítványt állít ki.
 
-(5)[^87] Az NSZFI a kiállított tanúsítvány megküldésével egyidejűleg gondoskodik a FAT által hitelesített képzési program egy eredeti példányának a kérelmező intézmény részére történő megküldéséről.
+(5)[^89] Az NMH a kiállított tanúsítvány megküldésével egyidejűleg gondoskodik a FAT által hitelesített képzési program egy eredeti példányának a kérelmező intézmény részére történő megküldéséről.
 
-[^86]: A 31. § (3) bekezdését a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés a) pont al) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
-[^87]: A 31. § (5) bekezdése a 4/2007. (II. 12.) SZMM rendelet 21. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
+[^88]: A 31. § (3) bekezdését a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés a) pont al) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^89]: A 31. § (5) bekezdése a 4/2007. (II. 12.) SZMM rendelet 21. § (4) bekezdése, a 3/2012. (II. 10.) NGM rendelet 10. § b) pontja szerint módosított szöveg.

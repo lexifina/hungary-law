@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-24-20-S
 | 2010-04-10 | 2004-24-20-SY.6 | 100/2010. (IV. 2.) Korm. rendelet |
 | 2011-01-01 | 2004-24-20-SY.7 | 27/2010. (XII. 31.) NGM rendelet |
 | 2011-12-17 | 2004-24-20-SY.8 | 44/2011. (XII. 16.) NGM rendelet |
+| 2012-02-11 | 2004-24-20-SY.9 | 4/2007. (II. 12.) SZMM rendelet |

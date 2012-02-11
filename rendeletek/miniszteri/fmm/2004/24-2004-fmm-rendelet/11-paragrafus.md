@@ -1,3 +1,3 @@
-## Adatváltozás[^25]
+## Adatváltozás[^26]
 
-[^25]: A 11. §-t megelőző alcím a 4/2010. (II. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^26]: A 11. §-t megelőző alcím a 4/2010. (II. 26.) Korm. rendelet 7. §-ával megállapított szöveg.

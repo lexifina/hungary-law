@@ -1,4 +1,4 @@
-16. §[^41] (1) Nem adható programakkreditáció, ha
+16. §[^42] (1) Nem adható programakkreditáció, ha
 
 a) a kérelmező intézmény a felnőttképzési tevékenység folytatását megtiltó intézkedés hatálya alatt áll,
 
@@ -16,13 +16,13 @@ a) azt az intézmény saját maga kéri,
 
 b) a képzési program megvalósítása nem az e rendelet szerinti követelményeknek megfelelően történik,
 
-c)[^42] a fővárosi és megyei kormányhivatal munkaügyi központja az intézménynek a felnőttképzési tevékenység folytatását megtiltotta,
+c)[^43] a fővárosi és megyei kormányhivatal munkaügyi központja az intézménynek a felnőttképzési tevékenység folytatását megtiltotta,
 
 d) az intézmény képzési tevékenységét az Fktv., illetve a kormányrendelet szabályainak megsértésével folytatja,
 
 e) az intézményt a felnőttképzést folytató intézmények nyilvántartásából törölték,
 
-f)[^43] az intézmény a FAT bírságot megállapító határozata ellenére nem kezdeményezte határidőben a 11. § szerinti adatváltozásnak a programakkreditációs tanúsítványon való átvezetését,
+f)[^44] az intézmény a FAT bírságot megállapító határozata ellenére nem kezdeményezte határidőben a 11. § szerinti adatváltozásnak a programakkreditációs tanúsítványon való átvezetését,
 
 g) a jogutódlás miatti adatváltozás kezdeményezése esetén a jogutódlás nem igazolható,
 
@@ -30,6 +30,6 @@ h) az Oktatási Hivatal ezt a felsőoktatási intézménynek a felsőoktatási n
 
 i) az Fktv. 19. § (3) bekezdése alapján a programakkreditációs tanúsítvány kiadásának feltételei már nem állnak fenn.
 
-[^41]: A 16. § a 4/2010. (II. 26.) SZMM rendelet 9. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
-[^42]: A 16. § (3) bekezdés c) pontja a 27/2010. (XII. 31.) NGM rendelet 41. §-a szerint módosított szöveg.
-[^43]: A 16. § (3) bekezdés f) pontja a 44/2011. (XII. 16.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^42]: A 16. § a 4/2010. (II. 26.) SZMM rendelet 9. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^43]: A 16. § (3) bekezdés c) pontja a 27/2010. (XII. 31.) NGM rendelet 41. §-a szerint módosított szöveg.
+[^44]: A 16. § (3) bekezdés f) pontja a 44/2011. (XII. 16.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
