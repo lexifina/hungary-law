@@ -1,0 +1,3 @@
+## 20. § Az iparügyekért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésének, valamint a kijelölt szervezetek tevékenységének különös szabályairól szóló 5/2010. (I. 14.) NFGM rendelet 1. § (2) bekezdésében „az iparügyekért felelős miniszter” szövegrész helyébe „a Magyar Kereskedelmi Engedélyezési Hivatal” szöveg lép.
+
+## 21. Az egyszerűsített felszámolás során a felszámolói díj kiegészítéséhez nyújtott költségvetési támogatás központi költségvetéssel történő elszámolásának szabályairól szóló 7/2010. (III. 12.) PM rendelet módosítása
