@@ -2,7 +2,7 @@
 
 ## Az egyes országok afrikai sertéspestis laboratóriumok listája és feladatai
 
-1.[^14] Az egyes országok afrikai sertéspestis-laboratóriumai a következők:
+1.[^15] Az egyes országok afrikai sertéspestis-laboratóriumai a következők:
 
 Belgium
 
@@ -64,7 +64,7 @@ Egyesült királyság
 
 Institute for Animal Health, Pirbright, Woking, Surrey GU24 ONF
 
-Magyar Köztársaság
+Magyarország
 
 Országos Állategészségügyi Intézet Budapest, Tábornok u. 2.
 
@@ -106,4 +106,4 @@ c) időszakosan összehasonlító teszteket végeznek;
 
 d) megőrzik az adott tagállamban megállapított esetekből és kitörésekből származó afrikai sertéspestis vírusizolátumokat.
 
-[^14]: A 4. melléklet 1. pontja az 58/2007. (VII. 9.) FVM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 4. számú melléklet 1. pontja az 58/2007. (VII. 9.) FVM rendelet 2. § (2) bekezdése, az 5/2012. (II. 10.) VM rendelet 5. §-a szerint módosított szöveg.

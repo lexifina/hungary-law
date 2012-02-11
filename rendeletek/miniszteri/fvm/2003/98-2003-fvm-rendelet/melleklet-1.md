@@ -6,7 +6,7 @@
 
 a) a bejelentés időpontja (dátuma);
 
-b) Magyar Köztársaság;
+b)[^14] Magyarország;
 
 c) a betegség megnevezését;
 
@@ -65,3 +65,5 @@ gb) a járványügyi kapcsolatról az afrikai sertéspestis kitörése vagy elő
 gc) a sertések leölésekor a gazdaságokban vett minták laboratóriumi vizsgálatainak eredményeiről.
 
 Ha a sertéseket a kontaktgazdaságokban nem ölték le, felvilágosítást kell adni a döntés okairól.
+
+[^14]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-98-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2003-98-20-82.4 | 98/2003. (VIII. 22.) FVM rendelet |
+| 2012-02-11 | 2003-98-20-82.5 | 5/2012. (II. 10.) VM rendelet |
