@@ -82,6 +82,6 @@
 
 ## 4. Kérelmező aláírása.
 
-4. melléklet a 116/2011. (XII. 14.) VM rendelethez[^3]
+4. melléklet a 116/2011. (XII. 14.) VM rendelethez[^4]
 
-[^3]: A 4. melléklet a 3/2012. (I. 31.) VM rendelet 12. §-a szerint módosított szöveg.
+[^4]: A 4. melléklet a 3/2012. (I. 31.) VM rendelet 12. §-a szerint módosított szöveg.
