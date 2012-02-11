@@ -112,44 +112,40 @@
 
 ## A kérelemhez csatolt dokumentumok:
 
-2. számú melléklet a 17/2008. (XII. 3.) SZMM rendelethez
+2. számú melléklet a 17/2008. (XII. 3.) SZMM rendelethez[^20]
 
-SZOCIÁLIS ÉS MUNKAÜGYI MINISZTER
+NEMZETI MUNKAÜGYI HIVATAL
 
 Szám: ............../20...............
 
 KIJELÖLŐ OKIRAT
 
-Az egyéni védőeszközök megfelelőségét tanúsító, ellenőrző szervezetek kijelölésének és bejelentésének részletes szabályairól szóló 17/2008. (XII. 3.) SZMM rendeletben meghatározott eljárás alapján megállapítottam, hogy
+| Az egyéni védőeszközök megfelelőségét tanúsító, ellenőrző szervezetek kijelölésének és bejelentésének részletes szabályairól szóló 17/2008. (XII. 3.) SZMM rendeletben meghatározott eljárás alapján megállapítottam, hogy |
 
-.................................................................................. (szervezet)
+| ....................................................................................................... (szervezet) a bejelentett szervezetre vonatkozó követelményeket kielégíti, ezért kijelölöm a |
 
-a bejelentett szervezetre vonatkozó követelményeket kielégíti, ezért kijelölöm a
+| az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 17/2008. (XII. 3.) SZMM rendelet, az egyéni védőeszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 1989. december 21-i 89/686/EGK tanácsi irányelv szerinti tanúsítására ellenőrzésére. |
 
-az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 17/2008. (XII. 3.) SZMM rendelet, az egyéni védőeszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 1989. december 21-i 89/686/EGK tanácsi irányelv szerinti tanúsítására ellenőrzésére1.
+| A bejelentett szervezet azonosító száma: |
 
-A bejelentett szervezet azonosító száma:
+| A bejelentett szervezet a kijelölés területe szerinti tevékenységét mindenkor az arra vonatkozó jogszabályok és mértékadó szabványok vagy ez utóbbiakkal legalább egyenértékű követelmények következetes és pontos megtartásával, az ilyen tevékenységet ellátó szervezettől elvárható pontossággal és színvonalon köteles ellátni. Ennek megítélése céljából a kijelölő általi felülvizsgálatban közreműködni tartozik. |
 
-A bejelentett szervezet a kijelölés területe szerinti tevékenységét mindenkor az arra vonatkozó jogszabályok és mértékadó szabványok vagy ez utóbbiakkal legalább egyenértékű követelmények következetes és pontos megtartásával, az ilyen tevékenységet ellátó szervezettől elvárható pontossággal és színvonalon köteles ellátni. Ennek megítélése céljából a kijelölő általi felülvizsgálatban közreműködni tartozik.
+| A Kijelölő Okirat érvényessége: 20.......................-ig |
 
-A Kijelölő Okirat érvényessége: 20.......................-ig
+| Kelt: Budapesten, 20.................................................-én |
 
-Kelt: Budapesten, 20.............................................-én
+| ........................................................................ |
 
-..............................................................
+| kijelölő |
 
-kijelölő
+| A Kijelölő Okirat érvényességének meghosszabbítása: |
 
-A Kijelölő Okirat érvényességének meghosszabbítása:
+| A Kijelölő Okirat érvényessége: 20...........-ig |
 
-A Kijelölő Okirat érvényessége: 20...........-ig
+| Kelt: Budapesten, 20.....................................-én |
 
-Kelt: Budapesten, 20.................................-én
+| ........................................................................ |
 
-...........................................................................
+| kijelölő |
 
-kijelölő
-
-–––––––––––
-
-1 A kijelölés területe szerint a nem megfelelő szövegrészt a kijelölő törli.
+[^20]: A 2. melléklet a 3/2012. (II. 10.) NGM rendelet 16. § (1) bekezdésével megállapított szöveg.

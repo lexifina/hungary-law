@@ -1,4 +1,4 @@
-## 15. § A bejelentett tanúsító szervezet az OMMF útján haladéktalanul tájékoztatja a kijelölőt az általa kiállított EK- típustanúsítvány kiadásáról, módosításáról, felfüggesztéséről, a felfüggesztés megszüntetéséről vagy a felfüggesztés visszavonásáról.
+## 15. §[^12] A bejelentett tanúsító szervezet haladéktalanul tájékoztatja a kijelölőt az általa kiállított EK- típustanúsítvány kiadásáról, módosításáról, felfüggesztéséről, a felfüggesztés megszüntetéséről vagy a felfüggesztés visszavonásáról.
 
 16. § (1) A bejelentés feltételeinek való megfelelést a kijelölő a Bizottság útján évente felülvizsgálja. A felülvizsgálatra a döntés-előkészítő eljárás szabályai az irányadók. A Bizottság a felülvizsgálat céljából
 
@@ -14,7 +14,7 @@ b) az Okirat kiadásának alapjául szolgáló követelmény, körülmény, a vi
 
 c) a bejelentett szervezet által vizsgált, tanúsított, illetve ellenőrzött egyéni védőeszköz használata során baleset vagy egészségkárosodás következett be, és valószínűsíthető, hogy a bekövetkezés oka összefügg a bejelentett szervezetnek az egyéni védőeszközzel kapcsolatos tevékenységével;
 
-d) a bejelentett szervezet jogszabály előírása, valamint a gyártó, illetve a forgalmazó kezdeményezése ellenére elmulasztotta tájékoztatni a fogyasztóvédelmi hatóságot, valamint az OMMF útján a kijelölőt a megfelelőség tanúsításához szükséges vizsgálat alapján tett azon megállapításáról, hogy az áru
+d)[^13] a bejelentett szervezet jogszabály előírása, valamint a gyártó, illetve a forgalmazó kezdeményezése ellenére elmulasztotta tájékoztatni a fogyasztóvédelmi hatóságot, valamint a kijelölőt a megfelelőség tanúsításához szükséges vizsgálat alapján tett azon megállapításáról, hogy az áru
 
 da) csak meghatározott feltételek teljesítése esetén hozható forgalomba, illetve
 
@@ -24,4 +24,8 @@ db) a fogyasztó életét, egészségét vagy testi épségét súlyosan veszél
 
 (4) Ha a felülvizsgálat eredményeként megállapítható, hogy a kijelölés területe tekintetében a bejelentett szervezet tevékenységében, működésében, személyi, illetve tárgyi felkészültségében olyan változás történt, amely miatt a bejelentett szervezet nem felel meg a kijelölés feltételeinek, a kijelölő a Bizottság javaslatára az Okiratot visszavonja, és erről elektronikus úton tájékoztatja az Európai Bizottságot és a tagállamokat.
 
-(5) Ha a kijelölő által visszavont Okirat akkreditáltságon alapult, a kijelölő az OMMF útján az Okirat visszavonásáról tájékoztatja a NAT-ot.
+(5)[^14] Ha a kijelölő által visszavont Okirat akkreditáltságon alapult, a kijelölő az Okirat visszavonásáról tájékoztatja a NAT-ot.
+
+[^12]: A 15. § a 3/2012. (II. 10.) NGM rendelet 16. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 16. § (2) bekezdés d) pontja a 3/2012. (II. 10.) NGM rendelet 16. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 16. § (5) bekezdése a 3/2012. (II. 10.) NGM rendelet 16. § (3) bekezdés b) pontja szerint módosított szöveg.
