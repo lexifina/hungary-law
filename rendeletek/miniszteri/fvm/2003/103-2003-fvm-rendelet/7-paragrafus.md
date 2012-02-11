@@ -1,4 +1,4 @@
-7. § (1)[^14] A csomagolóeszköz-hulladéknak a gyűjtőhelyről a kezelőhöz történő elszállítását az összegyűjtő, illetve a vele szerződéses jogviszonyban álló vállalkozó (a továbbiakban együtt: szállító) végezheti.
+7. § (1)[^15] A csomagolóeszköz-hulladéknak a gyűjtőhelyről a kezelőhöz történő elszállítását az összegyűjtő, illetve a vele szerződéses jogviszonyban álló vállalkozó (a továbbiakban együtt: szállító) végezheti.
 
 (2) A felhasználó a tisztított csomagolóeszköz hulladékot a gyűjtőhelyre saját járművel engedély nélkül szállíthatja.
 
@@ -8,4 +8,4 @@
 
 (5) Az összegyűjtő a szállításra előkészített csomagolóeszköz hulladékot legfeljebb hét napig tárolhatja, ezalatt megfelelő őrzéséről gondoskodnia kell.
 
-[^14]: A 7. § (1) bekezdése a 115/2011. (XII. 9.) VM rendelet 5. §-ával megállapított szöveg.
+[^15]: A 7. § (1) bekezdése a 115/2011. (XII. 9.) VM rendelet 5. §-ával megállapított szöveg.
