@@ -1,12 +1,12 @@
-## A képzési támogatásként adható, költségtérítés szempontjából figyelembe vehető kiadások köre[^220]
+## A képzési támogatásként adható, költségtérítés szempontjából figyelembe vehető kiadások köre[^229]
 
-## 1.[^221] A képzést lebonyolító oktatók részére fizetett ellenérték és annak járulékai.
+## 1.[^230] A képzést lebonyolító oktatók részére fizetett ellenérték és annak járulékai.
 
 ## 2. Külön jogszabályban meghatározott vizsga- és vizsgáztatási díj.
 
 ## 3. A képzés során felhasznált, a hallgatóknak véglegesen átadott tankönyvek, taneszközök díja.
 
-## 4.[^222] Az elméleti, gyakorlati képzés során felhasznált anyagok (energia) költsége.
+## 4.[^231] Az elméleti, gyakorlati képzés során felhasznált anyagok (energia) költsége.
 
 ## 5. Amortizáció (használattal arányosan elszámolható) költsége.
 
@@ -16,18 +16,18 @@
 
 ## 8. Egyéb, a képzés megszervezésével, lebonyolításával, értékelésével kapcsolatos költségek (bérleti díjak, rezsi-, posta- és adminisztrációs költségek).
 
-## A 8. pontban szereplő költségek legfeljebb a képzési költség 20 százalékáig terjedhetnek.[^223]
+## A 8. pontban szereplő költségek legfeljebb a képzési költség 20 százalékáig terjedhetnek.[^232]
 
-## 9.[^224] Alkalmassági vizsgálat költsége.
+## 9.[^233] Alkalmassági vizsgálat költsége.
 
-## 10.[^225] A gyakorlati képzést bonyolító munkaadónak a gyakorlati képzésben részt vevő személy megváltozott munkaképességéből adódó többletköltségek.
+## 10.[^234] A gyakorlati képzést bonyolító munkaadónak a gyakorlati képzésben részt vevő személy megváltozott munkaképességéből adódó többletköltségek.
 
-2. számú melléklet a 6/1996. (VII. 16.) MüM rendelethez[^226]
+2. számú melléklet a 6/1996. (VII. 16.) MüM rendelethez[^235]
 
-[^220]: A melléklet eredeti szövegének számozását a 14/1997. (VIII. 26.) MüM rendelet 2. §-a 1. számú mellékletre változtatta.
-[^221]: A melléklet 1. pontja a 8/1997. (IV. 28.) MüM rendelet 21. §-a szerint módosított szöveg.
-[^222]: A melléklet 4. pontja a 8/1997. (IV. 28.) MüM rendelet 21. §-a szerint módosított szöveg.
-[^223]: Az 1. számú melléklet 9. pontját megelőző szöveg a 4/2000. (IV. 12.) SZCSM rendelet 19. §-ával megállapított szöveg.
-[^224]: A melléklet 9. pontját a 8/1997. (IV. 28.) MüM rendelet 21. §-a iktatta a szövegbe.
-[^225]: Az 1. számú melléklet 10. pontját a 6/1998. (III. 4.) MüM rendelet 13. §-a iktatta a szövegbe.
-[^226]: A 2. számú mellékletet a 14/1997. (VIII. 26.) MüM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 20/2005. (X. 27.) FMM rendelet 29. § (3) bekezdése. Ez utóbbi módosító rendelet 29. § (3) bekezdése alapján a rendelkezéseket a 2005-ben lerótt csökkentett összegű közteherjegyekre vonatkozóan 2006-ban továbbra is alkalmazni kell.
+[^229]: A melléklet eredeti szövegének számozását a 14/1997. (VIII. 26.) MüM rendelet 2. §-a 1. számú mellékletre változtatta.
+[^230]: A melléklet 1. pontja a 8/1997. (IV. 28.) MüM rendelet 21. §-a szerint módosított szöveg.
+[^231]: A melléklet 4. pontja a 8/1997. (IV. 28.) MüM rendelet 21. §-a szerint módosított szöveg.
+[^232]: Az 1. számú melléklet 9. pontját megelőző szöveg a 4/2000. (IV. 12.) SZCSM rendelet 19. §-ával megállapított szöveg.
+[^233]: A melléklet 9. pontját a 8/1997. (IV. 28.) MüM rendelet 21. §-a iktatta a szövegbe.
+[^234]: Az 1. számú melléklet 10. pontját a 6/1998. (III. 4.) MüM rendelet 13. §-a iktatta a szövegbe.
+[^235]: A 2. számú mellékletet a 14/1997. (VIII. 26.) MüM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 20/2005. (X. 27.) FMM rendelet 29. § (3) bekezdése. Ez utóbbi módosító rendelet 29. § (3) bekezdése alapján a rendelkezéseket a 2005-ben lerótt csökkentett összegű közteherjegyekre vonatkozóan 2006-ban továbbra is alkalmazni kell.

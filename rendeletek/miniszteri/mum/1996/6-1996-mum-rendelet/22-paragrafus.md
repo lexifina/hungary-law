@@ -1,6 +1,6 @@
-## 21/C. §[^141]
+## 21/C. §[^147]
 
-## [^142] II. Intenzív álláskeresés támogatása
+## [^148] II. Intenzív álláskeresés támogatása
 
-[^141]: A 21/C. §-t és az előtte lévő címet a 23/2001. (IX. 7.) GM rendelet 6. §-ának (1) bekezdése hatályon kívül helyezte, e módosító rendelet 6. § (2) bekezdése alapján a 21/C. § szerinti közhasznú szervezetek támogatására a 2001. 09. 08-át megelőzően kiírt pályázati felhívásra beadott kérelmekkel kapcsolatos ügyekben a pályázati felhívás kiadása idején hatályos szabályokat kell alkalmazni.
-[^142]: A címet a 6/1999. (IX. 3.) SZCSM rendelet 9. §-a állapította meg.
+[^147]: A 21/C. §-t és az előtte lévő címet a 23/2001. (IX. 7.) GM rendelet 6. §-ának (1) bekezdése hatályon kívül helyezte, e módosító rendelet 6. § (2) bekezdése alapján a 21/C. § szerinti közhasznú szervezetek támogatására a 2001. 09. 08-át megelőzően kiírt pályázati felhívásra beadott kérelmekkel kapcsolatos ügyekben a pályázati felhívás kiadása idején hatályos szabályokat kell alkalmazni.
+[^148]: A címet a 6/1999. (IX. 3.) SZCSM rendelet 9. §-a állapította meg.

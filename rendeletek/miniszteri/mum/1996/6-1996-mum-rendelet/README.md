@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-6-20-39
 | --- | --- | --- |
 | 2010-01-01 | 1996-6-20-39.29 | 6/1996. (VII. 16.) MüM rendelet |
 | 2011-01-01 | 1996-6-20-39.30 | 27/2010. (XII. 31.) NGM rendelet |
+| 2012-02-11 | 1996-6-20-39.31 | 3/2012. (II. 10.) NGM rendelet |

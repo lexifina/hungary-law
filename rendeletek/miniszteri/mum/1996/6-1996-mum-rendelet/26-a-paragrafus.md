@@ -1,8 +1,8 @@
-## 22–26. §[^143]
+## 22–26. §[^149]
 
 ## Munkaerőpiaci programok támogatása
 
-26/A. §[^144] (1) Az Flt. 19/B. §-ában meghatározott program (a továbbiakban: program) magában foglalhatja az Flt. és végrehajtási szabályai által tartalmazott munkaerőpiaci szolgáltatásokat, valamint a Munkaerőpiaci Alap foglalkoztatási és rehabilitációs alaprészéből nyújtható foglalkoztatást elősegítő támogatásokat.
+26/A. §[^150] (1)[^151] Az Flt. 19/B. §-ában meghatározott program (a továbbiakban: program) magában foglalhatja az Flt. és végrehajtási szabályai által tartalmazott munkaerőpiaci szolgáltatásokat, valamint a Nemzeti Foglalkoztatási Alap foglalkoztatási és rehabilitációs alaprészéből nyújtható foglalkoztatást elősegítő támogatásokat.
 
 (2) A program indítása előtt programtervet kell készíteni, amelyben meg kell határozni
 
@@ -42,5 +42,6 @@ ca) a rehabilitációs alaprész terhére indított központi program esetében 
 
 cb) egyéb esetben a foglalkoztatási alaprész terhére
 
-[^143]: A 22–26. §-t a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^144]: A 26/A. §-t és az előtte lévő alcímet a 4/2000. (IV. 12.) SZCSM rendelet 17. §-a iktatta a szövegbe.
+[^149]: A 22–26. §-t a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^150]: A 26/A. §-t és az előtte lévő alcímet a 4/2000. (IV. 12.) SZCSM rendelet 17. §-a iktatta a szövegbe.
+[^151]: A 26/A. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 3. § (18) bekezdés e) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## Foglalkoztatást elősegítő képzésben történő részvétel támogatása
 
-1. § (1)[^3] A Munkaerőpiaci Alapból – a (3) bekezdésben meghatározott képzések kivételével – a következő képzésekhez nyújtható képzési támogatás:
+1. § (1)[^3] A Nemzeti Foglalkoztatási Alapból – a (3) bekezdésben meghatározott képzések kivételével – a következő képzésekhez nyújtható képzési támogatás:
 
 a)[^4] a szakképzésről szóló 1993. évi LXXVI. törvény (a továbbiakban: szakképzési törvény) 1. §-ának b)–c), valamint e)– h) pontjaiban meghatározott szakképzés,
 
@@ -26,7 +26,7 @@ b) az olyan iskolarendszerű képzésre, amelyre az éves költségvetési törv
 
 (4)[^9] A (3) bekezdés a) pontjában foglaltaktól eltérően támogatás nyújtható az egyetemi (főiskolai) továbbtanulására felkészítő képzéshez, feltéve, ha a képzésben történő részvételt a cigány kisebbségi önkormányzat, cigány kisebbségi önkormányzati társulás vagy bíróság által nyilvántartásba vett cigány érdekképviseleti szervezet szervezi, vagy szervezésében közreműködik.
 
-[^3]: Az 1. § (1) bekezdése a 8/1997. (IV. 28.) MüM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdése a 8/1997. (IV. 28.) MüM rendelet 1. §-ának (1) bekezdésével megállapított, nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 3. § (18) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdésének a) pontja a 13/2003. (X. 10.) FMM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (1) bekezdésének d) pontja a 4/2000. (IV. 12.) SZCSM rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (1) bekezdésének e) pontja a 4/2000. (IV. 12.) SZCSM rendelet 1. §-ával megállapított, a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
