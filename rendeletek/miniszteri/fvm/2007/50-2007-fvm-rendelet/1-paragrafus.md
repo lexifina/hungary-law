@@ -24,7 +24,7 @@ k) forgóeszköz hitel: mezőgazdasági tevékenység költségeinek fedezetére
 
 l) intézményi kezességvállalás: hitelbiztosíték a pénzügyi intézménnyel megkötött hitel-, bankgarancia-, faktoring- és pénzügyi lízingszerződésekhez;
 
-m)[^9] kezességvállaló intézmény: a Magyar Köztársaság adott évi költségvetéséről szóló törvényben foglaltak alapján viszontgaranciával bíró pénzügyi vállalkozás (Agrár- Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.);
+m)[^9] kezességvállaló intézmény: Magyarország adott évi költségvetéséről szóló törvényben foglaltak alapján viszontgaranciával bíró pénzügyi vállalkozás (Agrár- Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.);
 
 n) pénzügyi intézmény: a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény alapján meghatározott hitelintézet és pénzügyi vállalkozás;
 
@@ -46,7 +46,7 @@ s)[^12] bejelentési rendelet: az agrár- és vidékfejlesztési állami támoga
 [^6]: Az 1. § f) pontja a 171/2009. (XII. 22.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § g) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^8]: Az 1. § h) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^9]: Az 1. § m) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^9]: Az 1. § m) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (3) bekezdésével megállapított, az 5/2012. (II. 10.) VM rendelet 30. §-a szerint módosított szöveg.
 [^10]: Az 1. § q) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^11]: Az 1. § r) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^12]: Az 1. § s) pontja a 171/2009. (XII. 22.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.

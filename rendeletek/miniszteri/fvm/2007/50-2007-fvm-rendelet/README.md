@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-50-20-8
 | 2009-12-30 | 2007-50-20-82.3 | 50/2007. (VI. 27.) FVM rendelet |
 | 2011-01-14 | 2007-50-20-82.4 | 171/2009. (XII. 22.) FVM rendelet |
 | 2011-06-20 | 2007-50-20-82.5 | 56/2011. (VI. 17.) VM rendelet |
+| 2012-02-11 | 2007-50-20-82.6 | 99/2008. (VIII. 6.) FVM rendelet |
