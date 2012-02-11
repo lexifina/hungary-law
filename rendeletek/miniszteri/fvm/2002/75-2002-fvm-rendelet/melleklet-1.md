@@ -8,7 +8,7 @@ a) a szállítás időpontját;
 
 b) a szállítás időtartamát;
 
-c) Magyar Köztársaság;
+c)[^6] Magyarország;
 
 d) a betegség megnevezését;
 
@@ -65,3 +65,5 @@ fb) a járványügyi kapcsolat a klasszikus (afrikai) sertéspestis kitörése v
 fc) a sertések leölésekor a gazdaságokban vett minták laboratóriumi vizsgálatainak eredményei.
 
 Ha a sertéseket a kontaktgazdaságokban nem ölték le, felvilágosítást kell adni a döntés okairól.
+
+[^6]: Az 1. számú melléklet 1. pont c) alpontja az 5/2012. (II. 10.) VM rendelet 3. §-a szerint módosított szöveg.

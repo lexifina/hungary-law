@@ -56,7 +56,7 @@
 
 ## * A nem kívánt rész törlendő.
 
-15. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^8]
+15. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^9]
 
 ………………………… Megyei Állategészségügyi Ikt. sz.:
 
@@ -112,4 +112,4 @@ __________
 
 * A nem kívánt rész törlendő.
 
-[^8]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.
+[^9]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.
