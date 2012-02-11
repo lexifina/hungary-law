@@ -1,0 +1,1 @@
+## 37. § A szőlő- és gyümölcsös ültetvényekben felhasznált gázolajhoz nyújtott csekély összegű (de minimis) támogatásról szóló 46/2008. (IV. 17.) FVM rendelet 1. § b) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

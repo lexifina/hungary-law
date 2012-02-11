@@ -1,0 +1,1 @@
+## 40. § Az iparialma-termesztés 2008. évi termőegyensúly-helyreállításának csekély összegű (de minimis) támogatásáról szóló 128/2008. (X. 1.) FVM rendelet 1. § b) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

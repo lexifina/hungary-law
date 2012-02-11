@@ -1,0 +1,1 @@
+## 53. § A gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 72/2010. (V. 13.) FVM rendelet 3. § 13. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,0 +1,1 @@
+## 48. § A tejtermelők által igénybe vehető átmeneti állami támogatásról szóló 18/2010. (III. 4.) FVM rendelet 1. § 1. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

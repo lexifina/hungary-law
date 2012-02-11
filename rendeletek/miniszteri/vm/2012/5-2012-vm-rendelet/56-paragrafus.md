@@ -1,0 +1,1 @@
+## 55. § Az Európai Mezőgazdasági Garancia Alapból a borászati gépek, technológiai berendezések beszerzéséhez nyújtott támogatás igényléséről szóló 16/2010. (IX. 17.) VM rendelet 7. § (1) bekezdés a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

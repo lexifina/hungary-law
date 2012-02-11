@@ -1,0 +1,1 @@
+## 4. § A Magyar Takarmánykódex kötelező előírásairól szóló 44/2003. (IV. 26.) FVM rendelet 12. számú melléklet IV. fejezet 1. és 5. pontjában, V. fejezet 6. pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

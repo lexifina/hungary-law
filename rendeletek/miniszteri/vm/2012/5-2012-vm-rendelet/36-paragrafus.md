@@ -1,0 +1,1 @@
+## 35. § A hagyományos különleges terméknek minősülő mezőgazdasági termékek és élelmiszerek elismerésének és ellenőrzésének rendjéről szóló 15/2008. (II. 15.) FVM rendelet 1. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

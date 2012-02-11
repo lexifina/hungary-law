@@ -1,0 +1,1 @@
+## 50. § A kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló 52/2010. (IV. 30.) FVM rendelet 1. § a)–c) pontjában, 4. § (1)–(2) és (4) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

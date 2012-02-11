@@ -1,0 +1,1 @@
+## 27. § Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet 23. § (1) bekezdés a) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

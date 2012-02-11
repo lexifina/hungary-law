@@ -1,0 +1,1 @@
+## 51. § Az élelmiszerek forgalomba hozatalának, valamint előállításának engedélyezéséről, illetve bejelentéséről szóló 57/2010. (V. 7.) FVM rendelet 2. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

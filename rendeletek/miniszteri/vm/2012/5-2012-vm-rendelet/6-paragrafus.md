@@ -1,0 +1,1 @@
+## 5. § Az afrikai sertéspestis elleni védekezésről szóló 98/2003. (VIII. 22.) FVM rendelet 1. számú melléklet 1. pont b) alpontjában, 4. számú melléklet 1. pontjában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
