@@ -10,7 +10,7 @@
 
 (4)[^274] A növényegészségügyi határállomások felszereltségére vonatkozó alapvető műszaki, technikai feltételeket a 15. számú melléklet tartalmazza.
 
-(5)[^275] A növényegészségügyi határállomást a ,,Magyar Köztársaság Növény-egészségügyi Határállomása'' és a határállomás megnevezése feliratú, valamint a Magyar Köztársaság címerével ellátott táblával kell megjelölni.
+(5)[^275] A növényegészségügyi határállomást a ,,Magyarország Növény-egészségügyi Határállomása'' és a határállomás megnevezése feliratú, valamint Magyarország címerével ellátott táblával kell megjelölni.
 
 (6)[^276] A növényegészségügyi határállomáson dolgozó növényvédelmi felügyelő kizárólag erre a célra rendszeresített formaruhában és arcképes igazolvánnyal láthat el szolgálatot.
 
@@ -24,7 +24,7 @@
 [^272]: A 67. § (2) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
 [^273]: A 67. § (3) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
 [^274]: A 67. § (4) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
-[^275]: A 67. § (5) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
+[^275]: A 67. § (5) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a, az 5/2012. (II. 10.) VM rendelet 2. § a) és b) pontja szerint módosított szöveg.
 [^276]: A 67. § (6) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
 [^277]: A 67. § (7) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^278]: A 67. § (8) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja szerint módosított szöveg.
