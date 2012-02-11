@@ -680,7 +680,7 @@
 
 | Ízesített gyümölcsborok, ízesített alma- és körtebor, gyümölcslikőrbor |  |
 
-5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^37]
+5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^38]
 
 A Magyar Élelmiszerkönyv 1-2-95/2 számú előírása az édesítőszereken és a színezékeken kívüli egyéb élelmiszer-adalékanyagokról
 
@@ -3248,4 +3248,4 @@ Megjegyzés:
 
 3. Ha az E 407, E 410 és E 412 anyagokból egynél többet használnak fel egy tápszerhez, akkor mindegyik megengedett szintje csökken a másik anyag (anyagok) felhasználásának arányában.
 
-[^37]: Az 5. melléklet a 37/2010. (IV. 13.) FVM rendelet 5. § (2) bekezdése, a 77/2011. (VIII. 3.) VM rendelet 2. § (1) bekezdése, a 141/2011. (XII. 23.) VM rendelet 7. §-a szerint módosított szöveg.
+[^38]: Az 5. melléklet a 37/2010. (IV. 13.) FVM rendelet 5. § (2) bekezdése, a 77/2011. (VIII. 3.) VM rendelet 2. § (1) bekezdése, a 141/2011. (XII. 23.) VM rendelet 7. §-a szerint módosított szöveg.
