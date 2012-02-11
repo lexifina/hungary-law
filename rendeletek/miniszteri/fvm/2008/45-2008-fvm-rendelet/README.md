@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-45-20-8
 | --- | --- | --- |
 | 2008-04-19 | 2008-45-20-82.1 | 45/2008. (IV. 11.) FVM rendelet |
 | 2010-01-02 | 2008-45-20-82.2 | 183/2009. (XII. 30.) FVM rendelet |
+| 2012-02-11 | 2008-45-20-82.3 | 5/2012. (II. 10.) VM rendelet |

@@ -2,7 +2,7 @@
 
 7. § (1) Az a belföldi székhellyel vagy lakóhellyel rendelkező forgalmazó, aki dísznövénytermesztő vagy másik forgalmazó részére dísznövény szaporítóanyagot állít elő, illetve forgalmaz, köteles magát és tevékenységét nyilvántartásba vetetni a növénytermesztési hatóságnál.
 
-(2)[^1] A nyilvántartásba vétel iránti kérelmet az MgSzH Központja által rendszeresített és az MgSzH Központ Növénytermesztési és Kertészeti Igazgatóság honlapján közzétett, a 3. számú melléklet szerinti adattartalmú formanyomtatvány alapján írásban kell benyújtani a növénytermesztési hatósághoz.
+(2)[^2] A nyilvántartásba vétel iránti kérelmet az MgSzH Központja által rendszeresített és az MgSzH Központ Növénytermesztési és Kertészeti Igazgatóság honlapján közzétett, a 3. számú melléklet szerinti adattartalmú formanyomtatvány alapján írásban kell benyújtani a növénytermesztési hatósághoz.
 
 (3) A kérelemnek tartalmaznia kell
 
@@ -32,4 +32,4 @@ c) a terület növényegészségügyi alkalmasságának igazolását.
 
 (9) A növénytermesztési hatóság megtagadhatja a nyilvántartásba vételt, ha a kérelmező a kérelem benyújtását megelőzően szándékosan és súlyosan megsértette a szaporítóanyag forgalmazásra vonatkozó jogszabályok előírásait.
 
-[^1]: A 7. § (2) bekezdése a 183/2009. (XII. 30.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^2]: A 7. § (2) bekezdése a 183/2009. (XII. 30.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.

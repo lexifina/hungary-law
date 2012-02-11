@@ -12,7 +12,7 @@
 
 a) az „EK minőség” jelölést,
 
-b) a Magyar Köztársaság tagállami kódját,
+b)[^1] Magyarország tagállami kódját,
 
 c) a növénytermesztési hatóság nevét vagy azonosító kódját,
 
@@ -51,3 +51,5 @@ e) harmadik országból való származás esetén az előállító ország nevé
 (9) Az e rendeletben meghatározott információt tartalmazó címke és okmány kiállítására minden olyan forgalmazó jogosult, akit dísznövény szaporítóanyag forgalmazóként nyilvántartásba vettek, valamint a növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény (a továbbiakban: törvény) és e rendelet előírásait megtartja. Ha a növénytermesztési hatóság ellenőrzése során azt állapítja meg, hogy a forgalmazó ezen feltételek valamelyikének nem felel meg, és a forgalomba hozatalt határozott időre megtiltja, a forgalmazó árut kísérő okmányt nem adhat ki.
 
 (10) Ha dísznövény szaporítóanyagot nem dísznövény- termesztő vagy forgalmazó részére hoznak forgalomba, a címkézésre és okmánykiadásra vonatkozó követelmények az alapvető termékinformációk feltüntetésére korlátozódhatnak.
+
+[^1]: Az 5. § (5) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 36. §-a szerint módosított szöveg.
