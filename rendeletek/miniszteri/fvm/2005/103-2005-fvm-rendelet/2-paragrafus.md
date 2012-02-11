@@ -1,4 +1,4 @@
-## 1. § A Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: Minisztérium) szakmai felügyelete alá tartozó területeken kifejtett tevékenysége során a minőségügyben kiemelkedő, példaértékű eredményt felmutató gazdálkodó szervezetek (a továbbiakban: szervezet) tevékenységének elismerésére Magyar Agrárgazdasági Minőség Díj (a továbbiakban: Díj) ítélhető oda.
+## 1. §[^2] Vidékfejlesztési Minisztérium (a továbbiakban: Minisztérium) szakmai felügyelete alá tartozó területeken kifejtett tevékenysége során a minőségügyben kiemelkedő, példaértékű eredményt felmutató gazdálkodó szervezetek (a továbbiakban: szervezet) tevékenységének elismerésére Magyar Agrárgazdasági Minőség Díj (a továbbiakban: Díj) ítélhető oda.
 
 2. § (1) A Díjat a (2) bekezdésben meghatározott szervezetek pályázat útján, a pályázati felhívásban szereplő részletes és az alábbi általános feltételek együttes fennállása esetén nyerhetik el:
 
@@ -15,3 +15,5 @@ e) a szervezet folyamatosan figyelemmel kíséri és értékeli a szolgáltatás
 f) a szervezet vezetése és dolgozói a gyakorlatban alkalmazzák az egymástól való tanulás, az összehasonlításon alapuló fejlesztés, valamint a sikeres megoldások elsajátításának elvét.
 
 (2) A Díj elnyerésére a Minisztérium szakmai felügyelete alá tartozó valamennyi területen működő szervezet pályázhat.
+
+[^2]: Az 1. § az 5/2012. (II. 10.) VM rendelet 62. § (2) bekezdése szerint módosított szöveg.
