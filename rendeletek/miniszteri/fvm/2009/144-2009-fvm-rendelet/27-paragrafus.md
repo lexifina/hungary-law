@@ -1,4 +1,4 @@
-## 26/C. §[^21] E rendeletnek az egyes vidékfejlesztési tárgyú miniszteri rendeletek módosításáról szóló 140/2011. (XII. 22.) VM rendelettel [a továbbiakban: 140/2011. (XII. 22.) VM rendelet] megállapított 19. § (4) bekezdését a 140/2011. (XII. 22.) VM rendelet hatálybalépésekor[^22] folyamatban lévő ügyekben is alkalmazni kell.
+## 26/C. §[^22] E rendeletnek az egyes vidékfejlesztési tárgyú miniszteri rendeletek módosításáról szóló 140/2011. (XII. 22.) VM rendelettel [a továbbiakban: 140/2011. (XII. 22.) VM rendelet] megállapított 19. § (4) bekezdését a 140/2011. (XII. 22.) VM rendelet hatálybalépésekor[^23] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -102,5 +102,5 @@ Melléklet a 144/2009. (XI. 6.) FVM rendelethez
 
 |  | 74.87.16.5 | Környezetvédelmi szakmai tervezés, szakértés | 6% | 6 000 000 |
 
-[^21]: A 26/C. §-t a 140/2011. (XII. 22.) VM rendelet 2. § (4) bekezdése iktatta be.
-[^22]: A hatálybalépés napja: 2011. december 23.
+[^22]: A 26/C. §-t a 140/2011. (XII. 22.) VM rendelet 2. § (4) bekezdése iktatta be.
+[^23]: A hatálybalépés napja: 2011. december 23.
