@@ -8,6 +8,6 @@
 
 (4) Az MVH a forrás rendelkezésre állását követően intézkedik a támogatási összeg kifizetéséről.
 
-(5)[^2] A 2011. évben benyújtott kifizetési kérelmekre legfeljebb 45 millió forint fizethető ki.
+(5)[^3] A 2011. évben benyújtott kifizetési kérelmekre legfeljebb 45 millió forint fizethető ki.
 
-[^2]: Az 5. § (5) bekezdését a 93/2011. (X. 12.) VM rendelet 14. §-a iktatta be.
+[^3]: Az 5. § (5) bekezdését a 93/2011. (X. 12.) VM rendelet 14. §-a iktatta be.
