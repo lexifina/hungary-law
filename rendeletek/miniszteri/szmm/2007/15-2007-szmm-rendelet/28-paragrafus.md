@@ -1,6 +1,6 @@
 ## ELLENŐRZÉS
 
-28. § (1) E rendelet alapján nyújtott támogatás felhasználásának jogszerűségét a Minisztérium, illetve – a 11. § (1) bekezdésében meghatározott támogatás kivételével – az NSZFI ellenőrzi. Ezen túlmenően a 4. és 5. §-ban meghatározott programban részt vevő felnőtt részére nyújtott támogatás esetén a munkaügyi központ is ellenőrzést végez.
+28. § (1)[^29] E rendelet alapján nyújtott támogatás felhasználásának jogszerűségét a Minisztérium, illetve – a 11. § (1) bekezdésében meghatározott támogatás kivételével – az NMH ellenőrzi. Ezen túlmenően a 4. és 5. §-ban meghatározott programban részt vevő felnőtt részére nyújtott támogatás esetén a munkaügyi központ is ellenőrzést végez.
 
 (2) Az ellenőrzés során az (1) bekezdésben meghatározott szervezet, illetve személy a támogatási megállapodás teljesülésével, a támogatási összeg jogszerű felhasználásával kapcsolatban vizsgálatot tarthat, iratokat és más dokumentációkat kérhet, azokról másolatot, illetve kivonatot készíthet.
 
@@ -15,3 +15,5 @@ c) az ellenőrzést végző személy kérésére az általa szolgáltatott adato
 d) az ellenőrzés zavartalan elvégzéséhez szükséges egyéb feltételeket megteremteni.
 
 (4) A támogatott köteles az (1) bekezdésben meghatározott szervezet, illetve személy ellenőrzési jogköre gyakorlásának biztosítása érdekében az e rendelet alapján nyújtott támogatásokra vonatkozó dokumentumokat – a támogatásokra vonatkozó támogatási szerződés megkötésétől számított – 5 évig, a 8–9. §, a 17. § és a 19–20. §-ok szerinti támogatás esetén 10 évig megőrizni.
+
+[^29]: A 28. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 13. § (3) bekezdés f) pontja szerint módosított szöveg.
