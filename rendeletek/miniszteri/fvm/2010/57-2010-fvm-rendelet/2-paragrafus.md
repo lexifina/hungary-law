@@ -1,4 +1,4 @@
-2. § (1) A rendeletet a Magyar Köztársaság területén az élelmiszerek előállítására és forgalomba hozatalára kell alkalmazni.
+2. § (1)[^1] A rendeletet Magyarország területén az élelmiszerek előállítására és forgalomba hozatalára kell alkalmazni.
 
 (2) Az e rendeletben foglaltakat nem kell alkalmazni a magánháztartásban előállított, saját fogyasztásra szánt élelmiszerekre.
 
@@ -13,3 +13,5 @@ c) az étkezési célra forgalomba hozott vadon termő gombákra,
 d) szőlészeti és borászati üzemek működésének engedélyezésére,
 
 e) borászati termékek forgalomba hozatalának engedélyezésére.
+
+[^1]: A 2. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 51. §-a szerint módosított szöveg.

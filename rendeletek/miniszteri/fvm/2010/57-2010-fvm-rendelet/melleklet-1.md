@@ -1,5 +1,5 @@
-## 26–28. §[^1]
+## 26–28. §[^2]
 
 1. melléklet az 57/2010. (V. 7.) FVM rendelethez
 
-[^1]: A 26–28. §-t a 28. § (2) bekezdése hatályon kívül helyezte.
+[^2]: A 26–28. §-t a 28. § (2) bekezdése hatályon kívül helyezte.
