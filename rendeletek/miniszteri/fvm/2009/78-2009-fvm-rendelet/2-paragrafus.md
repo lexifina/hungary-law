@@ -2,7 +2,7 @@
 
 2. § (1) A hitelprogram keretében hitelfelvételre jogosultak azok a mezőgazdasági vállalkozások, amelyek az adott beruházásra vonatkozó helyt adó vagy részben helyt adó jogerős támogatási határozattal rendelkeznek.
 
-(2)[^1] A hitelintézetek csak olyan hitelkérelmeket fogadhatnak be, amelyhez a kérelem benyújtásakor mellékelték a támogatási kérelem befogadását igazoló, Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által hozott végzés vagy a támogatási határozat másolatát, valamint egy olyan nyilatkozatot, amely tartalmazza a mezőgazdasági vállalkozás:
+(2)[^2] A hitelintézetek csak olyan hitelkérelmeket fogadhatnak be, amelyhez a kérelem benyújtásakor mellékelték a támogatási kérelem befogadását igazoló, Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által hozott végzés vagy a támogatási határozat másolatát, valamint egy olyan nyilatkozatot, amely tartalmazza a mezőgazdasági vállalkozás:
 
 a) adószámát/adóazonosító számát;
 
@@ -22,9 +22,9 @@ cf) a támogatási kérelem befogadásáról szóló, MVH által kiadott végzé
 
 cg) elfogadja a 7. § (1)–(2) bekezdés szerinti eljárást.
 
-(3)[^2] A nyilatkozat az MVH Központ által rendszeresített, valamint az MVH Központ és az MFB Zrt. honlapján közzétett formanyomtatványon nyújtható be.
+(3)[^3] A nyilatkozat az MVH Központ által rendszeresített, valamint az MVH Központ és az MFB Zrt. honlapján közzétett formanyomtatványon nyújtható be.
 
-(4)[^3] Nem jogosult a hitelprogram keretében hitelfelvételre az a mezőgazdasági vállalkozás, amely:
+(4)[^4] Nem jogosult a hitelprogram keretében hitelfelvételre az a mezőgazdasági vállalkozás, amely:
 
 a) a hitelkérelem benyújtásának időpontjában csőd-, felszámolási, végelszámolási vagy végrehajtási eljárás alatt áll;
 
@@ -40,6 +40,6 @@ f) neki felróható okból nem teljesítette a hitelkérelem benyújtását mege
 
 g) nehéz helyzetben lévőnek minősül.
 
-[^1]: A 2. § (2) bekezdése a 151/2009. (XI. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.
-[^2]: A 2. § új (3) bekezdését a 151/2009. (XI. 6.) FVM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.
-[^3]: A 2. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 151/2009. (XI. 6.) FVM rendelet 1. § (2) bekezdése.
+[^2]: A 2. § (2) bekezdése a 151/2009. (XI. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.
+[^3]: A 2. § új (3) bekezdését a 151/2009. (XI. 6.) FVM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.
+[^4]: A 2. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 151/2009. (XI. 6.) FVM rendelet 1. § (2) bekezdése.

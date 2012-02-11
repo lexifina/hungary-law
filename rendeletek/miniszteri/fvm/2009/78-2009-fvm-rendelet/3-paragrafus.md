@@ -38,8 +38,8 @@ j) általános forgalmi adó (a továbbiakban: ÁFA) finanszírozására, kivév
 
 k) gépek és berendezések lízingszerződésével összefüggő költségeinek finanszírozására;
 
-l)[^4] a támogatási kérelem befogadásáról szóló végzésben szereplő befogadási dátumot megelőzően megkezdett beruházáshoz.
+l)[^5] a támogatási kérelem befogadásáról szóló végzésben szereplő befogadási dátumot megelőzően megkezdett beruházáshoz.
 
 (3) Amennyiben a közösségi jogszabályok, illetve az Európai Mezőgazdasági Vidékfejlesztési Alap által finanszírozott közvetlen támogatási rendszerek korlátozzák a termelést, úgy a korlátot túllépő termelésnövekedést eredményező beruházáshoz e rendelet alapján nyújtott hitel nem használható fel.
 
-[^4]: A 3. § (2) bekezdésének l) pontja a 151/2009. (XI. 6.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.
+[^5]: A 3. § (2) bekezdésének l) pontja a 151/2009. (XI. 6.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.

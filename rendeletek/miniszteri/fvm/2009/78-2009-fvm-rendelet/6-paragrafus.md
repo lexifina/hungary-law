@@ -8,10 +8,10 @@
 
 (2) A hitelprogram keretében felvett hitel, valamint a kezességvállaló intézmény által vállalt, állami viszontgaranciával biztosított kezességvállalás a mezőgazdasági vállalkozás számára nyújtott állami támogatásnak minősül.
 
-(3)[^5] A kedvezményes hitel támogatástartalmát az 1. számú melléklet szerint az MFB Zrt. számolja ki. Az MFB Zrt. a hitelek támogatástartalmáról rendelkezésére álló adatokat refinanszírozás esetén a refinanszírozási kölcsönszerződés, közvetlen hitel esetén a hitelszerződés megkötését követő hónapban az MVH rendelkezésére bocsátja. A támogatástartalom igazolás támogatási határozatonkénti megbontásban tartalmazza a teljes beruházás összegét, az elszámolható kiadások nagyságát és a hitel támogatástartalmát.
+(3)[^6] A kedvezményes hitel támogatástartalmát az 1. számú melléklet szerint az MFB Zrt. számolja ki. Az MFB Zrt. a hitelek támogatástartalmáról rendelkezésére álló adatokat refinanszírozás esetén a refinanszírozási kölcsönszerződés, közvetlen hitel esetén a hitelszerződés megkötését követő hónapban az MVH rendelkezésére bocsátja. A támogatástartalom igazolás támogatási határozatonkénti megbontásban tartalmazza a teljes beruházás összegét, az elszámolható kiadások nagyságát és a hitel támogatástartalmát.
 
 (4) A kedvezményes kezességvállalás támogatástartalmát az Európai Bizottság által jóváhagyott módszertan alapján a kezességvállaló intézmény számolja ki, és erről, valamint a támogatásra vonatkozó támogatási kategóriáról a kezességvállalási szerződés megkötését követő 10 napon belül írásban tájékoztatja az ügyfelet és az MVH-t.
 
 (5) A támogatást nyújtó szerv a kiadott támogatástartalom igazolások adatairól nyilvántartást vezet. A támogatástartalom igazolást mind a támogatást nyújtó szerv, mind a hitelfelvevő a hitelfolyósítás utolsó napjától számított 10 évig köteles megőrizni.
 
-[^5]: A 6. § (3) bekezdése a 151/2009. (XI. 6.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.
+[^6]: A 6. § (3) bekezdése a 151/2009. (XI. 6.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.
