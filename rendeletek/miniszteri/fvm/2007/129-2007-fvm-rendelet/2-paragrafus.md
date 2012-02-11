@@ -1,4 +1,4 @@
-2. § (1) A Magyar Köztársaság számára meghatározott répacukor és izoglükóz kvóta mértékét a Tanácsi Rendelet III. és IV. melléklete rögzíti. Az országos kvóta kvótajogosultak közötti felosztását – az 1. § b) pontjában említett terméktanácsok javaslatának figyelembevételével – e rendelet 1–3. számú melléklete tartalmazza.
+2. § (1)[^1] Magyarország számára meghatározott répacukor és izoglükóz kvóta mértékét a Tanácsi Rendelet III. és IV. melléklete rögzíti. Az országos kvóta kvótajogosultak közötti felosztását – az 1. § b) pontjában említett terméktanácsok javaslatának figyelembevételével – e rendelet 1–3. számú melléklete tartalmazza.
 
 (2) Kvótajogosult a kvótával az e rendeletben, valamint a közösségi jogszabályokban meghatározott keretek között rendelkezhet.
 
@@ -13,3 +13,5 @@
 (7) A Tanácsi Rendelet 14. cikkének megfelelően, ha egy kvótajogosult az általa kvótán felül termelt cukor egészének vagy egy részének következő évre való átviteléről dönt, arról az adott gazdasági év április 15-éig – izoglükóz átviteléről a következő gazdasági év október 31-éig – értesíti az MVH-t.
 
 (8) A cukor és izoglükóz kvótarendszerhez kapcsolódóan a Tanácsi Rendeletben meghatározott – e rendelet alapján nem a miniszter hatáskörébe utalt – hatósági feladatokat (vállalkozások elismerése, díjak meghatározása, nyilvántartás vezetése, jelentések elkészítése) az MVH végzi.
+
+[^1]: A 2. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 33. §-a szerint módosított szöveg.
