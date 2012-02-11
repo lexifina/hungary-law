@@ -48,7 +48,7 @@
 
 ## c) a pályázati cél keretein belül visszaigényelhető általános forgalmi adó összege, amivel a támogatást csökkentett összegben veszi igénybe;
 
-## d) az előző három pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak megfelelő, a közúti szállítási ágazatban a 100 000 eurónak megfelelő forintösszeget;
+## d) a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak megfelelő, a közúti szállítási ágazatban a 100 000 eurónak megfelelő forintösszeget;
 
 ## e) tudomásul veszi, hogy a támogatásról szerződésben kell megállapodni, a támogatás kedvezményezettjének megnevezése, a támogatás tárgya és a támogatás összege nyilvánosságra hozható;
 

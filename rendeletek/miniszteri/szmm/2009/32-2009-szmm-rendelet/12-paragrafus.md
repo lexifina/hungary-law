@@ -16,4 +16,6 @@ e) a saját forrás és/vagy társfinanszírozás dokumentumainak másolatát (m
 
 f) útiköltség elszámolására alkalmas dokumentumot.
 
-(3) A kedvezményezett a fel nem használt támogatást az elszámolás elfogadásáról szóló értesítésben megjelölt határidőn belül köteles visszautalni az OMMF részére.
+(3)[^27] A kedvezményezett a fel nem használt támogatást az elszámolás elfogadásáról szóló értesítésben megjelölt határidőn belül köteles visszautalni az NMH részére.
+
+[^27]: A 12. § (3) bekezdése a 3/2012. (II. 10.) NGM rendelet 19. § (1) bekezdés h) pontja szerint módosított szöveg.

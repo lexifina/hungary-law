@@ -1,6 +1,6 @@
 ## A pályázati eljárásra, a pályázatkezelő szervezetre vonatkozó szabályok
 
-6. § (1)[^3] A pályázatot évente legalább egy alkalommal az OMMF írja ki. Az OMMF a pályázati felhívást előzetesen bejelenti az adópolitikáért felelős miniszternek. A pályázat csak az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdésében foglaltak versenyszempontú vizsgálatát követően, a fejlesztéspolitikáért felelős miniszter szervezetében működő Támogatásokat Vizsgáló Iroda (a továbbiakban: Támogatásokat Vizsgáló Iroda) általi jóváhagyását követően írható ki.
+6. § (1)[^5] A pályázatot évente legalább egy alkalommal a munkavédelmi és munkaügyi igazgatóság írja ki. A munkavédelmi és munkaügyi igazgatóság a pályázati felhívást előzetesen bejelenti az adópolitikáért felelős miniszternek. A pályázat csak az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdésében foglaltak versenyszempontú vizsgálatát követően, a fejlesztéspolitikáért felelős miniszter szervezetében működő Támogatásokat Vizsgáló Iroda (a továbbiakban: Támogatásokat Vizsgáló Iroda) általi jóváhagyását követően írható ki.
 
 (2) A pályázati felhívás tartalmazza
 
@@ -32,9 +32,9 @@ cb) hamis vagy a valóságnak meg nem felelő adatot szolgáltat, illetve
 
 cc) a vállalt feladat meghiúsulása vagy a teljesítés tartós akadályozását előidéző körülmény a kedvezményezettnek felróható okból következik be.
 
-(4)[^4] Az OMMF a pályázati felhívást a Támogatásokat Vizsgáló Iroda előzetes véleményének figyelembevételével a Wekerle Sándor Alapkezelővel (a továbbiakban: pályázatkezelő) egyeztetetten, az Mvt.-ben meghatározott Munkavédelmi Bizottság javaslata alapján készíti el.
+(4)[^6] A munkavédelmi és munkaügyi igazgatóság a pályázati felhívást a Támogatásokat Vizsgáló Iroda előzetes véleményének figyelembevételével a Wekerle Sándor Alapkezelővel (a továbbiakban: pályázatkezelő) egyeztetetten, az Mvt.-ben meghatározott Munkavédelmi Bizottság javaslata alapján készíti el.
 
-(5)[^5] A pályázati felhívást a foglalkoztatáspolitikáért felelős miniszter a Magyar Közlönyben, valamint a hivatalos lapjában, továbbá az OMMF és a pályázatkezelő a honlapján teszi közzé.
+(5)[^7] A pályázati felhívást a foglalkoztatáspolitikáért felelős miniszter a Magyar Közlönyben, valamint a hivatalos lapjában, továbbá a munkavédelmi és munkaügyi igazgatóság és a pályázatkezelő a honlapján teszi közzé.
 
 (6) A pályázatokat, a pályázati cél részletes leírásával és az értékelést elősegítő kiegészítésekkel – az 1. számú melléklet szerinti adatlapban szereplő adattartalommal együtt – a pályázati felhívás szerint kell benyújtani a pályázatkezelőhöz. A pályázatkezelő a döntés előkészítéséhez szükséges előzetes tájékoztatás céljából megküldi a Munkavédelmi Bizottság részére a pályázati anyagokat.
 
@@ -56,6 +56,6 @@ g) a pályázati felhívásban megjelölt vagy a pályázat elbírálásához fe
 
 (8) Amennyiben a pályázó az (6)–(7) bekezdésben felsoroltakat vagy egyéb dokumentumokat nem magyar nyelven nyújtja be, köteles csatolni annak magyar nyelvű hiteles fordítását is. Vitatott esetben – a pályázati kiírás eltérő rendelkezése hiányában – a magyar nyelvű változat az irányadó.
 
-[^3]: A 6. § (1) bekezdése a 41/2011. (X. 14.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^4]: A 6. § (4) bekezdése a 41/2011. (X. 14.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^5]: A 6. § (5) bekezdése a 41/2011. (X. 14.) NGM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^5]: A 6. § (1) bekezdése a 41/2011. (X. 14.) NGM rendelet 3. § (1) bekezdésével megállapított, a 3/2012. (II. 10.) NGM rendelet 19. § (1) bekezdés c) és d) pontja szerint módosított szöveg.
+[^6]: A 6. § (4) bekezdése a 41/2011. (X. 14.) NGM rendelet 3. § (2) bekezdésével megállapított, a 3/2012. (II. 10.) NGM rendelet 19. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 6. § (5) bekezdése a 41/2011. (X. 14.) NGM rendelet 3. § (3) bekezdésével megállapított, a 3/2012. (II. 10.) NGM rendelet 19. § (1) bekezdés d) pontja szerint módosított szöveg.

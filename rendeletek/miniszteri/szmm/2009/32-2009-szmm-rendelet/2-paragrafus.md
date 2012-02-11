@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet alkalmazásában pénzbírságnak minősül az Országos Munkavédelmi és Munkaügyi Főfelügyelőség (a továbbiakban: OMMF), valamint a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) részére befizetett, a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 82. §-a alapján kiszabott bírság (a továbbiakban: pénzbírság).
+## 1. §[^2] E rendelet alkalmazásában pénzbírságnak minősül a Nemzeti Munkaügyi Hivatal munkavédelmi és munkaügyi igazgatósága (a továbbiakban: munkavédelmi és munkaügyi igazgatóság), valamint a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) részére befizetett, a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 82. §-a alapján kiszabott bírság (a továbbiakban: pénzbírság).
 
 2. § (1) A befizetett pénzbírságok összegének fele nyilvános pályáztatás útján az egészséget nem veszélyeztető és biztonságos munkavégzés céljainak támogatására, valamint fennmaradó része a közcélú állami munkavédelmi információs rendszer (a továbbiakban: MIR) folyamatos működtetésére használható fel.
 
@@ -16,7 +16,7 @@ c) az Európai Közösség munkavédelmi előírásainak megfelelő, a megelőz�
 
 (5) E rendelet alapján nem nyújtható csekély összegű (de minimis) támogatás az 1998/2006/EK bizottsági rendelet 1. cikkében meghatározottakra.
 
-(6) A csekély összegű támogatás odaítélésének feltétele, hogy a kedvezményezett nyilatkozik arról, hogy az előző három pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak megfelelő, a közúti szállítási ágazatban a 100 000 eurónak megfelelő forintösszeget.
+(6)[^3] A csekély összegű támogatás odaítélésének feltétele, hogy a kedvezményezett nyilatkozik arról, hogy a támogatás odaítélésének évében valamint az azt megelőző két pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak megfelelő, a közúti szállítási ágazatban a 100 000 eurónak megfelelő forintösszeget.
 
 (7) A több részletben fizetendő támogatást az odaítélése időpontjában érvényes értékre kell diszkontálni.
 
@@ -26,4 +26,5 @@ c) az Európai Közösség munkavédelmi előírásainak megfelelő, a megelőz�
 
 (10) A támogatás nyújtójának kötelessége, hogy felhívja a kedvezményezett figyelmét arra, hogy a csekély összegű támogatási jogcímen nyújtott támogatáshoz kapcsolódó minden iratot a támogatás odaítélésétől számított tíz évig meg kell őriznie és a támogatást nyújtó ilyen irányú felhívása esetén köteles azokat bemutatni.
 
-[^1]: Az 1. § a 41/2011. (X. 14.) NGM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 41/2011. (X. 14.) NGM rendelet 1. §-ával megállapított, a 3/2012. (II. 10.) NGM rendelet 19. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 19. § (1) bekezdés b) pontja szerint módosított szöveg.
