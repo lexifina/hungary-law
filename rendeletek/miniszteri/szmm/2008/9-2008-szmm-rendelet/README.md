@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-9-20-1X
 | 2011-01-01 | 2008-9-20-1X.3 | 24/2010. (XII. 30.) NEFMI rendelet |
 | 2011-05-13 | 2008-9-20-1X.4 | 22/2011. (V. 12.) NEFMI rendelet |
 | 2011-08-01 | 2008-9-20-1X.5 | 22/2011. (V. 12.) NEFMI rendelet |
+| 2012-02-11 | 2008-9-20-1X.6 | 3/2012. (II. 10.) NGM rendelet |
