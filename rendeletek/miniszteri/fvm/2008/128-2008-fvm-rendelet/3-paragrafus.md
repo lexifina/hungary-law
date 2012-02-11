@@ -10,7 +10,7 @@ c) nyilatkozik a támogatási kérelem benyújtását megelőző két pénzügyi
 
 d) nyilatkozik, hogy az ipari alma előállítását saját feldolgozás vagy piaci úton történő értékesítés céljából végzi, és a megtermelt ipari almát saját maga feldolgozta vagy közvetlenül feldolgozónak vagy TÉSZ-nek értékesítette,
 
-e)[^2] rendelkezik az értékesített ipari alma mennyiségéről kiállított számla másodpéldányával, vagy felvásárlási jeggyel, vagy átvételi jeggyel, vagy a saját feldolgozóüzemben történő feldolgozásról hiteles számviteli bizonylattal (a továbbiakban együtt: értékesítési bizonylat),
+e)[^3] rendelkezik az értékesített ipari alma mennyiségéről kiállított számla másodpéldányával, vagy felvásárlási jeggyel, vagy átvételi jeggyel, vagy a saját feldolgozóüzemben történő feldolgozásról hiteles számviteli bizonylattal (a továbbiakban együtt: értékesítési bizonylat),
 
 f) nyilatkozik arról, hogy a támogatási kérelem benyújtásának időpontjában
 
@@ -22,4 +22,4 @@ fc) nem áll csőd-, felszámolási, végelszámolási eljárás alatt, vagy ter
 
 fd) nem minősül nehéz helyzetben lévő vállalkozásnak.
 
-[^2]: A 3. § e) pontja a 146/2008. (XI. 7.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 3. § e) pontja a 146/2008. (XI. 7.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
