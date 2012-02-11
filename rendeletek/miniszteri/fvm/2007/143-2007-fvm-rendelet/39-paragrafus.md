@@ -10,7 +10,7 @@ b) mindaddig alávetik további megfigyelésnek és vizsgálatoknak – a késze
 
 c) nem lehet elvinni a származási gazdaságukból, kivéve levágásuk vagy olyan más gazdaságba történő szállításuk céljából:
 
-ca) amely a Magyar Köztársaság területén található, és a szállítás az igazgatóság utasításainak megfelelően történik, vagy
+ca)[^42] amely Magyarország területén található, és a szállítás az igazgatóság utasításainak megfelelően történik, vagy
 
 cb) amely valamely más tagállamban található, és a szállítás a rendeltetési hely szerinti tagállammal kötött megállapodás alapján történik.
 
@@ -21,3 +21,5 @@ cb) amely valamely más tagállamban található, és a szállítás a rendeltet
 (5) A (4) bekezdésben hivatkozott kockázatértékelést a 32. § (2) bekezdésében előírtak szerint kell végezni.
 
 (6) Az (1)–(5) bekezdések alapján adott felmentésekről az országos főállatorvos 24 órán belül értesíti a Bizottságot.
+
+[^42]: A 39. § (2) bekezdés c) pont ca) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.

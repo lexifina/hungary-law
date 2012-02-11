@@ -1,4 +1,4 @@
-2. számú melléklet a 143/2007. (XII. 4.) FVM rendelethez[^59]
+2. számú melléklet a 143/2007. (XII. 4.) FVM rendelethez[^66]
 
 ## Tojások gazdaságból történő kiszállítása a 9. § (3) bekezdésével és a 13. § (3) bekezdésével engedélyezhető a 853/2004/EK rendeletnek megfelelően tojástermékek gyártására engedélyezett létesítménybe (a továbbiakban: a kijelölt létesítmény), az alábbi feltételekkel:
 
@@ -16,4 +16,4 @@ c) a tojás csomagolóanyagát megsemmisítik, vagy olyan módon tisztítják me
 
 d) az 1. pontban említett tojást kitakarított és fertőtlenített járművekben szállítják. A tojás szállításában részt vevő személyzetre, felszerelésre és járművekre járványvédelmi intézkedéseket alkalmaznak.
 
-[^59]: A 2. számú melléklet a 42/2010. (IV. 22) FVM rendelet 13. § q) pontja szerint módosított szöveg.
+[^66]: A 2. számú melléklet a 42/2010. (IV. 22) FVM rendelet 13. § q) pontja szerint módosított szöveg.

@@ -26,7 +26,7 @@ b) minden egyes szállítmányt feladás előtt a gazdaságért felelős hatós�
 
 c) a kijelölt vágóhídra történő szállítása során minden szállítmány mindvégig plombával lezárva marad;
 
-d)[^37] teljesítik a hatósági főállatorvos által előírt további járványvédelmi intézkedéseket;
+d)[^40] teljesítik a hatósági főállatorvos által előírt további járványvédelmi intézkedéseket;
 
 e) a kijelölt vágóhídért felelős igazgatóság – értesítését követően – hozzájárul a baromfi fogadásához;
 
@@ -44,7 +44,7 @@ b) az alacsony patogenitású madárinfluenza vírus gazdaságba történő val�
 
 c) a (2) bekezdésben meghatározott kiürítés előtt a gazdaságban lévő és a gazdaságban tovább termelt tojást – feltéve, hogy az alacsony patogenitású madárinfluenza elterjedésének kockázatát minimalizálják – el lehet szállítani:
 
-ca)[^38] az igazgatóság által kijelölt csomagolóközpontba (a továbbiakban: a kijelölt csomagolóközpont), feltéve, hogy azokat egyszer használatos csomagolással látják el, és a hatósági főállatorvos által előírt valamennyi járványvédelmi intézkedést alkalmazzák,
+ca)[^41] az igazgatóság által kijelölt csomagolóközpontba (a továbbiakban: a kijelölt csomagolóközpont), feltéve, hogy azokat egyszer használatos csomagolással látják el, és a hatósági főállatorvos által előírt valamennyi járványvédelmi intézkedést alkalmazzák,
 
 cb) egy, a tojástermékek gyártásával az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet III. melléklete X. szakaszának II. fejezetében foglaltak szerint foglalkozó létesítménybe, az élelmiszer-higiéniáról szóló 2004. április 29-i 852/2004/EK rendelet II. mellékletének XI. fejezetével összhangban történő kezelésre, vagy
 
@@ -66,5 +66,5 @@ h) az alacsony patogenitású madárinfluenza elsődleges kitörése esetében a
 
 (7) A (2), (4) és (5) bekezdésekben meghatározott intézkedések alkalmazásáról az országos főállatorvos értesíti a Bizottságot.
 
-[^37]: A 38. § (4) bekezdés d) pontja a 42/2010. (IV. 22.) FVM rendelet 13. § d) pontja szerint módosított szöveg.
-[^38]: A 38. § (6) bekezdés c) pont ca) alpontja a 42/2010. (IV. 22.) FVM rendelet 13. § d) pontja szerint módosított szöveg.
+[^40]: A 38. § (4) bekezdés d) pontja a 42/2010. (IV. 22.) FVM rendelet 13. § d) pontja szerint módosított szöveg.
+[^41]: A 38. § (6) bekezdés c) pont ca) alpontja a 42/2010. (IV. 22.) FVM rendelet 13. § d) pontja szerint módosított szöveg.
