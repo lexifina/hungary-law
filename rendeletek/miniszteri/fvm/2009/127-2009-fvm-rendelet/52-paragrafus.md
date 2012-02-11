@@ -6,7 +6,7 @@
 
 ## Az oltalom alatt álló eredetmegjelölés vagy oltalom alatt álló földrajzi jelzés szerinti területnél kisebb földrajzi egység nevének feltüntetése
 
-52. §[^35] (1) Az oltalom alatt álló eredetmegjelölés (a továbbiakban: OEM) vagy oltalom alatt álló földrajzi jelzés (a továbbiakban: OFJ) szerinti területnél kisebb földrajzi egység (a továbbiakban: kisebb földrajzi egység) neve az OEM- és OFJ-bor címkéjén akkor tüntethető fel, ha:
+52. §[^36] (1) Az oltalom alatt álló eredetmegjelölés (a továbbiakban: OEM) vagy oltalom alatt álló földrajzi jelzés (a továbbiakban: OFJ) szerinti területnél kisebb földrajzi egység (a továbbiakban: kisebb földrajzi egység) neve az OEM- és OFJ-bor címkéjén akkor tüntethető fel, ha:
 
 a) az adott kisebb földrajzi egység egyértelmű körülhatárolását tartalmazza, és címkén való jelölését kifejezetten lehetővé teszi a termékleírás és
 
@@ -16,4 +16,4 @@ b) a kisebb földrajzi egység nevével legalább egy látómezőben megjelenik 
 
 (3) A (2) bekezdésben meghatározott esetekben az (1) bekezdés előírásai nem alkalmazandóak.
 
-[^35]: Az 52. § a 64/2010. (V. 12.) FVM rendelet 15. §-ával megállapított szöveg.
+[^36]: Az 52. § a 64/2010. (V. 12.) FVM rendelet 15. §-ával megállapított szöveg.

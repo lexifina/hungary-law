@@ -2,7 +2,7 @@
 
 ## esetében megyei bontásban
 
-## 1.[^55] Mórahalmi Hegyközség
+## 1.[^56] Mórahalmi Hegyközség
 
 ## Csongrád megyei települések:
 
@@ -214,7 +214,7 @@
 
 ## Újsolt
 
-## 9.[^56] Strázsahegyi-szárazhegyi Hegyközség
+## 9.[^57] Strázsahegyi-szárazhegyi Hegyközség
 
 ## Pest megyei települések:
 
@@ -1880,7 +1880,7 @@
 
 ## Mezőszentgyörgy
 
-## 31.[^57] Kölesdi Hegyközség
+## 31.[^58] Kölesdi Hegyközség
 
 ## Fejér megyei települések:
 
@@ -3436,9 +3436,9 @@
 
 ## Tornyiszentmiklós
 
-4. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^58]
+4. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^59]
 
-[^55]: A 3. számú melléklet 1. pontja a 64/2010. (V. 12.) FVM rendelet 28. § f) pontja szerint módosított szöveg.
-[^56]: A 3. számú melléklet 9. pontja a 64/2010. (V. 12.) FVM rendelet 28. § g) pontja szerint módosított szöveg.
-[^57]: A 3. számú melléklet 31. pontja a 64/2010. (V. 12.) FVM rendelet 28. § h) pontja szerint módosított szöveg.
-[^58]: A 4. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^56]: A 3. számú melléklet 1. pontja a 64/2010. (V. 12.) FVM rendelet 28. § f) pontja szerint módosított szöveg.
+[^57]: A 3. számú melléklet 9. pontja a 64/2010. (V. 12.) FVM rendelet 28. § g) pontja szerint módosított szöveg.
+[^58]: A 3. számú melléklet 31. pontja a 64/2010. (V. 12.) FVM rendelet 28. § h) pontja szerint módosított szöveg.
+[^59]: A 4. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (3) bekezdésével megállapított szöveg.

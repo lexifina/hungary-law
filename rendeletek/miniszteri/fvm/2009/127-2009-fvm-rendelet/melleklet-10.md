@@ -56,6 +56,6 @@
 
 ## Hegybíró aláírása
 
-10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^64]
+10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^65]
 
-[^64]: A 10. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (7) bekezdésével megállapított szöveg.
+[^65]: A 10. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (7) bekezdésével megállapított szöveg.

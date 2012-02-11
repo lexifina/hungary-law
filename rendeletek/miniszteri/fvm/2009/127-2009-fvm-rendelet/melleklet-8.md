@@ -32,6 +32,6 @@
 
 ## hegyközségi tag/adatszolgáltató aláírása
 
-8. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^62]
+8. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^63]
 
-[^62]: A 8. számú melléklet a 64/2010. (V. 12.) FVM rendelet 27. § (8) bekezdése szerint módosított szöveg.
+[^63]: A 8. számú melléklet a 64/2010. (V. 12.) FVM rendelet 27. § (8) bekezdése szerint módosított szöveg.
