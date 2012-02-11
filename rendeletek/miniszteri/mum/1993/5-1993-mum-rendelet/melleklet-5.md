@@ -56,6 +56,6 @@
 
 | 2 | 0 |  |  |  |  |  |  |
 
-5. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^30]
+5. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^31]
 
-[^30]: A Vhr. 5. számú melléklete a 41/2011. (X. 14.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^31]: A Vhr. 5. számú melléklete a 41/2011. (X. 14.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.

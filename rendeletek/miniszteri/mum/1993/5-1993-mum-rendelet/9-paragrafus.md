@@ -1,4 +1,4 @@
-9. §[^16] (1) A munkáltató köteles a kivizsgálás befejezésekor, de legkésőbb a tárgyhót követő hónap 8. napjáig megküldeni a jegyzőkönyvet
+9. §[^17] (1) A munkáltató köteles a kivizsgálás befejezésekor, de legkésőbb a tárgyhót követő hónap 8. napjáig megküldeni a jegyzőkönyvet
 
 a) a sérültnek, halála esetén hozzátartozójának;
 
@@ -6,7 +6,7 @@ b) a halált, illetve a három napot meghaladó munkaképtelenséget okozó munk
 
 c) külföldi kiküldetés, külszolgálat, munkaerő-kölcsönzés esetén a magyarországi székhelyű munkáltató magyar munkavállalójának a b) pont szerinti munkabalesetéről a munkáltató székhelye szerint illetékes munkavédelmi felügyelőségnek, illetve az MBFH munkáltató székhelye szerint illetékes területi szervének;
 
-d)[^17] az Országos Egészségbiztosítási Pénztárnak, a társadalombiztosítási kifizetőhelynek, ennek hiányában az illetékes egészségbiztosítási szakigazgatási szervnek,
+d)[^18] az Országos Egészségbiztosítási Pénztárnak, a társadalombiztosítási kifizetőhelynek, ennek hiányában az illetékes egészségbiztosítási szakigazgatási szervnek,
 
 e) munkaerő-kölcsönzés, kirendelés esetén a kölcsönbeadó, kirendelő munkáltatónak.
 
@@ -32,5 +32,5 @@ h) fényképfelvételeket, videófelvételeket,
 
 i) a belső szabályzatok vonatkozó részeit.
 
-[^16]: A Vhr. 9. §-a az 5/2010. (III. 9.) SZMM rendelet 5. §-ával megállapított szöveg.
-[^17]: A Vhr. 9. § (1) bekezdés d) pontja a 27/2010. (XII. 31.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^17]: A Vhr. 9. §-a az 5/2010. (III. 9.) SZMM rendelet 5. §-ával megállapított szöveg.
+[^18]: A Vhr. 9. § (1) bekezdés d) pontja a 27/2010. (XII. 31.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.

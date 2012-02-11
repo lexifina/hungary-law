@@ -144,8 +144,8 @@
 
 |  | 2 | 0 |  |  | év |  |  | hó |  |  | nap |  |
 
-4/b. számú melléklet a 5/1993. (XII. 26.) MüM rendelethez[^29]
+4/b. számú melléklet a 5/1993. (XII. 26.) MüM rendelethez[^30]
 
 MÓDOSÍTÓ MUNKABALESETI JEGYZŐKÖNYV
 
-[^29]: A Vhr. 4. számú melléklete helyébe a 28/2004. (XII. 20.) FMM rendelet 2. §-ának (1) bekezdése alapján a 4/b. számú melléklet lépett.
+[^30]: A Vhr. 4. számú melléklete helyébe a 28/2004. (XII. 20.) FMM rendelet 2. §-ának (1) bekezdése alapján a 4/b. számú melléklet lépett.

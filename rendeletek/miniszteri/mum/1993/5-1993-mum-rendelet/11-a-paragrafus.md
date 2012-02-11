@@ -1,6 +1,6 @@
-## [Az Mvt. 82. § (2) bekezdéséhez][^20]
+## [Az Mvt. 82. § (2) bekezdéséhez][^21]
 
-11/A. §[^21]
+11/A. §[^22]
 
-[^20]: A Vhr. 11/A. §-át megelőző alcímet a 16/2004. (IV. 19.) FMM rendelet 3. §-a iktatta a szövegbe.
-[^21]: A Vhr. 11/A. §-át a 16/2004. (IV. 19.) FMM rendelet 3. §-a iktatta be, hatályon kívül helyezte az 5/2010. (III. 9.) SZMM rendelet 9. § (3) bekezdése.
+[^21]: A Vhr. 11/A. §-át megelőző alcímet a 16/2004. (IV. 19.) FMM rendelet 3. §-a iktatta a szövegbe.
+[^22]: A Vhr. 11/A. §-át a 16/2004. (IV. 19.) FMM rendelet 3. §-a iktatta be, hatályon kívül helyezte az 5/2010. (III. 9.) SZMM rendelet 9. § (3) bekezdése.
