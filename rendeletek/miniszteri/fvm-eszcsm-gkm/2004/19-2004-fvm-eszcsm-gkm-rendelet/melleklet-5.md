@@ -62,7 +62,7 @@
 
 5. számú melléklet a 19/2004. (II. 26.) FVM–ESZCSM–GKM
 
-együttes rendelethez[^40]
+együttes rendelethez[^44]
 
 Édesgyökeret (Glycyrrhiza glabra), glicirrizin savat vagy annak ammónium sóját tartalmazó
 
@@ -78,4 +78,4 @@ együttes rendelethez[^40]
 
 (*) A táblázat első oszlopában lévő koncentrációkat a közvetlen fogyasztásra szánt vagy a használati utasításnak megfelelően elkészített termékekre kell vonatkoztatni.
 
-[^40]: Az 5. számú mellékletet a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 5. §-ának (2) bekezdése iktatta be, e módosító rendelet 6. §-ának (6) bekezdése alapján az e mellékletben meghatározott előírásoknak nem megfelelő jelölésű termékek 2006. május 20-ig előállíthatóak, és az eddig előállított termékek 2006. május 20-át követően is forgalomba hozhatóak. Az 5. számú melléklet a 90/2005. (X. 13.) FVM–EüM–GKM együttes rendelet 2. §-a szerint módosított szöveg.
+[^44]: Az 5. számú mellékletet a 167/2004. (XI. 29.) FVM–EüM–GKM együttes rendelet 5. §-ának (2) bekezdése iktatta be, e módosító rendelet 6. §-ának (6) bekezdése alapján az e mellékletben meghatározott előírásoknak nem megfelelő jelölésű termékek 2006. május 20-ig előállíthatóak, és az eddig előállított termékek 2006. május 20-át követően is forgalomba hozhatóak. Az 5. számú melléklet a 90/2005. (X. 13.) FVM–EüM–GKM együttes rendelet 2. §-a szerint módosított szöveg.

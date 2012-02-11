@@ -2,6 +2,9 @@
 
 17. § (1) A 4. és 5. §-ban meghatározott jelöléseket nem vagy hiányosan tartalmazó, valamint e rendelet egyéb előírásait ki nem elégítő élelmiszerek nem hozhatók forgalomba.
 
-(2) A Magyar Köztársaság területén forgalomba hozatalra kerülő élelmiszer csomagolásán magyar nyelven, közérthető módon kell feltüntetni a 4. és 5. §-ban meghatározott, a fogyasztók tájékoztatásához és az ellenőrzéshez szükséges jelöléseket.
+(2)[^27] Magyarország területén forgalomba hozatalra kerülő élelmiszer csomagolásán magyar nyelven, közérthető módon kell feltüntetni a 4. és 5. §-ban meghatározott, a fogyasztók tájékoztatásához és az ellenőrzéshez szükséges jelöléseket.
 
-(3) A Magyar Köztársaság területén előállított és forgalomba hozott élelmiszerek a magyar nyelvű szöveg feltüntetésén túl azzal azonos értelmű idegen nyelvű jelöléssel is elláthatók.
+(3)[^28] Magyarország területén előállított és forgalomba hozott élelmiszerek a magyar nyelvű szöveg feltüntetésén túl azzal azonos értelmű idegen nyelvű jelöléssel is elláthatók.
+
+[^27]: A 17. § (2) bekezdése az 5/2012. (II. 10.) VM rendelet 8. § b) pontja szerint módosított szöveg.
+[^28]: A 17. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 8. § b) pontja szerint módosított szöveg.
