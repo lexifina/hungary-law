@@ -1,6 +1,6 @@
 | Folyó- szám | A bejegyzés kelte, szolgálati ténykedés, esemény, intézkedés (hely, időpont, leírás) | Jegyzet |
 
-5. számú melléklet a 9/2000. (V. 19.) KöM rendelethez[^36]
+5. számú melléklet a 9/2000. (V. 19.) KöM rendelethez[^43]
 
 | Sorszám: ……………… |
 
@@ -54,4 +54,4 @@
 
 |  | ………………………………………. elkövető aláírása |
 
-[^36]: Az 5. számú melléklet a 41/2006. (X. 6.) KvVM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^43]: Az 5. számú melléklet a 41/2006. (X. 6.) KvVM rendelet 16. § (2) bekezdése szerint módosított szöveg.
