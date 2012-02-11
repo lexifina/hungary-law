@@ -56,7 +56,7 @@ f) dohány-adalékanyag: minden olyan természetes vagy mesterséges, a dohányt
 
 11. Idegen anyag: a termesztés és feldolgozás során a nyersanyagba, illetve a késztermékbe került, egyszerű fizikai módszerekkel elkülöníthető, nem dohány eredetű anyag.
 
-12.[^1] Fogyasztói csomagolási egység: a dohánytermékek kötelező csomagolása során alkalmazott legkisebb csomagolási egység:
+12.[^4] Fogyasztói csomagolási egység: a dohánytermékek kötelező csomagolása során alkalmazott legkisebb csomagolási egység:
 
 a) cigaretta esetében legalább 19 db, de legfeljebb 50 db cigarettát tartalmazó csomag,
 
@@ -76,7 +76,7 @@ e) rágásra szolgáló vagy tüsszentésre szolgáló dohánytermékek esetébe
 
 16. Importáló: az a személy, aki – a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) rendelkezéseinek betartása mellett – először szerez jogot arra, hogy az importált termék felett saját nevében rendelkezzen.
 
-17.[^2] Bejegyzett kereskedő: a Jöt. 7. § 16. pontjában meghatározott személy.
+17.[^5] Bejegyzett kereskedő: a Jöt. 7. § 16. pontjában meghatározott személy.
 
 18. Tároló adóraktár engedélyese: a Jöt. 100. §-a (1) bekezdésének d) pontja szerinti dohánytároló adóraktár engedélyese.
 
@@ -86,8 +86,8 @@ e) rágásra szolgáló vagy tüsszentésre szolgáló dohánytermékek esetébe
 
 21. Importálás: a Jöt. 7. §-ának 2. pontjában meghatározott fogalom.
 
-22.[^3] Export: olyan jövedéki terméknek Európai Unión kívüli államba történő értékesítése, amelyet a vámhatóság végleges rendeltetéssel Európai Unión kívüli államba kiléptet.
+22.[^6] Export: olyan jövedéki terméknek Európai Unión kívüli államba történő értékesítése, amelyet a vámhatóság végleges rendeltetéssel Európai Unión kívüli államba kiléptet.
 
-[^1]: A 2. § 12. pontja a 62/2011. (VI. 30.) VM rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § 17. pontja a 122/2011. (XII. 21.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 22. pontját a 122/2011. (XII. 21.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § 12. pontja a 62/2011. (VI. 30.) VM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 17. pontja a 122/2011. (XII. 21.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § 22. pontját a 122/2011. (XII. 21.) VM rendelet 1. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 4/A. §[^7] Az 1. számú melléklet szerinti regisztrációs lap adattartalmáról az NFH hatósági nyilvántartást vezet.
+## 4/A. §[^10] Az 1. számú melléklet szerinti regisztrációs lap adattartalmáról az NFH hatósági nyilvántartást vezet.
 
 ## Határértékek
 
@@ -10,4 +10,4 @@ b) 1 mg nikotint,
 
 c) 10 mg szénmonoxidot,
 
-[^7]: A 4/A. §-t a 122/2011. (XII. 21.) VM rendelet 3. §-a iktatta be.
+[^10]: A 4/A. §-t a 122/2011. (XII. 21.) VM rendelet 3. §-a iktatta be.
