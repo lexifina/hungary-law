@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-52-20-8
 | 2010-05-27 | 2010-52-20-82.2 | 65/2010. (V. 12.) FVM rendelet |
 | 2010-07-06 | 2010-52-20-82.3 | 4/2010. (VII. 5.) VM rendelet |
 | 2011-08-01 | 2010-52-20-82.4 | 4/2010. (VII. 5.) VM rendelet |
+| 2012-02-11 | 2010-52-20-82.5 | 5/2012. (II. 10.) VM rendelet |
