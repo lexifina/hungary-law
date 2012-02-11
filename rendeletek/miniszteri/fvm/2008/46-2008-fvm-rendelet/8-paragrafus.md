@@ -4,7 +4,7 @@
 
 (2) Ez a rendelet a Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 1535/2007/EK bizottsági rendelet (HL L 337., 2007.12.20., 35. o.) hatálya alá tartozó támogatást tartalmaz.
 
-Melléklet a 46/2008. (IV. 17.) FVM rendelethez[^6]
+Melléklet a 46/2008. (IV. 17.) FVM rendelethez[^7]
 
 Támogatási kérelem adattartalma a szőlő- és gyümölcsös ültetvényekben felhasznált
 
@@ -98,4 +98,4 @@ Az igényelt támogatás összege nem haladhatja meg a három pénzügyi év von
 
 6. A Mezőgazdasági Szakigazgatási Hivatal záradéka, amellyel a földhasználati lap alapján a megművelt földterület nagyságát, a földterület művelésben tartását, valamint a támogatás 3. pont c) alpontja szerint kiszámított összegének helyességét igazolja. A záradék kiterjed arra, hogy a Mezőgazdasági Szakigazgatási Hivatal a támogatásra való jogosultság megállapítását javasolja, módosítással javasolja, vagy nem javasolja.
 
-[^6]: A melléklet a 171/2009. (XII. 22.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^7]: A melléklet a 171/2009. (XII. 22.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg.
