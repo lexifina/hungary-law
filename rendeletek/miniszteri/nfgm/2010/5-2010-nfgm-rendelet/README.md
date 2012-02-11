@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-5-20-2K
 | --- | --- | --- |
 | 2010-01-22 | 2010-5-20-2K.1 | 5/2010. (I. 14.) NFGM rendelet |
 | 2010-01-23 | 2010-5-20-2K.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-02-11 | 2010-5-20-2K.3 | 3/2012. (II. 10.) NGM rendelet |
