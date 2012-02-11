@@ -1,8 +1,8 @@
 27. § (1) A pályázatot az alaprész
 
-a) központi kerete terhére történő kiírás esetében – ide nem értve az Szht. 10. § (1) bekezdés a) pontjában meghatározott célt – az NSZFI-hez vagy a pályázati felhívásban meghatározott szervezethez,
+a)[^65] központi kerete terhére történő kiírás esetében – ide nem értve az Szht. 10. § (1) bekezdés a) pontjában meghatározott célt – az NMH-hoz vagy a pályázati felhívásban meghatározott szervezethez,
 
-b)[^39] kizárólag decentralizált kerete terhére történő kiírás esetében,fővárosi és megyei kormányhivatal munkaügyi központja (a továbbiakban: munkaügyi központ) kell benyújtani azzal, hogy az Szt. 2. § (5) bekezdés b) és c) pontjában meghatározott intézmény fenntartója az intézmény székhelye szerint illetékes a munkaügyi központhoz nyújthat be pályázatot.
+b)[^66] kizárólag decentralizált kerete terhére történő kiírás esetében,fővárosi és megyei kormányhivatal munkaügyi központja (a továbbiakban: munkaügyi központ) kell benyújtani azzal, hogy az Szt. 2. § (5) bekezdés b) és c) pontjában meghatározott intézmény fenntartója az intézmény székhelye szerint illetékes a munkaügyi központhoz nyújthat be pályázatot.
 
 (2) A pályázati kiírás tartalmazza
 
@@ -66,7 +66,7 @@ j) ahhoz történő hozzájárulásáról, hogy a Kincstár keretében működő
 
 k) a speciális, a készségfejlesztő speciális szakképző iskola, illetve a nem állami felsőoktatási intézmény fenntartójától arra vonatkozóan, hogy a pályázat benyújtásának évében és azt követő legalább öt évben nem szüntetik meg a speciális, a készségfejlesztő speciális szakképző iskolát, illetve a felsőoktatási intézményt jogutódlás nélkül,
 
-l) arról, hogy megfelel a rendezett munkaügyi kapcsolatok Áht. 15. §-ában meghatározott követelményeinek.
+l)[^67] arról, hogy megfelel a rendezett munkaügyi kapcsolatoknak a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló 1/2012. (I. 26.) NGM rendeletben meghatározott követelményeinek.
 
 (5) A pályázathoz csatolni kell
 
@@ -80,4 +80,6 @@ d) a speciális, a készségfejlesztő speciális szakképző iskola, illetve a 
 
 e) ha a pályázati kiírás tartalmazza, az aláírásra jogosult vezető által aláírt egyéb kötelezettséget vállaló nyilatkozatot.
 
-[^39]: A 27. § (1) bekezdés b) pontja a 3/2010. (II. 18.) SZMM rendelet 11. §-ával megállapított, a 27/2010. (XII. 31.) NGM rendelet 63. § (1) bekezdése szerint módosított szöveg.
+[^65]: A 27. § (1) bekezdés a) pontja a 3/2012. (II. 10.) NGM rendelet 15. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^66]: A 27. § (1) bekezdés b) pontja a 3/2010. (II. 18.) SZMM rendelet 11. §-ával megállapított, a 27/2010. (XII. 31.) NGM rendelet 63. § (1) bekezdése szerint módosított szöveg.
+[^67]: A 27. § (4) bekezdés l) pontja a 3/2012. (II. 10.) NGM rendelet 15. § (1) bekezdésével megállapított szöveg.

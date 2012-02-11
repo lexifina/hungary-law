@@ -1,6 +1,6 @@
 ## A)
 
-| Adatszolgáltatás a 2008. augusztus 31-ig fejlesztési megállapodások alapján átvett, illetve az előző év(ek)ről megmaradt támogatásokról Támogatásban részesített Tárgyévi szakképző iskolai tanulói átlaglétszám: fő neve: címe: OM azonosítója: NSZFI által adott nyilvántartásba vételi száma*: Maximálisan fogadható támogatási összeg: Ft |
+| Adatszolgáltatás a 2008. augusztus 31-ig fejlesztési megállapodások alapján átvett, illetve az előző év(ek)ről megmaradt támogatásokról Támogatásban részesített Tárgyévi szakképző iskolai tanulói átlaglétszám: fő neve: címe: OM azonosítója: NMH által adott nyilvántartásba vételi száma*: Maximálisan fogadható támogatási összeg: Ft |
 
 | Sorszám | Megállapodás | Támogató | Fejlesztési támogatás | Felhasználás |
 
@@ -42,7 +42,7 @@
 
 | OM azonosítója: |
 
-| NSZFI által adott nyilvántartásba vételi száma:*         Maximálisan fogadható támogatási összeg:       Ft |
+| NMH által adott nyilvántartásba vételi száma:*         Maximálisan fogadható támogatási összeg:       Ft |
 
 | Sorszám | Megállapodás | Támogató | Fejlesztési támogatás | Felhasználás |
 
@@ -70,7 +70,7 @@
 
 | címe: |
 
-| NSZFI által adott nyilvántartásba vételi száma:      : |
+| NMH által adott nyilvántartásba vételi száma:      : |
 
 | Tárgyévi, az Szht. 33. §-a szerinti átlaglétszám:      fő        Maximálisan fogadható támogatási összeg:      Ft |
 
@@ -86,13 +86,13 @@
 
 ## aláírás
 
-2. melléklet a 13/2008. (VII. 22.) SZMM rendelethez
+2. melléklet a 13/2008. (VII. 22.) SZMM rendelethez[^95]
 
 | ……… évi adatszolgáltatás a fejlesztési támogatásból megvalósított és értékesített vagy bérbe adott eszközökről |
 
 | Támogatásban részesített |
 
-| neve: címe: OM azonosítója: NSZFI által adott nyilvántartásba vételi száma: |
+| neve: címe: OM azonosítója: NMH által adott nyilvántartásba vételi száma: |
 
 | Sorszám | Értékesített, illetve bérbe adott tárgyi eszköz | Értékesítés | Bérbeadás | Befizetési kötelezettség | Az MPA képzési alaprészre visszafizetett támogatás (Ft) |
 
@@ -103,3 +103,5 @@
 Kelt:
 
 P. H. aláírás
+
+[^95]: A 2. melléklet a 3/2012. (II. 10.) NGM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.

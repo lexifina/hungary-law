@@ -1,12 +1,12 @@
-36. § (1) Az NSZFI a 35. § (1) bekezdése szerinti ellenőrzés során vizsgálatot tarthat, okiratokat és más dokumentációt kérhet, azokról másolatot, kivonatot készíthet, az adott intézmény, illetve szervezet bármely dolgozójától szóban vagy írásban felvilágosítást kérhet.
+36. § (1)[^85] Az NMH a 35. § (1) bekezdése szerinti ellenőrzés során vizsgálatot tarthat, okiratokat és más dokumentációt kérhet, azokról másolatot, kivonatot készíthet, az adott intézmény, illetve szervezet bármely dolgozójától szóban vagy írásban felvilágosítást kérhet.
 
-(2)[^50] Az ellenőrzésre kijelölt, az Szt. 2. § (5) bekezdés a) pontjában meghatározott társulás, illetve nonprofit gazdasági társaság, az Szt. 2. § (5) bekezdés b) és c) pontjában meghatározott intézmény fenntartója, az Szt. 2. § (5) bekezdés d) pontjában meghatározott szakképzés-szervezési társaság, a TISZK részét képező iskolai rendszerű szakképzést folytató szakképző iskola, központi képzőhely, a speciális, a készségfejlesztő speciális szakképző iskola, illetve a felsőoktatási intézmény, valamint a képzési alaprészből támogatásban részesített (a továbbiakban együttesen: ellenőrzésre kijelölt) köteles
+(2)[^86] Az ellenőrzésre kijelölt, az Szt. 2. § (5) bekezdés a) pontjában meghatározott társulás, illetve nonprofit gazdasági társaság, az Szt. 2. § (5) bekezdés b) és c) pontjában meghatározott intézmény fenntartója, az Szt. 2. § (5) bekezdés d) pontjában meghatározott szakképzés-szervezési társaság, a TISZK részét képező iskolai rendszerű szakképzést folytató szakképző iskola, központi képzőhely, a speciális, a készségfejlesztő speciális szakképző iskola, illetve a felsőoktatási intézmény, valamint a képzési alaprészből támogatásban részesített (a továbbiakban együttesen: ellenőrzésre kijelölt) köteles
 
-a) az NSZFI megkeresésének soron kívül eleget tenni,
+a)[^87] az NMH megkeresésének soron kívül eleget tenni,
 
-b) az NSZFI részére szóban vagy írásban tájékoztatást, magyarázatot adni, a dokumentációs anyagokba a betekintést lehetővé tenni,
+b)[^88] az NMH részére szóban vagy írásban tájékoztatást, magyarázatot adni, a dokumentációs anyagokba a betekintést lehetővé tenni,
 
-c) az NSZFI, illetve az ellenőrzést végző személy (a továbbiakban: ellenőrzést végző) kérésére az általa szolgáltatott adatok és rendelkezésre bocsátott dokumentáció teljességéről nyilatkozatot tenni,
+c)[^89] az NMH, illetve az ellenőrzést végző személy (a továbbiakban: ellenőrzést végző) kérésére az általa szolgáltatott adatok és rendelkezésre bocsátott dokumentáció teljességéről nyilatkozatot tenni,
 
 d) az ellenőrzés zavartalan elvégzéséhez szükséges egyéb feltételeket megteremteni.
 
@@ -18,6 +18,11 @@ d) az ellenőrzés zavartalan elvégzéséhez szükséges egyéb feltételeket m
 
 (6) Az ellenőrzésre kijelöltnek joga van az ellenőrzés során keletkezett iratokba betekinteni, a megállapításokkal kapcsolatban felvilágosítást kérni, azokra észrevételt tenni, a jegyzőkönyvet megismerni, és a jegyzőkönyv átadását, kézbesítését követő 15 napon belül észrevételt tenni.
 
-(7) Az ellenőrzésekről, a foganatosított intézkedésekről és azok eredményéről az NSZFI a szakképzésért felelős minisztert, valamint az oktatásért felelős minisztert legkésőbb a tárgyévet követő év február hó 28. napjáig összefoglaló jelentésben tájékoztatja.
+(7)[^90] Az ellenőrzésekről, a foganatosított intézkedésekről és azok eredményéről az NMH a szakképzésért felelős minisztert, valamint az oktatásért felelős minisztert legkésőbb a tárgyévet követő év február hó 28. napjáig összefoglaló jelentésben tájékoztatja.
 
-[^50]: A 36. § (2) bekezdés bevezető szövegrésze a 3/2010. (II. 18.) SZMM rendelet 16. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^85]: A 36. § (1) bekezdés a 3/2012. (II. 10.) NGM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^86]: A 36. § (2) bekezdés bevezető szövegrésze a 3/2010. (II. 18.) SZMM rendelet 16. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^87]: A 36. § (2) bekezdés a) pontja a 3/2012. (II. 10.) NGM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^88]: A 36. § (2) bekezdés b) pontja a 3/2012. (II. 10.) NGM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^89]: A 36. § (2) bekezdés c) pontja a 3/2012. (II. 10.) NGM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^90]: A 36. § (7) bekezdése a 3/2012. (II. 10.) NGM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
