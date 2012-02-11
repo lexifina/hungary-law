@@ -144,8 +144,6 @@
 
 | 13. | Szociális és Családügyi Minisztérium Zalaegerszegi Gyermekotthona |  | 8901 Zalaegerszeg, Posta u. 144. |
 
-| 14. | Országos Munkabiztonsági és Munkaügyi Főfelügyelőség | OMMF | 1024 Budapest, Margit körút 85. |
-
 2. számú melléklet a 42/1996. (XI. 29.) NM rendelethez
 
 ## A havi lakbér mértéke és a lakbér megállapításának feltételei
