@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-1. első magyarországi tárolási hely: az a Magyar Köztársaság területén lévő létesítmény, ahova a harmadik országból vagy tagállamok közötti kereskedelemből származó élelmiszert forgalomba hozatal, illetve feldolgozatlan vagy feldolgozott termék előállítás céljára először betárolták;
+1.[^1] első magyarországi tárolási hely: az Magyarország területén lévő létesítmény, ahova a harmadik országból vagy tagállamok közötti kereskedelemből származó élelmiszert forgalomba hozatal, illetve feldolgozatlan vagy feldolgozott termék előállítás céljára először betárolták;
 
 2. harmadik ország: az Európai Unió tagállamain kívüli ország;
 
@@ -12,7 +12,7 @@
 
 5. szállítmányt kísérő dokumentáció: számla vagy szállítólevél, amely tartalmazza az adott élelmiszer csomagolási egységein feltüntetett az adott árutétel vagy a szállítmány nyomon követését szolgáló jelzést is;
 
-6. tagállamok közötti kereskedelem: a Magyar Köztársaság és az Európai Unió más tagállama között az Európai Unióról Szóló Szerződés 28. cikke szerinti élelmiszer kereskedelem.
+6.[^2] tagállamok közötti kereskedelem: Magyarország és az Európai Unió más tagállama között az Európai Unióról Szóló Szerződés 28. cikke szerinti élelmiszer kereskedelem.
 
 (2) E rendelet alkalmazásában
 
@@ -23,3 +23,6 @@
 3. a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 882/2004/EK rendelet)
 
 fogalmait is alkalmazni kell.
+
+[^1]: A 2. § (1) bekezdés 1. pontja az 5/2012. (II. 10.) VM rendelet 54. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 6. pontja az 5/2012. (II. 10.) VM rendelet 54. §-a szerint módosított szöveg.
