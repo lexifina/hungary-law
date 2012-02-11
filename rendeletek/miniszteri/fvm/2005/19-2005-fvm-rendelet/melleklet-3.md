@@ -42,7 +42,7 @@
 
 3. számú melléklet a 19/2005. (III. 22.) FVM rendelethez
 
-## A Magyar Köztársaság területéről származó hús különleges azonosító jele
+## Magyarország területéről származó hús különleges azonosító jele[^4]
 
 1. A friss húsra vonatkozó állategészségügyi jelölésnek a bélyegző közepén egymást keresztező két egyenes vonalból álló, és az azon lévő információ olvashatóságát lehetővé tévő átlós keresztet kell tartalmaznia.
 
@@ -61,3 +61,5 @@ A betűknek legalább 0,8 cm magasnak, a számoknak pedig legalább 1 cm magasna
 A bélyegzőn fel kell tüntetni azt az információt is, amellyel a húst megvizsgáló állatorvost azonosítani lehet.
 
 A jelölést az állategészségügyi követelmények végrehajtását ellenőrző hatósági állatorvos közvetlen felügyelete mellett kell alkalmazni.
+
+[^4]: A 3. számú melléklet címe az 5/2012. (II. 10.) VM rendelet 16. § b) pontja szerint módosított szöveg.
