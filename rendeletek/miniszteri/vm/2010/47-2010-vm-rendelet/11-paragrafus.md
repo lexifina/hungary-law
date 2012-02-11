@@ -4,7 +4,7 @@ a) előadói díjak legfeljebb 35 000 forint/alkalom, megbízási szerződés es
 
 b) előadók és tolmácsok elszállásolási költsége legfeljebb 10 000 forint/nap/fő, kizárólag az előadás napján felmerült étkezési költségeik, valamint az OMME tagszervezet elnökének vagy megbízottjának étkezési költsége legfeljebb 3000 forint/nap/fő;
 
-c)[^15] előadók és tolmácsok utazási költsége:
+c)[^16] előadók és tolmácsok utazási költsége:
 
 ca) saját személygépkocsi használata;
 
@@ -26,7 +26,7 @@ i) pavilon installáció – többek között a pavilonbérlés díja, pavilonsz
 
 j) hangosítás, kivetítés költségei (szolgáltatás vagy bérleti díj);
 
-k)[^16] rendezvény egészségügyi és rendészeti, hatósági engedélyezési, vagyonvédelmi biztosításának költségei,
+k)[^17] rendezvény egészségügyi és rendészeti, hatósági engedélyezési, vagyonvédelmi biztosításának költségei,
 
 l) projektor bérlés költségei, nem számítva a bérléssel kapcsolatban felmerült szállítási költségeket.
 
@@ -62,5 +62,5 @@ l) az OMME nyilatkozatát a rendezvény Méhészeti Programba illeszkedéséről
 
 m) az OMME tagsági igazolását, amennyiben a kérelmet tagszervezet nyújtja be.
 
-[^15]: A 11. § (1) bekezdés c) pontja a 2/2012. (I. 23.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^16]: A 11. § (1) bekezdés k) pontja a 2/2012. (I. 23.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^16]: A 11. § (1) bekezdés c) pontja a 2/2012. (I. 23.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^17]: A 11. § (1) bekezdés k) pontja a 2/2012. (I. 23.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.

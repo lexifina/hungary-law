@@ -12,13 +12,13 @@
 
 a) a koordinátori tevékenységet végző személy alkalmazásával összefüggő közvetlen költségek (munkabér és közterhei) esetében legfeljebb 630 000 forint/hó;
 
-b)[^9] a koordinátori tevékenységet végző személynek a munkáltató által fizetett munkába járási költsége esetében a külön jogszabály szerint a munkáltató által kötelezően megtérítendő összegek, de legfeljebb 30 000 forint/hó:
+b)[^10] a koordinátori tevékenységet végző személynek a munkáltató által fizetett munkába járási költsége esetében a külön jogszabály szerint a munkáltató által kötelezően megtérítendő összegek, de legfeljebb 30 000 forint/hó:
 
 ba) a lakóhely vagy a tartózkodási hely és a munkavégzés helye közötti napi munkába járással kapcsolatos költségtérítés;
 
 bb) a tartózkodási helyről legfeljebb hetente egyszer a lakóhelyre történő haza- és visszautazással kapcsolatos költségtérítés;
 
-c)[^10] a feladat végrehajtásához kapcsolódó alábbi utazási költségek esetében legfeljebb összesen 50 000 forint/hó:
+c)[^11] a feladat végrehajtásához kapcsolódó alábbi utazási költségek esetében legfeljebb összesen 50 000 forint/hó:
 
 ca) saját személygépkocsi használata;
 
@@ -32,7 +32,7 @@ f) mobil és vezetékes telefon, internetköltségek esetében legfeljebb 35 000
 
 g) a vírusirtó szoftver esetében legfeljebb 15 000 forint/év, elektronikus jogszabály-nyilvántartási rendszer beszerzéséhez legfeljebb 110 000 forint/év;
 
-h)[^11] a munkavégzéshez szükséges informatikai eszközök, valamint az egyéb műszaki eszközök beszerzése (fényképezőgép, kamera, fényképezőgéphez akkumulátor, akkumulátortöltő, UPS, GPS, diktafon, headset, fénymásoló, projektor) és javítása esetében legfeljebb 500 000 forint/év,
+h)[^12] a munkavégzéshez szükséges informatikai eszközök, valamint az egyéb műszaki eszközök beszerzése (fényképezőgép, kamera, fényképezőgéphez akkumulátor, akkumulátortöltő, UPS, GPS, diktafon, headset, fénymásoló, projektor) és javítása esetében legfeljebb 500 000 forint/év,
 
 i) az adott végrehajtási időszak alatt legfeljebb két alkalommal a koordinátor képzése esetében a részvételi díj, valamint a szállás- és étkezési költség legfeljebb 50 000 forint/fő/képzés.
 
@@ -44,7 +44,7 @@ b) a kérelem alapjául szolgáló költségeket igazoló bizonylatok – így k
 
 c) a feladat végrehajtásához kapcsolódó utazási költségek elszámolása esetén útnyilvántartást, valamint az ez alapján történő kifizetés megtörténtét igazoló bizonylat másolati példányát;
 
-d)[^12] helyközi tömegközlekedéssel történő munkába járással kapcsolatos költségek, valamint a feladat végrehajtásához kapcsolódó utazási költségek elszámolásához a bérlet vagy jegy másolati példányát, és a bérlet átvételét a koordinátor aláírásával igazoló dokumentumot, továbbá a kérelmező nevére és címére kiállított számla, valamint annak pénzügyi teljesítését igazoló bizonylat másolati példányát, továbbá az útiköltség elszámolást a helyközi tömegközlekedéssel történő utazáshoz;
+d)[^13] helyközi tömegközlekedéssel történő munkába járással kapcsolatos költségek, valamint a feladat végrehajtásához kapcsolódó utazási költségek elszámolásához a bérlet vagy jegy másolati példányát, és a bérlet átvételét a koordinátor aláírásával igazoló dokumentumot, továbbá a kérelmező nevére és címére kiállított számla, valamint annak pénzügyi teljesítését igazoló bizonylat másolati példányát, továbbá az útiköltség elszámolást a helyközi tömegközlekedéssel történő utazáshoz;
 
 e) a koordinátor tevékenységről szóló havi jelentést, amelynek tartalmaznia kell az irodaszerek felhasználásáról, továbbá a tárgyhavi eredmények értékeléséről szóló beszámolót;
 
@@ -70,10 +70,10 @@ a) amit a koordinátor, vagy a szaktanácsadók készítettek;
 
 b) amit az OMME nem tett közzé a honlapján, vagy méhészeti szaklapban vagy a megjelentett méhegészségügyi ismeretek című önálló kiadványban az adott végrehajtási év végéig;
 
-c)[^13]
+c)[^14]
 
-[^9]: A 9. § (5) bekezdés b) pontja a 2/2012. (I. 23.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^10]: A 9. § (5) bekezdés c) pontja a 2/2012. (I. 23.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^11]: A 9. § (5) bekezdés h) pontja a 2/2012. (I. 23.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^12]: A 9. § (6) bekezdés d) pontja a 2/2012. (I. 23.) VM rendelet 17. § a) pontja szerint módosított szöveg.
-[^13]: A 9. § (9) bekezdés c) pontját a 2/2012. (I. 23.) VM rendelet 18. § a) pontja hatályon kívül helyezte.
+[^10]: A 9. § (5) bekezdés b) pontja a 2/2012. (I. 23.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (5) bekezdés c) pontja a 2/2012. (I. 23.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^12]: A 9. § (5) bekezdés h) pontja a 2/2012. (I. 23.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^13]: A 9. § (6) bekezdés d) pontja a 2/2012. (I. 23.) VM rendelet 17. § a) pontja szerint módosított szöveg.
+[^14]: A 9. § (9) bekezdés c) pontját a 2/2012. (I. 23.) VM rendelet 18. § a) pontja hatályon kívül helyezte.

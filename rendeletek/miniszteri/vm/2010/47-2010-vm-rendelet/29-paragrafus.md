@@ -10,7 +10,7 @@ b) a méhészeti termékek termelésének és forgalmazásának általános felt
 
 c) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló 2007. október 22-i 1234/2007/EK tanácsi rendelet 105. cikkének megfelelően Magyarország által benyújtott, méhészeti termékek termelésének és forgalmazásának javítására irányuló program jóváhagyásáról szóló Európai Közösségek Bizottsága C(2010) 6082. számú határozata.
 
-Melléklet a 47/2010. (XII. 31.) VM rendelethez[^71]
+Melléklet a 47/2010. (XII. 31.) VM rendelethez[^72]
 
 A MAGYAR MÉHÉSZETI NEMZETI PROGRAM
 
@@ -22,7 +22,7 @@ A mezőgazdasági piacok közös szervezésének létrehozásáról, valamint eg
 
 Magyarország elkészítette és csatoltan bemutatja a 1234/2007/EK rendeletnek a 107. cikkében előírt Jelentést a méhészeti ágazat termelési és értékesítési szerkezetéről, és ugyanezen rendelet 105. cikkében megfogalmazott Magyar Méhészeti Programot (Nemzeti Program).
 
-A támogatáshoz jutás másik feltételét, a Nemzeti Program nemzeti forrását a Magyar Köztársaság biztosítja a 2010. március 10-i Földművelésügyi és Vidékfejlesztési Minisztérium Szakállamtitkári Értekezlete döntése alapján.
+A támogatáshoz jutás másik feltételét, a Nemzeti Program nemzeti forrását Magyarország biztosítja a 2010. március 10-i Földművelésügyi és Vidékfejlesztési Minisztérium Szakállamtitkári Értekezlete döntése alapján.
 
 Méhészeti nemzeti és strukturális támogatások:
 
@@ -100,11 +100,11 @@ Az alkalmazott méhészeti technológia jelentősen nem változik, a professzion
 
 Az országos helyzet az előző jelentéshez képest nem változott:
 
-–  Az országban három kerettípus és két fő kaptártípus van használatban. A kaptárak jelentős része a múlt század elején meghonosított Nagy-Boczonádi (NB) fekvőkaptár, mintegy egyharmadát a modern rakodó kaptárak teszik ki.
+– Az országban három kerettípus és két fő kaptártípus van használatban. A kaptárak jelentős része a múlt század elején meghonosított Nagy-Boczonádi (NB) fekvőkaptár, mintegy egyharmadát a modern rakodó kaptárak teszik ki.
 
-–  A méhészek többsége, közel 70%-a vándoroltatja méhészetét. A kaptárak szállítóeszközre történő fel- és lerakása az esetek többségében kézi erővel történik, de az utóbbi időben terjed a darus pakolás. A méhészetek mintegy 1–2%-a rendelkezik saját szállítóeszközzel, amelyek átlagéletkora meghaladja a 15 évet.
+– A méhészek többsége, közel 70%-a vándoroltatja méhészetét. A kaptárak szállítóeszközre történő fel- és lerakása az esetek többségében kézi erővel történik, de az utóbbi időben terjed a darus pakolás. A méhészetek mintegy 1–2%-a rendelkezik saját szállítóeszközzel, amelyek átlagéletkora meghaladja a 15 évet.
 
-–  A méhészeti eszközöknek és berendezéseknek évekig nem volt hazai gyártó háttere, napjainkban kezdenek kisebb gyártók ezzel foglalkozni, ezt a folyamatot elősegítették a nemzeti program ez irányú intézkedései.
+– A méhészeti eszközöknek és berendezéseknek évekig nem volt hazai gyártó háttere, napjainkban kezdenek kisebb gyártók ezzel foglalkozni, ezt a folyamatot elősegítették a nemzeti program ez irányú intézkedései.
 
 Mézkereskedelem
 
@@ -708,4 +708,4 @@ Az értékelés szempontjai:
 
 A Nemzeti Programot érintő tájékoztatással és nyilvánossággal kapcsolatos teendők célja a potenciális és tényleges kedvezményezettek tájékoztatása a Nemzeti Program működéséről, a felajánlott pénzügyi és intézkedési lehetőségekről, a pályázati eljárásokról, a támogatások átláthatóságának biztosítása érdekében. Az érintett szervezetek honlapjukon, illetve a szaksajtóban adnak tájékoztatást.
 
-[^71]: A melléklet a 2/2012. (I. 23.) VM rendelet 17. § q) pontja szerint módosított szöveg.
+[^72]: A melléklet a 2/2012. (I. 23.) VM rendelet 17. § q) pontja, az 5/2012. (II. 10.) VM rendelet 56. §-a szerint módosított szöveg.

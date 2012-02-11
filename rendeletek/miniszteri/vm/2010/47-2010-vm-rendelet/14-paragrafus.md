@@ -12,13 +12,13 @@ a) az OMME által megyei szaktanácsadónként éves szinten meghatározott vál
 
 b) a vezető szaktanácsadó alkalmazásával összefüggő közvetlen költségek (munkabér és közterhei) esetében legfeljebb 630 000 forint/hó;
 
-c)[^24] a vezető szaktanácsadónak a munkáltató által fizetett munkába járási költsége esetében a külön jogszabály szerint a munkáltató által megtérített összegek, de legfeljebb 30 000 forint/hó:
+c)[^25] a vezető szaktanácsadónak a munkáltató által fizetett munkába járási költsége esetében a külön jogszabály szerint a munkáltató által megtérített összegek, de legfeljebb 30 000 forint/hó:
 
 ca) a lakóhely vagy a tartózkodási hely és a munkavégzés helye közötti napi munkába járással kapcsolatos költségtérítés;
 
 cb) a tartózkodási helyről legfeljebb hetente egyszer a lakóhelyre történő haza- és visszautazással kapcsolatos költségtérítés;
 
-d)[^25] a vezető szaktanácsadónak a feladat végrehajtásához kapcsolódó alábbi utazási költségek esetében legfeljebb összesen 60 000 forint/hó:
+d)[^26] a vezető szaktanácsadónak a feladat végrehajtásához kapcsolódó alábbi utazási költségek esetében legfeljebb összesen 60 000 forint/hó:
 
 da) saját személygépkocsi használata;
 
@@ -36,9 +36,9 @@ h) irodaszerekre és informatikai adattároló eszközökre 1 600 000 forint/év
 
 i) nyomdai fénymásolási és sokszorosítási költségekre legfeljebb 1 500 000 forint/év;
 
-j)[^26] a munkavégzéshez szükséges számítástechnikai és irodagépek, valamint az egyéb műszaki eszközök (antibiotikum gyorsteszt-szett, refraktométer, fényképezőgép, kamera, fényképezőgéphez akkumulátor, akkumulátortöltő, UPS, GPS, diktafon, headset, fénymásoló, projektor) javítása és karbantartására, szükség szerinti pótlására legfeljebb 1 500 000 forint/év;
+j)[^27] a munkavégzéshez szükséges számítástechnikai és irodagépek, valamint az egyéb műszaki eszközök (antibiotikum gyorsteszt-szett, refraktométer, fényképezőgép, kamera, fényképezőgéphez akkumulátor, akkumulátortöltő, UPS, GPS, diktafon, headset, fénymásoló, projektor) javítása és karbantartására, szükség szerinti pótlására legfeljebb 1 500 000 forint/év;
 
-k)[^27]
+k)[^28]
 
 (5) Az (1) bekezdésben meghatározott intézkedésre benyújtandó támogatási kérelemhez csatolni kell:
 
@@ -54,7 +54,7 @@ b) a kérelem alapjául szolgáló költségeket igazoló bizonylatok (kérelmez
 
 c) a vezető szaktanácsadó feladatának végrehajtásához kapcsolódó utazási költségek elszámolása esetén az útnyilvántartást, valamint az ez alapján történő kifizetés megtörténtét igazoló bizonylat másolati példányát;
 
-d)[^28] a vezető szaktanácsadó helyközi tömegközlekedéssel történő munkába járásával kapcsolatos költségek, valamint a feladatának végrehajtásához kapcsolódó utazási költségek elszámolásához a bérlet vagy jegy másolati példányát, és a bérlet átvételét a vezető szaktanácsadó aláírásával igazoló dokumentumot, továbbá a kérelmező nevére és címére kiállított számla, valamint annak pénzügyi teljesítését igazoló bizonylat másolati példányát, továbbá az útiköltség elszámolást a helyközi tömegközlekedéssel történő utazáshoz;
+d)[^29] a vezető szaktanácsadó helyközi tömegközlekedéssel történő munkába járásával kapcsolatos költségek, valamint a feladatának végrehajtásához kapcsolódó utazási költségek elszámolásához a bérlet vagy jegy másolati példányát, és a bérlet átvételét a vezető szaktanácsadó aláírásával igazoló dokumentumot, továbbá a kérelmező nevére és címére kiállított számla, valamint annak pénzügyi teljesítését igazoló bizonylat másolati példányát, továbbá az útiköltség elszámolást a helyközi tömegközlekedéssel történő utazáshoz;
 
 e) a szaktanácsadók által a havi tevékenységükről készített összefoglaló jelentéseket, amelyeknek tartalmazniuk kell az irodaszerek és nyomtatványok felhasználásának ismertetését is, valamint a tárgyhavi eredmények értékeléséről szóló beszámolót;
 
@@ -64,8 +64,8 @@ g) az irodaszerek, nyomtatványok szaktanácsadó(k) által történő átvétel
 
 h) az OMME elnöke által kiállított igazolást arra vonatkozóan, hogy minden egyes szaktanácsadó a tanácsadást hetente legalább 25 órában végzi, amelyből legfeljebb egy, 8 órát meg nem haladó fogadónap esik hétvégére.
 
-[^24]: A 14. § (4) bekezdés c) pontja a 2/2012. (I. 23.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^25]: A 14. § (4) bekezdés d) pontja a 2/2012. (I. 23.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^26]: A 14. § (4) bekezdés j) pontja a 2/2012. (I. 23.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^27]: A 14. § (4) bekezdés k) pontját a 2/2012. (I. 23.) VM rendelet 18. § c) pontja hatályon kívül helyezte.
-[^28]: A 14. § (5) bekezdés d) pontja a 2/2012. (I. 23.) VM rendelet 17. § f) és g) pontja szerint módosított szöveg.
+[^25]: A 14. § (4) bekezdés c) pontja a 2/2012. (I. 23.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^26]: A 14. § (4) bekezdés d) pontja a 2/2012. (I. 23.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^27]: A 14. § (4) bekezdés j) pontja a 2/2012. (I. 23.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^28]: A 14. § (4) bekezdés k) pontját a 2/2012. (I. 23.) VM rendelet 18. § c) pontja hatályon kívül helyezte.
+[^29]: A 14. § (5) bekezdés d) pontja a 2/2012. (I. 23.) VM rendelet 17. § f) és g) pontja szerint módosított szöveg.
