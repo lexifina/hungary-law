@@ -1,1 +1,0 @@
-## „(4) A külpolitikáért felelős miniszter a külképviseletek útján – a 4. §-ban és az 5. §-ban meghatározottak kapcsán – a hozzá forduló utasok hazajuttatásával kapcsolatban a konzuli védelemről szóló jogszabályok szerinti segítséget nyújt.”
