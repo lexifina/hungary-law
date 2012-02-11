@@ -1,6 +1,6 @@
 6. § (1) A zajmérést végző a zajmérésről négy példányban mérési jegyzőkönyvet (a továbbiakban: jegyzőkönyv) készít, amelynek három példányát a munkáltatónak átadja.
 
-(2)[^1] A munkáltató a jegyzőkönyv egy-egy példányát továbbítja a munkavédelmi képviselőnek és a foglalkozás-egészségügyi szolgálat orvosának, egy példányát a külön jogszabályban meghatározott ideig megőrzi. A munkáltató jogutód nélküli megszűnése esetén a jegyzőkönyvet a fővárosi és megyei kormányhivatal munkavédelmi felügyelőségének kell átadni. A munkavállaló a rá vonatkozó jegyzőkönyvbe betekinthet.
+(2)[^1] A munkáltató a jegyzőkönyv egy-egy példányát továbbítja a munkavédelmi képviselőnek és a foglalkozás-egészségügyi szolgálat orvosának, egy példányát a külön jogszabályban meghatározott ideig megőrzi. A munkáltató jogutód nélküli megszűnése esetén a jegyzőkönyvet a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve munkavédelmi felügyelőségének (a továbbiakban: munkavédelmi felügyelőség) kell átadni. A munkavállaló a rá vonatkozó jegyzőkönyvbe betekinthet.
 
 (3)[^2] Ha az 5. § (4) bekezdésében foglalt intézkedések keretében a munkavédelmi képviselő vagy a foglalkozás-egészségügyi szolgálat orvosa megállapítja, hogy
 
@@ -14,5 +14,5 @@ b) a zajmérés nem az üzemszerű működésnek megfelelően történt,
 
 (5) A mérési eredmények értékelése során a mérési pontatlanságokat figyelembe véve a melléklet 6. pontja szerinti eljárást kell alkalmazni.
 
-[^1]: A 6. § (2) bekezdése a 27/2010. (XII. 31.) NGM rendelet 51. §-ával megállapított szöveg.
+[^1]: A 6. § (2) bekezdése a 27/2010. (XII. 31.) NGM rendelet 51. §-ával megállapított, a 3/2012. (II. 10.) NGM rendelet 12. § a) pontja szerint módosított szöveg.
 [^2]: A 6. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 17. §-ával megállapított, záró szövegrésze az 51/2011. (XII. 23.) NGM rendelet 44. § (2) bekezdése szerint módosított szöveg.
