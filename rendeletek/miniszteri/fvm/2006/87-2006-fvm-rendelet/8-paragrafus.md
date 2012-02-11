@@ -50,7 +50,7 @@ d) az előszaporító üzem növényegészségügyi alkalmasságát az MgSzH ter
 
 (11) Az árutermelő szőlőiskola fenntartója köteles
 
-a) olyan fajtát szaporítani, amely a Magyar Köztársaságban államilag elismert, szaporítása engedélyezett (kivétel a harmadik országba, export céljára történő bértermeltetés), klónja regisztrált vagy szaporítása engedélyezett, illetve a fajta más tagállam nemzeti fajtajegyzékében szerepel, vagy klónja regisztrált,
+a)[^1] olyan fajtát szaporítani, amely Magyarországon államilag elismert, szaporítása engedélyezett (kivétel a harmadik országba, export céljára történő bértermeltetés), klónja regisztrált vagy szaporítása engedélyezett, illetve a fajta más tagállam nemzeti fajtajegyzékében szerepel, vagy klónja regisztrált,
 
 b) a növényegészségügyi előírásokat megtartani, vírustesztelt szaporítóanyagok esetében a mentességet biztosító 5. számú mellékletben előírt technológiát és izolációs távolságot betartani,
 
@@ -77,3 +77,5 @@ d) a szaporított tételek nagyságát, elkülönítését, jelölését, a sző
 e) a növényállomány fejlettségét, a tételek fajtatisztasági szelekciójának eredményességét, a várható hozamot.
 
 (13) Az MgSzH Központja a kitermelést és osztályozást követően a szaporított prebázis, bázis és certifikált tételeket minősíti, a standard tételeket ellenőrzi. Az MgSzH Központja az ellenőrzések és a minősítések eredményei alapján határozatot hoz arról, hogy mely tételek forgalomba hozatalát vagy felhasználását milyen kategóriában engedélyezi vagy korlátozza.
+
+[^1]: A 8. § (11) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 25. § a) pontja szerint módosított szöveg.

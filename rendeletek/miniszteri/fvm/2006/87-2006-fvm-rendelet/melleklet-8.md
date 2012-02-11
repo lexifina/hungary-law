@@ -154,7 +154,7 @@ i) minden olyan eseményt, munkafázist, amely az elhelyezett növények állag�
 
 2.3. Ellenőrzés
 
-2.3.1. A törzsültetvényekben és szőlőiskolákban a vegetációs időszak folyamán legalább egy alkalommal a károsítók diagnosztizálására legmegfelelőbb időpontban vizuális növényegészségügyi vizsgálatot kell végezni a zárlati károsítóktól, valamint a 6. és 7. számú mellékletben[^2] felsorolt károsítóktól való mentesség megállapítására.
+2.3.1. A törzsültetvényekben és szőlőiskolákban a vegetációs időszak folyamán legalább egy alkalommal a károsítók diagnosztizálására legmegfelelőbb időpontban vizuális növényegészségügyi vizsgálatot kell végezni a zárlati károsítóktól, valamint a 6. és 7. számú mellékletben[^4] felsorolt károsítóktól való mentesség megállapítására.
 
 Vizuális vizsgálat alapján a szabadföldön, valamint az izolátorházban elhelyezett kiindulási (perbázis) törzsültetvények egyedei között észlelt fertőzésre utaló tünetek esetén, az egész állományra kiterjedő ellenőrző tesztelést kell végezni. A pozitív egyedeket haladéktalanul el kell távolítani és meg kell semmisíteni.
 
@@ -192,4 +192,4 @@ b) alany ültetvényekben: GFLV, ArMV, GLRaV-1, -2, -3, stolbur fitoplazma kóro
 
 2.3.9. A vírus és egyéb károsítók vizsgálati eredményére (mentességre) vonatkozó, határozatban kiadott igazolás visszavonásig érvényes, amennyiben a tulajdonos a mentesség megőrzését biztosító (technológiai) előírásokat a vizsgálat és a szaporítás során maradéktalanul betartja, valamint az előírt ellenőrző vizsgálatokat meghatározott gyakorisággal elvégezteti, és amíg azok eredménye negatív.
 
-[^2]: A Magyar Közlöny 2007. évi 3. számában megjelent helyesbítésnek megfelelő szöveg.
+[^4]: A Magyar Közlöny 2007. évi 3. számában megjelent helyesbítésnek megfelelő szöveg.

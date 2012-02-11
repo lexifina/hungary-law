@@ -22,8 +22,10 @@ h) a szaporítóanyag mennyisége.
 
 (3) Az importengedély iránti kérelemnek a fentieken kívül tartalmaznia kell a termelő nevét, az import célját és a szállítás időpontját.
 
-(4) A behozott szaporítóanyag tárolási helyéről és mennyiségéről a Magyar Köztársaság területére történő beérkezést követő 3 napon belül az importáló köteles az MgSzH Központját értesíteni és kérni a belföldi forgalmazáshoz szükséges ellenőrzést.
+(4)[^3] A behozott szaporítóanyag tárolási helyéről és mennyiségéről Magyarország területére történő beérkezést követő 3 napon belül az importáló köteles az MgSzH Központját értesíteni és kérni a belföldi forgalmazáshoz szükséges ellenőrzést.
 
 (5) Belföldi célra a tétel csak abban az esetben használható fel, ha a hazai előírásoknak megfelelő fajtájú, oltvány esetén alanyú, kategóriájú és minőségű. Alapanyagként történő behozatal, külföldi bértermeltetés esetén – amennyiben a fajta Magyarországon nem telepíthető – az ültetési anyag teljes mennyiségét kötelező kiszállítani Magyarországról.
 
 (6) A rendeletben foglaltaktól a harmadik országba szállítandó szőlő szaporítóanyagok esetében a célország előírásaira figyelemmel az MgSzH Központja eltérést engedélyezhet. Amennyiben a harmadik országba szállítandó szőlő szaporítóanyag nem felel meg e rendelet előírásainak, certifikációs címkével nem látható el.
+
+[^3]: A 17. § (4) bekezdése az 5/2012. (II. 10.) VM rendelet 25. § b) pontja szerint módosított szöveg.
