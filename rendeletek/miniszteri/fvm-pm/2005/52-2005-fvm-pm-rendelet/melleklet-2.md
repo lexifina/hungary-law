@@ -1,16 +1,16 @@
 2. számú melléklet az 52/2005. (VI. 4.) FVM–PM
 
-együttes rendelethez[^2]
+együttes rendelethez[^12]
 
-A Magyar Köztársaság államhatárán keresztül
+Magyarország államhatárán keresztül
 
-az Európai Unió területére belépő, és a Magyar Köztársaság területén szabad forgalomba bocsátani kívánt import takarmány bejelentő lapjának mintája
+az Európai Unió területére belépő, és Magyarország területén szabad forgalomba bocsátani kívánt import takarmány bejelentő lapjának mintája[^13]
 
 I.
 
 1. Importőr adatai (név, cím, telefonszám)
 
-2. Import takarmány megnevezése[^3]
+2. Import takarmány megnevezése[^14]
 
 3. Import takarmány mennyisége (nettó tömege)
 
@@ -66,5 +66,6 @@ Dátum:
 
 aláírás, hivatalos bélyegző
 
-[^2]: A 2. számú melléklet a 31/2006. (IV. 29.) FVM–GKM–PM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^3]: Az 1. számú melléklet II. fejezetének 8. pontja szerinti megnevezés.
+[^12]: A 2. számú melléklet a 31/2006. (IV. 29.) FVM–GKM–PM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 2. számú melléklet címe az 5/2012. (II. 10.) VM rendelet 19. § a) és b) pontja szerint módosított szöveg.
+[^14]: Az 1. számú melléklet II. fejezetének 8. pontja szerinti megnevezés.

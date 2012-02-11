@@ -132,10 +132,10 @@ Meg kell adni a határvámhivatal nevét és a hivatalos pecsétet, a dokumentum
 
 Meg kell adni a határvámhivatal felhatalmazott tisztviselőjének aláírását, teljes nevét nyomtatott betűkkel és a dátumot.
 
-D. További megjegyzések[^1]
+D. További megjegyzések[^11]
 
 17. A rendeltetés szerinti tagállam illetékes hatósága számára fenntartott hely
 
 A dokumentumnak ez a része a rendeltetés szerinti tagállam illetékes hatóságának áll rendelkezésre, esetleges megjegyzései számára.
 
-[^1]: Nem kötelező kitölteni.
+[^11]: Nem kötelező kitölteni.

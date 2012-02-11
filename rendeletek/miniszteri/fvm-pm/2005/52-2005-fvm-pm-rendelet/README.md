@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-52-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2006-05-14 | 2005-52-20-82.2 | 52/2005. (VI. 4.) FVM–PM együttes rendelet |
+| 2012-02-11 | 2005-52-20-82.3 | 5/2012. (II. 10.) VM rendelet |
