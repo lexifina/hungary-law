@@ -1,3 +1,0 @@
-## 1. § Az elektronikus cégbejegyzési eljárás és cégnyilvántartás egyes kérdéseiről szóló 24/2006. (V. 18.) IM rendelet (a továbbiakban: R.) 5. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az elektronikus cégbejegyzési (változásbejegyzési) eljárásban a cég bejegyzésére (változásbejegyzésére) irányuló kérelmet a közigazgatási informatikáért felelős miniszter által kiadott ajánlásában foglalt műszaki és egyéb követelményeknek megfelelő nyomtatványon kell előterjeszteni. Az elektronikus nyomtatvány előállításához szükséges követelmények a céginformációs szolgálat honlapján kerülnek közzétételre.”
