@@ -1,1 +1,0 @@
-## 58. § Az iskolagyümölcs-program 2011/2012. tanévi végrehajtásáról szóló 51/2011. (VI. 6.) VM rendelet 11. §-ában és 14. § (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

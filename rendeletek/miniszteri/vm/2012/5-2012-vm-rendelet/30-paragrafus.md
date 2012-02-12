@@ -1,1 +1,0 @@
-## 29. § Az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet 3. § (1) bekezdés h) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

@@ -1,1 +1,0 @@
-## 54. § Az élelmiszer-előállítással és -forgalmazással kapcsolatos adatszolgáltatásról és nyomonkövethetőségről szóló 3/2010. (VII. 5.) VM rendelet 2. § (1) bekezdés 1. és 6. pontjában, 3. § (2) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

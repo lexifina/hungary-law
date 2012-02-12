@@ -1,1 +1,0 @@
-## 36. § A dísznövény szaporítóanyagok forgalomba hozataláról szóló 45/2008. (IV. 11.) FVM rendelet 5. § (5) bekezdés b) pontjában és 13. §-ában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

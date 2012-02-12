@@ -1,1 +1,0 @@
-## 49. § Az állami alapadatok felhasználásával végzett sajátos célú földmérési és térképészeti tevékenységről szóló 46/2010. (IV. 27.) FVM rendelet 7. és 8. mellékletében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

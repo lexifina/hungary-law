@@ -1,1 +1,0 @@
-## 3. § Klasszikus sertéspestis elleni védekezésről szóló 75/2002. (VIII. 16.) FVM rendelet 1. számú melléklet 1. pont c) alpontjában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

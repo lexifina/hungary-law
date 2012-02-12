@@ -1,1 +1,0 @@
-## 30. § A mezőgazdasági vállalkozások által de minimis támogatásként igénybe vehető intézményi kezességvállalásról szóló 50/2007. (VI. 27.) FVM rendelet 1. § m) pontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

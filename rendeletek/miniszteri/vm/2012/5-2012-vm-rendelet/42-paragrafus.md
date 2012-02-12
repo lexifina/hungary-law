@@ -1,1 +1,0 @@
-## 41. § A Magyar Köztársaság területén az ENSZ Éghajlatváltozási Keretegyezménye keretében megvalósuló együttes végrehajtás hitelesítőire vonatkozó szakmai és személyi követelményekről, valamint a hitelesítés szabályairól szóló 1/2009. (II. 10.) KvVM rendelet 6. § (3) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

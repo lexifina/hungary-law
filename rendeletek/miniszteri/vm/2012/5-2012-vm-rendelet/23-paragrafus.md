@@ -1,1 +1,0 @@
-## 22. § A Magyar Agrárgazdasági Minőség Díjról szóló 103/2005. (XI. 4.) FVM rendelet 6. § (1) bekezdésében az „A MAGYAR KÖZTÁRSASÁG FÖLDMŰVELÉSÜGYI ÉS” szövegrész helyébe a „MAGYARORSZÁG” szöveg lép.
