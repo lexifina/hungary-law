@@ -824,7 +824,7 @@ Alelnök:
 
 Szalay Ferenc (Fidesz)
 
-Szilágyi György (Jobbik)[^112]
+Zakó László (Jobbik)[^112]
 
 Tagok:
 
@@ -854,7 +854,7 @@ Pál Béla (MSZP)
 
 dr. Vadai Ágnes (független)[^114]
 
-Zakó László (Jobbik)[^115]
+Szilágyi György (Jobbik)[^115]
 
 Kukorelly Endre (LMP)
 
@@ -1089,10 +1089,10 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^109]: A 110/2010. (XI. 4.) OGY határozat 1. pontjával megállapított szöveg.
 [^110]: A 110/2010. (XI. 4.) OGY határozat 1. pontjával megállapított szöveg.
 [^111]: Az 1. pont r) alpont címe a 48/2010. (VI. 29.) OGY határozat 1. pontjával megállapított szöveg.
-[^112]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^112]: Az 1/2012. (II. 21.) OGY határozat 1. pontjával megállapított szöveg.
 [^113]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^114]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^115]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^115]: Az 1/2012. (II. 21.) OGY határozat 1. pontjával megállapított szöveg.
 [^116]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
 [^117]: A 27/2011. (V. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^118]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
