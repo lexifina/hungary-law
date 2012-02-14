@@ -1,1 +1,0 @@
-## által kijelölt személyek, az országos tisztifőorvos vagy az általa kijelölt személy, továbbá a kémiai biztonság területén érintett társadalmi szervezetek által külön jogszabályban meghatározott módon delegált legfeljebb hat személy.

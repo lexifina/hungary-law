@@ -12,7 +12,7 @@
 
 ## 1.5.[^68] a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv – kivéve az ERMAH vonatkozásában a külön jogszabályban meghatározott feladatokat – Fejér, Komárom-Esztergom és Veszprém megyére,
 
-## 1.6.[^69] a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv Győr-Moson-Sopron, Vas és Zala megyére, továbbá az ERMAH környezeti sugár-egészségügyi laboratóriumai feladatokat Fejér, Komárom, Esztergom és Veszprém megyére
+## 1.6.[^69] a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv Győr-Moson-Sopron, Vas és Zala megyére, továbbá az ERMAH környezeti sugár-egészségügyi laboratóriumai feladatokat Komárom-Esztergom és Veszprém megyére
 
 ## kiterjedő illetékességgel látja el.
 
@@ -48,6 +48,6 @@
 
 [^67]: A 2. melléklet 1.4. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
 [^68]: A 2. melléklet 1.5. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
-[^69]: A 2. melléklet 1.6. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg.
+[^69]: A 2. melléklet 1.6. pontja a 13/2012. (II. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^70]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be.
 [^71]: A 3. melléklet a 325/2011. (XII. 28.) Korm. rendelet 85. § (2) bekezdése szerint módosított szöveg.

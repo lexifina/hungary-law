@@ -1,5 +1,3 @@
-## való megfelelést szolgálja.
-
 ## 14. Jogutódlás
 
 27. § (1) Az ÁNTSZ Közép-magyarországi Regionális Intézete kivételével az e rendelet hatálybalépését megelőzően regionális illetékességgel működő – különválással egyidejűleg összeolvadás révén szakigazgatási szervvé váló – ÁNTSZ regionális intézete jogutóda az alapító okiratban foglaltak szerint a korábbi illetékességi területén működő azon fővárosi és megyei kormányhivatal, mellyel a megyei illetékességi területet illetően az összeolvadás megtörténik.
@@ -16,7 +14,7 @@ b) a regionális tisztifőorvos számára megállapított hatásköröket a megy
 
 c)[^64] a regionális tisztifőgyógyszerész számára megállapított hatásköröket a megyei, illetve fővárosi tisztifőgyógyszerész
 
-## gyakorolja.
+gyakorolja.
 
 (5)[^65] Az (1) és (2) bekezdéstől eltérően a korábban a regionális intézetek által végzett egyes feladatok részleges átvevője az alapító okirat szerint az OTH, melynek tekintetében a számára jogszabályban megállapított feladat- és hatáskörök és a feladatellátáshoz kapcsolódó jogviszonyokat illetően a regionális intézet jogutódjának tekintendő.
 

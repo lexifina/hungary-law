@@ -12,4 +12,6 @@ b) ha első fokon a megyei népegészségügyi szakigazgatási szerv, illetőleg
 
 c) amennyiben első fokon az országos tisztifőorvos járt el, a külön jogszabály szerinti jogorvoslati hatóság
 
+hatáskörébe tartozik.
+
 [^47]: A 18/A. §-t a 325/2011. (XII. 28.) Korm. rendelet 82. §-a iktatta be.

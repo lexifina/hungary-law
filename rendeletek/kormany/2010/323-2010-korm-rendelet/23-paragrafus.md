@@ -36,7 +36,7 @@ a) – a földtani környezet és az ásványvagyon védelme szakkérdésében �
 
 b) – a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget
 
-## szakhatóságként jelöli ki.
+szakhatóságként jelöli ki.
 
 (5) A Kormány a Sugáregészségügyi Decentrum és az OTH hatáskörébe tartozó atomenergiával kapcsolatos első és másodfokú engedélyezési eljárásokban a 4. mellékletben meghatározott hatóságokat – az ott megjelölt feltételek fennállása esetén és szakkérdésben – szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság egy évig felhasználható előzetes szakhatósági állásfoglalást ad ki.
 
@@ -66,7 +66,7 @@ c) az a)–b) pont alá nem tartozó, több központban végzett kutatás eseté
 
 d) az Eütv. 161. § (1) és (3) bekezdése szerinti kutatás esetében
 
-## első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) Tudományos és Kutatásetikai Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
+első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) Tudományos és Kutatásetikai Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
 (9)[^51] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
