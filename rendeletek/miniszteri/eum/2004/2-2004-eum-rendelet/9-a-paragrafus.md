@@ -1,0 +1,1 @@
+## 9. § Jogszabály által kötelezően előírt adatkezelés (dokumentáció, finanszírozási és egyéb jelentések, beutalás más szolgáltatóhoz stb.) során a szolgáltató köteles az e rendelet szerinti azonosítóját alkalmazni.
