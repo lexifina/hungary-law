@@ -1,12 +1,12 @@
 ## A besorolási döntés
 
-25. §[^88] (1)[^89] A Hivatal a besorolási döntést
+25. §[^89] (1)[^90] A Hivatal a besorolási döntést
 
-a)[^90] a keresztféléves felvételi eljárás esetén legkésőbb a képzés indítása szerinti év január 25. napjáig,
+a)[^91] a keresztféléves felvételi eljárás esetén legkésőbb a képzés indítása szerinti év január 25. napjáig,
 
 b) az általános felvételi eljárás esetén legkésőbb a képzés indítása szerinti év augusztus 1. napjáig
 
-## hozza meg. A besorolási döntés időpontját a Hivatal állapítja meg.
+hozza meg. A besorolási döntés időpontját a Hivatal állapítja meg.
 
 (2) Besorolási döntéskor arról születik döntés, hogy a jelentkező felvehető-e bármely általa a felvételi kérelmében megjelölt képzésre és ha igen, melyikre. Egyazon felvételi eljárásban a jelentkező csak egy helyre sorolható be.
 
@@ -32,6 +32,6 @@ h) a felsőoktatási intézmény számára a miniszter által pályázat kereté
 
 (5) A jelentkezőkről egységes rangsorolás alapján ponthatár alkalmazásával kell dönteni. Az adott képzésre ponthatár alatti eredménnyel senki nem sorolható be, azt, aki a ponthatárt elérte vagy meghaladta, kötelező besorolni.
 
-[^88]: A 25. § és az azt megelőző alcím a 198/2008. (VIII. 4.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^89]: A 25. § (1) bekezdése a 98/2009. (IV. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^90]: A 25. § (1) bekezdés a) pontja a 39/2011. (III. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^89]: A 25. § és az azt megelőző alcím a 198/2008. (VIII. 4.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^90]: A 25. § (1) bekezdése a 98/2009. (IV. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^91]: A 25. § (1) bekezdés a) pontja a 39/2011. (III. 22.) Korm. rendelet 5. §-ával megállapított szöveg.

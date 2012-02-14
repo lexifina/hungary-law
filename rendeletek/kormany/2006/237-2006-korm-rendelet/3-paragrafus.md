@@ -18,7 +18,7 @@ a) a februárban induló képzésekre vonatkozóan a képzés indítását megel
 
 b) a szeptemberben induló képzésekre vonatkozóan a képzés indítását megelőző év december 15. napjáig
 
-## a Tájékoztató megjelentetéséről.
+a Tájékoztató megjelentetéséről.
 
 (5)[^7] A Hivatal a Tájékoztatóban megjelentetett felvételi hirdetményeket kiegészítő, módosító közleményt – a felsőoktatási intézmények által legkésőbb a jelentkezési határidőt 30 nappal megelőzően közölt adatok alapján – legkésőbb a jelentkezési határidőt 15 nappal megelőzően tehet közzé.
 
