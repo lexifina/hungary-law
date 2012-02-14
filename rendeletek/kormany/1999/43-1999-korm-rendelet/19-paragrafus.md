@@ -16,7 +16,7 @@ bc)[^148] 1,5 területi szorzóval megemelt mértéke a 20 001–40 000 között
 
 bd) 1,3 területi szorzóval megemelt mértéke a 40 001–80 000 közötti lakosságszámú
 
-## települési önkormányzatok esetében;
+települési önkormányzatok esetében;
 
 c)[^149] a b) pont szerinti szorzókkal kiszámított összes díj levonása után fennmaradó keretösszegből kerül megállapításra a 80 000 fő feletti lakosságszámnál a díjazás mértéke, amely nem lehet kevesebb az alapösszeg 75 százalékánál, és nem haladhatja meg a díjazás alapösszegének bd) pontban meghatározott területi szorzóval növelt összegének 98 százalékát.
 

@@ -1,3 +1,3 @@
-## 50/A. §[^432]
+50/B. §[^434]
 
-[^432]: Az 50/A. §-t a 29/2001. (III. 2.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 331/2005. (XII. 29.) Korm. rendelet 19. § (4) bekezdése.
+[^434]: Az 50/B. §-t a 293/2002. (XII. 27.) Korm. rendelet 23. §-a iktatta be, hatályon kívül helyezte a 331/2005. (XII. 29.) Korm. rendelet 19. § (4) bekezdése.

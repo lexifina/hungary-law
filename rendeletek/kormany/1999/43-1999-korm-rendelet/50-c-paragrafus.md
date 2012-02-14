@@ -1,3 +1,3 @@
-## 50/B. §[^433]
+50/C. §[^435]
 
-[^433]: Az 50/B. §-t a 293/2002. (XII. 27.) Korm. rendelet 23. §-a iktatta be, hatályon kívül helyezte a 331/2005. (XII. 29.) Korm. rendelet 19. § (4) bekezdése.
+[^435]: Az új 50/C. §-t a 264/2003. (XII. 24.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 331/2005. (XII. 29.) Korm. rendelet 19. § (4) bekezdése.
