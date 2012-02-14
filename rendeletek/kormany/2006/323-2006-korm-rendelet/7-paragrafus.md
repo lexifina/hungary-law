@@ -1,6 +1,6 @@
 7. § (1) Ez a rendelet 2007. január 1-jén lép hatályba.
 
-(2)[^2]
+(2)[^3]
 
 Melléklet a 323/2006. (XII. 23.) Korm. rendelethez
 
@@ -18,4 +18,4 @@ Regionális vérellátó központok
 
 6. A Debreceni Regionális Vérellátó Központ (székhelye: Debrecen, Bem tér 19.).
 
-[^2]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 194. pontja hatályon kívül helyezte.
+[^3]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 194. pontja hatályon kívül helyezte.

@@ -20,7 +20,7 @@ g) a transzfuziológiai képzésben és továbbképzésben együttműködik az o
 
 h) működteti a külön jogszabály szerinti Monitoring Bizottságot,
 
-i) szervdonáció szervezésével összefüggő koordinációs tevékenységet végez.
+i)[^2] szervdonáció és szervdonációhoz kapcsolódó szövetdonáció szervezésével összefüggő koordinációs tevékenységet végez.
 
 (3) A regionális vérellátó központ
 
@@ -81,3 +81,5 @@ bi) csontvelő donorok szervezése, kivizsgálása és nyilvántartása,
 bj) közreműködés a veleszületett vérzékenységben szenvedők kezelésében és gondozásában;
 
 c) a minőségbiztosítás körében a minőségbiztosítási vizsgálatok, módszertani levelek, technológiai leírások, szakmai szabályok szerinti folyamatos végzése.
+
+[^2]: Az 5. § (2) bekezdés i) pontja a 13/2012. (II. 14.) Korm. rendelet 23. §-ával megállapított szöveg.
