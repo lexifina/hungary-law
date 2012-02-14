@@ -1,3 +1,3 @@
-## 31. §[^18]
+32. §[^24]
 
-[^18]: A 31. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^24]: A 32. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

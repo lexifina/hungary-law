@@ -1,3 +1,3 @@
-## 41. §[^35]
+42. §[^41]
 
-[^35]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 42. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-6. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^43]
+6. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^48]
 
 ÁTADÁS-ÁTVÉTELI JEGYZŐKÖNYV
 
@@ -298,4 +298,4 @@ Szállítói tartozások és egyéb kötelezettségek
 
 | Hitelező neve | Tartozást megalapozó okirat kelte | Tartozás jogcíme | Tartozás összege | Tartozás lejárta | Tartozás rendezése érdekében tett intézkedések | Egyéb releváns információk |
 
-[^43]: A 6. mellékletet a 372/2011. (XII. 31.) Korm. rendelet 15. §-a iktatta be.
+[^48]: A 6. mellékletet a 372/2011. (XII. 31.) Korm. rendelet 15. §-a iktatta be.

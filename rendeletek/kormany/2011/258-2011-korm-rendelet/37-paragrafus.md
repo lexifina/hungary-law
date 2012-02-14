@@ -1,3 +1,3 @@
-## 36. §[^23]
+37. §[^29]
 
-[^23]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

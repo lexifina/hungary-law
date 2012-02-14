@@ -1,3 +1,3 @@
-## 29. §[^16]
+30. §[^22]
 
-[^16]: A 29. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^22]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
