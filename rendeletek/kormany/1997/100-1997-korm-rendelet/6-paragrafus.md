@@ -42,6 +42,8 @@ c) a szakközépiskolai helyi tanterv követelményeire vagy a szakmai tantárgy
 
 d) a fenntartó által készített tantervben lévő ismeretekre épülő
 
+vizsgatárgy.
+
 [^11]: A 6. §-t megelőző alcím a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének d) pontja szerint módosított szöveg.
 [^12]: A 6. § (1) bekezdése a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének c) pontja szerint módosított szöveg.
 [^13]: A 6. § (2) bekezdése a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének c) pontja, a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének e) pontja szerint módosított szöveg.

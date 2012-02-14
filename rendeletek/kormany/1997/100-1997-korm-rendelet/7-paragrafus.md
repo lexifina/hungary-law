@@ -1,5 +1,3 @@
-## vizsgatárgy.
-
 7. § (1)[^25] Az akkreditált vizsgatárgy középszintű vizsgatárgy lehet. Az akkreditált vizsgatárgy az akkreditált követelményekben meghatározottak alapján több vizsgarészből állhat.
 
 (2)[^26] A követelmények akkreditálása az Oktatási Hivatal (a továbbiakban: Hivatal) hatáskörébe tartozik.

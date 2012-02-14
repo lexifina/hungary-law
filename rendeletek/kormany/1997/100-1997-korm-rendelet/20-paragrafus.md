@@ -1,4 +1,4 @@
-20. §[^129] (1)[^130] Az írásbeli vizsgán részt vevő vizsgázókat vizsgacsoportba kell beosztani. Minden vizsgacsoportot vizsgatárgyanként egytől kiindulva, folyamatosan, arab számok alkalmazásával meg kell jelölni.
+20. §[^130] (1)[^131] Az írásbeli vizsgán részt vevő vizsgázókat vizsgacsoportba kell beosztani. Minden vizsgacsoportot vizsgatárgyanként egytől kiindulva, folyamatosan, arab számok alkalmazásával meg kell jelölni.
 
 (2) Az írásbeli vizsgát olyan épületrészben kell megszervezni, amelynek felügyelete megfelelő módon biztosítható. Az írásbeli vizsga időtartama alatt a vizsgázók részére elkülönített épületrészbe a vizsgázókon és a vizsgabizottság elnökén, a felügyelő tanárokon, valamint az írásbeli vizsga ellenőrzésére érkező hivatalos szervek képviselőin kívül csak az igazgató engedélyével lehet belépni. Gyakorlati vizsga és technikai berendezés igénybevételével készített írásbeli vizsga esetében az elkülönített épületrészben – amennyiben ez a vizsga biztonságos lebonyolításának érdekében szükséges – az igazgató engedélyével jelen lehet olyan személy, aki a technikai feltételek folyamatos biztosításáért felelős.
 
@@ -18,8 +18,8 @@ b) lehetővé kell tenni, hogy az iskolai tanulmányok során alkalmazott segéd
 
 c) engedélyezni kell, hogy az írásbeli vizsga helyett szóbeli beszámolót tegyen, vagy a szóbeli vizsgát írásban teljesítse,
 
-d)[^131] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része alól, amennyiben a középiskolában a megfelelő tantárgyból nem mentesítették az értékelés, minősítés egésze alól.
+d)[^132] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része alól, amennyiben a középiskolában a megfelelő tantárgyból nem mentesítették az értékelés, minősítés egésze alól.
 
-[^129]: A 20. § a 256/2005. (XII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^130]: A 20. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^131]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^130]: A 20. § a 256/2005. (XII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^131]: A 20. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^132]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.

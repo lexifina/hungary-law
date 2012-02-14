@@ -1,6 +1,6 @@
 ## Az érettségi vizsga iratai és záradékai
 
-## I.[^349] Nyomtatványok
+## I.[^350] Nyomtatványok
 
 ## 1. Érettségi bizonyítvány*
 
@@ -10,11 +10,11 @@
 
 ## 4. Jelentkezés érettségi vizsgára
 
-## 5.[^350]
+## 5.[^351]
 
 ## 6. Jegyzőkönyv az írásbeli, szóbeli vizsgáról és a vizsgabizottság üléseiről, illetve a tantárgyi vizsgabizottság üléseiről
 
-## 7.[^351] Tanúsítvány az érettségi vizsgáról*
+## 7.[^352] Tanúsítvány az érettségi vizsgáról*
 
 ## 8. Jelentés a vizsgaeredményekről
 
@@ -28,7 +28,7 @@
 
 ## A *-gal jelölt nyomtatványok gyártásához és forgalmazásához az Oktatási és Kulturális Minisztérium engedélye szükséges.
 
-## II*[^352]
+## II*[^353]
 
 ## Záradékok
 
@@ -66,7 +66,7 @@
 
 2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez
 
-ELSŐ RÉSZ[^353]
+ELSŐ RÉSZ[^354]
 
 AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
@@ -192,7 +192,7 @@ AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
 | 6. Művészettörténet | írásbeli | szóbeli | írásbeli | szóbeli |
 
-MÁSODIK RÉSZ[^354]
+MÁSODIK RÉSZ[^355]
 
 AZ ÉRETTSÉGI VIZSGATÁRGYAK ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -238,6 +238,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT ÉS EMELT SZINT
 
+3M057006_0
+
 | Témakörök/ képességek | Követelmények |
 
 | Szövegértés |
@@ -257,6 +259,8 @@ KÖZÉPSZINT ÉS EMELT SZINT
 | Fogalomismeret, fogalomhasználat | Nyelvi és irodalmi fogalmak beszédhelyzetnek, témának, megfelelő helyénvaló alkalmazása. Fogalmak értelmezése. |
 
 KÖZÉPSZINT
+
+3M057006_1
 
 | Témakörök | Követelmények |
 
@@ -307,6 +311,8 @@ KÖZÉPSZINT
 | 2.2.3. Korszakok, stílustörténet | A kifejezésmód és világlátás változása a különböző korszakokban a középkortól a szimbolizmusig. |
 
 EMELT SZINT
+
+3M057006_2
 
 | Témakörök | Követelmények |
 
@@ -406,6 +412,8 @@ Az emelt és középszinten a témakörök lényegében nem különböznek egym�
 
 KÖZÉPSZINT
 
+3M057006_3
+
 | Ismeretek és képességek | Követelmények |
 
 | 1. Írásbeli és szóbeli nyelvhasználat |
@@ -427,6 +435,8 @@ KÖZÉPSZINT
 | 4. Fogalomismeret, fogalomhasználat nyelvből és irodalomból | (nemzetiségenként, a részletes követelmények tartalmazzák) |
 
 EMELT SZINT
+
+3M057006_4
 
 | Ismeretek és képességek | Követelmények |
 
@@ -493,6 +503,8 @@ Az érettségi vizsga célja annak megállapítása, hogy a vizsgázó
 – önállóan tud-e reagálni különböző korszakok különböző műfajú szépirodalmi és köznapi szövegeinek következtetéseire
 
 Tartalmi követelmények
+
+3M057006_5
 
 | Kompetenciák | Követelmények | Követelmények |
 
@@ -578,6 +590,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+3M057006_6
+
 | Témakörök/ Kompetenciák | Követelmények |
 
 | 1. Kompetenciák |
@@ -619,6 +633,8 @@ KÖZÉPSZINT
 | A mai magyar társadalom és életmód | Alapvető állampolgári ismeretek. Etnikumok és nemzetiségek a magyar társadalomban. A magyarországi roma társadalom. A parlamenti demokrácia működése és az önkormányzatiság. Társadalmi, gazdasági és demográfiai változások. |
 
 EMELT SZINT
+
+3M057006_7
 
 | Témakörök/ Kompetenciák | Követelmények |
 
@@ -706,6 +722,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+3M057006_8
+
 | Témakör | Követelmények |
 
 | 1. Gondolkodási módszerek, halmazok, logika, kombinatorika, gráfok |
@@ -767,6 +785,8 @@ KÖZÉPSZINT
 | Valószínűség-számítás | Valószínűség fogalma. A valószínűség klasszikus kiszámítási módja. Visszatevéses mintavétel. |
 
 EMELT SZINT
+
+3M057006_9
 
 | Témakör | Követelmények |
 
@@ -848,6 +868,8 @@ Az emelt szintű vizsga célja annak megállapítása, hogy a vizsgázó képes-
 
 KÖZÉPSZINT
 
+8M00389M_0
+
 | Témakörök/ Kompetenciák | Követelmények |
 
 | 1. Kommunikatív készségek |
@@ -887,6 +909,8 @@ KÖZÉPSZINT
 | Tudomány és technika | Például: népszerű tudományok, ismeretterjesztés, a technikai eszközök szerepe a mindennapi életben. |
 
 EMELT SZINT
+
+8M00389M_1
 
 | Témakörök/ Kompetenciák | Követelmények |
 
@@ -990,6 +1014,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+8M00389M_2
+
 | Témakör | Követelmények |
 
 | 1. Mechanika |  |
@@ -1057,6 +1083,8 @@ KÖZÉPSZINT
 | Elméletek, felfedezések, találmányok | A geo- és heliocentrikus világkép összehasonlítása. Galilei munkásságának jelentősége: a kísérletezés szerepe. Newton munkásságának jelentősége: ,,az égi és földi mechanika egyesítése”, a newtoni fizika hatása. A távcső, a mikroszkóp, a gőzgép, az elektromotor, a generátor, a transzformátor, az elektron, belső égésű motor, a röntgensugárzás, a radioaktivitás, a félvezetők, az atomenergia felhasználásának felfedezése, illetve feltalálása és hatásuk – összekapcsolás a megfelelő nevekkel. A követelményekben szereplő ismeretek alapján megállapítható eltérések a klasszikus fizika és a kvantummechanika között. Az űrkutatás történetének legfontosabb állomásai. |
 
 EMELT SZINT
+
+8M00389M_3
 
 | Témakör | Követelmények |
 
@@ -1194,6 +1222,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+8M00389M_4
+
 | Témakör | Követelmények |
 
 | 1. Általános kémia |
@@ -1323,6 +1353,8 @@ KÖZÉPSZINT
 | Elektrokémia | A standardpotenciál és galvánelemek elektromotoros ereje közötti kapcsolat alkalmazása. |
 
 EMELT SZINT
+
+8M00389M_5
 
 |  | Témakör | Követelmények |
 
@@ -1492,6 +1524,8 @@ A középszintű követelmények a gyakorlathoz közelebb álló, kevésbé elvo
 
 KÖZÉPSZINT
 
+8M00389M_6
+
 | Témakör | Követelmények |
 
 | 1. Bevezetés a biológiába |
@@ -1609,6 +1643,8 @@ KÖZÉPSZINT
 | A bioszféra evolúciója | A fizikai és kémiai evolúció fogalma. Az emberszabású majmok és az ember vonásai. Az emberi faj egysége. |
 
 EMELT SZINT
+
+8M00389M_7
 
 | Témakör | Követelmények |
 
@@ -1758,6 +1794,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+8M00389M_8
+
 | Témakör | Követelmények |
 
 | 1. Térképi ismeretek |
@@ -1813,6 +1851,8 @@ KÖZÉPSZINT
 |  | A legfőbb globális problémák és azok kialakulásának természeti, társadalmi-gazdasági okai. Példák a globális környezeti gondok megoldási lehetőségeire. |
 
 EMELT SZINT
+
+8M00389M_9
 
 | Témakör | Követelmények |
 
@@ -1924,6 +1964,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+8M00389M_10
+
 | Kompetenciák/ Témakörök | Követelmények |
 
 | 1. Éneklés és zenetörténet |
@@ -1969,6 +2011,8 @@ KÖZÉPSZINT
 |  | Egy egyszólamú, hangnemben maradó, periódus terjedelmű dallam átírása betűkottából a vonalrendszerbe violinkulcsban, 2#–2b előjegyzési körben. |
 
 EMELT SZINT
+
+8M00389M_11
 
 | Kompetenciák/ Témakörök | Követelmények |
 
@@ -2058,6 +2102,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+8M00389M_12
+
 | Kompetenciák/ Témakörök | Követelmények |
 
 | 1. Alkotás |
@@ -2143,6 +2189,8 @@ KÖZÉPSZINT
 | Mű és környezete | A mű létrehozását meghatározó összefüggések ismerete. |
 
 EMELT SZINT
+
+8M00389M_13
 
 | Kompetenciák/ Témakörök | Követelmények |
 
@@ -2290,6 +2338,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+8M00389M_14
+
 | Témakör | Követelmények |
 
 | 1. Információs társadalom |
@@ -2369,6 +2419,8 @@ KÖZÉPSZINT
 | Információkeresés | Katalógusok, számítógépes információkeresés. |
 
 EMELT SZINT
+
+8M00389M_15
 
 | Témakörök | Követelmények |
 
@@ -2506,6 +2558,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+8M00389M_16
+
 | Kompetenciák/ Témakörök | Követelmények |
 
 | 1. Elméleti ismeretek |
@@ -2573,6 +2627,8 @@ KÖZÉPSZINT
 | Röplabda | Kosárérintés és alkarérintés fej fölé folyamatosan. Minimum szint: kosárérintésnél 5, alkarérintésnél 4 db érintés. Nyitás választott technikával. |
 
 EMELT SZINT
+
+8M00389M_17
 
 | Kompetenciák/ Témakörök | Követelmények |
 
@@ -2694,6 +2750,8 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
+8M00389M_18
+
 | Témakörök | Követelmények |
 
 | Filozófiai problémák |
@@ -2708,83 +2766,9 @@ KÖZÉPSZINT
 
 |  | Az itt felsorolt korszakok és irányzatok a fentebb említett nevek és/vagy problémák összefüggésében: Görög filozófia. Felvilágosodás. Életfilozófiák. |
 
-EMELT SZINT
-
-| Témakörök | Követelmények |
-
-| Filozófiai problémák |
-
-|  | A probléma lényegének megértése és korszakban, irányzatban, illetve gondolati rendszerben való elhelyezése konkrét filozófiai válaszok tükrében: Mi a filozófia? A létre vonatkozó kérdés. Megismerhetőség, igazság, bizonyosság. Test-lélek probléma. Az én problémája. Az idő filozófiai értelmezése. A végesség és a végtelenség. Az érték problémája: a jó és a szép. A szabadság kérdése. Erkölcsi univerzalizmus és relativizmus. A környezet- és bioetika problémái. Globalizáció és társadalom. Hit és tudás. |
-
-| Filozófusok alapvető gondolatainak ismerete |
-
-|  | Jellemző problémáik és válaszaik ismerete; szövegrészletek értelmezése. Kapcsolódásaik más filozófusokhoz, illetve filozófiákhoz. (Néhány reflexió ismerete.) Közülük 9 kötelező (Platón, Arisztotelész, Szent Ágoston, Szent Tamás, Descartes, Kant, Nietzsche, Heidegger, Wittgenstein) és minimum 4 kötelezően választható: Egy preszókratikus gondolkodó, Bacon, Spinoza, Locke, Berkeley, Hume, Rousseau, Hegel, Marx, Comte, J. S. Mill, Schopenhauer, Kierkegaard, Bergson, Husserl, Bécsi Kör, K. Popper, Kuhn, egy posztmodern (Derrida, Rorty, Levinas stb.), egy magyar filozófus (Apáczai, Palágyi, Hamvas, Polányi, Lukács, Bibó stb.) |
-
-| Korszakok, irányzatok |
-
-|  | Az itt felsorolt korszakok és irányzatok a fentebb említett nevek és/vagy problémák összefüggésében: Antik görög filozófia. Patrisztika. Skolasztika. Felvilágosodás (racionalizmus, empirizmus). Német idealizmus. Életfilozófiák. Pozitivizmus; Logikai pozitivizmus. Analitikus filozófia. Posztmodern. |
-
-HITTAN
-
-ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI
-
-(Világnézetileg elkötelezett iskolák részére)
-
-(Katolikus, református, evangélikus vallású tanulók számára)
-
-A vizsga formája
-
-Középszinten: szóbeli.
-
-Emelt szinten: írásbeli és szóbeli.
-
-A hittan érettségi vizsga célja
-
-A hittan oktatásnak kettős feladata van: egyrészt segít a tanulók hitének ébresztésében, elmélyítésében, az istenszeretet növekedésében, a fiatalok a keresztény/keresztyén életgyakorlatba történő bevezetésében, másrészt oda kell eljuttatnia a diákokat, hogy felfogják az isteni igazság teljességét.
-
-Az érettségi vizsgán mérhető és értékelhető a hitoktatás folyamán elsajátított ismeret a Szentháromság egy Istenről, az ő egyházáról, egyházának tanításáról és küldetéséről a világban.
-
-Nem lehet az érettségi vizsga célja a személyes hit számonkérése.
-
-A követelményekben
-
-– hangsúlyosan szerepelnek a képesség jellegű követelmények, valamint azok az elemzési szempontok és vallási ismeretek, amelyek segítségével a vizsgázó aktualizálni tudja felekezete tanításait, el tud igazodni korunk erkölcsi kérdéseiben,
-
-– nagy figyelmet kapnak a korszerű biblia és teológiai ismeretek, illetőleg azok a készségek és ismeretek, amelyek egyháza tanításának komplex és időszerű bemutatásához szükségesek,
-
-– fontos szerepet kapnak azok az ismeretek, amelyek egyháza jelenkori társadalmi, szociális és kulturális tevékenységét és azokat az erőfeszítéseket mutatják be, amelyeket egyháza az emberiség üdvösségének érdekében fejt ki.
-
-A vizsga célja annak megállapítása, hogy a vizsgázó
-
-– rendelkezik-e a keresztény/keresztyén élet és gondolkodásmód kialakításához szükséges alapfogalmakkal;
-
-– tudja-e használni az alapvető vallási terminológiákat, a vallási fogalmakat, a szakkifejezéseket, a szaknyelvet;
-
-– ki tudja-e fejezni ismereteit szóban és írásban;
-
-– elsajátította-e azokat a képességeket és ismereteket, amelyekkel felekezetének tanításait korszerűen be tudja mutatni;
-
-– jártas-e a bibliai szövegek olvasásában és értelmezésében;
-
-– látja-e a kapcsolatot a Biblia tanítása és mai életünk között: látja-e azokat az erkölcsi értékeket, amelyek pozitívan alakíthatják életünket és világunkat, valamint ismeri-e a kereszténység/keresztyénség alapvető válaszait a személyes és végső kérdésekre;
-
-– képes-e vallási ismereteit a dialógus és az ökumené szellemében mások számára közvetíteni;
-
-– birtokában van-e felekezetének, egyházának történetében az alapvető tényeknek (időpontok, személyek, események).
-
-A középszintű vizsga a jelöltektől az alapvető hittani ismereteket, kifejezőképességet, az ismeretek rendszerezési képességét, a hittani tudás alkalmazását, valamint az erkölcsi ítéletalkotás képességét várja el.
-
-Az emelt szintű vizsga elsősorban az egyházi felsőoktatásban tovább tanulni szándékozó vizsgázó képességeit és ismereteit vizsgálja. A középszintű követelményeket meghaladó komplex ismereteket, összetettebb teológiai kérdések világos előadását, korszerű bibliai és egzegetikai ismereteket, magasabb fokú gondolkodási műveleteket, önállóbb vélemény- és ítéletalkotási készségeket vár el.
-
-Az érettségi vizsga témaköreit és részletes követelményeit az egyes felekezetek tanterveik alapján fogalmazzák meg.
-
-Tartalmi követelmények
-
-KÖZÉPSZINT
-
-[^349]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
-[^350]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
-[^351]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^352]: Az 1. számú melléklet II. része a 6/2008. (I. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^353]: A 2. számú melléklet Első Része a 6/2008. (I. 22.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^354]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja szerint módosított szöveg.
+[^350]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
+[^351]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
+[^352]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^353]: Az 1. számú melléklet II. része a 6/2008. (I. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^354]: A 2. számú melléklet Első Része a 6/2008. (I. 22.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^355]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja szerint módosított szöveg.
