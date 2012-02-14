@@ -8,17 +8,17 @@
 
 (3) Egyedülállónak kell tekinteni továbbá,
 
-a)[^314]
+a)[^323]
 
 b) azokat a házastársakat, akik a vakok személyi járadékában részesülnek, vagy arra egyébként jogosultak,
 
 c) akinek a házastársa
 
-ca)[^315] munkaképtelen és az orvosszakértői szerv szakvéleménye, szakhatósági állásfoglalása szerint I. vagy II. csoportos rokkant,
+ca)[^324] munkaképtelen és az orvosszakértői szerv szakvéleménye, szakhatósági állásfoglalása szerint I. vagy II. csoportos rokkant,
 
 cb) előzetes letartóztatásban van, szabadságvesztés büntetését tölti.
 
 (4) A (3) bekezdés rendelkezéseit megfelelően alkalmazni kell az élettársakra is.
 
-[^314]: A Vhr. 27. §-a (3) bekezdésének a) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének g) pontja hatályon kívül helyezte.
-[^315]: A Vhr. 27. § (3) bekezdés c) pont ca) alpontja a 332/2010. (XII. 27.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^323]: A Vhr. 27. §-a (3) bekezdésének a) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^324]: A Vhr. 27. § (3) bekezdés c) pont ca) alpontja a 332/2010. (XII. 27.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.

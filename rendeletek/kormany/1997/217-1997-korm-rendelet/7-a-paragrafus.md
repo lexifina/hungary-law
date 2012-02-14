@@ -1,6 +1,6 @@
-## A gyógyászati ellátások árához, valamint a gyógyászati segédeszközök árához, javítási és kölcsönzési díjához nyújtott támogatás[^98]
+## A gyógyászati ellátások árához, valamint a gyógyászati segédeszközök árához, javítási és kölcsönzési díjához nyújtott támogatás[^102]
 
-7/A. §[^99] (1) A biztosított az Ebtv. 21. § (2) bekezdése alapján fekvőbeteg-gyógyintézeti (a továbbiakban: gyógyintézeti) kezelése alatt, vagy elbocsátása előtt akkor jogosult árhoz nyújtott támogatással gyógyászati segédeszközre, ha számára az eszköz használata a rehabilitációjához, betanításához, végleges ellátásához, ideiglenes protézissel történő ellátásához már a gyógyintézetben tartózkodása alatt indokolt és a gyógyászati segédeszköz alkalmazása vagy használata a fekvőbeteg-ellátás keretében nem finanszírozott. A gyógyászati segédeszközt a gyógyintézet orvosa rendeli, ha a felírói körre vagy a szakorvosi javaslat tételére meghatározott szakképesítés valamelyikének megfelelő szakvizsgával rendelkezik.
+7/A. §[^103] (1) A biztosított az Ebtv. 21. § (2) bekezdése alapján fekvőbeteg-gyógyintézeti (a továbbiakban: gyógyintézeti) kezelése alatt, vagy elbocsátása előtt akkor jogosult árhoz nyújtott támogatással gyógyászati segédeszközre, ha számára az eszköz használata a rehabilitációjához, betanításához, végleges ellátásához, ideiglenes protézissel történő ellátásához már a gyógyintézetben tartózkodása alatt indokolt és a gyógyászati segédeszköz alkalmazása vagy használata a fekvőbeteg-ellátás keretében nem finanszírozott. A gyógyászati segédeszközt a gyógyintézet orvosa rendeli, ha a felírói körre vagy a szakorvosi javaslat tételére meghatározott szakképesítés valamelyikének megfelelő szakvizsgával rendelkezik.
 
 (2) A biztosított az Ebtv. 21. § (2) bekezdése alapján akkor is jogosult a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben (a továbbiakban: R.) foglalt feltételek szerint támogatásban részesülő
 
@@ -28,5 +28,5 @@ bb) az eszköz valamely fizikai paraméterének fajlagos egységére meghatároz
 
 (5) Önálló rendeltetés szerinti fixcsoport állapítható meg adott rendeltetési csoportra.
 
-[^98]: A Vhr. 7/A. §-a előtti alcímet a 91/2004. (IV. 26.) Korm. rendelet 2. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 5. §-a állapította meg.
-[^99]: A Vhr. 7/A. §-át a 111/2000. (VI. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^102]: A Vhr. 7/A. §-a előtti alcímet a 91/2004. (IV. 26.) Korm. rendelet 2. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 5. §-a állapította meg.
+[^103]: A Vhr. 7/A. §-át a 111/2000. (VI. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
