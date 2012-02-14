@@ -1,6 +1,6 @@
 ## A működési engedély módosítása a minimumfeltételek változása miatt
 
-15. §[^44] (1) Amennyiben új vagy módosított szakmai minimumfeltételt előíró jogszabály kerül kihirdetésre, az egészségügyi szolgáltató – ha jogszabály eltérően nem rendelkezik – az új, vagy módosított jogszabály hatálybalépésétől számított két hónapon belül bejelenti a működési engedélyt kiadó egészségügyi államigazgatási szerv részére szolgáltatásainak az új vagy módosított minimumfeltételnek való megfelelését.
+15. §[^46] (1) Amennyiben új vagy módosított szakmai minimumfeltételt előíró jogszabály kerül kihirdetésre, az egészségügyi szolgáltató – ha jogszabály eltérően nem rendelkezik – az új, vagy módosított jogszabály hatálybalépésétől számított két hónapon belül bejelenti a működési engedélyt kiadó egészségügyi államigazgatási szerv részére szolgáltatásainak az új vagy módosított minimumfeltételnek való megfelelését.
 
 (2) Ha az (1) bekezdésben meghatározott határidő alatt az egészségügyi szolgáltató nem tesz bejelentést, az egészségügyi államigazgatási szerv – legfeljebb 30 napos határidő tűzésével – a közigazgatási hatósági eljárásról szóló törvény alapján felhívja a szolgáltatót a bejelentés pótlására. Amennyiben a szolgáltató a felhívásban foglalt határidőre sem teljesíti bejelentési kötelezettségét, az egészségügyi államigazgatási szerv a határidő elmulasztásától számított 90 napon belül az új vagy módosított szakmai minimumfeltételnek való megfelelés megvizsgálása érdekében ellenőrzést végez. Az ellenőrzés alapján az egészségügyi államigazgatási szerv szükség esetén a 16. § (2) bekezdésében meghatározott intézkedéseket foganatosítja. Az egészségügyi államigazgatási szerv a bejelentési kötelezettséget elmulasztó szolgáltatóval szemben a külön jogszabályban meghatározott egészségügyi bírságot szabhat ki, melynek során a helyszíni ellenőrzés költségének mint eljárási költségnek a megfizetésére is kötelezi az egészségügyi szolgáltatót.
 
@@ -8,4 +8,4 @@
 
 (4) A működési engedély 14. §, illetve e § szerinti módosításáról szóló határozatot közölni kell a 11. § (5) bekezdésében felsorolt szervekkel.
 
-[^44]: A 15. § a 325/2011. (XII. 28.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^46]: A 15. § a 325/2011. (XII. 28.) Korm. rendelet 41. §-ával megállapított szöveg.

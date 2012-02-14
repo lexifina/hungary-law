@@ -1,6 +1,6 @@
 ## A működési engedély
 
-11. §[^34] (1) Az egészségügyi államigazgatási szerv a működési engedélyt szakmára, illetve a szakmán belül egyes szolgáltatásokra adja ki. A kérelem és a helyszíni szemle megállapításai alapján, ha a kérelmező
+11. §[^35] (1) Az egészségügyi államigazgatási szerv a működési engedélyt szakmára, illetve a szakmán belül egyes szolgáltatásokra adja ki. A kérelem és a helyszíni szemle megállapításai alapján, ha a kérelmező
 
 a) maradéktalanul megfelel a 9. § szerinti követelményeknek, a működési engedélyt a kérelemben foglaltaknak megfelelően,
 
@@ -66,4 +66,4 @@ a működési engedély számának és jogerőre emelkedésének közlésével t
 
 (9) Közreműködő igénybe vétele esetén az egészségügyi államigazgatási szerv vizsgálja, hogy a közreműködő bevonása nem veszélyezteti-e az egészségügyi szolgáltatás folyamatosságát, biztonságát, színvonalát.
 
-[^34]: A 11. § a 325/2011. (XII. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^35]: A 11. § a 325/2011. (XII. 28.) Korm. rendelet 37. §-ával megállapított szöveg.

@@ -18,7 +18,7 @@
 
 ## Amennyiben az egészségügyi szolgáltatás nem orvosi vagy ápolási szakma végzésére irányul, a szakmai program tartalmi elemeit a szolgáltatás jellege szerinti értelemszerű alkalmazással kell elkészíteni.
 
-3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^69]
+3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^72]
 
 Fekvőbeteg-szakellátás
 
@@ -38,7 +38,7 @@ Járóbeteg-szakellátás
 
 | .......... (egészségügyi szolgáltató megnevezése) | ........... számú melléklet a ........... iktatószámú határozathoz |
 
-| telephely | szakrendelés megnevezése | szervezeti egység azonosítója | szakma neve | szakmakód | szakorvosi óra | nem szakorvosi óra | rendelési idő | ellátási forma | progresz- szivitási szint | szolgáltatási típus | engedély státusza | közreműködés ténye | ellátási körzet |
+| telephely | rendelés megnevezése | szervezeti egység azonosítója | szakma neve | szakmakód | szakorvosi óra | nem szakorvosi óra | rendelési idő | ellátási forma | progresz- szivitási szint | szolgáltatási típus | engedély státusza | közreműködés ténye | ellátási körzet |
 
 dátum
 
@@ -50,10 +50,10 @@ Alapellátás
 
 | .......... (egészségügyi szolgáltató megnevezése) | ........... számú melléklet a ........... iktatószámú határozathoz |
 
-| telephely | szakrendelés megnevezése | szervezeti egység azonosítója | szakma neve | szakmakód | rendelési idő | rendel- kezésre állási idő | ellátási forma | szolgáltatási típus | helyettesítés helye | helyettesítő neve, nyvt száma | ügyelet/ készenlét | engedély státusza | közremű- ködés ténye | ellátási körzet |
+| telephely | rendelés megnevezése | szervezeti egység azonosítója | szakma neve | szakmakód | rendelési idő | rendel- kezésre állási idő | ellátási forma | szolgáltatási típus | helyettesítés helye | helyettesítő neve, nyvt száma | ügyelet/ készenlét | engedély státusza | közremű- ködés ténye | ellátási körzet |
 
 dátum
 
 alaírás
 
-[^69]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be.
+[^72]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 22. §-a szerint módosított szöveg.
