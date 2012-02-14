@@ -1,0 +1,1 @@
+## „(4a) A (2) bekezdés a) és c) pontja szerinti egészségügyi szolgáltató közreműködőjének – a szolgáltató által nyújtott alapellátás kivételével – az Országos Tisztifőorvosi Hivatal adja ki a működési engedélyt.”

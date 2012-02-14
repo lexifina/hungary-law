@@ -1,0 +1,1 @@
+## „(9) Amennyiben nem áll rendelkezésre a Tv. 4–5/B. §-a, illetve 7. §-a alkalmazása során figyelembeveendő adat tekintetében térségi, illetve regionális adat, az országos adatokat kell figyelembe venni.”
