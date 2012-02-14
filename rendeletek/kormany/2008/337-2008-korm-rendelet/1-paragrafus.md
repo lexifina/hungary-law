@@ -20,7 +20,7 @@ i) a finanszírozási szerződés szerinti dialízis kezelőhelyek és kezelési
 
 j) a finanszírozási szerződés szerinti sürgősségi ellátási formához képest magasabb fix összegű díjazással járó sürgősségi ellátási forma,
 
-## amely a Tv. alapján lekötött kapacitásához képest a magasabb összegű elszámolás és teljesítménynövekedés finanszírozása miatt többletforrás-igénnyel jár.
+amely a Tv. alapján lekötött kapacitásához képest a magasabb összegű elszámolás és teljesítménynövekedés finanszírozása miatt többletforrás-igénnyel jár.
 
 (1a)[^9] Többletkapacitásnak minősül az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató által végzett, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatainak miniszteri rendeletben meghatározott finanszírozott szolgáltatási egysége.
 
@@ -34,15 +34,15 @@ j) a finanszírozási szerződés szerinti sürgősségi ellátási formához k�
 
 (4)[^14] Az adott egészségügyi szolgáltatónál már befogadott, külön jogszabály szerint finanszírozható CT, MRI berendezés cseréje nem minősül többletkapacitásnak.
 
-(5)[^15] Nem szakorvosi óraszám kapacitással
+(5)[^15] Járóbeteg-szakellátásban a heti rendelési óraszám kapacitáson belül a szakorvos által végzett egészségügyi szakellátási tevékenység időtartamát szakorvosi óraként, a nem szakorvosi végzettséggel rendelkező egészségügyi dolgozók által – a szakmai minimumfeltételekben foglaltak szerint – önállóan végzett egészségügyi szakellátási tevékenység időtartamát nem szakorvosi óraként szükséges nevesíteni az alábbi szakterületek tekintetében:
 
-a) felsőfokú (nem orvos) végzettségű személy által irányított járóbeteg-szakellátás,
+a) laboratóriumi, nukleáris, képalkotó és patológiai diagnosztika,
 
-b) szakirányú végzettséggel rendelkező szakasszisztens által irányított fizioterápia és önálló fogászati röntgen
+b) rehabilitációs medicina és szakmaspecifikus rehabilitáció,
 
-## nyújtható.
+c) fizioterápia, dietetika, pszichológia, pedagógiai végzettséggel ellátható egészségügyi szakmák.
 
-(6)[^16] Uniós támogatási forrásból megvalósuló pályázatok esetében általános röntgen-, illetve ultrahang-diagnosztika nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítását szakorvos végzi.
+(6)[^16] Uniós támogatási forrásból megvalósuló pályázatok esetében diagnosztikai vizsgálat nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítása, illetve a diagnózis felállítása szakorvos által telemedicina (távdiagnosztika) keretében valósul meg.
 
 (7)[^17] A Tv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térségek alatt a 4. számú melléklet szerinti térségeket kell érteni.
 
@@ -60,6 +60,6 @@ b) szakirányú végzettséggel rendelkező szakasszisztens által irányított 
 [^12]: Az 1. § (3) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be.
 [^13]: Az 1. § (3a) bekezdését a 227/2011. (X. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^14]: Az 1. § új (4) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva, szövege a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
-[^15]: Az 1. § (4) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése.
-[^16]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: Az 1. § (4) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése, szövege a 13/2012. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^17]: Az 1. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 58. § (2) bekezdése iktatta be.

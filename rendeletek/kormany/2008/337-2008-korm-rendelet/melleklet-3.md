@@ -1,193 +1,165 @@
-## A fekvőbeteg-szakellátásban finanszírozható szakmák köre
+## 1. belgyógyászat
 
-## Aktív fekvőbeteg szakellátás
+## 2. angiológia, phlebológia, lymphológia
 
-## általános belgyógyászat
+## 3. haematológia
 
-## angiológia, phlebológia, lymphológia
+## 4. haemopoetikus őssejt transzplantáció
 
-## haematológia
+## 5. endokrinológia, anyagcsere és diabetológia
 
-## csontvelő transzplantáció
+## 6. gasztroenterológia
 
-## endokrinológia, anyagcsere és diabetológia
+## 7. nefrológia
 
-## endokrinológia – *sze*
+## 8. geriátria
 
-## diabetológia – *sze*
+## 9. allergológia és klinikai immunológia
 
-## gasztroenterológia
+## 10. kardiológia
 
-## nefrológia
+## 11. invazív kardiológia
 
-## geriátria
+## 12. klinikai toxikológia
 
-## allergológia és klinikai immunológia
+## 13. sebészet
 
-## kardiológia (beleértve az invazív kardiológiát is)
+## 14. tüdő- és mellkassebészet
 
-## baleseti belgyógyászat
+## 15. érsebészet
 
-## általános sebészet
+## 16. idegsebészet
 
-## esztétikai (helyreállító) plasztikai sebészet
+## 17. szívsebészet
 
-## tüdő- és mellkassebészet
+## 18. csecsemő- és gyermekszívsebészet
 
-## érsebészet
+## 19. szerv-transzplantációs sebészet
 
-## idegsebészet – *sze*
+## 20. traumatológia
 
-## szívsebészet – *sze*
+## 21. helyreállító és esztétikai plasztikai sebészet
 
-## csecsemő- és gyermekszívsebészet – *sze*
+## 22. égéssebészet (felnőtt)
 
-## szerv-transzplantációs sebészet – *sze*
+## 23. gyermek helyreállító plasztikai és égéssebészet
 
-## általános traumatológia
+## 24. kézsebészet
 
-## plasztikai és égési sebészet
+## 25. arc-, állcsont-szájsebészet
 
-## kézsebészet
+## 26. szülészet-nőgyógyászat
 
-## arc- és állcsont-szájsebészet
+## 27. csecsemő- és gyermekgyógyászat
 
-## általános szülészet-nőgyógyászat
+## 28. neonatológia (ideértve: PIC)
 
-## in vitro fertilizáció (IVF) – *sze*
+## 29. csecsemő- és gyermekgyógyászati intenzív terápia
 
-## általános csecsemő- és gyermekgyógyászat
+## 30. csecsemő- és gyermekkardiológia
 
-## neonatológia
+## 31. gyermek-tüdőgyógyászat
 
-## PIC – *sze*
+## 32. gyermek-gasztroenterológia
 
-## csecsemő- és gyermekgyógyászati intenzívterápia
+## 33. gyermeksebészet
 
-## csecsemő- és gyermekkardiológia
+## 34. gyermeknőgyógyászat
 
-## gyermek-tüdőgyógyászat
+## 35. gyermekszemészet
 
-## gyermek-gasztroenterológia
+## 36. csecsemő és gyermek fül-, orr-, gégegyógyászat
 
-## gyermeksebészet – *sze*
+## 37. gyermekneurológia (ideértve: fejlődésneurológia)
 
-## gyermeknőgyógyászat – *sze*
+## 38. gyermek- és ifjúságpszichiátria
 
-## gyermekszemészet
+## 39. gyermek- és ifjúsági addiktológia
 
-## csecsemő és gyermek fül-, orr-, gégegyógyászat
+## 40. fül-orr-gégegyógyászat
 
-## gyermekneurológia
+## 41. szemészet
 
-## gyermek- és ifjúságpszichiátria
+## 42. bőrgyógyászat
 
-## gyermek- és ifjúsági addiktológia
+## 43. neurológia (ideértve: stroke ellátás)
 
-## fejlődésneurológia
+## 44. ortopédia
 
-## általános fül-orr-gégegyógyászat
+## 45. gerincsebészet
 
-## általános szemészet
+## 46. urológia
 
-## általános bőr- és nemibeteg-ellátás
+## 47. andrológia
 
-## általános neurológia
+## 48. klinikai onkológia
 
-## stroke ellátás
+## 49. sugárterápia
 
-## ortopédia
+## 50. dento-alveoláris sebészet
 
-## gerincsebészet
+## 51. általános anesztéziában végzett fogászati ellátás
 
-## urológia
+## 52. reumatológia
 
-## andrológia
+## 53. aneszteziológia és intenzív ellátás
 
-## klinikai onkológia
+## 54. infektológia
 
-## sugárterápia, onkoradiológia
+## 55. AIDS betegek ellátása
 
-## szájsebészet/dento-alveoláris sebészet
+## 56. trópusi betegségek ellátása
 
-## reumatológia és fizioterápia
+## 57. sürgősségi betegellátó egységben szervezett szakellátás
 
-## reumatológia
+## 58. pszichiátria
 
-## intenzív ellátás
+## 59. addiktológia
 
-## fertőzőbeteg-ellátás, infektológia
+## 60. tüdőgyógyászat
 
-## AIDS ellátás és gondozás – *sze*
+## 61. foglalkozás-egészségügy
 
-## trópusi betegségek ellátása
+## B) Krónikus fekvőbeteg-szakellátás
 
-## sürgősségi betegellátó egységben szervezett ellátás (SO1) – *sze*
+## 1. krónikus ellátási formában szakmai minimumfeltétellel rendelkező szakmák köre
 
-## sürgősségi betegellátó egységben szervezett ellátás (SO2) – *sze*
+## 2. addiktológiai rehabilitáció
 
-## sürgősségi betegellátó egységben szervezett ellátás (sürgősségi fogadóhely) – *sze*
+## 3. belgyógyászati rehabilitáció
 
-## pszichiátria
+## 4. gasztroenterológiai rehabilitáció
 
-## addiktológia
+## 5. gyermek rehabilitáció
 
-## tüdőgyógyászat
+## 6. gyermek- és ifjúságpszichiátriai rehabilitáció
 
-## pulmonológiai allergológia és immunológia
+## 7. gyermek- és ifjúsági addiktológiai rehabilitáció
 
-## Krónikus fekvőbeteg szakellátás
+## 8. kardiológiai rehabilitáció
 
-## krónikus belgyógyászat
+## 9. mozgásszervi rehabilitáció
 
-## krónikus tüdőgyógyászat
+## 10. súlyos agysérültek rehabilitációja
 
-## krónikus pszichiátria
+## 11. gerincsérültek rehabilitációja
 
-## addiktológiai rehabilitáció
+## 12. politraumatizáltak, égésbetegek és szeptikus sebészeti betegek rehabilitációja
 
-## alkohológiai rehabilitáció
+## 13. súlyos központi idegrendszeri sérültek, politraumatizáltak és égésbetegek rehabilitációja gyermekkorban
 
-## belgyógyászati rehabilitáció
+## 14. nőgyógyászati rehabilitáció
 
-## drogrehabilitáció
+## 15. neurológiai rehabilitáció
 
-## gasztroenterológiai rehabilitáció
+## 16. pszichiátriai rehabilitáció
 
-## gyermek rehabilitáció
+## 17. tüdőgyógyászati és légzésrehabilitáció
 
-## gyermek- és ifjúságpszichiátriai rehabilitáció
+## 18. kórházi szakápolás
 
-## gyermek- és ifjúsági addiktológiai rehabilitáció
+## 19. hospice
 
-## kardiológiai rehabilitáció
+3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^174]
 
-## mozgásszervi rehabilitáció
-
-## súlyos agysérültek rehabilitációja
-
-## gerincvelősérültek rehabilitációja
-
-## politraumatizáltak, égésbetegek és szeptikus sebészeti betegek rehabilitációja
-
-## súlyos központi idegrendszeri sérültek, politraumatizáltak és égésbetegek rehabilitációja gyermekkorban
-
-## nőgyógyászati rehabilitáció
-
-## neurológiai rehabilitáció
-
-## pszichiátriai rehabilitáció
-
-## pulmonológiai és légzésrehabilitáció
-
-## kórházi szakápolás
-
-## intézeti hospice
-
-## _______
-
-## *sze*: külön jogszabály szerinti szakosodott egység.
-
-3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^159]
-
-[^159]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege e módosító rendelet 14. § (6) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^174]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege e módosító rendelet 14. § (6) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
