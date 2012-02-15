@@ -1,1 +1,3 @@
-## „(9) Amennyiben nem áll rendelkezésre a Tv. 4–5/B. §-a, illetve 7. §-a alkalmazása során figyelembeveendő adat tekintetében térségi, illetve regionális adat, az országos adatokat kell figyelembe venni.”
+4. §[^4]
+
+[^4]: Az 1–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

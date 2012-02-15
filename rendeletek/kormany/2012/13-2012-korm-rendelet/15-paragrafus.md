@@ -1,3 +1,3 @@
-15. §[^2]
+15. §[^15]
 
-[^2]: A 14–15. § a 26. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
+[^15]: A 14–15. § a 26. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.

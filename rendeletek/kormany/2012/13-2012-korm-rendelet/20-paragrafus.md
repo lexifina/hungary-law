@@ -1,1 +1,3 @@
-## „(4a) A (2) bekezdés a) és c) pontja szerinti egészségügyi szolgáltató közreműködőjének – a szolgáltató által nyújtott alapellátás kivételével – az Országos Tisztifőorvosi Hivatal adja ki a működési engedélyt.”
+20. §[^20]
+
+[^20]: A 16–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

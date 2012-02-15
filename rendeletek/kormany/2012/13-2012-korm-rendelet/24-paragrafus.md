@@ -1,5 +1,3 @@
-## 23. § Az Országos Vérellátó Szolgálatról szóló 323/2006. (XII. 23.) Korm. rendelet 5. § (2) bekezdés i) pontja helyébe a következő rendelkezés lép:
+24. §[^24]
 
-## (Az OVSzK)
-
-## „i) szervdonáció és szervdonációhoz kapcsolódó szövetdonáció szervezésével összefüggő koordinációs tevékenységet végez.”
+[^24]: A 16–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

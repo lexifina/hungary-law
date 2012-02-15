@@ -1,1 +1,3 @@
-## „(10) A 18. és 19. § szerinti eljárás során a Vhr. 4. §-át, 4/A. §-át, valamint 5/A. § (1)–(3) és (5)–(5c) bekezdését alkalmazni kell. A progresszivitási szintek tekintetében a felosztási javaslatban, illetve a 19. § szerinti eljárás során az érvényes működési engedélyben foglaltaktól a Vhr. 4. § (6) bekezdés j) pontjában foglaltak figyelembevételével el lehet térni.”
+18. §[^18]
+
+[^18]: A 16–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

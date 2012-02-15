@@ -1,1 +1,3 @@
-## 21. § Hatályát veszti az Mr. 13. § (7) bekezdése.
+22. §[^22]
+
+[^22]: A 16–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

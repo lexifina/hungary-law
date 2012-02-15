@@ -1,1 +1,3 @@
-## 22. § Az Mr. 3. mellékletében foglalt, Alapellátás címszó alatti táblázatban a „szakrendelés megnevezése” szövegrész helyébe a „rendelés megnevezése” szöveg lép.
+23. §[^23]
+
+[^23]: A 16–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

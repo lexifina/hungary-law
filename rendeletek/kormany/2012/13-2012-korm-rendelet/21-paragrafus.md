@@ -1,3 +1,3 @@
-## 20. § Az Mr. 25. §-a a következő (5) bekezdéssel egészül ki:
+21. §[^21]
 
-## „(5) Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel megállapított és az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 13/2012. (II. 14.) Korm. rendelettel módosított 3. mellékletben foglaltakat a 2012. április 1-jét követően indult eljárásokban kell alkalmazni.”
+[^21]: A 16–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
