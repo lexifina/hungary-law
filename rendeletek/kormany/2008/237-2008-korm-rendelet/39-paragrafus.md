@@ -6,7 +6,7 @@
 
 39. § (1) Minden Pályázati Alap esetében az NKE egy Pályázati Alap Megállapodást készít, a SFEÜ által benyújtott minta alapján.
 
-(2) A Pályázati Alap megállapodást az NKE, a SFEÜ, a KSz és a kiválasztott Pályázati Alap TKSz írják alá.
+(2)[^105] A Pályázati Alap megállapodást az NKE, a SFEÜ, és a kiválasztott Pályázati Alap TKSz írják alá.
 
 (3) A Pályázati Alap Megállapodásnak a Keretmegállapodásban rögzítettek szerint, tartalmaznia kell legalább a következőket:
 
@@ -31,3 +31,5 @@ i) a monitoring és az irányítás rendjét,
 j) a jelentéstételi kötelezettség rendjét,
 
 k) a nyilvánosságra vonatkozó intézkedéseket.
+
+[^105]: A 39. § (2) bekezdése a 11/2012. (II. 14.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.

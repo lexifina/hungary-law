@@ -14,4 +14,8 @@ e) a Pályázati Alapok végrehajtásának előrehaladásáról szóló jelenté
 
 f) elvégzi a pénzügyi ellenőrzést, valamint biztosítja a pénzügyi ellenőrzés ajánlásainak nyomon követését,
 
-g) információkat nyújt a Pályázati Alapokkal kapcsolatban a Hozzájárulásról szóló információs kampány részeként.
+g) információkat nyújt a Pályázati Alapokkal kapcsolatban a Hozzájárulásról szóló információs kampány részeként,
+
+h)[^113] biztosítja a Pályázati Alapok létrehozását, beleértve a pályázati felhívás meghirdetését, a TKSz előzetes kiválasztását.
+
+[^113]: A 46. § h) pontját a 11/2012. (II. 14.) Korm. rendelet 18. §-a iktatta be.

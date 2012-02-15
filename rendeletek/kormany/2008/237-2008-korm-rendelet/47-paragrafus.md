@@ -1,15 +1,33 @@
-## 47. § A Pályázati Alap TKSz a következő feladatokat látja el:
+## 47. §[^114] A TKSz a következő feladatokat látja el:
 
 a) teljes körűen irányítja a Pályázati Alapot,
 
-b) létrehozza a kis projekt irányító-, és elfogadó bizottságokat és ellátja a titkársági teendőket,
+b) létrehozza a Kisprojekt Elfogadó Bizottságot és ellátja a titkársági teendőket,
 
-c) a kis projektekre elkészíti a pályázati felhívásokat, a beérkezett projekttervezeteket rendszerezi, a projekttervezet követelményeinek való megfelelést ellenőrzi, és kiválasztási javaslatot tesz,
+c) a Kisprojektekre elkészíti a pályázati felhívásokat, a beérkezett projekttervezeteket rendszerezi, a projekttervezet követelményeinek való megfelelést ellenőrzi, pontozás útján értékel és rangsorol, valamint döntési javaslatot tesz,
 
-d) létrehozza a kis projekteket végrehajtó szervezetekkel történő szerződéskötési megegyezéseket,
+d) előkészíti és megköti a nyertes pályázókkal a Kisprojekt Végrehajtási Megállapodásokat,
 
-e) alkalmazza az ellenőrzési rendszereket, és szükség szerint beavatkozik, az esetleges szabálytalanságokkal kapcsolatosan azonnal értesíti a KSz-en keresztül az NKE-t,
+e) létrehoz egy, a Kisprojektek végrehajtását működési és pénzügyi szempontból ellenőrző rendszert,
 
-f) rendszeresen jelentést tesz a KSz-en keresztül NKE részére, amely a szakmai előrehaladási jelentést és a pénzügyi jelentéseket tartalmazza,
+f) működteti az ellenőrzési mechanizmust, az esetleges szabálytalansági gyanút kivizsgálja és erről haladéktalanul, de legkésőbb 5 napon belül értesíti az NKE-t és a KSz-t,
 
-g) információt ad a KSz-en keresztül az NKE részére a Pályázati Alap végrehajtásával kapcsolatban.
+g) felügyeli és irányítja a Kisprojektek végrehajtását a Kisprojekt Végrehajtási Megállapodással összhangban és elvégzi a szükséges ellenőrzéseket,
+
+h) rendszeresen jelentést tesz a KSz részére, amely a szakmai előrehaladási jelentést és a pénzügyi jelentéseket tartalmazza,
+
+i) kezeli a Pályázati Alap menedzsment költségeit,
+
+j) befogadja és értékeli a Kisprojekt Végrehajtók által benyújtott időközi és végső projekt végrehajtási jelentéseket,
+
+k) ellenőrzi a Kisprojekt Végrehajtóktól beérkező számlák, dokumentumok pontosságát és hitelességét, és a kifizetési kérelmekben szereplő költségek elszámolhatóságát,
+
+l) benyújtja az KSz-nek a Pályázati Alap végrehajtásának előrehaladásáról szóló jelentéssel alátámasztott kifizetési kérelmeket,
+
+m) teljesíti a kifizetéseket a Kisprojektek Végrehajtói felé,
+
+n) létrehozza a pénzügyi és beszámolási rendszert,
+
+o) kialakítja a helyszíni szemle és a monitoring látogatások eljárásrendjét.
+
+[^114]: A 47. § a 11/2012. (II. 14.) Korm. rendelet 19. §-ával megállapított szöveg.

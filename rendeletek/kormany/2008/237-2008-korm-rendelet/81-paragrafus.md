@@ -1,4 +1,4 @@
-## 80. §[^105] Szabálytalanság a Svájci–Magyar Együttműködési Programra vonatkozó szabályok, a közösségi jog, a magyar jog, illetve a Projekt Megállapodásban és a Végrehajtási Megállapodásban foglaltak megsértése, amely eredményeképpen a Svájci Államszövetség vagy Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek.
+## 80. §[^175] Szabálytalanság a Svájci–Magyar Együttműködési Programra vonatkozó szabályok, a közösségi jog, a magyar jog, illetve a Projekt Megállapodásban és a Végrehajtási Megállapodásban foglaltak megsértése, amely eredményeképpen a Svájci Államszövetség vagy Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek.
 
 81. § (1) Az NKE vezetője a projektek lebonyolítása során számára bejelentett szabálytalansági gyanú esetén
 
@@ -10,10 +10,10 @@ c) a szabálytalanság-vizsgálati jegyzőkönyv alapján dönt a szabálytalans
 
 d) szükség esetén kezdeményezi a szankciók foganatosítását.
 
-(2) Az NKE a kivizsgált szabálytalansági gyanúról
+(2)[^176] Az NKE a szabálytalansági gyanúról tájékoztatja az érintett magyar intézményeket.
 
-a) tájékoztatja az érintett magyar intézményeket,
+(3)[^177] Az NKE a kivizsgált szabálytalanságról tájékoztatja az érintett magyar intézményeket és a svájci hatóságot a Svájci–Magyar Együttműködési Programra vonatkozó szabályok szerint.
 
-b) tájékoztatja a svájci hatóságot a Svájci–Magyar Együttműködési Programra vonatkozó szabályok szerint.
-
-[^105]: A 80. § a 304/2011. (XII. 23.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^175]: A 80. § a 304/2011. (XII. 23.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^176]: A 81. § (2) bekezdése a 11/2012. (II. 14.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^177]: A 81. § (3) bekezdését a 11/2012. (II. 14.) Korm. rendelet 32. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 116. §[^170] Ez a rendelet
+## 116. §[^242] Ez a rendelet
 
 a) az EK Szerződés 87. és 88 cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (HL L 214/3., 2008.08.09. 3–47. o.),
 
@@ -10,7 +10,7 @@ d) a vasúti és a közúti személyszállítási közszolgáltatásról, valami
 
 hatálya alá tartozó támogatást tartalmaz.
 
-Melléklet a 237/2008. (IX. 26.) Korm. rendelethez[^171]
+Melléklet a 237/2008. (IX. 26.) Korm. rendelethez[^243]
 
-[^170]: A 116. § a 95/2010. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^171]: A mellékletet a 95/2010. (III. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^242]: A 116. § a 95/2010. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^243]: A mellékletet a 95/2010. (III. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.

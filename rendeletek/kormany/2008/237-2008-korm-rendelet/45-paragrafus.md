@@ -1,1 +1,3 @@
-## 44. § A Pályázati Alap TKSz a KSz-nek a pályázók értesítését megelőzően megküldi a pályázatok értékeléséről készített teljes dokumentációt, a nyertes pályázatok listáját, valamint a Végrehajtási Megállapodások tervezetét. A Végrehajtási Megállapodásokat a Pályázati Alap TKSz a nyertes kedvezményezettekkel csak azt követően kötheti meg, hogy a KSz a Végrehajtási Megállapodások tervezetét jóváhagyta.
+## 44. §[^112]
+
+[^112]: A 44. §-t a 11/2012. (II. 14.) 36. § b) pontja hatályon kívül helyezte.

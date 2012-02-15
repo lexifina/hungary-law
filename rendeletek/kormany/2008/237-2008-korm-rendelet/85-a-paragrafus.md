@@ -1,3 +1,3 @@
-## Szabálytalanságok kezelése kockázati tőke támogatás nyújtása esetén[^107]
+## Szabálytalanságok kezelése kockázati tőke támogatás nyújtása esetén[^179]
 
-[^107]: A 85/A. §-t megelőző alcímet a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.
+[^179]: A 85/A. §-t megelőző alcímet a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.

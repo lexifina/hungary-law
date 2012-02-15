@@ -1,5 +1,5 @@
-## 41. § A Pályázati Alap TKSz a Pályázati Alap keretében rendelkezésére álló összeg kedvezményezettjeit nyílt pályáztatási eljárással választja ki. A Pályázati Alap TKSz által lebonyolított pályáztatási eljárást a KSz felügyeli.
+42. §[^110] (1) A Kisprojekt Végrehajtók kiválasztásának eljárásrendjét és a pályázati dokumentációt a pályázat közzétételét megelőzően a KSz szabályossági és minőségbiztosítási szempontból véleményezi és jóváhagyásra beterjeszti a Kisprojekt Irányító Bizottság részére.
 
-42. § (1) A kedvezményezettek kiválasztásának eljárásrendjét és a pályázati dokumentációt a KSz a pályázat közzétételét megelőzően jóváhagyja.
+(2) A TKSz biztosítja, hogy a KSz a Kisprojekt Elfogadó Bizottságba megfigyelőt delegálhasson. A KSz megfigyelője a bírálatról jelentést készít a KSz vezetője számára, a jelentést egyidejűleg a TKSz részére is eljuttatja. Ha a KSz megfigyelője eljárásrendi szabálytalanságot észlel, ezt jelentésében jelzi a KSz vezetőjének, aki ezt jelzi a Kisprojekt Elfogadó Bizottság elnökének.
 
-(2) A Pályázati Alap TKSz biztosítja, hogy a KSz a pályázati bíráló bizottságba megfigyelőt delegálhasson. A KSz megfigyelője a bírálatról jelentést készít a KSz vezetője számára, a jelentést egyidejűleg a Pályázati Alap TKSz-nek is eljuttatja. Amennyiben a KSz megfigyelője eljárásrendi szabálytalanságot észlel, ezt jelentésében jelzi a KSz vezetőjének és a pályázati bíráló bizottság elnökének.
+[^110]: A 42. § a 11/2012. (II. 14.) Korm. rendelet 17. §-ával megállapított szöveg.

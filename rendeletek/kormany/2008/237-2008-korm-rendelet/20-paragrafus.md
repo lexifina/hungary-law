@@ -2,4 +2,6 @@
 
 (2) A Végrehajtási Megállapodást egyrészről a KSz arra jogosult vezetője, másrészről a Projekt Végrehajtó írja alá.
 
-(3) A KSz megküldi a Projekt Megállapodás és a Végrehajtási Megállapodás másolatait az NKE-n keresztül a Kifizető Hatóság részére.
+(3)[^60] A KSz megküldi a Végrehajtási Megállapodás egy eredeti példányát az NKE és egy másolati példányát a Kifizető Hatóság részére.
+
+[^60]: A 20. § (3) bekezdése a 11/2012. (II. 14.) Korm. rendelet 5. §-ával megállapított szöveg.

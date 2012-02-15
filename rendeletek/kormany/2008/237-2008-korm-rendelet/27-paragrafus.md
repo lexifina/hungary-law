@@ -14,7 +14,7 @@ b) a 21. § (4) bekezdése szerint továbbítja a KSz által előzetesen ellenő
 
 c) jóváhagyja a projekt előrehaladásáról szóló jelentéseket,
 
-d)[^43] megszervezi és vezeti a projekt szintű monitoring bizottsági üléseket, ha a Projekt Megállapodás arról rendelkezik,
+d)[^65] megszervezi és vezeti az értékelő monitoring bizottsági üléseket,
 
 e) véglegesíti a programszintű éves jelentést és benyújtja svájci hatóság részére,
 
@@ -26,47 +26,53 @@ h) ellátja a Svájci–Magyar Együttműködési Programra vonatkozóan a nyilv
 
 i) külön előírások szerint monitoring rendszert működtet.
 
-(3)[^44] Az NKE pénzügyi lebonyolításhoz kapcsolódó feladatai tekintetében
+(3)[^66] Az NKE pénzügyi lebonyolításhoz kapcsolódó feladatai tekintetében
 
 a) elkülönített folyószámlát (a továbbiakban: programszámla) nyit a Magyar Államkincstárban (a továbbiakban: Kincstár) a svájci hatóság által átutalt támogatások fogadására és visszafizetésére,
 
 b) intézkedik a svájci hatóság által átutalt támogatások fejezeti kezelésű előirányzat-felhasználási keretszámlára (a továbbiakban: EFK) történő továbbutalásáról,
 
-c)[^45] biztosítja a kifizetendő támogatás összegének rendelkezésre állását a lebonyolítási forint fizetési számlán, annak érdekében, hogy a Projekt Végrehajtó, illetőleg partnere jóváhagyott kifizetési igénylése alapján a támogatás összege, illetve a folyósítandó előleg átutalásra kerülhessen,
+c)[^67] biztosítja a kifizetendő támogatás összegének rendelkezésre állását a lebonyolítási forint fizetési számlán, annak érdekében, hogy a Projekt Végrehajtó, valamint a TKSz jóváhagyott kifizetési igénylése alapján a támogatás összege, illetve a folyósítandó előleg átutalásra kerülhessen,
 
 d) hitelesíti a KSz által benyújtott elszámolásokat, és továbbítja azokat a svájci hatóság felé,
 
-e) ellenőrzi a pénzügyi lebonyolítás menetét.
+e) ellenőrzi a pénzügyi lebonyolítás menetét,
+
+f)[^68] a Pályázati Alap esetén hitelesíti a TKSz által a Kisprojekt Végrehajtóknak kiutalt támogatás felhasználását,
+
+g)[^69] a Testvértelepülés és Partnerségi Pályázati Alap esetén ellátja a KSz feladatait.
 
 (4) A KSz
 
 a) előkészíti a Végrehajtási Megállapodásokat, valamint a Projekt Előkészítési Megállapodásokat,
 
-b) a Projekt Végrehajtóval megköti a Végrehajtási Megállapodást, valamint megítélt projekt előkészítési támogatás esetén a Projekt Előkészítési Megállapodást,
+b)[^70] a Projekt Végrehajtóval és a TKSz-szel megköti a Végrehajtási Megállapodást, valamint megítélt projekt előkészítési támogatás esetén a Projekt Előkészítési Megállapodást,
 
 c) a 21–24. §-okkal összhangban közreműködik a Végrehajtási Megállapodás, illetve a Projekt Megállapodás módosításában,
 
 d) figyelemmel kíséri a végrehajtás menetét,
 
-e) tájékoztatást nyújt a Projekt Végrehajtónak a projektek lebonyolítására vonatkozó szabályokról,
+e)[^71] tájékoztatást nyújt a Projekt Végrehajtónak és a TKSz-nek a projektek lebonyolítására vonatkozó szabályokról,
 
 f) pénzügyi szempontból ellenőrzi az Időközi jelentéseket és a Projektzáró jelentést, továbbá nyomon követi e jelentéseken keresztül a projektek megvalósításához kapcsolódó mérföldkövekkel összhangban azok előrehaladását,
 
-g)[^46] beszámol a végrehajtás előrehaladásáról az éves megbeszélésen,
+g)[^72] beszámol a végrehajtás előrehaladásáról az éves megbeszélésen,
 
-h)[^47] tekintettel arra, hogy a közbeszerzési eljárások lebonyolítását a Projekt Végrehajtó végzi el, a KSz a közbeszerzési eljárás megindítása előtt, majd az eredményhirdetést megelőzően ellenőrzi a közbeszerzési dokumentumokat a közbeszerzésekre vonatkozó jogszabályoknak való megfelelés és a műszaki minőségbiztosítás szempontjából,
+h)[^73] – tekintettel arra, hogy a közbeszerzési eljárások lebonyolítását a Projekt Végrehajtó, illetve a TKSz végzi el – a közbeszerzési eljárás megindítása előtt, majd az eredményhirdetést megelőzően ellenőrzi a közbeszerzési dokumentumokat a közbeszerzésekre vonatkozó jogszabályoknak való megfelelés és a műszaki minőségbiztosítás szempontjából,
 
-i)[^48] megfigyelőként jelen lehet a közbeszerzési ajánlatok bontása és bírálata során,
+i)[^74] megfigyelőként jelen lehet a közbeszerzési ajánlatok bontása és bírálata során,
 
-j)[^49] a Pályázati Alap esetén a pályázat közzétételét megelőzően ellenőrzi a pályázati dokumentációt, megfigyelőként jelen lehet a pályázatok értékelése során,
+j)[^75] a Pályázati Alap esetén igazolja a TKSz menedzsment költségének felhasználását, valamint 5%-os mintavételes ellenőrzést végez a Kisprojektek lebonyolítására vonatkozóan,
 
-k)[^50] a projekt végrehajtásáról rendszeresen jelent az NKE részére,
+k)[^76] a projekt végrehajtásáról rendszeresen jelent az NKE részére,
 
-l)[^51] adatot szolgáltat a programszintű Éves Jelentéshez,
+l)[^77] adatot szolgáltat a programszintű Éves Jelentéshez,
 
-m)[^52] kifizeti a Projekt Végrehajtóknak, illetőleg a partnereknek az előlegeket, valamint a támogatások összegét a projektekre benyújtott elszámolások alapján, továbbá a megítélt projekt előkészítési támogatást,
+m)[^78] a Pályázati Alap kivételével kifizeti a Projekt Végrehajtóknak az előleg, valamint a támogatás összegét a projektekre benyújtott elszámolások alapján, továbbá a megítélt projekt előkészítési támogatást,
 
-n)[^53] eljárásrendjének megfelelő mértékben ellenőrzi a kifizetési kérelmeket, majd összeállítja a közös eljárásrend szerinti dokumentumokat.
+n)[^79] eljárásrendjének megfelelő mértékben ellenőrzi a kifizetési kérelmeket, majd összeállítja a közös eljárásrend szerinti dokumentumokat,
+
+o)[^80] a Pályázati Alap esetén kifizeti a TKSz részére az előleget, a támogatás összegét, valamint a TKSz menedzsment költségét.
 
 (5) A TKSz további pályáztatással szétosztja a Pályázati Alap és Ösztöndíjalap esetén a Pályázati Alap és Ösztöndíjalap keretében rendelkezésre álló támogatást.
 
@@ -80,20 +86,25 @@ c) nyilvántartást vezet a svájci hatóságnak benyújtott visszatérítési k
 
 d) a pénzforgalomról szóló időszakos jelentést ellenőrzi és megküldi az NKE részére,
 
-e)[^54] a megfelelő pénzügyi ellenőrzések biztosítása érdekében a támogatások lebonyolításában érintett szervezeteknél helyszíni vizsgálatot végezhet.
+e)[^81] a megfelelő pénzügyi ellenőrzések biztosítása érdekében a támogatások lebonyolításában érintett szervezeteknél helyszíni vizsgálatot végezhet.
 
-(7)[^55] Kockázati tőke támogatás nyújtása esetén a KSz hatáskörébe tartozó feladatokkal kapcsolatosan a (4) bekezdés a) pontját, valamint a 19. § (3) bekezdését és a 61. § (2) bekezdését nem kell alkalmazni.
+(7)[^82] Kockázati tőke támogatás nyújtása esetén a KSz hatáskörébe tartozó feladatokkal kapcsolatosan a (4) bekezdés a) pontját, valamint a 19. § (3) bekezdését és a 61. § (2) bekezdését nem kell alkalmazni.
 
-[^43]: A 27. § (2) bekezdés d) pontja a 33/2011. (III. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^44]: A 27. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^45]: A 27. § (3) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 58. §-a szerint módosított szöveg.
-[^46]: A 27. § (4) bekezdésének g) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^47]: A 27. § (4) bekezdésének h) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^48]: A 27. § (4) bekezdésének i) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^49]: A 27. § (4) bekezdésének j) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^50]: A 27. § (4) bekezdésének k) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^51]: A 27. § (4) bekezdésének l) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^52]: A 27. § (4) bekezdésének m) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^53]: A 27. § (4) bekezdésének n) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^54]: A 27. § (6) bekezdésének e) pontját a 226/2009. (X. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^55]: A 27. § (7) bekezdését a 33/2011. (III. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^65]: A 27. § (2) bekezdés d) pontja a 11/2012. (II. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^66]: A 27. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^67]: A 27. § (3) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 58. §-a, a 11/2012. (II. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^68]: A 27. § (3) bekezdés f) pontját a 11/2012. (II. 14.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^69]: A 27. § (3) bekezdés g) pontját a 11/2012. (II. 14.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^70]: A 27. § (4) bekezdés b) pontja a 11/2012. (II. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^71]: A 27. § (4) bekezdés e) pontja a 11/2012. (II. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^72]: A 27. § (4) bekezdésének g) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^73]: A 27. § (4) bekezdés h) pontja a 11/2012. (II. 14.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^74]: A 27. § (4) bekezdésének i) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^75]: A 27. § (4) bekezdés j) pontja a 11/2012. (II. 14.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^76]: A 27. § (4) bekezdésének k) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^77]: A 27. § (4) bekezdésének l) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^78]: A 27. § (4) bekezdés m) pontja a 11/2012. (II. 14.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^79]: A 27. § (4) bekezdésének n) pontja a 226/2009. (X. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^80]: A 27. § (4) bekezdés o) pontját a 11/2012. (II. 14.) Korm. rendelet 7. § (6) bekezdése iktatta be.
+[^81]: A 27. § (6) bekezdésének e) pontját a 226/2009. (X. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^82]: A 27. § (7) bekezdését a 33/2011. (III. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be.
