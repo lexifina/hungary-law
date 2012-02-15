@@ -1,3 +1,3 @@
-## 6. § Az R. a következő 9/A. §-sal egészül ki:
+7. §[^7]
 
-## „9/A. § A 3. számú melléklet tartalmazza a fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivitási szinteket.”
+[^7]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

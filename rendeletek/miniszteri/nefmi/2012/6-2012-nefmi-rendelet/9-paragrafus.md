@@ -1,3 +1,3 @@
-9. §[^7]
+9. §[^11]
 
-[^7]: A 9. § a 10. § (3) bekezdése alapján 2012. április 1-jén lép hatályba.
+[^11]: A 9. § a 10. § (3) bekezdése alapján 2012. április 1-jén lép hatályba.
