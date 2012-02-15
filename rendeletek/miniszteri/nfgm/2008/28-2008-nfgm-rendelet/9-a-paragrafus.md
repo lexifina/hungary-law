@@ -1,1 +1,0 @@
-## 9. § A támogatások felhasználásával összefüggő egyes részfeladatok ellátása során a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet előírásainak figyelembevételével kell eljárni.
