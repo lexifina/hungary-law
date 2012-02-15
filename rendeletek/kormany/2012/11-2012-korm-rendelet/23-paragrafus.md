@@ -1,0 +1,3 @@
+## 22. § Az R. 52. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A Svájci–Magyar Együttműködési Programból finanszírozott projektek támogatásait és bevételeit (beleértve szükség esetén az előre nem látható, a visszafizetéshez szükséges, illetve az árfolyam-különbözet fedezésére szolgáló összegeket) az NKE-nek az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), a végrehajtásáról rendelkező jogszabályok és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) szerinti tervezési tájékoztató előírásainak megfelelően egy előirányzaton kell megtervezni.”

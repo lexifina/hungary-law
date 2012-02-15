@@ -1,0 +1,3 @@
+## 30. § Az R. 77. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A Projekt Végrehajtóval kötött Végrehajtási Megállapodásban, valamint a KSz-szel és a TKSz-szel kötött megállapodásokban ki kell kötni, hogy a Projekt Végrehajtó, illetve a KSz és a TKSz köteles az ellenőrzés érdekében a Kormány által az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv, a fejezetek ellenőrzési szervezetei, a Kincstár, illetve az NKE képviselőit ellenőrzési munkájukban a helyszínen is – a megfelelő dokumentumok, számlák, a program megvalósítását igazoló okmányok, bizonylatok rendelkezésre bocsátásával, illetve a fizikai teljesítés vizsgálatában – segíteni.”
