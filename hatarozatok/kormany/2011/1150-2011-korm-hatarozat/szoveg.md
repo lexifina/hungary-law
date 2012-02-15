@@ -4,29 +4,27 @@ A Kormány a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74/E.
 
 2. A Kormány
 
-a) felhívja az állami vagyon felügyeletéért felelős minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján, az államháztartásról szóló 1992. évi XXXVIII. törvény 100/L. § (3) bekezdése és az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 6. §-a szerinti, a közigazgatási és igazságügyi miniszter által az MNV Zrt.-hez benyújtott kérelem alapján gondoskodjon az 1. pont szerinti, az Alapítvány általános jogutódjaként működő, Tudományos és Technológiai Közhasznú Nonprofit Kft. megalapításának engedélyezéséről és a közigazgatási és igazságügyi miniszter részére az ehhez szükséges meghatalmazás kiadásáról, továbbá a közigazgatási és igazságügyi miniszterrel az állami vagyonról szóló 2007. évi CVI. törvény 29. § (5) bekezdése szerinti megállapodás megkötéséről;
+a)[^2]
 
-b) egyetért azzal, hogy a megszűnt Alapítvány céljainak megvalósítása érdekében feladatait a Tudományos és Technológiai Közhasznú Nonprofit Kft. lássa el, és ennek érdekében az Alapítvány vagyoni jogai és a megszüntetésre irányuló eljárás kezdő időpontja után esedékessé váló kötelezettségei a Tudományos és Technológiai Közhasznú Nonprofit Kft.-re szállnak át; a Tudományos és Technológiai Közhasznú Nonprofit Kft. vagyonává váló volt alapítványi vagyon kizárólag a megszűnt Alapítvány célja szerinti tevékenységre fordítható, és a társaság megszűnése esetén is csak e céloknak megfelelően használható fel;
+b)[^3] egyetért azzal, hogy a megszűnt Alapítvány céljainak megvalósítása érdekében feladatait a Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft. lássa el, és ennek érdekében az Alapítvány vagyoni jogai és a megszüntetésre irányuló eljárás kezdő időpontja után esedékessé váló kötelezettségei a Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft.-re szállnak át; a Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft. vagyonává váló volt alapítványi vagyon kizárólag a megszűnt Alapítvány célja szerinti tevékenységre fordítható, és a társaság megszűnése esetén is csak e céloknak megfelelően használható fel;
 
-c) felhívja a közigazgatási és igazságügyi minisztert, hogy gondoskodjon arról, hogy az Alapítvány bírósági nyilvántartásból való törlésének napjával azonos fordulónapon, a Tudományos és Technológiai Közhasznú Nonprofit Kft.-re átszálló alapítványi vagyon figyelembevételével a megszűnt Alapítvány céljait megvalósító tevékenység vagyonvesztés nélkül, folyamatosan biztosítható legyen a Tudományos és Technológiai Közhasznú Nonprofit Kft. által.
+c)[^4] felhívja a közigazgatási és igazságügyi minisztert, hogy gondoskodjon arról, hogy az Alapítvány bírósági nyilvántartásból való törlésének napjával azonos fordulónapon, a Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft.-re átszálló alapítványi vagyon figyelembevételével a megszűnt Alapítvány céljait megvalósító tevékenység vagyonvesztés nélkül, folyamatosan biztosítható legyen a Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft. által.
 
-Felelős: nemzeti fejlesztési miniszter
-
-közigazgatási és igazságügyi miniszter
+Felelős: közigazgatási és igazságügyi miniszter[^5]
 
 Határidő: azonnal
 
 3. A Kormány
 
-a) felhatalmazza a közigazgatási és igazságügyi minisztert, hogy a 2006. évi LXV. törvény 2. § (1) bekezdése, valamint 4. § (4) bekezdése alapján, a Tudományos és Technológiai Közhasznú Nonprofit Kft. megalapításának cégbírósági kezdeményezésével egyidejűleg az állami alapító nevében kérelmezze az Alapítvány székhelye szerint illetékes megyei bíróságnál az Alapítvány megszüntetését, kérje kérelmének soron kívüli elbírálását, továbbá a megszüntetés kapcsán felmerülő kérdésekben az állami alapító nevében eljárjon, és az ennek érdekében szükséges intézkedéseket megtegye;
+a)[^6] felhatalmazza a közigazgatási és igazságügyi minisztert, hogy az állami alapító nevében kérelmezze az Alapítvány székhelye szerint illetékes törvényszéknél az Alapítvány megszüntetését, kérje kérelmének soron kívüli elbírálását, továbbá a megszüntetés kapcsán felmerülő kérdésekben az állami alapító nevében eljárjon, és az ennek érdekében szükséges intézkedéseket megtegye;
 
-b) megbízza a közigazgatási és igazságügyi minisztert, hogy intézkedjen az Alapítványhoz vagyonelszámoló, könyvvizsgáló, valamint az 1. pont szerinti megszüntetési eljárásban közreműködő személyek kijelölése és az Alapítvány vagyonának a 2006. évi LXV. törvény 2. § (2) bekezdése szerinti, a Tudományos és Technológiai Közhasznú Nonprofit Kft. részére történő térítésmentes átadása érdekében;
+b)[^7] megbízza a közigazgatási és igazságügyi minisztert, hogy intézkedjen az Alapítványhoz vagyonelszámoló, könyvvizsgáló, valamint az 1. pont szerinti megszüntetési eljárásban közreműködő személyek kijelölése és az Alapítvány vagyonának a 2006. évi LXV. törvény 2. § (2) bekezdése szerinti, a Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft. részére történő térítésmentes átadása érdekében;
 
 c) felhívja a közigazgatási és igazságügyi minisztert, hogy biztosítsa, hogy az Alapítvány megszűnése napjával mint mérlegfordulónappal elkészítésre kerüljön az Alapítványnak a számviteli törvény szerinti egyes egyéb szervezetek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 224/2000. (XII. 19.) Korm. rendelet 6. §-a szerinti beszámolója.
 
 Felelős: közigazgatási és igazságügyi miniszter
 
-Határidő: a 2. pont szerinti MNV Zrt. meghatalmazás kiadását követően azonnal
+Határidő: azonnal[^8]
 
 4. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy az Alapítvány megszüntetéséről és a fenti 2. pontban foglalt intézkedésekről a nyilvánosságot közleményben tájékoztassa.
 
@@ -50,6 +48,13 @@ a közigazgatási és igazságügyi miniszterrel)
 
 (tekintetében.)
 
-7.[^1] Ez a határozat a közzétételét követő napon lép hatályba,
+7.[^9] Ez a határozat a közzétételét követő napon lép hatályba,
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^2]: A 2. pont a) alpontját az 1026/2012. (II. 14.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^3]: A 2. pont b) alpontja az 1026/2012. (II. 14.) Korm. határozat 2. és 3. pontja szerint módosított szöveg.
+[^4]: A 2. pont c) alpontja az 1026/2012. (II. 14.) Korm. határozat 2. és 3. pontja szerint módosított szöveg.
+[^5]: Az 1026/2012. (II. 14.) Korm. határozat 4. pontjával megállapított szöveg.
+[^6]: A 3. pont a) alpontja az 1026/2012. (II. 14.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: A 3. pont b) alpontja az 1026/2012. (II. 14.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^8]: Az 1026/2012. (II. 14.) Korm. határozat 5. pontjával megállapított szöveg.
+[^9]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
