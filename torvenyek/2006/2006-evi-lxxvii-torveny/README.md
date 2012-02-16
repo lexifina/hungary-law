@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-77-00-00
 | --- | --- | --- |
 | 2009-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-77-00-00.3 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2006-77-00-00.4 |
+| 2012-02-16 | 2011. évi CXXXIX. törvény | 2006-77-00-00.5 |
