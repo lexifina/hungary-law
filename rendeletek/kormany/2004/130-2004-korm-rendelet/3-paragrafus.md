@@ -1,3 +1,0 @@
-3. § (1) A Kbt. 10. §-ában foglaltakon kívül összeférhetetlenségi ok, ha az eljárást előkészítő, az ajánlatkérő képviseletét ellátó személynek vagy közeli hozzátartozójának [Ptk. 685. §-ának b) pontja] – ideértve az élettársat is – a lehetséges vagy tényleges ajánlattevők bármelyikével közös gazdasági érdekeltsége van, vagy a lehetséges vagy tényleges ajánlattevőktől pénzbeni –, természetbeni juttatásban, illetve támogatásban részesült. Az összeférhetetlenséget a közbeszerzési eljárást megelőző két évre visszamenőleg kell vizsgálni.
-
-(2) A Kbt. 10. §-ának (2) bekezdése e rendelet hatálya alá tartozó közbeszerzési eljárásokban nem alkalmazható.

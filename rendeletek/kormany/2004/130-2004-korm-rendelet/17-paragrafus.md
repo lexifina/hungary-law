@@ -1,5 +1,0 @@
-## 16. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
-
-17. §[^22] E rendelet 2. §-ának (4) bekezdése – a Kbt. 136/A. §-ának (2) bekezdésével együtt – az építési beruházásra, az árubeszerzésre és a szolgáltatásmegrendelésre irányuló közbeszerzési eljárások összehangolásáról szóló 2004. március 31-ei 2004/18/EK európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 32. cikke (4) bekezdésének; 12. §-ának (1) bekezdése – a Kbt. 124. §-a (2) bekezdésének b) pontjával együtt – az irányelv 30. cikke (1) bekezdése b) pontjának; 12. §-a (4) bekezdésének a) pontja – a Kbt. 125. §-a (2) bekezdésének b) pontjával együtt – az irányelv 31. cikk (1) bekezdése b) pontjának; valamint 12. §-a (4) bekezdésének b) pontja – a Kbt. 125. §-a (4) bekezdésének b) pontjával együtt – az irányelv 31. cikk (2) bekezdése b) pontjának való megfelelést szolgálja.
-
-[^22]: A 17. §-t a 105/2006. (IV. 28.) Korm. rendelet 9. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2006. május 6. napja után megkezdődött közbeszerzésekre kell alkalmazni.

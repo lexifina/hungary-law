@@ -1,1 +1,0 @@
-## 9. § A gyógyszer és gyógyászati segédeszköz és a hozzájuk kapcsolódó szolgáltatás közbeszerzése becsült értékének megállapításánál a szállítás költségeit és a beteg adott gyógyszerre történő beállításának, átállításának költségeit is jogosult figyelembe venni.
