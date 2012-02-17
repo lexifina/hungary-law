@@ -2,8 +2,6 @@
 
 ## 25. Hatályon kívül helyező rendelkezések
 
-## 36. § Hatályát veszti
+36. §[^1]
 
-a) a Nemzeti Civil Alapprogram működését érintő egyes kérdésekről szóló 29/2009. (XII. 11.) SZMM rendelet és
-
-b) a Nemzeti Civil Alapprogram tanácsi és kollégiumi tagjainak költségtérítése elszámolásának szabályairól szóló 14/2011. (IV. 22.) KIM rendelet.
+[^1]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
