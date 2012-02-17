@@ -1,0 +1,3 @@
+## 19. § Ez a rendelet az építési beruházásra, az árubeszerzésre és a szolgáltatásnyújtásra irányuló közbeszerzési szerződések odaítélési eljárásainak összehangolásáról szóló 2004. március 31-i 2004/18/EK európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 30. cikk (1) bekezdés b) pontjának, 31. cikk (1) bekezdés b) pontjának, 31. cikk (2) bekezdés b) pontjának, valamint a Kbt. 108–110. §-ával együtt az irányelv 32. cikkének való megfelelést szolgálja.
+
+20. § Hatályát veszti a gyógyszerek és gyógyászati segédeszközök közbeszerzésének részletes és sajátos szabályairól szóló 130/2004. (IV. 29.) Korm. rendelet.

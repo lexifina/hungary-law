@@ -1,0 +1,1 @@
+## 7. § Az e rendelet szerinti közbeszerzési eljárásokban beszerzett áruk a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló rendelet tekintetében különleges célt szolgáló áruk.

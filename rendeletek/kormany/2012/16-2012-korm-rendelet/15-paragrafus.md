@@ -1,0 +1,11 @@
+## 6. A hirdetmény nélküli tárgyalásos eljárásra vonatkozó sajátos szabályok
+
+15. § (1) Az ajánlatkérő a hirdetmény közzététele nélküli tárgyalásos eljárás esetén az adott hatóanyagra, gyógyszerre vagy indikációra – a gyógyszerészeti államigazgatási szerv vagy az Európai Bizottság által kiadott forgalomba hozatali engedély szerinti – valamennyi szervezet részére azonos tartalommal és azonos időben ajánlattételi felhívást küld, egyben ajánlattételi határidőként az ajánlat megtételére elegendő, egységes időtartamot határoz meg. Amennyiben az ajánlattételi felhíváshoz a hirdetmény közzététele nélküli tárgyalásos eljárásban az ajánlatkérő ajánlati dokumentációt csatol, akkor – a Kbt. 94. § (2) bekezdés d) pontja szerinti esetet kivéve – az ajánlattételi határidő nem lehet rövidebb az ajánlattételi felhívás megküldésének napjától számított 10 napnál.
+
+(2) Hirdetmény közzététele nélkül induló tárgyalásos eljárás alkalmazható az egészségügyi szakmai kollégium állásfoglalása szerinti termék esetében, amennyiben
+
+a) a megkötendő szerződést a Kbt. 94. § (2) bekezdés c) pontjában foglaltak szerint az adott gyógyszer, orvostechnikai eszköz konkrét jellemzői vagy forgalmazási engedély, illetve kizárólagos jogok védelme miatt csak egy meghatározott szervezet képes teljesíteni;
+
+b) az adott betegség kezelésére szolgáló, korábban beszerzett gyógyszer, orvostechnikai eszköz másikkal történő helyettesítése a Kbt. 94. § (4) bekezdés b) pontja szerint bizonyos betegségcsoportok esetében nem lehetséges a kezelésre szoruló betegek egészségi állapotának veszélyeztetése nélkül, vagy az a betegek kezelésében, az országos ellátásban jelentős, aránytalanul nagy nehézséget eredményezne.
+
+(3) Az e rendelet hatálya alá tartozó áruk tekintetében a Kbt. 94. § (2) bekezdés d) pontja szerinti rendkívüli sürgősség a terápiás alkalmazással indokolható abban az esetben, ha a sürgős ellátási igény fennállása igazoltan megállapítható. A jogalap igazolásához az illetékes egészségügyi szakmai kollégium vezetőjének vagy a gyógyszerészeti államigazgatási szervnek az egyetértő állásfoglalása szükséges. Az indokolásban ki kell térni annak igazolására, hogy a rendkívüli sürgősség nem az ajánlatkérő hibájából ered.

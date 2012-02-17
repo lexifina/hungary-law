@@ -1,0 +1,1 @@
+## 10. § A gyógyszer és az orvostechnikai eszköz, valamint az ezekhez kapcsolódó szolgáltatás közbeszerzése esetén a szükséges anyagi fedezet mértékének megállapításánál az ajánlatkérő a szállítás költségeit és a beteg adott gyógyszerre történő beállításának, átállításának költségeit is figyelembe veheti.
