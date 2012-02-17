@@ -30,7 +30,7 @@ Határidő: 2012. május 31.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8.[^1]
+8.[^2]
 
 Melléklet az 1430/2011. (XII. 13.) Korm. határozathoz
 
@@ -802,7 +802,7 @@ az ügyviteli vizsgába történő beépítésére 2013.március 1.
 
 Forrás: forrást nem igényel
 
-15. A http://www.kih.gov.hu/ honlapon az összes hivatalosan elismert magyarországi kisebbség nyelvén, valamint a Magyarországon használatos cigány nyelveken (pl. lovári, romungro) is elérhetővé kell tenni az Áldozatsegítő Szolgálat munkájával kapcsolatos információkat.
+15.[^3] A http://www.kih.gov.hu/ honlapon az összes hivatalosan elismert magyarországi kisebbség nyelvén, valamint a Magyarországon használatos cigány nyelveken is elérhetővé kell tenni az Áldozatsegítő Szolgálat munkájával kapcsolatos információkat.
 
 Felelős: belügyminiszter
 
@@ -886,4 +886,5 @@ Határidő: 2013. december 31-ig folyamatos
 
 Forrás: nem releváns
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A melléklet VI. fejezet 15. pontja az 1030/2012. (II. 16.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
