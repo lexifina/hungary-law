@@ -1,6 +1,6 @@
 ## A gyártó visszavételi, begyűjtési és kezelési kötelezettségének átruházása
 
-5. §[^14] (1) A gyártó a visszavételi, begyűjtési és kezelési kötelezettsége teljesítését – a (3) bekezdésben foglaltak kivételével – az e rendeletben meghatározott feltételekkel:
+5. §[^15] (1) A gyártó a visszavételi, begyűjtési és kezelési kötelezettsége teljesítését – a (3) bekezdésben foglaltak kivételével – az e rendeletben meghatározott feltételekkel:
 
 a) a 6. § szerinti átvevőre megállapodás alapján részben vagy együttesen, vagy
 
@@ -18,4 +18,4 @@ b) a Ktdt. 2. mellékletében meghatározott termékdíjtétel megfizetésével 
 
 teljesítheti.
 
-[^14]: Az 5. § a 343/2011. (XII. 29.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 33–34. §-át.
+[^15]: Az 5. § a 343/2011. (XII. 29.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 33–34. §-át.

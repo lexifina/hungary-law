@@ -8,8 +8,8 @@
 
 (4) A gyártó a visszavételért ellenszolgáltatást nem követelhet, azonban a visszavétel ösztönzése érdekében díjat fizethet.
 
-(5)[^8] A gyártó – a népsűrűséget is figyelembe véve – a felhasználó közelében lévő, megközelíthető begyűjtőhelyek rendelkezésre állásáról gondoskodik.
+(5)[^9] A gyártó – a népsűrűséget is figyelembe véve – a felhasználó közelében lévő, megközelíthető begyűjtőhelyek rendelkezésre állásáról gondoskodik.
 
 (6) A gyártó a visszavett és begyűjtött hulladékká vált hordozható elem, illetve akkumulátor kezeléséről az elemek és akkumulátorok, illetve hulladékaik kezeléséről szóló külön jogszabály szerint gondoskodik (kezelési kötelezettség).
 
-[^8]: A 3. § (5) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 3. § (5) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés a) pontja szerint módosított szöveg.
