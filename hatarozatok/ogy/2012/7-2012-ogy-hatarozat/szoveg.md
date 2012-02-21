@@ -1,15 +1,5 @@
-1. Az Országgyűlés bizottságainak létrehozásáról, tisztségviselőinek és tagjainak megválasztásáról szóló 23/2010. (V. 14.) OGY határozat a következők szerint módosul:
-
-Az Országgyűlés
-
-a Foglalkoztatási és munkaügyi bizottságba
-
-Kaufer Virág (LMP) korábban megüresedett tagsági helyére
-
-dr. Szél Bernadettet (LMP)
-
-a bizottság tagjává
-
-megválasztja.
+1.[^2]
 
 2. E határozat elfogadásakor lép hatályba, és a közzétételét követő napon hatályát veszti.
+
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
