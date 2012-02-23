@@ -1,4 +1,4 @@
-## 10. §[^27] Amennyiben más Európai Gazdasági Térségről szóló megállapodásban részes államban (a továbbiakban: EGT-állam) kiadott engedély alapján működő vasúti társaság Magyarország területén kíván olyan vasúti tevékenységet folytatni, amelynek során nyílt hozzáférésű vasúti pályahálózatot vesz igénybe, erre vonatkozó szándékát a pályakapacitás iránti igényének benyújtását megelőzően legalább 30 nappal, a kötelező baleseti kárfedezeti képességre külön jogszabályban meghatározott követelményeknek való megfelelés egyidejű igazolásával köteles bejelenteni a vasúti igazgatási szerv részére.
+## 10. §[^30] Amennyiben más Európai Gazdasági Térségről szóló megállapodásban részes államban (a továbbiakban: EGT-állam) kiadott engedély alapján működő vasúti társaság Magyarország területén kíván olyan vasúti tevékenységet folytatni, amelynek során nyílt hozzáférésű vasúti pályahálózatot vesz igénybe, erre vonatkozó szándékát a pályakapacitás iránti igényének benyújtását megelőzően legalább 30 nappal köteles bejelenteni a vasúti igazgatási szervnek. A bejelentéshez mellékelnie kell a más EGT-államban kiadott működési engedélyt, valamint annak igazolását, hogy a kötelező baleseti kárfedezeti képességét biztosító szerződésének hatálya Magyarországra kiterjed.
 
 ## 11. § A 2. melléklet g) pontja szerinti nyilatkozatot a könyvvizsgáló, illetve könyvelő a szervezet
 
@@ -20,4 +20,4 @@ h) adósságai,
 
 i) vagyona terhei (a követelések határidejének és mértékének részletezésével)
 
-[^27]: A 10. § a 93/2007. (XI. 22.) GKM rendelet 4. §-ával megállapított, a 8/2008. (VI. 30.) KHEM rendelet 2. §-a, a 91/2011. (XII. 30.) NFM rendelet 50. §-a szerint módosított szöveg.
+[^30]: A 10. § az 5/2012. (II. 15.) NFM rendelet 3. §-ával megállapított szöveg.

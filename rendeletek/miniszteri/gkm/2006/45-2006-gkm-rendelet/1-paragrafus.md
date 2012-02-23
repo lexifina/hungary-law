@@ -16,6 +16,6 @@ c) a Vtv. 3. melléklete III. részének b) pontjában megjelölt tevékenység 
 
 (5) A saját célú vasúti pályahálózatra vonatkozó működési engedéllyel (a továbbiakban: saját célú vasúti működési engedély) rendelkező vasúti társaság a vasúti járművek átadása céljából igénybe veheti azon állomás vágányhálózatából erre kijelölt és a működési engedélyében külön – e cél megjelölésével – feltüntetett vágányokat, amely állomásból a saját célú vasúti pályahálózat kiágazik.
 
-(6)[^1] A vasúti társaság a működési engedély iránti kérelmében megjelölt kiegészítő tevékenységek közül vasúti tevékenysége körében kizárólag azoknak a végzésére jogosult, amelyeket a vasúti igazgatási szerv a működési engedélyben jóváhagy.
+(6)[^1]
 
-[^1]: Az 1. § (6) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. § (6) bekezdését az 5/2012. (II. 15.) NFM rendelet 9. § (2) bgekezdése hatályon kívül helyezte.

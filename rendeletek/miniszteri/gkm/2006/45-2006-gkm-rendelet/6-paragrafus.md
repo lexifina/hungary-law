@@ -6,15 +6,15 @@
 
 a) igazolja, hogy a társaság vasúti tevékenységéért közvetlenül felelős személy nem esik a 2. § (2) bekezdésben meghatározott kizáró okok alá;
 
-b)[^9] teljesíti a 3. § (1) bekezdésének a) pontjában meghatározott feltételt, és a vasúti igazgatási szerv részére benyújtja az erre vonatkozó nyilatkozatot, valamint teljesíti a 3. § (1) bekezdés b) pontjában meghatározott feltételt azzal, hogy ennek igazolására a 2. melléklet b), illetve c) pontjában meghatározott üzleti tervet 1 évre vonatkozóan kell csatolnia;
+b)[^12] teljesíti a 3. § (1) bekezdésének a) pontjában meghatározott feltételt, és a vasúti igazgatási szerv részére benyújtja az erre vonatkozó nyilatkozatot, valamint teljesíti a 3. § (1) bekezdés b) pontjában meghatározott feltételt azzal, hogy ennek igazolására a 2. melléklet b), illetve c) pontjában meghatározott üzleti tervet 1 évre vonatkozóan kell csatolnia;
 
-c)[^10] a vasúti igazgatási szervhez benyújtja az utolsó hitelesen lezárt üzleti évről szóló beszámolóját;
+c)[^13] a vasúti igazgatási szervhez benyújtja az utolsó hitelesen lezárt üzleti évről szóló beszámolóját;
 
-d)[^11] a pénzügyi helyzetére vonatkozóan könyvvizsgáló vagy mérlegképes könyvelő által készített és cégszerűen aláírt nyilatkozatot nyújt be a vasúti igazgatási szerv részére;
+d)[^14] a pénzügyi helyzetére vonatkozóan könyvvizsgáló vagy mérlegképes könyvelő által készített és cégszerűen aláírt nyilatkozatot nyújt be a vasúti igazgatási szerv részére;
 
-e)[^12] a vasúti igazgatási szerv részére hitelt érdemlően igazolja a 4. §-ban foglalt követelmények teljesítését, valamint a felelősségi körébe tartozó baleseti károk megtérítésére vonatkozó alkalmasságot a külön jogszabály rendelkezéseinek megfelelően.
+e)[^15] a vasúti igazgatási szerv részére hitelt érdemlően igazolja a 4. §-ban foglalt követelmények teljesítését, valamint a felelősségi körébe tartozó baleseti károk megtérítésére vonatkozó alkalmasságot a külön jogszabály rendelkezéseinek megfelelően.
 
-[^9]: A 6. § (2) bekezdésének b) pontja a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
-[^10]: A 6. § (2) bekezdésének c) pontja a 8/2008. (VI. 30.) KHEM rendelet 4. §-a szerint módosított szöveg.
-[^11]: A 6. § (2) bekezdésének d) pontja a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
-[^12]: A 6. § (2) bekezdésének e) pontja a 93/2007. (XI. 22.) GKM rendelet 2. §-ával megállapított, valamint a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdésének b) pontja a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^13]: A 6. § (2) bekezdésének c) pontja a 8/2008. (VI. 30.) KHEM rendelet 4. §-a szerint módosított szöveg.
+[^14]: A 6. § (2) bekezdésének d) pontja a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^15]: A 6. § (2) bekezdésének e) pontja a 93/2007. (XI. 22.) GKM rendelet 2. §-ával megállapított, valamint a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.

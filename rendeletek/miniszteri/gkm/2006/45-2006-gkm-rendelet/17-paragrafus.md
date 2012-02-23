@@ -1,14 +1,36 @@
-## 16. §[^34]
+## 16. §[^39]
 
-## Az engedélyesek adatszolgáltatási kötelezettsége
+## A működési engedéllyel rendelkezők és a bejelentők adatszolgáltatási kötelezettsége[^40]
 
-17. § (1)[^35] A vasúti társaság köteles a vasúti igazgatási szervnek haladéktalanul írásban bejelenteni minden olyan változást, amely érinti a működési engedély kiadásának, valamint az engedélyköteles tevékenység gyakorlásának feltételeit. A bejelentéshez csatolni kell a benne foglalt tényállítást igazoló okiratot, nyilatkozatot azzal, hogy az okirat benyújtására a 9. § (7) bekezdése irányadó. A bejelentési kötelezettség részletes szabályait a működési engedély tartalmazza.
+17. § (1)[^41] A működési engedély megszerzésére köteles vasúti társaság köteles a vasúti igazgatási szervnek az erre vonatkozó döntésének meghozatalát követő 15 napon belül írásban bejelenteni
 
-(2)[^36] A vasúti társaság köteles bejelenteni a vasúti igazgatási szervnek, ha más vasúti társasággal olyan kapcsolatot alakít ki, amelynek révén a másik vasúti társaságban a Polgári Törvénykönyvről szóló törvény szerinti többségi befolyással, illetőleg a tőkepiacról szóló törvény szerinti befolyásoló részesedéssel (e rendelet alkalmazásában a továbbiakban együtt: többségi befolyásszerzés) rendelkezik.
+a) ha a vasúti társaság más vasúti társasággal olyan kapcsolatot alakít ki, amelynek révén a másik vasúti társaságban a Polgári Törvénykönyvről szóló törvény szerinti többségi befolyással vagy a tőkepiacról szóló törvény szerinti befolyásoló részesedéssel (a továbbiakban együtt: többségi befolyásszerzés) rendelkezik,
 
-(3)[^37] A vasúti társaság a Vtv. 8. §-ának (5) bekezdésében foglaltak alapján évente – a vasúti igazgatási szerv részére május 31. napjáig megküldött írásbeli beszámolójában – igazolni köteles a működési engedély kiadása feltételeinek való folyamatos megfelelést.
+b) ha a 4. § (1) bekezdés szerinti irányító szerve összetételében változás áll be,
 
-(4)[^38] A vasúti igazgatási szerv ellenőrzési feladatai ellátásához jogosult az engedéllyel rendelkező vasúti társaságok számára eseti és rendszeres – a vasúti igazgatási szerv által meghatározott formában, csoportosításban és módon (írásban, elektronikusan, adathordozón vagy egyéb módon) teljesítendő – adatszolgáltatási kötelezettséget előírni.
+c) ha a nyílt hozzáférés alól mentesített vasúti pályahálózatot működtető vasúti társaság a pályahálózat használatát más vasúti társaság részére lehetővé teszi,
+
+d) ha a legfőbb szerve a 13. § (1) bekezdés d) pontja szerinti döntést hoz,
+
+e) az a)–d) pontokon felül minden olyan változást, amely érinti a működési engedély kiadásának, valamint az engedélyköteles tevékenység gyakorlásának feltételeit.
+
+(2)[^42] A bejelentéshez mellékelni kell a benne foglalt tényállást igazoló okiratot, nyilatkozatot, azzal, hogy az okirat benyújtására a 9. § (7) bekezdése irányadó.
+
+(3)[^43] A vasúti társaság a Vtv. 8. § (5) bekezdésében foglaltak alapján évente – a vasúti igazgatási szerv részére május 31. napjáig megküldött írásbeli beszámolójában a vasúti igazgatási szerv által erre rendszeresített nyomtatványon – igazolni köteles a működési engedély kiadása feltételeinek való folyamatos megfelelést. A vasúti társaság e kötelezettségének – a működési engedély 5 évenkénti kötelező felülvizsgálatának esedékességi évét kivéve – minden év május 31. napjáig tesz eleget. A nyomtatványhoz mellékelni kell a következőket:
+
+a) azoknak a dokumentumoknak a másolatát, amelyek tartalmában a működési engedély kiadása vagy a legutolsó írásbeli beszámoló benyújtása óta változás következett be, és
+
+b) a vasúti társaság nyilatkozatát, hogy az engedélyezési eljárásban elbírált és ismételten benyújtásra nem kerülő dokumentumok tartalmában a működési engedély kiadása iránti eljárás óta változás nem következett be.
+
+(3a)[^44] A bejelentésre kötelezett vasúti társaság köteles a vasúti igazgatási szervnek az erre vonatkozó döntésének meghozatalát követő 15 napon belül írásban bejelenteni
+
+a) ha a vasúti társaság más vasúti társasággal olyan kapcsolatot alakít ki, amelynek révén a másik vasúti társaságban a Polgári Törvénykönyvről szóló törvény szerinti többségi befolyással vagy a tőkepiacról szóló törvény szerinti befolyásoló részesedéssel (a továbbiakban együtt: többségi befolyásszerzés) rendelkezik,
+
+b) ha a nyílt hozzáférés alól mentesített vasúti pályahálózatot működtető vasúti társaság a pályahálózat használatát más vasúti társaság részére lehetővé teszi, valamint
+
+c) az a)–b) pontokon felül minden olyan változást, amely érinti az 5/A. § szerinti bejelentés tartalmát.
+
+(4)[^45] A vasúti igazgatási szerv ellenőrzési feladatai ellátásához jogosult az engedéllyel rendelkező vasúti társaságok számára eseti és rendszeres – a vasúti igazgatási szerv által meghatározott formában, csoportosításban és módon (írásban, elektronikusan, adathordozón vagy egyéb módon) teljesítendő – adatszolgáltatási kötelezettséget előírni.
 
 (5) Az adatszolgáltatási kötelezettség az alábbiakkal kapcsolatosan rendelhető el:
 
@@ -20,19 +42,24 @@ c) az engedélyezett tevékenység szüneteltetésének felülvizsgálata;
 
 d) a működési engedéllyel rendelkező vasúti társaság jogi helyzetének vizsgálata, különös tekintettel a működési engedéllyel rendelkező vasúti társaságban történő többségi befolyásszerzésre, valamint a működési engedéllyel rendelkező vasúti társaság más vasúti társaságban történő többségi befolyásszerzésére;
 
-e)[^39] más EGT-államban kiadott engedély alapján Magyarország területén engedélyköteles tevékenységet folytató vasúti társaság Vtv. szerinti tevékenységének vizsgálata;
+e)[^46] más EGT-államban kiadott engedély alapján Magyarország területén engedélyköteles tevékenységet folytató vasúti társaság Vtv. szerinti tevékenységének vizsgálata;
 
-f) a Vtv. 37. §-ában foglalt rendelkezések teljesülésének ellenőrzése.
+f) a Vtv. 37. §-ában foglalt rendelkezések teljesülésének ellenőrzése;
 
-(6)[^40] A működési engedéllyel rendelkező vasúti társaság az adatszolgáltatási kötelezettségének a vasúti igazgatási szerv által előírt formában és módon, az elrendelt határidőben köteles eleget tenni.
+g)[^47] a Vtv. 6. § (9) bekezdése szerinti bejelentési kötelezettség teljesítésének vizsgálata.
 
-(7)[^41] A működési engedéllyel rendelkező pályavasúti társaság, illetve integrált vasúti társaság – külön jogszabály vagy a vasúti igazgatási szerv által előírt adatszolgáltatási kötelezettség alapján – más vasúti társaság, illetve piaci szereplő részére a fennálló forgalommal és a vasúti pálya aktuális állapotával kapcsolatosan köteles adatokat szolgáltatni, és az előírt adatokat, illetve információkat korlátozás nélkül, térítésmentesen hozzáférhetővé tenni.
+(6)[^48] A működési engedéllyel rendelkező vasúti társaság az adatszolgáltatási kötelezettségének a vasúti igazgatási szerv által előírt formában és módon, az elrendelt határidőben köteles eleget tenni.
 
-[^34]: A 16. §-t a 48/2009. (IX. 30.) KHEM rendelet 48. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^35]: A 17. § (1) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 5. §-a szerint módosított szöveg.
-[^36]: A 17. § (2) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 5. §-a, a 48/2009. (IX. 30.) KHEM rendelet 48. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^37]: A 17. § (3) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
-[^38]: A 17. § (4) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
-[^39]: A 17. § (5) bekezdés e) pontja a 91/2011. (XII. 30.) NFM rendelet 50. §-a szerint módosított szöveg.
-[^40]: A 17. § (6) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
-[^41]: A 17. § (7) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+(7)[^49] A működési engedéllyel rendelkező pályavasúti társaság, illetve integrált vasúti társaság – külön jogszabály vagy a vasúti igazgatási szerv által előírt adatszolgáltatási kötelezettség alapján – más vasúti társaság, illetve piaci szereplő részére a fennálló forgalommal és a vasúti pálya aktuális állapotával kapcsolatosan köteles adatokat szolgáltatni, és az előírt adatokat, illetve információkat korlátozás nélkül, térítésmentesen hozzáférhetővé tenni.
+
+[^39]: A 16. §-t a 48/2009. (IX. 30.) KHEM rendelet 48. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A 17. §-t megelőző alcím az 5/2012. (II. 15.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^41]: A 17. § (1) bekezdése az 5/2012. (II. 15.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^42]: A 17. § (2) bekezdése az 5/2012. (II. 15.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^43]: A 17. § (3) bekezdése az 5/2012. (II. 15.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^44]: A 17. § (3a) bekezdését az 5/2012. (II. 15.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^45]: A 17. § (4) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^46]: A 17. § (5) bekezdés e) pontja a 91/2011. (XII. 30.) NFM rendelet 50. §-a szerint módosított szöveg.
+[^47]: A 17. § (5) bekezdés g) pontját az 5/2012. (II. 15.) NFM rendelet 5. § (3) bekezdése iktatta be.
+[^48]: A 17. § (6) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^49]: A 17. § (7) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
