@@ -1,4 +1,4 @@
-## 32. §[^29]
+## 32. §[^45]
 
 33. § (1) A Vtv. 66. § (1) bekezdésében meghatározott belső megállapodás tartalmazza
 
@@ -20,4 +20,4 @@ b) nem tartalmaz hivatkozást az integrált vasúti társaság olyan belső szab
 
 (3) Az integrált vasúti társaságnak az általa működtetett nyílt hozzáférésű vasúti pályahálózathoz való hozzáférése nem valósíthat meg megkülönböztetést más hozzáférésre jogosulttal szemben.
 
-[^29]: A 32. §-t a 13/2009. (III. 27.) KHEM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^45]: A 32. §-t a 13/2009. (III. 27.) KHEM rendelet 5. § (2) bekezdése hatályon kívül helyezte.

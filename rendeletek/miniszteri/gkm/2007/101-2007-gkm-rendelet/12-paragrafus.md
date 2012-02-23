@@ -6,6 +6,6 @@
 
 (3) A kapacitás-elosztó szervezet legalább tizenegy hónappal az üzemi menetrend hatálybalépése előtt – a más EGT-államok kapacitás-elosztó szervezeteivel együttműködve – előzetes nemzetközi menetvonalakat határoz meg, különösen a Transzeurópai Vasúti Áruszállítási Hálózathoz tartozó vasúti pályaszakaszok vonatkozásában, amelyek kiigazítására utóbb kizárólag akkor kerülhet sor, ha az elengedhetetlenül szükséges.
 
-(4)[^19] A nemzetközi menetvonalak kialakításakor a kapacitás-elosztó szervezet figyelembe veszi a határátlépés feltételeinek ellenőrzéséhez szükséges időt.
+(4)[^28] A nemzetközi menetvonalak kialakításakor a kapacitás-elosztó szervezet figyelembe veszi a határátlépés feltételeinek ellenőrzéséhez szükséges időt.
 
-[^19]: A 12. § (4) bekezdését a 13/2009. (III. 27.) KHEM rendelet 3. §-a iktatta be.
+[^28]: A 12. § (4) bekezdését a 13/2009. (III. 27.) KHEM rendelet 3. §-a iktatta be.

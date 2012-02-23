@@ -6,9 +6,9 @@
 
 35. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^34]
+(2)[^50]
 
-(3)[^35]
+(3)[^51]
 
-[^34]: A 35. § (2) bekezdése e rendelet 35. § (3) bekezdésének a) pontja alapján hatályát vesztette.
-[^35]: A 35. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^50]: A 35. § (2) bekezdése e rendelet 35. § (3) bekezdésének a) pontja alapján hatályát vesztette.
+[^51]: A 35. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

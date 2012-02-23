@@ -8,8 +8,8 @@
 
 a) hozzáférést kell biztosítani a nyílt hozzáférésű rakterületekhez, rakodóhelyekhez és járműmérlegekhez,
 
-b)[^28]
+b)[^44]
 
 c) mellékszolgáltatásként biztosítható a pályahálózat-működtető – Hálózati Üzletszabályzatban meghatározott – információs rendszeréhez történő hozzáférés.
 
-[^28]: A 29. § (2) bekezdésének b) pontját a 13/2009. (III. 27.) KHEM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^44]: A 29. § (2) bekezdésének b) pontját a 13/2009. (III. 27.) KHEM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
