@@ -1,0 +1,3 @@
+## 3. § Az R. 10. §-a helyébe a következő rendelkezés lép:
+
+## „10. § Amennyiben más Európai Gazdasági Térségről szóló megállapodásban részes államban (a továbbiakban: EGT-állam) kiadott engedély alapján működő vasúti társaság Magyarország területén kíván olyan vasúti tevékenységet folytatni, amelynek során nyílt hozzáférésű vasúti pályahálózatot vesz igénybe, erre vonatkozó szándékát a pályakapacitás iránti igényének benyújtását megelőzően legalább 30 nappal köteles bejelenteni a vasúti igazgatási szervnek. A bejelentéshez mellékelnie kell a más EGT-államban kiadott működési engedélyt, valamint annak igazolását, hogy a kötelező baleseti kárfedezeti képességét biztosító szerződésének hatálya Magyarországra kiterjed. ”
