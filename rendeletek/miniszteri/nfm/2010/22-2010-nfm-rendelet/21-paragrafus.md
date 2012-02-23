@@ -9,3 +9,7 @@
 (4) A közlekedési hatóság a vasúti járművezetői engedély kiállításakor, valamint a vasúti társaság a tanúsítvány kiállításakor figyelembe veszi a vasúti járművezető által már megszerzett valamennyi szakmai kompetenciát.
 
 (5) Az e rendelet 16. § (1) bekezdésében meghatározott egyeztetésre vonatkozóan 2011. október 10-éig a vasúti járművezetőket foglalkoztató vasúti társaságok – a reprezentatív szakszervezetekkel egyeztetett – szabályzatot kötelesek készíteni.
+
+(6)[^9] Az e rendelet hatálybalépését megelőzően kiadott vasúti járművezetésre jogosító igazolványt az e rendelet szerinti vasúti járművezetői engedély kiadásakor a közlekedési hatóság bevonja.
+
+[^9]: A 21. § (6) bekezdését a 7/2012. (II. 15.) NFM rendelet 4. §-a iktatta be.
