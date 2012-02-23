@@ -1,0 +1,3 @@
+## 1. § A vasúti rendszer kölcsönös átjárhatóságáról szóló 30/2010. (XII. 23.) NFM rendelet (a továbbiakban: R.) 3. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Amennyiben egy ÁME felülvizsgálata a követelmények megváltoztatásához vezet, a vasúti közlekedési hatóság (a továbbiakban: hatóság) hivatalból vizsgálja az ÁME új változatának a korábbi ÁME-változatok alapján már üzembe helyezett alrendszerekkel való összeegyeztethetőségét. Amennyiben indokolt biztonsági és kölcsönös átjárhatósági okok miatt szükség van az említett alrendszerek újbóli engedélyezésére, felújítására vagy korszerűsítésére, az ÁME-nek való megfelelésre határidő tűzésével engedélyezési eljárása során a hatóság az ügyfelet kötelezi, ha az ÁME nem rendelkezik a megfelelés határidejéről.”
