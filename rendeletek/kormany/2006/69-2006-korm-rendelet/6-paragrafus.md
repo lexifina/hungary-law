@@ -1,3 +1,5 @@
+## 5. §[^4]
+
 6. § (1) A MAB testületi tagság megszűnik:
 
 a) a megbízatás lejártával,
@@ -13,3 +15,5 @@ c) amennyiben a miniszterelnök – a miniszter javaslatára – a tag megbízó
 (4) A testületi tagság nem függeszthető fel és nem szüneteltethető.
 
 (5) Az (1) bekezdés c) pontja szerinti megszűnési okok bekövetkezése és a megbízólevél visszavonása közötti időszakban a tagot nem terhelik a tagsággal járó kötelezettségek, illetve nem gyakorolhatja a tagsággal járó jogosultságokat.
+
+[^4]: Az 5. §-t a 19/2012. (II. 22.) Korm. rendelet 34. § (1) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 31. §-át.
