@@ -19,3 +19,7 @@ g) a bérleti szerződés alapján határozott idejű üzembehelyezési engedél
 (3) A (2) bekezdés a) pontjában meghatározott eset az üzembehelyezési engedély hatálya nem érinti az időszakos vizsga hatályát, a vizsgaciklust.
 
 (4) A különleges menetet lebonyolító vasúti járműre a hatóság a különleges menet időtartamára szóló, határozott időre adja ki az üzembehelyezési engedélyt.
+
+(5)[^13] A hatóság az üzembehelyezési engedélyt felfüggeszti, ha a nemzeti vasúti járműnyilvántartásban vezetett üzembentartó, karbantartással megbízott szervezet adatainak változása esetén az előző üzembentartó, karbantartással megbízott szervezet nyilvántartásból való törlésének időpontjáig új üzembentartó, karbantartással megbízott szervezet nem ismeri el üzembentartói, karbantartással megbízott szervezeti jogállását.
+
+[^13]: A 21. § (5) bekezdését a 9/2012. (II. 15.) NFM rendelet 6. §-a iktatta be.

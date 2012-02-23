@@ -6,4 +6,6 @@
 
 (4) A vasúti jármű alvázszámát a jármű alvázának legalább két átellenes helyén, jól azonosíthatóan és olyan módon kell elhelyezni, hogy az roncsolásmentes eljárással ne legyen eltávolítható.
 
-(5) A vasúti jármű pályaszámának megváltozása esetében az alvázszámot áthúzással kell érvényteleníteni, és az új alvázszámot a (4) bekezdésben előírtak szerint – az alvázszám közelében – kell feltüntetni.
+(5)[^16]
+
+[^16]: A 29. § (5) bekezdését a 9/2012. (II. 15.) NFM rendelet 15. § (2) bekezdése hatályon kívül helyezte.

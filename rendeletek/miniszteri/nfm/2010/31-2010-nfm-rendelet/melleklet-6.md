@@ -160,7 +160,7 @@
 
 ## beírja a módosított tétel(ek)hez tartozó új tartalmat, majd továbbítja az űrlapot bármely olyan tagállam nyilvántartó szervéhez, ahol a járművet nyilvántartásba vették.
 
-6. melléklet a 31/2010. (XII. 23.) NFM rendelethez
+6. melléklet a 31/2010. (XII. 23.) NFM rendelethez[^27]
 
 A 12 JEGYŰ PÁLYASZÁM KIALAKÍTÁSA:
 
@@ -188,6 +188,8 @@ Megjegyzés: a megőrzött gőzmozdonyok megtartják eredeti pályaszámukat (22
 
 *– fenntartott számok: 220,*** 324,*** 341,*** 424,*** 490,***
 
+1.2. Az üzembentartó a 12 jegyű pályaszámtól eltérő, a szabványosnál nagyobb betűket és saját számjelzést is alkalmazhat, ha az hasznos az üzembentartó működése szempontjából. A saját számot az üzembentartó bárhol szabadon elhelyezheti, annak figyelembevételével, hogy a 12 jegyű pályaszám körüli 50 cm-es tartományban semmilyen egyéb szám, egyedi azonosító nem helyezhető el, illetve az hatósági jelzést nem takarhat el, és annak 20 cm-es tartományába nem helyezhető el.
+
 2. Transzeurópai hagyományos vasúti vontatójárművek új, 12 jegyű pályaszámai
 
 Első számjegy: ■X XX XXXX XXX – X
@@ -202,9 +204,9 @@ Második számjegy: X■XX XXXX XXX – X
 
 2 dízel mozdony (V≥100 km/h)
 
-3 nagysebességű villamos motorkocsi/vonat (V<190 km/h)
+3 nagysebességű villamos motorkocsi/vonat (V ≥ 190 km/h)
 
-4 villamos motorkocsi/vonat (V≥190 km/h)
+4 villamos motorkocsi/vonat (V < km/h)
 
 5 dízel motorkocsi/vonat
 
@@ -336,11 +338,13 @@ Bzmot 234 95 55 0117 234-X
 
 3. Helyi és elővárosi pályahálózaton közlekedő vasúti járművek 12 jegyű pályaszámai
 
-3.1. „Motorkocsik, motorvonatok, gumikerekes („kétéltű”) vasúti járművek (trolibuszok)
+3.1. „Motorkocsik, motorvonatok, gumikerekes („kétéltű”) vasúti járművek.
 
 A bevezetőben említettek szerint ezekre a járművekre az irányelv előírásai nem vonatkoznak, ennek ellenére az egységes nemzeti járműnyilvántartás kialakítása érdekében szükséges az azonos számformátumot, nyilvántartási rendszert alkalmazni.
 
-A 12 jegyű pályaszámot a városi járműveken általános esetekben elegendő – hatósági azonosítóként – az azt tartalmazó „pályaszám-táblán” az „A” végen levő vezetőállásban a fülke belső falán a mennyezet alatt, ennek hiányában a homlokfal belső felületén a mennyezet alatt elhelyezni (l. 5. sz. melléklet). A pályaszám táblák kivitelét a 4. sz. melléklet tartalmazza.
+A 12 jegyű pályaszámot a városi járműveken általános esetekben elegendő – hatósági azonosítóként – az azt tartalmazó „pályaszám-táblán” az „A” végen levő vezetőállásban a fülke belső falán a mennyezet alatt, ennek hiányában a homlokfal belső felületén a mennyezet alatt elhelyezni.
+
+A járműveket az előzőekben megadott pályaszámokkal kell ellátni hatósági jelzésként. A jármű kocsiszekrényére csak a pályaszám kilencedik, tizedik és tizenegyedik helyen lévő sorszámát (pl. 101) kell legalább 80 mm magasságú számjegyekkel, 2000 mm-nél nem magasabbra felfesteni, mindkét oldalon – lehetőleg a vezetőállás közelében – és a járművek homlokfelületein. A felirat színválasztásánál alapszínnel biztosítani kell a megfelelő kontrasztot. A teljes pályaszámot a járművek vezetőállásában, arra alkalmas, jól látható helyen kell kihelyezni rozsdamentes fém táblán, vagy a táblával megegyező kivitelű matricán. Ez utóbbi esetben azonban a melléklet szerinti normál kivitelű rozsdamentes fém táblát a jármű kocsiszekrényén vagy alvázán, a vezetőállásos jármű esetén a melléklet szerinti erősített kivitelű rozsdamentes táblát a vezetőállásos járműrész alvázán a jobb oldalon adott esetben az alvázszám-tábla mellett a megadott módon kell elhelyezni.
 
 Első számjegy:
 
@@ -508,3 +512,4 @@ Az alsorozatjeleket a kocsitípusra jellemzően, az ÁME P. melléklete szerint 
 
 [^(1)]: Ezen űrlapot elektronikus formában is be lehet nyújtani.
 [^(3)]: Első nyilvántartásba vételkor nem kell kitölteni.
+[^27]: A 6. melléklet a 9/2012. (II. 15.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.

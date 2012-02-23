@@ -4,7 +4,7 @@
 
 ## 3. A vasúti járművekre vonatkozó hatósági engedélyek
 
-3. § (1) Vasúti jármű gyártásához, beszerzésére vonatkozó közbeszerzési eljárás lefolytatásához, belföldi vasúti pályahálózaton való közlekedtetéséhez – ideértve a határon átmenő közlekedtetést is – a (2) bekezdésben meghatározott kivételekkel, a vasúti közlekedési hatóság (a továbbiakban: hatóság) által kiadott
+3. § (1)[^3] Vasúti jármű gyártásához, beszerzésére vonatkozó közbeszerzési eljárás lefolytatásához, belföldi vasúti pályahálózaton való közlekedtetéséhez a (2) bekezdésben meghatározott kivételekkel, a vasúti közlekedési hatóság (a továbbiakban: hatóság) által kiadott
 
 a) 4. § (1) bekezdésben szabályozott esetekben elvi előzetes típusengedély,
 
@@ -28,8 +28,11 @@ ba) a nemzetközi szerződés alapján közlekedő,
 
 bb) a nem magyarországi pályaszámú, TEN, RIV vagy RIC jellel – kivéve az e rendelet előírásai szerint különleges RIV vagy RIC jelet – ellátott,
 
-bc) a külföldi megrendelésre gyártott és valamely EGT-államban engedélyezett, Magyarországon próbafutást végző, valamint
+bc)[^4]
 
 bd) a rendkívüli küldeményként közlekedő
 
 vasúti jármű belföldi vasúti hálózaton való közlekedetéséhez.
+
+[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 9/2012. (II. 15.) NFM rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdés b) pont bc) alpontját a 9/2012. (II. 15.) NFM rendelet 15. § (2) bekezdése hatályon kívül helyezte.

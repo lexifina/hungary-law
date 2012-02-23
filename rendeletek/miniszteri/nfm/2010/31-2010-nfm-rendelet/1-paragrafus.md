@@ -14,7 +14,7 @@ c) hatósági nyilvántartására
 
 vonatkozó szabályokat.
 
-(2) E rendelet hatálya – a sífelvonó kivételével – a vasúti pályahálózaton közlekedő, magyarországi pályaszámmal rendelkező következő járművekre és berendezésekre terjed ki:
+(2)[^1] E rendelet hatálya – a sífelvonó kivételével – a vasúti pályahálózaton közlekedő, következő járművekre és berendezésekre terjed ki:
 
 a) motorvonatok, motorkocsik,
 
@@ -27,3 +27,5 @@ d) teherkocsik, ideértve a tehergépkocsik szállítására tervezett járműve
 e) a vasúti pálya, pályahálózat és tartozékai építését és karbantartását szolgáló mobil berendezések,
 
 f) segély- és mentőszerelvényekbe sorozott járművek.
+
+[^1]: Az 1. § (2) bekezdés nyitó szövegrésze a 9/2012. (II. 15.) NFM rendelet 15. § (2) bekezdése szerint módosított szöveg.

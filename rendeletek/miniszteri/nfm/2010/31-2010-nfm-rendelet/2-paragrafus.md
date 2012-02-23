@@ -43,3 +43,7 @@
 20. üzemeltető: a vasúti járművel közlekedni jogosult vasúti társaság;
 
 21. üzembentartó: vasúti jármű tulajdonosa, vagy a tulajdonos által üzemeltetésre átadott, szerződésben felhatalmazott jogi vagy természetes személy vagy szervezet, amely a jármű közlekedés- és üzletbiztonsági állapotáért felelős, amely a nemzeti járműnyilvántartásban nyilvántartott.
+
+22.[^2] történelmi, muzeális vasúti jármű: az a közszolgáltatásban részt nem vevő vasúti jármű, amelyet muzeális intézmény nyilvántartásba vett, vagy amelynek gyártása 50 évnél régebben történt.
+
+[^2]: A 2. § 22. pontját a 9/2012. (II. 15.) NFM rendelet 1. §-a iktatta be.

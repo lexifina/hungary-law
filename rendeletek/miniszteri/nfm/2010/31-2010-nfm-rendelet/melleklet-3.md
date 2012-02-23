@@ -116,6 +116,8 @@
 
 | 6.7. | amennyiben a vasúti jármű a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények üzembe helyezéséről, időszakos vizsgálatáról és ellenőrzéséről szóló rendelet hatálya alá tartozik, a rendeletben meghatározott dokumentumokat. |
 
+| 6.8. | A jármű nemzeti járműnyilvántartásba történő felvételéhez az 1. számú és az 5. melléklet szerinti űrlapokat |
+
 | 7. | A vasúti jármű időszakos hatósági vizsgálata során be kell nyújtani a hatóság részére: |
 
 | 7.1. | a jármű tervszerű megelőző karbantartásának keretében elvégzett javítások szakszerűségét igazoló dokumentumokat; |
@@ -134,7 +136,41 @@
 
 | 8.1. | a vasúti jármű jellegtervét, |
 
-| 8.2. | a vasúti járműre vonatkozó 1. mellékletben felsorolt adatokat tartalmazó, a vasúti jármű üzembentartója, vagy feladója által kitöltött táblázatot, |
+| 8.2. | a vasúti járműre vonatkozó, az alábbi műszaki adatokat tartalmazó, a vasúti jármű üzembentartója vagy feladója által kitöltött dokumentumot: |
+
+| 8.2.1. | szerkesztési szelvény |
+
+| 8.2.2. | legnagyobb sebesség |
+
+| 8.2.3. | ütközők közötti hossz |
+
+| 8.2.4. | belső tengelytáv |
+
+| 8.2.5. | legnagyobb magasság |
+
+| 8.2.6. | legnagyobb szélesség |
+
+| 8.2.7. | vonókészülék típusa |
+
+| 8.2.8. | ütközőkészülék típusa |
+
+| 8.2.9. | energiaellátás (dízel, villamos, áramnem, teljesítmény, visszatáplálás van, nincs) |
+
+| 8.2.10. | fűtés fajtája, fűtési áramnemek |
+
+| 8.2.11. | fékberendezés típus |
+
+| 8.2.12. | fékezett tömeg (tonna, %) |
+
+| 8.2.13. | biztonsági felszerelések (vonatbefolyásoló, éberségi stb.) |
+
+| 8.2.14. | bejárható legkisebb sugár |
+
+| 8.2.15. | saját tömeg |
+
+| 8.2.16. | legnagyobb tengelyterhelés |
+
+| 8.2.17. | különleges előírások (vontatásra, tolatásra vonatkozó előírások, egyéb környezeti, éghajlati, földrajzi kikötések) |
 
 | 8.3. | a vasúti pálya, pályahálózat és tartozékai üzemeltetőjének nyilatkozatát arról, hogy a különleges menet lebonyolításához milyen műszaki, személyi és forgalomtechnikai feltételekkel járul hozzá, |
 
@@ -157,5 +193,17 @@
 | 10. | A valamely EGT-államban hatályos üzembehelyezési engedéllyel rendelkező jármű esetében a valamely EGT-államban bejelentett szervezetként elfogadott tanúsító szervezet mérési jegyzőkönyveit és egyéb bizonylatait eredeti nyelven a hatóság elfogadja, amennyiben az azokban foglalt megállapítások, végkövetkeztetések hiteles magyar fordítását a kérelmező csatolja. |
 
 | 11. | A bejelentett szervezetként el nem fogadott, vagy bejelentett szervezet által el nem fogadott vizsgáló intézet mérési jegyzőkönyvét és egyéb vizsgálati bizonylatát a magyar hatóság nem köteles elfogadni. |
+
+| 12. | Az 1984. július 1-je előtt üzembehelyezett, típusengedéllyel nem rendelkező járművek nyilvántartásba vételéhez az alábbiakat kell benyújtani: |
+
+| 12.1. | a vasúti járműre vonatkozó, 1. számú melléklet szerinti, a jármű típusát meghatározó adatokat tartalmazó táblázat, 2 példányban, valamint elektronikus formában, |
+
+| 12.2. | a 3. melléklet szerinti, 1., illetve 2. számú vasúthatósági nyilatkozat, 2 példányban, valamint elektronikus formában, |
+
+| 12.3. | az 5. melléklet szerinti mintának megfelelő űrlap benyújtása, 2 példányban, valamint elektronikus formában, |
+
+| 12.4. | vasúti tartálykocsi esetében: Magyarországon bejegyzett, független kazánbiztos vagy RID szakértő szakvéleménye a tartály és szerelvényei megfelelőségére vonatkozóan, |
+
+| 12.5. | a vasúti járműre vonatkozó, az 1984. július 1-jét megelőzően készült, a vasúti jármű forgalomba helyezésének, üzembehelyezésének alapjául szolgáló iratok másolatait, 2 példányban (műszaki leírás, jellegterv, jegyzőkönyv, futópróba jegyzőkönyv, bizonylat stb.). |
 
 3. melléklet a 31/2010. (XII. 23.) NFM rendelethez
