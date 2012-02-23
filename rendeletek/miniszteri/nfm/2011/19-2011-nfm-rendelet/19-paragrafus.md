@@ -8,8 +8,11 @@
 
 (4) Az írásbeli vizsgatevékenység követelményeinek nem felel meg az a vizsgázó, aki az írásbeli feladatokra adott válaszok több mint 25%-ára „nem felelt meg” minősítést kap.
 
-(5) Szóbeli vizsgatevékenység csak sikeres írásbeli vizsgatevékenység után kezdhető meg. A vizsgabiztos (a vizsgabizottság elnöke) az írásbeli vizsga eredményét a vizsgázóval a szóbeli vizsga előtt szóban közli. A vizsgázó kérésére lehetőséget kell biztosítani a kijavított írásbeli megtekintésére.
+(5)[^12] Összetett vizsga esetében a szóbeli vizsgatevékenység csak sikeres írásbeli vizsgatevékenység után kezdhető meg. A vizsgabiztos (a vizsgabizottság elnöke) az írásbeli vizsga eredményét a vizsgázóval a szóbeli vizsga előtt szóban közli. A vizsgázó kérésére lehetőséget kell biztosítani a kijavított írásbeli megtekintésére.
 
-(6) Gyakorlati vizsgatevékenység csak sikeres elméleti vizsgatevékenység után kezdhető meg. Vasúti járművezetési gyakorlati vizsgatevékenységen az a képzésben részt vevő vehet részt, aki a gyakorlati vizsga során használt vasúti pályahálózatra érvényes, sikeres vasúti pályahálózati ismereti vizsgával, és az adott járműre vonatkozó járműismereti modul elméleti és gyakorlati vizsgatémaköreiből sikeres vizsgával rendelkezik.
+(6)[^13] Összetett vizsga esetében a gyakorlati vizsgatevékenység csak sikeres elméleti vizsgatevékenység után kezdhető meg. Vasúti járművezetési gyakorlati vizsgatevékenységen az a képzésben részt vevő vehet részt, aki a gyakorlati vizsga során használt vasúti pályahálózatra érvényes, sikeres vasúti pályahálózati ismereti vizsgával, és az adott járműre vonatkozó járműismereti modul elméleti és gyakorlati vizsgatémaköreiből sikeres vizsgával rendelkezik.
 
 (7) Az alapvizsgát „megfelelt” vagy „nem felelt meg” minősítéssel kell értékelni. „Nem felelt meg” minősítést kap az a vizsgázó, aki egy vagy több vizsgatevékenységből „nem felelt meg” minősítést kapott.
+
+[^12]: A 19. § (5) bekezdése a 10/2012. (II. 15.) NFM rendelet 15. §-a szerint módosított szöveg.
+[^13]: A 19. § (6) bekezdése a 10/2012. (II. 15.) NFM rendelet 15. §-a szerint módosított szöveg.

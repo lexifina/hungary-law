@@ -2,7 +2,7 @@
 
 | 1. | Vasútszakmai oktató (vasúti műszaki-, vasúti forgalmi oktató) | A képző szervezet, illetve vasúti társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint a vasúti társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
 
-2. melléklet a 19/2011. (V. 10.) NFM rendelethez
+2. melléklet a 19/2011. (V. 10.) NFM rendelethez[^37]
 
 ## Időszakos oktatásra, illetve időszakos vizsgára kötelezett munkavállalók és az időszakos oktatás rendje
 
@@ -848,7 +848,7 @@ II. Elővárosi és helyi vasúti pályahálózat
 
 | Vasúti járművezető munkakörök, feladatkörök |
 
-| 33. | Közúti vasútijármű vezető | 30 | 10 | 20 | 3 |
+| 33. | Fogaskerekű vasúti járművezető | 30 | 10 | 20 | 3 |
 
 | 34. | Villamosmozdony-vezető | 30 | 10 | 20 | 3 |
 
@@ -887,3 +887,5 @@ II. Elővárosi és helyi vasúti pályahálózat
 | 6. | Sífelvonó-üzemvezető | 8 | 4 | 4 | 12 |
 
 III. Egysínű függővasúti pálya
+
+[^37]: A 2. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.

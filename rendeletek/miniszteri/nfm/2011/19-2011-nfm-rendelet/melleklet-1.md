@@ -1,4 +1,4 @@
-1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^2]
+1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^36]
 
 ## A rendelet alkalmazásakor figyelembe veendő munkakörök, feladatkörök és munkaköri csoportok
 
@@ -22,7 +22,7 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 
 | 7. | Ügyeletes tiszt (forgalmi) |
 
-| 8. | Vasútüzem vezető | Saját célú, turista, valamint térségi keskenynyomközű vasúti pályahálózaton a vasúti közlekedés szervezése, irányítása. |
+| 8. | Vasútüzem vezető | A vasúti közlekedési tevékenység szakmai irányításának ellátása |
 
 | 9. | Hálózati fő-üzemirányító | A vasúti pályahálózaton a vonatközlekedés hálózati, illetve területi lebonyolításának irányítása, felügyelete. Összefogja az operatív vonatforgalmi tervezést, mellyel biztosítja a hálózaton és a területeken történő optimális kapacitás kihasználást, felügyeli a vonatok fontossági sorrendjének betartását. Kapcsolatot tart, információt cserél a szomszédos vasutakkal a határforgalomban közlekedő valamennyi ki- és belépő vonatról. |
 
@@ -60,15 +60,15 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 
 | 26. | Tolatásvezető |
 
-| 27. | Vonali tolatásvezető | A sajátcélú vasúti pályahálózaton és a csomóponti kiszolgálást végző vonatoknál, továbbá a munkavonatoknál a vonatok közlekedése során forgalmi tevékenység végzése. A szükségessé váló tolatási mozgások lebonyolítása során a tolatásvezetői teendők ellátása. |
+| 27. | Vonali tolatásvezető, vonatvezető | A sajátcélú és keskeny nyomközű vasúti pályahálózaton és a csomóponti kiszolgálást végző vonatoknál, továbbá a munkavonatoknál a vonatok közlekedése során forgalmi tevékenység végzése. A szükségessé váló tolatási mozgások lebonyolítása során a tolatásvezetői teendők ellátása. |
 
 | 28. | Vonali kocsirendező | Nem személyszállító vonatnál – a kocsirendezői feladatokon túl – szükség esetén tolatás közben fék-kezelése, figyelő szolgálat és fedezési feladatok végezése. |
 
-| 29. | Kocsirendező | A tolatás-, illetve gurításvezető irányítása alatt a tolatásban (gurításban) részt vevő, kocsirendezői feladatok (járműkapcsoló-, mozgató-, megállító stb.) ellátása. |
+| 29. | Kocsirendező | A tolatás-, illetve gurításvezető irányítása alatt a tolatásban (gurításban) részt vevő, kocsirendezői feladatok (járműkapcsoló-, mozgató-, megállító stb.) ellátása, kézi vagy vegyes fékezéssel közlekedő vonatok sebességének tartása és megállásának elősegítése. |
 
 | 30. | Saruzó |
 
-| 31. | Fékező |
+| 31. | Fékező, vonatfékező |
 
 | 32. | Vezető váltókezelő | A helyszíni, vagy központi állítású, valamint gurítódombi berendezéshez tartozó váltók állítása, ellenőrzése, őrzése, továbbá a helyi viszonyoktól függően esetleg gondozása, egyes helyeken a helyhez kötött jelzők kezelése, szükség esetén sorompókezelés és a vonatok mozdonyvezetőinek indításra történő felhatalmazása megbízással. |
 
@@ -150,7 +150,7 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 
 | 68. | Személyszállítási technológus |
 
-| 69. | Vezető jegyvizsgáló (belföldi, nemzetközi) | Személyszállító vonatnál szolgálatot végző valamennyi vonatkísérő forgalmi szempontból rendelkezésre jogosult vezetője. A forgalmi helyzettől függően jogosult és kötelezhető a fékpróba megtartására. Szükség esetén tolatást vezet. Meghatározott esetekben végzi az induló vonatok mozdonyvezetőinek indításra történő felhatalmazását, valamint figyelő szolgálatot lát el. |
+| 69. | Vezető jegyvizsgáló (belföldi, nemzetközi), vonatvezető | Személyszállító vonatnál szolgálatot végző valamennyi vonatkísérő forgalmi szempontból rendelkezésre jogosult vezetője. A forgalmi helyzettől függően jogosult és kötelezhető a fékpróba megtartására. Szükség esetén tolatást vezet. Meghatározott esetekben végzi az induló vonatok mozdonyvezetőinek indításra történő felhatalmazását, valamint figyelő szolgálatot lát el. |
 
 | 70. | Jegyvizsgáló (belföldi, nemzetközi) | A jegyvizsgáló személyszállító vonaton – a kereskedelmi tevékenységén kívül – szükség esetén fékezési, figyelési és fedezési feladatokat végez. |
 
@@ -852,4 +852,4 @@ III. Egysínű függővasúti pálya
 
 IV. Valamennyi pályahálózat
 
-[^2]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+[^36]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése szerint módosított szöveg.
