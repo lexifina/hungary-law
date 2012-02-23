@@ -16,4 +16,6 @@ Felelős: nemzeti erőforrás miniszter
 
 Határidő: a bíróság határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a Budapesti Osztrák Iskola Alapítvány Alapító Okiratának módosításáról szóló 1217/2011. (VI. 28.) Korm. határozat.
+3.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
