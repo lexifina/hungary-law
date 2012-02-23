@@ -2,7 +2,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Ezzel egyidejűleg a Magyar Köztársaság nemzeti biztonsági stratégiájáról szóló 2073/2004. (IV. 15.) Korm. határozat hatályát veszti.
+## 3.[^2]
 
 1. melléklet az 1035/2012. (II. 21.) Korm. határozathoz
 
@@ -205,3 +205,5 @@ IV. A Nemzeti Biztonsági Stratégia végrehajtásának eszközrendszere
 50. Magyarországnak egyre növekvő mértékben kell rendelkeznie olyan képességekkel, amelyek komplex megelőzési rendszert működtetnek, természeti vagy ipari katasztrófák esetén gyorsan, hatékonyan és szervezetten reagálnak a lakosság életének, alapvető anyagi javainak védelme és a következmények minimalizálása érdekében. Kiemelt figyelmet kell fordítani arra, hogy az eseményekre reagálás a lehető legkisebb mértékben zavarja a lakosság életét és a termelő egységek tevékenységét. Ennek érdekében az érintett szervezeteknek rendelkezniük kell a vezetéshez, irányításhoz és a végrehajtáshoz szükséges eszközökkel, mind hazai, mind nemzetközi viszonylatban. A nemzetközi folyamatoknak és igényeknek megfelelően a belső válságkezelő képességek külső alkalmazhatóságára és a területen megvalósítható képességfejlesztés-optimalizálásra is kiemelt figyelmet kell fordítani.
 
 51. A biztonság átfogó értelmezéséből következik, hogy a Nemzeti Biztonsági Stratégia végrehajtásából adódó feladatok számos kormányzati és nem-kormányzati szervet érintenek. A biztonság összkormányzati megközelítéséből adódóan ezeket a feladatokat – a kormányzati szervek vonatkozásában – az állami intézményrendszer összehangolt munkájával és a rendelkezésre álló legszélesebb körű eszközrendszer igénybevételével kell végrehajtani. Az egyes állami intézmények biztonsággal összefüggő tevékenységének összhangban kell állnia a Nemzeti Biztonsági Stratégiával, és az ágazati stratégiák időszakos felülvizsgálata során figyelembe kell venni a Nemzeti Biztonsági Stratégia releváns rendelkezéseit.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
