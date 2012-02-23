@@ -10,6 +10,8 @@ d) balesetet, katasztrófát, rendkívüli eseményt, vagy súlyos káreseményt
 
 e) az ÁME-t az EGT-államokon kívüli, az EGT fő vasúti hálózatának nyomtávjától eltérő nyomtávot alkalmazó országokból érkező vagy azokba tartó járművek esetében kell alkalmazni.
 
-(2) Az ÁME-től való eltérés engedélyezését – az eltérés és az eltérés okainak megjelölésével – az engedélyt kérő a vasúti közlekedési hatóságnál (a továbbiakban: hatóság) kérelmezi. Az eltérés iránti kérelemről a hatóság értesíti az Európai Bizottságot (a továbbiakban: Bizottság). Az értesítéshez csatolni kell a 7. melléklet alapján összeállított dokumentációt, amely ismerteti azt az ÁME-t vagy annak azt a részét, amelyet nem kívánnak alkalmazni, továbbá meg kell jelölni azokat az előírásokat is, amelyeket helyette alkalmazni terveznek.
+(2)[^3] Az ÁME-től való eltérés engedélyezését – az eltérés és az eltérés okainak megjelölésével – az engedélyt kérő a hatóságnál kérelmezi. Az eltérés iránti kérelemről a hatóság értesíti az Európai Bizottságot (a továbbiakban: Bizottság). Az értesítéshez csatolni kell a 7. melléklet alapján összeállított dokumentációt, amely ismerteti azt az ÁME-t vagy annak azt a részét, amelyet nem kívánnak alkalmazni, továbbá meg kell jelölni azokat az előírásokat is, amelyeket helyette alkalmazni terveznek.
 
 (3) A Bizottság döntése alapján a hatóság dönt az ÁME-tól történő eltérés engedélyezéséről és az engedélyezés feltételeiről.
+
+[^3]: A 4. § (2) bekezdése a 8/2012. (II. 15.) NFM rendelet 6. §-a szerint módosított szöveg.

@@ -50,4 +50,6 @@
 
 ## Az EK-megfelelőségi vagy -alkalmazhatósági nyilatkozatot és a kísérő dokumentumokat keltezéssel kell ellátni, és alá kell írni. A nyilatkozatot a műszaki dokumentáció nyelvével azonos nyelven kell írni.
 
-4. melléklet a 30/2010. (XII. 23.) NFM rendelethez
+4. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^9]
+
+[^9]: A 4. melléklet a 8/2012. (II. 15.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
