@@ -1,3 +1,3 @@
-## 10. §[^1]
+## 10. §[^10]
 
-[^1]: A 10. § a 14. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.
+[^10]: A 10. § a 14. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.

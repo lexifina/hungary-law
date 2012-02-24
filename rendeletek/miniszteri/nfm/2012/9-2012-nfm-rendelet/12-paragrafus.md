@@ -1,3 +1,3 @@
-## 11. § Az R. 37. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 11. §[^11]
 
-## „(6) Az olyan, magyarországi különleges RIV vagy RIC jellel ellátott olyan vasúti jármű, amelynek magyarországi közlekedésére magyar vasúti társaság 2010. december 31-e előtt adott engedélyt, 2012. június 30-át követően csak üzembehelyezési engedély alapján közlekedtethető.”
+[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

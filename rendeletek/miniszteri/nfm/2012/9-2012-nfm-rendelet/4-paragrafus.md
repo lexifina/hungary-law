@@ -1,3 +1,3 @@
-## 3. § Az R. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## „(2) Honosítási eljárásban elbírálandó típusengedély iránti kérelmet a jármű tulajdonosa vagy annak meghatalmazott képviselője nyújthat be, amelyhez mellékelni kell a 2. melléklet 4. pontjában felsorolt dokumentumokat.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

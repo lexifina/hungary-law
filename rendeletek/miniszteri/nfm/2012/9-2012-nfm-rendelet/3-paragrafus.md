@@ -1,3 +1,3 @@
-## 2. § Az R. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „(1) Vasúti jármű beszerzésére vagy átalakítására vonatkozó közbeszerzési eljárás elvi előzetes típusengedély birtokában folytatható le. A vasúti jármű beszerzésére vagy átalakítására vonatkozó szállítási előszerződés műszaki feltételei alapján elvi előzetes típusengedély iránti kérelmet kell benyújtani a hatósághoz. Ha a hatóság elvi előzetes típusengedélyt adott ki, az előzetes típusengedély kiadása iránti eljárásban annak alapján határoz.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

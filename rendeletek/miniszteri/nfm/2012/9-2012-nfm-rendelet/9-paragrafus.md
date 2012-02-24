@@ -1,3 +1,3 @@
-## 8. § Az R. 26. §-a a következő (4) bekezdéssel egészül ki:
+## 8. §[^8]
 
-## „(4) Az (1) bekezdés a) pontjától eltérően a csak saját célú pályahálózaton közlekedő vontatójárművek esetében az időszakos vizsgaciklus 6 év.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
