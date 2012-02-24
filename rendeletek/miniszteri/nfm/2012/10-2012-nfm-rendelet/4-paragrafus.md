@@ -1,1 +1,0 @@
-## „(3a) Az egyszerűsített képzési engedély alapján a vasúti társaság a vasúti járművezetői munkakör betöltéséhez szükséges alapvizsgával rendelkező munkavállalói részére további típus-, vonal- és állomásismeret alapképzést nyújthat. Ebben az esetben a (2) bekezdés a) és b) pontjában meghatározott korlátozásokat nem kell alkalmazni.”

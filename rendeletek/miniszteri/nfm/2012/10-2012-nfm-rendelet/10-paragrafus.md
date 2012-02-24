@@ -1,3 +1,0 @@
-## 9. § Az R. 34. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az alapvizsga eredményéről a vizsgaközpont a vizsgázó részére vizsgaigazolást ad, amely alapján a hatóság hatósági bizonyítványt vagy hatósági igazolványt állít ki. Az időszakos vizsga eredményéről a vizsgaközpont a munkavállaló részére vizsgaigazolást állít ki. A kiállított vizsgaigazolásról és az időszakos vizsga eredményéről a vizsgaközpont írásban tájékoztatja a képző-, vagy regisztrált szervezetet. Az időszakos vizsgáról szóló vizsgaigazolást a vizsgázó köteles magánál tartani és a hatóság felszólítására felmutatni.”
