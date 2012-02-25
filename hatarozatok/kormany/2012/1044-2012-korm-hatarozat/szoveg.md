@@ -20,4 +20,6 @@ Határidő: a bíróság határozatának jogerőre emelkedését követően azon
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. Hatályát veszti a Tempus Közalapítvány Alapító Okiratának módosításáról szóló 1199/2011. (VI. 17.) Korm. határozat.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
