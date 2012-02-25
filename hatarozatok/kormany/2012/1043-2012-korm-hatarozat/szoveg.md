@@ -32,4 +32,6 @@ Határidő: az Alapítvány bírósági nyilvántartásból való törlését k�
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti az Ipar a Korszerű Mérnökképzésért alapítvány megszüntetéséről szóló 1124/2011. (IV. 28.) Korm. határozat.
+6.[^2]
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
