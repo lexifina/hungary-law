@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-30-4
 | 2011-12-30 | 2010-23-30-41.36 | 97/2011. (XII. 31.) OGY határozat |
 | 2012-02-13 | 2010-23-30-41.37 | 1/2012. (II. 21.) OGY határozat |
 | 2012-02-20 | 2010-23-30-41.38 | 7/2012. (II. 22.) OGY határozat |
+| 2012-02-27 | 2010-23-30-41.39 | 9/2012. (II. 29.) OGY határozat |
