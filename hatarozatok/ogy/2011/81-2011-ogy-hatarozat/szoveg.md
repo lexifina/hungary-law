@@ -2,7 +2,7 @@
 
 Elnök: dr. Pósán László (Fidesz)
 
-Alelnök: Z. Kárpát Dániel (Jobbik)
+Alelnök: Bana Tibor (Jobbik)[^2]
 
 Tagok: Bartos Mónika (Fidesz)
 
@@ -26,8 +26,11 @@ Harangozó Gábor (MSZP)
 
 Mandur László (MSZP)
 
-Bana Tibor (Jobbik)
+Schön Péter (Jobbik)[^3]
 
 Osztolykán Ágnes (LMP)
 
 2. E határozat elfogadásakor lép hatályba.
+
+[^2]: A 10/2012. (II. 29.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 10/2012. (II. 29.) OGY határozat 1. pontjával megállapított szöveg.

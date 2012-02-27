@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-81-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-10-24 | 2011-81-30-41.1 | 81/2011. (X. 28.) OGY határozat |
+| 2012-02-27 | 2011-81-30-41.2 | 10/2012. (II. 29.) OGY határozat |
