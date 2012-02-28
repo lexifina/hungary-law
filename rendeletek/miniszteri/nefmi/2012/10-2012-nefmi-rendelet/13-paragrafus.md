@@ -1,0 +1,3 @@
+13. § (1) Az elő-főcsoportba nem tartozó esetek a fődiagnózis alapján kerülnek a főcsoportba besorolásra. A főcsoportba tartozik az adott szervrendszer minden megbetegedése, amennyiben az az adott szervrendszerre lokalizáltan jelenik meg. A fertőzéses eredetű megbetegedések, valamint a sérülések, mérgezések, daganatos betegségek önálló főcsoporttal is rendelkeznek, amelyekbe azonban csak a szisztémás, több szervrendszert érintő megbetegedések kerülhetnek.
+
+(2) A főcsoportokba sorolást követően az adott betegségek mellett már csak meghatározott beavatkozások fogadhatók el besorolási tényezőként. Nem megfelelő fődiagnózis választása esetén az elvégzett beavatkozás már nem besorolási tényező.

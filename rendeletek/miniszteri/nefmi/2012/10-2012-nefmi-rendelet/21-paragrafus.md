@@ -1,0 +1,3 @@
+21. § (1) A rehabilitációs ellátási program szerinti nappali ellátás keretében rehabilitációs tevékenységnek elfogadott, a 16. mellékletben szereplő OENO kódok esetén az adatlapon a mennyiség rovatba a tevékenység elvégzésének tényleges időtartamát kell beírni percben, kezelési naponként.
+
+(2) A rehabilitáció eredményességének mérése érdekében a rehabilitációs ellátási program szerinti nappali ellátás keretében a nappali ellátási program kezdetén, a program közepén és végén, a beteg hazabocsátásakor szükséges a beteg állapotát felmérni, és a beteg állapotának megfelelő – a 9. mellékletben szereplő – funkcionális kódot rögzíteni. Az adatlapon a köztes kezelési napokon az előző felmérés eredményét kell feltüntetni.
