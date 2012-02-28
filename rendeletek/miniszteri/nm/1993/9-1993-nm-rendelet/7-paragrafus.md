@@ -10,7 +10,7 @@
 
 (5)[^56]
 
-(6)[^57] Az egészségügyi ellátórendszer fejlesztéséről szóló törvény alapján befogadott nappali és kúraszerű ellátásra szerződött járóbeteg-szakellátást nyújtó szolgáltató a 10/a. számú mellékletben önálló elszámolási tételként meghatározott nappali, illetve kúraszerű ellátásokat – kivéve a (6a) bekezdés szerinti rehabilitációs ellátási program szerinti nappali ellátásokat – a hozzárendelt pontértéken számolhatja el a járóbeteg-szakellátás kódlistájának alkalmazásáról szóló szabálykönyvben meghatározott szabályok szerint.
+(6)[^57] Az egészségügyi ellátórendszer fejlesztéséről szóló törvény alapján befogadott nappali és kúraszerű ellátásra szerződött járóbeteg-szakellátást nyújtó szolgáltató a 10/a. számú mellékletben önálló elszámolási tételként meghatározott nappali, illetve kúraszerű ellátásokat – kivéve a (6a) bekezdés szerinti rehabilitációs ellátási program szerinti nappali ellátásokat – a hozzárendelt pontértéken számolhatja el az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeletben meghatározott szabályok szerint.
 
 (6a)[^58] Az egészségügyi ellátórendszer fejlesztéséről szóló törvény alapján befogadott nappali ellátásra szerződött járóbeteg-szakellátást nyújtó szolgáltató, valamint a 22 mozgásszervi rehabilitáció és 09 neurológia szakmákban nappali kórházi ellátásra szerződött fekvőbeteg szakellátást nyújtó szolgáltató az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 2. § r) pontja szerinti rehabilitációs ellátási program szerinti nappali ellátásokat a 18. számú mellékletben meghatározott szabályok és paraméterek alapján számolhatja el.
 
@@ -20,5 +20,5 @@
 [^54]: A 7. § (4) bekezdése a 48/2005. (XI. 8.) EüM rendelet 2. §-ával megállapított, a 36/2011. (VI. 27.) NEFMI rendelet 6. §-a szerint módosított szöveg.
 [^55]: A 7. § (4a) bekezdését a 36/2011. (VI. 27.) NEFMI rendelet 2. §-a iktatta be.
 [^56]: A 7. § (5) bekezdését újonnan a 35/2010. (V. 14.) EüM rendelet 3. §-a iktatta be, újból hatályon kívül helyezte a 4/2012. (I. 12.) NEFMI rendelet 5. §-a.
-[^57]: A 7. § (6) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 2. §-a iktatta be, szövege a 4/2012. (I. 12.) NEFMI rendelet 4. §-a szerint módosított szöveg.
+[^57]: A 7. § (6) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 2. §-a iktatta be, szövege a 4/2012. (I. 12.) NEFMI rendelet 4. §-a, a 9/2012. (II. 28.) NEFMI rendelet 9. § b) pontja szerint módosított szöveg.
 [^58]: A 7. § (6a) bekezdését a 4/2012. (I. 12.) NEFMI rendelet 1. §-a iktatta be.
