@@ -20,7 +20,7 @@ db) a gyógyszerrel történt kezeléssel kapcsolatos szakmai folyóiratban köz
 
 dc) a hazai, illetve nemzetközi ajánlásokat,
 
-## vagy a (6) bekezdés szerinti gyógyszer esetén a külön jogszabály szerinti, az egészségügyi miniszter által tájékoztatóban közzétett azon protokollnak a megjelölését, amelyben az alkalmazni kívánt gyógyszer szerepel,
+vagy a (6) bekezdés szerinti gyógyszer esetén a külön jogszabály szerinti, az egészségügyi miniszter által tájékoztatóban közzétett azon protokollnak a megjelölését, amelyben az alkalmazni kívánt gyógyszer szerepel,
 
 e) a beteg nevét, születési idejét, TAJ számát, kiskorú beteg, illetve cselekvőképtelen beteg esetén az egészségügyről szóló 1997. évi CLIV. törvény 16. § (2) bekezdése szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) nevét.
 
@@ -32,7 +32,7 @@ b) a beteg, illetve a nyilatkozattételre jogosult személy nyilatkozatát, hogy
 
 c)–d)[^13]
 
-(6)[^14] Fekvőbeteg gyógyintézetben alkalmazni kívánt gyógyszer esetén, amennyiben az adott gyógyszer szerepel az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 3. számú mellékletében foglalt homogén betegségcsoportok 5.0 verzióhoz kapcsolódó, az egészségügyi miniszter által tájékoztatóban közzétett Besorolási Kézikönyv „Besorolási Táblázatok” fejezetében besorolt protokollokban, továbbá a Besorolási Kézikönyv függelékében kihirdetett, nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban, úgy a kérelemhez nem kell csatolni az (5) bekezdés a) pontja szerinti nyilatkozatot.
+(6)[^14] Fekvőbeteg gyógyintézetben alkalmazni kívánt gyógyszer esetén, amennyiben az adott gyógyszer szerepel az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 3. számú mellékletében foglalt a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeletben besorolt protokollokban szereplő, nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban, úgy a kérelemhez nem kell csatolni az (5) bekezdés a) pontja szerinti nyilatkozatot.
 
 (7)[^15] A GYEMSZI a kérelem elbírálása során vizsgálja továbbá, hogy a készítmény kérelmezett indikációjával kapcsolatosan klinikai vizsgálat, illetve forgalomba hozatali engedély módosítása iránti kérelem van-e folyamatban valamelyik EGT tagállamban.
 
@@ -57,7 +57,7 @@ c)–d)[^13]
 [^11]: A 2/A. § (5) bekezdés bevezető szövegrésze a 28/2009. (VIII. 7.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
 [^12]: A 2/A. § (5) bekezdés a) pontja a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) és d) pontja szerint módosított szöveg.
 [^13]: A 2/A. § (5) bekezdés c)–d) pontját a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés a) pontja hatályon kívül helyezte, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
-[^14]: A 2/A. § (6) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg, e módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
+[^14]: A 2/A. § (6) bekezdése a 9/2012. (II. 28.) NEFMI rendelet 13. §-ával megállapított szöveg.
 [^15]: A 2/A. § (7) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^16]: A 2/A. § (8) bekezdése a 28/2009. (VIII. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^17]: A 2/A. § (9) bekezdése a 20/2010. (IV. 29.) EüM rendelet 5. § (1) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.

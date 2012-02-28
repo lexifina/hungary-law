@@ -12,7 +12,7 @@ b) a gyógyszer tartós alkalmazásától az adott beteg esetében az előzetes 
 
 c) a vény kiváltására nyitva álló időtartam alatt – előre láthatóan – nem szükséges a beteg állapotának olyan orvosi ellenőrzése, amely a rendelt készítmény alkalmazását alapvetően befolyásolhatja,
 
-## az orvos a (2) bekezdéstől eltérően 30 napot meghaladó mennyiségű gyógyszert – legfeljebb 3 havi időtartamra, vényenként 1 havi mennyiségben – is rendelhet. A 30 napot meghaladó gyógyszerrendelés tényét és azt, hogy a rendelt gyógyszer mely időpontig (időtartamig) elegendő a beteg számára, a beteg nyilvántartásában rögzíteni kell.
+az orvos a (2) bekezdéstől eltérően 30 napot meghaladó mennyiségű gyógyszert – legfeljebb 3 havi időtartamra, vényenként 1 havi mennyiségben – is rendelhet. A 30 napot meghaladó gyógyszerrendelés tényét és azt, hogy a rendelt gyógyszer mely időpontig (időtartamig) elegendő a beteg számára, a beteg nyilvántartásában rögzíteni kell.
 
 (4) Az orvos a (2)–(3) bekezdésben foglaltaktól eltérően – kivételesen, betegellátási érdekből – a gyógyszer alkalmazásának szükségességéig terjedő időtartamra, de legfeljebb egy évre elegendő gyógyszermennyiséget rendelhet egy vényen, amennyiben
 

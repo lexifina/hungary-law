@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-44-20-0
 | 2012-01-01 | 2004-44-20-0M.21 | 52/2005. (XI. 18.) EüM rendelet |
 | 2012-01-04 | 2004-44-20-0M.22 | 2/2012. (I. 3.) NEFMI rendelet |
 | 2012-02-01 | 2004-44-20-0M.23 | 2/2012. (I. 3.) NEFMI rendelet |
+| 2012-02-28 | 2004-44-20-0M.24 | 9/2012. (II. 28.) NEFMI rendelet |
