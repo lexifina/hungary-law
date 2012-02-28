@@ -18,7 +18,7 @@ d) értékeli a GYÓGYINFOK által szolgáltatott adatokat, háttérszámításo
 
 e) a c) és d) pontok szerinti feladatokat elvégzi a soron kívüli karbantartás során,
 
-f) végzi a járóbeteg-szakellátás tevékenységi kódlistájának alkalmazásáról szóló Szabálykönyv (NK. 1994.), (a továbbiakban: Szabálykönyv) általános revízióját –, az adott szakmában használt beavatkozások meghatározásait alapul véve –, így különösen:
+f)[^28] végzi az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeletben foglaltak általános revízióját –, az adott szakmában használt beavatkozások meghatározásait alapul véve –, így különösen:
 
 fa) a nem szakmaspecifikus kódolási kérdéseket szabályozza,
 
@@ -28,14 +28,15 @@ fc) végső állásfoglalást alakít ki,
 
 g) tanulmányozza, összehasonlítja, elemzi a más országokban alkalmazott finanszírozási rendszereket, és kapcsolatot tart a kódkarbantartást végző külföldi partnerszervezetekkel.
 
-(6)[^28] A Munkabizottság elnöke a minisztert havonta tájékoztatja a munkatervben foglalt feladatok végrehajtásáról, továbbá a Munkabizottság által megfogalmazott, szakmapolitikai döntést igénylő kérdéseket válaszadásra soron kívül előterjeszti.
+(6)[^29] A Munkabizottság elnöke a minisztert havonta tájékoztatja a munkatervben foglalt feladatok végrehajtásáról, továbbá a Munkabizottság által megfogalmazott, szakmapolitikai döntést igénylő kérdéseket válaszadásra soron kívül előterjeszti.
 
-(7)[^29] A Munkabizottság szükség szerint, de legalább évente javaslatot tesz a miniszter részére a módosítandó finanszírozási kódok és paraméterek elfogadására és közzétételére. A Munkabizottság a miniszter döntéshozatalának előkészítéséhez a hatásvizsgálatok alapján egyidejűleg több javaslatot, illetve prioritásokat fogalmazhat meg.
+(7)[^30] A Munkabizottság szükség szerint, de legalább évente javaslatot tesz a miniszter részére a módosítandó finanszírozási kódok és paraméterek elfogadására és közzétételére. A Munkabizottság a miniszter döntéshozatalának előkészítéséhez a hatásvizsgálatok alapján egyidejűleg több javaslatot, illetve prioritásokat fogalmazhat meg.
 
 [^23]: Az 5. § (1) bekezdése a 62/2007. (XII. 29.) EüM rendelet 3. §-ával megállapított szöveg.
 [^24]: Az 5. § új (2) bekezdését a 26/2001. (VIII. 2.) EüM rendelet 3. §-ának (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (2)-(5) bekezdés számozását (3)-(6) bekezdésre változtatta.
 [^25]: Az 5. § eredeti (2) bekezdés számozását a 26/2001. (VIII. 2.) EüM rendelet 3. §-ának (2) bekezdése (3) bekezdésre változtatta.
 [^26]: Az 5. § eredeti (3) bekezdés számozását a 26/2001. (VIII. 2.) EüM rendelet 3. §-ának (2) bekezdése (4) bekezdésre változtatta.
 [^27]: Az 5. § eredeti (4) bekezdés számozását a 26/2001. (VIII. 2.) EüM rendelet 3. §-ának (2) bekezdése (5) bekezdésre változtatta.
-[^28]: Az 5. § eredeti (5) bekezdés számozását a 26/2001. (VIII. 2.) EüM rendelet 3. §-ának (2) bekezdése (6) bekezdésre változtatta, szövegét a 3. § (3) bekezdése állapította meg.
-[^29]: Az 5. § (7) bekezdését a 26/2001. (VIII. 2.) EüM rendelet 3. §-ának (3) bekezdése iktatta a szövegbe.
+[^28]: Az 5. § (5) bekezdés f) pont nyitó szövegrésze a 9/2012. (II. 28.) NEFMI rendelet 12. §-a szerint módosított szöveg.
+[^29]: Az 5. § eredeti (5) bekezdés számozását a 26/2001. (VIII. 2.) EüM rendelet 3. §-ának (2) bekezdése (6) bekezdésre változtatta, szövegét a 3. § (3) bekezdése állapította meg.
+[^30]: Az 5. § (7) bekezdését a 26/2001. (VIII. 2.) EüM rendelet 3. §-ának (3) bekezdése iktatta a szövegbe.

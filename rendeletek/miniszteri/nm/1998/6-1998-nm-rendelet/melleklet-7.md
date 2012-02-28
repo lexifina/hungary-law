@@ -1,4 +1,4 @@
-## A fekvőbeteg-ellátás ráfordítási adatai
+## M801565A_0
 
 | A fekvőbeteg-ellátás ráfordítási adatai |
 
@@ -36,7 +36,7 @@
 
 7. számú melléklet a 6/1998. (III. 11.) NM rendelethez
 
-## Kórházi eset finanszírozási egységének költségkalkulációs sémája
+Kórházi eset finanszírozási egységének költségkalkulációs sémája
 
 ---------------------
 

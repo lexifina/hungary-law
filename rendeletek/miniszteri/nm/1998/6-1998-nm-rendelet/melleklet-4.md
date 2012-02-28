@@ -1,6 +1,6 @@
-4. számú melléklet a 6/1998. (III. 11.) NM rendelethez[^34]
+4. számú melléklet a 6/1998. (III. 11.) NM rendelethez[^36]
 
-## Szervezeti egység ______ évi költsége
+Szervezeti egység ______ évi költsége
 
 ## (költségadatok ezer forintban)
 
@@ -120,4 +120,4 @@ I. Működési költségek
 
 II. Amortizáció
 
-[^34]: A 4. számú melléklet a 26/2001. (VIII. 2.) EüM rendelet 4. §-a (4) bekezdésének b) pontjával megállapított szöveg.
+[^36]: A 4. számú melléklet a 26/2001. (VIII. 2.) EüM rendelet 4. §-a (4) bekezdésének b) pontjával megállapított szöveg.

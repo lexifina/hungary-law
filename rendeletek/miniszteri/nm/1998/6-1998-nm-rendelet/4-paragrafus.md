@@ -18,7 +18,7 @@ g)[^22]
 
 h) az elnök eseti felkérése alapján a Magyar Gyógyszerész Kamara szakmai szervezete és/vagy az országos intézet(ek), szakmai kollégium(ok)
 
-## által delegált, valamint a miniszter által felkért külső szakértő tagokból áll.
+által delegált, valamint a miniszter által felkért külső szakértő tagokból áll.
 
 (3) A Munkabizottság működésével kapcsolatos szervező, döntés-előkészítő, koordináló és adminisztratív feladatokat a minisztérium biztosítja.
 

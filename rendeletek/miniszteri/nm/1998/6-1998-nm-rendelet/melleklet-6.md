@@ -1,4 +1,4 @@
-## Kalkulációs lap orvosi eljárásokhoz
+## M801561A_0
 
 | Kalkulációs lap orvosi eljárásokhoz |
 
@@ -22,6 +22,8 @@
 
 | 1.2.2. | Szakmai anyagok összesen |  |  |  |
 
+## M801561A_1
+
 | Kód | Közvetlen költségek | Mennyiség | Egység- költség | Összes költség |
 
 | Egyszerhasználatos eszközök |
@@ -37,6 +39,8 @@
 | 1.2.4. | Gyógyszerek összesen |  |  |  |
 
 |  | Összesen: |  |  |  |
+
+## M801561A_2
 
 | Kód | Közvetlen költségek | Mennyiség | Egység- költség | Összes költség |
 
@@ -80,6 +84,8 @@
 
 | 6. | Önköltség (4.+5.) |  |  |  |
 
+## M801561A_3
+
 | Kód | Az amortizáció elemei | Mennyiség | Egység amortizáció | Összes költség |
 
 | Nagyértékű tárgyi eszközök (gépek, berendezések) |
@@ -107,3 +113,5 @@
 | 8. | Teljes költség (6.+7.) |  |  |  |
 
 6. számú melléklet a 6/1998. (III. 11.) NM rendelethez
+
+A fekvőbeteg-ellátás ráfordítási adatai

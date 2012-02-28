@@ -28,7 +28,7 @@ a)[^14] e célra az 5. § (5) bekezdés b) pontja alapján kijelölt intézet(ek
 
 b)[^15] valamennyi fekvőbeteg-ellátást nyújtó országos intézettel
 
-## az adatszolgáltatásra a GYÓGYINFOK megállapodást köt.
+az adatszolgáltatásra a GYÓGYINFOK megállapodást köt.
 
 (4) Az egészségügyi szolgáltató a (3) bekezdés szerinti adatszolgáltatást a szervezeti egységek minimális költségadatának meghatározásáról szóló 4. számú melléklet szerint teljesíti.
 

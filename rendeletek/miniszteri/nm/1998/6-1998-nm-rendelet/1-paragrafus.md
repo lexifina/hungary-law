@@ -20,7 +20,7 @@ bg) az egészségügyi érdekképviseleti szervezetek,
 
 bh) Állami Népegészségügyi és Tisztiorvosi Szolgálat (a továbbiakban: ÁNTSZ)
 
-## tevékenységére terjed ki.
+tevékenységére terjed ki.
 
 (2)[^5] A karbantartás lehet rendszeres (átfogó vagy célzott) és soron kívüli. A rendszeres karbantartás előre meghatározott időtartamán belül történhet célzott adatgyűjtés is.
 
