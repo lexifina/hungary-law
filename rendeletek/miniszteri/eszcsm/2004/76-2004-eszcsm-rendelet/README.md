@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-76-20-0
 | --- | --- | --- |
 | 2009-08-01 | 2004-76-20-0M.7 | 76/2004. (VIII. 19.) ESZCSM rendelet |
 | 2011-03-31 | 2004-76-20-0M.8 | 10/2011. (III. 30.) NEFMI rendelet |
+| 2012-02-28 | 2004-76-20-0M.9 | 9/2012. (II. 28.) NEFMI rendelet |

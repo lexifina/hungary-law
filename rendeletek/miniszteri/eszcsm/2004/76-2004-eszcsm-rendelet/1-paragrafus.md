@@ -4,9 +4,9 @@ a) az e rendelet 1. számú mellékletében megjelölt szervekre,
 
 b)[^1] az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP)
 
-## (a továbbiakban az a)–b) pontban foglaltak együtt: adatszolgáltató),
+(a továbbiakban az a)–b) pontban foglaltak együtt: adatszolgáltató),
 
-## valamint az általuk kezelt ágazati (egészségügyi, szakmai) adatra kell alkalmazni.
+valamint az általuk kezelt ágazati (egészségügyi, szakmai) adatra kell alkalmazni.
 
 (2) A rendelet alkalmazásában az ágazati (egészségügyi, szakmai) adat, e rendelet mellékleteiben meghatározott, az adatszolgáltató által gyűjtött és az adatszolgáltatás alapját képező adat.
 
