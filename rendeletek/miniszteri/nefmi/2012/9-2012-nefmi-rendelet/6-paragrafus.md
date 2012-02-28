@@ -1,0 +1,3 @@
+6. § (1) A diagnosztikai eljárást végző egészségügyi szolgáltató orvosa a vizsgálatok eredményei alapján a szükséges, a beutalóban nem szereplő vizsgálatokat a beutaló orvos hozzájárulása nélkül is elvégezheti. A további vizsgálatok indokairól, eredményeiről a vizsgálatot elrendelő egészségügyi szolgáltatót tájékoztatni kell, kivéve, ha az 1. melléklet 6.3. pontja másként rendelkezik.
+
+(2) Amennyiben a járóbeteg-szakellátó intézmény szakorvosa az ellátott számára a megjelenést követően további, más egészségügyi szolgáltató által elvégezhető egészségügyi eljárás elvégzését tartja szükségesnek, az egészségügyi eljárásra történő beutalást más egészségügyi szolgáltatótól nem kérheti.
