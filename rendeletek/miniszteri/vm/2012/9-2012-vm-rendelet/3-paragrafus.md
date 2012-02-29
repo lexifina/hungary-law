@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a terület természetvédelmi szempontból értékes életközösségeinek, valamint védett növény- és állatfajainak, továbbá élettelen természeti és táji értékeinek megőrzése, az azok vizsgálatát célzó kutatások lehetőségének biztosításával.

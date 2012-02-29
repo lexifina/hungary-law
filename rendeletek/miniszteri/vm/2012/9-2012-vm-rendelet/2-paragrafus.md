@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Iváni-szikesek természetvédelmi terület elnevezéssel a Győr-Moson-Sopron megyében, Csáfordjánosfa, Csér, Iván közigazgatási területén lévő, az 1. mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 96,2 hektár kiterjedésű területet.
