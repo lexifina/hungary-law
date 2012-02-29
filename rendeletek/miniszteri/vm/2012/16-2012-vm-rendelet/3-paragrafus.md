@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a Zagyva-völgy kis területen fennmaradt élőlény-közösségeinek, különösen a mocsárrét, zsombékoló magassásos és nem zsombékoló magassásos által alkotott élőhely komplex megőrzése, a területen található védett növény- és állatfajok populációinak védelme, állományuk növelése az életlehetőségeiket javító természetvédelmi kezeléssel.
