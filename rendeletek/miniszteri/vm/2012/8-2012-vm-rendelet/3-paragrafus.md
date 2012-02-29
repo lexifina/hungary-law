@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a terület változatos, természetes élőhelyei, továbbá a hozzá kapcsolódó növény- és állatfajok fennmaradásának biztosítása, valamint a tájképi értékük és a Páneurópai Piknik emlékhelyének megőrzése.
