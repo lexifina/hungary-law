@@ -1,0 +1,1 @@
+16. § A Ktv.-nek a Kttv. hatálybalépését megelőzően hatályos szabályai szerint a központi közszolgálati nyilvántartásban, illetve az egyszerűsített adatszolgáltatás során szolgáltatott adatok kezelését a közigazgatásért és igazságügyért felelős miniszter végzi.

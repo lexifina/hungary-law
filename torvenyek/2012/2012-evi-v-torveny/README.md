@@ -1,0 +1,7 @@
+# 2012. évi V. törvény a közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-5-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2012-02-29 | 2012. évi V. törvény | 2012-5-00-00.0 (közlönyállapot) |
