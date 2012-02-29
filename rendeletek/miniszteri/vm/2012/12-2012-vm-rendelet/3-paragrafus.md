@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a Duna–Tisza közi homokhátságra jellemző szélformálta homokbuckavidék formakincsének (futóhomok formák), valamint a természetes és természetszerű élőhelyek és azok élővilágának megóvása.
