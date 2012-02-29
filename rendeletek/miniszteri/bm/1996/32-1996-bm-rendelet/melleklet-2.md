@@ -36,7 +36,7 @@
 
 | M i n d e n m e z ő t k ö t e l e z ő e n k e l l k i t ö l t e n i ! |
 
-| Csak az előző adatszolgáltatás óta történt megszűnés esetén töltendő ki! |
+| Csak a választójogból való kizárásnak az előző adatszolgáltatás óta történt megszűnése esetén töltendő ki! |
 
 | A kizárást megszüntető bíróság megnevezése: | _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
 
@@ -118,9 +118,9 @@
 
 ## – férje családi nevének második tagját összekapcsolja saját családi nevének második tagjával; és ehhez hozzáfűzi saját utónevét (Pl.: Szabó-Varga Mária).
 
-2. számú melléklet a 32/1996. (XII. 22.) BM rendelethez[^10]
+2. számú melléklet a 32/1996. (XII. 22.) BM rendelethez[^15]
 
-Mágneses adathordozón szolgáltatott adatok
+Elektronikus adathordozón szolgáltatott adatok
 
 | FILE név: NExxxx* INPUT rekordszerkezet |
 
@@ -130,9 +130,9 @@ Mágneses adathordozón szolgáltatott adatok
 
 | 2. | Házassági neve (családi név rész) | A | 50 |  |
 
-| 3. | Házassági neve (utónév része) | A | 20 |  |
+| 3. | Házassági neve (első utónév része) | A | 20 |  |
 
-| 4. | Házassági neve (utónév része) | A | 20 |  |
+| 4. | Házassági neve (második utónév része) | A | 20 |  |
 
 | 5. | Születési családi neve | A | 50 |  |
 
@@ -140,7 +140,7 @@ Mágneses adathordozón szolgáltatott adatok
 
 | 7. | Születési második utóneve | A | 20 |  |
 
-| 8. | Választójogból kizárás oka | N | 1 | 1=Gondnokság alatt áll (CS) 2=Közügyektől eltiltva (KE) 3=Szabadságvesztés (BV) 4=Intézeti gyógykezelés (GY) |
+| 8. | Választójogból kizárás oka | N | 1 | 2=Közügyektől eltiltva (KE) 3=Szabadságvesztés (BV) 4=Intézeti gyógykezelés (GY) |
 
 | 9. | Választójogból kizárás kezdete | N | 8 | EEEEHHNN |
 
@@ -156,10 +156,10 @@ Mágneses adathordozón szolgáltatott adatok
 
 | 15. | A szabadulás dátuma vagy az eltiltás megszűnésének ideje | N | 8 | EEEEHHNN |
 
-| 16. | A küldő szerv(ezet) azonosítója | A | 5 | AAAAA=BM Adatfeldolgozó H. BBBBB=Büntetés-végrehajtás OP. |
+| 16. | A küldő szerv(ezet) azonosítója | A | 5 | AAAAA=KEK KH BBBBB=Büntetés-végrehajtás OP. |
 
 | 17. | Technikai mező | N | 2 | 99=rekord törlése |
 
 * A file névben az xxxx karakterek az adott évet és a hetet jelölik. Pl.: NE9602.txt; NE9651.txt
 
-[^10]: A 2. számú melléklet a 9/2004. (III. 31.) BM rendelet 5. §-ával megállapított szöveg.
+[^15]: A 2. számú melléklet a 9/2004. (III. 31.) BM rendelet 5. §-ával megállapított, a 6/2012. (II. 21.) KIM rendelet 3. § e)–h) pontja és 4. § (2) bekezdés f) pontja szerint módosított szöveg.
