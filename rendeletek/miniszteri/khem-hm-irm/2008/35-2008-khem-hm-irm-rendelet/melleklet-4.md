@@ -1,212 +1,12 @@
-## Példák a légiközlekedési rendellenességre
-
-## Megjegyzés:
-
-## Bár a melléklet a jelentésköteles események többségét felsorolja, az nem lehet teljes. Minden más olyan eseményt, amelyről az érintettek úgy ítélik meg, hogy megfelel a kritériumoknak, szintén jelenteni kell.
-
-## A légiközlekedési rendellenesség a Kbvt. 2. §-ának i) pontja szerint olyan – nem a repülés tartama alatt bekövetkezett – működési zavar, hiba, hiányosság vagy más szabálytalan körülmény, amely a repülésbiztonságot befolyásolhatja vagy befolyásolhatta, de amely nem okozott balesetet vagy repülőeseményt.
-
-## I. A LÉGIJÁRMŰVEK MŰSZAKI RENDELLENESSÉGEI
-
-## 1. Szerkezet
-
-## Nem minden szerkezeti károsodást kell bejelenteni. Mérnöki megítélés szükséges annak eldöntéséhez, hogy az adott károsodás elegendően súlyos-e ahhoz, hogy bejelentsék. Az alábbi példák vehetők figyelembe:
-
-## 1.1. sárkányszerkezeti elem (PSE) károsodása, amelyet nem jelöltek meg károsodástűrőként (korlátozott élettartamú elemek). A sárkányszerkezeti elemek azok, amelyek lényegesen hozzájárulnak a repülés közben, a földön és a túlnyomás miatt jelentkező terhelés elviseléséhez, és amelyek meghibásodása a légijármű elvesztését okozhatja;
-
-## 1.2. a károsodástűrőként megjelölt sárkányszerkezeti elemek megengedhető mértéket meghaladó meghibásodása vagy károsodása;
-
-## 1.3. valamely sárkányszerkezeti elem engedélyezett tűréshatárát meghaladó károsodás vagy hiba, amely a szerkezet merevséget olyan mértékben csökkenthetné, hogy az előírt rezgés-, divergencia- és irányításreverzálási határértékeket már nem lehet biztosítani;
-
-## 1.4. valamely szerkezeti elem sérülése vagy hibája, amelynek következtében olyan tömegű részek szabadulhatnak el, amelyek a légijárművön tartózkodóknak sérülést okozhatnak;
-
-## 1.5. hidraulikafolyadék, a tüzelőanyag, az olaj vagy bármely más folyékony anyag szivárgása, amely tűzveszélyhez vagy a légijármű szerkezeteinek, rendszereinek vagy berendezésének – esetleg veszélyes mértékű – szennyeződéséhez vezetett;
-
-## 1.6. bármely jelzőrendszer működési zavara vagy meghibásodása, ha ennek következményeként a hajózószemélyzet félrevezető jelzéseket kaphat;
-
-## 1.7. valamely szerkezeti elem sérülése vagy hibája, amely a rendszerek megfelelő működését veszélyeztetheti.
-
-## 2. Rendszerek
-
-## 2.1. Légkondicionálás/szellőzés
-
-## 2.1.1. A repüléselektronikai rendszerek hűtésének teljes elvesztése.
-
-## 2.2. Robotpilóta-rendszer
-
-## 2.2.1. A robotpilóta-rendszer a bekapcsolás után nem képes elérni a szándékolt műveletet.
-
-## 2.3. Kommunikációs rendszerek
-
-## 2.3.1. Az utastájékoztató rendszer elvesztése vagy meghibásodása, amelynek következtében az utasok tájékoztatása ellehetetlenül vagy nem hallható.
-
-## 2.4. Pilótafülke/kabin/rakodótér
-
-## 2.4.1. Bármely vészhelyzeti rendszer vagy részegység, – beleértve a vészkiürítést jelző rendszert, valamennyi kijárati ajtót, a vészhelyzeti világítást stb. – elvesztése.
-
-## 2.4.2. A teherberakodó rendszer megtartó képességének elvesztése.
-
-## 2.5. Tűzvédelmi rendszer
-
-## 2.5.1. A tűz/füstjelző, illetve a tűz/füstvédelmi rendszer nem felismert elvesztése vagy meghibásodása, amely a tűzjelző/tűzvédelmi berendezések elvesztését vagy korlátozott működését okozhatja.
-
-## 2.5.2. A tűzjelzés elmaradása tényleges tűz vagy füstfejlődés esetén.
-
-## 2.6. Oxigén a túlnyomásos kabinnal rendelkező légijárművekhez
-
-## 2.6.1. Oxigénellátás elvesztése, amikor ez karbantartás, képzés vagy vizsgálat közben történik.
-
-## 2.7. Csapoltlevegő-rendszer
-
-## 2.7.1. Az elvett forró levegő szivárgása, ami tűzjelzéshez vezethet vagy szerkezeti károsodást okoz.
-
-## 2.7.2. Valamennyi csapoltlevegő-rendszer elvesztése.
-
-## 2.7.3. A csapolt levegő szivárgását észlelő rendszer elvesztése.
-
-## 2.8. Hajtóműrendszer
-
-## 2.8.1. A hajtómű bekötési elemének hibája.
-
-## 2.8.2. Károsodások korlátozott élettartamú alkatrészben, amelyek miatt azt teljes élettartamának kitöltése előtt ki kell vonni az üzemeltetésből.
-
-## 2.8.3. Károsodást okozó érintkezés idegen testtel (FOD).
-
-## 2.9. Légcsavarok és erőátvitel
-
-## 2.9.1. A légcsavar vagy a hajtómű bármely részének meghibásodása, túlzott kiegyensúlyozatlanságot okozó hiba.
-
-## 2.10. Forgószárny és erőátvitel
-
-## 2.10.1. A forgószárny hajtóműházának/rögzítésének olyan károsodása vagy hibája, amely miatt a forgószárny repülés közben leválhat és/vagy a forgószárny-vezérlés meghibásodhat.
-
-## 2.10.2. A farok-légcsavar, illetve erőátvitel és egyenértékű rendszerek károsodása.
-
-## 2.11. APU-k:
-
-## 2.11.1. az APU leállításának ellehetetlenülése;
-
-## 2.11.2. túlpörgés;
-
-## 2.11.3. az APU elindításának ellehetetlenülése.
-
-## 2.12. Emberi tényezők
-
-## 2.12.1. Bármely tevékenység, amelynek következtében a légijármű tervezésének valamely jellegzetessége vagy hiányossága olyan kezelési hibához vezethetne, amely veszélyes hatással járhat vagy balesethez vezethet.
-
-## 3. Egyéb rendszerek (pl. fegyver, katapult) hibája, amelyek balesethez vezethetnének.
-
-## II. LÉGIJÁRMŰVEK KARBANTARTÁSA ÉS JAVÍTÁSA
-
-## 1. A légijármű részeinek vagy alkatrészeinek helytelen szerelése, amelyet valamilyen nem kifejezetten e célra szolgáló ellenőrzés vagy vizsgálati eljárás során állapítanak meg.
-
-## 2. Forró levegő szivárgása, amely szerkezeti károsodást okoz.
-
-## 3. Bármely korlátozott élettartamú alkatrész károsodása, amely miatt azt teljes élettartamának kitöltése előtt ki kell vonni az üzemeltetésből.
-
-## 4. Bármely ok (például felületi rezgés, merevség elvesztése vagy szerkezeti károsodás) miatt bekövetkező károsodás vagy minőségromlás (például repedések, hajszálrepedések, korrózió, rétegenkénti leválás stb.) az alábbiak szerint:
-
-## 4.1. valamely elsődleges szerkezeti elem vagy PSE (a gyártó javítási kézikönyveiben meghatározottak szerint), ahol az ilyen károsodás vagy minőségromlás meghaladja a javítási kézikönyvben meghatározott megengedett értéket, és javítást vagy teljes vagy részleges cserét igényel;
-
-## 5. másodlagos szerkezeti elem, amely ennek következtében veszélyeztette vagy veszélyeztetheti a légijárművet;
-
-## 6. hajtómű-, légcsavar- vagy forgószárny-rendszer.
-
-## 7. Bármely rendszer vagy részegység elvesztése, hibás működése vagy hibája, vagy ezek károsodása vagy minőségromlása, amelyről megállapították, hogy az valamilyen légialkalmasságra vonatkozó irányelv vagy más, a szabályozó hatóság által kibocsátott kötelező utasításnak történő megfelelés következménye, amikor:
-
-## 7.1. a megfelelőséget megvalósító bejelentő szervezet azt először megállapítja;
-
-## 7.2. későbbi megfelelőségi vizsgálat esetén az meghaladja az utasításban meghatározott, engedélyezett határértékeket, és/vagy közreadott javítási eljárások nem állnak rendelkezésre.
-
-## 8. Bármilyen vészhelyzeti rendszer vagy részegysége elvesztése, beleértve a kijárati ajtókat és a világítást, ha azokat karbantartási vagy vizsgálati célra használják is.
-
-## 9. Az előírt karbantartási eljárásoknak való megfelelőség hiánya vagy súlyos hibája.
-
-## 10. Ismeretlen vagy gyanús eredetű termékek, alkatrészek, felszerelések és anyagok.
-
-## 11. Félrevezető, téves vagy nem kielégítő karbantartási adat, vagy olyan karbantartási eljárás, amely karbantartási hibákhoz vezethet.
-
-## 12. A légijármű rendszereinek és berendezéseinek vizsgálatára vagy ellenőrzésére használt földi berendezések bármilyen leállása, hibás működése vagy hibája, amennyiben az előírt rutinellenőrzések és vizsgálati eljárások nem azonosították a problémát világosan, és ez veszélyes helyzetet okozhat.
-
-## III. REPÜLŐTEREK ÉS REPÜLŐTÉRI BERENDEZÉSEK
-
-## 1. Jelentős mennyiségű tüzelőanyag kiömlése feltöltés közben.
-
-## 2. Nem megfelelő mennyiségű tüzelőanyag feltöltése, amely várhatóan lényeges hatással lesz a légijármű repülési tartamára, a teljesítményre, a súlypont helyzetére vagy a légijármű szerkezeti szilárdságára.
-
-## 3. Az utasok, poggyász és küldemény kezelése
-
-## 3.1. A légijármű szerkezetének, rendszereinek és berendezéseinek a poggyász vagy küldemény szállításából adódó lényeges elszennyeződése.
-
-## 3.2. Utasok, poggyász vagy küldemény nem megfelelő berakodása, amely várhatóan lényeges hatással lesz a légijármű tömegére és/vagy súlypontjának helyzetére.
-
-## 3.3. A poggyász vagy küldemény (beleértve a kézipoggyászt is) nem megfelelő elhelyezése, amely veszélyeztetheti a légijárművet, annak berendezéseit vagy a fedélzeten tartózkodókat vagy akadályozhatja a vészhelyzeti kiürítést.
-
-## 3.4. Cargo-konténerek vagy más, nagyobb küldeménytételek nem megfelelő elhelyezése.
-
-## 3.5. Az alkalmazandó előírások megszegésével veszélyes áru szállítása vagy annak kísérlete, ideértve a veszélyes áruk nem megfelelő címkézését és csomagolását is.
-
-## 4. Légijármű földi kezelése és szervizelése
-
-## 4.1. A légijármű rendszereinek és berendezések vizsgálatára vagy ellenőrzésére alkalmazott földi berendezések bármilyen leállása, hibás működése vagy hibája, amennyiben az előírt rutinellenőrzések és vizsgálati eljárások nem azonosították a problémát világosan, és ez veszélyes helyzetet okozhat.
-
-## 4.2. Az előírt szervizelési eljárásoknak való meg nem felelés, vagy lényeges hibák az ilyen eljárások során.
-
-## 4.3. Szennyezett vagy nem megfelelő típusú tüzelőanyag vagy más folyadék (beleértve az oxigént és az ivóvizet is) betöltése.
-
-## IV. LÉGINAVIGÁCIÓS SZOLGÁLATOK, BERENDEZÉSEK ÉS FÖLDI SZOLGÁLAT
-
-## 1. Léginavigációs szolgálatok (ANS/Air Navigation Services)
-
-## 1.1. Ütközésközeli esemény nem megfelelő térköztartás miatt (beleértve azokat a helyzeteket, amikor valamely légijármű és egy másik légijármű/más jármű/személy vagy tárgy közötti távolság túl csekélynek tűnik).
-
-## 1.2. ATM specifikus események (beleértve mindazokat a helyzeteket, amelyek érintik az ATM szolgálatok biztonságos nyújtásának lehetőségét, beleértve azokat a helyzeteket is, amikor a légijármű biztonságos működését csak véletlenül nem veszélyeztették.) Idetartoznak az alábbi események:
-
-## 1.3. az ATM szolgálatok nyújtásának ellehetetlenülése;
-
-## 1.4. légiforgalmi szolgálat nyújtásának ellehetetlenülése;
-
-## 1.5. légtérirányító szolgálatok biztosításának ellehetetlenülése;
-
-## 1.6. légiforgalmi áramlás szervezési szolgálatok nyújtásának ellehetetlenülése;
-
-## 1.7. a kommunikáció elvesztése;
-
-## 1.8. a felügyeleti funkció elvesztése;
-
-## 1.9. az adatfeldolgozási és -elosztási funkció elvesztése;
-
-## 1.10. a navigációs funkció elvesztése;
-
-## 1.11. ATM rendszerbiztonság.
-
-## 2. Példák az „ATM specifikus események” alatt felsorolt általános követelményeknek a légijárművek működésére történő alkalmazásából adódó bejelentésköteles eseményekre:
-
-## 2.1. jelentős mértékben helytelen, nem megfelelő vagy félrevezető információ nyújtása bármilyen földi forrásból, például a légiforgalmi irányítás (ATC), automatikus terminálinformációs szolgálat (ATIS), meteorológiai szolgálatok, navigációs adatbázisok, térképek, diagramok, kézikönyvek stb.;
-
-## 2.2. helytelen nyomásreferencia (azaz magasságmérő-beállítási)-adatok nyújtása;
-
-## 2.3. lényeges üzenetek hibás továbbítása, fogadása vagy értelmezése, amikor ez veszélyes helyzetet okozhat;
-
-## 2.4. jogellenes rádióforgalom;
-
-## 2.5. jelentős ATC/ATM hiba vagy a repülőtér infrastruktúrájának jelentős romlása;
-
-## 2.6. a repülőtér mozgásterületein légijármű, jármű, állat vagy idegen tárgy által képzett akadály, ami veszélyes vagy potenciálisan veszélyes helyzetet okozhat;
-
-## 2.7. a repülőtér mozgásterületein az akadályok vagy veszélyek hibás vagy hiányos jelzése, ami veszélyes helyzetet okozhat;
-
-## 2.8. a repülőtéri jelzőfények hiánya, lényeges meghibásodása, vagy ha azok nem állnak rendelkezésre.
-
-4. melléklet a 35/2008. (XII. 5.) KHEM–HM–IRM együttes rendelethez
+4. melléklet a 35/2008. (XII. 5.) KHEM–HM–IRM együttes rendelethez[^73]
 
 A zárójelentés és a zárójelentés-tervezet részletes formai és tartalmi követelményei
 
-I. ÁLTALÁNOS SZABÁLYOK
+I. Általános szabályok
 
 1. A zárójelentés fő részei:
 
-Cím
+Bevezetés (cím és áttekintés)
 
 1. Ténybeli információk
 
@@ -222,154 +22,174 @@ Megjegyzés: zárójelentés készítése során e forma alkalmazása biztosítj
 
 a) a ténybeli információk, elemzések és következtetések megértéséhez szükséges minden tájékoztatást tartalmazzanak a megfelelő fejezetek;
 
-b) ahol az „1 – Ténybeli információk” fejezet bármely pontjával kapcsolatos információ nem áll rendelkezésre, vagy az nincs összefüggésben a balesethez vezető körülményekkel, ott ilyen értelmű megjegyzés legyen beiktatva a megfelelő alcímek alatt.
+b) ahol az „1. Ténybeli információk” fejezet bármely pontjával kapcsolatos információ nem áll rendelkezésre, vagy az nincs összefüggésben az eseményhez vezető körülményekkel, ott ilyen értelmű megjegyzés legyen beiktatva a megfelelő alcímek alatt.
 
-2. A zárójelentés az alább felsorolt esetekben kizárólag az esemény lefolyásával kapcsolatos, anonim módon, kivonatoltan tartalmazhatja:
+2. A zárójelentés az alább felsorolt eseményekben kizárólag az esemény lefolyásával kapcsolatosan, az érintett személyek vonatkozásában anonim módon, teljes terjedelmében vagy kivonatoltan tartalmazhatja:
 
-a) a légiközlekedési balesettel, repülőeseménnyel érintett személyek jelentéseit és a tevékenységükre vonatkozó adatokat;
+a) a légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel (a továbbiakban együtt: esemény) érintett személyek jelentéseit és a tevékenységükre vonatkozó adatokat,
 
-b) a meghallgatásokról készült jegyzőkönyveket;
+b) a meghallgatásokról készült jegyzőkönyveket,
 
-c) a légijárműre, illetőleg az ejtőernyőre, valamint az időjárásra, az eset helyszínére és egyéb körülményekre, valamint az esettel kapcsolatban műszakilag rögzített adatokat;
+c) a légijárműre vagy az ejtőernyőre, valamint az időjárásra, az esemény helyszínére és egyéb körülményekre vonatkozó, valamint az eseménnyel kapcsolatban műszakilag rögzített adatokat,
 
-d) a szakértői jelentéseket;
+d) a szakértői jelentéseket,
 
 e) egyéb bejelentéseket.
 
-3. A zárójelentés egyes részeinek kitöltésére vonatkozó részletes utasítás az ICAO Doc. 6920 Légijármű Balesetek Kivizsgálási Kézikönyvben található.
+3. A zárójelentés egyes részeinek kitöltésére vonatkozó részletes utasítás az ICAO Doc 9756 Légijármű Balesetek Kivizsgálási Kézikönyvben található.
 
-II. A ZÁRÓJELENTÉS RÉSZEI
+II. A zárójelentés részei
 
-1. Cím
+Bevezetés
+
+a) Cím
 
 A zárójelentés az alábbiakat tartalmazó címmel kezdődik:
 
-Az üzemben tartó neve; A légijármű gyártója, típusa, felségjele és fedélzeti azonosító jele; A légiközlekedési baleset, a súlyos repülőesemény vagy a repülőesemény helye és időpontja.
+A légijármű üzemben tartójának neve; a légijármű gyártója, típusa, felség- és lajstromjele; az esemény helye és időpontja (helyi idő vagy világidő szerint).
 
-Áttekintés. A címet követően rövid áttekintés következik az alábbi információkra vonatkozóan:
+b) Áttekintés
 
-a belföldi és külföldi hatóságok értesítése a légiközlekedési balesetről, repülőeseményről; a kivizsgáló szerv és meghatalmazott képviselőjének megnevezése; a kivizsgálás megszervezése; a jelentést kiadó kivizsgáló szerv neve és a kiadás időpontja.
+A címet követően rövid áttekintés következik az alábbi információkra vonatkozóan:
 
-Rövid összefoglalóval záródik, melyben a légiközlekedési balesethez, repülőeseményhez vezető okokat taglalják.
+A belföldi és külföldi hatóságok értesítése az eseményről; a kivizsgáló szerv és meghatalmazott képviselőjének megnevezése; a kivizsgálás megszervezése; a jelentést kiadó kivizsgáló szerv neve és a kiadás időpontja.
 
-2. Ténybeli információk
+Rövid összefoglalóval záródik, melyben az eseményhez vezető okokat taglalják.
 
-2.1. A repülés lefolyása
+1. Ténybeli információk
 
-Rövid leíró jellegű ismertetés, amely az alábbiakról tájékoztat:
+1.1. A repülés lefolyása
 
-– a repülési feladat típusa, az utolsó indulási hely, az indulás ideje UTC időben (emellett lehet helyi időben is), tervezett leszállóhely.
+Rövid, a folyamatok leíró jellegű ismertetése (hogyan történt, a miértet kerülni kell), amely az alábbiakról tájékoztat:
 
-– a repülés előkészítése, a repülés és a balesethez vezető események leírása, beleértve a repülési pálya fontos szakaszának rekonstruálását a szükségnek megfelelően.
+– Járatszám, az üzemeltetés fajtája, a járat fajtája, az utolsó indulási hely, az indulás ideje (helyi vagy UTC idő), tervezett leszállóhely.
 
-– a légiközlekedési baleset, súlyos repülőesemény, repülőesemény helye (földrajzi szélesség, hosszúság, tengerszint feletti magasság), ideje (UTC idő, továbbá helyi idő), nappal vagy éjjel.
+– A repülés lefolyása időrendben: A repülés előkészítése, a repülés és a balesethez vezető események leírása, beleértve a repülési pálya fontos szakaszának rekonstruálását a szükségesnek megfelelően.
 
-2.2. Személyi sérülések
+– Az esemény helye (földrajzi szélesség, hosszúság, tengerszint feletti magasság), ideje (helyi vagy UTC idő), nappal, hajnalban, szürkületkor vagy éjszaka.
 
-Az alábbi táblázat kitöltése (számokkal):
+1.2. Személyi sérülések
 
-| Sérülések | Személyzet | Utasok | Egyéb személyek |
+Az alábbi táblázatot állampolgárság szerinti – több légijármű esetében légijárművenkénti ? bontásban külön-külön ki kell tölteni (számokkal):
 
-| Halálos |  |  |  |
+|  |  |  | Halálos | Súlyos | Könnyű | Nem sérült |
 
-| Súlyos |  |  |  |
+|  | A légijárművön | személyzet (hajózó / légiutas-kísérő) |  |  |  |  |
 
-| Kisebb |  |  |  |
+|  | utas |  |  |  |  |
 
-| Nincs |  |  |  |
+|  | egyéb személy |  |  |  |  |
 
-2.3. A légijármű rongálódása
+|  | A földön |  |  |  |  |  |
 
-A légijárművet a légiközlekedési balesetben, súlyos repülőeseményben, repülőeseményben ért rongálódások rövid ismertetése (megsemmisült, jelentősen megrongálódott, kissé megrongálódott, nem sérült).
+1.3. A légijármű rongálódása
 
-2.4. Egyéb kár
+A légi járművet az esemény során ért rongálódások rövid ismertetése (megsemmisült, jelentősen megrongálódott, kissé megrongálódott, nem sérült). A légijármű részeinek és rendszerei sérüléseinek részletes leírását az „1.12 Roncsra és becsapódásra vonatkozó adatok” alpont tartalmazza.
 
-Nem a légijárműben, hanem egyéb tárgyakban keletkezett rongálódások rövid ismertetése.
+1.4. Egyéb kár
 
-2.5. A személyzet adatai
+Nem a légijármű, hanem egyéb tárgyakban keletkezett rongálódások rövid ismertetése.
 
-a) A hajózó személyzet összes tagjára vonatkozó adatok név nélkül: életkor, a szakszolgálati engedély érvényessége, jogosítások, kötelező ellenőrzések, repülési tapasztalat (összesen és az adott típuson), és a munkaidőre vonatkozó megfelelő tájékoztatások.
+1.5. A személyzet adatai
+
+a) A hajózó személyzet összes tagjára vonatkozó adatok név nélkül: életkor, nem, a szakszolgálati engedély típusa, érvényessége; jogosítások; repülési tapasztalat: összes repült órák száma, a repült típusok száma, és az egyes típusokon repült órák száma; az eseményt megelőző 24 órában, 7 napban, 90 napban repült órák száma; a legutóbbi kiképzés, valamint a kötelező és rendszeres megerősítő vizsgák eredményei; az eseményben érintett útvonallal és a repülőtérrel kapcsolatos tapasztalat; az eseményt megelőző 48 órában eltöltött szolgálati- és pihenőidő adatai; lényeges orvosi vizsgálatok feljegyzései és eredményei; a személyzeti tagok pozíciójának meghatározása annak megállapítása érdekében, hogy melyikük vezette a légijárművet; megfelelő tájékoztatások.
 
 b) A személyzet egyéb tagjainak képesítésére és gyakorlatára vonatkozó rövid ismertető.
 
-c) Az egyéb személyekre, mint például a légiforgalmi és a karbantartó szolgálat tagjaira stb. vonatkozó információk, amennyiben ezek a témához tartoznak.
+c) Az egyéb személyekre, mint például a légiforgalmi és a karbantartó szolgálat tagjaira stb. vonatkozó a) alpont szerinti információk értelemszerűen, amennyiben ezek a témához tartoznak.
 
-2.6. A légijármű adatai
+1.6. A légijármű adatai
 
-a) A légijármű légialkalmasságának és karbantartásának rövid ismertetése (amelyben a repülés előtti és alatti ismert hiányosságokat is fel kell sorolni, ha azoknak bármi kihatásuk lehetett a balesetre).
+a) Általános tájékoztatás: a légijármű gyártója és típusa, típusszáma, gyártási száma, gyártási éve, nemzetisége, felség- és lajstromjele, a tulajdonos és a járató, üzemben tartó megnevezése, a légialkalmassági bizonyítvány (tanúsítvány) érvényessége.
 
-b) A teljesítmény rövid értékelése, ha ez lényeges, valamint annak ismertetése, hogy a tömeg és a tömegközéppont az előírt határokon belül volt-e a légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel kapcsolatos repülési szakasz folyamán. (Ha nem, és ha ennek bármilyen kihatása volt a légiközlekedési balesetre, súlyos repülőeseményre, repülőeseményre, akkor ezt részletesen kell ismertetni.)
+b) A légijármű múltja: a gyártás óta repül összes óraszáma, a nagyjavítás és az utolsó felülvizsgálat (karbantartás) óta repült összes óraszáma, a gépkönyvre (formular) és a karbantartási dokumentumokra vonatkozó fontos információk feltüntetése, a légialkalmassági előírásoknak való megfelelés (vagy meg nem felelés, korlátozások) feltüntetése, a gyártó üzemeltetési utasításainak, valamint a légijárművön végzett módosítások (bulletinek, airworthiness directive-k, körlevelek) feltüntetése.
 
-c) A használt tüzelőanyag fajtája.
+c) Hajtóművek és légcsavarok: a hajtómű gyártója, típusa, gyári száma, a légijárműbe való beépítés helye (pozíciója) és időpontja, a nagyjavítás időpontja, összes üzemórák száma, és az utolsó felülvizsgálat, illetve nagyjavítás óta az összes üzemórák száma. Amennyiben az eseménnyel kapcsolatba hozható, ezeket az információkat szerepeltetni kell a légcsavarok vonatkozásában is.
 
-2.7. Meteorológiai adatok
+d) Tüzelőanyag: a használt és engedélyezett tüzelőanyag fajtája, a fedélzeten talált mennyisége, és az egyes tartályokban való eloszlása.
+
+e) Alkatrészek és berendezések: a meghibásodott szerkezeti részek, berendezések viszonylatában meg kell adni a gyártó adatait, a típust, a fajtát, a megnevezést, a légijárművön való elhelyezkedését, funkcióját, a gyári számot, az engedélyezett és teljesített üzemórákat, a gyártás és nagyjavítás óta eltelt üzemidőt.
+
+f) Hibák: azon légijármű, hajtómű, vagy egyéb szerkezeti részek (berendezések) műszaki hibáinak listája, amit a vizsgálat folyamán tártak fel, vagy egy korábbi jegyzőkönyvben (a légijármű dokumentációiban) rögzítettek és nem töröltek. Fel kell tüntetni, hogy a hiba ismétlődő jellegű volt-e, és engedélyezett volt-e a minimum-berendezés listája szerint.
+
+g) A légijármű terhelése: ismertetni kell a maximálisan engedélyezett fel- és leszállótömeget, a tényleges össztömeget a felszállás során, valamint az esemény idején. Szintén fel kell tüntetni az légijármű engedélyezett és tényleges súlypont-határértékeit a felszálláskori és az esemény idejére számítva.
+
+h) Az eseményben érintett légijármű rendszer, és/vagy műveleti eljárás: az érintett rendszer rövid ismertetése, és az esetlegesen az eseményhez vezető előírt és a ténylegesen végrehajtott eljárások ismertetése.
+
+i) A transzponderrel, ACAS, TICAS, GPWS (TAWS) rendszerekkel való felszereltség feltüntetése, és azok működőképességének és tényleges működésének ismertetése.
+
+1.7. Meteorológiai adatok
 
 a) Az időjárási körülmények rövid ismertetése, beleértve az előre jelzett és a tényleges körülményeket is, továbbá azt, hogy a személyzet számára ezek a meteorológiai információk rendelkezésre álltak-e.
 
-b) A természetes fényviszonyok a légiközlekedési baleset, súlyos repülőesemény, repülőesemény időpontjában (napfény, holdfény, szürkület stb.).
+b) A természetes fényviszonyok az esemény időpontjában (napfény, holdfény, szürkület stb.).
 
-2.8. Navigációs berendezések
+1.8. Navigációs berendezések
 
-A rendelkezésre álló navigációs berendezések vonatkozó adatai, beleértve az olyan leszállító berendezéseket, mint például az ILS, MLS, NDB, PAR, VOR, az optikai földi segédberendezéseket stb. és az adott időpontban tapasztalt, hatékonyságukra vonatkozó információkat.
+A rendelkezésre álló navigációs berendezések rendelkezésre állására vonatkozó adatai, beleértve az olyan leszállító berendezéseket, mint például az ILS, MLS, NDB, PAR, VOR, az optikai földi segédberendezéseket stb. és az esemény időpontjában tapasztalt, működésükre vonatkozó információkat.
 
-2.9. Összeköttetés
+1.9. Összeköttetés
 
-A légiforgalmi mozgó és a légiforgalmi állandó helyű szolgálat összeköttetésére és ennek hatékonyságára vonatkozó információk.
+A hajózó személyzet rendelkezésére álló távközlési berendezések, és azok működésének feltüntetése, és a légiforgalmi szolgálatokkal való összeköttetésük jellemzése.
 
-2.10. Repülőtéri adatok
+1.10. Repülőtéri adatok
 
-A repülőtérre, létesítményeire és állapotukra, illetve ha a felszállás, vagy a leszállás nem a repülőtéren történt, akkor a felszállási vagy a leszállási területre vonatkozó témához tartozó információk.
+Az induló-, a cél-, a kitérő-, és a ténylegesen használt repülőtérre, létesítményeire és állapotukra, illetve, ha a felszállás, vagy a leszállás nem a repülőtéren történt, akkor a felszállási vagy a leszállási területre vonatkozó témához tartozó információk.
 
-2.11. Repülési adatrögzítők
+1.11. Repülési és földi telepítésű adatrögzítők
 
-A repülési adatrögzítők telepítési helye a légijárműben, állapotuk a megtaláláskor és a belőlük nyert adatok.
+Minden egyes fedélzeti (FDR, CVR, videofelvevő, memóriaegység, stb.) és telepített földi (radarkép-rögzítés, rádióforgalmazás- és telefonforgalmazás rögzítése, stb.) adatrögzítő adatainak, jellemzőinek megadása. Az adatrögzítők telepítési helye a légijárműben, állapotuk a megtaláláskor és a belőlük nyert adatok, azok hasznossága a vizsgálat szempontjából.
 
-2.12. A roncsra és a becsapódásra vonatkozó adatok
+1.12. A roncsra és a becsapódásra vonatkozó adatok
 
-Általános információk a légiközlekedési baleset, repülőesemény helyszínéről és a roncs szétszóródásáról; felderített anyaghibák vagy alkatrészhibák. A roncs különböző darabjainak helyére és állapotára vonatkozó részletekre rendszerint nincs szükség, csak akkor, ha ezzel a légijármű becsapódás előtti széthullását szükséges jelezni. Vázlatok, térképek és fényképfelvételek ebben a részben helyezhetők el, vagy a Függelékhez csatolhatók.
+Általános információk az esemény helyszínéről és a roncs szétszóródásáról, az abból kikövetkeztethető repülési pálya végső szakaszáról, a becsapódási folyamatról, a roncs átvizsgálásáról, a felderített anyagszerkezeti- vagy alkatrészhibákról. Itt kell jelezni, hogy a roncsok vizsgálata során fellelt roncsolódások a becsapódáskor vagy azt megelőzően következtek be.
 
-2.13. Az orvosi és az igazságügyi-orvosszakértői vizsgálatok adatai.
+1.13. Az orvosi és az igazságügyi-orvosszakértői vizsgálatok adatai.
 
-Az elvégzett vizsgálatok eredményeinek és az azokból rendelkezésre álló adatok rövid leírása.
+A kabinszemélyzetre, az utasokra és az eseményben érintett földön tartózkodó személyeken elvégzett orvosi, patológiai és toxikológiai vizsgálatok eredményeinek és az azokból rendelkezésre álló adatok rövid leírása.
 
-Megjegyzés: a hajózó személyzet szakszolgálati engedélyével kapcsolatos egészségügyi adatokat az „1.5. A személyzet adatai” című részben kell közölni.
+A hajózó személyzet szakszolgálati engedélyével kapcsolatos egészségügyi adatokat az „1.5. A személyzet adatai” című részben kell közölni.
 
-2.14. Tűz
+1.14. Tűz
 
-Ha tűz keletkezett, akkor az eset természetére, valamint az oltáshoz használt tűzoltó eszközökre és hatékonyságukra vonatkozó információk.
+Tűz vagy robbanás bekövetkezése esetén az esemény természetére (repülés közben vagy becsapódás után), valamint az oltáshoz használt fedélzeti és/vagy külső tűzoltó eszközökre és anyagokra, ezek hatékonyságára vonatkozó információk.
 
-2.15. A túlélés lehetősége
+1.15. A túlélés lehetősége
 
-A kutatás, vészelhagyás és mentés rövid leírása, a személyzet és az utasok elhelyezkedése az elszenvedett sérülések viszonylatában, az olyan szerkezetek elégtelensége, mint például ülések és biztonsági övek felerősítései.
+A kutatás-mentés és a légijármű vészelhagyásának rövid leírása, a személyzet és az utasok elhelyezkedése az elszenvedett sérülések viszonylatában, az olyan szerkezetek elégtelensége, mint például ülések és biztonsági övek felerősítései. A vész-helyjeladó működésére és hatásosságára vonatkozó információk ismertetése.
 
-2.16. Próbák és kísérletek
+1.16. Próbák és kísérletek
 
-A próbák és kísérletek eredményeinek rövid ismertetése.
+Az elvégzett próbák és kísérletek lefolytatásának és eredményeinek rövid ismertetése.
 
-2.17. A szervezetek jellemzése.
+1.17. Szervezeti és vezetési információk
 
-A légijármű üzemelését befolyásoló szervezetekkel és ezek vezetőségével összefüggő információk. E szervezetek közé tartozik például az üzemben tartó, a légiforgalmi szolgálatok, a meteorológiai szolgálatok és a légiközlekedési hatóság. Az információk nem korlátozódnak a szervezeti felépítésre és funkciókra, hanem kiterjedhetnek az erőforrásokra, a gazdasági helyzetre, a vezetési irányelvekre és gyakorlatra, valamint az adott szervre vonatkozó egyéb információkra, amelyek a légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel összefüggésben állnak.
+Az esemény szempontjából érintett szervezetekre és vezetésükre vonatkozó információk, a szervezetek és vezetésük azon tevékenysége, amelyek közvetlenül vagy közvetetten befolyásolhatták a légijármű vagy légiközlekedéshez kapcsolódó infrastruktúra működését.
 
-2.18. Kiegészítő adatok
+1.18. Kiegészítő adatok
 
-Az 2.1–2.17. pontokban nem szereplő, de a témához tartozó információk.
+Az 1.1.–1.17. pontokban nem szereplő, de az eseményhez tartozó, az elemzést elősegítő információk.
 
-2.19. Hasznos vagy hatékony kivizsgálási módszerek
+1.19. Hasznos vagy hatékony kivizsgálási módszerek
 
-Ha a kivizsgálás során hasznos vagy hatékony kivizsgálási módszereket alkalmaztak, akkor röviden tüntessék fel e módszerek alkalmazásának okát, utaljanak főbb jellemző vonásaikra, továbbá az 2.1–2.17. pontig terjedő alcímek alatt ismertessék az eredményeket.
+Ha a kivizsgálás során hasznos vagy hatékony kivizsgálási módszereket alkalmaztak, akkor röviden tüntessék fel e módszerek alkalmazásának okát, utaljanak főbb jellemző vonásaikra, azonban az 1.1.–1.18. pontig terjedő alcímek alatt ismertessék ezeknek az eredményeit is.
 
-3. Elemzés
+2. Elemzés
 
-Szükség szerint csak azokat az információkat elemezzék, amelyeket az „1. Ténybeli információk” szakaszban rögzítettek, és amelyek a következtetések és az ok(ok) meghatározásához tartoznak.
+Az elemzés célja, hogy logikai kapcsolatot találjon a tényszerű információk és a végkövetkeztetés között, hogy választ adjon arra a kérdésre, hogy az esemény miért következett be. Szükség szerint csak azokat az információkat kell elemezni, amelyeket az „1. Ténybeli információk” szakaszban rögzítettek, és amelyek a következtetések és az ok(ok) meghatározásához tartoznak. Kerülni kell a tényállás („a hogyan történt”) ismertetésének megismétlését.
 
-4. Következtetések
+Szintén elemezni és tárgyalni kell mindazon, a vizsgálat során feltárt olyan részletet, amelyet biztonsági hiányosságként azonosítottak, még akkor is, ha az nem járult hozzá az esemény bekövetkezéséhez.
 
-Sorolja fel a kivizsgálás során megállapított tényeket és okokat. Az okok listája foglalja magába mind a közvetlen, mind a mélyebb, rendszerben rejlő okokat is.
+3. Következtetések
 
-5. Biztonsági ajánlások
+Ez a rész tartalmazza az elemzésből levont, megállapított és/vagy valószínűsített tényeket és okokat. Az okok listája foglalja magába mind a közvetlen, mind a mélyebb, rendszerben rejlő okokat is.
 
-Ha alkalmazható, rövid nyilatkozat a légiközlekedési baleset, repülőesemény megelőzése érdekében tett bármely javaslatról, és ennek eredményeként megtett korrigáló lépésről.
+4. Biztonsági ajánlások
 
-6. Függelékek
+Az események megelőzése érdekében tett javaslat, amely röviden összefoglalja, hogy mely körülmények vezettek az ajánlás kiadáshoz, magában foglalja az ajánlás címzettjét és az ajánlott intézkedést, valamint az ajánlással elérendő célt, eredményt. Szerepeltetni kell a hatóságok és az érintettek által időközben hozott megelőző intézkedéseket, valamint a vizsgálóbizottság vagy a szakmai kivizsgáló által a vizsgálat alatt hozott biztonsági ajánlásokat. A biztonsági ajánlás megfogalmazásánál inkább a problémafelvetésre, mintsem a konkrét megoldási javaslatra kell törekedni.
 
-A szükségnek megfelelően itt kell közölni minden egyéb, a jelentés megértése szempontjából szükségesnek tekinthető vonatkozó információt.
+5. Függelékek
+
+A szükségnek megfelelően itt kell közölni minden egyéb, a jelentés megértése szempontjából szükségesnek tekinthető információt, ideértve a meghatározások és rövidítések jegyzékét. A függelék tartalmazhatja a vizsgálóbizottság tagjainak esetleges különvéleményét. A függelékek összeállításánál fokozott figyelmet kell fordítani a 996/2010/EU európai parlamenti és tanácsi rendelet és a Kbvt. adatvédelmi rendelkezéseire.
+
+[^73]: A 4. melléklet a 11/2012. (II. 21.) NFM rendelet 11. § (3) bekezdésével megállapított szöveg.

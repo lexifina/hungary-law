@@ -1,10 +1,8 @@
-## 20. § Az állami légijármű üzemben tartója a légiközlekedési balesetek következményeinek megelőzésére a katonai légügyi hatósággal egyeztetett intézkedési tervet készít annak érdekében, hogy a veszélyhelyzetbe kerülő légijárművekkel kapcsolatban vagy a bekövetkezett légiközlekedési baleset, repülőesemény esetén a személyek élete, testi épségének megóvása, valamint a következmények enyhítése (felszámolása) érdekében szükséges intézkedéseket haladéktalanul megtehesse.
-
 ## A BELFÖLDÖN BEKÖVETKEZETT LÉGIKÖZLEKEDÉSI BALESETEKKEL, SÚLYOS REPÜLŐESEMÉNYEKKEL, REPÜLŐESEMÉNYEKKEL ÖSSZEFÜGGŐ NEMZETKÖZI KÖTELEZETTSÉGEK
 
 ## Értesítés
 
-21. § (1) Légiközlekedési baleset és súlyos repülőesemény bekövetkeztekor a Szervezet a lehető legkisebb késedelemmel és a rendelkezésre álló legalkalmasabb és leggyorsabb módon köteles értesíteni a külföldi kivizsgáló szervet.
+21. § (1)[^54] Légiközlekedési baleset és súlyos repülőesemény bekövetkeztekor az állami közlekedésbiztonsági szerv a lehető legkisebb késedelemmel és a rendelkezésre álló legalkalmasabb és leggyorsabb módon köteles értesíteni a külföldi kivizsgáló szervet.
 
 (2) Az értesítést a Nemzetközi Polgári Repülési Szervezet (ICAO) valamelyik hivatalos munkanyelvén kell megküldeni. Az értesítésnek az alábbi információt kell tartalmaznia:
 
@@ -14,7 +12,7 @@ b) a légijármű gyártója, típusa, felség- és fedélzeti azonosító jele,
 
 c) a légijármű tulajdonosának, üzemben tartójának és bérlőjének neve,
 
-d) a légijármű parancsnokának neve,
+d)[^55] a légijármű parancsnokának képesítése, a személyzet és az utasok állampolgársága,
 
 e) a légiközlekedési baleset vagy súlyos repülőesemény dátuma és időpontja UTC időben (emellett feltüntethető helyi időben is),
 
@@ -26,8 +24,17 @@ h) a személyzet és az utasok, a fedélzeten tartózkodók közül elhunytak é
 
 i) a légiközlekedési baleset vagy a súlyos repülőesemény természete és a légijármű rongálódásának mértéke,
 
-j) annak jelzése, hogy a Szervezet folytat-e, és milyen mértékig szakmai vizsgálatot, vagy javasolja-e annak átruházását,
+j)[^56] annak jelzése, hogy az állami közlekedésbiztonsági szerv folytat-e, és milyen mértékig szakmai vizsgálatot, vagy javasolja-e annak átruházását,
 
-k) a légiközlekedési baleset vagy súlyos repülőesemény területének fizikai jellemzői,
+k)[^57] a légiközlekedési baleset vagy súlyos repülőesemény területének fizikai jellemzői, beleértve a helyszín megközelíthetőségének nehézségei,
 
-l) veszélyes rakomány jelenléte és leírása.
+l)[^58] veszélyes anyagok jelenléte és leírása,
+
+m)[^59] az állami közlekedésbiztonsági szerv azonosító adatai, és a vizsgálóbizottság vezetőjével, valamint a közlekedésbiztonsági szervvel folyamatos kapcsolattartást lehetővé tevő elérhetőségi adatok.
+
+[^54]: A 21. § (1) bekezdése a 11/2012. (II. 21.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^55]: A 21. § (2) bekezdés d) pontja a 11/2012. (II. 21.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^56]: A 21. § (2) bekezdés j) pontja a 11/2012. (II. 21.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^57]: A 21. § (2) bekezdés k) pontja a 11/2012. (II. 21.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^58]: A 21. § (2) bekezdés l) pontja a 11/2012. (II. 21.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^59]: A 21. § (2) bekezdés m) pontja a 11/2012. (II. 21.) NFM rendelet 8. § (3) bekezdésével megállapított szöveg.

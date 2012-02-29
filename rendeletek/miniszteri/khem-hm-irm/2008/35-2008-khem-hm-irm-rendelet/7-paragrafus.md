@@ -1,4 +1,4 @@
-7. § (1) A légiközlekedési balesetről, a repülőeseményről, a Kbvt. 10. §-ának (4) bekezdése alapján az üzembentartó baleseti szolgálatának vezetője útján teendő bejelentésnek a következő adatokat kell tartalmaznia:
+7. § (1)[^16] A légiközlekedési balesetről, súlyos repülőeseményről, repülőeseményről az üzembentartó baleseti ügyeleti szolgálatának vezetője útján teendő bejelentésnek a következő adatokat kell tartalmaznia:
 
 a) a légiközlekedési baleset, repülőesemény helyét és időpontját (helyi időszámításban),
 
@@ -12,36 +12,35 @@ e) a személyzet és a fedélzeten tartózkodó utasok vagy más személyek szá
 
 f) a fegyverzet típusát és jellegét,
 
-g) a személyi sérüléseket, a légijárművön és a harmadik személy tulajdonában keletkezett károk becsült mértékét,
+g)[^17] a személyi sérüléseket, a légijárműben és a harmadik személy tulajdonában keletkezett károk becsült mértékét,
 
 h) a légiközlekedési baleset, a súlyos repülőesemény, a repülőesemény lefolyását,
 
 i) a bejelentés idejéig meghozott intézkedéseket.
 
-(2) Az (1) bekezdésben felsorolt adatok valamelyikének hiánya nem mentesít az azonnali bejelentési kötelezettség alól. A hiányzó adatokat a Szervezet az üzemben tartótól, illetve az üzemeltetőtől szerzi be.
+(2)[^18] Az (1) bekezdésben felsorolt adatok valamelyikének hiánya nem mentesít az azonnali bejelentési kötelezettség alól. A hiányzó adatokat az állami közlekedésbiztonsági szerv az üzemben tartótól, vagy az üzemeltetőtől szerzi be.
 
-(3) A légiközlekedési rendellenességről (e rendelet alkalmazásában a továbbiakban: rendellenesség) szóló bejelentésnek a következő adatokat kell tartalmaznia:
+(3)[^19]
 
-a) a rendellenesség észlelésének helyét és időpontját (helyi időszámításban), vagy a tudomásszerzés időpontját,
+(4)[^20]
 
-b) a rendellenesség részletes leírását,
+(5)[^21]
 
-c) amennyiben a rendellenesség meghatározott légijárművel közvetlenül kapcsolatos, a légijármű típusát, a légijármű felségjelét és fedélzeti azonosító jelét,
+(6)[^22] A bejelentést az állami közlekedésbiztonsági szerv a külön jogszabályban meghatározott titokköri jegyzék alapján kezeli.
 
-d) azt a tevékenységet, amelynek során a rendellenességet észlelték (pl. karbantartás, javítás, légijármű földi kiszolgálása),
+(7)[^23] A légijárművek működésével, karbantartásával, javításával és gyártásával kapcsolatos jelentésköteles események példálódzó jegyzékét az 1. melléklet tartalmazza.
 
-e) a bejelentés idejéig meghozott intézkedéseket,
+(8)[^24] A légiforgalmi irányító szolgálatokhoz kapcsolódó jelentésköteles események példálódzó jegyzékét a 2. melléklet tartalmazza.
 
-f) a bejelentő nevét, jelentési kötelezettsége jogi alapját [Kbvt. 10. § (4) bekezdés], elérhetőségét.
+(9)[^25]
 
-(4) A (3) bekezdésben felsorolt adatok valamelyikének hiánya nem mentesít az azonnali bejelentési kötelezettség alól. A hiányzó adatokat a Szervezet az üzemben tartótól, illetve az üzemeltetőtől szerzi be.
-
-(5) A bejelentő a bejelentésben megjelölhet más olyan információt is, amelyet a rendellenesség vonatkozásában jelentősnek tart.
-
-(6) A bejelentést a Szervezet a külön jogszabályban meghatározott titokköri jegyzék alapján kezeli.
-
-(7) A súlyos repülőeseménynek minősülő esetek példálózó felsorolását az 1. melléklet tartalmazza.
-
-(8) A nem súlyos repülőeseménynek minősülő repülőesemény példálózó felsorolását a 2. melléklet tartalmazza.
-
-(9) A rendellenességnek minősülő esetek példálózó felsorolását a 3. melléklet tartalmazza.
+[^16]: A 7. § (1) bekezdés nyitó szövegrésze a 11/2012. (II. 21.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^17]: A 7. § (1) bekezdés g) pontja a 11/2012. (II. 21.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^18]: A 7. § (2) bekezdése a 11/2012. (II. 21.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^19]: A 7. § (3) bekezdését a 11/2012. (II. 21.) NFM rendelet 13. §-a hatályon kívül helyezte.
+[^20]: A 7. § (4) bekezdését a 11/2012. (II. 21.) NFM rendelet 13. §-a hatályon kívül helyezte.
+[^21]: A 7. § (5) bekezdését a 11/2012. (II. 21.) NFM rendelet 13. §-a hatályon kívül helyezte.
+[^22]: A 7. § (6) bekezdése a 11/2012. (II. 21.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^23]: A 7. § (7) bekezdése a 11/2012. (II. 21.) NFM rendelet 3. §-ával megállapított szöveg.
+[^24]: A 7. § (8) bekezdése a 11/2012. (II. 21.) NFM rendelet 3. §-ával megállapított szöveg.
+[^25]: A 7. § (9) bekezdését a 11/2012. (II. 21.) NFM rendelet 13. §-a hatályon kívül helyezte.
