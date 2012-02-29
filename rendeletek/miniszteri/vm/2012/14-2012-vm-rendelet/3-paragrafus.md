@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja az arborétummal szerves egységet képező területek természetvédelmi oltalmának biztosítása, valamint az ott élő élővilág természetközeli életfeltételeinek biztosítása.
