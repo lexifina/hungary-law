@@ -58,13 +58,7 @@ f) lehet állami alapító vagy az általa létrehozott szervezet által önáll
 
 „(3) A hivatali szervezet vezetője a közszolgálati szabályzatban rendelkezik a cafetéria-juttatás igénybevételének részletes szabályairól, elszámolásának rendjéről és visszatérítésének szabályairól.”
 
-(12) A Kttv. 258. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A közigazgatási szervnél foglalkoztatott munkavállalókra a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.”
-
-(13) A Kttv. 258. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény 71–76. §-a, és 82–84. §-a nem alkalmazható. Esetükben e törvény 67. §-át és 193–194. §-át kell alkalmazni.”
+(12)–(13)
 
 (14) A Kttv. 259. § (1) bekezdés 1. pontja a következő szöveggel lép hatályba:
 
@@ -102,8 +96,4 @@ vonatkozó részletes szabályokat;”
 
 „(2) E törvény 26. § (8) bekezdése, 28–35. §-a, 64. § (4) bekezdése, 65. § (5) bekezdése, 130. §-a, 190. §-a, 191. §-a, 226. § (3) bekezdés d) pontja, 259. § (1) bekezdés 9. pontja 2012. július 1-jén lépnek hatályba.”
 
-(17) A Kttv. 181. § helyébe a következő rendelkezés lép:
-
-„181. § (1) A tartalékállományba helyezett kormánytisztviselőknek a 3. melléklet szerinti adatairól az államigazgatási szerv folyamatos adatszolgáltatást végez a Kormány által meghatározott rendben a személyügyi központ részére.
-
-(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter betekinthet a tartalékállományba helyezett kormánytisztviselőknek a személyügyi központ által kezelt, 3. melléklet szerinti adataiba.”
+(17)

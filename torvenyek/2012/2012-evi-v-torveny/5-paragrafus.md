@@ -1,3 +1,0 @@
-5. § (1) A köztisztviselő, ügykezelő közszolgálati jogviszonyából eredő jogokat és kötelezettségeket a Kttv. hatálybalépése nem érinti, kivéve, ha a Kttv. ettől eltérően rendelkezik.
-
-(2) A kormánytisztviselő, kormányzati ügykezelő kormánytisztviselői jogviszonyának elnevezése kormányzati szolgálati jogviszony elnevezésre változik. A jogviszony elnevezésének megváltozása nem érinti a Kttv. hatálybalépése előtt keletkezett kormánytisztviselői jogviszonyból eredő jogokat és kötelezettségeket, kivéve, ha a Kttv. ettől eltérően rendelkezik. A jogviszony elnevezésének megváltozásáról a munkáltató köteles 60 napon belül a kormánytisztviselőt, illetve a kormányzati ügykezelőt értesíteni.

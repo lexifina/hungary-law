@@ -1,1 +1,0 @@
-13. § Ha a 2012. február 29-én hatályos Ktv. szabályok szerint felmentési védelemnek minősülő ok 2012. február 29-éig keletkezik és a Kttv. hatálybalépését követően is fennáll, ezen ok fennállásáig a felmentési védelemre jogosító időhöz fűződő jogkövetkezmények tekintetében a Ktv.-nek a Kttv. hatálybalépését megelőzően hatályos szabályait kell alkalmazni.

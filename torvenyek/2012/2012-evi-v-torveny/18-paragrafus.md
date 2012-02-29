@@ -1,1 +1,0 @@
-18. § Amennyiben a miniszter vagy a hivatali szervezet vezetője a Ktv.-nek a Kttv. hatálybalépését megelőzően hatályos szabályai alapján további választható cafetéria-juttatásokat is meghatározott, illetve az egyes juttatások választható mértékét magasabban határozta meg, akkor az ily módon 2012. évre meghatározott cafetéria-juttatásokat a Kttv. hatálybalépése nem érinti.

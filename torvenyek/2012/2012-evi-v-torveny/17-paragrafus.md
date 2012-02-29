@@ -1,1 +1,0 @@
-17. § A Kttv. 234. § (3)–(6) bekezdését azzal kell alkalmazni, hogy a köztisztviselőnek a Kttv. hatálybalépésekor érvényes illetménye nem csökkenthető oly módon, hogy ha a helyi önkormányzat csökkenti vagy megszünteti az illetménykiegészítést, annak a jogviszonynak a fennállásáig, amelyben a köztisztviselő számára az illetménykiegészítést megállapították.

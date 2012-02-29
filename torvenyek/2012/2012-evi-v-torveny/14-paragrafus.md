@@ -1,1 +1,0 @@
-14. § A szabadságra jogosító idők tekintetében a Ktv.-nek a Kttv. hatálybalépését megelőzően hatályos szabályait kell alkalmazni, ha a kormánytisztviselő 30 napot meg nem haladó fizetés nélküli szabadsága legkésőbb 2012. február 29-én kezdődött.
