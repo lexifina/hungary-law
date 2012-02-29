@@ -1,4 +1,4 @@
-10. számú melléklet a 7/1990. (IV. 23.) KVM rendelethez[^15]
+10. számú melléklet a 7/1990. (IV. 23.) KVM rendelethez[^18]
 
 ## A Bakonygyepesi zergebogláros Természetvédelmi Terület természetvédelmi kezelési terve
 
@@ -68,4 +68,4 @@
 
 – Egész évben tilos a területen tüzet gyújtani.
 
-[^15]: A 10. számú melléklet a 30/2005. (XII. 15.) KvVM rendelet 2. §-ával megállapított szöveg.
+[^18]: A 10. számú melléklet a 30/2005. (XII. 15.) KvVM rendelet 2. §-ával megállapított szöveg.

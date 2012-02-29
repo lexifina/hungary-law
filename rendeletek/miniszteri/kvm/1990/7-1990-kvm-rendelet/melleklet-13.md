@@ -1,89 +1,139 @@
-## A Pacsmagi-tavak Természetvédelmi Terület ingatlannyilvántartási helyrajzi számai
-
-## Tolna megye
+## A Pacsmagi-tavak Természetvédelmi Terület ingatlan-nyilvántartási helyrajzi számai
 
 ## Regöly
 
-## 098/a—d, 099/a—b, 0100, 0101/a—c, 0102/a—b, 0103, 0104/a—f, 0105, 0185/l, 0185/3/a—d, 0185/4, 0186/a—b, 0189/a—d, 0190/a—p, 0191, 0192/a—d, 0193/a—f, 0194, 0195/a—h, 0196, 0197/a—g, 0198/a—d
+## 098, 099, 0100, 0101, 0102, 0103, 0104, 0105/1-2, 0185/1, 0185/3, 0185/4, 0186, 0189, 0190, 0191, 0192, 0193, 0194, 0195, 0196, 0197, 0198
 
 ## Tamási
 
-## 0739, 0740/1—2, 0741, 0742/2—3, 0743, 0744/1—2, 0744/3/a—b, 0745/1—3, 0745/5—6, 0746, 0747/1/a—b, 0747/2/a—d, 0748/1—2, 0749/1—2, 0749/3/a—d, 0750, 0751, 0752, 0770/2—4, 0770/7/a—c, 0770/8, 0770/10, 0770/14—15, 0770/18, 0770/20, 0770/33, 0770/39, 0770/41, 0770/48, 0770/50/a—c, 0770/51—52, 07054/a—b, 0770/58, 0770/59/a—b, 0770/60, 0770/63/a—d, g, j, 0770/64, 0770/67/a—b, 0770/68/a—h, 0770/69—72, 0770/74
+## 0739, 0740/1-2, 0741, 0742/2-3, 0743, 0744/1-3, 0745/1-3, 0745/5-6, 0746, 0747/1-2, 0748/1-2, 0749/1-3, 0750, 0751, 0752, 0770/2-3, 0770/7-8, 0770/10, 0770/14-15, 0770/18, 0770/20, 0770/33, 0770/39, 0770/41, 0770/48, 0770/50 0770/51-52, 0770/54, 0770/58-60, 0770/63-64, 0770/67-72, 0770/74-75
 
-13. számú melléklet a 7/1990. (IV. 23.) KVM rendelethez
+## Az aláhúzással jelölt helyrajzi számú ingatlanok az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló 14/2010. (V. 11.) KvVM rendelet alapján európai közösségi jelentőségű természetvédelmi rendeltetésű területek.
 
-## A Pacsmagi tavak Természetvédelmi Terület kezelési szabályzata
+13. számú melléklet a 7/1990. (IV. 23.) KVM rendelethez[^20]
 
-1. Területfelhasználás, létesítmények elhelyezése:
+## A Pacsmagi-tavak Természetvédelmi Terület természetvédelmi kezelési terve
 
-A természetvédelmi terülten területfelhasználás, telekalakítás, építés (létesítmények elhelyezése) és használatba vétele engedélyezéséhez a Közép-dunántúli KÖVIZIG engedélye szükséges.
+1. Természetvédelmi célkitűzések
 
-2. Vadon élő állatok és növények védelme:
+1.1. A területen található, főként nádasok, nedves rétek, fűz-nyár ligetek, őshonos fafajú vegyeserdők alkotta természetközeli állapotú élőhelyek (beleértve a közösségi jelentőségű élőhelytípusokat), valamint növény- és állattani természeti értékek (beleértve a közösségi jelentőségű fajokat) megőrzése, különös tekintettel a védett madárfajokra [kiemelten a cigányrécére (Aythya nyroca), kanalasgémre (Platalea leucorodia), harisra (Crex crex), békászósasra (Aquila pomarina), rétisasra (Haliaeetus albicilla)].
 
-a) Egyes túlszaporodott fajok állományszabályozására a Közép-dunántúli KÖVIZIG adhat engedélyt.
+1.2. A területen található, országos viszonylatban is jelentős gémtelep, valamint az egyéb fészkelőhelyek és természetes környezetük megőrzése.
 
-b) A madarak fészkelőhelyein fényképezni, filmezni, hangfelvételt készíteni nem szabad. Ez alól felmentést indokolt esetben a Közép-dunántúli KÖVIZIG adhat.
+1.3. A területen található tavak és környezetük madárvonulási- és táplálkozóhelyként való fenntartása.
 
-c) A kártékony élő szervezetek elleni védekezést úgy kell végezni, hogy az más, vadon élő állat- és növényfajt ne veszélyeztessen.
+1.4. A terület természeti értékeinek tudományos kutatásához szükséges természeti feltételek biztosítása.
 
-3. Vízügyi előírások:
+2. Természetvédelmi stratégiák
 
-a) A természetvédelmi területen fokozott figyelmet kell fordítani a védett természeti állapot fenntartását szolgáló talaj- és felszíni vízháztartás és víztisztaság biztosítására.
+2.1. A nem őshonos, inváziós növényfajok visszaszorítása aktív természetvédelmi kezeléssel.
 
-b) Az esetleges kotrásból kikerülő földet egyenletesen kell elteríteni és a tájra jellemző növényzettel betelepíteni.
+2.2. Természetvédelmi célkitűzéseknek alárendelt, azokkal összhangban álló gazdálkodási módok fenntartása a területen.
 
-c) A tavak rekonstrukciós munkái a természetvédelmi hatósággal egyeztetve végezhetők.
+2.3. A láprétek és nedves kaszálók kaszálással (vagy legeltetéssel) való fenntartása.
 
-4. Szántók művelése:
+2.4. A gémtelep és a nádasok fészkelőhelyei, valamint a ragadozómadár figyelő- és pihenőhelyek és környékük zavartalanságának fenntartása, az itt található faállomány megőrzése.
 
-a) A természetvédelmi területen levő szántók eredeti művelési águknak megfelelően továbbra is hasznosíthatók.
+2.5. Újabb madár-táplálkozóhelyek létrehozása szántó területek természetvédelmi célú átalakításával (gyepesítés).
 
-b) A vegyszerek (műtrágya, növényvédő szer) használata megengedett. Repülőgépes vegyszerkijuttatás tilos.
+2.6. A leromlott állapotú, nem őshonos fafajokból álló erdők fokozatos fafajcseréje.
 
-5. Gyepek kezelése:
+2.7. Extenzív gazdálkodás bevezetése és fenntartása a terület szántóin. A felhagyott szántók átalakítása nedves rétekké, felnyíló erdőkké.
 
-a) A gyepeket művelési águknak megfelelően kell hasznosítani.
+2.8. A természetvédelmi szemlélet erősítését segítő természetvédelmi bemutató, oktató és ökoturisztikai célú programok kidolgozása és megvalósítása.
 
-b) Szarvasmarha legeltetése a jelenleg is legeltetéssel hasznosított területeken (0747, 0740/1, 0644/3), a két karám körül továbbra is folytatható.
+2.9. Kutatások, növény- és állattani alapfelmérések végzése, ezt követően a változások folyamatos nyomon követése és dokumentálása, szukcessziós és regenerálódási vizsgálatok, vízgazdálkodási vizsgálatok végzése a terület természeti értékeinek minél teljesebb körű megismerése céljából.
 
-c) Egyéb legelőterületek más állatfajjal sem legeltethetők.
+3. Természetvédelmi kezelési módok, korlátozások és tilalmak
 
-6. Erdők kezelése:
+3.1. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
-a) A védett területeken levő erdők kezelését az erdőtervek előírásainak megfelelően kell végezni.
+3.1.1. Élőhelyek kezelése, fenntartása
 
-b) Az erdőkben a fahasználati munkákat a vegetációs és költési időn kívül kell elvégezni.
+a) A terület Tamási közigazgatási területéhez tartozó részén a fűz-nyár ligetekben és a mocsaras területeken mindennemű beavatkozás tilos. Nem a Duna-Dráva Nemzeti Park Igazgatóság (a továbbiakban: igazgatóság) természetvédelmi vagyonkezelésében lévő területek esetében az előírással érintett területek elhelyezkedéséről az igazgatóság rendszeresen, de legalább évente tájékoztatja a terület tulajdonosát vagy használóját.
 
-7. Nádasok kezelése:
+b) A területen található gémtelep 200 méteres körzetében, valamint a ragadozómadár figyelő- és pihenőhelyeken meg kell őrizni az ott található faállományt. Az előírással érintett terület elhelyezkedéséről az igazgatóság rendszeresen, de legalább évente tájékoztatja a terület tulajdonosát vagy használóját.
 
-a) A védett területen a nád és más vízi növényzet aratható.
+c) A szükséges források rendelkezésre állása esetén mesterséges madárszigetet kell létrehozni a Regöly 0190/h ingatlan-nyilvántartási helyrajzi számú földrészlet keleti részén található tóban.
 
-b) A nád és egyéb vízi növényzet aratását és kiszállítását november 1. és március 1. között kell elvégezni.
+3.1.2. Fajok védelme
 
-c) A nád és vízi növényzet égetése a természetvédelmi területen tilos.
+a) Fokozottan védett madárfajok fészkeinek és a gémtelep 100 m-es sugarú, költési és fiókanevelési időszakban (február 1-jétől július 31-ig) 400 m-es sugarú körzetében mindennemű, zavarással járó tevékenység (erdő-, vad- és egyéb gazdálkodással kapcsolatos tevékenység, turizmus stb.) tilos. Az előírással érintett területek elhelyezkedéséről az igazgatóság rendszeresen, de legalább évente tájékoztatja a terület tulajdonosát vagy használóját.
 
-d) A nádaratásokat a természetvédelmi hatósággal egyeztetve úgy kell ütemezni, hogy madárfészkelésre alkalmas avas nád évenként változó, meghatározott területen maradjon vissza.
+b) Amennyiben a területen földön fészkelő védett madárfaj költ, az érintett gyepterület első kaszálását legkorábban a költési időszak után (július 20.) lehet elvégezni kiszorító kaszálási módokkal, vadriasztó lánc alkalmazásával. Az előírással érintett területek elhelyezkedéséről az igazgatóság rendszeresen, de legalább évente tájékoztatja a terület tulajdonosát vagy használóját.
 
-8. Vadászat:
+c) Védett növény- és állatfaj egyedét begyűjteni (a kutatási céllal, hatósági engedéllyel végzett gyűjtést kivéve), az élővilágot zavarni tilos.
 
-a) A természetvédelmi területen a természetvédelmi előírások a vadászatot nem korlátozzák.
+3.1.3. Látogatás
 
-b) A vadászatot az érvényben levő vadászati előírásoknak megfelelően kell végezni.
+a) A terület 10 fő alatti létszámú csoportok számára gyalogosan szabadon látogatható, kivéve a fokozottan védett madárfajok fészkeinek 400 m sugarú körzetét, amely február 1–július 31. között nem látogatható. A gémtelepet és a nádasok fészkelőhelyeit költési, fiókanevelési időszakban (február 1–július 31.) tilos megközelíteni. A nem látogatható területek határát a területre bevezető utak, ösvények mentén az igazgatóság évente tájékoztató táblával jelöli meg.
 
-9. Halászat:
+b) 10 fős létszámot meghaladó csoportos látogatás – előzetes egyeztetés alapján – az igazgatóság által biztosított szakvezetéssel lehetséges az előző bekezdésben meghatározott területi korlátozásokkal.
 
-a) A halászat a halászati rendelkezések előírásainak megfelelően történhet.
+c) Kerékpározás, lovaglás során az utakról tilos letérni.
 
-b) Azt a tóegységet, amelyben a madarak fészkelését biztosító sziget van, tavasszal mindig víz alatt kell tartani.
+d) Technikai sporttevékenység nem végezhető a területen.
 
-10. Tájvédelem:
+e) Gépkocsival történő közlekedés – a területen található közúton történő közlekedés kivételével – csak természetvédelmi kezelés céljából, jogszabályban előírt vízügyi feladatok ellátása céljából, valamint havária esetén és a területen található létesítmények karbantartásával, fenntartásával kapcsolatos munkák elvégzése érdekében a területen lévő földutakon, valamint a Koppány-patak depóniáján lehetséges.
 
-A táj jellegének és természeti állapotának megóvása érdekében:
+3.1.4. Kutatás, vizsgálatok
 
-a) A nyomvonalas létesítmények, építmények (utak, vezetékek stb.) elhelyezésekor fokozott figyelmet kell fordítani a táj védelmére.
+a) Az igazgatóság természetvédelmi vagyonkezelésében lévő területen kutatás, kísérlet – az e rendelet hatálybalépésekor hatályos engedéllyel rendelkező szénhidrogén-kutatás kivételével – csak az 1. pontban meghatározott természetvédelmi célkitűzések elérése érdekében, vagy azokkal összhangban, az igazgatóság hozzájárulásával végezhető.
 
-b) A természetvédelmi területen szemét és hulladék elhelyezése tilos.
+b) Az e rendelet hatálybalépésekor hatályos engedéllyel rendelkező szénhidrogén-kutatási tevékenység a terület táji és természeti értékeinek veszélyeztetése, károsítása nélkül végezhető.
 
-11. Látogathatóság
+c) Az engedélyezett kutatási tevékenység megkezdéséről az igazgatóságot legkésőbb a kutatási tevékenység megkezdése előtt 5 nappal tájékoztatni kell.
 
-A természetvédelmi terület szabadon látogatható.
+d) A területen végzett kutatások eredményeit tartalmazó tudományos publikációk egy-egy példányát a kutatást végzőnek el kell juttatnia az igazgatóságnak és az illetékes természetvédelmi hatóságnak.
+
+3.1.5. Terület- és földhasználat
+
+a) Ragadozógyérítést a területen fészkelő madárfajok költési időszakán belül (február 1–július 31.) csak szelektív élvefogó csapdázási módszerrel lehet végezni az igazgatóság előzetes tájékoztatásával.
+
+b) Sózó, szóró létesítése tilos a területen.
+
+c) Új építmény létesítése – az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítását szolgáló, vagy azzal összhangban álló építmény, továbbá az e rendelet hatálybalépésekor hatályos engedéllyel rendelkező szénhidrogén-kutatási tevékenység során létesítendő ideiglenes, illetve a kutatási tevékenység végeztével létesített állandó építmény kivételével – tilos.
+
+d) Ipari tevékenység végzése tilos a területen.
+
+3.2. Művelési ághoz vagy földhasználati módhoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.2.1. Gyep (rét, legelő) művelési ágú területek kezelése
+
+a) A kaszálóként kezelt gyepterületeket évente legalább kétszer kaszálni kell.
+
+b) A legeltetett területeket tilos tartósan bekeríteni, a legelő állatok átmeneti elkerítésére villanypásztort kell alkalmazni.
+
+c) A gyepterületek feltörése, felülvetése, trágyázása tilos.
+
+d) A gyepterületeken a vegyszerhasználat tilos, kivéve az inváziós növényfajok visszaszorítása céljából alkalmazott speciális növényvédőszerek kijuttatását.
+
+3.2.2. Nádas művelési ágú területek kezelése
+
+A területen nádgazdálkodás nem folytatható, de a nádasok gyomosodó 1–5 méter széles parti szegélyét és a vízelvezetők környékét rendszeresen kaszálni kell.
+
+3.2.3. Erdők kezelése
+
+a) A területen a folyamatos erdőborítást biztosító erdőfelújítási módok alkalmazására kell törekedni.
+
+b) A meglévő, nem őshonos fafajokból álló állományokat ütemezetten a termőhelynek megfelelő, őshonos fafajokból álló vegyes faj- és korösszetételű erdővé kell alakítani.
+
+c) Az erdőgazdálkodásra vonatkozó további részletes előírásokat a természet védelméről szóló 1996. évi LIII. törvény 32. § (2) és (3) bekezdése alapján felülvizsgált érvényes erdőterv tartalmazza.
+
+3.2.4. Halastó művelési ágú területek kezelése
+
+a) Vízgazdálkodási és halgazdálkodási tevékenység csak az 1. pontban meghatározott természetvédelmi célkitűzésekkel összhangban folytatható, különös tekintettel a madárvédelmi célkitűzésekre.
+
+b) A halastavak kezelőjének rendszeresen egyeztetnie kell az illetékes természetvédelmi őrrel a szükséges beavatkozásokról.
+
+c) Törekedni kell a természetvédelmi szempontból ideális 1–1,5 méteres vízszint fenntartására.
+
+d) Gondoskodni kell a Regöly 099/b helyrajzi számú földrészleten elhelyezkedő 6-os számú tó halászati hasznosításból való kivonásáról, és ott további élő- és táplálkozóhely létrehozásáról a területen élő halevő madarak számára.
+
+e) Gondoskodni kell a halastavak rendszeres kotrásáról.
+
+3.2.5. Művelés alól kivett területek kezelése
+
+Az árokpartokat és a vízelvezető csatornák környékét kaszálással kell gyommentesíteni.
+
+[^20]: A 13. számú melléklet a 11/2012. (II. 21.) VM rendelet 3. §-ával megállapított szöveg.
