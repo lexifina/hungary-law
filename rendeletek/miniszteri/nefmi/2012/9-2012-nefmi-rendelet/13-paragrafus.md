@@ -1,1 +1,3 @@
-## 12. § Az R2. 5. § (5) bekezdés f) pontjában az „a járóbeteg-szakellátás tevékenységi kódlistájának alkalmazásáról szóló Szabálykönyv (NK 1994.), (a továbbiakban: Szabálykönyv)” szövegrész helyébe az „az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeletben foglaltak” szöveg lép.
+## 12. §[^5]
+
+[^5]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

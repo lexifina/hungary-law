@@ -1,3 +1,3 @@
-## 13. § Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet 2/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 13. §[^6]
 
-## „(6) Fekvőbeteg gyógyintézetben alkalmazni kívánt gyógyszer esetén, amennyiben az adott gyógyszer szerepel az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 3. számú mellékletében foglalt a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeletben besorolt protokollokban szereplő, nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban, úgy a kérelemhez nem kell csatolni az (5) bekezdés a) pontja szerinti nyilatkozatot.”
+[^6]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

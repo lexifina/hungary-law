@@ -2,7 +2,7 @@
 
 1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez
 
-Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
+## Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
 
 1. Általános elszámolhatóság alapesetei
 
@@ -14,7 +14,7 @@ Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
 
 | 3. |  | az egészségügyi eljárás megjelenésenként jelenthető |
 
-## Ha az elszámolhatósági feltételek a 3. mellékletben nem kerülnek feltüntetésre, akkor azok megegyeznek az általános elszámolhatóság alapeseteivel.
+Ha az elszámolhatósági feltételek a 3. mellékletben nem kerülnek feltüntetésre, akkor azok megegyeznek az általános elszámolhatóság alapeseteivel.
 
 2. Az elszámolhatósági feltételek általános formái
 

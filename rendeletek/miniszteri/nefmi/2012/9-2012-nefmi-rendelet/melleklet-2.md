@@ -2,8 +2,6 @@
 
 I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátási és elszámolási kompetenciája
 
-2K01830_0
-
 | OENO kód | Cs | Egészségügyi eljárás | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 
 | 11011 |  | Elsősegély | O | O | O | O | O | O | O | O | O | O | O | O |
@@ -138,8 +136,6 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 1208H |  | Elektromyographia a tremor differenciáldiagnosztikájához, minimum 2 izomból |  |  |  |  | O |  |  |  | X |  |  |  |
 
-2K01830_1
-
 | 13 | 14 | 16 | 18 | 19 | 22 | 24 | 26 | 28 | 29 | 31 | 32 | 33 | 34 | 38 | 39 | 40 | 46 | 48 | 50 | 51 | 54 | 55 | 56 | 59 | 601 | 604 | 65 | A2 | Oenokód2 |
 
 | O | O | O | O | O | O | O | O | O | O | O | O | O | O |  | O | O | O | O | O | O | O | O | O | O | O |  | O | O | 11011 |
@@ -273,8 +269,6 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 |  |  |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208G |
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208H |
-
-2K01830_2
 
 | OENO kód | Cs | Egészségügyi eljárás | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 
