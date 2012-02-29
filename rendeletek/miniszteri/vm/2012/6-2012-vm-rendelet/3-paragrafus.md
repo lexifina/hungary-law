@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a Duna-völgy eltűnőben lévő lápréti, láperdei, ligeterdei tájképi értékeinek, a terület természetes és természetközeli állapotú növénytársulásainak, valamint a hozzájuk kapcsolódó állatközösségek megőrzése.

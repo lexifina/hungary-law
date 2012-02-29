@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Dunaszentgyörgyi-láperdő természetvédelmi terület elnevezéssel a Tolna megyében, Dunaszentgyörgy és Paks közigazgatási területén lévő, az 1. mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 332 hektár kiterjedésű területet.
