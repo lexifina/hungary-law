@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a Mosoni-sík egyik legnagyobb kiterjedésű megmaradt sztyepprétjének és gazdag növény- és állatvilágának megőrzése, különös tekintettel a védett tavaszi héricsre (Adonis vernalis).

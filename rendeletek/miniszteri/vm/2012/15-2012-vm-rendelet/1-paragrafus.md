@@ -1,0 +1,3 @@
+1. § (1) Védetté nyilvánítom Várbalogi-héricses természetvédelmi terület elnevezéssel a Győr-Moson-Sopron megyében, Várbalog közigazgatási területén lévő, 018/1, 019, 020/1, 020/2, 020/3, 020/4, 020/5, 038, 0183/7, 0183/8 ingatlan-nyilvántartási helyrajzi számú, összesen 50 hektár kiterjedésű területet.
+
+(2) Az (1) bekezdésben szereplő ingatlan-nyilvántartási helyrajzi számú ingatlanok az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló 14/2010. (V. 11.) KvVM rendelet alapján európai közösségi jelentőségű természetvédelmi rendeltetésű területek.
