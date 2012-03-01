@@ -20,8 +20,9 @@ g) az Országos Szociálpolitikai Szakértői Névjegyzékkel,
 
 h) az Országos Gyermekvédelmi Szakértői Névjegyzékkel,
 
-i) az Országos Esélyegyenlőségi Szakértői Névjegyzékkel,
+i)[^10]
 
 j) a Jelnyelvi Tolmácsok Országos Névjegyzékével
 
 [^9]: Az 5. § c) pontja a 330/2011. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^10]: Az 5. § i) pontját a 321/2011. (XII. 27.) Korm. rendelet 9. § (2) bekezdés d) pontja hatályon kívül helyezte.

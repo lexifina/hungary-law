@@ -12,7 +12,7 @@ ca) a Országos Gyermekvédelmi Szakértői Névjegyzékkel,
 
 cb) az Országos Szociálpolitikai Szakértői Névjegyzékkel,
 
-cc)[^3] az Országos Esélyegyenlőségi Szakértői Névjegyzékkel,
+cc)[^3]
 
 cd)[^4] a Jelnyelvi Tolmácsok Országos Névjegyzékével és
 
@@ -26,7 +26,7 @@ e)[^7] a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. �
 
 f)[^8] az Szt. 58/A. § (2) és (2a) bekezdése, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 145. § (2) és (2a) bekezdése szerinti, a szociális és a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadási eljárásban (a továbbiakban: befogadás) szakhatóságként a Hivatalt
 
-[^3]: A 4. § c) pont cc) alpontja a 327/2011. (XII. 29.) Korm. rendelet (10) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 4. § c) pont cc) alpontját a 321/2011. (XII. 27.) Korm. rendelet 9. § (2) bekezdés d) pontja hatályon kívül helyezte.
 [^4]: A 4. § c) pont cd) alpontja a 327/2011. (XII. 29.) Korm. rendelet (10) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A 4. § c) pont ce) pontját a 327/2011. (XII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
 [^6]: A 4. § d) pontja a 330/2011. (XII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
