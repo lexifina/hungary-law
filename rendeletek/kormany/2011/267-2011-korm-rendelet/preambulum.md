@@ -1,0 +1,1 @@
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdése y) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
