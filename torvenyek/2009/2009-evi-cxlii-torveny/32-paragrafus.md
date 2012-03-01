@@ -2,7 +2,7 @@
 
 (2) E törvény – a (3)–(5) bekezdésben meghatározott eltéréssel – 2010. március 1-jén a hatályát veszti.
 
-(3) A 33. § (3) bekezdése és a Hjt. 259. § (6) bekezdése 2010. április 1-jén a hatályát veszti.
+(3)
 
 (4) A 3. §, 5. §, 7–9. §, 10. § (2) bekezdése, 11–12. §, 22. § (1) bekezdése, 23. §, 27. §, 30. §, 31. § (2)–(4) bekezdése, a 32. § (3) bekezdése, a 33. § (2) bekezdése és a 34. § (1) és (3) bekezdése 2012. március 1-jén a hatályát veszti.
 
