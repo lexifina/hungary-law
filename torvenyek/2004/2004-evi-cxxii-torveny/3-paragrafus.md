@@ -8,13 +8,13 @@ b) a programban részt vevő rendelkezik legalább huszonöt év közszférában
 
 c) a programban részt vevő további foglalkoztatására
 
-ca) a Ktv. 17. § (1) bekezdésében, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
+ca) a Kttv. 63. § (1) bekezdésében, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból, vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
 
-cb) a Ktjv. 8. § (1) bekezdés b) pontja szerinti felmentés miatt nincs lehetőség, és
+cb) a Kttv. 63. § (1) bekezdés b) pontja szerinti felmentés miatt nincs lehetőség, és
 
-d) a határozatlan idejű kinevezéssel rendelkező programban részt vevő hozzájárul határozatlan idejű foglalkoztatásra irányuló jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja foglalkoztatásra irányuló jogviszonya tekintetében a prémiumévek programban történő részvétellel összefüggésben e törvényben meghatározott, a Ktv.-ben, a Kjt.-ben, illetve az Mt.-ben foglaltaktól eltérő szabályokat.
+d) a határozatlan idejű kinevezéssel rendelkező programban részt vevő hozzájárul határozatlan idejű foglalkoztatásra irányuló jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja foglalkoztatásra irányuló jogviszonya tekintetében a prémiumévek programban történő részvétellel összefüggésben e törvényben meghatározott, a Kttv.-ben, a Kjt.-ben, illetve az Mt.-ben foglaltaktól eltérő szabályokat.
 
-(2) A prémiumévek programban való részvételhez történő hozzájárulással egyidejűleg a közalkalmazott magasabb vezető, illetve vezető beosztása, a köztisztviselő és az ügykezelő vezető megbízása, az állami vezető e megbízatása megszűnik. A vezetői munkakört betöltőkre a 4. § (2) bekezdése alkalmazandó. A prémiumévek programba való belépéskor meg kell állapítani a programban részt vevő ezen időpontig ki nem adott szabadságát.
+(2) A prémiumévek programban való részvételhez történő hozzájárulással egyidejűleg a közalkalmazott magasabb vezető, illetve vezető beosztása, az állami vezető e megbízatása megszűnik. Vezetői munkakört betöltőkre a 4. § (2) bekezdését kell alkalmazni. A prémiumévek programba való belépéskor meg kell állapítani a programban részt vevő ezen időpontig ki nem adott szabadságát.
 
 (3) A munkáltató
 
