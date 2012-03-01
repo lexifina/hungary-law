@@ -4,7 +4,7 @@
 
 (3) Ha a tag (részvényes) felelőssége a gazdasági társaságot terhelő kötelezettségekért a társaság fennállása alatt korlátozott volt, a tag (részvényes) felelőssége a társaság megszűnésekor felosztott társasági vagyonból a tagnak (részvényesnek) jutó rész erejéig áll fenn a megszűnt társaságot terhelő kötelezettségekért.
 
-(4) Ha a gazdasági társaság jogutód nélkül megszűnik – a felszámolási eljárás, valamint a Ctv. 92. § (2) bekezdése esetét kivéve – végelszámolásnak van helye.
+(4) Ha a gazdasági társaság jogutód nélkül megszűnik – a felszámolási eljárás, valamint a kényszertörlési eljárás esetét kivéve – végelszámolásnak van helye.
 
 3. CÍM
 

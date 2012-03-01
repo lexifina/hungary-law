@@ -1,10 +1,10 @@
-273. § (1) A 271–272. §-ban foglaltak nem alkalmazhatók, ha a részvénytársaság alaptőkéjének leszállítására
+273. § (1) A 271. § (2) bekezdés c) pontjában és (3)–(4) bekezdésében, valamint a 272. §-ban foglaltak nem alkalmazhatók, ha a részvénytársaság alaptőkéjének leszállítására
 
-a) a társaság veszteségének rendezése végett, vagy
+a) a társaság 245. § a) pontjában meghatározott mértékű veszteségének rendezése, vagy
 
-b) a számviteli törvényben meghatározott módon, a részvénytársaság alaptőkéjén felüli lekötött tartalék javára történő átcsoportosítás céljából
+b) a számviteli törvényben meghatározott módon, a részvénytársaság alaptőkéjén felüli lekötött tartalék javára történő átcsoportosítás
 
-kerül sor.
+céljából kerül sor.
 
 (2) Az (1) bekezdés b) pont szerinti esetben az alaptőke terhére képzett tartalék nem haladhatja meg a részvénytársaság alaptőkéjének tíz százalékát. Az így képzett lekötött tartalék kizárólag a társasági veszteségek csökkentésére vagy utóbb a részvénytársaság alaptőkéjének a felemelésére fordítható, tilos abból a részvényesek javára a 175. § szerinti kifizetést teljesíteni.
 

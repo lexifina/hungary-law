@@ -2,7 +2,7 @@
 
 (2) A közgyűlésen részt venni szándékozó részvényes, illetve részvényesi meghatalmazott nevét a közgyűlés kezdő napját megelőző második munkanapig kell a részvénykönyvbe bejegyezni.
 
-(3) A közgyűlésen a részvényesi jogok gyakorlására az a személy jogosult, akinek nevét – lezárásának időpontjában – a részvénykönyv tartalmazza. A részvénykönyv lezárása nem korlátozza a részvénykönyvbe bejegyzett személy jogát részvényeinek a részvénykönyv lezárását követő átruházásában. A részvénynek a közgyűlés kezdő napját megelőző átruházása nem zárja ki a részvénykönyvbe bejegyzett személynek azt a jogát, hogy a közgyűlésen részt vegyen és az őt mint részvényest megillető jogokat gyakorolja.
+(3) A közgyűlésen a részvényesi jogok gyakorlására az a személy jogosult, akinek nevét a közgyűlés kezdő napját megelőző második munkanapon 18 órakor a részvénykönyv tartalmazza. A részvénykönyv lezárása nem korlátozza a részvénykönyvbe bejegyzett személy jogát részvényeinek a részvénykönyv lezárását követő átruházásában. A részvénynek a közgyűlés kezdő napját megelőző átruházása nem zárja ki a részvénykönyvbe bejegyzett személynek azt a jogát, hogy a közgyűlésen részt vegyen és az őt mint részvényest megillető jogokat gyakorolja.
 
 (4) A nyilvánosan működő részvénytársaságnál a konferencia-közgyűlésre vonatkozó szabályok (239. §) azzal alkalmazandók, hogy az igazgatóság a konferencia-közgyűlés időtartamára szavazásra meghatalmazott személyt jelöl ki, aki a konferencia-közgyűlés idején valamennyi részvényes számára elérhető. A részvényesek szavazati jogukat a szavazásra meghatalmazott útján is gyakorolhatják. A szavazásra meghatalmazott nevét, a konferencia-közgyűlés alatti elérhetőségét a közgyűlési meghívóban kell feltüntetni.
 

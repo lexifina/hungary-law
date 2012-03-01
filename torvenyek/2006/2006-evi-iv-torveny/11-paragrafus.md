@@ -4,6 +4,8 @@
 
 (3) A társasági szerződést közjegyző által készített közokiratba vagy ügyvéd, illetve az alapító jogtanácsosa által ellenjegyzett magánokiratba kell foglalni.
 
-(4) A közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, valamint a zártkörűen működő részvénytársaság esetén a társasági szerződés a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) mellékletét képező szerződésminta megfelelő kitöltésével is elkészíthető. Ez esetben a társasági szerződés tartalmát kizárólag a kitöltött szerződésmintában foglalt rendelkezések alkothatják. A szerződésmintával készült társasági szerződésre a (3) bekezdést alkalmazni kell.
+(3a) A társasági szerződés elkészítése vagy ellenjegyzése során az ügyvéd az ügyvédekről szóló 1998. évi XI. törvény 27/B. § (1) bekezdésében foglalt ellenőrzést elvégzi.
+
+(4) A közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, valamint a zártkörűen működő részvénytársaság esetén a társasági szerződés a Ctv. mellékletét képező szerződésminta megfelelő kitöltésével is elkészíthető. Ez esetben a társasági szerződés tartalmát kizárólag a kitöltött szerződésmintában foglalt rendelkezések alkothatják. A szerződésmintával készült társasági szerződésre a (3)–(3a) bekezdést alkalmazni kell.
 
 (5) Ha a társasági szerződés a gazdasági társaság időtartamáról nem rendelkezik, a társaságot határozatlan időre létrejöttnek kell tekinteni.

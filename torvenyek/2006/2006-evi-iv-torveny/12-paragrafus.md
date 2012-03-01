@@ -2,9 +2,9 @@
 
 a) a gazdasági társaság cégnevét és székhelyét;
 
-b) a gazdasági társaság tagjait, mégpedig – ha a törvény másképp nem rendelkezik – nevük (cégnevük) és lakóhelyük (székhelyük), jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámának (nyilvántartási számának) feltüntetésével;
+b) a gazdasági társaság tagjait, mégpedig – ha a törvény másképp nem rendelkezik – természetes személy esetén a természetes személyazonosító adatok és lakcím, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén név (cégnév), székhely és cégjegyzékszám vagy nyilvántartási szám feltüntetésével;
 
-c) a gazdasági társaság azon tevékenységeit, amelyeket a társaság a cégjegyzékben feltüntetni kíván;
+c) a társaság főtevékenységét és valamennyi tevékenységét;
 
 d) a társaság jegyzett tőkéjét, az egyes tagok vagyoni hozzájárulását, valamint a jegyzett tőke rendelkezésre bocsátásának módját és idejét;
 
@@ -16,7 +16,7 @@ g) a gazdasági társaság működésének időtartamát, ha a társaságot hat�
 
 h) mindazt, amit e törvény az egyes társasági formáknál kötelezően előír.
 
-(2) Az (1) bekezdés c) pontjának alkalmazása során – a statisztikai nómenklatúra szerinti besorolásra való tekintet nélkül – minden olyan tevékenység megjelölhető, amit törvény nem tilt vagy nem korlátoz. A gazdasági társaság – a társasági szerződésben meghatározott tevékenységen belül – bármely gazdasági tevékenységet folytathat, amit az állami adóhatóságnak – főtevékenységként vagy más tevékenységként – bejelent.
+(2) Az (1) bekezdés c) pontjának alkalmazása során – a TEÁOR nómenklatúra szerinti besorolásra való tekintet nélkül – minden olyan tevékenység megjelölhető, amit törvény nem tilt vagy nem korlátoz. A gazdasági társaság – a társasági szerződésben meghatározott tevékenységen belül – bármely gazdasági tevékenységet folytathat, amit az állami adóhatóságnak – főtevékenységként vagy más tevékenységként – bejelent. A társasági szerződésben meghatározott tevékenység változása nem igényli a társasági szerződés módosítását.
 
 (3) A társaság jogerős cégbejegyzéséig a társasági szerződés érvénytelenségére a Ptk. rendelkezéseit kell alkalmazni. A jogerős cégbejegyzés után a társasági szerződés megtámadására nincs mód, és a semmisség megállapításának is csak a Ctv.-ben szabályozott perben, a (4) bekezdésben meghatározott semmisségi okokból van helye.
 

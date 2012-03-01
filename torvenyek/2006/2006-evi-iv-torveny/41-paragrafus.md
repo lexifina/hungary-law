@@ -1,6 +1,6 @@
 41. § (1) Ha a számviteli törvény a gazdasági társaság számára a könyvvizsgálati szolgáltatás igénybevételét kötelezővé teszi, vagy azt a gazdasági társaság társasági szerződése egyébként előírja, a gazdasági társaság legfőbb szerve megválasztja a társaság könyvvizsgálóját és meghatározza a könyvvizsgálóval kötendő szerződés lényeges elemeinek tartalmát.
 
-(2) Az (1) bekezdésben foglaltakon kívül is kötelező a könyvvizsgáló választása, ha azt törvény a köztulajdon védelme érdekében előírja.
+(2) Az (1) bekezdésben foglaltakon kívül is kötelező a könyvvizsgáló választása, ha azt törvény – a köztulajdon, közpénzek vagy a hitelezők védelme érdekében – előírja.
 
 (3) A társaság könyvvizsgálójává az választható, aki az erre vonatkozó jogszabály szerint a könyvvizsgálók nyilvántartásában szerepel. Egyebekben a könyvvizsgálóra vonatkozó szakmai képesítési és etikai követelményeket, valamint az összeférhetetlenségi szabályokat külön törvény állapítja meg.
 

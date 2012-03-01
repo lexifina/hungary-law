@@ -4,4 +4,4 @@
 
 (3) Valamennyi gazdasági társaság cégnévvel rendelkezik. A jogi személyiség nélküli gazdasági társaság is jogképes cégneve alatt, jogokat szerezhet és kötelezettségeket vállalhat, így különösen tulajdont szerezhet, szerződést köthet, pert indíthat és perelhető.
 
-(4) Törvény előírhatja, hogy egyes gazdasági tevékenységek csak meghatározott gazdasági társasági formában végezhetők.
+(4) Törvény vagy kormányrendelet közérdekből, illetve hitelezővédelmi célból előírhatja, hogy egyes gazdasági tevékenységek csak meghatározott gazdasági társasági formában végezhetők.

@@ -10,7 +10,7 @@ b) a létrejövő gazdasági társaság formáját, cégnevét és székhelyét;
 
 c) a létrejövő gazdasági társaság társasági szerződése megkötésének napját;
 
-d) az átalakuló és a létrejövő gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatait, így különösen a saját tőke, illetve a jegyzett tőke összegét, valamint a mérleg főösszeget;
+d) az átalakuló és a létrejövő gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatait;
 
 e) a létrejövő gazdasági társaság főtevékenységét;
 

@@ -3,3 +3,5 @@
 (2) Nyilvánosan működő részvénytársaság esetén a részvényesi jogok gyakorlásához nincs szükség a 212. § szerinti igazolásra, ha a jogosultság megállapítására az alapszabály rendelkezése alapján – az értékpapírokra vonatkozó törvény szerinti – tulajdonosi megfeleltetés útján kerül sor.
 
 (3) A részvénytársaság által kezdeményezett tulajdonosi megfeleltetés esetén, ha az a következő közgyűlést megelőző részvénykönyv-lezáráshoz kapcsolódik, a részvénykönyv vezetője a részvénykönyvben szereplő, a tulajdonosi megfeleltetés időpontjában hatályos valamennyi adatot törli, és ezzel egyidejűleg a tulajdonosi megfeleltetés eredményének megfelelő adatokat a részvénykönyvbe bejegyzi.
+
+(4) Nyilvánosan működő részvénytársaság esetén nem jegyezhető be a részvénykönyvbe az, aki így rendelkezett, és az ilyen tartalmú nyilatkozatot tevő a részvényest a részvénykönyv vezetője köteles a részvénykönyvből haladéktalanul törölni. A 202. § (4) bekezdése ez esetben nem alkalmazandó.

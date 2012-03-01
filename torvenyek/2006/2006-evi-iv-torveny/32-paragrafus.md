@@ -2,7 +2,7 @@
 
 (2) Ha a gazdasági társaság székhelyétől eltérő telephelyen vagy fióktelepen is folytat tevékenységet, az általános jogosítvánnyal rendelkező cégvezetőn, illetve cégvezetőkön kívül a telephelyeken, illetve fióktelepeknél is működhet cégvezető.
 
-(3) A cégvezetőre a 23. §-ban, a 25. §-ban és a 27. §-ban foglalt előírásokat megfelelően alkalmazni kell.
+(3) A cégvezetőre a 23. §-ban, a 25. §-ban, a 27. §-ban és a 30. § (3) bekezdésében foglalt előírásokat megfelelően alkalmazni kell.
 
 (4) A cégvezető részére a társaság legfőbb szerve általános képviseleti és önálló cégjegyzési jogot biztosíthat, valamint előírhatja a 26. §-ban foglalt feladatok ellátását. A cégvezető és a képviseletre jogosult más munkavállalók képviseleti jogukat másra nem ruházhatják át.
 
