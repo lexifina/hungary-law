@@ -12,7 +12,7 @@ alapján a munkaviszony ezen időpontot követően megszűnik. Az a)–b) pont s
 
 a) az elbocsátás szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a munkavállalót foglalkoztató részének a közalkalmazottak jogállásáról szóló törvény,
 
-b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a munkavállalót foglalkoztató részének a köztisztviselők jogállásáról szóló törvény
+b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a munkavállalót foglalkoztató részének a közszolgálati tisztviselőkről szóló törvény
 
 hatálya alá tartozó munkáltató számára történő átadására kerül sor. Ettől eltérően, ha a munkavállaló az átadást követően a XII. fejezet hatálya alá kerül, e rendelkezést nem kell alkalmazni.
 
