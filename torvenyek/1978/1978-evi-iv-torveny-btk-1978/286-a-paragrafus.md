@@ -34,6 +34,8 @@ g) közvetítői tevékenységen a 111/2005/EK tanácsi rendelet 2. cikkének e)
 
 kell érteni.
 
+(4) A 283/B. § alkalmazásában új pszichoaktív anyagon az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott fogalmat kell érteni.
+
 ## XVII. Fejezet
 
 ## A gazdasági bűncselekmények
