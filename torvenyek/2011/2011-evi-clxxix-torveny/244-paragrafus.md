@@ -1,1 +1,0 @@
-244. § A kijelölt szerv, valamint annak vezetője és irányítója a 243. § szerinti adatokat a 2011-ben elfogadott, e személyi kört érintő jogszabályi változásokról való tájékoztatás céljából az ezt szolgáló tájékoztatásnak a 243. §-ban meghatározott személyek részére való postázásáig kezelheti.
