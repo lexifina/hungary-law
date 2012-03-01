@@ -32,6 +32,8 @@ c) a hasznosításban – a hasznosítóval közvetlen vagy közvetett módon jo
 
 (13) Nemzeti vagyon ingyenesen kizárólag közfeladat ellátása céljából adható használatba, a közfeladat ellátásához szükséges mértékben.
 
-(14) Nemzeti vagyonba tartozó állami tulajdonú ingatlant használó központi költségvetési szerv – a (15) bekezdésben meghatározott eseteket kivéve – a rábízott állami tulajdonú ingatlant vagy ingatlanrészt nem hasznosíthatja, az ingatlanra vagy annak bármely részére vonatkozóan a használatot bármely címen átengedő szerződést nem köthet, továbbá a rábízott állami tulajdonú ingatlanon beruházást, felújítási tevékenységet nem végezhet, és nem végeztethet.
+(14)
 
-(15)–(16)
+(15)
+
+(16)
