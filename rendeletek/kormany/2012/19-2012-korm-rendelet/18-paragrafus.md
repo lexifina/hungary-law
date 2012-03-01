@@ -1,9 +1,15 @@
-## 17. §[^7]
+18. § (1)[^1]
 
-18. § (1)[^8]
+(2) Az FTT az (1) bekezdésben meghatározott feladatai mellett
 
-(2)[^9]
+a) szakértői tevékenysége keretében felméri a felsőoktatással, a felsőoktatási képzéssel kapcsolatos társadalmi, gazdasági és munkaerő-piaci igényeket és szükségleteket,
 
-[^7]: A 17. § a 30. § (2) bekezdése alapján 2012. március 1-jén lép hatályba.
-[^8]: A 18. § (1) bekezdése a 30. § (3) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
-[^9]: A 18. § (2) bekezdése a 30. § (2) bekezdése alapján 2012. március 1-jén lép hatályba.
+b) előrejelzést készít és annak alapján javaslatot tesz szakpolitikai és felsőoktatás-fejlesztési kérdésekben,
+
+c) a miniszter felkérésére
+
+ca) egyedi szakértői véleményt ad,
+
+cb) az oktatáspolitikai döntéseket megalapozó elemzéseket készít, kutatást végez.
+
+[^1]: A 18. § (1) bekezdése a 30. § (3) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
