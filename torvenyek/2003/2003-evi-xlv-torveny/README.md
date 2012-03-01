@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-45-00-00
 | --- | --- | --- |
 | 2008-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2003-45-00-00.5 |
 | 2012-01-01 | 2011. évi CLXVII. törvény | 2003-45-00-00.6 |
+| 2012-03-01 | 2012. évi V. törvény | 2003-45-00-00.7 |

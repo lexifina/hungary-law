@@ -6,12 +6,6 @@
 
 (7) Az e törvény
 
-– 7. §-ával megállapított Ktv. 17. § (2) bekezdésének e) pontját az e törvény hatálybalépése után kezdeményezett kérelmekre,
-
-– 16. §-ával megállapított Ktv. 31. § (6)–(8) bekezdését az e törvény hatálybalépése után közölt vezetői megbízásról lemondásra, vezetői megbízás visszavonására,
-
-– 23. §-ával megállapított Ktv. 44/A. §-a (1)–(2) és (5) bekezdésének, valamint az e törvény 25. §-ának (2) bekezdésével megállapított Ktv. 46. §-a (5) bekezdésének rendelkezéseit az e törvény hatálybalépését követően megállapított illetménykiegészítésre, illetve vezetői illetménypótlékra,
-
 – 27. §-ával megállapított Ktv. 48. § (5)–(8) bekezdésében foglalt rendelkezéseket az e törvény hatálybalépésétől,
 
 – 30. §-ával megállapított Ktv. 49/I. §-ában foglalt rendelkezéseket az e törvény hatálybalépése után igényelt kezességvállalásokra

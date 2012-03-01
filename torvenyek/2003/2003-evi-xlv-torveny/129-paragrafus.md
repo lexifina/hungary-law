@@ -1,10 +1,10 @@
-129. § (1) E törvény hatálybalépésétől számított 60 napon belül a munkáltatói jogkör gyakorlója – 2003. július 1-jei hatállyal – köteles e törvény szabályai szerint a köztisztviselő illetményét megállapítani.
+129. § (1)
 
-(2) A köztisztviselő alapilletményét az államigazgatásban érvényes illetményalap és a Ktv. 2. számú melléklete szerinti fizetési fokozathoz tartozó szorzószám alapján kell megállapítani.
+(2)
 
-(3) E törvény hatálybalépésével a Ktv. 43. §-ának (4)–(5) bekezdésében foglaltak alapján megállapított illetményeltérítésekről a hivatali szervezet vezetője a (2) bekezdés szerint megállapított alapilletmény alapulvételével az alapilletmény eltérítéséről ismételten határoz.
+(3)
 
-(4) A vezető – a minisztert, politikai államtitkárt kivéve – alapilletményét az államigazgatásban érvényes illetményalap és a Ktv. 45. § (1) bekezdésében megállapított szorzószám alapulvételével kell megállapítani. Vezető esetében a (3) bekezdésben foglaltakat megfelelően kell alkalmazni.
+(4)
 
 (5) Ha a vezető és a köztisztviselő 2001. július 1-jét megelőzően megállapított személyi illetménye – figyelembe véve az azóta bekövetkezett emeléseket is – magasabb, mint az e törvény szerint megállapítható illetménye, akkor a korábbi illetményére jogosult, s az nem csökkenthető azon közszolgálati jogviszonya fennállásáig, amely alapján a személyi illetményre jogosultságot szerzett. Ez esetben az illetményemelés mértékét (%-át) az éves költségvetési törvény állapítja meg. Az illetmény-megállapítás során mindaddig így kell eljárni, ameddig a korábban megállapított személyi illetmény összege az illetményrendszer szerint megállapítható illetményét el nem éri.
 
