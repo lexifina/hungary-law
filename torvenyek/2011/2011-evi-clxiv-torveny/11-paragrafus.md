@@ -10,7 +10,7 @@
 
 a) alügyészként, bírósági titkárként, közjegyzőként, ügyvédként, jogtanácsosként, az OKRI-ban kutatóként, nyomozó hatóságnál nyomozóként legalább egy évig ténylegesen dolgozott,
 
-b) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 1. §-a (2) bekezdésének, a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
+b) a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) 1. § a)–c) pontjában és 2. §-ában meghatározott szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
 
 c) ügyészként, alkotmánybíróként, bíróként működött,
 
