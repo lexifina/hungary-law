@@ -1,6 +1,6 @@
-## 17. [^58] Belépés a repülőtér területére, továbbá a repülőtér zárt, valamint szigorított védelmi területére
+## 17. [^62] Belépés a repülőtér területére, továbbá a repülőtér zárt, valamint szigorított védelmi területére
 
-23. § (1)[^59] A légiközlekedésről szóló 1995. évi XCVII. törvény 67. § (7) bekezdésében megjelölt repülőtér zárt területére (a továbbiakban: zárt terület)
+23. § (1)[^63] A légiközlekedésről szóló 1995. évi XCVII. törvény 67. § (7) bekezdésében megjelölt repülőtér zárt területére (a továbbiakban: zárt terület)
 
 a) az üzemben tartó által – a hatáskörrel rendelkező hatóságok hozzájárulásával, korlátozás nélkül vagy korlátozással – kiállított
 
@@ -12,30 +12,30 @@ b) a 185/2010/EU rendelet 1.2. pontjában meghatározott uniós repülőszemély
 
 c) nem uniós repülőszemélyzeti azonosító kártyával, továbbá érvényes repülési paranccsal és repülési tervvel, valamint kísérettel az igénybe vett légijárműhöz, vagy annak fedélzetére, vagy
 
-d)[^60] utasként érvényes beszállókártyával vagy azzal egyenértékű utazási jogosultsággal kizárólag az utazáshoz igénybe vett légijárműhöz és annak fedélzetére, vagy
+d)[^64] utasként érvényes beszállókártyával vagy azzal egyenértékű utazási jogosultsággal kizárólag az utazáshoz igénybe vett légijárműhöz és annak fedélzetére, vagy
 
-e)[^61] a légiközlekedési hatóság által kiadott légiközlekedés védelmi ellenőrzésre, vagy légiközlekedés védelmi felügyeleti tevékenységre jogosító igazolvánnyal
+e)[^65] a légiközlekedési hatóság által kiadott légiközlekedés védelmi ellenőrzésre, vagy légiközlekedés védelmi felügyeleti tevékenységre jogosító igazolvánnyal
 
 lehet belépni.
 
-(2)[^62] A repülőtéri személyazonosító kártya iránti kérelemnek tartalmaznia kell, hogy a kérelmező a repülőtér zárt területének meghatározott zónáiban milyen tevékenységet végez. A repülőtéri személyazonosító kártya kiadásának feltétele, hogy csatolni kell a kérelmező személy légiközlekedés védelmi háttérellenőrzésének eredményét, valamint a tevékenység ellátásához szükséges légiközlekedés védelmi képzés igazolását, amelyet a kártya hatályának lejárta után egy évig meg kell őrizni. A kártya kiállítását megelőzően a repülőtér üzemben tartója az általános rendőrségi feladatok ellátására létrehozott szerv, az AH és – nemzetközi repülőtér esetében – a vámhatóság hozzájárulását kéri, amelyet köteles a repülőtér üzemben tartója figyelembe venni, a hozzájárulás megtagadása esetén a kártya nem állítható ki. A személyazonosító kártya időbeli hatálya két év.
+(2)[^66] A repülőtéri személyazonosító kártya iránti kérelemnek tartalmaznia kell, hogy a kérelmező a repülőtér zárt területének meghatározott zónáiban milyen tevékenységet végez. A repülőtéri személyazonosító kártya kiadásának feltétele, hogy csatolni kell a kérelmező személy légiközlekedés védelmi háttérellenőrzésének eredményét, valamint a tevékenység ellátásához szükséges légiközlekedés védelmi képzés igazolását, amelyet a kártya hatályának lejárta után egy évig meg kell őrizni. A kártya kiállítását megelőzően a repülőtér üzemben tartója az általános rendőrségi feladatok ellátására létrehozott szerv, az AH és – nemzetközi repülőtér esetében – a vámhatóság hozzájárulását kéri, amelyet köteles a repülőtér üzemben tartója figyelembe venni, a hozzájárulás megtagadása esetén a kártya nem állítható ki. A személyazonosító kártya időbeli hatálya két év.
 
-(3)[^63] Amennyiben az uniós repülőszemélyzeti azonosító kártyát Magyarországon a működési engedéllyel rendelkező légitársaság állítja ki, annak időbeli hatálya két év.
+(3)[^67] Amennyiben az uniós repülőszemélyzeti azonosító kártyát Magyarországon a működési engedéllyel rendelkező légitársaság állítja ki, annak időbeli hatálya két év.
 
-(4)[^64] Ha a személyazonosító kártya igénybevétele és ismételt igénybevétele között 60 napnál több idő telik el, a kiállító szervezet köteles a személyazonosító kártyát bevonni. Személyazonosító kártya ismételt kiadására az előírt engedélyezési eljárás lefolytatását követően kerülhet sor. Személyek vagy csoportok részére a légiközlekedési hatóság felmentést adhat a személyazonosító kártya igénybevételére vonatkozó 60 napra vonatkozó követelmény alól. A felmentés időtartama nem haladhatja meg a személyazonosító kártya két igénybevétele között a 180 napot.
+(4)[^68] Ha a személyazonosító kártya igénybevétele és ismételt igénybevétele között 60 napnál több idő telik el, a kiállító szervezet köteles a személyazonosító kártyát bevonni. Személyazonosító kártya ismételt kiadására az előírt engedélyezési eljárás lefolytatását követően kerülhet sor. Személyek vagy csoportok részére a légiközlekedési hatóság felmentést adhat a személyazonosító kártya igénybevételére vonatkozó 60 napra vonatkozó követelmény alól. A felmentés időtartama nem haladhatja meg a személyazonosító kártya két igénybevétele között a 180 napot.
 
-(5)[^65] A repülőtér zárt területére történő belépés és a repülőtér zárt területén történő kísérés részletes szabályait a repülőtér üzemben tartója a repülőtér védelmi programban vagy a repülőtér rendben határozza meg. A belépésre vonatkozó korlátozásoknak arányban kell állniuk a biztonsági kockázattal.
+(5)[^69] A repülőtér zárt területére történő belépés és a repülőtér zárt területén történő kísérés részletes szabályait a repülőtér üzemben tartója a repülőtér védelmi programban vagy a repülőtér rendben határozza meg. A belépésre vonatkozó korlátozásoknak arányban kell állniuk a biztonsági kockázattal.
 
 (6) A repülőtéri védelmi programjában ki kell jelölni a belépés során ellenőrzést végző szervezetet, szabályozni kell a személyazonosság ellenőrzését, a személy, csomag és gépjármű átvizsgálását. A tevékenységet részletesen leíró technológiai utasításokat a védelmi program tartalmazza.
 
-(7)[^66] A védelmi háttérellenőrzés határideje 30 nap, amely egy alkalommal 30 nappal meghosszabbítható.
+(7)[^70] A védelmi háttérellenőrzés határideje 30 nap, amely egy alkalommal 30 nappal meghosszabbítható.
 
-[^58]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^59]: A 23. § (1) bekezdés nyitó szövegrésze a 240/2011. (XI. 18.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^60]: A 23. § (1) bekezdés d) pontja a 240/2011. (XI. 18.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^61]: A 23. § (1) bekezdés e) pontját a 240/2011. (XI. 18.) Korm. rendelet 19. § (2) bekezdése iktatta be.
-[^62]: A 23. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^63]: A 23. § (3) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^64]: A 23. § (4) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^65]: A 23. § (5) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^66]: A 23. § (7) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 19. § (4) bekezdése iktatta be.
+[^62]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^63]: A 23. § (1) bekezdés nyitó szövegrésze a 240/2011. (XI. 18.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^64]: A 23. § (1) bekezdés d) pontja a 240/2011. (XI. 18.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^65]: A 23. § (1) bekezdés e) pontját a 240/2011. (XI. 18.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^66]: A 23. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^67]: A 23. § (3) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^68]: A 23. § (4) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^69]: A 23. § (5) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^70]: A 23. § (7) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 19. § (4) bekezdése iktatta be.
