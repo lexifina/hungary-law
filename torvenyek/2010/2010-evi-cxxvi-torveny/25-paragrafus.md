@@ -1,8 +1,8 @@
-25. § (1) Az igazságügyi alkalmazotti szolgálati viszony kormánytisztviselői jogviszonnyá történő átalakulását követő tizenöt napon belül az igazságügyi alkalmazottat a kormánytisztviselői jogviszonyra vonatkozó szabályok szerint be kell sorolni és illetményét meg kell állapítani.
+25. § (1)
 
-(2) Az Igazságügyi Hivatal által vezetett személyi nyilvántartás adatait a munkáltatói jogkör gyakorlója a jogviszony átalakulását követő 15 napon belül köteles a közszolgálati alapnyilvántartásban átvezetni, és a személyi nyilvántartásban szereplő egyéb adatok megsemmisítéséről gondoskodni.
+(2)
 
-(3) Határozatlan időtartamú igazságügyi alkalmazotti szolgálati viszony – eltérő törvényi rendelkezés hiányában – határozatlan időtartamú kormánytisztviselői jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős kormánytisztviselői jogviszonnyá alakul át.
+(3)
 
 (4) Az átalakult jogviszony esetén a kormánytisztviselő igazságügyi alkalmazotti szolgálati viszonyban töltött idejét úgy kell tekinteni, mintha azt az államigazgatási szervnél töltötte volna el.
 
