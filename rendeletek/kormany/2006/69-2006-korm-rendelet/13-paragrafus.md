@@ -1,5 +1,0 @@
-13. § (1) A MAB a felsőoktatási intézmények működésével kapcsolatos, a felsőoktatási törvény 110. §-a szerinti minőséghitelesítés keretében munkatervet készít a képzési, az azzal összefüggő tudományos, valamint a művészeti alkotó tevékenység rendszeres értékelésére, amelyben meghatározza a vizsgálatok várható időpontját. A vizsgálatokról írásbeli értékelést készít.
-
-(2) A minőséghitelesítési vizsgálatokban részt vevő szakértőket (a továbbiakban: látogató bizottság) az elnök előterjesztése alapján a MAB Testülete jelöli ki.
-
-(3) A látogató bizottság értékelő jelentését a vizsgálat megkezdésétől számított százhúsz napon belül kell elkészíteni. A MAB elnöke a jelentést, annak elkészültét követő harminc napon belül megküldi az érintett intézmény vezetőjének, akinek további harminc napon belül joga van írásbeli észrevételt tenni. Amennyiben szükséges az észrevétellel kapcsolatos újabb adatok beszerzése, erre a MAB szervezeti és működési szabályzatában leírt módon lehetőséget kell nyújtani. Az értékelést és a felsőoktatási intézmény észrevételét tartalmazó iratot a Testület tagjai együtt kapják meg, és az értékelésről vita után, titkosan szavaznak.
