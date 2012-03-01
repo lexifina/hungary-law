@@ -6,9 +6,9 @@
 
 (3) A tárgyhónap első napján érvényes illetménye figyelembevételével a 2. melléklet szerinti kompenzációra jogosult az a foglalkoztatott, aki a 9. § szerinti nyilatkozata alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre nem jogosult és jogviszonya 2010. december 31-én a rendelet hatálya alá tartozó munkáltatóval nem állt fenn és 2012-ben munkavégzésre irányuló jogviszonyt kizárólag e rendelet hatálya alá tartozó munkáltatóval létesített.
 
-(4) A tárgyhónap első napján érvényes illetménye figyelembevételével a 3. melléklet szerinti kompenzációra jogosult az a foglalkoztatott, aki a 9. § szerinti nyilatkozata alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre egy kedvezményezett eltartott után jogosult, az eltartottak száma három főnél kevesebb, továbbá házas-, vagy élettársa nem e rendelet hatálya alá tartozó munkáltatóval áll jogviszonyban.
+(4)[^3] A tárgyhónap első napján érvényes illetménye figyelembevételével a 3. melléklet szerinti kompenzációra jogosult az a foglalkoztatott, aki a 9. § szerinti nyilatkozata alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre egy kedvezményezett eltartott után jogosult, az eltartottak száma három főnél kevesebb, továbbá nincs házas-, vagy élettársa, vagy házas-, vagy élettársa nem e rendelet hatálya alá tartozó munkáltatóval áll jogviszonyban.
 
-(5) A tárgyhónap első napján érvényes illetménye figyelembevételével a 4. melléklet szerinti kompenzációra jogosult az a foglalkoztatott, aki a 9. § szerinti nyilatkozata alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre két kedvezményezett eltartott után jogosult, az eltartottak száma három főnél kevesebb, és házas-, vagy élettársa nem e rendelet hatálya alá tartozó munkáltatóval áll jogviszonyban.
+(5)[^4] A tárgyhónap első napján érvényes illetménye figyelembevételével a 4. melléklet szerinti kompenzációra jogosult az a foglalkoztatott, aki a 9. § szerinti nyilatkozata alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre két kedvezményezett eltartott után jogosult, az eltartottak száma három főnél kevesebb, és házas-, vagy élettársa nem e rendelet hatálya alá tartozó munkáltatóval áll jogviszonyban.
 
 (6) Azon házas- vagy élettársak esetében, akik a 9. § szerinti nyilatkozatuk alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre egy kedvezményezett eltartott után jogosultak, az eltartottak száma három főnél kevesebb, és mindketten e rendelet hatálya alá tartozó munkáltatóval állnak jogviszonyban
 
@@ -34,11 +34,15 @@ c) kettejük tárgyhavi illetménye közötti különbség kisebb, mint 50 000 f
 
 ## kompenzációra jogosult.
 
-(8) A tárgyhónap első napján érvényes illetménye 2,29%-ának megfelelő – 100 forintra kerekített összegű – kompenzációra jogosult az a foglalkoztatott, akinek a jogviszonya 2010. december 31-én a rendelet hatálya alá tartozó munkáltatóval fennállt, azóta munkavégzésre irányuló jogviszonyt kizárólag e rendelet hatálya alá tartozó munkáltatóval létesített, és aki a 9. § szerinti nyilatkozata alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre
+(8)[^5] Az a foglalkoztatott, akinek a jogviszonya 2010. december 31-én e rendelet hatálya alá tartozó munkáltatóval fennállt, azóta munkavégzésre irányuló jogviszonyt kizárólag e rendelet hatálya alá tartozó munkáltatóval létesített, a tárgyhónap első napján érvényes illetménye
 
-a) egy vagy két kedvezményezett eltartott után jogosult, az eltartottak száma eléri vagy meghaladja a három főt és a tárgyhónap első napján érvényes illetménye nem éri el a 135 000 forintot,
+a) 2,29%-ának megfelelő – 100 forintra kerekített összegű – kompenzációra jogosult, amennyiben a 9. § szerinti nyilatkozata alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre
 
-b) négy vagy több gyermek után jogosult és a tárgyhónap első napján érvényes illetménye nem éri el a 135 000 forintnak a három feletti gyermekszám és a 20 000 forint szorzatával növelt összegét.
+aa) egy, két vagy három kedvezményezett eltartott után jogosult, az eltartottak száma eléri vagy meghaladja a három főt és a tárgyhónap első napján érvényes illetménye nem éri el a 135 000 forintot,
+
+ab) négy vagy több kedvezményezett eltartott után jogosult és a tárgyhónap első napján érvényes illetménye nem éri el a 135 000 forintnak a három feletti kedvezményezett eltartottak száma és a 20 000 forint szorzatával növelt összegét,
+
+b) 1,53%-ának megfelelő – 100 forintra kerekített összegű – kompenzációra jogosult, amennyiben a 9. § szerinti nyilatkozata alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre egy vagy több kedvezményezett eltartott után jogosult úgy, hogy az eltartottak száma eléri vagy meghaladja a három főt és tárgyhónap első napján érvényes illetménye meghaladja az a) pont szerinti illetményhatárt, de nem haladja meg a 216 700 forintot.
 
 (9) A tárgyhónap első napján érvényes illetménye 1,53%-ának megfelelő – 100 forintra kerekített összegű – kompenzációra jogosult az a foglalkoztatott, akinek jogviszonya 2010. december 31-én a rendelet hatálya alá tartozó munkáltatóval nem állt fenn és 2012-ben munkavégzésre irányuló jogviszonyt kizárólag e rendelet hatálya alá tartozó munkáltatóval létesített, és aki a 9. § szerinti nyilatkozata alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre egy vagy több kedvezményezett eltartott után jogosult úgy, hogy az eltartottak száma eléri vagy meghaladja a három főt, és a tárgyhónap első napján érvényes illetménye nem haladja meg a 216 700 forintot.
 
@@ -52,6 +56,9 @@ b) négy vagy több gyermek után jogosult és a tárgyhónap első napján érv
 
 (14) Az a foglalkoztatott, akinek az 1. § szerinti jogviszonya 2012. évben keletkezett és 2012. január 1-je és e jogviszony létrejötte között kizárólag e rendelet hatálya alá tartozó munkáltatóval állt munkavégzésre irányuló jogviszonyban, a (2)–(13) bekezdés alkalmazásával jogosult a kompenzációra.
 
-(15)[^1] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény alapján terhességi-gyermekágyi segélyben részesülők kompenzációjára vonatkozó előírásokat a terhességi-gyermekágyi segélyben és gyermekgondozási díjban részesülők számára nyújtott jövedelempótlékról szóló kormányrendelet tartalmazza.
+(15)[^6] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény alapján terhességi-gyermekágyi segélyben részesülők kompenzációjára vonatkozó előírásokat a terhességi-gyermekágyi segélyben és gyermekgondozási díjban részesülők számára nyújtott jövedelempótlékról szóló kormányrendelet tartalmazza.
 
-[^1]: A 2. § (15) bekezdését a 6/2012. (II. 1.) Korm. rendelet 14. §-a iktatta be.
+[^3]: A 2. § (4) bekezdése a 20/2012. (II. 22.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^4]: [A 20/2012. (II. 22.) Korm. rendelet 6. §-ával elrendelt módosítás, amely szerint a „továbbá házas–,vagy élettársa nem e rendelet hatálya alá tartozó munkáltatóval áll jogviszonyban” szövegrész helyébe a „továbbá nincs házas–, vagy élettársa, vagy házas–, vagy élettársa nem e rendelet hatálya alá tartozó munkáltatóval áll jogviszonyban” szöveg lép, nem vezethető át.]
+[^5]: A 2. § (8) bekezdése a 20/2012. (II. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. § (15) bekezdését a 6/2012. (II. 1.) Korm. rendelet 14. §-a iktatta be.
