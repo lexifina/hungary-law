@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-75-00-00
 | 2011-08-01 | 2011. évi CV. törvény | 2010-75-00-00.4 |
 | 2011-12-31 | 2011. évi CXCIV. törvény | 2010-75-00-00.5 |
 | 2012-01-01 | 2011. évi CXCI. törvény | 2010-75-00-00.6 |
+| 2012-03-01 | 2012. évi V. törvény | 2010-75-00-00.7 |
