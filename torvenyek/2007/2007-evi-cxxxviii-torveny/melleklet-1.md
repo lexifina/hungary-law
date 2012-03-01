@@ -24,7 +24,7 @@
 
 12. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
 
-13. Ktv.: a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény,
+13.
 
 14. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 

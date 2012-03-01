@@ -24,6 +24,6 @@ k) központi értéktárnál, vagy
 
 l) központi szerződő félnél
 
-tisztségviselőként, köztisztviselőként vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
+tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
 
 (2) Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha a szakirányú szakmai gyakorlat megszerzésére az (1) bekezdésben meghatározott szervezeteknek megfelelő intézménynél, illetve nemzetközi pénzügyi intézménynél került sor.
