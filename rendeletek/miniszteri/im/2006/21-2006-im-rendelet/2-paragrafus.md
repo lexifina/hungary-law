@@ -1,15 +1,16 @@
-2. § (1) A bejegyzést kérőnek a cégbejegyzési kérelmet tartalmazó nyomtatvány első – általános – részében a Ctv. 24–25. §-ában, valamint 30–31. §-ában meghatározottak közül azokat az adatokat kell feltüntetnie, amelyekkel nem a cégbíróság egészíti ki hivatalból a cégjegyzéket. A nyomtatványon azt is fel kell tüntetni, ha a cég létesítő okirata szerződésminta alkalmazásával készült.
+2. § (1)[^2] A bejegyzést kérőnek a cégbejegyzési kérelmet tartalmazó nyomtatvány első – általános – részében a Ctv. 24–25. §-ában, valamint 30–31. §-ában meghatározottak közül azokat az adatokat kell feltüntetnie, amelyekkel nem a cégbíróság egészíti ki hivatalból a cégjegyzéket. A bejegyzési nyomtatványon azt is fel kell tüntetni, ha a cég létesítő okirata szerződésminta alkalmazásával készült.
 
 (2) A nyomtatvány második részében a bejegyzést kérőnek a választott cégformától függő adatokat kell a megfelelő rovatokban feltüntetnie (Ctv. 27–29. §).
 
-(3)[^2] Ha az összes adat feltüntetésére a megfelelő rovat nem tartalmaz elegendő helyet, a további adatokat ugyanazon rovatszám alatt, a következő alszámmal megjelölve a kiegészítő lapon kell folytatólagosan feltüntetni. Amennyiben a cégbejegyzési kérelem kitöltését segítő számítógépes program ezt lehetővé teszi, a rovat kiegészítése – a bejegyzést kérő választása szerint – kiegészítő lapon vagy a rovat további alszámmal történő megnyitásával történhet.
+(3)[^3] Ha az összes adat feltüntetésére a megfelelő rovat nem tartalmaz elegendő helyet, a további adatokat ugyanazon rovatszám alatt, a következő alszámmal megjelölve a kiegészítő lapon kell folytatólagosan feltüntetni. Amennyiben a cégbejegyzési kérelem kitöltését segítő számítógépes program ezt lehetővé teszi, a rovat kiegészítése – a bejegyzést kérő választása szerint – kiegészítő lapon vagy a rovat további alszámmal történő megnyitásával történhet.
 
 (4) A nyomtatványon az értéket, mennyiséget vagy egyéb számszerű adatot számmal és betűvel is ki kell írni.
 
-(5)[^3]
+(5)[^4] Székhely (telephely, fióktelep) vagy lakóhely megjelölése esetén utca, illetve házszám hiányában a nyomtatványon a házszám helyén a helyrajzi számot kell feltüntetni.
 
-(6)[^4] A jogi képviselő a bejegyzési (változásbejegyzési) kérelmet tartalmazó nyomtatvány általános részében nyilatkozatot tehet arról, hogy az illetéket és közzétételi költségtérítést a Ctv. 37. § (5) bekezdése szerint a bejegyzési (változásbejegyzési) eljárás napján, a kérelem benyújtását megelőzően fizette meg. Amennyiben a jogi képviselő nem tesz nyilatkozatot, úgy kell tekinteni, hogy az illeték és közzétételi költségtérítés a Ctv. 37. § (4) bekezdése szerint került megfizetésre. Ebben az esetben az illeték és közzétételi költségtérítés befizetését tanúsító kincstári igazolást a kérelemhez kell csatolni.
+(6)[^5]
 
-[^2]: A 2. § (3) bekezdésének második mondatát a 41/2007. (VIII. 29.) IRM rendelet 1. § (1) bekezdése iktatta be.
-[^3]: A 2. § (5) bekezdését a 41/2007. (VIII. 29.) IRM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 81/2009. (XII. 28.) IRM rendelet 5. § (2) bekezdése.
-[^4]: A 2. § (6) bekezdését a 81/2009. (XII. 28.) IRM rendelet 1. §-a iktatta be.
+[^2]: A 2. § (1) bekezdése a 10/2012. (II. 29.) KIM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (3) bekezdésének második mondatát a 41/2007. (VIII. 29.) IRM rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § (5) bekezdését a 41/2007. (VIII. 29.) IRM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 81/2009. (XII. 28.) IRM rendelet 5. § (2) bekezdése, újonnan a 10/2012. (II. 29.) KIM rendelet 2. §-a iktatta be.
+[^5]: A 2. § (6) bekezdését a 81/2009. (XII. 28.) IRM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 10/2012. (II. 29.) KIM rendelet 9. § a) pontja.

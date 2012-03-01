@@ -1,3 +1,5 @@
 19. § (1) Ez a rendelet 2006. július 1. napján lép hatályba. Rendelkezéseit a hatálybalépését követően benyújtott cégbejegyzési (változásbejegyzési) kérelmek, illetve egyéb cégügyek esetén kell alkalmazni.
 
-(2) A rendelet hatálybalépésekor folyamatban lévő ügyekben a 8/1998. (V. 23.) IM rendelet rendelkezései irányadók. Folyamatban lévő ügynek kell tekinteni azt a változásbejegyzési (átalakulás esetén bejegyzési) kérelem alapján indult eljárást is, amely esetében a kérelmet megalapozó döntés meghozatalától a kérelem benyújtására nyitva álló határidő a rendelet hatálybalépéséig még nem telt el, és a kérelem benyújtására a rendelet hatálybalépése után kerül sor.
+(2)[^20]
+
+[^20]: A 19. § (2) bekezdését a 10/2012. (II. 29.) KIM rendelet 9. § c) pontja hatályon kívül helyezte.
