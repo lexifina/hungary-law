@@ -26,7 +26,7 @@ d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 
 2. pályakezdő fiatal: a huszonötödik életévét – felsőfokú végzettségű személy esetén a harmincadik életévét – be nem töltött, foglalkoztatásra irányuló jogviszony létesítéséhez szükséges feltételekkel és érvényes START- kártyával rendelkező személy;
 
-3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormánytisztviselői jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelő szülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
+3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelő szülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
 
 4. ösztöndíjas foglalkoztatási jogviszony: az e törvény szerinti, szakmai készségek megszerzése céljából munkatapasztalat-szerzés biztosítására és ennek keretében az egyéni szakmai programban foglalt feladatok ellátására létrejött jogviszony;
 
@@ -38,11 +38,11 @@ d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 
 – akinek a diplomája a jogviszony létesítését megelőző két éven belül került kiadásra, és
 
-– munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, közszolgálati jogviszonyban, kormánytisztviselői jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
+– munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
 
-7. foglalkoztató: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.), a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), vagy a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
+7. foglalkoztató: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.), a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.), a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt) hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
 
-8. munkaügyi törvény:az Mt., a Ktv., a Kjt., és a Ktjv.
+8. munkaügyi törvény: az Mt., a Kttv., és a Kjt.;
 
 9. tartósan álláskereső: az a személy, akit az állami foglalkoztatási szerv a START PLUSZ kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőző 16 hónapon belül legalább 12 hónapig – az Flt. 58. §-a (5) bekezdésének k) pontjában meghatározott pályakezdő álláskereső esetében 8 hónapon belül legalább 6 hónapig – álláskeresőként nyilvántartott;
 

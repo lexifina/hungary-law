@@ -16,4 +16,10 @@ f) ahol az Mt. átlagkeresetet, továbbá távolléti díjat említ, azon öszt�
 
 a) Kjt. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell a Kjt. 43. §-át, valamint 55. §-át;
 
-b) a Ktv. és a Kjtv. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell a Ktv. 7. § (1) bekezdésének első mondatát, (8) bekezdését 37. §-át, 39. § (1) és (4) bekezdését.
+b) a Kttv. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell
+
+ba) a Kttv. 39. § (1) bekezdését, 207. § (1)–(2) bekezdését és a 241. § (1)–(2) bekezdését,
+
+bb) a Kttv. 10. § (3) bekezdését, valamint 76. § (1) bekezdését,
+
+bc) a Kttv. 89. § (1) bekezdését, 232. § (1) bekezdését, és 91. § (4) bekezdését.
