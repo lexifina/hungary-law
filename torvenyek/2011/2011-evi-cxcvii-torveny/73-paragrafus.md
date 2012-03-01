@@ -1,11 +1,5 @@
 ## 4. A lakásszövetkezetekről szóló 2004. évi CXV. törvény módosítása
 
-73. §
+73. § A lakásszövetkezetekről szóló 2004. évi CXV. törvény 54. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-## 5. A gazdasági társaságokról szóló 2006. évi IV. törvény módosítása
-
-74 – 98. §
-
-## 6. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
-
-99 – 108. §
+„(4) A lakásszövetkezet megszűnése esetén a hitelezők követeléseinek teljesítése után fennmaradó vagyon a volt tagok és nem tag tulajdonosok közös tulajdonába kerül, érdekeltségük arányában.”

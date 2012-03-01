@@ -1,0 +1,3 @@
+117. § A Ctv. 45. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A cégbíróság a cégbejegyzés iránti kérelmet legkésőbb az (1) bekezdés szerinti határidő lejártának napján hiánypótlási eljárás lefolytatása nélkül elutasítja, ha a cégbejegyzési kérelemhez nem nyújtották be a nyomtatványt vagy e törvény 1. számú mellékletében felsorolt valamennyi szükséges okiratot, illetve az illetéket vagy a költségtérítést nem vagy csak részben fizették meg. A végzés ellen benyújtott fellebbezésnek a cég működése megszüntetésére vonatkozó kötelezettség tekintetében nincs halasztó hatálya. A mulasztás miatt igazolási kérelem előterjesztésének nincs helye.”

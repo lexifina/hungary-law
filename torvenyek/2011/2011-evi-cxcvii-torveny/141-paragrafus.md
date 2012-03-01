@@ -1,23 +1,23 @@
 141. § Hatályát veszti a Ctv.
 
-a)
+a) 7/A. §-a,
 
 b)
 
-c)
+c) 37. § (5) bekezdése,
 
-d)
+d) 52. §-t megelőző címe, és 52. §-a,
 
-e)
+e) 55. § (1) bekezdésének második és harmadik mondata,
 
-f)
+f) 62. § (2) bekezdésének c) pontja,
 
-g)
+g) 91–93. §-a,
 
-h)
+h) 102. § (3) bekezdés c) pontja,
 
 i)
 
-j)
+j) 136. §-a,
 
 k)

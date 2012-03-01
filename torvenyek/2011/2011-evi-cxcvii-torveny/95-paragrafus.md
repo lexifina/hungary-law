@@ -1,0 +1,3 @@
+95. § A Gt. 304. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A közgyűlésen a részvényesi jogok gyakorlására az a személy jogosult, akinek nevét a közgyűlés kezdő napját megelőző második munkanapon 18 órakor a részvénykönyv tartalmazza. A részvénykönyv lezárása nem korlátozza a részvénykönyvbe bejegyzett személy jogát részvényeinek a részvénykönyv lezárását követő átruházásában. A részvénynek a közgyűlés kezdő napját megelőző átruházása nem zárja ki a részvénykönyvbe bejegyzett személynek azt a jogát, hogy a közgyűlésen részt vegyen és az őt mint részvényest megillető jogokat gyakorolja.”
