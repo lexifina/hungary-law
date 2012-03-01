@@ -1,5 +1,3 @@
-## 13. §[^2]
-
 ## 7. Záró rendelkezések
 
 14. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
@@ -23,5 +21,3 @@ f) 1. mellékletében foglalt adatlap 8. pontjában a „HM Nemzetközi Együttm
 ## szövegrész lép.
 
 (4) Az R. 1. § (2) bekezdése hatályát veszti.
-
-[^2]: A 13. § a 14. § (2) bekezdése alapján 2012. március 1-jén lép hatályba.
