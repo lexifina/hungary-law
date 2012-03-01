@@ -14,7 +14,7 @@ c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan m
 
 (4) Az NFA elnökének és elnökhelyettesének e megbízatásával összeférhetetlen az is, ha a (3) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
 
-(5) Az NFA elnökére, elnökhelyetteseire és alkalmazottaira a kormánytisztviselők jogállásáról szóló törvény rendelkezései az irányadók.
+(5) Az NFA elnökére, elnökhelyetteseire és alkalmazottaira a közszolgálati tisztviselőkről szóló törvénynek a kormánytisztviselőkre vonatkozó rendelkezései irányadók.
 
 (6) Az NFA elnöke államtitkári illetményre és juttatásokra jogosult.
 
