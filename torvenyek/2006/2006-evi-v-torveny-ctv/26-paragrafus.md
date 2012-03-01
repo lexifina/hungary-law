@@ -24,7 +24,9 @@ k) ha a jogi személy ellen olyan eljárás van folyamatban, amelyben büntetőj
 
 l) a 85. § (1) bekezdésében meghatározott intézkedés tényét, illetve a kirendelt zárgondnok nevét (cégnevét), lakóhelyét (székhelyét),
 
-m) azt a tényt, ha a cég képviseletére jogosult személynek, továbbá, ha a cég minősített többséggel rendelkező tagjának (részvényesének) vagy uralkodó tagjának korlátlan felelősségét állapították meg a cég tartozásaiért; a képviselő, a tag nevét és lakóhelyét, a jogerős bírósági döntés számát és keltét.
+m) azt a tényt, ha a cég képviseletére jogosult személynek, továbbá, ha a cég minősített többséggel rendelkező tagjának (részvényesének) vagy uralkodó tagjának korlátlan felelősségét állapították meg a cég tartozásaiért; a képviselő, a tag nevét és lakóhelyét, a jogerős bírósági döntés számát és keltét,
+
+n) a kényszertörlési eljárás kezdő időpontját és befejezését.
 
 (2) Az (1) bekezdés a) és b) pontjában meghatározott adatokat, valamint a cég neve (rövidített neve) mellett a „felszámolás alatt” („f. a.”) toldat bejegyzését, (amennyiben a felszámolási eljárást végelszámolási eljárás előzte meg, az arra utaló toldat törlését), a képviselet módja változásának bejegyzését, a korábbi képviseletre jogosultak törlését, a felszámolóra, illetve a felszámolóbiztosra vonatkozó adatokat (név, székhely, lakóhely) – külföldi székhelyű vállalkozás fizetőképtelenségére, illetve felszámolására vonatkozó eljárás bejegyzésének kivételével – a csődeljárást, illetve a felszámolási eljárást lefolytató bíróság végzése alapján elektronikus úton kell rögzíteni a cégjegyzékben, a csődeljárást, illetve a felszámolást elrendelő jogerős végzés Cégközlönyben történő közzétételével egyidejűleg. Ha a felszámolási eljárás a cég jogutód nélküli megszűnésével befejeződik, e végzés jogerőre emelkedésének napjával a céget elektronikus úton, automatikusan kell törölni a cégjegyzékből.
 

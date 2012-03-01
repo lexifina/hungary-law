@@ -6,8 +6,8 @@
 
 a) határidő tűzésével és pénzbírság terhe mellett felhívja a mulasztás pótlására, vagy ennek eredménytelensége esetén
 
-b) 50 000 Ft-tól 500 000 Ft-ig terjedő, ismételten is kiróható pénzbírsággal sújthatja.
+b) 100 000 forinttól 900 000 forintig terjedő, ismételten is kiróható pénzbírsággal sújtja.
 
-(4) Az a hitelező, akinek bejelentett követelését a végelszámoló vitatja, igényét a végelszámoló értesítésének kézhezvételétől számított harmincnapos határidőn belül a bíróság előtt perben érvényesítheti.
+(4) Az a hitelező, akinek bejelentett követelését a végelszámoló vitatja, igényét a végelszámoló értesítésének kézhezvételétől számított harminc napos határidőn belül a bíróság előtt perben érvényesítheti, ennek megindítását a végelszámolónál igazolnia kell.
 
 (5) A végelszámoló a vitatott igények fedezetére köteles lekötött tartalékot képezni.

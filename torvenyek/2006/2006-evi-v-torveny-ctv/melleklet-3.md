@@ -32,6 +32,8 @@
 
 ## 10. a közhasznú jogállás megszerzését, illetve megszűnését tanúsító okirat.
 
+## 11. a 61/B. § szerinti tagváltozás bejegyzése iránti eljárás során, a 61/B. § (2) bekezdésében foglaltak fennállása esetén a részesedés átruházás napjával mint fordulónappal elkészített, könyvvizsgáló által hitelesített vagyonmérleg benyújtásának igazolása.
+
 ## II. Ha a bejegyzési (változásbejegyzési) kérelem tartalmára tekintettel kötelező, az egyes cégformák bejegyzéséhez (változásbejegyzéséhez) szükséges további okiratok:
 
 ## 1. korlátolt felelősségű társaság esetén:

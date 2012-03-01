@@ -34,43 +34,7 @@
 
 ## 1.6. A cég e-mail elérhetősége:
 
-## 2. A társaság tagjai
-
-## 2.1. Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Cégnév (név):
-
-## Cégjegyzékszám (nyilvántartási szám):
-
-## Székhely:
-
-## Képviseletre jogosult neve:
-
-## Anyja neve:
-
-## Lakcím:
-
-## 2.2. Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Cégnév (név):
-
-## Cégjegyzékszám (nyilvántartási szám):
-
-## Székhely:
-
-## Képviseletre jogosult neve:
-
-## Anyja neve:
-
-## Lakcím:
+## 1M40584O_0 | 2. A társaság tagjai | | 2.1. | Név:1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név):2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: | | 2.2.7 | Név: 1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név):2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén) 7 További tag esetén bővíthető. 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén)
 
 ## 3. A társaság tevékenységi köre(i)16/a
 
@@ -326,47 +290,7 @@
 
 ## 12.6. A taggyűlést az ügyvezető hívja össze.
 
-## 13. Az ügyvezető
-
-## 13.1. A társaság ügyvezetője:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Az ügyvezetői megbízatás
-
-## a) határozott időre,
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## 13.2. Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek).
-
-## 14. Cégvezető
-
-## 14.1. A társaságnál cégvezető kinevezésére
-
-## a) sor kerülhet.
-
-## b) nem kerülhet sor.
-
-## 14.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Kinevezés kezdő időpontja:
+## 1M40584O_1 | 13. Az ügyvezető | | 13.1. | A társaság ügyvezetője: | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Az ügyvezetői megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta:11 | 13.2. | Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek). | | 14. Cégvezető | | 14.1. | A társaságnál cégvezető kinevezésére8 | a) sor kerülhet. | b) nem kerülhet sor. | 14.2.12 | Cégvezetőnek kinevezett munkavállaló(k): | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Kinevezés kezdő időpontja: 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 11 Az a) pont választása esetén kitöltendő. 8 Aláhúzással jelölendő. 12 Kizárólag a 14.1.a) pont aláhúzása esetén tölthető ki.
 
 ## 15. Cégjegyzés
 
@@ -406,7 +330,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -426,7 +350,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -444,7 +368,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -466,7 +390,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -482,13 +406,13 @@
 
 ## Kamarai nyilvántartási száma:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
 ## Helyettes könyvvizsgáló neve:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 

@@ -5,3 +5,5 @@
 (3) A cég rövidített neve a vezérszóból és a cég formájának megjelöléséből áll.
 
 (4) A cégnévnek (rövidített névnek) az ország területén bejegyzett más cég elnevezésétől, illetve a 6. § (3) bekezdése szerint lefoglalt elnevezéstől – a cégforma különbözőségén túlmenően is – egyértelműen különböznie kell, és nem kelthet olyan látszatot, ami – különösen a cég tevékenységi körét és a választott cégformát illetően – megtévesztő.
+
+(5) A cégnévnek – a (4) bekezdésen túlmenően – egyértelműen különböznie kell a közhatalmi és közigazgatási szervek hivatalos és a köznyelvben használt elnevezésétől.

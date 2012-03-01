@@ -4,4 +4,4 @@
 
 (3) Az (1) bekezdésben meghatározott okok miatt, illetve ha a végelszámoló felhagy a végelszámolói tevékenység ellátásával, a cégbíróság hivatalból is törvényességi felügyeleti eljárást indíthat a cég ellen.
 
-(4) Ha azért indul törvényességi felügyeleti eljárás, mert a végelszámoló a végelszámolói tevékenységgel felhagyott, a cégbíróság a 106. § (3) bekezdésében foglalt intézkedéseket megfelelően alkalmazhatja, illetve az (1) bekezdésben foglaltak szerint biztosíthatja a feltételeket az új végelszámoló megválasztásához, vagy a kényszer-végelszámolásról is határozhat. Ha a törvényességi felügyeleti eljárás a kényszer-végelszámolás alatt indul, a cégbíróság új végelszámoló kirendeléséről hivatalból is rendelkezhet.
+(4) Ha azért indul törvényességi felügyeleti eljárás, mert a végelszámoló a végelszámolói tevékenységgel felhagyott, a cégbíróság a 106. § (3) bekezdésében foglalt intézkedéseket megfelelően alkalmazhatja, illetve az (1) bekezdésben foglaltak szerint biztosíthatja a feltételeket az új végelszámoló megválasztásához.

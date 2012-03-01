@@ -18,7 +18,7 @@ e) ha a cég működése törvényességének helyreállítása más módon nem 
 
 (5) A cégbíróság az (1) bekezdés a) és b) pontjában foglalt intézkedést megfelelően alkalmazhatja a minősített többséget biztosító befolyás megszerzőjével szemben is, ha az a befolyás megszerzésére vonatkozó bejelentési kötelezettségét késedelmesen teljesíti vagy elmulasztja.
 
-(6) Ha a törvényes működés a cégbíróság által tett intézkedés ellenére nem áll helyre, a cégbíróság a céget megszűntnek nyilvánítja.
+(6) Amennyiben a cégbíróság az (1) bekezdésben foglalt bármely intézkedés alkalmazása után úgy ítéli meg, hogy a törvényes működés további intézkedések alkalmazásával sem állítható helyre, a céget megszűntnek nyilvánítja.
 
 8. CÍM
 

@@ -1,21 +1,13 @@
-130. § (1) A törvénynek a cégbejegyzéssel (változásbejegyzéssel) kapcsolatos bírósági ügyintézési határidőkre vonatkozó rendelkezései – a 48. §-ban foglalt kivétellel – 2008. január 1-jén lépnek hatályba. A törvény hatálybalépésétől 2008. január 1. napjáig a bírósági ügyintézési határidőkre a (3)–(5) bekezdésben foglaltak az irányadók.
+130. § (1) E törvénynek a Módtv.-vel megállapított rendelkezéseit – a (2)–(7) bekezdés szerinti kivételekkel – a hatálybalépést követően kezdeményezett eljárásokban kell alkalmazni.
 
-(2) A szerződésmintával alapított, illetve működő cégek esetében
+(2) Amennyiben a Módtv. hatálybalépését megelőzően – végelszámolási eljárást követően– jogutód nélkül megszűnt cég közhiteles nyilvántartásban valamely vagyontárgyra vonatkozó jog (ide nem értve a tulajdonjogot) jogosultjaként van bejegyezve, vagy valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, ezek törlésére – az adott nyilvántartásra vonatkozó szabályoktól eltérően minden esetben – a vagyontárgy tulajdonosának kérelmére, a (3) vagy (7) bekezdés szerinti végzés csatolásával kerülhet sor. Ebben az esetben az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
 
-a) a kérelem benyújtásától számított nyolc munkanapon belül kerülhet sor a kérelem hiánypótlási eljárás lefolytatása nélküli elutasítására,
+(3) A vagyontárgy tulajdonosa kérelmére, a (4)–(7) bekezdés szerinti nemperes eljárásban a jogutód nélkül megszűnt cég székhelye szerinti cégbíróság végzést hoz arról, hogy a jogutód nélküli megszűnéssel összefüggő vagyonfelosztási határozatban, illetve vagyonfelosztási javaslatban nem volt rendelkezés a jog vagy tény más javára történő átengedéséről.
 
-b) a cég bejegyzésére irányuló kérelem esetén a hiánypótlásra felhívó végzés meghozatalára nyitva álló határidő a kérelem érkezésétől számított tíz munkanap,
+(4) A nemperes eljárásra – ha e § eltérően nem rendelkezik – a Polgári perrendtartásról szóló törvény szabályait megfelelően alkalmazni kell, szünetelésnek azonban nincs helye.
 
-c) a cég bejegyzésére irányuló kérelem érkezésétől számított tizenöt munkanapon belül dönteni kell a bejegyzésről vagy annak elutasításáról.
+(5) A kérelemnek tartalmaznia kell a jogutód nélkül megszűnt gazdálkodó szervezet azonosításához szükséges adatokat, valamint ahhoz csatolni kell a vagyontárgy tulajdonjogát igazoló okiratokat, továbbá azokat az egyéb okiratokat és határozatokat, amelyek a jog vagy tény bejegyzésével összefüggésben a kérelmező rendelkezésére állnak.
 
-(3) A szerződésminta alkalmazása nélkül alapított, illetve működő cégek esetében
+(6) Ha a legfőbb szerv által jóváhagyott vagyonfelosztási javaslat már nincs a bírósági irattárban, és az sem a végelszámolótól, sem a levéltártól nem szerezhető be, továbbá nem áll rendelkezésre más olyan okirat, amellyel hitelt érdemlő módon bizonyítható lenne annak ténye, hogy a (2) bekezdés szerinti jog vagy tény mást illet meg, a cégbíróság a Cégközlönyben a megszűnt cég, valamint a jog vagy tény megjelölését is tartalmazó végzést tesz közzé. A végzés felhívást tartalmaz arra, hogy akit a jog megillet, vagy akinek a tény feltüntetése az érdekében áll, ezt a közzétételtől számított harminc napos jogvesztő határidőn belül – az azt megalapozó okiratok csatolásával – jelentheti be a cégbíróságnál.
 
-a) a kérelem benyújtásától számított nyolc munkanapon belül kerülhet sor a kérelem hiánypótlási eljárás lefolytatása nélküli elutasítására,
-
-b) a cég bejegyzésére irányuló kérelem esetén a hiánypótlásra felhívó végzés meghozatalára nyitva álló határidő a kérelem érkezésétől számított húsz munkanap,
-
-c) a cég bejegyzésére irányuló kérelem érkezésétől számított harminc munkanapon belül dönteni kell a bejegyzésről vagy annak elutasításáról.
-
-(4) Mind a szerződéskötéssel, mind a szerződésminta alkalmazása nélkül alapított cég változásbejegyzése esetében a hiánypótlásra felhívó végzés meghozatalára nyitva álló határidő harmincöt munkanap, a változásbejegyzési kérelemben foglaltak bejegyzéséről vagy annak elutasításáról pedig a kérelem benyújtásától számított negyvenöt munkanapon belül kell dönteni.
-
-(5) A cégbíróság vezetője a (2)–(4) bekezdésben meghatározott, a cégbejegyzésre (változásbejegyzésre) vonatkozó ügyintézési határidők elmulasztása esetén a határidő lejártát követően nyolc munkanapon belül intézkedhet a bejegyzési (változásbejegyzési) kérelem elbírálásáról.
+(7) Ha a (6) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a cégbíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő feljegyzéséhez érdek nem fűződik. Ellenkező esetben a cégbíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.

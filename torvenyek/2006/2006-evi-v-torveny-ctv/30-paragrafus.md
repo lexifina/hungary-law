@@ -16,4 +16,6 @@ is fel kell tüntetni a cégjegyzékben.
 
 (5) Ha jogszabály másként nem rendelkezik és a cég bejegyzésére irányuló cégeljárásban a pénzbeli hozzájárulás befizetésének igazolására e törvény rendelkezései alapján sor kerülhet ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozattal, az ügyvezető a cég bejegyzését követő nyolc napon belül köteles a cég pénzforgalmi számláját megnyitni és a rendelkezésre bocsátott pénzbeli hozzájárulás összegét a számlára befizetni.
 
+(6) Az állami adóhatóság a cég adószámával, közösségi adószámával kapcsolatos elektronikus értesítését, illetve határozatát fokozott biztonságú elektronikus aláírással és időbélyegzővel köteles ellátni.
+
 (7) A cégjegyzékben szereplő külföldi adójogi illetőségű magánszemély vagy szervezet esetén az állami adóhatósághoz történt bejelentkezés hiányában a külföldinek az illetősége szerinti állam hatósága által megállapított adóazonosító számát kell feltüntetni.

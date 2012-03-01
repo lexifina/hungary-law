@@ -10,15 +10,15 @@ c) az európai gazdasági egyesülés székhelyét,
 
 d) az európai gazdasági egyesülés nyilvántartását végző hatóságot és a nyilvántartási számot,
 
-e) az európai gazdasági egyesülés képviseletére jogosult személy vagy szerv nevét (cégét), lakóhelyét (székhelyét), a jogviszony keletkezésének és megszűnésének időpontját,
+e) az európai gazdasági egyesülés képviseletére jogosult személy vagy szerv nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját,
 
 f) a telephely magyarországi központi ügyintézésének helyét,
 
 g) a telephelyet létesítő okirat keltét,
 
-h) a telephely tevékenységeit, azok statisztikai nómenklatúra szerinti besorolása nélkül,
+h) a telephely tevékenységeit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti besorolása nélkül,
 
-i) a telephely képviseletére jogosultak nevét (cégét) és lakóhelyét (székhelyét), valamint tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is,
+i) a telephely képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, valamint tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is,
 
 j) a telephely adószámát (közösségi adószámát), valamint statisztikai számjelét,
 
@@ -30,7 +30,7 @@ m) az l) pontban foglalt végzésnek megfelelően a cégjegyzékadatok bejegyzé
 
 (3) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelye esetében a cégjegyzék szükség szerint tartalmazza a 25. § a)–b) pontjában foglalt adatokat, valamint ha a külföldi székhelyű európai gazdasági egyesülés jogutód nélküli megszűnésére irányuló eljárás indult, az eljárás megindításának és befejezésének időpontját. A külföldi székhelyű európai gazdasági egyesülés jogutód nélküli megszűnése esetében a magyarországi telephelyet a cégbíróság törli a cégjegyzékből.
 
-(4) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzési kérelméhez a törvény mellékletében felsorolt iratok közül az 1. számú melléklet I. 1. a), 2., 4., 6., 7., 9–12., illetve a 2. számú melléklet I. 1., 2., 3. b), valamint 7. pontja alatt megjelölt iratokat kell csatolni. Az 1. számú melléklet II. 6. a) pontjában, valamint a 2. számú melléklet II. 3. a)–b) pontjában előírt iratok csatolására vonatkozó kötelezettség a külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzése során is megfelelően irányadó.
+(4) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzési kérelméhez a törvény mellékletében felsorolt iratok közül az 1. számú melléklet I. 1., 2. a), 3., 6., 7., 9–12., 13. b), illetve a 2. számú melléklet I. 1., 2., 3. b), valamint 7. pontja alatt megjelölt iratokat kell csatolni. Az 1. számú melléklet II. 6. a) pontjában, valamint a 2. számú melléklet II. 3. a)–b) pontjában előírt iratok csatolására vonatkozó kötelezettség a külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzése során is megfelelően irányadó.
 
 (5) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének nyilvántartásba vételére, illetve nyilvántartására a Fővárosi Törvényszék mint cégbíróság rendelkezik hatáskörrel és kizárólagos illetékességgel.
 

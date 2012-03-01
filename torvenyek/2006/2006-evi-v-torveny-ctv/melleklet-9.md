@@ -32,43 +32,7 @@
 
 ## 1.6. A cég e-mail elérhetősége:
 
-## 2. A társaság alapítói (részvényesei)
-
-## 2.1. Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Cégnév (név):
-
-## Cégjegyzékszám (nyilvántartási szám):
-
-## Székhely:
-
-## Képviseletre jogosult neve:
-
-## Anyja neve:
-
-## Lakcím:
-
-## 2.2. Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Cégnév (név):
-
-## Cégjegyzékszám (nyilvántartási szám):
-
-## Székhely:
-
-## Képviseletre jogosult neve:
-
-## Anyja neve:
-
-## Lakcím:
+## 1M40584Q_0 | 2. A társaság alapítói (részvényesei) | | | 2.1. | Név:1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név):2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: | | 2.2.13 | Név: 1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név):2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén) 13 Több részvényes esetén bővíthető. 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén)
 
 ## 3. A társaság tevékenységi köre(i)16/a
 
@@ -266,121 +230,7 @@
 
 ## 9.10. A közgyűlés határozatait, amennyiben a törvény másként nem rendelkezik, a szavazati joggal jelenlévők egyszerű többségével hozza meg.
 
-## 10. Az igazgatóság, a vezérigazgató
-
-## 10.1. A társaságnál
-
-## a) igazgatóság működik.
-
-## b) igazgatóság kinevezésére nem kerül sor, az igazgatóság jogait vezérigazgató gyakorolja.
-
-## 10.2. Az igazgatóság elnökét a közgyűlés választja. Az igazgatóság elnöke:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A megbízatás
-
-## a) határozott időre,
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## 10.3. Az igazgatóság tagjai:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A megbízatás
-
-## a) határozott időre,
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A megbízatás
-
-## a) határozott időre,
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## 10.4. Az igazgatóság fizetőképességi nyilatkozat tételére
-
-## a) köteles.
-
-## b) nem köteles.
-
-## 10.5. A vezérigazgató:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A megbízatás
-
-## a) határozott időre,
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## 10.6. A vezérigazgató fizetőképességi nyilatkozat tételére
-
-## a) köteles.
-
-## b) nem köteles.
-
-## 11. Cégvezető
-
-## 11.1. A társaságnál cégvezető kinevezésére
-
-## a) sor kerülhet.
-
-## b) nem kerülhet sor.
-
-## 11.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Kinevezés kezdő időpontja:
+## 1M40584Q_1 | 10. Az igazgatóság, a vezérigazgató | | 10.1. | A társaságnál8 | a) igazgatóság működik. | b) igazgatóság kinevezésére nem kerül sor, az igazgatóság jogait vezérigazgató gyakorolja. | 10.2.14 | Az igazgatóság elnökét a közgyűlés választja. Az igazgatóság elnöke: | | Név | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta:15 | 10.3.16 | Az igazgatóság tagjai: | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta: 15 | | Név | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta: 15 | 10.4.16 | Az igazgatóság fizetőképességi nyilatkozat tételére8 | a) köteles. | b) nem köteles. | 10.5.17 | A vezérigazgató: | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta: 15 | 10.6.16 | A vezérigazgató fizetőképességi nyilatkozat tételére | a) köteles. | b) nem köteles. | | 11. Cégvezető | | 11.1. | A társaságnál cégvezető kinevezésére8 | a) sor kerülhet. | b) nem kerülhet sor. | 11.2.18 | Cégvezetőnek kinevezett munkavállaló(k): | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Kinevezés kezdő időpontja: 8 Aláhúzással jelölendő. 14 A 10.1.a) pont megjelölése esetén szükség szerint kitöltendő [Gt. 243. § (1) bekezdés harmadik mondata] 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 16 A 10.1.a) pont megjelölése esetén kitöltendő. 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 16 Gt. 219. § (2) bek. 8 Aláhúzással jelölendő. 17 A 10.1.b) pont megjelölése esetén kitöltendő. 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 16 Gt. 219. § (2) bek. 8 Aláhúzással jelölendő. 18 Kizárólag a 11.1.a) pont aláhúzása esetén tölthető ki.
 
 ## 12. Cégjegyzés
 
@@ -420,7 +270,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -440,7 +290,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -458,7 +308,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -480,7 +330,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -496,13 +346,13 @@
 
 ## Kamarai nyilvántartási száma:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
 ## Helyettes könyvvizsgáló neve:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 

@@ -6,4 +6,4 @@
 
 (4) A cégbíróságon a cégiratokról e törvényben, illetve külön jogszabályban meghatározott módon kérhető másolat.
 
-(5)
+(5) Az elektronikus okiratként rendelkezésre álló cégiratról közfeladatot ellátó szervek részére történő adatszolgáltatás elektronikus úton teljesíthető, papír alapú másolat csak kivételesen indokolt esetben kérhető.

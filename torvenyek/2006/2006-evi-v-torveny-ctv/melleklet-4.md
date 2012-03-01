@@ -8,21 +8,15 @@
 
 ## 3. a jogi képviselő meghatalmazása, illetve képviseleti jogának igazolása;
 
-## 4. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása, kivéve, ha a jogi képviselő nyilatkozott, hogy az illeték és a közzétételi költségtérítés átutalásra került;
+## 4. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása;
 
-## 5. a korlátolt felelősségű társaság esetében a tagjegyzék, közös tulajdonú törzsbetét esetében a résztulajdonosok és a képviselőjük feltüntetésével;
+## 5. a vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem áll a Gt. 23. §-ában foglalt eltiltás hatálya alatt.
 
-## 6. amennyiben törvény a cég alapítását hatósági engedélyhez köti, az alapítási engedély;
-
-## 7. változásbejegyzés esetén a legfőbb szervnek vagy a legfőbb szerv helyett eljáró, döntésre jogosult szervnek a változás alapjául szolgáló határozata, továbbá, ha a változás bírósági vagy hatósági határozaton alapul, az erre vonatkozó okirat.
-
-## 8. A vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem áll a Gt. 23. §-ában foglalt eltiltás hatálya alatt.
-
-## II. Ha a bejegyzési kérelem tartalmára tekintettel szükséges, egyéb, a jogi képviselő által megvizsgálásra kerülő okiratok:
+## II. Ha a bejegyzési kérelem tartalmára tekintettel szükséges, egyéb benyújtandó okiratok:
 
 ## 1. amennyiben a cég élt névfoglalással, a névfoglalást elrendelő végzés másolata;
 
-## 2. a) a vezető tisztségviselőknek, a felügyelőbizottsági tagoknak, a könyvvizsgálónak, a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata, a közkereseti társaság és a betéti társaság vezető tisztségviselőinek kivételével, ha a képviseletet valamennyi tag ellátja,
+## 2. a) a vezető tisztségviselőknek, a könyvvizsgálónak a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata, a közkereseti társaság és a betéti társaság vezető tisztségviselőinek kivételével, ha a képviseletet valamennyi tag ellátja,
 
 ## b) az a) pontban említettek megválasztásának időtartamát tartalmazó okirat;
 
@@ -30,13 +24,39 @@
 
 ## 4. ingatlan nem pénzbeli hozzájárulásként történő szolgáltatása esetén az ingatlan – három hónapnál nem régebbi – tulajdoni lapja, melyből az ingatlannal való rendelkezés jogcíme legalább széljegy formájában megállapítható; a tulajdoni lapon a következő bejegyzésre váró széljegy jogosultjaként csak a nem pénzbeli hozzájárulást szolgáltató személy vagy szervezet szerepelhet;
 
-## 5. a korlátolt felelősségű társaság esetén:
+## 5. külföldi cég vagy más szervezet tagsága esetén a külföldi cég három hónapnál nem régebbi cégkivonata és annak magyar nyelvű hiteles fordítása, illetve annak hiteles fordításban történő igazolása, hogy a céget vagy más szervezetet a hazai joga szerint nyilvántartásba vették, illetve az az okirat, amelyből képviselőjének a képviseletre való jogosultsága megállapítható;
 
-## a) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
+## 6. a külföldi személy magyarországi kézbesítési megbízottjának a megbízására, illetve a megbízás elfogadására vonatkozó teljes bizonyító erejű magánokirat;
 
-## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
+## 7. ha a cég elnevezésében történelmi személyiség neve szerepel, vagy a cégnévhez másnak jogi érdeke fűződik, a Ctv. 4. §-ának (4) bekezdésében meghatározott személy vagy szervezet hozzájárulását tartalmazó okirat;
 
-## 6. a zártkörűen működő részvénytársaság esetén:
+## 8. társadalmi szervezet tagról vezetett nyilvántartás adatait tartalmazó három hónapnál nem régebbi kivonat;
+
+## 9. önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
+
+## 10. ha a nem pénzbeli hozzájárulás szolgáltatásához hatóság, illetve harmadik személy hozzájárulása (engedélye) szükséges, ez az okirat;
+
+## 11. a kiskorú tag képviseletére vonatkozó gyámhivatali határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
+
+## 12.
+
+## a) a székhelyhasználat jogcímét igazoló legalább teljes bizonyító erejű magánokirat,
+
+## b) a telephely(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat,
+
+## c) fióktelep(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat;
+
+## 13. amennyiben törvény a cég alapítását hatósági engedélyhez köti, az alapítási engedély;
+
+## 14. a korlátolt felelősségű társaság esetén:
+
+## a) a tagjegyzék, közös tulajdonú törzsbetét esetében a résztulajdonosok és a képviselőjük feltüntetésével;
+
+## b) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
+
+## c) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
+
+## 15. a zártkörűen működő részvénytársaság esetén:
 
 ## a) a közgyűlés összehívására vonatkozó meghívó (hirdetmény) és a jelenléti ív,
 
@@ -46,26 +66,10 @@
 
 ## d) vezető tisztségviselői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
 
-## 7. ha külön jogszabály előírja, külföldi cég vagy más szervezet tagsága esetén a külföldi cég három hónapnál nem régebbi cégkivonata és annak magyar nyelvű hiteles fordítása, illetve annak hiteles fordításban történő igazolása, hogy a céget vagy más szervezetet a hazai joga szerint nyilvántartásba vették, illetve az az okirat, amelyből képviselőjének a képviseletre való jogosultsága megállapítható;
-
-## 8. kézbesítési megbízott megjelölése esetén a külföldi személy magyarországi kézbesítési megbízottjának a megbízására, illetve a megbízás elfogadására vonatkozó teljes bizonyító erejű magánokirat;
-
-## 9. ha a cég elnevezésében történelmi személyiség neve szerepel, vagy a cégnévhez másnak jogi érdeke fűződik, a Ctv. 4. §-ának (4) bekezdésében meghatározott személy vagy szervezet hozzájárulását tartalmazó okirat;
-
-## 10. egyesület tagról vezetett nyilvántartás adatait tartalmazó három hónapnál nem régebbi kivonat;
-
-## 11. önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
-
-## 12. ha a nem pénzbeli hozzájárulás szolgáltatásához hatóság, illetve harmadik személy hozzájárulása (engedélye) szükséges, ez az okirat;
-
-## 13. a kiskorú tag képviseletére vonatkozó gyámhivatali határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
-
-## 14. változásbejegyzés esetén mindazon további okirat, amelyet az 1. és 2. számú mellékletek a változásbejegyzési kérelem tartalmára, illetve a cégformára nézve előírnak.
-
-## 15. az egyéni cég esetén
+## 16. az egyéni cég esetén
 
 ## a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
-## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
+## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról.”
 
 4. számú melléklet a 2006. évi V. törvényhez

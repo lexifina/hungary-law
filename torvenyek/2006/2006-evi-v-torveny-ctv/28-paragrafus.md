@@ -22,7 +22,7 @@ ba) a részvénytársaság ügyvezetésének típusát (igazgatóság vagy igazg
 
 bb) ha a részvény átruházását az alapszabály korlátozza, ezt a tényt,
 
-bc) azt a tényt, ha valamelyik részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik,
+bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik, a részvényes nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
 
 bd) egyszemélyes részvénytársaság esetében a részvényes nevét (cégét), lakóhelyét (székhelyét),
 

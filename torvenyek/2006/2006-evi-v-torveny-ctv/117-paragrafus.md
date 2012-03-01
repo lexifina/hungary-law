@@ -1,7 +1,15 @@
-117. § (1) A bíróság a kényszer-végelszámolást elrendelő határozatában a cég végelszámolójának – kivételesen indokolt esetben – a cég vezető tisztségviselőjét is kirendelheti. A bíróság által kirendelt végelszámoló e megbízatást alapos okkal visszautasíthatja.
+117. § (1) A kényszertörlési eljárás megindításáról szóló végzést a cégbíróság a Cégközlönyben közzéteszi. A közzétételre a Cégközlöny honlapján, napi feltöltéssel kerül sor. A végzés ellen fellebbezésnek és felülvizsgálatnak helye nincs.
 
-(2) Ha a cégbíróság végelszámolóként a felszámolók névjegyzékében szereplő szervezetet rendel ki, a felszámoló szervezet csak a Cstv.-ben szabályozott kizárási és összeférhetetlenségi okokra való hivatkozással utasíthatja vissza a megbízatást.
+(2) Az (1) bekezdés szerinti végzésben a cégbíróság felhívást tesz közzé arra vonatkozóan, hogy akinek
 
-(3) A kényszer-végelszámolás jogerős elrendelésével összefüggő változásokat a cégbíróság hivatalból jegyzi be a cégjegyzékbe és teszi közzé. A későbbi cégjegyzékadat-változások bejelentése a végelszámoló kötelezettsége.
+a) a céggel szemben követelése van – ideértve a számviteli törvény szerinti függő követelést is –,
 
-(4) A kényszer-végelszámolás során kirendelt végelszámoló a cég vagyonát csak nyilvános pályázat, illetve árverés útján értékesítheti.
+b) tudomása van arról, hogy a cég ellen bírósági, közjegyzői vagy más hatósági eljárás van folyamatban, vagy
+
+c) a cég tulajdonában lévő eszköz van a birtokában, vagy a cég vagyontárgyára vonatkozó jog jogosultjaként van bejegyezve, valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, vagy a cég vagyontárgyára tarthatna igényt,
+
+azt harminc napon belül jelentse be a cégbíróságnak.
+
+(3) Amennyiben a cég vezető tisztségviselője és tagjai elérhetőek, a cégbíróság felhívja a vezető tisztségviselőt és a tagokat a cég vagyonára és kötelezettségeire vonatkozó információk közlésére. Az együttműködési kötelezettség megszegése esetén a cégbíróság a 98. § (5) bekezdés szerinti jogkövetkezményeket alkalmazza.
+
+(4) A cégbíróság határidő tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről és az adózás rendjéről szóló törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja. Amennyiben a vezető tisztségviselő határidőben nem tett eleget ezen kötelezettségének, a cégbíróság erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot.

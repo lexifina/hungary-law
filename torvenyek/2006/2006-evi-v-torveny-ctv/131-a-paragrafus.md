@@ -1,0 +1,5 @@
+131/A. § (1) A Módtv. hatálybalépésekor folyamatban lévő kényszer-végelszámolási eljárásokban és a 2006. július 1-jén folyamatban lévő, be nem fejezett végelszámolási eljárásokban a végelszámoló a Módtv. hatálybalépését követő 1 éven belül kezdeményezi a kényszertörlési eljárás megindítását. A végelszámoló a kérelemmel egyidejűleg tájékoztatja a cégbíróságot a kényszer-végelszámolási eljárás során megtett intézkedésekről, a cég vagyonára és követeléseire vonatkozó információkról, valamint az egyéb körülményekről.
+
+(2) A cégbíróság a kényszer-végelszámolási eljárást megszünteti, a végelszámoló díjának megfizetésére a vezető tisztségviselőt és a legalább többségi befolyással rendelkező tagot egyetemlegesen kötelezi. A cégbíróság ezzel egyidejűleg megindítja a kényszertörlési eljárást, azzal, hogy az együttműködési, valamint a 117. § (4) bekezdésben foglalt kötelezettség a végelszámolót is terheli. Szükség esetén a végelszámoló díját az állam a központi költségvetés terhére megelőlegezi.
+
+(3) Amennyiben a végelszámoló az (1) bekezdésben foglaltaknak határidőben nem tesz eleget, a cégbíróság hivatalból indítja meg a kényszertörlési eljárást.

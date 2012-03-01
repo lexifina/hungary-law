@@ -2,7 +2,9 @@
 
 ## I. Ha a bejegyzési kérelem tartalmára tekintettel kötelező, valamennyi cég bejegyzéséhez (változásbejegyzéséhez) szükséges okiratok:
 
-## 1. a) létesítő okirat, illetve a létesítő okirat módosítása,
+## 1. a kérelem formanyomtatványa
+
+## 2. a) létesítő okirat, illetve a létesítő okirat módosítása,
 
 ## b) a létesítő okirat – változásokkal egybefoglalt – hatályosított szövege;
 
@@ -10,15 +12,13 @@
 
 ## d) változásbejegyzés esetén, ha a változás bírósági vagy hatósági határozaton alapul, az erre vonatkozó okirat.
 
-## 2. amennyiben törvény a cég alapítását hatósági engedélyhez köti, az alapítási engedély;
+## 3. amennyiben törvény a cég alapítását hatósági engedélyhez köti, az alapítási engedély;
 
-## 3. amennyiben a cég élt névfoglalással, a névfoglalást elrendelő végzés másolata;
+## 4. amennyiben a cég élt névfoglalással, a névfoglalást elrendelő végzés másolata;
 
-## 4.
+## 5. külföldi cég vagy más szervezet tagsága esetén a külföldi cég három hónapnál nem régebbi cégkivonata és annak hiteles magyar nyelvű fordítása, vagy annak hiteles fordításban történő igazolása, hogy a céget vagy más szervezetet a hazai joga szerint nyilvántartásba vették, illetve az az okirat, amelyből képviselőjének a képviseletre való jogosultsága megállapítható;
 
-## 5. ha külön jogszabály előírja, külföldi cég vagy más szervezet tagsága esetén a külföldi cég három hónapnál nem régebbi cégkivonata és annak magyar nyelvű hiteles fordítása, illetve annak hiteles fordításban történő igazolása, hogy a céget vagy más szervezetet a hazai joga szerint nyilvántartásba vették, illetve az az okirat, amelyből képviselőjének a képviseletre való jogosultsága megállapítható;
-
-## 6. kézbesítési megbízott megjelölése esetén a külföldi személy magyarországi kézbesítési megbízottjának a megbízására, illetve a megbízás elfogadására vonatkozó teljes bizonyító erejű magánokirat vagy közokirat;
+## 6. a külföldi személy magyarországi kézbesítési megbízottjának a megbízására, illetve a megbízás elfogadására vonatkozó teljes bizonyító erejű magánokirat vagy közokirat;
 
 ## 7. a) a vezető tisztségviselők, felügyelőbizottsági (ellenőrző bizottsági) tagok, a könyvvizsgáló, illetve a szövetkezet, az erdőbirtokossági társulat, a vízgazdálkodási társulat tisztségviselőinek a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata, a közkereseti társaság és a betéti társaság vezető tisztségviselőinek kivételével, ha a képviseletet valamennyi tag ellátja,
 
@@ -32,11 +32,19 @@
 
 ## 9. ingatlan nem pénzbeli hozzájárulásként történő szolgáltatása esetén az ingatlan – három hónapnál nem régebbi – tulajdoni lapja, melyből az ingatlannal való rendelkezés jogcíme legalább széljegy formájában megállapítható; a tulajdoni lapon a következő bejegyzésre váró széljegy jogosultjaként csak a nem pénzbeli hozzájárulást szolgáltató személy vagy szervezet szerepelhet;
 
-## 10. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása, kivéve, ha a jogi képviselő nyilatkozott, hogy az illeték és a közzétételi költségtérítés átutalásra került;
+## 10. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása;
 
 ## 11. a jogi képviselő meghatalmazása, illetve képviseleti jogának igazolása;
 
 ## 12. az adószám megállapításához szükséges, az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozat [az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése].
+
+## 13.
+
+## a) a székhelyhasználat jogcímét igazoló legalább teljes bizonyító erejű magánokirat
+
+## b) a telephely(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat
+
+## c) fióktelep(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat
 
 ## II. Ha a bejegyzési (változásbejegyzési) kérelem tartalmára tekintettel kötelező, az egyes cégformák bejegyzéséhez (változásbejegyzéséhez) szükséges további okiratok:
 

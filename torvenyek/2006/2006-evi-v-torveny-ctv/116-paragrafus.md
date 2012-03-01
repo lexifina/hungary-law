@@ -1,21 +1,21 @@
-116. § (1) Kényszer-végelszámolásra kerül sor, ha
+## VIII/A. Fejezet
 
-a) a bíróság törvényességi felügyeleti hatáskörében eljárva a céget megszűntnek nyilvánítja,
+## KÉNYSZERTÖRLÉSI ELJÁRÁS
 
-b) az állami adóhatóság jogerős határozatában arról értesíti a cégbíróságot, hogy a cég adószámát jogerősen törölte,
+116. § (1) A cégbíróság kényszertörlési eljárás megindítását rendeli el, ha
 
-c) a cég a végelszámolást három éven belül nem fejezte be,
+a) törvényességi felügyeleti hatáskörében eljárva a céget megszűntnek nyilvánítja – ideértve a 87. § (2) bekezdését és a 90. § (3) bekezdését is,
 
-d) a végelszámolás általános szabályaira történő áttérést nem hajtotta végre (114. §), valamint
+b) a cég a végelszámolást három éven belül nem fejezte be, és a 34. § (1) bekezdés szerinti határidőn belül törlése iránt szabályszerű kérelmet nem terjesztett elő,
 
-e) az anyagi jogszabályok szerint a cég jogutód nélküli megszűnését előidéző ok következett be.
+c) a cég a végelszámolás általános szabályaira történő áttérést nem hajtotta végre, vagy
 
-(2) Nincs helye kényszer-végelszámolás elrendelésének a cég fizetésképtelenségét megállapító végzés meghozatalát követően, valamint abban az esetben, ha a büntetőügyben eljáró bíróság vagy az ügyész a cégbíróságot arról értesíti, hogy a céggel szemben büntetőjogi intézkedés alkalmazására kerülhet sor.
+d) a cég jogutód nélküli megszűnését előidéző ok következett be, és végelszámolási eljárás lefolytatásának nincs helye.
 
-(3) A kényszer-végelszámolás során a cég legfőbb szerve nem dönthet a cégnek a végelszámolási eljárás alatti működtetéséről, illetve a végelszámolási eljárás megszüntetéséről. A végelszámolás kezdő időpontját követően a cég szervei nem hozhatnak a végelszámolás céljával ellentétes döntéseket.
+(2) Nincs helye kényszertörlési eljárás elrendelésének a cég fizetésképtelenségét megállapító végzés meghozatalát követően, valamint abban az esetben, ha a büntetőügyben eljáró bíróság vagy az ügyész a cégbíróságot arról értesíti, hogy a céggel szemben büntetőjogi intézkedés alkalmazására kerülhet sor.
 
-(4) A cégbíróság nem dönthet a jogerősen elrendelt kényszer-végelszámolás megszüntetéséről. A kényszer- végelszámolást – ha arra a cég által elhatározott végelszámolást követően kerül sor – a jogerős elrendelésétől számított egy éven belül be kell fejezni. A cégbíróság a határidőt a végelszámoló kérelmére indokolt esetben egy alkalommal hat hónappal, illetve ha peres eljárás van folyamatban, e per jogerős befejezéséig meghosszabbíthatja.
+(3) A kényszertörlési eljárás során a cég legfőbb szerve nem dönthet a cégnek a kényszertörlési eljárás alatti működtetéséről, illetve a kényszertörlési eljárás megszüntetéséről. A kényszertörlési eljárás kezdő időpontját követően a cég szervei nem hozhatnak a kényszertörlési eljárás céljával ellentétes döntéseket.
 
-(5) Ha a kényszer-végelszámolás során felszámolási eljárást kell kezdeményezni, a felszámolás során egyezségkötésnek nincs helye és a felszámolási eljárás az adós cég teljesítésére tekintettel nem szüntethető meg.
+(4) A cégbíróság nem dönthet a jogerősen elrendelt kényszertörlési eljárás megszüntetéséről.
 
-(6) A kényszer-végelszámolásra e fejezet szabályait – e címben foglalt eltérésekkel – kell alkalmazni.
+(5) Ha a kényszertörlési eljárás során felszámolási eljárást kell kezdeményezni, a felszámolás során egyezségkötésnek nincs helye és a felszámolási eljárás az adós cég teljesítésére tekintettel nem szüntethető meg.

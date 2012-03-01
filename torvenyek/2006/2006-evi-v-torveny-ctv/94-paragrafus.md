@@ -2,4 +2,4 @@
 
 (2) Jogszabály cégnek nem minősülő szervezet végelszámolása esetén is előírhatja e fejezet rendelkezéseinek megfelelő alkalmazását.
 
-(3) Végelszámolásra a cég legfőbb szervének elhatározása alapján vagy a cégbíróság törvényességi felügyeleti eljárásban hozott határozata alapján (kényszer-végelszámolás) kerülhet sor.
+(3) Végelszámolásra a cég legfőbb szervének elhatározása alapján kerülhet sor.

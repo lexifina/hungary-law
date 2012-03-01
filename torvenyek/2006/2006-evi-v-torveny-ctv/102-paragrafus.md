@@ -14,7 +14,7 @@ a) az ingatlanügyi hatóságot a végelszámolás tényének bejegyzése érdek
 
 b) ha a cég valamely vagyontárgya országos közhiteles vagy közérdekből vezetett nyilvántartásban szerepel, e nyilvántartást vezető szervezetet,
 
-c) az illetékes vámhatóságot, állami adóhatóságot, nyugdíjpénztárat, továbbá, ha a cég engedélyköteles tevékenységet végez, az engedélyező hatóságot,
+c)
 
 d) a területileg illetékes állami munkaerő-piaci szervezetet,
 

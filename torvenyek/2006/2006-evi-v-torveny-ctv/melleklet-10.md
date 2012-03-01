@@ -32,25 +32,7 @@
 
 ## 1.6. A cég e-mail elérhetősége:
 
-## 2. A társaság alapítója (részvényese)
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Cégnév (név):
-
-## Cégjegyzékszám (nyilvántartási szám):
-
-## Székhely:
-
-## Képviseletre jogosult neve:
-
-## Anyja neve:
-
-## Lakcím:
+## 1M40584R_0 | 2. A társaság alapítója (részvényese) | | Név:19 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név):2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: 19 Természetes személy esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén)
 
 ## 3. A társaság tevékenységi köre(i)12/a
 
@@ -162,121 +144,7 @@
 
 ## A közgyűlés hatáskörébe tartozó ügyekben az alapító (részvényes) írásban dönt, amelyről a vezető tisztségviselő(ke)t értesíteni köteles.
 
-## 8. Az igazgatóság, a vezérigazgató
-
-## 8.1. A társaságnál
-
-## a) igazgatóság működik.
-
-## b) igazgatóság kinevezésére nem kerül sor, az igazgatóság jogait vezérigazgató gyakorolja.
-
-## 8.2. Az igazgatóság elnökét az alapító választja. Az igazgatóság elnöke:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A megbízatás
-
-## a) határozott időre,
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## 8.3. Az igazgatóság tagjai:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A megbízatás
-
-## a) határozott időre,
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A megbízatás
-
-## a) határozott időre,
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## 8.4. Az igazgatóság fizetőképességi nyilatkozat tételére
-
-## a) köteles.
-
-## b) nem köteles.
-
-## 8.5. A vezérigazgató:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A megbízatás
-
-## a) határozott időre,
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## 8.6. A vezérigazgató fizetőképességi nyilatkozat tételére
-
-## a) köteles.
-
-## b) nem köteles.
-
-## 9. Cégvezető
-
-## 9.1. A társaságnál cégvezető választására
-
-## a) sor kerülhet.
-
-## b) nem kerülhet sor.
-
-## 9.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Kinevezés kezdő időpontja:
+## 1M40584R_1 | 8. Az igazgatóság, a vezérigazgató | | | 8.1. | A társaságnál8 | | a) igazgatóság működik. | | b) igazgatóság kinevezésére nem kerül sor, az igazgatóság jogait vezérigazgató gyakorolja. | | 8.2.20 | Az igazgatóság elnökét a közgyűlés választja. Az igazgatóság elnöke: | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta:15 | | 8.3. 21 | Az igazgatóság tagjai: | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta:15 | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta:15 | | 8.4.16 | Az igazgatóság fizetőképességi nyilatkozat tételére8 | | a) köteles. | | b) nem köteles. | | 8.5.17 | A vezérigazgató: | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta: 15 | | 8.6.16 | A vezérigazgató fizetőképességi nyilatkozat tételére | | a) köteles. | | b) nem köteles. | | 9. Cégvezető | | | 9.1. | A társaságnál cégvezető kinevezésére8 | | a) sor kerülhet. | | b) nem kerülhet sor. | | 9.2.22 | Cégvezetőnek kinevezett munkavállaló(k): | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Kinevezés kezdő időpontja: 8 Aláhúzással jelölendő. 20 A 8.1.a) pont megjelölése esetén szükség szerint kitöltendő [Gt. 243. § (1) bekezdés harmadik mondata] 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 21 A 8.1.a) pont megjelölése esetén kitöltendő. 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 16 Gt. 219. § (2) bek. 8 Aláhúzással jelölendő. 17 A 10.1.b) pont megjelölése esetén kitöltendő. 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 16 Gt. 219. § (2) bek. 8 Aláhúzással jelölendő. 22 A 9.1.a) pont aláhúzása esetén tölthető ki.
 
 ## 10. Cégjegyzés
 
@@ -316,7 +184,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -336,7 +204,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -354,7 +222,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -376,7 +244,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -392,13 +260,13 @@
 
 ## Kamarai nyilvántartási száma:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
 ## Helyettes könyvvizsgáló neve:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -446,9 +314,7 @@
 
 ## 1. Az egyéni cég cégneve, székhelye, telephelye(i), fióktelepe(i)
 
-## 1.1. Az egyéni cég neve:   Egyéni Cég
-
-## Az egyéni cég rövidített cégneve:   ec./kfc.
+## | 1.1. | Az egyéni cég neve: ………………………………………………………… Egyéni Cég | Az egyéni cég rövidített cégneve:………………………………………………… ec.
 
 ## 1.2. Az egyéni cég idegen nyelvű cégneve:
 
@@ -468,15 +334,7 @@
 
 ## 1.6. Az egyéni cég e-mail elérhetősége:
 
-## 2. Az egyéni cég tagja
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Egyéni vállalkozói nyilvántartási száma:
+## 1M40584S_1 | 2. | Az egyéni cég tagja | | Név:11 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Egyéni vállalkozói nyilvántartási száma: 11 Kitöltése kötelező.
 
 ## 3. Az egyéni cég tevékenységi köre(i)
 
@@ -506,53 +364,9 @@
 
 ## hozzájárulásból áll.
 
-## 5.2 Az alapító felelősségének módja:
+## 1M40584S_2 | 5.2. | Osztalékelőleg fizetésére8 | a) sor kerülhet | b) nem kerülhet sor. 8 Aláhúzással jelölendő
 
-## a) korlátlan
-
-## b) korlátozott, a pótbefizetés összege:
-
-## 6. Ügyvezető
-
-## 6.1. A társaság ügyvezetője:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A megbízatás
-
-## a) határozott időre
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## 6.2. Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek).
-
-## 7. Cégvezető
-
-## 7.1. A társaságnál cégvezető kinevezésére
-
-## a) sor kerülhet.
-
-## b) nem kerülhet sor.
-
-## 7.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Kinevezés kezdő időpontja:
+## 1M40584S_3 | | 6. | Ügyvezető | | | 6.1. | A társaság ügyvezetője: | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A megbízatás8 | | a) határozott időre6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta:12 | 6.2. Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek). | | | 7. | Cégvezető | | | 7.1. | A társaságnál cégvezető kinevezésére8 | | a) sor kerülhet. | | b) nem kerülhet sor. | | 7.2.13 | Cégvezetőnek kinevezett munkavállaló(k): | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Kinevezés kezdő időpontja: 8 Aláhúzással jelölendő 6 Legfeljebb 5 évre (Gt. 24. §) 12 Az a) pont választása esetén kitöltendő. 8 Aláhúzással jelölendő 13 Kizárólag a 7.1. a) alpont aláhúzása esetén tölthető ki.
 
 ## 8. Könyvvizsgáló
 
@@ -560,7 +374,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -576,13 +390,13 @@
 
 ## Kamarai nyilvántartási száma:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
 ## Helyettes könyvvizsgáló neve:
 
-## Anyja neve: .
+## Anyja születési neve: .
 
 ## Lakcím:
 
@@ -615,21 +429,3 @@
 ## Név:
 
 ## együttesen jogosultak cégjegyzésre.
-
-## 10. Az egyéni cég megszűnése
-
-## Az egyéni cég jogutód nélküli megszűnése esetében a hitelezők kielégítése után fennmaradó vagyon az alapítót illeti meg.
-
-## 11. Egyéb rendelkezések
-
-## A jelen alapító okiratban nem szabályozott kérdésekben az egyéni vállalkozóról és az egyéni cégről szóló törvény, az ott nem szabályozott vagyoni és személyi viszonyokra a Polgári Törvénykönyvről szóló 1959. évi IV. törvény rendelkezéseit kell alkalmazni.
-
-## Kelt: .........................................................................
-
-## Az alapító aláírása:
-
-## ...................................................................................
-
-## Név:
-
-## Ellenjegyezte/közokiratba foglalta:

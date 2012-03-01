@@ -8,6 +8,4 @@
 
 5. CÍM
 
-Az ismeretlen székhelyű cég
-
-megszüntetésére irányuló eljárás
+Az ismeretlen székhelyű cég megszüntetésére irányuló eljárás

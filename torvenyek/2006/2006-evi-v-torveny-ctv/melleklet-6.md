@@ -34,81 +34,7 @@
 
 ## 1.6. A cég e-mail elérhetősége:
 
-## 2. A társaság beltagja(i)
-
-## 2.1. Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Cégnév (név):
-
-## Cégjegyzékszám (nyilvántartási szám):
-
-## Székhely:
-
-## Képviseletre jogosult neve:
-
-## Anyja neve:
-
-## Lakcím:
-
-## 2.2. Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Cégnév (név):
-
-## Cégjegyzékszám (nyilvántartási szám):
-
-## Székhely:
-
-## Képviseletre jogosult neve:
-
-## Anyja neve:
-
-## Lakcím:
-
-## 3. A társaság kültagja(i)
-
-## 3.1. Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Cégnév (név):
-
-## Cégjegyzékszám (nyilvántartási szám):
-
-## Székhely:
-
-## Képviseletre jogosult neve:
-
-## Anyja neve:
-
-## Lakcím:
-
-## 3.2. Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Cégnév (név):
-
-## Cégjegyzékszám (nyilvántartási szám):
-
-## Székhely:
-
-## Képviseletre jogosult neve:
-
-## Anyja neve:
-
-## Lakcím:
+## 1M40584N_0 | 2. A társaság beltagja(i) | | 2.1. | Név:1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név):2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: | | 2.2.7 | Név: 1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név): 2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: | | 3. A társaság kültagja(i) | | | | 3.1. | Név: 1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név):2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: | | 3.2.7 | Név: 1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név): 2 | | Cégjegyzékszám (nyilvántartási szám): 3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén) 7 További tag esetén bővíthető. 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén) 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén) 7 További tag esetén bővíthető. 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén)
 
 ## 4. A társaság tevékenységi köre(i)23/a
 
@@ -248,81 +174,7 @@
 
 ## szavazat száma:
 
-## 11. Az üzletvezetés és képviselet
-
-## A társaság üzletvezetésére és képviseletére
-
-## a) a 2. pontban megjelölt minden beltag időbeli korlátozás nélkül jogosult,
-
-## A jogviszony kezdete:
-
-## b) az alábbi beltag(ok) és/vagy kültag(ok) időbeli korlátozás nélkül jogosult(ak):
-
-## Név:
-
-## A jogi személy tag által kijelölt természetes személy:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A jogviszony kezdete:
-
-## c) a 2. pontban megjelölt minden beltag határozott ideig jogosult,
-
-## A jogviszony kezdete:
-
-## A jogviszony vége:
-
-## d) az alábbi beltag(ok) és/vagy kültag(ok) határozott ideig jogosult(ak):
-
-## Név:
-
-## A jogi személy tag által kijelölt természetes személy:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A jogviszony kezdete:
-
-## A jogviszony vége:
-
-## e) az alábbi, egyetlen üzletvezetésre és képviseletre jogosult tag, időbeli korlátozás nélkül jogosult:
-
-## Név:
-
-## A jogi személy tag által kijelölt természetes személy:
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## A jogviszony kezdete:
-
-## 12. Cégvezető
-
-## 12.1. A társaságnál cégvezető kinevezésére
-
-## a) sor kerülhet.
-
-## b) nem kerülhet sor.
-
-## 12.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-## Név:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Kinevezés kezdő időpontja:
+## 1M40584N_1 | 11. Az üzletvezetés és képviselet | | | A társaság üzletvezetésére és képviseletére | | a) a 2. pontban megjelölt minden beltag időbeli korlátozás nélkül jogosult, | | A jogviszony kezdete: | | b) az alábbi beltag(ok) és/vagy kültag(ok) időbeli korlátozás nélkül jogosult(ak):4 | | Név:10 | | A jogi személy tag által kijelölt természetes személy:5 | | Név | | Születési hely és idő: | | Anyja születési neve | | Lakcím | | A jogviszony kezdete | | c) a 2. pontban megjelölt minden beltag határozott ideig jogosult, 6 | | A jogviszony kezdete | | A jogviszony vége: | | d) az alábbi beltag(ok) és/vagy kültag(ok) határozott ideig jogosult(ak): 6 4 | | Név: 10 | | A jogi személy tag által kijelölt természetes személy:5 | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A jogviszony kezdete: | | A jogviszony vége: | | e) az alábbi, egyetlen üzletvezetésre és képviseletre jogosult tag, időbeli korlátozás nélkül jogosult: | | Név: | | A jogi személy tag által kijelölt természetes személy: 5 | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | A jogviszony kezdete: | | 12. Cégvezető | | 12.1. | A társaságnál cégvezető kinevezésére8 | a) sor kerülhet. | b) nem kerülhet sor. | 12.2. 9 | Cégvezetőnek kinevezett munkavállaló(k): | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Kinevezés kezdő időpontja: 4 Több üzletvezetésre és képviseletre jogosult tag esetén bővíthető. 10 Amennyiben a társaság jogi személy tagja az üzletvezetést az általa kijelölt természetes személy útján látja el, e jogi személy tag cégnevét kell megjelölni. 5 Szükség esetén kitöltendő. 6 Legfeljebb 5 évig (Gt. 24. §) 6 Legfeljebb 5 évig (Gt. 24. §) 4 Több üzletvezetésre és képviseletre jogosult tag esetén bővíthető. 10 Amennyiben a társaság jogi személy tagja az üzletvezetést az általa kijelölt természetes személy útján látja el, e jogi személy tag cégnevét kell megjelölni. 5 Szükség esetén kitöltendő. 5 Szükség esetén kitöltendő. 8 Aláhúzással jelölendő. 9 Kizárólag a 11.1. a) pont aláhúzása esetén tölthető ki.
 
 ## 13. Cégjegyzés
 
@@ -356,7 +208,7 @@
 
 ## Név:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
@@ -372,13 +224,13 @@
 
 ## Kamarai nyilvántartási száma:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
 ## Helyettes könyvvizsgáló neve:
 
-## Anyja neve:
+## Anyja születési neve:
 
 ## Lakcím:
 
