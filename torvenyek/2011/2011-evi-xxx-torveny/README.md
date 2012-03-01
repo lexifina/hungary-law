@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-30-00-00
 | 2011-04-03 | 2010. évi CXXX. törvény | 2011-30-00-00.2 |
 | 2011-06-02 | 2010. évi CXXX. törvény | 2011-30-00-00.3 |
 | 2011-09-02 | 2010. évi CXXX. törvény | 2011-30-00-00.4 |
+| 2012-03-01 | 2012. évi V. törvény | 2011-30-00-00.5 |
