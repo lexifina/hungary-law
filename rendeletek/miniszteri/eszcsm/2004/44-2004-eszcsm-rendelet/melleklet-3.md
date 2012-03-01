@@ -1,6 +1,6 @@
-3. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^102]
+3. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^105]
 
-GYÓGYINTÉZETI (KÓRHÁZI) GYÓGYSZERIGÉNYLŐ LAP
+## GYÓGYINTÉZETI (KÓRHÁZI) GYÓGYSZERIGÉNYLŐ LAP
 
 ## GYÓGYINTÉZETI (KÓRHÁZI) GYÓGYSZERIGÉNYLŐ LAP
 
@@ -36,4 +36,4 @@ II. Kérem a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejle
 
 III. Kérem a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
 
-[^102]: A 3. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés h) és i) pontja szerint módosított szöveg.
+[^105]: A 3. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés h) és i) pontja szerint módosított szöveg.

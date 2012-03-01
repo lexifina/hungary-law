@@ -68,7 +68,7 @@
 
 ## * A nem kívánt rész törlendő.
 
-6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^105]
+6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^108]
 
 Gyógyszerészeti és Egészségügyi Minőség-
 
@@ -84,7 +84,7 @@ INDIKÁCIÓN TÚLI GYÓGYSZERRENDELÉS ENGEDÉLYEZÉSÉRE
 
 Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet 2/A. §-ában foglaltaknak megfelelően kérem a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézettől indikáción túli gyógyszerrendelés engedélyezését az alábbiak szerint
 
-◻ sürgősséggel (amit külön mellékletben indokolok[^106])
+◻ sürgősséggel (amit külön mellékletben indokolok[^109])
 
 ◻ a szokásos eljárási rendben
 
@@ -138,7 +138,7 @@ Az indikáción túli gyógyszerrendelés adatai
 
 Az engedélyezni kért javallat:
 
-Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^107]
+Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^110]
 
 A gyógyszer tervezett adagolása:
 
@@ -160,6 +160,6 @@ kezelőorvos
 
 P. H.
 
-[^105]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 46/2008. (XII. 3.) EüM rendelet 6. § (5) bekezdése, a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés c) pontja és (3) bekezdése szerint módosított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c)–d) és j) pontja szerint módosított szöveg.
-[^106]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
-[^107]: Részletes mellékletben.
+[^108]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 46/2008. (XII. 3.) EüM rendelet 6. § (5) bekezdése, a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés c) pontja és (3) bekezdése szerint módosított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c)–d) és j) pontja szerint módosított szöveg.
+[^109]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
+[^110]: Részletes mellékletben.

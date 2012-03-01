@@ -1,3 +1,5 @@
+## 8. §[^57]
+
 ## A gyógyszer rendelése
 
 9. § (1)[^58] Egy vényen csak egyféle gyógyszer rendelhető.
@@ -14,6 +16,7 @@
 
 (7)[^63] Indikáción túli gyógyszerrendelés esetén az orvos a rendelt gyógyszer helyettesítését letiltja a gyógyszerész felé.
 
+[^57]: A 8. §-t és az azt megelőző címet a 47/2005. (XI. 4.) EüM rendelet 19. § (4) bekezdése hatályon kívül helyezte.
 [^58]: A 9. § (1) bekezdése a 47/2005. (XI. 4.) EüM rendelet 7. §-ával megállapított szöveg.
 [^59]: A 9. § (2) bekezdése a 47/2005. (XI. 4.) EüM rendelet 7. §-ával megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^60]: A 9. § (3) bekezdését a 47/2005. (XI. 4.) EüM rendelet 19. § (4) bekezdése hatályon kívül helyezte.

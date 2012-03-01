@@ -20,7 +20,7 @@ db) a gyógyszerrel történt kezeléssel kapcsolatos szakmai folyóiratban köz
 
 dc) a hazai, illetve nemzetközi ajánlásokat,
 
-vagy a (6) bekezdés szerinti gyógyszer esetén a külön jogszabály szerinti, az egészségügyi miniszter által tájékoztatóban közzétett azon protokollnak a megjelölését, amelyben az alkalmazni kívánt gyógyszer szerepel,
+## vagy a (6) bekezdés szerinti gyógyszer esetén a külön jogszabály szerinti, az egészségügyi miniszter által tájékoztatóban közzétett azon protokollnak a megjelölését, amelyben az alkalmazni kívánt gyógyszer szerepel,
 
 e) a beteg nevét, születési idejét, TAJ számát, kiskorú beteg, illetve cselekvőképtelen beteg esetén az egészségügyről szóló 1997. évi CLIV. törvény 16. § (2) bekezdése szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) nevét.
 
