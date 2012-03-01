@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-51-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2009-09-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-51-00-00.2 |
+| 2012-03-01 | 2011. évi CXCVII. törvény | 2009-51-00-00.3 |
