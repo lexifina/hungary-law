@@ -24,7 +24,7 @@ b) áthelyezéssel
 
 1. az e törvény, valamint
 
-2. e törvény és a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, illetőleg
+2. e törvény és a közszolgálati tisztviselőkről szóló törvény,
 
 3.
 

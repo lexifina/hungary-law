@@ -14,7 +14,7 @@ alapján a közalkalmazotti jogviszony a 25/A. § (2) bekezdése szerinti időpo
 
 a) a rendkívüli felmondás szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a közalkalmazottat foglalkoztató részének a Munka Törvénykönyve,
 
-b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a közalkalmazottat foglalkoztató részének a köztisztviselők jogállásáról szóló törvény
+b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a közalkalmazottat foglalkoztató részének a közszolgálati tisztviselőkről szóló törvény
 
 hatálya alá tartozó munkáltató számára történő átadására kerül sor.
 
