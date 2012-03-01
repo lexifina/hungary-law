@@ -8,4 +8,12 @@
 
 (3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény rendelkezéseit is megfelelően alkalmazni kell.
 
-(4) Ha az igazságügyi alkalmazott szolgálati viszonya nemzetközi szervnél vagy az Európai Unió szervénél történő munkavégzésre figyelemmel szűnik meg, a szolgálati viszony megszűnésére és az azt követő újabb létesítésére a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 16/A. §-át megfelelően alkalmazni kell.
+(4) Ha az igazságügyi alkalmazott nemzetközi szervnél vagy az Európai Unió szervénél jogviszonyt létesít, igazságügyi alkalmazotti szolgálati jogviszonya az új jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
+
+(5) Ha a (4) bekezdésben meghatározottak szerint szűnt meg az igazságügyi alkalmazott szolgálati jogviszonya, annak megszűnésétől számított hat éven belül – az igazságügyi alkalmazott írásban bejelentett kérelmére – a kérelem megérkezésétől számított 30 napon belül, volt munkáltatója a végzettségének, képzettségének megfelelő munkakört köteles számára felajánlani. A volt munkáltatót felajánlási kötelezettség csak abban az esetben terheli, ha az igazságügyi alkalmazott kérelmét a nemzetközi szervezettel vagy az Európai Unió szerveivel való jogviszonya fennállása alatt vagy annak megszűnésétől számított 30 napon belül küldi meg a volt munkáltatónak. Ha az igazságügyi alkalmazott az ajánlatot a kézhezvételtől számított 30 napon belül elfogadja, az igazságügyi alkalmazottat ki kell nevezni.
+
+(6) Mentesül a volt munkáltató a munkakör-felajánlási kötelezettség alól, ha az igazságügyi alkalmazott
+
+a) a (4) bekezdés szerinti jogviszonyát neki felróható módon szüntette meg,
+
+b) nyugdíjasnak minősül.
