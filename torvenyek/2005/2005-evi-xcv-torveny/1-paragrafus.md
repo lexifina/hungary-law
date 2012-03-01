@@ -66,7 +66,7 @@ e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszere
 
 22. Szabványos Vényminta Gyűjtemény (FoNo): a magisztrális gyógyszerkészítés szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
 
-23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől vagy Magyarországon alkalmazott biztonságos és hatékony terápiás eljárástól nem várható;
+23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélyek lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől vagy Magyarországon alkalmazott biztonságos és hatékony terápiás eljárástól nem várható;
 
 24. Európai Gyógyszerügynökség: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelettel létrehozott Európai Gyógyszerügynökség;
 
@@ -77,3 +77,5 @@ e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszere
 27–28.
 
 29. fejlett (újszerű) terápiás gyógyszerkészítmény: a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti gyógyszer.
+
+37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékén szereplő anyagok, és erre tekintettel azt a Kormány rendeletében ilyen anyaggá minősítette.

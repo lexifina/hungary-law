@@ -8,13 +8,25 @@
 
 (4) Felhatalmazást kap a Kormány, hogy
 
-a) kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszer gyártásának, forgalomba hozatalának, forgalmazásának és e gyógyszerekkel folytatott nagykereskedelmi tevékenységnek, Magyarország területére történő behozatalának, kivitelének, valamint tudományos célra történő beszerzésének és felhasználásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
+a) kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszer gyártásának, forgalomba hozatalának, forgalmazásának és e gyógyszerekkel folytatott nagykereskedelmi tevékenységnek, a Magyarország területére történő behozatalának, kivitelének, valamint tudományos célra történő beszerzésének és felhasználásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 
 b) nemzetközi egyezmények értelmében kábítószernek vagy pszichotróp anyagnak minősülő gyógyszerek tudományos célra történő felhasználásának, illetve beszerzésének körét,
 
 c) a gyógyszerellátás hatósági ellenőrzése során az e törvényben foglalt kötelezettségek megszegése esetén a hatóságok által kiszabható bírság mértékét, illetve összegét
 
 d) a gyógyszerészeti államigazgatási szerv vagy szervek kijelölését
+
+e) az új pszichoaktív anyagokkal összefüggésben
+
+ea) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
+
+eb) az új pszichoaktív anyaggá minősítés, valamint az új pszichoaktív anyag kockázatértékelésének részletes eljárási szabályait,
+
+ec) az értesítés alapján az előzetes szakmai értékelést végző szakértői szerv kijelölését,
+
+ed) az új pszichoaktív anyaggal végezhető tevékenységek részletes feltételeit, az e tevékenységre jogosító engedély iránti kérelem benyújtásának szabályait és az engedély kiadásának rendjét, továbbá
+
+ee) a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket
 
 rendeletben szabályozza.
 
@@ -68,7 +80,9 @@ rendeletben szabályozza.
 
 a) a kábítószerekkel, illetve pszichotróp anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért,
 
-b)–c)
+b) az új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért
+
+c)
 
 d) a gyógyszernek nem minősülő gyógyhatású anyagok és készítmények előállításának közegészségügyi-járványügyi feltételeit minősítő eljárásért és igazolás kiadásáért,
 
