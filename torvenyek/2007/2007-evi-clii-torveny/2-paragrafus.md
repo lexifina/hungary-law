@@ -10,7 +10,7 @@ a) közszolgálatban álló személy:
 
 3. aki közalkalmazotti jogviszonyban áll,
 
-4. aki közszolgálati jogviszonyban áll,
+4. aki közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban áll,
 
 5. aki ügyészségi szolgálati viszonyban áll,
 
