@@ -1,3 +1,3 @@
-16. §[^74]
+## 15. §[^73]
 
-[^74]: A 16. §-t a 70/2011. (XII. 23.) NEFMI rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2012. (I. 3.) NEFMI rendelet 27. §-a.
+[^73]: A 15. §-t a 71/2011. (XII. 23.) NEFMI rendelet 4. §-a iktatta be, hatályon kívül helyezte a 9/2012. (II. 28.) NEFMI rendelet 10. § b) pontja.
