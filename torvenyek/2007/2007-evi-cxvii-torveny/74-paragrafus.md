@@ -1,6 +1,6 @@
 ## A csődeljárás, a felszámolási eljárás és végelszámolás közös szabályai
 
-74. § (1) Az e törvényben meghatározott eltérésekkel a foglalkoztatói nyugdíjszolgáltató intézmény felszámolására a Cstv. rendelkezéseit, a végelszámolási és kényszer-végelszámolási eljárására pedig a Ctv. rendelkezéseit kell megfelelően alkalmazni.
+74. § (1) Az e törvényben meghatározott eltérésekkel a foglalkoztatói nyugdíjszolgáltató intézmény felszámolására a Cstv. rendelkezéseit, a végelszámolási, kényszer-végelszámolási vagy kényszertörlési eljárására pedig a Ctv. rendelkezéseit kell megfelelően alkalmazni.
 
 (2) A fióktelep elleni felszámolási eljárásra a Cstv. I., III. és V. fejezeteiben és az Fkt.-ban foglaltakat kell az e fejezetben foglalt eltérésekkel alkalmazni.
 
