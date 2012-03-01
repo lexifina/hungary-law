@@ -1,0 +1,1 @@
+19. § E törvény hatálybalépését megelőzően, a Ktv. 49/F. §-a alapján kiadott cafetéria-juttatásokra vonatkozó szabályzatok, utasítások a Kttv. hatálybalépését követően 2012. december 31-ig alkalmazhatóak.
