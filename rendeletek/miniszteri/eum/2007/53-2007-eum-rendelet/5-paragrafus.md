@@ -1,10 +1,10 @@
-5. § (1)[^26] A szoftver minősítése iránti eljárás kérelemre indul. A szoftver minősítése iránti kérelmet a szoftver szerzői vagy felhasználási jogaival rendelkező szervezet nyújtja be az OEP-hez.
+5. § (1)[^27] A szoftver minősítése iránti eljárás kérelemre indul. A szoftver minősítése iránti kérelmet a szoftver szerzői vagy felhasználási jogaival rendelkező szervezet nyújtja be az OEP-hez.
 
 (2) A kérelmező a szoftver minősítési eljárásáért a külön jogszabály szerinti igazgatási-szolgáltatási díjat fizet.
 
 (3) A kérelemnek tartalmaznia kell:
 
-a)[^27]
+a)[^28]
 
 b) a szoftver gyártójának pontos (azonosítható) megnevezését,
 
@@ -28,17 +28,17 @@ k) a szoftver adatbázismotorjának megnevezését, verziószámát, ha a szoftv
 
 (4) A kérelemhez csatolni kell:
 
-a)[^28]
+a)[^29]
 
 b) az igazgatási-szolgáltatási díj befizetéséről, illetve átutalásáról szóló igazolást;
 
-c)[^29] harminc napnál nem régebbi cégkivonatot, és a cégjegyzésre jogosult képviselő aláírási címpéldányát, valamint
+c)[^30] harminc napnál nem régebbi cégkivonatot, és a cégjegyzésre jogosult képviselő aláírási címpéldányát, valamint
 
 d) nyilatkozatot
 
 da) a rendelkezésre álló szerzői vagy felhasználási jogokról,
 
-db)[^30] arról, hogy a rendszer – beleértve minden olyan futtatható kódú szoftvert is, amely az elszámolást érintő bármely adatállományt vagy annak egy részét írja vagy olvassa – a jogszabályban meghatározott esetek kivételével nem tartalmaz olyan automatikus vagy manuálisan indítható funkciót, amely a szoftver kezelőfelületén keresztül elősegítené a valós adatoktól eltérő adatok rögzítését,
+db)[^31] arról, hogy a rendszer – beleértve minden olyan futtatható kódú szoftvert is, amely az elszámolást érintő bármely adatállományt vagy annak egy részét írja vagy olvassa – a jogszabályban meghatározott esetek kivételével nem tartalmaz olyan automatikus vagy manuálisan indítható funkciót, amely a szoftver kezelőfelületén keresztül elősegítené a valós adatoktól eltérő adatok rögzítését,
 
 dc) arról, hogy a rendszer moduláris felépítésű-e és törekedtek arra, hogy minimális legyen azon modulok köre, amelyek módosítása egyéb minősítések lefolytatását igényli,
 
@@ -46,7 +46,7 @@ dd) arról, hogy melyek azok a funkciók, amelyek módosítása egyéb minősít
 
 de) arról, hogy a kérelmező bejelentési kötelezettséget vállal a minősített modulok módosításáról a megváltoztatott funkciók pontos megnevezésével,
 
-df)[^31]
+df)[^32]
 
 dg) arról, hogy a szoftverbe beépíthető az elektronikus aláírás alkalmazása,
 
@@ -56,12 +56,12 @@ di) arról, hogy mások jogai a szoftver használatát nem fogják akadályozni,
 
 dj) arról, hogy a szoftver eleget tesz az egészségügyi, illetve a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló külön jogszabályokban meghatározott feltételeknek.
 
-(5)[^32] Ha a kérelmező a (4) bekezdés c) pontjában meghatározott adatokat nem igazolja, az OEP a kérelem elbírálása érdekében adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz.
+(5)[^33] Ha a kérelmező a (4) bekezdés c) pontjában meghatározott adatokat nem igazolja, az OEP a kérelem elbírálása érdekében adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz.
 
-[^26]: Az 5. § (1) bekezdése a 46/2008. (XII. 3.) EüM rendelet 3. § (1) bekezdésével megállapított, a 38/2009. (XI. 6.) EüM rendelet 6. § (5) bekezdése, a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^27]: Az 5. § (3) bekezdés a) pontját a 38/2009. (XI. 6.) EüM rendelet 6. § (5) bekezdése hatályon kívül helyezte.
-[^28]: Az 5. § (4) bekezdés a) pontját a 38/2009. (XI. 6.) EüM rendelet 6. § (5) bekezdése hatályon kívül helyezte.
-[^29]: Az 5. § (4) bekezdés c) pontja a 38/2009. (XI. 6.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^30]: Az 5. § (4) bekezdés d) pont db) alpontja a 46/2008. (XII. 3.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^31]: Az 5. § (4) bekezdés d) pont df) alpontját a 46/2008. (XII. 3.) EüM rendelet hatályon kívül helyezte.
-[^32]: Az 5. § (5) bekezdését a 38/2009. (XI. 6.) EüM rendelet 6. § (3) bekezdése iktatta be, szövege a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^27]: Az 5. § (1) bekezdése a 46/2008. (XII. 3.) EüM rendelet 3. § (1) bekezdésével megállapított, a 38/2009. (XI. 6.) EüM rendelet 6. § (5) bekezdése, a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^28]: Az 5. § (3) bekezdés a) pontját a 38/2009. (XI. 6.) EüM rendelet 6. § (5) bekezdése hatályon kívül helyezte.
+[^29]: Az 5. § (4) bekezdés a) pontját a 38/2009. (XI. 6.) EüM rendelet 6. § (5) bekezdése hatályon kívül helyezte.
+[^30]: Az 5. § (4) bekezdés c) pontja a 38/2009. (XI. 6.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^31]: Az 5. § (4) bekezdés d) pont db) alpontja a 46/2008. (XII. 3.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^32]: Az 5. § (4) bekezdés d) pont df) alpontját a 46/2008. (XII. 3.) EüM rendelet hatályon kívül helyezte.
+[^33]: Az 5. § (5) bekezdését a 38/2009. (XI. 6.) EüM rendelet 6. § (3) bekezdése iktatta be, szövege a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (3) bekezdés a) pontja szerint módosított szöveg.
