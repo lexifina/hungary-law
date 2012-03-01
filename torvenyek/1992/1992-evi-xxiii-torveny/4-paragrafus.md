@@ -1,1 +1,0 @@
-4. § Az önkormányzati képviselő-testület a juttatásokkal és támogatásokkal összefüggésben e törvény keretei között rendeletben szabályozza a szociális, jóléti, kulturális, egészségügyi juttatásokat, szociális és kegyeleti támogatásokat.

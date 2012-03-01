@@ -1,1 +1,0 @@
-A társadalom közmegbecsülését élvező, demokratikus közigazgatás feltétele, hogy a közügyeket pártpolitika-semleges, törvényesen működő, korszerű szakmai ismeretekkel rendelkező, pártatlan köztisztviselők intézzék. Ennek érdekében az Országgyűlés, figyelembe véve Magyarország nemzetközi kötelezettségeit is, a következő törvényt alkotja:

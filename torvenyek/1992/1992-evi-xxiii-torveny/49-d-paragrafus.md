@@ -1,1 +1,0 @@
-49/D. § A közigazgatási szerv a köztisztviselő önkéntes kiegészítő nyugdíjpénztári tagságához egyéb juttatásként támogatást nyújthat. A központi költségvetés támogatásának részletes szabályait a Kormány határozza meg.

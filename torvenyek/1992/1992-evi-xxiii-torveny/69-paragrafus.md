@@ -1,1 +1,0 @@
-69. § Az ügykezelő tevékenységét legalább ötévenként értékelni kell. Az értékelés szempontjait – a 34/A–36. §-okban meghatározott minősítési szabályok alapulvételével – a munkáltatói jogkör gyakorlója határozza meg.

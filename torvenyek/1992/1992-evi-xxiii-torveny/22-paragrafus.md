@@ -1,3 +1,0 @@
-22. § (1) A köztisztviselő köteles haladéktalanul írásban bejelenteni, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merül fel, illetve ha közszolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A munkáltatói jogkör gyakorlója írásban köteles felszólítani a köztisztviselőt az összeférhetetlenség megszüntetésére. Amennyiben a köztisztviselő az összeférhetetlenséget a felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg, közszolgálati jogviszonya megszűnik.
-
-(2) Ha a 9. § szerinti összeférhetetlenség a közszolgálati jogviszony fennállása alatt keletkezik, akkor az érintettek megegyezése hiányában a munkáltatói jogkör gyakorlója dönti el, hogy melyik köztisztviselőnek szűnik meg a közszolgálati jogviszonya.

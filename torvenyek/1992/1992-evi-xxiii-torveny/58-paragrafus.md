@@ -1,1 +1,0 @@
-58. § A köztisztviselő kártérítési felelősségének megállapítására e törvénynek a fegyelmi eljárásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy az eljárás megindítására az elévülésre vonatkozó rendelkezések az irányadók.

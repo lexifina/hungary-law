@@ -1,3 +1,0 @@
-6. § (1) A munkáltatói jogokat, ha törvény vagy kormányrendelet eltérően nem rendelkezik, a közigazgatási szerv hivatali szervezetének (a továbbiakban: hivatali szervezet) vezetője, illetve a testület gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása vezető megbízású köztisztviselőre írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
-
-(2) Ha a köztisztviselő kinevezése testület hatáskörébe tartozik, a kinevezést, a felmentést és az összeférhetetlenség megállapítását, továbbá a fegyelmi eljárás megindítását és a fegyelmi büntetés kiszabását – kivéve az 51. § (2) bekezdését – a testület nem ruházhatja át.
