@@ -2,10 +2,14 @@
 
 62. § (1) Keresettel kérheti a bíróságtól
 
-a) a bejegyzés törlését és az eredeti állapot visszaállítását érvénytelenség címén az, akinek nyilvántartott jogát a bejegyzés sérti, továbbá az ügyész,
+a) a bejegyzés törlését és az eredeti állapot visszaállítását
 
-b) a bejegyzés törlését az az érdekelt, aki bizonyítja, hogy a bejegyzett jog elévült, vagy megszűnt, illetőleg a nyilvántartott tény megváltozott,
+aa) érvénytelenség címén az, akinek nyilvántartott jogát a bejegyzés sérti, továbbá az ügyész,
 
-c) a bejegyzés kiigazítását az, aki a téves bejegyzés folytán sérelmet szenvedett.
+ab) a felszámoló és a hitelező a csődeljárásról és a felszámolási eljárásról szóló törvény 40. §-ában meghatározott esetekben,
 
-(2) Keresetindításnak az (1) bekezdés b) és c) pontja alapján akkor van helye, ha az ingatlanügyi hatósági eljárásban a bejegyzés nem törölhető, illetve a sérelem nem orvosolható, továbbá ha azokat eredménytelenül kísérelték meg.
+c) a bejegyzés törlését az az érdekelt, aki bizonyítja, hogy a bejegyzett jog elévült vagy megszűnt, illetőleg a nyilvántartott tény megváltozott,
+
+d) a bejegyzés kiigazítását az, aki a téves bejegyzés folytán sérelmet szenvedett.
+
+(2) Keresetindításnak az (1) bekezdés c) és d) pontja alapján akkor van helye, ha az ingatlanügyi hatósági eljárásban a bejegyzés nem törölhető, illetve a sérelem nem orvosolható, továbbá ha azokat eredménytelenül kísérelték meg.

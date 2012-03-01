@@ -34,7 +34,7 @@ b) annak részére, aki a kérelem teljesítése esetén a bejegyzéssel jogot s
 
 c) annak, akinek a kérelmére (megkeresésére) valamely jogilag jelentős tényt kellene az ingatlan-nyilvántartásban feljegyezni.
 
-(2a) A döntést a jogi képviselővel eljáró ügyfél részére – a kérelmet elutasító határozat, valamint az eljárást megszüntető végzés kivételével – a jogi képviselője útján kell kézbesíteni.
+(2a) A döntést a jogi képviselővel eljáró ügyfél részére a jogi képviselője útján kell kézbesíteni. A kérelmet elutasító határozatot, valamint az eljárást megszüntető végzést a kérelmezőnek is kézbesíteni kell.
 
 (3) A hagyatékátadó végzés alapján hozott határozatot a közjegyző részére csak akkor kell kézbesíteni, ha az egészben vagy részben elutasítást tartalmaz.
 
