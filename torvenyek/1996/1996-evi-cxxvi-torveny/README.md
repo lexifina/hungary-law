@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-126-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1996-126-00-00.26 |
 | 2011-12-31 | 2010. évi CLIII. törvény | 1996-126-00-00.27 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 1996-126-00-00.28 |
+| 2012-03-01 | 2012. évi V. törvény | 1996-126-00-00.29 |

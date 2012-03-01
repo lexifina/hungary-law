@@ -10,7 +10,7 @@ ab) alapítvány, amelyet a bíróság a magánszemély rendelkező nyilatkozata
 
 ac) közhasznú alapítvány, egyesület és közalapítvány, amelyet a bíróság a rendelkező nyilatkozat évének első napja előtt legalább egy évvel – vagy ez idő letelte előtt, amennyiben az aa)–ab) pontban foglalt feltételeknek egyébként megfelel –, közhasznú szervezetként
 
-jogerősen nyilvántartásba vett, és az alapszabálya, illetőleg az alapító okirata szerint a rendelkező nyilatkozat(ok) évét megelőző év első napja óta megszakítás nélkül – Civil tv.-ben meghatározott – közhasznú tevékenységgel ténylegesen foglalkozik;
+jogerősen nyilvántartásba vett, és az alapszabálya, illetőleg az alapító okirata szerint a rendelkező nyilatkozat(ok) évét megelőző év első napja óta megszakítás nélkül – törvény szerinti – közhasznú tevékenységgel ténylegesen foglalkozik;
 
 b) a Magyar Tudományos Akadémia;
 

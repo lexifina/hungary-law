@@ -6,7 +6,7 @@ b) a 4/A. § (1) bekezdésében meghatározott kedvezményezettekről, az őket 
 
 c) a felajánlásokból történő részesedésből kizárt kedvezményezettek nevéről, adószámáról, illetve technikai számáról, székhelyéről és a kizárással érintett rendelkező évről.
 
-(2) Az adóhatóság az (1) bekezdés a) és b) pontja szerinti adatokat a rendelkező nyilatkozat évének szeptember 15. napjáig, illetve a c) pontja szerinti adatokat a rendelkező nyilatkozat évének első napjától honlapján – a kedvezményezett nevének, adószámának, illetve technikai számának és székhelyének megjelölésével – közzéteszi.
+(2) Az adóhatóság az (1) bekezdés a) és b) pontja szerinti adatokat kedvezményezettenként, a kedvezményezett nevének, székhelyének, adószámának, a kedvezményezettet megillető összegének és a kedvezményezett javára érvényesen rendelkezők számának megjelölésével a rendelkező nyilatkozat évének szeptember 15. napjáig, illetve a c) pontja szerinti adatokat a rendelkező nyilatkozat évének első napjától honlapján – a kedvezményezett nevének, adószámának, illetve technikai számának és székhelyének megjelölésével – közzéteszi.
 
 (3) A jogszabályi feltételeknek megfelelő azon kedvezményezettekről, akik számára az átutalás megtörtént, a (2) bekezdés szerinti közzétételre a rendelkező nyilatkozat évének utolsó napját követően kerül sor.
 
