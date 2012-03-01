@@ -8,7 +8,7 @@ b) aki rendszeres vagy tartós megbízási vagy vállalkozási jogviszonyban ál
 
 c) aki az ellenőrzött szervezetnél bármely egyéb, megengedett tevékenységet végez, vagy az ellenőrzött időszakban ilyen tevékenységet végzett,
 
-d) aki az ellenőrzött szervezet vezetőjének a hozzátartozója [Ktv. 72. § (5) bek.],
+d) aki az ellenőrzött szervezet vezetőjének a közszolgálati tisztviselőkről szóló törvény szerinti hozzátartozója,
 
 e) akitől az ellenőrzés tárgyilagos lefolytatása egyéb okból nem várható el.
 

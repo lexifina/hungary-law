@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-66-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2011-66-00-00.3 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2011-66-00-00.4 |
 | 2012-01-02 | 2010. évi CXXX. törvény | 2011-66-00-00.5 |
+| 2012-03-01 | 2012. évi V. törvény | 2011-66-00-00.6 |

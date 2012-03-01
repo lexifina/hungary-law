@@ -68,7 +68,9 @@ c) további akkreditált felsőfokú szakképesítés esetén az illetményalap 
 
 d) további középfokú szakképesítés esetén az illetményalap 6%-a.
 
-(9) A számvevőt megillető helyettesítési díjra, jubileumi jutalomra, cafeteria juttatásra, valamint a jelen §-ban nem nevesített jogcímen járó egyéb díj, pótlék vagy juttatás mértékére a Ktv. szabályait kell alkalmazni.
+(9) A számvevőt megillető helyettesítési díjra, jubileumi jutalomra, cafetéria-juttatásra, valamint a jelen §-ban nem nevesített jogcímen járó egyéb díj, pótlék vagy juttatás mértékére a közszolgálati tisztviselőkről szóló törvény szabályait kell alkalmazni.
+
+(9a) A számvevő a közszolgálati tisztviselőkről szóló törvény szerinti illetménykiegészítésre nem jogosult.
 
 (10) A számvevő főigazgató és a főtitkár a közigazgatási államtitkárt, a számvevő igazgató a helyettes államtitkárt megillető juttatásokra jogosult.
 
