@@ -38,6 +38,6 @@ i) külön törvényben szabályozott közbeszerzési békéltetői tevékenysé
 
 j)
 
-k) cég székhelyének biztosítása (székhely szolgáltatás).
+k)
 
 (4) A (3) bekezdés h) pontjában meghatározott tevékenységet az folytathatja, aki az ügyvédi kamara által meghatározott technikai feltételekkel rendelkezik és a kamara nyilvántartásba vett.
