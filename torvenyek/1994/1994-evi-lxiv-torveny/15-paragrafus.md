@@ -1,4 +1,4 @@
-15. § (1) A képviselő havi tiszteletdíja (alapdíj) nem haladhatja meg a Ktv. 43. § (1) bekezdése szerint megállapított illetményalap, és az alább meghatározott szorzószám szorzatát:
+15. § (1) A képviselő havi tiszteletdíja (alapdíj) nem haladhatja meg a Kttv. szerint megállapított illetményalap, és az alább meghatározott szorzószám száz forintra kerekített szorzatát:
 
 – 1000-nél kevesebb lakosú település esetén 1,0
 

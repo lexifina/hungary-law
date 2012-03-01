@@ -2,7 +2,7 @@
 
 3. § (1) A képviselő-testület a polgármester illetményéről alakuló ülésén, illetőleg a polgármester megválasztását követő első ülésen dönt.
 
-(2) A képviselő-testület a polgármester illetményét a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 43. §-ának (1) bekezdése szerint megállapított illetményalap és az alábbi keretek között meghatározott szorzószám szorzataként, összegszerűen állapítja meg:
+(2) A képviselő-testület a polgármester illetményét a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) szerint megállapított illetményalap és az alábbi keretek között meghatározott szorzószám szorzataként, összegszerűen száz forintra kerekítve állapítja meg:
 
 Szorzószám
 
