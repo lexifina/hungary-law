@@ -1,5 +1,0 @@
-2. § (1) A szakértő helyzetelemzés során a település, a többcélú kistérségi társulás és – az adott közfeladat társulási formában történő ellátása esetén – más társulás, illetve a megye sajátosságaihoz igazodó módszerrel megállapítja, hogy a településen, a társulásban részt vevő településeken, illetve a megyében élő hátrányos helyzetű társadalmi csoportok, különösen a mélyszegénységben élők, romák, fogyatékos személyek és nők, a teljes lakossághoz viszonyítva milyen foglalkoztatási, képzettségi, szociális, lakhatási, területi, egészségügyi mutatókkal rendelkeznek és ezek alapján az adott település, a társulás, illetve a megye milyen esélyegyenlőtlenségi problémákkal küzd.
-
-(2) A helyzetelemzés elkészítése során az esélyegyenlőségi szakértő felhasználja a Központi Statisztikai Hivatal, a Foglalkoztatási Szolgálat, a település, a társulás, illetve a megye rendelkezésére álló nyilvántartások anonimizált adatait, valamint más rendelkezésére álló nyilvántartásokat.
-
-(3) A szakértői helyzetelemzés ismeretében a helyi önkormányzat, illetve a többcélú kistérségi társulás helyzetelemzést fogad el.
