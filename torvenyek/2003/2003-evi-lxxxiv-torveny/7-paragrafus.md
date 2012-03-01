@@ -16,7 +16,7 @@ d) közalkalmazotti jogviszonyban,
 
 e) munkaviszonyban,
 
-f) közszolgálati jogviszonyban,
+f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban,
 
 g) szolgálati jogviszonyban,
 

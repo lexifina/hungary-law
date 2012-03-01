@@ -1,6 +1,6 @@
-## Közszolgálati jogviszony és szolgálati viszony
+## Közszolgálati jogviszony, kormányzati szolgálati jogviszony és szolgálati viszony
 
-16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
+16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony, kormányzati szolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
 
 (2) Az egészségügyi dolgozó jogosult egészségügyi tevékenység végzése céljából a külön törvényben nevesített szervekkel szolgálati viszonyt létesíteni.
 
