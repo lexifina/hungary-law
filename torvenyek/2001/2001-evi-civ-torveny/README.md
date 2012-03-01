@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-104-00-00
 | 2008-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-104-00-00.7 |
 | 2011-01-01 | 2010. évi CXXXI. törvény | 2001-104-00-00.8 |
 | 2012-01-01 | 2011. évi CL. törvény | 2001-104-00-00.9 |
+| 2012-03-01 | 2011. évi CXCVII. törvény | 2001-104-00-00.10 |
