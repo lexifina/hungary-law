@@ -1,0 +1,1 @@
+166. § A kormánytisztviselőt rendkívüli méltánylást érdemlő körülmények alapján bíróság a kártérítés alól részben mentesítheti. Ennek során különösen a károkozó cselekménnyel összefüggő feladatvégrehajtás sürgősségét, valamint egyéb sajátos körülményeit, a felek vagyoni helyzetét, a jogsértés súlyát, a károkozás mértékét, a kártérítés teljesítésének következményeit értékeli.

@@ -1,0 +1,3 @@
+## Az igazgatási szünet
+
+108. § A Kormány a központi államigazgatási szervekre, azok területi és helyi szerveire nézve igazgatási területenként rendeletben megállapíthatja azt az időszakot (igazgatási szünet), amely alatt a rendes szabadságot ki kell adni. Az államigazgatási szerv hivatali szervezetének vezetője, a Kormány által megállapított igazgatási szünet időtartamán belül, az egyes szervezeti egységek esetében eltérő időszakban, illetve időtartamban határozhatja meg a szabadság kiadását, illetve kivételét. Az ilyen módon kiadott, illetve kivett szabadság nem haladhatja meg a kormánytisztviselő tárgyévre megállapított alapszabadságának a háromötödét.

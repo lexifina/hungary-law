@@ -1,0 +1,5 @@
+## Együttalkalmazási tilalom, összeférhetetlenség
+
+84. § (1) Nem létesíthető kormánytisztviselői jogviszony, ha a kormánytisztviselő ezáltal hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne.
+
+(2) A külszolgálati hálózat felügyeletét ellátó miniszter – ha jogszabály másként nem rendelkezik – az (1) bekezdésben foglalt tilalom alól – különösen indokolt esetben – felmentést adhat.

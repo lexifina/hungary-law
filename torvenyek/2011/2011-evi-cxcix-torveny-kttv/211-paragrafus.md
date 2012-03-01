@@ -1,0 +1,1 @@
+211. § A kormányzati ügykezelő tevékenységét legalább ötévenként értékelni kell. Az értékelés szempontjait – a 130. §-ban meghatározott minősítési szabályok alapulvételével – a munkáltatói jogkör gyakorlója határozza meg.

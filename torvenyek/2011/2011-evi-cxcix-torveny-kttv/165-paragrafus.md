@@ -1,0 +1,1 @@
+165. § A kormánytisztviselő kártérítési felelősségének megállapítására a fegyelmi eljárásra kormányrendeletben meghatározott szabályokat kell alkalmazni azzal az eltéréssel, hogy az eljárás megindítására az elévülésre vonatkozó rendelkezések az irányadók.

@@ -1,0 +1,3 @@
+242. § (1) A közszolgálati ügykezelő illetményét a hivatali szervezet vezetője állapítja meg oly módon, hogy az legalább elérje a garantált bérminimum összegét, de ne haladja meg az illetményalap hatszorosát. Az illetmény megállapításakor arányosan figyelembe kell venni a közszolgálati ügykezelő közszolgálati jogviszonyban töltött idejét. Az illetmény megállapításakor figyelembe veendő egyéb szempontokat a közszolgálati szabályzatban kell rögzíteni.
+
+(2) A közszolgálati ügykezelő osztályvezető illetményét az (1) bekezdés szerint kell megállapítani azzal, hogy illetményének a vezetése alá tartozó közszolgálati ügykezelők illetményét meg kell haladnia.

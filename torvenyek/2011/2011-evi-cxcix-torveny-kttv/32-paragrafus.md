@@ -1,0 +1,3 @@
+32. § (1) Az Országos Közgyűlés tagjait, a Területi Elnökséget, a Területi Etikai Bizottságot és elnökét egyidőben, két külön jelölőlista alapján öt évre, titkos szavazással a Választási Szabályzat szerint választják meg. Nem lehet az Országos Közgyűlés és a Területi Közgyűlés tagja az a kormánytisztviselő, aki a választás kitűzésének időpontjában fegyelmi büntetés hatálya alatt áll. Az Országos Közgyűlés és a Területi Közgyűlés tagja ellen indított fegyelmi eljárás alatt a tagsági jogviszony szünetel.
+
+(2) Az Országos Közgyűlés nyolcvan tagból, a Területi Közgyűlés a területi szinten foglalkoztatott valamennyi kormánytisztviselőből áll.
