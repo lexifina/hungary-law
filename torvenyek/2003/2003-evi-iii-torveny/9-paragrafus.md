@@ -10,4 +10,4 @@
 
 (6) A kinevezés és a felmentés kivételével az egyéb munkáltatói jogokat a főigazgató tekintetében az Országgyűlés Főtitkára gyakorolja.
 
-(7) A Levéltár munkatársaira egyebekben a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény rendelkezéseit kell alkalmazni.
+(7) A Levéltár munkatársaira egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
