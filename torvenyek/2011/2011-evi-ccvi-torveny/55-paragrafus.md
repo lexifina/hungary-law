@@ -123,3 +123,111 @@ Magyarországi Baptista Egyház
 |
 
 HIT Gyülekezete
+
+|
+
+15
+
+|
+
+Magyarországi Metodista Egyház
+
+|
+
+16
+
+|
+
+Magyar Pünkösdi Egyház
+
+|
+
+17
+
+|
+
+Szent Margit Anglikán/Episzkopális Egyház
+
+|
+
+18
+
+|
+
+Erdélyi Gyülekezet
+
+|
+
+19
+
+|
+
+Hetednapi Adventista Egyház
+
+|
+
+20
+
+|
+
+Magyarországi Kopt Ortodox Egyház
+
+|
+
+21
+
+|
+
+Magyarországi Iszlám Tanács29
+
+|
+
+22
+
+|
+
+Krisztusban Hívő Nazarénus Gyülekezetek
+
+|
+
+23
+
+|
+
+Magyarországi Krisna-tudatú Hívők Közössége
+
+|
+
+24
+
+|
+
+Az Üdvhadsereg Szabadegyház Magyarország
+
+|
+
+25
+
+|
+
+Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza
+
+|
+
+26
+
+|
+
+Magyarországi Jehova Tanúi Egyház
+
+|
+
+27
+
+|
+
+Buddhista vallási közösségek30
+
+29 A 2012: VII. törvény 3. §-a alapján a Magyarországi Iszlám Tanácsot alkotó közösségek a következők: Magyar Iszlám Közösség, Magyarországi Muszlimok Egyháza.
+
+30 A 2012: VII. törvény 2. §-a alapján a buddhista vallási közösségek a következők: a Tan Kapuja Buddhista Egyház, Buddhista Misszió, Magyarországi Árya Maitreya Mandala Egyházközösség, Magyarországi Karma – Kagyüpa Buddhista Közösség, Magyarországi Kínai Chanbuddhista Egyház, Gyémánt Út Buddhista Közösség.
