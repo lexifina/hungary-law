@@ -1,3 +1,3 @@
-30. §[^40]
+30. §[^35]
 
-[^40]: A Vhr. 30. §-át a 265/2006. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 70. §-a.
+[^35]: A Vhr. 30. §-át a 265/2006. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 70. §-a.
