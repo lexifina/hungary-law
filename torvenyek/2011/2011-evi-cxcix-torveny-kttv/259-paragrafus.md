@@ -6,13 +6,13 @@
 
 1. megállapítsa
 
-a) a közszolgálati jogviszonnyal összefüggő személyi iratokra, valamint a közigazgatási szerveknél foglalkoztatott munkavállalók munkaviszonyával összefüggő személyi iratokra és a munkaügyi nyilvántartásra, továbbá a 258. § (2) bekezdésében említett titoktartási nyilatkozat szövegére, önéletrajz tartalmára,
+a) a kormányzati szolgálati, illetve közszolgálati jogviszonnyal összefüggő személyi iratokra, valamint a közigazgatási szerveknél foglalkoztatott munkavállalók munkaviszonyával összefüggő személyi iratokra és a munkaügyi nyilvántartásra, továbbá a 258. § (2) bekezdésében említett titoktartási nyilatkozat szövegére, önéletrajz tartalmára,
 
-b) 185. § (6) bekezdése szerinti államigazgatási szerv kijelölését és a kijelölésére,
+b) a 185. § (6) bekezdése szerinti államigazgatási szerv kijelölését és a kijelölésére,
 
-c) a közszolgálati nyilvántartásra,
+c) a közszolgálati alapnyilvántartásra és a közszolgálati statisztikai adatgyűjtésre,
 
-d) a tartalékállományba helyezésre,
+d) a tartalékállományba helyezésre, a tartalékállomány működtetésére, az üres álláshely bejelentésére,
 
 e) a kormánytisztviselői kártyára
 
@@ -24,7 +24,7 @@ vonatkozó részletes szabályokat;
 
 a) az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként résztvevő kormánytisztviselő kormányzati szolgálati jogviszonyára és köztisztviselő közszolgálati jogviszonyára, sajátos jogállására,
 
-b) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott kormánytisztviselők kormányzati szolgálati jogviszonyára, sajátos jogállására,
+b) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott közszolgálati tisztviselők jogviszonyára, sajátos jogállására,
 
 c) a közszolgálati tisztviselők ideiglenes (három hónapot meg nem haladó) külföldi kiküldetésére,
 
@@ -32,13 +32,13 @@ d) a tartós külszolgálatot teljesítő kormánytisztviselők, köztisztvisel�
 
 vonatkozó részletes szabályokat;
 
-4. a kormánytisztviselő kormányzati szolgálati jogviszonnyal összefüggő költségeinek megtérítésére vonatkozó részletes szabályokat megállapítsa;
+4. a közszolgálati tisztviselő kormányzati szolgálati jogviszonnyal, illetve közszolgálati jogviszonnyal összefüggő költségeinek megtérítésére vonatkozó részletes szabályokat megállapítsa;
 
-5. a kormánytisztviselők teljesítményértékelésének, minősítésnek a rendjére, eljárásra és szintjeire vonatkozó részletes szabályokat megállapítsa;
+5. a közszolgálati tisztviselők teljesítményértékelésének, minősítésnek a rendjére, eljárásra és szintjeire vonatkozó részletes szabályokat megállapítsa;
 
 6. megállapítsa
 
-a) a kormánytisztviselők részére járó cafetéria-juttatás, az állam által vállalt készfizető kezesség, valamint az egyéb, a kormánytisztviselők részére adható juttatásokra,
+a) a közszolgálati tisztviselők részére járó cafetéria-juttatás, az állam által vállalt készfizető kezesség, valamint az egyéb, a közszolgálati tisztviselők részére adható juttatásokra,
 
 b) a központi államigazgatási szerveknél, azok területi és helyi szerveinél foglalkoztatott kormánytisztviselők jutalmazására vonatkozó részletes szabályokat és a jutalmazással összefüggő adatkezelésre és adatszolgáltatásra,
 
@@ -52,7 +52,7 @@ vonatkozó részletes szabályokat;
 
 8. megállapítsa a címzetes főjegyzői cím adományozásának, megszűnésének és visszavonásának eljárási szabályait, valamint a címadományozási juttatás kifizetésére vonatkozó részletes szabályokat;
 
-9. a Kormánytisztviselői Döntőbizottság szervezetére és eljárására vonatkozó részletes szabályokat megállapítsa;
+9.
 
 10. megállapítsa
 
@@ -70,11 +70,9 @@ vonatkozó részletes szabályokat;
 
 12. megállapítsa
 
-a) a kormányzati szolgálati jogviszony létesítéséhez kapcsolódóan a kormánytisztviselőt terhelő kötelezettségekre,
+a) a kormányzati szolgálati jogviszony, valamint a közszolgálati jogviszony létesítéséhez kapcsolódóan a közszolgálati tisztviselőt terhelő kötelezettségekre,
 
-b) a munkáltatót a kinevezéssel kapcsolatban és a kormányzati szolgálati jogviszony fennállása alatt a kinevezéstől eltérő ideiglenes foglalkoztatás megállapításával kapcsolatban terhelő kötelezettségekre
-
-vonatkozó részletes szabályokat;
+b) a munkáltatót a kinevezéssel kapcsolatban és a kormányzati szolgálati jogviszony, illetve a közszolgálati jogviszony fennállása alatt a kinevezéstől eltérő ideiglenes foglalkoztatás megállapításával kapcsolatban terhelő kötelezettségekre vonatkozó részletes szabályokat;
 
 13. a közélet tisztasága szempontjából jelentős érzékenységgel rendelkező munkaköröket megállapítsa;
 

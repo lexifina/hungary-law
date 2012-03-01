@@ -10,4 +10,4 @@ b) az államigazgatási szervnél nincs másik, a kormánytisztviselő minősít
 
 (4) Ha a kormánytisztviselő a felajánlott állást elutasítja, vagy ha az államigazgatási szervnél a (2) bekezdésben meghatározott munkakör nincs, akkor a kormánytisztviselőt a 63. § (2) bekezdés b) pontja alapján fel kell menteni.
 
-(5) A kormánytisztviselő a minősítés tartalmának, illetve a felajánlott munkakör megfelelőségének vizsgálata iránt a Kormánytisztviselői Döntőbizottsághoz fordulhat. A Kormánytisztviselői Döntőbizottság határozatával szemben kizárólag jogi tények vizsgálata tekintetében, jogszabálysértésre hivatkozással – hibás vagy valótlan ténymegállapításának megsemmisítése iránt – a kormánytisztviselő közszolgálati jogvitát kezdeményezhet a bíróságnál.
+(5)

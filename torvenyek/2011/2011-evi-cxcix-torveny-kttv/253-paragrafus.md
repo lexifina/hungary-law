@@ -8,7 +8,7 @@ b) legmagasabb fokozatú minősítést kap.
 
 A cím adományozására minden évben a Közszolgálati Tisztviselők Napja alkalmából kerül sor.
 
-(2) A címzetes főjegyzői cím adományozását a képviselő-testület a megyei, illetve a fővárosi kormányhivatal útján kezdeményezheti, amely a javaslatot köteles a saját és a jegyzői szakmai érdek-képviseleti szerv véleményével ellátva a közigazgatási személyzetpolitikáért felelős miniszterhez felterjeszteni. Ha a cím adományozását a megyei, illetve a fővárosi kormányhivatal kezdeményezi, ki kell kérnie a képviselő-testület, illetve a jegyzői szakmai érdek-képviseleti szerv véleményét. A közigazgatási személyzetpolitikáért felelős miniszter a beérkezett javaslatokról kikéri a helyi önkormányzatokért felelős miniszter véleményét. Ezt követően a közigazgatási személyzetpolitikáért felelős miniszter terjeszti fel a miniszterelnöknek a javaslatokat a címzetes főjegyzői cím adományozására.
+(2) A címzetes főjegyzői cím adományozását a képviselő-testület a megyei, illetve a fővárosi kormányhivatal útján kezdeményezheti, amely a javaslatot köteles a saját és a jegyzői szakmai érdek-képviseleti szerv véleményével ellátva a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterhez felterjeszteni. Ha a cím adományozását a megyei, illetve a fővárosi kormányhivatal kezdeményezi, ki kell kérnie a képviselő-testület, illetve a jegyzői szakmai érdek-képviseleti szerv véleményét. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a beérkezett javaslatokról kikéri a helyi önkormányzatokért felelős miniszter véleményét. Ezt követően a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter terjeszti fel a miniszterelnöknek a javaslatokat a címzetes főjegyzői cím adományozására.
 
 (3) Nem jogosult a jegyző, valamint a körzetközponti jegyző a címzetes főjegyzői címre, ha a jegyzői közszolgálati jogviszonya – a (4) bekezdésben foglalt eseteket kivéve – megszűnt, illetve körzetközponti jegyzői feladatokat már nem lát el.
 
@@ -20,9 +20,9 @@ b) aki a cím adományozását követően jegyzői közszolgálati jogviszonyát
 
 (5) A címzetes főjegyzői címet vissza kell vonni attól, aki az (1) bekezdés b) pontjában meghatározott feltétellel már nem rendelkezik, vagy akivel szemben jogerős fegyelmi büntetést szabtak ki. Az (1) bekezdés b) pontjában meghatározott feltétel hiánya esetén a képviselő-testület köteles haladéktalanul kezdeményezni a megyei, illetve a fővárosi kormányhivatal útján a cím visszavonását. A képviselő-testület kezdeményezheti a cím visszavonását attól is, aki etikai vétséget követett el.
 
-(6) A közigazgatási személyzetpolitikáért felelős miniszter javaslatára a címet a miniszterelnök vonja vissza.
+(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára a címet a miniszterelnök vonja vissza.
 
-(7) A közigazgatási személyzetpolitikáért felelős miniszter javaslatára a miniszterelnök eltilthatja a cím viselésétől azt a nyugdíjas jegyzőt, aki a cím viselésére érdemtelenné vált.
+(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára a miniszterelnök eltilthatja a cím viselésétől azt a nyugdíjas jegyzőt, aki a cím viselésére érdemtelenné vált.
 
 (8) A címre való jogosultság megszűnése, a cím visszavonása a már kifizetett címadományozási juttatást nem érinti.
 

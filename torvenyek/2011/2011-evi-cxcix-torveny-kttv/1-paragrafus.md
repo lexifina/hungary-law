@@ -20,6 +20,6 @@ c) a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédel
 
 d) a minisztérium közigazgatási államtitkárának és helyettes államtitkárának, és a Miniszterelnökség helyettes államtitkárának (a továbbiakban: szakmai vezető) kormányzati szolgálati jogviszonyára, valamint
 
-e) a helyi önkormányzat képviselő-testületének hivatala és hatósági igazgatási társulása, közterület-felügyelete, a körjegyzőség (a továbbiakban: képviselő-testület hivatala) köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára
+e) a helyi önkormányzat képviselő-testületének hivatala és hatósági igazgatási társulása, közterület-felügyelete, a körjegyzőség, továbbá az országos nemzetiségi önkormányzatok hivatala (a továbbiakban: képviselő-testület hivatala) köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára
 
 terjed ki.

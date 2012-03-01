@@ -24,9 +24,7 @@ b) a Magyar Kormánytisztviselői Karra vonatkozó rendelkezések (28–35. §),
 
 c) a kormányzati érdekből történő kirendelés (55. §),
 
-d) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §)
-
-nem alkalmazható(k).
+d)
 
 (4) Az Országgyűlés Hivatala szervezeti és működési szabályzata a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 

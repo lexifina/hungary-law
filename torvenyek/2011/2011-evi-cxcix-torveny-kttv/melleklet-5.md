@@ -38,9 +38,9 @@
 
 ## ÖNÉLETRAJZ
 
-## A személyügyi központ az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer keretén belül tartja nyilván, illetve kezeli a kormánytisztviselők és szakmai vezetők
+## A kormánytisztviselők és szakmai vezetők önéletrajza az alábbi adatköröket tartalmazza:
 
-## a) személyes adatait (neve, születési neve, anyja neve, neme, születési helye, családi állapota, állampolgársága, állandó és ideiglenes lakcíme, telefonszáma, faxszáma, e-mail címe, honlapja),
+## a) személyes adatok (neve, születési neve, anyja neve, neme, születési helye, családi állapota, állampolgársága, állandó és ideiglenes lakcíme, telefonszáma, faxszáma, e-mail címe, honlapja, fényképe),
 
 ## b) betöltött beosztásra, munkakörre,
 
@@ -50,4 +50,4 @@
 
 ## e) készségekre, képességekre, kompetenciákra (nyelvismeretre, számítógép-felhasználói készségekre, járművezetési engedélyre, katonai szolgálatra)
 
-## vonatkozó adatait.
+## vonatkozó adatok.

@@ -11,3 +11,5 @@
 (5) A napidíj kiszámításánál havonta huszonegy munkanapot lehet figyelembe venni és annak összegét tíz forintra felkerekítve kell megállapítani. Nem számolható el napidíj, ha a kiküldetésben töltött idő a négy órát nem éri el. A napidíj fele számolható el, ha a kiküldetésben töltött idő a nyolc órát nem éri el.
 
 (6) Kiküldetés esetén a napidíjon túlmenően a munkáltató köteles a kormánytisztviselő számára megfizetni a kiküldetés során felmerülő szükséges és igazolt többletköltségeit.
+
+(7) Az ideiglenes (három hónapot meg nem haladó) külföldi kiküldetés e §-tól eltérő szabályait a Kormány rendeletben állapítja meg.

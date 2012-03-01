@@ -32,7 +32,7 @@
 
 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; továbbá a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény hatálya alá tartozó szervnél szerzett gyakorlatot is;
 
-17. közigazgatási szerv: az 1. és 2. §-ban felsorolt szerv;
+17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek;
 
 18. közigazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a közigazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
 

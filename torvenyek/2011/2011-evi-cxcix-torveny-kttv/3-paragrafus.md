@@ -12,4 +12,4 @@
 
 (7) A 258. § hatálya kiterjed a közigazgatási szervnél kormánytisztviselőnek, köztisztviselőnek, kormányzati, illetve közszolgálati ügykezelőnek nem minősülő munkavállaló munkaviszonyára.
 
-(8) A 34. § (3) bekezdésének, 37. § (1) bekezdésének, 185. §, 186. § (1)–(2) bekezdéseinek, 187. § (1) bekezdésének, 188. §-ának, 203. § (1)–(5) és (9) bekezdéseinek, 205. § (2) bekezdésének, 215. § (4) bekezdésének, 216. § (3) bekezdés, 218. § (1) bekezdésének, 219. § (4)–(6) bekezdéseinek, 220. § (7) bekezdésének, 224. § (4)–(6) bekezdésének hatálya kiterjed a politikai vezetőre.
+(8) A 34. § (3) bekezdésének, 37. § (1) bekezdésének, 151. §, 185. §, 186. § (1)–(2) bekezdéseinek, 187. § (1) bekezdésének, 188. §, 203. § (1)–(5) és (9) bekezdéseinek, 205. § (2) bekezdésének, 215. § (4) bekezdésének, 216. § (3) bekezdésének, 218. § (1) bekezdésének, 219. § (4)–(6) bekezdéseinek, 220. § (7) bekezdésének, 224. § (4)–(6) bekezdésének hatálya kiterjed a politikai vezetőre.
