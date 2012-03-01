@@ -144,7 +144,7 @@ km) a gyártási, forgalomba hozatali, alkalmazási, klinikai vizsgálati, nyilv
 
 kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
 
-l)
+l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének részletes szabályait
 
 m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégiumok és országos intézetek feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 
@@ -201,13 +201,3 @@ rendeletben állapítsa meg.
 (5) Felhatalmazást kap
 
 a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
-
-b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
-
-c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
-
-ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
-
-cb) az egészségügyi szolgáltatók működési engedélyezésével kapcsolatosan,
-
-cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
