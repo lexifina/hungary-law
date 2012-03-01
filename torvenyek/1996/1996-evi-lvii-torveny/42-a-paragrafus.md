@@ -32,7 +32,7 @@ b) vizsgálói besorolást kap, ha a Gazdasági Versenyhivatalban vizsgáló gya
 
 a) vizsgáló tanácsosi besorolást kap, ha két év vizsgáló gyakorlatot szerzett, alkalmas minősítésű és közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkezik;
 
-b) vizsgáló főtanácsosi besorolást kaphat, ha kiválóan alkalmas minősítésű és közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkezik;
+b) vizsgáló főtanácsosi besorolást kaphat, ha legmagasabb fokozatú minősítéssel és közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkezik;
 
 c) vizsgáló vezető főtanácsosi besorolást kaphat a munkáját kimagasló színvonalon végző, különleges felelősséggel felruházott vizsgáló főtanácsos.
 
