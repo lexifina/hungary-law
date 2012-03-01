@@ -18,7 +18,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 8. Hpt.: az 1996. évi CXII. törvény a hitelintézetekről és a pénzügyi vállalkozásokról;
 
-9. Ktv.: az 1992. évi XXIII. törvény a köztisztviselők jogállásáról;
+9.
 
 10. Öpt.: az 1993. évi XCVI. törvény az Önkéntes Kölcsönös Biztosító Pénztárakról;
 
