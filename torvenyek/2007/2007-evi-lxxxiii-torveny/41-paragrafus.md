@@ -1,1 +1,1 @@
-41. § E törvény 5. §-ának (1) bekezdését a központi államigazgatási szervek vezetőire, a központi államigazgatási szervek területi szerveinek vezetőire, helyi szerveit vezetőkre, valamint a közigazgatási hivatalok vezetőire 2009. július 1-jétől, a köztisztviselőkre 2009. december 1-jétől kell alkalmazni.
+41. §

@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-83-00-00
 | --- | --- | --- |
 | 2009-11-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-83-00-00.4 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 2007-83-00-00.5 |
+| 2012-03-01 | 2012. évi V. törvény | 2007-83-00-00.6 |
