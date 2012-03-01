@@ -1,0 +1,1 @@
+1. § A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény melléklete az e törvény melléklete szerint egészül ki.
