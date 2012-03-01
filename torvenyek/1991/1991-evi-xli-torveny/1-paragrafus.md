@@ -16,4 +16,4 @@
 
 (4) A közjegyző a jogszabály által meghatározott hatáskörében az állam igazságszolgáltató tevékenysége részeként jogszolgáltató hatósági tevékenységet végez.
 
-(5) A közjegyző a gazdasági társaságokról szóló törvény szerinti részvénykönyvvezetést is végezhet.
+(5)
