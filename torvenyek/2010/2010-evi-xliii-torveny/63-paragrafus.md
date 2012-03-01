@@ -2,4 +2,4 @@
 
 (2) A szervezeti és működési szabályzat rendelkezhet úgy, hogy az államtitkár munkáját kabinet segíti.
 
-(3) Vezetői megbízatás a szervezeti és működési szabályzatban meghatározott szervezeti egység tekintetében, e törvény rendelkezései szerint adható.
+(3) Vezetői kinevezés a szervezeti és működési szabályzatban meghatározott szervezeti egység tekintetében, e törvény rendelkezései szerint adható.

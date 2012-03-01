@@ -2,4 +2,4 @@
 
 (2) A kabinetfőnököt a miniszteri kabinet általa kijelölt kormánytisztviselője helyettesíti.
 
-(3) A munkáltatói jogokat a kabinetfőnök felett a miniszter, a kabinet állományába tartozó kormánytisztviselők felett a kabinetfőnök gyakorolja. A vezetői megbízás adása és visszavonása a miniszter hatáskörébe tartozik.
+(3)

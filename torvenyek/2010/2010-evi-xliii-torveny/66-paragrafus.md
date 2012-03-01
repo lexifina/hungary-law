@@ -2,4 +2,4 @@
 
 (2) A kabinetfőnököt az államtitkári kabinet általa kijelölt kormánytisztviselője helyettesíti.
 
-(3) A munkáltatói jogokat a kabinetfőnök felett az államtitkár, a kabinet állományába tartozó kormánytisztviselők felett a kabinetfőnök gyakorolja. A vezetői megbízás adása és visszavonása az államtitkár hatáskörébe tartozik.
+(3)

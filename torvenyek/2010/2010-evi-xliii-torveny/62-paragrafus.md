@@ -1,6 +1,6 @@
 62. § (1) A helyettes államtitkár a jogszabályoknak és a szakmai követelményeknek megfelelően irányítja a miniszter feladat- és hatáskörének a minisztérium szervezeti és működési szabályzatában meghatározott része tekintetében a szakmai munkát, valamint dönt a hatáskörébe utalt ügyekben. A Miniszterelnökségen működő helyettes államtitkár segíti a Miniszterelnökséget vezető államtitkár tevékenységét.
 
-(2) A helyettes államtitkár tevékenységét – a 65. § (1) bekezdése szerinti helyettes államtitkár kivételével – a minisztérium szervezeti és működési szabályzatában meghatározottak szerint az államtitkár, a közigazgatási államtitkár – a 31. § (3) bekezdésében meghatározott esetben – kormánybiztos vagy – a 32. § (3) bekezdésében meghatározott esetben – miniszterelnöki biztos irányítja. A helyettes államtitkár esetében a munkáltatói jogokat a közigazgatási államtitkár gyakorolja.
+(2) A helyettes államtitkár tevékenységét – a 65. § (1) bekezdése szerinti helyettes államtitkár kivételével – a minisztérium szervezeti és működési szabályzatában meghatározottak szerint az államtitkár, a közigazgatási államtitkár – a 31. § (3) bekezdésében meghatározott esetben – kormánybiztos vagy – a 32. § (3) bekezdésében meghatározott esetben – miniszterelnöki biztos irányítja.
 
 (2a) A helyettes államtitkár irányítása tekintetében a minisztérium szervezeti és működési szabályzata a 3. §-ban meghatározott hatásköröket – az (1) bekezdés szerinti ügyek meghatározott csoportjaival összefüggésben – az államtitkár és a közigazgatási államtitkár között megoszthatja.
 

@@ -4,12 +4,12 @@
 
 (2) A Miniszterelnökségen közigazgatási államtitkár nem működik.
 
-(3) A Miniszterelnökségen működő helyettes államtitkár tevékenységét a Miniszterelnökséget vezető államtitkár irányítja és gyakorolja felette a munkáltatói jogokat.
+(3) A Miniszterelnökségen működő helyettes államtitkár tevékenységét a Miniszterelnökséget vezető államtitkár irányítja.
 
 (4) A Miniszterelnökség főosztályokra és osztályokra tagozódik.
 
-(5) A Miniszterelnökséget vezető államtitkár gyakorolja a munkáltatói jogokat a Miniszterelnökség állományába tartozó kormánytisztviselők felett.
+(5)
 
-(6) A miniszterelnök titkárságát osztályvezető vezeti, akinek tevékenységét a Miniszterelnökséget vezető államtitkár irányítja és gyakorolja felette a munkáltatói jogokat.
+(6) A miniszterelnök titkárságát osztályvezető vezeti, akinek tevékenységét a Miniszterelnökséget vezető államtitkár irányítja.
 
 (7) A 67. § (4) bekezdését a Miniszterelnökségre nem kell alkalmazni.

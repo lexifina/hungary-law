@@ -12,9 +12,9 @@ helyettesíti.
 
 (3) Az (1) bekezdésben meghatározott államtitkár akadályoztatása esetén az Országgyűlés bizottsága ülésén
 
-a) a minisztert az általa vezetett minisztérium állományába tartozó, állásfoglalásra jogosult, vezetői megbízatással rendelkező személy,
+a) a minisztert az általa vezetett minisztérium állományába tartozó, állásfoglalásra jogosult, vezetői munkakört betöltő személy,
 
-b) a tárca nélküli minisztert a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium állományába tartozó, a tárca nélküli miniszter tevékenységét segítő helyettes államtitkár vagy vezetői megbízatással rendelkező személy helyettesíti.
+b) a tárca nélküli minisztert a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium állományába tartozó, a tárca nélküli miniszter tevékenységét segítő helyettes államtitkár vagy vezetői munkakört betöltő személy helyettesíti.
 
 (4) A minisztert az Európai Unió Tanácsa miniszteri képviseletet igénylő testületeiben az (1) bekezdésben meghatározott államtitkár helyettesíti. Az Európai Unió kormányzati részvétellel működő egyéb intézményeiben
 
