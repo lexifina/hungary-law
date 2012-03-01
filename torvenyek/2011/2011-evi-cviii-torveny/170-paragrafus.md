@@ -1,6 +1,6 @@
 170. § (1) A Hatóság elnökének öt évre történő kinevezéséről a Tanács a jelen levő tagok kétharmados szótöbbségével dönt. A kinevezés egyszer ismételhető.
 
-(2) A Hatóság elnökére a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt az e törvény szerinti eltérésekkel kell alkalmazni.
+(2) A Hatóság elnökére a közszolgálati tisztviselőkről szóló törvényt az e törvény szerinti eltérésekkel kell alkalmazni.
 
 (3) A Hatóság elnöke a közigazgatási államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult.
 

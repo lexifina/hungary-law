@@ -8,7 +8,7 @@
 
 (5) A Döntőbizottság elnöke az lehet, aki legalább tízéves közbeszerzési és legalább hároméves bírói gyakorlattal vagy legalább tízéves közbeszerzési és legalább hároméves közbeszerzési biztosi gyakorlattal, továbbá jogi szakvizsgával rendelkezik.
 
-(6) A Döntőbizottság elnökének közszolgálati jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.) a közbeszerzési biztosok köztisztviselői jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
+(6) A Döntőbizottság elnökének közszolgálati jogviszonyára a közszolgálati tisztviselőkről szóló törvényt (a továbbiakban: Kttv.) a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (7) A Döntőbizottság elnöke helyettes államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult. Az elnökhelyettes a főosztályvezetői illetményre jogosult.
 
