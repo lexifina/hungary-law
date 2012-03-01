@@ -12,7 +12,7 @@ d) a helyi vagy azon túlmutató közösségi – így különösen – egészs�
 
 e) a Kormány által meghatározott közösségi célok megvalósítását elősegítő feladat
 
-ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, közszolgálati vagy kormánytisztviselői jogviszonyt.
+ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, közszolgálati vagy kormányzati szolgálati jogviszonyt.
 
 (3) Közfoglalkoztató lehet:
 
