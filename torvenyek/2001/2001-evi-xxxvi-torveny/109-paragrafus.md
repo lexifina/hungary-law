@@ -1,6 +1,6 @@
-109. § (1) A határozott időre szóló fegyelmi büntetések végrehajtását az ügykezelő és fizikai alkalmazott esetében 2001. június 30. napjával meg kell szüntetni.
+109. § (1)
 
-(2) A fegyelmi büntetéshez fűződő hatály az ügykezelő és fizikai alkalmazott esetében 2001. június 30. napjával megszűnik.
+(2)
 
 (3) Az ügykezelő és fizikai alkalmazott közszolgálati jogviszonyával kapcsolatban 2001. július 1-jét megelőzően keletkező igényre az igény keletkezésekor hatályos jog, az igény érvényesítésére a 2001. július 1-jén hatályba lépett szabályok az irányadóak.
 

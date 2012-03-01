@@ -1,3 +1,3 @@
-108. § (1) 2001. június 30-án az ügykezelő és fizikai alkalmazott ellen folyamatban lévő, vagy általuk kezdeményezett fegyelmi eljárást, illetve a munkáltató fegyelmi határozatával összefüggő munkaügyi pert – a (2) bekezdésben meghatározott kivétellel – meg kell szüntetni.
+108. § (1)
 
 (2) Ha a per hivatalvesztés tekintetében folyik, a kereset elbírálásánál – a jog gyakorlására nyitva álló határidők kivételével – a rendkívüli felmondás szabályait kell megfelelően alkalmazni. A hivatalvesztés tekintetében folyamatban lévő perben a Ktv. 54–56. § szabályait is alkalmazni kell. A hivatalvesztés végrehajtására vonatkozó, a Ktv. 59. §-a (4) bekezdésének rendelkezéseit akkor is alkalmazni kell, ha az ügykezelő, fizikai alkalmazott jogviszonya a per tartama alatt e törvény erejénél fogva munkaviszonnyá alakul át.
