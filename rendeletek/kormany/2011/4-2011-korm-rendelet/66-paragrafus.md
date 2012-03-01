@@ -2,7 +2,7 @@
 
 (2) Ha a lehívási értesítés vagy az ahhoz csatolt, az e rendeletben vagy a finanszírozási szerződésben meghatározott melléklet hiányos vagy hibás, a beérkezéstől számított 15 napon belül legfeljebb 30 napos határidő kitűzésével, az adott értesítésben szereplő valamennyi hiány, illetve hiba megjelölésével hiánypótlásra, vagy a hiba javítására kell felhívni a forráskezelő szervezetet. Ha a hiány pótlására és a hiba javítására a határidő elteltétől számított 7 napon belül nem kerül sor, az a lehívási értesítés elutasítását eredményezi, ez esetben további lehívásnak nincs helye.
 
-(3)[^20] Ha a megvalósítás nyomon követése, illetve folyamatba épített ellenőrzése során szabálytalanság gyanúja merül fel a forráskezelő szervezet vonatkozásában, az NFÜ a forrás kifizetését felfüggesztheti.
+(3)[^23] Ha a megvalósítás nyomon követése, illetve folyamatba épített ellenőrzése során szabálytalanság gyanúja merül fel a forráskezelő szervezet vonatkozásában, az NFÜ a forrás kifizetését felfüggesztheti.
 
 (4) A finanszírozási keretből lehívott összeget az NFÜ kizárólag a programszámlára fizetheti ki. A programszámlára átutalt összeget a forráskezelő szervezet – a kezességvállalás esetét kivéve – kizárólag az NFÜ által jóváhagyott közvetítőnek fizetheti ki, az NFÜ által jóváhagyott program szerinti finanszírozás céljából a közvetítői szerződés rendelkezései szerint.
 
@@ -10,4 +10,4 @@
 
 (6) A programszámlára visszautalt forrást a forráskezelő szervezet a finanszírozási szerződés feltételeinek megfelelően ismételten felhasználhatja.
 
-[^20]: A 66. § (3) bekezdése a 86/2011. (V. 31.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^23]: A 66. § (3) bekezdése a 86/2011. (V. 31.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.

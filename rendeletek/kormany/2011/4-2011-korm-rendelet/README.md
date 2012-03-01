@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2011-07-01 | 2011-4-20-22.4 | 86/2011. (V. 31.) Korm. rendelet |
 | 2011-08-11 | 2011-4-20-22.5 | 153/2011. (VIII. 10.) Korm. rendelet |
 | 2012-01-01 | 2011-4-20-22.6 | 304/2011. (XII. 23.) Korm. rendelet |
+| 2012-03-01 | 2011-4-20-22.7 | 25/2012. (II. 29.) Korm. rendelet |

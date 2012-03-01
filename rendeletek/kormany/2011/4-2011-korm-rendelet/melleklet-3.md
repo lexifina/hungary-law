@@ -1,40 +1,18 @@
-## NYILATKOZAT
+## A többletkötelezettség-vállalási igény adattáblája
 
-## A) Alulírott ............................ a(z) ................. vezetője, jogi felelősségem tudatában kijelentem, hogy a(z) ............. évben az általam vezetett szervezetnél az előírásoknak megfelelően gondoskodtam az európai uniós támogatásokkal kapcsolatos feladatok ellátásához kapcsolódó belső kontroll rendszerek hatékony, eredményes és gazdaságos működtetéséről.
+## a) A prioritás alapadatai
 
-## Gondoskodtam
+|  | Prioritás | Teljes keret (Mrd Ft) | Lekötött közkiadás állomány (Mrd Ft) | Lekötött közkiadás EU része (Mrd Ft) | Lekötött közkiadás hazai része (Mrd Ft) | Hazai részből kedvezményezetti saját erő (Mrd Ft) | Kifizetett közkiadás állomány (Mrd Ft) | Támogatott projektszám (db) | Lekötött közkiadás állomány / támogatott projekt darabszám (Mrd Ft) | Lekötött közkiadás / teljes keret (%) | Túlvállalásra jogosult (igen/nem) |
 
-## –  a feladatok ellátására vonatkozó megállapodásban, szerződésben és jogszabályban meghatározott tevékenységek meghatározott követelményeknek megfelelő ellátásáról,
+## b) Lemorzsolódásra vonatkozó adatok
 
-## –  a szervezet feladatainak ellátásában a szakmai hatékonyság, eredményesség és a gazdaságosság követelményeinek érvényesítéséről,
+|  | Prioritás | Megítélt (bruttó) közkiadás (Mrd Ft) | Szerződés előtt visszalépett projektek közkiadása (Mrd Ft) | Támogatás és szerződés közötti közkiadás csökkenés (Mrd Ft) | Megszűnt szerződések közkiadása (Mrd Ft) | Szerződés és teljes kifizetés közötti közkiadás csökkenés (Mrd Ft) | Megítélt (bruttó) közkiadásból kifizetésre nem kerülő összeg (Mrd Ft) | Megítélt (bruttó) közkiadásból kifizetésre nem kerülő összeg (%) |
 
-## –  a tervezési, beszámolási, információszolgáltatási kötelezettségek teljesítéséről, azok teljességéről és hitelességéről,
+## c) Előrejelzések
 
-## –  a belső kontroll megszervezéséről és hatékony, eredményes és gazdaságos működtetéséről.
+|  | Prioritás | Többletkötelezettség- vállalás összege (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett EU része (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett Hazai része (Mrd Ft) | Hazai részből tervezett public saját erő (Mrd Ft) | Többletkötelezettség- vállalás összegéből tervezett kifizetése – éves bontásban– 2012–2015 |
 
-## Kijelentem, hogy
-
-## –  a benyújtott beszámolók és elszámolások a legjobb tudásom szerint a valóságnak megfelelőek, teljeskörűek és pontosak,
-
-## –  olyan rendszert vezettem be, ami megfelelő bizonyosságot nyújt az eljárások jogszerűségére és szabályszerűségére vonatkozóan, továbbá megfelel az európai uniós és nemzeti szabályoknak,
-
-## –  a szervezeten belül jól körülhatárolt volt a felelősségi körök meghatározása, működtetése, a vezetők a szervezet minden szintjén tisztában voltak a célokkal és az azok elérését segítő eszközökkel annak érdekében, hogy végre tudják hajtani a kitűzött feladatokat és értékelni tudják az elért eredményeket. E tevékenységről a vezetői beszámoltatás rendszerén keresztül folyamatos információval rendelkeztem, a tevékenységet folyamatosan értékeltem.
-
-## Kelt, P. H.
-
-## ...........................
-
-## aláírás
-
-## B) Az A) pontban meghatározott nyilatkozatot az alábbiak miatt nem áll módomban megtenni:
-
-## Kelt, P. H.
-
-## ...........................
-
-## aláírás
-
-3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^31]
+3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^35]
 
 A közreműködő szervezetek felsorolása operatív programonként, prioritásonként és intézkedésenként
 
@@ -158,4 +136,4 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 59. | Társadalmi Infrastruktúra Operatív Program |  |  | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
-[^31]: A 3. számú melléklet a 86/2011. (V. 31.) Korm. rendelet 13. § (6) bekezdése és a 14. § h) pontja szerint módosított szöveg.
+[^35]: A 3. számú melléklet a 86/2011. (V. 31.) Korm. rendelet 13. § (6) bekezdése és a 14. § h) pontja szerint módosított szöveg.
