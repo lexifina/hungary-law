@@ -1,0 +1,9 @@
+# 321/2011. (XII. 27.) Korm. rendelet
+
+a helyi esélyegyenlőségi programok elkészítésének szabályairól és az esélyegyenlőségi mentorokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-321-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-03-01 | 2011-321-20-22.1 | 321/2011. (XII. 27.) Korm. rendelet |
