@@ -1,0 +1,1 @@
+190. § A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvénnyel megállapított 2. számú melléklet I. 2. b) pontját a 2012. január 1-jén folyamatban lévő, vagy ezt követően indult ügyekben is alkalmazni kell.

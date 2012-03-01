@@ -22,9 +22,7 @@ d) a közös vállalat tulajdonosának (tulajdonosainak) adóazonosító számá
 
 e) a magánszemély adózó levelezési címét, ha az nem azonos székhelyével, telephelyével;
 
-f) a ténylegesen végzett tevékenységi köröket az 1893/2006/EK rendelet szerint;
-
-g) székhelyszolgáltatás esetén az ügyvéd, ügyvédi iroda nevét, elnevezését, adószámát, a székhely biztosítására kötött megbízási szerződés időtartamát és a székhelyszolgáltatás kezdő időpontját, valamint azoknak az iratoknak a körét, amelyekre e megbízási szerződés kiterjed;
+f)–g)
 
 h) a cégbírósághoz be nem jelentett, az e törvény 178. § 27. pontjában foglaltaknak megfelelő telephelyét.
 
@@ -62,7 +60,7 @@ c) a munkavégzésre megbízást adó külföldi szervezet vagy magánszemély n
 
 (12) A (10) bekezdésben meghatározott személy az állami adóhatósághoz bejelenti a székhelyére, telephelyére nem önálló tevékenység végzésére kirendelt külföldi illetőségű magánszemély munkavégzése befejezésének időpontját és – ha az adat a munkavégzéssel kapcsolatban rendelkezésére áll – az ország területe elhagyásának időpontját. A bejelentést a munkavégzés befejezése, illetve az ország területe elhagyása előtt 30 nappal kell megtenni. Ha a munkavégzés befejezésének időpontja a munkavégzésre irányuló jogviszony azonnali hatályú megszűnése miatt vagy más okból e határidőben nem áll a bejelentésre kötelezett rendelkezésére, akkor a bejelentést a munkavégzés befejezése napját követő napon az ok megjelölésével kell az állami adóhatósághoz teljesíteni.
 
-(13) Székhelyszolgáltatás bejelentése esetén az állami adóhatóság a nyilvántartásba vételről 15 napon belül írásban értesíti a bejelentésben megjelölt ügyvédet, ügyvédi irodát az adózó neve, adószáma, valamint az e § (3) bekezdés g) pontjában megjelölt adatok közlésével.
+(13)
 
 (14) Az egyéni vállalkozó adózó tevékenységi köreinek a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek megfelelő bejelentését a mindenkor hatályos Önálló vállalkozások tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kódokon teljesíti. A magánszemélyként adószám birtokában adóköteles tevékenységet végző adózó tevékenységi köreit szintén az ÖVTJ kód szerint jelenti be az állami adóhatósághoz.
 

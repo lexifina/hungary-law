@@ -68,7 +68,7 @@ A fenti jogsértések ismételt elkövetése esetén az üzletlezárást helyett
 
 (13) Az adózó 20%-ig terjedő mértékű bírságot fizet, ha az előző időszak adatai alapján előírt (bevallott) adóelőlegét mérsékelték, és ezért kevesebb adóelőleget fizetett, mint amennyit tényleges eredménye alapján kellett volna. A bírság alapja az előző időszak adatai alapján előírt (bevallott) adóelőleg és a mérsékelt adóelőleg különbözete.
 
-(14) Ha a munkáltató (kifizető) adólevonási, vagy az adóbeszedésre kötelezett adóbeszedési kötelezettségét részben vagy egészben elmulasztotta, vagy a beszedett, illetve megállapított és levont adót nem fizette meg, késedelmi pótlék mellett 50%-ig terjedő mulasztási bírságot fizet. A bírság alapja a beszedni, levonni, illetőleg megfizetni elmulasztott adó összege. A bizonytalan adójogi helyzet jogszerű bejelentése hatálya alá tartozó adómegállapítási időszakra vonatkozó adóbevallás ellenőrzése alapján az adólevonási, illetőleg az adóbeszedési kötelezettség elmulasztása esetében a mulasztási bírság kiszabásának nincs helye, ha a mulasztás kizárólag az adózó által elfogadott (a bevallás alapjául szolgáló jegyzőkönyvben rögzített) jogszabály-értelmezés következménye.
+(14) Ha a munkáltató (kifizető) adólevonási, vagy az adóbeszedésre kötelezett adóbeszedési kötelezettségét részben vagy egészben elmulasztotta, vagy a beszedett, illetve megállapított és levont adót nem fizette meg, késedelmi pótlék mellett 50%-ig terjedő mulasztási bírságot fizet. A bírság alapja a beszedni, levonni, illetőleg megfizetni elmulasztott adó összege.
 
 (15) Az adóhatóság az e törvényben, adótörvényben, illetőleg e törvények felhatalmazásán alapuló más jogszabályban megállapított kötelezettségnek az e §-ban nem szabályozott megszegése miatt a magánszemély adózót 50 ezer, más adózót 100 ezer forintig terjedő mulasztási bírsággal sújthatja.
 
@@ -92,7 +92,7 @@ b) minden más esetben, az adózó 1 millió forintig,
 
 terjedő mulasztási bírsággal sújtható.
 
-(20c) Az adóhatóság a bejelentést alátámasztó jegyzőkönyvet ellenjegyző ügyvédet, adótanácsadót, adószakértőt vagy okleveles adószakértőt mulasztási bírsággal sújtja, ha megállapítja, hogy az adózó bizonytalan adójogi helyzetét nem jogszerűen jelentette be. Az ellenjegyző terhére kizárólag akkor van helye bírság kiszabásának, ha a bejelentés a 33/A. § (7) bekezdésének b)–d) pontjában meghatározott okok miatt jogszerűtlen. A mulasztási bírság összege a bejelentés díjának 50 százaléka, de legalább 200 ezer forint.
+(20c)
 
 (20d) Ha az adózó az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 464/A. §-a alapján mentesül a jogosulatlanul igénybevett adókedvezménnyel kapcsolatos adókülönbözet megállapítása alól, a jogosulatlanul igénybevett kedvezmény összege 15%-ának megfelelő, de legalább 100 000 forint mértékű mulasztási bírságot fizet, kivéve ha bizonyítja, hogy a szükséges béremelést valamennyi folyamatosan foglalkoztatott munkavállaló tekintetében visszamenőleg, az ellenőrzés megkezdésének időpontját megelőzően végrehajtotta.
 

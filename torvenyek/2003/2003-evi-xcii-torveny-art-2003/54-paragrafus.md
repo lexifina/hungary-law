@@ -30,7 +30,7 @@ e) az adóköteles tevékenységet adószám birtokában végző magánszemélye
 
 f) a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési elővállalkozás nevét, adószámát, az ilyenként való nyilvántartásba vétel dátumát, és a nyilvántartásból való törlés dátumát, valamint ezen társaságok projekttársaságainak nevét és adószámát;
 
-g) a bizonytalan adójogi helyzet bejelentés alapjául szolgáló jegyzőkönyvet ellenjegyző ügyvéd, adótanácsadó, adószakértő vagy okleveles adószakértő nevét, adóazonosító jelét, valamint az e jogállását eredményező hatósági nyilvántartási számát, továbbá a mulasztási bírság kiszabásáról jogerősen rendelkező határozat számát, ha terhére a bizonytalan adójogi helyzet nem jogszerűen megtett bejelentése miatt jogerősen mulasztási bírságot szabott ki; a közzétételre legkorábban a határozat bírósági felülvizsgálatára irányuló kereset benyújtására előírt határidő leteltét követő 8. napon, a kereset benyújtása esetén legkorábban a bírósági eljárás jogerős befejezésének napját követően kerülhet sor.
+g)
 
 (6) Az állami adóhatóság honlapján közzéteszi az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózók – kivéve a Magyar Honvédséget, a Nemzeti Adó- és Vámhivatalt és rendvédelmi szerveket, a nemzetbiztonsági szolgálatokat – az adóhatóság nyilvántartásában szereplő alkalmazottainak létszámát.
 

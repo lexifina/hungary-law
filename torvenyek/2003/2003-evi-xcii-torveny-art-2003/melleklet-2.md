@@ -76,11 +76,11 @@ az adóévet követő év február 25-éig
 
 fizeti meg, illetőleg ettől az időponttól igényelheti vissza.
 
-b) Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetőleg az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó esetében az alábbi feltételek bármelyike érvényesül
+b) Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetőleg az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó esetében az alábbi feltételek bármelyike érvényesül:
+
+a kérelem benyújtását megelőző két éven belül
 
 – az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,
-
-– bevallási, bejelentési és adatszolgáltatási kötelezettségét nem teljesítette,
 
 – az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása, ellenőrzés akadályoztatása miatt – jogerősen mulasztási bírsággal sújtotta,
 
@@ -89,8 +89,6 @@ b) Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a neg
 – szerepel(t) az 55. § (3) bekezdése vagy (5) bekezdése alapján közzéteendő adózói listán,
 
 – 25 millió forintot elérő vagy azt meghaladó összegű adótartozás miatt végrehajtási eljárás folyt/folyik ellene.
-
-Amennyiben a kérelmező gazdasági társaság a kérelem benyújtását megelőző két éven belül alakult, az előzőekben felsoroltakon kívül, a kérelmet az adóhatóság elutasítja abban az esetben is, ha a társaság tagja vagy vezető tisztségviselője az adó végrehajtásához való jog elévülési idején belül jelentős adóhátralékkal rendelkező és/vagy azzal megszűnő más adóalany vezető tisztségviselője, tagja vagy az volt.
 
 A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
 

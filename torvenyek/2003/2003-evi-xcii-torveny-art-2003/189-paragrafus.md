@@ -22,7 +22,7 @@
 
 (12) Az adózónak e törvénynek egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított rendelkezéseinek hatálybalépését követően – ha e törvény eltérően nem rendelkezik – az azt megelőző időszakra teljesítendő bejelentési, adómegállapítási, bevallási, adófizetési, adóelőleg-fizetési, bizonylatkiállítási, adatszolgáltatási és adólevonási kötelezettségét e törvénynek egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított rendelkezéseinek hatálybalépését megelőző napon hatályos szabályok szerint kell teljesítenie.
 
-(13) E törvénynek a bizonytalan adójogi helyzet bejelentésére irányadó rendelkezéseit a 2011. december 31-ét követően benyújtott adóbevallásra (ide nem értve az önellenőrzést) lehet alkalmazni.
+(13) E törvénynek a közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény (a továbbiakban: Módtv.) 59. § (3) bekezdés a) pontjával hatályon kívül helyezett 33/A. §-a alapján megtett bejelentés érvényét veszti, a befizetett díjat az állami adóhatóság hivatalból – a Módtv. hatályba lépésétől számított 30 napon belül – visszatéríti, az adózó által benyújtott jegyzőkönyvet az állami adóhatóság visszaküldi az adózónak.
 
 (14) A munkáltató az 1996. évi CXII. törvény 200/B. § (1) bekezdésében meghatározott végtörlesztés céljából munkavállalójának nyújtott kölcsön, illetve vissza nem térítendő támogatás esetén 2013. március 31-ig adatot szolgáltat az állami adóhatósághoz az alábbi tartalommal:
 
