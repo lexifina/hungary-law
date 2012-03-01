@@ -1,1 +1,0 @@
-## 19. § A kutató-mentő szolgálat létrehozási, fenntartási és eljárási költségeit – beleértve a gyakorlatok költségeit – a feladat végrehajtására e rendelet szerint kijelölt költségvetési szervek első ízben 1999. évi költségvetési törvényben tervezik.
