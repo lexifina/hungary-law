@@ -4,9 +4,9 @@ a) a felszámolási eljárás lefolytatására irányuló kérelem bíróságra 
 
 b) a felszámolási eljárás lefolytatására irányuló kérelem bíróságra történő beérkezése napját megelőző két éven belül és azt követően megkötött szerződését vagy más jognyilatkozatát, ha annak tárgya az adós vagyonából történő ingyenes elidegenítés, illetve a vagyont terhelő ingyenes kötelezettségvállalás vagy a harmadik személy javára feltűnően aránytalan értékkülönbözettel megkötött visszterhes jogügylet,
 
-c) a felszámolási eljárás lefolytatására irányuló kérelem bíróságra történő beérkezése napját megelőző kilencven napon belül és azt követően kötött szerződését vagy más jognyilatkozatát, ha annak tárgya egy hitelező előnyben részesítése, különösen egy fennálló szerződésnek a hitelező javára történő módosítása vagy biztosítékkal nem rendelkező hitelező számára biztosíték nyújtása;
+c) a felszámolási eljárás lefolytatására irányuló kérelem bíróságra történő beérkezése napját megelőző kilencven napon belül és azt követően kötött szerződését vagy más jognyilatkozatát, ha annak tárgya egy hitelező előnyben részesítése, különösen egy fennálló szerződésnek a hitelező javára történő módosítása vagy biztosítékkal nem rendelkező hitelező számára biztosíték nyújtása.
 
-a jogügyletek eredményes megtámadása esetén a Ptk. érvénytelen szerződésre vonatkozó rendelkezéseit kell alkalmazni.
+(1a) A jogügyletek eredményes megtámadása esetén a Ptk. érvénytelen szerződésre vonatkozó rendelkezéseit kell alkalmazni. A felszámoló és a hitelező érvénytelenség címén kérheti az eredeti állapot helyreállítását és a vagyontárgyra a vagyontárgy elidegenítését követően alapított és közhiteles nyilvántartásba bejegyzett jog törlését is.
 
 (2) A felszámoló az adós nevében az (1) bekezdés szerinti határidőn belül visszakövetelheti az adós által a felszámolási eljárás lefolytatására irányuló kérelem bíróságra történő beérkezése napját megelőző hatvan napon belül és azt követően nyújtott szolgáltatást, ha annak eredménye egy hitelező előnyben részesítése és a szolgáltatás nem minősül a rendes gazdálkodás körébe tartozó szolgáltatásnak. Hitelező előnyben részesítésének minősül különösen valamely tartozás esedékesség előtti kiegyenlítése.
 
@@ -18,4 +18,4 @@ a) a pozíciólezáró nettósításra irányuló szerződés alapján történt
 
 b) az óvadék tárgyának a Ptk. 270. § (6) bekezdése alapján egyenértékű fedezettel való helyettesítése és a Ptk. 270. § (7) bekezdése alapján történt kiegészítő biztosíték nyújtása esetében.
 
-(5) Ha az (1) bekezdés szerinti 90 napos határidőn belül a felszámoló tudomására jut az (1) vagy a (2) bekezdés szerinti jogügylet, erről haladéktalanul köteles a hitelezői választmányt vagy a hitelezőket tájékoztatni, és a bizonyítékokat egyidejűleg megküldeni. Az értesítés kézhezvételétől számított 15 napon belül a hitelező akkor is jogosult a szerződés megtámadására, ha az (1) bekezdés szerinti határidő már eltelt vagy abból 15 napnál kevesebb van hátra. A jogvesztő határidő azonban ebben az esetben is irányadó.
+(5) Ha az (1) bekezdés szerinti 90 napos határidőn belül a felszámoló tudomására jut az (1) vagy a (2) bekezdés szerinti jogügylet, erről haladéktalanul köteles a hitelezői választmányt, hitelezői képviselőt vagy a hitelezőket tájékoztatni, és a bizonyítékokat egyidejűleg megküldeni. Az értesítés kézhezvételétől számított 15 napon belül a hitelező akkor is jogosult a szerződés megtámadására, ha az (1) bekezdés szerinti határidő már eltelt vagy abból 15 napnál kevesebb van hátra. A jogvesztő határidő azonban ebben az esetben is irányadó.

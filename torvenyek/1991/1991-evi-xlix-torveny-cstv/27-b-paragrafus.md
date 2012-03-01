@@ -1,4 +1,4 @@
-27/B. § (1) A felszámolást elrendelő végzés ellen nincs helye felülvizsgálatnak.
+27/B. § (1) A felszámoló jogkörét a felszámolóbiztos gyakorolja.
 
 (2) A felszámolóbiztos a kinevezésekor a felszámoló részére hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, és nem áll felszámolóbiztosi vagy felszámolói tevékenységben való közreműködést kizáró foglalkozástól eltiltás hatálya alatt.
 

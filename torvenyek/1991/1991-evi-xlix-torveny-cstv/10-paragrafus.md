@@ -1,4 +1,4 @@
-10. § (1) Ha a csődeljárás megindítása iránti kérelmet a bíróság nem utasítja el, haladéktalanul végzést hoz a csődeljárás elrendeléséről, és ezt követően haladéktalanul intézkedik az erről szóló végzésnek – külön jogszabályban meghatározott módon – a Cégközlönyben való közzétételéről és a cégjegyzékben az adós cégneve mellett a „cs. a.” toldat feltüntetéséről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján, napi feltöltéssel, 0 órakor kerül sor. A bíróság hivatalból, a csődeljárás elrendeléséről szóló végzésben a felszámolók névjegyzékéből vagyonfelügyelőt rendel ki. A végzés ellen külön fellebbezésnek nincs helye.
+10. § (1) Ha a csődeljárás megindítása iránti kérelmet a bíróság nem utasítja el, haladéktalanul végzést hoz a csődeljárás elrendeléséről, és ezt követően haladéktalanul intézkedik az erről szóló végzésnek – külön jogszabályban meghatározott módon – a Cégközlönyben való közzétételéről és a cégjegyzékben az adós cégneve mellett a „cs. a.” toldat feltüntetéséről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján, napi feltöltéssel, 0 órakor kerül sor. A bíróság hivatalból, a csődeljárás elrendeléséről szóló végzésben a felszámolók névjegyzékéből vagyonfelügyelőt rendel ki. A végzés ellen fellebbezésnek nincs helye.
 
 (2) A csődeljárás elrendeléséről szóló, közzétételre kerülő végzésnek tartalmaznia kell
 
@@ -10,12 +10,14 @@ c) a bíróság nevét és az ügy számát,
 
 d) a csődeljárás kezdő időpontját,
 
-e) azt, hogy a végzés közzétételétől az adóst fizetési haladék (moratórium) illeti meg a vele szemben a fizetési haladék kezdő időpontját megelőzően, illetve azt követően esedékessé váló pénzkövetelések vonatkozásában, amely a közzétételtől számított 90 nap elteltét követő első munkanapon 0 órakor jár le,
+e) azt, hogy a végzés közzétételétől az adóst fizetési moratórium illeti meg a vele szemben a fizetési haladék kezdő időpontját megelőzően, vagy az azt követően esedékessé váló pénzkövetelések vonatkozásában,
 
-f) a hitelezőknek szóló felhívást arra, hogy fennálló követeléseiket a csődeljárás elrendeléséről szóló végzés közzétételétől számított 30 napon belül – a csődeljárás kezdő időpontját követően keletkező követeléseiket pedig 3 munkanapon belül – jelentsék be az adósnak és a vagyonfelügyelőnek.
+f) a hitelezőknek szóló felhívást arra, hogy fennálló követeléseiket a csődeljárás elrendeléséről szóló végzés közzétételétől számított 30 napon belül – a csődeljárás kezdő időpontját követően keletkező követeléseiket pedig 8 munkanapon belül – jelentsék be az adósnak és a vagyonfelügyelőnek, a követelés nyilvántartásba vételéért fizetendő díjat ezzel egyidejűleg fizessék be a vagyonfelügyelő 12. § (1) bekezdés szerint közzétett pénzforgalmi bankszámlájára,
 
-(3) A hitelező által kezdeményezett csődeljárásban a csődeljárás kezdő időpontja a csődeljárás elrendeléséről szóló – (2) bekezdés szerinti – bírósági végzés közzétételének napja.
+g) utalást a követelésbejelentési határidő elmulasztásának jogkövetkezményeire.
 
-(4) A (2) bekezdés e) pontja szerinti fizetési haladék a közzétételt követő 90 napot követő első munkanapon 0 órakor megszűnik, kivéve, ha a bíróság a fizetési haladék meghosszabbításáról szóló, a vagyonfelügyelő által ellenjegyzett, a 18. § (11) bekezdés szerinti jegyzőkönyvi határozat alapján végzést hoz, és intézkedik annak közzétételéről a Cégközlönyben, hogy a jegyzőkönyvben foglalt határidőig a fizetési haladék meghosszabbításra kerül. Ha a fizetési haladék megszűnik, a bíróság a vagyonfelügyelő értesítése alapján, az ennek beérkezését követő 8 munkanapon belül hozza meg a 21/B. § szerinti végzést a csődeljárás megszüntetéséről.
+(3)
 
-(5) A csődeljárás elrendelésével egyidejűleg a 9. § (3) bekezdése szerinti, továbbá a csődeljárás elrendelését követően benyújtott felszámolás iránti kérelmeket a bíróság soron kívül, hivatalból elutasítja vagy megszünteti.
+(4) A (2) bekezdés e) pontja szerinti fizetési haladék a közzétételt követő 120. napot követő második munkanap 0 óráig tart, kivéve, ha a vagyonfelügyelő által ellenjegyzett, 18. § (11) bekezdés szerinti jegyzőkönyvi határozat alapján a bíróság végzést hoz a fizetési haladék meghosszabbításáról, és egyben intézkedik annak közzétételéről is a Cégközlönyben, hogy a jegyzőkönyvben foglalt határidőig a fizetési haladék meghosszabbításra kerül. Ha a fizetési haladék meghosszabbítására nem kerül sor, a bíróság a vagyonfelügyelő értesítése alapján, az ennek beérkezését követő 5 munkanapon belül hozza meg a 21/B. § szerinti végzést a csődeljárás megszüntetéséről és a fizetési haladéknak a felszámolást elrendelő jogerős végzés közzétételi napját követő második munkanap 0 óráig történő meghosszabbításáról.
+
+(5) (5) A csődeljárás elrendelésével egyidejűleg a 9. § (3) és (3a) bekezdése szerinti felszámolási eljárásokat a bíróság soron kívül, hivatalból megszünteti, a csődeljárás elrendelését követően benyújtott felszámolás iránti kérelmeket pedig elutasítja.

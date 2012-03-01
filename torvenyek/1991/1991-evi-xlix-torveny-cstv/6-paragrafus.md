@@ -1,8 +1,28 @@
-6. § (1) A csődeljárás és a felszámolási eljárás az adós – eljárás lefolytatására irányuló kérelem benyújtásának napján bejegyzett – székhelye szerint illetékes megyei (fővárosi) törvényszék (a továbbiakban: bíróság) hatáskörébe és kizárólagos illetékességébe tartozó, nemperes eljárás. Ez az illetékességi szabály irányadó akkor is, ha az adós az eljárás alatt, az eljárást befejező végzés jogerőre emelkedéséig a székhelyét más cégbíróság illetékességi területére helyezi át. A más bíróságoknál benyújtott csődeljárások iránti kérelmeket hivatalból el kell utasítani, vagy a már megindult eljárásokat meg kell szüntetni, a felszámolási eljárás iránti kérelmeket pedig az illetékes bírósághoz kell áttenni.
+6. § (1) A csődeljárás és a felszámolási eljárás az adós – eljárás lefolytatására irányuló kérelem benyújtásának napján bejegyzett, illetve az (1a) bekezdésben meghatározott – székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) hatáskörébe és illetékességébe tartozó nemperes eljárás. A más bíróságoknál benyújtott csődeljárások iránti kérelmeket hivatalból el kell utasítani vagy a már megindult eljárásokat meg kell szüntetni, a felszámolási eljárás iránti kérelmeket pedig az illetékes bírósághoz kell áttenni.
+
+(1a) Az adós székhelyének a korábbitól eltérő cégbíróság illetékességi területére történő áthelyezése esetén a székhelyváltozás bejegyzését követő 180 napig kizárólag a korábban bejegyzett székhely szerinti illetékes bíróság előtt kezdeményezhető csődeljárás, felszámolási eljárás. Amennyiben az adós ellen felszámolási eljárást kezdeményeztek, de a fizetésképtelenség megállapításáról és a felszámolás elrendeléséről a bíróság még nem hozott elsőfokú végzést, az adós csődeljárás iránti kérelmet csak ennél a bíróságnál nyújthat be.
+
+(1b) Az új székhely szerinti bíróság az (1a) bekezdés szerinti határidő leteltét követően benyújtott kérelmek esetén hivatalból tájékoztatást kér az (1a) bekezdés szerinti korábban illetékes bíróságtól arról, hogy az adós ellen van-e folyamatban felszámolási eljárás, amelyben még nem hozták meg a fizetésképtelenséget megállapító és felszámolást elrendelő végzést.
 
 (2) A Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendeletének hatálya alá tartozó és nem Magyarországon bejegyzett gazdálkodó szervezet [3. § (1) bekezdés a) pont] ellen megindított főeljárás vagy területi eljárás lefolytatására a Fővárosi Törvényszék rendelkezik kizárólagos illetékességgel.
 
-(3) Azokra az eljárási kérdésekre, amelyeket e törvény külön nem szabályoz, a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezései – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadóak azzal, hogy – a 6/A. § esetén kívül – a csődeljárásban felfüggesztésnek, félbeszakadásnak és szünetelésnek, a felszámolási eljárásban pedig félbeszakadásnak nincs helye.
+(3) Azokra az eljárási kérdésekre, amelyeket e törvény külön nem szabályoz, a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezései – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadóak azzal, hogy
+
+a) a csődeljárásban
+
+aa) felfüggesztésnek nincs helye,
+
+ab) félbeszakadásnak és szünetelésnek nincs helye,
+
+b) a felszámolási eljárásban
+
+ba) nincs helye félbeszakadásnak,
+
+bb) a vitatott igény elbírálására irányuló és a kifogás alapján indult eljárást kivéve nincs helye beavatkozásnak,
+
+bc) az eljárás szünetelésének csak a 26. § (4) bekezdésben foglaltak esetén van helye,
+
+bd) az eljárás felfüggesztésének fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (2) bekezdése szerinti esetben van helye.
 
 (4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót kell félnek tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
 

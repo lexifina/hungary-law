@@ -1,0 +1,1 @@
+49/F. § A felszámoló kizárhatja az árverezésből, pályázatból azokat, akik az elektronikus értékesítés szabályait, az eljárás eredményét csalárd módon befolyásolták vagy hamis adatszolgáltatással vettek benne részt, illetve az említetteket megkísérelték.

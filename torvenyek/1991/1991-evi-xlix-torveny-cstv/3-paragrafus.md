@@ -4,12 +4,20 @@ a) gazdálkodó szervezet: a gazdasági társaság, a közhasznú társaság, az
 
 b) adós: az a gazdálkodó szervezet, amely tartozását (tartozásait) az esedékességkor nem tudta vagy előreláthatóan nem tudja kiegyenlíteni;
 
-c) hitelező: a csődeljárásban és a felszámolási eljárásban – a felszámolás kezdő időpontjáig – az, akinek az adóssal szemben jogerős és végrehajtható bírósági, hatósági határozaton (végrehajtható okiraton) alapuló, nem vitatott vagy elismert, lejárt pénz- vagy pénzben kifejezett vagyoni követelése van, továbbá a csődeljárásban az is, akinek a csődeljárás iránti kérelem időpontjában még le nem járt, de elismert pénz- vagy pénzben kifejezett vagyoni követelése van; a felszámolás kezdő időpontja után hitelező mindenki, akinek az adóssal szemben pénz- vagy pénzben kifejezett vagyoni követelése van (ideértve a bankgaranciából, biztosítói garanciából vagy biztosító által kiállított, készfizető kezességvállalást tartalmazó kötelezvényből származó, függő követeléseket is, amelyeknek beállta és esedékessége még bizonytalan), amennyiben az említett követeléseket a felszámoló nyilvántartásba vette;
+c) hitelező:
+
+ca) a csődeljárásban és a felszámolási eljárásban – a felszámolás kezdő időpontjáig – az, akinek az adóssal szemben jogerős és végrehajtható bírósági, hatósági határozaton vagy más végrehajtható okiraton alapuló, nem vitatott vagy elismert, lejárt pénz- vagy pénzben kifejezett vagyoni követelése van,
+
+cb) a csődeljárásban a ca) pontban foglaltakon kívül az is, akinek az adóssal szemben vitatott, vagy a csődeljárás alatt esedékessé vált pénz- vagy pénzben kifejezett vagyoni követelése van, és a követelést a vagyonfelügyelő nyilvántartásba vette;
+
+cc) csődeljárásban a ca) és a cb) pontban foglaltakon kívül az is, akinek az adóssal szemben olyan jövőben lejáró, pénz- vagy pénzben kifejezett, létező vagyoni követelése van, amely szállítási, vállalkozási, szolgáltatási és egyéb szerződésből jogszerűen ered, és amely a hitelező által már teljesített termékértékesítéshez, szolgáltatás teljesítéséhez, hitelviszonyt megtestesítő értékpapír-, tulajdonosi részesedést jelentő befektetés értékesítéséhez, kölcsönnyújtáshoz vagy előlegfizetéshez kapcsolódik, és ezt a hitelezői követelést a vagyonfelügyelő nyilvántartásba vette;
 
 d) gazdálkodó szervezet vezetője: közkereseti és betéti társaságnál az üzletvezetésre és képviseletre jogosult tag(ok), egyesülésnél, közös vállalatnál az igazgató, korlátolt felelősségű társaságnál az ügyvezető(k), részvénytársaságnál az igazgatóság vagy az alapszabályban az ügyvezetésre feljogosított személy(ek), egyéni cégnél a cégtulajdonos, ügyvédi irodánál, közjegyzői irodánál, szabadalmi ügyvivői irodánál az iroda vezetője, végrehajtói irodánál az irodavezető vagy irodavezető hiányában a tartós helyettes, szövetkezetnél az igazgatóság (ügyvezető igazgató) vagy az ügyvezető elnök, vízgazdálkodási társulatnál az igazgató (vállalati biztos), önkéntes kölcsönös biztosító pénztárnál az ügyvezető (ha a pénztár ügyvezetőt nem alkalmaz, az igazgatótanács), a magánnyugdíjpénztárnál az ügyvezető, alapítvány, egyesület képviselője, az Európai Unió más tagállamában bejegyzett gazdálkodó szervezet esetében a magyarországi nyilvántartásba bejegyzett, jognyilatkozat tételére jogosult személy, ilyen hiányában a jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság nevében a hatóságok előtt vagy a polgári jogi kapcsolatokban eljáró személy;
 
 e) vagyon: mindaz, amit a számvitelről szóló törvény befektetett eszköznek vagy forgóeszköznek minősít;
 
 f) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
+
+g) függő követelés: bankgaranciából, biztosítói garanciából vagy biztosító által kiállított, készfizető kezességvállalást tartalmazó kötelezvényből származó olyan követelés, amelynek beállta és esedékessége még bizonytalan.
 
 (2)

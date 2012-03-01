@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2011-11-26 | 2011. évi CLIV. törvény | 1991-49-00-00.65 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1991-49-00-00.66 |
 | 2012-01-01 | 2011. évi CXCVII. törvény | 1991-49-00-00.67 |
+| 2012-03-01 | 2011. évi CXCVII. törvény | 1991-49-00-00.68 |

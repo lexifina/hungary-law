@@ -10,7 +10,7 @@ d) ingóság árverése esetén azt, hogy az ingóságot az árverés előtt hol
 
 e) ingatlan árverése esetén
 
-ea) az ingatlan-nyilvántartási adatokat,
+ea) az ingatlan-nyilvántartási adatokat, a földhasználati nyilvántartásba bejegyzett földhasználat jogcímét, időtartamát,
 
 eb) az ingatlan tartozékait, az épületnél jellemző sajátosságokat, továbbá beköltözhető vagy lakott állapotát,
 

@@ -1,4 +1,4 @@
-25. § (1) A bíróság a kérelmet érdemi vizsgálat nélkül elutasítja, ha
+25. § (1) A bíróság a kérelmet érdemi vizsgálat nélkül, hivatalból elutasítja, ha
 
 a) azt nem az arra jogosult terjesztette elő;
 
@@ -10,7 +10,7 @@ d) az adós a kérelmező és a 8. § (1) bekezdésében megjelölt szervek egye
 
 e) az adós ellen az Európai Unió más tagállamában a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján fizetésképtelenségi főeljárás indult és a kérelem szintén főeljárás megindítására irányul;
 
-f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg;
+f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (2c) bekezdés szerinti tartalmi elemeket.
 
 g) a jogerős bírósági határozatban megállapított teljesítési határidő a kérelem bírósághoz érkezésének időpontjában még nem telt el.
 

@@ -6,6 +6,6 @@ b) a hitelezők által elfogadott adósságrendezési és újjászervezési prog
 
 c) a teljesítési határidők esetleges módosítását, a hitelezők követeléseinek elengedését vagy átvállalását, illetve mindazt, amit az adós és a hitelezők az adósságállomány rendezése, az adós fizetőképességének helyreállítása vagy megőrzése érdekében szükségesnek tartanak,
 
-d) valamennyi hitelező (képviselője) nevét és postacímét, hitelezői választmány esetén azt is megjelölve, hogy melyik hitelezőket képviselik.
+d) valamennyi hitelező (annak képviselője, kézbesítési megbízottja) nevét és postacímét, hitelezői választmány, hitelezői képviselő esetén azt is megjelölve, hogy melyik hitelezőket képviselik.
 
 (2) Az egyezséget a felek, törvényes képviselőik vagy meghatalmazottaik aláírják, és azt a vagyonfelügyelő – továbbá ha van hitelezői választmány, akkor a választmány is – ellenjegyzi.

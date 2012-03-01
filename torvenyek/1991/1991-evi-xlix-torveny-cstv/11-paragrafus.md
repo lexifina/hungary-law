@@ -1,10 +1,12 @@
 11. § (1) Az ideiglenes fizetési haladék és a fizetési haladék (a továbbiakban együtt: fizetési haladék) célja a csődvagyon megőrzése a hitelezőkkel kötendő egyezség érdekében, annak időtartama alatt az adós, a vagyonfelügyelő, a számlavezetők és a hitelezők is kötelesek tartózkodni minden olyan intézkedéstől, amely a haladék célját meghiúsítja. A fizetési haladék
 
-a) a csődeljárás kezdő időpontjában fennálló és kezdő időpontja után keletkezett munkabérkövetelések és a bérjellegű egyéb juttatásokra vonatkozó követelések, az ezeket terhelő személyi jövedelemadó-előleg, egészségbiztosítási és nyugdíjjárulék (ideértve a magán-nyugdíjpénztári tagdíjat is), társadalombiztosítási járulék, baleseti járulék, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján fizetendő járulék, végkielégítés, tartásdíj, életjáradék, kártérítési járadék és bányászati keresetkiegészítés, szakképzési hozzájárulási kötelezettség, szakképzésben részt vevő tanulóknak járó juttatások és kedvezmények, továbbá a villamosenergia- és földgázellátásért fizetendő díjak (beleértve a rendszerhasználati díjakat is), valamint minden egyéb, szolgáltatási kötelezettség alapján járó vagy külön jogszabályban meghatározott közműdíj, a pénzforgalmi szolgáltató által felszámított számlavezetési díj, a vagyonfelügyelőnek a 16. § (3) bekezdése alapján felszámított, de a nyilvántartási díjból meg nem térülő díja és költségei, valamint
+a) a csődeljárás iránti kérelem benyújtásakor fennálló és kezdő időpontja után keletkezett munkabér-követelések és a bérjellegű egyéb juttatásokra vonatkozó követelések, az ezeket terhelő adók és más közterhek, (ideértve a magán-nyugdíjpénztári tagdíjat is), a végkielégítés, tartásdíj, életjáradék, kártérítési járadék és bányászati keresetkiegészítés, a szakképzésben részt vevő tanulóknak járó juttatások és kedvezmények, továbbá a villamosenergia- és földgázellátásért fizetendő díjak (beleértve a rendszerhasználati díjakat is), valamint minden egyéb, szolgáltatási kötelezettség alapján járó vagy külön jogszabályban meghatározott közműdíj, a pénzforgalmi szolgáltató által felszámított számlavezetési díj, a vagyonfelügyelőnek a 16. § (3) bekezdése alapján felszámított, de a nyilvántartási díjból meg nem térülő díja és költségei, valamint
 
 b) a csődeljárás kezdő időpontja után az adósra a számlában áthárított vagy az adós ügyletei során keletkezett általános forgalmi adó, jövedékiadó- és termékdíj-fizetési kötelezettség, továbbá
 
-c) az adós számlájára történt téves átutalás visszatérítésének
+c) az adós számlájára tévesen címzett átutalás visszatérítésének
+
+d) a (2) bekezdés g) pontja szerinti, a gazdasági tevékenység folytatásához a vagyonfelügyelő ellenjegyzésével vállalt fizetési kötelezettségek
 
 kifizetése alól nem mentesít.
 
@@ -14,7 +16,7 @@ a) az adóssal szemben beszámításnak helye nincs, de az adós által indítot
 
 b) az adós számláinak terhére – az (1) bekezdésben foglalt követelések kivételével – fizetési megbízás nem teljesíthető, az adóssal szemben nem lehet fizetési megbízást benyújtani,
 
-c) az adóssal szemben a pénzkövetelések végrehajtása – az (1) bekezdésben foglalt követelések kivételével – szünetel,
+c) az adóssal szemben a pénzkövetelések végrehajtása – az (1) bekezdésben foglalt követelések kivételével – szünetel, és végrehajtásuk elrendelésének nincs helye,
 
 d) az adós vagyonával szemben követelésen alapuló zálogjog alapján, valamint zálogtárgyból, óvadék tárgyából – kivéve a (3) bekezdésben meghatározott szervezetek közötti óvadéki megállapodást – nem lehet kielégítést szerezni, továbbá az adóssal szemben a csődeljárás kezdő időpontja előtt kikötött biztosítékot (ideértve a biztosítéki célú vételi jogot is) nem lehet érvényesíteni, a biztosítéki célú tulajdonátruházás esetén pedig az adós csak a vagyonfelügyelő ellenjegyzése mellett adhatja ki a hitelező tulajdonjoga ingatlannyilvántartási bejegyzéséhez szükséges okiratot, ingóság esetén pedig csak a vagyonfelügyelő ellenjegyzése mellett adhatja át a biztosíték tárgyát a hitelezőnek,
 
@@ -22,9 +24,9 @@ e) az adós – az (1) és (3) bekezdésben meghatározott követelések kivéte
 
 f) az adós új kötelezettséget csak akkor vállalhat, ha ahhoz a vagyonfelügyelő hozzájárult,
 
-g) az adós vagyona terhére kifizetések csak a vagyonfelügyelő ellenjegyzésével teljesíthetők,
+g) az adós vagyona terhére kifizetések csak a vagyonfelügyelő ellenjegyzésével teljesíthetők, ideértve az adós gazdasági tevékenységének folytatásához szükséges kötelezettségek teljesítését is,
 
-h) az adóssal kötött szerződéstől nem lehet elállni, vagy azt nem lehet felmondani arra hivatkozással, hogy az adós a fizetési haladék időtartama alatt tartozását nem egyenlíti ki.
+h) az adóssal kötött szerződéstől nem lehet elállni, vagy azt nem lehet felmondani arra hivatkozással, hogy az adós csődeljárást kezdeményezett vagy a fizetési haladék időtartama alatt nem egyenlíti ki az ideiglenes fizetési haladék előtt keletkezett tartozásait.
 
 (3) A fizetési haladék nem érinti a csődeljárás kezdő időpontját megelőzően kikötött óvadék, valamint a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 107. pontjában meghatározott pozíciólezáró nettósításra vonatkozó keretmegállapodás érvényesíthetőségét, ha az egyik fél vagy mindkét fél
 
@@ -46,12 +48,14 @@ h) ÁÉKBV-t kezelő vállalkozás, vagy
 
 i) EGT-államban székhellyel rendelkező, az Európai Parlament és Tanács 2002/47/EK irányelvének 1. cikk (2) bekezdésének d) pontját átültető EGT-állam jogszabályai szerinti központi szerződő fél, elszámolóházi, központi értéktári tevékenység folytatására jogosult szervezet.
 
+(3a) Az (1) és (3) bekezdés szerinti jogcímek alapján történő kifizetéseknél a pénzforgalmi megbízások esetén nyilatkozni kell arról, hogy a fizetési megbízás az említett körbe tartozik.
+
 (4) A fizetési haladék nem szünteti meg az adós és a hitelező közötti jogviszonyokból eredő jogokat és kötelezettségeket, de annak időtartama alatt a jogok gyakorlása és a kötelezettségek teljesítése csak az e törvényben meghatározott eltérésekkel lehetséges. A fizetési haladék időtartama alatt az adós pénzfizetési kötelezettsége nemteljesítéséhez vagy késedelmes teljesítéséhez fűződő jogkövetkezmények – az (1) és (3) bekezdésben foglaltak kivételével – nem állnak be.
 
-(5) A fizetési haladék tartama alatt a hitelezői követelések – ha a hitelező és az adós közötti szerződés másként nem rendelkezik – kamatoznak.
+(5) A 10. § (2) bekezdés f) pontjában meghatározott határidőben bejelentett hitelezői követelés a fizetési haladék időtartama alatt – ha a hitelező és az adós közötti szerződés másként nem rendelkezik – kamatozik.
 
-(6) A fizetési haladék időtartamával az adóssal szemben a külön jogszabályok szerinti, vagyoni igények érvényesítésére, ilyen igényekkel összefüggésben keresetindításra meghatározott határidők meghosszabbodnak.
+(6) A fizetési haladék időtartamával az adóssal szemben a külön jogszabályok szerinti, vagyoni igények érvényesítésére, ilyen igényekkel összefüggésben keresetindításra meghatározott határidők meghosszabbodnak, amennyiben a hitelező az igényét a 10. § (2) bekezdés f) pontjában meghatározott határidőben bejelentette.
 
-(7) A bíróság az adós gazdálkodó szervezet vezetőjét pénzbírsággal sújtja, ha a (2) bekezdés e) pontjába ütközően kifizetést teljesít, vagy lehetővé teszi, hogy a hitelezők a (2) bekezdésbe ütköző módon érvényesítsék követeléseiket. A pénzbírság összege a kifizetett összeg 10%-a. A bírság megfizetéséért az adós gazdálkodó szervezet legalább többségi befolyást biztosító részesedéssel rendelkező tagja (részvényese) – egyéni cég esetén a tag – kezesként felel.
+(7) A bíróság az adós gazdálkodó szervezet vezetőjét pénzbírsággal sújtja, ha a (2) bekezdés e) pontjába ütközően kifizetést teljesít, vagy lehetővé teszi, hogy a hitelezők a (2) bekezdésbe ütköző módon érvényesítsék követeléseiket. A pénzbírság összege a kifizetett összeg 10%-a. A kötelezettség teljesítésére és a bírság kiszabására figyelmeztető végzést, valamint a bírságot kiszabó végzést az adós gazdálkodó szervezet azon többségi befolyással [Ptk. 685/B. §] rendelkező tagjának (egyszemélyes társaság és egyéni cég esetén a tagnak, külföldi székhelyű vállalkozás magyarországi fióktelepe esetén a külföldi székhelyű vállalkozásnak) is meg kell küldeni, amely a bírság kiszabásának alapjául szolgáló cselekmény vagy mulasztás idején az említett mértékű részesedéssel rendelkezett. Az említett tag, illetőleg a külföldi székhelyű vállalkozás a bírság megfizetéséért behajthatatlanság esetén kezesként felel. A külföldi székhelyű vállalkozás az említett kezesi kötelezettségéből eredő fizetési kötelezettségét nem teljesítheti a fióktelepe rendelkezésére bocsátott vagyonból.
 
-(8) A bíróság a (7) bekezdésben meghatározott esetben hivatalból elrendelheti, hogy a vagyonfelügyelőt együttes cégjegyzési és a pénzforgalmi számlák feletti együttes rendelkezési jog illesse meg.
+(8) A bíróság a (7) bekezdésben meghatározott esetben hivatalból elrendelheti, hogy a vagyonfelügyelőt együttes cégjegyzési és a pénzforgalmi számlák feletti együttes rendelkezési jog illesse meg. A végzés ellen fellebbezésnek nincs helye.

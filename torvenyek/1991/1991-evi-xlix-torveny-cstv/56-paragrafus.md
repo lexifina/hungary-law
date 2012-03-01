@@ -6,6 +6,6 @@
 
 (3) Ha az eljárás befejezésekor az értékesítetlen vagyontárgyak között zálogjoggal terhelt vagyontárgy is található, a vagyontárgyaknak a hitelezők közötti felosztásáról rendelkező végzés jogerőre emelkedésével a zálogjog megszűnik. A szükséges eljárás lefolytatása a bíróság végzése alapján hivatalból történik.
 
-(4) Az értékesítetlen vagyontárgyaknak a hitelezők közötti felosztásával bekövetkezett vagyonszerzés — az egyszerűsített felszámolás esetét (63/A. §) is ideértve — illetékmentes.
+(4) Az értékesítetlen vagyontárgyaknak a hitelezők közötti felosztásával bekövetkezett vagyonszerzés — az egyszerűsített felszámolás esetét (63/B. §) is ideértve — illetékmentes.
 
 (5) Az összes hitelezői igényt meghaladó be nem hajtott követelések felosztására a 61. §-ban foglaltak az irányadók.
