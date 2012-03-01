@@ -1,3 +1,3 @@
-24. §[^1]
+24. § (1) Az 1. melléklet helyébe a 17. melléklet lép.
 
-[^1]: A 24. § a 23. § (2) bekezdése alapján 2012. március 1-jén lép hatályba.
+(2) A 2. melléklet helyébe a 18. melléklet lép.
