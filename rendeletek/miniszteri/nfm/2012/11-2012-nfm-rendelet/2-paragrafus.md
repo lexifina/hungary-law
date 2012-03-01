@@ -1,3 +1,0 @@
-## 1. § A kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények és légiközlekedési rendellenességek szakmai vizsgálatának részletes szabályairól, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályairól szóló 35/2008. (XII. 5.) KHEM–HM–IRM együttes rendelet (a továbbiakban: R.) 4. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A külföldi kivizsgáló szerv által végzett vizsgálathoz az állami közlekedésbiztonsági szerv a légiközlekedési balesettel, súlyos repülőeseménnyel és repülőeseménnyel kapcsolatos rendelkezésre álló információt – a nemzetbiztonsági és honvédelmi érdekek figyelembevételével – továbbítja.”
