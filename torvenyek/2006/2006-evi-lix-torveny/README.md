@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-59-00-00
 | 2011-01-01 | 2010. évi CXXIII. törvény | 2006-59-00-00.9 |
 | 2011-12-29 | 2011. évi CXCIII. törvény | 2006-59-00-00.10 |
 | 2012-01-01 | 2011. évi CLVI. törvény | 2006-59-00-00.11 |
+| 2012-03-01 | 2012. évi VIII. törvény | 2006-59-00-00.12 |
