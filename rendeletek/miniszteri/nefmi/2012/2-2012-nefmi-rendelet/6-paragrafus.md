@@ -4,7 +4,7 @@
 
 (2)[^3]
 
-(3)[^4]
+(3)[^4] Az R1. 2. számú melléklete a 3. melléklet szerint módosul.
 
 (4)–(5)[^5]
 
