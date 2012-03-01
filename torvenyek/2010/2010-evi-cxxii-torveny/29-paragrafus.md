@@ -10,4 +10,4 @@
 
 (6) A NAV külföldi szolgálati helyen szolgálatot teljesítő hivatásos állományú tagját naponta a belföldi napidíj 50%-ának megfelelő külföldi szolgálati helyi pótlék illeti meg.
 
-(7) Három hónapnál rövidebb időtartamú külföldi szolgálatot teljesítő pénzügyőrt a Ktv. 80. § (1) bekezdés f) pontja alapján kibocsátott jogszabály szerint illeti meg napidíj.
+(7) Három hónapnál rövidebb időtartamú külföldi szolgálatot teljesítő pénzügyőrt a Kttv. 259. § (1) bekezdés 3. pontja c) alpontja alapján kibocsátott jogszabály szerint illeti meg napidíj.

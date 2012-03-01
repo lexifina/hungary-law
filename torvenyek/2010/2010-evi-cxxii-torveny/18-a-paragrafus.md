@@ -1,4 +1,4 @@
-18/A. § (1) A NAV-nál kormánytisztviselői jogviszony azzal a személlyel létesíthető, aki a Ktv.-ben meghatározott feltételeken túl megfelel a kijelölt miniszter által rendeletben meghatározott pszichikai alkalmassági követelményeknek.
+18/A. § (1) A NAV-nál kormánytisztviselői jogviszony azzal a személlyel létesíthető, aki a Kttv.-ben meghatározott feltételeken túl megfelel a kijelölt miniszter által rendeletben meghatározott pszichikai alkalmassági követelményeknek.
 
 (2) A pszichikai alkalmassági vizsgálat során keletkezett adat kezelésének célja a kormánytisztviselői jogviszony létesítéséhez a pszichikai alkalmassági feltételek fennállásának megállapítása.
 

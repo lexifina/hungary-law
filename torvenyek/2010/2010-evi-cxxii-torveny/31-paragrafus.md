@@ -1,4 +1,4 @@
-31. § (1) A Ktjv. 23. §-ában foglaltakat a (2)–(4) bekezdésekben foglalt eltérésekkel kell alkalmazni.
+31. § (1) A Kttv. 150. §-ában foglaltakat a (2)–(4) bekezdésekben foglalt eltérésekkel kell alkalmazni.
 
 (2) A kormánytisztviselő jubileumi jutalomra jogosult, melynek mértéke:
 

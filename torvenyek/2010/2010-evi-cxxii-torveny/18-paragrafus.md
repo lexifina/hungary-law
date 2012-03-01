@@ -1,3 +1,3 @@
-## Eltérés a Ktv.-től és a Ktjv.-től
+## Eltérés a Kttv.-től
 
-18. § A NAV kormánytisztviselői tekintetében a Ktv. 9. § (1) bekezdése, 10. §-a, 10/B. §-a, 21. §-a, 22. §-a, 24. §-a, 30/A. §-a, 34. § (1)–(6) bekezdései, 41. § (1)–(5) bekezdése, 43. § (3)–(5) bekezdése, 45. § (1) bekezdése, 47. § (4) bekezdése, 48. §-a, és a 2. sz. melléklete, valamint a Ktjv. a 9. § (4) bekezdés második mondata, 14. §-a, 24. § (1) bekezdésében az „59. §-a” szövegrész és az 58/B. §-a nem alkalmazható.
+18. § A NAV kormánytisztviselői és ügykezelői tekintetében a Kttv. 45. § (1) bekezdése, 68. § (4) bekezdés második mondata, 84–87. §-a, 101. § (1)–(5) bekezdése, 117. §-a, 126–127. §-a, 133. § (2)–(4) bekezdése, 139. §-a, 140. § (4) bekezdése, 141. §-a, 190. §-a, 209. §-a és az 1. melléklete nem alkalmazható. A NAV kormánytisztviselői és ügykezelői tekintetében a Kttv. 238. §-át kell alkalmazni.

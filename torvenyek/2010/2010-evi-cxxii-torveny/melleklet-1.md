@@ -10,6 +10,4 @@ II. BESOROLÁSI OSZTÁLY (középiskolai végzettségű kormánytisztviselők é
 
 III. BESOROLÁSI OSZTÁLY (ügykezelők)
 
-## | | A | B | C | D | 1 | Besorolási fokozat megnevezése | Fizetési fokozat | Jogviszony időtartama (év) | Szorzószám | 2 | Ügykezelő | 1 | 0–2 | 1,79 | 3 | | 2 | 2–10 | 1,87 | 4 | | 3 | 10–20 | 2,00 | 5 | | 4 | 20–30 | 2,25 | 6 | | 5 | 30–37 | 2,50 | 7 | | 6 | 37 év felett | 2,75
-
 IV. BESOROLÁSI OSZTÁLY (fizikai alkalmazottak)

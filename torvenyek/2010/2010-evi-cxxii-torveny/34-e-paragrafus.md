@@ -32,4 +32,4 @@ b) szervezeti egységet említ, azon a NAV tekintetében a központi szerveket, 
 
 kell érteni.
 
-(5) A 31. § (2)–(3) bekezdés alkalmazásában kormánytisztviselői jogviszonyban töltött idő alatt a Ktjv. 23. § (3) bekezdése alapján megállapított jubileumi jutalomra jogosító jogviszonyban töltött időt kell érteni.
+(5) A 31. § (2)–(3) bekezdés alkalmazásában kormánytisztviselői jogviszonyban töltött idő alatt a Kttv. 150. § (3) bekezdése alapján megállapított jubileumi jutalomra jogosító jogviszonyban töltött időt kell érteni.
