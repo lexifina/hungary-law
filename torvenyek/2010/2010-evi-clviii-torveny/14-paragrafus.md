@@ -1,4 +1,4 @@
-14. § (1) A Felügyelet elnökének, alelnökének, a Pénzügyi Békéltető Testület elnökének kinevezésére a köztisztviselők jogállásáról szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy e tisztségekre nem kell pályázatot kiírni.
+14. § (1) A Felügyelet elnökének, alelnökének, a Pénzügyi Békéltető Testület elnökének kinevezésére a közszolgálati tisztviselőkről szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy e tisztségekre nem kell pályázatot kiírni.
 
 (2) A Felügyelet elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke a kinevezésében megjelölt időpontban, ennek hiányában kinevezésével hivatalba lép. Közszolgálati jogviszonyban nem álló személy esetén a közszolgálati jogviszony a hivatalba lépéssel létesül.
 

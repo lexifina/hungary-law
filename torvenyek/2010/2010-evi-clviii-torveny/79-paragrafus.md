@@ -4,7 +4,7 @@
 
 (3) Békéltető testületi tag az lehet, aki jogi végzettséggel és jogi szakvizsgával vagy közgazdasági egyetemi diplomával rendelkezik. A Felügyelet szervezeti és működési szabályzata meghatározhatja a békéltető testületi tag kinevezésének további feltételeit.
 
-(4) A békéltető testület tagjára e törvényben foglalt eltéréssel a köztisztviselők jogállásáról szóló törvény szabályait kell alkalmazni.
+(4) A békéltető testület tagjára e törvényben foglalt eltéréssel a közszolgálati tisztviselőkről szóló törvény köztisztviselőkre vonatkozó szabályait kell alkalmazni.
 
 (5) A békéltető testületi tag számára felügyeleti tanácsadói vagy felügyeleti főtanácsadói címet kell adományozni.
 

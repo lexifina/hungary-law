@@ -4,7 +4,7 @@
 
 (3) A Felügyelet elnöke át nem ruházható hatáskörében dönt a Felügyelet köztisztviselőjének alapilletményéről, annak eltérítéséről, a tárgyév során bármikor módosíthatja azt a köztisztviselő munkájának értékelésétől függően. Az alapilletmény módosítása során a köztisztviselő alapilletményét legfeljebb ötven százalékkal megemelheti, vagy legfeljebb harminchárom százalékkal csökkentett mértékben állapíthatja meg.
 
-(4) A Felügyelet elnöke a kimagasló teljesítményt nyújtó köztisztviselőnek a köztisztviselők jogállásáról szóló törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény a Felügyelet szervezeti és működési szabályzatában megállapított létszám legfeljebb húsz százalékáig adható a személyi juttatás előirányzata terhére. A személyi illetmény indokolás nélkül visszavonható, amely nem minősül a köztisztviselői kinevezés módosításának.
+(4) A Felügyelet elnöke a kimagasló teljesítményt nyújtó köztisztviselőnek a közszolgálati tisztviselőkről szóló törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény a Felügyelet szervezeti és működési szabályzatában megállapított létszám legfeljebb húsz százalékáig adható a személyi juttatás előirányzata terhére. A személyi illetmény indokolás nélkül visszavonható, amely nem minősül a köztisztviselői kinevezés módosításának.
 
 (5) A napidíj mértéke a költségvetési törvényben meghatározott illetményalap egy munkanapra eső összegének 150%-a. Kiszámításánál havonta huszonegy munkanapot kell figyelembe venni és azt tíz forintra felkerekítve kell megállapítani.
 

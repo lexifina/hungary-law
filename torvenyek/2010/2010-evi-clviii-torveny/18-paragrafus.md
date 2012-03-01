@@ -1,6 +1,6 @@
 18. § (1) A Felügyelet elnökét – a miniszterelnök előterjesztésére – a köztársasági elnök, a Felügyelet alelnökét a Felügyelet elnöke, a Pénzügyi Békéltető Testület elnökét a Felügyelet elnöke
 
-a) felmenti, ha a közszolgálati jogviszony létesítéséhez szükséges, a köztisztviselők jogállásáról szóló törvényben meghatározott feltételeknek nem felel meg, vagy vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl, illetve
+a) felmenti, ha a közszolgálati jogviszony létesítéséhez szükséges, a közszolgálati tisztviselőkről szóló törvényben meghatározott feltételeknek nem felel meg, vagy vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl, illetve
 
 b) felmentheti, ha
 
@@ -8,7 +8,7 @@ ba) olyan magatartást tanúsított, amely a Felügyelet rendeltetésszerű műk
 
 bb) száznyolcvan napon túl nem képes eleget tenni a megbízatásából eredő feladatainak.
 
-(2) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésre vonatkozó előterjesztést a köztársasági elnöknek való továbbítást megelőzően meg kell küldeni a Felügyelet elnöke részére, aki a köztisztviselők jogállásáról szóló törvénynek a közszolgálati jogvitára vonatkozó rendelkezései szerint öt munkanapon belül munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet a Felügyelet elnöke a miniszterelnöknek haladéktalanul megküldi.
+(2) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésre vonatkozó előterjesztést a köztársasági elnöknek való továbbítást megelőzően meg kell küldeni a Felügyelet elnöke részére, aki a közszolgálati tisztviselőkről szóló törvénynek a közszolgálati jogviszonyból származó igényének érvényesítésére vonatkozó rendelkezései szerint öt munkanapon belül munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet a Felügyelet elnöke a miniszterelnöknek haladéktalanul megküldi.
 
 (3) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésére vonatkozó kezdeményezés a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően küldhető meg a köztársasági elnöknek. A köztársasági elnök határozatával szemben jogorvoslatnak vagy közszolgálati jogvita kezdeményezésének nincs helye.
 

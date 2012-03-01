@@ -12,7 +12,7 @@ e) félévente meghatározza a Felügyelet ellenőrzési tevékenységének kiem
 
 f) képviseli a Felügyeletet,
 
-g) gyakorolja a köztisztviselők jogállásáról szóló törvényben a hivatali szervezet vezetője számára meghatározott hatásköröket,
+g) gyakorolja a közszolgálati tisztviselőkről szóló törvényben a hivatali szervezet vezetője számára meghatározott hatásköröket,
 
 h) gyakorolja a Felügyelettel munkaviszonyban álló alkalmazottak feletti munkáltatói jogkört,
 
