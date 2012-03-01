@@ -1,1 +1,0 @@
-A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszerető, Magyarország érdekeit és a közjót a legmegfelelőbben szolgáló központi közigazgatás kialakítása érdekében az Országgyűlés a következő törvényt alkotja:
