@@ -1,4 +1,4 @@
-2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^2]
+2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^3]
 
 Az aktív fekvőbeteg-ellátás diagnózisainak és beavatkozásainak besorolási táblázatai
 
@@ -7504,4 +7504,10 @@ C3003 Orrüreg rosszindulatú daganata III. stádium
 
 C3004 Orrüreg rosszindulatú daganata IV. stádium
 
-[^2]: A 2. melléklet a 24. § (2) bekezdésével megállapított szöveg.
+C3013 Középfül rosszindulatú daganata III. stádium
+
+C3014 Középfül rosszindulatú daganata IV. stádium
+
+C3103 Arcüreg rosszindulatú daganata III. stádium
+
+[^3]: A 2. melléklet a 24. § (2) bekezdésével megállapított szöveg.
