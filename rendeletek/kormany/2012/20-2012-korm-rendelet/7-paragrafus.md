@@ -1,1 +1,0 @@
-## 6. § Az R. 2. § (4) és (5) bekezdésében a „továbbá házas-, vagy élettársa nem e rendelet hatálya alá tartozó munkáltatóval áll jogviszonyban” szövegrész helyébe a „továbbá nincs házas-, vagy élettársa, vagy házas-, vagy élettársa nem e rendelet hatálya alá tartozó munkáltatóval áll jogviszonyban”szöveg lép.
