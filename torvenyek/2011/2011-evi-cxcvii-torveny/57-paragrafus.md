@@ -1,3 +1,0 @@
-57. § A Cstv. 62. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az adós vagyonából ki nem elégített hitelezői követelések teljesítéséért az állam nem felel; felelősséggel tartozik azonban – esedékességükkor – az 57. § (1) bekezdésének c) pontjában foglalt járadékjellegű követelésekért, továbbá minden követelés tekintetében a gazdálkodó szervezet olyan vagyontárgyai értékének erejéig, amelyek a 4. § (3) bekezdése szerint nem képezik a gazdálkodó szervezet felszámolásba bevonható vagyonát vagy jogszabály rendelkezése folytán forgalomképtelenek, és állami tulajdonban vannak, valamint a Ptk. 120. §-a szerinti esetekben.”

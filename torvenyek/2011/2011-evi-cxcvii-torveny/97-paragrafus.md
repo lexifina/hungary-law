@@ -1,1 +1,0 @@
-97. § Hatályát veszti a Gt. 75. § (3) bekezdés d) pontjában az „így különösen a saját tőke, illetve a jegyzett tőke összegét, valamint a mérlegfőösszeget” szövegrész, a 202. § (4) bekezdés utolsó mondata, (6) bekezdés a) pontja és (8) bekezdése.”

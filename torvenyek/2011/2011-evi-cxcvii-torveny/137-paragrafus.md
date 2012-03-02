@@ -1,3 +1,1 @@
-137. § A Ctv. 122. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az igények bejelentését követően a vagyonrendező a vagyontárgyat nyilvánosan meghirdetett pályázat vagy árverés útján – a felszámolási eljárás során alkalmazott nyilvános értékesítésre vonatkozó szabályok megfelelő alkalmazásával – értékesíti, és az értékesítésből befolyt összeget az erre a célra nyitott elkülönített számláján helyezi el. Ingatlan vagy más nyilvántartásba bejegyzett vagyontárgy értékesítése esetében – annak ellenére, hogy a cég jogalanyisága már a törléssel megszűnt – az új tulajdonos tulajdonjogát kérelmére, a vagyonrendezési eljárás befejezését követően a bíróság határozata alapján a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásba be kell jegyezni.”
+137. §

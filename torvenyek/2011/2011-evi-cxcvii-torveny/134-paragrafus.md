@@ -1,3 +1,0 @@
-134. § A Ctv.109. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Ha a végelszámoló a végelszámolási kifogásnak helyt adó jogerős bírósági végzésnek nem tesz eleget, a cégbíróság törvényességi felügyeleti eljárás keretében összehívja a cég legfőbb szervét új végelszámoló megválasztása céljából. Ha a cég a cégbíróság határozatában foglaltakat nem teljesíti, a cégbíróság a felszámolók névjegyzékéből másik végelszámolót rendel ki. Amennyiben a korábbi végelszámoló a felszámolók névjegyzékéből került kirendelésre, az e bekezdés szerinti jogszabálysértésről a cégbíróság értesíti a felszámolók névjegyzékét vezető szervet is.”
