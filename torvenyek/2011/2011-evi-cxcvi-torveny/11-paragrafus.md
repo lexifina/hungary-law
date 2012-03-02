@@ -36,4 +36,4 @@ c) a hasznosításban – a hasznosítóval közvetlen vagy közvetett módon jo
 
 (15)
 
-(16)
+(16) Törvényben, valamint a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében törvényben vagy a helyi önkormányzat rendeletében meghatározott értékhatár feletti nemzeti vagyont hasznosítani – ha törvény kivételt nem tesz – csak versenyeztetés útján, az összességében legelőnyösebb ajánlatot tevő részére, a szolgáltatás és ellenszolgáltatás értékarányosságával lehet. Nem vonatkozik ez a rendelkezés arra az esetre, ha a hasznosítás államháztartási körbe tartozó szervezet, illetve jogszabályban előírt állami, önkormányzati feladatot ellátó gazdálkodó szervezet javára, továbbá az államháztartási körbe tartozó szervezet vagyonkezelésében lévő, állami tulajdonban álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek javára történik.
