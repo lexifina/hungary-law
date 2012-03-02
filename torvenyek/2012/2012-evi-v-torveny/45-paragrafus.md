@@ -1,3 +1,0 @@
-45. § Az adózás rendjéről szóló 2003. évi XCII. törvény 119. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az állami adóhatóság általános megbízólevéllel rendelkező adóellenőre adatgyűjtésre irányuló helyszíni ellenőrzést olyan legalább középiskolai végzettséggel rendelkező személlyel együtt is lefolytathat (a továbbiakban: kisegítő adóellenőr), aki megfelel a közszolgálati tisztviselőkről szóló törvény kormánytisztviselőkre vonatkozó alkalmazási feltételeinek, és akivel az adóhatóság ilyen feladatok ellátására határozott idejű munkaszerződést kötött. A kisegítő adóellenőrre az adóellenőrre vonatkozó összeférhetetlenségi és kizárási szabályok az irányadók.”

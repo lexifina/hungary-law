@@ -1,3 +1,0 @@
-29. § A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény 13. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az elnök, a főtitkár és a főtitkárhelyettes jogállására az e törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell – az 1–4. §; a 6. § 5., 7., 12–15., 17., 19–20., 29–30., 32., 34. és 36. pontja; 8. § (1)–(4) bekezdése; 60. § (1) bekezdés e) pontja; 155–159. §-a; 195–202. §-a; 206–211. §-a; a IX. és X. fejezetben foglaltak; valamint a besorolásra, a közigazgatási alap- és szakvizsgára, a címadományozásra, a vezetőkre, a képzésre, továbbképzésre, a teljesítményértékelésre, és a minősítésre vonatkozó rendelkezések kivételével – megfelelően alkalmazni.”
