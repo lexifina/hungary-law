@@ -1,4 +1,4 @@
-## Felhívás követelés bejelentésére a csődeljárásban
+## A. Felhívás követelés bejelentésére a csődeljárásban
 
 ## Felhívás követelés bejelentésére. Határidők betartandók!
 
@@ -6,9 +6,9 @@
 
 ## Opfordring til anmeldelse af fordringer. Vær opmærksom på fristerne.
 
-## Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen beachten!
+## Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen sind zu beachten!
 
-## Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσµι΄ες.
+## Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσμι΄ες.
 
 ## Invitation to lodge a claim. Time limits to be observed.
 
@@ -34,9 +34,7 @@
 
 ## Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny.
 
-## Stedina għal pre entazzjoni ta’ talba’. Limiti taż-żmien li għandhom jiġu
-
-## osservati.
+## Stedina ghal pre entazzjoni ta’ talba’. Limiti taż-żmien li ghandhom jigu osservati.
 
 ## Uzaicinājums iesniegt prasījumu. Termiņi, kas jāievēro.
 
@@ -62,33 +60,33 @@
 
 | 7. A vagyonfelügyelő pénzügyi intézménynél vezetett díjelszámolási számlájának száma: |
 
-| 8. Az ideiglenes fizetési haladék [Cstv. 9. § (1) bekezdés] kezdete: |
+| 8. Az ideiglenes fizetési haladék (Cstv. 9. § (1) bekezdés) kezdete: |
 
-## I. Az 1. pont szerinti bíróság a 2. pont szerinti ügyszám alatt, az adós vagy a hitelező kérelmére a 3. pont szerinti időpontban hozott határozatában a 4. pont szerinti adós ellen csődeljárást indított. Ez az eljárás a 1346/2000/EK tanácsi rendelet 2. cikk a) pontja szerinti fizetésképtelenségi eljárás. A 3. pont szerinti időpont a fizetésképtelenségi eljárás megindításának időpontja [1346/2000/EK tanácsi rendelet, 2. cikk f) pont]. A bíróság határozatában kijelölte az 5. pont szerinti vagyonfelügyelőt a csődeljárásról és felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) II. fejezete szerint lefolytatandó eljárásban a törvényben meghatározott feladatok ellátására.
+## I. Az 1. pont szerinti bíróság a 2. pont szerinti ügyszám alatt, az adós kérelmére a 3. pont szerinti időpontban hozott határozatában a 4. pont szerinti adós ellen csődeljárást indított. Ez az eljárás az 1346/2000/EK tanácsi rendelet 2. cikk a) pontja szerinti fizetésképtelenségi eljárás. A 3. pont szerinti időpont a fizetésképtelenségi eljárás megindításának időpontja (1346/2000/EK tanácsi rendelet, 2. cikk f) pont). A bíróság határozatában kijelölte az 5. pont szerinti vagyonfelügyelőt a csődeljárásról és felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) II. fejezete szerint lefolytatandó eljárásban a törvényben meghatározott feladatok ellátására.
 
-## A fizetési haladék jogkövetkezményeit a Cstv. 11. §-a tartalmazza.
+## A fizetési haladék jogkövetkezményeit a Cstv. 10. § és 11. §-a tartalmazza.
 
-## Ezen értesítési kötelezettség alapja a 1346/2000/EK tanácsi rendelet 40. cikke, amely szerint a fizetésképtelenségi eljárás megindításának helyétől eltérő tagállamban szokásos tartózkodási hellyel, állandó lakóhellyel, székhellyel rendelkező, ismert hitelezőket tájékoztatni kell a fizetésképtelenségi eljárás megindulásáról.
+## Ezen értesítési kötelezettség alapja az 1346/2000/EK tanácsi rendelet 40. cikke, amely szerint a fizetésképtelenségi eljárás megindításának helyétől eltérő tagállamban szokásos tartózkodási hellyel, állandó lakóhellyel, székhellyel rendelkező, ismert hitelezőket tájékoztatni kell a fizetésképtelenségi eljárás megindulásáról.
 
-## A 1346/2000/EK tanácsi rendelet 39. cikke szerint bármely hitelezőnek – ideértve a tagállamok adóhatóságait és társadalombiztosítási hatóságait (intézményeit) –, akinek szokásos tartózkodási helye, lakóhelye vagy székhelye más tagállamban van, mint az eljárás megindításának helye szerinti állam, jogában áll írásban bejelenteni követeléseit a fizetésképtelenségi eljárásban.
+## Az 1346/2000/EK tanácsi rendelet 39. cikke szerint bármely hitelezőnek - ideértve a tagállamok adóhatóságait és társadalombiztosítási hatóságait (intézményeit) -, akinek szokásos tartózkodási helye, lakóhelye vagy székhelye más tagállamban van, mint az eljárás megindításának helye szerinti állam, jogában áll írásban bejelenteni követeléseit a fizetésképtelenségi eljárásban.
 
 ## II. A hitelezői követelések bejelentésére előírt határidő, a hitelezői követelések bejelentésével szembeni formai és tartalmi követelmények
 
 ## A hitelezőknek be kell jelenteniük a követeléseikre vonatkozó adatokat, és csatolniuk kell az azokat megalapozó okiratokat is (Cstv. 12. §).
 
-## A csődeljárásban a hitelezői követeléseket a csődeljárás elrendeléséről szóló végzés közzétételétől számított 30 napon belül – a közzétételt követően keletkező követeléseiket pedig 3 munkanapon belül – be kell jelenteniük az adósnak és az 5. pontban megjelölt vagyonfelügyelőnek (Cstv. 12. §).
+## A csődeljárásban a hitelezői követeléseket a csődeljárás elrendeléséről szóló végzés közzétételétől számított 30 napon belül - a közzétételt követően keletkező követeléseiket pedig 8 munkanapon belül - be kell jelenteniük az adósnak és az 5. pontban megjelölt vagyonfelügyelőnek (Cstv. 12. §).
 
-## A követelést bejelentő iratot a hitelezőnek „KÖVETELÉSBEJELENTÉS” felirattal ellátva 2 példányban magyar nyelven, vagy a saját szokásos tartózkodási helye, lakóhelye, székhelye szerinti tagállam hivatalos nyelvén, vagy hivatalos nyelvei valamelyikén, de magyar nyelvű hivatalos fordítást is csatolva kell benyújtania. A magyar nyelvű „KÖVETELÉSBEJELENTÉS” feliratot az iratnak minden esetben tartalmaznia kell [1346/2000/EK tanácsi rendelet, 42. cikk (2) bekezdés].
+## A követelést bejelentő iratot a hitelezőnek „KÖVETELÉSBEJELENTÉS” felirattal ellátva 2 példányban magyar nyelven, vagy a saját szokásos tartózkodási helye, lakóhelye, székhelye szerinti tagállam hivatalos nyelvén, vagy hivatalos nyelvei valamelyikén, de magyar nyelvű hivatalos fordítást is csatolva kell benyújtania. A magyar nyelvű „KÖVETELÉSBEJELENTÉS” feliratot az iratnak minden esetben tartalmaznia kell (1346/2000/EK tanácsi rendelet, 42. cikk (2) bekezdés).
 
 ## A követelést bejelentő iratban a hitelezőnek meg kell jelölnie követelése jellegét, keletkezésének időpontját, összegét, továbbá azt, hogy követelése tekintetében elsőbbségre tart-e igényt, követelését zálogjog, más dologi biztosíték vagy tulajdonjog-fenntartás biztosítja-e és zálogjoga, más dologi biztosítéka vagy fenntartott tulajdonjoga milyen vagyontárgyakra terjed ki. A követelést bejelentő irathoz a hitelezőnek csatolnia kell a követelést megalapozó iratok másolatát (1346/2000/EK tanácsi rendelet 41. cikk).
 
-## A hitelezőnek a Magyar Nemzeti Banknak a Cégközlönyben való közzététel időpontja szerinti árfolyama alapján forintban kell meghatároznia követelése összegét.
+## A hitelezőnek a Magyar Nemzeti Banknak a Cégközlönyben való közzététel időpontja szerinti árfolyama alapján forintban is meg kell határoznia követelése összegét.
 
-## A követelés nyilvántartásba vételéért díjat kell fizetni a 7. pontban megjelölt számlaszámra – a követelés forintban átszámított összegének 1%-át, de legalább 5000 forintot és legfeljebb 100 000 forintot – amely a vagyonfelügyelő igazolt költségeinek és díjának lesz a fedezete. (Cstv. 10. § és 12. §). Nem kell bejelenteni a Cstv. 11. § (1) bekezdése szerinti követeléseket, azaz azokat, amelyekre nem terjed ki a csődeljárás alatti fizetési haladék (moratórium).
+## A követelés nyilvántartásba vételéért díjat kell fizetni a 7. pontban megjelölt számlaszámra - a követelés forintban átszámított összegének 1%-át, de legalább 5000 forintot és legfeljebb 100 000 forintot - amely a vagyonfelügyelő igazolt költségeinek és díjának lesz a fedezete. (Cstv. 10. § és 12. §). Nem kell bejelenteni a Cstv. 11. § (1) bekezdése szerinti követeléseket, azaz azokat, amelyekre nem terjed ki a csődeljárás alatti fizetési haladék (moratórium).
 
 ## III. A hitelezői követelések bejelentésére előírt határidő elmulasztásának jogkövetkezménye
 
-## A bejelentési határidő elmulasztása esetén a hitelező követelését a vagyonfelügyelő nem veszi nyilvántartásba, így nem tud szavazati joggal élni sem a hitelezői választmányban, sem pedig a csődeljárás során, így nem tud részt venni az adósságrendezési célú csődegyezség megkötésében sem (Cstv. 5/A. §, 12. §, 14. §, 18. §, 20. §), annak hatálya nem terjed ki rá.
+## A bejelentési határidő elmulasztása esetén a hitelező követelését a vagyonfelügyelő nem veszi nyilvántartásba, így nem tud szavazati joggal élni sem a hitelezői választmányban, sem pedig a csődeljárás során, így nem tud részt venni az adósságrendezési célú csődegyezség megkötésében sem (Cstv. 5/A. §, 12. §, 14. §, 18. §, 20. §), annak hatálya nem terjed ki rá. Az elmulasztott határidő miatt ez a hitelező a csődeljárásban és a csődegyezség alatt az adós ellen nem érvényesítheti követelését, továbbá csak a más által indított felszámolási eljárásban jelentheti be a még el nem évült követelését. Ez utóbbi esetben azonban nem érvényesítheti a késedelmi kamatra, késedelmi pótlékra, pótlék és bírság jellegű követelését a felszámolási eljárásban.
 
 ## IV. A hitelezői követelések bejelentésével szembeni formai és tartalmi követelmények
 
@@ -98,9 +96,11 @@
 
 ## A követeléseket a vagyonfelügyelő az adós bevonásával veszi nyilvántartásba és sorolja be, melynek eredményéről a hitelezőket értesíti. Erre az eljárásra a Cstv. 12. és 14. §-a irányadó.
 
+## A külföldi székhelyű, illetőleg külföldi lakóhellyel rendelkező hitelezőknek kézbesítési megbízottat kell igénybe venniük
+
 ## VI. Kormányrendeletben stratégiailag kiemeltként minősített vállalkozásokra a Cstv. IV. fejezete sajátos szabályokat tartalmaz.
 
-## Invitation to Lodge a Claim in Bankruptcy Proceedings
+## B. Invitation to Lodge a Claim in Bankruptcy Proceedings
 
 ## Felhívás követelés bejelentésére. Határidők betartandók!
 
@@ -108,9 +108,9 @@
 
 ## Opfordring til anmeldelse af fordringer. Vær opmærksom på fristerne.
 
-## Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen beachten!
+## Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen sind zu beachten!
 
-## Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσµι΄ες.
+## Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσμι΄ες.
 
 ## Invitation to lodge a claim. Time limits to be observed.
 
@@ -136,9 +136,7 @@
 
 ## Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny.
 
-## Stedina għal pre entazzjoni ta’ talba’. Limiti taż-żmien li għandhom jiġu
-
-## osservati.
+## Stedina ghal pre entazzjoni ta’ talba’. Limiti taż-żmien li ghandhom jigu osservati.
 
 ## Uzaicinājums iesniegt prasījumu. Termiņi, kas jāievēro.
 
@@ -152,57 +150,59 @@
 
 | 1. Court ordering the bankruptcy proceedings: |
 
-| 2. Case number of Court Decision ordering the bankruptcy proceedings: |
+| 2. Case number of Court Decision opening the bankruptcy proceedings: |
 
-| 3. Date of passing the Court Decision ordering the bankruptcy proceedings: |
+| 3. Date of the Court Decision opening the bankruptcy proceedings: |
 
 | 4. Debtor’s name, registered office and address: |
 
 | 5. Bankruptcy Trustee’s name, registered office and address: |
 
-| 6. Date of publishing the Court Decision that ordered the proceedings in „Cégközlöny”, as the beginning of the moratorium: |
+| 6. Date of the publication of the Court Decision opening the proceedings in the official journal „Cégközlöny”, as the beginning of the stay of payment: |
 
 | 7. Number of Bankruptcy Trustee’s fee settlement account at a financial institution: |
 
-| 8. Beginning of temporary moratorium [Section (1) of Art. 9 of the Act on Bankruptcy Proceedings]: |
+| 8. Beginning of temporary stay of payment (Section 9 (1) of the Act on Bankruptcy Proceedings): |
 
-## I. The Court under point 1 instituted bankruptcy proceedings against the Debtor under point 4 in its Decision passed on the date set out in point 3 under case number as in point 2, at the Debtor’s or the Creditor’s request. These proceedings are insolvency proceedings in pursuance of Paragraph a) of Art. 2 of Council Regulation 1346/2000/EC. The date in point 3 is the date of instituting the insolvency proceedings [Paragraph f) of Art. 2 of Council Regulation 1346/2000/EC]. In the proceedings conducted in pursuance of Chapter II of Act XLIX of 1991 on Bankruptcy Proceedings and Liquidation Proceedings (hereinafter the Bankruptcy Act) the Court appointed the Bankruptcy Trustee as per point 5 in its Decision to perform the statutory duties.
+## I. The Court under point 1 opened bankruptcy proceedings against the Debtor under point 4 in its Decision taken on the date set out in point 3 under case number referred to in point 2, at the Debtor’s request. These proceedings are insolvency proceedings within the meaning of Article 2 a) of Council Regulation (EC) 1346/2000. The date under point 3 is the date of the opening of the insolvency proceedings (Article 2 f) of Council Regulation (EC) 1346/2000). In its Decision the Court appointed the Bankruptcy Trustee under point 5 to carry out the duties provided for by law in the proceedings to be conducted in accordance with Chapter II of Act XLIX of 1991 on Bankruptcy Proceedings and Liquidation Proceedings (hereinafter the Bankruptcy Act).
 
-## The legal consequences of moratorium are provided in Art. 11 of the Bankruptcy Act.
+## The legal consequences of the stay of payment are provided in Sections 10 and 11 of the Bankruptcy Act.
 
-## This information obligation rests on Art. 40 of Council Regulation 1346/2000/EC according to which the known Creditors who have their habitual residences, domiciles or registered offices in another Member State than where the insolvency proceedings are instituted shall be informed about the institution of the insolvency proceedings.
+## The duty to provide information is provided for in Article 40 of Council Regulation (EC) 1346/2000 according to which the known Creditors who have their habitual residences, domiciles or registered offices in another Member State than where the insolvency proceedings are opened shall be informed about the openingof the insolvency proceedings.
 
-## In purview of Art. 39 of Council Regulation 1346/2000/EC any Creditor who has his habitual residence, domicile or registered office in a Member State other than the State of the opening of proceedings, including the tax authorities and social security authorities of Member States, shall have the right to lodge claims in the insolvency proceedings in writing.
+## Article 39 of Council Regulation (EC) 1346/2000 prescribes that any Creditor who has his habitual residence, domicile or registered office in a Member State other than the State of the opening of proceedings, including the tax authorities and social security authorities of Member States, shall have the right to lodge claims in the insolvency proceedings in writing.
 
-## II. Term of lodging Creditor’s claims, requirements as to form and content of lodging Creditor’s claims
+## II. Time limit, form and content of lodging Creditor’s claims
 
-## Creditors shall report the data relevant to their claims and attach the underlying documents (Art. 12 of Bankruptcy Act).
+## Creditors shall report the data relevant to their claims and attach the supporting documents (Section 12 of Bankruptcy Act).
 
-## In bankruptcy proceedings the Creditor’s claims and the claims arising after promulgation shall be reported to the Debtor and to the Bankruptcy Trustee under point 5 within 30 days of promulgation of the Decree that ordered the bankruptcy proceedings and within 3 business days, respectively (Art. 12 of Bankruptcy Act).
+## In the bankruptcy proceedings, the Creditor shall report his claims to the Debtor and to the Bankruptcy Trustee under point 5 within 30 days following the publication of the Decision opening the bankruptcy proceedings; in the case of claims arising after the publication of the said Decision, the time limit for reporting these claims shall be limited to 8 working days (Section 12 of Bankruptcy Act).
 
-## The Creditor shall submit the document on lodging his claim with the heading „LODGEMENT OF CLAIM” in 2 copies in the Hungarian language or in the official language or one of the official languages of the State of his own habitual residence, domicile or registered office and shall also attach an official translation in Hungarian. The document shall in every case include the Hungarian heading „KÖVETELÉSBEJELENTÉS” (i.e. „LODGEMENT OF CLAIM”) [Section (2) of Art. 42 of Council Regulation 1346/2000/EC].
+## The Creditor shall submit the document on lodging his claim with the heading „LODGEMENT OF CLAIM” in 2 copies in Hungarian language or in the official language or one of the official languages of the State of his habitual residence, domicile or registered office; in the latter case he will be required to provide an official translation in Hungarian language. The document shall in every case bear the Hungarian language heading „KÖVETELÉSBEJELENTÉS” (i.e. „LODGEMENT OF CLAIM”) (Article 42 (2) of Council Regulation (EC) 1346/2000).
 
-## In the document on lodging the claim the Creditor shall indicate the nature of the claim, the date on which it arose and its amount, as well as whether he alleges preference in respect of his claim, if his claim is supported by any lien, other security in rem or a reservation of title, and what assets are covered by his lien, other security in rem or the title reserved. The Creditor shall attach the copy of the documents that underlie the claim to the document on lodging his claim (Art. 41 of Council Regulation 1346/2000/EC).
+## In the document on lodging the claim the Creditor shall indicate the nature of the claim, the date on which it arose and its amount, as well as whether he alleges preference in respect of his claim and whether his claim is secured by a lien, another security in rem or a reservation of title, and what assets are covered by the lien, the other security in rem or the title reserved. The Creditor shall attach the copy of the documents that underlie the claim to the document on lodging his claim (Article 41 of Council Regulation (EC) 1346/2000).
 
-## The Creditor shall specify the amount of his claim in Hungarian forints, using the exchange rate quoted by the National Bank of Hungary as of the date of publication in Cégközlöny.
+## The Creditor shall specify the amount of his claim in Hungarian Forint (HUF) as well, at the exchange rate quoted by the National Bank of Hungary applicable at the time of publication in the official journal Cégközlöny.
 
-## A fee – amounting to 1% of the claim amount converted to HUF but HUF 5,000 at least and HUF 100,000 at most – shall be payable to the account number in point 7 for the registration of the claim, to cover the Bankruptcy Trustee’s substantiated costs and fees (Art’s 10 and 12 of Bankruptcy Act). The claims identified in Section (1) of Art. 11 of the Bankruptcy Act – i.e. the ones not covered by moratorium during bankruptcy proceedings – shall not be lodged.
+## A fee – amounting to 1% of the value of the claim determined in HUF but HUF 5 000 at least and HUF 100 000 at most – shall be payable to the account number under point 7 for the registration of the claim, to cover the Bankruptcy Trustee’s substantiated costs and fees (Sections 10 and 12 of Bankruptcy Act). Claims under Section 11 (1) of the Bankruptcy Act – i.e. the ones not covered by the stay of payment during bankruptcy proceedings - have not to be lodged.
 
-## III. Legal consequences of missing the term for lodging Creditor’s claims
+## III. Legal consequences of missing the time limit for lodging Creditor’s claims
 
-## For failing to meet the lodging term the Bankruptcy Trustee shall not register the Creditor’s claim, so he shall not have the voting power in the Creditors’ select committee nor during the bankruptcy proceedings and shall therefore not be involved in reaching a composition agreement to settle the debt (Art’s 5/A., 12, 14, 18 and 20 of Bankruptcy Act) and shall neither be under the scope thereof.
+## If the time limit for lodging the claim is not observed, the Bankruptcy Trustee shall not register the Creditor’s claim, which means that he shall not exercise his right to vote in the creditors’ committee nor during the bankruptcy proceedings and shall therefore not take part in the conclusion of an arrengement with creditors to settle the debt (Sections 5/A., 12, 14, 18 and 20 of Bankruptcy Act) and shall not be covered by that arrangement. Because of failing to meet the time limit, the Creditor may not enforce his claim during the bankruptcy proceedings and under the arrengement with creditors, and the Creditor may only logde his claims during a liquidation proceeding launched by another creditor. In this latter case, during the liquidation proceeding, the Creditor may not enforce his claim of default interest, default penalty and other penalty claims.
 
-## IV. Requirements as to form and content of lodging Creditor’s claims
+## IV. Form and content of lodging Creditor’s claims
 
-## Creditors shall report the data relevant to their claims and attach the underlying documents (Art. 12 of Bankruptcy Act).
+## Creditors shall report the data relevant to their claims and attach the supporting documents (Section 12 of Bankruptcy Act).
 
 ## V. Registration of the Creditor’s lodged claim
 
-## The Bankruptcy Trustee shall register and classify the claims with the Debtor’s involvement and shall notify the Creditors about the outcome thereof. Art’s 12 and 14 of the Bankruptcy Act apply to these proceedings.
+## The Bankruptcy Trustee shall register and classify the claims with the Debtor’s involvement and shall notify the Creditors about the outcome thereof. Sections 12 and 14 of the Bankruptcy Act apply to these proceedings.
 
-## VI. The Chapter IV of the of the Bankruptcy Act foresees specific rules regarding «enterprises qualified as having strategic priority» under the terms of a Government Decree.
+## Creditors having their domicile or registered office outside of Hungary shall appoint a representative ad litem.
 
-## Invitation à produire des créances dans le cadre de la procédure de faillite
+## VI. Chapter IV of the of the Bankruptcy Act provides for specific rules applicable to undertakings declared by a Government Decree to have high strategic priority.
+
+## C. Invitation à produire des créances dans le cadre de la procédure de faillite
 
 ## Felhívás követelés bejelentésére. Határidők betartandók!
 
@@ -210,9 +210,9 @@
 
 ## Opfordring til anmeldelse af fordringer. Vær opmærksom på fristerne.
 
-## Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen beachten!
+## Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen sind zu beachten!
 
-## Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσµι΄ες.
+## Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσμι΄ες.
 
 ## Invitation to lodge a claim. Time limits to be observed.
 
@@ -238,9 +238,7 @@
 
 ## Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny.
 
-## Stedina għal pre entazzjoni ta’ talba’. Limiti taż-żmien li għandhom jiġu
-
-## osservati.
+## Stedina ghal pre entazzjoni ta’ talba’. Limiti taż-żmien li ghandhom jigu osservati.
 
 ## Uzaicinājums iesniegt prasījumu. Termiņi, kas jāievēro.
 
@@ -268,31 +266,31 @@
 
 | 8. Le point de départ du délai de paiement provisoire (article 9 paragraphe 1 de la loi relative aux faillites): |
 
-## I. La cour visée au point 1 avec sa décision prise à la date visée au point 3 a lancé une procédure de faillite contre le débiteur visé au point 4 à la demande du débiteur ou du créancier, sous le numéro du dossier visé au point 2. La présente procédure est une procédure d’insolvabilité au sens de l’article 2 point a) du Règlement (CE) n° 1346/2000 du Conseil. La date visée au point 3 est la date de départ de la procédure d’insolvabilité [article 2 point f) du Règlement (CE) n° 1346/2000 du Conseil]. Dans sa décision la cour a assigné l’administrateur judiciaire visé au point 5 pour exécuter les tâches prévues par la loi dans la procédure à effectuer au sens du chapitre II de la loi n° XLIX de 1991 relative aux procédures de faillite et procédures de liquidation (ci-après dénommé Cstv.).
+## I. La cour indiquée dans le point 1, dans sa décision prise à la date indiquée dans le point 3 a ouvert une procédure de faillite contre le débiteur indiqué dans le point 4, à la demande du débiteur, sous le numéro du dossier indiqué dans le point 2. La présente procédure est une procédure d’insolvabilité au sens de l’article 2 point a) du Règlement (CE) n° 1346/2000 du Conseil. La date indiquée dans le point 3 est la date d’ouverture de la procédure d’insolvabilité (article 2 point f) du Règlement (CE) n° 1346/2000 du Conseil). Dans sa décision, la cour a désignée l’administrateur judiciaire indiqué dans le point 5 pour effectuer les tâches prévues par la loi au cours de la procédure prévue par le chapitre II de la loi n° XLIX de 1991 relative aux procédures de faillite et procédures de liquidation (ci-après dénommé Cstv.).
 
-## Les conséquences juridiques du délai de paiement sont incluses à l’article 11 du Cstv.
+## Les conséquences juridiques du délai de paiement sont prévues par les articles 10 et 11 du Cstv.
 
-## La présente obligation de notification est basée sur l’article 40 du Règlement (CE) n° 1346/2000 du Conseil, décrétant que dès qu’une procédure d’insolvabilité est ouverte dans un État membre, les créanciers connus qui ont leur résidence habituelle, leur domicile ou leur siège dans les autres États membres doivent être informés sans délai.
+## La présente obligation de notification est basée sur l’article 40 du Règlement (CE) n° 1346/2000 du Conseil, prévoyant que dès l’ouverture d’une procédure d’insolvabilité dans un État membre, les créanciers connus ayant leur résidence habituelle, leur domicile ou leur siège dans les autres États membres doivent être informés sans délai.
 
-## Au sens de l’article 39 du Règlement (CE) n° 1346/2000 du Conseil tout créancier qui a sa résidence habituelle, son domicile ou son siège dans un État membre autre que l’État d’ouverture, y compris les autorités fiscales et les organismes (autorités) de sécurité sociale des États membres, a le droit de produire ses créances par écrit dans la procédure d’insolvabilité.
+## Au sens de l’article 39 du Règlement (CE) n° 1346/2000 du Conseil tout créancier ayant sa résidence habituelle, son domicile ou son siège dans un État membre autre que l’État d’ouverture, y compris les autorités fiscales et les organismes (autorités) de sécurité sociale des États membres, a le droit de produire ses créances par écrit au cours de la procédure d’insolvabilité.
 
-## II. Délai imparti pour produire des créances de créanciers, formalités et exigences relatives au contenu des créances
+## II. Délais et formalités de la production des créances
 
-## Les débiteurs doivent présenter les données relatives à leurs créances, et ils doivent joindre les pièces justificatives (article 12 du Cstv.)
+## Les créditeurs doivent présenter les données relatives à leurs créances, et ils doivent joindre les pièces justificatives (article 12 du Cstv.)
 
-## Dans le cadre de la procédure de faillite les créances doivent être produites dans les 30 jours à compter de la publication de la décision décrétant la procédure de faillite – dans les 3 jours ouvrables en cas de créances postérieures à la publication – au débiteur et à l’administrateur judiciaire (article 12 de Cstv.).
+## Dans le cadre de la procédure de faillite les créances doivent être produites dans les 30 jours à compter de la publication de la décision décrétant la procédure de faillite - dans les 8 jours ouvrables en cas de créances postérieures à la publication - au débiteur et à l’administrateur judiciaire (article 12 de Cstv.).
 
-## Le créancier doit présenter le document de la créance portant le titre „PRODUCTION DE CRÉANCE” en 2 exemplaires en langue hongroise ou dans une des langue(s) officielle(s) de l’État de sa résidence habituelle, son domicile ou son siège, accompagné de la traduction officielle en hongrois. Le titre « PRODUCTION DE CRÉANCE » (KÖVETELÉSBEJENTÉS) en hongrois doit apparaître dans tous les cas [article 42 paragraphe 2 du Règlement (CE) n° 1346/2000].
+## Le créancier doit présenter le document de la créance portant le titre „PRODUCTION DE CRÉANCE” en 2 exemplaires en langue hongroise ou dans une des langue(s) officielle(s) de l’État de sa résidence habituelle, son domicile ou son siège, accompagné de la traduction officielle en hongrois. Le titre « PRODUCTION DE CRÉANCE » (KÖVETELÉSBEJENTÉS) en hongrois doit apparaître dans tous les cas (article 42 paragraphe 2 du Règlement (CE) n° 1346/2000).
 
-## Dans le document produisant la créance, le créancier doit indiquer la nature de sa créance, la date de la formation et le montant de celle-ci, et –dans la mesure où il revendique un privilège – si sa créance est garantie par un gage, une autre sûreté réelle ou une réserve de propriété, et des informations mentionnant pour quels actifs son gage, autre sûreté réelle ou sa réserve de propriété est valable. Le créancier doit joindre les copies des pièces justificatives de la créance (Article 41 du Règlement (CE) n° 1346/2000).
+## Dans le document produisant la créance, le créancier doit indiquer la nature de sa créance, la date de la formation et le montant de celle-ci, et - dans la mesure où il revendique un privilège - si sa créance est garantie par un gage, une autre sûreté réelle ou une réserve de propriété, et des informations mentionnant pour quels actifs son gage, autre sûreté réelle ou sa réserve de propriété s’applique. Le créancier doit joindre les copies des pièces justificatives de la créance (Article 41 du Règlement (CE) n° 1346/2000).
 
-## Le créancier doit indiquer le montant de sa créance en HUF, conformément au taux de change de la Banque centrale de Hongrie applicable le jour de la publication dans le journal officiel du commerce.
+## Le créancier doit indiquer le montant de sa créance en forint hongrois (HUF) aussi, conformément au taux de change de la Banque centrale de Hongrie applicable le jour de la publication dans le journal officiel du commerce Cégközlöny.
 
-## Une taxe doit être payée pour l’enregistrement de la créance au compte indiqué au point 7 – 1% de la créance calculée en HUF, mais au moins HUF 5.000 et maximum HUF 100.000, ce qui servira à couvrir les coûts admissibles et les charges de l’administrateur judiciaire. (Articles 10 et 12 du Cstv.). Les créances au sens de l’article 11 paragraphe 1 du Cstv. – soit les créances sur lesquelles le délai de paiement de la procédure de faillite (le moratoire) ne s’étend pas - ne doivent pas être à notifiées.
+## Un droit d’enregistrement doit être payé au compte indiqué au point 7. Ce droit s’élève à 1% de la créance calculée en HUF, mais au moins HUF 5.000 et maximum HUF 100.000, ce qui servira à couvrir les coûts admissibles et les charges de l’administrateur judiciaire. (Articles 10 et 12 du Cstv.). Les créances au sens de l’article 11 paragraphe 1 du Cstv. - soit les créances auxquelles le moratoire ne s’étend pas - ne sont pas à être produites.
 
 ## III. Conséquences juridiques de non respect du délai imparti pour des créances de créanciers
 
-## Dans le cas du non respect du délai imparti pour produire les créances, l’administrateur judiciaire n’enregistre pas la créance du créancier, ainsi le créancier ne pourra pas jouir de son droit de vote ni dans le comité des créanciers, ni pendant la procédure de faillite, et ne sera par conséquent pas en mesure de participer à la conclusion d’un arrangement avec les créanciers (Articles 5/A, 12., 14., 18., 20 du Cstv.), et cet arrangement ne s’applique pas au créancier en question.
+## En cas de l’inobservation du délai de production des créances, l’administrateur judiciaire n’admet pas la créance, ainsi le créancier ne pourra pas jouir de son droit de vote ni dans le comité des créanciers, ni pendant la procédure de faillite, et ne sera par conséquent pas en mesure de participer et de voter à la conclusion d’un concordat (Articles 5/A, 12., 14., 18., 20 du Cstv.), et le concordat ne s’appliquera pas au créancier en question. En raison de l’inobservation du délai, ce créancier ne peut revendiquer sa prétention contre le débiteur ni pendant la procédure de faillite ni lors de la conclusion d’un concordat voté, et il ne peut produire ses cérances non prescrites que dans le cadre d’une procédure de liquidation ouverte par un autre créancier. Dans ce dernier cas, lors de la procédure de liquidation, le créancier ne peut pas revendiquer les intérêts de retard, pénalités de retard, et autres prétentions de pénalités.
 
 ## IV. Formalités et exigences relatives au contenu des créances
 
@@ -302,9 +300,11 @@
 
 ## Les créances sont enregistrées par l’administrateur judiciaire avec la participation du débiteur, dont les créanciers seront tenus informés. Les articles 12 et 14 du Cstv. sont ceux relatifs à cette procédure.
 
+## Les créanciers ayant leur siège dans un autre pays ou ayant leur domicile dans un autre pays, doivent faire recours à un mandataire aux fins de notification mandataire ad litem.
+
 ## VI. Le chapitre IV. du Cstv. prévoit des règles spécifiques au regard des «entreprises qualifiées prioritaires stratégiquement» aux termes d’un décret gouvernemental.
 
-## Aufforderung zur Anmeldung einer Forderung im Konkursverfahren
+## D. Aufforderung zur Anmeldung einer Forderung im Konkursverfahren
 
 ## Felhívás követelés bejelentésére. Határidők betartandók!
 
@@ -312,9 +312,9 @@
 
 ## Opfordring til anmeldelse af fordringer. Vær opmærksom på fristerne.
 
-## Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen beachten!
+## Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen sind zu beachten!
 
-## Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσµι΄ες.
+## Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσμι΄ες.
 
 ## Invitation to lodge a claim. Time limits to be observed.
 
@@ -340,9 +340,7 @@
 
 ## Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny.
 
-## Stedina għal pre entazzjoni ta’ talba’. Limiti taż-żmien li għandhom jiġu
-
-## osservati.
+## Stedina ghal pre entazzjoni ta’ talba’. Limiti taż-żmien li ghandhom jigu osservati.
 
 ## Uzaicinājums iesniegt prasījumu. Termiņi, kas jāievēro.
 
@@ -368,33 +366,33 @@
 
 | 7. Nummer des bei einem Finanzinstitut geführten Gebührenverrechnungskontos des Vergleichsverwalters: |
 
-| 8. Beginn der Frist der provisorischen Zahlungsaufschubs [§ 9 Absatz (1) Cstv.] |
+| 8. Beginn der Frist der provisorischen Zahlungsaufschubs (§ 9 Absatz (1) Cstv.) |
 
-## I. Das Gericht gemäß Punkt 1 leitete unter Aktennummer gemäß Punkt 2 auf Antrag des Schuldners oder des Gläubigers in seinem im Zeitpunkt gemäß Punkt 3 erlassenen Beschluss ein Konkursverfahren gegen den Schuldner gemäß Punkt 4 ein. Dieses Verfahren ist das Zahlungsunfähigkeitsverfahren gemäß Art. 2. Punkt a) der Verordnung Nr. 1346/2000/EG des Rates. Der Zeitpunkt gemäß Punkt 3. ist der Zeitpunkt der Einleitung des Zahlungsunfähigkeitsverfahrens [Art. 2. Punkt f) der Verordnung Nr. 1346/2000/EG des Rates]. Das Gericht bestellte in seinem Beschluss den Vergleichsverwalter laut Punkt 5 zur Verrichtung der gesetzlich vorgegebenen Aufgaben im Rahmen des Verfahrens gemäß Kapitel II. des Gesetzes Nr. LXIX/1991 über das Konkursverfahren und Liquidationsverfahren (in der Folge: Cstv.).
+## I. Das Gericht gemäß Punkt 1 leitete unter Aktennummer gemäß Punkt 2 auf Antrag des Schuldners in seinem im Zeitpunkt gemäß Punkt 3 erlassenen Beschluss ein Konkursverfahren gegen den Schuldner gemäß Punkt 4 ein. Dieses Verfahren ist das Zahlungsunfähigkeitsverfahren gemäß Art. 2. Punkt a) der Verordnung Nr. 1346/2000/EG des Rates. Der Zeitpunkt gemäß Punkt 3. ist der Zeitpunkt der Einleitung des Zahlungsunfähigkeitsverfahrens (Art. 2. Punkt f) der Verordnung Nr. 1346/2000/EG des Rates). Das Gericht bestellte in seinem Beschluss den Vergleichsverwalter laut Punkt 5 zur Verrichtung der gesetzlich vorgegebenen Aufgaben im Rahmen des Verfahrens gemäß Kapitel II. des Gesetzes Nr. LXIX/1991 über das Konkursverfahren und Liquidationsverfahren (in der Folge: Cstv.).
 
-## Die Rechtsfolgen des Zahlungsaufschubs sind im § 11. Cstv. enthalten.
+## Die Rechtsfolgen des Zahlungsaufschubs sind in den §§ 10,11 Cstv. enthalten.
 
 ## Die Grundlage dieser Verständigungspflicht ist Artikel 40 der Verordnung Nr. 1346/2000/EG des Rates, gemäß dessen die bekannten Gläubiger, die ihren gewöhnlichen Aufenthaltsort, ständigen Wohnsitz, Sitz in einem anderen Mitgliedsstaat haben, als das Land, in dem das Zahlungsunfähigkeitsverfahren eingeleitet wird, über die Einleitung des Zahlungsunfähigkeitsverfahrens zu benachrichtigen sind.
 
-## Gemäß Artikel 39. der Verordnung Nr. 1346/2000/EG des Rates sind alle Gläubiger – inkl. der Finanzbehörden und Sozialversicherungsbehörden der Mitgliedsstaaten –, die ihren gewöhnlichen Aufenthaltsort, ständigen Wohnsitz oder Sitz in einem anderen Mitgliedsstaat haben, als das Land, das das Verfahren einleitet, berechtigt, ihre Forderungen im Zahlungsunfähigkeitsverfahren schriftlich anzumelden.
+## Gemäß Artikel 39. der Verordnung Nr. 1346/2000/EG des Rates sind alle Gläubiger - inkl. der Finanzbehörden und Sozialversicherungsbehörden der Mitgliedsstaaten -, die ihren gewöhnlichen Aufenthaltsort, ständigen Wohnsitz oder Sitz in einem anderen Mitgliedsstaat haben, als das Land, das das Verfahren einleitet, berechtigt, ihre Forderungen im Zahlungsunfähigkeitsverfahren schriftlich anzumelden.
 
 ## II. Die Frist zur Anmeldung von Gläubigerforderungen, sowie die formellen und inhaltlichen Anforderungen gegenüber der Anmeldung von Gläubigerforderungen
 
 ## Die Gläubiger haben die ihren Forderungen betreffenden Angaben anzumelden, und die diese bestätigenden Urkunden beizuschließen (§ 12 Cstv.).
 
-## Sie haben ihre Forderungen innerhalb von 30 Tagen ab Verkündung des Beschlusses über die Anordnung des Konkursverfahrens – und ihre nach der Verkündung entstehende Forderungen innerhalb von 3 Arbeitstagen – dem Schuldner und dem im Punkt 5. angeführten Ausgleichsverwalter anzumelden (§ 12 Cstv.).
+## Sie haben ihre Forderungen innerhalb von 30 Tagen ab Verkündung des Beschlusses über die Anordnung des Konkursverfahrens - und ihre nach der Verkündung entstehende Forderungen innerhalb von 8 Arbeitstagen - dem Schuldner und dem im Punkt 5. angeführten Ausgleichsverwalter anzumelden (§ 12 Cstv.).
 
-## Das Schriftstück, mit dem die Forderung angemeldet wird, ist vom Gläubiger mit der Aufschrift „KÖVETELÉSBEJELENTÉS” (Forderungsanmeldung) versehen, in 2 Exemplaren, in ungarischer Sprache oder in der Amtsprache oder in einer der Amtssprachen des Mitgliedsstaates seines gewöhnlichen Aufenthaltsorts, Wohnsitzes oder Sitzes, jedoch unter Beischluss einer amtlichen ungarischen Übersetzung einzureichen. Die ungarischsprachige Aufschrift „KÖVETELÉSBEJELNTÉS” muss das Schriftstück in jedem Fall enthalten [Art. 42. Absatz (2) der Verordnung Nr. 1346/2000/EG des Rates].
+## Das Schriftstück, mit dem die Forderung angemeldet wird, ist vom Gläubiger mit der Aufschrift „KÖVETELÉSBEJELENTÉS” (Forderungsanmeldung) versehen, in 2 Exemplaren, in ungarischer Sprache oder in der Amtsprache oder in einer der Amtssprachen des Mitgliedsstaates seines gewöhnlichen Aufenthaltsorts, Wohnsitzes oder Sitzes, jedoch unter Beischluss einer amtlichen ungarischen Übersetzung einzureichen. Die ungarischsprachige Aufschrift „KÖVETELÉSBEJELNTÉS” muss das Schriftstück in jedem Fall enthalten (Art. 42. Absatz (2) der Verordnung Nr. 1346/2000/EG des Rates).
 
 ## Im Schriftstück, mit dem die Forderung angemeldet wird, hat der Gläubiger die Art, den Zeitpunkt der Entstehung und den Betrag seiner Forderung anzugeben, weiters ob er hinsichtlich seiner Forderung Vorrang beansprucht, ob seine Forderung durch Pfandrecht, durch sonstige Realsicherheiten oder durch Eigentumsvorbehalt gesichert wurde, und dass sein Pfandrecht, seine sonstige Realsicherheit oder Eigentumsvorbehalt welche Vermögensgegenstände umfasst. Der Gläubiger ist verpflichtet, dem Schriftstück, mit dem die Forderung angemeldet wird, die Kopie der die Forderung begründenden Unterlagen beizuschließen (Art. 41. der Verordnung Nr. 1346/2000/EG des Rates).
 
-## Der Gläubiger ist verpflichtet, den Betrag seiner Forderung aufgrund des im Zeitpunkt der Veröffentlichung im Amtsblatt „Cégközlöny” gültigen Kurses der Ungarischen Nationalbank in Forint anzugeben.
+## Der Gläubiger ist verpflichtet, den Betrag seiner Forderung aufgrund des im Zeitpunkt der Veröffentlichung im Amtsblatt „Cégközlöny” gültigen Kurses der Ungarischen Nationalbank auch in Forint anzugeben.
 
-## Für die Registrierung der Forderung ist eine Gebühr – 1% des in Forint angegebenen Betrags der Forderung, aber mindestens 5.000,- HUF und höchstens 100.000,- HUF – auf das im Punkt 7. angegebenen Konto zu entrichten, die zur Deckung der nachgewiesenen Kosten und des Honorar des Ausgleichsverwalters dient. (§§ 10. und 12. Cstv.). Die Forderungen gemäß § 11. Absatz (1) Cstv. sind nicht anzumelden, also diejenige, auf die sich der Zahlungsaufschub (Moratorium) während des Konkursverfahrens nicht erstreckt.
+## Für die Registrierung der Forderung ist eine Gebühr - 1% des in Forint angegebenen Betrags der Forderung, aber mindestens 5.000,- HUF und höchstens 100.000,- HUF - auf das im Punkt 7. angegebenen Konto zu entrichten, die zur Deckung der nachgewiesenen Kosten und des Honorar des Ausgleichsverwalters dient. (§§ 10. und 12. Cstv.). Die Forderungen gemäß § 11. Absatz (1) Cstv. sind nicht anzumelden, also diejenige, auf die sich der Zahlungsaufschub (Moratorium) während des Konkursverfahrens nicht erstreckt.
 
 ## III. Die Rechtsfolgen des Versäumens der für die Anmeldung der Gläubigerforderungen vorgeschriebenen Frist
 
-## Beim Versäumen der Anmeldungsfrist wird die Forderung des Gläubigers vom Ausgleichsverwalter nicht registriert, was zur Folge hat, dass der Gläubiger sein Stimmrecht weder im Gläubigerausschuss noch während des Konkursverfahrens ausüben kann, wodurch er auch im Abschluss des Konkursausgleichs zwecks Schuldentilgung nicht teilnehmen kann (§§ 5/A., 12., 14., 18., 20. Cstv.), dessen Wirkung erstreckt sich nicht auf ihn.
+## Beim Versäumen der Anmeldungsfrist wird die Forderung des Gläubigers vom Ausgleichsverwalter nicht registriert, was zur Folge hat, dass der Gläubiger sein Stimmrecht weder im Gläubigerausschuss noch während des Konkursverfahrens ausüben kann, wodurch er auch im Abschluss eines Vergleichs mit den Gläubigern zwecks Schuldentilgung nicht teilnehmen kann (§§ 5/A., 12., 14., 18., 20. Cstv.), dessen Wirkung erstreckt sich nicht auf ihn. Dieser Gläubiger kann infolge der versäumten Frist seinen Anspruch im Konkursverfahren und während des Konkursausgleichs gegen den Schuldner nicht geltend machen, er kann ferner seinen nicht verjährten Anspruch nur in einem von anderen beantragten Liquidationsvervahren anmelden. Im letzteren Fall ist er aber nicht berechtigt, im Liquidationsverfahren Ansprüche auf Verzugszinsen, Verspätungszuschlag, sowie Ansprüche von der Art des Zuschlags und der Gelbuße geltend zu machen.
 
 ## IV. Die formellen und inhaltlichen Anforderungen gegenüber der Anmeldung von Gläubigerforderungen
 
@@ -404,11 +402,13 @@
 
 ## Die Forderungen werden vom Ausgleichsverwalter unter Einbeziehung des Schuldners registriert und eingestuft, über deren Ergebnis auch die Gläubiger von ihm verständigt werden. Für dieses Verfahren sind §§ 12. und 14. Cstv. maßgebend.
 
+## Gläubiger mit Sitz im Ausland beziehungsweise mit Wohnsitz im Ausland haben einen Zustellungsbevollmächtigten zu bestellen.
+
 ## VI. Für laut Verordnung der Regierung als «Unternehmen strategischer Priorität» bestimmte Firmen gelten die besondere Vorschriften des IV. Abschnittes des Gesetzes über das Konkursverfahren und Liquidationsverfahren.
 
 2. számú melléklet a 38/2009. (VIII. 31.) IRM rendelethez[^3]
 
-Felhívás követelés bejelentésére a felszámolási eljárásban
+A. Felhívás követelés bejelentésére a felszámolási eljárásban
 
 Felhívás követelés bejelentésére. Határidők betartandók!
 
@@ -416,9 +416,9 @@ Convocatoria para la presentación de créditos. Plazos aplicables.
 
 Opfordring til anmeldelse af fordringer. Vær opmærksom på fristerne.
 
-Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen beachten!
+Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen sind zu beachten!
 
-Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσµι΄ες.
+Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσμι΄ες.
 
 Invitation to lodge a claim. Time limits to be observed.
 
@@ -434,7 +434,7 @@ Kehotus saatavan ilmoittamiseen. Noudatettavat määräajat.
 
 Anmodan att anmäla fordran. Tidsfrister att iaktta.
 
-Výzva k přihlášení pohledávky. Závazné lhůty.
+Výzva k přihlášení pohledávky. Závazné lhşty.
 
 Poziv k prijavi terjatve. Roki, ki jih je treba upoštevati!
 
@@ -444,9 +444,7 @@ Uzaicinŕjums iesniegt prasďjumu. Termińi, kas jŕievşro.
 
 Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny.
 
-Stedina għal pre entazzjoni ta’ talba’. Limiti taż-żmien li għandhom jiġu
-
-osservati.
+Stedina ghal pre entazzjoni ta’ talba’. Limiti taż-żmien li ghandhom jigu osservati.
 
 Uzaicinājums iesniegt prasījumu. Termiņi, kas jāievēro.
 
@@ -474,49 +472,49 @@ Invitaţie de înregistrare a cererii de admitere a creanţei. Termenul limită
 
 | 8. A felszámolási eljárást lefolytató bíróság Gazdasági Hivatala díjfedezeti számlájának száma: |
 
-I. Az 1. pont szerinti bíróság a 2. pont szerinti ügyszám alatt, a 3. pont szerinti időpontban hozott határozatában a 4. pont szerinti adós ellen felszámolási eljárást indított. E felszámolási eljárás a 1346/2000/EK tanácsi rendelet szerinti eljárás (5. pont). A 7. pont szerinti időpont a fizetésképtelenségi eljárás megindításának időpontja [1346/2000/EK tanácsi rendelet 2. cikk f) pont]. A bíróság határozatában kijelölte a 6. pont szerinti felszámolót. A 7. pont szerinti időponttól kezdődően az adós vagyonával kapcsolatos jognyilatkozatot csak a felszámoló tehet.
+I. Az 1. pont szerinti bíróság a 2. pont szerinti ügyszám alatt, a 3. pont szerinti időpontban hozott határozatában a 4. pont szerinti adós ellen felszámolási eljárást indított. E felszámolási eljárás az 1346/2000/EK tanácsi rendelet szerinti eljárás (5. pont). A 7. pont szerinti időpont a fizetésképtelenségi eljárás megindításának időpontja (1346/2000/EK tanácsi rendelet 2. cikk f) pont). A bíróság határozatában kijelölte a 6. pont szerinti felszámolót. A 7. pont szerinti időponttól kezdődően az adós vagyonával kapcsolatos jognyilatkozatot csak a felszámoló tehet.
 
-Ezen értesítés alapja a 1346/2000/EK tanácsi rendelet 40. cikke, amely szerint a fizetésképtelenségi eljárás megindításának helyétől eltérő tagállamban szokásos tartózkodási hellyel, állandó lakóhellyel, székhellyel rendelkező, ismert hitelezőket tájékoztatni kell a fizetésképtelenségi eljárás megindulásáról.
+Ezen értesítés alapja az 1346/2000/EK tanácsi rendelet 40. cikke, amely szerint a fizetésképtelenségi eljárás megindításának helyétől eltérő tagállamban szokásos tartózkodási hellyel, állandó lakóhellyel, székhellyel rendelkező, ismert hitelezőket tájékoztatni kell a fizetésképtelenségi eljárás megindulásáról.
 
-A 1346/2000/EK tanácsi rendelet 39. cikke szerint bármely hitelezőnek – ideértve a tagállamok adóhatóságait és társadalombiztosítási intézményeit (hatóságait) is –, akinek szokásos tartózkodási helye, lakóhelye vagy székhelye más tagállamban van, mint az eljárás megindításának helye szerinti állam, jogában áll írásban bejelenteni követeléseit a fizetésképtelenségi eljárásban.
+Az 1346/2000/EK tanácsi rendelet 39. cikke szerint bármely hitelezőnek - ideértve a tagállamok adóhatóságait és társadalombiztosítási intézményeit (hatóságait) is -, akinek szokásos tartózkodási helye, lakóhelye vagy székhelye más tagállamban van, mint az eljárás megindításának helye szerinti állam, jogában áll írásban bejelenteni követeléseit a fizetésképtelenségi eljárásban.
 
 II. A hitelezői követelések bejelentésére előírt határidő
 
-A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.)
+A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 28. §-ának (1) bekezdése alapján a bíróság elrendelte a határozat Cégközlönyben való közzétételét. A bírósági határozat közzététele a 7. pont szerinti időpontban megtörtént. Az ettől az időponttól számított 40 napos határidőn belül kell a követelést a hitelezőknek a felszámoló (6. pont) számára írásban bejelenteni [Cstv. 28. § (2) bekezdés f) pont]. A követelést bejelentő irat könyvelt (ajánlott vagy tértivevényes postai különszolgáltatással) küldeményként adható postára, legkésőbb a határidő utolsó napján.
 
-28. §-ának (1) bekezdése alapján a bíróság elrendelte a határozat Cégközlönyben való közzétételét. A bírósági határozat közzététele a 7. pont szerinti időpontban megtörtént. Az ettől az időponttól számított 40 napos határidőn belül kell a követelést a hitelezőknek a felszámoló (6. pont) számára írásban bejelenteni [Cstv. 28. § (2) bekezdés f) pont]. A követelést bejelentő irat könyvelt (ajánlott vagy tértivevényes postai különszolgáltatással) küldeményként adható postára, legkésőbb a határidő utolsó napján.
+A felszámolási eljárás alatt keletkezett hitelezői igényt (ha felszámolási költségnek nem minősül, és a felszámolási zárómérleget még nem nyújtották be) az esedékessé válását követő 40 napon belül kell bejelenteni.
 
 A követelés bejelentésének kötelezettsége a dologi biztosítékkal rendelkező hitelezőkre is kiterjed.
 
-A Cstv. 36. §-ának (1) bekezdése szerint a felszámolás során csak olyan követelés számítható be, amelyet a felszámoló elismertként nyilvántartásba vett, és amelynek tekintetében a felszámolás kezdő időpontját – vagy ha a követelés később keletkezett, a keletkezését – követően nem került sor engedményezésre. Nem számíthatja be az adóssal szembeni követelését az adós gazdálkodó szervezet vezető tisztségviselője, vezető állású munkavállalója vagy azok közeli hozzátartozója, illetve élettársa, valamint az adós többségi befolyása alatt álló gazdálkodó szervezet, továbbá az adós gazdálkodó szervezet többségi befolyással rendelkező tagja (egyszemélyes társaság esetén a tag, külföldi székhelyű vállalkozás magyarországi fióktelepe esetén a külföldi székhelyű vállalkozás).
+A Cstv. 36. §-ának (1) bekezdése szerint a felszámolás során csak olyan követelés számítható be, amelyet a felszámoló elismertként nyilvántartásba vett, és amelynek tekintetében a felszámolás kezdő időpontját - vagy ha a követelés később keletkezett, a keletkezését - követően nem került sor engedményezésre. Nem számíthatja be az adóssal szembeni követelését az adós gazdálkodó szervezet vezető tisztségviselője, vezető állású munkavállalója vagy azok közeli hozzátartozója, illetve élettársa, valamint az adós többségi befolyása alatt álló gazdálkodó szervezet, továbbá az adós gazdálkodó szervezet többségi befolyással rendelkező tagja (egyszemélyes társaság esetén a tag, külföldi székhelyű vállalkozás magyarországi fióktelepe esetén a külföldi székhelyű vállalkozás).
 
 III. A hitelezői követelések bejelentésére előírt határidő elmulasztásának jogkövetkezménye
 
-Az adóssal szemben fennálló olyan követeléseket, amelyeket a felszámolás közzétételétől számított 40 napon túl, de 180 napon belül jelentettek be, a felszámoló nyilvántartásba veszi, de az ilyen hitelező követelése csak abban az esetben elégíthető ki, ha a határidőben bejelentett követelések [a Cstv. 57. §-ának (1) bekezdésében felsorolt tartozások] kiegyenlítése után van rá vagyoni fedezet. A Cégközlönyben való közzétételtől számított 180 napos határidő elmulasztása jogvesztéssel jár [Cstv. 37. § (1)–(3) bekezdés].
+Az adóssal szemben fennálló olyan követeléseket, amelyeket a felszámolás közzétételétől számított 40 napon túl, de 180 napon belül jelentettek be, a felszámoló nyilvántartásba veszi, de az ilyen hitelezői követelés csak abban az esetben elégíthető ki, ha – az egyezségkötést kivéve – a határidőben bejelentett követelések (a Cstv. 57. §-ának (1) bekezdésében felsorolt tartozások) kiegyenlítése után van rá vagyoni fedezet. A Cégközlönyben való közzétételtől számított 180 napos határidő elmulasztása jogvesztéssel jár (Cstv. 37. § (1)-(3) bekezdés).
 
 IV. A hitelezői követelések bejelentésével szembeni formai és tartalmi követelmények
 
-A követelést bejelentő iratot a hitelezőnek „KÖVETELÉSBEJELENTÉS” felirattal ellátva 2 példányban magyar nyelven, vagy a saját szokásos tartózkodási helye, lakóhelye, székhelye szerinti tagállam hivatalos nyelvén, vagy hivatalos nyelvei valamelyikén, de magyar nyelvű hivatalos fordítást is csatolva kell benyújtania. A magyar nyelvű „KÖVETELÉSBEJELENTÉS” feliratot az iratnak minden esetben tartalmaznia kell [1346/2000/EK tanácsi rendelet 42. cikk (2) bekezdés].
+A követelést bejelentő iratot a hitelezőnek „KÖVETELÉSBEJELENTÉS” felirattal ellátva 2 példányban magyar nyelven, vagy a saját szokásos tartózkodási helye, lakóhelye, székhelye szerinti tagállam hivatalos nyelvén, vagy hivatalos nyelvei valamelyikén, de magyar nyelvű hivatalos fordítást is csatolva kell benyújtania. A magyar nyelvű „KÖVETELÉSBEJELENTÉS” feliratot az iratnak minden esetben tartalmaznia kell (1346/2000/EK tanácsi rendelet 42. cikk (2) bekezdés).
 
 A követelést bejelentő iratban a hitelezőnek meg kell jelölnie követelése jellegét, keletkezésének időpontját, összegét, továbbá azt, hogy követelése tekintetében elsőbbségre tart-e igényt, követelését zálogjog, más dologi biztosíték vagy tulajdonjog-fenntartás biztosítja-e és zálogjoga, más dologi biztosítéka vagy fenntartott tulajdonjoga milyen vagyontárgyakra terjed ki. A követelést bejelentő irathoz a hitelezőnek csatolnia kell a követelést megalapozó iratok másolatát (1346/2000/EK tanácsi rendelet, 41. cikk).
 
-A hitelezőnek a Magyar Nemzeti Banknak a Cégközlönyben való közzététel időpontja szerinti árfolyama alapján forintban kell meghatároznia követelése összegét.
+A hitelezőnek a Magyar Nemzeti Banknak a Cégközlönyben való közzététel időpontja szerinti árfolyama alapján forintban is meg kell határoznia követelése összegét.
 
 A Cstv. 36. §-ának (2) bekezdése szerint a Cégközlönyben való közzététel időpontját megelőzően létrejött, pozíciólezáró nettósításra irányuló megállapodás esetén a hitelezőnek a nettó követelést kell a felszámolónak bejelentenie, illetve a felszámoló a nettó követelést érvényesíti. A pozíciólezáró nettósításon alapuló nettó követelés kiszámítása során irányadó értéknap a felek megállapodásában meghatározott, de minden esetben a hitelezői igények bejelentésére nyitva álló határidő lejártát megelőző időpont.
 
-A hitelezői igény nyilvántartásba vételének feltétele továbbá, hogy a hitelező - követelésének a felszámolóhoz való bejelentésén felül - az adóssal szemben érvényesíteni kívánt követelés összegének 1%-át, de legalább 5000, legfeljebb azonban 200 000 Ft-ot átutaljon a felszámolási eljárást elrendelő bíróság (1. pont) Gazdasági Hivatalának díjfedezeti számlájára (8. pont), megjelölve az adóst (4. pont) és a felszámolási eljárást elrendelő bírósági határozat ügyszámát (2. pont) és ezt a felszámolónak igazolja. Ha a felszámolási eljárást közvetlenül csődeljárás előzte meg, és a hitelező a követelését ott bejelentette, és kifizette a nyilvántartásba-vételi díjat is, a felszámolási eljárásban a követelést nem kell ismét bejelentenie, azonban a felszámoló felhívására meg kell fizetnie a díjkülönbözetet.
+A hitelezői igény nyilvántartásba vételének feltétele továbbá, hogy a hitelező - követelésének a felszámolóhoz való bejelentésén felül - az adóssal szemben érvényesíteni kívánt követelés tőkeösszegének 1%-át, de legalább 5000, legfeljebb azonban 200 000 Ft-ot átutaljon a felszámolási eljárást elrendelő bíróság (1. pont) Gazdasági Hivatalának díjfedezeti számlájára (8. pont), megjelölve az adóst (4. pont) és a felszámolási eljárást elrendelő bírósági határozat ügyszámát (2. pont) és ezt a felszámolónak igazolja. Ha a felszámolási eljárást közvetlenül csődeljárás előzte meg, és a hitelező a követelését ott bejelentette, és kifizette a nyilvántartásba-vételi díjat is, a felszámolási eljárásban a követelést nem kell ismét bejelentenie, azonban a felszámoló felhívására meg kell fizetnie a díjkülönbözetet.
 
-Ha a hitelező ezt az összeget nem utalja át a Gazdasági Hivatal fent megjelölt számlájára, s ezt nem igazolja a felszámoló részére, a felszámoló nem veszi hitelezőként nyilvántartásba. A nyilvántartásba vételi díj fizetésének kötelezettsége nem vonatkozik azokra a hitelezőkre, akiknek a követelése a Cstv. 57. § (2) bekezdése alapján felszámolási költségnek minősül vagy a gazdálkodó szervezetet terhelő tartásdíj, életjáradék, kártérítési járadék, bányászati keresetkiegészítés, továbbá a mezőgazdasági szövetkezet tagja részére a háztáji föld vagy termény helyett adott pénzbeli juttatás, amely a jogosultat élete végéig megilleti [Cstv. 46. § (7) bekezdés].
+Ha a hitelező ezt az összeget nem utalja át a Gazdasági Hivatal fent megjelölt számlájára, s ezt nem igazolja a felszámoló részére, a felszámoló nem veszi hitelezőként nyilvántartásba. A nyilvántartásba vételi díj fizetésének kötelezettsége nem vonatkozik azokra a hitelezőkre, akiknek a követelése a Cstv. 57. § (2) bekezdése alapján felszámolási költségnek minősül vagy a gazdálkodó szervezetet terhelő tartásdíj, életjáradék, kártérítési járadék, bányászati keresetkiegészítés, továbbá a mezőgazdasági szövetkezet tagja részére a háztáji föld vagy termény helyett adott pénzbeli juttatás, amely a jogosultat élete végéig megilleti (Cstv. 46. § (7) bekezdés).
 
 V. A bejelentett hitelezői követelés nyilvántartásba vétele
 
-A Cstv. 46. §-ának (6) bekezdése szerint a felszámoló a határidőben bejelentett követeléseket a bejelentési határnapot követő 45 napon belül köteles felülvizsgálni, az érdekeltekkel egyeztetni. Ha a felszámoló a hitelezői követelést akár a jogalap, akár az összegszerűség vonatkozásában vitatja, ezt közli a hitelezővel. Ha a hitelező a felszámoló közlésében foglaltakkal nem ért egyet, és a felszámoló és a hitelező közötti egyeztetés sikertelen, a felszámoló köteles a vitathatónak minősített igényeket elbírálás végett 15 napon belül a felszámolást elrendelő bíróságnak megküldeni. Ha a hitelező nem ért egyet követelésének a felszámoló általi besorolásával, a Cstv. 51. §-ának (1) bekezdése szerint a tudomásszerzéstől számított 8 napon belül kifogással élhet a felszámolási eljárást elrendelő bíróságnál (1. pont).
+A Cstv. 46. §-ának (6) bekezdése szerint a felszámoló a határidőben bejelentett követeléseket a bejelentési határnapot követő 45 napon belül köteles felülvizsgálni, az érdekeltekkel egyeztetni. Ha a felszámoló a hitelezői követelést akár a jogalap, akár az összegszerűség vonatkozásában vitatja, ezt közli a hitelezővel. Ha a hitelező a felszámoló közlésében foglaltakkal nem ért egyet, és a felszámoló és a hitelező közötti egyeztetés sikertelen, a felszámoló köteles a vitathatónak minősített igényeket elbírálás végett 15 napon belül a felszámolást elrendelő bíróságnak megküldeni. Ha a hitelező nem ért egyet követelésének a felszámoló általi besorolásával, a Cstv. 51. §-ának (1) bekezdése szerint a tudomásszerzéstől számított 8 napon belül kifogással élhet a felszámolási eljárást elrendelő bíróságnál (1. pont). A felszámoló nem minősítheti vitathatónak azt a hitelezői igényt, amely az adós közokiratba foglalt tartozásán alapul, kivéve, ha a tartozás megfizetése részben vagy egészben már megtörtént.
 
-Az elmulasztott határidő utolsó napjától számított 15 napon belül a hitelező – a polgári perrendtartásról szóló 1952. évi III. törvény 107. §-a alapján – igazolási kérelmet terjeszthet elő felszámolási eljárást elrendelő bírósághoz. Ha azonban a mulasztás csak később jutott a félnek vagy képviselőjének tudomására, vagy az akadály csak később szűnt meg, az igazolási kérelem határideje a tudomásszerzéssel, illetőleg az akadály megszűnésével veszi kezdetét. A mulasztástól számított három hónap eltelte után igazolási kérelmet előterjeszteni nem lehet. Az igazolási kérelemben elő kell adni a mulasztás okát és azokat a körülményeket, amelyek a mulasztás vétlenségét valószínűvé teszik. Az igazolási kérelem előterjesztésével együtt pótolni kell az elmulasztott cselekményt (a hitelezői igény bejelentését) is.
+Az elmulasztott határidő utolsó napjától számított 15 napon belül a hitelező - a polgári perrendtartásról szóló 1952. évi III. törvény 107. §-a alapján - igazolási kérelmet terjeszthet elő a felszámolási eljárást elrendelő bírósághoz. Ha azonban a mulasztás csak később jutott a félnek vagy képviselőjének tudomására, vagy az akadály csak később szűnt meg, az igazolási kérelem határideje a tudomásszerzéssel, illetőleg az akadály megszűnésével veszi kezdetét. A mulasztástól számított három hónap eltelte után igazolási kérelmet előterjeszteni nem lehet. Az igazolási kérelemben elő kell adni a mulasztás okát és azokat a körülményeket, amelyek a mulasztás vétlenségét valószínűvé teszik. Az igazolási kérelem előterjesztésével együtt pótolni kell az elmulasztott cselekményt (a hitelezői igény bejelentését) is.
 
 VI. Kormányrendeletben stratégiailag kiemeltként minősített vállalkozásokra a Cstv. IV. fejezete sajátos szabályokat tartalmaz.
 
-Invitation to Lodge a Claim in Liquidation Proceedings
+B. Invitation to Lodge a Claim in Liquidation Proceedings
 
 Felhívás követelés bejelentésére. Határidők betartandók!
 
@@ -524,9 +522,9 @@ Convocatoria para la presentación de créditos. Plazos aplicables.
 
 Opfordring til anmeldelse af fordringer. Vær opmærksom på fristerne.
 
-Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen beachten!
+Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen sind zu beachten!
 
-Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσµι΄ες.
+Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσμι΄ες.
 
 Invitation to lodge a claim. Time limits to be observed.
 
@@ -552,9 +550,7 @@ Uzaicinŕjums iesniegt prasďjumu. Termińi, kas jŕievşro.
 
 Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny.
 
-Stedina għal pre entazzjoni ta’ talba’. Limiti taż-żmien li għandhom jiġu
-
-osservati.
+Stedina ghal pre entazzjoni ta’ talba’. Limiti taż-żmien li ghandhom jigu osservati.
 
 Uzaicinājums iesniegt prasījumu. Termiņi, kas jāievēro.
 
@@ -568,61 +564,63 @@ Invitaţie de înregistrare a cererii de admitere a creanţei. Termenul limită
 
 | 1. Court conducting the liquidation proceedings: |
 
-| 2. Number of Court Decision ordering the liquidation proceedings: |
+| 2. Number of Court Decision opening the liquidation proceedings: |
 
-| 3. Date of passing the Court Decision ordering the liquidation proceedings: |
+| 3. Date of the Court Decision opening the liquidation proceedings: |
 
 | 4. Debtor’s name, registered office and address: |
 
-| 5. Type of proceedings: main proceedings / regional proceedings |
+| 5. Type of proceedings: main proceedings / territorial proceedings |
 
 | 6. Liquidator’s name, registered office and address: |
 
-| 7. Date of publishing the Court Decision that ordered the liquidation in „Cégközlöny”: |
+| 7. Date of the publication of the Court Decision opening the liquidation proceedings in the official journal „Cégközlöny”: |
 
-| 8. Number of the fee cover account of the Economic Office under the Court conducting the liquidation proceedings: |
+| 8. Number of the fee cover account of the Finance Office under the Court conducting the liquidation proceedings: |
 
-I. The Court under point 1 instituted liquidation proceedings against the Debtor under point 4 in its Decision passed on the date set out in point 3 under case number as in point 2. These liquidation proceedings are proceedings under Council Regulation 1346/2000/EC (point 5). The date in point 7 is the date of instituting the insolvency proceedings [Paragraph f) of Art. 2 of Council Regulation 1346/2000/EC]. The Court appointed the Liquidator as in point 6 in its Decision. Starting from the date set out in point 7 any legal declaration concerning the Debtor’s property shall only be made by the Liquidator.
+I. The Court under point 1 opened liquidation proceedings against the Debtor under point 4 in its Decision passed on the date set out in point 3 under case number referred to in point 2. These liquidation proceedings are proceedings within the meening of Council Regulation (EC) 1346/2000 (point 5). The date under point 7 is the date of opening the insolvency proceedings (Article 2 f) of Council Regulation (EC) 1346/2000). In its decision the Court appointed the Liquidator under point 6. Starting from the date set out in point 7, any legal declaration concerning the Debtor’s property shall only be made by the Liquidator.
 
-This information rests on Art. 40 of Council Regulation 1346/2000/EC according to which the known Creditors who have their habitual residences, domiciles or registered offices in another Member State than where the insolvency proceedings are instituted shall be informed about the institution of the insolvency proceedings.
+The duty to provide information is provided for in Article 40 of Council Regulation (EC) 1346/2000 according to which the known Creditors who have their habitual residences, domiciles or registered offices in another Member State than where the insolvency proceedings are instituted shall be informed about the opening of the insolvency proceedings.
 
-In purview of Art. 39 of Council Regulation 1346/2000/EC any Creditor who has his habitual residence, domicile or registered office in a Member State other than the State of the opening of proceedings, including the tax authorities and social security authorities of Member States, shall have the right to lodge claims in the insolvency proceedings in writing.
+Article 39 of Council Regulation (EC) 1346/2000 prescribes that any Creditor who has his habitual residence, domicile or registered office in a Member State other than the State of the opening of proceedings, including the tax authorities and social security authorities of Member States, shall have the right to lodge claims in the insolvency proceedings in writing.
 
-II. Term of lodging Creditor’s claims
+II. Time limit of lodging Creditor’s claims
 
-In purview of Section (1) of Art. 28 of Act XLIX of 1991 on Bankruptcy Proceedings and Liquidation Proceedings (hereinafter the Bankruptcy Act) the Court ordered that the Decision be promulgated in „Cégközlöny”. The Court Decision was promulgated at the time under point 7. Creditors shall lodge their claims to the Liquidator (point 6) in writing within 40 days of this date [Subsection f) of Section (2) of Art. 28 of Bankruptcy Act]. The document on lodging the claim shall be posted as a certified mail (with special postal service of registration or return receipt) on the last day of the term the latest.
+Pursuant to Section 28 (1) of Act XLIX of 1991 on Bankruptcy Proceedings and Liquidation Proceedings (hereinafter the Bankruptcy Act) the Court ordered that the Decision be published in the official journal Cégközlöny. The Court Decision was published on the date set out in point 7. Creditors shall lodge their claims to the Liquidator (point 6) in writing within 40 days of this date (Section (2) f) of Bankruptcy Act). The document on lodging the claim shall be posted as a recommended mail or a registered mail with acknowledgement of receipt on the last day of the term the latest.
+
+Creditors’ claims, incurred during the liquidation proceedings and not considered as liquidation expenses shall be lodged to the liquidator within forty days following the date when the claim falls due, provided that the final liquidation balance sheet has not yet been submitted.
 
 The obligation to lodge a claim shall also apply to Creditors with security in rem.
 
-In purview of Section (1) of Art. 36 of the Bankruptcy Act, in liquidation proceedings only such claims can be imputed which have been registered by the Liquidator as acknowledged and have not been assigned subsequent to the time of the opening of liquidation proceedings, or, if the claim has occurred at a later date, subsequent to its occurrence. The senior executive, senior employee of the business association in debt or their close relatives or spouses, the business association under the Debtor’s majority influence and the member of, with majority influence in, the business association in debt (the member in a one-man company or the foreign seated company for the Hungarian affiliate of a foreign seated company) shall not impute its claim against the Debtor.
+According to Section 36 (1) of the Bankruptcy Act, in liquidation proceedings only such claims can be set off which have been registered by the Liquidator as recognized claims and have not been assigned subsequent to the time of the opening of liquidation proceedings, or, if the claim has arised at a later date, subsequent to its occurrence. The senior executive, senior employee of the business association in debt or their close relative or partner, the business association under the Debtor’s controlling influence and the member of the business association in debt, having controlling influence in that business association in the case of a one-man company: the member, in the case of a Hungarian branch of a company established abroad: the company established abroad) may not set off its claim against the Debtor.
 
-III. Legal consequences of missing the term for lodging Creditor’s claims
+III. Legal consequences of missing the time limit for lodging Creditor’s claims
 
-The Liquidator shall register the claims against the Debtor that were lodged over 40 days but within 180 days of promulgation of the liquidation, but this Creditor’s claim shall only be met if financial cover is still available after settling any claims lodged on time [debts listed in Section (1) of Art. 57 of Bankruptcy Act]. Failing to meet the 180-day term of promulgation in „Cégközlöny” shall entail forfeiture of right [Sections (1)–(3) of Art. 37 of Bankruptcy Act].
+Claims against the Debtor that were lodged over 40 days but within 180 days of publication of the liquidation shall be registered by the Liquidator, but such claims of the Creditor shall only be met if, except in the case of a composition agreement, financial cover is still available after settling any claims lodged on time (debts listed in Section 57 (1) of Bankruptcy Act). Failing to meet the 180-day time limit of publication in „Cégközlöny” shall entail forfeiture of the right to lodge claims (Sections 37 (1)-(3) of Bankruptcy Act).
 
-IV. Requirements as to form and content of lodging Creditor’s claims
+IV. Form and content of lodging Creditor’s claims
 
-The Creditor shall submit the document on lodging his claim with the heading „LODGEMENT OF CLAIM” in 2 copies in the Hungarian language or in the official language or one of the official languages of the State of his own habitual residence, domicile or registered office and shall also attach an official translation in Hungarian. The document shall in every case include the Hungarian heading „KÖVETELÉSBEJELENTÉS” (i.e. „LODGEMENT OF CLAIM”) [Section (2) of Art. 42 of Council Regulation 1346/2000/EC].
+The Creditor shall submit the document on lodging his claim with the heading „LODGEMENT OF CLAIM” in 2 copies in the Hungarian language or in the official language or one of the official languages of the State of his own habitual residence, domicile or registered office; in the latter case he will be required to provide an official translation in Hungarian language. The document shall in every case bear the Hungarian language heading „KÖVETELÉSBEJELENTÉS” (i.e. „LODGEMENT OF CLAIM”) (Article 42 (2) of Council Regulation (EC) 1346/2000).
 
-In the document on lodging a claim the Creditor shall indicate the nature of the claim, the date on which it arose and its amount, as well as whether he alleges preference in respect of his claim, if his claim is supported by any lien, other security in rem or a reservation of title, and what assets are covered by his lien, other security in rem or the title reserved. The Creditor shall attach the copy of the documents that underlie the claim to the document on lodging his claim (Art. 41 of Council Regulation 1346/2000/EC).
+In the document on lodging a claim the Creditor shall indicate the nature of the claim, the date on which it arose and its amount, as well as whether he alleges preference in respect of his claim and whether his claim is secured by any lien, another security in rem or a reservation of title, and what assets are covered by the lien, the other security in rem or the title reserved. The Creditor shall attach the copy of the documents that underlie the claim to the document on lodging his claim (Article 41 of Council Regulation (EC) 1346/2000).
 
-The Creditor shall specify the amount of his claim in Hungarian forints, using the exchange rate quoted by the National Bank of Hungary as of the date of publication in „Cégközlöny”.
+The Creditor shall specify the amount of his claim in Hungarian Forint (HUF) as well, at the exchange rate quoted by the National Bank of Hungary applicable at the time of publication in the official journal Cégközlöny.
 
-In purview of Section (2) of Art. 36 of the Bankruptcy Act, in connection with an agreement for close-out netting concluded prior to the time of promulgation in „Cégközlöny”, the Creditor shall notify the Liquidator of this net claim and the Liquidator shall enforce this net claim. When calculating the amount of net claim under a close-out netting provision, the principal transaction date shall precede the deadline specified by the parties to the agreement, but shall in all cases be pursuant to specific other legislation for the filing of Creditors’ claims.
+Pursuant to Section 36 (2) of the Bankruptcy Act, in the case of a close-out netting agreement concluded prior to the time of publication in Cégközlöny, the Creditor shall notify the Liquidator of the net claim and the Liquidator shall enforce the net claim. When calculating the amount of net claim under a close-out netting provision, the principal transaction date shall precede the deadline specified by the parties to the agreement, but shall in all cases be pursuant to specific other legislation for the filing of Creditors’ claims.
 
-Another condition of registering the Creditor’s claim is that the Creditor – apart from lodging his claim to the Liquidator - shall transfer 1% of the claim amount to be received from the Debtor but HUF 5,000 at least and HUF 200,000 at most to the fee cover account (point 8) of the Economic Office under the Court ordering the liquidation proceedings (point 1), indicating the Debtor (point 4) and the case number of the Court Decision ordering the liquidation proceedings (point 2) and shall certify such to the Liquidator. If the liquidation proceedings were directly preceded by bankruptcy proceedings and the Creditor has lodged his claim there and has paid the fee for registration, he shall not need to lodge his claim again in the liquidation proceedings but shall pay the difference in fees upon the Liquidator’s request.
+Another condition of registering the Creditor’s claim is that the Creditor - apart from lodging his claim to the Liquidator - shall transfer 1% of the principal claim amount to be received from the Debtor but HUF 5 000 at least and HUF 200 000 at most to the fee cover account (point 8) of the Finance Office under the Court ordering the liquidation proceedings (point 1), indicating the Debtor (point 4) and the case number of the Court Decision ordering the liquidation proceedings (point 2) and shall certify such to the Liquidator. If the liquidation proceedings were directly preceded by bankruptcy proceedings and the Creditor has lodged his claim there and has paid the fee for registration, he shall not need to lodge his claim again in the liquidation proceedings but shall pay the difference in fees upon the Liquidator’s request.
 
-If the Creditor fails to transfer this amount to the above account of the Economic Office and fails to certify such to the Liquidator, the Liquidator shall not register him as a Creditor. The obligation to pay the registration fee does not apply to Creditors whose claim is related to liquidation expenses, or alimony and life-annuity payments, compensation benefits, income supplement to miners which are payable by the business association, furthermore, monetary aid granted to members of agricultural cooperatives in lieu of household land or produce, for which the beneficiary is entitled for his/her lifetime under Section (2) of Art. 57 of the Bankruptcy Act [Section (7) of Art. 46 of Bankruptcy Act].
+If the Creditor fails to transfer this amount to the above account of the Finance Office and fails to certify such to the Liquidator, the Liquidator shall not register him as a Creditor. The obligation to pay the registration fee does not apply to Creditors whose claim is related to liquidation expenses, or alimony and life-annuity payments, compensation benefits, income supplement to miners which are payable by the business association, furthermore, monetary aid granted to members of agricultural cooperatives in lieu of household land or produce, for which the beneficiary is entitled for his/her lifetime under Section 57 (2) of the Bankruptcy Act (Section 46 (7) of Bankruptcy Act).
 
 V. Registration of the Creditor’s lodged claim
 
-In purview of Section (6) of Art. 46 of the Bankruptcy Act the Liquidator shall review the claims lodged by the due time within 45 days of the deadline for lodging such and shall converse with the parties concerned. If the Liquidator disputes the Creditor’s claim with reference to either legal ground or the amount, he shall notify the Creditor accordingly. If the Creditor does not agree with the Liquidator’s notification and agreement between the Liquidator and the Creditor is inefficient, the Liquidator shall forward the claims deemed disputable to the Court ordering liquidation for judgement within 15 days. If the Creditor disagrees with the classification of his claim by the Liquidator, he may - in pursuance of Section (1) of Art. 51 of the Bankruptcy Act - file a complaint within 8 days of gaining knowledge thereof at the Court which has ordered liquidation (point 1).
+Pursuant to Section 46 (6) of the Bankruptcy Act, the Liquidator shall review the claims lodged by the due time within 45 days of the deadline for lodging such and shall consult with the parties concerned. If the Liquidator has concerns about the Creditor’s claim with reference to either its legal basis or the amount, he shall notify the Creditor accordingly. If the Creditor does not agree with the Liquidator’s notification and the consultation between the Liquidator and the Creditor brings no result, the Liquidator shall forward the claims deemed disputable to the Court ordering liquidation for judgement within 15 days. If the Creditor disagrees with the classification of his claim by the Liquidator, he may - according to Section 51 (1) of the Bankruptcy Act - file a complaint within 8 days after having become aware of it at the Court which has ordered liquidation (point 1). The Liquidator may not dispute the creditor’s claim if the claim is based on the debtor’s debts drawn upin an authentic instrument, unless the debts have been full or partially settled.
 
-The Creditor may, in pursuance of Art. 107 of Act III of 1952 on the Code of Civil Procedure, submit an application for certification to the Court which has ordered the liquidation proceedings within 15 days of the last day of the missed deadline. But if the party or his representative only became aware of the failure later or if the obstacle was only prevented later, the deadline of the application for certification shall commence by the time of receiving information or the prevention of obstacles, respectively. No application for certification shall be submitted after 3 months of the failure. The application for certification shall stipulate the reason for failure and the circumstances that support the probability of being innocent in failure. The failed action (submission of Creditor’s claim) shall be taken simultaneous with submitting the application for certification.
+The Creditor may, according to Section 107 of Act III of 1952 on the Code of Civil Procedure, submit an application for certification to the Court which has ordered the liquidation proceedings within 15 days of the last day of the missed deadline. However, if the party or his representative only became aware of the failure later or if the obstacle was only prevented later, the deadline of the application for certification shall commence by the time of having become aware of the failure or the prevention of obstacles, respectively. No application for certification shall be submitted after 3 months of the failure. The application for certification shall specify the reason for failure and the circumstances that support the probability of being innocent in failure. The failed action (lodgement of Creditor’s claim) shall be taken simultaneous with submitting the application for certification
 
-VI. The Chapter IV of the of the Bankruptcy Act foresees specific rules regarding «enterprises qualified as having strategic priority» under the terms of a Government Decree.
+VI. Chapter IV of the of the Bankruptcy Act provides for specific rules applicable to undertakings declared by a Government Decree to have high strategic priority
 
-Invitation à produire une créance dans le cadre de la procédure de liquidation
+C. Invitation à produire une créance dans le cadre de la procédure de liquidation
 
 Felhívás követelés bejelentésére. Határidők betartandók!
 
@@ -630,9 +628,9 @@ Convocatoria para la presentación de créditos. Plazos aplicables.
 
 Opfordring til anmeldelse af fordringer. Vær opmærksom på fristerne.
 
-Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen beachten!
+Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen sind zu beachten!
 
-Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσµι΄ες.
+Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσμι΄ες.
 
 Invitation to lodge a claim. Time limits to be observed.
 
@@ -658,9 +656,7 @@ Uzaicinŕjums iesniegt prasďjumu. Termińi, kas jŕievşro.
 
 Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny.
 
-Stedina għal pre entazzjoni ta’ talba’. Limiti taż-żmien li għandhom jiġu
-
-osservati.
+Stedina ghal pre entazzjoni ta’ talba’. Limiti taż-żmien li ghandhom jigu osservati.
 
 Uzaicinājums iesniegt prasījumu. Termiņi, kas jāievēro.
 
@@ -688,49 +684,49 @@ Invitaţie de înregistrare a cererii de admitere a creanţei. Termenul limită
 
 | 8. Le numéro de compte couvrant les frais du Département des Finances de la cour chargée de la procédure de liquidation: |
 
-I. La cour visée au point 1 avec sa décision prise à la date visée au point 3 a lancé une procédure de liquidation contre le débiteur visé au point 4 sous le numéro de dossier visé au point 2. La présente procédure de liquidation est une procédure au sens du Règlement (CE) n° 1346/2000 du Conseil (article 5). La date visée au point 7 est la date de départ de la procédure d’insolvabilité [article 2 point f) du Règlement (CE) n° 1346/2000 du Conseil]. La cour a indiqué dans sa décision l’administrateur judiciaire visé au point 6. Passée la date visée au point 7, seul l’administrateur judiciaire est habilité à faire des déclarations concernant les biens du débiteur.
+I. La cour indiquée dans le point 1 avec sa décision prise à la date indiquée dans le point 3 a ouvert une procédure de liquidation contre le débiteur indiqué dans le point 4 sous le numéro de dossier indiqué dans le point 2. La présente procédure de liquidation est une procédure d’insolvabilité au sens du Règlement (CE) n° 1346/2000 du Conseil (article 5). La date indiquée au point 7 est la date d’ouverture de la procédure d’insolvabilité (article 2 point f) du Règlement (CE) n° 1346/2000 du Conseil). La cour a désigné dans sa décision l’administrateur judiciaire indiquée au point 6. Passée la date indiquée au point 7, seul l’administrateur judiciaire est habilité à faire des déclarations concernant les biens du débiteur.
 
-La présente notification est basée sur l’article 40 du Règlement (CE) n° 1346/2000 du Conseil, décrétant que dès qu’une procédure d’insolvabilité est ouverte dans un État membre, les créanciers connus qui ont leur résidence habituelle, leur domicile ou leur siège dans les autres États membres doivent être informés sans délai.
+La présente notification est basée sur l’article 40 du Règlement (CE) n° 1346/2000 du Conseil, prévoyant que dès l’ouverture d’une procédure d’insolvabilité dans un État membre, les créanciers connus ayant leur résidence habituelle, leur domicile ou leur siège dans les autres États membres doivent être informés sans délai.
 
-Au sens de l’article 39 du Règlement (CE) n° 1346/2000 du Conseil tout créancier qui a sa résidence habituelle, son domicile ou son siège dans un État membre autre que l’État d’ouverture, y compris les autorités fiscales et les organismes (autorités) de sécurité sociale des États membres, a le droit de produire ses créances par écrit dans la procédure d’insolvabilité.
+Au sens de l’article 39 du Règlement (CE) n° 1346/2000 du Conseil, tout créancier ayant sa résidence habituelle, son domicile ou son siège dans un État membre autre que l’État d’ouverture, y compris les autorités fiscales et les organismes (autorités) de sécurité sociale des États membres, a le droit de produire ses créances par écrit dans la procédure d’insolvabilité.
 
-II. Délai imparti pour des créances de débiteurs
+II. Délais à respecter
 
-Au sens de l’article 28 paragraphe 1 de la loi n° XLIX de 1991 relative aux procédures de faillite et procédures de liquidation (ci-après dénommé Cstv.), la cour a décrété la publication de la décision dans le journal officiel du commerce („Cégközlöny”). La décision de la cour a été publiée à la date visée au point 7. Les créanciers doivent produire leurs créances dans un délai de 40 jours par écrit à l’administrateur judiciaire (point 6) [Article 28 paragraphe 2 point f) du Cstv.] La documentation de la créance doit être envoyé par voie postale en tant qu’envoi enregistré (envoi recommandé ou lettre avec accusé de réception) le jour de la date limite du délai au plus tard.
+Au sens de l’article 28 paragraphe 1 de la loi n° XLIX de 1991 relative aux procédures de faillite et procédures de liquidation (ci-après dénommé Cstv.), la cour a ordonné la publication de la décision dans le journal officiel du commerce Cégközlöny. La décision de la cour a été publiée à la date indiquée dans le point 7. Les créanciers ont le droit de produire leurs créances dans un délai de 40 jours par écrit auprè de l’administrateur judiciaire (point 6) (Article 28 paragraphe 2 point f) du Cstv). La documentation de la créance doit être envoyé par voie postale en tant qu’envoi enregistré (envoi recommandé ou lettre avec accusé de réception) le jour de la date limite au plus tard.
 
-L’obligation de produire leurs créances est valable également pour les créanciers avec des sûretés réelles.
+Les créances des créanciers formées pendant la procédure de liquidation doivent être déclarées dans les 40 jours ouvrables à compter à partir de l’ échéance.
 
-Au sens de l’article 36 paragraphe 1 seules les créances enregistrées par l’administrateur judiciaire, et pour lesquelles il n’y avait pas des cessions à la suite de l’ouverture de la procédure de liquidation – ou pour les créances se produisant plus tard, à la suite de sa naissance peuvent être prises en considération lors de la procédure de liquidation. Aucune créance ne peut être imputée par les hauts fonctionnaires, les gérants des organisations débiteurs ou leur proches et/ou débiteur conjoint(e)s de facto, et l’organisation sous le contrôle majoritaire de débiteur, ou membres ayant le contrôle majoritaire par l’organisation débiteur (dans le cas des sociétés ayant un seul membre, c’est le membre, et dans le cas des succursales en Hongrie d’une entreprise avec une siège à l’étranger c’est l’entreprise avec la siège à l’étranger).
+L’obligation de produire les créances est applicable également aux créanciers ayant des sûretés réelles.
 
-III. Conséquences juridiques du non respect du délai imparti pour la production des créances de créanciers
+Au sens de l’article 36 paragraphe 1 seules les créances reconnues par l’administrateur judiciaire, et pour lesquelles il n’y avait pas de cessions à la suite de l’ouverture de la procédure de liquidation - ou pour les créances se produisant plus tard, à la suite de sa naissance peuvent être compensées lors de la procédure de liquidation. Aucune créance ne peut être compensée par les hauts fonctionnaires, les gérants des organisations débiteurs ou leur proches et/ou débiteur conjoint(e)s de facto, et l’organisation sous le controle majoritaire de débiteur, ou membres ayant le contrôle majoritaire par l’organisation débiteur (dans le cas des sociétés ayant un seul membre, c’est le membre, et dans le cas des succursales en Hongrie d’une entreprise avec un siège à l’étranger c’est l’entreprise avec le siège à l’étranger).
 
-L’administrateur judiciaire enregistre les créances contre le débiteur qui sont présentées au-delà des 40 jours à compter de la publication de la liquidation, mais dans les 180 jours, mais les créances de ces créanciers ne peuvent être compensées que dans le cas où il y a couverture après avoir compensé les créances [dettes énumérées au sein de l’article 57 paragraphe 1 du Cstv.] présentées dans le délai. Le non respect du délai de 180 jours à compter de la publication dans le journal officiel du commerce constitue une déchéance [Article 37, paragraphe 1-3 du Cstv.].
+III. Conséquences juridiques du non respect du délai de la production des créances
+
+L’administrateur judiciaire enregistre les créances présentées au-delà des 40 jours mais dans les 180 jours à compter de la publication de la liquidation, mais ces créances ne peuvent être compensées que –à l’exception de conclusion d’un concordat voté- dans le cas ces créances sont couvertes après avoir compensé les créances produites dans les délais (dettes prévues par l’article 57 paragraphe 1 du Cstv). Le non respect du délai de 180 jours à compter de la publication dans le journal officiel du commerce constitue une déchéance (Article 37, paragraphe 1-3 du Cstv.).
 
 IV. Formalités et exigences relatives au contenu des créances
 
-Le créancier doit présenter le document de la créance portant le titre „PRODUCTION DE CRÉANCE” en
+Le créancier doit présenter le document de la créance portant le titre „PRODUCTION DE CRÉANCE” en 2 exemplaires en langue hongroise ou dans une des langues officielles de l’État de sa résidence habituelle, son domicile ou son siège, accompagnée de la traduction officielle en hongrois. Le titre «PRODUCTION DE CRÉANCE» (KÖVETELÉSBEJENTÉS) en hongrois doit apparaître dans tous les cas (article 42 paragraphe 2 du Règlement (CE) n° 1346/2000).
 
-2 exemplaires en langue hongroise ou dans une des langues officielles de l’État de sa résidence habituelle, son domicile ou son siège, accompagnée de la traduction officielle en hongrois. Le titre « PRODUCTION DE CRÉANCE » (KÖVETELÉSBEJENTÉS) en hongrois doit apparaître dans tous les cas [article 42 paragraphe 2 du Règlement (CE) n° 1346/2000/EK].
+Dans le document produisant la créance, le créancier doit indiquer la nature de sa créance, la date de la formation et le montant de celle-ci, et - dans la mesure où’il revendique un privilège (si sa créance est garantie par un gage, une autre sûreté réelle ou une réserve de propriété), des informations indiquant que son gage, autre sûreté réelle ou réserve de propriété s’applique aux quels actifs. Le créancier doit joindre les pièces justificatives de la créance (Article 41 du Règlement (CE) n° 1346/2000).
 
-Dans le document présentant la créance, le créancier doit indiquer la nature de sa créance, la date de la formation et le montant de celle-ci, et – dans la mesure où’il revendique privilège – si sa créance est garantie par un gage, une autre sûreté réelle ou une réserve de propriété, et des informations indiquant que son gage est relatif aux quels actifs, autre sûreté réelle ou réserve de propriété est valable. Le créancier doit joindre les les pièces justificatives de la créance (Article 41 du Règlement (CE) n° 1346/2000).
+Le créancier doit indiquer le montant de sa créance en forint hongrois (HUF) aussi, conformément aux taux de change de la Banque centrale de la Hongrie applicable le jour de la publication dans le journal officiel du commerce Cégközlöny.
 
-Le créancier doit indiquer le montant de sa créance en HUF, conformément au taux de change de la Banque centrale de la Hongrie applicable le jour de la publication dans le journal officiel du commerce.
+Au sens de l’article 36, paragraphe 2 du Cstv, en cas d’un accord de compensation avec exigibilité anticipée conclu avant la publication dans le journal officiel du commerce Cégközlöny, le créancier doit produir la créance nette, et l’administrateur judiciaire fait valider cette créance nette. La date de valeur pour la calculation de la créance nette sur la base de la compensation des créances et engagements est la date indiqué dans l’accord des parties, mais dans tous les cas une date précédant la date limite de la production des créances.
 
-Au sens de l’article 36, paragraphe 2 du Cstv. dans le cas d’un accord sur une compensation de créance et engagement conclu avant la publication dans le journal officiel du commerce, le créancier doit présenter la créance nette, et l’administrateur judiciaire fait valider cette créance nette. La date de valeur pour la calculation de la créance nette sur la base de la compensation des créances et engagements est la date indiqué dans l’accord des parties, mais dans tous les cas une date avant le délai pour présenter les créances.
+Une autre condition de l’enregistrement de la créance - en dehors de produire la créance à l’administrateur judiciaire - est le paiement d’un droit de 1% de la somme de créance, mais au moins HUF 5000, et au maximum HUF 200 000 par virement au compte bancaire du Département des Finances (point 8) de la cour décrétant la procédure de la liquidation (point 1), en indiquant le débiteur (point 4) et le numéro du dossier de la décision de la cour décrétant la procédure de la liquidation (point 2), et le créancier doit justifier d’avoir rempli ces formalités à l’administrateur judiciaire. Si la procédure de liquidation suit directement une procédure de faillite, et le créancier a produit sa créance dans le cadre de cette procédure et a payé le droit d’enregistrement, il n’est pas tenu de présenter sa créance de nouveau, mais à la demande de l’administrateur judiciaire il doit payer la différences des frais.
 
-Une autre condition de l’enregistrement de la créance – en dehors de produire la créance à l’administrateur judiciaire – est le paiement de 1% de la créance à valider contre le débiteur, mais au moins HUF 5000, et au maximum HUF 200 000 par virement au compte pour couvrir des frais (point 8) du Département des Finances de la cour décrétant la procédure de la liquidation (point 1), en indiquant le débiteur (point 4) et le numéro du dossier de la décision de la cour décrétant la procédure de la liquidation (point 2), et la vérification de ceux-ci devant l’administrateur judiciaire. Si la procédure de liquidation suit directement une procédure de faillite, et le créancier a produit sa créance dans le cadre de cette procédure et a payé le frais pour l’enregistrement, il ne doit pas présenter sa créance de nouveau, mais à la demande de l’administrateur judiciaire il doit payer la différences des frais.
-
-Si le créancier n’effectue pas le virement de cette somme au compte de Département des Finances mentionnés ci-dessus et ne justifie pas cette action pour l’administrateur judiciaire, l’administrateur judiciaire ne l’enregistre pas comme créancier. L’obligation de payer les frais pour l’enregistrement ne concerne pas les créanciers dont la créance au sens de l’article 57, paragraphe (2) constitue des coûts de liquidation, pension alimentaire, rente viagère, dommages-intérêts, supplément de salaire pour les ouvriers de mines, ou prestations pécuniaires, dont bénéficie le coopératuer tout au long de sa vie en échange de l’exploitation personnelle du terrain de la société coopérative [Article 46, paragraphe 7 du Cstv.].
+Si le créancier n’effectue pas le virement de cette somme au compte de Département des Finances mentionnés ci-dessus et ne justifie pas cette action pour l’administrateur judiciaire, l’administrateur judiciaire ne l’enregistre pas comme créancier. L’obligation de payer le droit d’enregistrement ne concerne pas les créanciers dont la créance au sens de l’article 57, paragraphe (2) constitue des coûts de liquidation, pension alimentaire, rente viagère, dommages-intérêts, supplément de salaire pour les ouvriers de mines, ou prestations pécuniaires, dont bénéficie le coopératuer tout au long de sa vie en échange de l’exploitation personnelle du terrain de la société coopérative (Article 46, paragraphe 7 du Cstv.).
 
 V. Enregistrement des créances produites
 
-Au sens de l’article 46, paragraphe 6 l’administrateur judiciaire doit vérifier les créances produites dans un délai de 45 jours à compter du délai de la production, et les concilier avec les parties en cause. Si l’administrateur judiciaire discute la base juridique ou le montant de la créance, il doit en informer le créancier. Si le créancier n’accepte pas le contenu de la communication de l’administrateur judiciaire et la conciliation entre l’administrateur judiciaire et le créancier n’a pas abouti, l’administrateur judiciaire doit transmettre les créances discutables à la cour décrétant la procédure de liquidation dans 15 jours. Si le créancier n’accepte pas le classement de sa créance par l’administrateur judiciaire, il peut soulever une exception en justice devant la cour décrétant la procédure de liquidation (point 1) dans 8 jours à compter d’être mis au courant au sens de l’article 51, paragraphe 1 du Cstv.
+Au sens de l’article 46, paragraphe 6 l’administrateur judiciaire doit vérifier les créances produites dans un délai de 45 jours à compter du délai de la production, et les concilier avec les parties en cause. Si l’administrateur judiciaire conteste la base juridique ou le montant de la créance, il doit en informer le créancier. Si le créancier n’accepte pas le contenu de la communication de l’administrateur judiciaire et la conciliation entre l’administrateur judiciaire et le créancier n’a pas abouti, l’administrateur judiciaire doit transmettre les créances contestées à la cour décrétant la procédure de liquidation dans 15 jours. Si le créancier n’accepte pas le classement de sa créance par l’administrateur judiciaire, il peut soulever une exception en justice devant la cour décrétant la procédure de liquidation (point 1) dans 8 jours à compter d’être mis au courant au sens de l’article 51, paragraphe 1 du Cstv. Le liquidateur ne peut qualifier comme contestable la prétention du créancier fondé sur une créance reconnue dans un acte authentique, sauf si la dette a été payé entièrement ou partiellement par le débiteur.
 
-Dans 15 jours à compter du jour dernier du délai non réspecté le créancier peut introduire une demande de justification devant la cour décrétant la procédure de liquidation - au sens de l’article 107 de la loi n° III de 1952 relative à la code de procédure civile. Si la partie concernée ou son représentant est mis au courant de l’omission tardivement, ou l’obstacle a été levé plus tard, le délai pour introduire la demande de justification ne commence qu’ à partir du jour de la mise au courant et/ou la levée de l’obstacle. Une demande de justification ne peut être introduite que dans un délai de trois mois à compter de l’omission du délai. Le créancier doit justifier dans la demande de justification le motif de l’omission du délai et les conditions qui rendent probable l’accidentalité de l’omission. Au moment de l’introduction de la demande de justification, l’action manquée (production de la créance) doit être également complétée.
+Dans les 15 jours à compter du délai inobservé, le créancier peut introduire une demande de justification devant la cour décrétant la procédure de liquidation - au sens de l’article 107 de la loi n° III de 1952 relative à la code de procédure civile. Si la partie concernée ou son représentant este informé tardivement de l’inobservation du délai, ou l’obstacle a été levé plus tard, le délai pour introduire la demande de justification ne commence qu’ à partir du jour de l’information et/ou la levée de l’obstacle. Une demande de justification ne peut être introduite que dans un délai de trois mois à compter du délai inobservé. Le créancier doit justifier dans sa demande de justification la raison de l’inobservation du délai et les conditions qui rendent probable l’accidentalité de l’inobservation. Au moment de l’introduction de la demande de justification, l’acte manqué (production de la créance) doit être également accompli.
 
 VI. Le chapitre IV. du Cstv. prévoit des règles spécifiques au regard des «entreprises qualifiées prioritaires stratégiquement» aux termes d’un décret gouvernemental.
 
-Aufforderung zur Anmeldung einer Forderung im Liquidationsverfahren
+D. Aufforderung zur Anmeldung einer Forderung im Liquidationsverfahren
 
 Felhívás követelés bejelentésére. Határidők betartandók!
 
@@ -738,9 +734,9 @@ Convocatoria para la presentación de créditos. Plazos aplicables.
 
 Opfordring til anmeldelse af fordringer. Vær opmærksom på fristerne.
 
-Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen beachten!
+Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen sind zu beachten!
 
-Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσµι΄ες.
+Προ΄σκληση για αναγγελι΄α απαιτη΄σεως. Προσοχη΄ στις προθεσμι΄ες.
 
 Invitation to lodge a claim. Time limits to be observed.
 
@@ -766,9 +762,7 @@ Uzaicinŕjums iesniegt prasďjumu. Termińi, kas jŕievşro.
 
 Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny.
 
-Stedina għal pre entazzjoni ta’ talba’. Limiti taż-żmien li għandhom jiġu
-
-osservati.
+Stedina ghal pre entazzjoni ta’ talba’. Limiti taż-żmien li ghandhom jigu osservati.
 
 Uzaicinājums iesniegt prasījumu. Termiņi, kas jāievēro.
 
@@ -782,13 +776,11 @@ Invitaţie de înregistrare a cererii de admitere a creanţei. Termenul limită
 
 | 1. Das das Liquidationsverfahren durchführende Gericht: |
 
-| 2. Nummer der Verordnung, mit der das Liquidationsverfahren angeordnet wird: |
-
-| Zeitpunkt der Erlassung des das Liquidationsverfahren anordnenden Gerichtbeschlusses: |
+| 2. Nummer der Verordnung, mit der das Liquidationsverfahren angeordnet wird: Zeitpunkt der Erlassung des das Liquidationsverfahren anordnenden Gerichtbeschlusses: |
 
 | 4. Name, Sitz und Anschrift des Schuldners: |
 
-| 5. Typ des Verfahrens: Hauptverfahren/regionales Verfahren |
+| 5. Typ des Verfahrens: Hauptverfahren/Partikularverfahren |
 
 | 6. Name, Sitz und Anschrift des Liquidators: |
 
@@ -796,44 +788,46 @@ Invitaţie de înregistrare a cererii de admitere a creanţei. Termenul limită
 
 | 8. Nummer des Gebührenkontos des das Liquidationsverfahren durchführenden Gerichts: |
 
-I. Das Gericht gemäß Punkt 1 leitete unter Aktennummer gemäß Punkt 2 in seinem im Zeitpunkt gemäß Punkt 3 erlassenen Beschluss ein Liquidationsverfahren gegen den Schuldner gemäß Punkt 4 ein. Dieses Verfahren ist das Verfahren gemäß der Verordnung Nr. 1346/2000/EG des Rates (Punkt 5). Der Zeitpunkt gemäß Punkt 7. ist der Zeitpunkt der Einleitung des Zahlungsunfähigkeitsverfahrens [Art. 2. Punkt f) der Verordnung Nr. 1346/2000/EG des Rates]. Das Gericht bestellte in seinem Beschluss den Liquidator gemäß Punkt 6. Ab dem Zeitpunkt gemäß Punkt 7. darf eine das Vermögen des Schuldners betreffende Rechtserklärung ausschließlich vom Liquidator abgegeben werden.
+I. Das Gericht gemäß Punkt 1 leitete unter Aktennummer gemäß Punkt 2 in seinem im Zeitpunkt gemäß Punkt 3 erlassenen Beschluss ein Liquidationsverfahren gegen den Schuldner gemäß Punkt 4 ein. Dieses Verfahren ist das Verfahren gemäß der Verordnung Nr. 1346/2000/EG des Rates (Punkt 5). Der Zeitpunkt gemäß Punkt 7. ist der Zeitpunkt der Einleitung des Zahlungsunfähigkeitsverfahrens (Art. 2. Punkt f) der Verordnung Nr. 1346/2000/EG des Rates). Das Gericht bestellte in seinem Beschluss den Liquidator gemäß Punkt 6. Ab dem Zeitpunkt gemäß Punkt 7. darf eine das Vermögen des Schuldners betreffende Rechtserklärung ausschließlich vom Liquidator abgegeben werden.
 
 Die Grundlage dieser Verständigung ist Artikel 40 der Verordnung Nr. 1346/2000/EG des Rates, gemäß dessen die bekannten Gläubiger, die ihren gewöhnlichen Aufenthaltsort, ständigen Wohnsitz, Sitz in einem anderen Mitgliedsstaat haben, als das Land, in dem das Zahlungsunfähigkeitsverfahren eingeleitet wird, über die Einleitung des Zahlungsunfähigkeitsverfahrens zu benachrichtigen sind.
 
-Gemäß Artikel 39. der Verordnung Nr. 1346/2000/EG des Rates sind alle Gläubiger – inkl. der Finanzbehörden und Sozialversicherungsbehörden der Mitgliedsstaaten –, die ihren gewöhnlichen Aufenthaltsort, ständigen Wohnsitz oder Sitz in einem anderen Mitgliedsstaat haben, als das Land, das das Verfahren einleitet, berechtigt ihre Forderungen im Zahlungsunfähigkeitsverfahren schriftlich anzumelden.
+Gemäß Artikel 39. der Verordnung Nr. 1346/2000/EG des Rates sind alle Gläubiger - inkl. der Finanzbehörden und Sozialversicherungsbehörden der Mitgliedsstaaten -, die ihren gewöhnlichen Aufenthaltsort, ständigen Wohnsitz oder Sitz in einem anderen Mitgliedsstaat haben, als das Land, das das Verfahren einleitet, berechtigt ihre Forderungen im Zahlungsunfähigkeitsverfahren schriftlich anzumelden.
 
 II. Die Frist zur Anmeldung der Gläubigerforderungen
 
-Das Gericht ordnete aufgrund von § 28 Absatz (1) des Gesetzes Nr. XLIX/1991 über das Konkursverfahren und Liquidationsverfahren (in der Folge: Cstv.) die Verkündung des Beschlusses im Amtsblatt „Cégközlöny” an. Die Verkündung des Gerichtsbeschlusses erfolgte im Zeitpunkt gemäß Punkt 7. Die Gläubiger haben innerhalb von 40 Tagen ab diesem Zeitpunkt ihre Forderungen schriftlich beim Liquidator (Punkt 6) anzumelden [§ 28. Absatz (2) Punkt f) Cstv.]. Das Schriftstück, mit dem die Forderung angemeldet wird, kann als registrierte Sendung (eingeschriebene Sendung oder Sendung mit Rückschein) per Post, spätestens am letzten Tag der Frist versendet werden.
+Das Gericht ordnete aufgrund von § 28 Absatz (1) des Gesetzes Nr. XLIX/1991 über das Konkursverfahren und Liquidationsverfahren (in der Folge: Cstv.) die Verkündung des Beschlusses im Amtsblatt „Cégközlöny” an. Die Verkündung des Gerichtsbeschlusses erfolgte im Zeitpunkt gemäß Punkt 7. Die Gläubiger haben innerhalb von 40 Tagen ab diesem Zeitpunkt ihre Forderungen schriftlich beim Liquidator (Punkt 6) anzumelden (§ 28. Absatz (2) Punkt f) Cstv.). Das Schriftstück, mit dem die Forderung angemeldet wird, kann als registrierte Sendung (eingeschriebene Sendung oder Sendung mit Rückschein) per Post, spätestens am letzten Tag der Frist versendet werden.
+
+Ein während des Liquidationsverfahrens entstandener Gläubigeranspruch ist innerhalb von 40 Tagen ab Fälligkeit anzumelden.
 
 Die Pflicht zur Anmeldung der Forderungen gilt auch für Gläubiger, die über Realsicherheiten verfügen.
 
-Gemäß § 36 Absatz (1) Cstv. können während der Liquidation nur Forderungen angerechnet werden, die als anerkannt vom Liquidator registriert, und nach dem Beginn der Liquidation – oder bei Forderungen, die erst danach entstanden, nach ihrer Entstehung – nicht zediert wurden. Leitende Amtsträger, leitende Mitarbeiter einer schuldenden Wirtschaftsorganisation oder deren nahe Angehörige, Lebensgefährte, sowie unter dem Mehrheitseinfluss des Schuldners stehende Wirtschaftsorganisationen, weiters die über Mehrheitseinfluss verfügenden Gesellschafter der schuldenden Wirtschaftsorganisation (bei einer Einmanngesellschaft der Gesellschafter, bei einer ungarischen Filiale einer Unternehmung mit ausländischem Sitz die Unternehmung mit ausländischem Sitz) dürfen ihre Forderungen nicht gegenüber dem Schuldner anrechnen.
+Gemäß § 36 Absatz (1) Cstv. können während der Liquidation nur Forderungen aufgerechnet werden, die als anerkannte Forderungen vom Liquidator registriert, und nach dem Beginn der Liquidation - oder bei Forderungen, die erst danach entstanden, nach ihrer Entstehung - nicht abgetreten wurden. Leitende Amtsträger, leitende Mitarbeiter einer schuldenden Wirtschaftsorganisation oder deren nahe Angehörige, Lebensgefährte, sowie unter dem Mehrheitseinfluss des Schuldners stehende Wirtschaftsorganisationen, weiters die über Mehrheitseinfluss verfügenden Gesellschafter der schuldenden Wirtschaftsorganisation (bei einer Einmanngesellschaft der Gesellschafter, bei einer ungarischen Filiale einer Unternehmung mit ausländischem Sitz die Unternehmung mit ausländischem Sitz) dürfen ihre Forderungen nicht gegenüber dem Schuldner aufrechnen.
 
 III. Die Rechtsfolgen des Versäumens der für die Anmeldung der Gläubigerforderungen vorgeschriebenen Frist
 
-Die gegenüber dem Schuldner bestehenden Forderungen, die nach mehr als 40 Tagen aber innerhalb von 180 Tagen ab der Verkündung der Liquidation angemeldet werden, werden vom Liquidator registriert, können jedoch nur befriedigt werden, wenn nach der Begleichung der fristgerecht angemeldeten Forderungen [die Forderungen gemäß § 57. Absatz (1) Cstv.] eine Vermögensdeckung vorhanden ist. Das Versäumen der 180-tägigen Frist ab der Verkündung im Amtsblatt „Cégközlöny” hat Rechtsverlust zur Folge [§ 37 Abs. (1)-(3)].
+Die gegenüber dem Schuldner bestehenden Forderungen, die nach mehr als 40 Tagen aber innerhalb von 180 Tagen ab der Verkündung der Liquidation angemeldet werden, werden vom Liquidator registriert, können jedoch nur befriedigt werden, wenn – mit Ausnahme des Vergleichs – nach der Begleichung der fristgerecht angemeldeten Forderungen (die Forderungen gemäß § 57. Absatz (1) Cstv.) eine Vermögensdeckung vorhanden ist. Das Versäumen der 180-tägigen Frist ab der Verkündung im Amtsblatt „Cégközlöny” hat Rechtsverlust zur Folge (§ 37 Abs. (1)-(3)).
 
 IV. Die formellen und inhaltlichen Anforderungen gegenüber der Anmeldung von Gläubigerforderungen
 
-Das Schriftstück, mit dem die Forderung angemeldet wird, ist vom Gläubiger mit der Aufschrift „KÖVETELÉSBEJELENTÉS” (Forderungsanmeldung) versehen, in 2 Exemplaren, in ungarischer Sprache oder in der Amtsprache oder in einer der Amtssprachen des Mitgliedsstaates seines gewöhnlichen Aufenthaltsorts, Wohnsitzes oder Sitzes, jedoch unter Beischluss einer amtlichen ungarischen Übersetzung einzureichen. Die ungarischsprachige Aufschrift „KÖVETELÉSBEJELENTÉS” muss das Schriftstück in jedem Fall enthalten [Art. 42. Absatz (2) der Verordnung Nr. 1346/2000/EG des Rates].
+Das Schriftstück, mit dem die Forderung angemeldet wird, ist vom Gläubiger mit der Aufschrift „KÖVETELÉSBEJELENTÉS” (Forderungsanmeldung) versehen, in 2 Exemplaren, in ungarischer Sprache oder in der Amtsprache oder in einer der Amtssprachen des Mitgliedsstaates seines gewöhnlichen Aufenthaltsorts, Wohnsitzes oder Sitzes, jedoch unter Beischluss einer amtlichen ungarischen Übersetzung einzureichen. Die ungarischsprachige Aufschrift „KÖVETELÉSBEJELENTÉS” muss das Schriftstück in jedem Fall enthalten (Art. 42. Absatz (2) der Verordnung Nr. 1346/2000/EG des Rates).
 
 Im Schriftstück, mit dem die Forderung angemeldet wird, hat der Gläubiger die Art, den Zeitpunkt der Entstehung und den Betrag seiner Forderung anzugeben, weiters ob er hinsichtlich seiner Forderung Vorrang beansprucht, ob seine Forderung durch Pfandrecht, durch sonstige Realsicherheiten oder durch Eigentumsvorbehalt gesichert wurde, und dass sein Pfandrecht, seine sonstige Realsicherheit oder Eigentumsvorbehalt welche Vermögensgegenstände umfasst. Der Gläubiger ist verpflichtet, dem Schriftstück, mit dem die Forderung angemeldet wird, die Kopie der die Forderung begründenden Unterlagen beizuschließen (Art. 41. der Verordnung Nr. 1346/2000/EG des Rates).
 
-Der Gläubiger ist verpflichtet, den Betrag seiner Forderung aufgrund des im Zeitpunkt der Veröffentlichung im Amtsblatt „Cégközlöny” gültigen Kurses der Ungarischen Nationalbank in Forint anzugeben.
+Der Gläubiger ist verpflichtet, den Betrag seiner Forderung aufgrund des im Zeitpunkt der Veröffentlichung im Amtsblatt „Cégközlöny” gültigen Kurses der Ungarischen Nationalbank auch in Forint anzugeben.
 
 Gemäß § 36 Absatz (2) Cstv. hat der Gläubiger bei einer vor dem Zeitpunkt der Verkündung im Amtsblatt „Cégközlöny” zustande gekommene, auf Aufrechnung infolge Beendigung gerichtete Vereinbarung die Nettoforderung beim Liquidator anzumelden, bzw. die Nettoforderung wird vom Liquidator geltend gemacht. Bei der Errechnung der auf Aufrechnung infolge Beendigung beruhenden Nettoforderung ist das maßgebende Wertstellungsdatum der in der Vereinbarung der Parteien festgelegte, aber in jedem Fall der für die Anmeldung der Gläubigerforderungen angegebenen Frist vorangehende Zeitpunkt.
 
-Eine weitere Voraussetzung der Registrierung des Gläubigeranspruchs ist, dass der Gläubiger – neben der Anmeldung seiner Forderung beim Liquidator - 1% der Summe der gegenüber dem Schuldner geltend zu machenden Forderung, aber mindestens 5000 HUF, höchstens 200 000 HUF auf das Gebührenkonto (Punkt 8) des Wirtschaftsamtes des das Liquidationsverfahren anordnenden Gerichtes (Punkt 1) unter Angabe des Schuldners und der Aktennummer (Punkt 2) des Beschlusses des das Liquidationsverfahren anordnenden Gerichtes überweist, und dies beim Liquidator nachweist. Falls dem Liquidationsverfahren unmittelbar ein Konkursverfahren voranging, und der Gläubiger dort seine Forderung angemeldet und die Registriergebühr einzahlt hat, so ist er nicht verpflichtet, seine Forderung im Rahmen der Liquidationsverfahren erneut anzumelden, er hat jedoch auf Verlangen des Liquidators die Gebührendifferenz zu bezahlen.
+Eine weitere Voraussetzung der Registrierung des Gläubigeranspruchs ist, dass der Gläubiger - neben der Anmeldung seiner Forderung beim Liquidator - 1% der Summe des gegenüber dem Schuldner geltend zu machenden Hauptforderungsbetrags, aber mindestens 5000 HUF, höchstens 200 000 HUF auf das Gebührenkonto (Punkt 8) des Wirtschaftsamtes des das Liquidationsverfahren anordnenden Gerichtes (Punkt 1) unter Angabe des Schuldners und der Aktennummer (Punkt 2) des Beschlusses des das Liquidationsverfahren anordnenden Gerichtes überweist, und dies beim Liquidator nachweist. Falls dem Liquidationsverfahren unmittelbar ein Konkursverfahren voranging, und der Gläubiger dort seine Forderung angemeldet und die Registriergebühr einzahlt hat, so ist er nicht verpflichtet, seine Forderung im Rahmen der Liquidationsverfahren erneut anzumelden, er hat jedoch auf Verlangen des Liquidators die Gebührendifferenz zu bezahlen.
 
 Falls der Gläubiger diesen Betrag nicht an das oben genannte Konto des Wirtschaftsamtes überweist, und dies beim Liquidator nicht nachweist, wird er vom Liquidator nicht als Gläubiger registriert. Die Pflicht zur Bezahlung der Registriergebühr gilt nicht für Gläubiger, deren Forderungen gemäß § 57. Abs. (2) Cstv. als Liquidationskosten, oder als von der Wirtschaftsorganisation zu tragende Unterhaltsgelder, Lebensrenten, Schadenersatzleistungen, Bergbauzuschläge oder an Mitglieder von landwirtschaftlichen Genossenschaften für Hofland oder Frucht zu zahlende Geldleistungen gelten, die den Berechtigten bis zum Lebensende zustehen.
 
 V. Registrierung der angemeldeten Gläubigerforderungen
 
-Gemäß § 46 Abs. (6) ist der Liquidator verpflichtet, die fristgerecht angemeldeten Forderungen innerhalb von 45 Tagen ab Anmeldungsfrist zu überprüfen und mit den Betroffenen abzustimmen. Wird die Gläubigerforderung hinsichtlich ihres Grundes oder ihrer Höhe vom Liquidator bestritten, so teilt er dies dem Gläubiger mit. Falls der Gläubiger mit dem Inhalt der Mitteilung des Liquidators nicht einverstanden ist, und die Liquidator und der Gläubiger sich nicht einigen können, ist der Liquidator verpflichtet, die als streitbar geltenden Ansprüche innerhalb von 15 Tagen dem die Liquidation anordnenden Gericht zwecks Beurteilung zu übermitteln. Falls der Gläubiger mit der Einstufung seiner Forderung seitens des Liquidators nicht einverstanden ist, hat er gemäß § 51 Absatz (1) das Recht, innerhalb von 8 Tagen ab Kenntnisnahme Einspruch beim das Liquidationsverfahren anordnenden Gericht einzulegen (Punkt 1).
+Gemäß § 46 Abs. (6) ist der Liquidator verpflichtet, die fristgerecht angemeldeten Forderungen innerhalb von 45 Tagen ab Anmeldungsfrist zu überprüfen und mit den Betroffenen abzustimmen. Wird die Gläubigerforderung hinsichtlich ihres Grundes oder ihrer Höhe vom Liquidator bestritten, so teilt er dies dem Gläubiger mit. Falls der Gläubiger mit dem Inhalt der Mitteilung des Liquidators nicht einverstanden ist, und der Liquidator und der Gläubiger sich nicht einigen können, ist der Liquidator verpflichtet, die als streitbar geltenden Ansprüche innerhalb von 15 Tagen dem die Liquidation anordnenden Gericht zwecks Beurteilung zu übermitteln. Falls der Gläubiger mit der Einstufung seiner Forderung seitens des Liquidators nicht einverstanden ist, hat er gemäß § 51 Absatz (1) das Recht, innerhalb von 8 Tagen ab Kenntnisnahme Einspruch beim das Liquidationsverfahren anordnenden Gericht einzulegen (Punkt 1). Der Liquidator kann einen Gläubigeranspruch nicht streitbar erklären, der auf eine öffentlich beurkundete Schuld des Schuldners stützt, es sei denn die Zahlung der Schuld bereits ganz oder teilweise erfolgte.
 
 Der Gläubiger kann innerhalb von 15 Tagen ab dem letzten Tag der versäumten Frist - gemäß § 107 des Gesetzes Nr. III/1952 über die Zivilprozessordnung - einen Bestätigungsantrag beim das Liquidationsverfahren anordnenden Gericht einreichen. Gelang jedoch das Versäumnis erst später der Partei oder deren Vertreter zur Kenntnis, oder wurde das Hindernis erst später beseitigt, so beginnt die Frist mit der Kenntnisnahme bzw. der Beseitigung des Hindernisses zu laufen. Nach Ablauf von drei Monaten ab dem Versäumnis kann kein Bestätigungsanspruch eingereicht werden. Im Bestätigungsantrag sollen die Gründe des Versäumnisses und die Umstände vorgetragen werden, die ein unverschuldetes Versäumnis wahrscheinlich machen. Gleichzeitig mit der Einreichung des Bestätigungsantrages ist auch die versäumte Handlung (die Anmeldung des Gläubigeranspruches) nachzuholen.
 
 VI. Für laut Verordnung der Regierung als «Unternehmen strategischer Priorität» bestimmte Firmen gelten die besondere Vorschriften des IV. Abschnittes des Gesetzes über das Konkursverfahren und Liquidationsverfahren.
 
-[^3]: A 2. melléklet a 30/2011. (X. 20.) KIM rendelet 1. § (2) bekezdésével megállapított, a 2/2012. (I. 16.) KIM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 14/2012. (III. 1.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
