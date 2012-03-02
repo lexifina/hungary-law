@@ -252,9 +252,15 @@
 
 ## 47 KISKERESKEDELEM (KIVÉVE: JÁRMŰ, MOTORKERÉKPÁR)
 
-## 470001 Kiskereskedelem (kivéve: jármű, motorkerékpár)
+## 470001 Könyv-kiskereskedelem
 
 ## 470002 Tankönyvforgalmazás költségvetési szervnél
+
+## 470003 Gyógyszer-kiskereskedelem
+
+## 470004 Gyógyászati termék kiskereskedelme
+
+## 470009 Egyéb kiskereskedelem (kivéve: jármű, motorkerékpár)
 
 ## 49 SZÁRAZFÖLDI, CSŐVEZETÉKES SZÁLLÍTÁS
 
@@ -316,7 +322,15 @@
 
 ## 522 SZÁLLÍTÁST KIEGÉSZÍTŐ TEVÉKENYSÉG
 
-## 522000 Szállítást kiegészítő szolgáltatás
+## 522001 Közutak, hidak, alagutak üzemeltetése, fenntartása
+
+## 522002 Vasúti infrastruktúra üzemeltetése, fenntartása
+
+## 522003 Parkoló, garázs üzemeltetése, fenntartása
+
+## 522004 Közúti járművontatás
+
+## 522009 Szállítást kiegészítő egyéb szolgáltatás
 
 ## 53 POSTAI, FUTÁRPOSTAI TEVÉKENYSÉG
 
@@ -790,7 +804,7 @@
 
 ## 841115 Önkormányzati képviselőválasztásokhoz kapcsolódó tevékenységek
 
-## 841116 Országos, települési és területi kisebbségi önkormányzati választásokhoz kapcsolódó tevékenységek
+## 841116 Országos és helyi nemzetiségi önkormányzati választásokhoz kapcsolódó tevékenységek
 
 ## 841117 Európai parlamenti képviselőválasztáshoz kapcsolódó tevékenységek
 
@@ -804,19 +818,17 @@
 
 ## 841122 Központi általános végrehajtó igazgatási tevékenység
 
-## 841123 Országos kisebbségi önkormányzatok igazgatási tevékenysége
+## 841123 Országos nemzetiségi önkormányzatok igazgatási tevékenysége
 
 ## Területi általános végrehajtó igazgatási tevékenység
 
 ## 841124 Területi általános végrehajtó igazgatási tevékenység
 
-## 841125 Területi kisebbségi önkormányzatok igazgatási tevékenysége
-
 ## Helyi szintű általános végrehajtó igazgatási tevékenység
 
 ## 841126 Önkormányzatok és társulások általános végrehajtó igazgatási tevékenysége
 
-## 841127 Települési kisebbségi önkormányzatok igazgatási tevékenysége
+## 841127 Helyi nemzetiségi önkormányzatok igazgatási tevékenysége
 
 ## 84113 Államháztartás bevételi oldalának felügyelete, igazgatása
 
@@ -856,7 +868,7 @@
 
 ## 84116 Az államháztartás szervei részére végzett kiegészítő szolgáltatások
 
-## 841161 Pályázat- és támogatáskezelés, ellenőrzés
+## 841163 Pályázat- és támogatáskezelés, ellenőrzés
 
 ## 841169 M.n.s. egyéb kiegészítő szolgáltatások
 
@@ -904,7 +916,7 @@
 
 ## 841218 Szociális szolgáltatások központi igazgatása és szabályozása
 
-## 841219 Társadalmi tevékenységekkel, esélyegyenlőséggel, érdekképviselettel, kisebbségekkel, egyházakkal összefüggő feladatok központi igazgatása és szabályozása
+## 841219 Társadalmi tevékenységekkel, esélyegyenlőséggel, érdekképviselettel, nemzetiségekkel, egyházakkal összefüggő feladatok központi igazgatása és szabályozása
 
 ## 84122 Személyes jólét növelését célzó ágazatok területi igazgatása és szabályozása
 
@@ -924,31 +936,31 @@
 
 ## 841228 Szociális szolgáltatások területi igazgatása és szabályozása
 
-## 841229 Társadalmi tevékenységekkel, esélyegyenlőséggel, érdekképviselettel, kisebbségekkel, egyházakkal összefüggő feladatok területi igazgatása és szabályozása
+## 841229 Társadalmi tevékenységekkel, esélyegyenlőséggel, érdekképviselettel, nemzetiségekkel, egyházakkal összefüggő feladatok területi igazgatása és szabályozása
 
-## 84122 Személyes jólét növelését célzó ágazatok helyi igazgatása és szabályozása
+## 84123 Személyes jólét növelését célzó ágazatok helyi igazgatása és szabályozása
 
-## 841221 Egészségügy helyi igazgatása és szabályozása
+## 841231 Egészségügy helyi igazgatása és szabályozása
 
-## 841222 Oktatás helyi igazgatása és szabályozása
+## 841232 Oktatás helyi igazgatása és szabályozása
 
-## 841223 Kultúra helyi igazgatása és szabályozása
+## 841233 Kultúra helyi igazgatása és szabályozása
 
-## 841224 Sport, rekreáció helyi igazgatása és szabályozása
+## 841234 Sport, rekreáció helyi igazgatása és szabályozása
 
-## 841225 Környezetvédelem és természetvédelem helyi igazgatása és szabályozása
+## 841235 Környezetvédelem és természetvédelem helyi igazgatása és szabályozása
 
-## 841226 Vízügy helyi igazgatása és szabályozása
+## 841236 Vízügy helyi igazgatása és szabályozása
 
-## 841227 Lakáspolitika helyi igazgatása és szabályozása
+## 841237 Lakáspolitika helyi igazgatása és szabályozása
 
-## 841228 Szociális szolgáltatások helyi igazgatása és szabályozása
+## 841238 Szociális szolgáltatások helyi igazgatása és szabályozása
 
-## 841229 Társadalmi tevékenységekkel, esélyegyenlőséggel, érdekképviselettel, kisebbségekkel, egyházakkal összefüggő feladatok helyi igazgatása és szabályozása
+## 841239 Társadalmi tevékenységekkel, esélyegyenlőséggel, érdekképviselettel, kisebbségekkel, egyházakkal összefüggő feladatok helyi igazgatása és szabályozása
 
-## 84123 Személyes jólét növeléséhez kapcsolódó K+F politika és a hozzá kapcsolódó források igazgatása és szervezése
+## 84124 Személyes jólét növeléséhez kapcsolódó K+F politika és a hozzá kapcsolódó források igazgatása és szervezése
 
-## 841230 Személyes jólét növeléséhez kapcsolódó K+F politika és a hozzá kapcsolódó források igazgatása és szervezése
+## 841240 Személyes jólét növeléséhez kapcsolódó K+F politika és a hozzá kapcsolódó források igazgatása és szervezése
 
 ## 8413 Üzleti élet szabályozása, hatékonyságának ösztönzése
 
@@ -1022,15 +1034,15 @@
 
 ## 841353 Energia és ásványi erőforrások kiaknázásával, feldolgozásával, hasznosításával összefüggő támogatások
 
-## 841354 Közlekedés fejlesztésének támogatása
+## 841355 Közlekedés fejlesztésének támogatása
 
-## 841355 Hírközlés fejlesztésének támogatása
+## 841356 Hírközlés fejlesztésének támogatása
 
-## 841356 Információs társadalom fejlesztésének támogatása
+## 841357 Információs társadalom fejlesztésének támogatása
 
-## 841357 Turizmusfejlesztési támogatások és tevékenységek
+## 841358 Turizmusfejlesztési támogatások és tevékenységek
 
-## 841358 Kis- és nagykereskedelem fejlesztésének támogatása
+## 841359 Kis- és nagykereskedelem fejlesztésének támogatása
 
 ## 84136 A gazdasági növekedést ösztönző, általános, szektorhoz közvetlenül nem köthető támogatások és tevékenységek
 
@@ -1070,9 +1082,9 @@
 
 ## 8414 Önkormányzati szolgáltatások, tevékenységek
 
-## 841401 Közvilágítás
+## 841402 Közvilágítás
 
-## 841402 Város-, községgazdálkodási m.n.s. szolgáltatások
+## 841403 Város-, községgazdálkodási m.n.s. szolgáltatások
 
 ## 8419 Költségvetési pénzellátás technikai szakfeladatai
 
@@ -2006,7 +2018,7 @@
 
 ## 88211 Önkormányzati rendszeres pénzbeli ellátások
 
-## 882111 Rendszeres szociális segély
+## 882111 Aktív korúak ellátása
 
 ## 882112 Időskorúak járadéka
 
@@ -2033,8 +2045,6 @@
 ## 882123 Temetési segély
 
 ## 882124 Rendkívüli gyermekvédelmi támogatás
-
-## 882125 Mozgáskorlátozottak közlekedési támogatása
 
 ## 882129 Egyéb önkormányzati eseti pénzbeli ellátások
 
@@ -2130,11 +2140,7 @@
 
 ## 88995 Jövedelempótló és jövedelemkiegészítő szociális ellátások
 
-## 889951 Átmeneti járadék
-
-## 889952 Rendszeres szociális járadék
-
-## 889953 Egészségkárosodási járadék
+## 889953 Bányászok egészségkárosodási járadéka
 
 ## 889954 Rokkantsági járadék
 
@@ -2144,6 +2150,8 @@
 
 ## 889957 Hadigondozotti pénzellátások
 
+## 889958 Fogyatékossági támogatás
+
 ## 889959 Egyéb nyugdíjszerű rendszeres szociális ellátások
 
 ## 88996 Speciális pénzbeli ellátások
@@ -2152,13 +2160,13 @@
 
 ## 889962 Gáz- és távhőtámogatás
 
-## 889963 Fogyatékossági támogatás
-
 ## 889964 MTA hozzátartozói ellátások
 
 ## 889965 Egyéb, foglalkozási jogon járó speciális ellátások
 
 ## 889966 Jóléti, sport- és kultúratámogatások
+
+## 889967 Mozgáskorlátozottak gépjármű-szerzési és -átalakítási támogatása
 
 ## 889969 Egyéb speciális ellátások
 
@@ -2254,7 +2262,7 @@
 
 ## 890441 Rövid időtartamú közfoglalkoztatás
 
-## 890442 Bérpótló juttatásra jogosultak hosszabb időtartamú közfoglalkoztatása
+## 890442 Foglalkoztatást helyettesítő támogatásra jogosultak hosszabb időtartamú közfoglalkoztatása
 
 ## 890443 Egyéb közfoglalkoztatás
 
@@ -2448,9 +2456,9 @@
 
 ## 9321 Vidámparki, szórakoztatóparki tevékenység
 
-## 932101 Vidámparkok üzemeltetése
+## 932102 Vidámparkok üzemeltetése
 
-## 932102 Nosztalgiavasutak üzemeltetése
+## 932103 Nosztalgiavasutak üzemeltetése
 
 ## 932109 Egyéb szórakoztató létesítmény üzemeltetése
 
@@ -2490,7 +2498,7 @@
 
 ## 960900 M.n.s. egyéb személyi szolgáltatás
 
-2. számú melléklet az 56/2011. (XII. 31.) NGM rendelethez
+2. számú melléklet az 56/2011. (XII. 31.) NGM rendelethez[^2]
 
 Tartalmi meghatározások az államháztartási szakfeladatrend szakfeladataihoz
 
@@ -2684,11 +2692,19 @@ kapcsolatos bevételeket és kiadásokat (812900).
 
 47 KISKERESKEDELEM (KIVÉVE: JÁRMŰ, MOTORKERÉKPÁR)
 
+470001 Könyv-kiskereskedelem
+
+470003 Gyógyszer-kiskereskedelem
+
 470002 Tankönyvforgalmazás költségvetési szervnél
 
 Itt kell megtervezni és elszámolni:
 
 - a költségvetési szervnél végzett tankönyvforgalmazással kapcsolatos bevételeket és kiadásokat.
+
+470004 Gyógyászati termék kiskereskedelme
+
+470009 Egyéb kiskereskedelem (kivéve: jármű, motorkerékpár)
 
 49 SZÁRAZFÖLDI, CSŐVEZETÉKES SZÁLLÍTÁS
 
@@ -2781,6 +2797,16 @@ Itt kell megtervezni és elszámolni:
 Mutatószámok:
 
 - Kapacitásmutató: raktárterület nagysága
+
+522001 Közutak, hidak, alagutak üzemeltetése, fenntartása
+
+522002 Vasúti infrastruktúra üzemeltetése, fenntartása
+
+522003 Parkoló, garázs üzemeltetése, fenntartása
+
+522004 Közúti járművontatás
+
+522009 Szállítást kiegészítő egyéb szolgáltatás
 
 55 SZÁLLÁSHELY-SZOLGÁLTATÁS
 
@@ -3574,7 +3600,7 @@ Itt kell megtervezni és elszámolni:
 
 - az önkormányzati képviselőválasztásokkal kapcsolatos bevételeket és kiadásokat.
 
-841116 Országos, települési és területi kisebbségi önkormányzati választásokhoz kapcsolódó tevékenységek
+841116 Országos és helyi nemzetiségi önkormányzati választásokhoz kapcsolódó tevékenységek
 
 Itt kell megtervezni és elszámolni:
 
@@ -3620,7 +3646,7 @@ Itt kell megtervezni és elszámolni:
 
 kapcsolatos bevételeket és kiadásokat.
 
-841123 Országos kisebbségi önkormányzatok igazgatási tevékenysége
+841123 Országos nemzetiségi önkormányzatok igazgatási tevékenysége
 
 Itt kell megtervezni és elszámolni:
 
@@ -3640,14 +3666,6 @@ Itt kell megtervezni és elszámolni:
 
 kapcsolatos bevételeket és kiadásokat.
 
-841125 Területi kisebbségi önkormányzatok igazgatási tevékenysége
-
-Itt kell megtervezni és elszámolni:
-
-- a területi kisebbségi önkormányzatoknak a jogszabályi kereteken belül meghozott testületi határozatok alapján, a kisebbségek érdekeinek védelme és képviselete érdekében végzett igazgatási tevékenységével kapcsolatos bevételeket és kiadásokat.
-
-Helyi szintű általános végrehajtó igazgatási tevékenység
-
 841126 Önkormányzatok és társulások igazgatási tevékenysége
 
 Itt kell megtervezni és elszámolni:
@@ -3660,7 +3678,7 @@ Nem itt kell megtervezni és elszámolni:
 
 - az ágazati igazgatási feladatokat (84122 és 84137 szakfeladatcsoportok).
 
-841127 Települési kisebbségi önkormányzatok igazgatási tevékenysége
+841127 Helyi nemzetiségi önkormányzatok igazgatási tevékenysége
 
 Itt kell megtervezni és elszámolni:
 
@@ -3774,7 +3792,7 @@ Itt kell megtervezni és elszámolni:
 
 84116 Az államháztartás szervei részére végzett kiegészítő szolgáltatások
 
-8411613 Pályázat- és támogatáskezelés, ellenőrzés
+841163 Pályázat- és támogatáskezelés, ellenőrzés
 
 Itt kell megtervezni és elszámolni:
 
@@ -3910,15 +3928,15 @@ Itt kell megtervezni és elszámolni:
 
 - a szociális ellátás feltételeinek biztosítása, a nemzetközi egyezményekben és az Alkotmányban meghatározott szociális jogok érvényre juttatása érdekében a társadalmi szolidaritás alapján végzett, illetve a kábítószerügyi koordinációval összefüggő feladatok központi igazgatásával, szervezésével és szabályozásával, illetve fejlesztésével kapcsolatos bevételeket és kiadásokat.
 
-841219 Társadalmi tevékenységekkel, esélyegyenlőséggel, érdekképviselettel, kisebbségekkel, egyházakkal összefüggő feladatok központi igazgatása és szabályozása
+841219 Társadalmi tevékenységekkel, esélyegyenlőséggel, érdekképviselettel, nemzetiségekkel, egyházakkal összefüggő feladatok központi igazgatása és szabályozása
 
 Itt kell megtervezni és elszámolni:
 
 - a társadalmi összetartozást, az esélyegyenlőséget és az egyenlő bánásmódot, a társadalmi köz- és civil szféra aktivitását erősítő, az érdekképviseleti rendszer hatékony bevonását megvalósító tevékenységekkel, így különösen a fogyasztóvédelemmel, illetve az egyházi tevékenységgel összefüggő állami feladatok központi igazgatásával, szervezésével és szabályozásával, illetve fejlesztésével kapcsolatos bevételeket és kiadásokat.
 
-84123 Személyes jólét növeléséhez kapcsolódó K+F politika és a hozzá kapcsolódó források igazgatása és szervezése
+84124 Személyes jólét növeléséhez kapcsolódó K+F politika és a hozzá kapcsolódó források igazgatása és szervezése
 
-841230 Személyes jólét növeléséhez kapcsolódó K+F politika és a hozzá kapcsolódó források igazgatása és szervezése
+841240 Személyes jólét növeléséhez kapcsolódó K+F politika és a hozzá kapcsolódó források igazgatása és szervezése
 
 Itt kell megtervezni és elszámolni:
 
@@ -4060,7 +4078,7 @@ Itt kell megtervezni és elszámolni:
 
 - az energia és ásványi erőforrások kiaknázásával, feldolgozásával és hasznosításával, az energiaellátás korszerűsítésével, a megújuló energiaforrások felhasználásával összefüggő tevékenységek fejlesztésének hazai és uniós, illetve egyéb nemzetközi forrásokból történő támogatásokkal kapcsolatos bevételeket és kiadásokat.
 
-841354 Közlekedés fejlesztésének támogatása
+841355 Közlekedés fejlesztésének támogatása
 
 Itt kell megtervezni és elszámolni:
 
@@ -4070,25 +4088,25 @@ Nem itt kell megtervezni és elszámolni:
 
 - komplex, egy adott szektorhoz nem köthető támogatásokat (84136).
 
-841355 Hírközlés fejlesztésének támogatása
+841356 Hírközlés fejlesztésének támogatása
 
 Itt kell megtervezni és elszámolni:
 
 - a hírközlési infrastruktúra és szolgáltatások fejlesztésének hazai és uniós, illetve egyéb nemzetközi forrásokból történő támogatásokkal kapcsolatos bevételeket és kiadásokat.
 
-841356 Információs társadalom fejlesztésének támogatása
+841357 Információs társadalom fejlesztésének támogatása
 
 Itt kell megtervezni és elszámolni:
 
 - az információs társadalom fejlesztésének hazai és uniós, illetve egyéb nemzetközi forrásokból történő támogatásokkal kapcsolatos bevételeket és kiadásokat.
 
-841357 Turizmusfejlesztési támogatások és tevékenységek
+841358 Turizmusfejlesztési támogatások és tevékenységek
 
 Itt kell megtervezni és elszámolni:
 
 - a hazai és nemzetközi turisztikai infrastruktúra, szolgáltatások és programok fejlesztésének hazai és uniós, illetve egyéb nemzetközi forrásokból történő támogatásokkal kapcsolatos bevételeket és kiadásokat.
 
-841358 Kis- és nagykereskedelem fejlesztésének támogatása
+841359 Kis- és nagykereskedelem fejlesztésének támogatása
 
 Itt kell megtervezni és elszámolni:
 
@@ -4140,13 +4158,13 @@ Itt kell megtervezni és elszámolni:
 
 8414 Önkormányzati szolgáltatások, tevékenységek
 
-841401 Közvilágítás
+841402 Közvilágítás
 
 Itt kell megtervezni és elszámolni:
 
 - a települési közvilágítás kiépítésével, fenntartásával, üzemeltetésével kapcsolatos bevételeket és kiadásokat.
 
-841402 Város-, községgazdálkodási m.n.s. szolgáltatások
+841403 Város-, községgazdálkodási m.n.s. szolgáltatások
 
 Itt kell megtervezni és elszámolni:
 
@@ -7442,7 +7460,7 @@ Itt lehet megtervezni:
 
 88211 Önkormányzati rendszeres pénzbeli ellátások
 
-882111 Rendszeres szociális segély
+882111 Aktív korúak ellátása
 
 Itt kell megtervezni és elszámolni:
 
@@ -7600,7 +7618,7 @@ Mutatószámok:
 
 - Teljesítménymutató: a tárgyév során rendkívüli gyermekvédelmi támogatásban részesülők száma
 
-882125 Mozgáskorlátozottak közlekedési támogatása
+889967 Mozgáskorlátozottak gépjármű-szerzési és –átalakítási támogatása
 
 Itt kell megtervezni és elszámolni:
 
@@ -7802,18 +7820,4 @@ Itt kell megtervezni és elszámolni:
 
 - a gyermekjóléti szolgálat által végzett iskolai szociális munkával kapcsolatos bevételeket és kiadásokat.
 
-889206 Területi gyermekvédelmi szakszolgáltatás
-
-Itt kell megtervezni és elszámolni:
-
-- a Gyvt.-ben meghatározott területi gyermekvédelmi szakszolgáltatással kapcsolatos bevételeket és kiadásokat.
-
-8899 M.n.s. egyéb szociális ellátás bentlakás nélkül
-
-88991 Pszichiátriai és szenvedélybetegek, valamint hajléktalanok nappali ellátása
-
-889911 Pszichiátriai betegek nappali ellátása
-
-Itt kell megtervezni és elszámolni:
-
-- a saját otthonában élő, fekvőbeteg-gyógyintézeti kezelést nem igénylő, 18. életévét betöltött pszichiátriai betegek intézményi napközbeni ellátásával kapcsolatos bevételeket és kiadásokat.
+[^2]: A 2. melléklet az 5/2012. (III. 1.) NGM rendelet 14. §-a szerint módosított szöveg.
