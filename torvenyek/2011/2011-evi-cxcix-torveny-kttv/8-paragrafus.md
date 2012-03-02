@@ -21,3 +21,5 @@ d) a feladat teljesítésének helye nem szükséges, hogy a közigazgatási sze
 (7) Az országgyűlési, az európai parlamenti, az önkormányzati képviselői és a polgármesteri megbízatás időtartamát – ha e megbízatás megszűnését követően a köztisztviselő ismételten közszolgálati jogviszonyt, illetve a kormánytisztviselő kormányzati szolgálati jogviszonyt létesít – a közszolgálati, illetve kormányzati szolgálati jogviszonyban töltött időnek kell tekinteni.
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
+
+(9) Az (1)–(4) bekezdésben foglalt szabályokat az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.
