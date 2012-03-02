@@ -4,10 +4,7 @@
 
 34. § (1)[^2]
 
-(2) Hatályát veszíti
-
-a) a Magyar Felsőoktatási Akkreditációs Bizottságról szóló 69/2006. (III. 28.) Korm. rendelet, valamint
-
-b) a Felsőoktatási és Tudományos Tanácsról szóló 68/2006. (III. 28.) Korm. rendelet.
+(2)[^3]
 
 [^2]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 34. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
