@@ -8,10 +8,10 @@
 
 ## Elektronikus ügykezelés
 
-5. § (1)[^9] A rendeletben megjelölt nyilvántartásokat – a (2) és (3) bekezdésben foglalt kivétellel – elektronikus úton, az OBH elnöke által jóváhagyott számítógépes program használatával kell vezetni. Egyéb ügyviteli cselekményeket akkor lehet elektronikus úton végezni, ha azt jogszabály megengedi.
+5. § (1)[^10] A rendeletben megjelölt nyilvántartásokat – a (2) és (3) bekezdésben foglalt kivétellel – elektronikus úton, az OBH elnöke által jóváhagyott számítógépes program használatával kell vezetni. Egyéb ügyviteli cselekményeket akkor lehet elektronikus úton végezni, ha azt jogszabály megengedi.
 
 (2) Az átadókönyv, valamint a tanú és a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvényben meghatározott más érintett (a továbbiakban: érintett) adatainak zártan történő kezelésével kapcsolatos nyilvántartások nem vezethetők elektronikus úton.
 
 (3) Az általános meghatalmazások jegyzéke, a választottbírósági határozatok jegyzéke és a Bírósági Gazdasági Hivatal (a továbbiakban: BGH) által vezetett lajstrom elektronikus úton és papír alapon egyaránt vezethető.
 
-[^9]: Az 5. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés f) pontja szerint módosított szöveg.
