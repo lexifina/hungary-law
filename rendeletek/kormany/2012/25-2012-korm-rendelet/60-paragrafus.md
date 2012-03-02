@@ -1,1 +1,3 @@
-## 59. § A Rendelet az 1. mellékletben foglalt 2a. melléklettel egészül ki.
+## 59. §[^4]
+
+[^4]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
