@@ -1,0 +1,3 @@
+## 4. § A Büsz. 61/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Arról, hogy a bejegyzés iránti kérelem és mellékletei a cégbíróság számítógépes rendszerébe informatikai szempontból szabályszerűen megérkeztek, a cégbíróság az adószám megállapításának napján a Ctv. 36. § (1) bekezdése szerinti elektronikus tanúsítványt küld a fél jogi képviselőjének. Ha ez a nap heti pihenőnap, illetve munkaszüneti nap, vagy ha a kérelem hivatali időn kívül érkezett, a cégbíróság az elektronikus tanúsítványt az ezt követő első munkanapon küldi meg. A változásbejegyzés iránti kérelem esetében a cégbíróság a fél jogi képviselőjének a fentiek megfelelő alkalmazásával elektronikus igazolást küld.”
