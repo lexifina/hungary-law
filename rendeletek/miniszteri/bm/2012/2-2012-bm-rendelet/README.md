@@ -1,0 +1,9 @@
+# 2/2012. (III. 1.) BM rendelet
+
+a települési önkormányzatok és a többcélú kistérségi társulások létszámcsökkentési döntéseivel kapcsolatos egyszeri költségvetési támogatás igénylésének, döntési rendszerének, folyósításának és elszámolásának részletes feltételeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-2-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-03-02 | 2012-2-20-0A.1 | 2/2012. (III. 1.) BM rendelet |
