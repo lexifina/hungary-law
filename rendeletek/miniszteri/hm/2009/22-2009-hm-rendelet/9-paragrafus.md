@@ -1,5 +1,0 @@
-## „i) a Hjt. 259. §-ának (6) bekezdés szerinti jogosultságról benyújtott kérelemről.”
-
-## A hivatásos és szerződéses katonai szolgálat létesítéséről, módosításáról, megszüntetéséről, tartalmáról, valamint az integrált személyügyi igazgatás és egységes nyilvántartás rendjéről szóló
-
-## 10/2002. (III. 5.) HM rendelet módosítása

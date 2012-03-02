@@ -1,3 +1,0 @@
-## 9. § A hivatásos és szerződéses katonai szolgálat létesítéséről, módosításáról, megszüntetéséről, tartalmáról, valamint az integrált személyügyi igazgatás és egységes nyilvántartás rendjéről szóló 10/2002. (III. 5.) HM rendelet (a továbbiakban: R4.) 2. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) A munkaidő-kedvezmény 2010-ben irányadó mértékének megállapítása során az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy arra a június 30-ig terjedő időszak vonatkozásában a Hjt. 2010. január 1-jén hatályos 36. § (2) bekezdése alapján január 15-ig, míg július 1-jétől a 2010. december 31-ig terjedő időszak vonatkozásában a Hjt. 2010. július 1-jén hatályos 36. § (2) bekezdése alapján 2010. július 15-ig kerül sor.”
