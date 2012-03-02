@@ -1,6 +1,4 @@
-## 28. § Az R. a következő 15. §-sal egészül ki:
-
-## „15. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a genetikai erőforrások megőrzése intézkedés keretében a védett őshonos és veszélyeztetett mezőgazdasági állatfajták megőrzéséhez nyújtandó támogatások igénybevételének részletes feltételeiről szóló 17/2012. (II. 29.) VM rendelettel (a továbbiakban: 17/2012. (II. 29.) VM rendelet) megállapított 3. § (4) bekezdését a 17/2012. (II. 29.) VM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+## 27–28. §[^1]
 
 1. melléklet a 17/2012. (II. 29.) VM rendelethez
 
@@ -85,3 +83,5 @@
 | 1 | Faj | Fajta |
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
+
+[^1]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
