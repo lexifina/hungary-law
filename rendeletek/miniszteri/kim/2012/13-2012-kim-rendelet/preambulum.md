@@ -1,0 +1,1 @@
+A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 85. § (5) bekezdés d) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
