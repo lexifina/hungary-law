@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-33-20-1
 | --- | --- | --- |
 | 2009-09-01 | 2009-33-20-1U.1 | 33/2009. (VIII. 26.) IRM rendelet |
 | 2012-01-01 | 2009-33-20-1U.2 | 40/2011. (XII. 30.) KIM rendelet |
+| 2012-03-02 | 2009-33-20-1U.3 | 15/2012. (III. 1.) KIM rendelet |
