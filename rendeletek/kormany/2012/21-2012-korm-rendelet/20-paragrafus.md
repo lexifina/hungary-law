@@ -1,0 +1,1 @@
+## „(8) Az iskoláztatási támogatás jogosultja személyének megváltozása nem érinti az iskoláztatási támogatás folyósítása szüneteltetését, kivéve, ha az iskoláztatási támogatásra a Cst. 15. § (2) bekezdése szerinti személy válik jogosulttá.”
