@@ -1,3 +1,5 @@
-## 12. § Hatályát veszti az önhibájukon kívül hátrányos helyzetben lévő önkormányzatok 2011. évi támogatásáról szóló 4/2011. (III. 1.) BM rendelet 5. § (2) bekezdése.
+## 12. §[^2]
 
 1. melléklet a 3/2012. (III. 1.) BM rendelethez
+
+[^2]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
