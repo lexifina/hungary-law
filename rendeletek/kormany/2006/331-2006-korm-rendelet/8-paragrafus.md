@@ -8,7 +8,7 @@ c) a szülői felügyelet megszüntetése vagy visszaállítása,
 
 d) a gyermek örökbefogadásának felbontása,
 
-e) a cselekvőképességet érintő gondnokság alá helyezés és annak megszüntetése,
+e)[^19] a cselekvőképességet érintő gondnokság alá helyezés, annak megszüntetése és felülvizsgálata, valamint ezzel összefüggésben a választójogból való kizárás és a kizárás megszüntetése,
 
 f) a számadási kötelezettség, illetve a számadás helyességének megállapítása
 
@@ -19,3 +19,5 @@ f) a számadási kötelezettség, illetve a számadás helyességének megállap
 a) a gyermek veszélyeztetése vagy a tartás elmulasztása,
 
 b) a gyermek sérelmére elkövetett bűncselekmény
+
+[^19]: A 8. § (1) bekezdés e) pontja a 21/2012. (II. 29.) Korm. rendelet 23. §-ával megállapított szöveg.

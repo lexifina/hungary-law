@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2011-01-01 | 2006-331-20-22.12 | 360/2010. (XII. 30.) Korm. rendelet |
 | 2011-07-01 | 2006-331-20-22.13 | 360/2010. (XII. 30.) Korm. rendelet |
 | 2011-07-27 | 2006-331-20-22.14 | 140/2011. (VII. 21.) Korm. rendelet |
+| 2012-03-03 | 2006-331-20-22.15 | 21/2012. (II. 29.) Korm. rendelet |

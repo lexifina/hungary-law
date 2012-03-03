@@ -26,7 +26,7 @@ i) közreműködik a gyermektartásdíj iránti igény érvényesítésében a n
 
 j) közreműködik a gondozási díj, valamint a megelőlegezett gyermektartásdíj behajtásában,
 
-k)[^11] dönt a családi pótlék természetbeni formában történő nyújtásáról és az iskoláztatási támogatás folyósításának felfüggesztéséről, valamint az ezen ellátások felhasználására kirendelt eseti gondnok elszámolásának elfogadásáról,
+k)[^11] dönt a családi pótlék természetbeni formában történő nyújtásáról és az iskoláztatási támogatás folyósításának felfüggesztéséről, valamint az ezen ellátások felhasználására kirendelt eseti gondnok elszámolásának elfogadásáról, továbbá kezdeményezi a folyósító szervnél az iskoláztatási támogatás szüneteltetését és a szüneteltetés megszüntetését,
 
 l)[^12] megállapítja az óvodáztatási támogatásra való jogosultságot,
 
@@ -35,7 +35,7 @@ m)[^13] ellátja a törvényben vagy kormányrendeletben hatáskörébe utalt eg
 (2)[^14]
 
 [^10]: A 3. § (1) bekezdés c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^11]: A 3. § (1) bekezdés új k) pontját a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése iktatta be, egyidejűleg az eredeti k) pont megjelölését m) pontra változtatta, szövege a 237/2010. (IX. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^11]: A 3. § (1) bekezdés új k) pontját a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése iktatta be, egyidejűleg az eredeti k) pont megjelölését m) pontra változtatta, szövege a 21/2012. (II. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^12]: A 3. § (1) bekezdés l) pontját a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^13]: A 3. § (1) bekezdés eredeti k) pontjának megjelölését m) pontra változtatta a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése.
 [^14]: A 3. § (2) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 54. §-a hatályon kívül helyezte.
