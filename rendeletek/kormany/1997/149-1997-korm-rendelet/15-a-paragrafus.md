@@ -1,6 +1,6 @@
 ## Újrafelvételi eljárás
 
-## 15/A. §[^59] Nincs helye újrafelvételi eljárásnak
+## 15/A. §[^61] Nincs helye újrafelvételi eljárásnak
 
 a) a kiskorú házasságkötésének engedélyezésével,
 
@@ -10,4 +10,4 @@ c) az ideiglenes hatályú elhelyezéssel,
 
 d) az ideiglenes gondnok, zárgondnok kirendelésével
 
-[^59]: A 15/A. §-t és alcímét a 315/2005. (XII. 25.) Korm. rendelet 17. §-a iktatta be.
+[^61]: A 15/A. §-t és alcímét a 315/2005. (XII. 25.) Korm. rendelet 17. §-a iktatta be.

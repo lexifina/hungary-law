@@ -1,54 +1,45 @@
-91/J. §[^433] (1) A jegyző az iskoláztatási támogatás felfüggesztésének szükségességét hivatalból felülvizsgálja
+91/J. §[^439] (1)[^440] A jegyző az iskoláztatási támogatás felfüggesztésének és szüneteltetésének szükségességét hivatalból felülvizsgálja
 
 a) 3 tanítási hónapot magában foglaló időszakonként, azzal, hogy a felülvizsgálattal érintett időszak első napja a közoktatási intézmény igazgatójának 91/G. § (1) bekezdése szerinti jelzése kiállítását követő nap,
 
-b)[^434] a tanév lezárását követő harminc napon belül,
+b)[^441] a tanítási év lezárását követő harminc napon belül,
 
 c) ha a gyermek a másik szülő szülői felügyelete vagy gyámság alá kerül,
 
-d) ha a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították vagy megszüntették,
+d)[^442] – felfüggesztés esetén – ha a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították vagy megszüntették,
 
 e) illetékességváltozás esetén.
 
-(2) A jegyző megszünteti az iskoláztatási támogatás felfüggesztését, ha a gyermek
+(2)[^443] A jegyző megszünteti az iskoláztatási támogatás felfüggesztését, ha a gyermek
 
-a) a felülvizsgálattal érintett időszakban kötelező tanórai foglalkozást igazolatlanul nem mulasztott, vagy
+a) a felülvizsgálattal érintett időszakban kötelező tanórai foglalkozást nem mulasztott igazolatlanul,
 
-b)[^435] tankötelezettsége megszűnt, vagy
+b) ideiglenes hatályú elhelyezésére, nevelésbe vételére, szabadságvesztésének, javítóintézeti nevelésének elrendelésére vagy szociális intézményben történő elhelyezésére került sor,
 
-c)[^436] védelembe vételét ideiglenes hatályú elhelyezése, nevelésbe vétele vagy szabadságvesztésének, javítóintézeti nevelésének elrendelése miatt meg kell szüntetni,
+c) magántanulóvá válik, vagy
 
-d)[^437] magántanulóvá válik.
+d) a felülvizsgálattal érintett időszakban betöltötte a 16. életévét.
 
-(3) Az iskoláztatási támogatás megszüntetésével egyidejűleg a jegyző elrendeli
+(3)[^444] A jegyző a (2) bekezdés a)–c) pontja szerinti esetekben kezdeményezi az iskoláztatási támogatás szüneteltetésének megszüntetését a Magyar Államkincstárnak az iskoláztatási támogatást folyósító területi szervénél.
 
-a) a (2) bekezdés b) pontja szerinti esetben a családtámogatási folyószámlán összegyűlt iskoláztatási támogatásnak egy összegben, a gyermek, fiatal felnőtt számára természetbeni formában történő nyújtását,
+(4)[^445]
 
-b)[^438] a (2) bekezdés c) és d) pontja szerinti esetben a családtámogatási folyószámlán összegyűlt iskoláztatási támogatásnak
+(5)[^446]
 
-ba) gyámhatósági fenntartásos betétben való elhelyezése érdekében a gyámhivatal megkeresését vagy
+(6)[^447]
 
-bb) egy összegben, a gyermek, fiatal felnőtt számára természetbeni formában történő nyújtását.
+(7)[^448]
 
-(4)[^439] A (2) bekezdés b)–d) pontja szerinti esetben a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás felhasználása módjának meghatározásához a jegyző meghallgatja
+(8)[^449]
 
-a) a gyermeket, fiatal felnőttet és
-
-b) a szülőt vagy más törvényes képviselőt, kivéve, ha a gyermek, fiatal felnőtt tankötelezettsége megszűnésekor saját jogán volt jogosult családi pótlékra.
-
-(5) A (3) bekezdés a) pontja és b) pont bb) alpontja szerinti esetben az iskoláztatási támogatás természetbeni formában történő nyújtásának minősül a 91/B. § (7) bekezdésén kívül a gyermek, fiatal felnőtt életkezdését segítő képzés, tanfolyam díjához való hozzájárulás is.
-
-(6) A jegyző a (3) bekezdés a) pontja és b) pont bb) alpontja szerinti esetben a gyermek, fiatal felnőtt számára eseti gondnokot rendel, és rendelkezik a felfüggesztés időtartama alatt a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás teljes összegének az eseti gondnok részére történő kifizetéséről.
-
-(7) Az eseti gondnok a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás kifizetését követő 3 hónapon belül gondoskodik annak a határozatban szereplő módon történő felhasználásáról.
-
-(8)[^440] Az eseti gondnok az iskoláztatási támogatás felhasználását követően nyolc napon belül elszámol a jegyzőnek. A jegyző az eseti gondnokot az elszámolását követően menti fel.
-
-[^433]: A 91/J. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be.
-[^434]: A 91/J. § (1) bekezdés b) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 15. pontja szerint módosított szöveg.
-[^435]: A 91/J. § (2) bekezdés b) pontja a 360/2010. (XII. 30.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
-[^436]: A 91/J. § (2) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 24. § f) pontja szerint módosított szöveg.
-[^437]: A 91/J. § (2) bekezdés d) pontját a 360/2010. (XII. 30.) Korm. rendelet 18. §-a iktatta be.
-[^438]: A 91/J. § (3) bekezdés b) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 22. pontja szerint módosított szöveg.
-[^439]: A 91/J. § (4) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 25. § 23. pontja szerint módosított szöveg.
-[^440]: A 91/J. § (8) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
+[^439]: A 91/J. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be.
+[^440]: A 91/J. § (1) bekezdés nyitó szövegrésze a 21/2012. (II. 29.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.
+[^441]: A 91/J. § (1) bekezdés b) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 15. pontja, a 21/2012. (II. 29.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
+[^442]: A 91/J. § (1) bekezdés d) pontja a 21/2012. (II. 29.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.
+[^443]: A 91/J. § (2) bekezdése a 21/2012. (II. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^444]: A 91/J. § (3) bekezdése a 21/2012. (II. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^445]: A 91/J. § (4) bekezdését a 21/2012. (II. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
+[^446]: A 91/J. § (5) bekezdését a 21/2012. (II. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
+[^447]: A 91/J. § (6) bekezdését a 21/2012. (II. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
+[^448]: A 91/J. § (7) bekezdését a 21/2012. (II. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
+[^449]: A 91/J. § (8) bekezdését a 21/2012. (II. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.

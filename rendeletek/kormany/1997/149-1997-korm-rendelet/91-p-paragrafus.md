@@ -1,6 +1,6 @@
-## Az iskoláztatási támogatás folyósításának felfüggesztése rendszeres gyermekvédelmi kedvezményben részesülő gyermek esetén[^455]
+## Az iskoláztatási támogatás folyósításának felfüggesztése rendszeres gyermekvédelmi kedvezményben részesülő gyermek esetén[^476]
 
-91/P. §[^456] (1)[^457] Rendszeres gyermekvédelmi kedvezményben részesülő gyermek esetén a jegyző a közoktatási intézmény igazgatójának 91/G. § (1) bekezdése szerinti jelzése megérkezését követően haladéktalanul megkeresi a gyermekjóléti szolgálatot, hogy tizenöt napon belül
+91/P. §[^477] (1)[^478] Rendszeres gyermekvédelmi kedvezményben részesülő gyermek esetén a jegyző a közoktatási intézmény igazgatójának 91/G. § (1) bekezdése szerinti jelzése megérkezését követően haladéktalanul megkeresi a gyermekjóléti szolgálatot, hogy tizenöt napon belül
 
 a) vegye fel a kapcsolatot a családdal,
 
@@ -30,7 +30,7 @@ be) szükség esetén a gyermekvédelmi jelzőrendszer bb)–bd) alpont alá nem
 
 a) az iskoláztatási támogatásra jogosult szülő vagy más törvényes képviselő személyazonosító adatait, az iskoláztatási támogatást folyósító szerv megnevezését,
 
-b) az iskoláztatási támogatás felfüggesztésének kezdő időpontját,
+b)[^479]
 
 c) – a pénzfelhasználási terv alapján – a felfüggesztett iskoláztatási támogatás felhasználásának módját,
 
@@ -42,24 +42,32 @@ f) a védelembe vétel elrendelését, ha erre korábban nem került sor,
 
 g) a gyermekjóléti szolgálat és a közoktatási intézmény igazgatójának felkérését a gyermek tankötelezettsége teljesítésének előmozdítására,
 
-h) a felülvizsgálat időpontját,
+h)[^480] a felülvizsgálat tervezett időpontját,
 
 i) a szülő vagy más törvényes képviselő tájékoztatását az igénybe vehető szociális és gyermekvédelmi ellátásokról, támogatásokról, valamint azok igénybevételének módjáról,
 
-j) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy az iskoláztatási támogatás felfüggesztése megszüntetésének feltétele a gyermek tankötelezettségének teljesítése,
+j)[^481] a szülő vagy más törvényes képviselő tájékoztatását arról, hogy
 
-k) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy
+ja) az iskoláztatási támogatás felfüggesztése megszüntetésének feltétele, hogy a gyermek ne mulasszon igazolatlanul kötelező tanórai foglalkozást,
 
-ka) az iskoláztatási támogatás felfüggesztése a döntést követő második hónap első napján kezdődik meg,
+jb) az iskoláztatási támogatás felfüggesztése a döntés jogerőre emelkedését követő hónaptól kezdődik,
 
-kb) az iskoláztatási támogatás felfüggesztésének megszüntetése esetén a megszüntetést követő második hónapra járó iskoláztatási támogatás kerül ismételten a jogosult számára folyósításra,
+jc) az iskoláztatási támogatás felfüggesztésének megszüntetése esetén a döntés jogerőre emelkedését követő hónapra járó iskoláztatási támogatás kerül ismételten a jogosult számára folyósításra,
 
-l)[^458] a 17. életévét betöltött gyermek és szülője vagy más törvényes képviselője tájékoztatását a védelembe vétel nagykorúvá válást követő meghosszabbodásának a Gyvt. 69. § (4) bekezdése szerinti esetéről.
+jd) ha a gyermek a 16. életévének betöltését megelőző utolsó felülvizsgálat és az azt követő első felülvizsgálat közötti időtartamban igazolatlanul mulasztott kötelező tanórai foglalkozást, az iskoláztatási támogatás szüneteltetésének van helye.
 
-(5)[^459] A jegyző a családtámogatási folyószámlára érkező iskoláztatási támogatást havonta, a családtámogatási folyószámlára történő átutalását követően legkésőbb nyolc napon belül kifizeti az eseti gondnoknak.
+k)[^482]
 
-[^455]: A 91/P. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
-[^456]: A 91/P. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
-[^457]: A 91/P. § (1) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.
-[^458]: A 91/P. § (4) bekezdés l) pontját a 360/2010. (XII. 30.) Korm. rendelet 20. §-a iktatta be.
-[^459]: A 91/P. § (5) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
+l)[^483]
+
+(5)[^484] A jegyző a családtámogatási folyószámlára érkező iskoláztatási támogatást havonta, a családtámogatási folyószámlára történő átutalását követően legkésőbb nyolc napon belül kifizeti az eseti gondnoknak.
+
+[^476]: A 91/P. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
+[^477]: A 91/P. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
+[^478]: A 91/P. § (1) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.
+[^479]: A 91/P. § (4) bekezdés b) pontját a 21/2012. (II. 29.) Korm. rendelet 16. § e) pontja hatályon kívül helyezte.
+[^480]: A 91/P. § (4) bekezdés h) pontja a 21/2012. (II. 29.) Komr. rendelet 17. § m) pontja szerint módosított szöveg.
+[^481]: A 91/P. § (4) bekezdés j) pontja a 21/2012. (II. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^482]: A 91/P. § (4) bekezdés k) pontját a 21/2012. (II. 29.) Korm. rendelet 16. § e) pontja hatályon kívül helyezte.
+[^483]: A 91/P. § (4) bekezdés l) pontját a 360/2010. (XII. 30.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 21/2012. (II. 29.) Korm. rendelet 16. § e) pontja.
+[^484]: A 91/P. § (5) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.

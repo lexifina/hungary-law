@@ -1,4 +1,4 @@
-91/C. §[^403] (1)[^404] A jegyző a családi pótlék természetbeni formában történő nyújtásának indokoltságát felülvizsgálja
+91/C. §[^407] (1)[^408] A jegyző a családi pótlék természetbeni formában történő nyújtásának indokoltságát felülvizsgálja
 
 a) hivatalból, ha
 
@@ -14,16 +14,16 @@ b) a szülő vagy más törvényes képviselő kérelmére, ha a szülő vagy m�
 
 (3) A felülvizsgálat eredményéről szóló határozatban a 14. §-ban foglaltakon kívül rendelkezni kell
 
-a)[^405] a családi pótlék természetbeni formában – változatlan időtartamban és módon – történő további nyújtásáról, vagy
+a)[^409] a családi pótlék természetbeni formában – változatlan időtartamban és módon – történő további nyújtásáról, vagy
 
-b)[^406] a családi pótlék természetbeni formában történő nyújtása időtartamának, módjának, illetve az eseti gondnok személyének megváltoztatásáról, vagy
+b)[^410] a családi pótlék természetbeni formában történő nyújtása időtartamának, módjának, illetve az eseti gondnok személyének megváltoztatásáról, vagy
 
 c) a családi pótlék természetbeni formában történő nyújtásának megszüntetéséről.
 
-(4)[^407] Ha a felülvizsgálat során a családi pótlék természetbeni formában történő nyújtása időtartamának megváltoztatásáról vagy a családi pótlék természetbeni formában történő nyújtásának megszüntetéséről születik döntés, a jegyző a jogerősítési záradékkal ellátott határozatot a jogerőre emelkedést követő nyolc napon belül közli a Magyar Államkincstárnak a családi pótlékot folyósító területi szervével.
+(4)[^411] Ha a felülvizsgálat során a családi pótlék természetbeni formában történő nyújtása időtartamának megváltoztatásáról vagy a családi pótlék természetbeni formában történő nyújtásának megszüntetéséről születik döntés, a jegyző a jogerősítési záradékkal ellátott határozatot a jogerőre emelkedést követő nyolc napon belül közli a Magyar Államkincstárnak a családi pótlékot folyósító területi szervével.
 
-[^403]: A 91/C. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^404]: A 91/C. § (1) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^405]: A 91/C. § (3) bekezdés a) pontja a 237/2010. (IX. 13.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
-[^406]: A 91/C. § (3) bekezdés b) pontja a 237/2010. (IX. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
-[^407]: A 91/C. § (4) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 16. § h) pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja, a 113/2011. (VII. 7.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^407]: A 91/C. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^408]: A 91/C. § (1) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^409]: A 91/C. § (3) bekezdés a) pontja a 237/2010. (IX. 13.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
+[^410]: A 91/C. § (3) bekezdés b) pontja a 237/2010. (IX. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^411]: A 91/C. § (4) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 16. § h) pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja, a 113/2011. (VII. 7.) Korm. rendelet 7. §-a szerint módosított szöveg.

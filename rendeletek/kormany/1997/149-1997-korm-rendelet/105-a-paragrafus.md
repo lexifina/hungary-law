@@ -1,14 +1,24 @@
-## A gondozási hely megváltoztatása, a tartózkodási hely megállapítása[^521]
+## A gondozási hely megváltoztatása, a tartózkodási hely megállapítása[^552]
 
-105/A. §[^522] (1) A gyámhivatal a gyermek gondozási helyét kérelemre, valamint a nevelésbe vétel évenkénti – a 3 éven aluli gyermek esetében félévenkénti – felülvizsgálata során hivatalból megváltoztathatja. A gyámhivatal a kérelemre indult eljárást felülvizsgálatnak minősítheti.
+105/A. §[^553] (1) A gyámhivatal a gyermek gondozási helyét kérelemre, valamint a nevelésbe vétel évenkénti – a 3 éven aluli gyermek esetében félévenkénti – felülvizsgálata során hivatalból megváltoztathatja. A gyámhivatal a kérelemre indult eljárást felülvizsgálatnak minősítheti.
 
 (2) A gondozási hely megváltoztatását kérheti a gyermek, a szülő, a gyermek gyámja, gondozója, a nevelőszülői hálózat működtetője, valamint kezdeményezheti a gyermekjogi képviselő és a területi gyermekvédelmi szakszolgálat.
 
 (3) A gyámhivatal a gondozási hely megváltoztatásához javaslatot kér a gyermekvédelmi szakszolgálattól azzal, hogy vizsgálata során véleményezze – a Gyvt. 83. §-ának (3)–(4) bekezdése figyelembevételével – a gyermek gondozási helyét is.
 
-(4)[^523] A gondozási hely megváltoztatásának minősül, ha a gyermek gondozása a gyermekotthonnak a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 163. §-a szerinti önálló szakmai egységétől eltérő másik önálló szakmai egységében történik.
+(4)[^554] A gondozási hely megváltoztatásának minősül, ha a gyermek gondozása a korábban meghatározottól eltérő
 
-(4a)[^524] Nem minősül a gondozási hely megváltoztatásának
+a) nevelőszülőnél,
+
+b) gyermekotthonban (lakásotthonban),
+
+c) gyermekotthoni önálló szakmai egységben, telephelyen,
+
+d) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény hatálya alá tartozó fogyatékosok vagy pszichiátriai betegek otthonában, fogyatékos személyek ápoló-gondozó célú lakóotthonában
+
+történik.
+
+(4a)[^555] Nem minősül a gondozási hely megváltoztatásának
 
 a) a fenntartó személyében történő változás,
 
@@ -18,13 +28,13 @@ c) a tanítási szünet ideje alatt a gondozási helytől eltérő helyen tartó
 
 (5) Az új gondozási hely meghatározása során a gyámhivatal a 103–105. §-ban foglaltak szerint jár el.
 
-(6)[^525] A határozat az átmeneti nevelésbe vett gyermek esetében a 102. §-ban, a tartós nevelésbe vett gyermek esetében a 112. §-ban foglaltakat tartalmazza. A gondozási hely megváltoztatásáról a szóló határozatot a gyámhivatal közli a 102. § (4) bekezdésében foglalt szervekkel, személyekkel.
+(6)[^556] A határozat az átmeneti nevelésbe vett gyermek esetében a 102. §-ban, a tartós nevelésbe vett gyermek esetében a 112. §-ban foglaltakat tartalmazza. A gondozási hely megváltoztatásáról a szóló határozatot a gyámhivatal közli a 102. § (4) bekezdésében foglalt szervekkel, személyekkel.
 
-(7)[^526] A gondozási hely megváltoztatása során hozott határozat gyámváltozás esetén a (6) bekezdésben foglaltakon túl tartalmazza a felmentett vagyonkezelő gyám felhívását, hogy végszámadását a vagyonkezelői joga megszűnését követő 15 napon belül terjessze elő.
+(7)[^557] A gondozási hely megváltoztatása során hozott határozat gyámváltozás esetén a (6) bekezdésben foglaltakon túl tartalmazza a felmentett vagyonkezelő gyám felhívását, hogy végszámadását a vagyonkezelői joga megszűnését követő 15 napon belül terjessze elő.
 
-(7a)[^527] A gondozási hely megváltoztatásáról hozott határozat a (6) bekezdésben foglaltakon túl tartalmazza a korábbi gondozási hely vezetőjének (nevelőszülő, gyermekotthon vezető, fogyatékosok vagy pszichiátriai betegek otthonának vezetője) felhívását, hogy a családi pótlék iránti igény lemondását a gondozási, ellátási hely megváltozását követő 15 napon belül terjessze elő.
+(7a)[^558] A gondozási hely megváltoztatásáról hozott határozat a (6) bekezdésben foglaltakon túl tartalmazza a korábbi gondozási hely vezetőjének (nevelőszülő, gyermekotthon vezető, fogyatékosok vagy pszichiátriai betegek otthonának vezetője) felhívását, hogy a családi pótlék iránti igény lemondását a gondozási, ellátási hely megváltozását követő 15 napon belül terjessze elő.
 
-(7b)[^528] A tartózkodási hely Gyvt. 83. § (6) bekezdés d) pontja szerinti okból vagy annak megszűnéséből eredő kijelölésének vagy megváltozásának megállapításakor a gyámhivatal felhívja
+(7b)[^559] A tartózkodási hely Gyvt. 83. § (6) bekezdés d) pontja szerinti okból vagy annak megszűnéséből eredő kijelölésének vagy megváltozásának megállapításakor a gyámhivatal felhívja
 
 a) a javítóintézetben nevelt, vagy ott 30 napot meghaladóan előzetesen fogva tartott gyermek esetében a javítóintézet vezetőjét,
 
@@ -38,14 +48,14 @@ a gyermek után járó családi pótlék 15 napon belül történő igénylésé
 
 (10) A gyermek tartózkodási helye kijelölésére, illetve megváltoztatására irányuló gyámi kérelem elbírálásához a gyámhivatal előzetes véleményt kér a területi gyermekvédelmi szakszolgálattól [Gyvt. 83. § (8) bek.].
 
-(11)[^529] Ha a gondozási hely megváltoztatása során az illetékes gyermekvédelmi szakszolgálatok között vita merül fel, a gyámhivatal a gyermekvédelmi szakszolgálatok gondozási helyre tett javaslata, valamint a fenntartók véleménye alapján, a 103–105. §-ban foglaltak szerint dönt a gondozási hely fenntartásáról vagy megváltoztatásáról.
+(11)[^560] Ha a gondozási hely megváltoztatása során az illetékes gyermekvédelmi szakszolgálatok között vita merül fel, a gyámhivatal a gyermekvédelmi szakszolgálatok gondozási helyre tett javaslata, valamint a fenntartók véleménye alapján, a 103–105. §-ban foglaltak szerint dönt a gondozási hely fenntartásáról vagy megváltoztatásáról.
 
-[^521]: A 105/A. §-t megelőző alcím a 334/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^522]: A 105/A. §-t a 14/2003. (II. 12.) Korm. rendelet 65. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^523]: A 105/A. § (4) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 78. § (4) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 334/2011. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^524]: A 105/A. § (4a) bekezdését a 334/2011. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^525]: A 105/A. § (6) bekezdése a 203/2003. (XII. 10.) Korm. rendelet 7. §-a, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 46. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^526]: A 105/A. § (7) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^527]: A 105/A. § (7a) bekezdését a 334/2011. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^528]: A 105/A. § (7b) bekezdését a 334/2011. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^529]: A 105. § (11) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 58. §-a iktatta be.
+[^552]: A 105/A. §-t megelőző alcím a 334/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^553]: A 105/A. §-t a 14/2003. (II. 12.) Korm. rendelet 65. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^554]: A 105/A. § (4) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 78. § (4) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 334/2011. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^555]: A 105/A. § (4a) bekezdését a 334/2011. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^556]: A 105/A. § (6) bekezdése a 203/2003. (XII. 10.) Korm. rendelet 7. §-a, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 46. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^557]: A 105/A. § (7) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^558]: A 105/A. § (7a) bekezdését a 334/2011. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^559]: A 105/A. § (7b) bekezdését a 334/2011. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^560]: A 105. § (11) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 58. §-a iktatta be.

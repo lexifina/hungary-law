@@ -4,6 +4,6 @@
 
 (3) A gondozási díjhátralék elévülés miatt történő törlése a jegyző feladata.
 
-(4)[^561] A gyámhivatal tartási kötelezettség elmulasztásának vétsége miatt feljelentést tesz az ellen, aki a megállapított gondozási díjfizetési kötelezettségét önhibájából nem teljesíti [Btk. 196. §].
+(4)[^592] A gyámhivatal tartási kötelezettség elmulasztásának vétsége miatt feljelentést tesz az ellen, aki a megállapított gondozási díjfizetési kötelezettségét önhibájából nem teljesíti [Btk. 196. §].
 
-[^561]: A 118. § (4) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 78. § (6) bekezdésének 17. pontja szerint módosított szöveg.
+[^592]: A 118. § (4) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 78. § (6) bekezdésének 17. pontja szerint módosított szöveg.

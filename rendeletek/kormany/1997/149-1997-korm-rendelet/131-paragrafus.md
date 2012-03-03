@@ -1,6 +1,6 @@
 ## A gondnok kirendelése
 
-131. §[^601] (1) A gondnokrendelés előtt a gyámhivatal megvizsgálja
+131. §[^633] (1) A gondnokrendelés előtt a gyámhivatal megvizsgálja
 
 a) a gondnokrendelés okát,
 
@@ -16,4 +16,4 @@ e) van-e vagyona a gondnokrendeléssel érintett személynek.
 
 (3) A gyámhivatal a Gyvt. 128. §-ával meghatározott személyeken kívül meghallgatja – ha mentális állapota lehetővé teszi – a gondnokság alá helyezéssel érintett személyt, valamint a gondnoki tisztség ellátását vállaló személyt.
 
-[^601]: A 131. § a 262/2001. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^633]: A 131. § a 262/2001. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.

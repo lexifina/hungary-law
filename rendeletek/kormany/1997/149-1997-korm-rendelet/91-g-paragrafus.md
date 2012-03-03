@@ -1,18 +1,23 @@
-91/G. §[^425] (1) A közoktatási intézmény igazgatója jelzi a védelembe vételi eljárás lefolytatására illetékes jegyzőnek, ha a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma az adott tanévben elérte az ötvenet. A jelzéssel egyidejűleg a közoktatási intézmény igazgatója megküldi a jegyzőnek a tankötelezettség nem teljesítésének okait és a tankötelezettség teljesítésének előmozdítására vonatkozó javaslatát tartalmazó írásbeli véleményét.
+91/G. §[^430] (1) A közoktatási intézmény igazgatója jelzi a védelembe vételi eljárás lefolytatására illetékes jegyzőnek, ha a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma az adott tanítási évben elérte az ötvenet. A jelzéssel egyidejűleg a közoktatási intézmény igazgatója megküldi a jegyzőnek a tankötelezettség, iskolalátogatási kötelezettség nem teljesítésének okait és a tankötelezettség, iskolalátogatási kötelezettség teljesítésének előmozdítására vonatkozó javaslatát tartalmazó írásbeli véleményét.
 
-(2)[^426] A jegyző a közoktatási intézmény igazgatójának jelzése alapján – függetlenül attól, hogy a 91/F. § szerinti tájékoztatásra sor került-e –
+(2) A jegyző a közoktatási intézmény igazgatójának (1) bekezdés szerinti jelzése alapján
 
-a) nevelőszülőnél vagy gyermekotthonban elhelyezett gyermek esetén megküldi a közoktatási intézmény jelzését és írásbeli véleményét a gyermekvédelmi szakszolgálat számára a gyámi tevékenység szakmai segítése, ellenőrzése érdekében,
+a) nevelőszülőnél vagy gyermekotthonban elhelyezett gyermek esetén megküldi a közoktatási intézmény jelzését és írásbeli véleményét a gyermekvédelmi szakszolgálat számára a gyám tájékoztatása és a gyámi tevékenység szakmai segítése, ellenőrzése érdekében,
 
-b) az a) pont alá nem tartozó esetben az iskoláztatási támogatás felfüggesztése és védelembe nem vett gyermek esetén a gyermek védelembe vétele iránt hivatalból megindítja az eljárást. Az eljárásban huszonegy napon belül kell döntést hozni.
+b) az a) pont alá nem tartozó esetben, ha a gyermek a 91/F. § szerinti végzés meghozataláig, annak hiányában az (1) bekezdés szerinti jelzés beérkeztéig
 
-(3) A jegyző az iskoláztatási támogatás felfüggesztését határozatlan időre rendeli el. A határozatban az iskoláztatási támogatás felfüggesztésének kezdő időpontjaként a döntést követő második hónap első napját kell megjelölni.
+ba) a 16. életévét nem töltötte be, hivatalból megindítja az eljárást az iskoláztatási támogatás felfüggesztése, valamint a védelembe nem vett gyermek védelembe vétele iránt,
 
-(4) Az iskoláztatási támogatás felfüggesztésének időtartama alatt a gyermek után járó iskoláztatási támogatást – az (5) bekezdésben foglalt kivétellel – a családtámogatási folyószámlán kell gyűjteni.
+bb) a 16. életévét betöltötte, döntés kibocsátása nélkül kezdeményezi a Magyar Államkincstárnak az iskoláztatási támogatást folyósító területi szervénél az iskoláztatási támogatás szüneteltetését elrendelő eljárás megindítását.
 
-(5) Ha az iskoláztatási támogatást rendszeres gyermekvédelmi kedvezményben részesülő gyermekre tekintettel állapították meg, a felfüggesztés időtartama alatt az iskoláztatási támogatás teljes összegét természetbeni formában kell a gyermek számára nyújtani.
+(3) A (2) bekezdés szerinti intézkedéseket 15 napon belül kell megtenni.
 
-(6) A felfüggesztés megszüntetését követően a felfüggesztés időtartama alatt a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás teljes összegét – a felfüggesztés időtartamával megegyező számú hónapra elosztva – havi részletekben, természetbeni formában kell a gyermek számára nyújtani.
+(4) A jegyző az iskoláztatási támogatás felfüggesztését határozatlan időre, legfeljebb azonban a gyermek 16. életévének betöltését követő első felülvizsgálatig rendeli el. A felfüggesztés a döntés jogerőre emelkedését követő hónap első napjától kezdődik.
 
-[^425]: A 91/G. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be.
-[^426]: A 91/G. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+(5) A felfüggesztés megszüntetését követően – ha e rendelet eltérően nem rendelkezik – a felfüggesztés időtartama alatt a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás teljes összegét – a felfüggesztés időtartamával megegyező számú hónapra elosztva – havi részletekben, természetbeni formában kell a gyermek számára nyújtani.
+
+(6) Ha a gyermek ideiglenes hatályú elhelyezésére, nevelésbe vételére, szabadságvesztésének, javítóintézeti nevelésének elrendelésére vagy szociális intézményben történő elhelyezésére kerül sor, a családtámogatási folyószámlán összegyűlt összeget a gyermek gyámi fenntartásos betétjébe kell elhelyezni.
+
+(7) Ha a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma a 16. életévének betöltését megelőző utolsó felülvizsgálat és az azt követő első felülvizsgálat közötti időtartamban eléri a tízet, a családtámogatási folyószámlán összegyűlt összeget a központi költségvetés családi pótlék előirányzat javára vissza kell fizetni.
+
+[^430]: A 91/G. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
