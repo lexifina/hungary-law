@@ -1,3 +1,5 @@
-## 21. § Hatályát veszti az önkormányzati feladatellátást szolgáló fejlesztésekhez kapcsolódó központosított előirányzatból származó támogatás igénybevételének részletes feltételeiről szóló 7/2011. (III. 9.) BM rendelet 9. § (1) bekezdése.
+## 21. §[^1]
 
 1. melléklet a 4/2012. (III. 1.) BM rendelethez
+
+[^1]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
