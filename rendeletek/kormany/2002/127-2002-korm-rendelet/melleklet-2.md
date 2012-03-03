@@ -1,12 +1,20 @@
-## Adatlap a közhasznú szervezet Gyvt. 69/A. § (2) bekezdés a) és b) pontja szerinti tevékenységéről
+## Adatlap
+
+## a közhasznú szervezet Gyvt. 69/A. § (2) bekezdés a) és b) pontja szerinti tevékenységéről
 
 ## (A működést engedélyező szerv számára továbbítandó adatok)
 
 ## A) adatlap
 
+## A közhasznú szervezet neve:
+
 ## Összesítő adatlap
 
-## 1. A tárgyévben a közhasznú szervezettől segítséget kérő válsághelyzetben lévő várandós anyák, vér szerinti anyák száma:
+## 1. A tárgyévben a közhasznú szervezettől segítséget kérő válsághelyzetben lévő
+
+## – várandós anyák száma:
+
+## – vér szerinti anyák száma:
 
 ## Segítséget kérő anyák és apák száma, ha együtt kértek segítséget:
 
@@ -18,7 +26,7 @@
 
 ## 4. A tárgyévben családok átmeneti otthonába elhelyezéshez segített gyermekek száma:
 
-## 5. Gyermekvédelmi gondoskodásba utalt gyermekek száma:
+## 5. Gyermekvédelmi gondoskodásba vett gyermekek száma:
 
 ## 6. Hány esetben döntött úgy a vér szerinti szülő, hogy a titkos örökbefogadást választja:
 
@@ -26,43 +34,47 @@
 
 ## B) Adatlap
 
+## A közhasznú szervezet neve:
+
 ## A tárgyévben családjába gondozott gyermekekről gyermekenként kitöltendő adatok
 
-| 1. Az anya a gyermek születése előtt kért-e segítséget, ha igen mennyi idővel: |
+## Az anya a gyermek születése előtt kért-e segítséget, ha igen mennyi idővel:
 
-| 2. Az anya életkora a szüléskor: |
+## Az anya életkora a szüléskor:
 
-| 3. Az anya titkolta-e terhességét, ha igen ki elől és miért: |
+## Az anya titkolta-e terhességét, ha igen ki elől és miért:
 
-| 4. Az anya családi állapota: |
+## Az anya családi állapota:
 
-| 5. Az anya nevezett-e meg apát: |
+## Az anya nevezett-e meg apát:
 
-| 6. Az apa támogatja-e az anyát, együtt él-e vele: |
+## Az apa támogatja-e az anyát, együtt él-e vele:
 
-| 7. Mi volt a válság oka: |
+## Mi volt a válság oka:
 
-| 8. Mi segített a gyermek nevelésének vállalásában: |
+## Mi segített a gyermek nevelésének vállalásában:
 
 ## C) Adatlap
 
+## A közhasznú szervezet neve:
+
 ## A tárgyévben családok átmeneti otthonába elhelyezett gyermekekről gyermekenként kitöltendő adatok
 
-| 1. Az anya a gyermek születése előtt kért-e segítséget, ha igen mennyi idővel: |
+## Az anya a gyermek születése előtt kért-e segítséget, ha igen mennyi idővel:
 
-| 2. Az anya életkora a szüléskor:……. |
+## Az anya életkora a szüléskor:…….
 
-| 3. Az anya titkolta-e terhességét, ha igen ki elől és miért: |
+## Az anya titkolta-e terhességét, ha igen ki elől és miért:
 
-| 4. Az anya családi állapota: |
+## Az anya családi állapota:
 
-| 5. Az anya nevezett-e meg apát: |
+## Az anya nevezett-e meg apát:
 
-| 6. Az apa támogatja-e az anyát, együtt él-e vele: |
+## Az apa támogatja-e az anyát, együtt él-e vele:
 
-| 7. Mi volt a válság oka: |
+## Mi volt a válság oka:
 
-| 8. Mi segített a gyermek nevelésének vállalásában: |
+## Mi segített a gyermek nevelésének vállalásában:
 
 2. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^25]
 

@@ -2,9 +2,11 @@
 
 ## (Az országos örökbefogadási nyilvántartást vezető szerv részére küldendő adatok)
 
-## A) A gyermek örökbefogadás előtti személyi adatai és az örökbefogadás előkészítésére vonatkozó adatok
+## A nyílt örökbefogadást közvetítő közhasznú szervezet neve:
 
-## Név:
+## 1. A gyermek örökbefogadás előtti személyi adatai és az örökbefogadás előkészítésére vonatkozó adatok
+
+## Gyermek neve:
 
 ## Születési helye:
 
@@ -12,23 +14,27 @@
 
 ## Neme:
 
-## Anyja neve:
+## Anyja neve*:
 
-## Apja neve.
+## Apja neve*:
 
-## Törvényes képviselője.
+## Törvényes képviselője (amennyiben az örökbefogadás előtt nem a szülők a törvényes képviselők):
 
-## Állampolgársága:
+## A törvényes képviselő hozzátartozója-e a gyermeknek? igen nem
 
-## Lakóhelye:
+## A gyermek állampolgársága:
 
-## Tartózkodási helye:
+## A gyermek lakóhelye (csak a település neve):
+
+## A gyermek tartózkodási helye (csak a település neve):
+
+## A gyermek örökbefogadó családba helyezése előtti tényleges tartózkodási helye: (kórház megnevezése, családok átmeneti otthonának megnevezése, szülő háztartása, családbafogadó gyám háztartása, egyéb):
 
 ## Testvéreinek száma:
 
 ## A gyermek egészségi állapota, fejlődése:
 
-## Az örökbefogadó szülő nyilvántartásba vételének ideje:
+## Az örökbe fogadó szülő nyilvántartásba vételének ideje:
 
 ## A vér szerinti szülők gyermekük nyílt örökbefogadásához a gyámhivatal előtt tett hozzájárulásának időpontja:
 
@@ -36,161 +42,181 @@
 
 ## A gyermek kötelező gondozási időre történő kihelyezésének időpontja:
 
-## B) Az örökbe adott gyermek vér szerinti szüleinek adatai:
+## 2. Az örökbe adott gyermek vér szerinti szüleinek adatai
 
-## A szülő segítségkérésének ideje:
+## a) A vér szerinti anyára vonatkozó adatok, információk:
 
-## Ba) A vér szerinti anyára vonatkozó adatok:
+## Milyen segítséggel tudta volna nevelni gyermekét?
 
-## Mikor kért először segítséget a közhasznú szervezettől:
+## Mikor kért először segítséget?
 
-| Név: |
+## Kért-e más szerv(ek)től segítséget? igen – nem – nem nyilatkozott**
 
-| Születési idő: |
+## Ha igen, mely szerv(ek)től?
 
-| Állampolgársága: |
+## Anya neve*
 
-| Lakóhelye: |
+## Születési ideje:
 
-| Tartózkodási helye: |
+## Állampolgársága:
 
-| Iskolai végzettsége ……………………………. – nem nyilatkozott* |
+## Lakóhelye (csak a település neve):
 
-| Foglalkozása:…………………………………...- nem nyilatkozott* |
+## Tartózkodási helye (csak a település neve):
 
-| Egészségi állapota: |
+## Iskolai végzettsége ……………………………. – nem nyilatkozott**
 
-| Gondnokság alatt áll: | igen – nem* |
+## Foglalkozása:…………………………………... – nem nyilatkozott**
 
-| Titkolt terhesség volt-e? | igen – nem – nem nyilatkozott* |
+## Egészségi állapota:
 
-| Ha igen, annak okai: ………………………………………………………………………………… ……………………………………………………………………………………… - nem nyilatkozott* |
+| Gondnokság alatt áll: | igen – nem** |
 
-| Családja előtt titkolta-e terhességét: igen – nem – nem nyilatkozott* |
+## Titkolt terhesség volt-e? igen – nem – nem nyilatkozott**
 
-| Tágabb környezete előtt titkolta-e terhességét igen – nem – nem nyilatkozott* |
+## Ha igen, annak okai:
 
-| Az örökbeadás okai: ……………………………………………………………………………………… ………………………………………………………………………………………- nem nyilatkozott* |
+## ………………………………………………… – nem nyilatkozott**
 
-| Az örökbeadott gyermek hányadik gyermeke:…………………………… nem nyilatkozott* |
+## Családja előtt titkolta-e terhességét: igen – nem – nem nyilatkozott**
 
-| Családi helyzete: |
+## Tágabb környezete előtt titkolta-e terhességét: igen – nem – nem nyilatkozott**
 
-| Családi állapota: egyedülálló, házas, élettársi kapcsolatban él – nem nyilatkozott* |
+## Az örökbeadás okai:
 
-| Közös háztartásban élő rokonok (rokonsági fok szerint): …………………………………………………… …………………………………………………………………………………………………………- nem nyilatkozott* |
+## ………………………………………………… – nem nyilatkozott**
 
-| Közös háztartásban élő egyéb személyek: |
+## Az örökbe adott gyermek hányadik gyermeke:…………………………… – nem nyilatkozott**
 
-| ………………………………………………………………………………………………………………… ……………………………………………- nem nyilatkozott* |
+## Családi helyzete:
 
-| A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem- nem nyilatkozott* |
+## Családi állapota: egyedülálló, házas, élettársi, bejegyzett élettársi kapcsolatban él – nem nyilatkozott**
 
-| Ha igen, kinek:…………………………………………….. – nem nyilatkozott* |
+## Közös háztartásban élő rokonok (rokonsági fok szerint):
 
-| Gyermekeinek száma: | örökbeadott: |
+## ……………………………………… – nem nyilatkozott**
 
-| más által nevelt: |
+## Közös háztartásban élő egyéb személyek:
 
-| általa nevelt: |
+## ……………………………………… – nem nyilatkozott**
 
-| - nem nyilatkozott* |
+## A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem – nem nyilatkozott**
 
-| Vagyoni helyzetére vonatkozó adatok: |
+## Ha igen, kinek:…………………………………………….. – nem nyilatkozott**
 
-| Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona, |
+| Gyermekeinek száma: | örökbe adott: |
 
-| albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott* |
+|  | más által nevelt: |
 
-| Jövedelmi helyzete: | havi jövedelmének összege:..................Ft, - nem nyilatkozott* |
+|  | általa nevelt: |
 
-| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott* |
+|  | nem nyilatkozott** |
 
-| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott* |
+## Vagyoni helyzetére vonatkozó adatok:
 
-| Jövedelemszerző tevékenységének formája: |
+## Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona,
 
-| Állandó, alkalmi, idénymunka – nem nyilatkozott* |
+## albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott**
 
-| Tanul: | igen –nem –nem nyilatkozott* |
+## Jövedelmi helyzete: havi jövedelmének összege:..................Ft, – nem nyilatkozott**
 
-| Általa eltartottak száma:…………fő - nem nyilatkozott* |
+| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott** |
 
-| A gyermek születését követően jogosult lenne-e gyermekgondozási díjra: |
+| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott** |
 
-|  | igen – nem – nem nyilatkozott* |
+## Jövedelemszerző tevékenységének formája:
 
-| Bb) A vér szerinti apára vonatkozó adatok |
+## Állandó, alkalmi, idénymunka – nem nyilatkozott**
 
-| Mikor kért először segítséget a közhasznú szervezettől: |
+## Tanul: igen – nem – nem nyilatkozott**
 
-| Név: |
+## Általa eltartottak száma:…………fő – nem nyilatkozott**
 
-| Születési idő: |
+## A gyermek születését követően jogosult lenne-e gyermekgondozási díjra:
 
-| Állampolgársága: |
+## igen – nem – nem nyilatkozott**
 
-| Lakóhelye: | megye: |
+## b) A vér szerinti apára vonatkozó adatok, információk
 
-| Tartózkodási helye: | megye: |
+## Mikor kért először segítséget?
 
-| Iskolai végzettsége ……………………………. – nem nyilatkozott* |
+## Kért-e más szerv(ek)től segítséget? igen – nem – nem nyilatkozott**
 
-| Foglalkozása:…………………………………...- nem nyilatkozott* |
+## Ha igen, mely szerv(ek)től?..........................................................
 
-| Egészségi állapota: |
+## Milyen segítséggel tudta volna nevelni gyermekét?
 
-| Gondnokság alatt áll: | igen – nem* |
+## Apa neve*:
 
-| Családi helyzete: |
+## Születési idő:
 
-| Családi állapota: egyedülálló, házas, élettársi kapcsolatban él – nem nyilatkozott* |
+## Állampolgársága:
 
-| A gyermek anyjával együtt él-e: igen – nem – nem nyilatkozott* |
+## Lakóhelye (csak a település neve):
 
-| Közös háztartásban élő rokonok (rokonsági fok szerint): :………………………………………………………………………………………………………………… ……………………………………………- nem nyilatkozott* |
+## Tartózkodási helye (csak a település neve):
 
-| Közös háztartásban élő egyéb személyek: |
+## Iskolai végzettsége ……………………………. – nem nyilatkozott**
 
-| ………………………………………………………………………………………………………………… ……………………………………………- nem nyilatkozott* |
+## Foglalkozása:…………………………………... – nem nyilatkozott**
 
-| A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem- nem nyilatkozott* |
+## Egészségi állapota:
 
-| Ha igen, kinek:…………………………………………….. – nem nyilatkozott* |
+| Gondnokság alatt áll: | igen – nem** |
 
-| Gyermekeinek száma: | örökbeadott: |
+## Családi helyzete:
 
-| más által nevelt: |
+## Családi állapota: egyedülálló, házas, élettársi, bejegyzett élettársi kapcsolatban él – nem nyilatkozott**
 
-| általa nevelt: |
+## A gyermek anyjával együtt él-e: igen – nem – nem nyilatkozott**
 
-| - nem nyilatkozott* |
+## Közös háztartásban élő rokonok (rokonsági fok szerint):
 
-| Vagyoni helyzetére vonatkozó adatok: |
+## …………………………………………– nem nyilatkozott**
 
-| Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona, |
+## Közös háztartásban élő egyéb személyek:
 
-| albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott* |
+## …………………………………………– nem nyilatkozott**
 
-| Jövedelmi helyzete: | havi jövedelmének összege:..................Ft, - nem nyilatkozott* |
+## A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem – nem nyilatkozott**
 
-| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott* |
+## Ha igen, kinek:…………………………………………….. – nem – nem nyilatkozott**
 
-| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott* |
+| Gyermekeinek száma: | örökbe adott: |
 
-| Jövedelemszerző tevékenységének formája: |
+|  | más által nevelt: |
 
-| Állandó, alkalmi, idénymunka – nem nyilatkozott* |
+|  | általa nevelt: |
 
-| Tanul: igen –nem –nem nyilatkozott* |
+|  | nem nyilatkozott** |
 
-| Általa eltartottak száma:…………fő - nem nyilatkozott* |
+## Vagyoni helyzetére vonatkozó adatok:
 
-| A gyermek születését követően jogosult lenne-e gyermekgondozási díjra: |
+## Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona,
 
-| igen – nem – nem nyilatkozott* |
+## albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott**
 
-| *A válasz önkéntes nyilatkozat alapján tölthető ki, a megfelelő részt kérjük aláhúzni, illetve kitölteni. |
+| Jövedelmi helyzete: | havi jövedelmének összege:..................Ft, – nem nyilatkozott** |
+
+| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott** |
+
+| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott** |
+
+## Jövedelemszerző tevékenységének formája:
+
+## Állandó, alkalmi, idénymunka – nem nyilatkozott**
+
+## Tanul: igen –nem –nem nyilatkozott**
+
+## Általa eltartottak száma:…………fő – nem nyilatkozott**
+
+## A gyermek születését követően jogosult lenne-e gyermekgondozási díjra:
+
+## igen – nem – nem nyilatkozott**
+
+## * Az országos örökbefogadási nyilvántartás számára a szülők neve helyett a szervezet által képzett és általa azonosítható kódszám küldendő meg.
+
+## ** A válasz önkéntes nyilatkozat alapján tölthető ki, a megfelelő részt kérjük aláhúzni, illetve kitölteni.
 
 4. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^27]
 

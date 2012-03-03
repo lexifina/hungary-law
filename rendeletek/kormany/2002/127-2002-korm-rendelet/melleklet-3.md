@@ -18,4 +18,4 @@
 
 3. melléklet a 127/2002. (V. 21.) Korm. rendelethez[^26]
 
-[^26]: A 3. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be.
+[^26]: A 3. mellékletet a 360/2010. (XII. 30.) Korm. rendelet 36. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
