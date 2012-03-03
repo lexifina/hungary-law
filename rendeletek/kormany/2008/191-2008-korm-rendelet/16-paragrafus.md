@@ -1,6 +1,6 @@
 ## A működési támogatás folyósítása
 
-16. § (1)[^98] A fejezeti kezelésű előirányzatnak a Hivatal részére történő átcsoportosításáról a miniszter és a Hivatal főigazgatója a költségvetési törvény kihirdetését követő 3 munkanapon belül megállapodást köt.
+16. § (1)[^98] A fejezeti kezelésű előirányzatnak a Hivatal részére történő átcsoportosításáról a miniszter és a Hivatal főigazgatója a központi költségvetésről szóló törvény kihirdetését követő 3 munkanapon belül megállapodást köt.
 
 (2)[^99] A fenntartónak a működési támogatást a fenntartó székhelye szerint illetékes igazgatóság, magyarországi székhellyel nem rendelkező fenntartó esetén a Magyar Államkincstár Budapesti és Pest Megyei Igazgatósága (a továbbiakban együtt: folyósító igazgatóság) folyósítja.
 
@@ -36,7 +36,7 @@ e)[^106] a szolgáltató a szolgáltatást nem nyújtja, a szolgáltatás nyújt
 
 (10)[^108] A felfüggesztési ok bekövetkezéséről és megszűnéséről a Hivatal, illetve – a Hivatal egyidejű értesítése mellett – a működést engedélyező szerv és az ellenőrző igazgatóság haladéktalanul értesíti a folyósító igazgatóságot.
 
-[^98]: A 16. § (1) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^98]: A 16. § (1) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 21/2012. (II. 29.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
 [^99]: A 16. § (2) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 34. § (1) bekezdésével megállapított, a 357/2010. (XII. 30.) Korm. rendelet 25. § b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § q) pontja szerint módosított szöveg.
 [^100]: A 16. § (3) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § r) pontja szerint módosított szöveg.
 [^101]: A 16. § (4) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
