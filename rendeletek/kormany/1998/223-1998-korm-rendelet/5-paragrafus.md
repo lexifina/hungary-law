@@ -20,13 +20,32 @@ meghatározott adattartalommal rendelkező formanyomtatványon kell benyújtani.
 
 (5)[^44] Az Igazgatóság a természetben nyújtott családi pótlék, valamint a jogosultnak való folyósítása tekintetében felfüggesztett iskoláztatási támogatás családtámogatási folyószámlára történő utalásáról a tárgyhónapot követő hónap harmadik napjáig gondoskodik. Az első tárgyhónap a természetbeni nyújtás, vagy a felfüggesztés kezdő időpontját magában foglaló hónap. Amennyiben a hónap harmadik napja szombat, vasárnap vagy munkaszüneti nap, a határidő az azt követő első munkanapon jár le.
 
-(6)[^45] A családi pótlékra jogosult személyében bekövetkezett változást, továbbá a családi pótlékra való jogosultság megszűnése esetén az erről szóló döntést az Igazgatóság közli a családi pótlék természetben történő nyújtását vagy a folyósítás tekintetében felfüggesztett iskoláztatási támogatás felfüggesztését elrendelő jegyzővel.
+(6)[^45] A családi pótlékra jogosult személyében és a családi pótlék összegében bekövetkezett változást, továbbá a családi pótlékra való jogosultság megszűnése esetén az erről szóló döntést az Igazgatóság közli a családi pótlék természetben történő nyújtását vagy a folyósítás tekintetében felfüggesztett iskoláztatási támogatás felfüggesztését elrendelő jegyzővel.
+
+(6a)[^46] Az Igazgatóság közli az iskoláztatási támogatás szüneteltetését kezdeményező jegyzővel
+
+a) a családi pótlékra jogosult személyében bekövetkező változást és a családi pótlékra való jogosultság megszűnése esetén az erről szóló döntést,
+
+b) az iskoláztatási támogatás szünetelését elrendelő döntést,
+
+c) az iskoláztatási támogatás szüneteltetését megszüntető döntést,
+
+d) az iskoláztatási támogatás szüneteltetése tárgyában hozott döntése elleni fellebbezés tárgyában hozott döntést,
+
+e) a kincstár illetékességének megváltozását.
+
+(6b)[^47] Az iskoláztatási támogatás szüneteltetéséről szóló határozat ellen fellebbezés nyolc napon belül nyújtható be. Ha a fellebbezési eljárásban az igazolatlanul mulasztott kötelező tanórai foglalkozások tényét vagy számát vitatják, az Igazgatóság megkeresi a közoktatási intézmény igazgatóját, hogy nyolc napon belül nyilatkozzon a kérdésben.
 
 (7) A családi pótlékra jogosult személyének a családi pótlék összegét nem érintő megváltozása a jegyző eltérő döntése hiányában a családi pótlék folyósításának az (5) bekezdés szerinti módját nem érinti.
+
+(8)[^48] Az iskoláztatási támogatás jogosultja személyének megváltozása nem érinti az iskoláztatási támogatás folyósítása szüneteltetését, kivéve, ha az iskoláztatási támogatásra a Cst. 15. § (2) bekezdése szerinti személy válik jogosulttá.
 
 [^40]: Az 5. §-t megelőző alcím a 238/2002. (XI. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^41]: Az 5. § a 176/2009. (VIII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^42]: Az 5. § (1) bekezdés c) pontja a 236/2010. (IX. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^43]: Az 5. § (2) bekezdése a 359/2010. (XII. 30.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
 [^44]: Az 5. § (5) bekezdése a 236/2010. (IX. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^45]: Az 5. § (6) bekezdése a 236/2010. (IX. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^45]: Az 5. § (6) bekezdése a 21/2012. (II. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^46]: Az 5. § (6a) bekezdését a 21/2012. (II. 29.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^47]: Az 5. § (6b) bekezdését a 21/2012. (II. 29.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^48]: Az 5. § (8) bekezdését a 21/2012. (II. 29.) Korm. rendelet 19. § (3) bekezdése iktatta be.

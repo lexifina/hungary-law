@@ -50,7 +50,7 @@
 
 ## 2.3. a kérelmező aláíróhelye.
 
-7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^174]
+7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^178]
 
 ## A családi pótlék iránti kérelem adattartalma saját jogon történő kérelem esetén
 
@@ -76,4 +76,4 @@ I. A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
 II. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
-[^174]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^178]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

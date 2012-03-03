@@ -1,6 +1,6 @@
 ## Az anyasági támogatás iránti kérelem adattartalma
 
-## I.[^172] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
+## I.[^176] A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
 ## – a jogosultság jogcíme
 
@@ -46,7 +46,7 @@
 
 ## – a kérelmező aláíróhelye.
 
-6. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^173]
+6. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^177]
 
-[^172]: Az 5. számú melléklet I. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^173]: A 6. számú mellékletet a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése a) pontjának ah) alpontja hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 332/2011. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^176]: Az 5. számú melléklet I. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^177]: A 6. számú mellékletet a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése a) pontjának ah) alpontja hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 332/2011. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

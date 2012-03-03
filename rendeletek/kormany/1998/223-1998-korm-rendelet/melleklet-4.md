@@ -54,7 +54,7 @@
 
 ## – nyilatkozat arról, hogy a gyermek a szülő háztartásában él-e.
 
-## III.[^169] A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+## III.[^173] A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
 ## – nyilatkozat arról, hogy a II. pont szerinti azon gyermek(ek) után, akikre tekintettel a kérelmező a gyermekgondozási segély megállapítását kéri, folyósít vagy folyósított-e valamely szerv valamely személy számára gyermekgondozási segélyt, illetve benyújtott-e kérelmet gyermekgondozási segély megállapítására; amennyiben igen, a jogosult (kérelmező) neve, valamint a folyósító (eljáró) szerv megnevezése, címe;
 
@@ -96,7 +96,7 @@
 
 ## – a kérelmező aláíróhelye.
 
-4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^170]
+4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^174]
 
-[^169]: A 3. számú melléklet III. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
-[^170]: A 4. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^173]: A 3. számú melléklet III. pontja a 332/2011. (XII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^174]: A 4. számú melléklet a 176/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
