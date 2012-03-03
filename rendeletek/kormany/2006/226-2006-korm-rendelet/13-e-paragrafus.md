@@ -1,6 +1,6 @@
-## 13/D. §[^41] Az adatszolgáltatás az igénybe vevők Szt., illetve Gyvt. szerinti adatainak a 13/E. § szerinti rögzítéséből és a 13/F. § szerinti napi jelentésből áll.
+## 13/D. §[^42] Az adatszolgáltatás az igénybe vevők Szt., illetve Gyvt. szerinti adatainak a 13/E. § szerinti rögzítéséből és a 13/F. § szerinti napi jelentésből áll.
 
-13/E. §[^42] (1) Az adatszolgáltatásra jogosult az Szt.-ben, illetve a Gyvt.-ben meghatározott adatokat
+13/E. §[^43] (1) Az adatszolgáltatásra jogosult az Szt.-ben, illetve a Gyvt.-ben meghatározott adatokat
 
 a) szociális szolgáltatás és gyermekjóléti alapellátás esetén legkésőbb az igénybevétel első napját követő munkanap 24 óráig,
 
@@ -40,5 +40,5 @@ b) a gondozási hely, utógondozói ellátási hely megváltozása időpontjána
 
 kell tekinteni.
 
-[^41]: A 13/D. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
-[^42]: A 13/E. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^42]: A 13/D. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^43]: A 13/E. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.

@@ -1,4 +1,4 @@
-13/C. §[^40] (1) Az igénybevevői nyilvántartásba történő adatszolgáltatásért a fenntartó felel.
+13/C. §[^41] (1) Az igénybevevői nyilvántartásba történő adatszolgáltatásért a fenntartó felel.
 
 (2) Az adatszolgáltatást a (3) és (5) bekezdés szerinti személyek (a továbbiakban együtt: adatszolgáltatásra jogosult) teljesítik.
 
@@ -10,4 +10,4 @@
 
 (6) Az adatszolgáltató munkatárs az igénybevevői nyilvántartás rendszerében jelölhető ki. A kijelöléshez meg kell adni az adatszolgáltató munkatárs ügyfélkapu használatára jogosító személyazonosító adatait, és meg kell jelölni azokat az engedélyeseket, amelyek tekintetében az adatszolgáltató munkatárs adatszolgáltatásra jogosult. Az e-képviselő köteles az igénybevevői nyilvántartás rendszerében bejelenteni, ha az adatszolgáltató munkatárs nyilvántartásba vett adatai megváltoztak. Az adatszolgáltató munkatárs kijelölése az igénybevevői nyilvántartás rendszerében vonható vissza.
 
-[^40]: A 13/C. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^41]: A 13/C. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.

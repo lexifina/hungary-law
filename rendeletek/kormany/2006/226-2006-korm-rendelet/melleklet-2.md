@@ -14,15 +14,15 @@
 
 ## 2.1. a szolgáltató (intézmény, hálózat) neve,
 
-## 2.2.[^50] a szolgáltató (intézmény, működtető) székhelye,
+## 2.2.[^51] a szolgáltató (intézmény, működtető) székhelye,
 
-## 2.3. a szolgáltató (intézmény) székhelyének ágazati azonosítója[^51],
+## 2.3. a szolgáltató (intézmény) székhelyének ágazati azonosítója[^52],
 
-## 2.4. a szolgáltató (intézmény) székhelyén ellátást nyújtanak-e[^52],
+## 2.4. a szolgáltató (intézmény) székhelyén ellátást nyújtanak-e[^53],
 
-## 2.5. a szolgáltató (intézmény) telephelye[^53],
+## 2.5. a szolgáltató (intézmény) telephelye[^54],
 
-## 2.6.[^54] a szolgáltató (intézmény, működtető) adószáma,
+## 2.6.[^55] a szolgáltató (intézmény, működtető) adószáma,
 
 ## 2.7. ha a szolgáltató (intézmény, hálózat) részben önállóan gazdálkodó költségvetési szerv, annak az önállóan gazdálkodó költségvetési szervnek a neve, székhelye és adószáma, amely a külön jogszabály szerinti pénzügyi-gazdasági feladatokat ellátja,
 
@@ -36,13 +36,13 @@
 
 ## 3.1. az eljáró hatóság megnevezése,
 
-## 3.2.[^55]
+## 3.2.[^56]
 
 2. számú melléklet a 226/2006. (XI. 20.) Korm. rendelethez
 
-[^50]: Az 1. számú melléklet 2.2. alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés ab) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
-[^51]: Csak telephelyre vonatkozó adatszolgáltatás esetén kell feltüntetni, ha a székhely részére a nyilvántartási számot már kiadták.
-[^52]: Csak telephelyre vonatkozó adatszolgáltatás esetén kell feltüntetni.
+[^51]: Az 1. számú melléklet 2.2. alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés ab) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
+[^52]: Csak telephelyre vonatkozó adatszolgáltatás esetén kell feltüntetni, ha a székhely részére a nyilvántartási számot már kiadták.
 [^53]: Csak telephelyre vonatkozó adatszolgáltatás esetén kell feltüntetni.
-[^54]: Az 1. számú melléklet 2.6. alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés ab) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
-[^55]: Az 1. számú melléklet 3.2. pontját a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés i) pont ic) alpontja hatályon kívül helyezte.
+[^54]: Csak telephelyre vonatkozó adatszolgáltatás esetén kell feltüntetni.
+[^55]: Az 1. számú melléklet 2.6. alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés ab) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
+[^56]: Az 1. számú melléklet 3.2. pontját a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés i) pont ic) alpontja hatályon kívül helyezte.

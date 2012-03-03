@@ -1,4 +1,4 @@
-13/F. §[^43] (1) Az adatszolgáltatásra jogosult az igénybevevői nyilvántartásban naponta nyilatkozik arról, hogy a 13/E. § szerint rögzített személy a szolgáltatást az adott napon igénybe vette-e (napi jelentés).
+13/F. §[^44] (1) Az adatszolgáltatásra jogosult az igénybevevői nyilvántartásban naponta nyilatkozik arról, hogy a 13/E. § szerint rögzített személy a szolgáltatást az adott napon igénybe vette-e (napi jelentés).
 
 (2) A napi jelentési kötelezettséget az adott napot követő munkanap 24 óráig kell teljesíteni.
 
@@ -22,4 +22,4 @@ c) a helyes adatot és
 
 d) a hiba okát.
 
-[^43]: A 13/F. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^44]: A 13/F. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
