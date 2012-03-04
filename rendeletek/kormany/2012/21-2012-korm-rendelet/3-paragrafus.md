@@ -1,1 +1,0 @@
-## „(7) A gyámhatóság az ügyfelet, illetőleg az érintett személyt szükség esetén hivatalos helyiségén kívül is meghallgathatja. A meghallgatásra indokolt esetben a cselekvőképtelen személy lakóhelyén, a számára szolgáltatást biztosító nevelési-oktatási intézményben vagy egészségügyi intézményben kerül sor.”

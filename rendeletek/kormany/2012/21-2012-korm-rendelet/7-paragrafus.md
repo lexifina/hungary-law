@@ -1,1 +1,0 @@
-## „(3) A (2) bekezdés szerinti védelembe vétel során a családgondozó figyelemmel kíséri az egyéni gondozási-nevelési tervben a gyermek tankötelezettsége, iskolalátogatási kötelezettsége teljesítésének előmozdítása érdekében meghatározott feladatok teljesülését.”

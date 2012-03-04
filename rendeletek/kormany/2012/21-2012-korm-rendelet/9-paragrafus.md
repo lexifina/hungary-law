@@ -1,1 +1,0 @@
-## „(7) A (2) bekezdés b) pontja és d) pont da) alpontja szerinti esetben a jegyző a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás havi részleteit a felfüggesztés időtartamával megegyező számú hónapig, minden hónap 10. napjáig kifizeti az eseti gondnok részére.”
