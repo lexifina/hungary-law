@@ -120,7 +120,7 @@ Szabó Timea (LMP)
 
 Tagok:
 
-dr. Mátrai Márta (Fidesz)[^18]
+Kőszegi Zoltán (Fidesz)[^18]
 
 Berényi László (Fidesz)
 
@@ -414,7 +414,7 @@ Tóth Gábor (Fidesz)
 
 Borbély Lénárd (Fidesz)[^51]
 
-dr. Budai Gyula (Fidesz)[^52]
+dr. Mátrai Márta (Fidesz)[^52]
 
 Farkas Zoltán (Fidesz)[^53]
 
@@ -742,7 +742,7 @@ Révész Máriusz (Fidesz)
 
 Sági István (Fidesz)
 
-Kőszegi Zoltán (Fidesz)[^102]
+Bodó Sándor (Fidesz)[^102]
 
 Földi László (KDNP)
 
@@ -888,7 +888,7 @@ dr. Pósán László (Fidesz)[^121]
 
 Herman István Ervin (Fidesz)
 
-Bodó Sándor (Fidesz)[^122]
+Font Sándor (Fidesz)[^122]
 
 Magyar Anna (Fidesz)
 
@@ -995,7 +995,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^15]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
 [^16]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
 [^17]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^18]: A 75/2011. (X. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^18]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^19]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
 [^20]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^21]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
@@ -1029,7 +1029,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^49]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
 [^50]: A 44/2010. (VI. 23.) OGY határozat 1. pontjával megállapított szöveg.
 [^51]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^52]: A 123/2010. (XII. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^52]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^53]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^54]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^55]: A 75/2011. (X. 14.) OGY határozat 1. pontjával megállapított szöveg.
@@ -1079,7 +1079,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^99]: A 9/2012. (II. 29.) OGY határozat 1. pontjával megállapított szöveg.
 [^100]: A 87/2011. (XI. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^101]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^102]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^102]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^103]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
 [^104]: A 106/2010. (X. 28.) OGY határozat 1. pontjával megállapított szöveg.
 [^105]: Az 1. pont q) alpontja 110/2010. (XI. 4.) OGY határozat 3. pontja szerint módosított szöveg.
@@ -1099,7 +1099,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^119]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
 [^120]: A 27/2011. (V. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^121]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
-[^122]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^122]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^123]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
 [^124]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
 [^125]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
