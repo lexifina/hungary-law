@@ -1,0 +1,3 @@
+8. § (1) Az EU Önerő Alap támogatás meghatározása a támogatás alapját képező okiratban rögzített adatok és a pályázó költségvetésében vállalt saját forrás összege alapján történik.
+
+(2) Amennyiben a támogatás alapját képező okiratban nem forintban, hanem euróban jelennek meg a finanszírozáshoz szükséges források, és az átváltás árfolyamáról nem rendelkeznek a dokumentumok, akkor a Nemzeti Stratégiai Referencia Keret kialakítandó árfolyam-kompenzációs rendszeréhez a Nemzetgazdasági Minisztérium által minden naptári negyedévet követő hónapban megadott technikai árfolyamon történik a forint összegek meghatározása, és ez képezi a további számítások alapját.
