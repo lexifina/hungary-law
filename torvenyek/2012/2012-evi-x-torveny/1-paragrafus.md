@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Alapokmányának és Egyezményének a 2010. évi guadalajarai Meghatalmazotti Értekezletén aláírt módosítása kötelező hatályának elismerésére.
