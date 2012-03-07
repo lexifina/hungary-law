@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-25-20-0
 | --- | --- | --- |
 | 2010-01-01 | 2006-25-20-06.5 | 25/2006. (V. 18.) IM rendelet |
 | 2010-12-25 | 2006-25-20-06.6 | 8/2008. (IV. 22.) IRM rendelet |
+| 2012-03-07 | 2006-25-20-06.7 | 16/2012. (III. 6.) KIM rendelet |
