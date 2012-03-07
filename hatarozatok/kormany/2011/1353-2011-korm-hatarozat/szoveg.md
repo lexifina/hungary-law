@@ -24,7 +24,7 @@ az új nemzeti közgyűjteményi épületegyüttes koncepciójáért felelős ko
 
 érintett miniszterek
 
-Határidő: 2012. február 29.
+Határidő: 2012. június 30.[^1]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -103,3 +103,5 @@ Költségvetési év: 2011.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
+
+[^1]: Az 1050/2012. (III. 6.) Korm. határozat 1. pontja szerint módosított szöveg.
