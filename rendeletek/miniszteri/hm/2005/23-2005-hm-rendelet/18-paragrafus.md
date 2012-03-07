@@ -1,4 +1,4 @@
-## 17. §[^37] A KKB Tudományos Tanácsba, illetve a Műszaki Tudományos Tanácsba ágazati szakértőt a HM közigazgatási államtitkár jelöl ki.
+## 17. §[^53] A kormányzati koordinációs szerv tudományos munkaszervébe, illetve a Műszaki Tudományos Tanácsba ágazati szakértőt a HM közigazgatási államtitkár jelöl ki.
 
 ## Katasztrófavédelmi riasztás
 
@@ -10,4 +10,4 @@ b) a honvédelmi ágazaton belüli súlyos szerencsétlenség, katasztrófahelyz
 
 c) az MH nukleáris, vegyi és biológiai veszély előrejelzésére, felmérésére létrehozott szervezet értesítése alapján.
 
-[^37]: A 17. § a 19/2010. (XII. 27.) HM rendelet 4. § a) pontja szerint módosított szöveg.
+[^53]: A 17. § a 19/2010. (XII. 27.) HM rendelet 4. § a) pontja, a 2/2012. (III. 6.) HM rendelet 10. § 18. pontja szerint módosított szöveg.
