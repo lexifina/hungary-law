@@ -1,0 +1,1 @@
+Az Országgyűlés arra való tekintettel, hogy az Európai Tanács 2011. március 24–25-ei ülésén elfogadta az Európai Unió működéséről szóló szerződésnek az európai stabilitási mechanizmus létrehozása tekintetében történő módosítását, a következő törvényt alkotja:
