@@ -1,5 +1,3 @@
-19. § A körültekintő lakossági hitelezés feltételeiről és a hitelképesség vizsgálatáról szóló 361/2009. (XII. 30.) Korm. rendelet 1. § (3) bekezdése a következő f) ponttal egészül ki:
+19. §[^30]
 
-(E rendelet hatálya nem terjed ki:)
-
-„f) az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet szerinti hátralékos hiteladós által kisebb lakás vásárlásához igénybe vehető kamattámogatott kölcsönökre.”
+[^30]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
