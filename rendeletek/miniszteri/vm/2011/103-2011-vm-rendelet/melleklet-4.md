@@ -12,7 +12,7 @@
 
 | 4. | A természetes személy ügyfél rendelkezik legalább 5 éves mezőgazdasági szakmai gyakorlattal |  | Őstermelői igazolvány értékesítési betétlapjának másolata, egyéni vállalkozói igazolvány másolata, vagy falugazdász igazolása | 7 |
 
-| 5. | Az ügyfél a támogatási kérelemmel érintett termesztő létesítmény üzemeltetéséhez megújuló energiaforrást fog használni, vagy meglévő üzem esetén a beruházáshoz csatlakoztatva használ |  | Építészeti – műszaki tervdokumentáció, vonatkozó engedély(ek) | 11 |
+| 5. | Az ügyfél a támogatási kérelemmel érintett termesztő létesítmény, – beleértve a gombakomposzt üzemet és hűtőházat, kivéve szociális létesítményeket – üzemeltetéséhez, megújuló energiaforrást fog használni, vagy meglévő üzem esetén a beruházáshoz csatlakoztatva használ. |  | Építészeti – műszaki tervdokumentáció, vonatkozó engedély(ek) | 11 |
 
 | 6. | Az ügyfél elismert zöldség-gyümölcs termelői csoportnak, vagy termelői szervezetnek a tagja (a továbbiakban: TÉSZ) |  | Az ügyfél által megtermelt termék termelésére, értékesítésére szakosodott TÉSZ-tagság igazolása, mely tartalmazza, hogy az ügyfél a termelői szervezetben vállalt kötelezettségeit a létesítő okiratban foglaltak szerint teljesíti. | 5 |
 
