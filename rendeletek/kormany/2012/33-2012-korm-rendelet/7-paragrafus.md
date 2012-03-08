@@ -1,0 +1,9 @@
+## 6. § Az R. a következő 27/A. §-sal egészül ki:
+
+## „27/A. § A keretmegállapodásos eljárás első részét a központi beszerző szervezet bonyolítja le. Azon közbeszerzésekre, amelyek megvalósulását az Európai Unióból származó forrásból támogatják, a központi beszerző szervezet a Nemzeti Fejlesztési Ügynökséggel együttműködést alakíthat ki annak érdekében, hogy – a támogatások által érintett beszerzési tárgyakra lefolytatott – keretmegállapodásos eljárásban a közbeszerzési dokumentumok minőségellenőrzésére és a közbeszerzési eljárások ellenőrzésére a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló jogszabályban meghatározott eljárásrendet alkalmazzák.”
+
+7. § (1) Az R. 28. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A keretmegállapodásos eljárás 27/B. § b) pontja szerinti második részében az intézmény egyedi közbeszerzési eljárását a közbeszerzési törvény 108–110. §-a szerinti rendelkezéseknek megfelelően, a (2) és (3) bekezdésben foglalt eltérésekkel bonyolíthatja le. Ha a közbeszerzést az Európai Unió költségvetéséből támogatják, az intézmény köteles a közbeszerzési eljárást megindító felhívásban megjelölni a projektre vagy programra vonatkozó adatokat. A központi beszerző szervezet a keretmegállapodások hatálya alatt a keretmegállapodásos eljárás második részében indított eljárások eredményéről, illetve eredménytelenségéről, az ilyen módon megkötött szerződések módosításáról szóló tájékoztatót tartalmazó hirdetményt az Európai Unió Hivatalos Kiadványai Hivatala, illetve a Közbeszerzési Hatóság útján minden év január 31-ig és az egyes keretmegállapodások hatályának lejártát követő 30 napon belül küldi meg.”
+
+(2) Az R. 28. § (2) bekezdése helyébe a következő rendelkezés lép:
