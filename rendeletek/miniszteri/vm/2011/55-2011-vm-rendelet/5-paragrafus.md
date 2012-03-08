@@ -8,7 +8,7 @@ c) a szaporítóanyag-beszerzés;
 
 d) a telepítés;
 
-e) a beruházás befejezéséig a telepítési engedély szerinti ápolás az 1. melléklet I. oszlopa szerinti mértékig;
+e)[^7] a korszerűsítés megvalósításának időtartamáig a telepítési engedély szerinti ápolás az 1. melléklet H oszlopa szerinti mértékig;
 
 f) a tápanyag-gazdálkodási tervhez szükséges talaj- és növényi analízis vizsgálat.
 
@@ -16,7 +16,7 @@ f) a tápanyag-gazdálkodási tervhez szükséges talaj- és növényi analízis
 
 a) a támrendszer, a művelésmód és a technológiai korszerűsítés;
 
-b) a jégvédőháló-rendszer kiépítése és felszerelése, valamint jégkárelhárító berendezés; és
+b)[^8] a jégvédőháló tartására alkalmas támrendszer és jégvédőháló kiépítése és felszerelése, valamint jégkárelhárító berendezés; és
 
 c) a kerítés kialakítása;
 
@@ -49,3 +49,6 @@ b) a 2. célterület esetén a 4. mellékletben meghatározott elszámolható ki
 (6) A 2. § (1) bekezdés c) pontjának ca) és cb) alpontjaiban meghatározott beruházásokkal kapcsolatos kiadások, külön-külön és együttesen is elszámolhatók. Amennyiben az ügyfél a 2. § (1) bekezdés c) pont ca) alpontjában meghatározott beruházást valósít meg, akkor legfeljebb 1,5 millió forint a hektáronkénti elszámolható kiadás. A 2. § (1) bekezdés c) pont cb) alpontjában meghatározott beruházás megvalósítása esetén az elszámolható kiadás hektáronként legfeljebb 500 000 forint.
 
 (7) A Vhr. 31. §-a szerinti egyéb elszámolható kiadásokat az elbírálás során táblánként, azok területének nagysága szerint arányosítva kell figyelembe venni.
+
+[^7]: Az 5. § (1) bekezdés e) pontja a 20/2012. (III. 7.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (2) bekezdés b) pontja a 20/2012. (III. 7.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.

@@ -2,26 +2,32 @@
 
 |  | A | B |
 
-| 1. | Megnevezés, méret, kapacitás és műszaki tartalom | Maximális elszámolható kiadás(ezer Ft) |
+| 1. | Megnevezés, méret, kapacitás és műszaki tartalom | Maximális elszámolható kiadás (ezer Ft) |
 
 | 2. | Támrendszer-, művelésmód- és technológiai korszerűsítés |
 
-| 3. | Jégvédő-háló és esővédő fólia tartására alkalmas támrendszer: Oszlopok huzalokkal, süllyedésgátló lemez, oszloprögzítő anker, huzal vassodrony és csavarja, oszlopsapka, 30 cm hosszítás háló védelmére, oszlopsapka hosszítás nélkül végoszlopokra | hektáronként 3500 |
+| 3. | Jégvédőháló megvalósítása esetén jégvédőháló és esővédő fólia tartására alkalmas támrendszer: Oszlopok huzalokkal, süllyedésgátló lemez, oszloprögzítő anker, huzal vassodrony és csavarja, oszlopsapka, 30 cm hosszítás háló védelmére, oszlopsapka hosszítás nélkül végoszlopokra | hektáronként 3500 |
 
-| 4. | Talajtakaró fólia: Fekete bakháttakaró fólia | hektáronként 400 |
+| 4. | Jégvédőháló tartására nem alkalmas, fa-, fém vagy | Hektáronként 2000 |
 
-| 5. | Jégvédőháló-rendszer kiépítése és felszerelése |
+|  | betonoszlopos, normál támrendszer, 3 vagy több huzal, anker |  |
 
-| 6. | Jégvédő-háló takarás: Duplaszálú, 2,9×8,9 mm-es szövésű háló, hálórögzítő tűk, gyorskapocs a hálócsíkok összekötésére, téli hálórögzítő kapocs | hektáronként 2000 |
+| 5. | Talajtakaró fólia: Fekete bakháttakaró fólia | hektáronként 400 |
 
-| 7. | Kerítés kialakítása |
+| 6. | Jégvédőháló-rendszer kiépítése és felszerelése |
 
-| 8. | Kerítés kivitelezése | folyóméterenként 1,5 |
+| 7. | Jégvédőháló takarás: Duplaszálú, 2,9x8,9 mm-es szövésű háló, hálórögzítő tűk, gyorskapocs a hálócsíkok összekötésére, téli hálórögzítő kapocs | hektáronként 2000 |
 
-| 9. | Jégkárelhárító berendezés |
+| 8. | Kerítés kialakítása |
 
-| 10. | Jégágyú kivitelezése | 12000 |
+| 9. | Kerítés kivitelezése | folyóméterenként 1,5 |
 
-| 11. | Vagyonvédelmi berendezések beszerzéséhez | 500 |
+| 10. | Jégkárelhárító berendezés |
+
+| 11. | Jégágyú beszerzése | 12000 |
+
+| 12. | Vagyonvédelmi berendezések |
+
+| 13. | Korszerű vagyonvédelmi berendezések beszerzéséhez | 500 |
 
 5. melléklet az 55/2011. (VI. 10.) VM rendelethez
