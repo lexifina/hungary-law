@@ -1,3 +1,0 @@
-## „c) ÁKT: Ágazati Katasztrófavédelmi Terv, amely meghatározza – a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) rendelkezéseinek megfelelően – a katasztrófaveszély, valamint veszélyhelyzet esetén a Magyar Honvédség katasztrófavédelmi tevékenysége tervezésére, szervezésére, működésére, riasztására, és ezek végrehajtására vonatkozó feladatokat,
-
-## d) honvédelmi szervezet: a Magyar Honvédség – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 38. § (1) bekezdése szerinti – szervezetei és a Katonai Nemzetbiztonsági Szolgálat.”

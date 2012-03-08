@@ -1,3 +1,0 @@
-## 8. § Az R. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A honvédelmi erők kirendelésének általános rendje szerint az igényre vonatkozó kérést a kormányzati koordinációs szervhez, vagy annak operatív munkaszervéhez kell felterjeszteni. A kormányzati koordinációs szerv, vagy annak operatív munkaszerve az igényeket továbbítja az ágazat központi ügyeleti szervének. Amennyiben a kormányzati koordinációs szerv nem kerül összehívásra, a katasztrófa típusa szerint illetékes országos hatáskörű irányító szerv az igénybevételre vonatkozó kérést közvetlenül az ágazat központi ügyeleti szerv részére küldi meg. A kirendelésről a honvédelemi miniszter, illetve a Honvéd Vezérkar főnöke dönt.”
