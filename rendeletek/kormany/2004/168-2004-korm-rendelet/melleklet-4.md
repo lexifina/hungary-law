@@ -1,388 +1,16 @@
-## Intézményi bejelentkezési adatlap
-
-|  | Központi Szolgáltatási Főigazgatóság | 1357 Bp., Pf.: 2. |
-
-| Fax: 441-2248 |
-
-## Intézményi bejelentkezési adatlap
-
-|  | Intézmény neve (teljes neve): |  |
-
-|  | Intézmény KSZF azonosítója: |  |
-
-|  | Intézményi adatközlés azonosítása |
-
-|  | Új intézmény regisztrálása: |  | ● O |
-
-|  | Meglévő intézmény módosítása: |  |
-
-|  | Nyilvántartott adatok módosításának oka: |  | O O |
-
-|  | 1. változás bejelentése |  |
-
-|  | 2. helyesbítés (téves adat javítása) |  |
-
-|  | Intézmény alapadatai |
-
-|  | Intézmény rövid neve: |  |
-
-|  | Intézmény államháztartásban használt intézményi azonosítója: |  |
-
-|  | Felügyeleti szerv megnevezése: |  |
-
-|  | Felügyeleti szerv államháztartásban használt intézményi azonosítója: |  |
-
-|  | Intézmény székhelyére vonatkozó adatok |
-
-|  | Irányítószám: |  |
-
-|  | Település: |  |
-
-|  | Cím: |  |
-
-|  | Postafiók szám: |  |
-
-|  | Postafiók-irányítószám: |  |
-
-|  | Telefonszám: |  | Telefonszám mellék: |  |
-
-|  | Telefaxszám: |  | Telefaxszám mellék: |  |
-
-|  | E-mail cím: |  |
-
-|  | Web cím: |  |
-
-|  | Intézmény vezető adatai |
-
-|  | Név: |  |
-
-|  | Titulus: |  |
-
-|  | Telefonszám: |  | Telefonszám mellék: |  |
-
-|  | Telefaxszám: |  | Telefaxszám mellék: |  |
-
-|  | E-mail cím: |  |
-
-|  | Mi az intézmény viszonya a központosított közbeszerzéshez? |  |
-
-|  | (Kérjük a megfelelő szövegrészt megjelölni): |
-
-|  | A központosított közbeszerzés hatálya alá tartozó intézmény A központosított közbeszerzéshez önként csatlakozó intézmény | IGEN IGEN | O O |
-
-|  | Az Egészségbiztosítási Alapból finanszírozott költségvetési szerv | IGEN | ◻ |
-
-|  | Dátum: |  |  |  |
-
-|  |  |  | Cégszerű aláírás |  |
-
-## Részletes intézményi adatlap
-
-|  | Központi |  | 1357 Bp., Pf.: 2. |
-
-| Szolgáltatási Főigazgatóság |  | Fax: 441-2248 |
-
-| Részletes intézményi adatlap |
-
-|  | Intézmény neve (teljes neve): |  |  |
-
-|  | Intézmény KSZF azonosítója: |  |  |
-
-|  | Intézmény azonosító adatai |  |  |
-
-|  | Adószám: |  |  |
-
-|  | PIR törzsszám: |  |  |
-
-|  | Intézmény államigazgatási adatai |  |  |
-
-|  | Költségvetési törvénysori besorolás |  |
-
-|  | Szektor vagy államháztartási alrendszer: |  |  |
-
-|  | Fejezet: |  |  |
-
-|  | Cím: |  |  |
-
-|  | Alcím: |  |  |
-
-|  | KSH szakágazati besorolás (TEAOR) 1 |  |  |
-
-|  | KSH szakágazati besorolás (TEAOR) 2 |  |  |
-
-|  | KSH szakágazati besorolás (TEAOR) 3 |  |  |
-
-|  | Alapvető szakfeladat: |  |  |
-
-|  | Dátum: |  |  |
-
-|  |  | Cégszerű aláírás |  |
-
-## Részletes intézményi adatlap
-
-|  | Központi |  | 1357 Bp., Pf.: 2. |
-
-| Szolgáltatási Főigazgatóság |  | Fax: 441-2248 |
-
-| Részletes intézményi adatlap |
-
-|  | Intézmény neve (teljes neve): |  |  |
-
-| Intézmény KSZF azonosítója: |  |
-
-|  | Intézményi központosított közbeszerzési kapcsolattartó adatai |  |
-
-|  | Név: |  |  |
-
-| Beosztás: |  |
-
-| Irányítószám: |  |
-
-| Település: |  |
-
-| Cím: |  |
-
-| Postafiók szám: |  |
-
-| Postafiók-irányítószám: |  |
-
-| Telefonszám: |  | Telefonszám mellék: |  |
-
-| Telefaxszám: |  | Telefaxszám mellék: |  |
-
-| E-mail cím: |  |
-
-|  | Kapcsolattartó által preferált kapcsolattartási mód: |  |  |
-
-| (Kérjük a megfelelő szövegrészt megjelölni): | KSZF portál: | O |  |
-
-|  | E-mail: | O |
-
-| Fax: | O |
-
-| Levél: | O |
-
-|  | Beszerző 1. adatai |  |
-
-|  | Név: |  |  |
-
-| Beosztás: |  |
-
-| Telefonszám: |  | Telefonszám mellék: |  |
-
-| Telefaxszám: |  | Telefaxszám mellék: |  |
-
-| E-mail cím: |  |
-
-| Termékkör: |  |
-
-| 1. |  |
-
-| 2. |  |
-
-| 3. |  |
-
-| 4. |  |
-
-| 5. |  |
-
-| 6. |  |
-
-| 7. |  |
-
-|  | Beszerző 2. Adatai |  |
-
-|  | Név: |  |  |
-
-| Beosztás: |  |
-
-| Telefonszám: |  | Telefonszám mellék: |  |
-
-| Telefaxszám: |  | Telefaxszám mellék: |  |
-
-| E-mail cím: |  |
-
-| Termékkör: |  |
-
-| 1. |  |
-
-| 2. |  |
-
-| 3. |  |
-
-| 4. |  |
-
-| 5. |  |
-
-| 6. |  |
-
-| 7. |  |
-
-|  | Központi |  | 1357 Bp., Pf.: 2. |
-
-| Szolgáltatási Főigazgatóság |  | Fax: 441-2248 |
-
-|  | Beszerző 3. adatai |  |
-
-|  | Név: |  |  |
-
-| Beosztás: |  |
-
-| Telefonszám: |  | Telefonszám mellék: |  |
-
-| Telefaxszám: |  | Telefaxszám mellék: |  |
-
-| E-mail cím: |  |
-
-| Termékkör: |  |
-
-| 1. |  |
-
-| 2. |  |
-
-| 3. |  |
-
-| 4. |  |
-
-| 5. |  |
-
-| 6. |  |
-
-| 7. |  |
-
-|  | Beszerző 4. adatai |  |
-
-|  | Név: |  |  |
-
-| Beosztás: |  |
-
-| Telefonszám: |  | Telefonszám mellék: |  |
-
-| Telefaxszám: |  | Telefaxszám mellék: |  |
-
-| E-mail cím: |  |
-
-| Termékkör: |  |
-
-| 1. |  |
-
-| 2. |  |
-
-| 3. |  |
-
-| 4. |  |
-
-| 5. |  |
-
-| 6. |  |
-
-| 7. |  |
-
-|  | Beszerző 5. adatai |  |
-
-|  | Név: |  |  |
-
-| Beosztás: |  |
-
-| Telefonszám: |  | Telefonszám mellék: |  |
-
-| Telefaxszám: |  | Telefaxszám mellék: |  |
-
-| E-mail cím: |  |
-
-| Termékkör: |  |
-
-| 1. |  |
-
-| 2. |  |
-
-| 3. |  |
-
-| 4. |  |
-
-| 5. |  |
-
-| 6. |  |
-
-| 7. |  |
-
-|  | Központi |  | 1357 Bp., Pf.: 2. |
-
-| Szolgáltatási Főigazgatóság |  | Fax: 441-2248 |
-
-|  | Beszerző 6. adatai |  |
-
-|  | Név: |  |  |
-
-| Beosztás: |  |
-
-| Telefonszám: |  | Telefonszám mellék: |  |
-
-| Telefaxszám: |  | Telefaxszám mellék: |  |
-
-| E-mail cím: |  |
-
-| Termékkör: |  |
-
-| 1. |  |
-
-| 2. |  |
-
-| 3. |  |
-
-| 4. |  |
-
-| 5. |  |
-
-| 6. |  |
-
-| 7. |  |
-
-|  | Beszerző 7. adatai |  |
-
-|  | Név: |  |  |
-
-| Beosztás: |  |
-
-| Telefonszám: |  | Telefonszám mellék: |  |
-
-| Telefaxszám: |  | Telefaxszám mellék: |  |
-
-| E-mail cím: |  |
-
-| Termékkör: |  |
-
-| 1. |  |
-
-| 2. |  |
-
-| 3. |  |
-
-| 4. |  |
-
-| 5. |  |
-
-| 6. |  |
-
-| 7. |  |
-
-|  | Dátum: |  |  |  |
-
-|  | Cégszerű aláírás |
-
-4. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^71]
+4. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^91]
 
 Gazdasági szereplő adatlap
 
-|  | Központi |  | 1357 Bp., Pf.: 2. |
+|  | Közbeszerzési és Ellátási |  | 1357 Bp., Pf.: 2. |
 
-| Szolgáltatási Főigazgatóság | Fax: 441-2248 |
+| Főigazgatóság | Fax: 441-2248 |
 
 | Gazdasági szereplő adatlap |
 
 |  | Szervezet / cég neve (teljes név): |  |  |
 
-| Szervezet / cég KSZF azonosítója: |  |
+| Szervezet / cég KEF azonosítója: |  |
 
 |  | Afatközlés módosítása |
 
@@ -448,7 +76,7 @@ Gazdasági szereplő adatlap
 
 Részletes gazdasági szereplő adatlap
 
-|  | Központi Szolgáltatási |  | 1357 Bp., Pf.: 2. |
+|  | Közbeszerzési és Ellátási |  | 1357 Bp., Pf.: 2. |
 
 | Főigazgatóság | Fax: 441-2248 |
 
@@ -456,7 +84,7 @@ Részletes gazdasági szereplő adatlap
 
 |  | Szervezet / cég neve (teljes név): |  |  |
 
-| Szervezet / cég KSZF azonosítója: |  |
+| Szervezet / cég KEF azonosítója: |  |
 
 |  | Telephely adatai |  |
 
@@ -510,7 +138,7 @@ Részletes gazdasági szereplő adatlap
 
 Részletes gazdasági szereplő adatlap
 
-|  | Központi Szolgáltatási |  | 1357 Bp., Pf.: 2. |
+|  | Közbeszerzési és Ellátási |  | 1357 Bp., Pf.: 2. |
 
 | Főigazgatóság | Fax: 441-2248 |
 
@@ -518,7 +146,7 @@ Részletes gazdasági szereplő adatlap
 
 |  | Szervezet / cég neve (teljes név): |  |  |
 
-| Szervezet / cég KSZF azonosítója: |  |
+| Szervezet / cég KEF azonosítója: |  |
 
 |  | Fióktelep 1. adatai |  |
 
@@ -598,7 +226,7 @@ Részletes gazdasági szereplő adatlap
 
 | Web cím: |  |
 
-|  | Központi Szolgáltatási |  | 1357 Bp., Pf.: 2. |
+|  | Közbeszerzési és Ellátási |  | 1357 Bp., Pf.: 2. |
 
 | Főigazgatóság | Fax: 441-2248 |
 
@@ -680,7 +308,7 @@ Részletes gazdasági szereplő adatlap
 
 | Web cím: |  |
 
-|  | Központi Szolgáltatási |  | 1357 Bp., Pf.: 2. |
+|  | Közbeszerzési és Ellátási |  | 1357 Bp., Pf.: 2. |
 
 | Főigazgatóság | Fax: 441-2248 |
 
@@ -762,7 +390,7 @@ Részletes gazdasági szereplő adatlap
 
 | Web cím: |  |
 
-|  | Központi Szolgáltatási |  | 1357 Bp., Pf.: 2. |
+|  | Közbeszerzési és Ellátási |  | 1357 Bp., Pf.: 2. |
 
 | Főigazgatóság | Fax: 441-2248 |
 
@@ -844,7 +472,7 @@ Részletes gazdasági szereplő adatlap
 
 | Web cím: |  |
 
-|  | Központi Szolgáltatási |  | 1357 Bp., Pf.: 2. |
+|  | Közbeszerzési és Ellátási |  | 1357 Bp., Pf.: 2. |
 
 | Főigazgatóság | Fax: 441-2248 |
 
@@ -926,7 +554,7 @@ Részletes gazdasági szereplő adatlap
 
 | Web cím: |  |
 
-|  | Központi Szolgáltatási |  | 1357 Bp., Pf.: 2. |
+|  | Közbeszerzési és Ellátási |  | 1357 Bp., Pf.: 2. |
 
 | Főigazgatóság | Fax: 441-2248 |
 
@@ -1008,7 +636,7 @@ Részletes gazdasági szereplő adatlap
 
 | Web cím: |  |
 
-|  | Központi Szolgáltatási |  | 1357 Bp., Pf.: 2. |
+|  | Közbeszerzési és Ellátási |  | 1357 Bp., Pf.: 2. |
 
 | Főigazgatóság | Fax: 441-2248 |
 
@@ -1068,4 +696,4 @@ Részletes gazdasági szereplő adatlap
 
 |  |  |  | Cégszerű aláírás |
 
-[^71]: A 4. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^91]: A 4. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 25. §-a, a 33/2012. (III. 7.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.

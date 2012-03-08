@@ -1,19 +1,21 @@
-## III. Fejezet[^44]
+## 25. §[^55]
+
+## III. Fejezet[^56]
 
 ## ELJÁRÁSI SZABÁLYOK
 
-## Általános szabályok[^45]
+## Általános szabályok[^57]
 
-26. §[^46] (1) A központi beszerző szervezet által a központosított közbeszerzési rendszer keretén belül lefolytatott közbeszerzési eljárás nyílt, meghívásos, tárgyalásos, keretmegállapodásos eljárás vagy versenypárbeszéd lehet. Tárgyalásos eljárás és versenypárbeszéd a Kbt.-ben meghatározott feltételek fennállása esetén alkalmazható.
+26. §[^58] (1)[^59] A központi beszerző szervezet által a központosított közbeszerzési rendszer keretén belül lefolytatott közbeszerzési eljárás nyílt, meghívásos, tárgyalásos, keretmegállapodásos eljárás vagy versenypárbeszéd lehet. Tárgyalásos eljárás és versenypárbeszéd a közbeszerzési törvényben meghatározott feltételek fennállása esetén alkalmazható.
 
-(2) A központi beszerző szervezet által lefolytatott versenypárbeszédre a Kbt. 5/A. címe, a keretmegállapodásos eljárásra a Kbt. 7/A. címe szerinti szabályokat, valamint e rendeletben foglaltakat a jelen fejezet szerinti eltérésekkel kell alkalmazni.
+(2)[^60] A központi beszerző szervezet által lefolytatott versenypárbeszédre a közbeszerzési törvény 101–107. §-a, a keretmegállapodásos eljárásra a közbeszerzési törvény 108–110. §-a szerinti szabályokat, valamint e rendeletben foglaltakat a jelen fejezet szerinti eltérésekkel kell alkalmazni.
 
-(3)[^47] A központi beszerző szervezet a kiemelt termékek beszerzésére irányuló közbeszerzési eljárásokban köteles elektronikus árlejtést lefolytatni, ha a közbeszerzés értéke eléri vagy meghaladja az egyszerű közbeszerzési eljárás értékhatárait.
+(3)–(4)[^61]
 
-(4)[^48] A központosított közbeszerzési rendszer keretén belül lefolytatott közbeszerzési eljárások vonatkozásában a (3) bekezdés szerinti kötelezettség alól a központi beszerző szervezet felügyeletét ellátó miniszter a pénzügyminiszter egyetértésével egyedi felmentést adhat. A központi beszerző szervezet az egyedi felmentést köteles közzétenni a központosított közbeszerzési portálon.
-
-[^44]: A III. fejezet címe a 10/2005. (I. 19.) Korm. rendelet 8. §-ával megállapítottt szöveg.
-[^45]: A 26. §-t megelőző alcím a 10/2005. (I. 19.) Korm. rendelet 8. §-ával megállapítottt szöveg.
-[^46]: A 26. § a 196/2006. (IX. 27.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
-[^47]: A 26. § (3) bekezdését a 257/2007. (X. 4.) Korm. rendelet 27. § (2) bekezdésének a) pontja iktatta be. E módosító rendelet 27. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után megkezdett közbeszerzésekre [Kbt. 35. § (2) bekezdés], tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^48]: A 26. § (4) bekezdését a 257/2007. (X. 4.) Korm. rendelet 27. § (2) bekezdésének a) pontja iktatta be. E módosító rendelet 27. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után megkezdett közbeszerzésekre [Kbt. 35. § (2) bekezdés], tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
+[^55]: A 25. §-t a 33/2012. (III. 7.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^56]: A III. fejezet címe a 10/2005. (I. 19.) Korm. rendelet 8. §-ával megállapítottt szöveg.
+[^57]: A 26. §-t megelőző alcím a 10/2005. (I. 19.) Korm. rendelet 8. §-ával megállapítottt szöveg.
+[^58]: A 26. § a 196/2006. (IX. 27.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^59]: A 26. § (1) bekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^60]: A 26. § (2) bekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^61]: A 26. § (3)–(4) bekezdését a 257/2007. (X. 4.) Korm. rendelet 27. § (2) bekezdésének a) pontja iktatta be, hatályon kívül helyezte a 33/2012. (III. 7.) Korm. rendelet 11. § a) pontja.

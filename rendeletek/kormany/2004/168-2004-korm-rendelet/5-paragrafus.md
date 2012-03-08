@@ -1,4 +1,4 @@
-5. §[^12] (1) A központosított közbeszerzési rendszer szolgáltatásaihoz történő csatlakozás a bejelentkezés központi beszerző szervezet által történt visszaigazolását követően elektronikusan lehetséges.
+5. §[^14] (1) A központosított közbeszerzési rendszer szolgáltatásaihoz történő csatlakozás a bejelentkezés központi beszerző szervezet által történt visszaigazolását követően elektronikusan lehetséges.
 
 (2) A bejelentkezés visszaigazolását követően az önként csatlakozott szervezet – a központi beszerző szervezet által jóváhagyott – igénybejelentése alapján jogosult a központi beszerző szervezet által kötött keretszerződések terhére történő megrendelésre, valamint a központi beszerző szervezet által megkötött keretmegállapodások alapján a 28. § szerinti eljárások lefolytatására.
 
@@ -6,4 +6,4 @@
 
 (4) Az önként csatlakozott szervezetet megilletik mindazon jogosultságok és terhelik mindazon kötelezettségek – kivéve a 17. §-ban meghatározott kötelezettségek – melyeket e rendelet határoz meg az 1. § (1) és (2) bekezdése szerinti szervezetek részére.
 
-[^12]: Az 5. § a 196/2006. (IX. 27.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^14]: Az 5. § a 196/2006. (IX. 27.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
