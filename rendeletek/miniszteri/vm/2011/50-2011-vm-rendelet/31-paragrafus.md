@@ -4,6 +4,6 @@
 
 (2) A támogatási kérelemnek az édesvízi halászati tevékenységre kell irányulnia és a támogatott beruházásokkal kizárólag ez a tevékenység folytatható a kötelező üzemeltetési időszak végéig.
 
-(3)[^8] Nem támogatható a hal megfogására szolgáló eszközök (halászháló), új halászhajó vásárlása vagy azok cseréje, valamint a rekreációs célú halászat.
+(3)[^13] Nem támogatható a hal megfogására szolgáló eszközök (halászháló), új halászhajó vásárlása vagy azok cseréje, valamint a rekreációs célú halászat.
 
-[^8]: A 31. § (3) bekezdése a 86/2011. (IX. 1.) VM rendelet 7. §-a szerint módosított szöveg.
+[^13]: A 31. § (3) bekezdése a 86/2011. (IX. 1.) VM rendelet 7. §-a szerint módosított szöveg.

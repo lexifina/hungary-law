@@ -36,8 +36,8 @@ között lehet benyújtani.
 
 (7) A jóváhagyó támogatási döntés alapján legfeljebb 4 – kizárólag gépbeszerzést tartalmazó művelet esetében legfeljebb 2 – kifizetési kérelem fogadható el. Az utolsó kifizetési kérelmet legkésőbb a művelet befejezését követően megnyíló második kifizetési kérelem benyújtási időszakban kell benyújtani.
 
-(8)[^1] A művelet elszámolásához benyújtott bizonylatok – a 11. § (4) bekezdésben foglaltak kivételével – nem lehetnek korábbiak a támogatási kérelem benyújtásának dátumánál.
+(8)[^3] A művelet elszámolásához benyújtott bizonylatok – a 11. § (4) bekezdésben foglaltak kivételével – nem lehetnek korábbiak a támogatási kérelem benyújtásának dátumánál.
 
 (9) A támogatási kérelem benyújtásának dátuma és a támogatási határozat jogerőre emelkedésének dátuma közötti teljesítésű bizonylatokkal az első kifizetési kérelemben el kell számolni.
 
-[^1]: A 10. § (8) bekezdése a 86/2011. (IX. 1.) VM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 10. § (8) bekezdése a 86/2011. (IX. 1.) VM rendelet 1. §-ával megállapított szöveg.

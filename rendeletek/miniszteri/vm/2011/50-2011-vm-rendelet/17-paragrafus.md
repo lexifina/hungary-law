@@ -2,7 +2,7 @@
 
 17. § (1) A beruházási támogatások általános feltételei a következők:
 
-a)[^5] a beruházás megvalósításának, üzemeltetésének helye Magyarország;
+a)[^10] a beruházás megvalósításának, üzemeltetésének helye Magyarország;
 
 b) a támogatott beruházást a támogatási határozat jogerőre emelkedésétől legalább az utolsó kifizetési kérelem benyújtásától számított 5 évig rendeltetésének megfelelően, a vonatkozó engedélyek és előírások betartásával kell használni, üzemeltetni (a továbbiakban: üzemeltetési kötelezettség);
 
@@ -32,4 +32,4 @@ esetén, saját forrásból azonos rendeltetésű, azonos vagy magasabb műszaki
 
 (4) Az (1) bekezdés d) pontja alól kivételt jelent, ha a beruházás kizárólag halastavak, telelő- vagy tárolótavak vízellátását szolgáló feltöltő, illetve lecsapoló csatornát érint.
 
-[^5]: A 17. § (1) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 57. §-a szerint módosított szöveg.
+[^10]: A 17. § (1) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 57. §-a szerint módosított szöveg.
