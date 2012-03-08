@@ -1,4 +1,4 @@
-## 18. § Hatályát veszti a Kisebbségek Napjáról szóló 116/1995. (IX. 28.) Korm. rendelet.
+## 18. §[^6]
 
 1. melléklet a 28/2012. (III. 6.) Korm. rendelethez
 
@@ -29,3 +29,5 @@ A feladatalapú támogatás elbírálásának szempontrendszere
 | Maximális pontszám: 10 pont |
 
 | ELÉRHETŐ ÖSSZES PONTSZÁM: 100 pont |
+
+[^6]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
