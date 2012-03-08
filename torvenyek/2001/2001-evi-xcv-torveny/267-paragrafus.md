@@ -4,7 +4,7 @@
 
 a) 43. §-a, valamint az 52. § (4) és (5) bekezdése a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
 
-b) 98. §-a, 102/A. §-a és a 103. § (1) bekezdés a) pontja az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló 1996. június 3-i 96/34/EK tanácsi irányelvnek,
+b) a 98. §-a, 102/A. §-a és a 103. § (1) bekezdés a) pontja a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010. március 8-i 2010/18/EU tanácsi irányelvnek
 
 c) 59. § (9) bekezdése a csoportos létszámcsökkentésre vonatkozó tagállami jogszabályok közelítéséről szóló 1998. július 20-i 98/59/EK tanácsi irányelvnek,
 
