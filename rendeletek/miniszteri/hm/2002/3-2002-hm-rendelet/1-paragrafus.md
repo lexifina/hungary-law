@@ -8,16 +8,18 @@
 
 a) hivatásos és szerződéses katonákra (a továbbiakban együtt: hivatásos katonák),
 
-b) szolgálatot teljesítő önkéntes tartalékos katonákra (a továbbiakban: önkéntes tartalékos),
+b)[^3] önkéntes műveleti tartalékos és önkéntes védelmi tartalékos katonákra (a továbbiakban együtt: önkéntes tartalékos katonák),
 
-c)[^3] honvéd tisztjelöltekre.
+c)[^4] honvéd tisztjelöltekre,
 
-d)[^4]
+d)[^5] honvéd altiszt-jelöltekre.
 
 (2) A Hjt. 46. §-a (3) bekezdésének a)–f) pontjai alapján a más szerveknél szolgálatot teljesítő hivatásos katonák illetményére, illetményjellegű juttatásaira és a honvédségi közalkalmazottak jutalmazására e rendeletet kell alkalmazni.
 
-(3) Ez a rendelet a Katonai Főügyészségen és a katonai ügyészségeken szolgálatot teljesítő hivatásos katonák esetében a készenlét díjazására terjed ki.
+(3)[^6]
 
 [^2]: Az 1. § (1) bekezdése a 7/2005. (III. 23.) HM rendelet 4. §-ával megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés c) pontja a 14/2011. (X. 28.) HM rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § (1) bekezdésének d) pontját a 15/2008. (VI. 20.) HM rendelet 19. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (1) bekezdés b) pontja a 3/2012. (III. 6.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés c) pontja a 14/2011. (X. 28.) HM rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés d) pontját a 15/2008. (VI. 20.) HM rendelet 19. § (1) bekezdés a) pontja hatályon kívül helyezte, újonnan a 3/2012. (III. 6.) HM rendelet 1. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (3) bekezdését a 3/2012. (III. 6.) HM rendelet 23. § a) pontja hatályon kívül helyezte.

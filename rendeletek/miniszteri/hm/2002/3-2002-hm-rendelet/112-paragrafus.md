@@ -1,4 +1,4 @@
-## 111. § Annak a hivatásos katonának, akinek a külön juttatás kifizetésekor a Hjt. 117. §-a alapján csökkentett illetmény jár, a külön juttatás összegét a csökkentés figyelmen kívül hagyásával kell megállapítani.
+## 110–111. §
 
 ## NEGYEDIK RÉSZ
 
@@ -12,6 +12,6 @@
 
 (2) A 8. § hatálybalépésének időpontja 2003. január 1.
 
-(3)[^141]
+(3)[^194]
 
-[^141]: A 112. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 106. pontja hatályon kívül helyezte.
+[^194]: A 112. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 106. pontja hatályon kívül helyezte.

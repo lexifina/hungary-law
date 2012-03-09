@@ -1,8 +1,8 @@
-## 45. §[^54] A honvédség katonai szervezeteinél a repülés kiszolgálását végző földi beosztású, valamint az ejtőernyős hivatásos és szerződéses katonák részére a 46. § szerinti osztályos fokozatnak megfelelő osztálybasorolási pótlékot kell folyósítani.
+## 45. §[^69] A honvédség katonai szervezeteinél a repülés kiszolgálását végző földi beosztású, valamint az ejtőernyős hivatásos és szerződéses katonák részére a 46. § szerinti osztályos fokozatnak megfelelő osztálybasorolási pótlékot kell folyósítani.
 
-46. §[^55] (1) A 45. § alá tartozó katonák osztálybasorolási pótlékának havi mértékét – az illetményalap %-ában – a 6. számú melléklet tartalmazza.
+46. §[^70] (1) A 45. § alá tartozó katonák osztálybasorolási pótlékának havi mértékét – az illetményalap %-ában – a 6. számú melléklet tartalmazza.
 
 (2) Az egészségi okból véglegesen letiltott ejtőernyősök osztálybasorolási pótlékát a letiltásról szóló parancs kiadása hónapjának utolsó napjával be kell szüntetni.
 
-[^54]: A 45. § és az azt megelőző cím a 22/2004. (VIII. 21.) HM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
-[^55]: A 46. § a 22/2004. (VIII. 21.) HM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
+[^69]: A 45. § és az azt megelőző cím a 22/2004. (VIII. 21.) HM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.
+[^70]: A 46. § a 22/2004. (VIII. 21.) HM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést azonban 2004. augusztus 1-jétől kell alkalmazni.

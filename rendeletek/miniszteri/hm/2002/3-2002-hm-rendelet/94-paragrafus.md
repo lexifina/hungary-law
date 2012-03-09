@@ -1,5 +1,5 @@
-94. §[^119] (1) A honvéd tisztjelölt ösztöndíját, az egyes pótlékok jogosultságát, mértékét a felsőoktatási intézmény igazolása, illetve a vonatkozó nyilvántartás alapján az állományilletékes parancsnok parancsban határozza meg.
+94. §[^163] (1) A honvéd tisztjelölt ösztöndíját, az egyes pótlékok jogosultságát, mértékét a felsőoktatási intézmény igazolása, illetve a vonatkozó nyilvántartás alapján az állományilletékes parancsnok parancsban határozza meg.
 
 (2) Az ösztöndíj-megállapítási parancsokat a pénzügyi ellenjegyzési jogkört gyakorlóval aláírás előtt ellenjegyeztetni kell.
 
-[^119]: A 94. § a 14/2011. (X. 28.) HM rendelet 3. §-ával megállapított szöveg.
+[^163]: A 94. § a 14/2011. (X. 28.) HM rendelet 3. §-ával megállapított szöveg.

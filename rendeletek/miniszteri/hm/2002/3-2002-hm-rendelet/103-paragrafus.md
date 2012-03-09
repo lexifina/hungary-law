@@ -1,5 +1,6 @@
-103. § (1)[^136] A személyek jutalmazása történhet dicséretként vagy egyéb elismerésként adott pénz- vagy tárgyjutalom formájában.
+103. § (1)[^186]
 
-(2) A hivatásos katonák, valamint a közalkalmazottak részére – az életük egyes jelentős eseményéhez kapcsolódóan (például 50. életév betöltésekor vagy nyugállományba helyezéskor) – emléktárgy, a fontosabb családi eseményekhez kötődően pedig (például házasságkötéskor vagy gyermekszületéskor) ajándék adományozható.
+(2)[^187] A hivatásos katonák, valamint a közalkalmazottak részére – az életük egyes jelentős eseményéhez kapcsolódóan (különösen 50., illetve 60. életév betöltésekor vagy nyugállományba helyezéskor) – emléktárgy, a fontosabb családi eseményekhez kötődően pedig (különösen házasságkötéskor vagy gyermekszületéskor) ajándék adományozható.
 
-[^136]: A 103. § (1) bekezdése a 7/2003. (II. 20.) HM rendelet 5. §-ával megállapított és a 17/2007. (V. 11.) HM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^186]: A 103. § (1) bekezdését a 3/2012. (III. 6.) HM rendelet 23. § i) pontja hatályon kívül helyezte.
+[^187]: A 103. § (2) bekezdése a 3/2012. (III. 6.) HM rendelet 19. §-ával megállapított szöveg.

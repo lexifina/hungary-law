@@ -1,6 +1,6 @@
 ## B) Rádiófelderítő távírászok és rádióműszerészek osztálybasorolási pótléka
 
-## 48. §[^57] A Magyar Honvédség középszintű irányító-vezető szervezetének alárendeltségébe tartozó katonai szervezetek és az MK Katonai Felderítő Hivatal speciális híradó, rádiófelderítő, rádiótechnikai és rádiózavaró, rádiótechnikai felderítő távírászai és rádióműszerészei osztálybasorolási pótlékának havi mértéke az illetményalap %-ában:
+## 48. §[^74] A Magyar Honvédség középszintű irányító-vezető szervezetének alárendeltségébe tartozó katonai szervezetek és a KNBSZ speciális híradó, rádiófelderítő, rádiótechnikai és rádiózavaró, rádiótechnikai felderítő távírászai és rádióműszerészei osztálybasorolási pótlékának havi mértéke az illetményalap %-ában:
 
 a) I. osztálybasorolás esetén 11,6%,
 
@@ -8,4 +8,4 @@ b) II. osztálybasorolási esetén 10,5%,
 
 c) III. osztálybasorolás esetén 9,5%.
 
-[^57]: A 48. § bevezető szövegrésze a 15/2008. (VI. 20.) HM rendelet 18. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^74]: A 48. § nyitó szövegrésze a 3/2012. (III. 6.) HM rendelet 22. § (1) bekezdés j) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 79. §[^114]
+## 79. §[^155]
 
-[^114]: A 79. §-t a 13/2006. (IV. 19.) HM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^155]: A 79. §-t a 13/2006. (IV. 19.) HM rendelet 5. § (1) bekezdése hatályon kívül helyezte.

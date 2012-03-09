@@ -1,15 +1,15 @@
-100. § (1)[^129] Az általános parancsnoki jutalmazási keret év közbeni korrekciójára csak akkor kerülhet sor, ha az adott évben január 1-jei hatállyal illetményfejlesztés vagy béralap módosítás kerül központilag végrehajtásra. Az általános parancsnoki jutalmazási keret kizárólag az illetmény-megállapítási jogkörbe tartozók jutalmazására használható fel, az általános parancsnoki jutalmazási keretből az elöljáró parancsnok nem vonhat el, illetve más katonai szervezethez nem csoportosíthat át.
+100. § (1)[^176] Az általános parancsnoki jutalmazási keret év közbeni korrekciójára csak akkor kerülhet sor, ha az adott évben január 1-jei hatállyal illetményfejlesztés vagy béralap módosítás kerül központilag végrehajtásra. Az általános parancsnoki jutalmazási keret kizárólag az illetmény-megállapítási jogkörbe tartozók jutalmazására használható fel, az általános parancsnoki jutalmazási keretből az elöljáró parancsnok nem vonhat el, illetve más katonai szervezethez nem csoportosíthat át.
 
-(2)[^130] A hivatásos katonák és az önkéntes tartalékos katonák általános parancsnoki jutalmazási keretét összevontan, míg a közalkalmazottak és a honvéd tisztjelöltek jutalmazási keretét elkülönítetten kell képezni.
+(2)[^177] A hivatásos katonák és az önkéntes tartalékos katonák általános parancsnoki jutalmazási keretét összevontan, míg a közalkalmazottak, a honvéd tisztjelöltek és a honvéd altiszt-jelöltek jutalmazási keretét elkülönítetten kell képezni.
 
-(3)[^131] Az általános parancsnoki jutalmazási keretet – ha a feladatok végrehajtása indokolttá teszi – a parancsnok saját katonai szervezetén belül, az érdekképviseleti szervek egyetértésével, a hivatásos katonák és a közalkalmazottak keretei között egyszeri alkalommal átcsoportosíthatja, 15%-nál nagyobb mértékben egyik jutalmazási keret sem csökkenthető.
+(3)[^178] Az általános parancsnoki jutalmazási keretet – ha a feladatok végrehajtása indokolttá teszi – a parancsnok saját katonai szervezetén belül, az érdekképviseleti szervek egyetértésével, a hivatásos katonák és a közalkalmazottak keretei között egyszeri alkalommal átcsoportosíthatja, 15%-nál nagyobb mértékben egyik jutalmazási keret sem csökkenthető.
 
-(4)[^132] A honvéd tisztjelöltek keretéhez, vagy keretéből átcsoportosítani nem lehet.
+(4)[^179] A honvéd tisztjelöltek és a honvéd altiszt-jelöltek keretéhez, vagy keretéből átcsoportosítani nem lehet.
 
-(5)[^133] A magasabb parancsnoki jutalmazási keret felett rendelkező parancsnok – a teljesítményekkel arányos elismerések biztosítása végett – jutalmazási keretének egy részét a neki alárendelt parancsnokok részére átcsoportosíthatja.
+(5)[^180] A magasabb parancsnoki jutalmazási keret felett rendelkező parancsnok – a teljesítményekkel arányos elismerések biztosítása végett – jutalmazási keretének egy részét a neki alárendelt parancsnokok részére átcsoportosíthatja.
 
-[^129]: A 100. § (1) bekezdése a 6/2009. (VI. 4.) HM rendelet 14. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.
-[^130]: A 100. § (2) bekezdése a 14/2011. (X. 28.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^131]: A 100. § (3) bekezdése a 6/2009. (VI. 4.) HM rendelet 14. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.
-[^132]: A 100. § (4) bekezdése a 14/2011. (X. 28.) HM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^133]: A 100. § (5) bekezdése a 7/2003. (II. 20.) HM rendelet 7. §-a szerint módosított szöveg.
+[^176]: A 100. § (1) bekezdése a 6/2009. (VI. 4.) HM rendelet 14. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.
+[^177]: A 100. § (2) bekezdése a 14/2011. (X. 28.) HM rendelet 5. § (1) bekezdésével megállapított, a 3/2012. (III. 6.) HM rendelet 22. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^178]: A 100. § (3) bekezdése a 6/2009. (VI. 4.) HM rendelet 14. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.
+[^179]: A 100. § (4) bekezdése a 14/2011. (X. 28.) HM rendelet 5. § (2) bekezdésével megállapított, a 3/2012. (III. 6.) HM rendelet 22. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^180]: A 100. § (5) bekezdése a 7/2003. (II. 20.) HM rendelet 7. §-a szerint módosított szöveg.

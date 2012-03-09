@@ -1,5 +1,3 @@
-## IX. Fejezet
+## IX. Fejezet[^193]
 
-## A HIVATÁSOS KATONÁK KÜLÖN JUTTATÁSA
-
-## (A Hjt. 119. §-ához)
+[^193]: A IX. Fejezetet (110–111. §) a 3/2012. (III. 6.) HM rendelet 23. § k) pontja hatályon kívül helyezte.

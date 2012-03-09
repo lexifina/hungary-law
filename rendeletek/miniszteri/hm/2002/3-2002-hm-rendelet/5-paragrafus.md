@@ -6,4 +6,6 @@
 
 (2) Az illetménypótlék a hivatásos katonának a pótlékra jogosító szolgálati tevékenység tényleges kifejtésének, illetve a beosztás betöltésének idejére jár.
 
-(3) Az egy hónapra számított illetménypótlékok esetében, ha a hivatásos katona az adott hónapban bármely oknál fogva a munkanapok felénél többet távol van, számára csak az időarányos rész folyósítható.
+(3)[^14]
+
+[^14]: Az 5. § (3) bekezdését a 3/2012. (III. 6.) HM rendelet 23. § b) pontja hatályon kívül helyezte.

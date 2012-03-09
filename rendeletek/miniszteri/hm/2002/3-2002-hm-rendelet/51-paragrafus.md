@@ -1,6 +1,6 @@
 ## Különleges igénybevételi pótlék
 
-51. §[^59] (1)[^60] Különleges igénybevételi pótlékra jogosult az állomány tagja, ha
+51. §[^76] (1)[^77] Különleges igénybevételi pótlékra jogosult az állomány tagja, ha
 
 a) különleges műveleti kiképzésen vesz részt,
 
@@ -10,7 +10,7 @@ c) nemzetközi szervezet (így különösen a NATO, az ENSZ, az EBESZ, az EU) á
 
 (2) A különleges igénybevételi pótlék arra az időre folyósítható, amely időszak alatt a hivatásos katona az (1) bekezdésben meghatározott kiképzésen vesz részt, illetve amely időszak alatt az (1) bekezdésben meghatározott körülmények között teljesít szolgálatot.
 
-(3)[^61] A különleges igénybevételi pótlék havi mértéke
+(3)[^78] A különleges igénybevételi pótlék havi mértéke
 
 a) az illetményalap 100%-a
 
@@ -34,6 +34,6 @@ bb) az (1) bekezdés c) pontja szerinti állomány béketámogató művelet maga
 
 (5) Az (1) bekezdés vonatkozásában különleges műveleti kiképzés a Magyar Honvédség kijelölt katonai szervezetének állománya által, az alap-, illetve teljes szintű különleges műveleti képesség elérése és szinten tartása érdekében végrehajtott kiképzés.
 
-[^59]: Az 51. § a 33/2007. (VIII. 17.) HM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a megemelt és kiterjesztett alkalmazási körű pótlékok (díjak) esetében 2007. július 1-jétől kell alkalmazni.
-[^60]: Az 51. § (1) bekezdése a 6/2009. (VI. 4.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^61]: Az 51. § (3) bekezdése a 6/2009. (VI. 4.) HM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^76]: Az 51. § a 33/2007. (VIII. 17.) HM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a megemelt és kiterjesztett alkalmazási körű pótlékok (díjak) esetében 2007. július 1-jétől kell alkalmazni.
+[^77]: Az 51. § (1) bekezdése a 6/2009. (VI. 4.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^78]: Az 51. § (3) bekezdése a 6/2009. (VI. 4.) HM rendelet 5. § (2) bekezdésével megállapított szöveg.
