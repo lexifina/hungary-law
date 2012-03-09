@@ -1,8 +1,8 @@
-## 8. § Az expozíciós idő mértékének megállapításánál az egyes egészségkárosító kockázatok között foglalkoztatott munkavállalók (napi, heti) expozíciós idejének korlátozásáról szóló 26/1996. (VIII. 28.) NM rendelet, valamint a munkahelyek kémiai biztonságáról szóló 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet szabályai szerint kell eljárni.
+## 8. §[^17] Az expozíciós idő mértékének megállapításánál a munkahelyek kémiai biztonságáról szóló miniszteri rendelet szabályai szerint kell eljárni.
 
 ## A veszélyes, fokozottan veszélyes munkakört betöltők számára biztosított juttatások
 
-9. § (1)[^17] A Hjt. 99. §-ának (1) bekezdésében a hivatásos és szerződéses állomány, valamint a tényleges szolgálatot teljesítő önkéntes tartalékos katonák részére meghatározott pótszabadság meghatározásakor az alábbi szempontokat kell – a (2) bekezdés szerinti kivétellel – együttesen figyelembe venni:
+9. § (1)[^18] A Hjt. 99. §-ának (1) bekezdésében a hivatásos és szerződéses állomány, valamint a tényleges szolgálatot teljesítő önkéntes tartalékos katonák részére meghatározott pótszabadság meghatározásakor az alábbi szempontokat kell – a (2) bekezdés szerinti kivétellel – együttesen figyelembe venni:
 
 a) az éves munkaidő keretből a pótszabadságra jogosító beosztásban az előző évben ténylegesen eltöltött órák száma:
 
@@ -48,4 +48,5 @@ b) a pótlékra jogosító beosztásban eltöltött évek száma:
 
 (2) Az állományilletékes parancsnok (vezető) által meghatározott fokozottan veszélyes munkakört betöltők az éves munkaidő kerettől, illetve a pótlékra jogosító beosztásban eltöltött évektől függetlenül jogosultak a 10, illetve 14 nap pótszabadságra.
 
-[^17]: A 9. § (1) bekezdése a 13/2006. (IV. 19.) HM rendelet 5. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^17]: A 8. § a 3/2012. (III. 6.) HM rendelet 50. §-ával megállapított szöveg.
+[^18]: A 9. § (1) bekezdése a 13/2006. (IV. 19.) HM rendelet 5. § (2) bekezdésének b) pontja szerint módosított szöveg.
