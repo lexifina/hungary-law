@@ -12,7 +12,7 @@ b) korábban nyugállományú katonák idősek otthona elhelyezését biztosít�
 
 (3)[^11] Az egyszeri támogatás az egyszeri hozzájárulás egy részének átvállalására terjedhet ki, amelynek mértéke legfeljebb az egyszeri hozzájárulás 70%-a lehet, de nem haladhatja meg az átlagos ápolást, gondozást nyújtó időskorúak ápoló-gondozó otthoni ellátása jogcímén egy ellátott után járó tárgyévi normatív állami támogatás legalacsonyabb mértékének háromszorosát. Ha a bérlő a HM rendelkezésű lakás bérletét közös megegyezéssel megszünteti és kiürítési térítésben nem részesül, az egyszeri hozzájárulás teljes mértékben átvállalható.
 
-(4)[^12] Az egyszeri támogatás igénybevételét a jogosult kérelmezi a területileg illetékes hadkiegészítő parancsnoknál. A parancsnok a kérelmet a nyilvántartásba vételt követően soron kívül a Honvédség központi személyügyi feladatokat ellátó szerve útján az 1. számú mellékletben meghatározott szakértőkből álló bizottság elnökéhez továbbítja.
+(4)[^12] Az egyszeri támogatás igénybevételét a jogosult kérelmezi a lakóhely szerint illetékes katonai igazgatási szerv parancsnoknál. A parancsnok a kérelmet a nyilvántartásba vételt követően soron kívül a Honvédség központi személyügyi feladatokat ellátó szerve útján az 1. számú mellékletben meghatározott szakértőkből álló bizottság elnökéhez továbbítja.
 
 (5) A beérkezett kérelmek elbírálását a 2. számú mellékletben meghatározott szempontok alapján a bizottság a beérkezés sorrendjében végzi.
 
@@ -28,7 +28,7 @@ b) korábban nyugállományú katonák idősek otthona elhelyezését biztosít�
 [^9]: A 3/A. § (1) bekezdése a 8/2009. (VI. 18.) HM rendelet 10. § (4) bekezdése szerint módosított szöveg.
 [^10]: A 3/A. § (2) bekezdése a 8/2009. (VI. 18.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^11]: A 3/A. § (3) bekezdése a 8/2009. (VI. 18.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^12]: A 3/A. § (4) bekezdése a 8/2009. (VI. 18.) HM rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^12]: A 3/A. § (4) bekezdése a 8/2009. (VI. 18.) HM rendelet 10. § (4) bekezdése, a 3/2012. (III. 6.) HM rendelet 44. § a) pontja szerint módosított szöveg.
 [^13]: A 3/A. § (6) bekezdése a 8/2009. (VI. 18.) HM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^14]: A 3/A. § (7) bekezdése a 8/2009. (VI. 18.) HM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^15]: A 3/A. § (8) bekezdését a 8/2009. (VI. 18.) HM rendelet 10. § (5) bekezdése hatályon kívül helyezte.

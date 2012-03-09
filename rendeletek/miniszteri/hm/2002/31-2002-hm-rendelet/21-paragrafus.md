@@ -14,12 +14,13 @@ d) együttműködnek az érdekképviseleti szervezetekkel;
 
 e) az e rendelet tárgyát képező feladatok megoldása érdekében szakmai kapcsolatot tartanak a helyi önkormányzati szervekkel és civil szervezetekkel.
 
-(2)[^38] A szervezeti egységek a nyugállományú katonák ellátásának biztosítása érdekében
+(2)[^42] A szervezeti egységek a nyugállományú katonák ellátásának biztosítása érdekében
 
 a) kapcsolatot tartanak a szervezeti egységből, illetve annak jogelőd szervezetétől nyugállományba helyezettekkel, nyugdíjazottakkal;
 
-b) nyugállományúakat érintő kérdésekben együttműködnek a területileg illetékes megyei (fővárosi) hadkiegészítő parancsnokságokkal.
+b)[^43] nyugállományúakat érintő kérdésekben együttműködnek a lakóhely szerint illetékes katonai igazgatási szervvel.
 
 (3) A feladatok koordinálását a szervezeti egység személyügyi szerve végzi.
 
-[^38]: A 21. § (2) bekezdése a 8/2009. (VI. 18.) HM rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^42]: A 21. § (2) bekezdése a 8/2009. (VI. 18.) HM rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^43]: A 21. § (2) bekezdés b) pontja a 3/2012. (III. 6.) HM rendelet 44. § f) pontja szerint módosított szöveg.

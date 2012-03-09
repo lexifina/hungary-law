@@ -24,6 +24,6 @@
 
 ## A bizottság szükség szerint, de évente legalább négy alkalommal ülésezik. Ügyrendjét maga határozza meg, és a Honvédség személyügyi feladatokat ellátó központi szervének vezetője hagyja jóvá.
 
-2. számú melléklet a 31/2002. (V. 3.) HM rendelethez[^41]
+2. számú melléklet a 31/2002. (V. 3.) HM rendelethez[^47]
 
-[^41]: A 2. számú mellékletet a 26/2004. (IX. 27.) HM rendelet 3. §-a iktatta a szövegbe, egyidejűleg a melléklet eredeti szövegének jelölését 3. számú mellékletre változtatta.
+[^47]: A 2. számú mellékletet a 26/2004. (IX. 27.) HM rendelet 3. §-a iktatta a szövegbe, egyidejűleg a melléklet eredeti szövegének jelölését 3. számú mellékletre változtatta. A 2. melléklet a 3/2012. (III. 6.) HM rendelet 43. §-ával megállapított szöveg.
