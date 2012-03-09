@@ -1,3 +1,3 @@
-## 50. §[^53] Szolgálati jelek, kitüntető címek és oklevelek adományozása – e rendelet eltérő rendelkezése hiányában – augusztus 20-án, március 15-én, október 23-án, a Honvédelem Napján, május 21-én, fegyvernemi és csapatünnepeken, valamint a nyugállományba helyezés napján történik.
+## 50/A. §[^64] A Honvédségnél hivatásos és szerződéses állományban ténylegesen eltöltött évek elismeréséül adományozott szolgálati jelek és a kormánytisztviselők, közalkalmazottak és munkavállalók hosszú időn át kifejtett színvonalas munkájának, szakmai tevékenységének elismeréséül adományozott oklevelek az esedékesség hónapjában, a felterjesztő alakulatnál megrendezésre kerülő állománygyűlésen kerülnek átadásra.
 
-[^53]: Az 50. § a 2/2009. (III. 17.) HM rendelet 4. §-ával megállapított szöveg.
+[^64]: Az 50/A. §-t a 3/2012. (III. 6.) HM rendelet 34. §-a iktatta be.

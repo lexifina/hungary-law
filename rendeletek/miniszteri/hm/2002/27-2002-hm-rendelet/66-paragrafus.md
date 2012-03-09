@@ -1,3 +1,5 @@
-66. § (1) A katonai nemzetbiztonsági szolgálatok az elismerésekre vonatkozó javaslatukat az e rendeletben meghatározott felterjesztési rendtől eltérően is kezdeményezhetik.
+66. §[^93] (1) A KNBSZ az elismerésekre vonatkozó javaslatait az e rendeletben meghatározott felterjesztési rendtől eltérően is kezdeményezheti.
 
-(2) A katonai nemzetbiztonsági szolgálatok állományába tartozó személyek részére adományozható érdem utáni szolgálati jelek és kitüntető címek számát – az összesen adományozható kereten belül – évenként a honvédelmi miniszter határozza meg.
+(2) A KNBSZ állományába tartozó személyek részére adományozható érdem utáni szolgálati jelek és kitüntető címek számát – az összesen adományozható kereten belül – évenként a honvédelemért felelős miniszter határozza meg.
+
+[^93]: A 66. § a 3/2012. (III. 6.) HM rendelet 37. §-ával megállapított szöveg.

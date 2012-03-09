@@ -1,7 +1,3 @@
-## 5/A. §[^8] A nemzeti és NATO/EU/EBESZ/ENSZ beosztásokban tartós külszolgálatot teljesítők elismerésére
+## 5/B. §[^10] A katonadiplomácia területén tartós külföldi szolgálatot teljesítők tevékenységének elismerésére „KATONADIPLOMÁCIAI SZOLGÁLATÉRT” érdemérmet alapítok.
 
-## ,,NATO/EU/EBESZ/ENSZ Szolgálati Érdemérmet''
-
-## alapítok.
-
-[^8]: Az 5/A. §-t az 5/2004. (III. 4.) HM rendelet 1. §-a iktatta a szövegbe.
+[^10]: Az 5/B. §-t a 3/2012. (III. 6.) HM rendelet 27. §-a iktatta be.
