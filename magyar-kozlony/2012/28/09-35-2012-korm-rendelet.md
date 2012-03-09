@@ -1,0 +1,377 @@
+# A Kormány 35/2012. (III. 9.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 28. szám, 2012. március 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/90c7fa80380ecf553e26d3a0ec5819d1ddb6cfc1/dokumentumok/ed59bd0dc2bbc59cbf1361a3696efa088981f409/letoltes)
+
+---
+
+A Kormány 35/2012. (III. 9.) Korm. rendelete
+egyes területfejlesztési és önkormányzati fejlesztési célokat szolgáló hazai támogatási
+előirányzatokról szóló kormányrendeletek módosításáról
+A Kormány
+az 1. alcím tekintetében a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés k) pontjában és
+a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 66. § (3) bekezdésében,
+a 2. alcím tekintetében a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés k) pontjában
+és a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 63. § (3) bekezdésében,
+a 3. alcím tekintetében a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 91. § (1) bekezdés
+c) pontjában, valamint a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési
+Szabályzat megállapításáról szóló 2000. évi CXII. törvény 58. § (1) bekezdés c) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A 2008. évi terület- és régiófejlesztési célelőirányzat felhasználásának részletes szabályairól szóló
+148/2008. (V. 26.) Korm. rendelet módosítása
+1. § A 2008. évi terület- és régiófejlesztési célelőirányzat felhasználásának részletes szabályairól szóló 148/2008.
+(V. 26.) Korm. rendelet (a továbbiakban: R1.) 1. § (3) bekezdés helyébe a következő rendelkezés lép:
+„(3) A célelőirányzat terhére finanszírozhatóak a célelőirányzat decentralizált területfejlesztési programjai, valamint
+a Vásárhelyi Terv továbbfejlesztése keretében a regionális fejlesztési tanács általános jogutódjaként eljáró megyei
+önkormányzat (a továbbiakban: tanács) által, illetve a célelőirányzat központi kerete terhére a területfejlesztésért
+felelős miniszter (a továbbiakban: miniszter) által a korábbi években tett éven túli kötelezettségvállalások.”
+2. § Az R1. 2. § j) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„j) MR: a Magyar Államkincstár (a továbbiakban: Államkincstár) által az államháztartásról szóló törvény
+végrehajtásáról szóló kormányrendelet rendelkezései szerint működtetett monitoring rendszer;”
+3. § Az R1. 2. § s) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„s) támogatási döntést hozó szerv: a miniszter, a regionális fejlesztési tanács, a megyei területfejlesztési tanács, vagy
+az ezen tanácsok általános jogutódjaként eljáró megyei önkormányzat.”
+4. § Az R1. 9. § (7)–(9) bekezdése helyébe a következő rendelkezés lép:
+„(7) Adózás előtti eredmény növelésére vállalt kötelezettség keretében – a fenntartási kötelezettség mellett – a 8. §
+(1) bekezdés b) pont ba) és bb) alpontja alapján támogatásban részesített projektet, valamint a 37. § (1) bekezdés
+c) pontjában foglalt jogcímek alapján támogatásban részesített, jövedelemtermelő projektet megvalósító
+kedvezményezett arra vonatkozóan vállal kötelezettséget, hogy a projekt befejezését követő első üzleti év első
+napjától számított 3 üzleti éven át – kis- és középvállalkozások esetén 2 üzleti éven át – a számvitelről szóló 2000. évi
+C. törvény (a továbbiakban: számviteli törvény) alapján számított adózás előtti eredményét a támogatási
+szerződésben meghatározottak szerint növeli. Az adózás előtti eredmény növelésére vállalt kötelezettség akkor
+tekinthető teljesítettnek, ha a vállalt növekedési érték a kötelezettség teljes időtartamára számított átlagban teljesül.
+A teljesítés mértékét a ténylegesen teljesült és a vállalt növekmény hányadosának százalékban kifejezett értéke adja.
+A kötelezettség mértékének meghatározása során bázisértéknek a pályázat benyújtását megelőző, vagy
+– a kedvezményezett írásbeli kérelme alapján – a támogatási szerződés megkötését megelőző utolsó lezárt üzleti év
+beszámolójának adatait kell tekinteni.
+(8) Fenntartási kötelezettség keretében a 8. § (1) bekezdés a) pontja, b) pont ba) alpontja, c) pont ca) alpontja, a 35. §
+(1) bekezdés c) pontja, és a 37. § (1) bekezdés b) és c) pontja szerinti jogcímek alapján támogatásban
+részesített kedvezményezettnek a támogatással megvalósuló projektek keretében létrehozott vagy fejlesztett
+létesítmények és eszközök használati értékét meg kell őriznie, és az azok által nyújtani kívánt szolgáltatásokat
+– a szükséges karbantartási időszakokat leszámítva – az eredeti célnak megfelelően folyamatosan fenn kell tartania.
+
+A fenntartási kötelezettség időtartama megegyezik a (7) és (9) bekezdésben szereplő kötelezettségek időtartamával,
+jogelőd előirányzatok esetében a támogatási szerződésben vállalt foglalkoztatási kötelezettség időtartamával.
+Fenntartásikötelezettség– melynekidőtartamaaprojektbefejezésétkövetőhónaptólszámított5 év– terhelitovábbá
+a támogatottat a 8. § (1) bekezdés a) pont, c) pont ca) alpontja, valamint – szolgálati lakások kialakítására, felépítésére
+vagy felújítására irányuló projekt esetén – cb) alpontja szerinti jogcím vonatkozásában.
+(9) Foglalkoztatási kötelezettség keretében – a fenntartási kötelezettség mellett – a 8. § (1) bekezdés b) pont
+ba) alpontjában, valamint a 35. § (1) bekezdés c) pontjában foglalt jogcímek szerint támogatásban részesített
+kedvezményezett arra vállal kötelezettséget, hogy a támogatási szerződésben rögzített foglalkoztatotti
+többletlétszámot 3 éven, kis- és középvállalkozások esetén 2 éven át fenntartsa. A kötelezettség teljesítése
+meghatározásának alapját az átlagos statisztikai állományi létszámok adják. A kötelezettség teljesítését leghamarabb
+a projekt befejezését követő hónapban, legkésőbb a projekt befejezését követő hatodik hónapban meg kell kezdeni
+(feltöltési időszak). A kötelezettség teljesülésének meghatározása során bázislétszámnak a pályázat benyújtását
+megelőző 12 hónap átlagos statisztikai állományi létszámát kell tekinteni figyelemmel a célelőirányzat korábbi évi
+forrásaiból, valamint egyéb forrásokból megítélt támogatásokhoz kapcsolódó foglalkoztatási kötelezettségekre.
+Foglalkoztatotti többletlétszám alatt a teljes foglalkoztatási időszak átlagos statisztikai létszámának és
+a bázislétszámnak a különbségét kell érteni. A kötelezettség teljesítésének mértékét annak kezdő időpontjától, annak
+befejezésének időpontjáig a teljes foglalkoztatási időszakra számítottan kell megállapítani. A kötelezettség
+teljesítésének mértékét a ténylegesen teljesült és a vállalt foglalkoztatotti többletlétszám hányadosának százalékban
+kifejezett értékével kell meghatározni. A foglalkoztatási kötelezettség akkor tekinthető teljesítettnek, ha a vállalt
+többletlétszám a kötelezettség teljes időtartamára számított átlagban teljesül. A foglalkoztatási kötelezettség
+teljesítése során az átlagos statisztikai állományi létszám számításánál a részmunkaidőben, de legalább heti 30 órában
+foglalkoztatottak a teljes munkaidőben alkalmazottaknak felelnek meg.”
+5. § Az R1. 9/A. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az a kedvezményezett, aki a 8. § (1) bekezdés b) pont ba) alpontjában foglalt jogcím esetén fenntartási
+kötelezettség mellett foglalkoztatási kötelezettséget vállalt, vagy jogelőd előirányzatok esetében foglalkoztatási
+kötelezettséget vállalt, a támogatási döntést hozó szervnél írásban kérelmezheti a foglalkoztatási kötelezettség
+adózás előtti eredmény növelés kötelezettségre történő módosítását. A kérelem irányulhat a foglalkoztatási
+kötelezettség teljes időtartamának adózás előtti eredmény növelés kötelezettségre történő cseréjére, vagy
+a foglalkoztatási kötelezettséggel érintett időtartam részbeni adózás előtti eredmény növelés kötelezettségre történő
+kiváltására. A kérelem benyújtására rendelkezésre álló határidő a foglakoztatási kötelezettség záró időpontjáig áll
+nyitva. A támogatási döntést hozó szerv a kérelem elbírálása során a pályázati felhívás szabályainak, az eredetileg
+vállalt kötelezettségek mértékének, az érintett ágazat és földrajzi egység sajátosságainak, valamint az ügy egyéb
+körülményeinek figyelembe vételével dönt.
+(2) A kérelemben a kedvezményezett nyilatkozik arról, hogy a foglalkoztatási kötelezettségnek az adózás előtti
+eredmény növelése kötelezettségre történő módosítása során a kérelem benyújtása időpontjában rendelkezésre álló,
+utolsó lezárt üzleti évet, vagy a kérelem benyújtásának időpontjában folyamatban lévő üzleti évet kívánja az adózás
+előtti kötelezettség bázis időszakául választani. A foglalkoztatási- és az adózás előtti eredmény növelésére irányuló
+kötelezettség szempontjából figyelembe veendő időtartamnak együttesen meg kell egyeznie a 9. § (7) bekezdése
+szerinti, jogelőd előirányzatok esetén az eredeti támogatási szerződés szerinti kötelezettségvállalási időtartammal.”
+6. § Az R1. az „A beruházási támogatásokra vonatkozó szabályok” alcímet megelőzően a következő 9/B. §-sal egészül ki:
+„9/B. § (1) Az a számviteli törvény hatálya alá tartozó kedvezményezett, aki fenntartási kötelezettség mellett
+foglalkoztatásivagy adózáselőttieredménynöveléseirántikötelezettségetvállalt,atámogatásidöntést hozószervnél
+írásban kérelmezheti a kötelezettségnek az üzemi (üzleti) tevékenység eredménye növelése iránti kötelezettségre
+történő módosítását. A kérelem irányulhat az eredetileg vállalt kötelezettség teljes időtartamának üzemi (üzleti)
+tevékenység eredménye növelése iránti kötelezettségre történő cseréjére, vagy a kötelezettséggel érintett időtartam
+részben üzemi (üzleti) tevékenység eredménye növelése iránti kötelezettségre történő kiváltására. A kérelem
+benyújtására rendelkezésre álló határidő a foglakoztatási, vagy az adózás előtti eredmény növelése iránti
+kötelezettség záró időpontjáig áll nyitva.
+(2) A kötelezettség üzemi (üzleti) tevékenység eredménye növelése iránti kötelezettségre történő kiváltására
+a 9. § (7) bekezdésében és a 9/A. § (2)–(6) bekezdésében foglaltakat kell megfelelően alkalmazni.”
+
+7. § Az R1. 25. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha a tervezett módosítással a támogatási szerződésben rögzített műszaki tartalom megvalósulása sérülne,
+a támogatási döntést hozó szerv csak a támogatás arányos részének visszavonásával járulhat hozzá a támogatási
+szerződés módosításához. Ha a tervezett módosítással a vállalt kötelezettségek teljesítése sérülne, de
+a kötelezettségek teljes időtartamára vetítve 75%-ot – foglalkoztatási, adózás előtti eredmény növelése, az üzemi
+(üzleti) tevékenység eredménye növelése kötelezettség esetén 50%-ot – meghaladó mértékű teljesítés várható,
+a támogatási döntést hozó szerv csak a támogatás arányos részének visszavonásával járulhat hozzá a támogatási
+szerződés módosításához. A kötelezettségek 75% – foglalkoztatási, adózás előtti eredmény növelése, az üzemi (üzleti)
+tevékenység eredménye növelése kötelezettség esetén 50% – alatti várható teljesítésével járó szerződésmódosítási
+kezdeményezéshez a támogatási döntést hozó szerv nem járulhat hozzá.”
+8. § (1) Az R1. 25/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha a kedvezményezett az előre nem tervezhető, jelentősen megváltozott külső gazdasági környezet miatt
+időlegesen nem tudja teljesíteni a támogatási szerződésben vállalt kötelezettségeit, úgy a támogatási döntést hozó
+szervtől írásban kérelmezheti a 9. § (7)–(11) bekezdése szerinti kötelezettségek teljesítésének felfüggesztését.
+A kérelemben meg kell jelölni, hogy az melyik támogatási szerződéshez kapcsolódik, mely kötelezettség
+felfüggesztésére irányul, valamint a felfüggesztés kérelmezett kezdő és befejező időpontját. Emellett részletesen be
+kell mutatni a vállalt kötelezettségek teljesítését megakadályozó okokat, valamint a kedvezményezett által
+a felfüggesztés időtartama alatt tervezett azon intézkedéseket, amelyek biztosítják a vállalt kötelezettségek eredeti
+szerződéses feltételek szerinti teljesítését a felfüggesztés lejártát követően.”
+(2) Az R1. 25/A. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
+„(3) A kötelezettségekteljesítésénekfelfüggesztésérőla támogatási döntést hozó szerv a kérelembeérkezésétkövető
+60 napon belül dönt. A felfüggesztés időtartama nem lehet hosszabb 24 hónapnál. A felfüggesztés időtartamának
+kezdő időpontját valamely hónap első, befejező időpontját valamely hónap utolsó napjában kell meghatározni,
+amelyeket a támogatási szerződés módosításában rögzíteni kell.
+(4) A felfüggesztésre vonatkozó kérelem benyújtására a szerződéses kötelezettségek záró időpontjáig van mód.”
+(3) Az R1. 25/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A kedvezményezett a támogatási döntést hozó szervnél a felfüggesztés lejártát megelőző legalább 30 és
+legfeljebb180 napon belül írásban kérelmezheti a felfüggesztés meghosszabbítását.A felfüggesztés teljes időtartama
+a felfüggesztés meghosszabbítása esetében sem lehet hosszabb a (3) bekezdésben meghatározott időtartamnál.
+A felfüggesztés időtartamának lejártát követően a kedvezményezett köteles a kötelezettségeit a támogatási
+szerződésben vállalt feltételek szerint teljesíteni. A felfüggesztés időtartamának meghosszabbításakora (2) bekezdést
+kell megfelelően alkalmazni. A felfüggesztés időtartama a támogatási szerződésben vállalt, a 9. § (7)–(11) bekezdése
+szerinti kötelezettségek teljesítése időtartamának nem képezi részét.”
+9. § Az R1. 25/C. §-a helyébe a következő rendelkezés lép:
+„25/C. § A kedvezményezett a 9/A. § (1) bekezdésében, a 9/B. § (1) bekezdésében, a 25/A. § (1) bekezdésében és
+a 25/B. § (1) bekezdésében szabályozott lehetőségek közül ugyanazon támogatási szerződéséhez egyidejűleg csak az
+egyik kedvezménnyel élhet.”
+10. § Az R1. 28. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A jelzálogjognak, illetve a garanciavállalásnak legalább a projekt megkezdésétől a támogatási szerződésben
+vállalt valamennyi kötelezettség megszűnését követő hatodik hónap végéig kell fennállnia. A támogatási
+szerződésbenki kellkötni, hogy a szerződéshatálybalépésénekfeltétele a biztosítékokrendelkezésreállását– ingatlan
+jelzálogjog esetén a jelzálogjog bejegyzését – igazoló dokumentum Államkincstárhoz történő benyújtása.”
+11. § (1) Az R1. 29. § (1)–(3) bekezdés helyébe a következő rendelkezés lép:
+„(1) A célelőirányzatból támogatott beruházással létrehozott vagyon a támogatási szerződésben vállalt
+kötelezettségek teljesüléséig csak a támogatási döntéshozó szerv jóváhagyásával idegeníthető el, adható bérbe vagy
+használatba. A kedvezményezett által a támogatási döntéshozó szerv részére küldött, jóváhagyást kérő
+kezdeményezésnek tartalmaznia kell annak ismertetését, hogy a kedvezményezett vagy más személy a támogatási
+szerződésben foglalt, fenntartási, foglalkoztatási vagy adózás előtti eredmény növelése iránt vállalt kötelezettségeit
+milyen módon fogja a támogatással létrehozott vagyon elidegenítését, bérbe vagy használatba adását követően
+
+teljesíteni. A támogatási döntéshozó szerv bérbe vagy használatba adáshoz utólag is hozzájárulhat, ha a hozzájárulás
+jogszabályban előírt egyéb feltételei teljesülnek. Ha a kedvezményezett önkormányzat, a támogatási döntéshozó
+szerv a támogatással létrehozott vagyon elidegenítéséhez is hozzájárulhat utólag. Az elidegenítéshez, bérbe vagy
+használatba adáshoz való hozzájárulás esetén – különös tekintettel az utólagos hozzájárulásra – a támogatási
+döntéshozó szervnek mérlegelnie kell a támogatási szerződés céljának jövőbeni megvalósulását, az esetleges
+államháztartási követelések kockázatának mértékét és az ügy egyéb körülményeit.
+(2) Ha a célelőirányzatból támogatott beruházással létrehozott vagyon elidegenítéséhez, bérbe vagy használatba
+adásához a támogatási döntéshozó szerv nem járul hozzá, akkor az igénybe vett támogatás a kötelezettség
+teljesítésével arányos részleges, vagy teljes, kamattal növelt összege visszafizetésének elrendelésére és az igénybe
+nem vett támogatás teljes összegének törlésére kerül sor, figyelembe véve a 30. § (1)–(2) bekezdését. Ebben az
+esetben a támogatást a 30. § (3) bekezdésében rögzített mértékű kamattal növelt összegben kell visszafizetni az
+Államkincstár által vezetett, támogatási szerződésben megjelölt számla javára.
+(3) Ha a támogatási döntéshozó szerv előzetes vagy utólagos jóváhagyásával történő elidegenítésre, bérbe vagy
+használatba adásra a támogatási szerződésben vállalt – fenntartási, foglalkoztatási, adózás előtti eredmény növelése
+iránti és egyéb – kötelezettségek más által történő átvállalásával kerül sor, úgy a támogatást nem kell visszafizetni
+a célelőirányzat javára.”
+(2) Az R1. 29. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Ha a célelőirányzatból támogatott beruházással létrehozott vagyon elidegenítésére, bérbe vagy használatba
+adására a támogatási döntéshozó szerv előzetes vagy utólagos jóváhagyásával kerül sor a támogatási szerződésben
+vállalt minden kötelezettség más által történő átvállalása nélkül, úgy az igénybe vett támogatást a jóváhagyás
+időpontjában érvényes jegybanki alapkamattal növelt összegben kell visszafizetni az Államkincstár által vezetett,
+támogatási szerződésben megjelölt számla javára.”
+12. § Az R1. 30. § (1)–(3) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az igénybe vett támogatás arányos része kamattal növelt összegének – a 9/A. § (1) bekezdése, a 9/B. §
+(1) bekezdése, a 25/A. § (1) bekezdése és a 25/B. § (1) bekezdése szerinti kérelem ügyében hozott döntés
+figyelembevétele melletti – visszafizetésével és az igénybe nem vett támogatás visszavonásával és törlésével jár, ha
+a) az adózás előtti, vagy üzemi (üzleti) eredmény növelésére irányuló, vagy a foglalkoztatási kötelezettség
+a kötelezettség teljes időtartamát tekintve csak részben, de 50%-ot meghaladó mértékben teljesül,
+b) a jóváhagyott célkitűzés csak részben, de 75%-ot meghaladó mértékben valósul meg, vagy
+c) a vállalt fenntartási kötelezettség a kötelezettség teljes időtartamát tekintve csak részben, de 75%-ot meghaladó
+mértékben teljesül.
+(2) Az igénybe vett támogatás teljes, a (3) bekezdés szerinti kamattal növelt visszafizetésével és az igénybe nem vett
+támogatás visszavonásával jár, ha
+a) a projekt 33. § (1) bekezdése szerinti befejezésére nem kerül sor,
+b) az elfogadott céltól eltérő projektet valósítanak meg,
+c) afenntartásikötelezettségakötelezettségteljesidőtartamáttekintve75%-ot megnemhaladómértékbenteljesül,
+d) az adózás előtti, vagy üzemi (üzleti) eredmény növelésére irányuló kötelezettség teljes időtartamát tekintve csak
+részben, de 50%-ot meg nem haladó mértékben teljesül,
+e) afoglalkoztatásikötelezettségakötelezettségteljesidőtartamát tekintvecsakrészben,de 50%-ot meg nemhaladó
+mértékben teljesül,
+f) a kedvezményezett az e rendelet szerinti, vagy a támogatási szerződésben rögzített visszatérítési, visszafizetési,
+tájékoztatási, együttműködési vagy egyéb kötelezettségét határidőn belül nem teljesíti, vagy
+g) a támogatási szerződésben vállalt kötelezettségek maradéktalan teljesítését megelőzően a kedvezményezett
+végelszámolása iránti eljárás veszi kezdetét, vagy ellene felszámolási, vagy egyéb, jogutód nélküli megszűnését
+eredményező eljárás indul.
+(3) A kamat a visszavonáskor érvényes jegybanki alapkamat kétszerese, nem önkormányzatok kedvezményezettsége
+esetén megegyezik a visszavonáskor érvényes jegybanki alapkamat mértékével. A kamatot a támogatás
+igénybevételétől a támogatási döntést hozó szervnek a támogatási szerződés nem megfelelő teljesítéséről való
+értesülését igazoló dokumentum keltezéséig terjedő időszakra kell felszámítani. Ha a támogatott a nem teljesítést
+rögzítő ellenőrzési jegyzőkönyvben tett megállapítást vitatja és a szerződésszerű teljesítést 15 napon belül hitelt
+érdemlően nem igazolja, a kamatot az igénybevételtől az igazolásra rendelkezésre álló határidő leteltéig kell
+felszámítani. A támogatási szerződés nem megfelelő teljesítéséről való értesülést igazoló dokumentum keltezésének
+
+helyszíni ellenőrzési jegyzőkönyv esetén a jegyzőkönyv aláírásának dátumát, a (2) bekezdés g) pontjában szereplő
+eljárások esetén az eljárás megindulásáról tájékoztató Cégközlöny dátumát kell tekinteni. A kamat összegét – az
+ügynökséggel együttműködve – az Államkincstár határozza meg.”
+13. § (1) Az R1. 39. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A jogelőd előirányzatok terhére hozott, munkahely-megtartási kötelezettséggel járó támogatási döntések
+esetében a foglalkoztatási kötelezettség akkor tekinthető teljesítettnek, ha a vállalt létszám a kötelezettség teljes
+időtartamára számított átlagban teljesült.”
+(2) Az R1. 39. §-a a következő (9)–(13) bekezdéssel egészül ki:
+„(9) A (3) bekezdésben felsorolt jogelőd előirányzatok terhére megítélt munkahelyteremtő támogatások esetén,
+amennyiben a megítélt támogatás összege alacsonyabb, mint a vállalt foglalkoztatotti többletlétszámra maximálisan
+adható vissza nem térítendő támogatás összege, úgy a támogatott a támogatási döntést hozó szervnél kérelmezheti
+a foglalkoztatotti többletlétszám megítélt támogatási összeghez való igazítását.
+(10) A (3) bekezdésben felsorolt jogelőd előirányzatok terhére megítélt azon támogatások esetén, ahol kizárólag
+fenntartási, üzemeltetési, szolgáltatási és karbantartási kötelezettséget vállalt a támogatott, ezen kötelezettségek
+időtartama a projekt befejezését követő hónaptól számított 5 év.
+(11) A célelőirányzat és a (3) bekezdésben felsorolt jogelőd előirányzatok központi keretének terhére pályázati
+rendszerben vagy miniszteri egyedi döntés keretében nyújtott támogatások esetében a támogatásokkal
+kapcsolatban felmerülő ügyekben a támogatási döntést hozó szerv feladatait az Államkincstár látja el.
+(12) A 9/A. § (2)–(6) bekezdésében, a 25/A. § (2) bekezdésében, a 25/B. §-ban, a 25/C. §-ban, a 28. § (1)–(3) és
+(7) bekezdésében, a 30. § (4) és (5) bekezdésében, a 31. §-ban, valamint a 32. § (1) és (2) bekezdésében foglalt
+rendelkezéseket a (3) bekezdésben meghatározott jogelőd előirányzatokhoz kapcsolódó, folyamatban lévő
+támogatási ügyekre is megfelelően alkalmazni kell, kivéve azon támogatási ügyeket, amelyekhez peres
+követelés-igényérvényesítési eljárások kapcsolódnak, vagy a visszafizetés iránti követelés legalább részben teljesült.
+Amennyiben nem peres követelés-igényérvényesítési eljárás indult a támogatás ügyében, úgy a 9/A. §
+(2)–(6) bekezdésében, a 25/A. § (2) bekezdésében, a 25/B. §-ban, a 25/C. §-ban, a 28. § (1)–(3) és (7) bekezdésében,
+a 30. § (4) és (5) bekezdésében, a 31. §-ban, valamint a 32. § (1) és (2) bekezdésében foglaltak csak abban az esetben
+alkalmazhatóak a (3) bekezdésben meghatározott jogelőd előirányzatokhoz kapcsolódó, folyamatban lévő
+támogatási ügyekre is, ha a támogatott a támogatási döntést hozó szerv nem peres eljárásból adódó költségeit
+megtéríti.
+(13) E rendeletnek az egyes területfejlesztési és önkormányzati fejlesztési célokat szolgáló hazai támogatási
+előirányzatokról szóló kormányrendeletek módosításáról szóló 35/2012. (III. 9.) Korm. rendelettel (a továbbiakban:
+módosító rendelet) megállapított 2. § s) pontjában, 9. § (7)–(9) bekezdésében, 9/A. § (1) bekezdésében, 9/B. §-ában,
+25. § (2) bekezdésében, 25/A. § (1), (3), (4) és (6) bekezdésében, 28. § (4) bekezdésében, 29. § (1)–(3) és
+(5) bekezdésében, 30. § (1)-(3) bekezdésében, 39. § (4) és (9)–(12) bekezdésében foglalt rendelkezéseket a módosító
+rendelet hatálybalépése napján folyamatban lévő eljárásokra is – ideértve a (3) bekezdésben meghatározott jogelőd
+előirányzatok kapcsán folyamatban lévő támogatási ügyeket is – megfelelően alkalmazni kell, kivéve azon támogatási
+ügyeket, amelyekhez peres követelés-igényérvényesítési eljárások kapcsolódnak, vagy a visszafizetés iránti követelés
+legalább részben teljesült. Amennyiben nem peres követelés-igényérvényesítési eljárás indult a támogatás ügyében,
+úgy a 9. § (7)–(9) bekezdésében,a 9/A. § (1) bekezdésében,a 9/B. §-ban, a 25. § (2) bekezdésében,a 25/A. § (1), (3), (4) és
+(6) bekezdésében, a 28. § (4) bekezdésében, a 29. § (1)–(3) és (5) bekezdésében, a 30. § (1)–(3) bekezdésében, valamint
+a (4) és (9)–(12) bekezdésben foglaltak csak abban az esetben alkalmazhatóak a (3) bekezdésben meghatározott
+jogelőd előirányzatokhoz kapcsolódó, folyamatban lévő támogatási ügyekre is, ha a támogatott a támogatási döntést
+hozó szerv nem peres eljárásból adódó költségeit megtéríti.”
+2. Az egyes 2009. évi decentralizált önkormányzati fejlesztési és területfejlesztési célú,
+valamint egyes 2009. évi központi előirányzatok felhasználásának részletes szabályairól szóló
+85/2009. (IV. 10.) Korm. rendelet módosítása
+14. § Az egyes 2009. évi decentralizált önkormányzati fejlesztési és területfejlesztési célú, valamint egyes 2009. évi központi
+előirányzatok felhasználásának részletes szabályairól szóló 85/2009. (IV. 10.) Korm. rendelet (a továbbiakban: R2.) 1. §
+(4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az e rendelet hatálya alá tartozó források tekintetében)
+„a) pályázati rendszer keretében a TEKI, CÉDE, LEKI, TEUT, valamint pályázati rendszeren kívül a VTT támogatására
+rendelkezésre álló szabad keretek felhasználásáról a regionális fejlesztési tanács, vagy a regionális fejlesztés tanács
+általános jogutódjaként eljáró megyei önkormányzat (a továbbiakban: Tanács),”
+(dönt, valamint)
+15. § Az R2. az „A támogatás folyósítása” alcímet megelőzően a következő 16/A. §-sal egészül ki:
+„16/A. § (1) Ha a kedvezményezett az előre nem tervezhető, rajta kívül álló okokból, illetve a jelentősen megváltozott
+külső gazdasági környezet miatt időlegesen nem tudja teljesíteni a támogatási szerződésben vállalt kötelezettségeit,
+úgy a támogatási döntést hozó szervtől írásban kérelmezheti a kötelezettségek teljesítésének felfüggesztését.
+A kérelemben meg kell jelölni, hogy az melyik támogatási szerződéshez kapcsolódik, mely kötelezettség
+felfüggesztésére irányul, valamint a felfüggesztés kérelmezett kezdő és befejező időpontját. Emellett részletesen
+be kell mutatni a vállalt kötelezettségek teljesítését megakadályozó okokat, valamint a kedvezményezett által
+a felfüggesztés időtartama alatt tervezett azon intézkedéseket, amelyek biztosítják a vállalt kötelezettségek eredeti
+szerződéses feltételek szerinti teljesítését a felfüggesztés lejártát követően.
+(2) A támogatási döntést hozó szerv döntését megelőzően – a Kincstárral együttműködve, szükség szerint helyszíni
+ellenőrzéssel egybekötve – meg kell vizsgálni, hogy biztosított-e a kedvezményezett működőképessége,
+a kérelemben bemutatott okok alapján megállapítható-e a kedvezményezett felelőssége, valamint a felfüggesztés
+lejártát követően reálisan teljesíthetők-e a vállalt kötelezettségek.
+(3) A kötelezettségek teljesítésének felfüggesztéséről a támogatási döntést hozó szerv a kérelem beérkezését követő
+60 napon belül dönt. A felfüggesztés időtartama nem lehet hosszabb 24 hónapnál. A felfüggesztés időtartamának
+kezdő időpontját valamely hónap első, befejező időpontját valamely hónap utolsó napjában kell meghatározni,
+amelyeket a támogatási szerződés módosításában rögzíteni kell.
+(4) A felfüggesztésre vonatkozó kérelem benyújtására a szerződéses kötelezettségek záró időpontjáig van mód.
+(5) A kedvezményezett a támogatási döntést hozó szervnél a felfüggesztés lejártát megelőző legalább 30 és
+legfeljebb 180 napon belül írásban kérelmezheti a felfüggesztés meghosszabbítását, azonban a felfüggesztés teljes
+időtartama a felfüggesztés meghosszabbításával együtt sem lehet hosszabb a (3) bekezdésben meghatározott
+időtartamnál. A felfüggesztés időtartamának lejártát követően a kedvezményezett köteles a kötelezettségeit
+a támogatási szerződésben vállalt feltételek szerint teljesíteni.”
+16. § Az R2. 20. § (1)–(4) bekezdése helyébe a következő rendelkezés lép:
+„(1) A TEKI, CÉDE, LEKI és TEUT előirányzatokból támogatott beruházással létrehozott vagyon a 12. §
+(5) bekezdésében meghatározott kötelezettségvállalás időpontjáig csak a támogatási döntést hozó jóváhagyásával
+idegeníthető el, adható bérbe, illetve használatba. A kedvezményezett által a támogatási döntést hozó szerv részére
+küldött, jóváhagyást kérő kezdeményezésnek tartalmaznia kell annak ismertetését, hogy a kedvezményezett vagy
+más személy a támogatási szerződésben foglalt fenntartási, működtetési, karbantartási, a fejlesztéshez kapcsolódó
+szolgáltatási kötelezettségeit milyen módon fogja a támogatással létrehozott vagyon elidegenítését, bérbe vagy
+használatba adását követően teljesíteni. A támogatási döntést hozó szerv az elidegenítéshez, bérbe vagy használatba
+adáshoz utólag is hozzájárulhat, ha a hozzájárulás jogszabályban előírt egyéb feltételei teljesülnek. Az
+elidegenítéshez, bérbe vagy használatba adáshoz való hozzájárulás esetén – különös tekintettel az utólagos
+hozzájárulásra – a támogatási döntéshozó szervnek mérlegelnie kell a támogatási szerződés céljának jövőbeni
+megvalósulását, az esetleges államháztartási követelések kockázatának mértékét, és az ügy egyéb körülményeit.
+(2) Ha a TEKI, CÉDE, LEKI és TEUT előirányzatokból
+a) támogatott beruházással létrehozott vagyon elidegenítése, bérbe, illetve használatba adása a támogatási döntést
+hozó jóváhagyása nélkül történik, vagy
+b) a támogatási döntést hozó szerv a támogatás jogtalan igénybevételét állapította meg, vagy
+c) a kedvezményezett a támogatási szerződésben, illetve a 15. § szerint módosított támogatási szerződésben
+rögzített kötelezettségeinek – különös tekintettel a fenntartási, üzemeltetési, szolgáltatási, karbantartási
+kötelezettségekre – nem tesz eleget,
+akkor az igénybe vett támogatás teljes, kamattal növelt összege visszafizetésének elrendelésére és az igénybe nem
+vett támogatás teljes összegének zárolására vagy törlésére kerül sor. Ebben az esetben az igénybe vett támogatást
+jegybanki alapkamat kétszeresének megfelelő mértékű kamattal növelt összegben kell visszafizetni a Kincstár által
+vezetett, támogatási szerződésben megjelölt számla javára.
+
+(3) Ha a TEKI, CÉDE, LEKI és TEUT előirányzatokból támogatott beruházással létrehozott vagyon a támogatási döntést
+hozószervjóváhagyásávaltörténő elidegenítésére,bérbe,illetvehasználatbaadásáraa szolgáltatási,a működtetési és
+az egyéb kötelezettségek más által történő átvállalásával kerül sor, úgy a támogatást nem kell visszafizetni az adott
+előirányzat javára, azonban a támogatási szerződés módosításában a kötelezettségek átvállalását rögzíteni kell.
+(4) Abban az esetben, ha a TEKI, CÉDE, LEKI és TEUT előirányzatokból támogatott beruházással létrehozott vagyon
+elidegenítésére, bérbe, illetve használatba adására a támogatási döntést hozó szerv jóváhagyásával kerül sor
+a szolgáltatási, a működtetési és az egyéb kötelezettségek más által történő átvállalása nélkül, úgy az igénybe vett
+támogatást a támogatási döntést hozó szerv visszavonó döntésének időpontjában érvényes jegybanki alapkamattal
+növelt összegben kell visszafizetni az előirányzat javára, a Kincstár által vezetett, támogatási szerződésben megjelölt
+számlára.”
+17. § Az R2. a következő 34. §-sal egészül ki:
+„34. § (1) Az 1. § (1) bekezdés a) pontjában meghatározott előirányzatok jogelőd előirányzatai az alábbiak:
+a) az önkormányzati fejlesztések támogatása területi kötöttség nélkül (céljellegű decentralizált támogatás)
+előirányzat;
+b) a területi kiegyenlítést szolgáló önkormányzati fejlesztések támogatása előirányzat;
+c) a leghátrányosabb helyzetű kistérségek felzárkóztatásának támogatása előirányzat;
+d) a települési önkormányzati szilárd burkolatú belterületi közutak burkolat-felújításának támogatása előirányzat;
+e) települési hulladék közszolgáltatás fejlesztéseinek támogatása előirányzat.
+(2) A 20. § (5)–(12) bekezdésében foglalt rendelkezéseket az (1) bekezdésben meghatározott jogelőd
+előirányzatokhoz kapcsolódó, folyamatban lévő támogatási ügyekre is megfelelően alkalmazni kell, kivéve azon
+támogatási ügyeket, amelyekhez peres követelés-igényérvényesítési eljárások kapcsolódnak, vagy a visszafizetés
+iránti követelés legalább részben teljesült. Amennyiben nem peres követelés-igényérvényesítési eljárás indult
+a támogatás ügyében, úgy a 20. § (5)–(12) bekezdésében foglaltak csak abban az esetben alkalmazhatóak az
+(1) bekezdésben meghatározott jogelőd előirányzatokhoz kapcsolódó, folyamatban lévő támogatási ügyekre is,
+ha a támogatott a támogatási döntést hozó szerv nem peres eljárásból adódó költségeit megtéríti.
+(3) E rendeletnek az egyes területfejlesztési és önkormányzati fejlesztési célokat szolgáló hazai támogatási
+előirányzatokról szóló kormányrendeletek módosításáról szóló 35/2012. (III. 9.) Korm. rendelettel (a továbbiakban:
+módosító rendelet) megállapított 1. § (4) bekezdés a) pontjában, 16/A. §-ában, 20. § (1)–(4) bekezdésében, valamint
+34. § (2) bekezdésébenfoglaltrendelkezéseketamódosítórendelethatálybalépésekorfolyamatbanlévőeljárásokrais
+– ideértve az (1) bekezdésben meghatározott jogelőd előirányzatok kapcsán folyamatban lévő támogatási ügyeket
+is – megfelelően alkalmazni kell, kivéve azon támogatási ügyeket, amelyekhez peres követelés-igényérvényesítési
+eljárások kapcsolódnak, vagy a visszafizetés iránti követelés legalább részben teljesült. Amennyiben nem peres
+követelés-igényérvényesítési eljárás indult a támogatás ügyében, úgy a 16/A. §-ban, a 20. § (1)–(4) bekezdésében,
+valamint a 34. § (2) bekezdésében foglaltak csak abban az esetben alkalmazhatóak az (1) bekezdésben meghatározott
+jogelőd előirányzatokhoz kapcsolódó, folyamatban lévő támogatási ügyekre is, ha a támogatott a támogatási döntést
+hozó szerv nem peres eljárásból adódó költségeit megtéríti.
+(4) Az (1) bekezdésben felsorolt jogelőd előirányzatok terhére megítélt támogatások esetén a fenntartási, üzemeltetési,
+szolgáltatási és karbantartási kötelezettség időtartama a projekt befejezését követő hónaptól számított 5 év.”
+3. A 2010. évi terület- és régiófejlesztési célelőirányzat felhasználásáról szóló
+122/2010. (IV. 20.) Korm. rendelet módosítása
+18. § A 2010. évi terület- és régiófejlesztési célelőirányzat felhasználásáról szóló 122/2010. (IV. 20.) Korm. rendelet
+(a továbbiakban: R3.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A megtérülésből elsődlegesen a területfejlesztésért és területrendezésért felelős miniszter (a továbbiakban:
+miniszter) és a Magyar Államkincstár (a továbbiakban: Kincstár) között az (1) bekezdés szerinti célra már megkötött
+megállapodásban foglalt kötelezettségeket kell teljesíteni. Az ezen túlmenően teljesült tárgyévi megtérülés
+a döntéshozó területfejlesztési tanácsok és munkaszervezeteik általános jogutódjaként eljáró megyei önkormányzat
+(1) bekezdés szerinti feladatai finanszírozásának kiegészítő fedezeteként használható fel.”
+19. § Az R3. 15. §-a helyébe a következő rendelkezés lép:
+„15. § Kiírt pályázati felhíváshoz kapcsolódóan pályázati díj nem határozható meg. A lebonyolító a lebonyolítás
+céljából átadott előirányzat legfeljebb 5%-át a feladat ellátásával kapcsolatos kiadása fedezeteként használhatja fel.”
+
+20. § Az R3. 37. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 35. § (1) bekezdése szerinti támogatás esetén elszámolható költségnek minősül az engedélyezési
+tervdokumentáció elkészítéséhez és az engedélyezési eljárás lefolytatásához közvetlenül igénybe vett gazdasági
+szolgáltatások ellenértéke. Az engedélyezési tervdokumentáció és a megtervezett fejlesztés megkezdhetőségét
+igazoló, jogerős vízjogi létesítési vagy építési engedély Észak-Alföldi Regionális Fejlesztési Tanács, vagy az
+Észak-Alföldi Regionális Fejlesztési Tanács általános jogutódjaként eljáró megyei önkormányzat (a továbbiakban:
+Tanács) számára történő benyújtását követően kerülhet sor az engedélyezési eljárás költségének elszámolására.”
+21. § Az R3. 49. §-a helyébe a következő rendelkezés lép:
+„49. § E rendeletnek az egyes területfejlesztési és önkormányzati fejlesztési célokat szolgáló hazai támogatási
+előirányzatokról szóló kormányrendeletek módosításáról szóló 35/2012. (III. 9.) Korm. rendelettel (a továbbiakban:
+módosító rendelet) megállapított 15. §-át a módosító rendelet hatálybalépése előtt megkötött szerződésekre is
+alkalmazni kell.”
+4. Záró rendelkezések
+22. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon a hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök

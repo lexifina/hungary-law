@@ -1,0 +1,314 @@
+# A Kormány 1056/2012. (III. 9.) Korm. határozata
+
+Magyar Közlöny 2012. évi 28. szám, 2012. március 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/90c7fa80380ecf553e26d3a0ec5819d1ddb6cfc1/dokumentumok/ed59bd0dc2bbc59cbf1361a3696efa088981f409/letoltes)
+
+---
+
+A Kormány 1056/2012. (III. 9.) Korm. határozata
+az új Országos Fogyatékosügyi Program végrehajtásának 2012–2013. évekre vonatkozó
+intézkedési tervéről
+1. A Kormány
+a) elfogadja az új Országos Fogyatékosügyi Programról szóló 10/2006. (II. 16.) OGY határozat alapján elkészített,
+az e kormányhatározat 1. mellékletét képező, az új Országos Fogyatékosügyi Program végrehajtásának
+2012–2013. évekre vonatkozó intézkedési tervét, és elrendeli annak végrehajtását;
+b) felhívja a minisztereket, hogy az intézkedési tervben foglalt feladatok végrehajtásáról készítsenek beszámolót,
+és azt küldjék meg a társadalmi esélyegyenlőség előmozdításáért felelős miniszternek;
+Felelős: valamennyi miniszter
+Határidő: 2014. március 31.
+c) felhívja a nemzeti erőforrás minisztert, hogy a b) pontban foglaltak szerint elkészített beszámolók alapján
+készítsen jelentést a Kormány számára az intézkedési tervben foglalt feladatok végrehajtásáról.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2014. július 31.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. Hatályát veszti az új Országos Fogyatékosügyi Program végrehajtásának 2007–2010. évekre vonatkozó középtávú
+intézkedési tervéről szóló 1062/2007. (VIII. 7.) Korm. határozat.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet az 1056/2012. (III. 9.) Korm. határozathoz
+Az új Országos Fogyatékosügyi Program végrehajtásának 2012–2013. évekre vonatkozó
+intézkedési terve
+I. Fogyatékossággal élő személyek támogatása, szociális szolgáltatások, gyermekvédelem, egészségpolitika
+1. Elő kell készíteni a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény
+módosítását az egyenlő esélyű hozzáférés követelményének megvalósulása érdekében, továbbá
+– a Fogyatékossággal élő személyek jogairól szóló egyezmény és az ahhoz kapcsolódó Fakultatív Jegyzőkönyv
+kihirdetésérőlszóló2007. évi XCII. törvényben foglaltakkalvaló összhangmegteremtése céljából– a fogyatékossággal
+élő személy fogalma tekintetében.
+Felelős: nemzeti erőforrás miniszter
+közigazgatási és igazságügyi miniszter
+Határidő: 2012. szeptember 30.
+Forrás: nem releváns
+2. Elő kell készíteni a látássérült személyek elemi rehabilitációs szolgáltatásának szakmai tartalmáról, valamint az elemi
+rehabilitációs központok működésének személyi és tárgyi feltételeiről szóló jogszabály tervezetét.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2012. december 31.
+Forrás: nem releváns
+3. Elő kell segíteni a fogyatékossággal élő személyek otthoni időszakos felügyeletét és gondozását végző szolgáltatási
+rendszer országos kiterjesztését a fogyatékossággal élő személyeket gondozó családtagok munkaerő-piacra történő
+visszatérése, valamint rekreációja érdekében.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2013. december 31.
+Forrás: 2013. évi költségvetési törvény szerint
+4. Képzéseket kell indítani és az intézményhálózat működését segítő szakmai mentorhálózatot kell kialakítani
+a fogyatékossággal élő személyek számára ápolást, gondozást nyújtó szociális intézményi férőhelyek kiváltása
+érdekében.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 5.4.4 B
+5. Ki kell dolgozni a gyermekvédelmi szakellátás keretében ellátott, fogyatékossággal élő gyermekek és fiatalok
+nevelésében-gondozásában és ügyeik intézésében részt vevő szakemberek képzési és továbbképzési programját,
+biztosítani kell annak akkreditálását.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: költségvetési törvények a „Gyermekvédelmi fejlesztések, módszertani feladatainak ellátására”
+előirányzat;
+TÁMOP 5.
+6. Meg kell vizsgálni az életvitelt segítő eszközök regionális szinten történő kölcsönzési rendszere kialakításának
+lehetőségeit.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2013. december 31.
+Forrás: nem releváns
+7. Felül kell vizsgálni a gyógyászati segédeszközök társadalombiztosítási támogatásának rendszerét a jelenleg
+rendelkezésre álló források hatékonyabb felhasználása érdekében, és szabályozási javaslatot kell készíteni
+a támogatási rendszer egyes elemeinek átalakításáról.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2013. december 31.
+Forrás: nem releváns
+
+8. Felül kell vizsgálni a fogyatékossággal élő személyek fogászati egészségügyi ellátását, mentését, betegszállítását
+a speciális szükségleteikhez igazodó ellátásuk biztosítása érdekében. Ennek során át kell tekinteni az e célból
+rendelkezésre álló pályázati lehetőségeket.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2012. december 31.
+Forrás: nem releváns
+9. Támogatni kell – az Autizmus Szakmai Műhely működtetésével – az autista személyek komplex (foglalkoztatási,
+szociális és pedagógiai) rehabilitációját; fejlesztések, képzések, valamint szakmai sztenderdek kidolgozását; továbbá
+az országos módszertani feladatok előkészítését, ellátását.
+Felelős: nemzeti erőforrás miniszter
+Határidő: folyamatos
+Forrás: költségvetési törvények szerint
+II. Akadálymentesítés, egyenlő esélyű hozzáférés
+1. Elő kell készíteni az Országgyűlés, a központi államigazgatási szervek, az Alkotmánybíróság, az alapvető jogok biztosa,
+az ügyészség, a bíróságok, a rendvédelmi szervek, továbbá a helyi és a kisebbségi önkormányzatok honlapjai
+akadálymentesítésének szabályait a WCAG 2.0 webes akadálymentesítési ajánlásban foglaltak szerint.
+Felelős: nemzeti erőforrás miniszter
+közigazgatási és igazságügyi miniszter
+belügyminiszter
+Határidő: 2013. szeptember 30.
+Forrás: nem releváns
+2. Pályázati programot kell indítani a felsőoktatási intézmények részére jegyzetelő szolgáltatás bevezetése és
+működtetése céljából a fogyatékossággal élő hallgatók számára.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2012. december 31.
+Forrás: Magyarország 2012. évi központi költségvetéséről szóló törvény 1. melléklet XX. fejezet 20/20/6 sor
+3. Országos felmérést kell készíteni a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi
+XXVI. törvény 4. § f) pont fa)–fc) alpontja körébe tartozó közszolgáltatásokhoz való egyenlő esélyű hozzáférés
+megvalósításának aktuális állapotáról.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2012. szeptember 30.
+Forrás: Európai Uniós forrásokat támogató technikai keret
+4. Pályázati programokat kell indítani a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósulása érdekében
+a II/3. pont szerinti felméréssel feltárt hiányosságok orvoslására.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TIOP 3.3.1 és a kapcsolódó regionális operatív programok
+5. Modellprogramot kell indítani – a jelnyelvi tolmácsszolgáltatás rendszerére építve – a kommunikációjukban súlyosan
+akadályozott, fogyatékossággal élő személyek önálló életvitelét elősegítő speciális kommunikációs szolgáltatás
+kialakítására, valamint az augmentatív és alternatív kommunikációs eszközök kölcsönözhetőségének
+megteremtésére.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TIOP 3.3.1 B
+6. Info-kommunikációs akadálymentesítést kell végrehajtani a „Felelősen, felkészülten a büntetés-végrehajtásában”
+elnevezésű kiemelt projekt célcsoportjainak vonatkozásában.
+Felelős: belügyminiszter
+nemzeti fejlesztési miniszter
+Határidő: 2012. május 31.
+Forrás: EKOP-1.1.6
+
+7. Meg kell teremteni a Honvédelmi Minisztérium és a Magyar Honvédség vagyonkezelésében működő közhasznú
+épületek egyenlő esélyű hozzáférésének feltételeit.
+Felelős: honvédelmi miniszter
+Határidő: 2013. december 31.
+Forrás: költségvetési törvények szerint
+8. Szolgáltatásszervezési és szabályozási javaslatokat kell kidolgozni közlekedési, fogyatékosságügyi, valamint
+akadálymentesítési szakértők bevonásával a közlekedési rendszerek egyenlő esélyű hozzáférésének biztosítására.
+Felelős: nemzeti fejlesztési miniszter
+nemzeti erőforrás miniszter
+Határidő: 2012. szeptember 30.
+Forrás: nem releváns
+9. Folytatni kell a menetrend szerinti közösségi közlekedésben használt járművek és utasforgalmi létesítmények
+akadálymentesítését, valamint az utastájékoztatási rendszerek tekintetében az infokommunikációs
+akadálymentesítést.
+Felelős: nemzeti fejlesztési miniszter
+belügyminiszter
+Határidő: 2013. december 31.
+Forrás: 2013. évi költségvetési törvény szerint
+III. Oktatás
+1. Bővíteni kell a sajátos nevelési igényű tanulókat befogadó közoktatási intézmények körét. Segíteni kell az egyéni
+tanulási igényekhez alkalmazkodó oktatásszervezési formák, a differenciált fejlesztést biztosító módszerek
+alkalmazását a jó gyakorlatok adaptációjának, gyakorlati bevezetésének támogatásával.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: folyamatos
+Forrás: TÁMOP 3.1.1; 3.1.5; 3.1.6; 3.4.2
+2. Pályázati programot kell indítani az autizmus-specifikus fejlesztés és oktatás minőségi kritériumrendszerének
+bevezetéséhez, és a pedagógusok felkészülését szolgáló képzésben való részvételhez szükséges feltételek
+biztosítására.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: folyamatos
+Forrás: TÁMOP 3.1.1; 3.1.5; 3.1.6;
+Magyarország 2012. évi központi költségvetéséről szóló törvény 1. melléklet XX. fejezet 20/4/29 sor
+3. Pályázati programot kell indítani a felsőoktatási intézmények hallgatóit segítő speciális mentori, koordinátori,
+tanácsadói, valamint tréningszolgáltatások fejlesztése érdekében.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 4.1.1 B
+4. A magyar felsőoktatás képzési szerkezetébe építve meg kell teremteni a magyar jelnyelv és a speciális kommunikációs
+rendszerek – gyógypedagógiai intézményekben, továbbá óvodai nevelés, illetve iskolai nevelés és oktatás során
+történő – oktatásának, valamint a bilingvális módszerrel történő korai fejlesztés és gondozás, óvodai nevelés, iskolai
+nevelés és oktatás személyi feltételeit.
+Felelős: nemzeti erőforrás miniszter
+Határidő: folyamatos
+Forrás: nem releváns
+5. Támogatni kell a felvételi eljárás során, valamint a tanulmányaik folytatása alatt – úgy a felsőoktatási törvény, mint
+a törvényhez kapcsolódó egyéb szabályozás útján – a felsőoktatásba jelentkező fogyatékossággal élő hallgatókat.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2012. december 31.
+Forrás: nem releváns
+
+6. Hangsúlyosabbá kell tenni az egészségügyi szakemberek felsőfokú alap- és szakképzésében, valamint az
+egészségügyi dolgozók továbbképzési programjaiban a fogyatékossággal élő személyek ellátásához szükséges
+módszerek és ismeretek oktatását.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 6.2.2
+IV. Sport, szabadidő
+1. A turisztikai attrakciók és a szolgáltatásfejlesztési pályázatok kötelező elemeként kell megjeleníteni az egyenlő esélyű
+hozzáférés követelményét.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+Határidő: folyamatos
+Forrás: Regionális Operatív Programok
+2. Javítani kell a sport-, szabadidős és rekreációs tevékenységek, rendezvények, termékek és szolgáltatások egyenlő
+esélyű hozzáférhetőségét.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2013. december 31.
+Forrás: költségvetési törvények szerint
+3. Támogatni kell a sportoló fogyatékossággal élő személyek, valamint az integrált sportegyesületek számának
+növekedését.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2013. december 31.
+Forrás: költségvetési törvények szerint
+4. Elő kell segíteni a fogyatékossággal élő sportolók számára történő hazai és nemzetközi sportesemények rendezését
+a nemzetek közötti projektek és hálózatok támogatásán keresztül.
+Felelős: nemzeti erőforrás miniszter
+Határidő: 2013. december 31.
+Forrás: költségvetési törvények szerint
+5. Támogatni kell továbbképzések indítását a testnevelő tanárok, gyógytestnevelő tanárok, testnevelő-edzők,
+humánkineziológusok, gyógytornászok, sportszervezők, továbbá rekreáció és egészségszervezők számára
+a fogyatékossággal élő személyek testnevelési és sporttevékenységének segítése érdekében.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 3.1.6
+6. Pályázati és egyéb programok útján támogatni kell a fogyatékossággal élő tanulók, fiatalok tanórán kívüli rendszeres,
+terápiás jellegű sportoktatását és egyéb sporttevékenységét az egészséges életmód iránti igényük felkeltése és
+ösztönzése érdekében.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: költségvetési törvények szerint;
+TÁMOP 3.2.11
+7. Támogatni kell speciális szakmai továbbképzések indítását az Országos Sportegészségügyi Hálózat megyei és kerületi
+sportorvosai számára a sportoló fogyatékossággal élő személyek részére sportorvosi szolgáltatást nyújtó
+sportegészségügyi hálózat fejlesztése érdekében.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 6.2.2
+
+V. Szakképzés, foglalkoztatás
+1. Modellprogramot kell működtetni a már működő speciális segéd- és sporteszköz műhelyek tevékenységének
+országos kiterjesztése céljából, továbbá módszertani központot kell létrehozni a mozgáskorlátozott személyek
+foglalkoztatásának elősegítése érdekében.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2012. december 31.
+Forrás: TÁMOP 1.4.2
+2. Kutatást kell indítani a fogyatékossággal élő, valamint a megváltozott munkaképességű személyek szakképzésének
+fejlesztésére, amely foglalkoztathatóságuk érdekében feltárja a felnőttképzési programokba való bevonhatóságuk
+lehetőségeit.
+Felelős: nemzetgazdasági miniszter
+nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+közigazgatási és igazságügyi miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 2.2.1 tervezett második ütem tartalomfejlesztési alprojekt
+3. Támogatni kell a fogyatékossággalélő felnőttek szakmai képzésbevaló bevonhatóságátmegalapozóelőzetes képzési
+program kidolgozását.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+közigazgatási és igazságügyi miniszter
+nemzeti erőforrás miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 2.2.1 tervezett második ütem tartalomfejlesztési alprojekt
+4. Támogatni kell a fogyatékossággal élő tanulók, felnőttek szakképzésének alapjául szolgáló szakmai programok
+kidolgozását és tananyagok fejlesztését.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+közigazgatási és igazságügyi miniszter
+nemzeti erőforrás miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 2.2.1 tervezett második ütem tartalomfejlesztési alprojekt
+5. A pedagógus továbbképzés folyamán fel kell készíteni a speciális szakiskolákat az alacsony iskolai végzettséggel
+rendelkező, fogyatékossággal élő felnőttek szakképzésére.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+közigazgatási és igazságügyi miniszter
+nemzeti erőforrás miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 2.2.1. tervezett második ütem tartalomfejlesztési alprojekt
+6. Pályázati programot kell indítani a civil szervezetek számára, hosszútávon működtethető, új típusú, innovatív kísérleti
+foglalkoztatási programok kifejlesztésére, gyakorlati kipróbálására, amelyek elősegítik a hátrányos helyzetű (így
+különösen a megváltozott munkaképességű és fogyatékossággal élő) munkanélküliek nyílt munkaerő-piaci
+elhelyezkedését.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+Határidő: folyamatos
+Forrás: TÁMOP 1.4.3
+
+7. Adaptálni kell a rész-szakképesítések központi programjait a fogyatékossággal élő, valamint a megváltozott
+munkaképességű felnőttek képzésében, különös tekintettel a hiányszakmákra.
+Felelős: nemzetgazdasági miniszter
+nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+szakképesítésekért felelős miniszterek
+Határidő: 2013. december 31.
+Forrás: TÁMOP 2.2.1 tervezett második ütem tartalomfejlesztési alprojekt
+8. Meg kellteremteniamegváltozottmunkaképességűszemélyekátfogóállapotfelméréséhezésarehabilitációsjavaslat
+kidolgozásához szükséges infrastrukturális feltételeket.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TIOP 3.2.2
+9. Bővíteni és fejlesztenikella képzésekrendszerét, valamint a foglalkoztatáshozkapcsolódószolgáltatásoktámogatását
+biztosító hálózatot, továbbá létre kell hozni annak országos módszertani központját a fogyatékossággal élő, valamint
+a megváltozott munkaképességű személyek munkaerő-piaci esélyeinek növelése érdekében.
+Felelős: nemzeti erőforrás miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 5.3.8 A
+10. Korszerű dokumentációt kell készíteni a megváltozott munkaképességű munkavállalók egyenlő esélyű
+foglalkoztatásához és komplex rehabilitációjuk megalapozásához.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+Forrás: TÁMOP 5.3.8
