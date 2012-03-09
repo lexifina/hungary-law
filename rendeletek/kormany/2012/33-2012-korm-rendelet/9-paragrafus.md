@@ -1,3 +1,0 @@
-## 8. § Az R. 29. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) Azon közbeszerzésekre, amelyek megvalósulását az Európai Unióból származó forrásból támogatják, a központi beszerző szervezet a Nemzeti Fejlesztési Ügynökséggel együttműködést alakíthat ki annak érdekében, hogy – a támogatások által érintett beszerzési tárgyakra lefolytatott – keretmegállapodásos eljárásban a közbeszerzési dokumentumok minőségellenőrzésére és a közbeszerzési eljárások ellenőrzésére a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló jogszabályban meghatározott eljárásrendet alkalmazzák.”

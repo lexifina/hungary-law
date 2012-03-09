@@ -1,1 +1,0 @@
-## „(3) A központosított közbeszerzési rendszerhez önként csatlakozó, a közbeszerzési törvény hatálya alá tartozó szervezetek a csatlakozás által érintett közbeszerzéseik megvalósítása során e rendelet előírásai szerint kötelesek eljárni.”

@@ -1,1 +1,0 @@
-## „(4) A kiemelt termékbeszerzésekre vonatkozó állami normatívákat a központi beszerző szervezet felügyeletét ellátó miniszter normatív utasításban állapítja meg és teszi közzé a központosított közbeszerzési portálon.”
