@@ -1,4 +1,4 @@
-## 90/A. §[^74] A 90. §-t a honvéd tisztjelöltre is alkalmazni kell azzal, hogy az engedélyt vissza kell vonni, ha a honvéd tisztjelölt a hallgatói vagy a tisztjelölti szolgálati viszonyból eredő kötelezettségeit bizonyíthatóan a munkavégzéssel járó egyéb jogviszony miatt nem megfelelően látja el.
+## 90/A. §[^75] A 90. §-t a honvéd tisztjelöltre is alkalmazni kell azzal, hogy az engedélyt vissza kell vonni, ha a honvéd tisztjelölt a hallgatói vagy a tisztjelölti szolgálati viszonyból eredő kötelezettségeit bizonyíthatóan a munkavégzéssel járó egyéb jogviszony miatt nem megfelelően látja el.
 
 ## Vagyonnyilatkozat
 
@@ -12,7 +12,7 @@
 
 (4) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 22/A. §-ának (13) bekezdésében a munkáltatói jogkör gyakorlója alatt – ez esetben – a személyügyi alapnyilvántartást végző katonai szervezet parancsnokát kell érteni.
 
-(5)[^75] A Honvédelmi Minisztériumban a (4) bekezdésben meghatározott munkáltatói jogkör gyakorlói a főosztályvezetők.
+(5)[^76] A Honvédelmi Minisztériumban a (4) bekezdésben meghatározott munkáltatói jogkör gyakorlói a főosztályvezetők.
 
-[^74]: A 90/A. §-t a 14/2011. (X. 28.) HM rendelet 16. §-a iktatta be.
-[^75]: A 91. § (5) bekezdését a 31/2003. (X. 16.) HM rendelet 3. §-a iktatta be, szövege a 28/2007. (VII. 9.) HM rendelet 13. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
+[^75]: A 90/A. §-t a 14/2011. (X. 28.) HM rendelet 16. §-a iktatta be.
+[^76]: A 91. § (5) bekezdését a 31/2003. (X. 16.) HM rendelet 3. §-a iktatta be, szövege a 28/2007. (VII. 9.) HM rendelet 13. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.

@@ -34,7 +34,7 @@ ae) az éves teljesítményértékelések és minősítések tervét,
 
 af) a lakhatási támogatásról szóló okmányokat,
 
-ag)[^164]
+ag)[^165]
 
 ## gyűjtőt;
 
@@ -54,12 +54,12 @@ ca) a béke beosztási könyvek másolatát,
 
 cb) a személyi adatlapok másolatát,
 
-cc)[^165] az állományba felvettek és kiváltak nyilvántartását,
+cc)[^166] az állományba felvettek és kiváltak nyilvántartását,
 
 cd) a szociális gondoskodási körbe tartozó tábornokok személyi anyaggyűjtőit, illetve az egyéb rendfokozatúak személyi adatlapjának másolatát, a kiegészítő nyilvántartó lapot, valamint a hozzátartozók adatait.
 
-(2)[^166] A személyi adatok elsődleges felvétele a számítógépes személyügyi nyilvántartó rendszer személyi adatlapján történik, mely kinyomtatását követően a nyilvántartásba vett személy aláírásával a személyi anyaggyűjtőben kerül elhelyezésre. A személyi adatok változását – hiteles okmányok egyidejű bemutatásával – az állomány tagja 8 munkanapon belül köteles jelenteni. A szolgálati adatváltozásokat a vonatkozó határozatok és parancsok alapján kell a nyilvántartásokon átvezetni.
+(2)[^167] A személyi adatok elsődleges felvétele a számítógépes személyügyi nyilvántartó rendszer személyi adatlapján történik, mely kinyomtatását követően a nyilvántartásba vett személy aláírásával a személyi anyaggyűjtőben kerül elhelyezésre. A személyi adatok változását – hiteles okmányok egyidejű bemutatásával – az állomány tagja 8 munkanapon belül köteles jelenteni. A szolgálati adatváltozásokat a vonatkozó határozatok és parancsok alapján kell a nyilvántartásokon átvezetni.
 
-[^164]: A 134. § (1) bekezdése a) pontjának ag) alpontját a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^165]: A 134. § (1) bekezdése c) pontjának cc) alpontja a 4/2006. (II. 7.) HM rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^166]: A 134. § (2) bekezdése a 4/2006. (II. 7.) HM rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^165]: A 134. § (1) bekezdése a) pontjának ag) alpontját a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^166]: A 134. § (1) bekezdése c) pontjának cc) alpontja a 4/2006. (II. 7.) HM rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^167]: A 134. § (2) bekezdése a 4/2006. (II. 7.) HM rendelet 56. § (2) bekezdésével megállapított szöveg.

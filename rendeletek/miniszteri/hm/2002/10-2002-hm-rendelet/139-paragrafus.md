@@ -1,4 +1,4 @@
-## 138/B. §[^184]
+## 138/B. §[^185]
 
 ## A személyügyi nyilvántartás iratai és a személyi anyaggyűjtők megőrzésének rendje
 
@@ -26,4 +26,4 @@ ce) akadémikusok, illetve a tudományok doktori fokozatával rendelkezők,
 
 cf) olimpiai vagy világbajnoki címet szereztek.
 
-[^184]: A 138/B. §-t és az azt megelőző alcímet a 17/2009. (XII. 3.) HM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 7/2011. (VIII. 18.) HM rendelet 2. §-a.
+[^185]: A 138/B. §-t és az azt megelőző alcímet a 17/2009. (XII. 3.) HM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 7/2011. (VIII. 18.) HM rendelet 2. §-a.
