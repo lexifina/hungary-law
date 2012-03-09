@@ -4,16 +4,10 @@
 
 ## 2. MH központi személyügyi szerve
 
-## 3. MK Katonai Biztonsági Hivatal
+## 3. Katonai Nemzetbiztonsági Szolgálat
 
-## 4. MK Katonai Felderítő Hivatal
+## 4. MH összhaderőnemi középszintű irányító szerve
 
-## 5. Zrínyi Miklós Nemzetvédelmi Egyetem
+2. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^84]
 
-## 6. Katonai Ügyészségek
-
-## 7. MH összhaderőnemi középszintű irányító szerve
-
-2. számú melléklet a 35/2002. (V. 10.) HM rendelethez[^85]
-
-[^85]: A 2. számú melléklet a 14/2008. (VI. 13.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^84]: A 2. számú melléklet a 14/2008. (VI. 13.) HM rendelet 1. § (2) bekezdésével megállapított, a 3/2012. (III. 6.) HM rendelet 47. § c) pontja szerint módosított szöveg.
