@@ -1,0 +1,1 @@
+## „d) honvéd altiszt-jelöltekre.”
