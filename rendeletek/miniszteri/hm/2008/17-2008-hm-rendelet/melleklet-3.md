@@ -714,7 +714,7 @@
 
 | 2. | 31 863 02 0100 31 01 | Részszakképesítés: Alapfokú katonai vezetőhelyettes II. | a Honvédelmi Minisztérium miniszter által kijelölt szerve |
 
-3. számú melléklet a 17/2008. (VII. 18.) HM rendelethez
+3. számú melléklet a 17/2008. (VII. 18.) HM rendelethez[^5]
 
 HONVÉD TISZTHELYETTES I.
 
@@ -7977,3 +7977,5 @@ Az 52 863 01 1000 00 00 azonosító számú, Honvéd tiszthelyettes I. (híradó
 13. vizsgarész: 10%
 
 16. vizsgarész: 30%
+
+[^5]: A 3. melléklet a 3/2012. (III. 6.) HM rendelet 65. § a), b), c), d), e) pontja szerint módosított szöveg.
