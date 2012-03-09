@@ -1,4 +1,4 @@
-## 43. §[^87]
+## 43. §[^109]
 
 ## Utazási költségek
 
@@ -8,4 +8,4 @@
 
 (3) Az (1)–(2) bekezdések szerinti utazásoknál igénybe vehető utazási eszközt az engedélyező elöljáró jogosult meghatározni.
 
-[^87]: A 43. §-t a 6/2011. (VII. 5.) HM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^109]: A 43. §-t a 6/2011. (VII. 5.) HM rendelet 5. § (2) bekezdése hatályon kívül helyezte.

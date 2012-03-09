@@ -4,33 +4,31 @@
 
 ## Az ideiglenes külföldi szolgálat elrendelése
 
-50. § (1) Ideiglenes külföldi szolgálat elrendelésére jogosult
+50. § (1)[^117] Ideiglenes külföldi szolgálat elrendelésére jogosult
 
-a) a honvédelmi miniszter,
+a) a honvédelemért felelős miniszter,
 
-b)[^95] a HM államtitkára,
+b) a HM parlamenti államtitkára,
 
-c)[^96] a HM közigazgatási államtitkára,
+c) a HM közigazgatási államtitkára,
 
-d)[^97] a HM helyettes államtitkárai,
+d) a HM helyettes államtitkárai,
 
-e) a HM Honvéd Vezérkar főnöke,
+e) a Honvéd Vezérkar főnöke,
 
-f) a katonai nemzetbiztonsági szolgálatok főigazgatói,
+f) a KNBSZ főigazgatója,
 
-g) a katonai főügyész,
-
-h) a külföldi utazási kerettel rendelkező katonai szervezetek (szervek) vezetői
+g) a külföldi utazási kerettel rendelkező katonai szervezetek vagy szervek vezetői
 
 ## a szolgálati alárendeltségükbe tartozók tekintetében.
 
-(2) Az (1) bekezdés b)–g) pontjaiban szereplő személyek ideiglenes külföldi szolgálatának elrendelésére a honvédelmi miniszter, a h) pontjában szereplő személyek esetében pedig a szakmai elöljáró jogosult.
+(2)[^118] Az (1) bekezdés b)–g) pontjaiban szereplő személyek ideiglenes külföldi szolgálatának elrendelésére a honvédelemért felelős miniszter, a h) pontjában szereplő személyek esetében pedig a szakmai elöljáró jogosult.
 
-(3)[^98] Az (1) bekezdésben szereplő személyek a hatáskörükbe tartozó utazási keret terhére a szolgálati alárendeltségükbe nem tartozók részére is elrendelhetnek ideiglenes külföldi szolgálatot, amennyiben a kiutazáshoz a kiküldött állományilletékes parancsnoka előzetesen írásban hozzájárult. Az (1) bekezdésben szereplő személyek különösen indokolt esetben – a saját szervezetük költségvetése terhére – az alaprendeltetés szerinti feladataik teljesítése érdekében a honvédséggel foglalkoztatási jogviszonyban nem álló személyeket is felkérhetnek kiutazó delegáció hivatalos tagjának.
+(3)[^119] Az (1) bekezdésben szereplő személyek a hatáskörükbe tartozó utazási keret terhére a szolgálati alárendeltségükbe nem tartozók részére is elrendelhetnek ideiglenes külföldi szolgálatot, amennyiben a kiutazáshoz a kiküldött állományilletékes parancsnoka előzetesen írásban hozzájárult. Az (1) bekezdésben szereplő személyek különösen indokolt esetben – a saját szervezetük költségvetése terhére – az alaprendeltetés szerinti feladataik teljesítése érdekében a honvédséggel foglalkoztatási jogviszonyban nem álló személyeket is felkérhetnek kiutazó delegáció hivatalos tagjának.
 
-(4)[^99] Az ideiglenes külföldi szolgálatot minden esetben írásban, kiutazási engedéllyel kell elrendelni. A kiutazási engedély tervezetének pénzügyi járandóságokra vonatkozó szövegrészét az illetékes pénzügyi ellátó szervvel előzetesen véleményeztetni kell. Az aláírt kiutazási engedély ellenjegyzését a külön miniszteri utasításban kijelölt honvédségi szervezet végzi az utasításban meghatározott eljárásrend szerint. Az előzőektől eltérően a katonai nemzetbiztonsági szolgálatok főigazgatói által elrendelt ideiglenes külföldi szolgálatok esetében a kiutazási engedély tervezetének pénzügyi járandóságokra vonatkozó szövegrésze véleményezését és az aláírt kiutazási engedély ellenjegyzését a szolgálatok saját pénzügyi szervezeti elemei hajtják végre.
+(4)[^120] Az ideiglenes külföldi szolgálatot minden esetben írásban, vezénylési határozattal vagy paranccsal, vagy – ha a vezénylésről döntési lap készül – döntési lapon kell elrendelni. A vezénylési határozat vagy parancs vagy – ha a vezénylésről döntési lap készül – a döntési lap tervezetének pénzügyi járandóságokra vonatkozó szövegrészét az illetékes pénzügyi ellátó szervvel előzetesen véleményeztetni kell. Az aláírt vezénylési határozat vagy parancs ellenjegyzését a külön miniszteri utasításban kijelölt honvédségi szervezet végzi az utasításban meghatározott eljárásrend szerint. Az előzőektől eltérően a KNBSZ főigazgatója által, a hatáskörébe tartozó utazási keret terhére elrendelt ideiglenes külföldi szolgálatok esetében a vezénylési határozat vagy parancs tervezetének pénzügyi járandóságokra vonatkozó szövegrésze véleményezését és az aláírt vezénylési határozat vagy parancs ellenjegyzését a KNBSZ saját pénzügyi szervezeti eleme hajtja végre.
 
-(5) A kiutazási engedélynek tartalmaznia kell az ideiglenes külföldi szolgálattal kapcsolatos információkat, valamint a kiküldött személyes adatait, így különösen:
+(5)[^121] A vezénylési határozatnak vagy parancsnak tartalmaznia kell az ideiglenes külföldi szolgálattal kapcsolatos információkat, valamint a kiküldött személyes adatait, így különösen:
 
 a) az ideiglenes külföldi szolgálatot elrendelő szerv megnevezését, az elrendelő okirat számát;
 
@@ -40,11 +38,11 @@ c) az ideiglenes külföldi szolgálat célját;
 
 d) az ideiglenes külföldi szolgálat kezdetét és végét;
 
-e)[^100] az kiküldött(ek) nevét, rendfokozatát (nem katona állományú személyek esetén állományviszonyát), születési idejét, útlevélszámát;
+e)[^122] az kiküldött(ek) nevét, rendfokozatát (nem katona állományú személyek esetén állományviszonyát), születési idejét, útlevélszámát;
 
 f) a kiküldött(ek) beosztását, besorolását;
 
-g) a kiküldött(ek) adóazonosító jelét, alkalmazotti azonosító számát;
+g)[^123] a kiküldött(ek) adóazonosító jelét, személyügyi törzsszámát;
 
 h) a kiküldött(ek) részére felszámítandó napidíj mértékét;
 
@@ -56,11 +54,16 @@ k) a kiküldött(ek) részére utólagos elszámolás mellett kiadható egyéb k
 
 l) az ideiglenes külföldi szolgálat vonatkozásában illetékes pénzügyi ellátó szerv (az előlegek kiadására és elszámolására jogosult valutapénztár) megnevezését.
 
-(6) A katonai nemzetbiztonsági szolgálatok főigazgatói a saját szervezetük költségvetése terhére elrendelt ideiglenes külföldi szolgálat esetében a kiutazási engedély tartalmát az (5) bekezdésben foglaltak figyelembevételével saját hatáskörükben határozzák meg. Ilyen esetben a kiutazási engedély az (5) bekezdés a)–e) pontjainak megfelelő adatokat tartalmazza, azzal az eltéréssel, hogy a katonai igazolójegy számát és az útlevélszámot azon nem kell feltüntetni.
+(6)[^124] A KNBSZ főigazgatója saját szervezete költségvetése terhére elrendelt ideiglenes külföldi szolgálat esetében a vezénylési határozat vagy parancs tartalmát az (5) bekezdésben foglaltak figyelembevételével saját hatáskörükben határozzák meg. Ilyen esetben a vezénylési határozat vagy parancs az (5) bekezdés a)–e) pontjainak megfelelő adatokat tartalmazza azzal az eltéréssel, hogy a születési időt és az útlevélszámot azon nem kell feltüntetni.
 
-[^95]: Az 50. § (1) bekezdés b) pontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés n) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^96]: Az 50. § (1) bekezdés c) pontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés o) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^97]: Az 50. § (1) bekezdés d) pontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés p) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^98]: Az 50. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 17. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^99]: Az 50. § (4) bekezdése az 1/2011. (III. 8.) HM rendelet 17. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^100]: Az 50. § (5) bekezdés e) pontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés q) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+(7)[^125] Az (5)–(6) bekezdések figyelembevételével előkészített vezénylési határozat, vagy parancs vagy – ha a vezénylésről döntési lap készül – döntési lap tervezetéhez, annak (4) bekezdés szerinti ellenjegyzését megelőzően csatolni szükséges az utazás kapcsán felmerülő költségek kalkulációjáról szóló összesítő kimutatást, amelyet a 7. számú melléklet szerinti adattartalommal kell elkészíteni.
+
+[^117]: Az 50. § (1) bekezdése a 3/2012. (III. 6.) HM rendelet 55. § (1) bekezdésével megállapított szöveg.
+[^118]: Az 50. § (2) bekezdése a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^119]: Az 50. § (3) bekezdése az 1/2011. (III. 8.) HM rendelet 17. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^120]: Az 50. § (4) bekezdése a 3/2012. (III. 6.) HM rendelet 55. § (2) bekezdésével megállapított szöveg.
+[^121]: Az 50. § (5) bekezdése a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés u) pontja szerint módosított szöveg.
+[^122]: Az 50. § (5) bekezdés e) pontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés q) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^123]: Az 50. § (5) bekezdés g) pontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés o) pontja szerint módosított szöveg.
+[^124]: Az 50. § (6) bekezdése a 3/2012. (III. 6.) HM rendelet 55. § (3) bekezdésével megállapított, a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés v) pontja szerint módosított szöveg.
+[^125]: Az 50. § (7) bekezdését a 3/2012. (III. 6.) HM rendelet 55. § (4) bekezdése iktatta be.

@@ -18,13 +18,16 @@ e)[^2] honvéd tisztjelöltekre,
 
 f)[^3]
 
-g)[^4] katonai tiszthelyettes szakképző iskola hallgatóira (a továbbiakban: honvéd tiszthelyettes-jelölt),
+g)[^4] honvéd altiszt-jelöltekre,
 
 h) önkéntes tartalékos katonákra. A továbbiakban az a)–h) pontokban felsoroltak együttes megnevezése: kiküldöttek.
 
 (2) A nemzetközi szervezetekhez [így különösen az Egyesült Nemzetek Szervezetéhez (ENSZ), az Európai Biztonsági és Együttműködési Szervezethez (EBESZ), az Európai Unióhoz (EU) és az Afrikai Unióhoz (AU)] vezényelt katonai megfigyelőkre csak a 3. § i) pont 7. alpont, a 3. § r) pont, a 4. §, a 25. §, a 27. § és a 49. § rendelkezései vonatkoznak.
 
+(3)[^5] A Hjt. 109/A. §-a szerinti vezetők esetében e rendelet rendelkezéseit külön jogszabály által nem szabályozott kérdésekben kell alkalmazni.
+
 [^1]: Az 1. § (1) bekezdés d) pontját az 1/2011. (III. 8.) HM rendelet 27. § (6) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^2]: Az 1. § (1) bekezdés e) pontja az 1/2011. (III. 8.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés f) pontját az 1/2011. (III. 8.) HM rendelet 27. § (6) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^4]: Az 1. § (1) bekezdés g) pontja az 1/2011. (III. 8.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés g) pontja a 3/2012. (III. 6.) HM rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (3) bekezdését a 3/2012. (III. 6.) HM rendelet 52. § (2) bekezdése iktatta be.

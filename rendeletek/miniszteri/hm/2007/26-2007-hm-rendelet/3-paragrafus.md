@@ -1,12 +1,12 @@
-## 2. §[^5] A honvédségnél foglalkoztatott köztisztviselők tartós külföldi szolgálatára vonatkozó szabályokat a Korm. rendelet tartalmazza azzal, hogy a honvédség által biztosított munkakörök ellátására kiküldöttek esetében a devizaszorzószámot 1. számú melléklet, és az adott országra irányadó alapellátmányt a 6. § (2) bekezdése figyelembevételével alapján kell megállapítani. A köztisztviselők ideiglenes külföldi szolgálata, valamint tartós vagy ideiglenes külföldi tanulmányai alatt folyósítandó külföldi juttatásokat külön rendelkezés állapítja meg.
+## 2. §[^6] A honvédségnél foglalkoztatott kormánytisztviselők tartós külföldi szolgálatára vonatkozó szabályokat a Korm. rendelet tartalmazza azzal, hogy a honvédség által biztosított munkakörök ellátására kiküldöttek esetében a devizaszorzószámot 1. számú melléklet, és az adott országra irányadó alapellátmányt a 6. § (2) bekezdése figyelembevételével alapján kell megállapítani. A kormánytisztviselők ideiglenes külföldi szolgálata, valamint tartós vagy ideiglenes külföldi tanulmányai alatt folyósítandó külföldi juttatásokat külön rendelkezés állapítja meg.
 
 ## Értelmező rendelkezések
 
 ## 3. § E rendelet alkalmazásában:
 
-a) tartós külföldi szolgálat: az a külföldi szolgálat, amelynek tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja;
+a)[^7] tartós külföldi szolgálat: az a külföldi szolgálat, amelynek tervezett időtartama – megszakítás nélkül – a kilencven napot meghaladja;
 
-b) ideiglenes külföldi szolgálat: az a külföldi szolgálat, amelynek tervezett időtartama nem haladja meg a három hónapot;
+b)[^8] ideiglenes külföldi szolgálat: az a külföldi szolgálat, amelynek tervezett időtartama nem haladja meg a kilencven napot;
 
 c) külföldi tanulmány: külföldi tanintézetben vagy külföldi katonai szervezetnél folytatott tanulmány, illetőleg képzésben, át- és továbbképzésben, tanfolyamon való részvétel, amely az a)–b) pontokban foglaltak szerint lehet tartós vagy ideiglenes;
 
@@ -14,29 +14,29 @@ d) béketámogató művelet: nemzetközi szervezet felkérése alapján a honvé
 
 e) állomáshely: az az ország vagy földrajzilag körülhatárolt terület, ahová a kiküldött külföldi szolgálatra vagy külföldi tanulmányra kerül vezénylésre vagy kihelyezésre, illetve ahová a béketámogató műveletben részt vevő kontingens mandátuma szól;
 
-f) harmadik ország: a Magyar Köztársaságtól, valamint az állomáshelytől eltérő ország vagy földrajzilag körülhatárolt terület;
+f)[^9] harmadik ország: a Magyarországtól, valamint az állomáshelytől eltérő ország vagy földrajzilag körülhatárolt terület;
 
-g)[^6] kiküldetés: a tartós külföldi szolgálatot teljesítők, illetve időtartamtól függetlenül a béketámogató műveletben résztvevők által az állomáshely szerinti vagy harmadik országban, illetve a Magyar Köztársaság területén – menetparancs vagy azt helyettesítő hivatalos dokumentum alapján – teljesített ideiglenes külföldi szolgálat. Az előzőeken túlmenően kiküldetésnek minősül továbbá a tartós külföldi szolgálatot teljesítők által az állomáshely szerinti vagy harmadik országban – menetparancs vagy azt helyettesítő hivatalos dokumentum alapján – teljesített legfeljebb hat hónap időtartamú külföldi szolgálat is;
+g)[^10] kiküldetés: a tartós külföldi szolgálatot teljesítők, illetve időtartamtól függetlenül a béketámogató műveletben résztvevők által az állomáshely szerinti vagy harmadik országban, illetve a Magyarország területén – menetparancs vagy azt helyettesítő hivatalos dokumentum alapján – teljesített ideiglenes külföldi szolgálat. Az előzőeken túlmenően kiküldetésnek minősül továbbá a tartós külföldi szolgálatot teljesítők által az állomáshely szerinti vagy harmadik országban – menetparancs vagy azt helyettesítő hivatalos dokumentum alapján – teljesített legfeljebb hat hónap időtartamú külföldi szolgálat is;
 
 h) kiküldő: a külföldi szolgálatra vagy külföldi tanulmányra történő vezénylést, kihelyezést elrendelő személy;
 
 i) engedélyező elöljáró: az a parancsnok (vezető), aki a hatáskörébe utaltak számára az e rendeletben foglalt szabályok figyelembevételével meghatározott juttatások kifizetésének, elszámolásának engedélyezésére jogosult. Így engedélyező elöljáró:
 
-1.[^7] az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), illetve az Európai Unió (a továbbiakban: EU) hivatalainál, ügynökségein, parancsnokságain és törzseiben a Magyar Köztársaság részére biztosított beosztást betöltők esetében a 2–3. alpontokban szereplők kivételével: az MH Katonai Képviselő Hivatal (Brüsszel) katonai képviselője,
+1.[^11] az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), illetve az Európai Unió (a továbbiakban: EU) hivatalainál, ügynökségein, parancsnokságain és törzseiben a Magyarország részére biztosított beosztást betöltők esetében a 2–3. alpontokban szereplők kivételével: az MH Katonai Képviselő Hivatal (Brüsszel) katonai képviselője,
 
-2.[^8] a NATO parancsnokságain és hivatalainál a Magyar Köztársaság részére a Szövetséges Fegyveres Erők Európai Legfelsőbb Parancsnoksága (SHAPE), továbbá a NATO Távközlési és Információs Rendszereket Üzemeltető és Támogató Hivatal (NCSA) alárendeltségében biztosított beosztást betöltők esetében: az MH Nemzeti Katonai Képviselet (Mons) katonai képviselője,
+2.[^12] a NATO parancsnokságain és hivatalainál a Magyarország részére a Szövetséges Fegyveres Erők Európai Legfelsőbb Parancsnoksága (SHAPE), továbbá a NATO Távközlési és Információs Rendszereket Üzemeltető és Támogató Hivatal (NCSA) alárendeltségében biztosított beosztást betöltők esetében: az MH Nemzeti Katonai Képviselet (Mons) katonai képviselője,
 
-3. a Szövetséges Transzformációs Parancsnokság (ACT, Norfolk) alárendeltségében, valamint az Amerikai Egyesült Államok Fegyveres Erői parancsnokságain a Magyar Köztársaság részére biztosított beosztást betöltők esetében: az MH Nemzeti Összekötő Képviselet (Norfolk) képviseletvezetője,
+3.[^13] a Szövetséges Transzformációs Parancsnokság (ACT, Norfolk) alárendeltségében, valamint az Amerikai Egyesült Államok Fegyveres Erői parancsnokságain a Magyarország részére biztosított beosztást betöltők esetében: az MH Nemzeti Összekötő Képviselet (Norfolk) képviseletvezetője,
 
-4.[^9] az egyéb nemzetközi katonai parancsnokságokon és nemzetközi katonai alakulatoknál, valamint más nemzet minisztériumában, katonai parancsnokságán, alakulatánál beosztást betöltők esetében: a honvédség központi személyügyi szervének vezetője,
+4.[^14] az egyéb nemzetközi katonai parancsnokságokon és nemzetközi katonai alakulatoknál, valamint más nemzet minisztériumában, katonai parancsnokságán, alakulatánál beosztást betöltők esetében: a honvédség központi személyügyi szervének vezetője,
 
-5. a Magyar Köztársaság önálló külföldi képviseleteinél és külföldön működő nemzeti szervezeteinél beosztást betöltők esetében: a képviselet, illetve szervezet állományilletékes parancsnoka (vezetője),
+5.[^15] a Magyarország önálló külföldi képviseleteinél és külföldön működő nemzeti szervezeteinél beosztást betöltők esetében: a képviselet, illetve szervezet állományilletékes parancsnoka (vezetője),
 
-6. a Magyar Köztársaság külképviseletein működő véderő-, katonai és légügyi attaséhivatalok állományában szolgálatot teljesítők esetében: az MK Katonai Felderítő Hivatal (a továbbiakban: MK KFH) főigazgatója,
+6.[^16] a Magyarország külképviseletein működő véderő-, katonai és légügyi attaséhivatalok állományában szolgálatot teljesítők esetében: a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatója,
 
-7. a béketámogató műveletekben részt vevők, a katonai megfigyelők, a NATO Reagáló Erők (a továbbiakban: NRF) és az Európai Unió Harccsoportjának (a továbbiakban: EU BG) kötelékében külföldi szolgálatot teljesítők esetében: a honvédelmi miniszter által az adott műveleti típushoz igazodóan a művelet irányítási feladatainak ellátására kijelölt szervezeti egység parancsnoka (vezetője),
+7.[^17] a béketámogató műveletekben részt vevők, a katonai megfigyelők, a NATO Reagáló Erők (a továbbiakban: NRF) és az Európai Unió Harccsoportjának (a továbbiakban: EU BG) kötelékében külföldi szolgálatot teljesítők esetében: a honvédelemért felelős miniszter által az adott műveleti típushoz igazodóan a művelet irányítási feladatainak ellátására kijelölt szervezeti egység parancsnoka (vezetője),
 
-8. az ideiglenes külföldi szolgálatot teljesítők és az ideiglenes külföldi tanulmányokat folytatók esetében: a kiutazási engedélyt aláíró parancsnok (vezető) vagy az általa kijelölt személy,
+8.[^18] az ideiglenes külföldi szolgálatot teljesítők és az ideiglenes külföldi tanulmányokat folytatók esetében: a vezénylési határozatot vagy parancsot aláíró parancsnok (vezető) vagy az általa kijelölt személy,
 
 9. a tartós külföldi tanulmányokat folytatók esetében: a beiskolázásra hatáskörrel rendelkező parancsnok (vezető);
 
@@ -44,21 +44,21 @@ j) NATO-, EU- és nemzeti beosztást betöltők: az i) pont 1–6. alpontjaiban 
 
 k) illetékes pénzügyi ellátó szerv: az a pénzügyi és számviteli feladatokat ellátó szervezet (szervezeti elem), amelynek feladat- és hatásköre az e rendelet szerinti pénzbeli járandóságok kifizetése, elszámolása, a fogadó fél által nyújtott pénzbeli juttatások beszámítása. Így illetékes pénzügyi ellátó szerv:
 
-1.[^10] az i) pont 1–5. alpontjaiban felsorolt szervezeteknél tartós külföldi szolgálatot teljesítők tekintetében: a HM Közgazdasági és Pénzügyi Hivatal (a továbbiakban: HM KPH) együttműködve a HM Fegyverzeti és Hadbiztosi Hivatallal (a továbbiakban: HM FHH),
+1.[^19] az i) pont 1–5. alpontjaiban felsorolt szervezeteknél tartós külföldi szolgálatot teljesítők tekintetében: a HM Közgazdasági és Pénzügyi Hivatal (a továbbiakban: HM KPH),
 
-2. az i) pont 6. alpontjában említett szervezeteknél tartós külföldi szolgálatot teljesítők esetében: az MK KFH e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége,
+2.[^20] az i) pont 6. alpontjában említett szervezeteknél tartós külföldi szolgálatot teljesítők esetében: a KNBSZ e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége,
 
-3.[^11] az i) pont 7. alpontjában felsorolt szervezeteknél tartós külföldi szolgálatot teljesítők esetében: a HM KPH főigazgatója által az adott művelet vonatkozásában külön intézkedésben kijelölt pénzügyi és számviteli szervezet (szervezeti elem),
+3.[^21] az i) pont 7. alpontjában felsorolt szervezeteknél tartós külföldi szolgálatot teljesítők esetében: a HM KPH főigazgatója által az adott művelet vonatkozásában külön intézkedésben kijelölt pénzügyi és számviteli szervezet (szervezeti elem),
 
-4.[^12] az ideiglenes külföldi szolgálatot teljesítők és az ideiglenes külföldi tanulmányokat folytatók esetében: a HM KPH főigazgatója által külön intézkedésben meghatározott pénzügyi és számviteli szervezet (szervezeti elem),
+4.[^22] az ideiglenes külföldi szolgálatot teljesítők és az ideiglenes külföldi tanulmányokat folytatók esetében: a HM KPH főigazgatója által külön intézkedésben meghatározott pénzügyi és számviteli szervezet (szervezeti elem),
 
-5.[^13] a tartós külföldi tanulmányokat folytatók esetében: a HM KPH együttműködve a HM FHH-val;
+5.[^23] a tartós külföldi tanulmányokat folytatók esetében: a HM KPH;
 
 l) illetékes logisztikai ellátó szerv: az a logisztikai ellátó szerv (szervezeti elem), amelynek feladat- és hatásköre a külön jogszabályban előírt felszerelések, berendezések biztosítása, logisztikai jellegű feladatok ellátása, valamint az e rendeletben említett logisztikai jellegű költségek elszámolása. Így illetékes logisztikai ellátó szerv:
 
-1.[^14] az i) pont 1–5. és 9. alpontjaiban említett személyi állomány és az ideiglenes külföldi tanulmányokat folytatók esetében: a HM FHH,
+1.[^24] az i) pont 1–5. és 9. alpontjaiban említett személyi állomány és az ideiglenes külföldi tanulmányokat folytatók esetében: az MH Összhaderőnemi Parancsnokság alárendelt, feladat- és hatáskörrel rendelkező szervezeti egysége,
 
-2. az i) pont 6. alpontjában említett személyi állomány esetében: az MK KFH e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége;
+2.[^25] az i) pont 6. alpontjában említett személyi állomány esetében: a KNBSZ e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége;
 
 m) devizaellátmány: a tartós külföldi szolgálatot teljesítők és tartós külföldi tanulmányokat folytatók részére a külföldi tartózkodással összefüggésben felmerült többletkiadásokhoz és költségekhez való hozzájárulás céljából külföldi pénznemben folyósított juttatás;
 
@@ -74,13 +74,23 @@ r) katonai megfigyelő: nemzetközi szervezet felkérése alapján és szervezé
 
 s) fogadó fél: a külföldi képzést felajánló (azt esetlegesen pénzügyileg támogató) külföldi – kormányzati vagy egyéb, nem kormányzati – szerv.
 
-[^5]: A 2. § a 9/2010. (V. 4.) HM rendelet 10. § a) pontja, a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 3. § g) pontja a 12/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
-[^7]: A 3. § i) pont 1. alpontja az 1/2011. (III. 8.) HM rendelet 2. §-ával megállapított szöveg.
-[^8]: A 3. § i) pont 2. alpontja az 1/2011. (III. 8.) HM rendelet 2. §-ával megállapított szöveg.
-[^9]: A 3. § i) pont 4. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés sz) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^10]: A 3. § k) pont 1. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^11]: A 3. § k) pont 3. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^12]: A 3. § k) pont 4. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^13]: A 3. § k) pont 5. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^14]: A 3. § l) pont 1. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^6]: A 2. § a 9/2010. (V. 4.) HM rendelet 10. § a) pontja, a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés a) pontja, a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 3. § a) pontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 3. § b) pontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 3. § f) pontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 3. § g) pontja a 12/2011. (X. 5.) HM rendelet 1. §-ával megállapított, a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^11]: A 3. § i) pont 1. alpontja az 1/2011. (III. 8.) HM rendelet 2. §-ával megállapított, a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^12]: A 3. § i) pont 2. alpontja az 1/2011. (III. 8.) HM rendelet 2. §-ával megállapított, a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^13]: A 3. § i) pont 3. alpontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^14]: A 3. § i) pont 4. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés sz) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^15]: A 3. § i) pont 5. alpontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^16]: A 3. § i) pont 6. alpontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés d)–e) pontja szerint módosított szöveg.
+[^17]: A 3. § i) pont 7. alpontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^18]: A 3. § i) pont 8. alpontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^19]: A 3. § k) pont 1. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés a) pontja, a 3/2012. (III. 6.) HM rendelet 63. § a) pontja szerint módosított szöveg.
+[^20]: A 3. § k) pont 2. alpontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^21]: A 3. § k) pont 3. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^22]: A 3. § k) pont 4. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^23]: A 3. § k) pont 5. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés c) pontja, a 3/2012. (III. 6.) HM rendelet 63. § b) pontja szerint módosított szöveg.
+[^24]: A 3. § l) pont 1. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés f) pontja, a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^25]: A 3. § l) pont 2. alpontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés h) pontja szerint módosított szöveg.

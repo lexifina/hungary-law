@@ -2,7 +2,7 @@
 
 17. § (1) Az állomáshelyre történő első kiutazás és végleges hazautazás alkalmával (ideértve a másik állomáshelyre történő áthelyezés esetét is) a honvédség a legszükségesebb személyi ingóságok szállításának számlával igazolt költségeit az alábbiak szerint (a következő súlyhatárokig) téríti meg:
 
-a)[^47] vasúton, közúton és hajón történő szállítás esetén a kiküldött után 200, a házastárs (élettárs) után 150, családtagi pótlékra jogosító gyermekenként 50-50 kg-ig;
+a)[^60] vasúton, közúton és hajón történő szállítás esetén a kiküldött után 200, a házastárs (élettárs) után 150, családtagi pótlékra jogosító gyermekenként 50-50 kg-ig;
 
 b) repülőgép igénybevétele esetén a kiküldött után 150, a házastárs (élettárs) után 100, a családtagi pótlékra jogosító gyermekenként 30-30 kg-ig;
 
@@ -28,4 +28,4 @@ c) vámszemle díjak (magyarországi, helyszíni).
 
 (8) A kiküldött saját gépjárművének külföldre történő kivitele, illetőleg hazahozatala és a kapcsolódó vámügyintézés a kiküldött feladata, a költségek a kiküldöttet terhelik.
 
-[^47]: A 17. § (1) bekezdés a) pontja a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^60]: A 17. § (1) bekezdés a) pontja a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés d) pontja szerint módosított szöveg.

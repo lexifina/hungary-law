@@ -1,6 +1,6 @@
 ## A tartós külföldi tanulmányokat folytatók devizaszorzószámainak mértéke
 
-| Fsz. | Hivatásos és szerződéses katonák (besorolási osztály/beosztási kategória) | Közalkalmazottak (munkakör, fizetési osztály) | Honvéd tisztjelöltek és honvéd tiszthelyettes-jelöltek | Devizaellátmány szorzószáma |
+| Fsz. | Hivatásos és szerződéses katonák (besorolási osztály/beosztási kategória) | Közalkalmazottak (munkakör, fizetési osztály) | Honvéd tisztjelöltek és honvéd altiszt-jelöltek | Devizaellátmány szorzószáma |
 
 | 1. | I/X | – | – | 2,00 |
 
@@ -12,19 +12,13 @@
 
 | 5. | I/VI | – | fizetési osztálytól függetlenül magasabb vezető | – | 1,75 |
 
-|  |  | – | egyetemi tanár, kutatóprofesszor, tudományos tanácsadó |  |  |
-
 | 6. | I/V | – | „H”–„J” fizetési osztály | – | 1,70 |
 
 |  |  | – | fizetési osztálytól függetlenül vezető |  |  |
 
-|  |  | – | főiskolai tanár, egyetemi docens, tudományos főmunkatárs |  |  |
-
-| 7. | I/IV | – | főiskolai docens, adjunktus, tanársegéd, tudományos munkatárs | – | 1,65 |
+| 7. | I/IV |  | – | 1,65 |
 
 | 8. | I/III | – | „G” fizetési osztály | – | 1,60 |
-
-|  |  | – | tudományos segédmunkatárs |  |  |
 
 | 9. | I/II | „F” fizetési osztály | – | 1,55 |
 
@@ -50,6 +44,6 @@
 
 | 20. | – | – | I. évfolyam | 1,00 |
 
-4.számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^139]
+4.számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^172]
 
-[^139]: A 4. számú mellékletet a 14/2010. (V. 14.) HM rendelet 5. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését. E módosító rendelet 6. § (2) bekezdése alapján 2009. október 1-től kell alkalmazni.
+[^172]: A 4. számú mellékletet a 14/2010. (V. 14.) HM rendelet 5. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését. E módosító rendelet 6. § (2) bekezdése alapján 2009. október 1-től kell alkalmazni.

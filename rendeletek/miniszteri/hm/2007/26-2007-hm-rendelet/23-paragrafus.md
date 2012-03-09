@@ -1,8 +1,8 @@
-## 22. §[^60] A kiküldött és családtagi pótlékra jogosító hozzátartozója javára – a külföldön eltöltött időre – a HM FHH baleseti halálra és baleseti rokkantságra szóló baleset-biztosítást köt.
+## 22. §[^75]
 
 ## Iskoláztatási költség
 
-23. §[^61] (1) A kiküldöttnek a vele külföldön tartózkodó, családtagi pótlékra jogosító gyermeke után az alap- és középfokú oktatási intézményben felmerülő tandíjköltséget a (2)–(5) bekezdésekben foglaltak szerint lehet megtéríteni. Az alapfokú képzést közvetlenül megelőző, legfeljebb egyéves időtartamú úgynevezett iskolai előkészítő tandíját a (2)–(3) bekezdésekben foglaltak figyelembevételével lehet megtéríteni.
+23. §[^76] (1) A kiküldöttnek a vele külföldön tartózkodó, családtagi pótlékra jogosító gyermeke után az alap- és középfokú oktatási intézményben felmerülő tandíjköltséget a (2)–(5) bekezdésekben foglaltak szerint lehet megtéríteni. Az alapfokú képzést közvetlenül megelőző, legfeljebb egyéves időtartamú úgynevezett iskolai előkészítő tandíját a (2)–(3) bekezdésekben foglaltak figyelembevételével lehet megtéríteni.
 
 (2) Ha az állomáshelyen rendelkezésre áll térítésmentesen igénybe vehető – az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő – angol, német, francia vagy spanyol nyelven képzést folytató oktatási intézmény, akkor a kiküldött részére iskoláztatási költségtérítés nem biztosítható.
 
@@ -14,5 +14,5 @@
 
 (6) A gyermekek taníttatásával összefüggő egyéb, az (5) bekezdésben nem szereplő költségeket nem lehet a kiküldött részére megtéríteni. Ilyen meg nem téríthető költségek különösen a tanszer, tankönyv, az oktatási intézmény által szervezett kirándulás, szabadidős programok, külön nyelvórák, az iskolabusz költségei, valamint az oktatási intézmény részére történő bármely egyéb befizetés.
 
-[^60]: A 22. § az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
-[^61]: A 23. § a 12/2011. (X. 5.) HM rendelet 6. §-ával megállapított szöveg.
+[^75]: A 22. §-t a 3/2012. (III. 6.) HM rendelet 63. § c) pontja hatályon kívül helyezte.
+[^76]: A 23. § a 12/2011. (X. 5.) HM rendelet 6. §-ával megállapított szöveg.

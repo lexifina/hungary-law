@@ -1,6 +1,6 @@
 ## A NATO-, EU- és nemzeti beosztást betöltők devizaszorzószámainak mértéke
 
-| Fsz. | Hivatásos és szerződéses katonák (besorolási osztály/beosztási kategória) | Közalkalmazottak (munkakör, fizetési osztály) | Köztisztviselők (munkakör, besorolási osztály/fizetési fokozat) | Devizaellátmány szorzószáma |
+| Fsz. | Hivatásos és szerződéses katonák (besorolási osztály/beosztási kategória) | Közalkalmazottak (munkakör, fizetési osztály) | Kormánytisztviselők (munkakör, besorolási osztály/fizetési fokozat) | Devizaellátmány szorzószáma |
 
 | 1. | I/X | – | – | 4,6–5,0 |
 
@@ -42,6 +42,6 @@
 
 | 17. | II/I–IV | „A”–,,B” fizetési osztály | III. besorolási osztály | 1,1–1,5 |
 
-2. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^137]
+2. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^170]
 
-[^137]: A 2. számú melléklet a 4/2009. (IV. 22.) HM rendelet 4. §-ával megállapított, az 1/2011. (III. 8.) HM rendelet 25. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 27. § (3) bekezdését.
+[^170]: A 2. számú melléklet a 4/2009. (IV. 22.) HM rendelet 4. §-ával megállapított, az 1/2011. (III. 8.) HM rendelet 25. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 27. § (3) bekezdését.

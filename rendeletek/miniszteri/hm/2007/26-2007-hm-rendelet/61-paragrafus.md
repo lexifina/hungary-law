@@ -1,5 +1,5 @@
-## 60. §[^112] Az ideiglenes külföldi szolgálatot teljesítők javára az ideiglenes külföldi szolgálattal kapcsolatos betegség-, baleset- és poggyászbiztosítást a HM FHH köti meg.
+## 60. §[^140]
 
 ## Egyéb költségek
 
-[^112]: A 60. § az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
+[^140]: A 60. §-t a 3/2012. (III. 6.) HM rendelet 63. § f) pontja hatályon kívül helyezte.
