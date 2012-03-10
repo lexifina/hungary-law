@@ -1,0 +1,1 @@
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 14. pontjában, valamint a helyi önkormányzatokról szóló 1990. évi LXV. törvény 95. § c) pontjában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

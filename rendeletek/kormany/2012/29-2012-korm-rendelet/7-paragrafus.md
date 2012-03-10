@@ -1,0 +1,1 @@
+## 6. § Az e rendelet hatálybalépésekor közszolgálati, illetve kormányzati szolgálati jogviszonyban álló közszolgálati tisztviselőt – amennyiben a köztisztviselők képesítési előírásairól szóló 9/1995. (II. 3.) Korm. rendelet alapján feladatköre ellátására képesítettnek minősült – feladatköre megváltozásáig képesítettnek kell tekinteni.
