@@ -1,0 +1,1 @@
+## 14. § Az államigazgatási szerv hivatali szervezetének vezetője az igazgatási szünet alatt a szabadságot úgy adja ki, hogy biztosítsa a zavartalan ügymenetet és feladatellátást, valamint a lakossági ügyfélszolgálattal rendelkező szervek esetében a folyamatos feladatellátást.
