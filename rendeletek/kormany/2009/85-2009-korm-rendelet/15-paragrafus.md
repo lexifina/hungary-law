@@ -8,7 +8,7 @@
 
 (5) Amennyiben a támogatási szerződés módosításához a Tanács hozzájárult, és a szerződésmódosításra ezen hozzájárulástól számított 90 napon belül a kedvezményezett mulasztásából nem kerül sor, a Tanács szerződésmódosításról hozott döntése érvényét veszti.
 
-(6)[^38] Ha jogszabályváltozás vagy hatósági intézkedés miatt a támogatással folyamatban lévő beruházás műszaki tartalmának megváltoztatása szükséges, úgy indokolt esetben a kedvezményezett kérheti a beruházás műszaki tartalmának módosítását a Tanácstól. A kérelmek engedélyezéséről a Tanács dönt. E döntéseiről a Tanács a döntést követő 8 munkanapon belül írásban tájékoztatja az NFM-et.
+(6)[^40] Ha jogszabályváltozás vagy hatósági intézkedés miatt a támogatással folyamatban lévő beruházás műszaki tartalmának megváltoztatása szükséges, úgy indokolt esetben a kedvezményezett kérheti a beruházás műszaki tartalmának módosítását a Tanácstól. A kérelmek engedélyezéséről a Tanács dönt. E döntéseiről a Tanács a döntést követő 8 munkanapon belül írásban tájékoztatja az NFM-et.
 
 (7) A (6) bekezdés szerinti műszaki tartalom módosítására irányuló kérelemben az önkormányzat, társulás
 
@@ -22,7 +22,7 @@ d) szükség esetén az illetékes hatóság engedélyének hiteles másolatát.
 
 (8) A beruházás műszaki tartalmának változtatásából származó többletköltség miatt a kedvezményezettet a beruházás elfogadott összköltségéhez képest további támogatás nem illeti meg.
 
-(9)[^39] A Tanács az NFM és az BM által meghatározott formában a tárgyhóban meghozott döntésekről a következő hónap 10-éig beszámol.
+(9)[^41] A Tanács az NFM és az BM által meghatározott formában a tárgyhóban meghozott döntésekről a következő hónap 10-éig beszámol.
 
-[^38]: A 15. § (6) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^39]: A 15. § (9) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
+[^40]: A 15. § (6) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^41]: A 15. § (9) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.

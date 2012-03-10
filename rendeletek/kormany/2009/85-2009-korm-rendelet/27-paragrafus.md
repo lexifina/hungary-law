@@ -4,7 +4,7 @@
 
 ## VONATKOZÓ SZABÁLYOK
 
-27. § (1)[^56] A TRFC decentralizált kerete terhére az NFM miniszter és a Tanács, illetve az Ügynökség – a Kbt.-ben foglaltak figyelembevételével – legkésőbb 2009. május 31-ig működési források biztosítására vonatkozóan megállapodást köthet
+27. § (1)[^63] A TRFC decentralizált kerete terhére az NFM miniszter és a Tanács, illetve az Ügynökség – a Kbt.-ben foglaltak figyelembevételével – legkésőbb 2009. május 31-ig működési források biztosítására vonatkozóan megállapodást köthet
 
 a) a regionális identitástudat erősítése, illetve a hazai fejlesztési programokkal összefüggő kommunikáció- és marketingtevékenység, valamint
 
@@ -32,7 +32,7 @@ i) a megállapodás mellékletét képező dokumentumok körét;
 
 j) a támogatás felhasználás pénzügyi és szakmai ellenőrzésének szabályait.
 
-(3)[^57] A Tanács legkésőbb 2009. április 30-ig eljuttatja az NFM részére az (1) bekezdés a) pontjában meghatározott feladatra vonatkozó kommunikációs ütemtervet, mely a megállapodás mellékletét képezi.
+(3)[^64] A Tanács legkésőbb 2009. április 30-ig eljuttatja az NFM részére az (1) bekezdés a) pontjában meghatározott feladatra vonatkozó kommunikációs ütemtervet, mely a megállapodás mellékletét képezi.
 
 (4) Az (1) bekezdés b) pontjában meghatározott feladat körében a Tanács e rendelet 9. § (3) bekezdés e)–h) pontjaiban lévő feladatokat, továbbá a támogatási szerződések mellékletében felajánlott biztosítékokhoz kapcsolódó döntések előkészítésével és meghozatalával kapcsolatos feladatokat köteles ellátni a Tanács döntési hatáskörébe utalt, a korábbi években az önkormányzati fejlesztési és területfejlesztési források terhére megkötött támogatási szerződések vonatkozásában. Ezen tevékenységek és előirányzatok részletes felsorolását a megállapodás tartalmazza.
 
@@ -40,5 +40,5 @@ j) a támogatás felhasználás pénzügyi és szakmai ellenőrzésének szabál
 
 (6) A TRFC decentralizált keretének terhére vállalt kötelezettségek pénzügyi teljesítése legkésőbb 2010. december 31-ig történhet meg.
 
-[^56]: A 27. § (1) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^57]: A 27. § (3) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^63]: A 27. § (1) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^64]: A 27. § (3) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.

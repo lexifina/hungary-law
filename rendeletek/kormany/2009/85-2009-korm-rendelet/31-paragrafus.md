@@ -18,9 +18,9 @@ d) a szilárd burkolatú belterületi utak a)–c) pontok szerinti munkák elvé
 
 (4) A VTT terhére a Tanács legkésőbb 2009. május 31-ig pályázati rendszeren kívül hozott döntéssel támogatást ítélhet meg Tiszaroff és Tiszagyenda települések helyi önkormányzatai részére. A támogató döntés feltétele, hogy az önkormányzatok a Tanács számára benyújtsák a projekt szakmai leírását, műszaki tervdokumentációját, a beruházás részletes költségtervét, a megkezdhetőségét igazoló szakhatóság által kiállított érvényes vízjogi létesítési engedélyt, valamint a saját forrás rendelkezésre állását igazoló dokumentumot.
 
-(5)[^66] A támogatási szerződés megkötésére, módosítására, a támogatás folyósítására, valamint a projekt ellenőrzésére, befejezésére, lezárására e rendelet 13–17. §-aiban és a 21–22. §-aiban rögzített rendelkezéseket kell megfelelően alkalmazni a (6)–(10) bekezdések szerinti eltérésekkel, továbbá azzal, hogy ahol e rendelet 13–17. §-a és a 22. §-a BM minisztert említ, ott NFM minisztert kell érteni, illetve ahol BM-t említ, ott NFM-t kell érteni.
+(5)[^73] A támogatási szerződés megkötésére, módosítására, a támogatás folyósítására, valamint a projekt ellenőrzésére, befejezésére, lezárására e rendelet 13–17. §-aiban és a 21–22. §-aiban rögzített rendelkezéseket kell megfelelően alkalmazni a (6)–(10) bekezdések szerinti eltérésekkel, továbbá azzal, hogy ahol e rendelet 13–17. §-a és a 22. §-a BM minisztert említ, ott NFM minisztert kell érteni, illetve ahol BM-t említ, ott NFM-t kell érteni.
 
-(6)[^67] A támogatási döntést követő 60 napon belül a Tanács támogatási szerződést köt a (4) bekezdésben feltüntetett önkormányzatokkal. A támogatási szerződés mintáját az NFM juttatja el a Tanács részére. A támogatási szerződések és azok módosításainak előkészítését a Tanács végzi.
+(6)[^74] A támogatási döntést követő 60 napon belül a Tanács támogatási szerződést köt a (4) bekezdésben feltüntetett önkormányzatokkal. A támogatási szerződés mintáját az NFM juttatja el a Tanács részére. A támogatási szerződések és azok módosításainak előkészítését a Tanács végzi.
 
 (7) A támogatással megvalósult fejlesztésre a kedvezményezettnek a projekt befejezésétől számított 10 éven keresztül fenntartási és üzemeltetési kötelezettséget kell vállalnia.
 
@@ -28,10 +28,10 @@ d) a szilárd burkolatú belterületi utak a)–c) pontok szerinti munkák elvé
 
 (9) A (2) bekezdés d) pontja szerinti tevékenység keretében elszámolt költségek mértéke nem haladhatja meg a projekt összes elszámolható költségének 3%-át.
 
-(10)[^68] A VTT esetében támogatási előleg adható – a kedvezményezett írásban benyújtott kérelme alapján – a megítélt támogatás legfeljebb 40%-a mértékéig, amelynek felhasználására vonatkozóan az Ámr. 91. § (3) és (7) bekezdése, illetve a támogatási szerződés az irányadó.
+(10)[^75] A VTT esetében támogatási előleg adható – a kedvezményezett írásban benyújtott kérelme alapján – a megítélt támogatás legfeljebb 40%-a mértékéig, amelynek felhasználására vonatkozóan az Ámr. 91. § (3) és (7) bekezdése, illetve a támogatási szerződés az irányadó.
 
 (11) A VTT 2009. évi keretének terhére vállalt kötelezettségek pénzügyi teljesítése legkésőbb 2010. december 31-ig történhet meg.
 
-[^66]: A 31. § (5) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
-[^67]: A 31. § (6) bekezdése a 245/2009. (X. 30.) Korm. rendelet 1. §-ával megállapított, a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^68]: A 31. § (10) bekezdése a 245/2009. (X. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^73]: A 31. § (5) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
+[^74]: A 31. § (6) bekezdése a 245/2009. (X. 30.) Korm. rendelet 1. §-ával megállapított, a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^75]: A 31. § (10) bekezdése a 245/2009. (X. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.

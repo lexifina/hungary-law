@@ -1,6 +1,6 @@
 ## A projekt megkezdése
 
-12. § (1)[^32] A pályázat befogadása előtt megkezdett projekthez támogatás nem adható, kivéve a CÉDE előirányzat esetén a céltámogatással megvalósuló fejlesztéseket, ahol a benyújtás időpontjában hátralévő műszaki tartalomra igényelhető támogatás. Nem minősül megkezdett projektnek a 23. § (1) bekezdés a) pont ac) alpontja szerinti alcél esetén a település biztonságos működésének ideiglenes helyreállítását szolgáló veszélyelhárítás. A projekt a pályázat befogadását követően megkezdhető, figyelembe véve a 14. § (5) bekezdésében foglaltakat.
+12. § (1)[^34] A pályázat befogadása előtt megkezdett projekthez támogatás nem adható, kivéve a CÉDE előirányzat esetén a céltámogatással megvalósuló fejlesztéseket, ahol a benyújtás időpontjában hátralévő műszaki tartalomra igényelhető támogatás. Nem minősül megkezdett projektnek a 23. § (1) bekezdés a) pont ac) alpontja szerinti alcél esetén a település biztonságos működésének ideiglenes helyreállítását szolgáló veszélyelhárítás. A projekt a pályázat befogadását követően megkezdhető, figyelembe véve a 14. § (5) bekezdésében foglaltakat.
 
 (2) A projekt kezdési időpontjának
 
@@ -26,4 +26,4 @@ c) fejlesztési célú pénzeszközök átadása esetén az első pénzátadás 
 
 (5) A támogatással megvalósult fejlesztések, kapacitások fenntartását, üzemeltetését, a kapcsolódó szolgáltatások nyújtását, továbbá a veszélyelhárítást szolgáló védművek karbantartását a kedvezményezett a projekt befejezését követően 5 éven keresztül folyamatosan biztosítani köteles, kivéve a 24. § (2) bekezdés d) pont és a 25. § (2) bekezdés f) pont esetében.
 
-[^32]: A 12. § (1) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^34]: A 12. § (1) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.

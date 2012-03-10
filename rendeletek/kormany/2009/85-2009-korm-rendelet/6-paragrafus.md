@@ -20,7 +20,7 @@ i) azon pályázó részére, amely nem nyilatkozott arról, hogy a pályázat s
 
 j) azon pályázó részére, amely a projektjét olyan ingatlanon kívánja megvalósítani, amely a pályázat benyújtásának időpontjában nem per- és igénymentes kivéve, ha a pályázó az igény jogosultja;
 
-k)[^21] azon projekt megvalósításához, amelynek a megvalósítási helye szerinti ingatlan nem a pályázó tulajdonában van, kivéve, ha azon a pályázónak olyan joga áll fenn, amely a támogatási szerződésben foglalt kötelezettségek teljesítésének lehetőségét – például bérleti szerződés révén – biztosítja, kivéve továbbá a 4. § (3) bekezdésében és a 23. § (1) bekezdés a) pont ac) alpontjában foglalt fejlesztéseket;
+k)[^23] azon projekt megvalósításához, amelynek a megvalósítási helye szerinti ingatlan nem a pályázó tulajdonában van, kivéve, ha azon a pályázónak olyan joga áll fenn, amely a támogatási szerződésben foglalt kötelezettségek teljesítésének lehetőségét – például bérleti szerződés révén – biztosítja, kivéve továbbá a 4. § (3) bekezdésében és a 23. § (1) bekezdés a) pont ac) alpontjában foglalt fejlesztéseket;
 
 l) kizárólag projekt-előkészítéssel kapcsolatos tevékenységeket tartalmazó pályázatban foglaltak megvalósításához;
 
@@ -28,9 +28,9 @@ m) olyan projektek megvalósításához, amelyek a pályázat benyújtását meg
 
 n) azon pályázó részére, amely nem felel meg az Áht. 15. §-ában megfogalmazott, a rendezett munkaügyi kapcsolatokra vonatkozóan feltételeknek.
 
-(2)[^22] Az (1) bekezdésben foglaltak fennállását az Igazgatóság a 4. § (10) bekezdése szerinti vizsgálata során ellenőrzi. A szerződéskötést követően felmerülő köztartozás, illetve meginduló adósságrendezési eljárás esetén támogatás nem folyósítható; adósságrendezési eljárás esetén az eljárást befejező végzés jogerőre emelkedéséig a támogatás folyósítását fel kell függeszteni.
+(2)[^24] Az (1) bekezdésben foglaltak fennállását az Igazgatóság a 4. § (10) bekezdése szerinti vizsgálata során ellenőrzi. A szerződéskötést követően felmerülő köztartozás, illetve meginduló adósságrendezési eljárás esetén támogatás nem folyósítható; adósságrendezési eljárás esetén az eljárást befejező végzés jogerőre emelkedéséig a támogatás folyósítását fel kell függeszteni.
 
-(3)[^23] Az e rendelet 23. § (1) bekezdésének a) pontjának aa) alpontja, b), c) és e) pontja, továbbá 24. § (2) bekezdés c) pontjának cb) alpontja, e), f) és i) pontjai, valamint a 25. § (2) bekezdésének b)–e) és i) pontjai szerint nyújtott támogatás elsődlegesen ellenszolgáltatás nélkül nyújtott szolgáltatások beindítását, illetve színvonalának emelését szolgálja. Amennyiben ezen jogcímek szerint támogatásban részesített projektből az üzemeltetés során bevételek származnak, és az üzemeltetést nem a pályázó önkormányzat vagy annak intézménye végzi, az üzemeltetőt kötelező nyílt és feltételmentes pályázati eljárás keretében kiválasztani. Nem kötelező az üzemeltető pályázati eljárásban történő kiválasztása, amennyiben a támogatott projekt közvetlenül kapcsolódik valamely közszolgáltatáshoz.
+(3)[^25] Az e rendelet 23. § (1) bekezdésének a) pontjának aa) alpontja, b), c) és e) pontja, továbbá 24. § (2) bekezdés c) pontjának cb) alpontja, e), f) és i) pontjai, valamint a 25. § (2) bekezdésének b)–e) és i) pontjai szerint nyújtott támogatás elsődlegesen ellenszolgáltatás nélkül nyújtott szolgáltatások beindítását, illetve színvonalának emelését szolgálja. Amennyiben ezen jogcímek szerint támogatásban részesített projektből az üzemeltetés során bevételek származnak, és az üzemeltetést nem a pályázó önkormányzat vagy annak intézménye végzi, az üzemeltetőt kötelező nyílt és feltételmentes pályázati eljárás keretében kiválasztani. Nem kötelező az üzemeltető pályázati eljárásban történő kiválasztása, amennyiben a támogatott projekt közvetlenül kapcsolódik valamely közszolgáltatáshoz.
 
 (4) A közszolgáltatások ellátásáért nyújtott támogatás csak olyan mértékben korlátozhatja a versenyt, amely mindenképpen szükséges a feladat hatékony ellátásához.
 
@@ -38,6 +38,6 @@ n) azon pályázó részére, amely nem felel meg az Áht. 15. §-ában megfogal
 
 (6) A kedvezményezett a kapott támogatásról külön elszámolást köteles vezetni, amely elszámolás alapján a (4) és (5) bekezdésben foglaltak teljesülése ellenőrizhető.
 
-[^21]: A 6. § (1) bekezdésének k) pontja a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
-[^22]: A 6. § (2) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
-[^23]: A 6. § (3) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^23]: A 6. § (1) bekezdésének k) pontja a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^24]: A 6. § (2) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^25]: A 6. § (3) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.

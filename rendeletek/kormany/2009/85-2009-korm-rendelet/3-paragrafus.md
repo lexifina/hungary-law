@@ -106,21 +106,21 @@ n) a projekt költségvetése (a fejlesztés költségelemeinek a számviteli t�
 
 o) a támogatás ellenében vállalt kötelezettségek teljesítésének módja.
 
-(5)[^5] A (2)–(4) bekezdésekben foglalt pályázati felhívás, pályázati útmutató, valamint pályázati adatlap mintáját az NFM készíti el, az BM és a regionális fejlesztési ügynökség (a továbbiakban: Ügynökség) közreműködésével, amelyet megküld a Tanács részére.
+(5)[^7] A (2)–(4) bekezdésekben foglalt pályázati felhívás, pályázati útmutató, valamint pályázati adatlap mintáját az NFM készíti el, az BM és a regionális fejlesztési ügynökség (a továbbiakban: Ügynökség) közreműködésével, amelyet megküld a Tanács részére.
 
-(6)[^6] A pályázati egységcsomagot a Tanács egyeztetés és nyilvántartásba vétel kezdeményezése céljából legkésőbb tárgyév április 22-ig megküldi az NFM-nek az alábbi módon:
+(6)[^8] A pályázati egységcsomagot a Tanács egyeztetés és nyilvántartásba vétel kezdeményezése céljából legkésőbb tárgyév április 22-ig megküldi az NFM-nek az alábbi módon:
 
 a) a pályázati egységcsomag tervezetét elektronikus úton, majd a véglegesített pályázati felhívást papír alapon;
 
 b) az Ámr. 8/a. számú melléklete szerinti adatlapot elektronikus úton, majd a véglegesített pályázati felhívással együtt két eredeti példányban papír alapon;
 
-c)[^7] az állami támogatások versenyszempontú ellenőrzéséért felelős szervezetnek a pályázati egységcsomagról adott állásfoglalását elektronikus úton, majd a véglegesített pályázati felhívással együtt papír alapon egy másolati példányban.
+c)[^9] az állami támogatások versenyszempontú ellenőrzéséért felelős szervezetnek a pályázati egységcsomagról adott állásfoglalását elektronikus úton, majd a véglegesített pályázati felhívással együtt papír alapon egy másolati példányban.
 
-(7)[^8] Ha a pályázati egységcsomaggal kapcsolatban az NFM eltérően foglal állást, erről a Tanácsot a beérkezéstől számított 3 munkanapon belül írásban – indokai megjelölésével – értesíti. Ha a Tanács az állásfoglalásban foglaltakkal nem ért egyet, az NFM-mel egyeztetést folytat le a megállapodás elérése érdekében. Az egyeztetés alapján módosított pályázati felhívással kapcsolatban az NFM annak beérkezését követő 2 munkanapon belül a (8) bekezdésben foglaltak szerint jár el.
+(7)[^10] Ha a pályázati egységcsomaggal kapcsolatban az NFM eltérően foglal állást, erről a Tanácsot a beérkezéstől számított 3 munkanapon belül írásban – indokai megjelölésével – értesíti. Ha a Tanács az állásfoglalásban foglaltakkal nem ért egyet, az NFM-mel egyeztetést folytat le a megállapodás elérése érdekében. Az egyeztetés alapján módosított pályázati felhívással kapcsolatban az NFM annak beérkezését követő 2 munkanapon belül a (8) bekezdésben foglaltak szerint jár el.
 
-(8)[^9] Amennyiben a pályázati egységcsomag minden eleme megfelel e rendeletben foglalt feltételeknek, és összhangban van más vonatkozó jogszabályokban foglalt előírásokkal, az NFM a pályázati felhívást az általa vezetett pályázati nyilvántartásba a beérkezéstől számított 5 munkanapon belül felveszi, amelyről nyilvántartásba vételi adatlapot állít ki, és erről az adatlap megküldésével a Tanácsot írásban értesíti. A nyilvántartásba vétel során az NFM a pályázati felhívást egyedi kódszámmal látja el.
+(8)[^11] Amennyiben a pályázati egységcsomag minden eleme megfelel e rendeletben foglalt feltételeknek, és összhangban van más vonatkozó jogszabályokban foglalt előírásokkal, az NFM a pályázati felhívást az általa vezetett pályázati nyilvántartásba a beérkezéstől számított 5 munkanapon belül felveszi, amelyről nyilvántartásba vételi adatlapot állít ki, és erről az adatlap megküldésével a Tanácsot írásban értesíti. A nyilvántartásba vétel során az NFM a pályázati felhívást egyedi kódszámmal látja el.
 
-(9)[^10] A pályázati felhívások NFM-nél vezetett nyilvántartása tartalmazza:
+(9)[^12] A pályázati felhívások NFM-nél vezetett nyilvántartása tartalmazza:
 
 a) a pályázati felhívás kódszámát;
 
@@ -138,18 +138,18 @@ g) a pályázati felhívás közzétételének idejét;
 
 h) a pályázati felhívás nyilvántartásba vételének időpontját.
 
-(10)[^11] Az NFM a pályázati felhívások nyilvántartásba vételéről értesíti a Tanácsot, és intézkedik a pályázati egységcsomagok NFM honlapján való közzététele iránt, továbbá a pályázati egységcsomagokat elektronikusan megküldi az BM részére. A pályázati egységcsomagot legalább az BM, valamint az NFM honlapján közzé kell tenni. Hivatalos közzétételnek az NFM honlapján történő közzététel minősül, mely közzététel térítésmentes.
+(10)[^13] Az NFM a pályázati felhívások nyilvántartásba vételéről értesíti a Tanácsot, és intézkedik a pályázati egységcsomagok NFM honlapján való közzététele iránt, továbbá a pályázati egységcsomagokat elektronikusan megküldi az BM részére. A pályázati egységcsomagot legalább az BM, valamint az NFM honlapján közzé kell tenni. Hivatalos közzétételnek az NFM honlapján történő közzététel minősül, mely közzététel térítésmentes.
 
-(11)[^12] A Tanács az NFM honlapján történő közzétételt követő 2 munkanapon belül, de legkésőbb 2009. április 30-ig a pályázati egységcsomagot saját honlapján közzéteszi, emellett gondoskodik a pályázati felhívásnak a régió területe által érintett megyénként egy megyei – ennek hiányában egy országos – napilapban történő közzétételéről.
+(11)[^14] A Tanács az NFM honlapján történő közzétételt követő 2 munkanapon belül, de legkésőbb 2009. április 30-ig a pályázati egységcsomagot saját honlapján közzéteszi, emellett gondoskodik a pályázati felhívásnak a régió területe által érintett megyénként egy megyei – ennek hiányában egy országos – napilapban történő közzétételéről.
 
-(12)[^13] A (8) bekezdése szerinti nyilvántartásba vétel tényét az NFM közli a Kincstárral, ezzel egyidejűleg a nyilvántartásba vett pályázati felhívást elektronikusan, az Ámr. 8a. számú melléklete szerinti adatlap egy eredeti példányát és az állami támogatások versenyszempontú ellenőrzéséért felelős szervezet véleményének másolati példányát postai úton továbbítja a Kincstár felé az MR-ben történő nyilvántartásba vétel céljából.
+(12)[^15] A (8) bekezdése szerinti nyilvántartásba vétel tényét az NFM közli a Kincstárral, ezzel egyidejűleg a nyilvántartásba vett pályázati felhívást elektronikusan, az Ámr. 8a. számú melléklete szerinti adatlap egy eredeti példányát és az állami támogatások versenyszempontú ellenőrzéséért felelős szervezet véleményének másolati példányát postai úton továbbítja a Kincstár felé az MR-ben történő nyilvántartásba vétel céljából.
 
-[^5]: A 3. § (5) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
-[^6]: A 3. § (6) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^7]: A 3. § (6) bekezdés c) pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (8) bekezdésével megállapított szöveg.
-[^8]: A 3. § (7) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^9]: A 3. § (8) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^10]: A 3. § (9) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^11]: A 3. § (10) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
-[^12]: A 3. § (11) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^13]: A 3. § (12) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (9) bekezdésével megállapított szöveg.
+[^7]: A 3. § (5) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
+[^8]: A 3. § (6) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^9]: A 3. § (6) bekezdés c) pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (8) bekezdésével megállapított szöveg.
+[^10]: A 3. § (7) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 3. § (8) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^12]: A 3. § (9) bekezdés nyitó szövegrésze a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 3. § (10) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
+[^14]: A 3. § (11) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^15]: A 3. § (12) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (9) bekezdésével megállapított szöveg.

@@ -1,0 +1,11 @@
+16/A. §[^43] (1) Ha a kedvezményezett az előre nem tervezhető, rajta kívül álló okokból, illetve a jelentősen megváltozott külső gazdasági környezet miatt időlegesen nem tudja teljesíteni a támogatási szerződésben vállalt kötelezettségeit, úgy a támogatási döntést hozó szervtől írásban kérelmezheti a kötelezettségek teljesítésének felfüggesztését. A kérelemben meg kell jelölni, hogy az melyik támogatási szerződéshez kapcsolódik, mely kötelezettség felfüggesztésére irányul, valamint a felfüggesztés kérelmezett kezdő és befejező időpontját. Emellett részletesen be kell mutatni a vállalt kötelezettségek teljesítését megakadályozó okokat, valamint a kedvezményezett által a felfüggesztés időtartama alatt tervezett azon intézkedéseket, amelyek biztosítják a vállalt kötelezettségek eredeti szerződéses feltételek szerinti teljesítését a felfüggesztés lejártát követően.
+
+(2) A támogatási döntést hozó szerv döntését megelőzően – a Kincstárral együttműködve, szükség szerint helyszíni ellenőrzéssel egybekötve – meg kell vizsgálni, hogy biztosított-e a kedvezményezett működőképessége, a kérelemben bemutatott okok alapján megállapítható-e a kedvezményezett felelőssége, valamint a felfüggesztés lejártát követően reálisan teljesíthetők-e a vállalt kötelezettségek.
+
+(3) A kötelezettségek teljesítésének felfüggesztéséről a támogatási döntést hozó szerv a kérelem beérkezését követő 60 napon belül dönt. A felfüggesztés időtartama nem lehet hosszabb 24 hónapnál. A felfüggesztés időtartamának kezdő időpontját valamely hónap első, befejező időpontját valamely hónap utolsó napjában kell meghatározni, amelyeket a támogatási szerződés módosításában rögzíteni kell.
+
+(4) A felfüggesztésre vonatkozó kérelem benyújtására a szerződéses kötelezettségek záró időpontjáig van mód.
+
+(5) A kedvezményezett a támogatási döntést hozó szervnél a felfüggesztés lejártát megelőző legalább 30 és legfeljebb 180 napon belül írásban kérelmezheti a felfüggesztés meghosszabbítását, azonban a felfüggesztés teljes időtartama a felfüggesztés meghosszabbításával együtt sem lehet hosszabb a (3) bekezdésben meghatározott időtartamnál. A felfüggesztés időtartamának lejártát követően a kedvezményezett köteles a kötelezettségeit a támogatási szerződésben vállalt feltételek szerint teljesíteni.
+
+[^43]: A 16/A. §-t a 35/2012. (III. 9.) Korm. rendelet 15. §-a iktatta be.

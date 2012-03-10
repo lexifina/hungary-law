@@ -28,11 +28,11 @@ j) támogatási előleg igénylése esetén a támogatási előleg nyújtásána
 
 k) a kedvezményezett elszámolási kötelezettségét, valamint az ehhez kapcsolódó határidőket;
 
-l)[^33] a támogatás kedvezményezettje részéről a pénzforgalmi szolgáltatójának adott beszedési megbízás benyújtására vonatkozó felhatalmazó levelét.
+l)[^35] a támogatás kedvezményezettje részéről a pénzforgalmi szolgáltatójának adott beszedési megbízás benyújtására vonatkozó felhatalmazó levelét.
 
 (3) A kedvezményezett a támogatási szerződésben kötelezettséget vállal arra, hogy az építéssel járó támogatott beruházás vagy felújítás megvalósítása során megfelelő képesítéssel rendelkező műszaki ellenőrt biztosít, aki a számlán a műszaki teljesítést igazolja.
 
-(4)[^34] A pályázat támogatásban részesítése esetén a Tanács akkor köt támogatási szerződést a kedvezményezettel, ha az a szükséges saját forrás, hitel és egyéb forrás rendelkezésre állását igazolta (költségvetési rendelet, hitelszerződés), továbbá teljesítette a pályázati felhívásban előírt szerződéskötési feltételeket.
+(4)[^36] A pályázat támogatásban részesítése esetén a Tanács akkor köt támogatási szerződést a kedvezményezettel, ha az a szükséges saját forrás, hitel és egyéb forrás rendelkezésre állását igazolta (költségvetési rendelet, hitelszerződés), továbbá teljesítette a pályázati felhívásban előírt szerződéskötési feltételeket.
 
 (5) Amennyiben a támogatási döntés meghozatalát követően a kedvezményezettnek köztartozása keletkezik, a köztartozás megfizetéséig a támogatási szerződés nem köthető meg. Amennyiben a támogatási döntés meghozatalát követően, de a támogatási szerződés megkötését megelőzően a kedvezményezett ellen megszüntetési, adósságrendezési eljárás veszi kezdetét, a támogatási döntés érvényét veszti.
 
@@ -52,8 +52,8 @@ f) a kedvezményezett a pénzügyi elszámolási kötelezettségének a támogat
 
 (7) A támogatások folyósításával, valamint a felhasználás nyomon követésével kapcsolatos feladatokat az Igazgatóság látja el.
 
-(8)[^35] Az a kedvezményezett, akiről a Tanács, az Ügynökség, a Kincstár vagy az NFM megállapítja, hogy a pályázatban vagy a támogatás igénylése során szándékosan valótlan adatokat tüntetett fel, a decentralizált előirányzatok forrásaiból 3 éven át nem részesülhet támogatásban. A kedvezményezett szándékosságát vélelmezni kell, ha a valós adatok az adatok közlése idején rendelkezésére álltak, és a valótlan adatok feltüntetése számára kedvezőbb helyzetet eredményezett.
+(8)[^37] Az a kedvezményezett, akiről a Tanács, az Ügynökség, a Kincstár vagy az NFM megállapítja, hogy a pályázatban vagy a támogatás igénylése során szándékosan valótlan adatokat tüntetett fel, a decentralizált előirányzatok forrásaiból 3 éven át nem részesülhet támogatásban. A kedvezményezett szándékosságát vélelmezni kell, ha a valós adatok az adatok közlése idején rendelkezésére álltak, és a valótlan adatok feltüntetése számára kedvezőbb helyzetet eredményezett.
 
-[^33]: A 13. § (2) bekezdés l) pontja a 314/2009. (XII. 28.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
-[^34]: A 13. § (4) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
-[^35]: A 13. § (8) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^35]: A 13. § (2) bekezdés l) pontja a 314/2009. (XII. 28.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^36]: A 13. § (4) bekezdése a 112/2009. (V. 27.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^37]: A 13. § (8) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.

@@ -36,23 +36,24 @@ bac) 3. Decentralizált területfejlesztési programok jogcím (a továbbiakban:
 
 (4) Az e rendelet hatálya alá tartozó források tekintetében
 
-a) pályázati rendszer keretében a TEKI, CÉDE, LEKI, TEUT, valamint pályázati rendszeren kívül a VTT támogatására rendelkezésre álló szabad keretek felhasználásáról a regionális fejlesztési tanács (a továbbiakban: Tanács),
+a)[^2] pályázati rendszer keretében a TEKI, CÉDE, LEKI, TEUT, valamint pályázati rendszeren kívül a VTT támogatására rendelkezésre álló szabad keretek felhasználásáról a regionális fejlesztési tanács, vagy a regionális fejlesztés tanács általános jogutódjaként eljáró megyei önkormányzat (a továbbiakban: Tanács),
 
-b)[^1] a TRFC központi kerete forrásainak felhasználásáról a területfejlesztésért felelős miniszter (a továbbiakban: NFM miniszter),
+b)[^3] a TRFC központi kerete forrásainak felhasználásáról a területfejlesztésért felelős miniszter (a továbbiakban: NFM miniszter),
 
-c)[^2] a BFT támogatása szabad forrásainak felhasználásáról a BFT az NFM miniszterrel kötött megállapodásban foglaltaknak megfelelően
+c)[^4] a BFT támogatása szabad forrásainak felhasználásáról a BFT az NFM miniszterrel kötött megállapodásban foglaltaknak megfelelően
 
 dönt, valamint
 
-d)[^3] a TRFC decentralizált kerete forrásainak felhasználására az NFM miniszterrel kötött megállapodásban foglaltaknak megfelelően a Tanács jogosult.
+d)[^5] a TRFC decentralizált kerete forrásainak felhasználására az NFM miniszterrel kötött megállapodásban foglaltaknak megfelelően a Tanács jogosult.
 
 (5) Az (1) bekezdésben szereplő előirányzatok felhasználása vonatkozásában az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletet (a továbbiakban: Ámr.) az e rendeletben foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.
 
-(6)[^4] Az e rendeletben meghatározott pénzügyi lebonyolítással (különösen az utalványozással, az előirányzat átadásával, a nyilvántartással, a féléves és az éves beszámolással) kapcsolatos feladatokat a (1) bekezdés b) pontja és a (2) bekezdés szerinti előirányzatok vonatkozásában az NFM, valamint az (1) bekezdés a) pontjában meghatározott előirányzatok vonatkozásában az önkormányzatokért felelős miniszter (a továbbiakban: BM miniszter) által vezetett minisztérium (a továbbiakban: BM) végzi.
+(6)[^6] Az e rendeletben meghatározott pénzügyi lebonyolítással (különösen az utalványozással, az előirányzat átadásával, a nyilvántartással, a féléves és az éves beszámolással) kapcsolatos feladatokat a (1) bekezdés b) pontja és a (2) bekezdés szerinti előirányzatok vonatkozásában az NFM, valamint az (1) bekezdés a) pontjában meghatározott előirányzatok vonatkozásában az önkormányzatokért felelős miniszter (a továbbiakban: BM miniszter) által vezetett minisztérium (a továbbiakban: BM) végzi.
 
 (7) A TEKI és a CÉDE keretek régiók közötti felosztását a költségvetési törvény 16. § (1) bekezdés d) pont da) és db) alpontjai alapján az 1. számú melléklet tartalmazza.
 
-[^1]: Az 1. § (4) bekezdés b) pontja a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^2]: Az 1. § (4) bekezdés c) pontja a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^3]: Az 1. § (4) bekezdés d) pontja a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
-[^4]: Az 1. § (6) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (4) bekezdés a) pontja a 35/2012. (III. 9.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^3]: Az 1. § (4) bekezdés b) pontja a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^4]: Az 1. § (4) bekezdés c) pontja a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdés d) pontja a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^6]: Az 1. § (6) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 19. § (1) és (2) bekezdése szerint módosított szöveg.
