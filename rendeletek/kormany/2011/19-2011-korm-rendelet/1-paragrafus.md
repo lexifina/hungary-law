@@ -1,3 +1,0 @@
-1. § (1) A rendelet hatálya – a (2) bekezdésben foglaltak kivételével – a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) 1. §-ában meghatározott szervekre és az ott foglalkoztatott kormánytisztviselőre, kormányzati ügykezelőre, munkavállalóra, szakmai vezetőre, továbbá az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra és ügyészre terjed ki.
-
-(2) A rendelet hatálya nem terjed ki azokra a szervekre, amelyek a 2011. évi népszámlálásról szóló 2009. évi CXXXIX. törvényben foglaltak előkészítésében és végrehajtásában érintettek.
