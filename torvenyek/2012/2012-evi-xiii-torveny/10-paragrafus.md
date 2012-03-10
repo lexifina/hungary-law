@@ -1,3 +1,0 @@
-10. § Az Ftv. 18/D. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A 18/B. § (1) bekezdésében meghatározott engedélyezési eljárásokban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele és az általa foglalkoztatott pirotechnikussal, valamint az általa foglalkoztatott, a polgári célú pirotechnikai tevékenységet irányító személlyel szemben az (1) bekezdés a) és c), valamint a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.”

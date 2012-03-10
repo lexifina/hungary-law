@@ -13,11 +13,3 @@ d) a 4–11. §,
 e) a 12. § (2) bekezdése, valamint
 
 f) a 13. § (1) bekezdés b)–h) pontja és (2) bekezdése.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
