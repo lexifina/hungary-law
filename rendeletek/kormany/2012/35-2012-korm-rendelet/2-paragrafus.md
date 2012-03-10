@@ -1,0 +1,3 @@
+## 1. § A 2008. évi terület- és régiófejlesztési célelőirányzat felhasználásának részletes szabályairól szóló 148/2008. (V. 26.) Korm. rendelet (a továbbiakban: R1.) 1. § (3) bekezdés helyébe a következő rendelkezés lép:
+
+## „(3) A célelőirányzat terhére finanszírozhatóak a célelőirányzat decentralizált területfejlesztési programjai, valamint a Vásárhelyi Terv továbbfejlesztése keretében a regionális fejlesztési tanács általános jogutódjaként eljáró megyei önkormányzat (a továbbiakban: tanács) által, illetve a célelőirányzat központi kerete terhére a területfejlesztésért felelős miniszter (a továbbiakban: miniszter) által a korábbi években tett éven túli kötelezettségvállalások.”

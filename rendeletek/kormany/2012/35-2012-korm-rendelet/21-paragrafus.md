@@ -1,0 +1,3 @@
+## 20. § Az R3. 37. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A 35. § (1) bekezdése szerinti támogatás esetén elszámolható költségnek minősül az engedélyezési tervdokumentáció elkészítéséhez és az engedélyezési eljárás lefolytatásához közvetlenül igénybe vett gazdasági szolgáltatások ellenértéke. Az engedélyezési tervdokumentáció és a megtervezett fejlesztés megkezdhetőségét igazoló, jogerős vízjogi létesítési vagy építési engedély Észak-Alföldi Regionális Fejlesztési Tanács, vagy az Észak-Alföldi Regionális Fejlesztési Tanács általános jogutódjaként eljáró megyei önkormányzat (a továbbiakban: Tanács) számára történő benyújtását követően kerülhet sor az engedélyezési eljárás költségének elszámolására.”
