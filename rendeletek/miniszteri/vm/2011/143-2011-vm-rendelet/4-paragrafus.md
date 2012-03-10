@@ -24,22 +24,24 @@ j) borszőlő,
 
 k) alma.
 
-(2) Az „A” típusú mezőgazdasági biztosítás keretében a biztosított növényi kultúrához a következő kárnemek mindegyikére együttesen kötendő mezőgazdasági biztosítás:
+(2)[^6] Az „A” típusú mezőgazdasági biztosítás keretében a biztosított növényi kultúra vonatkozásában értelmezhető alábbi kárnemek mindegyikére együttesen kötendő mezőgazdasági biztosítás:
 
 a) jégesőkár,
 
-c) aszálykár,
+b) aszálykár,
 
-d) elemi kár okozta mezőgazdasági árvízkár,
+c) elemi kár okozta mezőgazdasági árvízkár,
 
-e) téli fagykár,
+d) téli fagykár,
 
-f) tavaszi fagykár,
+e) tavaszi fagykár,
 
-g) felhőszakadás kár,
+f) felhőszakadás kár,
 
-h) viharkár,
+g) viharkár,
 
-i) tűzkár.
+h) tűzkár.
 
 (3) A biztosító a mezőgazdasági biztosítási szerződésben rögzített kárnemek által okozott biztosítási események bekövetkeztét és az (1) bekezdésben felsorolt valamely érintett növényi kultúra károsodását a káraktával igazolja.
+
+[^6]: A 4. § (2) bekezdése a 21/2012. (III. 9.) VM rendelet 17. § (5) bekezdésével megállapított szöveg.

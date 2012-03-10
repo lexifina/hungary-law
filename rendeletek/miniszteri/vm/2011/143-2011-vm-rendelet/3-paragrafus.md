@@ -14,13 +14,13 @@ ad) a biztosítási szerződéssel fedezett gazdasági veszteségeket,
 
 ae) az egyes kárnemek vonatkozásában az általános biztosítási feltételeket,
 
-af) a biztosítás adó nélkül számított (nettó) díját,
+af)[^1] az adó nélkül számított biztosítási díjat, és – amennyiben a szerződés ezt tartalmazza – a kármentességi kedvezménnyel csökkentett, adó nélkül számított biztosítási díjat,
 
 ag) azon szerződési kitételt, amely szerint a kár mértéke az Mkk tv., valamint e rendelet alapján kerül megállapításra,
 
 ah) a biztosítás 4–6. §-ban meghatározott típusára való hivatkozást,
 
-ai) a biztosító arra vonatkozó nyilatkozatát, hogy a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által közleményben megjelentetett nyomtatvány szerinti díjfizetési igazolást állít ki,
+ai)[^2] az eljárási törvény szerinti regisztrációval rendelkező biztosító arra vonatkozó nyilatkozatát, hogy „A”, „B” és „C” típusú biztosítási konstrukció szerinti bontásban tárgyév november 15-éig ügyfélkapun keresztül, elektronikus úton a biztosítási szerződés alapján elkészített kötvény sorszámát is tartalmazó, az af) pont szerinti biztosítási díj megfizetéséről szóló igazolást állít ki, az MVH honlapján vagy a kormányzati portálon keresztül elérhető, az MVH honlapján található elektronikus űrlapkitöltő szolgáltatás segítségével hozzáférhető felületen,
 
 aj) a mezőgazdasági termelő nyilatkozatát a megelőző három évben vagy a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves termésátlagáról;
 
@@ -28,7 +28,7 @@ b) amely a szerződésen egyértelműen feltüntetett, legfeljebb egy éves idő
 
 c) amelyben az „A”, „B” és „C” típusú mezőgazdasági biztosítás keretébe tartozó feltételek mind egymástól, mind pedig más kockázatoktól elkülönítve kerülnek megállapításra;
 
-d) amelyben a biztosító vállalja, hogy az „A”, „B” és „C” típusú biztosítások díja a számlán vagy annak mellékletén (számlarészletező) elkülönítésre kerül;
+d)[^3]
 
 e) amelyben a biztosítási szerződéssel lefedett terület vonatkozásában a kárküszöb
 
@@ -66,7 +66,7 @@ i) amely szerint a biztosító csak abban az esetben fizet kártérítést, ha a
 
 ia) tűz esetén a tűzeset keletkezésének helye szerint illetékes hatóság igazolja,
 
-ib) elemi káresemény okozta mezőgazdasági árvízkár, homokverés kár és mezőgazdasági káresemény vonatkozásában pedig az Országos Meteorológiai Szolgálat a rendelkezésére álló adatok alapján, az Mkk tv. 14. § (4) bekezdése szerint, vagy külön eljárásban igazolja, indokolt esetben a BM Országos Katasztrófavédelmi Főigazgatóság, a Vízügyi és Környezetvédelmi Központi Igazgatóság, valamint a Mezőgazdasági Szakigazgatási Hivatal bevonásával;
+ib)[^4] elemi káresemény okozta mezőgazdasági árvízkár, homokverés kár és mezőgazdasági káresemény vonatkozásában pedig az Országos Meteorológiai Szolgálat a rendelkezésére álló adatok alapján, az Mkk tv. 14. § (4) bekezdése szerint, vagy külön eljárásban igazolja, indokolt esetben az Országos Vízügyi Főigazgatóság, a Nemzeti Környezetügyi Intézet, valamint a Mezőgazdasági Szakigazgatási Hivatal bevonásával;
 
 j) amely megfelel a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról szóló 73/2009/EK tanácsi rendelet III. címében előírt egységes támogatási rendszer végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. október 29-i 1120/2009/EK bizottsági rendelet 47. cikkében foglalt követelményeknek;
 
@@ -84,4 +84,10 @@ l) amely alapján a biztosító a tényleges veszteséget meghaladó kártérít
 
 (6) Az (1) bekezdés szerinti mezőgazdasági biztosítási szerződés díjához csak abban a naptári évben igényelhető támogatás, amely naptári év termelésére a szerződés vonatkozik.
 
-(7) Amennyiben a mezőgazdasági termelő nem rendelkezik az (1) bekezdés aj) pontjában meghatározott adatokkal, úgy a megelőző három évben vagy a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves megyei termésátlagot kell figyelembe venni.
+(7)[^5] Amennyiben a mezőgazdasági termelő nem rendelkezik az (1) bekezdés a) pont aj) alpontjában meghatározott adatokkal, úgy a megelőző három évben vagy a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves, a biztosítási szerződéssel lefedett terület szerint illetékes megyei kormányhivatal földművelésügyi igazgatóságánál elérhető, az adott növénykultúrára és az adott évekre vonatkozó megyei vagy országos átlagtermés-adatokat kell figyelembe venni.
+
+[^1]: A 3. § (1) bekezdés a) pont af) alpontja a 21/2012. (III. 9.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (1) bekezdés a) pont ai) alpontja a 21/2012. (III. 9.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^3]: A 3. § (1) bekezdés d) pontját a 21/2012. (III. 9.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 3. § (1) bekezdés i) pont ib) alpontja a 21/2012. (III. 9.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^5]: A 3. § (7) bekezdése a 21/2012. (III. 9.) VM rendelet 17. § (4) bekezdésével megállapított szöveg.
