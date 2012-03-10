@@ -4,9 +4,9 @@
 
 a) a lőfegyver, a lőfegyverdarab (a továbbiakban együtt: lőfegyver), a muzeális lőszer kivételével a lőszer, a flóberttöltény gyártásához, javításához, forgalmazásához, a lőfegyver hatástalanításához, a lőfegyver kiállításához;
 
-b) a festéklövő fegyver, a gáz- és riasztófegyver, a gáz- és riasztótöltény, a légfegyver, a lőszerelem, a színházi fegyver gyártásához, javításához, forgalmazásához;
+b) a festéklövő fegyver, a gáz- és riasztófegyver, a gáztöltény, a riasztótöltény, a vaktöltény, a légfegyver, a lőszerelem, a színházi fegyver gyártásához, javításához, forgalmazásához;
 
-c) az „A”, „B”, „C” vagy „D” kategóriába tartozó tűzfegyver, a lőfegyverdarab, az e törvény alapján lőfegyvernek minősülő légfegyver, a lőszer és a hangtompító megszerzéséhez, tartásához, az ország területére történő behozatalához, az ország területéről történő kiviteléhez, az ország területén történő átszállításához;
+c) az „A”, „B”, „C” vagy „D” kategóriába tartozó tűzfegyver, a lőfegyverdarab, az e törvény alapján lőfegyvernek minősülő légfegyver, a színházi fegyver, a lőszer és a hangtompító megszerzéséhez, tartásához, az ország területére történő behozatalához, az ország területéről történő kiviteléhez, az ország területén történő átszállításához;
 
 d) a gáz- és riasztófegyver önvédelmi célú viseléséhez, a lőszerelem, a színházi fegyver megszerzéséhez, tartásához;
 
@@ -16,7 +16,9 @@ f) a polgári rendeltetésű lőtér, a lőfegyver- és lőszertárolóhely üze
 
 (2) A flóbert lőfegyverek megszerzésére és tartására vonatkozó egyszerűsített hatósági szabályokat e törvény felhatalmazása alapján a Kormány állapítja meg.
 
-(3) A lőfegyver-megszerzési és -tartási engedéllyel rendelkező személy vagy szervezet a lőfegyverhez használható lőszert külön engedély nélkül megszerezheti, illetve tarthatja.
+(3) A lőfegyver-megszerzési és -tartási engedéllyel rendelkező személy vagy szervezet a lőfegyverhez használható lőszert külön engedély nélkül megszerezheti, illetve tarthatja. Filmgyártási célra tartott lőfegyverhez lőszer nem szerezhető meg.
+
+(3a) Lőfegyver filmgyártási célra történő tartása kizárólag a Kormány rendeletében meghatározott feltételeknek megfelelő szervezet részére engedélyezhető. A filmgyártási célú lőfegyver tartására jogosult szervezet vaktöltény gyártására jogosult tagja az engedélyezett fegyverhez tartozó vaktöltényt külön engedély nélkül készíthet.
 
 (4) Lőfegyver vagy lőszer kereskedelmi célú behozatalához, kiviteléhez vagy re-exportjához – az (1) bekezdésben foglaltakon túlmenően – a külön jogszabályban meghatározott hatóság engedélye is szükséges.
 
