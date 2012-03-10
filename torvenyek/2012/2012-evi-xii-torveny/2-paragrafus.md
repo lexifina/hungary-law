@@ -1,0 +1,1 @@
+2. § Mentesül a büntetés végrehajtása, valamint a büntetett előélethez fűződő hátrányok alól az az e törvény hatálybalépése előtt jogerősen elítélt, akivel szemben kizárólag az 1. §-ban meghatározott és közkegyelem alá eső bűncselekmény miatt szabtak ki büntetést.

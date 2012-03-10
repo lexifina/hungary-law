@@ -1,0 +1,1 @@
+3. § A közkegyelem kiterjed a 2011. december 23-án az Országházat körülvevő elzárt terület egyes bejáratainak több személy egymáshoz, illetve a kapukhoz láncolásával megvalósított lezárásával összefüggésben elkövetett szabálysértésekre is.
