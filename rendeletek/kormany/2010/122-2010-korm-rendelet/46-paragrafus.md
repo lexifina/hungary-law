@@ -1,6 +1,6 @@
 ## 7. A támogatás folyósítása
 
-46. § (1)[^16] A támogatás folyósításával, a támogatás visszavonásából fakadó esetleges követeléskezeléssel kapcsolatos feladatokat a TRFC és a 2008. évi terület- és régiófejlesztési célelőirányzat felhasználásának részletes szabályairól szóló 148/2008. (V. 26.) Korm. rendelet 39. § (3) bekezdés szerinti jogelőd előirányzatokra a Kincstár látja el és eljár a támogatásokhoz kapcsolódó peres és nemperes eljárásokban.
+46. § (1)[^19] A támogatás folyósításával, a támogatás visszavonásából fakadó esetleges követeléskezeléssel kapcsolatos feladatokat a TRFC és a 2008. évi terület- és régiófejlesztési célelőirányzat felhasználásának részletes szabályairól szóló 148/2008. (V. 26.) Korm. rendelet 39. § (3) bekezdés szerinti jogelőd előirányzatokra a Kincstár látja el és eljár a támogatásokhoz kapcsolódó peres és nemperes eljárásokban.
 
 (2) A 35. § (2) bekezdésében foglalt fejlesztés megvalósítása során a Kincstár és a Tanács a támogatás lehívása előtt közösen helyszíni ellenőrzést végez, ha az igényelt támogatás egyszeri vagy halmozott összege eléri a megítélt támogatás 50%-át.
 
@@ -10,4 +10,4 @@
 
 (5) A miniszter, a Tanács és a Kincstár a támogatás szabályszerű felhasználását a (2)–(4) bekezdésben meghatározott ellenőrzésen túl is ellenőrizheti.
 
-[^16]: A 46. § (1) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^19]: A 46. § (1) bekezdése a 370/2010. (XII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
