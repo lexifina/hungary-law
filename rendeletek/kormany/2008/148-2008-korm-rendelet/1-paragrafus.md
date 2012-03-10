@@ -20,6 +20,8 @@ f) a területfejlesztés szempontjából leghátrányosabb helyzetű kistérség
 
 g) kormányhatározatban rögzített válsághelyzetek megoldása.
 
-(3) A célelőirányzat terhére finanszírozhatóak a célelőirányzat decentralizált területfejlesztési programjai, valamint a Vásárhelyi Terv továbbfejlesztése keretében a regionális fejlesztési tanács (a továbbiakban: tanács) által, illetve a célelőirányzat központi kerete terhére a területfejlesztésért felelős miniszter (a továbbiakban: miniszter) által a korábbi években tett éven túli kötelezettségvállalások.
+(3)[^2] A célelőirányzat terhére finanszírozhatóak a célelőirányzat decentralizált területfejlesztési programjai, valamint a Vásárhelyi Terv továbbfejlesztése keretében a regionális fejlesztési tanács általános jogutódjaként eljáró megyei önkormányzat (a továbbiakban: tanács) által, illetve a célelőirányzat központi kerete terhére a területfejlesztésért felelős miniszter (a továbbiakban: miniszter) által a korábbi években tett éven túli kötelezettségvállalások.
 
 (4) A célelőirányzat felhasználása vonatkozásában az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletet (a továbbiakban: Ámr.) az e rendeletben foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.
+
+[^2]: Az 1. § (3) bekezdése a 35/2012. (III. 9.) Korm. rendelet 1. §-ával megállapított szöveg.

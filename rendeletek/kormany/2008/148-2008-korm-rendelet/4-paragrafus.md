@@ -6,7 +6,7 @@ a) a pályázati egységcsomag tervezetét papír alapon és elektronikus úton;
 
 b) az Ámr. 8/a. számú melléklete szerinti adatlapot két eredeti példányban papír alapon;
 
-c)[^3] az állami támogatások versenyszempontú ellenőrzéséért felelős szervezetnek a pályázati egységcsomagról adott véleményét papír alapon egy másolati példányban.
+c)[^6] az állami támogatások versenyszempontú ellenőrzéséért felelős szervezetnek a pályázati egységcsomagról adott véleményét papír alapon egy másolati példányban.
 
 (3) A miniszter a tanács által megküldött pályázati egységcsomagokat a nyilvántartásba vételt megelőzően egyezteti a Nemzeti Fejlesztési Ügynökséggel.
 
@@ -38,4 +38,4 @@ h) a pályázati felhívás nyilvántartásba vételének időpontját.
 
 (9) A támogatások átláthatóságának növelése céljából e rendeletet a minisztérium honlapján is nyilvánosságra kell hozni.
 
-[^3]: A 4. § (2) bekezdés c) pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdés c) pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (6) bekezdés a) pontja szerint módosított szöveg.

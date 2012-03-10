@@ -22,15 +22,15 @@ h) terület- és településrendezési, valamint településüzemeltetési tárg
 
 i) utófinanszírozással megvalósuló transznacionális projektekben való részvételhez szükséges források rendelkezésre állása érdekében.
 
-(2)[^54] Az (1) bekezdés c) pontja szerinti jogcím alapján beruházási támogatás nyújtható. A területfejlesztés szempontjából leghátrányosabb helyzetű térségekben gazdasági és foglalkoztatási válsághelyzetek megoldását segítő, foglalkoztatási kötelezettséggel járó beruházások megvalósítása érdekében támogatásban részesülő kedvezményezett a támogatás ellenében foglalkoztatási kötelezettséget, valamint fenntartási kötelezettséget vállal. Az egy projektre adható támogatás legalacsonyabb és legmagasabb összegét, valamint a támogatási intenzitás elérhető legnagyobb mértékét a 1. melléklet tartalmazza. Az ezen jogcím, valamint az (1) bekezdés d) pontja alapján megítélt támogatások támogatási szerződéseinek megkötése, módosítása, a vállalt kötelezettségek ellenőrzése és a támogatás esetleges visszavonása kapcsán a célelőirányzat decentralizált keretére vonatkozó rendelkezéseket kell a megfelelő eltérésekkel alkalmazni.
+(2)[^64] Az (1) bekezdés c) pontja szerinti jogcím alapján beruházási támogatás nyújtható. A területfejlesztés szempontjából leghátrányosabb helyzetű térségekben gazdasági és foglalkoztatási válsághelyzetek megoldását segítő, foglalkoztatási kötelezettséggel járó beruházások megvalósítása érdekében támogatásban részesülő kedvezményezett a támogatás ellenében foglalkoztatási kötelezettséget, valamint fenntartási kötelezettséget vállal. Az egy projektre adható támogatás legalacsonyabb és legmagasabb összegét, valamint a támogatási intenzitás elérhető legnagyobb mértékét a 1. melléklet tartalmazza. Az ezen jogcím, valamint az (1) bekezdés d) pontja alapján megítélt támogatások támogatási szerződéseinek megkötése, módosítása, a vállalt kötelezettségek ellenőrzése és a támogatás esetleges visszavonása kapcsán a célelőirányzat decentralizált keretére vonatkozó rendelkezéseket kell a megfelelő eltérésekkel alkalmazni.
 
 (3) Az (1) bekezdés h) pontjában foglaltak esetében normatív eljárással támogatás nyújtható a fejlesztési források hatékonyabb felhasználása érdekében egyes településrendezési feladatok közös megoldásához, valamint országos vagy térségi érdekből szükséges településrendezési tevékenységhez.
 
-(4)[^55] A célelőirányzat 2008. évi központi keretének terhére előleg folyósítható
+(4)[^65] A célelőirányzat 2008. évi központi keretének terhére előleg folyósítható
 
 a) az (1) bekezdés a)–d) pontja szerinti jogcímek alapján megítélt támogatásokhoz a megítélt támogatás legfeljebb 40%-a mértékéig;
 
 b) az (1) bekezdés i) pontja alapján a lebonyolító partner szervezet részére a támogatás legfeljebb 100%-a mértékéig.
 
-[^54]: A 35. § (2) bekezdése a 86/2011. (V. 31.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^55]: A 35. § (4) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell.
+[^64]: A 35. § (2) bekezdése a 86/2011. (V. 31.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^65]: A 35. § (4) bekezdését a 94/2009. (IV. 24.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő támogatási ügyekre is alkalmazni kell.

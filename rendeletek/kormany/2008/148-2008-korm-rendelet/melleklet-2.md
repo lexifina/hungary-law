@@ -42,7 +42,7 @@
 
 | 37. § (1) bekezdés c) pont | 2 000 | 20 000 | 50 |
 
-2. melléklet a 148/2008. (V. 26.) Korm. rendelethez[^71]
+2. melléklet a 148/2008. (V. 26.) Korm. rendelethez[^87]
 
 Kedvezményezett neve:
 
@@ -82,4 +82,4 @@ __________________
 
 A változások alátámasztását igazoló dokumentumok csatolása is szükséges az adatlaphoz.
 
-[^71]: A 2. számú mellékletet a 86/2011. (V. 31.) Korm. rendelet 10. § (4) bekezdése iktatta be.
+[^87]: A 2. számú mellékletet a 86/2011. (V. 31.) Korm. rendelet 10. § (4) bekezdése iktatta be.

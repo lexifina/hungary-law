@@ -4,9 +4,9 @@
 
 (2) E rendelet alapján beruházási támogatás csak akkor ítélhető oda, ha a pályázó még a beruházás megkezdése előtt a támogatás iránti kérelmét benyújtja, és az ügynökség írásban megerősíti, hogy a – további részletes vizsgálat tárgyát képező – projekt megfelel az e rendeletben és a pályázati egységcsomagban meghatározott jogosultsági feltételeknek.
 
-(3)[^16] Az egy projekthez igénybe vett, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdésének hatálya alá tartozó, bármely államháztartási forrásból származó összes támogatás támogatási intenzitása nem haladhatja meg az Atr. 25. § (1) bekezdése meghatározott mértéket.
+(3)[^23] Az egy projekthez igénybe vett, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdésének hatálya alá tartozó, bármely államháztartási forrásból származó összes támogatás támogatási intenzitása nem haladhatja meg az Atr. 25. § (1) bekezdése meghatározott mértéket.
 
-(4)[^17] A célelőirányzat forrásainak terhére megítélt támogatás intenzitása legfeljebb az e rendelet 1. mellékletében meghatározott mértéknek,
+(4)[^24] A célelőirányzat forrásainak terhére megítélt támogatás intenzitása legfeljebb az e rendelet 1. mellékletében meghatározott mértéknek,
 
 a) amennyiben a pályázó a pályázat benyújtásakor kisvállalkozásnak minősül – szállítási ágazat és nagyberuházás kivételével –, 20 százalékponttal,
 
@@ -52,5 +52,5 @@ g) informatikai és távközlési alaphálózat kiépítése.
 
 (8) Az elszámolható költségek részletes felsorolását a pályázati egységcsomag tartalmazza. A pályázati egységcsomag az elszámolható költségek körét a (6)–(7) bekezdésekben foglaltaktól szűkebben is meghatározhatja.
 
-[^16]: A 10. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (6) bekezdés c) pontja szerint módosított szöveg.
-[^17]: A 10. § (4) bekezdése a 86/2011. (V. 31.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^23]: A 10. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 10. § (4) bekezdése a 86/2011. (V. 31.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.

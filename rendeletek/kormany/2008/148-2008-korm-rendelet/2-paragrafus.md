@@ -20,7 +20,7 @@ h) kis- és középvállalkozás: az a vállalkozás, amely a támogatási kére
 
 i) leghátrányosabb helyzetű térségek: a 311/2007. (XI. 17.) Korm. rendelet 2. számú mellékletében foglaltak alapján leghátrányosabb helyzetűnek minősülő kistérségek, valamint az ezekkel azonos elbánásban részesülő, a 240/2006. (XI. 30.) Korm. rendeletben meghatározott, társadalmi-gazdasági és infrastrukturális szempontból elmaradott, és az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések;
 
-j) MR: a Magyar Államkincstár (a továbbiakban: Államkincstár) által az Ámr. 79. §-ának (2) bekezdése szerint működtetett monitoring rendszer;
+j)[^3] MR: a Magyar Államkincstár (a továbbiakban: Államkincstár) által az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet rendelkezései szerint működtetett monitoring rendszer;
 
 k) nehéz helyzetben lévő vállalkozás: az a vállalkozás, amelynek saját tőkéje veszteség folytán nem éri el a jegyzett tőke felét a kérelem benyújtásakor rendelkezésre álló utolsó beszámolóban, és ezen veszteség több mint egynegyede a megelőző beszámoló óta eltelt idő alatt keletkezett;
 
@@ -36,9 +36,10 @@ p) támogatási intenzitás: a támogatástartalom és a jelenértéken számít
 
 q) támogatási szerződés: a kedvezményezett vagy kedvezményezettek, valamint a támogatási döntést hozó között, a polgári jog általános szabályai szerint létrejött szerződés, amely tartalmazza a támogatás nyújtásának és felhasználásának részletes szabályait;
 
-r)[^1] támogatástartalom: a kedvezményezett számára nyújtott állami támogatásnak az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. mellékletében meghatározott módszer alapján kiszámolt értéke;
+r)[^4] támogatástartalom: a kedvezményezett számára nyújtott állami támogatásnak az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. mellékletében meghatározott módszer alapján kiszámolt értéke;
 
-s)[^2] támogatási döntést hozó szerv: a miniszter, a regionális fejlesztési tanács vagy a megyei területfejlesztési tanács.
+s)[^5] támogatási döntést hozó szerv: a miniszter, a regionális fejlesztési tanács, a megyei területfejlesztési tanács, vagy az ezen tanácsok általános jogutódjaként eljáró megyei önkormányzat.
 
-[^1]: A 2. § r) pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (11) bekezdésével megállapított szöveg.
-[^2]: A 2. § s) pontját a 370/2010. (XII. 31.) Korm. rendelet 8. §-a iktatta be.
+[^3]: A 2. § j) pontja a 35/2012. (III. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § r) pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (11) bekezdésével megállapított szöveg.
+[^5]: A 2. § s) pontját a 370/2010. (XII. 31.) Korm. rendelet 8. §-a iktatta be, szövege a 35/2012. (III. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
