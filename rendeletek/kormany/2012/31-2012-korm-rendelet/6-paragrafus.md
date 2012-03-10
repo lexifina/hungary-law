@@ -1,0 +1,23 @@
+## 4. A tárgyalás
+
+6. § (1) A fegyelmi eljárás második szakasza a tárgyalás, amely során az ügy érdeméről háromtagú fegyelmi tanács határoz.
+
+(2) A fegyelmi tanács elnöke a munkáltatói jogkör gyakorlója.
+
+(3) A fegyelmi tanács elnöke a vizsgálóbiztos előterjesztésétől számított három munkanapon belül írásban kijelöli a tanács tagjait, akik a fegyelmi eljárás alá vonttal legalább azonos besorolású, illetve vezetői munkakört betöltő kormánytisztviselők lehetnek. Vezetői munkakört betöltő kormánytisztviselő esetén az államigazgatási szervnek a fegyelmi eljárás alá vontnál magasabb vezetői munkakört betöltő kormánytisztviselői közül kell kijelölni a fegyelmi tanács tagjait.
+
+(4) Ha az államigazgatási szervnél nincs a (3) bekezdésben foglaltaknak megfelelő kormánytisztviselő, az államigazgatási szerv irányítását, illetve felügyeletét ellátó államigazgatási szerv vezetője – ilyen szerv hiányában a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a (3) bekezdésben foglalt feltételeknek megfelelő kormánytisztviselőjét jelölheti ki fegyelmi tanácstagnak.
+
+(5) A fegyelmi tanács eljárásában és döntéshozatalában elnökként, tagként, illetve jegyzőkönyvvezetőként nem vehet részt:
+
+a) az ügyben vizsgálatot folytatott vizsgálóbiztos, illetve annak hozzátartozója,
+
+b) az eljárás alá vont kormánytisztviselő hozzátartozója,
+
+c) akit a vizsgálat során mint tanút vagy szakértőt meghallgattak, illetve meghallgatása szükséges, valamint
+
+d) akitől egyébként az ügy elfogulatlan elbírálása nem várható el.
+
+(6) Ha a munkáltatói jogkör gyakorlójával szemben áll fenn az (5) bekezdés szerinti valamely összeférhetetlenségi ok, az államigazgatási szerv irányítását, illetve felügyeletét ellátó államigazgatási szerv vezetője – ilyen szerv hiányában a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – saját vezetői munkakört betöltő kormánytisztviselőjét jelöli ki a fegyelmi tanács elnökének.
+
+(7) Testület által kinevezett kormánytisztviselő fegyelmi ügyében a testület gyakorolja a fegyelmi tanács jogkörét vagy – választása szerint – e rendelet szabályaira figyelemmel a testület tagjaiból háromtagú fegyelmi tanácsot alakít. Ez utóbbi esetben a testület a fegyelmi tanács határozatát nem változtathatja meg.
