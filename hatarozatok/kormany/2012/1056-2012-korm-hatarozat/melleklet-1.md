@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti az új Országos Fogyatékosügyi Program végrehajtásának 2007–2010. évekre vonatkozó középtávú intézkedési tervéről szóló 1062/2007. (VIII. 7.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1056/2012. (III. 9.) Korm. határozathoz
 
@@ -455,3 +455,5 @@ nemzeti fejlesztési miniszter
 Határidő: 2013. december 31.
 
 Forrás: TÁMOP 5.3.8
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

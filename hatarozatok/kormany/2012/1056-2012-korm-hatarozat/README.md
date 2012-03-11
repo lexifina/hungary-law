@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1056-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-03-10 | 2012-1056-30-22.1 | 1056/2012. (III. 9.) Korm. határozat |
+| 2012-03-11 | 2012-1056-30-22.2 | 1653/2015. (IX. 14.) Korm. határozat |
