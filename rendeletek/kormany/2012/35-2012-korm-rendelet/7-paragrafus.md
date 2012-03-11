@@ -1,5 +1,0 @@
-## 6. § Az R1. az „A beruházási támogatásokra vonatkozó szabályok” alcímet megelőzően a következő 9/B. §-sal egészül ki:
-
-## „9/B. § (1) Az a számviteli törvény hatálya alá tartozó kedvezményezett, aki fenntartási kötelezettség mellett foglalkoztatási vagy adózás előtti eredmény növelése iránti kötelezettséget vállalt, a támogatási döntést hozó szervnél írásban kérelmezheti a kötelezettségnek az üzemi (üzleti) tevékenység eredménye növelése iránti kötelezettségre történő módosítását. A kérelem irányulhat az eredetileg vállalt kötelezettség teljes időtartamának üzemi (üzleti) tevékenység eredménye növelése iránti kötelezettségre történő cseréjére, vagy a kötelezettséggel érintett időtartam részben üzemi (üzleti) tevékenység eredménye növelése iránti kötelezettségre történő kiváltására. A kérelem benyújtására rendelkezésre álló határidő a foglakoztatási, vagy az adózás előtti eredmény növelése iránti kötelezettség záró időpontjáig áll nyitva.
-
-## (2) A kötelezettség üzemi (üzleti) tevékenység eredménye növelése iránti kötelezettségre történő kiváltására a 9. § (7) bekezdésében és a 9/A. § (2)–(6) bekezdésében foglaltakat kell megfelelően alkalmazni.”

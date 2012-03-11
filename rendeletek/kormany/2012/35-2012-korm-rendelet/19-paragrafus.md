@@ -1,3 +1,0 @@
-## 18. § A 2010. évi terület- és régiófejlesztési célelőirányzat felhasználásáról szóló 122/2010. (IV. 20.) Korm. rendelet (a továbbiakban: R3.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A megtérülésből elsődlegesen a területfejlesztésért és területrendezésért felelős miniszter (a továbbiakban: miniszter) és a Magyar Államkincstár (a továbbiakban: Kincstár) között az (1) bekezdés szerinti célra már megkötött megállapodásban foglalt kötelezettségeket kell teljesíteni. Az ezen túlmenően teljesült tárgyévi megtérülés a döntéshozó területfejlesztési tanácsok és munkaszervezeteik általános jogutódjaként eljáró megyei önkormányzat (1) bekezdés szerinti feladatai finanszírozásának kiegészítő fedezeteként használható fel.”
