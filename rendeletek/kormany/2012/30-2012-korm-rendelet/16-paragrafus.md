@@ -6,4 +6,6 @@
 
 16. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2) Hatályát veszti a 2011. évi igazgatási szünetről szóló 19/2011. (III. 2.) Korm. rendelet.
+(2)[^1]
+
+[^1]: A 16. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
