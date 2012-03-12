@@ -36,7 +36,7 @@ dr. Szakács Imre (Fidesz)
 
 dr. Vas Imre (Fidesz)
 
-dr. Budai Gyula (Fidesz)[^6]
+dr. Puskás Imre (Fidesz)[^6]
 
 dr. Vitányi István (Fidesz)
 
@@ -983,7 +983,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^3]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
 [^5]: A 110/2010. (XI. 4.) OGY határozat 1. pontjával megállapított szöveg.
-[^6]: A 30/2010. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 20/2012. (III. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^7]: A 60/2011. (VII. 13.) OGY határozat 1. pontjával megállapított szöveg.
 [^8]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
 [^9]: A 97/2010. (X. 15.) OGY határozat 1. pontjával megállapított szöveg.
