@@ -1,1 +1,0 @@
-## 2. § Az 1. § (1) és (2) bekezdésében meghatározott igénylő szerv (a továbbiakban együtt: igénylő szerv) az általa igényelt könnygázszóró palack, illetve gázspray beszerzési költségeit köteles megtéríteni.
