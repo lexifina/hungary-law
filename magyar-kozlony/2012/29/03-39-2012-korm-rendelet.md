@@ -1,0 +1,765 @@
+# A Kormány 39/2012. (III. 12.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 29. szám, 2012. március 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/dfd0820989d626552ceae8a172a816e6e043a11d/dokumentumok/4d595fae4686b0c336acc7db58d10e862cc0162c/letoltes)
+
+---
+
+A Kormány 39/2012. (III. 12.) Korm. rendelete
+a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet,
+valamint a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet
+módosításáról
+A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (1) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 30. § tekintetében a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés b) pontjában kapott
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
+1. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 2. §-a helyébe a következő rendelkezés lép:
+„2. § Az Ftv. 3. §-ában foglalt engedélyezési eljárásban (a továbbiakban: engedélyezési eljárás) eljáró hatóság az
+engedély megadása esetén a jogosult számára az e rendeletben meghatározott módon és esetekben az engedély
+meglétét igazoló hatósági igazolványt állít ki.
+Az eljáró hatóság
+a) az engedélyben megjelölt eszköz megszerzését követően kiállítja az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában
+meghatározott engedély meglétét igazoló hatósági igazolványt, továbbá
+b) a jogszerű megszerzést igazoló dokumentum alapján intézkedik az Ftv. 3. § (4) bekezdése szerint megszerzett
+eszköznek a tartására jogosító engedély meglétét igazoló hatósági igazolványba történő bejegyzése iránt.”
+2. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 4. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) A lőfegyver, a lőfegyverdarab, a lőszer (lőszerelem), a flóbert töltény, a festéklövő fegyver, a gáz- és riasztófegyver,
+a gáztöltény, a riasztótöltény, a vaktöltény, a légfegyver, a színházi fegyver gyártását, a Magyarország területén
+történő forgalmazását, a lőfegyver, a lőszer (lőszerelem) kereskedelmi célú kivitelét, behozatalát a tevékenység helye,
+az ország területén történő átszállítását a Magyarország területére történő határátlépés helye szerint illetékes megyei
+(fővárosi) rendőr-főkapitányság engedélyezi.”
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 4. § (2) bekezdése helyébe a következő
+rendelkezés lép:
+„(2) E rendelet eltérő rendelkezése hiányában a lőfegyver, a lőfegyverdarab, a lőszer, a lőszerelem, a színházi fegyver
+javítását, megszerzését és tartását, a légfegyver javítását, a gáz- és riasztófegyver viselését, a lőfegyver
+hatástalanítását, a muzeális fegyver sportlövészeti célú használatát, a polgári rendeltetésű lőtér, a lőfegyver- és lőszer
+(lőszerelem) tárolóhely üzemeltetését, a lövészetvezetői tevékenység végzését a kérelmező lakóhelye, szervezet
+esetén a tevékenység helye szerint illetékes rendőrkapitányság, Budapesten a Budapesti Rendőr-főkapitányság
+engedélyezi. A színházi fegyver behozatalát és kivitelét a tevékenység helye, az ország területén történő átszállítását
+a Magyarország területére történő határátlépés helye szerint illetékes rendőrkapitányság, Budapesten a Budapesti
+Rendőr-főkapitányság engedélyezi.”
+(3) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 4. § (2) bekezdése helyébe a következő
+rendelkezés lép:
+„(2) E rendelet eltérő rendelkezése hiányában a lőfegyver, a lőfegyverdarab, a lőszer, a lőszerelem, a színházi fegyver
+javítását és tartását, a házilagos lőszerszerelést és -újratöltést, a légfegyver javítását, a gáz- és riasztófegyver viselését,
+a lőfegyver hatástalanítását, a muzeális fegyver javítását és sportlövészeti célú használatát, a polgári rendeltetésű
+lőtér, a lőfegyver- és lőszer (lőszerelem) tárolóhely üzemeltetését, a lövészetvezetői tevékenység végzését a
+kérelmező lakóhelye, szervezet esetén a tevékenység helye szerint illetékes rendőrkapitányság, Budapesten a
+Budapesti Rendőr-főkapitányság engedélyezi. A színházi fegyver behozatalát és kivitelét a tevékenység helye,
+az ország területén történő átszállítását a Magyarország területére történő határátlépés helye szerint illetékes
+rendőrkapitányság, Budapesten a Budapesti Rendőr-főkapitányság engedélyezi.”
+(4) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 4. § (4) bekezdése helyébe a következő
+rendelkezés lép:
+„(4) A lőfegyver és a hozzá tartozó lőszer önvédelmi vagy személy- és vagyonvédelmi célra történő tartását,
+a tárolásukra szolgáló tárolóhely üzemeltetését, az önvédelmi vagy személy- és vagyonvédelmi célra tartott lőfegyver
+hatástalanítását, a lőfegyver kiállítását, valamint a hangtompító tartását a kérelmező lakóhelye, szervezet esetén
+a tevékenység helye szerint illetékes megyei (fővárosi) rendőr-főkapitányság engedélyezi.”
+
+3. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 5. § (1) bekezdése helyébe a következő
+rendelkezés lép, egyidejűleg a § a következő (1a) bekezdéssel egészül ki:
+„(1) Az engedélyt, valamint az európai lőfegyvertartási engedélyt – az engedély meglétét igazoló hatósági
+igazolvánnyal együtt –
+a) vissza kell vonni, ha a kiadásának valamely feltétele nem áll fenn,
+b) a rendőrség – a cselekmény súlyához, jellegéhez, gyakoriságához, illetve következményeihez mérten –
+visszavonhatja, ha az engedéllyel rendelkező az adott tevékenység, illetve az engedélyben megjelölt célt szolgáló
+lőfegyver vonatkozásában az Ftv.-ben vagy a végrehajtására kiadott jogszabályban meghatározott kötelezettségét
+megszegi.
+(1a) A rendőrség intézkedik az Ftv. 3/A. § (2) bekezdés c) pontjában meghatározott ok miatt visszavont engedély
+(európai lőfegyvertartási engedély) visszaadása iránt, ha a büntetőeljárás az engedélyes büntetőjogi felelősségének
+megállapítása nélkül ér véget. Az engedélyes ilyen esetben a hatósági tárolásért díj megfizetésére nem kötelezhető,
+illetve a hatósági tárolási díj címén kifizetett pénzösszeg visszajár.”
+4. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 6. §-a a következő (5)–(6) bekezdéssel egészül ki:
+„(5) Hatástalanított lőfegyver, illetve színházi fegyver csak akkor hozható kereskedelmi forgalomba, ha a fegyverek,
+lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben a fegyverek és lőszerek
+vizsgálatára kijelölt szerv megállapította, hogy hatástalanításának módja megfelel a 21. mellékletben, illetve a
+22. mellékletben meghatározottaknak, megfelelőségét a beütött próbajel igazolja, és az egyedi vizsgálatról
+megfelelőnek minősített értékelésű tanúsítvánnyal rendelkezik.
+(6) Gáz- és riasztófegyver abban az esetben hozható be az ország területére, illetve hozható kereskedelmi forgalomba,
+ha nem tartalmaz lőfegyverdarabot, valamint alkalmatlan szilárd lövedék kilövésére.”
+5. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 8. § (2) bekezdése helyébe a következő
+rendelkezés lép:
+„(2) A lőfegyver, lőszer, színházi fegyver kivitelére, behozatalára, átszállítására irányuló kérelemnek – a közigazgatási
+hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottak mellett – tartalmaznia kell
+a) a lőfegyvert, lőszert (lőszerelemet), színházi fegyvert eladó vagy a lőfegyvertől, lőszertől (lőszerelemtől), színházi
+fegyvertől megváló természetes személy és az azt megvásároló vagy megszerző személy természetes
+személyazonosító adatait, állampolgárságát, lakóhelyét, szervezet esetén az annak azonosításához szükséges
+adatokat, nem kereskedelmi célú kivitel esetén a lőfegyver tulajdonosa természetes személyazonosító adatait és
+lakóhelyét;
+b) a lőfegyver, lőszer (lőszerelem) azonosító adatait, beleértve annak a törvény szerinti kategóriába sorolását, valamint
+annak jelzését is, hogy a fegyver, lőszer a kézi lőfegyverek próbabélyegeinek kölcsönös elismeréséről Brüsszelben,
+1969. július 1-jén kötött Egyezmény szerint történő ellenőrzésen részt vett; a színházi fegyver azonosítását lehetővé
+tevő adatokat;
+c) lőszer és lőszerelem szállítás esetén az ADR és a RID szerinti nemzetközi azonosító számát;
+d) azt a címet, ahová a lőfegyvert, lőszert (lőszerelemet), színházi fegyvert küldeni vagy szállítani kell;
+e) az elküldendő vagy szállítandó lőfegyverek, lőszerek (lőszerelemek), színházi fegyverek darabszámát;
+f) a szállítóeszköz megjelölését;
+g) az indulás és az érkezés várható időpontját;
+h) tranzitszállítás esetén az érintett országok megnevezését.”
+6. §
+(1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 15. § (1) bekezdése a következő második
+mondattal egészül ki:
+„A lőfegyver gyártásakor a gyártó köteles az Ftv. 5. § (2) bekezdés b) pontjában meghatározott adatokat
+– a jogszabályban meghatározott módon – a lőfegyverek központi nyilvántartásába továbbítani.”
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 15. § (2) bekezdés c)–e) pontja helyébe a
+következő rendelkezések lépnek:
+[Fegyver, lőszer (töltény) és lőszerelem forgalmazási tevékenység esetén]
+„c) az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedéllyel rendelkező személynek, illetve az ilyen
+engedéllyel rendelkező szervezet kereskedelmi meghatalmazottjának – az Európai Unió más tagállamában lakóhellyel
+
+rendelkező személy, illetve harmadik ország állampolgára esetén az illetékes külföldi hatóság által kiállított,
+a forgalmazott eszköz megszerzésére, illetve tartására jogosító engedély birtokában – adható át;
+d) a megszerzett lőfegyver adatait, valamint a megszerzés időpontját a 12. mellékletben meghatározott átvételi
+elismervénynek az üzlet bélyegzőlenyomatát is tartalmazó kitöltésével és az engedélyes részére történő átadásával
+kell igazolni;
+e) lőszer csak a tartására jogosultnak adható át, a megszerzett, illetve a lőfegyvertartásra jogosító engedélybe
+bejegyzett lőfegyver kaliberjelének figyelembevételével;”
+(3) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 15. § (2) bekezdése a következő i)–j) ponttal
+egészül ki:
+[Fegyver, lőszer (töltény) és lőszerelem forgalmazási tevékenység esetén]
+„i) a házilagos lőszerszereléshez és -újratöltéshez szükséges lőszerelem kizárólag az e tevékenység végzésére jogosító
+engedéllyel rendelkező természetes személy, valamint a lőszergyártási engedéllyel rendelkező részére értékesíthető;
+j) lőpor, csappantyú csak eredeti és bontatlan gyári csomagolásban hozható forgalomba; lőpor 1 kg töltőtömeget
+meghaladó kiszerelésben természetes személy részére nem forgalmazható.”
+7. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 17. §-a helyébe a következő rendelkezés lép:
+„17. § A gyártási, forgalmazási engedéllyel rendelkező köteles a tevékenység helye szerint illetékes megyei
+rendőr-főkapitányságnak, a javítási engedéllyel rendelkező a lakóhelye, szervezet esetén a tevékenység helye szerint
+illetékes rendőrkapitányságnak – Budapesten a Budapesti Rendőr-főkapitányságnak – öt napon belül bejelenteni
+a) az engedélyben szereplő adatok megváltozását, továbbá
+b) az engedélyezett tevékenység teljes vagy részleges, legfeljebb 180 napig tartó felfüggesztését, illetve
+beszüntetését, valamint a tevékenység felfüggesztést követő újrakezdését.”
+8. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet a következő 20/A–20/B. §-sal és az azokat
+megelőző alcímmel egészül ki:
+„A házilagos lőszerszerelésre és -újratöltésre vonatkozó szabályok
+20/A. § (1) A házilagos lőszerszerelésre és -újratöltésre jogosító – a 14. számú mellékletben meghatározott – engedély
+kizárólag a lőfegyver, lőszer tartására jogosító engedéllyel rendelkezőnek adható meg, feltéve, hogy a kérelmező
+a lőszer, valamint a lőszerelem tárolásának e rendeletben meghatározott feltételeivel rendelkezik, illetve e feltételeket
+biztosítja.
+(2) A házilagos lőszerszerelésre és -újratöltésre jogosító engedélyt a 19. számú melléklet szerinti formanyomtatvány
+benyújtásával kell kérelmezni.
+(3) A rendészetért felelős miniszter rendeletében előírt elméleti és jártassági követelmények teljesítését a kérelmező
+a 23. számú melléklet szerinti vizsgabizonyítvánnyal igazolja, amelyet a vizsga sikeres letételének napján a
+vizsgabizottság állít ki és ad át a vizsgázónak.
+(4) A vizsgabizottság elnökét és egy megfelelő szakismerettel rendelkező tagját a lőfegyverek és lőszerek vizsgálatára
+kijelölt szervezet vezetője, egy tagját pedig a megyei (budapesti) rendőrfőkapitány jelöli ki.
+20/B. § (1) A házilagos lőszerszerelésre és -újratöltésre jogosító engedéllyel rendelkező az engedély birtokában
+jogosult
+a) a lőpor és a csappantyú megvásárlására,
+b) legfeljebb 5 kg lőpor és 2000 db csappantyú szállítására, valamint
+c) az Ftv. 2. § 45. pontjában meghatározott tevékenység végzésére.
+(2) Kizárólag az engedélyes lőfegyvertartási engedélyébe bejegyzett lőfegyverhez jogszerűen és rendeltetésszerűen
+használható kaliberjelű lőszer házilagos szerelése és újratöltése engedélyezett.
+(3) A lőszer házilagos szerelése és újratöltése jogosító engedély birtokában sem engedélyezett
+a) peremgyújtású lőszer házilagos szerelése és újratöltése,
+b) a házilagosan szerelt, illetve újratöltött lőszer forgalmazása és átadása, ide nem értve a lőfegyverek és lőszerek
+vizsgálatára kijelölt szervezet részére történő átadást, valamint
+c) a lőpor és a csappantyú közforgalmú közlekedési eszközön történő szállítása.
+(4) A lőszer házilagos szerelése és újratöltése nem végezhető olyan helyiségben, ahol nyílt lánggal üzemelő
+berendezés található. A lőszer házilagos szerelése és újratöltése során a dohányzás, valamint a nyílt láng használatával
+vagy szikraképződéssel járó egyéb tevékenység folytatása tilos.”
+
+9. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 23. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) E rendelet eltérő rendelkezése hiányában sportlövészetre lőfegyver tartása annak a sportolónak engedélyezhető,
+aki sportegyesületnél leigazolt, az országos sportági szakszövetség által kiadott, érvényes versenyengedéllyel
+rendelkező minősített sportlövő és rendszeres sporttevékenysége alapján a saját tulajdonú lőfegyver tartását az
+országos sportági szakszövetség javasolja.”
+10. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 24. §-a helyébe a következő rendelkezés lép:
+„24. § Vadászatra lőfegyver tartása annak a személynek engedélyezhető, aki a vad védelméről, a vadgazdálkodásról,
+valamint a vadászatról szóló 1996. évi LV. törvényben (a továbbiakban: Vtv.) a vadászati tevékenység gyakorlásához
+meghatározott személyi feltételeinek megfelel. Vadásznak a Vtv.-ben nem tiltott lőfegyver tartása engedélyezhető.”
+11. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 26. § (5) bekezdése helyébe a következő
+rendelkezés lép:
+„(5) E rendelet eltérő rendelkezése hiányában a rendőrség, a nemzetbiztonsági szolgálatok, a Nemzeti Adó- és
+Vámhivatal, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának
+lőfegyver tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.”
+12. §
+(1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 28. § (2) bekezdése a következő h) ponttal
+egészül ki:
+(Lőfegyver, lőszer megszerzése és tartása az alábbi szervezeteknek engedélyezhető:)
+„h) filmgyártási célra az a gazdálkodó szervezet, amelynek – illetve közvetlen jogelődjének – tevékenységi köre
+legalább tíz éve kiterjed a filmes fegyvertechnikai és pirotechnikai szolgáltatás nyújtására és a lőfegyver, illetve
+színházi fegyver gyártására vagy javítására jogosító engedéllyel rendelkezik, feltéve, hogy a gyártásra, javításra
+feljogosított tagja a színházi fegyverekkel kapcsolatos gyártói (színházi fegyver hatástalanítói) tevékenységben,
+valamint színházi fegyver kifejezetten filmgyártási célú üzemeltetésében legalább öt éves igazolt gyakorlattal
+rendelkezik.”
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 28. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Filmgyártási célra „A” kategóriába tartozó tűzfegyver tartása is engedélyezhető, ha a kérelmező rendelkezik
+a lőfegyver vagy színházi fegyver gyártására, illetve javítására jogosító engedéllyel, valamint teljesíti az „A” kategóriába
+tartozó tűzfegyverek és lőszereik tárolásának e rendeletben meghatározott feltételeit.”
+13. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 31. §-a helyébe a következő rendelkezés lép:
+„31. § Színházi fegyver színházak, színpadi és egyéb előadások megtartásával foglalkozó vagy filmforgatásban
+közreműködő gazdálkodó szervezetnek és hagyományőrző egyesületnek engedélyezhető, feltéve, hogy megfelel
+a 22. számú mellékletben meghatározott műszaki követelményeknek.”
+14. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 32. §-a helyébe a következő rendelkezés lép:
+„32. § (1) A (2) bekezdésben meghatározott kivétellel az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott,
+valamint a gáz- és riasztófegyver viselésére, a muzeális fegyver sportlövészeti célú használatára kiadott, továbbá
+a házilagos lőszerszerelésre és -újratöltésre jogosító engedély visszavonásig hatályos. A házilagos lőszerszerelésre
+és -újratöltésre jogosító engedélyt – valamint az engedély meglétét igazoló hatósági igazolványt – a rendőrség az Ftv.
+3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedély visszavonásával egyidejűleg visszavonja.
+(2) Az önvédelmi célú lőfegyver, valamint a 28. § (2) bekezdés g) pontjában megjelölt szervezet által az ott
+meghatározott lőfegyver tartására jogosító engedély öt évig hatályos, hatályossága kérelemre alkalmanként további
+öt évre meghosszabbítható, ha az engedély kiadására vonatkozó feltételek – azok ismételt vizsgálata alapján –
+biztosítottak, és a kérelmező az engedély meghosszabbítását legalább harminc nappal a hatályossága lejártát
+megelőzően kérelmezi. A feltételek ismételt vizsgálata a lőfegyver tartásához szükséges elméleti és gyakorlati
+jártasságot igazoló vizsga megismétlésére nem terjed ki.
+(3) Az engedéllyel rendelkező az Ftv. 3. § (2) vagy (4) bekezdése alapján megszerzett eszközt – a lőfegyverhez tartozó
+lőszer kivételével – az engedélybe történő bejegyzés céljából nyolc napon belül köteles bemutatni a tartásának
+engedélyezésére jogosult rendőri szervnek.”
+
+15. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 34. § (1) bekezdés b) pontja helyébe a következő
+rendelkezés lép:
+(Az engedélyes számára kiadott, lőfegyver tartására vonatkozó engedély, valamint az ennek meglétét igazoló hatósági
+igazolvány tartalmazza)
+„b) az engedélyes által jogszerűen tartott lőfegyver(ek) azonosító adatait és a bejegyzés keltét;”
+16. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 35. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) A szervezet részére kiadott lőfegyvertartási engedélyben fel kell tüntetni azokat a személyeket, alkalmazottakat
+(a továbbiakban együtt: alkalmazott), akik a fegyver kezelését (tárolás, kiadás, visszavétel) végzik, a fegyvert
+használhatják.”
+17. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 37. § (2) bekezdése helyébe a következő
+rendelkezés lép:
+„(2) A kereskedelemért felelős miniszter rendeletében a fegyver és lőszer vizsgálatára kijelölt szervezet, valamint
+a lőfegyver-kereskedő részére történő átadás kivételével a lőfegyver átadását – az átadás várható időtartamának
+megjelölésével – legkésőbb az átadást megelőző napon kiállított teljes bizonyítóerejű magánokiratba kell foglalni,
+amelyet az átadott fegyver vonatkozásában az átadó részére kiadott engedély hatályosságának teljes időtartama alatt
+meg kell őrizni.”
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 37. §-a következő (8)–(10) bekezdéssel
+egészül ki:
+„(8) Filmgyártási célú lőfegyver olyan, a filmforgatásban szerződés alapján közvetlenül közreműködő személynek
+engedhető át, aki részt vett a filmgyártási célú lőfegyvert tartó szervezet által végzett biztonsági oktatáson, ezt
+aláírásával igazolta és az oktatottak elsajátításáról a lőfegyvert átengedő személy meggyőződött. A biztonsági
+oktatáson való részvételt igazoló dokumentumot a filmgyártási célú lőfegyver tartására jogosult szervezet az
+engedély hatályosságának tartama alatt mindvégig köteles megőrizni. A fegyver átengedéséért, visszavételéért és
+biztonságos műszaki állapotáért a filmgyártási célú lőfegyvert tartó szervezet gyártásra jogosító hatósági engedéllyel
+rendelkező tagja felel.
+(9) Kizárólag olyan filmgyártási célú lőfegyver engedhető át, amelynek csövébe a hozzá való lőszer betöltését
+akadályozó gátat vagy a fegyver űrméretének megfelelő lövedék kilövését megakadályozó szűkítést szereltek.
+(10) Filmgyártási célú lőfegyver filmforgatás helyszínén viselhető és használható.”
+18. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 38. § (1) bekezdés a) pontja helyébe a következő
+rendelkezés lép:
+(A lőfegyver, gáz- és riasztófegyvert tartó személy)
+„a) lakott területen, közterületen, nyilvános helyen, közforgalmú közlekedési eszközön – az (1a)–(1b) bekezdésben
+meghatározott kivétellel, illetve jogszabály eltérő rendelkezésének hiányában – vadászlőfegyverét vagy
+sportlőfegyverét csak ürítve, tokban, sportcélú rövid lőfegyverét üres tárral, a fegyver és a lőszer elkülönített
+csomagolásával, zárt dobozban vagy egyéb zárt tárolóeszközben szállíthatja, amelynek során köteles megtenni
+minden szükséges intézkedést annak érdekében, hogy a lőfegyverhez, lőszerhez illetéktelen személy ne férhessen
+hozzá;”
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 38. §-a a következő (1a)–(1b) bekezdéssel
+egészül ki:
+„(1a) A hivatásos vadász feladatának ellátása során szolgálati vadász- és maroklőfegyverét a működési területén belül
+– a település közigazgatási belterületén, valamint a közforgalmú közlekedési eszközön történő szállítás kivételével –
+ürítetlen állapotban, illetve a tokban történő tartást mellőzve szállíthatja.
+(1b) A társas vadászat során a vadászlőfegyver tartására jogosult vadászlőfegyverét kizárólag a vadászterületen belül
+– a település közigazgatási belterületén, valamint a közforgalmú közlekedési eszközön történő szállítás kivételével –
+ürítve, a tokban történő tartást mellőzve szállíthatja.”
+
+(3) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 38. § (1) bekezdés c) pontja helyébe a következő
+rendelkezés lép:
+(A lőfegyver, gáz- és riasztófegyvert tartó személy)
+„c) fegyverét nem viselheti és nem használhatja szeszes italtól befolyásolt állapotban, illetve, ha szervezetében
+kábítószer, illetve pszichotróp anyag van;”
+(4) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 38. § (5) bekezdése helyébe a következő
+rendelkezés lép:
+„(5) Az a személy vagy szervezet, aki vagy amely a lőfegyvertartásra jogosító engedéllyel rendelkezik, lőfegyverének,
+valamint engedélyének, illetve az ennek meglétét igazoló hatósági igazolványának elvesztését vagy eltulajdonítását
+köteles az elvesztés, illetve az eltulajdonítás helye és a lakóhelye vagy tevékenységének helye szerint illetékes
+rendőrkapitányságon haladéktalanul bejelenteni. Az a személy, aki gáz- és riasztófegyver önvédelmi célú viselésére
+jogosító engedéllyel rendelkezik, engedélyének, illetve az ennek meglétét igazoló hatósági igazolványának
+elvesztését vagy eltulajdonítását köteles az elvesztés, illetve az eltulajdonítás helye és a lakóhelye szerint illetékes
+rendőrkapitányságon haladéktalanul bejelenteni.”
+19. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 42. §-a helyébe a következő rendelkezés lép:
+„42. § (1) E rendelet eltérő rendelkezése hiányában
+a) a lőfegyvert a tartására jogosult személy által állandóan lakott vagy rendszeresen, illetve alkalmanként visszatérő
+módon látogatott lakásban – szervezet esetén őrzött, vagy riasztó berendezéssel védett épületben – ürített
+állapotban, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott
+szekrényben, illetéktelen személyektől elzárva kell tárolni,
+b) rövid lőfegyvert az a) pontban meghatározott egyéb feltételek betartása mellett, falhoz, padlóhoz vagy
+szekrényhez rögzített, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és biztonsági zárral
+ellátott dobozban is lehet tárolni,
+c) a lőszert a lőfegyvertől elkülönítve, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és
+biztonsági zárral ellátott szekrényben vagy falhoz, padlóhoz, szekrényhez rögzített, a számottevő mértékű külső
+erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott dobozban, illetéktelen személyektől elzárva kell
+tárolni.
+(2) A tárolásra szolgáló helyiség nyílászáróit acélráccsal vagy ultraerős biztonsági fóliával kell ellátni, valamint
+a tárolóhelyet őrszemélyzettel kell őrizni vagy távfelügyeleti rendszerbe bekötött elektronikus riasztóberendezéssel
+kell ellátni
+a) „A” kategóriába tartozó lőfegyver,
+b) 10 darabot meghaladó számú lőfegyver, illetve 1000 darabot meghaladó számú lőszer, vagy
+c) lőfegyvernek vagy lőszernek a 28. § (2) bekezdés b) vagy c) pontja alapján kiadott engedéllyel rendelkező szervezet
+által történő
+tárolása esetén.
+(3) A lőfegyver és a hozzá tartozó lőszer a tartásukra jogosult személy folyamatos jelenléte esetén elzárás, illetve
+elkülönítés nélkül is tárolható.”
+20. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 43. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) Lőszerelemet eredeti gyári csomagolásában, ablakkal rendelkező helyiségben, a számottevő mértékű külső
+erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott szekrényben vagy lefújó nyílásokkal ellátott
+lemezszekrényben úgy kell tárolni, hogy ahhoz illetéktelenek ne férjenek hozzá.”
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 43. § (3) bekezdése helyébe a következő
+rendelkezés lép:
+„(3) Lőszerelemek tárolószekrényében kizárólag lőport és csappantyút lehet tartani. A lakás céljára szolgáló épületen
+belül lőszerelemek számára kialakított tárolóhelyen nem tartható 2 kg össztömegnél nagyobb mennyiségű lőpor és
+5000 darabot meghaladó számú csappantyú. A nem lakás céljára szolgáló épületen belül lőszerelemek számára
+kialakított tárolóhelyen nem tartható 10 kg össztömegnél nagyobb mennyiségű lőpor és 25 000 darabot meghaladó
+számú csappantyú.”
+
+21. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 45. §-a és az azt megelőző alcím helyébe
+a következő alcím és rendelkezés lép:
+„Lőfegyver, lőszer, színházi fegyver kivitele, behozatala, átszállítása
+45. § E rendelet eltérő rendelkezése hiányában lőfegyver, lőszer, színházi fegyver kivitelére, behozatalára, átszállítására
+engedélyt az kaphat, aki (amely) annak gyártására javítására, forgalmazására vagy tartására jogosító engedéllyel
+rendelkezik.”
+22. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 47. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) Az a személy vagy szervezet, aki (amely) az e rendelet szerint kiadott megszerzési engedéllyel rendelkezik, jogosult
+annak hatályossága alatt a megszerzési engedélyben szereplő lőfegyver, lőszer, színházi fegyver behozatalára.
+Az Európai Unióhoz nem tartozó államból történő behozatal esetén ennek tényét a Nemzeti Adó- és Vámhivatal
+területileg illetékes alsó fokú vámszerve az engedélyen bélyegzőlenyomattal és aláírással igazolja.”
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 47. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) Az a személy vagy szervezet, aki (amely) az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott
+engedéllyel rendelkezik, jogosult annak hatályossága alatt az engedélyben szereplő lőfegyver, lőfegyverdarab,
+lőfegyvernek minősülő légfegyver, színházi fegyver, lőszer, lőszerelem, színházi fegyver, illetve hangtompító
+behozatalára. Az Európai Unióhoz nem tartozó államból történő behozatal esetén ennek tényét a Nemzeti Adó-
+és Vámhivatal területileg illetékes alsó fokú vámszerve az engedélyen bélyegzőlenyomattal és aláírással igazolja.”
+23. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 48. § (4) bekezdése helyébe a következő
+rendelkezés lép:
+„(4) Az Európai Unió valamely tagállamában lakóhellyel nem rendelkező személy a Nemzeti Adó- és Vámhivatal
+területileg illetékes alsó fokú vámszervének a 13. számú melléklet szerinti igazolása alapján jogosult lőfegyverét,
+a hozzá tartozó lőszerrel együtt vadászatra, sportlövő versenyre behozni, kivinni, illetve az ország területén átszállítani,
+ha a Magyarország területén tartózkodás a 90 napot nem haladja meg.”
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 48. §-a a következő (9) bekezdéssel egészül ki:
+„(9) A Magyarország területére behozott színházi fegyvert az engedélyes köteles bemutatni a kereskedelemért felelős
+miniszter rendeletében a fegyverek és lőszerek vizsgálatára kijelölt szervezetnek. A 22. számú mellékletben
+meghatározott műszaki követelményeknek nem megfelelő fegyvert a behozataltól, illetve a megfelelőtlenség
+megállapításától számított 8 napon belül javításra át kell adni a színházi fegyver javítására engedéllyel rendelkező
+szervezetnek, vagy haladéktalanul gondoskodni kell az ország területéről történő kiviteléről.”
+24. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet a következő 53/A. §-sal egészül ki:
+„53/A. § E rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet, valamint a biztonsági
+okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet módosításáról szóló 39/2012. (III. 12.) Korm.
+rendelettel megállapított 15. § (1) bekezdését a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény
+módosításáról szóló 2012. évi XIII. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően legyártott
+lőfegyverek tekintetében is alkalmazni kell azzal, hogy a bejelentést legkésőbb a Módtv. hatálybalépését követő
+harmadik hónap utolsó napjáig meg kell tenni.”
+25. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet a következő 55–55/A. §-sal egészül ki:
+„55. § E rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet, valamint a biztonsági
+okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet módosításáról szóló 39/2012. (III. 12.) Korm.
+rendelettel megállapított 32. § (1) bekezdése a Módtv. hatálybalépését megelőzően kiadott engedélyek hatályossága
+tekintetében is irányadó.
+55/A. § E rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet, valamint a biztonsági
+okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet módosításáról szóló 39/2012. (III. 12.) Korm.
+rendelettel megállapított 5. § (1) bekezdés a) pontját nem kell alkalmazni az Ftv. 3/A. § (2) bekezdés b) és d) pontjában
+a Módtv. hatálybalépését megelőzően nem említett bűncselekményi, illetve szabálysértési tényállások tekintetében,
+ha az engedélyt a Módtv. hatálybalépését megelőzően adták meg.”
+
+26. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 56. §-a a következő d) ponttal egészül ki:
+(Ez a rendelet – a lőfegyverekről és lőszerekről szóló törvény, a fegyverek, lövőkészülékek, valamint ezek lőszereinek
+vizsgálatáról és a haditechnikai termékek jelöléséről, valamint a haditechnikai termékek és szolgáltatások
+nyilvántartásáról szóló rendeletek rendelkezéseivel együtt –)
+„d) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek”
+(való megfelelést szolgálja.)
+27. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet a következő 57. §-sal és az azt megelőző
+alcímmel egészül ki:
+„A jogszabály tervezetének egyeztetése
+57. § E rendelet tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira
+vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti
+és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében
+előírt egyeztetése megtörtént.”
+28. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet
+a)
+13. számú melléklete helyébe az 1. melléklet szerinti melléklet lép,
+b)
+14. számú melléklete helyébe a 2. melléklet szerinti melléklet lép,
+c)
+16. számú melléklete helyébe a 3. melléklet szerinti melléklet lép,
+d)
+19. számú melléklete helyébe a 4. melléklet szerinti melléklet lép,
+e)
+21. számú melléklete helyébe az 5. melléklet szerinti melléklet lép,
+f)
+a 6. melléklet szerinti 22. számú melléklettel egészül ki, valamint
+g)
+a 7. melléklet szerinti 23. számú melléklettel egészül ki.
+29. §
+(1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet
+1.
+4. § (1) bekezdésében a „légfegyver, a színházi” szövegrész helyébe a „légfegyver, a muzeális fegyver, a színházi”,
+2.
+8. § (1) bekezdésében a „lőszer behozatalához” szövegrész helyébe a „lőszer, színházi fegyver behozatalához”,
+3.
+10. § (1) bekezdésében a „szakvizsgát, valamint” szövegrész helyébe a „szakvizsgát, a vadászpuskaműves és
+a vadászpuskaműves-mester képesítést, a katonai közép- vagy felsőfokú oktatási intézményben szakirányú
+– fegyverzeti – szakon szerzett diplomát, illetve képesítést, valamint”,
+4.
+10. § (3) bekezdésében a „szakvizsgával vagy” szövegrész helyébe a „szakvizsgával, vadászpuskaműves vagy
+vadászpuskaműves-mester képesítéssel, katonai közép- vagy felsőfokú oktatási intézményben szakirányú
+– fegyverzeti – szakon szerzett diplomával, illetve képesítéssel vagy”,
+5.
+13. §-ában az „illetve biztosítja” szövegrész helyébe az „illetve e feltételeket biztosítja”,
+6.
+16. §-ában a „belül megküldi az” szövegrész helyébe a „belül megküld az”,
+7.
+21. § (2) bekezdésében a „sportlövészetre engedélyezhető” szövegrész helyébe a „sportlövészetre és filmgyártási
+célra engedélyezhető”,
+8.
+26. § (1) bekezdés b) pontjában a „külön jogszabályban” szövegrész helyébe az „a jogszabályban”,
+9.
+26. § (1) bekezdés c) pontjában a „külön jogszabály szerint” szövegrész helyébe az „a jogszabályban
+meghatározottak szerint”,
+10. 26. § (7) bekezdésében a „lőfegyver megszerzését és tartását kérelmező” szövegrész helyébe a „lőfegyver
+tartására jogosító engedély megadását kérelmező”,
+11. 29. §-ában a „szervezet a Magyar Köztársaság területén” szövegrész helyébe a „szervezet Magyarország területén”,
+12. 33. § (1) bekezdésében a „fegyver megszerzésére és tartására irányuló” szövegrész helyébe a „fegyver tartására
+jogosító engedély megadására irányuló”,
+13. 34. § (1) bekezdésének nyitó szövegrészében az „Az engedélyes számára kiadott, lőfegyver tartására vonatkozó
+engedély” szövegrész helyébe az „A lőfegyver tartására jogosító engedély”,
+14. 37. § (5) bekezdésében az „a lőfegyver megszerzéséhez szükséges tanfolyamon” szövegrész helyébe az
+„a lőfegyvertartás hatósági engedélyezésének feltételeként előírt tanfolyamon”,
+15. 38. § (1) bekezdésének nyitó szövegrészében az „A lőfegyver, gáz-” szövegrész helyébe az „A lőfegyvert, gáz-”,
+16. 38. § (1) bekezdés k) pontjában a „vagy a megszerzési engedély eladói igazolását köteles” szövegrész helyébe
+a „vagy az eladás tényét igazoló egyéb okiratot köteles”,
+17. 38. § (1) bekezdés m) pontjában a „megszerzési engedély” szövegrész helyébe az „az Ftv. 3. § (1) bekezdés c) pont
+ca) alpontjában meghatározott engedély”,
+
+18. 43. § (2) bekezdésében az „egy lemezből készült” szövegrész helyébe az „egy fémlemezből készült”,
+19. 47. § (2) bekezdésében a „lőszert akar a Magyar Köztársaság területéről” szövegrész helyébe a „lőszert, színházi
+fegyvert akar Magyarország területéről”, továbbá a „lőszer gyártására” szövegrész helyébe a „lőszer, színházi
+fegyver gyártására”,
+20. 48. § (2) bekezdésében a „„B”, „C” és „D” kategóriájú” szövegrész helyébe az „a Magyarországon jogszerűen
+tartható”,
+21. 48. § (8) bekezdésében az „Az Európai Unió külső vámhatárán működő vám- és pénzügyőri hivatal (4)” szövegrész
+helyébe az „A Nemzeti Adó- és Vámhivatal területileg illetékes alsó fokú vámszerve (4)”,
+22. 49. § b) pontjában a „köteles az Európai Unió külső vámhatárán működő vám- és pénzügyőri hivatalnak az”
+szövegrész helyébe a „köteles a Nemzeti Adó- és Vámhivatal területileg illetékes alsó fokú vámszervének az”,
+23. 50. § (2) bekezdésében az „igazolványt az Európai Unió külső vámhatárán működő vám- és pénzügyőri hivatal, az”
+szövegrész helyébe az „igazolványt a Nemzeti Adó- és Vámhivatal területileg illetékes alsó fokú vámszerve az”,
+24. 51. § (1) bekezdés b) pontjában az „a tűzfegyver azonosító” szövegrész helyébe az „a lőfegyver azonosító”,
+25. 51. § (4) bekezdésében
+a) a „bejegyzett tűzfegyver birtoklásában” szövegrész helyébe a „bejegyzett lőfegyver birtoklásában”,
+valamint
+b) az „a tűzfegyver elvesztését” szövegrész helyébe az „a lőfegyver elvesztését”,
+26. 8. számú melléklete szerinti táblázat első oszlopának első sorában a „Megszerzési eng. száma” szövegrész helyébe
+a „Fegyvertart. eng. száma”,
+27. 8. számú mellékletének „Kitöltési tájékoztató” alcímében a „Megszerzési eng. száma: a vevő megszerzési
+engedélyén” szövegrész helyébe a „Fegyvertart. eng. száma: a vevő fegyvertartási engedélyén”, valamint
+28. 10. számú melléklete „Fegyverforgalmazási vizsgakérdések” alcímének 65. pontjában az „a megszerzési
+engedéllyel rendelkező személy” szövegrész helyébe az „a fegyvert megszerezni kívánó személy”
+szöveg lép.
+(2) Hatályát veszti a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet
+1. 1. §-a,
+2. 4. § (3) bekezdésében a „megszerzését és” szövegrész,
+3. 18. §-ában, 22. § d) pontjában, valamint 38. § (1) bekezdés g) pont gc) alpontjában a „külön” szövegrész,
+4. 21. § (1) bekezdésében, 22. §-ának nyitó szövegrészében, 25. § (1) bekezdésében, 28. § (1) bekezdésében, 28. §
+(2) bekezdésének nyitó szövegrészében, valamint 28. § (3) bekezdésében a „megszerzése és” szövegrész,
+5. 23. § (2) bekezdése,
+6. 23. § (4) bekezdésében a „megszerzése, illetve” szövegrész,
+7. 25. § (2) bekezdésében a „megszerzése,” szövegrész,
+8. 26. § (1) bekezdésének nyitó szövegrészében, 29. §-ában, valamint 10. számú melléklete „Fegyverforgalmazási
+vizsgakérdések” alcímének 4. pontjában a „megszerzésére és” szövegrész,
+9. 33. § (2) bekezdése,
+10. 34. § (1) bekezdés c) pontja,
+11. 37. § (7) bekezdésében, valamint 11. számú mellékletében a „megszerzéséhez és” szövegrész,
+12. 38. § (6) bekezdésében az „a megszerzési vagy” szövegrész,
+13. 51. § (1) bekezdésének nyitó szövegrészében az „e rendelet alapján kiadott” szövegrész,
+14. 10. számú melléklete „Fegyverforgalmazási vizsgakérdések” alcímének 1. pontjában az „és a megszerzési
+engedély érvényességének ideje” szövegrész, valamint
+15. 10. számú melléklete „Fegyverforgalmazási vizsgakérdések” alcímének 14. pontjában a „ , megszerzési
+engedélyét” szövegrész.
+30. § (1) A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklet III. rész
+„1. Személyi és jogosultságot igazoló okmányok” cím 1.76. pontja helyébe a következő rendelkezés lép:
+„1.76. házi lőszerszerelési engedély;”
+(2) A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklet III. rész
+„1. Személyi és jogosultságot igazoló okmányok” címe a következő 1.80. ponttal egészül ki:
+„1.80. vizsgabizonyítvány a házilagos lőszerszerelésre és -újratöltésre vonatkozó elméleti és gyakorlati vizsga
+eredményes letételének igazolására;”
+
+31. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba, és
+2012. május 2-án hatályát veszti.
+(2) 2012. május 1-jén lép hatályba
+a) az 1. §,
+b) a 2. § (3)–(4) bekezdése,
+c) a 3–11. §,
+d) a 13–16. §,
+e) a 17. § (1) bekezdése,
+f) a 18–21. §,
+g) a 22. § (2) bekezdése,
+h) a 23–28. §,
+i) a 29. § (1) bekezdés 1–6. és 8–28. pontja,
+j) a 29. § (2) bekezdés 2–15. pontja, valamint
+k) a 30. §.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 39/2012. (III. 12.) Korm. rendelethez
+„13. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+Sorszám: Kilépéskor, vámkezeléskor az illetékes alsó fokú vámszervnek kell
+leadni
+Tőszelvény Sorszám:
+................................................ IGAZOLÁS
+név Igazolom, hogy
+..............................................................................................................................(név)
+.............................................................................................................(útlevél szám)
+................................................ ....................................................(állampolgárság) Magyarország területére
+útl. szám ................ db .............. fajtájú .............................................................kategóriájú
+.............................................................................................................gyártó/típusú
+................................................ ..........................................................................................................gyártási számú
+Lőfegyver fajta, kategória
+...................................................................................................................kaliberjelű
+...................................................................... lőfegyvert és ..................db lőszert
+behozott.
+................................................
+Gyártó, típus Az igazolás alapján a lőfegyvert Magyarország területén 90 napig
+lehet tartani és vadászaton vagy sportrendezvényen való részvétel
+céljából használni.
+................................................
+Gyártási szám
+................................................ Kelt: ............................, ......... év ....................................................... hó ......... nap
+Kaliberjel
+P. H.
+........... db lőszer .....................................
+aláírás
+Kelt
+(Szigorú számadásos tömb. Az ügyfél példányát a kérelmezőnek kell
+átadni,
+................................................ tőszelvény a tömbben marad.)
+aláírás
+”
+
+2. melléklet a 39/2012. (III. 12.) Korm. rendelethez
+„14. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+Címer
+Sorszám:
+HL123456
+HÁZI LŐSZERSZERELÉSI ENGEDÉLY
+Családi és utónév:
+Születési hely, idő:
+Jogosult lőszerelem megszerzésére, tartására, házi lőszerszerelésre.
+Az engedély hátoldala:
+VISSZAVONÁSIG ÉRVÉNYES
+a személyazonosságot igazoló
+hatósági igazolvánnyal együtt.
+Engedélyező hatóság:
+Engedélyezés dátuma:
+”
+
+3. melléklet a 39/2012. (III. 12.) Korm. rendelethez
+„16. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+1. Feladó tagállam 2. Fogadó tagállam
+3. Feladó 4. Fogadó
+családi és utónév családi és utónév
+cím (a cég székhelye) cím (a cég székhelye)
+telefon fax telefon fax
+5. A fegyver/lőszer leírása melléklet igen (menny nem
+......)
+Sorsz. Kategória Mennyiség/
+fajta
+Gyártmány/
+modell
+Gyártó/típus
+Kaliberjel Egyéb
+ismertető
+jelek,
+UN szám
+CIP
+vizsg.
+Jel.
+Igen/nem
+Gyártási
+szám
+6. Kérelmező
+név/cég
+cím
+Kivitel, behozatal, átszállítás indoka:
+Tranzit ország(ok):
+dátum
+(aláítás/bélyegző)
+7. A fogadó tagállam illetékes hatóságának
+engedélyezési nyilatkozata
+érvényes -ig
+P. H.
+dátum
+(aláírás)
+
+A fegyver/lőszer leírása
+Gyártmány Egyéb CIP vizsg.
+Sorsz. Kategória Mennyiség/
+fajta
+modell
+Gyártó/típus
+Kaliberjel ismertető
+jelek,
+UN szám
+Jel.
+Igen/nem
+Gyártási
+szám
+Az igazolás .....................-ig érvényes, az engedélyezett lőfegyver, lőszer .............. esetben való behozatalára (kivitelére,
+átszállítására) jogosít.
+Az indulás várható időpontja: ........................... Az érkezés várható időpontja: .........................
+Kelt:.........., ....... év ........... hó ..... nap
+P. H.
+Le certificat est valable jusqu'au ........... pour l'importation (exportation, transit) de l'arme et de la munition autorisées
+........ reprise(s)
+Date:.............., ..... ans ........ mois ..... jour
+L. S.
+.......................................
+aláírás/signature”
+
+4. melléklet a 39/2012. (III. 12.) Korm. rendelethez
+„19. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+Iktatószám: /1–
+KÉRELEM
+Házilagos lőszerszerelésre és -újratöltésre jogosító engedély kiadásához
+Személyi azonosító:
+KÉRELMEZŐ SZEMÉLYI ADATAI
+Családi és utónév:
+.........................................................................................................................................................................................................................................
+Születési név:
+.........................................................................................................................................................................................................................................
+Születési hely, idő:
+.........................................................................................................................................................................................................................................
+Anyja születési neve:
+.........................................................................................................................................................................................................................................
+Személyazonosságot igazoló igazolvány típusa:
+.........................................................................................................................................................................................................................................
+száma:........................................................................
+Állampolgárság: ............................................................................ Ország: ..........................................................................................................
+Lakóhely:......................................................................................................................................................................................................................
+Lőszerelem tárolás helye:
+.........................................................................................................................................................................................................................................
+Lőfegyvertartási engedély száma:
+.........................................................................................................................................................................................................................................
+Kelt: .................................., ...........év..........................hó...............nap
+.......................................
+kérelmező aláírása
+”
+
+5. melléklet a 39/2012. (III. 12.) Korm. rendelethez
+„21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+Lőfegyverek hatástalanítása
+1. A Lőfegyver fődarabok hatástalanításának követelményei
+(1) A cső hatástalanítása:
+a) A töltényűrbe menetet kell vágni és egy – hosszú cső esetén legalább 30 mm, rövid cső esetén legalább 20 mm
+hosszú – menetes dugót kell behajtani, amelyet hegesztéssel kell rögzíteni úgy, hogy megakadályozza a lőszer
+töltényűrbe tölthetőségét.
+b) Revolver dobjában minden elválasztó falat az egyes töltényűrök között, legalább a kaliberrel megegyező
+szélességben el kell távolítani úgy, hogy csak a torkolat vagy a tűzfal felőli végén maradhat épen egy maximum
+a dob teljes hosszának 1/3-át kitevő elválasztó fal.
+c) Azon lőfegyvereknél, ahol a cső fedett vagy részben fedett, a csőbe két lyukat kell fúrni, célszerűen a fedett rész
+hosszában (a hátsó lyukat a csőfarhoz a lehető legközelebb, de a dugó előtt kell elhelyezni), legalább a kaliber
+felének megfelelő átmérővel. A furatok aljára önedző hegesztési pontot kell kialakítani.
+A két lyuk között, a csőfalat át kell vágni. A vágott rés szélessége a csőfurat átmérőjének függvényében:
+Csőfurat átmérő Résszélesség minimum
+13 mm-ig 4 mm
+13 mm felett 6 mm
+Félautomata pisztolyoknál a felhasított rész hossza legalább a csőhossz 3/4 része legyen.
+d) Azon lőfegyvereknél, ahol a cső fedetlen, a c) alpont szerint kell eljárni azzal a kiegészítéssel, hogy a felhasított rész
+hossza legalább a csőhossz 1/3 része legyen. A felhasítás helyett rövid fegyvereknél 3 db, hosszú fegyvereknél
+6 db, legalább 6 mm átmérőjű, egymás után elhelyezett furat is alkalmazható.
+e) Revolver esetében, ha a cső nem cserélhető, a tokon keresztül a csőbe egy legalább a kaliber felének megfelelő
+átmérőjű, de minimum 4,5 mm átmérőjű keresztcsapot kell elhelyezni úgy, hogy az a csövet a tokkal összefogja,
+a csap mindkét végére egy-egy önedző hegesztési pontot kell elhelyezni.
+f) A fegyvercsövön lévő adogatópályát le kell munkálni.
+(2) A tok hatástalanítása:
+a) Azoknál a fegyvereknél, ahol a cső a tokhoz mereven kapcsolódik, a tokot a csőfarnál két oldalról át kell fúrni,
+legalább 60 fokos kúpos furattal, amelynek átmérője alul a kaliber méretének felel meg. Az így elkészített furaton
+keresztül a csövet és tokot hegesztéssel kell egymáshoz rögzíteni.
+b) Félautomata pisztolyok esetében a vezetősínt mindkét oldalon legkevesebb 2/3 részben, a töltényfelvezető részt
+(adogatópályát) teljesen el kell távolítani a tokról.
+c) Revolver esetében a cső hatástalanításának az (1) bekezdés e) alpontja szerinti elvégzése egyben megfelel a tok
+(keret, váz) hatástalanításának is.
+(3) A zárszerkezet hatástalanítása:
+a) A tűzfal (lökőlap, zárhomlokfal) felületét (a billenő-csövű fegyverek, és a revolverek kivételével) 45 fokban,
+lehetőleg teljes mértékben, de legalább az ütőszeg furat felső széléig le kell munkálni. Az ütőszeget el kell
+távolítani, vagy az ütőszegcsúcsot le kell vágni. Az ütőszeg-furatot önedző hegesztéssel ki kell tölteni.
+b) Billenő-csövű fegyver tűzfalának távolabb kell kerülnie a töltényfenéktől. A tűzfal anyagának eltávolítása
+120 fokos szögben történjen, kivéve, ha a csőfar ezt nem teszi lehetővé, ilyenkor a kialakítható legnagyobb szöget
+kell elérni.
+c) Billenő-csövű fegyverek, illetve revolverek esetén az ütőszeg-furatot legalább 5 mm átmérőre fel kell fúrni, és
+önedző hegesztéssel ki kell tölteni.
+d) A zárak reteszelő felületeit oly mértékben le kell munkálni, hogy az ne tegye lehetővé a reteszelést. Billenő csövű
+fegyvereknél a reteszek (reteszlapok, reteszcsapok) reteszelő felületét legalább 2/3 részben le kell munkálni.
+e) Gázelvételes zárszerkezetű automata fegyvereknél a gázdugattyút és a gázrendszert vágással vagy hegesztéssel
+működésre alkalmatlanná kell tenni.
+f) Tömegzáras zárszerkezetű automata fegyvereknél a zártömeget lemunkálással legalább 50%-kal le kell
+csökkenteni, vagy amennyiben ez nem lehetséges, a zártestet egy zárat imitáló acéldarabbal kell helyettesíteni.
+
+2. Kiegészítő rendelkezések
+(1) Minden esetben, ahol hegesztés van előírva és azt nem fémes, vagy nem hegeszthető ötvözetből készült alkotóelem
+miatt nem lehet elvégezni, helyettesítő technológiát kell kidolgozni. A tervezett helyettesítő technológiáról
+technológiai leírást kell készíteni, azt a vizsgálónak be kell mutatni. A hatástalanítást csak a Vizsgáló által jóváhagyott
+helyettesítő technológiával lehet elvégezni.
+(2) Amennyiben fedett részben helyezkedik el, a kakast, az ütőcsapot, az ütőszeget, a tűzváltót normál működésre
+alkalmatlanná kell tenni. Automata fegyverek esetén az elsütőszerkezet alkatrészeit egymáshoz kell hegeszteni.
+(3) A csövet és a tokot – amennyiben az lehetséges – egymáshoz elválaszthatatlanul kell rögzíteni.
+(4) Hevederes adogatású fegyvereknél a hevedertovábbító mechanizmust hegesztéssel kell működésképtelenné tenni.
+(5) Speciális hatástalanítási eljárást kell kidolgozni arra a tűzfegyverre, amelyet – a fegyverszerkezet működésének
+szemléltetésére alkalmas – metszetté kívánnak átalakítani. Az átalakítás tervezett módjáról előzetesen technológiai
+leírást kell készíteni, azt a Vizsgálónak be kell mutatni. Az átalakítást csak a Vizsgáló által jóváhagyott helyettesítő
+technológiával lehet elvégezni.
+(6) Hatástalanított lőfegyvert a vizsgálatok végzésére kijelölt szervezetnél vizsgálatra kell bemutatni az alábbiak szerint:
+a)
+A hatástalanított fődarabokat el kell látni a hatástalanítást végző nevével, bejegyzett védjegyével, vagy a
+Vizsgálónál regisztrált azonosító jelével.
+b)
+A hatástalanítás valamennyi technológiai részletének maradéktalan betartásáért a fegyver hatástalanítását végző
+személy, szervezet tartozik felelősséggel.
+c)
+A fegyverhez annak vizsgálatra bemutatásakor csatolni kell az átalakítást végző nyilatkozatát arról, hogy az
+átalakítás módja maradéktalanul megfelel a fenti követelményrendszernek.
+d)
+Amennyiben a fegyver átalakításának módja a Vizsgáló által jóváhagyott helyettesítő technológiával történik,
+csatolni kell az átalakítás során használt technológia leírását is.
+e)
+A nyilatkozatot és a technológiai leírást a Vizsgáló megőrzi, csak annak birtokában kerülhet sor a hatástalanított
+fegyver egyedi vizsgálatára.
+f)
+Ha a fődarabokon elvégzett hatástalanítási műveletek a külsőleg látható jegyek alapján megfelelnek az
+előírásnak, illetve a jóváhagyott helyettesítő technológiának, akkor a Vizsgáló a hatástalanítás próbajelét
+a fődarabokra elhelyezi és kiállítja a fegyver hatástalanított állapotát igazoló tanúsítványt.
+g)
+A vizsgálatot követően a hatástalanítást végző köteles hegesztéssel megszüntetni a fegyver roncsolásmentes
+szétszedhetőségét.”
+6. melléklet a 39/2012. (III. 12.) Korm. rendelethez
+„22. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+Színházi fegyverek előállítása
+Színházi fegyvert tűzfegyverből olyan módon kell kialakítani, hogy az a fegyverhez eredetileg használható lőszer
+befogadására ne legyen alkalmas, a csőben és a csőtorkolatban elhelyezett szűkítések megakadályozzák űrméretes
+lövedékek kilövését. A gyártási technológia biztosítsa, hogy a fegyverből a lőszer betöltését akadályozó gátat, vagy
+a csőtorkolatnál elhelyezett, űrméretes lövedék kilövését akadályozó szűkítést roncsolásmentes módon ne lehessen
+eltávolítani. Revolvereknél valamennyi töltényűrbe és a csőbe roncsolásmentes módon nem eltávolítható szűkítést
+kell szerelni.
+Cserélhető csövű lőfegyverekből készült színházi fegyvereknél a fegyver tokrészét – vagy félautomata pisztolyok
+esetén a szánt – úgy kell módosítani, hogy abba a fegyverhez való eredeti tűzfegyver-cső roncsolásmentes módon ne
+legyen beszerelhető.
+A csőben található egyéb szűkítéseket kicsavarodás, kiesés ellen ragasztással, forrasszal, illetve csappal rögzíteni kell.”
+
+7. melléklet a 39/2012. (III. 12.) Korm. rendelethez
+„23. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+Sorszám:
+VIZSGABIZONYÍTVÁNY
+Igazolom, hogy .................................................... (név) ............................................. (szül. hely és idő) ....................................... (lakcím)
+a megyei (budapesti) rendőr-főkapitányság előtt a házilagos lőszerszerelésre és -újratöltésre vonatkozó elméleti és
+gyakorlati vizsgát eredményesen letette.
+...............................20 .............
+.........................................
+bizottság elnöke
+P. H.
+................................... ...................................
+bizottsági tag bizottsági tag
+”
+
+V.
+A Kor mány tag ja i nak ren de le tei
