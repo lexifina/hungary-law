@@ -22,6 +22,8 @@
 
 2. a fák száma,
 
-3. faj- és fajtamegoszlás,
+3. sor- és tőtávolság,
 
-4. termőképesség.
+4. faj- és fajtamegoszlás,
+
+5. termőképesség.
