@@ -1,0 +1,1 @@
+## „(4) Filmgyártási célra „A” kategóriába tartozó tűzfegyver tartása is engedélyezhető, ha a kérelmező rendelkezik a lőfegyver vagy színházi fegyver gyártására, illetve javítására jogosító engedéllyel, valamint teljesíti az „A” kategóriába tartozó tűzfegyverek és lőszereik tárolásának e rendeletben meghatározott feltételeit.”
