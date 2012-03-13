@@ -4,9 +4,9 @@ a) az engedély birtokosának természetes személyazonosító adatait, lakóhel
 
 b) a tűzfegyver azonosító adatait (típusa, gyártója, gyártási száma, kaliberjele, kategóriájának betűjele és száma);
 
-c)[^95] az engedély hatályosságát;
+c)[^101] az engedély hatályosságát;
 
-d)[^96] az engedélyező hatóság bejegyzéseit;
+d)[^102] az engedélyező hatóság bejegyzéseit;
 
 e) a meglátogatott tagállamok hatóságainak engedélyezési bejegyzéseire szolgáló rovatot;
 
@@ -26,12 +26,12 @@ i) a kiállító hatóság megnevezését, bélyegzőlenyomatát;
 
 j) az engedély kiállításának keltét.
 
-(2)[^97] Az európai lőfegyvertartási engedély meglétét igazoló hatósági igazolvány öt évig hatályos, hatályossága kérelemre alkalmanként további öt évre meghosszabbítható, ha az engedély kiadására vonatkozó feltételek – azok ismételt vizsgálata alapján – biztosítottak.
+(2)[^103] Az európai lőfegyvertartási engedély meglétét igazoló hatósági igazolvány öt évig hatályos, hatályossága kérelemre alkalmanként további öt évre meghosszabbítható, ha az engedély kiadására vonatkozó feltételek – azok ismételt vizsgálata alapján – biztosítottak.
 
 (3) Az európai lőfegyvertartási engedély nem ruházható át, azt az engedéllyel rendelkező személy a tűzfegyver birtoklása során köteles magánál tartani.
 
 (4) Az európai lőfegyvertartási engedélybe bejegyzett tűzfegyver birtoklásában, jellemzőiben bekövetkezett változásokat, valamint a tűzfegyver elvesztését vagy ellopását az engedélyen fel kell tüntetni.
 
-[^95]: Az 51. § (1) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^96]: Az 51. § (1) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^97]: Az 51. § (2) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^101]: Az 51. § (1) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^102]: Az 51. § (1) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^103]: Az 51. § (2) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
