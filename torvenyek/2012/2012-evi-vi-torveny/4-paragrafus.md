@@ -1,0 +1,3 @@
+4. § A Törvény 5. §-a helyébe az alábbi szöveg lép:
+
+„5. § Ez a törvény az ültetvényekre vonatkozó európai statisztikákról, valamint a 357/79/EGK tanácsi rendelet és a 2001/109/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló 2011. december 13-i 1337/2011/EU rendeletnek való megfelelést szolgálja.”
