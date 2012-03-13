@@ -1,1 +1,3 @@
-20. § Hatályát veszti az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatott köztisztviselőkről szóló 209/2004. (VII. 9.) Korm. rendelet.
+20. §[^1]
+
+[^1]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
