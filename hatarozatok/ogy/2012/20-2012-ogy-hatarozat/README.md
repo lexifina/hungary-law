@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-20-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-03-12 | 2012-20-30-41.1 | 20/2012. (III. 14.) OGY határozat |
+| 2012-03-13 | 2012-20-30-41.2 | 2010: CXXX. törvény |
