@@ -1,0 +1,1 @@
+## 22. § A 2011. augusztus 1-jétől 2012. július 31-ig terjedő évadra a 6. melléklet szerinti adattartalommal benyújtott művészeti évadbeszámolóban teljesített adatszolgáltatás során a nyilvántartásba vett színházak, bábszínházak, balett- vagy táncegyüttesek vendég- és tájelőadásainak fizetőnézőszámát a létrehozó és a fogadó előadó-művészeti szervezet is elszámolhatja.
