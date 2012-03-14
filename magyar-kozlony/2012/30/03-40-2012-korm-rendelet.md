@@ -1,0 +1,92 @@
+# A Kormány 40/2012. (III. 14.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 30. szám, 2012. március 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a526f6ef87d49409ddb0d32359b7afdcd003cc88/dokumentumok/af91378c497cdb8128c1e9c42acb664313f106ef/letoltes)
+
+---
+
+A Kormány 40/2012. (III. 14.) Korm. rendelete
+a felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó
+részletes szabályokról, továbbá a felszámolás számviteli feladatairól szóló
+225/2000. (XII. 19.) Korm. rendelet módosításáról szóló
+237/2009. (X. 20.) Korm. rendelet módosításáról
+A Kormány a csődeljárásról és felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (1) bekezdés b) pontjában foglalt
+felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében foglalt feladatkörében eljárva a következőket rendeli el:
+1. § (1) A felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó részletes szabályokról,
+továbbá a felszámolás számviteli feladatairól szóló 225/2000. (XII. 19.) Korm. rendelet módosításáról szóló
+237/2009. (X. 20.) Korm. rendelet (a továbbiakban: R.) 2. § (3)–(5) bekezdése helyébe a következő rendelkezés lép:
+„(3) A pályázati felhívásban – az értékesítésre kerülő vagyon megjelölésekor – ingatlan esetén fel kell sorolni az
+ingatlan-nyilvántartásiadatok közül a tulajdoni lap I. részében feltüntetett adatokat és utalni kell arra, hogy a tulajdoni
+lap III. részében milyen jogok vannak bejegyezve, milyen tények vannak feljegyezve. Tájékoztatást kell adni az
+ingatlanra jellemző egyéb sajátosságokról is (így különösen: ipari célú ingatlan, mezőgazdasági célú ingatlan,
+üzlethelyiség, lakóépület esetében az a tény, hogy lakott-e). Az egyéb vagyoni elemek esetén fel kell tüntetni a tárgyi
+eszköz (így különösen: műszaki berendezés, gép, jármű, egyéb berendezés, felszerelés, tenyészállatok), a készlet
+(így különösen: anyagok, félkész termékek, késztermékek, állatállomány), az egyéb vagyoni elemek (így különösen:
+vagyoni értékű jogok, követelések, részesedések, értékpapírok) jellegét és főbb adatait, jellemzőit.
+(4) A pályázati felhívásban – az értékesítési feltételek között – meg kell határozni az egyes vagyoni elemek
+(így különösen: tárgyi eszközök, készletek) irányárát (becsértékét), valamint a vételár megfizetésének módjait és
+határidejét, az ajánlati biztosíték kikötését és annak formáját, összegét, továbbá a szerződéskötésre meghatározott
+határidőt is.
+(5) Az ajánlati biztosíték összegét a következők figyelembe vételével kell megállapítani:
+a) 10 millió forintnál alacsonyabb összegű irányár (becsérték) esetén annak legfeljebb 5%-a,
+b) 10 millió forint vagy annál magasabb összegű irányár (becsérték) esetén 10 millió forint irányár (becsérték) után
+annak legfeljebb 5%-a, az afeletti összeg után pedig annak legfeljebb 3%-a,
+c) 1 Mrd forint vagy annál magasabb összegű irányár (becsérték) esetén az 1 Mrd forint becsérték után annak
+legfeljebb 3%-a, az afeletti összeg után pedig annak legfeljebb 1%-a.”
+(2) Az R. 2. §-a a következő (6)–(8) bekezdéssel egészül ki:
+„(6) Több vagyontárgy együttes értékesítése esetén az ajánlati biztosíték mértéke a vagyontárgyak együttes irányára
+(becsértéke) alapján állapítandó meg.
+(7) Ha a pályázati eljárás eredménytelen, az ajánlati biztosíték teljes összegét az eredménytelenség megállapításától
+számított 8 munkanapon belül valamennyi pályázó részére vissza kell utalni. Ha a pályázati eljárás eredményes,
+az ajánlati biztosítékot a nyertes pályázónál a vételárba be kell számítani, a többi pályázónak pedig az ajánlati
+biztosíték teljes összegét az eredményhirdetés napjától – a Cstv. 49/A. § (4) bekezdése szerinti ártárgyalás esetén az
+ártárgyalás eredményhirdetése napjától – számított 8 munkanapon belül vissza kell utalni. Ha azonban
+a) a szerződés a nyertes pályázó érdekkörében felmerülő okból nem jön létre, vagy a nyertes pályázó a vételárat
+az előírt határidőben nem fizeti meg, vagy
+b) a Cstv. 49/A. § (4) bekezdés szerinti ajánlatot tévő pályázó a felszámoló által elrendelt ártárgyaláson neki felróható
+okból nem vesz részt, vagy a már megtett ajánlatától visszalép,
+az ajánlati biztosítékot elveszíti, a felszámoló ezt az összeget az értékesítési bevétel részeként számolja el.
+(8) Az elővásárlási jog gyakorlását [Cstv. 49/C. § (3) bekezdés] nem lehet az ajánlati biztosíték megfizetésétől függővé
+tenni.”
+
+2. § (1) Az R. 4. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kedvezőbb árbevétel és a foglalkoztatási szempontok érdekében a felszámolónak a telephelyet és annak
+berendezéseit együtt, önálló termelő egységhez kapcsolódó eszközönként vagy a cég vagyontárgyai egészét kell
+értékesítésre meghirdetnie, nyilvános pályázat vagy árverés útján. A pályázati felhívásban, az árverési hirdetményben,
+továbbá a részletes pályázati feltételeket tartalmazó dokumentációban fel kell tüntetni, hogy az önálló termelő
+egységként vagy a cég vagyontárgyai egészeként történő értékesítés sikertelensége esetén az eljárást a felszámoló
+eredménytelennek nyilvánítja, vagy pedig az értékesítési eljárást mely vagyoni elemekre nézve folytatja tovább.
+Ez utóbbi esetben a külön is értékesíthető vagyontárgyakat és azok irányárát (becsértékét) külön fel kell tüntetni.
+A vagyontárgyak becsértékét akkor is meg kell jelölni, ha azokon más-más jogosultnak van zálogjoga vagy több
+jogosult számára szolgál óvadékul.
+(2) A hitelezői választmány, hitelezői képviselő – az említettek hiányában pedig a Cstv. 28. § (2) bekezdés f) pontja
+szerint a felszámolást elrendelő végzés közzétételétől, illetve a Cstv. 37. § (2) bekezdése szerint a követelés esedékessé
+válásától számított 40 napon belül bejelentkezett hitelezők követelésarányosan számított többsége – kérheti, hogy
+az irányár (becsérték) 70%-át meghaladó összegű ajánlat legyen a pályázati felhívásban elfogadhatónak tartott
+legalacsonyabb összegű ellenértékként (minimálárként) az eredményes értékesítési eljárás feltétele.
+Eredménytelennek kell nyilvánítani a pályázati értékesítést, ha a pályázati felhívásban meghatározott feltételeknek
+megfelelő ajánlatot nem adtak be. Az értékesítés eredménytelenségének okát indoklással, a jegyzőkönyvben
+rögzíteni kell.”
+(2) Az R. 4. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A hitelezői választmány, hitelezői képviselő – az említettek hiányában pedig a Cstv. 28. § (2) bekezdés f) pontja
+szerint a felszámolást elrendelő végzés közzétételétől, illetve a Cstv. 37. § (2) bekezdése szerint a követelés esedékessé
+válásától számított 40 napon belül bejelentkezett hitelezők követelésarányosan számított többsége – kérheti,
+hogy az irányár (becsérték) 50%-át meghaladó összegű ajánlat legyen a megismételt pályázati felhívásban –
+minimálárként – az eredményes értékesítési eljárás feltétele.”
+(3) Az R. 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az átruházható értékpapírt a felszámoló befektetési szolgáltatások nyújtására jogosult befektetési vállalkozás
+vagy hitelintézet bevonása útján értékesíti, erre vonatkozóan a felszámolónak értékesítési limitárat, illetve értékesítési
+időtartamot kell meghatároznia. Ebben az esetben a nyilvános értékesítési módtól eltérő, de az átlátható és
+ellenőrizhető értékesítést biztosító szabályok is meghatározhatók. A hitelezői választmány, hitelezői képviselő
+– az említettek hiányában pedig a Cstv. 28. § (2) bekezdés f) pontja szerint a felszámolást elrendelő végzés
+közzétételétől, illetve a Cstv. 37. § (2) bekezdése szerint a követelés esedékessé válásától számított 40 napon belül
+bejelentkezett hitelezők követelésarányosan számított többsége – kérheti, hogy a felszámoló a limitárat, illetve
+az értékesítési időtartamot az ő hozzájárulásukkal állapítsa meg.”
+3. § Az R. 7. §-a következő (1a) bekezdéssel egészül ki:
+„(1a) E rendeletnek a felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó részletes
+szabályokról, továbbá a felszámolás számviteli feladatairól szóló 225/2000. (XII. 19.) Korm. rendelet módosításáról
+szóló 237/2009. (X. 20.) Korm. rendelet módosításáról szóló 40/2012. (III. 14.) Korm. rendelettel megállapított
+rendelkezéseit az annak hatálybalépésekor már folyamatban lévő felszámolási eljárásokban akkor kell alkalmazni,
+ha még nem került sor a pályázati, illetve az árverési hirdetmény közzétételére.”
+4. § Ez a rendelet a kihirdetését követő 30. napon lép hatályba, és a hatályba lépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
