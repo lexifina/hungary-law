@@ -34,7 +34,7 @@ f) a fix és mobil telepítésű ionizáló sugárzást létrehozó, radioaktív
 
 ## tekintetében kell alkalmazni.
 
-(3) A nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék szállítása tekintetében a rendelet hatálya minden szállítási módozatra kiterjed, azzal, hogy a légi szállítás tekintetében a 3. melléklet 1–5., 20–22. és 66–69. pontját nem kell alkalmazni.
+(3)[^1] A nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék szállítása tekintetében a rendelet hatálya minden szállítási módozatra kiterjed, azzal, hogy a légi, tengeri, valamint belvízi szállítás tekintetében a 3. melléklet 1–5. pontját, 13–30. pontját, 45–69. pontját, továbbá a légi és a tengeri szállítás tekintetében a 70–73. pontját nem kell alkalmazni.
 
 (4) A rendelet hatálya nem terjed ki:
 
@@ -43,3 +43,5 @@ a) az atomenergiáról szóló 1996. évi CXVI. törvény hatálya alá nem tart
 b) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendeletben meghatározott mentességi aktivitás koncentráció vagy mentességi aktivitás szintje alatti radioaktív anyagokra; továbbá
 
 c) a Magyar Honvédség birtokában lévő radioaktív sugárforrásra.
+
+[^1]: Az 1. § (3) bekezdése a 37/2012. (III. 9.) Korm. rendelet 13. §-ával megállapított szöveg.

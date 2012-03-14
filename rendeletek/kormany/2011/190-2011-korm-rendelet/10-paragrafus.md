@@ -38,6 +38,11 @@ d) az érzékelőket ne lehessen kijátszani.
 
 (4) A videó megfigyelő és kiértékelő rendszer alkalmazása esetén a biztonsági kamerák működéséhez a kötelezettnek biztosítania kell a megfelelő fényviszonyokat és a megfelelő észlelési területet.
 
-(5) A beléptető rendszert kell kialakítani olyan módon, hogy az lehetővé tegye a belépésre jogosult személyek belépését, detektálja és késleltesse a belépésre nem jogosult személyek be- és kilépését, továbbá jelezze a bevitelre nem engedélyezett anyagok és eszközök be- és kivitelét.
+(5)[^7] Biztosítani kell a belépési jogosultság ellenőrzését olyan módon, hogy az lehetővé tegye a belépésre jogosult személyek belépését, detektálja és késleltesse a belépésre nem jogosult személyek be- és kilépését, továbbá jelezze a bevitelre nem engedélyezett anyagok és eszközök be- és kivitelét.
 
 (6) A jelző- és megfigyelő rendszerekről, illetve a belső elhárító erőktől érkező információk fogadására, azok feldolgozására, értékelésére és archiválására, valamint az indokolt válaszintézkedések kezdeményezésére alkalmas őrségközpontot kell kialakítani a kötelezettnek a 3. mellékletben meghatározott esetben olyan módon, hogy az biztosítsa az oda beosztott belső elhárító erők fizikai védelmi szempontból biztonságos tartózkodását.
+
+(7)[^8] A zónahatárokon található ellenőrző áteresztő pontokat úgy kell kialakítani, hogy ott, az adott fizikai védelmi szintnek megfelelően, jelezhető legyen a bevitelre nem engedélyezett anyagok, eszközök be- és kivitele.
+
+[^7]: A 10. § (5) bekezdése a 37/2012. (III. 9.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^8]: A 10. § (7) bekezdését a 37/2012. (III. 9.) Korm. rendelet 16. § (2) bekezdése iktatta be.
