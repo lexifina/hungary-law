@@ -1,0 +1,9 @@
+1. Az Országgyűlés elfogadja a Kolontár melletti vörösiszap-tározó átszakadása miatt bekövetkezett környezeti katasztrófával kapcsolatos felelősség feltárására és a hasonló katasztrófák jövőbeni megakadályozására létrehozott vizsgálóbizottság tevékenységéről szóló jelentést.
+
+2. Az Országgyűlés felkéri a MAL Zrt. tulajdonosait és menedzsmentjét, hogy a jövőben folytasson etikus, elővigyázatos, hozzáértő és felelősségteljes magatartást. Az Országgyűlés egyetért a vizsgálóbizottság végkövetkeztetésével, mely szerint az ipari katasztrófa elsődlegesen és döntően a MAL Zrt. ipari tevékenységével összefüggésben az ő felelősségi körében következett be. A felelősségben, ha nem is közvetlenül, de osztoznak a MAL Zrt. létesítését engedélyező hatóságok, továbbá az ellentmondásos szabályozást elfogadó jogalkotók, és a hatóságok működtetéséért felelős kormányok.
+
+3. Az Országgyűlés felkéri a Kormányt, hogy a jelentésben megfogalmazott javaslatokat vizsgálja meg és tegyen intézkedéseket a szükséges jogszabályok módosítására, megalkotására, a hatósági engedélyezés színvonalának emelése és a működés fokozott ellenőrzése érdekében. Kezdeményezze a hulladékok és a technológiai eljárást képező anyagok egyértelmű megkülönböztetését, a veszélyes hulladékká minősítés folyamatának felülvizsgálatát és pontosítását. Kezdeményezze a károkért való pénzügyi felelősség szabályozását, beleértve a magyar gazdaság versenyképességét is figyelembe vevő kötelező felelősségbiztosítást, és a pénzügyi biztosítékadásra vonatkozó előírásokat.
+
+4. Az Országgyűlés kéri a társadalom széleskörű együttműködését, hogy az elszenvedett ipari katasztrófához hasonló esemény a jövőben megelőzhető és elkerülhető legyen. Ennek megvalósítása érdekében számít a gazdasági társaságok, a civil szervezetek és a lakosság aktív és öntevékeny együttműködésére.
+
+5. Ez a határozat közzététele napján lép hatályba.
