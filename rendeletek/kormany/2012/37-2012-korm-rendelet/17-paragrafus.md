@@ -1,0 +1,1 @@
+## „(7) A zónahatárokon található ellenőrző áteresztő pontokat úgy kell kialakítani, hogy ott, az adott fizikai védelmi szintnek megfelelően, jelezhető legyen a bevitelre nem engedélyezett anyagok, eszközök be- és kivitele.”

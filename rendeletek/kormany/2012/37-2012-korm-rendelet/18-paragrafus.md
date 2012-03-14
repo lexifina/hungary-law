@@ -1,0 +1,5 @@
+## 17. § A fizikai védelemről szóló rendelet 29. §-a következő (3) és (4) bekezdéssel egészül ki:
+
+## „(3) Hordozható eszközökben alkalmazott 2. és 3. kategóriába tartozó zárt radioaktív sugárforrások egyidejűleg két, mobil kommunikációs eszközzel ellátott személy jelenlétében alkalmazhatók. Az elrettentést sugárvédelmi lezárással és figyelmeztető táblák kihelyezésével, a detektálást személyes megfigyeléssel és sugárzásjelző lámpák elhelyezésével, továbbá jogtalan eltulajdonítás esetén a rendőrség riasztásával, a késleltetést elsősorban az eszköz helyszínen található rögzített tárgyhoz vagy ha ez nem lehetséges, egy 30 kilogrammnál nehezebb mobil súlyhoz való rögzítésével kell megvalósítani.
+
+## (4) Hordozható eszközökben alkalmazott, 4. és 5. kategóriába tartozó zárt radioaktív sugárforrások egyidejűleg két, mobil kommunikációs eszközzel ellátott személy jelenlétében alkalmazhatók. Az alkalmazás során az elrettentést figyelmeztető táblák kihelyezésével, a detektálást személyes megfigyeléssel, továbbá jogtalan eltulajdonítás esetén a rendőrség riasztásával kell megvalósítani.”
