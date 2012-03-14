@@ -1,4 +1,4 @@
-5/A. §[^3] (1) A nyilvántartásba vett színházak, bábszínházak, balett- vagy táncegyüttesek tájelőadásainak fizetőnéző számát a besorolási adatok megadásánál a létrehozó és a fogadó előadó-művészeti szervezet is elszámolhatja, azonban a fizető nézőszámnak a Tv. 16. § (4) bekezdésében meghatározott súlyozása kizárólag az előadást létrehozó szervezet esetében alkalmazható.
+5/A. §[^4] (1) A nyilvántartásba vett színházak, bábszínházak, balett- vagy táncegyüttesek tájelőadásainak fizetőnéző számát a besorolási adatok megadásánál a létrehozó és a fogadó előadó-művészeti szervezet is elszámolhatja, azonban a fizető nézőszámnak a Tv. 16. § (4) bekezdésében meghatározott súlyozása kizárólag az előadást létrehozó szervezet esetében alkalmazható.
 
 (2) A székhely településen játszott előadások fizetőnézőinek száma – a produkciós színház kivételével – a szervezet létesítő okirata szerinti székhelyen (játszóhelyen) tartott előadások fizetőnézőinek száma (ideértve a székhellyel azonos helyen lévő telephelyen tartott előadások fizetőnézőinek számát is), valamint a létesítő okiratban szereplő székhelyen (székhellyel azonos helyen lévő telephelyen) kialakított alkalmi játszóhelyen realizált fizetőnézők száma.
 
@@ -20,4 +20,4 @@
 
 (11) Az előadásszám, hangversenyszám és a fizető nézőszám meghatározása során a külföldön tartott előadások, hangversenyek száma és az ehhez kapcsolódó fizetőnézők száma abban az esetben vehető figyelembe, ha az előadó-művészeti szervezet létesítő okirata alapján a külföldi előadások, hangversenyek tartása alapfeladatnak (közhasznú tevékenységnek) minősül.
 
-[^3]: Az 5/A. §-t a 3/2010. (I. 14.) OKM rendelet 3. §-a iktatta be.
+[^4]: Az 5/A. §-t a 3/2010. (I. 14.) OKM rendelet 3. §-a iktatta be.

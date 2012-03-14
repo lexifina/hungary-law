@@ -1,6 +1,8 @@
-## Értelmező rendelkezések[^7]
+## 12. §[^8]
 
-## 12/A. §[^8] E rendelet alkalmazásában:
+## Értelmező rendelkezések[^9]
+
+## 12/A. §[^10] E rendelet alkalmazásában:
 
 a) fogadott előadás: a prózai, zenés, táncos színpadi művek személyes előadóművészi teljesítménnyel, közönség jelenlétében történő nyilvános bemutatása, nem tekinthető fogadott előadásnak különösen a komoly- vagy könnyűzenei hangverseny, lemezbemutató, vetélkedő, show- és beszélgető műsor, divatbemutató, versenytánc-program, iskolai- és műkedvelő bemutatóvizsga,
 
@@ -16,5 +18,6 @@ f) társasági adókedvezmény igénybevételére jogosító támogatás: az ad�
 
 g) tájelőadás: az előadó-művészeti szervezet alapító okiratában megjelölt székhely településen kívül játszott előadás.
 
-[^7]: A 12/A. §-t megelőző alcímet a 3/2010. (I. 14.) OKM rendelet 7. §-a iktatta be.
-[^8]: A 12/A. §-t a 3/2010. (I. 14.) OKM rendelet 7. §-a iktatta be.
+[^8]: A 12. §-t a 14/2012. (III. 6.) NEFMI rendelet 24. § (1) bekezdése hatályon kívül helyezte.
+[^9]: A 12/A. §-t megelőző alcímet a 3/2010. (I. 14.) OKM rendelet 7. §-a iktatta be.
+[^10]: A 12/A. §-t a 3/2010. (I. 14.) OKM rendelet 7. §-a iktatta be.

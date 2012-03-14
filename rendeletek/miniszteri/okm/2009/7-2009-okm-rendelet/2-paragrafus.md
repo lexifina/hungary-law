@@ -1,4 +1,4 @@
-2. §[^1] (1) A nyilvántartásba vételi és besorolási kérelem adatai az alábbi okiratokkal igazolhatók:
+2. §[^2] (1) A nyilvántartásba vételi és besorolási kérelem adatai az alábbi okiratokkal igazolhatók:
 
 a) az előadó-művészeti szervezet módosításokkal egységes szerkezetbe foglalt, hatályos létesítő okirata (alapító okirat, társasági szerződés, alapszabály),
 
@@ -14,4 +14,4 @@ d) a gazdasági társaságokról szóló 2006. évi IV. törvény hatálya alá 
 
 (4) A Tv. 10. §-ának (1)–(6) bekezdésében, valamint a Tv. 11. §-ának (1)–(2) bekezdésében megjelölt előadó- művészeti szervezet fenntartójának, ennek hiányában képviselőjének a besorolási adatokon túl meg kell küldenie a hatóság részére az önkormányzati költségvetési rendeletnek a szervezet fenntartói támogatására vonatkozó részének másolatát, továbbá a közhasznúvá minősített szervezetként működő előadó-művészeti szervezet esetén a Tv. szerinti központi költségvetési támogatás igénybevételének időtartama alatt hatályos, önkormányzattal kötött közszolgáltatási szerződés fenntartó, illetve támogató önkormányzat által hitelesített másolatát is.
 
-[^1]: A 2. § a 3/2010. (I. 14.) OKM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 3/2010. (I. 14.) OKM rendelet 1. §-ával megállapított szöveg.
