@@ -1,3 +1,5 @@
+## 11. §[^8]
+
 ## 6. Záró rendelkezések
 
 12. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
@@ -7,3 +9,5 @@
 (3) A 9. § (1) bekezdése és a 2. melléklet 2013. május 1-jén lép hatályba.
 
 (4) Ez a rendelet 2013. május 2-án hatályát veszti.
+
+[^8]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
