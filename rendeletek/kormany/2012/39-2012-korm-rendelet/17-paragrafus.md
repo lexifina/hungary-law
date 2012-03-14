@@ -1,8 +1,9 @@
-## 13–16. §[^5]
+## 13–16. §[^9]
 
-17. § (1)[^6]
+17. § (1)[^10]
 
-(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 37. §-a következő (8)–(10) bekezdéssel egészül ki:
+(2)[^11]
 
-[^5]: A 13–16. § a 31. § (2) bekezdés d) pontja alapján 2012. május 1-jén lép hatályba.
-[^6]: A 17. § (1) bekezdése a 31. § (2) bekezdés e) pontja alapján 2012. május 1-jén lép hatályba.
+[^9]: A 13–16. § a 31. § (2) bekezdés d) pontja alapján 2012. május 1-jén lép hatályba.
+[^10]: A 17. § (1) bekezdése a 31. § (2) bekezdés e) pontja alapján 2012. május 1-jén lép hatályba.
+[^11]: A 17. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

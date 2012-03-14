@@ -1,5 +1,0 @@
-## „(8) Filmgyártási célú lőfegyver olyan, a filmforgatásban szerződés alapján közvetlenül közreműködő személynek engedhető át, aki részt vett a filmgyártási célú lőfegyvert tartó szervezet által végzett biztonsági oktatáson, ezt aláírásával igazolta és az oktatottak elsajátításáról a lőfegyvert átengedő személy meggyőződött. A biztonsági oktatáson való részvételt igazoló dokumentumot a filmgyártási célú lőfegyver tartására jogosult szervezet az engedély hatályosságának tartama alatt mindvégig köteles megőrizni. A fegyver átengedéséért, visszavételéért és biztonságos műszaki állapotáért a filmgyártási célú lőfegyvert tartó szervezet gyártásra jogosító hatósági engedéllyel rendelkező tagja felel.
-
-## (9) Kizárólag olyan filmgyártási célú lőfegyver engedhető át, amelynek csövébe a hozzá való lőszer betöltését akadályozó gátat vagy a fegyver űrméretének megfelelő lövedék kilövését megakadályozó szűkítést szereltek.
-
-## (10) Filmgyártási célú lőfegyver filmforgatás helyszínén viselhető és használható.”

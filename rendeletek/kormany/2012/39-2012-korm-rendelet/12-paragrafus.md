@@ -1,11 +1,9 @@
-## 3–11. §[^4]
+## 3–11. §[^6]
 
-12. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 28. § (2) bekezdése a következő h) ponttal egészül ki:
+12. § (1)[^7]
 
-(Lőfegyver, lőszer megszerzése és tartása az alábbi szervezeteknek engedélyezhető:)
+(2)[^8]
 
-## „h) filmgyártási célra az a gazdálkodó szervezet, amelynek – illetve közvetlen jogelődjének – tevékenységi köre legalább tíz éve kiterjed a filmes fegyvertechnikai és pirotechnikai szolgáltatás nyújtására és a lőfegyver, illetve színházi fegyver gyártására vagy javítására jogosító engedéllyel rendelkezik, feltéve, hogy a gyártásra, javításra feljogosított tagja a színházi fegyverekkel kapcsolatos gyártói (színházi fegyver hatástalanítói) tevékenységben, valamint színházi fegyver kifejezetten filmgyártási célú üzemeltetésében legalább öt éves igazolt gyakorlattal rendelkezik.”
-
-(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 28. §-a a következő (4) bekezdéssel egészül ki:
-
-[^4]: A 3–11. § a 31. § (2) bekezdés c) pontja alapján 2012. május 1-jén lép hatályba.
+[^6]: A 3–11. § a 31. § (2) bekezdés c) pontja alapján 2012. május 1-jén lép hatályba.
+[^7]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

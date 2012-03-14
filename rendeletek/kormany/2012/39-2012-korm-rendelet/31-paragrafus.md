@@ -1,4 +1,4 @@
-## 30. §[^13]
+## 30. §[^21]
 
 31. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba, és 2012. május 2-án hatályát veszti.
 
@@ -26,4 +26,4 @@ j) a 29. § (2) bekezdés 2–15. pontja, valamint
 
 k) a 30. §.
 
-[^13]: A 30. § a 31. § (2) bekezdés k) pontja alapján 2012. május 1-jén lép hatályba.
+[^21]: A 30. § a 31. § (2) bekezdés k) pontja alapján 2012. május 1-jén lép hatályba.
