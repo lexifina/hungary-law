@@ -16,9 +16,9 @@
 
 | 7. |  | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Dabasi Körzeti Földhivatal | Pest Megyei Kormányhivatal Földhivatala |
 
-| 8. |  | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
+| 8. |  | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 9. |  | erdészeti hatósági eljárások | Pest Megyei Kormányhivatal Erdészeti Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
+| 9. |  | erdészeti hatósági eljárások | Pest Megyei Kormányhivatal Erdészeti Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 10. |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Dabas Város Önkormányzata Hivatásos Tűzoltósága | Pest Megyei Katasztrófavédelmi Igazgatóság |
 
@@ -46,9 +46,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | a) termőföldvédelem | Dabasi Körzeti Földhivatala | Pest Megyei Kormányhivatal Földhivatala |
 
-| b) talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
+| b) talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| c) erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
+| c) erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatóság | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 6. | egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -56,10 +56,10 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 8. | műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 9. | élelmiszer-egészségügy | Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 9. | élelmiszer-egészségügy | Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 10. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 ”
 
-[^7]: A 2. melléklet a 265/2011. (XII. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. melléklet a 265/2011. (XII. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
