@@ -22,9 +22,9 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | földművelésügy: |  |  |
 
-| - erdővagyonvédelem | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővagyonvédelem | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - talaj (termőföld) védelem | Tolna Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talaj (termőföld) védelem | Tolna Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | - termőföld mennyiségi védelem | Tolna Megyei Kormányhivatal illetékes körzeti földhivatala | Tolna Megyei Kormányhivatal Földhivatala |
 
@@ -54,9 +54,9 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | földművelésügy: |  |  |
 
-| - állategészségügy | Tolna Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - állategészségügy | Tolna Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - talaj (termőföld) védelem | Tolna Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talaj (termőföld) védelem | Tolna Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | közlekedés | Baranya Megyei Kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központi |
 
@@ -80,4 +80,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 7. §-a, a 23/2012. (II. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
