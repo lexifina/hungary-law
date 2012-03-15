@@ -1,0 +1,5 @@
+55. § A Vht. 180/A. §-a a következő (7) és (8) bekezdéssel egészül ki:
+
+„(7) Ha a személykörözés végrehajtása során a rendőrség a gyermeket előállítja, erről haladéktalanul – rövid úton is – értesíti a végrehajtót, a gyermeket pedig – a végrehajtó egyidejű értesítése mellett – a legközelebbi, ideiglenes hatályú elhelyezés biztosítására is kijelölt gyermekotthonban helyezi el. Az elhelyezésig biztosítani kell az előállítás időpontjában a gyermekkel együtt tartózkodó hozzátartozó számára – kivéve, ha a gyermeket vagy az eljárás sikerességét veszélyezteti –, hogy a gyermekkel együtt legyen, részére a szükséges ellátást biztosítsa.
+
+(8) A gyermek előállítása jogszabályban meghatározott költségtérítésének összegét a kötelezett viseli, az végrehajtási költségnek minősül, amelyet előlegezni nem kell. A költségtérítés igazolására, megállapítására, behajtására és megfizetésére az ellenszegülés megszüntetése érdekében történő rendőrségi közreműködés költségtérítésére vonatkozó szabályokat kell alkalmazni.

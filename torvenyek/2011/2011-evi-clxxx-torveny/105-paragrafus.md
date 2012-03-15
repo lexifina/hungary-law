@@ -1,0 +1,1 @@
+105. § A Szaktv. 30. § (1) bekezdésében a „névjegyzékben nem szereplő” szövegrész helyébe a „megfelelő szakismerettel rendelkező más” szöveg, 17. § (4) bekezdésében a „szakértői díjat” szövegrész helyébe a „szakértői díjat (költségelőleg fizetése esetén a kifizetett költségelőleggel csökkentett összegét)” szöveg lép.

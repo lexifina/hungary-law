@@ -1,0 +1,11 @@
+60. § A Vht. a 217. §-t követően a következő 217/A. §-sal egészül ki:
+
+„217/A. § (1) A bíróság a végrehajtási kifogásról tárgyaláson kívül, – ha a kifogás elbírálásához szükséges tények a beszerzett iratokból nem állapíthatóak meg, vagy az iratok bizonyító erejét illetően kételye merül fel – a felek meghallgatása vagy egyéb bizonyítás felvétele után, soron kívül határoz.
+
+(2) A bíróság – ha azok nem állnak rendelkezésre – a végrehajtási kifogás beérkezésétől számított 8 munkanapon belül intézkedik a kifogás elbírálásához szükséges iratok beszerzése iránt, a végrehajtó pedig a bíróság megkeresésének 8 munkanapon belül köteles eleget tenni. A bíróság a végrehajtási kifogást elbíráló végzését 45 napon belül hozza meg, kivéve, ha ahhoz a felek meghallgatása vagy egyéb bizonyítás felvétele szükséges.
+
+(3) A bíróság a kifogásról – a (4) bekezdésben foglalt kivétellel – a kifogásban foglalt kérelem keretei között dönt. A bíróság a kérelem korlátaira tekintet nélkül határoz a le nem rótt illeték, valamint az állam által előlegezett és meg nem térült költség megfizetéséről.
+
+(4) A bíróság a végrehajtó intézkedését – a kifogásban foglalt kérelem korlátaira tekintet nélkül – megsemmisítheti, és a végrehajtót új intézkedés megtételére kötelezheti, ha a végrehajtási eljárás lényeges szabályainak megsértése miatt szükséges az intézkedés megismétlése. A végzésnek tartalmaznia kell az intézkedés megsemmisítésének okait és az új eljárásra vonatkozó utasításokat.
+
+(5) Ha a kifogásolt intézkedés a jogszabályoknak megfelel vagy nem lényegesen jogszabálysértő, a bíróság a kifogásolt intézkedést hatályában fenntartja és a kifogást elutasítja. Ha a kifogásolt intézkedés lényegesen jogszabálysértő, a bíróság a kifogásolt intézkedést egészben vagy részben megsemmisíti, vagy – ha jogszabály ezt lehetővé teszi és a döntéshez szükséges tények megállapíthatók – a végrehajtó intézkedését egészben vagy részben megváltoztatja, intézkedés elmulasztása esetén pedig az elmulasztott intézkedés megtételére utasítja a végrehajtót.”

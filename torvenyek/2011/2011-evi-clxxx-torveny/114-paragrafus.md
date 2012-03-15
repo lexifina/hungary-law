@@ -1,0 +1,3 @@
+114. § Az Fmhtv. 55. § (5) bekezdése a következő mondattal egészül ki:
+
+„Ha a végrehajtást kérő a végrehajtási kérelmét a végrehajtás (biztosítási intézkedés) elrendelése vagy az ügy áttétele tárgyában hozott határozat meghozatala előtt visszavonja, a végrehajtási díj és a biztosítási intézkedés elrendelése iránti díj az (1), illetve a (2) bekezdésben meghatározott összeg 10%-a, de legalább 5000 forint, vagy 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás vagy a jogutódlás tárgyában hozott határozat, illetve a hiányoknak a közjegyző által a Vht. 12. § (2) bekezdése szerinti pótlása után kerül sor.”
