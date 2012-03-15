@@ -1,0 +1,1 @@
+A polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény 28. § a) pontja alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
