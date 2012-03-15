@@ -24,13 +24,13 @@
 
 | 11. |  |  | földmérési hatósági eljárások | Püspökladányi Körzeti Földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
 
-| 12. |  |  | erdővédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 12. |  |  | erdővédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 13. |  |  | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
 
 | 14. |  |  | bányahatósági eljárások | Magyar Bányászati és Földtani Hivatal Miskolci Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 15. |  |  | talajvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 15. |  |  | talajvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 16. |  |  | kulturális örökségvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -88,9 +88,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | termőföldvédelem | Püspökladányi Körzeti Földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
 
-| 16. | talajvédelem | Hajdú-Bihar Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 16. | talajvédelem | Hajdú-Bihar Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 17. | erdővédelem | Hajdú-Bihar Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 17. | erdővédelem | Hajdú-Bihar Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 18. | kulturális örökségvédelem | Hajdú-Bihar Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -100,6 +100,6 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 21. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 22. | élelmiszer-biztonság | Hajdú-Bihar Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 22. | élelmiszer-biztonság | Hajdú-Bihar Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 33. §-a, a 23/2012. (II. 29.) Korm. rendelet 53. §-a szerint módosított szöveg.
