@@ -1,14 +1,10 @@
 ## 7. § Ez a rendelet a kihirdetése napján 14.00 órakor lép hatályba és rendelkezéseit a határkeresztező vezetékekre vonatkozó, a földgázellátásról szóló 2008. évi XL. törvény végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet alapján folyamatban lévő kapacitás-lekötési eljárásokban is alkalmazni kell.
 
-7/A. §[^7] (1) E rendeletnek a földgáz biztonsági készlet mértékéről, értékesítéséről és visszapótlásáról szóló 13/2011. (IV. 7.) NFM rendelet módosításáról szóló 14/2011. (IV. 15.) NFM rendelet (a továbbiakban: Mód. R.) által módosított rendelkezéseit az e rendelet alapján folyamatban lévő eljárásokban, valamint a határkeresztező vezetékekre vonatkozó, a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet alapján folyamatban lévő kapacitás-lekötési eljárásokban is alkalmazni kell.
+7/A. §[^22] (1) A 4. § (1) bekezdés b) pontja szerinti kedvezményezett az 5. § (4) bekezdés b) pontja szerinti kötelezettségnek a 4. § (1) bekezdés c) pontja szerinti földgázmennyiség tekintetében 2012. március 16. napjáig tesz eleget.
 
-(2) A Szövetség a 4. § (1) bekezdésben meghatározott földgázkészletet
+(2) E rendeletnek a földgáz biztonsági készlet mértékéről, értékesítéséről és visszapótlásáról szóló 13/2011. (IV. 7.) NFM rendelet módosításáról szóló 15/2012. (III. 14.) NFM rendelet (a továbbiakban: Módr.) 3. §-ával megállapított, 5. § (4) bekezdés e) pontját a Módr. hatálybalépésekor[^23] folyamatban lévő eljárásokban, illetve meg nem kezdett vagy végre nem hajtott visszapótlások esetén akkor kell alkalmazni, ha a kedvezményezett az 5. § (4) bekezdés b) pontja szerinti kötelezettségének a Módr. hatálybalépését követő napig nem tesz eleget.
 
-a) a 4. § (1) bekezdés a) pontja szerinti kedvezményezettnek a Mód. R. 1. § (2) bekezdésével megállapított 4. § (1) bekezdés szerinti kitárolási kapacitással értékesíti, és
+(3) A (2) bekezdésben foglaltak kivételével e rendeletnek a Módr.-rel megállapított rendelkezéseit a Módr. hatálybalépéséig meg nem kezdett vagy végre nem hajtott visszapótlások esetén kell alkalmazni.
 
-b) a 4. § (1) bekezdés szerinti kedvezményezetteknek a Mód. R. 1. § (4) és (5) bekezdésével megállapított 6. § (5) bekezdés szerinti be- és kitárolási kapacitással biztosítja.
-
-(3) A 4. § (1) bekezdés a) pontja szerinti kedvezményezett a Mód. R. hatálybalépését[^8] követő öt munkanapon belül a 6. § (2) bekezdés alapján tett szándéknyilatkozatát a kapacitás mennyiségére vonatkozó igény tekintetében a Mód. R. 1. § (3) bekezdésével meghatározott kapacitásra módosíthatja.
-
-[^7]: A 7/A. §-t a 14/2011. (IV. 15.) NFM rendelet 2. §-a iktatta be.
-[^8]: A hatálybalépés időpontja 2011. április 15.
+[^22]: A 7/A. §-t a 14/2011. (IV. 15.) NFM rendelet 2. §-a iktatta be, szövege a 15/2012. (III. 14.) NFM rendelet 5. §-ával megállapított szöveg.
+[^23]: A hatálybalépés napja: 2012. március 15.
