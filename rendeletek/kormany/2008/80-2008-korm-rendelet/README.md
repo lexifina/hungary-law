@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-80-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2008-80-20-22.4 | 80/2008. (IV. 4.) Korm. rendelet |
+| 2012-03-15 | 2008-80-20-22.5 | 23/2012. (II. 29.) Korm. rendelet |
