@@ -22,9 +22,9 @@
 
 ## b) Dízelgázolaj alapján
 
-## c)[^55] A tárgyévben a megelőző hónapok összesített túlteljesítése miatti csökkentés
+## c)[^56] A tárgyévben a megelőző hónapok összesített túlteljesítése miatti csökkentés
 
-## d)[^56] Összesen
+## d)[^57] Összesen
 
 ## 5. A kötelező bioüzemanyag-részaránynak megfelelő mennyiség (kötelező bioüzemanyag-részaránnyal meghatározott bioüzemanyag-mennyiség energiatartalmának) és a tárgyhónapban ténylegesen forgalomba hozott bioüzemanyag-mennyiség energiatartalmának különbsége (MJ).
 
@@ -56,7 +56,7 @@ c) az igazolás kiállításának alapját képező biomassza igazolások adatai
 
 d) az igazolás kiállításának alapját képező fenntarthatósági igazolások adatai közül a fenntarthatósági igazolás kiállítójának regisztrációs száma, a fenntarthatósági igazolás azonosító száma, a fenntarthatósági igazolásban szereplő biomassza mennyisége tonnában két tizedes jegy pontossággal és a kibocsátási komponensek értékei, a fenntarthatósági igazolás kiállításának dátuma;
 
-e)[^57] az igazolás kiállításának alapját képező külföldről származó biomassza esetében a beszállító megnevezése, azonosító száma, az okmányok azonosító adatai, a biomassza mennyisége tonnában kifejezve két tizedes jegy pontossággal, a kibocsátási komponensek értékei.
+e)[^58] az igazolás kiállításának alapját képező külföldről származó biomassza esetében a beszállító megnevezése, azonosító száma, az okmányok azonosító adatai, a biomassza mennyisége tonnában kifejezve két tizedes jegy pontossággal, a kibocsátási komponensek értékei.
 
 II. A biomassza feldolgozó adatszolgáltatása tartalmazza a következő adatokat:
 
@@ -70,9 +70,9 @@ b) a fenntarthatósági igazolásban szereplő adatok, az igazolás kiállítój
 
 c) a gyártáshoz felhasznált biomassza vonatkozásában a biomassza igazolások adatai közül a biomassza termelő regisztrációs száma, a beszállított biomassza mennyisége, a kibocsátási komponensek értékei, a biomassza igazolás azonosító száma és az igazolás kiállításának dátuma;
 
-d)[^58] a gyártáshoz felhasznált biomassza vonatkozásában a biomassza, köztes termék fenntarthatósági igazolások adatai közül a fenntarthatósági igazolás kiállítójának regisztrációs száma, a fenntarthatósági igazolásban szereplő biomassza, köztes termék mennyisége tonnában két tizedes jegy pontossággal és a kibocsátási komponensek értékei, az igazolás kiállításának dátuma és azonosítószáma;
+d)[^59] a gyártáshoz felhasznált biomassza vonatkozásában a biomassza, köztes termék fenntarthatósági igazolások adatai közül a fenntarthatósági igazolás kiállítójának regisztrációs száma, a fenntarthatósági igazolásban szereplő biomassza, köztes termék mennyisége tonnában két tizedes jegy pontossággal és a kibocsátási komponensek értékei, az igazolás kiállításának dátuma és azonosítószáma;
 
-e)[^59] a gyártáshoz felhasznált harmadik országból származó biomassza, köztes termék esetében a beszállító megnevezése, azonosító száma, az okmányok azonosító adatai, a biomassza mennyisége tonnában kifejezve két tizedes jegy pontossággal, a kibocsátási komponensek értékei.
+e)[^60] a gyártáshoz felhasznált harmadik országból származó biomassza, köztes termék esetében a beszállító megnevezése, azonosító száma, az okmányok azonosító adatai, a biomassza mennyisége tonnában kifejezve két tizedes jegy pontossággal, a kibocsátási komponensek értékei.
 
 III. Az üzemanyag-forgalmazó adatszolgáltatása tartalmazza a következő adatokat:
 
@@ -84,8 +84,8 @@ a) a fenntarthatósági igazolás kiállításának dátuma;
 
 b) a fenntarthatósági igazolásban szereplő adatok, az igazolás kiállítója adatainak kivételével.
 
-[^55]: A 4. melléklet 4. pont c) alpontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^56]: A 4. melléklet 4. pont d) alpontját a 167/2011. (VIII. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
-[^57]: Az 5. melléklet I. pont 2. alpont e) pontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^58]: Az 5. melléklet II. pont 2. alpont d) pontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^59]: Az 5. melléklet II. pont 2. alpont e) pontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^56]: A 4. melléklet 4. pont c) alpontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^57]: A 4. melléklet 4. pont d) alpontját a 167/2011. (VIII. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^58]: Az 5. melléklet I. pont 2. alpont e) pontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^59]: Az 5. melléklet II. pont 2. alpont d) pontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^60]: Az 5. melléklet II. pont 2. alpont e) pontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
