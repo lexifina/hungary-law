@@ -1,3 +1,0 @@
-14. § (1) A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény (a továbbiakban:Vtv.) 21. §-ának (2) bekezdésében, 22. §-ának (3) és (6) bekezdésében, 24. §-ának (2)–(3) bekezdésében, 25/A. §-ának (2) bekezdésében, 26. §-ában, 33. §-ának (2) bekezdésében, 38/A. §-ának (4) bekezdésében, 74. §-a (6) bekezdésében, 89/A. §-a (2) és (3) bekezdésében, valamint a 92. § (1) bekezdésének a), c) és g–h) pontjában foglaltak tekintetében a Kormány vadászati hatóságként az MgSzH-t jelöli ki.
-
-(2) A Vtv. 82. §-ában, 89. §-ában, valamint a 92. § (1) bekezdésének b) és d)–f) ) pontjában foglaltak tekintetében a Kormány vadászati hatóságként az MgSzH-t jelöli ki.

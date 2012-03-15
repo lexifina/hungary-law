@@ -1,1 +1,0 @@
-## 10. § A Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 3. §-a (1) bekezdés k) pontjában, 15. §-a (1) bekezdésének a) pontjában és 32. §-a (2) bekezdésében a Kormány élelmiszerlánc-felügyeleti szervként az MgSzH-t jelöli ki.
