@@ -18,7 +18,7 @@
 
 | 8 |  | régészeti feltárási engedély | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-| 9 |  | erdő igénybevétel és fakivágási engedély | megyei kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 9 |  | erdő igénybevétel és fakivágási engedély | megyei kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 10 |  | termőföld más célú hasznosítására vonatkozó engedély | megyei kormányhivatal földhivatala | földügyért felelős miniszter |
 
@@ -54,7 +54,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 7 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 8 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény-és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 8 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény-és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 9 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -90,7 +90,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 4 | Termőföldvédelem | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| 5 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 5 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 6 | Ásványvagyon védelem | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -108,7 +108,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 2 | Környezetvédelem, természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 3 | Talajvédelem | megyei kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 3 | Talajvédelem | megyei kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 4 | Közlekedésrendészet | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -152,7 +152,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 7 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 8 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 8 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 9 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -168,7 +168,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 3 | Környezetvédelem, természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -186,10 +186,10 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2 | Talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 3 | Természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 4 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 56. §-a szerint módosított szöveg.
