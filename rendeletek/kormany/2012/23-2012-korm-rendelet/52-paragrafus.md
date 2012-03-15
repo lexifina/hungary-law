@@ -1,0 +1,3 @@
+## 51. § A Pannonia Ethanol Zrt. bioetanol-előállító üzem projekt Dunaföldvár város közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 15/2010. (II. 5.) Korm. rendelet (a továbbiakban: R33.) 1. és 2. melléklete e rendelet Melléklete szerint módosul.
+
+## 52. A DUNA-ETANOL Zrt. Bioetanol-Biogáz-Kiserőmű projekt Dunaalmás község közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 60/2010. (III. 18.) Korm. rendelet módosítása
