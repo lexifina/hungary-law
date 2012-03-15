@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-193-20-
 | 2011-09-15 | 2009-193-20-22.9 | 82/2011. (V. 18.) Korm. rendelet |
 | 2011-12-09 | 2009-193-20-22.10 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-01-07 | 2009-193-20-22.11 | 308/2011. (XII. 23.) Korm. rendelet |
+| 2012-03-15 | 2009-193-20-22.12 | 351/2010. (XII. 30.) Korm. rendelet |
