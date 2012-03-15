@@ -2,7 +2,7 @@
 
 | Térségi övezetek | A kiemelt térségi és a megyei területrendezési terv készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek | A megyei területrendezési terv hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
 
-| 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú erdőterület | Mezőgazdasági Szakigazgatási Hivatal | megyei kormányhivatal erdészeti igazgatósága |
+| 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú erdőterület | Nemzeti Élelmiszerlánc-biztonsági Hivatal | megyei kormányhivatal erdészeti igazgatósága |
 
 | b) felszíni vizek vízminőség- védelmi vízgyűjtő területe | vízgazdálkodásért felelős miniszter | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
 

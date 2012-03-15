@@ -34,7 +34,7 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | Térségi övezetek | Az Agglomerációs törvény hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
 
-| 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú erdőterület | Mezőgazdasági Szakigazgatási Hivatal |
+| 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú erdőterület | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | b) kiemelten érzékeny felszín alatti vízminőség-védelmi terület | Nemzeti Környezetügyi Intézet |
 
@@ -60,4 +60,4 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | h) honvédelmi terület | honvédelemért felelős miniszter |
 
-[^18]: A 3. melléklet a 237/2011. (XI. 15.) Korm. rendelet 1. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^18]: A 3. melléklet a 237/2011. (XI. 15.) Korm. rendelet 1. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 12. § (3) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 49. §-a szerint módosított szöveg.
