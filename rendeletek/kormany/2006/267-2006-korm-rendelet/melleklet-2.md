@@ -14,4 +14,4 @@
 
 2. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^44]
 
-[^44]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^44]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.

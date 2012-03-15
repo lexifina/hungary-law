@@ -6,7 +6,7 @@
 
 | 2. | Az eljárás gyógyhelyet, ásvány-, gyógyvíz és gyógyiszap lelőhelyet érint, és a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | A tevékenység természetes gyógytényezőre, gyógyhelyre gyakorolt hatásainak vizsgálata kérdésében. | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
 
-| 3. | Az elvi építési, a használatba vételi, a megszüntetési és a rendeltetés megváltoztatása iránti eljárás kivételével, ha a tevékenység vagy beruházás termőföldön valósul meg. | A termőföld minőségi védelmére vonatkozó jogszabályi követelmények érvényre juttatása, valamint az erdőre gyakorolt hatások vizsgálata kérdésében. | termőföld minőségi védelme esetében a fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 3. | Az elvi építési, a használatba vételi, a megszüntetési és a rendeltetés megváltoztatása iránti eljárás kivételével, ha a tevékenység vagy beruházás termőföldön valósul meg. | A termőföld minőségi védelmére vonatkozó jogszabályi követelmények érvényre juttatása, valamint az erdőre gyakorolt hatások vizsgálata kérdésében. | termőföld minőségi védelme esetében a fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | erdő esetében a fővárosi és megyei kormányhivatal erdészeti igazgatósága |
 
@@ -72,9 +72,9 @@
 
 | 3. | Ha a tevékenység vagy beruházás termőföldet érint. | A termőföld mennyiségi védelme. | körzeti földhivatal, több körzeti földhivatal illetékességi területét érintő esetekben a megyei földhivatal, a fővárosban a Fővárosi Földhivatal | megyei földhivatal, a fővárosban a Fővárosi Földhivatal, ha első fokon a megyei földhivatal járt el, akkor a földművelésügyért és vidékfejlesztésért felelős miniszter | IGEN | IGEN | NEM | NEM | IGEN | NEM |
 
-| 4. | Ha ugyanezt a szakkérdést korábban önálló eljárásban vagy szakhatóságként nem vizsgálták, és az eljárás termőföldet érint. | A termőföld minőségi védelme követelményeinek a kérdésében. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal | NEM | NEM | IGEN, kivéve a szüneteltetési műszaki üzemi terv jóváhagyása | NEM | IGEN | IGEN |
+| 4. | Ha ugyanezt a szakkérdést korábban önálló eljárásban vagy szakhatóságként nem vizsgálták, és az eljárás termőföldet érint. | A termőföld minőségi védelme követelményeinek a kérdésében. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonságiHivatal | NEM | NEM | IGEN, kivéve a szüneteltetési műszaki üzemi terv jóváhagyása | NEM | IGEN | IGEN |
 
-| 5. | Ha ugyanezt a szakkérdést korábban önálló eljárásban vagy szakhatóságként nem vizsgálták, és az eljárás erdőt érint. | Az erdőre gyakorolt hatásoknak a kérdésében. | fővárosi és megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal | NEM | IGEN | NEM | NEM | IGEN | NEM |
+| 5. | Ha ugyanezt a szakkérdést korábban önálló eljárásban vagy szakhatóságként nem vizsgálták, és az eljárás erdőt érint. | Az erdőre gyakorolt hatásoknak a kérdésében. | fővárosi és megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc- biztonságiHivatal | NEM | IGEN | NEM | NEM | IGEN | NEM |
 
 | 6. | Ha az eljárás közutat vagy annak biztonsági övezetét érinti és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a közút területének nem közlekedési célú igénybevétele vagy a tevékenység a kérelemben foglaltak szerint vagy további feltételek mellett – a közúti forgalom biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt hatása alapján – engedélyezhető-e. | Országos közút | IGEN | IGEN | NEM | IGEN | IGEN | IGEN |
 
@@ -128,4 +128,4 @@
 
 | 13. | Ha az eljárás régészeti lelőhelyet, régészeti védőövezet területét, műemléki területet vagy külön jogszabályban meghatározott esetekben műemléket érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély, vagy egységes környezet- használati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a kérelem a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi, megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal | IGEN | IGEN | NEM | IGEN | NEM | IGEN |
 
-[^45]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^45]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
