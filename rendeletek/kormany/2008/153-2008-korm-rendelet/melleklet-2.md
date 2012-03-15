@@ -76,9 +76,9 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Földművelésügy: |  |  |
 
-| - talajvédelem | Pest Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | Pest Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -106,9 +106,9 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Földművelésügy: |  |  |
 
-| - talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Honvédelem: |  |  |
 
@@ -152,9 +152,9 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Földművelésügy: |  |  |
 
-| - talajvédelem | Pest Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | Pest Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | Fővárosi Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -176,7 +176,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Földművelésügy: |  |  |
 
-| - erdővédelem - talajvédelem | -Pest Megyei Kormányhivatal Erdészeti Igazgatósága; -Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága; | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem - talajvédelem | -Pest Megyei Kormányhivatal Erdészeti Igazgatósága; -Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága; | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | Fővárosi Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -200,4 +200,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - légiközlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (4) bekezdése, a 282/2011. (XII. 21.) Korm. rendelet 29. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (4) bekezdése, a 282/2011. (XII. 21.) Korm. rendelet 29. §-a, a 23/2012. (II. 29.) Korm. rendelet 34. §-a szerint módosított szöveg.
