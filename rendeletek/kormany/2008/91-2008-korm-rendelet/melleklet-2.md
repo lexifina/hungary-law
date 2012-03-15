@@ -36,7 +36,7 @@
 
 |  |  | régészeti ásatási engedély kiadása | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-|  |  | humuszgazdálkodási terv jóváhagyása | Szabolcs-Szatmár Bereg Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  |  | humuszgazdálkodási terv jóváhagyása | Szabolcs-Szatmár Bereg Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 |  |  | elektromos vezetékek vezetékjogi engedélyének kiadása | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -54,13 +54,13 @@
 
 |  |  | közvilágítás létesítési engedélye | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-|  |  | humuszgazdálkodási terv jóváhagyása | Hajdú-Bihar Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  |  | humuszgazdálkodási terv jóváhagyása | Hajdú-Bihar Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 |  |  | szénhidrogén vezetékek építésének engedélyezése | Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 11. | Az 1-10. pontban megjelölt beruházásokkal összefüggésben megvalósítandó, országos közutakon, helyi közutakon és közforgalom elől el nem zárt magánutakon lévő 30 méter szabad nyílást meghaladó hidak | Közúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. számú melléklet a 91/2008. (IV. 23.) Korm. rendelethez[^2]
+2. számú melléklet a 91/2008. (IV. 23.) Korm. rendelethez[^3]
 
 Az 1. § (3) bekezdésben hivatkozott szakhatóságok
 
@@ -94,9 +94,9 @@ Az 1. § (3) bekezdésben hivatkozott szakhatóságok
 
 | Földművelésügy |  |  |
 
-| - talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -132,9 +132,9 @@ Az 1. § (3) bekezdésben hivatkozott szakhatóságok
 
 | Földművelésügy |  |  |
 
-| - talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -144,4 +144,4 @@ Az 1. § (3) bekezdésben hivatkozott szakhatóságok
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 214. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 14. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 214. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 14. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés c) pontja, a 23/2012. (II. 29.) Korm. rendelet 33. §-a szerint módosított szöveg.
