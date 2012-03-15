@@ -1,4 +1,4 @@
-19/A. §[^24] (1) A 17. § szerinti adatszolgáltatás során az alábbi földhasználati lap másolat típusok szolgáltathatók:
+19/A. §[^31] (1) A 17. § szerinti adatszolgáltatás során az alábbi földhasználati lap másolat típusok szolgáltathatók:
 
 a) a földhasználati lap teljes másolata, amely valamennyi nyilvántartott adatot (fennálló és törölt bejegyezéseket) tartalmazza;
 
@@ -18,4 +18,4 @@ szolgáltatható.
 
 (3) A (2) bekezdés alkalmazása esetén az ott felsorolt szerveknek az adatszolgáltatás iránti megkeresésükben meg kell jelölniük a feladatuk ellátására vonatkozó pontos jogszabályhelyet és annak az ügyiratnak a számát, amely elintézéséhez az adatszolgáltatást igénylik.
 
-[^24]: A 19/A. §-t a 252/2009. (XI. 16.) Korm. rendelet 5. §-a iktatta be, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
+[^31]: A 19/A. §-t a 252/2009. (XI. 16.) Korm. rendelet 5. §-a iktatta be, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
