@@ -8,7 +8,7 @@
 
 |  |  |  | vízjogi engedély | Felső-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-2. számú melléklet a 152/2006. (VII. 21.) Korm. rendelethez[^2]
+2. számú melléklet a 152/2006. (VII. 21.) Korm. rendelethez[^3]
 
 Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
@@ -44,9 +44,9 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - termőföldvédelem | illetékes megyei kormányhivatal földhivatala, fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | megyei kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | megyei kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | megyei kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | megyei kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -86,9 +86,9 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - termőföldvédelem | Illetékes megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -98,4 +98,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 152. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 6. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 152. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 6. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés b) pontja, a 23/2012. (II. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.
