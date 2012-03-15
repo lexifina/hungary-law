@@ -12,7 +12,7 @@
 
 | 4. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörébe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja | A helyi környezet- és természetvédelemre kiterjedően | érintett települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
 
-| 5. | Ha az eljárás termőföld, erdő vagy azzal szomszédos földrészlet igénybevételével megvalósuló beruházás, illetve tevékenység engedélyezésére irányul. | A termőföldre és az erdőre gyakorolt hatások vizsgálata. | termőföld minőségi védelme esetében a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága, erdő esetében a megyei kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 5. | Ha az eljárás termőföld, erdő vagy azzal szomszédos földrészlet igénybevételével megvalósuló beruházás, illetve tevékenység engedélyezésére irányul. | A termőföldre és az erdőre gyakorolt hatások vizsgálata. | termőföld minőségi védelme esetében a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága, erdő esetében a megyei kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 6. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja | Ha az egységes környezet- használati engedély megszerzésére irányuló eljárás termőföldet érint. | Termőföld mennyiségi védelmének követelményei tekintetében. | körzeti földhivatal, több körzeti földhivatal illetékességi területét érintő esetekben a megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala, ha első fokon a megyei kormányhivatal földhivatala vagy a fővárosban a fővárosi kormányhivatal földhivatala járt el, akkor a földügyért felelős miniszter |
 
@@ -24,6 +24,6 @@
 
 |  | *Megjegyzés A megyei népegészségügyi szakigazgatási szerv feladatait a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el |  |  |  |
 
-5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^133]
+5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^134]
 
-[^133]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított szöveg.
+[^134]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése szerint módosított szöveg.

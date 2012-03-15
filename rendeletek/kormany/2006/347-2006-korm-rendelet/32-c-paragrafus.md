@@ -4,7 +4,7 @@ a)[^63] – az egészségkárosító kockázatok és esetleges hatások felmér�
 
 b) helyi jelentőségű védett természeti terület esetén – a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek való megfelelés kérdésében – első fokú eljárásban az érintett települési önkormányzat jegyzőjét, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét,
 
-c)[^64] a begyűjtés és szállítás kivételével, ha az engedélyezés a termőföldön vagy termőfölddel szomszédos földrészleten megvalósuló kezelés és ártalmatlanítás engedélyezésére irányul, – annak vizsgálata kérdésében, hogy a veszélyes hulladék kifejthet-e szennyező hatást a termőföldre – első fokú eljárásban a megyei kormányhivatal növény- és talajvédelmi igazgatóságát, másodfokú eljárásban a Mezőgazdasági Szakigazgatási Hivatalt,
+c)[^64] a begyűjtés és szállítás kivételével, ha az engedélyezés a termőföldön vagy termőfölddel szomszédos földrészleten megvalósuló kezelés és ártalmatlanítás engedélyezésére irányul, – annak vizsgálata kérdésében, hogy a veszélyes hulladék kifejthet-e szennyező hatást a termőföldre – első fokú eljárásban a megyei kormányhivatal növény- és talajvédelmi igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
 d) hulladékkezelési létesítmény engedélyezése esetén, – annak elbírálása kérdésében, hogy a létesítmény megfelel-e, és milyen feltételekkel felel meg a településrendezési és az általános építésügyi követelményeknek – első fokú eljárásban a létesítmény helye szerint illetékes építésügyi hatóságot, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét, valamint
 
@@ -30,4 +30,4 @@ c) a villamos energiáról szóló törvény hatálya alá tartozó erőművek �
 
 [^62]: A 32/C. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^63]: A 32/C. § (1) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 170. § (2) bekezdése szerint módosított szöveg.
-[^64]: A 32/C. § (1) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 170. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^64]: A 32/C. § (1) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 170. § (5) bekezdés b) pontja, a 23/2012. (II. 29.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
