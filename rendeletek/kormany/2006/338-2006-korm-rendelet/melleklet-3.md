@@ -6,7 +6,7 @@
 
 | 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
-| 2. | Minden esetben. | A termőföld minőségi védelme követelményeinek való megfelelés. | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2. | Minden esetben. | A termőföld minőségi védelme követelményeinek való megfelelés. | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 3. | Ha a földrészlet az ingatlan-nyilvántartás szerint országos jelentőségű védett természeti területen vagy Natura 2000 területen van. | Annak elbírálása kérdésében, hogy az újrahasznosításra készített terv a) a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, b) folyó parti sávjában, vízvédelmi területen a felszín alatti vizek és az ivóvízbázisok állapotának védelmére vonatkozó szabályoknak, a vízgazdálkodási feladatok ellátására, a vizek kártételeinek elhárítására, valamint az árvíz és a jég levonulására vonatkozó feltételeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -16,7 +16,7 @@
 
 | 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
-| 2. | Minden esetben. | A termőföld minőségi védelme követelményeinek való megfelelés. | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2. | Minden esetben. | A termőföld minőségi védelme követelményeinek való megfelelés. | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 3. | Ha a termőföld vízvédelmi területen, az ingatlan-nyilvántartás szerint országos jelentőségű védett természeti területen vagy Natura 2000 területen van. | Annak elbírálása kérdésében, hogy a végleges más célú hasznosítás a) a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, b) folyó parti sávjában, vízvédelmi területen a felszín alatti vizek és az ivóvízbázisok állapotának védelmére vonatkozó szabályoknak, a vízgazdálkodási feladatok ellátására, a vizek kártételeinek elhárítására, valamint az árvíz és a jég levonulására vonatkozó feltételeknek, valamint c) a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -28,7 +28,7 @@
 
 | 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
-| 2. | Minden esetben | A termőföld minőségi védelme követelményeinek való megfelelés. | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2. | Minden esetben | A termőföld minőségi védelme követelményeinek való megfelelés. | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 3. | Ha a termőföld vízvédelmi területen, az ingatlan-nyilvántartás szerint országos jelentőségű védett természeti területen vagy Natura 2000 területen van. | Annak elbírálása kérdésében, hogy a végleges más célú hasznosítás a) a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, b) folyó parti sávjában, vízvédelmi területen a felszín alatti vizek és az ivóvízbázisok állapotának védelmére vonatkozó szabályoknak, a vízgazdálkodási feladatok ellátására, a vizek kártételeinek elhárítására, valamint az árvíz és a jég levonulására vonatkozó feltételeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -40,7 +40,7 @@
 
 | 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
-| 2. | Minden esetben. | A termőföld minőségi védelme követelményeinek való megfelelés. | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2. | Minden esetben. | A termőföld minőségi védelme követelményeinek való megfelelés. | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 3. | Ha a termőföld vízvédelmi területen, az ingatlan-nyilvántartás szerint országos jelentőségű védett természeti területen vagy Natura 2000 területen van. | Annak elbírálása kérdésében, hogy a végleges más célú hasznosítás a) a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, b) folyó parti sávjában, vízvédelmi területen a felszín alatti vizek és az ivóvízbázisok állapotának védelmére vonatkozó szabályoknak, a vízgazdálkodási feladatok ellátására, a vizek kártételeinek elhárítására, valamint az árvíz és a jég levonulására vonatkozó feltételeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 

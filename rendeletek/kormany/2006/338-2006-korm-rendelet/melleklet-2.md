@@ -6702,4 +6702,4 @@
 [^93]: Az 1. melléklet 19. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
 [^94]: Az 1. melléklet 20. pontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
 [^95]: Az 1. melléklet 20. pont 20/6. alpontja a 317/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdével megállapított szöveg.
-[^96]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 317/2010. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^96]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 317/2010. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 20. §-a szerint módosított szöveg.
