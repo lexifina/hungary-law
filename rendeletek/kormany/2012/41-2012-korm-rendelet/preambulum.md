@@ -1,0 +1,1 @@
+A Kormány a 2011. évi népszámlálásról szóló 2009. évi CXXXIX. törvény 6. § (2) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
