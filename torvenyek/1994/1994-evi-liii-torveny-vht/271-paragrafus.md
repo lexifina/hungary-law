@@ -1,4 +1,4 @@
-271. § (1) A kamara közgyűlése a végrehajtók közül 4 évre a Budapest Környéki és a Győri Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 7-7, a Debreceni Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 6 végrehajtót vizsgálóbiztosnak választ meg.
+271. § (1) A kamara közgyűlése a végrehajtók közül 4 évre az elsőfokú fegyelmi bírósághoz 20, a másodfokú fegyelmi bírósághoz 3 végrehajtót vizsgálóbiztosnak választ meg.
 
 (2) Vizsgálóbiztosnak azt a végrehajtót lehet megválasztani, akinek legalább 5 éves végrehajtói gyakorlata van, feltéve hogy vele szemben nincs kizáró ok [275. § (1) bek. a) pont].
 

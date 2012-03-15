@@ -32,15 +32,17 @@ n) a végrehajtási ügyek intézéséről statisztikai adatgyűjtést és adats
 
 o) az önálló bírósági végrehajtók hatáskörébe tartozó ügyekről a hiteles, pontos és gyors tájékoztatás érdekében felvilágosítást ad a sajtó, a rádió és a televízió részére, és
 
-p) kiállítja az önálló bírósági végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek és helyettes bírósági végrehajtók igazolványát.
+p) kiállítja az önálló bírósági végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek és helyettes bírósági végrehajtók igazolványát,
+
+q) – a bíróság hatáskörébe tartozó ügyek kivételével – dönt a végrehajtó kizárásáról és új végrehajtó kijelöléséről.
 
 (3) A kamara ellátja a következő feladatokat is:
 
 a) nyilvántartást vezet a végrehajtók által folytatott végrehajtási eljárásokról,
 
-b) az árveréssel kapcsolatos közlemények megjelentetésére hivatalos lapot tart fenn,
+b) a végrehajtói hirdetmények elektronikus úton történő közzétételére szolgáló informatikai alkalmazást működtet,
 
-c) nyilvántartást vezet azokról a gazdálkodó szervezetekről, amelyekkel szemben a végrehajtás eredménytelen volt,
+c) működteti a végrehajtási iratok elektronikus kézbesítési rendszerét.
 
 d) kezeli a végrehajtó tevékenységével okozott károk fedezésére szolgáló biztosíték összegét és abból a kár összegét kifizeti a jogosultnak,
 

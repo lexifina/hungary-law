@@ -1,6 +1,6 @@
 ## A végrehajtó intézkedése a pénzforgalmi szolgáltatónál kezelt összeg végrehajtás alá vonása iránt
 
-82/A. § (1) A pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló, a 7. § (3) bekezdésének a) pontjában meghatározott összeg – ideértve a nem pénzforgalmi számlán kezelt összegeket is – végrehajtás alá vonása iránt a végrehajtó a végrehajtói letéti számla javára benyújtott hatósági átutalási megbízással (e §-ban a továbbiakban: megbízás) intézkedik. Az adós pénzforgalmi szolgáltatója (e §-ban a továbbiakban: pénzforgalmi szolgáltató) a végrehajtó intézkedésének megfelelően köteles a számlán lévő összegből a megbízásnak megfelelő összeget a végrehajtói letéti számlára átutalni.
+82/A. § (1) A pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló, a 7. § (3) bekezdésének a) pontjában meghatározott összeg – ideértve a nem pénzforgalmi számlán kezelt összegeket is – végrehajtás alá vonása iránt a végrehajtó a végrehajtói letéti számla javára benyújtott hatósági átutalási megbízással (e §-ban a továbbiakban: megbízás) intézkedik. Az adós pénzforgalmi szolgáltatója (e §-ban a továbbiakban: pénzforgalmi szolgáltató) a végrehajtó intézkedésének megfelelően köteles a fizetési számla mentesnek minősülő összeget meghaladó egyenlegéből a megbízásban megjelölt követelés összegét a végrehajtói letéti számlára átutalni.
 
 (2) A végrehajtó e § szerinti eljárására a hatósági átutalási megbízás külön jogszabályban foglalt szabályait a (3)–(6) bekezdés szerinti eltérésekkel kell alkalmazni.
 

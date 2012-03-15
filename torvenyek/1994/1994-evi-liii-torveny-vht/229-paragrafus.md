@@ -2,6 +2,6 @@
 
 (2) A végrehajtónak a titoktartási kötelezettség alóli felmentésére a bírósági dolgozókra vonatkozó szabályok megfelelően irányadók azzal, hogy törvényszéki végrehajtó esetében a törvényszék elnöke, önálló bírósági végrehajtó esetében pedig a kamara elnöke jogosult a titoktartás alóli felmentés megadására.
 
-(3) Az összeférhetetlenség és a titoktartás szabályai a végrehajtó-helyettesre és a végrehajtójelöltre, a kizárás szabályai a végrehajtó-helyettesre is irányadók.
+(3) Az összeférhetetlenség és a titoktartás szabályai a végrehajtó-helyettesre és a végrehajtójelöltre, a kizárás szabályai a végrehajtó-helyettesre is irányadók azzal, hogy a végrehajtó-helyettes az ügy elintézéséből akkor is ki van zárva, ha az őt alkalmazó végrehajtóval szemben áll fenn kizárási ok.
 
 (4) A titoktartás szabályai a végrehajtás során közreműködő tanúra, ügygondnokra és zárgondnokra is irányadóak. Titoktartási kötelezettségük az erre történő figyelmeztetésükről való tudomásszerzés időpontjával áll be; a figyelmeztetést a helyszíni eljárásról készült jegyzőkönyvben, illetve a zárgondnok rendeléséről, ügygondnok kijelöléséről szóló iratban fel kell tüntetni. A titoktartás alóli felmentés megadására esetükben az eljárt végrehajtó, szolgálatának megszűnése után a kamara, illetve a törvényszék elnöke jogosult; a felmentés nem tagadható meg, ha azt az ügyben eljárt végrehajtó is megkapta.

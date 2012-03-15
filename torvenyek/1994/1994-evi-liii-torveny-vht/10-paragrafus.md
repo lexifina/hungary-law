@@ -14,7 +14,7 @@ c) a bíróság végrehajtást elrendelő, letiltó, illetőleg átutalási vég
 
 d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
 
-e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
+e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről, valamint az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
 
 f) a bűnügyi zárlatot elrendelő határozat,
 

@@ -4,6 +4,8 @@ a) aki ellen fegyelmi vagy büntetőeljárás van folyamatban, ennek jogerős be
 
 b) akire nézve a 226. §-ban meghatározott kizáró ok áll fenn,
 
-c) akinek tanúkénti meghallgatása az eljárásban szükségessé válhat.
+c) akinek tanúkénti meghallgatása az eljárásban szükségessé válhat,
+
+d) aki tisztségéből vagy hivatalából való felfüggesztés, illetve a bírói vagy végrehajtói szolgálat szünetelése folytán bíróként vagy végrehajtóként nem járhat el.
 
 (2) Nem járhat el a fegyelmi tanácsban az ügy vizsgálóbiztosa.

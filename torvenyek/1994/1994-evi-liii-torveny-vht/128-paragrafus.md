@@ -1,8 +1,10 @@
-128. § (1) Az árverésről a végrehajtó árverési jegyzőkönyvet készít, és ebben — a 35. §-ban említetteken kívül — feltünteti:
+128. § (1) Az árverésről a végrehajtó árverési jegyzőkönyvet készít, és ebben – a 35. §-ban említetteken kívül – feltünteti:
 
-a) az elárverezett ingóságot, becsértékét és árverési vételárát,
+a) az elárverezett ingóságot, becsértékét és árverési vételárat,
 
-b) az árverési vevő nevét és a személyazonosításra szolgáló okmányának számát, jogi személy vagy jogi személyiség nélküli szervezet esetén a nevét és székhelyét.
+b) az árverési vevő nevét és a személyazonosításra szolgáló okmányának számát, jogi személy vagy jogi személyiség nélküli szervezet esetén a nevét és székhelyét;
+
+az árverési jegyzőkönyvet az árverési vevő is aláírásával látja el.
 
 (2) Az árverési jegyzőkönyv másolatát kézbesíteni kell a feleknek és az árverési vevőnek, vízi vagy légi jármű esetén a nyilvántartó hatóságnak is, továbbá meg kell küldeni – a romlandó dolog árverésének esetét kivéve – az állami adóhatóságnak.
 

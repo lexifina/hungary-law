@@ -1,3 +1,5 @@
-170. § (1) Ha az ingatlan, továbbá a vízi, illetőleg a légi jármű értékesítéséből befolyt összegből jelzálogjoggal biztosított követelést is ki kell elégíteni, az ilyen követelést a 165. § d)–f) pontjában meghatározott követeléseket megelőzően kell kielégíteni.
+170. § (1) Ha az ingatlan, továbbá a vízi, illetőleg a légi jármű értékesítéséből befolyt összegből jelzálogjoggal biztosított követelést is ki kell elégíteni, az ilyen követelést – a (3) bekezdésben foglalt kivétellel – a 165. § (1) bekezdés d)–g) pontjában meghatározott követeléseket megelőzően kell kielégíteni.
 
-(2) Jelzálogjoggal biztosított több követelés esetén e követeléseket a jelzálogjogok bejegyzésének sorrendjében kell kielégíteni.
+(2) Jelzálogjoggal biztosított több követelés esetén e követeléseket a bejegyzett jelzálogjogok rangsorában kell kielégíteni.
+
+(3) Ha a jelzálogjog ingatlan-nyilvántartásba történő bejegyzésére a végrehajtási jog ranghelyét követően került sor, a jelzálogjoggal biztosított követelést azon követelést követően lehet – az (1) és (2) bekezdés rendelkezéseinek alkalmazásával – kielégíteni, amelyre e végrehajtási jog vonatkozik.

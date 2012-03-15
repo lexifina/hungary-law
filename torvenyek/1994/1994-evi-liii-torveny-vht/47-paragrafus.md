@@ -13,3 +13,5 @@
 (6) Ha a végrehajtónak az iratokban szereplő adatokon kívül az adósra vonatkozó egyéb adatok vannak a birtokában, az ügy irattárba helyezésekor ennek tényéről jegyzőkönyvet készít, és a jegyzőkönyv egy példányát az iratok között helyezi el. Az (1) bekezdésben foglalt adatok a végrehajtási ügy irattárba helyezését követő 10 évig kezelhetők, ezt követően a végrehajtó az adatokat tartalmazó iratokat megsemmisíti, illetve az adatok törléséről egyéb módon gondoskodik.
 
 (7) A végrehajtó az (1) bekezdés szerinti adatok beszerzése céljából elektronikus úton is megkeresheti az adatokat elektronikus úton nyilvántartó hatóságokat, szervezeteket.
+
+(8) A végrehajtás foganatosításához szükséges, e §-ban meghatározott adatok beszerzése iránt a végrehajtó már a végrehajtható okirat kézbesítése előtt intézkedhet.
