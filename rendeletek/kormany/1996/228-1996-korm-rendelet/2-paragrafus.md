@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya a mezőgazdasági őstermelőre és a mezőgazdasági kistermelőre (a továbbiakban együtt: mezőgazdasági őstermelő), valamint a Mezőgazdasági Szakigazgatási Hivatalra (a továbbiakban: MgSzH) és a megyei kormányhivatal földművelésügyi igazgatóságára, a kerületi állat-egészségügyi és élelmiszer-ellenőrző hivatalra (a továbbiakban: kerületi hivatal), valamint a mezőgazdasági őstermelői igazolványba (a továbbiakban: igazolvány) bejegyzésre jogosult más személyre terjed ki.
+## 1. §[^1] E rendelet hatálya a mezőgazdasági őstermelőre és a mezőgazdasági kistermelőre (a továbbiakban együtt: mezőgazdasági őstermelő), valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH) és a megyei kormányhivatal földművelésügyi igazgatóságára, a kerületi állat-egészségügyi és élelmiszer-ellenőrző hivatalra (a továbbiakban: kerületi hivatal), valamint a mezőgazdasági őstermelői igazolványba (a továbbiakban: igazolvány) bejegyzésre jogosult más személyre terjed ki.
 
 ## Az igazolvány tartalma és alaki kellékei
 
@@ -10,7 +10,7 @@
 
 (4)[^4] A közös igazolványban bejegyzett mezőgazdasági őstermelőkre az (1)–(3) bekezdésben foglaltakat személyenként külön-külön kell alkalmazni azzal, hogy a közös igazolvány kiadása iránt egyetlen kérelmet kell benyújtani.
 
-[^1]: Az 1. § a 182/2009. (IX. 10.) Korm. rendelet 100. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 182/2009. (IX. 10.) Korm. rendelet 100. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 32. § a) pontja, a 23/2012. (II. 29.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 101. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^3]: A 2. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 100. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^4]: A 2. § (4) bekezdését a 83/1997. (V. 21.) Korm. rendelet 1. §-a iktatta be, a 182/2009. (IX. 10.) Korm. rendelet 100. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

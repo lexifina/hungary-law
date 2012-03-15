@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-228-20-
 | 2010-02-12 | 1996-228-20-22.12 | 326/2009. (XII. 29.) Korm. rendelet |
 | 2011-01-01 | 1996-228-20-22.13 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2011-10-15 | 1996-228-20-22.14 | 212/2011. (X. 14.) Korm. rendelet |
+| 2012-03-15 | 1996-228-20-22.15 | 182/2009. (IX. 10.) Korm. rendelet |
