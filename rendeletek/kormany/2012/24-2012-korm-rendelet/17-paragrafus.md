@@ -1,0 +1,1 @@
+## „(4) A Kormány hatáskörrel rendelkező hatóságként az agrár-környezetgazdálkodási minimumkövetelmények ellenőrzésére a kérelmező székhelye, természetes személy kérelmező esetén lakóhelye szerint illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságát jelöli ki.”
