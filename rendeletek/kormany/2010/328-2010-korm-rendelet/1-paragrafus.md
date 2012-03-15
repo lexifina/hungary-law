@@ -12,4 +12,6 @@ d) földművelésügyi igazgatóság
 
 ## (a továbbiakban együtt: mezőgazdasági szakigazgatási szervek) működik.
 
-(2) A mezőgazdasági szakigazgatási szervek tekintetében a szakmai irányító szerv vezetőjének jogait a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) elnöke – az MgSzH jogállását szabályozó jogszabályban meghatározottak szerint – gyakorolja.
+(2)[^1] A mezőgazdasági szakigazgatási szervek tekintetében a szakmai irányító szerv vezetőjének jogait a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) elnöke – a NÉBIH jogállását szabályozó jogszabályban meghatározottak szerint – gyakorolja.
+
+[^1]: Az 1. § (2) bekezdése a 24/2012. (II. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

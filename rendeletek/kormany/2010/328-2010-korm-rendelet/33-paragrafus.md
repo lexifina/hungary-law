@@ -1,4 +1,4 @@
-33. § (1)[^8] A Kormány honvédelmi rendeltetésű erdő esetén
+33. § (1)[^51] A Kormány honvédelmi rendeltetésű erdő esetén
 
 a) az erdőterv megállapítási és módosítási eljárásban,
 
@@ -18,4 +18,4 @@ f) az elsődleges rendeltetés megváltoztatására vonatkozó eljárásban,
 
 (3) A Kormány – a növényi, állati vagy fertőzést okozó egyéb szervezetek országos jelentőségű védett természeti területen található erdőterületen történő tömeges elszaporodása esetén – az erdőgazdálkodó szükséges védekezés elvégzésére kötelezése iránti első fokú eljárásban – annak elbírálása kérdésében, hogy az elvégeztetni kívánt védekezés a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki. A szakhatóság az állásfoglalását – az eljáró hatóság kérésére – haladéktalanul, de legkésőbb egy munkanapon belül adja meg.
 
-[^8]: A 33. § (1) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^51]: A 33. § (1) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 38. §-a szerint módosított szöveg.
