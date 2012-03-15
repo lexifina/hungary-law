@@ -90,7 +90,7 @@
 
 | 3.4. | a reklámhordozóknak, fényforrásoknak, illetve egyéb homlokzati szerelvényeknek és berendezéseknek a terület, illetve épület történeti jellegéhez illeszkedő alkalmazása. |
 
-3. melléklet a 324/2010. (XII. 27.) Korm. rendelethez
+3. melléklet a 324/2010. (XII. 27.) Korm. rendelethez[^3]
 
 A Kulturális Örökségvédelmi Hivatal és a kulturális örökségvédelmi szakigazgatási szervek telekalakítási eljárásában közreműködő szakhatóságok
 
@@ -112,6 +112,8 @@ A Kulturális Örökségvédelmi Hivatal és a kulturális örökségvédelmi sz
 
 | 5. | A víziutak medrét és a kikötők, átkelők, vízpartok és vízterületek telkét érintő telekalakítás esetén. | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú vízi közlekedést, illetve hajózási létesítmények működését. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 6. | Erdő megosztása. | A fenntartható erdőgazdálkodás vizsgálata az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. §-a alapján. | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 6. | Erdő megosztása. | A fenntartható erdőgazdálkodás vizsgálata az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. §-a alapján. | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 7. | Ha a telekalakítás külterületen, valamint belterület esetén védett természeti területen, országos jelentőségű védett természeti területen, Natura 2000 területen, barlang védőövezetén belül kerül sor. | A természetvédelmi követelményeknek való megfelelés. | Környezet- védelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvé- delmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+
+[^3]: A 3. melléklet a 23/2012. (II. 29.) Korm. rendelet 61. § (2) bekezdése szerint módosított szöveg.
