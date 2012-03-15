@@ -80,9 +80,9 @@
 
 | - termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | illetékes megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | illetékes megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -122,9 +122,9 @@
 
 | – termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban Budapest Főváros Kormányhivatala földhivatala | földügyért felelős miniszter |
 
-| – talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| – talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| – erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| – erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -166,9 +166,9 @@
 
 | - termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -178,4 +178,4 @@
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 150. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 5. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 4. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 150. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 5. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 4. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 13. §-a szerint módosított szöveg.
