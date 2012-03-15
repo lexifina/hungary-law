@@ -1,4 +1,4 @@
-## 24. §[^2]
+## 24. §[^3]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A rendelet 2012. április 2-án hatályát veszti.
 
-[^2]: A 24. § a 25. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.
+[^3]: A 24. § a 25. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.

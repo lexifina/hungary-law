@@ -1,3 +1,0 @@
-## 13. § Az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet (a továbbiakban: fizikai védelemről szóló rendelet) 1. § (3) bekezdése helyébe következő rendelkezés lép:
-
-## „(3) A nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék szállítása tekintetében a rendelet hatálya minden szállítási módozatra kiterjed, azzal, hogy a légi, tengeri, valamint belvízi szállítás tekintetében a 3. melléklet 1–5. pontját, 13–30. pontját, 45–69. pontját, továbbá a légi és a tengeri szállítás tekintetében a 70–73. pontját nem kell alkalmazni.”
