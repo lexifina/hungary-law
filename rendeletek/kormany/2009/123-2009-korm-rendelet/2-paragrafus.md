@@ -2,7 +2,7 @@
 
 2. § (1) A (2) bekezdésben foglalt eltérésekkel a 689/2008/EK rendeletben előírt igazgatási feladatok végrehajtására a Kormány nemzeti hatóságként
 
-a)[^1] a növényvédő szerek és termésnövelő anyagok esetében a Mezőgazdasági Szakigazgatási Hivatalt, növény- és talajvédelmi jogkörében,
+a)[^1] a növényvédő szerek és termésnövelő anyagok esetében a Nemzeti Élelmiszerlánc-biztonsági Hivatalt, növény- és talajvédelmi jogkörében,
 
 b) az ipari vegyi anyagok és készítmények esetében az Országos Kémiai Biztonsági Intézetet (a továbbiakban: OKBI)
 
@@ -32,6 +32,6 @@ b) a vámáru-nyilatkozat alapján ellenőrzi a kiviteli bejelentés megtételé
 
 (8) Amennyiben az áru kivitele, illetve behozatala az Intézet tájékoztatása értelmében nem engedélyezett, a Vám- és Pénzügyőrség illetékes szerve az áruk behozatalára, valamint kivitelére vonatkozó külön jogszabályokban meghatározottak szerint jár el.
 
-[^1]: A 2. § (1) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § (1) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (1) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 44. §-a szerint módosított szöveg.
 [^2]: A 2. § (2) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (2) bekezdése szerint módosított szöveg.
 [^3]: A 2. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 243. § (2) bekezdése szerint módosított szöveg.
