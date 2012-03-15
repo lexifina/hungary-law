@@ -4,9 +4,9 @@
 
 (3)[^9] A helyes mezőgazdasági és környezeti állapotra vonatkozó előírások betartását az MVH ellenőrzi.
 
-(4)[^10] A vidékfejlesztési támogatásról szóló közösségi szabályok szerinti tápanyag-gazdálkodásra, valamint a növényvédőszer-használatra vonatkozó minimumkövetelmények betartását, a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 7-i 1975/2006/EK bizottsági rendelet 19. cikk (1) bekezdésére tekintettel a Mezőgazdasági Szakigazgatási Hivatal és a megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzik.
+(4)[^10] A vidékfejlesztési támogatásról szóló közösségi szabályok szerinti tápanyag-gazdálkodásra, valamint a növényvédőszer-használatra vonatkozó minimumkövetelmények betartását, a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 7-i 1975/2006/EK bizottsági rendelet 19. cikk (1) bekezdésére tekintettel a Nemzeti Élelmiszerlánc-biztonsági Hivatal és a megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzik.
 
 [^7]: A 3. § (1) bekezdése a 31/2009. (II. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^8]: A 3. § (2) bekezdése a 31/2009. (II. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^9]: A 3. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 592. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^10]: A 3. § (4) bekezdését a 144/2010. (IV. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 351/2010. (XII. 30.) korm. rendelet 195. § (2) bekezdésével megállapított szöveg.
+[^10]: A 3. § (4) bekezdését a 144/2010. (IV. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 351/2010. (XII. 30.) korm. rendelet 195. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 29. § (1) bekezdése szerint módosított szöveg.
