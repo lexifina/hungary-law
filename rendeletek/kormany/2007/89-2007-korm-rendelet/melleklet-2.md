@@ -122,7 +122,7 @@
 
 | Földvédelem | Budapest Főváros Kormányhivatala földhivatala | a földügyért felelős miniszter |
 
-| Talajvédelem | Mezőgazdasági Szakigazgatási Hivatal | az agrárpolitikáért felelős miniszter |
+| Talajvédelem | Nemzeti Élelmiszerlánc-biztonsági Hivatal | az agrárpolitikáért felelős miniszter |
 
 | Műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -130,4 +130,4 @@
 
 | Vasúti ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-[^2]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 282/2011. (XII. 21.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 282/2011. (XII. 21.) Korm. rendelet 20. §-a, a 23/2012. (II. 29.) Korm. rendelet 24. §-a szerint módosított szöveg.
