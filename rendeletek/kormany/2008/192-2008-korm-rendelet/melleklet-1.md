@@ -3,4 +3,4 @@
 1. számú melléklet a 192/2008. (VII. 30.) Korm. rendelethez[^6]
 
 [^5]: A 3. §-t a 76/2011. (V. 2.) Korm. rendelet 5. §-a iktatta be.
-[^6]: Az 1. számú melléklet az 51/2011. (III. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 76/2011. (V. 2.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^6]: Az 1. számú melléklet az 51/2011. (III. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 76/2011. (V. 2.) Korm. rendelet 3. §-a, a 23/2012. (II. 29.) Korm. rendelet 35. §-a szerint módosított szöveg.

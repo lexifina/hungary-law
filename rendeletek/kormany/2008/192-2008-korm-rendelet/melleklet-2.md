@@ -18,13 +18,13 @@
 
 | 8. | földmérési hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Körzeti Földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
 
-| 9. | erdővédelmi hatósági engedélyek | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 9. | erdővédelmi hatósági engedélyek | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 10. | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 11. | bányahatósági engedélyek | Magyar Bányászati és Földtani Hivatal Szolnoki Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 12. | talajvédelmi hatósági engedélyek | Bács-Kiskun Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 12. | talajvédelmi hatósági engedélyek | Bács-Kiskun Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 13. | kulturális örökségvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -68,9 +68,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 |  | a) termőföldvédelem | Kecskeméti Körzeti Földhivatal | Bács-Kiskun Megyei Kormányhivatal Földhivatala |
 
-|  | b) talajvédelem | Bács-Kiskun Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | b) talajvédelem | Bács-Kiskun Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-|  | c) erdővédelem | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | c) erdővédelem | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 11. | kulturális örökségvédelem | Csongrád Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -80,6 +80,6 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 14. | műszaki biztonság | Csongrád Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 15. | élelmiszer-biztonság | Bács-Kiskun Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 15. | élelmiszer-biztonság | Bács-Kiskun Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^7]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 218. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 16. §-a, a 282/2011. (XII. 21.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^7]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 218. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 16. §-a, a 282/2011. (XII. 21.) Korm. rendelet 32. §-a, a 23/2012. (II. 29.) Korm. rendelet 35. §-a szerint módosított szöveg.
