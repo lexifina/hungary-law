@@ -18,13 +18,13 @@
 
 | 8. |  | 090/2, 090/3, 090/4, 090/5, 091, 092, 093, 094, 095/2, 095/3 095/4, 095/5, 096, 097, 099, 02/2, 02/3 ingatlan-nyilvántartási helyrajzi számú földrészletek. | földmérési hatósági eljárások | Vát közigazgatási területe tekintetében a Szombathelyi Körzeti Földhivatal, Porpác közigazgatási területe tekintetében a Sárvári Körzeti Földhivatal | Vas Megyei kormányhivatal földhivatala |
 
-| 9. |  |  | erdővédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 9. |  |  | erdővédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 10. |  |  | hírközlési hatósági engedélyezési eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 11. |  |  | bányahatósági engedélyezési eljárások | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 12. |  |  | talajvédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 12. |  |  | talajvédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 13. |  |  | kulturális örökségvédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Kulturális Örökségvédelmi Iroda | Kulturális Örökségvédelmi Hivatal |
 
@@ -42,7 +42,7 @@
 
 | 20. |  |  | repülőtér létesítésére irányuló hatósági eljárások | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 351/2009. (XII. 30.) Korm. rendelethez[^2]
+2. melléklet a 351/2009. (XII. 30.) Korm. rendelethez[^3]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -80,9 +80,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 |  | a) termőföldvédelem | Vas Megyei Kormányhivatal Földhivatala | földügyért felelős miniszter |
 
-|  | b) talajvédelem | Vas Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | b) talajvédelem | Vas Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-|  | c) erdővédelem | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | c) erdővédelem | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 10. | kulturális örökségvédelem | Vas Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -98,4 +98,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 16. |  |  |  |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 270. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 30. §-a, a 259/2011. (XII. 7.) Korm. rendelet 21. § c) pontja, a 282/2011. (XII. 21.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 270. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 30. §-a, a 259/2011. (XII. 7.) Korm. rendelet 21. § c) pontja, a 282/2011. (XII. 21.) Korm. rendelet 41. §-a, a 23/2012. (II. 29.) Korm. rendelet 50. §-a szerint módosított szöveg.
