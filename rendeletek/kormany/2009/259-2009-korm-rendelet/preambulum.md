@@ -1,1 +1,0 @@
-A Nemzeti Földalapról szóló 2001. évi CXVI. törvény módosításáról szóló 2002. évi XXIV. törvény 15. § (1) bekezdésében kapott felhatalmazása, valamint az Alkotmány 35. § (1) bekezdésének b) pontja alapján a Kormány a következőket rendeli el:

@@ -1,3 +1,0 @@
-9. § (1) Az életjáradékot a megküldött életjáradéki szerződés alapján a Nyugdíjfolyósító Igazgatóság folyósítja. A folyósításhoz szükséges életjáradéki szerződések átadásának módját, valamint a folyósítással összefüggő ügyviteli eljárást az MNV Zrt. az Országos Nyugdíjbiztosítási Főigazgatósággal és a Nyugdíjfolyósító Igazgatósággal kötött megállapodásban rendezi.
-
-(2) A folyósított életjáradék megtérítésével, valamint az életjáradék folyósításával, emelésével kapcsolatos költségek az MNV Zrt.-t terhelik. Az elszámolás módjáról az MNV Zrt. az Országos Nyugdíjbiztosítási Főigazgatósággal és a Nyugdíjfolyósító Igazgatósággal kötött megállapodás alapján gondoskodik.
