@@ -122,6 +122,6 @@
 
 | Valamennyi faj | Rágcsálók és nyúl | Kutya, macska | Főemlős | Egyéb |
 
-4. számú melléklet a 243/1998. (XII. 31.) Korm. rendelethez[^33]
+4. számú melléklet a 243/1998. (XII. 31.) Korm. rendelethez[^34]
 
-[^33]: A 4. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 156. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A 4. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 156. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

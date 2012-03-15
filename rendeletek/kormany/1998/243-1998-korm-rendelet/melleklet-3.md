@@ -72,6 +72,6 @@
 
 ## 18. Az ügyfél cégszerű aláírása.
 
-3. számú melléklet a 243/1998. (XII. 31.) Korm. rendelethez[^32]
+3. számú melléklet a 243/1998. (XII. 31.) Korm. rendelethez[^33]
 
-[^32]: A 3. számú melléklet a 186/2003. (XI. 5.) Korm. rendelet 5. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^33]: A 3. számú melléklet a 186/2003. (XI. 5.) Korm. rendelet 5. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 54. §-a szerint módosított szöveg.

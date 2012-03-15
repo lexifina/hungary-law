@@ -78,6 +78,6 @@
 
 ## 12. Az állatot a faj sajátosságainak megfelelő és káros anyagot nem tartalmazó alommal kell ellátni. Az almot olyan gyakran kell cserélni, hogy az állat megfelelően tudjon pihenni, valamint az elegendő mértékben megkösse a vizeletet, ürüléket, párát.
 
-2. számú melléklet a 243/1998. (XII. 31.) Korm. rendelethez[^31]
+2. számú melléklet a 243/1998. (XII. 31.) Korm. rendelethez[^32]
 
-[^31]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 154. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 154. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
