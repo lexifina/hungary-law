@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-31-20-2
 | 2010-10-02 | 2007-31-20-22.5 | 65/2010. (III. 18.) Korm. rendelet |
 | 2011-01-01 | 2007-31-20-22.6 | 65/2010. (III. 18.) Korm. rendelet |
 | 2012-01-01 | 2007-31-20-22.7 | 300/2011. (XII. 22.) Korm. rendelet |
+| 2012-03-15 | 2007-31-20-22.8 | 65/2010. (III. 18.) Korm. rendelet |
