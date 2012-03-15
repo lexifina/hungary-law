@@ -1,10 +1,10 @@
-## 5/A. §[^13]
+## 5/A. §[^14]
 
 ## Záró rendelkezés
 
 6. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 63/2005. (IV. 8.) Korm. rendelethez[^14]
+Melléklet a 63/2005. (IV. 8.) Korm. rendelethez[^15]
 
 Az önálló ingatlanná alakítással kapcsolatos költségek megelőlegezésére vonatkozó nyilatkozat
 
@@ -26,5 +26,5 @@ c) a kérelmező tulajdoni hányada.
 
 5. A kérelmező aláírása.
 
-[^13]: Az 5/A. §-t a 338/2006. (XII. 23.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 32. pontja. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^14]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 402. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: Az 5/A. §-t a 338/2006. (XII. 23.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 32. pontja. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^15]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 402. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
