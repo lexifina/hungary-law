@@ -22,7 +22,7 @@ e) a)–d) pontok esetében a felügyelőséghez is.
 
 (5a)[^23] A 3. számú melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
 
-(6) A kivizsgálásba a halászatról és horgászatról szóló külön jogszabály szerinti tiltott halfogási mód következtében fellépő halpusztulás esetén a halászati, valamint az erdőket érintő környezetveszélyeztetés és környezetkárosodás esetén erdészeti hatóságként a Mezőgazdasági Szakigazgatási Hivatalt is be kell vonni.
+(6)[^24] A kivizsgálásba a halászatról és horgászatról szóló külön jogszabály szerinti tiltott halfogási mód következtében fellépő halpusztulás esetén a halászati, valamint az erdőket érintő környezetveszélyeztetés és környezetkárosodás esetén erdészeti hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatalt is be kell vonni.
 
 [^17]: A 15. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés b)–c) pontja szerint módosított szöveg.
 [^18]: A 15. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c), g) és k) pontja szerint módosított szöveg.
@@ -31,3 +31,4 @@ e) a)–d) pontok esetében a felügyelőséghez is.
 [^21]: A 15. § (4) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 179. § a) pontja szerint módosított szöveg.
 [^22]: A 15. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 179. § b) pontja, a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^23]: A 15. § (5a) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 180. §-a iktatta be.
+[^24]: A 15. § (6) bekezdése a 23/2012. (II. 29.) Korm. rendelet 25. § (1) bekezdése szerint módosított szöveg.
