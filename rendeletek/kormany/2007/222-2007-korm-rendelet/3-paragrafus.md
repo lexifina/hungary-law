@@ -6,7 +6,7 @@
 
 (3)[^2] A Kormány a jegyző állandó menazséria működtetéséhez szükséges engedélyezési eljárásában,
 
-a)[^3] – annak elbírálása kérdésében, hogy az állandó menazséria és az állattartás körülményei megfelelnek-e az állatvédelmi és a járványügyi követelményeknek – első fokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság), másodfokú eljárásban a Mezőgazdasági Szakigazgatási Hivatalt, valamint
+a)[^3] – annak elbírálása kérdésében, hogy az állandó menazséria és az állattartás körülményei megfelelnek-e az állatvédelmi és a járványügyi követelményeknek – első fokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság), másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt, valamint
 
 b) – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, továbbá a nemzetközi természetvédelmi egyezmények hatálya alá tartozó állatok jogszerű eredetének ellenőrzése céljából – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget
 
@@ -84,7 +84,7 @@ b) az állatok tartása során az állat kíméletére, ellátására, tartásá
 
 [^1]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 563. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^2]: A 3. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^3]: A 3. § (3) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 187. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (3) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 187. § (1) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
 [^4]: A 3. § (4) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 564. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^5]: A 3. § (5) bekezdés g) pontja a 182/2009. (IX. 10.) Korm. rendelet 564. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A 3. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 563. § (2) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (93) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
