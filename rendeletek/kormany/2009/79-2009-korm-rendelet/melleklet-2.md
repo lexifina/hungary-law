@@ -118,9 +118,9 @@
 
 | 8.1. termőföldvédelem | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| 8.2. talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 8.2. talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 9. kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -160,9 +160,9 @@
 
 | 8.1. termőföldvédelem | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| 8.2. talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 8.2. talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 8.3. erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 9. kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -172,4 +172,4 @@
 
 | 12. műszaki biztonság | Fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal” |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 241. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 241. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 23. §-a, a 23/2012. (II. 29.) Korm. rendelet 42. §-a szerint módosított szöveg.
