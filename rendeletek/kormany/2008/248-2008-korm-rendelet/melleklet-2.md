@@ -20,13 +20,13 @@
 
 | 8. | földmérési hatósági eljárások | Marcali Körzeti Földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
 
-| 9. | erdővédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 9. | erdővédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 10. | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 11. | bányahatósági engedélyek | Magyar Bányászati és Földtani Hivatal Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 12. | talajvédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
+| 12. | talajvédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 13. | kulturális örökségvédelmi hatósági engedélyek | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -72,9 +72,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 |  | a) termőföldvédelem | Marcali Körzeti Földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
 
-|  | b) talajvédelem | Somogy Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | b) talajvédelem | Somogy Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-|  | c) erdővédelem | Somogy Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | c) erdővédelem | Somogy Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 11. | kulturális örökségvédelem | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -84,6 +84,6 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 14. | műszaki biztonság | Baranya Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 15. | élelmiszer-biztonság | Somogy Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 15. | élelmiszer-biztonság | Somogy Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 224. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 18. §-a, a 282/2011. (XII. 21.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 224. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 18. §-a, a 282/2011. (XII. 21.) Korm. rendelet 34. §-a, a 23/2012. (II. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
