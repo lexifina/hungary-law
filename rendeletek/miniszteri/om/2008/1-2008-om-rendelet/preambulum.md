@@ -1,1 +1,0 @@
-Az atomenergiáról szóló 1996. évi CXVI. törvény 68. §-ának (11) bekezdésében kapott felhatalmazás alapján az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet 1. §-ának c) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
