@@ -262,7 +262,7 @@
 
 ## 1.99.[^98] a Szervezett Bűnözés Elleni Koordinációs Központ által kibocsátott szolgálati és munkáltatói igazolványok;
 
-## 1.100.[^99] a Mezőgazdasági Szakigazgatási Hivatal által kiadott kormánytisztviselői igazolvány;
+## 1.100.[^99] a Nemzeti Élelmiszerlánc-biztonsági Hivatal által kiadott kormánytisztviselői igazolvány;
 
 ## 1.101.[^100] Megyei Kormányhivatalok Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságon dolgozó hatósági személy igazolványa;
 
@@ -453,7 +453,7 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^96]: Az 1. számú melléklet III. rész 1. pont 1.95. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^97]: Az 1. melléklet III. fejezet 1. pont 1.98. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § f) pontjával megállapított szöveg.
 [^98]: Az 1. számú melléklet III. rész 1. pont 1.99. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^99]: Az 1. számú melléklet III. rész 1. pont 1.100. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^99]: Az 1. számú melléklet III. rész 1. pont 1.100. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 23/2012. (II. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^100]: Az 1. számú melléklet III. rész 1. pont 1.101. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^101]: Az 1. számú melléklet III. rész 1. pont 1.102. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^102]: Az 1. számú melléklet III. rész 1. pont 1.103. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
