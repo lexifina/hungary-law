@@ -62,9 +62,9 @@
 
 | Helyi környezet- és természetvédelem | az érintett települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
 
-| Erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| Erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| Talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| Talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
@@ -82,7 +82,7 @@
 
 | Építésügy | fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
 
-| Állattartás | megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| Állattartás | megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -124,9 +124,9 @@
 
 | - termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -168,9 +168,9 @@
 
 | - termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -210,9 +210,9 @@
 
 | - termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -222,4 +222,4 @@
 
 | Műszaki biztonság | főváros, megyei kormányhivatal mérésügyi és biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 151. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 5. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 151. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 5. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
