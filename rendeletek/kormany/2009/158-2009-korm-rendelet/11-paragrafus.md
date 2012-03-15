@@ -6,11 +6,11 @@
 
 a) élelmiszerek esetében – külön jogszabályban foglaltak szerint – a kerületi állat-egészségügyi és élelmiszer-ellenőrző hivatalt (a továbbiakban: kerületi hivatal),
 
-b) szeszes italok esetében – külön jogszabályban foglaltak szerint – a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) és a Mezőgazdasági Szakigazgatási Hivatalt,
+b)[^5] szeszes italok esetében – külön jogszabályban foglaltak szerint – a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
-c) zöldség-gyümölcs esetében – külön jogszabályban foglaltak szerint – a megyei kormányhivatal növény- és talajvédelmi igazgatóságát és a Mezőgazdasági Szakigazgatási Hivatalt,
+c)[^6] zöldség-gyümölcs esetében – külön jogszabályban foglaltak szerint – a megyei kormányhivatal növény- és talajvédelmi igazgatóságát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
-d) mezőgazdasági termékek esetében – külön jogszabályban foglaltak szerint – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot és a Mezőgazdasági Szakigazgatási Hivatalt
+d)[^7] mezőgazdasági termékek esetében – külön jogszabályban foglaltak szerint – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
 
 (a továbbiakban együtt: ellenőrző hatóság) jelöli ki.
 
@@ -25,3 +25,6 @@ d) mezőgazdasági termékek esetében – külön jogszabályban foglaltak szer
 (6) A földrajzi árujelzővel ellátott termék elnevezése, megjelölése, illetve szimbóluma használata megsértésének észlelése esetén az ellenőrző hatóság, illetve a fogyasztóvédelmi hatóság egymást haladéktalanul értesíti az eljárás megindításáról az eljárás tárgyát képező tényállás ismertetésével, melynek során az ügy érdemi azonosíthatóságához szükséges adatokat – így különösen az érintett vállalkozás azonosításához szükséges adatokat, valamint az ellenőrzés helyére és idejére vonatkozó adatokat – a másik fél rendelkezésére bocsátja. Ha a jogsértés miatt mindkét hatóság jogosult eljárni, a továbbiakban az a hatóság jár el, amely az ügyben az eljárást korábban indította meg.
 
 [^4]: A 11. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 247. §-ával megállapított szöveg.
+[^5]: A 11. § (1) bekezdés b) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 11. § (1) bekezdés c) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 11. § (1) bekezdés d) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése szerint módosított szöveg.

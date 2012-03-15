@@ -22,7 +22,7 @@ ca) a termékleírásban foglaltaktól való olyan mértékű vagy természetű 
 
 cb) a b) pont ba) alpontja szerinti lényeges hiba három éven belül történő megismétlődése.
 
-(3)[^5] Az (1) bekezdés c) pontja szerinti tilalom időtartama egy év. A tilalom lejártát megelőző huszonegy napon belül az ellenőrző hatóság az előállító székhelyén vagy telephelyén ellenőrzi, hogy a földrajzi árujelzővel ellátott termék megfelel-e a termékleírásban foglaltaknak. A földrajzi árujelző újbóli használatát az előállító csak akkor kezdheti meg, ha a tilalom lejártának napját megelőző ellenőrzés során az ellenőrző hatóság megállapítja, hogy a földrajzi árujelzővel ellátott termék a termékleírásban foglaltaknak megfelel.
+(3)[^8] Az (1) bekezdés c) pontja szerinti tilalom időtartama egy év. A tilalom lejártát megelőző huszonegy napon belül az ellenőrző hatóság az előállító székhelyén vagy telephelyén ellenőrzi, hogy a földrajzi árujelzővel ellátott termék megfelel-e a termékleírásban foglaltaknak. A földrajzi árujelző újbóli használatát az előállító csak akkor kezdheti meg, ha a tilalom lejártának napját megelőző ellenőrzés során az ellenőrző hatóság megállapítja, hogy a földrajzi árujelzővel ellátott termék a termékleírásban foglaltaknak megfelel.
 
 (4) Ha az előállító, illetve forgalmazó az (1) bekezdés b), illetve c) pontja alapján hozott feltételhez kötő, vagy tiltó határozat ellenére használja az adott földrajzi árujelzőt, az ellenőrző hatóság
 
@@ -30,7 +30,7 @@ a) a jogsértő cég adatait és a jogsértést nyilvánosságra hozza,
 
 b) a földrajzi árujelzővel jogellenesen ellátott terméket a forgalomból kivonja, illetve
 
-c)[^6] a fogyasztók megtévesztésének gyanúja esetén értesíti a Gazdasági Versenyhivatalt, illetve a fogyasztóvédelmi hatóságot a tapasztalt szabálytalanságról.
+c)[^9] a fogyasztók megtévesztésének gyanúja esetén értesíti a Gazdasági Versenyhivatalt, illetve a fogyasztóvédelmi hatóságot a tapasztalt szabálytalanságról.
 
-[^5]: A 12. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (117) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^6]: A 12. § (4) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 248. §-a szerint módosított szöveg.
+[^8]: A 12. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (117) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^9]: A 12. § (4) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 248. §-a szerint módosított szöveg.
