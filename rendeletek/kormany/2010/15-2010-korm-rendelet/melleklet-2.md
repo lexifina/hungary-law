@@ -24,13 +24,13 @@
 
 | 11. |  |  | földmérési hatósági eljárások | Paksi Körzeti Földhivatal | Tolna Megyei kormányhivatal földhivatala |
 
-| 12. |  |  | erdővédelmi hatósági eljárások | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 12. |  |  | erdővédelmi hatósági eljárások | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 13. |  |  | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
 
 | 14. |  |  | bányahatósági eljárások | Magyar Bányászati és Földtani Hivatal Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 15. |  |  | talajvédelmi hatósági eljárások | Tolna Megyei Kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 15. |  |  | talajvédelmi hatósági eljárások | Tolna Megyei Kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 16. |  |  | kulturális örökségvédelmi hatósági eljárások | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -46,7 +46,7 @@
 
 | 22. |  |  | nyomástartó berendezések, veszélyes folyadéktárolók engedélyezésével kapcsolatos hatósági eljárások | Baranya Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal” |
 
-2. melléklet a 15/2010. (II. 5.) Korm. rendelethez[^2]
+2. melléklet a 15/2010. (II. 5.) Korm. rendelethez[^3]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -82,9 +82,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | földművelésügy: termőföldvédelem | Paksi Körzeti Földhivatal | Tolna Megyei kormányhivatal földhivatala |
 
-| 16. | földművelésügy: talajvédelem | Tolna Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 16. | földművelésügy: talajvédelem | Tolna Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 17. | földművelésügy: erdővédelem | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 17. | földművelésügy: erdővédelem | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 18. | kulturális örökségvédelem | Baranya Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -94,6 +94,6 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 21. | műszaki biztonság | Baranya Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 22. | élelmiszer-biztonság | Tolna Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 22. | élelmiszer-biztonság | Tolna Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 272. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 272. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 31. §-a, a 23/2012. (II. 29.) Korm. rendelet 51. §.-a szerint módosított szöveg.
