@@ -18,8 +18,8 @@
 
 hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^147] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága hatáskörébe is tartozik.
+(2)[^148] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Élelmiszerlánc-biztonsági Hivatal, a megyei kormányhivatal Növény- és Talajvédelmi Igazgatósága hatáskörébe is tartozik.
 
 (3) A jogszabályellenesen forgalomba hozatalra szánt vagy forgalomba hozott szaporítóanyagot el kell kobozni.
 
-[^147]: A 106. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 15. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § j) pontja szerint módosított szöveg.
+[^148]: A 106. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 15. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § j) pontja, a 23/2012. (II. 29.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

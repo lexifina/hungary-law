@@ -4,7 +4,7 @@
 
 hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^113] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség, a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete, illetőleg a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal mezőgazdasági szakigazgatási szerve, a kerületi állat-egészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: kerületi hivatal) hatáskörébe is tartozik.
+(2)[^113] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a illetékes fogyasztóvédelmi felügyelőség, a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete, illetőleg a Nemzeti Élelmiszerlánc-biztonsági Hivatal, a megyei kormányhivatal mezőgazdasági szakigazgatási szerve, a kerületi állat-egészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: kerületi hivatal) hatáskörébe is tartozik.
 
 [^112]: A 81. § (1) bekezdése a 10/2011. (II. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^113]: A 81. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 6. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § b), e) és h) pontja szerint módosított szöveg.
+[^113]: A 81. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 6. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 64. § b), e) és h) pontja, a 23/2012. (II. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

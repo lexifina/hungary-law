@@ -8,6 +8,6 @@ b) a rágcsáló és rovarirtásra vonatkozó egészségügyi jogszabályt vagy 
 
 ## megszegi, hatvanezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^143] Az (1) bekezdés a) pontjában meghatározott szabálysértések miatt az eljárás a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete hatáskörébe is, az (1) bekezdés b) pontjában meghatározott szabálysértések miatt az eljárás a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve, illetve az élelmiszer-vállalkozások esetében a Mezőgazdasági Szakigazgatási Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal hatáskörébe is tartozik.
+(2)[^143] Az (1) bekezdés a) pontjában meghatározott szabálysértések miatt az eljárás a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve vagy kistérségi népegészségügyi intézete hatáskörébe is, az (1) bekezdés b) pontjában meghatározott szabálysértések miatt az eljárás a fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve, illetve az élelmiszer-vállalkozások esetében a Nemzeti Élelmiszerlánc-biztonsági Hivatal, a megyei kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága, a kerületi hivatal hatáskörébe is tartozik.
 
-[^143]: A 102. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 12. §-ával megállapított,a 351/2010. (XII. 30.) Korm. rendelet 64. § b) és i) pontja szerint módosított szöveg.
+[^143]: A 102. § (2) bekezdése a 267/2007. (X. 15.) Korm. rendelet 12. §-ával megállapított,a 351/2010. (XII. 30.) Korm. rendelet 64. § b) és i) pontja, a 23/2012. (II. 29.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

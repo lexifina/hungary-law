@@ -10,6 +10,6 @@ c) a gázfogyasztó készülék, illetőleg a gázvezeték műszaki-biztonsági 
 
 ## százezer forintig terjedő pénzbírsággal sújtható.
 
-(2)[^165] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
+(2)[^166] Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bányakapitányság hatáskörébe is tartozik.
 
-[^165]: A 133. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^166]: A 133. § (2) bekezdése a 32/2007. (III. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
