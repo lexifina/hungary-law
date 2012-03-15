@@ -16,7 +16,7 @@ f)[^149] ha az építmény külterületen, továbbá belterületen egyedi tájé
 
 g)[^150] helyi jelentőségű védett természeti területen vagy arra közvetlen hatást gyakorló módon megvalósuló vasúti építmény esetén, – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó helyi önkormányzati rendeletben meghatározott követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a települési önkormányzat jegyzőjét, a fővárosban a főjegyzőt, másodfokú eljárásban a fővárosi és megyei kormányhivatalt,
 
-h)[^151] erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló területen vagy arra közvetlen hatást gyakorló módon megvalósuló – normál és keskeny nyomtávú – vasúti pályaépítmény esetén, – annak elbírálása kérdésében, hogy a tevékenység az erdő védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a megyei kormányhivatal erdészeti igazgatóságát, másodfokú eljárásban a Mezőgazdasági Szakigazgatási Hivatalt
+h)[^151] erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló területen vagy arra közvetlen hatást gyakorló módon megvalósuló – normál és keskeny nyomtávú – vasúti pályaépítmény esetén, – annak elbírálása kérdésében, hogy a tevékenység az erdő védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a megyei kormányhivatal erdészeti igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
 
 ## szakhatóságként jelöli ki.
 
@@ -45,6 +45,6 @@ első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi 
 [^148]: A 8/D. § (1) bekezdés d) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés m) pontja szerint módosított szöveg.
 [^149]: A 8/D. § (1) bekezdés f) pontja a 82/2011. (V. 18.) Korm. rendelet 28. §-ával megállapított szöveg.
 [^150]: A 8/D. § (1) bekezdés g) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés o) pontja szerint módosított szöveg.
-[^151]: A 8/D. § (1) bekezdés h) pontját a 145/2009. (VII. 10.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés n) pontja szerint módosított szöveg.
+[^151]: A 8/D. § (1) bekezdés h) pontját a 145/2009. (VII. 10.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés n) pontja, a 23/2012. (II. 29.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
 [^152]: A 8/D. § (2) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^153]: A 8/D. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 487. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

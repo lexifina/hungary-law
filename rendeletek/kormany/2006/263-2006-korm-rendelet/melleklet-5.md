@@ -10,7 +10,7 @@
 
 | 4. | Repülőtéri meteorológiai berendezések létesítési és üzembe helyezési eljárása során. | Annak elbírálása kérdésében, hogy a repülőtéri meteorológiai berendezések létesítése, üzembe helyezése, üzemeltetése, az eszközök karbantartottsága megfelel-e a nemzetközi polgári repülésről szóló, Chicagóban, 1944. évi december 7. napján aláírt Egyezmény alapján a Meteorológiai Világszervezet és a Nemzetközi Polgári Repülési Szervezet által megállapított előírásoknak, valamint a repülésmeteorológiai információk hiteles forrásból származnak-e. | Országos Meteorológiai Szolgálat | – |
 
-| 5. | Termőföldön megvalósuló légiforgalmi berendezés létesítésének engedélyezése esetén. | Termőföld minőségi védelme. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 5. | Termőföldön megvalósuló légiforgalmi berendezés létesítésének engedélyezése esetén. | Termőföld minőségi védelme. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 6. | A berendezés típuscseréje, valamint a repülőtér területén történő légiforgalmi berendezés telepítése kivételével a nem ionizáló sugárzó berendezést szolgáló építmény hatósági engedélyezése esetén. | A berendezés sugár-egészségügyi hatásai, kockázatai. | Állami Népegészségügyi és Tisztiorvosi Szolgálat Sugár-egészségügyi Decentruma | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
 
