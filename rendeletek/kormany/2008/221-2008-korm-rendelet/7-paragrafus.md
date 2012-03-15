@@ -1,9 +1,9 @@
 ## 6. §[^13] A FÖMI a parlagfű elleni közérdekű védekezés végrehajtásának részletes szabályairól szóló külön jogszabályban meghatározott feladata ellátásával kapcsolatos költségeit – a földművelésügyi és vidékfejlesztési miniszter előzetes jóváhagyása alapján – az előirányzatból kell biztosítani. A FÖMI az elvégzett feladatokról és felhasznált forrásokról a tárgyév december 31. napjáig szakmai beszámolót és tételes pénzügyi elszámolást nyújt be a földművelésügyi és vidékfejlesztési miniszternek.
 
-7. § (1)[^14] A közérdekű védekezéssel kapcsolatos költségek előlegezését a közérdekű védekezést elrendelő hatóság a védekezést elrendelő határozat meghozatala után igényelheti az MgSzH-tól. Amennyiben a földhasználó a közérdekű védekezés elrendelését követően tesz eleget védekezési kötelezettségének, az okafogyottá vált kiszállással felmerült költségeket lehet érvényesíteni.
+7. § (1)[^14] A közérdekű védekezéssel kapcsolatos költségek előlegezését a közérdekű védekezést elrendelő hatóság a védekezést elrendelő határozat meghozatala után igényelheti a NÉBIH-től. Amennyiben a földhasználó a közérdekű védekezés elrendelését követően tesz eleget védekezési kötelezettségének, az okafogyottá vált kiszállással felmerült költségeket lehet érvényesíteni.
 
-(2)[^15] Az MgSzH a közérdekű védekezéssel kapcsolatos költségeket a hozzá érkezett igény szerint a közérdekű védekezést elrendelő hatóság részére az előirányzat terhére megelőlegezi, az igénylés beérkezését követő nyolc napon belül.
+(2)[^15] A NÉBIH a közérdekű védekezéssel kapcsolatos költségeket a hozzá érkezett igény szerint a közérdekű védekezést elrendelő hatóság részére az előirányzat terhére megelőlegezi, az igénylés beérkezését követő nyolc napon belül.
 
 [^13]: A 6. § a 182/2009. (IX. 10.) Korm. rendelet 640. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: A 7. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 220. § (6) bekezdése szerint módosított szöveg.
-[^15]: A 7. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (107) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 220. § (6) bekezdése szerint módosított szöveg.
+[^14]: A 7. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 220. § (6) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 36. § (3) bekezdése szerint módosított szöveg.
+[^15]: A 7. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (107) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 220. § (6) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 36. § (2) bekezdése szerint módosított szöveg.

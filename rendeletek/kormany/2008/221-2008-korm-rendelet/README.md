@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-221-20-
 | --- | --- | --- |
 | 2009-10-01 | 2008-221-20-22.2 | 221/2008. (VIII. 30.) Korm. rendelet |
 | 2011-01-01 | 2008-221-20-22.3 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2012-03-15 | 2008-221-20-22.4 | 351/2010. (XII. 30.) Korm. rendelet |
