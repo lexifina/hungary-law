@@ -1,5 +1,7 @@
 35. § (1) Az egészségügyi szolgáltató fenntartója vagy működtetője – amennyiben több egészségügyi szolgáltatót is működtet – a finanszírozás keretében kapott összeget minden általa fenntartott egészségügyi szolgáltató tekintetében külön számlán kezeli. Az egészségügyi szolgáltató a finanszírozás keretében kapott összeget más pénzeszközeitől elkülönítetten kezeli. Az egészségügyi szolgáltató elkülönített számlájának megterheléséhez szükséges az egészségügyi szolgáltató és fenntartójának előzetes jóváhagyása. A finanszírozás keretében járó összegnek legfeljebb 10%-a engedményezhető.
 
+(1a) Az egészségügyi szolgáltató a finanszírozási szerződés megkötésével, valamint a számla megváltozása esetén ennek bejelentésével egyidejűleg köteles nyilatkozni a finanszírozásra kapott összegek tekintetében elkülönítetten kezelt számláját vezető hitelintézetnek arról, hogy a számla a (2) bekezdés alapján elkülönítetten kezelt számla.
+
 (2) Az E. Alapból a finanszírozási szerződésben foglalt feladatokra folyósított összeg nem mentesíti a szolgáltató fenntartóját (tulajdonos, kezelő) az egyéb jogszabályokban előírt fenntartási és fejlesztési kötelezettségek alól. A finanszírozás keretében folyósított összeg csak a finanszírozási szerződésben foglalt feladatokra használható fel.
 
 (3) Abban az esetben, amikor a finanszírozási szerződés megkötésének szempontjából a helyi önkormányzat minősül egészségügyi szolgáltatónak, a finanszírozás keretében kapott összeg az egészségügyi szolgáltatók működésével kapcsolatos igazgatási kiadásaira nem használható fel.

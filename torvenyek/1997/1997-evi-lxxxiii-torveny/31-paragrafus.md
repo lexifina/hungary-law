@@ -12,7 +12,7 @@ e) a külön jogszabály rendelkezései szerinti feltételeket,
 
 f) a külön jogszabályban meghatározott esetben az elszámolható szolgáltatások mennyiségi korlátjait,
 
-g)
+g) a 35. § (1) bekezdése szerint a finanszírozásra kapott összegek elkülönített kezelésére szolgáló számla számát,
 
 h) a szerződés hatályát, a módosítására és felmondására vonatkozó rendelkezéseket, a szerződés megszegése esetén követendő eljárást, ideértve a szerződésszegésen alapuló igények érvényesítési rendjét is,
 
