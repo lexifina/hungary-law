@@ -4,9 +4,9 @@
 
 (3) Az eljárási díjat
 
-a) a fizetési meghagyás kibocsátása iránti kérelem elektronikus benyújtása esetén bankkártyával kezdeményezett átutalással,
+a) a fizetési meghagyás kibocsátása iránti kérelem elektronikus benyújtása esetén bankkártyával kezdeményezett átutalással, online fizetési felület igénybevételével,
 
-b) a fizetési meghagyás kibocsátása iránti kérelem papír alapon, postai úton történő beadása esetén postai készpénz-átutalási megbízással (a befizetés tényét igazoló szelvényt a kérelemhez mellékelni kell), vagy
+b) a fizetési meghagyás kibocsátása iránti kérelem papír alapon, postai úton történő beadása esetén fizetési számlára postai úton történő készpénzbefizetéssel (a befizetés tényét igazoló szelvényt a kérelemhez mellékelni kell), vagy
 
 c) az igazságügyért felelős miniszter rendeletében meghatározott módon
 

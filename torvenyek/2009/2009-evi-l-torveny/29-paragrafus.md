@@ -1,4 +1,4 @@
-29. § (1) Nem tekinthető a fizetési meghagyás megtámadásának, ha a kötelezett csak a fizetésre halasztás vagy részletfizetés engedélyezését kéri; ilyen kérelem előterjesztésére az ellentmondásra nyitva álló határidőn belül van lehetőség.
+29. § (1) Nem tekinthető a fizetési meghagyás megtámadásának, ha a kötelezett csak a fizetésre halasztás vagy részletfizetés engedélyezését kéri; fizetésre halasztás vagy részletfizetés engedélyezése iránti kérelem előterjesztésére kizárólag az ellentmondásra nyitva álló határidőn belül van lehetőség.
 
 (2) A közjegyző a kötelezett részére, indokolt kérelme alapján, kivételesen fizetésre halasztást vagy részletfizetést engedélyezhet, ha ez a felek méltányos érdekeinek mérlegelése alapján vagy a kötelezettség természetére való tekintettel indokoltnak mutatkozik. A közjegyző a kérelem elbírálásánál figyelembe veszi a feleknek az ügy vitelében megnyilvánult jó- vagy rosszhiszeműségét is. Részletekben való teljesítés engedélyezése esetében bármely részlet megfizetésének elmulasztása esetében az egész tartozás esedékessé válik.
 

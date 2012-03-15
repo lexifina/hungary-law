@@ -14,7 +14,7 @@ e) a félnek nincs perbeli jogképessége (Pp. 48. §);
 
 f) a jogosult a 15. § (1) bekezdése ellenére kézbesítési megbízottat nem jelölt meg, vagy a jogosult a fizetési meghagyás hirdetményi kézbesítését kéri;
 
-g) a kötelezettnek a meghagyást belföldi címen ismételten nem lehet kézbesíteni, mert meghalt (megszűnt), a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött [(3) és (4) bekezdés];
+g) a kötelezettnek a meghagyást belföldi címen ismételten nem lehet kézbesíteni, mert meghalt (megszűnt), a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött [(3) bekezdés];
 
 h) a jogosult követelése idő előtti vagy – az elévülés esetét ide nem értve – bírói úton nem érvényesíthető;
 
@@ -38,4 +38,4 @@ l) a jogosult a hiánypótlási felhívást követően a kitűzött határidő a
 
 (5) A fizetési meghagyás iránti kérelem elutasítására a Pp. 130. §-ának (3) bekezdését megfelelően alkalmazni kell.
 
-(6)
+(6) A fizetési meghagyás iránti kérelem elutasítása esetén a már kibocsátott fizetési meghagyás hatályát veszti.

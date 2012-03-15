@@ -15,3 +15,5 @@
 (7) A 62–74. § 2011. július 2-án a hatályát veszti.
 
 (8) A Magyar Országos Közjegyzői Kamara 2010. március 31-éig köteles biztosítani a MOKK rendszerének tesztelését a közjegyzők és a MOKK feletti törvényességi felügyeletet ellátó szerv részére, 2010. április 30-áig pedig az interneten is elérhetővé tenni a felhasználók számára a MOKK rendszerének tesztelésre alkalmas változatát. A MOKK rendszerének módosítását célzó, az eljárásban szereplő felek felhasználói jogosultságait érintő program-fejlesztés esetében a MOKK köteles biztosítani a MOKK feletti törvényességi felügyeletet ellátó szervnek a módosított program tesztelését.
+
+(9) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel megállapított rendelkezéseit a 2012. március 14-ét követően előterjesztett fizetési meghagyás kibocsátása, végrehajtás elrendelése vagy biztosítási intézkedés elrendelése iránti kérelem alapján indult eljárásokban kell alkalmazni.

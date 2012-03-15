@@ -8,4 +8,10 @@
 
 (4) Ha a jogerős fizetési meghagyást a 32. vagy a 33. § rendelkezései alapján, az ott meghatározott határidőn belül ellentmondással megtámadják, a meghagyás hatályát veszti, feltéve ha az ellentmondást a közjegyző hivatalból nem utasítja el, vagy e §-ok alkalmazását e törvény nem zárja ki.
 
-(5) Ha az ellentmondás elkésett, vagy nem az ellentmondás előterjesztésére jogosulttól származik, a közjegyző azt hivatalból elutasítja.
+(5) A közjegyző az ellentmondást hivatalból elutasítja, ha
+
+a) az elkésett,
+
+b) nem az ellentmondás előterjesztésére jogosulttól származik, vagy
+
+c) a jogi képviselővel rendelkező fél, a vállalkozás vagy egyéb jogi személy fél azt nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn.

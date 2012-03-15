@@ -1,3 +1,3 @@
-44. § (1) Az eljárási díj alapja a pénzkövetelés eljárás megindításakor fennálló, járulékok nélkül számított értéke (díjalap).
+44. § (1) Az eljárási díj alapja a pénzkövetelésnek az eljárás megindításakor fennálló, járulékok nélkül számított értéke (díjalap); a díjalapba a pénzkövetelés után járó, és azzal együtt érvényesített kamatkövetelés akkor sem számítandó be, ha e kamatköveteléssel egyidejűleg a kamatkövetelés után járó újabb kamatkövetelést is érvényesít a jogosult. Az önállóan érvényesített kamat- és egyéb járulékkövetelés a díjalapba beszámít.
 
 (2) Ha a fél egy eljárásban egy jogviszonyból eredő több igényét vagy több jogviszonyból eredő igényeit érvényesíti, a pénzkövetelés értékének megállapításakor – a járulékok figyelmen kívül hagyásával – az előterjesztett igények együttes értékét kell figyelembe venni.
