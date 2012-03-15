@@ -8,7 +8,7 @@
 
 a) büntetlen előéletű, és nem áll az igazságügyi szakértői vagy a szakterületének megfelelő tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 
-b) a kérelmében megjelölt szakterületen az igazságügyi szakértői tevékenység folytatásához meghatározott képesítéssel és – ha a miniszter rendelete eltérően nem rendelkezik – a képesítés megszerzésétől számított, legalább ötéves szakirányú szakmai gyakorlattal rendelkezik,
+b) a kérelmében megjelölt szakterületen az igazságügyi szakértői tevékenység folytatásához meghatározott vagy azzal egyenértékű képesítéssel és – ha jogszabály eltérően nem rendelkezik – a képesítés megszerzésétől számított, legalább ötéves szakirányú szakmai gyakorlattal rendelkezik,
 
 c) a szakterületén működő szakmai kamara tagja, ha a tevékenység folytatásához a kötelező kamarai tagságot jogszabály előírja,
 

@@ -66,7 +66,9 @@ sa) közvádra üldözendő szándékos bűncselekmény miatt indult eljárás m
 
 sb) indult etikai eljárás során kiszabott etikai büntetés, vagy a felmentés valamint az eljárás megszüntetésének ténye.
 
-t) annak ténye, hogy a szakértő az elektronikus kézbesítést vállalja.
+t) annak ténye, hogy a szakértő az elektronikus kézbesítést vállalja,
+
+u) az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”).
 
 2. Az igazságügyi szakértők névjegyzéke a gazdasági társaság következő adatait tartalmazza:
 

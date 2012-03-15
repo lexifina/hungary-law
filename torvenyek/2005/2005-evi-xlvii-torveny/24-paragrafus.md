@@ -1,6 +1,6 @@
 24. § A társaságot a névjegyzékből törölni kell, ha
 
-a) a cégbíróság a cégjegyzékből törli,
+a) a cégbíróság a cégjegyzékből – a 24/B. §-ban megjelölt eset kivételével – törli,
 
 b) nincs a névjegyzékben szereplő tagja vagy alkalmazottja,
 

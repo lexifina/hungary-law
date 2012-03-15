@@ -1,0 +1,1 @@
+24/B. § Ha a társaság társasági formaváltás vagy egyesülés útján szűnt meg, és a jogutód társaság a 20. § (1) bekezdésében foglalt feltételeknek megfelel, úgy a jogutódlást az igazságügyi szakértői névjegyzéket vezető hatóság a névjegyzékben átvezeti.

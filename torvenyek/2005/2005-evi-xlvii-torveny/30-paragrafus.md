@@ -1,6 +1,6 @@
 ## A szakértőjelölt, szakkonzultáns és a segédszemélyzet
 
-30. § (1) A szakértő a szakértői vélemény elkészítéséhez a névjegyzékben nem szereplő személy segítségét (szakkonzultáns), a szakvélemény előkészítéséhez szakértőjelölt közreműködését, a technikai jellegű tevékenység elvégzésére segédszemélyzetet vehet igénybe. A szakkonzultáns, a szakértőjelölt és a segédszemélyzet igénybevételéről a szakvéleményben a kirendelő hatóságot tájékoztatni kell, a szakvéleményben továbbá fel kell tüntetni, hogy a szakkonzultáns milyen szakkérdésekben nyilvánított véleményt.
+30. § (1) A szakértő a szakértői vélemény elkészítéséhez a megfelelő szakismerettel rendelkező más személy segítségét (szakkonzultáns), a szakvélemény előkészítéséhez szakértőjelölt közreműködését, a technikai jellegű tevékenység elvégzésére segédszemélyzetet vehet igénybe. A szakkonzultáns, a szakértőjelölt és a segédszemélyzet igénybevételéről a szakvéleményben a kirendelő hatóságot tájékoztatni kell, a szakvéleményben továbbá fel kell tüntetni, hogy a szakkonzultáns milyen szakkérdésekben nyilvánított véleményt.
 
 (2) A szakkonzultáns igénybevételéhez – ha a Kormány vagy a miniszter rendelete eltérően nem rendelkezik – a szakértőnek be kell szereznie a kirendelő hatóság hozzájárulását. Ha a szakvélemény elkészítéséhez személy vizsgálatára van szükség, és a kirendelő hatóság a kirendelő határozatban nem írja elő a szakkonzultáns személyéhez történő hozzájárulás kötelezettségét, a szakkonzultáns igénybevételéhez való hozzájárulást megadottnak kell tekinteni.
 
