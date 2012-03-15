@@ -42,7 +42,7 @@
 
 ## 3. Mindazon kérdésekre, melyekre vonatkozóan tényszerű információk, illetve adatok, vizsgálati eredmények állnak rendelkezésre, a válaszokat értelemszerűen: szövegesen vagy számszerűen, illetve a megfelelő rész aláhúzásával/bekarikázásával kell megadni!
 
-12. melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^185]
+12. melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^186]
 
 Kérelem, illetve igazolás ellenőrzött szerek szállítására
 
@@ -180,4 +180,4 @@ Dátum/Date: ...................................................................
 
 |  | aláírás (Authority’s signature) |
 
-[^185]: A 12. számú mellékletet a 153/2005. (VIII. 2.) Korm. rendelet 16. §-ának (6) bekezdése iktatta a szövegbe.
+[^186]: A 12. számú mellékletet a 153/2005. (VIII. 2.) Korm. rendelet 16. §-ának (6) bekezdése iktatta a szövegbe.

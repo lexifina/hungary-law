@@ -1,4 +1,4 @@
-## 33. §[^167]
+## 33. §[^168]
 
 ## Záró rendelkezések
 
@@ -6,10 +6,10 @@
 
 (2) A (3) bekezdés a rendelet kihirdetését követő harmadik napon, a 19. § (3) bekezdése, a 20. § (3) bekezdése, a 21. § (3) bekezdése és a 22. § (5) bekezdése 2005. január 1. napján lép hatályba.
 
-(3)–(5)[^168]
+(3)–(5)[^169]
 
-(6)–(7)[^169]
+(6)–(7)[^170]
 
-[^167]: A 33. §-t a 153/2005. (VIII. 2.) Korm. rendelet 17. §-ának (1) bekezdése hatályon kívül helyezte.
-[^168]: A 34. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 691. pontja hatályon kívül helyezte.
-[^169]: A 34. § (6)–(7) bekezdését a 258/2009. (XI. 20.) Korm. rendelet 19. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^168]: A 33. §-t a 153/2005. (VIII. 2.) Korm. rendelet 17. §-ának (1) bekezdése hatályon kívül helyezte.
+[^169]: A 34. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 691. pontja hatályon kívül helyezte.
+[^170]: A 34. § (6)–(7) bekezdését a 258/2009. (XI. 20.) Korm. rendelet 19. § (4) bekezdés a) pontja hatályon kívül helyezte.
