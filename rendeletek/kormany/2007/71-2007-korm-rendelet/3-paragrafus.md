@@ -1,6 +1,6 @@
 ## Fás szárú energetikai ültetvény telepítése és megszüntetése
 
-3. § (1)[^2] Fás szárú energetikai ültetvény telepítése csak engedély alapján végezhető. A fás szárú energetikai ültetvény telepítőjének a telepítés engedélyezése iránt az ingatlan fekvése szerint illetékes Erdészeti Igazgatósághoz – az 1. számú melléklet szerinti adattartalommal a Mezőgazdasági Szakigazgatási Hivatal által rendszeresített és a honlapján közzétett formanyomtatványon – kérelmet (a továbbiakban: kérelem) kell benyújtania.
+3. § (1)[^2] Fás szárú energetikai ültetvény telepítése csak engedély alapján végezhető. A fás szárú energetikai ültetvény telepítőjének a telepítés engedélyezése iránt az ingatlan fekvése szerint illetékes Erdészeti Igazgatósághoz – az 1. számú melléklet szerinti adattartalommal a Nemzeti Élelmiszerlánc-biztonsági Hivatal által rendszeresített és a honlapján közzétett formanyomtatványon – kérelmet (a továbbiakban: kérelem) kell benyújtania.
 
 (2) Több érintett ingatlan esetén valamennyi ingatlan tekintetében önálló kérelmet kell benyújtani.
 
@@ -14,7 +14,7 @@
 
 (7)[^6] Az Erdészeti Igazgatóság a telepítés engedélyezése tárgyában hozott határozatában feltünteti a fás szárú energetikai ültetvény telepítésére vonatkozó 1. számú melléklet szerinti adatokat és a kérelemhez csatolt dokumentumokban szereplő tényeket.
 
-[^2]: A 3. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 177. § (2) bekezdésével megállapított szöveg.
+[^2]: A 3. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 177. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 23. §-a szerint módosított szöveg.
 [^3]: A 3. § (3) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 11. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^4]: A 3. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 177. § (3) bekezdésével megállapított szöveg.
 [^5]: A 3. § (6) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 177. § (3) bekezdésével megállapított szöveg.
