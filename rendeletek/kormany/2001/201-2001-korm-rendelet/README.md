@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-201-20-
 | 2010-01-01 | 2001-201-20-22.11 | 201/2001. (X. 25.) Korm. rendelet |
 | 2011-01-01 | 2001-201-20-22.12 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-01-01 | 2001-201-20-22.13 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2012-03-15 | 2001-201-20-22.14 | 351/2010. (XII. 30.) Korm. rendelet |

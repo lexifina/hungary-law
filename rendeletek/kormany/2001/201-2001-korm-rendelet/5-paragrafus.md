@@ -8,7 +8,7 @@
 
 (4)[^26] Az üzemeltető az általa végzett, illetve végeztetett valamennyi fogyasztásra szánt ivóvízre vonatkozó vizsgálat eredményét negyedévenként elektronikus úton megküldi az illetékes hatóságnak. Ha a vizsgálatok során az 1. számú melléklet A) és B) részében meghatározott határértékeket meghaladó érték fordul elő vagy az 1. számú melléklet C), D), E) részében meghatározott jelző vízminőségi jellemzők (indikátor paraméterek) szennyezést jeleznek, illetve szennyezés veszélyével járó rendkívüli esemény fordul elő, a vízellátó rendszer üzemeltetője azonnal tájékoztatja az illetékes hatóságot annak érdekében, hogy az a 6. § (5) bekezdés szerinti intézkedést megtegye.
 
-(5)[^27] A vizsgálati eredmények összesítését, feldolgozását és értékelését, valamint a jelentések készítését helyi szinten az illetékes népegészségügyi szerv, központi szinten az OTH végzi. A 178/2002/EK rendelet szerinti ivóvíz élelmiszer-vállalkozásoknál történő felhasználása esetén a 4. § (1) bekezdés d) pontjában meghatározott megfelelőségi ponttól felhasznált ivóvíz minőségi értékelését az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, illetve a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) végzi. A nyilvántartást és a jelentést a 4. számú melléklet szerint kell elkészíteni.
+(5)[^27] A vizsgálati eredmények összesítését, feldolgozását és értékelését, valamint a jelentések készítését helyi szinten az illetékes népegészségügyi szerv, központi szinten az OTH végzi. A 178/2002/EK rendelet szerinti ivóvíz élelmiszer-vállalkozásoknál történő felhasználása esetén a 4. § (1) bekezdés d) pontjában meghatározott megfelelőségi ponttól felhasznált ivóvíz minőségi értékelését az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, illetve a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) végzi. A nyilvántartást és a jelentést a 4. számú melléklet szerint kell elkészíteni.
 
 (6) Az ivóvíz minőségének ellenőrzésére szolgáló vizsgálati módszereknek meg kell felelniük a 3. számú mellékletben meghatározott feltételeknek.
 
@@ -24,7 +24,7 @@
 [^24]: Az 5. § (2) bekezdése a 47/2005. (III. 11.) Korm. rendelet 2. §-ának (1) bekezdésével megállapított szöveg; azon ivóvizek tekintetében, amelyekre nem vonatkoznak ezek a technikai előírások lásd e módosító rendelet 7. §-át. Az 5. § (2) bekezdése a 65/2009. (III. 31.) Korm. rendelet 9. § (6) bekezdése szerint módosított szöveg.
 [^25]: Az 5. § (3) bekezdése a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^26]: Az 5. § (4) bekezdése a 65/2009. (III. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^27]: Az 5. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 84. § (8) bekezdésével megállapított szöveg.
+[^27]: Az 5. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 84. § (8) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^28]: Az 5. § (7) bekezdése a 65/2009. (III. 31.) Korm. rendelet 9. § (8) bekezdése szerint módosított szöveg.
 [^29]: Az 5. § (8) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 84. § (9) bekezdésével megállapított szöveg.
 [^30]: Az 5. § (9) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 84. § (9) bekezdésével megállapított szöveg.

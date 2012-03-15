@@ -322,4 +322,4 @@
 
 2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^64]
 
-[^64]: A 2. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének e) pontja, a 65/2009. (III. 31.) Korm. rendelet 8. § (2) bekezdése és 9. § (4) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 85. §-a szerint módosított szöveg.
+[^64]: A 2. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének e) pontja, a 65/2009. (III. 31.) Korm. rendelet 8. § (2) bekezdése és 9. § (4) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 85. §-a, a 23/2012. (II. 29.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
