@@ -1,3 +1,5 @@
-6. §[^6]
+6. § (1) A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény (a továbbiakban: vetőmagtörvény) 2. §-ának 9. és 25. pontjában, 7. §-ának (1) és (5) bekezdésében, 8. §-ában, 9. §-ának (1) és (2) bekezdésében, 10. §-ának (2) és (3) bekezdésében, 11. §-ának (1) bekezdésében, 12. §-ának (1)–(4) bekezdésében, 14. §-ának (1) és (3) bekezdésében, 15. §-ának (2) és (7)–(11) bekezdésében, 18. §-ának (3)–(4) bekezdésében, 19. §-ának (1) és (2) bekezdésében, 20. §-ának (1) és (3)–(6) bekezdésében, 23. §-a (1) bekezdésének a)–g) pontjában, h) pontjában a prebázis és bázis kategóriájú szőlő- és gyümölcs, valamint a szuperelit és elit fokozatú erdészeti és fás szárú energetikai szaporítóanyagok, a szuper elit szaporítási fokú vetőmag és a törzsültetvények vonatkozásában, i)–l) pontjában, 23. §-ának (3) és (4) bekezdésében, 24. §-ának b) pontjában, 26. §-ának (2) bekezdésében az a)–d) pont vonatkozásában, 27. §-ában, valamint 28. §-ának (1) és (3) bekezdésében foglaltak tekintetében a Kormány növénytermesztési hatóságként a NÉBIH-et jelöli ki.
 
-[^6]: Az 5–22. § a 32. § (2) bekezdése alapján 2012. március 15-én lép hatályba.
+(2) A NÉBIH a vetőmagtörvény szerinti feladatok ellátása érdekében fajtakísérleti állomásokat, illetve fajtakitermesztő állomást működtet.
+
+(3) A vetőmagvak és vegetatív szaporítóanyagok géntechnológiai eredetének vizsgálata, hatósági ellenőrzése tekintetében eljáró hatóságként a Kormány a NÉBIH-et jelöli ki.

@@ -1,3 +1,1 @@
-12. §[^12]
-
-[^12]: Az 5–22. § a 32. § (2) bekezdése alapján 2012. március 15-én lép hatályba.
+## 11. § A Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 3. §-a (1) bekezdés k) pontjában, 15. §-a (1) bekezdésének a) pontjában és 32. §-a (2) bekezdésében a Kormány élelmiszerlánc-felügyeleti szervként a NÉBIH-et jelöli ki.

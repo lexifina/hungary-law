@@ -1,5 +1,13 @@
 ## 9. A vadászati hatósági eljárásokban közreműködő szakhatóságok
 
-26. §[^26]
+## 26. § A Kormány
 
-[^26]: A 26–28. § a 32. § (2) bekezdése alapján 2012. március 15-én lép hatályba.
+a) a vadászterület természetvédelmi érdekből történő különleges rendeltetésének megállapítása iránti eljárásban – természetvédelmi érdek fennállásának kérdése tekintetében –,
+
+b) a Magyarország állatföldrajzi környezetében nem honos állatfaj vadászterületen történő vadászati célú telepítésének engedélyezésére irányuló eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –,
+
+c) a vadaskert védett természeti területen, barlang védőövezetében történő létesítése iránti eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, valamint
+
+d) a vadaspark védett természeti területen, barlang védőövezetében történő létesítése iránti eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –,
+
+az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.

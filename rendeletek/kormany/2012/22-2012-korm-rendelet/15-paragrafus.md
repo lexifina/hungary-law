@@ -1,3 +1,3 @@
-15. §[^15]
+15. § (1) A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény (a továbbiakban: Vtv.) 21. §-ának (2) bekezdésében, 22. §-ának (3) és (6) bekezdésében, 24. §-ának (2)–(3) bekezdésében, 25/A. §-ának (2) bekezdésében, 26. §-ában, 33. §-ának (2) bekezdésében, 38/A. §-ának (4) bekezdésében, 74. §-a (6) bekezdésében, 82. §-ában, 88. §-ában, 89. §-ában, 89/A. §-a (2)–(5) bekezdésében, valamint a 92. § (1) bekezdésében foglaltak tekintetében a Kormány vadászati hatóságként a NÉBIH-et jelöli ki.
 
-[^15]: Az 5–22. § a 32. § (2) bekezdése alapján 2012. március 15-én lép hatályba.
+(2) Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 4. §-a (2) bekezdésének b) pontjában, 16. §-ának (6) bekezdésében, 19. §-ának (1) bekezdésében, 20. § (4) bekezdésében, 22. §-ának (3) bekezdésében, valamint 25. §-ának (4) bekezdésében foglaltak tekintetében a Kormány vadászati hatóságként a NÉBIH-et jelöli ki.

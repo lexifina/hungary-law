@@ -1,3 +1,1 @@
-11. §[^11]
-
-[^11]: Az 5–22. § a 32. § (2) bekezdése alapján 2012. március 15-én lép hatályba.
+## 10. § A NÉBIH ellátja a szakmai szintű hazai és nemzetközi állatvédelmi kapcsolattartói feladatokat, szervezi az állami állatvédelmi feladatok végrehajtását, szakmailag előkészíti az állatvédelmi szabályozást, ellátja a jogszabályban meghatározott egyéb állatvédelmi feladatokat.
