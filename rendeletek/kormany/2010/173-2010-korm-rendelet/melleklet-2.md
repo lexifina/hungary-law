@@ -12,7 +12,7 @@
 
 | 5 |  | külső villamos energia ellátás kiépítésére és oszlop áthelyezésére vonatkozó engedélyek | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 6 |  | erdő igénybevétel és fakivágási engedély | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 6 |  | erdő igénybevétel és fakivágási engedély | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 7 |  | termőföld más célú hasznosítására vonatkozó engedély | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
@@ -30,7 +30,7 @@
 
 | 14 |  | külső villamos energia ellátás kiépítésére vonatkozó engedély | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 15 |  | erdő igénybevétel és fakivágási engedély | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 15 |  | erdő igénybevétel és fakivágási engedély | Baranya Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 16 |  | termőföld más célú hasznosítására vonatkozó engedély | megyei kormányhivatal földhivatala | földügyért felelős miniszter |
 
@@ -64,7 +64,7 @@
 
 | 5 | Területrendezési előírásokkal való összhang | fővárosi és megyei kormányhivatal építésügyi hivatalának állami főépítésze | területrendezésért felelős miniszter |
 
-| 6 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 6 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 7 | Termőföld mennyiségi védelme | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
@@ -86,7 +86,7 @@
 
 | 5 | Tűzvédelem | megyei katasztrófavédelmi igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 6 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 7 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -112,7 +112,7 @@
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 3 | Természetvédelem | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -122,7 +122,7 @@
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2 | Talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 3 | Természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -166,7 +166,7 @@
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Talajvédelem | megyei kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 2 | Talajvédelem | megyei kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 3 | Helyi természetvédelem | települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
 
@@ -184,4 +184,4 @@
 
 | 2 | Kulturális örökségvédelem | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-[^4]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^4]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 55. §-a szerint módosított szöveg.
