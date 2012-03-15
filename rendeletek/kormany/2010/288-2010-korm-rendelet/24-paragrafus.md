@@ -6,4 +6,7 @@
 
 (3) A fővárosi és megyei kormányhivatal törzshivatala és szakigazgatási szerve ellátja a törvényben, illetve kormányrendeletben hatáskörébe utalt egyéb feladatokat.
 
+(4)[^30] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 47/B. §-ának (1) bekezdésében foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a fővárosi és megyei kormányhivatalt jelöli ki.
+
 [^29]: A 24. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^30]: A 24. § (4) bekezdését a 23/2012. (II. 29.) Korm. rendelet 59. §-a iktatta be.
