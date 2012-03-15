@@ -24,13 +24,13 @@
 
 | 11. |  |  | földmérési hatósági eljárások | Tatai Körzeti Földhivatal | Komárom-Esztergom Megyei Kormányhivatal Földhivatala |
 
-| 12. |  |  | erdővédelmi hatósági eljárások | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 12. |  |  | erdővédelmi hatósági eljárások | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 13. |  |  | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
 
 | 14. |  |  | bányahatósági eljárások | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 15. |  |  | talajvédelmi hatósági eljárások | Komárom-Esztergom Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 15. |  |  | talajvédelmi hatósági eljárások | Komárom-Esztergom Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 16. |  |  | kulturális örökségvédelmi hatósági eljárások | Fejér Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -88,9 +88,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | termőföldvédelem | Tatai Körzeti Földhivatal | Komárom-Esztergom Megyei kormányhivatal földhivatala |
 
-| 16. | talajvédelem | Komárom-Esztergom Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 16. | talajvédelem | Komárom-Esztergom Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 17. | erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 17. | erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 18. | kulturális örökségvédelem | Fejér Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -100,6 +100,6 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 21. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 22. | élelmiszer-biztonság | Komárom-Esztergom Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 22. | élelmiszer-biztonság | Komárom-Esztergom Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 274. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 274. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 32. §-a, a 23/2012. (II. 29.) Korm. rendelet 52. §-a szerint módosított szöveg.
