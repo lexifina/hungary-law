@@ -16,7 +16,7 @@ ab) a Magyar Honvédség létesítményeinek területén működtetni kívánt �
 
 b) állatgyógyászati készítmény vagy annak hatóanyaga, továbbá növényvédő szer és hatóanyagai forgalmazása esetén – az állatgyógyászati készítmények és azok hatóanyagának, valamint a növényvédő szerek és hatóanyagaik forgalmazására vonatkozó követelményeknek való megfelelés kérdésében
 
-ba)[^9] állatgyógyászati készítmény nagykereskedelme, valamint állatgyógyászati készítmény hatóanyagainak forgalmazása vonatkozásában első fokú eljárásban a Mezőgazdasági Szakigazgatási Hivatalt,
+ba)[^9] állatgyógyászati készítmény nagykereskedelme, valamint állatgyógyászati készítmény hatóanyagainak forgalmazása vonatkozásában első fokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
 bb)[^10] állatgyógyászati készítmény kiskereskedelme esetén első fokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság), növényvédő szer és hatóanyagai forgalmazása esetén első fokú eljárásban a növény- és talajvédelmi igazgatóságot.
 
@@ -41,7 +41,7 @@ f)[^13] a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet
 (6)[^14] A 3/a. melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
 
 [^8]: A 7. § (4) bekezdés a) pont aa) alpontja a 351/2010. (XII. 30.) Korm. rendelet 257. § (1) bekezdése szerint módosított szöveg.
-[^9]: A 7. § (4) bekezdés b) pont ba) alpontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (4) bekezdésével megállapított szöveg.
+[^9]: A 7. § (4) bekezdés b) pont ba) alpontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (4) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 48. §-a szerint módosított szöveg.
 [^10]: A 7. § (4) bekezdés b) pont bb) alpontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (4) bekezdésével megállapított szöveg.
 [^11]: A 7. § (4) bekezdés d) pontja a 158/2011. (VIII. 11.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
 [^12]: A 7. § (4) bekezdés e) pontja a 158/2011. (VIII. 11.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
