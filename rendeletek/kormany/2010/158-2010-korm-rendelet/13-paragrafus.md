@@ -18,7 +18,7 @@ c) a támogatott alap-, vagy származtatott összetevő termék-, vagy KN-kódj�
 
 d) a gyártási receptúra adatokat.
 
-(3) Az ügyfél kérheti a termék összetételének meghatározása céljából hatósági analízis elvégzését. Hatósági analízis elvégzésére az MgSzH akkreditált laboratóriumai jogosultak.
+(3)[^7] Az ügyfél kérheti a termék összetételének meghatározása céljából hatósági analízis elvégzését. Hatósági analízis elvégzésére a NÉBIH akkreditált laboratóriumai jogosultak.
 
 (4) Az MVH a nyilvántartásba vételről dönt és a receptet nyilvántartási számmal látja el. A nyilvántartási számot kiszállításkor fel kell tüntetni az elektronikus árunyilatkozat 44. rovatában.
 
@@ -31,3 +31,5 @@ b) gyártási eljárás ellenőrzése,
 c) mintavételen alapuló laboratóriumi analízis alkalmazása.
 
 (6) Az MVH abban az esetben, ha a bejelentett recept nem felel meg a valós helyzetnek, a recept nyilvántartásba vételt visszavonja. Az ügyfél köteles a receptről szóló nyilatkozatban foglaltakban történő bármely változást az MVH részére bejelenteni.
+
+[^7]: A 13. § (3) bekezdése a 23/2012. (II. 29.) Korm. rendelet 54. § (4) bekezdése szerint módosított szöveg.

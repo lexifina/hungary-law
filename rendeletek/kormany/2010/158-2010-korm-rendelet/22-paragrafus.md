@@ -1,6 +1,6 @@
-## 21. §[^6]
+## 21. §[^9]
 
-22. §[^7]
+22. §[^10]
 
-[^6]: A 21. §-t a 22. § (2) bekezdése hatályon kívül helyezte.
-[^7]: A 22. §-t a (3) bekezdés hatályon kívül helyezte.
+[^9]: A 21. §-t a 22. § (2) bekezdése hatályon kívül helyezte.
+[^10]: A 22. §-t a (3) bekezdés hatályon kívül helyezte.
