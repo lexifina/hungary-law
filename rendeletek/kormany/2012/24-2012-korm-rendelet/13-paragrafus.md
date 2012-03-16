@@ -1,1 +1,0 @@
-## „(6) A vetőmagvak és vegetatív szaporítóanyagok géntechnológiai eredetének vizsgálatában, hatósági ellenőrzésében, az ezzel kapcsolatban hozott hatósági döntés végrehajtásában a NÉBIH irányítása mellett a megyei kormányhivatal növény- és talajvédelmi igazgatósága közreműködik.”
