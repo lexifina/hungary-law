@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-7-20-0A
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-03-15 | 2012-7-20-0A.1 | 7/2012. (III. 7.) BM rendelet |
+| 2012-03-16 | 2012-7-20-0A.2 | 2010: CXXX. törvény |
