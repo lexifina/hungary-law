@@ -24,6 +24,6 @@ k)
 
 l)
 
-m) 219. §-a és azt megelőző alcíme,
+m)
 
-n) 270. § (4) bekezdése.
+n)
