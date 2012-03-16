@@ -1,7 +1,9 @@
-## 37. § Az M7-es autópálya, Sávoly község északi közigazgatási határa, a Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt területen megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 248/2008. (X. 14.) Korm. rendelet (a továbbiakban: R23.) 1. és 2. számú melléklete e rendelet Melléklete szerint módosul.
+## 37. §[^37]
 
 ## 38. A telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő
 
 ## és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről
 
 ## és a bejelentés szabályairól szóló 358/2008. (XII. 31.) Korm. rendelet módosítása
+
+[^37]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

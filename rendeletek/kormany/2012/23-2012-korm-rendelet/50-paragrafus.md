@@ -1,3 +1,5 @@
-## 49. § A kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési tervek készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek köréről és az eljárás részletes szabályairól szóló 282/2009. (XII. 11.) Korm. rendelet (a továbbiakban: R31.) 1. és 3. melléklete e rendelet Melléklete szerint módosul.
+## 49. §[^49]
 
 ## 50. A Vát és Porpác települések közigazgatási területén megvalósuló repülőtér-fejlesztéssel összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 351/2009. (XII. 30.) Korm. rendelet módosítása
+
+[^49]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

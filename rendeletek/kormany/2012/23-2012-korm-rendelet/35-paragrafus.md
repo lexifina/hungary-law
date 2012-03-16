@@ -1,3 +1,5 @@
-## 34. § A Budapest Ferihegy Nemzetközi Repülőtér rövid távú fejlesztése projekthez tartozó egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 153/2008. (VI. 6.) Korm. rendelet (a továbbiakban: R20.) 2. számú melléklete e rendelet Melléklete szerint módosul.
+## 34. §[^34]
 
 ## 35. A Kecskemét közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 192/2008. (VII. 30.) Korm. rendelet módosítása
+
+[^34]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 47. § Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet (a továbbiakban: R30.) 5. melléklete e rendelet Melléklete szerint módosul.
+## 47. §[^47]
 
 ## 48. A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet módosítása
+
+[^47]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

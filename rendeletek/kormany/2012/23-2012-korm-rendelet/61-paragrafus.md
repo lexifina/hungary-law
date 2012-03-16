@@ -1,5 +1,5 @@
+## 60. §[^60]
+
 ## 61. A Kulturális Örökségvédelmi Hivatalról, a kulturális örökségvédelmi szakigazgatási szervekről, és eljárásaikra vonatkozó általános szabályokról szóló 324/2010. (XII. 27.) Korm. rendelet módosítása
 
-61. § (1) A Kulturális Örökségvédelmi Hivatalról, a kulturális örökségvédelmi szakigazgatási szervekről, és eljárásaikra vonatkozó általános szabályokról szóló 324/2010. (XII. 27.) Korm. rendelet (a továbbiakban: R42.) 9. § (1) bekezdés a) pontjában a „Mezőgazdasági Szakigazgatási” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági” szöveg lép.
-
-(2) Az R42. 3. melléklete e rendelet Melléklete szerint módosul.
+[^60]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
