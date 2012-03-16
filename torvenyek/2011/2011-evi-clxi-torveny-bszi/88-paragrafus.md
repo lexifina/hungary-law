@@ -10,4 +10,4 @@
 
 (3) Az OBT létszáma 15 fő. Tagjai: a Kúria elnöke, továbbá 14 bíró.
 
-(4)
+(4) Az OBT 14 bíró tagját a bírák küldöttértekezlete a küldöttek közül titkosan, szavazattöbbséggel választja meg.
