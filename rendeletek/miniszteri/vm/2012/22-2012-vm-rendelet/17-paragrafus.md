@@ -1,0 +1,3 @@
+## 16. § A kölcsönös megfeleltetésre vonatkozó szabályok megsértése esetén az uniós jogi aktuson alapuló jogkövetkezményeket az e rendelet alapján igénybe vett emelt összegű támogatásra figyelemmel kell alkalmazni
+
+## Záró rendelkezések

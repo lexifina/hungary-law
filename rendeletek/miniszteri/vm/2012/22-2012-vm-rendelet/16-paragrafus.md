@@ -1,0 +1,1 @@
+## 15. § Az MVH a támogatási jogosultság alapján megállapított támogatás kifizetését követően ellenőrzést végez a 3. §-ban foglaltak teljesülését illetően. Az ellenőrzés kiterjed a szerkezetátalakítási programban résztvevő valamennyi ügyfél 10%-ára.

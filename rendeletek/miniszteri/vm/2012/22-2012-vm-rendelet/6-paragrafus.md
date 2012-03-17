@@ -1,0 +1,1 @@
+## 5. § A szerkezetátalakítási program alapján vállalt feltétel nem teljesítése vagy részleges teljesítése miatt jogkövetkezményként alkalmazott nem teljesítési bírság az EMGA-ból finanszírozott egységes területalapú támogatás igénybevételi szabályainak megsértése miatt alkalmazott jogkövetkezménytől függetlenül kerül alkalmazásra.
